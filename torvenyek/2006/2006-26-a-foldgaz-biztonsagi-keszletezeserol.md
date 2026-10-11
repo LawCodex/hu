@@ -1,0 +1,609 @@
+---
+title: "2006. évi XXVI. törvény a földgáz biztonsági készletezéséről"
+identifier: "2006. évi XXVI. törvény"
+njt_id: "2006-26-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2006/26"
+type: act
+jurisdiction: hu
+language: hu
+date: 2006-02-17
+in_force_from: 2009-11-01
+last_amended: 2025-11-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-26-00-00"
+retrieved: 2026-10-12
+---
+
+# 2006. évi XXVI. törvény a földgáz biztonsági készletezéséről[^1]
+
+Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a földgáz biztonsági készletezés átlátható és versenysemleges szabályozásának kialakításával a következő törvényt alkotja:
+
+## A törvény hatálya
+
+### 1. §[^2]
+
+E törvény hatálya kiterjed:
+
+a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövetség),
+
+b) a Magyar Energetikai és Közmű-szabályozási Hivatalra (a továbbiakban: Hivatal),
+
+c)[^3] a szállítási rendszerirányítóra, a szállítási rendszerüzemeltetői, elosztói, a földgáztárolói, az egyetemes földgázszolgáltatói, a földgázkereskedői engedélyesekre – ideértve az LNG-kereskedelmet folytató engedélyeseket is –, valamint a földgáztermelőkre,
+
+d) a földgázfelhasználóra a földgáz határon keresztül történő beszállítása, illetve a földgáz szervezett piacon történő vásárlása körében,
+
+e) a földgáz biztonsági készletezésben és az azzal összefüggő tevékenységekben közreműködő szervezetek eljárására, és
+
+f) a földgázt felhasználó személyre azon földgáz felhasználása körében, amelyhez nem az alábbi ügyletek során jut hozzá:
+
+fa) az egyetemes földgázszolgáltató, a földgázkereskedő vagy a földgáztermelő a felhasználónak földgázt értékesít, vagy
+
+fb) a felhasználó földgázt hoz be harmadik országból, az Európai Unió tagállamából vagy a szervezett piacon földgázt vásárol.
+
+### 1/A. §[^4]
+
+E törvényben nem szabályozott kérdésekben a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény rendelkezései az irányadók.
+
+### 1/B. §[^5]
+
+Az e törvényben nem meghatározott fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.), valamint a bányászatról szóló 1993. évi XLVIII. törvény rendelkezéseivel összhangban kell értelmezni.
+
+## Értelmező rendelkezések
+
+### 2. §[^6]
+
+E törvény alkalmazásában
+
+a)[^7] *biztonsági földgáztároló:* a földgáz tárolására alkalmas földalatti természetes földtani szerkezet vagy mesterségesen kialakított földalatti üreg, továbbá ezeknek a földgázkészlet szempontjából elkülönített része, amely az e törvény szerinti biztonsági földgázkészlet tárolására is szolgál;
+
+b)[^8]
+
+c)[^9]
+
+d) *földgáz biztonsági készletezés:* földalatti gáztárolóban végzett nem kereskedelmi célú földgáztárolás;
+
+e)[^10]
+
+f)[^11]
+
+g)[^12]
+
+h)[^13]
+
+i)[^14]
+
+j)[^15]
+
+k) *földgázkereskedő:* az az engedélyes, aki a földgáz üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlására és értékesítésére a Hivataltól engedélyt kapott;
+
+l)[^16] *biztonsági földgáztároló engedélyes:* az a gazdasági társaság, amely a 4. § (1) bekezdésben meghatározott tárolót üzemelteti és az e törvény szerinti biztonsági földgáz készlet tárolására a Hivataltól engedélyt kapott;
+
+m)[^17] *földgáz biztonsági készlet:* a felhasználók földgázellátási biztonságának megőrzése érdekében az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) által meghatározott földgáz mennyiség.
+
+## A földgáz biztonsági készletezés
+
+### 3. §
+
+(1) A Szövetség köteles az e törvényben meghatározott módon és mértékben földgáz biztonsági készletet létrehozni és fenntartani.
+
+(2)[^18] A földgáz biztonsági készletet működésre engedélyezett, műszakilag ellenőrzött, a biztonságtechnikai és környezetvédelmi jogszabályok előírásainak megfelelő, olyan föld alatti tárolótérben kell tárolni, amely alkalmas arra, hogy a készletezett földgáz mennyiségét megőrizze és a felszíni gázelőkészítést követően a szállítóvezetékre való betáplálásra alkalmas minőségben biztosítsa.
+
+(3) Az e törvény hatálya alá tartozó tevékenységeket az élet, az egészség, a környezet és a természet védelmének, a fogyasztóvédelemnek, a műszaki-biztonsági, a kémiai biztonsági, munka-egészségügyi és a minőségbiztosítási előírásokban meghatározott követelményeknek megfelelően kell végezni.
+
+(4)[^19] A földgáz biztonsági készlet elsősorban a védett felhasználók ellátását szolgálja.
+
+(5)[^20] A (4) bekezdésben foglaltakon túlmenően a földgáz biztonsági készlet felhasználható
+
+a) szolidaritást kérő másik tagállam szolidaritási alapon védett felhasználói,
+
+b)[^21] földgázkereskedő lehetetlenülése esetén az érintett felhasználók,
+
+c)[^22] nem egyetemes szolgáltatásban vételező felhasználók földgázellátási válsághelyzetben történő földgázellátása érdekében, valamint
+
+d)[^23] a villamos energiáról szóló törvény szerinti termelői működési engedélyesnek minősülő felhasználó felhasználási helyének (a továbbiakban: erőmű) a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló kormányrendelet szerinti korlátozása esetén az erőmű földgázellátása érdekében, és
+
+e)[^24] vészhelyzeti szint esetén a rendszerüzemeltetők saját készletből vagy fennálló szerződéséből nem fedezhető, rendszerüzemeltetéshez szükséges földgázteljesítményének biztosítására.
+
+(6)[^25] A védett felhasználót ellátó földgázkereskedő a védett felhasználói kör ellátásával arányos mértékben, valamint a saját jogon eljáró védett felhasználó a saját ellátásával arányos mértékben jogosult – a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekben – a földgáz biztonsági készlethez hozzáférni.
+
+### 3/A. §[^26]
+
+(1) A Szövetség nemzetközi szerződés alapján más állam felhasználóinak ellátása céljából is készletezhet.
+
+(2) Az (1) bekezdés szerinti nemzetközi szerződésben meg kell határozni, hogy a más állam milyen napi ütemezésben, milyen alkalmi és éves földgázmennyiség mértékéig, milyen visszapótlási feltételekkel és milyen készletezési díj ellenében fér hozzá a földgázkészlethez.
+
+### 4. §[^27]
+
+(1)[^28] A földgáz biztonsági készletet a miniszter által rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amely a kitárolási kapacitást legalább a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül képes biztosítani.
+
+(2)[^29] A földgáz biztonsági készlet mértékét, valamint erre tekintettel a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat, továbbá az értékesítés módját, a visszapótlásra kötelezettet, a visszapótlás feltételeit és rendjét a miniszter rendeletben határozza meg.
+
+(3)[^30] A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 2017/1938/EU európai parlamenti és tanácsi rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
+
+(4) Készletbeszerzési vagy készletértékesítési kötelezettség esetén a Szövetségnek a földgáz betárolását vagy kitárolását a miniszter rendeletében meghatározott ütemezéssel és határidővel kell végrehajtania.
+
+(5)[^31] Készletértékesítés esetén a miniszter rendeletben állapítja meg az értékesítendő földgáz mennyiségét, a földgáz-értékesítés módját, a készlet értékét, amely alapján meghatározott árnál alacsonyabb áron a földgáz nem értékesíthető, valamint a kedvezményezettek körét. Készletértékesítés során a miniszter által megállapított készlet értéke legalább az átlagos beszerzési értékkel egyezik meg. A készletértékesítést követően a Szövetség az értékesített földgáz árát a hitelei törlesztésére fordítja.
+
+(6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
+
+(7)[^32]
+
+(8)[^33] A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a Get. szerint földgáz kereskedelemnek.
+
+(9)[^34] A Get. földgáztárolásra és engedélyezésre vonatkozó rendelkezéseit e törvény szerinti eltéréssel kell alkalmazni a földgáz biztonsági készletre a földgáz biztonsági tárolás és a biztonsági földgáz tárolói engedély tekintetében. A biztonsági földgáz tárolóban elhelyezett a földgáz biztonsági készletet meghaladó földgáz készletre a Get. földgáz tárolásra és engedélyezésre vonatkozó szabályait kell alkalmazni.
+
+(10)[^35] A földgáz biztonsági készlethez szabad hozzáféréssel kizárólag csak a jogszabályban meghatározottak és csak a jogszabályban meghatározott feltételek fennállása esetén és idején rendelkeznek.
+
+(11)[^36] A földgáz biztonsági készlet tárolásáért fizetett díj nem haladhatja meg a Hivatal által a Get. szerint megállapított földgáztárolási díjat.
+
+### 4/A. §[^37]
+
+(1) Földgázkereskedő lehetetlenülése esetén az érintett felhasználók földgázellátását a végső menedékes földgázkereskedő kijelöléséig a biztonsági földgázkészletből kell biztosítani.
+
+(2) A földgázkereskedő lehetetlenülése esetén a Hivatal a földgázkereskedő engedélyét felfüggesztő határozatát az érintett földgázkereskedő és rendszerüzemeltetők mellett, egyidejűleg a Szövetséggel is közli. A Szövetség a határozat közlésének időpontjától a végső menedékes földgázkereskedő kijelölésének időpontjáig köteles a biztonsági földgázkészletből a szükséges földgázmennyiséget a szállítási rendszerüzemeltető rendelkezésére bocsátani az érintett felhasználók folyamatos földgázellátásának biztosítása érdekében.
+
+(3)[^38] A kijelölt végső menedékes földgázkereskedő
+
+a) a határozat közlésének időpontjától a kijelölés időpontjáig felhasznált biztonsági készlet mennyiségének ellenértékét a Szövetség részére, valamint
+
+b) a szállítással és kitárolással kapcsolatos költségeket a rendszerüzemeltetők részére
+
+köteles megfizetni a kijelölés időpontjától számított 90 napon belül a rendszerüzemeltetők által kiállított jegyzőkönyvek alapján.
+
+(4) Az érintett felhasználók a felfüggesztő határozat közlésének időpontja és a végső menedékes földgázkereskedő kijelölésének időpontja közötti fogyasztásukat a kijelölést követően a kijelölt végső menedékes kereskedővel kötelesek elszámolni és annak ellenértékét számára kötelesek megtéríteni.
+
+(5) A biztonsági készletnek a földgázkereskedő lehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat – különösen a felhasználásra kerülő biztonsági készlet árának megállapítására vonatkozó előírásokat – a végső menedékes szolgáltatásról szóló kormányrendelet tartalmazza.
+
+## A biztonsági készlet felhasználása
+
+### 5. §[^39]
+
+(1)[^40] A miniszter a földgáz biztonsági készlet felhasználását földgázellátási válsághelyzet elrendelése vagy üzemzavar esetén rendeletben teszi lehetővé.
+
+(2) A miniszter a biztonsági készlet felhasználására vonatkozó rendeletben meghatározza:
+
+a) a felhasználás engedélyezésének okát és célját,
+
+b) a felhasználásra engedélyezett földgáz mennyiségét,
+
+c) a felhasznált készletek visszapótlásának rendjét,
+
+d)[^41] az igénybevételre jogosultak körét.
+
+(3) A felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket a miniszter rendeletben állapítja meg. Az árat és az áralkalmazási feltételeket úgy kell megállapítani, hogy az megfeleljen
+
+a) a földgáz biztonsági készlet átlagos értéke vagy
+
+b) a földgáz egyetemes szolgáltatásához kapcsolódó árszabályozás kereteiről szóló mindenkor hatályos miniszteri rendeletben szereplő, a földgáz aktuális árát meghatározó képlet alapján az adott naptári negyedévben számolt ára
+
+közül az eladáskori magasabb értéknek.
+
+(3a)[^42] A 3. § (5) bekezdés c) pontja szerinti célból történő készletfelhasználás esetén a (3) bekezdés szerint meghatározott érték harmincszorosát kell megállapítani.
+
+(4) A miniszter a biztonsági készletből történő felhasználás engedélyezése esetén haladéktalanul tájékoztatja a Kormányt és az Európai Bizottságot
+
+a) a felhasználás indokairól,
+
+b) a felhasznált készletek visszapótlása érdekében tett intézkedésekről,
+
+c) a készletek előre látható alakulásáról a visszapótlás végrehajtásáig.
+
+### 5/A. §[^43]
+
+(1)[^44] A 3. § (5) bekezdés d) pontjában meghatározott erőmű részéről jelentkező földgázigény kielégítését a Szövetség biztosítja a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből a miniszter által meghatározott mértékben, de legfeljebb 120 millió m<sup>3</sup> mennyiségig.
+
+(2) A Szövetség a korlátozás elrendelésének időpontjától köteles biztosítani a biztonsági földgázkészletből a szükséges földgázmennyiséget a szállítási rendszerirányító által meghatározottak szerint. A szállítási rendszerirányító a szükséges földgázmennyiségről egyeztet a villamos energiáról szóló törvény szerinti átviteli rendszerirányítóval.
+
+(3) Az erőmű részére az (1) bekezdés szerinti készletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket a miniszter rendeletben állapítja meg, azzal, hogy az nem lehet alacsonyabb, mint a földgáz biztonsági készlet átlagos értéke.
+
+## Különleges földgázkészlet[^45]
+
+### 5/B. §
+
+(1) A különleges földgázkészlet a miniszter által meghatározott földgázmennyiség (a továbbiakban: különleges földgázkészlet), amelyet az 5/C. § (1) és (2) bekezdés szerint hozott létre.
+
+(2) A Szövetség az e törvényben meghatározott módon tároltatja és értékesíti a különleges földgázkészletet, amelyet rezsivédelmi készletezési szolgáltatás keretében az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint tart fent. A különleges földgázkészlet a Szövetség tulajdonát képezi.
+
+(3) A rezsivédelmi készletezési szolgáltatás biztosításáért a Szövetség az e törvény végrehajtására kiadott kormányrendeletben meghatározott ellentételezésre jogosult. A rezsivédelmi készletezési szolgáltatás biztosítása fejében a Szövetségnek kifizetett ellentételezést a számvitelről szóló törvény szerinti egyéb bevételnek kell tekinteni. Az ellentételezés nem minősül az általános forgalmi adóról szóló törvény szerinti szolgáltatásnyújtásnak, összege visszafizetési kötelezettség nélkül átvett pénzeszköznek tekintendő.
+
+### 5/C. §
+
+(1) A különleges földgázkészlet teljes mennyiségének a hazai földgázrendszer virtuális kereskedelmi pontjától (a továbbiakban: MGP pont) a földgáztárolóig történő szállíttatását, tároltatását, beleértve a betároltatást, mobilkapacitások lekötését, kitároltatást, valamint a kitárolt mennyiség MGP pontig történő szállíttatását az egyetemes szolgáltatót ellátó földgázkereskedő (a továbbiakban: Kereskedő) logisztikai szolgáltatási szerződés keretében (a továbbiakban: Szolgáltatás) biztosítja a Szövetség részére.
+
+(2) A különleges földgázkészletet a Kereskedő hazai földgáztárolóban tárolja azzal, hogy kormányrendelet – a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából – a teljes mennyiség vonatkozásában egyedi tárolót is kijelölhet a különleges földgázkészlet tárolására, valamint a földgáztároló engedélyes működési engedélyében rögzített nyilvántartására.
+
+(3) A különleges földgázkészlethez tartozó, a hazai földgáztárolókban rendelkezésre álló kapacitásokhoz meglévő, nem megszakítható minimum betárolási és – az adott hazai földgáztárolóban tárolt különleges földgázkészlet kitárolását 70 napnál nem rövidebb időn belül biztosító – kitárolási kapacitások mértékét a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg.
+
+(4) A Szolgáltatásért fizetendő díj megegyezik a Kereskedő által a hazai földgáztárolóknak fizetendő kapacitás- és forgalmi díj, valamint a Szolgáltatáshoz kapcsolódóan a szállítási rendszerüzemeltetőnek fizetendő kapacitás- és forgalmi díj összegével. Ezen tételek közül a mobilkapacitásért fizetendő díj nem haladhatja meg a 0,3906 forint/kWh/év mértéket.
+
+### 5/D. §
+
+(1) A különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelekkel és azok biztosítékával kapcsolatban tett intézkedések, jogcselekmények, jognyilatkozatok nem érintik a Szövetségnek a különleges földgázkészlet létrehozásához és fenntartásához szükséges hitelein kívüli hitelállományához kapcsolódó hitelezési és biztosítéki jogviszonyait.
+
+(2) A különleges földgázkészletre zálogjog és a biztosítéki célú vételi jog nem alapítható.
+
+(3) A különleges földgázkészlet mentes a bírósági végrehajtásról szóló törvény szerinti végrehajtás alól, és nem tartozik a gazdálkodó szervezet csődeljárásról és felszámolási eljárásról szóló törvényben meghatározott vagyonába.
+
+(4) A Szövetség a különleges földgázkészlet létrehozásához és fenntartásához kapcsolódó eszközeit és forrásait, bevételeit és ráfordításait a belső számvitelében elkülöníti a kőolaj- és kőolajtermék-készletezési, a földgáz-készletezési, valamint a nem készletezési tevékenységeitől.
+
+### 5/E. §
+
+(1) A különleges földgázkészlet pótlásához és fenntartásához szükséges feltételeket a miniszter az e törvény végrehajtására kiadott rendeletben határozza meg, amelyben rögzíti
+
+a) a szükséges hitelfelvétel legmagasabb mértékét,
+
+b) a tagi hozzájárulás mértékét és
+
+c) a földgáz legmagasabb beszerzési árát, amely nem lehet magasabb, mint
+
+ca) a Kereskedő által a különleges földgázkészlet biztosításához szükséges földgázforrás beszerzése céljából 2022. szeptember 1. napjáig megkötött szerződés alapján átvett földgázmennyiség ára, vagy
+
+cb) a földgázkereskedő által egyéb forrásból beszerzett földgázmennyiség esetében a szerződéskötés időpontjában érvényes piaci árak
+
+alapján képzett, és – bármely forrás esetén – legfeljebb az MGP pontig felmerülő, a rendszerhasználati díjakat, a kapcsolódó árfixálás költségeit tartalmazó ár.
+
+(2) A Szövetség a különleges földgázkészlet pótlásához szükséges földgázt a miniszteri rendeletben meghatározottak szerint szerzi be.
+
+(3) A különleges földgázkészlet beszerzése nem minősül a Get. szerint földgáz-kereskedelemnek.
+
+(4) A különleges földgázkészlet fenntartásához szükséges tagi hozzájárulásra – az (1) bekezdés b) pontjában és az (5) bekezdésben foglalt kivétellel – a 8. és a 9. §-ban foglaltakat kell alkalmazni.
+
+(5) A különleges földgázkészlet létrehozásához és fenntartásához szükséges tagi hozzájárulással kapcsolatos nyilatkozat benyújtási és fizetési kötelezettség nem vonatkozik a villamosenergia-termelői engedéllyel rendelkező, 50 MW és annál nagyobb teljesítményű, elsődleges energiaforrásként földgázt használó erőművek által villamosenergia-termelés céljára felhasznált földgáz mennyiségére.
+
+### 5/F. §
+
+(1) Ha Magyarország földgáz- vagy villamosenergia ellátásának biztosítása érdekében szükséges, a miniszter az e törvény végrehajtására kiadott rendeletben engedélyezheti a különleges földgázkészlet felhasználását.
+
+(2) Az 5/G. § szerinti részleges vagy teljes megszüntetés kivételével a különleges földgázkészlet felhasználására csak a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészlet kitárolását követően kerülhet sor. A miniszter a felhasználás engedélyezését megelőzően tájékoztatja a Kormányt, hogy a kitárolás milyen következményekkel jár az érintett földgáztároló működésére.
+
+(3) A miniszter a különleges földgázkészlet felhasználására vonatkozó rendeletben meghatározhatja
+
+a) a felhasználásra engedélyezett földgáz mennyiségét,
+
+b) az igénybevételre jogosultakat, és
+
+c) a felhasználásra engedélyezett földgáz árát, amely nem lehet kevesebb, mint a földgáz beszerzési ára.
+
+(4) A Szövetség a felhasználásra engedélyezett földgázt az e törvény végrehajtására kiadott miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerint földgáz-kereskedelemnek. A Szövetség az értékesített földgáz utáni árbevételt a különleges földgázkészlet létrehozására és fenntartására felvett hitelek törlesztésére fordítja.
+
+### 5/G. §
+
+(1) A miniszter az 5/F. § (1) bekezdése szerinti rendeletében dönthet a különleges földgázkészlet részleges vagy teljes megszüntetéséről. Ebben az esetben a miniszter a rendeletében meghatározza a teljes, vagy részbeni értékesítés 5/F. § (3) bekezdésén túlmutató feltételeit. A Szövetség az értékesítésre kijelölt különleges földgázkészletet a miniszteri rendeletnek megfelelően értékesíti, amely nem minősül a Get. szerinti földgáz-kereskedelemnek.
+
+(2) Ha a miniszter rendelete alapján az (1) bekezdés szerint a különleges földgázkészlet részben vagy teljes egészében megszüntetésre kerül, a miniszter gondoskodik az érintett földgáztároló üzemszerű működési feltételeinek biztosításához szükséges földgázkészlet rendelkezésre állásáról.
+
+## Magyar Szénhidrogén Készletező Szövetség
+
+### 6. §
+
+A Szövetség földgáz biztonsági készletezéssel kapcsolatos feladatai a következők:
+
+a) biztosítja a földgáz biztonsági készletképzés feltételeit, a szükségessé váló beruházásban tőkerészesedéssel részt vesz;
+
+b)[^46] gondoskodik az előírt készlet fenntartásáról, a miniszter által előírt készlet-mértéket meghaladó készlet esetén a többlet értékesítéséről, a szükséges fejlesztések elvégzéséről;
+
+c) ellenőrzi az e törvényben meghatározott tagsági jogviszonnyal kapcsolatos kötelezettségek teljesítését;
+
+d) gondoskodik a felhasznált földgáz biztonsági készlet e törvény szerinti visszapótlásáról;
+
+e) vezeti a tagsági nyilvántartást;
+
+f)[^47] meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és a miniszter részére tájékoztatásul megküldi;[^48]
+
+g) gondoskodik a tagi hozzájárulás beszedéséről;
+
+h) e törvény 10. §-ában foglalt rendelkezések szerint adatszolgáltatást végez.
+
+### 6/A. §[^49]
+
+(1) A Szövetség a 6. §-ban meghatározott feladatainak ellátása érdekében biztonsági földgáztárolói engedélyesben részesedést szerezhet.
+
+(2) Ha a biztonsági földgáztárolói engedélyes biztonsági földgáztárolói engedélye hatályát veszti, a Szövetség az (1) bekezdés szerinti részesedését az engedély hatályvesztése jogerőre emelkedésének napjától számított 2 éven belül köteles értékesíteni.
+
+## A földgáz biztonsági készletezéssel kapcsolatos tagsági jogviszony, a tagok jogai és kötelezettségei
+
+### 7. §[^50]
+
+(1)[^51] E törvény alapján – az (1a) bekezdésben foglalt kivétellel – kötelezően a Szövetség tagjává válik:
+
+a) a Hivatal által kiadott működési engedéllyel rendelkező
+
+aa) egyetemes földgázszolgáltató,
+
+ab) a felhasználóknak földgázt értékesítő vagy saját célra földgázt felhasználó földgázkereskedő;
+
+b) a felhasználóknak földgázt értékesítő földgáztermelő;
+
+c) az a felhasználó, aki földgázt határon keresztül történő beszállítással, illetve földgázt szervezett piacon vásárol és
+
+d) az 1. § f) pontja szerinti földgázt felhasználó személy.
+
+(1a)[^52] Nem válik a Szövetség tagjává
+
+a) a földgáztermelő a saját maga által termelt földgáz felhasználása körében, és
+
+b) a szállítási rendszerüzemeltető és a földgázelosztó
+
+ba) a rendszeregyensúlyozási tevékenységéhez, valamint
+
+bb) a földgázszállító vagy földgázelosztó vezeték feltöltés, hálózati veszteségpótlás, hálózati mérési különbözet céljából
+
+felhasznált földgáz körében.
+
+(2)[^53] A szövetségi tagság az (1) bekezdés
+
+a) *a)* pontja esetében a tevékenység megkezdésének, illetve az engedélyessé válás időpontja közül a korábbi időpontban,
+
+b) *b)* pontja esetében az értékesítő tevékenysége megkezdésekor,
+
+c) *c)* pontja esetében a földgáz határon keresztül történő első beszállításának, vagy a földgáz szervezett piacon történő első vásárlásának időpontjában
+
+d)[^54] d) pontja esetében a földgázfelhasználás megkezdése időpontjában
+
+jön létre.
+
+(3)[^55] A szövetségi tagság megszűnik, ha
+
+a) a tag engedélyét a Hivatal visszavonja,
+
+b) az (1) bekezdés a) pontja szerinti engedélyes tag a földgázipari tevékenységét, a földgáztermelő a felhasználók részére történő értékesítő tevékenységét, a felhasználó a földgáz határon keresztül történő beszállítói, illetve a földgáz szervezett piacon történő vásárlási tevékenységét megszünteti.
+
+c)[^56] az (1) bekezdés d) pontja esetében a földgázfelhasználás legalább 12 hónapig szünetel.
+
+(4)[^57] A tagsági jogviszony fennállása során keletkezett kötelezettségek az elszámolásban foglaltak szerint az elszámolások lezárásának napjáig terhelik a tagot.
+
+### 8. §
+
+(1)[^58] A tag a földgázipari, illetve földgáztermelői tevékenységével összefüggésben, illetve a felhasználó a földgáz határon keresztül történő beszállítási vagy a földgáz szervezett piacon történő vásárlási tevékenysége után, valamint az 1. § f) pontja szerinti földgáz felhasználása után a Szövetség részére tagi hozzájárulást fizet.
+
+(2)[^59] Tagi hozzájárulást kell fizetni, ha
+
+a)[^60] a egyetemes földgázszolgáltató a felhasználóknak földgázt értékesít,
+
+b) a földgázkereskedő a felhasználóknak földgázt értékesít,
+
+c) a földgáztermelő a felhasználóknak földgázt értékesít,
+
+d) a felhasználó földgázt hoz be harmadik országból,
+
+e) a felhasználó földgázt hoz be az Európai Unió tagállamából,
+
+f) a felhasználó a szervezett piacon földgázt vásárol,
+
+g)[^61] a földgázkereskedő saját célra földgázt használ fel.
+
+h)[^62] a felhasználó az 1. § f) pontja szerint földgázt használ fel.
+
+(3)[^63] A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében az egyetemes földgázszolgáltatót, b) és g) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) és h) pontja esetében a felhasználót terheli.
+
+(4)[^64] A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége, a (2) bekezdés g) és h) pontja esetén a felhasznált földgáz mennyisége kilowattórában mérve.
+
+(4a)[^65] A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
+
+(5)[^66] A tagi hozzájárulás fizetési kötelezettség
+
+a) a (2) bekezdés a)–c) és az e)–f) pontjai esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
+
+b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre,
+
+c)[^67] a (2) bekezdés g) és h) pontja esetében a felhasználás időpontjában, a saját célra felhasznált mennyiségre
+
+vonatkozik.
+
+(5a)[^68] Az (5) bekezdés a) pontját azzal a kiegészítéssel kell alkalmazni, hogy a tagi hozzájárulás-fizetési kötelezettség a (2) bekezdés a)–c) pontja esetében – ha az általános forgalmi adóról szóló törvény szerinti teljesítés időpontja korábbi, mint az általános forgalmi adóról szóló törvény szerint az elszámolással érintett időszak kezdete – az általános forgalmi adóról szóló törvény szerinti elszámolással érintett időszak kezdő időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre vonatkozik.
+
+(6)[^69] Nem kell tagi hozzájárulást fizetni a földgáz biztonsági készletezés céljára beszerzett földgáz után.
+
+(7) A tag a tagi hozzájárulást az egyéb ráfordítások között köteles elszámolni.
+
+(8)[^70] Az Alapszabályban meghatározott feltételekkel visszaigényelhető a (2) bekezdés a) pontja szerinti tagi hozzájárulásnak az a része, amelyet az egyetemes szolgáltató a lakossági fogyasztó részére történő földgáz értékesítés után a Szövetség részére bevallott.
+
+(8a)–(8b)[^71]
+
+(9)[^72] A (8) bekezdés szerinti visszaigénylésre a tag a tagi hozzájárulási nyilatkozat benyújtásától számított 90 napon belül jogosult. A Szövetség a visszaigénylést annak beérkezésétől, a felhasználás könyvelésen alapuló igazolásától, valamint a tagi hozzájárulás megfizetésétől számított 15 napon belül köteles elbírálni, és a jóváhagyott visszaigénylés összegét jóváírni vagy visszautalni. A visszautalás teljesítésének feltétele, hogy a tagnak ezáltal nem keletkezhet tartozása a Szövetség felé.
+
+(10)[^73] A tagi hozzájárulás visszaigénylésének jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles a Szövetség és a Hivatal részére igazolni.
+
+(11)[^74] A tagi hozzájárulás fizetésre, az ellenőrzésre és a visszaigénylésre vonatkozó részletszabályokat az Alapszabályban kell meghatározni.
+
+### 9. §[^75]
+
+(1) A Szövetség tagja minden hónap 20. napjáig köteles a Szövetségnek
+
+a) nyilatkozni arról, hogy a megelőző hónapban mennyi volt az e törvény hatálya alá tartozó, a tagi hozzájárulás fizetése alapjául szolgáló földgáz mennyisége, és
+
+b) benyújtani a nyilatkozatban foglaltakat alátámasztó adatokat az Alapszabályban rögzítetteknek megfelelően.
+
+(2) A Szövetség felhívására a tag köteles továbbá minden olyan adatot, dokumentációt haladéktalanul benyújtani, amely a tagi hozzájárulás teljesítésének ellenőrzéséhez szükséges.
+
+(3) A havi nyilatkozatban közölt adatok alapján a tag kiszámítja az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt a következő hónap utolsó munkanapjáig köteles a Szövetség pénzforgalmi számlájára átutalni. A tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
+
+### 10. §[^76]
+
+A Szövetség a tag kérésére igazolást állít ki a Szövetség felé fennálló nyilatkozattételi, valamint tagi hozzájárulás-fizetési kötelezettség teljesítéséről. A Szövetség a tag részére kiállított igazolásról megkeresésre tájékoztatja a Hivatalt és az adó- és vámhatóságot.
+
+## Záró és átmeneti rendelkezések
+
+### 11. §
+
+(1) Ez a törvény – a (2) és (3) bekezdésben foglaltak kivételével – a kihirdetését követő 2. hónap első napján lép hatályba.
+
+(2) E törvény 4. § (1) bekezdése 2010. január 1. napján lép hatályba.
+
+(3)[^77] E törvény 31. §-a a törvény kihirdetését követő 3. napon lép hatályba.
+
+(4) A tagi hozzájárulás fizetésének kezdő időpontja 2007. január 1.
+
+(5) A Szövetség e törvény hatálybalépése napjától haladéktalanul intézkedik a névváltozás bírósági bejelentéséről, valamint a földgáz biztonsági készletezéssel foglalkozó munkaszervezet kialakításáról.
+
+(6)[^78]
+
+### 12. §
+
+(1) E törvény hatálybalépésétől 2009. december 31-ig a jelenlegi földgáztárolók szabad kapacitása határozza meg a földgáz biztonsági készlet mértékét, amely megfelelő mértékű szabad kapacitás rendelkezésre állása esetén nem lehet kevesebb
+
+a) 2006. október 1. és 2007. szeptember 30. között 150 millió m<sup>3</sup>-nél,
+
+b) 2007. október 1. és 2009. december 31. között 300 millió m<sup>3</sup>-nél.
+
+A földgáztárolók szabad kapacitásának földgáz biztonsági készletezésre történő felhasználását a Hivatal elnöke saját hatáskörben engedélyezi, illetve elrendeli. A Hivatal elnöke a tárolói szerződések megkötésére az ÜKSZ által megszabott határidő lejárta után nem tagadhatja meg a hozzáférésre jogosultak által le nem kötött szabad kapacitások biztonsági készletek céljára való feltöltésének engedélyezését.
+
+(2)[^79] Ha a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitás mértéke a tárgyi évben nem éri el az (1) bekezdésben meghatározott legkisebb mértéket, a földgáz biztonsági készlet kiegészíthető tüzelési célra felhasználható kőolajtermékekkel. A földgáz biztonsági készlethez tartozó kőolajtermékek felhasználása esetén azok árát a miniszter a készlet visszapótlásának várható költségeinél alacsonyabban is meghatározhatja azzal, hogy az ár ebben az esetben sem lehet alacsonyabb, mint a tüzelési célra felhasználható kőolajtermékkel helyettesített földgáz hatásfokkal korrigált mennyiségben kifejezett ára. Az e bekezdés szerinti kőolajtermék rendeletben meghatározott ára és a készlet visszapótlásának költségei közötti különbözetet a Magyar Szénhidrogén Készletező Szövetség költségvetésében a bevételek és a ráfordítások különbözetének számításakor figyelembe kell venni.
+
+(3) A hozzáférésre jogosultak az ÜKSZ által megszabott határidőig az előző évben biztonsági készlet céljára lekötött kapacitáshoz is hozzáférhetnek. A bejelentett kapacitás lekötési igény esetén, annak mértékéig – amennyiben a biztonsági készlet más tárolóba nem helyezhető el – a készlet értékesítésre kerülhet. A biztonsági készlet e részét a Szövetség szabadon értékesítheti.
+
+(4)[^80] A biztonsági földgáztároló engedélyes köteles a földgáz biztonsági készletezési célra rendelkezésre álló szabad kapacitásra a Szövetséggel szerződést kötni.
+
+(5) Az 5. §-ban foglalt a készlet felhasználására vonatkozó szabályokat a (2) bekezdés szerinti tüzelési célra felhasználható kőolajtermékek vonatkozásában is alkalmazni kell.
+
+### 12/A. §[^81]
+
+(1) E törvénynek az energetikai tárgyú törvények módosításáról szóló 2016. évi CXLIII. törvény (a továbbiakban: Mód. tv.) 21. § (1) bekezdésével megállapított 8. § (4) bekezdését a 2017. január 1-jével kezdődő elszámolási időszakra kell először alkalmazni.
+
+(2) E törvénynek a Mód. tv. 21. § (2) bekezdésével megállapított 8. § (8) bekezdés b) pontját a folyamatban lévő visszaigénylésekre is alkalmazni kell.
+
+### 12/B. §[^82]
+
+A Szövetség 7. § (1) bekezdés d) pontja szerinti tagja a 9. § szerinti kötelezettségeinek első alkalommal azzal az eltéréssel tesz eleget, hogy 2024. január 20. napjáig a Szövetségnek nyilatkozik arról, hogy 2023 utolsó negyedévében mennyi volt a tagi hozzájárulás fizetése alapjául szolgáló földgáz mennyisége, valamint benyújtja a nyilatkozatát alátámasztó adatokat a Szövetség Alapszabályában rögzítetteknek megfelelően. A tag a 2023 utolsó negyedévre vonatkozó nyilatkozatában közölt adatok alapján számítja ki az esedékes tagi hozzájárulás-fizetési kötelezettség összegét, és azt 2024. január 31-ig a Szövetség pénzforgalmi számlájára átutalja azzal, hogy a tagi hozzájárulás megfizetésének időpontja az a nap, amikor a Szövetség számláján a befizetést jóváírják.
+
+### 12/C. §[^83]
+
+E törvény „Különleges földgázkészlet” alcíme az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+### 13. §[^84]
+
+(1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készlet felhasználására, a felhasználásra vonatkozó döntés előkészítésére, az előkészítésben közreműködő szervezetek vagy testületek jogaira és kötelezettségeire vonatkozó részletes szabályokat.[^85]
+
+(1a)[^86] Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a biztonsági készletnek a földgázkereskedő ellehetetlenülése esetén történő felhasználására vonatkozó részletes szabályokat.[^87]
+
+(1b)[^88] Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
+
+a) a különleges földgázkészlet fenntartásának biztosítása érdekében a rezsivédelmi készletezési szolgáltatás részletszabályait és a különleges földgázkészlet fenntartásának időtartamát,[^89]
+
+b) a hazai földgáztárolók üzemszerű működési feltételeinek biztosítása céljából a különleges földgázkészlet tárolásának és tárolói nyilvántartásának szabályait.[^90]
+
+(2)[^91] Felhatalmazást kap a miniszter, hogy földgázellátási válsághelyzet fennállása esetén az 5. § (1) bekezdése és az 5/A. § (3) bekezdése alapján rendeletben engedélyezze a földgáz biztonsági készlet felhasználását, és határozza meg a felhasználás engedélyezésének okát és célját, a felhasználásra engedélyezett földgáz mennyiségét, a felhasznált készletek visszapótlásának rendjét, valamint a felhasználásra engedélyezett földgáz árát és az áralkalmazás feltételeit.[^92]
+
+(3)[^93] Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a földgáz biztonsági készlet mértékét és a földgáz biztonsági készlet elhelyezésére szolgáló biztonsági földgáztárolót, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat.[^94]
+
+(4)[^95] Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.[^96]
+
+(5)[^97] Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a villamos energiáról szóló törvény szerinti termelői működési engedélyesnek minősülő felhasználó felhasználási helye részére a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből felhasználásra engedélyezett földgáz árát és az áralkalmazási feltételeket.
+
+(6)[^98] Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
+
+a) a különleges földgázkészlet, valamint a hozzá tartozó minimum betárolási és kitárolási kapacitások mértékére,
+
+b) a különleges földgázkészlet pótlásához és a fenntartásához – a tagi hozzájárulás mértékére, és a hitelfelvételi korlátra is kiterjedően – szükséges feltételekre, valamint
+
+c) a különleges földgázkészlet felhasználására, értékesítésére és annak feltételeire
+
+vonatkozó részletes szabályokat.
+
+### 14. §[^99]
+
+Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+## Módosuló jogszabályok
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2006. február 13-i ülésnapján fogadta el. A kihirdetés napja: 2006. február 17.
+[^2]: Az 1. § a 2023. évi XCIX. törvény 46. §-ával megállapított szöveg.
+[^3]: Az 1. § c) pontja a 2024. évi XV. törvény 15. §-a szerint módosított szöveg.
+[^4]: Az 1/A. §-t a 2016: CXLIII. törvény 18. §-a iktatta be.
+[^5]: Az 1/B. §-t a 2019: CI. törvény 12. §-a iktatta be.
+[^6]: A 2. § a 2008: XL. törvény 149. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § a) pontja a 2012: CCXVIII. törvény 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § b) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § c) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § e) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § f) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^12]: A 2. § g) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § h) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^14]: A 2. § i) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^15]: A 2. § j) pontját a 2019: CI. törvény 17. § a) pontja hatályon kívül helyezte.
+[^16]: A 2. § l) pontja a 2012: CCXVIII. törvény 1. § (2) bekezdésével megállapított szöveg.
+[^17]: A 2. § m) pontját a 2012: CCXVIII. törvény 1. § (3) bekezdése iktatta be, szövege a 2019: CI. törvény 16. § a) pontja szerint módosított szöveg.
+[^18]: A 3. § (2) bekezdése a 2011: CLXXXII. törvény 39. § (2) bekezdése, a 2019: CI. törvény 17. § b) pontja szerint módosított szöveg.
+[^19]: A 3. § (4) bekezdése a 2019: CI. törvény 13. §-ával megállapított szöveg.
+[^20]: A 3. § (5) bekezdését a 2019: CI. törvény 13. §-a iktatta be.
+[^21]: A 3. § (5) bekezdés b) pontja a 2023. évi XCIX. törvény 54. §-a szerint módosított szöveg.
+[^22]: A 3. § (5) bekezdés c) pontja a 2023. évi XCIX. törvény 53. § a) pontja szerint módosított szöveg.
+[^23]: A 3. § (5) bekezdés d) pontját a 2023. évi XCIX. törvény 47. §-a iktatta be, szövege a 2025. évi LXXXI. törvény 9. §-ával megállapított szöveg.
+[^24]: A 3. § (5) bekezdés e) pontját a 2023. évi XCIX. törvény 47. §-a iktatta be.
+[^25]: A 3. § (6) bekezdését a 2019: CI. törvény 13. §-a iktatta be.
+[^26]: A 3/A. §-t a 2019: CI. törvény 14. §-a iktatta be.
+[^27]: A 4. § a 2010: CXXXIV. törvény 1. §-ával megállapított szöveg.
+[^28]: A 4. § (1) bekezdése a 2018: XCIX. törvény 28. §-ával megállapított szöveg.
+[^29]: A 4. § (2) bekezdése a 2012: CCXVIII. törvény 1. § (4) bekezdésével megállapított, a 2015: LIII. törvény 11. § a) pontja szerint módosított szöveg.
+[^30]: A 4. § (3) bekezdése a 2013: XXII. törvény 34. § (1) bekezdésével megállapított, a 2018: XCIX. törvény 31. § a) pontja szerint módosított szöveg.
+[^31]: A 4. § (5) bekezdése a 2011: XXIX. törvény 228. § (3) bekezdése szerint módosított szöveg.
+[^32]: A 4. § (7) bekezdését a 2018: XCIX. törvény 32. § a) pontja hatályon kívül helyezte.
+[^33]: A 4. § (8) bekezdése a 2019: CI. törvény 16. § b) pontja szerint módosított szöveg.
+[^34]: A 4. § (9) bekezdését a 2012: CCXVIII. törvény 1. § (6) bekezdése iktatta be, szövege a 2019: CI. törvény 16. § c) pontja szerint módosított szöveg.
+[^35]: A 4. § (10) bekezdését a 2012: CCXVIII. törvény 1. § (6) bekezdése iktatta be.
+[^36]: A 4. § (11) bekezdését a 2019: XXVIII. törvény 10. §-a iktatta be.
+[^37]: A 4/A. §-t a 2015: LIII. törvény 9. §-a iktatta be.
+[^38]: A 4/A. § (3) bekezdése a 2024. évi LXXXIX. törvény 35. §-ával megállapított szöveg.
+[^39]: Az 5. § a 2009: LVI. törvény 351. § (1) bekezdésével megállapított szöveg. E módosító törvény 428. §-a alapján a rendelkezést a 2009. július 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^40]: Az 5. § (1) bekezdése a 2019: CI. törvény 15. § (1) bekezdésével megállapított szöveg.
+[^41]: Az 5. § (2) bekezdés d) pontját a 2019: CI. törvény 15. § (2) bekezdése iktatta be.
+[^42]: Az 5. § (3a) bekezdését a 2019: CI. törvény 15. § (3) bekezdése iktatta be.
+[^43]: Az 5/A. §-t a 2023. évi XCIX. törvény 48. §-a iktatta be.
+[^44]: Az 5/A. § (1) bekezdése a 2025. évi LXXXI. törvény 10. §-ával megállapított szöveg.
+[^45]: A „Különleges földgázkészlet” alcímet (5/B–5/G. §-t) a 2025. évi LI. törvény 43. §-a iktatta be.
+[^46]: A 6. § b) pontja a 2010: CXXXIV. törvény 2. §-ával megállapított szöveg.
+[^47]: A 6. § f) pontja a 2016: CXLIII. törvény 19. §-ával megállapított, a 2018: XCIX. törvény 31. § b) pontja szerint módosított szöveg.
+[^48]: Lásd a Magyar Közlöny 2007. évi 25. számában megjelent GKM közleményt.
+[^49]: A 6/A. §-t a 2013: CCXXVII. törvény 10. §-a iktatta be.
+[^50]: A 7. § a 2008: XL. törvény 149. § (7) bekezdésével megállapított szöveg.
+[^51]: A 7. § (1) bekezdése a 2023. évi XCIX. törvény 49. § (1) bekezdésével megállapított szöveg.
+[^52]: A 7. § (1a) bekezdését a 2023. évi XCIX. törvény 49. § (2) bekezdése iktatta be, szövege a 2024. évi XV. törvény 14. §-ával megállapított szöveg.
+[^53]: A 7. § (2) bekezdése a 2016: CXLIII. törvény 20. §-ával megállapított szöveg.
+[^54]: A 7. § (2) bekezdés d) pontját a 2023. évi XCIX. törvény 49. § (3) bekezdése iktatta be.
+[^55]: A 7. § (3) bekezdése a 2016: CXLIII. törvény 20. §-ával megállapított szöveg.
+[^56]: A 7. § (3) bekezdés c) pontját a 2023. évi XCIX. törvény 49. § (4) bekezdése iktatta be.
+[^57]: A 7. § (4) bekezdése a 2016: CXLIII. törvény 20. §-ával megállapított szöveg.
+[^58]: A 8. § (1) bekezdése a 2023. évi XCIX. törvény 50. § (1) bekezdésével megállapított szöveg.
+[^59]: A 8. § (2) bekezdése a 2008: XL. törvény 149. § (8) bekezdésével megállapított szöveg.
+[^60]: A 8. § (2) bekezdés a) pontja a 2023. évi XCIX. törvény 53. § b) pontja szerint módosított szöveg.
+[^61]: A 8. § (2) bekezdés g) pontját a 2018: XCIX. törvény 29. § (1) bekezdése iktatta be.
+[^62]: A 8. § (2) bekezdés h) pontját a 2023. évi XCIX. törvény 50. § (2) bekezdése iktatta be.
+[^63]: A 8. § (3) bekezdése a 2008: XL. törvény 149. § (8) bekezdésével megállapított, a 2018: XCIX. törvény 31. § d) pontja, a 2023. évi XCIX. törvény 53. § c) pontja szerint módosított szöveg.
+[^64]: A 8. § (4) bekezdése a 2016: CXLIII. törvény 21. § (1) bekezdésével megállapított, a 2018: XCIX. törvény 31. § e) pontja, a 2023. évi XCIX. törvény 53. § d) pontja szerint módosított szöveg.
+[^65]: A 8. § (4a) bekezdését a 2010: CXXXIV. törvény 3. §-a iktatta be.
+[^66]: A 8. § (5) bekezdése a 2008: XL. törvény 149. § (8) bekezdésével megállapított szöveg.
+[^67]: A 8. § (5) bekezdés c) pontját a 2018: XCIX. törvény 29. § (2) bekezdése iktatta be, szövege a 2023. évi XCIX. törvény 53. § e) pontja szerint módosított szöveg.
+[^68]: A 8. § (5a) bekezdését a 2023. évi XCIX. törvény 50. § (3) bekezdése iktatta be.
+[^69]: A 8. § (6) bekezdése a 2014: XCIX. törvény 303. §-ával megállapított szöveg.
+[^70]: A 8. § (8) bekezdését a 2012: CCXVIII. törvény 1. § (7) bekezdése iktatta be, szövege a 2019: XXVIII. törvény 11. §-ával megállapított szöveg.
+[^71]: A 8. § (8a) bekezdését a 2013: CXLV. törvény 1. § (1) bekezdése iktatta be, hatályát vesztette a 2016: CXLIII. törvény 21. § (2) bekezdése alapján.
+[^72]: A 8. § (9) bekezdését a 2012: CCXVIII. törvény 1. § (7) bekezdése iktatta be, szövege a 2016: CXLIII. törvény 21. § (2) bekezdésével megállapított szöveg.
+[^73]: A 8. § (10) bekezdését a 2012: CCXVIII. törvény 1. § (7) bekezdése iktatta be, szövege a 2016: CXLIII. törvény 21. § (2) bekezdésével megállapított szöveg.
+[^74]: A 8. § (11) bekezdését a 2016: CXLIII. törvény 21. § (2) bekezdése iktatta be.
+[^75]: A 9. § a 2016: CXLIII. törvény 22. §-ával megállapított szöveg.
+[^76]: A 10. § a 2016: CXLIII. törvény 23. §-ával megállapított szöveg.
+[^77]: A 11. § (3) bekezdése a 2007: LXXXII. törvény 2. § 897. pontja szerint módosított szöveg.
+[^78]: A 11. § (6) bekezdését a 2016: CXLIII. törvény 26. § a) pontja hatályon kívül helyezte.
+[^79]: A 12. § (2) bekezdése a 2016: CXLIII. törvény 25. §-a szerint módosított szöveg.
+[^80]: A 12. § (4) bekezdése a 2012: CCXVIII. törvény 1. § (8) bekezdésével megállapított szöveg.
+[^81]: A 12/A. §-t a 2012: CCXVIII. törvény 1. § (9) bekezdése iktatta be, szövege a 2016: CXLIII. törvény 24. §-ával megállapított szöveg.
+[^82]: A 12/B. §-t a 2023. évi XCIX. törvény 51. §-a iktatta be.
+[^83]: A 12/C. §-t a 2025. évi LI. törvény 44. §-a iktatta be.
+[^84]: A 13. § a 2010: CXXXIV. törvény 4. § (1) bekezdésével megállapított szöveg.
+[^85]: Lásd a 265/2009. (XII. 1.) Korm. rendeletet, a 110/2020. (IV. 14.) Korm. rendeletet, a 399/2023. (VIII. 24.) Korm. rendeletet.
+[^86]: A 13. § (1a) bekezdését a 2015: LIII. törvény 10. §-a iktatta be.
+[^87]: Lásd a 296/2015. (X. 13.) Korm. rendeletet.
+[^88]: A 13. § (1b) bekezdését a 2025. évi LI. törvény 45. § (1) bekezdése iktatta be.
+[^89]: Lásd a 192/2025. (VII. 7.) Korm. rendeletet.
+[^90]: Lásd a 193/2025. (VII. 7.) Korm. rendeletet.
+[^91]: A 13. § (2) bekezdése a 2023. évi XCIX. törvény 53. § f) pontja szerint módosított szöveg.
+[^92]: Lásd a 13/2011. (IV. 7.) NFM rendeletet, a 75/2007. (VIII. 17.) GKM rendeletet, az 1/2009. (I. 7.) KHEM rendeletet.
+[^93]: A 13. § (3) bekezdése a 2012: CCXVIII. törvény 1. § (10) bekezdésével megállapított, a 2015: LIII. törvény 11. § b) pontja szerint módosított szöveg.
+[^94]: Lásd a 13/2015. (III. 31.) NFM rendeletet, az 59/2021. (XII. 15.) ITM rendeletet.
+[^95]: A 13. § (4) bekezdése a 2011: XXIX. törvény 228. § (2) bekezdésével megállapított szöveg.
+[^96]: Lásd az 59/2021. (XII. 15.) ITM rendeletet.
+[^97]: A 13. § (5) bekezdését a 2023. évi XCIX. törvény 52. §-a iktatta be, szövege a 2025. évi LXXXI. törvény 11. §-ával megállapított szöveg.
+[^98]: A 13. § (6) bekezdését a 2025. évi LI. törvény 45. § (2) bekezdése iktatta be.
+[^99]: A 14. §-t a 2016: CXLIII. törvény 26. § b) pontja hatályon kívül helyezte, újonnan a 2018: XCIX. törvény 30. §-a iktatta be.

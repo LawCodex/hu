@@ -1,0 +1,579 @@
+---
+title: "2008. évi LXVII. törvény a távhőszolgáltatás versenyképesebbé tételéről"
+identifier: "2008. évi LXVII. törvény"
+njt_id: "2008-67-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2008/67"
+type: act
+jurisdiction: hu
+language: hu
+date: 2008-11-15
+in_force_from: 2010-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-67-00-00"
+retrieved: 2026-10-12
+---
+
+# 2008. évi LXVII. törvény a távhőszolgáltatás versenyképesebbé tételéről[^1]
+
+## I. Fejezet — A TÁVHŐSZOLGÁLTATÁS HATÉKONYABBÁ TÉTELÉHEZ SZÜKSÉGES INTÉZKEDÉSEK
+
+#### 1. §
+
+A távhő lakossági felhasználóit sújtó versenyhátrány csökkentésében és megszüntetésében való közreműködés állami feladat.
+
+#### 2. §
+
+(1) A központi költségvetés az energiafelhasználás hatékonyabbá tétele, ezáltal a távhőfelhasználás költségeinek csökkentése érdekében a távhőt felhasználó lakóépületek és lakások felújításához külön jogszabályban meghatározottak szerint támogatást nyújt.
+
+(2) Az (1) bekezdésben meghatározott támogatások nyújtásánál elsőbbséget kell biztosítani a távhőfogyasztás szabályozását és mérhetővé tételét lehetővé tevő egyedi fűtésszabályozás kialakítása érdekében történő felújításoknak.
+
+(3) A felhasználó köteles visszafizetni a (2) bekezdés szerinti célra igénybe vett, a 16. § a) pontja szerint kiadott kormányrendeletben meghatározott támogatásnak az igénybevételtől eltelt időre számított jegybanki alapkamattal növelt összegét, ha a felhasználási hely a támogatás igénybevételétől számított három éven belül kiválik a távhőszolgáltatás rendszeréből.
+
+(4) A (2) bekezdés szerinti támogatások pályázati feltételeit úgy kell meghatározni, hogy az lehetővé tegye a lakóközösséget terhelő saját rész helyi önkormányzat általi átvállalását.
+
+(5) A társasházi és lakásszövetkezeti tulajdonostársak a távhőfogyasztás szabályozását és mérhetővé tételét lehetővé tevő korszerűsítésről, illetve az ezzel közvetlenül összefüggő kérdésekről az összes tulajdoni hányad több mint felével határoznak.
+
+#### 3. §[^2]
+
+A központi költségvetés a lakossági távhőfogyasztók számára a távhőszolgáltatás igénybevételéhez – a távhőfogyasztás szabályozhatóságának és mérhetőségének általánossá válásáig fennálló versenyhátrány csökkentése érdekében –, valamint a lakossági vezetékes gázfogyasztók számára a gázszolgáltatás igénybevételéhez külön jogszabályban meghatározottak szerint, a fogyasztó jövedelmi helyzetére figyelemmel differenciált összegű támogatást nyújt.
+
+## II. Fejezet — AZ ENERGIAELLÁTÓK JÖVEDELEMADÓJA
+
+### A jövedelemadó alanya
+
+#### 4. §
+
+(1)[^3] A jövedelemadó alanya az energiaellátó, a közszolgáltató, kivéve, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá ha felszámolási vagy kényszertörlési eljárás alatt áll.
+
+(2) A jövedelemadó-kötelezettséget a külföldi vállalkozó kizárólag a belföldi telephelye útján végzett tevékenysége alapján állapítja meg.
+
+### Az adókötelezettség
+
+#### 5. §
+
+(1)[^4] A jövedelemadóból származó bevétel a központi költségvetést illeti meg.
+
+(2)[^5] A jövedelemadó alanya az adókötelezettség teljesítése során az e törvényben nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szerint jár el.
+
+### A jövedelemadó alapja
+
+#### 6. §
+
+(1)[^6] A jövedelemadó alapja az adóévi beszámolóban kimutatott adózás előtti eredménynek a (2) bekezdésben felsorolt tételekkel növelt, a (3) bekezdésben felsorolt tételekkel csökkentett és a (6) bekezdés szerint módosított, továbbá a külföldi telephely útján végzett tevékenység révén keletkezett, a telephelynek betudható, külföldön adóztatható, e törvény szerinti jövedelemadó-alapnak megfelelő tartalmú jövedelmet nem tartalmazó összege.
+
+(2) Növelő tételek:
+
+a)[^7]
+
+b)[^8] a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve az állam vagy a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást, a villamos energiáról szóló 2007. évi LXXXVI. törvény 142. § (6) bekezdése szerinti kiegyenlítő fizetést az erre kötelezett elosztónál, valamint az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszköz összegét, továbbá ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 3. számú melléklet B) rész 25. és 26. pontja szerint elismert összeget,
+
+c)[^9] az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felértékelésével növelt, valamint korábban az adózás előtti eredményt növelő tételként számításba vett céltartalék leértékelésével csökkentett összege, a (4) bekezdésben meghatározott kivétellel,
+
+d)[^10] a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés c) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
+
+e)[^11] a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből a kedvezményezett átalakulás alapján megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, figyelemmel a (12) bekezdésben foglaltakra, továbbá az adóalany jogutód nélküli megszűnésének adóévében a (3) bekezdés d) pontja alapján csökkentő tételként figyelembe vett összegből az a rész, amelyet az adóalany még nem számolt el növelő tételként,
+
+f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
+
+g) az adóellenőrzés, önellenőrzés során megállapított, adóévi költségként, ráfordításként vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
+
+h)[^12] a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék, céltartalékot növelő összeg következtében az adóévben elszámolt ráfordítás.
+
+(3) Csökkentő tételek:
+
+a) az adózás előtti eredmény javára elszámolt kapott (járó) osztalék, az ellenőrzött külföldi társaságtól kapott osztalék kivételével,
+
+b)[^13] az adózás előtti eredmény javára elszámolt visszafizetési kötelezettség nélkül kapott támogatás, juttatás, véglegesen átvett pénzeszköz, a térítés nélkül átvett eszköz bekerülési értéke, az ellenérték nélkül átvállalt tartozásnak az adóévi adózás előtti eredmény javára elszámolt összege, az adóévben térítés nélkül kapott szolgáltatás bekerülési értéke, ide nem értve a helyi önkormányzat által adott, törvényben meghatározott kötelezettségen alapuló juttatást és a villamos energiáról szóló 2007. évi LXXXVI. törvény 142. § (6) bekezdése szerinti kiegyenlítő fizetést az erre jogosult elosztónál,
+
+c) a kedvezményezett részesedéscsere alapján kivezetett részesedésre az adóévben elszámolt árfolyamnyereség a megszerzett társaság tagjánál (részvényesénél), ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett részesedéscsere alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
+
+d)[^14] a kedvezményezett átalakulásban részt vevő társaság tagjánál (részvényesénél) az átalakulás, egyesülés, szétválás következtében az adóévben elszámolt bevétel, ha a tag (a részvényes) alkalmazni kívánja e csökkentő tételt, feltéve, hogy a tag (a részvényes) a kedvezményezett átalakulás alapján megszerzett valamennyi részesedést elkülönítetten tartja nyilván,
+
+e) kedvezményezett eszközátruházás esetén az átruházó társaságnál – választása szerint, az átvevő társasággal írásban kötött szerződés alapján, az (5) bekezdésben meghatározott feltételekkel – az önálló szervezeti egység átruházása alapján elszámolt bevételnek az átadott eszközök könyv szerinti értékét meghaladó része,
+
+f) a forintról devizára, devizáról forintra vagy devizáról más devizára való áttérés következtében az eredménytartalék csökkentéseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
+
+g) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevételként, vagy aktivált saját teljesítmény növeléseként vagy adóévi költség, ráfordítás csökkenéseként elszámolt összeg,
+
+h)[^15] a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felhasználása miatt az adóévben bevételként elszámolt összeg, ha azt az adózó korábban a (2) bekezdés c) vagy h) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
+
+i)[^16] a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
+
+j)[^17] a Tao. tv. 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
+
+k)[^18] a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
+
+l)[^19] az adózó választása szerint az elektromos töltőállomás bekerülési értéke a beruházás befejezésének adóévében, figyelemmel a (14)–(16) bekezdésekre.
+
+m)[^20] a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésben foglaltakat figyelembe véve – az adózó döntése szerinti összeg.
+
+(4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
+
+(5) A (3) bekezdés e) pont alkalmazásának feltétele, hogy a kedvezményezett eszközátruházás alapjául szolgáló írásbeli szerződés tételesen tartalmazza az átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is), és azoknak az átadás napjára az átruházó társaságnál kimutatott bekerülési értékét, könyv szerinti értékét és számított nyilvántartási értékét, valamint a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
+
+(6)[^21] Kedvezményezett átalakulás esetén a jogutód a jogelődtől átvett, kedvezményezett eszközátruházás esetén az átvevő társaság az átruházó társaságtól átvett eszközöket és kötelezettségeket (ideértve a passzív időbeli elhatárolást is) figyelembe véve az átalakulást, egyesülést, szétválást, illetve az eszközátruházást követően a jövedelemadó-alapját úgy határozza meg, mintha az átalakulás, egyesülés, szétválás, illetve a kedvezményezett eszközátruházás nem történt volna meg. Kedvezményezett átalakulás esetén a jogutód, kedvezményezett eszközátruházás esetén az átvevő társaság az átértékelt, illetve átvett eszközöket és kötelezettségeket elkülönítve tartja nyilván, és e nyilvántartásban feltünteti a jogelődnél az átalakulás, egyesülés, szétválás napjára, illetve az átruházó társaságnál az átadás napjára kimutatott bekerülési értéket, könyv szerinti értéket, számított nyilvántartási értéket, valamint az eszköz, a kötelezettség alapján általa az átalakulást, egyesülést, szétválást, illetve az átvételt követően a jövedelemadó-alap módosításaként elszámolt összeget is.
+
+(7)[^22] A (4), illetve (5) bekezdésben foglaltak alkalmazásának további feltétele, hogy átalakuláskor, egyesüléskor, szétváláskor a jogelőd (kiválás esetén, továbbá, ha a jogelőd külföldi vállalkozónak nem minősülő külföldi személy, akkor a jogutód), kedvezményezett eszközátruházáskor az átadó, (ha az átadó külföldi vállalkozónak nem minősülő külföldi személy, akkor az átvevő) a választását az átalakulás, egyesülés, szétválás, illetve az eszközátruházás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
+
+(8)[^23] Amennyiben az adóalany kapcsolt vállalkozásával a Tao. tv. 18. §-a alá tartozó jogügyletet köt, úgy az adóalap megállapításkor köteles az abban foglaltakat megfelelően alkalmazni.
+
+(9) A külföldről származó jövedelmet e § rendelkezései szerint kell megállapítani. Ennek során a külföldről származó jövedelem megállapításánál kell figyelembe venni az e bevétel megszerzéséhez közvetlenül hozzárendelhető költségeket, ráfordításokat, adózás előtti eredményt módosító tételeket. A külföldről származó árbevétel és bevétel összegének az összes árbevétel és bevétel összegéhez viszonyított arányában kell megosztani a külföldről származó jövedelem megszerzéséhez közvetlenül hozzá nem rendelhető – de nem a kizárólag belföldről származó jövedelemhez felmerült – költségeket, ráfordításokat, adózás előtti eredményt növelő, csökkentő tételeket.
+
+(10) A (9) bekezdés szerinti összeget a jövedelem jogcíme szerint és forrásállamonként külön-külön kell meghatározni. Az egyes jövedelmek alapján levont jövedelemadó nem haladhatja meg az adott jövedelemre jutó jövedelemadót, de legfeljebb a külföldön fizetett (fizetendő), illetve a nemzetközi szerződés alapján külföldön érvényesíthető adó közül a kisebb összeget.
+
+(11)[^24] A több engedéllyel rendelkező, illetve a jövedelemadó-köteles tevékenységen kívüli tevékenységet végző adóalanynál az adóalap az e § alapján meghatározott összegnek az arányos része figyelemmel a (11a)–(11b) bekezdésben foglaltakra. Az arányt a jövedelemadó-köteles tevékenységek beszámolóban kimutatott vagy a könyvviteli zárlat alapján megállapított árbevételének az adóalany összes árbevételének százalékában (két tizedesjegyre) számítva kell meghatározni.
+
+(11a)[^25] Az a kőolajterméket értékesítő kereskedő, amely általa külföldről beszerzett kőolajterméket értékesít Magyarországon, a vásárolt kőolajtermék értékesítésének árbevételét a (11) bekezdés alkalmazásában olyan arányban osztja meg a belföldről és a külföldről beszerzett kőolajtermék értékesítéséből származó árbevételre, amilyen arányt az összes, áruként beszerzett kőolajtermék beszerzési értékén belül a belföldről és a külföldről áruként beszerzett, és Magyarországon értékesített kőolajtermék értéke képvisel.
+
+(11b)[^26] Az adóalany a (11a) bekezdés szerinti arányos megosztásról külön nyilvántartást vezet, amelyben feltünteti
+
+a) a (11a) bekezdés szerinti arányszámot,
+
+b) az áruként beszerzett összes kőolajtermék beszerzési értékét,
+
+c) a belföldről áruként beszerzett kőolajtermékek beszerzési értékét és
+
+d) a külföldről áruként beszerzett kőolajtermékek beszerzési értékét.
+
+(12)[^27] Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
+
+(13)[^28]
+
+(14)[^29] Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti.
+
+(15)[^30] A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szabályaival összhangban nyújtható.
+
+(16)[^31] A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
+
+(17)[^32]
+
+(18)[^33] Amennyiben az (1) bekezdés szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben döntése szerinti megosztásban csökkentheti az (1) bekezdés szerinti pozitív adóalapot, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett. A korábbi adóévek negatív adóalapja legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékáig számolható el az adózás előtti eredmény csökkentéseként.
+
+(19)[^34] A (3) bekezdés m) pontja és a (18) bekezdés alkalmazása során az adózó a Tao. tv. 17. §-ában foglaltakat megfelelően alkalmazza.
+
+### A jövedelemadó mértéke
+
+#### 7. §[^35]
+
+(1)[^36] A jövedelemadó a pozitív adóalap 31 százaléka.
+
+(2)[^37] Az (1) bekezdéstől eltérően a Tao. tv. 22/B. §-a szerint fejlesztési adókedvezményt érvényesíteni jogosult adózó és a Tao. tv. 22/E. §-a szerint energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményét érvényesíteni jogosult adózó a számított adót – legfeljebb annak 50 százalékáig, és legfeljebb a fejlesztési adókedvezmény, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezménye érvényesítésére nyitva álló időszakban – csökkentheti a fejlesztési adókedvezmény, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezménye társasági adóban még nem érvényesített részével. E bekezdés alkalmazásában a csoportos társasági adóalany tagja a csoportos társasági adóalanyiság időszaka alatt szerzett, a fejlesztési adókedvezményhez, illetve az energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményéhez tartozó jogosultsági összeget az egyedileg megállapított pozitív társasági adóalapja arányában számított összegben veszi figyelembe. E bekezdés alkalmazásában a csoportos társasági adóalany tagja a csoportos társasági adóalany által érvényesített fejlesztési adókedvezményt, illetve energiahatékonysági célokat szolgáló beruházások, felújítások adókedvezményét az egyedileg megállapított pozitív társasági adóalapja arányában számított összegben veszi figyelembe.
+
+(2a)[^38] A (2) bekezdésben meghatározott, a fejlesztési adókedvezményhez kapcsolódó kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. cikke hatálya alá tartozó regionális beruházási támogatási programnak minősül.
+
+(2b)[^39] A (2) bekezdésben meghatározott, az energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezményéhez kapcsolódó kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I–II. fejezete és 38., 38a. cikke, valamint a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló (EU) 2022/2473 rendelet módosításáról szóló 2023/1315/EU bizottsági rendelet (HL L 167 2023. június 23., 1–90.o.) 33. és 34. pontja hatálya alá tartozó energiahatékonysági intézkedésekhez nyújtott beruházási támogatási programnak minősül.
+
+(2c)[^40] Az (1) bekezdés szerinti számított adót csökkenti az energetikai fejlesztésre irányuló beruházás adókedvezménye, legfeljebb a (2) bekezdés szerint igénybe vett adókedvezményekkel csökkentett adó 80 százalékáig.
+
+(3)[^41] Az (1) és (2) bekezdés szerint kiszámított jövedelemadót legfeljebb annak mértékéig csökkenti az üzleti évre (adóévre) bányajáradék címén fizetett (fizetendő) összeg, legfeljebb azonban 1,5 milliárd forint.
+
+### Energetikai fejlesztésre irányuló beruházás adókedvezménye[^42]
+
+#### 7/A. §
+
+(1) A 10. § 1.7. pontja szerinti adózó adókedvezményt vehet igénybe az adóévben üzembe helyezett energetikai fejlesztésre irányuló beruházás esetén.
+
+(2) Az adókedvezmény az energetikai fejlesztésre irányuló beruházás üzembe helyezésének adóévében és az azt követő öt adóévben vehető igénybe.
+
+(3) Az adókedvezményt a 10. § 1.7. pontja szerinti adózó e törvény előírásai alapján maga állapítja meg.
+
+(4) E § alkalmazásában a beruházás elszámolható költségének minősül a 10. § 1.7. pontja szerinti adózó által az adóévben üzembe helyezett energetikai fejlesztésre irányuló beruházás célját szolgáló tárgyi eszköz, immateriális jószág bekerülési értékének és az ugyanazon energetikai fejlesztésre irányuló beruházás céljára visszafizetési kötelezettség nélkül kapott támogatás, juttatás és csatlakozási díj összegének a különbözete.
+
+(5) E § alkalmazásában korrigált értékcsökkenésnek minősül a 10. § 1.7. pontja szerinti adózó könyveiben kimutatott energetikai infrastruktúra összes eszközére elszámolt adóévi értékcsökkenésnek az energetikai infrastruktúrához kapcsolódóan visszafizetési kötelezettség nélkül kapott támogatás, juttatás adóévi adózás előtti eredmény javára elszámolt összegével csökkentett értéke.
+
+(6) Az adózó által igénybe vehető adókedvezmény mértéke jelenértéken nem haladhatja meg adózónként a beruházás elszámolható költsége és a korrigált értékcsökkenés közötti különbözet 50 százalékát.
+
+(7) A beruházás elszámolható költségét szokásos piaci áron kell figyelembe venni, ha az az adózó és a vele kapcsolt vállalkozási viszonyban lévő személy között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
+
+(8) Az adókedvezmény akkor vehető igénybe, ha
+
+a) az adózó teljesíti az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott szakmai indikátorokat, és
+
+b) az eszközöket a beruházás üzembe helyezését követő legalább öt évig üzemelteti, illetve használja.
+
+(9) A (8) bekezdés a) pontja szerinti feltétel teljesítésének igazolására az adózónak az adóévre vonatkozó jövedelemadó-bevallás benyújtásakor rendelkeznie kell a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiállított beruházásösztönzési igazolással.
+
+(10) Az adózó a beruházásösztönzési igazolás kiadása érdekében a kérelmet és az azt alátámasztó, az e törvény felhatalmazása alapján a Hivatal elnöke által kiadott rendeletben meghatározott adatokat benyújtja a Hivatalhoz.
+
+(11) A Hivatal a kérelem kézhezvételét követő 15 napon belül közli az adózóval a kérelemmel kapcsolatos döntését.
+
+(12) Az adózó az adókedvezmény igénybevételének adóéveiben az adóbevallásban beruházásonként a következő adatokat szerepelteti:
+
+a) a Hivatal által kiadott beruházásösztönzési igazolás számát, időpontját,
+
+b) az adóévben igénybe vett adókedvezmény összegét,
+
+c) az első igénybevételtől számítva összesen igénybe vett és még igénybe vehető adókedvezmény összegét.
+
+(13) Az adókedvezmény feltételeinek teljesítését a Nemzeti Adó- és Vámhivatal az adókedvezmény első igénybevételét követő harmadik adóév végéig legalább egyszer ellenőrzi.
+
+### A jövedelemadó, jövedelemadó-előleg bevallása, megfizetése[^43]
+
+#### 8. §[^44]
+
+(1)[^45] A fizetendő jövedelemadót – az adóévben megfizetett jövedelemadó-előlegek beszámításával –, valamint a jövedelemadó-előleget az adóigazgatási rendtartásról szóló törvényben és az adózás rendjéről szóló törvényben a társasági adóra előírt határidőben kell megállapítani, bevallani és megfizetni, illetve ettől az időponttól lehet visszaigényelni.
+
+(2) Az adóalanynak – a (4)–(5) bekezdésben foglaltak kivételével – az adóbevallással egyidejűleg az adóbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra jövedelemadó-előleget kell bevallania az esedékességi időre eső összeg feltüntetésével. Nem lehet jövedelemadó-előleget bevallani arra a naptári hónapra, negyedévre, a negyedév azon naptári hónapjára, amelyre az adóalany már vallott be adóelőleget.
+
+(3) A jövedelemadó-előleg
+
+a) az adóévet megelőző adóév fizetendő adójának összege, ha az adóévet megelőző adóév időtartama 12 hónap volt,
+
+b) az adóévet megelőző adóév fizetendő adójának a működés naptári napjai alapján 12 hónapra számított összege minden más esetben.
+
+(4) A könyvvezetés pénznemének évközbeni változtatása a bevallott jövedelemadó-előleget nem érinti.
+
+(5)[^46] Az átalakulás, egyesülés, szétválás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott jövedelemadó-előlegből számított (az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott) adóelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig adóelőleget fizetni. Az átalakulás, egyesülés, szétválás napját követő első adóbevallásában nem vall be adóelőleget kiválás esetén a fennmaradó, beolvadás esetén az átvevő adózó, ha az átalakulás, egyesülés, szétválás napja az előző adóévi adóbevallás benyújtását megelőzi.
+
+(6) A jövedelemadó-előleg
+
+a) havonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó meghaladja az 5 millió forintot;
+
+b) háromhavonta, egyenlő részletekben esedékes, ha az előző adóévi fizetendő adó legfeljebb 5 millió forint.
+
+(7)[^47]
+
+(7a)[^48]
+
+(8)[^49] Nem kell a (2)–(6) bekezdés rendelkezéseit alkalmaznia az adóalanynak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+
+### Vegyes rendelkezések
+
+#### 9. §
+
+(1) A jövedelemadót a társasági adóval azonosan kell elszámolni.
+
+(2) A naptári évtől eltérő üzleti (adó-) évet alkalmazó adóalany a jövedelemadó kötelezettséget az adóéve első napján hatályos szabályok szerint teljesíti.
+
+(3) Ha nemzetközi szerződés a külföldön fizetett (fizetendő) adó beszámításáról rendelkezik, akkor a megállapított jövedelemadóból adóvisszatartás formájában levonható a külföldön fizetett (fizetendő) adó, de a beszámított összeg az adóévre fizetendő más jövedelem- vagy vagyonadó csökkentéseként nem érvényesíthető.
+
+(4)[^50] Amennyiben az adóalany az éves beszámolóját a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, úgy az adókötelezettsége megállapításakor köteles a Tao. tv. 1. § (6) bekezdésében, 4. § 4. pont e) alpontjában, 4. § 28/b. pontjában, 4. § 29. pontjában és II/A. fejezetében és 29/D. § (1) bekezdésében foglaltakat megfelelően alkalmazni.
+
+(5)[^51] Amennyiben a (4) bekezdés hatálya alá tartozó adózónál a Tao. tv. 18/C. § (4) bekezdése figyelembevételével meghatározott összeg (egyenleg) pozitív, akkor azt az adózó a Tao. tv. 18/C. § (4) bekezdésétől eltérően választása szerint az áttérés adóévében egy összegben vagy az áttérés adóévében és az azt követő négy adóévben öt egyenlő részletben – az adózás előtti eredmény növelése révén – érvényesíti az adóalapjában. Amennyiben a (4) bekezdés hatálya alá tartozó adózónál a Tao. tv. 18/C. § (4) bekezdése figyelembevételével meghatározott összeg (egyenleg) negatív, akkor azt az adózó a Tao. tv. 18/C. § (4) bekezdésétől eltérően az áttérés adóévében és az azt követő négy adóévben öt egyenlő részletben – az adózás előtti eredmény csökkentése révén – érvényesíti az adóalapjában.
+
+(6)[^52] Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a Hivatal javaslatának figyelembevételével rendeletben szabályozza az energetikai fejlesztésre irányuló beruházás vonatkozásában teljesítendő szakmai indikátorokat.[^53]
+
+(7)[^54] Felhatalmazást kap a Hivatal elnöke, hogy rendeletben határozza meg az energetikai fejlesztésre irányuló beruházás vonatkozásában teljesítendő szakmai indikátorok teljesülésének ellenőrzéséhez szükséges adatszolgáltatás tartalmát, formáját.
+
+### Fogalmak
+
+#### 10. §
+
+E fejezet alkalmazásában
+
+1.[^55] *energiaellátó:*
+
+1.1. a szénhidrogén-kitermelési tevékenységet végző, a bányászatról szóló törvény szerinti bányavállalkozó,
+
+1.2. a kőolajtermék-előállító, a kőolajtermékkel a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenységet végző kereskedő és az a kőolajterméket értékesítő kereskedő, amely az általa külföldről beszerzett kőolajterméket Magyarországon értékesíti,
+
+1.3. a földgázellátásról szóló törvény szerinti földgáz-kereskedelmi engedélyes,
+
+1.4. a villamos energiáról szóló törvény szerinti villamosenergia-kereskedelmi engedélyes,
+
+1.5. a villamos energiáról szóló törvény szerinti termelői engedélyes, kivéve a villamos energia kötelező átvételi rendszerében értékesítő termelők, továbbá az 50 MW beépített teljesítőképességet meg nem haladó teljesítőképességű prémium típusú támogatásban részesülő termelők – ideértve mindkét esetben a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energiát csak részben a kötelező átvételi rendszerben értékesítő termelőt, a prémium típusú támogatási rendszerben részesülő termelőt – termelői engedélyese,
+
+1.6. a villamos energiáról szóló törvény szerinti egyetemes szolgáltató,
+
+1.7. a villamos energiáról szóló törvény szerinti elosztói engedélyes,
+
+1.8. a földgázellátásról szóló törvény szerinti egyetemes szolgáltató,
+
+1.9. a földgázellátásról szóló törvény szerinti elosztói engedélyes,
+
+2\. *beszámoló:* a számvitelről szóló törvény szabályai szerint készített beszámoló, ide nem értve a konszolidált beszámolót; az adóévről beszámoló készítésére nem kötelezett esetében a számvitelről szóló törvény kettős könyvvitelt vezetőkre vonatkozó előírásai szerint készített nyilvántartás;
+
+3\. *telephely:* az adóalany tevékenysége gyakorlásának a székhelytől különböző helyen lévő, a cégjegyzékben feltüntetett helye, a külföldön lévő telephely, illetve külföldi székhelyű adóalany esetében a nemzetközi szerződésben meghatározott belföldön lévő telephely;
+
+4\. *külföldi vállalkozó:* a Tao. tv. 2. §-ának (4) bekezdésében meghatározott személy;
+
+5\. *árbevétel:* a Tao. tv. 4. § 4. pontjában meghatározott fogalom;
+
+6\. *ellenőrzött külföldi társaság:* a Tao. tv. 4. § 11. pontjában meghatározott fogalom;
+
+7\. *kedvezményezett átalakulás:* a Tao. tv. 4. § 23/a. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
+
+8\. *kedvezményezett eszközátruházás:* a Tao. tv. 4. § 23/b. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
+
+9\. *kedvezményezett részesedéscsere:* a Tao. tv. 4. § 23/c. pontjában meghatározott fogalom, figyelembe véve a Tao. tv. 4. § 32/a. pontjában foglaltakat is;
+
+10\. [^56] *kőolajtermék:* a jövedéki adóról szóló törvény szerinti, üzemanyagkénti vagy tüzelő-, fűtőanyagkénti kínálásra, értékesítésre vagy felhasználásra szánt benzin, petróleum, gázolaj, fűtőolaj és LPG;
+
+11\. [^57] *közszolgáltató:*\
+11.1.[^58]\
+11.2.[^59]\
+11.3.[^60] a hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenységet végző gazdálkodó szervezet.
+
+12\. [^61] *elektromos töltőállomás:* olyan eszköz, amely alkalmas egy elektromos gépjármű energiatárolójának töltésére vagy cseréjére.
+
+## III. Fejezet — AZ ÁRKÉPZÉS ÁTLÁTHATÓSÁGÁNAK ÉRDEKÉBEN SZÜKSÉGES TÖRVÉNYMÓDOSÍTÁSOK
+
+#### 11. §
+
+A távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Thtv.) 4. § (1) bekezdése a következő új *d)* ponttal egészül ki:
+
+*[A Magyar Energia Hivatal (a továbbiakban: Hivatal) az e törvény hatálya alá tartozó és hatáskörébe utalt létesítmények és engedélyesek tekintetében]*
+
+„*d)* ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat.”
+
+#### 12. §
+
+(1) A Thtv. 38. § (5) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
+
+„(5) Abban az esetben, ha a távhővel ellátott épületben lévő, külön tulajdonban és külön használatban álló épületrészben kívánják a távhő igénybevételét megszüntetni, az épületrész tulajdonosa és a felhasználó közösen kezdeményezheti az általános közüzemi szerződés módosítását, ha együttes feltételként:”
+
+(2) A Thtv. 38. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Amennyiben a felhasználó a távhővel ellátott épületben lévő, közös tulajdonban és közös használatban lévő épületrész fűtését meg kívánja szüntetni, és ez a közüzemi szerződés módosítását teszi szükségessé, a szerződés módosítására vonatkozó igényt a távhőszolgáltató nem utasíthatja el.”
+
+#### 13. §
+
+A Thtv. 57. §-a a következő új (3) bekezdéssel egészül ki, egyben a jelenlegi (3) bekezdés számozása (4) bekezdésre változik:
+
+„(3) A távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját, illetve a távhőnek a távhőtermelő és a távhőszolgáltató közötti szerződésben meghatározott árát külön jogszabályban meghatározott szempontok szerint úgy kell meghatározni, hogy az a hatékonyan működő vállalkozó szükséges és indokoltan felmerült ráfordításaira és a működéséhez szükséges nyereségre fedezetet biztosítson, valamint biztosítsa, hogy a kapcsoltan termelt villamos energia kötelező átvételi rendszerében történő részvételből származó előny a távhőfogyasztókhoz kimutathatóan eljusson”
+
+#### 14. §
+
+A Thtv. a VIII. fejezetet megelőzően a következő új 57/A–C. §-okkal egészül ki:
+
+„57/A. § (1) A távhőszolgáltatás csatlakozási díjának és a lakossági távhőszolgáltatás díjának megváltoztatását a távhőszolgáltató kezdeményezi.
+
+(2) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezésében köteles részletesen és teljes körűen alátámasztani, hogy – az 57. § (3) bekezdésében meghatározottakra tekintettel – az adott díj megváltoztatását mely körülmények és milyen mértékben indokolják.
+
+(3) A távhőszolgáltató az (1) bekezdés szerinti kezdeményezést a Hivatalnak megküldi, amely közigazgatási hatósági eljárás keretében 30 napon belül dönt arról, hogy a díj a távhőszolgáltató által alátámasztott megváltozása esetén megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal eljárásáért a külön jogszabályban meghatározott igazgatási-szolgáltatási díjat kell fizetni. A Hivatal a határozatát a honlapján közzéteszi.
+
+(4) A (3) bekezdésben meghatározott eljárás során ügyfélnek minősül
+
+*a)* a távhőszolgáltató,
+
+*b)* a távhőszolgáltatóval szerződésben álló távhőtermelő,
+
+*c)* a távhőszolgáltatással összefüggésben ármegállapítási hatáskörrel rendelkező helyi önkormányzat,
+
+*d)* az a társadalmi szervezet vagy alapítvány, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a távhőszolgáltatás igénybevevői mint fogyasztók jogainak védelme szerepel.
+
+(5) A távhőszolgáltató a kezdeményezését a Hivatalnak a (3) bekezdésben meghatározott tárgyú jogerős határozatával együtt küldi meg az ármegállapítási hatáskörrel rendelkező helyi önkormányzatnak.
+
+(6) A kezdeményezést és a Hivatal határozatát az önkormányzat képviselő-testülete az ármegállapítás előtt 5 nappal köteles a honlapján, ennek hiányában a helyben szokásos módon közzétenni.
+
+(7) A helyi önkormányzat a távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját megállapító rendeletét a távhőszolgáltató olyan kezdeményezésével azonos tartalommal adhatja ki, amelyről a Hivatal jogerős határozatban megállapította, hogy az megfelel az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. E rendelkezés nem akadálya annak, hogy a távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját a helyi önkormányzat úgy határozza meg, hogy az alacsonyabb legyen, mint a távhőszolgáltató kezdeményezésében foglaltak alkalmazásával érvényesítendő ár.
+
+(8) Ha a Hivatal a távhőszolgáltató kezdeményezésének kézhezvételétől számított 30 napon belül nem hoz határozatot, akkor a helyi önkormányzat a távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját megállapító rendeletét a távhőszolgáltató kezdeményezésével azonos tartalommal kiadhatja.
+
+57/B. § (1) A Hivatal hivatalból indult közigazgatási hatósági eljárás keretében ellenőrizheti, hogy a távhőszolgáltatás csatlakozási díja és a lakossági távhőszolgáltatás díja, illetve a távhőtermelő és a távhőszolgáltató közötti szerződésben meghatározott ár megfelel-e az 57. § (2)–(3) bekezdésében meghatározott követelményeknek. A Hivatal a határozatát a honlapján közzéteszi.
+
+(2) Az (1) bekezdésben meghatározott eljárás során ügyfélnek minősülnek az 57/A. § (3) bekezdésében meghatározott személyek és szervezetek.
+
+(3) Ha a Hivatal az (1) bekezdésben meghatározott eljárása során azt állapítja meg, hogy a távhőszolgáltatás csatlakozási díja vagy a lakossági távhőszolgáltatás díja nem felel meg az 57. § (2)–(3) bekezdésében meghatározott követelményeknek, a törvényben meghatározott egyéb jogkövetkezmények alkalmazásán túl a távhőszolgáltatót felszólítja, hogy az kezdeményezze a díj megváltoztatását, illetve a helyi önkormányzat távhőszolgáltatás csatlakozási díját és a lakossági távhőszolgáltatás díját megállapító rendeletének vizsgálata érdekében a törvényességi ellenőrzési hatáskörében eljáró közigazgatási hivatalhoz fordul.
+
+(4) Ha a Hivatal az (1) bekezdésben meghatározott eljárása során azt állapítja meg, hogy a távhőtermelő és a távhőszolgáltató közötti szerződésben meghatározott ár nem felel meg az 57. § (2)–(3) bekezdésében meghatározott követelményeknek, a távhőtermelőt és a távhőszolgáltatót felszólítja az ár megváltoztatására. Ha a felszólításnak a távhőtermelő és a távhőszolgáltató harminc napon belül nem tesz eleget, a Hivatal – a törvényben meghatározott egyéb jogkövetkezmények alkalmazásán túl – a szerződés e rendelkezése törvénybe ütközésének megállapítása érdekében keresetet indíthat.
+
+57/C. § (1) A távhőszolgáltató honlapján közzéteszi és a Hivatalnak – az erre a célra fenntartott honlapon való közzététel céljából – haladéktalanul megküldi
+
+*a)* a távhőszolgáltató és a távhőtermelő közötti hővásárlási és ármegállapítási célú megállapodásokat,
+
+*b)* a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közüzemi szolgáltatás ellátására kötött megállapodásokat,
+
+*c)* a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási és ármegállapítási célú megállapodásokat.
+
+(2) Az (1) bekezdésben meghatározott megállapodásokból a távhőszolgáltató törölheti a technológiai eljárásokra, a műszaki megoldásokra, a gyártási folyamatokra, a munkaszervezési és logisztikai módszerekre, továbbá a know-how-ra vonatkozó olyan üzleti titkokat, amelyek megismerése a távhőszolgáltató vagy a távhőtermelő üzleti tevékenységének végzése szempontjából aránytalan sérelmet okozna.
+
+(3) Nem törölhető a (2) bekezdés szerint
+
+*a)* az alkalmazott ár, illetve díj mértéke, a díjstruktúra,
+
+*b)* a költségtételek megjelölése és mértéke, a figyelembevétel módja,
+
+*c)* a díjtételek megjelölése és mértéke, a figyelembevétel módja,
+
+*d)* az elvárt nyereség meghatározása,
+
+*e)* a kapcsolt és a megújuló energiaforrással történő energiatermelés kimutatható környezetvédelmi és gazdasági előnyei – az 57. § (2) bekezdés c) pontja szerinti – figyelembevételének módja, és
+
+*f)* minden egyéb olyan adat, amely az árképzés, illetve a díjmegállapítás alapjául szolgál.
+
+(4) A távhőszolgáltató – az (1) bekezdésben foglaltakon túl – a honlapján közzéteszi
+
+*a)* az üzletszabályzatát,
+
+*b)* a felhasználói panaszok intézésével kapcsolatos információkat,
+
+*c)* a feladatkörrel rendelkező fogyasztóvédelmi szervek és felhasználói társadalmi érdekképviseletek elérhetőségét,
+
+*d)* a számvitelről szóló törvénynek megfelelő formában az előző gazdálkodási év adatait,
+
+*e)* külön jogszabályban meghatározott információkat,
+
+*f)* a távhőszolgáltató szolgáltatási területén elérhető, a távhőszolgáltatással kapcsolatos támogatások feltételeit, pályázatok adatait.”
+
+#### 15. §
+
+A Thtv. 60. § (2) bekezdése a következő új *d)–e)* pontokkal egészül ki:
+
+*(Az energiapolitikáért felelős miniszter rendeletben)*
+
+„*d)* az államháztartásért felelős miniszterrel egyetértésben meghatározza az 57. § (3) bekezdése szerinti szempontokat,
+
+*e)* az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó adatok körét.”
+
+#### 16. §[^62]
+
+Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+a) a távhőt felhasználó lakóépületek és lakások felújításához nyújtandó támogatás,
+
+b) a lakossági távhőfogyasztók számára a távhőszolgáltatás, a lakossági vezetékes gázfogyasztók számára a gázszolgáltatás igénybevételéhez nyújtandó támogatás
+
+szabályait.
+
+#### 17. §
+
+(1) Ez a törvény – a (2) bekezdésben foglaltak kivételével – 2009. január 1-jén lép hatályba.
+
+(2) A törvény 11. §-a, 13–15. §-a, valamint a (3) és az (5) bekezdés 2009. július 1-jén lép hatályba.
+
+(3) Az árak megállapításáról szóló 1990. évi LXXXVII. törvény 7. § (5) bekezdésében a „rendeletben állapítja meg, az energiapolitikáért felelős miniszter véleményének beszerzését követően” szövegrész helyébe a „külön törvényben meghatározottak szerint rendeletben állapítja meg” szöveg lép.
+
+(4)[^63]
+
+(5) Hatályát veszti a Thtv. 6. § (2) bekezdés b) pontjának harmadik és negyedik mondata, a 10. § b) pontja, valamint a 60. § (2) bekezdés a) pontjában az „[5. § (2)–(3) bekezdések]” szövegrész.
+
+(6)[^64] Ez a törvény a következő európai uniós jogi aktusnak való megfelelést szolgálja: a Tanács 2009/133/EK irányelve a különböző tagállamok társaságainak egyesülésére, szétválására, részleges szétválására, eszközátruházására és részesedéscseréjére, valamint az SE-k vagy az SCE-k létesítő okirat szerinti székhelyének a tagállamok közötti áthelyezésére alkalmazandó adóztatás közös rendszeréről (2009. október 19).
+
+(7)[^65]
+
+### Átmeneti rendelkezések[^66]
+
+#### 18. §[^67]
+
+(2)[^68]
+
+(3)[^69] E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (3) bekezdés i) pontját az adózó a 2014. adóévi adókötelezettségének megállapítása során is alkalmazhatja.
+
+(4)[^70] Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felhasználása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó a 2014-ben kezdődő adóév adókötelezettségének megállapítása során választása szerint alkalmazza.
+
+(5)[^71] E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (2) bekezdés b) pontját, *c)* pontját, *h)* pontját és 6. § (3) bekezdés b) és h) pontját az adózó első alkalommal a 2015. adóévi adókötelezettsége megállapítása során alkalmazhatja.
+
+(6)[^72] E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel módosított 6. § (2) bekezdés b) pontját a 2015. adóévi adókötelezettségre az adózó választása szerint alkalmazza.
+
+(7)[^73] Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 6. § (3) bekezdés j) és k) pontját első alkalommal a 2016. adóévi adókötelezettség megállapítása során kell alkalmazni.
+
+(8)[^74] Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.
+
+(9)[^75] Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.
+
+(10)[^76] E törvénynek az energetikai tárgyú törvények, valamint egyes klímapolitikai és adózási tárgyú törvények módosításáról szóló 2018. évi XCIX. törvénnyel megállapított 6. § (2) bekezdés b) pontját az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszközre vonatkozóan első alkalommal a 2018. évi adókötelezettség megállapításakor kell alkalmazni.
+
+(11)[^77] Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a, hatályon kívül helyezett 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése alapján adóelőleg-kiegészítési kötelezettség a 2019-ben kezdődő adóévtől kezdődően az adózót nem terheli, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (8) bekezdése, 18. §-a hatálybalépésének, továbbá 8. § (7) és (7a) bekezdése, 18. § (2) bekezdése hatályon kívül helyezésének[^78] napja.
+
+(12)[^79] E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 6. § (3) bekezdés m) pontja, (18) és (19) bekezdése első alkalommal a 2020. adóév negatív adóalapjára alkalmazható.
+
+(13)[^80] E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel módosított 6. § (2) bekezdés b) pontját a Tao. tv. 3. számú melléklet B) rész 25. pontjával összefüggésben első alkalommal a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény hatálybalépése napját követő ügyletekre kell alkalmazni.
+
+(14)[^81] E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel módosított 6. § (2) bekezdés b) pontját a Tao. tv. 3. számú melléklet B) rész 26. pontjával összefüggésben az adózó a 2022. adóévi adókötelezettségére választása szerint alkalmazza.
+
+(15)[^82] E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 6. § (3) bekezdés l) pontját, valamint (14) és (15) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (18) bekezdésben foglaltakra.
+
+(16)[^83]
+
+(17)[^84]
+
+(18)[^85] E bekezdés hatálybalépését megelőzően, de 2022. január 31-ét követően benyújtott adóbevallását illetően az e törvény 6. § (3) bekezdés l) pontja tekintetében az adózónak önellenőrzést kell benyújtania.
+
+(19)[^86]
+
+(20)[^87] E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 6. § (11a) és (11b) bekezdését az adóalany első alkalommal a 2023. adóévi adókötelezettségére alkalmazza.
+
+(21)[^88] A vállalkozások adóterheit csökkentő intézkedésekről szóló 2025. évi LXXXIV. törvénnyel megállapított 7/A. § szerinti adókedvezmény első alkalommal a 2026. adóévre és a 2025. december 31-ét követően megkezdett beruházásokra alkalmazható.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2008. november 10-i ülésnapján fogadta el. A kihirdetés napja: 2008. november 15. A preambulumot a 2011: CCI. törvény 331. §-a hatályon kívül helyezte.
+[^2]: A 3. § a 2009: CIX. törvény 44. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 2017: LXXVII. törvény 30. §-ával megállapított szöveg.
+[^4]: Az 5. § (1) bekezdése a 2012: LXIX. törvény 60. §-ával megállapított szöveg.
+[^5]: Az 5. § (2) bekezdése a 2017: CLIX. törvény 166. § 1. pontja, a 2018: XLI. törvény 43. § 1. pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdése a 2012: CLXXVIII. törvény 70. §-ával megállapított, a 2018: XLI. törvény 43. § 2. pontja, a 2021: LXIX. törvény 73. §-a szerint módosított szöveg.
+[^7]: A 6. § (2) bekezdés a) pontját a 2013: CC. törvény 245. §-a hatályon kívül helyezte.
+[^8]: A 6. § (2) bekezdés b) pontja a 2021: LXIX. törvény 70. § (1) bekezdésével megállapított, a 2022: XXIV. törvény 63. §-a szerint módosított szöveg.
+[^9]: A 6. § (2) bekezdés c) pontja a 2014: LXXIV. törvény 157. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (2) bekezdés d) pontja a 2013: CC. törvény 244. §-a szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdés e) pontja a 2013: CC. törvény 244. §-a szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdés h) pontját a 2014: LXXIV. törvény 157. § (3) bekezdése iktatta be.
+[^13]: A 6. § (3) bekezdés b) pontja a 2018: XCIX. törvény 94. § (3) bekezdésével megállapított szöveg.
+[^14]: A 6. § (3) bekezdés d) pontja a 2015: CLXXVIII. törvény 36. §-ával megállapított szöveg.
+[^15]: A 6. § (3) bekezdés h) pontját a 2014: LXXIV. törvény 157. § (5) bekezdése iktatta be.
+[^16]: A 6. § (3) bekezdés i) pontját a 2014: LXXIV. törvény 157. § (6) bekezdése iktatta be, szövege a 2016: CXXV. törvény 51. § 1. pontja szerint módosított szöveg.
+[^17]: A 6. § (3) bekezdés j) pontját a 2016: CXXV. törvény 46. §-a iktatta be, szövege a 2021: LXIX. törvény 72. §-a szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdés k) pontját a 2016: CXXV. törvény 46. §-a iktatta be.
+[^19]: A 6. § (3) bekezdés l) pontját a 2017: LXXVII. törvény 31. § (1) bekezdése iktatta be, szövege a 2022. évi XLV. törvény 33. §-a és 34. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdés m) pontját a 2021: LXIX. törvény 70. § (2) bekezdése iktatta be.
+[^21]: A 6. § (6) bekezdése a 2014: LXXIV. törvény 161. § 2–3. pontja szerint módosított szöveg.
+[^22]: A 6. § (7) bekezdése a 2014: LXXIV. törvény 161. § 2. és 4. pontja szerint módosított szöveg.
+[^23]: A 6. § (8) bekezdése a 2016: CXXV. törvény 51. § 2. pontja szerint módosított szöveg.
+[^24]: A 6. § (11) bekezdése a 2023. évi LIX. törvény 36. § (1) bekezdésével megállapított szöveg.
+[^25]: A 6. § (11a) bekezdését a 2023. évi LIX. törvény 36. § (2) bekezdése iktatta be.
+[^26]: A 6. § (11b) bekezdését a 2023. évi LIX. törvény 36. § (2) bekezdése iktatta be.
+[^27]: A 6. § (12) bekezdését a 2013: CC. törvény 241. §-a iktatta be.
+[^28]: A 6. § (13) bekezdését a 2017: LXXVII. törvény 31. § (2) bekezdése iktatta be, a 2022. évi XLV. törvény 34. § b) pontja hatályon kívül helyezte.
+[^29]: A 6. § (14) bekezdését a 2017: LXXVII. törvény 31. § (2) bekezdése iktatta be, szövege a 2022. évi XLV. törvény 34. § c) pontja szerint módosított szöveg.
+[^30]: A 6. § (15) bekezdését a 2017: LXXVII. törvény 31. § (2) bekezdése iktatta be, szövege a 2022. évi XLV. törvény 31. §-ával megállapított, a 2024. évi LV. törvény 90. §-a szerint módosított szöveg.
+[^31]: A 6. § (16) bekezdését a 2017: LXXVII. törvény 31. § (2) bekezdése iktatta be.
+[^32]: A 6. § (17) bekezdését a 2017: LXXVII. törvény 31. § (2) bekezdése iktatta be, a 2022. évi XLV. törvény 34. § b) pontja hatályon kívül helyezte.
+[^33]: A 6. § (18) bekezdését a 2021: LXIX. törvény 70. § (3) bekezdése iktatta be.
+[^34]: A 6. § (19) bekezdését a 2021: LXIX. törvény 70. § (3) bekezdése iktatta be.
+[^35]: A 7. § a 2012: LXIX. törvény – a 2012: CLXXVIII. törvény 377. §-ával megállapított – 61. §-ával megállapított szöveg.
+[^36]: A 7. § (1) bekezdése a 2025. évi LIV. törvény 57. §-ával megállapított szöveg.
+[^37]: A 7. § (2) bekezdése a 2018: LXXXII. törvény 42. § (1) bekezdésével megállapított szöveg.
+[^38]: A 7. § (2a) bekezdését a 2018: LXXXII. törvény 42. § (2) bekezdése iktatta be, szövege a 2023. évi LXXXIII. törvény 75. § (1) bekezdésével megállapított szöveg.
+[^39]: A 7. § (2b) bekezdését a 2023. évi LXXXIII. törvény 75. § (2) bekezdése iktatta be.
+[^40]: A 7. § (2c) bekezdését a 2025. évi LXXXIV. törvény 21. §-a iktatta be.
+[^41]: A 7. § (3) bekezdését a 2013: XXXVII. törvény 56. § (1) bekezdése iktatta be.
+[^42]: Az „Energetikai fejlesztésre irányuló beruházás adókedvezménye” alcímet (7/A. §-t) a 2025. évi LXXXIV. törvény 22. §-a iktatta be.
+[^43]: A 8. §-t megelőző alcím a 2013: CC. törvény 242. §-ával megállapított szöveg.
+[^44]: A 8. § a 2013: CC. törvény 242. §-ával megállapított szöveg.
+[^45]: A 8. § (1) bekezdése a 2017: CLIX. törvény 166. § 2. pontja szerint módosított szöveg.
+[^46]: A 8. § (5) bekezdése a 2014: LXXIV. törvény 161. § 2. és 6. pontja szerint módosított szöveg.
+[^47]: A 8. § (7) bekezdését a 2019: LXXIII. törvény 42. § 1. pontja hatályon kívül helyezte.
+[^48]: A 8. § (7a) bekezdését a 2014: LXXIV. törvény 158. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2019: LXXIII. törvény 42. § 1. pontja.
+[^49]: A 8. § (8) bekezdése a 2019: LXXIII. törvény 40. §-ával megállapított szöveg.
+[^50]: A 9. § (4) bekezdését a 2015: CLXXVIII. törvény – 2015: CXCI. törvény 70. §-a szerint módosított – 37. §-a iktatta be.
+[^51]: A 9. § (5) bekezdését a 2015: CLXXVIII. törvény 37. §-a iktatta be.
+[^52]: A 9. § (6) bekezdését a 2025. évi LXXXIV. törvény 23. §-a iktatta be.
+[^53]: Lásd a 38/2025. (XII. 29.) EM rendeletet.
+[^54]: A 9. § (7) bekezdését a 2025. évi LXXXIV. törvény 23. §-a iktatta be.
+[^55]: A 10. § 1. pontja a 2025. évi L. törvény 182. §-ával megállapított szöveg.
+[^56]: A 10. § 10. pontja a 2016: LXVIII. törvény 160. §-ával megállapított szöveg.
+[^57]: A 10. § 11. pontját a 2012: LXIX. törvény 62. § (2) bekezdése iktatta be, szövege a 2013: XXXVII. törvény 56. § (2) bekezdésével megállapított szöveg.
+[^58]: A 10. § 11. pont 11.1. alponjtát a 2025. évi LIV. törvény 58. §-a hatályon kívül helyezte.
+[^59]: A 10. § 11. pont 11.2. alponjtát a 2025. évi LIV. törvény 58. §-a hatályon kívül helyezte.
+[^60]: A 10. § 11.3. pontja a 2023. évi XLV. törvény 6. §-a szerint módosított szöveg.
+[^61]: A 10. § 12. pontját a 2017: LXXVII. törvény 32. §-a iktatta be.
+[^62]: A 16. § a 2009: CIX. törvény 44. § (2) bekezdésével megállapított szöveg.
+[^63]: A 17. § (4) bekezdését a 2009: LXXXIX. törvény 20. § (3) bekezdése hatályon kívül helyezte.
+[^64]: A 17. § (6) bekezdése a 2014: LXXIV. törvény 159. §-ával megállapított szöveg.
+[^65]: A 17. § (7) bekezdését a 2012: LXIX. törvény 63. §-a hatályon kívül helyezte.
+[^66]: A 18. §-t megelőző alcímet a 2013: CC. törvény 243. §-a iktatta be.
+[^67]: A 18. §-t a 2013: CC. törvény 243. §-a iktatta be, hatályon kívül helyezte a 2019: LXXIII. törvény 42. § 2. pontja.
+[^68]: A 18. § (2) bekezdését a 2014: LXXIV. törvény 160. § (1) bekezdése iktatta be, hatályon kívül helyezte a 2019: LXXIII. törvény 42. § 3. pontja.
+[^69]: A 18. § (3) bekezdését a 2014: LXXIV. törvény 160. § (1) bekezdése iktatta be.
+[^70]: A 18. § (4) bekezdését a 2014: LXXIV. törvény 160. § (1) bekezdése iktatta be.
+[^71]: A 18. § (5) bekezdését a 2014: LXXIV. törvény 160. § (2) bekezdése iktatta be.
+[^72]: A 18. § (6) bekezdését a 2015: LXXXI. törvény 25. §-a iktatta be.
+[^73]: A 18. § (7) bekezdését a 2016: CXXV. törvény 50. §-a iktatta be.
+[^74]: A 18. § (8) bekezdését a 2017: LXXVII. törvény 33. §-a iktatta be.
+[^75]: A 18. § (9) bekezdését a 2018: LXXXII. törvény 43. §-a iktatta be.
+[^76]: A 18. § (10) bekezdését a 2018: XCIX. törvény 95. §-a iktatta be.
+[^77]: A 18. § (11) bekezdését a 2019: LXXIII. törvény 41. §-a iktatta be.
+[^78]: A hatálybalépés időpontja 2019. július 24.
+[^79]: A 18. § (12) bekezdését a 2021: LXIX. törvény 71. §-a iktatta be.
+[^80]: A 18. § (13) bekezdését a 2021: LXIX. törvény 71. §-a iktatta be.
+[^81]: A 18. § (14) bekezdését a 2022: XXIV. törvény 62. §-a iktatta be.
+[^82]: A 18. § (15) bekezdését a 2022. évi XLV. törvény 32. §-a iktatta be.
+[^83]: A 18. § (16) bekezdését a 2022. évi XLV. törvény 32. §-a iktatta be, a 2024. évi LV. törvény 91. §-a hatályon kívül helyezte.
+[^84]: A 18. § (17) bekezdését a 2022. évi XLV. törvény 32. §-a iktatta be, a 2024. évi LV. törvény 91. §-a hatályon kívül helyezte.
+[^85]: A 18. § (18) bekezdését a 2022. évi XLV. törvény 32. §-a iktatta be.
+[^86]: A 18. § (19) bekezdését a 2022. évi XLV. törvény 32. §-a iktatta be, a 2024. évi LV. törvény 91. §-a hatályon kívül helyezte.
+[^87]: A 18. § (20) bekezdését a 2023. évi LIX. törvény 38. §-a iktatta be.
+[^88]: A 18. § (21) bekezdését a 2025. évi LXXXIV. törvény 24. §-a iktatta be.

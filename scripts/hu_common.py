@@ -66,3 +66,13 @@ def post_json(url, payload):
     return request("POST", url, json=payload,
                    headers={"Content-Type": "application/json; charset=utf-8",
                             "X-Requested-With": "XMLHttpRequest"})
+
+
+def today():
+    import datetime
+    return os.environ.get("HU_TODAY") or datetime.date.today().isoformat()
+
+
+def in_force(item):
+    """In force (or enacted and not yet in force) today: no end date or end date later."""
+    return item.get("to") is None or item["to"] > today()

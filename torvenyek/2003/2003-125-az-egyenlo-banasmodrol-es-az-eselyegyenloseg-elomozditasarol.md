@@ -1,0 +1,947 @@
+---
+title: "2003. évi CXXV. törvény az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról"
+identifier: "2003. évi CXXV. törvény"
+njt_id: "2003-125-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2003/125"
+type: act
+jurisdiction: hu
+language: hu
+date: 2003-12-28
+in_force_from: 2010-01-01
+last_amended: 2026-07-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-125-00-00"
+retrieved: 2026-10-12
+---
+
+# 2003. évi CXXV. törvény az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról[^1]
+
+Az Országgyűlés
+
+elismerve minden ember jogát ahhoz, hogy egyenlő méltóságú személyként élhessen,
+
+azon szándékától vezérelve, hogy hatékony jogvédelmet biztosítson a hátrányos megkülönböztetést elszenvedők számára,
+
+kinyilvánítva azt, hogy az esélyegyenlőség és a társadalmi felzárkózás előmozdítása elsősorban állami kötelezettség,
+
+tekintettel az Alaptörvény II. és XV. cikkére, valamint a Köztársaság nemzetközi kötelezettségeire és az európai közösségi jog vívmányaira
+
+a következő törvényt alkotja:[^2]
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §[^3]
+
+Az egyenlő bánásmód követelménye alapján Magyarország területén tartózkodó természetes személyekkel, ezek csoportjaival, valamint a jogi személyekkel és a jogi személyiséggel nem rendelkező szervezetekkel szemben e törvény rendelkezései szerint azonos tisztelettel és körültekintéssel, az egyéni szempontok azonos mértékű figyelembevételével kell eljárni.
+
+#### 2. §
+
+Az egyenlő bánásmód követelményére vonatkozó, külön jogszabályokban meghatározott rendelkezéseket e törvény rendelkezéseivel összhangban kell alkalmazni.
+
+### Fogalmak
+
+#### 3. §[^4]
+
+(1) E törvény alkalmazásában
+
+a)[^5] *foglalkoztatási jogviszony:* a munkaviszony, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a köznevelési foglalkoztatotti jogviszony, az adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, nemzetbiztonsági alkalmazotti jogviszony, honvédelmi alkalmazotti jogviszony, a bírósági szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonya, az ügyészségi szolgálati jogviszony, a hivatásos és szerződéses szolgálati jogviszony, a nevelőszülői foglalkoztatási jogviszony, a kölcsönbeadó és a kölcsönzött munkavállaló között a munka törvénykönyvéről szóló törvény szerinti munkaerő-kölcsönzés alapján fennálló jogviszony,
+
+b) *munkavégzésre irányuló egyéb jogviszony:* a bedolgozói munkaviszony, a munkavégzésre irányuló vállalkozási és megbízási szerződés alapján létrejött jogviszony, a szakcsoporti tagsági viszony, valamint a szövetkezeti tagsági viszonynak, továbbá a személyes közreműködéssel járó gazdasági és polgári jogi társasági tevékenységnek a munkavégzésre irányuló elemei,
+
+c) *állami támogatás:* az államháztartás alrendszereinek költségvetése terhére ingyenes vagy kedvezményes források, illetve egyéb előny bármilyen formában történő nyújtása oly módon, hogy ez állami bevételkiesést vagy állami kiadást jelent, ideértve az állami kezességvállalást is, valamint az Európai Unióból, nemzetközi szervezetektől és más államokból származó források, adományok és segélyek, amennyiben azok a központi költségvetésen keresztül kerülnek folyósításra,
+
+d) *közszolgáltatás:* szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
+
+e) *civil és érdek-képviseleti szervezet:* az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének, illetve társadalmi felzárkózásának elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
+
+f) *hozzátartozó:* a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, illetve az egyeneságbeli rokon házastársa, bejegyzett élettársa, a házastárs, illetve a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, illetve bejegyzett élettársa,
+
+g)[^6] *kérelmező:* az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az egyenlő bánásmód követelménye megsértésének megállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
+
+h) *eljárás alá vont személy:* az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják,
+
+i)[^7] *jogsértő:* az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság megállapította a jogsértést.
+
+(2) E törvény alkalmazásában munkaerő-kölcsönzés esetén munkáltatón a kölcsönvevőt is érteni kell.
+
+### A törvény hatálya
+
+#### 4. §
+
+Az egyenlő bánásmód követelményét
+
+a) a magyar állam,
+
+b)[^8] a helyi és kisebbségi önkormányzatok, ezek szervei,
+
+c) a hatósági jogkört gyakorló szervezetek,
+
+d)[^9] a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi szervek,
+
+e)[^10] a közalapítványok, a köztestületek, valamint munkavállalók és munkáltatók érdekképviseleti szervezetei
+
+f) a közszolgáltatást végző szervezetek,
+
+g)[^11] a köznevelési intézmények, a szakképző intézmények és a felsőoktatási intézmények (a továbbiakban együtt: oktatási intézmény),
+
+h) a szociális, gyermekvédelmi gondoskodást, valamint gyermekjóléti szolgáltatást nyújtó személyek és intézmények,
+
+i) a muzeális intézmények, a könyvtárak, a közművelődési intézmények,
+
+j) az önkéntes kölcsönös biztosítópénztárak, a magánnyugdíjpénztárak,
+
+k) az egészségügyi ellátást nyújtó szolgáltatók,
+
+l) a pártok, valamint
+
+m) az *a)–l)* pontok alá nem tartozó költségvetési szervek
+
+jogviszonyaik létesítése során, jogviszonyaikban, eljárásaik és intézkedéseik során (a továbbiakban együtt: jogviszony) kötelesek megtartani.
+
+#### 5. §
+
+Az egyenlő bánásmód követelményét a 4. §-ban foglaltakon túl az adott jogviszony tekintetében köteles megtartani,
+
+a) aki előre meg nem határozott személyek számára szerződés kötésére ajánlatot tesz vagy ajánlattételre felhív,
+
+b) aki az ügyfélforgalom számára nyitva álló helyiségeiben szolgáltatást nyújt vagy árut forgalmaz,
+
+c) az állami támogatás felhasználása során létrejövő jogviszonyai tekintetében az állami támogatásban részesülő egyéni vállalkozó, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet az állami támogatás igénybevételétől kezdődően mindaddig, amíg az állami támogatás felhasználását az arra jogosult szerv a rá vonatkozó szabályok szerint ellenőrizheti, valamint
+
+d) a munkáltató a foglalkoztatási jogviszony, az utasításadásra jogosult személy a munkavégzésre irányuló egyéb jogviszony, illetve az ezekkel közvetlenül összefüggő jogviszonyok tekintetében.
+
+#### 6. §
+
+(1) E törvény hatálya nem terjed ki
+
+a) a családjogi jogviszonyokra,
+
+b) a hozzátartozók közötti jogviszonyokra,
+
+c)[^12] a vallási közösség hitéleti tevékenységével közvetlenül összefüggő jogviszonyára, valamint
+
+d)[^13] e törvény 4. §-ának alkalmazása során – jogszabály eltérő rendelkezése hiányában – az egyesületek, a jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek tagjai közötti, a tagsággal összefüggő jogviszonyokra.
+
+(2) Az (1) bekezdés d) pontja
+
+a)[^14] a tagsági jogviszony létesítése és megszüntetése, valamint – a közalapítványok kivételével – a 4. § e) pontja szerinti szervezetek esetében a tagsági és a részvételi jogok gyakorlása, továbbá
+
+b) a 8. § j) pontjában meghatározott tulajdonság kivételével a pártok jogviszonyai
+
+vonatkozásában nem alkalmazható.
+
+#### 7. §
+
+(1) Az egyenlő bánásmód követelményének megsértését jelenti – különösen a III. fejezetben meghatározottak szerint – a közvetlen hátrányos megkülönböztetés, a közvetett hátrányos megkülönböztetés, a zaklatás, a jogellenes elkülönítés, a megtorlás, valamint az ezekre adott utasítás.
+
+(2)[^15] Ha e törvény eltérően nem rendelkezik, az olyan magatartás, intézkedés, feltétel, mulasztás, utasítás vagy gyakorlat (a továbbiakban együtt: rendelkezés) nem sérti az egyenlő bánásmód követelményét,
+
+a) amely a hátrányt szenvedő fél alapvető jogát másik alapvető jog érvényesülése érdekében, elkerülhetetlen esetben korlátozza, feltéve, hogy a korlátozás a cél elérésére alkalmas és azzal arányos,
+
+b) amelynek az *a)* pont hatálya alá nem tartozó esetekben tárgyilagos mérlegelés szerint az adott jogviszonnyal közvetlenül összefüggő, ésszerű indoka van.
+
+(3)[^16] A 8. § b)–e) pontja szerinti tulajdonságon alapuló közvetlen hátrányos megkülönböztetés, valamint jogellenes elkülönítés esetében a (2) bekezdés nem alkalmazható.
+
+### Hátrányos megkülönböztetés
+
+#### 8. §[^17]
+
+Közvetlen hátrányos megkülönböztetésnek minősül az olyan rendelkezés, amelynek eredményeként egy személy vagy csoport valós vagy vélt
+
+a)[^18] neme, illetve ennek megfelelő identitása,
+
+b) faji hovatartozása,
+
+c) bőrszíne,
+
+d) nemzetisége,
+
+e)[^19] nemzetiséghez való tartozása,
+
+f) anyanyelve,
+
+g) fogyatékossága,
+
+h) egészségi állapota,
+
+i) vallási vagy világnézeti meggyőződése,
+
+j) politikai vagy más véleménye,
+
+k) családi állapota,
+
+l) anyasága (terhessége) vagy apasága,
+
+m) szexuális irányultsága,
+
+n)[^20]
+
+o) életkora,
+
+p) társadalmi származása,
+
+q) vagyoni helyzete,
+
+r) foglalkoztatási jogviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának részmunkaidős jellege, illetve határozott időtartama,
+
+s) érdekképviselethez való tartozása,
+
+t) egyéb helyzete, tulajdonsága vagy jellemzője (a továbbiakban együtt: tulajdonsága)
+
+miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehasonlítható helyzetben levő személy vagy csoport részesül, részesült vagy részesülne.
+
+#### 9. §[^21]
+
+Közvetett hátrányos megkülönböztetésnek minősül az a közvetlen hátrányos megkülönböztetésnek nem minősülő, látszólag az egyenlő bánásmód követelményének megfelelő rendelkezés, amely a 8. §-ban meghatározott tulajdonságokkal rendelkező egyes személyeket vagy csoportokat lényegesen nagyobb arányban hátrányosabb helyzetbe hoz, mint amelyben más, összehasonlítható helyzetben lévő személy vagy csoport volt, van vagy lenne.
+
+### Zaklatás, jogellenes elkülönítés, megtorlás
+
+#### 10. §
+
+(1)[^22] Zaklatásnak minősül az az emberi méltóságot sértő, szexuális vagy egyéb természetű magatartás, amely az érintett személynek a 8. §-ban meghatározott tulajdonságával függ össze, és célja vagy hatása valamely személlyel szemben megfélemlítő, ellenséges, megalázó, megszégyenítő vagy támadó környezet kialakítása.
+
+(2)[^23] Jogellenes elkülönítésnek minősül az a rendelkezés, amely a 8. §-ban meghatározott tulajdonságai alapján egyes személyeket vagy személyek csoportját a velük összehasonlítható helyzetben lévő személyektől vagy személyek csoportjától – anélkül, hogy azt törvény kifejezetten megengedné – elkülönít.
+
+(3) Megtorlásnak minősül az a magatartás, amely az egyenlő bánásmód követelményének megsértése miatt kifogást emelő, eljárást indító vagy az eljárásban közreműködő személlyel szemben ezzel összefüggésben jogsérelmet okoz, jogsérelem okozására irányul vagy azzal fenyeget.
+
+### Előnyben részesítés
+
+#### 11. §
+
+(1) Nem jelenti az egyenlő bánásmód követelményének megsértését az a rendelkezés, amely egy kifejezetten megjelölt társadalmi csoport tárgyilagos értékelésen alapuló esélyegyenlőtlenségének felszámolására irányul, ha az
+
+a) törvényen vagy törvény felhatalmazása alapján kiadott kormányrendeleten, illetve kollektív szerződésen alapul, és határozott időre vagy határozott feltétel bekövetkeztéig szól, vagy
+
+b) a párt ügyintéző és képviseleti szervének megválasztása, valamint a pártnak a választási eljárásról szóló törvényben meghatározott választásokon történő jelöltállítása során a párt alapszabályában meghatározott módon érvényesül.
+
+(2) Az (1) bekezdésben meghatározott rendelkezés nem sérthet alapvető jogot, nem biztosíthat feltétlen előnyt, és nem zárhatja ki az egyéni szempontok mérlegelését.
+
+## II. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK MEGSÉRTÉSE MIATT INDÍTOTT ELJÁRÁSOK
+
+#### 12. §[^24]
+
+Az egyenlő bánásmód követelményének megsértése miatti igények az e fejezetben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jog érvényesítése iránti per, munkaügyi per, közszolgálati jogviszonnyal kapcsolatos per, valamint fogyasztóvédelmi, foglalkoztatás-felügyeleti hatóság vagy szabálysértési hatóság eljárása során – érvényesíthetőek.
+
+### Az egyenlő bánásmód követelményének érvényesítésével kapcsolatos egyes szabályok[^25]
+
+#### 13. §[^26]
+
+(1) Az alapvető jogok biztosa (a továbbiakban: hatóság) közigazgatási hatósági eljárás keretében jár el az e törvényben meghatározott ügyekben.
+
+(2) A hatóság e törvény szerinti döntéseivel szemben indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes. A perben kötelező a jogi képviselet.
+
+#### 14. §[^27]
+
+(1)[^28] A hatóság
+
+a) kérelem alapján, illetve az e törvényben meghatározott esetekben hivatalból vizsgálatot folytat annak megállapítására, hogy megsértették-e az egyenlő bánásmód követelményét, valamint kérelem alapján vizsgálatot folytat, hogy az arra kötelezett munkáltatók elfogadtak-e esélyegyenlőségi tervet, a vizsgálat alapján döntést hoz;
+
+b) a közérdekű igényérvényesítés joga alapján pert indíthat a jogaikban sértett személyek és csoportok jogainak védelmében;
+
+c) véleményezi az egyenlő bánásmódot érintő jogszabályok, közjogi szervezetszabályozó eszközök és jelentések tervezeteit;
+
+d) javaslatot tesz az egyenlő bánásmódot érintő kormányzati döntésekre, jogi szabályozásra;
+
+e) rendszeresen tájékoztatja a közvéleményt és az Országgyűlést az egyenlő bánásmód érvényesülésével kapcsolatos helyzetről;
+
+f) feladatainak ellátása során együttműködik a civil és érdekképviseleti szervezetekkel, valamint az érintett állami szervekkel;
+
+g) az érintettek számára folyamatos tájékoztatást ad és segítséget nyújt az egyenlő bánásmód megsértése elleni fellépéshez;
+
+h) közreműködik az egyenlő bánásmód követelményével kapcsolatban nemzetközi szervezetek, így különösen az Európa Tanács számára készülő kormányzati jelentések elkészítésében;
+
+i) közreműködik az Európai Unió Bizottsága számára az egyenlő bánásmódra vonatkozó irányelvek harmonizációjáról szóló jelentések elkészítésében;
+
+j) – kormányrendeletben meghatározott kivétellel – ellátja a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet 14. cikkében meghatározott végrehajtó szerv feladatait.
+
+(2)[^29] A hatóság a közvélemény folyamatos tájékoztatása érdekében jelentéseit, javaslatait, valamint a működésével kapcsolatos részletes információkat honlapján rendszeresen közzéteszi.
+
+(3)[^30] A hatóság nem vizsgálhatja az Országgyűlés, a köztársasági elnök, az Alkotmánybíróság, az Állami Számvevőszék, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint a bíróságok és az ügyészség közhatalmi döntéseit és intézkedéseit.
+
+(4)[^31] Az eljárásban az ügyintézési határidő hetvenöt nap.
+
+(5)[^32] A hatóság a kiskorú ügyfél érdekeinek veszélyeztetettsége esetén soron kívül, de legkésőbb negyvenöt napon belül dönt.
+
+#### 15. §[^33]
+
+(1)[^34] Az egyenlő bánásmód követelménye megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
+
+a) a hatóság, vagy
+
+b) az egyenlő bánásmód követelménye megsértésének elbírálására külön törvény alapján hatáskörrel rendelkező más közigazgatási szerv
+
+folytatja le.
+
+(2)[^35] Az eljárás megindításáról, végleges döntéséről, valamint kapcsolódó közigazgatási pert befejező jogerős határozatról a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
+
+(3) Ha az (1) bekezdés alapján valamely közigazgatási szerv előtt eljárás indult, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
+
+a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
+
+b)[^36] más személy ellen elkövetett törvénysértés esetén a megindult eljárását az ügyben a más közigazgatási szerv által meghozandó döntés véglegessé válásáig felfüggeszti.
+
+(4) Ha az ügyet valamely közigazgatási szerv elbírálta, más közigazgatási szerv ugyanazon törvénysértés tekintetében
+
+a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
+
+b)[^37] más személy ellen elkövetett törvénysértés esetén megindult eljárásában a végleges határozatban megállapított tényállást alapul véve jár el.
+
+(5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének a 4. § a)–d) pontjában meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
+
+(6)[^38]
+
+(7) Ha az eljárás során szakértő meghallgatása, véleményének kikérése szükséges, a hatóságnak elsősorban azt a hatáskörrel rendelkező illetékes közigazgatási szervet kell kirendelnie, amelynél a sérelmet szenvedett személy az (1) bekezdés b) pontja alapján az eljárást megindíthatta volna.
+
+#### 15/A. §[^39]
+
+(1) Az egyenlő bánásmód követelményének megsértése miatt indított eljárásban a 19. §-ban meghatározott bizonyítási szabályok alkalmazásának van helye.
+
+(2)[^40] Az egyenlő bánásmód követelménye megsértésének vizsgálatakor a hatóság a kérelmezőt és az egyenlő bánásmód követelményének megsértését bejelentő személyt erre irányuló kérelmére az eljárás alá vont személy távollétében hallgatja meg.
+
+(3)[^41] A hatóság az egyenlő bánásmód követelménye megtartásának ellenőrzésére tesztelést végezhet, amelynek során az eljárás alá vont személy magatartásának, intézkedésének, feltételének, mulasztásának, utasításának vagy gyakorlatának (a továbbiakban együtt: gyakorlat) vonatkozásában azonos helyzetbe hoz valamely, a 8. §-ban meghatározott tulajdonságukban különböző, de egyéb tekintetben hasonló jellemzőkkel bíró személyeket, és az eljárás alá vont személy gyakorlatát az egyenlő bánásmód követelményének való megfelelés szempontjából megvizsgálja.
+
+(4) A tesztelés eredménye az egyenlő bánásmód követelményének megsértése miatt indított eljárások során bizonyítékként felhasználható.
+
+(5)[^42] A hatóság a (3) bekezdésben megjelölt vizsgálat során megbízási jogviszony keretében közreműködőt is igénybe vehet, akinek a részére megbízólevelet állít ki, amely tartalmazza annak nevét, továbbá azt, hogy mely eljárás alá vont személynél milyen típusú tesztelést folytathat le.
+
+#### 15/B. §[^43]
+
+(1) Ha az egyenlő bánásmód követelményének megsértése miatt a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult bíróság előtt eljárást indított, a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárását az ügy jogerős elbírálásáig felfüggeszti és az erről hozott végzést közli a bírósággal.
+
+(2) A bíróság az egyenlő bánásmód követelményének megsértése miatt hozott jogerős határozatát, vagy az előtte folyamatban levő eljárást felfüggesztő végzését a hatóságnak vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szervnek megküldi.
+
+(3) A hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárása során ugyanazon törvénysértés tekintetében a bíróság határozatának kézhezvételét követően az abban megállapított tényállást alapul véve jár el.
+
+(4) A bíróság határozatának jogerőre emelkedését követően az egyenlő bánásmód követelményének megsértése miatt közigazgatási szerv előtt ugyanazon törvénysértés tekintetében
+
+a) azonos személy ellen elkövetett törvénysértés miatt eljárás nem indítható,
+
+b) más személy ellen elkövetett törvénysértés esetén a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv a bíróság határozatában megállapított tényállást alapul véve jár el.
+
+#### 16. §[^44]
+
+(1)[^45]
+
+(2)[^46] A látássérült ügyfél számára – kérelmére – a tárgyalás során készült jegyzőkönyvet, továbbá az eljárást lezáró döntést Braille-írásban is el kell készíteni.
+
+(3)[^47] A kérelemre indult eljárásban az eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont személy előlegezi meg.
+
+(4)[^48] A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+
+(4a)[^49] Ha a felek a hatóság előtt egyezséget kötnek, és azt a hatóság jóváhagyja, az eljárási költséget – az ügyfél képviseletében eljáró személy költségei és az eljárás résztvevőjének jogellenes magatartása által okozott költségek kivételével – a hatóság viseli.
+
+(5) A hatóság a székhelyén lakcímmel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személyt, ha meghallgatása az eljárás során szükséges, azon önkormányzat polgármesteri hivatalának a székhelyére idézi, amelynek székhelyén lakik vagy életvitelszerűen tartózkodik. Az idézett személy meghallgatását a hatóság az idézésben megjelölt helyszínen foganatosítja. Ha a lakóhellyel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személy életvitelszerűen a fővárosban tartózkodik, a hatóság a székhelyére idézi vagy meghallgatását székhelyén foganatosítja.
+
+(6) Ha az eljárás során a hatóság tárgyalást tart, az ott meghallgatandó személyeket azon települési, fővárosban a kerületi önkormányzat polgármesteri hivatalának a székhelyére idézi, amelynek székhelyén a kérelmező lakcímmel rendelkezik, illetve székhelye található, kivéve, ha a körülmények nem alkalmasak a tárgyalás e polgármesteri hivatalban való megtartására. Ebben az esetben a tárgyalást a kérelmező lakcíméről a hatóság mérlegelése szerint legjobban megközelíthető azon települési, fővárosban kerületi önkormányzat polgármesteri hivatalának székhelyén kell megtartani, amely a tárgyalás megtartásához szükséges feltételeket biztosítani tudja.
+
+(7) A hatóság tárgyalása nyilvános. A hatóság a nyilvánosságot végzéssel az egész tárgyalásról vagy annak egy részéről kizárhatja, ha az minősített adat, üzleti titok vagy külön törvényben meghatározott más titok megőrzése végett feltétlenül szükséges.
+
+(8) A hatóság a nyilvánosságot a közerkölcs védelmében, valamint az ügyfél kérelmére abban az esetben is kizárhatja, ha az az ügyfél személyiségi jogainak védelme érdekében indokolt.
+
+(9) Ha az eljárás alá vont személy az (5) és (6) bekezdésben megjelölt
+
+a) települési, fővárosban kerületi önkormányzat vagy az önkormányzat részvételével működő önkormányzati társulás,
+
+b) az *a)* pontban meghatározott szervek által fenntartott költségvetési szerv,
+
+c) az *a)* pontban meghatározott szervek által alapított vagy támogatott civil szervezet, vagy
+
+d) az *a)* és *b)* pontban meghatározott szervek részvételével működő gazdasági társaság,
+
+a személyeket a lakcímükről legjobban megközelíthető, az eljárásban nem érintett települési önkormányzat polgármesteri hivatalának, fővárosban a hatóság székhelyére kell idézni.
+
+(10)[^50] Ha az (5), (6) és (9) bekezdésben foglaltak alkalmazása aránytalan nehézséggel vagy az eljárás indokolatlan elhúzódásával járna, a meghallgatandó személyt a hatóság – a megjelenéssel járó költségek megtérítése mellett – székhelyére is idézheti.
+
+(11)–(12)[^51]
+
+(13) A hatóságnak a döntés meghozatala előtt meg kell kísérelnie egyezség létrehozását.
+
+(14) A tárgyalás megnyitása után a hatóság röviden ismerteti a tárgyalásig lefolytatott tényállástisztázás során keletkezett azon iratokat, amelyekbe a jelen lévő ügyfelek e törvény vagy külön jogszabályban foglaltak szerint betekinthetnek.
+
+(15) A kérelmező álláspontjának ismertetése után az eljárás alá vont személy ismerteti az üggyel kapcsolatos álláspontját.
+
+(16) A tárgyaláson a hatóság – ha ez a tényállás megállapításához szükséges – az ügyfeleket felhívja nyilatkozataik megtételére, és lefolytatja a bizonyítási eljárást.
+
+(17) A tárgyalás berekesztése előtt a hatóság köteles az ügyfeleket a tárgyalás berekesztésére figyelmeztetni és megkérdezni, hogy kívánnak-e még valamit előadni.
+
+### Az egyenlő bánásmód követelményének megsértése esetén alkalmazható jogkövetkezmények[^52]
+
+#### 17. §[^53]
+
+Az egyenlő bánásmód követelményének érvényesülését vizsgáló hatósági eljárás akkor indítható meg, ha a jogsértésről való tudomásszerzéstől számított egy év, és a jogsértés bekövetkezésétől számított három év még nem telt el.
+
+#### 17/A. §[^54]
+
+(1) Ha a hatóság megállapította az egyenlő bánásmód követelményének megsértését,
+
+a) elrendelheti a jogsértő állapot megszüntetését,
+
+b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
+
+c)[^55] elrendelheti a véglegessé vált határozatának – a jogsértő közérdekből nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – közérdekből nyilvános közzétételét,
+
+d) bírságot szabhat ki,
+
+e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
+
+(1a)[^56] Az (1) bekezdés d) pontja szerinti bírság a központi költségvetés bevétele.
+
+(2)[^57] Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye is.
+
+(3) Az (1) bekezdésben meghatározott jogkövetkezményeket az eset összes körülményére, így különösen a sérelmet szenvedettek körére, a jogsértéssel okozott hátrány visszafordíthatóságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismétlődésére és gyakoriságára, a jogsértést elkövető gazdasági súlyára, a jogsértést elkövető eljárást segítő, együttműködő magatartására tekintettel kell meghatározni.
+
+(4) Az (1) bekezdésben meghatározott jogkövetkezmények együttesen is alkalmazhatóak.
+
+(5) A bírság összege ötvenezer forinttól hatmillió forintig terjedhet.
+
+(6) Ha a hatóság megállapította, hogy az arra kötelezett munkáltató elmulasztotta az esélyegyenlőségi terv elfogadását, felszólítja a munkáltatót a mulasztás pótlására, és – a (3) és (4) bekezdés megfelelő alkalmazásával – az (1) bekezdés c)–e) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
+
+(7) Az egyenlő bánásmód követelményét biztosító rendelkezés megsértéséért kiszabható bírság megállapítására irányuló eljárás a hatóságnak a jogsértésről való tudomásszerzésétől számított három hónapon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg. Ha a jogsértő magatartás vagy állapot folyamatos, a határidő ennek befejeződésekor kezdődik.
+
+#### 17/B. §[^58]
+
+(1)[^59]
+
+(2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+
+(3)[^60]
+
+#### 17/C. §[^61]
+
+(1)[^62] A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság végleges és végrehajtható határozata, illetőleg – a határozat elleni közigazgatási per esetén – jogerős bírósági határozat jogsértést állapított meg.
+
+(2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
+
+a) a foglalkoztató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét,
+
+b)[^63] a jogsértést megállapító határozat keltét és számát, véglegessé és végrehajthatóvá válásának időpontját,
+
+c) a jogsértés megjelölését,
+
+d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
+
+e)[^64] a határozat elleni közigazgatási per esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság hatályon kívül helyező vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító döntést hozott.
+
+(3)[^65] A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat véglegessé és végrehajthatóvá válásának napján, a közigazgatási határozat elleni közigazgatási per esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
+
+(4)[^66] A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének, illetve véglegessé és végrehajthatóvá válásának napjától számított két év elteltével törli.
+
+#### 17/D. §[^67]
+
+(1)[^68] A hatóság – a (3) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a végleges és végrehajtható közigazgatási vagy – a közigazgatási határozat elleni közigazgatási per esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, a 17/C. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat elleni közigazgatási per esetén a 17/C. § (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására jogszabály alapján végleges és végrehajtható közigazgatási határozattal sor került.
+
+(2)[^69] Az (1) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül végleges és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
+
+(3)[^70] Ha a hatóság tudomására jutott, hogy határozata ellen közigazgatási pert indítottak,
+
+a) az (1) és (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
+
+b) intézkedik a honlapon nyilvánosságra hozott adatok törléséről, amennyiben az (1) és (2) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került.
+
+(4)[^71] A hatóság nyilvántartásba-vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+
+### Adatkezelésre vonatkozó különös szabályok[^72]
+
+#### 17/E. §[^73]
+
+(1)[^74]
+
+(2)[^75] Az eljárás alá vont személy az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az eljárás alá vont személy olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
+
+(3) A hatóság a (2) bekezdés alapján csak olyan különleges adat rendelkezésre bocsátására hívhat fel, amely kezelése az eljárás céljára tekintettel elengedhetetlenül szükséges, és amely hiányában az eljárás eredményessége nem lenne biztosítható.
+
+(4)[^76] A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis zár alá vételére vagy lefoglalására is.
+
+### Képviselet
+
+#### 18. §[^77]
+
+(1)[^78] Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jog érvényesítése iránti per, munkaügyi per, közszolgálati jogviszonnyal kapcsolatos per során – a civil és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A civil és érdek-képviseleti szervezet a képviseleti jogosultságát – ha a szervezet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján annak igazolására kötelezhető – az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás, vagy ezek hiteles másolata csatolásával igazolja.
+
+(2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban az (1) bekezdés szerinti szervezetet megilletik az ügyfél jogai.
+
+(3)[^79] Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, az (1) bekezdés szerinti szervezet a hatóság előtt eljárást indíthat.
+
+### A bizonyítás szabályai
+
+#### 19. §
+
+(1)[^80] Az egyenlő bánásmód követelményének megsértése miatt indított eljárásokban a jogsérelmet szenvedett félnek vagy a közérdekű igényérvényesítésre jogosultnak kell valószínűsítenie, hogy
+
+a)[^81] a jogsérelmet szenvedő személyt vagy csoportot hátrány érte vagy – közérdekű igényérvényesítés esetén – ennek közvetlen veszélye fenyeget, és
+
+b)[^82] a jogsérelmet szenvedő személy vagy csoport a jogsértéskor – ténylegesen vagy az eljárás alá vont személy feltételezése szerint – rendelkezett a 8. §-ban meghatározott valamely tulajdonsággal.
+
+(2)[^83] Az (1) bekezdésben foglaltak valószínűsítése esetén a másik félnek kell azt bizonyítania, hogy
+
+a) a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult által valószínűsített körülmények nem álltak fenn, vagy
+
+b) az egyenlő bánásmód követelményét megtartotta, illetve az adott jogviszony tekintetében nem volt köteles megtartani.
+
+(3) Az (1)–(2) bekezdésben foglalt rendelkezések nem alkalmazhatóak a büntetőeljárásokban, illetve a szabálysértési eljárásokban.
+
+### Közérdekű igényérvényesítés
+
+#### 20. §
+
+(1)[^84] Az egyenlő bánásmód követelményének megsértése miatt bíróság előtt személyiségi jog érvényesítése iránti pert, munkaügyi pert, valamint közszolgálati jogviszonnyal kapcsolatos pert indíthat
+
+a) az ügyész,
+
+b) a hatóság,
+
+c) a civil és érdekképviseleti szervezet,
+
+ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
+
+(2)[^85] A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése az (1) bekezdés szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.
+
+## III. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK ÉRVÉNYESÍTÉSE EGYES TERÜLETEKEN
+
+### Foglalkoztatás
+
+#### 21. §
+
+Az egyenlő bánásmód követelményének sérelmét jelenti különösen, ha a munkáltató a munkavállalóval szemben közvetlen vagy közvetett hátrányos megkülönböztetést alkalmaz, különösen a következő rendelkezések meghatározásakor, valamint azok alkalmazásakor:
+
+a) a munkához való hozzájutásban, különösen nyilvános álláshirdetésben, a munkára való felvételben, az alkalmazási feltételekben;
+
+b) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítését megelőző, azt elősegítő eljárással összefüggő rendelkezésben;
+
+c) a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítésében és megszüntetésében;
+
+d) a munkavégzést megelőzően vagy annak folyamán végzett képzéssel kapcsolatosan;
+
+e) a munkafeltételek megállapításában és biztosításában;
+
+f)[^86] a foglalkoztatási jogviszony vagy a munkavégzésre irányuló egyéb jogviszony alapján járó juttatások, így különösen a munka törvénykönyvéről szóló 2012. évi I. törvény 12. § (2) bekezdésében meghatározott munkabér megállapításában és biztosításában;
+
+g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteiben;
+
+h) az előmeneteli rendszerben;
+
+i)[^87] a kártérítési, illetve a fegyelmi felelősség érvényesítése során,
+
+j)[^88] a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő apasági szabadság, szülői szabadság és a gyermek gondozása céljából a gyermek hároméves koráig igénybe vehető fizetés nélküli szabadság kérelmezésével, vagy igénybevételével összefüggésben, valamint
+
+k)[^89] a gondozói munkaidő-kedvezmény kérelmezésével vagy igénybevételével összefüggésben.
+
+#### 22. §
+
+(1)[^90] Nem jelenti az egyenlő bánásmód követelményének megsértését
+
+a)[^91] az alkalmazáskor a munka vagy a munkakörülmények természete alapján indokolt, tényleges és meghatározó szakmai feltételre alapított, jogszerű célt követő és azzal arányos megkülönböztetés,
+
+b) a vallási vagy más világnézeti meggyőződésen, illetve nemzeti vagy etnikai hovatartozáson alapuló, a szervezet jellegét alapvetően meghatározó szellemiségből közvetlenül adódó, az adott foglalkozási tevékenység tartalma vagy természete miatt indokolt, arányos és valós foglalkoztatási követelményen alapuló megkülönböztetés.
+
+(2)[^92] A 21. § f) pontjának alkalmazása során a 8. § a)–e) pontjaiban meghatározott tulajdonság tekintetében tett közvetlen hátrányos megkülönböztetés minden esetben sérti az egyenlő bánásmód követelményét.
+
+#### 23. §
+
+Törvény, törvény felhatalmazása alapján kormányrendelet, illetve kollektív szerződés a munkavállalók meghatározott körére – a foglalkoztatási jogviszonnyal vagy a munkavégzésre irányuló egyéb jogviszonnyal összefüggésben – előnyben részesítési kötelezettséget írhat elő.
+
+### Szociális biztonság és egészségügy
+
+#### 24. §
+
+Az egyenlő bánásmód követelményét a szociális biztonsággal összefüggésben érvényesíteni kell különösen
+
+a) a társadalombiztosítási rendszerekből finanszírozott, valamint
+
+b) a szociális, illetve gyermekvédelmi pénzbeli és természetbeni, valamint személyes gondoskodást nyújtó
+
+ellátások igénylése és biztosítása során.
+
+#### 25. §
+
+(1) Az egyenlő bánásmód követelményét az egészségügyi ellátással összefüggésben érvényesíteni kell különösen az egészségügyi szolgáltatásnyújtás, ezen belül
+
+a) a betegségmegelőző programokban és a szűrővizsgálatokon való részvétel,
+
+b) a gyógyító-megelőző ellátás,
+
+c) a tartózkodás céljára szolgáló helyiségek használata,
+
+d) az élelmezési és egyéb szükségletek kielégítése
+
+során.
+
+(2) Törvény, illetőleg törvény felhatalmazása alapján kormányrendelet e törvény rendelkezéseivel összhangban az egészségi állapot vagy fogyatékosság, illetve a 8. §-ban meghatározott tulajdonság alapján a társadalom egyes csoportjai részére a szociális és az egészségügyi ellátórendszer keretein belül többletjuttatásokat állapíthat meg.
+
+### Lakhatás
+
+#### 26. §
+
+(1) Az egyenlő bánásmód követelményének megsértését jelenti különösen a 8. §-ban meghatározott tulajdonságok szerint egyes személyeket
+
+a) közvetlen vagy közvetett hátrányos megkülönböztetéssel sújtani a lakhatást segítő állami vagy önkormányzati támogatások, kedvezmények vagy kamattámogatás nyújtásával kapcsolatosan,
+
+b) hátrányos helyzetbe hozni az állami vagy önkormányzati tulajdonú lakások és építési telkek értékesítése vagy bérbeadása feltételeinek meghatározása során.
+
+(2) A használatbavételi és egyéb építési hatósági engedély kiadásának megtagadása, illetve feltételhez kötése sem közvetlenül, sem közvetve nem alapulhat a 8. §-ban meghatározott tulajdonságokon.
+
+(3) A lakáshoz jutási feltételek meghatározása nem irányulhat arra, hogy a 8. §-ban meghatározott tulajdonságok szerint egyes csoportok valamely településen, illetve településrészen mesterségesen, nem a csoport önkéntes elhatározása alapján elkülönüljenek.
+
+### Oktatás és képzés
+
+#### 27. §
+
+(1) Az egyenlő bánásmód követelménye kiterjed minden olyan nevelésre, oktatásra, képzésre,
+
+a) amely államilag jóváhagyott vagy előírt követelmények alapján folyik, vagy
+
+b) amelynek megszervezéséhez az állam
+
+ba) közvetlen normatív költségvetési támogatást nyújt, vagy
+
+bb) közvetve – így különösen közterhek elengedése, elszámolása vagy adójóváírás útján – hozzájárul (a továbbiakban együtt: oktatás).
+
+(2) Az egyenlő bánásmód követelményét az (1) bekezdésben meghatározott oktatással összefüggésben érvényesíteni kell különösen
+
+a) az oktatásba történő bekapcsolódás feltételeinek meghatározása, a felvételi kérelmek elbírálása,
+
+b) az oktatás követelményeinek megállapítása és a követelménytámasztás,
+
+c) a teljesítmények értékelése,
+
+d) az oktatáshoz kapcsolódó szolgáltatások biztosítása és igénybevétele,
+
+e) az oktatással összefüggő juttatásokhoz való hozzáférés,
+
+f) a kollégiumi elhelyezés és ellátás,
+
+g) az oktatásban megszerezhető tanúsítványok, bizonyítványok, oklevelek kiadása,
+
+h) a pályaválasztási tanácsadáshoz való hozzáférés, valamint
+
+i) az oktatásban való részvétellel összefüggő jogviszony megszüntetése
+
+során.
+
+(3) Az egyenlő bánásmód követelményének megsértését jelenti különösen valamely személy vagy csoport
+
+a) jogellenes elkülönítése egy oktatási intézményben, illetve az azon belül létrehozott tagozatban, osztályban vagy csoportban,
+
+b) olyan nevelésre, oktatásra való korlátozása, olyan nevelési, oktatási rendszer vagy intézmény létesítése, fenntartása, amelynek színvonala nem éri el a kiadott szakmai követelményekben meghatározottakat, illetve nem felel meg a szakmai szabályoknak, és mindezek következtében nem biztosítja a tanulmányok folytatásához, az állami vizsgák letételéhez szükséges, az általában elvárható felkészítés és felkészülés lehetőségét.
+
+(4) Az oktatási intézményekben nem működhetnek olyan szakkörök, diákkörök és egyéb tanulói, hallgatói, szülői vagy más szervezetek, amelyek célja más személyek vagy csoportok lejáratása, megbélyegzése vagy kirekesztése.
+
+#### 28. §
+
+(1) Nem sérti az egyenlő bánásmód követelményét, ha az oktatást csak az egyik nembeli tanulók részére szervezik meg, feltéve, hogy az oktatásban való részvétel önkéntes, továbbá emiatt az oktatásban résztvevőket semmilyen hátrány nem éri.
+
+(2)[^93] Nem sérti az egyenlő bánásmód követelményét, ha
+
+a)[^94] köznevelési intézményben, illetve szakképző intézményben a szülők kezdeményezésére és önkéntes választása szerint,
+
+b) felsőoktatási intézményben a hallgatók önkéntes részvétele alapján
+
+olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerveznek, amelynek célja vagy tanrendje indokolja elkülönült osztályok vagy csoportok alakítását; feltéve, hogy emiatt az oktatásban résztvevőket semmilyen hátrány nem éri, továbbá ha az oktatás megfelel az állam által jóváhagyott, államilag előírt, illetve államilag támogatott követelményeknek.
+
+(2a)[^95] A (2) bekezdésben meghatározottak szerinti vallási vagy más világnézeti meggyőződésen alapuló oktatás megszervezése nem vezethet a 8. § b)–e) pontja szerinti tulajdonságon alapuló jogellenes elkülönítéshez.
+
+(2b)[^96] Nemzetiségi oktatás szervezése esetén csak akkor nem sérül az egyenlő bánásmód követelménye, ha az oktatás szervezése a (2) bekezdésben foglalt feltételek mellett megfelel az alábbi követelményeknek is:
+
+a) az alaptanterv szerinti ismeretek megszerzése a nem nemzetiségi oktatásban általánosan érvényesülő színvonalon biztosított, és
+
+b) a nemzetiségi oktatás a nemzetiségek jogairól szóló törvényben meghatározott követelményeknek megfelel.
+
+(3)[^97] A nyelvi vagy kulturális önazonosság megőrzése céljából egyházi jogi személy, vallási egyesület vagy nemzetiségi önkormányzat által fenntartott köznevelési intézmény, egyházi jogi személy, vallási egyesület vagy országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében jogszabály a 27. § (2) bekezdés a) pontjától eltérő rendelkezést állapíthat meg.
+
+#### 29. §
+
+Törvény vagy törvény felhatalmazása alapján megalkotott kormányrendelet az iskolarendszeren belüli, valamint az iskolarendszeren kívüli oktatásban részt vevők meghatározott körére – az oktatással, képzéssel összefüggésben – előnyben részesítési kötelezettséget írhat elő.
+
+### Áruk forgalma és szolgáltatások igénybevétele
+
+#### 30. §
+
+(1) Az egyenlő bánásmód követelményének megsértését jelenti különösen – a 8. §-ban meghatározott tulajdonság alapján az ügyfélforgalom számára nyitva álló helyiségben, így különösen a vendéglátó-ipari, kereskedelmi, valamint a művelődés és a szórakozás céljára létrehozott intézményekben –
+
+a) megtagadni vagy mellőzni szolgáltatások nyújtását vagy áru forgalmazását,
+
+b) az adott helyen rendelkezésre álló szolgáltatásoktól, illetve áruktól eltérő minőségben szolgáltatást nyújtani, illetve árut forgalmazni,
+
+c) olyan feliratot vagy jelzést elhelyezni, amely azon következtetés levonását teszi lehetővé, hogy az ott nyújtott szolgáltatásból vagy áruforgalmazásból valakit vagy valakiket kizárnak.
+
+(2) A 8. §-ban meghatározott tulajdonságok alapján meghatározható csoport tagjai részére létrehozott, a hagyományápolás, a kulturális és az önazonosság fenntartását szolgáló, a szűkebb közönség számára nyitva álló létesítménybe a belépés korlátozható, tagsághoz, illetőleg külön feltételekhez köthető.
+
+(3) A (2) bekezdés szerinti korlátozásnak ki kell tűnnie a létesítmény elnevezéséből, a szolgáltatás igénybevételének körülményeiből; az nem történhet az adott csoporthoz nem tartozó személyekkel szemben megalázó, illetőleg a becsület csorbítására alkalmas módon, továbbá nem adhat alkalmat a joggal való visszaélésre.
+
+#### 30/A. §[^98]
+
+(1) A biztosítási szolgáltatások és a biztosítási elven alapuló szolgáltatások esetében – ide nem értve a csoportos élet-, baleset- és betegségbiztosításokat – a nemi hovatartozáson alapuló megkülönböztetés az e szolgáltatásokat szabályozó törvény eltérő rendelkezése hiányában sérti az egyenlő bánásmód követelményét, ha a szolgáltatatást nyújtó eljárása az egyének által egyedileg fizetendő díj nagyságában vagy az őket megillető szolgáltatásban a nemi hovatartozáson alapuló közvetlen vagy közvetett különbségtételt eredményez.
+
+(2) Az (1) bekezdésben meghatározott szolgáltatások esetében a terhességgel és az anyasággal kapcsolatos költségek nem eredményezhetnek különbséget az egyének által fizetendő díjakban és az őket megillető szolgáltatásokban.
+
+## IV. Fejezet[^99] — HELYI ESÉLYEGYENLŐSÉGI PROGRAMOK
+
+#### 31. §
+
+(1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
+
+(2)[^100] A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékossággal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az e törvény és a felhatalmazása alapján kiadott kormányrendeletben meghatározott szempontok és eljárásrend, valamint azok figyelembevételével a társadalmi felzárkózásért felelős miniszter által, az általa vezetett minisztérium honlapján közzétett módszertani útmutató alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az településfejlesztési terv anti-szegregációs célkitűzéseinek összhangjáról.
+
+(3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
+
+a) az egyenlő bánásmód, az esélyegyenlőség és a társadalmi felzárkózás követelményének érvényesülését segítő intézkedésekre,
+
+b) az oktatás és a képzés területén a jogellenes elkülönítés megelőzésére, illetve az azzal szembeni fellépésre, továbbá az egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+c) a közszolgáltatásokhoz, valamint az egészségügyi szolgáltatásokhoz való egyenlő esélyű hozzáférés biztosításához szükséges intézkedésekre,
+
+d) olyan intézkedésekre, amelyek csökkentik a hátrányos helyzetűek munkaerő-piaci hátrányait, illetve javítják foglalkoztatási esélyeiket.
+
+(4) A helyi esélyegyenlőségi program időarányos megvalósulását, illetve a (2) bekezdésben meghatározott helyzet esetleges megváltozását kétévente át kell tekinteni, az áttekintés alapján szükség esetén a helyi esélyegyenlőségi programot felül kell vizsgálni, illetve a helyzetelemzést és az intézkedési tervet az új helyzetnek megfelelően kell módosítani.
+
+(5) A helyi esélyegyenlőségi programot a települési önkormányzati köztisztviselők vagy közalkalmazottak készítik el. Képzésüket, a helyi esélyegyenlőségi programok elkészültét és felülvizsgálatát esélyegyenlőségi mentorok segítik. A települési önkormányzati köztisztviselők, közalkalmazottak képzését a Kormány által rendeletben kijelölt szerv végzi.
+
+(6) A települési önkormányzat az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(7) A települési önkormányzatok jogi személyiséggel rendelkező társulása az államháztartás alrendszereiből, az európai uniós forrásokból, illetve a nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati úton odaítélt támogatásban csak akkor részesülhet, ha a társulást alkotó települési önkormányzatok mindegyike az e törvény rendelkezéseinek megfelelő, hatályos helyi esélyegyenlőségi programmal rendelkezik.
+
+(8) Esélyegyenlőségi mentor tevékenységet az végezhet, aki
+
+a) rendelkezik felsőfokú végzettséggel,
+
+b) a külön jogszabályban meghatározott képzésen vett részt, és
+
+c) rendelkezik a külön jogszabályban meghatározott szakmai gyakorlattal.
+
+## V. Fejezet[^101] — EGYES TÁMOGATÁSOKRA VONATKOZÓ RENDELKEZÉSEK
+
+#### 32. §
+
+(1) A társadalmi felzárkózást szolgáló európai uniós társfinanszírozású projektek keretében a projektgazda vagy konzorciumi partner (a továbbiakban együtt: támogatást nyújtó) – ha az a képzési programban való részvételt segíti elő és annak nyújtása az Európai Unió működéséről szóló szerződés 107. cikkébe vagy közvetlenül alkalmazandó európai uniós jogi aktusba nem ütközik – felzárkózást elősegítő megélhetési támogatást (a továbbiakban: támogatás) nyújthat a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 2. cikk 18. pontjában meghatározott hátrányos helyzetű személyek számára szervezett, legalább heti 20 órát meghaladó képzésben részt vevő olyan személy számára, aki
+
+a) a képzésbe történő bevonás időpontjában keresetpótló juttatásban nem részesül,
+
+b) az alkalmi foglalkoztatásnak minősülő munkaviszony kivételével munkaviszonyban nem áll, egyéb kereső tevékenységet nem folytat, és
+
+c) a képzés időtartama alatt további támogatott képzésben és munkaerő-piaci programban nem vesz részt.
+
+(2) A támogatás nyújtásáról a támogatást nyújtó a képzésben részt vevő személlyel felnőttképzési szerződést köt, és a felzárkózást elősegítő megélhetési támogatás nyújtásáról az állami foglalkoztatási szervet értesíti.
+
+#### 32/A. §
+
+(1) A támogatás mértéke – ha a képzés időtartama eléri a heti 40 órát – megegyezik a felnőttképzési szerződés megkötésének időpontjában irányadó közfoglalkoztatási bér összegével, az ennél rövidebb idejű képzés esetén annak a képzés időtartama szerinti arányos részével.
+
+(2) A képzésben részt vevő személyt a képzés időtartama alatt az (1) bekezdés szerinti összeg 80%-a időarányosan illeti meg, a fennmaradó rész a képzés befejezését igazoló tanúsítvány megszerzésével egyidejűleg egy összegben kerül számára kifizetésre.
+
+(3) A támogatást a képzés – ideértve a gyakorlati képzést is – időtartamára, a képzés befejezését követő záróvizsgára történő felkészülés időtartamára, továbbá az első vizsga napjára a képzés jellegétől függően hetente vagy havonta utólag kell biztosítani. A záróvizsga sikertelensége esetén az ismétlő vizsgára történő felkészülés időtartamára támogatás nem nyújtható.
+
+(4) Nem nyújtható támogatás arra a napra, amelyen a képzésben részt vevő személy a képzésben való részvételi kötelezettségének nem tett eleget és távollétét nem igazolta. Ebben az esetben a támogatást a mulasztás napjára járó támogatás összegével csökkentett összegben kell biztosítani.
+
+(5) Ha az adott képzési szakasz befejezését igazoló tanúsítványt a képzésben részt vevő személy neki felróható okból nem szerzi meg, a képzési szakaszra nyújtott támogatási összeget vissza kell követelni.
+
+## V/A. Fejezet[^102]
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 63. §
+
+(1) E törvény – a (2)–(3) bekezdésben meghatározott kivétellel – a kihirdetését követő 30. napon lép hatályba.
+
+(2) E törvény 13–17. §-ai, 18. § (1) bekezdésének ,, , valamint a hatóság'' szövegrésze, valamint a 20. § (1) bekezdés b) pontja 2005. január 1-jén lép hatályba.
+
+(3)[^120]
+
+(4)[^121] Az ötven főnél több személyt foglalkoztató költségvetési szervek és többségi állami tulajdonban álló jogi személyek kötelesek esélyegyenlőségi tervet elfogadni.
+
+(5)[^122]
+
+#### 63/A. §[^123]
+
+E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Ebktv.
+
+#### 64/A. §[^125]
+
+A 31. § (6) és (7) bekezdését 2013. július 1-jét követően kell alkalmazni.
+
+#### 64/B. §[^126]
+
+(1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 31. § (1) bekezdése szerinti helyi esélyegyenlőségi program elkészítésének szempontjait és eljárását, a helyi esélyegyenlőségi program felülvizsgálatának módját, és az elkészítésében részt vevőkkel szembeni követelményekre vonatkozó részletes szabályokat.[^127]
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a települési önkormányzatok helyi esélyegyenlőségi program elkészítésében részt vevő köztisztviselőinek, közalkalmazottainak képzésére, továbbá az esélyegyenlőségi mentorok tevékenységére vonatkozó szabályokat.[^128]
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a helyi esélyegyenlőségi program elkészítésében részt vevők képzését végző szervet.[^129]
+
+(4)[^130]
+
+(5)[^131]
+
+#### 64/C. §[^132]
+
+(1)[^133] Az e törvény – az egyes pénzügyi tárgyú törvények módosításáról szóló 2012. évi CLI. törvénnyel megállapított – 30/A. § (1) bekezdésében foglalt rendelkezések a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 447. §-ában meghatározottak szerint alkalmazandók.
+
+(2) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 47. §-ával módosított rendelkezéseit e rendelkezések hatálybalépését[^134] követően indult, illetve a megismételt eljárásokban kell alkalmazni.
+
+#### 65. §[^135]
+
+Ez a törvény a következő irányelveknek való megfelelést szolgálja
+
+a) a Tanács 76/207/EGK irányelve a nőkkel és a férfiakkal való egyenlő bánásmód elvének a munkavállalás, a szakképzés és az előmenetel lehetőségei, valamint a munkafeltételek terén történő végrehajtásáról és az azt módosító 2002/73/EK irányelv,
+
+b) a Tanács 79/7/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról,
+
+c) a Tanács 86/378/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a foglalkoztatási szociális biztonsági rendszerekben történő megvalósításáról,
+
+d)[^136] az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelv,
+
+e) a Tanács 97/80/EK irányelve a bizonyítási kötelezettségről a nemi hovatartozás alapján történő diszkriminációs esetekben,
+
+f) a Tanács 2000/43/EK irányelve a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról,
+
+g) a Tanács 2000/78/EK irányelve a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek a létrehozásáról,
+
+h)[^137] a Tanács 2004/113/EK irányelve a nők és férfiak közötti egyenlő bánásmód elvének az árukhoz és szolgáltatásokhoz való hozzáférés, valamint azok értékesítése, illetve nyújtása tekintetében történő végrehajtásáról,
+
+i)[^138] a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelv,
+
+j)[^139] a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelv,
+
+k)[^140] a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv,
+
+l)[^141] a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv,
+
+m)[^142] a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak biztosított jogok gyakorlását megkönnyítő intézkedésekről szóló, 2014. április 16-i 2014/54/EU európai parlamenti és tanácsi irányelv 2. cikk (1) bekezdés b) és c) pontja.
+
+n)[^143] az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
+
+#### 66. §[^144]
+
+A 32. § és a 32/A. § a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 38. és 39. cikkének hatálya alá tartozó támogatást tartalmaz.
+
+#### 67. §[^145]
+
+A 14. § (1) bekezdés j) pontja a légijárműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezést állapít meg.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2003. december 22-i ülésnapján fogadta el. A kihirdetés napja: 2003. december 28.
+[^2]: A preambulum a 2011: CCI. törvény 247. § a) pontja, a 2013: CXXXI. törvény 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § a 2011: CCI. törvény 247. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 2015: LXXIV. törvény 3. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdés a) pontja a 2018: CXV. törvény 36. §-a, a 2019: CIX. törvény 109. §-a, a 2020: CLII. törvény 27. §-a, a 2021: XCIX. törvény 235. §-a, a 2023. évi LII. törvény 180. § (13) bekezdése, a 2024. évi LXXI. törvény 51. §-a szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés g) pontja a 2017: L. törvény 227. § 1. pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés i) pontja a 2017: L. törvémy 228. § a) pontja szerint módosított szöveg.
+[^8]: [A 2011: CLXXIX. törvény 235. § b) pontja alapján a 4.§ b) pontjában „a kisebbségi önkormányzatok” szövegrész helyébe „a nemzetiségi önkormányzatok” szöveg lép, ez azonban nem vezethető át.]
+[^9]: A 4. § d) pontja a 2007: XC. törvény 25. § (1) bekezdésének f) pontja, a 2024. évi LXXII. törvény 22. §-a szerint módosított szöveg.
+[^10]: A 4. § e) pontja a 2009: LVI. törvény 294. §-a szerint módosított szöveg. E módosító törvény 428. §-a alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^11]: A 4. § g) pontja a 2019: CXII. törvény 45. § 1. pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés c) pontja a 2013: CXXXIII. törvény 99. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdés d) pontja a 2013: CXXXI. törvény 4. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 6. § (2) bekezdésének a) pontja a 2009: LVI. törvény 294. §-a szerint módosított szöveg. E módosító törvény 428. §-a alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^15]: A 7. § (2) bekezdése a 2006: CIV. törvény 1. §-ával megállapított szöveg.
+[^16]: A 7. § (3) bekezdését a 2006: CIV. törvény 1. §-a iktatta be.
+[^17]: A 8. § a 2006. CIV. törvény 13. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^18]: A 8. § a) pontja a 2025. évi V. törvény 5. § a) pontja szerint módosított szöveg.
+[^19]: A 8. § e) pontja a 2011: CLXXIX. törvény 235. § c) pontjával megállapított szöveg.
+[^20]: A 8. § n) pontját a 2025. évi V. törvény 6. §-a hatályon kívül helyezte.
+[^21]: A 9. § a 2006. CIV. törvény 13. § (2) bekezdésének b) pontja szerint módosított szöveg.
+[^22]: A 10. § (1) bekezdése a 2006. CIV. törvény 13. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^23]: A 10. § (2) bekezdése a 2006: CIV. törvény 2. §-ával megállapított szöveg.
+[^24]: A 12. § a 2013: LXXXIV. törvény 47. § (2) bekezdésével megállapított, a 2017: CXXX. törvény 53. § a) pontja, a 2020: CXXXV. törvény 29. §-a szerint módosított szöveg.
+[^25]: A 13. §-t megelőző alcím a 2011: CLXXIV. törvény 37. § (1) bekezdésével megállapított szöveg.
+[^26]: A 13. §-t a 2011: CLXXIV. törvény 37. § (4) bekezdése hatályon kívül helyezte, újonnan a 2020: CXXVII. törvény 1. §-a iktatta be.
+[^27]: A 14. § – e törvény 63. § (2) bekezdése alapján – 2005. január 1-jén lép hatályba.
+[^28]: A 14. § (1) bekezdése a 2020: CXXVII. törvény 2. §-ával megállapított szöveg.
+[^29]: A 14. § (2) bekezdését a 2005: LXXXIII. törvény 339. § 31. pontja hatályon kívül helyezte, újonnan a 2013: LXXXIV. törvény 47. § (4) bekezdése iktatta be, szövege a 2020: CXXVII. törvény 2. §-ával megállapított szöveg.
+[^30]: A 14. § (3) bekezdését a 2006: CIV. törvény 13. § (3) bekezdése hatályon kívül helyezte, újonnan a 2013: LXXXIV. törvény 47. § (4) bekezdése iktatta be, szövege a 2020: CXXVII. törvény 2. §-ával megállapított, a 2026. évi XXXIV. törvény 128. §-a szerint módosított szöveg.
+[^31]: A 14. § (4) bekezdését a 2013: LXXXIV. törvény 47. § (4) bekezdése iktatta be.
+[^32]: A 14. § (5) bekezdését a 2013: LXXXIV. törvény 47. § (4) bekezdése iktatta be.
+[^33]: A 15. §-t a 2011: CLXXIV. törvény 41. §-a hatályon kívül helyezte, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^34]: A 15. § (1) bekezdés nyitó szövegrésze a 2017: L. törvémy 228. § b) pontja szerint módosított szöveg.
+[^35]: A 15. § (2) bekezdése a 2017: L. törvény 227. § 2. pontja szerint módosított szöveg.
+[^36]: A 15. § (3) bekezdés b) pontja a 2017: L. törvény 227. § 3. pontja szerint módosított szöveg.
+[^37]: A 15. § (4) bekezdés b) pontja a 2017: L. törvény 227. § 4. pontja szerint módosított szöveg.
+[^38]: A 15. § (6) bekezdését a 2017: L. törvémy 228. § c) pontja hatályon kívül helyezte.
+[^39]: A 15/A. §-t a 2006: CIV. törvény 5. §-a iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^40]: A 15/A. § (2) bekezdése a 2017: L. törvény 227. § 6. pontja szerint módosított szöveg.
+[^41]: A 15/A. § (3) bekezdése a 2017: L. törvény 227. § 7. pontja szerint módosított szöveg.
+[^42]: A 15/A. § (5) bekezdése a 2017: L. törvény 227. § 8. pontja szerint módosított szöveg.
+[^43]: A 15/B. §-t a 2006: CIV. törvény 5. §-a iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^44]: A 16. §-t a 2011: CLXXIV. törvény 41. §-a hatályon kívül helyezte, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^45]: A 16. § (1) bekezdését a 2017: L. törvémy 228. § d) pontja hatályon kívül helyezte.
+[^46]: A 16. § (2) bekezdése a 2017: L. törvémy 228. § e) pontja szerint módosított szöveg.
+[^47]: A 16. § (3) bekezdése a 2017: L. törvény 227. § 9. pontja és a 228. § f) pontja szerint módosított szöveg.
+[^48]: A 16. § (4) bekezdése a 2017: L. törvémy 228. § f) pontja szerint módosított szöveg.
+[^49]: A 16. § (4a) bekezdését a 2017: L. törvény 226. § (1) bekezdése iktatta be.
+[^50]: A 16. § (10) bekezdése a 2017: L. törvény 227. § 10. pontja szerint módosított szöveg.
+[^51]: A 16. § (11)–(12) bekezdését a 2017: L. törvémy 228. § g) pontja hatályon kívül helyezte.
+[^52]: A 17. §-t megelőző alcímet a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^53]: A 17. §-t a 2011: CLXXIV. törvény 41. §-a hatályon kívül helyezte, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^54]: A 17/A. §-t a 2006: LXV. törvény 7. §-a iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^55]: A 17/A. § (1) bekezdés c) pontja a 2017: L. törvény 227. § 11. pontja, a 2020: CLXVIII. törvény 67. §-a szerint módosított szöveg.
+[^56]: A 17/A. § (1a) bekezdését a 2020: CXXVII. törvény 3. §-a iktatta be.
+[^57]: A 17/A. § (2) bekezdése a 2017: L. törvény 227. § 12. pontja szerint módosított szöveg.
+[^58]: A 17/B. §-t és a megelőző alcímet hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, a 17/B. §-t újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^59]: A 17/B. § (1) bekezdését a 2017: L. törvémy 228. § h) pontja hatályon kívül helyezte.
+[^60]: A 17/B. § (3) bekezdését a 2017: L. törvémy 228. § h) pontja hatályon kívül helyezte.
+[^61]: A 17/C. §-t a 2006: CIV. törvény 8. §-a iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^62]: A 17/C. § (1) bekezdése a 2017: L. törvény 227. § 13. és 14. pontja szerint módosított szöveg.
+[^63]: A 17/C. § (2) bekezdés b) pontja a 2017: L. törvény 227. § 15. pontja szerint módosított szöveg.
+[^64]: A 17/C. § (2) bekezdés e) pontja a 2017: L. törvény 227. § 14. pontja szerint módosított szöveg.
+[^65]: A 17/C. § (3) bekezdése a 2017: L. törvény 227. § 14. és 15. pontja szerint módosított szöveg.
+[^66]: A 17/C. § (4) bekezdése a 2017: L. törvény 227. § 16. pontja szerint módosított szöveg.
+[^67]: A 17/D. §-t a 2006: CIV. törvény 8. §-a iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^68]: A 17/D. § (1) bekezdése a 2017: L. törvény 227. § 17. pontja szerint módosított szöveg.
+[^69]: A 17/D. § (2) bekezdése a 2017: L. törvény 227. § 13. pontja szerint módosított szöveg.
+[^70]: A 17/D. § (3) bekezdés nyitó szövegrésze a 2017: L. törvény 227. § 18. pontja szerint módosított szöveg.
+[^71]: A 17/D. § (4) bekezdése a 2017: L. törvény 227. § 19. pontja szerint módosított szöveg.
+[^72]: A 17/E. §-t megelőző alcímet a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^73]: A 17/E. §-t a 2009: CXLIX. törvény 90. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2011: CLXXIV. törvény 41. §-a, újonnan a 2013: LXXXIV. törvény 47. § (5) bekezdése iktatta be.
+[^74]: A 17/E. § (1) bekezdését a 2017: L. törvémy 228. § i) pontja hatályon kívül helyezte.
+[^75]: A 17/E. § (2) bekezdése a 2017: L. törvény 227. § 20. pontja szerint módosított szöveg.
+[^76]: A 17/E. § (4) bekezdése a 2017: L. törvény 227. § 21. pontja szerint módosított szöveg.
+[^77]: A 18. § a 2013: LXXXIV. törvény 47. § (6) bekezdésével megállapított szöveg.
+[^78]: A 18. § (1) bekezdése a 2013: CXXXI. törvény 4. § (2) bekezdés d) pontja, a 2017: L. törvény 227. § 22. pontja, a 2017: CXXX. törvény 53. § b) pontja szerint módosított szöveg.
+[^79]: A 18. § (3) bekezdése a 2020: CXXVII. törvény 4. §-ával megállapított szöveg.
+[^80]: A 19. § (1) bekezdésének felvezető szövege a 2006: CIV. törvény 13. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^81]: A 19. § (1) bekezdésének a) pontja a 2006: CIV. törvény 13. § (2) bekezdésének h) pontja szerint módosított szöveg.
+[^82]: A 19. § (1) bekezdés b) pontja a 2017: L. törvény 227. § 24. pontja szerint módosított szöveg.
+[^83]: A 19. § (2) bekezdése a 2006: CIV. törvény 9. §-ával megállapított, nyitó szövegrésze a 2017: CXXX. törvény 53. § c) pontja szerint módosított szöveg.
+[^84]: A 20. § (1) bekezdése a 2020: CXXVII. törvény 5. §-ával megállapított szöveg.
+[^85]: A 20. § (2) bekezdése a 2011: CLXXIV. törvény 38. § (3) bekezdésével megállapított szöveg.
+[^86]: A 21. § f) pontja a 2006: CIV. törvény 11. § (1) bekezdésével megállapított, a 2012: LXXXVI. törvény 53. § (2) bekezdése szerint módosított szöveg.
+[^87]: A 21. § i) pontja a 2012. évi XXI. törvény 7. §-ával megállapított, a 2022. évi LXXIV. törvény 61. § (1) bekezdésével megállapított szöveg.
+[^88]: A 21. § j) pontját a 2012. évi XXI. törvény 7. §-a iktatta be, szövege a 2022. évi LXXIV. törvény 61. § (1) bekezdésével megállapított szöveg.
+[^89]: A 21. § k) pontját a 2022. évi LXXIV. törvény 61. § (2) bekezdése iktatta be.
+[^90]: A 22. § eredeti szövegének számozását (1) bekezdésre változtatta a 2006: CIV. törvény 11. § (2) bekezdése.
+[^91]: A 22. § (1) bekezdés a) pontja a 2017: L. törvény 226. § (2) bekezdésével megállapított szöveg.
+[^92]: A 22. § (2) bekezdését a 2006: CIV. törvény 11. § (2) bekezdése iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
+[^93]: A 28. § (2) bekezdés záró szövegrésze a 2011: CLXXIX. törvény 235. § d) pontjával megállapított, a 2017: XCVI. törvény 2. §-a szerint módosított szöveg.
+[^94]: A 28. § (2) bekezdés a) pontja a 2019: CXII. törvény 45. § 2. pontja szerint módosított szöveg.
+[^95]: A 28. § (2a) bekezdését a 2017: XCVI. törvény 1. §-a iktatta be.
+[^96]: A 28. § (2b) bekezdését a 2017: XCVI. törvény 1. §-a iktatta be.
+[^97]: A 28. § (3) bekezdése a 2013: CXXXIII. törvény 100. §-ával megállapított, a 2019: XXXVI. törvény 31. §-a szerint módosított szöveg.
+[^98]: A 30/A. §-t a 2007: CXXXVII. törvény 95. § (1) bekezdése iktatta be, szövege a 2012: CLI. törvény 59. § (1) bekezdésével megállapított szöveg.
+[^99]: A IV. fejezetet a 2006: CIV. törvény 13. § (3) bekezdése hatályon kívül helyezte, újonnan a 2011: CLXXIV. törvény 36. § (1) bekezdése iktatta be.
+[^100]: A 31. § (2) bekezdése a 2012: LXXVI. törvény 56. § 1. pontja, a 2019: CXII. törvény 45. § 3. pontja, a 2021: XXXIX. törvény 39. §-a, a 2021: L. törvény 17. §-a, a 2025. évi V. törvény 5. § b) pontja szerint módosított szöveg.
+[^101]: Az V. fejezetet a 2006: CIV. törvény 13. § (3) bekezdése hatályon kívül helyezte, újonnan a 2011: CLXXIV. törvény 36. § (2) bekezdése iktatta be, szövege a 2012: XXI. törvény 8. §-ával megállapított szöveg.
+[^102]: Az V/A. Fejezetet (33–45. §) a 2011: CLXXIV. törvény 37. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2020: CXXVII. törvény 7. §-a.
+[^120]: A 63. § (3) bekezdését a 2007: LXXXII. törvény 2. §-ának 647. pontja hatályon kívül helyezte.
+[^121]: A 63. § (4) bekezdése a 2006: CIV. törvény 12. § (1) bekezdésével megállapított szöveg.
+[^122]: A 63. § (5) bekezdését a 2009: CIX. törvény 51. § (10) bekezdése hatályon kívül helyezte.
+[^123]: A 63/A. §-t újonnan a 2012: XXI. törvény 9. §-a iktatta be.
+[^125]: A 64/A. §-t a 2011: CLXXIV. törvény 36. § (3) bekezdése iktatta be, szövege a 2012: LXXXVI. törvény 53. § (1) bekezdésével megállapított szöveg.
+[^126]: A 64/B. §-t a 2011: CLXXIV. törvény 36. § (4) bekezdése iktatta be.
+[^127]: Lásd a 321/2011. (XII. 27.) Korm. rendeletet.
+[^128]: Lásd a 321/2011. (XII. 27.) Korm. rendeletet.
+[^129]: Lásd a 321/2011. (XII. 27.) Korm. rendeletet.
+[^130]: A 64/B. § (4) bekezdését a 2021: L. törvény 18. §-a hatályon kívül helyezte.
+[^131]: A 64/B. § (5) bekezdését a 2012: XXI. törvény 13. § b) pontja hatályon kívül helyezte.
+[^132]: A 64/C. §-t a 2012: CLI. törvény 60. §-a iktatta be, szövege a 2013: LXXXIV. törvény 47. § (11) bekezdésével megállapított szöveg.
+[^133]: A 64/C. § (1) bekezdése a 2014: LXXXVIII. törvény 457. §-a szerint módosított szöveg.
+[^134]: A hatálybalépés időpontja 2013. július 1.
+[^135]: A 65. § nyitó szövegrésze a 2012: XXI. törvény 12. § b) pontja szerint módosított szöveg.
+[^136]: A 65. § d) pontja a 2017: L. törvény 226. § (3) bekezdésével megállapított szöveg.
+[^137]: A 65. § h) pontját a 2007: CXXXVII. törvény 95. § (2) bekezdése iktatta be.
+[^138]: A 65. § i) pontját a 2012. évi XXI. törvény 10. §-a iktatta be, szövege a 2022. évi LXXIV. törvény 62. §-ával megállapított szöveg.
+[^139]: A 65. § j) pontját a 2013: LXXXIV. törvény 47. § (10) bekezdése iktatta be.
+[^140]: A 65. § k) pontját a 2013: LXXXIV. törvény 47. § (10) bekezdése iktatta be.
+[^141]: A 65. § l) pontját a 2013: LXXXIV. törvény 47. § (10) bekezdése iktatta be.
+[^142]: A 65. § m) pontját a 2017: L. törvény 226. § (4) bekezdése iktatta be.
+[^143]: A 65. § n) pontját a 2024. évi XXVIII. törvény 6. §-a iktatta be.
+[^144]: A 66. §-t a 2012: XXI. törvény 11. §-a iktatta be.
+[^145]: A 67. §-t a 2020: CXXVII. törvény 6. §-a iktatta be.

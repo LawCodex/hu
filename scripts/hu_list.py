@@ -69,7 +69,7 @@ def parse(txt):
     return items
 
 
-def crawl(path, category):
+def crawl(path, category, check_year=True):
     txt = fetch_list(path, 1)
     if not txt:
         return []
@@ -79,6 +79,11 @@ def crawl(path, category):
         return []
     pages = (total + 9) // 10
     out = parse(txt)
+    # An unknown year makes the server fall back to an unfiltered list: detect it.
+    year = path.split("/")[3]
+    if check_year and out and any(it["eli"].split("/")[3] != year for it in out):
+        print("SKIP %s: unfiltered fallback list" % path, file=sys.stderr)
+        return []
     for p in range(2, pages + 1):
         out += parse(fetch_list(path, p))
     for it in out:
@@ -125,9 +130,10 @@ def main():
         jobs += [("/eli/R/%d/Korm" % y, "korm") for y in range(a.y0 or 1945, a.y1 + 1)]
         jobs += [("/eli/R/%d/MT" % y, "mt") for y in range(a.y0 or 1945, min(a.y1, 1990) + 1)]
     if a.what in ("min", "all"):
+        # An invalid year (1800) makes the server return the unfiltered list of all
+        # decrees of the issuer, which saves one request per issuer and year.
         for code, _ in ministers():
-            jobs += [("/eli/R/%d/%s" % (y, code.replace(" ", "%20")), "min")
-                     for y in range(a.y0 or 1945, a.y1 + 1)]
+            jobs.append(("/eli/R/1800/%s" % code.replace(" ", "%20"), "min", False))
 
     out_fn = os.path.join(RAW, "catalogue_%s.jsonl" % a.what)
     n = 0

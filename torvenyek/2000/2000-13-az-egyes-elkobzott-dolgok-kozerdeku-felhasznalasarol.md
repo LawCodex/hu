@@ -1,0 +1,225 @@
+---
+title: "2000. évi XIII. törvény az egyes elkobzott dolgok közérdekű felhasználásáról"
+identifier: "2000. évi XIII. törvény"
+njt_id: "2000-13-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2000/13"
+type: act
+jurisdiction: hu
+language: hu
+date: 2000-03-08
+in_force_from: 2009-10-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-13-00-00"
+retrieved: 2026-10-12
+---
+
+# 2000. évi XIII. törvény az egyes elkobzott dolgok közérdekű felhasználásáról[^1]
+
+## 1. §
+
+(1) A büntetőeljárás és a szabálysértési eljárás során elkobzott dolgok közérdekű felhasználásának e törvény rendelkezései szerint van helye.
+
+(1a)[^2] E törvény rendelkezéseit alkalmazni kell az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján karitatív célú felhasználással érintett vagyontárgyak közérdekű felhasználása esetén is, azzal, hogy elkobzás alatt a végrehajtási eljárás keretében történő lefoglalást is, elkobzott dolog alatt a végrehajtási eljárásban lefoglalt dolgot is, elkobzott dolgot kezelő hatóság alatt a végrehajtást foganatosító hatóságot is érteni kell.
+
+(2)[^3] E törvény alkalmazásában közérdekű felhasználás az elkobzott dolognak
+
+a) a rászorulók részére történő, egyéni szükségleteiket meg nem haladó mértékű ingyenes juttatása, továbbá
+
+b) a karitatív tevékenységet folytató közhasznú szervezetek által fenntartott vagy támogatott egészségügyi és szociális intézmények részére történő, az ezen intézményekben való közvetlen felhasználásra szánt ingyenes juttatása.
+
+(3)[^4] A közérdekű felhasználás kezdeményezésére a kormány által rendeletben kijelölt szerv (a továbbiakban: az erre kijelölt szerv) mellett működő Karitatív Tanács jogosult.
+
+(4)[^5] A Karitatív Tanács tagja az erre kijelölt szerv vezetője, illetve az általa kijelölt személy, valamint a Kormány által rendeletben meghatározott feltételeknek eleget tevő, karitatív tevékenységet végző közhasznú szervezetek.
+
+(5)[^6] A Karitatív Tanács döntésének előkészítését, a döntés végrehajtásának koordinálását, felügyeletét, továbbá a közérdekű felhasználás kezdeményezése és lebonyolítása során e törvényben meghatározott szakmai feladatok ellátását az erre kijelölt szerv végzi.
+
+(6) A közérdekű felhasználás lebonyolítását a Karitatív Tanács azon tagja végzi, aki a közérdekű felhasználás lebonyolítását önként vállalja, és erre őt a Karitatív Tanács a közérdekű felhasználás kezdeményezésével egyidejűleg kijelölte.
+
+(7)[^7] Felhatalmazást kap a Kormány, hogy a Karitatív Tanács döntésének előkészítését, a döntés végrehajtásának koordinálását, felügyeletét, továbbá a közérdekű felhasználás kezdeményezése és lebonyolítása során az e törvényben meghatározott szakmai feladatok ellátását végző szervet rendeletben jelölje ki.
+
+## 2. §
+
+(1)[^8] Közérdekű felhasználásra kizárólag az olyan elkobzott dolog kerülhet, amely az 1. mellékletben meghatározott valamely rendeltetési körbe tartozik.
+
+(2) Az (1) bekezdésben meghatározott feltétel megléte esetén sincs helye olyan elkobzott dolog közérdekű felhasználásának,
+
+a)[^9] amelyet azért koboztak el, mert birtoklása a közbiztonságot veszélyezteti vagy jogszabályba ütközik [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 77. § (1) bekezdés *b)* pont, a szabálysértésekről szóló 1999. évi LXIX. törvény 20. § (1) bekezdés *a)* pont, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 72. § (1) bekezdés *d)* pont, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 18. § (1) bekezdés *b)* pont],
+
+b)[^10] amelyet
+
+ba) a 2013. június 30-ig hatályban volt rossz minőségű termék forgalomba hozatala (1978. évi IV. törvény 292. §), illetve e bűncselekmény szabálysértési alakzata miatt koboztak el, feltéve, hogy a termék rendeltetésszerűen nem használható, továbbá amelyet bitorlás (1978. évi IV. törvény 329. §), szerzői vagy szomszédos jogok megsértése (1978. évi IV. törvény 329/A. §), szerzői vagy szomszédos jog védelmét biztosító műszaki intézkedés kijátszása (1978. évi IV. törvény 329/B. §), jogkezelési adat meghamisítása (1978. évi IV. törvény 329/C. §) miatt, valamint amelyet iparjogvédelmi jogok megsértése (1978. évi IV. törvény 329/D. §), illetve e bűncselekmény szabálysértési alakzata miatt,
+
+bb) bitorlás (Btk. 384. §), szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), védelmet biztosító műszaki intézkedés kijátszása (Btk. 386. §), jogkezelési adat meghamisítása (Btk. 387. §), iparjogvédelmi jogok megsértése (Btk. 388. §) vagy – feltéve, hogy a termék rendeltetésszerűen nem használható – rossz minőségű termék forgalomba hozatala (Btk. 415. §), illetve e bűncselekmények szabálysértési alakzata miatt
+
+koboztak el,
+
+c) amelyet külön jogszabály rendelkezései szerint az elkobzást követően meghatározott szervnek kell átadni,[^11]
+
+d) amely a közrendet, a közegészséget vagy a közerkölcsöt sértő jellege folytán a közérdekű felhasználás céljával összeegyeztethetetlen,
+
+e) amely jövedéki termék.[^12]
+
+(3)[^13] A (2) bekezdés *a)* pontjában foglaltaktól eltérően nincs akadálya az elkobzott dolog közérdekű felhasználásának, ha a dolog jogsértő jellegétől való megfosztására sor került.
+
+## 3. §[^14]
+
+Az elkobzott dolgot kezelő hatóság az elkobzás jogszabályban meghatározott végrehajtásának megkezdése előtt alkalmanként, vagy – ha ez az érintett dolog csekély mennyisége miatt észszerűtlen lenne – több elkobzásról együttesen, időszakonként, a Karitatív Tanács honlapján közzétett formanyomtatvány elektronikus úton való megküldésével értesíti a Karitatív Tanácsot, ha e törvény szerint az elkobzott dolog közérdekű felhasználásának lehet helye.
+
+## 4. §
+
+(1)[^15] A Karitatív Tanács a 3. § szerinti értesítés kézhezvételétől számított soron következő ülésén, legkésőbb 60 napon belül dönt a közérdekű felhasználás kezdeményezéséről. Ha a Karitatív Tanács a közérdekű felhasználást kezdeményező döntést hoz, haladéktalanul tájékoztatja az elkobzott dolgot kezelő hatóságot arról, hogy az elkobzott dolgot közérdekű felhasználásra átveszi.
+
+(2) Ha a Karitatív Tanács határidőn belül nem nyilatkozik, vagy úgy nyilatkozik, hogy a közérdekű felhasználást nem kezdeményezi, az elkobzott dolgot kezelő hatóság a továbbiakban az elkobzás végrehajtásának általános szabályai szerint jár el.
+
+(2a)[^16] Ha a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja a közérdekű felhasználást kezdeményező döntés meghozatalát követő hatvan napon belül az elkobzott dolog elszállításáról nem gondoskodik, az elkobzott dolgot kezelő hatóság az elkobzás végrehajtásának általános szabályai szerint jár el.
+
+(3)[^17] Az elkobzott dolog tárolásával kapcsolatos költségek a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagját attól a naptól kezdve terhelik, hogy a dolog a birtokába kerül.
+
+(4)[^18] Ha az elkobzott dolog biztonságosságával kapcsolatban kétség merül fel, az erre kijelölt szerv kezdeményezi a fogyasztóvédelmi hatóságnak a dolog biztonságosságával kapcsolatos piacfelügyeleti eljárását és annak keretében a dolog biztonságossági szempontból történő megvizsgálását.[^19]
+
+(5)[^20] Ha az elkobzott dolog forgalmazása vagy használata (üzemben tartása) külön hatósági engedélyhez kötött, az engedély beszerzéséről a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja gondoskodik. Az engedély beszerzésével kapcsolatos eljárás során az elkobzott dolgot kezelő hatóság, az engedély beszerzésére kijelölt szerv és a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja együttműködik egymással.
+
+(6) Ha a (4) és (5) bekezdés szerinti eljárásban azt állapítják meg, hogy az elkobzott dolog nem biztonságos, illetve az elkobzott dolog forgalmazását vagy használatát a hatóság nem engedélyezi, a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja köteles az elkobzott dolgot az elkobzást végrehajtó hatóságnak haladéktalanul visszaszolgáltatni.
+
+(7)[^21] A (4) bekezdés esetén a dolog biztonságosságával kapcsolatos kétség, valamint az (5) bekezdés esetén az engedély hiánya nem akadálya a közérdekű felhasználásnak, ha az elkobzott dolog átalakítása alapján a biztonságossággal kapcsolatos kétség nem merül fel, vagy engedély nem szükséges.
+
+## 5. §
+
+(1) A Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja részére az elkobzott dolgot írásba foglalt szerződéssel kell ingyenesen átruházni.
+
+(2)[^22] Az (1) bekezdés szerinti szerződésben a Karitatív Tanács közérdekű felhasználás lebonyolítására kijelölt tagjának vállalnia kell, hogy kereskedelmi forgalomba nem juttatja az elkobzott dolgokat, azokat az 1. § (2) bekezdése szerinti rászoruló személy vagy intézmény részére ingyenesen adja át. E kötelezettség megszegése esetére megfelelő súlyú, arányos jogkövetkezményt kell a szerződésben kikötni.
+
+## 6. §
+
+(1)[^23] Az 1–5. §-ban foglaltakat a 2013. június 30-ig hatályban volt áru hamis megjelölése (1978. évi IV. törvény 296.) és a versenytárs utánzása (Btk. 419. §), illetve e bűncselekmény szabálysértési alakzata miatt elkobzott dolog közérdekű felhasználására az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2)[^24] A közérdekű felhasználásnak – az 1. §-ban foglaltakon túl – akkor van helye, ha
+
+a) az áru hamis megjelölésével vagy a versenytárs utánzásával jogaiban megsértett személy (a továbbiakban: jogosult) a közérdekű felhasználáshoz hozzájárult, illetve
+
+b) az elkobzott dolog jogsértő mivoltától való megfosztásának a jogosult által meghatározott feltétele teljesült, vagy
+
+c) – az *a)* pont, illetve a *b)* pont hiányában – az elkobzott dolog jogsértő mivoltától megfosztható és erről a bíróság rendelkezett.
+
+(2a)[^25] A jogosult hozzájárulásának beszerzése, illetve a bíróság eljárásának kezdeményezése az erre kijelölt szerv feladata.
+
+(3)[^26] Ha a Karitatív Tanács az (1) bekezdésben meghatározott dolog közérdekű felhasználását kívánja kezdeményezni, az erre kijelölt szerv az elkobzott dolgot kezelő hatóság értesítésének beérkezését követően megtartott első Karitatív Tanács ülése után haladéktalanul megkeresi a jogosultat a hozzájárulás megadása vagy az elkobzott dolog jogsértő mivoltától való megfosztásának a feltételével kapcsolatos nyilatkozat érdekében. Ha a megkereséstől számított tizenöt napon belül a jogosult nem válaszol, illetve az (1) bekezdésben meghatározott dolog közérdekű felhasználásához nem járul hozzá, az e határidő leteltét követő tizenöt napon belül az erre kijelölt szerv – a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagjának egyetértésével – bírósághoz fordul. Az erre kijelölt szerv a jogosult megkereséséről, a jogosult hozzájáruló nyilatkozatáról, illetve a bírósági eljárás megindításáról az elkobzott dolgot kezelő hatóságot haladéktalanul tájékoztatja.
+
+(3a)[^27] Ha a jogosult a nyilatkozatában meghatározta az elkobzott dolog jogsértő mivoltától való megfosztásának a feltételét,
+
+a) annak teljesítése érdekében kell intézkedni, vagy
+
+b) az elkobzás végrehajtásának általános szabályai szerint kell eljárni.
+
+(4)[^28] Ha a jogosult az (1) bekezdésben meghatározott dolog közérdekű felhasználásához nem járult hozzá, és az erre kijelölt szerv határidőn belül a bírósági eljárást nem indítja meg, az elkobzott dolgot kezelő hatóság az elkobzás végrehajtásának általános szabályai szerint jár el.
+
+(5)[^29] Az eljárás a törvényszék székhelyén lévő járásbíróság, Budapest területén a Pesti Központi Kerületi Bíróság hatáskörébe és illetékességébe tartozik. A bíróság nemperes eljárásban határoz. Eljárása során a jogosultat meghallgatja.
+
+(6) Ha az elkobzott dolog megfosztható jogsértő mivoltától, a bíróság megállapítja, hogy a dolog közérdekű célra felhasználható. A bíróság rendelkezik arról, hogy az elkobzott dolog milyen módon fosztható meg a jogsértő mivoltától.
+
+(7) Ha a bíróság azt állapítja meg, hogy az elkobzott dolog közérdekű célra nem használható fel, illetve az elkobzott dolog jogsértő mivoltától való megfosztásának költségei aránytalanul magasak, és ezért a Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja a közérdekű felhasználásról lemond, köteles az elkobzott dolgot az elkobzást végrehajtó hatóságnak haladéktalanul visszaszolgáltatni. Ez esetben az elkobzást végrehajtó hatóság köteles az elkobzott dolgot megsemmisíteni.
+
+(8) A Karitatív Tanácsnak a közérdekű felhasználás lebonyolítására kijelölt tagja az elkobzott dolgot saját költségén köteles a bíróság határozatában meghatározott módon jogsértő mivoltától megfosztani.
+
+## 7. §
+
+(1)[^30] E törvény a kihirdetését követő harmadik hónap tizenötödik napján lép hatályba.
+
+(2) A törvény rendelkezéseit első ízben azokra az elkobzott dolgokra kell alkalmazni, amelyek a Karitatív Tanács megalakulásának a Magyar Közlönyben való közzétételekor az elkobzott dolgot kezelő hatóság birtokában vannak, és amelyek értékesítése, illetve megsemmisítése még nem kezdődött meg.
+
+(3)–(4)[^31]
+
+(5)[^32]
+
+(6) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Karitatív Tanácsban való tagság feltételeit, továbbá a Karitatív Tanács megalakításának és működési rendjének részletes szabályait.[^33]
+
+## 8. §[^34]
+
+Az 1. § (1) bekezdése a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló, 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésének való megfelelést szolgálja.
+
+## 1. melléklet a 2000. évi XIII. törvényhez[^35]
+
+**A 2. § (1) bekezdésében foglaltak értelmében az elkobzott dolog közérdekű felhasználást megalapozó rendeltetésének körei:**
+
+1\. személyes szükségletet biztosító rendeltetési körök:
+
+1.1. élelmezés
+
+1.2. ruházkodás
+
+1.3. hálófelszerelés
+
+1.4. tisztálkodás
+
+1.5. takarítás
+
+1.6. tisztítás
+
+1.7. iskoláztatás és művelődés
+
+1.8. egyéb
+
+2\. járulékos szükségletet biztosító rendeltetési körök:
+
+2.1. ideiglenes lakhatás
+
+2.2. lakáskarbantartás
+
+2.3. lakásfelszerelés
+
+2.4. híradástechnikai felszerelés
+
+2.5. háztartási eszköz
+
+2.6. konyhai felszerelés
+
+2.7. játék
+
+2.8. szabadidősport
+
+2.9. egyéb
+
+3\. az intézmények szükségleteinek kielégítését biztosító rendeltetési körök:
+
+3.1. közösségi szükségletek kielégítésére alkalmas eszköz vagy felszerelés
+
+3.2. egyéb
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2000. február 29-i ülésnapján fogadta el. A kihirdetés napja: 2000. március 8.
+[^2]: Az 1. § (1a) bekezdését a 2020: CLXX. törvény 1. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdése a 2020: CLXX. törvény 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 2004: XXVI. törvény 94. § (4) bekezdésének ka) alpontja, a 2009: LVI. törvény 221. §-a szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdése a 2004: XXVI. törvény 94. § (4) bekezdésének kc) alpontja, a 2009: LVI. törvény 221. §-a szerint módosított szöveg.
+[^6]: Az 1. § (5) bekezdése a 2004: XXVI. törvény 94. § (4) bekezdése k) pontjának kb) alpontja szerint módosított szöveg.
+[^7]: Az 1. § (7) bekezdését a 2009: LVI. törvény 220. §-a iktatta be.
+[^8]: A 2. § (1) bekezdése a 2020: CLXX. törvény 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (2) bekezdés a) pontja a 2012: CCXXIII. törvény 279. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (2) bekezdés b) pontja a 2012: CCXXIII. törvény 279. § (1) bekezdésével megállapított szöveg.
+[^11]: Lásd a 11/2003. (V. 8.) IM–BM–PM együttes rendeletet és a 117/1984. (IK. 12.) IM–BM–PM–Legf. Ü. együttes utasítást.
+[^12]: Lásd az 1993: CIII. törvény 3.§-ának (2) bekezdését.
+[^13]: A 2. § (3) bekezdését a 2020: CLXX. törvény 2. § (2) bekezdése iktatta be.
+[^14]: A 3. § a 2020: CLXX. törvény 3. §-ával megállapított szöveg.
+[^15]: A 4. § (1) bekezdése a 2020: CLXX. törvény 4. § (1) bekezdésével megállapított szöveg.
+[^16]: A 4. § (2a) bekezdését a 2020: CLXX. törvény 4. § (2) bekezdése iktatta be.
+[^17]: A 4. § (3) bekezdése a 2020: CLXX. törvény 4. § (3) bekezdésével megállapított szöveg.
+[^18]: A 4. § (4) bekezdése a 2004: XXVI. törvény 94. § (4) bekezdése k) pontjának kb) alpontja, a 2006: CIX. törvény 102. § (5) bekezdésének j) pontja szerint módosított szöveg.
+[^19]: Lásd a 79/1998. (IV. 29.) Korm. rendeletet.
+[^20]: A 4. § (5) bekezdése a 2020: CLXX. törvény 4. § (4) bekezdésével megállapított szöveg.
+[^21]: A 4. § (7) bekezdését a 2020: CLXX. törvény 4. § (5) bekezdése iktatta be.
+[^22]: Az 5. § (2) bekezdése a 2020: CLXX. törvény 5. §-ával megállapított szöveg.
+[^23]: A 6. § (1) bekezdése a 2012: CCXXIII. törvény 279. § (2) bekezdésével megállapított szöveg.
+[^24]: A 6. § (2) bekezdése a 2020: CLXX. törvény 6. § (1) bekezdésével megállapított szöveg.
+[^25]: A 6. § (2a) bekezdését a 2020: CLXX. törvény 6. § (2) bekezdése iktatta be.
+[^26]: A 6. § (3) bekezdése a 2020: CLXX. törvény 6. § (3) bekezdésével megállapított szöveg.
+[^27]: A 6. § (3a) bekezdését a 2020: CLXX. törvény 6. § (4) bekezdése iktatta be.
+[^28]: A 6. § (4) bekezdése a 2004: XXVI. törvény 94. § (4) bekezdése k) pontjának kb) alpontja szerint módosított szöveg.
+[^29]: A 6. § (5) bekezdése a 2011: CCI. törvény 193. §-a, a 2012: CCXI. törvény 36. §-a szerint módosított szöveg.
+[^30]: A 7. § (1) bekezdésének második és harmadik mondatát a 2007: LXXXII. törvény 2. §-ának 437. pontja hatályon kívül helyezte.
+[^31]: A 7. § (3)–(4) bekezdését a 2007: LXXXII. törvény 2. §-ának 437. pontja hatályon kívül helyezte.
+[^32]: A 7. § (5) bekezdését a 2003: CXXVII. törvény 123. § (9) bekezdése hatályon kívül helyezte.
+[^33]: Lásd a 65/2000. (V. 9.) Korm. rendeletet.
+[^34]: A 8. §-t a 2020: CLXX. törvény 7. §-a iktatta be.
+[^35]: Az 1. melléklet a 2020: CLXX. törvény 8. §-ával megállapított szöveg.

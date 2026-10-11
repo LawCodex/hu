@@ -1,0 +1,2938 @@
+---
+title: "2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról"
+identifier: "2011. évi CXII. törvény"
+njt_id: "2011-112-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2011/112"
+type: act
+jurisdiction: hu
+language: hu
+date: 2011-07-26
+in_force_from: 2011-07-27
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2011-112-00-00"
+retrieved: 2026-10-12
+---
+
+# 2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról[^1]
+
+Az Országgyűlés az információs önrendelkezési jog és az információszabadság biztosítása, illetve az adatok szabad áramlása érdekében, a személyes adatok védelmét, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez való jog érvényesülését szolgáló alapvető szabályokról, valamint az ezen szabályok ellenőrzésére hivatott hatóságról az Alaptörvény végrehajtására, az Alaptörvény VI. cikke alapján a következő törvényt alkotja:[^2]
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A törvény célja
+
+##### 1. §[^3]
+
+E törvény célja a hatálya alá tartozó tárgykörökben az adatok kezelésére vonatkozó alapvető szabályok meghatározása annak érdekében, hogy a természetes személyek magánszféráját az adatkezelők tiszteletben tartsák, valamint az adatok szabad áramlása, illetve a közügyek átláthatósága a közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez fűződő jog érvényesítésével megvalósuljon.
+
+### 2. A törvény hatálya
+
+##### 2. §
+
+(1)[^4] E törvény hatálya – személyes adatok tekintetében a (2)–(6) bekezdésben meghatározottak szerint – minden olyan adatkezelésre kiterjed, amely személyes adatra, valamint közérdekű adatra vagy közérdekből nyilvános adatra vonatkozik.
+
+(2)[^5] Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1)–(2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, továbbá a 61/A–61/D. §-ban,, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében, a 75/A. §-ban és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
+
+(2a)[^6] Az (EU) 2022/868 európai parlamenti és tanácsi rendelet (a továbbiakban: adatkormányzási rendelet) rendelkezéseit a 34/B–E. alcímekben, az V. Fejezetben, valamint a 72. §-ban meghatározott kiegészítésekkel kell alkalmazni.
+
+(3)[^7] Személyes adatok bűnüldözési, nemzetbiztonsági és honvédelmi célú kezelésére e törvényt kell alkalmazni.
+
+(4)[^8] Személyes adatoknak a (2) és (3) bekezdés hatálya alá nem tartozó kezelésére
+
+a) az általános adatvédelmi rendelet 4. cikkében, II–VI., és VIII–IX. fejezetében, valamint
+
+b)[^9] az e törvény III–V. és VI/A. Fejezetében, továbbá a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, továbbá a 61/A–61/D. §-ban,, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és a 75/A. §-ban és az 1. mellékletben
+
+meghatározott rendelkezéseket kell alkalmazni.
+
+(5)[^10] Személyes adatoknak az általános adatvédelmi rendelet hatálya alá tartozó kezelésére e törvény a (2) bekezdésben meghatározott rendelkezéseit, valamint más, törvényben meghatározott, a személyes adatok védelmére és a személyes adatok kezelésének feltételeire vonatkozó előírásokat – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha
+
+a) az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye Magyarországon van, vagy
+
+b)[^11] ha az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye nem Magyarországon van, de az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési művelet
+
+ba) áruknak vagy szolgáltatásoknak a Magyarországon tartózkodó érintettek számára történő nyújtásához kapcsolódik, függetlenül attól, hogy az érintettnek fizetnie kell-e azokért, vagy
+
+bb) az érintett Magyarország területén belül tanúsított viselkedésének megfigyeléséhez kapcsolódik.
+
+(5a)[^12] Az adatkormányzási rendelet alkalmazása során a (2a) bekezdésben meghatározott rendelkezéseket – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha az adatkormányzási rendelet szerinti adatközvetítő szolgáltatónak vagy adataltruista szervezetnek az adatkormányzási rendelet 2. cikk 14. pontjában meghatározott tevékenységi központja Magyarországon van, vagy nem rendelkezik az Európai Unióban tevékenységi központtal és az adatkormányzási rendelet hatálya alá tartozó tevékenységet végez Magyarországon.
+
+(6)[^13] Nem kell alkalmazni e törvény rendelkezéseit a természetes személynek a kizárólag saját személyes céljait szolgáló adatkezeléseire.
+
+(7)[^14] A közszféra információinak további felhasználására vonatkozóan törvény az adatszolgáltatás módjára és feltételeire, az azért fizetendő ellenértékre, valamint a jogorvoslatra vonatkozóan e törvénytől eltérő szabályokat állapíthat meg.
+
+### 3. Értelmező rendelkezések
+
+##### 3. §
+
+E törvény alkalmazása során:
+
+1.[^15] *érintett:* bármely információ alapján azonosított vagy azonosítható természetes személy;
+
+1a.[^16] *azonosítható természetes személy:* az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, azonosító szám, helymeghatározó adat, online azonosító vagy a természetes személy fizikai, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható;
+
+2.[^17] *személyes adat:* az érintettre vonatkozó bármely információ;
+
+3.[^18] *különleges adat:* a személyes adatok különleges kategóriáiba tartozó minden adat, azaz a faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre vagy szakszervezeti tagságra utaló személyes adatok, valamint a genetikai adatok, a természetes személyek egyedi azonosítását célzó biometrikus adatok, az egészségügyi adatok és a természetes személyek szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok,
+
+3a.[^19] *genetikai adat:* egy természetes személy örökölt vagy szerzett genetikai jellemzőire vonatkozó minden olyan személyes adat, amely az adott személy fiziológiájára vagy egészségi állapotára vonatkozó egyedi információt hordoz, és amely elsősorban az adott természetes személyből vett biológiai minta elemzéséből ered;
+
+3b.[^20] *biometrikus adat:* egy természetes személy fizikai, fiziológiai vagy viselkedési jellemzőire vonatkozó olyan, sajátos technikai eljárásokkal nyert személyes adat, amely lehetővé teszi vagy megerősíti a természetes személy egyedi azonosítását, mint például az arckép vagy a daktiloszkópiai adat;
+
+3c.[^21] *egészségügyi adat:* egy természetes személy testi vagy szellemi egészségi állapotára vonatkozó személyes adat, ideértve a természetes személy számára nyújtott egészségügyi szolgáltatásokra vonatkozó olyan adatot is, amely információt hordoz a természetes személy egészségi állapotáról;
+
+4\. *bűnügyi személyes adat:* a büntetőeljárás során vagy azt megelőzően a bűncselekménnyel vagy a büntetőeljárással összefüggésben, a büntetőeljárás lefolytatására, illetve a bűncselekmények felderítésére jogosult szerveknél, továbbá a büntetés-végrehajtás szervezeténél keletkezett, az érintettel kapcsolatba hozható, valamint a büntetett előéletre vonatkozó személyes adat;
+
+5.[^22] *közérdekű adat:* az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv vagy azt átvevő szerv, szervezet vagy személy (a továbbiakban együtt: közfeladatot ellátó szerv) kezelésében lévő és tevékenységére vonatkozó vagy közfeladatának ellátásával összefüggésben keletkezett, a személyes adat fogalma alá nem eső, bármilyen módon vagy formában rögzített információ vagy ismeret, függetlenül kezelésének módjától, önálló vagy gyűjteményes jellegétől, így különösen a hatáskörre, illetékességre, szervezeti felépítésre, szakmai tevékenységre, annak eredményességére is kiterjedő értékelésére, a birtokolt adatfajtákra és a működést szabályozó jogszabályokra, valamint a gazdálkodásra, a megkötött szerződésekre vonatkozó adat;
+
+6\. *közérdekből nyilvános adat:* a közérdekű adat fogalma alá nem tartozó minden olyan adat, amelynek nyilvánosságra hozatalát, megismerhetőségét vagy hozzáférhetővé tételét törvény közérdekből elrendeli;
+
+7.[^23] *hozzájárulás:* az érintett akaratának önkéntes, határozott és megfelelő tájékoztatáson alapuló egyértelmű kinyilvánítása, amellyel az érintett nyilatkozat vagy az akaratát félreérthetetlenül kifejező más magatartás útján jelzi, hogy beleegyezését adja a rá vonatkozó személyes adatok kezeléséhez;
+
+8.[^24]
+
+9.[^25] *adatkezelő:* az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között – önállóan vagy másokkal együtt az adat kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
+
+9a.[^26] *közös adatkezelő:* az az adatkezelő, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között – az adatkezelés céljait és eszközeit egy vagy több másik adatkezelővel közösen határozza meg, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket egy vagy több másik adatkezelővel közösen hozza meg és hajtja végre vagy hajtatja végre az adatfeldolgozóval;
+
+10.[^27] *adatkezelés:* az alkalmazott eljárástól függetlenül az adaton végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adat további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
+
+10a.[^28] *bűnüldözési célú adatkezelés:* a jogszabályban meghatározott feladat- és hatáskörében a közrendet vagy a közbiztonságot fenyegető veszélyek megelőzésére vagy elhárítására, a bűnmegelőzésre, a bűnfelderítésre, a büntetőeljárás lefolytatására vagy ezen eljárásban való közreműködésre, a szabálysértések megelőzésére és felderítésére, valamint a szabálysértési eljárás lefolytatására vagy ezen eljárásban való közreműködésre, továbbá a büntetőeljárásban vagy szabálysértési eljárásban megállapított jogkövetkezmények végrehajtására irányuló tevékenységet folytató szerv vagy személy (a továbbiakban együtt: bűnüldözési adatkezelést folytató szerv) ezen tevékenység keretei között és céljából – ideértve az ezen tevékenységhez kapcsolódó személyes adatok levéltári, tudományos, statisztikai vagy történelmi célból történő kezelését is – (a továbbiakban együtt: bűnüldözési cél) végzett adatkezelése;
+
+10b.[^29] *nemzetbiztonsági célú adatkezelés:* a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladat- és hatáskörében végzett adatkezelése, valamint az általános rendőrségi feladatok ellátására létrehozott szervnek a jogszabályban meghatározott feladat- és hatáskörében végzett, a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó adatkezelése;
+
+10c.[^30] *honvédelmi célú adatkezelés:* a honvédelmi adatkezelésekről szóló törvény, és a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvény hatálya alá tartozó adatkezelés;
+
+11\. *adattovábbítás:* az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
+
+11a.[^31] *közvetett adattovábbítás:* személyes adatnak valamely harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére továbbítása útján valamely más harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére történő továbbítása;
+
+11b.[^32] *nemzetközi szervezet:* a nemzetközi közjog hatálya alá tartozó szervezet és annak alárendelt szervei, továbbá olyan egyéb szerv, amelyet két vagy több állam közötti megállapodás hozott létre vagy amely ilyen megállapodás alapján jött létre;
+
+12\. *nyilvánosságra hozatal:* az adat bárki számára történő hozzáférhetővé tétele;
+
+13.[^33] *adattörlés:* az adat felismerhetetlenné tétele oly módon, hogy a helyreállítása többé nem lehetséges;
+
+14.[^34]
+
+15.[^35] *adatkezelés korlátozása:* a tárolt adat zárolása az adat további kezelésének korlátozása céljából történő megjelölése útján;
+
+16.[^36] *adatmegsemmisítés:* az adatot tartalmazó adathordozó teljes fizikai megsemmisítése;
+
+17.[^37] *adatfeldolgozás:* az adatkezelő megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletek összessége;
+
+18.[^38] *adatfeldolgozó:* az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között és feltételekkel – az adatkezelő megbízásából vagy rendelkezése alapján személyes adatokat kezel;
+
+19\. *adatfelelős:* az a közfeladatot ellátó szerv, amely az elektronikus úton kötelezően közzéteendő közérdekű adatot előállította, illetve amelynek a működése során ez az adat keletkezett;
+
+20.[^39] *adatközlő:* az a közfeladatot ellátó szerv, amely – ha az adatfelelős nem maga teszi közzé az adatot – az adatfelelős által hozzá eljuttatott adatot honlapon közzéteszi;
+
+21\. *adatállomány:* az egy nyilvántartásban kezelt adatok összessége;
+
+22.[^40] *harmadik személy:* olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely nem azonos az érintettel, az adatkezelővel, az adatfeldolgozóval vagy azokkal a személyekkel, akik az adatkezelő vagy adatfeldolgozó közvetlen irányítása alatt a személyes adatok kezelésére irányuló műveleteket végeznek;
+
+23\. *EGT-állam:* az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+
+24\. *harmadik ország:* minden olyan állam, amely nem EGT-állam.
+
+25.[^41]
+
+26.[^42] *adatvédelmi incidens:* az adatbiztonság olyan sérelme, amely a továbbított, tárolt vagy más módon kezelt személyes adatok véletlen vagy jogellenes megsemmisülését, elvesztését, módosulását, jogosulatlan továbbítását vagy nyilvánosságra hozatalát, vagy az azokhoz való jogosulatlan hozzáférést eredményezi;
+
+27.[^43] *profilalkotás:* személyes adat bármely olyan – automatizált módon történő – kezelése, amely az érintett személyes jellemzőinek, különösen a munkahelyi teljesítményéhez, gazdasági helyzetéhez, egészségi állapotához, személyes preferenciáihoz vagy érdeklődéséhez, megbízhatóságához, viselkedéséhez, tartózkodási helyéhez vagy mozgásához kapcsolódó jellemzőinek értékelésére, elemzésére vagy előrejelzésére irányul;
+
+28.[^44] *címzett:* az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely részére személyes adatot az adatkezelő, illetve az adatfeldolgozó hozzáférhetővé tesz;
+
+29.[^45] *álnevesítés:* személyes adat olyan módon történő kezelése, amely – a személyes adattól elkülönítve tárolt – további információ felhasználása nélkül megállapíthatatlanná teszi, hogy a személyes adat mely érintettre vonatkozik, valamint műszaki és szervezési intézkedések megtételével biztosítja, hogy azt azonosított vagy azonosítható természetes személyhez ne lehessen kapcsolni;
+
+## II. Fejezet[^46] — A SZEMÉLYES ADATOK VÉDELMÉRE VONATKOZÓ KÖVETELMÉNYEK
+
+### 4. [^47] A személyes adatok kezelésének alapelvei
+
+##### 4. §
+
+(1)[^48] Személyes adat kizárólag egyértelműen meghatározott, jogszerű célból, jog gyakorlása és kötelezettség teljesítése érdekében kezelhető. Az adatkezelésnek minden szakaszában meg kell felelnie az adatkezelés céljának, az adatok gyűjtésének és kezelésének tisztességesnek és törvényesnek kell lennie.
+
+(2) Csak olyan személyes adat kezelhető, amely az adatkezelés céljának megvalósulásához elengedhetetlen, a cél elérésére alkalmas. A személyes adat csak a cél megvalósulásához szükséges mértékben és ideig kezelhető.
+
+(3) A személyes adat az adatkezelés során mindaddig megőrzi e minőségét, amíg kapcsolata az érintettel helyreállítható. Az érintettel akkor helyreállítható a kapcsolat, ha az adatkezelő rendelkezik azokkal a technikai feltételekkel, amelyek a helyreállításhoz szükségesek.
+
+(4) Az adatkezelés során biztosítani kell az adatok pontosságát, teljességét és – ha az adatkezelés céljára tekintettel szükséges – naprakészségét, valamint azt, hogy az érintettet csak az adatkezelés céljához szükséges ideig lehessen azonosítani.
+
+(4a)[^49] Az adatkezelés során arra alkalmas műszaki vagy szervezési – így különösen az adatok jogosulatlan vagy jogellenes kezelésével, véletlen elvesztésével, megsemmisülésével vagy károsodásával szembeni védelmet kialakító – intézkedések alkalmazásával biztosítani kell a személyes adatok megfelelő biztonságát.
+
+(5)[^50] A személyes adatok kezelését tisztességesnek és törvényesnek kell tekinteni, ha az érintett véleménynyilvánítási szabadságának biztosítása érdekében az érintett véleményét megismerni kívánó személy az érintett lakóhelyén vagy tartózkodási helyén felkeresi, feltéve, hogy az érintett személyes adatait e törvény rendelkezéseinek megfelelően kezelik és a személyes megkeresés nem üzleti célra irányul. A személyes megkeresésre a munka törvénykönyve szerinti munkaszüneti napon nem kerülhet sor.
+
+### 5. [^51] Az adatkezelés jogalapja és általános feltételei
+
+##### 5. §
+
+(1) Személyes adat akkor kezelhető, ha
+
+a) azt törvény vagy – törvény felhatalmazása alapján, az abban meghatározott körben, különleges adatnak vagy bűnügyi személyes adatnak nem minősülő adat esetén – helyi önkormányzat rendelete közérdeken alapuló célból elrendeli,
+
+b) az a) pontban meghatározottak hiányában az az adatkezelő törvényben meghatározott feladatainak ellátásához feltétlenül szükséges és az érintett a személyes adatok kezeléséhez kifejezetten hozzájárult,
+
+c) az a) pontban meghatározottak hiányában az az érintett vagy más személy létfontosságú érdekeinek védelméhez, valamint a személyek életét, testi épségét vagy javait fenyegető közvetlen veszély elhárításához vagy megelőzéséhez szükséges és azzal arányos, vagy
+
+d) az a) pontban meghatározottak hiányában a személyes adatot az érintett kifejezetten nyilvánosságra hozta és az az adatkezelés céljának megvalósulásához szükséges és azzal arányos.
+
+(2) Különleges adat
+
+a) az (1) bekezdés c)–d) pontjában meghatározottak szerint, vagy
+
+b) akkor kezelhető, ha az törvényben kihirdetett nemzetközi szerződés végrehajtásához feltétlenül szükséges és azzal arányos, vagy azt az Alaptörvényben biztosított alapvető jog érvényesítése, továbbá a nemzetbiztonság, a bűncselekmények megelőzése, felderítése vagy üldözése érdekében vagy honvédelmi érdekből törvény elrendeli.
+
+(3) Az (1) bekezdés a) pontjában, a (2) bekezdés b) pontjában, valamint az általános adatvédelmi rendelet 6. cikk (1) bekezdés c) és e) pontjában meghatározott adatkezelés (a továbbiakban: kötelező adatkezelés) esetén a kezelendő adatok fajtáit, az adatkezelés célját és feltételeit, az adatok megismerhetőségét, az adatkezelő személyét, valamint az adatkezelés időtartamát vagy szükségessége időszakos felülvizsgálatát az adatkezelést elrendelő törvény, illetve önkormányzati rendelet határozza meg.
+
+(4) Kizárólag állami vagy önkormányzati szerv kezelheti az állam bűncselekmények megelőzésére, felderítésére és üldözésére irányuló, valamint közigazgatási és igazságszolgáltatási feladatainak ellátása céljából kezelt bűnügyi személyes adatokat, valamint a szabálysértési, a polgári peres és nemperes ügyekre, valamint a közigazgatási peres és nemperes ügyekre vonatkozó adatokat tartalmazó nyilvántartásokat.
+
+(5) Ha a kötelező adatkezelés időtartamát vagy szükségessége időszakos felülvizsgálatát törvény, helyi önkormányzat rendelete vagy az Európai Unió kötelező jogi aktusa nem határozza meg, az adatkezelő az adatkezelés megkezdésétől legalább háromévente felülvizsgálja, hogy az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adat kezelése az adatkezelés céljának megvalósulásához szükséges-e. Ezen felülvizsgálat körülményeit és eredményét az adatkezelő dokumentálja, e dokumentációt a felülvizsgálat elvégzését követő tíz évig megőrzi és azt a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) kérésére a Hatóság rendelkezésére bocsátja.
+
+(6) Különleges adatok kezelése esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó megfelelő műszaki és szervezési intézkedésekkel biztosítja, hogy az adatkezelési műveletek végzése során a különleges adatokhoz kizárólag az rendelkezzen hozzáféréssel, akinek az adatkezelési művelettel összefüggő feladatának ellátásához feltétlenül szükséges.
+
+(7) Bűnügyi személyes adatok kezelése esetén – ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa ettől eltérően nem rendelkezik – a különleges adatok kezelésének feltételeire vonatkozó szabályokat kell alkalmazni.
+
+(8) A tudományos kutatást végző szerv vagy személy személyes adatot nyilvánosságra hozhat, ha az a történelmi eseményekről folytatott kutatások eredményeinek bemutatásához szükséges.
+
+##### 6. §
+
+Kizárólag automatizált adatkezelésen – így különösen profilalkotáson – alapuló, az érintett személyére vagy jogos érdekeire hátrányos vagy az érintettet jelentős mértékben érintő jogkövetkezményekkel járó döntés meghozatalára kizárólag akkor kerülhet sor, ha azt törvény vagy az Európai Unió kötelező jogi aktusa kifejezetten lehetővé teszi és
+
+a) az nem sérti az egyenlő bánásmód követelményét,
+
+b) az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó az
+
+ba) érintettet – kérelmére – tájékoztatja a döntéshozatali mechanizmus során alkalmazott módszerről és szempontokról,
+
+bb) érintett kérelmére a döntés eredményét emberi közreműködés alkalmazásával felülvizsgálja, valamint
+
+c) arra – törvény vagy az Európai Unió kötelező jogi aktusának eltérő rendelkezése hiányában – nem különleges adatok felhasználásával kerül sor.
+
+##### 7. §
+
+(1) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – az általa kezelt személyes adatokat annak alapján rendszerezi, hogy azok azon érintettek személyes adatai
+
+a) akik tekintetében alapos okkal feltételezhető, hogy bűncselekményt vagy szabálysértést követtek el vagy bűncselekményt készülnek elkövetni,
+
+b) akik büntetőjogi vagy szabálysértési felelősségét jogerősen megállapították,
+
+c) akik bűncselekmény vagy szabálysértés sértettjei voltak, vagy akikről megalapozottan feltételezhető, hogy bűncselekmény vagy szabálysértés sértettjei lehetnek, vagy
+
+d) akik az a)–c) pontban meghatározottakon túl bűncselekménnyel vagy szabálysértéssel, vagy azok elkövetőivel kapcsolatba hozhatóak, így különösen, akik a büntetőeljárás során tanúként meghallgathatóak, a bűncselekményről vagy a szabálysértésről információval szolgálhatnak, vagy az a) és b) pontban meghatározott érintettekkel kapcsolatban állnak vagy velük összefüggésbe hozhatóak.
+
+(2) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – egyértelműen megkülönbözteti az érintettel kapcsolatba hozható tényeket és az érintettel kapcsolatba hozható szubjektív értékeléseket.
+
+### 6. [^52] Az adattovábbítás feltételei
+
+##### 8. §
+
+(1) Az adattovábbítást megelőzően az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó megvizsgálja a továbbítandó személyes adatok pontosságát, teljességét és naprakészségét.
+
+(2) Ha az (1) bekezdésben meghatározott vizsgálat eredményeként az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó azt állapítja meg, hogy a továbbítandó adatok pontatlanok, hiányosak vagy már nem naprakészek, azokat kizárólag abban az esetben továbbíthatja, ha
+
+a) az az adattovábbítás céljának megvalósulásához elengedhetetlenül szükséges, és
+
+b) az adattovábbítással egyidejűleg tájékoztatja a címzettet az adatok pontosságával, teljességével és naprakészségével összefüggésben rendelkezésére álló információkról.
+
+(3) Ha az adattovábbítást követően jut az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó tudomására, hogy az adattovábbítás törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott feltételei nem teljesültek, arról a címzettet haladéktalanul értesíti.
+
+##### 9. §
+
+(1) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő vagy az adatfeldolgozó személyes adatot akként vesz át, hogy az adattovábbító adatkezelő vagy adatfeldolgozó az adattovábbítással egyidejűleg jelzi a személyes adat
+
+a) kezelésének lehetséges célját,
+
+b) kezelésének lehetséges időtartamát,
+
+c) továbbításának lehetséges címzettjeit,
+
+d) érintettje e törvényben biztosított jogainak korlátozását, vagy
+
+e) kezelésének egyéb feltételeit
+
+[az a)–e) pont a továbbiakban együtt: adatkezelési feltételek], a személyes adatokat átvevő adatkezelő és adatfeldolgozó (a továbbiakban: adatátvevő) a személyes adatot az adatkezelési feltételeknek megfelelő terjedelemben és módon kezeli, az érintett jogait az adatkezelési feltételeknek megfelelően biztosítja.
+
+(2) Az adatátvevő az adatkezelési feltételekre tekintet nélkül is kezelheti a személyes adatot és biztosíthatja az érintett jogait, ha ahhoz az adattovábbító adatkezelő előzetes jóváhagyását adta.
+
+(3) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő vagy az adatfeldolgozó adatkezelési feltételek alkalmazásának kötelezettségével kezel személyes adatot, annak továbbításával egyidejűleg tájékoztatja a címzettet az adatkezelési feltételekről és az azok alkalmazására vonatkozó jogi kötelezettségről.
+
+(4) Ha a (2) bekezdésben, továbbá a 10. § (2) bekezdés c) pont ca) alpontjában meghatározott előzetes jóváhagyás megadására az e törvény hatálya alá tartozó adatkezelő jogosult, ezen előzetes jóváhagyást az adatkezelő akkor jogosult megadni, ha az az adattovábbítás körülményeit – ideértve az adattovábbítás szükségességét és célját – figyelembe véve nem ütközik a Magyarország joghatósága alatt álló jogalanyok tekintetében alkalmazandó jogi rendelkezésbe, így különösen, ha az adattovábbítás – ideértve a közvetett adattovábbítást is – címzettje tekintetében a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján vélelmezhető.
+
+(5) Az adattovábbító adatkezelőt – kérelmére – az adatátvevő tájékoztatja az átvett személyes adatok felhasználásáról.
+
+##### 10. §
+
+(1) Személyes adatot az e törvény hatálya alá tartozó adatkezelő vagy adatfeldolgozó harmadik országban, továbbá nemzetközi szervezet keretein belül adatkezelést folytató adatkezelő vagy adatfeldolgozó részére – a közvetett adattovábbítást is ideértve – akkor továbbíthat (a továbbiakban együtt: nemzetközi adattovábbítás), ha
+
+a) a nemzetközi adattovábbításhoz az érintett kifejezetten hozzájárult, vagy
+
+b) a nemzetközi adattovábbítás az adatkezelés céljának eléréséhez szükséges, valamint
+
+ba) annak során az adatkezelésnek az 5. §-ban előírt feltételei teljesülnek, és
+
+bb) a harmadik országban, illetve a nemzetközi szervezet keretein belül adatkezelést folytató adatkezelő vagy adatfeldolgozó tekintetében a továbbított személyes adatok megfelelő szintű védelme biztosított, vagy
+
+c) a nemzetközi adattovábbítás a 11. §-ban meghatározott kivételes esetekben szükséges.
+
+(2) Bűnüldözési célú adatkezelés esetén nemzetközi adattovábbításra az (1) bekezdésben meghatározott feltételek teljesülése esetén is csak akkor kerülhet sor, ha
+
+a) az bűnüldözési célból szükséges,
+
+b) annak címzettje
+
+ba) bűnüldözési adatkezelést folytató szerv, vagy
+
+bb) nem bűnüldözési adatkezelést folytató szerv és a 11. § (3) bekezdésében meghatározott feltételek teljesülnek, és
+
+c) nemzetközi adattovábbítással érintett személyes adatnak valamely EGT-állam adatkezelőjétől történő átvétele esetén,
+
+ca) a nemzetközi adattovábbítást ezen személyes adatok tekintetében az EGT-állam adatkezelője vagy képviseletében eljáró más szerv vagy személy előzetesen jóváhagyta, vagy
+
+cb) – a közvetett adattovábbítás kivételével – a nemzetközi adattovábbítás Magyarország vagy valamely más EGT-állam alapvető érdekeit vagy ezen államok vagy harmadik ország közbiztonságát fenyegető súlyos és közvetlen veszély megelőzése érdekében szükséges és a ca) alpont szerinti előzetes jóváhagyás beszerzése ezen érdekek sérelme nélkül a nemzetközi adattovábbítást megelőzően nem lehetséges.
+
+(3) Az adatkezelő a (2) bekezdés c) pont cb) alpontjában meghatározott nemzetközi adattovábbítást követően arról haladéktalanul tájékoztatja a (2) bekezdés c) pont ca) alpontja szerinti előzetes jóváhagyásra jogosult szervet vagy személyt.
+
+(4) A személyes adatok megfelelő szintű védelmét – az ellenkező bizonyításáig – biztosítottnak kell tekinteni, ha
+
+a) az Európai Unió kötelező jogi aktusa azt megállapítja,
+
+b) az a) pont szerinti jogi aktus hiányában vagy alkalmazásának felfüggesztése esetén az érintetteknek a 14. §-ban, a 22. §-ban és a 23. §-ban foglalt jogai érvényesítésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés alkalmazandó Magyarország és azon harmadik ország, illetve nemzetközi szervezet között, amelynek joghatósága kiterjed a nemzetközi adattovábbítás címzettjére, vagy
+
+c) az a)–b) pontban meghatározott jogi aktus hiányában vagy alkalmazásának felfüggesztése esetén a nemzetközi adattovábbítást megelőzően az adatkezelő a személyes adatok továbbításának valamennyi körülményét megvizsgálta és megállapította, hogy a személyes adatok megfelelő szintű védelme tekintetében megfelelő garanciák állnak fenn.
+
+##### 11. §
+
+(1) Ha a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján nem vélelmezhető, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag abban az esetben lehetséges, ha az
+
+a) az érintett vagy más személy létfontosságú érdekeinek védelme érdekében szükséges,
+
+b) valamely EGT-állam vagy harmadik ország közbiztonságát közvetlenül és súlyosan fenyegető veszély elhárítása érdekében szükséges,
+
+c) egyedi ügyben, eseti jelleggel az adatkezelő által végzett vizsgálatok vagy eljárások hatékony és eredményes lefolytatása érdekében szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával, vagy
+
+d) egyedi ügyben, eseti jelleggel az érintett vagy más jogi igényeinek előterjesztése, érvényesítése, illetve védelme érdekében szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával.
+
+(2) Bűnüldözési célú adatkezelés esetén, ha a nemzetközi adattovábbítás címzettje bűnüldözési adatkezelést folytató szerv és a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján nem vélelmezhető, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag abban az esetben lehetséges, ha az
+
+a) az (1) bekezdés a) és b) pontjában meghatározott valamely célból szükséges,
+
+b) az érintett jogos érdekének érvényesítéséhez szükséges,
+
+c) valamely bűnüldözési célból egyedi ügyben, eseti jelleggel szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával, vagy
+
+d) valamely bűnüldözési célhoz kapcsolódó jogi igények előterjesztésére, érvényesítésére, illetve védelmére irányuló egyedi ügyben, eseti jelleggel szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával.
+
+(3) Bűnüldözési célú adatkezelés esetén, ha a nemzetközi adattovábbítás címzettje nem bűnüldözési adatkezelést folytató szerv, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag egyedi ügyben, eseti jelleggel, abban az esetben lehetséges, ha
+
+a) az a nemzetközi adattovábbítást végző adatkezelő feladat- és hatáskörébe tartozó bűnüldözési célból feltétlenül szükséges,
+
+b) az nem jár az érintett alapvető jogainak aránytalan korlátozásával,
+
+c) bűnüldözési adatkezelést folytató szerv részére történő nemzetközi adattovábbítás útján a nemzetközi adattovábbítás célja hatékonyan nem érhető el,
+
+d) a nemzetközi adattovábbítást végző adatkezelő a nemzetközi adattovábbítás tekintetében joghatósággal rendelkező harmadik országbeli vagy nemzetközi szervezet keretében bűnüldözési adatkezelést folytató szervet a nemzetközi adattovábbításról haladéktalanul tájékoztatja, kivéve, ha ezen tájékoztatás esetén a nemzetközi adattovábbítás célja hatékonyan nem érhető el, és
+
+e) a nemzetközi adattovábbítást végző adatkezelő tájékoztatja a címzettet a továbbított adatok kezelésének lehetséges céljáról.
+
+##### 12. §
+
+(1) Ha az adatkezelő vagy az adatfeldolgozó a nemzetközi adattovábbítást
+
+a) a 10. § (4) bekezdés c) pontjában foglalt vélelemre alapítja, vagy
+
+b) bűnüldözési célú adatkezelés esetén nem bűnüldözési adatkezelést folytató szerv címzett részére végzi,
+
+az adatkezelő az azonos célból, azonos címzett részére, első alkalommal történő nemzetközi adattovábbítást követően haladéktalanul tájékoztatja a Hatóságot a nemzetközi adattovábbítás céljáról, a továbbított adatok címzettjéről és köréről, valamint – az a) pontban meghatározott esetben – a nemzetközi adattovábbítás rendszerességéről.
+
+(2) Ha az adatkezelő vagy az adatfeldolgozó a nemzetközi adattovábbítást
+
+a) a 10. § (4) bekezdés c) pontjában foglalt vélelemre alapítja, vagy
+
+b) bűnüldözési célú adatkezelés esetén
+
+ba) bűnüldözési adatkezelést folytató szerv részére a 11. § (2) bekezdésben meghatározottak szerint végzi, vagy
+
+bb) nem bűnüldözési adatkezelést folytató szerv címzett részére végzi,
+
+az adatkezelő a nemzetközi adattovábbítás körülményeit, így különösen az (1) bekezdésben meghatározott adatokat, továbbá a nemzetközi adattovábbítás időpontját, a továbbított személyes adatokat, valamint – az a) pontban meghatározott esetben – az adatkezelő által vizsgált és megfelelően azonosított garanciák megnevezését dokumentálja, e dokumentációt a 25/F. § (4) bekezdésében meghatározott ideig megőrzi és azt a Hatóság kérésére rendelkezésére bocsátja.
+
+##### 13. §
+
+(1) Az EGT-államba, valamint az Európai Unió működéséről szóló szerződés V. címének 4. és 5. fejezete szerint létrehozott ügynökségek, hivatalok és szervek részére irányuló adattovábbítást úgy kell tekinteni, mintha Magyarország területén belüli adattovábbításra kerülne sor.
+
+(2) Nemzetközi adattovábbítás az általános adatvédelmi rendelet 96. cikkében, valamint a 2016/680 (EU) irányelv 61. cikkében meghatározott nemzetközi szerződések alapján az azokban meghatározott célokból, feltételekkel és adatkörben – azok módosításáig, megszüntetéséig, megszűnéséig vagy alkalmazásuk felfüggesztéséig – az e törvényben meghatározott feltételek hiányában is végezhető.
+
+## II/A. Fejezet[^53] — AZ ÉRINTETT JOGAI
+
+### 7. [^54] Az érintettet megillető jogosultságok
+
+##### 14. §
+
+Az érintett jogosult arra, hogy az adatkezelő és az annak megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatai vonatkozásában az e törvényben meghatározott feltételek szerint
+
+a) az adatkezeléssel összefüggő tényekről az adatkezelés megkezdését megelőzően tájékoztatást kapjon (a továbbiakban: előzetes tájékozódáshoz való jog),
+
+b) kérelmére személyes adatait és az azok kezelésével összefüggő információkat az adatkezelő a rendelkezésére bocsássa (a továbbiakban: hozzáféréshez való jog),
+
+c) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatait az adatkezelő helyesbítse, illetve kiegészítse (a továbbiakban: helyesbítéshez való jog),
+
+d) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatai kezelését az adatkezelő korlátozza (a továbbiakban: az adatkezelés korlátozásához való jog),
+
+e) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatait az adatkezelő törölje (a továbbiakban: törléshez való jog).
+
+### 8. [^55] Az érintett jogai érvényesülésének biztosítása
+
+##### 15. §
+
+(1) Az adatkezelő az érintett jogai érvényesülésének elősegítése érdekében megfelelő műszaki és szervezési intézkedéseket tesz, így különösen
+
+a) az érintett részére az e törvényben meghatározott esetekben nyújtandó bármely értesítést és tájékoztatást könnyen hozzáférhető és olvasható formában, lényegre törő, világos és közérthetően megfogalmazott tartalommal teljesíti, és
+
+b) az érintett által benyújtott, az őt megillető jogosultságok érvényesítésére irányuló kérelmet annak benyújtásától számított legrövidebb idő alatt, de legfeljebb huszonöt napon belül elbírálja és döntéséről az érintettet írásban vagy ha az érintett a kérelmet elektronikus úton nyújtotta be, elektronikus úton értesíti.
+
+(2) Az adatkezelő a 14. §-ban meghatározott jogok érvényesülésével kapcsolatban az e törvényben meghatározott feladatait – a (3) bekezdésben meghatározott kivétellel – ingyenesen látja el.
+
+(3) Ha az érintett
+
+a) a folyó évben, azonos adatkörre vonatkozóan a 14. § b)–e) pontjaiban meghatározott jogai érvényesítése iránt ismételten kérelmet nyújt be, és
+
+b) e kérelme alapján az adatkezelő vagy az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatainak helyesbítését, törlését vagy az adatkezelés korlátozását az adatkezelő jogszerűen mellőzi,
+
+az adatkezelő az érintett jogainak az a) és b) pontban foglaltak szerinti ismételt és megalapozatlan érvényesítésével összefüggésben közvetlenül felmerült költségeinek megtérítését követelheti az érintettől.
+
+(4) Ha megalapozottan feltehető, hogy a 14. § b)–e) pontjában meghatározott jogok érvényesítése iránt kérelmet benyújtó személy az érintettel nem azonos személy, az adatkezelő a kérelmet az azt benyújtó személy személyazonosságának hitelt érdemlő igazolását követően teljesíti.
+
+##### 16. §
+
+(1) Az előzetes tájékozódáshoz való jog érvényesülése érdekében az adatkezelő az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletek megkezdését megelőzően vagy legkésőbb az első adatkezelési művelet megkezdését követően haladéktalanul az érintett rendelkezésére bocsátja
+
+a) az adatkezelő és – ha valamely adatkezelési műveletet adatfeldolgozó végez, az adatfeldolgozó – megnevezését és elérhetőségeit,
+
+b) az adatvédelmi tisztviselő nevét és elérhetőségeit,
+
+c) a tervezett adatkezelés célját és
+
+d) az érintettet e törvény alapján megillető jogok, valamint azok érvényesítése módjának ismertetését.
+
+(2) Az (1) bekezdésben foglaltakkal egyidejűleg, azzal azonos módon vagy az érintettnek címzetten az adatkezelő az érintett számára tájékoztatást nyújt
+
+a) az adatkezelés jogalapjáról,
+
+b) a kezelt személyes adatok megőrzésének időtartamáról, ezen időtartam meghatározásának szempontjairól,
+
+c) a kezelt személyes adatok továbbítása vagy tervezett továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – köréről,
+
+d) a kezelt személyes adatok gyűjtésének forrásáról és
+
+e) az adatkezelés körülményeivel összefüggő minden további érdemi tényről.
+
+(3) A (2) bekezdésben foglaltak szerinti tájékoztatás teljesítését az elérni kívánt céllal arányosan az adatkezelő késleltetheti, a tájékoztatás tartalmát korlátozhatja vagy a tájékoztatást mellőzheti, ha ezen intézkedése elengedhetetlenül szükséges
+
+a) az általa vagy részvételével végzett vizsgálatok vagy eljárások – így különösen a büntetőeljárás – hatékony és eredményes lefolytatásának,
+
+b) a bűncselekmények hatékony és eredményes megelőzésének és felderítésének,
+
+c) a bűncselekmények elkövetőivel szemben alkalmazott büntetések és intézkedések végrehajtásának,
+
+d) a közbiztonság hatékony és eredményes védelmének,
+
+e) az állam külső és belső biztonsága hatékony és eredményes védelmének, így különösen a honvédelem és a nemzetbiztonság vagy
+
+f) harmadik személyek alapvető jogai védelmének
+
+biztosításához.
+
+##### 17. §
+
+(1) A hozzáféréshez való jog érvényesülése érdekében az érintettet kérelmére az adatkezelő tájékoztatja arról, hogy személyes adatait maga az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli-e.
+
+(2) Ha az érintett személyes adatait az adatkezelő vagy a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli, az adatkezelő az (1) bekezdésben meghatározottakon túl az érintett rendelkezésére bocsátja az érintett általa és a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatait, és közli vele
+
+a) a kezelt személyes adatok forrását,
+
+b) az adatkezelés célját és jogalapját,
+
+c) a kezelt személyes adatok körét,
+
+d) a kezelt személyes adatok továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – körét,
+
+e) a kezelt személyes adatok megőrzésének időtartamát, ezen időtartam meghatározásának szempontjait,
+
+f) az érintettet e törvény alapján megillető jogok, valamint azok érvényesítése módjának ismertetését,
+
+g) profilalkotás alkalmazásának esetén annak tényét és
+
+h) az érintett személyes adatainak kezelésével összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és az azok kezelésére tett intézkedéseket.
+
+(2a)[^56] Ha az érintett személyes adata a minősített adat védelméről szóló törvény szerinti nemzeti minősítésű személyes adatnak minősül, és annak minősítője nem az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam a 15. § (1) bekezdés b) pontja szerinti határidőbe nem számít bele.
+
+(3) Az érintett hozzáféréshez való jogának érvényesítését az adatkezelő az elérni kívánt céllal arányosan korlátozhatja vagy megtagadhatja, ha ezen intézkedés elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
+
+(4) A (3) bekezdésben foglaltak szerinti intézkedés alkalmazása esetén az adatkezelő írásban, haladéktalanul tájékoztatja az érintettet
+
+a) a hozzáférés korlátozásának vagy megtagadásának tényéről, továbbá jogi és ténybeli indokairól, ha ezeknek az érintett rendelkezésére bocsátása a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek érvényesülését nem veszélyezteti, valamint
+
+b) az érintettet e törvény alapján megillető jogokról, valamint azok érvényesítésének módjáról, így különösen arról, hogy az érintett a hozzáféréshez való jogát a Hatóság közreműködésével is gyakorolhatja.
+
+##### 18. §
+
+(1) A helyesbítéshez való jog érvényesülése érdekében az adatkezelő, ha az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok pontatlanok, helytelenek vagy hiányosak, azokat – különösen az érintett kérelmére – haladéktalanul pontosítja vagy helyesbíti, illetve ha az az adatkezelés céljával összeegyeztethető, az érintett által rendelkezésére bocsátott további személyes adatokkal vagy az érintett által a kezelt személyes adatokhoz fűzött nyilatkozattal kiegészíti (a továbbiakban együtt: helyesbítés).
+
+(2) Mentesül az (1) bekezdésben meghatározott kötelezettség alól az adatkezelő, ha
+
+a) a pontos, helytálló, illetve hiánytalan személyes adatok nem állnak rendelkezésére és azokat az érintett sem bocsátja a rendelkezésére, vagy
+
+b) az érintett által rendelkezésére bocsátott személyes adatok valódisága kétséget kizáróan nem állapítható meg.
+
+(3) Ha az adatkezelő az (1) bekezdésben meghatározottak szerint az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatokat helyesbíti, annak tényéről és a helyesbített személyes adatról tájékoztatja azt az adatkezelőt, amely részére a helyesbítéssel érintett személyes adatot továbbította.
+
+##### 19. §
+
+(1) Az adatkezelés korlátozásához való jog érvényesülése érdekében az adatkezelő a (2) bekezdésben meghatározott adatkezelési műveletekre korlátozza az adatkezelést,
+
+a) ha az érintett vitatja az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok pontosságát, helytállóságát vagy hiánytalanságát, és a kezelt személyes adatok pontossága, helytállósága vagy hiánytalansága kétséget kizáróan nem állapítható meg, a fennálló kétség tisztázásának időtartamára,
+
+b) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de az érintett írásbeli nyilatkozata vagy az adatkezelő rendelkezésére álló információk alapján megalapozottan feltételezhető, hogy az adatok törlése sértené az érintett jogos érdekeit, a törlés mellőzését megalapozó jogos érdek fennállásának időtartamára,
+
+c) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de az adatkezelő vagy más közfeladatot ellátó szerv által vagy részvételével végzett, jogszabályban meghatározott vizsgálatok vagy eljárások – így különösen büntetőeljárás – során az adatok bizonyítékként való megőrzése szükséges, ezen vizsgálat vagy eljárás végleges, illetve jogerős lezárásáig,
+
+d) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de a 12. § (2) bekezdésében foglalt dokumentációs kötelezettség teljesítése céljából az adatok megőrzése szükséges, a 25/F. § (4) bekezdésben meghatározott időpontig.
+
+(2) Az adatkezelés korlátozásának időtartama alatt a korlátozással érintett személyes adatokkal az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a tároláson túl egyéb adatkezelési műveletet kizárólag az érintett jogos érdekének érvényesítése céljából vagy törvényben, nemzetközi szerződésben, illetve az Európai Unió kötelező jogi aktusában meghatározottak szerint végezhet.
+
+(3) Az (1) bekezdés a) pontjában meghatározott adatkezelési korlátozás megszüntetése esetén az adatkezelő az adatkezelés korlátozásának feloldásáról az érintettet előzetesen tájékoztatja.
+
+##### 20. §
+
+A törléshez való jog érvényesítése érdekében az adatkezelő haladéktalanul törli az érintett személyes adatait, ha
+
+a) az adatkezelés jogellenes, így különösen, ha az adatkezelés
+
+aa) a 4. §-ban rögzített alapelvekkel ellentétes,
+
+ab) célja megszűnt, vagy az adatok további kezelése már nem szükséges az adatkezelés céljának megvalósulásához,
+
+ac) törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott időtartama eltelt, vagy
+
+ad) jogalapja megszűnt és az adatok kezelésének nincs másik jogalapja,
+
+b) az érintett az adatkezeléshez adott hozzájárulását visszavonja vagy személyes adatainak törlését kérelmezi, kivéve, ha az adatok kezelése az 5. § (1) bekezdés a) vagy c) pontján vagy (2) bekezdés b) pontján alapul,
+
+c) az adatok törlését jogszabály, az Európai Unió jogi aktusa, a Hatóság vagy a bíróság elrendelte, vagy
+
+d) a 19. § (1) bekezdés b)–d) pontjában meghatározott időtartam eltelt.
+
+##### 21. §
+
+(1) Ha az érintett kérelmét az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására az adatkezelő elutasítja, az érintettet írásban, haladéktalanul tájékoztatja
+
+a) az elutasítás tényéről, annak jogi és ténybeli indokairól, valamint
+
+b) az érintettet e törvény alapján megillető jogokról, valamint azok érvényesítésének módjáról, így különösen arról, hogy az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására vonatkozó jogát a Hatóság közreműködésével is gyakorolhatja.
+
+(2) Az (1) bekezdés a) pontjában foglaltak szerinti tájékoztatás teljesítését az adatkezelő az elérni kívánt céllal arányosan késleltetheti, a tájékoztatás tartalmát korlátozhatja vagy a tájékoztatást mellőzheti, ha ezen intézkedése elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
+
+(3) Ha az adatkezelő az általa, illetve a megbízásából vagy rendelkezése szerint eljáró adatfeldolgozó által kezelt személyes adatokat helyesbíti, törli vagy ezen adatok kezelését korlátozza, az adatkezelő ezen intézkedés tényéről és annak tartalmáról értesíti azon adatkezelőket és adatfeldolgozókat, amelyek részére az adatot ezen intézkedését megelőzően továbbította, annak érdekében, hogy azok a helyesbítést, törlést vagy az adatok kezelésének korlátozását a saját adatkezelésük tekintetében végrehajtsák.
+
+##### 22. §
+
+Jogainak érvényesítése érdekében az érintett a VI. Fejezetben meghatározottak szerint
+
+a) a Hatóság vizsgálatát kezdeményezheti az adatkezelő intézkedése jogszerűségének vizsgálata céljából, ha az adatkezelő a 14. §-ban meghatározott jogainak érvényesítését korlátozza vagy ezen jogainak érvényesítésére irányuló kérelmét elutasítja, valamint
+
+b) a Hatóság adatvédelmi hatósági eljárásának lefolytatását kérelmezheti, ha megítélése szerint személyes adatainak kezelése során az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó megsérti a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat.
+
+##### 23. §
+
+(1) Az érintett az adatkezelő, illetve – az adatfeldolgozó tevékenységi körébe tartozó adatkezelési műveletekkel összefüggésben – az adatfeldolgozó ellen bírósághoz fordulhat, ha megítélése szerint az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatait a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével kezeli.
+
+(2) Azt, hogy az adatkezelés a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásoknak – így különösen a 2. § (3) bekezdésének hatálya alá tartozó adatkezelések esetén a 4. § (1)–(4a) bekezdésben meghatározott alapvető követelményeknek – megfelel, az adatkezelő, illetve az adatfeldolgozó köteles bizonyítani.
+
+(3) A pert az érintett – választása szerint – a lakóhelye vagy tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja.
+
+(4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az érintett pernyertessége érdekében beavatkozhat.
+
+(5) Ha a bíróság a keresetnek helyt ad, a jogsértés tényét megállapítja és az adatkezelőt, illetve az adatfeldolgozót
+
+a) a jogellenes adatkezelési művelet megszüntetésére,
+
+b) az adatkezelés jogszerűségének helyreállítására, illetve
+
+c) az érintett jogai érvényesülésének biztosítására pontosan meghatározott magatartás tanúsítására
+
+kötelezi, és szükség esetén egyúttal határoz a kártérítés, sérelemdíj iránti igényről is.
+
+(6) A bíróság elrendelheti ítéletének – az adatkezelő, illetve adatfeldolgozó azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha az ítélet személyek széles körét érinti, ha az alperes adatkezelő, illetve adatfeldolgozó közfeladatot ellátó szerv, vagy ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+
+##### 24. §
+
+(1) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel másnak kárt okoz, köteles azt megtéríteni.
+
+(2) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel más személyiségi jogát megsérti, az, akinek személyiségi joga sérelmet szenvedett, az adatkezelőtől, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozótól sérelemdíjat követelhet.
+
+(3) Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy a személyiségi jog megsértésével okozott jogsérelmet az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
+
+(4) Az adatfeldolgozó mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy az általa végzett adatkezelési műveletek során a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott, kifejezetten az adatfeldolgozókat terhelő kötelezettségek, valamint az adatkezelő jogszerű utasításainak betartásával járt el.
+
+(5) Az adatkezelő és az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó, továbbá a közös adatkezelők és az általuk megbízott vagy rendelkezésük alapján eljáró adatfeldolgozók a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével okozott
+
+a) kárért az érintettel szemben egyetemlegesen felelnek, valamint
+
+b) személyiségi jogsértés esetén járó sérelemdíjat egyetemlegesen kötelesek megfizetni az érintettnek.
+
+(6) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem a személyiségi jogi jogsérelmet szenvedő személy szándékos vagy súlyosan gondatlan magatartásából származott.
+
+### 9. [^57] A személyes adatokkal összefüggő jogok érvényesítése az érintett halálát követően
+
+##### 25. §
+
+(1) Az érintett halálát követő öt éven belül a 14. § b)–e) pontjában, illetve – az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén – az általános adatvédelmi rendelet 15–18. és 21. cikkében meghatározott, az elhaltat életében megillető jogokat az érintett által arra ügyintézési rendelkezéssel, illetve közokiratban vagy teljes bizonyító erejű magánokiratban foglalt, az adatkezelőnél tett nyilatkozattal – ha az érintett egy adatkezelőnél több nyilatkozatot tett, a későbbi időpontban tett nyilatkozattal – meghatalmazott személy jogosult érvényesíteni.
+
+(2) Ha az érintett nem tett az (1) bekezdésnek megfelelő jognyilatkozatot, a Polgári Törvénykönyv szerinti közeli hozzátartozója annak hiányában is jogosult a 14. § c) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 16. és 21. cikkében, valamint – ha az adatkezelés már az érintett életében is jogellenes volt vagy az adatkezelés célja az érintett halálával megszűnt – a 14. § d) és e) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 17. és 18. cikkében meghatározott, az elhaltat életében megillető jogokat érvényesíteni az érintett halálát követő öt éven belül. Az érintett jogainak e bekezdés szerinti érvényesítésére az a közeli hozzátartozó jogosult, aki ezen jogosultságát elsőként gyakorolja.
+
+(3) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személyt e jogok érvényesítése – így különösen az adatkezelővel szembeni, valamint a Hatóság, illetve bíróság előtti eljárás – során az e törvény által az érintett részére megállapított jogok illetik meg és kötelezettségek terhelik.
+
+(4) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személy az érintett halálának tényét és idejét halotti anyakönyvi kivonattal vagy bírósági határozattal, valamint saját személyazonosságát – és a (2) bekezdés szerinti esetben közeli hozzátartozói minőségét – közokirattal igazolja.
+
+(5) Az adatkezelő kérelemre tájékoztatja az érintett Polgári Törvénykönyv szerinti közeli hozzátartozóját az (1), illetve (2) bekezdés alapján megtett intézkedésekről, kivéve, ha azt az érintett az (1) bekezdésben meghatározott nyilatkozatában megtiltotta.
+
+## II/B. Fejezet[^58] — AZ ADATKEZELŐ ÉS AZ ADATFELDOLGOZÓ KÖTELEZETTSÉGEI
+
+### 10. [^59] Az adatkezelő általános feladatai
+
+##### 25/A. §
+
+(1) Az adatkezelő az adatkezelés jogszerűségének biztosítása érdekében az adatkezelés összes körülményéhez, így különösen céljához, valamint az érintettek alapvető jogainak érvényesülését az adatkezelés által fenyegető kockázatokhoz igazodó műszaki és szervezési intézkedéseket tesz, ideértve indokolt esetben az álnevesítés alkalmazását. Ezeket az intézkedéseket az adatkezelő rendszeresen felülvizsgálja és szükség esetén megfelelően módosítja.
+
+(2) Az (1) bekezdésben meghatározott intézkedéseket úgy kell kialakítani, hogy azok
+
+a) a tudomány és technológia mindenkori állásának és az intézkedések megvalósítása költségeinek figyelembevételével észszerűen elérhető módon a személyes adatok kezelésére vonatkozó követelmények, így különösen az adatkezelés alapelvei és az érintettek jogai hatékony érvényesülését szolgálják, valamint
+
+b) alkalmasak és megfelelőek legyenek annak biztosítására, hogy alapértelmezés szerint
+
+ba) kizárólag olyan és annyi személyes adat kezelésére kerüljön sor, olyan mértékben és időtartamban, amely az adatkezelés célja szempontjából szükséges, és
+
+bb) az adatkezelő által kezelt személyes adatok az érintett erre irányuló kifejezett akarata hiányában ne válhassanak nyilvánosan hozzáférhetővé.
+
+(3) Ha az adatkezelő adatvédelmi tisztviselő kijelölésére köteles, az (1) bekezdésben meghatározott intézkedések részeként az adatkezelő belső adatvédelmi és adatbiztonsági szabályzatot alkot meg és alkalmaz.
+
+(4) Aki az adatkezelő tevékenységi körében kezelt személyes adatokhoz adatfeldolgozóként vagy az adatkezelő irányítása alatt más módon jogszerűen hozzáférhet – ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa ettől eltérően nem rendelkezik – a hozzáféréssel érintett személyes adatokkal kizárólag az adatkezelő utasításában meghatározott műveletek végzésére jogosult.
+
+(5) Az adatkezelő és az adatfeldolgozó az általa végzett adatkezelési műveletek jogszerűségével kapcsolatos eljárások lefolytatására jogosult szervek és személyek tevékenységét köteles elősegíteni, részükre az eljárásuk lefolytatásához szükséges tájékoztatást köteles megadni.
+
+##### 25/B. §
+
+(1) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa a közös adatkezelők által végzett adatkezeléssel összefüggő kötelezettségek teljesítésével, így különösen az érintett jogainak érvényesítésével, valamint ezen kötelezettségek teljesítésének elmulasztásával kapcsolatos felelősségük megoszlását nem, vagy nem teljeskörűen határozza meg, azt – a rájuk irányadó jogi kötelezettségek által nem szabályozott mértékben – a közös adatkezelők a közöttük írásban létrejött és nyilvánosságra hozott megállapodásban határozzák meg.
+
+(2) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa azt nem határozza meg, az (1) bekezdés szerinti megállapodásban ki kell jelölni azt a kapcsolattartásra köteles közös adatkezelőt, akihez az érintett az e törvényben meghatározott jogainak érvényesítése érdekében fordulni jogosult. Kapcsolattartó közös adatkezelő meghatározása vagy kijelölése hiányában az érintett az e törvény szerinti jogait bármely, közös adatkezelők által végzett adatkezelési művelet vonatkozásában bármelyik közös adatkezelővel szemben gyakorolhatja.
+
+### 11. [^60] Az adatfeldolgozó
+
+##### 25/C. §
+
+(1) Adatfeldolgozóként kizárólag olyan személy vagy szervezet járhat el, aki vagy amely megfelelő garanciákat nyújt az adatkezelés jogszerűségének és az érintettek jogai védelmének biztosítására alkalmas műszaki és szervezési intézkedések végrehajtására. Ezen garanciákat az adatkezelés megkezdését megelőzően az adatfeldolgozó igazolja az adatkezelő számára.
+
+(2) Az adatfeldolgozó további adatfeldolgozót kizárólag abban az esetben vehet igénybe, ha azt jogszabály nem zárja ki, továbbá ha az adatkezelő további adatfeldolgozó igénybevételéhez előzetesen közokiratban vagy teljes bizonyító erejű magánokiratban eseti vagy általános felhatalmazást adott.
+
+(3) Ha az adatfeldolgozó a további adatfeldolgozót az adatkezelő általános felhatalmazása alapján veszi igénybe, az adatfeldolgozó a további adatfeldolgozó igénybevételét megelőzően tájékoztatja az adatkezelőt a további adatfeldolgozó személyéről, valamint a további adatfeldolgozó által végzendő tervezett feladatokról. Ha az adatkezelő ezen tájékoztatás alapján a további adatfeldolgozó igénybevételével szemben kifogást emel, a további adatfeldolgozó igénybevételére az adatfeldolgozó kizárólag a kifogásban megjelölt feltételek teljesítése esetén jogosult.
+
+##### 25/D. §
+
+(1) Az adatkezelő és az adatfeldolgozó közötti jogviszony részletes tartalmát az e törvényben, valamint az Európai Unió kötelező jogi aktusában meghatározott keretek között jogszabály vagy az adatkezelő és az adatfeldolgozó között írásban létrehozott szerződés – ideértve az elektronikus úton létrehozott szerződést is – határozza meg. Az adatkezelő által az adatfeldolgozónak adott utasítások jogszerűségéért az adatkezelő felel.
+
+(2) Az (1) bekezdésben meghatározott jogszabálynak vagy szerződésnek tartalmaznia kell az adatkezelés tárgyát, időtartamát, jellegét és célját, az érintett személyes adatok típusát, az érintettek körét, valamint az adatfeldolgozó és az adatkezelő e törvényben, valamint az Európai Unió kötelező jogi aktusában nem szabályozott jogait és kötelezettségeit.
+
+(3) Az (1) bekezdésben meghatározott jogszabályban vagy szerződésben rendelkezni kell különösen az adatfeldolgozó azon kötelezettségéről, hogy
+
+a) tevékenysége során kizárólag az adatkezelő írásbeli utasítása alapján jár el,
+
+b) tevékenysége során biztosítja azt, hogy az érintett személyes adatokhoz való hozzáférésre feljogosított személyek – ha jogszabályon alapuló megfelelő titoktartási kötelezettség hatálya alatt egyébként nem állnak – az általuk megismert személyes adatok vonatkozásában titoktartási kötelezettséget vállaljanak,
+
+c) tevékenysége során minden megfelelő eszközzel segíti az adatkezelőt az érintettek jogai érvényesítésének elősegítése, ezzel kapcsolatos kötelezettségei teljesítése érdekében,
+
+d) az adatkezelő választása szerint az általa végzett adatkezelési műveletek befejezését követően – ha törvény másként nem rendelkezik – vagy haladéktalanul törli a tevékenysége során megismert személyes adatokat, vagy továbbítja azokat az adatkezelőnek és azt követően törli a meglévő másolatokat,
+
+e) az adatkezelő rendelkezésére bocsát minden olyan információt, amely az adatfeldolgozó igénybevételére vonatkozó jogi rendelkezéseknek való megfelelés igazolásához szükséges, és
+
+f) további adatfeldolgozót csak az e törvényben meghatározott feltételek teljesítése mellett vesz igénybe.
+
+(4) Ha egy adatfeldolgozó e törvény rendelkezéseitől eltérve maga határozza meg az adatkezelés céljait és eszközeit, akkor azt az érintett adatkezelés tekintetében adatkezelőnek kell tekinteni.
+
+### 12. [^61] Az adatkezelői és az adatfeldolgozói nyilvántartás és az elektronikus napló
+
+##### 25/E. §
+
+(1) Az adatkezelő a kezelésében lévő személyes adatokkal kapcsolatos adatkezeléseiről, az adatvédelmi incidensekről és az érintett hozzáférési jogával kapcsolatos intézkedésekről nyilvántartást vezet (a továbbiakban együtt: adatkezelői nyilvántartás). Az adatkezelői nyilvántartásban az adatkezelő rögzíti
+
+a) az adatkezelő, ideértve minden egyes közös adatkezelőt is, valamint az adatvédelmi tisztviselő nevét és elérhetőségeit,
+
+b) az adatkezelés célját vagy céljait,
+
+c) személyes adatok továbbítása vagy tervezett továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – körét,
+
+d) az érintettek, valamint a kezelt adatok körét,
+
+e) profilalkotás alkalmazása esetén annak tényét,
+
+f) nemzetközi adattovábbítás esetén a továbbított adatok körét,
+
+g) az adatkezelési műveletek – ideértve az adattovábbítást is – jogalapjait,
+
+h) ha az ismert, a kezelt személyes adatok törlésének időpontját,
+
+i) az e törvény szerint végrehajtott műszaki és szervezési biztonsági intézkedések általános leírását,
+
+j) az általa kezelt adatokkal összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és a kezelésükre tett intézkedéseket,
+
+k) az érintett hozzáférési jogának érvényesítését e törvény szerint korlátozó vagy megtagadó intézkedésének jogi és ténybeli indokait.
+
+(2) Az adatfeldolgozó az általa az egyes adatkezelők megbízásából vagy rendelkezése szerint végzett adatkezeléseiről nyilvántartást vezet (a továbbiakban: adatfeldolgozói nyilvántartás). Az adatfeldolgozói nyilvántartásban az adatfeldolgozó rögzíti:
+
+a) az adatkezelő, az adatfeldolgozó, a további adatfeldolgozók, valamint az adatfeldolgozó adatvédelmi tisztviselőjének nevét és elérhetőségeit;
+
+b) az adatkezelő megbízásából vagy rendelkezése szerint végzett adatkezelések típusait;
+
+c) az adatkezelő kifejezett utasítására történő nemzetközi adattovábbítás esetén a nemzetközi adattovábbítás tényét, valamint a címzett harmadik ország vagy nemzetközi szervezet megjelölését;
+
+d) az e törvény szerint végrehajtott műszaki és szervezési biztonsági intézkedések általános leírását.
+
+(3) Az adatkezelői és az adatfeldolgozói nyilvántartást írásban vagy elektronikus úton rögzített formában kell vezetni és azt – kérésére – a Hatóság rendelkezésére kell bocsátani.
+
+(4) Az adatkezelői nyilvántartás vezetésére irányuló kötelezettséget a nemzetbiztonsági célú adatkezelést végző szervek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nyilvántartási és dokumentációs kötelezettségek – a 23. § (2) bekezdésében és a 25/A. § (5) bekezdésében meghatározott előírások teljesítésére alkalmas módon történő – elvégzése útján is teljesíthetik.
+
+##### 25/F. §
+
+(1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége céljából az adatkezelő és az adatfeldolgozó automatizált adatkezelési rendszerben (a továbbiakban: elektronikus napló) rögzíti
+
+a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
+
+b) az adatkezelési művelet célját és indokát,
+
+c) az adatkezelési művelet elvégzésének pontos időpontját,
+
+d) az adatkezelési műveletet végrehajtó személy megjelölését,
+
+e) a személyes adatok továbbítása esetén az adattovábbítás címzettjét.
+
+(2) Az elektronikus naplóban rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, továbbá büntetőeljárás lefolytatása céljából ismerhetőek meg és használhatóak fel.
+
+(3) Az elektronikus naplóhoz a Hatóság, továbbá a (2) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az adatkezelő és az adatfeldolgozó hozzáférést biztosít, abból részükre adatot továbbít.
+
+(4) Az adatkezelői és az adatfeldolgozói nyilvántartásban, valamint az elektronikus naplóban rögzített adatokat a kezelt adat törlését követő tíz évig kell megőrizni.
+
+(5) Az elektronikus napló vezetésére irányuló kötelezettséget a nemzetbiztonsági célú adatkezelést végző szervek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nyilvántartási és dokumentációs kötelezettségek – a 23. § (2) bekezdésében és a 25/A. § (5) bekezdésében meghatározott előírások teljesítésére alkalmas módon történő – elvégzése útján is teljesíthetik.
+
+### 13. [^62] Az adatvédelmi hatásvizsgálat és az előzetes konzultáció
+
+##### 25/G. §
+
+(1) Az adatkezelő a tervezett adatkezelés megkezdését megelőzően felméri, hogy a tervezett adatkezelés annak körülményeire, így különösen céljára, az érintettek körére, az adatkezelési műveletek során alkalmazott technológiára tekintettel várhatóan milyen hatásokat fog gyakorolni az érintetteket megillető alapvető jogok érvényesülésére.
+
+(2) Ha az (1) bekezdés alapján elvégzett kockázatbecslés alapján a tervezett adatkezelés valószínűsíthetően az érintetteket megillető, valamely alapvető jog érvényesülését lényegesen befolyásolja (a továbbiakban: magas kockázatú adatkezelés), az adatkezelő – a (6) bekezdésben meghatározott eset kivételével – az adatkezelés megkezdését megelőzően írásban elemzést készít arról, hogy a tervezett adatkezelés az érintetteket megillető alapvető jogok érvényesülésére milyen várható hatásokat fog gyakorolni (a továbbiakban: adatvédelmi hatásvizsgálat).
+
+(3) Ha a Hatóság valamely meghatározott adatkezelés-típust magas kockázatú adatkezelésnek minősít és e megállapítását közzéteszi, valamint a tervezett adatkezelés e megállapítással érintett adatkezelés-típus során alkalmazottal azonos vagy ahhoz hasonló típusú művelet vagy műveletsorozat alkalmazásával jár, a tervezett adatkezelés tekintetében annak magas kockázatát vélelmezni kell.
+
+(4) Ha a Hatóság valamely meghatározott adatkezelés-típus tekintetében azt állapítja meg, hogy az nem minősül magas kockázatú adatkezelésnek és e megállapítását közzéteszi, valamint a tervezett adatkezelés kizárólag e megállapítással érintett adatkezelés-típus során alkalmazottal azonos vagy ahhoz hasonló típusú művelet vagy műveletsorozat alkalmazásával jár, a tervezett adatkezelés tekintetében azt kell vélelmezni, hogy az nem minősül magas kockázatú adatkezelésnek.
+
+(5) Az adatvédelmi hatásvizsgálat tartalmazza legalább a tervezett adatkezelési műveletek általános leírását, az érintettek alapvető jogainak érvényesülését fenyegető, az adatkezelő által azonosított kockázatok leírását és jellegét, az e kockázatok kezelése céljából tervezett, valamint a személyes adatokhoz fűződő jog érvényesülésének biztosítására irányuló, az adatkezelő által alkalmazott intézkedéseket.
+
+(6) Kötelező adatkezelés esetén – ideértve különösen a 2. § (3) bekezdésében meghatározott célokból folytatott kötelező adatkezeléseket – az (5) bekezdésben meghatározott tartalmú adatvédelmi hatásvizsgálatot az adatkezelést előíró jogszabály előkészítője folytatja le.
+
+##### 25/H. §
+
+(1) Ha a tervezett adatkezelés
+
+a) vonatkozásában lefolytatott adatvédelmi hatásvizsgálat eredménye alapján megállapítható, hogy a tervezett adatkezelés – az adatkezelő által az adatkezeléssel járó kockázatok mérsékléséhez szükséges intézkedések megtételének hiányában – magas kockázatú lenne, vagy
+
+b) magas kockázatát a 25/G. § (3) bekezdése szerint vélelmezni kell,
+
+az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2) bekezdésben meghatározott kivétellel – az adatkezelés megkezdését megelőzően konzultációt kezdeményez a Hatósággal (a továbbiakban: előzetes konzultáció).
+
+(2) Kötelező adatkezelés esetén – ideértve különösen a 2. § (3) bekezdésében meghatározott célokból folytatott kötelező adatkezeléseket – az előzetes konzultációt az adatkezelést előíró jogszabály előkészítője a jogszabály-előkészítési eljárás keretei között kezdeményezi és folytatja le.
+
+(3) Az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó az előzetes konzultáció kezdeményezésével egyidejűleg a Hatóság rendelkezésére bocsátja az adatvédelmi hatásvizsgálat eredményét, továbbá felvilágosítást nyújt a Hatóság részére minden olyan körülményről, amelynek tisztázását a Hatóság az előzetes konzultáció eredményes lefolytatása érdekében szükségesnek tartja.
+
+(4) Ha a Hatóság az előzetes konzultáció során arra a megállapításra jut, hogy a tervezett adatkezelés vonatkozásában az arra irányadó jogszabályban meghatározott előírások nem érvényesülnek maradéktalanul – különösen, ha álláspontja szerint az adatkezelő az adatkezeléssel járó kockázatokat nem megfelelően azonosította vagy nem megfelelően mérsékelte –, a feladat- és hatáskörébe tartozó bármely egyéb intézkedés megtétele mellett vagy helyett a feltárt hiányosságok megszüntetésére alkalmas lépéseket határoz meg és azok végrehajtására tesz javaslatot az adatkezelő, illetve – annak tevékenységi körére korlátozva – az adatfeldolgozó részére.
+
+(5) A (4) bekezdésben meghatározott javaslatot a Hatóság az előzetes konzultáció kezdeményezésétől számított hat héten belül, írásban teszi meg. E határidőt a Hatóság legfeljebb egy hónappal meghosszabbíthatja, ebben az esetben a meghosszabbítás tényéről és indokairól az előzetes konzultáció kezdeményezésétől számított egy hónapon belül tájékoztatja az adatkezelőt, illetve az adatfeldolgozót.
+
+### 14. [^63] Adatbiztonsági intézkedések
+
+##### 25/I. §
+
+(1) Az adatkezelő és az adatfeldolgozó a kezelt személyes adatok megfelelő szintű biztonságának biztosítása érdekében az érintettek alapvető jogainak érvényesülését az adatkezelés által fenyegető – így különösen az érintettek különleges adatainak kezelésével járó – kockázatok mértékéhez igazodó műszaki és szervezési intézkedéseket tesz.
+
+(2) Az (1) bekezdésben meghatározott intézkedések kialakítása és végrehajtása során az adatkezelő és az adatfeldolgozó figyelembe veszi az adatkezelés összes körülményét, így különösen a tudomány és a technológia mindenkori állását, az intézkedések megvalósításának költségeit, az adatkezelés jellegét, hatókörét és céljait, továbbá az érintettek jogainak érvényesülésére az adatkezelés által jelentett változó valószínűségű és súlyosságú kockázatokat.
+
+(3) Az adatkezelő és tevékenységi körében az adatfeldolgozó az (1) bekezdésben meghatározott intézkedésekkel biztosítja
+
+a) az adatkezeléshez használt eszközök (a továbbiakban: adatkezelő rendszer) jogosulatlan személyek általi hozzáférésének megtagadását,
+
+b) az adathordozók jogosulatlan olvasásának, másolásának, módosításának vagy eltávolításának megakadályozását,
+
+c) az adatkezelő rendszerbe a személyes adatok jogosulatlan bevitelének, valamint az abban tárolt személyes adatok jogosulatlan megismerésének, módosításának vagy törlésének megakadályozását,
+
+d) az adatkezelő rendszerek jogosulatlan személyek általi, adatátviteli berendezés útján történő használatának megakadályozását,
+
+e) azt, hogy az adatkezelő rendszer használatára jogosult személyek kizárólag a hozzáférési engedélyben meghatározott személyes adatokhoz férjenek hozzá,
+
+f) azt, hogy ellenőrizhető és megállapítható legyen, hogy a személyes adatokat adatátviteli berendezés útján mely címzettnek továbbították vagy továbbíthatják, illetve bocsátották vagy bocsáthatják rendelkezésére,
+
+g) azt, hogy utólag ellenőrizhető és megállapítható legyen, hogy mely személyes adatokat, mely időpontban, ki vitt be az adatkezelő rendszerbe,
+
+h) a személyes adatoknak azok továbbítása során vagy az adathordozó szállítása közben történő jogosulatlan megismerésének, másolásának, módosításának vagy törlésének megakadályozását,
+
+i) azt, hogy üzemzavar esetén az adatkezelő rendszer helyreállítható legyen, valamint
+
+j) azt, hogy az adatkezelő rendszer működőképes legyen, a működése során fellépő hibákról jelentés készüljön, továbbá a tárolt személyes adatokat a rendszer hibás működtetésével se lehessen megváltoztatni.
+
+(4) A különböző nyilvántartásokban elektronikusan kezelt adatállományok védelme érdekében az adatkezelő, illetve tevékenységi körében az adatfeldolgozó megfelelő műszaki megoldással biztosítja, hogy a nyilvántartásokban tárolt adatok – kivéve, ha azt törvény lehetővé teszi – közvetlenül ne legyenek összekapcsolhatók és az érintetthez rendelhetők.
+
+### 15. [^64] Az adatvédelmi incidensek kezelése
+
+##### 25/J. §
+
+(1) Az adatkezelő az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt adatokkal összefüggésben felmerült adatvédelmi incidens kapcsán rögzíti az (5) bekezdés a), c) és d) pontja szerinti adatokat, valamint az adatvédelmi incidenst haladéktalanul, de legfeljebb az adatvédelmi incidensről való tudomásszerzését követő hetvenkét órán belül bejelenti a Hatóságnak.
+
+(2) Az adatvédelmi incidenst nem kell bejelenteni, ha valószínűsíthető, hogy az nem jár kockázattal az érintettek jogainak érvényesülésére.
+
+(3) Ha az adatkezelő az (1) bekezdésben meghatározott bejelentési kötelezettséget akadályoztatása miatt határidőben nem teljesíti, azt az akadály megszűnését követően haladéktalanul teljesíti, és a bejelentéshez mellékeli a késedelem okait feltáró nyilatkozatát is.
+
+(4) Ha az adatvédelmi incidens az adatfeldolgozó tevékenységével összefüggésben merült fel vagy azt egyébként az adatfeldolgozó észleli, arról – az adatvédelmi incidensről való tudomásszerzését követően – haladéktalanul tájékoztatja az adatkezelőt.
+
+(5) Az (1) bekezdésben meghatározott bejelentési kötelezettség keretei között az adatkezelő
+
+a) ismerteti az adatvédelmi incidens jellegét, beleértve – ha lehetséges – az érintettek körét és hozzávetőleges számát, valamint az incidenssel érintett adatok körét és hozzávetőleges mennyiségét,
+
+b) tájékoztatást nyújt az adatvédelmi tisztviselő vagy a további tájékoztatás nyújtására kijelölt más kapcsolattartó nevéről és elérhetőségi adatairól,
+
+c) ismerteti az adatvédelmi incidensből eredő, valószínűsíthető következményeket, és
+
+d) ismerteti az adatkezelő által az adatvédelmi incidens kezelésére tett vagy tervezett – az adatvédelmi incidensből eredő esetleges hátrányos következmények mérséklését célzó és egyéb – intézkedéseket.
+
+(6) Ha az (5) bekezdés a)–d) pontjában foglalt valamely információ a bejelentés időpontjában nem áll az adatkezelő rendelkezésére, azzal az adatkezelő a bejelentést annak benyújtását követően utólag – az információ rendelkezésre állásáról való tudomásszerzését követően haladéktalanul – kiegészíti.
+
+(7) Ha az adatvédelmi incidens során olyan adat érintett, amelyet valamely más EGT-állam adatkezelője továbbított az adatkezelő részére, vagy amelyet az adatkezelő más EGT-állam adatkezelője részére továbbított, az (5) bekezdésben meghatározott információkat az adatkezelő ezen EGT-állam adatkezelőjével haladéktalanul közli.
+
+(8) Az (1) bekezdésben meghatározott bejelentési kötelezettséget az adatkezelő – a minősített adatot tartalmazó bejelentés kivételével – a Hatóság által e célra biztosított elektronikus felületen teljesíti.
+
+(9) Nemzetbiztonsági célú adatkezelés esetén az (1)–(8) bekezdésben meghatározottakat azzal az eltéréssel kell alkalmazni, hogy ha az adatkezelőt az (1) bekezdés alapján terhelő bejelentési kötelezettség, valamint a (7) bekezdés alapján terhelő közlési kötelezettség teljesítése nemzetbiztonsági érdekbe ütközne, azt e nemzetbiztonsági érdek megszűnését követően kell teljesíteni.
+
+##### 25/K. §
+
+(1) Ha az adatvédelmi incidens valószínűsíthetően az érintettet megillető valamely alapvető jog érvényesülését lényegesen befolyásoló következményekkel járhat (a továbbiakban: magas kockázatú adatvédelmi incidens), a nemzetbiztonsági célú adatkezelés kivételével az adatkezelő az érintettet az adatvédelmi incidensről haladéktalanul tájékoztatja.
+
+(2) Az adatkezelő mentesül az érintett (1) bekezdésben foglaltak szerinti tájékoztatásának kötelezettsége alól, ha
+
+a) az adatkezelő az adatvédelmi incidenssel érintett adatok tekintetében az adatvédelmi incidenst megelőzően megfelelő – így különösen az adatokat a jogosulatlan személy általi hozzáférés esetére értelmezhetetlenné alakító, azok titkosítását eredményező – műszaki és szervezési védelmi intézkedéseket alkalmazott,
+
+b) az adatkezelő az adatvédelmi incidensről való tudomásszerzését követően alkalmazott intézkedésekkel biztosította, hogy az adatvédelmi incidens folytán az érintettet megillető valamely alapvető jog érvényesülését lényegesen befolyásoló következmények valószínűsíthetően nem következnek be,
+
+c) az érintett (1) bekezdés szerinti közvetlen tájékoztatása csak az adatkezelő aránytalan erőfeszítésével lenne teljesíthető, ezért az adatkezelő az érintettek részére az adatvédelmi incidenssel összefüggő megfelelő tájékoztatást bárki által hozzáférhető módon közzétett információk útján biztosítja, vagy
+
+d) törvény – a (6) bekezdésben meghatározottak szerint – a tájékoztatást kizárja.
+
+(3) Az (1) bekezdésben meghatározott tájékoztatási kötelezettség keretei között az adatkezelő világosan és közérthetően ismerteti az adatvédelmi incidens jellegét, valamint az érintett rendelkezésére bocsátja a 25/J. § (5) bekezdés b), c) és d) pontjában meghatározott információkat.
+
+(4) Ha a Hatóság a 25/J. § (1) bekezdésében foglaltak szerint teljesített bejelentés alapján azt állapítja meg, hogy az adatvédelmi incidens magas kockázata miatt az érintett tájékoztatása szükséges, az adatkezelő az általa még nem teljesített, az (1) bekezdésben foglalt tájékoztatási kötelezettségét e megállapítást követően haladéktalanul teljesíti.
+
+(5) Nem köteles az adatkezelő az (1) bekezdésben foglalt tájékoztatási kötelezettség teljesítésére, ha a Hatóság a 25/J. § (1) bekezdésében foglaltak szerint teljesített bejelentés alapján a (2) bekezdés a)–d) pontjában meghatározott körülmény fennállását állapítja meg.
+
+(6) Az (1)–(5) bekezdésben meghatározottaktól eltérően törvény az érintett tájékoztatását a 16. § (3) bekezdésben foglalt feltételekkel és okokból kizárhatja, korlátozhatja vagy a tájékoztatás késleltetett teljesítését írhatja elő.
+
+### 16. [^65] Az adatvédelmi tisztviselő
+
+##### 25/L. §
+
+(1) Az adatkezelő és az adatfeldolgozó a személyes adatok kezelésére vonatkozó jogi előírások teljesítésének és az érintettek jogai érvényesülésének elősegítése érdekében adatvédelmi tisztviselőt alkalmaz,
+
+a) ha az adatkezelő, illetve az adatfeldolgozó állami feladatot vagy jogszabályban meghatározott egyéb közfeladatot lát el – kivéve a bíróságokat –, vagy
+
+b) ha törvény vagy az Európai Unió jogi aktusa azt előírja.
+
+(2) Adatvédelmi tisztviselőnek az jelölhető ki, aki a személyes adatok védelmére vonatkozó jogi előírások és jogalkalmazási gyakorlat megfelelő szintű ismeretével rendelkezik és alkalmas a 25/M. § (1) bekezdésében meghatározott feladatok ellátására.
+
+(3) Az adatvédelmi tisztviselő egyidejűleg több adatkezelő, illetve adatfeldolgozó tekintetében is elláthatja a 25/M. § (1) bekezdésében meghatározott feladatokat, ha az feladatainak szakszerű és hatékony ellátását nem veszélyezteti. Az adatvédelmi tisztviselő tájékoztatja az adatkezelőt, illetve adatfeldolgozót arról, hogy mely más adatkezelőnél vagy adatfeldolgozónál lát el adatvédelmi tisztviselői feladatokat.
+
+(4) Az adatkezelő, illetve az adatfeldolgozó tájékoztatja a Hatóságot az adatvédelmi tisztviselő nevéről, postai és elektronikus levélcíméről, ezen adatok változásáról, valamint ezen adatokat nyilvánosságra hozza.
+
+(5) Az adatkezelő és az adatfeldolgozó kellő időben bevonja az adatvédelmi tisztviselőt valamennyi, a személyes adatok védelmét érintő döntés előkészítésébe, továbbá biztosítja az adatvédelmi tisztviselő számára mindazon feltételeket, jogosultságokat és erőforrásokat, továbbá hozzáférést biztosít mindazon adatokhoz és információkhoz, amelyek az adatvédelmi tisztviselő által ellátandó feladatok végrehajtásához, valamint az adatvédelmi tisztviselő szakmai ismereteinek naprakészen tartásához szükségesek.
+
+##### 25/M. §
+
+(1) Az adatvédelmi tisztviselő elősegíti az adatkezelő, illetve az adatfeldolgozó – a személyes adatok kezelésére vonatkozó jogi előírásokban meghatározott – kötelezettségeinek teljesítését, így különösen
+
+a) a személyes adatok kezelésére vonatkozó jogi előírásokról naprakész tájékoztatást nyújt és azok érvényesítésének módjaival kapcsolatban tanácsot ad az adatkezelő, az adatfeldolgozó és az azok által foglalkoztatott, az adatkezelési műveleteket végző személyek részére;
+
+b) folyamatosan figyelemmel kíséri és ellenőrzi a személyes adatok kezelésére vonatkozó jogi előírások, így különösen a jogszabályok és belső adatvédelmi és adatbiztonsági szabályzatok érvényesülését, ennek keretei között az egyes adatkezelési műveletekhez kapcsolódó egyértelmű feladatmeghatározás, az adatkezelési műveletekben közreműködő foglalkoztatottak adatvédelmi ismereteinek bővítése és tudatosságnövelése, valamint a rendszeres időközönként lefolytatandó vizsgálatok megvalósulását;
+
+c) elősegíti az érintettet megillető jogok gyakorlását, így különösen kivizsgálja az érintettek panaszait és kezdeményezi az adatkezelőnél, illetve az adatfeldolgozónál a panasz orvoslásához szükséges intézkedések megtételét,
+
+d) szakmai tanácsadással elősegíti és figyelemmel kíséri az adatvédelmi hatásvizsgálat lefolytatását,
+
+e) együttműködik az adatkezelés jogszerűségével kapcsolatos eljárások lefolytatására jogosult szervekkel és személyekkel, így különösen kapcsolatot tart a Hatósággal az előzetes konzultáció és a Hatóság által lefolytatott eljárások elősegítése érdekében,
+
+f) közreműködik a belső adatvédelmi és adatbiztonsági szabályzat megalkotásában.
+
+(2) Az adatvédelmi tisztviselő jogviszonyának fennállása alatt és annak megszűnését követően is titokként megőrzi a tevékenységével, annak ellátásával kapcsolatban tudomására jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet az őt alkalmazó adatkezelő vagy adatfeldolgozó nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+##### 25/N. §
+
+(1) Az adatvédelmi tisztviselők konferenciája (a továbbiakban: konferencia) a Hatóság és az adatvédelmi tisztviselők rendszeres szakmai kapcsolattartását szolgálja, célja a személyes adatok védelmére és a közérdekű adatok megismerésére vonatkozó jogszabályok alkalmazása során az egységes joggyakorlat kialakítása.
+
+(2) A konferenciát a Hatóság elnöke szükség szerint, de évente legalább egyszer hívja össze, és meghatározza napirendjét.
+
+#### 17–19.[^66]
+
+## III. Fejezet — A KÖZÉRDEKŰ ADATOK MEGISMERÉSE
+
+### 20. A közérdekű adatok megismerésének általános szabályai
+
+##### 26. §
+
+(1)[^67] A közfeladatot ellátó szervnek lehetővé kell tennie, hogy a kezelésében lévő közérdekű adatot és közérdekből nyilvános adatot – az e törvényben meghatározott kivételekkel – erre irányuló igény alapján bárki megismerhesse.
+
+(1a)[^68] A közérdekű adatok és közérdekből nyilvános adatok (1) bekezdés szerinti megismerhetővé tétele során az ezen adatok – így különösen a közpénzek felhasználására és a nemzeti vagyonra vonatkozó adatok – nyilvánosságának biztosítása érdekében a közfeladatot ellátó szerv és az adatigénylő jóhiszeműen, egymással kölcsönösen együttműködve járnak el.
+
+(2)[^69] Közérdekből nyilvános adat a közfeladatot ellátó szerv feladat- és hatáskörében eljáró személy neve, feladatköre, munkaköre, vezetői megbízása, a közfeladat ellátásával összefüggő egyéb személyes adata, valamint azok a személyes adatai, amelyek megismerhetőségét törvény előírja. A közérdekből nyilvános személyes adatok a célhoz kötött adatkezelés elvének tiszteletben tartásával terjeszthetőek. A közérdekből nyilvános személyes adatok honlapon történő közzétételére az 1. melléklet és a közfeladatot ellátó személy jogállására vonatkozó külön törvény rendelkezései irányadóak.
+
+(3) Ha törvény másként nem rendelkezik, közérdekből nyilvános adat a jogszabály vagy állami, illetőleg helyi önkormányzati szervvel kötött szerződés alapján kötelezően igénybe veendő vagy más módon ki nem elégíthető szolgáltatást nyújtó szervek vagy személyek kezelésében lévő, e tevékenységükre vonatkozó, személyes adatnak nem minősülő adat.
+
+(4)[^70] A (3) bekezdésben meghatározott szerv vagy személy a (3) bekezdésben meghatározott adatok megismerésére irányuló igény teljesítése során a 28–31. § szerint jár el.
+
+##### 27. §
+
+(1)[^71] A közérdekű vagy közérdekből nyilvános adat nem ismerhető meg, ha az a minősített adat védelméről szóló törvény szerinti
+
+a) nemzeti minősített adat és a 29. § (2b) bekezdése szerint kezdeményezett felülvizsgálat eredménye alapján a minősítő a nemzeti minősített adat minősítését fenntartotta, vagy
+
+b) külföldi minősített adat.
+
+(2) A közérdekű és közérdekből nyilvános adatok megismeréséhez való jogot – az adatfajták meghatározásával – törvény
+
+a) honvédelmi érdekből;
+
+b) nemzetbiztonsági érdekből;
+
+c) bűncselekmények üldözése vagy megelőzése érdekében;
+
+d) környezet- vagy természetvédelmi érdekből;
+
+e) központi pénzügyi vagy devizapolitikai érdekből;
+
+f) külügyi kapcsolatokra, nemzetközi szervezetekkel való kapcsolatokra tekintettel;
+
+g) bírósági vagy közigazgatási hatósági eljárásra tekintettel;
+
+h) a szellemi tulajdonhoz fűződő jogra tekintettel
+
+i)[^72] kiberbiztonsági érdekből
+
+korlátozhatja.
+
+(3)[^73] Közérdekből nyilvános adatként nem minősül üzleti titoknak a központi és a helyi önkormányzati költségvetés, illetve az európai uniós támogatás felhasználásával, költségvetést érintő juttatással, kedvezménnyel, az állami és önkormányzati vagyon kezelésével, birtoklásával, használatával, hasznosításával, az azzal való rendelkezéssel, annak megterhelésével, az ilyen vagyont érintő bármilyen jog megszerzésével kapcsolatos adat, valamint az az adat, amelynek megismerését vagy nyilvánosságra hozatalát külön törvény közérdekből elrendeli. A nyilvánosságra hozatal azonban nem eredményezheti az olyan adatokhoz – így különösen a védett ismerethez – való hozzáférést, amelyek megismerése az üzleti tevékenység végzése szempontjából aránytalan sérelmet okozna, feltéve hogy ez nem akadályozza meg a közérdekből nyilvános adat megismerésének lehetőségét.
+
+(3a)[^74] Az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely az államháztartás alrendszerébe tartozó valamely személlyel pénzügyi vagy üzleti kapcsolatot létesít, köteles e jogviszonnyal összefüggő és a (3) bekezdés alapján közérdekből nyilvános adatra vonatkozóan – erre irányuló igény esetén – bárki számára tájékoztatást adni. A tájékoztatási kötelezettség a közérdekből nyilvános adatok nyilvánosságra hozatalával vagy a korábban már elektronikus formában nyilvánosságra hozott adatot tartalmazó nyilvános forrás megjelölésével is teljesíthető.[^75]
+
+(3b)[^76] Ha a (3a) bekezdés alapján tájékoztatásra kötelezett a tájékoztatást megtagadja, a tájékoztatást igénylő a tájékoztatásra kötelezett felett törvényességi felügyelet gyakorlására jogosult szerv eljárását kezdeményezheti.
+
+(4) A közérdekű adatok megismerése korlátozható uniós jogi aktus alapján az Európai Unió jelentős pénzügy- vagy gazdaságpolitikai érdekére tekintettel, beleértve a monetáris, a költségvetési és az adópolitikai érdeket is.
+
+(5) A közfeladatot ellátó szerv feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adat a keletkezésétől számított tíz évig nem nyilvános. Ezen adatok megismerését – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével – az azt kezelő szerv vezetője engedélyezheti.
+
+(6)[^77] A döntés megalapozását szolgáló adat megismerésére irányuló igény – az (5) bekezdésben meghatározott időtartamon belül – a döntés meghozatalát követően akkor utasítható el, ha az adat további jövőbeli döntés megalapozását is szolgálja, vagy az adat megismerése a közfeladatot ellátó szerv törvényes működési rendjét vagy feladat- és hatáskörének illetéktelen külső befolyástól mentes ellátását, így különösen az adatot keletkeztető álláspontjának a döntések előkészítése, illetve egyes bírósági eljárásokban való részvétele során történő szabad kifejtését veszélyeztetné.
+
+(7) Jogszabály a döntés megalapozását szolgáló egyes adatok megismerhetőségének korlátozására az (5) bekezdésben meghatározottnál rövidebb időtartamot állapíthat meg.
+
+(8) E fejezet rendelkezései nem alkalmazhatók a közhitelű nyilvántartásból történő – külön törvényben szabályozott – adatszolgáltatásra.
+
+### 21. A közérdekű adat megismerése iránti igény
+
+##### 28. §
+
+(1) A közérdekű adat megismerése iránt szóban, írásban vagy elektronikus úton bárki igényt nyújthat be. A közérdekből nyilvános adatok megismerésére a közérdekű adatok megismerésére vonatkozó rendelkezéseket kell alkalmazni.
+
+(2)[^78] Ha törvény másként nem rendelkezik, az adatigénylő személyes adatai csak annyiban kezelhetők, amennyiben az az igény teljesítéséhez, az igénynek a 29. § (1a) bekezdésében meghatározott szempont alapján való vizsgálatához, illetve az igény teljesítéséért megállapított költségtérítés megfizetéséhez szükséges. A 29. § (1a) bekezdésében meghatározott idő elteltét, illetve a költségek megfizetését követően az igénylő személyes adatait haladéktalanul törölni kell.
+
+(3)[^79] Ha az adatigénylés nem egyértelmű, az adatkezelő legfeljebb 15 napos határidő tűzésével felhívja az igénylőt az igény pontosítására. A pontosításra való felhívás megtételétől az erre adott válasznak az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
+
+##### 29. §
+
+(1)[^80] A közérdekű adat megismerésére irányuló igénynek az adatot kezelő közfeladatot ellátó szerv az igény beérkezését követő legrövidebb idő alatt, legfeljebb azonban 15 napon belül tesz eleget.
+
+(1a)[^81] Az adatigénylésnek az adatot kezelő közfeladatot ellátó szerv nem köteles eleget tenni abban a részben, amelyben az azonos igénylő által egy éven belül benyújtott, azonos adatkörre irányuló adatigényléssel megegyezik, feltéve, hogy az azonos adatkörbe tartozó adatokban változás nem állt be.
+
+(1b)[^82] Az adatigénylésnek az adatot kezelő közfeladatot ellátó szerv nem köteles eleget tenni, ha az igénylő nem adja meg nevét, nem természetes személy igénylő esetén megnevezését, valamint azt az elérhetőséget, amelyen számára az adatigényléssel kapcsolatos bármely tájékoztatás és értesítés megadható.
+
+(2)[^83] Ha az adatigénylés jelentős terjedelmű, illetve nagyszámú adatra vonatkozik, vagy az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, az (1) bekezdésben meghatározott határidő egy alkalommal 15 nappal meghosszabbítható. Erről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
+
+(2a)[^84] Ha az igénylés olyan adatra vonatkozik, amelyet az Európai Unió valamely intézménye vagy tagállama állított elő és az az igény teljesíthetőségének vizsgálata érdekében indokolt, az adatkezelő haladéktalanul megkeresi az Európai Unió érintett intézményét vagy tagállamát és erről az igénylőt tájékoztatja. A tájékoztatás megtételétől az Európai Unió érintett intézménye vagy tagállama válaszának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
+
+(2b)[^85] Ha az igénylés a minősített adat védelméről szóló törvény szerinti nemzeti minősített adatra irányul, és annak minősítője nem az adatkezelő, az adatkezelő megkeresi a minősítőt, hogy folytassa le a minősített adat védelméről szóló törvény szabályai szerint a nemzeti minősített adat felülvizsgálatát, és annak eredményéről tájékoztassa őt. A felülvizsgálatra irányuló megkereséstől a minősítő tájékoztatásának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
+
+(3)[^86] Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv az adatigénylés teljesítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg akkor, ha a felmerült költség mértéke meghaladja a kormányrendeletben meghatározott, költségtérítésként megállapítható legalacsonyabb összeget, azzal, hogy az így meghatározott költségtérítés összege ekkor sem haladhatja meg a kormányrendeletben meghatározott legmagasabb összeget. A költségtérítés összegéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
+
+(3a)[^87] Az igénylő a (3) bekezdés alapján kapott tájékoztatás kézhezvételét követő 30 napon belül nyilatkozik arról, hogy az igénylését fenntartja-e. A tájékoztatás megtételétől az igénylő nyilatkozatának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele. Ha az igénylő az igényét fenntartja, a költségtérítést az adatkezelő által megállapított, legalább 15 napos határidőben köteles az adatkezelő részére megfizetni.
+
+(4)[^88] Ha az adatot kezelő közfeladatot ellátó szerv a (3) bekezdés szerint költségtérítést állapít meg, az adatigénylést a költségtérítésnek az igénylő általi megfizetését követő 15 napon belül kell teljesíteni.
+
+(5)[^89] A költségtérítés mértékének meghatározása során az alábbi költségelemek vehetők figyelembe:
+
+a)[^90] az igényelt adatokat tartalmazó adathordozó költsége, valamint,
+
+b)[^91] az igényelt adatokat tartalmazó adathordozó az igénylő részére történő kézbesítésének költsége
+
+c)[^92]
+
+(6)[^93] Az (5) bekezdésben meghatározott költségelemek megállapítható mértékét jogszabály határozza meg.
+
+##### 30. §
+
+(1) Ha a közérdekű adatot tartalmazó dokumentum az igénylő által meg nem ismerhető adatot is tartalmaz, a másolaton a meg nem ismerhető adatot felismerhetetlenné kell tenni.
+
+(2)[^94] Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt formában, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
+
+(2a)[^95]
+
+(3)[^96] Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet.
+
+(4) A közérdekű adat megismerése iránti igény teljesítése nem tagadható meg azért, mert a nem magyar anyanyelvű igénylő az igényét anyanyelvén vagy az általa értett más nyelven fogalmazza meg.
+
+(5) Ha a közérdekű adat megismerése iránti igény teljesítésének megtagadása tekintetében törvény az adatkezelő mérlegelését teszi lehetővé, a megtagadás alapját szűken kell értelmezni, és a közérdekű adat megismerésére irányuló igény teljesítése kizárólag abban az esetben tagadható meg, ha a megtagadás alapjául szolgáló közérdek nagyobb súlyú a közérdekű adat megismerésére irányuló igény teljesítéséhez fűződő közérdeknél.
+
+(6) A közfeladatot ellátó szervnek a közérdekű adatok megismerésére irányuló igények teljesítésének rendjét rögzítő szabályzatot kell készítenie.
+
+(7)[^97] A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Erre való hivatkozással az adatkezelő az adatigénylést az igénylés tárgyát képező irat másolata helyett a jogviszony alanyainak, a jogviszony típusának, a jogviszony tárgyának, a szolgáltatás és ellenszolgáltatás mértékének és teljesítése időpontjának megjelölésével is teljesítheti.
+
+### 21/A.[^98] A közérdekű adat megismerésére irányuló igénnyel összefüggésben indítható per
+
+##### 31. §
+
+(1)[^99] Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint az adatigénylés teljesítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat (az ezen alcím alkalmazásában a továbbiakban: per) azzal, hogy a perben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) rendelkezéseit az ezen alcímben meghatározott eltérésekkel kell alkalmazni..
+
+(2)[^100] A megtagadás jogszerűségét és a megtagadás indokait, illetve az adatigénylés teljesítéséért megállapított költségtérítés összegének megalapozottságát az adatkezelőnek kell bizonyítania.
+
+(3)[^101] A pert az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított harminc napon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. Ha az igény elutasítása, nem teljesítése vagy az adatigénylés teljesítéséért megállapított költségtérítés összege miatt az igénylő a Hatóság vizsgálatának kezdeményezése érdekében a Hatóságnál bejelentést tesz, a pert a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről, az 55. § (1) bekezdés b) pontja szerinti lezárásáról szóló vagy az 58. § (3) bekezdése szerinti értesítés kézhezvételét követő harminc napon belül lehet megindítani. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
+
+(4)[^102] A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő, az üzleti titok vagy törvényben meghatározott más titok jogosultja az adatkezelő pernyertessége érdekében beavatkozhat.
+
+(5)[^103] Az országos illetékességű közfeladatot ellátó szerv ellen indult per kivételével a per a járásbíróság hatáskörébe tartozik, és arra a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság illetékes. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
+
+(6)[^104] A bíróság a per minden szakaszában – ideértve a felülvizsgálati eljárást is – soron kívül jár el.
+
+(6a)[^105] Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a peres eljárást felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
+
+(7)[^106] Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság az adatigénylés teljesítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
+
+##### 31/A. §[^107]
+
+(1) Ha a keresetlevél perfelvételre alkalmas, a bíróság legkésőbb a keresetlevél előterjesztésétől számított tizenötödik napra kitűzi a perfelvételi tárgyalást, amelyre a feleket idézi. Ha a keresetlevél csak a bíróság intézkedését követően válik tárgyalásra alkalmassá, a tárgyalás kitűzésére előírt határidő kezdő időpontját ettől az időponttól kell számítani. A tárgyalási időköz legalább három munkanap.
+
+(2) A bíróság a perfelvételi tárgyalásra történő idézéssel egyidejűleg közli a keresetet az alperessel és felhívja a feleket, hogy az ügyre vonatkozó valamennyi okiratot és egyéb bizonyítási eszközt a tárgyalásra hozzák magukkal, az alperest pedig arra is, hogy a keresetre a tárgyaláson adja elő az írásbeli ellenkérelemnek megfelelő tartalmú nyilatkozatát.
+
+(3) Az alperes a keresetlevél kézbesítésétől számított három munkanapon belül, de legkésőbb a perfelvételi tárgyalás határnapját megelőző három nappal korábban írásbeli ellenkérelmet nyújthat be. Ezzel egyidejűleg az alperes az írásbeli ellenkérelmet tájékoztatás céljából – ha az számára ismert – a felperes elektronikus levélcímére is megküldi, és a megküldés tényét a bíróság számára valószínűsíti. Az e rendelkezések megsértésével teljesített perbeli cselekmények hatálytalanok.
+
+(4) Ha a perfelvételi tárgyalást az alperes elmulasztotta és írásbeli védekezést sem terjesztett elő, a keresetet nem vitatottnak kell tekinteni és a bíróság a perfelvétel lezárását követően ítéletével marasztalja az alperest, kivéve, ha az eljárás megszüntetésének van helye. Ha a jelen lévő alperes korábban írásbeli ellenkérelmet nem terjesztett elő, azt legkésőbb a perfelvételi tárgyaláson szóban köteles előadni.
+
+(5) A perfelvételi tárgyaláson a perfelvétel folytatása akkor rendelhető el, ha a perfelvétel lezárásának elháríthatatlan eljárásjogi vagy a bíróság, illetve a fél körülményeiben, működésében rejlő objektív akadálya van. A folytatólagos perfelvételi tárgyalás időpontját tizenöt napon belüli határnapra kell kitűzni.
+
+##### 31/B. §[^108]
+
+(1) A bíróság a perfelvételt lezáró végzés meghozatalát követően nyomban megtartja az érdemi tárgyalást. Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, vagy amelyeket a felek legkésőbb a perfelvételt lezáró végzés meghozataláig felajánlottak. A perben utólagos bizonyításnak nincs helye.
+
+(2) Az érdemi tárgyalást akkor lehet elhalasztani, ha
+
+a) ezt valamely fél kéri és a már feltárt bizonyítékokkal vagy egyéb módon valószínűsíti, hogy az általa felajánlott bizonyítás alkalmas és eredményes lehet a keresetben, illetve védekezésben előadottak igazolására vagy cáfolatára, vagy
+
+b) az elrendelt bizonyítás lefolytatásának a fél körülményein kívül eső akadálya van és a bizonyítást indítványozó fél a bizonyítás lefolytatását továbbra is kéri; a távol lévő fél e nyilatkozatának beszerzése érdekében a tárgyalás elhalasztásának nincs helye.
+
+(3) A (2) bekezdésben meghatározott feltételek hiányában a bíróság a bizonyítás elrendelését, illetve lefolytatását mellőzi.
+
+(4) Az érdemi tárgyalás elhalasztása esetén a folytatólagos érdemi tárgyalást – ha ezt az ügy körülményei nem zárják ki – az elhalasztott tárgyalás határnapját követő tizenöt napon belüli határnapra kell kitűzni.
+
+(5) Ha a folytatólagos érdemi tárgyalást valamennyi fél elmulasztja, vagy a tárgyalást el nem mulasztó fél a tárgyalás megtartását nem kéri, és a mulasztó fél egyik esetben sem kérte előzőleg a tárgyalás távollétében történő megtartását, az eljárás szünetelésének nincs helye, a bíróság az eljárást hivatalból megszünteti.
+
+##### 31/C. §[^109]
+
+(1) A perben
+
+a) igazolásnak – a 31. § (3) bekezdésében meghatározott esetet kivéve –,
+
+b) viszontkeresetnek,
+
+c) a felek megegyezésén alapuló szünetelésnek,
+
+d) felfüggesztésnek – a 31. § (6a) bekezdésében, valamint a Pp. 126. §-ában meghatározott eseteket kivéve –,
+
+e) bírósági meghagyás kibocsátásának,
+
+f) keresetkiterjesztésnek, és
+
+g) beavatkozásnak – a 31. § (4) bekezdésében meghatározott esetet kivéve –
+
+nincs helye.
+
+(2) A perben a polgári perrendtartásról szóló 2016. évi CXXX. törvény 121. § (1) bekezdés c)–f) pontjában meghatározott esetekben a szünetelés tartama legfeljebb egy hónap.
+
+(3) A bíróság az ítéletét annak meghozatalától és kihirdetésétől számított tizenöt napon belül írásba foglalja, az ítélet meghozatalát és kihirdetését legfeljebb tizenöt napra halaszthatja el.
+
+(4) A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított tizenöt napon belül köteles elbírálni. A fellebbező fél ellenfele a fellebbezés kézbesítésétől számított három napon belül kérheti tárgyalás tartását, és öt napon belül köteles előterjeszteni írásban a fellebbezési ellenkérelmet és az esetleges csatlakozó fellebbezést.
+
+(5) A Kúria a felülvizsgálati kérelmet legkésőbb az iratok beérkezésétől számított hatvan napon belül köteles elbírálni.
+
+## IV. Fejezet — A KÖZÉRDEKŰ ADATOK KÖZZÉTÉTELE
+
+### 22. A közérdekű adatokra vonatkozó tájékoztatási kötelezettség
+
+##### 32. §
+
+A közfeladatot ellátó szerv a feladatkörébe tartozó ügyekben – így különösen az állami és önkormányzati költségvetésre és annak végrehajtására, az állami és önkormányzati vagyon kezelésére, a közpénzek felhasználására és az erre kötött szerződésekre, a piaci szereplők, a magánszervezetek és -személyek részére különleges vagy kizárólagos jogok biztosítására vonatkozóan – köteles elősegíteni és biztosítani a közvélemény pontos és gyors tájékoztatását.
+
+### 23. Az elektronikus közzététel kötelezettsége
+
+##### 33. §
+
+(1) Az e törvény alapján kötelezően közzéteendő közérdekű adatokat internetes honlapon, digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, kinyomtatható és részleteiben is adatvesztés és -torzulás nélkül kimásolható módon, a betekintés, a letöltés, a nyomtatás, a kimásolás és a hálózati adatátvitel szempontjából is díjmentesen kell hozzáférhetővé tenni (a továbbiakban: elektronikus közzététel). A közzétett adatok megismerése személyes adatok közléséhez nem köthető.
+
+(2) A 37. § szerinti közzétételi listákon meghatározott adatait saját honlapján – ha törvény másként nem rendelkezik – közzéteszi
+
+a)[^110] a Sándor-palota, az Országgyűlés Hivatala, az Alkotmánybíróság Hivatala, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
+
+b)[^111]
+
+c)[^112] a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
+
+d)[^113] a fővárosi és megyei kormányhivatal.
+
+(3) A (2) bekezdésben nem szereplő közfeladatot ellátó szervek a 37. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
+
+(4)[^114] A köznevelési intézmény és a szakképző intézmény az e törvény szerinti elektronikus közzétételi kötelezettségének az ágazati jogszabályokban meghatározott információs rendszerhez történő adatszolgáltatás teljesítésével eleget tesz.
+
+##### 34. §
+
+(1) Az adatokat nem a saját honlapon közzétevő adatfelelős – a 35. § alkalmazásával – a közzéteendő adatokat az adatközlőnek továbbítja, amely gondoskodik az adatok honlapon való közzétételéről, és arról, hogy egyértelmű legyen az, hogy az egyes közzétett közérdekű adatok melyik szervtől származnak, illetve melyikre vonatkoznak.
+
+(2) Az adatközlő a közzétételre szolgáló honlapot úgy alakítja ki, hogy az adatok közzétételére alkalmas legyen, gondoskodik a folyamatos üzemeltetésről, az esetleges üzemzavar elhárításáról és az adatok frissítéséről.
+
+(3) A közzétételre szolgáló honlapon közérthető formában tájékoztatást kell adni a közérdekű adatok egyedi igénylésének szabályairól. A tájékoztatásnak tartalmaznia kell az igénybe vehető jogorvoslati lehetőségek ismertetését is.
+
+(4) A közzétételre szolgáló honlapon a közzétételi listákon meghatározott közérdekű adatokon kívül elektronikusan közzétehetőek más közérdekű és közérdekből nyilvános adatok is.
+
+##### 35. §
+
+(1) Az elektronikus közzétételre kötelezett adatfelelős szerv vezetője gondoskodik a 37. §-ban meghatározott közzétételi listákon szereplő adatok pontos, naprakész és folyamatos közzétételéről, az adatközlőnek való megküldéséről.
+
+(2) A megküldött adatok elektronikus közzétételéért, folyamatos hozzáférhetőségéért, hitelességéért és az adatok frissítéséért az adatközlő felel.
+
+(3) Az adatfelelős az (1) bekezdés szerinti, az adatközlő a (2) bekezdés szerinti kötelezettség teljesítésének részletes szabályait belső szabályzatban állapítja meg.
+
+(4) Az elektronikusan közzétett adatok – ha e törvény vagy más jogszabály eltérően nem rendelkezik – a honlapról nem távolíthatóak el. A szerv megszűnése esetén a közzététel kötelezettsége a szerv jogutódját terheli.
+
+##### 36. §
+
+A 37. §-ban meghatározott közzétételi listákban szereplő adatok közzététele nem érinti az adott szervnek a közérdekű vagy közérdekből nyilvános adatok közzétételével kapcsolatos, más jogszabályban meghatározott kötelezettségeit.
+
+### 24. A közzétételi listák
+
+##### 37. §
+
+(1)[^115] A 33. § (2)–(4) bekezdésében meghatározott szervek (a továbbiakban együtt: közzétételre kötelezett szerv) – a (4) és (4a) bekezdésben meghatározott kivétellel – tevékenységükhöz kapcsolódóan az 1. melléklet szerinti általános közzétételi listában meghatározott adatokat az 1. mellékletben foglaltak szerint közzéteszik.
+
+(2) Jogszabály egyes ágazatokra, a közfeladatot ellátó szervtípusra vonatkozóan meghatározhat egyéb közzéteendő adatokat (a továbbiakban: különös közzétételi lista).
+
+(3) A közzétételre kötelezett szerv vezetője – a Hatóság véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (a továbbiakban: egyedi közzétételi lista).
+
+(4)[^116] A nemzetbiztonsági szolgálatok által közzéteendő adatok körét a Kormány – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
+
+(4a)[^117] A 37/C. § szerint a felületen közzétételre kötelezettek az 1. melléklet „III. Gazdálkodási adatok” táblázat 3., 4. és 6. pontja szerinti adataik közzétételét a felület alkalmazásával is teljesíthetik.
+
+(5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
+
+(6)[^118] A közzétételre kötelezett szerv vezetője a közzétételi listában nem szereplő közérdekű adatokra vonatkozó adatigénylések adatai alapján legalább évente felülvizsgálja az általa a (3) bekezdés szerint kiadott közzétételi listát, és a jelentős arányban vagy mennyiségben felmerült adatigénylések alapján azt kiegészíti.
+
+(7) A közzétételi listában – a közzéteendő adat jellegétől függően – a közzététel gyakorisága is megállapítható.
+
+(8) A különös és egyedi közzétételi listák elkészítésére, illetve kiegészítésére a Hatóság is javaslatot tehet.
+
+### 24/A. [^119] A közérdekű adatok központi elektronikus jegyzéke és az egységes közadatkereső rendszer
+
+##### 37/A. §
+
+(1) Az elektronikusan közzétett adatok egyszerű és gyors elérhetősége érdekében az e törvény alapján közérdekű adat elektronikus közzétételére kötelezett szervek közérdekű adatot tartalmazó honlapjára, valamint az általuk fenntartott adatbázisra és nyilvántartásra vonatkozó leíró adatokat a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által működtetett, az erre a célra létrehozott honlapon közzétett központi elektronikus jegyzék összesítve tartalmazza.
+
+(2) Az (1) bekezdésben meghatározott szerv közérdekű adataihoz való egységes szempontok szerinti elektronikus hozzáférést és a közérdekű adatok közötti keresés lehetőségét a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter által működtetett egységes közadatkereső rendszer biztosítja.
+
+##### 37/B. §
+
+(1) Az adatfelelős gondoskodik a kezelésében lévő, közérdekű adatot tartalmazó honlapok, adatbázisok, illetve nyilvántartások leíró adatainak a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszternek történő továbbításáról és a továbbított közérdekű adatok rendszeres frissítéséről, valamint felel az egységes közadatkereső rendszerbe továbbított közérdekű adatok tartalmáért és a továbbított közérdekű adatok rendszeres frissítéséért is.
+
+(2) A közérdekű adatokat tartalmazó adatbázisok, illetve nyilvántartások jegyzékének fenntartása, valamint az egységes közadatkereső rendszerhez való csatlakozás nem mentesíti az adatfelelőst az elektronikus közzététel kötelezettsége alól.
+
+### 24/B.[^120] A Központi Információs Közadat-nyilvántartás
+
+##### 37/C. §
+
+(1)[^121] A közpénzek felhasználásának átláthatósága érdekében
+
+a) az államháztartásról szóló törvény szerinti törzskönyvi jogi személyek – a nemzetbiztonsági szolgálatok kivételével –,
+
+b) a köztulajdonban álló gazdasági társaságok,
+
+c) a közfeladatot ellátó közérdekű vagyonkezelő alapítványok, valamint az általuk létesített vagy fenntartott jogi személyek,
+
+d) az állam által törvény rendelkezése alapján alapított közérdekű vagyonkezelő alapítványok,
+
+e) az a) és b) pontban meghatározott szervek által létrehozott alapítványok, valamint
+
+f) a HUN-REN Magyar Kutatási Hálózat
+
+(a továbbiakban együtt: a felületen közzétételre kötelezettek) – a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 2. § (5) bekezdésében, valamint 7/I. §-ában meghatározott adatok kivételével – a (2) bekezdésben meghatározott adatokat a Kormány rendeletében kijelölt szerv által üzemeltetett és a 33. § (1) bekezdésében foglalt követelményeknek megfelelően bárki számára hozzáférhető – a gépi olvashatóságot, a csoportos letöltést, az adatok csoportosítását, kereshetőségét, kivonatolását és összehasonlíthatóságát is lehetővé tevő – Központi Információs Közadat-nyilvántartás felületén (a továbbiakban: felület) legkésőbb minden páros számú hónap 28. napjáig, kéthavi rendszerességgel, a közzétételt követő legalább tíz évig elérhető módon, a (3) bekezdés szerinti bontásban közzéteszik. A közzétételre kötelezettek a kéthavi rendszerességgel megtett adatszolgáltatások alkalmával a soron következő adatszolgáltatás határnapját megelőző 30. napig keletkezett adatokat teszik közzé.
+
+(2) A felületen közzétételre kötelezettek a felületen az ötmillió forintot meghaladó, az általuk hazai vagy európai uniós forrásból megvalósulóan
+
+a)[^122] nyújtott, az államháztartásról szóló törvény szerinti költségvetési támogatások, azzal, hogy e § alkalmazásában ide kell érteni az államháztartás önkormányzati alrendszeréből nyújtott költségvetési támogatásokat is – kivéve, ha a közzététel előtt a költségvetési támogatást visszavonják vagy arról a kedvezményezett lemond –,
+
+b) árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések – kivéve a védelmi és biztonsági célú beszerzések adatai és a minősített adatok, továbbá a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 9. § (1) bekezdés b) pontja szerinti beszerzések és az azok eredményeként kötött szerződések –,
+
+c) nem alapfeladataik ellátására – így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre – fordított kifizetések
+
+adatait teszik közzé.
+
+(3)[^123] A (2) bekezdés szerinti adatokat a felületen közzétételre kötelezettek – a felhasznált hazai és európai uniós forrás arányának feltüntetése mellett – az alábbi bontásban teszik közzé:
+
+a) a (2) bekezdés a) és c) pontja szerinti esetben
+
+aa) a szerződés megnevezése (típusa), kelte (az aláírás dátuma), annak megjelölése, hogy a kedvezményezett természetes vagy jogi személynek minősül-e, a kedvezményezett neve – nem természetes személy esetén az e személy megnevezése, székhelye –, adószáma, a támogatás tárgya, és a támogatási program megvalósítási helye, kezdő és záró, illetve – amennyiben megtörtént – a kifizetés időpontja, a támogatás összege és pénzneme, valamint
+
+ab) a 2. mellékletben meghatározott, az Európai Unió kötelező jogi aktusa hatálya alá tartozó állami támogatás esetén – az aa) alponton túlmenően – a kedvezményezett besorolása, a támogatás felhasználásával érintett tevékenység szakágazati besorolása (ha nem azonosítható ilyen tevékenység, a kedvezményezett főtevékenységének szakágazati besorolása), a támogatás formájának megjelölése, odaítélésének napja, az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti támogatási kategória megjelölése, a támogatás európai bizottsági hivatkozási száma,
+
+b) a (2) bekezdés b) pontja szerinti esetben
+
+ba) a szerződés megnevezése (típusa), kelte (az aláírás dátuma), tárgya, a szerződést kötő fél vagy felek neve – nem természetes személy esetén az e személy megnevezése, székhelye –, adószáma, a szerződés tárgya és értéke – ideértve az elérendő célt, a szerződés keretében teljesítendő feladatot is –, a szerződés teljesítésének helye, kezdő időpontja, határozott időtartam esetében annak záró időpontja, valamint
+
+bb) közbeszerzés vagy beszerzési eljárás esetén – a ba) alponton túlmenően – a közbeszerzési dokumentumok – beszerzési eljárás esetén az ajánlatkérő által előzetesen közzétett dokumentumok – felsorolása, a becsült érték, a közbeszerzési eljárás fajtája, időpontja, a beérkezett ajánlat (ajánlatok) száma, az ajánlattevő (ajánlattevők) neve és adószáma, a Kbt. szerinti elektronikus közbeszerzési rendszerben rögzített egyedi azonosítók [az elektronikus közbeszerzési rendszer (EKR) szerinti szerződésazonosító, továbbá az eljárás EKR azonosítója, az eljárásra mutató hivatkozással együtt], a nevesített alvállalkozó (alvállalkozók) és a teljesítésben közvetlenül közreműködő más beszállító (beszállítók) vagy kapacitásszolgáltató (kapacitásszolgáltatók) neve és adószáma, az alvállalkozók teljesítésének tervezett és megvalósult aránya, illetve – amennyiben annak díja meghatározott – annak összege (összegei), valamint annak megjelölése, ha a közbeszerzés vagy beszerzés – beleértve a Kbt. szerinti nemzeti értékhatárt meg nem haladó értékű beszerzéseket is – részben vagy egészben európai uniós forrás felhasználásával valósul meg.
+
+(4) A (2) bekezdés b) pontja tekintetében a szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani.
+
+(5) A felület üzemeltetésére, működtetésére, valamint a felületen történő közzétételre vonatkozó részletes szabályokat a Kormány rendeletben határozza meg.
+
+## V. Fejezet — A NEMZETI ADATVÉDELMI ÉS INFORMÁCIÓSZABADSÁG HATÓSÁG
+
+### 25. A Hatóság jogállása
+
+##### 38. §
+
+(1) A Hatóság autonóm államigazgatási szerv.
+
+(2)[^124] A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése.
+
+(2a)[^125] Az általános adatvédelmi rendeletben a felügyeleti hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az általános adatvédelmi rendeletben és e törvényben meghatározottak szerint a Hatóság gyakorolja.
+
+(2b)[^126] A Hatóságnak a (2) bekezdésben a személyes adatok tekintetében meghatározott feladatköre a bírósági döntés meghozatalára irányuló peres és nemperes eljárásokban, az azokra vonatkozó előírások alapján a bíróság által végzett adatkezelési műveletek vonatkozásában nem terjed ki a (3) bekezdésben meghatározott hatáskörök gyakorlására.
+
+(2c)[^127] Az adatkormányzási rendelet szerinti, az adatközvetítő szolgáltatásokért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért felelős illetékes hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az adatkormányzási rendeletben és e törvényben meghatározottak szerint a Hatóság gyakorolja.
+
+(3)[^128] A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen
+
+a)[^129] bejelentés alapján és hivatalból vizsgálatot folytat;
+
+b)[^130] az érintett kérelmére és hivatalból adatvédelmi hatósági eljárást folytat;
+
+c)[^131] hivatalból titokfelügyeleti hatósági eljárást folytat;
+
+d) a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértéssel összefüggésben bírósághoz fordulhat;
+
+e) a más által indított perbe beavatkozhat;
+
+f)[^132] bejelentés alapján és hivatalból átláthatósági hatósági eljárást folytat;
+
+g)[^133] kérelemre adatkezelési engedélyezési eljárást folytat;
+
+h)[^134] ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
+
+i)[^135] ellátja az adatkormányzási rendeletben meghatározott, az adatközvetítő szolgáltatók nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság feladatait.
+
+(4)[^136] A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
+
+a) javaslatot tehet a személyes adatok kezelését, valamint a közérdekű adatok és a közérdekből nyilvános adatok megismerését érintő jogszabályok megalkotására, illetve módosítására, véleményezi a feladatkörét érintő jogszabályok tervezetét;
+
+b)[^137] tevékenységéről minden évben március 31-éig beszámolót hoz nyilvánosságra és a beszámolót tájékoztatásul megküldi az Országgyűlésnek;
+
+c) általános jelleggel vagy meghatározott adatkezelő részére ajánlást bocsát ki;
+
+d) véleményezi a közfeladatot ellátó szerv tevékenységével kapcsolatosan az e törvény szerint közzéteendő adatokra vonatkozó különös, illetve egyedi közzétételi listákat;
+
+e) törvényben meghatározott szervekkel vagy személyekkel együttműködve képviseli Magyarországot az Európai Unió közös adatvédelmi felügyelő testületeiben;
+
+f)[^138] megszervezi az adatvédelmi tisztviselők konferenciáját;
+
+g)[^139]
+
+h)[^140]
+
+(5) A Hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény állapíthat meg.
+
+### 26. A Hatóság költségvetése és gazdálkodása
+
+##### 39. §
+
+(1) A Hatóság fejezeti jogosítványokkal felruházott központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez.
+
+(2) A Hatóság tárgyévi költségvetésének kiadási és bevételi főösszegei – az államháztartásról szóló törvényben meghatározott, az élet- és vagyonbiztonságot veszélyeztető elemi csapás, illetve annak következményei elhárítása érdekében meghozott átmeneti intézkedés, valamint a Hatóság saját vagy irányító szervi hatáskörében meghozott intézkedése kivételével – kizárólag az Országgyűlés által csökkenthetők.
+
+(3) A Hatóság által kiszabott bírság a központi költségvetés bevétele.
+
+(4) Az előző évi bevételeiből származó maradványt a Hatóság a következő években a feladatai teljesítésére felhasználhatja.
+
+### 27. A Hatóság elnöke
+
+##### 40. §
+
+(1)[^141] A Hatóságot elnök vezeti. A Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki, azok közül a jogász végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül, akik az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében legalább tíz év szakmai tapasztalattal rendelkeznek, vagy e területek valamelyikén tudományos fokozatot szereztek.
+
+(2)[^142] A Hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
+
+(3)[^143] A köztársasági elnök a Hatóság elnökét kilenc évre nevezi ki. A Hatóság elnöke a megbízatásának megszűnését követően a Hatóság elnökének egy alkalommal újra kinevezhető.
+
+(4) A Hatóság elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti tartalommal esküt tesz.
+
+##### 41. §
+
+(1) A Hatóság elnöke nem lehet tagja pártnak, nem folytathat politikai tevékenységet, megbízatása összeegyeztethetetlen minden más állami vagy önkormányzati tisztséggel és megbízatással.
+
+(2)[^144] A Hatóság elnöke más keresőfoglalkozást nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, lektori, szerkesztői és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
+
+(3) A Hatóság elnöke nem lehet gazdasági társaság vezető tisztségviselője, felügyelőbizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett tagja.
+
+##### 42. §
+
+(1)[^145] A Hatóság elnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+
+(2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Hatóság elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
+
+(3)[^146] A Hatóság elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a Hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+
+(3a)[^147]
+
+(4) A Hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
+
+(4a)[^148] A (4) bekezdés szerinti eljárást a miniszterelnök köteles lefolytatni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény rendelkezései szerint az Integritás Hatóság jelentésében azt állapítja meg, hogy a Hatóság elnöke a vagyonnyilatkozat-tételi kötelezettségét elmulasztotta, illetve hogy vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt.
+
+(5)[^149] A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok – a (4a) bekezdés alkalmazása esetén az Integritás Hatóság jelentését is ideértve – megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök, illetve – a (4a) bekezdés alkalmazása esetén – az Integritás Hatóság tekinthet be.
+
+(6) A Hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+
+##### 43. §
+
+(1)[^150] A Hatóság elnöke az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti képviselői tiszteletdíj 2,5-szeresének megfelelő illetményre jogosult.
+
+(1a)[^151] A Hatóság elnöke az (1) bekezdésben meghatározott illetményen túl miniszteri juttatásra jogosult.
+
+(2) A Hatóság elnökét naptári évenként negyven munkanap szabadság illeti meg.
+
+##### 44. §
+
+(1) A Hatóság elnöke a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(2) Az elnök megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+##### 45. §
+
+(1) A Hatóság elnökének megbízatása megszűnik
+
+a) a megbízatási idejének lejártával;
+
+b) lemondásával;
+
+c) halálával;
+
+d)[^152] a kinevezéséhez szükséges feltételek hiányának vagy a vagyonnyilatkozat-tételi előírások megsértésének megállapításával;
+
+e) összeférhetetlensége megállapításával;
+
+f)[^153]
+
+g)[^154]
+
+(2) A Hatóság elnöke a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A Hatóság elnökének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3)[^155] Ha a Hatóság elnöke a 41. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a köztársasági elnök a miniszterelnök indítványára dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4)[^156]
+
+(5)[^157]
+
+(6)[^158] A Hatóság elnökének kinevezéséhez szükséges feltételek hiányát a miniszterelnök indítványára a köztársasági elnök állapítja meg. A köztársasági elnök – a miniszterelnök indítványára – megállapítja a vagyonnyilatkozat-tételi szabályok megsértését, ha a Hatóság elnöke vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(6a)[^159] A miniszterelnök a (3) és (6) bekezdés alapján megtett indítványát a köztársasági elnök és a Hatóság elnöke részére egyidejűleg megküldi.
+
+(6b)[^160] A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt közigazgatási pert indíthat. A keresetindítási határidő elmulasztása esetén igazolásnak nincs helye. A bíróság a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a miniszterelnök ellen kell megindítani, és a perre a munkavégzés helye szerinti bíróság kizárólagosan illetékes. A bíróság a keresetlevelet, valamint az ügy érdemében hozott jogerős határozatát a köztársasági elnökkel is közli.
+
+(6c)[^161] Ha a Hatóság elnökének a (6b) bekezdés alapján benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke megbízatásának megszűnését nem állapítja meg.
+
+(6d)[^162] A köztársasági elnök a miniszterelnök által a (3) és (6) bekezdés alapján megtett indítványról
+
+a) ha a Hatóság elnöke nem indít közigazgatási pert, a keresetindításra nyitva álló határidő lejártát követő tizenöt napon belül,
+
+b) ha a Hatóság elnöke közigazgatási pert indít, az ügy érdemében hozott jogerős határozat kézhezvételét követő tizenöt napon belül
+
+dönt.
+
+(7)[^163] A megbízatás az (1) bekezdés a) és b) pontja szerinti megszűnése esetén a Hatóság elnökét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+(8)[^164] A köztársasági elnöknek a (3) és a (6) bekezdéssel és a 40. §-sal a hatáskörébe utalt döntéséhez ellenjegyzés nem szükséges.
+
+##### 45/A. §[^165]
+
+A Hatóság elnöke részt vehet és felszólalhat az Országgyűlés bizottságainak ülésén.
+
+### 28. A Hatóság elnökének helyettese
+
+##### 46. §
+
+(1)[^166] A Hatóság elnökének munkáját az általa határozatlan időre kinevezett kettő helyettes segíti. A Hatóság elnökhelyettese felett az elnök gyakorolja a munkáltatói jogokat.
+
+(2)[^167] Az elnökhelyettesnek meg kell felelnie a Hatóság elnökének kinevezéséhez szükséges, a 40. § (1) és (2) bekezdésében előírt feltételeknek, azzal, hogy az adatvédelmet vagy az információszabadságot érintő eljárások ellenőrzésében öt év szakmai tapasztalattal kell rendelkeznie.
+
+(3) Az elnökhelyettes összeférhetetlenségére a 41. §-ban foglaltakat megfelelően alkalmazni kell.
+
+(4)[^168] Az elnökhelyettesek az elnök akadályoztatása esetén, illetve ha az elnöki tisztség nincs betöltve, – az elnök által meghatározott módon – gyakorolják az elnök hatásköreit és ellátják feladatait.
+
+##### 47. §
+
+Az elnökhelyettes vagyonnyilatkozat-tételi kötelezettségére és a vagyonnyilatkozatával kapcsolatos eljárásra a 42. § rendelkezései megfelelően irányadóak, azzal, hogy a vagyonnyilatkozatával kapcsolatos eljárás során a miniszterelnök helyett a Hatóság elnöke jár el, és az ellenőrzés eredményéről nem kell tájékoztatni a köztársasági elnököt.
+
+##### 48. §
+
+(1)[^169] Az elnökhelyettes a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti, a helyettes államtitkárra vonatkozó illetményre jogosult, amelynek összegét a Hatóság elnöke állapítja meg.
+
+(1a)[^170] Az elnökhelyettes az (1) bekezdésben meghatározott illetményen túl helyettes államtitkári juttatásra jogosult.
+
+(2) Az elnökhelyettest naptári évenként negyven munkanap szabadság illeti meg.
+
+(3) Az elnökhelyettes a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak minősül.
+
+(4) Az elnökhelyettes megbízatásának időtartama közigazgatási szervnél közszolgálati jogviszonyban töltött időnek számít.
+
+##### 49. §
+
+(1) A Hatóság elnökhelyettesének megbízatása megszűnik
+
+a) lemondásával;
+
+b) halálával;
+
+c) a kinevezéséhez szükséges feltételek hiányának megállapításával;
+
+d) összeférhetetlensége megállapításával;
+
+e) felmentésével;
+
+f) a tisztségétől való megfosztással.
+
+(2) A Hatóság elnökhelyettese a Hatóság elnökéhez intézett írásbeli nyilatkozatával bármikor lemondhat megbízatásáról. A Hatóság elnökhelyettesének megbízatása a lemondás közlését követő, a lemondásban megjelölt napon, ennek hiányában a lemondás közlésének napján szűnik meg. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+(3) Ha a Hatóság elnökhelyettese a 41. § szerinti összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a Hatóság elnöke dönt az összeférhetetlenség megállapításának kérdésében.
+
+(4) A Hatóság elnöke felmenti a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki fel nem róható okból kilencven napon túlmenően nem képes eleget tenni megbízatásából eredő feladatainak.
+
+(5)[^171] A Hatóság elnöke a Hatóság elnökhelyettesét felmentheti, ezzel egyidejűleg a Hatóság elnökhelyettesének a Hatóságnál köztisztviselői álláshelyet és – az 51. § (1) bekezdésében meghatározott feltételek fennállásának hiányában is – vizsgálói megbízatást kell felajánlani.
+
+(6) A Hatóság elnöke megfosztja tisztségétől a Hatóság elnökhelyettesét, ha a Hatóság elnökhelyettese neki felróható okból kilencven napon túlmenően nem tesz eleget megbízatásából eredő feladatainak, vagy vagyonnyilatkozatában szándékosan lényeges adatot, tényt valótlanul közöl.
+
+(7) A Hatóság elnökhelyettesének kinevezéséhez szükséges feltételek hiányát a Hatóság elnöke állapítja meg.
+
+(8) A megbízatás az (1) bekezdés a) és e) pontja szerinti megszűnése esetén a Hatóság elnökhelyettesét a megszűnéskori havi illetménye háromszorosának megfelelő összegű külön illetmény illeti meg.
+
+### 29. A Hatóság személyi állománya
+
+##### 50. §
+
+A Hatóság köztisztviselői és munkavállalói felett a munkáltatói jogokat a Hatóság elnöke gyakorolja.
+
+##### 51. §[^172]
+
+(1) A Hatóság elnöke a Hatóság alaplétszámának legfeljebb húsz százalékáig vizsgálót nevezhet ki a Hatóság azon felsőfokú végzettségű köztisztviselői és munkavállalói közül, akik közszolgálati jogviszonya vagy munkaviszonya a Hatóságnál legalább öt éve fennáll.
+
+(2) A vizsgálói megbízatás határozatlan időre szól, amely a Hatóság elnöke által bármikor – indokolás nélkül – visszavonható.
+
+(3) A vizsgáló illetményének és pótszabadságának mértékét, továbbá egyéb járandóságait az önálló szervezeti egység vezetőjére vonatkozó előírások alapján kell megállapítani.
+
+## VI. Fejezet — A HATÓSÁG ELJÁRÁSAI
+
+### 30. A Hatóság vizsgálata
+
+##### 51/A. §[^173]
+
+(1) Ha hatósági eljárás megindítása e törvény szerint nem kötelező, a Hatóság hivatalból vizsgálatot indíthat.
+
+(2) A Hatóságnál az érintett bejelentéssel vizsgálatot kezdeményezhet a 22. § a) pontjában meghatározott esetben. A bejelentésben az érintett feltünteti az annak alátámasztására szolgáló adatokat, hogy a 14. §-ban meghatározott jogainak az adatkezelőnél történő érvényesítését megkísérelte.
+
+##### 52. §
+
+(1) A Hatóságnál bejelentéssel bárki vizsgálatot kezdeményezhet arra hivatkozással, hogy személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll.
+
+(1a)[^174] A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
+
+(1b)[^175] A Hatóság vizsgálata a 24/B. alcím szerinti közzétételi kötelezettség teljesítése ellenőrzésével összefüggésben nem indítható, az erre irányuló bejelentést a 63/A. § (2) bekezdése szerinti átláthatósági hatósági eljárás kezdeményezésére irányuló bejelentésnek kell tekinteni.
+
+(2)[^176] A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak.
+
+(3) A Hatósághoz tett bejelentése miatt senkit sem érhet hátrány. A bejelentő kilétét a Hatóság csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a bejelentő kéri, kilétét a Hatóság akkor sem fedheti fel, ha ennek hiányában a vizsgálat nem folytatható le. Erről a következményről a Hatóság a bejelentőt köteles tájékoztatni.
+
+(4) A Hatóság vizsgálata ingyenes, a vizsgálat költségeit a Hatóság előlegezi és viseli.
+
+##### 53. §
+
+(1) A Hatóság – a (2) és (3) bekezdésben foglalt kivételekkel – a bejelentést köteles érdemben megvizsgálni.
+
+(2) A Hatóság a bejelentést érdemi vizsgálat nélkül elutasíthatja, ha
+
+a) a bejelentésben megjelölt jogsérelem csekély jelentőségű, vagy
+
+b) a bejelentés névtelen.
+
+(3) A Hatóság a bejelentést érdemi vizsgálat nélkül elutasítja, ha
+
+a) az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született,
+
+b) az 52. § (3) bekezdése szerinti tájékoztatás ellenére a bejelentő továbbra is kéri, hogy a kilétét ne fedjék fel,
+
+c) a bejelentés nyilvánvalóan alaptalan,
+
+d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
+
+e)[^177] a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be,
+
+f)[^178] a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg,
+
+g)[^179] a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat, vagy
+
+h)[^180] a bejelentés tárgya nem tartozik a hatáskörébe és a rendelkezésre álló adatok alapján a bejelentés tárgya tekintetében hatáskörrel rendelkező szerv kiléte nem állapítható meg.
+
+(4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
+
+(5) A Hatóság a vizsgálatot megszünteti, ha
+
+a) a (3)–(4) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban a vizsgálat megindítását követően jutott a hatóság tudomására,
+
+b) a vizsgálat folytatására okot adó körülmény már nem áll fenn.
+
+(5a)[^181] A Hatóság – a 33/A. alcím szerinti átláthatósági hatósági eljárás hivatalbóli megindításával egyidejűleg – a vizsgálatot megszünteti vagy a vizsgálatot az e részében megszünteti, ha a vizsgálat során jut arra a megállapításra, hogy a közzétételre kötelezett a 24/B. alcím szerinti közzétételi kötelezettségének feltehetően nem tesz eleget. A megszüntetésről a bejelentőt a 63/A. § (2) bekezdése szerint megfelelően értesíteni kell.
+
+(6) A Hatóság a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről és az elutasítás, illetve a megszüntetés indokairól értesíti a bejelentőt.
+
+(7) A Hatóság a hatáskörébe nem tartozó ügyre vonatkozó bejelentést – a bejelentő egyidejű értesítése mellett – a bejelentésben foglaltak tekintetében eljárásra hatáskörrel rendelkező szervhez átteszi, ha a rendelkezésre álló adatok alapján a hatáskörrel rendelkező szerv kiléte megállapítható. Ha a Hatóság hatáskörébe nem tartozó ügyre vonatkozó bejelentés alapján a Hatóság azt állapítja meg, hogy az ügyben bírósági eljárás kezdeményezésének van helye, erről a bejelentőt értesíti.
+
+(8)[^182] Ha a vizsgálatban részt vett, a Hatóság az áttételről a vizsgált adatkezelőt, illetve adatfeldolgozót is értesíti.
+
+##### 54. §
+
+(1) A Hatóság a vizsgálat során
+
+a)[^183] a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes adatot megismerheti, arról másolatot készíthet, és az összes ilyen iratba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
+
+b)[^184] a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet, az adatkezelési műveletek végzéséhez használt eszközökhöz hozzáférhet,
+
+c) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
+
+d)[^185] a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet, és
+
+e) az adatkezelő hatóság felügyeleti szervének vezetőjét vizsgálat lefolytatására kérheti fel.
+
+(2) A Hatóság (1) bekezdés szerinti kérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő az (1) bekezdés d) és e) pontja szerinti esetben tizenöt napnál rövidebb nem lehet.
+
+(3) Az (1) bekezdés c) és d) pontja szerinti felvilágosítást az arra felhívott személy megtagadhatja, ha
+
+a)[^186] az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a Polgári Törvénykönyv szerinti hozzátartozója vagy volt házastársa;
+
+b)[^187] a felvilágosítás során magát vagy a Polgári Törvénykönyv szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
+
+##### 55. §
+
+(1)[^188] A Hatóság a vizsgálat hivatalból történő megindításától vagy a bejelentés érkezését követő naptól számított két hónapon belül
+
+a) megállapítja, hogy az általános adatvédelmi rendeletben és az e törvényben meghatározott jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye áll fenn, és
+
+aa) az 56. §-ban, illetve az 57. §-ban meghatározott intézkedést tesz,
+
+ab) a vizsgálatot lezárja, és a 60. § szerinti adatvédelmi hatósági eljárást indít, vagy
+
+ac) a vizsgálatot lezárja, és a 62. § szerinti titokfelügyeleti hatósági eljárást indít;
+
+b) megállapítja, hogy jogsérelem nem következett be, illetve annak közvetlen veszélye nem áll fenn, és a vizsgálatot lezárja.
+
+(1a)[^189] Az (1) bekezdésben meghatározott határidőbe nem számít bele:
+
+a) a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő,
+
+b) a vizsgálattal összefüggő irat fordításához szükséges idő, valamint
+
+c) a Hatóság működését legalább egy teljes napra akadályozó körülmény, ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény időtartama.
+
+(2)[^190] A vizsgálat eredményéről, a vizsgálat lezárásának indokáról, esetleges intézkedéséről, illetve hatósági eljárás megindításáról a Hatóság a bejelentőt és – ha a vizsgálatban részt vett – a vizsgálat alá vont adatkezelőt, illetve adatfeldolgozót értesíti.
+
+(3)[^191] Ha a Hatóság az 51/A. § (2) bekezdése szerint tett bejelentés alapján lefolytatott vizsgálatát az (1) bekezdés b) pontja alapján lezárja, a (2) bekezdésben meghatározott értesítéssel egyidejűleg a bejelentőt tájékoztatja az őt megillető bírósági jogorvoslathoz való jog gyakorlásának lehetőségéről is.
+
+##### 56. §
+
+(1)[^192] Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását állapítja meg, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
+
+(2) Az adatkezelő – egyetértése esetén – haladéktalanul megteszi az (1) bekezdés szerinti felszólításban megjelölt szükséges intézkedéseket, és a megtett intézkedéseiről, illetve – egyet nem értése esetén – álláspontjáról a felszólítás kézhezvételétől számított harminc napon belül írásban tájékoztatja a Hatóságot.
+
+(3) A felügyeleti szervvel rendelkező adatkezelő hatóság esetében a Hatóság – ha az (1) bekezdés szerinti felszólítás nem vezetett eredményre – az adatkezelő szerv egyidejű tájékoztatása mellett ajánlást tehet az adatkezelő felügyeleti szervének. A Hatóság az adatkezelő felügyeleti szervének az (1) bekezdés szerinti felszólítás hiányában is közvetlenül ajánlást tehet, ha a jogsérelem orvoslása, illetve a jogsérelem közvetlen veszélyének megszüntetése álláspontja szerint ilyen módon hatékonyabban megtörténhet.
+
+(4) A felügyeleti szerv az ajánlás tekintetében kialakított érdemi álláspontjáról, illetve a megtett intézkedésről az ajánlás kézhezvételétől számított harminc napon belül írásban tájékoztatja a Hatóságot.
+
+##### 57. §
+
+Ha a Hatóság a vizsgálata alapján azt állapítja meg, hogy a jogsérelem, illetve annak közvetlen veszélye valamely jogszabály vagy közjogi szervezetszabályozó eszköz fölösleges, nem egyértelmű vagy nem megfelelő rendelkezésére, illetve az adatkezeléssel összefüggő kérdések jogi szabályozásának hiányára vagy hiányosságára vezethető vissza, a jogsérelem, illetve annak közvetlen veszélye jövőbeni elkerülésének érdekében ajánlást tehet a jogszabályalkotásra, illetve a közjogi szervezetszabályozó eszköz kiadására jogosult szervnek, illetve a jogszabály előkészítőjének. Az ajánlásban a Hatóság javasolhatja a jogszabály, illetve a közjogi szervezetszabályozó eszköz módosítását, hatályon kívül helyezését vagy megalkotását. A megkeresett szerv az álláspontjáról, illetve az ajánlásban foglaltak szerint megtett intézkedéséről hatvan napon belül értesíti a Hatóságot.
+
+##### 58. §
+
+(1) Ha az 56. § szerinti felszólítás vagy ajánlás alapján a jogsérelem orvoslására, illetve a jogsérelem közvetlen veszélyének megszüntetésére nem került sor, a Hatóság az 56. § (2) bekezdése szerinti, illetve – ha ajánlás tételére került sor – az 56. § (4) bekezdése szerinti tájékoztatási határidő lejártát követő harminc napon belül dönt a szükséges további intézkedések megtételéről.
+
+(2) Az (1) bekezdés szerinti esetben szükséges további intézkedésként a Hatóság
+
+a)[^193] a 60. §-ban foglaltak szerint adatvédelmi hatósági eljárást indít, illetve indíthat,
+
+b)[^194] a 62. §-ban foglaltak szerint titokfelügyeleti hatósági eljárást indít, illetve indíthat,
+
+c) a 64. §-ban foglaltak szerint bírósági eljárást indíthat, vagy
+
+d) az 59. §-ban foglaltak szerint jelentést készíthet.
+
+(3) Az 56. § és az 57. § szerinti intézkedések eredményéről, illetve a (2) bekezdés szerinti további intézkedések megtételéről a Hatóság a bejelentőt értesíti.
+
+### 31. A Hatóság jelentése
+
+##### 59. §
+
+(1) A Hatóság a bejelentés alapján lefolytatott vizsgálatról jelentést készíthet, ha az ügyben a Hatóság által hatósági eljárás vagy bírósági eljárás megindítására nem került sor.
+
+(2) A jelentés tartalmazza a vizsgálat során feltárt tényeket, az ezeken alapuló megállapításokat és következtetéseket.
+
+(3) A Hatóság jelentése nyilvános. A minősített adatot tartalmazó jelentést a Hatóság elnöke minősíti, vagy a minősítési jelölést megismétli. A minősített adatot vagy törvény által védett titkot tartalmazó jelentést úgy kell nyilvánosságra hozni, hogy a minősített adat vagy a törvény által védett egyéb titok ne legyen megismerhető.
+
+(4)[^195] A Hatóságnak a titkos információgyűjtés folytatására vagy a leplezett eszközök alkalmazására feljogosított szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből az adott ügyben folytatott titkos információgyűjtésre vagy a leplezett eszközök alkalmazására lehetne következtetni.
+
+(5) A Hatóság jelentése bíróság vagy más hatóság előtt nem támadható meg.
+
+### 32. [^196] Adatvédelmi hatósági eljárás
+
+##### 60. §
+
+(1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság az érintett erre irányuló kérelmére adatvédelmi hatósági eljárást indít és hivatalból adatvédelmi hatósági eljárást indíthat.
+
+(2) Az adatvédelmi hatósági eljárás megindítása iránti kérelem az általános adatvédelmi rendelet 77. cikk (1) bekezdésében, valamint a 22. § b) pontjában meghatározott esetben nyújtható be.
+
+(3) A Hatóság hivatalból adatvédelmi hatósági eljárást indít, ha
+
+a) vizsgálata alapján megállapítja, hogy a személyes adatok kezelésével kapcsolatban jogsérelem következett be vagy annak közvetlen veszélye áll fenn, és az 56. § szerinti felszólítás vagy ajánlás alapján a jogsérelem orvoslására, illetve a jogsérelem közvetlen veszélyének megszüntetésére a Hatóság által meghatározott határidőben nem került sor,
+
+b) vizsgálata alapján megállapítja, hogy a személyes adatok kezelésével kapcsolatban jogsérelem következett be vagy annak közvetlen veszélye áll fenn és az általános adatvédelmi rendelet rendelkezései alapján bírság kiszabásának van helye.
+
+(4) Ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt az adatvédelmi hatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
+
+(5) A (2) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+a) a feltételezett jogsértés megjelölését,
+
+b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+
+c) a feltételezett jogsértést megvalósító adatkezelő, illetve adatfeldolgozó azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+
+d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+
+e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(6) Az adatvédelmi hatósági eljárásban a kérelmezőt költségmentesség illeti meg, a Hatóság előlegezi az olyan eljárási költséget, amelynek előlegezése a kérelmezőt terhelné.
+
+##### 60/A. §
+
+(1)[^197] Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
+
+a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás és
+
+b) 63–66. cikkében meghatározott egységességi mechanizmus
+
+alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(2a)[^198] Az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott hatósági eljárást, ha
+
+a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+
+b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(2b)[^199] A Hatóság az eljárás felfüggesztéséről szóló végzését a (2a) bekezdésében meghatározott más szervvel, illetve személlyel is közli azzal, hogy az eljárás befejezéséről tájékoztassa.
+
+(2c)[^200] Az eljárás felfüggesztésekor minden határidő megszakad és az eljárás felfüggesztésének megszüntetésekor – az ügyintézési határidő kivételével – újrakezdődik.
+
+(3) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(4) Ha kétséget kizáróan megállapítható, hogy az ügyben mely más EGT-állam felügyeleti hatósága rendelkezik joghatósággal, a Hatóság a kérelmet megküldi a joghatósággal rendelkező felügyeleti hatóságnak. Ebben az esetben a kérelmet visszautasító vagy az eljárást megszüntető végzés tartalmazza e felügyeleti hatóság megnevezését is.
+
+(5) A (4) bekezdésben meghatározottak szerint a kérelemnek a joghatósággal rendelkező felügyeleti hatóság részére történő megküldését követően – az érintett kérésére – a Hatóság tájékoztatást nyújt az érintett részére a joghatósággal rendelkező felügyeleti hatóság előtt történő jogérvényesítés módjáról.
+
+(6) Ha a Hatóság az adatvédelmi hatósági eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
+
+##### 61. §
+
+(1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
+
+a)[^201] a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja, így különösen kérelemre vagy hivatalból elrendelheti a jogellenesen kezelt személyes adatok általa meghatározott módon végrehajtandó törlését, illetve átmenetileg vagy véglegesen egyéb módon korlátozhatja az adatkezelést,
+
+b) a 2. § (3) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben
+
+ba) megállapíthatja a személyes adatok jogellenes kezelésének tényét,
+
+bb) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
+
+bc) elrendelheti a jogellenesen kezelt személyes adatok zárolását, törlését vagy megsemmisítését,
+
+bd) megtilthatja a személyes adatok jogellenes kezelését,
+
+be) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
+
+bf)[^202] elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen mellőzte vagy tagadta meg, valamint
+
+bg) bírságot szabhat ki,
+
+c) az általános adatvédelmi rendelet 41. cikk (1) bekezdésében meghatározott ellenőrzési tevékenységet végző szervezettel szemben az általános adatvédelmi rendelet 41. cikk (5) bekezdésében meghatározott jogkövetkezményeket alkalmazhatja.
+
+(2) A Hatóság elrendelheti határozatának – az adatkezelő, illetve az adatfeldolgozó azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha
+
+a) a határozat személyek széles körét érinti,
+
+b) azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, vagy
+
+c) a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+
+(3)[^203] A Hatóság eljárásában figyelmeztetés alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
+
+(4) A bírság mértéke százezertől húszmillió forintig terjedhet
+
+a) az (1) bekezdés b) pont bg) alpontja, valamint
+
+b) ha az adatvédelmi hatósági eljárásban hozott határozatban kiszabott bírság megfizetésére kötelezett költségvetési szerv, az általános adatvédelmi rendelet 83. cikke
+
+szerint kiszabott bírság esetén.
+
+(5) A Hatóság annak eldöntésében, hogy indokolt-e az (1) bekezdés b) pont bg) alpontja szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát, a magatartás felróhatóságát, valamint azt, hogy a jogsértővel szemben korábban állapítottak-e meg a személyes adatok kezelésével kapcsolatos jogsértést.
+
+(6) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(7)[^204] A Hatóság döntésének végrehajtását a döntésben foglalt, meghatározott cselekmény elvégzésére, meghatározott magatartásra, tűrésre vagy abbahagyásra irányuló kötelezés vonatkozásában a Hatóság foganatosítja. A Hatóság végleges, illetve közigazgatási per esetén a közigazgatási bíróság által jogerősen elbírált döntésében megállapított jogellenes adatkezeléssel érintett adatok – a bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a más hatóság eltérő rendelkezése hiányában – nem törölhetők és nem semmisíthetők meg az ezen adatokat érintő büntetőeljárás vagy más hatósági, illetve bírósági eljárás esetén a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig, továbbá más hatósági, illetve bírósági eljárás esetén ennek kezdő időpontjától a végleges, illetve jogerős befejezéséig.
+
+(8) A Hatóság döntésében megállapított fizetési kötelezettség mérséklésének (a továbbiakban: mérséklés) a kötelezett kérelmére nincs helye. A kötelezett kérheti a fizetési kötelezettség, valamint a (7) bekezdésben meghatározott kötelezettség teljesítésére halasztás vagy részletekben történő teljesítés (a továbbiakban együtt: teljesítési kedvezmény) engedélyezését. A kérelemben a kötelezett igazolja, hogy rajta kívül álló ok lehetetlenné teszi a határidőben való teljesítést vagy az számára aránytalan nehézséget jelentene.
+
+(9) Ha a (8) bekezdés szerinti kérelmet a kötelezett a Hatóság döntése végrehajtásának elrendelését követően terjeszti elő, a Hatóság teljesítési kedvezményt csak akkor engedélyezhet, ha a kötelezettség határidőben való teljesítését a kötelezetten kívül álló ok tette lehetetlenné.
+
+(10) A Hatóság döntésében megállapított fizetési kötelezettség tekintetében benyújtott mérséklés, továbbá teljesítési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 110. §-ának alkalmazásával jár el.
+
+##### 61/A. §[^205]
+
+(1) A Hatóság ideiglenes intézkedésként a személyes adat jogellenes kezelésének megakadályozása érdekében azon elektronikus hírközlő hálózat útján közzétett adat (e törvény alkalmazásában a továbbiakban: elektronikus adat) ideiglenes eltávolítására, amelynek közzététele miatt a Hatóság adatvédelmi hatósági eljárást vagy hatósági ellenőrzést folytat, az elektronikus adatot kezelő, az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott tárhelyszolgáltatót, illetve tárhelyszolgáltatást is végző közvetítő szolgáltatót (a továbbiakban együtt: eltávolításra kötelezett) is kötelezheti, ha annak hiányában a késedelem a személyes adatok védelméhez fűződő jog elháríthatatlan és súlyos sérelmével járna és a közzétett adat
+
+a) érintettje gyermek, vagy
+
+b) különleges adat vagy bűnügyi személyes adat.
+
+(2) Az elektronikus adat ideiglenes eltávolításáról szóló végzést az eltávolításra kötelezettel haladéktalanul közölni kell. Az eltávolításra kötelezett a Hatóság ideiglenes intézkedéséről szóló végzésének vele történő közlését követő egy munkanapon belül köteles az elektronikus adat ideiglenes eltávolítására.
+
+(3) Az elektronikus adat ideiglenes eltávolítását a Hatóság megszünteti és az elektronikus adat visszaállítását rendeli el, ha az elrendelésének oka megszűnt.
+
+(4) Az elektronikus adat ideiglenes eltávolítása a Hatóság adatvédelmi hatósági eljárásának végleges befejezésével, illetve a hatósági ellenőrzés lezárásával megszűnik.
+
+(5) A Hatóság a (3) és (4) bekezdésben meghatározott esetben az elektronikus adat visszaállítására kötelezi az eltávolításra kötelezettet.
+
+(6) Az elektronikus adat visszaállításáról szóló végzést az eltávolításra kötelezettel haladéktalanul közölni kell. A visszaállításra kötelezett a végzés vele történő közlésétől számított egy munkanapon belül köteles az elektronikus adat visszaállítására.
+
+(7) A (6) bekezdésben meghatározott végzést az elektronikus adat felett rendelkezésre jogosultnak akkor kell kézbesíteni, ha az eljárás addigi adatai alapján személye és elérhetősége ismert.
+
+(8) Az elektronikus adat ideiglenes eltávolítása tárgyában hozott döntés ellen önálló jogorvoslatnak van helye.
+
+(9) A Hatóság százezertől húszmillió forintig terjedő eljárási bírsággal sújthatja azt az eltávolításra kötelezettet, amely az e § szerinti kötelezettségének nem tesz eleget.
+
+##### 61/B. §[^206]
+
+(1) A Hatóság ideiglenes intézkedésként személyes adat jogellenes kezelésének megakadályozása érdekében elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek közzététele miatt a Hatóság adatvédelmi hatósági eljárást vagy hatósági ellenőrzést folytat.
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételére akkor kerülhet sor, ha annak hiányában a késedelem a személyes adatok védelméhez fűződő jog elháríthatatlan és súlyos sérelmével járna, továbbá a Hatóság egyéb intézkedése, ideértve a 61/A. § (1) bekezdésében foglalt ideiglenes eltávolítást is, nem vezetett eredményre és a közzétett adat
+
+a) érintettje gyermek, vagy
+
+b) különleges adat vagy bűnügyi személyes adat.
+
+(3)[^207] Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a Hatóság hirdetményi úton közli. A hirdetményt öt napig kell a Hatóság honlapján közzétenni. A végzés közlésének napja a honlapon történő közzétételét követő harmadik nap.
+
+(4) A Hatóság (1) bekezdés szerinti végzésének kötelezettje – annak a végzésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(6) A Hatóság százezertől húszmillió forintig terjedő eljárási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely az e § szerinti kötelezettségének nem tesz eleget.
+
+##### 61/C. §[^208]
+
+(1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételére vonatkozó kötelezettség megszűnik,
+
+a) ha az adatvédelmi hatósági eljárás megszűnik, az adatvédelmi hatósági eljárást a Hatóság megszünteti vagy a hatósági ellenőrzést a Hatóság lezárja és az ügyben adatvédelmi hatósági eljárást nem indít, a (2) bekezdésben meghatározott értesítés közzétételének napján, vagy
+
+b) ha a Hatóság az adatkezelőt vagy az adatfeldolgozót határozatában az elektronikus adat törlésére kötelezi, a Hatóság határozata véglegessé válásának napján.
+
+(2) Az (1) bekezdés a) és b) pontjában meghatározott időpontot a Hatóság hirdetményi úton teszi közzé.
+
+(3) Az ideiglenes hozzáférhetetlenné tételt a Hatóság végzéssel megszünteti, ha
+
+a) az elrendelés oka megszűnt, vagy
+
+b)[^209] a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
+
+(4) Az e § szerinti végzésre a 61/B. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételéről szóló döntés ellen önálló jogorvoslatnak van helye.
+
+##### 61/D. §[^210]
+
+(1) A Hatóság – a 61. § (7) bekezdése szerinti végrehajtás keretében – az elektronikus adat ideiglenes eltávolítását, illetve ideiglenes hozzáférhetetlenné tételét rendelheti el akkor is, ha
+
+a) az elektronikus adat közzététele a Hatóság véglegessé vált döntésében foglaltak alapján jogellenes,
+
+b) az a) pont szerinti elektronikus adatra vonatkozóan a Hatóság az adat törlését rendelte el, és
+
+c) az elektronikus adat törlésére kötelezett adatkezelő vagy adatfeldolgozó a törlési kötelezettségének a Hatóság ismételt felhívására sem tesz eleget.
+
+(2) Az elektronikus adat (1) bekezdés szerinti ideiglenes eltávolítását, illetve ideiglenes hozzáférhetetlenné tételét a Hatóság az elektronikus adat törlésének időpontjáig rendeli el, amely időpontról a Hatóság
+
+a) értesíti azokat, akikkel az elektronikus adat ideiglenes eltávolítását elrendelő végzését közölte, valamint
+
+b) hirdetményi úton értesíti azokat, akikkel az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzését közölte.
+
+(3) Az elektronikus adat (1) bekezdés szerinti ideiglenes eltávolítására a 61/A. § (2), (8) és (9) bekezdésében, valamint az (1) bekezdés szerinti ideiglenes hozzáférhetetlenné tételére a 61/B. § (3)–(6) bekezdésében és a 61/C. § (5) bekezdésében meghatározottakat megfelelően alkalmazni kell.
+
+(4) Az (1) bekezdés alapján elrendelt elektronikus adat ideiglenes eltávolítására, illetve az elektronikus adat ideiglenes hozzáférhetetlenné tételére a bírósági végrehajtásról szóló törvény szabályait kell megfelelően alkalmazni.
+
+### 33. Titokfelügyeleti hatósági eljárás
+
+##### 62. §
+
+(1)[^211] Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése vagy a minősítési jelölésének megismétlése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
+
+(1a)[^212] Ha a bíróság a 31. § (6a) bekezdésében meghatározottak szerint a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, a Hatóság titokfelügyeleti hatósági eljárást indít.
+
+(1b)[^213] A Hatóság titokfelügyeleti hatósági eljárása a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait nem érinti.
+
+(2)[^214]
+
+(2a)[^215] A titokfelügyeleti hatósági eljárásban és az ezen eljárásban hozott döntés megtámadására indított perben a minősített adatok kezelését a minősített adatok védelméről szóló törvényben és e törvényben meghatározott biztonsági követelményeknek megfelelően kell végezni.
+
+(3)[^216] A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, vagy a titokfelügyeleti hatósági eljárást a bíróság a 31. § (6a) bekezdésében meghatározottak alapján kezdeményezte. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról és befejezéséről értesíteni kell.
+
+(4)[^217] A titokfelügyeleti hatósági eljárásban ügyfél
+
+a) a minősítés jogellenessége vizsgálata esetén a minősítő,
+
+b) a minősítési jelölés megismétlése jogellenessége vizsgálata esetén a minősítési jelölést megismétlő.
+
+(5)[^218] A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
+
+(6)[^219] A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+##### 63. §
+
+(1)[^220] A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság
+
+a)[^221] a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén
+
+aa) a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására vagy a minősítés megszüntetésére hívja fel, vagy
+
+ab) megállapítja, hogy a nemzeti minősített adat minősítése jogszerűen nem jött létre, és felhívja a minősítőt, hogy a megfelelő intézkedésekkel szüntesse meg a jogellenes állapotot,
+
+b)[^222] a nemzeti minősített adat minősítési jelölésének megismétlésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítési jelölést megismétlőt a nemzeti minősített adat minősítési jelölése jogszabályoknak megfelelő megismétlésére vagy a megismételt minősítési jelölés alkalmazásának megszüntetésére hívja fel, vagy
+
+c)[^223] megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére, a minősítési jelölést megismétlő a minősítési jelölés megismétlésére vonatkozó jogszabályoknak megfelelően járt el.
+
+(2)[^224] A minősítő a Hatóság (1) bekezdés a) pontja, a minősítési jelölést megismétlő a Hatóság (1) bekezdés b) pontja szerinti határozatát a közlésétől számított hatvan napon belül támadhatja meg. A keresetlevél benyújtásának a határozat hatályosulására halasztó hatálya van.
+
+(2a)[^225] Ha a minősítő a Hatóság (1) bekezdés a) pontja, a minősítést megismétlő a Hatóság (1) bekezdés b) pontja szerinti határozata közlésétől számított hatvan napon belül nem fordul bírósághoz,
+
+a) az (1) bekezdés a) pont aa) alpontja szerinti határozat esetén a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik,
+
+b) az (1) bekezdés a) pont ab) alpontja szerinti határozat esetén a határozat közlésétől számított hatvanegyedik naptól a nemzeti minősített adat minősítési jelölése a határozatban foglaltak szerint megszűnik, vagy
+
+c) az (1) bekezdés b) pontja szerinti határozat esetén a határozat közlésétől számított hatvanegyedik napon,
+
+ca) ha a határozat a minősítési jelölést megismétlőt a nemzeti minősített adat minősítési jelölése alkalmazásának megszüntetésére hívja fel, a megismételt minősítési jelölés a határozatban foglaltak szerint megszűnik, vagy
+
+cb) ha a határozat a minősítési jelölést megismétlőt a minősítési jelölés jogszabályoknak megfelelő megismétlésére hívja fel, a megismételt minősítés minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+
+(2b)[^226] A minősítő és a minősítési jelölést megismétlő a minősített adat védelméről szóló 2009. évi CLV. törvény 8. § (3) és (3a) bekezdése szerinti értesítési kötelezettségét az (1) bekezdés a) és b) pontja szerinti esetben legkésőbb a határozat közlésétől számított hatvanegyedik napon, illetve – a határozat (2) bekezdés szerinti megtámadása esetén – a határozat jogerőre emelkedését követően haladéktalanul teljesíti.
+
+(2c)[^227] Az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott titokfelügyeleti hatósági eljárást, ha
+
+a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+
+b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(3)[^228] A (2) bekezdésben meghatározott perben a bíróság zárt tárgyalást tart.
+
+(4)[^229]
+
+(5) A bíróság, illetve a Hatóság határozata nem érinti a minősítőnek a nemzeti minősített adat felülvizsgálatára vonatkozó, a minősített adat védelméről szóló törvény szerinti kötelezettségét.
+
+(6)[^230] A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
+
+(7)[^231] A (2) bekezdésben meghatározott per során a bírón, a felperesen és az alperesen kívüli személyek a minősített adatot csak akkor ismerhetik meg, ha az adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal rendelkeznek
+
+### 33/A.[^232] Átláthatósági hatósági eljárás
+
+##### 63/A. §
+
+(1) A 24/B. alcím szerinti közzétételi kötelezettség teljesítése érdekében a Hatóság bejelentés alapján átláthatósági hatósági eljárást indít és hivatalból átláthatósági hatósági eljárást indíthat. Az eljárásra az e törvényben foglaltakkal összhangban alkalmazni kell az általános közigazgatási rendtartásról szóló törvény rendelkezéseit.
+
+(2) Az átláthatósági hatósági eljárás megindítása érdekében bárki bejelentést tehet. Az átláthatósági hatósági eljárást akkor is hivatalból megindított eljárásnak kell tekinteni, ha azt bejelentés előzte meg. A bejelentőt az átláthatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
+
+(3) A Hatóság hivatalból átláthatósági hatósági eljárást indít akkor, ha a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban folytatott vizsgálata során jut arra a megállapításra, hogy a 24/B. alcím szerinti közzétételre kötelezett a közzétételi kötelezettségét feltehetően nem teljesítette.
+
+(4) Ha az átláthatósági hatósági eljárást a (3) bekezdés szerint bejelentésen alapuló vizsgálat előzte meg, a bejelentőt az átláthatósági hatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
+
+(5) A (2) bekezdésben meghatározott esetben a bejelentés tartalmazza
+
+a) a feltételezett jogsértés megjelölését,
+
+b) a feltételezett jogsértést megvalósító magatartás vagy állapot leírását,
+
+c) a feltételezett jogsértést megvalósító – a 24/B. alcím szerinti, felületen közzétételre kötelezett – adatkezelő azonosításához szükséges, a bejelentő rendelkezésére álló adatokat,
+
+d) a feltételezett jogsértéssel kapcsolatos állításokat valószínűsítő tényeket.
+
+##### 63/B. §
+
+(1) Az átláthatósági hatósági eljárásban az ügyintézési határidő negyvenöt nap.
+
+(2) Az átláthatósági hatósági eljárásban hozott határozatában a Hatóság a 24/B. alcím szerinti közzétételi kötelezettségekkel összefüggésben
+
+a) megállapíthatja a közzétételre kötelezett adatkezelő közzétételi kötelezettséggel összefüggő jogsértése tényét – ideértve azt az esetet is, ha a közzétételre a valóságnak nem megfelelő adatokkal vagy hiányosan került sor –,
+
+b) az a) ponttal összefüggésben elrendeli a 24/B. alcím szerinti közzétételi kötelezettség – ideértve valós adatok közzétételét, illetve a közzétett adatokból hiányzó adatok pótlását is – soron kívüli, de legfeljebb 15 napon belüli teljesítését.
+
+(3) Ha a 24/B. alcím szerinti közzétételre kötelezett a megállapított kötelezettségnek (2) bekezdés b) pontja szerinti határidőn belül nem tesz eleget, a Hatóság bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(4) A Hatóság annak eldöntésében, hogy indokolt-e a (3) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a mulasztással érintett adatok számát, a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban állapítottak-e meg a 24/B. alcím szerinti közzétételi kötelezettséggel kapcsolatos jogsértést.
+
+(5) A Hatóság elrendelheti határozatának – a 24/B. alcím szerint közzétételre kötelezett adatkezelő adatainak közzétételével történő – nyilvánosságra hozatalát, ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+
+### 34. A Hatóság által indítható per
+
+##### 64. §
+
+(1) Ha az adatkezelő az 56. § (1) bekezdésében foglalt felszólításnak nem tesz eleget, a közérdekű adatok és a közérdekből nyilvános adatokkal kapcsolatos jogsértés miatt a Hatóság az 56. § (2) bekezdése szerinti tájékoztatásra vonatkozó határidő lejártát követő harminc napon belül keresettel kérheti a bíróságtól az adatkezelőnek a Hatóság felszólítása szerinti magatartásra való kötelezését.
+
+(2)[^233] A bíróság hatáskörének és illetékességének megállapítására a 31. § (5) bekezdését kell alkalmazni.
+
+(3) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani.
+
+(4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége.
+
+(5) A bíróság kérelemre elrendelheti ítéletének – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem, illetve az információszabadság érdekeinek és nagyobb számú érintett e törvényben védett jogainak védelme megköveteli.
+
+### 34/A. [^234] Az adatkezelési engedélyezési eljárás
+
+##### 64/A. §
+
+(1) A Hatóság az általános adatvédelmi rendelet
+
+a) 40. cikkében meghatározott magatartási kódexek tervezetének, kiegészítésének vagy módosításának jóváhagyása,
+
+b) 41. cikkében meghatározott ellenőrzési tevékenység engedélyezése,
+
+c) 42. cikk (5) bekezdésében meghatározott tanúsítási szempontok jóváhagyása,
+
+d) 46. cikk (3) bekezdés a) pontjában meghatározott szerződéses rendelkezések engedélyezése,
+
+e) 46. cikk (3) bekezdés b) pontjában meghatározott rendelkezések engedélyezése,
+
+f) 47. cikkében meghatározott kötelező erejű vállalati szabályok jóváhagyása
+
+iránti kérelmek benyújtása esetén adatkezelési engedélyezési eljárást folytat le.
+
+(2) Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az (1) bekezdés
+
+a) a) pontjában meghatározott kérelem tartalmazza a magatartási kódex, illetve annak kiegészítése vagy módosítása tervezetét,
+
+b) b) pontjában meghatározott kérelem tartalmazza az általános adatvédelmi rendelet 41. cikk (2) bekezdésében, valamint a Hatóság által közzétett engedélyezési követelményekben meghatározott feltételek fennállásának igazolására szolgáló adatokat,
+
+c) c) pontjában meghatározott kérelem tartalmazza a tanúsítási mechanizmus általános leírását és a tanúsítási szempontok tervezetét,
+
+d) d) pontjában meghatározott kérelem tartalmazza a szerződéses rendelkezések tervezetét,
+
+e) e) pontjában meghatározott kérelem tartalmazza a rendelkezések tervezetét,
+
+f) f) pontjában meghatározott kérelem tartalmazza a kötelező erejű vállalati szabályok kötelező jellegének igazolására szolgáló adatokat és a kötelező erejű vállalati szabályok tervezetét.
+
+##### 64/B. §
+
+Az adatkezelési engedélyezési eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+##### 64/C. §
+
+(1) Az adatkezelési engedélyezési eljárásban az ügyintézési határidő
+
+a) a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén száznyolcvan nap,
+
+b) a 64/A. § (1) bekezdés d) és e) pontjában meghatározott kérelmek esetén kilencven nap.
+
+(2) A Hatóság az adatkezelési engedélyezési eljárást az általános adatvédelmi rendelet
+
+a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás és
+
+b) 63–66. cikkében meghatározott egységességi mechanizmus
+
+alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(3) Az adatkezelési engedélyezési eljárásban a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén a Hatóság a jóváhagyás, illetve az engedély megadhatósága érdekében szükség szerinti alkalommal a kérelem és az annak tárgyát képező tervezetek módosítása vagy kiegészítése vonatkozásában nyilatkozattételre hívhatja fel a kérelmezőt.
+
+(4) Az adatkezelési engedélyezési eljárásban nincs helye sommás eljárásnak.
+
+##### 64/D. §
+
+Az adatkezelési engedélyezési eljárásban hozott határozatában a Hatóság
+
+a) az általános adatvédelmi rendelet
+
+aa) 40. cikkében meghatározott magatartási kódexek tervezetét, kiegészítését vagy módosítását jóváhagyja,
+
+ab) 41. cikkében meghatározott ellenőrzési tevékenységet engedélyezi,
+
+ac) 42. cikk (5) bekezdésében meghatározott tanúsítási szempontokat jóváhagyja,
+
+ad) 46. cikk (3) bekezdés a) pontjában meghatározott szerződéses rendelkezések alkalmazását engedélyezi,
+
+ae) 46. cikk (3) bekezdés b) pontjában meghatározott rendelkezések alkalmazását engedélyezi,
+
+af) 47. cikkében meghatározott kötelező erejű vállalati szabályokat jóváhagyja, vagy
+
+b) a kérelmet elutasítja.
+
+### 34/B.[^235] Az adatközvetítő szolgáltatók nyilvántartásba vételére, valamint a megfeleléssel összefüggő hatósági bizonyítvány kiállítására irányuló eljárás
+
+##### 64/E. §
+
+(1) A Hatóság az adatkormányzási rendelet 10. cikke szerinti szolgáltatás nyújtását tervező adatközvetítő szolgáltatót az ezen alcímben foglalt rendelkezések szerint nyilvántartásba veszi. Az adatközvetítő szolgáltatók nyilvántartása az adatkormányzási rendelet 11. cikk (6) bekezdése szerinti adatokat tartalmazza. A nyilvántartásban kezelt adatok közérdekből nyilvános adatok.
+
+(2) Az (1) bekezdés szerinti nyilvántartásba vételre irányuló kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az adatkormányzási rendelet 11. cikk (6) bekezdése szerinti adatokat tartalmazza. Az (1) bekezdés szerinti nyilvántartásba vételi eljárásban az ügyintézési határidő hét nap.
+
+(3) A Hatóság az adatközvetítő szolgáltató kérelmére hatósági bizonyítvánnyal (a továbbiakban: megfelelőségi bizonyítvány) igazolja, hogy a nyilvántartásba vett adatközvetítő szolgáltató az adatkormányzási rendelet 11. és 12. cikkében foglalt feltételeknek megfelel, azzal, hogy hogy az e kérelemben – az általános közigazgatási rendtartásról szóló törvénytől eltérően – a megfelelőségi bizonyítvány felhasználásának célját nem kell feltüntetni. A megfelelőségi bizonyítvány kiállítására vonatkozó eljárásban az ügyintézési határidő 150 nap.
+
+(4) A (3) bekezdés szerinti eljárás lefolytatása során az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott hatósági eljárást, ha
+
+a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+
+b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(5) A Hatóság a (3) bekezdés szerinti eljárás a (4) bekezdés szerinti felfüggesztéséről szóló végzését a (4) bekezdésben meghatározott más szervvel, illetve személlyel is közli azzal, hogy az eljárás befejezéséről tájékoztassa.
+
+(6) A (3) bekezdés szerinti eljárás a (4) bekezdés szerinti felfüggesztésekor minden határidő megszakad és az eljárás felfüggesztésének megszüntetésekor – az ügyintézési határidő kivételével – újrakezdődik.
+
+(7) Az (1) bekezdés szerinti nyilvántartásba vételi eljárás lefolytatásáért, valamint a megfelelőségi bizonyítvány kiállításáért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(8) A Hatóság által nyilvántartásba vett adatközvetítő szolgáltató az (1) bekezdésben meghatározott adatok bármely változását a változás bekövetkezésétől számított tizennégy napon belül a Hatóságnak bejelenti. A változás-bejelentésre irányuló eljárásra a nyilvántartásba vételre irányuló eljárásra irányadó rendelkezéseket kell alkalmazni.
+
+(9) A Hatóság által nyilvántartásba vett, a tevékenységét beszüntető adatközvetítő szolgáltató a tevékenysége beszüntetésének napját követő tizenöt napon belül a Hatóságnak bejelenti, amely bejelentést követően a Hatóság az adatközvetítő szolgáltatót a nyilvántartásból törli.
+
+(10) A Hatóság az ezen alcím szerinti bejelentésekről, változás-bejelentésekről, illetve törlésekről az adatkormányzási rendeletben meghatározottak szerint az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.
+
+### 34/C.[^236] Az adatközvetítő szolgáltatók felügyeletére irányuló eljárás
+
+##### 64/F. §
+
+(1) A Hatóság az adatkormányzási rendelet III. fejezetében meghatározott követelmények ellenőrzésére kérelemre az adatközvetítő szolgáltatók felügyeletére irányuló eljárást indít és hivatalból az adatközvetítő szolgáltatók felügyeletére irányuló eljárást indíthat.
+
+(2) Az (1) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+a) a feltételezett jogsértés megjelölését,
+
+b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+
+c) a feltételezett jogsértést megvalósító adatközvetítő szolgáltató azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+
+d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+
+e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(3) Az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(4) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(5) Ha a Hatóság az adatközvetítő szolgáltatók felügyeletére irányuló eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
+
+(6) Az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban hozott határozatában a Hatóság az adatkormányzási rendeletben meghatározott jogkövetkezményeket alkalmazhatja, valamint bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(7) Ha az adatközvetítő szolgáltatók felügyeletére irányuló eljárás lefolytatása során a Hatóság arra a megállapításra jut, hogy az eljárás megszüntetésére nincs szükség, és nem állapítható meg az sem, hogy az ellenőrzött adatközvetítő szolgáltató magatartása nem jogsértő, a Hatóság megküldi az ellenőrzött adatközvetítő szolgáltató részére az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének, valamint az esetleges bírság kiszabása körében figyelembe venni kívánt szempontoknak az ismertetését. Az előzetes álláspontra vonatkozóan az ellenőrzött adatközvetítő szolgáltató harminc napon belül nyilatkozatot, észrevételt tehet.
+
+(8) A Hatóság annak eldöntésében, hogy indokolt-e az (5) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban az adatközvetítő szolgáltatók felügyeletére irányuló eljárásban állapítottak-e meg a tevékenységével kapcsolatos jogsértést.
+
+(9) A Hatóság elrendelheti határozatának – az adatközvetítő szolgáltató azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+
+(10) Ha a Hatóság az adatkormányzási rendelet 14. cikk (4) bekezdés b) vagy c) pontja szerinti jogkövetkezmény alkalmazása esetén, valamint a (8) bekezdés szerinti jogsértés orvoslásáról kapott bejelentésről az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.
+
+(11) Az adatkormányzási rendelet szerinti felügyeleti hatóságokkal a Hatóság – az adatkormányzási rendeletben meghatározottak szerint – együttműködik.
+
+(12) A (6) bekezdés szerinti határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(13) Az adatközvetítői megfelelőségi eljárás tekintetében a 61. § (7)–(10) bekezdésekben foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+### 34/D.[^237] Az adataltruista szervezetek nyilvántartásba vételére irányuló eljárás
+
+##### 64/G. §
+
+(1) A Hatóság az adatkormányzási rendelet 18. cikke szerinti követelményeknek megfelelő szervezetet kérelmére az ezen alcímben foglalt rendelkezések szerint nyilvántartásába veszi. Az adataltruista szervezetek nyilvántartása az adatkormányzási rendelet 19. cikk (4) bekezdése szerinti adatokat tartalmazza.
+
+(2) Az (1) bekezdés szerinti nyilvántartásba vételre irányuló kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az adatkormányzási rendelet 19. cikk (4) bekezdése szerinti adatokat tartalmazza. A nyilvántartásba vételi eljárásban az ügyintézési határidő nyolcvannégy nap.
+
+(3) A (1) bekezdés szerinti nyilvántartásba vételi eljárás lefolytatásáért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(4) A Hatóság által nyilvántartásba vett adataltruista szervezet az adatkormányzási rendelet 19. cikk (4) bekezdésében meghatározott adatok bármely változását a változás bekövetkezésétől számított tizennégy napon belül a Hatóságnak bejelenti. A változás-bejelentésre irányuló eljárásra a nyilvántartásba vételre irányuló eljárásra irányadó rendelkezéseket kell alkalmazni.
+
+(5) A Hatóság az adataltruista szervezet nyilvántartásba vételéről, az ezt követő változás-bejelentésről, illetve a nyilvántartásból való törléséről az adatkormányzási rendeletben meghatározottak szerint az Európai Bizottságot – a Kormány rendeletében meghatározott módon – haladéktalanul értesíti.
+
+(6) Az adataltruista szervezetek tevékenységének átláthatósága érdekében a Hatóság – az adatok változásának bejelentéséig – közzéteszi az adatkormányzási rendelet 19. cikk (4) bekezdés a), b), f), g) és h) pontjában meghatározott adatokat. A Hatóság által ekként közzétett, valamint az adatkormányzási rendelet 19. cikk (4) bekezdés d) és e) pontja szerinti, az adataltruista szervezet honlapján az adatkormányzási rendelet 19. cikk (4) bekezdés f) pontja alapján közzétett adatok közérdekből nyilvános adatok.
+
+(7) A Hatóság által nyilvántartásba vett adataltruista szervezet minden az adatkormányzási rendelet 20. cikk (2) bekezdése szerinti éves tevékenységi jelentését minden év január 31-éig a Hatóság részére megküldi. Az érintettek és az adatkezelők tájékozódásának elősegítése érdekében a Hatóság az e tevékenységi jelentést közzéteszi. A Hatóság által közzétett tevékenységi jelentésben foglalt adatok közérdekből nyilvános adatok.
+
+### 34/E.[^238] Az adataltruista szervezetek felügyeletére irányuló eljárás
+
+##### 64/H. §
+
+(1) A Hatóság az adatkormányzási rendelet IV. fejezetében meghatározott követelmények ellenőrzésére kérelemre az adataltruista szervezetek felügyeletére irányuló eljárást indít és hivatalból az adataltruista szervezetek felügyeletére irányuló eljárást indíthat.
+
+(2) Az (1) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+a) a feltételezett jogsértés megjelölését,
+
+b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+
+c) a feltételezett jogsértést megvalósító adataltruista szervezet azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+
+d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+
+e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(3) Az adataltruista szervezetek felügyeletére irányuló eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+(4) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(5) Ha a Hatóság az adataltruista szervezetek felügyeletére irányuló eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
+
+(6) Az adataltruista szervezetek felügyeletére irányuló eljárásban hozott határozatában a Hatóság az adatkormányzási rendeletben meghatározott jogkövetkezményeket alkalmazhatja, valamint bírságot szabhat ki. A bírság mértéke százezertől ötvenmillió forintig terjedhet.
+
+(7) Ha az adataltruista szervezetek felügyeletére irányuló eljárás lefolytatása során a Hatóság arra a megállapításra jut, hogy az eljárás megszüntetésére nincs szükség, és nem állapítható meg az sem, hogy az ellenőrzött adataltruista szervezet magatartása nem jogsértő, a Hatóság megküldi az ellenőrzött adataltruista szervezet részére az ügyre vonatkozó előzetes álláspontját, amely tartalmazza a megállapított tényállást, az azt alátámasztó bizonyítékokat, a tényállás értékelését, a döntés meghozatalához szükséges szempontok és következtetések lényegének, valamint az esetleges bírság kiszabása körében figyelembe venni kívánt szempontoknak az ismertetését. Az előzetes álláspontra vonatkozóan az ellenőrzött adataltruista szervezet harminc napon belül nyilatkozatot, észrevételt tehet.
+
+(8) A Hatóság annak eldöntésében, hogy indokolt-e a (6) bekezdés szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértés súlyát – ideértve a jogsértő állapot fennállásának időtartamát –, valamint azt, hogy a jogsértővel szemben korábban az adataltruista szolgáltatók felügyeletére irányuló eljárásban állapítottak-e meg a tevékenységével kapcsolatos jogsértést.
+
+(9) A (6) bekezdés szerinti határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(10) Az adataltruista szervezetek felügyeletére vonatkozó eljárás tekintetében a 61. § (7)–(10) bekezdésekben foglalt rendelkezéseket megfelelően alkalmazni kell.
+
+### 35. [^239] Nemzetközi együttműködés
+
+##### 65. §
+
+(1) Harmadik országok hatóságaival és nemzetközi szervezetekkel a Hatóság – különösen az általános adatvédelmi rendelet 50. cikkében és a 2016/680 (EU) irányelv 40. cikkében meghatározottak szerint, az ott előírt módon – együttműködik.
+
+(2) Az (1) bekezdésben foglalt együttműködés keretében a Hatóság jogsegély érdekében harmadik ország hatóságához vagy nemzetközi szervezethez fordulhat, és – a 67. §-ban foglalt kivétellel – teljesíti a harmadik ország hatóságától vagy nemzetközi szervezettől érkező jogsegélykérelmet, ha a harmadik ország vagy nemzetközi szervezet és Magyarország közötti közigazgatási jogsegélyegyezmény, más nemzetközi szerződés, jogszabály vagy az Európai Unió jogi aktusa ezt lehetővé teszi.
+
+##### 66. §
+
+A Hatóság megtagadja a harmadik ország hatóságától vagy nemzetközi szervezettől érkező jogsegélykérelem teljesítését és a megtagadás indokairól tájékoztatja a harmadik ország hatóságát, illetve a nemzetközi szervezetet, ha a jogsegélykérelem teljesítése
+
+a) nem tartozik a feladat- és hatáskörébe,
+
+b) sértené Magyarország nemzetbiztonsági érdekeit vagy a közbiztonságot,
+
+c) sértené az ügyben érintett személy alapvető jogát, vagy
+
+d) jogszabályba ütközne.
+
+##### 67. §
+
+(1) EGT-állam felügyeleti hatóságaival a Hatóság az Európai Unió kötelező jogi aktusában meghatározott módokon, így különösen az általános adatvédelmi rendelet 61. cikkében és a 2016/680 (EU) irányelv 50. cikkében meghatározott kölcsönös segítségnyújtás keretei között, az ott előírt módon együttműködik.
+
+(2) Az általános adatvédelmi rendelet 62. cikkében meghatározott módon, az EGT-állam felügyeleti hatóságával közösen végzett műveletek során
+
+a)[^240] a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő vagy munkavállaló a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
+
+b) a más EGT-állam felügyeleti hatósága feladat- és hatáskörében eljáró és e felügyeleti hatóság által kijelölt személy Magyarország területén a Hatóság elnöke által írásban meghatározott terjedelemben a Hatóság feladat- és hatáskörének
+
+gyakorlásában közreműködik.
+
+(3) A (2) bekezdés b) pontjában meghatározott személy eljárására a magyar jog az irányadó.
+
+##### 68. §
+
+Ha a harmadik ország vagy más EGT-állam hatóságától, illetve nemzetközi szervezettől érkező – a Hatóság folyamatban lévő eljárásához közvetlenül nem kapcsolódó – megkeresés teljesítéséhez adatok, iratok beszerzése, vagy más eljárási cselekmény lefolytatása szükséges, a Hatóság e célból hatósági ellenőrzést végez. Ilyen esetben az ellenőrzés a Hatóságnak a beszerzett bizonyítékok átadásáról szóló végzésével zárul.
+
+### 36. [^241] Tanúsítás
+
+##### 69. §
+
+(1) Az általános adatvédelmi rendelet 42. cikkében meghatározott tanúsítást a Hatóság az adatkezelő, illetve az adatfeldolgozó kezdeményezésére az adatkezelővel, illetve az adatfeldolgozóval kötött megállapodás alapján folytatja le.
+
+(2) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást, valamint a tanúsítás lefolytatásának menetét és a tanúsítási szempontokat a Hatóság közzéteszi.
+
+(3) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg. A tanúsítási eljárás lefolytatásáért nyújtandó ellenszolgáltatás a Hatóság bevétele.
+
+(4) Ha a Hatóság a tanúsításról tanúsítványt vagy európai adatvédelmi bélyegzőt állít ki, közzéteszi
+
+a) az annak használatára jogosult adatkezelő, adatfeldolgozó megnevezését, valamint
+
+b) azon adatkezelési műveleteket, amelyekre a tanúsítvány vagy az európai adatvédelmi bélyegző kiterjed.
+
+### 37. Büntető-, szabálysértési és fegyelmi eljárás kezdeményezése
+
+##### 70. §
+
+(1)[^242] Ha a Hatóság az eljárása során bűncselekmény gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha a Hatóság az eljárása során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
+
+(2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja a Hatóságot.
+
+### 38. [^243] A Hatóság eljárásaira vonatkozó egyéb szabályok, adatkezelés és titoktartás
+
+##### 70/A. §[^244]
+
+(1) Az adatkezelő vagy az adatfeldolgozó kérelmére hatósági ellenőrzés lefolytatásának nincs helye.
+
+(2) Azt, hogy az adatkezelés a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásoknak – így különösen a 2. § (3) bekezdésének hatálya alá tartozó adatkezelések esetén a 4. § (1)–(4a) bekezdésben meghatározott alapvető követelményeknek – megfelel, az adatkezelő, illetve az adatfeldolgozó köteles bizonyítani.
+
+##### 70/B. §[^245]
+
+(1) Az érintettek és az adatkezelők tájékozódásának elősegítése érdekében a Hatóság közzéteszi
+
+a) a 61. § (2) bekezdése alapján közzétett határozatokban foglaltak szerint
+
+aa) az adatkezelő, illetve az adatfeldolgozó azonosító adatait,
+
+ab) a jogsértés megjelölését,
+
+ac) az alkalmazott jogkövetkezmény megjelölését,
+
+b) a 64/D. § a) pontjában meghatározott határozatokban foglaltak szerint
+
+ba) a kérelmező azonosító adatait,
+
+bb) a Hatóság döntése tárgyának megjelölését,
+
+bc) ha a Hatóság döntése meghatározott időtartamra hatályos, a határozat időbeli hatályának megjelölését,
+
+c) a Hatóság részére bejelentett adatvédelmi tisztviselő
+
+ca) nevét,
+
+cb) postai és elektronikus levélcímét,
+
+cc) által képviselt adatkezelő vagy adatfeldolgozó megnevezését.
+
+(2) Az (1) bekezdés szerinti adatok közérdekből nyilvános adatok.
+
+(3) A Hatóság
+
+a) az (1) bekezdés a) pontjában meghatározott adatokat a határozat
+
+aa) hatályvesztésének időpontjáig vagy
+
+ab) kiadmányozását követő tíz év elteltéig,
+
+b) az (1) bekezdés b) pontjában meghatározott adatokat a határozat hatályvesztésének időpontjáig,
+
+c) az (1) bekezdés c) pontjában meghatározott adatokat az adatok változásának bejelentéséig
+
+teszi közzé.
+
+##### 70/C. §[^246]
+
+Az Európai Unió kötelező jogi aktusa, valamint e törvény alapján a Hatóság által közzéteendő vagy nyilvánosságra hozni rendelt adatokat a Hatóság saját honlapján, digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, kinyomtatható és részleteiben is adatvesztés és -torzulás nélkül kimásolható módon, a betekintés, a letöltés, a nyomtatás, a kimásolás és a hálózati adatátvitel szempontjából is díjmentesen teszi hozzáférhetővé.
+
+##### 71. §
+
+(1) A Hatóság eljárása során – az annak lefolytatásához szükséges mértékben és ideig – kezelheti mindazon személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az eljárással összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
+
+(1a)[^247] Ha az adatkezelő az érintettet az általános adatvédelmi rendelet 13–18. és 21. cikkében, illetve a 14. §-ban meghatározottak szerint megillető jogokat törvény vagy az Európai Unió kötelező jogi aktusa alapján jogszerűen korlátozta vagy azok korlátozására jogosult, a Hatóság az eljárásaival összefüggésben
+
+a) az érintett jogait oly módon és olyan időpontban biztosítja, valamint
+
+b) az e törvényben a Hatóság részére előírt, az érintett számára teljesítendő értesítési kötelezettségeket oly módon és és olyan időpontban teljesíti,
+
+hogy azon érdekek, amelyek az érintettet megillető jogok jogszerű korlátozásának alapjául szolgálhatnak, ne szenvedjenek sérelmet.
+
+(1b)[^248] A Hatóság megkeresésére a települési önkormányzat jegyzője ellenőrzi az illetékességi területén folytatott, a Hatóság által a megkeresésben megjelölt adatkezelés tényleges körülményeit, így különösen a kezelt személyes adatok körét, a személyes adatokkal végzett műveleteket és e műveletek eszközeit, továbbá az adatkezelő által alkalmazott technikai és szervezési intézkedéseket.
+
+(2)[^249] A Hatóság az eljárásai során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más eljárásában felhasználhatja.
+
+(2a)[^250] Védekezés céljából készült irat esetén az (1) és (2) bekezdésben foglaltakat az ügyvédi tevékenységről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(2b)[^251] A vizsgálat lezárását, illetve a hatósági eljárást befejező döntés véglegessé válását követően a Hatóság által a vizsgálat, illetve az eljárás során kezelt személyes adatot és védett adatot zárolni kell. A zárolt adatok az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltári őrizetbe adásáig tárolhatók, azok – a (2) bekezdés szerinti felhasználás kivételével – kizárólag a véglegessé vált döntés végrehajtása, a véglegessé vált döntésben foglaltak ellenőrzése, a véglegessé vált döntéssel összefüggő jogorvoslat vagy döntés-felülvizsgálat céljából kezelhetők, és kizárólag az ezen adatok kezelésére vagy megismerésére – törvényben meghatározott módon és körben – jogosult bíróság, más szerv vagy személy részére tehetők megismerhetővé.
+
+(3)[^252] A Hatóság az e törvényben meghatározott eljárásai során az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 23. § (1) bekezdés a)–f) és i) pontjában, (2) bekezdésében, (3) bekezdés c)–f) pontjában, (4) bekezdés c)–g) pontjában, valamint (5) bekezdés d) pontjában meghatározott adatokat az Ajbtv. 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
+
+(3a)[^253] A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés e) pontjában, (4) bekezdés f) pontjában és (5) bekezdés d) pontjában meghatározott adatot, ha az az együttműködő személy személyes adatainak védelmével kapcsolatban indult
+
+a) vizsgálati eljárásban,
+
+b) adatvédelmi hatósági eljárásban vagy
+
+c) titokfelügyeleti hatósági eljárásban
+
+szükséges.
+
+(3b)[^254] A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtés folytatása vagy a leplezett eszközök alkalmazása érdekében használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
+
+a) vizsgálati eljárásban,
+
+b) adatvédelmi hatósági eljárásban vagy
+
+c) titokfelügyeleti hatósági eljárásban
+
+szükséges.
+
+(3c)[^255] Ha a Hatóság által vizsgálni kívánt irat olyan adatot is tartalmaz, amelyet a Hatóság csak a (3) bekezdés szerint ismerhet meg, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Hatóság részére lehetővé tenni.
+
+(4)[^256]
+
+(5) A Hatóság elnöke, elnökhelyettese és a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+(6) Az (5) bekezdésben felsorolt személyek megőrzési kötelezettsége arra terjed ki, hogy a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt jogosulatlanul nem tehetik közzé, nem hasznosíthatják, és nem hozhatják harmadik személy tudomására.
+
+## VI/A. Fejezet[^257] — A BÍRÓSÁGI ADATKEZELÉSI MŰVELETEK ELLENŐRZÉSE
+
+##### 71/A. §
+
+(1) A bírósági döntés meghozatalára irányuló peres és nemperes eljárásokban (a továbbiakban: alapügy), az azokra vonatkozó előírások alapján a bíróságok által végzett adatkezelési műveletekkel kapcsolatban a személyes adatok védelméhez való jog érvényesülésének ellenőrzésére adatvédelmi kifogás (a továbbiakban: kifogás) útján kerül sor.
+
+(2) A kifogás elbírálására – az alapügyre vonatkozó eljárási szabályokkal összhangban –
+
+a) ha az alapügyre a büntető- vagy a szabálysértési eljárás szabályait kell alkalmazni, a büntetőeljárásról szóló 2017. évi XC. törvény 143. § (3) bekezdését, valamint 144. § (3) bekezdését és (8) bekezdés a) pontját,
+
+b) ha az alapügyre a közigazgatási perrendtartás szabályait kell alkalmazni, a polgári perrendtartásról szóló 2016. évi CXXX. törvény 157. § (3) bekezdése, valamint 158. § (3) és (6) bekezdése vonatkozásában a közigazgatási perrendtartásról szóló 2017. évi I. törvény 36. § (2) bekezdését,
+
+c) az a) és b) pont hatálya alá nem tartozó esetekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény 157. § (3) bekezdését és 158. § (3) és (6) bekezdését vagy – ha az alapügyben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: 1952-es Pp.) alkalmazandó – az 1952-es Pp. 114/A. § (4) bekezdését és 114/B. § (3) és (6) bekezdését
+
+az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+
+(3) A kifogást az alapügyben eljáró bíróságnál írásban lehet előterjeszteni, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve.
+
+(4) A kifogás előterjesztésére a fél, a vádlott és az eljárás egyéb résztvevője – különösen a sértett, a magánfél, a tanú és a szakértő – és az jogosult, aki jogi érdekét a kifogás előterjesztésével egyidejűleg valószínűsíti.
+
+##### 71/B. §
+
+(1) A kifogás alapján a bíróság azt vizsgálja, hogy az eljáró bíró, ülnök vagy igazságügyi alkalmazott az adatkezelési tevékenysége során a személyes adatok védelmére vonatkozó jogszabályi és uniós jogi előírásoknak megfelelően járt-e el.
+
+(2) A kifogást az érintett arra hivatkozással terjesztheti elő, hogy
+
+a) személyes adatai kezelésével kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye áll fenn, illetve hogy
+
+b) az általános adatvédelmi rendeletben, illetve a 14. §-ban meghatározott érintetti jogainak érvényesítése során az adatkezelő jogszerűtlenül járt el.
+
+(3) A (2) bekezdés b) pontja szerinti kifogásban az érintettnek fel kell tüntetnie az annak alátámasztására szolgáló adatokat, hogy az érintetti jogainak az adatkezelőnél történő érvényesítését megkísérelte.
+
+(4) Az alapügyben eljáró bíróság a kifogás alapján, ha azt alaposnak tartja, nyolc napon belül megteszi a jogsérelem következményeinek enyhítése, illetve a jogsérelem veszélyének megszüntetése érdekében szükséges intézkedéseket, valamint erről és a megtett intézkedéseiről a kifogás előterjesztőjét egyidejűleg értesíti, továbbá tájékoztatja arról, hogy ha a megtett intézkedések ellenére is fenntartja a kifogását, az erre vonatkozó nyilatkozatát az értesítés kézhezvételétől számított nyolc napon belül, írásban terjesztheti elő.
+
+(5) Ha az alapügyben eljáró bíróság nem tett a (4) bekezdésben meghatározott intézkedést, vagy az érintett a (4) bekezdésben meghatározott nyilatkozatot terjesztett elő, az alapügyben eljáró bíróság a szükséges iratokat a kifogás elbírálása céljából nyolc napon belül, a kifogásra vonatkozó nyilatkozatával együtt felterjeszti a kifogás elbírálására jogosult bírósághoz.
+
+(6) Az eljárás során előterjesztett kifogást érdemben kell elbírálni akkor is, ha a peres vagy nemperes eljárás időközben már befejeződött.
+
+##### 71/C. §
+
+(1) A kifogást elbíráló bíróság indokolt határozattal
+
+a) a kifogást visszautasítja az 53. § (2) bekezdése, az 53. § (3) bekezdés a)–d) pontja, valamint (4) bekezdése szerinti esetekben,
+
+b) a kifogást elutasítja, ha az a) pont alapján a kifogás visszautasításának lett volna helye, a visszautasítási ok azonban az érdemi vizsgálat megkezdését követően jutott a tudomására.
+
+(2) A kifogást elbíráló bíróság – ha a kifogást nem utasította vissza vagy nem utasította el az (1) bekezdés szerint – a kifogás és az ügy szükséges iratanyagának hozzá történt felterjesztésétől számított két hónapon belül indokolt határozattal
+
+a) megállapítja a személyes adatok jogellenes kezelésének tényét, illetve azt, hogy az általános adatvédelmi rendeletben vagy az e törvényben meghatározott érintetti jogok gyakorlásával kapcsolatban jogsérelem következett be,
+
+b) megállapítja az a) pontban foglaltak fennállását, vagy annak közvetlen veszélyét és
+
+ba) elrendeli a jogellenes adatkezelési művelet megszüntetését, vagy a jogellenes adatkezelés közvetlen veszélyének elhárítását, illetve az adatkezelés jogszerűségének helyreállítását,
+
+bb) elrendeli az általános adatvédelmi rendeletben, illetve az e törvényben biztosított érintetti jogok érvényesülését szolgáló adatkezelői intézkedések megtételét, vagy
+
+c) megállapítja, hogy jogsérelem nem következett be, vagy annak közvetlen veszélye nem áll fenn, és a kifogást elutasítja.
+
+(3) Az alapügyben eljáró és a kifogást elbíráló bíróság a kifogással kapcsolatos eljárásában a személyes adatok védelmére vonatkozó rendelkezések alkalmazásának egységessége érdekében kikérheti a Hatóság véleményét.
+
+(4) A bíróság számára a kifogás elintézésére nyitva álló határidőbe nem számít bele
+
+a) a tényállás tisztázásához szükséges adatok közlésére, valamint a Hatóság (3) bekezdés szerint megkeresésére irányuló felhívástól az annak teljesítéséig terjedő idő,
+
+b) az eljárással összefüggő irat fordításához szükséges idő, valamint
+
+c) az a nap, amelyen a bíróság működését legalább négy órán át tartóan akadályozó körülmény, ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény állt fenn.
+
+(5) A kifogást elbíráló bíróság eljárására az e fejezetben nem szabályozott kérdésekben az 52. § (3) és (4) bekezdésében, az 53. § (1) és (7) bekezdésében, valamint az 54. § (1) bekezdés a)–d) pontjában, (2) és (3) bekezdésében foglaltakat alkalmazni kell.
+
+## VI/B. Fejezet — A KÖZÉRDEKŰ ÉS KÖZÉRDEKBŐL NYILVÁNOS ADATOK ÁTLÁTHATÓSÁGÁNAK ÉS AZOKMEGISMERHETŐSÉGÉRE VONATKOZÓ KÖVETELMÉNYEK TELJESÜLÉSÉNEK ELLENŐRZÉSE[^258]
+
+##### 71/D. §
+
+(1) A közfeladatot ellátó szerveknél, a helyi önkormányzatoknál és a köztulajdonban álló gazdasági társaságoknál (e § alkalmazásában a továbbiakban együtt: szervek) a közérdekű és közérdekből nyilvános adatok átláthatóságára és a közérdekű és közérdekből nyilvános adatokhoz való hozzáférés biztosítására vonatkozó követelmények teljesülését a Hatóság – e törvényben foglalt egyéb feladat- és hatásköreinek gyakorlása mellett – a szervek által a Hatóság részére a (4) bekezdésben foglalt adatszolgáltatás alapján, évente két alkalommal ellenőrzi (a továbbiakban e fejezet alkalmazásában: ellenőrzés).
+
+(2) Erre irányuló bejelentés esetén a Hatóság az ellenőrzést a bejelentéssel érintett szerv vonatkozásában külön is lefolytatja. Az ellenőrzés lefolytatása érdekében bárki bejelentést tehet.
+
+(3) A (2) bekezdésben meghatározott bejelentésnek tartalmaznia kell
+
+a) a feltételezett jogsértés megjelölését,
+
+b) a feltételezett jogsértést megvalósító magatartás vagy állapot leírását,
+
+c) a feltételezett jogsértést megvalósító szerv azonosításához szükséges adatokat,
+
+d) a feltételezett jogsértéssel kapcsolatos állításokat valószínűsítő tényeket.
+
+(4) A Hatóság részére minden évben január 31-éig a szerv adatot szolgáltat
+
+a) a közérdekű és közérdekből nyilvános adatok megismerése iránti igények teljesítésének és megtagadásának számáról és a megtagadások jellemző indokairól,
+
+b) a közérdekű és közérdekből nyilvános adatok megismerése iránti kérelmek teljesítéséhez szükséges napok átlagos számáról, valamint
+
+c) a közérdekű és közérdekből nyilvános adatok közzétételének elérhetőségéről.
+
+(5) A Hatóság az ellenőrzés lefolytatása érdekében az ellenőrzött szervektől adatokat igényelhet. Az ellenőrzött szervek az adatkérésnek a megkeresés kézhezvételétől számított 8 napon belül kötelesek eleget tenni.
+
+(6) A Hatóság ellenőrzése a közérdekű és közérdekből nyilvános adatok közzétételének a vizsgálatára terjed ki.
+
+(7) A Hatóság az ellenőrzött szervek részére – a közérdekű és közérdekből nyilvános adatok átláthatóságára és a közérdekű és közérdekből nyilvános adatokhoz való hozzáférés biztosítására vonatkozó követelmények teljesülése érdekében – javaslatokat fogalmazhat meg. A javaslattal érintett szerv vezetője a szükséges intézkedések végrehajtása érdekében intézkedési tervet készít, és azt a javaslat kézhezvételétől számított 15 napon belül a Hatóság részére megküldi.
+
+(8) A Hatóság az ellenőrzésről évente – a 38. § (4) bekezdés b) pontjában meghatározott beszámolója részeként – jelentést készít.
+
+## VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+##### 72. §
+
+(1)[^259] Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
+
+b)[^260] – a Hatóság véleményének kikérésével – állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (3) bekezdése szerinti összeghatárokat,[^261]
+
+c) különös közzétételi listát állapíthasson meg,[^262]
+
+d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat,
+
+e)[^263] – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.[^264]
+
+f)[^265] jelölje ki a felület üzemeltetőjét, valamint állapítsa meg a felület működtetésére, illetve az azon történő közzétételre vonatkozó részletes szabályokat.[^266]
+
+g)[^267] állapítsa meg az adatkormányzási rendeletben meghatározott, az Európai Bizottság értesítésére vonatkozó részletes szabályokat,
+
+h)[^268] állapítsa meg a Hatóság VI/B. fejezet szerinti ellenőrzése módszertanának a részletes eljárási szabályait a Hatóság véleményének kikérésével.[^269]
+
+(2) Felhatalmazást kap
+
+a) a feladatkörrel rendelkező miniszter, hogy rendeletben az irányítása vagy felügyelete alá tartozó szervekre nézve különös közzétételi listát állapíthasson meg,
+
+b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
+
+c)[^270]
+
+(3)[^271] Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatkezelési engedélyezési eljárás lefolytatásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.[^272]
+
+(4)[^273] Felhatalmazást kap az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatközvetítői szolgáltató és az adataltruista szervezet nyilvántartásba vételéért, valamint az adatközvetítő szolgáltató számára kiállított megfelelőségi bizonyítványért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+
+##### 73. §
+
+(1) E törvény – a (2) és (3) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–37. §, a 38. § (1)–(3) bekezdése, a 38. § (4) bekezdés a)–f) pontja, a 38. § (5) bekezdése, a 39. §, a 41–68. §, a 70–72. §, a 75–77. § és a 79–88. §, valamint az 1. melléklet 2012. január 1-jén lép hatályba.
+
+(3) A 38. § (4) bekezdés g) és h) pontja, valamint a 69. § 2013. január 1-jén lép hatályba.
+
+##### 73/A. §[^274]
+
+E törvénynek az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2013. évi XCI. törvénnyel megállapított 26. § (2) bekezdését és 30. § (7) bekezdését az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2013. évi XCI. törvény hatálybalépésekor[^275] folyamatban lévő eljárásokra is alkalmazni kell.
+
+##### 74. §
+
+A Hatóság első elnökére a miniszterelnök 2011. november 15-éig tesz javaslatot a köztársasági elnöknek. A Hatóság első elnökét a köztársasági elnök 2012. január 1-jei hatállyal nevezi ki.
+
+##### 75. §
+
+(1) Az adatvédelmi biztoshoz 2012. január 1-je előtt érkezett beadvány alapján folyamatban lévő ügyben az e törvényben foglaltak szerint a Hatóság jár el.
+
+(2) Az adatvédelmi biztos feladatkörében 2012. január 1-jét megelőzően kezelt adatokat 2012. január 1-jétől a Hatóság kezeli.
+
+(3)[^276] A 2018. május 25-ét megelőzően megkezdett adatkezelések vonatkozásában az 5. § (5) bekezdésében meghatározott felülvizsgálatot 2021. május 25-ig kell elvégezni.
+
+(4)[^277] Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénynek az Európai Unió adatvédelmi reformjával összefüggő módosításáról, valamint más kapcsolódó törvények módosításáról szóló 2018. évi XXXVIII. törvény (a továbbiakban: Módtv.) hatálybalépését[^278] megelőzően a Hatóság által megindított vizsgálatot és adatvédelmi hatósági eljárást a Hatóság a VI. Fejezet a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseinek alkalmazásával folytatja le.
+
+(5)[^279] A Módtv. hatálybalépését[^280] megelőzően az adatvédelmi nyilvántartásban kezelt adatokat a Hatóság zárolja és azokat kizárólag a Módtv. hatálybalépését megelőzően végzett adatkezelési műveletekkel kapcsolatban indult eljárásban használhatja fel.
+
+(6)[^281] Ha az adatkezelő valószínűsíti, hogy a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletekhez felhasznált, a 2016/680 (EU) irányelv 63. cikk (2) bekezdésében meghatározottaknak megfelelő automatizált adatkezelési rendszerek vonatkozásában aránytalan nehézséggel vagy költséggel járna, a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása alól 2022. december 31-ig mentesül.
+
+##### 75/A. §[^282]
+
+A Hatóság az általános adatvédelmi rendelet 83. cikk (2)–(6) bekezdésében foglalt hatásköreit az arányosság elvének figyelembevételével gyakorolja, különösen azzal, hogy a személyes adatok kezelésére vonatkozó – jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott – előírások első alkalommal történő megsértése esetén a jogsértés orvoslása iránt – az általános adatvédelmi rendelet 58. cikkével összhangban – elsősorban az adatkezelő vagy adatfeldolgozó figyelmeztetésével intézkedik.
+
+##### 75/B. §[^283]
+
+(1) A Hatóság elnöke és elnökhelyettese az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 42. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése[^284] napján a vagyonnyilatkozat kezelőjénél lévő, a Hatóság elnökével, illetve elnökhelyettesével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor[^285] folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
+##### 75/C. §[^286]
+
+(1) A Hatóság elnöke és elnökhelyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
+
+(2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+(3)[^287] A Hatóság elnöke és elnökhelyettese az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény által megállapított tartalommal és formában először – 2026. december 31. napján fennálló állapot szerint − 2027. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozója vagyonnyilatkozatát is.
+
+(4)[^288] Az európai uniós forrásokhoz való hozzáférés érdekében szükséges egyes törvények módosításáról szóló 2026. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+##### 75/D. §[^289]
+
+A felület üzemeltetője legkésőbb 2022. december 31-ig a felületet létrehozza, valamint közzéteszi a felületen történő közzétételhez szükséges adatlapot. A felületen közzétételre kötelezettek a 37/C. § (2) bekezdése szerinti adatokat a felületen folyamatosan, de első alkalommal legkésőbb 2023. február 28-ig teszik közzé.
+
+##### 75/E. §[^290]
+
+A 37/C. § (3) bekezdés b) pont bb) alpontja tekintetében a Kbt. szerinti nemzeti értékhatárt meg nem haladó beszerzések esetén az európai uniós forrás felhasználásának tényét a 2023. március 31-én vagy azt követően megvalósított beszerzések esetén kell megjelölni.
+
+##### 75/F. §[^291]
+
+Az Európai Bizottsággal való megegyezés érdekében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2022. évi XL. törvénnyel megállapított 31. § (1), (4) és (6) bekezdését, valamint 31/A–31/C. §-át a 2022. december 31-én vagy azt követően benyújtott közérdekű adat megismerésére irányuló igényekre kell alkalmazni.
+
+##### 75/G. §[^292]
+
+A minősített adat védelméről szóló 2009. évi CLV. törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2023. évi XXXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 62. § (1) és (4) bekezdését, valamint 63. § (1)–(2c) bekezdését a Módtv2. hatálybalépésekor[^293] folyamatban levő eljárásokban is alkalmazni kell.
+
+##### 75/H. §[^294]
+
+Az államháztartásról szóló törvény szerinti azon törzskönyvi jogi személyek, amelyek a jogi versenyképesség érdekében egyes törvények deregulációs célú módosításáról szóló 2024. évi LXXXV. törvénnyel (a továbbiakban: Módtv3.) módosított 37/C. § (1) bekezdés hatálybalépését[^295] megelőzően nem voltak a felületen közzétételre kötelezettek, a 37/C. § (2) bekezdése szerinti adatokat a felületen a Módtv3. hatálybalépését[^296] követően első alkalommal legkésőbb 2025. február 28-ig teszik közzé.
+
+##### 77. §
+
+Ez a törvény
+
+a)[^298]
+
+b) a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
+
+c) a közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvnek,
+
+d)[^299] a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
+
+e)[^300] a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+##### 77/A. §[^301]
+
+A III–V. és a VI/A. Fejezet, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontja, a 4. § (5) bekezdése, az 5. § (3)–(5), (7) és (8) bekezdése, a 13. § (2) bekezdése, a 23. §, a 25. §, a 25/G. § (3), (4) és (6) bekezdése, a 25/H. § (2) bekezdése, a 25/M. § (2) bekezdése, a 25/N. §, az 51/A. § (1) bekezdése, az 52–54. §, az 55. § (1) és (2) bekezdése, az 56–60. §, a 60/A. § (1)–(3) és (6) bekezdése, a 61. § (1) bekezdés a) és c) pontja, a 61. § (2) és (3) bekezdése, (4) bekezdés b) pontja és (6)–(10) bekezdése, a 62–71. §, a 72. §, a 75. § (1)–(5) bekezdése és az 1. melléklet a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+
+##### 77/B. §[^302]
+
+Az 34/B–E. alcím, V. Fejezet, valamint a 72. § az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/868 európai parlamenti és tanácsi rendelet (adatkormányzási rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+
+##### 78. §
+
+(1)–(2)[^303]
+
+(3)–(9)[^304]
+
+## 1. melléklet a 2011. évi CXII. törvényhez[^316]
+
+**ÁLTALÁNOS KÖZZÉTÉTELI LISTA**
+
+**I. Szervezeti, személyzeti adatok**
+
+|  | Adat | Frissítés | Megőrzés |
+|---|---|---|---|
+| **1.** | A közfeladatot ellátó szerv hivatalos neve, székhelye, postai címe, telefonszáma, elektronikus levélcíme, honlapja, ügyfélszolgálatának elérhetőségei | A változásokat követően azonnal | Az előző állapot törlendő |
+| **2.** | A közfeladatot ellátó szerv szervezeti felépítése szervezeti egységek megjelölésével, az egyes szervezeti egységek feladatai | A változásokat követően azonnal | Az előző állapot törlendő |
+| **3.** | A közfeladatot ellátó szerv vezetőinek és az egyes szervezeti egységek vezetőinek neve, beosztása, elérhetősége (telefonszáma, elektronikus levélcíme) | A változásokat követően azonnal | Az előző állapot törlendő |
+| **4.** | A szervezeten belül illetékes ügyfélkapcsolati vezető neve, elérhetősége (telefonszáma, elektronikus levélcíme) és az ügyfélfogadási rend | A változásokat követően azonnal | Az előző állapot törlendő |
+| **5.** | Testületi szerv esetén a testület létszáma, összetétele, tagjainak neve, beosztása, elérhetősége | A változásokat követően azonnal | Az előző állapot törlendő |
+| **6.** | A közfeladatot ellátó szerv irányítása, felügyelete vagy ellenőrzése alatt álló, vagy alárendeltségében működő más közfeladatot ellátó szervek megnevezése, és 1. pontban meghatározott adatai | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **7.** | A közfeladatot ellátó szerv többségi tulajdonában álló, illetve részvételével működő gazdálkodó szervezet neve, székhelye, elérhetősége (postai címe, telefonszáma, elektronikus levélcíme), tevékenységi köre, képviselőjének neve, a közfeladatot ellátó szerv részesedésének mértéke | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **8.** | A közfeladatot ellátó szerv által alapított közalapítványok neve, székhelye, elérhetősége (postai címe, telefonszáma, elektronikus levélcíme), alapító okirata, kezelő szervének tagjai | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **9.** | A közfeladatot ellátó szerv által alapított költségvetési szerv neve, székhelye, a költségvetési szervet alapító jogszabály megjelölése, illetve az azt alapító határozat, a költségvetési szerv alapító okirata, vezetője, honlapjának elérhetősége, működési engedélye | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **10.** | A közfeladatot ellátó szerv által alapított lapok neve, a szerkesztőség és kiadó neve és címe, valamint a főszerkesztő neve | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **11.** | A közfeladatot ellátó szerv felettes, illetve felügyeleti szervének, hatósági döntései tekintetében a fellebbezés elbírálására jogosult szervnek, ennek hiányában a közfeladatot ellátó szerv felett törvényességi ellenőrzést gyakorló szervnek az 1. pontban meghatározott adatai | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+
+**II. Tevékenységre, működésre vonatkozó adatok**
+
+|  | **Adat** | **Frissítés** | **Megőrzés** |
+|---|---|---|---|
+| **1.** | A közfeladatot ellátó szerv feladatát, hatáskörét és alaptevékenységét meghatározó, a szervre vonatkozó alapvető jogszabályok, közjogi szervezetszabályozó eszközök, valamint a szervezeti és működési szabályzat vagy ügyrend, – ha azzal rendelkezik – az adatvédelmi és adatbiztonsági szabályzat hatályos és teljes szövege | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **2.** | Az országos illetékességű szervek, valamint a fővárosi és megyei kormányhivatal esetében a közfeladatot ellátó szerv feladatáról, tevékenységéről szóló tájékoztató magyar és angol nyelven | A változásokat követően azonnal | Az előző állapot törlendő |
+| **3.** | A helyi önkormányzat önként vállalt feladatai | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
+| **4.** | Államigazgatási, önkormányzati, és egyéb hatósági ügyekben ügyfajtánként és eljárástípusonként a hatáskörrel rendelkező szerv megnevezése, hatáskör gyakorlásának átruházása esetén a ténylegesen eljáró szerv megnevezése, illetékességi területe, az ügyintézéshez szükséges dokumentumok, okmányok, eljárási illetékek (igazgatási szolgáltatási díjak) meghatározása, alapvető eljárási szabályok, az eljárást megindító irat benyújtásának módja (helye, ideje), ügyfélfogadás ideje, az ügyintézés határideje (elintézési, fellebbezési határidő), az ügyek intézését segítő útmutatók, az ügymenetre vonatkozó tájékoztatás és az ügyintézéshez használt letölthető formanyomtatványok, az igénybe vehető elektronikus programok elérése, időpontfoglalás, az ügytípusokhoz kapcsolódó jogszabályok jegyzéke, tájékoztatás az ügyfelet megillető jogokról és az ügyfelet terhelő kötelezettségekről | A változásokat követően azonnal | Az előző állapot törlendő |
+| **5.** | A közfeladatot ellátó szerv által nyújtott vagy költségvetéséből finanszírozott közszolgáltatások megnevezése, tartalma, a közszolgáltatások igénybevételének rendje, a közszolgáltatásért fizetendő díj mértéke, az abból adott kedvezmények | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **6.** | A közfeladatot ellátó szerv által fenntartott adatbázisok, illetve nyilvántartások leíró adatai (név, formátum, az adatkezelés célja, jogalapja, időtartama, az érintettek köre, az adatok forrása, kérdőíves adatfelvétel esetén a kitöltendő kérdőív); a közfeladatot ellátó szerv által – alaptevékenysége keretében – gyűjtött és feldolgozott adatok fajtái, a hozzáférés módja, a másolatkészítés költségei | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **7.** | A közfeladatot ellátó szerv nyilvános kiadványainak címe, témája, a hozzáférés módja, a kiadvány ingyenessége, illetve a költségtérítés mértéke | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
+| **8.** | A testületi szerv döntései előkészítésének rendje, az állampolgári közreműködés (véleményezés) módja, eljárási szabályai, a testületi szerv üléseinek helye, ideje, továbbá nyilvánossága, döntései, ülésének jegyzőkönyvei, illetve összefoglalói; a testületi szerv szavazásának adatai, ha ezt jogszabály nem korlátozza | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **9.** | A törvény alapján közzéteendő jogszabálytervezetek és kapcsolódó dokumentumok; a helyi önkormányzat képviselő-testületének nyilvános ülésére benyújtott előterjesztések a benyújtás időpontjától | Törvény eltérő rendelkezése hiányában a benyújtás időpontját követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **10.** | A közfeladatot ellátó szerv által közzétett hirdetmények, közlemények | Folyamatosan | Legalább 1 évig archívumban tartásával |
+| **11.** | A közfeladatot ellátó szerv által kiírt pályázatok szakmai leírása, azok eredményei és indokolásuk | Folyamatosan | Az előző állapot 1 évig archívumban tartásával |
+| **12.** | A közfeladatot ellátó szervnél végzett alaptevékenységgel kapcsolatos vizsgálatok, ellenőrzések nyilvános megállapításai | A vizsgálatról szóló jelentés megismerését követően haladéktalanul | Az előző állapot 1 évig archívumban tartásával |
+| **13.** | A közérdekű adatok megismerésére irányuló igények intézésének rendje, az illetékes szervezeti egység neve, elérhetősége, az információs jogokkal foglalkozó személy neve | Negyedévente | Az előző állapot törlendő |
+| **14.** | A közfeladatot ellátó szerv tevékenységére vonatkozó, jogszabályon alapuló statisztikai adatgyűjtés eredményei, időbeli változásuk | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
+| **15.** | A közérdekű adatokkal kapcsolatos kötelező statisztikai adatszolgáltatás adott szervre vonatkozó adatai | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
+| **16.** | Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
+| **17.** | A közfeladatot ellátó szerv kezelésében lévő közérdekű adatok felhasználására, hasznosítására vonatkozó általános szerződési feltételek | A változásokat követően azonnal | Az előző állapot 1 évig archívumban tartásával |
+| **18.** | A közfeladatot ellátó szervre vonatkozó különös és egyedi közzétételi lista | A változásokat követően azonnal | Az előző állapot törlendő |
+| **19.** | A közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítás céljára elérhető kulturális közadatok listája a rendelkezésre álló formátumok megjelölésével, valamint a közfeladatot ellátó szerv kezelésében levő, a közadatok újrahasznosításáról szóló törvény szerint újrahasznosítható közadat típusokról való tájékoztatás, a rendelkezésre álló formátumok megjelölésével | A változásokat követő 15 napon belül | Az előző állapot 1 évig archívumban tartásával |
+| **20.** | A 19. sor szerinti közadatok és kulturális közadatok újrahasznosítására vonatkozó általános szerződési feltételek elektronikusan szerkeszthető változata | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| **21.** | A 19. sor szerinti közadatok és kulturális közadatok újrahasznosítás céljából történő rendelkezésre bocsátásáért fizetendő díjak általános jegyzéke, a díjszámítás alapját képező tényezőkkel együttesen | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| **22.** | A közadatok újrahasznosításáról szóló törvény szerinti jogorvoslati tájékoztatás | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| **23.** | A közfeladatot ellátó szerv által megkötött, a közadatok újrahasznosításáról szóló törvény szerint kötött kizárólagos jogot biztosító megállapodások szerződő feleinek megjelölése, a kizárólagosság időtartamának, tárgyának, valamint a megállapodás egyéb lényeges elemeinek megjelölése | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| **24.** | A közfeladatot ellátó szerv által kötött, a közadatok újrahasznosításáról szóló törvény szerint a kulturális közadatok digitalizálására kizárólagos jogot biztosító megállapodások szövege | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+| **25.** | A közadatok újrahasznosításáról szóló törvény szerinti azon jogszabály, közjogi szervezetszabályozó eszköz, közszolgáltatási szerződés vagy más kötelező erővel bíró dokumentum (vagy az annak elérhetőségére mutató hivatkozás), amely az újrahasznosítás céljából rendelkezésre bocsátható közadat gyűjtésével, előállításával, feldolgozásával és terjesztésével összefüggő költségek jelentős részének saját bevételből való fedezését írja elő a közfeladatot ellátó szerv részére | A változásokat követő 15 napon belül | Az előző állapot törlendő |
+
+**III. Gazdálkodási adatok**
+
+|  | **Adat** | **Frissítés** | **Megőrzés** |
+|---|---|---|---|
+| **1.** | A közfeladatot ellátó szerv éves költségvetése, számviteli törvény szerinti beszámolója vagy éves költségvetési beszámolója | A változásokat követően azonnal | A közzétételt követő 10 évig |
+| **2.** | A közfeladatot ellátó szervnél foglalkoztatottak létszámára és személyi juttatásaira vonatkozó összesített adatok, illetve összesítve a vezetők és vezető tisztségviselők illetménye, munkabére, és rendszeres juttatásai, valamint költségtérítése, az egyéb alkalmazottaknak nyújtott juttatások fajtája és mértéke összesítve | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
+| **3.** | A közfeladatot ellátó szerv által nyújtott, az államháztartásról szóló törvény szerinti költségvetési támogatások kedvezményezettjeinek nevére, a támogatás céljára, összegére, továbbá a támogatási program megvalósítási helyére vonatkozó adatok, kivéve, ha a közzététel előtt a költségvetési támogatást visszavonják vagy arról a kedvezményezett lemond | A döntés meghozatalát követő hatvanadik napig | A közzétételt követő 5 évig |
+| **4.** | Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő, ötmillió forintot elérő vagy azt meghaladó értékű árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezése (típusa), tárgya, a szerződést kötő felek neve, a szerződés értéke, határozott időre kötött szerződés esetében annak időtartama, valamint az említett adatok változásai, a védelmi és biztonsági célú beszerzések adatai és a minősített adatok, továbbá a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés b) pontja szerinti beszerzések és az azok eredményeként kötött szerződések adatai kivételével A szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani | A döntés meghozatalát követő hatvanadik napig | A közzétételt követő 5 évig |
+| **5.** | A koncesszióról szóló törvényben meghatározott nyilvános adatok (pályázati kiírások, pályázók adatai, az elbírálásról készített emlékeztetők, pályázat eredménye) | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
+| **6.** | A közfeladatot ellátó szerv által nem alapfeladatai ellátására (így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre) fordított, ötmillió forintot meghaladó kifizetések | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
+| **7.** | Az Európai Unió támogatásával megvalósuló fejlesztések leírása, az azokra vonatkozó szerződések | Negyedévente | Legalább 1 évig archívumban tartásával |
+| **8.** | Közbeszerzési információk (éves terv, összegzés az ajánlatok elbírálásáról, a megkötött szerződésekről) | Negyedévente | Legalább 1 évig archívumban tartásával |
+
+## 2. melléklet a 2011. évi CXII. törvényhez[^317]
+
+**Az Európai Unió azon kötelező jogi aktusai, amelyek tekintetében a hatályuk alá tartozó állami támogatásokra vonatkozóan a 37/C. § (3) bekezdés a) pont ab) alpontja szerinti adatokat közzé kell tenni:**
+
+1\. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.);
+
+2\. a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i (EU) 2017/1084 bizottsági rendelet (HL L 156., 2017.6.20., 1. o.);
+
+3\. az 1407/2013/EU rendelet meghosszabbításának és a 651/2014/EU rendelet meghosszabbításának és vonatkozó kiigazításának tekintetében történő módosításáról szóló, 2020. július 2-i (EU) 2020/972 bizottsági rendelet (HL L 215, 2020.7.7, 3–6. o.);
+
+4\. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU rendelet módosításáról szóló (EU) 2021/1237 bizottsági rendelet (HL L 270, 202017.19, 39–75. o.);
+
+5\. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1.);
+
+6\. az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37–63. o.);
+
+7\. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i (EU) 2015/1589 tanácsi rendelet (HL L 248., 2015.9.24.),
+
+8\. az 1–7. pontban nem említett, az Európai Bizottság egyedi állami támogatási ügyben – Magyarország tekintetében – hozott kötelező jogi aktusa.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2011. július 11-i ülésnapján fogadta el. A kihirdetés napja: 2011. július 26.
+[^2]: A preambulum a 2023. évi CI. törvény 119. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § a 2018: XXXVIII. törvény 33. § (1) bekezdés 1. pontja, a 2023. évi CI. törvény 119. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdése a 2018: XXXVIII. törvény 33. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 2018: XXXVIII. törvény 1. §-ával megállapított, a 2019: XXXIV. törvény 89. § a) pontja, a 2021: CXXII. törvény 67. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (2a) bekezdését a 2023. évi CI. törvény 109. § (1) bekezdése iktatta be.
+[^7]: A 2. § (3) bekezdése a 2018: XXXVIII. törvény 1. §-ával megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 2018: XXXVIII. törvény 1. §-ával megállapított szöveg.
+[^9]: A 2. § (4) bekezdés b) pontja a 2021: CXXII. törvény 67. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § (5) bekezdése a 2018: XXXVIII. törvény 1. §-ával megállapított szöveg.
+[^11]: A 2. § (5) bekezdés b) pontja a 2019: XXXIV. törvény 89. § b) pontja szerint módosított szöveg.
+[^12]: A 2. § (5a) bekezdését a 2023. évi CI. törvény 109. § (2) bekezdése iktatta be, szövege a 2024. évi XVII. törvény 52. §-a szerint módosított szöveg.
+[^13]: A 2. § (6) bekezdését a 2018: XXXVIII. törvény 1. §-a iktatta be.
+[^14]: A 2. § (7) bekezdését a 2018: XXXVIII. törvény 1. §-a iktatta be.
+[^15]: A 3. § 1. pontja a 2018: XXXVIII. törvény 2. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3. § 1a. pontját a 2018: XXXVIII. törvény 2. § (1) bekezdése iktatta be.
+[^17]: A 3. § 2. pontja a 2018: XXXVIII. törvény 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. § 3. pontja a 2018: XXXVIII. törvény 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. § 3a. pontját a 2018: XXXVIII. törvény 2. § (3) bekezdése iktatta be.
+[^20]: A 3. § 3b. pontját a 2018: XXXVIII. törvény 2. § (3) bekezdése iktatta be.
+[^21]: A 3. § 3c. pontját a 2018: XXXVIII. törvény 2. § (3) bekezdése iktatta be.
+[^22]: A 3. § 5. pontja a 2024. évi LXXXV. törvény 30. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^23]: A 3. § 7. pontja a 2018: XXXVIII. törvény 2. § (4) bekezdésével megállapított szöveg.
+[^24]: A 3. § 8. pontját a 2018: XXXVIII. törvény 34. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^25]: A 3. § 9. pontja a 2013: LXXVI. törvény 111. §-a, a 2015: CXXIX. törvény 17. § (1) bekezdés a) pontja, a 2018: XXXVIII. törvény 33. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^26]: A 3. § 9a. pontját a 2018: XXXVIII. törvény 2. § (5) bekezdése iktatta be.
+[^27]: A 3. § 10. pontja a 2015: CXXIX. törvény 17. § (1) bekezdés a) és c) pontja szerint módosított szöveg.
+[^28]: A 3. § 10a. pontját a 2018: XXXVIII. törvény 2. § (6) bekezdése iktatta be.
+[^29]: A 3. § 10b. pontját a 2018: XXXVIII. törvény 2. § (6) bekezdése iktatta be, szövege a 2026. évi XLVI. törvény 62. §-ával megállapított szöveg.
+[^30]: A 3. § 10c. pontját a 2018: XXXVIII. törvény 2. § (6) bekezdése iktatta be, szövege a 2018: CX. törvény 4. §-ával megállapított, a 2022: XXI. törvény 119. §-a szerint módosított szöveg.
+[^31]: A 3. § 11a. pontját a 2018: XXXVIII. törvény 2. § (7) bekezdése iktatta be.
+[^32]: A 3. § 11b. pontját a 2018: XXXVIII. törvény 2. § (7) bekezdése iktatta be.
+[^33]: A 3. § 13. pontja a 2015: CXXIX. törvény 17. § (1) bekezdés a) és d) pontja szerint módosított szöveg.
+[^34]: A 3. § 14. pontját a 2018: XXXVIII. törvény 34. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^35]: A 3. § 15. pontja a 2018: XXXVIII. törvény 2. § (8) bekezdésével megállapított szöveg.
+[^36]: A 3. § 16. pontja a 2015: CXXIX. törvény 17. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^37]: A 3. § 17. pontja a 2018: XXXVIII. törvény 2. § (9) bekezdésével megállapított szöveg.
+[^38]: A 3. § 18. pontja a 2013: LXXVI. törvény 109. § a) pontja, a 2018: XXXVIII. törvény 33. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^39]: A 3. § 20. pontja a 2015: CXXIX. törvény 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^40]: A 3. § 22. pontja a 2018: XXXVIII. törvény 33. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^41]: A 3. § 25. pontját a 2015: CXXIX. törvény 1. §-a iktatta be, hatályon kívül helyezte a 2018: XXXVIII. törvény 34. § (1) bekezdés 1. pontja.
+[^42]: A 3. § 26. pontját a 2015: CXXIX. törvény 1. §-a iktatta be, szövege a 2018: XXXVIII. törvény 2. § (10) bekezdésével megállapított szöveg.
+[^43]: A 3. § 27. pontját a 2018: XXXVIII. törvény 2. § (10) bekezdése iktatta be.
+[^44]: A 3. § 28. pontját a 2018: XXXVIII. törvény 2. § (10) bekezdése iktatta be.
+[^45]: A 3. § 29. pontját a 2018: XXXVIII. törvény 2. § (10) bekezdése iktatta be.
+[^46]: A II. fejezet címe a 2018: XXXVIII. törvény 33. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^47]: A 4. alcím címe a 2018: XXXVIII. törvény 3. §-ával megállapított szöveg.
+[^48]: A 4. § (1) bekezdése a 2018: XXXVIII. törvény 33. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^49]: A 4. § (4a) bekezdését a 2018: XXXVIII. törvény 4. §-a iktatta be.
+[^50]: A 4. § (5) bekezdését a 2013: XXX. törvény 1. §-a iktatta be.
+[^51]: Az 5. alcím (5–7. §) a 2018: XXXVIII. törvény 5. §-ával megállapított szöveg.
+[^52]: A 6. alcím (8–13. §) a 2018: XXXVIII. törvény 6. §-ával megállapított szöveg.
+[^53]: A II/A. fejezetcímet a 2018: XXXVIII. törvény 7. §-a iktatta be.
+[^54]: A 7. alcím (14. §) a 2018: XXXVIII. törvény 8. §-ával megállapított szöveg.
+[^55]: A 8. alcím (15–24. §) a 2018: XXXVIII. törvény 9. §-ával megállapított szöveg.
+[^56]: A 17. § (2a) bekezdését a 2025. évi CXXVIII. törvény 20. §-a iktatta be.
+[^57]: A 9. alcím (25. §) a 2018: XXXVIII. törvény 10. §-ával megállapított szöveg.
+[^58]: A II/B. fejezetcímet a 2018: XXXVIII. törvény 11. §-a iktatta be.
+[^59]: A 10. alcím (25/A–25/B. §) a 2018: XXXVIII. törvény 12. §-ával megállapított szöveg.
+[^60]: A 11. alcím (25/C–25/D. §) a 2018: XXXVIII. törvény 13. §-ával megállapított szöveg.
+[^61]: A 12. alcím (25/E–25/F. §) a 2018: XXXVIII. törvény 14. §-ával megállapított szöveg.
+[^62]: A 13. alcím (25/G–25/H. §) a 2018: XXXVIII. törvény 15. §-ával megállapított szöveg.
+[^63]: A 14. alcím (25/I. §) a 2018: XXXVIII. törvény 16. §-ával megállapított szöveg.
+[^64]: A 15. alcím (25/J–25/K. §) a 2018: XXXVIII. törvény 17. §-ával megállapított szöveg.
+[^65]: A 16. alcím (25/L–25/N. §) a 2018: XXXVIII. törvény 18. §-ával megállapított szöveg.
+[^66]: A 17–19. alcímet a 2018: XXXVIII. törvény 34. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^67]: A 26. § (1) bekezdése a 2024. évi LXXXV. törvény 30. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^68]: A 26. § (1a) bekezdését a 2026. évi XVIII. törvény 26. §-a iktatta be.
+[^69]: A 26. § (2) bekezdése a 2013: XCI. törvény 1. §-ával megállapított szöveg.
+[^70]: A 26. § (4) bekezdését a 2015: CXXIX. törvény 4. §-a iktatta be.
+[^71]: A 27. § (1) bekezdése a 2025. évi CXXVIII. törvény 21. § (1) bekezdésével megállapított szöveg.
+[^72]: A 27. § (2) bekezdés i) pontját a 2025. évi CXXVIII. törvény 21. § (2) bekezdése iktatta be.
+[^73]: A 27. § (3) bekezdése a 2013: XCI. törvény 2. § (1) bekezdésével megállapított szöveg.
+[^74]: A 27. § (3a) bekezdését a 2013: XCI. törvény 2. § (2) bekezdése iktatta be.
+[^75]: [Az Alkotmánybíróság a 7/2020. (V. 13.) AB határozatának 1. pontjával megállapította, hogy az Országgyűlés az Alaptörvény VI. cikk (3) bekezdését és 39. cikk (2) bekezdését sértő, mulasztással előidézett alaptörvény-ellenességet valósított meg azáltal, hogy a 27. § (3a) bekezdésében foglalt tájékoztatási kötelezettség nem teljesülése esetére nem biztosít hatékony bírói jogvédelmet az adatigénylőnek.]
+[^76]: A 27. § (3b) bekezdését a 2013: XCI. törvény 2. § (2) bekezdése iktatta be.
+[^77]: A 27. § (6) bekezdése a 2015: CXXIX. törvény 17. § (4) bekezdése, a 2024. évi LXXXV. törvény 30. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^78]: A 28. § (2) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés a) pontja és (6) bekezdése szerint módosított szöveg.
+[^79]: A 28. § (3) bekezdése a 2024. évi LXXXV. törvény 29. § (1) bekezdésével megállapított szöveg.
+[^80]: A 29. § (1) bekezdése a 2015: CXXIX. törvény 5. § (1) bekezdésével megállapított szöveg.
+[^81]: A 29. § (1a) bekezdését a 2015: CXXIX. törvény 5. § (2) bekezdése iktatta be.
+[^82]: A 29. § (1b) bekezdését a 2015: CXXIX. törvény 5. § (3) bekezdése iktatta be.
+[^83]: A 29. § (2) bekezdése a 2015: CXXIX. törvény 5. § (4) bekezdésével megállapított szöveg.
+[^84]: A 29. § (2a) bekezdését a 2015: CXXIX. törvény 5. § (5) bekezdése iktatta be, szövege a 2024. évi LXXXV. törvény 30. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^85]: A 29. § (2b) bekezdését a 2025. évi CXXVIII. törvény 22. §-a iktatta be.
+[^86]: A 29. § (3) bekezdése a 2022. évi XXVIII. törvény 1. § (1) bekezdésével megállapított szöveg.
+[^87]: A 29. § (3a) bekezdését a 2015: CXXIX. törvény 5. § (7) bekezdése iktatta be.
+[^88]: A 29. § (4) bekezdése a 2022. évi XXVIII. törvény 1. § (2) bekezdésével megállapított szöveg.
+[^89]: A 29. § (5) bekezdése a 2015: CXXIX. törvény 5. § (9) bekezdésével megállapított szöveg.
+[^90]: A 29. § (5) bekezdés a) pontja a 2022. évi XXVIII. törvény 2. § a) pontja szerint módosított szöveg.
+[^91]: A 29. § (5) bekezdés b) pontja a 2022. évi XXVIII. törvény 3. § a) pontja szerint módosított szöveg.
+[^92]: A 29. § (5) bekezdés c) pontját a 2022. évi XXVIII. törvény 3. § b) pontja hatályon kívül helyezte.
+[^93]: A 29. § (6) bekezdését a 2015: CXXIX. törvény 5. § (9) bekezdése iktatta be.
+[^94]: A 30. § (2) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^95]: A 30. § (2a) bekezdését a 2023. évi CI. törvény 110. §-a iktatta be, a 2026. évi XVIII. törvény 30. §-a hatályon kívül helyezte.
+[^96]: A 30. § (3) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés c) pontja, a 2023. évi CI. törvény 120. § a) pontja szerint módosított szöveg.
+[^97]: A 30. § (7) bekezdését a 2013: XCI. törvény 3. §-a iktatta be, szövege a 2015: CXXIX. törvény 17. § (7) bekezdése szerint módosított szöveg.
+[^98]: A 21/A. alcím címét a 2022. évi XL. törvény 1. §-a iktatta be.
+[^99]: A 31. § (1) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés d) pontja, a 2022. évi XL. törvény 7. § a) pontja szerint módosított szöveg.
+[^100]: A 31. § (2) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^101]: A 31. § (3) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^102]: A 31. § (4) bekezdése a 2022. évi XL. törvény 7. § b) pontja szerint módosított szöveg.
+[^103]: A 31. § (5) bekezdése a 2017: CXXX. törvény 91. § (2) bekezdésével megállapított szöveg.
+[^104]: A 31. § (6) bekezdése a 2022. évi XL. törvény 7. § c) pontja szerint módosított szöveg.
+[^105]: A 31. § (6a) bekezdését a 2015: CXXIX. törvény 6. §-a iktatta be, szövege a 2017: CXXX. törvény 92. §-a szerint módosított szöveg.
+[^106]: A 31. § (7) bekezdése a 2015: CXXIX. törvény 17. § (5) bekezdés e) és f) pontja szerint módosított szöveg.
+[^107]: A 31/A. §-t a 2022. évi XL. törvény 2. §-a iktatta be.
+[^108]: A 31/B. §-t a 2022. évi XL. törvény 2. §-a iktatta be.
+[^109]: A 31/C. §-t a 2022. évi XL. törvény 2. §-a iktatta be.
+[^110]: A 33. § (2) bekezdés a) pontja a 2011: CCI. törvény 412. § c) pontja, a 2023. évi XXXII. törvény 6. § a) pontja, a 2026. évi XXXIV. törvény 182. § a) pontja szerint módosított szöveg.
+[^111]: A 33. § (2) bekezdés b) pontja a 2011: CCI. törvény 413. § (2) bekezdése alapján nem lépett hatályba.
+[^112]: A 33. § (2) bekezdés c) pontja a 2011: CCI. törvény 413. § (1) bekezdése szerint módosított szöveg.
+[^113]: A 33. § (2) bekezdés d) pontja a 2012: XCIII. törvény 79. §-ával megállapított, a 2026. évi XLIX. törvény 90. § a) pontja szerint módosított szöveg.
+[^114]: A 33. § (4) bekezdése a 2019: CXII. törvény 67. §-a szerint módosított szöveg.
+[^115]: A 37. § (1) bekezdése a 2022. évi XL. törvény 7. § d) pontja szerint módosított szöveg.
+[^116]: A 37. § (4) bekezdése a 2012: XCVI. törvény 1. § (1) bekezdésével megállapított szöveg.
+[^117]: A 37. § (4a) bekezdését a 2022. évi XL. törvény 3. §-a iktatta be.
+[^118]: A 37. § (6) bekezdése a 2015: CXXIX. törvény 17. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^119]: A 24/A. alcímet (37/A–37/B. §) a 2011: CCI. törvény 411. § (4) bekezdése iktatta be.
+[^120]: A 24/B. alcímet (37/C. §-t) a 2022. évi XLIV. törvény 42. §-a iktatta be.
+[^121]: A 37/C. § (1) bekezdése a 2026. évi XVIII. törvény 27. § (1) bekezdésével megállapított szöveg.
+[^122]: A 37/C. § (2) bekezdés a) pontja a 2026. évi XVIII. törvény 27. § (2) bekezdésével megállapított szöveg.
+[^123]: A 37/C. § (3) bekezdése a 2026. évi XVIII. törvény 27. § (3) bekezdésével megállapított szöveg.
+[^124]: A 38. § (2) bekezdése a 2018: XIII. törvény 4. § a) pontja szerint módosított szöveg.
+[^125]: A 38. § (2a) bekezdését a 2018: XIII. törvény 1. §-a iktatta be, szövege a 2018: XXXVIII. törvény 19. § (1) bekezdésével megállapított szöveg.
+[^126]: A 38. § (2b) bekezdését a 2018: XXXVIII. törvény 19. § (1) bekezdése iktatta be.
+[^127]: A 38. § (2c) bekezdését a 2023. évi CI. törvény 111. § (1) bekezdése iktatta be.
+[^128]: A 38. § (3) bekezdés nyitó szövegrésze a 2018: XIII. törvény 4. § b) pontja szerint módosított szöveg.
+[^129]: A 38. § (3) bekezdés a) pontja a 2018: XXXVIII. törvény 19. § (2) bekezdésével megállapított szöveg.
+[^130]: A 38. § (3) bekezdés b) pontja a 2018: XXXVIII. törvény 19. § (2) bekezdésével megállapított szöveg.
+[^131]: A 38. § (3) bekezdés c) pontja a 2018: XXXVIII. törvény 19. § (2) bekezdésével megállapított szöveg.
+[^132]: A 38. § (3) bekezdés f) pontját a 2018: XXXVIII. törvény 34. § (2) bekezdés 1. pontja hatályon kívül helyezte, újonnan a 2022. évi LVI. törvény 6. § (1) bekezdése iktatta be..
+[^133]: A 38. § (3) bekezdés g) pontját a 2018: XXXVIII. törvény 19. § (3) bekezdése iktatta be.
+[^134]: A 38. § (3) bekezdés h) pontját a 2018: XXXVIII. törvény 19. § (4) bekezdése iktatta be.
+[^135]: A 38. § (3) bekezdés i) pontját a 2023. évi CI. törvény 111. § (2) bekezdése iktatta be.
+[^136]: A 38. § (4) bekezdés nyitó szövegrésze a 2018: XIII. törvény 4. § c) pontja szerint módosított szöveg.
+[^137]: A 38. § (4) bekezdés b) pontja a 2024. évi LXXXV. törvény 30. § (2) bekezdése szerint módosított szöveg.
+[^138]: A 38. § (4) bekezdés f) pontja a 2018: XXXVIII. törvény 33. § (2) bekezdése szerint módosított szöveg.
+[^139]: A 38. § (4) bekezdés g) pontját a 2018: XXXVIII. törvény 34. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^140]: A 38. § (4) bekezdés h) pontját a 2018: XXXVIII. törvény 34. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^141]: A 40. § (1) bekezdése a 2012: XXV. törvény 4. § (1) bekezdése szerint módosított szöveg.
+[^142]: A 40. § (2) bekezdése a 88. § (5) bekezdése, a 2012: XXXVI. törvény 158. § (27) bekezdése, a 2022: IV. törvény 111. §-a, a 2026. évi XLIX. törvény 90. § b) pontja szerint módosított szöveg.
+[^143]: A 40. § (3) bekezdése a 2018: XXXVIII. törvény 19. § (5) bekezdésével megállapított szöveg.
+[^144]: A 41. § (2) bekezdése a 2014: CI. törvény 79. §-ával megállapított szöveg.
+[^145]: A 42. § (1) bekezdése a 2022: XVIII. törvény 23. § (1) bekezdésével megállapított szöveg.
+[^146]: A 42. § (3) bekezdése a 2022: XVIII. törvény 23. § (2) bekezdésével megállapított szöveg.
+[^147]: A 42. § (3a) bekezdését a 2022: XVIII. törvény 23. § (3) bekezdése iktatta be, a 2022. évi XXXI. törvény 13. §-a hatályon kívül helyezte.
+[^148]: A 42. § (4a) bekezdését a 2026. évi XVIII. törvény 28. § (1) bekezdése iktatta be.
+[^149]: A 42. § (5) bekezdése a 2026. évi XVIII. törvény 28. § (2) bekezdésével megállapított szöveg.
+[^150]: A 43. § (1) bekezdése a 2019: CIX. törvény 147. § (1) bekezdésével megállapított szöveg.
+[^151]: A 43. § (1a) bekezdését a 2019: CIX. törvény 147. § (2) bekezdése iktatta be.
+[^152]: A 45. § (1) bekezdés d) pontja a 2012: XXV. törvény 1. § (1) bekezdésével megállapított szöveg.
+[^153]: A 45. § (1) bekezdés f) pontját a 2012: XXV. törvény 5. § (1) bekezdése hatályon kívül helyezte.
+[^154]: A 45. § (1) bekezdés g) pontját a 2012: XXV. törvény 5. § (1) bekezdése hatályon kívül helyezte.
+[^155]: A 45. § (3) bekezdése a 2012: XXV. törvény 5. § (2) bekezdése szerint módosított szöveg.
+[^156]: A 45. § (4) bekezdését a 2012: XXV. törvény 5. § (1) bekezdése hatályon kívül helyezte.
+[^157]: A 45. § (5) bekezdését a 2012: XXV. törvény 5. § (1) bekezdése hatályon kívül helyezte.
+[^158]: A 45. § (6) bekezdése a 2012: XXV. törvény 1. § (2) bekezdésével megállapított szöveg.
+[^159]: A 45. § (6a) bekezdését a 2012: XXV. törvény 1. § (2) bekezdése iktatta be.
+[^160]: A 45. § (6b) bekezdését a 2012: XXV. törvény 1. § (2) bekezdése iktatta be, szövege a 2018: XXXVIII. törvény 19. § (6) bekezdésével megállapított szöveg.
+[^161]: A 45. § (6c) bekezdését a 2012: XXV. törvény 1. § (2) bekezdése iktatta be.
+[^162]: A 45. § (6d) bekezdését a 2012: XXV. törvény 1. § (2) bekezdése iktatta be, szövege a 2018: XXXVIII. törvény 19. § (7) bekezdésével megállapított szöveg.
+[^163]: A 45. § (7) bekezdése a 2012: XXV. törvény 4. § (2) bekezdése szerint módosított szöveg.
+[^164]: A 45. § (8) bekezdése a 2012: XXV. törvény 4. § (2) bekezdése szerint módosított szöveg.
+[^165]: A 45/A. §-t a 2012: XXV. törvény 2. §-a iktatta be.
+[^166]: A 46. § (1) bekezdése a 2022. évi LVI. törvény 6. § (2) bekezdésével megállapított szöveg.
+[^167]: A 46. § (2) bekezdése a 2012: XXV. törvény 3. §-ával megállapított szöveg.
+[^168]: A 46. § (4) bekezdése a 2022. évi LVI. törvény 6. § (3) bekezdésével megállapított szöveg.
+[^169]: A 48. § (1) bekezdése a 2023. évi LIII. törvény 63. §-ával megállapított szöveg.
+[^170]: A 48. § (1a) bekezdését a 2019: CIX. törvény 148. § (2) bekezdése iktatta be.
+[^171]: A 49. § (5) bekezdése a 2020: XIX. törvény 64. § a) pontja szerint módosított szöveg.
+[^172]: Az 51. § a 2020: XIX. törvény 63. §-ával megállapított szöveg.
+[^173]: Az 51/A. §-t a 2018: XXXVIII. törvény 20. §-a iktatta be.
+[^174]: Az 52. § (1a) bekezdését a 2015: CXXIX. törvény 7. §-a iktatta be.
+[^175]: Az 52. § (1b) bekezdését a 2022. évi LVI. törvény 6. § (4) bekezdése iktatta be.
+[^176]: Az 52. § (2) bekezdése a 2017: L. törvény 368. § a) pontja szerint módosított szöveg.
+[^177]: Az 53. § (3) bekezdés e) pontját a 2015: CXXIX. törvény 8. §-a iktatta be.
+[^178]: Az 53. § (3) bekezdés f) pontját a 2018: XXXVIII. törvény 21. § (1) bekezdése iktatta be, szövege a 2019: XXXIV. törvény 89. § c) pontja szerint módosított szöveg.
+[^179]: Az 53. § (3) bekezdés g) pontját a 2018: XXXVIII. törvény 21. § (1) bekezdése iktatta be, szövege a 2019: XXXIV. törvény 89. § d) pontja szerint módosított szöveg.
+[^180]: Az 53. § (3) bekezdés h) pontját a 2019: XXXIV. törvény 88. § (1) bekezdése iktatta be.
+[^181]: Az 53. § (5a) bekezdését a 2022. évi LVI. törvény 6. § (5) bekezdése iktatta be.
+[^182]: Az 53. § (8) bekezdését a 2018: XXXVIII. törvény 21. § (2) bekezdése iktatta be.
+[^183]: Az 54. § (1) bekezdés a) pontja a 2018: XXXVIII. törvény 33. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^184]: Az 54. § (1) bekezdés b) pontja a 2018: XXXVIII. törvény 33. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^185]: Az 54. § (1) bekezdés d) pontja a 2015: CXXIX. törvény 17. § (8) bekezdés e) pontja, a 2018: XXXVIII. törvény 33. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^186]: Az 54. § (3) bekezdés a) pontja a 2017: L. törvény 367. § a) pontja szerint módosított szöveg.
+[^187]: Az 54. § (3) bekezdés b) pontja a 2017: L. törvény 367. § a) pontja szerint módosított szöveg.
+[^188]: Az 55. § (1) bekezdése a 2018: XXXVIII. törvény 22. § (1) bekezdésével megállapított szöveg.
+[^189]: Az 55. § (1a) bekezdését a 2015: CXXIX. törvény 9. §-a iktatta be.
+[^190]: Az 55. § (2) bekezdése a 2018: XXXVIII. törvény 33. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^191]: Az 55. § (3) bekezdését a 2018: XXXVIII. törvény 22. § (2) bekezdése iktatta be.
+[^192]: Az 56. § (1) bekezdése a 2018: XXXVIII. törvény 33. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^193]: Az 58. § (2) bekezdés a) pontja a 2018: XXXVIII. törvény 33. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^194]: Az 58. § (2) bekezdés b) pontja a 2018: XXXVIII. törvény 33. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^195]: Az 59. § (4) bekezdése a 2017: CXCVII. törvény 292. §-ával megállapított szöveg.
+[^196]: A 32. alcím (60–61. §) a 2018: XXXVIII. törvény 23. §-ával megállapított szöveg.
+[^197]: A 60/A. § (1) bekezdése a 2019: XXXIV. törvény 89. § e) pontja, a 2021: CXXII. törvény 67. § c) pontja szerint módosított szöveg.
+[^198]: A 60/A. § (2a) bekezdését a 2021: CXXII. törvény 64. §-a iktatta be.
+[^199]: A 60/A. § (2b) bekezdését a 2021: CXXII. törvény 64. §-a iktatta be.
+[^200]: A 60/A. § (2c) bekezdését a 2021: CXXII. törvény 64. §-a iktatta be.
+[^201]: A 61. § (1) bekezdés a) pontja a 2021: CXXII. törvény 65. §-ával megállapított szöveg.
+[^202]: A 61. § (1) bekezdés b) pont bf) alpontja a 2021: CXXII. törvény 67. § d) pontja szerint módosított szöveg.
+[^203]: A 61. § (3) bekezdése a 2021: CXXII. törvény 67. § e) pontja szerint módosított szöveg.
+[^204]: A 61. § (7) bekezdése a 2023. évi CXV. törvény 2. §-ával megállapított, a 2026. évi XXXIV. törvény 182. § b) pontja szerint módosított szöveg.
+[^205]: A 61/A. §-t a 2021: CXXII. törvény 66. §-a iktatta be.
+[^206]: A 61/B. §-t a 2021: CXXII. törvény 66. §-a iktatta be.
+[^207]: A 61/B. § (3) bekezdése a 2023. évi LXX. törvény 64. §-ával megállapított szöveg.
+[^208]: A 61/C. §-t a 2021: CXXII. törvény 66. §-a iktatta be.
+[^209]: A 61/C. § (3) bekezdés b) pontja a 2026. évi XXXIV. törvény 182. § c) pontja szerint módosított szöveg.
+[^210]: A 61/D. §-t a 2021: CXXII. törvény 66. §-a iktatta be.
+[^211]: A 62. § (1) bekezdése a 2015: CXXIX. törvény 12. § (1) bekezdésével megállapított, a 2023. évi XXXII. törvény 6. § b) pontja szerint módosított szöveg.
+[^212]: A 62. § (1a) bekezdését a 2015: CXXIX. törvény 12. § (1) bekezdése iktatta be.
+[^213]: A 62. § (1b) bekezdését a 2015: CXXIX. törvény 12. § (1) bekezdése iktatta be.
+[^214]: A 62. § (2) bekezdését a 2017: L. törvény 368. § c) pontja hatályon kívül helyezte.
+[^215]: A 62. § (2a) bekezdését a 2015: CXXIX. törvény 12. § (2) bekezdése iktatta be, szövege a 2017: L. törvény 367. § c) pontja szerint módosított szöveg.
+[^216]: A 62. § (3) bekezdése a 2015: CXXIX. törvény 12. § (3) bekezdésével megállapított szöveg.
+[^217]: A 62. § (4) bekezdését a 2015: CXXIX. törvény 12. § (4) bekezdése iktatta be, szövege a 2023. évi XXXII. törvény 3. §-ával megállapított szöveg.
+[^218]: A 62. § (5) bekezdését a 2015: CXXIX. törvény 12. § (4) bekezdése iktatta be.
+[^219]: A 62. § (6) bekezdését a 2015: CXXIX. törvény 12. § (4) bekezdése iktatta be, szövege a 2017: L. törvény 367. § b) pontja, a 2021: CXXII. törvény 67. § f) pontja szerint módosított szöveg.
+[^220]: A 63. § (1) bekezdése a 2015: CXXIX. törvény 13. § (1) bekezdésével megállapított szöveg.
+[^221]: A 63. § (1) bekezdés a) pontja a 2023. évi XXXII. törvény 4. § (1) bekezdésével megállapított szöveg.
+[^222]: A 63. § (1) bekezdés b) pontja a 2023. évi XXXII. törvény 4. § (1) bekezdésével megállapított szöveg.
+[^223]: A 63. § (1) bekezdés c) pontját a 2023. évi XXXII. törvény 4. § (2) bekezdése iktatta be.
+[^224]: A 63. § (2) bekezdése a 2023. évi XXXII. törvény 4. § (3) bekezdésével megállapított szöveg.
+[^225]: A 63. § (2a) bekezdését a 2017: L. törvény 368. § d) pontja hatályon kívül helyezte, újonnan a 2023. évi XXXII. törvény 4. § (4) bekezdése iktatta be.
+[^226]: A 63. § (2b) bekezdését a 2023. évi XXXII. törvény 4. § (4) bekezdése iktatta be.
+[^227]: A 63. § (2c) bekezdését a 2023. évi XXXII. törvény 4. § (4) bekezdése iktatta be.
+[^228]: A 63. § (3) bekezdése a 2017: L. törvény 366. § (3) bekezdésével megállapított szöveg.
+[^229]: A 63. § (4) bekezdését a 2015: CXXIX. törvény 18. § (3) bekezdése hatályon kívül helyezte.
+[^230]: A 63. § (6) bekezdése a 2014: CIX. törvény 47. §-a szerint módosított szöveg.
+[^231]: A 63. § (7) bekezdése a 2014: CIX. törvény 47. §-a, a 2015: CXXIX. törvény 17. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^232]: A 33/A. alcímet (63/A-63/B. §-t) a 2022. évi LVI. törvény 6. § (6) bekezdése iktatta be.
+[^233]: A 64. § (2) bekezdése a 2017: CXXX. törvény 91. § (3) bekezdésével megállapított szöveg.
+[^234]: A 34/A. alcímet a 2015: CXXIX. törvény 14. §-a iktatta be, szövege a 2018: XXXVIII. törvény 24. §-ával megállapított szöveg.
+[^235]: A 34/B. alcímet (64/E. §-t) a 2023. évi CI. törvény 112. §-a iktatta be.
+[^236]: A 34/C. alcímet (64/F. §-t) a 2023. évi CI. törvény 113. §-a iktatta be.
+[^237]: A 34/D. alcímet (64/G. §-t) a 2023. évi CI. törvény 114. §-a iktatta be.
+[^238]: A 34/E. alcímet (64/H. §-t) a 2023. évi CI. törvény 115. §-a iktatta be.
+[^239]: A 35. alcím (65–68. §) a 2018: XXXVIII. törvény 25. §-ával megállapított szöveg.
+[^240]: A 67. § (2) bekezdés a) pontja a 2020: XIX. törvény 64. § b) pontja szerint módosított szöveg.
+[^241]: A 36. alcím (69. §) a 2018: XXXVIII. törvény 26. §-ával megállapított szöveg.
+[^242]: A 70. § (1) bekezdése a 2017: CXCVII. törvény 294. §-a szerint módosított szöveg.
+[^243]: A 38. alcím címe a 2018: XXXVIII. törvény 33. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^244]: A 70/A. §-t a 2018: XXXVIII. törvény 27. §-a iktatta be.
+[^245]: A 70/B. §-t a 2018: XXXVIII. törvény 27. §-a iktatta be.
+[^246]: A 70/C. §-t a 2018: XXXVIII. törvény 27. §-a iktatta be.
+[^247]: A 71. § (1a) bekezdését a 2018: XXXVIII. törvény 28. § (1) bekezdése iktatta be.
+[^248]: A 71. § (1b) bekezdését a 2019: XXXIV. törvény 88. § (2) bekezdése iktatta be.
+[^249]: A 71. § (2) bekezdése a 2018: XXXVIII. törvény 28. § (2) bekezdésével megállapított szöveg.
+[^250]: A 71. § (2a) bekezdését a 2017: CXXXVI. törvény 80. §-a iktatta be.
+[^251]: A 71. § (2b) bekezdését a 2018: XXXVIII. törvény 28. § (3) bekezdése iktatta be.
+[^252]: A 71. § (3) bekezdése a 2015: CXXIX. törvény 15. §-ával megállapított szöveg.
+[^253]: A 71. § (3a) bekezdését a 2015: CXXIX. törvény 15. §-a iktatta be.
+[^254]: A 71. § (3b) bekezdését a 2015: CXXIX. törvény 15. §-a iktatta be, nyitó szövegrésze a 2017: CXCVII. törvény 293. §-a szerint módosított szöveg.
+[^255]: A 71. § (3c) bekezdését a 2015: CXXIX. törvény 15. §-a iktatta be.
+[^256]: A 71. § (4) bekezdését a 2023. évi CI. törvény 120. § b) pontja hatályon kívül helyezte.
+[^257]: A VI/A. fejezetet (71/A–71/C. §) a 2018: XXXVIII. törvény 29. §-a iktatta be.
+[^258]: A VI/B. Fejezetet (71/D. §-t) a 2023. évi CI. törvény 116. §-a iktatta be.
+[^259]: A 72. § (1) bekezdése a 2011: CCI. törvény 411. § (7) bekezdésével megállapított szöveg.
+[^260]: A 72. § (1) bekezdés b) pontja a 2015: CXXIX. törvény 17. § (5) bekezdés g) pontja és (12) bekezdése, a 2022. évi XXVIII. törvény 2. § b) pontja szerint módosított szöveg.
+[^261]: Lásd a 301/2016. (IX. 30.) Korm. rendeletet.
+[^262]: Lásd a 368/2011. (XII. 31.) Korm. rendeletet, a 38/2012. (III. 12.) Korm. rendeletet, a 229/2012. (VIII. 28.) Korm. rendeletet.
+[^263]: A 72. § (1) bekezdés e) pontját a 2012: XCVI. törvény 1. § (2) bekezdése iktatta be.
+[^264]: Lásd a 180/2017. (VII. 5.) Korm. rendeletet.
+[^265]: A 72. § (1) bekezdés f) pontját a 2022. évi XL. törvény 5. §-a iktatta be.
+[^266]: Lásd a 499/2022. (XII. 8.) Korm. rendeletet.
+[^267]: A 72. § (1) bekezdés g) pontját a 2023. évi CI. törvény 117. § (1) bekezdése iktatta be.
+[^268]: A 72. § (1) bekezdés h) pontját a 2023. évi CI. törvény 117. § (1) bekezdése iktatta be.
+[^269]: Lásd a 11/2024. (I. 25.) Korm. rendeletet.
+[^270]: A 72. § (2) bekezdés c) pontját a 2012: XCVI. törvény 1. § (3) bekezdése hatályon kívül helyezte.
+[^271]: A 72. § (3) bekezdése a 2015: CXXIX. törvény 16. §-ával megállapított, a 2018: XXXVIII. törvény 33. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^272]: Lásd a 20/2015. (VIII. 31.) IM rendeletet, a 25/2018. (IX. 3.) IM rendeletet.
+[^273]: A 72. § (4) bekezdését a 2023. évi CI. törvény 117. § (2) bekezdése iktatta be.
+[^274]: A 73/A. §-t a 2013: XCI. törvény 4. §-a iktatta be.
+[^275]: A hatálybalépés időpontja 2013. június 21.
+[^276]: A 75. § (3) bekezdése a 2018: XXXVIII. törvény 30. §-ával megállapított szöveg.
+[^277]: A 75. § (4) bekezdését a 2018: XXXVIII. törvény 30. §-a iktatta be.
+[^278]: A hatálybalépés időpontja 2018. július 26.
+[^279]: A 75. § (5) bekezdését a 2018: XXXVIII. törvény 30. §-a iktatta be.
+[^280]: A hatálybalépés időpontja 2018. július 26.
+[^281]: A 75. § (6) bekezdését a 2018: XXXVIII. törvény 30. §-a iktatta be.
+[^282]: A 75/A. §-t a 2018: XIII. törvény 2. §-a iktatta be.
+[^283]: A 75/B. §-t a 2022: XVIII. törvény 24. §-a iktatta be.
+[^284]: A hatálybalépés napja 2022. augusztus 1.
+[^285]: A hatálybalépés napja 2022. augusztus 1.
+[^286]: A 75/C. §-t a 2022. évi XXXI. törvény 11. §-a iktatta be, szövege a 2022. évi LVI. törvény 6. § (7) bekezdésével megállapított szöveg.
+[^287]: A 75/C. § (3) bekezdését a 2026. évi XVIII. törvény 29. §-a iktatta be.
+[^288]: A 75/C. § (4) bekezdését a 2026. évi XVIII. törvény 29. §-a iktatta be.
+[^289]: A 75/D. §-t a 2022. évi XLIV. törvény 43. §-a iktatta be.
+[^290]: A 75/E. §-t a 2022. évi XLIV. törvény 43. §-a iktatta be.
+[^291]: A 75/F. §-t a 2022. évi XL. törvény 6. § (2) bekezdése iktatta be.
+[^292]: A 75/G. §-t a 2023. évi XXXII. törvény 5. §-a iktatta be.
+[^293]: A hatálybalépés időpontja 2023. június 5.
+[^294]: A 75/H. §-t a 2024. évi LXXXV. törvény 29. § (3) bekezdése iktatta be.
+[^295]: A hatálybalépés időpontja 2025. január 1.
+[^296]: A hatálybalépés időpontja 2025. január 1.
+[^298]: A 77. § a) pontját a 2018: XXXVIII. törvény 34. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^299]: A 77. § d) pontja a 2018: XXXVIII. törvény 31. §-ával megállapított szöveg.
+[^300]: A 77. § e) pontját a 2015: XCVI. törvény 1. §-a iktatta be.
+[^301]: A 77/A. §-t a 2018: XIII. törvény 3. §-a iktatta be, szövege a 2018: XXXVIII. törvény 32. §-ával megállapított szöveg.
+[^302]: A 77/B. §-t a 2023. évi CI. törvény 118. §-a iktatta be.
+[^303]: A 78. § (1)–(2) bekezdését a 2013: LXXVI. törvény 110. §-a hatályon kívül helyezte.
+[^304]: A 78. § (3)–(9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^316]: Az 1. melléklet a 2011: CLXXV. törvény 188. § (2) bekezdése, a 2011: CXCV. törvény 112. § (1) bekezdése, a 2012: LXIII. törvény 23. §-a, a 2012: XCIII. törvény 79. §-a, a 2015: XCVI. törvény 2. §-a, a 2017: L. törvény 367. § f) pontja, a 2018: XXXVIII. törvény 34. § (1) bekezdés 4. pontja, a 2024. évi LXXXV. törvény 30. § (1) bekezdés e) és f) pontja és 31. §-a, a 2026. évi XLIX. törvény 90. § c) pontja szerint módosított szöveg.
+[^317]: A 2. mellékletet a 2022. évi XLIV. törvény 44. §-a iktatta be.

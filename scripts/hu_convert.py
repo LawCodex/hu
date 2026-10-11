@@ -16,7 +16,7 @@ import unicodedata
 from lxml import html as lh
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from hu_common import BASE, RAW, ROOT  # noqa: E402
+from hu_common import BASE, RAW, ROOT, in_force  # noqa: E402
 
 DOCDIR = os.path.join(RAW, "docs")
 TODAY = os.environ.get("HU_TODAY") or datetime.date.today().isoformat()
@@ -269,12 +269,14 @@ def convert(page, item, docid):
             pending_struct = None
 
     in_annex = False
+    title_marks = []
     for el in slices:
         cls = (el.get("class") or "").split()
         tag = el.tag.lower()
         if "footnote" in cls:
             continue
-        if tag == "h1" or "jogszabalyMainTitle" in cls or "jogszabalySubtitle" in cls:
+        if tag in ("h1", "h2") or "jogszabalyMainTitle" in cls or "jogszabalySubtitle" in cls:
+            title_marks.extend(re.findall(r"\[\^[^\]]+\]", c.inline(el)))
             continue
         if "hataly" in cls:
             hataly = el.text_content().strip()
@@ -327,7 +329,7 @@ def convert(page, item, docid):
         if pending_art is not None:
             sj = el.xpath('.//span[@class="szakasz-jel"]')
             if sj:
-                heading(pending_art, sj[0].text_content().strip())
+                heading(pending_art, norm_ws(c.inline(sj[0])).strip())
                 s = sj[0]
                 parent = s.getparent()
                 # drop the label from the paragraph (keep its tail)
@@ -391,14 +393,15 @@ def convert(page, item, docid):
           "jurisdiction: hu",
           "language: hu",
           ("date: " + date) if date else None,
-          ("in_force_from: " + item["from"]) if item.get("from") else None,
+          ("in_force_from: " + item["from"]) if item.get("from") and item["from"] < "2999" else None,
+          ("in_force_until: " + item["to"]) if item.get("to") and item["to"] < "2999" else None,
           ("last_amended: " + consolidated) if consolidated else None,
           "status: " + status,
           "source: " + yaml_str(BASE + "/jogszabaly/" + docid),
           "retrieved: " + RETRIEVED,
           "---", ""]
     fm = [x for x in fm if x is not None]
-    body = ["# " + norm_ws(fulltitle).strip(), ""]
+    body = ["# " + norm_ws(fulltitle).strip() + "".join(title_marks), ""]
     for p in out:
         body.append(p)
         body.append("")
@@ -445,7 +448,7 @@ def main():
             docid = idx.get(it["eli"])
             if not docid:
                 continue
-            if it.get("to"):
+            if not in_force(it):
                 continue
             fn = os.path.join(DOCDIR, docid + ".html.gz")
             if not os.path.exists(fn):

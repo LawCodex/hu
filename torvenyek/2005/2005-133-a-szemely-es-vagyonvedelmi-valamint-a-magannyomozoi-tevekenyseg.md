@@ -1,0 +1,1521 @@
+---
+title: "2005. évi CXXXIII. törvény a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól"
+identifier: "2005. évi CXXXIII. törvény"
+njt_id: "2005-133-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2005/133"
+type: act
+jurisdiction: hu
+language: hu
+date: 2005-11-30
+in_force_from: 2010-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-133-00-00"
+retrieved: 2026-10-12
+---
+
+# 2005. évi CXXXIII. törvény a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól[^1]
+
+E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek részeként a személy- és vagyonvédelem, a bűnmegelőzés hatékonyságának fokozása érdekében – erősítse a vállalkozás keretében végzett személy- és vagyonvédelmi, valamint a magánnyomozói szolgáltatás törvényességét, és további garanciát nyújtson a társadalom számára az e szolgáltatásokat igénybevevők, illetve az e szolgáltatások gyakorlása során érintettek személyhez fűződő jogai, vagyoni érdekei sérthetetlenségére irányuló igényeinek érvényesítéséhez. E cél elérése érdekében az Országgyűlés a következő törvényt alkotja:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §[^2]
+
+(1)[^3] E törvény hatálya az egyéni vállalkozóként, illetve az egyéni cég vagy gazdasági társaság (a továbbiakban együtt: vállalkozás) keretében, valamint a személyesen végzett
+
+a) személy- és vagyonvédelmi tevékenységre,
+
+b) vagyonvédelmi rendszert tervező és szerelő tevékenységre (a továbbiakban: tervező-szerelő tevékenység),
+
+c) magánnyomozói tevékenységre, valamint
+
+d) kizárólag a VI/C. Fejezet rendelkezései tekintetében az ott meghatározott tömegrendezvény-szervezői tevékenységre
+
+terjed ki.
+
+(2) E törvény alkalmazásában személy- és vagyonvédelmi tevékenységnek minősül:
+
+a) a természetes személyek életének és testi épségének védelme,
+
+b) az ingatlan, illetve ingóság őrzése,
+
+c) a szállítmány kísérése, pénz és érték szállítása,
+
+d) a rendezvény biztosítása és
+
+e) az *a)–d)* pontokban foglalt tevékenységek szervezése és irányítása.
+
+(3) Személy- és vagyonvédelmi tevékenységet személyesen az végezhet, aki a következő szakképesítések valamelyikével rendelkezik:
+
+a) biztonsági őr,
+
+b) testőr,
+
+c) vagyonőr vagy
+
+d) biztonságszervező.
+
+(4) E törvény alkalmazásában tervező-szerelő tevékenységnek minősül az elektronikai vagy mechanikai vagyonvédelmi rendszerek tervezése, telepítése, szerelése, üzemeltetése, felügyelete, karbantartása, javítása, ideértve a rögzítés nélküli, megfigyelési céllal üzemeltetett vagy – törvény felhatalmazása alapján – a hang- vagy képrögzítést is lehetővé tevő elektronikus megfigyelőrendszer (a továbbiakban: térfelügyeleti rendszer), továbbá a beléptető rendszer és a betörésjelző rendszer létesítésének, karbantartásának, illetve a térfelügyeleti rendszerhez és a távfelügyeleti rendszerhez kapcsolódó reagálószolgálat működésének körében végzett tevékenységet is.
+
+(5) Tervező-szerelő tevékenységet személyesen az végezhet, aki biztonságtechnikai, híradástechnikai, távközlési, mechanikai, illetve villamosmérnöki képzettséget adó egyetemi vagy főiskolai végzettséggel rendelkezik. A biztonságtechnikai, az elektronikai és a mechanikai vagyonvédelmi rendszert szerelő tevékenységet személyesen az végezhet, aki a következő szakképesítések valamelyikével rendelkezik:
+
+a) biztonságtechnikai szerelő, kezelő,
+
+b) biztonságtechnika-kezelő,
+
+c) elektronikus vagyonvédelmi rendszerszerelő,
+
+d) mechanikus vagyonvédelmi rendszerszerelő.
+
+(6) Az e törvény hatálya alá tartozó tevékenységek egyidejűleg is folytathatók.
+
+#### 2. §[^4]
+
+A 22–33. §-ok rendelkezései irányadók a személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet munkajogi vagy egyéb foglalkoztatási jogviszonyban, nem vállalkozás keretében folytató személy tevékenységére, ide nem értve a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek állományába tartozó személyek, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottai által e jogviszonyukkal összefüggésben végzett, illetve más, hatósági eljárás keretében, külön törvény rendelkezései alapján végzett tevékenységet és a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatokról szóló törvény rendelkezései alapján végzett tevékenységet.
+
+#### 3. §[^5]
+
+(1) A rendőrség és a polgári nemzetbiztonsági szolgálatok személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet érintő hatósági feladatokat ellátó hivatásos állományú tagja, továbbá e hatósági feladatok ellátásában közreműködő nem hivatásos állományú munkatársa
+
+a) nem lehet tagja, vezető tisztségviselője az e törvény hatálya alá tartozó tevékenységet folytató vállalkozásnak, valamint olyan gazdasági társaságnak, amely tagja valamely, e törvény hatálya alá tartozó tevékenységet folytató vállalkozásnak,
+
+b) e törvény hatálya alá tartozó tevékenységet vállalkozás keretében nem végezhet.
+
+(2) A rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja – állományilletékes parancsnoka engedélyével – vállalkozás keretében csak az 1. § (1) bekezdés b) pontjában, valamint az 1. § (2) bekezdés b) és c) pontjában meghatározott tevékenységet végezheti.
+
+### A személy- és vagyonvédelmi, a tervező-szerelő és a magánnyomozói tevékenység megkezdése és folytatása[^7]
+
+#### 5. §[^8]
+
+(1) Vállalkozás keretében személy- és vagyonvédelmi tevékenység – ha e törvény kivételt nem tesz – a rendőrség által a vállalkozás kérelmére kiadott működési engedély birtokában végezhető, ha
+
+a) a kérelmező személy- és vagyonvédelmi tevékenység végzésében személyesen közreműködő tagja, munkavállalója vagy egyéni vállalkozás, illetve egyéni cég esetében, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik a tevékenység személyes végzésére jogosító, a rendőrség által kiadott hatósági igazolvánnyal (a továbbiakban: igazolvány),
+
+b)[^9] a kérelmező – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó, a szerződésszegéssel és a szerződésen kívül okozott károk megtérítését, valamint a sérelemdíj megfizetését szolgáló, külön jogszabályban meghatározott kötelező tartalommal bíró felelősségbiztosítási szerződéssel (a továbbiakban: felelősségbiztosítási szerződés).
+
+(2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
+
+(3)[^10] Az (1) bekezdés b) pontjában meghatározott adatot a kérelmező igazolja.
+
+(4)[^11] Személy- és vagyonvédelmi tevékenység végzésére működési engedély nem adható annak
+
+a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
+
+b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
+
+c)[^12] a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
+
+(5)[^13] A rendőrség tanúsítványt ad ki a rendezvény-, illetve létesítménybiztosítás során a rendezvény helyszínére, létesítménybe, vagy egyéb zárt területre belépő személyekre, illetve az általuk birtokolt dolgokra kiterjedő robbanóanyag, pirotechnikai termék, kábítószer, illetve egyéb tiltott tárgy kiszűrését célzó, az általános személy- és vagyonvédelmi tevékenységhez képest magasabb biztonsági szintű ellenőrzést biztosító vállalkozásnak.
+
+#### 5/A. §[^14]
+
+(1) Vállalkozás keretében tervező-szerelő vagy magánnyomozói tevékenységet az a vállalkozás végezhet, amely megfelel a jogszabályban meghatározott feltételeknek és
+
+a) a tevékenység végzésében személyesen közreműködő tagja, munkavállalója, vagy egyéni vállalkozás, illetve egyéni cég esetében, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – rendelkezik igazolvánnyal,
+
+b) – ha e törvény kivételt nem tesz – rendelkezik az általa végezni kívánt tevékenységre vonatkozó felelősségbiztosítási szerződéssel.
+
+(2) A felelősségbiztosítási szerződéssel egyenértékű a más EGT-államban kötött, az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő felelősségbiztosítási szerződés.
+
+(3) A vállalkozás köteles a tervező-szerelő vagy magánnyomozói tevékenység végzésére irányuló szándékát – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint – a rendőrségnek bejelenteni.
+
+(4)[^15] Az (1) bekezdés b) pontjában meghatározott adatot a bejelentést tevő igazolja.
+
+(5)[^16] Tervező-szerelő vagy magánnyomozói tevékenységet nem gyakorolhat az
+
+a) az egyéni vállalkozó, aki, vagy az az egyéni cég, illetve gazdasági társaság, amelynek vezető tisztségviselője büntetett előéletű, vagy e törvényben meghatározott, a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll,
+
+b) az egyéni vállalkozó, akivel, vagy az az egyéni cég, illetve gazdasági társaság, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, valamint
+
+c)[^17] a jogi személyiséggel rendelkező gazdasági társaság, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a tervező-szerelő vagy magánnyomozói tevékenység gyakorlásától eltiltott.
+
+#### 6. §[^18]
+
+(1)[^19] Az e törvény hatálya alá tartozó tevékenységek (ideértve a magánnyomozói tevékenység szervezését és irányítását is) személyes végzéséhez – ha e törvény kivételt nem tesz – a rendőrség által kiadott igazolvány szükséges.
+
+(1a)[^20] Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Erfesztv.) szerinti személy- és vagyonőr a tevékenységét abban az esetben kezdheti meg, ha az Erfesztv.-ben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.
+
+(2)[^21] Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll.
+
+(3)[^22] Az e törvény hatálya alá tartozó tevékenységet nem végezhet:
+
+a) aki büntetett előéletű,
+
+b)[^23] akit
+
+ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmény (1978. évi IV. törvény X. fejezet), emberiség elleni bűncselekmény (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmény [1978. évi IV. törvény 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/A. §, 174/B. §, 174/C. §, 175. §, 175/A. §, 175/B. §, 176. § (2) bekezdés b) pont és (3)–(4) bekezdés], nemi erkölcs elleni erőszakos bűncselekmény [1978. évi IV. törvény 197. és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (1978. évi IV. törvény XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet V. cím), embercsempészés (1978. évi IV. törvény 218. §), közveszélyokozás [1978. évi IV. törvény 259. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §), visszaélés nukleáris létesítmény üzemeltetésével (1978. évi IV. törvény 264/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), tiltott állatviadal szervezése (1978. évi IV. törvény 266/A. §), állatkínzás (1978. évi IV. törvény 266/B. §), garázdaság (1978. évi IV. törvény 271. §), önbíráskodás (1978. évi IV. törvény 273. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), pénzmosás (1978. évi IV. törvény 303. §), vagyon elleni szándékos bűncselekmény (1978. évi IV. törvény 316–324. §, 326. §, 327. §) vagy szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [1978. évi IV. törvény 343. § (2) bekezdés a) pont és (4)–(5) bekezdés, valamint 1978. évi IV. törvény 355. § (2) bekezdés a) pont] alapján,
+
+bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 2025. június 15-ig hatályban volt 184–184/C. §-a szerinti új pszichoaktív anyaggal visszaélés alapján,
+
+bc) a Btk. szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), tudatmódosító anyaggal visszaélés (Btk. 184. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem és kényszermunka (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], a lelkiismereti és vallásszabadság megsértése (Btk. 215. §), közösség tagja elleni erőszak (Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (Btk. 217. §), magánlaksértés [Btk. 221. § (2) bekezdés b) pont és (3)–(4) bekezdés], állatkínzás (Btk. 244. §), orvvadászat (Btk. 245. §), orvhalászat (Btk. 246. §), tiltott állatviadal szervezése (Btk. 247. §), radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §), háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), garázdaság (Btk. 339. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmények (Btk. XXXV. Fejezet), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), hűtlen kezelés (Btk. 376. §), hanyag kezelés (Btk. 377. §), jármű önkényes elvétele (Btk. 380. §), pénzmosás (Btk. 399. §), szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [Btk. 434. § (2) bekezdés a) pont és (3)–(4) bekezdés, valamint Btk. 445. § (2) bekezdés a) pont] alapján,
+
+bd) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, vagy
+
+be) a 2020. december 31-éig hatályban volt orgazdaság alapján,
+
+elítéltek, és a (4) bekezdésben meghatározott időtartam még nem telt el;
+
+c)[^24] aki kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+
+(4)[^25] E törvény hatálya alá tartozó tevékenységet nem végezhet, akivel szemben a (3) bekezdés b) pontjában meghatározott
+
+a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+
+aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+
+ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+
+b) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+
+(5)[^26] Nem szükséges igazolvány az elektronikai vagyonvédelmi rendszer telepítésére, szerelésére irányuló hálózatépítéssel összefüggő segédmunkához, amennyiben a hálózatépítés helyén jelen van a munkát irányító, igazolvánnyal rendelkező személy.
+
+#### 7. §[^27]
+
+A működési engedély és az igazolvány határozatlan ideig érvényes.
+
+#### 7/A. §[^28]
+
+Az elveszett vagy eltulajdonított igazolvány körözését az igazolvány kiadására hatáskörrel és illetékességgel rendelkező rendőri szerv rendeli el.
+
+### Rendőrségi nyilvántartás, a tevékenység ellenőrzése
+
+#### 8. §[^29]
+
+(1)[^30] A rendőrség a kiadott működési engedélyekről és igazolványokról a kiadásuk alapjául szolgáló, az 5. §-ban és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, az e törvény szerinti létesítmény- és rendezvényvédelmi ellenőrzési, valamint a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a rendezvény-, illetve létesítménybiztosítási szolgáltatás nyújtását igazoló tanúsítványokról és az annak kiadása alapjául szolgáló feltételek igazolásához szükséges adatokról, a működési engedély és a tanúsítvány visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a tevékenység ellenőrzésének céljából – nyilvántartást vezet.
+
+(2) A nyilvántartás az egyéni vállalkozónak, az egyéni cégnek vagy a gazdasági társaság cégbírósághoz bejelentett vezető tisztségviselőjének, a tevékenységet személyesen végzőnek, és a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő természetes személynek – ideértve a tevékenységet szakmailag szervező vagy irányító személyt is – a természetes személyazonosító adatait és állampolgárságát tartalmazza.
+
+(2a)[^31]
+
+(2b)[^32]
+
+(3)[^33] A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat véglegessé válásától számított két éven belül nem fizeti meg.
+
+(4)[^34] A nyilvántartásból adattovábbításra irányuló kérelmet – ha törvény eltérően nem rendelkezik – teljesíteni nem lehet.
+
+(5) Az e törvény hatálya alá tartozó tevékenység hatósági ellenőrzését a rendőrség végzi, amely a tevékenység gyakorlásának jogszerűségére, a felelősségbiztosítási szerződés meglétére, a rendőrség által nyilvántartott adatok valódiságára, a rendőrség által hitelesített naplóba (a továbbiakban: napló) bejegyzett adatokra, és az engedélyezés vagy a tevékenység végzésének feltételeiben beállott változások vizsgálatára terjed ki.
+
+(6)[^35] A rendőrség a hatósági ellenőrzés során – a 6. § (3) és (4) bekezdésében meghatározott közbiztonsági feltételek fennállásának ellenőrzése céljából – a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult a 6. § (3) és (4) bekezdésében meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni, és azokat az ellenőrzés befejezéséig kezelni. Ha a hatósági ellenőrzés során a rendőrség a tevékenység gyakorlását kizáró okot tár fel és az igazolvány visszavonására vagy a tevékenység folytatásának megtiltására eljárást indít, az átvett adatokat az eljárás jogerős befejezéséig kezelheti.
+
+(7) A rendőrség a hatósági ellenőrzést évenként lefolytatja. Ha az ellenőrzés során a rendőrség megállapítja, hogy a tevékenység gyakorlását kizáró feltétel áll fenn, a működési engedélyt, illetve az igazolványt visszavonja, a vállalkozás keretében végzett tervező-szerelő vagy magánnyomozói tevékenység esetén a tevékenység folytatását megtiltja.
+
+#### 9. §[^36]
+
+(1)[^37] Ha a magánnyomozói tevékenységet folytató vállalkozás tulajdonosa, vezető tisztségviselője nyomozó hatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot, a szolgálati viszonya megszűnésétől számított két éven belül a vállalkozást nem ellenőrizheti a rendőrségnek az ellenőrzésre jogosult azon szerve, amelynek illetékességi területén az érintett – szolgálati viszonya megszűnéséig – szolgálatot teljesített.
+
+(2)[^38] A rendőrségnek a magánnyomozói tevékenység ellenőrzésére jogosult szerve a magánnyomozói tevékenységet végző személy (a továbbiakban: magánnyomozó) tevékenységét nem ellenőrizheti, ha
+
+a)[^39] az érintett – szolgálati viszonya megszűnésekor – a rendőri szerv illetékességi területén működő nyomozó hatósági jogkörrel rendelkező szervezet tagjaként teljesített szolgálatot vagy – munkaviszonya megszűnésekor e szervezet nem hivatásos állományú tagjaként – a rendőrségi feladatok ellátásában való közreműködés munkakörébe tartozott; és
+
+b) szolgálati, illetve munkaviszonya megszűnésétől két év még nem telt el.
+
+(3)[^40] A rendőrségnek a személy- és vagyonvédelmi vagy tervező-szerelő tevékenység ellenőrzésére egyébként jogosult szerve a személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet ellátó tevékenységét nem ellenőrizheti, ha
+
+a)[^41] az érintett – szolgálati viszonya megszűnésekor – a személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet folytató vállalkozás működésére vonatkozó rendőrségi feladatokat ellátó szervezet tagjaként teljesített szolgálatot, vagy – munkaviszonya megszűnésekor, e szervezet nem hivatásos állományú tagjaként – a rendőrségi feladatok ellátásában való közreműködés munkakörébe tartozott; és
+
+b) szolgálati, illetve munkaviszonya megszűnésétől két év még nem telt el.
+
+(4)[^42]
+
+### A működési engedély visszavonása és felfüggesztése, valamint az igazolvány visszavonása, bevonása és elvétele[^44]
+
+#### 11. §[^45]
+
+(1) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül a működési engedélyt
+
+a) visszavonja, ha kiadásának bármely feltétele megszűnt,
+
+b) hat hónapra felfüggeszti, ha a vállalkozás e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette.
+
+(2) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül az igazolványt
+
+a) visszavonja, ha kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele már nem áll fenn,
+
+b) hat hónapra bevonja, ha az igazolvány jogosultja e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette,
+
+c)[^46] a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig bevonja
+
+ca) a 6. § (3) bekezdés c) pontja vagy
+
+cb) az Erfesztv. 5. § (2) bekezdés e) pontja
+
+szerinti esetben.
+
+(3) A (2) bekezdés b) pontjában meghatározott idő elteltével a rendőrség az igazolványt a jogosultnak visszaadja, kivéve, ha az igazolvány visszavonásának vagy bevonásának más oka áll fenn.
+
+(4)[^47] A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadása megtagadásának
+
+a) a 6. § (2) bekezdése szerinti oka,
+
+b) a 6. § (3) bekezdés a) vagy b) pontja szerinti oka vagy
+
+c) az Erfesztv. 5. § (2) bekezdés a)–c) pontja szerinti oka
+
+nem áll fenn.
+
+(5) A rendőrség a működési engedélyt vagy az igazolványt nyolc napon belül visszavonja, ha a jogosult a működési engedély alapjául szolgáló tevékenység folytatását befejezi, és ezt a rendőrségnek bejelenti.
+
+#### 12. §[^48]
+
+(1) Ha a személy- és vagyonvédelmi tevékenységet személyesen folytató személyt kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény elkövetésén tetten érik, a rendőr az igazolványt a helyszínen átvételi elismervény ellenében elveszi.
+
+(2) Az (1) bekezdés alapján elvett igazolványt a rendőr haladéktalanul megküldi – az elvétel okának megjelölésével – az igazolványt kiállító hatóságnak.
+
+#### 13. §[^49]
+
+(1) Ha a tervező-szerelő vagy magánnyomozói tevékenység végzésére jogosult személyt kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény elkövetésén tetten érik, a rendőr a tervező-szerelő vagy magánnyomozói tevékenység végzésétől a helyszínen eltiltja.
+
+(2) A rendőr a tevékenység megtiltásáról haladéktalanul értesíti – a megtiltás okának megjelölésével – az 5/A. § (3) bekezdése szerinti bejelentést nyilvántartó hatóságot.
+
+### A személy- és vagyonvédelmi, tervező-szerelő, illetve magánnyomozói tevékenységet folytató kötelezettségei[^50]
+
+#### 14. §[^51]
+
+(1)[^52] Az e törvény hatálya alá tartozó tevékenység szolgáltatására irányuló szerződést írásba kell foglalni.
+
+(2)[^53] A személy- és vagyonvédelmi tevékenységet folytató vállalkozás a szerződés teljesítése érdekében további vállalkozással kizárólag a személy- és vagyonvédelmi tevékenység végzésére eredetileg megbízást adó előzetes hozzájárulásával köthet szerződést. Az alvállalkozó a szerződés teljesítése érdekében további alvállalkozóval nem köthet szerződést.
+
+(3) A (2) bekezdésben meghatározott esetben a szerződésnek
+
+a) rögzítenie kell a megbízó hozzájárulását további vállalkozások közreműködéséhez;
+
+b) nevesítenie kell a megbízott személy- és vagyonvédelmi tevékenységet folytató vállalkozás által a szerződés teljesítése végett a továbbiakban megbízni kívánt vállalkozás nevét, székhelyét, cégjegyzékszámát, a megbízás tárgyát.
+
+(4)[^54] Ha a vállalkozás a megbízás teljesítéséhez más vállalkozás közreműködését veszi igénybe, köteles a megrendelőt tájékoztatni az általa foglalkoztatni kívánt vállalkozásról, továbbá köteles a vállalkozás nevét, székhelyét (telephelyét), cégjegyzékszámát, valamint e vállalkozás megbízás teljesítésében közreműködő tagjának nevét, címét a naplóba bejegyezni, és azt az ellenőrzést folytató rendőr rendelkezésére bocsátani.
+
+#### 14/A. §[^55]
+
+(1) Ha személy- és vagyonvédelmi tevékenységet folytató vállalkozás vagy ilyen tevékenységet végző személy a megbízás teljesítése során, távfelügyeleti rendszer alkalmazásával, ellenérték fejében távfelügyeleti tevékenységet végez, riasztás esetén köteles
+
+a) meggyőződni arról, hogy a riasztás nem a rendszer nem megfelelő üzemeltetéséből ered, valamint
+
+b) a riasztás valódiságát és kiváltó okát ellenőrizni.
+
+(2) A személy- és vagyonvédelmi tevékenységet folytató vállalkozás vagy ilyen tevékenységet végző személy az (1) bekezdésben meghatározott kötelezettsége teljesítését követően – ha ez szükséges – kezdeményezheti a rendőrség intézkedését. A személy- és vagyonvédelmi tevékenységet folytató vállalkozás vagy ilyen tevékenységet végző személy köteles a naplóba bejegyezni az (1) bekezdésben meghatározott kötelezettsége teljesítését, a kötelezettséget teljesítő személy nevét, a teljesítés idejét és módját.
+
+(3) Ha személy- és vagyonvédelmi tevékenységet folytató vállalkozás vagy ilyen tevékenységet végző személy az (1) bekezdésben meghatározott kötelezettsége teljesítése nélkül rendőrségi intézkedést kezdeményez, a rendőrség jogosult az azzal összefüggésben felmerülő – az önköltségszámítás szabályai alapján kiszámított – költségeit a tevékenységet végzővel szemben érvényesíteni.
+
+#### 15. §[^56]
+
+(1) A vállalkozás a szerződésekről a naplóban nyilvántartást vezet, és e naplót az utolsó bejegyzés napjától számított öt évig megőrzi.
+
+(2)[^57] A naplóban kell nyilvántartani a szerződést ténylegesen teljesítő személy vagy személyek nevét, a megbízó nevét, lakcímét vagy székhelyét, a 20. § alapján a fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, az igazolást kiállító háziorvos nevét és pecsétszámát.
+
+(3) A naplóban, az ahhoz kapcsolódó egyéb nyilvántartásban kiegészítés, javítás csak úgy végezhető, hogy az eredetileg rögzített szöveg olvasható maradjon.
+
+(4) A vállalkozás köteles biztosítani, hogy – a szerződéses felek érdekeinek sérelme nélkül – a rendőrség és a jogszabály alapján erre feljogosított más hatóság, illetve – a róla vezetett adatokat illetően – az érintett személy a naplót, a (3) bekezdésben meghatározott nyilvántartási okmányokat megtekinthesse.
+
+#### 16. §[^58]
+
+(1)[^59] Az e törvény hatálya alá tartozó tevékenységet végző személy hatósági jogkörrel nem rendelkezik, a hatóság eljárását nem akadályozhatja.
+
+(2)[^60] Az e törvény hatálya alá tartozó tevékenységet folytató a Magyar Honvédségre, rendvédelmi szervre, nemzetbiztonsági szolgálatra, a Nemzeti Adó- és Vámhivatalra, illetve más hatóságra utaló elnevezést, formaruhát, illetve hatósági jellegre utaló, megtévesztésre alkalmas egyéb jelzést vagy címet, rendfokozati jelzést nem használhat. E rendelkezés nem alkalmazható a Magyar Honvédség objektumai őrzésével kapcsolatos, önkéntes tartalékos által ellátott személy- és vagyonvédelmi tevékenységre.
+
+(3)[^61] Közterületen vagy nyilvános helyen az 1. § (2) bekezdés b) pontja szerinti, vagyonőrzési feladatokat ellátó személy (a továbbiakban: vagyonőr) formaruhát visel, amelyen fel kell tüntetni annak a vállalkozásnak a nevét vagy engedélyezett rövidített nevét, amellyel munkaviszonyban áll, továbbá a vagyonőr nevét és a vagyonőr megjelölést. Ha a vagyonőr egyéni vállalkozó vagy egyéni cég, és alvállalkozóként teljesít szolgálatot, a saját formaruháját vagy annak a vállalkozásnak a formaruháját is viselheti, amellyel a feladat ellátására megbízási szerződést kötött.
+
+(4)[^62] Közterületen vagy nyilvános helyen végzett tevékenység esetén az elektronikai vagyonvédelmi rendszert tervező vagy szerelő esetében – formaruha hiányában – a vállalkozás nevét vagy engedélyezett rövidített nevét, valamint az elektronikai vagyonvédelmi rendszert tervező vagy elektronikai vagyonvédelmi rendszert szerelő elnevezést kitűzőn kell megjeleníteni.
+
+#### 17. §[^63]
+
+(1) A vállalkozás a nyilvántartáson történő átvezetés céljából köteles a nyilvántartási adatokban bekövetkezett változást a tárgyhót követő hónap ötödik napjáig a rendőrségnek bejelenteni.
+
+(1a)[^64] Az (1) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az e törvény hatálya alá tartozó tevékenységet folytató vállalkozás kéri – az (1) bekezdés szerinti határidőben értesíti a rendőrséget.
+
+(2) Az adatszolgáltatásnak – az (1) bekezdés szerint szolgáltatott adatokon túl – tartalmaznia kell a tevékenységet végző személy igazolványának számát.
+
+(3) Az igazolvánnyal rendelkező személy az igazolvány adataiban, kiadásának feltételeiben bekövetkezett változást a változástól számított nyolc napon belül köteles bejelenteni a rendőrségnek.
+
+(4)[^65] Az igazolvány adataiban bekövetkező változás esetén a (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az igazolvánnyal rendelkező személy kéri – a (3) bekezdés szerinti határidőben értesíti a rendőrséget.
+
+## II. Fejezet — A VÁLLALKOZÁS ÁLTAL FOGLALKOZTATOTT EGYÉNI VÁLLALKOZÁSOKRA VONATKOZÓ RENDELKEZÉSEK
+
+#### 18. §[^66]
+
+(1)[^67] Ha az e törvény hatálya alá tartozó tevékenység folytatásával megbízott vállalkozás (a továbbiakban: fővállalkozó) e tevékenységet egyéni vállalkozó (a továbbiakban: alvállalkozó) megbízása útján kívánja ellátni, a szerződésben vállalt kötelezettségeit e fejezetben foglaltak szerint teljesítheti.
+
+(2)[^68] A fővállalkozó és a tevékenységet ténylegesen folytató alvállalkozó között megkötött szerződésben
+
+a) rögzíteni kell a fővállalkozó által foglalkoztatni kívánt alvállalkozó nevét, székhelyét, valamint az alvállalkozót tevékenysége végzésére jogosító működési engedély és igazolvány adatait (ezek számát, keltét, a kiállító hatóság nevét, címét, és – ha van – a kamarai névjegyzék vagy nyilvántartási számát);
+
+b) rendelkezni kell a fővállalkozó utasításadási jogáról, e jogosultságának tartalmáról, kereteiről és az utasításadás korlátairól.
+
+#### 19. §[^69]
+
+(1)[^70] Személy- és vagyonvédelmi tevékenységet személyesen végző természetes személy ilyen szolgáltatást – egybefüggően – legfeljebb 24 óra időtartamban nyújthat.
+
+(2) Ha a személy- és vagyonvédelmi tevékenység ellátásával megbízott fővállalkozó az általa e tevékenység tényleges ellátása érdekében foglalkoztatott alvállalkozót harminc nap időtartamot meghaladó, folyamatosan elvégzendő munka végrehajtásával bízza meg, köteles az alvállalkozó számára huszonnégy órai egybefüggő szolgáltatási idő után legalább huszonnégy óra, naptári hetenként pedig negyvennyolc óra egybefüggő pihenőidőt biztosítani.
+
+#### 20. §[^71]
+
+(1)[^72] Ha a fővállalkozó az alvállalkozót harminc nap időtartamot meghaladó, folyamatosan elvégzendő, e törvény hatálya alá tartozó tevékenység végrehajtásával bízza meg, úgy az alvállalkozót – feltéve hogy a keresőképtelen betegség tényét és a betegség időtartamát háziorvos igazolja – évi tizenkét nyolcórás munkanapnak megfelelő, összesen kilencvenhat munkaóra fizetett egészségügyi szabadság illeti meg.
+
+(2) Az (1) bekezdés szerint járó egészségügyi szabadság időtartamára a szerződésben megállapított alapóradíjat a fővállalkozó fizeti.
+
+(3) Az alvállalkozó köteles biztosítani, hogy naplójában a fővállalkozó ellenőrizze a harminc napot meghaladó, folyamatosan elvégzendő munkával kapcsolatos szerződés adatait, és bejegyezhesse a részére biztosított fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, a kifizetett óraszámot, valamint az igazolást kiállító háziorvos nevét és pecsétszámát.
+
+#### 21. §[^73]
+
+(1) A fővállalkozó az általa folyamatosan foglalkoztatott alvállalkozó javára köteles balesetbiztosítást kötni. A kötelező felelősségbiztosítási szerződést azonban mind a fővállalkozó, mind az alvállalkozó köteles a maga javára megkötni. Az alvállalkozó ez utóbbi kötelezettsége alól akkor mentesülhet, ha a fővállalkozó által megkötött felelősségbiztosítási szerződés rá is kiterjed.
+
+(2) Az e fejezetben írt szabályokat kell alkalmazni a fővállalkozó és az alvállalkozó között e fejezet rendelkezéseinek hatálybalépését megelőzően létesült és a fejezet rendelkezéseinek hatálybalépésekor még fennálló jogviszonyt érintően is.
+
+## III. Fejezet — A TEVÉKENYSÉG ELLÁTÁSÁNAK SZABÁLYAI
+
+#### 22. §
+
+(1)[^74] Az e törvény hatálya alá tartozó tevékenységet végző személyt foglalkozási (hivatásbeli) titoktartási kötelezettség terheli e tevékenység végzésének tartama alatt és annak megszűnését követően is minden olyan tényt, adatot illetően, amelyről a szerződés teljesítése során szerzett tudomást.
+
+(2)[^75] Törvény, valamint – saját adatait érintően – a megbízó és a megbízott a titoktartási kötelezettség alól felmentést adhat.
+
+(3)[^76] Az e törvény hatálya alá tartozó tevékenységet folytató a harmadik személyről a szerződés teljesítése során e törvény alapján jogszerűen tudomására jutott, a szerződés szerinti ügyben érintett személyes adatokról csak a megbízottat tájékoztathatja, kivéve, ha – figyelemmel az (1) bekezdés szerinti titoktartási kötelezettségre – bírósági vagy más hatósági eljárásban tanúként hallgatják meg.
+
+#### 24. §
+
+(1) Több megbízó érdekében a vállalkozás csak akkor járhat el, ha azok érdekei nem ellentétesek. Olyan megbízást, amely a korábbi megbízó érdekeit sértheti, csak akkor teljesíthet, ha a korábbi szerződés megszűnésétől számított három év már eltelt.
+
+(2)[^78] Az e törvény hatálya alá tartozó tevékenység személyes végzésekor a tevékenységet végző személy az igazolványát köteles magánál tartani és a hatósági ellenőrzéskor azt bemutatni.
+
+(3)[^79] Az e törvény hatálya alá tartozó tevékenységet végző személy az intézkedéssel érintett személy kérésére köteles a tevékenységére vonatkozó felhatalmazást hitelt érdemlően igazolni.
+
+### A személy- és vagyonvédelmi tevékenységet végző személyre vonatkozó szabályok[^80]
+
+#### 25. §
+
+(1)[^81] A személy- és vagyonvédelmi tevékenységet végző személy (a továbbiakban: személy- és vagyonőr) jogosultságait az e törvényben meghatározottak szerint vagy az érintett személy önkéntes hozzájárulása alapján gyakorolja.
+
+(2) Az e fejezetben meghatározott jogosultságok gyakorlása során az adott cél elérésére alkalmas eszközök közül a személyi szabadság, illetve a személyiségi jogok legkisebb korlátozásával járó eszközt kell választani.
+
+#### 26. §
+
+(1)[^82] A vagyonőr a megbízó közterületnek nem minősülő létesítményének őrzése során jogosult:
+
+a) a területre belépő vagy az ott tartózkodó személyt kiléte igazolására, a belépés, illetőleg a tartózkodás céljának közlésére, jogosultságának igazolására felhívni, ennek megtagadása vagy a közölt adatok nyilvánvaló valótlansága esetén – a megbízó eltérő rendelkezésének hiányában – az érintett belépését, ott-tartózkodását megtiltani, és távozásra felszólítani;
+
+b) a területre belépő vagy onnan kilépő személyt csomag, illetve menet-, szállítási okmány bemutatására felhívni;
+
+c) a területen tartózkodó vagy onnan kilépő személyt – a 28. § rendelkezései szerint – csomagja tartalmának, járművének, valamint a szállítmánynak bemutatására felhívni;
+
+d) a jogsértő személyt magatartása abbahagyására felhívni;
+
+e)[^83] elektronikai vagyonvédelmi rendszert alkalmazni;
+
+f)[^84] a területre belépők ellenőrzésére fegyver-, pirotechnikai eszköz-, és robbanóanyag-kutató műszert, valamint kábítószer-kereső kutyát alkalmazni, és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
+
+(2) A vagyonőr a szerződésben megjelölt ingóságot – a szerződés keretei között – az őrzött területen (létesítményen) kívül is védheti, ennek során az (1) bekezdésben meghatározott jogok illetik meg, kivéve, hogy elektronikus megfigyelőrendszert közterületen ilyenkor sem alkalmazhat.
+
+(3)[^85] Az 1. § (2) bekezdés d) pontja szerinti, rendezvénybiztosítási feladatokat ellátó személy az (1) bekezdésben meghatározottakon túl jogosult:
+
+a) zárt területen vagy helyen tartott rendezvényre belépő személyt – a rendőrség, illetve a rendezésért felelős személy intézkedése alapján, ha a szerződésből fakadó kötelezettségeit érvényesíteni más módon nem tudja – különösen a testi sérülés okozására alkalmas tárgyak bevitelének megakadályozása érdekében csomagja tartalmának bemutatására felszólítani, rajta és csomagján kizárólag fémtárgyak kimutatására alkalmas eszközt alkalmazni, ennek visszautasítása esetén a rendezvényen való részvételét megtiltani;
+
+b) a rendezvény megtartását akadályozó vagy zavaró, annak biztonságát veszélyeztető, illetve az ott jogellenesen tartózkodó személyt kilétének igazolására felszólítani, a rendezvényen való részvételét megtiltani, távozásra felszólítani, amennyiben az érintett személy ennek nem tesz eleget, és az élet- és vagyonbiztonság érdekében szükséges, a rendezvényről kivezetni;
+
+c)[^86] a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényeken rendezői feladata során a sportról szóló törvényben meghatározottak szerint, a sportrendezvényről eltávolítandó személyt visszatartani, ha az személyazonosságát felhívásra nem igazolja.
+
+(4)[^87] Az 1. § (2) bekezdés b) és c) pontja szerinti, pénz- és értékőrzési, értékszállítási, szállítmánykísérési, valamint szállítási feladatokat ellátó személy jogosult a szállítást jogtalanul akadályozó, illetve az őrzött vagy szállított érték biztonságát veszélyeztető személyt kilétének igazolására, a tevékenységét akadályozó, veszélyeztető magatartásának abbahagyására felhívni.
+
+#### 27. §
+
+(1) A személy- és vagyonőr tevékenysége gyakorlása során – e törvényben meghatározott feltételek fennállása esetén – jogosult az intézkedésében érintett személyt felhívni kilétének igazolására. Ha az általa erre felkért személy önként és hitelt érdemlően nem igazolja kilétét, a személyazonosság megállapítására – indokolt esetben – igazoltatásra jogosult hatósági személyt kérhet fel.
+
+(2)[^88] A személy- és vagyonőr jogosult a bűncselekmény és a szabálysértés elkövetésén tetten ért személyt a cselekmény abbahagyására felszólítani, a cselekmény folytatását megakadályozni, az elkövetőt elfogni és a birtokában lévő, bűncselekményből származó vagy annak elkövetéséhez használt dolgot, illetve támadásra alkalmas eszközt elvenni. Köteles azonban az elfogott személyt haladéktalanul az ügyben eljárni jogosult nyomozó hatóságnak átadni, ha erre nincs módja, e szervet nyomban értesíteni. Így kell eljárni a tetten ért személytől elvett dolgokat illetően is.
+
+(3) A személy- és vagyonőr arányos mérvű kényszerítő testi erő alkalmazásával
+
+a) a védett személy biztonságát fenyegető támadást elháríthatja;
+
+b) a védett létesítménybe, területre való jogosulatlan belépést megakadályozhatja, a jogosulatlanul bent tartózkodót onnan eltávolíthatja;
+
+c) a rendezvényt zavaró vagy annak biztonságát veszélyeztető személyt a rendezvényről eltávolíthatja;
+
+d) a pénz- és értékszállítást jogtalanul akadályozó személyt eltávolíthatja, illetve a szállítmány biztonságát fenyegető támadást elháríthatja.
+
+(4)[^89] A személy- és vagyonőr a feladata ellátása során vegyi eszközt (gázsprayt), gumibotot, őrkutyát, valamint – az erre vonatkozó jogszabályok rendelkezései szerint – lőfegyvert tarthat magánál és azokat csak jogos védelmi helyzetben, illetve végszükség esetén alkalmazhatja.
+
+(5)[^90] Közterületen őrkutyát igénybe vevő személy- és vagyonőr a tevékenységét csak a rendészetért felelős miniszter rendeletében meghatározott feltételeknek eleget tevő, engedéllyel rendelkező kutyavezető-képző iskolák által minősített (vizsgáztatott) kutyával láthatja el.
+
+#### 28. §
+
+(1)[^91] A vagyonőr a csomag tartalmának, jármű és szállítmány bemutatására a szerződésből fakadó kötelezettségei érvényesítése céljából, a tervezett intézkedése okának és céljának közlése mellett akkor hívhat fel, ha
+
+a) megalapozottan feltehető, hogy az érintett bűncselekményből vagy szabálysértésből származó olyan dolgot tart magánál, amelynek őrzése a vagyonőrnek szerződésből fakadó kötelezettsége;
+
+b) e dolgot a felszólítás ellenére sem adja át; és
+
+c) az intézkedés a jogsértő cselekmény megelőzése, megszakítása érdekében szükséges.
+
+(2)[^92] A közönség számára nyilvános magánterület védelme esetén a vagyonőr – jól látható helyen, jól olvashatóan, a területen megjelenni kívánó harmadik személyek tájékozódását elősegítő módon – köteles figyelemfelhívó jelzést, ismertetést elhelyezni
+
+a) a 26. § (1) bekezdésben meghatározott intézkedésekről, azok lehetőségéről;
+
+b) a területre bevinni tilos tárgyakról, azok jellegéről;
+
+c) arról a tényről, hogy az adott területen elektronikus megfigyelőrendszert alkalmaznak (térfigyelés);
+
+d)[^93] az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről;
+
+e)[^94] a vagyonőr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
+
+#### 29. §
+
+(1)[^96]
+
+(2) Ha a megbízó meghatározott dolgoknak a közterületnek nem minősülő létesítményébe, területére, illetve zárt területen vagy helyen tartott rendezvényére való bevitelét megtiltja, biztosítani kell ezen dolgok biztonságos és harmadik személytől elzárt tárolását.
+
+#### 30. §
+
+(1)[^97]
+
+(2)[^98] A vagyonőr elektronikus megfigyelőrendszert kizárólag magánterületen alkalmazhat.
+
+(3) Nem alkalmazható elektronikus megfigyelőrendszer olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, próbafülkében, mosdóban, illemhelyen, kórházi szobában és szociális intézmény lakóhelyiségében.
+
+(4)[^99]
+
+#### 31. §[^100]
+
+Az elektronikus megfigyelőrendszer működése útján rögzített kép-, hang-, valamint kép- és hangfelvétel megismerésének okát és idejét, valamint a megismerő személyét jegyzőkönyvben kell rögzíteni. Az ezen adatokat igazolható módon tartalmazó elektronikus nyilvántartás is jegyzőkönyvnek minősül.
+
+#### 31/A. §[^101]
+
+(1) A pénzügyi szolgáltatást, kiegészítő pénzügyi szolgáltatást folytatók létesítményének védelme céljából a létesítményen kívül – a 26. § (2) bekezdésnek megfelelően – rögzített kép-, hang-, valamint kép- és hangfelvételt a vagyonőr – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+
+(2) Az (1) bekezdés szerinti kép-, hang-, valamint kép- és hangfelvételt rögzítő vagyonőr jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval.
+
+(3) Az (1) bekezdés szerinti kép-, hang-, valamint kép- és hangfelvételt felhasználás hiányában a rögzítéstől számított harminc nap elteltével meg kell semmisíteni, illetve törölni kell.
+
+(4) Az (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvétel
+
+a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+
+b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
+
+c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
+
+d) körözött személy vagy tárgy azonosítása érdekében
+
+is felhasználható.
+
+(5) Felhasználásnak minősül, ha az (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt a vagyonőr a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (4) bekezdésben meghatározott célból.
+
+#### 32. §[^102]
+
+Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján és akkor alkalmazható, ha jogszabály vagy a terület használatára jogosult rendelkezése szerint a védett területre csak az arra jogosultak léphetnek be.
+
+### A magánnyomozóra vonatkozó szabályok
+
+#### 34. §[^104]
+
+(1) A magánnyomozó a szerződés teljesítése érdekében
+
+a) adatot gyűjthet, felvilágosítást kérhet;
+
+b) az igazolvány bemutatását követően – külön jogszabályokban foglaltak szerint – az ingatlan-nyilvántartásban, az egyéni vállalkozók nyilvántartásában és a cégnyilvántartásban nyilvántartott adatokról kivonatot, másolatot készíthet, ha arra a megbízó kifejezetten felhatalmazta. A megbízó felhatalmazása alapján a polgárok személyi adatainak és lakcímének nyilvántartásából és a közúti közlekedési nyilvántartásból adatszolgáltatást kérhet, ha erre a személyes eljárása esetén a megbízó is jogosult, feltéve, hogy annak szolgáltatását az érintett nem tiltotta meg vagy nem kifogásolta vagy a minősített adat védelméről szóló törvény másként nem rendelkezik;
+
+c)[^105] kép- és hangfelvételt a kötelezettségeit meghatározó szerződés keretei között, a személyes adatok védelmére és a személyiségi jogokra vonatkozó szabályok megtartásával készíthet, illetve használhat fel;
+
+d) a más részére szóló zárt küldemény tartalmát csak a címzett vagy a feladó előzetes hozzájárulásával ellenőrizheti.
+
+(2) Nem készíthető kép- és hangfelvétel olyan helyen, ahol a megfigyelés az emberi méltóságot sértheti, így különösen öltözőben, próbafülkében, mosdóban, illemhelyen, kórházi szobában és szociális intézmény lakóhelyiségében.
+
+#### 35. §
+
+A magánnyomozás nem irányulhat
+
+a) diplomáciai, konzuli képviseletek, az ezekkel egy tekintet alá eső nemzetközi szervezetek, valamint azok tagjai tevékenységére;
+
+b)[^106] a Büntető Törvénykönyvről szóló törvény szerinti hivatalos és külföldi hivatalos személy hivatalos tevékenységére;
+
+c)[^107]
+
+## IV. Fejezet — A SZEMÉLY-, VAGYONVÉDELMI ÉS MAGÁNNYOMOZÓI SZAKMAI KAMARA
+
+#### 36. §
+
+(1)[^108] A kamara az e törvény hatálya alá tartozó tevékenység folytatására jogosult, a kamarai tagságot önként vállaló természetes személyek önkormányzattal rendelkező, közfeladatot és általános szakmai érdekképviseleti feladatokat ellátó köztestülete, amely – az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben írt feltételek szerint – közhasznú szervezetté minősíthető.
+
+(2) A kamara a feladatait
+
+a)[^109] a megyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
+
+b) országos szervezete
+
+útján látja el.
+
+(3)[^110] Területi szervezetet több megye közösen is létrehozhat. Ez esetben az érintett megyékben külön megyei szervezetek nem hozhatók létre.
+
+(4) A kamara területi szervezetei, valamint országos szervezete jogi személyek.
+
+(5)[^111] Az országos szervezet székhelye Budapest. A területi szervezet elnevezésében utalni kell annak illetékességi területére.
+
+#### 37. §[^112]
+
+(1) A kamara tagjai önkormányzati jogaikat e törvénynek és a kamara alapszabályának megfelelően gyakorolják.
+
+(2) A kamara alapszabályában meg kell határozni
+
+a) a kamara nevét és székhelyét;
+
+b) a kamara szervezetére és működésére vonatkozó szabályokat;
+
+c) a testületi szervek, valamint a tisztségviselők feladat- és hatáskörére, választásuk módjára, megbízatásuk időtartamára vonatkozó szabályokat;
+
+d) a kamara gazdálkodására vonatkozó alapvető szabályokat;
+
+e) mindazt, amiben e törvény az alapszabály rendelkezését írja elő.
+
+### A kamara feladatai
+
+#### 38. §[^113]
+
+(1) A kamara
+
+a)[^114] az e törvény hatálya alá tartozó tevékenységgel összefüggő ügyekben képviseli és védi a személy- és vagyonvédelmi, a tervező-szerelő, valamint a magánnyomozói szakma tekintélyét, a kamara testületeinek és tagjainak általános szakmai érdekeit;
+
+b)[^115] megalkotja a kamara alapszabályát, közreműködik az e törvény hatálya alá tartozó tevékenységek gyakorlásának szakmai irányelvei, továbbá a szolgáltatások teljesítésének szakmai követelményeire vonatkozó ajánlások kidolgozásában;
+
+c)[^116] véleményt nyilvánít az e törvény hatálya alá tartozó tevékenységeket érintő jogszabályokról, kezdeményezi jogszabályok kiadását;
+
+d)[^117] az e törvény hatálya alá tartozó tevékenység végzésére jogosító, külön jogszabályban meghatározott szakképesítések tekintetében a rendészetért felelős miniszterrel kötött megállapodás alapján kidolgozza és gondozza a szakmai és vizsgakövetelményt, a szakmai minősítő rendszert, közreműködik a szakképzésben és a vizsgáztatásban, valamint javaslatot tesz az állam által elismert szakképesítésre, a szakmai vizsgaszabályzatra, a szakmai vizsga szervezését engedélyező, valamint a vizsgaszervezési tevékenységek ellenőrzése során szakértőként kirendelhető személyekre;
+
+e)[^118] megalkotja a kamara etikai szabályait;
+
+f) etikai eljárást folytat le az etikai szabályokat megszegő tagokkal szemben;
+
+g)[^119] az információs önrendelkezési jogról és az információszabadságról szóló törvénynek adatvédelmi szabályai megtartásával a természetes személy tagjairól névjegyzéket, a vállalkozásokról nyilvántartást vezet a kamarai tagság vagy nyilvántartási kötelezettség megszűnéséig vagy megszüntetéséig, és ezekről – személyazonosításra alkalmatlan módon – statisztikai adatokat szolgáltat;
+
+h) tagjai, valamint az általa nyilvántartott vállalkozások tevékenységéhez kapcsolódó konferenciákat, kiállításokat, vásárokat és más rendezvényeket szervez, önkormányzati szabályzatának megfelelően minősíti és felügyeli tagjai vásári, kiállítási megjelenését, tevékenységét;
+
+i) hazai és nemzetközi szakmai és jogi információkat gyűjt és ezekről tájékoztatást ad tagjainak, az általa nyilvántartott vállalkozásoknak, illetve tagjai és a nyilvántartott vállalkozások érdekében más személyeknek;
+
+j) kapcsolatot tart az illetékes gazdasági kamarákkal, továbbá a hasonló jellegű hazai és külföldi szakmai kamarákkal és szövetségekkel;
+
+k) kezdeményezi szabványok kiadását;
+
+l)[^120] valamennyi személy- és vagyonőr tekintetében elbírálja az Erfesztv. 22. § (4) bekezdés a) pontja szerinti panaszt,
+
+m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
+
+n)[^121] kormányrendeletben meghatározott eljárásrendben részt vesz a Kormány minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
+
+o)[^122]
+
+(2)[^123] Az (1) bekezdés g) pontja szerinti névjegyzékből és nyilvántartásból adattovábbításra irányuló kérelmet teljesíteni nem lehet.
+
+(3)[^124] Ha a kamara a 38. § (1) bekezdés d) pontjában meghatározott feladatát nem tudja ellátni, a rendészetért felelős miniszter intézkedik a feladat visszavételéről.
+
+(4)[^125] Az (1) bekezdés g) pontja szerinti névjegyzékben és nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
+### A kamarai tagsági viszony
+
+#### 39. §[^126]
+
+(1)[^127] Az e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító igazolvánnyal rendelkező személy kérheti a kamarába történő felvételét. A kérelmező személy a tagfelvételéről szóló kamarai határozat véglegessé válásának napjától a lakóhelye szerint illetékes területi szervezet tagja.
+
+(2) A kamarában minden természetes személy – igazolványai számától függetlenül – csak egy tagsággal rendelkezhet.
+
+(3)[^128] A több igazolvánnyal rendelkező természetes személy kamarai tagfelvételi kérelmében nyilatkozik arról, hogy melyik igazolványa alapján kívánja a kamarai tagsággal járó jogait gyakorolni, illetve kötelességeit teljesíteni. Ez a nyilatkozat a kamara alapszabályában meghatározott időszakonként megváltoztatható.
+
+(4)[^129] A kamara tagja a (3) bekezdés szerinti nyilatkozatát a kamara alapszabályában meghatározott időszak eltelte előtt is megváltoztathatja, ha a tagságának fennállása alatt új tevékenység végzésére jogosító igazolványt szerez vagy a korábbi nyilatkozatában megjelölt tevékenységét bármely okból megszünteti vagy szünetelteti, de rendelkezik más, e törvény hatálya alá tartozó tevékenység végzésére jogosító igazolvánnyal.
+
+(5)[^130] A többes tagság elkerülésének, valamint a (3) és (4) bekezdés szerinti nyilatkozat megtételének részletes szabályait az e törvényben írtak figyelembevételével a kamara alapszabálya határozza meg.
+
+#### 40. §[^131]
+
+(1)[^132] A kamarának az a tagja, aki az e törvény hatálya alá tartozó valamennyi tevékenységét szünetelteti, írásban kérheti kamarai tagságának szüneteltetését.
+
+(2)[^133] A kamarai tagság szüneteltetésének időtartama legfeljebb két év lehet.
+
+#### 41. §[^134]
+
+(1) A kamarai tagság szünetel a természetes személy valamennyi igazolványának bevonása esetén.
+
+(2) A kamarai tagság szünetelése annak indokoltsága fennállásáig tart, amely a két évet is meghaladhatja.
+
+#### 42. §[^135]
+
+(1)[^136] A kamarai tagság felfüggesztése, szüneteltetése vagy szünetelése alatt a tag a tagsági viszonyából eredő jogokat nem gyakorolhatja és a tagsággal járó kötelezettségek nem terhelik.
+
+(2) A kamarai tagság szüneteltetésének, illetve szünetelésének részletes szabályait a kamara alapszabálya határozza meg.
+
+#### 43. §[^137]
+
+A kamarai tagság megszűnik, ha
+
+a) a kamara tagja meghal;
+
+b) a rendőrség a kamara tagjának valamennyi igazolványát visszavonja;
+
+c)[^138] a kamara tagja a kamarai tagságáról lemond;
+
+d) a kamara a tagját etikai eljárás lefolytatása során kizárja;
+
+e) a kamarai tagság szüneteltetésének időtartama a két évet elérte és a tag – felszólítás ellenére – nem intézkedett kamarai tagságának folytatásáról vagy megszüntetéséről;
+
+f) a kamara tagja tagdíjfizetési kötelezettségét írásbeli felszólítás ellenére nem teljesítette, és ezért a kamara tagnyilvántartásából törölte, és erről a tagot értesítette.
+
+### A kamara tagjának jogai és kötelességei
+
+#### 44. §[^139]
+
+(1) A kamara tagjának joga van arra, hogy
+
+a) szavazati joggal részt vegyen a területi szervezet küldöttválasztó gyűlésén, illetőleg közgyűlésén;
+
+b) részt vegyen a területi szervezet küldötteinek megválasztásában, továbbá arra, hogy – feltéve, ha e törvény eltérően nem rendelkezik – tisztségviselőnek vagy küldöttnek megválasszák;
+
+c) igénybe vegye a kamara szolgáltatásait;
+
+d) a kamara tisztségviselőitől a kamara működéséről érdemi felvilágosítást kérjen;
+
+e) az alapszabályt sértő határozat felülvizsgálatát kezdeményezze a felügyelőbizottságnál.
+
+(2) A kamara tagjának kötelessége, hogy
+
+a) megtartsa a kamara alapszabályában foglalt rendelkezéseket;
+
+b) megfizesse a kamarai tagdíjat;
+
+c)[^140]
+
+d) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályoknak megfelelően járjon el.
+
+### A vállalkozások nyilvántartása; a vállalkozás jogai és kötelezettségei
+
+#### 45. §[^141]
+
+(1)[^142] Az e törvény hatálya alá tartozó tevékenységet folytató vállalkozást – kérelmére – a kamara nyilvántartásba veszi.
+
+(2)[^143] A kamara által az (1) bekezdés alapján nyilvántartásba vett vállalkozás köteles a kamara alapszabályában megállapított nyilvántartási díjat fizetni.
+
+(3) A vállalkozás jogosult
+
+a) tanácskozási, illetve javaslat- és indítványtételi joggal részt venni a kamara döntéseinek meghozatalában;
+
+b) a kamara által szervezett konferenciákon, kiállításokon, vásárokon és más rendezvényeken részt venni;
+
+c) a kamara által ismert hazai és nemzetközi szakmai és jogi információkról tájékoztatást kérni;
+
+d) az alapszabályt sértő határozat felülvizsgálatát kezdeményezni a felügyelőbizottságnál.
+
+(4)[^144] Az (1) bekezdés alapján nyilvántartásba vett vállalkozás, amely az e törvény hatálya alá tartozó valamennyi tevékenységét szünetelteti, írásban kérheti a kamarai nyilvántartásban szereplésének felfüggesztését. Erre az esetre a kamarai tagság szüneteltetésének szabályai irányadók.
+
+(5)[^145] A 11. § (1) bekezdés b) pontjában meghatározott tartam alatt az (1) bekezdés alapján nyilvántartásba vett vállalkozás a tagsági viszonyából eredő jogokat nem gyakorolhatja, és nyilvántartási díj-fizetési kötelezettség nem terheli.
+
+(6) A kamara a vállalkozást a nyilvántartásból törli és erről a vállalkozást értesíti, ha
+
+a) a nyilvántartási díjat az írásbeli figyelmeztetés ellenére sem fizeti meg;
+
+b)[^146] a tevékenység végzésére való jogosultsága az e törvényben meghatározott okból – a 11. § (1) bekezdés b) pontjában foglalt ok kivételével – megszűnt;
+
+c)[^147] a (4) bekezdés szerinti felfüggesztés tartama a két évet elérte, és a vállalkozás – felszólítás ellenére – nem intézkedett a kamarai nyilvántartás folytatásáról vagy a nyilvántartásba vétel megszüntetéséről.
+
+### A kamara szervezete és működése
+
+#### 46. §[^148]
+
+(1) Az országos szervezet a küldöttgyűlésből, az elnökségből, a felügyelőbizottságból, valamint az etikai bizottságból áll.
+
+(2) A kamara legfőbb képviseleti szerve a területi szervezetek küldötteiből álló országos küldöttgyűlés.
+
+(3) A küldöttek számát az alapszabály határozza meg.
+
+(4) Az (1) bekezdésben felsorolt szerveken kívül az alapszabályban meghatározott más szerv is létrehozható.
+
+#### 47. §[^149]
+
+(1) Nem választható küldötté, és a kamarában tisztséget nem viselhet a köztisztviselő, a kormánytisztviselő, valamint a 3. § (1) bekezdésében megjelölt más személy.
+
+(2) A kamarában nem választott tisztséget nem tölthet be az a személy, aki tagja valamely, e törvény hatálya alá tartozó tevékenységet folytató vállalkozásnak, vagy ilyen tevékenységet egyéni vállalkozóként folytat.
+
+(3) Választott tisztséget csak az tölthet be, aki a választás előtt a tagság számára nyilvánossá teszi, hogy mely, e törvény hatálya alá tartozó tevékenységet folytató vállalkozásnak tagja, vezető tisztségviselője vagy folytat-e ilyen tevékenységet egyéni vállalkozóként.
+
+#### 48. §[^150]
+
+(1) Választásra a kamara tagja jogosult.
+
+(2) A területi szervezet megválasztott elnöke küldöttként vesz részt az országos küldöttgyűlésen.
+
+(3) Az országos szervezetben elnöknek, alelnöknek, elnökségi tagnak és az e törvény szerint megválasztandó bizottság elnökének csak országos küldött választható.
+
+(4) A területi szervezetben elnöknek, alelnöknek, elnökségi tagnak és az e törvény szerint megválasztandó bizottság elnökének csak területi küldött választható.
+
+#### 49. §[^151]
+
+(1) A felügyelőbizottság, az etikai bizottságok és a pénzügyi ellenőrző bizottságok tagjainak azok a kamarai tagok választhatók, akik országos, illetve területi küldöttnek is megválaszthatók. A felügyelőbizottság, az etikai és a pénzügyi ellenőrző bizottságok tagjai megbízatásuk ideje alatt más tisztségeket nem tölthetnek be.
+
+(2) Tisztségviselő egyszerre legfeljebb egy országos és egy területi tisztséget tölthet be.
+
+#### 50. §[^152]
+
+(1) Az országos küldöttgyűlés kizárólagos hatáskörébe tartozik:
+
+a) a kamara alapszabályának, etikai szabályzatának és más önkormányzati szabályzatának megalkotása és módosítása;
+
+b) a kamara éves költségvetésének meghatározása és az éves beszámoló (mérleg) elfogadásáról való döntés;
+
+c) titkos szavazással a kamara elnökének (alelnökének vagy alelnökeinek), az elnökség, az etikai és a felügyelőbizottság tagjainak (a továbbiakban együtt: tisztségviselők) továbbá más, az alapszabály alapján titkos szavazással létrehozható bizottság tagjainak megválasztása és visszahívása;
+
+d) a tagdíjfizetés elveinek, a kamarai tagsági díj, továbbá a vállalkozás által fizetendő nyilvántartási díj mértékének megállapítása az alapszabályban meghatározott módon és keretek között;
+
+e) a területi szervezetek tagjai által fizetett tagsági díjból és a nyilvántartási díjból az országos szervezetnek járó rész meghatározása.
+
+(2) Az országos küldöttgyűlést az elnök évenként legalább egy alkalommal, továbbá akkor köteles összehívni, ha a küldöttek legalább egyötöde vagy a felügyelőbizottság – az ok és cél megjelölésével – írásban kéri.
+
+(3) Az alapszabály az országos küldöttgyűlés összehívásának más eseteit is előírhatja, illetve az elnökön kívül más személyt is feljogosíthat annak összehívására.
+
+(4) Az országos küldöttgyűlés akkor határozatképes, ha azon a küldöttek több mint fele jelen van. A határozatképtelenség miatt megismételt küldöttgyűlés az eredeti napirendben szereplő ügyekben akkor határozatképes, ha azon a küldöttek több mint egynegyede jelen van.
+
+(5) Az országos küldöttgyűlés határozatait a jelen lévő küldöttek szavazattöbbségével hozza. Az alapszabály elfogadásához vagy módosításához, a kamara éves költségvetésének meghatározásához, az éves beszámoló (mérleg) elfogadásához a jelen lévő küldöttek kétharmados szavazattöbbségével meghozott határozata szükséges.
+
+(6) Az országos küldöttgyűlés összehívására, lefolytatására, határozatainak meghozatalára vonatkozó részletes szabályokat a kamara alapszabálya állapítja meg.
+
+#### 51. §[^153]
+
+(1) A kamara elnöksége az alapszabályban meghatározott számú tagból álló testületi szerv. Az elnökség feladata a kamara működésének irányítása a küldöttgyűlések közti időszakban.
+
+(2) Az elnökség összehívására, működésére, határozatainak meghozatalára vonatkozó szabályokat a kamara alapszabálya állapítja meg.
+
+#### 52. §[^154]
+
+(1) A bizottságok testületi szervként, a maguk által összeállított ügyrend szerint működnek.
+
+(2) A bizottság ülései határozatképesek, ha azon a bizottság tagjainak többsége jelen van.
+
+(3) A bizottságok évenként kötelesek tevékenységükről beszámolni a küldöttgyűlésnek.
+
+#### 53. §[^155]
+
+(1) A felügyelőbizottság azt vizsgálja, hogy a kamara tevékenysége, gazdálkodása megfelel-e a jogszabályoknak, a kamara alapszabályának és a kamara más önkormányzati szabályzatainak.
+
+(2) A felügyelőbizottság a kamara tisztségviselőitől, tagjaitól és ügyintéző szervezetétől minden olyan adatot, tájékoztatást megkérhet és minden olyan iratot megtekinthet, amely a feladatának ellátásához szükséges. A felügyelőbizottság tevékenységét a kamara tagjai támogatni kötelesek.
+
+(3) A küldöttgyűlés az elnökség beszámolójáról, a kamara költségvetéséről (pénzügyi tervéről) és éves beszámolójáról csak a felügyelőbizottság véleményének ismeretében dönthet.
+
+(4) Ha a felügyelőbizottság megállapítja, hogy a kamara valamely szervének vagy tisztségviselőjének tevékenysége, működése, továbbá az általuk elkészített jelentés, pénzügyi terv, éves beszámoló nem felel meg a jogszabályoknak, a kamarai alapszabálynak vagy a kamara egyéb önkormányzati szabályzatainak, felhívja az elnökséget a szükséges intézkedés megtételére.
+
+(5) Ha az elnökség nem tesz eleget a felhívásnak, a felügyelőbizottság kezdeményezi a küldöttgyűlés összehívását.
+
+(6) A felügyelőbizottság tagjai részére feladataik ellátása körében utasítás nem adható.
+
+(7) Nem választható a felügyelőbizottság tagjának:
+
+a) az elnökség tagja;
+
+b) a kamara ügyintéző szervezetében dolgozó, a kamarával munkaviszonyban álló személy;
+
+c) az *a)* vagy *b)* pontban említett személy közeli hozzátartozója és élettársa.
+
+#### 54. §[^156]
+
+(1)[^157] A kamara tisztségviselői a kamara elnöke, alelnökei, az országos elnökség tagjai, a felügyelő-, valamint az etikai bizottság elnökei és tagjai, akiket az alapszabályban meghatározott módon és létszámban titkos szavazással választanak.
+
+(2)[^158] A területi szervezet tisztségviselői a területi szervezet elnöke, az elnökség tagjai, az etikai és a pénzügyi ellenőrző bizottságok elnökei és tagjai, akiket a területi küldöttgyűlés az alapszabályban meghatározott módon és létszámban titkos szavazással választ.
+
+(2a)[^159] A kamara, valamint a területi szervezet tisztségviselőit 5 évre választják.
+
+(3) A kamara tisztségviselőire vonatkozó részletes szabályokat az alapszabály határozza meg.
+
+#### 54/A. §[^160]
+
+A kamara és a területi szervezet az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+
+### A területi szervezet
+
+#### 55. §[^161]
+
+(1) A területi szervezet illetékességi területén ellátja a jogszabályban és az alapszabályban hatáskörébe utalt kamarai feladatokat.
+
+(2) A területi szervezet képviseleti, ügyintéző szervekkel, továbbá etikai bizottsággal, pénzügyi ellenőrző bizottsággal, valamint önálló költségvetéssel rendelkezik.
+
+(3) A területi szervezet képviseleti szerve a tagok által választott küldöttekből álló területi küldöttgyűlés. Amennyiben a tagok száma a kétszáz főt nem éri el, a küldöttgyűlés feladatait a közgyűlés látja el, a küldöttek jogai és kötelességei értelemszerűen a tagokra vonatkoznak.
+
+(4) A területi küldöttgyűlés
+
+a) meghatározza a területi szervezet önkormányzati és működési szabályait e törvény és az alapszabály keretei között;
+
+b) dönt a területi szervezet éves költségvetéséről és az éves beszámoló (mérleg) elfogadásáról;
+
+c) titkos szavazással megválasztja a területi szervezet elnökét, alelnökét, az elnökség alapszabályban meghatározott számú tagját, az etikai, a pénzügyi ellenőrző és a felvételi bizottság elnökét és tagjait, illetve dönt a velük szemben benyújtott visszahívási indítványról;
+
+d) megválasztja az országos küldöttgyűlés küldötteit.
+
+(5) A területi küldöttgyűlés összehívására, a határozathozatalra és a választásra az országos küldöttgyűlés szabályai irányadók.
+
+#### 56. §[^162]
+
+(1) Az alapszabály a kamarán belül a képviselt szakmáknak megfelelően tagozatokat hozhat létre.
+
+(2) A tagozatok feladatait és működését az alapszabály határozza meg.
+
+### Etikai szabályok
+
+#### 57. §[^163]
+
+(1) Etikai vétséget követ el az a tag, aki
+
+a) az etikai szabályzat előírásaival ellentétes magatartást tanúsít;
+
+b) e törvény hatálya alá tartozó tevékenységet oly módon gyakorolja, amely alkalmas arra, hogy a szakma jó hírnevét, továbbá munkáltatója vagy az általa folytatott tevékenység végzésére megbízó, illetve harmadik személy személyhez fűződő jogait sértse.
+
+(2) Az etikai eljárás lefolytatásának nem akadálya, ha ugyanabban az ügyben állami szervek is eljárást folytatnak.
+
+#### 58. §[^164]
+
+(1) Etikai eljárás indítását bárki kezdeményezheti. Az eljárás megindításáról a kamara elnöke dönt, és erről az eljárás alá vont személyt haladéktalanul értesíti.
+
+(2) Az etikai eljárás megindítására csak etikai vétség gyanúja esetén kerülhet sor. Nem indítható etikai eljárás, ha azt a kamara elnöke az etikai vétség tudomására jutásától számított három hónapon, vagy a cselekmény elkövetésétől számított egy éven belül nem indította meg.
+
+(3) Az eljárás alá vont személy az eljárás során képviselőt vehet igénybe, a bizonyítékokat megismerheti, nyilatkozatot tehet, az iratokba betekinthet, azokról másolatot kérhet, a tanúkhoz és a szakértőkhöz kérdést intézhet, bizonyítási indítványt terjeszthet elő, az eljárási cselekményeknél jelen lehet.
+
+(4) Az etikai bizottság által kitűzött tárgyalásra az eljárás alá vont személyt meg kell idézni, és egyben tájékoztatni kell a meg nem jelenés következményeiről.
+
+(5) Az etikai bizottság tagjaként az eljárásban és a döntéshozatalban nem vehet részt az eljárás alá vont személy hozzátartozója és aki az eljárásban mint tanú, szakértő vagy tolmács vesz részt, valamint akitől az ügy tárgyilagos megítélése nem várható el.
+
+(6) Az etikai bizottság tagja a kizárási ok fennállását köteles haladéktalanul bejelenteni. Ezt követően az eljárásban nem vehet részt.
+
+(7) A kamara bármely tagja bejelenthet olyan okot, amely az etikai bizottság tagjának elfogulatlanságát kétségessé teszi. A bejelentés alapján a kizárás kérdésében az etikai bizottság dönt, a bizottság döntéséig a kizárási okkal érintett személy az eljárásban részt vehet, kivéve a kizárásáról való döntés meghozatalát.
+
+(8) Az etikai bizottság az eljárás során írásbeli, indoklással ellátott határozatot hoz, amelyet a meghozataltól számított három napon belül az eljárás alá vont személy és a bejelentő részére megküld, a határozattal érintett más személy részére pedig kérésére megküldhet.
+
+(9) Az etikai bizottság tagjai eljárásuk során nem utasíthatók és döntéseikkel kapcsolatban nem vonhatók felelősségre.
+
+#### 59. §[^165]
+
+(1) A tag etikai vétsége esetében alkalmazható intézkedések:
+
+a) írásbeli figyelmeztetés;
+
+b) tisztségből való visszahívás kezdeményezése;
+
+c) pénzbírság;
+
+d) a tagság 1–6 hónapig terjedő időre szóló felfüggesztése;
+
+e) a kamarából való kizárás.
+
+(2) A kamarából kizárt tag a kizárástól számított két éven belül nem létesíthet új kamarai tagsági jogviszonyt.
+
+(3) A kamara tagjával szemben legfeljebb a kötelező legkisebb munkabér (minimálbér) összegének ötszöröséig terjedő pénzbírság szabható ki. A pénzbírság összege a kamarát illeti meg.
+
+#### 60. §[^166]
+
+(1) A kamara etikai szabályait, az etikai vétségeket és az etikai eljárás részletes szabályait a kamara etikai szabályzata rögzíti.
+
+(2) Az etikai bizottság által lefolytatott eljárásban hozott határozat ellen a kézbesítéstől számított 15 napon belül a bejelentő, az etikai eljárás alá vont, valamint más, a határozattal érintett személy – az etikai szabályzatban foglaltaknak megfelelően – halasztó hatályú fellebbezéssel élhet.
+
+(3)[^167]
+
+### Törvényességi felügyelet
+
+#### 61. §[^168]
+
+(1)[^169] A kamara felett a rendészetért felelős miniszter törvényességi felügyeletet gyakorol.
+
+(2)[^170] Az e törvény alapján gyakorolt törvényességi felügyelet nem terjed ki olyan ügyre, amelyben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+
+(3)[^171] A rendészetért felelős miniszter törvényességi felügyeleti jogkörében ellenőrzi, hogy
+
+a) az alapszabály és a kamara egyéb önkormányzati szabályzatai megfelelnek-e a jogszabályoknak,
+
+b) a kamara szerveinek határozatai nem sértik-e a jogszabályokat, az alapszabályt és az egyéb önkormányzati szabályzatokat,
+
+c) a kamara működése megfelel-e a jogszabályoknak, az alapszabálynak és az egyéb önkormányzati szabályzatoknak.
+
+(4)[^172] Ha a rendészetért felelős miniszter az ellenőrzés során szabálytalanságot tapasztal, a törvényesség helyreállítására – határidő megjelölése mellett – felhívja a kamara elnökét.
+
+#### 62. §[^173]
+
+(1)[^174]
+
+(2)[^175]
+
+(3)[^176] Nem rendelhető ki felügyelőbiztosként a köztisztviselő, a kormánytisztviselő, szolgálati viszonya fennállása alatt a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, továbbá a rendőrség személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet érintő hatósági feladatok ellátásában közreműködő nem hivatásos állományú munkatársa.
+
+(4)[^177]
+
+(5)[^178]
+
+### A személy- és vagyonőr intézkedésével szembeni panasz elbírálása[^179]
+
+#### 62/A. §[^180]
+
+(1)[^181] Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt – ha a panasszal érintett intézkedés során e törvény szerinti kényszerítő eszköz alkalmazására került sor – az intézkedés helye szerint illetékes, az alapszabályban meghatározott területi szervezet bírálja el harmincöt napon belül a közigazgatási hatósági eljárás szabályai szerint.
+
+(2)[^182] Az (1) bekezdés szerinti panasz elbírálására irányuló eljárásban az elsőfokú döntés ellen fellebbezésnek van helye. A fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.
+
+## V. Fejezet — FELÜGYELETI BÍRSÁG
+
+#### 63. §[^183]
+
+(1)[^184] A rendőrség felügyeleti bírsággal sújthatja azt, aki a személy- és vagyonvédelmi, illetve magánnyomozói tevékenységet (ideértve a magánnyomozó tevékenység szervezését és irányítását is) személyes végzésre jogosító igazolvány nélkül végzi, továbbá aki az e törvényben meghatározott tevékenység végzésére jogosító szabályokat megszegi, valamint azt a vállalkozást, amely az e törvény hatálya alá tartozó tevékenységet jogosulatlanul végzi, továbbá a tevékenységre vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsérti.
+
+(2) Az (1) bekezdés alkalmazásában a vállalkozás jogosulatlanul végzi tevékenységét, ha azt
+
+a) működési engedély hiányában folytatja;
+
+b) a működési engedély kiadásához szükséges feltételek hiányában folytatja;
+
+c)[^185] olyan vállalkozással vagy természetes személlyel végezteti, aki a tevékenység végzésére nem jogosult;
+
+d)[^186] az 5/A. § (3) bekezdés szerinti bejelentés hiányában folytatja.
+
+(3)[^187] A felügyeleti bírságot a rendőrségnek a határozatában megjelölt számlájára kell befizetni.
+
+(4)[^188] Ha az egyéni vállalkozóval szemben mind a felügyeleti bírság, mind a jogosulatlan személy- és vagyonvédelmi tevékenység szabálysértése miatti bírság kiszabásának feltételei fennállnak, kizárólag a felügyeleti bírság megállapítására irányuló eljárásnak van helye.
+
+#### 64. §[^189]
+
+(1)[^190] Az e törvényben meghatározott tevékenységet személyesen végzőkkel szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér (minimálbér) fele, legnagyobb összege a kötelező legkisebb munkabér kétszerese. A vállalkozással szemben kiszabható felügyeleti bírság legkisebb összege a kötelező legkisebb munkabér négyszerese, legnagyobb összege a kötelező legkisebb munkabér negyvenszerese.
+
+(2) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése óta két év eltelt.
+
+(3) Ha másodfokú határozat, illetve a bíróság határozata az eljáró hatóságot új eljárás lefolytatására utasítja, a kétéves határidőt a másodfokú határozat, illetőleg a bíróság határozatának jogerőre emelkedése napjától kell számítani.
+
+(4) Ha a szabályszegés jogellenes állapot előidézésével, illetve fenntartásával valósul meg, az elévülési határidő mindaddig nem kezdődik el, amíg a jogellenes állapot fennáll.
+
+(5) Ha a szabályszegés kötelesség elmulasztásával valósul meg, az elévülési határidő azon a napon kezdődik, amikor az eljárás alá vont személy kötelezettségének még jogszerűen eleget tehetett volna.
+
+#### 65. §[^191]
+
+Az e törvényben előírt szabályok súlyos megsértésének minősül
+
+a)[^192] a 3. § (1) bekezdésében, 5. § (1) bekezdésében, 5/A. § (3) bekezdésében, a 6. § (1) bekezdésében, a 15. §-ban, a 16. § (1) bekezdésében, a 18–32. §-ban foglalt rendelkezések megszegése, valamint
+
+b)[^193] a 14. §-ban és a 16. § (2)–(4) bekezdésében meghatározott szabályoknak a hatóság figyelmeztetése ellenére történő ismételt megsértése.
+
+## VI. Fejezet[^194] — A MÁS EGT-ÁLLAMBAN ALAPÍTOTT VÁLLALKOZÁS MŰKÖDÉSÉRE, A SZABAD MOZGÁS ÉS TARTÓZKODÁS JOGÁVAL RENDELKEZŐ SZEMÉLY MAGYARORSZÁG TERÜLETÉN LETELEPEDÉS KERETÉBEN VÉGZETT SZEMÉLY- ÉS VAGYONVÉDELMI TEVÉKENYSÉGÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+
+### A más EGT-államban alapított vállalkozás működésére vonatkozó különös szabályok
+
+#### 66. §
+
+A más EGT-államban alapított és működési engedélyt szerzett, személy- és vagyonvédelmi tevékenységet folytató vállalkozásnak (a továbbiakban: EGT-vállalkozás) Magyarország területén letelepedés keretében végzett személy- és vagyonvédelmi tevékenységére e törvény rendelkezéseit a 67–68. §-ban foglalt eltérésekkel kell alkalmazni.
+
+#### 67. §
+
+(1) Az EGT-vállalkozás Magyarország területén személy- és vagyonvédelmi tevékenységét a rendőrség (2) bekezdés szerinti engedélye alapján kezdheti meg és gyakorolhatja.
+
+(2) A rendőrség az EGT-vállalkozás kérelmére magyarországi tevékenységét akkor engedélyezi, ha a kérelmező által szolgáltatott, a magyar nyelvre lefordított okiratokat megvizsgálva meggyőződik arról, hogy az EGT-vállalkozás rendelkezik olyan, más EGT-államban kiadott, érvényes és hatályos okirattal, amely a vállalkozást a személy- és vagyonvédelmi tevékenység végzésére feljogosítja.
+
+(3) A rendőrség az engedéllyel rendelkező EGT-vállalkozásokról – a tevékenység ellenőrzésének céljából – nyilvántartást vezet, amely tartalmazza:
+
+a) az EGT- vállalkozás megnevezését, székhelyét, telephelyét, fióktelepét;
+
+b) az engedélyezett tevékenység megnevezését;
+
+c) az engedély számát;
+
+d) az EGT-vállalkozás magyarországi tevékenységének 68. § (2) bekezdése szerinti megtiltása esetén az erről szóló határozatot;
+
+e) az engedély kiállításának alapjául szolgáló okirat kiadásának időpontját, érvényességének és hatályosságának idejét.
+
+(4) A rendőrség a (3) bekezdés szerinti nyilvántartásban szereplő adatokat az engedély visszavonásáig tartja nyilván.
+
+(5) A (3) bekezdés szerinti nyilvántartás a személy- és vagyonvédelmi tevékenység folytatásának hatósági ellenőrzését és a szolgáltatást igénybe vevők tájékoztatását szolgálja. A (3) bekezdés a)–d) pontjában foglalt adatok közérdekből nyilvánosak.
+
+#### 68. §
+
+(1) A rendőrség az EGT-vállalkozás 67. § (1) bekezdés szerinti engedélyét haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül visszavonja, ha kiadásának valamely feltétele már nem áll fenn.
+
+(2) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül az EGT-vállalkozás 67. § (1) bekezdés szerinti engedélyét hat hónapra felfüggeszti, ha az EGT-vállalkozás e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette.
+
+(3) A rendőrség a személy- és vagyonvédelmi tevékenységet jogosulatlanul végző, továbbá a tevékenységére vonatkozó, e törvényben meghatározott előírásokat ismételten vagy súlyosan megsértő EGT-vállalkozást felügyeleti bírsággal sújthatja, amelyre – a (4) bekezdésben foglaltak kivételével – az V. Fejezet előírásait kell alkalmazni.
+
+(4) A (3) bekezdés alkalmazásában az EGT-vállalkozás jogosulatlanul végzi magyarországi tevékenységét, ha azt
+
+a) a 67. § (1) bekezdés szerinti engedély hiányában folytatja;
+
+b) olyan vállalkozással vagy természetes személlyel végezteti, aki a tevékenység végzésére nem jogosult.
+
+### A szabad mozgás és tartózkodás jogával rendelkező személy Magyarország területén letelepedés keretében végzett személy- és vagyonvédelmi tevékenységére vonatkozó különös szabályok
+
+#### 69. §
+
+Annak a szabad mozgás és tartózkodás jogával rendelkező személynek, aki más EGT-államban kiadott, személy- és vagyonvédelmi tevékenység végzésére jogosító okirattal rendelkezik, Magyarország területén folytatott személy- és vagyonvédelmi tevékenységére e törvény rendelkezéseit a 70–72. §-ban foglalt eltérésekkel kell alkalmazni.
+
+#### 70. §
+
+(1) Az a szabad mozgás és tartózkodás jogával rendelkező személy, aki más EGT-államban kiadott, személy- és vagyonvédelmi tevékenység végzésére jogosító okirattal rendelkezik, Magyarország területén az e törvény hatálya alá tartozó tevékenységet letelepedés keretében a rendőrség (2) bekezdés szerinti engedélye alapján kezdheti meg és gyakorolhatja.
+
+(2) A rendőrség a szabad mozgás és tartózkodás jogával rendelkező személy Magyarország területén letelepedés keretében végzett személy- és vagyonvédelmi tevékenységét kérelmére akkor engedélyezi, ha a kérelmező által szolgáltatott, a magyar nyelvre lefordított okiratokat megvizsgálva meggyőződik arról, hogy a kérelmezőt e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító, más EGT-államban kiadott okirat érvényes és hatályos.
+
+(3) A rendőrség a (2) bekezdés szerinti engedéllyel rendelkezőkről – a tevékenység ellenőrzésének céljából – nyilvántartást vezet, amely tartalmazza:
+
+a) a szabad mozgás és tartózkodás jogával rendelkező személy nevét, lakó- vagy tartózkodási helyét;
+
+b) az engedélyezett tevékenység megnevezését;
+
+c) az engedély számát;
+
+d) az EGT-vállalkozás magyarországi tevékenységének 68. § (2) bekezdése szerinti megtiltása esetén az erről szóló határozatot;
+
+e) az engedély kiállításának alapjául szolgáló okirat kiadásának időpontját, érvényességének és hatályosságának idejét.
+
+(4) A rendőrség a (3) bekezdés szerinti nyilvántartásban szereplő adatokat az engedély visszavonásáig tartja nyilván.
+
+(5) A (3) bekezdés szerinti nyilvántartás a személy- és vagyonvédelmi tevékenység folytatásának hatósági ellenőrzését és a szolgáltatást igénybe vevők tájékoztatását szolgálja. A (3) bekezdés a)–d) pontjában foglalt adatok közérdekből nyilvánosak.
+
+#### 71. §
+
+(1) A rendőrség a szabad mozgás és tartózkodás jogával rendelkező személy 70. § (2) bekezdése szerinti engedélyét haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül visszavonja, ha kiadásának valamely feltétele már nem áll fenn.
+
+(2) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül a szabad mozgás és tartózkodás jogával rendelkező személy 70. § (2) bekezdése szerinti engedélyét hat hónapra felfüggeszti, ha e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette.
+
+(3)[^195] A rendőrség haladéktalanul, de legkésőbb a tudomására jutástól számított nyolc napon belül a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi tevékenységének gyakorlását a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha a szabad mozgás és tartózkodás jogával rendelkező személlyel szemben kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény miatt büntetőeljárás indul.
+
+(4) A (3) bekezdésben foglalt esetben, amennyiben a büntetőeljárás büntetés kiszabása, vagy intézkedés alkalmazása nélkül zárult, a rendőrség a felfüggesztést megszünteti, amennyiben a büntetőeljárás büntetés kiszabásával vagy intézkedés alkalmazásával zárult, az engedélyt visszavonja.
+
+#### 72. §
+
+(1) Ha a 70. § (1) bekezdés alapján a tevékenység végzésére jogosult személyt kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény elkövetésén tetten érik, a személy- és vagyonvédelmi tevékenység további gyakorlását a rendőr a helyszínen megtiltja.
+
+(2) A rendőr a személy- és vagyonvédelmi tevékenység megtiltásáról haladéktalanul értesíti – a megtiltás okának megjelölésével – a 70. § (2) bekezdése szerinti engedélyt kiállító hatóságot.
+
+## VI/A. Fejezet[^196] — A MÁS EGT-ÁLLAMBAN ALAPÍTOTT VÁLLALKOZÁS MAGYARORSZÁG TERÜLETÉN VÉGZETT HATÁRON ÁTNYÚLÓ, VALAMINT MAGYARORSZÁG TERÜLETÉN LETELEPEDÉS KERETÉBEN VÉGZETT TEVÉKENYSÉGÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+
+#### 72/A. §
+
+(1) Az EGT-vállalkozás Magyarország területén végzett határon átnyúló szolgáltatásnyújtás keretében történő személy- és vagyonvédelmi tevékenységének folytatására irányuló szándékát köteles a rendőrségnek bejelenteni.
+
+(2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató Magyarország területén végzett határon átnyúló szolgáltatásnyújtás, valamint Magyarország területén letelepedés keretében történő tervező-szerelő vagy magánnyomozói tevékenységének folytatására irányuló szándékát köteles a rendőrségnek bejelenteni.
+
+(3) Az (1) és (2) bekezdés szerinti bejelentést tevő vállalkozásokról a rendőrség a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénynek megfelelően nyilvántartást vezet.
+
+## VI/B. Fejezet[^197] — A VAGYONVÉDELMI SZOLGÁLTATÁSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ KÖZBESZERZÉSI ELJÁRÁS KÜLÖNÖS SZABÁLYAI
+
+#### 72/B. §[^198]
+
+Az
+
+a) 1. § (2) bekezdés b)–d) pontjában meghatározott, valamint
+
+b) 1. § (2) bekezdés b)–d) pontjában meghatározott tevékenységek szervezésével és irányításával összefüggő
+
+tevékenységre (a továbbiakban együtt: vagyonvédelmi szolgáltatási tevékenység) irányuló közbeszerzési eljárásban az ajánlatkérő a közbeszerzésekről szóló 2015. évi CXLIII. törvény 72. § (1) bekezdése szerinti indokolás kérése keretében köteles arra vonatkozóan is tájékoztatást kérni, hogy az ajánlattevő ajánlatában milyen összegű rezsióradíjjal számolt, és a rezsióradíj kiszámításakor egyes költségeket milyen összeggel és módon vett figyelembe.
+
+## VI/C. Fejezet[^199] — A TÖMEGRENDEZVÉNY SZERVEZŐJÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+
+#### 72/C. §
+
+(1) Ha a belépőjegy ellenében látogatható, zeneszolgáltatást főszolgáltatásként nyújtó tömegrendezvényre (a továbbiakban: tömegrendezvény) belépésre jogosító, forgalomba hozott jegyek száma meghaladja a huszonötezer darabot, a tömegrendezvény szervezője
+
+a) a tömegrendezvényre belépő természetes személyek személyi biztonságának biztosítása,
+
+b) a bűncselekmények – kiemelten terrorcselekmények – hatékony megelőzésének, illetve felderítésének elősegítése, így különösen a tömegrendezvényen elkövetett bűncselekmények bizonyítása,
+
+c) körözött személyek azonosítása és elfogása
+
+céljából köteles a tömegrendezvényre belépésre jogosító jegy ellenében belépni szándékozó természetes személy (a továbbiakban: látogató) (2) bekezdésben meghatározott személyes adatait rögzíteni.
+
+(2) A tömegrendezvény szervezője az (1) bekezdés szerinti kötelezettsége teljesítése érdekében a tömegrendezvény befejezésének időpontjától számított kilencven napig kezeli a látogató
+
+a) családi és utónevét,
+
+b) állampolgárságát,
+
+c) születési idejét,
+
+d) nemét,
+
+e) személyazonosításra alkalmas, arcképmását tartalmazó okmányát (e § alkalmazásában a továbbiakban: okmány) kiállító hatóság székhelye szerinti állam megnevezését, valamint
+
+f) arcképmását.
+
+(3) A tömegrendezvény szervezője a (2) bekezdés a)–e) pontja szerinti adatokat az azokat tartalmazó okmány alapján, a (2) bekezdés f) pontja szerinti adatot az azt tartalmazó okmánynak kizárólag az ezen adatot tartalmazó részéről készített másolat útján rögzíti.
+
+(4) A tömegrendezvény szervezője az (1) bekezdés szerinti kötelezettségét a tömegrendezvényre való belépést megelőzően, a tömegrendezvény helyszínén vagy az (5) bekezdésben meghatározottak szerint teljesíti.
+
+(5) A tömegrendezvény szervezője az (1) bekezdése szerinti kötelezettségét akként is teljesítheti, hogy a tömegrendezvényre szóló jegyek forgalomba hozatalát követően, de legfeljebb a tömegrendezvény kezdetének időpontját megelőző kilencven napon belül
+
+a) személyesen történő jegyvásárlás esetén a látogató (2) bekezdés szerinti adatait,
+
+b) elektronikus úton történő jegyvásárlás esetén legalább a látogató (2) bekezdés a)–e) pontja szerinti adatait
+
+előzetesen rögzíti (a továbbiakban: előzetes rögzítés).
+
+(6) Az előzetes rögzítés során felvett adatokat a tömegrendezvény helyszínén, a tömegrendezvényre való belépést megelőzően – az okmány bemutatásával – össze kell vetni a látogató okmányának adataival azzal, hogy amennyiben az (5) bekezdés b) pontja szerinti előzetes rögzítés során a látogató (2) bekezdés f) pontja szerinti adata nem lett rögzítve, azt az összevetéssel egyidejűleg rögzíteni kell. Ha az összevetés eredménye alapján az állapítható meg, hogy az előzetes rögzítés során megadott adatok nem egyeznek meg a látogató okmányának adataival, úgy e látogató tekintetében az (1) bekezdés szerinti kötelezettség kizárólag a tömegrendezvény helyszínén teljesíthető azzal, hogy e látogató a tömegrendezvényre való belépése esetén a tömegrendezvény szervezője az előzetes rögzítés során megadott adatokat haladéktalanul törli. A tömegrendezvény szervezője a látogató által az előzetes rögzítés során megadott adatokat a tömegrendezvény befejezését követően akkor is haladéktalanul törli, ha a látogató a tömegrendezvény kezdetének időpontjától a tömegrendezvény befejezésének időpontjáig a tömegrendezvényre nem lépett be.
+
+(7) A tömegrendezvény szervezője az (1) bekezdés szerinti kötelezettség teljesítése érdekében rögzített adatokat
+
+a)[^200] a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott, valamint a személyvédelmi vagy létesítménybiztosítási feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv,
+
+b) a Rendőrségről szóló törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott bűnmegelőzési célból folytatott titkos információgyűjtést végző szerv,
+
+c) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárásban az előkészítő eljárást folytató szerv,
+
+d)[^201] a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség, az NVVH és a bíróság, valamint
+
+e) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési eljárást lefolytató szerv
+
+részére, annak írásos megkeresésére adhatja át.
+
+#### 72/D. §[^202]
+
+A 72/C. § rendelkezéseit nem kell alkalmazni, ha a tömegrendezvény helyszíne
+
+a) a külvilágtól minden irányból fizikai akadállyal elválasztott,
+
+b) az év minden napján a nap 24 órájában élőerővel őrzött és
+
+c) beléptető és kamerarendszerrel felszerelt.
+
+## VII. Fejezet — VEGYES ÉS ÉRTELMEZŐ RENDELKEZÉSEK
+
+#### 74. §
+
+E törvény alkalmazásában:
+
+1.[^204]
+
+2.[^205] *elektronikai vagyonvédelmi rendszert tervező:* az a természetes személy, aki – tevékenységéből eredően – ismeretekkel rendelkezik az elektronikai vagyonvédelmi rendszer működéséről, és az ilyen rendszer (eszköz, berendezés) tervezését személyesen végzi, vagy azt – szakmailag – közvetlenül szervezi, irányítja;
+
+3.[^206] *elektronikai vagyonvédelmi rendszert szerelő:* az a természetes személy, aki – tevékenységéből eredően – ismeretekkel rendelkezik az elektronikai vagyonvédelmi rendszer működéséről, és az ilyen rendszer (eszköz, berendezés) telepítését, szerelését, üzemeltetését, felügyeletét, karbantartását, a hiba elhárítását személyesen végzi vagy azt – szakmailag – közvetlenül szervezi, irányítja;
+
+4.[^207] *mechanikai vagyonvédelmi rendszert tervező:* az a természetes személy, aki – tevékenységéből eredően – ismeretekkel rendelkezik a mechanikai vagyonvédelmi rendszer működéséről, és az ilyen rendszer (eszköz, berendezés) tervezését személyesen végzi vagy azt – szakmailag – közvetlenül szervezi, irányítja;
+
+5.[^208] *mechanikai vagyonvédelmi rendszert szerelő:* az a természetes személy, aki – tevékenységéből eredően – ismeretekkel rendelkezik a mechanikai vagyonvédelmi rendszer működéséről, és az ilyen rendszer (eszköz, berendezés) telepítését, szerelését, üzemeltetését, felügyeletét, karbantartását, a hiba elhárítását személyesen végzi vagy azt – szakmailag – közvetlenül szervezi, irányítja;
+
+6.[^209] *elektronikai vagyonvédelmi rendszer:* vagyonvédelmi célból a vállalkozási szerződésben megjelölt ingatlanon telepítendő vagy telepített elektronikus jelző és képi megfigyelőrendszer, ideértve a térfelügyeleti rendszert, az elektronikus beléptető rendszert, a betörésjelző rendszert, a távfelügyeleti rendszert, az adat- és informatikai védelemre irányuló biztonságtechnikai rendszert, továbbá az egyéb, jel és kép továbbítását vagy fény, illetve hang jelzését is lehetővé tevő elektronikus műszaki megoldást;
+
+7.[^210] *távfelügyeleti rendszer:* meghatározott területen elhelyezett vagy járműbe telepített elektronikai vagyonvédelmi rendszer, amely – a szerződés keretei között, a jogsértő cselekmények megelőzése, megszakítása, a bűncselekmény elkövetésén tetten ért jogsértő elfogása érdekében, elektromos úton – az érintett területre vagy járműre vonatkozó, a vagyonvédelem szempontjából jelentőséggel bíró információkat továbbít a védett területet vagy járművet folyamatosan figyelő vagyonőrnek;
+
+8\. *betörésjelző rendszer:* vagyonvédelmi célból ingatlanon telepített, az illetéktelen behatolást elektronikusan vagy más módon (jellel, fénnyel, illetve hangjelzéssel) jelző műszaki megoldás;
+
+9\. *mechanikai vagyonvédelmi rendszer:* vagyonvédelmi célból ingatlanon vagy gépjárművön telepítendő vagy telepített, emberi vagy elektronikus felügyeletet, illetve energia-utánpótlást nem igénylő vagyonvédelmi rendszer vagy egyéb műszaki megoldás;
+
+10\. *közterület:* a közhasználatra szolgáló olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően mindenki korlátozás nélkül igénybe vehet, ideértve a közterületnek közútként szolgáló részét is;
+
+11.[^211] *magánterület közönség számára nyilvános része:* olyan magánterület, amely mindenki számára korlátozás nélkül igénybe vehető, ideértve a közterület azon részét is, amelynek birtokába a személy- és vagyonvédelmi tevékenység folytatására megbízó valamely polgári jogi jogügylet, különösen bérleti vagy haszonbérleti jogviszony keretében jut, feltéve, ha
+
+a) a területrész igénybevétele, használata a személy- és vagyonvédelmi tevékenységet folytató által őrzött magánterület nyilvános részén folyó tevékenységhez szervesen kapcsolódik, annak folyamatosságát, segítését szolgálja, vagy
+
+b) a megbízó (megrendelő), avagy a magánterület nyilvános részét igénybe vevő közönség ingóságainak elhelyezésére szolgál;
+
+12\. *tettenérés:* jogsértő cselekmény elkövetésének közvetlen észlelése, ideértve a jogsértésnek elektronikus megfigyelőrendszer (térfigyelés) útján történő, az eseménnyel egyidejű észlelését is;
+
+13\. *csomag:* mindazon, az érintett személy birtokában lévő, általa fogott vagy testére rögzített, azon viselt olyan tárgy, amely a benne elhelyezett dolgok szállítására avagy azok szállításának megkönnyítésére szolgál és amely alkalmas arra, hogy e dolgok a külső szemlélő elől – részben vagy egészben – elfedve maradjanak;
+
+14\. *csomag tartalmának, a járműben elhelyezett dolognak, a szállítmánynak bemutatása:* annak lehetővé tétele, hogy a személy- és vagyonőr megbizonyosodjon arról, hogy a csomagban, a járműben, a szállítmányban elhelyezett, a külső szemlélő elől egyébként rejtett dolgok között nincs olyan, amely az általa megakadályozandó jogsértő cselekményből származik vagy amelynek a területre történő bevitele tilos;
+
+15.[^212] *közeli hozzátartozó:* a Polgári Törvénykönyv 8:1. § (1) bekezdés 1. pontjában meghatározott személy;
+
+16.[^213]
+
+17.[^214] *a szabad mozgás és tartózkodás jogával rendelkező személy:* aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgás és tartózkodás jogát Magyarország területén gyakorolja;
+
+18.[^215] *EGT-állam:* az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+
+### Hatályba léptető, felhatalmazó rendelkezések
+
+#### 75. §
+
+(1) E törvény – a (2) bekezdésben foglalt kivételekkel – a kihirdetését követő harmincadik napon lép hatályba.
+
+(2) E törvény
+
+a) 14–16. §-ai és 18–21. §-ai 2006. március 1. napján;
+
+b) 3–13. §-ai, 17. §-a, 33. §-a, 37–72. §-ai és 77. §-ának (1) bekezdése 2006. június 1. napján
+
+lépnek hatályba.
+
+(3)[^216]
+
+#### 76. §[^217]
+
+Felhatalmazást kap a Kormány arra, hogy
+
+a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit,[^218]
+
+b)[^219] a minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,[^220]
+
+c)[^221] az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő, a személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre vonatkozó közigazgatási hatósági eljárási szabályokat[^222]
+
+d)[^223] a személy- és vagyonvédelmi tevékenység keretében a rendezvény-, illetve létesítménybiztosítás során a rendezvény helyszínére, létesítménybe, vagy egyéb zárt területre belépő személyekre, illetve az általuk birtokolt dolgokra kiterjedő robbanóanyag, pirotechnikai termék, kábítószer, illetve egyéb tiltott tárgy kiszűrését célzó, az általános személy- és vagyonvédelmi tevékenységhez képest magasabb biztonsági szintű ellenőrzést igazoló tanúsítvány kiállításának és megszerzésének részletes szabályait[^224]
+
+rendelettel állapítsa meg.
+
+#### 78. §[^226]
+
+Felhatalmazást kap a rendészetért felelős miniszter, hogy
+
+a)[^227]
+
+b)[^228] – az adópolitikáért felelős miniszterrel egyetértésben – e törvény hatálya alá eső tevékenység engedélyezésével és az igazolvány kiadásával kapcsolatos igazgatási szolgáltatási díjra,[^229]
+
+c) a felelősségbiztosítási szerződésre,[^230]
+
+d)[^231]
+
+e)[^232] a 31. §-ában meghatározott jegyzőkönyvre,[^233]
+
+f)[^234] az e törvényben meghatározott tevékenységek végzéséhez szükséges szakképesítésekre
+
+vonatkozó részletes szabályokról rendeletet alkosson.
+
+### Átmeneti rendelkezések[^235]
+
+#### 78/A. §[^236]
+
+Ha a tömegrendezvény szervezőjének a 72/C. §-ban meghatározott kötelezettségek teljesítése aránytalan nehézséggel vagy költséggel járna, a 72/C. §-ban meghatározott kötelezettségek teljesítése alól 2022. december 31-ig mentesül.
+
+#### 78/B. §[^237]
+
+(1) Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv.) megállapított 7. §-t a hatálybalépésekor[^238] folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv. hatálybalépése[^239] előtt határozott időtartamra kiadott és a Módtv. hatálybalépésekor hatályos működési engedély és igazolvány határozatlan időtartamúvá válik.
+
+### Az Európai Unió jogának való megfelelés[^240]
+
+#### 79. §[^241]
+
+(1) E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikke,
+
+b) a szakmai képesítések elismeréséről szóló 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv,
+
+c) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 5. cikk (3) bekezdése, 9–11. cikke és 16. cikke.
+
+(2) E törvény 72/A. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3)[^242] Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2005. november 21-i ülésnapján fogadta el. A kihirdetés napja: 2005. november 30.
+[^2]: Az 1. § a 2011: XXIV. törvény 8. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^3]: Az 1. § (1) bekezdése a 2019: LXIX. törvény 1. §-ával megállapított szöveg.
+[^4]: A 2. § a 2011: CXLI. törvény 71. § (1) bekezdésével megállapított, a 2020: CLII. törvény 30. §-a, 2024. évi LXXII. törvény 25. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § a 2011: XXIV. törvény 9. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát. Alkalmazására lásd még e módosító törvény 44. § (2)–(6) bekezdését.
+[^7]: Az 5. §-t megelőző alcím a 2011: XXIV. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § a 2011: XXIV. törvény 10. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^9]: Az 5. § (1) bekezdés b) pontja a 2013: CCLII. törvény 79. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (3) bekezdése a 2015: CLXXXVI. törvény 116. § (1) bekezdésével megállapított szöveg, e módosító törvény 205. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^11]: Az 5. § (4) bekezdése a 2012: CXX. törvény 35. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (4) bekezdés c) pontja a 2017: CXCVII. törvény 208. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (5) bekezdését a 2023. évi XCI. törvény 30. §-a iktatta be.
+[^14]: Az 5/A. §-t a 2011: XXIV. törvény 10. § (2) bekezdés iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^15]: Az 5/A. § (4) bekezdése a 2015: CLXXXVI. törvény 116. § (2) bekezdésével megállapított szöveg, e módosító törvény 205. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^16]: Az 5/A. § (5) bekezdése a 2012: CXX. törvény – a 2012: CLXXXI. törvény 68. § (2) bekezdésével megállapított – 35. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5/A. § (5) bekezdés c) pontja a 2017: CXCVII. törvény 208. § a) pontja szerint módosított szöveg.
+[^18]: A 6. § a 2009: XLVII. törvény 104. § (2) bekezdésével megállapított szöveg. A bűnügyi nyilvántartásban 2009. június 30. napjáig kezelt adatokra vonatkozóan lásd e módosító törvény 99. §-át.
+[^19]: A 6. § (1) bekezdése a 2011: XXIV. törvény 11. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^20]: A 6. § (1a) bekezdését a 2012: CXX. törvény 35. § (3) bekezdése iktatta be, szövege a 2022. évi L. törvény 94. §-ával megállapított szöveg.
+[^21]: A 6. § (2) bekezdése a 2015: CLXXXVI. törvény 116. § (3) bekezdésével megállapított szöveg, e módosító törvény 205. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^22]: A 6. § (3) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^23]: A 6. § (3) bekezdés b) pontját az Alkotmánybíróság a 20/2013. (VII. 19.) AB határozat 1. pontjával megsemmisítette 2013. december 31. napjával. Újonnan a 2013: CXCVIII. törvény 11. § (1) bekezdése iktatta be, szövege a 2025. évi XXXV. törvény 31. §-ával megállapított szöveg.
+[^24]: A 6. § (3) bekezdés c) pontja a 2017: CXCVII. törvény 205. §-ával megállapított szöveg.
+[^25]: A 6. § (4) bekezdését az Alkotmánybíróság a 20/2013. (VII. 19.) AB határozat 1. pontjával megsemmisítette 2013. december 31. napjával. Újonnan a 2013: CXCVIII. törvény 11. § (2) bekezdése iktatta be.
+[^26]: A 6. § (5) bekezdését a 2011: XXIV. törvény 11. § (2) bekezdése iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^27]: A 7. § a 2023. évi LXX. törvény 47. § (1) bekezdésével megállapított szöveg.
+[^28]: A 7/A. §-t a 2022. évi L. törvény 95. §-a iktatta be.
+[^29]: A 8. § a 2011: XXIV. törvény 12. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^30]: A 8. § (1) bekezdése a 2024. évi XXV. törvény 25. §-ával megállapított, a 2025. évi LXXX. törvény 116. § a) pontja szerint módosított szöveg.
+[^31]: A 8. § (2a) bekezdését a 2013: LXXXIV. törvény 58. §-a iktatta be, a 2025. évi LXXX. törvény 116. § b) pontja hatályon kívül helyezte.
+[^32]: A 8. § (2b) bekezdését a 2017: CLXXXVI. törvény 33. §-a iktatta be, hatályon kívül helyezte a 2020: CXXI. törvény 66. §-a.
+[^33]: A 8. § (3) bekezdése a 2017: L. törvény 260. § a) pontja szerint módosított szöveg.
+[^34]: A 8. § (4) bekezdése a 2013: CXCVIII. törvény 11. § (3) bekezdésével megállapított szöveg.
+[^35]: [A 8. § (6) bekezdésének a 2017: L. törvény 260. § b) pontjával elrendelt módosítása, amely szerint a „jogerős befejezésig” helyébe a „véglegessé válásig” szöveg lép, nem vezethető át.]
+[^36]: A 9. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^37]: A 9. § (1) bekezdése a 2017: CXCVII. törvény 208. § b) pontja szerint módosított szöveg.
+[^38]: A 9. § (2) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § b) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^39]: A 9. § (2) bekezdés a) pontja a 2011: XXIV. törvény 42. § d) pontja, a 2017: CXCVII. törvény 208. § b) pontja szerint módosított szöveg.
+[^40]: A 9. § (3) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^41]: A 9. § (3) bekezdés a) pontja a 2011: XXIV. törvény 42. § a) és d) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^42]: A 9. § (4) bekezdését a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^44]: A 11. §-t megelőző alcím a 2011: XXIV. törvény 13. §-ával megállapított szöveg.
+[^45]: A 11. § a 2011: XXIV. törvény 13. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^46]: A 11. § (2) bekezdés c) pontja a 2022. évi L. törvény 96. § (1) bekezdésével megállapított, nyitó szövegrésze a 2026. évi XXXIV. törvény 134. § a) pontja szerint módosított szöveg.
+[^47]: A 11. § (4) bekezdése a 2022. évi L. törvény 96. § (2) bekezdésével megállapított, nyitó szövegrésze a 2026. évi XXXIV. törvény 134. § b) pontja szerint módosított szöveg.
+[^48]: A 12. § a 2011: XXIV. törvény 14. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^49]: A 13. § a 2011: XXIV. törvény 14. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^50]: A 14. §-t megelőző alcím a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^51]: A 14. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^52]: A 14. § (1) bekezdése a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^53]: A 14. § (2) bekezdése a 2011: XXIV. törvény 15. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^54]: A 14. § (4) bekezdése a 2011: XXIV. törvény 42. § e) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^55]: A 14/A. §-t a 2011: LXXIII. törvény 11. §-a iktatta be.
+[^56]: A 15. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^57]: A 15. § (2) bekezdése a 2022. évi L. törvény 100. §-a szerint módosított szöveg.
+[^58]: A 16. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^59]: A 16. § (1) bekezdése a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^60]: A 16. § (2) bekezdése a 2011: CXLI. törvény 71. § (2) bekezdésével megállapított, a 2024. évi LXXII. törvény 25. § b) pontja szerint módosított szöveg.
+[^61]: A 16. § (3) bekezdése a 2011: XXIV. törvény 16. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^62]: A 16. § (4) bekezdését a 2011: XXIV. törvény 16. §-a iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^63]: A 17. § a 2011: XXIV. törvény 17. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^64]: A 17. § (1a) bekezdését a 2016: XXXII. törvény 20. § (1) bekezdése iktatta be.
+[^65]: A 17. § (4) bekezdését a 2016: XXXII. törvény 20. § (2) bekezdése iktatta be.
+[^66]: A 18. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^67]: A 18. § (1) bekezdése a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^68]: A 18. § (2) bekezdése a 2011: XXIV. törvény 18. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^69]: A 19. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^70]: A 19. § (1) bekezdése a 2011: XXIV. törvény 42. § g) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^71]: A 20. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^72]: A 20. § (1) bekezdése a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^73]: A 21. § e törvény 75. § (2) bekezdésének a) pontja alapján 2006. március 1. napján lép hatályba.
+[^74]: A 22. § (1) bekezdése a 2011: XXIV. törvény 19. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^75]: A 22. § (2) bekezdése a 2011: XXIV. törvény 42. § h) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^76]: A 22. § (3) bekezdése a 2011: XXIV. törvény 42. § a) és h) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^78]: A 24. § (2) bekezdése a 2011: XXIV. törvény 21. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^79]: A 24. § (3) bekezdése a 2011: XXIV. törvény 21. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^80]: A 25. §-t megelőző alcímet a 2011: XXIV. törvény 22. § (1) bekezdése iktatta be.
+[^81]: A 25. § (1) bekezdése a 2011: XXIV. törvény 22. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^82]: A 26. § (1) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^83]: A 26. § (1) bekezdés e) pontja a 2011: XXIV. törvény 42. § j) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^84]: A 26. § (1) bekezdés f) pontja a 2023. évi XCI. törvény 31. §-ával megállapított szöveg.
+[^85]: A 26. § (3) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^86]: A 26. § (3) bekezdés c) pontját a 2011: CIV. törvény 24. §-a iktatta be.
+[^87]: A 26. § (4) bekezdése a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^88]: A 27. § (2) bekezdése a 2011: XXIV. törvény 42. § k) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^89]: A 27. § (4) bekezdése a 2011: XXIV. törvény 41. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdés alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^90]: A 27. § (5) bekezdése a 2006: CIX. törvény 171. § (5) bekezdésének i) pontja, a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. Ez utóbbi módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^91]: A 28. § (1) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^92]: A 28. § (2) bekezdés nyitó szövegrésze a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^93]: A 28. § (2) bekezdés d) pontja a –2011: CXII. törvény 78. § (6) bekezdésével megállapított – 2011: XXIV. törvény 41. § (3) bekezdés 42. § j) pontja, a 2019: XXXIV. törvény 57. § a) pontja szerint módosított szöveg.
+[^94]: A 28. § (2) bekezdés e) pontja a 2011: XXIV. törvény 42. § i) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^96]: A 29. § (1) bekezdését a 2019: XXXIV. törvény 58. § b) pontja hatályon kívül helyezte.
+[^97]: A 30. § (1) bekezdését a 2019: XXXIV. törvény 58. § c) pontja hatályon kívül helyezte.
+[^98]: A 30. § (2) bekezdése a 2019: XXXIV. törvény 56. § (1) bekezdésével megállapított szöveg.
+[^99]: A 30. § (4) bekezdését a 2019: XXXIV. törvény 58. § c) pontja hatályon kívül helyezte.
+[^100]: A 31. § a 2019: XXXIV. törvény 56. § (2) bekezdésével megállapított szöveg.
+[^101]: A 31/A. §-t a 2018: CXXI. törvény 73. §-a iktatta be.
+[^102]: A 32. § a 2019: XXXIV. törvény 56. § (2) bekezdésével megállapított szöveg.
+[^104]: A 34. § a 2011: XXIV. törvény 23. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^105]: A 34. § (1) bekezdés c) pontja a 2011: CXII. törvény 78. § (8) bekezdésével megállapított, a 2019: XXXIV. törvény 57. § b) pontja szerint módosított szöveg.
+[^106]: A 35. § b) pontja a 2011: XXIV. törvény 24. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^107]: A 35. § c) pontját a 2019: XXXIV. törvény 58. § d) pontja hatályon kívül helyezte.
+[^108]: A 36. § (1) bekezdése a 2011: XXIV. törvény 42. § a) pontja, a 2011: CLXXV. törvény 162. §-a szerint módosított szöveg. Előbbi módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^109]: A 36. § (2) bekezdés a) pontja a 2026. évi XLIX. törvény 55. § a) pontja szerint módosított szöveg.
+[^110]: A 36. § (3) bekezdése a 2026. évi XLIX. törvény 55. § b) pontja szerint módosított szöveg.
+[^111]: A 36. § (5) bekezdése a 2011: CCII. törvény 32. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^112]: A 37. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^113]: A 38. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^114]: A 38. § (1) bekezdés a) pontja a 2011: XXIV. törvény 25. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^115]: A 38. § (1) bekezdés b) pontja a 2011: XXIV. törvény 25. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^116]: A 38. § (1) bekezdés c) pontja a 2011: XXIV. törvény 42. § a) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^117]: A 38. § (1) bekezdés d) pontja a 2011: XXIV. törvény 25. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^118]: A 38. § (1) bekezdés e) pontja a 2011: XXIV. törvény 25. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^119]: A 38. § (1) bekezdés g) pontja a 2011: XXIV. törvény – a 2011: CXII. törvény 78. § (4) bekezdésével megállapított – 25. § (3) bekezdésével megállapított szöveg. Előbbi módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^120]: A 38. § (1) bekezdés l) pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 2012: CXX. törvény 35. § (4) bekezdése iktatta be, szövege a 2022. évi L. törvény 97. §-ával megállapított szöveg.
+[^121]: A 38. § (1) bekezdés n) pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 2014: XVI. törvény 273. § (1) bekezdése iktatta be, szövege a 2014: XCIII. törvény 24. § a) pontja szerint módosított szöveg.
+[^122]: A 38. § (1) bekezdés o) pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^123]: A 38. § (2) bekezdése a 2011: XXIV. törvény 25. § (4) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^124]: A 38. § (3) bekezdése a 2011: XXIV. törvény 25. § (4) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^125]: A 38. § (4) bekezdését a 2017: XLIV. törvény 32. § (1) bekezdése iktatta be.
+[^126]: A 39. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^127]: A 39. § (1) bekezdése a 2011: XXIV. törvény 26. § (1) bekezdésével megállapított, a 2017: L. törvény 260. § c) pontja szerint módosított szöveg.
+[^128]: A 39. § (3) bekezdése a 2011: XXIV. törvény 42. § l) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^129]: A 39. § (4) bekezdése a 2011: XXIV. törvény 26. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^130]: A 39. § (5) bekezdése a 2011: XXIV. törvény 42. § m) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^131]: A 40. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^132]: A 40. § (1) bekezdése a 2011: XXIV. törvény 42. § n) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^133]: A 40. § (2) bekezdése a 2011: XXIV. törvény 41. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdés alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^134]: A 41. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^135]: A 42. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^136]: A 42. § (1) bekezdése a 2011: XXIV. törvény 27. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^137]: A 43. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^138]: A 43. § c) pontja a 2011: XXIV. törvény 28. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^139]: A 44. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^140]: A 44. § (2) bekezdés c) pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^141]: A 45. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^142]: A 45. § (1) bekezdése a 2011: XXIV. törvény 29. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^143]: A 45. § (2) bekezdése a 2011: XXIV. törvény 29. § (1) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^144]: A 45. § (4) bekezdése a 2011: XXIV. törvény 29. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^145]: A 45. § (5) bekezdése a 2011: XXIV. törvény 29. § (2) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^146]: A 45. § (6) bekezdés b) pontja a 2011: XXIV. törvény 29. § (3) bekezdésével megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^147]: A 45. § (6) bekezdés c) pontját a 2011: XXIV. törvény 29. § (3) bekezdése iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^148]: A 46. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^149]: A 47. § a 2011: XXIV. törvény 30. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^150]: A 48. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^151]: A 49. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^152]: A 50. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^153]: A 51. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^154]: A 52. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^155]: A 53. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^156]: A 54. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^157]: Az 54. § (1) bekezdése a 2011: XXIV. törvény 41. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdés alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^158]: Az 54. § (2) bekezdése a 2011: XXIV. törvény 41. § (3) bekezdés b) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdés alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^159]: Az 54. § (2a) bekezdését a 2011: XXIV. törvény 31. §-a iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^160]: Az 54/A. §-t a 2013: LXXXI. törvény 41. §-a iktatta be, szövege a 2024. évi LXXIII. törvény 34. §-ával megállapított szöveg.
+[^161]: A 55. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^162]: A 56. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^163]: A 57. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^164]: A 58. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^165]: A 59. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^166]: A 60. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^167]: A 60. § (3) bekezdését a 2017: L. törvény 261. § a) pontja hatályon kívül helyezte.
+[^168]: A 61. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^169]: A 61. § (1) bekezdése a 2006: CIX. törvény 171. § (5) bekezdésének i) pontja szerint módosított szöveg.
+[^170]: A 61. § (2) bekezdése a 2011: XXIV. törvény 42. § o) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^171]: A 61. § (3) bekezdése a 2006: CIX. törvény 171. § (5) bekezdésének i) pontja szerint módosított szöveg.
+[^172]: A 61. § (4) bekezdése a 2017: L. törvény 259. § (1) bekezdésével megállapított szöveg.
+[^173]: A 62. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^174]: A 62. § (1) bekezdését a 2017: L. törvény 261. § b) pontja hatályon kívül helyezte.
+[^175]: A 62. § (2) bekezdését a 2017: L. törvény 261. § b) pontja hatályon kívül helyezte.
+[^176]: A 62. § (3) bekezdése a 2011: XXIV. törvény 32. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^177]: A 62. § (4) bekezdését a 2017: L. törvény 261. § c) pontja hatályon kívül helyezte.
+[^178]: A 62. § (5) bekezdését a 2017: L. törvény 261. § c) pontja hatályon kívül helyezte.
+[^179]: A 62/A. §-t megelőző alcímet a 2012: CXX. törvény 35. § (5) bekezdése iktatta be.
+[^180]: A 62/A. §-t a 2012: CXX. törvény 35. § (5) bekezdése iktatta be.
+[^181]: A 62/A. § (1) bekezdése a 2022. évi L. törvény 98. §-ával megállapított szöveg.
+[^182]: A 62/A. § (2) bekezdése a 2017: L. törvény 259. § (2) bekezdésével megállapított szöveg.
+[^183]: A 63. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^184]: A 63. § (1) bekezdése a 2012: XXXI. törvény 13. § (2) bekezdésével megállapított szöveg.
+[^185]: A 63. § (2) bekezdés c) pontja a 2011: XXIV. törvény 33. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^186]: A 63. § (2) bekezdés d) pontja a 2011: XXIV. törvény 33. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^187]: A 63. § (3) bekezdése a 2011: CLXVI. törvény 22. §-ával megállapított szöveg.
+[^188]: A 63. § (4) bekezdése a 2011: XXIV. törvény 42. § l) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^189]: A 64. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^190]: A 64. § (1) bekezdése a 2012: XXXI. törvény 13. § (3) bekezdésével megállapított szöveg.
+[^191]: A 65. § e törvény 75. § (2) bekezdésének b) pontja alapján 2006. június 1. napján lép hatályba.
+[^192]: A 65. § a) pontja a 2022. évi L. törvény 99. §-ával megállapított szöveg.
+[^193]: A 65. § b) pontja a 2022. évi L. törvény 99. §-ával megállapított szöveg.
+[^194]: A VI. Fejezet (66–72. §) a 2011: XXIV. törvény – a 2011: CCI. törvény 394. § (1) bekezdése szerint módosított – 34. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^195]: A 71. § (3) bekezdése a 2017: CXCVII. törvény 207. §-ával megállapított, a 2026. évi XXXIV. törvény 134. § c) pontja szerint módosított szöveg.
+[^196]: A VI/A. Fejezetet (72/A. §) a 2011: XXIV törvény – a 2011: CCI. törvény 394. § (2) bekezdése szerint módosított – 35. §-a iktatta be. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^197]: A VI/B. fejezetet (72/B. §) a 2014: XVI. törvény 273. § (2) bekezdése iktatta be.
+[^198]: A 72/B. § a 2024. évi LXIV. törvény 13. §-ával megállapított szöveg.
+[^199]: A VI/C. fejezetet (72/C. §) a 2019: LXIX. törvény 2. §-a iktatta be.
+[^200]: A 72/C. § (7) bekezdés a) pontja a 2026. évi XLVI. törvény 48. §-ával megállapított szöveg.
+[^201]: A 72/C. § (7) bekezdés d) pontja a 2026. évi XXXIV. törvény 134. § d) pontja szerint módosított szöveg.
+[^202]: A 72/D. §-t a 2023. évi XXXVIII. törvény 44. §-a iktatta be.
+[^204]: A 74. § 1. pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^205]: A 74. § 2. pontja a 2011: XXIV törvény 36. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^206]: A 74. § 3. pontja a 2011: XXIV törvény 36. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^207]: A 74. § 4. pontja a 2011: XXIV törvény 36. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^208]: A 74. § 5. pontja a 2011: XXIV törvény 36. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^209]: A 74. § 6. pontja a 2011: XXIV törvény 36. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^210]: A 74. § 7. pontja a 2011: XXIV. törvény 42. § a) és j) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^211]: A 74. § 11. pontja a 2011: XXIV. törvény 42. § p) pontja szerint módosított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^212]: A 74. § 15. pontja a 2013: CCLII. törvény 79. § (2) bekezdése szerint módosított szöveg.
+[^213]: A 74. § 16. pontját a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^214]: A 74. § 17. pontját a 2007: I. törvény 125. § (4) bekezdése iktatta be, szövege a 2011: CCI. törvény 277. §-a szerint módosított szöveg.
+[^215]: A 74. § 18. pontját a 2007: I. törvény 125. § (4) bekezdése iktatta be, szövege a 2011: XXIV. törvény 42. § p) pontja szerint módosított szöveg. Ez utóbbi módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^216]: A 75. § (3) bekezdését a 2011: XXIV. törvény 41. § (3) bekezdés a) pontja hatályon kívül helyezte. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^217]: A 76. §-t a 2007: LXXXII. törvény 2. § 839. pontja hatályon kívül helyezte, újonnan a 2014: XVI. törvény 273. § (3) bekezdése iktatta be, szövege a 2014: XCIII. törvény 23. §-ával megállapított szöveg.
+[^218]: Lásd a 44/2017. (III. 17.) Korm. rendeletet, a 374/2021. (VI. 30.) Korm. rendeletet.
+[^219]: A 76. § b) pontja a 2021: XXXI. törvény 19. §-a szerint módosított szöveg.
+[^220]: Lásd a 162/2014. (VII. 8.) Korm. rendeletet, a 44/2017. (III. 17.) Korm. rendeletet, a 116/2018. (VII. 2.) Korm. rendeletet, a 112/2019. (V. 15.) Korm. rendeletet, a 150/2020. (IV. 24.) Korm. rendeletet, a 170/2021. (IV. 9.) Korm. rendeletet, a 374/2021. (VI. 30.) Korm. rendeletet.
+[^221]: A 76. § c) pontját a 2017: L. törvény 259. § (3) bekezdése iktatta be.
+[^222]: Lásd a 487/2017. (XII. 29.) Korm. rendeletet, a 43/2024. (II. 29.) Korm. rendeletet.
+[^223]: A 76. § d) pontját a 2023. évi XCI. törvény 32. §-a iktatta be.
+[^224]: Lásd a 43/2024. (II. 29.) Korm. rendeletet.
+[^226]: A 78. § bevezető szövege a 2006: CIX. törvény 171. § (5) bekezdésének i) pontja szerint módosított szöveg.
+[^227]: A 78. § a) pontját a 2017: L. törvény 261. § d) pontja hatályon kívül helyezte.
+[^228]: A 78. § b) pontja a 2006: CIX. törvény 171. § (5) bekezdésének i) pontja szerint módosított szöveg.
+[^229]: Lásd a 22/2006. (IV. 25.) BM rendeletet.
+[^230]: Lásd a 22/2006. (IV. 25.) BM rendeletet.
+[^231]: A 78. § d) pontját a 2017: L. törvény 261. § d) pontja hatályon kívül helyezte.
+[^232]: A 78. § e) pontja a 2019: XXXIV. törvény 57. § c) pontja szerint módosított szöveg.
+[^233]: Lásd a 22/2006. (IV. 25.) BM rendeletet.
+[^234]: A 78. § f) pontja a 2011: XXIV törvény 37. §-ával megállapított szöveg. E módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^235]: Az „Átmeneti rendelkezések” alcímet (78/A. §) a 2019: LXIX. törvény 3. §-a iktatta be.
+[^236]: A 78/A. § a 2022: IV. törvény 81. §-a szerint módosított szöveg.
+[^237]: A 78/B. §-t a 2023. évi LXX. törvény 47. § (2) bekezdése iktatta be.
+[^238]: A hatálybalépés időpontja 2024. január 1.
+[^239]: A hatálybalépés időpontja 2023. november 1.
+[^240]: A 79. §-t megelőző alcímet a 2007: I. törvény 125. § (5) bekezdése iktatta be.
+[^241]: A 79. §-t a 2007: I. törvény 125. § (5) bekezdése iktatta be, szövege a 2011: XXIV törvény 38. §-ával megállapított szöveg. Ez utóbbi módosító törvény 44. § (1) bekezdése alapján nem érinti a 2012. január 1-jét megelőzően kiadott működési engedélyek és igazolványok hatályosságát.
+[^242]: A 79. § (3) bekezdését a 2017: XLIV. törvény 32. § (2) bekezdése iktatta be.

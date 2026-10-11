@@ -1,0 +1,1409 @@
+---
+title: "2006. évi CXXXII. törvény az egészségügyi ellátórendszer fejlesztéséről"
+identifier: "2006. évi CXXXII. törvény"
+njt_id: "2006-132-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2006/132"
+type: act
+jurisdiction: hu
+language: hu
+date: 2006-12-22
+in_force_from: 2010-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-132-00-00"
+retrieved: 2026-10-12
+---
+
+# 2006. évi CXXXII. törvény az egészségügyi ellátórendszer fejlesztéséről[^1]
+
+Az Országgyűlés
+
+– az államnak az egészségügyi ellátórendszer megszervezéséért és működtetéséért fennálló felelőssége hatékony érvényesítésének és a lakosság számára az egészségügyi szakellátáshoz való egyenlő hozzáférés biztosításának érdekében,
+
+– az egészségügyi ellátások és fejlesztések szükségletekkel való összehangolásának elvét érvényesítve
+
+megalkotja a szakellátó hálózat megújítását és folyamatosan magas színvonalú működését szolgáló következő törvényt:
+
+## 1.[^2] Általános rendelkezések
+
+### 1. §
+
+(1)[^3] E törvény hatálya
+
+a) az egészségügyi közszolgáltatások közül a járóbeteg- és fekvőbeteg-szakellátásokra (a továbbiakban együtt: egészségügyi szakellátás),
+
+b) a közfinanszírozásban részesülő egészségügyi szolgáltatók tulajdonosaira, fenntartóira és működtetőire, valamint a fenntartásukban működő egészségügyi szolgáltatókra,
+
+c) az egészségügyért felelős miniszterre, az egészségügyi államigazgatási szervre, az egészségbiztosítóra, valamint a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokban – a kormány által kijelölt – véleményadásra jogosult szakértői szervre,
+
+d) a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatos e törvény szerinti eljárásokkal érintett egészségügyi szolgáltatókra és fenntartóikra
+
+terjed ki.
+
+(2) E törvény alkalmazásában
+
+a) *egészségbiztosító:* az egészségbiztosítási szerv;
+
+b) *egészségügyi közszolgáltatás:* a részben vagy egészben a központi költségvetés és az Egészségbiztosítási Alap terhére finanszírozott egészségügyi szolgáltatás;
+
+c)[^4] *egészségügyi közszolgáltatásért felelős szerv:* az a fenntartó,
+
+ca) akinek a fenntartásában lévő egészségügyi szolgáltató számára a szakellátási kapacitás határozattal megállapításra kerül, illetve
+
+cb) aki a megállapodás, illetve a szerződés tárgyát képező szakellátási feladatot és a hozzá kapcsolódó szakellátási kapacitást ideiglenesen átadja a feladat ellátására kötelezettséget vállaló egészségügyi szolgáltató vagy annak fenntartója számára, ha az 1/A. § (1) bekezdés szerinti kötelezettség teljesítése a 2. § (1) bekezdése szerinti megállapodás, illetve egészségügyi ellátási szerződés alapján történik;
+
+d)[^5] *lekötött kapacitás:* az az *i)* pont szerinti szakellátási kapacitás, amire érvényes finanszírozási szerződés kiterjed;
+
+e)[^6] *rendelési óra:* az egészségbiztosító által az egészségbiztosítás keretében finanszírozott óraszám;
+
+f)[^7]
+
+g)[^8] *egészségügyi térség:* megközelítőleg 0,9–1,6 millió biztosított ellátásáért felelős olyan térség, amelyhez tartozó egészségügyi intézményekben a finanszírozható szakmák többségében a progresszivitás minden szintjén ellátás nyújtható;
+
+h) *sürgősségi ellátás:* az Eütv. 3. §-ának i) pontja szerinti sürgős szükség fennállásának megállapítására irányuló vizsgálatokat, valamint a sürgős szükséget elhárító beavatkozásokat magában foglaló egészségügyi szolgáltatás;
+
+i)[^9] *szakellátási kapacitás:*
+
+ia) a járóbeteg-szakellátásban a szakorvosi és nem szakorvosi órák száma,
+
+ib) a fekvőbeteg-ellátásban az aktív és krónikus ellátási ágyak száma,
+
+ic) művesekezelés esetén a kezelésszám,
+
+id) nappali kórházi ellátásban a beteglétszám,
+
+ie) egynapos ellátásban a súlyszám,
+
+if) az *ia)–ie)* alpont alá nem tartozó esetben az e törvény végrehajtásáról szóló rendeletben foglaltak szerinti eljárásban meghatározott egység;
+
+j)[^10] *egészségügyi szakellátási felelősség:* az államnak az a kötelezettsége, hogy gondoskodjon a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásoknak az *l)*, az *o)*, illetve a *p)* pontban meghatározott módon, valamint a 2. § (2) bekezdése szerinti esetben az ott meghatározott módon történő biztosításáról;
+
+k)[^11] *alapszakma:* belgyógyászat, gyermekgyógyászat, sebészet, szülészet-nőgyógyászat;
+
+l)[^12] *egészségügyi szakellátási intézményműködtetési kötelezettség:* a helyi önkormányzatoknak az egészségügyről szóló 1997. évi CLIV. törvény 152. § (3) bekezdése szerinti kötelezettsége;
+
+m)[^13] *ellátási terület:* az a földrajzi terület, amelyre kiterjed az egészségügyi szolgáltatónak az *n)* pont szerinti kötelezettsége;
+
+n)[^14] *területi ellátási kötelezettség:* a lekötött kapacitással rendelkező egészségügyi szolgáltatónak az a kötelezettsége, hogy a kapacitásai felhasználásával az *s)* pont szerinti kapacitás-nyilvántartásban meghatározott ellátási területen élő, a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat nyújtson;
+
+o)[^15] *egészségügyi szakellátási feladat:* a nem állami és nem helyi önkormányzati tulajdonban/fenntartásban lévő egészségügyi szolgáltató által az e törvény alapján lekötött kapacitásokon végzett, ellátási érdekből közfinanszírozott feladat;
+
+p)[^16] *egészségügyi szakellátási kötelezettség:* az államnak az a kötelezettsége, hogy az *l)* és az *o)* pont alá nem tartozó esetekben biztosítsa az e törvény szerint meghatározott ellátási területen a lekötött szakellátási kapacitások felhasználásával a kötelező egészségbiztosítás egészségügyi szolgáltatásaira jogosultak számára a külön jogszabályban foglaltak szerinti egészségügyi szakellátásokat;
+
+q)[^17] *tartalékkapacitás:* az a rendelkezésre álló országos kapacitásmennyiség részét képező, az *i)* pont *ia)* alpontja szerinti járóbeteg-szakellátási kapacitás és az *i)* pont *ib)* alpontja szerinti fekvőbeteg-szakellátási kapacitás, amely nincs egészségügyi szolgáltató rendelkezésére bocsátva;
+
+r)[^18] *szakellátási kapacitás feletti rendelkezési jog:* adott szakellátási kapacitás, illetve a hozzá tartozó ellátási terület tekintetében az 5. §, az 5/B. §, a 7. § és a 10. § szerinti eljárásokban a fenntartó számára megállapított jogkör gyakorlása;
+
+s)[^19] *kapacitás-nyilvántartás:* a szakellátási kapacitásokról és a hozzátartozó ellátási területekről, valamint a tartalékkapacitásokról az 5/A. § (7)–(8d) bekezdése alapján vezetett nyilvántartás.
+
+(3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
+
+(3a)[^20] E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.
+
+(3b)[^21] A szakellátási kapacitás, illetve az ellátási terület megállapítására, módosítására, átcsoportosítására irányuló – e törvény szerinti – eljárások felfüggeszthetőek, ha a döntés meghozatalához előzetesen többletkapacitás-befogadási eljárást kell lefolytatni.
+
+## 2.[^22] Az egészségügyi szakellátás végzésére kötelezettek köre, a kötelezettség tartalma, a kötelezettség nem teljesítése esetén alkalmazandó szabályok
+
+### 1/A. §
+
+(1)[^23] Az egészségügyi közszolgáltatásért felelős szervek közül
+
+a) a helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségét,
+
+b) az állam az egészségügyi szakellátási kötelezettségét,
+
+c) az *a)* és a *b)* pont alá nem tartozó szerv az egészségügyi szakellátási feladatát
+
+a 3. § (1) bekezdés a) pontja szerinti esetben a kapacitás-nyilvántartásban meghatározott kapacitások mértékének és szakmai összetételének megfelelően a nyilvántartásban szereplő ellátási területen, a 3. § (1) bekezdés b) pontja szerinti esetben pedig a lekötött kapacitások mértékének és szakmai összetételének megfelelően teljesíti.
+
+(2) Ha az (1) bekezdés a) vagy c) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét, illetve az egészségügyi szakellátási feladatát nem teljesíti, ideiglenesen az állam – a (3)–(10) bekezdésben és az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – gondoskodik az egészségügyi szakellátási felelőssége alapján az adott szakellátási feladat ellátásáról.
+
+(3) A (2) bekezdés szerinti esetben
+
+a) az egészségügyi szakellátási intézményműködtetési kötelezettség nem teljesítését a kötelezett helyi önkormányzat a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény szerinti döntésén alapuló nyilatkozattal,
+
+b) az egészségügyi szakellátási feladat nem teljesítését az (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv nevében a nyilatkozattételre jogosult személy
+
+jelentheti be az egészségügyi államigazgatási szervnél, azzal, hogy a bejelentésben az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a szakellátási feladat nem teljesítésének okát meg kell nevezni.
+
+(4) A (2) bekezdés szerinti esetben az egészségügyi államigazgatási szerv a folyamatos ellátás biztosítása érdekében határozattal
+
+a) felhívja az (1) bekezdés a) vagy c) pontja alá tartozó szervet, hogy gondoskodjon a tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltatónál a jogszabályban előírt működési feltételeknek legkésőbb a (11) bekezdésben meghatározott időponttól történő biztosításáról, ha a (3) bekezdés szerinti bejelentés az egészségügyi szolgáltatás végzésének feltételeként az egészségügyért felelős miniszter rendeletében előírt tárgyi, illetve személyi feltételek hiányán alapul, vagy
+
+b) kijelöli azt az egészségügyi szolgáltatót, amely ideiglenesen részben vagy egészben ellátja a tárgybeli szakellátási feladatokat, vagy
+
+c) elrendeli, hogy a feladatot részben vagy egészben az átmeneti időszak alatt is az önkormányzat tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltató lássa el, ha az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladatot ez az egészségügyi szolgáltató végezte a (3) bekezdés szerinti bejelentés előtt is,
+
+azzal, hogy az *a)-c)* pontban meghatározott egyes intézkedések egyidejűleg együtt is alkalmazhatóak.
+
+(5) A (2) bekezdés szerinti esetben az egészségügyi államigazgatási szerv a folyamatos ellátás biztosítása érdekében a (4) bekezdés szerinti intézkedések mellett határozattal elrendelheti az egészségügyi szakellátási intézményműködtetési kötelezettségét nem teljesítő önkormányzat tulajdonában lévő, az intézményműködtetési kötelezettség részét képező szakellátási feladathoz használt vagyonelemeknek a (4) bekezdés b), illetve c) pontja szerinti szolgáltató számára történő ingyenes használatba adását.
+
+(6) A (4) bekezdés b) pontja szerinti esetben több egészségügyi szolgáltató is kijelölhető. Az egészségbiztosító az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint a kijelölés időtartamára határozott idejű finanszírozási szerződést köt a kijelölt szolgáltatókkal, illetve módosítja a kijelölt szolgáltatók hatályos finanszírozási szerződését az átmeneti időszak alatt általuk ellátandó feladatra tekintettel. A kijelölt szolgáltatók által az átmeneti időszak alatt végzett feladat finanszírozására vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+
+(7) A (4) bekezdés c) pontja szerinti esetben ideiglenesen
+
+a) az egészségügyi szolgáltató feletti – az Eütv.-ben meghatározott – szakmai fenntartói jogköröket a Kormány által kijelölt szerv,
+
+b) az egészségügyi szolgáltató feletti fenntartói jogkörök közül az *a)* pont alá nem tartozókat az egészségügyi szolgáltató fenntartója a Kormány által kijelölt szerv egyetértésével
+
+gyakorolja.
+
+(8) Az önkormányzati vagyon ingyenes használatba adása az (5) bekezdés alapján akkor rendelhető el, ha az egészségügyi szakellátás folyamatos hozzáférésének biztosítása másképpen nem oldható meg. Ha az (5) bekezdés szerinti intézkedésre sor kerül, az önkormányzat biztosítja az egészségügyi szakellátási intézményműködtetési kötelezettsége keretében ellátandó egészségügyi szakellátási feladat teljesítését szolgáló vagyonának az ingyenes használatát.
+
+(9) Amennyiben a (4) bekezdés b) pontja alapján nem jelölhető ki olyan szolgáltató, amely – az (5) bekezdés szerinti határozaton alapuló ingyenes vagyonhasználati lehetőség figyelembevételével – rendelkezik a szakellátási feladat ideiglenes ellátásához szükséges személyi és tárgyi feltételekkel és a (4) bekezdés c) pontja sem alkalmazható, a folyamatos ellátás biztosítása érdekében az egészségügyi válsághelyzetre vonatkozó szabályok szerint kell – az Eütv.-ben meghatározottak szerint – eljárni, ha annak a jogszabályban meghatározott egyéb feltételei fennállnak.
+
+(10)[^24] A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni közigazgatási perben a határozat végrehajtása felfüggesztésének nincs helye.
+
+(11) Ha a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap utolsó napját követően
+
+a) az (1) bekezdés a) pontja alá tartozó szerv az egészségügyi szakellátási intézményműködtetési kötelezettségét a *c)* pont alá nem tartozó egyéb okból továbbra sem tudja teljesíteni,
+
+b) a *c)* pont alá nem tartozó egyéb okból az (1) bekezdés c) pontja alá tartozó szerv nem látja el, illetve korábbi nyilatkozata alapján nem fogja ellátni az egészségügyi szakellátási feladatát, vagy
+
+c) az (1) bekezdés a), illetve c) pontja alá tartozó szerv tulajdonában, illetve fenntartásában lévő egészségügyi szolgáltatónál a jogszabályban előírt működési feltételek továbbra sem teljesülnek
+
+a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. hónap első napjától véglegesen az állam gondoskodik azzal, hogy a szakellátási feladat egyidejűleg az állam egészségügyi szakellátási kötelezettségének részévé válik és a helyi önkormányzat egészségügyi szakellátási intézményműködtetési kötelezettsége, illetve az (1) bekezdés c) pontja alá tartozó szerv szakellátási feladat ellátására irányuló kötelezettsége megszűnik.
+
+(12) A (2) bekezdés alapján az ideiglenes állami gondoskodás, a (11) bekezdés alapján pedig az állam szakellátási kötelezettségének részévé válik valamennyi olyan közfinanszírozott szakellátási feladat, amire az érintett helyi önkormányzat egészségügyi szakellátási intézményműködtetési kötelezettsége kiterjedt, illetve az (1) bekezdés c) pontja alá tartozó egészségügyi közszolgáltatásért felelős szerv érintett egészségügyi szolgáltatója ellátott.
+
+### 1/B. §
+
+(1) A szakellátási feladatnak az 1/A. § (11) bekezdés alapján történő állami egészségügyi szakellátási kötelezettség részévé válásának időpontjában (a továbbiakban: átvétel időpontja) e törvény erejénél fogva – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdése szerint – az államra száll
+
+a) a helyi önkormányzat tulajdonában, illetve fenntartásában lévő, az 1/A. § (11) bekezdése alapján állami szakellátási kötelezettség részévé váló feladatot (a továbbiakban: átvett feladat) ellátó egészségügyi intézmény, és
+
+b) a helyi önkormányzatnak az *a)* pont szerinti intézményhez kapcsolódó valamennyi ingón és ingatlanon fennálló tulajdonjoga és – a szellemi tulajdonjogok kivételével – a helyi önkormányzatot megillető olyan vagyoni értékű jog, amely az átvett feladat ellátásához szükséges, illetve közvetlenül azt szolgálja, és nevesítetten a feladathoz, valamint az *a)* pont szerinti intézményhez kapcsolódik.
+
+(2) Az átvétel időpontjában e törvény erejénél fogva az államra száll az átvett feladat ellátását végző vagy az átvett feladat ellátásában megállapodás alapján közreműködő, a helyi önkormányzat vagy az átvett intézmény által alapított közalapítvány, alapítvány alapítói joga. A helyi önkormányzat vagy az átvett feladatot ellátó egészségügyi intézmény által más alapítóval közösen alapított, az átvett feladat ellátását végző vagy az átvett feladat ellátásában közreműködő alapítvány vagy közalapítvány esetén kizárólag a helyi önkormányzatot vagy az átvett intézményt megillető alapítói jog száll az államra.
+
+(3) Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben az átvétel időpontjában szereplő nyilvántartási értékkel.
+
+(4) Az átvett feladattal összefüggésben állami tulajdonba kerülő ingatlan tekintetében a tulajdonjog bejegyzésére a Kormány által kijelölt szerv kérelmére, az átadás-átvételről a Kormány rendeletében meghatározott módon elkészített jegyzőkönyv alapján díj- és illetékmentes eljárás keretében kerül sor.
+
+(5)[^25] Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében – az (5a) bekezdésben foglalt kivétellel – az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
+
+(5a)[^26] Az (1) bekezdés alapján állami tulajdonba került ingatlanok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja. Az ingatlanok tekintetében az MNV Zrt. tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére az MNV Zrt. kérelme alapján kerül sor.
+
+(6)[^27] Az OKFŐ az (5) bekezdés szerinti tulajdonosi joggyakorlása során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei szerint jár el azzal, hogy önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
+
+### 1/C. §
+
+(1) Az egészségügyi intézményt az állam az egészségügyi intézmény kötelezettségvállalásai alapján keletkezett fizetési kötelezettségekkel együtt veszi át.
+
+(2) Az átvett feladathoz kapcsolódó, a helyi önkormányzat által vállalt fizetési kötelezettségből eredő szállítói tartozások fedezetére a helyi önkormányzat az átvétel időpontjának évére vonatkozó költségvetési rendeletében elkülönített időarányos forrást az átvétel időpontját követő 30. napig átutalja a Kormány által kijelölt szerv fizetési számlájára.
+
+### 1/D. §
+
+(1) Az állam átvállalja az átvett intézményt az átvétel időpontját megelőző napon tulajdonló vagy fenntartó önkormányzatnak az átvállalás időpontjában fennálló azon adósságát és annak járulékait, amely Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 3. § (1) bekezdés a) és b) pontjában foglaltaknak megfelelő – kölcsönjogviszonyon, vagy hitelviszonyt megtestesítő értékpapíron (kötvényen) alapuló – tartozásokat foglalja magában, és kifejezetten és nevesítetten az átvett vagyonhoz kapcsolódóan keletkezett.
+
+(2) Az átvállalható adósság tőkeösszege nem haladhatja meg az átvétel időpontjában fennálló, (1) bekezdés szerinti adósság tőkeösszegének, valamint azon átvett vagyon értékét, amelyhez kifejezetten és nevesítetten kapcsolódóan keletkezett, és nem terjedhet ki folyószámlahitelre.
+
+(3) Az (1) bekezdés szerinti adósság részét képező, hitelviszonyt megtestesítő értékpapírok esetében az állam az értékpapír lejárat előtti visszaváltásából eredő, a lejárt kölcsön- vagy hiteljogviszony esetén az abból származó fizetési kötelezettséget vállalja át és teljesíti. E fizetési kötelezettségét az állam – a hitelező beleegyezésével – a kötvénytulajdonostól történő, az adott értékpapírban foglalt pénzügyi kötelezettségek tekintetében azonos feltételekkel rendelkező hitel felvételével vagy állampapírok átadásával is kiválthatja.
+
+(4) Az állam – az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előterjesztése és a Kormány döntése alapján – az egyedi állami kezességre vonatkozó szabályok szerint átvállalja az átvett intézményt az átvétel időpontját megelőző napon tulajdonló vagy fenntartó önkormányzat azon kezességvállalásait, amelyek az átvett vagyonhoz kapcsolódnak.
+
+(5) Az állam nevében az (1) és (3) bekezdés szerinti adósságátvállalás, valamint a (4) bekezdés szerinti kezességvállalás során az államháztartásért felelős miniszter jár el az egészségügyért felelős miniszter megkeresése alapján. Megkeresésében az egészségügyért felelős miniszter nyilatkozik az (1) bekezdésben foglalt feltételek fennállásáról, és adatot szolgáltat az átvállalandó kötelezettségállományról. Az államháztartásért felelős miniszter az egészségügyért felelős miniszter megkeresését és hiánytalan adatszolgáltatását követő 60 napon belül gondoskodik az adósság átvállalásáról akként, hogy az Államadósság Kezelő Központ Zrt. útján megállapodást köt az önkormányzattal és hitelezőivel.
+
+### 1/E. §
+
+(1) A helyi önkormányzat helyébe – az (5) bekezdésben meghatározott kivétellel – az átvett intézménnyel, illetve vagyonnal, és az átvett feladattal kapcsolatos jogviszonyok tekintetében – az átvétel időpontjában – általános és egyetemes jogutódként az állam lép.
+
+(2) A helyi önkormányzatok által önállóan alapított, valamint a helyi önkormányzatok által más alapítóval közösen alapított alapítványban, illetve közalapítványban a helyi önkormányzatot megillető alapítói jogok és kötelezettségek gyakorlására az átvétel időpontjától a Kormány által kijelölt szerv jogosult.
+
+(3) Az államot mint jogutódot a helyi önkormányzatnak az átvett feladattal összefüggő jogai és kötelezettségei tekintetében bírósági, hatósági eljárásban, valamint harmadik személlyel szemben a Kormány által kijelölt szerv képviseli. A jogutódlásról a bíróság, hatóság a jogutódlás megállapítása iránti kérelem benyújtását követően haladéktalanul, de legkésőbb 15 napon belül dönt.
+
+(4) Az átvett feladatot ellátó egészségügyi intézménnyel mint adóssal, kötelezettel szemben elrendelt bírósági és közigazgatási végrehajtást a végrehajtást foganatosító bíróság, közigazgatási végrehajtás esetében a végrehajtást megindító hatóság, a fellebbezés elbírálására jogosult hatóság, illetve a felügyeleti szerv a Kormány által kijelölt szerv kérelmére – ha jogutódlásról korábban még nem döntöttek, a jogutódlás megállapításával együtt – egy alkalommal három hónapra felfüggeszti.
+
+(5) Az átvett feladathoz kapcsolódó európai uniós társfinanszírozású projektek tekintetében a kedvezményezett helyi önkormányzat jogutódja a fejlesztéssel érintett egészségügyi intézmény. A támogatási szerződésnek a jogutódlás, valamint a fenntartóváltozás miatt szükséges módosítását az átvett feladatot ellátó egészségügyi intézmény az átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
+
+(6) Az átadás-átvételi eljárásra vonatkozó szabályokat a Kormány rendeletben határozza meg.
+
+### 1/F. §
+
+(1) A tulajdonjog és a fenntartói jog e törvény szerinti átszállása nem érinti
+
+a) az átvett intézmény, illetve a tulajdonosa vagy fenntartója által kötött közreműködői szerződés, egészségügyi ellátási szerződés és megállapodás, valamint az ezekhez kapcsolódó vagyonkezelési szerződés érvényességét,
+
+b) az átvett intézmény finanszírozási szerződésének érvényességét.
+
+(2) Az az egészségügyi szolgáltató, amely e törvény alapján nem kerül az állam által átvételre, viszont az átvett feladat ellátásához az állam tulajdonába került vagyont használ, a szakellátási feladat ellátásához kapcsolódó határozatok, egészségügyi ellátási szerződések, megállapodások és vagyonkezelési szerződések alapján a szakellátási feladatot az e törvény alapján megállapított szakellátási kapacitás erejéig a határozatban, szerződésben, illetve a megállapodásban foglaltaknak megfelelően az átvétel időpontját követően is ellátja.
+
+(3) Az (1) bekezdés a) pontja és a (2) bekezdés szerinti szerződést, illetve megállapodást a Kormány által kijelölt szerv – legalább 60 napos felmondási idővel – az átvétel időpontját követő hat hónapon belül felmondhatja az azokban meghatározott feltételektől és a 2/E. § (1) bekezdésétől eltérően.
+
+### 1/G. §
+
+(1) A tulajdonjog és fenntartói jog e törvény szerinti átszállása nem érinti az átvett intézmény által alkalmazottak közalkalmazotti jogviszonyát, munkaviszonyát, illetve az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésre irányuló jogviszonyát.
+
+(2) Az átvett feladatra vonatkozóan a helyi önkormányzatnál foglalkoztatott köztisztviselő és munkavállaló (a továbbiakban együtt: foglalkoztatott) az álláshelyével együtt a Kormány által kijelölt szerv állományába kerül át, ha azt a foglalkoztató helyi önkormányzat a kijelölt szerv részére felajánlja és a kijelölt szerv vezetője az érintett személy foglalkoztatásához hozzájárul, feltéve hogy a foglalkoztatottnak a kijelölt szervnél történő foglalkoztatását jogszabály nem zárja ki.
+
+### 1/H. §
+
+(1) Az e törvény alapján átvett intézmény főigazgatójának és gazdasági vezetőjének az átvétel időpontjában fennálló foglalkoztatásra irányuló jogviszonya, és az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására kapott vezetői megbízása a főigazgatói, gazdasági vezetői munkakör, illetve a vezetői megbízás (4) bekezdés alapján történő betöltéséig fennmarad.
+
+(2) Az (1) bekezdéstől eltérően a főigazgatói és a gazdasági vezetői feladatok ellátására határozott időre létesített jogviszony, illetve kapott vezetői megbízás a határozott idő lejártával szűnik meg abban az esetben, ha a határozott idő lejártáig a főigazgatói vagy gazdasági igazgatói munkakör, illetve vezetői megbízás a (3) és (4) bekezdés alapján nem kerül betöltésre.
+
+(3) A Kormány által kijelölt szerv az e törvény alapján átvett intézmény főigazgatói és gazdasági vezetői feladatainak ellátására az átvétel időpontját követő 90 napon belül pályázatot írhat ki. Az elbírálás során a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 20/A. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bizottságba tanácskozási joggal meg kell hívni az egészségügyi szolgáltató székhelye szerinti önkormányzat képviselő-testülete által kijelölt személyt.
+
+(4) Az (1) bekezdés szerinti, az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására irányuló jogviszony vagy vezetői megbízás megszűnésével egyidejűleg
+
+a) a korábbi vezető beosztású közalkalmazottat a kinevezése szerinti munkakörében kell tovább foglalkoztatni, vagy
+
+b) a pályázat megnyerése esetén
+
+ba) a közalkalmazott számára új vezetői megbízást kell adni, vagy
+
+bb) ha jogszabály azt előírja, a munka törvénykönyvéről szóló törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával, vele új munkaviszonyt kell létesíteni.
+
+(5) A jogviszony (1) bekezdés alapján történő megszűnése – a (6) bekezdésben foglalt kivétellel – nem érinti a jogszabályban vagy a foglalkoztatásra vonatkozó szerződésben meghatározott, a megszűnéshez kapcsolódó juttatáshoz való jogot.
+
+(6) A (4) bekezdés b) pont bb) alpontja szerinti esetben, ha az intézmény korábbi főigazgatójával vagy gazdasági vezetőjével a pályázat megnyerésére tekintettel új munkaviszonyt kell létesíteni, a főigazgatót vagy a gazdasági vezetőt a korábbi munkaviszonya megszűnésével összefüggésben munkaszerződésen vagy jogszabályon alapuló végkielégítés és szabadságmegváltás nem illeti meg, és
+
+a) a (4) bekezdés b) pont bb) alpontja alapján létesített jogviszony megszűnése vagy megszüntetése esetén a végkielégítésre való jogosultság tartamának megállapításakor a (4) bekezdés szerinti jogcímen megszűnt és létesített jogviszonyok időtartamát össze kell számítani, valamint
+
+b) a ki nem adott szabadságot az új jogviszonyban kell kiadni, illetve annak megszűnése vagy megszüntetése esetén megváltani.
+
+(7) A gazdasági társasági formában működő egészségügyi szolgáltató esetében a Kormány által kijelölt szerv a gazdasági társaságokról szóló törvény rendelkezéseire figyelemmel gondoskodik a gazdasági társaság ügyvezetésének biztosításáról.
+
+### 1/I. §
+
+(1) Ha az átvett feladatot ellátó helyi önkormányzati egészségügyi intézmény az átvett feladaton túl más egészségügyi vagy egyéb közfeladatot is ellát, a vagyonnak és a felmerülő költségeknek az állam által átvett feladat és az egészségügyi intézmény által ellátott egyéb egészségügyi vagy más közfeladatnak megfelelő megosztásáról a Kormány által kijelölt szerv és az érintett vagyontárgyat tulajdonló helyi önkormányzat a szakellátási feladat állam általi átvételét követőn 30 napon belül megállapodik. A megállapodást a Kormány rendelete szerinti átadás-átvétel során figyelembe kell venni.
+
+(2) Az (1) bekezdés szerinti esetben az átvett feladathoz kapcsolódó vagyon – a megállapodásban foglaltak szerint – e törvény erejénél fogva a megállapodásban meghatározott időpontban száll az államra.
+
+(3) Ha az (1) bekezdés szerinti megállapodás nem jön létre határidőn belül, a Kormány által kijelölt szerv, illetve a tulajdonos helyi önkormányzat kérelmére – bíróság dönt az (1) bekezdésben meghatározott kérdésekről.
+
+(4) A bíróság a (3) bekezdés szerinti eljárásban soron kívül jár el.
+
+(5) Ha a kereset benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, a bíróság az eljárást megszünteti.
+
+(6) A helyi önkormányzat a feladat átvételének időpontját követően csak a Kormány által kijelölt szerv jóváhagyásával
+
+a) idegenítheti el, terhelheti meg az átvett feladathoz kapcsolódó vagyonelemeket,
+
+b) csökkentheti az átvett feladat ellátásában részt vevő gazdasági társaságok törzs-, illetve alaptőkéjét.
+
+(7) A (6) bekezdésben foglaltak alól kivételt képeznek az átvett feladat és az egészségügyi intézmény által ellátott egyéb közfeladat, illetve az ezekhez kapcsolódó vagyon szétválasztásához szükséges és az átvett feladatnak az állam általi ellátását nem veszélyeztető olyan intézkedések, amelyet a Kormány által kijelölt szerv által előzetesen engedélyezett.
+
+(8)[^28] Ha az átvett feladatot ellátó helyi önkormányzati egészségügyi intézmény a feladat átvételekor az átvett feladaton túl más egészségügyi vagy egyéb közfeladatot is ellát, a folyamatos ellátás biztosítása érdekében
+
+a) az 1/A. § (5) bekezdése alapján hozott határozat az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig alkalmazható, vagy
+
+b) az egészségügyi államigazgatási szerv elrendelheti az 1/A. § (5) bekezdése szerinti vagyonelemeknek a szakellátási feladatot az 1/A. § (11) bekezdésében meghatározott időponttól ellátó egészségügyi szolgáltató számára – az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig – történő ingyenes használatba adását,
+
+azzal, hogy a vagyonnak az átvett feladat ellátása érdekében történő hasznosítása nem akadályozhatja a vagyonhoz kapcsolódó más egészségügyi és egyéb közfeladat ellátását.
+
+### 1/J. §
+
+(1) Ha az átvett feladat ellátásáról a helyi önkormányzat önkormányzati társulás útján gondoskodott, az átvett feladat tekintetében a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvénynek (a továbbiakban: Mötv.) az önkormányzati társulás megszűnésére vonatkozó szabályait alkalmazni kell.
+
+(2) Az (1) bekezdés szerinti esetben az átvett feladatot ellátó intézmény, illetve az átvett feladat ellátására szolgáló önkormányzati vagyon abban az időpontban száll át az államra, amikor azt az érintett helyi önkormányzat az Mötv. 90. § (4) bekezdése alapján a társulástól visszakapta.
+
+(3)[^29] Ha az átvett feladat ellátásáról a helyi önkormányzat önkormányzati társulás útján gondoskodott, a folyamatos ellátás biztosítása érdekében
+
+a) az 1/A. § (5) bekezdése alapján hozott határozat az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig alkalmazható, vagy
+
+b) az egészségügyi államigazgatási szerv elrendelheti az 1/A. § (5) bekezdése szerinti vagyonelemeknek a szakellátási feladatot az 1/A. § (11) bekezdésében meghatározott időponttól ellátó egészségügyi szolgáltató számára – az átvett feladat ellátására szolgáló helyi önkormányzati vagyon államra történő átszállásáig – történő ingyenes használatba adását.
+
+## 3.[^30] A szakellátási feladat ellátására irányuló megállapodás és az egészségügyi ellátási szerződés
+
+### 2. §[^31]
+
+(1) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi szakellátási kötelezettségének, illetve az egészségügyi szakellátási intézményműködtetési kötelezettségének vagy az egészségügyi szakellátási feladatának, valamint az állam a (2) bekezdés szerinti ideiglenes feladatának (a továbbiakban együtt: ellátási kötelezettség) teljesítése érdekében
+
+a) más egészségügyi közszolgáltatásért felelős szervvel vagy más fenntartóval az ellátási kötelezettség teljesítéséről megállapodást, vagy
+
+b) egészségügyi ellátási szerződést
+
+köthet.
+
+(2)[^32] A megállapodás vagy az egészségügyi ellátási szerződés megkötése az egészségügyi közszolgáltatásért felelős szerv 1/A. § (1) bekezdése szerinti ellátási kötelezettségét és felelősségét – a (4) bekezdésben meghatározott kivétellel – nem érinti. A megállapodás, illetve az egészségügyi ellátási szerződés megszűnése esetén az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról haladéktalanul köteles gondoskodni. Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szerződés tárgyát képező feladat – saját fenntartásában lévő szolgáltatójával vagy az (1) bekezdésben meghatározott módon történő – ellátásáról a megállapodás, illetve az egészségügyi ellátási szerződés megszűnését követő 30 napon belül nem gondoskodik, az egészségügyi államigazgatási szerv a 2. alcím szerinti, a kötelezettség nem teljesítése esetén alkalmazandó szabályok alkalmazásával jár el.
+
+(3)[^33] Az (1) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés fennállása esetén a megállapodás, illetve az egészségügyi ellátási szerződés tárgyát képező feladat ellátásához ideiglenesen átadott szakellátási kapacitás tekintetében a szakellátási kapacitás feletti rendelkezési jog az egészségügyi közszolgáltatásért felelős szervet illeti meg.
+
+(4) Ha az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatatásért felelős szerv másik egészségügyi közszolgáltatásért felelős szervvel köt megállapodást, a megállapodás tárgyát képező feladat tekintetében az 1/A. § (1) bekezdés c) pontja szerinti egészségügyi közszolgáltatásért felelős szerv felelőssége megszűnik és a másik egészségügyi közszolgáltatásért felelős szerv felelősségének részévé válik.
+
+(5) Az egészségügyi ellátási szerződést az egészségügyi közszolgáltatásért felelős szerv köti a feladat ellátását vállaló, nem a saját fenntartásában vagy tulajdonában álló egészségügyi szolgáltatóval.
+
+(6) Az egészségügyi ellátási szerződés érvényességéhez szükséges
+
+a) a feladat ellátását vállaló egészségügyi szolgáltató fenntartójának hozzájárulása,
+
+b)[^34] az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötéséig ellátó egészségügyi szolgáltató tulajdonosának hozzájárulása, ha a szerződés nem tartalmazza az ellátási kötelezettsége teljesítése érdekében egészségügyi ellátási szerződést kötő egészségügyi közszolgáltatásért felelős szerv nyilatkozatát arról, hogy a szerződés megkötésére fenntartóként jogosult a fenntartásában működő – az ellátási szerződés tárgyát képező feladatot az egészségügyi ellátási szerződés megkötését megelőzően ellátó – egészségügyi szolgáltató tulajdonosának hozzájárulása nélkül,
+
+c) az egészségügyi szakellátási intézményműködtetési kötelezettség körébe tartozó feladat tekintetében a Kormány által kijelölt szerv jóváhagyása, ha a szerződést egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv köti.
+
+(7) Az egészségügyi közszolgáltatásért felelős szerv az (1) bekezdés a) pontja szerinti megállapodás, illetve az (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés megkötésétől számított 15 napon belül bejelenti az egészségügyi államigazgatási szervnek a megállapodás, illetve a szerződés
+
+a) megkötésének tényét és időpontját,
+
+b) tárgyát képező szakellátási feladatot ellátó egészségügyi szolgáltatót és fenntartóját,
+
+c) érvényességének idejét, és
+
+d) tárgyát képező szakellátást és az ahhoz kapcsolódóan ideiglenesen átadott kapacitásokat.
+
+(8) Az egészségügyi közszolgáltatásért felelős szerv az (1) bekezdés a) pontja szerinti megállapodás, illetve az (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés megszűnésének tényét legkésőbb a megszűnés várható időpontját megelőző 15. napig, a 2/E. § (2) vagy (5) bekezdése alapján történő felmondás esetében pedig a felmondással egyidejűleg bejelenti az egészségügyi államigazgatási szervnek.
+
+(8a)[^35] A (7), illetve a (8) bekezdés szerinti bejelentési kötelezettség nem teljesítése esetén – az egészségügyi hatósági és igazgatási tevékenységről szóló törvényben meghatározottak szerinti – egészségügyi bírság kiszabásának van helye.
+
+(9) Az az egészségügyi közszolgáltatásért felelős szerv vagy más fenntartó, aki az (1) bekezdés a) pontja szerinti megállapodás alapján ellátási kötelezettséget teljesít, ugyanarra az ellátási kötelezettségre további megállapodást vagy egészségügyi ellátási szerződést nem köthet.
+
+(10) Ha egészségügyi szolgáltatónál megállapodással, illetve egészségügyi ellátási szerződéssel érintett feladathoz kapcsolódva jön létre, illetve kerül befogadásra e törvény alapján kapacitás, az – figyelemmel a (2) bekezdésben foglaltakra – a szakellátási feladatot átadó egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó feladatok ellátására szolgál.
+
+### 2/A. §[^36]
+
+(1) Az egészségügyi szolgáltató az egészségügyi ellátási szerződésben kötelezettséget vállal arra, hogy az egészségügyi közszolgáltatásért felelős szerv ellátási kötelezettségébe tartozó közszolgáltatások közül a szerződésben meghatározott szolgáltatásokat folyamatosan, a jogszabályokban és az egészségügyi szakmai szabályokban előírtak betartásával, területi ellátási kötelezettséggel nyújtja.
+
+(2)[^37]
+
+(3)[^38]
+
+### 2/B. §[^39]
+
+(1)[^40] Az egészségügyi ellátási szerződés – ha a felek eltérően nem állapodnak meg – határozatlan időre szól. A határozott időre szóló egészségügyi ellátási szerződést legalább két évre kell megkötni.
+
+(2) Az egészségügyi ellátási szerződésben foglalt jogokat és kötelezettségeket az egészségügyi szolgáltató nem ruházhatja tovább, külön jogszabály szerinti közreműködőt azonban igénybe vehet.
+
+### 2/C. §[^41]
+
+(1) Egészségügyi ellátási szerződés nem köthető azzal az egészségügyi szolgáltatóval,
+
+a) amely csőd-, felszámolási eljárás vagy végelszámolás alatt áll,
+
+b) amelynek az adó- vagy vámhatóságnál nyilvántartott, végrehajtható adó-, vám- vagy társadalombiztosítási tartozása van,
+
+c) aki, vagy amelynek vezetője, képviseletre feljogosított tagja vagy tisztségviselője büntetett előéletű, vagy az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
+
+d) amelynek a tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény szerint a bíróság jogerős ítéletében korlátozta, a korlátozás időtartama alatt, vagy a szerződés megkötését megelőző három éven belül ugyanezen törvény alapján pénzbírság megfizetésére kötelezte,
+
+e) amelynek egészségügyi közszolgáltatásra vonatkozó egészségügyi ellátási szerződését – az újabb szerződés megkötését megelőző három éven belül – szerződésszegés miatt azonnali hatállyal felmondták.
+
+(2)[^42] Az (1) bekezdés a) és c)–e) pontjában felsorolt körülményekről az egészségügyi szolgáltatónak nyilatkoznia kell, a *b)* pontban foglaltakról pedig az állami adóhatóság igazolását kell csatolni.
+
+### 2/D. §[^43]
+
+(1)[^44] Az 1. § (2) bekezdés p) pontja szerinti szakellátási kötelezettséggel rendelkező fenntartóhoz tartozó egészségügyi szolgáltató kivételével az egészségügyi ellátási szerződés alapján ellátást nyújtó egészségügyi szolgáltató köteles vagyoni biztosítékot adni. A vagyoni biztosíték módját és mértékét az egészségügyi ellátási szerződés tartalmazza.
+
+(2)[^45]
+
+(3) Vagyoni biztosíték lehet:
+
+a) bankgarancia,
+
+b) az egészségügyi szolgáltató által hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét).
+
+Az egyes biztosítékformák külön-külön vagy együttesen is alkalmazhatók.
+
+(4)[^46]
+
+(5)[^47]
+
+(6)[^48]
+
+(7)[^49] A vagyoni biztosíték megállapítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+(8)[^50] A vagyoni biztosíték meglétét az egészségügyi szolgáltató az egészségügyi közszolgáltatásról készített éves beszámolója alkalmával igazolja.
+
+(9) A vagyoni biztosíték a 2/G. §-ban meghatározott adósságállomány rendezésére vagy az egészségügyi ellátási szerződés felmondása esetén használható fel, ha az egészségügyi közszolgáltatás folyamatos fenntartása más módon nem biztosítható.
+
+(10) Az egészségügyi szolgáltató a vagyoni biztosítékot legkorábban az egészségügyi ellátási szerződés megszűnését követő három hónap elteltével szüntetheti meg, ha a szerződésből eredő kötelezettségeit teljesítette.
+
+### 2/E. §[^51]
+
+(1)[^52] A felek a határozatlan időre kötött egészségügyi ellátási szerződést a másik félhez írásban intézett felmondással megszüntethetik. A felmondási határidő – a (2)–(3) bekezdésben foglaltakat kivéve – 6 hónapnál nem lehet rövidebb. A határozatlan időre szóló egészségügyi ellátási szerződés a hatálybalépésétől számított 2 évig rendes felmondással nem szüntethető meg.
+
+(2) A közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést az (1) bekezdésben meghatározott felmondási időnél rövidebb határidővel is felmondhatja, ha
+
+a)[^53] saját ellenőrzése, az egészségügyi államigazgatási szerv, az egészségügyi szolgáltatónál működő szakmai vezető testület, a kórházi felügyelő tanács, a betegjogi képviselő vagy a betegek érdek-képviseleti szerveinek jelzése alapján megállapítható, hogy az egészségügyi szolgáltatás nyújtásának minősége csökkent, és e minőségcsökkenést az egészségügyi államigazgatási szervnek a közszolgáltatásért felelős szerv felkérésére lefolytatott célellenőrzése is igazolja,
+
+b) az egészségügyi szolgáltató a területi ellátási kötelezettségét folyamatosan, súlyosan megszegi,
+
+c) az egészségügyi szolgáltató lejárt adósságának mértéke eléri a 2/G. § (1) bekezdés b) pontjában foglalt értéket vagy a biztonságos szolgáltatás helyreállítására tett intézkedések nem vezettek eredményre,
+
+d) az egészségbiztosító jelzése alapján az egészségügyi szolgáltató súlyosan megszegte a közszolgáltatás finanszírozására vonatkozó szerződést.
+
+(3) A (2) bekezdésben foglaltak alapján az egészségügyi ellátási szerződés olyan határidővel mondható fel, amely alatt biztosítható az egészségügyi közszolgáltatás folyamatossága.
+
+(4) A felmondási idő alatt az egészségügyi szolgáltató köteles a szerződésben vállalt közszolgáltatást folyamatosan teljesíteni. A közszolgáltatásért felelős szerv a közszolgáltatás teljesítését az egészségügyi szolgáltatóhoz rendelt ellenőre útján ellenőrizheti.
+
+(5) A közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést azonnali hatállyal felmondja, ha
+
+a) az egészségügyi szolgáltató működési engedélyét visszavonták,
+
+b) az egészségügyi szolgáltató végelszámolási vagy felszámolási eljárás alatt áll,
+
+c) az egészségügyi szolgáltató súlyosan megszegte a közszolgáltatás finanszírozására vonatkozó szerződést, és emiatt a finanszírozási szerződést felmondták,
+
+d) jogi személy egészségügyi szolgáltatóval szemben a 2/C. § (1) bekezdés d) pontjában meghatározott intézkedést szabták ki,
+
+e) az egészségügyi szolgáltató a 2/G. § (3) bekezdésében előírtak szerint nem pótolta a vagyoni biztosítékot.
+
+(6) A felmondási idő alatt, illetőleg az egészségügyi ellátási szerződés azonnali hatályú felmondása esetén a közszolgáltatásért felelős szerv az ellátás folyamatosságát a 2/D. §-ban meghatározott vagyoni biztosíték igénybevételével is biztosíthatja.
+
+(7)[^54] A szerződés megszűnésekor a nem a finanszírozás körébe tartozó, felek közötti elszámolás a szerződés megkötésekor meglévő vagyonról szóló tételes lista alapján történik.
+
+(8) Az egészségügyi ellátási szerződés felmondásáról az egészségügyi közszolgáltatásért felelős szerv az egészségbiztosítót haladéktalanul értesíti.
+
+(9)[^55] Az egészségügyi ellátási szerződés, illetve annak a határozattal érintett része megszűnik, ha a szerződés szerinti kapacitás a feladatot a szerződés alapján ellátó egészségügyi szolgáltató számára megállapításra kerül.
+
+(10)[^56] Ha a szerződés szerinti kapacitás a feladatot a szerződés alapján ellátó egészségügyi szolgáltatón kívüli másik szolgáltató számára kerül megállapításra, az ellátás folyamatos biztosítása érdekében az egészségügyi ellátási szerződés tekintetében az új egészségügyi közszolgáltatásért felelős szerv a korábbi egészségügyi közszolgáltatásért felelős szerv helyébe lép, kivéve ha az új egészségügyi közszolgáltatásért felelős szerv a határozat végrehajthatóvá válásának időpontjáig arról nyilatkozik a feladatot a szerződés alapján ellátó szolgáltató felé, hogy a szerződést nem kívánja fenntartani. Ha az új egészségügyi közszolgáltatásért felelős szerv a szerződést nem kívánja fenntartani, a szerződés, illetve annak a határozattal érintett része a határozat alkalmazásának kezdő időpontjában megszűnik. A nyilatkozatot az új egészségügyi közszolgáltatásért felelős szerv tájékoztatásul megküldi az egészségügyi államigazgatási szerv részére.
+
+(11)[^57] Az egészségügyi ellátási szerződés tárgyát képező kapacitás – a 4. § szerinti eljárás és az egészségügyi közszolgáltatásért felelős szervnek a 2. § (3) bekezdésében meghatározott rendelkezési jogának kivételével – csak abban az esetben állapítható meg a (9) bekezdés, illetve a (10) bekezdés szerinti módon másik egészségügyi szolgáltató számára, ha azt az egészségügyi ellátási szerződés tárgyát képező szakellátási feladat folyamatos ellátását veszélyeztető, másképp el nem hárítható helyzet fennállása miatt felmerülő ellátási érdek indokolja.
+
+(12)[^58] Az egészségügyi ellátási szerződés megszüntethető a felek közös megegyezésével is. A közös megegyezéssel történő megszüntetés esetén a szerződés tárgyát képező egészségügyi szakellátás folyamatos biztosításáról az egészségügyi közszolgáltatásért felelős szervnek gondoskodnia kell. Ha erről az egészségügyi közszolgáltatásért felelős szerv újabb, a 2. § (1) bekezdés a) pontja szerinti megállapodás vagy a 2. § (1) bekezdés b) pontja szerinti szerződés útján gondoskodik, a közös megegyezéssel megszüntetett szerződés megszűnésének időpontja nem lehet korábbi az új szerződés, illetve megállapodás hatálybalépésének időpontjánál.
+
+### 2/F. §[^59]
+
+(1) Az egészségügyi közszolgáltatásért felelős szerv az egészségügyi ellátási szerződés alapján működő egészségügyi szolgáltatónál folytatott ellenőrzése keretében az egészségügyi szolgáltató a közszolgáltatásért felelős szerv számára
+
+a) rendelkezésre bocsátja az ellenőrzéshez szükséges adatokat, információkat, biztosítja az iratokba való betekintést;
+
+b) évente írásban beszámol az egészségügyi közszolgáltatás teljesítéséről, és megküldi az egészségügyi szolgáltató gazdálkodásáról a számviteli szabályok szerint készített beszámolót;
+
+c) haladéktalanul írásban jelenti, ha az egészségügyi szolgáltatónak a 2/G. §-ban meghatározott adóssága keletkezik.
+
+(2)[^60] Amennyiben az egészségügyi közszolgáltatásért felelős szerv a szolgáltató ellenőrzése során az egészségügyi ellátási szerződésben meghatározott minőségi mutatók alapján a szolgáltatás nyújtásának minőségét érintő hiányosságokat észlel, a hatáskörükbe tartozó kérdésekben tájékoztatja az egészségügyi államigazgatási szervet.
+
+(3) Amennyiben az egészségügyi államigazgatási szerv az egészségügyi szolgáltatók szakfelügyelete során, vagy az egészségbiztosító az egészségügyi szolgáltatóval kötött finanszírozási szerződés teljesítésének ellenőrzésekor
+
+a) az egészségügyi szolgáltatás tárgyi vagy személyi feltételeinek romlását,
+
+b) a szolgáltatásnyújtás minőségének csökkenését vagy ennek veszélyét, vagy
+
+c) a területi ellátási kötelezettség megsértését
+
+észleli, az ellenőrzésről készített jegyzőkönyv megküldésével haladéktalanul jelzi ezt az adott egészségügyi közszolgáltatásért felelős szervnek.
+
+(4) A beteg az egészségügyi szolgáltatásra vonatkozó panaszával akkor is közvetlenül fordulhat az egészségügyi közszolgáltatásért felelős szervhez, ha a közszolgáltatást egészségügyi ellátási szerződés alapján nyújtják.
+
+### 2/G. §[^61]
+
+(1)[^62] Amennyiben az egészségügyi ellátási szerződés alapján közszolgáltatást nyújtó egészségügyi szolgáltatónak 60 napon túli lejárt köztartozása vagy kifizetetlen szállítói számlája vagy egyéb adóssága van (a továbbiakban együtt: adósságállomány) és ennek összege az éves bevételének
+
+a) 3%-át eléri, a közszolgáltatásért felelős szerv az egészségügyi szolgáltató működését ellenőrzi, az egészségügyi szolgáltató vezetőjét beszámoltatja, továbbá intézkedési tervet készíttet a biztonságos gazdálkodás helyreállítására, egyidejűleg felülvizsgálja a szerződés indokoltságát,
+
+b) 6%-át eléri, vagy a biztonságos gazdálkodás helyreállítását célzó intézkedések ellenére az adósságállomány három hónapon belül nem csökken 3% alá, a közszolgáltatásért felelős szerv az egészségügyi ellátási szerződést – a közszolgáltatás más módon történő megszervezése mellett – a 2/E. § (2) bekezdés c) pontjában foglaltak szerint felmondhatja.
+
+(2) A 2/D. §-ban meghatározott vagyoni biztosítékot – amennyiben nem kerül sor az egészségügyi ellátási szerződés felmondására – az egészségügyi közszolgáltatásért felelős szerv rendelkezése szerint az egészségügyi szolgáltató az adósságállomány rendezésére felhasználhatja.
+
+(3) Az egészségügyi szolgáltató köteles a felhasznált vagyoni biztosítékot – legalább a 2/D. § (6) bekezdése szerinti mértékben – hat hónapon belül pótolni, és a pótlás megtörténtét az erre vonatkozó okiratok bemutatásával a közszolgáltatásért felelős szervnek igazolni.
+
+### 2/H. §[^63]
+
+(1)[^64] A 2. § (1) bekezdés a) pontja szerinti megállapodás vonatkozásában a 2. § (6) bekezdés c) pontjában, a 2/A. § (1) bekezdésében, valamint a 2/B–2/G. §-ban foglaltakat megfelelően alkalmazni kell.
+
+(2)[^65] Abban az esetben, ha az egészségügyi szakellátási feladat ellátásáról a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve *b)* pontja szerinti szerződés helyett vagyonkezelési vagy más egyéb szerződés rendelkezik, az adott szerződésnek a szakellátási feladat ellátásával kapcsolatos része tekintetében az 1–2/G. §-ban foglaltakat – az (1) bekezdésben meghatározottak figyelembevételével – megfelelően alkalmazni kell.
+
+(3)[^66] Az ebben az alcímben foglaltakat a 2. § (1) bekezdés a) pontja szerinti megállapodás és a 2. § (1) bekezdés b) pontja szerinti szerződés módosítása során is alkalmazni kell.
+
+## 4.[^67] Az országos kapacitásmennyiség
+
+### 3. §
+
+(1)[^68] Az egészségügyi szakellátásban rendelkezésre álló országos kapacitásmennyiség
+
+a) a kapacitás-nyilvántartásban szereplő szakellátási kapacitások (ide értve az egészségügyi államigazgatási szervnek bejelentve szüneteltetett kapacitásokat is),
+
+b) a kapacitás-nyilvántartás részét nem képező kapacitás fajták esetében a lekötött kapacitások,
+
+c) a 11/A. § (4) bekezdése szerinti nyilvántartásban szereplő szakellátási kapacitások,
+
+d) a tartalékkapacitások, és
+
+e) a 11/B. § alapján visszavont – *d)* pont alá nem tartozó – kapacitások
+
+összessége.
+
+(2)[^69] A 4. § szerinti eljárás során az (1) bekezdés szerinti kapacitásból bármely egészségügyi szolgáltató részesülhet, azzal, hogy a kapacitásban részesülő egészségügyi szolgáltatónak meg kell felelnie az intézmények és azok szervezeti egységei működési feltételéül jogszabályban meghatározott feltételeknek.
+
+(3)[^70] Az egészségügyi szolgáltatók 3 órán belül kapacitásaik 10%-át, 6 órán belül kapacitásaik 20%-át kötelesek jogszabályban meghatározottak szerint a különleges helyzet fennállásának időtartamáig rendelkezésre bocsátani:
+
+a) járványügyi helyzet,
+
+b) egészségügyi válsághelyzet,
+
+c) különleges jogrend,
+
+d) migrációs válsághelyzet,
+
+e) katasztrófahelyzet vagy
+
+f) egészségügyi veszélyhelyzet
+
+fennállása esetén.
+
+(4)[^71] Kormányrendelet határozza meg azokat a szakmákat, amelyekre az egészségügyi szakellátás körében finanszírozási szerződés köthető.
+
+(5)[^72] Az (1) bekezdés szerinti országos kapacitásmennyiség kizárólag abban az esetben emelkedhet, ha
+
+a) a többletkapacitásnak a 10. § (2) szerinti bevonását váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet teszi szükségessé,
+
+b) a többletkapacitás befogadását új egészségügyi technológia bevezetése indokolja, vagy
+
+c) a fejlesztési forrásból megvalósuló többletkapacitás befogadása a 11/A. § alapján előzetes többletkapacitás befogadási eljárás keretében történik,
+
+d) a többletkapacitás a 11. § (2) bekezdés b) pont bb) alpontja szerint kerül befogadásra.
+
+(6)[^73]
+
+## 5.[^75] A kapacitásfelosztás módosítása
+
+### 4. §[^76]
+
+(1)[^77] Az egészségbiztosító háromévente a megelőző naptári év adatai alapján térségenként megvizsgálja a térségben működő szakellátást nyújtó egészségügyi szolgáltatók lekötött kapacitásainak kihasználtságát és a kapacitásváltozás szükségességét.
+
+(2)[^78] Az egészségbiztosító az (1) bekezdés szerinti vizsgálat eredménye, valamint a 4/A. §-ban meghatározott szempontokra vonatkozó előző évi adatok alapján egészségügyi térségenként javaslatot készít a kapacitásfelosztás módosítására. A javaslatot háromévente szeptember 1-jéig kell az illetékes egészségügyi államigazgatási szervnek megküldeni.
+
+(3)[^79] Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat alapján negyvenöt napon belül dönt a kapacitásfelosztás módosításáról.
+
+(4)[^80] Az egészségügyi államigazgatási szerv a végleges határozatot megküldi az egészségügyért felelős miniszternek, a határozat véglegessé válásáról tájékoztatja az egészségbiztosítót.
+
+(5)[^81] Az (1)–(4) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító és az ellátási kötelezettséggel érintett helyi önkormányzat.
+
+### 4/A. §[^82]
+
+(1)[^83]
+
+(2)[^84]
+
+(3)[^85] A 4. § szerinti és a 7. § szerinti eljárások során a kapacitásmódosítás az alábbi szempontoknak az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerinti értékelése alapján kerül meghatározásra:
+
+a) az adott térség megbetegedési és halálozási mutatói,
+
+b) az ellátandó lakosság száma,
+
+c) az egy ágyra jutó betegforgalmi adatok szakterületenként,
+
+d) az egy esetre jutó ápolási idő szakterületenként,
+
+e) a külön jogszabály szerinti esetösszetételi index (CMI) szakterületenként,
+
+f) az ágykihasználtsági mutatók szakterületenként,
+
+g) a továbbküldött betegek aránya,
+
+h) az átvett betegek aránya,
+
+i) a külön jogszabály szerinti járóbeteg-szakellátásban szakterületenként az egy órában átlagosan ellátható esetszám,
+
+j) a progresszivitásban betöltött szerep,
+
+k) az elérhetőség szempontjából a helyi közúti közlekedési viszonyok, amennyiben ez alapján nem állapítható meg az elérhetőség egyértelműen, akkor a helyi tömegközlekedési viszonyok.
+
+(4) Az aktív fekvőbeteg-szakellátási kapacitásokat érintő döntéshozatal során az (1)–(3) bekezdésben foglaltakon túl biztosítani kell, hogy
+
+a) az érintett lakosság legalább 95%-a számára, legalább az alapszakmákban ellátást nyújtó aktív fekvőbeteg-szakellátó intézmény elvi elérhetősége 60 percnél kevesebb legyen,
+
+b) amennyiben a kapacitások újraosztása során az intézmény aktív fekvőbeteg-szakellátása vagy valamilyen aktív fekvőbetegszakmája kerül megszüntetésre, az ellátási területébe tartozó települések lakosai számára az adott szakmákban szolgáltatást nyújtó legközelebbi intézmény 60 percen belül elérhető legyen közúton,
+
+c)[^86] országos szakmai központok, valamint a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatók működőképessége továbbra is fenntartható legyen.
+
+(5) A járóbeteg-szakellátási kapacitásokat érintő döntéshozatal során biztosítani kell, hogy az érintett lakosság legalább 90%-a számára, legalább az alapszakmákban ellátást nyújtó járóbeteg-szakellátó intézmény elvi elérhetősége 30 percnél kevesebb legyen.
+
+(6)[^87] A (4) bekezdés a) pontjának és az (5) bekezdés alkalmazásában elvi elérhetőség alatt azt az időtartamot kell érteni, ami az átlagos közlekedési viszonyok mellett az e törvény végrehajtásáról szóló kormányrendeletben meghatározott sebességhatárokkal számítva az egészségügyi szolgáltató közúti megközelítéséhez szükséges.
+
+(7)[^88] Amennyiben a (3) bekezdésben meghatározott mutatószámok a szervezeti struktúra változása miatt vagy egyéb okból nem állnak rendelkezésre, akkor a szolgáltató kapacitásait a rendelkezésre álló adatok figyelembevételével kell megállapítani.
+
+## 6.[^89] A tartósan kihasználatlan kapacitások
+
+### 5. §
+
+(1)[^90] A fenntartó – az érintett egészségügyi szolgáltató szakmai véleményének kikérését követően – a fenntartásában működő egészségügyi szolgáltatónál jelentkező tartós ellátási igény csökkenés esetén a 2. § (1) bekezdése szerinti ellátási kötelezettsége teljesítéséhez szükséges kapacitások mértékének csökkentését kezdeményezheti az átlagtól való eltérés mértékében, illetve szakmai összetételének a 7. § (1)–(4) bekezdés szerinti eljárások során történő megváltoztatását kezdeményezheti, amennyiben a döntést megelőző évben folyamatosan
+
+a) járóbeteg-szakellátás esetén az egy rendelési órára jutó esetek száma az adott szakma vonatkozásában az előző év átlagában legalább 10 százalékkal alacsonyabb az adott szakma országos átlagánál,
+
+b) fekvőbeteg-gyógyintézeti ellátás esetén – a fertőző osztály kivételével – az ágykihasználtság az adott szakma vonatkozásában az előző év átlagában legalább 15 százalékkal alacsonyabb az adott szakma országos átlagánál.
+
+(2)[^91] Az ellátási igény tartós csökkenése esetén a fenntartónak (1) bekezdés szerinti kezdeményezése alapján az egészségügyi államigazgatási szerv – egészségbiztosító véleményének figyelembevételével – engedélyezi a kapacitások mértékének csökkentését, illetve a szakmai összetételének megváltoztatását.
+
+(3)[^92] Az egészségbiztosító a kapacitások kihasználtságát folyamatosan vizsgálja, amennyiben észleli a kapacitások tartós kihasználatlanságát, az érintett fenntartót erről szükség szerint, de évente legalább egyszer tájékoztatja. Ha a fenntartó ezen tájékoztatást követően sem jár el az (1) bekezdésben foglaltak szerint, az egészségbiztosító erről tájékoztatja egészségügyi államigazgatási szervet.
+
+(4)[^93]
+
+(5)[^94] Az egészségügyi államigazgatási szerv – az egészségbiztosítótól kapott tájékoztatás alapján – ellátási érdekből, az (1) bekezdésben meghatározott feltételek fennállása esetén hivatalból dönthet a kapacitások csökkentéséről.
+
+(6)[^95] Az e § szerint felszabaduló kapacitás tartalékkapacitásnak minősül.
+
+## 7.[^96] Az ellátási területek megállapítása és módosítása
+
+### 5/A. §[^97]
+
+(1)[^98] A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek kivételével az ellátási területeket az egészségügyi államigazgatási szerv a (2)–(6), (9) és (10) bekezdésben foglaltak, valamint egészségbiztosító véleményének figyelembevételével, az e törvény végrehajtására kiadott kormányrendelet szerint járóbeteg-szakellátásban finanszírozható szakmánként állapítja meg.
+
+(2)[^99] Az ellátási területet településenként kell meghatározni. Ha az ellátási terület valamely településnek csak egy részére terjed ki, akkor az ellátási területet a háziorvosi körzethez igazodva, vagy a település érintett része közterületek általi lehatárolásának pontos meghatározásával, vagy az adott település irányítószámának megadásával kell kijelölni.
+
+(3)[^100] Az ellátási területeket úgy kell meghatározni, hogy azok – a (9) bekezdésben foglalt kivétellel – átfedés- és hézagmentesen megfeleljenek az adott egészségügyi térség területének, azzal, hogy az (5) bekezdés és a (9) bekezdés b) pontja szerinti esetben az ellátási terület az egészségügyi térség határán túlterjedhet. Amennyiben az adott egészségügyi térségben valamely szakmában ellátást nyújtó egészségügyi szolgáltató nincs, egy másik egészségügyi térségben működő, a hiányzó szakma vonatkozásában megfelelő kapacitással rendelkező szolgáltató ellátási területe a térséghatáron túlterjedhet.
+
+(4)[^101] Amennyiben az egészségügyi szolgáltató ellátási területe a nyújtott szolgáltatások tekintetében nem egységes, az ellátási területet – az e törvény végrehajtásáról szóló kormányrendeletben meghatározott ellátások kivételével – szakmánként, illetve a progresszivitási szinteknek megfelelően kell megadni.
+
+(5)[^102] A progresszivitás magasabb szintjét képviselő, illetve speciális ellátásokat nyújtó egészségügyi szolgáltatók esetében az ellátási terület meghatározása során figyelembe kell venni a szolgáltató térséghatárokon túlnyúló ellátási területét.
+
+(6)[^103] Az ellátási terület megállapítása során a (2)–(5) bekezdésben foglaltakon túl figyelembe kell venni a 4/A. § (5) bekezdésében foglaltakat.
+
+(7)[^104] Az egészségügyi szolgáltatónak az e törvény és a végrehajtásáról szóló kormányrendeletben foglaltak alapján megállapított szakellátási kapacitásairól és – amennyiben jogszabály kivételt nem tesz – a hozzá tartozó ellátási területekről egészségügyi szolgáltatónként, valamint a tartalékkapacitásokról az egészségügyi államigazgatási szerv kapacitás-nyilvántartást vezet. A nyilvántartásba bárki betekinthet. Az egészségügyi államigazgatási szerv a saját honlapjáról biztosítja a betekintést a kapacitás-nyilvántartásba.
+
+(7a)[^105] A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
+
+(7b)[^106]
+
+(8)[^107] A kapacitás-nyilvántartás tartalmazza
+
+a) a (7) bekezdés szerinti kapacitásokra és ellátási területekre,
+
+b)[^108]
+
+c) a tartalékkapacitásokra,
+
+d) a 2. § (2)–(4) bekezdésében foglaltak figyelembevételével az egészségügyi közszolgáltatásért felelős szervre, és
+
+e) a 2. § (1) bekezdés a) pontja szerinti megállapodásra, illetve a 2. § (1) bekezdés b) pontja szerinti szerződésre
+
+vonatkozóan a (8b)–(8d) bekezdésben meghatározott adatokat.
+
+(8a)[^109] Ha a kapacitás-nyilvántartásban szereplő adatok helytállóságát valamely egészségügyi szolgáltató, illetve fenntartó vitatja, a nyilvántartást vezető egészségügyi államigazgatási szerv az adatok megváltoztatására irányuló kérelem tárgyában dönt és – szükség szerint –a kapacitás-nyilvántartást módosítja. Az egészségügyi államigazgatási szerv határozatára a 6. §-t alkalmazni kell.
+
+(8b)[^110] A kapacitás-nyilvántartásban a szakellátási kapacitások ellátási formánként, szolgáltatónként és szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
+
+a) a kapacitással rendelkező egészségügyi szolgáltató nevét, székhelyét, egyedi azonosítóját,
+
+b) a kapacitás tekintetében a közszolgáltatásért felelős szerv nevét és székhelyét,
+
+c) a kapacitással rendelkező egészségügyi szolgáltató szerinti térség megnevezését,
+
+d) a kapacitás szerinti szakma megnevezését, kódját,
+
+e) a kapacitás mennyiségét (óraszám, illetve ágyszám, illetve egyéb finanszírozási egység),
+
+f)[^111] a kapacitások módosításának, illetve változásának dátumát,
+
+g)[^112]
+
+h) a tartalékkapacitásokat,
+
+i) a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve a 2. § (1) bekezdés b) pontja szerinti szerződés
+
+ia) típusának megjelölését (ellátási szerződés/megállapodás),
+
+ib) megkötésének időpontját,
+
+ic) hatálybalépésének időpontját,
+
+id) időtartamát (határozatlan/határozott – határozott időtartam esetében annak ideje években megadva),
+
+ie) által feladat teljesítésére kötelezett fél nevét, székhelyét,
+
+if) által érintett egészségügyi szolgáltató fenntartójának nevét, székhelyét,
+
+ig) által érintett szakma megnevezését és a kapacitás mértékét,
+
+j)[^113] a speciális ellátásokat végző egészségügyi szolgáltatók esetében a speciális betegségcsoport, illetve a speciális gyógyító eljárás megnevezését,
+
+k)[^114] a speciális ellátotti körnek ellátást nyújtó szolgáltató esetében a speciális ellátotti kör megjelölését.
+
+(8c)[^115] A kapacitás-nyilvántartásban a szakellátási kapacitásokhoz kapcsolódó ellátási területek térségenként, ellátási formánként, szolgáltatónként, szakmánként szerepelnek. A kapacitás-nyilvántartás tartalmazza
+
+a) a térség megnevezését,
+
+b) az egészségügyi szolgáltató nevét, egyedi azonosítóját, székhelyét,
+
+c)[^116]
+
+d) a szakma megnevezését, kódját,
+
+e) az ellátás progresszivitási szintjét,
+
+f) az ellátási kötelezettséggel érintett ellátási területet településenként, illetve településrészenként.
+
+(8d)[^117] A kapacitás-nyilvántartásban a tartalékkapacitások a (8) bekezdés szerinti kapacitásoktól elkülönülten, ellátási terület és szolgáltatóhoz való közvetlen hozzárendelés nélkül, az alábbi formában szerepelnek:
+
+a) aktív fekvőbeteg-szakellátási tartalékkapacitások ágyszáma,
+
+b) krónikus és rehabilitációs fekvőbeteg-szakellátási tartalékkapacitások ágyszáma,
+
+c) járóbeteg-szakellátási tartalékkapacitások szakorvosi óra száma,
+
+d) járóbeteg-szakellátási tartalékkapacitások nem szakorvosi óra száma,
+
+e) egyéb teljesítményegységek szerinti tartalék finanszírozási egységek száma.
+
+(8e)[^118] A kapacitás-nyilvántartás közhitelesen tartalmazza a (8b) bekezdés c)–f) és h) pontja, a (8b) bekezdés i) pont ia)–id) és ig) alpontja, a (8b) bekezdés j) és k) pontja, a (8c) bekezdés a), d) és e) pontja, valamint a (8d) bekezdés szerinti adatokat.
+
+(9)[^119] A (3) bekezdés szerinti átfedésmentesség követelményét nem kell alkalmazni:
+
+a) az adott szakmában a progresszivitás magasabb szintjét képviselő ellátásokat nyújtó,
+
+b) a speciális ellátotti kör részére ellátást nyújtó, valamint
+
+c) uniós fejlesztési pályázat alapján befogadásra kerülő, az alapellátáshoz integrált járóbeteg-szakellátási kapacitásokon ellátást nyújtó
+
+egészségügyi szolgáltatók ellátási területének meghatározásakor.
+
+(10)[^120] Uniós fejlesztési pályázat alapján megvalósuló kapacitásokon ellátást nyújtó egészségügyi szolgáltató ellátási területét az egészségügyi államigazgatási szerv a pályázatban foglalt nyilatkozat alapján állapítja meg, ennek során a (3) és (6) bekezdésben foglaltakat nem kell alkalmaznia. Az ezt követő egy éven belül az érintett ellátási területeket az egészségügyi államigazgatási szerv a (3) és (6) bekezdésben foglaltak figyelembevételével hivatalból felülvizsgálja, illetve szükség esetén – az uniós fejlesztési pályázatban vállalt kötelezettségekre figyelemmel – módosítja. Amennyiben az ellátási terület e bekezdés szerinti megállapításakor a pályázatban foglalt nyilatkozat kétoldalúan a párhuzamos ellátások megszüntetésére irányul, a felülvizsgálat során az államigazgatási szerv az ellátási területet a hozzá tartozó kapacitásokkal együtt tekinti át, illetve módosító döntése a kapacitásokra is irányulhat.
+
+(11)[^121] A fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területeket – egészségbiztosító véleményének figyelembevételével – az egészségügyi államigazgatási szerv
+
+a) azoknak az eseteknek a kivételével, amikor szakmai szempontból indokolatlan az ellátási területnek az adott szakmához tartozóan valamennyi progresszivitási szinten történő megállapítása, az aktív fekvőbeteg-szakellátások tekintetében a külön jogszabály szerinti progresszivitási szintenként külön-külön,
+
+b) az e törvény végrehajtásáról szóló kormányrendeletben meghatározott ellátások kivételével az e törvény végrehajtására kiadott kormányrendelet szerinti fekvőbeteg-szakellátásban finanszírozható szakmánként,
+
+c) a (9) bekezdés b) pontja szerinti eset, valamint az e törvény végrehajtásáról szóló kormányrendeletben meghatározott ellátások kivételével átfedésmentesen,
+
+d) hézagmentesen,
+
+e)[^122] az e törvény végrehajtásáról szóló kormányrendeletben meghatározott esetek kivételével az 1. § (2) bekezdés g) pontja szerinti egészségügyi térség határainak figyelembevételével
+
+f) aktív fekvőbeteg-szakellátások tekintetében a progresszivitás alapszintjén a 4/A. § (4) és (6) bekezdésében foglalt elérési szabályok figyelembevételével,
+
+g) a szolgáltató rendelkezésére álló kapacitás, valamint a szolgáltató által ellátott terület közötti arányoknak az adott szakma országos átlagához viszonyított aránya figyelembevételével,
+
+h) az aktív fekvőbeteg-szakellátások tekintetében a magasabb progresszivitási szintű ellátást nyújtó szolgáltatók esetén a progresszivitási szintekre jutó kapacitások arányainak és az egyes progresszivitási szinteken végzett beavatkozások tárgyévet megelőző év betegforgalom szerinti arányainak figyelembevételével, és
+
+i) a (2) és (10) bekezdésében foglaltak figyelembevételével
+
+állapítja meg.
+
+(11a)[^123] Az (1) és a (11) bekezdésben foglaltaktól eltérően nem kell ellátási területet megállapítani az e törvény végrehajtásáról szóló rendeletben meghatározott szakmák, ellátási formák és esetek tekintetében, ha
+
+a) az ellátási terület megállapítása következtében az intézmény által végzett szakmák tekintetében a területi ellátási kötelezettségbe tartozó települések között területi hézag alakulhatna ki, vagy
+
+b)[^124] az ellátási terület megállapítása a szakmánál kisebb egységekben valósulna meg, és ennek következtében az egészségügyi szolgáltatók által ellátott feladatokkal lefedett települések között területi hézag alakulhatna ki,
+
+c)[^125]
+
+(12)[^126] A sürgősségi ellátást igénylő esetben a (2)–(11) bekezdésen foglaltak alapján megállapított ellátási területnek és az e törvény végrehajtásáról szóló kormányrendeletben meghatározott egészségügyi térségnek a határai figyelmen kívül hagyhatóak, amennyiben a beteg sürgősségi ellátására alkalmas legközelebbi egészségügyi szolgáltatónál történő ellátás-igénybevétel érdekében szükséges.
+
+### 5/B. §[^127]
+
+(1)[^128] A kapacitás-nyilvántartásban szereplő ellátási területet az egészségügyi államigazgatási szerv
+
+a)[^129] a (2) bekezdésben meghatározott esetekben elektronikus űrlapon benyújtott kérelemre,
+
+b) a (4) bekezdésben meghatározott esetben hivatalból
+
+módosítja.
+
+(2)[^130] A kapacitás-nyilvántartásban szereplő ellátási terület módosítása iránt kérelmet nyújthatnak be az ellátási terület módosításával érintett
+
+a) egészségügyi szolgáltatók fenntartói közösen,
+
+b) egészségügyi szolgáltatók közös fenntartója, ha több érintett szolgáltatónak ugyanaz a fenntartója,
+
+c) települési önkormányzatok.
+
+(3)[^131] Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja.
+
+(3a)[^132] Ha a fenntartók a (2) bekezdés a) pontja szerint az ellátási terület módosítása ügyében közös kérelmet nyújtanak be az egészségügyi államigazgatási szerv felé, az elektronikus űrlapon történő kérelem benyújtására e fenntartók bármelyike jogosult.
+
+(4)[^133] Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás miatt, vagy ellátási érdekből szükséges.
+
+(5)[^134] Az egészségügyi államigazgatási szerv az (1) bekezdés alapján indult eljárásban egészségbiztosító véleményének és a (6) bekezdésben foglaltak, továbbá
+
+a) a járóbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek esetében az 5/A. § (2)–(6), (9) és (10) bekezdésében,
+
+b) a fekvőbeteg-szakellátási kapacitásokhoz kapcsolódó ellátási területek esetében az 5/A. § (11) bekezdésében
+
+foglaltak figyelembevételével dönt.
+
+(6) Az ellátási terület módosítása – az 5/A. § (3) bekezdésében és (11) bekezdésének e) pontjában foglaltakon túl – akkor eredményezheti az egészségügyi szolgáltatók ellátási területének a térséghatáron történő túlterjeszkedését, ha azt ellátási érdek indokolja.
+
+(7) Az 5/A. § szerinti és az (1)–(6) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.
+
+### 6. §[^135]
+
+(1)[^136] A kapacitásokat és az ellátási területet érintő e törvény szerinti eljárásokban hozott döntések ellen fellebbezésnek nincs helye. A kapacitásokat és az ellátási területeket megállapító határozatok véglegessé válásával, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
+
+(2)[^137] A szakellátási kapacitást, illetve ellátási területet megállapító, illetve módosító határozat elleni perben nincs helye azonnali jogvédelemnek. A döntést a bíróság nem változtathatja meg.
+
+(3) A szakellátási kapacitások, illetve az ellátási területek megállapítására, illetve módosítására irányuló eljárásokban a Kormány által kijelölt szakértő szervet díjazás és költségtérítés nem illeti meg.
+
+## 8.[^138] A kapacitások átcsoportosításának és módosításának szabályai
+
+### 7. §[^139]
+
+(1)[^140] A fenntartó kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásának az e törvény végrehajtására kiadott kormányrendeletben meghatározott, más ellátási formába történő átcsoportosítását.
+
+(2)[^141] A fenntartók közösen kezdeményezhetik a fenntartásukban lévő egészségügyi szolgáltatók közötti kapacitásátcsoportosítást.
+
+(3)[^142] A fenntartó – az ellátási forma megváltoztatása nélkül – kezdeményezheti a fenntartásában működő egészségügyi szolgáltató kapacitásainak más, a szolgáltató finanszírozási szerződésében szereplő, illetve abban nem szereplő szakmákba – külön jogszabály szerinti mértékben – történő átcsoportosítását, azzal, hogy az egészségügyi szolgáltató rendelkezésére bocsátott kapacitásainak száma összességében nem változhat.
+
+(4)[^143] A fenntartó kezdeményezheti a saját fenntartásában lévő szolgáltatói közötti kapacitásátcsoportosítást, azzal, hogy az átcsoportosítás a szolgáltatók összkapacitásának mennyiségét nem változtathatja meg.
+
+(5)[^144] Az (1)–(4) bekezdés szerinti átcsoportosítás részletes feltételeit a Kormány rendeletben állapítja meg.
+
+(6)[^145] A (2) és (4) bekezdés szerinti eljárás keretében az 5/B. §-ban foglaltakat kell alkalmazni.
+
+(7)[^146] A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv ötvenöt napon belül dönt.
+
+(8)[^147]
+
+(9) Az átcsoportosítható kapacitásmennyiség megállapítása során a kerekítés szabályait kell alkalmazni.
+
+(10)[^148] Amennyiben az (1)–(4) bekezdés szerinti átcsoportosításra az 5. § (1) bekezdés alapján kerül sor, a kapacitáscsökkentés csak olyan mértékű lehet, hogy az egy kapacitás egységre jutó várható betegforgalom ne haladja meg a szakmára országosan jellemző előző évi átlagot 15%-nál nagyobb mértékben.
+
+(11)[^149] Az egészségügyi államigazgatási szerv hivatalból indult eljárásban – az e törvény végrehajtásáról szóló rendeletben foglaltak szerint – az egészségügyi szolgáltató szakellátási kapacitást részben vagy egészben átcsoportosíthatja egy vagy több másik egészségügyi szolgáltató részére, amennyiben a térségi betegút-szervezésért felelős szerv vagy az egészségbiztosító tájékoztatása, illetve olyan adatok alapján, amelyekről hivatalos tudomása van, az átcsoportosítás ellátási érdekből való szükségességét megállapítja. Az átcsoportosítás során a 4/A. § (4) bekezdés a) pontjában, illetve a 4/A. § (5) bekezdésében meghatározott feltételnek meg kell felelni.
+
+### 7/A. §[^150]
+
+Ha az adott kapacitás a 2. § (1) bekezdése alapján kötött és érvényes szerződés vagy megállapodás tárgyát képezi, az egészségügyi közszolgáltatásért felelős szerv az 1. § (2) bekezdés r) pontjában meghatározott eljárások megindításáról előzetesen tájékoztatja a szerződés vagy megállapodás alapján a kapacitást használó egészségügyi szolgáltatót és fenntartóját. Az 1. § (2) bekezdés r) pontjában meghatározott eljárást az egészségügyi közszolgáltatásért felelős szerv – a másként el nem hárítható ellátási érdek esetének kivételével – csak a tájékoztatást követő negyedik hónap első napján indíthatja meg azzal, hogy ebben az esetben a szerződés és a megállapodás felmondási ideje – a 2/E. § (1) bekezdésében foglaltaktól eltérően – 3 hónap. Ha az 1. § (2) bekezdés r) pontjában meghatározott eljárás megindítása másként el nem hárítható ellátási érdek miatt szükséges, a szerződés, illetve a megállapodás felmondására a 2/E. § (2) és (3) bekezdését kell alkalmazni.
+
+## 9.[^151] A kapacitásokon nyújtott ellátások finanszírozása
+
+### 8. §[^152]
+
+(1) Az egészségbiztosító felelős
+
+a)[^153] a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
+
+b)[^154]
+
+c)[^155]
+
+d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
+
+e) a külön jogszabály szerinti eljárásban előzetesen befogadott kapacitásokon nyújtott szakellátások, valamint
+
+f)[^156] az e törvény és a végrehajtásáról szóló kormányrendelet alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
+
+Egészségbiztosítási Alap terhére történő külön jogszabály szerinti finanszírozásáért.
+
+(2) Az egészségbiztosító az (1) bekezdés szerinti kötelezettség teljesítése érdekében – a külön jogszabályban foglaltak szerint – finanszírozási szerződést köt
+
+a)[^157] az (1) bekezdés a) pontjában foglalt egészségügyi szakellátást nyújtó szolgáltatóval,
+
+b)[^158] a 2. § (3) bekezdése alapján megvalósuló feladatellátás esetén az *a)* pontban meghatározott egészségügyi szolgáltató helyett a feladatot ellátó egészségügyi szolgáltatóval,
+
+c)[^159] az (1) bekezdés e) pontja szerinti esetben az előzetesen befogadott és létrejött kapacitásra, annak mértékéig, a jogosult egészségügyi szolgáltatóval,
+
+d) az (1) bekezdés d) pontja szerinti többletkapacitásokon szakellátást nyújtó szolgáltatóval,
+
+e) az (1) bekezdés f) pontja alapján létrehozott, illetve befogadott kapacitáson szakellátást nyújtó szolgáltatóval,
+
+amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatározott feltételeknek.
+
+(3)[^160] A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem végleges határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás véglegessé válása napján válhat hatályossá.
+
+## 10.[^163] A váratlan esemény miatt szükséges rendkívüli kapacitásbevonás
+
+### 10. §
+
+(1)[^164]
+
+(2)[^165] Amennyiben azt váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése indokolja, az egészségügyi államigazgatási szerv, az érintett egészségügyi szolgáltató fenntartója, az egészségügyért felelős miniszter és a államháztartásért felelős miniszter jóváhagyásával az egészségbiztosítónál kezdeményezheti – az egészségügyi szolgáltató megjelölésével egyidejűleg – a lekötött kapacitásokon felüli kapacitásra történő finanszírozási szerződés megkötését.
+
+(2a)[^166] A (2) bekezdés alapján lekötött többletkapacitással nem kell a tartalékkapacitásokat csökkenteni.
+
+(2b)[^167] A (2) bekezdés alapján lekötött többletkapacitást a kapacitás-nyilvántartásban a többi kapacitástól megkülönböztetve, a lekötés ideiglenességét feltüntetve kell nyilvántartani.
+
+(3) Az egészségbiztosító a (2) bekezdés alapján megkötött finanszírozási szerződést a váratlan esemény vagy az előre nem látható módon bekövetkezett ellátási szükséglet megszűnését követően felmondja, illetve legkésőbb 6 hónap elteltével – és ezt követően hathavonként – felülvizsgálja.
+
+## 11. [^168] Többletkapacitások befogadása és kapacitások visszavonása
+
+### 11. §[^169]
+
+(1) A 3. § (1) bekezdés a) és b) pontjában meghatározottakon felüli kapacitás – ide nem értve a 3. § (5) bekezdés a) pontja szerinti kapacitásokat – kizárólag
+
+a) előzetes többletkapacitás-befogadási eljárásban, vagy
+
+b) a többletkapacitás-befogadási eljárásban
+
+fogadható be.
+
+(2) Többletkapacitás-befogadási eljárásban kapacitás – a 3. § (5) bekezdés b) pontja szerinti kapacitások kivételével – csak
+
+a) az 1. § (2) bekezdés i) pont *ia)* és *ib)* alpontja szerinti szakellátási kapacitások esetében tartalékkapacitások terhére,
+
+b) az *a)* pont alá nem tartozó kapacitások esetében
+
+ba) a 11/B. § (1)–(3) bekezdése alapján visszavont kapacitás terhére, ennek hiányában
+
+bb) az erre a célra elkülönített költségvetési keret terhére
+
+fogadható be.
+
+(3) A többletkapacitás-befogadási eljárásra vonatkozó szabályokat az e törvény végrehajtásáról szóló kormányrendelet állapítja meg.
+
+(4) A többletkapacitás-befogadási eljárás keretében befogadott kapacitás tekintetében az 5/A. § (8b) és (8c) bekezdésében meghatározott adatokat rögzíteni kell a kapacitás-nyilvántartásban és a változást egyidejűleg át kell vezetni a kapacitás-nyilvántartásnak a tartalékkapacitásokra vonatkozó részén is.
+
+### 11/A. §[^170]
+
+(1) Az E. Alap számára többletforrás-igényt eredményező fejlesztés nyomán létrejövő kapacitás – ha az érintett kezdeményezi vagy az a fejlesztés feltétele – az előzetes többletkapacitás-befogadási eljárás keretében is befogadható.
+
+(2) Ha a többletkapacitás előzetes befogadása éven túli kötelezettségvállalást eredményez, az előzetes befogadást a Kormány határozatban hagyja jóvá az e törvény végrehajtásáról szóló kormányrendelet szerinti eljárás keretében.
+
+(3) Amennyiben az előzetes többletkapacitás-befogadás a (2) bekezdéstől eltérően nem eredményez éven túli kötelezettségvállalást, a kapacitásbefogadás tárgyában csak akkor köthető finanszírozási szerződés az adott kapacitásra, ha a fejlesztéssel az egészségügyért felelős miniszter és az államháztartásért felelős miniszter előzetesen – az e törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint – egyetértett.
+
+(4) Az (1)–(3) bekezdés szerint előzetesen befogadott többletkapacitásokat az egészségügyi államigazgatási szerv tartja nyilván az e törvény végrehajtásáról szóló rendeletben foglaltak szerint. A nyilvántartásra az 5/A. § (7) bekezdésében foglaltakat kell alkalmazni.
+
+### 11/B. §[^171]
+
+(1) Az egészségügyi államigazgatási szerv – az 5. § (5) bekezdésében meghatározott eseten túl – hivatalból indult eljárásban határozattal elrendelheti a szakellátási kapacitás visszavonását az annak használatára jogosult szolgáltatótól, ha a szolgáltató nem teljesíti a kapacitással végzett egészségügyi tevékenység jogszabályban meghatározott, valamint szerződésben vállalt személyi, illetve tárgyi feltételeit.
+
+(2) Ha az egészségügyi államigazgatási szerv a kapacitás-nyilvántartás részét képező szakellátási kapacitás valamely – az e törvény végrehajtási rendelete szerinti – többletkapacitásnak minősülő paramétere tekintetében állapítja meg a személyi, illetve tárgyi feltételek hiányát, az (1) bekezdést azzal az eltéréssel kell alkalmazni, hogy a kapacitás-nyilvántartásból nem kell törölni a nyilvántartott kapacitást, kivéve, ha a személyi és tárgyi feltételek hiánya a nyilvántartott kapacitást is érinti.
+
+(3) Ha a 11. § (1) bekezdés b) pontja szerinti eljárásban történő többletkapacitás-befogadás tartalékkapacitások vagy erre a célra felhasználható – az 1. § (2) bekezdés i) pont ic) alpontja alá tartozó – kapacitás hiánya miatt nem lenne lehetséges, az egészségügyi államigazgatási szerv a többletkapacitás-befogadási eljárás során hivatalból rendelkezhet már korábban befogadott kapacitás visszavonásáról, feltéve, hogy a befogadásra kerülő kapacitás egészségügyi szakmai szempontból és az ellátáshoz való hozzáférés szempontjából alkalmas a visszavonásra kerülő kapacitás kiváltására.
+
+(4) Az (1) és a (3) bekezdés alapján visszavont kapacitás
+
+a) az 1. § (2) bekezdés i) pont *ia)* és *ib)* alpontja szerinti kapacitások esetében tartalékkapacitásnak,
+
+b) az *a)* pont alá nem tartozó kapacitások esetében a többletkapacitás-befogadási eljárásban felhasználható kapacitásnak
+
+minősül.
+
+(5) A szakellátási kapacitás (1)–(3) bekezdés szerinti visszavonásának feltételeit és eljárási szabályait az e törvény végrehajtásáról szóló kormányrendelet tartalmazza.
+
+## 11/A. [^172] Az egészségügyi felsőoktatási intézményekre vonatkozó rendelkezések
+
+### 11/C. §
+
+(1) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény szerinti egészségügyi közfeladat-ellátást érintő változásra irányuló eljárás során a megállapodás az orvos- és egészségtudományi képzést végző felsőoktatási intézmény mint közszolgáltatásért felelős szerv és az egészségügyi szolgáltatás irányításért felelős szerv között jön létre.
+
+(2) Az egészségügyi közfeladat-ellátást érintő változásra irányuló eljárásra e törvény rendelkezéseit kell alkalmazni.
+
+(3) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének az egészségügyi közfeladat-ellátást érintő változásának kezdeményezéséről az egészségügyi államigazgatási szerv hivatalból dönt a jogszabályban meghatározottak figyelembevételével és azt az e törvényben meghatározott kapacitás-nyilvántartásban átvezeti.
+
+## 12.[^173] Vegyes rendelkezések
+
+### 12. §[^174]
+
+(1) Az az egészségügyi szolgáltató, amely
+
+a) a 8. § (2) bekezdése alapján kötött és érvényes finanszírozási szerződéssel rendelkezik, és
+
+b) az egészségügyi szakellátásokért az Egészségbiztosítási Alapból finanszírozott tételek éves összege eléri a 300 millió forintot,
+
+köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóval ellenőriztetni.
+
+(2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
+
+(3)[^175]
+
+### 13. §[^176]
+
+(1) Annak az egészségügyi szolgáltatónak a vezetője, amely
+
+a) a 8. § (2) bekezdése alapján kötött és érvényes finanszírozási szerződéssel rendelkezik, és
+
+b) az egészségügyi szakellátásokért általa elszámolt finanszírozási tételek éves összege eléri az 500 millió forintot,
+
+egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be és egészségügyi tevékenységet csak a szakképesítése szerinti egészségügyi tevékenység gyakorlási jogának fenntartásához szükséges mértékben végezhet.
+
+(2) Az (1) bekezdésben foglaltak alól kivételt képeznek az egészségtudományi centrumok, az egyetemi klinikai központok és klinikák vezetői, valamint a rektorok.
+
+(3)[^177] Az (1) bekezdés szerinti egészségügyi tevékenység végzésére
+
+a) az egészségügyi szolgáltató vezetésére irányuló jogviszony (különösen vezető állású munkavállaló foglalkoztatására irányuló jogviszony) keretében, a jogviszony létesítésére irányuló megállapodásban meghatározott időtartamban és feltételek szerint,
+
+b) ha a vezetői feladatok ellátására vezetői megbízás alapján kerül sor, a vezetői megbízás alapját képező jogviszony keretei között, a fenntartó által meghatározott időtartamban és feltételek szerint, vagy
+
+c) az egészségügyi szolgáltató vezetésére irányuló jogviszonyon kívüli, a fenntartó és az intézményvezető között létrejött, de kifizetőként az egészségügyi szolgáltatót terhelő megállapodás alapján, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 7. § (2) bekezdése szerinti jogviszony keretében
+
+kerülhet sor.
+
+(4)[^178] Az Eütv. 155. § (3) és (4) bekezdésének hatálya alá tartozó intézmények tekintetében a (3) bekezdés b) és c) pontja alkalmazásában – az 1. § (3a) bekezdésében foglaltaktól eltérően – fenntartó alatt az Eütv. 155. § (3) bekezdése szerinti kijelölt szervezetet kell érteni.
+
+## 13.[^179] Záró rendelkezések
+
+### 14. §[^180]
+
+(1)[^181]
+
+(2)[^182] Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2014. évi CXI. törvénnyel megállapított 4. §-t 2011. január 1-jét követően első alkalommal 2019-ben kell alkalmazni.
+
+(3)[^183]
+
+(4)[^184]
+
+(5)[^185]
+
+(6)[^186]
+
+(7)[^187]
+
+(8)[^188]
+
+(9)[^189]
+
+(10)[^190] Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 2/B. § (1) bekezdését a hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
+
+(11)[^191]
+
+(12)[^192]
+
+(13)[^193] Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor[^194] folyamatban lévő ügyekre is alkalmazni kell.
+
+(14)[^195]
+
+(15)[^196]
+
+(15a)[^197]
+
+(16)[^198] Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 1/I. § (8) bekezdést és 1/J. § (3) bekezdést az azok hatálybalépésekor[^199] folyamatban lévő ügyekben is alkalmazni kell.
+
+(17)[^200] Ha a 2. § (1) bekezdés a) pontja szerinti megállapodás, illetve a 2. § (1) bekezdés b) pontja szerinti egészségügyi ellátási szerződés a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) 5. § (1) bekezdése szerint – a kijelölt szerv által gyakorolt felmondás alapján – szűnik meg, a megszűnést a Ttv. 5. § (1) bekezdése szerinti kijelölt szerv jelenti be – a felmondással egyidejűleg – a 2. § (8) bekezdésben foglaltaknak megfelelően. A Ttv. 5. § (1) bekezdése szerinti szerződés a felek közös megegyezésével is megszüntethető azzal, hogy ebben az esetben
+
+a) biztosítani kell a betegellátás folyamatosságát,
+
+b) az *a)* pontban foglaltak érdekében az egészségügyi államigazgatási szerv a személyi és tárgyi feltételek előzetes vizsgálata nélkül hivatalból intézkedik a kapacitások átcsoportosításáról, az ellátási területek módosításáról és a működési engedély kiadásáról,
+
+c) a 2/E. §-ban foglaltakat nem kell alkalmazni,
+
+d) a megszűnő szerződés, illetve megállapodás tárgyát képező feladat ellátáshoz szükséges eszközöknek és készleteknek a korábban a feladatot ellátó egészségügyi szolgáltatótól történő megszerzésekor, illetve a megszűnő szerződés alapján feladatot ellátó szolgáltató által megkötött szerződésekbe való belépéssel történő kötelezettségvállalások esetén közbeszerzési eljárást nem kell lefolytatni,
+
+e) a Ttv. 5/A. § (2) bekezdése szerinti tájékoztatásnak legkésőbb az átadást megelőző öt munkanappal korábban meg kell történnie, a munkavállaló pedig az átadást megelőző munkanapig teheti meg a Ttv. 5/A. § (5) bekezdése szerinti nyilatkozatot, és
+
+f) a Ttv. 5. § (1) bekezdése szerinti kijelölt szervnek kell – a megszüntetésről szóló megegyezéssel egyidejűleg – megtennie a 2. § (8) bekezdése szerinti bejelentést.
+
+(18)[^201] A Módtv2. által megállapított (17) bekezdést az annak hatálybalépésekor már hatályos megállapodásoknak és szerződéseknek a Módtv2. hatálybalépését[^202] követő megszűnésére is alkalmazni kell függetlenül attól, hogy a felek a megállapodás vagy a szerződés megszüntetéséről a Módtv2. hatálybalépését[^203] megelőzően vagy azt követően egyeznek-e meg.
+
+(19)[^204] Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 3. § (5) bekezdése alkalmazásánál a 3. § (1) bekezdésében meghatározott országos kapacitásmennyiség 2014. január 1-jei állapotát kell figyelembe venni.
+
+### 16. §
+
+(1) Ez a törvény – a (2) és (3) bekezdésben foglaltak kivételével – 2007. január 1-jén lép hatályba, azzal, hogy az 1. számú és 2. számú mellékletben meghatározott kapacitásokra, valamint a (10) bekezdés alapján létrejött kapacitásokra a finanszírozási szerződéseket 2007. március 31-éig kell megkötni.
+
+(2) A 12. és 13. § 2007. július 1-jén lép hatályba.
+
+(3) A 7. § (1) és (4) bekezdése, valamint a 8. § (2) bekezdésének c) pontja 2008. január 1-jén lép hatályba.
+
+(4)[^206]
+
+(5)[^207]
+
+(6)[^208]
+
+(7) Az I. Nemzeti Fejlesztési Terv részét képező – HEFOP 4.3.1., 4.3.2. és 4.3.3. pályázathoz társuló – támogatások alapján megvalósuló kapacitások többletét a regionális egyeztetésre bocsátott kapacitáson felül kell figyelembe venni.
+
+(8)[^209]
+
+(9)[^210]
+
+(10)[^211]
+
+(11)[^212]
+
+(12)[^213]
+
+(13)[^214]
+
+(14) Felhatalmazást kap a Kormány arra, hogy rendeletben[^215] határozza meg
+
+a) az e törvény végrehajtásához kapcsolódó finanszírozási és szerződéskötési szabályokat,[^216]
+
+b) a kizárólag krónikus fekvőbeteg-szakellátást nyújtó szolgáltatók által a krónikus fekvőbeteg-szakellátási kapacitáson a krónikus finanszírozáson belül nyújtható aktív belgyógyászati fekvőbeteg-szakellátások mennyiségét,[^217]
+
+c)[^218] az egészségügyi tevékenység végzésének egyes kérdéseiről szóló külön törvény szerinti ügyeleti formában ellátott feladatok finanszírozási szabályait,
+
+d)[^219] az ellátási terület meghatározásának és módosításának részletszabályait,[^220]
+
+e)[^221] a kapacitások felosztásának, újraosztásának, módosításának és a kapacitások átcsoportosításának részletes szabályait, valamint a kapacitások visszavonásának feltételeit és eljárási szabályait,[^222]
+
+f)[^223] azoknak a szakmáknak a körét, amelyekre az e törvény szerinti járóbeteg-szakellátási és fekvőbeteg-szakellátási kapacitásokra kiterjedően finanszírozási szerződést lehet kötni,
+
+g)[^224] a váratlan helyzet vagy előre nem látható módon bekövetkező ellátási szükséglet jelentkezése esetére vonatkozó részletes szabályokat,
+
+h)[^225] a többletkapacitás fogalmát, befogadásának eseteit, eljárásrendjét, mértékét és feltételeit, továbbá az új szolgáltatók befogadásának szabályait,
+
+i)[^226] a vagyoni biztosítékkal kapcsolatos részletes szabályokat,
+
+j)[^227] a speciális ellátotti kör részére ellátást nyújtó egészségügyi szolgáltatói kört,
+
+k)[^228] az egészségügyi ellátás térségi felosztásának szabályait, az egészségügyi ellátási térségeket,
+
+l)[^229] azoknak az ellátásoknak a körét, amelyek vonatkozásában az ellátási terület megállapítása során a szakmánkénti megállapítás követelményét, valamint a térséghatárt nem kell figyelembe venni.
+
+m)[^230] a szakellátási kapacitásokkal és az ellátási területekkel kapcsolatosan eljáró államigazgatási szervet és az ezekben az eljárásokban véleményadásra jogosult szakértői szervet,
+
+n)[^231] a szakellátási kapacitások (ide értve az előzetesen befogadott szakellátási kapacitásokat is) és az ahhoz tartozó ellátási területek nyilvántartásának tartalmát és kezelésére vonatkozó szabályokat,
+
+o)[^232] a tartalékkapacitások kiosztásának és felhasználásának szabályait.
+
+p)[^233] a szakellátási kapacitások felosztása, átcsoportosítása, módosítása során figyelembeveendő szempontok alkalmazására, értékelésére vonatkozó szabályokat,
+
+r)[^234] az elérési szabályoknál figyelembeveendő sebességhatárokat,
+
+s)[^235] az egészségügyi szakellátások biztosításáért való felelősséghez kapcsolódó végrehajtási szabályokat,
+
+t)[^236] azoknak a szakmáknak, ellátási formáknak és eseteknek a körét, amikor nem kell ellátási területet megállapítani,
+
+u)[^237] az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve az egészségügyi szakellátási feladat nem teljesítése esetén az államot terhelő kötelezettség teljesítésére vonatkozó szabályokat;
+
+v)[^238] az órában és ágyszámban ki nem fejezhető szakellátási kapacitások mértékegységének meghatározására irányuló eljárás szabályait;
+
+v)[^239] az egészségügyi ellátási szerződés és a 2. § (1) bekezdés a) pontja szerinti megállapodás tartalmi elemeit.
+
+x)[^240] azt a szervet, amelynek a jóváhagyása szükséges az egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv által kötött 2. § (3) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés érvényességéhez;
+
+y)[^241] a szakellátási feladatnak és vagyonnak a 2. § (2)–(2b) bekezdés szerinti állam általi átvételére és a feladatról való állam általi gondoskodásra vonatkozó eljárási szabályokat, ideértve az eljáró szerv kijelölését is.
+
+(15)[^242] Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség, illetve a nem állami és önkormányzati szolgáltató részére megállapított szakellátási feladat nem teljesítése esetén az állam általi ideiglenes feladatellátás feltételeit és eljárási szabályait,
+
+b) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladat állami szakellátási kötelezettség részévé válásának esetére a feladat és a hozzá kapcsolódó önkormányzati tulajdonban lévő vagyon állam általi átvételének feltételeit és eljárási szabályait, valamint az átvett vagyon részét képező, az Európai Unió által vagy egyéb nemzetközi forrásokból társfinanszírozott projekt végrehajtásához szükséges saját forrás biztosítására vonatkozó szabályokat,
+
+c) állapítsa meg az egészségügyi szakellátási intézményműködtetési kötelezettség részét képező szakellátási feladat állami szakellátási kötelezettség részévé válásának esetére a feladat és a hozzá kapcsolódó önkormányzati tulajdonban lévő vagyon állam általi átvétele során készítendő jegyzőkönyvre vonatkozó tartalmi és formai követelményeket,
+
+d) állapítsa meg az 1/A. § (4) bekezdés b) pontja alapján kijelölt szolgáltató finanszírozására vonatkozó szabályokat,
+
+e) jelölje ki az 1/A–1/I. §-ok szerinti eljárásokban az állam nevében eljárni jogosult szervet,[^243]
+
+f) jelölje ki az 1/A. § (7) bekezdése alapján fenntartói jogkör gyakorlására jogosult szervet.[^244]
+
+(16)[^245]
+
+## 1. számú melléklet a 2006. évi CXXXII. törvényhez[^246]
+
+## 2. számú melléklet a 2006. évi CXXXII. törvényhez[^247]
+
+## 3. számú melléklet a 2006. évi CXXXII. törvényhez[^248]
+
+## 4. számú melléklet a 2006. évi CXXXII. törvényhez[^249]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2006. december 18-i ülésnapján fogadta el. A kihirdetés napja: 2006. december 22.
+[^2]: Az 1. §-t megelőző 1. alcímet a 2013: XL. törvény 16. §-a iktatta be.
+[^3]: Az 1. § (1) bekezdése a 2011: CLXXVI. törvény 138. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés c) pontja a 2013: XL. törvény 17. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés d) pontja a 2008: CVI. törvény 47. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (2) bekezdés e) pontja a 2010: CLXXIII. törvény 104. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés f) pontját a 2011: CLXXVI. törvény 153. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § (2) bekezdés g) pontját a 2010: CLXXIII. törvény 105. § b) pontja hatályon kívül helyezte, újonnan a 2011: CLIV. törvény 75. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (2) bekezdés i) pontja a 2014: CXI. törvény 116. §-ával megállapított szöveg.
+[^10]: Az 1. § (2) bekezdés j) pontja a 2012: CCXII. törvény 104. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (2) bekezdés k) pontját a 2008: CVI. törvény 47. § (3) bekezdése iktatta be.
+[^12]: Az 1. § (2) bekezdés l) pontját a 2008: CVI. törvény 47. § (3) bekezdése iktatta be, a 2010: CLXXIII. törvény 105. § b) pontja hatályon kívül helyezte, újonnan a 2011: CLXXVI. törvény 138. § (4) bekezdése iktatta be.
+[^13]: Az 1. § (2) bekezdés m) pontját a 2008: CVI. törvény 47. § (3) bekezdése iktatta be, szövege a 2011: CLXXVI. törvény 138. § (5) bekezdésével megállapított szöveg.
+[^14]: Az 1. § (2) bekezdés n) pontját a 2011: CLXXVI. törvény 138. § (6) bekezdése iktatta be, szövege a 2012: LXXIX. törvény 92. § (2) bekezdés b) pontja, a 2013: XL: törvény 36. § a) pontja szerint módosított szöveg.
+[^15]: Az 1. § (2) bekezdés o) pontját a 2011: CLXXVI. törvény 138. § (6) bekezdése iktatta be, szövege a 2012: XXXVIII. törvény 33. § a) pontja szerint módosított szöveg.
+[^16]: Az 1. § (2) bekezdés p) pontját a 2012: XXXVIII. törvény 26. § (2) bekezdése iktatta be, szövege a 2012: LXXIX. törvény 92. § (2) bekezdés c) pontja, a 2012: CCXII. törvény 117. § a) pontja szerint módosított szöveg.
+[^17]: Az 1. § (2) bekezdés q) pontját a 2012: CCXII. törvény 104. § (3) bekezdése iktatta be, szövege a 2013: CCXLIV. törvény 82. §-ával megállapított szöveg.
+[^18]: Az 1. § (2) bekezdés r) pontját a 2013: XL. törvény 17. § (2) bekezdése iktatta be.
+[^19]: Az 1. § (2) bekezdés s) pontját a 2013: XL. törvény 17. § (2) bekezdése iktatta be, szövege a 2013: CCXLIV. törvény 89. § a) pontja, a 2025. évi LXXX. törvény 124. § a) pontja szerint módosított szöveg.
+[^20]: Az 1. § (3a) bekezdését a 2011: CLXXVI. törvény 138. § (7) bekezdése iktatta be.
+[^21]: Az 1. § (3b) bekezdését a 2016: XXXIV. törvény 57. §-a iktatta be.
+[^22]: A 2. alcímet (1/A–1/J. §) a 2013: XL. törvény 18. §-a iktatta be.
+[^23]: Az 1/A. § (1) bekezdés záró szövegrésze a 2013: CCXLIV. törvény 90. § a) pontja szerint módosított szöveg.
+[^24]: Az 1/A. § (10) bekezdése a 2017: L. törvény 286. § a) pontja szerint módosított szöveg.
+[^25]: Az 1/B. § (5) bekezdése a 2022. évi LI. törvény 6. § (1) bekezdésével megállapított szöveg.
+[^26]: Az 1/B. § (5a) bekezdését a 2022. évi LI. törvény 6. § (2) bekezdése iktatta be.
+[^27]: Az 1/B. § (6) bekezdése a 2022. évi LI. törvény 6. § (3) bekezdésével megállapított szöveg.
+[^28]: Az 1/I. § (8) bekezdése a 2013: CXXVII. törvény 139. §-ával megállapított szöveg.
+[^29]: Az 1/J. § (3) bekezdése a 2013: CXXVII. törvény 140. §-ával megállapított szöveg.
+[^30]: A 3. alcím címét a 2013: XL. törvény 19. §-a iktatta be.
+[^31]: A 2. § a 2013: XL. törvény 20. § (1) bekezdésével megállapított szöveg.
+[^32]: A 2. § (2) bekezdése a 2023. évi XIX. törvény 73. §-ával megállapított szöveg.
+[^33]: A 2. § (3) bekezdése a 2017: CLXXXVIII. törvény 30. § a) pontja szerint módosított szöveg.
+[^34]: A 2. § (6) bekezdés b) pontja a 2017: CLXXXVIII. törvény 28. §-ával megállapított szöveg.
+[^35]: A 2. § (8a) bekezdését a 2013: XL. törvény 20. § (2) bekezdése iktatta be.
+[^36]: A 2/A. §-t a 2009: CLIV. törvény 114. §-a iktatta be.
+[^37]: A 2/A. § (2) bekezdését a 2016: LXVII. törvény 188. §-a hatályon kívül helyezte.
+[^38]: A 2/A. § (3) bekezdését a 2010: CLXXIII. törvény 105. § c) pontja hatályon kívül helyezte.
+[^39]: A 2/B. §-t a 2009: CLIV. törvény 114. §-a iktatta be.
+[^40]: A 2/B. § (1) bekezdése a 2012: LXXIX. törvény 92. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^41]: A 2/C. §-t a 2009: CLIV. törvény 114. §-a iktatta be.
+[^42]: A 2/B. § (2) bekezdése a 2011: CLXXVI. törvény 153. § b) pontja szerint módosított szöveg.
+[^43]: A 2/D. §-t a 2009: CLIV. törvény 114. §-a iktatta be.
+[^44]: A 2/D. § (1) bekezdése a 2011: CLXXVI. törvény 140. § (2) bekezdésével megállapított, a 2012: CCXII. törvény 117. § e) pontja szerint módosított szöveg.
+[^45]: A 2/D. § (2) bekezdését a 2010: CLXXIII. törvény 105. § d) pontja hatályon kívül helyezte.
+[^46]: A 2/D. § (4)–(6) bekezdését a 2010: CLXXIII. törvény 105. § d) pontja hatályon kívül helyezte.
+[^47]: A 2/D. § (4)–(6) bekezdését a 2010: CLXXIII. törvény 105. § d) pontja hatályon kívül helyezte.
+[^48]: A 2/D. § (4)–(6) bekezdését a 2010: CLXXIII. törvény 105. § d) pontja hatályon kívül helyezte.
+[^49]: A 2/D. § (7) bekezdése a 2010: CLXXIII. törvény 90. § (2) bekezdésével megállapított szöveg.
+[^50]: A 2/A. § (8) bekezdése a 2010: CLXXIII. törvény 105. § e) pontja szerint módosított szöveg.
+[^51]: A 2/E. §-t a 2009: CLIV. törvény 114. §-a iktatta be. E módosító törvény 128. § (5) bekezdése alapján az egészségügyi ellátási kötelezettség körében 2010. január 1-jét megelőzően kötött szerződések a bennük meghatározott határideig maradnak hatályban azzal, hogy vonatkozásukban a 2006: CXXXII. törvény 2/E. §-ában foglaltakat alkalmazni kell. Ezt a rendelkezést a 2010. január 1-jén folyamatban lévő szerződéskötési eljárás során megkötött szerződések esetében is alkalmazni kell.
+[^52]: A 2/E. § (1) bekezdése a 2012: LXXIX. törvény 92. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^53]: A 2/E. § (2) bekezdés a) pontja a 2010: LXXXIX. törvény 25. § (1) bekezdés b) pont bb) alpontja szerint módosított szöveg.
+[^54]: A 2/E. § (7) bekezdése a 2017: CLXXXVIII. törvény 29. §-ával megállapított szöveg.
+[^55]: A 2/E. § (9) bekezdését a 2013: XL. törvény 21. §-a iktatta be, szövege a 2017: CLXXXVIII. törvény 30. § b) pontja szerint módosított szöveg.
+[^56]: A 2/E. § (10) bekezdését a 2013: XL. törvény 21. §-a iktatta be, szövege a 2017: CLXXXVIII. törvény 30. § c) pontja szerint módosított szöveg.
+[^57]: A 2/E. § (11) bekezdését a 2013: XL. törvény 21. §-a iktatta be, szövege a 2017: CLXXXVIII. törvény 30. § d) pontja szerint módosított szöveg.
+[^58]: A 2/E. § (12) bekezdését a 2013: CCXLIV. törvény 83. §-a iktatta be.
+[^59]: A 2/F. §-t a 2009: CLIV. törvény 114. §-a iktatta be. E módosító törvény 128. § (5) bekezdése alapján az egészségügyi ellátási kötelezettség körében 2010. január 1-jét megelőzően kötött szerződések a bennük meghatározott határideig maradnak hatályban azzal, hogy vonatkozásukban a 2006: CXXXII. törvény 2/F. §-ában foglaltakat alkalmazni kell. Ezt a rendelkezést a 2010. január 1-jén folyamatban lévő szerződéskötési eljárás során megkötött szerződések esetében is alkalmazni kell.
+[^60]: A 2/F. § (2) bekezdése a 2010: LXXXIX. törvény 25. § (1) bekezdés b) pont bc) alpontja szerint módosított szöveg.
+[^61]: A 2/G. §-t a 2009: CLIV. törvény 114. §-a iktatta be.
+[^62]: A 2009: CLIV. törvény 128. § (5) bekezdése alapján az egészségügyi ellátási kötelezettség körében 2010. január 1-jét megelőzően kötött szerződések a bennük meghatározott határideig maradnak hatályban azzal, hogy vonatkozásukban a 2006: CXXXII. törvény 2/G. § (1) bekezdésében foglaltakat alkalmazni kell. Ezt a rendelkezést a 2010. január 1-jén folyamatban lévő szerződéskötési eljárás során megkötött szerződések esetében is alkalmazni kell.
+[^63]: A 2/H. §-t a 2009: CLIV. törvény 114. §-a iktatta be. E módosító törvény 128. § (6) bekezdése alapján a rendelkezés nem érinti a 2006: CXXXII. törvény 11. § (1) bekezdése alapján 2010. január 1-jén folyamatban lévő eljárásokhoz kapcsolódó egészségügyi ellátási szerződéseket és megállapodásokat.
+[^64]: A 2/H. § (1) bekezdése a 2010: CLXXIII. törvény 91. §-ával megállapított, a 2013: XL. törvény 36. § b) pontja, a 2013: CCXLIV. törvény 89. § b) pontja, a 2017: CLXXXVIII. törvény 30. § e) pontja szerint módosított szöveg.
+[^65]: A 2/H. § (2) bekezdését a 2010: CLXXIII. törvény 105. § f) pontja hatályon kívül helyezte, újonnan a 2012: CCXII. törvény 107. §-a iktatta be, szövege a 2013: CCXLIV. törvény 89. § b) pontja szerint módosított szöveg.
+[^66]: A 2/H. § (3) bekezdését a 2014: CXI. törvény 118. §-a iktatta be.
+[^67]: A 3. §-t megelőző alcímet a 2013: XL. törvény 22. §-a iktatta be.
+[^68]: A 3. § (1) bekezdése a 2013: CCXLIV. törvény 84. § (1) bekezdésével megállapított szöveg.
+[^69]: A 3. § (2) bekezdése a 2010: CLXXIII. törvény 92. §-ával megállapított szöveg.
+[^70]: A 3. § (3) bekezdése a 2016: XXXIV. törvény 58. §-ával megállapított szöveg.
+[^71]: A 3. § (4) bekezdése a 2010: CLXXIII. törvény 92. §-ával megállapított szöveg.
+[^72]: A 3. § (5) bekezdését a 2009: CLIV. törvény 115. § (3) bekezdése iktatta be, szövege a 2013: CCXLIV. törvény 84. § (2) bekezdésével megállapított szöveg.
+[^73]: A 3. § (6) bekezdését a 2009: CLIV. törvény 115. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2013: XL: törvény 37. §-a.
+[^75]: A 4–4/A. §-t megelőző alcímet a 2013: XL. törvény 23. §-a iktatta be.
+[^76]: A 4. §-t az Alkotmánybíróság a 109/2008. (IX. 26.) AB határozatának 1. pontjával megsemmisítette 2008. szeptember 26. napjával, újonnan a 2008: CVI. törvény 50. §-a iktatta be, szövege a 2010: CLXXIII. törvény 94. §-ával megállapított szöveg.
+[^77]: A 4. § (1) bekezdése a 2012: XXXVIII. törvény 33. § d) pontja szerint módosított szöveg.
+[^78]: A 4. § (2) bekezdése a 2012: LXXIX. törvény 92. § (2) bekezdés g) pontja, a 2012: CCXII. törvény 117. § g) pontja, a 2014: CXI. törvény 119. § b) pontja szerint módosított szöveg.
+[^79]: A 4. § (3) bekezdése a 2011: CLXXVI. törvény 142. §-ával megállapított, a 2014: CXI. törvény 119. § c) pontja, a 2015: CLXXXVI. törvény 131. § a) pontja szerint módosított szöveg. Ez utóbbi módosító törvény 205. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^80]: A 4. § (4) bekezdése a 2017: L. törvény 286. § b) pontja szerint módosított szöveg.
+[^81]: A 4. § (5) bekezdése a 2011: CLXXVI. törvény 152. §f) pontja szerint módosított szöveg.
+[^82]: A 4/A. §-t a 2008: CVI. törvény 51. §-a iktatta be, alkalmazására lásd e módosító törvény 77. § (2) bekezdését.
+[^83]: A 4/A. § (1) bekezdését a 2010: CLXXIII. törvény 105. § g) pontja hatályon kívül helyezte.
+[^84]: A 4/A. § (2) bekezdését a 2011: CLXXVI. törvény 153. § c) pontja hatályon kívül helyezte.
+[^85]: A 4/A. § (3) bekezdése a 2011: CLXXVI. törvény 143. §-ával megállapított szöveg.
+[^86]: A 4/A. § (4) bekezdés c) pontja a 2010: CLXXIII. törvény 95. § (2) bekezdésével megállapított szöveg.
+[^87]: A 4/A. § (6) bekezdése a 2011: CLXXVI. törvény 152. § g) pontja szerint módosított szöveg.
+[^88]: A 4/A. § (7) bekezdését a 2012: XXXVIII. törvény 29. §-a iktatta be.
+[^89]: Az 5. §-t megelőző alcímet a 2013: XL. törvény 24. §-a iktatta be.
+[^90]: Az 5. § (1) bekezdése a 2011: CLXXVI. törvény 144. § (1) bekezdésével megállapított szöveg.
+[^91]: Az 5. § (2) bekezdése a 2011: CLXXVI. törvény 144. § (1) bekezdésével megállapított, a 2012: LXXIX. törvény 92. § (2) bekezdés h) pontja, a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 119. § d) pontja szerint módosított szöveg.
+[^92]: Az 5. § (3) bekezdését az Alkotmánybíróság a 109/2008. (IX. 26.) AB határozatának 1. pontjával megsemmisítette 2008. szeptember 26. napjával, újonnan a 2008: CVI. törvény 52. § (1) bekezdése iktatta be, szövege a 2010: CLXXIII. törvény 96. § (1) bekezdésével megállapított, a 2011: CLXXVI. törvény 153. § d) pontja szerint módosított szöveg.
+[^93]: Az 5. § (4) bekezdését a 2010: CLXXIII. törvény 105. § h) pontja hatályon kívül helyezte.
+[^94]: Az 5. § (5) bekezdését a 2008: CVI. törvény 52. § (3) bekezdése iktatta be, szövege a 2011: CLXXVI. törvény 144. § (2) bekezdésével megállapított, a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 120. § a) pontja szerint módosított szöveg.
+[^95]: Az 5. § (6) bekezdését a 2008: CVI. törvény 52. § (3) bekezdése iktatta be, szövege a 2012: CCXII. törvény 109. §-ával megállapított szöveg.
+[^96]: Az 5/A. §-t meglőző alcímet a 2013: XL. törvény 25. §-a iktatta be.
+[^97]: Az 5/A. §-t a 2007: LXXI. törvény 34. §-a iktatta be, szövege a 2008: CVI. törvény 53. §-ával megállapított szöveg.
+[^98]: Az 5/A. § (1) bekezdése a 2011: CLXXVI. törvény 145. § (1) bekezdésével megállapított, a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 119. § e) pontja szerint módosított szöveg.
+[^99]: Az 5/A. § (2) bekezdése a 2023. évi XIX. törvény 74. §-ával megállapított szöveg.
+[^100]: Az 5/A. § (3) bekezdése a 2011: CLXXVI. törvény 145. § (2) bekezdésével megállapított szöveg.
+[^101]: Az 5/A. § (4) bekezdése a 2011: CLXXVI. törvény 145. § (2) bekezdésével megállapított szöveg.
+[^102]: Az 5/A. § (5) bekezdése a 2011: CLXXVI. törvény 145. § (2) bekezdésével megállapított szöveg.
+[^103]: Az 5/A. § (6) bekezdése a 2011: CLXXVI. törvény 153. § e) pontja szerint módosított szöveg.
+[^104]: Az 5/A. § (7) bekezdése a 2012: CCXII. törvény 110. § (1) bekezdésével megállapított, a 2013: XL. törvény 36. § d) és e) pontja, a 2025. évi LXXX. törvény 124. § b) pontja szerint módosított szöveg.
+[^105]: Az 5/A. § (7a) bekezdését a 2011: CLIV. törvény 75. § (3) bekezdése iktatta be, szövege a 2013: XL. törvény 36. § f) pontja szerint módosított szöveg.
+[^106]: Az 5/A. § (7b) bekezdését a 2013: CXXVII. törvény 141. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2017: L. törvény 287. §-a.
+[^107]: Az 5/A. § (8) bekezdését a 2009: CLIV. törvény 118. § (2) bekezdése iktatta be, szövege a 2013: CXXVII. törvény 141. § (3) bekezdésével megállapított szöveg.
+[^108]: Az 5/A. § (8) bekezdés b) pontját a 2023. évi XIX. törvény 78. § a) pontja hatályon kívül helyezte.
+[^109]: Az 5/A. § (8a) bekezdését a 2013: XL. törvény 26. § (2) bekezdése iktatta be.
+[^110]: Az 5/A. § (8b) bekezdését a 2013: CXXVII. törvény 141. § (4) bekezdése iktatta be.
+[^111]: Az 5/A. § (8b) bekezdés f) pontja a 2023. évi XIX. törvény 77. § a) pontja szerint módosított szöveg.
+[^112]: Az 5/A. § (8b) bekezdés g) pontját a 2023. évi XIX. törvény 78. § b) pontja hatályon kívül helyezte.
+[^113]: Az 5/A. § (8b) bekezdés j) pontját a 2013: CCXLIV. törvény 85. §-a iktatta be.
+[^114]: Az 5/A. § (8b) bekezdés k) pontját a 2013: CCXLIV. törvény 85. §-a iktatta be.
+[^115]: Az 5/A. § (8c) bekezdését a 2013: CXXVII. törvény 141. § (4) bekezdése iktatta be.
+[^116]: Az 5/A. § (8c) bekezdés c) pontját a 2023. évi XIX. törvény 78. § c) pontja hatályon kívül helyezte.
+[^117]: Az 5/A. § (8d) bekezdését a 2013: CXXVII. törvény 141. § (4) bekezdése iktatta be.
+[^118]: Az 5/A. § (8e) bekezdését a 2025. évi LXXX. törvény 123. §-a iktatta be.
+[^119]: Az 5/A. § (9) bekezdését a 2010: CLXXIII. törvény 97. § (4) bekezdése iktatta be.
+[^120]: Az 5/A. § (10) bekezdését a 2010: CLXXIII. törvény 97. § (4) bekezdése iktatta be, szövege a 2011: CLXXVI. törvény 145. § (5) bekezdésével megállapított szöveg.
+[^121]: Az 5/A. § (11) bekezdését a 2011: CLXXVI. törvény 145. § (6) bekezdése iktatta be, nyitó szövegrésze a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 119. § e) pontja szerint módosított szöveg.
+[^122]: Az 5/A. § (11) bekezdés e) pontja a 2012: XXXVIII. törvény 41. §-ával megállapított szöveg.
+[^123]: Az 5/A. § (11a) bekezdését a 2012: LXXIX. törvény 86. § (2) bekezdése iktatta be.
+[^124]: Az 5/A. § (11a) bekezdés b) pontja a 2023. évi XIX. törvény 78. § d) pontja szerint módosított szöveg.
+[^125]: Az 5/A. § (11a) bekezdés c) pontját a 2023. évi XIX. törvény 78. § e) pontja hatályon kívül helyezte.
+[^126]: Az 5/A. § (12) bekezdését a 2011: CLXXVI. törvény 145. § (6) bekezdése iktatta be.
+[^127]: Az 5/B. §-t a 2008: CVI. törvény 54. §-a iktatta be, szövege a 2012: LXXIX. törvény 87. §-ával megállapított szöveg.
+[^128]: Az 5/B. § (1) bekezdés nyitó szövegrésze a 2013: XL. törvény 36. § h) pontja szerint módosított szöveg.
+[^129]: Az 5/B. § (1) bekezdés a) pontja a 2023. évi XIX. törvény 77. § b) pontja szerint módosított szöveg.
+[^130]: Az 5/B. § (2) bekezdés nyitó szövegrésze a 2013: XL. törvény 36. § h) pontja szerint módosított szöveg.
+[^131]: Az 5/B. § (3) bekezdése a 2017: L. törvény 285. § (1) bekezdésével megállapított szöveg.
+[^132]: Az 5/B. § (3a) bekezdését a 2023. évi XIX. törvény 75. § (1) bekezdése iktatta be.
+[^133]: Az 5/B. § (4) bekezdése a 2023. évi XIX. törvény 75. § (2) bekezdésével megállapított szöveg.
+[^134]: Az 5/B. § (5) bekezdés nyitó szövegrésze a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 119. § e) pontja szerint módosított szöveg.
+[^135]: A 6. §-t az Alkotmánybíróság a 109/2008. (IX. 26.) AB határozatának 1. pontjával megsemmisítette 2008. szeptember 26. napjával, újonnan a 2008: CVI. törvény 55. §-a iktatta be, hatályon kívül helyezte a 2010: CLXXIII. törvény 105. § i) pontja, újból a 2011: CLXXVI. törvény 147. §-a iktatta be.
+[^136]: A 6. § (1) bekezdése a 2012: CCXII. törvény 111. §-ával megállapított, a 2017: L. törvény 286. § c) pontja szerint módosított szöveg.
+[^137]: A 6. § (2) bekezdése a 2017: L. törvény 285. § (2) bekezdésével megállapított szöveg. [A 2017: L. törvény 286. § a) pontjával elrendelt módosítás, amely szerint a „bírósági felülvizsgálati eljárásban” szövegrész helyébe a „közigazgatási perben” szöveg lép, nem vezethető át.]
+[^138]: A 7. §-t megelőző alcímet a 2013: XL. törvény 27. §-a iktatta be.
+[^139]: A 7. §-t az Alkotmánybíróság a 109/2008. (IX. 26.) AB határozatának 1. pontjával megsemmisítette 2008. szeptember 26. napjával, újonnan a 2008: CVI. törvény 56. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító törvény 77. § (2) bekezdését.
+[^140]: A 7. § (1) bekezdése a 2011: CLXXVI. törvény 148. § (1) bekezdésével megállapított, a 2013: CXXVII. törvény 143. § a) pontja szerint módosított szöveg.
+[^141]: A 7. § (2) bekezdését a 2013: CCXLIV. törvény 90. § b) pontja hatályon kívül helyezte, újonnan a 2015: LXXVII. törvény 76. §-a iktatta be.
+[^142]: A 7. § (3) bekezdése a 2011: CLXXVI. törvény 148. § (1) bekezdésével megállapított, a 2013: CCXLIV. törvény 89. § c) pontja szerint módosított szöveg.
+[^143]: A 7. § (4) bekezdése a 2010: CLXXIII. törvény 99. § (2) bekezdésével megállapított szöveg.
+[^144]: A 7. § (5) bekezdése a 2010: CLXXIII. törvény 99. § (2) bekezdésével megállapított szöveg.
+[^145]: A 7. § (6) bekezdését a 2012: CCXII. törvény 118. § b) pontja hatályon kívül helyezte, újonnan a 2023. évi XIX. törvény 76. §-a iktatta be.
+[^146]: A 7. § (7) bekezdése a 2011: CLXXVI. törvény 148. § (2) bekezdésével megállapított, a 2012: CCXII. törvény 117. § h) pontja, a 2014: CXI. törvény 120. § b) pontja, a 2017: L. törvény 286. § d) pontja szerint módosított szöveg.
+[^147]: A 7. § (8) bekezdését a 2010: CLXXIII. törvény 105. § j) pontja hatályon kívül helyezte.
+[^148]: A 7. § (10) bekezdését a 2009: CLIV. törvény 119. § (3) bekezdésése iktatta be, szövege a 2012: CCXII. törvény 112. § (1) bekezdésével megállapított szöveg.
+[^149]: A 7. § (11) bekezdését a 2012: LXXIX. törvény 88. §-a iktatta be, szövege a 2012: CCXII. törvény 112. § (2) bekezdésével megállapított szöveg.
+[^150]: A 7/A. §-t a 2013: XL. törvény 28. §-a iktatta be.
+[^151]: A 8. §-t megelőző alcímet a 2013: XL: törvény 29. §-a iktatta be.
+[^152]: A 8. § a 2008: CVI. törvény 57. §-ával megállapított szöveg.
+[^153]: A 8. § (1) bekezdés a) pontja a 2012: XXXVIII. törvény 30. §-ával megállapított, a 2012: LXXIX. törvény 92. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^154]: A 8. § (1) bekezdés b)–c) pontját a 2010: CLXXIII. törvény 105. § l) pontja hatályon kívül helyezte.
+[^155]: A 8. § (1) bekezdés b)–c) pontját a 2010: CLXXIII. törvény 105. § l) pontja hatályon kívül helyezte.
+[^156]: A 8. § (1) bekezdés f) pontja a 2011: CLXXVI. törvény 149. § (2) bekezdésével megállapított szöveg.
+[^157]: A 8. § (2) bekezdés a) pontja a 2010: CLXXIII. törvény 104. § i) pontja szerint módosított szöveg.
+[^158]: A 8. § (2) bekezdés b) pontja a 2009: CLIV. törvény 127. § (13) bekezdés b) pontja szerint módosított szöveg.
+[^159]: A 8. § (2) bekezdés c) pontja a 2010: CLXXIII. törvény 104. § j) pontja szerint módosított szöveg.
+[^160]: A 8. § (3) bekezdése a 2011: CLXXVI. törvény 149. § (3) bekezdésével megállapított, a 2012: XXXVIII. törvény 34. § b) pontja, a 2017: L. törvény 286. § e) pontja szerint módosított szöveg.
+[^163]: A 10. §-t megelőző alcímet a 2013: XL. törvény 30. §-a iktatta be.
+[^164]: A 10. § (1) bekezdését az Alkotmánybíróság a 109/2008. (IX. 26.) AB határozatának 1. pontjával megsemmisítette 2008. szeptember 26. napjával.
+[^165]: A 10. § (2) bekezdése a 2008: CVI. törvény 73. § (7) bekezdés b) pontja, a 2011: CLXXVI. törvény 152. § m) pontja szerint módosított szöveg.
+[^166]: A 10. § (2a) bekezdését a 2013: CCXLIV. törvény 86. §-a iktatta be.
+[^167]: A 10. § (2b) bekezdését a 2013: CCXLIV. törvény 86. §-a iktatta be.
+[^168]: A 11. §-t megelőző alcím címet a 2013: XL. törvény 31. §-a iktatta be, szövege a 2013: CCXLIV. törvény 87. §-ával megállapított szöveg.
+[^169]: A 11. § a 2013: CCXLIV. törvény 87. §-ával megállapított szöveg.
+[^170]: A 11/A. §-t a 2013: CCXLIV. törvény 87. §-a iktatta be.
+[^171]: A 11/B. §-t a 2013: CCXLIV. törvény 87. §-a iktatta be.
+[^172]: A 11/A. alcímet (11/C. §) a 2021: CI. törvény 131. §-a iktatta be.
+[^173]: A 12. §-t megelőző alcímet a 2013: XL. törvény 32. §-a iktatta be.
+[^174]: A 12. § e törvény 16. § (2) bekezdése alapján 2007. július 1. napján lép hatályba.
+[^175]: A 12. § (3) bekezdését a 2015: CLXXXVI. törvény 130. §-a iktatta be, a 2020: XXXX. törvény 24. §-a hatályon kívül helyezte.
+[^176]: A 13. § e törvény 16. § (2) bekezdése alapján 2007. július 1. napján lép hatályba.
+[^177]: A 13. § (3) bekezdését a 2012: CCXII. törvény 113. §-a iktatta be.
+[^178]: A 13. § (4) bekezdését a 2012: CCXII. törvény 113. §-a iktatta be.
+[^179]: A 14. §-t megelőző alcímet a 2013: XL. törvény 33. §-a iktatta be.
+[^180]: A 14. §-t a 2007: LXXXII. törvény 2. § 954. pontja hatályon kívül helyezte, újonnan a 2010: CLXXIII. törvény 102. §-a iktatta be.
+[^181]: A 14. § (1) bekezdését a 2011: CLXXVI. törvény 153. § f) pontja hatályon kívül helyezte.
+[^182]: A 14. § (2) bekezdése a 2014: CXI. törvény 119. § f) pontja, a 2017: LIX. törvény 31. § a) pontja szerint módosított szöveg.
+[^183]: A 14. § (3) bekezdését a 2012: CCXII. törvény 118. § d) pontja hatályon kívül helyezte.
+[^184]: A 14. § (4) bekezdését a 2011: CLXXVI. törvény 150. § (1) bekezdése iktatta be, hatályon kívül helyezte a 2012: LXXIX. törvény 92. § (1) bekezdés a) pontja.
+[^185]: A 14. § (5) bekezdését a 2011: CLXXVI. törvény 150. § (1) bekezdése iktatta be, a 2023. évi XIX. törvény 78. § f) pontja hatályon kívül helyezte.
+[^186]: A 14. § (6) bekezdését a 2011: CLXXVI. törvény 150. § (1) bekezdése iktatta be, hatályon kívül helyezte a 2012: XXXVIII. törvény 34. § c) pontja.
+[^187]: A 14. § (7) bekezdését a 2011: CLXXVI. törvény 150. § (1) bekezdése iktatta be, hatályon kívül helyezte a 2012: CCXII. törvény 118. § d) pontja.
+[^188]: A 14. § (8) bekezdését a 2012: CCXII. törvény 118. § d) pontja hatályon kívül helyezte.
+[^189]: A 14. § (9) bekezdését a 2012: XXXVIII. törvény 31. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2013: CCXLIV. törvény 90. § c) pontja.
+[^190]: A 14. § (10) bekezdését a 2012: LXXIX. törvény 90. § (3) bekezdése iktatta be.
+[^191]: A 14. § (11)–(12) bekezdését a 2012: LXXIX. törvény 90. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2013: CCXLIV. törvény 90. § c) pontja.
+[^192]: A 14. § (11)–(12) bekezdését a 2012: LXXIX. törvény 90. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2013: CCXLIV. törvény 90. § c) pontja.
+[^193]: A 14. § (13) bekezdését a 2012: CCXII. törvény 115. §-a iktatta be.
+[^194]: A hatálybalépés időpontja 2012. december 28.
+[^195]: A 14. § (14)–(15) bekezdését a 2013: XL. törvény 34. §-a iktatta be, hatályon kívül helyezte a 2016: LXVII. törvény 188. §-a.
+[^196]: A 14. § (14)–(15) bekezdését a 2013: XL. törvény 34. §-a iktatta be, hatályon kívül helyezte a 2016: LXVII. törvény 188. §-a.
+[^197]: A 14. § (15a) bekezdését a 2013: CCXLIV. törvény 88. § (3) bekezdése iktatta be, hatályon kívül helyezte a 2016: LXVII. törvény 188. §-a.
+[^198]: A 14. § (16) bekezdését a 2013: CXXVII. törvény 142. §-a iktatta be.
+[^199]: A hatálybalépés napja: 2013. július 6.
+[^200]: A 14. § (17) bekezdését a 2013: CXXVII. törvény 142. §-a iktatta be.
+[^201]: A 14. § (18) bekezdését a 2013: CXXVII. törvény 142. §-a iktatta be.
+[^202]: A hatálybalépés napja: 2013. július 6.
+[^203]: A hatálybalépés napja: 2013. július 6.
+[^204]: A 14. § (19) bekezdését a 2013: CCXLIV. törvény 88. § (4) bekezdése iktatta be.
+[^206]: A 16. § (4) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^207]: A 16. § (5) bekezdését a 2010: CLXXIII. törvény 105. § n) pontja hatályon kívül helyezte.
+[^208]: A 16. § (6) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^209]: A 16. § (8) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^210]: A 16. § (9) bekezdését a 2009: CLIV. törvény 126. § (8) bekezdés c) pontja hatályon kívül helyezte.
+[^211]: A 16. § (10)–(13) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^212]: A 16. § (10)–(13) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^213]: A 16. § (10)–(13) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^214]: A 16. § (10)–(13) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte.
+[^215]: Lásd a 337/2008. (XII. 30.) Korm. rendeletet.
+[^216]: Lásd a 41/2007. (III. 13.) Korm. rendeletet, az 516/2020. (XI. 25.) Korm. rendeletet.
+[^217]: Lásd a 41/2007. (III. 13.) Korm. rendeletet.
+[^218]: A 16. § (14) bekezdés c) pontja a 2008: CVI. törvény 73. § (4) bekezdés d) pont de) alpontja szerint módosított szöveg.
+[^219]: A 16. § (14) bekezdés d) pontja a 2008: CVI. törvény 60. § (1) bekezdésével megállapított szöveg.
+[^220]: Lásd az 516/2020. (XI. 25.) Korm. rendeletet.
+[^221]: A 16. § (14) bekezdés e) pontja a 2008: CVI. törvény 60. § (1) bekezdésével megállapított, a 2010: CLXXIII. törvény 104. § k) pontja, a 2013: CCXLIV. törvény 89. § d) pontja szerint módosított szöveg.
+[^222]: Lásd az 516/2020. (XI. 25.) Korm. rendeletet.
+[^223]: A 16. § (14) bekezdés f) pontja a 2009: CLIV. törvény 120. § (1) bekezdésével megállapított szöveg.
+[^224]: A 16. § (14) bekezdés g) pontját a 2008: CVI. törvény 60. § (2) bekezdése iktatta be.
+[^225]: A 16. § (14) bekezdés h) pontját a 2008: CVI. törvény 60. § (2) bekezdése iktatta be.
+[^226]: A 16. § (14) bekezdés i) pontját a 2009: CLIV. törvény 120. § (2) bekezdése iktatta be, szövege a 2010: CLXXIII. törvény 104. § k) pontja szerint módosított szöveg.
+[^227]: A 16. § (14) bekezdés j) pontját a 2010: CLXXIII. törvény 103. §-a iktatta be.
+[^228]: A 16. § (14) bekezdés k) pontját a 2011: CLIV. törvény 75. § (4) bekezdése iktatta be.
+[^229]: A 16. § (14) bekezdés l) pontját a 2011: CLIV. törvény 75. § (4) bekezdése iktatta be, szövege a 2012: LXXIX. törvény 92. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^230]: A 16. § (14) bekezdés m) pontját a 2011: CLXXVI. törvény 151. §-a iktatta be.
+[^231]: A 16. § (14) bekezdés n) pontját a 2011: CLXXVI. törvény 151. §-a iktatta be, szövege a 2012: LXXIX. törvény 92. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^232]: A 16. § (14) bekezdés o) pontját a 2011: CLXXVI. törvény 151. §-a iktatta be.
+[^233]: A 16. § (14) bekezdés p) pontját a 2011: CLXXVI. törvény 151. §-a iktatta be.
+[^234]: A 16. § (14) bekezdés r) pontját a 2011: CLXXVI. törvény 151. §-a iktatta be.
+[^235]: A 16. § (14) bekezdés s) pontját a 2012: XXXVIII. törvény 32. §-a iktatta be.
+[^236]: A 16. § (14) bekezdés t) pontját a 2012: LXXIX. törvény 91. §-a iktatta be.
+[^237]: A 16. § (14) bekezdés u) pontját a 2012: CCXII. törvény 116. §-a iktatta be.
+[^238]: A 16. § (14) bekezdés v) pontját a 2012: CCXII. törvény 116. §-a iktatta be.
+[^239]: A 16. § (14) bekezdés újabb v) pontját a 2016: LXVII. törvény 187. §-a iktatta be.
+[^240]: A 16. § (14) bekezdés x) pontját a 2012: CCXII. törvény 116. §-a iktatta be.
+[^241]: A 16. § (14) bekezdés y) pontját a 2012: CCXII. törvény 116. §-a iktatta be.
+[^242]: A 16. § (15) bekezdését a 2008: CVI. törvény 73. § (4) bekezdés d) pont dc) alpontja hatályon kívül helyezte, újonnan a 2013: XL. törvény 35. §-a iktatta be.
+[^243]: Lásd a 27/2015. (II. 25.) Korm. rendeletet.
+[^244]: Lásd a 27/2015. (II. 25.) Korm. rendeletet.
+[^245]: A 16. § (16) bekezdését a 2009: LVI. törvény 366. §-a hatályon kívül helyezte. E módosító törvény 428. §-a alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.
+[^246]: Az 1–2. számú mellékletet a 2010: CLXXIII. törvény 105. § o) pontja hatályon kívül helyezte.
+[^247]: Az 1–2. számú mellékletet a 2010: CLXXIII. törvény 105. § o) pontja hatályon kívül helyezte.
+[^248]: A 3. számú mellékletet a 2008: CVI. törvény 61. § (1) bekezdése iktatta be, a 2010: CLXXIII. törvény 105. § o) pontja hatályon kívül helyezte.
+[^249]: A 4. számú mellékletet a 2008: CVI. törvény 61. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2011: CLXXVI. törvény 153. § g) pontja.

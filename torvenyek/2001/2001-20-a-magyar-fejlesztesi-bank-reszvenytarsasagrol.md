@@ -1,0 +1,844 @@
+---
+title: "2001. évi XX. törvény a Magyar Fejlesztési Bank Részvénytársaságról"
+identifier: "2001. évi XX. törvény"
+njt_id: "2001-20-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2001/20"
+type: act
+jurisdiction: hu
+language: hu
+date: 2001-05-23
+in_force_from: 2010-01-01
+last_amended: 2026-07-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-20-00-00"
+retrieved: 2026-10-12
+---
+
+# 2001. évi XX. törvény a Magyar Fejlesztési Bank Részvénytársaságról[^1]
+
+Az Országgyűlés
+
+a Magyar Fejlesztési Bank Részvénytársaságról (a továbbiakban: MFB Zrt.) a nemzetgazdaság előtt álló és állami részvételt is igénylő fejlesztési, beruházási feladatokat, valamint az Európai Unióhoz történő csatlakozással kapcsolatos különleges fejlesztési igényeket és forráskezelési feladatokat, továbbá az egyes állami és nemzetközi források hatékony felhasználásának követelményét szem előtt tartva
+
+a következő törvényt alkotja:[^2]
+
+## I. Fejezet — AZ MFB ZRT. ÁLTALÁNOS JOGÁLLÁSA[^3]
+
+#### 1. §
+
+(1)[^4] Az MFB Zrt. egyszemélyes, zártkörű részvénytársaság formájában működő szakosított hitelintézet.
+
+(2)[^5] Az MFB Zrt. részvényeinek száz százaléka az állam tulajdonában van, az MFB Zrt.-ben az államot mint egyszemélyes tulajdonost a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) képviseli. A részvények elidegenítése, biztosítékul adása semmis.
+
+(3)[^6] Az MFB Zrt. jegyzett tőkéje legalább 100.000.000.000,– Ft, azaz százmilliárd forint.
+
+(4)[^7] Az MFB Zrt. székhelye Budapest.
+
+(5)[^8] Az MFB Zrt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
+
+(6)[^9] Az MFB Zrt. nem köteles csatlakozni az Országos Betétbiztosítási Alaphoz.
+
+(7)[^10] Az MFB Zrt. által végzett pénzügyi szolgáltatási tevékenységre a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezéseit, az MFB Zrt. tekintetében fennálló prudenciális követelményekre a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) rendelkezéseit az e törvényben foglalt eltéréssel kell alkalmazni.
+
+(8)[^11] Az MFB Zrt. vonatkozásában nem alkalmazandó a pénzügyi ágazat digitális működési rezilienciájáról, valamint a 1060/2009/EK, a 648/2012/EU, a 600/2014/EU, a 909/2014/EU és az (EU) 2016/1011 rendelet módosításáról szóló, 2022. december 14-i (EU) 2022/2554 európai parlamenti és tanácsi rendelet.
+
+## II. Fejezet — AZ MFB ZRT. FELADATAI, TEVÉKENYSÉGI KÖRE[^12]
+
+#### 2. §[^13]
+
+Az MFB Zrt. feladata, hogy a 3. §-ban meghatározott tevékenységi körében – az átláthatóság, a célszerűség, a gazdaságosság, a hatékonyság és a prudencia követelményeinek megfelelően – a Kormány közép- és hosszú távú gazdaságstratégiája által meghatározott gazdaságfejlesztési célok megvalósításához szükséges fejlesztési források biztosítása érdekében, részben önállóan, részben más hazai és nemzetközi szervezetekkel közösen részt vegyen
+
+a) a gazdaságfejlesztési célok megvalósításához szükséges közép- és hosszú lejáratú hazai és külföldi források, illetőleg támogatások bevonásában és közvetítésében;
+
+b)[^14] a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény hatálya alá tartozó, kiemelt jelentőségű üggyel összefüggő beruházások, valamint egyéb állami, önkormányzati fejlesztések és beruházások (így különösen az infrastrukturális, agrár, környezetvédelmi, munkahelyteremtő, oktatási, turisztikai, sport és szabadidős célú, valamint a strukturális és regionális különbségek kiegyenlítését, illetőleg vidékfejlesztést, a térség- és településfelzárkóztatást szolgáló), továbbá az ezekhez kapcsolódó más fejlesztések, beruházások és mindezek bővítéséhez szükséges fejlesztések, beruházások hitel- és tőkefinanszírozásában;
+
+c)[^15] a magyarországi székhelyű gazdálkodó szervezetek (ezen belül elsődlegesen a kis- és középvállalkozások), egyházi jogi személyek, valamint törvénnyel létrehozott – elkülönített állami pénzalapnak nem minősülő – vagyonkezelést is végző pénzalapok, továbbá a mezőgazdasági őstermelők és az őstermelők családi gazdasága tevékenységének hitel- és tőkefinanszírozásában, továbbá az ezekben egyéb módon történő fejlesztési célú részesedésszerzésben;
+
+d)[^16] az európai uniós tagsághoz kapcsolódó állami és önkormányzati fejlesztések, beruházások pénzügyi lebonyolításában, valamint – külön jogszabályban szabályozott eljárás szerint – az Európai Közösség pénzeszközeinek igénybevételéhez kapcsolódó feladatok (ideértve a támogatás közvetítést, illetve a nemzetközi gazdasági vagy pénzügyi intézménytől történő forrásbevonást és közvetítést is) ellátásában;
+
+e)[^17] az egyes állami, közösségi, illetőleg nemzetközi fejlesztési kifizetésekhez kapcsolódó feladatok (így különösen a fejlesztési célú kiadások, illetőleg támogatások közvetítésének, felhasználásának előkészítését, összehangolását, a kapcsolódó közreműködői feladatok ellátását, valamint a kifizetések felhasználásának elszámolását és értékelését) ellátásában;
+
+f)[^18]
+
+g)[^19]
+
+h)[^20] az európai uniós források, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott források közvetítésében és ezen feladatához kapcsolódó hitel- és tőkefinanszírozásban, garancia nyújtásában és kezesség vállalásában, vissza nem térítendő támogatás nyújtásában;
+
+i)[^21]
+
+j)[^22] jogszabályban meghatározottak szerint kötelező intézményvédelmi szervezetben és a kötelező intézményvédelmi szervezet vagyoni eszközökkel való ellátásában;
+
+k)[^23] az MFB Zrt., valamint az állam közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek hitel- és tőkefinanszírozásában, valamint az érdekükben történő garancia nyújtásában és fizetési kötelezettségeikért kezesség vállalásában;
+
+l)[^24] az állam nevében a tulajdonosi jogok gyakorlásában törvényben meghatározott állami tulajdonú gazdálkodó szervezetek esetében nemzetgazdasági szempontból jelentős fejlesztések, beruházások megvalósítása, bővítése, hatékonyságának növelése, valamint a versenyképesség javítása érdekében,;
+
+m)[^25] az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére a tevékenységük megfelelő színvonalú ellátását, az átlátható és prudens működésüket, annak jogszerűségét biztosító szolgáltatások nyújtásában;
+
+m)[^26]
+
+n)[^27]
+
+o)[^28] szerződés alapján a 2014. évi XXIV. törvénnyel kihirdetett az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás 1. cikk 2. pontja és 2. cikk 2. pontja végrehajtásának elősegítése érdekében iratvizsgálati feladatok ellátásában,
+
+p)[^29]
+
+q)[^30]
+
+#### 3. §[^31]
+
+(1)[^32] Az MFB Zrt. kizárólag a 2. §-ban felsorolt feladataihoz közvetlenül kapcsolódó üzletszerű tevékenységet végezhet.
+
+(1a)[^33]
+
+(2)[^34] Az MFB Zrt. – az (1) bekezdésben meghatározott körben – az alábbi pénzügyi szolgáltatási tevékenységeket végezheti:
+
+a) betétek és más visszafizetendő pénzeszközök gyűjtése kizárólag jogi személyektől;
+
+b) hitel és pénzkölcsön nyújtása;
+
+c) pénzügyi lízing;
+
+d)[^35] a 2. § b), c) és h) pontjában szereplő feladatához közvetlenül kapcsolódóan
+
+1.[^36] pénzforgalmi szolgáltatások nyújtása – a pénzforgalmi számlavezetés kivételével – kizárólag jogi személy, egyéni cég és egyéni vállalkozó részére,
+
+2\. pénzforgalmi számlavezetés kizárólag olyan gazdasági társaság részére, amelyben az MFB Zrt. közvetlen tulajdonnal rendelkezik;
+
+e)[^37] kezesség és garancia, valamint egyéb bankári kötelezettség vállalása;
+
+f) hitelreferencia szolgáltatása;
+
+g) letéti szolgáltatás, széfszolgáltatás;
+
+h) valutával, devizával – ide nem értve a pénzváltási tevékenységet –, váltóval, illetve csekkel saját számlára vagy bizományosként történő kereskedelmi tevékenység;
+
+i)[^38] pénzügyi szolgáltatás közvetítése,
+
+j)[^39] követelésvásárlási tevékenység, ha az a 2. §-ban meghatározott feladatokhoz közvetlenül kapcsolódó jogviszony megvalósítását szolgálja.
+
+(2a)[^40] Az MFB Zrt. az (1) bekezdésben meghatározott körben, a 2. § o) pontjában szereplő feladatához kapcsolódóan iratok – kockázatvállalásból eredő kitettséget nem eredményező – formai vizsgálatát végezheti.
+
+(3)[^41] Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően – jogszabály, vagy az érintett minisztériumokkal, vagy más jogi személyekkel kötött szerződés alapján – az elkülönített állami pénzalapokból, a fejezeti kiadási előirányzatokból és európai uniós forrásokból, valamint az ezek felhasználásáról szóló jogszabályok által meghatározott forrásokból finanszírozott programokhoz kapcsolódó feladatokat láthat el, így különösen:
+
+a) támogatott pályázatok kezelését;
+
+b) döntés-előkészítést;
+
+c)[^42] pénzügyi lebonyolítást, ideértve a forrás kiutalása keretében a devizanemek közötti átváltást is;
+
+d) monitoring végzését;
+
+e) a forrásfelhasználás és a támogatott cél megvalósításának vizsgálatát;
+
+f) visszatérítendő, valamint vissza nem térítendő európai uniós források jogszabálysértő, nem rendeltetésszerű vagy szerződésellenes felhasználásából származó követelések érvényesítését, ide nem értve az adók módjára történő behajtást;
+
+g) tanácsadást; valamint
+
+h) egyéb, az a)–g) pontban foglaltakhoz kapcsolódó kiegészítő szolgáltatásokat.
+
+(3a)[^43] A (3) bekezdésben meghatározott forrásokkal kapcsolatos feladatkörében az MFB Zrt. jár el a bírósági és a hatósági eljárásokban a visszafizetési kötelezettséggel kihelyezett források behajtása érdekében, ideértve a követelések és a biztosítékok érvényesítését is.
+
+(4)[^44] Az MFB Zrt. az (1) bekezdésben meghatározott körben, a (2) bekezdés szerinti pénzügyi szolgáltatási tevékenységeken túlmenően befektetési alap által kibocsátott befektetési jegyet vásárolhat.
+
+(4a)[^45] Az MFB Zrt. az (1)–(4) bekezdésben meghatározott üzletszerű tevékenységek mellett a 8. § (3) és (6) bekezdése szerinti befektetett pénzügyi eszközhöz kapcsolódó befektetési tevékenységet is alaptevékenységként végzi.
+
+(5)[^46] Az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezet állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a Ptk. rendelkezéseit a nemzeti vagyonról szóló törvényben, valamint az e törvényben szabályozott eltérésekkel kell alkalmazni azzal, hogy a tulajdonosi joggyakorlással érintett társasági részesedések tulajdonjogát az MFB Zrt. nem ruházhatja át, a részesedésekre vételi jogot, elővásárlási jogot szerződéssel nem alapíthat, biztosítékul azokat nem adhatja és más módon meg nem terhelheti, a gazdálkodó szervezetet végelszámolással nem szüntetheti meg.
+
+(6)[^47] Kizárólag az (5) bekezdésben meghatározott társasági részesedések tulajdonjogának – az erre feljogosított szervezet által történő – átruházása, biztosítékul adása vagy más módon történő megterhelése, a részesedésekre vételi jog, elővásárlási jog szerződéssel történő alapítása, illetve a gazdálkodó szervezet végelszámolással történő megszüntetése esetén kell az állami vagyonról szóló 2007. évi CVI. törvény, valamint annak végrehajtására kiadott más jogszabályok rendelkezéseit alkalmazni.
+
+(7)[^48] Az MFB Zrt. az (1) bekezdésben meghatározott körben a 2. § m) pontjában meghatározott feladatához kapcsolódóan nyújthat az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek, valamint e gazdálkodó szervezetek közvetlen vagy közvetett tulajdonában álló gazdálkodó szervezetek részére szolgáltatásokat.
+
+(8)[^49] A hallgatói hitelrendszerről szóló jogszabályban meghatározott Diákhitel szervezet számára nyújtott szolgáltatások teljesítése érdekében a Diákhitel szervezet a személyes adatokat továbbítja az MFB Zrt.-nek. Az MFB Zrt. a személyes adatokat kizárólag e szolgáltatások nyújtása céljából jogosult kezelni, mindaddig, amíg a hallgatói hitelszerződés alapján a Diákhitel szervezetet vagy a hallgatót jogok illethetik meg, illetve kötelezettségek terhelhetik.
+
+(9)[^50] Az MFB Zrt. saját vagyonát, illetve annak nyilvántartását el kell különíteni annak a vagyonnak a nyilvántartásától, amely felett az állam nevében az MFB Zrt. gyakorolja a tulajdonosi jogokat (rábízott vagyon).
+
+(10)[^51] Az MFB Zrt. a rábízott vagyon körébe tartozó állami vagyont az adott vagyontárgy sajátosságainak megfelelő, az azonosítást lehetővé tevő módon naturáliában (mennyiségben) és értékben, a keletkezés (aktiválás) időpontját is feltüntetve tartja nyilván. Ezen elkülönített nyilvántartás tételesen tartalmazza a társasági részesedések könyv szerinti bruttó és nettó értékét, az elszámolt értékvesztés összegét, és az azokban bekövetkezett változásokat is.
+
+(11)[^52] Az értéken történő nyilvántartástól csak abban az esetben lehet eltekinteni, ha az adott vagyontárgy értéke természeténél, jellegénél fogva nem állapítható meg.
+
+(12)[^53]
+
+(13)[^54] Az MFB Zrt. a rábízott vagyon értékének megőrzéséről köteles gondoskodni.
+
+(14)[^55] Az MFB Zrt. jogosult ellenőrizni az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek gazdálkodását, működését. Az ellenőrzött szervezet, a szervezet vezetője, alkalmazottja adatszolgáltatásra és együttműködésre köteles.
+
+(15)[^56] Az MFB Zrt. veszteségmérséklés céljából pénzügyi intézménytől hitelállományt vehet át és követelést vásárolhat.
+
+#### 4. §[^57]
+
+(1)[^58] Az MFB Zrt. a 2. §-ban meghatározott feladatai ellátása érdekében pénzügyi szolgáltatási tevékenységet közvetlenül vagy más pénzügyi intézményen keresztül végezhet.
+
+(2)[^59]
+
+(3)[^60]
+
+(4)[^61] Az MFB Zrt. kizárólag akkor nyújthat hitelt, illetve kölcsönt, valamint csak akkor vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, ha annak visszafizetése, megtérülése az ügyletre vonatkozó üzleti, pénzügyi tervek alapján biztosított, és/vagy az MFB Zrt. fedezetértékelési szabályzata szerinti mértékű fedezetek a hitelnyújtáskor vagy a későbbiekben rendelkezésre állnak. Ha mindez a 2. § b), c), h) és k) pontjában megjelölt feladatok teljesíthetőségét akadályozza, akkor ezen feladatok teljesítésének kell elsőbbséget biztosítani.
+
+(5)[^62] Az MFB Zrt. Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan szerezhet, ha a befektetés minél magasabb mértékű megtérülése biztosított.
+
+(5a)[^63] Az MFB Zrt.-nek – az Európai Unió vagy annak intézményei, illetve ezek részesedésével működő szervezetek által kezdeményezett vagy támogatott, és a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/49/EK irányelv hatályon kívül helyezéséről szóló, 2013. június 26-i 2013/36/EU európai parlamenti és tanácsi irányelv 2. cikk (5) bekezdése szerinti kivételi listán szereplés feltételeire tekintettel – a számára nem tilalmazott pénzügyi együttműködésben történő részvétele esetén a 3. § (1) és (4) bekezdését, 4. § (5) bekezdését, valamint a 8. § (3) és (4) bekezdését nem kell alkalmazni, illetve az MFB Zrt. e részvételével közvetlenül összefüggő, az együttműködés céljának megvalósulását szolgáló ügyletet köthet.
+
+(5b)[^64] Az MFB Zrt. Magyarországon létrehozott, magyarországi székhelyű befektetési alapkezelő által kezelt befektetési alap által kibocsátott befektetési jegyet a 2. §-ban meghatározott feladatai ellátása érdekében végzett pénzügyi szolgáltatási tevékenységéhez kapcsolódóan biztosítékok érvényesítése céljából is szerezhet azzal, hogy ebben az esetben az (5) bekezdésben meghatározott, a befektetés minél magasabb mértékű megtérülésére vonatkozó feltétel nem alkalmazandó.
+
+(6)[^65] Az MFB Zrt. kizárólag olyan személy, illetve szervezet részére nyújthat hitelt, illetve kölcsönt, valamint csak olyan személy, illetve szervezet érdekében vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, amely
+
+a) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősül, kivéve a természetes személyeket (ideértve a mezőgazdasági őstermelőket és az őstermelők családi gazdaságának tagját is) és a társasházakat, továbbá
+
+b) a tényleges tulajdonos vagy tulajdonosok személye a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontja szerint beazonosítható.
+
+## III. Fejezet — AZ MFB ZRT. KÖLTSÉGVETÉSI ÉS KORMÁNYZATI KAPCSOLATAI[^66]
+
+### Költségvetési kapcsolatok
+
+#### 5. §[^67]
+
+(1)[^68] Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az MFB Zrt. által
+
+a) forrásszerzés céljából igénybe vett hitelekből, felvett kölcsönökből és kibocsátott kötvényekből az MFB Zrt.-t terhelő fizetési kötelezettségek teljesítéséért;
+
+b)[^69] közvetlenül vagy pénzügyi intézményen keresztül közvetetten nyújtott hitel- és pénzkölcsönből, készfizető kezességvállalásból, garanciavállalásból, valamint egyéb bankári kötelezettségvállalásból az MFB Zrt. vagy a pénzügyi intézmény felé fennálló fizetési kötelezettségek teljesítéséért a Kormány határozatában megjelölt ügyletek tekintetében azzal, hogy a Kormány által meghatározott keretösszeg felhasználásának nyilvántartása és az erre vonatkozó adatszolgáltatások elkészítése az MFB Zrt. feladata, továbbá a kezesség beváltására szerződésátruházást vagy engedményezést követően kizárólag az MFB Zrt. jogosult;
+
+c) forrásszerzés céljából a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 48. § (1) bekezdése szerinti bel- és külföldi szakmai ügyféltől bankközi piacon elfogadott betétekből, valamint
+
+d) végrehajtott deviza- és kamatcsere ügyletek pótlási költségéből eredő, az MFB Zrt.-t terhelő fizetési kötelezettségek teljesítéséért.
+
+(2)[^70] Az államháztartásért felelős miniszter a Kormány határozata alapján az állam nevében árfolyam-fedezeti megállapodást köthet az MFB Zrt.-vel az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betéthez, igénybe vett hitelhez, felvett kölcsönhöz és kibocsátott kötvényhez kapcsolódóan, azok euróban kifejezett összege, továbbá az (1) bekezdés d) pontja alapján a forrásbevonással összefüggő deviza csereügylet miatt az MFB Zrt.-t euróban terhelő fizetési kötelezettségek tekintetében.
+
+(3)[^71] A költségvetési törvényben meg kell határozni:
+
+a)[^72] a forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betétek, továbbá igénybe vett hitelek, felvett kölcsönök, és kibocsátott kötvények – devizában történő forrásbevonás esetén a szerződéskötés vagy a kötvénykibocsátás napján azok Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított értékén számított – állománya és az (1) bekezdés d) pontja alapján végrehajtott deviza- és kamatcsere ügyletek pótlási költsége együttes állományának felső határát;
+
+b)[^73] az MFB Zrt. által az (1) bekezdés b) pontja alapján állami kezesség mellett nyújtott hitelek, valamint harmadik fél javára vállalt készfizető kezesség és garancia állomány felső határát;
+
+c)[^74] az MFB Zrt. által forrásszerzés céljából az (1) bekezdés a) és c) pontja alapján elfogadott betétekhez, igénybe vett hitelekhez, felvett kölcsönökhöz és kibocsátott kötvényekhez, továbbá az (1) bekezdés d) pontja alapján végrehajtott forrásbevonással összefüggő deviza csereügyletekhez kapcsolódó árfolyam-fedezeti megállapodások által fedezett források forintban számított, együttes állományának felső határát;
+
+d)[^75] az MFB Zrt. által saját kockázatára nyújtott azon hitelek és kölcsönök állományát, amelyekhez a Kormány határozatában forrás- és/vagy eszközoldali kamattámogatást biztosít.
+
+(3a)[^76] Az MFB Zrt.-nek az (1) bekezdés d) pontja szerinti fizetési kötelezettsége teljesítéséhez szükséges forrásokat a központi költségvetés közvetlenül biztosítja.
+
+(3b)[^77] A (3) bekezdés a) pontjában meghatározott állományok együttes összege, valamint a (3) bekezdés b)–d) pontjában meghatározott állományok az év egyetlen napján sem haladhatják meg a Magyarország központi költségvetéséről szóló törvényben felső határként meghatározott összegeket.
+
+(3c)[^78] Devizában megvalósuló kötvény kibocsátási program esetén, a programban meghatározott kibocsátási időszak lezárultáig a (3b) bekezdés szerinti állományok együttes összegének meghatározásakor – a (3) bekezdés a) pontjában foglaltaktól eltérően – a kötvény kibocsátási program teljes keretösszegét kell állományként figyelembe venni, a program alapján történt első kötvénykibocsátás időpontjában érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon forintra átszámított összegben.
+
+(3d)[^79] E § alkalmazásában pótlási költség
+
+a) hosszú pozíció esetén: az az összeg, amennyivel a származtatott ügylet alapjául szolgáló eszköz piaci értéke (vagy deviza esetén az elszámoló ára) meghaladja a határidős szerződés tárgyának névértékét;
+
+b) rövid pozíció esetén: az az összeg, amennyivel a határidős szerződés tárgyának névértéke meghaladja a származtatott ügylet alapjául szolgáló eszköz piaci értékét (vagy deviza esetén az elszámoló árát).
+
+(4)[^80] Az MFB Zrt. idegen devizában meghatározott, éven túli lejáratú forrásbevonását a miniszterrel egyeztetve, az államháztartásért felelős miniszter egyidejű tájékoztatása mellett végzi.
+
+(5)[^81] Az (1) bekezdésben szereplő kezességek vállalására, beváltására, nyilvántartására és a hozzájuk kapcsolódó adatszolgáltatási kötelezettségre az államháztartásról szóló 2011. évi CXCV. törvényt, illetve annak felhatalmazása alapján kiadott jogszabályokat – a (6) és (7) bekezdésben foglalt kivételekkel – kell alkalmazni.
+
+(6)[^82] Az (1) bekezdés a) és b) pontja szerinti fizetési kötelezettségek biztosítékaként az e törvény alapján vállalt jogszabályi állami kezességen túlmenően a hitelező további fedezet előírására nem köteles.
+
+(7)[^83] Az (1) bekezdés a), c) és d) pontja alapján vállalt jogszabályi állami kezességgel kapcsolatosan az állam kezességvállalási díjat nem számol fel.
+
+(8)[^84] Az MFB Zrt. javára vagy érdekében fennálló állami kezességgel érintett alapjogviszony módosítása esetén az állami kezesség – az államháztartásért felelős miniszter külön hozzájárulása nélkül – az alapjogviszony változásához igazodva áll fenn, feltéve, ha a változás nem érinti a fennálló kezességvállalással biztosított alapjogviszonynak az állami kezességvállalásra vonatkozó jogszabályokban vagy kormányhatározatban rögzített feltételeit.
+
+(9)[^85] Az MFB Zrt., az NTH Nemzeti Tőkeholding Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság, a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság, a Diákhitel Központ Zártkörűen Működő Részvénytársaság, valamint ezen gazdasági társaságok közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságok az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 8. §-a alkalmazásában együttesen kapcsolt vállalkozásnak minősülnek.
+
+(10)[^86] Az állam a központi költségvetés terhére a (11) bekezdésben meghatározott megállapodás szerint biztosítja a 4. § (5) és (5b) bekezdésében meghatározott befektetési alap által kibocsátott befektetési jegyekbe fektetett tőke, valamint az MFB Zrt. többségi befolyása alatt álló gazdasági társaság tulajdonában lévő befektetési jegyekbe fektetett tőke és a befektetési jegyek helyébe lépő pénzkövetelés különbözetét (a továbbiakban: tőkekiegyenlítés) az MFB Zrt. részére.
+
+(10a)[^87]
+
+(11)[^88] A tőkekiegyenlítés részletes szabályairól az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter megállapodást köt az MFB Zrt.-vel.
+
+### Az MFB Zrt. kormányzati kapcsolatai[^89]
+
+#### 5/A. §[^90]
+
+A Kormánynak biztosítania kell az MFB Zrt. hosszú távú és stabil működőképességét.
+
+#### 6. §
+
+(1)[^91] Az MFB Zrt. tárgyévi tevékenységéről a miniszter a tárgyévet követő évben augusztus 31-ig beszámol a Kormány részére.
+
+(2)[^92] A beszámolónak részletesen elemeznie kell az MFB Zrt. éves tevékenységét, a gazdálkodás célszerűségét és jövedelmezőségét. A beszámolónak tartalmaznia kell a pénzügyi, jövedelmi, vagyoni helyzet elemzését, az előző évben vállalt, a korábbi időszakról áthúzódó kötelezettségeket, valamint ezek esedékességének ismertetését és értékelését, továbbá a központi költségvetéssel való elszámolások eredményeit is.
+
+(3)[^93] A Kormány a beszámoló alapján áttekinti az MFB Zrt. pénzügyi, jövedelmi és vagyoni helyzetét.
+
+#### 6/A. §[^94]
+
+(1) Az állam a központi költségvetés terhére a Kormány egyedi határozatával készfizető kezességet az MFB Zrt. javára abban az esetben vállalhat, ha
+
+a) az adott ügylet vagy ügyletek nemzetgazdasági szempontból indokolt fejlesztési, beruházási feladatot valósítanak meg és
+
+b) a fejlesztési, beruházási cél más módon nem érhető el.
+
+(2) A Kormánynak az MFB Zrt. javára vállalt készfizető kezességvállalásról szóló határozatai nyilvánosak.
+
+## IV. Fejezet — AZ MFB ZRT. MŰKÖDÉSE[^95]
+
+### Az MFB Zrt. gazdálkodása[^96]
+
+#### 7. §[^97]
+
+(1) Az MFB Zrt. tevékenységéhez illeszkedő jövedelmezőségi elvárásokat az éves üzleti tervben kell meghatározni.
+
+(2)[^98]
+
+### Az MFB Zrt. prudens működésére vonatkozó szabályok[^99]
+
+#### 8. §[^100]
+
+(1)[^101] Az 575/2013/EU rendelet 395. cikk (1) bekezdésében foglalt rendelkezéstől eltérően az MFB Zrt. által
+
+a) a hitelintézetekkel szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének kétszáz százalékát,
+
+b)[^102] pénzügyi vállalkozással szembeni – ügyfelenként vagy ügyfélcsoportonként külön számított – kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének száz százalékát,
+
+c)[^103] pénzügyi intézménynek nem minősülő egy ügyféllel vagy egy ügyfélcsoport nem pénzügyi intézmény tagjaival szembeni együttes kitettség érték összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hatvan százalékát.
+
+(1a)[^104] Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
+
+(1b)[^105]
+
+(1c)[^106] Az (1) bekezdést nem kell alkalmazni az MFB Zrt. közvetlen többségi tulajdoni részesedésével működő gazdasági társaságokra, továbbá az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaságokra.
+
+(1d)[^107] Az 575/2013/EU rendelet 390. cikk (2) bekezdésében foglaltaktól eltérően az MFB Zrt.-nek az egyedi ügyfelekkel szembeni teljes kitettség kiszámítása során a kollektív befektetési formák befektetési jegyeinek formájában fennálló kitettségeket nem kell figyelembe vennie.
+
+(2)[^108] Az MFB Zrt. esetében a Hpt. 17/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az MFB Zrt. mint a szerződésbe belépő pénzügyi intézmény húsz szerződésnél kevesebb szerződést vagy tízmilliárd forintnál kisebb tőketartozást vagy lízingdíj-követelést tartalmazó szerződéses állományt is átvehet a Magyar Nemzeti Bank felügyeleti engedélyével. Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 97. §-ában, 102. § (1) bekezdésében, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+
+(2a)[^109] Az MFB Zrt. a Hpt. 110. §-a szerinti kockázatvállalási-kockázatkezelési bizottságot állít fel.
+
+(3)[^110] Az MFB Zrt.
+
+a) pénzügyi intézményben, befektetési vállalkozásban, árutőzsdei szolgáltatóban, elszámolóházi tevékenységet végző szervezetben, központi szerződő félben, tőzsdében, befektetési alapkezelőben, biztosítóban, viszontbiztosítóban, járulékos vállalkozásban, illetve nemzetközi pénzügyi szervezetben,
+
+b) a 2. §-ban meghatározott feladatainak ellátása érdekében alapított vagy ilyen feladat végrehajtásával érintett gazdasági társaságban,
+
+c) a 2. §-ban meghatározott feladatainak ellátása érdekében, kormányrendeletben meghatározott, 1990. január 1. napját követően részben vagy egészben közvetlenül vagy közvetve állami, önkormányzati tulajdonban állt gazdálkodó szervezetben és ezek jogutódjaiban,
+
+d) közműszolgáltató gazdálkodó szervezetben,
+
+e) ingatlanforgalmazó, ingatlankezelő gazdálkodó szervezetben,
+
+f)[^111] korlátolt felelősségű társaságban, részvénytársaságban átmenetileg, a szerzés időpontjától számított legfeljebb hatéves időtartamra, pénzügyi szolgáltatásból származó veszteség mérséklése, vagy a közvetlen vagy közvetett részesedésével működő gazdasági társaságok veszteségmérséklése céljából, hiteltulajdonrészre vonatkozó csereügylet vagy követelése ellenértékeként csődeljárás, felszámolás során,
+
+g) a 2. §-ban meghatározott feladatainak ellátása érdekében, fejlesztési tőkefinanszírozás céljából korlátolt felelősségű társaságban, részvénytársaságban,
+
+h)[^112] az MFB Zrt. tulajdonosi joggyakorlása alatt álló, valamint a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi CXXVIII. törvény hatálybalépésekor közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetben,
+
+i)[^113] az MFB Zrt. feletti tulajdonosi jogokat gyakorló miniszter döntésében meghatározott egyéb olyan gazdálkodó szervezetben, amelynek működése az MFB Zrt. 3. § szerinti alaptevékenységéhez kapcsolódik, valamint
+
+j)[^114] üzletviteli, egyéb vezetési tanácsadást vagy egyéb, máshová nem sorolt pénzügyi közvetítést főtevékenységként végző gazdálkodó szervezetben
+
+szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.
+
+(4)[^115] Az MFB Zrt. a (3) bekezdés g) pontja szerinti részesedésszerzés esetén közvetlenül, illetve közvetetten legfeljebb 50%–1 szavazat mértékű tulajdoni részesedéssel rendelkezhet.
+
+(5)[^116] A (3) és a (4) bekezdésben foglaltakat az MFB Zrt. közvetett részesedésszerzése esetén csak akkor kell alkalmazni, ha a részesedést olyan gazdasági társaság szerzi meg, amelyben az MFB Zrt. tulajdoni részesedése alapján a szavazatok több mint 50%-ával rendelkezik.
+
+(6)[^117] A (3) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. közvetlen vagy közvetett részesedésszerzése esetén, ha annak tárgya
+
+a)[^118] az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetben fennálló, vagy annak közvetlen vagy közvetett tulajdonában álló társasági részesedés,
+
+b) az MFB Zrt. közvetlen vagy közvetett tulajdonában álló társasági részesedés vagy
+
+c)[^119] olyan kockázati tőkealap közvetlen vagy közvetett tulajdonában álló társasági részesedés, amely által kibocsátott befektetési jegyek többsége az MFB Zrt. tulajdonában van.
+
+#### 8/A. §[^120]
+
+Az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi vállalkozásoknál, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek részesedésével működő pénzügyi vállalkozásoknál igazgatóság nem működik, kivéve ha a tulajdonos (alapító), illetve a miniszter vagy a közgyűlés másként rendelkezik. Egyszemélyes ügyvezetés esetén az igazgatóság jogait egy vezető tisztségviselő (vezérigazgató) gyakorolja. E rendelkezéseket 2010. július 1. napját követően létrehozott, illetve megszüntetett jogviszonyok tekintetében kell alkalmazni.
+
+#### 9. §[^121]
+
+(1)[^122]
+
+(2)[^123] Egy befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulás összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének hetvenöt százalékát.
+
+(3)[^124] Befektetési alap által kibocsátott, MFB Zrt. által lejegyzett befektetési jegyre teljesített vagyoni hozzájárulások együttes összege nem haladhatja meg az MFB Zrt. szavatoló tőkéjének háromszáz százalékát.
+
+#### 9/A. §[^125]
+
+A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az MFB Zrt. részére a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: MNB) engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
+
+#### 9/B. §[^126]
+
+Amennyiben az MFB Zrt. közvetlenül vagy pénzügyi intézményeken keresztül hitelt vagy kölcsönt nyújt több ügyfélnek, több ügyfél javára kezességet vagy garanciát vállal, vagy kollektív befektetési alapokba fektet (a továbbiakban: program) előre meghatározott feltételek mellett, akkor a program
+
+a) szükségességét alátámasztó piaci hiányosságról szóló elemzését,
+
+b) által biztosított ösztönző hatásra vonatkozó elemzését,
+
+c) szükségességére és arányosságára vonatkozó elemzését, valamint
+
+d) hatékonysága értékelésének módját és gyakoriságát
+
+a program bejelentésekor nyilvánosságra hozza.
+
+#### 9/C. §[^127]
+
+Amennyiben a pénzügyi közvetítő vagy alapkezelő kiválasztása során az MFB Zrt. közbeszerzési eljárást nem köteles lefolytatni, a pénzügyi közvetítőt vagy az alapkezelőt az MFB Zrt. nyílt, nyilvános, az esélyegyenlőséget és az egyenlő bánásmódot biztosító kiválasztási folyamat során választja ki.
+
+#### 9/D. §[^128]
+
+Az MFB Zrt. minden év június 15. napjáig könyvvizsgálót bíz meg a szervezeti integritását, az összeférhetetlenség feltárását, a kettős finanszírozás megelőzését, a jogszabályi megfelelést biztosító folyamatszabályozást, valamint a pénzügyi közvetítők és alapkezelők díjazásának átláthatóságát biztosító folyamatainak vizsgálatával.
+
+### Az üzleti könyvek vezetése. Az éves beszámoló
+
+#### 10. §[^129]
+
+(1)[^130] Az MFB Zrt. köteles a miniszter által elfogadott – a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó – éves beszámolót és az összevont (konszolidált) éves beszámolót az adott üzleti év mérlegfordulónapjától számított 180 napon belül cégbíróságnál letétbe helyezni ugyanolyan formában és tartalommal (szövegezésben), mint amelynek alapján a könyvvizsgáló az éves beszámolót és az összevont (konszolidált) éves beszámolót felülvizsgálta.
+
+(2)[^131] Az MFB Zrt. az (1) bekezdésben meghatározott beszámolóit legkésőbb június 15-ig köteles a miniszter elé terjeszteni. A miniszter a beszámolók elfogadásáról az előterjesztéstől számított 15 napon belül dönt.
+
+### Titoktartás[^132]
+
+#### 10/A. §[^133]
+
+(1)[^134] Az MFB Zrt. esetében – az ügyfél személyének, az ügylet összegének, valamint az arra jogosult pártoknak a működési feltételeinek biztosítására szolgáló ingatlanok vásárlásához szükséges, külön törvényben szabályozott pénzkölcsön nyújtására vonatkozó szerződések, biztosítéki szerződések, továbbá a kapcsolódó végrehajtási eljárás iratai kivételével – banktitok minden olyan, az egyes ügyfelekről az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint az MFB Zrt. által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
+
+(2) Nem minősül banktitoknak az MFB Zrt. tulajdonában álló, illetőleg a rábízott vagyon körébe tartozó gazdasági társaságok tulajdonlásával, illetve tulajdonosi irányításával összefüggő az MFB Zrt. rendelkezésére álló tény, információ, megoldás vagy adat, amely e társaságok személyére, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi kapcsolataira vonatkozik.
+
+(3)[^135] Nem minősül banktitoknak a QUAESTOR Pénzügyi Tanácsadó Zártkörűen Működő Részvénytársaság, továbbá a közvetlen vagy közvetett részesedésével működő gazdasági társaságok 3. § (2) bekezdése szerinti ügyleteire vonatkozó szerződés, biztosítéki szerződés, az ügyletekhez kapcsolódó igényérvényesítési eljárások irata, valamint a döntés-előkészítés és a döntéshozatal során keletkezett irat és adat.
+
+(4)[^136] A végső kedvezményezett személyének és az ügylet összegének kivételével a banktitokkal azonos védelem alá esik az MFB Zrt. 2. § h) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége során a végső kedvezményezettről az MFB Zrt., valamint az általa megbízott pénzügyi közvetítő rendelkezésére álló minden tény, információ, megoldás vagy adat, amely a végső kedvezményezett adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, a benyújtott pályázatra, valamint az általa megvalósítandó projektre vonatkozik.
+
+(5)[^137] A (4) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. európai uniós forrásból nyújtott pénzügyi eszközzel kapcsolatos és az Európai Unió szerveitől származó központi uniós forrásokból nyújtott támogatásokkal kapcsolatos adatok közzétételét előíró uniós jogi aktusok és jogszabályi rendelkezések által meghatározott adatok körére. Nem jelenti a (4) bekezdésben foglaltak sérelmét a 2. § h) pontja szerinti tevékenységekkel összefüggésben ellenőrzésre jogosult szerv részére történő adatszolgáltatási kötelezettség teljesítése.
+
+#### 10/B. §[^138]
+
+A Hpt. 159. §-a, 161. §-a és az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. által a miniszter által vezetett minisztérium, illetve a a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium vagy a Miniszterelnöki Kormányiroda részére, illetve az MFB Zrt. tulajdonosi joggyakorlása alatt álló és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek által az MFB Zrt. részére adott adatszolgáltatásra.
+
+## V. Fejezet — AZ MFB ZRT. FELÜGYELETE[^139]
+
+#### 11. §
+
+(1)[^140] Az MFB Zrt. felügyeletét – e törvény 13. §-ának (3) bekezdésében meghatározott kivétellel – az MNB látja el.
+
+(2)[^141] Az MNB az általa végzett vizsgálat eredményéről készült jelentést a miniszternek küldi meg, aki a jelentés kézhezvételétől számított 30 napon belül azt a Kormány elé terjeszti.
+
+## V/A. Fejezet[^142] — AZ MFB ZRT. EURÓPAI UNIÓS FORRÁSKEZELÉSI TEVÉKENYSÉGE
+
+#### 11/A. §[^143]
+
+Az MFB Zrt. 2. § h) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége esetében az európai strukturális és beruházási alapokból finanszírozott pénzügyi eszközök végrehajtása során az 1. § (7) bekezdése, valamint a 4. §, 8. §, 8/A. §, 9. § és 11. § rendelkezései nem alkalmazandóak.
+
+#### 11/B. §[^144]
+
+(1) Amennyiben az MFB Zrt.-ben tőkeemelésre a Helyreállítási és Rezilienciaépítési Eszköz létrehozásáról szóló, 2021. február 12-i (EU) 2021/241 európai parlamenti és tanács rendelet (a továbbiakban: 2021/241 EU rendelet) keretében, az Európai Unió Tanácsa végrehajtási határozatával jóváhagyott helyreállítási és rezilienciaépítési terv alapján biztosított forrásból (a továbbiakban: HET-forrás) kerül sor, a tőkeemelés összegének megfelelő összeg csak a 2021/241 EU rendelet szerinti céloknak megfelelő finanszírozásra fordítható.
+
+(2) A Kormány határozatban állapítja meg, hogy az MFB Zrt. tőkeemelésére fordított forrás mekkora részben minősül HET-forrásnak.
+
+(3) HET-forrás felhasználására kizárólag a kockázatvállalási-kockázatkezelési bizottság előzetes, a forrásfelhasználás jogszerűségét, a 2021/241 EU rendelet szerinti céloknak való megfelelőségét, valamint a forrásfelhasználás szakmai értékelését tartalmazó véleménye alapján kerülhet sor.
+
+(4) Az MFB Zrt. a HET-forrásból finanszírozott programok esetében minden esetben közzéteszi az ügyfél nevét, valamint az ügylet összegét.
+
+## VI. Fejezet — AZ MFB ZRT. SZERVEZETE[^145]
+
+### Az MFB Zrt. szervei[^146]
+
+#### 12. §[^147]
+
+Az MFB Zrt. irányító, döntéshozó és ellenőrző szervei a miniszter, az igazgatóság és a felügyelő bizottság.
+
+### A tulajdonosi jogok gyakorlója
+
+#### 13. §
+
+(1)[^148]
+
+(2)[^149]
+
+(3)[^150] Az MFB Zrt. gazdálkodásának célszerűségét, jövedelmezőségét és szakszerűségét a miniszter vizsgálja.
+
+(4) A (3) bekezdésben foglaltak nem érintik az állami ellenőrzés szerveinek jogszabályban meghatározott hatáskörét.
+
+#### 13/A. §[^151]
+
+(1)[^152] A Hpt. 137. § (1) bekezdésében meghatározott felügyeleti engedély nem szükséges az MFB Zrt. vezető állású személyének, illetve ügyvezetőjének megválasztásához, illetve kinevezéséhez.
+
+(2)[^153] Vezető állású személynek, illetve ügyvezetőnek az a személy választható meg, illetve nevezhető ki, aki megfelel a Hpt. 137. §-ában és 155. §-ában meghatározott feltételeknek azzal, hogy ügyvezetővé az a személy is megválasztható, illetve kinevezhető, aki rendelkezik hitelintézetnél, vagy szakosított hitelintézetnél szerzett legalább 10 éves szakirányú vezetői gyakorlattal.
+
+(3)[^154] Vezető állású személy, illetve ügyvezető megválasztását, illetve kinevezését az MFB Zrt. a kinevezéstől számított 2 munkanapon belül köteles az MNB-nek bejelenteni. A bejelentésre a Hpt. 155. § (2) bekezdését kell megfelelően alkalmazni.
+
+(4)[^155] Amennyiben az MNB úgy ítéli meg, hogy a megválasztott, illetve kinevezett személy nem felel meg e törvényben, valamint a Hpt. 137. §-ában és 155. §-ában meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a miniszternél a megválasztott személy visszahívását, illetve a kinevezett személy felmentését.
+
+(4a)[^156] Az MFB Zrt. tekintetében a Hpt. 150. §-ában foglaltakat nem kell alkalmazni.
+
+(5)[^157] Az (1)–(4) bekezdésben foglaltakat az MFB Zrt. tulajdonosi joggyakorlása alatt álló pénzügyi intézményekre, az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő pénzügyi intézményekre, vagy az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdálkodó szervezetek részesedésével működő pénzügyi intézményekre is megfelelően alkalmazni kell.
+
+#### 13/B. §[^158]
+
+Kizárólag a miniszternek engedélye szükséges az MFB Zrt. alapító okiratának módosításához a következő esetekben:
+
+a) a cég nevének és székhelyének megváltoztatása,
+
+b) az igazgatóság jogkörének módosítása.
+
+### Az igazgatóság
+
+#### 14. §
+
+(1)[^159] Az igazgatóság az MFB Zrt. ügyvezető szerve.
+
+(2)[^160]
+
+(3)[^161] Az igazgatóság tagja és az igazgatóság tagjának közeli hozzátartozója [Ptk. 8:1. § (1) bekezdés 1. pont] nem lehet európai parlamenti, országgyűlési vagy helyi önkormányzati képviselő, valamint nemzetiségi szószóló.
+
+(4)[^162] Az igazgatóság 5–9 tagból áll. Az igazgatóság tagjait a miniszter – ötéves időtartamra – nevezi ki és hívja vissza. Az igazgatóság tagjai egy alkalommal újra kinevezhetőek. Az igazgatóság élén az elnök áll. Az igazgatóság elnökét maga választja tagjai közül.
+
+#### 15. §[^163]
+
+(1) Az MFB Zrt. munkaszervezetének élén a szakosított hitelintézettel munkaviszonyban álló vezérigazgató áll.
+
+(2)[^164] Az MFB Zrt. vezérigazgatója felett a munkáltatói jogokat a miniszter gyakorolja. A vezérigazgató – a 14. § (4) bekezdésében meghatározott időtartamtól eltérően – a megbízatása teljes idejére az igazgatóság tagja. Ha a vezérigazgató egyben az igazgatóság elnöke is, akkor jogosult az elnök-vezérigazgató cím használatára.
+
+(3)[^165]
+
+### A felügyelő bizottság
+
+#### 16. §
+
+(1)[^166] A felügyelő bizottság az MFB Zrt. ellenőrző szerve.
+
+(2)[^167]
+
+(3)[^168] A felügyelőbizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A felügyelőbizottság tagjai egy alkalommal újra kinevezhetőek.
+
+(4)[^169]
+
+#### 16/A. §[^170]
+
+Az MFB Zrt. könyvvizsgálóját a miniszter választja meg, határozott időtartamra.
+
+### Az MFB Zrt. alkalmazottai[^171]
+
+#### 17. §
+
+(1)[^172] Az MFB Zrt. munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt csak a Hpt.-ben meghatározott személyi feltételeknek megfelelő, büntetlen előéletű, cselekvőképes személlyel létesíthet, aki feladatainak ellátásához szükséges magas szintű elméleti ismeretekkel, gyakorlattal rendelkezik és megfelel az összeférhetetlenségi szabályoknak. Az alkalmazottakra vonatkozó részletes szabályokat az MFB Zrt. szervezeti-működési szabályzatában kell meghatározni.
+
+(2)[^173] Az MFB Zrt. alkalmazottai kötelesek a feladatuk ellátása során tudomásukra jutott üzleti titkot, banktitkot és értékpapír-titkot megőrizni.
+
+(3)[^174] Az MFB Zrt. feladatkörét érintő ügyben az üzleti titok megtartásának kötelezettsége alól az MFB Zrt. alkalmazottai részére a felmentést az MFB Zrt. vezérigazgatója adhatja meg.
+
+### Az összeférhetetlenség
+
+#### 18. §
+
+(1)[^175] Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjaira, alkalmazottaira a Ptk.-ban, a Hpt.-ben és a (2)–(6) bekezdésben meghatározott összeférhetetlenségi szabályokat kell alkalmazni.
+
+(2)[^176] Az MFB Zrt. alkalmazottai munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, nevelőszülői foglalkoztatási jogviszony, valamint a (4) bekezdésben meghatározott esetek kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthetnek, kivéve ha
+
+a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
+
+b)[^177] a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. kockázatot vállalt.
+
+(3)[^178] Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagjai, alkalmazottai pártban tisztséget nem viselhetnek, párt nevében vagy érdekében – az országgyűlési, illetve az önkormányzati választásokon jelöltként való részvételt kivéve – közszereplést nem vállalhatnak.
+
+(4)[^179] Az MFB Zrt. alkalmazottja gazdasági társaságnál vezető tisztségviselői, illetve felügyelő bizottsági tagi jogviszonyt kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, kivéve ha
+
+a) az MFB Zrt. vagy az állam közvetlen vagy közvetett részesedéssel rendelkezik a gazdasági társaságban,
+
+b) helyi önkormányzat közvetlen vagy közvetett többségi részesedéssel rendelkezik a gazdasági társaságban,
+
+c)[^180] a gazdasági társasággal szemben, javára vagy érdekében az MFB Zrt. kockázatot vállalt.
+
+(4a)[^181] A munkáltatói jogkör gyakorlója a (2) és (4) bekezdés szerinti előzetes engedélyt kizárólag abban az esetben adja meg, ha az új jogviszony
+
+a) a körülmények teljes körű mérlegelése alapján nem veszélyezteti az MFB Zrt. jogos érdekeit, továbbá
+
+b) más módon nem akadályozza az alkalmazott MFB Zrt.-vel fennálló munkajogviszonyából eredő feladatai ellátását.
+
+(4b)[^182] A munkáltatói jogkör gyakorlója belső szabályzatban a (2) és (4) bekezdés szerinti előzetes engedély feltételeként a (4a) bekezdésben foglaltakon túl egyéb követelményeket is meghatározhat.
+
+(4c)[^183] Nem lehet az MFB Zrt. igazgatóságának vagy felügyelő bizottságának tagja, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló, vagy az MFB Zrt. közvetlen vagy közvetett többségi tulajdoni részesedésével működő vállalkozás (a továbbiakban: leányvállalat) vezető testületének tagja vagy ügyvezetője, aki
+
+a) politikai szolgálati jogviszonyban,
+
+b) biztosi jogviszonyban,
+
+c) kormányzati szolgálati jogviszonyban áll, vagy
+
+d) közhatalmi döntés befolyásolását vagy a közhatalommal szemben érdekérvényesítést célzó tevékenységet üzletszerűen folytat megbízás alapján,
+
+a jogviszony fennállása alatt, valamint az annak megszűnését követő hat hónap elteltéig.
+
+(4d)[^184] Az igazgatóság tagját a miniszter csak a felügyelő bizottság írásbeli javaslata alapján hívhatja vissza, amennyiben a felügyelő bizottság hitelt érdemlően, az indok alapos feltárásával alátámasztja, hogy az igazgatóság tagja
+
+a) piaci szereplőtől vagy külső szervezettől kapott utasításnak megfelelően járt el;
+
+b) megszegte a szakmai etikai szabályokat, az MFB Zrt. magatartási és etikai szabályait, az igazgatósági tagsággal együtt járó kötelezettségeit, vagy piaci visszaélést követett el;
+
+c) tartós egészségügyi okok vagy egyéb objektív körülmények miatt fizikailag vagy mentálisan képtelenné vált az igazgatósági tagsággal együtt járó kötelezettségei teljesítésére, vagy személyében a vezetői alkalmasság feltételei már nem állnak fenn;
+
+d) összeférhetetlenségi ok áll fenn vele szemben, és az összeférhetetlenséget az összeférhetetlenség megszüntetésére vonatkozó felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg;
+
+e) nem működik együtt az igazgatóság tagjaival, megtagadja, hogy az előterjesztésekkel kapcsolatos álláspontját kifejtse, szakmailag alátámassza, és ezzel akadályozza az MFB Zrt. feladatainak teljesítését.
+
+(4e)[^185] A felügyelő bizottság tagját a miniszter csak abban az esetben hívhatja vissza, ha
+
+a) megszegte a szakmai etikai szabályokat, az MFB Zrt. magatartási és etikai szabályait, a felügyelő bizottsági tagsággal együtt járó kötelezettségeit vagy piaci visszaélést követett el;
+
+b) tartós egészségügyi okok vagy egyéb objektív körülmények miatt fizikailag vagy mentálisan képtelenné vált a felügyelőbizottsági tagsággal együtt járó kötelezettségei teljesítésére, vagy személyében a vezetői alkalmasság feltételei már nem állnak fenn;
+
+c) összeférhetetlenségi ok áll fenn vele szemben, és az összeférhetetlenséget az összeférhetetlenség megszüntetésére vonatkozó felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg.
+
+(4f)[^186] Az MFB Zrt. a vezetői alkalmassági és összeférhetetlenségi követelményeket szabályzatban rögzíti, és a szabályzat rendelkezéseit az MFB Zrt. a leányvállalatok vezető testületének tagjaira vagy ügyvezetőjére is alkalmazni rendeli. A vezetői alkalmassági és értékelési szabályzatot a miniszter hagyja jóvá.
+
+(5)[^187] Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja, alkalmazottja köteles haladéktalanul írásban bejelenteni, ha vele szemben összeférhetetlenségi ok merül fel, illetve, ha munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A bejelentésekről az MFB Zrt. köteles nyilvántartást vezetni.
+
+(6)[^188] Az MFB Zrt. igazgatóságának, felügyelő bizottságának tagja személyében fennálló összeférhetetlenség esetén a miniszter írásban felszólítja az igazgatóság, vagy a felügyelő bizottság tagját az összeférhetetlenség megszüntetésére. Alkalmazott személyében fennálló összeférhetetlenség esetén a munkáltatói jogkör gyakorlója írásban felszólítja az alkalmazottat az összeférhetetlenség megszüntetésére. Ha az alkalmazott az összeférhetetlenséget a felszólítás kézbesítésétől számított 30 napon belül nem szünteti meg, munkaviszonya megszűnik.
+
+### Titoktartás[^189]
+
+## VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### Hatálybalépés
+
+#### 19. §
+
+E törvény a kihirdetését követő hónap 15. napján lép hatályba.
+
+### Felhatalmazás
+
+#### 20. §[^192]
+
+Felhatalmazást kap a Kormány, hogy rendeletben meghatározza azon gazdasági társaságokat, amelyekben az MFB Zrt. a 8. § (3) bekezdés c) pontja szerint tulajdont szerezhet.
+
+#### 21. §[^194]
+
+E törvény alkalmazásában
+
+1\. *fejlesztési tőkefinanszírozás:* az MFB Zrt. közvetlen vagy közvetett részesedésszerzése korlátolt felelősségű társaságban vagy részvénytársaságban (a továbbiakban: céltársaság) azzal, hogy a fejlesztési tőkefinanszírozás jogcímén juttatott forrásból kizárólag
+
+a) beruházás,
+
+b) immateriális javak beszerzése, létesítése, saját vállalkozásban történő előállítása,
+
+c) tárgyi eszközök és immateriális javak korszerűsítése,
+
+d)[^195] forgóeszközigény
+
+e) a kutatás-fejlesztés-innováció keretében, az Európai Unió vonatkozó szabályozása szerinti tevékenység
+
+finanszírozható, valamint
+
+f)[^196] befektetett pénzügyi eszköz finanszírozható.
+
+2.[^197] *gazdálkodó szervezet:* a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, a befektetési alap, az Európai Gazdasági Térség területén székhellyel rendelkező vállalkozás magyarországi fióktelepe, továbbá a jogszabállyal vagy jogszabály alapján létrehozott olyan jogi személy, amelynek a gazdálkodására vonatkozó szabályokat jogszabály állapítja meg.
+
+#### 22. §[^198]
+
+A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvénnyel megállapított 10/A. §-ban foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvény hatálybalépésekor[^199] már megkötött ügyletekre is alkalmazni kell.
+
+#### 23. §[^200]
+
+(1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvénnyel megállapított 10/A. § (3) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
+
+(2) Az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvénnyel megállapított 10/A. § (4)–(5) bekezdésében foglaltakat az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvény hatálybalépésekor[^201] már megkötött ügyletekre is alkalmazni kell.
+
+#### 23/A. §[^202]
+
+Az MFB Zrt.-nek a Szövetkezeti Hitelintézetek Integrációs Szervezetéből (a továbbiakban: Integrációs Szervezet) történő kilépéséig a 10/B. §-nak – az egyes vagyongazdálkodást érintő rendelkezésekről, valamint a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról szóló 2019. évi LX. törvény hatálybalépését[^203] megelőző napon hatályos – rendelkezései alkalmazandók az Integrációs Szervezet vagy annak tagjai által az MFB Zrt. részére, továbbá a miniszter által vezetett minisztérium, illetve a a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti esetben a kijelölt minisztérium vagy a Miniszterelnöki Kormányiroda részére adott adatszolgáltatás vonatkozásában.
+
+## 1. melléklet a 2001. évi XX. törvényhez[^205]
+
+## 2. melléklet a 2001. évi XX. törvényhez[^206]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2001. május 8-i ülésnapján fogadta el. A kihirdetés napja: 2001. május 23.
+[^2]: A preambulum a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdése a 2018: V. törvény 15. §-ával megállapított, a 2026. évi XXIX. törvény 10. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdése a 2010: LII. törvény 10. § (2) bekezdésével megállapított szöveg. E módosító törvény 38. § (1) bekezdése alapján az MFB Zrt.-nek az 1. § (3) bekezdésében előírt minimális jegyzett tőke összeggel legkésőbb 2010. december 31. napján kell rendelkeznie.
+[^7]: Az 1. § (4) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^8]: Az 1. § (5) bekezdése a 2017: CXCIX. törvény 6. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (6) bekezdését a 2002: LXIV. törvény 290. § (1) bekezdése iktatta be, szövege a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^10]: Az 1. § (7) bekezdését a 2013: CCXXXVI. törvény 25. §-a iktatta be, szövege a 2017: CXCIX. törvény 6. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. § (8) bekezdését a 2024. évi X. törvény 2. §-a iktatta be.
+[^12]: A 2. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 2. § a 2003: XXVIII. törvény 1. §-ával megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2020: LVIII. törvény 336. § a) pontja, a 2025. évi CXXXIV. törvény 13. § a) pontja, nyitó szövegrésze a 2026. évi XXIX. törvény 11. § a) pontja szerint módosított szöveg.
+[^14]: A 2. § b) pontja a 2013: CCXXXVI. törvény 26. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2. § c) pontja a 2019: CXIV. törvény 13. §-ával megállapított, a 2020: CXXIII. törvény 42. § a) pontja szerint módosított szöveg.
+[^16]: A 2. § d) pontja a 2006: LXV. törvény 6. § (1) bekezdésével megállapított szöveg.
+[^17]: A 2. § e) pontja a 2006: LXV. törvény 6. § (1) bekezdésével megállapított szöveg.
+[^18]: A 2. § f) pontját a 2004: XLVIII. törvény 141. § (1) bekezdése iktatta be, a 2026. évi XXIX. törvény 11. § b) pontja hatályon kívül helyezte.
+[^19]: A 2. § g) pontját a 2005: LXVI. törvény 2. §-a iktatta be, a 2026. évi XXIX. törvény 11. § b) pontja hatályon kívül helyezte.
+[^20]: A 2. § h) pontját újonnan a 2015: CXXVIII. törvény 1. § (1) bekezdése iktatta be, szövege a 2023. évi LXXVI. törvény 21. §-ával megállapított szöveg.
+[^21]: A 2. § i) pontját a 2007: LXXVI. törvény 1. §-a iktatta be, a 2026. évi XXIX. törvény 11. § c) pontja hatályon kívül helyezte.
+[^22]: A 2. § j) pontját a 2007: CVI. törvény 55. §-a iktatta be, hatályon kívül helyezte a 2013: CCXXXVI. törvény 36. §-a, újonnan a 2014: XXXV. törvény 23. §-a iktatta be.
+[^23]: A 2. § k) pontját a 2008: LXXIV. törvény 1. §-a iktatta be, szövege a 2015: CXXVIII. törvény 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 2. § l) pontját a 2010: LII. törvény 11. § (2) bekezdése iktatta be, szövege a 2014: XXXV. törvény 34. § a) pontja, a 2017: CXCIX. törvény 14. § a) pontja szerint módosított szöveg.
+[^25]: A 2. § m) pontját újonnan a 2020: LVIII. törvény 328. §-a iktatta be, szövege a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^26]: A 2. § újabb m) pontját a 2013: CXXXV. törvény 29. §-a iktatta be, hatályon kívül helyezte a 2014: XXXV. törvény 35. § (2) bekezdés a) pontja.
+[^27]: A 2. § n) pontját újonnan a 2025. évi CXXXIV. törvény 11. §-a iktatta be, a 2026. évi XXIX. törvény 11. § d) pontja hatályon kívül helyezte.
+[^28]: A 2. § o) pontját a 2017: LXXII. törvény 25. §-a iktatta be.
+[^29]: A 2. § p) pontját a 2017: CXCIX. törvény 7. §-a iktatta be, a 2026. évi XXIX. törvény 11. § e) pontja hatályon kívül helyezte.
+[^30]: A 2. § q) pontját a 2018: CXXVIII. törvény 1. §-a iktatta be, hatályon kívül helyezte a 2022: XXIV. törvény 38. § 1. pontja.
+[^31]: A 3. § a 2003: XXVIII. törvény 2. §-ával megállapított szöveg.
+[^32]: A 3. § (1) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^33]: A 3. § (1a) bekezdését a 2016: LXXXVI. törvény 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 2017: CXCIX. törvény 14. § c) pontja.
+[^34]: A 3. § (2) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^35]: A 3. § (2) bekezdés d) pont nyitó szövegrésze a 2015: CXXVIII. törvény 8. § a) pontja szerint módosított szöveg.
+[^36]: A 3. § (2) bekezdés d) pont 1. alpontja a 2013: CCLII. törvény 29. § (1) bekezdésével megállapított szöveg.
+[^37]: A 3. § (2) bekezdés e) pontja a 2013: CCLII. törvény 29. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^38]: A 3. § (2) bekezdésének i) pontját a 2005: LXVI. törvény 3. §-a iktatta be, szövege a 2009: CL. törvény 64. §-ával megállapított szöveg.
+[^39]: A 3. § (2) bekezdés j) pontját a 2017: CXCIX. törvény 8. § (1) bekezdése iktatta be.
+[^40]: A 3. § (2a) beekzdését a 2017: LXXII. törvény 26. §-a iktatta be.
+[^41]: A 3. § (3) bekezdése a 2023. évi LXXVI. törvény 22. § (1) bekezdésével megállapított szöveg.
+[^42]: A 3. § (3) bekezdés c) pontja a 2026. évi XXIX. törvény 1. §-ával megállapított szöveg.
+[^43]: A 3. § (3a) bekezdését a 2023. évi LXXVI. törvény 22. § (2) bekezdése iktatta be.
+[^44]: A 3. § új (4) bekezdését a 2007: LXXVI. törvény 2. §-a iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (5) bekezdésre változtatta. A 3. § (4) bekezdés szövege e módosító törvény 7. § (2) bekezdése, a 2018: CXXVIII. törvény 10. § a) pontja szerint módosított szöveg.
+[^45]: A 3. § (4a) bekezdését a 2015: CXXVIII. törvény 2. § (1) bekezdése iktatta be.
+[^46]: A 3. § (4) bekezdését a 2006: LXV. törvény 6. § (3) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 2007: LXXVI. törvény 2. §-a, szövege a 2025. évi IX. törvény 7. §-ával megállapított szöveg.
+[^47]: A 3. § (6) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be.
+[^48]: A 3. § (7) bekezdését újonnan a 2020: LVIII. törvény 329. §-a iktatta be, szövege a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^49]: A 3. § (8) bekezdését hatályon kívül helyezte a 2010: CLX. törvény 18. §-a, újonnan a 2023. évi LXXVI. törvény 22. § (3) bekezdése iktatta be.
+[^50]: A 3. § (9) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be, szövege a 2015: CXXVIII. törvény 2. § (2) bekezdésével megállapított szöveg.
+[^51]: A 3. § (10) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be, szövege a 2014: XXXV. törvény 24. § (1) bekezdésével megállapított szöveg.
+[^52]: A 3. § (11) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be.
+[^53]: A 3. § (12) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 2022: XXIV. törvény 38. § 2. pontja.
+[^54]: A 3. § (13) bekezdését a 2010: LII. törvény 12. § (2) bekezdése iktatta be, szövege a 2014: XXXV. törvény 24. § (2) bekezdésével megállapított szöveg.
+[^55]: A 3. § (14) bekezdését újonnan a 2013: CCXXXVI. törvény 27. §-a iktatta be, szövege a 2017: CXCIX. törvény 8. § (2) bekezdésével megállapított, a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^56]: A 3. § (15) bekezdését hatályon kívül helyezte a 2010: CLX. törvény 18. §-a, újonnan a 2023. évi LXXVI. törvény 22. § (4) bekezdése iktatta be.
+[^57]: A 4. § a 2010: CLX. törvény – a Magyar Közlöny 2011. évi 1. számában közzétett helyesbítésnek megfelelő – 3. §-ával megállapított szöveg. [A 2014: XXXV. törvény 35. § (2) bekezdés d) pontjával elrendelt módosítás, amely szerint a 4. § (7)–(8) bekezdése hatályát veszti, nem vezethető át.]
+[^58]: A 4. § (1) bekezdése a 2014: XXXV. törvény 25. §-ával megállapított szöveg.
+[^59]: A 4. § (2) bekezdését a 2020: LVIII. törvény 337. § a) pontja hatályon kívül helyezte.
+[^60]: A 4. § (3) bekezdését a 2021: CIII. törvény 10. §-a hatályon kívül helyezte.
+[^61]: A 4. § (4) bekezdése a 2013: CCXXXVI. törvény 28. § (1) bekezdésével megállapított, a 2014: XV. törvény 77. § (1) bekezdés b) pontja, a 2015: CXXVIII. törvény 8. § b) pontja szerint módosított szöveg.
+[^62]: A 4. § (5) bekezdése a 2020: LVIII. törvény 330. §-ával megállapított szöveg.
+[^63]: A 4. § (5a) bekezdését a 2017: CXCIX. törvény 9. § (4) bekezdése iktatta be, szövege a 2018: CXXVIII. törvény 7. § a) pontja szerint módosított szöveg.
+[^64]: A 4. § (5b) bekezdését a 2018: CXXVIII. törvény 3. § (2) bekezdése iktatta be.
+[^65]: A 4. § (6) bekezdését a 2013: CCXXXVI. törvény 28. § (2) bekezdése iktatta be, szövege a 2026. évi XXIX. törvény 2. §-ával megállapított szöveg.
+[^66]: Az 5. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^67]: Az 5. § a 2003: XXVIII. törvény 4. §-ával megállapított szöveg.
+[^68]: Az 5. § (1) bekezdése a 2013: CCXXXVI. törvény 29. § (1) bekezdésével megállapított szöveg.
+[^69]: Az 5. § (1) bekezdés b) pontja a 2020: LVIII. törvény 331. §-ával megállapított szöveg.
+[^70]: Az 5. § (2) bekezdése a 2014: XXXV. törvény 26. §-ával megállapított szöveg.
+[^71]: Az 5. § (3) bekezdése a 2006: CXXI. törvény 18. §-ával megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^72]: Az 5. § (3) bekezdés a) pontja a 2013: CCXXXVI. törvény 29. § (3) bekezdésével megállapított szöveg.
+[^73]: Az 5. § (3) bekezdés b) pontja a 2013: CCXXXVI. törvény 29. § (3) bekezdésével megállapított, a 2014: XV. törvény 77. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^74]: Az 5. § (3) bekezdés c) pontja a 2013: CCXXXVI. törvény 29. § (3) bekezdésével megállapított szöveg.
+[^75]: Az 5. § (3) bekezdésének d) pontját a 2007: LXXVI. törvény 4. §-a iktatta be, szövege e módosító törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^76]: Az 5. § (3a) bekezdését a 2013: CCXXXVI. törvény 29. § (4) bekezdése iktatta be.
+[^77]: Az 5. § (3b) bekezdését a 2013: CCXXXVI. törvény 29. § (4) bekezdése iktatta be.
+[^78]: Az 5. § (3c) bekezdését a 2013: CCXXXVI. törvény 29. § (4) bekezdése iktatta be.
+[^79]: Az 5. § (3d) bekezdését a 2013: CCXXXVI. törvény 29. § (4) bekezdése iktatta be.
+[^80]: Az 5. § (4) bekezdése a 2023. évi LXXVI. törvény 23. § (1) bekezdésével megállapított szöveg.
+[^81]: Az 5. § (5) bekezdése a 2012: CXIV. törvény 3. § (1) bekezdésével megállapított szöveg.
+[^82]: Az 5. § (6) bekezdését a 2012: CXIV. törvény 3. § (2) bekezdése iktatta be, szövege a 2013: CCXXXVI. törvény 29. § (5) bekezdésével megállapított szöveg.
+[^83]: Az 5. § (7) bekezdését a 2012: CXIV. törvény 3. § (2) bekezdése iktatta be, szövege a 2013: CCXXXVI. törvény 29. § (5) bekezdésével megállapított szöveg.
+[^84]: Az 5. § (8) bekezdését a 2012: CLXXII. törvény 18. § (1) bekezdése iktatta be.
+[^85]: Az 5. § (9) bekezdését a 2023. évi LXXVI. törvény 23. § (2) bekezdése iktatta be.
+[^86]: Az 5. § (10) bekezdését a 2025. évi IX. törvény 8. §-a iktatta be.
+[^87]: Az 5. § (10a) bekezdését a 2025. évi CXXXIV. törvény 12. §-a iktatta be, a 2026. évi XXIX. törvény 11. § f) pontja hatályon kívül helyezte.
+[^88]: Az 5. § (11) bekezdését a 2025. évi IX. törvény 8. §-a iktatta be, szövege a 2026. évi XXIX. törvény 10. § b) pontja szerint módosított szöveg.
+[^89]: A 6. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^90]: Az 5/A. §-t a 2013: CCXXXVI. törvény 30. §-a iktatta be.
+[^91]: A 6. § (1) bekezdése a 2017: CXCIX. törvény 10. §-ával megállapított szöveg.
+[^92]: A 6. § (2) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^93]: A 6. § (3) bekezdése a 2003: XXVIII. törvény 5. § (2) bekezdésével megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^94]: A 6/A. §-t a 2026. évi XXIX. törvény 3. §-a iktatta be.
+[^95]: A 7. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^96]: A 7. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^97]: A 7. § a 2014: XXXV. törvény 27. §-ával megállapított szöveg.
+[^98]: A 7. § (2) bekezdését a 2014: XXXIX. törvény 19. §-a hatályon kívül helyezte.
+[^99]: A 8. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^100]: A 8. § a 2003: XXVIII. törvény 7. §-ával megállapított szöveg.
+[^101]: A 8. § (1) bekezdése a 2013: CCXXXVI. törvény 31. § (1) bekezdésével megállapított szöveg.
+[^102]: A 8. § (1) bekezdés b) pontja a 2020: LVIII. törvény 332. § (1) bekezdésével megállapított szöveg.
+[^103]: A 8. § (1) bekezdés c) pontját a 2020: LVIII. törvény 332. § (1) bekezdése iktatta be.
+[^104]: A 8. § (1a) bekezdését a 2015: CLXIX. törvény 1. § (1) bekezdése iktatta be.
+[^105]: A 8. § (1b) bekezdését a 2020: LVIII. törvény 332. § (2) bekezdése iktatta be, a 2026. évi XXIX. törvény 11. § g) pontja hatályon kívül helyezte.
+[^106]: A 8. § (1c) bekezdését a 2020: LVIII. törvény 332. § (2) bekezdése iktatta be, szövege a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^107]: A 8. § (1d) bekezdését a 2025. évi IX. törvény 10. §-a iktatta be.
+[^108]: A 8. § (2) bekezdése a 2025. évi IX. törvény 11. §-ával megállapított, a 2026. évi XXIX. törvény 11. § h) pontja szerint módosított szöveg.
+[^109]: A 8. § (2a) bekezdését újonnan a 2026. évi XXIX. törvény 4. §-a iktatta be.
+[^110]: A 8. § (3) bekezdése a 2015: CXXVIII. törvény 3. § (1) bekezdésével megállapított szöveg.
+[^111]: A 8. § (3) bekezdés f) pontja a 2020: LVIII. törvény 332. § (3) bekezdésével megállapított szöveg.
+[^112]: A 8. § (3) bekezdés h) pontja a 2022: XXIV. törvény 37. § 3. pontja, a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^113]: A 8. § (3) bekezdés i) pontja a 2017: CXCIX. törvény 13. § c) pontja, a 2022: XXIV. törvény 37. § 4. pontja szerint módosított szöveg.
+[^114]: A 8. § (3) bekezdés j) pontját a 2022: XXIV. törvény 36. §-a iktatta be.
+[^115]: A 8. § (4) bekezdése a 2015: CXXVIII. törvény 3. § (1) bekezdésével megállapított szöveg.
+[^116]: A 8. § (5) bekezdését a 2013: CCXXXVI. törvény 36. §-a hatályon kívül helyezte, újonnan a 2014: XCI. törvény 3. §-a iktatta be.
+[^117]: A 8. § (6) bekezdését a 2004: XLVIII. törvény 141. § (4) bekezdése iktatta be, szövege a 2015: CXXVIII. törvény 3. § (2) bekezdésével megállapított szöveg.
+[^118]: A 8. § (6) bekezdés a) pontja a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^119]: A 8. § (6) bekezdés c) pontja a 2018: CXXVIII. törvény 7. § b) pontja szerint módosított szöveg.
+[^120]: A 8/A. §-t újonnan a 2010: XC. törvény 148. § (2) bekezdése iktatta be, szövege a 2015: CXXVIII. törvény 4. §-ával megállapított, a 2017: CXCIX. törvény 13. § c) pontja, a 2025. évi IX. törvény 12. § a)–b) pontja szerint módosított szöveg.
+[^121]: A 9. §-t megelőző címet és a 9. §-t a 2004: XLVIII. törvény 147. § (1) bekezdésének d) pontja hatályon kívül helyezte. A 9. §-t újonnan a 2007: LXXVI. törvény 6. §-a iktatta be, szövege a 2014: XXXIX. törvény 15. §-ával megállapított szöveg.
+[^122]: A 9. § (1) bekezdését a 2018: CXXVIII. törvény 10. § c) pontja hatályon kívül helyezte.
+[^123]: A 9. § (2) bekezdése a 2020: LVIII. törvény 334. §-ával megállapított szöveg.
+[^124]: A 9. § (3) bekezdése a 2020: LVIII. törvény 334. §-ával megállapított, a 2025. évi IX. törvény 12. § c) pontja szerint módosított szöveg.
+[^125]: A 9/A. §-t a 2012: CLXXII. törvény 18. § (2) bekezdése iktatta be, szövege a 2013: CXLIII. törvény 43. § a) pontja szerint módosított szöveg.
+[^126]: A 9/B. §-t a 2026. évi XXIX. törvény 5. §-a iktatta be.
+[^127]: A 9/C. §-t a 2026. évi XXIX. törvény 5. §-a iktatta be.
+[^128]: A 9/D. §-t a 2026. évi XXIX. törvény 5. §-a iktatta be.
+[^129]: A 10. § a 2003: XXVIII. törvény 8. §-ával megállapított szöveg.
+[^130]: A 10. § (1) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2017: CXCIX. törvény 13. § c) pontja szerint módosított szöveg.
+[^131]: A 10. § (2) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2017: CXCIX. törvény 13. § d) pontja szerint módosított szöveg.
+[^132]: A IV. Fejezet „Titoktartás” alcímét (10/A –10/B. §) a 2014: XXXV. törvény 28. §-a iktatta be.
+[^133]: A IV. Fejezet „Titoktartás” alcímét (10/A. §) a 2014: XXXV. törvény 28. §-a iktatta be.
+[^134]: A 10/A. § (1) bekezdése a 2014: LXXIX. törvény 1. §-ával megállapított, a 2014: XCI. törvény 5. §-a, a 2018: CXXVIII. törvény 7. § c) pontja szerint módosított szöveg.
+[^135]: A 10/A. § (3) bekezdését a 2015: LXXXVIII. törvény 1. §-a iktatta be.
+[^136]: A 10/A. § (4) bekezdését a 2018: CXXVIII. törvény 6. §-a iktatta be, szövege a 2022: XXIV. törvény 38. § 3. pontja szerint módosított szöveg.
+[^137]: A 10/A. § (5) bekezdését a 2018: CXXVIII. törvény 6. §-a iktatta be, szövege a 2022: XXIV. törvény 38. § 3. pontja szerint módosított szöveg.
+[^138]: A 10/B. §-t a 2014: XXXV. törvény 28. §-a iktatta be, szövege a 2019: LX. törvény 2. § (1) bekezdésével megállapított, a 2022: IV. törvény 72. §-a, a 2025. évi IX. törvény 12. § a) pontja szerint módosított szöveg.
+[^139]: A 11. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^140]: A 11. § (1) bekezdése a 2003: XXVIII. törvény 9. §-ával megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2012: CLXXII. törvény 18. § (3) bekezdése, a 2013: CXLIII. törvény 43. § b) pontja szerint módosított szöveg.
+[^141]: A 11. § (2) bekezdése a 2013: CXLIII. törvény 43. § c) pontja, a 2017: CXCIX. törvény 13. § e) pontja szerint módosított szöveg.
+[^142]: Az V/A. fejezetet (11/A. §) a 2017: CXCIX. törvény 11. §-a iktatta be.
+[^143]: A 11/A. § a 2018: CXXVIII. törvény 10. § f) pontja szerint módosított szöveg.
+[^144]: A 11/B. §-t a 2026. évi XXIX. törvény 6. §-a iktatta be.
+[^145]: A 12. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^146]: A 12. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^147]: A 12. § a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2017: CXCIX. törvény 13. § c) pontja szerint módosított szöveg.
+[^148]: A 13. § (1) bekezdését a 2018: V. törvény 43. § (3) bekezdése hatályon kívül helyezte.
+[^149]: A 13. § (2) bekezdését a 2013: CCLII. törvény 29. § (6) bekezdése hatályon kívül helyezte.
+[^150]: A 13. § (3) bekezdése a 2003: XXVIII. törvény 10. § (2) bekezdésével megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2017: CXCIX. törvény 13. § c) pontja szerint módosított szöveg.
+[^151]: A 13/A. §-t a 2010: LII. törvény 16. § (2) bekezdése iktatta be, e módosító törvény 40. §-a alapján a rendelkezést e módosító törvény mellékleteiben felsorolt, a Felügyelet alá tartozó gazdálkodó szervezetekre is alkalmazni kell.
+[^152]: A 13/A. § (1) bekezdése a 2013: CCXXXVI. törvény 35. § c) pontja szerint módosított szöveg.
+[^153]: A 13/A. § (2) bekezdése a 2013: CCXXXVI. törvény 35. § d) pontja szerint módosított szöveg.
+[^154]: A 13/A. § (3) bekezdése a 2013: CXLIII. törvény 43. § d) pontja, a 2013: CCXXXVI. törvény 35. § e) pontja szerint módosított szöveg.
+[^155]: A 13/A. § (4) bekezdése a 2013: CXLIII. törvény 43. § b) pontja, a 2013: CCXXXVI. törvény 35. § f) pontja, a 2017: CXCIX. törvény 13. § f) pontja szerint módosított szöveg.
+[^156]: A 13/A. § (4a) bekezdését a 2024. évi XXXIX. törvény 6. §-a iktatta be.
+[^157]: A 13/A. § (5) bekezdését a 2010: XC. törvény 148. § (3) bekezdése iktatta be, szövege a 2023. évi LXXVI. törvény 25. §-ával megállapított, a 2024. évi XXXIX. törvény 7. §-a, a 2025. évi IX. törvény 12. § a)–b) pontja szerint módosított szöveg.
+[^158]: A 13/B. §-t a 2010: LII. törvény 16. § (2) bekezdése iktatta be, nyitó szövegrésze a 2017: CXCIX. törvény 13. § e) pontja szerint módosított szöveg.
+[^159]: A 14. § (1) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^160]: A 14. § (2) bekezdését a 2004: XLVIII. törvény 147. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^161]: A 14. § (3) bekezdése a 2010: LII. törvény 17. §-ával megállapított, a 2013: CCLII. törvény 29. § (4) bekezdés f) pontja, a 2012: XXXVI. törvény 158. § (14) bekezdése szerint módosított szöveg.
+[^162]: A 14. § (4) bekezdése a 2026. évi XXIX. törvény 7. §-ával megállapított szöveg.
+[^163]: A 15. §-t megelőző alcímet a 2002: XXIII. törvény 30. § a) pontja hatályon kívül helyezte. A 15. § a 2010: LII. törvény 18. §-ával megállapított szöveg.
+[^164]: A 15. § (2) bekezdése a 2017: CXCIX. törvény 12. §-ával megállapított szöveg.
+[^165]: A 15. § (3) bekezdését a hatályon kívül helyezte a 2017: CXCIX. törvény 14. § c) pontja.
+[^166]: A 16. § (1) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^167]: A 16. § (2) bekezdését a 2004: XLVIII. törvény 147. § (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^168]: A 16. § (3) bekezdése a 2026. évi XXIX. törvény 8. §-ával megállapított szöveg.
+[^169]: A 16. § (4) bekezdését a 2003: XXVIII. törvény 21. §-a hatályon kívül helyezte.
+[^170]: A 16/A. §-t a 2002: XXIII. törvény 27. § (7) bekezdése iktatta be, szövege a 2010: LII. törvény 20. §-ával megállapított, a 2017: CXCIX. törvény 13. § c) pontja szerint módosított szöveg.
+[^171]: A 17. §-t megelőző alcím a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^172]: A 17. § (1) bekezdése a 2005: LXVI. törvény 6. §-ával megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^173]: A 16. § (2) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^174]: A 17. § (3) bekezdése a 2013: LXXX. törvény 3. §-ával megállapított szöveg.
+[^175]: A 18. § (1) bekezdése a 2005: LXVI. törvény 7. §-ával megállapított, a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2013: CCLII. törvény 29. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^176]: A 18. § (2) bekezdése a 2014: XCI. törvény 4. §-ával megállapított, nyitó szövegrésze a 2019: CXIV. törvény 18. § a) pontja szerint módosított szöveg.
+[^177]: A 18. § (2) bekezdés b) pontja a 2020: LVIII. törvény 337. § d) pontja szerint módosított szöveg.
+[^178]: A 18. § (3) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése szerint módosított szöveg.
+[^179]: A 18. § (4) bekezdése a 2014: XXXV. törvény 30. §-ával megállapított, nyitó szövegrésze a 2019: CXIV. törvény 18. § b) pontja szerint módosított szöveg.
+[^180]: A 18. § (4) bekezdés c) pontja a 2020: LVIII. törvény 337. § d) pontja szerint módosított szöveg.
+[^181]: A 18. § (4a) bekezdését a 2019: CXIV. törvény 16. §-a iktatta be.
+[^182]: A 18. § (4b) bekezdését a 2019: CXIV. törvény 16. §-a iktatta be.
+[^183]: A 18. § (4c) bekezdését a 2026. évi XXIX. törvény 9. § (1) bekezdése iktatta be.
+[^184]: A 18. § (4d) bekezdését a 2026. évi XXIX. törvény 9. § (1) bekezdése iktatta be.
+[^185]: A 18. § (4e) bekezdését a 2026. évi XXIX. törvény 9. § (1) bekezdése iktatta be.
+[^186]: A 18. § (4f) bekezdését a 2026. évi XXIX. törvény 9. § (1) bekezdése iktatta be.
+[^187]: A 18. § (5) bekezdése a 2007: LXXVI. törvény 7. § (2) bekezdése, a 2026. évi XXIX. törvény 11. § i) pontja szerint módosított szöveg.
+[^188]: A 18. § (6) bekezdése a 2026. évi XXIX. törvény 9. § (2) bekezdésével megállapított szöveg.
+[^189]: A 18/A. §-t meglőző alcímet a 2010: CLX. törvény 9. §-a iktatta be, hatályon kívül helyezte a 2014: XXXV. törvény 35. § (2) bekezdés e) pontja.
+[^192]: A 20. § a 2014: XXXV. törvény 31. §-ával megállapított, a 2014: XXXIX. törvény 18. §-a szerint módosított szöveg.
+[^194]: A 21. §-t és az azt megelőző alcímet a 2007: LXXXII. törvény 2. § 485. pontja hatályon kívül helyezte. A 21. §-t újonnan a 2013: CCLII. törvény 29. § (3) bekezdése iktatta be, szövege a 2014: XXXIX. törvény 16. §-ával megállapított szöveg.
+[^195]: A 21. § 1. pont d) alpontja a 2019: CXIV. törvény 17. § (1) bekezdésével megállapított szöveg.
+[^196]: A 21. § 1. pont f) alpontja a 2019: CXIV. törvény 17. § (2) bekezdésével megállapított szöveg.
+[^197]: A 21. § 2. pontja a 2014: LXXV. törvény 33. §-a, a 2019: CXIV. törvény 18. § c) pontja, a 2020: LVIII. törvény 336. § b) pontja, a 2021: CXXXIII. törvény 10. §-a szerint módosított szöveg.
+[^198]: A 22. §-t újonnan a 2014: XXXIX. törvény 19. §-a hatályon kívül helyezte. Újonnan a 2014: LXXIX. törvény 3. §-a iktatta be.
+[^199]: A hatálybalépés napja: 2014. december 6.
+[^200]: A 23. §-t és az azt megelőző alcímet a 2007: LXXXII. törvény 2. §-ának 485. pontja hatályon kívül helyezte. A 23. §-t újonnan a 2015: LXXXVIII. törvény 2. §-a iktatta be, szövege a 2018: CXXVIII. törvény 8. §-ával megállapított szöveg.
+[^201]: A hatálybalépés időpontja 2018. december 22.
+[^202]: A 23/A. §-t a 2019: LX. törvény 2. § (2) bekezdése iktatta be, szövege a 2022: IV. törvény 72. §-a szerint módosított szöveg.
+[^203]: A hatálybalépés időpontja 2019. július 1.
+[^205]: Az 1. számú mellékletet a 2010: LII. törvény 23. § (1) bekezdése iktatta be, a 2025. évi IX. törvény 13. §-a hatályon kívül helyezte.
+[^206]: A mellékletet a 2003: XXVIII. törvény 17. §-a iktatta be, megjelölését 2. mellékletre változtatta a 2010: LII. törvény 23. § (2) bekezdése, hatályon kívül helyezte a 2015: CXXVIII. törvény 9. §-a.

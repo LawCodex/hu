@@ -1,0 +1,611 @@
+---
+title: "2010. évi CXVII. törvény a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről"
+identifier: "2010. évi CXVII. törvény"
+njt_id: "2010-117-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2010/117"
+type: act
+jurisdiction: hu
+language: hu
+date: 2010-11-18
+in_force_from: 2010-12-05
+last_amended: 2026-05-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-117-00-00"
+retrieved: 2026-10-12
+---
+
+# 2010. évi CXVII. törvény a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről[^1]
+
+Az Országgyűlés a közlekedés energiafelhasználásának a klímaváltozásra gyakorolt hatása csökkentése, a bioüzemanyag előállítása során a fenntarthatósági szempontok érvényesítése érdekében, az európai uniós jogi követelményekre figyelemmel a következő törvényt alkotja:
+
+## 1. Értelmező rendelkezések
+
+### 1. §[^2]
+
+E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:
+
+1.[^3] *a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentő bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok:* azok a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok, amelyek alapanyagainak előállítására olyan rendszer keretében került sor, amely – a mezőgazdasági gyakorlatok javítása, valamint a korábban nem növénytermesztésre használt területek termelésbe való bevonása révén – lehetővé teszi az élelmiszer- és takarmánynövény-alapú bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok okozta kiszorító hatás elkerülését, és amelyeket az e törvény végrehajtására kiadott kormányrendeletben meghatározott, bioüzemanyagokra, folyékony bio-energiahordozókra és biomasszából előállított tüzelőanyagokra vonatkozó fenntarthatósági kritériumoknak megfelelően állítottak elő;
+
+2.[^4]
+
+3\. *biomassza:* a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve), erdőgazdálkodásból és a kapcsolódó iparágakból – többek között a halászatból és az akvakultúrából – származó, biológiai eredetű termékek, hulladékok és maradékanyagok biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
+
+3a.[^5] *biomasszából előállított tüzelőanyagok:* biomasszából előállított szilárd és gáz halmazállapotú tüzelőanyagok;
+
+3b.[^6] *biomassza-energiatermelő:* biomasszából hő- vagy hűtőenergiát vagy villamosenergiát előállító természetes személy vagy gazdálkodó szervezet;
+
+4\. *bioüzemanyagok:* a biomasszából előállított folyékony vagy gáz halmazállapotú, a közlekedésben használt üzemanyagok;
+
+5\. *bioüzemanyag-részarány:* a forgalomba hozott bioüzemanyag energiatartalomban kifejezett mennyiségének és a forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva;
+
+6.[^7] *BÜHG-rendszer:* a bioüzemanyag üvegházhatású gázkibocsátási rendszer az (EU) 2018/2001 európai parlamenti és tanácsi irányelv követelményeinek végrehajtását szolgáló nemzeti önkéntes fenntarthatósági rendszer;
+
+7\. *cseppfolyósított propán-bután gáz (LPG):* olyan szénhidrogéngáz, amely környezeti hőmérsékleten és közepes nyomáson folyékony halmazállapotban tartható üzemanyag (a 2711 12 11-2711 19 00 KN-kód szerinti termék);
+
+8\. *dízelgázolaj:* minden olyan ásványolajtermék, amelynek rendeltetése kompressziós gyújtású belső égésű motorok működtetése (a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód, valamint a 3826 00 10 és 3826 00 90 KN-kód szerinti termék), beleértve a nem közúti gépekben, valamint a mezőgazdasági és erdészeti traktorokban történő felhasználásra szánt gázolajat is;
+
+9\. *energiaegységre számított üvegházhatású gázkibocsátás:* a forgalmazott üzemanyaghoz vagy folyékony bio-energiahordozóhoz kapcsolódó, teljes életciklusra számított üvegházhatású gázkibocsátás CO<sub>2</sub>-egyenértékre átszámított teljes tömege és a forgalmazott üzemanyag vagy energiahordozó teljes energiatartalmának hányadosa;
+
+9a.[^8] *erdei biomassza:* az Országos Erdőállomány Adattárban erdőrészletként nyilvántartott erdőben folytatott erdőgazdálkodásból származó erdei faválaszték;
+
+9b.[^9] *fásszárú biomassza:* az erdei biomasszán kívüli erdei faválaszték;
+
+10\. *feldolgozási maradvány:* olyan anyag, amely nem a feldolgozási eljárással közvetlenül előállítani szándékozott végtermék; nem a feldolgozási eljárás elsődleges célja, és az eljárást nem módosították szándékosan az ilyen anyag előállítása céljából;
+
+11\. *folyékony bio-energiahordozók:* biomasszából előállított, a közlekedéstől eltérő célokra energiaforrásként felhasznált folyékony üzemanyag, ideértve a villamos energiát, a fűtést és a hűtést is;
+
+12\. *forgalomba hozott bioüzemanyag:* a forgalomba hozott üzemanyag összes bioüzemanyag-tartalma, valamint a 13. pont szerint forgalomba hozott tiszta bioüzemanyag;
+
+13.[^10] *forgalomba hozott üzemanyag:*
+
+a) a 30. pont a) alpontja szerinti üzemanyag-forgalmazó esetében az általa szabad forgalomba bocsátott üzemanyag,
+
+b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa tagállamból beszerzett üzemanyag,
+
+c) a 30. pont c) alpontja szerinti üzemanyag-forgalmazó esetében az általa jármű üzemanyagtartályába töltéssel kiszolgált üzemanyag;
+
+14\. *fosszilis komparátor:* egy adott bioüzemanyaghoz vagy folyékony bio-energiahordozóhoz felhasználási célját tekintve legközelebb álló fosszilis üzemanyag vagy az a fosszilis üzemanyag, amelynek egy adott bioüzemanyag vagy folyékony bio-energiahordozó a keverőkomponense;
+
+15\. *hulladék:* a hulladékról szóló 2012. évi CLXXXV. törvény 2. § 23. pontja szerinti anyagok, kivéve az e fogalom-meghatározásnak való megfelelés érdekében szándékosan módosított vagy szennyezett anyagok;
+
+16.[^11] *keményítőben gazdag növények:* főként gabonafélék, függetlenül attól, hogy csak a magvakat használják-e fel vagy – mint például a silókukorica esetében – a növény egészét; gumós és gyökérnövények, például burgonya, csicsóka, édesburgonya, manióka és jamszgyökér, valamint gumós növények, például taró és tánia;
+
+17\. *kiindulási érték:* a 2010. évben a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás az e törvény végrehajtására kiadott jogszabályban meghatározott mértéke;
+
+17a.[^12] *közlekedési célra felhasznált megújuló villamos energia:* a villamosenergiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott megújuló energiaforrásokból előállított és közlekedési célra felhasznált villamos energia;
+
+18\. *köztes termék:* biomasszából kémiai vagy fizikai eljárással átalakított, bioüzemanyag vagy folyékony bio-energiahordozó előállítása céljára szolgáló termék;
+
+19\. *lignocellulóz-tartalmú anyagok:* ligninből, cellulózból és hemicellulózból álló anyagok, mint például az erdőkből, a fás szárú energianövényekből, illetve erdészeti iparágak maradék-, illetve hulladékanyagából származó biomassza;
+
+20.[^13] *megújuló tüzelő- és üzemanyag:* megújuló üzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok;
+
+20a.[^14] *megújuló üzemanyag:* a bioüzemanyagok, és a nem biológiai eredetű megújuló üzemanyagok;
+
+20b.[^15] *megújulóüzemanyag-részarány:* a megújuló energiaforrásokból előállított energiának a közlekedés valamennyi formájában felhasznált energiamennyiségéhez viszonyított részaránya;
+
+21\. *mezőgazdasági, akvakultúra-, halászati, és erdészeti maradványok:* olyan maradványanyagok, amelyeket közvetlenül a mezőgazdaság, az akvakultúra, a halászat és az erdészet állít elő; a kapcsolódó iparágakból vagy feldolgozási folyamatokból származó maradványanyagokat nem foglalják magukban;
+
+21a.[^16] *mezőgazdasági biomassza:* közvetlenül a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve) származó biomassza;
+
+22\. *motorbenzin:* minden olyan illékony ásványolajtermék, amelynek rendeltetése külső gyújtású belső égésű motorok (Otto-motorok) működtetése (a 2710 12 31-2710 12 49 KN-kód szerinti termék);
+
+23.[^17] n*em biológiai eredetű, megújuló energiaforrásból származó üzemanyag:* olyan folyékony és gáznemű üzemanyag, amelynek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik;
+
+24.[^18] *nem élelmezési célú cellulóztartalmú alapanyagok:* főként cellulózból és hemicellulózból álló, a lignocellulóz-tartalmú anyagoknál alacsonyabb lignintartalmú alapanyagok; ide tartozik többek között: élelmiszer- és takarmánynövény-maradékanyagok, például szalma, kukoricaszár, hüvely és héj, alacsony keményítőtartalmú, a fűfélék közé tartozó energianövények, például perje, vesszős köles, elefántfű, óriásnád, a fő termények előtt és után termesztett takarónövények, takarmánynövények, ipari maradékanyagok, például olyan élelmiszer- és takarmánynövények, amelyekből kisajtolták a növényi olajokat, kivonták a cukrokat, a keményítőt és a fehérjét, és biohulladékból származó anyagok, e szempontból takarmány-, illetve takarónövény alatt a legelőkön átmenetileg, rövid távra vetett, alacsony keményítőtartalmú fűfélék és pillangósok keverékéből álló növényzet értendő, amelynek rendeltetése takarmány termelése az állatállomány számára, illetve a talaj termelékenységének javítása a fő szántóföldi növények hozamának növelése érdekében;
+
+25\. *nyilvánvaló hiba:* az ügyfél által benyújtott kérelemben, kérelem mellékletében feltüntetett adatok olyan hiányossága vagy hibája, amely a kérelem vagy a kérelem mellékletének más adataiból, vagy más, a hatóságok által elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, a hatóságok által saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság;
+
+26\. *sűrített földgáz (CNG):* olyan szénhidrogéngáz, amely környezeti hőmérsékleten gáz halmazállapotú (a 2711 21 00 – 2711 29 00 KN kód szerinti termék);
+
+26a.[^19] *széntartalom újrahasznosításával nyert üzemanyag:* meg nem újuló eredetű, a hulladékról szóló 2012. évi CLXXXV. törvény 7. §-ával összhangban történő hasznosításra nem alkalmas folyékony vagy szilárd hulladékáramokból, vagy meg nem újuló eredetű, ipari létesítmények gyártási folyamatainak elkerülhetetlen, nem szándékos következményeként kibocsátott hulladék-technológiai gázokból és égéstermékekből előállított folyékony és gáznemű üzemanyag;
+
+27\. *teljes életciklusra számított üvegházhatású gázkibocsátás:* minden olyan nettó CO<sub>2</sub>-, CH<sub>4</sub>- és N<sub>2</sub>O-kibocsátás, amely a bioüzemanyaghoz vagy folyékony bio-energiahordozóhoz vagy más megújuló üzemanyaghoz kapcsolható; ezek valamennyi releváns szakaszára kiterjed, beleértve a kitermelést vagy növénytermesztést, a földhasználatban bekövetkező változásokat, a szállítást és a forgalmazást, a feldolgozást és a fogyasztás során történő elégetési folyamatokat, a kibocsátás helyétől függetlenül;
+
+28\. *üvegházhatású gázkibocsátás-elkerülés:* annak százalékban meghatározott értéke két tizedes jegyre kerekítve, hogy a bioüzemanyagok, folyékony bio-energiahordozók vagy más megújuló üzemanyaghoz kapcsolható teljes életciklusra számított üvegházhatású gázkibocsátása mennyivel kevesebb, mint azok fosszilis komparátorára meghatározott üvegházhatású gázkibocsátás;
+
+29\. *üzemanyag:* a motorbenzin, a dízelgázolaj, bioüzemanyag, a szintetikus és paraffinos üzemanyag, a földgáz (beleértve a biometánt) gáznemű (sűrített földgáz – CNG) és cseppfolyósított (cseppfolyósított földgáz – LNG) formában, valamint a cseppfolyósított propán-bután gáz (LPG) is;
+
+30.[^20] *üzemanyag-forgalmazó:*
+
+a) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerint az üzemanyagot szabadforgalomba bocsátó személy,
+
+b) a Jöt. szerint a másik tagállamban szabadforgalomba bocsátott üzemanyagot kereskedelmi céllal belföldre szállító jövedéki engedélyes kereskedő, vagy
+
+c) a CNG-t, az LNG-t jármű üzemanyagtartályába töltéssel kiszolgáló személy.
+
+## 2. A megújuló energia közlekedési célú felhasználásának növelése
+
+### 2. §[^21]
+
+A megújuló üzemanyag-részarány (a továbbiakban: tagállami célszám) 2030-ban a közlekedési célra felhasznált végső energiafogyasztás 25%-a.
+
+## 2/A. [^22] Eljárásjogi szabályok
+
+### 2/A. §[^23]
+
+(1) E törvény hatálya alá tartozó hatósági eljárásokban a figyelmeztetés alkalmazása kizárt.
+
+(2) A mezőgazdasági igazgatási szerv előtt indult eljárásban valamennyi ügyfél, míg a mezőgazdasági igazgatási szerv által országos illetékességgel eljárva hozott döntéssel szemben indított közigazgatási perben az a fél, aki a közigazgatási eljárásban ügyfélként vett részt, elektronikus ügyintézésre kötelezett.
+
+## 3. [^24] A folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek és ezek alapanyagai fenntarthatósági követelményei
+
+### 3. §
+
+(1)[^25] A folyékony bio-energiahordozók, a bioüzemanyagok és a biomasszából előállított tüzelőanyagok akkor vehetők figyelembe a 2. §-ban meghatározott célra – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, tekintet nélkül arra, hogy az előállításához felhasznált alapanyagot az Európai Unió területén vagy harmadik országban termesztették, ha azok az e törvényben, valamint az e törvény végrehajtására kiadott kormányrendeletben meghatározott valamennyi fenntarthatósági követelménynek megfelelnek. A folyékony bio-energiahordozót, a bioüzemanyagot vagy a biomasszából előállított tüzelőanyagot felhasználó hatósági felszólításra köteles igazolni, hogy a felhasznált alapanyagok megfelelnek a fenntarthatósági követelményeknek.
+
+(2) A bioüzemanyagok akkor vehetők figyelembe, az e törvény alapján kiadott rendeletben meghatározott bioüzemanyag-részarány teljesítése szempontjából – az e törvény végrehajtására kiadott rendeletben foglalt kivétellel –, ha azok megfelelnek valamennyi fenntarthatósági követelménynek.
+
+(3)[^26] A mezőgazdasági igazgatási szerv és az erdészeti hatóság egyszázezer forinttól egymillió forintig terjedő bírságot szabhat ki azzal szemben, aki a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek – ideértve a köztes termékeket is – vonatkozásában nem tesz eleget az e törvényben és az e törvény végrehajtására kiadott rendeletekben meghatározott nyomon követhetőségi, és az ehhez kapcsolódó adatszolgáltatási kötelezettségeknek. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
+
+(4)[^27] A mezőgazdasági igazgatási szerv, az erdészeti hatóság és az állami adó- és vámhatóság egyszázezer forinttól egymillió forintig terjedő bírságot szabhat ki azzal szemben, aki a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek – ideértve a köztes termékeket is – fenntarthatósága igazolása során az e törvényben és az e törvény végrehajtására kiadott rendeletekben meghatározott kötelezettségét nem teljesíti, az ügy eldöntése szempontjából valótlan tényt állít, valótlan adatot szolgáltat, vagy valótlan nyilatkozatot tesz. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
+
+(5)[^28] A bírság kiszabása során figyelembe kell venni annak a biomasszának, köztes terméknek, bioüzemanyagnak, folyékony bio-energiahordozónak vagy biomasszából előállított tüzelőanyagnak a mennyiségét, amelyre vonatkozóan a (3) és (4) bekezdés szerinti kötelezettségnek nem tettek eleget.
+
+(6)[^29] Közigazgatási szankció a jogsértő magatartásnak a szankció alkalmazására jogosult hatóság tudomására jutásától számított egy éven belül alkalmazható.
+
+(7)[^30] Nem alkalmazható közigazgatási szankció, ha a jogsértés elkövetésétől számított öt év eltelt.
+
+### 4. §
+
+(1)[^31] A biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó és biomasszából előállított tüzelőanyag fenntartható előállításának minősítésére vonatkozó követelmények teljesítésének ellenőrzése során, továbbá e törvény hatálya alá tartozó kérelemre induló eljárásban a mezőgazdasági igazgatási szerv a nyilvánvaló hibát kijavítja.
+
+(2) Az (1) bekezdés szerinti eljárásokra vonatkozóan, az e törvény végrehajtására kiadott jogszabály meghatározhatja
+
+a) azon adatok, nyilatkozatok körét, amelyek hiánypótlás keretében nem pótolhatók;
+
+b) azon adatok körét, amelyekre módosítási kérelem nem nyújtható be, és
+
+c) azon időszakot, amely időtartam alatt, vagy határnapot, amíg a fenntarthatóság és a nyomon követhetőség megállapítására vonatkozó kérelem benyújtható.
+
+(3)[^32] Fenntarthatósági bizonyítvány és a mezőgazdasági igazgatási szerv, valamint az erdészeti hatóság nyilvántartásában szereplő adatokra vonatkozó hatósági bizonyítvány kiadására irányuló eljárásban kizárt a sommás eljárás alkalmazása.
+
+(4)[^33] A mezőgazdasági igazgatási szerv, valamint az erdészeti hatóság részére a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítés ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért az e törvény végrehajtására kiadott rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+(5)[^34] A mezőgazdasági igazgatási szerv által vezetett, a 8/A. § (1) bekezdése szerinti, valamint az e törvény végrehajtására kiadott rendelet szerinti nyilvántartásba vétel hatályának további egy évvel történő meghosszabbítására irányuló eljárást a mezőgazdasági igazgatási szerv – az eljárás végleges vagy jogerős lezárásáig – felfüggeszti, ha a nyilvántartottal szemben az e törvény végrehajtására kiadott rendelet szerinti adatszolgáltatási kötelezettség megszegése miatt hatósági nyilvántartásból való törlési eljárás van folyamatban.
+
+(6)[^35] Az ügyintézési határidő a mezőgazdasági igazgatási szerv, valamint az erdészeti hatóság hatósági felügyelettel kapcsolatos eljárása esetén százhúsz nap.
+
+## 4.[^36] A megújuló üzemanyag közlekedési célú felhasználására vonatkozó rendelkezések
+
+### 5. §[^37]
+
+(1) Az üzemanyagot forgalomba hozó üzemanyag-forgalmazó megújuló üzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba, CNG-be, LNG-be bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott megújuló üzemanyag minimális mennyisége elérje az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező megújulóüzemanyag-részarány mennyiségét. A kötelező megújulóüzemanyag-részarány mennyisége megállapításán belül – az általános kötelezettség kiegészítéseként vagy ahelyett – a Kormány az e törvény végrehajtására kiadott rendeletében az egyes meghatározott megújuló üzemanyagnak minősülő termékek kötelező részaránya tekintetében is megállapíthat kötelezettséget.
+
+(2) Az (1) bekezdésben megállapított kötelezettség teljesítéséhez az üzemanyag-forgalmazó forgalomba hozott megújuló üzemanyagként veheti figyelembe a földgázellátásról szóló törvényben meghatározott szállító- vagy elosztóvezetékbe betáplált biometánt – ideértve a szállítóvezetéken keresztül Magyarországra behozott biometánt is –, amelynek feltételeit az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(3) Az (1) bekezdésben megállapított kötelezettség teljesítéséhez az üzemanyag-forgalmazó forgalomba hozott megújuló üzemanyagként veheti figyelembe az általa forgalomba hozott, széntartalom újrahasznosításával nyert üzemanyag mennyiségét, azonban a figyelembe vett mennyiség nem haladhatja meg az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértéket.
+
+(4) A kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni
+
+a) azt a forgalomba hozott bioüzemanyagot, amelynek fenntartható módon történő előállítását az arra kötelezett nem igazolja,
+
+b) azt a forgalomba hozott motorbenzint, dízelgázolajat és bioüzemanyagot, amelyre a Jöt. szerint a biokomponens-tartalomra tekintettel a jövedéki adó részben vagy egészben elengedésre vagy visszatérítésre került, valamint
+
+c) a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvényben meghatározott biztonsági készletből kőolaj- és kőolajtermék-ellátási válsághelyzetben szabad forgalomba hozott üzemanyagot.
+
+### 5/A. §[^38]
+
+A nem biológiai eredetű, megújuló üzemanyagot az üzemanyag-forgalmazó úgy köteles forgalomba hozni vagy köztes termékként üzemanyag vagy bioüzemanyag előállításához felhasználni, hogy az általa a naptári évben forgalomba hozott vagy felhasznált nem biológiai eredetű megújuló üzemanyag minimális mennyisége elérje az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező, a közlekedési ágazat számára szolgáltatott energiamennyiségen belüli részarányt.
+
+### 5/B. §[^39]
+
+Az 5. § (1) bekezdésében és az 5/A. §-ban meghatározott kötelezettség az e törvény szerinti zöldtöltés igazolással is teljesíthető.
+
+### 6. §[^40]
+
+(1) A forgalomba hozatal céljából előállított, beszerzett, értékesített és a forgalomba hozott bioüzemanyagra vonatkozó, valamint bioüzemanyag fenntarthatósági követelményeknek való megfelelését és nyomon követhetőségét igazoló, az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti adatokat az e törvény végrehajtására kiadott jogszabályban rögzítettek szerint kell nyilvántartani és bizonylatolni.
+
+(2)[^41] Az üzemanyag-forgalmazó köteles évente, a tárgyévet követő év április 20. napjáig a tárgyévben forgalomba hozott motorbenzinről, dízelgázolajról, bioüzemanyagról és a nem biológiai eredetű megújuló üzemanyagról az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti jelentést az állami adó- és vámhatóságnak benyújtani.
+
+(3) Az üzemanyag-forgalmazó a Jöt. szerinti engedélye megszűnése esetén – az engedély megszűnésének napjával – köteles a (2) bekezdés szerinti jelentést elkészíteni, és az engedélye megszűnésének napját követő 12 munkanapon belül az állami adó- és vámhatósághoz benyújtani.
+
+### 7. §[^42]
+
+(1) Az állami adó- és vámhatóság bírságot szab ki arra az üzemanyag-forgalmazóra, amely
+
+a) a tárgyévben a kötelező megújulóüzemanyag-részaránynak – vagy amennyiben a Kormány az egyes megújuló üzemanyagnak minősülő termékek részarányára vonatkozóan is előírt kötelezettséget, ennek a részaránynak – megfelelő mennyiségnél kevesebb megújuló üzemanyagot hozott forgalomba – ideértve a köztes termékként üzemanyag vagy bioüzemanyag előállításához felhasznált nem biológiai eredetű, megújuló üzemanyagot is –,
+
+b) a tárgyévben a nem biológiai eredetű megújuló üzemanyagra vonatkozó részaránynak megfelelő mennyiségnél kevesebb nem biológiai eredetű megújuló üzemanyagot hozott forgalomba vagy használt fel,
+
+c) az előírt határidőre nem nyújtotta be, vagy nem a meghatározott tartalommal nyújtotta be a 6. § (2) és (3) bekezdése szerinti jelentést.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben kiszabandó bírság alapja az üzemanyag-forgalmazó tárgyévi üzemanyag-forgalma alapján a megújulóenergia-részaránnyal meghatározott megújulóüzemanyag-mennyiség energiatartalmának és az üzemanyag-forgalmazó által a tárgyévben ténylegesen forgalomba hozott megújulóüzemanyag-mennyiség energiatartalmának – ideértve a köztes termékként üzemanyag vagy bioüzemanyag előállításához felhasznált nem biológiai eredetű, megújuló üzemanyagot is – MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és az e törvény végrehajtására kiadott kormányrendeletben meghatározott, a bírságalapot jelentő különbségnek a közlekedési ágazat számára szolgáltatott energia mennyiségéhez viszonyított aránya alapján sávosan meghatározott fajlagos bírságtételnek a szorzata.
+
+(3) Ha az e törvény végrehajtására kiadott kormányrendelet a kötelező megújulóüzemanyag-részarányon felül az egyes megújuló közlekedési célú üzemanyagnak minősülő termékek részarányára vonatkozóan is előír kötelezettséget, és a (2) bekezdés szerinti különbség az összesített megújulóüzemanyag-mennyiség tekintetében megállapítható, úgy ugyanarra a hiányzó megújulóüzemanyag-mennyiségre csak az egyes megújuló üzemanyagnak minősülő termékek különbsége tekintetében szabható ki bírság.
+
+(4) Ha az üzemanyag-forgalmazó azért hozott a tárgyévben a kötelező megújulóüzemanyag-részaránynak megfelelő mennyiségnél kevesebb megújuló üzemanyagot forgalomba, mert az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozóan számára valótlan igazolást állított ki az, akitől a bioüzemanyagot beszerezte, a (2) bekezdés szerinti bírságalapot csökkenteni kell a valótlan tartalmú igazolás miatt az igazolást kiállítóra kiszabható, az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság alapjával.
+
+(5) Ha az üzemanyag-forgalmazó azért hozott a tárgyévben a megújulóüzemanyag-részaránynak megfelelő mennyiségnél kevesebb megújuló üzemanyagot forgalomba, mert az általa beszerzett bioüzemanyag fenntarthatósági követelményeknek való megfelelésére vonatkozó igazolást jogosulatlanul állította ki az, akitől a bioüzemanyagot beszerezte és az üzemanyag-forgalmazó a felhasznált igazolás kiállítója tekintetében nem ellenőrizte, hogy az szerepelt-e az igazolás kiadásakor az e törvény végrehajtására kiadott kormányrendeletben meghatározott nyilvántartásban, a (2) bekezdés szerinti bírságalapot növelni kell a jogosulatlanul kiállított igazolást felhasználóra kiszabható, az e törvény végrehajtására kiadott kormányrendeletben meghatározott bírság alapjával.
+
+(6) Az (1) bekezdés b) pontja szerinti esetben kiszabandó bírság alapja a nem biológiai eredetű megújuló üzemanyagnak az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező, a közlekedési ágazat számára szolgáltatott energiamennyiségen belüli részaránnyal meghatározott nem biológiai eredetű megújulóüzemanyag-mennyiség energiatartalmának és a tárgyévben ténylegesen forgalomba hozott, felhasznált nem biológiai eredetű megújulóüzemanyag-mennyisége energiatartalmának MJ-ban kifejezett különbsége. A fizetendő bírság összege a bírság alapjának és az e törvény végrehajtására kiadott kormányrendeletben meghatározott fajlagos bírságtételnek a szorzata.
+
+(7) Az (1) bekezdés a)–b) pontja esetében forgalomba hozatallal egy tekintet alá esőnek minősül a zöldtöltés igazolással való teljesítés is.
+
+(8) Az (1) bekezdés a)–b) pontja szerinti esetben a bírság kiszabásánál az állami adó- és vámhatóság a kiszabott bírságot csökkentheti az üzemanyag-forgalmazó által az egyes pontok teljesítése érdekében eszközölt beruházások értékével az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon és mértékben.
+
+(9) Az (1) bekezdés a)–b) pontja szerinti esetben az állami adó- és vámhatóság által kiszabott bírság legmagasabb összegét az e törvény végrehajtására kiadott kormányrendelet határozza meg.
+
+(10) Az (1) bekezdés c) pontja szerinti esetben az üzemanyag-forgalmazó egyszázezer Ft-tól egyszázmillió Ft-ig terjedő bírsággal sújtható. A bírság kiszabása során figyelembe kell venni a forgalomba hozott megújuló üzemanyag azon mennyiségét, amelyre nézve a jelentéstételt elmulasztották, valamint a tárgyévben és az azt megelőző évben a mulasztás ismétlődését. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
+
+(11) A bioüzemanyag-ellátásban beállott válsághelyzet esetén az állami adó- és vámhatóság az (1) bekezdés a) pontja szerinti bírságot – figyelemmel a válsághelyzet időtartamára és az üzemanyag-forgalmazó jogkövető gyakorlatára – mérsékelheti, vagy a bírság kiszabását mellőzheti.
+
+(12) A bioüzemanyag-ellátásban beállott válsághelyzetnek minősül
+
+a) a bioüzemanyagok termelésében beállott nagymértékű kapacitáskiesés,
+
+b) az üzemanyag-forgalmazónál, illetve annak ellátójánál bekövetkezett tartós üzemzavar, ideértve azon szállító- és elosztóvezetékek üzemzavarát is, amelyeken biogáz betáplálása történik az együttműködő földgázhálózatba, vagy
+
+c) a fenntarthatósági követelményeknek megfelelő bioüzemanyagok európai kereskedelmében bekövetkezett zavar vagy hiány,
+
+ha ennek következtében az üzemanyag-forgalmazó nem volt képes a kötelezettség teljesítéséhez szükséges bioüzemanyag-mennyiséget beszerezni.
+
+(13) A (12) bekezdés a) és c) pontja szerinti események fennállásának tényét, annak kezdő és befejező időpontját – az érintett bioüzemanyag-típusok megjelölésével – az energiapolitikáért felelős miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményben teszi közzé.
+
+## 5. [^43] A folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek, és ezek alapanyagai eredetének nyomon követése
+
+### 8. §[^44]
+
+(1) A biomassza-kereskedő, a biomassza-feldolgozó, a biomassza-energiatermelő, valamint az üzemanyag-forgalmazó a folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, a köztes termékek és ezek alapanyagainak értékesítése, feldolgozása vagy felhasználása során az e törvény végrehajtására kiadott rendeletben meghatározott tartalmú dokumentummal igazolja a bioüzemanyag, folyékony bio-energiahordozó, a biomasszából előállított tüzelőanyag, a köztes termék és ezek alapanyagául szolgáló termékek nyomon követhetőségét.
+
+(2) A biomassza-kereskedő, a biomassza-feldolgozó, az üzemanyag-forgalmazó, valamint a biomassza-energiatermelő – a biomassza típusának megfelelően – a mezőgazdasági igazgatás szerv és az erdészeti hatóság részére az e törvény, valamint a végrehajtására kiadott rendeletben meghatározott módon és időközönként az ott meghatározott adatokat szolgáltatja.
+
+(3)[^45] Közlekedési célú bioüzemanyagok és biogázok esetében a biomassza-kereskedő, a biomassza-feldolgozó és az üzemanyag-forgalmazó az (EU) 2018/2001 parlamenti és tanácsi irányelvnek az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelv 1. cikk 22 pontja által beillesztett 31a. cikkében meghatározott Uniós Adatbázisba (a továbbiakban: Uniós Adatbázis) regisztrál, és rögzíti az e törvény végrehajtására kiadott rendeletben meghatározott módon és időközönként az e törvény végrehajtására kiadott rendeletben meghatározott adatokat.
+
+### 8/A. §[^46]
+
+(1) A biomassza-kereskedő, a biomassza-feldolgozó, valamint az üzemanyag-forgalmazó a nyomon követhetőségre vonatkozó adatszolgáltatási kötelezettségét a mezőgazdasági igazgatási szerv által létrehozott és működtetett közhiteles elektronikus nyilvántartáson keresztül teljesítheti.
+
+(2) A 8/B. § (1) bekezdésben meghatározott tevékenységet végző személy kivételével, aki a 8. § (1) bekezdése szerinti termékértékesítést, feldolgozást vagy felhasználást kíván folytatni, az erre irányuló szándékát a mezőgazdasági igazgatási szervnek bejelenti. A bejelentendő adatok körét az e törvény végrehajtására kiadott rendelet határozza meg. A bejelentésben meg kell jelölni természetes személy bejelentő esetén a (3) bekezdés szerinti adatokat is.
+
+(3) A mezőgazdasági igazgatási szerv az (1) bekezdés szerinti nyomon követhetőség biztosítására az elektronikus nyilvántartási rendszerben a természetes személy biomassza-kereskedőről, biomassza-feldolgozóról, valamint üzemanyag-forgalmazóról – az e törvény végrehajtására kiadott jogszabályban meghatározott személyes adatnak nem minősülő adatokon túl – az alábbi adatokat rögzíti:
+
+a) név,
+
+b) lakcím,
+
+c) születési hely, idő és
+
+d) anyja születési neve.
+
+(4) A mezőgazdasági igazgatási szerv az általa vezetett nyilvántartás alábbi adatait honlapján közzéteszi:
+
+a) az ügyfél BIONYOM nyilvántartási számát, valamint a regisztrációs számát, ha az ügyfél rendelkezik azzal,
+
+b) a nyilvántartásba vett gazdálkodó szervezet nevét, székhelyét és cégjegyzékszámát,
+
+c) a nyilvántartásba vett egyéni vállalkozó nevét, valamint természetes személy nevét, ha ehhez az ügyfél az e törvény végrehajtására kiadott rendeletben foglaltak szerint hozzájárult,
+
+d) a nyilvántartásba vétel kezdő és lejárati időpontját,
+
+e) az arra vonatkozó adatot, hogy az ügyfelet biomassza-kereskedőként, biomassza-feldolgozóként vagy üzemanyag-forgalmazóként tartja nyilván,
+
+f) a BIONYOM nyilvántartásból való törlés tényét és okát.
+
+(5)[^47] A mezőgazdasági igazgatási szerv által vezetett nyilvántartás – az érintett természetes személy természetes személyazonosító adatai, valamint a gazdálkodó szervezet cégnyilvántartásban szereplő adatai kivételével – közhiteles nyilvántartásnak minősül.
+
+(6) Ha a nyilvántartásban szereplő személy azon tevékenységét, amely miatt a nyilvántartásban szerepel, a továbbiakban nem folytatja, kérelmezi az adatainak a nyilvántartásból való törlését. A mezőgazdasági igazgatási szerv az érintett személy adatait a kérelem beérkezését követő év január 1-jét követő ötödik év végéig kezelheti.
+
+### 8/B. §[^48]
+
+(1) Aki az e törvény szerinti célokra, a nem általa termelt erdei biomasszából, erdészeti, faipari maradvány anyagokból vagy fásszárú biomasszából előállított tüzelőanyagot vagy ezek alapanyagait megvásárolja, értékesíti, feldolgozza, felhasználja, a tevékenység megkezdése előtt az e törvény végrehajtására kiadott rendeletben meghatározott adatait nyilvántartásba vétel céljából bejelenti az erdészeti hatósághoz.
+
+(2) Az erdészeti hatóság vezeti az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradvány anyagok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó, bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeiről és igazolásáról szóló kormányrendelet alapján meghatározott adatokról szóló nyilvántartást.
+
+(3) Az (1) bekezdés szerinti tevékenységet végző, az e törvény végrehajtására kiadott rendeletben meghatározott adatokat – a jogszabályban meghatározott módon és időközönként – az erdészeti hatóság által létrehozott és működtetett közhiteles elektronikus nyilvántartáson keresztül szolgáltatja.
+
+(4) Az erdészeti hatóság honlapján közzéteszi az (1) bekezdés szerinti tevékenységet végző faanyag kereskedelmi lánc azonosítóját és az (1) bekezdés szerinti tevékenységei megnevezését.
+
+(5) A biomassza-energiatermelő állítja ki a fenntarthatósági igazolást a részére a biomassza-termelő által felhasználásra átadott erdei biomasszára, erdészeti maradvány anyagokra vagy fásszárú biomasszára vonatkozóan. A fenntarthatósági igazolás alapjául szolgáló, a biomassza nyomon-követhetőségét igazoló adatokat a biomassza termelő szolgáltatja.
+
+### 8/C. §[^49]
+
+(1) A 8/B. § (1) bekezdés szerinti nyilvántartásba vételt az érintett személy a tevékenység megkezdése előtt az erdészeti hatóság elektronikus felületén benyújtott bejelentéssel köteles kezdeményezni.
+
+(2) Az (1) bekezdés szerinti bejelentés a bejelentő alábbi adatait, nyilatkozatait tartalmazza:
+
+a) a kérelmező nyilatkozatát arra vonatkozóan, hogy biomassza-kereskedői, biomassza-feldolgozói vagy biomassza-energiatermelői tevékenységi körben kéri a nyilvántartásba vételét, vagy a nyilvántartásból való törlését;
+
+b) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint a faanyag kereskedelmi lánc szereplők nyilvántartása érdekében meghatározott adatait.
+
+(3) Biomassza-kereskedő vagy biomassza-energiatermelő esetében a bejelentés tartalmazza:
+
+a) az erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradvány anyag készletezésére használt telephelyek címét;
+
+b) a kellő gondosság elvén alapuló nyomon követhetőségi rendszerének, eljárásainak és az ahhoz kapcsolódó naprakész dokumentációs rendszerének leírását;
+
+c) a fenntartható és nem fenntartható eredetű erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradvány anyag elkülönítésére alkalmazott nyilvántartási, készletezési, kockázat elemzési, kockázat csökkentési módszerek leírását.
+
+(4) Erdei biomassza-feldolgozó esetében a bejelentés tartalmazza:
+
+a) a létesítmény címét, ahol az erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradvány anyag feldolgozói tevékenység folyik,
+
+b) az arra vonatkozó nyilatkozatot, hogy a létesítmény mikor kezdte meg a működését,
+
+c) az alkalmazott technológia szöveges leírását,
+
+d) az alapanyag (erdei biomassza, fásszárú biomassza, erdészeti-, faipari maradvány anyag), az egyéb felhasznált anyag, a feldolgozási eljárás során keletkezett végtermék, a melléktermék és a hulladék megnevezését és KN-kódját,
+
+e) az alapanyag, az egyéb felhasznált anyag, a végtermék, a melléktermék és a hulladék közötti számszerű összefüggést leíró technológiai együtthatókat,
+
+f) az erdei biomasszát, fásszárú biomasszát, erdészeti-, faipari maradvány anyagot feldolgozó üzem maximális éves kapacitását végtermék szerinti bontásban,
+
+g) a gyártáshoz kapcsolódóan arra vonatkozó nyilatkozatot, hogy a kibocsátási komponensek meghatározása alapértelmezett érték, tényleges érték vagy diszaggregált alapértelmezett érték, regionális átlagérték, vagy tényleges értékek kombinációja alapján történik-e,
+
+h) alapértelmezett értékek alkalmazása esetén azok értékét,
+
+i) tényleges érték vagy diszaggregált alapértelmezett érték, regionális átlagérték, vagy tényleges érték kombinációjának alkalmazása esetén a gyártáshoz kapcsolódó kibocsátási komponensek értékeit,
+
+j) a kellő gondosság elvén alapuló nyomon követhetőségi rendszerének, eljárásainak és az ahhoz kapcsolódó naprakész dokumentációs rendszerének leírását, valamint
+
+k) a fenntartható és nem fenntartható eredetű erdei biomassza, fásszárú biomassza, erdészeti maradványanyag és az ebből keletkezett faipari melléktermékek elkülönítésére alkalmazott nyilvántartási, készletezési, kockázat elemzési, kockázat csökkentési módszerek leírását.
+
+(5) Ha az erdei biomasszára, fásszárú biomasszára, erdészeti-, faipari maradvány anyagra vonatkozóan a kérelmező a (4) bekezdés g)–i) pontja alapján a kibocsátási komponensek meghatározásához a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású -gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben nem szereplő ÜHG kibocsátás elkerülés értéket használ a termelésre, szállításra, feldolgozásra vagy ezek összértékére vonatkozóan, az ügyfél a számításra vonatkozó független szakértő által ellenjegyzett dokumentummal igazolja annak megfelelőségét, melyet elektronikusan csatol az (1) bekezdés szerinti bejelentéshez.
+
+## 6.[^50] Zöldtöltés-igazolási rendszer
+
+### 9. §[^51]
+
+A villamos energiáról szóló törvényben meghatározott zöldtöltés-igazolási rendszer keretében az üzemanyag-forgalmazó is szerezhet igazolást az e törvény végrehajtási rendeletében meghatározottak szerint.
+
+## 7.[^53] Adatszolgáltatás
+
+### 11. §[^54]
+
+(1)[^55] A mezőgazdasági és vidékfejlesztési támogatási szerv, a mezőgazdasági igazgatási szerv, az erdészeti hatóság, az állami adó- és vámhatóság, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Magyar Energetikai és Közmű-szabályozási Hivatal a biomassza, a köztes termék, a bioüzemanyagok és folyékony bio-energiahordozók, valamint a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló dokumentumok nyilvántartásához, a dokumentumban szereplő adatok és a nyomon követhetőség ellenőrzéséhez, valamint fenntarthatósági bizonyítvány kiállításához az általuk kezelt adatbázisokból egymásnak adatot szolgáltatnak.
+
+(1a)[^56] A folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek, és ezek alapanyagai eredetének nyomon követése és a fenntarthatósági követelményeknek való megfelelőség hatékonyabb ellenőrzése érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv minden év július 1-jéig elektronikusan átadja a mezőgazdasági igazgatási szerv részére az adott évben benyújtott egységes kérelmek kérelmezőre, területekre, valamint azok területhasznosítására vonatkozó, egyedi azonosításra alkalmas adatait.
+
+(2)[^57] Az (1) bekezdés szerinti adatszolgáltatás kiterjed – az e törvény végrehajtására kiadott jogszabályban meghatározott adatokon túlmenően, azokkal együtt – a biomassza, a köztes termék, a bioüzemanyagok és a folyékony bio-energiahordozók, valamint a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló dokumentumot kiállító jogi személy vagy egyéni vállalkozó adószámára, természetes személy esetén annak természetes személyazonosító adataira, az adatszolgáltató által alkalmazott nyilvántartási számára is.
+
+(3) Az átvett adatokat az (1) bekezdés szerinti szervek ellenőrzés céljából 5 évig kezelhetik.
+
+(4)[^58] A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés szerinti feladatok ellátása érdekében díjmentesen hozzáférést biztosít a Mezőgazdasági Parcella Azonosító Rendszerhez (továbbiakban: MePAR) a mezőgazdasági igazgatási szerv részére a MePAR-böngésző kezelésére történő feljogosítás útján.
+
+### 11/B. §[^60]
+
+Az energiapolitikáért felelős miniszter elektronikus úton, havonta frissülő honlapon a megújuló energiaforrásból előállított energiával működő járművek üzembe helyezői és üzemeltetői, valamint felhasználói számára a megújuló energia közlekedési célú felhasználásának elősegítése céljából tájékoztatást nyújt a megújuló energiaforrásból előállított energiával működő járművek használatáról és az ilyen járművek használatával összefüggő előnyökről.
+
+## 8. Jelentéstétel
+
+### 12. §[^61]
+
+Az energiapolitikáért felelős miniszter teljesíti az (EU) 2018/2001 irányelv 30. cikk (3) bekezdése szerinti jelentéstételi kötelezettséget.
+
+## 8/A.[^62] Az üzemanyag-forgalmazó átalakulása esetén alkalmazandó különleges rendelkezések
+
+### 12/A. §
+
+(1) Ha az üzemanyag-forgalmazó üzemanyag-forgalmazási tevékenységét annak szétválással történő átalakulását követően jogutódja vagy jogutódjai folytatják, az 5. § (1) bekezdésében, az 5/A. §-ban és az 5/B. §-ban meghatározott kötelezettséget a szétválás hatályosulásának évében az üzemanyag-forgalmazó (e § alkalmazásában: jogelőd) és az üzemanyag-forgalmazási tevékenységet folytató jogutódjai választásuk szerint együttesen is teljesíthetik.
+
+(2) A jogelőd és jogutódjai az (1) bekezdés rendelkezéseinek választása esetén a 6. § (2) bekezdésben meghatározott jelentést a szétválás hatályosulásának évét követő év április 20. napjáig mint közös jelentést adják le.
+
+(3) Az (1) bekezdés rendelkezéseinek választása esetén a 6. § (3) bekezdése nem alkalmazandó.
+
+(4) Az (1) bekezdés rendelkezéseinek választása esetén az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott kötelezettségek teljesítéséért, valamint az e kötelezettségek megsértése esetén kiszabott bírság megfizetéséért a jogelőd és jogutódjai egyetemlegesen felelősek.
+
+(5) Az (1) bekezdés rendelkezéseinek választása esetén a jogelőd és jogutódjai a szétválás hatályosulását követő 30 napon belül nyilatkoznak választásukról az állami adó- és vámhatóság felé, megjelölve, hogy a (2) bekezdés szerinti jelentést melyik személy nyújtja be.
+
+## 9. Záró rendelkezések
+
+### 13. §[^63]
+
+(1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg[^64]
+
+a)[^65] a bioüzemanyagok, a folyékony bio-energiahordozók, a biomasszából előállított tüzelőanyagok, valamint ezek alapanyagának tekinthető termékek körét,[^66]
+
+b)[^67] a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható előállítására vonatkozó követelményekre vonatkozó részletes szabályokat,[^68]
+
+c)[^69] a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történő előállításának, kezelésének és forgalmazásának nyilvántartási, igazolási és ellenőrzési rendjére vonatkozó részletes szabályokat,[^70]
+
+d) a fenntarthatósági követelmények teljesítésének minősítésével, nyilvántartásával, fenntarthatósági követelmények teljesítésének ellenőrzésével kapcsolatban eljáró hatóság vagy hatóságok kijelölését,[^71]
+
+e) a fenntarthatósági követelmények teljesítésének minősítésére vonatkozó szabályokat, valamint az adat- szolgáltatásra vonatkozó részletes szabályokat,[^72]
+
+f) a tagállami célszámhoz való hozzájárulás számításának részletes szabályait,
+
+g) a bioüzemanyag-részarány számításának részletes szabályait,[^73]
+
+h) a kötelező bioüzemanyag-részarány mértékét,[^74]
+
+i) az üzemanyag és a bioüzemanyag MJ-ban meghatározott, az e törvényben előírt kötelezettségek tekintetében alkalmazandó energiatartalmát,[^75]
+
+j)[^76] az üzemanyag-forgalmazó által a kötelező bioüzemanyag-forgalmazási részarány teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra, továbbá a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére vonatkozó részletes szabályokat,[^77]
+
+k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat,[^78]
+
+l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
+
+m)[^79] a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét,[^80]
+
+n)[^81] a személyes adatok kivételével az erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó kötelezően nyilvántartandó adatokat,
+
+o)[^82] az Uniós Adatbázisba történő adatszolgáltatás részletes szabályait.
+
+p)[^83] a bioüzemanyag-részarány és az egyes bioüzemanyagoknak minősülő termékek részarányának nem teljesítése esetén fizetendő bírság mértékét, sávos bírságtétel esetén az egyes sávok meghatározásához alkalmazott arányokat,
+
+q)[^84] a nem biológiai eredetű megújuló üzemanyagokra vonatkozó kötelező részarány mértékét,
+
+r)[^85] az üzemanyag-fogalmazó által a nem biológiai eredetű megújuló üzemanyagok kötelező részarányának teljesítésével kapcsolatosan benyújtandó jelentésekre, valamint a kapcsolódó nyilvántartásokra, bizonylatolásra, továbbá a nem biológiai eredetű megújuló üzemanyagok kötelező részarány teljesítésének ellenőrzésére vonatkozó részletes szabályokat,
+
+s)[^86] a nem biológiai eredetű megújuló üzemanyagok kötelező részaránya teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat,
+
+t)[^87] a nem biológiai eredetű megújuló üzemanyagok részarányának nem teljesítése esetén fizetendő bírság mértékét,
+
+u)[^88] a zöldtöltés-igazolási rendszerre, az igazolás kiállítására, jóváírására, nyilvántartására, átruházására, felhasználására, ellenőrzésére, kijavítására, módosítására és törlésére, valamint a megújulóüzemanyag-részarányban való elszámolására vonatkozó részletes szabályokat,[^89]
+
+v)[^90] a megújulóüzemanyag-részarány mértékét, kiszámításának módját, teljesítésének ellenőrzésére, valamint a bírság kiszabására jogosult hatóságokat, nem teljesítése esetén a fizetendő bírság mértékét,
+
+w)[^91] a széntartalom újrahasznosításával nyert üzemanyag részarányban elszámolható mértékét,
+
+x)[^92] a biometán szállító- vagy elosztóvezetékbe betáplálásának a megújuló üzemanyag részarányban való elszámolásának feltételeit,
+
+y)[^93] az e törvényben és a végrehajtására kiadott kormányrendeletben meghatározott kötelezettségek teljesítésére, a jelentéstételre, a folyékony bio-energiahordozók, a bioüzemanyagok, a biomasszából előállított tüzelőanyagok, valamint a köztes termékek, és ezek alapanyagai eredetének nyomon követésére a 12/A. § (1) bekezdés szerinti esetben alkalmazandó részletes szabályokat.
+
+(2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
+
+a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,[^94]
+
+b)[^95] az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékekhez kapcsolódó üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek, a folyékony bio-energiahordozók és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait.[^96]
+
+(3)[^97] Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítésének ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.[^98]
+
+(4)[^99] Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók, és a biomasszából előállított tüzelőanyagok vagy ezek alapanyaga fenntartható termelésének területi lehatárolásával, valamint az ezen alapanyagok termelésére használt földterületek talajminőségére és széntartalmára gyakorolt hatások kezelését biztosító figyelemmel kísérési vagy gazdálkodási tervekkel kapcsolatos részletes szabályokat.[^100]
+
+### 14. §
+
+(1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2010. december 5-én lép hatályba.
+
+(2) E törvény 5. §-a (2) bekezdésének a) pontja, 7. §-a, 16. §-a 2011. január 1-jén lép hatályba.
+
+(3) E törvény rövidítése: Büat.
+
+(4)[^101]
+
+### 14/A. §[^102]
+
+Az 5. § (3) bekezdésében foglaltaktól eltérően a Kormány a 2016. évben kötelezően bekeverendő bioüzemanyag-részarány mértékét a 2014. évben határozza meg.
+
+### 14/B. §[^103]
+
+A 9. §-ban foglalt rendelkezéseket a 13. § (2) bekezdés a) pontja szerinti felhatalmazás alapján kiadott rendelet hatálybalépésének napjától kell alkalmazni.
+
+### 14/C. §[^104]
+
+Az e törvénynek az egyes energetikai törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel (a továbbiakban: Módtv.) hatályon kívül helyezett 9. és 10. §-a hatályon kívül helyezését megelőzően 2024-ben forgalomba hozott üzemanyag és más közlekedési célú energiatermék vonatkozásában az üzemanyag-forgalmazó a Módtv. hatálybalépését követő 15 napon belül nyilatkozik az állami adó- és vámhatóság felé, hogy alkalmazza-e az e törvény Módtv. által hatályon kívül helyezett 9. és 10. §-a rendelkezéseit az általa forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó, teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátás 6%-os csökkentésére és e szinten tartására vonatkozó kötelezettség, továbbá az általa forgalomba hozott üzemanyag és más, közlekedésben felhasznált energiatermék tekintetében a forgalomba hozott teljes mennyiségről, valamint az üzemanyagból vagy más közlekedésben felhasznált energiatermékből származó, a teljes életciklusra vonatkozó, energiaegységre számított üvegházhatású gázkibocsátásról szóló jelentés tekintetében. Ha az üzemanyag-forgalmazó nem nyilatkozik, a forgalomba hozatal időpontjában hatályos rendelkezések alkalmazandók.
+
+### 14/D. §[^105]
+
+A 11. § (1a) bekezdés szerinti adatszolgáltatásra kötelezett 2021. évben 2021. szeptember 1. napjáig tesz eleget a 11. § (1a) bekezdés szerinti kötelezettségének.
+
+### 14/E. §[^106]
+
+Az 5. § (4) bekezdés c) pontjától eltérően a kötelező megújulóüzemanyag-részarány számításánál figyelmen kívül kell hagyni a felszabadított biztonsági kőolajkészletből szabad forgalomba hozott üzemanyagot.
+
+### 15. §[^107]
+
+E törvény
+
+a) a benzinre, a dízelolajra és a gázolajra vonatkozó követelmények, illetőleg az üvegházhatású gázok kibocsátott mennyiségének nyomon követését és mérséklését célzó mechanizmus bevezetése tekintetében a 98/70/EK irányelv módosításáról, a belvízi hajókban felhasznált tüzelőanyagokra vonatkozó követelmények tekintetében az 1999/32/EK irányelv módosításáról, valamint a 93/12/EGK irányelv hatályon kívül helyezéséről szóló 2009. április 23-i 2009/30/EK európai parlamenti és tanácsi irányelv 1. cikk 2. pont a) alpont *ii)* 5–9. pontjának,
+
+b)[^108] a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek,
+
+c)[^109] az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelvnek,
+
+d)[^110]
+
+való megfelelést szolgálja.
+
+## 1. melléklet a 2010. évi CXVII. törvényhez[^115]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2010. november 2-i ülésnapján fogadta el. A kihirdetés napja: 2010. november 18.
+[^2]: Az 1. § a 2017: LV. törvény 1. §-ával megállapított szöveg.
+[^3]: Az 1. § 1. pontja a 2021: LV. törvény 20. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 2. pontját a 2024. évi LXXXIX. törvény 142. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § 3a. pontját a 2021: LV. törvény 20. § (2) bekezdése iktatta be.
+[^6]: Az 1. § 3b. pontját a 2021: CXXXVI. törvény 72. § (1) bekezdése iktatta be.
+[^7]: Az 1. § 6. pontja a 2021: LV. törvény 31. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § 9a. pontját a 2021: CXXXVI. törvény 72. § (2) bekezdése iktatta be.
+[^9]: Az 1. § 9b. pontját a 2021: CXXXVI. törvény 72. § (2) bekezdése iktatta be.
+[^10]: Az 1. § 13. pontja a 2025. évi XLI. törvény 1. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1. § 16. pontja a 2021: LV. törvény 20. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 1. § 17a. pontját a 2025. évi XLI. törvény 1. § (2) bekezdése iktatta be.
+[^13]: Az 1. § 20. pontja a 2025. évi XLI. törvény 1. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. § 20a. pontját a 2025. évi XLI. törvény 1. § (4) bekezdése iktatta be.
+[^15]: Az 1. § 20b. pontját a 2025. évi XLI. törvény 1. § (4) bekezdése iktatta be.
+[^16]: Az 1. § 21a. pontja a 2021: CXXXVI. törvény 72. § (3) bekezdése iktatta be.
+[^17]: Az 1. § 23. pontja a 2025. évi XLI. törvény 1. § (5) bekezdésével megállapított szöveg.
+[^18]: Az 1. § 24. pontja a 2021: LV. törvény 20. § (4) bekezdésével megállapított szöveg.
+[^19]: Az 1. § 26a. pontját a 2025. évi XLI. törvény 1. § (6) bekezdése iktatta be.
+[^20]: Az 1. § 30. pontja a 2025. évi XLI. törvény 1. § (7) bekezdésével megállapított szöveg.
+[^21]: A 2. § a 2024. évi LXXXIX. törvény 136. §-ával megállapított, a 2025. évi XLI. törvény 10. § a) pontja szerint módosított szöveg.
+[^22]: A 2/A. alcímet (2/A. §) a 2020: CLXVIII. törvény 104. § (1) bekezdése iktatta be, szövege a 2021: LV. törvény 21. §–ával megállapított szöveg.
+[^23]: A 2/A. §-t újonnan a 2020: CLXVIII. törvény 104. § (1) bekezdése iktatta be, szövege a 2021: LV. törvény 21. §–ával megállapított szöveg.
+[^24]: A 3. alcím (3–4. §) a 2017: LV. törvény 3. §-ával, az alcím címe a 2021: CXXXVI. törvény 73. §-ával megállapított szöveg.
+[^25]: A 3. § (1) bekezdése a 2021: LV. törvény 22. §-ával megállapított, a 2025. évi XLI. törvény 11. §-a szerint módosított szöveg.
+[^26]: A 3. § (3) bekezdése a 2021: CXXXVI. törvény 74. §-ával megállapított szöveg.
+[^27]: A 3. § (4) bekezdése a 2021: CXXXVI. törvény 74. §-ával megállapított szöveg.
+[^28]: A 3. § (5) bekezdése a 2021: CXXXVI. törvény 74. §-ával megállapított szöveg.
+[^29]: A 3. § (6) bekezdése a 2020: CLXVIII. törvény 104. § (2) bekezdésével megállapított szöveg.
+[^30]: A 3. § (7) bekezdését a 2020: CLXVIII. törvény 104. § (2) bekezdése iktatta be.
+[^31]: A 4. § (1) bekezdése a 2021: CXXXVI. törvény 75. § (1) bekezdésével megállapított szöveg.
+[^32]: A 4. § (3) bekezdése a 2021: CXXXVI. törvény 75. § (2) bekezdésével megállapított szöveg.
+[^33]: A 4. § (4) bekezdése a 2021: CXXXVI. törvény 75. § (2) bekezdésével megállapított szöveg.
+[^34]: A 4. § (5) bekezdése a 2021: CXXXVI. törvény 75. § (2) bekezdésével megállapított szöveg.
+[^35]: A 4. § (6) bekezdését a 2021: CXXXVI. törvény 75. § (3) bekezdése iktatta be.
+[^36]: A 4. alcím címe a 2025. évi XLI. törvény 10. § b) pontja,a 2025. évi XLI. törvény 10. § b) pontja szerint módosított szöveg.
+[^37]: Az 5. § a 2025. évi XLI. törvény 2. §-ával megállapított szöveg.
+[^38]: Az 5/A. §-t a 2025. évi XLI. törvény 3. §-a iktatta be.
+[^39]: Az 5/B. §-t a 2025. évi XLI. törvény 3. §-a iktatta be.
+[^40]: A 6. § a 2017: LV. törvény 4. §-ával megállapított szöveg.
+[^41]: A 6. § (2) bekezdése a 2024. évi LXXXIX. törvény 141. §-a, a 2025. évi XLI. törvény 10. § c) pontja szerint módosított szöveg.
+[^42]: A 7. § a 2025. évi XLI. törvény 4. §-ával megállapított szöveg.
+[^43]: Az 5. alcímet (8–8/A. §) újonnan a 2017: LV. törvény 5. §-a iktatta be, az alcím címe a 2021: CXXXVI. törvény 76. §-ával megállapított szöveg.
+[^44]: A 8. § a 2021: CXXXVI. törvény 77. §-ával megállapított szöveg.
+[^45]: A 8. § (3) bekezdését a 2024. évi LXXXIX. törvény 137. §-a iktatta be.
+[^46]: A 8/A. § a 2021: CXXXVI. törvény 77. §-ával megállapított szöveg.
+[^47]: A 8/A. § (5) bekezdése a 2025. évi LXXX. törvény 172. §-a szerint módosított szöveg.
+[^48]: A 8/B. §-t a 2021: CXXXVI. törvény 78. §-a iktatta be.
+[^49]: A 8/C. §-t a 2021: CXXXVI. törvény 78. §-a iktatta be.
+[^50]: A 6. alcím címe a 2025. évi XLI. törvény 5. §-ával megállapított szöveg.
+[^51]: A 9. §-t a 2024. évi LXXXIX. törvény 142. § b) pontja hatályon kívül helyezte, újonnan a 2025. évi XLI. törvény 6. §-a iktatta be.
+[^53]: A 7. alcím címét a 2017: LV. törvény 14. §-a hatályon kívül helyezte, újonnan a 2025. évi XLI. törvény 7. §-a iktatta be.
+[^54]: A 11. § a 2017: LV. törvény 8. §-ával megállapított szöveg.
+[^55]: A 11. § (1) bekezdése a 2021: CXXXVI. törvény 80. §-ával megállapított szöveg.
+[^56]: A 11. § (1a) bekezdését a 2021: LV. törvény 27. § iktatta be, szövege a 2021: CXXXVI. törvény 82. § a) pontja szerint módosított szöveg.
+[^57]: A 11. § (2) bekezdése a 2021: CXXXVI. törvény 82. § b) pontja szerint módosított szöveg.
+[^58]: A 11. § (4) bekezdése a 2021: CXXXVI. törvény 82. § c) pontja szerint módosított szöveg.
+[^60]: A 11/B. §-t a 2017: LV. törvény 9. §-a iktatta be.
+[^61]: A 12. § a 2021: LV. törvény 28. § megállapított szöveg.
+[^62]: A 8/A. alcímet (12/A. §-t) a 2025. évi XLI. törvény 8. §-a iktatta be.
+[^63]: A 13. § a 2017: LV. törvény 11. §-ával megállapított szöveg.
+[^64]: Lásd a 343/2010. (XII. 28.) Korm. rendeletet.
+[^65]: A 13. § (1) bekezdés a) pontja a 2021: LV. törvény 31. § c) pontja szerint módosított szöveg.
+[^66]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^67]: A 13. § (1) bekezdés b) pontja a 2021: LV. törvény 31. § d) pontja szerint módosított szöveg.
+[^68]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^69]: A 13. § (1) bekezdés c) pontja a 2021: LV. törvény 31. § e) pontja szerint módosított szöveg.
+[^70]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^71]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^72]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^73]: Lásd a 821/2021. (XII. 28.) Korm. rendeletet.
+[^74]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^75]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^76]: A 13. § (1) bekezdés j) pontja a 2019: CI. törvény 65. §-ával megállapított szöveg.
+[^77]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^78]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^79]: A 13. § (1) bekezdés m) pontja a 2021: LV. törvény 31. § f) pontja, a 2025. évi XLI. törvény 10. § d) pontja szerint módosított szöveg.
+[^80]: Lásd a 279/2017. (IX. 22.) Korm. rendeletet, a 821/2021. (XII. 28.) Korm. rendeletet.
+[^81]: A 13. § (1) bekezdés n) pontját a 2021: CXXXVI. törvény 81. §-a iktatta be, szövege a 2025. évi XLI. törvény 10. § e) pontja szerint módosított szöveg.
+[^82]: A 13. § (1) bekezdés o) pontját a 2024. évi LXXXIX. törvény 138. §-a iktatta be.
+[^83]: A 13. § (1) bekezdés p) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^84]: A 13. § (1) bekezdés q) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^85]: A 13. § (1) bekezdés r) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^86]: A 13. § (1) bekezdés s) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^87]: A 13. § (1) bekezdés t) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^88]: A 13. § (1) bekezdés u) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^89]: Lásd a 487/2025. (XII. 31.) Korm. rendeletet.
+[^90]: A 13. § (1) bekezdés v) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^91]: A 13. § (1) bekezdés w) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^92]: A 13. § (1) bekezdés x) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^93]: A 13. § (1) bekezdés y) pontját a 2025. évi XLI. törvény 9. §-a iktatta be.
+[^94]: Lásd a 17/2017. (V. 26.) NFM rendeletet.
+[^95]: A 13. § (2) bekezdés b) pontja a 2021: LV. törvény 31. § g) pontja szerint módosított szöveg.
+[^96]: Lásd a 68/2021. (XII. 30.) ITM rendeletet.
+[^97]: A 13. § (3) bekezdése a 2021: LV. törvény 31. § h) pontja szerint módosított szöveg.
+[^98]: Lásd az 52/2025. (XII. 19.) AM rendeletet.
+[^99]: A 13. § (4) bekezdése a 2021: LV. törvény 29. § megállapított szöveg.
+[^100]: Lásd a 34/2021. (X. 6.) AM rendeletet.
+[^101]: A 14. § (4) bekezdését a 2012: LXXVI. törvény 6. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^102]: A 14/A. §-t a 2010: CLXXII. törvény 107. § (4) bekezdése iktatta be, szövege a 2013: CI. törvény 43. §-ával megállapított szöveg.
+[^103]: A 14/B. §-t a 2013: CI. törvény 43. §-a iktatta be.
+[^104]: A 14/C. §-t a 2021: II. törvény 17. § (4) bekezdése iktatta be, szövege a 2024. évi LXXXIX. törvény 139. §-ával megállapított szöveg.
+[^105]: A 14/D. §-t a 2021: LV. törvény 30. §-a iktatta be.
+[^106]: A 14/E. §-t a 2026. évi XIV. törvény 58. §-a iktatta be.
+[^107]: A 15. § a 2017: LV. törvény 12. §-ával megállapított szöveg.
+[^108]: A 15. § b) pontja a 2021: II. törvény 17. § (5) bekezdésével megállapított, a 2021: CXXXVI. törvény 82. § d) pontja szerint módosított szöveg.
+[^109]: A 15. § c) pontja a 2024. évi LXXXIX. törvény 140. §-ával megállapított szöveg.
+[^110]: A 15. § d) pontját a 2024. évi LXXXIX. törvény 142. § c) pontja hatályon kívül helyezte.
+[^115]: Az 1. mellékletet a 2019: CI. törvény 66. §-a iktatta be, a 2024. évi LXXXIX. törvény 142. § d) pontja hatályon kívül helyezte.

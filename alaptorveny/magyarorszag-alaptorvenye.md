@@ -14,7 +14,7 @@ source: "https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00"
 retrieved: 2026-10-12
 ---
 
-# Magyarország Alaptörvénye (2011. április 25.)
+# Magyarország Alaptörvénye (2011. április 25.)[^1]
 
 *Isten, áldd meg a magyart!*
 
@@ -1768,6 +1768,7 @@ Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten �
 
 ---
 
+[^1]: Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
 [^2]: Az E) cikk (2) bekezdése az Alaptörvény hetedik módosítása (2018. június 28.) 2. cikkével megállapított szöveg.
 [^3]: Az F) cikk (2) bekezdése az Alaptörvény negyedik módosítása (2013. március 25.) 21. cikk (1) bekezdés b) pontja, a Magyarország Alaptörvényének tizenhetedik módosítása (2026. július 13.) 7. cikk a) pontja szerint módosított szöveg.
 [^4]: A G) cikk (3) bekezdése a Magyarország Alaptörvényének tizenötödik módosítása (2025. április 14.) 1. cikkével megállapított szöveg.

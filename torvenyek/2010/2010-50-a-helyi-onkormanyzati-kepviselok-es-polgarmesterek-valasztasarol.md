@@ -1,0 +1,455 @@
+---
+title: "2010. évi L. törvény a helyi önkormányzati képviselők és polgármesterek választásáról"
+identifier: "2010. évi L. törvény"
+njt_id: "2010-50-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2010/50"
+type: act
+jurisdiction: hu
+language: hu
+date: 2010-06-14
+in_force_from: 2010-06-14
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2010-50-00-00"
+retrieved: 2026-10-12
+---
+
+# 2010. évi L. törvény a helyi önkormányzati képviselők és polgármesterek választásáról[^1]
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A választójog
+
+#### 1. §
+
+(1) A választópolgár a választójogát szabad elhatározása alapján gyakorolja.
+
+(2)[^2] A választópolgár lakóhelyén vagy ha lakóhelye mellett
+
+a) legkésőbb a választás kitűzését megelőző 30. napig tartózkodási helyet is létesített, vagy
+
+b) bejelentett tartózkodási hellyel rendelkezik abban a választókerületben, amelyben a választás kitűzését megelőző 30. napon lakóhellyel rendelkezett,
+
+bejelentett tartózkodási helyén választhat.
+
+(3) A választópolgár bármely választókerületben választható.
+
+(4)[^3] A helyi önkormányzati képviselők és polgármesterek választásán nem választható, aki jogerős ítélet alapján szabadságvesztés büntetését vagy büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti.[^4]
+
+### 2. Értelmező rendelkezések
+
+#### 2. §[^5]
+
+E törvény alkalmazásában lakosságszám: azon személyek száma, akiknek a polgárok személyi és lakcím adatait tartalmazó nyilvántartásban szereplő lakóhelye, lakóhely hiányában tartózkodási helye az adott település (fővárosi kerület), a megye közigazgatási területén található, vagy akiknek a lakóhelye csak az adott település (fővárosi kerület) megnevezését tartalmazza.
+
+## II. Fejezet — VÁLASZTÓKERÜLETEK, SZAVAZÓKÖRÖK
+
+#### 3. §[^6]
+
+A települési önkormányzat képviselő-testülete és a megyei közgyűlés tagjainak számát a helyi önkormányzati képviselők és polgármesterek általános választását megelőző év szeptember 1-jei lakosságszáma alapján kell meghatározni.
+
+#### 4. §
+
+A 10 000 vagy ennél kevesebb lakosú település – egyéni listás választási rendszerben – egy választókerületet alkot, amelyben a képviselők száma:
+
+a) 100 lakosig 2 fő,
+
+b) 1000 lakosig 4 fő,
+
+c) 5000 lakosig 6 fő,
+
+d) 10 000 lakosig 8 fő.
+
+#### 5. §
+
+(1) A 10 000-nél több lakosú településen és a fővárosi kerületben a képviselők vegyes választási rendszerben – egyéni választókerületben és kompenzációs listán – jutnak mandátumhoz.
+
+(2) Az egyéni választókerületek és a kompenzációs listás mandátumok száma:
+
+a) 25 000 lakosig 8 egyéni választókerületi és 3 kompenzációs listás mandátum,
+
+b) 50 000 lakosig 10 egyéni választókerületi és 4 kompenzációs listás mandátum,
+
+c) 75 000 lakosig 12 egyéni választókerületi és 5 kompenzációs listás mandátum,
+
+d) 100 000 lakosig 14 egyéni választókerületi és 6 kompenzációs listás mandátum.
+
+(3) Minden további 10 000 lakos után eggyel nő az egyéni választókerületben, és minden további 25 000 lakos után eggyel nő a kompenzációs listán választott képviselők száma.
+
+#### 6. §[^7]
+
+(1) A választópolgárok Budapest főváros közgyűlésének tagjait fővárosi listán választják meg. Ez esetben Budapest főváros egy választókerületet alkot.
+
+(2) A fővárosi közgyűlésbe a fővárosi listáról 32 személy szerezhet mandátumot.
+
+#### 7. §
+
+(1)[^8] A megyei önkormányzati képviselőket a választópolgárok megyei listán választják. A választás tekintetében minden megye egy választókerületet alkot, melynek nem része a megyei jogú város, valamint a főváros.
+
+(2)[^9] A megyei közgyűlés tagjainak számát a megye lakosságszáma alapján kell meghatározni úgy, hogy
+
+a) 400 000 lakosig minden 20 000 lakos után 1 képviselő, de legkevesebb 15 képviselő,
+
+b) 700 000 lakosig 20 képviselő, és a 400 000-t meghaladó minden további 30 000 lakos után 1 képviselő,
+
+c) 700 000 lakos fölött 30 képviselő, és a 700 000-t meghaladó minden további 40 000 lakos után 1 képviselő
+
+választható.
+
+## III. Fejezet — AZ AJÁNLÁS
+
+#### 8. §
+
+(1)[^10] A választópolgár jelölési fajtánként több jelöltet vagy listát is ajánlhat, de csak egy településen és a település fekvése szerinti megyében, vagy egy fővárosi kerületben és a fővárosban fogadhat el jelölést.
+
+(2)[^11] Az egyéni listás választási rendszerben a választópolgár egyidejűleg legfeljebb egy polgármesteri, egy egyéni listás és egy megyei listás jelöltséget fogadhat el.
+
+(3) A vegyes választási rendszerben a választópolgár egyidejűleg:
+
+a)[^12] a fővároson kívül legfeljebb egy egyéni választókerületi, egy kompenzációs és egy megyei listás jelöltséget,
+
+b)[^13] a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget fogadhat el,
+
+c)[^14]
+
+(4) A vegyes választási rendszerben a polgármesterjelölt egyidejűleg:
+
+a)[^15] a fővároson kívül egy egyéni választókerületi, egy kompenzációs és egy megyei listás jelöltséget,
+
+b)[^16] a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget
+
+fogadhat el.
+
+(5)[^17] A főpolgármester jelölt csak fővárosi listás jelöltséget fogadhat el.
+
+(6)[^18] A választópolgár megyei listán és megyei jogú városban egyidejűleg nem lehet jelölt. A választópolgár egyidejűleg nem lehet megyei listán jelölt és megyei jogú városban polgármesterjelölt.
+
+(7) Egy jelölő szervezet egy egyéni választókerületben csak egy jelöltet állíthat.
+
+#### 9. §
+
+(1) Egyéni listás, illetve egyéni választókerületi képviselőjelölt az, akit az adott választókerület választópolgárainak legalább 1%-a jelöltnek ajánlott.
+
+(2)[^19] A megyei választókerületben listát állíthat az a jelölő szervezet, amely a választókerület választópolgárai 0,5%-ának ajánlását összegyűjtötte.
+
+(3)[^20] Polgármesterjelölt az, akit
+
+a) a 10 000 vagy annál kevesebb lakosú település választópolgárainak legalább 3%-a,
+
+b) a 10 000 lakost meghaladó, de 100 000 vagy annál kevesebb lakosú település esetén legalább 300 választópolgár,
+
+c) a 100 000-nél több lakosú település esetén legalább 500 választópolgár
+
+jelöltnek ajánlott.
+
+(4)[^21] Főpolgármester-jelölt az, akit legalább 5000 fővárosi választópolgár ajánlott jelöltnek.
+
+#### 9/A. §[^22]
+
+A polgármester-választáson és a települési önkormányzat képviselő-testülete tagjainak választásán nemzetiségi jelöltnek minősül a nemzetiségek jogairól szóló törvény szerinti nemzetiségi szervezet jelöltje – vagy több, azonos nemzetiséget képviselő nemzetiségi szervezet által állított közös jelölt –, ha
+
+a)[^23] a nemzetiségi névjegyzékben szerepel,
+
+b) a helyi önkormányzati képviselők és polgármesterek, továbbá a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt más nemzetiség nemzetiségi jelöltje, továbbá
+
+c) nyilatkozatot tesz arról, hogy
+
+ca) a nemzetiség képviseletét vállalja,
+
+cb) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
+
+#### 10. §[^24]
+
+(1) A 10 000-nél több lakosú településen kompenzációs listát az a jelölő szervezet állíthat, amely a település egyéni választókerületeinek legalább kétharmadában jelöltet állított.
+
+(2)[^25] A fővárosi közgyűlés tagjainak megválasztásánál Budapesten fővárosi listát az a jelölő szervezet állíthat, amely főpolgármester-jelöltet vagy a fővárosi kerületek közül legalább háromban polgármesterjelöltet állított.
+
+(3)[^26]
+
+#### 11. §
+
+(1)[^27] Azok a jelölő szervezetek, amelyek az egyéni választókerületek legalább kétharmadában közös egyéni jelöltet állítottak, közös kompenzációs listát állíthatnak.
+
+(2)[^28] Azok a jelölő szervezetek, amelyek közös főpolgármester-jelöltet vagy legalább három fővárosi kerületben közös polgármesterjelöltet állítottak, közös fővárosi listát állíthatnak.
+
+(3)[^29] Azok a jelölő szervezetek, amelyek a megyei választókerületben lévő települések választópolgárai 1%-ának, de legalább 2000 választópolgár közös ajánlását összegyűjtötték, közös megyei listát állíthatnak.
+
+#### 11/A. §[^30]
+
+Nemzetiségenként külön-külön nemzetiségi kompenzációs listára kell venni valamennyi, az egyéni választókerületben indult nemzetiségi jelöltet, azok kivételével, akiket olyan nemzetiségi szervezet állított, amely a 10. § (1) bekezdése vagy a 11. § (1) bekezdése alapján önálló vagy közös kompenzációs listát állított.
+
+## IV. Fejezet — A VÁLASZTÁS RENDSZERE ÉS AZ EREDMÉNY MEGÁLLAPÍTÁSA
+
+### 1. A polgármesterek választása
+
+#### 12. §
+
+(1) A polgármestert és a főpolgármestert a települések választópolgárai közvetlenül választják.
+
+(1a)[^31] A polgármester és a főpolgármester választásának szavazólapján a választópolgár egy jelöltre szavazhat.
+
+(2) Polgármester, főpolgármester az a jelölt lesz, aki a legtöbb érvényes szavazatot kapta.
+
+(3)[^32] Ha két vagy több polgármesterjelölt vagy főpolgármester-jelölt a legtöbb szavazatot egyenlő számú szavazattal érte el, a szavazást meg kell ismételni.
+
+### 2. Egyéni listás választási rendszer
+
+#### 13. §
+
+(1) Az egyéni listán képviselők azok a jelöltek lesznek, akik a megválasztható képviselők száma szerint a legtöbb érvényes szavazatot kapták. Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik szerez mandátumot.
+
+(2) Az egyéni listás szavazólapon a választópolgár legfeljebb annyi jelöltre szavazhat, ahány egyéni listás mandátum kiosztható.
+
+(3) Ha az egyéni lista jelöltjét polgármesternek megválasztották, az egyéni listáról törölni kell, és helyébe a következő legtöbb szavazatot elért jelölt lép.
+
+### 3. A vegyes választási rendszer
+
+#### 14. §[^33]
+
+(1) Az egyéni választókerületben az a jelölt lesz képviselő, aki a legtöbb érvényes szavazatot kapta. A választás szavazólapján a választópolgár egy jelöltre szavazhat.
+
+(2) Ha az egyéni választókerületben a legtöbb szavazatot két vagy több jelölt egyenlő számú szavazattal érte el, a szavazást meg kell ismételni.
+
+#### 15. §
+
+(1)[^34] A kompenzációs lista és a nemzetiségi kompenzációs lista a választókerületben összesített töredékszavazatok arányában kap mandátumot.
+
+(2) Töredékszavazatnak minősül az egyéni választókerületekben a jelölő szervezet jelöltjére leadott minden olyan szavazat, amellyel nem szereztek mandátumot.
+
+(2a)[^35] Ha az egyéni választókerületben a szavazást a 14. § (2) bekezdése alapján meg kell ismételni, a töredékszavazatokat az ismételt szavazáson leadott szavazatok alapján kell megállapítani.
+
+(3) A közös jelöltekre leadott töredékszavazatnak minősülő szavazatok a közös jelöltet állító jelölő szervezetek közös kompenzációs listájára kerülnek.
+
+(3a)[^36] A nemzetiségi kompenzációs listára az azon szereplő jelöltekre az egyéni választókerületben leadott azon szavazatok kerülnek töredékszavazatként, amelyekkel nem szereztek mandátumot.
+
+(4) A kompenzációs mandátum számítás módja:
+
+a) Össze kell állítani egy táblázatot, amelyben minden lista neve alatt képezni kell egy számoszlopot. A számoszlop első száma az adott lista szavazatainak száma. A számoszlop következő számai az adott lista szavazatainak száma elosztva hárommal, öttel, héttel, rendre az új osztó az előző osztó kettővel megnövelt értéke.
+
+b) Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot. Ezt követően meg kell keresni a következő legnagyobb számot. Amelyik lista oszlopában találjuk, az a lista kap egy mandátumot. Ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum.
+
+c) Ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik addig még nem szerzett mandátumot, vagy amelyik kevesebb mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
+
+(5)[^37] Ha egy kompenzációs lista vagy nemzetiségi kompenzációs lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+
+#### 16. §
+
+(1) A kompenzációs listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot. A kieső jelölt helyébe a sorrendben utána következő jelölt lép.
+
+(2) Ha a kompenzációs lista jelöltjét polgármesternek, vagy az egyéni választókerületben képviselőnek választották, a kompenzációs listáról törölni kell, és helyébe a listán következő jelölt lép.
+
+(3) Nem kap mandátumot
+
+a) a jelölő szervezet kompenzációs listája, ha az azt állító jelölő szervezet jelöltjei a települési szinten összesített kompenzációs szavazatok öt százalékát nem érték el, vagy
+
+b) a közös kompenzációs lista, ha a közös listát állító jelölő szervezetek közös jelöltjei a települési szinten összesített kompenzációs szavazatok tíz százalékát, kettőnél több jelölő szervezet által állított közös kompenzációs lista esetében tizenöt százalékát nem érték el.
+
+(4)[^38] A nemzetiség kompenzációs listáról a jelöltek az egyéni választókerületben megszerzett szavazataik száma szerinti sorrendben szereznek mandátumot. Szavazategyenlőség esetén sorsolás dönt.
+
+(5)[^39] A (3) bekezdést a nemzetiségi kompenzációs listára nem kell alkalmazni.
+
+### 4.[^40] A fővárosi közgyűlés tagjainak választása
+
+#### 17. §
+
+(1) A fővárosi közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
+
+(2) A fővárosi listák a listákra leadott szavazatok arányában kapnak mandátumot.
+
+(3) A mandátum számítás módja:
+
+a) Össze kell állítani egy táblázatot, amelyben minden lista neve alatt képezni kell egy számoszlopot. A számoszlop első száma az adott lista szavazatainak száma, a számoszlop következő számai az adott lista szavazatainak száma elosztva kettővel, hárommal, néggyel, öttel, rendre az egymást követő egész számokkal.
+
+b) A táblázat segítségével lehet kiosztani a mandátumokat. Meg kell keresni a táblázatban előforduló legnagyobb számot, és amelyik lista számoszlopában találjuk meg azt, az a lista kap egy mandátumot. Ezt követően meg kell keresni a következő legnagyobb számot. Amelyik lista oszlopában találjuk, az a lista kap egy mandátumot. Ezt az eljárást kell folytatni mindaddig, míg kiosztásra kerül az összes mandátum.
+
+c) Ha a táblázatban előforduló legnagyobb szám keresésekor egyenlő legnagyobb számok vannak, akkor az a lista kap mandátumot, amelyik még addig nem szerzett mandátumot, vagy amelyik kevesebb mandátumot kapott, végezetül, amelyik a listasorsolásnál kisebb sorszámot kapott.
+
+(4) Ha egy fővárosi lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+
+#### 18. §
+
+(1) A fővárosi listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot.
+
+(2) Ha a fővárosi lista jelöltjét főpolgármesternek választották, a fővárosi listáról törölni kell, helyébe a sorrendben utána következő jelölt lép.
+
+(3) Nem kap mandátumot a jelölő szervezet vagy szervezetek közös fővárosi listája, ha a fővárosi listákra leadott érvényes szavazatok öt százalékát nem érte el.
+
+(4) Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és a fővárosi listáról egyaránt mandátumot szerez, úgy a fővárosi kerületi kompenzációs listás és fővárosi listás választás eredményének jogerőssé válásától számított 3 napon belül nyilatkoznia kell, hogy melyik mandátumáról mond le, és törölni kell arról a listáról, amelyen szerzett mandátumáról lemondott.
+
+(5) Ha valamely, a (4) bekezdés szerinti mandátumszerzés későbbi időpontban következik be, a képviselőnek az új mandátumszerzést megállapító határozat jogerőre emelkedését követő 3 napon belül nyilatkoznia kell, hogy lemond-e a betöltött képviselői mandátumáról vagy a később szerzett mandátumot nem fogadja el, és az érintett listáról törölni kell.
+
+### 5.[^41] A megyei közgyűlés tagjainak választása
+
+#### 18/A. §[^42]
+
+A megyei közgyűlés tagjai választásának szavazólapján a választópolgár egy listára szavazhat.
+
+#### 19. §
+
+(1)[^43] A megyei listák a leadott szavazatok arányában, a 17. § (3) bekezdésében meghatározott számítási mód alapján jutnak mandátumhoz.
+
+(2) Nem kap mandátumot
+
+a)[^44] a jelölő szervezet megyei listája, ha a megyei listákra leadott érvényes szavazatok öt százalékát nem érte el, vagy
+
+b)[^45] a közös megyei lista, ha a megyei listákra leadott érvényes szavazatok tíz százalékát, kettőnél több jelölő szervezet által állított közös megyei lista esetében tizenöt százalékát nem érte el. E vonatkozásban összesíteni csak az ugyanazon jelölő szervezetek által összeállított közös megyei listákra leadott érvényes szavazatokat lehet.
+
+(3) Ha a lista több mandátumot kap, mint a listán szereplő személyek száma, a mandátum betöltetlen marad.
+
+## V. Fejezet — KÉPVISELŐ, POLGÁRMESTER, FŐPOLGÁRMESTER MEGBÍZATÁSÁNAK MEGSZŰNÉSE ESETÉN ALKALMAZANDÓ SZABÁLYOK
+
+### 1. Időközi választás
+
+#### 20. §
+
+(1) Ha az egyéni listán kevesebb jelölt indul, mint a megválasztható képviselők száma, vagy az egyéni választókerületben nem volt jelölt, vagy nem volt polgármester- vagy főpolgármester jelölt, a választást nem lehet megtartani, és időközi választást kell kitűzni.
+
+(2)[^46]
+
+(3)[^47]
+
+(4) Ha az egyéni listás választáson az e törvényben meghatározottnál kevesebb képviselőt választanak meg, a be nem töltött képviselői helyekre időközi választást kell kitűzni.
+
+(5) Ha az egyéni választókerületi képviselő vagy a polgármester, főpolgármester megbízatása megszűnik, időközi választást kell kitűzni.
+
+(5a)[^48] Ha jelölő szervezet jelöltjeként indult egyéni választókerületi képviselő megbízatása szűnik meg és az időközi választás nem tűzhető ki, a mandátumot a jelölő szervezet − közös kompenzációs lista esetén az érintett jelölő szervezetek − által a kompenzációs listán szereplő jelöltek közül megnevezett jelölt, ennek hiányában a kompenzációs listán soron következő jelölt szerzi meg.
+
+(6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
+
+(7)[^49]
+
+### 2. A kiesett képviselő mandátumának betöltése
+
+#### 21. §
+
+(1) Ha az egyéni listáról megválasztott képviselő helye üresedik meg, helyére a következő legtöbb szavazatot elért jelölt lép.
+
+(2)[^50] Ha a megyei, a kompenzációs vagy a fővárosi listáról megválasztott képviselő kiesik, helyére az eredetileg bejelentett listáról a jelölő szervezet által bejelentett jelölt lép. Ha a fővárosi listáról mandátumot szerző képviselőt időközi választás eredményeképpen főpolgármesterré választják, helyére az eredetileg bejelentett fővárosi listáról a jelölő szervezet által bejelentett jelölt lép. Ha a jelölő szervezet a választási eljárásról szóló 2013. évi XXXVI. törvény 207/A. §-ában meghatározott határidőig nem jelenti be a jelöltet, a megüresedett helyre a listán soron következő jelölt lép.
+
+(3)[^51] Ha az egyéni listán, a kompenzációs listán, a megyei listán, vagy a fővárosi listán nincs több jelölt, akkor időközi választást nem kell kiírni, a mandátum a következő általános választásig betöltetlen marad.
+
+(4)[^52] Ha az egyéni listán, a megyei listán vagy a fővárosi listán megválasztott képviselők száma a képviselő-testület vagy a közgyűlés működéséhez szükséges létszám alá csökken, akkor az üres helyekre időközi választást kell kitűzni.
+
+## V/A. Fejezet[^53] — A kedvezményes nemzetiségi mandátum
+
+#### 21/A. §[^54]
+
+(1) Az általános önkormányzati választáson, valamint a képviselő-testület egészének megválasztása céljából kitűzött időközi választáson az egyéni listán a nemzetiségi jelölt kedvezményes módon szerezhet mandátumot, feltéve, hogy a választás kitűzésekor a névjegyzékben szereplő választópolgárok legalább ötven százaléka az adott nemzetiség nemzetiségi névjegyzékében is szerepelt.
+
+(2) Ha sem a polgármester-választáson, sem az egyéni listán nem szerez mandátumot adott nemzetiség egyetlen jelöltje sem, meg kell állapítani az egyéni listán legkevesebb szavazattal mandátumhoz jutó jelöltre leadott érvényes szavazatok kétharmadát. Kedvezményes mandátumhoz jut a nemzetiségnek az a jelöltje, aki az így megállapított szavazatszámnál többet ér el. Ha egy nemzetiséghez tartozó több ilyen jelölt is van, akkor a legtöbb szavazatot elért nemzetiségi jelölt jut kedvezményes mandátumhoz, szavazategyenlőség esetén sorsolás dönt a kedvezményes mandátumról.
+
+(3) A (2) bekezdésben meghatározott módon elnyert kedvezményes mandátummal bővül a képviselő-testület 4.§-ban meghatározott létszáma.
+
+(4) Ha a kedvezményes mandátumot szerző képviselő mandátuma megszűnik, helyébe az ugyanazon nemzetiség következő legtöbb szavazatot elért jelöltje lép, feltéve, hogy a (2) bekezdés szerinti szavazatszámot ő is elérte.
+
+(5) Ha a megüresedett mandátum 21. § (1) bekezdése alapján történő betöltésekor a kedvezményes mandátumhoz jutott képviselő rendelkezik a következő legtöbb szavazatszámmal, akkor mandátumát a 21.§ (1) bekezdésében foglalt jogcímen megtartja, és a nemzetiség kedvezményes mandátuma megszűnik.
+
+(6) Ha időközi választáson ugyanazon nemzetiség jelöltje polgármesteri vagy egyéni listás mandátumot szerez, a kedvezményes mandátum megszűnik.
+
+#### 21/B. §[^55]
+
+(1) Az általános önkormányzati választáson, valamint a képviselő-testület egészének megválasztása céljából kitűzött időközi választáson a kompenzációs listán a nemzetiségi jelölt kedvezményes módon szerezhet mandátumot, feltéve, hogy a választás kitűzésekor a névjegyzékben szereplő választópolgárok legalább huszonöt százaléka az adott nemzetiség nemzetiségi névjegyzékében is szerepelt.
+
+(2) Ha sem a polgármester-választáson, sem egyéni választókerületben, sem kompenzációs listán (a nemzetiségi kompenzációs listát is beleértve) nem szerez mandátumot adott nemzetiség egyetlen jelölje sem,
+
+a) meg kell állapítani az egyéni választókerületekben mandátumot szerzett képviselőkre leadott érvényes szavazatok száma átlagának kétharmadát,
+
+b) a nemzetiségi kompenzációs lista, ha arra az a) pontban megállapított számnál több töredékszavazat jut, egy kedvezményes mandátumot kap. A mandátumot a 16. § (4) bekezdése szerinti jelölt szerzi meg.
+
+(3) A (2) bekezdésben meghatározott módon elnyert kedvezményes mandátummal bővül a képviselő-testület 5. §-ban meghatározott létszáma.
+
+(4) Ha a nemzetiségi kompenzációs listáról megválasztott képviselő helye üresedik meg, helyére az egyéni választókerületben a következő legtöbb szavazatot elért jelölt lép a nemzetiségi kompenzációs listáról.
+
+(5) Ha az időközi választáson ugyanazon nemzetiség jelöltje polgármesteri vagy egyéni választókerületi mandátumot szerez, a nemzetiségi kedvezményes mandátuma megszűnik.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 23. §
+
+E törvény a kihirdetése napján lép hatályba, rendelkezéseit a helyi önkormányzati képviselők és a polgármesterek 2010. évi általános választása során kell először alkalmazni.
+
+#### 24. §[^57]
+
+(1) Ha a képviselő, a polgármester vagy a főpolgármester megbízatása 2024. október 1-jét megelőzően megszűnik, időközi választás nem tűzhető ki.
+
+(2)[^58] Ha az egyéni listás, kompenzációs listás, megyei listás vagy fővárosi kompenzációs listás képviselő megbízatása 2024. október 1-jét megelőzően megszűnik, a mandátum betöltésére a 21. § (1)–(3) bekezdésének rendelkezéseit kell alkalmazni.
+
+(3) A 20. § (5) bekezdése és a 21. § (4) bekezdése alkalmazásában a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán megválasztott képviselőt, polgármestert és főpolgármestert úgy kell tekinteni, mintha a megbízatása a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választása eredményének jogerőre emelkedésekor keletkezett volna.
+
+(4)[^59] Ha a helyi önkormányzatban a polgármesteri tisztség a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásának napján betöltetlen, akkor a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán megválasztott polgármester megbízatásának kezdete a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásán tartott polgármester-választás eredménye jogerőre emelkedésének időpontja.
+
+#### 24/A. §[^60]
+
+E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv1.) megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését[^61] követően kitűzendő általános választásán kell először alkalmazni.
+
+#### 24/B. §[^62]
+
+E törvény I–V/A. Fejezete, 24. §-a és 24/A. §-a az Alaptörvény XXIII. cikk (6) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+#### 25. §
+
+Ez a törvény a Tanács 1994. december 19-i 94/80/EK az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának a helyhatósági választásokon történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló irányelvének való megfelelést szolgálja.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2010. június 8-i ülésnapján fogadta el. A kihirdetés napja: 2010. június 14.
+[^2]: Az 1. § (2) bekezdése a 2024. évi LXXIX. törvény 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését a 2011: CCI. törvény 365. § (1) bekezdése iktatta be.
+[^4]: Az Alkotmánybíróság a 23/2020. (VIII. 4.) AB határozatának 1. pontjával megállapította, hogy az Alaptörvény XXIII. cikk (1) bekezdéséből fakadó mulasztással előidézett alaptörvény-ellenesség áll fenn amiatt, hogy a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 1. § (4) bekezdése alapján a polgármesterek választásán olyan jelölt is választható, aki a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 72. § (4) bekezdése folytán alkalmazandó 38. § (1) bekezdés *b)* pontja értelmében a tisztséget megválasztása esetén nem töltheti be.
+[^5]: A 2. § a 2014: XXIII. törvény 11. § a) pontja, a 2026. évi XLIX. törvény 77. § 1. pontja szerint módosított szöveg.
+[^6]: A 3. § a 2023. évi XXIV. törvény 1. §-ával megállapított, a 2026. évi XLIX. törvény 77. § 2. pontja szerint módosított szöveg.
+[^7]: A 6. § a 2023. évi XCV. törvény 1. §-ával megállapított szöveg.
+[^8]: A 7. § (1) bekezdése a 2026. évi XLIX. törvény 77. § 3. pontja szerint módosított szöveg.
+[^9]: A 7. § (2) bekezdés nyitó szövegrésze a 2026. évi XLIX. törvény 77. § 4. pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdése a 2020: CLXVII. törvény 1. § (1) bekezdésével megállapított, a 2026. évi XLIX. törvény 77. § 5. pontja szerint módosított szöveg.
+[^11]: A 8. § (2) bekezdése a 2026. évi XLIX. törvény 77. § 6. pontja szerint módosított szöveg.
+[^12]: A 8. § (3) bekezdés a) pontja a 2026. évi XLIX. törvény 77. § 7. pontja szerint módosított szöveg.
+[^13]: A 8. § (3) bekezdés b) pontja a 2023. évi XCV. törvény 7. § a) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdés c) pontját a 2021: CXIII. törvény 5. §-a hatályon kívül helyezte.
+[^15]: A 8. § (4) bekezdés a) pontja a 2026. évi XLIX. törvény 77. § 8. pontja szerint módosított szöveg.
+[^16]: A 8. § (4) bekezdés b) pontja a 2023. évi XCV. törvény 7. § b) pontja szerint módosított szöveg.
+[^17]: A 8. § (5) bekezdése a 2023. évi XCV. törvény 7. § c) pontja szerint módosított szöveg.
+[^18]: A 8. § (6) bekezdése a 2020: CLXVII. törvény 1. § (2) bekezdésével megállapított, a 2026. évi XLIX. törvény 77. § 9. pontja szerint módosított szöveg.
+[^19]: A 9. § (2) bekezdése a 2014: XXIII. törvény 4. §-ával megállapított, a 2026. évi XLIX. törvény 77. § 10. pontja szerint módosított szöveg.
+[^20]: A 9. § (3) bekezdése a 2014: XXIII. törvény 4. §-ával megállapított szöveg.
+[^21]: A 9. § (4) bekezdése a 2014: XXIII. törvény 4. §-ával megállapított szöveg.
+[^22]: A 9/A. §-t a 2011: CLXXIX. törvény 174. §-a iktatta be, szövege 2013: LXXXIX. törvény 54. § (2) bekezdésével megállapított szöveg.
+[^23]: A 9/A. § a) pontja a 2013: CCVII. törvény 34. §-a szerint módosított szöveg.
+[^24]: A 10. § a 2023. évi XXIV. törvény 2. §-ával megállapított szöveg.
+[^25]: A 10. § (2) bekezdése a 2023. évi XCV. törvény 2. §-ával megállapított szöveg.
+[^26]: A 10. § (3) bekezdését a 2023. évi XCV. törvény 8. § a) pontja hatályon kívül helyezte.
+[^27]: A 11. § (1) bekezdése a 2023. évi XXIV. törvény 5. §-a szerint módosított szöveg.
+[^28]: A 11. § (2) bekezdése a 2023. évi XCV. törvény 3. §-ával megállapított szöveg.
+[^29]: A 11. § (3) bekezdése a 2026. évi XLIX. törvény 77. § 11. pontja szerint módosított szöveg.
+[^30]: A 11/A. §-t a 2011: CLXXIX. törvény 175. §-a iktatta be.
+[^31]: A 12. § (1a) bekezdését a 2013: CCVII. törvény 30. §-a iktatta be.
+[^32]: A 12. § (3) bekezdését a 2024. évi LXXIX. törvény 2. §-a iktatta be.
+[^33]: A 14. § a 2024. évi LXXIX. törvény 3. §-ával megállapított szöveg.
+[^34]: A 15. § (1) bekezdése a 2011: CLXXIX. törvény 176. § (1) bekezdésével megállapított szöveg.
+[^35]: A 15. § (2a) bekezdését a 2024. évi LXXIX. törvény 4. §-a iktatta be.
+[^36]: A 15. § (3a) bekezdését a 2011: CLXXIX. törvény 176. § (2) bekezdése iktatta be.
+[^37]: A 15. § (5) bekezdése a 2011: CLXXIX. törvény 177. §-ával megállapított szöveg.
+[^38]: A 16. § (4) bekezdését a 2011: CLXXIX. törvény 178. §-a iktatta be.
+[^39]: A 16. § (5) bekezdését a 2011: CLXXIX. törvény 178. §-a iktatta be.
+[^40]: A 4. alcím (17-18. §) a 2023. évi XCV. törvény 4. §-ával megállapított szöveg.
+[^41]: Az 5. alcím címe a 2026. évi XLIX. törvény 77. § 12. pontja szerint módosított szöveg.
+[^42]: A 18/A. §-t a 2013: CCVII. törvény 33. §-a iktatta be, szövege a 2026. évi XLIX. törvény 77. § 13. pontja szerint módosított szöveg.
+[^43]: A 19. § (1) bekezdése a 2014: XXIII. törvény 10. § b) pontja, a 2023. évi XCV. törvény 7. § d) pontja, a 2026. évi XLIX. törvény 77. § 14. pontja szerint módosított szöveg.
+[^44]: A 19. § (2) bekezdés a) pontja a 2026. évi XLIX. törvény 77. § 15. pontja szerint módosított szöveg.
+[^45]: A 19. § (2) bekezdés b) pontja a 2026. évi XLIX. törvény 77. § 16. pontja szerint módosított szöveg.
+[^46]: A 20. § (2) bekezdését a 2024. évi LXXIX. törvény 5. §-a hatályon kívül helyezte.
+[^47]: A 20. § (3) bekezdését a 2024. évi LXXIX. törvény 5. §-a hatályon kívül helyezte.
+[^48]: A 20. § (5a) bekezdését a 2023. évi XXIV. törvény 3. §-a iktatta be.
+[^49]: A 20. § (7) bekezdését a 2014: LXXI. törvény 1. §-a iktatta be, a 2023. évi XCV. törvény 8. § b) pontja hatályon kívül helyezte.
+[^50]: A 21. § (2) bekezdése a 2014: XXIII. törvény 9. §-ával megállapított, a 2023. évi XCV. törvény 7. § e) pontja és 8. § c) pontja, a 2026. évi XLIX. törvény 77. § 17. pontja szerint módosított szöveg.
+[^51]: A 21. § (3) bekezdése a 2023. évi XCV. törvény 7. § f) pontja, a 2026. évi XLIX. törvény 77. § 18. pontja szerint módosított szöveg.
+[^52]: A 21. § (4) bekezdése a 2023. évi XCV. törvény 7. § g) pontja, a 2026. évi XLIX. törvény 77. § 19. pontja szerint módosított szöveg.
+[^53]: Az V/A. fejezetet (21/A – 21/B. §) a 2011: CLXXIX. törvény 179. §-a iktatta be.
+[^54]: A 21/A. §-t a 2011: CLXXIX. törvény 179. §-a iktatta be.
+[^55]: A 21/B. §-t a 2011: CLXXIX. törvény 179. §-a iktatta be.
+[^57]: A 24. §-t a 26. § (1) bekezdése hatályon kívül helyezte, újonnan a 2011: CLXXIX. törvény 180. §-a iktatta be, szövege a 2023. évi XXIV. törvény 4. §-ával megállapított szöveg.
+[^58]: A 24. § (2) bekezdése a 2026. évi XLIX. törvény 77. § 20. pontja szerint módosított szöveg.
+[^59]: A 24. § (4) bekezdését a 2023. évi CIX. törvény 38. §-a iktatta be.
+[^60]: A 24/A. §-t a 2011: CCI. törvény 365. § (2) bekezdése iktatta be, szövege a 2023. évi XCV. törvény 5. §-ával megállapított szöveg.
+[^61]: A hatálybalépés időpontja 2024. január 5.
+[^62]: A 24/B. §-t a 2023. évi XCV. törvény 6. §-a iktatta be, szövege a 2026. évi XLIX. törvény 78. §-ával megállapított szöveg.

@@ -15,21 +15,19 @@ import os
 import re
 import sys
 import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from hu_common import BASE, RAW, get, post_json  # noqa: E402
+from hu_common import BASE, RAW, get, post_json, in_force  # noqa: E402
 
 DOCDIR = os.path.join(RAW, "docs")
 INDEX = os.path.join(DOCDIR, "index.jsonl")
 TODAY = os.environ.get("HU_TODAY")
 lock = threading.Lock()
 
-BORDER_RE = re.compile(r'<div id="([^"]+)" class="pH borderStart" data-show-order="(\d+)" data-b-n="(\d+)"[^>]*>')
-
-
-def in_force(it, today):
-    return it.get("to") is None
+BORDER_RE = re.compile(r'<div id="([^"]+)" class="pH borderStart" data-show-order="(\d+)"(?: data-last-show-order="(\d+)")? data-b-n="(\d+)"[^>]*>')
+PH_RE = re.compile(r'<div id="([^"]+)" class="pH(?: borderStart)?"[^>]*data-b-n="(\d+)"')
 
 
 def load_index():
@@ -53,15 +51,30 @@ def splice_blocks(page, docid):
     borders = BORDER_RE.findall(page)
     if not borders:
         return page
+    block_ids = {}
+    for pid, bn in PH_RE.findall(page):
+        block_ids.setdefault(bn, []).append(pid)
     parts = []
     for i in range(0, len(borders), 25):
         part = borders[i:i + 25]
-        r = post_json(BASE + "/ajax/njtGetBlock.json",
-                      {"documentId": docid, "data": [{"start": int(so)} for _, so, _ in part]})
-        r.raise_for_status()
-        for bid, _, _ in part:
-            if ('id="%s"' % bid) not in r.text:
-                raise RuntimeError("block %s missing for %s" % (bid, docid))
+        req = []
+        for _, so, last, _ in part:
+            d = {"start": int(so)}
+            if last:
+                d["last"] = int(last)
+            req.append(d)
+        for attempt in range(8):
+            r = post_json(BASE + "/ajax/njtGetBlock.json", {"documentId": docid, "data": req})
+            missing = [bn for _, _, _, bn in part
+                       if not any(('id="%s"' % x) in r.text for x in block_ids.get(bn, []))]
+            if r.status_code == 200 and not missing and RATE_MSG not in r.text:
+                break
+            wait = 30 * (attempt + 1)
+            print("block request failed for %s (HTTP %d, %d missing), sleeping %ds"
+                  % (docid, r.status_code, len(missing), wait), flush=True)
+            time.sleep(wait)
+        else:
+            raise RuntimeError("blocks missing for %s" % docid)
         parts.append(r.text)
     leaf_re = re.compile(r'<div id="[^"]+" class="pH( borderStart)?"[^>]*>\s*(?:<span id="[^"]*"></span>\s*)*</div>')
     open_re = re.compile(r'<div id="[^"]+" class="pH borderStart"[^>]*>\s*(?:<span id="[^"]*"></span>\s*)*')
@@ -88,8 +101,45 @@ def splice_blocks(page, docid):
     return res
 
 
+RATE_MSG = 'id="dntCache"'  # "Túl sok lekérdezés, adott idő alatt!" (too many requests)
+
+
+def get_page(url):
+    """GET a document page; back off while the server answers with its rate-limit notice."""
+    for attempt in range(8):
+        r = get(url)
+        if RATE_MSG not in r.text:
+            return r
+        wait = 30 * (attempt + 1)
+        print("rate-limited on %s, sleeping %ds" % (url, wait), flush=True)
+        time.sleep(wait)
+    raise RuntimeError("rate-limited: %s" % url)
+
+
+def direct_id(eli):
+    """NJT document id for ELI paths with a known id pattern (saves the ELI redirect)."""
+    p = eli.strip("/").split("/")
+    if p[1] == "TV" and len(p) == 4:
+        return "%s-%s-00-00" % (p[2], p[3])
+    if p[1] == "TVR" and len(p) == 4:
+        return "%s-%s-10-00" % (p[2], p[3])
+    if p[1] == "R" and len(p) == 5 and p[3] == "Korm":
+        return "%s-%s-20-22" % (p[2], p[4])
+    return None
+
+
 def fetch_one(it):
-    r = get(BASE + it["eli"])
+    did = direct_id(it["eli"])
+    r = None
+    if did:
+        fn = os.path.join(DOCDIR, did + ".html.gz")
+        if os.path.exists(fn):
+            return {"eli": it["eli"], "id": did}
+        r = get_page(BASE + "/jogszabaly/" + did)
+        if r.status_code != 200 or ("openDocument('jogszabaly','%s'" % did) not in r.text:
+            r = None
+    if r is None:
+        r = get_page(BASE + it["eli"])
     if r.status_code != 200 or "/jogszabaly/" not in r.url:
         return {"eli": it["eli"], "error": "HTTP %d %s" % (r.status_code, r.url)}
     docid = r.url.rstrip("/").split("/jogszabaly/")[1].split("?")[0]
@@ -121,7 +171,7 @@ def main():
             if it["eli"] in seen:
                 continue
             seen.add(it["eli"])
-            if (a.all or in_force(it, TODAY)) and not (
+            if (a.all or in_force(it)) and not (
                     it["eli"] in done and "id" in done[it["eli"]] and
                     os.path.exists(os.path.join(DOCDIR, done[it["eli"]]["id"] + ".html.gz"))):
                 items.append(it)
