@@ -1,0 +1,107 @@
+---
+title: "2021. évi XXXIII. törvény egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról"
+identifier: "2021. évi XXXIII. törvény"
+njt_id: "2021-33-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2021/33"
+type: act
+jurisdiction: hu
+language: hu
+date: 2021-05-06
+in_force_from: 2021-05-14
+last_amended: 2023-06-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-33-00-00"
+retrieved: 2026-10-12
+---
+
+# 2021. évi XXXIII. törvény egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról[^1]
+
+## 1. Egyes állami tulajdonú ingatlanok ingyenes tulajdonba adása
+
+### 1. §
+
+(1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában lévő Bakonybél, belterület 781 és 782 helyrajzi számú ingatlanok ingyenesen Bakonybél Község Önkormányzata (a továbbiakban: Önkormányzat) tulajdonába kerülnek, az általa vállalt közfeladatok hatékonyabb ellátása érdekében, a sport- és kulturális, valamint egyéb feladatok ellátásának elősegítése céljából.
+
+(2)[^2] Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő Bakonybél, belterület 783 és 784 helyrajzi számú ingatlanok ingyenesen a Katolikus Karitász tulajdonába kerülnek szociális és karitatív tevékenyégének elősegítése, menekült és krízishelyzetbe került családok ideiglenes lakhatásául szolgáló krízislakások kialakítása céljából.
+
+(3)[^3] Az (1) bekezdés szerinti ingatlanokat az Önkormányzat és a (2) bekezdés szerinti ingatlanokat a Katolikus Karitász a terhekkel együtt szerzi meg. Az (1) és (2) bekezdés szerinti tulajdonátruházás feltétele, hogy az Önkormányzat és a Katolikus Karitász az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződésben teljeskörűen átvállalja.
+
+(4) Az (1) és (2) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti elő és köti meg. A szerződésekben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+### 2. §
+
+(1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján az állami tulajdonban álló Budapest II. kerület 54224/1 helyrajzi számú és a Budapest II. kerület 54224/2 helyrajzi számú ingatlanok ingyenesen, a KEKVA tv. szerinti közérdekű célok megvalósítása és 1. mellékletében meghatározott közfeladatok ellátása érdekében a Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány (nyilvántartási szám: 01-01-0013048, a továbbiakban: Alapítvány) tulajdonába kerülnek.
+
+(1a)[^4] Az (1) bekezdés szerinti vagyonjuttatásra nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+
+(2) Az (1) bekezdés szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Alapítvánnyal.
+
+(3) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+
+(4) Az (1) bekezdés szerinti, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
+
+## 2. Egyes vagyonkezelőkkel kapcsolatos rendelkezések
+
+### 3. §
+
+(1) Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond a magyar államnak a Magyar Lovassport Szövetséggel (nyilvántartási szám: 01-07-0000053, székhely: 1087 Budapest, Kerepesi út 7., a továbbiakban: Szövetség) szemben, a Szövetség vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló, az MNV Zrt. által kezelt 1 467 197 forint összegű követeléséről azzal, hogy a Szövetség egyidejűleg vállalja, hogy a vagyonkezelt állami ingatlanon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítési igényt nem érvényesít a magyar állammal szemben.
+
+(2) Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond a magyar államnak a Kincsem Nemzeti Lóverseny és Lovas Stratégia Korlátolt Felelősségű Társasággal (Cégjegyzékszám: 01-09-972385, székhely: 1101 Budapest, Albertirsai út 2–4., a továbbiakban: Kincsem Kft.) szemben, a Kincsem Kft. vagyonkezelésében állt állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló, az MNV Zrt. által kezelt 45 080 000 forint összegű követeléséről azzal, hogy a Kincsem Kft. egyidejűleg vállalja, hogy a vagyonkezelt állami ingatlanon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítési igényt nem érvényesít a magyar állammal szemben.
+
+## 3. Záró rendelkezések
+
+### 4. §
+
+(1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
+
+(2) A 9. § 2021. június 1. napján lép hatályba.
+
+### 5. §
+
+(1) A 2. § (1) és (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(2)[^5] A 2. § (1a) és (4) bekezdése az Alaptörvény 38. cikk (1) és (2), valamint (6) bekezdése alapján sarkalatosnak minősül.
+
+(3) A 18–19. §, a 21. § és a 40. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(4) A 17. § az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+
+(5) A 20. § és a 37. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(6) A 33. § az Alaptörvény 23. cikk (4) bekezdése alapján sarkalatosnak minősül.
+
+### 6. §
+
+(1) A 7. § (1) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3) A 29. § a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikk (3) bekezdése szerinti eltérést tartalmaz.
+
+## 4. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
+
+## 5. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
+
+## 6. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
+
+## 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
+
+## 8. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
+
+## 9. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
+
+## 10. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
+
+## 11. A megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló egyes állami tulajdonú vagyontárgyak ingyenes önkormányzati tulajdonba adásáról szóló 2015. évi LXXV. törvény módosítása
+
+## 12. Az Erzsébet-táborokról szóló 2020. évi LXIV. törvény módosítása
+
+## 13. Az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az állami vagyonról szóló 2007. évi CVI. törvény módosításáról szóló 2020. évi CXXII. törvény módosítása
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2021. április 27-i ülésnapján fogadta el. A kihirdetés napja: 2021. május 6.
+[^2]: Az 1. § (2) bekezdése a 2023. évi XLVI. törvény 46. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 2023. évi XLVI. törvény 46. §-ával megállapított szöveg.
+[^4]: A 2. § (1a) bekezdését a 2021: CXLVII. törvény 74. §-a iktatta be.
+[^5]: Az 5. § (2) bekezdése a 2021: CXLVII. törvény 75. §-a szerint módosított szöveg.

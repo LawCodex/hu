@@ -1,0 +1,151 @@
+---
+title: "2021. évi XI. törvény a Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról"
+identifier: "2021. évi XI. törvény"
+njt_id: "2021-11-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2021/11"
+type: act
+jurisdiction: hu
+language: hu
+date: 2021-04-30
+in_force_from: 2021-05-01
+last_amended: 2024-12-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-11-00-00"
+retrieved: 2026-10-12
+---
+
+# 2021. évi XI. törvény a Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról[^1]
+
+A nukleáris ipar hazai és nemzetközi tudásszolgáltatási platformjának kialakítása érdekében az Országgyűlés a következő törvényt alkotja:
+
+## 1. A Dunaújvárosi Egyetemért Alapítvány
+
+### 1. §
+
+(1) Az Országgyűlés felhívja – a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján – a Kormányt, hogy tegye meg a szükséges intézkedéseket a Dunaújvárosi Egyetemért Alapítvány (a továbbiakban: Alapítvány) létrehozására.
+
+(2)[^2] Az Alapítvány alapítása során az állam képviseletében a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
+
+(3)[^3]
+
+(4) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
+
+(5)[^4]
+
+## 2. Az Alapítvány részére történő vagyonjuttatás
+
+### 2. §
+
+A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése, az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján, az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Dunaújvárosi Egyetem (a továbbiakban: Egyetem) – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+
+### 3. §
+
+(1)[^5] Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanokat, valamint ingatlanok tulajdoni hányadát (ezen alcím alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+
+(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Alapítvánnyal.
+
+(3) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodások megkötéséig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
+
+(4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+
+### 4. §
+
+Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+### 4/A. §[^6]
+
+(1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében a Balatonszemes, belterület 119/1, 120 és 161 helyrajzi számú ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdésben meghatározott ingatlanok tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg. Az (1) bekezdésben meghatározott ingatlanok tulajdonjogának Alapítvány részére történő átadásának feltétele, hogy az ingatlanok tekintetében az állam és a BSE Palóc Farkasok Utánpótlás Sport Egyesület (székhely: 2660 Balassagyarmat, 3192/1/A hrsz., nyilvántartási szám: 12-02-0001465) között fennálló ingyenes használati szerződés az államról az Alapítványra átruházásra kerül.
+
+(3) Az Alapítvány a tulajdonába adott ingatlanokat – az e §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásból származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdés szerinti ingatlanban található, a közfeladat ellátására rendelkezésre álló, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva, az (1) bekezdés szerinti ingatlanjuttatás tárgyában megkötendő megállapodás létrejöttének napjával ingyenesen az Alapítvány tulajdonába kerülnek.
+
+### 4/B. §[^7]
+
+(1) A 4/A. § (1) bekezdésében meghatározott ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Alapítvánnyal.
+
+(2) A 4/A. § (4) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+## 3. Az Egyetem részére történő vagyonjuttatás
+
+### 5. §
+
+(1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok, ingatlan tulajdoni hányada (ezen alcím alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+
+(2)[^8] Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
+
+(3) A költségvetési szervi formában működő Egyetem és az MNV Zrt. között fennálló vagyonkezelési szerződés megszűnik.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) az Egyetem tulajdonába kerülnek.
+
+(4a)[^9] A Dunaújvárosi SZC Bánki Donát Technikum feladatellátásához szükséges, állami tulajdonú ingó vagyontárgyak a fennálló vagyonkezelői jog egyidejű megszűnésével az Egyetem tulajdonába kerülnek. Az átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá.
+
+(5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(7) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint a (4) bekezdés szerinti ingóságok vonatkozásában az (5) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
+
+### 6. §
+
+Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+## 4. Záró rendelkezések
+
+### 7. §
+
+(1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2)[^10] Az 1. § (4) bekezdés, a 2–6. §, a 9. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
+
+### 8. §[^11]
+
+Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, a 4/A. §, az 5. § (1), (4), (4a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+## 1. melléklet a 2021. évi XI. törvényhez
+
+**Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok**
+
+|  | (A | B | C | D |
+|---|---|---|---|---|
+| **1.** | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
+| **2.** | DUNAÚJVÁROS | 101 | 1/1 | kivett kollégium |
+| **3.** | DUNAÚJVÁROS | 102/4 | 1/1 | kivett kollégium és udvar |
+| **4.** | DUNAÚJVÁROS | 103 | 1/1 | kivett kollégium és udvar |
+| **6.** | DUNAÚJVÁROS | 113/3/A/3 | 1/1 | egyéb helyiség |
+
+## 2. melléklet a 2021. évi XI. törvényhez
+
+**Az Egyetem részére átadásra kerülő állami tulajdonú ingatlanok**
+
+|  | **A** | **B** | **C** | **D** |
+|---|---|---|---|---|
+| **1.** | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| **2.** | DUNAÚJVÁROS | 102/3 | 1/1 | kivett iskola, udvar |
+| **3.** | DUNAÚJVÁROS | 105/1 | 1/1 | kivett főiskola campus, média centrum, trafóház és udvar |
+| **4.** | DUNAÚJVÁROS | 105/2 | 1/1 | kivett műhely szolgáltató épület, raktár és udvar |
+| **5.** | DUNAÚJVÁROS | 112 | 1/1 | kivett egyetem tanműhely, transzformátorház és udvar |
+| **6.** | DUNAÚJVÁROS | 113/3/A/1 | 1/1 | egyéb helyiség |
+| **7.** | DUNAÚJVÁROS | 113/3/A/2 | 1/1 | egyéb helyiség |
+| **8.** | DUNAÚJVÁROS | 113/3/A/4 | 1/1 | egyéb helyiség |
+| **9.** | DUNAÚJVÁROS | 113/3/A/5 | 1/1 | egyéb helyiség |
+| **10.** | DUNAÚJVÁROS | 113/3/A/6 | 1/1 | egyéb helyiség |
+| **11.** | DUNAÚJVÁROS | 113/5 | 1/1 | kivett oktatási épület, udvar és fedett parkoló |
+| **12.** | DUNAÚJVÁROS | 113/7 | 12/54 | kivett saját használatú út |
+| **13.** | DUNAÚJVÁROS | 120 | 1/1 | kivett közpark, oktatási épület és gazdasági épület |
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2021. április 27-i ülésnapján fogadta el. A kihirdetés napja: 2021. április 30.
+[^2]: Az 1. § (2) bekezdése a 2022: IV. törvény 224. §-a szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését a 9. § hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdését a 9. § hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdése a 2021: CI. törvény 195. §-a szerint módosított szöveg.
+[^6]: A 4/A. §-t a 2024. évi LXXVI. törvény 144. §-a iktatta be.
+[^7]: A 4/B. §-t a 2024. évi LXXVI. törvény 145. §-a iktatta be.
+[^8]: Az 5. § (2) bekezdése a 2024. évi LXXVI. törvény 146. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (4a) bekezdését a 2021: CXLVII. törvény 54. §-a iktatta be.
+[^10]: A 7. § (2) bekezdése a 2021: CI. törvény 196. §-a szerint módosított szöveg.
+[^11]: A 8. § a 2021: CXLVII. törvény 55. §-a, a 2024. évi LXXVI. törvény 146. § b) pontja szerint módosított szöveg.

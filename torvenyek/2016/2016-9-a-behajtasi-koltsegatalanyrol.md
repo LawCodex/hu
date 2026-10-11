@@ -1,0 +1,62 @@
+---
+title: "2016. évi IX. törvény a behajtási költségátalányról"
+identifier: "2016. évi IX. törvény"
+njt_id: "2016-9-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2016/9"
+type: act
+jurisdiction: hu
+language: hu
+date: 2016-03-23
+in_force_from: 2016-03-24
+last_amended: 2016-03-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-9-00-00"
+retrieved: 2026-10-12
+---
+
+# 2016. évi IX. törvény a behajtási költségátalányról[^1]
+
+## 1. §
+
+E törvény hatálya a vállalkozások, valamint a vállalkozás és szerződő hatóság közötti kereskedelmi ügyletek ellenértékének kiegyenlítéseként teljesített valamennyi fizetésre kiterjed.
+
+## 2. §
+
+E törvény alkalmazásában:
+
+1\. *kereskedelmi ügylet:* vállalkozások, illetve vállalkozások és szerződő hatóságok között lebonyolított olyan ügylet, amelynek tárgya fizetés ellenében áruk adásvétele vagy szolgáltatások nyújtása;
+
+2\. *szerződő hatóság:* a közbeszerzésekről szóló törvény szerinti ajánlatkérő, akkor is, ha közbeszerzési eljárás lefolytatására nem köteles;
+
+3\. *vállalkozás:* szerződő hatóságnak nem minősülő, önálló gazdasági vagy szakmai tevékenységet folytató szervezet, még ha az adott tevékenységet egyetlen személy is végzi.
+
+## 3. §
+
+(1) Vállalkozások közötti szerződés esetén a kötelezettet, szerződő hatóságnak vállalkozással kötött szerződése esetén pedig a szerződő hatóságot (a továbbiakban együtt: kötelezett) terhelő, kereskedelmi ügyletből eredő fizetési kötelezettség teljesítésének késedelme esetén a jogosult a követelése behajtásával kapcsolatos költségei fedezetéül negyven eurónak megfelelő, a Magyar Nemzeti Bank – késedelem kezdőnapján érvényes – hivatalos deviza-középárfolyama alapján meghatározott forintösszegre (a továbbiakban: behajtási költségátalány) tarthat igényt.
+
+(2) A behajtási költségátalányt az arra jogosult a késedelem bekövetkezésétől számított egy éves jogvesztő határidőn belül követelheti. A követelés esedékességének időpontja önkéntes teljesítés esetén ennek időpontja, önkéntes teljesítés hiányában a teljesítésre való első felszólítás időpontja.
+
+(3) A kötelezett a behajtási költségátalány megfizetésére nem köteles, ha az erre irányuló igény érvényesítése során a késedelmét kimenti.
+
+(4) A behajtási költségátalány megfizetésére irányuló kötelezettség teljesítése nem mentesít a késedelem egyéb jogkövetkezményei alól; a kártérítésbe azonban a behajtási költségátalány összege beszámít.
+
+(5) A behajtási költségátalányt kizáró vagy azt negyven eurónál alacsonyabb összegben meghatározó szerződési kikötés semmis.
+
+## 4. §
+
+Ez a törvény a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E törvény rendelkezéseit a hatálybalépését megelőzően kötött kereskedelmi ügyletből eredő fizetési kötelezettség teljesítésének késedelme esetén is alkalmazni kell azzal, hogy a törvény hatálybalépésekor fennálló késedelem esetén a behajtási költségátalány érvényesítésére megszabott jogvesztő határidőt e törvény hatálybalépésétől kell számítani.
+
+## 6. §
+
+E törvény a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló, 2011. február 16-i 2011/7/EU európai parlamenti és tanácsi irányelv 6. cikkének való megfelelést szolgálja.
+
+## 7–8. §[^2]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2016. március 17-i ülésnapján fogadta el. A kihirdetés napja: 2016. március 23.
+[^2]: A 7–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

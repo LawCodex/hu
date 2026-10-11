@@ -1,0 +1,41 @@
+---
+title: "2017. évi V. törvény az egyrészről az Európai Unió és tagállamai, másrészről a Kubai Köztársaság közötti politikai párbeszédről és együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "2017. évi V. törvény"
+njt_id: "2017-5-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2017/5"
+type: act
+jurisdiction: hu
+language: hu
+date: 2017-03-16
+in_force_from: 2017-03-17
+last_amended: 2017-03-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2017-5-00-00"
+retrieved: 2026-10-12
+---
+
+# 2017. évi V. törvény az egyrészről az Európai Unió és tagállamai, másrészről a Kubai Köztársaság közötti politikai párbeszédről és együttműködésről szóló megállapodás kihirdetéséről[^1]
+
+## 1. §
+
+Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről a Kubai Köztársaság közötti politikai párbeszédről és együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^2]
+
+## 3. §[^3]
+
+## 4. §
+
+(1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. § és a 3. § a Megállapodás 86. cikk 2. bekezdésében meghatározott időpontban lép hatályba.
+
+(3) A Megállapodás, valamint a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+
+(4) E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2017. március 7-i ülésnapján fogadta el. A kihirdetés napja: 2017. március 16.
+[^2]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 86. cikk 2. bekezdésében meghatározott időpontban lép hatályba.
+[^3]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 86. cikk 2. bekezdésében meghatározott időpontban lép hatályba.

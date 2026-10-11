@@ -1,0 +1,214 @@
+---
+title: "2024. évi LXXX. törvény egyes agrártárgyú törvények módosításáról"
+identifier: "2024. évi LXXX. törvény"
+njt_id: "2024-80-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2024/80"
+type: act
+jurisdiction: hu
+language: hu
+date: 2024-12-20
+in_force_from: 2025-01-01
+last_amended: 2025-10-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-80-00-00"
+retrieved: 2026-10-12
+---
+
+# 2024. évi LXXX. törvény egyes agrártárgyú törvények módosításáról[^1]
+
+## 1. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
+
+## 2. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
+
+## 3. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
+
+## 4. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
+
+## 5. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
+
+## 6. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
+
+## 7. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
+
+## 8. A magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény módosítása
+
+## 9. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
+
+## 10. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
+
+## 11. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
+
+## 12. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
+
+### 76. §
+
+Hatályát veszti a Földforgalmi tv.
+
+a)[^77]
+
+b)[^78]
+
+c)[^79]
+
+d)[^80]
+
+e)[^81]
+
+f)[^82]
+
+g)[^83]
+
+h)[^84]
+
+i)[^85]
+
+j)[^86]
+
+k)[^87]
+
+l)[^88]
+
+m)[^89]
+
+n)[^90]
+
+o)[^91]
+
+## 13. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
+
+### 92. §
+
+Hatályát veszti a Fétv.
+
+a)[^107]
+
+b)[^108]
+
+c)[^109]
+
+d)[^110]
+
+e)[^111]
+
+## 14. Az állattenyésztés szabályozásához szükséges törvényi szintű rendelkezésekről szóló 2019. évi LVI. törvény módosítása
+
+## 15. Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény módosítása
+
+## 16. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény módosítása
+
+## 17. A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény módosítása
+
+## 18. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
+
+## 19. Az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény módosítása
+
+## 20. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
+
+## 21. Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvény módosítása
+
+## 22. A területi közigazgatás működésével, az ingatlan-nyilvántartással és a területfejlesztéssel összefüggő egyes törvények módosításáról szóló 2022. évi XLVIII. törvény módosítása
+
+## 23. A Magyarország biztonságát szolgáló egyes törvények módosításáról szóló 2022. évi L. törvény eltérő szöveggel történő hatályba léptetése
+
+## 24. A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény módosítása
+
+## 25. Az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény módosítása
+
+## 26. Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény módosítása
+
+## 27. Az egyes ingatlan-nyilvántartási, földmérési és térképészeti tárgyú törvények módosításáról szóló 2023. évi CXVI. törvény módosítása
+
+## 28. Az egyes agrártárgyú törvények módosításáról szóló 2024. évi XIX. törvény módosítása
+
+## 29. Az állam működését érintő egyes törvények módosításáról szóló 2024. évi XXIX. törvény módosítása
+
+## 30. Állami vagyonelemek ingyenes tulajdonba adása
+
+### 147. §
+
+(1) Az állami tulajdonban álló, Pannonhalma, belterület 1130/1 helyrajzi számú ingatlant „kivett” megnevezésű ingatlanként kell nyilvántartásba venni. A művelésiág-változás átvezetésére irányuló eljárást az agrárminiszter kérelmére az ingatlanügyi hatóságként eljáró Győr-Moson-Sopron Vármegyei Kormányhivatal folytatja le, és az ingatlant belterületi, művelés alól kivett területként jegyzi be az ingatlan-nyilvántartásba. A művelésiág-változás ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelésiág-változást, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.
+
+(2) Az (1) bekezdés szerinti ingatlant az agrárminiszter kérelme alapján az erdészeti hatóságként eljáró Vas Vármegyei Kormányhivatal törli az Országos Erdőállomány Adattárból. A törlésre irányuló kérelemben kizárólag e törvénynek az Országos Erdőállomány Adattárból való törlést, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az erdészeti hatóság ügyintézési határideje 15 nap.
+
+(3) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján a magyar állam tulajdonában lévő Pannonhalma belterület 2 helyrajzi számú ingatlan és Pannonhalma belterület 1130/1 helyrajzi számú ingatlan térítésmentesen a Pannonhalmi Főapátság tulajdonába kerül hitéleti és oktatási feladatok ellátásának elősegítése érdekében. A Pannonhalmi Főapátság az ingatlanok tulajdonjogát terhekkel együtt szerzi meg, a tulajdonátruházás feltétele, hogy a Pannonhalmi Főapátság az ingatlanokat terhelő kötelezettségeket teljeskörűen átvállalja.
+
+(4) A tulajdonátruházásról szóló, az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló agrárminiszter készíti elő és köti meg a Pannonhalmi Főapátsággal. A szerződésekben rögzíteni kell, hogy az ingatlanok használata során a Pannonhalmi Főapátság kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése, továbbá a (6) bekezdés szerinti eljárás kérelmezése.
+
+(5) A vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+(6) A tulajdonváltozás ingatlan-nyilvántartásba történő végleges bejegyzését követően a Pannonhalmi Főapátság kérelmére az erdészeti hatóságként eljáró Vas Vármegyei Kormányhivatal az (1) bekezdés szerinti ingatlant az Országos Erdőállomány Adattárba parkerdő rendeltetéssel nyilvántartásba veszi. A kérelemben kizárólag e törvénynek az Országos Erdőállomány Adattárba való nyilvántartásba vételt, valamint az ingatlan helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az erdészeti hatóság ügyintézési határideje 15 nap.
+
+## 31. Záró rendelkezések
+
+### 148. §
+
+(1) Ez a törvény – a (2)–(8) bekezdésben foglalt kivétellel – 2025. január 1-jén lép hatályba.
+
+(2) Az 52. §, az 53. § 14. és 15. pontja 2025. január 2-án lép hatályba.
+
+(3) A 22. §, a 24. §, a 26. § (2) és (3) bekezdése, a 27. § 2., 5., 8., 9. és 11–15. pontja, a 28. § b) pontja, a 30. §, a 37. §, a 9. alcím, a 61. §, a 66. §, a 76. § k) pontja, a 77. §, a 78. §, a 85–90. §, a 91. § h)–o) pontja, a 92. § c) és e) pontja, a 97–99. §, a 100. § (1) bekezdése, a 101. § (1) bekezdése, a 102. §, a 18. alcím, a 19. alcím, a 126. §, a 128. §, a 21. alcím, a 22. alcím, a 23. alcím, a 26. alcím, a 27. alcím és a 29. alcím, valamint a 3. melléklet és a 4. melléklet 2025. január 15-én lép hatályba.
+
+(4) A 33. § c) pontja, a 14. alcím és a 103. § a kihirdetést követő 31. napon lép hatályba.
+
+(5) A 10–18. §, a 20. § és a 21. § 2025. május 1-jén lép hatályba.
+
+(6) A 69. § (2) bekezdése, a 72. §, a 80. §, a 82. §, a 15. alcím és a 25. alcím 2025. július 1-jén lép hatályba.
+
+(7) A 6–8. § 2025. október 1-jén lép hatályba.
+
+(8) A 76. § c) pontja, a 92. § a) és b) pontja, valamint a 127. § a 2025. január 15-én és az azt követően indult ingatlan-nyilvántartási eljárásban az ötszázezredik végleges döntés meghozatalát követő 10. napon lép hatályba.
+
+(9) A 76. § c) pontja, a 92. § a) és b) pontja, valamint a 127. § hatálybalépésének naptári napját az ingatlan-nyilvántartásért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.
+
+### 149. §
+
+(1) A 38–40. §, és a 42. § az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 12. alcím, a 81. §, a 95. §, a 115. §, a 116. §, a 117. § (2) bekezdése, a 120. §, a 123. §, a 129. §, a 131. § és a 141. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+
+### 150. §
+
+A 33. § a) pontja az élelmiszerjog általános elveiről és követelményeiről, az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló, 2002. január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 151. §
+
+A 25. alcím tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+## 1. melléklet a 2024. évi LXXX. törvényhez[^166]
+
+## 2. melléklet a 2024. évi LXXX. törvényhez[^167]
+
+## 3. melléklet a 2024. évi LXXX. törvényhez[^168]
+
+## 4. melléklet a 2024. évi LXXX. törvényhez[^169]
+
+## 5. melléklet a 2024. évi LXXX. törvényhez[^170]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2024. december 17-i ülésnapján fogadta el. A kihirdetés napja: 2024. december 20.
+[^77]: A 76. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 76. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 76. § c) pontja a 148. § (8) bekezdése alapján a 2025. január 15-én és az azt követően indult ingatlan-nyilvántartási eljárásban az ötszázezredik végleges döntés meghozatalát követő 10. napon lép hatályba.
+[^80]: A 76. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 76. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 76. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 76. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 76. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 76. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: A 76. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 76. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 76. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 76. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 76. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: A 76. § o) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 92. § a) pontja a 148. § (8) bekezdése alapján a 2025. január 15-én és az azt követően indult ingatlan-nyilvántartási eljárásban az ötszázezredik végleges döntés meghozatalát követő 10. napon lép hatályba.
+[^108]: A 92. § b) pontja a 148. § (8) bekezdése alapján a 2025. január 15-én és az azt követően indult ingatlan-nyilvántartási eljárásban az ötszázezredik végleges döntés meghozatalát követő 10. napon lép hatályba.
+[^109]: A 92. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 92. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: A 92. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^166]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^167]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

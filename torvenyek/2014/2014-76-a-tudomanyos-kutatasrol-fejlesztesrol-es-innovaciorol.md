@@ -1,0 +1,1396 @@
+---
+title: "2014. évi LXXVI. törvény a tudományos kutatásról, fejlesztésről és innovációról"
+identifier: "2014. évi LXXVI. törvény"
+njt_id: "2014-76-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2014/76"
+type: act
+jurisdiction: hu
+language: hu
+date: 2014-12-05
+in_force_from: 2014-12-06
+last_amended: 2025-12-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2014-76-00-00"
+retrieved: 2026-10-12
+---
+
+# 2014. évi LXXVI. törvény a tudományos kutatásról, fejlesztésről és innovációról[^1]
+
+Az Országgyűlés annak érdekében, hogy megteremtse a tudományos kutatás Alaptörvényben rögzített autonómiájának részletes jogszabályi és finanszírozási feltételeit, a magyar gazdaság és társadalom versenyképességét és jövedelemtermelő képességét biztosító tudásalapú társadalmat, valamint a fejlesztésre és az innovációra épülő, fenntartható társadalmi és gazdasági fejlődést és munkahelyteremtést szolgáló növekedést, továbbá abból a célból, hogy
+
+létrehozza a hazai kutatás-fejlesztés és innováció kormányzati koordinációjának és kiszámítható finanszírozásának stabil intézményi rendszerét, amely végrehajtja a rendelkezésre álló források hatékony és átlátható felhasználását,
+
+megteremtse az alap (felfedező) tudományos kutatások szakszerű támogatásának intézményes rendszerét,
+
+az alapkutatások eredményeire épülő alkalmazott kutatások és kísérleti fejlesztések támogatásával megalapozza a további fejlesztési és innovációs folyamatokat,
+
+a kutatás-fejlesztési és innovációs eredmények létrehozásának és hasznosításának támogatásával segítse a magyar gazdaság fenntartható fejlődését,
+
+elősegítse a vállalkozások kutatáson, fejlesztésen és innováción alapuló versenyképességének növekedését,
+
+ösztönözze a magas hozzáadott értéket előállító munkahelyek létrehozását,
+
+előmozdítsa a kutatás-fejlesztésben és az innovációban foglalkoztatottak szakmai felkészültségének javulását és társadalmi elismertségük növelését,
+
+hozzájáruljon az ország védelmi és biztonsági képességeihez szükséges fejlett technológiák alkalmazásához és
+
+hozzájáruljon a tudáson és innováción alapuló gazdaság kialakításához és ezáltal az intelligens növekedés beindításához majd fenntartásához,
+
+a következő törvényt alkotja:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A törvény hatálya
+
+#### 1. §
+
+(1)[^2] E törvény hatálya a Magyarországon közfinanszírozású támogatásból megvalósuló kutatás-fejlesztésre és innovációra, az innovációs ökoszisztéma fejlesztésére, valamint az ezekhez kapcsolódóan Magyarországon nyújtott szolgáltatásokra terjed ki.
+
+(2) E törvény hatálya kiterjed továbbá
+
+a) az olyan, külföldön nyújtott szolgáltatások igénybevételére és külföldről történő eszközbeszerzésekre is, amelyek közvetlenül Magyarországon megvalósuló kutatás-fejlesztéshez, innovációhoz és az (1) bekezdés szerinti szolgáltatásnyújtáshoz kapcsolódnak, valamint
+
+b) az Európai Unión belüli és más nemzetközi együttműködés keretében magyar részvétellel
+
+ba) külföldön végzett, az (1) bekezdésben meghatározott tevékenységek Magyarország területén történő elszámolására,
+
+bb) külföldön nyújtott, az (1) bekezdés szerinti szolgáltatások Magyarország területén történő elszámolására.
+
+c)[^3] a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 1. § (1) bekezdése szerinti államok magyar nyelvű képzést biztosító felsőoktatási intézményeihez kapcsolódó kutatási és innovációs tevékenység támogatására.
+
+### 2. Alapelvek
+
+#### 2. §[^4]
+
+E törvény – az Európai Unió kutatás-fejlesztést és innovációt érintő stratégiai dokumentumaiban lefektetett alapelvekkel összhangban – biztosítani kívánja az állam és a kutatás-fejlesztésben, valamint az innovációban részt vevők, továbbá a piaci szereplők viszonyára vonatkozó következő elveket és szabályokat:
+
+a) az állam támogatja azon tudományos kutatásokat, amelyektől új tudományos törvényszerűségek felismerése, ismeretek, módszerek, eljárások kidolgozása várható, valamint az elvégzésükhöz és az eredmények nyilvánosságra hozatalához szükséges feltételek – köztük a kutatási infrastruktúrák – kialakítását,
+
+b) a kutatás-fejlesztés és az innováció céljaira rendelkezésre álló közfinanszírozású támogatások – ha törvény, kormányrendelet vagy kormányhatározat másként nem rendelkezik – pályázati rendszerben kerülnek elosztásra,
+
+c) az állam támogatja a magyarországi költségvetési intézmények és nonprofit szervezetek kutatás-fejlesztési és innovációs tevékenységét, – a piaci versenyt nem torzító módon – a Magyarországon működő vállalatok és vállalkozások kutatás-fejlesztési és innovációs tevékenységét, valamint elősegíti az ezen szereplők közötti együttműködéseket,
+
+d) az állam megvalósítja a közfinanszírozású támogatások felhasználásának rendszeres ellenőrzését és független értékelését, valamint biztosítja az ellenőrző és értékelő szervek működésének folytonosságát,
+
+e) a vállalkozásoknak nyújtott támogatások a saját források kutatás-fejlesztési és innovációs célú felhasználásának ösztönzésére és kiegészítésére szolgálnak,
+
+f) a közfinanszírozású kutatás-fejlesztési és innovációs programokban a mikro-, kis- és középvállalkozások számára kedvezményes feltételek állapíthatók meg,
+
+g) az állam a kutatás-fejlesztési és innovációs infrastruktúra, valamint intézményrendszer fejlesztésének finanszírozásában együttműködik a vállalkozásokkal.
+
+### 3. Értelmező rendelkezések
+
+#### 3. §
+
+E törvény alkalmazásában
+
+1.[^5] *alapkutatás:* kísérleti vagy elméleti munka, amelyet elsősorban a jelenségek vagy megfigyelhető tények hátterével kapcsolatos új ismeretek megszerzésének érdekében folytatnak, anélkül, hogy kilátásba helyeznék azok közvetlen üzleti alkalmazását vagy felhasználását,
+
+2.[^6] *alkalmazott kutatás:* tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez, amelyek lehetnek többek között digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (beleértve, de nem kizárólagosan a digitális iparágakat és technológiákat is, mint például a szuperszámítógépek, kvantumtechnológiák, blokklánc-technológiák, mesterséges intelligencia, kiberbiztonság, big data és felhőalapú technológiák); az ipari kutatás magában foglalja komplex rendszerek összetevőinek létrehozását, és beletartozhat a prototípusok laboratóriumi környezetben vagy létező rendszerekhez szimulált interfésszel rendelkező környezetben történő megépítése, valamint kísérleti sorozatok gyártása, amennyiben ez az alkalmazott kutatáshoz és különösen a generikus technológiák ellenőrzéséhez szükséges,
+
+2a.[^7] *Egyszerűsített elszámolási módok:* az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (1) bekezdés b)–d) pontjai szerinti támogatási formák,
+
+3\. *fizetett kutatás-fejlesztés:* az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
+
+4.[^8] *hasznosító vállalkozás:* költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen, valamint a felsőoktatási intézményben létrejött szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
+
+5\. *hazai közfinanszírozású támogatás:* a közfinanszírozású támogatások összessége az európai uniós források kivételével,
+
+6.[^9] *innováció:* egy új vagy továbbfejlesztett termék vagy folyamat, vagy ezek kombinációja, amely jelentősen különbözik a jogi formájától vagy finanszírozási módjától függetlenül az adott szervezet korábbi termékeitől vagy folyamataitól, és amelyet termék esetén a potenciális felhasználók számára elérhetővé tettek, vagy amelyeket folyamat esetén a szervezet használatba vett, továbbá amely lehet
+
+a) *termék innováció:* egy új vagy továbbfejlesztett termék vagy szolgáltatás, amely jelentősen különbözik a vállalkozás olyan termékeitől, szolgáltatásaitól, amelyet már bevezetett a piacra,
+
+b) *üzleti folyamat innováció:* egy vagy több üzleti tevékenységéhez – így különösen a termelés, disztribúció és logisztika, marketing és értékesítés, információs és kommunikációs technológia, az adminisztráció és a menedzsment, termék-, és folyamat fejlesztés – kapcsolódó új vagy továbbfejlesztett üzleti folyamat, amely jelentősen különbözik a vállalkozás korábbi üzleti folyamataitól, és amelyeket a vállalkozás használatba vett,
+
+6a.[^10] *innovatív tevékenység:* jogi formájától vagy finanszírozási módjától függetlenül bármely szervezet azon fejlesztési, pénzügyi és kereskedelmi tevékenysége, amelynek célja, hogy innovációt eredményezzen az adott szervezetszámára,
+
+7.[^11] *kísérleti fejlesztés:* a meglévő tudományos, technológiai, üzleti és egyéb, vonatkozó ismeretek és szakértelem megszerzése, összesítése, alakítása és felhasználása új vagy javított termékek, eljárások vagy szolgáltatások kidolgozása céljából, ide tartozhatnak digitális termékek, eljárások vagy szolgáltatások, bármilyen területről, technológiából, iparágból vagy ágazatból (beleértve, de nem kizárólagosan a digitális iparágakat és technológiákat is, mint például a szuperszámítógépek, kvantumtechnológiák, blokklánc-technológiák, mesterséges intelligencia, kiberbiztonság, big data és felhőalapú vagy peremtechnológiák),
+
+8\. *konzorcium:* a részes felek polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködés kutatás-fejlesztési és innovációs tevékenység közös folytatása vagy egy kutatás-fejlesztési és innovációs projekt közös megvalósítása céljából,
+
+9\. *költségvetési kutatóhely:* alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató költségvetési szerv,
+
+10\. *közfinanszírozású támogatás:* az államháztartásról szóló törvény szerinti költségvetési támogatás, ideértve az európai uniós forrásokat is, továbbá az állami részvétellel létrejött nemzetközi szerződések alapján kapott külföldi támogatás,
+
+11\. *kutatás-fejlesztés:* magában foglalja az alapkutatást, az alkalmazott kutatást és a kísérleti fejlesztést,
+
+12.[^12] *kutatás-fejlesztési és innovációs eredmények hasznosítása:* üzleti céllal, gazdasági eredmény reményében történő felhasználás, továbbá az olyan közösségi célú felhasználás, amelynek eredménye a lakosság életminőségének és a közszolgáltatások minőségének javítása, a természeti és épített környezet védelme, az ország fenntartható fejlődése, valamint védelmi képességének és biztonsági helyzetének javítása,
+
+13.[^13] *kutatás-fejlesztési és innovációs program:* a közfinanszírozású támogatási forrás céljának elérését szolgáló, vagy meghatározott témakörbe csoportosítható kutatás-fejlesztési vagy innovációs projektek megvalósításának támogatására kiírt pályázatok időben megismételt sorozata, illetve támogatási intézkedés,
+
+14\. *kutatás-fejlesztési megállapodás:* két vagy több vállalkozás, illetve vállalkozás és kutatóhely (e pontban a továbbiakban: felek) között létrejött olyan megállapodás, amelynek tárgya
+
+a) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatás-fejlesztés, valamint az ilyen kutatás-fejlesztés eredményeinek közös hasznosítása,
+
+b) ugyanazon részt vevő felek közötti korábbi megállapodás alapján végzett, a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatásfejlesztés eredményeinek közös hasznosítása,
+
+c) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó közös kutatás-fejlesztés, az ebből származó eredmény közös hasznosítása nélkül,
+
+d) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés, valamint az ilyen kutatás-fejlesztés eredményeinek közös hasznosítása,
+
+e) ugyanazon részt vevő felek közötti korábbi megállapodás alapján végzett, a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés eredményeinek közös hasznosítása, vagy
+
+f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatkozó fizetett kutatás-fejlesztés, az ebből származó eredmény közös hasznosítása nélkül,
+
+14a.[^14] *kutatási infrastruktúra:* olyan létesítmények, erőforrások és kapcsolódó szolgáltatások, amelyeket a tudományos közösség az adott területtel kapcsolatos élvonalbeli kutatásához használ; ideértve a tudományos berendezéseket és eszközöket, a tudásalapú erőforrásokat – így különösen gyűjteményeket, archívumokat vagy strukturált tudományos információkat –, az infokommunikációs technológiai infrastruktúrákat – így különösen adat- és számítástechnikai rendszereket, szoftvereket, kommunikációs hálózatokat –, valamint a kutatás kiválóságának eléréséhez szükséges bármilyen más egyedi eszközöket, amelyek lehet egy helyszínre telepítettek vagy megosztottak, hálózatba szervezett erőforrások az európai kutatási infrastruktúráért felelős konzorcium (ERIC) közösségi jogi keretéről szóló, 2009. június 25-i 723/2009/EK tanácsi rendelet 2. cikke a) pontjának megfelelően,
+
+15\. *kutató-fejlesztő:* az a természetes személy, aki új ismeret, szellemi alkotás, termék, szolgáltatás, eljárás, módszer, rendszer létrehozásával, fejlesztésével vagy ezt célzó projektek megvalósításának irányításával foglalkozik,
+
+16\. *kutatóhely:* alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató intézmény, szervezeti egység vagy vállalkozás,
+
+16a.[^15] *kutató-tudásközvetítő szervezet:* jogi formájától vagy finanszírozási módjától függetlenül olyan szervezet, így különösen egyetem vagy kutatóintézet, technológiatranszfer-ügynökség, innovációs közvetítő, valós vagy virtuális együttműködést kínáló kutatásorientált szervezet, amelynek elsődleges célja a független tevékenységként végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés, vagy e tevékenységek eredményeinek oktatása, közzététele vagy tudástranszfer útján széles körben történő terjesztése, azzal, hogy amennyiben gazdasági tevékenységet is végez, úgy a gazdasági tevékenységek finanszírozását, a gazdasági tevékenységekkel járó költségek és az abból származó bevételek elszámolását elkülönítve végzi,
+
+17\. *mikro-, kis- és középvállalkozás:* a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 3. §-a szerinti mikro-, kis- és középvállalkozás,
+
+17a.[^16] *nemzeti laboratórium:* felfedező és kísérleti megközelítésű kutatásoknak új, nemzetközi dimenzióját nyitó, együttműködésen alapuló, intézményesülő, dinamikus színtér a kutatási eredmények társadalmi, gazdasági, környezeti hasznosítására,
+
+18.[^17] *nonprofit közhasznú kutatóhely:* az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
+
+19\. *projekt:* meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
+
+19a.[^18] *projektcsoport:* a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
+
+19b.[^19] *prototípus:* olyan eredeti modell, amelyet úgy alakítanak ki, hogy magán hordozza egy új termék minden műszaki jellemzőjét és teljesítményét,
+
+20.[^20] *szellemi tulajdon:* a szellemi alkotásokra és egyes teljesítményekre, az árujelzőkre (védjegyek és földrajzi árujelzők) a szerzői jogi és iparjogvédelmi törvényben, a védett ismeretekre nézve az üzleti titok védelméről szóló törvényben, továbbá az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és nemzetközi egyezmények által biztosított jogi oltalom,
+
+21.[^21] *szellemi alkotás:* az az alkotás, illetve műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve az üzleti titok védelméről szóló törvény által oltalomban részesített védett ismeretet is,
+
+21a.[^22] *technológia transzfer:* a technológia átadásának folyamata, amely során a technológia a terjesztési csoportoktól és helyektől több emberhez és helyhez kerül elosztásra,
+
+21b.[^23] *tudástranszfer:* a tudás megosztása vagy terjesztése és a problémamegoldás új ismeretekkel történő támogatása a tudás maximális hasznosulása érdekében,
+
+22\. *vállalkozás:* a Kkv. tv. 19. § 5. pontjában meghatározott vállalkozás.
+
+## II. Fejezet — A KUTATÁS-FEJLESZTÉS ÉS AZ INNOVÁCIÓ KORMÁNYZATI FELADATAI
+
+#### 4. §
+
+(1) A Kormány
+
+a) megalkotja a középtávú tudományos kutatási, fejlesztési és innovációs stratégiát (a továbbiakban: KFI stratégia),
+
+b) javaslatot tesz az Országgyűlésnek a KFI stratégia céljainak megvalósításához szükséges forrásokra,
+
+c)[^24] gondoskodik a KFI stratégia sikere érdekében az állami finanszírozású kutatóintézeti hálózat egységes intézményrendszerének létrehozásáról, működtetéséről és finanszírozásáról, továbbá szükség szerinti új kutatóhelyek létesítéséről és támogatásáról,
+
+d) elősegíti az Európai Unió programjaiban és más nemzetközi kutatás-fejlesztési és innovációs együttműködésekben történő magyar részvételt,
+
+e)[^25] ösztönzi a vállalkozásokat kutatás-fejlesztés és innováció eredményeinek létrehozására (ideértve a termék innovációt és az üzleti folyamat innovációt is), a hazai és külföldi kutatás-fejlesztési és innovációs eredmények hasznosítására (ideértve a technológia transzferen és a tudástranszferen keresztül történő hasznosítást is),
+
+f) tudomány- és gazdaságdiplomáciai eszközökkel elősegíti a Magyarországon létrehozott kutatás-fejlesztési és innovációs eredmények – hazai érdekekkel összhangban álló – külföldi hasznosítását,
+
+g)[^26] programokat, intézkedéseket kezdeményez a kutatás-fejlesztés és innováció hazai infrastruktúrájának kiépítésére, a nyílt tudományos digitális adatállományok, adattárházak létrehozását szolgáló eszközök fejlesztésére, valamint a nemzetgazdasági jelentőségű kutatás-fejlesztési és innovációs feladatok megoldására, különös figyelemmel az ipar, a gazdaság és a társadalom digitális átalakulását célzó programok felkarolására, a mesterséges intelligencia kihívásainak és elterjesztésének támogatására,
+
+h) gondoskodik a programok és projektek közfinanszírozású támogatására fordított források összehangolását, számbavételét, átláthatóságát teljeskörűen és egységes rendben biztosító, a nyilvánosság tájékoztatásához és az ország nemzetközi adatszolgáltatási kötelezettségei teljesítéséhez szükséges tervezési, felhasználási és elszámolási szabályok kialakításáról és alkalmazásáról,
+
+i)[^27] a tudománypolitika koordinációjáért felelős miniszteren keresztül koordinálja a tudományos és technológiai diplomáciai tevékenységet,
+
+j)[^28] közfinanszírozású támogatás útján támogatja az innovatív vállalkozásokat és az innovatív tevékenységet folytató gazdasági szereplőket,
+
+k)[^29] a kutatás-fejlesztés és a technológiai innováció közfinanszírozású támogatásának eszközével ösztönzi a digitális ökoszisztéma fejlődését.
+
+l)[^30] közfinanszírozású támogatás útján gondoskodik a nemzeti laboratóriumok hazai rendszerének kialakításáról és működésük támogatásáról.
+
+(2)[^31] A Kormány a kutatási-fejlesztés és az innováció közfinanszírozású támogatásával kapcsolatos feladatokat a tudománypolitika koordinációjáért felelős miniszter útján látja el.
+
+(3) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatását elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból (a továbbiakban: NKFI Alap) biztosítja. A Kormány által az NKFI Alapból központilag biztosított személyi jellegű kutatói pályázatok nem foglalják magukban a felsőoktatási intézmények doktori iskoláiban doktori képzésben részt vevők állami ösztöndíját.
+
+#### 5. §[^32]
+
+(1)[^33] A tudománypolitika koordinációjáért felelős miniszter koordinálásával a miniszterek, a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke és a HUN-REN Magyar Kutatási Hálózat (a továbbiakban: HUN-REN) elnöke feladatkörükben részt vesznek a kormányzati KFI stratégia és eszközrendszere kidolgozásában, valamint megvalósításában.
+
+(2)[^34] A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke feladatkörükben együttműködve
+
+a) irányítják, felügyelik az általuk irányított fejezetbe sorolt költségvetési kutatóhelyeket,
+
+b) gondoskodnak az általuk irányított fejezetbe sorolt előirányzatok terhére támogatott kutatás-fejlesztési és innovációs programok értékeléséről,
+
+c)[^35]
+
+d)[^36]
+
+e)[^37]
+
+(2a)[^38] A miniszterek, a Kormány által kijelölt szerv vezetője, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve
+
+a) ellátják a nemzetközi szerződésekből rájuk háruló kutatás-fejlesztési és innovációs feladatokat,
+
+b) elősegítik a kutatás-fejlesztési és innovációs eredmények hasznosítását, kutatás-fejlesztési célú szakmai együttműködések és innovációs hálózatok kialakítását, működését,
+
+c) a szakterületükre irányuló támogatott kutatás-fejlesztési és innovációs programok tekintetében részt vesznek a tartalmi követelmények, a támogatási feltételek és az értékelési mutatók meghatározásában.
+
+(3)[^39] A miniszterek, az MTA elnöke és a HUN-REN elnöke feladatkörükben együttműködve a tudománypolitika koordinációjáért felelős miniszter véleményének kikérésével gondoskodnak a felelősségi körükbe tartozó kutatás-fejlesztési és innovációs feladatok ellátásához szükséges források tervezéséről, rendelkezésre bocsátásáról, kezeléséről és felhasználásáról, valamint annak ellenőrzéséről.
+
+#### 6. §[^40]
+
+(1)[^41] A Kormány – a Magyar Kreatívipari Tanács útján – elősegíti a hazai kreatívipari ágazat fejlesztését, valamint a kreatívipari alkotók, vállalkozások és gyártók helyzetének javítását. A Magyar Kreatívipari Tanácsot a Kormány által kijelölt szerv működteti.
+
+(2)[^42] A Magyar Kreatívipari Tanács feladatainak, szervezetének és működésének részletes szabályait a Kormány rendeletben állapítja meg.
+
+## III. Fejezet[^43]
+
+### 4.
+
+### 5.
+
+### 6.
+
+## III/A. Fejezet[^44] — A NEMZETI TUDOMÁNYPOLITIKAI TANÁCS
+
+### 6/A. A Nemzeti Tudománypolitikai Tanács jogállása és feladatai
+
+#### 10/A. §
+
+(1) A Nemzeti Tudománypolitikai Tanács (a továbbiakban: NTT) az NKFI Alap működésének szakmai felügyeletében közreműködő és a Kormány kutatás-fejlesztési és innovációs tevékenységét támogató véleményező testület.
+
+(2)[^45] Az NTT 12 tagból áll. Az NTT elnöke a tudománypolitika koordinációjáért felelős miniszter. Az NTT társelnökét és további tagjait – az elnök javaslatára – a miniszterelnök kéri fel, nevezi ki és vonja vissza kinevezésüket. A kinevezés három évre szól és több alkalommal meghosszabbítható. A kinevezett tagokat a hazai állami, gazdasági és tudományos szféra meghatározó szereplői közül kell kiválasztani a következők szerint: három tagot a gazdasági szféra, négy tagot a tudományos szféra és három tagot az állami szféra szereplői közül, egy tagot pedig a HUN-REN tagjai közül kell kinevezni.
+
+#### 10/B. §
+
+Az NTT
+
+a) véleményt nyilvánít az NKFI Alap felhasználásainak elveiről, módjáról, valamint a Kormány által jóváhagyott szakpolitikai stratégiákkal összhangban javaslatot tesz a támogatandó kutatási főirányokra, tématerületekre,
+
+b) véleményezi az NKFI Alap éves programstratégiáját, versenypályázati felhívásait és éves szakmai beszámolóját, figyelemmel kíséri az NKFI Alap felhasználását,
+
+c) ajánlásokat fogalmaz meg és állást foglal a kutatás-fejlesztéssel és az innovációval összefüggő, stratégiai jelentőségű kérdésekről,
+
+d) véleményezi az elé terjesztett szakpolitikai dokumentumokat,
+
+e) véleményezi a kutatás-fejlesztéssel és az innovációval összefüggő jogszabályok, intézkedések tervezetét,
+
+f) – a tudománypolitika koordinációjáért felelős miniszter útján – javaslatot tesz a Kormány részére a kutatás-fejlesztés és az innováció jogszabályi környezetének kialakítására és módosítására.
+
+### 6/B. A Nemzeti Tudománypolitikai Tanács működése
+
+#### 10/C. §[^46]
+
+Az NTT működésével kapcsolatos titkársági feladatokat a Kormány által kijelölt szerv látja el tudománypolitika koordinációjáért felelős miniszter szakmai felügyelete mellett.
+
+## III/B. Fejezet[^47] — A KUTATÁSI KIVÁLÓSÁGI TANÁCS
+
+### 6/C. A Kutatási Kiválósági Tanács jogállása, feladatai, működése
+
+#### 10/D. §
+
+(1)[^48] A Kutatási Kiválósági Tanács (a továbbiakban: KKT) a kiválósági alapú, az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggő feladatok ellátását végző döntés-előkészítő testület.
+
+(1a)[^49] A KKT tesz javaslatot az NKFI Alap éves programstratégiájában a Kutatási Alaprész keretében meghirdetendő pályázatokra és azok keretösszegére a tudománypolitika koordinációjáért felelős miniszter által meghatározott pénzügyi keretek alapján.
+
+(2) A KKT hét tagból áll. A KKT elnökére és tagjaira a tudománypolitika koordinációjáért felelős miniszter, a HUN-REN elnöke, valamint az MTA elnöke közös javaslatot tesz. A KKT elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter kéri fel, nevezi ki és vonja vissza a kinevezésüket. A kinevezés 6 évre szól és egy alkalommal meghosszabbítható. A KKT elnöke és tagjai tiszteletdíjra jogosultak, amelyet a tudománypolitika koordinációjáért felelős miniszter állapít meg.
+
+(3)[^50] A KKT munkáját titkárság segíti. A KKT működési költségeit az NKFI Alap Kutatási Alaprész terhére szükséges biztosítani.
+
+(4) A KKT a munkájának segítése céljából testületeket hozhat létre.
+
+## IV. Fejezet — A NEMZETI KUTATÁSI, FEJLESZTÉSI ÉS INNOVÁCIÓS ALAP
+
+### 7. Az NKFI Alap rendeltetése és kezelése
+
+#### 11. §
+
+(1) Az NKFI Alap a kutatás-fejlesztés és az innováció állami támogatását biztosító és kizárólag ezt a célt szolgáló, az államháztartásról szóló törvény szerinti elkülönített állami pénzalap.
+
+(2)[^53] Az NKFI Alap rendeltetése kiszámítható és biztos forrást biztosítani a kutatás-fejlesztés és a gazdaságban hasznosuló innováció ösztönzésére és támogatására, lehetővé tenni a gazdaságban és a társadalmi élet egyéb területein hasznosuló kutatás és fejlesztés erősítését, a kutatási eredmények hasznosítását, erősíteni a nemzetközi kutatás-fejlesztési és innovációs együttműködéseket, fejleszteni a kutatás-fejlesztési és innovációs infrastruktúrát és annak körébe tartozó szolgáltató tevékenységeket.
+
+(3)[^54] Az NKFI Alap kezeléséért a tudománypolitika koordinációjáért felelős miniszter felelős, az NKFI Alap kezelő szerve a Kormány által kijelölt szerv, amely szerv kezelő szervi feladatainak ellátásában a Kormány által kijelölt gazdasági társaság működhet közre (a továbbiakban együtt: NKFI Alap kezelését végző szervek).
+
+(4)[^55] A tudománypolitika koordinációjáért felelős miniszter az NKFI Alap éves programstratégiájában a 13. § (1) bekezdés a) pontja szerinti egyes felhívásokkal összefüggő feladatok ellátására az államháztartásról szóló 2011. évi CXCV. törvény 49. §-a szerinti lebonyolító szervet jelölhet ki.
+
+(5)[^56] A (4) bekezdés szerinti lebonyolító szervvel a fejezetet irányító szerv nevében a Kormány által kijelölt szerv köti meg az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerinti megállapodást.
+
+(6)[^57] Az NKFI Alap Innovációs, Kutatási és Missziók Alaprészből áll.
+
+### 8. Az NKFI Alap bevételi forrásai és kiadásai
+
+#### 12. §
+
+(1) Az NKFI Alap bevételi forrásai:
+
+a)[^58] az innovációs járulékfizetésre kötelezettek által befizetett innovációs járulék,
+
+b) a központi költségvetésből biztosított központi támogatás,
+
+c) az NKFI Alap – tárgyévet megelőző – költségvetési maradványa,
+
+d) belföldi vagy külföldi természetes személyek és jogi személyek által teljesített befizetések, önkéntes befizetések, adományok, segélyek,
+
+e) nemzetközi szervezetektől, intézményektől származó támogatások,
+
+f) egyéb bevételek.
+
+(2)[^59] Az NKFI Alap – a 10/D. § (1a) bekezdésében foglaltakra figyelemmel elkészített – éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter – az NTT elé. Az NKFI Alap éves programstratégiáját a tudománypolitika koordinációjáért felelős miniszter – az NTT véleményének kikérését követően – hagyja jóvá. A tudománypolitika koordinációjáért felelős miniszter a jóváhagyott programstratégiának megfelelően gondoskodik az NKFI Alap előirányzat-felhasználási tervének elkészítéséről és módosításáról.
+
+(3)[^60] Az NKFI Alap tárgyévi kiadási előirányzatának 15%-át meghaladó mértékű módosítása esetén a (2) bekezdésben meghatározottak szerint kell eljárni.
+
+#### 13. §[^61]
+
+(1) Az NKFI Alap terhére visszatérítendő és vissza nem térítendő közfinanszírozású támogatás
+
+a)[^62] pályázat vagy kiemelt felhívás (a továbbiakban együtt: pályázat) útján;
+
+b) a (3) bekezdés szerinti egyedi támogatási kérelem alapján;
+
+c) jogszabály, kormányhatározat, nemzetközi szerződésből fakadó kötelezettség alapján, valamint
+
+d) a (4) bekezdésben határozott jogcímeken
+
+nyújtható.
+
+(2)[^63] A pályázatokat az e törvényben meghatározottak szerint kell értékelni. A pályázat támogatására – amennyiben e törvény másként nem rendelkezik – a Kormány által kijelölt szerv vezetője által összehívott – az egyes Alaprészek tekintetében 25. § (2) bekezdés, a 29. § (2) bekezdés, illetve a 29/B. § (2) bekezdés szerinti – testület tesz javaslatot. A támogatási döntést – a 12. § (2) bekezdése szerint jóváhagyott programstratégiában foglaltakra figyelemmel –
+
+a) az Innovációs Alaprész és a Missziók Alaprész tekintetében a tudománypolitika koordinációjáért felelős miniszter, illetve
+
+b) a Kutatási Alaprész tekintetében a Kormány által kijelölt szerv kormányrendeletben meghatározott tudományos vezetője
+
+hozza meg.
+
+(3) Az NKFI Alap terhére közfinanszírozású támogatás nyújtásáról egyedi támogatási kérelem alapján a tudománypolitika koordinációjáért felelős miniszter saját hatáskörben dönthet az NKFI Alap tárgyévi kiadási előirányzatának 3 %-át meg nem haladó mértékben.
+
+(4) Az NKFI Alap terhére biztosítható
+
+a) a Kormány kutatás-fejlesztéssel és innovációval foglalkozó intézkedéseinek – ideértve nagy kutatás-fejlesztési és innovációs infrastruktúrák fejlesztését célzó beruházásokat – finanszírozása,
+
+b) újdonságtartalommal rendelkező – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs infrastrukturális fejlesztések támogatása,
+
+c) európai uniós vagy egyéb nemzetközi együttműködés keretében megvalósuló – a Kormány által jóváhagyott – kutatás-fejlesztési és innovációs projektek és infrastrukturális beruházások, valamint működtetésük támogatása,
+
+d) a Kormány által jóváhagyott, az NKFI Alap forrásai terhére megvalósítandóként nevesített, nemzetgazdasági növekedést és a kutatás-fejlesztési és innovációs kapacitásnövekedést elősegítő projektek, programok és ösztöndíjak támogatása,
+
+e) a kutatás-fejlesztés és innováció területén működő nemzetközi szervezetekben, valamint a nemzetközi kutatás-fejlesztési és innovációs infrastruktúrákban és konzorciumokban való magyar részvétel tagdíjának és egyéb tagdíj jellegű befizetéseinek a finanszírozása,
+
+f) a tudomány-, a kutatás-fejlesztési és az innovációpolitika megalapozását szolgáló elemzések és adatbázisok létrehozása és kezelése,
+
+g) az országos kutatás-fejlesztési és innovációs támogatási programok tervezésének megalapozását szolgáló elemzések, tanulmányok, módszertanok, értékelések, koncepciók és stratégiák elkészítése, valamint a támogatási programok monitorozása és értékelése,
+
+h) az Elektronikus Információszolgáltatás Nemzeti Program keretében beszerzett tudományos tartalmak, folyóiratok, leíró és egyéb adatbázisok előfizetési díja, valamint az Elektronikus Információszolgáltatás Nemzeti Program működési költsége.
+
+(5) A Kormány által kijelölt szerv nemzetközi tagdíjakkal kapcsolatos fizetési kötelezettségeihez az NKFI Alap pénzeszköz átadással hozzájárul.
+
+#### 14. §[^64]
+
+(1) Az NKFI Alap kezelése során felmerülő – így különösen elemzések, koncepciók, támogatási stratégiák, programok, projektek készítésével, pályázatok megismertetésével és elbírálásával, szerződések előkészítésével, megkötésével és lebonyolításával, nyilvántartásuk egyes tárgyi és személyi feltételeivel, az ellenőrzéssel és értékeléssel, a kutatás-fejlesztési és innovációs ökoszisztéma koordinálásával és az innovációs kultúra elterjesztésével kapcsolatos – költségeket az NKFI Alap biztosítja.
+
+(2) Az NKFI Alap kezelésével kapcsolatos költségek nem haladhatják meg az NKFI Alap tárgyévi eredeti kiadási előirányzatának 4,5%-át, amelynek az NKFI Alap kezelését végző szervek közötti tárgyévi megoszlásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A tudománypolitika koordinációjáért felelős miniszter döntése alapján a megoszláshoz kapcsolódó egyéb kérdéseket az NKFI Alap kezelését végző szervek egymás között megállapodásban rögzítik.
+
+(3) Az NKFI Alap kezelésével kapcsolatos költségek kiadási előirányzatának kezelése az előirányzaton belül elkülönítetten történik.
+
+(4)[^65] Az NKFI Alap terhére meghirdetett pályázati felhívásokra benyújtott pályázatok és azok megvalósításának értékelése során – az NKFI Alap kezelésével kapcsolatos költségeken felül – az adott pályázati felhívás keretösszegének legfeljebb 1%-a az értékelés költségeire fordítható.
+
+### 9. Az innovációs járulék
+
+#### 15. §
+
+(1)[^66] A belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság és a külföldi székhelyű vállalkozásnak a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) szerinti telephelye (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
+
+(2) Mentes a járulék fizetésének kötelezettsége alól:
+
+a)[^67] a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
+
+b) a Magyar Nemzeti Bank,
+
+c)[^68] a Magyar Nemzeti Vagyonkezelő Zrt.,
+
+d) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság,
+
+e) a cégbejegyzés évében a jogelőd nélkül alapított gazdasági társaság és annak előtársasága,
+
+f) a közhasznú nonprofit gazdasági társaság,
+
+g) a járulékfizetésre kötelezett, de felszámolási vagy kényszertörlési eljárás alatt álló gazdasági társaság.
+
+(3) Az (1) és (2) bekezdés alkalmazásánál az üzleti év első napján fennálló állapot az irányadó.
+
+#### 16. §
+
+(1)[^69] A járulék alapja
+
+a) a Htv. 39. § (1) bekezdése alapján – a Htv. 39. § (11) és (12) bekezdésére figyelemmel – meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével,
+
+b) az a) ponttól eltérően, ha a járulékfizetésre kötelezett a kisvállalati adó alanya és a helyi iparűzési adó alapját a Htv. 39/B. § (1) bekezdése szerint állapítja meg, akkor választása szerint a Htv. 39/B. § (1) bekezdése alapján meghatározott adóalap, figyelemmel a Htv. 39/B. § (3) bekezdésére is.
+
+(2) A járulék mértéke az (1) bekezdés szerinti járulékalap 0,3%-a.
+
+(3)[^70] A járulékfizetésre kötelezett a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
+
+(4)[^71] Az adóévben járulékfizetésre kötelezettnek háromhavonként (a továbbiakban: előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (6) bekezdés alapján meghatározott járulékelőleg egynegyede.
+
+(5) A járulékfizetésre kötelezettnek – a (8) bekezdésben foglaltak kivételével – a járulékbevallással egyidejűleg a járulékbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra járulékelőleget kell bevallania az előlegfizetési időszakokra eső egyenlő részletek feltüntetésével.
+
+(6) A járulékelőleg
+
+a) az adóévet megelőző adóév fizetendő járulékának összege, ha az adóévet megelőző adóév időtartama 12 hónap volt,
+
+b) az a) ponttól eltérő esetben az adóévet megelőző adóév fizetendő járulékának a működés naptári napjai alapján 12 hónapra számított összege.
+
+(7) Az átalakulás napjától számított 30 napon belül a jogutód köteles a jogelőd által bevallott járulékelőlegből számított (az átalakulás formájától függően azzal egyező, összesített, megosztott) járulékelőleget bevallani, és ennek alapján köteles a bevallás esedékességének napjától az adóévet követő hatodik hónap utolsó napjáig járulékelőleget fizetni. Kiválás esetén a fennmaradó gazdasági társaság e rendelkezés alkalmazásában jogutódnak is minősül.
+
+(8) Nem kell járulékelőleget bevallania a járulékfizetésre kötelezettnek megszűnésekor, továbbá, ha járulékbevallást a cégbejegyzési eljárás befejezése miatt ad be.
+
+(9) A járulékfizetésre kötelezettnek a járulékfizetési kötelezettség keletkezésének évében a (3)–(6) bekezdés megfelelő alkalmazásával az adóévet megelőző adóév adatai alapján kell járulékelőlegét megállapítania és arról az adóév ötödik hónapjának utolsó napjáig járulékelőleg-bevallást benyújtania. A járulékfizetési kötelezettség keletkezése évének első két előlegfizetési időszakára vonatkozóan az adózó az előlegfizetéssel egyidejűleg bevallást tesz. Az előleg mértéke a járulék várható éves összegének időarányos része. Nem lehet járulékelőleget bevallani arra a negyedévre és a negyedév azon naptári hónapjára, amelyre az adózó már vallott be járulékelőleget.
+
+(10)[^72] A járulék alapjának az (1) bekezdés b) pontja szerinti megállapítása – a jogosultság fennállása esetén – adóévre választható. A választás bejelentését az adóévről szóló bevallásban legkésőbb az annak benyújtására előírt határidőig kell megtenni az állami adóhatóságnál.
+
+(11)[^73] A befizetett előleg és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
+
+(12)[^74] A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+
+(13)[^75] A járulékfizetésre kötelezett a járulékot az üzleti évre (adóévre) állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
+
+(14)[^76] Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.
+
+#### 17. §
+
+A járulékot az állami adóhatósághoz kell befizetni, amely a befizetett járulékot jogszabályban szabályozott módon utalja át az NKFI Alapnak a kincstárnál vezetett számlájára.
+
+## V. Fejezet — A KUTATÁS-FEJLESZTÉS ÉS AZ INNOVÁCIÓ HAZAI KÖZFINANSZÍROZÁSÚ TÁMOGATÁSA, AZ ORSZÁGOS KUTATÁSI ÉS INNOVÁCIÓS TÁMOGATÁSI ADATBÁZIS[^77]
+
+### 10. Közös szabályok
+
+#### 18. §[^78]
+
+A hazai közfinanszírozású támogatások hatékony hasznosulása érdekében előnyben kell részesíteni azokat a kutatás-fejlesztési és innovációs projekteket, amelyek
+
+a) alapvető tudományos és technológiai áttörést hozó eredményeket ígérnek,
+
+b) megvalósításából származó eredmények a közvetlen gazdálkodói érdekeltség körén túl, nemzetgazdasági vagy társadalmi szinten is jelentkeznek,
+
+c)[^79] közvetlenül hozzájárulnak a magyar gazdaság versenyképességéhez, illetve a digitális ökoszisztéma fejlődéséhez,
+
+d)[^80] költségvetési kutatóhely és vállalkozás, valamint felsőoktatási intézmény, kutató-tudásközvetítő szervezet és vállalkozás együttműködését igénylik,
+
+e)[^81] regionális, illetve határon átnyúló és nemzetközi kutatás-fejlesztési és innovációs együttműködést valósítanak meg,
+
+f)[^82] a kutatás-fejlesztés és innováció területén, ideértve a kapcsolódó köznevelést, a szakképzést, a felsőoktatást és a felnőttképzést, humánerőforrás-bővítést jelentenek,
+
+g) a kutatás-fejlesztésben és innovációban foglalkoztatottak szakmai, illetve vállalkozási felkészültségének javítását szolgálják,
+
+h) a kutatás-fejlesztés és az innováció infrastruktúráját regionális, illetve nemzetgazdasági szinten fejlesztik,
+
+i) résztvevői korábban eredményes kutatás-fejlesztési, illetve innovációs tevékenységet végeztek, így különösen:
+
+ia) jelentős nemzetközi visszhangot kiváltott kutatás-fejlesztési eredményeket értek el,
+
+ib) kutatás-fejlesztési eredményeik alkalmazásával a nemzetközi versenyképességet számottevően javító innovációt valósítottak meg,
+
+ic) kutatás-fejlesztési eredményeikre iparjogvédelmi oltalmat szereztek, és azt fenntartották, hasznosították,
+
+j)[^83] hatékonyan és közvetlenül hozzájárulnak a nemzetközi szinten is felmerülő társadalmi, környezeti, gazdasági problémák megoldásához, kezeléséhez.
+
+#### 19. §
+
+A közfinanszírozású támogatások elnyerésére irányuló pályázati eljárások során a következő követelményeket kell érvényesíteni:
+
+a) a támogatásban részesíthetők körét, a pályázat értékelésének szempontjait a pályázati kiírásban meg kell határozni,
+
+b) a pályázathoz és a szerződéskötéshez, valamint a hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartása céljából működtetett nyilvántartási rendszerhez nyújtott adatszolgáltatás tartalmi és formai követelményeit – az azonos tartalmú, többszörös adatszolgáltatás elkerülése érdekében – össze kell hangolni,
+
+c) a mikro-, kis- és középvállalkozások számára az általánostól eltérő pályázati feltételeket lehet meghatározni az Európai Unió vonatkozó előírásaival összhangban,
+
+d) a támogatási döntést – a minősített adatok kivételével – nyilvánosságra kell hozni, nem hozható nyilvánosságra azon pályázati kérelem, abban szereplő vagy ahhoz kapcsolódó személyes adat, a pályázó azonosítására alkalmas egyéb adat, támogatási döntés és támogatói okirat, amely
+
+da) nyilvánosságra kerülése honvédelmi vagy nemzetbiztonsági érdeket sért,
+
+db) nem nyilvános kezelése bűncselekmények megelőzése érdekében szükséges,
+
+dc) adat védelme a külügyi kapcsolatokra és nemzetközi szervezetekkel fennálló kapcsolatokra, továbbá a szellemi tulajdonhoz fűződő jogokra tekintettel szükséges, és ennek elérése másként nem lehetséges, valamint
+
+e) a 33. § (1) bekezdésében meghatározott kutatóhely esetében a pályamű és a támogatási szerződés kötelező eleme a nyilatkozat arról, hogy a kutatóhely rendelkezik-e szellemitulajdon-kezelési szabályzattal.
+
+#### 19/A. §[^84]
+
+Az NKFI Alap terhére finanszírozott támogatások költségeinek elszámolása tekintetében a pályázati felhívásban, a támogatási szerződésben vagy a támogatói okiratban meghatározott esetekben és feltételekkel egyszerűsített elszámolási módok is alkalmazhatók.
+
+#### 20. §
+
+(1) Költségvetési kutatóhely nemzetközi szerződés alapján, valamint európai uniós forrásból kapott támogatás esetén az előleggel nem finanszírozott költségek fedezésére támogatásban részesülhet.
+
+(2)[^85] Ha mikro-, kis- és középvállalkozás vagy nonprofit közhasznú kutatóhely kutatás-fejlesztési és innovációs projektjéhez nemzetközi szerződés alapján vagy európai uniós forrásból támogatást kap, és ezen projekt végrehajtása érdekében felmerült költségeinek fedezésére kölcsönt vesz fel, akkor – az állami támogatásokra vonatkozó szabályok betartásával – pályázati úton kamattámogatásban részesülhet.
+
+#### 21. §
+
+(1)[^86] A kutatás-fejlesztési és innovációs támogatási programokban kitűzött célok megvalósítását rendszeresen értékelni kell. Az értékelést a támogató és a jogszabályban, támogatási szerződésben, támogatói okiratban meghatározott személy végzi. Az értékelés során figyelembe kell venni, hogy
+
+a) a 11. alcím szerint nyújtott támogatások esetén az alapkutatási tevékenység finanszírozási modelljét a bizalmi elvre épülő, a bevont egyéni kutatói kiválósághoz, az elért teljesítményhez és a kutatás-fejlesztési eredmények minőségi és mennyiségi jellemzőihez, ezek társadalmi, gazdasági hatásához kötött értékeknek megfelelő, a kutatási programok finanszírozását hosszú távra, fenntartható módon, átfogó minőségbiztosítási rendszer keretében érvényesített támogatás határozza meg,
+
+b) a 12. alcím szerint nyújtott támogatások esetén az alkalmazott kutatás és a kísérleti fejlesztés eredményeinek piaci, kereskedelmi hasznosítását tükröző értékelési szempontokat is alkalmazni kell,
+
+c) a 12/A. alcím szerint nyújtott támogatások esetén a kutatás és a kísérleti fejlesztés eredményeinek társadalmi, gazdasági, környezeti hasznosítását, valamint a kialakított kutatás-fejlesztési együttműködések minőségét és mennyiségét tükröző értékelési szempontokat is alkalmazni kell,
+
+d) a kutatás-fejlesztési infrastruktúrák értékelési szempontjait – erre vonatkozó fogalmi rendszer és értékelési módszertan alapján – a Kormány által kijelölt szerv által koordinált értékelő testület határozza meg.
+
+(2)[^87] A programértékelés költségeit a programok forrásából kell elkülöníteni.
+
+(3) A programértékelés eredményét nyilvánosságra kell hozni.
+
+#### 22. §
+
+(1)[^88] A közfinanszírozású kutatás-fejlesztési és innovációs projektek eredményességét, valamint a projekt céljának és jellegének megfelelő gazdasági és társadalmi hasznosulását – amennyiben azt be kellett nyújtani – az államháztartásról szóló törvény szerinti beszámoló alapján a projekt lezárása után értékelni kell, az értékelésről a pályázat kiírója gondoskodik.
+
+(2)[^89] A projektértékelés költségeit a programok forrásából kell elkülöníteni.
+
+(3)[^90] A projektértékelés eredményét – nem veszélyeztetve az iparjogvédelmi oltalom megszerzését és a kedvezményezett üzleti érdekeit – nyilvánosságra kell hozni.
+
+#### 22/A. §[^91]
+
+A nyertes pályázóval a Kormány által kijelölt szerv köt támogatási szerződést vagy ad ki támogatói okiratot.
+
+#### 22/B. §[^92]
+
+Az értékelő testületek számát és összetételét úgy kell meghatározni, hogy a benyújtott pályázatok elfogulatlan, szakszerű és a pályázati kiírásban megadott határidőn belüli értékelése elvégezhető legyen. Az NKFI Alap egyes Alaprészeiből meghirdetett pályázatok értékelésében közreműködő értékelő testületek elnökei, tagjai és a pályázók számára nem megismerhető személyazonosságú szakértők (a továbbiakban: anonim szakértők) a munkájukért díjazásban részesülhetnek. A díjazás feltételeit és összegét a Kormány által kijelölt szerv – a Kutatási Alaprész vonatkozásában a KKT egyetértésével – állapítja meg.
+
+#### 22/C. §[^93]
+
+Az NKFI Alap kezelését végző szervek az NKFI Alap terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, valamint az anonim szakértők vagy a 25. § (3) bekezdésében, a 29. § (3) bekezdésében, illetve a 29/B. § (4) bekezdésében foglaltak alkalmazása esetében a szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezelik.
+
+#### 22/D. §[^94]
+
+(1) Ha a kutatás feltételeit valamely szervezet biztosítja, az e törvény szerinti közfinanszírozású támogatás összegét a közszolgáltatások díjai, az üzemeltetési költségek és a szervezetnél az elnyert pályázat intézményi kezelésével összefüggő költség kivételével, a Kormány rendeletében meghatározottak szerint a kedvezményezett rendelkezési jogának biztosításával köteles a szervezet kezelni.
+
+(2) Az NKFI Alapból nyújtott támogatásra kiírt pályázat nyertese által a közfinanszírozású támogatásból beszerzett tárgyi eszközöket, készleteket a támogatási szerződés hatálya alatt a kutatás feltételeit biztosító szervezet eszköznyilvántartásába kell venni és tartani.
+
+(3) E törvény szerinti közfinanszírozású támogatás biztosítása érdekében kötött támogatási szerződés, kiadott támogatói okirat időtartamán belül az eredetileg jóváhagyott támogatás maradványa a következő évre átvihető.
+
+#### 22/E. §[^95]
+
+Amennyiben egy felhívás lebonyolítását az NKFI Alap kezelésében a 11. § (3) bekezdése szerinti NKFI Alap kezelését végző szervek végzik, akkor a Kormány által kijelölt szervnek a 13. § (2) bekezdése, 25. § (1) és (2) bekezdése, valamint a 27. § szerinti feladatait ezen szerv vagy gazdasági társaság látja el azzal, hogy
+
+a) a felhívást a Kormány által kijelölt szerv honlapján is közzé kell tenni,
+
+b) a 25. § (2) bekezdése szerinti értékelő testületek és szakértői csoportok tagjaival, valamint az anonim szakértőkkel a Kormány által kijelölt szerv köt megbízási szerződést,
+
+c) a b) pont szerinti esetben sem lehet eltérni a 22/B. § szerinti rendelkezésektől.
+
+### 10/A.[^96] Az Országos Kutatási és Innovációs Támogatási Adatbázis
+
+#### 23. §
+
+(1)[^97] Az NKFI Alap kezelését végző szervek
+
+a) az általuk kezelt közfinanszírozású támogatással megvalósuló projektek
+
+b) az egyéni kutatói kiválóságon alapuló, alapkutatásra, alkalmazott kutatásra, valamint kísérleti fejlesztésekre irányuló, pályázat útján biztosított közfinanszírozású támogatások és ösztöndíjak (ide nem értve a doktori képzésben résztvevők állami ösztöndíját)
+
+nyilvántartása céljából, országos kutatási és innovációs támogatási adatbázisként saját informatikai nyilvántartási rendszert működtetnek vagy kötelesek csatlakozni olyan informatikai rendszerhez, amely alkalmas az 1. mellékletben meghatározott adatok fogadására, tárolására és kezelésére.
+
+(2)[^98] Az (1) bekezdés szerinti nyilvántartási rendszer részére
+
+a) az NKFI Alap terhére közfinanszírozású támogatásban részesített, valamint
+
+b) az (1) bekezdés b) pontja szerinti támogatás biztosítója
+
+az 1. mellékletben meghatározott adatokat köteles szolgáltatni. Az adatszolgáltató az 1. melléklet 1–10. pontjában meghatározott adatokat a projekt megkezdésekor, ha azokban változás következett be, a változástól számított 30 napon belül szolgáltatja. Az 1. melléklet 11–15. pontjában meghatározott adatokat kizárólag a projekt befejezésekor kell szolgáltatni.
+
+(3)[^99] A nyilvántartási rendszer adatbázisában szereplő adatok – ha az adat nyilvánosságát jogszabály vagy jogszabályban meghatározottak szerint az arra jogosult szerv vagy személy nem korlátozza – nyilvánosak.
+
+(4)[^100] Az (1) bekezdésben foglalt nyilvántartással összefüggésben – a projekttel kapcsolatos jogok és kötelezettségek teljesítésének biztosítása érdekében – a következő személyes adatokat kezelik:
+
+a) természetes személy esetében a kedvezményezett:
+
+aa) nevét,
+
+ab) születési nevét,
+
+ac) anyja nevét,
+
+ad) születési helyét, idejét,
+
+ae) adóazonosító jelét,
+
+af) lakóhelyét,
+
+ag) tartózkodási helyét,
+
+ah) értesítési e-mail címét,
+
+ai) telefonszámát,
+
+aj) fizetési számláját kezelő pénzforgalmi szolgáltató megnevezését,
+
+ak) bankszámlaszámát;
+
+b) nem természetes személy kedvezményezett esetében a kedvezményezett képviselője tekintetében az a) pont aa)–ad) és ah)–ai) alpontjaiban meghatározott adatait.
+
+(5)[^101] Az NKFI Alap kezelését végző szervek a (4) bekezdés szerinti adatokat a kedvezményezett beszámolójának támogató általi jóváhagyásától számított tíz évig kezelik.
+
+(6)[^102] A tudománypolitika koordinációjáért felelős miniszter irányítási jogköre ellátásához szükséges mértékben – a projekttel kapcsolatos jogok és kötelezettségek teljesítésének biztosítása érdekében – jogosult megismerni a (4) bekezdés szerinti adatokat.
+
+(7)[^103] A KKT az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatásokkal összefüggésben jogosult a (4) bekezdés szerinti személyes adatok kezelésére.
+
+### 11. [^104] Az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatások
+
+#### 24. §
+
+(1)[^105] Az NKFI Alap Kutatási Alaprészének elsődleges célja egyéni kiválóságon alapuló kutatási támogatások biztosítása. A Kutatási Alaprész terhére a következő célokra nyújtható támogatás:
+
+a)[^106] egyéni kiválóságon alapuló kutatásokkal kapcsolatos folyó ráfordításokra,
+
+b) nemzetközi tudományos kutatásban való részvételre, nemzetközi tudományos együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását is,
+
+c)[^107] tudománykommunikációs, tudomány-népszerűsítési célra,
+
+d) ösztöndíjra, különös tekintettel fiatal kutatók tudományos tevékenységének elősegítésére,
+
+e) publikálási támogatásra,
+
+f)[^108] a kutatás-fejlesztés infrastrukturális feltételeinek biztosítására és a meglévő infrastruktúra fejlesztésére, a tudományos kutatáshoz – infrastrukturális fejlesztés keretében – szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására – ideértve a nemzetközi kutatási infrastruktúrákhoz való hozzáférés díját és költségeit is –, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
+
+g) a kutatáshoz szükséges szellemi termékekre, adatbázisokra, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre,
+
+h)[^109] a kutatás-fejlesztéshez szükséges emberi erőforrás biztosítására, a meglévő profilok fejlesztésére, kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, az élő és élettelen természettudomány területén történő pályaorientáció a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutatók hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi szakmai beilleszkedésének támogatására,
+
+i)[^110]
+
+j)[^111] a tudományos közleményekhez való szabad hozzáférés költségeire,
+
+k) a szellemi tulajdon védelmére és hasznosítására.
+
+(2) Kutatás-fejlesztési támogatások ingatlanberuházásra akkor fordíthatók, ha a beruházás a kutatás-fejlesztéshez mint támogatott alaptevékenységhez szorosan kapcsolódik vagy a beruházás nélkül a kutatás-fejlesztési tevékenység nem valósítható meg. A kutatásfejlesztési támogatás ingatlanberuházásra való fordításának lehetőségéről és feltételeiről, vagy annak kizárásáról a pályázati kiírásban rendelkezni kell.
+
+(3) A pályázati támogatás nyereségre fedezetet nem tartalmazhat.
+
+(4)[^112]
+
+#### 25. §
+
+(1)[^113] Az NKFI Alap Kutatási Alaprésze terhére finanszírozott pályázat kiírásáról KKT elnöke, mint Kormány által kijelölt szerv tudományos vezetője dönt a KKT javaslata szerint. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+
+(2)[^114] A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által – a KKT javaslata alapján, annak egyetértésével – felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3)[^115] A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(4)[^116] A Kormány által kijelölt szerv vezetője az NKFI Alap Kutatási Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
+
+(5)[^117]
+
+(6)[^118]
+
+(7)[^119] Az NKFI Alap Kutatási Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a KKT javaslata alapján a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.
+
+(8)[^120]
+
+#### 27. §
+
+(1)[^122] Az NKFI Alapból pályázat útján elnyert közfinanszírozási támogatás felhasználásáról és a kutatómunka előrehaladásáról a kedvezményezettnek a pályázati kiírásban szereplő időtartamra figyelemmel, a támogatási szerződésben előírt ütem szerint, be kell számolnia a Kormány által kijelölt szervnek, amely – szakértői vélemény, valamint a KKT véleménye alapján – dönt a beszámoló elfogadásáról és ennek megfelelően a közfinanszírozási támogatás további folyósításáról, szükség esetén a támogatási szerződés módosításáról vagy megszüntetéséről.
+
+(2) A kutatás támogatási szerződés szerinti befejezésekor – a kedvezményezett által készített beszámoló alapján – a tevékenység eredményességét és a közfinanszírozású támogatás felhasználását szakértők értékelik.
+
+(3)[^123] A Kormány által kijelölt szerv a beszámolók rendszeres értékelése során kiemelt szempontként értékeli az innovációra alkalmas pályázati eredményeket.
+
+(4)[^124]
+
+(5)[^125]
+
+### 12. [^127] Az NKFI Alap Innovációs Alaprészének terhére nyújtott támogatások
+
+#### 28. §[^128]
+
+Az NKFI Alap Innovációs Alaprészének elsődleges célja a hazai innováció ösztönzéséhez szükséges finanszírozási eszközök biztosítása. Az Innovációs Alaprész terhére a következő célokra nyújtható támogatás:
+
+a)[^129] kutatás-fejlesztési és innovációs programokra,
+
+b)[^130] a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
+
+c)[^131] a kutatás-fejlesztés és innováció eredményeként született új tudományos és technológiai eredmények alkalmazásának elterjesztésére,
+
+d)[^132] a kutatás-fejlesztés és innováció infrastrukturális feltételeinek biztosítására és fejlesztésére, ideértve a nemzetközi kutatás-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt,
+
+e)[^133] a kutatás-fejlesztést és innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek, innovációs inkubátorházak létrehozásának támogatására,
+
+f)[^134] az innovációhoz kapcsolódó, az innovációt ösztönző kapcsolatok kialakulásának elősegítését célzó, az innovációs eredmények ismertetésére szolgáló konferenciák és rendezvények tartásának, szakkiállítások rendezésének, kiadványok készítésének költségeire,
+
+g)[^135] az innováció ösztönzésére, valamint kutatás-fejlesztésre és innovációra irányuló tevékenységek folyó ráfordításaira,
+
+h)[^136] a nemzetközi innovációs, tudományos és technológiai együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását,
+
+i)[^137] kutatás-fejlesztési és innovációs munkahelyek létrehozására, a kutatás-fejlesztés és az innováció emberi erőforrásainak biztosítására és fejlesztésére, a kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutató-fejlesztők hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi innovációs területen történő szakmai beilleszkedésének támogatására,
+
+j) a hazai és külföldi tudományos és technológiai ismeretek megszerzésére, azok gyakorlati alkalmazására,
+
+k) a szellemi tulajdon védelmére és hasznosítására,
+
+l)[^138] a kutatás-fejlesztés területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
+
+m)[^139] innovatív vállalkozások tőkeági finanszírozását biztosító kockázati tőkealapok létrehozására, valamint
+
+n)[^140] Tudományos és Innovációs Parkok fejlesztésére.
+
+#### 29. §[^141]
+
+(1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+
+(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben, valamint a támogatásban részesült projektek esetében a megvalósítás szakmai nyomon követésében – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(4) A Kormány által kijelölt szerv vezetője az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
+
+(5) Az NKFI Alap Innovációs Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.
+
+### 12/A.[^142] Az NKFI Alap Missziók Alaprészének terhére nyújtott támogatások
+
+#### 29/A. §
+
+(1)[^143]
+
+(2)[^144] Az NKFI Alap Missziók Alaprészének elsődleges célja stratégiailag fontos területeken megvalósuló, nagy horderejű társadalmi vagy gazdasági hatás elérésére irányuló kutatás-fejlesztési programok megvalósítása. A Missziók Alaprész terhére a következő célokra nyújtható támogatás:
+
+1.[^145] több régiót érintő, stratégiailag fontos területeken megvalósuló országos kutatás-fejlesztési, valamint innovációs programokra, amelyek nagy horderejű társadalmi vagy gazdasági hatás elérésére irányulnak,
+
+2\. ösztöndíjra, különös tekintettel fiatal kutatók tudományos tevékenységének elősegítésére,
+
+3\. publikálási támogatásra, ideértve a kiadványkészítés költségeinek támogatását,
+
+4\. a kutatáshoz szükséges szellemi termékekre, nyomtatott vagy elektronikus folyóiratokra, könyvekre, adatbázisokra, azok előfizetési díjaira, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre – ideértve a tudományos közleményekhez való szabad hozzáférést is,
+
+5.[^146] olyan programokra, amelyek stratégiailag jelentős tudományos és technológiai területeken hozzájárulnak a hazai kutatási és innovációs kapacitások erősítéséhez, együttműködésüknek és hálózatosodásuknak előmozdításához,
+
+6\. a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
+
+7\. a kutatás-fejlesztés és innováció eredményeként született új tudományos és technológiai eredmények alkalmazásának elterjesztésére,
+
+8\. a kutatás-fejlesztés és innováció infrastrukturális feltételeinek biztosítására és fejlesztésére, ideértve a nemzetközi kutatás-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt,
+
+9\. a tudományos kutatáshoz a szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására – ideértve a nemzetközi kutatási infrastruktúrákhoz való hozzáférés díját és költségeit is –, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
+
+10.[^147]
+
+11\. az innovációhoz kapcsolódó, az innovációt ösztönző kapcsolatok kialakulásának elősegítését célzó, az innovációs eredmények ismertetésére szolgáló konferenciák és rendezvények tartására, szakkiállítások rendezésére,
+
+12\. az innováció ösztönzésére, valamint kutatás-fejlesztésre és innovációra irányuló tevékenységek folyó ráfordításaira,
+
+13\. a nemzetközi innovációs, tudományos és technológiai együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását,
+
+14\. kutatás-fejlesztési és innovációs munkahelyek létrehozására, a kutatás-fejlesztés és az innováció emberi erőforrásainak biztosítására és fejlesztésére, a kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutató-fejlesztők hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi innovációs területen történő szakmai beilleszkedésének támogatására,
+
+15\. a hazai és külföldi tudományos és technológiai ismeretek megszerzésére, azok gyakorlati alkalmazására,
+
+16\. a szellemi tulajdon védelmére és hasznosítására,
+
+17\. külföldi kutatási infrastruktúra működtetésére, fejlesztésére, ha szerződés garantálja, hogy annak szolgáltatásait magyarországi kutatóhelyek és vállalkozások is igénybe vehetik, valamint külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+
+18\. nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
+
+19.[^148] Nemzeti Laboratórium létrehozatalára, fejlesztésére, tevékenységére és működtetésére,
+
+20.[^149] külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+
+21.[^150] a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
+
+#### 29/B. §[^151]
+
+(1) Az NKFI Alap Missziók Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+
+(2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek értékelik. Az értékelésben – a Kormány által kijelölt szerv vagy az értékelő testület felkérése alapján – közreműködhetnek anonim szakértők.
+
+(3) A pályázatok és a közfinanszírozású támogatásban részesült projektek tartalmi értékelésére és szakmai nyomon követésére a Kormány által kijelölt szerv a tudománypolitika koordinációjáért felelős miniszter által meghatározott programirányítási rendszert működtet. A programirányítási rendszer szerinti testületek elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter jelöli ki. Az értékelésben a programirányítási rendszer szerinti testületek mellett – a Kormány által kijelölt szerv vezetőjének felkérése alapján – anonim szakértők közreműködhetnek.
+
+(4) A pályázati felhívás rendelkezhet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
+
+(5) A Kormány által kijelölt szerv vezetője az NKFI Alap Missziók Alaprészéből meghirdetett pályázatok és finanszírozott támogatások eljárásrendjéről normatív utasításban határoz.
+
+(6) Az NKFI Alap Missziók Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a Kormány által kijelölt szerv által kiadott útmutató szerint kell ellenőrizni.
+
+#### 29/C. §[^152]
+
+Az NKFI Alap kezelését végző szervek a programirányítási rendszer szerinti testületek elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezelik.
+
+### 13. A szellemi alkotásokhoz fűződő jogok védelme, a szellemi alkotások hasznosításának támogatása
+
+#### 30. §[^153]
+
+A költségvetési kutatóhelynek minősülő központi költségvetési szervre, továbbá az állami tulajdonban lévő közhasznú nonprofit gazdasági társasági formában működő kutatóhelyre jogszabály alapján átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szerv, illetve közhasznú nonprofit gazdasági társaság tulajdonába kerülnek.
+
+#### 31. §
+
+(1) A közfinanszírozású kutatás-fejlesztési támogatással megvalósított projekt kedvezményezettje gondoskodik arról, hogy a projekt keretében létrejött szellemi alkotással kapcsolatos, a jogszabály adta keretek közötti lehető legteljesebb jogosultságok a kedvezményezettre szálljanak át oly módon, hogy ez lehetővé tegye a projekt eredményének a (2) bekezdéssel összhangban történő átengedését is. Ha a projekt megvalósításában többen működnek közre, úgy köztük az ilyen módon átszállt szellemi alkotással kapcsolatos jogokban való részesedés arányát polgári jogi szerződésben kell rögzíteni.
+
+(2) Ha a támogató megköveteli a közfinanszírozású kutatás-fejlesztési támogatással megvalósított projekt eredményeként létrejött szellemi alkotás közcélú felhasználásra ellenérték nélkül történő átengedését, azt a pályázati kiírásnak és a támogatási szerződésnek is tartalmaznia kell.
+
+#### 32. §
+
+(1) Ha azt a projekt célja, eredményének jellege lehetővé teszi, közfinanszírozású támogatás esetében a pályázati kiírásban előírható, hogy a pályázó az elvárható gondossággal eljárva törekedjen
+
+a) a projekt keretében létrehozott eredmény magyarországi, illetve Magyarországra kiterjedő iparjogvédelmi oltalmának megszerzésére, fenntartására, megújítására,
+
+b) a támogatott projekt keretében létrejövő eredmények magyarországi hasznosítására.
+
+(2) Több személy vagy szervezet együttes pályázása esetén a pályázat kiírója megkövetelheti az együttműködésben részes feleknek a projekt eredményeként létrejött szellemi alkotásokkal kapcsolatos jogokra vonatkozó előzetes – a hasznosítást is elősegítő – megállapodását.
+
+(3)[^154] A támogatási szerződésben meg kell határozni a kedvezményezett (1) bekezdésben foglaltak szerint előírt kötelezettsége felróható elmulasztásának jogkövetkezményeit.
+
+#### 33. §
+
+(1)[^155] A költségvetési kutatóhelynek és közalapítványnak, a felsőoktatási intézménynek, valamint az állami és önkormányzati tulajdonban álló, kutatóhelynek minősülő közhasznú jogállású nonprofit gazdasági társaságnak szellemitulajdon-kezelési szabályzattal kell rendelkeznie.
+
+(2) A szellemitulajdon-kezelési szabályzatnak ki kell terjednie különösen
+
+a) a kutatóhelyen létrejött és az ellenszolgáltatás fejében szerzett szellemi alkotások értékelésének és nyilvántartásának elveire, ideértve a szellemi alkotások létrehozásához felhasznált ráfordítások kimutatását,
+
+b) a szellemi alkotásnak nem pénzbeli hozzájárulásként gazdasági társaság tulajdonába adásának (a továbbiakban: apportálás) vagy egyéb módon történő hasznosításának feltételeire, valamint a szellemi alkotás apportálásával szerzett részesedés megszüntetésének vagy mértéke csökkentésének feltételeire, továbbá a kezelésére vonatkozó elvekre és feladatokra, figyelemmel a szellemi alkotás a) pont szerint meghatározott értékére is,
+
+c) a szellemi alkotásokhoz fűződő jogok védelmével kapcsolatos elvekre és követelményekre,
+
+d)[^156] ha a vonatkozó jogszabályok a felek eltérő rendelkezését lehetővé teszik, a kutatóhellyel kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban, valamint polgári jogi jogviszonyban álló, a szellemi alkotás létrehozásában közreműködő kutatók jogaira és kötelezettségeire a hasznosítás folyamatában,
+
+e) a kutatóhely jogosultságába tartozó szellemi alkotásokkal összefüggő értékelési, nyilvántartási és hasznosítási eljárások elveire,
+
+f) az a)–e) ponttal kapcsolatos felelősség és hatáskör telepítésére.
+
+(3) Az (1) bekezdés szerinti szervezet, ha több, a kutatás-fejlesztési alap-, illetve főtevékenységét megvalósító vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet is végző szervezeti egységet foglal magában, egyetlen szabályzatot készít, amelynek lehetnek az egyes szervezeti egységek sajátos feltételeinek megfelelő kiegészítései.
+
+(4)[^157] A szellemitulajdon-kezelési szabályzatot a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében az irányító szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+
+(5)[^158] A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+
+#### 34. §[^159]
+
+(1)[^160] A költségvetési kutatóhely, valamint a felsőoktatási intézmény a szellemi alkotást a szellemitulajdon-kezelési szabályzatában foglaltak szerint hasznosíthatja vagy értékesítheti.
+
+(2) Költségvetési kutatóhely által alapított vagy részesedésével működő hasznosító vállalkozásra a nemzeti felsőoktatásról szóló törvény szerinti intézményi társaságra vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(3)[^161] A költségvetési kutatóhely – a (4) bekezdésben foglalt kivétellel –, valamint a felsőoktatási intézmény évente, a tárgyévet követő év március 31. napjáig beszámolót készít a tudománypolitika koordinációjáért felelős miniszter részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
+
+(4)[^162]
+
+(5)[^163] A Központi Statisztikai Hivatal adatot szolgáltat a Kormány által kijelölt szerv részére a kutatás-fejlesztési és innovációs tevékenységgel kapcsolatban. Az adatszolgáltatásra a hivatalos statisztikáról szóló törvény rendelkezéseit kell alkalmazni.
+
+#### 34/A. §[^164]
+
+(1) A költségvetési kutatóhely, valamint a felsőoktatási intézmény által kutató, illetve oktató munkakörben foglalkoztatott hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal – a kutatóhely, valamint a felsőoktatási intézmény átláthatósági szabályzatában foglaltakkal összhangban – munkavégzésre irányuló további jogviszonyt létesíthet.
+
+(2) Az átláthatósági szabályzatban kell meghatározni
+
+a) a munkavégzésre irányuló további jogviszony létesítésnek engedélyezésére irányuló kérelem kötelező tartalmi elemeit,
+
+b) az összeférhetetlenségi okokat és azok megszüntetésének lehetőségét, határidejét,
+
+c) a kérelem elutasításának indokolási kötelezettségét,
+
+d) a kérelemmel kapcsolatos eljárási határidőket,
+
+e) a kérelem elbírálásával kapcsolatos felelősség és hatásköröket,
+
+f) a jogorvoslati lehetőség biztosítását.
+
+#### 35. §
+
+(1)[^165] Költségvetési kutatóhely és nonprofit közhasznú kutatóhely, valamint a felsőoktatási intézmény részére szellemi alkotás hasznosító vállalkozásban való hasznosítása céljából tagsági jogviszony létesítéséhez vagy részesedés szerzéséhez pályázati úton hazai közfinanszírozású támogatás nyújtható.
+
+(2)[^166] A támogatásra irányuló pályázat befogadásának feltétele a költségvetési kutatóhely, illetve a felsőoktatási intézmény és a kutató, illetve a felsőoktatási intézmény által oktatói munkakörben foglalkoztatott személy között a szellemi alkotáshoz fűződő jogokra és a hasznosításból származó jövedelmek megosztására vonatkozó érvényes szerződés megléte.
+
+## VI. Fejezet — A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
+
+#### 36. §[^167]
+
+(1) A kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv kérelemre minősíti
+
+a) a projektet abból a szempontból, hogy az annak tartalmát képező tevékenységek, valamint
+
+b) a projektcsoportot abból a szempontból, hogy a kérelmező által a projektcsoportba sorolt projektek
+
+a 3. § szerinti kutatás-fejlesztési tevékenységnek tekinthetők-e.
+
+(2) A projekt vagy projektcsoport minősítése (a továbbiakban együtt: minősítés) keretében hozott szakértői vélemény a kutatás-fejlesztési tevékenységhez kapcsolódó adó- és járulékkedvezmények érvényesítéséhez használható fel.
+
+(3) A kutatás-fejlesztési támogatási rendszerben a minősítés keretében hozott szakértői vélemény akkor használható fel, ha a támogató a pályázati felhívásban ezt lehetővé teszi.
+
+(3a)[^168] A minősítés során külön kérelmezhető a projekt minősítése a piaci hasznosíthatóság szempontjából, abban az esetben, ha a támogató a pályázati felhívásban ezt előírja.
+
+(4) A minősítés díjköteles.
+
+#### 37. §[^169]
+
+(1) A minősítés tárgya
+
+a) az időtartamában pontosan meghatározott projekt vagy projektrész (a továbbiakban: projektminősítés), vagy
+
+b) a projektcsoport.
+
+(2) Projektminősítés akkor kérelmezhető egy adott projekt egyes részeire, ha azok egyértelműen elválaszthatóak egymástól.
+
+(3) A minősítés keretében hozott szakértői vélemény elkészítésének határideje 30 nap, amely egyszer 15 nappal meghosszabbítható. A határidőbe nem számít bele a hiánypótlási felhívás teljesítésének ideje.
+
+(4) A kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátásának segítése érdekében a Kormány által kijelölt szerv módszertani útmutatót készít, amelyet tájékoztatásul a honlapján közzétesz.
+
+#### 41. §[^173]
+
+A minősítés során a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
+
+#### 42. §[^174]
+
+(1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szervet.
+
+(2) Más hatóság vagy bíróság általi kirendelés, továbbá harmadik személy megkeresése alapján a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv szakértői véleményt ad a kirendelésben vagy a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítésével összefüggő kérdésben, ideértve a kutatás-fejlesztési tevékenységnek minősített projektben az alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési tevékenységek arányát, valamint annak meghatározását is, hogy az adott tevékenységet az érintett személy a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 32. pontja szerinti saját tevékenységi körében végzi-e.
+
+(3) Az (1) és (2) bekezdés szerinti eljárásban a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást és nem tart helyszíni szemlét. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól, hatóságtól vagy harmadik személytől.
+
+(4) Ha az (1) és a (2) bekezdés szerinti eljárásban a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel a kutatás-fejlesztési tevékenységgel kapcsolatos szakértői feladatok ellátására a Kormány által kijelölt szerv nem rendelkezik, akkor a megfelelő szakértelemmel bíró harmadik személy közreműködését is igénybe veheti.
+
+## VI/A. Fejezet[^175] — A Magyar Kutatási Hálózat (HUN-REN)[^176]
+
+### 13/A.[^177]
+
+### 13/B.[^178] A HUN-REN
+
+#### 42/B. §
+
+(1)[^179]
+
+(2)[^180]
+
+(2a)[^181]
+
+(3)[^182] A HUN-REN közfeladata a jelen fejezetben meghatározott intézményesített keretek között a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvényben foglaltak szerint folytatott kutatások intézményrendszerének fenntartása, működtetése.
+
+(4)[^183]
+
+(5)[^184] A (3) bekezdés szerinti közfeladat ellátásához szükséges működés feltételeit a HUN-REN – és a 46. § (1) bekezdésben meghatározott vagyonelemek erejéig a Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: MTA tv.) 3. § (1a) bekezdésben meghatározott feladata keretei között az MTA – biztosítja.
+
+(6)[^185]
+
+(7)[^186]
+
+### 13/C.[^187]
+
+### 13/D.[^188]
+
+### 13/E.[^189]
+
+## VI/B. Fejezet[^190] — INNOVÁCIÓS ÖKOSZISZTÉMA FEJLESZTÉSÉVEL ÖSSZEFÜGGŐ RENDELKEZÉSEK
+
+### 13/F. Az innovációs ökoszisztéma fejlesztést elősegítő finanszírozás speciális jogi eszközeivel kapcsolatos nyilvántartás
+
+#### 42/J. §
+
+(1) A Kkv. tv. 9/A. §-a alapján a tőkévé konvertálható kölcsönt nyújtó hitelezőnek a Kkv. tv. 9/A. § (7) bekezdése szerinti bejelentési kötelezettségét a Kormány által kijelölt szerv részére, a (2) bekezdés szerinti adattartalommal, az erre a célra létrehozott elektronikus felületen kell teljesítenie.
+
+(2) Az (1) bekezdés szerinti bejelentés tartalmazza
+
+a) a tőkévé konvertálható kölcsönt nyújtó természetes személy hitelező esetén a hitelező természetes személy
+
+aa) családi és utónevét,
+
+ab) születési családi és utónevét,
+
+ac) állampolgárságát,
+
+ad) születési helyét és idejét,
+
+ae) lakcímét, ennek hiányában tartózkodási helyét,
+
+b) a tőkévé konvertálható kölcsönt nyújtó jogi személy hitelező esetén a hitelező jogi személy
+
+ba) cégnevét,
+
+bb) cégjegyzékszámát vagy nyilvántartási számát,
+
+c) a tőkévé konvertálható kölcsönt igénybe vevő induló vállalkozás
+
+ca) cégnevét,
+
+cb) cégjegyzékszámát,
+
+d) a tőkévé konvertálható kölcsön nyújtására irányuló szerződés szerinti kölcsönösszeget forintban kifejezve,
+
+e) a bejelentés időpontját.
+
+(3) A Kormány által kijelölt szerv az (1) bekezdés szerinti bejelentésekről – az innovációs ökoszisztéma fejlesztése céljából – a (2) bekezdés szerinti adattartalommal nyilvántartást vezet.
+
+(4) A tudománypolitika koordinációjáért felelős miniszter irányítási jogköre ellátásához szükséges mértékben jogosult megismerni a (2) bekezdés szerinti adatokat.
+
+(5) Az (1) bekezdés szerinti bejelentésekről vezetett nyilvántartás adatairól a Kormány által kijelölt szerv a pénzügyi közvetítőrendszer stabilitásának biztosítása céljából a Magyar Nemzeti Bank megkeresésére adatot szolgáltathat.
+
+(6) A Kormány által kijelölt szerv a (2) bekezdés szerinti adatokat tizenöt évig kezeli, ezt követően törli a nyilvántartásból.
+
+## VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 14. Felhatalmazó rendelkezések
+
+#### 43. §
+
+(1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) az NKFI Alap működtetésére és felhasználására vonatkozó szabályokat,[^191]
+
+b) a programok és projektek értékelésének részletes szabályait, tartalmi követelményeit és rendszerét,[^192]
+
+c) a hazai közfinanszírozású támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásával kapcsolatos részletes rendelkezéseket,
+
+d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
+
+e)[^193] a technológia transzfer tevékenységgel összefüggő részletes szabályokat,
+
+f)[^194] a Magyar Kreatívipari Tanács feladatainak, szervezetének és működésének részletes szabályait,[^195]
+
+g)[^196] a kutatóhely költségvetési szervnél vendégkutatóként történő foglalkoztatás további szabályait.
+
+(2)[^197]
+
+(3)[^198] Felhatalmazást kap a tudománypolitika koordinációjáért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítéséért fizetendő díj mértékét és a megfizetés módjára vonatkozó részletes szabályokat.[^199]
+
+#### 43/A. §[^200]
+
+Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az NKFI Alap kezelő szervét.[^201]
+
+### 15. Hatályba léptető rendelkezések
+
+#### 44. §
+
+(1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–43. §, a 47–51. § és az 1. melléklet 2015. január 1-jén lép hatályba.
+
+### 16. [^202] Átmeneti rendelkezések
+
+#### 46. §
+
+(1)[^204] Eltérő megállapodás hiányában a HUN-REN működtetését szolgáló, a Magyar Tudományos Akadémia tulajdonában a HUN-REN használatában lévő vagyonelemeknek ingyenes használatba bocsátását – a 42/B. § (5) bekezdésének megfelelően – az MTA biztosítja. Az ingyenes használat körébe tartozó vagyonelem, ingatlan használója azt rendeltetésének megfelelően köteles használni, üzemeltetni, karbantartani, gondoskodni az állagmegóvásról, köteles az állagmegóváson túl jelentkező rekonstrukciós, fejlesztési költségeket, közterheket, költségeket, díjakat viselni, valamint gondoskodni a vagyonvédelemről.
+
+(2)[^205] Eltérő megállapodás hiányában a kutatóintézetek üzemeltetési feladatait a Magyar Tudományos Akadémia Létesítménygazdálkodási Központ 2021. december 31-ig biztosítja.
+
+(3) A központi költségvetési szervek (1) bekezdés szerinti elhelyezése, valamint a hivatkozott vagyonelemek (1) bekezdés szerinti rendelkezésre bocsátása nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti szolgáltatásnyújtásnak.
+
+(4) A kutatóhelyek a Magyar Tudományos Akadémia által történt minősítésre utaló megnevezést a Magyar Tudományos Akadémia – az MTA tv. 3. § (1) bekezdés c) pontja szerinti értékelésére tekintettel adott – engedélyével használhatnak.
+
+#### 47. §
+
+(1) Az MTA Titkárság mint munkáltató által – az MTA tv. 3. § (1) bekezdés b) pontjában meghatározott közfeladat ellátása érdekében – foglalkoztatott köztisztviselőjének közszolgálati jogviszonya megszűnik és a megszűnését követő nappal az ELKH Titkársággal létesített munkaviszonnyá alakul át. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 72. §-ában foglaltakat kell alkalmazni.
+
+(2) A jogállásváltozással érintett munkavállalók ELKH Titkárságánál megállapított munkabére a jogállásváltozást követően nem lehet kevesebb a 2019. május 31-én érvényes köztisztviselői kinevezésükben megállapított illetménynél, amely magában foglalja az alapilletményt, alapilletmény eltérítést, illetménykiegészítést, nyelvpótlékot, képzettségi pótlékot, vezetők esetében vezetői pótlékot. A munkabér megállapításánál figyelembe kell venni a jogállásváltozásig megvalósult – a Kttv. által kötelezően előírt – átsorolást, a más munkakörbe történő helyezéshez kapcsolódó illetményváltozást, továbbá a szakmai cím visszavonással vagy adományozással megváltozott illetménymódosulást.
+
+(3) A jogviszonyváltással érintett köztisztviselő MTA Titkárságánál töltött jogviszonyát (áthelyezés esetén a korábbi jogviszonyokat is), a végkielégítésre szolgáló jogosultság szempontjából folyamatosnak kell tekinteni azzal, hogy a jogállásváltozás folytán létesített munkaviszony első
+
+a) évében a Kttv.-nek a munkáltatói felmentésre,
+
+b) öt évében a Kttv.-nek a jubileumi jutalomra
+
+vonatkozó szabályait még alkalmazni kell. Az a) és b) pontban megjelölt időszak elteltét követően az Mt. vonatkozó rendelkezései alkalmazandóak.
+
+#### 47/A. §[^206]
+
+(1) A kutatóhely mint munkáltató által foglalkoztatott közalkalmazott közalkalmazotti jogviszonya e törvény erejénél fogva 2020. december 31-én megszűnik és a megszűnését követő nappal a kutatóhellyel létesített munkaviszony jön létre (a továbbiakban: jogállásváltozás). A jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 25/A. §-ának rendelkezéseit kell alkalmazni. Nem jogosult végkielégítésre a jogállásváltozásra tekintettel az, akinek közalkalmazotti jogviszonya megszűnését követően a munkáltatóval munkaviszonya jön létre. A jogállásváltozás a megkezdett próbaidő mértékét nem érinti.
+
+(2) A jogállásváltozással érintett munkavállalók kutatóhelynél megállapított munkabére a jogállásváltozást követően nem lehet kevesebb annál, mint amekkora összegre az érintett illetményként – ideértve az alapilletményt, alapilletmény-eltérítést, az illetménykiegészítést, idegennyelv-tudási pótlékot, képzettségi pótlékot, címpótlékot, vezetők esetében vezetői pótlékot – a kinevezési okirata alapján 2020. december 31-én jogosult volt. A munkabér megállapításánál figyelembe kell venni a 2020. december 31-éig megvalósult – a Kjt. által kötelezően előírt – átsorolást, a más munkakörbe történő helyezéshez kapcsolódó illetményváltozást, továbbá a szakmai cím visszavonásával vagy adományozásával összefüggő illetménymódosulást.
+
+(3) A magasabb vezetők és vezetők vezetői megbízása esetén a munkaszerződés a közalkalmazotti jogviszony megszűnése időpontjában fennálló kinevezés tartalma szerint jön létre.
+
+(4) Ha a munkáltató az (1) bekezdés szerinti jogállásváltozás esetén az időarányos szabadságot 2020. december 31. napjáig nem adta ki, azt meg kell váltani.
+
+(5) Az (1) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
+
+a) évében a Kjt.-nek a munkáltatói felmentésre,
+
+b) öt évében a Kjt.-nek a jubileumi jutalomra
+
+vonatkozó szabályait kell alkalmazni.
+
+(6) A munkáltató és a foglalkoztatott közötti egyéb megállapodást a jogállásváltozás nem érinti.
+
+#### 47/B. §[^207]
+
+Az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvény (a továbbiakban: Mód2.tv.) hatálybalépését[^208] megelőzően kinevezett ELKH Irányító Testületi tagok megbízatása – az elnök kivételével – a Mód2.tv. hatálybalépését követő 15. napon megszűnik.
+
+#### 47/C. §[^209]
+
+A Mód2.tv. hatálybalépését[^210] megelőzően a Szellemi Tulajdon Nemzeti Hivatalához benyújtott kutatás-fejlesztési tevékenység minősítésére irányuló kérelem alapján a Mód2.tv. hatálybalépésekor folyamatban lévő minősítési eljárásokat a Szellemi Tulajdon Nemzeti Hivatala folytatja le.
+
+#### 47/D. §[^211]
+
+E törvénynek az egyetemek és a kutatóintézetek, valamint a gazdaság összekapcsoltságának erősítéséhez szükséges egyes törvények, továbbá egyes felnőttképzési és kulturális tárgyú törvények módosításáról szóló 2023. évi LXXXV. törvénnyel megállapított 42/C. § (2c) bekezdésének hatálybalépését[^212] megelőzően kinevezett, a 42/A. § szerinti kutatóközpont, kutatóintézet vagy a kutatóközpont szervezeti egységeként működő kutatóintézet vezetőjének az Irányító Testületben betöltött tagsága 2024. január 1. napján megszűnik.
+
+#### 47/E. §[^213]
+
+A HUN-REN Központ Irányító Testületének e rendelkezés hatálybalépését megelőzően kinevezett tagjainak megbízatása a HUN-REN Magyar Kutatási Hálózatról szóló 2024. évi XCI. törvény 28. § (3) bekezdésében meghatározott időpontban megszűnik.
+
+### 17. Módosító rendelkezések
+
+#### 48/A. §[^215]
+
+E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését[^216] követően indult és a megismételt eljárásokban kell alkalmazni.
+
+#### 49. §[^217]
+
+(1) A 16. § (14) bekezdését első alkalommal a 2018. adóév vonatkozásában kell alkalmazni.
+
+(2) A 16. § (14) bekezdését a 2017. adóév vonatkozásában az adózó választása szerint alkalmazza.
+
+(3)[^218] Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 16. § (4) és (11) bekezdése, hatályon kívül helyezett 16. § (10) bekezdése alapján adóelőleg-kiegészítési kötelezettség a 2019-ben kezdődő adóévtől kezdődően az adózót nem terheli, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 16. § (4) és (11) bekezdése hatálybalépésének, 16. § (10) bekezdése hatályon kívül helyezésének napja.
+
+#### 50. §[^219]
+
+(1) Az Országgyűlés 2019. augusztus 1. napjával központi költségvetési szervként létrehozza az ELKH Titkárságot. Az ELKH Titkárság Alapító Okiratát az Országgyűlés elnöke adja ki, a törzskönyvi nyilvántartásba vételt a Magyar Államkincstár 30 napon belül elvégzi.
+
+(2)[^220]
+
+(3)[^221]
+
+(4)[^222]
+
+### 18. Hatályon kívül helyező rendelkezések
+
+#### 51. §[^223]
+
+(1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévre és a 2023. adóév első két negyedévére innovációs járulék előleg megállapítására kötelezett. A telephely a 2022. adóévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg, vallja be és fizeti meg azzal, hogy a 2022. adóévi innovációs járulék előleget a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napjától kezdődő a 2022. adóév végéig tartó időszakra számított, várható fizetendő innovációs járulék alapján állapítja meg. A telephely a 2023. adóév első két negyedévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg és vallja be, valamint a 2023. adóév első és második negyedévét követő hónap 20. napjáig fizeti meg azzal, hogy a negyedévenként fizetendő összeget a teljes 2022. adóévre számított, várható fizetendő innovációs járulék alapján, annak 25 százalékában állapítja meg.
+
+(2) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévi járulékkötelezettségét a teljes 2022. évre számított járulékkötelezettségnek a 2022. adóév hatály alatti napokkal arányosan számított összegében, vagy választása szerint nyilvántartásainak a járulék hatálya alá kerülést megelőző napra készített zárását figyelembe véve számított járulékkötelezettséggel csökkentett összegében határozza meg.
+
+(3)[^224] E törvénynek a légitársaságok hozzájárulásáról és egyes adótörvények módosításáról szóló 2023. évi LIX. törvénnyel megállapított 16. § (1) bekezdés b) pontját első alkalommal azon 2023. adóévi járulékkötelezettség vonatkozásában lehet alkalmazni, amelynek bevallási határideje e törvény 16. § (1) bekezdése módosításának hatálybalépésekor még nem járt le.
+
+## 1. melléklet a 2014. évi LXXVI. törvényhez
+
+**A hazai közfinanszírozású támogatással, valamint a 23. § (1) bekezdés b) pontja szerinti támogatással megvalósuló kutatás-fejlesztési és innovációs projektek nyilvántartásába szolgáltatandó adatok köre[^225]**
+
+1\. a kutatás-fejlesztési projekt címe,
+
+2\. a pályázati felhívás (kutatási főprogram) és a nyertes pályázat egyedi azonosítója,
+
+3\. a projektről készült legfeljebb 8–10 soros olyan tartalmi összefoglaló, amely a témavezető nyilatkozata szerint nyilvánosságra hozható,
+
+4\. a projekt azonosítására alkalmas (a témavezető által megadott) szabad kulcsszavak és kötött tárgyszavak,
+
+5\. a projekt tudományági, társadalmi-gazdasági cél szerinti és gazdasági ág szerinti besorolása,
+
+6\. a projektet megvalósító szervezet(ek), szervezeti egység(ek) neve, címe, telefonszáma, telefaxszáma, honlapcíme, adószáma,
+
+7\. a projekt kezdési és befejezési időpontja,
+
+8\. a projekt megvalósítása során kitűzött fontosabb feladatok, elérendő eredmények,
+
+9\. a projekt megvalósításában foglalkoztatott kutató-fejlesztők száma teljesidő-egyenértékre (FTE) átszámolva,
+
+10.[^226] a projekt teljes költségvetése, ebből a pénzügyi támogatások összege és a támogatások források szerinti megoszlása, a támogatásokból részesülő személyek 23. § (4) bekezdés a) pont aa)–ad) alpontjai szerinti adatai, a támogatásokból részesülő szervezetek megnevezése, valamint e személyeknek és szervezeteknek a támogatásokból való részesülésének mértéke,
+
+11\. a projekt lezárásakor az elért eredményekről készült, legfeljebb 800 leütésből álló tartalmi összefoglaló, ami a témavezető véleménye szerint nyilvánosságra hozható,
+
+12\. a projekt eredményeként létrejött kutatási jelentés, hazai és külföldi közlemények, valamint hazai és külföldi szabadalmi bejelentések és megadott szabadalmak száma és elektronikus elérési lehetőségei,
+
+13\. a projekt eredményének hasznosításáról a témavezető által készített 8–10 soros leírás,
+
+14\. ha a projekt lezárásának időpontja, a felhasznált hazai közfinanszírozású támogatás nagysága vagy forrása eltér a projekt indítását bejelentő adatlapon megadottaktól, a tervezettektől eltérő tényadatok,
+
+15\. ha jogszabály vagy jogszabály felhatalmazása alapján jogosult döntése szerint a fenti adatok közül bármelyik nem hozható nyilvánosságra, akkor a korlátozó dokumentum azonosítója, a korlátozás jogcíme, a nyilvánosság korlátozásának időpontja, valamint a nyilvánosságra nem hozható adatok.
+
+## 2. melléklet a 2014. évi LXXVI. törvényhez[^227]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2014. november 25-i ülésnapján fogadta el. A kihirdetés napja: 2014. december 5.
+[^2]: Az 1. § (1) bekezdése a 2023. évi LXXVI. törvény 65. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés c) pontját a 2023. évi XLI. törvény 43. §-a iktatta be.
+[^4]: A 2. § nyitó szövegrésze a 2019: CXXIII. törvény 16. § 1. pontja szerint módosított szöveg.
+[^5]: A 3. § 1. pontja a 2019: CXXIII. törvény 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § 2. pontja a 2023. évi LXXXV. törvény 24. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § 2a. pontját a 2019: CXXIII. törvény 2. § (2) bekezdése iktatta be.
+[^8]: A 3. § 4. pontja a 2018: CIV. törvény 18. § (1) bekezdésével megállapított, a 2021: LIII. törvény 45. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § 6. pontja a 2019: CXXIII. törvény 2. § (3) bekezdésével megállapított szöveg.
+[^10]: A 3. § 6a. pontját a 2019: CXXIII. törvény 2. § (4) bekezdése iktatta be.
+[^11]: A 3. § 7. pontja a 2023. évi LXXXV. törvény 24. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § 12. pontja a 2019: CXXIII. törvény 17. § a) pontja szerint módosított szöveg.
+[^13]: A 3. § 13. pontja a 2019: CXXIII. törvény 2. § (6) bekezdésével megállapított szöveg.
+[^14]: A 3. § 14a. pontját a 2019: CXXIII. törvény 2. § (7) bekezdése iktatta be.
+[^15]: A 3. § 16a. pontját a 2019: CXXIII. törvény 2. § (8) bekezdése iktatta be.
+[^16]: A 3. § 17a. pontját a 2021: LXXXIX. törvény 43. §-a iktatta be.
+[^17]: A 3. § 18. pontja a 2019: CXXIII. törvény 2. § (9) bekezdésével megállapított szöveg.
+[^18]: A 3. § 19a. pontját a 2016: CLXXV. törvény 1. §-a iktatta be.
+[^19]: A 3. § 19b. pontját a 2019: CXXIII. törvény 2. § (10) bekezdése iktatta be.
+[^20]: A 3. § 20. pontja a 2018: CIV. törvény 18. § (2) bekezdésével megállapított szöveg.
+[^21]: A 3. § 21. pontja a 2018: CIV. törvény 18. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. § 21a. pontját a 2019: CXXIII. törvény 2. § (11) bekezdése iktatta be.
+[^23]: A 3. § 21b. pontját a 2019: CXXIII. törvény 2. § (11) bekezdése iktatta be.
+[^24]: A 4. § (1) bekezdés c) pontja a 2019: LXVIII. törvény 20. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (1) bekezdés e) pontja a 2019: LXVIII. törvény 20. § (2) bekezdésével megállapított szöveg.
+[^26]: A 4. § (1) bekezdés g) pontja a 2019: LXVIII. törvény 20. § (3) bekezdésével megállapított szöveg.
+[^27]: A 4. § (1) bekezdés i) pontját a 2019: LXVIII. törvény 20. § (4) bekezdése iktatta be.
+[^28]: A 4. § (1) bekezdés j) pontját a 2019: LXVIII. törvény 20. § (4) bekezdése iktatta be.
+[^29]: A 4. § (1) bekezdés k) pontját a 2019: LXVIII. törvény 20. § (4) bekezdése iktatta be.
+[^30]: A 4. § (1) bekezdés l) pontját a 2021: LXXXIX. törvény 44. §-a iktatta be.
+[^31]: A 4. § (2) bekezdése a 2019: CXXIII. törvény 3. §-ával megállapított szöveg.
+[^32]: Az 5. § a 2019: CXXIII. törvény 4. §-ával megállapított szöveg.
+[^33]: Az 5. § (1) bekezdése a 2023. évi XLI. törvény 63. § 1. pontja, a 2023. évi LXXXV. törvény 31. § 1. pontja és 32. § a) pontja, a 2024. évi XCI. törvény 76. § 1. pontja szerint módosított szöveg.
+[^34]: Az 5. § (2) bekezdés nyitó szövegrésze a 2023. évi LXXXV. törvény 31. § 2. pontja, a 2024. évi XCI. törvény 77. § 1. pontja szerint módosított szöveg.
+[^35]: Az 5. § (2) bekezdés c) pontját a 2024. évi XCI. törvény 77. § 2. pontja hatályon kívül helyezte.
+[^36]: Az 5. § (2) bekezdés d) pontját a 2024. évi XCI. törvény 77. § 2. pontja hatályon kívül helyezte.
+[^37]: Az 5. § (2) bekezdés e) pontját a 2024. évi XCI. törvény 77. § 2. pontja hatályon kívül helyezte.
+[^38]: Az 5. § (2a) bekezdését a 2024. évi XCI. törvény 64. §-a iktatta be.
+[^39]: Az 5. § (3) bekezdése a 2023. évi LXXXV. törvény 31. § 3. pontja szerint módosított szöveg.
+[^40]: A 6. §-t újonnan a 2023. évi XLI. törvény 44. §-a iktatta be.
+[^41]: A 6. § (1) bekezdése a 2025. évi XXXVIII. törvény 1. §-ával megállapított szöveg.
+[^42]: A 6. § (2) bekezdése a 2025. évi XXXVIII. törvény 2. §-a szerint módosított szöveg.
+[^43]: A III. fejezetet (6–10. §) a 2019: CXXIII. törvény 17. § b) pontja hatályon kívül helyezte.
+[^44]: A III/A. fejezet (10/A–10/C. §) a 2019: LXVIII. törvény 25. §-a iktatta be.
+[^45]: A 10/A. § (2) bekezdése a 2020: CXIV. törvény 2. §-ával megállapított, a 2023. évi XLI. törvény 63. § 4. pontja, a 2023. évi LXXXV. törvény 31. § 4. pontja szerint módosított szöveg.
+[^46]: A 10/C. § a 2019: CXXIII. törvény 16. § 2. pontja szerint módosított szöveg.
+[^47]: Az III/B. fejezetet (10/D-10/F. §-t) a 2023. évi XLI. törvény - 2023. évi LXXXV. törvény 56. § (5) bekezdése szerint módosított - 45. §-a iktatta be.
+[^48]: A 10/D. § (1) bekezdése a 2024. évi XCI. törvény 76. § 2. pontja szerint módosított szöveg.
+[^49]: A 10/D. § (1a) bekezdését a 2024. évi XCI. törvény 65. §-a iktatta be.
+[^50]: A 10/D. § (3) bekezdése a 2024. évi XCI. törvény 76. § 3. pontja szerint módosított szöveg.
+[^53]: A 11. § (2) bekezdése a 2019: CXXIII. törvény 16. § 3. pontja, a 2023. évi XLI. törvény 63. § 5. pontja szerint módosított szöveg.
+[^54]: A 11. § (3) bekezdése a 2023. évi XLI. törvény 46. § (1) bekezdésével megállapított szöveg.
+[^55]: A 11. § (4) bekezdését a 2023. évi XLI. törvény 46. § (2) bekezdése iktatta be.
+[^56]: A 11. § (5) bekezdését a 2023. évi XLI. törvény 46. § (2) bekezdése iktatta be.
+[^57]: A 11. § (6) bekezdését a 2023. évi XLI. törvény 46. § (2) bekezdése iktatta be, szövege a 2024. évi XCI. törvény 76. § 4. pontja szerint módosított szöveg.
+[^58]: A 12. § (1) bekezdés a) pontja a 2022: XXIV. törvény 146. § 1. pontja szerint módosított szöveg.
+[^59]: A 12. § (2) bekezdése a 2022. évi LIX. törvény 69. §-ával megállapított, a 2023. évi XLI. törvény 63. § 6. pontja, a 2024. évi XCI. törvény 76. § 5. pontja szerint módosított szöveg.
+[^60]: A 12. § (3) bekezdését a 2019: CXXIII. törvény 5. §-a iktatta be, szövege a 2023. évi XLI. törvény 47. §-ával megállapított szöveg.
+[^61]: A 13. § a 2019: CXXIII. törvény 6. §-ával megállapított szöveg.
+[^62]: A 13. § (1) bekezdés a) pontja a 2023. évi XLI. törvény 48. §-ával megállapított szöveg.
+[^63]: A 13. § (2) bekezdése a 2024. évi XCI. törvény 66. §-ával megállapított szöveg.
+[^64]: A 14. § a 2023. évi XLI. törvény 49. §-ával megállapított szöveg.
+[^65]: A 14. § (4) bekezdését a 2024. évi XIII. törvény 60. §-a iktatta be.
+[^66]: A 15. § (1) bekezdése a 2022: XXIV. törvény 143. §-ával megállapított szöveg.
+[^67]: A 15. § (2) bekezdés a) pontja a 2018: XLI. törvény 56. §-ával megállapított szöveg.
+[^68]: A 15. § (2) bekezdés c) pontja a 2021: LXXXIV. törvény 58. §-a, a 2024. évi LVI. törvény 64. §-a szerint módosított szöveg.
+[^69]: A 16. § (1) bekezdése a 2023. évi LIX. törvény 44. § (1) bekezdésével megállapított szöveg.
+[^70]: A 16. § (3) bekezdése a 2022: XXIV. törvény 147. §-a szerint módosított szöveg.
+[^71]: A 16. § (4) bekezdése a 2019: LXXIII. törvény 44. § (1) bekezdésével megállapított szöveg.
+[^72]: A 16. § (10) bekezdését a 2019: LXXIII. törvény 46. §-a hatályon kívül helyezte, újonnan a 2023. évi LIX. törvény 44. § (2) bekezdése iktatta be.
+[^73]: A 16. § (11) bekezdése a 2019: LXXIII. törvény 44. § (2) bekezdésével megállapított szöveg.
+[^74]: A 16. § (12) bekezdése a 2017: CLIX. törvény 231. § 1. pontja szerint módosított szöveg.
+[^75]: A 16. § (13) bekezdése a 2022: XXIV. törvény 144. §-ával megállapított szöveg.
+[^76]: A 16. § (14) bekezdését a 2017: LXXVII. törvény 42. §-a iktatta be.
+[^77]: Az V. Fejezet címe a 2024. évi XCI. törvény 76. § 6. pontja szerint módosított szöveg.
+[^78]: A 18. § nyitó szövegrésze a 2019: CXXIII. törvény 16. § 6. pontja szerint módosított szöveg.
+[^79]: A 18. § c) pontja a 2019: LXVIII. törvény 28. § (1) bekezdésével megállapított szöveg.
+[^80]: A 18. § d) pontja a 2019: LXVIII. törvény 28. § (1) bekezdésével megállapított szöveg.
+[^81]: A 18. § e) pontja a 2019: LXVIII. törvény 28. § (1) bekezdésével megállapított szöveg.
+[^82]: A 18. § f) pontja a 2019: CXII. törvény 99. §-a szerint módosított szöveg.
+[^83]: A 18. § j) pontja a 2019: LXVIII. törvény 28. § (2) bekezdésével megállapított szöveg.
+[^84]: A 19/A. §-t a 2019: LXVIII. törvény 29. §-a iktatta be.
+[^85]: A 20. § (2) bekezdése a 2019: CXXIII. törvény 16. § 7. pontja szerint módosított szöveg.
+[^86]: A 21. § (1) bekezdése a 2021: LXXXIX. törvény 45. §-ával megállapított szöveg.
+[^87]: A 21. § (2) bekezdése a 2023. évi XLI. törvény 63. § 7. pontja szerint módosított szöveg.
+[^88]: A 22. § (1) bekezdése a 2019: CXXIII. törvény 16. § 8. pontja szerint módosított szöveg.
+[^89]: A 22. § (2) bekezdése a 2023. évi XLI. törvény 63. § 8. pontja szerint módosított szöveg.
+[^90]: A 22. § (3) bekezdése a 2019: CXXIII. törvény 16. § 9. pontja szerint módosított szöveg.
+[^91]: A 22/A. §-t a 2024. évi XCI. törvény 67. §-a iktatta be.
+[^92]: A 22/B. §-t a 2024. évi XCI. törvény 67. §-a iktatta be.
+[^93]: A 22/C. §-t a 2024. évi XCI. törvény 67. §-a iktatta be.
+[^94]: A 22/D. §-t a 2024. évi XCI. törvény 67. §-a iktatta be.
+[^95]: A 22/E. §-t a 2024. évi XCI. törvény 67. §-a iktatta be.
+[^96]: A 10/A. alcím megjelölést a 2024. évi XCI. törvény 68. §-a iktatta be.
+[^97]: A 23. § (1) bekezdése a 2024. évi XCI. törvény 69. § (1) bekezdésével megállapított szöveg.
+[^98]: A 23. § (2) bekezdése a 2024. évi XCI. törvény 69. § (1) bekezdésével megállapított szöveg.
+[^99]: A 23. § (3) bekezdése a 2019: CXXIII. törvény 17. § e) pontja szerint módosított szöveg.
+[^100]: A 23. § (4) bekezdését a 2019: CXXIII. törvény 8. §-a iktatta be, nyitó szövegrésze a 2023. évi XLI. törvény 63. § 10. pontja, a 2024. évi XCI. törvény 76. § 7. pontja szerint módosított szöveg.
+[^101]: A 23. § (5) bekezdését a 2019: CXXIII. törvény 8. §-a iktatta be, szövege a 2023. évi XLI. törvény 63. § 11. pontja szerint módosított szöveg.
+[^102]: A 23. § (6) bekezdését a 2019: CXXIII. törvény 8. §-a iktatta be.
+[^103]: A 23. § (7) bekezdését a 2024. évi XCI. törvény 69. § (2) bekezdése iktatta be.
+[^104]: A 11. alcím címe a 2019: LXVIII. törvény 30. §-ával megállapított szöveg.
+[^105]: A 24. § (1) bekezdés nyitó szövegrésze a 2021: LXXXIX. törvény 50. § 2. pontja, a 2024. évi XCI. törvény 76. § 8. pontja szerint módosított szöveg.
+[^106]: A 24. § (1) bekezdés a) pontja a 2019: CXXIII. törvény 16. § 11. pontja, a 2024. évi XCI. törvény 76. § 9. pontja szerint módosított szöveg.
+[^107]: A 24. § (1) bekezdés c) pontja a 2024. évi XCI. törvény 76. § 10. pontja szerint módosított szöveg.
+[^108]: A 24. § (1) bekezdés f) pontja a 2019: CXXIII. törvény 16. § 12. pontja, a 2024. évi XCI. törvény 77. § 4. pontja szerint módosított szöveg.
+[^109]: A 24. § (1) bekezdés h) pontja a 2023. évi XLI. törvény 63. § 12. pontja szerint módosított szöveg.
+[^110]: A 24. § (1) bekezdés i) pontját a 2024. évi XCI. törvény 77. § 5. pontja hatályon kívül helyezte.
+[^111]: A 24. § (1) bekezdés j) pontja a 2019: CXXIII. törvény 16. § 13. pontja szerint módosított szöveg.
+[^112]: A 24. § (4) bekezdését a 2019: CXXIII. törvény 17. § f) pontja hatályon kívül helyezte.
+[^113]: A 25. § (1) bekezdése a 2016: CLXXV. törvény 3. §-ával megállapított, a 2019: CXXIII. törvény 16. § 14–16. pontja, a 2021: LXXXIX. törvény 50. § 3. pontja, a 2024. évi XCI. törvény 76. § 11. pontja szerint módosított szöveg.
+[^114]: A 25. § (2) bekezdése a 2024. évi XCI. törvény 70. §-ával megállapított szöveg.
+[^115]: A 25. § (3) bekezdése a 2023. évi XLI. törvény 50. §-ával megállapított szöveg.
+[^116]: A 25. § (4) bekezdése a 2019: CXXIII. törvény 9. §-ával megállapított, a 2021: LXXXIX. törvény 50. § 4. pontja szerint módosított szöveg.
+[^117]: A 25. § (5) bekezdését a 2024. évi XCI. törvény 77. § 6. pontja hatályon kívül helyezte.
+[^118]: A 25. § (6) bekezdését a 2024. évi XCI. törvény 77. § 6. pontja hatályon kívül helyezte.
+[^119]: A 25. § (7) bekezdése a 2021: LXXXIX. törvény 50. § 5. pontja, a 2024. évi XCI. törvény 76. § 12. pontja szerint módosított szöveg.
+[^120]: A 25. § (8) bekezdését a 2021: LXXXIX. törvény 46. §-a iktatta be, a 2024. évi XCI. törvény 77. § 7. pontja hatályon kívül helyezte.
+[^122]: A 27. § (1) bekezdése a 2021: LXXXIX. törvény 47. §-ával megállapított, a 2024. évi XCI. törvény 76. § 13. pontja szerint módosított szöveg.
+[^123]: A 27. § (3) bekezdése a 2019: CXXIII. törvény 16. § 10. pontja szerint módosított szöveg.
+[^124]: A 27. § (4) bekezdését a 2019: CXXIII. törvény 17. § h) pontja hatályon kívül helyezte.
+[^125]: A 27. § (5) bekezdését a 2019: CXXIII. törvény 17. § h) pontja hatályon kívül helyezte.
+[^127]: A 12. alcím címe a 2019: LXVIII. törvény 31. §-ával megállapított szöveg.
+[^128]: A 28. § nyitó szövegrésze a 2021: LXXXIX. törvény 50. § 6. pontja, a 2024. évi XCI. törvény 76. § 14. pontja szerint módosított szöveg.
+[^129]: A 28. § a) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított, a 2024. évi XCI. törvény 77. § 10. pontja szerint módosított szöveg.
+[^130]: A 28. § b) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^131]: A 28. § c) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^132]: A 28. § d) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^133]: A 28. § e) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^134]: A 28. § f) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^135]: A 28. § g) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^136]: A 28. § h) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^137]: A 28. § i) pontja a 2019: CXXIII. törvény 10. § (1) bekezdésével megállapított szöveg.
+[^138]: A 28. § l) pontja a 2024. évi XCI. törvény 71. §-ával megállapított szöveg.
+[^139]: A 28. § m) pontja a 2024. évi XCI. törvény 71. §-ával megállapított szöveg.
+[^140]: A 28. § n) pontja a 2024. évi XCI. törvény 71. §-ával megállapított szöveg.
+[^141]: A 29. § a 2024. évi XCI. törvény 72. §-ával megállapított szöveg.
+[^142]: A 12/A. alcímet (29/A–29/C. §-t) a 2021: LXXXIX. törvény 49. §-a iktatta be, az alcím címe a 2024. évi XCI. törvény 76. § 15. pontja szerint módosított szöveg.
+[^143]: A 29/A. § (1) bekezdését a 2024. évi XCI. törvény 77. § 11. pontja hatályon kívül helyezte.
+[^144]: A 29/A. § (2) bekezdés nyitó szövegrésze a 2024. évi XCI. törvény 76. § 16. pontja szerint módosított szöveg.
+[^145]: A 29/A. § (2) bekezdés 1. pontja a 2024. évi XCI. törvény 76. § 17. pontja szerint módosított szöveg.
+[^146]: A 29/A. § (2) bekezdés 5. pontja a 2024. évi XCI. törvény 73. § (1) bekezdésével megállapított szöveg.
+[^147]: A 29/A. § (2) bekezdés 10. pontját a 2024. évi XCI. törvény 77. § 12. pontja hatályon kívül helyezte.
+[^148]: A 29/A. § (2) bekezdés 19. pontját a 2024. évi XCI. törvény 73. § (2) bekezdése iktatta be.
+[^149]: A 29/A. § (2) bekezdés 20. pontját a 2024. évi XCI. törvény 73. § (2) bekezdése iktatta be.
+[^150]: A 29/A. § (2) bekezdés 21. pontját a 2024. évi XCI. törvény 73. § (2) bekezdése iktatta be.
+[^151]: A 29/B. § a 2024. évi XCI. törvény 74. §-ával megállapított szöveg.
+[^152]: A 29/C. § a 2023. évi XLI. törvény 63. § 19. pontja szerint módosított szöveg.
+[^153]: A 30. § a 2023. évi LXXXV. törvény 25. §-ával megállapított, a 2024. évi XCI. törvény 77. § 13. pontja szerint módosított szöveg.
+[^154]: A 32. § (3) bekezdése a 2019: CXXIII. törvény 16. § 20. pontja szerint módosított szöveg.
+[^155]: A 33. § (1) bekezdése a 2021: LIII. törvény 45. § b) pontja szerint módosított szöveg.
+[^156]: A 33. § (2) bekezdés d) pontja a 2016: LXIV. törvény 113. §-ával megállapított, a 2019: CIX. törvény 202. §-a szerint módosított szöveg.
+[^157]: A 33. § (4) bekezdése a 2021: LIII. törvény 45. § c) pontja szerint módosított szöveg.
+[^158]: A 33. § (5) bekezdése a 2021: LIII. törvény 45. § d) pontja szerint módosított szöveg.
+[^159]: A 34. § a 2018: CIV. törvény 20. §-ával megállapított szöveg.
+[^160]: A 34. § (1) bekezdése a 2021: LIII. törvény 45. § e) pontja szerint módosított szöveg.
+[^161]: A 34. § (3) bekezdése a 2021: LIII. törvény 42. § (1) bekezdésével megállapított szöveg.
+[^162]: A 34. § (4) bekezdését a 2021: LIII. törvény 42. § (2) bekezdése iktatta be, a 2024. évi XCI. törvény 77. § 14. pontja hatályon kívül helyezte.
+[^163]: A 34. § (5) bekezdését a 2023. évi XLI. törvény 52. §-a iktatta be, szövege a 2024. évi XIII. törvény 61. §-ával megállapított szöveg.
+[^164]: A 34/A. §-t a 2021: LIII. törvény 43. §-a iktatta be.
+[^165]: A 35. § (1) bekezdése a 2019: CXXIII. törvény 16. § 7. pontja, a 2021: LIII. törvény 45. § f) pontja szerint módosított szöveg.
+[^166]: A 35. § (2) bekezdése a 2021: LIII. törvény 44. §-ával megállapított szöveg.
+[^167]: A 36. § a 2023. évi XLI. törvény 53. §-ával megállapított szöveg.
+[^168]: A 36. § (3a) bekezdését a 2023. évi LXXXV. törvény 26. §-a iktatta be.
+[^169]: A 37. § a 2023. évi XLI. törvény 53. §-ával megállapított szöveg.
+[^173]: A 41. § a 2023. évi XLI. törvény 54. §-ával megállapított, a 2024. évi XII. törvény 138. §-a szerint módosított szöveg.
+[^174]: A 42. § a 2023. évi XLI. törvény 54. §-ával megállapított szöveg.
+[^175]: A VI/A. fejezetet (42/A–42/I. §) a 2019: LXVIII. törvény 33. §-a iktatta be.
+[^176]: A VI/A. Fejezet címe a 2023. évi LXXXV. törvény 31. § 6. pontja, a 2024. évi XIII. törvény 62. § a) pontja szerint módosított szöveg.
+[^177]: A 13/A. alcímet (42/A. §-t) a 2024. évi XCI. törvény 77. § 15. pontja hatályon kívül helyezte.
+[^178]: A 13/B. alcím címe a 2025. évi XCV. törvény 33. §-ával megállapított szöveg.
+[^179]: A 42/B. § (1) bekezdését a 2024. évi XCI. törvény 77. § 16. pontja hatályon kívül helyezte.
+[^180]: A 42/B. § (2) bekezdését a 2024. évi XCI. törvény 77. § 16. pontja hatályon kívül helyezte.
+[^181]: A 42/B. § (2a) bekezdését a 2024. évi XXIX. törvény 87. §-a iktatta be, a 2025. évi XCV. törvény 35. §-a hatályon kívül helyezte.
+[^182]: A 42/B. § (3) bekezdése a 2023. évi LXXXV. törvény 31. § 12. pontja, a 2025. évi XCV. törvény 34. § a) pontja szerint módosított szöveg.
+[^183]: A 42/B. § (4) bekezdését a 2024. évi XCI. törvény 77. § 16. pontja hatályon kívül helyezte.
+[^184]: A 42/B. § (5) bekezdése a 2023. évi LXXXV. törvény 31. § 14. pontja, a 2025. évi XCV. törvény 34. § b) pontja szerint módosított szöveg.
+[^185]: A 42/B. § (6) bekezdését a 2024. évi XCI. törvény 77. § 19. pontja hatályon kívül helyezte.
+[^186]: A 42/B. § (7) bekezdését a 2020: CXIV. törvény 3. §-a iktatta be, a 2024. évi XCI. törvény 77. § 19. pontja hatályon kívül helyezte.
+[^187]: A 13/C. alcímet (42/C–42/G. §-t) a 2024. évi XCI. törvény 77. § 20. pontja hatályon kívül helyezte.
+[^188]: A 13/D. alcímet (42/H. §-t) a 2024. évi XCI. törvény 77. § 21. pontja hatályon kívül helyezte.
+[^189]: A 13/E. alcímet (42/I. §-t) a 2024. évi XCI. törvény 77. § 22. pontja hatályon kívül helyezte.
+[^190]: A VI/B. Fejezetet (42/J. §-t) a 2023. évi LXXVI. törvény 66. §-a iktatta be.
+[^191]: Lásd a 380/2014. (XII. 31.) Korm. rendeletet.
+[^192]: Lásd a 433/2016. (XII. 15.) Korm. rendeletet.
+[^193]: A 43. § (1) bekezdés e) pontját a 2023. évi XLI. törvény 64. § e) pontja hatályon kívül helyezte, újonnan a 2023. évi LXXXV. törvény 29. §-a iktatta be.
+[^194]: A 43. § (1) bekezdés f) pontját a 2020: CXIV. törvény 10. § b) pontja hatályon kívül helyezte, újonnan a 2023. évi XLI. törvény 60. § (1) bekezdése iktatta be, szövege a 2025. évi XXXVIII. törvény 2. §-a szerint módosított szöveg.
+[^195]: Lásd a 382/2025. (XII. 5.) Korm. rendeletet.
+[^196]: A 43. § (1) bekezdés g) pontját a 2019: LXVIII. törvény 34. §-a iktatta be.
+[^197]: A 43. § (2) bekezdését a 2023. évi XLI. törvény 64. § f) pontja hatályon kívül helyezte.
+[^198]: A 43. § (3) bekezdését a 2023. évi XLI. törvény 60. § (2) bekezdése iktatta be.
+[^199]: Lásd a 8/2023. (VIII. 31.) KIM rendeletet.
+[^200]: A 43/A. §-t a 2019: CXXIII. törvény 14. §-a iktatta be.
+[^201]: Lásd a 344/2019. (XII. 23.) Korm. rendeletet.
+[^202]: A 16. alcím (45–47. §) a 2019: LXVIII. törvény 35. §-ával megállapított szöveg.
+[^204]: A 46. § (1) bekezdése a 2020: CXIV. törvény 7. §-ával megállapított, a 2025. évi XCV. törvény 34. § c) pontja szerint módosított szöveg.
+[^205]: A 46. § (2) bekezdése a 2020: CXIV. törvény 7. §-ával megállapított, a 2021: CXLVII. törvény 27. §-a szerint módosított szöveg.
+[^206]: A 47/A. §-t a 2020: CXIV. törvény 8. §-a iktatta be.
+[^207]: A 47/B. §-t a 2023. évi XLI. törvény 61. §-a iktatta be.
+[^208]: A hatálybalépés időpontja 2023. június 29.
+[^209]: A 47/C. §-t a 2023. évi XLI. törvény 62. §-a iktatta be.
+[^210]: A hatálybalépés időpontja 2023. június 29.
+[^211]: A 47/D. §-t a 2023. évi LXXXV. törvény 30. §-a iktatta be.
+[^212]: A hatálybalépés időpontja 2024. január 1.
+[^213]: A 47/E. §-t a 2024. évi XCI. törvény 75. §-a iktatta be.
+[^215]: A 48/A. §-t a 2017: L. törvény 478. § (1) bekezdése iktatta be.
+[^216]: A hatálybalépés időpontja 2017. május 26.
+[^217]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2017: LXXVII. törvény 43. §-a iktatta be.
+[^218]: A 49. § (3) bekezdését a 2019: LXXIII. törvény 45. §-a iktatta be.
+[^219]: A 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2019: LXVIII. törvény 36. §-a iktatta be.
+[^220]: Az 50. § (2) bekezdését a 2020: CXIV. törvény 10. § d) pontja hatályon kívül helyezte.
+[^221]: Az 50. § (3) bekezdését a 2020: CXIV. törvény 10. § d) pontja hatályon kívül helyezte.
+[^222]: Az 50. § (4) bekezdését a 2020: CXIV. törvény 10. § d) pontja hatályon kívül helyezte.
+[^223]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2022: XXIV. törvény 145. §-a iktatta be.
+[^224]: Az 51. § (3) bekezdését a 2023. évi LIX. törvény 45. §-a iktatta be.
+[^225]: Az 1. melléklet címe a 2024. évi XCI. törvény 76. § 18. pontja szerint módosított szöveg.
+[^226]: Az 1. melléklet 10. pontja a 2024. évi XCI. törvény 76. § 19. pontja szerint módosított szöveg.
+[^227]: A 2. mellékletet a 2019: LXVIII. törvény 37. §-a iktatta be, hatályon kívül helyezte a 2020: CXIV. törvény 10. § e) pontja.

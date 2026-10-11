@@ -1,0 +1,162 @@
+---
+title: "2021. évi LXXXVI. törvény egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról"
+identifier: "2021. évi LXXXVI. törvény"
+njt_id: "2021-86-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2021/86"
+type: act
+jurisdiction: hu
+language: hu
+date: 2021-06-24
+in_force_from: 2021-07-02
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-86-00-00"
+retrieved: 2026-10-12
+---
+
+# 2021. évi LXXXVI. törvény egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról[^1]
+
+Az Országgyűlés elismerve és támogatva a karitatív szervezetek társadalomért, különösen a nehéz helyzetben lévő családokért végzett szociális, segítő-szolgáltató, mentori tevékenységét, a következő törvényt alkotja:
+
+## 1. §
+
+(1)[^2] Az állam tulajdonában lévő
+
+a) határozatlan idejű lakásbérleti szerződéssel hasznosított ingatlanok, kivéve a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény (a továbbiakban: 2018. évi CIII. törvény) V. fejezete szerinti, a tulajdonszerzési lehetőségekről és bérleti jogviszony fenntartásának feltételeiről szóló, folyamatban lévő nyilatkozattételi eljárással érintett ingatlanokat (a továbbiakban: nyilatkozattételi eljárással érintett ingatlanok),
+
+b) olyan ingatlanok, amelyek tekintetében a lakásbérleti jogviszony megszűnt, de az ingatlan az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásával összefüggő törvények módosításáról szóló 2021. évi CXXXII. törvény 12. §-a hatálybalépésekor[^3] a korábbi bérlő használatában áll,
+
+c) üres ingatlanok, az ingatlanban található olyan ingóságokkal együtt, amelyek birtoklásával a korábbi tulajdonos a tulajdonról való lemondás szándékával felhagyott
+
+e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: MR Közösségi Lakásalap NKft.) tulajdonába adhatóak.
+
+(2)[^4] Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő a 2018. évi CIII. törvény V. fejezete szerinti joghatás kiváltására alkalmas nyilatkozatában (a továbbiakban: nyilatkozat) úgy nyilatkozik, hogy a határozatlan idejű lakásbérleti jogviszonyát fenntartja, ingyenesen az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a bérlő nyilatkozatának a tulajdonosi joggyakorlóhoz történő megérkezését követő második hónap első napját követően.
+
+(3)[^5] Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő nem tesz nyilatkozatot sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására – a lakásbérleti jogviszony fenntartása mellett – ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a 2018. évi CIII. törvény V. fejezete szerinti nyilatkozattételi határidő elmulasztását követő második hónap első napját követően.
+
+(4)[^6] Az (1)–(3) bekezdés szerinti ingatlan és az (1) bekezdés c) pontja szerinti ingó vagyonelemek ingyenes tulajdonba adásáról (a továbbiakban: ingyenes tulajdonba adás) – az állami vagyon felügyeletéért felelős miniszter által előkészített javaslat alapján – a Kormány nyilvános határozattal dönt.
+
+(5)[^7] Az MR Közösségi Lakásalap Nkft. az (1) bekezdés a) pontja, továbbá a (2) és (3) bekezdés szerinti ingatlanok tulajdonjogát a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény (a továbbiakban: Net tv.), illetve a 2018. évi CIII. törvény alapján létrejött, fennálló lakásbérleti jogviszonyokkal terhelten, a Net tv. és a 2018. évi CIII. törvény alapján létrejött, fennálló és megszűnt lakásbérleti jogviszonyokból fakadó jogosultságokkal, követelésekkel – ideértve különösen a bérleti díj, bérlőre áthárított közös költség, közműtartozás, hatósági bírság és egyéb díjak, jogcím nélküli lakáshasználati díj, bérlőnek felróható kár megtérítése, ingatlan kiürítés költségei és ezek járulékai, mindezek behajtásának költségei és késedelmi kamatai iránti követeléseket –, valamint kötelezettségekkel együtt szerzi meg, ide nem értve
+
+a) a pályázat alapján kötött lakásbérleti szerződéseket megelőzően a pályáztatott ingatlanra vonatkozó megszűnt lakásbérleti jogviszonyokat és
+
+b) a műszaki hiba miatt ideiglenes vagy tartós elhelyezés céljából felajánlott ingatlanra kötött, ideiglenes vagy tartós elhelyezésül szolgáló lakásbérleti szerződést megelőzően a felajánlott ingatlanra vonatkozó megszűnt lakásbérleti jogviszonyokat.
+
+(6)[^8] Ingatlan tulajdonjogának az (1) bekezdés b) pontja alapján történő átszállása esetén az ingatlan tulajdonjogának átszállásakor az MR Közösségi Lakásalap Nkft.-t illetik meg a megszűnt lakásbérleti jogviszonyból eredő – (5) bekezdés szerinti – jogok és követelések, valamint terhelik az ebből eredő – az (5) bekezdés szerinti – kötelezettségek.
+
+(7)[^9] Az MR Közösségi Lakásalap NKft. az (1) bekezdés a) pontja, valamint a (2) és (3) bekezdés szerinti ingatlanok ingyenes tulajdonba adását követő két évig a bérlő számára a 2018. évi CIII. törvény alapján megkötött lakásbérleti szerződésben meghatározottaknál hátrányosabb feltételeket nem határozhat meg.
+
+(8)[^10] Az ingatlanügyi hatóság az (1)–(3) bekezdés szerinti tulajdonváltozást az illetékességi területén található lakóingatlanok vonatkozásában a tulajdonosi joggyakorlónak az (1) bekezdésre, valamint (2) vagy (3) bekezdésre való hivatkozást, a Kormány ingyenes tulajdonba adásról szóló határozatára való hivatkozást, a lakóingatlan helyrajzi számát, a tulajdonszerző MR Közösségi Lakásalap NKft. adatait és a tulajdonba adott tulajdoni hányad mértékét tartalmazó kérelme alapján jegyzi be.
+
+(9)[^11] Az (1)–(3) bekezdés szerint ingyenesen tulajdonba adott ingatlanok MR Közösségi Lakásalap NKft. általi értékesítése, cseréje esetén az értékesítésből származó bevételt és az ingatlanok helyébe lépő vagyontárgyat az MR Közösségi Lakásalap NKft. által végzett lakásgazdálkodási feladatok ellátására, valamint az ingatlanállomány fejlesztésére, bővítésére kell fordítani, illetve használni.
+
+(10)[^12] Az ingatlanok (9) bekezdés szerinti elidegenítése esetén a (7) bekezdés szerinti kötelezettség – a (7) bekezdés szerint megállapított határidő lejártáig – az MR Közösségi Lakásalap NKft.-től tulajdont szerző személyekre is kiterjed.
+
+(11)[^13] Az (1)–(3) bekezdés szerinti ingatlanvagyonhoz kapcsolódó szociális lakásgazdálkodás megvalósításáért és fenntartásáért, az ingatlanok bérleti jogviszonyából fakadó feladatok ellátásáért, továbbá a Nemzeti Eszközkezelő Programban részt vevő bérlőkért végzett szociális, segítő-szolgáltató tevékenységéért az MR Közösségi Lakásalap NKft.-t közszolgáltatási szerződésben foglalt költségtérítés illeti meg.
+
+(12)[^14] Az e törvény felhatalmazása alapján az MR Közösségi Lakásalap NKft. tulajdonába került üres ingatlanok birtokának átruházására a Polgári Törvénykönyvről szóló 2013. évi V. törvény. 5:3. § (4) bekezdése szerinti dolog kiadása iránti igény átruházásával kerül sor.
+
+(13)[^15] Az MR Közösségi Lakásalap NKft. az (1) bekezdés szerint ingyenesen tulajdonába kerülő üres és megüresedő ingatlanok vonatkozásában együttműködik a „Felzárkózó települések programmal”, annak mobilitási céljainak elősegítése érdekében.
+
+## 1/A. §[^16]
+
+Az 1. § (1)–(3) bekezdése szerinti ingyenes tulajdonba adás tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés a) pontját és (5)–(8) bekezdését.
+
+## 1/B. §[^17]
+
+(1) Az 1. § (1) bekezdés a) pontja szerinti ingatlan bérlője javára bejegyzett visszavásárlási jog megszűnik, ha az ingatlanra vonatkozó bérleti jog megszűnik.
+
+(2) A visszavásárlási vételár a 2018. évi CIII. törvény szerinti Lebonyolító által az ingatlanért fizetett vételárnak a Lebonyolító és az eladó között megkötött adásvételi szerződés keltétől a visszavásárlási jog gyakorlásáig terjedő időszakra számított jegybanki alapkamattal, a Lebonyolító és az MR Közösségi Lakásalap NKft. által az ingatlanra fordított értéknövelő beruházások értékével, valamint a Lebonyolító és az MR Közösségi Lakásalap NKft. által a bérlő helyett teljesített kötelezettség összegével növelt összege.
+
+(3) A visszavásárlási jog akkor gyakorolható, ha a bérlő bérleti díj vagy a bérleti jogviszonyból származó egyéb tartozását rendezte, kivéve, ha a bérleti jogviszonyból származó egyéb tartozás összege a (2) bekezdés alapján a visszavásárlási ár megállapítása során érvényesítésre kerül.
+
+(4) Ha a visszavásárlási jog jogosultja a visszavásárlási jogát gyakorolja, az ingatlanért általa fizetett visszavásárlási vételár az MR Közösségi Lakásalap NKft.-t illeti meg.
+
+## 1/C. §[^18]
+
+(1) Azok az 1. § (1)–(3) bekezdése szerinti ingatlanok, valamint az 1. § (1) bekezdés c) pontja szerinti ingatlanokban található ingóságok, amelyek MR Közösségi Lakásalap NKft. részére történő tulajdonba adására az 1. § (1)–(3) bekezdésében foglalt határidők szerint e törvény alapján nem került sor, ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap NKft. tulajdonába adhatóak.
+
+(2) Az (1) bekezdés szerinti ingatlan és ingó vagyonelemek ingyenes tulajdonba adásáról – az állami vagyon felügyeletéért felelős miniszter által előkészített javaslat alapján – a Kormány nyilvános határozattal dönt.
+
+(3) Az (1) bekezdés szerinti ingatlan és ingó vagyonelemek ingyenes tulajdonba adására az 1. § (5), (7)–(9) és (13) bekezdésében, az 1/B. §-ban, a 3/A. §-ban és az 5. § (3) bekezdésében foglalt rendelkezéseket alkalmazni kell.
+
+## 1/D. §[^19]
+
+Az 1/C. § szerinti ingyenes tulajdonba adás tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés a) pontját és (5)–(8) bekezdését.
+
+## 2. §
+
+(1) A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosítása keretében a lakóingatlanoknak a részletvételi vásárlásával összefüggő, a 2018. évi CIII. törvény és végrehajtási rendelete szerinti közszolgáltatási szerződésben meghatározott egyes lebonyolítói és követeléskezelői feladatokat – az MR Közösségi Lakásalap NKft. feladatvállalása alapján – 2022. január 1-jétől az MR Közösségi Lakásalap NKft. látja el.
+
+(2) Az (1) bekezdés szerint átvállalt lebonyolítói és követeléskezelői feladatok ellátásáért, valamint a részletvevőkért végzett szociális, segítő-szolgáltató, mentori tevékenységéért az MR Közösségi Lakásalap NKft.-t közszolgáltatási szerződésben foglalt költségtérítés illeti meg.
+
+(3) A 2018. évi CIII. törvény szerinti Lebonyolító, valamint az MR Közösségi Lakásalap NKft. a 2018. évi CIII. törvény és végrehajtási rendeletében meghatározott feladatok ellátása céljából a részletvételi jogviszonnyal kapcsolatos – a kezelésükben álló – személyes adatokat, az államot megillető követeléssel, valamint az államot megillető jelzálogjoggal terhelt ingatlannal kapcsolatos adatokat és információkat egymásnak átadják. A 2018. évi CIII. törvény szerinti Lebonyolító, valamint az MR Közösségi Lakásalap NKft. a részletvételi jogviszonyból eredő állami követeléssel összefüggő adatokat a követelés megszűnését követő 8 évig kezeli.
+
+## 3. §
+
+(1) Az MR Közösségi Lakásalap NKft. az e törvény felhatalmazása alapján tulajdonba adott ingatlanokat, az azokkal kapcsolatos ráfordításait, valamint az e törvény szerinti tevékenységéhez biztosított költségtérítést elkülönítetten tartja nyilván, azokat az e törvényben meghatározott feladatai ellátására használhatja fel.
+
+(2)[^20] Az e törvény felhatalmazása alapján az MR Közösségi Lakásalap NKft. tulajdonába került ingatlanok és az 1. § (9) bekezdése alapján azok helyébe lépő ingatlanok nem tartoznak az MR Közösségi Lakásalap NKft. csődvagyonába.
+
+(3)[^21] Az MR Közösségi Lakásalap NKft. közhasznú jogállású szervezet.
+
+## 3/A. §[^22]
+
+A 2018. évi CIII. törvény V. fejezete szerinti, az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény alapján meghosszabbodott időtartamú határozott idejű lakásbérleti szerződések 2022. január 1. napjával kezdődően, feltétel nélkül határozatlan időtartamú lakásbérleti szerződéssé alakulnak át.
+
+## 3/B. §[^23]
+
+Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az MR Közösségi Lakásalap NKft. 2. § szerinti feladatainak részletes tartalmát.
+
+## 4. §
+
+(1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő nyolcadik napon lép hatályba.
+
+(2) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
+
+## 5. §
+
+(1) Az e törvény szerinti állami feladatok átadásáról, az átadás-átvételi eljárás lefolytatásáról az állami vagyon felügyeletéért felelős miniszter 2021. december 31. napjáig gondoskodik.
+
+(2) Az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény 12. §-a szerinti fizetési haladékkal érintett, 2021. december 31. napjáig megfizetett bérleti díj összege a magyar államot illeti meg, 2022. január 1-jét követően megfizetett bérleti díj összege az MR Közösségi Lakásalap NKft.-t illeti meg.
+
+(3)[^24] 2022. január 1-jén, illetve az 1. § (2) és (3) bekezdése szerinti tulajdonjog átszállásának napján az 1. § (1) bekezdés c) pontja szerinti üres ingatlanok kivételével minden, ingatlanátadással érintett fennálló, és az 1. § (5) és (6) bekezdése szerinti megszűnt bérleti jogviszonyból, adósságrendezési és együttműködési megállapodásból, valamint az ingatlan tulajdonba adásából eredő jog és kötelezettség az MR Közösségi Lakásalap NKft.-re száll át, beleértve a 2022. január 1-je, illetve az 1. § (2) és (3) bekezdése szerinti tulajdonjog átszállás előtt keletkezett követeléseket, valamint a 2022. január 1-je, illetve az 1. § (2) és (3) bekezdése szerinti tulajdonjog átszállása előtt keletkezett, a társasházakról szóló 2003. évi CXXXIII. törvény és a lakásszövetkezetekről szóló 2004. évi CXV. törvény szerinti, társasház, illetve lakásszövetkezet felé fennálló közösköltség- és fenntartásiköltség-tartozásokat is.
+
+(4) A 2018. évi CIII. törvény szerinti Lebonyolító 2021. december 1-ig átadja az MR Közösségi Lakásalap NKft.-nek a 2. § (1) bekezdése szerinti közszolgáltatási szerződésben meghatározott feladatai ellátásához szükséges 2. § (3) bekezdésében foglalt adatokat.
+
+## 6. §[^25]
+
+Az 1/A. § és 1/D. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+## 7. §[^26]
+
+Az 1. § (1)–(4) és (11) bekezdése, valamint a 2. § (2) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz, amely az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat alapján nyújtható.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2021. június 15-i ülésnapján fogadta el. A kihirdetés napja: 2021. június 24.
+[^2]: Az 1. § (1) bekezdése a 2021: CXXXII. törvény 12. §-ával megállapított, nyitó szövegrésze a 2024. évi LVI. törvény 114. §-a szerint módosított szöveg.
+[^3]: A hatálybalépés időpontja 2021. december 25.
+[^4]: Az 1. § (2) bekezdése a 2021: CXXXII. törvény 12. §-ával megállapított, a 2024. évi LVI. törvény 113. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdése a 2021: CXXXII. törvény 13. §-ával megállapított szöveg.
+[^6]: Az 1. § (4) bekezdése a 2021: CXXXII. törvény 14. §-ával megállapított szöveg.
+[^7]: Az 1. § (5) bekezdése a 2021: CXXXII. törvény 14. §-ával megállapított szöveg.
+[^8]: Az 1. § (6) bekezdése a 2021: CXXXII. törvény 14. §-ával megállapított szöveg.
+[^9]: Az 1. § (7) bekezdése a 2021: CXXXII. törvény 14. §-ával megállapított szöveg.
+[^10]: Az 1. § (8) bekezdése a 2021: CXXXII. törvény 14. §-ával megállapított, a 2024. évi LVI. törvény 113. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. § (9) bekezdését a 2021: CXXXII. törvény 15. §-a iktatta be.
+[^12]: Az 1. § (10) bekezdését a 2021: CXXXII. törvény 15. §-a iktatta be.
+[^13]: Az 1. § (11) bekezdését a 2021: CXXXII. törvény 15. §-a iktatta be.
+[^14]: Az 1. § (12) bekezdését a 2021: CXXXII. törvény 15. §-a iktatta be.
+[^15]: Az 1. § (13) bekezdését a 2021: CXXXII. törvény 15. §-a iktatta be.
+[^16]: Az 1/A. §-t a 2021: CXXXII. törvény 16. §-a iktatta be.
+[^17]: Az 1/B. §-t a 2021: CXXXII. törvény 17. §-a iktatta be.
+[^18]: Az 1/C. §-t a 2022. évi LXVIII. törvény 41. §-a iktatta be.
+[^19]: Az 1/D. §-t a 2022. évi LXVIII. törvény 42. §-a iktatta be.
+[^20]: A 3. § (2) bekezdése a 2021: CXXXII. törvény 18. §-ával megállapított szöveg.
+[^21]: A 3. § (3) bekezdése a 2021: CXXXII. törvény 18. §-ával megállapított szöveg.
+[^22]: A 3/A. §-t a 2021: CXXXII. törvény 19. §-a iktatta be.
+[^23]: A 3/B. §-t a 2021: CXXXII. törvény 19. §-a iktatta be.
+[^24]: Az 5. § (3) bekezdése a 2021: CXXXII. törvény 20. §-ával megállapított szöveg.
+[^25]: A 6. § a 2021: CXXXII. törvény 21. §-ával megállapított, a 2022. évi LXVIII. törvény 43. §-a szerint módosított szöveg.
+[^26]: A 7. § a 2021: CXXXII. törvény 21. §-ával megállapított szöveg.

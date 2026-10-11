@@ -1,0 +1,78 @@
+---
+title: "1964. évi 28. törvényerejű rendelet a Magyar Népköztársaság és a Jemeni Arab Köztársaság közötti barátságról és együttműködésről Budapesten, 1964. május 30-án aláírt Szerződés kihirdetéséről"
+identifier: "1964. évi 28. törvényerejű rendelet"
+njt_id: "1964-28-10-00"
+eli: "https://njt.jog.gov.hu/eli/TVR/1964/28"
+type: law-decree
+jurisdiction: hu
+language: hu
+in_force_from: 1991-01-01
+last_amended: 1991-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1964-28-10-00"
+retrieved: 2026-10-12
+---
+
+# 1964. évi 28. törvényerejű rendelet a Magyar Népköztársaság és a Jemeni Arab Köztársaság közötti barátságról és együttműködésről Budapesten, 1964. május 30-án aláírt Szerződés kihirdetéséről[^1][^2]
+
+*(A Szerződés megerősítő okiratainak kicserélése Kairóban, 1964. október 20-án megtörtént.)*
+
+## 1. §
+
+A Magyar Népköztársaság Elnöki Tanácsa[^3] a Magyar Népköztársaság és a Jemeni Arab Köztársaság közötti barátságról és együttműködésről Budapesten, 1964. május 30-án aláírt Szerződést e törvényerejű rendelettel kihirdeti.
+
+## 2. §
+
+Az 1. §-ban említett Szerződés magyar nyelvű szövege a következő:
+
+**„SZERZŐDÉS**
+
+a Magyar Népköztársaság és a Jemeni Arab\
+Köztársaság közötti barátságról\
+és együttműködésről
+
+A Magyar Népköztársaság Elnöki Tanácsa és a Jemeni Arab Köztársaság Elnöke, attól az óhajtól vezérelve, hogy a nemzeti szuverenitás kölcsönös tiszteletben tartása, az egymás belügyeibe való be nem avatkozás, az egyenjogúság és kölcsönös előnyök alapján fejlesszék és szilárdítsák a Magyar Népköztársaság és a Jemeni Arab Köztársaság közötti baráti kapcsolatokat és együttműködést,
+
+szilárdan eltökélvén, hogy hozzájárulnak a nemzetközi feszültség enyhítéséhez, az államok közötti bizalom megteremtéséhez, a nemzetközi együttműködés fejlesztéséhez,
+
+abban a meggyőződésben, hogy a két ország baráti együttműködésének fejlesztése és megerősítése összhangban van mind a magyar, mind a jemeni nép érdekeivel és hozzájárulást jelent a világ népei közötti jobb megértéshez,
+
+elhatározták a jelen Szerződés megkötését, az alábbiak szerint:
+
+*1. cikk*
+
+A Szerződő Felek vállalják, hogy részt vesznek minden olyan nemzetközi tevékenységben, amely a békés együttműködés előmozdítását, a világ békéjének és biztonságának megőrzését, a bármilyen formában megnyilvánuló gyarmatosítás és imperializmus teljes felszámolását célozza és amely megegyezik az ENSZ Alapokmányában lefektetett elvekkel és célkitűzésekkel.
+
+*2. cikk*
+
+A Szerződő Felek kötelezettséget vállalnak, hogy kapcsolataikat és együttműködésüket a szuverenitás kölcsönös tiszteletben tartása, az egymás belügyeibe való be nem avatkozás, az egyenjogúság és kölcsönös előnyök alapján fejlesztik.
+
+*3. cikk*
+
+A Szerződő Felek megegyeznek, hogy az ENSZ Alapokmányának előírásával összhangban a barátság szellemében rendeznek bármely nézeteltérést amely közöttük felmerülhet.
+
+*4. cikk*
+
+A Szerződő Felek meg vannak győződve afelől, hogy az egyenjogúság elvén alapuló kölcsönösen előnyös gazdasági együttműködés szilárd alapját képezi a békés és baráti kapcsolatoknak és kötelezettséget vállalnak, hogy ilyen irányú együttműködésüket fokozzák országaik előrehaladása és fejlődése érdekében.
+
+*5. cikk*
+
+A Szerződő Felek megegyeznek, hogy előmozdítják a kölcsönös kapcsolatokat a közoktatás, kultúra, a tudomány és technika területén és ezáltal hozzájárulnak a két ország népei közötti megértés elmélyítéséhez, egymás kulturális értékeinek lehető legszélesebb megismerése és gazdasági életük technikai színvonalának állandó emelése érdekében.
+
+1\. A jelen Szerződést meg kell erősíteni és a Szerződés a megerősítő okmányok kicserélése napján lép hatályba. A megerősítés Budapesten történik, a lehető legrövidebb időn belül.
+
+2\. A jelen Szerződés hatálybalépésétől számított 20 évre szól, és azután is mindaddig hatályban marad, amíg valamely Szerződő Fél hat hónapra írásban fel nem mondja.
+
+Készült Budapesten, az 1964. évi május hó 30. napján, két eredeti példányban, magyar és arab nyelven. Mindkét nyelvű szöveg egyaránt hiteles.”
+
+*(Aláírások.)*
+
+## 3. §
+
+E törvényerejű rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1964. évi október hó 20. napjától kezdődően kell alkalmazni.
+
+---
+
+[^1]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^2]: A kihirdetés napja: 1964. december 8.
+[^3]: Az 1989: XXXI. törvény 38. §-ának (2) bekezdése a Népköztársaság Elnöki Tanácsát megszüntette.

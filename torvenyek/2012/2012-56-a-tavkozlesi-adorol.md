@@ -1,0 +1,136 @@
+---
+title: "2012. évi LVI. törvény a távközlési adóról"
+identifier: "2012. évi LVI. törvény"
+njt_id: "2012-56-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2012/56"
+type: act
+jurisdiction: hu
+language: hu
+date: 2012-05-30
+in_force_from: 2012-07-01
+last_amended: 2014-03-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2012-56-00-00"
+retrieved: 2026-10-12
+---
+
+# 2012. évi LVI. törvény a távközlési adóról[^1]
+
+A társadalmi közös kiadások fedezete érdekében az Országgyűlés a következő törvényt alkotja:
+
+## Értelmező rendelkezések
+
+### 1. §[^2]
+
+E törvény alkalmazásában:
+
+1\. *távközlési szolgáltatás:* Magyarország területén lévő az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlő hálózaton nyújtott, az elektronikus hírközlésről szóló törvény szerinti nyilvánosan elérhető telefonszolgáltatás (ideértve az üzenet küldését lehetővé tevő szolgáltatást is);
+
+2.[^3] *előfizető:* a távközlési szolgáltatás igénybevételére kötött szerződésben előfizetőként megjelölt természetes személy, jogi személy vagy egyéb szervezet, függetlenül attól, hogy a távközlési szolgáltatás ellenértékét a szolgáltató számára előre vagy utólag fizeti;
+
+3.[^4] *szolgáltató:* Magyarországon távközlési szolgáltatás nyújtására jogosult természetes személy, jogi személy vagy egyéb szervezet;
+
+4\. *üzenet:* az elektronikus hírközlésről szóló törvény szerinti SMS, MMS;
+
+5\. *hívás:* az elektronikus hírközlésről szóló törvény szerinti hívás;
+
+6\. *hívószám:* az elektronikus hírközlésről szóló törvény szerinti bármely azonosító, amelyről az előfizető hívást kezdeményezhet;
+
+7\. *segélyhívás:* az elektronikus hírközlésről szóló törvény szerinti segélyhívás, továbbá az európai harmonizált segélyhívószámra (116 111, 116 000, 116 123) indított hívás;
+
+8\. *adománygyűjtő szám:* az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről szóló rendelet szerinti adománygyűjtő szám;
+
+9\. *teszthívás, teszt-SMS:* a szolgáltató által – kizárólag a szolgáltató elektronikus hírközlő hálózata működésének ellenőrzését szolgáló hívószámra – indított hívás, küldött üzenet.
+
+## Adókötelezettség, adóalany
+
+### 2. §
+
+Adóköteles a távközlési szolgáltatás nyújtása.
+
+### 3. §
+
+Az adó alanya a szolgáltató.
+
+## Adóalap
+
+### 4. §
+
+Az adó alapja a szolgáltató előfizetőjének előfizetéséhez, előfizetés hiányában a szolgáltatóhoz tartozó hívószámról
+
+a) indított hívások időtartama;
+
+b) küldött üzenetek – szolgáltatóval kötött szerződés szerint számított – száma.
+
+## Adómérték, adóösszeg
+
+### 5. §[^5]
+
+(1) Az adó mértéke
+
+a) a 4. § *a)* pontja szerinti adóalap esetén, ha hívást
+
+aa) magánszemély előfizető előfizetéséhez tartozó hívószámról indítják, akkor hívásonként 2 forint/megkezdett perc,
+
+ab) nem magánszemély előfizető előfizetéséhez vagy a szolgáltatóhoz tartozó hívószámról indítják, akkor hívásonként 3 Ft/megkezdett perc,
+
+b) a 4. § *b)* pontja szerinti adóalap esetén, ha az üzenetet:
+
+ba) magánszemély előfizető előfizetéséhez tartozó hívószámról küldik, akkor 2 forint/darab,
+
+bb) nem magánszemély előfizető előfizetéséhez vagy a szolgáltatóhoz tartozó hívószámról küldik, akkor 3 Ft/darab.
+
+(2) A hívószámról indított hívások, küldött üzenetek utáni adó összege nem lehet több, mint:
+
+a) magánszemély előfizető előfizetéséhez tartozó hívószám esetén 700 Ft/hó/hívószám,
+
+b) nem magánszemély előfizető előfizetéséhez és a szolgáltatóhoz tartozó hívószám esetén 5000 Ft/hó/hívószám.
+
+## Adómentesség
+
+### 6. §[^6]
+
+Mentes az adó alól:
+
+a) a segélyhívás,
+
+b) adománygyűjtő szám hívása,
+
+c) üzenetküldés adománygyűjtő számra,
+
+d) a teszthívás, teszt-SMS,
+
+e) magánszemély előfizető hívószámáról indított hívások időtartamából havonta 10 megkezdett perc.
+
+## Az adó megállapítása
+
+### 7. §[^7]
+
+A szolgáltató az adót havonta a hívást, üzenetküldést követő második hónap 20. napjáig állapítja meg, az állami adóhatóság által rendszeresített nyomtatványon bevallja és megfizeti.
+
+## Eljárási rendelkezések
+
+### 8. §
+
+(1) Az adóval kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el.
+
+(2) A távközlési adóból származó bevétel a központi költségvetés bevételét képezi.
+
+## Záró és átmeneti rendelkezések
+
+### 9. §
+
+Ez a törvény 2012. július 1-jén lép hatályba.
+
+### 10. §[^8]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2012. május 18-i ülésnapján fogadta el. A kihirdetés napja: 2012. május 30.
+[^2]: Az 1. § a 2012: LXIX. törvény 78. §-ával megállapított szöveg.
+[^3]: Az 1. § 2. pontja a 2013: CCLII. törvény 177. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 3. pontja a 2013: CCLII. törvény 177. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § a 2013: CXXIII. törvény 8. §-ával megállapított szöveg.
+[^6]: A 6. § a 2012: LXIX. törvény 80. §-ával megállapított szöveg.
+[^7]: A 7. § a 2012: LXIX. törvény 81. §-ával megállapított szöveg.
+[^8]: A 10. § a 2012: LXIX. törvény 82. §-a alapján nem lép hatályba.

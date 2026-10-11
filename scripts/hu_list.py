@@ -84,6 +84,11 @@ def crawl(path, category, check_year=True):
     if check_year and out and any(it["eli"].split("/")[3] != year for it in out):
         print("SKIP %s: unfiltered fallback list" % path, file=sys.stderr)
         return []
+    # An unknown issuer likewise falls back to the list of all decrees of all issuers.
+    seg = path.strip("/").split("/")
+    if len(seg) == 4 and out and any(it["eli"].split("/")[4] != seg[3] for it in out):
+        print("SKIP %s: unfiltered fallback list (issuer)" % path, file=sys.stderr)
+        return []
     for p in range(2, pages + 1):
         out += parse(fetch_list(path, p))
     for it in out:

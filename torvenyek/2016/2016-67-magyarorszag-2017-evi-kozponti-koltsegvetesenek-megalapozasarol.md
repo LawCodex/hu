@@ -1,0 +1,453 @@
+---
+title: "2016. évi LXVII. törvény Magyarország 2017. évi központi költségvetésének megalapozásáról"
+identifier: "2016. évi LXVII. törvény"
+njt_id: "2016-67-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2016/67"
+type: act
+jurisdiction: hu
+language: hu
+date: 2016-06-17
+in_force_from: 2016-06-18
+last_amended: 2018-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2016-67-00-00"
+retrieved: 2026-10-12
+---
+
+# 2016. évi LXVII. törvény Magyarország 2017. évi központi költségvetésének megalapozásáról[^1]
+
+## I. Fejezet — AZ ÁLLAMHÁZTARTÁST SZABÁLYOZÓ JOGANYAG MÓDOSÍTÁSA
+
+### 1. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
+
+#### 6. §
+
+A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény
+
+1.[^7]
+
+2.[^8]
+
+3–4.[^9]
+
+lép.
+
+### 2. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
+
+#### 20. §
+
+(1)[^15]
+
+(2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
+
+1–3.[^16]
+
+4.[^17]
+
+5.[^18]
+
+## II. Fejezet — A KÖZPONTI KÖLTSÉGVETÉSRŐL SZÓLÓ TÖRVÉNY VÉGREHAJTÁSÁHOZ KAPCSOLÓDÓ TOVÁBBI TÖRVÉNYMÓDOSÍTÁSOK
+
+### 3. Az árak megállapításáról szóló 1990. évi LXXXVII. törvény módosítása
+
+### 4. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
+
+### 5. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
+
+### 6. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
+
+### 7. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
+
+#### 37. §
+
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
+
+1.[^29]
+
+2–4.[^30]
+
+5–6.[^31]
+
+lép.
+
+### 8. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
+
+### 9. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
+
+### 10. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
+
+#### 47. §
+
+Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény 77. §-a.
+
+### 11. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
+
+#### 57. §
+
+A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
+
+1.[^41]
+
+2–4.[^42]
+
+5.[^43]
+
+6.[^44]
+
+lép.
+
+### 12. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
+
+#### 61. §
+
+(1)[^48]
+
+(2)[^49]
+
+#### 65. §
+
+(1)[^53]
+
+(2)[^54]
+
+### 13. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
+
+### 14. A sportról szóló 2004. évi I. törvény módosítása
+
+### 15. A mozgóképről szóló 2004. évi II. törvény módosítása
+
+### 16. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
+
+### 17. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosítása
+
+### 18. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
+
+### 19. A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény módosítása
+
+### 20. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
+
+### 21. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
+
+#### 104. §
+
+A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény
+
+1.[^77]
+
+2.[^78]
+
+lép.
+
+#### 105. §
+
+Hatályát veszti a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény
+
+1.[^79]
+
+2.[^80]
+
+3.[^81]
+
+### 22. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
+
+### 23. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
+
+### 24. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
+
+#### 108. §
+
+(1)[^84]
+
+(2)[^85]
+
+#### 113. §
+
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény
+
+1.[^88]
+
+2.[^89]
+
+lép.
+
+### 25. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
+
+### 26. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
+
+### 27. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
+
+### 28. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
+
+### 29. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló 2012. évi V. törvény módosítása
+
+### 30. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
+
+### 31. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
+
+### 32. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosítása
+
+### 33. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
+
+### 34. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2013. évi CXXXVIII. törvény módosítása
+
+### 35. Az egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 2013. évi CCLII. törvény módosítása
+
+### 36. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
+
+### 37. A bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvény módosításáról szóló 2015. évi LX. törvény módosítása
+
+## III. Fejezet — EGYES ELKÜLÖNÍTETT ÁLLAMI PÉNZALAPOK MEGSZÜNTETÉSE
+
+### 38. A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap megszüntetése
+
+#### 144. §
+
+(1) A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alap (a továbbiakban: Alap) 2016. december 31-én megszűnik.
+
+(2) Az Alap kezelő szervével e minőségében 2016. december 31-én fennálló magánjogi szerződésekbe az Alap kezelő szerve helyett 2017. január 1-jén az ár- és belvízvédelmi kártalanítás céljából létrehozott fejezeti kezelésű előirányzat kezelő szerve lép.
+
+(3) Az Alapból 2016. december 31-én kártalanításra jogosult személy befizetési kötelezettsége és a kártalanításra való jogosultsága 2017. január 1-jétől a (2) bekezdés szerinti előirányzat felhasználási szabályait meghatározó miniszteri rendeletben foglaltak szerint alakul azzal, hogy az Alapból 2016. december 31-én kártalanításra jogosult személy kártalanításra való jogosultsága 2017. január 1-jétől nem lehet hátrányosabb a 2016. december 31-én fennálló jogosultságánál.
+
+(4) Az Alap 2016. december 31-én meglévő pénzeszközeit az Alap kezelő szerve a (2) bekezdés szerinti előirányzat fizetési számlájára köteles átutalni.
+
+### 39. A Szövetkezeti Hitelintézetek Integrációs Alapjának megszüntetése
+
+#### 146. §
+
+(1) A Szövetkezeti Hitelintézetek Integrációs Alapja (a továbbiakban: Szövetkezeti Alap) 2016. december 31-én megszűnik.
+
+(2) A Szövetkezeti Alap záró beszámolóját a Magyar Fejlesztési Bank Részvénytársaság (a továbbiakban: MFB Zrt.) az Alap megszűnését követő 60 napon belül elkészíti, és azt a honlapján az Országgyűlés általi elfogadását követően haladéktalanul közzéteszi.
+
+(3) A Szövetkezeti Alap 2016. december 31-én meglévő pénzeszközeit az Alap kezelő szerve átutalja a központi költségvetés javára, amelyet a költségvetés közvetlen bevételei és kiadásai között kell elszámolni.
+
+(4) A Szövetkezeti Alap megszűnésének időpontjáig keletkezett iratokat, valamint a (3) bekezdés szerinti záró beszámolót és az ahhoz kapcsolódó iratokat az MFB Zrt. a vonatkozó belső szabályzataiban foglaltak szerint megőrzi.
+
+(5) A Szövetkezeti Alap megszűnésével összefüggésben az (1) bekezdésben meghatározott határnapot követően felmerülő költségek az MFB Zrt.-t terhelik.
+
+## IV. Fejezet — EGYES TÖRVÉNYEK ÉS TÖRVÉNYI RENDELKEZÉSEK TECHNIKAI ÉS TARTALMI DEREGULÁCIÓJA
+
+### 40. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
+
+### 41. A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény módosítása
+
+### 42. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
+
+#### 150. §
+
+(1) Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
+
+1–5.[^116]
+
+6.[^117]
+
+7–12.[^118]
+
+(2)[^119]
+
+### 43. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
+
+### 44. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
+
+### 45. Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény módosítása
+
+### 46. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
+
+### 47. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
+
+### 48. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
+
+### 49. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
+
+### 50. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
+
+### 51. Az önálló orvosi tevékenységről szóló 2000. évi II. törvény módosítása
+
+### 52. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
+
+### 53. A sportról szóló 2004. évi I. törvény módosítása
+
+### 54. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
+
+### 55. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
+
+### 56. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
+
+### 57. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
+
+### 58. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
+
+### 59. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
+
+### 60. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
+
+### 61. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
+
+### 62. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
+
+#### 204. §
+
+Hatályát veszti a nemzeti köznevelésről szóló 2011. évi CXC. törvény
+
+1.[^141]
+
+2.[^142]
+
+3–6.[^143]
+
+### 63. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
+
+### 64. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
+
+### 65. A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény módosítása
+
+### 66. Egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, valamint önkormányzatokat érintő egyes törvények módosításáról szóló 2012. évi CXC. törvény módosítása
+
+### 67. A fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény módosítása
+
+### 68. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosítása
+
+### 69. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
+
+### 70. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
+
+### 71. A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény módosítása
+
+### 72. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
+
+### 73. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
+
+### 74. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
+
+### 75. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
+
+### 76. A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvény módosítása
+
+### 77. Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény módosítása
+
+### 78. Egyes törvények hatályon kívül helyezése
+
+#### 236. §
+
+Hatályát veszti
+
+1.[^163]
+
+2–6.[^164]
+
+## V. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 79. Hatályba léptető rendelkezések
+
+#### 237. §
+
+(1) Ez a törvény – a (2)–(9) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba és 2018. január 3-án hatályát veszti.
+
+(2) A 70–73. §, a 75–78. §, a 83. §, a 85. §, a 97–100. §, 178–184. §, a 236. § 1. pontja, a 238. § (3) bekezdése és a 7. melléklet a kihirdetését követő harmincadik napon lép hatályba.
+
+(3) A 13. §, az 59. §, a 61. § (2) bekezdése, a 62. §, a 63. §, a 65. § (1) bekezdése, a 108. § (1) bekezdése, a 112. §, a 113. § 2. pontja és az 5. melléklet 2016. szeptember 1-jén lép hatályba.
+
+(4) A 74. §, a 80–82. §, a 84. §, a 86–88. §, a 149. §, a 151. §, a 201–203. §, a 209. §, a 211. §, a 212. §, a 236. § 2–6. pontja és az 1. melléklet 2016. október 1-jén lép hatályba.
+
+(5)[^165] Az 1. §, a 2. §, a 4. §, a 6. § 2. pontja, a 15. §, a 20. § (2) bekezdés 4. pontja, a 26. §, a 27. §, a 29. §, a 30. §, a 32–35. §, a 37. § 2–4. pontja, a 48–49. §, az 51–53 §, az 55. §, az 57. § 2–4. és 6. pontja, az 58. §, a 60. §, a 64. §, a 66. §, a 67. §, a 79. §, a 95. §, a 96. §, a 102. §, a 103. §, a 104. § 2. pontja, a 105. § 1. és 3. pontja, a 108. § (2) bekezdése, a 114. §, a 115. §, a 123. §, a 124. §, a 128. §, a 133. §, a 145. §, a 147. §, a 150. § (1) bekezdés 1–5. és 7–12. pontja, valamint (2) bekezdése, a 165. §, a 166. §, a 168–172. §, a 174–176. §, 185–188. §, a 189. §, a 190–200. §, a 204. § 1. és 2. pontja, a 205. §, a 206. §, a 216. §, a 217. §, a 220–233. § és a 238. § (2) bekezdése 2017. január 1-jén lép hatályba.
+
+(6) A 39–44. § 2017. január 18-án lép hatályba.
+
+(7)[^166]
+
+(8) A 61. § (1) bekezdése és a 65. § (2) bekezdése 2018. január 1-jén lép hatályba.
+
+(9) A 47. § 2018. január 2-án lép hatályba.
+
+### 80. Az Európai Unió jogának való megfelelés
+
+#### 238. §
+
+(1) A
+
+1\. 58–67. § a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+2\. 119. §, valamint a 122. § a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdés c) pontjának,
+
+3\. 123. § a 2008/94/EK, a 2009/38/EK és a 2002/14/EK európai parlamenti és tanácsi irányelvnek, valamint a 98/59/EK és a 2001/23/EK tanácsi irányelvnek a tengerészek tekintetében történő módosításáról szóló, 2015. október 6-i 2015/1794/EU európai parlamenti és tanácsi irányelvnek,
+
+4\. 124. § a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikk (2) bekezdésének,
+
+5\. 125. § a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv melléklet 2. szakasz 1. pontjának,
+
+6\. 126. § a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) A 60. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3) A 178–184. §
+
+a) a 4-metilamfetamin ellenőrzési intézkedéseknek történő alávetéséről szóló 2013. március 7-i 2013/129/EU tanácsi határozat,
+
+b) az 5-(2-amino-propil)indol ellenőrzési intézkedések alá vonásáról szóló 2013. október 7-i 2013/496/EU tanácsi határozat,
+
+c) a 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin (25I-NBOMe), a 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil] metil]benzamid (AH-7921), a 3,4-metilén-dioxi-pirovaleron (MDPV) és a 2-(3-metoxi-fenil)-2-(etil-amino)ciklohexanon (metoxetamin) ellenőrzési intézkedések alá vonásáról szóló, 2014. szeptember 25-ei 2014/688/EU tanácsi határozat,
+
+d) a 4-metil-5-(4-metil-fenil)-4,5-dihidrooxazol-2-amin (4,4'-DMAR) és az 1-ciklohexil-4-(1,2-difenil- etil)piperazin (MT-45) ellenőrzési intézkedések alá vonásáról szóló 2015. október 8-ai 2015/1873/EU tanácsi határozat
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 2016. évi LXVII. törvényhez[^167]
+
+## 2–4. melléklet a 2016. évi LXVII. törvényhez[^168]
+
+## 3–4. melléklet a 2016. évi LXVII. törvényhez[^169]
+
+## 5. melléklet a 2016. évi LXVII. törvényhez[^170]
+
+## 6. melléklet a 2016. évi LXVII. törvényhez[^171]
+
+## 7. melléklet a 2016. évi LXVII. törvényhez[^172]
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2016. június 7-i ülésnapján fogadta el. A kihirdetés napja: 2016. június 17. A törvény a 237. § (1) bekezdése alapján hatályát vesztette 2018. január 3. napjával.
+[^7]: A 6. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 20. § (2) bekezdés 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 20. § (2) bekezdés 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 20. § (2) bekezdés 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 37. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 37. § 2–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 37. § 5–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 57. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 57. § 2–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: Az 57. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: Az 57. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 61. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 61. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 65. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 65. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 104. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 104. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 105. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 105. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 105. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 108. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 108. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 113. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 113. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 150. § (1) bekezdés 1–5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 150. § (1) bekezdés 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 150. § (1) bekezdés 7–12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 150. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: A 204. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 204. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A 204. § 3–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 236. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 236. § 2–6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: A 237. § (5) bekezdése a 2016: CLXVI. törvény 61. §-a szerint módosított szöveg.
+[^166]: A 237. § (7) bekezdését a 2016: CLVIII. törvény 25. §-a hatályon kívül helyezte.
+[^167]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^171]: A 6. melléklet a 2016: CLVIII. törvény 26. §-a alapján nem lép hatályba.
+[^172]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

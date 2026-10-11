@@ -1,0 +1,403 @@
+---
+title: "2019. évi CXIII. törvény az öntözéses gazdálkodásról"
+identifier: "2019. évi CXIII. törvény"
+njt_id: "2019-113-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2019/113"
+type: act
+jurisdiction: hu
+language: hu
+date: 2019-12-17
+in_force_from: 2020-01-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2019-113-00-00"
+retrieved: 2026-10-12
+---
+
+# 2019. évi CXIII. törvény az öntözéses gazdálkodásról[^1]
+
+Az Országgyűlés a természeti erőforrások megóvása, a mezőgazdaság alkalmazkodóképességének erősítése, az öntözéses gazdálkodás elterjesztése, valamint a fenntartható vízgazdálkodási közösségek kialakítása érdekében a következő törvényt alkotja:[^2]
+
+## 1. §
+
+E törvény alkalmazásában:
+
+1.[^3] *harmadlagos mű:* a vízügyi igazgatási szervek által kezelt és üzemeltett vizilétesítmény, valamint a mezőgazdasági öntözési igények tényleges felmerülésének helye között elhelyezkedő üzemi szintű mezőgazdasági vízellátást biztosító, öntözési célú vagy kettős működésű vízilétesítmény és az öntözési körzet többletvizeit elvezető vízilétesítmény;
+
+2\. *mezőgazdasági termelő:* az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely Magyarország területén mezőgazdasági termelőtevékenységet végez;
+
+3\. *mezőgazdasági termelőtevékenység:* növénytermesztés, kertészet, szaporítóanyag-termesztés, állattenyésztés, méhanya-szaporítás, halászat, haltenyésztés, kiegészítő tevékenységgel vegyes gazdálkodás;
+
+4.[^4] *öntözésfejlesztési terület:* az öntözési igazgatási szerv által hivatalból kijelölt, középszintű tervezési egység, amely több öntözési körzetet foglalhat magába;
+
+5.[^5] *öntözési körzet:* a fenntartható vízgazdálkodási közösség elismeréséről szóló döntésben meghatározott, a fenntartható vízgazdálkodási közösség működésére szolgáló és a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt külterületi földrészleteket magába foglaló terület;
+
+6.[^6] *üzemeltetési szerződés:* a Nemzeti Földalapba tartozó harmadlagos művek vízjogi üzemeltetési engedélyében foglaltaknak megfelelő működtetése érdekében a mezőgazdasági termelővel, a fenntartható vízgazdálkodási közösséggel vagy a mezőgazdasági vízszolgáltatóval kötött szerződés.
+
+## 2. §
+
+(1) Az öntözéses gazdálkodás folytatása érdekében a vízilétesítmény vízjogi engedélyese öntözési szolgalomra jogosult, amely alapján a szolgáló ingatlan tulajdonosa, használója köteles tűrni, hogy az ingatlanán az öntözéses gazdálkodást folytató mezőgazdasági termelő a mezőgazdasági tevékenysége folytatásához szükséges öntözést szolgáló vonalas vízilétesítményt létesítsen és üzemeltessen, az ehhez szükséges vízimunkákat elvégezze, illetve az öntözőberendezést átvezesse, ha az az ingatlan rendeltetésszerű használatát nem zárja ki.
+
+(2) Az öntözési szolgalom a vízjogi engedélyben meghatározott engedélyest addig illeti meg, amíg a vízjogi engedély alapján folytatja tevékenységét.
+
+(3)[^7] Az öntözési szolgalmat a vízügyi hatóság a vízjogi létesítési vagy üzemeltetési engedélyben alapítja, amelynek az ingatlan-nyilvántartásba történő bejegyzése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény vízjogi engedélyesének személye megváltozik, kérelmére a vízügyi hatóság megállapítja az öntözési szolgalom új jogosultját, és az erről szóló döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot.
+
+(4)[^8] Ha a vízjogi engedélyes a tevékenységével felhagy, a vízügyi hatóság rendelkezik az öntözési szolgalom megszüntetéséről, és e döntésnek az ingatlan-nyilvántartásban történő átvezetése érdekében felhívja az ingatlanügyi hatóságot. Ha a vízilétesítmény az ingatlan rendeltetésszerű használatát akadályozza, a vízügyi hatóság elrendeli a vízilétesítmény megszüntetését.
+
+## 3. §
+
+(1) Az ingatlan tulajdonosát a 2. § (1) bekezdése szerinti korlátozás mértékének megfelelő kártalanítás illeti meg. A kártalanítás az ingatlan tulajdonosát
+
+a) az öntözési szolgalom keletkezésére tekintettel egyszeri jelleggel, valamint
+
+b) az ingatlan 2. § (1) bekezdése szerinti igénybevétele esetén – figyelemmel az igénybevétel időtartamára, jellegére –
+
+illeti meg.
+
+(2) A vízügyi hatóság határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításról.
+
+(3) A kártalanítás összegét a vízjogi engedélyes téríti meg az ingatlan tulajdonosának.
+
+(4) Az (1) bekezdés a) pontja szerinti kártalanítást a szolgalom ingatlan-nyilvántartásba történő bejegyzését követő 15 napon belül, az (1) bekezdés b) pontja szerinti kártalanítást pedig akkor kell megfizetni, ha az ingatlant igénybe veszik.
+
+## 4. §
+
+(1)[^9] A meglévő és vízjogi engedély alapján üzemelő harmadlagos műhöz az üzemeltető engedélyes hozzájárulásával és vízjogi engedély alapján bármely mezőgazdasági termelő csatlakozhat, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag megfelel. Ha a csatlakozni kívánó mezőgazdasági termelő a csatlakozás valamennyi feltételét teljesítette, az üzemeltető engedélyes a csatlakozást csak akkor tagadhatja meg, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag nem felel meg vagy a megnövekedett vízigény nem áll rendelkezésre.
+
+(2) Csatlakozás esetén a csatlakozó – a felek eltérő megállapodásának hiányában – a vízhasználattal kapcsolatos érdekeltsége arányában köteles
+
+a) a harmadlagos mű csatlakozáskori értékének reá eső részét a létesítmény tulajdonosának megtéríteni;
+
+b) a harmadlagos mű fenntartási és üzemeltetési költségeit a csatlakozás időpontjától kezdődően viselni;
+
+c) a csatlakozással kapcsolatban felmerült munkák elvégzéséről saját költségén gondoskodni.
+
+(3) Az üzemeltetési engedélyes a (2) bekezdés b) pontjában meghatározott költségek meg nem fizetése esetén a hozzájárulását visszavonhatja, amiről értesíti a vízügyi hatóságot. A hozzájárulás visszavonása esetén a vízügyi hatóság visszavonja a csatlakozó vízjogi engedélyét.
+
+## 5. §[^10]
+
+Az öntözési igazgatási szerv öntözésfejlesztési területet jelöl ki az aktív felszíni víztestekhez kapcsolódó öntözőfürtök, a vízgyűjtő-gazdálkodási tervezési alegységek, a talajtani és vízföldtani adottságok, a domborzati és a vízrajzi viszonyok és az öntözés gazdaságossága figyelembevételével a felszíni vízből ellátott öntözési célú vízilétesítmény hatásterületének megfelelően. Egy földrészlet csak egy öntözésfejlesztési terület része lehet.
+
+## 6. §
+
+(1)[^11] Az öntözési igazgatási szerv az öntözésfejlesztési területre öntözésfejlesztési tervet készít, amely az e törvény végrehajtására kiadott rendeletben meghatározott hatóság jóváhagyásával válik érvényessé.
+
+(2)[^12] Az öntözésfejlesztési terv tartalmazza az öntözésfejlesztési területen az öntözéssel összefüggő természeti feltételeket, a domborzati, vízrajzi, vízföldtani és talajtani adottságokat, amelyek figyelembevételével az öntözésfejlesztési tervet jóváhagyó határozatban meghatározásra kerül, hogy a kijelölt területen milyen természetvédelmi, környezetvédelmi, talajvédelmi feltételekkel lehetséges az öntözéses gazdálkodás folytatása.
+
+(3)[^13] Az érvényes öntözésfejlesztési tervnek megfelelő öntözéses beruházáshoz és az öntözésfejlesztési tervet jóváhagyó határozatban meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi, talajvédelmi engedélyezési vagy szakhatósági eljárást.
+
+(4)[^14] Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv határozatlan időre szól.
+
+(5)[^15] Az öntözésfejlesztési terület kijelölését és az öntözésfejlesztési terveket a kormányzati honlapon közzé kell tenni.
+
+(6)[^16] Az öntözésfejlesztési területeket és az öntözésfejlesztési terveket 5 évente felül kell vizsgálni és módosítani kell, ha a kijelölés szempontjai vagy a természetvédelmi, vízgazdálkodási, környezetvédelmi, talajvédelmi feltételek megváltoztak.
+
+## 7. §
+
+(1)[^17] Fenntartható vízgazdálkodási közösségként olyan, a (2) bekezdésben meghatározott feltételeknek megfelelő gazdasági társaság vagy szövetkezet ismerhető el, amelyben a tagok legalább 75 százaléka az öntözési körzet területén található földrészlet használati jogával rendelkező mezőgazdasági termelő. Az öntözési körzet területén mezőgazdasági vízszolgáltatást biztosító természetes vagy jogi személyek a fenntartható vízgazdálkodási közösség tagjává válhatnak.
+
+(1a)[^18] A (2) bekezdésben meghatározott feltételeknek megfelelő, kizárólag mezőgazdasági termelők tagságával működő gazdasági társaság vagy szövetkezet fenntartható vízgazdálkodási közösségként akkor is elismerhető, ha az öntözési körzet területén található földrészletek használati jogával a tagok mellett a gazdasági társaság vagy szövetkezet is rendelkezik. A gazdasági társaság vagy szövetkezet használati joga az öntözési körzet területén található földrészletek területének legfeljebb 25%-ára terjedhet ki.
+
+(2)[^19] A fenntartható vízgazdálkodási közösség az öntözési körzet területén
+
+a)[^20] szántóföldi növénytermesztés, illetve a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendelet szerinti ipari zöldségnövény-termesztés esetén legalább 100 hektár – amelynek legfeljebb 10 százaléka állandó gyep (legeltetett, kaszált) terület is lehet –,
+
+b)[^21] a termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló rendeletben szereplő zöldségnövények és ültetvények (gyümölcs, szőlő), illetve aromás-, gyógy- és fűszernövény termesztése esetén legalább 10 hektár
+
+öntözésének lehetőségét biztosítja.
+
+(2a)[^22] Ha a fenntartható vízgazdálkodási közösség a (2) bekezdés b) pontjában foglaltak alapján kerül elismerésre, és az öntözni kívánt ingatlanok szántó művelési ágban vannak nyilvántartva, akkor a közösségnek teljes bizonyító erejű magánokiratba foglaltan kell nyilatkoznia arról, hogy a fenntartható vízgazdálkodási közösség elismerését követően a szántó művelési ágú területeken legalább 5 évig a (2) bekezdés b) pontja szerinti növénykultúrák termesztését fogja folytatni.
+
+(3)[^23] Fenntartható vízgazdálkodási közösségként kell elismerni azokat a termelői csoportokat, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek.
+
+(4)[^24] Az elismert fenntartható vízgazdálkodási közösség
+
+a) törekszik az öntözési körzet területén a fenntartható vízgazdálkodás érdekében megvalósítható legjobb mezőgazdasági gyakorlat bevezetésére,
+
+b) részt vesz az öntözési igazgatási szerv által évente szervezett képzésen,
+
+c) nyilvántartja a vízfelhasználási, az öntözési körzet területén elvégzett talajvizsgálati és a termesztett növénykultúra adatait,
+
+d) a nyilvántartott adatokat az öntözési igazgatási szerv által előírt módon, időben és csoportosításban megadja.
+
+## 8. §
+
+(1)[^25] A fenntartható vízgazdálkodási közösség elismerése iránti kérelmeket az öntözési igazgatási szervhez kell benyújtani, aki a kérelmeket a szakmai véleményével együtt felterjeszti az agrárpolitikáért felelős miniszternek (a továbbiakban: miniszter).
+
+(2)[^26] A fenntartható vízgazdálkodási közösségeket a miniszter ismeri el.
+
+(3) A miniszter
+
+a)[^27] a fenntartható vízgazdálkodási közösség kérelme és az öntözési igazgatási szerv szakmai álláspontja alapján egyedileg vizsgálja az elismerési feltételek meglétét és a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított 30 napon belül dönt a fenntartható vízgazdálkodási közösség elismeréséről;
+
+b)[^28] ellátja a fenntartható vízgazdálkodási közösségek ellenőrzésével kapcsolatos feladatokat;
+
+c)[^29] az elismert fenntartható vízgazdálkodási közösségekről mindenki számára a kormányzati honlapon ingyenesen elérhető nyilvántartást vezet, amely tartalmazza a fenntartható vízgazdálkodási közösség nevét, elérhetőségeit, öntözési körzetét, vezető tisztségviselőjének megnevezését.
+
+(4)[^30] A miniszter a fenntartható vízgazdálkodási közösséget ellenőrzi, amely során megvizsgálja, hogy az megfelel-e az elismerési feltételeknek. Ha a fenntartható vízgazdálkodási közösség nem felel meg valamely elismerési feltételnek, a miniszter határidő tűzésével felszólítja a fenntartható vízgazdálkodási közösséget az elismerési feltételeknek megfelelő működés helyreállítására. Ennek eredménytelen elteltét követően a miniszter az elismerést legfeljebb egyéves időtartamra felfüggeszti.
+
+(5) A miniszter az elismerést visszavonja és a nyilvántartásból törli a közösséget, ha az elismerési feltételeknek megfelelő működés a felfüggesztés alatt sem áll helyre.
+
+## 9. §
+
+(1)[^31] Az öntözési körzetet a miniszter a fenntartható vízgazdálkodási közösséget elismerő határozatban jelöli ki a vízrajzi, vízföldtani, domborzati viszonyok figyelembevételével az öntözésfejlesztési terület határain belül.
+
+(2)[^32] Az öntözési körzetet úgy kell kijelölni, hogy a fenntartható vízgazdálkodási közösség céljainak biztosítása mellett a lehető legkevesebb földrészletre terjedjen ki. Az öntözési körzet területe nem fedheti másik öntözési körzet területét.
+
+(3)[^33] Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak a fenntartható vízgazdálkodási közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 hektár, a b) pontja szerinti esetben legfeljebb 1 000 hektár területen jelölhető ki azzal, hogy a körzet határának két legtávolabbi pontja egymástól – légvonalban mérve – legfeljebb 20 kilométerre lehet.
+
+## 9/A. §[^34]
+
+(1)[^35] A miniszter a fenntartható vízgazdálkodási közösség elismeréséről szóló döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg bejegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
+
+(2) A miniszter az e törvény végrehajtásáról szóló kormányrendeletben foglaltaknak megfelelő változásbejelentés alapján hozott, a fenntartható vízgazdálkodási közösség elismerését módosító döntés véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a bekövetkezett változás átvezetését az érintett ingatlanok tulajdoni lapján.
+
+(3) A miniszter a 8. § (5) bekezdése szerinti döntésének véglegessé válását követően kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg törlését az érintett ingatlanok tulajdoni lapjáról.
+
+## 10. §
+
+(1)[^36] A fenntartható vízgazdálkodási közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők által öntözni kívánt területre, az öntözési igazgatási szerv környezeti körzeti tervet készít abban az esetben, ha
+
+a) az érintett földrészletek vonatkozásában nincs hatályos öntözésfejlesztési terv, vagy
+
+b) az érintett földrészletek vonatkozásában a hatályos öntözésfejlesztési tervben meghatározott feltételektől el kívánnak térni
+
+és a környezeti körzeti terv elkészítését a fenntartható vízgazdálkodási közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők kérik.
+
+(2)[^37] Az öntözési beruházásra vonatkozó környezetvédelmi, természetvédelmi és talajvédelmi előírásokat az e törvény végrehajtására kiadott rendeletben meghatározott hatóság környezeti körzeti tervet jóváhagyó határozata tartalmazza, a környezeti körzeti terv a jóváhagyással lép hatályba. Az érvényes környezeti körzeti terv a benne meghatározott környezetvédelmi, természetvédelmi és talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az érvényes környezeti körzeti tervnek megfelelő öntözéses beruházás és a környezeti körzeti tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi és talajvédelmi engedélyezési vagy szakhatósági eljárást. A környezeti körzeti terv határozatlan időre szól.
+
+(3) A környezeti körzeti terveket rendszeresen felül kell vizsgálni és módosítani kell, ha a környezetvédelmi, természetvédelmi és talajvédelmi feltételek megváltoztak.
+
+(4)[^38] Az öntözésfejlesztési tervek hatálybalépése nem érinti a környezeti körzeti terv hatályát.
+
+## 11. §
+
+(1)[^39] Az öntözési igazgatási szerv a vízjogi engedélyezési eljárásban megbízás alapján képviseli
+
+a)[^40] a fenntartható vízgazdálkodási közösséget,
+
+b) a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelőt,
+
+ha a beruházás megfelel az öntözésfejlesztési tervnek.
+
+(2)[^41] A fenntartható vízgazdálkodási közösség gondoskodhat a tagjai számára – meghatalmazás alapján – az öntözéshez szükséges engedélyek megszerzéséről.
+
+## 11/A. §[^42]
+
+(1) Szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), továbbá kivett művelési ágban nyilvántartott külterületi földrészlet tulajdonosával vagy haszonélvezeti jog fennállása esetén haszonélvezőjével, vagyonkezelési jog fennállása esetén vagyonkezelőjével (e § alkalmazásában a továbbiakban együtt: tulajdonos) kötött szerződéssel a föld területe legalább fele részének öntözhetőségét biztosító és a földdel alkotórész kapcsolatba kerülő öntözési beruházást végrehajtó személy javára öntözési jog alapítható.
+
+(2) Az öntözési jog alapján annak jogosultja a földön öntözési létesítmény, építmény vagy ahhoz kapcsolódó berendezés megvalósítására, elhelyezésére a tulajdonos további jognyilatkozata nélkül jogosult. E beruházást az öntözési jog fennállása alatt az öntözési jog jogosultjának könyveiben kell nyilvántartani. A beruházás aktiválását az öntözési igazgatási szervnek be kell jelenteni.
+
+(3) Az öntözési jog alapján annak jogosultja, vagy ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség, akkor annak kijelölése alapján annak valamely tagja a jog fennállásának időtartama alatt a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) szerinti érvényes jogcímen a föld használati jogosultságára, és ennek keretében öntözéses gazdálkodás folytatására jogosult, ha megfelel a Földforgalmi tv. földhasználati jogosultság megszerzésére vonatkozó feltételeinek. A tulajdonos – a használati jogosultság átengedéséről szóló, az öntözési jog jogosultjával kötött korábbi szerződésnek a tulajdonos részéről rendkívüli felmondással történt megszüntetése kivételével – érvényesen nem tagadhatja meg a használati jogosultság átengedésére vonatkozó szerződés megkötését.
+
+(4) Ha a (3) bekezdés alapján haszonbérleti szerződés megkötésére kerül sor és a szerződő felek között a haszonbérleti díj tekintetében nem jön létre megegyezés, a helyben szokásos piaci haszonbérleti díj mértékét igazságügyi szakértői vélemény alapján kell megállapítani. Ha az igazságügyi szakértői véleményben foglaltakkal bármelyik szerződő fél nem ért egyet, a szakértői véleményben foglaltak tudomására jutásától számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjnak az igazságügyi szakértői véleményben foglaltak szerinti mértékét elfogadottnak kell tekinteni. Egyebekben a Polgári Törvénykönyv 6:71. §-ában foglaltak szerint kell eljárni.
+
+(5) A (3) bekezdés alapján megkötött földhasználati szerződésben a használat időtartama nem lehet rövidebb mint öt év.
+
+(6) Az öntözési jog határozott időre, legalább öt, legfeljebb húsz évre alapítható.
+
+(7) A (6) bekezdésben foglaltaktól eltérően a Nemzeti Földalapba tartozó föld esetében öntözési jog 20 évre alapítható, abban az esetben, ha az adott öntözési beruházás tervezett elismert értékének az öntözési joggal érintett területekre eső hektáronkénti összege az ötmillió forintot meghaladja.
+
+(8) Az öntözési jog alapításáról szóló szerződés hatályosságához annak az öntözési igazgatási szerv által történő jóváhagyása szükséges. Az öntözési jog érvényességéhez annak ingatlan-nyilvántartási bejegyzése szükséges.
+
+(9) Az öntözési igazgatási szerv az öntözési jog alapításának jóváhagyását megtagadja, ha
+
+a) az öntözési jog jogosultja a Földforgalmi tv. földhasználati jogosultság megszerzésére vonatkozó feltételeinek nem felel meg, ide nem értve azt az esetet, ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség,
+
+b) az öntözési jog alapján az öntözési jog jogosultját megillető használati jogosultság a Földforgalmi tv. 13. § (1) és (2) bekezdése szerint a használat átengedésének tilalmába ütközne, vagy
+
+c) az (1) bekezdés szerinti földrészletet a közhiteles földhasználati nyilvántartás adatai alapján az öntözési jog tervezett fennállásának időtartamát érintően a tulajdonostól és az öntözési jog jogosultjától eltérő harmadik személy használja, ide nem értve azt az esetet, ha az öntözési jog jogosultja fenntartható vízgazdálkodási közösség.
+
+(10) Ha az öntözési jog alapítását követő második naptári év végéig a (2) bekezdés szerinti beruházás aktiválását az öntözési igazgatási szervnek nem jelentették be, az öntözési jog ezen időponttal megszűnik.
+
+(11) Az öntözéses gazdálkodás folytatását az adott gazdasági év július 31. napjáig az öntözési igazgatási szerv részére igazolni kell. Ha a (2) bekezdés szerinti beruházás aktiválását követően öt egymást követő gazdasági évben a földön nem folytattak öntözéses gazdálkodást, az öntözési jog az ötödik gazdasági év végével megszűnik.
+
+(12) Az öntözési jog (9) vagy (10) bekezdés szerinti megszűnése esetén a (3) bekezdés szerint létrejött használati jogosultság az öntözési jog megszűnésével egyidejűleg megszűnik.
+
+(13) Az öntözési jog bármely okból történő megszűnése esetén a feleknek egymással el kell számolni.
+
+(14) Az öntözési igazgatási szerv a jóváhagyott öntözési jogokról a (9) és (10) bekezdés szerinti kötelezettségek ellenőrzése céljából nyilvántartást vezet. A nyilvántartás az öntözési jog jogosultja adatait az alábbiak szerint tartalmazza:
+
+a) természetes személy természetes személyazonosító adatai és lakcíme,
+
+b) nem természetes személy megnevezése, adószáma, statisztikai azonosítója, székhelye, és a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény hatálya alá tartozó cég cégjegyzékszáma.
+
+(15) Az öntözési jog jogosultjának a (13) bekezdés szerinti személyes adatait az öntözési igazgatási szerv az öntözési jog megszűnését követő ötödik naptári év végéig tartja nyilván.
+
+## 12. §
+
+(1) A helyi önkormányzat a tulajdonában álló harmadlagos mű tulajdonosi jogainak gyakorlását átadhatja az államnak. Az állam képviseletében az öntözési igazgatási szerv jár el.
+
+(2)[^43] Az öntözési igazgatási szerv szakmailag ellenőrzi a helyi önkormányzattól érkező átadó nyilatkozatot abból a szempontból, hogy az átadandó harmadlagos mű öntözési célokat szolgál-e fenntartható vízgazdálkodási közösség számára.
+
+(3)[^44] Ha az öntözési igazgatási szerv a (2) bekezdés szerinti szakmai ellenőrzés eredményeképpen megállapítja, hogy az átadandó harmadlagos mű fenntartható vízgazdálkodási közösség számára szolgáltat vizet, akkor az öntözési igazgatási szerv a harmadlagos mű tulajdonosával – az üzemeltetési és fenntartási feladatok átvállalásáról – ingyenes szerződést köt.
+
+(4) A (3) bekezdés szerinti szerződés megkötése és a szerződés hatálybalépése között legfeljebb három hónap időtartamot kell biztosítani.
+
+(5) Az (1) bekezdés szerinti tulajdonosi joggyakorlás keretében az öntözési igazgatási szerv a harmadlagos művet maga üzemelteti, vagy – ha az adott harmadlagos művel ellátott területek öntözése ezáltal hatékonyabban, és pénzügyileg kedvezőbben biztosítható – bérleti, haszonbérleti, vállalkozási szerződés alapján hasznosításra átengedheti vagy vagyonkezelésbe adhatja. Az öntözési igazgatási szerv nem jogosult a tulajdonosi joggyakorlás keretében a harmadlagos mű tulajdonjogának átruházására.
+
+## 12/A. §[^45]
+
+(1)[^46] A harmadlagos mű üzemeltetéséről, fenntartásáról a harmadlagos mű üzemeltetésére vízjogi engedéllyel rendelkező személy, ennek hiányában a tulajdonos gondoskodik.
+
+(2) Az (1) bekezdésben foglalt kötelezettségének az üzemeltetési engedélyes vagy a tulajdonos úgy is eleget tehet, ha a harmadlagos mű fenntartását, üzemeltetését sorrendben átengedi:
+
+a)[^47] a fenntartható vízgazdálkodási közösségnek,
+
+b) a mezőgazdasági termelőnek, vagy
+
+c) a mezőgazdasági vízszolgáltatónak.
+
+(3) A fenntartási, üzemeltetési feladatok átengedésére ingyenesen is sor kerülhet a felek megállapodása alapján.
+
+(4)[^48] Az öntözési igazgatási szerv a feladataihoz szükséges földrészlet tulajdonjogát a Magyar Állam javára ellenérték fejében adásvétellel, cserével, vagy az állam javára történő felajánlás esetén ingyenesen, továbbá kisajátítással megszerezheti. Az így az állam tulajdonába kerülő ingatlan a Nemzeti Földalapba tartozik.
+
+(5)[^49] A Magyar Állam tulajdonát képező, a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) tulajdonosi joggyakorlása alá tartozó, öntözési célt szolgáló – vízgazdálkodási, gazdálkodói és agrotechnikai – egység (a továbbiakban: állami öntözőrendszer) ingatlan és ingó vagyontárgyai üzemeltetéséről, fenntartásáról az NFK gondoskodik.
+
+(6)[^50] Az NFK az állami öntözőrendszer egészét vagy annak egyes elemeit – a (2) bekezdésben meghatározott sorrendben és személyekkel kötött szerződések keretében – üzemeltetési szerződéssel, haszonbérbe adással, vagyonkezelésbe adással hasznosíthatja.
+
+(7)[^51] Az NFK a (6) bekezdésben foglalt hasznosítási lehetőségeken kívül az állami öntözőrendszer ingó vagyontárgyainak tulajdonjogát cserével és nyilvános pályázat vagy árverés útján adásvétellel átruházhatja, amennyiben azt gazdaságossági és célszerűségi szempontok indokolják, továbbá az ügylet nem veszélyezteti az állami öntözőrendszer rendeltetésszerű használatát.
+
+## 12/B. §[^52]
+
+A Nemzeti Földalapba tartozó harmadlagos művet az NFK maga üzemelteti, vagy szerződés alapján hasznosításra átengedheti.
+
+## 13. §
+
+(1) Az öntözési igazgatási szerv az öntözési adatgyűjtésekhez és az állami tulajdonnal kapcsolatos jogok gyakorlásához a következő adatok megismerésére és kezelésére jogosult:
+
+a) az öntözéssel érintett földrészletek és a harmadlagos művek tulajdonosainak és földhasználóinak neve, lakcíme, elektronikus levélcíme, telefonszámai,
+
+b) az öntözéssel érintett földrészletek tulajdonosainak és földhasználóinak a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló törvényben meghatározott ügyfél-azonosítója;
+
+c) a harmadlagos művekre vonatkozó, az engedélyes dokumentációban és az e-vízikönyvben rögzített műszaki alapadatok.
+
+(2) Az (1) bekezdés a) és b) pontja szerinti személyes adat – jogszabály eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható és az öntözési igazgatási szerv a vízjogi engedélyek érvényességét követő hatodik év végéig kezelhető.
+
+(3) Az (1) bekezdés c) pontja szerinti, személyes adatnak nem minősülő adatot az öntözési igazgatási szerv határidő nélkül kezeli és nem törölheti.
+
+## 14. §
+
+(1) A vízügyi igazgatási szervek ingyenesen továbbítják a vízgazdálkodási információs rendszerből a külön megállapodásban rögzített műszaki adatokat, valamint az öntözéssel érintett földrészletek és a harmadlagos művek tulajdonosainak és földhasználóinak nevét, lakcímét
+
+a) az öntözési igazgatási szerv részére annak öntözésfejlesztési feladatainak ellátása érdekében,
+
+b) a miniszter irányítása alatt álló, agrárkutatásokkal foglalkozó intézet részére annak öntözésfejlesztési, agrár-gazdaságelemzési és statisztikai feladatai ellátása érdekében, valamint
+
+c) a Nemzeti Agrárgazdasági Kamara részére annak a gazdaságszerkezeti nyilvántartással összefüggő feladatainak ellátása érdekében.
+
+(2) Ingyenesen továbbítja
+
+a) az öntözési igazgatási szerv, valamint
+
+b) a miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet
+
+a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi feladatainak ellátása érdekében külön megállapodásban rögzített műszaki adatokat.
+
+(3)[^53] Az öntözési igazgatási szerv számára – a saját térinformatikai rendszerben történő kezelés céljából – az öntözési igazgatási szerv feladatellátásához szükséges, más adatkezelők által előállított, illetve kezelt állami térinformatikai adatbázisokból származó adatállományokat a térinformatikai adatbázisok kezelésére jogosultak (a továbbiakban: adatszolgáltatók) a külön megállapodásokban rögzített formában, tartalommal és ütemezés szerint ingyenesen továbbítják.
+
+## 15. §
+
+(1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az öntözési igazgatási szervet és az öntözésfejlesztési tervet, valamint a környezeti körzeti tervet jóváhagyó hatóságot vagy hatóságokat.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg[^54]
+
+a)[^55] az öntözésfejlesztési területre és az öntözésfejlesztési tervre, valamint a környezeti körzeti tervre és azok hatósági jóváhagyására vonatkozó részletes szabályokat,
+
+b)[^56] a fenntartható vízgazdálkodási közösség elismerésére, az elismerés felfüggesztésére, visszavonására, működésének ellenőrzésére vonatkozó részletes szabályokat,
+
+c)[^57] az öntözési szolgalom alapítására és az azzal kapcsolatos kártalanításra, valamint az öntözési szolgalom megszűnésére, továbbá az öntözési jog alapítására, jóváhagyására és gyakorlására vonatkozó részletes szabályokat.
+
+## 16. §
+
+Ez a törvény 2020. január 1-jén lép hatályba.
+
+## 17. §[^58]
+
+(1) Az elismert öntözési közösségek az egyes törvényeknek az agrárminiszter feladatkörét érintő módosításáról szóló 2023. évi XLIV. törvény (a továbbiakban: Módtv.) hatálybalépését[^59] követő 90 napon belül az öntözési igazgatási szerv felhívására nyilatkoznak arról, hogy kívánnak-e fenntartható vízgazdálkodási közösségként tovább működni.
+
+(2) Az öntözési igazgatási szerv az elismert öntözési közösségek nyilatkozatai alapján a Módtv. hatálybalépését[^60] követő 120 napon belül javaslatot küld az agrárminiszter részére.
+
+(3) Az agrárminiszter az (1) bekezdésben meghatározott időpontig nem nyilatkozó vagy a fenntartható vízgazdálkodási közösségként történő továbbműködést nem vállaló öntözési közösségek öntözési közösségként történő elismerési határozatait az öntözési igazgatási szerv (2) bekezdés szerinti javaslata alapján visszavonja.
+
+## 18. §[^61]
+
+(1) Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (4) bekezdését és 10. § (2) bekezdését a hatálybalépésükkor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv2. hatálybalépése előtt határozott időtartamra kiadott és a Módtv2. hatálybalépésekor[^62] hatályos öntözésfejlesztési terv és környezeti körzeti terv határozatlan időtartamúvá válik.
+
+## 19. §[^63]
+
+Az egyes agrártárgyú törvények módosításáról szóló 2023. évi XCIV. törvény hatálybalépése[^64] előtt elismert fenntartható vízgazdálkodási közösségek esetében a miniszter – szükség esetén az érintett alrészletek megjelölésével – 2024. december 31. napjáig kezdeményezi az ingatlanügyi hatóságnál a fenntartható vízgazdálkodási közösség területe jogi jelleg feljegyzését a közösség tagjai által öntözendő ingatlanok tulajdoni lapján.
+
+## 23. §[^68]
+
+E törvény 12–12/B. §-a az Alaptörvény 38. cikk (1) bekezdése alapján, 11/A. §-a az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2019. december 10-i ülésnapján fogadta el. A kihirdetés napja: 2019. december 17.
+[^2]: A preambulum a 2023. évi XLIV. törvény 182. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1. § 1. pontja a 2021: CL. törvény 134. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 4. pontja a 2021: CL. törvény 143. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § 5. pontja a 2021: L. törvény 134. § (2) bekezdésével megállapított, a 2023. évi XLIV. törvény 182. § 2. pontja szerint módosított szöveg.
+[^6]: Az 1. § 6. pontját a 2021: CL. törvény 134. § (3) bekezdése iktatta be, szövege a 2023. évi XLIV. törvény 182. § 3. pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 2023. évi XCIV. törvény 137. §-ával megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 2023. évi XCIV. törvény 137. §-ával megállapított szöveg.
+[^9]: A 4. § (1) bekezdése a 2023. évi XCIV. törvény 138. §-ával megállapított szöveg.
+[^10]: Az 5. § a 2021: CL. törvény 135. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdése a 2021: CL. törvény 143. § b) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdése a 2021: CL. törvény 143. § c) pontja és 144. § a) pontja szerint módosított szöveg.
+[^13]: A 6. § (3) bekezdése a 2021: CL. törvény 143. § d) pontja és 144. § b) pontja szerint módosított szöveg.
+[^14]: A 6. § (4) bekezdése a 2021: CL. törvény 136. §-ával megállapított szöveg. A 6. § (4) bekezdése a 2023. évi LXX. törvény 109. § (1) bekezdésével megállapított szöveg.
+[^15]: A 6. § (5) bekezdése a 2021: CL. törvény 143. § e) pontja szerint módosított szöveg.
+[^16]: A 6. § (6) bekezdése a 2021: CL. törvény 143. § f) pontja és 144. § c) pontja szerint módosított szöveg.
+[^17]: A 7. § (1) bekezdése a 2023. évi XLIV. törvény 178. § (1) bekezdésével megállapított szöveg.
+[^18]: A 7. § (1a) bekezdését a 2021: CL. törvény 137. § (2) bekezdése iktatta be, szövege a 2023. évi XLIV. törvény 182. § 4. pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdése a 2023. évi XLIV. törvény 178. § (2) bekezdésével megállapított szöveg.
+[^20]: A 7. § (2) bekezdés a) pontja a 2024. évi LXXX. törvény 96. § a) pontja szerint módosított szöveg.
+[^21]: A 7. § (2) bekezdés b) pontja a 2024. évi LXXX. törvény 96. § b) pontja szerint módosított szöveg.
+[^22]: A 7. § (2a) bekezdését a 2024. évi XIX. törvény 88. §-a iktatta be.
+[^23]: A 7. § (3) bekezdése a 2023. évi XLIV. törvény 182. § 5. pontja szerint módosított szöveg.
+[^24]: A 7. § (4) bekezdését a 2023. évi XLIV. törvény 178. § (3) bekezdése iktatta be.
+[^25]: A 8. § (1) bekezdése a 2023. évi XLIV. törvény 182. § 6. pontja szerint módosított szöveg.
+[^26]: A 8. § (2) bekezdése a 2023. évi XLIV. törvény 182. § 7. pontja szerint módosított szöveg.
+[^27]: A 8. § (3) bekezdés a) pontja a 2023. évi XLIV. törvény 182. § 8. pontja szerint módosított szöveg.
+[^28]: A 8. § (3) bekezdés b) pontja a 2023. évi XLIV. törvény 182. § 9. pontja szerint módosított szöveg.
+[^29]: A 8. § (3) bekezdés c) pontja a 2023. évi XLIV. törvény 182. § 10. pontja szerint módosított szöveg.
+[^30]: A 8. § (4) bekezdése a 2023. évi XLIV. törvény 182. § 11. pontja szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdése a 2021: CL. törvény 143. § h) pontja, a 2023. évi XLIV. törvény 182. § 12. pontja szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdése a 2024. évi XIX. törvény 89. §-ával megállapított szöveg.
+[^33]: A 9. § (3) bekezdését a 2021: CL. törvény 138. §-a iktatta be, szövege a 2023. évi XLIV. törvény 179. §-ával megállapított szöveg.
+[^34]: A 9/A. §-t a 2023. évi XCIV. törvény 139. §-a iktatta be.
+[^35]: A 9/A. § (1) bekezdése a 2023. évi XCIV. törvény 142. §-a szerint módosított szöveg.
+[^36]: A 10. § (1) bekezdése a 2021: CL. törvény 139. § (1) bekezdésével megállapított, nyitó szövegrésze a 2023. évi XLIV. törvény 182. § 13. pontja, záró szövegrésze ez utóbbi módosító törvény 182. § 14. pontja szerint módosított szöveg.
+[^37]: A 10. § (2) bekezdése a 2023. évi LXX. törvény 109. § (2) bekezdésével megállapított szöveg.
+[^38]: A 10. § (4) bekezdése a 2021: CL. törvény 139. § (2) bekezdésével megállapított szöveg.
+[^39]: A 11. § (1) bekezdése a 2021: CL. törvény 140. §-ával megállapított szöveg.
+[^40]: A 11. § (1) bekezdés a) pontja a 2023. évi XLIV. törvény 182. § 15. pontja szerint módosított szöveg.
+[^41]: A 11. § (2) bekezdése a 2023. évi XLIV. törvény 182. § 16. pontja szerint módosított szöveg.
+[^42]: A 11/A. §-t a 2024. évi LXXX. törvény 95. §-a iktatta be.
+[^43]: A 12. § (2) bekezdése a 2023. évi XLIV. törvény 183. § a) pontja szerint módosított szöveg.
+[^44]: A 12. § (3) bekezdése a 2023. évi XLIV. törvény 183. § b) pontja szerint módosított szöveg.
+[^45]: A 12/A. §-t a 2021: CL. törvény 141. §-a iktatta be.
+[^46]: A 12/A. § (1) bekezdése a 2023. évi XLIV. törvény 184. §-a szerint módosított szöveg.
+[^47]: A 12/A. § (2) bekezdés a) pontja a 2023. évi XLIV. törvény 183. § c) pontja szerint módosított szöveg.
+[^48]: A 12/A. § (4) bekezdése a 2023. évi XCIV. törvény 140. §-ával megállapított szöveg.
+[^49]: A 12/A. § (5) bekezdését a 2023. évi XLIV. törvény 180. §-a iktatta be, szövege a 2024. évi XI. törvény 15. §-a szerint módosított szöveg.
+[^50]: A 12/A. § (6) bekezdését a 2023. évi XLIV. törvény 180. §-a iktatta be.
+[^51]: A 12/A. § (7) bekezdését a 2023. évi XLIV. törvény 180. §-a iktatta be.
+[^52]: A 12/B. §-t a 2021: CL. törvény 141. §-a iktatta be, szövege a 2023. évi XLIV. törvény 183. § d) pontja szerint módosított szöveg.
+[^53]: A 14. § (3) bekezdését a 2021: CL. törvény 142. §-a iktatta be.
+[^54]: Lásd a 302/2020. (VI. 29.) Korm. rendeletet.
+[^55]: A 15. § (2) bekezdés a) pontja a 2021: CL. törvény 143. § i) pontja szerint módosított szöveg.
+[^56]: A 15. § (2) bekezdés b) pontja a 2023. évi XLIV. törvény 182. § 17. pontja szerint módosított szöveg.
+[^57]: A 15. § (2) bekezdés c) pontja a 2024. évi LXXX. törvény 96. § c) pontja szerint módosított szöveg.
+[^58]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2023. évi XLIV. törvény 181. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2023. július 1.
+[^60]: A hatálybalépés időpontja 2023. július 1.
+[^61]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2023. évi LXX. törvény 109. § (3) bekezdése iktatta be.
+[^62]: A hatálybalépés időpontja 2023. november 1.
+[^63]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 2023. évi XCIV. törvény 141. §-a iktatta be, szövege a 2024. évi XIX. törvény 90. és 91. §-a szerint módosított szöveg.
+[^64]: A hatálybalépés időpontja 2024. január 1.
+[^68]: A 23. § a 2021: CL. törvény 143. § j) pontja, a 2024. évi LXXX. törvény 96. § d) pontja szerint módosított szöveg.

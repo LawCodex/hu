@@ -1,0 +1,135 @@
+---
+title: "2018. évi LXX. törvény az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény módosításának kihirdetéséről"
+identifier: "2018. évi LXX. törvény"
+njt_id: "2018-70-00-00"
+eli: "https://njt.jog.gov.hu/eli/TV/2018/70"
+type: act
+jurisdiction: hu
+language: hu
+date: 2018-11-22
+in_force_from: 2019-01-01
+last_amended: 2020-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2018-70-00-00"
+retrieved: 2026-10-12
+---
+
+# 2018. évi LXX. törvény az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény módosításának kihirdetéséről[^1]
+
+## 1. §
+
+Az Országgyűlés e törvénnyel felhatalmazást ad az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény (a továbbiakban: Egyezmény) mellékletét módosító, az Egyesült Nemzetek Kábítószer Bizottsága 2018. március 14-én elfogadott 61/1–6. számú határozatban foglalt módosítás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 2. §
+
+Az Országgyűlés a Módosítást e törvénnyel kihirdeti.
+
+## 3. §[^2]
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/1*
+
+*Inclusion of carfentanil in Schedules I and IV of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include carfentanil is Schedules I and IV of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/1. sz. határozat*
+
+*A carfentanil felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. és IV. jegyzékébe*
+
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a carfentanil-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. és IV. jegyzékébe felveszi.”
+
+## 4. §
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/2*
+
+*Inclusion of ocfentanil in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include ocfentanil is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/2. sz. határozat*
+
+*Az ocfentanil felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe*
+
+A Kábítószer Bizottság 61. ülésszakán, 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy az ocfentanil-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+
+## 5. §
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/3*
+
+*Inclusion of furanylfentanyl in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include furanylfentanyl is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/3. sz. határozat*
+
+*A furanylfentanyl felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe*
+
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a furanylfentanyl-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+
+## 6. §[^3]
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/4*
+
+*Inclusion of acryloylfentanyl (acrylfentanyl) in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include acryloylfentanyl (acrylfentanyl) is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/4. sz. határozat*
+
+*Az acryloylfentanyl (acrylfentanyl) felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe*
+
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy az acryloylfentanyl-t (acrylfentanyl) az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+
+## 7. §
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/5*
+
+*Inclusion of 4-fluoroisobutyrfentanyl in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include 4-fluoroisobutyrfentanyl is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/5. sz. határozat*
+
+*A 4-fluoroisobutyrfentanyl felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe*
+
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a 4-fluoroisobutyrfentanyl-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+
+## 8. §
+
+A Módosítás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„*Decision 61/6*
+
+*Inclusion of tetrahydrofuranylfentanyl in Schedule I of the Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol*
+
+At its 61st session, on 14 March 2018, the Comission on Narcotic Drugs decided to include tetrahydrofuranylfentanyl is Schedule I of the 1961 Convention, as amended by the 1972 Protocol.”
+
+„*61/6. sz. határozat*
+
+*A tetrahydrofuranylfentanyl felvétele az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe*
+
+A Kábítószer Bizottság 2018. március 14-én megtartott 61. ülésszakán úgy határozott, hogy a tetrahydrofuranylfentanyl-t az 1972. évi Jegyzőkönyvvel módosított 1961. évi Egységes Kábítószer Egyezmény I. jegyzékébe felveszi.”
+
+## 9. §
+
+(1) Ez a törvény 2019. január 1-jén lép hatályba.
+
+(2) A Módosítás végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
+
+(3) Az Egyezmény – a Módosításban foglalt módosításokkal – egységes szerkezetbe foglalt hiteles angol nyelvű szövegének és annak hivatalos magyar nyelvű fordításának a Módosítás hatálybalépését követően történő haladéktalan közzétételéről az egészségügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A törvényt az Országgyűlés a 2018. november 13-i ülésnapján fogadta el. A kihirdetés napja: 2018. november 22.
+[^2]: A 3. § a 2019: CXXI. törvény 46. § a) és b) pontja szerint módosított szöveg.
+[^3]: A 6. § a 2019: CXXI. törvény 46. § c)–e) pontja szerint módosított szöveg.
