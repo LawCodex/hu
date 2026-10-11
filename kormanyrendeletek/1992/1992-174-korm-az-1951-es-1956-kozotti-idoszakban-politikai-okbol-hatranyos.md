@@ -1,0 +1,80 @@
+---
+title: "174/1992. (XII. 29.) Korm. rendelet az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről"
+identifier: "174/1992. (XII. 29.) Korm. rendelet"
+njt_id: "1992-174-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/174"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-12-29
+in_force_from: 2009-10-01
+last_amended: 2025-02-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-174-20-22"
+retrieved: 2026-10-12
+---
+
+# 174/1992. (XII. 29.) Korm. rendelet az 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezéséről
+
+A Kormány az 1951 és 1956 közötti időszakban társadalmi hovatartozásuk, politikai meggyőződésük miatt hátrányos megkülönböztetéssel járó katonai munkaszolgálatot teljesített személyek társadalombiztosítási és munkajogi helyzetének rendezése érdekében a következőket rendeli el:
+
+## 1. §
+
+Annak a személynek a nyugellátását, baleseti nyugellátását (kivéve a baleseti járadékot, hacsak a nyugdíjkorhatárt betöltött személy más ellátással nem rendelkezik), továbbá nyugdíjszerű rendszeres szociális ellátását, aki 1951 és 1956 közötti időszakban politikai okból hátrányos megkülönböztetéssel járó katonai munkaszolgálatot (a továbbiakban: munkaszolgálat) teljesített, a szabadságkorlátozás tényleges tartamától függően fel kell emelni.
+
+## 2. §[^1]
+
+(1) A munkaszolgálat után járó emelés összege egy évet meg nem haladó munkaszolgálat esetén havi 5250 forint, a második évtől kezdve minden év után havi 2635 forint.
+
+(2) A munkaszolgálat után járó emelés összege a 2014 októberére folyósított emelés havi összegének 9,9%-kal megemelt összege, ha az meghaladja az (1) bekezdésben meghatározott összeget.
+
+(3)[^2] Az e rendelet alapján folyósított saját jogú és hozzátartozói jogon járó ellátás összegét 2017. január 1-jétől – a 2/A. § szerinti emelésen túl – a 2016 novemberében folyósított összeg 60%-ával fel kell emelni. Az ellátás már folyósított és megemelt összege közötti különbözet kifizetésére 2017. január 1-jére visszamenőleg hivatalból, legkésőbb 2017. március 31-ig kerül sor. Az ellátást 2016. december 31-ét követő időponttól a 2016. novemberére járó összeg 60%-ával és a 2/A. §-ban foglaltak szerint növelt, (1) és (2) bekezdés szerinti összegben kell megállapítani, olyan összeg alapulvételével, mely a jogosultat – a jogosultsági feltételek fennállása esetén – 2016 novemberében megillette volna.
+
+(4)[^3] Az e rendelet alapján folyósított saját jogú és hozzátartozói jogon járó ellátás összegét 2018. január 1-jétől – a 2/A. § szerinti emelésen túl – a 2016 novemberében folyósított összeg 40%-ával fel kell emelni. Az ellátást 2017. december 31-ét követő időponttól a 2016 novemberére járó összeg 40%-ával és a 2/A. §-ban foglaltak szerint növelt, (1) és (2) bekezdés szerinti összegben kell megállapítani, olyan összeg alapulvételével, mely a jogosultat – a jogosultsági feltételek fennállása esetén – 2016 novemberében megillette volna.
+
+(5)[^4] Az e rendelet alapján 2025 februárjára folyósított saját jogú ellátás összegét 2025. március 1-jétől 10%-kal meg kell emelni. Az ellátást 2025. február 28-át követő időponttól a 2025 februárjára járó összeg 10%-ával és a 2/A. §-ban foglaltak szerint növelt, (1)–(4) bekezdés szerinti összegben kell megállapítani.
+
+## 2/A. §[^5]
+
+A folyósított emelés összegét 2015. január 1-jétől a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tbny.) 62. §-ában foglaltak szerint kell emelni, az emelést 2014. december 31-ét követő időponttól a Tbny. 62. §-a szerinti időközi nyugdíjemelésekkel növelt, 2. § szerinti összegben kell megállapítani.
+
+## 3. §
+
+(1) A munkaszolgálatban töltött időt a nyugellátás, baleseti nyugellátás megállapításánál szolgálati időként, munkajogi szempontból pedig munkaviszonyban töltött időként kell figyelembe venni.
+
+(2)[^6] A munkaszolgálat időtartamát a területileg illetékes katonai hadkiegészítő parancsnokság, vagy a megfelelő adat birtokában levő levéltár által kiállított igazolással kell bizonyítani. E szervek az igazolást nem tagadhatják meg.
+
+## 4. §
+
+(1)[^7] A munkaszolgálat tényleges időtartamát és az emelés összegét az érintett személy (hozzátartozó) kérelmére a kárpótlási hatóság állapítja meg. A kárpótlási hatóság a határozatát közli az 1. § szerinti ellátások megállapítására és folyósítására hatáskörrel és illetékességgel rendelkező szervvel. Amennyiben a jogosult olyan, a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás ideje van megállapítva, a nyugdíjigény, illetve a nyugdíj-kiegészítés iránti kérelem benyújtásakor azt is mellékelni kell. Ebben az esetben a hatósági bizonyítványban szereplő szabadság-korlátozás idejétől függően a kiegészítés összegét az 1. § szerinti ellátások megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.
+
+(2)[^8]
+
+## 5. §
+
+(1) E rendelet 1993. január 1-jén lép hatályba, az emelés legkorábban 1993. január 1-jétől jár.
+
+(2) A hatálybalépést követő hat hónapon túli igénylés esetén a nyugdíjemelés legkorábban az igénybejelentés napját megelőző hatodik hónap első napjától jár.
+
+(3) Az e rendelettel nem szabályozott kérdésekben a 93/1990. (XI. 21.) Korm. rendeletben foglaltakat kell megfelelően alkalmazni.
+
+(4)[^10] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 305/2013. (VII. 31.) Korm. rendelettel megállapított 2. §-ában meghatározott emelés összege 2013. január 1-jétől illeti meg a jogosultakat. Az emelést a 2013. szeptember havi ellátás összegére kell végrehajtani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre a Tbny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.
+
+(5)[^11] E rendeletnek az egyes kárpótlással kapcsolatos kormányrendeletek módosításáról szóló 316/2014. (XII. 12.) Korm. rendelettel megállapított 2. §-ában meghatározott emelés összege 2014. november 1-jétől illeti meg a jogosultakat. Az emelés 2014. november és december hónapra eső összegét 2014. december hónapban kell a jogosultak részére folyósítani. Az emelés visszamenőleg járó összegét az emelésre jogosult személy halála esetén a nyugdíjfolyósító szerv kérelemre a Tbny. 83. § (2) bekezdésében meghatározott személy részére folyósítja.
+
+(6)[^12] E rendeletnek a totalitárius diktatúrák áldozatai társadalombiztosítási és munkajogi helyzetének rendezéséről szóló egyes kormányrendeletek módosításáról szóló 236/2017. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr.) hatályon kívül helyezett rendelkezéseit a Módr. hatálybalépésekor[^13] folyamatban lévő, társadalombiztosítási és munkajogi helyzet rendezésére irányuló eljárásokban sem kell alkalmazni.
+
+---
+
+[^1]: A 2. § a 316/2014. (XII. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (3) bekezdését a 28/2017. (II. 13.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § (4) bekezdését a 28/2017. (II. 13.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 2. § (5) bekezdését a 28/2025. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2/A. §-t a 316/2014. (XII. 12.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdése a 45/1993. (III. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (1) bekezdése a 349/2011. (XII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^8]: A 4. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 13. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: Az 5. § (4) bekezdését a 305/2013. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 316/2014. (XII. 12.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^11]: Az 5. § (5) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^12]: Az 5. § (6) bekezdését a 236/2017. (VIII. 18.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^13]: A hatálybalépés időpontja 2017. augusztus 19.

@@ -1,0 +1,154 @@
+---
+title: "322/2006. (XII. 23.) Korm. rendelet az Országos Mentőszolgálatról"
+identifier: "322/2006. (XII. 23.) Korm. rendelet"
+njt_id: "2006-322-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/322"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-12-23
+in_force_from: 2010-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-322-20-22"
+retrieved: 2026-10-12
+---
+
+# 322/2006. (XII. 23.) Korm. rendelet az Országos Mentőszolgálatról
+
+A Kormány az Alkotmány 35. §-ának (2) megállapított eredeti jogalkotó hatáskörében, az Alkotmány 40. §-ának (3) bekezdésében foglalt feladatkörében eljárva, valamint az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a (1) bekezdésének i) pontjában foglalt felhatalmazás alapján a következő rendeletet alkotja:
+
+## Az Országos Mentőszolgálat jogállása
+
+### 1. §[^1]
+
+Az Országos Mentőszolgálat (a továbbiakban: Mentőszolgálat) az egészségügyért felelős miniszter irányítása alá tartozó központi költségvetési szerv.
+
+### 2. §[^2]
+
+(1) A Mentőszolgálat működési köre az ország egész területére kiterjed.
+
+(2) A Mentőszolgálatot főigazgató vezeti.
+
+## A Mentőszolgálat szervezete
+
+### 3. §
+
+(1)[^3] A Mentőszolgálat központi szerve a Főigazgatóság. A Főigazgatóságot a főigazgató vezeti.
+
+(2)[^4] A Mentőszolgálat területi szervezeti egységei a főigazgató irányítása alatt működő regionális mentőszervezetek. A regionális mentőszervezetet a regionális igazgató vezeti. A regionális mentőszervezeteket, székhelyüket és ellátási területüket a melléklet állapítja meg.
+
+(3) A regionális mentőszervezetek irányítása alatt állnak a mentőállomások, a Mentőszolgálat operatív mentőmunkát végrehajtó szervezeti egységei.
+
+### 4. §
+
+(1)[^5] A főigazgató a mentőszolgálat alkalmazottai felett munkáltatói jogkört gyakorol, amelyet szervezeti és működési szabályzatban – külön törvényben foglaltak figyelembevételével – teljesen vagy részben az adott mentőszervezet regionális igazgatójára ruházhat át.
+
+(2)[^6] A főigazgató gyakorolja a Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság tekintetében az egészségügyi szakmai irányítási jogokat.
+
+## A Mentőszolgálat feladatai
+
+### 5. §
+
+(1) A Kormány állami mentőszolgálatként a Mentőszolgálatot jelöli ki.
+
+(2)[^7] A Mentőszolgálat működése az ország egész területére kiterjed. A Mentőszolgálat egyes feladatait az országos tisztifőorvos által kiadott engedély alapján egyéb mentést végző szervezetekkel szerződés alapján együttműködve is elláthatja.
+
+### 6. §
+
+(1) Mentés céljából bárki hívhat mentőt az ország egész területén egységes sürgősségi távbeszélő hívószámon.
+
+(2) A Mentőszolgálat hívása mentés céljából indokolt különösen
+
+a) életveszély, vagy annak gyanúja esetén,
+
+b) minden heveny, akut tünetekkel járó megbetegedés, illetve egészségkárosodás esetén, ha a sürgősségi orvosi szakellátás (oxyológiai ellátás) késlekedése életveszélyhez, maradandó egészségkárosodáshoz vezethet,
+
+c) személyi sérüléssel járó baleset, tömeges baleset, katasztrófa esetén,
+
+d) csak orvosi beavatkozással csillapítható, heveny fájdalom vagy egyéb súlyos egészségkárosodásra utaló tünet esetén,
+
+e) ha a pszichiátriai beteg közvetlen veszélyeztető magatartást tanúsít, és ez csak azonnali pszichiátriai intézeti gyógykezelésbe vétellel hárítható el,
+
+f) szülő nő, illetve újszülött/koraszülött első egészségügyi szakellátása, illetőleg őrzött szállítása érdekében.
+
+(3) Egészségügyi intézmény akkor lehet a Mentőszolgálat által végzett mentés helyszíne, ha ott a beteg állapotának megfelelő ellátás személyi és/vagy tárgyi feltételek hiányában nem biztosítható.
+
+(4)[^8] A mentésirányítást ellátó személy a bejelentés tartalma és az összes körülmény értékelése alapján dönt a mentés szükségességéről és megteszi a mentésről szóló miniszteri rendeletben meghatározott intézkedéseket.
+
+(5)[^9] Az orvos nélküli mentőegység – a mentésirányítást ellátó személlyel közreműködve – a mentésről szóló miniszteri rendeletben meghatározottak szerint felméri a beteg állapotát, és ezt követően intézkedik a beteg megfelelő ellátásáról.
+
+(6) A Mentőszolgálat a sürgősségi betegellátás keretében földi és légi mentési feladatokat lát el.
+
+(7)[^10] A Mentőszolgálat légi mentési feladatait a Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság útján látja el.
+
+(8) A Mentőszolgálat feladatkörében országosan működteti a sürgősségi segélyhívó szám(ok)hoz kapcsolódó mentésirányítási rendszert.
+
+(9)[^11] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
+
+(10)[^12] A Mentőszolgálat jogszabályban meghatározott esetben és módon részt vesz a háziorvosi, házi gyermekorvosi orvosi ügyeleti ellátásban, és koordinálja azt.
+
+### 7. §
+
+(1)[^13] Az azonnali, sürgős gyógyintézeti ellátásra szoruló beteget az állapotának megfelelő ellátásra alkalmas legközelebbi vagy legrövidebb időn belül elérhető – az egészségügyi ellátás folyamatos működtetésének egyes szervezési kérdéseiről szóló miniszteri rendelet alapján ügyeleti feladatot ellátó – gyógyintézetbe kell szállítani.
+
+(2) Váratlanul kialakult, illetve várhatóan kialakuló, a helyszínen mentési készenlétet igénylő veszélyhelyzetben a helyszínen intézkedő hatóság kérheti mentőegység kiküldését a helyszín egészségügyi biztosítására.
+
+(3)[^14] A Mentőszolgálat – a mentési feladatok elsődlegessége figyelembevételével – betegszállítási feladatokat is elláthat, továbbá központi orvosi ügyeleti feladatok ellátásában is közreműködhet.
+
+(4) A Mentőszolgálat rendezvény helyszínén térítés ellenében rendezvénybiztosítási tevékenységet folytathat. A mentési készenlétet igénylő rendezvényekre a biztosítást a területileg illetékes regionális mentőszervezettől írásban kell kérni, a térítési kötelezettségvállalás feltüntetésével.
+
+(5) Amennyiben a mentésről szóló külön jogszabály rendezvény tekintetében mentési terv elkészítését írja elő, a Mentőszolgálat a külön jogszabály szerint közreműködik a mentési terv előkészítésében, továbbá ellátja a mentési tervben foglalt feladatokat.
+
+(6)[^15] A Mentőszolgálat mentőjárműveit mentésre, rendezvények egészségügyi biztosítására, mozgóőrségre, helyszínbiztosításra, külföldi beteg- és szervszállításra, továbbá külföldi és belföldi szervátültetéssel kapcsolatos sürgős szállításra lehet igénybe venni. A Mentőszolgálat betegszállító járműveit belföldi betegszállításra lehet igénybe venni. A Mentőszolgálat főigazgatója vagy az általa megbízott személy rendkívül indokolt esetben a mentő és a betegszállító járművek más célú igénybevételét is engedélyezheti.
+
+(7)[^16] A Mentőszolgálat a pirotechnikai termékek használatával kapcsolatos, sérüléssel járó balesetek számáról vagy sérülések számáról, valamint a balesetekből eredő sérülések korcsoport és sérüléstípus szerinti bontásban megadott számára vonatkozó információkról nyilvántartást vezet.
+
+### 8. §
+
+(1) Ez a rendelet 2007. január 1-jén lép hatályba.
+
+(2)[^17]
+
+### 9. §[^18]
+
+Ez a rendelet a 2013/29/EU európai parlamenti és tanácsi irányelvnek a pirotechnikai termékek használatával kapcsolatos balesetekre vonatkozó adatok rendszeres gyűjtése és frissítése tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2023. június 2-i (EU) 2023/1096 bizottsági végrehajtási határozat szerinti feladat végrehajtását szolgálja.
+
+## Melléklet a 322/2006. (XII. 23.) Korm. rendelethez
+
+**Az Országos Mentőszolgálat régióközpontjai**
+
+1\. Közép-magyarországi régió – Budapest
+
+2\. Észak-magyaroszági régió – Miskolc
+
+3\. Dél-alföldi régió – Szeged
+
+4\. Észak-alföldi régió – Debrecen
+
+5\. Dél-dunántúli régió – Pécs
+
+6\. Közép-dunántúli régió – Veszprém
+
+7\. Nyugat-dunántúli régió – Szombathely
+
+---
+
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 366. §-ával megállapított szöveg.
+[^2]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 366. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 367. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 367. §-ával megállapított szöveg.
+[^5]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 368. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdése a 309/2019. (XII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 83. §-a szerint módosított szöveg.
+[^8]: A 6. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^9]: A 6. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^10]: A 6. § (7) bekezdése a 309/2019. (XII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 167/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^12]: A 6. § (10) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^13]: A 7. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^15]: A 7. § (6) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^16]: A 7. § (7) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
+[^17]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 195. pontja hatályon kívül helyezte.
+[^18]: A 9. §-t a 463/2024. (XII. 30.) Korm. rendelet 35. §-a iktatta be.

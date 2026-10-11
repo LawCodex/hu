@@ -1,0 +1,266 @@
+---
+title: "158/2009. (VII. 30.) Korm. rendelet a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről"
+identifier: "158/2009. (VII. 30.) Korm. rendelet"
+njt_id: "2009-158-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/158"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-07-30
+in_force_from: 2009-08-02
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-158-20-22"
+retrieved: 2026-10-12
+---
+
+# 158/2009. (VII. 30.) Korm. rendelet a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok földrajzi árujelzőinek oltalmára irányuló eljárásról és a termékek ellenőrzéséről
+
+A Kormány a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 121. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §
+
+(1) E rendelet előírásait a mezőgazdasági termékek és az élelmiszerek, valamint a szeszes italok (a továbbiakban együtt: termékek) földrajzi árujelzőinek oltalmára és a földrajzi árujelzővel ellátott termékeknek, valamint a földrajzi árujelzők használatának ellenőrzésére kell alkalmazni.
+
+(2) A rendelet hatálya nem terjed ki – a borecet kivételével – a szőlészeti és borászati termékekre.
+
+(3) E rendelet végrehajtása során a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvényben (a továbbiakban: Vt.), a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló, 2006. március 20-i 510/2006/EK tanácsi rendeletben (a továbbiakban: 510/2006/EK rendelet), a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendeletben (a továbbiakban: 1898/2006/EK rendelet), valamint a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 110/2008/EK rendelet) foglalt fogalommeghatározásokat is alkalmazni kell.
+
+## II. Fejezet[^1] — A MAGYAR EREDETVÉDELMI TANÁCS
+
+## III. Fejezet — A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK FÖLDRAJZI ÁRUJELZŐINEK KÖZÖSSÉGI OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
+
+### A közösségi oltalom iránti eljárás nemzeti szakasza
+
+#### 3. §[^3]
+
+Az 510/2006/EK rendelet 5. cikke szerinti kérelmet az élelmiszeriparért felelős miniszterhez (a továbbiakban: miniszter) kell benyújtani. A kérelem mellékletei elektronikus adathordozón is benyújthatók. A kérelemhez csatolni kell:
+
+a) a kérelmező csoportosulás nevét és címét, tevékenységének bemutatását [az 510/2006/EK rendelet 5. cikkének (1)–(2) bekezdésében foglaltak, valamint az 1898/2006/EK rendelet 10. cikke (1) bekezdésének második albekezdésében meghatározottak figyelembevételével], beleértve a csoportosulás tagjainak pontos elérhetőségi adatait;
+
+b) az 510/2006/EK rendelet 4. cikke szerint elkészített termékleírást, kiegészítve azt a termék lényeges tulajdonságainak és előállítási módjának ellenőrzésére vonatkozó alapkövetelményeket és eljárásokat leíró fejezettel;
+
+c) a termékleírás kötelező mellékleteként a meghatározott földrajzi területet bemutató – egy vagy több – A4-es formátumú térképet és a földrajzi területtel való kapcsolatot alátámasztó irodalmi adatokat, történelmi dokumentumokat; valamint
+
+d) az 510/2006/EK rendelet 5. cikk (3) bekezdés c) pontja, illetve az 1898/2006/EK rendelet 11. cikke szerint elkészített egységes dokumentumot.
+
+#### 4. §
+
+(1)[^4] A miniszter a hiánytalan, vagy a hiánypótlásokkal kiegészített kérelmet a Kormány véleményező, javaslattevő jogkörrel működő konzultatív testülete, az eredetvédelemmel foglalkozó tanács (a továbbiakban: MET) elé terjeszti.
+
+(2) Az 510/2006/EK rendelet 5. cikkének (4) bekezdése szerinti részletes vizsgálat során a MET formai és tartalmi szempontból véleményezi a kérelmet. A részletes vizsgálat keretében – a MET véleményére figyelemmel – a kérelmező a termékleírást módosíthatja, illetve kiegészítheti. A MET a kérelem megalapozottságának megítélésére nézve javaslatot tesz a miniszter részére.
+
+#### 5. §
+
+(1) A miniszter – a Vt. 116/A. §-a (8) bekezdésének megfelelően a Minisztérium hivatalos lapjában és honlapján közzéteszi a kérelmet, ha a részletes vizsgálat során megállapítást nyer, hogy azt az arra jogosult nyújtotta be, és a termékleírás, valamint az egységes dokumentum megfelel az 510/2006/EK rendeletben és az 1898/2006/EK rendeletben előírt feltételeknek.
+
+(2) Az arra jogosult személyek a kérelemmel szemben a Vt. 116/A. §-ának (8) bekezdése szerint kifogást nyújthatnak be a miniszterhez. Ha az előírt határidőn belül kifogás nem érkezik, a miniszter a Vt. 116/A. §-ának (9) bekezdésében foglaltaknak megfelelően jár el.
+
+(3) A miniszter az előírt határidőn belül érkezett kifogás elfogadhatóságáról az 510/2006/EK rendelet 7. cikke (3) bekezdésének a)–d) pontjaiban foglalt feltételek vizsgálata alapján dönt.
+
+(4) A kifogásnak a Vt. 116/A. §-ának (8) bekezdése szerinti elbírálása előtt a miniszter az elfogadható kifogással kapcsolatban nyilatkozattételre hívja fel a kérelmezőt.
+
+### A termékleírás módosítása
+
+#### 6. §
+
+(1) A termékleírás módosításának jóváhagyása iránti kérelmet az 510/2006/EK rendelet 9. cikkének (1) bekezdésében foglaltak alapján, az 1898/2006/EK rendelet 16. cikkének (1) és (2) bekezdése szerint kell benyújtani.
+
+(2) A termékleírás módosításának jóváhagyása iránt benyújtott kérelmek tekintetében a 3–5. § rendelkezéseit kell megfelelően alkalmazni.
+
+### A földrajzi árujelző bejegyzésének törlése
+
+#### 7. §
+
+(1) Az oltalom alatt álló földrajzi árujelző bejegyzésének törlését az 510/2006/EK rendelet 12. cikkének (2) bekezdése alapján arra jogosultak az 1898/2006/EK rendelet 17. cikke (2) bekezdésének első és második albekezdésében foglaltaknak megfelelően kérhetik.
+
+(2) Az (1) bekezdés alapján benyújtott törlési kérelmekre a 3–5. § rendelkezéseit kell megfelelően alkalmazni.
+
+### Az Európai Közösség más tagállama, illetve harmadik ország által továbbított kérelemmel szemben benyújtott kifogás
+
+#### 8. §
+
+(1) Az Európai Közösség más tagállama vagy harmadik ország által az Európai Bizottságnak (a továbbiakban: Bizottság) továbbított bejegyzés iránti, módosítási, illetve törlési kérelemmel szembeni – az 510/2006/EK rendelet 7. cikkének (2) bekezdése szerinti – kifogást az 510/2006/EK rendelet 7. cikkének (3) bekezdésében, illetve az 1898/2006/EK rendelet 13. cikkében és 17. cikkének (2) bekezdésében foglaltakkal összhangban kell elkészíteni, és a Vt. 116/A. §-a (12) bekezdésének megfelelően kell benyújtani a miniszterhez.
+
+(2)[^5] A kifogást a miniszter másolatban megküldi a Hivatalnak és továbbítja azt a Bizottsághoz.
+
+### A Magyarország által továbbított kérelemmel szembeni, az Európai Közösség más tagállamától, illetve harmadik országból érkezett kifogás
+
+#### 9. §
+
+(1) A Magyarország által az 510/2006/EK rendelet 5. cikkének (5) bekezdése szerint a Bizottságnak továbbított bejegyzés iránti, módosítási, illetve törlési kérelemre az Európai Unió más tagállamától vagy harmadik országból a Bizottságon keresztül érkezett kifogást a miniszter továbbítja az érdekelt feleknek, és az 510/2006/EK rendelet 7. cikke (5) bekezdésének második albekezdése szerinti megállapodást elősegítő egyeztetésben közreműködik.
+
+(2)[^6] A kifogást a miniszter másolatban megküldi a Hivatalnak.
+
+(3) Az egyeztetés eredményéről a miniszter az 1898/2006/EK rendelet 13. cikkének (4) bekezdésében foglaltaknak megfelelően tájékoztatja a Bizottságot.
+
+## IV. Fejezet — A SZESZES ITALOK FÖLDRAJZI ÁRUJELZŐINEK NEMZETI OLTALMÁRA VONATKOZÓ SZABÁLYOK
+
+### A termékleírás vizsgálatára irányuló eljárás
+
+#### 10. §
+
+(1) A Vt. 113/A. §-a (1) bekezdésének a) pontja szerinti termékleírásnak meg kell felelnie a 110/2008/EK rendelet 17. cikkének (4) bekezdésében foglaltaknak, továbbá – külön fejezetben – a következőket kell tartalmaznia:
+
+a) annak igazolása, hogy a termék a termékleírásban meghatározott, a Vt. 103. §-ának (2), illetve (3) bekezdése szerinti földrajzi területről származik;
+
+b) a 11. § (1) bekezdése szerinti ellenőrző hatóság neve és címe;
+
+c) a termék lényeges tulajdonságainak és előállítási módjának ellenőrzésére vonatkozó alapkövetelmények és eljárások leírása; továbbá
+
+d) a termékleírás kötelező mellékleteként a meghatározott földrajzi területet bemutató – egy vagy több – A4-es formátumú térkép és a földrajzi területtel való kapcsolatot alátámasztó irodalmi adatok, történelmi dokumentumok.
+
+(2) A szőlő és boralapú szeszes italok esetében a termékleírásnak tartalmaznia kell az alapanyag származási helyét és az előállítás helyét. Az alapanyag származását külön jogszabályban foglaltak szerint kell igazolni. Amennyiben a szeszes ital földrajzi árujelzője azonos egy bor oltalom alatt álló eredetmegjelölésével vagy földrajzi jelzésével, kizárólag az adott bor termékleírásában meghatározott területről származó és az előírt szabályoknak megfelelő bor vagy borászati melléktermék használható fel a szeszes ital alapanyagaként.
+
+(3) A miniszter a Vt. 113/A. §-a (1) bekezdésének d) pontja szerinti, a földrajzi árujelző lajstromozására vonatkozó egyetértő nyilatkozatát akkor adja meg, ha az általa lefolytatott vizsgálat során megállapítást nyer, hogy a termékleírást a Vt. 107. §-ának (2) bekezdése alapján arra jogosult nyújtotta be, valamint ha a termékleírás – a Vt. 103. §-ának (2) vagy (3) bekezdését, valamint a 110/2008/EK rendelet 17. cikkének (4) bekezdésében foglaltakat is figyelembe véve – megalapozott.
+
+(4) A (3) bekezdés szerinti vizsgálat során a termékleírást a MET megvizsgálja és véleményezi. A véleményben a Vt. 113/A. §-a (1) bekezdésének d) pontja szerinti egyetértés megadására nézve a miniszter részére javaslatot tesz.
+
+(5) A miniszter a Minisztérium hivatalos lapjában és honlapján közzéteszi a termékleírást, ha a részletes vizsgálat során megállapítást nyer, hogy azt az arra jogosult nyújtotta be és a termékleírás megfelel az e rendeletben, valamint a 110/2008/EK rendeletben előírt feltételeknek. A termékleírás személyes adatot tartalmazó része csak a kérelmező hozzájárulásával tehető közzé. A termékleírással szemben a közzétételtől számított két hónapon belül kifogást lehet benyújtani a miniszterhez. A miniszter a kifogás megalapozottságáról a Vt. 113/A. §-a (1) bekezdésének d) pontja szerinti nyilatkozatában foglal állást.
+
+(6) A termék földrajzi árujelzőjének nemzeti lajstromozását és az oltalom megszűnését, valamint a lajstromozást követően a jóváhagyott termékleírást a Minisztérium hivatalos lapjában és honlapján is közzé kell tenni.
+
+(7) A termékleírás módosítása iránt a Vt. 113/A. §-ának (2) bekezdése alapján indult eljárásokban a termékleírásokra az (1)–(5) bekezdések rendelkezéseit kell megfelelően alkalmazni.
+
+(8) Az oltalom alatt álló földrajzi árujelzővel ellátott termék csomagolásán feltüntethető a „védett földrajzi jelzés”, illetve a „védett eredetmegjelölés” megjelölés.
+
+## V. Fejezet — A TERMÉKEK ELLENŐRZÉSE
+
+#### 11. §
+
+(1)[^7] A Vt. 121. §-a (1) bekezdésének b) pontjában meghatározott ellenőrző hatóságként a Kormány
+
+a)[^8] élelmiszerek esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal) és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+
+b)[^9] szeszes italok esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+
+c)[^10] zöldség-gyümölcs esetében – külön jogszabályban foglaltak szerint – a növény- és talajvédelmi feladatkörében eljáró vármegyei kormányhivatalt és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt,
+
+d)[^11] mezőgazdasági termékek esetében – külön jogszabályban foglaltak szerint – a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatalát és a Nemzeti Élelmiszerlánc-biztonsági Hivatalt
+
+(a továbbiakban együtt: ellenőrző hatóság) jelöli ki.
+
+(2) Az ellenőrző hatóság a Vt. 113/A. §-a alapján lajstromozott, továbbá a Vt. 116/A. §-ának (10) bekezdése szerinti átmeneti oltalomban, illetve a közösségi oltalomban részesülő földrajzi árujelzővel ellátott termékek (a továbbiakban együtt: földrajzi árujelzővel ellátott termék) termékleírásnak, illetve egységes dokumentumnak való megfelelését a termelés, előállítás, illetve forgalmazás helyén ellenőrzi.
+
+(3) A földrajzi árujelzővel ellátott termékek árujelzője nem tévesztheti meg a végső fogyasztót az 510/2006/EK rendelet 13. cikkének (1) bekezdésében, illetve a 110/2008/EK rendelet 16. cikkében foglaltakkal összhangban.
+
+(4) A (3) bekezdés rendelkezései a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(5) A (3) bekezdésben foglalt rendelkezések megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott hatóság jogosult az ott meghatározott szabályok szerint.
+
+(6) A földrajzi árujelzővel ellátott termék elnevezése, megjelölése, illetve szimbóluma használata megsértésének észlelése esetén az ellenőrző hatóság, illetve a fogyasztóvédelmi hatóság egymást haladéktalanul értesíti az eljárás megindításáról az eljárás tárgyát képező tényállás ismertetésével, melynek során az ügy érdemi azonosíthatóságához szükséges adatokat – így különösen az érintett vállalkozás azonosításához szükséges adatokat, valamint az ellenőrzés helyére és idejére vonatkozó adatokat – a másik fél rendelkezésére bocsátja. Ha a jogsértés miatt mindkét hatóság jogosult eljárni, a továbbiakban az a hatóság jár el, amely az ügyben az eljárást korábban indította meg.
+
+#### 12. §
+
+(1) Ha az ellenőrző hatóság megállapítja, hogy a földrajzi árujelzővel ellátott termék nem felel meg a termékleírásban foglaltaknak,
+
+a) kisebb hiba esetén felszólítja a termelőt vagy előállítót (a továbbiakban együtt: előállító), illetve forgalmazót a hiányosságok orvoslására és arra, hogy az ennek érdekében megtett intézkedésekről tizenöt napon belül adjon tájékoztatást,
+
+b) lényeges hiba esetén, vagy ha az előállító, illetve forgalmazó az *a)* pont szerinti beszámolási kötelezettségét elmulasztja, a termék előállítását, illetve forgalomba hozatalát a jogsértés elkövetője számára a hiba jellegétől függő feltételhez köti, illetve
+
+c) súlyos hiba esetén a termék tekintetében a földrajzi árujelző használatát a jogsértést elkövető előállító számára azonnali hatállyal megtiltja.
+
+(2) Az (1) bekezdés alkalmazásában
+
+a) kisebb hiba a termékleírásban foglaltaktól való olyan eltérés, amely a termék jellemzőit annak lényeges tulajdonságait tekintve nem változtatja meg;
+
+b) lényeges hiba
+
+ba) a termékleírásban foglaltaktól való, az *a)* és a *c)* pontba nem tartozó eltérés, amely a termék minőségi jellemzőit befolyásolja, valamint
+
+bb) a kisebb hiba három éven belül történő megismétlődése;
+
+c) súlyos hiba
+
+ca) a termékleírásban foglaltaktól való olyan mértékű vagy természetű eltérés, amely a termék jellemzőit annak lényeges tulajdonságait tekintve jelentősen megváltoztatja, vagy amelynek eredményeképpen a termék nem tekinthető a termékleírásban szereplő földrajzi területről származónak, valamint
+
+cb) a *b)* pont *ba)* alpontja szerinti lényeges hiba három éven belül történő megismétlődése.
+
+(3)[^12] Az (1) bekezdés c) pontja szerinti tilalom időtartama egy év. A tilalom lejártát megelőző huszonegy napon belül az ellenőrző hatóság az előállító székhelyén vagy telephelyén ellenőrzi, hogy a földrajzi árujelzővel ellátott termék megfelel-e a termékleírásban foglaltaknak. A földrajzi árujelző újbóli használatát az előállító csak akkor kezdheti meg, ha a tilalom lejártának napját megelőző ellenőrzés során az ellenőrző hatóság megállapítja, hogy a földrajzi árujelzővel ellátott termék a termékleírásban foglaltaknak megfelel.
+
+(4) Ha az előállító, illetve forgalmazó az (1) bekezdés b), illetve c) pontja alapján hozott feltételhez kötő, vagy tiltó határozat ellenére használja az adott földrajzi árujelzőt, az ellenőrző hatóság
+
+a) a jogsértő cég adatait és a jogsértést nyilvánosságra hozza,
+
+b) a földrajzi árujelzővel jogellenesen ellátott terméket a forgalomból kivonja, illetve
+
+c)[^13] a fogyasztók megtévesztésének gyanúja esetén értesíti a Gazdasági Versenyhivatalt, illetve a fogyasztóvédelmi hatóságot a tapasztalt szabálytalanságról.
+
+#### 13. §
+
+(1) Az ellenőrző hatóság a 12. § (4) bekezdésében meghatározott esetben az ott említett jogkövetkezményeken felül az előállítót megbírságolja. A bírság alapösszege
+
+a) a tétel értékének másfélszerese a termékleírásban foglaltaktól való olyan mértékű eltérés esetén, amely a termék minőségi jellemzőit befolyásolja,
+
+b) a tétel értékének kétszerese a földrajzi árujelző használatára nem jogosult általi előállítás, illetve a földrajzi árujelzővel jogellenesen ellátott termék forgalomba hozatala esetén.
+
+(2) Az azonos tényállású jogsértés három éven belül történő ismétlődése esetén a kiszabható bírság mértékét az *a)* pontban meghatározott esetben az alapösszeg 2-szeres, a *b)* pontban meghatározott esetben az alapösszeg 2,5-szeres szorzatával számítva kell megállapítani.
+
+(3) A tétel értéke az adott előállító, illetve forgalmazó helyen az ellenőrzés, illetve a mintavétel időpontjában alkalmazott egységár és – az Európai Unió közvetlenül alkalmazandó jogi aktusának kifejezetten erre vonatkozó eltérő rendelkezése hiányában – az ellenőrzött egységben található, a hiba és az előállítás szempontjából azonos megítélésű termék mennyiségének szorzata.
+
+#### 14. §
+
+(1) A földrajzi árujelzővel ellátott terméket előállítók az előállításnak, illetve a földrajzi árujelző használatának a megkezdését, az adataikban bekövetkezett változást, valamint a földrajzi árujelzővel ellátott termék előállításának megszüntetését 15 napon belül bejelentik a hatáskörrel rendelkező ellenőrző hatósághoz. Az ellenőrző hatóság kérelemre hatósági bizonyítványt állít ki arról, hogy az előállító földrajzi árujelzővel ellátott terméket állít elő.
+
+(2) Az (1) bekezdés szerinti bejelentési kötelezettség a mezőgazdasági termékek és az élelmiszerek esetén a kérelmező csoportosulás tagjait, illetve szeszes italok esetén a jogosultat is terheli, amelynek elmulasztása lényeges hibának minősül.
+
+(3) A 11–12. §-ok alapján végzett ellenőrzések eredményéről, valamint az (1) bekezdés szerinti bejelentési kötelezettséget teljesítő előállítók naprakész jegyzékéről az ellenőrző hatóságok félévente tájékoztatják a Minisztériumot.
+
+(4)[^14]
+
+## VI. Fejezet — ÁTMENETI RENDELKEZÉSEK
+
+#### 15. §
+
+(1)[^15] A 110/2008/EK rendelet 20. cikke értelmében oltalomban részesülő földrajzi árujelzők esetében – kivéve a „pálinka” és a „törkölypálinka” földrajzi árujelzőket – a 10. § (1) bekezdése szerinti termékleírást a földrajzi árujelző jogosultja nyújthatja be a miniszterhez, legkésőbb 2013. július 31-ig. A miniszter az ügy iratainak másolatát megküldi a Hivatalnak.
+
+(2) Amennyiben a jogosult az (1) bekezdés szerinti határidőig nem nyújtja be a termékleírást, a miniszter a műszaki dokumentációt a 110/2008/EK rendelet 20. cikkének (1) bekezdése alapján nem továbbítja.
+
+(3) A „pálinka” és a „törkölypálinka” földrajzi árujelzők esetében a 10. § (1) bekezdése szerinti termékleírást a tudomány, az előállítók szakmai érdek-képviseleti szervezetei, valamint az ellenőrző hatóság bevonásával a miniszter készíti el, majd a 110/2008/EK rendelet 20. cikkének (1) bekezdése szerint jár el.
+
+#### 16. §
+
+(1)[^16] Az e rendelet hatálybalépését megelőzően nemzeti oltalomban részesített, de a 110/2008/EK rendelet III. mellékletében nem lajstromozott földrajzi árujelző esetében a bejelentő a 110/2008/EK rendelet 17. cikkének (4) bekezdésében foglaltaknak megfelelő termékleírás benyújtásával egyidejűleg kérheti a minisztertől a 110/2008/EK rendelet 17. cikkének (1) bekezdése szerinti bejelentés megtételét. A kérelem beérkezéséről a miniszter a Hivatalt értesíti.
+
+(2) A miniszter a 110/2008/EK rendelet 17. cikkének (4) bekezdésében foglaltaknak megfelelő termékleírást benyújtja a Bizottsághoz, valamint azt a Minisztérium hivatalos lapjában és honlapján nyilvánosságra hozza. A termékleírás személyes adatot tartalmazó része csak a kérelmező hozzájárulásával tehető közzé.
+
+## VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 17. §
+
+(1) Ez a rendelet 2009. augusztus 1-jén lép hatályba, rendelkezéseit – a 15. és a 16. § kivételével – a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2)[^17]
+
+### Az Európai Unió jogának való megfelelés
+
+#### 18. §
+
+Ez a rendelet megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
+
+a) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló, 2006. március 20-i 510/2006/EK tanácsi rendelet;
+
+b) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
+
+c) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete.
+
+---
+
+[^1]: A II. fejezetet (2. §) a 229/2013. (VI. 27.) Korm. rendelet 1. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 3. § nyitó szövegrésze a 229/2013. (VI. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (1) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: A 8. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 9. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 11. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 247. §-ával megállapított szöveg.
+[^8]: A 11. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 138. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
+[^9]: A 11. § (1) bekezdés b) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
+[^10]: A 11. § (1) bekezdés c) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 70. §-a, a 616/2022. (XII. 29.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdés d) pontja a 23/2012. (II. 29.) Korm. rendelet 45. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 138. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 101. § b) pontja szerint módosított szöveg.
+[^12]: A 12. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (117) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^13]: A 12. § (4) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 248. §-a szerint módosított szöveg.
+[^14]: A 14. § (4) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^15]: A 15. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^16]: A 16. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^17]: A 17. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

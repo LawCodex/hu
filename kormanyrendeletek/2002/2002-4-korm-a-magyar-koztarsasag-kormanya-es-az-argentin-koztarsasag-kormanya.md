@@ -1,0 +1,125 @@
+---
+title: "4/2002. (I. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya közötti, Budapesten, 1999. december 10-én aláírt állategészségügyi megállapodás jóváhagyásáról és kihirdetéséről"
+identifier: "4/2002. (I. 15.) Korm. rendelet"
+njt_id: "2002-4-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/4"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-01-15
+in_force_from: 2002-01-15
+last_amended: 2002-01-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-4-20-22"
+retrieved: 2026-10-12
+---
+
+# 4/2002. (I. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya közötti, Budapesten, 1999. december 10-én aláírt állategészségügyi megállapodás jóváhagyásáról és kihirdetéséről
+
+*(A diplomáciai jegyzékváltás 2001. december 22-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya közötti, Budapesten, 1999. december 10-én aláírt állategészségügyi megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+**Állategészségügyi Megállapodás a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya között**
+
+A Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya (a továbbiakban: Felek)
+
+annak érdekében, hogy műszaki együttműködést alakítsanak ki az állategészségügyi szolgálataik között,
+
+figyelemmel arra, hogy a Felek az állatok, állati termékek és melléktermékek kereskedelmében az állategészségügyi kérdéseknek nagy fontosságot tulajdonítanak,
+
+annak érdekében, hogy az állategészségüggyel kapcsolatos információ, technológia és jogszabályok cseréjét elősegítsék,
+
+tekintetbe véve a WTO Megállapodás Állategészségügyi és Növényegészségügyi (SPS) részében meghatározott ,,Kockázatelemzés''-i módszer alkalmazását,
+
+bátorítandó a kölcsönös szakmai ismeretszerzést és megkönnyítendő az állatok, állati termékek és melléktermékek kétoldalú árucseréjét,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikkely*
+
+A Felek annak érdekében, hogy megakadályozzák fertőző vagy ragályos állatbetegségek, valamint egészségre ártalmas állati eredetű termékek országaik területére való bejutását, vállalják, hogy együttműködnek az élő állat, az állati eredetű termékek és más, esetleg kórokozó anyagot hordozó tárgyak exportja, importja és átmenő forgalma területén.
+
+*2. Cikkely*
+
+A Megállapodás alkalmazására a Felek az alábbi illetékes szerveket jelölik ki:
+
+– a Magyar Köztársaság Kormánya részéről: a Földművelésügyi és Vidékfejlesztési Minisztérium Állategészségügyi és Élelmiszer-ellenőrzési Főosztálya;
+
+– az Argentin Köztársaság Kormánya részéről: a Mezőgazdasági, Állattenyésztési, Halászati és Élelmiszer Titkárság Agrár-élelmiszer Egészségügyi és Minőségi Nemzeti Szolgálata.
+
+*3. Cikkely*
+
+(1) A Felek illetékes szervei vállalják, hogy
+
+*a)* késedelem nélkül értesítik egymást olyan állatbetegség azonosításáról, amely a Nemzetközi Járványügyi Hivatal (O.I.E.) Nemzetközi Állategészségügyi Kódexének ,,A'' listáján szerepel, valamint olyan fertőző állatbetegségek azonosításáról, amelyek eddig még nem fordultak elő a Magyar Köztársaság és az Argentin Köztársaság területén, vagy amelyek már több éve nem jelentek meg;
+
+*b)* az értesítésben megjelölik a megbetegedett állatok faját és számát, a betegség megjelenésének helyét, megadják a diagnózist és az annak megállapítására alkalmazott módszert, valamint tájékoztatnak a betegség ellenőrzéséről. Száj- és körömfájás esetén az izolált vírus típusát is meg kell jelölni;
+
+*c)* a fenti értesítéseket mindaddig megküldik, amíg a betegséget teljesen fel nem számolták;
+
+*d)* a másik Fél kérésére értesítik egymást a Nemzetközi Járványügyi Hivatal (O.I.E.) Nemzetközi Állategészségügyi Kódexének ,,B'' listáján szereplő fertőző betegségek előfordulásáról.
+
+(2) Ha valamelyik Fél területén az (1) bekezdés *a)* pontjában megjelölt állatbetegségek egyikét megállapítják, a Felek kölcsönösen segíteni fogják egymást a kóroktani diagnosztikában, és külön kérésre egymás rendelkezésére bocsátják az izolált kórokozó tenyészetét.
+
+(3) A Felek illetékes szervei rendszeresen megküldik egymásnak a Magyar Köztársaságban, illetve az Argentin Köztársaságban bejelentési kötelezettség alá tartozó fertőző állatbetegségek megjelenésére vonatkozó havi jelentéseket.
+
+*4. Cikkely*
+
+A Felek állatállományaik egészségvédelme érdekében, valamint a fertőző, parazitás és egyéb állatbetegségek megelőzése céljából tájékoztatják egymást a legújabb állategészségügyi ismeretek gyakorlati alkalmazásáról.
+
+*5. Cikkely*
+
+A Felek az állategészségügyi együttműködés fejlesztése, valamint a tudományos kutatás hatékonyságának fokozása érdekében vállalják, hogy
+
+– elősegítik az együttműködést az állategészségügyi tudományos és diagnosztikai intézmények között;
+
+– elősegítik szakfolyóiratok és más, állategészségüggyel kapcsolatos kiadványok cseréjét;
+
+– kölcsönösen tájékoztatják egymást az állategészségügyi jogszabályokról és az állategészségügyi szervezeti változásokról;
+
+– kölcsönösen tájékoztatják egymást szakmai találkozókról és programokról, valamint lehetővé teszik azokon mindkét Fél szakembereinek a részvételét.
+
+*6. Cikkely*
+
+A jelen Megállapodás rendelkezéseinek végrehajtásával kapcsolatos vitás kérdéseket a Felek illetékes központi szervei közvetlen tárgyalásokkal és intézkedésekkel oldják meg.
+
+A Felek, figyelembe véve a Nemzetközi Járványügyi Hivatal (O.I.E.) ajánlásait és a WTO Megállapodás Állategészségügyi és Növényegészségügyi alapelveit, harmonizálni fogják a közösen meghatározott állati eredetű termékekre vonatkozó állategészségügyi igazolásokat.
+
+*7. Cikkely*
+
+A jelen Megállapodás 5. vagy 6. Cikkelye alapján kezdeményezett utazások során a küldötteknek vagy a küldöttségeknek a küldő országtól a fogadó országig történő utazásának, elszállásolásának és napidíjának költségeit a küldő Fél, míg a fogadó ország területén történő utazásának költségeit a fogadó Fél viseli.
+
+*8. Cikkely*
+
+A jelen Megállapodás 30 (harminc) nappal azután lép hatályba, hogy a Felek egymást kölcsönösen értesítették a hatálybalépéshez szükséges belső jogi előírások teljesítéséről.
+
+A Megállapodás határozatlan ideig marad hatályban, és azt bármelyik Fél 6 (hat) hónappal a felmondás hatálybalépését megelőzően a másik Félnek küldött írásbeli értesítéssel felmondhatja.
+
+A Megállapodás felmondása nem érinti a már megkezdett tevékenységek befejezését.
+
+*9. Cikkely*
+
+A jelen Megállapodás hatálybalépésével egyidejűleg a Magyar Népköztársaság Kormánya és az Argentin Köztársaság Kormánya között, Buenos Airesben, 1982. április 1. napján az állategészségügyi együttműködés kialakítása tárgyában aláírt Egyezmény hatályát veszti.
+
+Készült Budapesten, 1999. december 10-én, két eredeti példányban, magyar, spanyol és angol nyelven. Értelmezési vita esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Az Argentin Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. A megállapodásban foglaltakat 2001. december 22. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.

@@ -1,0 +1,192 @@
+---
+title: "270/2002. (XII. 20.) Korm. rendelet az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről"
+identifier: "270/2002. (XII. 20.) Korm. rendelet"
+njt_id: "2002-270-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/270"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-12-20
+in_force_from: 2008-05-16
+last_amended: 2025-01-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-270-20-22"
+retrieved: 2026-10-12
+---
+
+# 270/2002. (XII. 20.) Korm. rendelet az Iparjogvédelmi Szakértői Testület szervezetéről és működéséről
+
+A Kormány a találmányok szabadalmi oltalmáról szóló, többször módosított 1995. évi XXXIII. törvény (a továbbiakban: Szt.) 118. §-ának (1) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
+
+## Az ISZT feladatai[^1]
+
+### 1. §
+
+(1)[^2] Az Iparjogvédelmi Szakértői Testület (a továbbiakban: ISZT) az Szt. 16. §-ának (2) bekezdésében és 115/T. §-ának (1) bekezdésében megjelölt ügyekben, valamint 115/T. §-ának (2) bekezdésében meghatározott kérdésekben szakértői véleményt ad bírósági vagy hatósági megkeresés vagy megbízás alapján.
+
+(2) E rendelet alkalmazásában iparjogvédelmi jogvitás ügy
+
+a) a szabadalmi oltalom, a növényfajta-oltalom, a használati mintaoltalom, a formatervezési mintaoltalom, a topográfiaoltalom, a védjegyoltalom és a földrajzi árujelzők oltalma;
+
+b)[^3]
+
+c)[^4] a személyeket a vagyoni értékű gazdasági, műszaki és szervezési ismereteik és tapasztalataik vagy ezek összeállítása (know-how) tekintetében az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (2) bekezdése alapján megillető védelem, valamint
+
+d)[^5] az *a)* és *c)* pontokban említett szellemi alkotások, ismeretek és tapasztalatok vagy ezek összeállítása tekintetében a tisztességtelen versennyel és az üzleti döntések tisztességtelen befolyásolásával szemben a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény rendelkezéseiben biztosított védelem
+
+alapján fennálló jogok érvényesítésével összefüggő bármely jogvita.
+
+(3) E rendelet alkalmazásában iparjogvédelmi kérdésnek minősül a (2) bekezdésben meghatározott jogok gyakorlásával kapcsolatos bármely kérdés.
+
+## Az ISZT szervezete, tagjai és tisztségviselői[^6]
+
+### 2. §
+
+(1)[^7] Az ISZT tagjait az igazságügyért felelős miniszter nevezi ki ötéves időtartamra. A kinevezésre a Szellemi Tulajdon Nemzeti Hivatalának (a továbbiakban: SZTNH) elnöke tesz javaslatot, amelynek összeállításához véleményt kér az érintett szakmai és érdekképviseleti szervezetektől.
+
+(2)[^8] Az ISZT tagjának iparjogvédelmi szakértelemmel vagy az iparjogvédelemmel kapcsolatos tevékenységi területen szakismerettel rendelkező személy jelölhető.
+
+(3)[^9] Az ISZT létszáma legfeljebb hetvenöt fő lehet.
+
+(4)[^10] Az SZTNH elnöke – ha az ISZT működőképességének megőrzéséhez szükséges – az (1) bekezdésben előírt ötéves időtartam lejártát megelőzően is javasolhatja újabb testületi tagok kinevezését. Az (1)–(3) bekezdés rendelkezéseit ilyen esetben is alkalmazni kell.
+
+### 3. §
+
+(1)[^11] Az ISZT elnökét és elnökségét az igazságügyért felelős miniszter az SZTNH elnökének javaslatára nevezi ki az ISZT tagjai közül. Az elnök és az elnökség kinevezése ötéves időtartamra szól.
+
+(2)[^12] Az elnökség hét tagból áll; az ISZT elnöke hivatalból tagja az elnökségnek.
+
+(3)[^13] Az ISZT titkárát az ISZT elnökével egyetértésben az SZTNH elnöke bízza meg az SZTNH kormánytisztviselői közül.
+
+### 4. §
+
+(1)[^14] A Szakértői Testületet az elnök irányítja és képviseli. Távolléte vagy akadályoztatása esetén az elnökség általa kijelölt tagja helyettesíti. Az elnökség tagjai – az elnökségben végzett munkájukkal összefüggésben – nem részesülnek díjazásban. Az elnök díjazásban részesülhet, amelynek összegét az elnökség javaslatára az SZTNH elnöke állapítja meg.
+
+(2)[^15] A Szakértői Testületet az elnökön kívül az egyes ügyekben az eljáró tanács elnöke is képviselheti.
+
+(3)[^16] Az elnökség figyelemmel kíséri és értékeli az ISZT működését. Üléseit szükség szerint, de legalább évente egyszer az ISZT elnöke hívja össze.
+
+(4)[^17] A titkár feladata az ISZT ügyvitelének ellátása. Díjazását az ISZT elnökének javaslatára az SZTNH elnöke állapítja meg.
+
+## Az ISZT működése[^18]
+
+### 5. §
+
+(1)[^19] Az ISZT az elnökség által megállapított és az SZTNH elnöke által jóváhagyott ügyrend szerint működik.
+
+(2)[^20] A Szakértői Testületnek saját bevétele nincs; működésének feltételeiről és az ahhoz szükséges pénzügyi intézkedések megtételéről az SZTNH gondoskodik és köti meg az ISZT működéséhez szükséges szerződéseket.
+
+(3)[^21] Az ISZT elnöke – az elnökség jóváhagyásával és az SZTNH elnökével egyetértésben – évente beszámol az ISZT tevékenységéről az igazságügyért felelős miniszternek. Az éves beszámolót tájékoztatásul meg kell küldeni az SZTNH felett a Kormány nevében felügyeletet gyakorló miniszternek is.
+
+(4)[^22] Az ISZT tagjainak névsorát, az ügyrendet és az éves beszámolót az SZTNH hivatalos lapjában kell közzétenni. A szakértői véleményt – ha annak közzétételét az eljáró tanács elnöke javasolja, az SZTNH elnöke pedig azzal egyetért – az SZTNH által kiadott szakfolyóiratban kell közzétenni.
+
+(5)[^23] Az ISZT pecsétje Magyarország címere ,,Iparjogvédelmi Szakértői Testület'' körirattal.
+
+## Az ISZT eljárása[^24]
+
+### 6. §
+
+(1)[^25] Az ISZT nevében a szakértői véleményt három- vagy öttagú szakértői tanács (a továbbiakban: eljáró tanács) alakítja ki szótöbbséggel. Az ISZT elnöke jelöli ki – az ügy természetének megfelelően – az eljáró tanács tagjait, valamint közülük az ügy előadóját és az eljáró tanács elnökét.
+
+(2)[^26] Ha a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel az ISZT tagjai nem rendelkeznek, tanácskozási joggal külső szakértő közreműködése is igénybe vehető.
+
+(3)[^27] Az ISZT véleményének kialakításában nem vehet részt olyan személy, akivel szemben a Polgári Perrendtartás 178. §-a (1) bekezdésében meghatározott kizáró ok áll fenn. Az ISZT elnöke hivatalból biztosítja, hogy kizárt szakértő ne vegyen részt a szakértői vélemény kialakításában.
+
+### 7. §
+
+(1)[^28] Az ISZT-hez érkező bírósági vagy hatósági megkereséseket, illetve megbízásokat – a titkár által történő előkészítést követően – az ISZT elnöke fogadja el és igazolja vissza.
+
+(2)[^29] Bíróság vagy hatóság megkeresése esetén a szakértői vélemény elkészítéséért alapdíj, és ha az ügyben egynél több tanácsülés tartása szükséges, további ülésenként pótdíj számítható fel. E rendelet *melléklete* határozza meg az alapdíj és a pótdíj mértékét. A külső szakértő közreműködésének díja megegyezik az eljáró tanács előadó tagjának díjával.
+
+(3)[^30] A (2) bekezdés szerint meghatározott díjat az ISZT elnöke legfeljebb 50%-kal megemelheti, ha azt az ügy bonyolultsága indokolja.
+
+(4)[^31] Az ISZT-nek adott bírósági vagy hatósági megkeresés visszaigazolásában meg kell jelölni a díjnak az eset körülményeinek figyelembevételével meghatározott összegét, amelyet az ISZT nevében eljáró tanács által elkészített szakértői vélemény megküldése után kell megfizetni.
+
+(5)[^32] Az ISZT-nek adott egyéb megbízás visszaigazolásában meg kell jelölni a díjnak az eset körülményeinek figyelembevételével meghatározott összegét, amelynek megfizetését követően az ISZT nevében az eljáró tanács elkészíti a szakértői véleményt.
+
+(6)[^33] A díjak számlázásánál az általános forgalmi adóról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+
+### 8. §
+
+(1)[^34] Az ISZT a feltett kérdések és benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást, nem tart helyszíni szemlét és nem idézhető. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól vagy hatóságtól, illetve a megbízótól.
+
+(2)[^35] Az eljáró tanács zárt ülésen alakítja ki a szakértői véleményt. A szakértői véleménynek külön tartalmaznia kell a jogalkalmazási kérdésekben tett – kivonatolt – megállapításokat is. Az ülésről jegyzőkönyv készül, amelyet a jegyzőkönyvvezető és az eljáró tanács elnöke ír alá.
+
+(3)[^36] Az eljáró tanács elnökének felterjesztésére az ISZT írásba foglalt szakértői véleményét és a rendelkezésre bocsátott iratokat az ISZT elnöke megküldi a megkereső bíróságnak vagy hatóságnak, illetve a megbízónak.
+
+(4)[^37] Az eljáró tanács tagjai független szakértőként járnak el. A szakértői vélemény tartalmát illetően nem kérhetnek és nem fogadhatnak el utasításokat sem az ISZT elnökétől, elnökségétől, sem más személytől. Ha azonban az ISZT elnöke megállapítja, hogy az eljáró tanács nem válaszolt a megkereső bíróság vagy más hatóság, illetve a megbízó által feltett bármely olyan kérdésre, amelyre vonatkozóan a szakértői vélemény megadása az ISZT hatáskörébe tartozik, a szakértői vélemény kiegészítésére kérheti az eljáró tanácsot.
+
+### 9. §[^38]
+
+(1)[^39] A szakértői vélemény elkészítéséért az eljáró tanács tagjait és a 6. § (2) bekezdése szerint igénybe vett külső szakértőt díjazás illeti meg, amelyet a 7. § (2)–(5) bekezdései alapján befolyt, illetve fizetendő díjból az SZTNH fizet ki, illetve előlegez meg az eljáró tanács tagjainak, illetve a külső szakértőnek.
+
+(2)[^40] A befolyt díj felosztásának módját, mértékét az ISZT ügyrendjében kell meghatározni.
+
+## Záró rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet 2003. január 1-jén lép hatályba; rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek a hatálybalépést követően érkeznek a Szakértői Testülethez.
+
+(2) A rendelet hatálybalépését követő három hónapon belül – a 2. § és a 3. § rendelkezései szerint – ki kell nevezni a Szakértői Testület tagjait és tisztségviselőit. A kinevezésig a korábban hatályos rendelkezések szerint létrejött Találmányi Szakértői Testület működik tovább az e rendelet hatálybalépése idején meglévő összetételben és tisztségviselőkkel, megfelelően alkalmazva eljárása során e rendelet szabályait.
+
+(3)–(4)[^41]
+
+## Melléklet a 270/2002. (XII. 20.) Korm. rendelethez[^42]
+
+1\. A szakértői vélemény alapdíja:
+
+1.1. háromtagú tanács esetén 243 000 forint;
+
+1.2. öttagú tanács esetén 384 500 forint.
+
+2\. A további ülések pótdíja:
+
+2.1. háromtagú tanács esetén 141 500 forint;
+
+2.2. öttagú tanács esetén 216 000 forint.
+
+---
+
+[^1]: Az „Az ISZT feladatai” alcím címe az 588/2023. (XII. 20.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés b) pontját a 68/2014. (III. 13.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés c) pontja a 220/2018. (XI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 1. § (2) bekezdés d) pontja a 68/2014. (III. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: Az „Az ISZT szervezete, tagjai és tisztségviselői” alcím címe az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (1) bekezdése, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § c)-d) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdése a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^10]: A 2. § (4) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § e)-f) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (3) bekezdése, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) és f)-g) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (4) bekezdése, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, A 3. § (3) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (4) bekezdése, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § c), f) és h) pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § g) pontja szerint módosított szöveg. [Nem vezethető át az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontjában foglalt azon módosítás, amely szerint a 4. § (1) bekezdésében az „A Szakértői Testület” szövegrész helyébe az „Az ISZT” szöveg lép.]
+[^15]: [Nem vezethető át az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontjában foglalt azon módosítás, amely szerint a 4. § (2) bekezdésében az „A Szakértői Testület” szövegrész helyébe az „Az ISZT” szöveg lép.]
+[^16]: A 4. § (3) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § i) pontja szerint módosított szöveg.
+[^17]: A 4. § (4) bekezdésének második mondata a 204/2005. (IX. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § g) és i) pontja szerint módosított szöveg.
+[^18]: Az „Az ISZT működése” alcím címe az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (3) bekezdése, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) és g) pontja szerint módosított szöveg.
+[^20]: Az 5. § (2) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 3. §-ával megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § f)-g) pontja szerint módosított szöveg. [Nem vezethető át az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontjában foglalt azon módosítás, amely szerint az 5. § (2) bekezdésében az „A Szakértői Testület” szövegrész helyébe az „Az ISZT” szöveg lép.]
+[^21]: Az 5. § (3) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 11. § (4) bekezdése, a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § c), f) és h) pontja szerint módosított szöveg. [Nem vezethető át az 588/2023. (XII. 20.) Korm. rendelet 1. § j) pontjában foglalt azon módosítás, amely szerint az 5. § (3) bekezdésében az „a Hivatal” szövegrészek helyébe az „az SZTNH” szöveg, lép.]
+[^22]: Az 5. § (4) bekezdése a 272/2011. (XII. 20.) Korm. rendelet 1. §-ával megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) és h) pontja szerint módosított szöveg.
+[^23]: Az 5. § (5) bekezdése a 68/2014. (III. 13.) Korm. rendelet 2. § (2) bekezdése, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: Az „Az ISZT eljárása” alcím címe az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^25]: A 6. § (1) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.
+[^26]: A 6. § (2) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^27]: A 6. § (3) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § k) pontja szerint módosított szöveg.
+[^28]: A 7. § (1) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § f) és l) pontja szerint módosított szöveg.
+[^29]: A 7. § (2) bekezdésének harmadik mondatát a 204/2005. (IX. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^30]: A 7. § (3) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^31]: A 7. § (4) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § f) és m) pontja szerint módosított szöveg.
+[^32]: A 7. § (5) bekezdését a 204/2005. (IX. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 588/2023. (XII. 20.) Korm. rendelet 1. § f) és m) pontja szerint módosított szöveg.
+[^33]: A 7. § (6) bekezdését a 204/2005. (IX. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^34]: A 8. § (1) bekezdésének első mondata a 204/2005. (IX. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^35]: A 8. § (2) bekezdése az 548/2022. (XII. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^36]: A 8. § (3) bekezdése a 204/2005. (IX. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított, az 588/2023. (XII. 20.) Korm. rendelet 1. § n) pontja szerint módosított szöveg.
+[^37]: A 8. § (4) bekezdését a 204/2005. (IX. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege az 588/2023. (XII. 20.) Korm. rendelet 1. § o) pontja szerint módosított szöveg.
+[^38]: A 9. § a 204/2005. (IX. 28.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek az Iparjogvédelmi Szakértői Testülethez.
+[^39]: A 9. § (1) bekezdése a 272/2011. (XII. 20.) Korm. rendelet 2. §-a, az 588/2023. (XII. 20.) Korm. rendelet 1. § g) pontja szerint módosított szöveg.
+[^40]: A 9. § (2) bekezdése az 588/2023. (XII. 20.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^41]: A 10. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 909. pontja hatályon kívül helyezte.
+[^42]: A Melléklet a 409/2024. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,0 +1,469 @@
+---
+title: "66/2007. (IV. 4.) Korm. rendelet a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről"
+identifier: "66/2007. (IV. 4.) Korm. rendelet"
+njt_id: "2007-66-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/66"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-04-04
+in_force_from: 2009-12-31
+last_amended: 2023-12-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-66-20-22"
+retrieved: 2026-10-12
+---
+
+# 66/2007. (IV. 4.) Korm. rendelet a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének ellenőrzéséről
+
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pontjának 13. alpontjában, valamint a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) kihirdetéséről szóló 2001. évi IX. törvény 4. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet hatálya a 2001. évi IX. törvénnyel kihirdetett, a nemzetközi közúti fuvarozást végző járművek személyzetének munkájáról szóló Európai Megállapodás (AETR) (a továbbiakban: AETR Megállapodás), a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 561/2006/EK európai parlamenti és tanácsi rendelet), valamint az utazó munkavállalókra és a közúti szállítás kiküldetési előírásaira vonatkozó jogszabályok hatálya alá tartozó tevékenységet végző
+
+a) jármű személyzetére (a továbbiakban: gépjárművezető),
+
+b) járművet üzembentartó vállalkozásra (a továbbiakban: üzembentartó),
+
+c) közúti vagy telephelyi ellenőrzést végző hatóságra (a továbbiakban: ellenőrző szerv) és ennek jogkörében eljáró személyre (a továbbiakban: ellenőr), valamint
+
+d) utazó munkavállalókra
+
+terjed ki.
+
+## 2. §
+
+E rendelet alkalmazásában „jármű”: az 561/2006/EK európai parlamenti és tanácsi rendelet 4. cikk b) pontjában meghatározott közúti jármű.
+
+## 3. §
+
+(1)[^2] Az 561/2006/EK európai parlamenti és tanácsi rendeletben, az AETR Megállapodásban, az utazó munkavállalókra, a közúti szállítás kiküldetési előírásaira és a kabotázstevékenységre vonatkozó jogszabályokban,, valamint a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 165/2014/EU európai parlamenti és tanácsi rendelet) meghatározott rendelkezések megtartását:
+
+a) közúti ellenőrzés keretében a közlekedési hatóság, a rendőrség és a vámhatóság,
+
+b)[^3] telephelyi ellenőrzés keretében az üzembentartó telephelyén a közlekedési hatóság, a rendőrség, foglalkoztatás-felügyeleti hatóság, valamint a 11. § szerinti esetben a vámhatóság
+
+ellenőrzi.
+
+(2)[^4] A közlekedésért felelős miniszter látja el az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben meghatározott rendelkezések ellenőrzéséhez kapcsolódó tagállami koordináció, adatgyűjtés és adatszolgáltatás feladatát.
+
+(3)[^5] A közlekedésért felelős miniszter által vezetett minisztérium – a (2) bekezdésben meghatározottakra is figyelemmel, az ellenőrző szervekkel egyeztetetten – a tárgyévet megelőző év november 30. napjáig állapítja meg a 14. §-ban meghatározott közúti és telephelyi ellenőrzési mennyiség és arány teljesítéséhez tartozó éves tervszámot, továbbá az ellenőrzési feladatok ellenőrző szervek közötti megosztási tervét.
+
+(4)[^6] A (3) bekezdésben meghatározott éves közúti és telephelyi ellenőrzési tervet a közlekedésért felelős miniszter hagyja jóvá.
+
+(5) Amennyiben az ellenőrzési tevékenység egyidejűleg több ellenőrző szerv hatáskörét is érinti, közös ellenőrzésre kerülhet sor (a továbbiakban: közös ellenőrzés).
+
+(6) A közös ellenőrzés során az ellenőrzés vezetőjének feladata
+
+a) az ellenőrzés megszervezése,
+
+b) az ellenőrzés technikai feltételeinek biztosítása, valamint
+
+c) a hatáskörébe tartozó bírságolási eljárás lefolytatása.
+
+(7)[^7] A közös ellenőrzés során a bírságot az eljárást lefolytató szerv szabja ki.
+
+## 4. §
+
+(1)[^8] A közúti ellenőrzés az 561/2006/EK európai parlamenti és tanácsi rendeletben és az AETR Megállapodásban, az utazó munkavállalókra, a kabotázstevékenységre és a közúti szállítás kiküldetési előírásaira vonatkozó jogszabályokban, továbbá a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére terjed ki, így különösen
+
+a) a gépjárművezetők azonosítására, létszámára,
+
+b) a 165/2014/EU európai parlamenti és tanácsi rendeletben és az AETR Megállapodásban a menetíróra és annak üzemeltetésére előírt feltételek megtartására,
+
+c) az adatrögzítő lapok, valamint a gépjárművezetői kártya meglétére és használatára,
+
+d) a menetíró által rögzített vezetési és pihenőidők, továbbá szünetek tartamára,
+
+e) a gépjárművezetők kiküldetésére,
+
+f) az utazó munkavállalókra vonatkozó jogszabályokban a menetíró készülékkel és a kapcsolódó adatrögzítő készülékkel ellenőrizhető meghatározott előírások megtartásának ellenőrzésére és
+
+g) a kabotázstevékenységre.
+
+(2) A közúti ellenőrzéseket rendszeresen változó helyszínen és időpontban kell végezni. Az ellenőrző szervek az országos és helyi közutakon az ellenőrzési pontok hálózatát alakítják ki, amely megnehezíti az ellenőrzések elkerülését.
+
+(3) Az ellenőrzés helyét úgy kell megválasztani, hogy a jármű megállítása, esetleges kényszervárakoztatása forgalmi akadályt vagy balesetveszélyes helyzetet ne teremtsen, továbbá a jármű minden irányból megközelíthető, szemrevételezhető legyen. Veszélyes árut szállító jármű ellenőrzésekor a külön jogszabályban meghatározott előírásokat is figyelembe kell venni.
+
+(4)[^9] A közúti ellenőrzések során az ellenőrzés alá vont járművek és gépjárművezetők kiválasztásakor nem szabad megkülönböztetést alkalmazni, különösen:
+
+a) a jármű nyilvántartásba vételének országa,
+
+b) a gépjárművezető lakóhelye szerinti ország,
+
+c) az üzembentartó székhelye szerinti ország,
+
+d) a szállítás felrakó- és lerakóhelye szerint (a szállítás kezdő- és végállomása),
+
+e)[^10] a beépített menetíró kivitele (analóg vagy digitális)
+
+alapján.
+
+(5)[^11] Az (1) bekezdésben meghatározott ellenőrzéseket a közúti ellenőrzés során az 1. melléklet I. részében meghatározott vizsgálati célok együttes vagy külön-külön történő vizsgálatával kell elvégezni.
+
+(6)[^12] Az ellenőrző szerv az 1. melléklet I. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális menetíró ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^13] meghatározott eljárásban.
+
+## 5. §[^14]
+
+(1)[^15] A gépjárművezető az ellenőrzés során köteles a gépjárműbe beépített menetíró, valamint annak rendeltetésszerű használatát szolgáló egyéb eszközök (különösen a vezetékek, zárjelek, biztosítékok, csatlakozók, beépítési és hitelesítési plakettek, plombák, a készülék rögzítése, átalakítók), továbbá az adatrögzítő lapok és a gépjárművezetői kártya vizsgálatát az ellenőr számára lehetővé tenni.
+
+(2) Ha a gépjárművezető az ellenőrzés alkalmával a vele szemben lefolytatott korábbi ellenőrzés során részére átadott közúti ellenőrzési okmányt bemutatja, akkor az újabb ellenőrzést ennek figyelembevételével kell elvégezni.
+
+(3)[^16] Az ellenőr – a menetíró készülékeket befolyásoló eszközök használatának feltárása és megelőzése érdekében – az ellenőrzés során a menetíró készülékek közúti ellenőrzések alkalmával és jogosultsággal rendelkező műhelyek által végzett ellenőrzésével kapcsolatos helyes végrehajtási gyakorlatra vonatkozó iránymutatásokról szóló, 2009. január 23-i 2009/60/EK bizottsági ajánlás Melléklet 2. Fejezet B–D. pontjában meghatározott módszereket alkalmazhatja. Az ellenőr felhívására a járművezetőnek az adatok között feltárt eltérésre, ellentmondásra vagy a menetíró rendeltetésszerű használatát szolgáló eszközök hiányosságára, sérülésére elfogadható magyarázattal kell szolgálni, ennek hiányában az ellenőr felhívására köteles a járművel vizsgálat céljából menetíró műhelybe hajtani.
+
+(4)[^17] A közlekedési hatóság a menetíró készüléket befolyásoló eszközök, módszerek alkalmazásának feltárt típusairól értesíti az Európai Bizottságot (a továbbiakban: Bizottság).
+
+## 6. §
+
+(1)[^18] Az ellenőr az általa a menetíró készülékből kiemelt adatrögzítő lapot a hátoldalán a kézjegyével, valamint a számára rendszeresített „AETR Control Hungary” bélyegzőlenyomatával látja el, valamint feltünteti az ellenőrzés pontos időpontját (év, hó, nap, óra, perc).
+
+(2) Az ellenőrzésre vonatkozó adatokat úgy kell az adatrögzítő lapon rögzíteni, hogy az előlapon lévő adatok ne sérüljenek meg.
+
+## 7. §
+
+(1) Amennyiben közigazgatási hatósági eljárás kezdeményezése érdekében az adatrögzítő lap helyszíni elvételére kerül sor, arról átvételi elismervényt kell adni.
+
+(2) Az elismervény tartalmi elemei:
+
+a) az elvétel helye (település és a közterület megnevezése, vagy az útvonal száma és szelvénye),
+
+b) az elvétel ideje (év, hó, nap, óra, perc),
+
+c) a gépjárművezető neve (születési családi és utónév),
+
+d) a gépjárművezető tevékenysége (kezdete, megszakítások, pihenőidő, vezetési és egyéb tevékenységi idő),
+
+e) a gépjárművel megtett távolság az adatrögzítő lap alapján,
+
+f) a gépjármű rendszáma,
+
+g) a gépjármű kilométer-számláló műszerének ellenőrzéskori állása,
+
+h) a gépjármű elindulásának megfelelő „km” állás,
+
+i) az elvétel oka,
+
+j) a közúti ellenőr „AETR Control Hungary” bélyegzőlenyomata és aláírása.
+
+(3)[^19] A menetíró készülék, illetve annak rendeltetésszerű működését befolyásoló eszközök szabálytalan működésére utaló körülmények esetén – a közigazgatási eljárás kezdeményezése érdekében – azokról fényképet vagy videó- felvételt kell készíteni.
+
+## 8. §
+
+(1) Az 1. § (1) bekezdésének d) pontjában foglalt előírások megsértése esetén a közúti közlekedésről szóló 1988. évi I. törvény 44. § (3) bekezdése alapján pihenőidő letöltése (a továbbiakban: kényszervárakoztatás) rendelhető el.
+
+(2) A napi pihenőidő elégtelensége miatt a kényszervárakoztatás mértéke egybefüggően minimum 9 óra, maximum 11 óra lehet.
+
+(3) Heti pihenőidő hiánya esetén 24 óra egybefüggő pihenőidő írható elő.
+
+(4) Megszakítás elégtelensége miatt minimum 15 perc, maximum 45 perc kényszervárakoztatás rendelhető el.
+
+(5) Kényszervárakoztatás elrendelése esetén az elrendelő hatóságot a jármű és a rakománya őrzéséért, valamint a kényszervárakoztatás következtében az üzembentartót ért kárért felelősség nem terheli.
+
+## 9. §
+
+(1) A várakozás kikényszerítése érdekében a gépjármű és a rakomány okmánya a várakozás előírt időtartamáig visszatarthatók.
+
+(2) Az okmányok átvételéről elismervényt kell kiállítani. Biztosítani kell, hogy a gépkocsivezető a visszatartott okmányt a kényszervárakoztatás elteltével – a kényszervárakoztatás kijelölt helyéhez legközelebb eső – ellenőrző szervnél átvehesse. A kényszervárakoztatás elteltét követően az okmányok átvételéről kiállított elismervény az okmányok átvételére és az átvétel helyére történő közlekedésre jogosít.
+
+(3) A gépjármű okmányainak a pihenőidő letöltésének biztosítása érdekében történő visszatartása nem minősül a külön jogszabályban meghatározott helyszíni elvételnek.
+
+## 10. §
+
+(1)[^20] A rendelet hatálya alá tartozó jármű esetében a közúti ellenőrzést az erre a feladatra felkészített, eredményes elméleti és gyakorlati vizsgát tett közúti ellenőr végezheti.
+
+(2)[^21] Az ellenőrző szerv által önállóan végzett közúti ellenőrzés során rendelkezésre kell állni a kézi vagy számítógépes kiértékelő eszköznek, továbbá a közlekedésért felelős miniszter által vezetett minisztérium által nyilvántartott, országosan egységesített és sorszámozott „AETR Control Hungary” bélyegzőnek. A 3. § (5) bekezdésében meghatározott közös ellenőrzés során e technikai feltételeket az ellenőrzést vezető ellenőrző szerv biztosítja.
+
+(3) Az ellenőrző szervnek az ellenőrzések egységes lefolytatásához rendelkeznie kell:
+
+a) az ellenőrzés tárgyát képező tételek jegyzékével (ellenőrzési lista),
+
+b)[^22] a közúti fuvarozásban használatos legfontosabb kifejezéseket tartalmazó, a Bizottság által összeállított és a közlekedésért felelős miniszter által vezetett minisztérium által az ellenőrzést végzők részére biztosított szótárral, amely tartalmazza a szállítási műveleteknél rendszerint használt kifejezéseket és azok magyar nyelvű megfelelőjét.
+
+(4) A (2) bekezdésben meghatározott eszközök hiányában az ellenőrzés nem végezhető el.
+
+## 11. §[^23]
+
+A közlekedésért felelős miniszter szervezésében – az ellenőrző szervekkel történő egyeztetés alapján és részvételükkel – évente legalább hat alkalommal összehangolt közúti ellenőrzést kell tartani az 561/2006/EK európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére. Az összehangolt közúti ellenőrzéseket a szomszédos államokkal egyeztetett időszakban kell végrehajtani. A közlekedésért felelős miniszter évente hat alkalommal összehangolt, az üzembentartó telephelyén végzett hatósági ellenőrzést (a továbbiakban: telephelyi ellenőrzés) rendel el, amelyeket a magas kockázatú vállalkozások telephelyein kell elvégezni, és az ellenőrzés során tett megállapításokról jelentést kell készíteni. Az ellenőrzésekbe a vámhatóság, a rendőrség, foglalkoztatás-felügyeleti hatóság is bevonható.
+
+## 12. §
+
+(1)[^24] A telephelyi ellenőrzés az 561/2006/EK európai parlamenti és tanácsi rendeletben, az utazó munkavállalókra vonatkozó jogszabályokban, valamint a 165/2014/EU európai parlamenti és tanácsi rendeletben foglaltak megtartásának ellenőrzésére terjed ki, így különösen
+
+a) a munkaügyi adatok nyilvántartásai közül a gépjárművezető vezetési és pihenőidejére vonatkozó adatokra,
+
+b) a menetíró hitelesítési dokumentumainak nyilvántartására,
+
+c) a felhasznált adatrögzítő lapok meglétére, ezek megfelelő tárolására,
+
+d) az üzembentartó által végzett ellenőrzések dokumentumaira, az ellenőrzés alapján tett intézkedésekre és ezek hatásaira,
+
+e) az 561/2006/EK európai parlamenti és tanácsi rendelet 10. cikkében a szállítási vállalkozás (üzembentartó) részére meghatározott kötelezettségek megtartásának ellenőrzésére,
+
+f) a 165/2014/EU európai parlamenti és tanácsi rendeletben, valamint a 165/2014/EU európai parlamenti és tanácsi rendelet végrehajtásáról szóló jogszabályban meghatározottakra és
+
+g) az utazó munkavállalókra vonatkozó jogszabályokban meghatározott előírások megtartásának ellenőrzésére.
+
+(2)[^25] Az (1) bekezdésben meghatározott ellenőrzéseket a telephelyi ellenőrzés során az 1. melléklet A., valamint II. részében meghatározott vizsgálati célok együttes vagy külön-külön történő vizsgálatával kell elvégezni.
+
+(3)[^26] Az ellenőrző szerv az 1. melléklet II. részében meghatározott vizsgálati célok jegyzékét, valamint a 2. mellékletben meghatározott ellenőrző eszközöket biztosítja az ellenőr részére. Az ellenőr részére a digitális menetíró ellenőrzéséhez szükséges ellenőri kártyát a közlekedési hatóság biztosítja a külön jogszabályban[^27] meghatározott módon.
+
+(4) A telephelyi ellenőrzéseket a közúti áru- és személyszállító vállalkozásokkal kapcsolatos ellenőrzési tapasztalatok figyelembevételével kell megszervezni.
+
+(5) A telephelyi ellenőrzések során figyelembe kell venni – a más ország illetékes hatósága által küldött – az üzembentartó külföldön végzett tevékenységével kapcsolatos tájékoztatásában foglaltakat is.
+
+(6) E rendelet alkalmazásában telephelyi ellenőrzésnek minősül az üzembentartó által az ellenőrző szerv részére átadott okmányoknak és adatoknak az ellenőrző szerv saját hivatalában elvégzett vizsgálata is.
+
+## 13. §
+
+A közúti és a telephelyi ellenőrzés során az ellenőrző szervek az AETR Megállapodás hatálya alá tartozó közúti szállítás esetén az AETR Megállapodáshoz csatlakozott országgal kötött – külön jogszabályban kihirdetett – kétoldalú megállapodásban foglalt rendelkezések végrehajtását is ellenőrzik.
+
+## 14. §[^28]
+
+(1) A közlekedésért felelős miniszter minden naptári év negyedik negyedévében a következő évre szólóan elkészíti az éves közúti és telephelyi ellenőrzési tervet, amelyben az ellenőrző szervek közötti koordinációs feladatkörében gondoskodik arról, hogy az ellenőrző szervek által végzett közúti és telephelyi ellenőrzések éves száma elérje az 561/2006/EK európai parlamenti és tanácsi rendelet hatálya alá tartozó járművek száma, valamint az éves munkanapok szorzataként számított összes munkanapok számának 3%-át.
+
+(1a) A közúti ellenőrzés során a járművezető kapcsolatba léphet a központi irodával, a szakmai irányítóval vagy bármely más személlyel vagy szervezettel a jármű fedélzetéről hiányzó bizonyítékoknak a közúti ellenőrzés időtartama alatt történő rendelkezésre bocsátása érdekében.
+
+(2) Az éves közúti és telephelyi ellenőrzési terv meghatározásakor – a 3. §-ban foglalt ellenőrzési feladatkörök figyelembevételével – gondoskodni kell arról, hogy az ellenőrzött munkanapok
+
+a) legalább 30%-át közúti ellenőrzés keretében,
+
+b) legalább 50%-át telephelyi ellenőrzés keretében, és
+
+c) a menetíró készülék rendeltetésszerű működését befolyásoló eszközök feltárása érdekében az ellenőrzés alá vont járművek legalább 10%-át
+
+ellenőrizzék.
+
+## 15. §
+
+(1)[^29] Az ellenőrző szervek az általuk végzett ellenőrzésekről nyilvántartást vezetnek, és azt a honlapjukon közzéteszik. A nyilvántartás legalább a (2)–(6) bekezdésekben meghatározott adatokat tartalmazza.
+
+(2) A közúti ellenőrzésről vezetett nyilvántartás tartalmazza:
+
+a) az ellenőrzött járművek és gépjárművezetők számát,
+
+b) az ellenőrzés során feltárt jogsértések számát és jellegét,
+
+c) a *b)* pont alapján kezdeményezett leggyakrabban előforduló intézkedéseket.
+
+(3) A (2) bekezdésben meghatározott közúti ellenőrzési nyilvántartásnak biztosítania kell a következő szempontok szerinti adatcsoportosítást:
+
+a) a közúti ellenőrzés helye szerint (autópálya, fő- vagy másodrendű út), rögzítve az ellenőrzött jármű honosságát is, az e szempont szerinti megkülönböztetés elkerülése, illetőleg ennek kimutatása érdekében;
+
+b)[^30] a menetíró kivitele szerint.
+
+(4) A nem magyar hatósági engedéllyel és jelzéssel ellátott járművek közúti ellenőrzése során feltárt hiányosságokról államonként külön nyilvántartást is vezetni kell, a következő adatokkal:
+
+a) az ellenőrzött járművek és gépjárművezetők száma,
+
+b) a gépjárművezetők által elkövetett szabálytalanságok jellege,
+
+c) a szabálytalanságok miatt alkalmazott intézkedések jellege,
+
+d) súlyos szabálytalanság esetén a kirótt bírság összege.
+
+(5) A telephelyi ellenőrzésekről vezetett nyilvántartás tartalmazza:
+
+a) az ellenőrzések számát és az ellenőrzött munkanapok számát,
+
+b) az ellenőrzött járművek és gépjárművezetők számát,
+
+c) az ellenőrzés során feltárt jogsértések számát és jellegét.
+
+(6) Az (5) bekezdésben meghatározott telephelyi ellenőrzési nyilvántartásnak biztosítania kell a következő szempontok szerinti adatcsoportosítást:
+
+a) az áru- vagy személyszállító tevékenység fajtája és jellege szerint (fuvarozás, bérmunkában végzett tevékenység vagy sajátszámlás szállítás, nemzetközi vagy belföldi szállítás, személy- vagy áruszállítás);
+
+b) az üzembentartó járműveinek száma;
+
+c)[^31] a menetíró kivitele szerint.
+
+(7) A (2)–(6) bekezdésben meghatározott ellenőrzési nyilvántartások elkülönítetten tartalmazzák az adatokat az áru- és személyszállítási tevékenységre.
+
+(8)[^32] Az ellenőrző szervek minden naptári negyedévet követő hónap 15. napjáig megküldik a közlekedésért felelős miniszter által vezetett minisztérium részére az előző negyedév összesített ellenőrzési adatait.
+
+(9)[^33] A közlekedésért felelős miniszter az ellenőrző szervektől kapott adatok alapján országos összesített ellenőrzési adatnyilvántartást készít, amelyből az 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikkében és az utazó munkavállalókra vonatkozó jogszabályokban meghatározott és a harmadik országokból származó járműveken lefolytatott ellenőrzésekről szóló adatszolgáltatást kétévente megküldi az Európai Bizottságnak.
+
+(10)[^34] Amennyiben a közúti ellenőrzés során gyanú merül fel arra, hogy a más tagállamban nyilvántartásba vett járművel megsértették az 561/2006/EK európai parlamenti és tanácsi rendeletben, illetve az AETR Megállapodásban meghatározott előírásokat, azonban a megfelelő adatok hiányában ennek ténye nem állapítható meg, az ellenőrző szerv a nyilvántartó tagállamot – a közlekedésért felelős miniszter által vezetett minisztérium útján – adatszolgáltatás céljából megkeresi. A közlekedésért felelős miniszter által vezetett minisztérium a más tagállam e célból küldött adatkérését – az adatvédelemmel kapcsolatos külön jogszabályokban foglaltak megtartásával – haladéktalanul teljesíti.
+
+(11) Az ellenőrző szervek az általuk kezelt adatokat csak az adatvédelemmel kapcsolatos külön jogszabályokban foglaltak szerint használhatják fel.
+
+## 16. §
+
+Az üzembentartó az ellenőrzést követően egy naptári évig köteles megőrizni a közúti ellenőrzés, valamint a telephelyén végzett ellenőrzés alkalmával az ellenőrző szerv által kiadott ellenőrzési jegyzőkönyveket és egyéb, az ellenőrzés eredményét tanúsító okmányokat. Az ellenőrző szerv az ismételt ellenőrzés során figyelembe veszi a korábban elvégzett ellenőrzés megállapításait.
+
+## 17. §
+
+(1)[^35] Magyarország részéről az AETR Megállapodáshoz csatlakozott országok illetékes ellenőrző hatóságaival – az ellenőrzések kapcsán felmerülő kölcsönös adatszolgáltatások teljesítése tekintetében is – közvetlen kapcsolatot a közlekedésért felelős miniszter által vezetett minisztérium tart fenn.
+
+(2)[^36] A közlekedésért felelős miniszter által vezetett minisztérium az AETR Megállapodáshoz csatlakozott országok illetékes hatóságait tájékoztatja az ellenőrzések tapasztalatairól, az alkalmazott szankciókról, intézkedésekről.
+
+(3)[^37] Az 561/2006/EK európai parlamenti és tanácsi rendelet 22. cikk (2) bekezdésében, valamint a 165/2014/EU európai parlamenti és tanácsi rendelet 40. cikkében a tagállamok számára meghatározott kölcsönös segítségnyújtást, valamint adatszolgáltatást a közlekedésért felelős miniszter által vezetett minisztérium a tagállammal történt előzetes egyeztetés alapján, továbbá külön megkeresés szerint teljesíti. A közlekedésért felelős miniszter által vezetett minisztérium az 561/2006/EK európai parlamenti és tanácsi rendelet 22. cikk (3) bekezdése alapján a Bizottsággal kölcsönösen egymás rendelkezésére bocsátott információkat más tagállam illetékes hatóságai számára is megküldi hathavonta egyszer, valamint egyedi esetekben indokolással ellátott tagállami megkeresés alapján.
+
+(4)[^38] Más tagállam által az utazó munkavállalókra és a közúti szállítás kiküldetési előírásaira vonatkozó előírásokkal összefüggésben, valamint az 561/2006/EK rendelet 22. cikkének (3) bekezdése alapján igényelt adatokat a megkeresés beérkezésétől számított 25 munkanapon belül kell átadni. Sürgős esetben a nyilvántartásokból vagy a kockázatértékelő rendszerekből egyszerűen kinyerhető adatok igénylése esetén a közúti gépjármű-közlekedési hatóság a megkereső tagállamnak 3 munkanapon belül átadja a kért adatot. Ha a megkeresés indokolása nem kielégítő, erről a közúti gépjármű-közlekedési hatóság 10 munkanapon belül tájékoztatja a megkereső tagállamot. Ha a megkereső tagállam nem ad részletesebben megindokolt megkeresést, a megkeresés visszautasítható. Ha a megkeresésben foglaltak teljesítése akadályba ütközik, vagy ellenőrzést, szemlét vagy vizsgálatot kell lefolytatni, erről a közúti gépjármű-közlekedési hatóság 10 munkanapon belül tájékoztatja a megkereső tagállamot, a megkeresésben kért adat szolgáltatására vonatkozó akadály vagy a teljesítésképtelenség okának megjelölésével. A közúti gépjármű-közlekedési hatóság együttműködik a megkereső tagállammal a megkeresésben foglaltak teljesítése érdekében.
+
+(5)[^39] A (4) bekezdésben meghatározott információcserét a megkereső és a közúti gépjármű-közlekedési hatóság a belső piaci információs rendszeren keresztül hajtja végre.
+
+## 18. §
+
+(1)[^40] A közúti áru- és személyszállítást végző vállalkozásokat az ellenőrzések eredménye alapján – az elkövetett jogsértések relatív számán és súlyosságán alapuló kockázatértékelő rendszer alkalmazásával – az ellenőrző szervek közösen, évente értékelik. Az értékelés eredményének figyelembevételével célzott módon kell telephelyi ellenőrzést végezni az olyan üzembentartónál, akinek egy vagy több járművezetője az utazó munkavállalókra vonatkozó jogszabályokban foglalt, az 561/2006/EK európai parlamenti és tanácsi rendelet és a 165/2014/EU európai parlamenti és tanácsi rendelet előírásait rendszeresen vagy súlyosan megsérti. A célzott közúti ellenőrzések elősegítése érdekében a kockázatértékelő rendszerben lévő adatoknak az ellenőrzés időpontjában elérhetőnek kell lennie az összes ellenőrző hatóság számára. A közlekedésért felelős miniszter a kockázatértékelő rendszer adatait az interoperábilis nemzeti elektronikus nyilvántartásokon keresztül közvetlenül hozzáférhetővé teszi más tagállamok illetékes hatóságai számára.
+
+(2)[^41]
+
+## 19. §
+
+(1)[^42] A közlekedésért felelős miniszter által vezetett minisztérium – az érintett ellenőrző szervekkel egyetértésben – határozza meg azokat az ismereteket, amelyekkel az ellenőröknek rendelkezniük kell a közúti és telephelyi ellenőrzés szakszerű végrehajtásához.
+
+(2) Az ellenőrző szervek biztosítják, hogy az (1) bekezdésben meghatározott ismeretekkel rendelkező ellenőrök végezzék az e rendeletben meghatározott közúti és telephelyi ellenőrzési feladatokat.
+
+(3) A közlekedési hatóság – az ellenőrző szerv kezdeményezése alapján – a (2) bekezdésben meghatározott ellenőröket költségtérítés mellett „AETR Control Hungary” lenyomatú bélyegzővel látja el.
+
+(4)[^43]
+
+## 20. §
+
+(1) Ez a rendelet 2007. május 1-jén lép hatályba.
+
+(2)–(3)[^44]
+
+## 21. §[^45]
+
+(1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2006. március 15-i 2006/22/EK európai parlamenti és tanácsi irányelv, 2–9., 11. és 16. cikk, valamint I–III. melléklet, továbbá az azt módosító 2009/4/EK bizottsági irányelv,
+
+b) a menetíró készülékek közúti ellenőrzések alkalmával és jogosultsággal rendelkező műhelyek által végzett ellenőrzésével kapcsolatos helyes végrehajtási gyakorlatra vonatkozó iránymutatásokról szóló, 2009. január 23-i 2009/60/EK bizottsági ajánlás.
+
+c)[^46] a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv.
+
+(2)[^47] Ez a rendelet
+
+a) a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról, a 3821/85/EGK és a 2135/98/EK tanácsi rendelet módosításáról, valamint a 3820/85/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2006. március 15-i 561/2006/EK európai parlamenti és tanácsi rendelet 17. cikk (1) és (2) bekezdésének, valamint 22. cikkének,
+
+b) a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendelet,
+
+c)[^48] az 1071/2009/EK európai parlamenti és tanácsi rendeletnek az uniós jogszabályokat érintő – adott esetben a közúti fuvarozó jó hírnevének elveszítését eredményező – súlyos jogsértések osztályozása tekintetében történő kiegészítéséről és a 2006/22/EK európai parlamenti és tanácsi irányelv III. mellékletének módosításáról szóló, 2016. március 18-i 2016/403 (EU) bizottsági rendelet
+
+d)[^49] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról és a 96/26/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. október 21-i 1071/2009/EK európai parlamenti és tanácsi rendelet,
+
+e)[^50] a közúti fuvarozói szakma gyakorlására vonatkozó feltételek közös szabályainak megállapításáról szóló 1071/2009/EK európai parlamenti és tanácsi rendelet III. mellékletének módosításáról szóló, 2012. július 9-i 613/2012/EU bizottsági rendelet és
+
+f)[^51] az 1071/2009/EK rendeletnek, az 1072/2009/EK rendeletnek és az 1024/2012/EU rendeletnek a közúti fuvarozási ágazati fejleményekre tekintettel történő módosításáról szóló, 2020. július 15-i (EU) 2020/1055 európai parlamenti és tanácsi rendelet, 2. cikk 6. pontjának
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 66/2007. (IV. 4.) Korm. rendelethez[^52]
+
+**A közúti és a telephelyi ellenőrzések során alkalmazandó vizsgálati célok**
+
+*I. RÉSZ*
+
+*KÖZÚTI ELLENŐRZÉSEK*
+
+A közúti ellenőrzések során a következőket kell vizsgálni:
+
+1.
+
+*a)* napi és heti vezetési idők, szünetek és napi és heti pihenőidők, továbbá
+
+*b)* a megelőző napokra vonatkozó adatrögzítő lapok, amelyeket a 165/2014/EU európai parlamenti és tanácsi rendelet 36. cikk (1) és (2) bekezdésének megfelelően a járművön kell tartani,
+
+*c)* az *a)* alpont szerinti időszakról a járművezető kártyáján tárolt adatok,
+
+*d)* a 2. mellékletben foglalt eszközzel a menetíró memóriájában tárolt adatok vagy
+
+*e)* a kinyomaton szereplő *d)* alpont szerinti adatok;
+
+2\. a 165/2014/EU európai parlamenti és tanácsi rendelet 36. cikk (1) és (2) bekezdésében foglalt időszakra vonatkozóan minden olyan eset, amikor a jármű megengedett sebességét túllépték, amely magában foglal minden olyan, egy percnél hosszabb időszakot, amely alatt a jármű sebessége N<sub>3</sub> kategóriájú járművek esetében meghaladta a 90 km/órát, vagy M<sub>3</sub> kategóriájú járművek esetében a 105 km/órát;
+
+3\. a jármű által elért, a menetíró által rögzített pillanatnyi sebességek, legfeljebb a jármű megelőző 24 órai használatára vonatkozóan;
+
+4\. a menetíró helyes működése (a készülékkel vagy a járművezető kártyájával vagy az adatrögzítő lapokkal történt esetleges visszaélés megállapítása) vagy az 561/2006/EK rendelet 16. cikkének (2) bekezdésében felsorolt dokumentumok megléte a járművön;
+
+5\. a járművekbe szerelt menetíró készülékek, amelyek ellenőrzésének célja olyan berendezés beszerelésének és használatának felderítése, amelyet adatok megsemmisítése, elrejtése, manipulálása, módosítása, a menetíró készülék alkotórészei közötti elektronikus adatcsere zavarása vagy az adatok azok titkosítását megelőzően ily módon történő blokkolása vagy módosítása céljából alkalmaznak;
+
+6\. 60 órás meghosszabbított maximális heti munkaidő vagy egyéb heti munkaidő, ha a technológia lehetővé teszi ennek tényleges ellenőrzését.
+
+*II. RÉSZ*
+
+*TELEPHELYI ELLENŐRZÉSEK*
+
+Az üzembentartó telephelyén végzett ellenőrzések az I. rész elemein túl a következő elemekre terjednek ki:
+
+1\. a heti pihenők és e pihenőidők közötti vezetési idők betartása;
+
+2\. a két hétre összesen engedélyezett vezetési idők betartása;
+
+3\. az adatrögzítő lapok, a járműegység és a járművezető kártyájának adatai, továbbá kinyomatok, valamint az üzembentartó által a digitális menetíróról letöltött adatok;
+
+4\. a maximális heti átlagos munkaidőre, a szünetekre és az éjszakai munkavégzésre vonatkozó követelményeknek való megfelelés és
+
+5\. a vállalkozások kötelezettségeinek betartása a járművezetők szállásdíjának kifizetését és a járművezetők munkájának megszervezését illetően, az 561/2006/EK rendelet 8. cikk (8) és (8a) bekezdésével összhangban.
+
+## 2. melléklet a 66/2007. (IV. 4.) Korm. rendelethez[^53]
+
+**Az ellenőrző szervek által egységesen alkalmazott ellenőrző eszközök**
+
+Az e rendelet hatálya alá tartozó közúti és telephelyi ellenőrzést végző ellenőrnek rendelkeznie kell a következő eszközökkel:
+
+1\. a jármű fedélzeti egységéről és a digitális menetíró gépjárművezetői kártyájáról adatok letöltésére, leolvasására, elemzésére és a megállapított tények elemzése céljából egy központi adatbázisba való elküldésére alkalmas berendezés;
+
+2\. a menetírók adatrögzítő lapjainak ellenőrzésére szolgáló berendezés;
+
+3\. kifejezetten az elemzésre alkalmas berendezés a megfelelő szoftverrel az adatokhoz rendelt digitális aláírás ellenőrzéséhez és hitelességének igazolásához, valamint kifejezetten az elemzésre alkalmas szoftver a járművek részletes sebességprofiljának meghatározásához a menetíró készülék ellenőrzése előtt.
+
+---
+
+[^1]: Az 1. § a 66/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés nyitó szövegrésze a 66/2022. (II. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés b) pontja a 116/2021. (III. 10.) Korm. rendelet 6. §-a, a 66/2022. (II. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 8/2016. (II. 9.) Korm. rendelet 7. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 89. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 272/2009. (XII. 1.) Korm. rendelet 7. § (2) bekezdése, a 66/2022. (II. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (7) bekezdése a 66/2022. (II. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 4. § (1) bekezdése a 66/2022. (II. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdés nyitó szövegrésze a 66/2022. (II. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdés e) pontja a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^12]: A 4. § (6) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d)–e) pontja szerint módosított szöveg.
+[^13]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
+[^14]: Az 5. § a 272/2009. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: Az 5. § (1) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^16]: Az 5. § (3) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^17]: Az 5. § (4) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^18]: A 6. § (1) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^19]: A 7. § (3) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^20]: [A 351/2010. (XII. 30.) Korm. rendelet 175. § c) pontjával elrendelt módosítás, amely szerint az „NKH Központi Hivatala” szövegrész helyébe az „NKH Központja” szöveg lép, nem vezethető át.]
+[^21]: A 10. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+[^22]: A 10. § (3) bekezdés b) pontja a 272/2009. (XII. 1.) Korm. rendelet 7. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+[^23]: A 11. § a 66/2022. (II. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 12. § (1) bekezdése a 66/2022. (II. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^25]: A 12. § (2) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
+[^26]: A 12. § (3) bekezdése a 66/2022. (II. 28.) Korm. rendelet 11. § d) és f) pontja szerint módosított szöveg.
+[^27]: A közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-ai 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendelet.
+[^28]: A 14. § a 66/2022. (II. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^29]: A 15. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 529. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 15. § (3) bekezdés b) pontja a 66/2022. (II. 28.) Korm. rendelet 11. § g) pontjával megállapított szöveg.
+[^31]: A 15. § (6) bekezdés c) pontja a 66/2022. (II. 28.) Korm. rendelet 11. § g) pontjával megállapított szöveg.
+[^32]: A 15. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja, a 66/2022. (II. 28.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^33]: A 15. § (9) bekezdése a 66/2022. (II. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^34]: A 15. § (10) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § b)–c) pontja szerint módosított szöveg.
+[^35]: A 17. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 26. § b) pontja,. a 379/2016. (XII. 2.) Korm. rendelet 89. § c) pontja szerint módosított szöveg.
+[^36]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
+[^37]: A 17. § (3) bekezdése a 613/2023. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^38]: A 17. § (4) bekezdését a 66/2022. (II. 28.) Korm. rendelet 8. §-a iktatta be.
+[^39]: A 17. § (5) bekezdését a 66/2022. (II. 28.) Korm. rendelet 8. §-a iktatta be.
+[^40]: A 18. § (1) bekezdése a 66/2022. (II. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^41]: A 18. § (2) bekezdését a 66/2022. (II. 28.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^42]: A 19. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 530. §-a, a 379/2016. (XII. 2.) Korm. rendelet 89. § b) pontja szerint módosított szöveg.
+[^43]: A 19. § (4) bekezdését a 156/2009. (VII. 29.) Korm. rendelet 16. § (2) bekezdésének d) pontja hatályon kívül helyezte.
+[^44]: A 20. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 126. pontja hatályon kívül helyezte.
+[^45]: A 21. § a 272/2009. (XII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^46]: A 21. § (1) bekezdés c) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 613/2023. (XII. 22.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^47]: A 21. § (2) bekezdése a 8/2016. (II. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^48]: A 21. § (2) bekezdés c) pontját a 476/2016. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^49]: A 21. § (2) bekezdés d) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^50]: A 21. § (2) bekezdés e) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^51]: A 21. § (2) bekezdés f) pontját a 66/2022. (II. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^52]: Az 1. melléklet a 66/2022. (II. 28.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
+[^53]: A 2. melléklet a 66/2022. (II. 28.) Korm. rendelet 13. § b) pontjával megállapított szöveg.

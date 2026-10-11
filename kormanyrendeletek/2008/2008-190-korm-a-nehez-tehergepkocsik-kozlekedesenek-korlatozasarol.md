@@ -1,0 +1,308 @@
+---
+title: "190/2008. (VII. 29.) Korm. rendelet a nehéz tehergépkocsik közlekedésének korlátozásáról"
+identifier: "190/2008. (VII. 29.) Korm. rendelet"
+njt_id: "2008-190-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/190"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-07-29
+in_force_from: 2009-10-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-190-20-22"
+retrieved: 2026-10-12
+---
+
+# 190/2008. (VII. 29.) Korm. rendelet a nehéz tehergépkocsik közlekedésének korlátozásáról
+
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pontjának 14. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. §
+
+A rendelet hatálya kiterjed minden olyan magyar vagy külföldi hatósági jelzéssel ellátott tehergépkocsira, vontatóra, mezőgazdasági vontatóra, lassú járműre, valamint e járművekből és pótkocsiból álló járműszerelvényre (a továbbiakban együtt: tehergépkocsi), amelynek megengedett legnagyobb össztömege a 7,5 tonnát meghaladja.
+
+## 2. §
+
+(1) A rendelet hatálya alá tartozó tehergépkocsival az ország közútjain
+
+a) július 1-jétől augusztus 31-éig
+
+aa) szombaton – amennyiben az nem munkanap – 15 órától vasárnap 22 óráig,
+
+ab) munkaszüneti napokon a megelőző nap 22 órától a munkaszüneti nap 22 óráig,
+
+b) szeptember 1-jétől június 30-áig a megelőző nap 22 órától vasárnap és munkaszüneti napokon 22 óráig
+
+közlekedni nem szabad.
+
+(2) Ha a munkaszüneti nap az (1) bekezdés a) pontjában meghatározott időszakon belül szombat vagy vasárnap előtti, vagy az (1) bekezdés b) pontjában meghatározott időszakon belül vasárnap előtti napra esik, a forgalomkorlátozást a korlátozott időszak első nap 8 órától az utolsó nap 22 óráig időben folyamatosan, megszakítás nélkül kell alkalmazni.
+
+(3) Az (1) bekezdés b) pontjában és a (2) bekezdésben foglalt korlátozás nem vonatkozik a november 4-e és március 1-je közötti időszakban a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló jogszabályban meghatározott, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású, nemzetközi forgalomban közlekedő tehergépkocsira.
+
+## 3. §
+
+(1) A közlekedésért felelős miniszter (a továbbiakban: miniszter) veszélyhelyzetben a 2. § rendelkezéseinek végrehajtását meghatározott időtartamra – a környezetvédelemért felelős miniszter véleményének figyelembevételével – felfüggesztheti.
+
+(1a)[^1] A közlekedésért felelős miniszter veszélyhelyzetben a 2. §-ban foglalt időszakot legfeljebb kettő nappal kiterjesztheti.
+
+(2)[^2] A miniszter a felfüggesztésre vagy kiterjesztésre vonatkozó döntést az elektronikus média útján hozza az érdekeltek tudomására.
+
+## 4. §
+
+(1)[^3] A 2. § (1) bekezdésében foglalt tilalom alól az üzemben tartó vagy a szállítás megrendelője 1. mellékletnek megfelelő kérelmére a közlekedési hatóság a (2) bekezdésben meghatározott esetekben, a tehergépkocsi üzemben tartójának székhelye szerint illetékes környezetvédelmi és természetvédelmi felügyelőség egyidejű tájékoztatása mellett, meghatározott időtartamra, de legfeljebb egy naptári évre a 2. mellékletben meghatározott tartalmú engedély kiadásával, a legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású tehergépkocsira – a 3. mellékletben megjelölt útvonalakra ki nem terjedő – felmentést ad. A teljes naptári évre vonatkozó, éves felmentések iránti kérelmet legkésőbb a tárgyévet megelőző év december 1-jéig kell benyújtani. Az éves felmentés – a kérelemtől függően – a tárgyévet követő év január 31-ig tartó időbeli hatállyal is kiadható.
+
+(2) Felmentés más közlekedési eszközzel nem végezhető olyan szállítások esetén adható, amelyek
+
+a) termelési és kereskedelmi ellátó rendszerek folyamatos áruellátásában jelentkező zavarok elhárítását szolgálják,
+
+b) a folyamatos üzemű termelési technológiák alkalmazása során felmerülő zavar elhárítását szolgálják, vagy
+
+c) egyedi jellegű, különleges szervezést igényelnek.
+
+## 5. §[^4]
+
+(1) A 2. §-ban meghatározott közlekedési korlátozás nem vonatkozik:
+
+1.[^5] a Magyar Honvédség, a közjogi engedély alapján Magyarországon tartózkodó külföldi fegyveres erők, a rendőrség, a nemzetbiztonsági szolgálatok, a büntetés-végrehajtás, a katasztrófavédelem, a vámhatóság szervezete, valamint a közlekedési hatóság által üzemben tartott vagy igénybe vett,
+
+2\. a katasztrófa- és vízkárelhárítást, -megelőzést, valamint segítségnyújtást végző,
+
+3\. a műszaki, baleseti és rakománymentést végző,
+
+4\. a kommunális feladatot ellátó, ideértve a településtisztasági szolgáltatásokhoz, települési hulladékok kezeléséhez, köztisztasági tevékenységhez, valamint közüzemi hibaelhárításhoz használt,
+
+5\. a kizárólag friss virágrakományt vagy élő növényekből álló rakományt szállító,
+
+6\. a termény betakarításhoz kapcsolódó áruszállításhoz, takarmányszállításhoz, mezőgazdasági munkagép vagy lassú jármű áttelepítéséhez használt,
+
+7\. az élő állatot, friss tejet, tejterméket, friss és fagyasztott húst és hústerméket, friss pékárut, gyorsan romló élelmiszert, tojást, valamint friss, nyers, nem fagyasztott, nem szárított, nem feldolgozott zöldséget és gyümölcsöt, gabonát szállító,
+
+8\. a kulturális, gazdasági és sportrendezvényekhez berendezések és állatok szállításához használt, ideértve a rádió, televízió és a külső filmfelvételekkel összefüggő szállításokat is,
+
+9.[^6] a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendeletben meghatározott, a miniszteri rendelet szerinti gyakorlati oktatás vagy vizsgáztatás során használt
+
+10\. az 1–7. pontban meghatározott szállítási cél érdekében – a fel- és lerakóhely között, továbbá azok és a telephely viszonylatában – üresen közlekedő
+
+11.[^7] a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezet által nyújtott alapvető szolgáltatás működésének fenntartásához szükséges, a kritikus szervezet által igénybe vett, és
+
+12.[^8] a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény alapján kijelölt, az ország védelme és biztonsága szempontjából jelentős szervezet által nyújtott alapvető szolgáltatás működésének fenntartásához szükséges, az ország védelme és biztonsága szempontjából jelentős szervezet által igénybe vett
+
+tehergépkocsira.
+
+(2) A 2. §-ban meghatározott közlekedési korlátozás – a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalak kivételével – nem vonatkozik:
+
+1\. az Európai Közösség és Magyarország közötti közúti árufuvarozás meghatározott feltételeinek kialakításáról és a kombinált fuvarozás elősegítéséről szóló Megállapodás kihirdetéséről rendelkező törvényben meghatározott kombinált áruszállítást
+
+a) az átrakó állomás (kombiterminál) és a le-, vagy felrakóhely között vagy
+
+b) a határátkelőhelyhez legközelebb lévő átrakó állomás és határátkelőhely között végző,
+
+2\. a humanitárius szervezet kezdeményezése alapján humanitárius jellegűként kezelt küldemények szállítását végző legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+
+3\. a postai tevékenység keretei között, levelek, csomagok és újságok szállítását végző,
+
+4\. a forgalmazásra és fogyasztásra szánt folyékony vagy gáznemű üzemanyagok, tüzelőanyagok és gyógyászati célú gázok szállítását végző, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+
+5\. az út-, vasút- vagy közműépítéshez, közérdekű beruházásokhoz, továbbá ezek fenntartásához, javításához vagy tisztításához használt, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+
+6\. az államhatár és a közlekedési hatóság által erre a célra kijelölt legközelebbi parkoló között közlekedő,
+
+7\. az államhatártól a magyarországi telephelyig vagy az első lerakóhelyig – a 2. § (1) bekezdés a) pontja szerinti időszakban – közlekedő,
+
+8\. a lakossági költöztetéshez használt legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+
+9\. a vasúti-, hajóállomási és repülőtéri el- és felfuvarozást vagy legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású, sajátszámlás szállítást (a feladó vagy fogadó cég telephelyétől legközelebb eső állomás viszonylatában) végző,
+
+a korlátozás ideje alatt érkező, illetőleg továbbításra kerülő árut szállító,
+
+10\. a vontatmány nélkül közlekedő, 7,5 tonnát meg nem haladó saját tömegű nyerges vontató kialakítású, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású,
+
+11\. a közút kezelője által a meghatározott össztömeget vagy tengelyterhelést vagy méretet meghaladó járművek közlekedésére kiadott hozzájárulás alapján közlekedő, legalább 7-es (EURO 3-as) környezetvédelmi osztály besorolású, és
+
+12\. az 1–2., 4–5., 8–9., és a 11. pontban meghatározott szállítási cél érdekében – a fel- és lerakóhely között, továbbá azok és a telephely viszonylatában – üresen közlekedő
+
+tehergépkocsira.
+
+## 6. §
+
+A tehergépkocsi vezetője
+
+a) a 4. § (1) bekezdésében meghatározott engedélyt,
+
+b) a felmentés okát tartalmazó iratot,
+
+c)[^9] az 5. § (1) bekezdés 11. és 12. pontjában meghatározott kivétel esetén a kritikus szervezet által kiállított nyilatkozatot menetokmányként,
+
+d)[^10] az 5. § (2) bekezdés 2., 3., 5., 9. vagy 12. pontjában meghatározott szállítás esetén a megbízó vagy a szállító által a 4. melléklet szerinti tartalommal kiállított nyilatkozatot menetokmányként
+
+köteles magánál tartani és azt az ellenőrzésre jogosultak felhívására bemutatni.
+
+## 7. §
+
+(1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba, azzal, hogy 2008. augusztus 31-ig a korlátozás időszakának megállapítására a 2. § (1) bekezdésétől eltérően a nehéz tehergépkocsik közlekedésének korlátozásáról szóló 111/1995. (IX. 21.) Korm. rendelet e rendelet kihirdetésének napján hatályos 2. § (1) bekezdésében foglalt rendelkezéseket kell alkalmazni.
+
+(2)[^11]
+
+## 8. §[^12]
+
+Az 5. § (1) bekezdés 11. pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^13]
+
+A közlekedési korlátozás alóli felmentési kérelem tartalma:
+
+*a)* a szállítani kívánt áru megnevezése, tömege, mérete, csomagolásának jellege,
+
+*b)* a kérelem részletes indokolása, ideértve annak indokolását is, hogy a szállítás miért nem végezhető 7,5 tonna megengedett legnagyobb össztömeg alatti tehergépkocsival,
+
+*c)* a szállításhoz szükséges tehergépkocsik számának indokolása,
+
+*d)* a szállítás tervezett időpontja (csak eseti felmentés esetében),
+
+*e)* a szállítás tervezett útvonala,
+
+*f)* a szállító tehergépkocsik üzemben tartójának neve, címe,
+
+*g)* a szállító tehergépkocsik gyártmánya, felépítmény kialakítása, forgalmi rendszáma,
+
+*h)* a kérelmező aláírása, bélyegzője,
+
+*i)* a kért felmentés időbeli hatálya,
+
+*j)* nyilatkozat arról, hogy a 2. § (1) bekezdés a) pontjában meghatározott időszakban a 3. mellékletben meghatározott útvonalakat nem veszik igénybe,
+
+*k)* a tehergépkocsik forgalmi engedélyének másolata,
+
+*l)* bérlő által benyújtott kérelem esetén a bérleti szerződés másolata,
+
+*m)* megrendelő által benyújtott kérelem esetén a fuvarozási megrendelés másolata, és
+
+*n)* engedélyenként (vonó járművenként) az eljárási illeték.
+
+## 2. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^14]
+
+.................... sorszám\
+**Budapest Főváros Kormányhivatala**\
+**Engedély**\
+**a nehéz tehergépkocsik közlekedésének korlátozásáról szóló**\
+**190/2008. (VII. 29.) Korm. rendeletben**\
+**meghatározott közlekedési korlátozás alóli felmentésre**
+
+1\. A tehergépkocsi üzemben tartójának neve és címe:
+
+2\. A tehergépkocsi rendszáma, gyártmánya:
+
+3\. A tevékenység vagy a szállított áru megnevezése:
+
+4\. Az engedély időbeli hatálya:
+
+5\. Egyéb feltételek:
+
+Budapest, .......... év .......... hó ..... nap
+
+Nemzeti Közlekedési Hatóság
+
+______________________
+
+1\. Az engedély másra át nem ruházható.
+
+2\. Az eredeti engedélyt a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóságok részére felmutatni.
+
+## 3. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^15]
+
+A 7,5 tonna legnagyobb megengedett össztömeget meghaladó tehergépkocsival nem vehetők igénybe a következő útvonalak:
+
+*a)* M7 autópálya teljes hosszában,
+
+*b)*[^16] 2. sz. főút Budapesttől a 2 sz. főút 39+150 km szelvényéig és az M2 autóút 2. és 12. sz. főúti csomópontjától a 2. sz. főút Parassapusztáig,
+
+*c)* 2/A autóút teljes hosszában,
+
+*d)* 6. sz. főút Dunaújváros és Budapest között,
+
+*e)* 7. sz. főút,
+
+*f)* 10. sz. főút Dorog és Budapest között,
+
+*g)* 11. sz. főút Esztergom és Budapest között,
+
+*h)* 12. sz. főút teljes hosszában,
+
+*i)* 1201. j. út teljes hosszában,
+
+*j)* 51. sz. főút az 510. sz. főúttal alkotott csomópontja és Dömsöd között,
+
+*k)* 71. sz. főút teljes hosszában,
+
+*l)* 76. sz. főút 71. és 7. sz. főutakkal alkotott csomópontok között és Zalaapáti és a 71. sz. főút között,
+
+*m)* 55. sz. főút Alsónyék és Baja között,
+
+*n)* 82. sz. főút 8. sz. főúttól Veszprémvarsányig,
+
+*o)* 84. sz. főút Sümegtől a 71. sz. főútig,
+
+*p)* 33. sz. főút Dormándtól Debrecenig,
+
+*q)* 86. sz. főút Jánossomorja és Nemesbőd között, Körmend és Zalabaksa között,
+
+*r)* 37. sz. főút Miskolc és Sátoraljaújhely között,
+
+*s)* 38. sz. főút 37. sz. főúttal alkotott csomópontja és Rakamaz között.
+
+## 4. melléklet a 190/2008. (VII. 29.) Korm. rendelethez[^17]
+
+.................... sorszám\
+Megbízó/Szállító: ......................................................................................\
+**Nyilatkozat**\
+**a nehéz tehergépkocsik közlekedésének korlátozásáról szóló**\
+**190/2008. (VII. 29.) Korm. rendeletben**\
+**meghatározott közlekedési korlátozás alóli mentességről**
+
+1\. A mentesség igénybevételére a rendelet 5. § (2) bekezdés 2., 3., 5., 9., 12. pontjában* meghatározott szállítás alapján kerül sor.
+
+2\. A tehergépkocsi üzemben tartójának neve és címe:
+
+3\. A tehergépkocsi rendszáma, gyártmánya és típusa:
+
+4\. A tevékenység vagy a szállított áru megnevezése:
+
+5\. A szállítás megkezdése: ............... év ............... hónap ............... nap ...... óra
+
+6\. A szállítás befejezése: ............... év ............... hónap ............... nap ...... óra
+
+7\. Megjegyzések:
+
+8\. A kiállítás helye és dátuma: .............................................
+
+...................................................................\
+a nyilatkozó cégszerű aláírása
+
+___________
+
+\* A megfelelő pontot aláhúzással kell megjelölni.
+
+1\. A nyilatkozat másra át nem ruházható.
+
+2\. A nyilatkozatot a gépjármű vezetője köteles magánál tartani és az ellenőrzésre jogosult hatóság részére felmutatni.
+
+---
+
+[^1]: A 3. § (1a) bekezdését a 99/2022. (III. 10.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 3. § (2) bekezdése a 99/2022. (III. 10.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdése a 280/2010. (XII. 15.) Korm. rendelet 1. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 64. §-a szerint módosított szöveg. [A 4. § (1) bekezdésében a 351/2010. (XII. 30.) Korm. rendelet 217. §-a szerint elrendelt módosítás, amely szerint a „Nemzeti Közlekedési Hatóság Központi Hivatala” szövegrész helyébe a „közlekedési hatóság” szöveg lép, valamint a 70/2015. (III. 30.) Korm. rendelet 123. §-ával elrendelt módosítás, amely szerint az „a környezetvédelmi és természetvédelmi felügyelőség” szövegrész helyébe az „a környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatal” szöveg lép, nem vezethető át.]
+[^4]: Az 5. § a 297/2014. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés 1. pontja az 516/2017. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^6]: Az 5. § (1) bekezdés 9. pontja a 474/2024. (XII. 31.) Korm. rendelet 128. §-a szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés 11. pontját a 474/2024. (XII. 31.) Korm. rendelet 125. §-a iktatta be.
+[^8]: Az 5. § (1) bekezdés 12. pontját a 474/2024. (XII. 31.) Korm. rendelet 125. §-a iktatta be.
+[^9]: A 6. § c) pontja a 474/2024. (XII. 31.) Korm. rendelet 126. §-ával megállapított szöveg.
+[^10]: A 6. § d) pontját a 474/2024. (XII. 31.) Korm. rendelet 126. §-a iktatta be.
+[^11]: A 7. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 631. §-a hatályon kívül helyezte.
+[^12]: A 8. §-t a 474/2024. (XII. 31.) Korm. rendelet 127. §-a iktatta be.
+[^13]: Az 1. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. melléklet a 297/2014. (XII. 3.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 116. §-a szerint módosított szöveg.
+[^15]: A 3. melléklet a 280/2010. (XII. 15.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^16]: A 3. melléklet b) pontja a 297/2014. (XII. 3.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^17]: A 4. melléklet a 280/2010. (XII. 15.) Korm. rendelet 4. § (3) bekezdése, a 297/2014. (XII. 3.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.

@@ -1,0 +1,126 @@
+---
+title: "59/1997. (IV. 18.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a betegszállító, kutató- és mentőrepülések megkönnyítéséről szóló Egyezmény kihirdetéséről"
+identifier: "59/1997. (IV. 18.) Korm. rendelet"
+njt_id: "1997-59-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/59"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-04-18
+in_force_from: 1997-04-18
+last_amended: 1997-04-18
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-59-20-22"
+retrieved: 2026-10-12
+---
+
+# 59/1997. (IV. 18.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a betegszállító, kutató- és mentőrepülések megkönnyítéséről szóló Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1995. év augusztus 8. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Osztrák Köztársaság között Budapesten, 1993. június 23-án aláírt a betegszállító, kutató- és mentőrepülések megkönnyítéséről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság és az Osztrák Köztársaság között a betegszállító, kutató- és mentőrepülések megkönnyítéséről
+
+A Magyar Köztársaság és az Osztrák Köztársaság
+
+attól az óhajtól indíttatva, hogy a nemzetközi betegszállító repüléseket sérültek vagy betegek sürgős szállításánál az ilyen repülések különleges adottságainak ismeretében a külső leszállóhelyek bevonásával is szabályozzák, a szerencsétlenséget szenvedettek és sérültek felkutatását lehetővé tegyék, mentésüket és légijárművekkel való hazatérésüket megkönnyítsék,
+
+a következőkben állapodott meg:
+
+*1. Cikk*
+
+A jelen Egyezmény értelmében az egyes fogalmak a következőket jelentik:
+
+1\. *betegszállító repülés:* az a repülés, amelyet a származási országban bejegyzett légijárművekkel, akár díj ellenében, akár térítésmentesen sérültek vagy betegek sürgős szállításának vagy sürgős orvosi ellátásának céljából hajtanak végre;
+
+2\. *kutató- és mentőrepülés:* a légi- és egyéb szerencsétlenséget szenvedettek felkutatására, kimenekítésére, ellátására és elszállítására szolgáló repülés, ha az nem minősül betegszállító repülésnek;
+
+3\. *származási állam:* az az ország, amelynek területéről indul ki a betegszállító, vagy kutató- és mentőrepülés;
+
+4\. *rendeltetési állam:* az az ország, amelyben a származási államból kiinduló betegszállító vagy kutató- és mentőrepülést végrehajtják;
+
+5\. *külső leszállóhelyek:* azok a felületek, amelyek rendeltetésszerűen nem repülőterek, és amelyek lehetővé teszik az olyan légijárművek felszállását és leszállását, amelyek felépítése és műszaki felszereltsége ezt megengedi.
+
+*2. Cikk*
+
+A légijárművek a betegszállítási, kutató- és mentőrepüléseknél a külső leszállóhelyeken is fel- és leszállhatnak engedély nélkül.
+
+*3. Cikk*
+
+(1) Betegszállító, kutató- és mentőrepülések keretében a Szerződő Államok közötti határátlépéshez a személyzetnek, az orvosi kísérő személyzetnek és a szállított személyeknek utazási okmányokra nincs szükségük.
+
+(2) A szerencsétlenül jártak vagy sérültek részére megengedhető, hogy őket családtagok vagy azok hiányában egy személy kísérje.
+
+(3) A Szerződő Államok a másik Szerződő Államba szállított személyeket állampolgárságukra való tekintet nélkül visszafogadják akkor is, ha nem rendelkeznek utazási okmánnyal, kivéve azokat, akik a másik Szerződő Állam állampolgárai, vagy ott a betegszállító, kutató-, illetve mentőrepülés időpontjában érvényes tartózkodási engedéllyel rendelkeztek.
+
+*4. Cikk*
+
+(1) A betegszállító, kutató- vagy mentőrepülés megkezdése előtt, megfelelő időben, a következő adatokat kell közölni:
+
+*a)* a légijármű hívójele és típusa,
+
+*b)* a repülési útvonal, az előrelátható repülési magasság, repülési cél és a határátrepülési helyek,
+
+*c)* az érkezés és indulás előrelátható időpontja le-/felszállóhelyen,
+
+*d)* a repülés rendeltetése,
+
+*e)* a személyzet és az orvosi kísérőszemélyzet tagjainak neve.
+
+(2) Az (1) bekezdés szerinti adatokat az alábbi szolgálati helyekre kell bejelenteni:
+
+– Ausztriában: Szövetségi Polgári Repülési Hivatal, Körzeti Irányító Központ, Bécs (ACC Wien);
+
+– Magyarországon: a Magyar Köztársaság Egyesített Repülésirányító Főközpontja (ACC Budapest).
+
+(3) Amennyiben a rendeltetési állam (2) bekezdésben megnevezett szolgálati helye a szállított személyek nevét és állampolgárságát még nem ismeri, akkor azokat ezzel a szolgálati hellyel a betegszállító, kutató- vagy mentőrepülés végrehajtása után késedelem nélkül közölni kell.
+
+*5. Cikk*
+
+(1) A légijárművekre a Szerződő Felek vámokmányok bemutatását, illetve kiállítását nem követelik meg. A légijárművek, fedélzeti készletek – beleértve az üzemanyagokat –, valamint a betegszállító, kutató- vagy mentőrepülések végrehajtásához szükséges orvosi és műszaki felszerelési tárgyak és gyógyszerek ideiglenes használata a rendeltetési állam külön eljárása nélkül és biztosíték szolgáltatása nélkül engedélyezett.
+
+(2) A bevitt fedélzeti készletek – beleértve az üzemanyagokat –, felszerelési tárgyak és gyógyszerek, amennyiben azok felhasználása rendeltetésszerű, minden vám, adó és illeték alól mentesek. Ha azokat nem használják fel, vissza kell szállítani.
+
+(3) Az (1) és a (2) bekezdésekben meghatározott árukra nem kell alkalmazni a határon átmenő áruforgalomra vonatkozó tilalmakat és korlátozásokat. A repüléshez és a mentéshez szükséges tárgyakon felül más árukat nem szabad szállítani.
+
+(4) A légijárművön és az azon utazóknál fegyver nem lehet.
+
+(5) Az illetékes hatóságok jogosultak az államon belül érvényes előírások szerinti ellenőrzéseket végrehajtani.
+
+*6. Cikk*
+
+(1) A rendeltetési államban betegszállító, kutató- mentőrepüléseket csak olyan pilóták hajthatnak végre, akik a származási országban a szükséges jogosítással rendelkeznek. Az alkalmazásra kerülő légijárműveket megfelelően fel kell szerelni, és azok a származási állam mindenkori belső előírásai szerinti minősítéssel kell rendelkezzenek.
+
+(2) A pilóták kötelesek magukkal vinni az (1) bekezdés szerinti jogosításokat a származási állam jogi előírásai szerinti fedélzeti okmányokkal együtt.
+
+(3) A személyzetnek megfelelően képzettnek kell lenni, és amennyiben külső leszállóhelyet kell használni, akkor ismernie kell a rendeltetési országnak a külső leszállóhelyekre végrehajtott repülésekre vonatkozó előírásait.
+
+*7. Cikk*
+
+Bármelyik Szerződő Állam a közrend, a biztonság vagy a honvédelem érdekében a jelen Egyezmény rendelkezéseinek alkalmazását teljes egészében vagy részben felfüggesztheti. Erről a másik Szerződő Államot diplomáciai úton késedelem nélkül értesíteni kell.
+
+*8. Cikk*
+
+(1) Ezen Egyezmény meghatározatlan időre szól. Az Egyezmény azt a hónapot követő harmadik hónap első napján lép hatályba, amikor a Szerződő Államok diplomáciai úton írásban tájékoztatták egymást arról, hogy a hatálybalépéshez szükséges belső állami előírásoknak eleget tettek.
+
+(2) Ezen Egyezmény bármikor felmondható és a diplomáciai úton írásban a másik Szerződő Államhoz történt bejelentés után három hónap elteltével veszti hatályát.
+
+Készült Budapesten, 1993. június 23-án, két eredeti példányban, német és magyar nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság nevében
+
+Az Osztrák Köztársaság nevében
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. november 1-jétől kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

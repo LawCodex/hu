@@ -1,0 +1,172 @@
+---
+title: "271/2008. (XI. 18.) Korm. rendelet a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról"
+identifier: "271/2008. (XI. 18.) Korm. rendelet"
+njt_id: "2008-271-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/271"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-11-18
+in_force_from: 2008-11-26
+last_amended: 2026-09-19
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-271-20-22"
+retrieved: 2026-10-12
+---
+
+# 271/2008. (XI. 18.) Korm. rendelet a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja díj alapításáról és adományozásáról
+
+A Kormány a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 8. § (3) bekezdésében, valamint a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 10. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli:
+
+## Ajánlás a Kossuth-díjra és a Széchenyi-díjra
+
+### 1. §
+
+(1) Kossuth-díjra a kulturális és művészeti alkotások, a Széchenyi-díjra a tudományok, a kutatás, a műszaki alkotások, a műszaki fejlesztés, továbbá a gyógyítás és az oktatás-nevelés terén kivételesen magas színvonalú, példaértékű, nemzetközileg is elismert eredményeket elért személyeket lehet ajánlani.
+
+(2) A Kossuth-díj és a Széchenyi-díj ismételt adományozására – az (1) bekezdésben meghatározott feltételek fennállása esetén – csak olyan eredmény alapján lehet javaslatot tenni, amelyet a jelölt az előző Kossuth-díj, illetve Széchenyi-díj adományozása óta eltelt időszakban ért el.
+
+## A Magyarország Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyarország Babérkoszorúja díj[^1]
+
+### 2. §[^2]
+
+A Kormány a kultúra területén végzett kiemelkedő művészi tevékenység elismerésére a Magyarország Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyarország Babérkoszorúja díjat (a továbbiakban együtt: művészeti díjak) alapít és adományoz.
+
+### 3. §
+
+(1)[^3] A Magyarország Érdemes Művésze díj azoknak adományozható, akik a magyar nemzeti kultúra, művészi alkotómunka, így a színház-, zene-, tánc-, artista-, mozgókép-, képző-, fotó-, ipar-, építőművészet területén huzamosabb ideig kiemelkedő művészeti értékeket hoztak létre, és már rendelkeznek a kultúráért felelős miniszter által adományozható művészeti díjjal vagy az építésügyi szabályozásért felelős miniszter által az építészet területén adományozható díjjal.
+
+(2)[^4] A Magyarország Érdemes Művésze díjban – a 6. §-ban meghatározott kivétellel – évente tizenöt személy részesülhet.
+
+### 4. §
+
+(1)[^5] A Magyarország Kiváló Művésze díj azoknak a Magyarország Érdemes Művésze díjjal rendelkezőknek adományozható, akik pályájuk során magas szintű igényes teljesítményt nyújtva gyarapították a magyar művészet értékeit.
+
+(2)[^6] A Magyarország Kiváló Művésze díj – az (1) bekezdésben meghatározott feltételeken túlmenően – akkor adományozható, ha a Magyarország Érdemes Művésze díj adományozása óta legalább 5 év eltelt.
+
+(3)[^7] A Magyarország Kiváló Művésze díjban – a 6. §-ban meghatározott kivétellel – évente hat személy részesülhet.
+
+### 5. §
+
+(1)[^8] A Magyarország Babérkoszorúja díj azoknak adományozható, akik kiemelkedő teljesítményt nyújtottak a magyar irodalom területén és már rendelkeznek a kultúráért felelős miniszter által adományozott művészeti díjjal.
+
+(2)[^9] A Magyarország Babérkoszorúja díjban – a 6. §-ban meghatározott kivétellel – évente három személy részesülhet.
+
+### 6. §[^10]
+
+Ha egy adott évben a kiemelkedő művészeti teljesítményeknek a művészeti területek közötti eltérő megoszlása indokolja, a Kormány a 3. § (2) bekezdésében, a 4. § (3) bekezdésében és az 5. § (2) bekezdésében meghatározott rendelkezésektől eltérhet azzal, hogy a díjazottak száma ebben az esetben együttesen nem haladhatja meg a huszonnégy főt.
+
+## Az adományozás közös szabályai
+
+### 7. §
+
+(1) A Kossuth-díjra és a Széchenyi-díjra, valamint a művészeti díjakra nem javasolható
+
+a)[^11] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdése szerinti politikai felsővezető és a Kit. 3. § (7) bekezdés a) és b) pontja szerinti szakmai felsővezető, valamint
+
+b)[^12] a Kossuth- és Széchenyi-díj Bizottság, és a Művészeti Díj Bizottság tagja.
+
+(2) A Kossuth- és Széchenyi-díj Bizottság posztumusz díjak adományozására nem tesz ajánlást.
+
+### 8. §
+
+(1) A Kossuth- és Széchenyi-díj megosztott adományozása esetén a jutalom személyenként a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 3. § (3) bekezdésében meghatározott összeg fele.
+
+(2) A művészeti díjak csak egyéni teljesítmény elismeréseként adományozhatóak.
+
+(3) A művészeti díjak ismételten nem adományozhatóak.
+
+(4) A művészeti díjjal adományozást igazoló okirat és pénzjutalom jár, amelynek összege:
+
+a)[^13] a Magyarország Kiváló Művésze díj esetében a Kossuth-díjjal járó pénzjutalom mindenkori összegének 85%-a,
+
+b)[^14] a Magyarország Érdemes Művésze díj esetében a Kossuth-díjjal járó pénzjutalom mindenkori összegének 50%-a,
+
+c)[^15] a Magyarország Babérkoszorúja díj esetében a Kossuth-díjjal járó pénzjutalom mindenkori összegének 85%-a.
+
+### 9. §[^16]
+
+(1) A Kormány a Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatok értékelésére, a kitüntetésekre vonatkozó ajánlások megtételére Kossuth- és Széchenyi-díj Bizottságot (a továbbiakban: Bizottság) hoz létre.
+
+(2)[^17] A Bizottság elnöke a miniszterelnök, alelnöke az általános politikai koordinációért felelős miniszter. A Bizottság működésével kapcsolatos titkársági feladatokat az általános politikai koordinációért felelős miniszter látja el.
+
+(3)[^18] A Bizottság tagjai:
+
+a)[^19] a kultúráért felelős miniszter, a felsőoktatásért felelős miniszter és a kormányzati tudománypolitikáért felelős miniszter,
+
+b)[^20] a Sándor-palota által delegált egy fő,
+
+c)[^21] a Magyar Tudományos Akadémia elnöke, a Magyar Művészeti Akadémia elnöke és a Nemzeti Kulturális Tanács elnöke, valamint
+
+d) a Kossuth-díjjal, Széchenyi-díjjal vagy az Állami Díjjal korábban kitüntetettek, továbbá a tudományos, a műszaki, a gazdasági, a művészeti és a kulturális élet mértékadó képviselői köréből a Bizottság elnöke által egyéves időtartamra felkért tíz fő.
+
+(3a)[^22] A Bizottság elnöke a művészeti élet mértékadó képviselői köréből a Magyar Művészeti Akadémia elnöke javaslatára kér fel tagot vagy tagokat.
+
+(4) A Bizottság tagjai sorából előkészítő, jelölő bizottságot alakíthat. A Bizottság, illetve a jelölőbizottság a véleménynyilvánításra külső szakértőt is felkérhet. A felkért szakértő véleményét a Bizottság ülésén fejti ki.
+
+(5) A művészeti díjra vonatkozó javaslatok értékelését a Művészeti Díj Bizottság végzi.
+
+(6)[^23] A Művészeti Díj Bizottság elnöke az általános politikai koordinációért felelős miniszter, tagjai a kultúráért felelős miniszter, valamint a Bizottság elnöke által a Bizottság egyes művészeti ágakat képviselő tagjai közül felkért öt fő.
+
+### 10. §
+
+(1) A Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak adományozására vonatkozó javaslatot az adományozást megelőző év november 1-jéig kell a Bizottsághoz eljuttatni. A határidő után előterjesztett javaslatot a következő adományozási évben lehet figyelembe venni.
+
+(2) A Kossuth-díj és Széchenyi-díj adományozására a Kormány tagjai, az országos köztestületek, a Kossuth-díjjal, Széchenyi-díjjal és Állami Díjjal korábban kitüntetettek, a tudományos és művészeti élet területén működő országos szervezetek elnökségei, valamint az országos érdekképviseleti szervek jogosultak javaslatot tenni.
+
+(3) A művészeti díjak adományozására a művészeti élet területén működő jogi személyek – így különösen a művészeti intézmények, művészeti érdekképviseleti szervezetek, művészeti társadalmi szervezetek, művészeti intézményeket fenntartó önkormányzatok, könyvkiadók – jogosultak javaslatot tenni.
+
+(4) A Kossuth-díj és a Széchenyi-díj és a művészeti díjak adományozását a javaslattételre jogosultaknál bárki kezdeményezheti.
+
+### 11. §
+
+Az írásban előterjesztett javaslatnak tartalmaznia kell a jelölt szakmai életútját, valamint azoknak az eredményeknek, alkotásoknak, illetve művészeti teljesítménynek az ismertetését, amelyek a Kossuth-díj és a Széchenyi-díj és a művészeti díjak odaítélését megalapozhatják, illetve megfelelnek az e rendeletben meghatározott feltételeknek.
+
+### 12. §
+
+(1)[^24]
+
+(2)[^25] A Bizottság a javaslatok értékelését követően ajánlást tesz a Kormánynak a Kossuth-díjjal és a Széchenyi-díjjal, valamint a Művészeti Díjjal kitüntetendő személyekre.
+
+(3) A Bizottság az általa Kossuth-díjra és a Széchenyi-díjra, valamint művészeti díjra ajánlani kívánt személyeket az ajánlásról az ajánlástételt megelőzően tájékoztatja. Ha a kitüntetendő személy a tájékoztatás kézhezvételét követő tizenöt napon belül úgy nyilatkozik, hogy a kitüntetést nem fogadja el, a Bizottság személyére ajánlást nem tesz.
+
+### 13. §
+
+(1) A Kossuth-díj és a Széchenyi-díj, valamint a művészeti díjak ünnepélyes átadására – általában – nemzeti ünnepünk alkalmával, minden év március 15-én kerül sor. Ha a Kossuth-díj és a Széchenyi-díj átadására nem ekkor kerül sor, a javaslattételi eljárásra a 10–11. §-okban foglalt szabályok az irányadóak.
+
+(2) A művészeti díjakat a miniszterelnök vagy az általa kijelölt személy adja át.
+
+### 15. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg a Magyar Köztársaság Kiváló Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja, a Népművészet Mestere díj alapításáról szóló 268/2004. (IX. 24.) Korm. rendelet 1. § a) pontja, 2–4. §-a, 6. § (1) bekezdése, 7. §-a, 9. § (3) bekezdése, 10. § (2) bekezdés a)–c) pontja és 11–12. §-a hatályát veszti.
+
+(2)–(4)[^27]
+
+---
+
+[^1]: A 2. §-t megelőző alcím a 221/2014. (IX. 4.) Korm. rendelet 435. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 435. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 300/2024. (X. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (2) bekezdése a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (3) bekezdése a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdése a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § a 18/2010. (II. 5.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 7. § (1) bekezdés a) pontja a 74/2021. (II. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 7. § (1) bekezdés b) pontja a 3/2011. (I. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^13]: A 8. § (4) bekezdés a) pontja a 18/2010. (II. 5.) Korm. rendelet 1. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (4) bekezdés b) pontja a 18/2010. (II. 5.) Korm. rendelet 1. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdés c) pontja a 18/2010. (II. 5.) Korm. rendelet 1. § (2) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 435. § b) pontja szerint módosított szöveg.
+[^16]: A 9. § a 3/2011. (I. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 9. § (2) bekezdése a 149/2026. (IX. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^18]: A 9. § (3) bekezdése az 1/2019. (I. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^19]: A 9. § (3) bekezdés a) pontja a 258/2023. (VI. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: A 9. § (3) bekezdés b) pontja a 258/2023. (VI. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 9. § (3) bekezdés c) pontja a 74/2021. (II. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 9. § (3a) bekezdését a 407/2012. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 9. § (6) bekezdése a 149/2026. (IX. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: A 12. § (1) bekezdését a 3/2011. (I. 19.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^25]: A 12. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 435. § e) pontja, a 381/2014. (XII. 31.) Korm. rendelet 13. §-a, az 1/2019. (I. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^27]: A 15. § (2)–(4) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 436. §-a hatályon kívül helyezte.

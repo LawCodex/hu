@@ -1,0 +1,296 @@
+---
+title: "149/2000. (VIII. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és az Európa Tanács tagállamai között, 1992. január 16-án kelt, Vallettában aláírt, a régészeti örökség védelméről szóló Európai Egyezmény kihirdetéséről"
+identifier: "149/2000. (VIII. 31.) Korm. rendelet"
+njt_id: "2000-149-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/149"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-08-31
+in_force_from: 2000-09-08
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-149-20-22"
+retrieved: 2026-10-12
+---
+
+# 149/2000. (VIII. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és az Európa Tanács tagállamai között, 1992. január 16-án kelt, Vallettában aláírt, a régészeti örökség védelméről szóló Európai Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló okirat 1993. február 9-én került letétbe helyezésre, az Egyezmény 1995. május 25-én lépett hatályba.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Európa Tanács tagállamai között 1992. január 16-án kelt, Vallettában aláírt Európai Egyezmény a régészeti örökség védelméről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű hiteles fordítása a következő:
+
+,,
+
+**Európai Egyezmény**
+
+**a régészeti örökség védelméről**
+
+Valletta, 1992. I. 16.
+
+*Bevezetés*
+
+Az Európa Tanács tagállamai és azon más államok, amelyek aláíró Felekként csatlakoztak az Európai Kulturális Egyezményhez,
+
+tekintettel arra, hogy az Európa Tanács célja nagyobb egység elérése tagállamai között, különösen a közös örökséget képező eszmék és elvek megőrzése és megvalósítása céljából,
+
+figyelembe véve a Párizsban, 1954. december 19-én aláírt Európai Kulturális Egyezményt, különösen annak 1. és 5. Cikkét,
+
+figyelembe véve a Granadában, 1985. október 3-án aláírt Egyezményt az Európai Építészeti Örökség Védelméről,
+
+figyelembe véve a Delphiben, 1985. június 23-án aláírt Európai Egyezményt a Kulturális Javak Sérelméről,
+
+figyelembe véve a Parlamenti Közgyűlés régészettel kapcsolatos ajánlásait, különös tekintettel a 848. sz. (1978), 921. sz. (1981) és az 1072. sz. (1988) Ajánlásokra,
+
+figyelembe véve az R. (89) 5. sz. Ajánlást a régészeti örökség védelméről és kiteljesítéséről a városrendezési és vidékfejlesztési tevékenység körében,
+
+emlékeztetve arra, hogy a régészeti örökség alapvető fontosságú az emberiség történetének megismerésében,
+
+elismerve hogy az őskor és ókor történetéről tanúskodó európai régészeti örökségre súlyos fenyegetést jelent az állagromlás veszélye, a nagyszabású fejlesztési munkálatok, a természeti kockázati tényezők és a titokban vagy nem tudományosan végzett ásatások megszaporodása, valamint a közvélemény elégtelen tájékozottsága,
+
+megerősítve, hogy fontos a megfelelő igazgatási és tudományos ellenőrző eljárásokat életbe léptetni ott, ahol még nem léteznek, továbbá, hogy a régészeti örökség védelmére irányuló törekvéseknek megfelelő helyet kell kapniuk a város- és területrendezési, valamint a kulturális fejlesztési politikában is,
+
+hangsúlyozva, hogy a régészeti örökség védelmének felelőssége nem lehet kizárólag a közvetlenül érintett országé, hanem az közös minden európai ország számára, az a cél, hogy csökkenjen az állagromlás kockázata, és elősegítsék az állagmegóvást a szakértők cseréje és a tapasztalatok összehasonlításának ösztönzésével,
+
+figyelembe véve, hogy az európai országok tervezési politikája fejlődésének eredményeképpen szükségessé vált az 1969. május 6-án, Londonban aláírt, a Régészeti Örökség Védelméről szóló Európai Egyezményben foglalt elvek kiegészítése,
+
+megállapodtak a következőkben:
+
+*A régészeti örökség meghatározása*
+
+*1. Cikk*
+
+1\. A jelen (átdolgozott) Egyezmény célja az európai kollektív emlékezet forrásának és a történeti és tudományos tanulmányok eszközének minősülő régészeti örökség védelme.
+
+2\. E célból a régészeti örökség elemeinek kell tekinteni minden olyan maradványt, tárgyat és az emberi lét bármely más, az elmúlt korokból fennmaradt nyomát,
+
+*(i)* amelyek megőrzése és tanulmányozása segít rekonstruálni az emberiség történetét, és feltárni kapcsolatát természeti környezetével;
+
+*(ii)* amelyek esetében az ásatások vagy feltárások és az emberiség és környezete kutatásának egyéb módszerei az információszerzés fő forrásai;
+
+*(iii)* és amelyek előfordulási helyei az aláíró Felek fennhatósága alatt álló bármely területen megtalálhatók.
+
+3\. A régészeti örökség szerkezeteket, építményeket, épületcsoportokat, telepeket, ingó tárgyakat, más jellegű emlékeket, valamint ezek összefüggéseit foglalja magában akár a szárazföldön, akár a víz alatt találhatók.
+
+*Az örökség azonosítása és védelmi intézkedések*
+
+*2. Cikk*
+
+Valamennyi Fél vállalja, hogy a saját állama számára megfelelő eszközökkel létrehozza a régészeti örökség védelmének jogi rendszerét, amely biztosítja a következőket:
+
+*(i)* a régészeti örökségéről felfektetett nyilvántartás vezetését, valamint védett emlékek és területek osztályozását;
+
+*(ii)* tartósan megőrzendő, régészetileg védett területek létrehozását olyan helyeken is, ahol sem a föld felszínén, sem a víz alatt nincsenek szemmel látható maradványok, hogy megőrizzék azokat a tárgyi bizonyítékokat, amelyeket majd a későbbi generációk fognak tanulmányozni;
+
+*(iii)* a régészeti örökség elemeinek felfedezője köteles bejelentést tenni az illetékes hatóságoknak és a leleteket vizsgálat céljából rendelkezésére kell bocsátania.
+
+*3. Cikk*
+
+A régészeti örökség megőrzése és a régészeti kutatómunka tudományos jelentőségének szavatolása érdekében valamennyi Fél vállalja, hogy
+
+*(i)* az ásatások és más régészeti tevékenységek engedélyezésére és felügyeletére olyan eljárásokat alkalmaz, amelyek révén
+
+*a)* megakadályozza a tiltott ásatásokat, illetve a régészeti örökség elemeinek törvénytelen elmozdítását eredeti helyükről,
+
+*b)* biztosítja a régészeti ásatások és terepkutatások tudományos módszerekkel történő végzését, azzal a feltétellel, hogy
+
+– lehetőség szerint roncsolást nem okozó kutatási módszerek kerüljenek alkalmazásra,
+
+– a régészeti örökség elemeit az ásatások során nem hozzák a felszínre, illetve az ásatások alatt vagy után nem hagyják őket felügyelet nélkül, illetve fedetlenül anélkül, hogy ne gondoskodnának megfelelő megőrzésükről, állaguk megóvásáról és kezelésükről;
+
+*(ii)* biztosítja, hogy ásatásokat, illetve más, potenciálisan roncsoló eljárást kizárólag csak képzett, külön engedéllyel rendelkező személyek végezhetnek;
+
+*(iii)* amennyiben belső jogszabályai lehetővé teszik, előzetes, külön e célból kiadott engedélyhez köti fémdetektorok, illetve más felderítő eszközök vagy eljárások használatát régészeti vizsgálatok céljaira.
+
+*4. Cikk*
+
+Valamennyi Fél vállalja, hogy a régészeti örökség fizikai védelmére a körülmények figyelembevételével intézkedéseket tesz, amelyek lehetővé teszik:
+
+*(i)* a tartósan megőrzendő régészetileg védetté kijelölt területnek a helyi hatóságok általi megszerzését, illetve védelmük más alkalmas eszközökkel történő biztosítását;
+
+*(ii)* a régészeti örökség lehetőség szerint in situ állagmegóvását és jókarban tartását;
+
+*(iii)* az eredeti helyükről elmozdított régészeti maradványok megfelelő tárolóhelyeken történő tárolását.
+
+*A régészeti örökség integrált állagmegóvása*
+
+*5. Cikk*
+
+Valamennyi Fél vállalja, hogy
+
+*(i)* oly módon törekszik a régészet és a fejlesztési tervek követelményeinek egyeztetésére és összehangolására, hogy biztosítja a régészek részvételét:
+
+*a)* olyan tervezési politikák kialakításában, amelyek kiegyensúlyozott stratégiát vezetnek be a régészeti érdekű területek védelmére, állaguk megóvására és rendbehozatalukra,
+
+*b)* a fejlesztési tervek kimunkálásának különböző szakaszaiban;
+
+*(ii)* biztosítja, hogy a régészek, valamint a város- és területrendezők rendszeresen tanácskozzanak egymással annak érdekében, hogy lehetővé tegyék:
+
+*a)* a régészeti örökségre nagy valószínűséggel károsan ható fejlesztési tervek módosítását,
+
+*b)* a lelőhely megfelelő tudományos tanulmányozásához és az eredmények publikálásához elegendő idő és eszközök biztosítását;
+
+*(iii)* biztosítja, hogy a környezeti hatásvizsgálatok és az azokból következő döntések teljes mértékben figyelembe vegyék a régészeti lelőhelyeket és azok környezetét;
+
+*(iv)* gondoskodik arról, hogy a régészeti örökségnek a fejlesztési munkálatok során felbukkant elemeit, amennyiben csak lehetséges, in situ óvják meg;
+
+*(v)* biztosítja, hogy a régészeti lelőhelyeknek a nagyközönség számára történő megnyitása és különösen a nagyszámú látogató fogadásához szükséges szerkezeti megoldások ne legyenek kedvezőtlen hatással e területek és környezetük régészeti és tudományos jellegére.
+
+*A régészeti kutatás és állagmegóvás finanszírozása*
+
+*6. Cikk*
+
+Valamennyi Fél vállalja, hogy
+
+*(i)* országos, regionális és helyi hatóságok, hatásköröknek megfelelően, közpénzekből támogatják a régészeti kutatásokat;
+
+*(ii)* bővíti a leletmentő régészet anyagi forrásait azáltal, hogy
+
+*a)* megfelelő lépésekkel biztosítja, hogy a nagyobb köz-, vagy magánfejlesztési tervek miatt szükségessé váló bármely régészeti tevékenység teljes költségét a helyzetnek megfelelően a közösségi vagy magánszektor forrásaiból fedezzék,
+
+*b)* e munkálatok költségvetésében a környezeti és regionális tervezési óvórendszabályok miatt szükséges hatástanulmányokkal azonos módon gondoskodik az előzetes régészeti tanulmányokról és terepmunkákról, a tudományos összefoglaló jelentésről, továbbá a teljes publikációról és a leletek nyilvántartásba vételéről.
+
+A tudományos információ gyűjtése\
+és terjesztése
+
+*7. Cikk*
+
+A régészeti feltárások tanulmányozásának, illetve a róluk szóló ismeretanyag terjesztésének elősegítése céljából valamennyi Fél vállalja, hogy
+
+*(i)* a joghatósága alá tartozó területeken található régészeti lelőhelyekről felméréseket, nyilvántartást és tárképeket készít, illetve azokat naprakész állapotba hozza;
+
+*(ii)* minden gyakorlati intézkedést megtesz annak biztosítására, hogy a régészeti munkálatokat követően, még a szaktanulmányok szükséges, teljes körű közzététele előtt, készüljön publikálható tudományos összefoglaló jelentés.
+
+*8. Cikk*
+
+Valamennyi Fél vállalja, hogy
+
+*(i)* tudományos célokra elősegíti a régészeti örökség elemeinek országon belüli és nemzetközi cseréjét, miközben megfelelő lépéseket tesz annak szavatolására, hogy ez a forgalom semmiképpen se károsítsa kulturális és tudományos értékükben ezeket a tárgyakat;
+
+*(ii)* előmozdítja a folyamatban lévő régészeti kutatásokról és ásatásokról szóló információk összegyűjtését, és hozzájárul nemzetközi kutatási programok szervezéséhez.
+
+*A köztudat formálása*
+
+*9. Cikk*
+
+Valamennyi Fél vállalja, hogy
+
+*(i)* nevelőmunkát fejt ki annak érdekében, hogy a közvélemény egyre jobban felismerje és tudatosítsa a régészeti örökség értékét a múlt megértésében, valamint a régészeti örökséget fenyegető veszélyeket;
+
+*(ii)* elősegíti régészeti öröksége fontos elemeinek, különösen a régészeti emlékeknek – a nyilvános hozzáférhetőségét, és ösztönzi a régészeti tárgyakból készült megfelelő válogatások bemutatását a nagyközönségnek.
+
+A régészeti örökség elemei tiltott forgalmának\
+megelőzése
+
+*10. Cikk*
+
+Valamennyi Fél vállalja, hogy
+
+*(i)* gondoskodik arról, hogy illetékes közhatóságai és tudományos intézményei összegyűjtsék az azonosított tiltott ásatásokról származó információkat;
+
+*(ii)* értesíti a jelen (átdolgozott) Egyezményhez csatlakozott származási állam illetékes hatóságait minden felajánlott leletről, amely gyaníthatóan tiltott ásatásból származik, vagy amelyet a hivatalos ásatásokból törvénytelen úton kiragadtak és rendelkezésre bocsátja az ezekkel kapcsolatos adatokat;
+
+*(iii)* megteszi a kellő lépéseket annak érdekében, hogy azok a múzeumai és hasonló intézményei, amelyek szerzeményezési gyakorlatát államilag ellenőrzi, ne szerezhessék meg a régészeti örökség olyan darabjait, amelyek gyaníthatóan ellenőrizetlen feltárásokból, vagy tiltott ásatásokból, vagy hivatalos ásatásokból ugyan, de törvénytelen úton származnak;
+
+*(iv)* a Felek területén található múzeumoknak és hasonló intézményeknek, amelyeknek a szerzeményezési politikája nem áll állami ellenőrzés alatt
+
+*a)* eljuttatja a jelen (átdolgozott) Egyezmény szövegét,
+
+*b)* minden erőfeszítést megtesz annak biztosítására, hogy a szóban forgó múzeumok és intézmények tiszteletben tartsák a jelen Cikk *(ii)* pontjában meghatározott elveket;
+
+*(v)* neveléssel, tájékoztatással, éberséggel és együttműködéssel a lehetséges mértékben korlátozza az ellenőrizetlen felfedezésekből, tiltott ásatásokból, illetve hivatalos ásatásból törvénytelenül szerzett, a régészeti örökséghez tartozó elemek átruházását.
+
+*11. Cikk*
+
+A jelen (átdolgozott) Egyezmény egyetlen pontja sem érinti a Felek között már létrejött vagy a jövőben létrejövő két-, illetve többoldalú, a régészeti örökség elemeinek tiltott forgalmazására, illetve a jogos tulajdonosnak történő visszajuttatására vonatkozó szerződéseket.
+
+*Kölcsönös technikai és tudományos segítség*
+
+*12. Cikk*
+
+A Felek vállalják, hogy
+
+*(i)* kölcsönös technikai és tudományos segítséget nyújtanak egymásnak azáltal, hogy a régészeti örökséget érintő ügyekben összesítik tapasztalataikat, és sort kerítenek szakértők cseréjére;
+
+*(ii)* a tárgyra vonatkozó nemzeti jogszabályok vagy kötelező érvényű nemzetközi szerződések alapján ösztönzik a régészeti örökség megőrzésében jártas szakemberek cseréjét, ideértve a képzésért felelős szakértőkét is.
+
+Az (átdolgozott) Egyezmény érvényesítésének\
+ellenőrzése
+
+*13. Cikk*
+
+A jelen (átdolgozott) Egyezmény céljaira az Európa Tanács Miniszteri Bizottsága által az Európa Tanács Alapszabályának 17. Cikke szerint fölállított szakértői bizottság kíséri figyelemmel a jelen (átdolgozott) Egyezmény érvényesítését, amely többek között
+
+*(i)* rendszeresen jelentést tesz az Európa Tanács Miniszteri Bizottságának a régészeti örökség védelmét szolgáló politika helyzetéről az Egyezmény tagállamaiban, valamint az (átdolgozott) Egyezményben meghatározott elvek érvényesítéséről;
+
+*(ii)* javaslatokat terjeszt az Európa Tanács Miniszteri Bizottsága elé az (átdolgozott) Egyezmény rendelkezéseinek érvényesítését szolgáló intézkedésekre, ideértve a többoldalú tevékenységeket, az (átdolgozott) Egyezmény felülvizsgálatát vagy módosítását, valamint a közvélemény tájékoztatását az (átdolgozott) Egyezmény céljairól;
+
+*(iii)* ajánlásokat terjeszt az Európa Tanács Miniszteri Bizottsága elé, hogy azokat az államokat is szólítsák fel a jelen (átdolgozott) Egyezményhez történő csatlakozásra, amelyek nem tagjai az Európa Tanácsnak.
+
+*Záró rendelkezések*
+
+*14. Cikk*
+
+1\. Jelen (átdolgozott) Egyezmény aláírásra nyitva áll az Európa Tanács tagállamai, valamint az Európai Kulturális Egyezmény tagállamai számára.
+
+Az (átdolgozott) Egyezményt megerősítésre, elfogadásra vagy jóváhagyásra kell bocsátani. A megerősítésről, elfogadásról vagy jóváhagyásról szóló okiratokat az Európa Tanács Főtitkáránál kell letétbe helyezni.
+
+2\. Azok az államok, amelyek csatlakoztak a Londonban, 1969. május 6-án aláírt, a Régészeti Örökség Védelméről szóló Egyezményhez, mindaddig nem helyezhetik letétbe a megerősítésről, elfogadásról vagy jóváhagyásról szóló okiratot, amíg fel nem mondták, vagy egyidejűleg fel nem mondják az említett Egyezményt.
+
+3\. A jelen (átdolgozott) Egyezmény hat hónappal azt követően lép hatályba, hogy négy állam, amelyek közül legalább három tagja az Európa Tanácsnak, a megelőző bekezdésekben foglalt eljárásnak megfelelően kifejezésre juttatta készségét az (átdolgozott) Egyezmény kötelmeinek betartására.
+
+4\. Abban az esetben, ha az előző két bekezdés alkalmazása során az 1969. május 6-i Egyezmény felmondása nem a jelen (átdolgozott) Egyezménnyel egyidejűleg lép hatályba, a csatlakozó állam a megerősítésről, elfogadásról vagy jóváhagyásról szóló okirat elhelyezésekor kijelentheti, hogy a jelen (átdolgozott) Egyezmény hatálybalépéséig változatlanul az 1969. május 6-i Egyezményt fogja alkalmazni.
+
+5\. A jelen (átdolgozott) Egyezmény a megerősítési, elfogadási vagy jóváhagyási okirat letétbe helyezésétől számított hat hónap elteltével lép életbe azon államok számára, amelyek később juttatják kifejezésre készségüket az Egyezmény kötelmeinek betartására.
+
+*15. Cikk*
+
+1\. A jelen (átdolgozott) Egyezmény hatálybalépése után az Európa Tanács Miniszteri Bizottsága az Európa Tanács Alapokmányának 20. *d)* Cikke szerint hozott többségi határozattal, valamint a jelen (átdolgozott) Egyezménynek a Bizottságban helyet foglaló tagállamai egyhangú szavazatukkal bármely államot felkérhetnek a jelen (átdolgozott) Egyezményhez történő csatlakozásra, amely nem tagja az Európa Tanácsnak, illetve az Európai Gazdasági Közösségnek.
+
+2\. A jelen (átdolgozott) Egyezmény valamennyi csatlakozó állam, illetve – amennyiben csatlakozni kíván – az Európai Gazdasági Közösség számára a csatlakozási okiratnak az Európa Tanács Főtitkáránál való letétbe helyezése után hat hónappal lép életbe.
+
+*16. Cikk*
+
+1\. Az aláíráskor, illetve a megerősítési, elfogadási, jóváhagyási vagy csatlakozási okirat letétbe helyezésekor bármely állam meghatározhatja azt a területet vagy azokat a területeit, amelyeken a jelen (átdolgozott) Egyezményt alkalmazni fogja.
+
+2\. Az Európa Tanács Főtitkárához címzett nyilatkozattal valamennyi állam bármely későbbi időpontban kiterjesztheti a jelen (átdolgozott) Egyezmény alkalmazását a nyilatkozatban meghatározott bármely más területre. Ezeket a területeket illetően a jelen (átdolgozott) Egyezmény hat hónappal azt követően lép hatályba, hogy a Főtitkár kézhez vette a nyilatkozatot.
+
+3\. A fenti két bekezdés alapján tett minden nyilatkozatot, a benne meghatározott bármely terület vonatkozásában, a Főtitkárhoz intézett bejelentés révén vissza lehet vonni. A visszavonás hat hónappal azt követően lép hatályba, hogy a Főtitkár kézhez vette a bejelentést.
+
+*17. Cikk*
+
+1\. A jelen (átdolgozott) Egyezményt az Európa Tanács Főtitkárához címzett bejelentéssel valamennyi Fél bármikor felmondhatja.
+
+2\. A felmondás hat hónappal azt követően lép hatályba, hogy a Főtitkár kézhez vette a bejelentést.
+
+*18. Cikk*
+
+Az Európa Tanács Főtitkára köteles értesíteni az Európa Tanács tagállamait, az Európai Kulturális Egyezmény egyéb tagállamait, valamint a jelen (átdolgozott) Egyezményhez csatlakozott vagy csatlakozásra felhívott egyéb államokat, továbbá az Európai Gazdasági Közösséget:
+
+*(i)* minden aláírásról;
+
+*(ii)* megerősítési, elfogadási, jóváhagyási vagy csatlakozási okiratok minden egyes letétbe helyezéséről;
+
+*(iii)* a jelen (átdolgozott) Egyezmény 14., 15. és 16. Cikk szerinti hatálybalépésének minden egyes időpontjáról;
+
+*(iv)* a jelen (átdolgozott) Egyezményt érintő minden egyéb cselekedetről, bejelentésről vagy közlésről.
+
+A fentiek tanúsítására alulírottak kellő felhatalmazással rendelkezve aláírták a jelen (átdolgozott) Egyezményt.
+
+Készült Vallettában, 1992. év január hó 16. napján, az Európa Tanács levéltárában letétbe helyezendő egyetlen példányban, angol és francia nyelven, mindkét szöveg egyaránt hiteles.
+
+Az Európa Tanács Főtitkára köteles hiteles másolatot küldeni az Európa Tanács valamennyi tagállamának, az Európai Kulturális Egyezmény más tagállamainak, továbbá a csatlakozásra felhívott nem tagállamoknak és az Európai Gazdasági Közösségnek.''
+
+## 3. §[^1]
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. május 25-től kell alkalmazni. Végrehajtásáról a kulturális örökség védelméért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § a 221/2014. (IX. 4.) Korm. rendelet 203. §-a szerint módosított szöveg.

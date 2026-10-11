@@ -1,0 +1,331 @@
+---
+title: "165/1996. (XI. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Nemzetközi Rendészeti Akadémia létesítéséről szóló, Budapesten, 1995. április hó 24. napján aláírt Megállapodás kihirdetéséről "
+identifier: "165/1996. (XI. 20.) Korm. rendelet"
+njt_id: "1996-165-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/165"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-11-20
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-165-20-22"
+retrieved: 2026-10-12
+---
+
+# 165/1996. (XI. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Nemzetközi Rendészeti Akadémia létesítéséről szóló, Budapesten, 1995. április hó 24. napján aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1995. november 3-án megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Nemzetközi Rendészeti Akadémia létesítéséről szóló, Budapesten, 1995. április hó 24. napján aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,Megállapodás\
+a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között Nemzetközi Rendészeti Akadémia létesítéséről
+
+A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya (a továbbiakban: Felek) attól az óhajtól vezetve, hogy
+
+– a szervezett bűnözés elleni harcban a nemzetközi együttműködést elmélyítsék,
+
+– a középkelet-európai országok rendőrségei és az amerikai rendőrségek közötti tevékenységet összehangolják,
+
+– a szervezett bűnözés elleni harcban a résztvevők szakmai képzettségét fejlesszék,
+
+az alábbiakban állapodtak meg:
+
+*Meghatározások*
+
+*1. Cikk*
+
+A jelen Megállapodás szerint:
+
+*a)* a ,,Magyar Fél'' a Magyar Köztársaság Kormányát jelenti,
+
+*b)* az ,,Amerikai Fél'' az Amerikai Egyesült Államok Kormányát jelenti.
+
+*Az Akadémia létesítése, feladatai*
+
+*2. Cikk*
+
+(1) A Felek a Magyar Köztársaságban Nemzetközi Rendészeti Akadémiát (a továbbiakban: Akadémia) hoznak létre.
+
+(2) Az Akadémia a Nemzetközi Rendészeti Akadémia, Budapest, Magyarország – International Law Enforcement Academy, Budapest, Hungary nevet viseli. E megnevezést azonos módon használják táblákon, levelezésben, pecséteken, programokon.
+
+(3) Az Akadémia székhelye Budapesten van, az Országos Rendőr-főkapitányság Oktatási és Kiképző Központjában [(a továbbiakban: Központ), Budapest XII. kerület, Böszörményi út 21.].
+
+(4) Az Akadémia a tevékenységét az e Megállapodásban rögzített feltételek szerint és a Magyar Köztársaság törvényeivel és törvényes előírásaival összhangban végzi.
+
+*3. Cikk*
+
+(1) Az Akadémia feladata:
+
+– gyakorlattal rendelkező rendészeti szakemberek, középszintű vezetők
+
+= szakmai továbbképzése,
+
+= vezetőképzése,
+
+= speciális elméleti és gyakorlati felkészítése a bűnügyi tudományok legújabb eredményei alapján, a bűnügyi technika legfejlettebb módszereinek és eszközeinek bemutatása révén,
+
+– szakmai és tudományos tanácskozások rendezése.
+
+(2) A két ország illetékes intézményei – az érvényes jogszabályokkal összhangban – segítik és támogatják az Akadémia munkáját feladatai ellátása érdekében.
+
+*Az Akadémia szervezete*
+
+*4. Cikk*
+
+(1) Az Akadémiát, az Amerikai Fél által kiküldött igazgató vezeti.
+
+(2) Az igazgatón kívül az Amerikai Fél más munkatársakat is küldhet oktatói, oktatásszervezési, illetve igazgatási feladatokra.
+
+(3) Az Akadémia jogi személy.
+
+(4) Az Akadémiát az igazgató képviseli.
+
+*5. Cikk*
+
+(1) Az Akadémia maga határozza meg
+
+*a)* belső szervezetét és működési szabályzatát,
+
+*b)* rendtartását – az Akadémiának helyet adó Központ vezetőjével egyetértésében –,
+
+*c)* a felvételi követelményeket,
+
+*d)* az oktatandó tárgyakat és
+
+*e)* az oktatás módszereit.
+
+(2) A továbbképzésre az Akadémia által kiadott pályázati felhívásban foglaltak szerint lehet jelentkezni.
+
+(3) A pályázati felhívásban tájékoztatni kell a jelentkezőt, hogy felvétele esetén – magyarországi egészségügyi ellátása érdekében – biztosítást kell kötnie. E körülményt az Akadémia a felvétel után ellenőrzi.
+
+(4) Az Akadémia feladata az egyes országok által benyújtott jelentkezési lista alapján a hallgatók kiválasztása.
+
+(5) A továbbképzést sikeresen befejező hallgatók számára az Akadémia oklevelet állít ki. Az oklevél iskolai végzettséget vagy szakképzettséget nem igazol.
+
+*6. Cikk*
+
+Az Akadémia személyi állományát
+
+*a)* az igazgató,
+
+*b)* az oktatás szervezését, az igazgatási tevékenységet végző személyzet,
+
+*c)* az oktatási tevékenységet ellátó (állandó és szerződéses) oktató és
+
+*d)* a hallgatók
+
+alkotják.
+
+*Az Akadémia működéséhez szükséges tárgyi feltételek*
+
+*7. Cikk*
+
+(1) A Magyar Fél biztosítja a Magyar Állam tulajdonát képező ingatlanon, a 2. Cikk (3) bekezdésében megnevezett Központ területén és kijelölt épületeiben az Akadémia működéséhez szükséges feltételeket; hozzájárul annak a jelen Megállapodásban meghatározott célokra való átalakításához és felújításához.
+
+(2) A megfelelő létesítmények kialakításához a szükséges költségeket a Felek legfeljebb hárommillió (3 000 000) USD-ra becsülik. Ez magában foglalja az előkészítési és megvalósítási költségeket, valamint az Akadémia által használt épületek és épületrészek első berendezésének költségeit is.
+
+(3) A Felek vállalják, hogy a (2) bekezdésben megjelölt átalakítási, felújítási költséget, az alább megjelölt arányban, közösen viselik.
+
+(4) Abban az esetben, ha a felújítás tényleges költsége kevesebb lesz, mint hárommillió USD, a Felek hozzájárulása ugyanolyan arányban csökken, mint amilyen arányban a felújításhoz a jelen Megállapodásban foglaltak szerint hozzájárultak.
+
+(5) A Felek vállalják, hogy támogatják a jelen Megállapodás valamennyi rendelkezésének végrehajtását a hatálybalépés időpontjától a 18. Cikk (1) bekezdésére tekintettel.
+
+*A támogatás összege és felhasználása*
+
+*8. Cikk*
+
+(1) *a)* Az Amerikai Fél kötelezettséget vállal arra, hogy kétmillió-ötszázezer (2 500 000) USD-ral járul hozzá az Akadémia működéséhez szükséges létesítmények költségeihez, mely magában foglalja az épületek felújításának teljes költségét, beleértve az előkészítési, a kivitelezési és a berendezéssel kapcsolatos kiadásokat.
+
+*b)* A Felek között egyetértés van abban, hogy az (1) bekezdés *a)* pontjában megfogalmazott és az Amerikai Fél hozzájárulását jelentő összeg magában foglalja azt a százhúszezer (120 000) USD összegű előzetes hozzájárulást, melyről a Felek 1995. április 7-én Megállapodást kötöttek, s amelyet a jelen Megállapodás szerves részének tekintenek.
+
+(2) Az Amerikai Fél az (1) bekezdésben vállalt hozzájárulását – a Magyar Féllel közösen megállapított ütemezés szerint – a Belügyminisztérium Magyar Nemzeti Banknál vezetett, nem kamatozó ,,Nemzetközi Rendészeti Akadémia, felújítási célú'' számlájára utalja át. A Magyar Fél időszakos elszámolását, s a számlamásolatokat az Amerikai Félnek megküldi.
+
+*9. Cikk*
+
+(1) A Magyar Fél kötelezettséget vállal arra, hogy az épületek teljes felújítási költségeihez legfeljebb ötszázezer (500 000) USD-nak megfelelő forinttal járul hozzá – a jelen Megállapodás aláírásának napján érvényes árfolyamon számítva, mely magában foglalja az előkészítési, a kivitelezési és a berendezési költségekkel kapcsolatos kiadásokat.
+
+(2) A Magyar Fél felelős minden tervezési, előkészítési, kivitelezési szolgáltatásért, amely a teljes átalakítási munkálatok megvalósításához szükségesek, továbbá biztosítja a kivitelezés teljes felügyeletét. Ezen munkálatok megvalósításához a Magyar Fél szerződést köt megfelelő tervezőkkel és kivitelezőkkel.
+
+(3) A Magyar Fél a tervező, majd a kivitelező szervezet meghívásos pályázat keretében történő kiválasztásába, valamint a kivitelezés ellenőrzésébe bevonja az Amerikai Fél megbízottját.
+
+*Az Akadémia működése*
+
+*10. Cikk*
+
+(1) A Felek megállapodnak abban, hogy az Akadémia működését közösen biztosítják
+
+– pénzbeli hozzájárulással,
+
+– természetbeni juttatással,
+
+– szolgáltatásokkal, vagy
+
+– személyzet formájában támogatják a jelen Megállapodásban, továbbá a végrehajtási megállapodásban meghatározottak szerint.
+
+(2) Az Amerikai Fél biztosítja
+
+*a)* az Akadémia működéséhez szükséges oktatási, igazgatási személyzetet és viseli annak teljes költségét;
+
+*b)* viseli a képzési program során igénybe vett tolmácsok költségeit;
+
+*c)* hallgatók formaruhával való ellátásának költségeit, a végrehajtási megállapodásban foglaltak szerint;
+
+*d)* az igazgatási és oktató személyzet elhelyezését szolgáló irodák berendezésének, továbbá
+
+*e)* a hallgatók és a személyzet szállításával összefüggő költségeket;
+
+*f)* az oktatáshoz szükséges segédanyagokat és szemléltető eszközöket;
+
+*g)* megtéríti a Magyar Fél által nyújtott működési szolgáltatások ellenértékeként – hallgatónként és naponta megállapított normatíva szerint. A magyar hallgatók költségeit a Magyar Fél fedezi. A normatív támogatás mértékét a Felek felhatalmazott képviselői naptári évenként felülvizsgálják, és szükség szerint módosítják.
+
+(3) A Magyar Fél szolgáltatásokat nyújt az Akadémia működéséhez az Amerikai Fél térítése ellenében. E szolgáltatások felsorolását a végrehajtási megállapodás tartalmazza.
+
+(4) Az Amerikai Fél a (2) és a (3) bekezdésben vállalt pénzügyi hozzájárulását – a Magyar Féllel közösen megállapított ütemezés szerint – a Belügyminisztérium Magyar Nemzeti Banknál vezetett, nem kamatozó ,,Nemzetközi Rendészeti Akadémia – működési célú'' – számlájára utalja át. A Magyar Fél a működési kiadásokról és egyéb kiadásokról szóló időszakos elszámolását, illetőleg a keletkezett számlák másolatait az Amerikai Félnek megküldi.
+
+*Tulajdonjog, a támogatás célhozkötöttsége*
+
+*11. Cikk*
+
+(1) Valamennyi vagyontárgyon, amelyet az Amerikai Fél által nyújtott pénzügyi támogatásból vásároltak, illetve annak eredményeként jött létre, továbbá, amelyet természetben juttattak, a Magyar Fél szerez tulajdonjogot a vásárlás időpontjában, illetőleg annak a Magyarországra érkezése időpontjában.
+
+(2) Az (1) bekezdésben megjelölt valamennyi vagyontárgyat a jelen Megállapodás céljaira kell felhasználni.
+
+(3) Mindazokat az (1) bekezdésben megjelölt vagyontárgyakat, illetve azok értékét, amelyeket a jelen Megállapodás céljaitól eltérő célra használtak – kivéve, ha a Felek ettől eltérően állapodtak meg – a Magyar Fél köteles az Amerikai Félnek felajánlani, illetve visszafizetni.
+
+*Az együttműködés módszerei, ellenőrzés*
+
+*12. Cikk*
+
+(1) Mindkét Fél jogosult arra, hogy
+
+*a)* ellenőrizze mindazt a vagyontárgyat, amelyet az illető Fél hozott létre vagy támogatott a jelen Megállapodás keretein belül, annak érdekében, hogy eldöntse, azt a jelen Megállapodásban foglaltak szerint használták fel, illetve, hogy
+
+*b)* felülvizsgáljon vagy ellenőrizzen minden olyan okmányt vagy számlát, amelyet a jelen Megállapodás alapján állítottak ki pénzösszegekről, ingóságokról vagy szolgáltatásokról, azért, hogy megállapítsa, azok megfelelnek a jelen Megállapodás feltételeinek.
+
+(2) A Felek megegyeznek abban, hogy évente együtt ellenőrzik a Megállapodás végrehajtását, valamint, hogy rendszeres időközönként ellenőrzéseket végeznek a jelen Megállapodás fennállásának teljes időtartama alatt. Mindkét Fél megfelelően képzett szakembereket biztosít a folyamat ellenőrzésére és értékelésére.
+
+(3) A Felek átadják egymásnak mindazokat a fontos, rendelkezésükre álló információkat, amelyek a jelen Megállapodásban foglaltak megvalósulásának értékeléséhez szükségesek.
+
+(4) A jelen Megállapodásban rögzített támogatás felhasználásaként meghatározott idő lejártakor a Felek átfogó jelentést készítenek. Az átfogó jelentés tartalmazza az Amerikai Fél, illetve a Magyar Fél által rendelkezésre bocsátott eszközök listáját, a végrehajtott tevékenységek ügyiratait, valamint az elért célokat és az azokkal kapcsolatos alapvető adatokat.
+
+*13. Cikk*
+
+Mindkét Fél a saját belső jogi előírásainak megfelelően bocsátja rendelkezésre a jelen Megállapodáshoz szükséges anyagi és egyéb támogatásokat.
+
+*Kiváltságok, mentességek, kedvezmények*
+
+*14. Cikk*
+
+(1) A Magyar Fél kötelezettséget vállal arra, hogy biztosítja az Akadémia céljaként szolgáló épületek átalakításához, felújításához és az intézmény folyamatos működtetéséhez felhasználásra kerülő szolgáltatások, áruk, ellátmányok, berendezések vagy egyéb vagyon vámoktól, importadóktól, forgalmi adótól és bármi egyéb hasonló adóktól és terhektől mentesen importálhatók, vásárolhatók, használhatók és kivihetők.
+
+(2) Az Akadémia jelen Megállapodásban foglalt feladatainak és működtetésének megvalósításáért felelős bármely magyar költségvetési szerv mentes mindazon adótól, illetve befizetési kötelezettségektől, amelyet Magyarország vagy bármely szervezeti egysége vet ki a jelen Megállapodás rendelkezéseiben foglaltak megvalósításából eredő bevétel, illetve jövedelem tekintetében. Az egyéb magyarországi tevékenységekből származó bevétel, illetve jövedelem nem mentes a magyarországi jogszabályok szerinti adózás, illetve befizetési kötelezettség alól.
+
+(3) Az Akadémia átalakítási és kivitelezési munkálatainak kiadásait terhelő, valamint a működtetéséhez szükséges belföldi beszerzések forgalmi adója (áfa) nem mentes a fizetési kötelezettség alól, azonban a Magyar Fél ezt az adót (áfát) ésszerű visszafizetési rendben megtéríti.
+
+(4) A jelen Megállapodás áfára, illetve az áfa-visszatérítésre vonatkozó rendelkezéseit az 1995. január 1-jét követő beszerzésekre lehet alkalmazni.
+
+*15. Cikk*
+
+A Magyar Fél megadja a legkedvezőbb hivatalos átváltási értéket ezen Megállapodás végrehajtásához az Amerikai Fél részéről nyújtott pénzügyi alapoknak helyi pénznemre történő összes átváltása esetén.
+
+*16. Cikk*
+
+(1) A 6. Cikk *a)* pontjában említett igazgató az Amerikai Fél budapesti nagykövetségének diplomáciai tagja.
+
+(2) A 6. Cikk *b)* pontja szerinti állandó személyzet az Amerikai Fél budapesti nagykövetségének igazgatási és műszaki személyzete tagjai közé tartoznak.
+
+(3) A 6. Cikk *c)* pontja szerinti oktatók – amennyiben nem magyar állampolgárok, illetőleg, akik nem magyarországi állandó lakosok – az alábbi mentességekben és kedvezményekben részesülnek:
+
+*a)* az Akadémiától származó jövedelem tekintetében mentesek a magyar törvények szerint kivetett bármely adók alól;
+
+*b)* minden illeték, vámkezelési díj, vám jellegű fizetési kötelezettség, importadó, áfa és egyéb hasonló adók és terhek alól, amelyeket a Magyarországra érkezésük napjától számított hat hónapos időszakon belül az ilyen személyek személyes használata céljából importált személyi tárgyakra vagy háztartási cikkekre állapítanak meg, beleértve családonként egy személygépkocsit, és az ilyen személyes tárgyakat vagy háztartási cikkeket Magyarországon adómentesen lehet használni és az országból kivinni;
+
+*c)* a lakása után fizetendő bérlet vagy egyéb, a bérlettel összefüggő adók alól;
+
+*d)* mentesek a társadalombiztosítási díj fizetésének, és a munkavállalási engedély megszerzésének kötelezettsége alól;
+
+*e)* díjmentes vízumra – mellőzve a személyes benyújtás kötelezettségét – és a szolgálattétel időtartamára érvényes – egyszerűsített eljárásban, díjmentesen kiadott – tartózkodási engedélyre jogosultak.
+
+(4) A 6. Cikk *d)* pontjában említett hallgatók – amennyiben nem magyar állampolgárok, illetőleg nem magyarországi állandó lakosok – az alábbi mentességekben és kedvezményekben részesülnek:
+
+*a)* mentesül minden illeték, vámkezelési díj, vám jellegű fizetési kötelezettség alól, a tanulmányok idejére magukkal hozott személyi tárgyak tekintetében, beleértve személyenként egy darab személygépkocsit is és az ilyen személyes tárgyakat Magyarországon adómentesen lehet használni és az országból kivinni;
+
+*b)* díjmentes, többszöri beutazásra, 90 napos tartózkodásra jogosító hivatalos célú – tanulmányok folytatására szóló – vízumra, mentesítve a személyes benyújtás kötelezettsége alól.
+
+(5) Az (1), (2), (3) bekezdésben említett személyek családtagjait – amennyiben nem magyar állampolgárok vagy magyarországi állandó lakosok – velük azonos jogosultságokat élveznek.
+
+(6) A (4) és az (5) bekezdésben említett személyek adatait az Amerikai Fél – budapesti diplomáciai testülete útján – Magyarországra történő érkezésük előtt, kellő időben közli a Magyar Fél képviselőjével.
+
+*A végrehajtás szabályai*
+
+*17. Cikk*
+
+A Felek erre felhatalmazott képviselői a jelen Megállapodás végrehajtását külön megállapodásban szabályozzák, amelyben többek között meghatározzák:
+
+*a)* az illetékes szerveket, valamint a tájékoztatás és az eljárás módját,
+
+*b)* az Akadémia épületének kialakításához, továbbá annak folyamatos működéséhez szükséges további részletes szabályokat, illetőleg szolgáltatásokat,
+
+*c)* a szükséges nyilvántartásokat, az elszámolás szabályait,
+
+*d)* az Akadémia éves költségvetését.
+
+*A Megállapodás módosítása, hatálybalépés*
+
+*18. Cikk*
+
+(1) Ez a Megállapodás azon a napon lép hatályba, amikor a Felek diplomáciai úton, írásban tájékoztatják egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásoknak.
+
+(2) Ezt a Megállapodást határozatlan időre kötik. A jelen Megállapodást bármelyik Fél diplomáciai úton, írásban felmondhatja, amely esetben a Megállapodás a felmondás kézhezvételét követő kilencvenedik napon hatályát veszti.
+
+(3) A jelen Megállapodás módosítását bármelyik Fél diplomáciai úton kezdeményezheti.
+
+*Vegyes rendelkezések*
+
+*19. Cikk*
+
+(1) A jelen Megállapodás 8. és 9. Cikkében a Felek által vállalt pénzügyi hozzájárulás 2000. szeptember 30-ig használható fel.
+
+(2) Ha a Megállapodás megszüntetésére 2000. szeptember 30-a előtt, a Magyar Fél súlyosan szerződésszegő magatartása miatt kerül sor, a tulajdonába került javaknak az időközi értékcsökkenéssel korrigált ellenértékét köteles a Magyar Fél az Amerikai Félnek megtéríteni.
+
+(3) A jelen Megállapodás megszűnése esetén a Felek elszámolnak egymással. A szerződés megszűnése a szerződés fennállása alatt érvényesen vállalt kötelezettségekért való helytállást nem érinti.
+
+Készült Budapesten, 1995. április 24. napján, két eredeti példányban, magyar és angol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+Az Amerikai Egyesült Államok Kormánya nevében
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a Nemzetközi Rendészeti Akadémia, Budapest létesítéséhez történő hozzájárulás egyes kérdéseiről
+
+1\. Az Amerikai Egyesült Államok Kormánya (Amerikai Fél) az alábbiakban vállalja, hogy 120 000 USD-t biztosít a Magyar Köztársaság Kormányának (Magyar Fél) a Budapesten létesítendő Nemzetközi Rendészeti Akadémia (International Law Enforcement Academy, Budapest) céljára szolgáló épület felújítása költségeinek részleges fedezésére.
+
+2\. A Magyar Fél vállalja, hogy megkezdi a Nemzetközi Rendészeti Akadémia céljait szolgáló épület felújítását. A Magyar Fél vállalja továbbá, hogy az átadott pénzösszeg felhasználásáról az Amerikai Egyesült Államok budapesti nagykövetségének elszámol.
+
+Az aláíró Felek Kormányaik nevében vállalják, hogy jelen megállapodás előírásait végrehajtják.
+
+Készült Budapesten, 1995. április 7-én, két példányban, magyar és angol nyelven, mindkét példány egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+Az Amerikai Egyesült Államok Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a Megállapodás rendelkezéseit azonban 1995. november hó 3. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 65. pontja szerint módosított szöveg.

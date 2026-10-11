@@ -1,0 +1,102 @@
+---
+title: "83/2001. (V. 18.) Korm. rendelet a hazai gyakorló- és lőterek külföldiek által, térítés ellenében történő igénybevételéről"
+identifier: "83/2001. (V. 18.) Korm. rendelet"
+njt_id: "2001-83-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/83"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-05-18
+in_force_from: 2008-01-01
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-83-20-22"
+retrieved: 2026-10-12
+---
+
+# 83/2001. (V. 18.) Korm. rendelet a hazai gyakorló- és lőterek külföldiek által, térítés ellenében történő igénybevételéről
+
+A Kormány a hazai gyakorló- és lőterek külföldiek által, térítés ellenében történő igénybevételéről az alábbiakat rendeli el:
+
+## 1. §
+
+(1) E rendelet alkalmazásában térítéses igénybevétel: egyes békében is működő hazai gyakorló- és lőterek és más katonai létesítmények külföldi fegyveres erők által – két- és többoldalú megállapodások alapján végrehajtott – gyakorlat, lövészet, kiképzés (a továbbiakban: igénybevétel) céljából, térítés ellenében történő igénybevétele.
+
+(2)[^1] A honvédelemért felelős miniszter vagy az általa kijelölt személy az alábbi feltételek meglétében az igénybevételt térítéses igénybevételnek minősíti, ha az
+
+a) nem szerepel a NATO tervezési okmányaiban megjelölt szövetségi vagy békepartnerségi gyakorlatok és kiképzések listájában,
+
+b) kizárólag az igénybe vevő külföldi fegyveres erő saját nemzeti kiképzési céljait szolgálja, vagy
+
+c)[^2] az igénybevételben történő esetleges magyar közreműködés a részt vevő személyi állomány tekintetében 30%, a technikai eszközök tekintetében 20% alatti, vagy kizárólagosan biztosító, kiszolgáló, illetve nem katonai feladatot jelentő tevékenységgel valósul meg, kivéve, ha az adott igénybevétel a Magyar Honvédség számára – az igénybevételi megállapodás kifejezett rendelkezése szerint – új kiképzési eszköz vagy módszer megismerését teszi lehetővé, illetve más honvédelmi szakmai okból indokolt.
+
+(3)[^3] Állomásozást, illetve nemzetközi kötelezettségvállalás alapján külföldi fegyveres erő hazai jelenlétét engedélyező más országgyűlési döntés és hatályos nemzetközi szerződés keretében történő térítéses igénybevételek esetében e rendelet csak akkor alkalmazható, ha az említett jogi dokumentumok e tekintetben eltérően nem rendelkeznek.
+
+## 2. §
+
+A térítéses igénybevételekre a küldő országgal hatályban lévő jogállási megállapodásokat, így különösen a NATO tagállamai érintett fegyveres erői tekintetében az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodást (NATO SOFA), a Békepartnerség programhoz csatlakozott államok érintett fegyveres erői tekintetében – az Észak-atlanti Szerződés részes államai és a ,,Békepartnerség'' más részt vevő államai közötti, fegyveres erőik jogállására vonatkozó Megállapodást (PfP SOFA) és annak Kiegészítő jegyzőkönyvét (a továbbiakban együtt: SOFA) alkalmazni kell.
+
+## 3. §
+
+A térítéses igénybevételek engedélyezésére a határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló 190/2000. (XI. 14.) Korm. rendeletet kell alkalmazni.
+
+## 4. §
+
+(1)[^4] A honvédelemért felelős miniszter vagy az általa kijelölt személy jogosult a térítéses igénybevételre vonatkozó megállapodások tárgyalására és – a 3. § szerinti engedély meglétében – azok megkötésére.
+
+(2) A megállapodásokban rögzíteni kell:
+
+a) az igénybevétel tartalmát és célját olyan részletességgel, hogy megállapítható legyen, miszerint a honvédelmi, gazdasági, környezetvédelmi, természetvédelmi és más fontos állami érdeket nem sért vagy veszélyeztet,
+
+b) a külföldi résztvevő által történő térítés kötelezettségét, annak módját és határidejét,
+
+c) az igénybevételi díj összetevőit, különösen a gyakorló- és lőtérhasználat utáni díjat, a harcbiztosító és logisztikai támogatásért fizetendő térítést, a külföldi félnek biztosított anyagok és szolgáltatások ellenértékét,
+
+d) az igénybevételi díj mértékét úgy, hogy a térítéses igénybevétel nyereséges legyen, az elszámolás módját pedig úgy, hogy a bevételt az alaptevékenységtől elkülönítve lehessen elszámolni,
+
+e) a külföldi résztvevők hazai területen történő szállításával, közúti mozgásával és légiközlekedésével kapcsolatos tevékenység során a Magyar Honvédség csapataira vonatkozó előírások és rendszabályok megtartását,
+
+f) az esetleges károk megelőzésére és rendezésére vonatkozó előírásokat, ideértve azt, hogy az igénybe vevő fél és a magyar fél közösen létrehozott kárfelmérő bizottságot működtet a gyakorlat teljes időtartama alatt,
+
+g) a 2. § szerinti jogállási megállapodások alkalmazására történő kötelezettségvállalást,
+
+h) azon előírást, hogy a fogadó fegyveres erők kijelölt parancsnoka jogosult megszakítani vagy véglegesen leállítani az éppen folyó gyakorlatot, amennyiben a látogató fegyveres erők súlyosan megszegnék a hatályos környezet- és természetvédelmi szabályokat,
+
+i) azt az előírást, hogy az igénybe vevő fél a gyakorló- és lőtereken fennmaradó létesítményt és beruházást csak a kijelölt ellátó szervezet útján, továbbá akkor valósíthat meg, ha a magyar félnek arra szüksége van, és megvalósításával a munkálatok megkezdése előtt, írásban egyetértett. A fenti feltételek teljesülése esetén a maradványértéket a felek közösen állapítják meg. Írásbeli egyetértés hiányában a maradványérték kifizetésére vagy az igénybevételi díjba történő beszámítására nem kerülhet sor,
+
+j) a megállapodás érvényességének idejét és a megszüntetésével kapcsolatos előírásokat.
+
+(3) A megállapodások a hazai – elsősorban pénzügyi és környezetvédelmi – jogszabályokkal és a SOFA szerinti, valamint más nemzetközi szerződéses kötelezettségvállalásokkal összhangban, tartalmazhatnak további feltételeket, így különösen:
+
+a) kötelezettségvállalást arra, hogy a fogadó fél az általános forgalmi adóról szóló törvényben meghatározott feltételek esetén visszatéríti az igénybe vevő fél részére a külföldi résztvevők által, a kijelölt ellátó szervezeten keresztül beszerzett áruk és szolgáltatások árának általános forgalmi adó tartalmát,
+
+b) a külföldi fél által, a magyar fél javára vállalt eltéréseket a SOFA tartalmától, például az okozott károkért való teljes felelősség vállalását,
+
+c) nem pénzbeli térítés lehetőségét, amely az igénybevételi díj összegébe beszámítható (így különösen cserekiképzés, illetve kiképzési eszközök biztosítása),
+
+d) azt az előírást, hogy külföldi fegyveres erők beszállítói a magyar beszállítókhoz képest, kedvezményekben csak speciális haditechnikai szakértelmet igénylő munka végzése esetén részesülhetnek,
+
+e) biztosítóval egyes meghatározott típusú, az igénybe vevő fél által okozott károk esetére történő megállapodást,
+
+f) bekövetkező károk esetére a külföldi felet terhelő kifizetésekre szolgáló összeg (kártérítési biztosíték) letétbe helyezésének kikötését.
+
+## 5. §[^5]
+
+Az érintett központi államigazgatási szervek – az ügykörükbe tartozó és a SOFA előírásaiból eredő feladatok tekintetében a szükséges intézkedések megtételével – együttműködnek a honvédelemért felelős miniszter által vezetett minisztériummal a térítéses igénybevételek előkészítésében, és közreműködnek azok végrehajtásában.
+
+## 6. §[^6]
+
+A honvédelemért felelős miniszter által vezetett minisztériumban a SOFA kármegosztási, illetve kártérítési igényről történő lemondási szabályaiban meghatározott, a fogadó államot terhelő önrész fedezetére szolgáló pénzügyi keret létesül, amely szerepel a tárca – a hatályos költségvetési törvény szerinti időszakra szóló – költségvetésében.
+
+## 7. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2001. május 8. napjától kell alkalmazni.
+
+---
+
+[^1]: Az 1. § új (2) bekezdését a 41/2002. (III. 21.) Korm. rendelet 5. §-a iktatta a szövegbe, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva. Az 1. § (2) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 220. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdésének c) pontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 36. pontja szerint módosíttot szöveg.
+[^3]: Az 1. § eredeti (2) bekezdésének számozását a 41/2002. (III. 21.) Korm. rendelet 5. §-a (3) bekezdésre változtatta. Az 1. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 86. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 220. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § a 290/2011. (XII. 22.) Korm. rendelet 93. §-a, a 221/2014. (IX. 4.) Korm. rendelet 220. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § a 221/2014. (IX. 4.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.

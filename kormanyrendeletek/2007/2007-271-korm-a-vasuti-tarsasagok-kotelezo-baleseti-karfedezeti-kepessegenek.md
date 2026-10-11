@@ -1,0 +1,496 @@
+---
+title: "271/2007. (X. 19.) Korm. rendelet a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról"
+identifier: "271/2007. (X. 19.) Korm. rendelet"
+njt_id: "2007-271-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/271"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-10-19
+in_force_from: 2009-10-01
+last_amended: 2024-08-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-271-20-22"
+retrieved: 2026-10-12
+---
+
+# 271/2007. (X. 19.) Korm. rendelet a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról
+
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 88. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet meghatározza Magyarország területén vasúti közlekedési tevékenységet végző, továbbá a Magyarországon bejegyzett vagy – bejelentés esetén – nyilvántartásba vett vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó baleseti károk megtérítésére és sérelemdíj megfizetésére való alkalmasságával kapcsolatosan teljesítendő követelményeket, és a teljesítés igazolásának módját.
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a)[^2] *fedezeti összeghatár:* a vagyoni biztosíték [5. § (1) bek.] értékének legkisebb mértéke, amivel a vasúti társaságnak rendelkeznie kell;
+
+b) *férőhely-kilométer:* az egyes vasúti járművek (szerelvények) hatósági férőhelyének és hasznos kilométerének szorzata, több vasúti jármű közlekedtetése esetén az előzőek szerint járművenként számított értékek összege;
+
+c) *hatósági férőhely:* a vasúti járművel – a megengedhető terhelés alapján – a forgalmi engedélye szerint szállítható személyek számaként bejegyzett férőhely (az utazószemélyzet leszámításával);
+
+d) *vasúti baleset:* a vasúti közlekedés során bekövetkező – a vasutat, mint személyszállításra és árutovábbításra szolgáló kötöttpályás közlekedési rendszert és annak tartozékait, a vasúti pályát és annak tartozékait, az üzemi létesítményeket és a vasúti járműveket érintő – személyi sérüléssel vagy anyagi kárral járó esemény;
+
+e) *veszélyes áru:* a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF), B Függelék I. Mellékletét képező, a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) által ilyenként meghatározott áru.
+
+## Kárfedezeti képesség
+
+### 3. §
+
+(1)[^3] A vasúti társaság e rendeletben előírt kötelező kárfedezeti képessége annak biztosítására szolgál, hogy a vasúti társaság a fedezeti összeghatárig terjedő értékben képes legyen a vasúti balesettel összefüggésben a felelősségi körébe tartozóan az utasoknak és a harmadik személyeknek – különösen a személyek életében, testi épségében és egészségében, a poggyászban, a vasúti pályában, a vasúti pálya tartozékaiban, a vasúti üzemi létesítményben, a vasúti járműben, a szállított áruban, a postaküldeményekben, valamint a környezetben – általa e minőségében, vagy a vasúti közlekedési tevékenység végzéséhez igénybe vett közreműködő személyek által okozott károk megtérítésére és sérelemdíj megfizetésére.
+
+(2) A vasúti társaság a vasúti közlekedési tevékenységhez szükséges megfelelő kárfedezeti képességgel rendelkezik, amennyiben a 4. § szerint rá irányadó fedezeti összeghatárt elérő értékben – az 5. § (1) bekezdésében meghatározott, és a 6. § rendelkezéseinek megfelelő – egy vagy több vagyoni biztosítékkal rendelkezik.
+
+## A fedezeti összeghatár
+
+### 4. §
+
+(1) A vasúti társaságra irányadó fedezeti összeghatárt az 1. mellékletben foglaltak szerint kell megállapítani
+
+a) a nagyobb gyakorisággal (1–3 évente) előforduló vasúti balesetek (a továbbiakban: általános vasúti balesetek), valamint
+
+b) a nagyon ritkán előforduló, de a lehetséges legnagyobb kárral járó vasúti balesetek (a továbbiakban: katasztrófa-balesetek)
+
+vonatkozásában.
+
+(2)[^4] Ha a vasúti társaság kizárólag működési engedélyhez kötött vasúti közlekedési tevékenységet végez, akkor a fedezeti összeghatárt az általános vasúti balesetek vonatkozásában működési engedélyenként, míg a katasztrófa-balesetek vonatkozásában a legnagyobb fedezeti összeghatárral járó működési engedély értékének alapulvételével kell megállapítani.
+
+(2a)[^5] Ha a vasúti társaság működési engedélyhez kötött és bejelentésköteles vasúti közlekedési tevékenységet is vagy csak kizárólag bejelentésköteles vasúti közlekedési tevékenységet végez, akkor a fedezeti összeghatárt az általános vasúti balesetek vonatkozásában vasúti közlekedési tevékenységenként, míg a katasztrófa-balesetek vonatkozásában a legnagyobb fedezeti összeghatárral járó vasúti közlekedési tevékenység értékének alapulvételével kell megállapítani.
+
+(3)[^6] A működési engedély iránti kérelemhez és a bejelentéshez mellékelni kell az adott vasúti közlekedési tevékenységre vonatkozóan a 2–5. melléklet szerinti adattartalmú, a vasúti igazgatási szerv által rendszeresített kockázatértékelési adatlapot.
+
+(4)[^7] A vasúti igazgatási szerv a katasztrófa-balesetekre vonatkozó fedezeti összeghatárok kiszámításához alkalmazandó módszertan hatályos változatát a honlapján folyamatosan közzéteszi. A vasúti igazgatási szerv a módszertan módosítását legalább 90 nappal érvénybe lépése előtt teszi közzé.
+
+## A vagyoni biztosíték
+
+### 5. §
+
+(1) Vagyoni biztosíték lehet:
+
+a)[^8] garanciaszerződés,
+
+b)[^9] Magyarország területén biztosítási tevékenység végzésére jogosult biztosítóval kötött felelősségbiztosítási szerződés (a továbbiakban: biztosítás).
+
+(2) Az egyes vagyoni biztosítékformák külön-külön és együttesen is alkalmazhatók.
+
+### 6. §
+
+(1) A vagyoni biztosítékra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha
+
+a)[^10] a vagyoni biztosíték a 3. § (1) bekezdésében meghatározott valamennyi kárigény és sérelemdíj iránti igény kielégítésére felhasználható,
+
+b)[^11] vállalkozó vasúti tevékenységre vonatkozó országos működési engedély esetében a vagyoni biztosíték területi hatálya valamennyi, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területére, egyéb vasúti tevékenységre vonatkozó működési engedély vagy bejelentés esetében a működési engedélyben vagy a tudomásul vett bejelentésben meghatározott működési területre terjed ki,
+
+c)[^12] rendelkezik arról, hogy a szerződés bármely okból történő megszűnése vagy megszüntetése esetén a hitelintézet vagy a biztosító a vasúti igazgatási szervet haladéktalanul elektronikus úton tájékoztatja, továbbá
+
+d)[^13] biztosítás esetén a biztosító az esetlegesen előírt önrésztől függetlenül a biztosítási összeg erejéig a teljes kárt megtéríti és minden sérelemdíjat megfizet.
+
+(2) A vagyoni biztosítékra kötött szerződésnek legalább a tárgyévet követő év végéig kell szólnia.
+
+(3)[^14] A garanciaszerződés és a biztosítási összeg pénzneme forint vagy a Magyar Nemzeti Bank által jegyzett deviza lehet. A devizában meghatározott összeget a fedezeti összeghatár megállapításakor a tárgyévet megelőző évben a Magyar Nemzeti Bank által közzétett utolsó devizaárfolyam szerinti értéken kell figyelembe venni.
+
+(4)[^15] Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökkent, a vasúti társaság – amennyiben a vasúti balesettel érintett vasúti közlekedési tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről haladéktalanul, de legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet elektronikus úton haladéktalanul értesíti.
+
+### 7. §
+
+(1)[^16] A garanciaszerződésben rögzíteni kell, hogy a hitelintézet bármely olyan személynek kifizetést teljesít a vagyoni biztosíték terhére, aki a vasúti társaság felelősségi körébe tartozóan elszenvedett kárának és a személyiségi jog megsértésének jogalapját és összegét
+
+a) a vasúti társaság írásbeli elismerő nyilatkozatával, vagy
+
+b) a bíróság végrehajtható határozatával
+
+igazolja.
+
+(2)[^17] A működési engedéllyel rendelkező vasúti társaság a garanciaszerződés hatályát a működési engedélye visszavonása esetén azt követően szüntetheti meg, hogy a vasúti igazgatási szerv felé igazolta:
+
+a)[^18] valamennyi, vele szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozata által megalapozott kárigényt és sérelemdíj iránti igényt kielégített, valamint
+
+b)[^19] az egyéb, jogvita tárgyává tett kárigények és sérelemdíj iránti igények vonatkozásában az eljárás a vasúti társaság marasztalása nélkül jogerősen befejeződött.
+
+(3)[^20] Ha a vasúti közlekedési tevékenységét bejelentés alapján végző vasúti társaság a bejelentéshez kötött tevékenységével felhagy és ezt a vasúti igazgatási szerv részére bejelentette vagy a vasúti közlekedési tevékenység folytatását a vasúti igazgatási szerv megtiltotta, a garanciaszerződés hatályát csak azt követően szüntetheti meg, hogy a vasúti igazgatási szervnél igazolta a következőket:
+
+a) valamennyi, vele szemben bejelentett, nem vitatott vagy a bíróság végrehajtható határozata által megalapozott kárigényt és sérelemdíj iránti igényt kielégített, valamint
+
+b) az egyéb, jogvita tárgyává tett kárigények és sérelemdíj iránti igények vonatkozásában az eljárás a vasúti társaság marasztalása nélkül jogerősen befejeződött.
+
+## A kárfedezeti képesség igazolása, adatszolgáltatás
+
+### 8. §
+
+(1) A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását
+
+a)[^21] a biztosítási szerződés általános és különös szerződési feltételeket tartalmazó része közjegyző által hitelesített másolat példányban, a biztosítási kötvény és a biztosítási díjjal rendezett időszakról (ideértve a díjhalasztást is) a biztosító által kiállított igazolás eredeti vagy közjegyző által hitelesített másolat példánya, vagy
+
+b)[^22] a garanciaszerződés eredeti vagy közjegyző által hitelesített másolati példánya
+
+tanúsítja.
+
+(2)[^23] Az (1) bekezdés szerinti igazolás tartalmazza
+
+a) a szerződés azonosítóját (szerződésszám, kötvényszám),
+
+b) a biztosító nevét, székhelyét és elérhetőségeit,
+
+c) a szerződő biztosított teljes nevét, székhelyét és elérhetőségeit,
+
+d) a kockázatviselés kezdetét és a biztosítási időszakot,
+
+e) a biztosítási eseményt,
+
+f) a vállalt kockázatot, annak mértékét és területi hatályát,
+
+g) az önrész formáját és mértékét,
+
+h) a mentesüléseket, kizárásokat és záradékokat,
+
+i) a kárrendezés, valamint a kártérítés és a sérelemdíj kifizetésének módját,
+
+j) a szerződés keltét,
+
+k) a kötvényfeltételeket,
+
+l) a biztosított vasúti tevékenység megnevezését, valamint
+
+m) a rendelkezést arra vonatkozóan, hogy a biztosítási kötvény e rendelet előírásainak mindenben megfelel.
+
+(3)[^24] Az (1) bekezdésben foglaltaktól eltérően a vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását tanúsító iratokat a vasúti társaság másolatban is benyújthatja, ha a benyújtással egyidejűleg nyilatkozik arról, hogy a benyújtott másolat az eredetivel mindenben megegyezik.
+
+## Záró és átmeneti rendelkezések
+
+### 10. §
+
+Ez a rendelet 2008. január 1. napján lép hatályba, rendelkezéseit a hatálybalépésekor folyamatban lévő működési engedély kiadása iránti eljárásokban is alkalmazni kell.
+
+### 11. §[^26]
+
+Az e rendelet hatálybalépésekor működési engedéllyel rendelkező vasúti társaság 2008. július 1. napjáig az általános vasúti balesetek, 2009. július 1. napjáig a katasztrófa-balesetek vonatkozásában köteles a kárfedezeti képességének meglétét az e rendelet által előírt módon igazolni a vasúti igazgatási szerv részére. A vasúti társaság e kötelezettségének teljesítéséig köteles a kárfedezeti képességét legalább a működési engedélye iránti kérelmében vagy a vasúti igazgatási szerv részére későbbi időpontban igazolt szinten fenntartani. A vasúti igazgatási szerv a 4. § (4) bekezdésében meghatározott számítási módszertant 2008. december 31. napjáig készíti el.
+
+### 11/A. §[^27]
+
+Az egyes vasúti tárgyú kormányrendeletek módosításáról szóló 193/2016. (VII. 13.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^28] működési engedéllyel, illetve tudomásul vett bejelentéssel rendelkező vasúti társaság a Módr. hatálybalépésétől számított 120 napon belül igazolja, hogy a Módr. szerinti kárfedezeti képességgel rendelkezik. Azon vasúti társaságok esetében, amelyek e kötelezettségüknek nem tesznek eleget, a vasúti igazgatási szerv a működési engedélyt, illetve – a bejelentéssel rendelkező vasúti társaságok esetén – a tevékenység folytatását felfüggeszti a kötelezettség teljesítéséig. Ha a vasúti társaság kizárólag a kárfedezeti képesség Módr. szerinti igazolásához szükséges dokumentumokat nyújtja be a vasúti igazgatási szerv részére, a vasúti igazgatási szerv eljárása díjmentes.
+
+### 12. §[^29]
+
+Ez a rendelet – a Vtv.-vel együtt – az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv 22. cikkének való megfelelést szolgálja.
+
+## 1. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^30]
+
+**Vasúti társaságokra irányadó fedezeti összeghatárok**
+
+1\. Az általános vasúti balesetek fedezeti összeghatárának számítása országos és elővárosi vasúti személyszállítási működési engedély esetén
+
+![](https://njt.jog.gov.hu/picture/33/33f72007_22__20000271AEDC_008_0.jpg)
+
+de legalább 100 millió forint,
+
+ahol az
+
+S = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+s = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton megvalósuló, a tárgyévet követő évre tervezett összes utaskilométer.
+
+2\. Az általános vasúti balesetek fedezeti összeghatárának számítása országos és elővárosi vasúti árutovábbítási működési engedély esetén
+
+*A = A1 + A2*
+
+de legalább 50 millió forint,
+
+ahol az
+
+![](https://njt.jog.gov.hu/picture/2a/2ab22007_22__20000271AEDC_008_1.jpg)
+
+A = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+A1 = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára veszélyes áru továbbítása esetén,
+
+a1 = A tárgyévet követő évben az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton várhatóan megvalósuló veszélyes áru továbbítás összes árutonna-kilométer teljesítménye,
+
+A2 = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára nem veszélyes áru továbbítása esetén,
+
+a2 = A tárgyévet követő évben az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton várhatóan megvalósuló nem veszélyes áru továbbítás összes árutonna-kilométer teljesítménye.
+
+3\. Az általános vasúti balesetek fedezeti összeghatárának számítása vontatási szolgáltatás nyújtására jogosító országos és elővárosi működési engedély esetén
+
+*V = v* × 1 000 000 forint
+
+de legalább 100 millió forint,
+
+ahol a
+
+V = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+v = Az EGT-államok területén vagy az adott elővárosi vasúti pályahálózaton, a tárgyévet követő évben várhatóan dolgozó vontató járművek száma.
+
+4\. Az általános vasúti balesetek fedezeti összeghatárának számítása országos és elővárosi vasúti pályahálózat működtetésére vonatkozó bejelentés esetén
+
+*P = P1 + P2*
+
+de legalább 200 millió forint,
+
+ahol a
+
+![](https://njt.jog.gov.hu/picture/9e/9e312007_22__20000271AEDC_008_2.jpg)
+
+P = Az adott országos vagy elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+P1 = Az adott országos vagy elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a teljes nyílt hozzáférésű vasúti pályahálózat építési hosszára számítva,
+
+p1 = A vasúti társaság által működtetett teljes nyílt hozzáférésű vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben,
+
+P2 = Az adott országos vagy elővárosi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a teljes nyílt hozzáférés alól mentesített vasúti pályahálózat építési hosszára számítva,
+
+p2 = A vasúti társaság által működtetett teljes nyílt hozzáféréstől mentesített vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben.
+
+5\. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti személyszállításra vonatkozó működési engedély, valamint a keskeny nyomtávolságú vasút vagy múzeumvasút által, továbbá függővasúton végzett vasúti személyszállítási tevékenység esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti személyközlekedtetési tevékenység esetén
+
+![](https://njt.jog.gov.hu/picture/45/45bc2007_22__20000271AEDC_008_3.jpg)
+
+de legalább 10 millió forint, függővasúton végzett tevékenység esetén legalább 3 millió forint,
+
+ahol az
+
+ST = Az iparvágányon, a térségi, keskeny nyomtávolságú vasút vagy múzeumvasút által működtetett pályahálózaton, függővasúton, vagy a saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+st = A tárgyévet követő évben tervezett összes utaskilométer teljesítmény.
+
+6\. Az általános vasúti balesetek fedezeti összeghatárának számítása helyi és városi vasúti személyszállításra vonatkozó működési engedély esetén
+
+![](https://njt.jog.gov.hu/picture/d9/d92f2007_22__20000271AEDC_008_4.jpg)
+
+de legalább 50 millió forint,
+
+ahol az
+
+SH = A helyi vagy városi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben az utasoknak és harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+sh = A tárgyévet követő évben tervezett összes férőhely-kilométer teljesítmény.
+
+7\. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi, helyi és városi árutovábbításra vonatkozó működési engedély, valamint a keskeny nyomtávolságú vasút által, továbbá függővasúton végzett vasúti árutovábbítási tevékenység esetén, illetve a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti áruszállítási tevékenység esetén
+
+![](https://njt.jog.gov.hu/picture/9f/9f942007_22__20000271AEDC_008_5.jpg)
+
+de legalább 20 millió forint, függővasúton végzett tevékenység esetén legalább 3 millió forint,
+
+ahol az
+
+AT = Az iparvágányon, a térségi, helyi, városi, a keskeny nyomtávolságú vasút által működtetett pályahálózaton, függővasúton vagy a saját célú vasúti pályahálózat területén az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+at = A tárgyévet követő évben tervezett összes árutonna-kilométer teljesítmény.
+
+8\. Az általános vasúti balesetek fedezeti összeghatárának számítása vontatási szolgáltatás nyújtására jogosító térségi, helyi és városi működési engedély, valamint a kizárólag iparvágányon vagy a saját célú vasúti pályahálózaton végzett vasúti vontatási szolgáltatás esetén,
+
+*VT = vt* × 200 000 forint
+
+de legalább 10 millió forint,
+
+ahol a
+
+VT = Az iparvágányon, a térségi, a helyi, városi vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+vt = Az iparvágányon, a térségi, a helyi, városi, múzeumvasúti vagy saját célú vasúti pályahálózaton a tárgyévet követő évben várhatóan dolgozó vontató járművek száma.
+
+9\. Az általános vasúti balesetek fedezeti összeghatárának számítása térségi vasúti pályahálózat működtetése, valamint a keskeny nyomtávolságú vasút, a múzeumvasút vasúti pályahálózat-működtetési tevékenysége esetén, illetve az iparvágány vagy a saját célú vasúti pályahálózat működtetése esetén
+
+*PT = pt* × 100 000 forint
+
+de legalább 5 millió forint,
+
+ahol a
+
+PT = Az iparvágányon, a keskeny nyomtávolságú vasút, múzeumvasút által működtetett, múzeumvasúti vagy saját célú vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+pt = A vasúti társaság által működtetett vasúti pályahálózat építési hossza kilométerben a tárgyévet követő évben.
+
+10\. Az általános vasúti balesetek fedezeti összeghatárának számítása helyi vagy városi vasúti pályahálózat működtetésére vonatkozó bejelentés esetén
+
+*PH = PH1 + PH2*
+
+de legalább 50 millió forint,
+
+ahol a
+
+PH1= ph1 × 2 000 000 forint
+
+PH2 = ph2 × 500 000 forint
+
+PH = A helyi vagy városi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára,
+
+PH1 = A helyi vagy városi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a villamos vontatásra alkalmas vasúti pályahálózat építési hosszára számítva,
+
+ph1 = A helyi vagy városi vasúti pályahálózaton a villamos vontatásra alkalmas vasúti pályahálózat építési hossza,
+
+PH2 = A helyi vagy városi vasúti pályahálózaton az általános és a környezetszennyezés felelősség körében a tárgyévet követő évben a harmadik személyeknek vasúti balesetben okozott károk és bekövetkezett személyi károk fedezeti összeghatára a villamos vontatásra nem alkalmas vasúti pályahálózat építési hosszára számítva,
+
+ph2 = A helyi vagy városi vasúti pályahálózaton a villamos vontatásra nem alkalmas vasúti pályahálózat építési hosszára számítva.
+
+11\. A katasztrófa-balesetek fedezeti összeghatárának számítása
+
+*PML = PML1 + PML2*
+
+ahol a
+
+PML = Az a lehetséges legnagyobb személyi sérüléssel járó és dologi kár (forint), ami a tevékenység következtében maximumként bekövetkezhet, függetlenül a vasúti baleset bekövetkezésének valószínűségétől,
+
+PML1 = Az a lehetséges legnagyobb személyi sérüléssel járó kár (forint), ami a tevékenység következtében maximumként bekövetkezhet. A személyi sérüléssel járó kár meghatározásához személyenként legalább 30 millió forint kárral, országos és elővárosi működési engedély kérelem, illetve bejelentés esetén 50 fő, helyi, városi működési engedély kérelem, illetve bejelentés esetén legalább 10 fő, térségi, keskeny nyomtávolságú vasút, múzeumvasút által végzett tevékenységre vonatkozó, továbbá iparvágányi és saját célú működési engedély, illetve bejelentés esetén legalább 1 fő károsulttal kell számolni,
+
+PML2 = Az a lehetséges legnagyobb dologi kár (forint), ami a tevékenység következtében maximumként bekövetkezhet. A dologi kár meghatározásánál figyelembe kell venni, hogy a vasúti baleset folytán megsérülhetnek különféle épületek, építmények (pl. híd, vasúti pálya és tartozékai, lakóházak, alagút, földcsere stb.).
+
+A katasztrófa-balesetek fedezeti összeghatárának igazolásakor csak az általános vasúti balesetek fedezeti összeghatára fedezettel igazolt része feletti részt kell igazolni.
+
+## 2. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^31]
+
+**Kockázatértékelési adatlap**
+
+**Országos, elővárosi, helyi, városi, térségi személyszállítási működési engedélyhez a kizárólag az iparvágányon vagy saját célú pályahálózaton végzett személyközlekedtetéshez, valamint a keskeny nyomtávolságú vasút, múzeumvasút által és függővasúton végzett személyszállításhoz**[^32]\
+A. Személyszállítási vagy személyközlekedtetési tevékenység minőségben harmadik személynek okozott vasúti baleseti károk és bekövetkezett személyi károk
+
+1\. Személyszállítási vagy személyközlekedtetési tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és bekövetkezett személyi károk évenként.
+
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
+
+A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét érintő károk mértékét (beleértve a környezetszennyezési felelősségi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és bekövetkezett személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
+
+2\. Személyszállítási vagy személyközlekedtetési tevékenység minőségben harmadik személynek okozott átlagos és legnagyobb vasúti baleseti kár és személyi kár értékei az elmúlt három évben.
+
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni vonatok száma (db), vonatkilométer (ezer vkm), harmadik személynek okozott kár és személyi kár (db), szállított utasok száma (fő), összes utaskm (ezer utaskm), összes férőhely-km (ezer fhkm), harmadik személynek okozott átlag kár és személyi kár (forint), harmadik személynek okozott legnagyobb kár és személyi kár (forint), harmadik személynek kifizetett éves összes kár és személyi kár (forint) bontásban.
+
+B. Személyszállítási vagy személyközlekedtetési tevékenység adatai a tárgyévre és a következő évre vonatkoztatva
+
+Az adatokat a tárgyév és a következő év tekintetében kell megadni a várható vonatok száma (db), a várható vonat kilométer (ezer vkm), a várható szállított utasok száma (fő), a várható összes utaskm (ezer utaskm), a várható összes férőhely-km (ezer fhkm), a várható harmadik személynek okozható kár és személyi kár (db), a harmadik személyeknek várható összes éves kifizetés (Ft), valamint a harmadik személyeknek okozott várható átlagos kár és személyi kár (Ft) bontásban.
+
+C. Lehetséges legnagyobb kár és személyi kár becslése
+
+Harmadik személynek okozott vasúti baleseti katasztrófa (tömegbaleset) következtében egy káresetből várható legnagyobb kár és személyi kár.
+
+Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
+
+## 3. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^33]
+
+**Kockázatértékelési adatlap**
+
+**Országos, elővárosi, térségi, helyi és városi árutovábbítási engedélyhez, valamint a kizárólag az iparvágányon, saját célú pályahálózaton végzett áruszállításhoz vagy keskeny nyomtávolságú vasút által és függővasúton végzett áruszállításhoz, illetve árufuvarozáshoz**[^34]\
+A. Árutovábbítási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk
+
+1\. Árutovábbítási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk évenként.
+
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
+
+A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét érintő károk mértékét (beleértve a környezetszennyezési felelősségi károkat és személyi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
+
+2\. Árutovábbítási tevékenység minőségben harmadik személyeknek vasúti balesetben okozott átlagos és legnagyobb kár, valamint személyi kár értékei az elmúlt három évben.
+
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni vonatok száma (db), vonatkilométer (ezer vkm), harmadik személynek okozott kár és személyi kár (db), összes árutonna-km (ezer átkm), harmadik személynek okozott átlag kár és személyi kár (forint), harmadik személynek okozott legnagyobb kár és személyi kár (forint), harmadik személynek kifizetett éves összes kár és személyi kár (forint) bontásban.
+
+B. Árutovábbítási tevékenység adatai a tárgyévre és a következő évre vonatkoztatva
+
+Az adatokat a tárgyév és a következő év tekintetében kell megadni a várható vonatok száma (db), a várható vonatkilométer (ezer vkm), a várható összes árutonnakm (ezer átkm), a várható harmadik személynek okozható kár és személyi kár (db), a harmadik személyeknek várható összes éves kifizetés (forint), valamint a harmadik személyeknek okozott várható átlagos kár és személyes kár (forint) bontásban.
+
+A tárgyévi és a következő évi szállítandó áru veszélyesség szerinti megoszlása árutonna-kilométer alapján
+
+Az adatokat a tárgyév és a következő év tekintetében veszélyes, illetve nem veszélyes áru bontásban, valamint összesítve kell megadni. Az adatokat árutonna-kilométerben és %-os formában is meg kell adni, úgy, hogy a veszélyes és nem veszélyes áru összegeként kapott összes szállítandó áru 100%-ot tegyen ki.
+
+C. Lehetséges legnagyobb kár és személyi kár becslése
+
+Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) következtében egy káresetből várható legnagyobb kár és személyi kár.
+
+Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
+
+## 4. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^35]
+
+**Kockázatértékelési adatlap**
+
+**Vontatási szolgáltatás nyújtására jogosító országos, elővárosi, térségi, helyi és városi működési engedélyhez, valamint kizárólag az iparvágányon, saját célú pályahálózaton végzett vontatáshoz**[^36]\
+A. Vontatási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és bekövetkezett személyi károk
+
+1\. Vontatási tevékenység minőségben harmadik személyeknek vasúti balesetben okozott károk és személyi károk évenként.
+
+Az adatokat az engedély iránti kérelem benyújtását, illetve a bejelentés megtételét megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
+
+A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét érintő károk mértékét (beleértve a környezetszennyezési felelősségi károkat és személyi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
+
+2\. Vontatási tevékenység minőségben harmadik személyeknek vasúti balesetben okozott átlagos és legnagyobb kár és személyi kár értékei az elmúlt három évben.
+
+Az adatokat az engedély iránti kérelem benyújtását, illetve a bejelentés megtételét megelőző három év tekintetében kell megadni vonatok száma (db), vonatkilométer (ezer vkm), harmadik személynek okozott kár és személyi kár (db), mozdonyok száma (db), harmadik személynek okozott átlagos kár és személyi kár (forint), harmadik személynek okozott legnagyobb kár és személyi kár (forint), harmadik személynek kifizetett éves összes kár és személyi kár (forint) bontásban.
+
+B. Vontatási tevékenység adatai a tárgyévre és a következő évre vonatkoztatva
+
+Mozdonyok várható száma: A mozdonyok várható számát (db) a tárgyév és a következő év tekintetében kell megadni.
+
+C. Lehetséges legnagyobb kár és személyi kár becslése
+
+Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) következtében egy káresetből várható legnagyobb kár és személyi kár a mai viszonyokra vetítve.
+
+Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat ezer forintban kell megadni.
+
+## 5. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^37]
+
+**Kockázatértékelési adatlap**
+
+**Pályahálózat működtetéshez**\
+A. Pályahálózat-működtetői minőségben harmadik személynek okozott vasúti baleseti károk és bekövetkezett személyi károk
+
+1\. Pályahálózat-működtetői minőségben harmadik személyeknek vasúti balesetben okozott károk és személyi károk évenként.
+
+Az adatokat a bejelentés megtételét megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
+
+A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét érintő károk mértékét (beleértve a környezetszennyezési felelősségi károkat és személyi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
+
+2\. Pályahálózat-működtetői minőségben harmadik személyeknek vasúti balesetben okozott átlagos és legnagyobb kár, valamint személyi kár értéke az elmúlt három évben.
+
+Az adatokat a bejelentés megtételét megelőző három év tekintetében kell megadni harmadik személynek okozott kár és személyi kár (db), harmadik személynek okozott átlagos kár és személyi kár (forint), harmadik személynek okozott legnagyobb kár és személyi kár (forint), valamint harmadik személynek kifizetett éves összes kár és személyi kár (forint) bontásban.
+
+B. Pályahálózat-működtetői tevékenység adatai a tárgyévre és a következő évre vonatkoztatva
+
+Az adatokat a tárgyév és a következő év tekintetében kell megadni a vasúti pályahálózat építési hossza (km), a nyílt hozzáférésű vasúti pályahálózat hossza (km), az országos törzshálózatba tartozó vasúti pályahálózat hossza (km), az útátjárók száma (db), állomások és megállóhelyek száma (db), a villamos vontatásra alkalmas pálya építési hossza (km), metró és földalatti vasúti pálya építési hossza (km), valamint a vasúti hidak száma (db) bontásban. Az útátjárók és a vasúti hidak számát helyi és városi pályahálózat-működtetési tevékenység esetén nem kell megadni.
+
+Meg kell adni továbbá a tárgyév és a következő év tekintetében a várható harmadik személynek okozható kár és személyi kár darabszámát (db), a harmadik személynek várható összes éves kifizetést (forint), valamint a harmadik személynek várhatóan okozott kár és személyi kár átlagos összegét (forint).
+
+C. Lehetséges legnagyobb kár és személyi kár becslése
+
+Harmadik személynek okozott vasúti baleseti katasztrófa (tömegbaleset) következtében egy káresetből várható legnagyobb kár és személyi kár a mai viszonyokra vetítve.
+
+Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
+
+---
+
+[^1]: Az 1. § a 304/2011. (XII. 23.) Korm. rendelet 30. §-a, az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés a) pontja, a 193/2016. (VII. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a) pontja a 193/2016. (VII. 13.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § (2a) bekezdését a 193/2016. (VII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 4. § (3) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^7]: A 4. § (4) bekezdését a 160/2008. (VI. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 571. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés b) pontja a 304/2011. (XII. 23.) Korm. rendelet 30. §-a, a 193/2016. (VII. 13.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^10]: A 6. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdés b) pontja a 328/2013. (IX. 3.) Korm. rendelet 4. §-ával megállapított, a 193/2016. (VII. 13.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés c) pontja a 193/2016. (VII. 13.) Korm. rendelet 9. § e) pontja, az 516/2017. (XII. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^13]: A 6. § (1) bekezdés d) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^14]: A 6. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^15]: A 6. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^16]: A 7. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés f) pontja szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdés nyitó szövegrésze az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés e) pontja, a 193/2016. (VII. 13.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^18]: A 7. § (2) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés g) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés h) pontja szerint módosított szöveg.
+[^20]: A 7. § (3) bekezdését a 193/2016. (VII. 13.) Korm. rendelet 4. §-a iktatta be.
+[^21]: A 8. § (1) bekezdés a) pontja a 193/2016. (VII. 13.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 722/2020. (XII. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés e) pontja szerint módosított szöveg.
+[^23]: A 8. § (2) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 195. §-a iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^26]: A 11. § a 160/2008. (VI. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A 11/A. §-t a 193/2016. (VII. 13.) Korm. rendelet 6. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2016. július 28.
+[^29]: A 12. § a 193/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^31]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^32]: A 2. melléklet címe az 516/2017. (XII. 29.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^33]: A 3. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 3. melléklet címe az 516/2017. (XII. 29.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^35]: A 4. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 4. melléklet címe az 516/2017. (XII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^37]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

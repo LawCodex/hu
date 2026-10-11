@@ -1,0 +1,341 @@
+---
+title: "30/2003. (III. 18.) Korm. rendelet a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről"
+identifier: "30/2003. (III. 18.) Korm. rendelet"
+njt_id: "2003-30-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/30"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-03-18
+in_force_from: 2010-01-01
+last_amended: 2021-05-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-30-20-22"
+retrieved: 2026-10-12
+---
+
+# 30/2003. (III. 18.) Korm. rendelet a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről
+
+A víziközlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 88. §-a (1) bekezdésének *g)* és *h)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## Közlekedési korlátozás alá eső területek
+
+### 1. §
+
+A Vkt. 58. §-ának (1) bekezdésében felsorolt vízterületeken belső égésű motorral hajtott kishajót és csónakot – a Vkt. 58. §-ának (3) bekezdésében foglalt kivételekkel – üzemeltetni tilos.
+
+## Közlekedési korlátozások a Ráckevei Duna-ágban
+
+### 2. §[^1]
+
+(1)[^2] A Ráckevei Duna-ágban
+
+a) a jobb parti ágakban (Csepel-szigeti oldal)
+
+aa) a 24,5 fkm[^3]-től a 32,5 fkm (Opera-, Sóskás-, Ráfás-, és Csupi-szigetek),
+
+ab) a 38 fkm-től a 40 fkm-ig,
+
+ac) a 45 fkm-től a 46,5 fkm-ig (Czuczor-sziget),
+
+b) a bal parti ágakban (Ráckevei oldal)
+
+ba) a 35 fkm-től a 36 fkm-ig (Dunavarsányi úszóláp),
+
+bb) a 40 fkm-től a 43 fkm-ig (Taksonyi-sziget és a hokonyok[^4])
+
+belső égésű motorral hajtott kishajó és csónak üzemeltetése – a korlátozás alá nem eső területekre való megállás nélküli áthaladás, valamint a korlátozás alá eső területeken lévő, a kishajó és a csónak tartós tárolására szolgáló telephelyre való legrövidebb úton történő ki- és behajózás kivételével – tilos.
+
+(2) A Ráckevei Duna-ágban belső égésű motorral hajtott kishajó és csónak
+
+a) a 10 fkm-től a 11,5 fkm-ig (Dömsödi rév) tartó szakaszon,
+
+b) a 24,5 fkm-től a 32,5 fkm-ig tartó szakaszon az Opera-, Sóskás-, Ráfás- és Csupi-szigetek bal oldali ágán,
+
+c) a 35 fkm-től a 36 fkm-ig tartó szakaszon a Dunavarsányi úszóláp jobb oldali ágán,
+
+d) a 38 fkm-től a 43 fkm-ig tartó szakaszon, a Ráckevei Duna-ág Ráckevei oldalán,
+
+e) a 45 fkm-től a 46,5 fkm-ig tartó szakasz bal oldalán (Dunaharaszti, M0-ás híd közötti szakaszon)
+
+hullámkeltés és szívóhatás okozása nélkül legfeljebb 5 km/h sebességgel haladhat át.
+
+(3) A Ráckevei Duna-ág teljes szakaszán 21<sup>00</sup> és 6<sup>00</sup> óra között – szolgálati kisgéphajó és mentőmotoros kivételével – belső égésű motorral hajtott kishajó és csónak, továbbá motoros vízi sporteszköz használata tilos.
+
+(4) Belső égésű motorral hajtott kishajó és csónak – szolgálati kisgéphajó és mentőmotoros kivételével – a Ráckevei Duna-ágnak az (1) és (2) bekezdésben nem említett szakaszain legfeljebb a parthoz viszonyított 15 km/h sebességgel közlekedhet, továbbá a kikötőhelyet legfeljebb 5 km/h sebességgel hagyhatja el, illetve közelítheti meg.
+
+## Közlekedési korlátozások a Tisza-tavon
+
+### 3. §[^5]
+
+(1) A Hortobágyi Nemzeti Parknak a Tisza-tóra eső területrészein a vízi közlekedés 4 kW-nál nagyobb teljesítményű belső égésű motorral hajtott kishajóval és csónakkal – a (3) és (4) bekezdésben foglalt kivételekkel – tilos.
+
+(2) Tilos belső égésű motor használata az Óhalászi-holtág, a Porong tava, az Ispán tava, a Hód, a Gaznyilas és a Partos fenék elnevezésű területeken.
+
+(3) Az (1)–(2) bekezdésben meghatározott korlátozások nem terjednek ki:
+
+a) a Tisza fő medrére,
+
+b) a tiszavalki kikötőből a IX. öblítő csatornán keresztül a Tisza fő medrébe vezető útvonalra,
+
+c) a Füredi-Holt-Tiszától a X. öblítő csatornán keresztül a Tisza fő medrébe vezető útvonalra,
+
+d) a Hortobágyi Nemzeti Park Igazgatóság által kijelölt túraútvonalakra.
+
+(4) A (3) bekezdés *d)* pontjában megjelölt túraútvonalakon belső égésű motorral hajtott kishajó és csónak csak a Hortobágyi Nemzeti Park Igazgatóság által kiadott ökotúra-vezetői jogosítvány birtokában kaphat – legfeljebb 15 kW teljesítményig – üzemeltetési engedélyt. Az ökotúra-vezetői jogosítvány a hajózási hatóság által kiadott üzemeltetési engedéllyel együtt jogosít a (3) bekezdés *d)* pontjában megjelölt túraútvonalakon való közlekedésre.
+
+## Belső égésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használata korlátozás alá eső területen
+
+### 4. §
+
+(1) Korlátozás alá eső területen – a Vkt. 58. § (3) bekezdésének *a)–d)* pontjában felsorolt szervezetek belső égésű motorral hajtott szolgálati kishajóit és csónakjait kivéve – belső égésű motorral hajtott kishajó és csónak csak a hajózási hatóság által kiadott üzemeltetési engedéllyel[^6] közlekedhet.
+
+(2) A Ráckevei Duna-ágnak a 2. § (1) bekezdésében említett szakaszain az üzemeltetési engedéllyel rendelkező kishajó és csónak a kijelölt hajóúton és legfeljebb parthoz viszonyított 15 km/h sebességgel közlekedhet, továbbá a kikötőhelyet legfeljebb 5 km/h sebességgel hagyhatja el, illetve közelítheti meg.
+
+(3) Korlátozás alá eső területen motoros vízi sporteszközt használni tilos.
+
+## A korlátozás alá eső területre kiadható üzemeltetési engedély
+
+### 5. §[^7]
+
+A vitorlás kishajó belső égésű segédmotorját – üzemeltetési engedély hiányában – kizárólag a következő esetekben használhatja:
+
+a) kikötőben és annak 300 m-es körzetében,
+
+b) Balatonon a Tihanyrév–Szántód között közlekedő komp útvonalán és a mellette húzódó 300–300 m széles vízterületen,
+
+c) sürgős orvosi ellátás, segítségnyújtás szükségessége és baleset esetén,
+
+d) viharjelzés esetén kizárólag a legközelebbi kikötőbe történő behajózásig, továbbá
+
+e) ha a szél ereje nem éri el a Beaufort-skála szerinti 1. szélerősséget, kizárólag a legközelebbi kikötőbe történő behajózásig.
+
+### 5/A. §[^8]
+
+(1)[^9] Az üzemeltetési engedélyt a hajózási hatóság a következő esetekben adja meg:
+
+a) tavon közlekedő vagy a hajózási hatóság engedélyével vízimunkát végző belvízi nagyhajó vagy úszómunkagép munkavégzését, tevékenységét kiszolgáló belső égésű motorral hajtott kishajójára vagy csónakjára, továbbá az Országos Mentő Szolgálat belső égésű motorral hajtott kishajójára. A belső égésű motorral hajtott kishajó vagy csónak a következő korlátozásokkal használható:
+
+aa) rendkívüli eseménynél (beleértve a mentési eseményt),
+
+ab) tavon munkát végző úszómunkagép biztonságos tevékenységére, kiszolgálására, személyzet szállítására, jelek és eszközök kihelyezésére, felszedésére;
+
+b)[^10] tavon kikötőhellyel rendelkező vitorlás sportszervezet tulajdonában lévő, tíz kísért egységenként egy kísérő motorosra, valamint a Velencei-tavon kikötőhellyel vagy a Velencei-tavon a nemzetközi kajak-kenu és a nemzetközi evezős szövetség versenyekre vonatkozó előírásainak megfelelő zárt kajak-kenu, evezős versenypályával rendelkező, vagy azt használó kajak-kenu, evezés vagy állva evezés (a továbbiakban: SUP) sportágban tevékenykedő sportszervezet üzemeltetésében lévő, tíz kísért egységenként egy kísérő motorosra, ha az
+
+ba) szervezett oktatáson, edzésen vagy az országos sportági szakszövetség által meghirdetett és hatóságilag engedélyezett versenyen részt vevő nem tőkesúlyos vitorlás csónakokat vagy nem tőkesúlyos vitorlás kishajókat, továbbá kajakot, kenut, evezős csónakot vagy SUP-ot, illetve vitorlás vízi sporteszközöket kísér, vagy rendezői feladatot lát el, vagy
+
+bb) az országos sportági szakszövetség által szervezett és meghirdetett, az illetékes hatóság által engedélyezett vitorlás kishajók kajakok, kenuk vagy evezős sportcsónakok vagy SUP-ok részvételével zajló nemzetközi rendezvényen a hivatalos edzésnapok és a verseny időtartamára lát el kísérő motoros feladatot;
+
+c) tavon kikötőhellyel rendelkező országos gyermekszervezet tulajdonában lévő, tíz kísért egységenként egy kísérő motorosra, ha az szervezett oktatáson vagy túrán nem tőkesúlyos vitorlás csónakokat vagy nem tőkesúlyos vitorlás kishajókat, illetve vitorlás vízi sporteszközöket kísér;
+
+d)[^11] kikötő, vízi sportpálya, valamint vízi repülőtér üzemeltetőjének három belső égésű motorral hajtott kishajójára az üzemeltetési feladatok ellátására a létesítmény 300 m-es körzetében, továbbá, ha a létesítmény a parttól 300 méternél távolabb helyezkedik el, akkor a közelebbi part és a létesítmény közti legrövidebb útvonalra;
+
+e)[^12] egy rendezvényre arra a belső égésű motorral hajtott kísérő vagy mentőmotorosra, amely a tavon kikötőhellyel nem rendelkező vitorlás, illetve egyéb sportszervezet, szövetség tulajdonában van, amennyiben a szervező egyesület vagy szövetség az általa rendezett és hatóságilag engedélyezett vitorlásversenyen, vízi rendezvényen nem tud a rendezvény engedélyében meghatározott számú, a vízterületre hatályos üzemeltetési engedéllyel rendelkező kísérő vagy mentőmotorost biztosítani;
+
+f) tógazdálkodással és víziút-fenntartással összefüggő feladatot végző belső égésű motorral hajtott kishajóra és csónakra;
+
+g) bejegyzett vízi mentőegyesület útvonalengedéllyel közlekedő vízi mentőszolgálatot végző mentőmotorosára,
+
+h) közforgalmú személyszállítást végző belső égésű motorral hajtott kishajóra vagy motorcsónakra;
+
+i) hivatásos hajósképzést és vizsgáztatást végző belső égésű motorral hajtott kishajóra vagy csónakra.
+
+(2)[^13] Az üzemeltetési engedély kiadásának részletes feltételeit – a (3) és (4) bekezdésben foglaltak figyelembevételével – e rendelet melléklete tartalmazza.
+
+(3)[^14] Ha a kérelmező a tógazdálkodással, illetve víziút-fenntartással összefüggő feladatokat ellátó, termelési célú motoros kishajóra vonatkozó üzemeltetési engedély iránti kérelemhez a cégbírósági bejegyzésének igazoló okiratát vagy vállalkozói igazolványának másolatát, vagy egyéni vállalkozói nyilvántartási számát nem csatolja, a hajózási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a cégnyilvántartást vezető szervet.
+
+(4)[^15] Ha a kérelmező
+
+a) a vitorlázás, a kajak-kenu, az evezés vagy SUP sportágban tevékenykedő sportszervezetek motoros kishajójára vonatkozó üzemeltetési engedély iránti kérelemhez a sportszervezet bejegyzését igazoló bírósági végzést,
+
+b) az országos gyermekszervezet motoros kishajójára vonatkozó üzemeltetési engedély iránti kérelemhez az országos gyermekszervezet bejegyzését igazoló bírósági végzést,
+
+c) a bejegyzett vízi mentő egyesület által üzemeltetett mentőmotorosra vonatkozó üzemeltetési engedély iránti kérelemhez a vízi mentő egyesület bírósági nyilvántartásba vételéről kiadott igazolást,
+
+d) a bejegyzett sportszervezet által üzemeltetett motorosra vonatkozó üzemeltetési engedély iránti kérelemhez az adott sportág hazai országos sportági szakszövetsége által a tagszervezeti nyilvántartásba vételről és a vízfelület sportcélú igénybevételére kiadott igazolást vagy
+
+e) a tavon zárt vízi sportpálya sportcélú igénybevételéről az azt üzemeltető központi költségvetési szerv igazolását
+
+nem csatolja, a hajózási hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi a nyilvántartást vezető szervet.
+
+### 6. §
+
+(1)[^16] Az üzemeltetési engedély iránti kérelmet a hajózási hatósághoz kell benyújtani.
+
+(2)[^17] A 3. § (4) bekezdésének *c)* pontjában megjelölt útvonalra szóló üzemeltetési engedély iránti kérelemhez a Hortobágyi Nemzeti Park Igazgatósága által kiadott ökotúra-vezetői engedélyt mellékelni kell.
+
+(3)[^18] Üzemeltetési engedély – a (4) bekezdésben foglalt kivétellel – legfeljebb 2 évig, illetve, amennyiben az üzemképesség időszakos felülvizsgálatára megszabott határidő előbb jár le a határidő lejártáig vagy a hajózási engedélyhez kötött tevékenység esetében a hajózási engedély időbeli hatályának lejártáig hatályos. Az üzemképesség időszakos felülvizsgálatára, illetve a hajózási engedély hatályának meghosszabbítására irányuló eljárással egyidejűleg az üzemeltetési engedély iránti kérelem is előterjeszthető.[^19] A környezetvédelmi normák megjelenéséig az üzemeltetési engedélyt évenként meg kell hosszabbítani.
+
+(4)[^20] A díj ellenében történő személyszállításra szolgáló, de személyhajónak nem minősülő belső égésű motorral hajtott belvízi kishajónál az üzemeltetési engedély az üzemképesség időszakos felülvizsgálatáig vagy a hajózási engedély időbeli hatályának lejártáig hatályos. Az üzemképesség felülvizsgálatára, illetve a hajózási engedély hatályának meghosszabbítására irányuló eljárással egyidejűleg az üzemeltetési engedély iránti kérelem is előterjeszthető.
+
+(5)[^21] Az üzemeltetési engedéllyel rendelkező vízijármű motorhasználatáról a hajózási hatóság által hitelesített motornaplót kell vezetni, amelyben fel kell tüntetni a motorhasználat kezdetét és végét, továbbá annak célját. A motornaplót az illetékes hatóságok felszólítására be kell mutatni.
+
+## Korlátozás alá eső területen a vízi mentőszolgálatra vonatkozó szabályok
+
+### 7. §
+
+(1) Vízi mentőszolgálat mentőmotorosként csak a hajózási hatóság által annak minősített belső égésű motorral hajtott vízijárművet használhat.
+
+(2) A mentőmotoros vezetését csak arra kiképzett, kisgéphajóvezető képesítéssel vagy a vízijármű kategóriájának megfelelő hivatásos belvízi hajózási képesítéssel rendelkező személy végezheti.
+
+(3) Vízi mentőszolgálatot ellátó mentőmotoros csak a vízirendészet rendőri szervének, az Országos Mentőszolgálatnak vagy saját figyelőszolgálatának a riasztására közlekedhet. Saját riasztás kizárólag konkrét mentési feladatra adható ki. A saját riasztásra történő mentési feladat megkezdését haladéktalanul be kell jelenteni a vízirendészet rendőri szervének, amely dönt az esemény kezelésének további módjáról. A riasztást a motornaplóba be kell jegyezni, amely egyben útvonalengedélyként is szolgál. Minden egyéb esetben (pl. megelőző tevékenység) kizárólag a vízirendészet rendőri szervének felkérése, illetve engedélye alapján közlekedhetnek vízi mentőszolgálatot ellátó motorosok.
+
+(4) Vízen történő mentésben vagy megelőző tevékenységben, kizárólag arra kiképzett egyesületi tag, orvos vagy hivatásos belvízi hajózási képesítéssel rendelkező személy vehet részt.
+
+## Záró rendelkezések
+
+### 8. §[^22]
+
+Ez a rendelet kihirdetése napján lép hatályba.
+
+### 9. §[^23]
+
+E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet és a vízi közlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló 30/2003. (III. 18.) Korm. rendelet módosításáról szóló 110/2010. (IV. 9.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+### 10. §
+
+(1)[^24]
+
+(2)[^25] Az e rendelet hatálybalépését megelőzően kiadott üzemeltetési engedéllyel rendelkező vízijárművek az engedély időbeli hatályának lejártáig a kiadott engedélyben meghatározott feltételekkel használhatók.
+
+(3)[^26]
+
+## Melléklet a 30/2003. (III. 18.) Korm. rendelethez
+
+**Az üzemeltetési engedély kiadásának részletes feltételei**
+
+Az üzemeltetési engedély kiadásához az egyes tevékenységektől függően – az eljárási díj befizetésének igazolásán túl – a kérelem benyújtásához az alábbi okmányok és igazolások csatolása, illetve feltételek teljesítése szükséges:[^27]
+
+1\. Közforgalmú személyszállítás esetében:
+
+a)[^28]
+
+b) a tevékenység végzéséhez a hajózási hatóság által utasok rendeltetésszerű szállítására alkalmasnak nyilvánított, legalább 9 méter testhosszúságú hajót lehet használni,
+
+c)[^29] menetrendben, meghatározott útvonalon és időtartamban, legalább június 30-tól augusztus 31-ig, heti 5 napon át, napi 8 óra közforgalmú személyszállítási szolgáltatást valósít meg.
+
+d)[^30] nyilatkozat arról, hogy nem képezi a személyszállítási szolgáltatás részét a hajóval végrehajtott, közlekedésbiztonsági vagy forgalmi okból nem indokolt – hirtelen, a megszokottnál gyorsabban végrehajtott fordulási, megállási, kitérési, irány- vagy sebességváltoztató – manőverek bemutatása.
+
+2.[^31] Vitorlás, kajak-kenu, evezős vagy SUP sportszervezet motoros kishajója esetében:
+
+a)[^32] a vitorlás, kajak-kenu, evezős vagy SUP sportszervezet bejegyzését igazoló bírósági végzés hiteles másolata,
+
+b)[^33] a vitorlás, kajak-kenu, evezős vagy SUP sportegyesület elnöke vagy a sportvállalkozás vezető tisztségviselője és a leltározó bizottság által aláírt hivatalos záró leltár, amelyben a sportszervezet vitorlás kishajói, vitorlás csónakjai és vitorlás vízi sporteszközei, kajakjai, kenui vagy evezős sportcsónakjai vagy SUP eszközei lajstromszámmal vagy annak hiányában egyedi azonosító jellel, számmal vagy leltári azonosítókkal szerepelnek,
+
+c)[^34] a vitorlás, kajak-kenu, evezős vagy SUP sportszervezet záró leltárában szereplő vitorlás kishajók hatályos hajóokmányainak száma,
+
+d)[^35] a saját kikötő vagy kikötőhely meglétét tanúsító igazolás, amely lehet a kikötőüzemeltetési engedély száma, továbbá bérelt kikötőrész esetén a bérleti szerződés, továbbá kajak-kenu vagy evezős vagy SUP sportszervezet esetén a kérelmező üzemeltetésében vagy használatában lévő, zárt kajak-kenu vagy evezős sportpálya hatályos üzemeltetési engedélye vagy hatályos üzemeltetési engedélyének száma vagy a sportpálya használatára fennálló jogosultságot tanúsító, a sportpálya üzemeltetője által kiállított igazolás,
+
+e) sportvállalkozás esetében az érvényes hajózási engedély száma,
+
+f) a sportszervezet részéről a kifutást engedélyező személy vagy személyek neve.
+
+3.[^36] Tavon kikötővel vagy kikötőhellyel nem rendelkező vitorlás, kajak-kenu, evezős vagy SUP sportszervezetnek a hatóságilag engedélyezett versenyen részt vevő motoros kishajójára:
+
+a) a versenyrendező nyilatkozata, amelyben igazolja, hogy igényli a versenyen részt vevő szervezet motoros kishajójának részvételét,
+
+b)[^37] a vitorlás, kajak-kenu, evezős vagy SUP sportszervezet záró leltárában szereplő – az adott vízterületre alkalmasnak minősített – motoros kishajó azonosítására alkalmas adatok (nyilvántartási szám, lajstromszám).
+
+4\. Országos gyermekszervezet motoros kishajója esetében:
+
+a) az országos gyermekszervezet bejegyzését igazoló bírósági végzés hiteles másolata,
+
+b)[^38] a vízicsapat vezetőjének és a leltározó bizottság által aláírt hivatalos záró leltár, amelyben a vízicsapat vitorlás kishajói, vitorlás csónakjai, kajakjai, kenui, evezős sportcsónakjai vagy SUP eszközei vagy vitorlás vízi sporteszközei fel vannak tüntetve,
+
+c)[^39] a vízi csapat záró leltárában szereplő vitorlás kishajó azonosítására alkalmas adatok (hajótest száma, motorszám, motortípus),
+
+d)[^40] a saját kikötő vagy kikötőhely meglétét tanúsító igazolás, amely lehet a kikötőüzemeltetési engedély száma, továbbá bérelt kikötőrész esetén a bérleti szerződés,
+
+e)[^41] a vízi csapat záró leltárában szereplő – az adott vízterületre alkalmasnak minősített – motoros kishajó azonosítására alkalmas adatok (hajótest száma, motorszám, motortípus),
+
+f) a vízicsapat részéről a kifutást engedélyező személy vagy személyek neve.
+
+5.[^42]
+
+6\. Tógazdálkodással, illetve víziút-fenntartással összefüggő feladatokat ellátó, termelési célú motoros kishajóra:
+
+a)[^43]
+
+b)[^44] a kérelmező hatályos cégbírósági bejegyzésének igazoló okirata vagy az alapító okirat, amelyben a tevékenységi kör felsorolása szerepel,
+
+c)[^45] az érvényben lévő társasági szerződés, egyéni vállalkozó esetében vállalkozói igazolvány másolata vagy egyéni vállalkozói nyilvántartási száma,
+
+d)[^46]
+
+7\. Bejegyzett vízimentő egyesület által üzemeltetett mentőmotorosra:
+
+a) az adott évben kiadott igazolás a kérelmező vízimentő egyesület bírósági nyilvántartásba vételéről,
+
+b)[^47] a vízimentő egyesület hatályos szervezeti és működési szabályzata,
+
+c)[^48] a vízimentő egyesület hatályos hajózási engedélyének száma,
+
+d) a kérelmező vízimentő egyesület és az adott vízterületen vízirendészeti feladatokat ellátó hatóság között létrejött, érvényes együttműködési megállapodás,
+
+e) az egyesületben szolgálatot teljesítő egyesületi tagok és a vízimentő egyesület között létrejött megállapodás (az egyesületi tagság igazolása) és a tagnyilvántartás dokumentumai,
+
+f)[^49] a kérelmezett, az egyesület vagy egyesületi tag tulajdonában lévő és az adott vízterületre alkalmasnak minősített, motoros kisgéphajó hatályos hajóokmányának másolata,
+
+g) az egyesület által kiadott és az adott vízterületen működő mentőmotorosok konkrét működési körzeteit meghatározó, valamint a riasztási rendet rögzítő utasítás.
+
+8\. Hivatásos képzésben üzemeltetett motoros kishajóra:
+
+a)[^50] az hatályos hajózási engedély száma,
+
+b)[^51] a kérelmező tulajdonában lévő, és az adott vízterületre alkalmasnak minősített, motoros kisgéphajó hatályos hajóokmányának száma,
+
+c) a hajózási hatóság által kiadott képzési engedély száma.
+
+---
+
+[^1]: A 2. § a 150/2004. (V. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés záró szövegrésze a 37/2015. (III. 6.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: A Ráckevei Duna-ágban a Duna főágába csatlakozás helyétől folyásirányban szemben mért távolság (fkm – folyamkilométer).
+[^4]: Részben vegetációval borított homokzátonyok.
+[^5]: A 3. § a 110/2010. (IV. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: A víziközlekedésről szóló 2000. évi XLII. törvény 58. §-ának (3) bekezdése.
+[^7]: Az 5. § a 76/2003. (V. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 5/A. §-t a 76/2003. (V. 28.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^9]: Az 5/A. § (1) bekezdésének bevezető mondata a 340/2004. (XII. 22.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 30. §-ának (1) bekezdése alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^10]: Az 5/A. § (1) bekezdés b) pontja a 223/2021. (V. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5/A. § (1) bekezdés d) pontja a 223/2021. (V. 3.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^12]: Az 5/A. § (1) bekezdésének e) pontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a, a 37/2015. (III. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^13]: Az 5/A. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: Az 5/A. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 288. § (2) bekezdése iktatta be, szövege a 308/2009. (XII. 28.) Korm. rendelet 7. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^15]: Az 5/A. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 288. § (2) bekezdése iktatta be, szövege a 223/2021. (V. 3.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^16]: A 6. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 101. §-a szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 227/2005. (X. 13.) Korm. rendelet 24. §-ával megállapított szöveg. E módosító rendelet 29. § (2) bekezdése alapján a rendelkezést a 2005. november 1. napja után indult ügyekben és a megismételt eljárásban kell alkalmazni.
+[^18]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról 13/2001. (IV. 10.) KöViM rendelet 6. § (1) bekezdése.
+[^20]: A 6. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 6. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 101. §-a szerint módosított szöveg.
+[^22]: A 8. § a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja szerint módosított szöveg.
+[^23]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja hatályon kívül helyezte, újonnan a 110/2010. (IV. 9.) Korm. rendelet 9. §-a iktatta be.
+[^24]: A 10. § (1) bekezdését a 722/2020. (XII. 31.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^25]: A 10. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 10. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 876. pontja hatályon kívül helyezte.
+[^27]: A melléklet bevezető szövegrésze 182/2009. (IX. 10.) Korm. rendelet 290. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A melléklet 1. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 290. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A Melléklet 1. pont c) alpontja a 722/2020. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A Melléklet 1. pont d) alpontját a 722/2020. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A melléklet 2. pontja a 37/2015. (III. 6.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^32]: A mellékelt 2. pont a) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^33]: A melléklet 2. pont b) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^34]: A mellékelt 2. pont c) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^35]: A melléklet 2. pont d) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^36]: A melléklet 3. pontja a 37/2015. (III. 6.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^37]: A mellékelt 3. pont b) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^38]: A mellékelt 4. pont b) alpontja a 223/2021. (V. 3.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^39]: A melléklet 4. pontjának c) alpontja a 182/2009. (IX. 10.) Korm. rendelet 288. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A melléklet 4. pontjának d) alpontja a 182/2009. (IX. 10.) Korm. rendelet 288. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A melléklet 4. pontjának e) alpontja a 182/2009. (IX. 10.) Korm. rendelet 288. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A melléklet 5. pontját a 182/2009. (IX. 10.) Korm. rendelet 290. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A melléklet 6. pontjának a) alpontját a 182/2009. (IX. 10.) Korm. rendelet 290. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A melléklet 6. pontjának b) alpontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A melléklet 6. pont c) alpontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^46]: A melléklet 6. pontjának d) alpontját a 182/2009. (IX. 10.) Korm. rendelet 290. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A melléklet 7. pontjának b) alpontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^48]: A melléklet 7. pontjának c) alpontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: A melléklet 7. pontjának f) alpontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^50]: A melléklet 8. pontjának a) alpontja a 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^51]: A melléklet 8. pontjának b) alpontja 182/2009. (IX. 10.) Korm. rendelet 289. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

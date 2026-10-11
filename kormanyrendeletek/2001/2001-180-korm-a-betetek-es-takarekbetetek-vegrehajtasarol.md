@@ -1,0 +1,203 @@
+---
+title: "180/2001. (X. 4.) Korm. rendelet a betétek és takarékbetétek végrehajtásáról"
+identifier: "180/2001. (X. 4.) Korm. rendelet"
+njt_id: "2001-180-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/180"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-10-04
+in_force_from: 2001-10-12
+last_amended: 2015-09-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-180-20-22"
+retrieved: 2026-10-12
+---
+
+# 180/2001. (X. 4.) Korm. rendelet a betétek és takarékbetétek végrehajtásáról
+
+A Kormány a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 307. §-ának (1) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §
+
+E rendeletet a Vht. 7. §-a (3) bekezdésének *b)* pontjában meghatározott, a betétszerződés, takarékbetét-szerződés, egyéb szerződés alapján pénzügyi intézménynél kezelt olyan összegek (a továbbiakban: betét) végrehajtás alá vonására kell alkalmazni, amelyek esetén a szerződés vagy jogszabály alapján a betét kifizetéséhez takarékbetétkönyv, betétokirat, egyéb okirat vagy szerződés (a továbbiakban: betétokirat) pénzügyi intézménynek történő bemutatása szükséges.
+
+### 2. §
+
+(1) A betét Vht. szerint végrehajtás alá vonható része (Vht. 79/A. §, 79/D. §) a bírósági végrehajtási eljárás során a névre szólóan elhelyezett betét esetén a betétessel, ha más személy a betét felett rendelkezni jogosult, a betét felett rendelkezővel, ha pedig a betét bemutatóra szólóan került elhelyezésre, a betétokirat birtokosával mint adóssal szemben fennálló pénzkövetelés kielégítésére vagy biztosítására használható fel.
+
+(2) Ha a végrehajtásnak nem az adott ügyletből eredő követelés a tárgya, az ügyleti biztosíték céljára szolgáló betét mentességéről a betétet kezelő pénzügyi intézmény (a továbbiakban: pénzügyi intézmény) tájékoztatja a bírósági végrehajtót (a továbbiakban: végrehajtó), és részére a betét összegét nem fizetheti ki.
+
+(3) Az (1) bekezdést kell alkalmazni arra az esetre is, ha az adós más személyekkel egyetemlegesen vagy az adós és más személyek külön-külön jogosultak a betét feletti rendelkezésre.
+
+## A végrehajtáshoz szükséges adatok beszerzése
+
+### 3. §
+
+(1)[^1] A pénzügyi intézmény a végrehajtó megkeresésére az adósról, a betét felett rendelkező más személy nevéről és értesítési címéről, továbbá a betétről (a betétokirat száma, kiállításának helye és időpontja, a betét összege, a lekötési idő lejárta, kamatfeltételek; ügyleti biztosíték céljára szolgáló betét stb.) a Vht., valamint a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) rendelkezései szerint szolgáltat adatot a végrehajtónak.
+
+(2) A végrehajtónak a megkeresést a pénzügyi intézmény székhelyére, ha a pénzügyi intézmény a megkeresések teljesítésére valamely fiókját jelölte ki, a kijelölt fiókhoz kell eljuttatnia.
+
+## A betét végrehajtás alá vonása
+
+### 4. §
+
+A végrehajtó a bemutatóra szólóan elhelyezett betétet a betétokirat lefoglalásával, a névre szólóan elhelyezett betétet – függetlenül attól, hogy a betétokirat lefoglalásra került-e – a pénzügyi intézményhez intézett felhívásával vonja végrehajtás alá.
+
+### 5. §
+
+A végrehajtó a lefoglalt betétokiratot a foglalást követően magához veszi, és azt a betétokirat átadásáig elzárva kezeli.
+
+### 6. §
+
+(1) A végrehajtó megkeresi a pénzügyi intézmény betétokiratot kiállító fiókját, ha a felhívások kezelésére valamely fiókját jelölte ki, a kijelölt fiókját, és 15 napos határidővel a betét összegének a végrehajtói letéti számlára történő átutalására vagy részére történő kifizetésére, illetve a pénzkövetelés biztosítására hívja fel a pénzügyi intézményt. Ha a lekötött betétre a lekötési idő lejárta előtt vezetnek végrehajtást, a végrehajtó a betét kifizetésére nem jelöl meg határidőt.
+
+(2) Ha a betét felett többen jogosultak rendelkezésre, a végrehajtó a nem adós rendelkezők nevének és értesítési címének közlésére is felhívja a pénzügyi intézményt.
+
+(3) A végrehajtói felhívásnak tartalmaznia kell
+
+a) a végrehajtó nevét, irodája címét és telefonszámát, a végrehajtói letéti számlája számát,
+
+b) a végrehajtási ügy számát,
+
+c)[^2] az adós és a betét azonosítására szolgáló adatokat (Hpt. 2. melléklet),
+
+d) a végrehajtandó, biztosítandó összeget,
+
+e) a betétokirat lefoglalásáról vagy hirdetmény kibocsátásának szükségességéről (10. §) szóló tájékoztatást és annak a fióknak a megjelölését, amelynél a végrehajtó a betét összegének kifizetése érdekében a betétokiratot bemutatja,
+
+f) a pénzügyi intézmény felhívását az (1) bekezdés szerinti feladat teljesítésére és a felhívás keltét,
+
+g) a betét kifizetésének határidejét, lekötött betétre a lekötési idő lejárta előtt vezetett végrehajtás esetén pedig azt a tájékoztatást, hogy a betét kifizetésének határidejét a végrehajtó a végrehajtást kérő megkeresését követően határozza meg és közli a pénzügyi intézménnyel,
+
+h) a végrehajtó aláírását és bélyegzőjének lenyomatát.
+
+(4) A pénzügyi intézmény a végrehajtói felhívás átvételének időpontját rögzíti nyilvántartásaiban.
+
+### 7. §
+
+(1) A lekötött betétre a lekötési idő lejárta előtt vezetett végrehajtás során a végrehajtó a pénzügyi intézménynek kiadott felhívásáról, a betét összegéről, a kamatfeltételekről és a lekötési idő lejártának időpontjáról haladéktalanul tájékoztatja a végrehajtást kérőt.
+
+(2) Ha a végrehajtást kérő a végrehajtó értesítésének kézhezvételét követő 8 napon belül írásban kérte, a végrehajtó a felhívását úgy egészíti ki, hogy a lekötési idő lejártát – folyamatos lekötés esetén a következő lejáratot – követő 15 napon belüli kifizetésre hívja fel a pénzügyi intézményt. Ha a végrehajtást kérő ilyen kérelmet nem terjesztett elő, a végrehajtó 15 napos teljesítési határidő megjelölésével egészíti ki a felhívását.
+
+(3) A végrehajtó a felhívás kiegészítését haladéktalanul megküldi a pénzügyi intézménynek.
+
+### 8. §
+
+(1) A pénzügyi intézmény legkésőbb a 6. §-ban foglalt végrehajtói felhívás átvételét követő második munkanap 12 órájáig köteles a betétre vonatkozó nyilvántartásaiban feltüntetni a végrehajtói felhívás tényét és gondoskodni róla, hogy a pénzügyi intézmény valamennyi fiókja arról tudomást szerezzen.
+
+(2) Az (1) bekezdésben foglaltak teljesítését követően – de legkésőbb végrehajtói felhívás átvételét követő második munkanap 12 órájától – a pénzügyi intézmény a végrehajtói felhívás visszavonásáig a betétből a betétesnek és egyéb rendelkezésre jogosultaknak fizetést nem teljesíthet. A pénzügyi intézménynek a végrehajtói felhívást átvevő fiókjával szemben a kifizetés tilalma a felhívás átvételét követő munkanap 8 órájától áll fenn.
+
+## Hirdetmény
+
+### 9. §
+
+(1) Ha a végrehajtói felhívás kiadására anélkül került sor, hogy a névre szóló betétokirat a végrehajtó birtokában lenne, a végrehajtó a felhívás kiadásától számított 3 nap elteltével felszólítja az adóst a betétokirat részére történő átadására, és tájékoztatja őt a betétokirat átadásának elmulasztása esetén követendő eljárásról (10., 12. §).
+
+(2) Az adós a felszólításnak a kézhezvételét követő 8 napon belül köteles eleget tenni.
+
+### 10. §
+
+(1)[^3] Ha a betétokiratot az adós a végrehajtónak a határidőben nem adta át, a végrehajtó 15 napon belül hirdetményt bocsát ki, és azt a székhelye szerinti járásbíróság hirdetőtábláján 15 napra kifüggeszti, valamint közzéteszi a Magyar Bírósági Végrehajtói Kar által üzemeltetett honlapon.
+
+(2) A hirdetmény tartalmazza:
+
+a) a végrehajtó nevét, irodája címét és telefonszámát,
+
+b) a végrehajtási ügy számát,
+
+c) a betétokirat adatait (betétes neve, betétokirat száma, betétokiratot kiállító pénzügyi intézmény neve),
+
+d) azt a felhívást, hogy a betétokirat birtokosa a hirdetmény kifüggesztésétől számított 15 napon belül a betétokiratot a végrehajtónak adja át; ha ez nem történik meg, a végrehajtó intézkedik a betét összegének kifizetése iránt.
+
+(3) A végrehajtó a betétokirat átadását vagy a hirdetmény kifüggesztési határidejének lejártát követően jegyzőkönyvet készít a hirdetmény kibocsátásának eredményéről.
+
+## A betét összegének kifizetése
+
+### 11. §
+
+A pénzügyi intézmény a végrehajtói felhívás teljesítéseként – a 12. és a 13. §-ban foglalt feltételek fennállása esetén és módon, továbbá e §-okban meghatározott határidőben – köteles
+
+a) a betétnek – a pénzügyi szolgáltatásra irányuló szerződésben e pénzügyi műveletre meghatározott díjjal csökkentett – összegét a végrehajtói letéti számlára átutalni vagy a végrehajtó részére kifizetni akkor is, ha a kifizetéshez eredetileg kikötött egyéb feltételek teljesítése vagy közlése nem történt meg, és
+
+b) a teljesítésről – az átutalt vagy kifizetett összegnek, továbbá a betétokirat, betétes adatainak feltüntetésével – a végrehajtót tájékoztatni.
+
+### 12. §
+
+(1) A névre szóló betétokirat lefoglalásának vagy átadásának hiányában kiadott végrehajtói felhívás alapján a teljesítésre csak akkor kerülhet sor, ha a végrehajtó a felhívásban megjelölt határidő leteltét követően megküldi a pénzügyi intézménynek a hirdetmény kibocsátásának eredményéről készített jegyzőkönyvet, amely szerint a hirdetmény kifüggesztésének határideje alatt részére a betétokiratot nem adták át.
+
+(2) Az (1) bekezdés szerinti jegyzőkönyv pénzügyi intézménynek történő megküldésével a névre szóló betétokiratot úgy kell tekinteni, mintha azt megsemmisítették volna, a pénzügyi intézmény a jegyzőkönyv kézhezvételét követő 15 napon belül átutalja a betét összegét a végrehajtói letéti számlára.
+
+### 13. §
+
+(1) Ha a betétokirat lefoglalásra vagy átadásra került, a végrehajtó azt a felhívásban megjelölt határidő leteltét követően átadja a felhívásban megjelölt fiók útján a pénzügyi intézménynek, amely a betét összegét részére azonnal kifizeti, vagy kérésére a végrehajtó letéti számlájára átutalja.
+
+(2) Ha a betét összege a végrehajtónak kifizetésre vagy átutalásra került és a betét elhelyezéséről szóló szerződés szerint a szerződést a betét kifizetése nem szünteti meg, a kifizetés tényét a pénzügyi intézmény feljegyzi a betétokiraton és azt átadja a végrehajtónak, aki gondoskodik a betétokiratnak az adós részére történő visszaadásáról.
+
+(3) Ha a végrehajtandó követelés összege a kifizetés időpontjában alacsonyabb, mint a betét összege, a végrehajtó a betétokiratot lefoglalta vagy azt részére átadták, és a betét elhelyezéséről szóló szerződés szerint a betét összegéből részteljesítés lehetséges, a pénzügyi intézmény a betét – mentes összeggel csökkentett – részéből a behajtandó követelésnek megfelelő összeget fizeti ki vagy utalja át a végrehajtónak. A részteljesítés tényét a pénzügyi intézmény feljegyzi a betétokiraton és azt átadja a végrehajtónak, aki gondoskodik a betétokiratnak az adós részére történő visszaadásáról.
+
+### 14. §
+
+A végrehajtói felhívás teljesítését követően a pénzügyi intézmény a betétet – a 13. § (3) bekezdésében foglalt eset kivételével – kifizetettként tartja nyilván.
+
+## A végrehajtás során befolyt összeg kifizetése
+
+### 15. §
+
+A végrehajtó a betét összegének kifizetését, átutalását követően a végrehajtás során befolyt összegek kezelésére vonatkozó szabályok szerint jár el; a betét mentes összegét (Vht. 79/A. §), valamint a betétből az eljárás költségeinek és a végrehajtandó követelésnek a kielégítése után fennmaradó összeget az adós részére átutalja vagy kiutaltatja, illetőleg kifizeti.
+
+## Biztosítási intézkedés végrehajtása
+
+### 16. §
+
+(1) Biztosítási intézkedés végrehajtása során is e rendelet szerint kell eljárni azzal az eltéréssel, hogy a pénzügyi intézmény a végrehajtó felhívásának kézhezvételét követően a betétet az eredeti szerződés szerint kezeli, és a betét összegét – a 18. §-ban foglaltak kivételével – nem utalja át a végrehajtói letéti számlára, illetve nem fizeti ki a végrehajtó részére.
+
+(2) A biztosítási intézkedés hatálya alatt a betét felett sem az adós, sem más személy nem rendelkezhet.
+
+### 17. §
+
+E rendelet szerint foganatosított biztosítási intézkedés hatálya kiterjed a követelés teljesítése érdekében elrendelt kielégítési végrehajtásra is.
+
+### 18. §
+
+(1) Ha a biztosítási intézkedés hatálya alatt a betét lekötési ideje lejárt, a betét összegét továbbra sem lehet kifizetni a betétesnek vagy egyéb rendelkezőnek. A pénzügyi intézmény ebben az esetben – a folyamatos lekötési megbízás alapján kezelt betét kivételével – a betét összegét a végrehajtónak fizeti ki, vagy utalja át.
+
+(2) Az (1) bekezdés szerint kell eljárni akkor is, ha a biztosítási intézkedés hatálya alatt az adós a biztosított összegen felüli részt kíván a betét összegéből felvenni, és ezt a pénzügyi intézménynek írásban bejelenti. A pénzügyi intézmény a betét összegét a bejelentés kézhezvételét követően fizeti ki, vagy utalja át a végrehajtónak.
+
+(3) A betét végrehajtó részére történő kifizetésére a 11–14. § rendelkezéseit megfelelően alkalmazni kell.
+
+(4) A végrehajtó a betét összegét a letéti számlán köteles kezelni, abból a végrehajtás alól mentes összeget és a biztosítandó összeg feletti összeget az adósnak kell visszafizetnie.
+
+## Vegyes rendelkezések
+
+### 19. §
+
+E rendelet szerint kell eljárni azoknak a betéteknek a végrehajtása során is, amelyekről szóló okirat megsemmisítése iránti eljárás van folyamatban. Ha a betétokiratot a betét 11–14. §-ában szabályozott kifizetésének időpontja előtt megsemmisítették, a pénzügyi intézmény tájékoztatja erről a végrehajtót, és részére a betét felett rendelkező elleni végrehajtási eljárás során a betét összegét kifizeti.
+
+### 20. §
+
+(1) Ha a betét kezelésére másik pénzügyi intézménnyel kötött megállapodás alapján kerül sor, – a végrehajtó megkeresésére – a betétet kezelő és a megbízó megkeresett pénzügyi intézmény is köteles a végrehajtót tájékoztatni
+
+a) a 3. § (1) bekezdésében foglalt adatokról,
+
+b) a megbízás alapján történő betétkezelés tényéről,
+
+c) a megbízó pénzügyi intézmény nevéről és székhelyéről, továbbá
+
+d) arról a fiókról, amely a kifizetés iránt intézkedik.
+
+(2) Az (1) bekezdés szerinti tájékoztatás kivételével a betétet kezelő pénzügyi intézmény e rendeletben foglalt feladatait – a pénzügyi intézmények közötti, eltérő megállapodás hiányában – a megbízó pénzügyi intézmény látja el.
+
+## Hatálybalépés
+
+### 21. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: A 3. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^2]: A 6. § (3) bekezdés c) pontja az 537/2013. (XII. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^3]: A 10. § (1) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 11. §-a, 403/2012. (XII. 28.) Korm. rendelet 1. §-a, a 242/2015. (IX. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.

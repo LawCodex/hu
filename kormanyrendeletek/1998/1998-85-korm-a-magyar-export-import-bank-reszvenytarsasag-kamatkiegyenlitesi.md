@@ -1,0 +1,414 @@
+---
+title: "85/1998. (V. 6.) Korm. rendelet a Magyar Export–Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről"
+identifier: "85/1998. (V. 6.) Korm. rendelet"
+njt_id: "1998-85-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/85"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-05-06
+in_force_from: 2008-05-16
+last_amended: 2025-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-85-20-22"
+retrieved: 2026-10-12
+---
+
+# 85/1998. (V. 6.) Korm. rendelet a Magyar Export–Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről
+
+A Kormány a Magyar Export–Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló, többször módosított 1994. évi XLII. törvény (a továbbiakban: törvény) 26. §-ának (3) bekezdésében foglalt felhatalmazás alapján – figyelemmel a törvény 2. §-ának (2) bekezdésében és 6. §-ának (4) bekezdésében foglaltakra – a Magyar Export–Import Bank Részvénytársaság (a továbbiakban: Eximbank) kamatkiegyenlítése felhasználásának és igénybevételének szabályairól a következő rendeletet alkotja:
+
+## 1. §[^1]
+
+(1)[^2] E rendelet hatálya a Törvény 1. § (5) bekezdésében és 2. § (2) bekezdésében meghatározott pénzügyi szolgáltatások keretében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 40. pont a) alpontja és *b)* alpont *ba)* alpontja szerinti következő hitel és pénzkölcsön nyújtási tevékenységre terjed ki:
+
+a) exporthitelek (a továbbiakban: exporthitel),
+
+b) belföldi és külföldi hitelintézeteknek nyújtott exporthitelek (a továbbiakban: refinanszírozási exporthitel),
+
+c)[^3] beszállítói hitelek, külföldön megvalósuló befektetési hitelek (a továbbiakban együtt: egyéb export célú hitel),
+
+d)[^4] belföldi és külföldi pénzügyi intézményeknek nyújtott egyéb export célú hitelek (a továbbiakban: egyéb export célú refinanszírozási hitel),
+
+e)[^5] a belföldi székhelyű gazdálkodó szervezet, illetve a belföldi székhelyű gazdálkodó szervezet leányvállalata befektetéseihez, beruházásaihoz, forgóeszközigényeihez nyújtott hitelek (a továbbiakban: belföldi célú hitel),
+
+f)[^6] belföldi pénzügyi intézményeknek nyújtott belföldi célú hitelek (a továbbiakban: belföldi célú refinanszírozási hitel),
+
+g)[^7] belföldi és külföldi pénzügyi intézmények által a Hpt. 6. § (1) bekezdés 60. pontja alapján végzett, külkereskedelmi szerződésből eredő exportkövetelések megvásárlásához nyújtott hitelek (a továbbiakban: exportkövetelések megvásárlásához nyújtott refinanszírozási hitel),
+
+h)[^8] export előfinanszírozó hitelek, exportcélú befektetési hitelek (a továbbiakban együtt: export előfinanszírozási hitel) és
+
+i)[^9] belföldi és külföldi pénzügyi intézményeknek nyújtott export előfinanszírozási hitelek (a továbbiakban: export előfinanszírozási refinanszírozási hitel).
+
+j)[^10] a Kormány egyedi döntése alapján egyéb célokra nyújtott egyedi hitelek, valamint a Kormány egyedi döntése alapján jegyzett vagy más jogcímen megszerzett kötvények,
+
+k)[^11] a belföldi és külföldi pénzügyi intézményeknek nyújtott, a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb hitelek (a továbbiakban: Egyéb refinanszírozási hitel),
+
+l)[^12] az a)–j) pontban nem szereplő, a Törvény alapján nyújtott egyéb hitelek (a továbbiakban: Egyéb hitel).
+
+(1a)[^13] E rendelet hatálya az (1) bekezdésben meghatározott hitel- és pénzkölcsön nyújtási tevékenység mellett kiterjed az Eximbank által külkereskedelmi szerződésből eredő exportköveteléseknek a Hpt. 6. § (1) bekezdés 60. pontja alapján történő megszerzésére, megelőlegezésére – ideértve a faktoringot és a forfetírozást is –, valamint leszámítolására (a továbbiakban együtt: követelésvásárlás).
+
+(1b)[^14] Az Eximbank az 1. § (1) bekezdés d), f), g) és i) pontjában szereplő, hitelintézetnek nem minősülő pénzügyi intézménynek csak abban az esetben nyújthat az e rendelet hatálya alá tartozó refinanszírozási hitelt, ha a pénzügyi intézmény – így különösen a pénzügyi vállalkozás – bemutatja az Eximbank részére, hogy rendelkezik a szükséges prudenciális előírásokat tartalmazó belső szabályzattal. Az Eximbank az erre vonatkozó követelményt üzletpolitikájában rögzíti vagy a követelmény teljesülését belső szabályzatában leírt módon ellenőrzi.
+
+(1c)[^15] E rendelet hatálya kiterjed gazdálkodó szervezetek által kibocsátott hitelviszonyt megtestesítő értékpapírok Eximbank általi megszerzésére.
+
+(2)[^16] Az Eximbank az (1) bekezdés a) és b) pontjában felsorolt, két éves és két éven túli lejáratú exporthiteleket és refinanszírozási exporthiteleket a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló megállapodásával (a továbbiakban: OECD Megállapodás) összhangban nyújtja. Az Eximbank e bekezdés rendelkezéseit alkalmazza a követelésvásárlásra is, amennyiben az exportkövetelés esedékessége a követelésvásárlás időpontjában legalább két év.
+
+(3)[^17]
+
+(4)[^18]
+
+(5)[^19] Ha az (1) bekezdés e) és f) pontjában meghatározott hitelek kamatlába az Európai Unió állami támogatási szabályai szerint nem tartalmaz állami támogatást, és nem éri el legalább a piaci kamatláb mértékét, az Eximbank az e rendelet szerinti kamatkiegyenlítést nem veheti igénybe.
+
+(5a)[^20]
+
+(6)[^21] Nem vonható be a kamatkiegyenlítési rendszerbe a beszállítói hitellel, export előfinanszírozási hitellel vagy belföldi célú hitellel finanszírozott összegig az azon áruhoz vagy szolgáltatás nyújtásához kapcsolódó exporthitel és refinanszírozási exporthitel, amely áruhoz vagy szolgáltatáshoz korábban nyújtott beszállítói hitel, export előfinanszírozási hitel vagy belföldi célú hitel a kamatkiegyenlítési rendszerbe már bevonásra került.
+
+(7)[^22] A (6) bekezdés nem alkalmazandó azon áruhoz vagy szolgáltatáshoz nyújtott exporthitelre és refinanszírozási exporthitelre, amely a beszállítói hitel, export előfinanszírozási hitel vagy belföldi célú hitel nyújtását követően további feldolgozáson vagy megmunkáláson átesett más áruhoz vagy a kamatkiegyenlítési rendszerbe bevont beszállítói hitellel, egyéb export célú hitellel, export előfinanszírozási hitellel vagy belföldi célú hitellel finanszírozott szolgáltatás igénybe vételével nyújtott más szolgáltatáshoz kapcsolódik.
+
+(8)[^23] Az Eximbank az (1a) bekezdésben meghatározott követelésvásárlási tevékenysége kapcsán akkor számolhat el a központi költségvetéssel, ha az megfelel a 6. §-ban meghatározott feltételeknek.
+
+## 2. §[^24]
+
+Az Eximbank az 1. § (1c) bekezdésben meghatározott hitelviszonyt megtestesítő értékpapírok, továbbá – az 1. § (1b), valamint (2)–(8) bekezdésében foglalt korlátozásokkal – a következő, a 6. §-ban meghatározott feltételeknek megfelelő, az 1. § (1) és (1a) bekezdésében meghatározott hitelek, refinanszírozási hitelek és követelésvásárlások vonatkozásában számolhat el a központi költségvetéssel a Magyar Export-Import Bank Részvénytársaság és a Magyar Exporthitel Biztosító Részvénytársaság központi költségvetéssel történő elszámolásának részletes szabályairól szóló miniszteri rendeletben foglaltak szerint:
+
+a)[^25] árukat, szolgáltatásokat exportáló gazdálkodó szervezeteknek (a továbbiakban: exportőr),
+
+b) az exportőr vevőinek,
+
+c) belföldi és külföldi pénzügyi intézményeknek,
+
+d) az exportőr exportjának teljesítését a Törvény 1. § (5a) bekezdés 1. pontjában meghatározottak szerint elősegítő beszállítóknak,
+
+e) az exportot a Törvény 1. § (5a) bekezdés 2. pontjában meghatározottak szerint elősegítő, belföldi vagy külföldi befektetést megvalósító exportőrnek,
+
+f)[^26] a gazdálkodó szervezetnek vagy a gazdálkodó szervezet tulajdonában álló társaságnak, annak befektetéseihez, beruházásához vagy termelőtevékenységéhez, szolgáltatásnyújtásához kapcsolódó forgóeszközigény finanszírozásához és
+
+g) a 6. § szerinti, a magyar származású export mértékére vonatkozó feltételek teljesülése esetén a 6. § (11) bekezdésében meghatározott külkereskedelmi szerződés teljesítésében részt vevő belföldi gazdálkodó szervezet vevőinek
+
+h)[^27] a Kormány egyedi döntésében meghatározott hitelfelvevőknek
+
+i)[^28] gazdálkodó szervezet részére
+
+nyújtott hitelek.
+
+## 3. §[^29]
+
+E rendelet alkalmazása szempontjából
+
+a)[^30] *bázisköltség:* a kamatkiegyenlítési rendszerben az Eximbank által nyújtott hitelek és pénzkölcsönök, továbbá az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapírok költségét a bázisköltség fejezi ki. A bázisköltség az Eximbanknál felmerülő forrásszerzési költség, banküzemi költség (banküzemi spread) és a kockázati felár fedezete;
+
+b)[^31] *kockázati időtartam:* a követelés hátralévő futamideje alapján az Eximbank kockázata szempontjából számított időtartam;
+
+c)[^32] *diszkontkamatláb:* az az éves szintű kamatláb, amely a futamidő alatt a faktorált, forfetírozott, leszámítolt exportkövetelések hátralévő, még nem törlesztett összegére (névértékére) vetítve, a diszkontértékkel (jelenértékkel) megegyező összegű exporthitelnyújtás és követelésvásárlás esetén az exporthitelekre érvényesített – a kétéves és két éven túli futamidő esetén a 7. § (2) bekezdésében, egyébként a 7. § (1) bekezdésében meghatározott legkisebb kamatlábbal számított – kamattal egyező hozamot eredményezne. A faktorált, forfetírozott, leszámítolt követelések diszkontértékének (jelenértékének) számításakor kétéves és két éven túli futamidő esetén a 7. § (2) bekezdése, egyébként a 7. § (1) bekezdése szerinti kamatlábakat kell alapul venni. [d = ((1–D)/t)*n; ahol „d” az éves szintű diszkontkamatláb századrésze; „n” az éven belüli elszámolási időszakok száma; „D” a diszkonttényező: 1/(1+i/n)t; „i” a kétéves és két éven túli futamidő esetén a 7. § (2) bekezdése, egyébként a 7. § (1) bekezdése szerinti kamatláb éves szinten meghatározott mértékének századrésze; „t” az években kifejezett futamidő és az éven belüli elszámolási időszakok számának szorzata];
+
+d)[^33] *diszkontérték (jelenérték):* a faktorált, a forfetírozott, a leszámítolt követelés és a diszkonttényező szorzata;
+
+e)[^34] *export:* olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a számviteli szabályok szerint exportárbevételként számol el, ideértve a Törvény 1. § (5a) bekezdése szerinti beszállítói ügylet vagy exportcélú befektetés eredményeként keletkező árbevételt, exportárbevételt is, valamint a 6. § (11) bekezdése vonatkozásában a gazdálkodó szervezet teljesítése eredményeként létrejövő árbevételt is;
+
+f)[^35]
+
+g) *vevőhitel:* olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, egy vagy több tagállamból származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet(ek) vállalja (vállalják), hogy a szállító(k)nak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet(nek) a vevő(k)/kölcsönvevő(k) nevében, míg a vevő(k)/kölcsönvevő(k) lejáratkor visszafizetik azt a hitelintézet(ek)nek;
+
+h)[^36] *CIRR Bizottság:* a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter és az Eximbank által delegált szakértőkből álló Kamatkiegyenlítési Rendszer Szakértői Bizottság;
+
+i)[^37] *beszállítói hitel:* a Törvény 1. § (5a) bekezdés 1. pontja szerinti beszállítói ügyletnek minősülő ügylet megvalósításához a beszállító és a hitelező bank, vagy az alvállalkozó és a hitelező bank között létrejött hitelviszony;
+
+j)[^38] *egyéni referencia kamatláb:* az adott devizanemre vonatkozó, az *o)* pontban meghatározott referencia alapkamatlábból és a hitelkockázattól, az adós minősítésétől, valamint az ügylet fedezettségétől függően ügyletenként eltérően meghatározott felárból számított kamatláb;
+
+k)[^39] *exportcélú befektetési hitel:* a Törvény 1. § (5a) bekezdés 2. pontja szerinti exportcélú befektetésnek minősülő ügylethez a befektetést megvalósító gazdálkodó szervezet és az ehhez hitelt nyújtó hitelintézet között létrejött hitelviszony vagy a befektetést megvalósító gazdálkodó szervezetnek a befektetéshez pénzügyi lízinget nyújtó gazdálkodó szervezet és a hitelező hitelintézet között létrejött hitelviszony;
+
+l)[^40] *export szerződéses értéke:* a vevő által vagy nevében az exportált árukért és szolgáltatásokért fizetendő, helyi költséget nem tartalmazó összeg;
+
+m)[^41] *helyi költség:* a vevő országában felmerülő, azon árukért és szolgáltatásokért fizetendő, az exportőr képviselőjének a vevő országában fizetendő jutalékát nem tartalmazó kiadás, amely az exportőr szerződésének teljesítéséhez, vagy az exportőr szerződését magában foglaló projekt megvalósításához szükséges;
+
+n)[^42]
+
+o)[^43] *referencia alapkamatláb:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 13. pontjában meghatározott, az Eximbank által a kamatkiegyenlítési rendszerbe bevont hitelek és refinanszírozási hitelek kamatlábának rögzítése napján érvényes kamatláb;
+
+p)[^44]
+
+q)[^45] *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás;
+
+r)[^46] *export előfinanszírozó hitel:* olyan hitelviszony, amely az exportőr és a hitelt nyújtó hitelintézet között jön létre a Törvény 1. § (5) bekezdése szerinti exportügyletnek minősülő ügylethez kapcsolódóan, és amelynek célja az export megvalósulásához szükséges forgóeszközök finanszírozása a belföldről történő kiszállítást megelőzően.
+
+## 4. §[^48]
+
+(1)[^49] Az Eximbank a legalább két éves futamidejű, az 1. § (1) bekezdés a) pontjában meghatározott exporthitelek, *b)* pontjában meghatározott refinanszírozási exporthitelek és az 1. § (1a) bekezdésében szereplő két éves és két éven túli lejáratú követelésvásárlás feltételeire az OECD Megállapodás szerződéskötés időpontjában hatályos rendelkezéseit alkalmazza.
+
+(2)[^50] Az Eximbank az (1) bekezdésben fel nem sorolt, az 1. § (1) bekezdés a)–g) pontja alapján nyújtható hitelek, pénzkölcsönök és követelésvásárlás feltételeit, a hiteladós felé felszámítandó kamatlábakat az Európai Unió állami támogatási szabályaival, vagy az OECD Megállapodással összhangban alakítja ki. Az Eximbank az egyes hiteltermékekre alkalmazandó kamatlábakra és hitelfeltételekre vonatkozó számítási módszertant belső szabályzatában rögzíti.
+
+## 5. §[^51]
+
+(1)[^52] A kamatkiegyenlítés nem vehető igénybe reexportra. Nem minősül reexportnak az olyan külkereskedelmi szerződés alapján teljesített export, amely megfelel a 6. § (1)–(3) bekezdésében foglaltaknak.
+
+(2)[^53] A kamatkiegyenlítés kétéves és két éven túli futamidejű exporthitelek, refinanszírozási exporthitelek és követelésvásárlás finanszírozásához csak akkor vehető igénybe, ha
+
+a) az OECD Tanácsának vesztegetésről és a hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet megfelel az ajánlásban meghatározottaknak,
+
+b) az OECD Tanácsának a hivatalosan támogatott exporthitelekkel és a környezeti és társadalmi átvilágítással kapcsolatos közös megközelítésről szóló ajánlásának hatálya alá tartozó ügylet esetében a megfelelően elvégzett környezeti célú átvilágítás, valamint az annak keretében készített környezeti hatástanulmány vagy környezeti és társadalmi hatástanulmány alapján az Eximbank által finanszírozott ügylet nem minősül a környezetre nézve károsnak, és
+
+c) az Eximbank lefolytatta az OECD Tanácsának a fenntartható hitelezési gyakorlatokról és a hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet esetében az ajánlásban előírt eljárásokat.
+
+## 6. §[^54]
+
+(1)[^55] Az OECD Megállapodás hatálya alá tartozó ügyletek keretében áruexport e rendelet szerint akkor finanszírozható, ha a külkereskedelmi szerződésben az export szerződéses értékének legalább fele magyar származásúnak minősül, amely feltétel teljesülését az Eximbank a belső szabályzatában foglaltak szerint ellenőrzi. A külkereskedelmi tevékenységet folytató gazdálkodó szervezet az áruk származásának igazolására az Eximbankhoz, refinanszírozás esetén a finanszírozó pénzügyi intézményhez származási bizonyítványt nyújt be, amelyet az annak kiadására felhatalmazott kamarai szervtől szerez be. Az áruk magyar származásának megállapítására és tanúsítására a származási bizonyítvány kiadására felhatalmazott kamarai szerv által alkalmazott, a felhatalmazott kamarai szerv honlapján elérhető származási szabályokat és a származási bizonyítvány kibocsátására vonatkozó kamarai eljárásrendben foglaltakat kell alkalmazni. Amennyiben a külkereskedelmi szerződés részteljesítést is lehetővé tesz, a részteljesítés elfogadottnak tekinthető, ha a részteljesítéskori magyar hányad mértéke megfelel a kiszállítási ütemtervben előre meghatározott magyar hányadnak.
+
+(1a)[^56] Ha a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a külkereskedelmi szerződés alapján ugyanazon vevő részére azonos árumegnevezésű, vámtarifa számú és származási helyű áruk tekintetében, több alkalommal teljesít áruexportot, az áruk magyar származásának igazolásához elegendő az első áruexport teljesítését követően az illetékes Kamara által kiállított és külön záradékkal ellátott származási bizonyítványt beszerezni és azt az Eximbank, refinanszírozás esetén a finanszírozó pénzügyi intézmény részére megküldeni. A záradékkal ellátott bizonyítvány az abban szereplő – az árumegnevezés, a vámtarifa szám és a származási hely tekintetében azonos – áru vonatkozásában ugyanazon vevő részére teljesített további áruexport tekintetében is megfelelően igazolja annak magyar származását. Amennyiben a záradékkal ellátott származási bizonyítványon szereplő áru megnevezésében, vámtarifa számában vagy származási helyében, illetve a vevő személyében változás következik be, a külkereskedelmi tevékenységet folytató gazdálkodó szervezet a változást követő első exportjára vonatkozóan az illetékes kamarai szervtől új származási bizonyítványt szerez be, és azt az Eximbankhoz, refinanszírozás esetén a finanszírozó pénzügyi intézményhez nyújtja be.
+
+(2)[^57] Az OECD Megállapodás hatálya alá tartozó ügyletek keretében szolgáltatásexport e rendelet szerint akkor finanszírozható, ha a külkereskedelmi szerződés alapján a szolgáltatás teljesítésében részt vevő gazdálkodó szervezet belföldi székhellyel rendelkezik.
+
+(3)[^58] Az OECD Megállapodás hatálya alá tartozó ügyletek keretében építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó külkereskedelmi szerződés e rendelet szerint akkor finanszírozható, ha a finanszírozási költségekkel csökkentett értékének legalább egynegyed része magyar származású exportnak minősül. Erről a Magyar Kereskedelmi és Iparkamara az Eximbank által jóváhagyott eljárás alapján állít ki magyar hányad igazolást. Egynegyed résznél kisebb magyar származású export esetében a finanszírozás csak a magyar származású export exporthitelezésére, valamint az 1. § (2) bekezdésében meghatározott feltételeknek megfelelő követelésvásárlásra terjedhet ki. Amennyiben a külkereskedelmi szerződés részteljesítést is lehetővé tesz, a részteljesítés elfogadottnak tekinthető, ha a részteljesítéskori magyar hányad mértéke megfelel a kivitelezési ütemtervben előre – de legkésőbb a részteljesítésre történő folyósítást megelőzően – meghatározott magyar hányadnak.
+
+(4)[^59] Az Eximbank a kamatkiegyenlítési rendszer keretében csak azon beszállítói hitelek kapcsán számolhat el a központi költségvetéssel, amelyek esetében a beszállító az áru eredetének igazolására az annak kiadására felhatalmazott kamarai szerv által kiállított származási bizonyítványt az Eximbankhoz, refinanszírozás esetén a finanszírozó pénzügyi intézményhez benyújtotta, és mellékelte az exportőr nyilatkozatát arról, hogy az exportőr a beszállító által beszállított árut vagy az annak felhasználásával előállított másik árut exportálja, vagy a beszállító által nyújtott szolgáltatást a külkereskedelmi szerződésében foglalt kötelezettségei teljesítéséhez veszi igénybe. Ilyen nyilatkozat hiányában elfogadható a beszállító nyilatkozta is arról, hogy az általa beszállított áru vagy nyújtott szolgáltatás az exportőr ezen áru vagy szolgáltatás felhasználásával előállított magyar áru vagy szolgáltatás exportjára irányuló szerződésében foglalt kötelezettségének teljesítéséhez szükséges. A szolgáltatás eredetének igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezések alkalmazandók.
+
+(5)[^60] Az Eximbank a kamatkiegyenlítési rendszer keretében csak olyan exportcélú befektetési hitel kapcsán számolhat el a központi költségvetéssel, amely esetében az exportcélú befektetési hitelnyújtás eredményeként megvalósuló befektetés exportárbevételt eredményez, és ha az exportőr az Eximbanknak, refinanszírozás esetén a finanszírozó pénzügyi intézménynek írásban nyilatkozik arról, hogy az Eximbank által folyósítandó exportcélú befektetési hitelből olyan befektetés valósul meg, amely magyar származású áru gyártását és exportálását, vagy magyar származású szolgáltatás nyújtását és a szolgáltatás exportálását teszi lehetővé, legalább az exportcélú befektetési hitel összegében. Az exportőr az áru eredetének igazolására az áru exportjának megkezdésekor az annak kiadására felhatalmazott kamarai szerv által kiállított származási bizonyítványt az Eximbankhoz, refinanszírozás esetén a finanszírozó pénzügyi intézményhez nyújtja be. Az exportőr által beszerzett származási bizonyítvány hiányában a nyilatkozatok megtételére, valamint a befektetést megvalósító gazdálkodó szervezet által gyártott áru vagy nyújtott szolgáltatás vonatkozásában a magyar származás igazolására vonatkozó kötelezettség teljesítésére az exportőr helyett a befektetést megvalósító gazdálkodó szervezet is jogosult. A szolgáltatás eredetének igazolására és ellenőrzésére a (2) bekezdésben meghatározott rendelkezések alkalmazandók.
+
+(6) A kamatkiegyenlítési rendszerbe vont ügylet alapját képezheti a Magyarországon bejegyzett székhellyel rendelkező társaság által legalább öt éve rendeltetésszerűen használatban lévő gépek, berendezések exportja is, azok származására tekintet nélkül.
+
+(7)[^61]
+
+(7a)[^62] Az Eximbank a kamatkiegyenlítési rendszerben csak olyan, az 1. § (1) bekezdés h) és i) pontjában meghatározott export előfinanszírozási és export előfinanszírozási refinanszírozási hitelek kapcsán számolhat el a központi költségvetéssel, amelyek összege nem haladja meg a (11) bekezdés szerinti külkereskedelmi szerződésben meghatározott összeg 85%-át, és a hiteladós gazdálkodó szervezet belföldi székhellyel rendelkezik.
+
+(8)[^63] Az (1) és (3) bekezdésben meghatározott alacsonyabb magyar származású export esetén – amely azonban nem lehet kevesebb, mint az (1) és (3) bekezdésben meghatározott arány fele – teljes finanszírozás abban az esetben nyújtható, ha az exportügylet megvalósulásához nemzeti érdek fűződik. Nemzeti érdekű finanszírozás akkor nyújtható, ha a Magyarország hatályos külgazdasági stratégiájában foglaltakra tekintettel a külkereskedelmi szerződés teljesítésében részt vevő belföldi gazdálkodó szervezetnél az ügylet hatására
+
+a)[^64] munkahelyteremtés, munkahelymegőrzés;
+
+b)[^65] exportpiac megtartása, megszerzése, további exportbővüléshez való hozzájárulás;
+
+c)[^66] a kis- és középvállalkozások versenyképességének elősegítése;
+
+d)[^67] a beszállítói lehetőségek kiterjesztése;
+
+e)[^68] a hazai hozzáadott érték arányának mértéke a magyar származásúnak minősülő hányadon belül vagy
+
+f)[^69] a környezetvédelembe, a megújuló energiaszektorba vagy innovatív ágazatba tartozó ügyletek megvalósítása
+
+következik be.
+
+(9)[^70] Az Eximbank az üzletszabályzatban rögzíti, és legalább évente felülvizsgálja a nemzeti érdek meghatározását alátámasztó szempontokat, az annak igazolásául szolgáló eljárási szabályokat és dokumentációs követelményeket.
+
+(10)[^71] Amennyiben az Eximbank több, egymással összefüggő szerződéshez kapcsolódóan nyújt finanszírozást, akkor az ebben a §-ban meghatározott mértékű magyar származású export mértékére vonatkozó előírásnak a több, egymással összefüggő szerződés alapján teljesített valamennyi exportügyletre vetítve kell teljesülnie.
+
+(11)[^72] E § vonatkozásában külkereskedelmi szerződésnek minősül
+
+a) a belföldi gazdálkodó szervezet,
+
+b)[^73] a teljesítés helye szerinti ország joga szerint alapított gazdasági társaság vagy
+
+c) az *a)* és *b)* pontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó szervezet
+
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
+
+(12)[^74] A Kormány egyedi döntése alapján a külkereskedelmi szerződésekhez kapcsolódóan a 6. § (1)–(8) és (10)–(11) bekezdésében előírt magyar hányadra vonatkozó szabályoktól, valamint az ott meghatározott feltételektől eltérően is meghatározhatja a finanszírozási feltételeket.
+
+## 7. §[^76]
+
+(1)[^77] Az Eximbank az általa közvetlenül nyújtott, kamatkiegyenlítési rendszerbe bevont hitelek, követelésvásárlások, az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapírok legkisebb kamatlábát az Európai Unió állami támogatási előírásaival összhangban
+
+a) a piaci kamatlábak és
+
+b) az egyéni referencia kamatlábra vonatkozó rendelkezések,
+
+c) az Európai Bizottság jóváhagyásában meghatározott kamatlábak vagy
+
+d)[^78] az OECD Titkárság által közzétett, általánosan vagy az ágazatokra alkalmazandó, a folyósított hitel devizanemére vonatkozó kamatláb
+
+figyelembevételével határozza meg.
+
+(2)[^79] A legkisebb kamatláb meghatározására a szerződéskötés napján, illetve állami támogatást tartalmazó hitelek esetén az állami támogatási szabályoknak megfelelően, az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapír esetén a jegyzés napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt. A belföldi célú hitelek esetén a kamatlábat a hitel Eximbank általi, belső szabályzataiban és a termékleírásokban rögzített jóváhagyásának napján – a teljes futamidőre – kell rögzíteni. A rögzített legkisebb kamatlábnak a futamidő alatt történő módosítására kivételesen, az árazást meghatározó paraméterekben bekövetkezett változás esetén, az Eximbank belső szabályzatában meghatározott feltételek szerint kerülhet sor.
+
+(3) Az Eximbank által közvetlenül nyújtott kétéves és két éven túli futamidejű exporthitelek, valamint a kétéves és két éven túli futamidejű követelésvásárlás legkisebb kamatlába az OECD Megállapodás rendelkezései szerint megállapított időpontban a hitelnyújtás devizanemére érvényes, az OECD Titkársága által közzétett, általánosan vagy az ágazatokra alkalmazandó CIRR kamatláb (a továbbiakban: CIRR), amely kamatláb rögzített a teljes futamidő alatt, kivéve, ha az OECD Megállapodás alapján kötelező vagy megengedett a kamatláb módosítása.
+
+(4)[^80] Az Eximbank az 1. § (1) bekezdés j) pontja szerinti hitelek és kötvények legkisebb kamatlábát a Kormány egyedi döntése alapján határozza meg.
+
+## 8. §[^81]
+
+(1)[^82] A belföldi célú refinanszírozási hitelek, valamint a (2) bekezdésben meghatározott kivétellel a refinanszírozási exporthitelek, egyéb export célú refinanszírozási hitelek, export előfinanszírozási refinanszírozási hitelek és az exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek legkisebb kamatlába a 7. § (1) bekezdésében meghatározott legkisebb kamatláb mínusz 3,5%. Az e bekezdésben meghatározott refinanszírozási hitelek legkisebb kamatlábának meghatározására a szerződéskötés napján, illetve állami támogatást tartalmazó hitelek esetén az állami támogatási szabályoknak megfelelően kerül sor, és rögzített a teljes futamidő alatt.
+
+(2)[^83] A két éves és két éven túli futamidejű refinanszírozási exporthitelek és a két éven túli futamidejű exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek legkisebb kamatlába belföldi pénzügyi intézmények esetében a 7. § (2) bekezdésében meghatározott kamatláb mínusz 3,5%. Az e bekezdés hatálya alá tartozó hitelek legkisebb kamatlábának meghatározására az OECD Megállapodás rendelkezései szerint megállapított időpontban kerül sor.
+
+(3)[^84]
+
+(4)[^85]
+
+## 9. §[^86]
+
+(1) A külföldi hitelintézetnek nyújtott két éves és két éven túli futamidejű refinanszírozási exporthitel legkisebb kamatlába a 7. § (2) bekezdésében szereplő kamatláb.
+
+(2) Az Eximbank külföldi hitelintézetnek csak vevőhitel vagy vevőhitelkeret konstrukcióban, külföldi vevő finanszírozására nyújthat refinanszírozási exporthitelt és csak akkor, ha az vállalja, hogy e forrást legalább az Eximbankkal kötött hitelszerződésben rögzített kamatlábon adja tovább.
+
+## 10. §[^87]
+
+A kamatkiegyenlítés alapjául szolgáló bázisköltséget az Eximbank javaslatára a CIRR Bizottság negyedévente határozza meg a megelőző negyedév utolsó hónapjának 25. napjáig. A CIRR Bizottság által megállapított banküzemi költség nem haladhatja meg a jóváhagyott üzleti tervben szereplő mértéket. Minden hitel-, pénzkölcsön- és követelésvásárlási szerződés, valamint az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapír kamatkiegyenlítésénél az adott negyedévben érvényes bázisköltség mértékét kell alkalmazni, kivéve, ha az adott hitel-, pénzkölcsön- és követelésvásárlási szerződés, valamint az 1. § (1c) bekezdése szerinti hitelviszonyt megtestesítő értékpapír kamatkiegyenlítésére a Kormány egyedi döntése szerinti esetben az Eximbank javaslatára a CIRR Bizottság egyedi bázisköltséget határoz meg.
+
+## 10/A. §[^88]
+
+Ha az e rendelet hatálya alá tartozó ügyletekhez a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet (a továbbiakban: Mehib Korm. rendelet) alapján a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság biztosítást nyújt az Eximbank részére, és a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság a Mehib Korm. rendelet 17. § (6) és (7) bekezdésében foglaltak szerint a kárt a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint állapítja meg és fizeti meg, akkor az Eximbank a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaságra átruházott követelés tekintetében is jogosult a kamatkiegyenlítési rendszerben a központi költségvetéssel elszámolni. Ebben az esetben a bázisköltség részét képező kockázati felár mértéke nulla.
+
+## 11. §
+
+A kamatkiegyenlítési rendszerben az Eximbank a központi költségvetéssel – a külön jogszabályban foglaltak szerint – a költségvetési törvényben meghatározott előirányzatok mértékéig számolhat el.
+
+## 11/A. §[^90]
+
+Az Eximbank köteles teljesíteni az OECD Kereskedelmi és Mezőgazdasági Igazgatósága által meghatározott adatszolgáltatási, valamint bejelentési kötelezettségeket, továbbá az e rendelet hatálya alá tartozó ügyekben eljár az OECD-ben. Az Eximbank az Európai Unió és az OECD Kereskedelmi és Mezőgazdasági Igazgatósága által előírt értesítési, konzultációs, adatszolgáltatási és bejelentési kötelezettségeinek jogosult a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársasággal közösen eleget tenni.
+
+## 11/B. §[^91]
+
+Az Eximbank az Európai Bizottság számára készítendő éves tevékenységi jelentéshez e rendelet vonatkozásában az 1. § (1) bekezdés a) és b) pontjában szereplő ügyletekkel kapcsolatban szolgáltat adatot.
+
+## 12. §[^92]
+
+E rendelet a kihirdetését követő 5. napon lép hatályba.
+
+## 12/A. §[^93]
+
+E rendeletnek a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet módosításáról szóló 53/2019. (III. 14.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 10/A. §-át a Mód. R. hatálybalépését[^94] megelőzően megkötött ügyletekre is lehet alkalmazni.
+
+## 13. §[^95]
+
+(1)[^96] 2026. december 31-ig a belföldi célú refinanszírozási hitelek, valamint a 8. § (2) bekezdésében meghatározott kivétellel a refinanszírozási exporthitelek, egyéb export célú refinanszírozási hitelek, export előfinanszírozási refinanszírozási hitelek és az exportkövetelések megvásárlásához nyújtott refinanszírozási hitelek a 7. § (1) bekezdésében meghatározott legkisebb kamatlábnál alacsonyabb kamatláb mellett is nyújthatók, az így meghatározott kamatláb mértéke legalább 0,01%.
+
+(2)[^97] Az (1) bekezdés szerinti refinanszírozási hitelek legkisebb kamatlábának meghatározására a belföldi célú refinanszírozási hitelek és a 8. § (2) bekezdésében meghatározott refinanszírozási hitelek kivételével a refinanszírozási feltételeket rögzítő szerződés megkötésének napján kerül sor, amely kamatláb rögzített a teljes futamidő alatt.
+
+(3)[^98] A belföldi célú refinanszírozási hitelek esetén a kamatláb a refinanszírozási hitel Eximbank általi, belső szabályzataiban és a termékleírásokban rögzített jóváhagyásának napján kerül megállapításra, amely kamatláb rögzített a teljes futamidő alatt.
+
+## 13/A. §[^99]
+
+(1)[^100]
+
+(2)[^101] A 4. § (1) bekezdése, a 7. § (2) bekezdése, a 9. §, a 11/A. és 11/B. § a hivatalosan támogatott exporthitelek terén bizonyos iránymutatások alkalmazásáról, valamint a 2001/76/EK és a 2001/77/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2011. november 16-i 1233/2011/EU európai parlamenti és tanácsi rendelet 5. cikke, I. Melléklet 1. és 2. pontja, valamint II. Melléklete végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 14. §[^102]
+
+Ez a rendelet
+
+1.[^103]
+
+2\. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet és
+
+3\. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet
+
+hatálya alá tartozó támogatást tartalmaz.
+
+## 15. §[^104]
+
+E rendeletnek a a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet módosításáról szóló 645/2023. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 6. § (2) és (3) bekezdését, 6. § (11) bekezdés b) pontját, valamint 7. § (2) bekezdését, továbbá a Módr2.-vel megállapított 6. § (12) bekezdését a Módr2. hatálybalépését[^105] megelőzően létrejött ügyletekre is alkalmazni kell.
+
+## 16. §[^106]
+
+E rendeletnek a Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet módosításáról szóló 462/2025. (XII. 30.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^107] megelőzően létrejött versenyképességet javító hitelekre, valamint versenyképességet javító refinanszírozási hitelekre a Módr3. hatálybalépését követően a Módr3. belföldi célú hitelekre és belföldi célú refinanszírozási hitelekre vonatkozó rendelkezéseit kell alkalmazni.
+
+## 1. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^108]
+
+## 2. melléklet a 85/1998. (V. 6.) Korm. rendelethez[^109]
+
+---
+
+[^1]: Az 1. § a 434/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés c) pontja a 75/2017. (IV. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés d) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés e) pontja a 462/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés f) pontja a 462/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés g) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^8]: Az 1. § (1) bekezdés h) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés i) pontját a 75/2017. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (1) bekezdés j) pontját a 432/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 338/2024. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: Az 1. § (1) bekezdés k) pontját a 645/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § (1) bekezdés l) pontját a 645/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^13]: Az 1. § (1a) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^14]: Az 1. § (1b) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 75/2017. (IV. 3.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. § (1c) bekezdését a 327/2022. (IX. 1.) Korm. rendelet 1. §-a iktatta be.
+[^16]: Az 1. § (2) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (3) bekezdését a 645/2023. (XII. 28.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^18]: Az 1. § (4) bekezdését a 645/2023. (XII. 28.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^19]: Az 1. § (5) bekezdése az 53/2020. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: Az 1. § (5a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 1. § (6) bekezdése iktatta be, hatályon kívül helyezte az 53/2020. (III. 20.) Korm. rendelet 3. § a) pontja.
+[^21]: Az 1. § (6) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § c) és d) pontja, a 462/2025. (XII. 30.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
+[^22]: Az 1. § (7) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § d) és e) pontja, a 462/2025. (XII. 30.) Korm. rendelet 4. § a) és b) pontja szerint módosított szöveg.
+[^23]: Az 1. § (8) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^24]: A 2. § a 75/2017. (IV. 3.) Korm. rendelet 2. §-ával megállapított, a 327/2022. (IX. 1.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^25]: A 2. § a) pontja a 645/2023. (XII. 28.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^26]: A 2. § f) pontja a 235/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 2. § h) pontját a 432/2021. (VII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 2. § i) pontját a 645/2023. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^29]: A 3. § a 304/2005. (XII. 25.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után megkötött exporthitel-, pénzkölcsön- és garancia-szerződésekre irányadó.
+[^30]: A 3. § a) pontja a 327/2022. (IX. 1.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^31]: A 3. § b) pontja a 645/2023. (XII. 28.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^32]: A 3. § c) pontja a 126/2020. (IV. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 3. § d) pontja a 645/2023. (XII. 28.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^34]: A 3. § e) pontja a 215/2015. (VII. 31.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 645/2023. (XII. 28.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^35]: A 3. § f) pontját a 645/2023. (XII. 28.) Korm. rendelet 7. § f) pontja hatályon kívül helyezte.
+[^36]: A 3. § h) pontja a 238/2022. (VI. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^37]: A 3. § i) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^38]: A 3. § j) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^39]: A 3. § k) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 183/2013. (VI. 7.) Korm. rendelet 2. §-ával megállapított, a 327/2014. (XII. 15.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^40]: A 3. § l) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^41]: A 3. § m) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^42]: A 3. § n) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 645/2023. (XII. 28.) Korm. rendelet 7. § f) pontja hatályon kívül helyezte.
+[^43]: A 3. § o) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 211/2017. (VII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^44]: A 3. § p) pontját a 434/2012. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 645/2023. (XII. 28.) Korm. rendelet 7. § f) pontja hatályon kívül helyezte.
+[^45]: A 3. § q) pontját a 140/2014. (IV. 30.) Korm. rendelet 1. § (6) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^46]: A 3. § r) pontját a 75/2017. (IV. 3.) Korm. rendelet 3. §-a iktatta be.
+[^48]: A 4. § a 434/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A 4. § (1) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^50]: A 4. § (2) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 7. § d) pontja, a 140/2014. (IV. 30.) Korm. rendelet 2. § 3. pontja, a 75/2017. (IV. 3.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^51]: Az 5. § a 311/2001. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^52]: Az 5. § (1) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 3. §-ával megállapított, a 645/2023. (XII. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^53]: Az 5. § (2) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^54]: A 6. § a 434/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^55]: A 6. § (1) bekezdése a 235/2021. (V. 6.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^56]: A 6. § (1a) bekezdését a 26/2019. (II. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^57]: A 6. § (2) bekezdése a 645/2023. (XII. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^58]: A 6. § (3) bekezdése a 215/2015. (VII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított, a 26/2019. (II. 28.) Korm. rendelet 3. § b) pontja, a 235/2021. (V. 6.) Korm. rendelet 3. § b) pontja, a 645/2023. (XII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^59]: A 6. § (4) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 4. §-ával megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^60]: A 6. § (5) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 75/2017. (IV. 3.) Korm. rendelet 6. § g)–h) pontja szerint módosított szöveg.
+[^61]: A 6. § (7) bekezdését a 140/2014. (IV. 30.) Korm. rendelet 1. § (8) bekezdése iktatta be, a 645/2023. (XII. 28.) Korm. rendelet 7. § h) pontja hatályon kívül helyezte.
+[^62]: A 6. § (7a) bekezdését a 75/2017. (IV. 3.) Korm. rendelet 4. §-a iktatta be, szövege a 462/2025. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^63]: A 6. § (8) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be, nyitó szövegrésze a 645/2023. (XII. 28.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^64]: A 6. § (8) bekezdés a) pontja a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^65]: A 6. § (8) bekezdés b) pontja a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^66]: A 6. § (8) bekezdés c) pontja a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^67]: A 6. § (8) bekezdés d) pontja a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^68]: A 6. § (8) bekezdés e) pontját a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^69]: A 6. § (8) bekezdés f) pontját a 235/2021. (V. 6.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^70]: A 6. § (9) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^71]: A 6. § (10) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^72]: A 6. § (11) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^73]: A 6. § (11) bekezdés b) pontja a 645/2023. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^74]: A 6. § (12) bekezdését a 645/2023. (XII. 28.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^76]: A 7. § a 432/2021. (VII. 16.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^77]: A 7. § (1) bekezdés nyitó szövegrésze a 327/2022. (IX. 1.) Korm. rendelet 2. § c) pontja, a 645/2023. (XII. 28.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^78]: A 7. § (1) bekezdés d) pontja a 645/2023. (XII. 28.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^79]: A 7. § (2) bekezdése a 645/2023. (XII. 28.) Korm. rendelet 4. §-ával megállapított, a 462/2025. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^80]: A 7. § (4) bekezdése a 338/2024. (XI. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^81]: A 8. § a 434/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^82]: A 8. § (1) bekezdése a 645/2023. (XII. 28.) Korm. rendelet 5. §-ával megállapított, a 462/2025. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^83]: A 8. § (2) bekezdése a 183/2013. (VI. 7.) Korm. rendelet 5. §-ával megállapított, a 140/2014. (IV. 30.) Korm. rendelet 2. § 9. pontja, a 75/2017. (IV. 3.) Korm. rendelet 6. § l) pontja, a 126/2020. (IV. 16.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^84]: A 8. § (3) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 7. § e) pontja hatályon kívül helyezte.
+[^85]: A 8. § (4) bekezdését a 183/2013. (VI. 7.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 7. § e) pontja.
+[^86]: A 9. § a 434/2012. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^87]: A 10. § a 26/2019. (II. 28.) Korm. rendelet 2. §-ával megállapított, a 327/2022. (IX. 1.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^88]: A 10/A. §-t újonnan az 53/2019. (III. 14.) Korm. rendelet 1. §-a iktatta be.
+[^90]: A 11/A. §-t a 311/2001. (XII. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^91]: A 11/B. §-t újonnan a 434/2012. (XII. 29.) Korm. rendelet 11. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^92]: A 12. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1280. pontja szerint módosított szöveg.
+[^93]: A 12/A. §-t az 53/2019. (III. 14.) Korm. rendelet 2. §-a iktatta be.
+[^94]: A hatálybalépés időpontja 2019. március 22.
+[^95]: A 13. §-t a 126/2020. (IV. 16.) Korm. rendelet 7. § f) pontja hatályon kívül helyezte, újonnan az 501/2022. (XII. 8.) Korm. rendelet 1. §-a iktatta be.
+[^96]: A 13. § (1) bekezdése a 462/2025. (XII. 30.) Korm. rendelet 4. § d) és e) pontja szerint módosított szöveg.
+[^97]: A 13. § (2) bekezdése a 462/2025. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^98]: A 13. § (3) bekezdése a 462/2025. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^99]: A 13/A. §-t a 434/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^100]: A 13/A. § (1) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 7. § g) pontja hatályon kívül helyezte.
+[^101]: A 13/A. § (2) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^102]: A 14. §-t a 140/2014. (IV. 30.) Korm. rendelet 1. § (12) bekezdése iktatta be, szövege a 327/2014. (XII. 15.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^103]: A 14. § 1. pontját a 645/2023. (XII. 28.) Korm. rendelet 7. § l) pontja hatályon kívül helyezte.
+[^104]: A 15. §-t a 645/2023. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^105]: A hatálybalépés időpontja 2023. december 29.
+[^106]: A 16. §-t a 462/2025. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^107]: A hatálybalépés időpontja 2025. december 31.
+[^108]: Az 1. mellékletet az 53/2020. (III. 20.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^109]: A 2. mellékletet a 204/2012. (VII. 27.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 7. § h) pontja.

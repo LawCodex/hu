@@ -1,0 +1,66 @@
+---
+title: "32/1991. (II. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről"
+identifier: "32/1991. (II. 26.) Korm. rendelet"
+njt_id: "1991-32-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/32"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-02-26
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-32-20-22"
+retrieved: 2026-10-12
+---
+
+# 32/1991. (II. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről[^1]
+
+*(A megállapodás megkötésére 1990. június 25-én levélváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó 1990. június 25-én kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magyar külügyminiszternek az 1. §-ban említett megállapodást tartalmazó, a norvég külügyminiszterhez intézett angol nyelvű válaszlevele hivatalos magyar nyelvű fordítása a következő:
+
+,,Excellenciás Uram,
+
+Van szerencsém igazolni a mai napon kelt alábbi szövegű levelének vételét:
+
+Excellenciás Uram,
+
+Tisztelettel értesítem, hogy a Norvégia és Magyarország közötti utazás megkönnyítése érdekében a Norvég Királyság Kormánya hajlandó a Magyar Köztársaság Kormányával megállapodás megkötésére a vízumkötelezettség megszüntetésére, az alábbi feltételekkel:
+
+1\. Érvényes norvég útlevéllel rendelkező norvég állampolgárok bármely hivatalos határátkelő helyen szabadon beutazhatnak Magyarországra legfeljebb 90 napos tartózkodási időre, vízumszerzés kényszere nélkül.
+
+2\. Érvényes magyar útlevéllel rendelkező magyar állampolgárok bármely hivatalos határátlépő helyen szabadon beutazhatnak Norvégiába és legfeljebb kilencven napig tartózkodhatnak Norvégiában, vízumszerzés kényszere nélkül. E kilencven napos időtartam bármely olyan északi államba való belépés napjától számítandó, amely állam tagja az Északi Államok közötti útlevélellenőrzés megszüntetéséről szóló 1957. július 12-i Egyezménynek. A fenti kilencven napos időtartamba beszámítandó mindennemű tartózkodás nem északi állampolgárok részéről a fenti államokban.
+
+3\. A felek egyetértenek abban, hogy a vízumkötelezettség megszüntetése nem mentesíti a jelen megállapodást hasznosító személyeket azon kötelezettségük alól, hogy betartsák az adott ország belépésre, tartózkodásra — akár időleges, akár tartós — és munkavállalásra vonatkozó érvényes törvényeit és szabályait.
+
+4\. Mindegyik ország hatóságai fenntartják a jogot, hogy a másik ország nemkívánatosnak tekintett állampolgáraitól megtagadják az országba való belépés és tartózkodás jogát.
+
+5\. Mindegyik ország hatóságai vállalják, hogy bármely állampolgárukat formalitásoktól mentesen visszaengedik területükre.
+
+6\. Bármelyik Kormány a közrend fenntartása okán időlegesen a fenti rendelkezéseket egészében vagy részben felfüggesztheti, a fenti 5. pont kivételével. Az ilyen felfüggesztést a másik kormánnyal diplomáciai úton haladéktalanul közölni kell.
+
+7\. A jelen megállapodás 1990. július 15-ével lép életbe. A megállapodás bármelyik Kormány által írásbeli értesítéssel felmondható; a felmondás az értesítés keltétől számított harminc nap után válik hatályossá.
+
+Amennyiben a fenti javaslatok a Magyar Köztársaság Kormánya számára elfogadhatók, tisztelettel javaslom, hogy a jelen levél és Excellenciás Uram válasza Kormányaink között ez ügyben kötött megállapodást jelentsen.
+
+Fogadja, Excellenciás Uram, a legnagyobb nagyrabecsülésemet.
+
+Tisztelettel igazolom, hogy a Kormányom a fenti javaslatokat elfogadja. Az Ön levele és jelen válaszlevelem megállapodást jelentenek a Magyar Köztársaság és a Norvég Királyság között a magyar és norvég állampolgárok vízumkényszerének megszüntetéséről, amely 1990. július 15-én lép hatályba. Fogadja Excellenciás Uram, a legnagyobb nagyrabecsülésem kifejezését.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. július 15. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1991. évi 27. számában közzétett helyesbítésnek megfelelő szöveg.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 18. pontja szerint módosított szöveg.

@@ -1,0 +1,878 @@
+---
+title: "301/2009. (XII. 22.) Korm. rendelet az előzetes eredetiségvizsgálati eljárás részletes szabályairól"
+identifier: "301/2009. (XII. 22.) Korm. rendelet"
+njt_id: "2009-301-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/301"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-22
+in_force_from: 2010-01-01
+last_amended: 2026-02-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-301-20-22"
+retrieved: 2026-10-12
+---
+
+# 301/2009. (XII. 22.) Korm. rendelet az előzetes eredetiségvizsgálati eljárás részletes szabályairól
+
+A közúti közlekedési nyilvántartásról szóló 1999. LXXXIV. törvény 41/A. § a) és d) pontjában, a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pontjának 7. alpontjában, valamint az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről 2007. évi LXXXII. törvény 6. § (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+a)[^1] *adminisztrátor:* az előzetes eredetiségvizsgálati tevékenységben való részvétel céljából a közreműködővel foglalkoztatási vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, aki 2017. január 1. napját megelőzően a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: Hivatal), 2017. január 1. napjától a közúti közlekedési nyilvántartó szerv (a továbbiakban: Nyilvántartó), 2021. január 1. napjától Budapest Főváros Kormányhivatala által szervezett oktatásban részt vett, sikeres vizsgát tett és jogosultságot szerzett az e rendeletben előírt adminisztratív tevékenység végzésére;
+
+b) *közreműködő:* a közlekedési hatóság az általa működtetett, valamint az engedélyező hatóság által engedélyezett, a jármű előzetes eredetiségvizsgálata során a közúti közlekedési nyilvántartásról szóló 1999. LXXXIV. törvény (a továbbiakban: Kknyt.) 9/B. § (1) bekezdés a)–f) pontjaiban meghatározott adatok igazolása tekintetében a tényállás tisztázásában közreműködő tanúsító szervezetek;
+
+c) *vizsgálati módszer:* az e rendeletben meghatározott adminisztratív és technológiai feltételeknek megfelelő eljárásrend;
+
+d)[^2] *vizsgáló:* az előzetes eredetiségvizsgálati tevékenységben való részvétel céljából a közreműködővel foglalkoztatási vagy munkavégzésre irányuló egyéb jogviszonyban álló személy, aki 2017. január 1. napját megelőzően a Hivatal, 2017. január 1. napjától a Nyilvántartó, 2021. január 1. napjától Budapest Főváros Kormányhivatala által szervezett oktatásban részt vett, sikeres vizsgát tett és jogosultságot szerzett az e rendeletben előírt vizsgálói tevékenység végzésére;
+
+e)[^3] *vizsgálóállomás:* a közlekedési hatóság által működtetett telephely, valamint az előzetes eredetiségvizsgálatra az engedélyező hatósággal szerződéses jogviszonyban álló jogi személy vagy egyéni vállalkozó, illetve egyéni cég által működtetett telephely, amely alkalmas a jármű és a járműokmányok előírt adatainak hiteles felvételezésére, rögzítésére, valamint azoknak a Nyilvántartó részére történő továbbítására.
+
+## Az előzetes eredetiségvizsgálat
+
+### 1/A. §[^4]
+
+(1) A Nyilvántartó szakmai ellenőrzést gyakorol a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának előzetes eredetiségvizsgálati tevékenységére nézve.
+
+(2)[^5] Budapest Főváros Kormányhivatala ellátja a járművek előzetes eredetiségvizsgálata során a tényállás felderítésében közreműködő tanúsító szervezetek, valamint az adminisztrátorok és a vizsgálók tekintetében a szolgáltatás felügyeletét.
+
+### 1/B. §[^6]
+
+Budapest Főváros Kormányhivatala elvégzi az előzetes eredetiségvizsgálati vizsgálók és adminisztrátorok képzésével, vizsgáztatásával és továbbképzésével összefüggő feladatokat.
+
+### 2. §
+
+(1)[^7] Az előzetes eredetiségvizsgálatot a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala – közreműködő igénybevételével – végzi.
+
+(2)[^8] A járművek előzetes eredetiségvizsgálatának elvégzését és eredményét a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala által kiadott hatósági bizonyítvány igazolja.
+
+(3)[^9] A közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala által kiadott hatósági bizonyítványt az ügyfél
+
+a) közvetlenül a jármű megvizsgálását követően az eredetiségvizsgálati tevékenységet végző vizsgálóállomáson, vagy
+
+b)[^10] a közlekedési igazgatási hatóságnál a jármű megvizsgálását követő tizenöt napon belül, ezt követően
+
+c) postai kézbesítés útján
+
+veheti át.
+
+(3a)[^11] Az előzetes eredetiségvizsgálati eljárásban a döntés szóbeli közlésének nincs helye.
+
+(3b)[^12] Az előzetes eredetiségvizsgálat elvégzésére irányuló kérelem kormányablaknál nem nyújtható be, az kizárólag a vizsgálóállomáson terjeszthető elő. Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő tíz nap.
+
+(4) A járművet előzetes eredetiségvizsgálat céljából a vizsgálóállomáson kell bemutatni.
+
+(5) A kérelem előterjesztésének, átvételének, a jármű műszaki adatai vizsgáló állomáson történő rögzítésének és azok előzetes eredetiségvizsgálati nyilvántartásba (a továbbiakban: nyilvántartás) történő továbbításának rendjét a 4. melléklet tartalmazza.
+
+(6)[^13] A 4. mellékletben szereplő, a járművek azonosítására szolgáló okmányok eredeti példánya képezi az eljárás során a vizsgálat tárgyát. A hiányzó irat vagy okmány az ügyfél nyilatkozatával nem pótolható.
+
+(7)[^14] Az előzetes eredetiségvizsgálatra vonatkozó közlekedési igazgatási hatósági eljárásban nincs helye szünetelésnek.
+
+(8)[^15] A közlekedési igazgatási hatóság az előzetes eredetiségvizsgálati nyilvántartás adatai alapján a nyilvántartásba bejegyzett kérelmező kérelmére hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és személyesen történő benyújtás esetén – automatikus döntéshozatal útján.
+
+### 3. §
+
+(1)[^16] A vizsgálóállomások a felvételezett adatok nyilvántartás részére történő továbbítását kizárólag elektronikus úton, a Nyilvántartó által erre a célra kialakított felhasználói felületen teljesítik.
+
+(2)[^17] A vizsgálóállomás a felelősségi körében gondoskodik a nyilvántartásba továbbított adatok helyességéről, időszerűségéről, valamint utólag értesíti a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalát a később felfedett adathiba tényéről és a rendelkezésre álló helyes adatról.
+
+## A közreműködő engedélyezésére irányuló eljárás
+
+### 4. §
+
+(1)[^18] Az engedélyezés iránti kérelmet a kérelmező székhelye szerint illetékes közlekedési hatóság (a továbbiakban: engedélyező hatóság) bírálja el.
+
+(2)[^19]
+
+(3)[^20] Az engedély iránti kérelemnek – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túl – tartalmaznia kell:
+
+a) azon vizsgálóállomások címét, amelyeken a kérelmező előzetes eredetiségvizsgálati tevékenységet kívánja végezni,
+
+b) a kérelmező adószámát, számlaszámát, a számláját vezető pénzintézet nevét, elektronikus levélcímét, telefax számát, telefonos elérhetőségét, valamint képviselőjének nevét,
+
+c) azon járműkategóriák megjelölését, amelyre vonatkozóan a kérelmező tanúsító szervezetként kíván közreműködni az előzetes eredetiségvizsgálati hatóság eljárásában.
+
+(4)[^21] Az engedélyezési eljárás során vizsgálni kell, hogy a kérelmező köztartozásmentes adózónak minősül-e, továbbá, hogy rendelkezik-e a tevékenység végzéséhez szükséges jogszabályi feltételekkel.
+
+## A hatósági szerződés kötelező tartalmi elemei
+
+### 5. §
+
+(1) A közreműködővel a Kknyt. 33/A. § (2) bekezdése alapján kötendő hatósági szerződésnek tartalmaznia kell:
+
+a) az engedélyező hatóság megnevezését, a Magyar Államkincstárnál vezetett számlaszámát, az ügy számát, valamint ügyintézőjének és képviselőjének a nevét,
+
+b) a közreműködő megnevezését, székhelyét, a kérelemben megjelölt telephelyeinek felsorolását, adószámát, cégjegyzékszámát, számlaszámát és a számláját vezető pénzintézet megnevezését, elektronikus levélcímét, valamint képviselőjének a nevét,
+
+c) a szerződés tárgyát, a szerződés alapján tanúsító szervezetként végzett tevékenység leírását, az arra vonatkozó kötelezettségvállalást,
+
+d) annak a járműkategóriának a megjelölését, amelyre vonatkozóan a vizsgáló állomás az eredetiségvizsgálati tevékenységét végzi,
+
+e) az engedélyező hatóság engedélyét az eredetiségvizsgálati tevékenységben tanúsító szervezetként történő közreműködésre,
+
+f) arra vonatkozó nyilatkozatot, hogy a közreműködő a szerződésben meghatározott tevékenységét a Kknyt. által meghatározott, valamint az e rendeletben előírt személyi, tárgyi, technikai és informatikai feltételek teljesítésével végzi,
+
+g) a közreműködő vizsgálóállomásai által az eredetiségvizsgálati tevékenységet támogató rendszerbe (a továbbiakban: KERT) elektronikus úton továbbítandó, a KERT rendszerben rögzítendő adatok körét, az erre vonatkozó kötelezettségvállalást,
+
+h) a közreműködő és az engedélyező hatóság közötti elszámolás rendjét,
+
+i) a felek közötti kapcsolattartás módját,
+
+j) a felmondási okokat,
+
+k) a szerződésszegésnek minősülő magatartásokat és azok jogkövetkezményeit,
+
+l) a tevékenység ellenőrzésének gyakoriságát és rendjét, valamint
+
+m)[^22] a közreműködő nyilatkozatát arról, hogy valamennyi e rendelet alapján a szerződésben foglalt kötelezettség tekintetében aláveti magát a szerződésszegés általános közigazgatási rendtartásról szóló törvény szerinti következményeinek,
+
+n)[^23] azt, hogy a közreműködőt tevékenységéért az előzetes eredetiségvizsgálat hatósági díja mindenkori összege 40%-ának megfelelő mértékű ellenérték illeti meg.
+
+(2) A hatósági szerződés határozatlan időtartamra szól.
+
+(3)[^24] Az engedélyező hatóság a hatósági szerződés egy példányát a megkötésétől számított öt napon belül megküldi a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalának.
+
+(4)[^25] A hatósági szerződés tartalmában bekövetkezett változásról, a hatósági szerződés megszűnéséről és a végrehajtás elrendeléséről az engedélyező hatóság öt napon belül értesíti a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalát.
+
+## A vizsgálóállomás működési és technikai feltételei
+
+### 6. §
+
+(1) A közreműködő a tanúsítói tevékenységét azokon a vizsgálóállomásokon végezheti, amelyek tekintetében
+
+a)[^26] rendelkezésre állnak a forgalmi engedély adatainak és a Kknyt. 9/B. § (1) bekezdés a)–d) és h) pontjában foglalt adatok hiteles felvételezését és megmásíthatatlan rögzítését, valamint a Nyilvántartóhoz történő sérülésmentes továbbítását biztosító, e rendeletben meghatározott tárgyi és személyi feltételek,
+
+b) a hatósági szerződésben vagy az együttműködési megállapodásban megjelölt járműfajtára, járműkategóriára vonatkozóan vállalja, hogy a járművek előzetes eredetiségvizsgálatának elvégzésével összefüggő feladatokat folyamatosan ellátja,
+
+c) tevékenységével összefüggésben kötelező felelősségbiztosítással rendelkezik,
+
+d) az előzetes eredetiségvizsgálat személyes végzésére jogosult személlyel munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt létesít,
+
+e) az e rendeletben meghatározott vizsgálati módszer kerül alkalmazásra,
+
+f)[^27] biztosított az *a)* pontban foglaltak alapján felvételezett adatok megmásíthatatlan rögzítéséhez és a Nyilvántartóhoz történő sérülésmentes továbbításához szükséges közvetlen adattovábbítást lehetővé tévő adatátviteli kapcsolat,
+
+g) a 3. mellékletében meghatározott informatikai és biztonsági feltételeket teljesíti,
+
+h) biztosított, hogy a vizsgálóhelyiségbe (vizsgálat helyére) a vizsgálat tartama alatt illetéktelen személy ne léphessen be,
+
+i) biztosított, hogy a jármű minden irányból vizsgálható.
+
+(2) A vizsgálóállomásnak rendelkeznie kell elektronikus és mechanikus vagyonvédelmi rendszerrel.
+
+## A vizsgálóállomás működésének ellenőrzése
+
+### 7. §
+
+(1) A hatósági szerződésben foglaltak betartását az engedélyező hatóság a közreműködő vizsgálóállomásain rendszeresen ellenőrzi.
+
+(2)[^28] Ha az ellenőrzés hiányosságokat tár fel a közreműködő telephelyén, a Nyilvántartó egyidejű értesítése mellett az engedélyező hatóság írásban felszólítja a közreműködőt a megállapított hiányosságok megszüntetésére, egyben felhívja a közreműködőt a hatósági szerződés megszegésének következményeire.
+
+(3)[^29] Az előzetes eredetiségvizsgálat hatósági folyamatát, különösen a közreműködő telephelyén végzett tevékenysége során a valós adatok hiteles felvételezését, megmásíthatatlan rögzítését és azok nyilvántartásba történő sérülésmentes továbbítását, valamint a vizsgálók és adminisztrátorok tevékenységét Budapest Főváros Kormányhivatala rendszeresen és esetenként ellenőrzi.
+
+(4)[^30] Ha az ellenőrzés a közreműködő érdekkörében tár fel hiányosságot, Budapest Főváros Kormányhivatala – a 9. § (5) bekezdése szerinti intézkedés megtételével egyidejűleg – azt írásban közli az engedélyező hatósággal, aki köteles a hiányosság megszüntetése érdekében haladéktalanul intézkedni.
+
+## Közreműködők nyilvántartása
+
+### 8. §
+
+(1)[^31] A Nyilvántartó nyilvántartást vezet az eredetiségvizsgálat hatósági eljárásában részt vevő közreműködőkről, azok telephelyeiről, fióktelepeiről, az engedélyező hatóság által megkötött hatósági szerződésekről, valamint a közreműködővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló vizsgálókról és adminisztrátorokról (a továbbiakban együtt: vizsgáló).
+
+(2) A közreműködők nyilvántartása – a Kknyt. 33/A. § (5) bekezdésében és 33/B. § (2) bekezdésében meghatározott adatokon felül – naprakészen tartalmazza:
+
+a) a közreműködő azonosító adatait,
+
+b) a vizsgálóállomás azonosító adatait,
+
+c) a hatósági szerződés nyilvántartási számát,
+
+d) vizsgálói, illetve adminisztrátori besorolást,
+
+e) a vizsgálók azonosító kódját,
+
+f) a vizsgálói jogosultság felfüggesztésének és törlésének tényét,
+
+g) a hatósági szerződés megszüntetésének, a vizsgálói jogosultság felfüggesztésének és törlésének alapjául szolgáló jogerős bírósági vagy más hatósági határozat számát,
+
+h) a nyilvántartásba való bejegyzés, törlés időpontját.
+
+(3)[^32] Az (1) bekezdés szerinti nyilvántartás a (2) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító adatok, a lakcímadatok, továbbá a cégadatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+### 8/A. §[^33]
+
+A közreműködőkről vezetett nyilvántartásba történő bejegyzés valamint törlés alapjául szolgálhat különösen:
+
+a) a közreműködő és a közlekedési hatóság között megkötött hatósági szerződés,
+
+b) a közreműködő és a közlekedési hatóság között megkötött hatósági szerződés tartalmában bekövetkezett változásról vagy a szerződés megszűnéséről szóló tájékoztatás,
+
+c) a vizsgálói jogosultság felfüggesztését vagy törlését elrendelő hatósági határozat,
+
+d) a vizsgálói jogosultság felfüggesztésével vagy törlésével kapcsolatos, a jogorvoslati eljárás során hozott döntés.
+
+### 9. §
+
+(1)[^34] Az előzetes eredetiségvizsgálatra irányuló hatósági eljárásban vizsgálóként, illetve adminisztrátorként tevékenységet végezni csak a Nyilvántartó által kiadott jogosultság-azonosító (a továbbiakban: jogosultság) birtokában lehet.
+
+(2)[^35] A Nyilvántartó a jogosultság kiadása előtt, valamint a jogosultság fennállása alatt ellenőrzi, hogy a vizsgáló, illetve az adminisztrátor megfelel-e a Kknyt. 33/A. § (3) bekezdésnek b) pontjában, illetve az e rendeletben meghatározott alkalmazási feltételeknek.
+
+(3)[^36] A közreműködő és a vizsgálóállomás azonosító adataiban bekövetkezett változást, valamint a jogosultsággal összefüggő adatok megváltozását a közreműködő közvetlenül, a vizsgáló és az adminisztrátor a közreműködőn keresztül a változást követő öt napon belül köteles a Nyilvántartónak bejelenteni.
+
+(4)[^37] Ha a közreműködő, a vizsgáló, illetve az adminisztrátor saját hibájából elmulasztotta a (3) bekezdésben foglalt bejelentési kötelezettségét, az érintett vizsgáló, illetve adminisztrátor jogosultságát a Nyilvántartó a mulasztás pótlásáig felfüggesztheti.
+
+(5)[^38] A Nyilvántartó a közreműködő érdekkörében felmerült hiányosságok megszüntetéséig, továbbá a hatósági szerződés megszűnése, valamint a hatósági szerződés közreműködő általi megszegése következtében elrendelt végrehajtás esetén a közreműködővel a 6. § (1) bekezdés d) pontja szerinti jogviszonyban álló vizsgáló, illetve adminisztrátor jogosultságát felfüggeszti.
+
+### 10. §
+
+(1)[^39] A Nyilvántartó a nyilvántartásából törli a vizsgálói vagy adminisztrátori jogosultságát annak a személynek,
+
+a) aki azt kérelmezi,
+
+b) aki az e rendeletben foglalt szabályokat neki felróható módon megszegte, ha az kihatott a vizsgálat eredményére,
+
+c) akinek a közreműködővel fennálló munkaviszonya vagy munkavégzésre irányuló egyéb jogviszonya megszűnt,
+
+d) aki nem felel meg a Kknyt. 33/A. § (3) bekezdésnek b) pontjában, illetve az e rendeletben meghatározott alkalmazási feltételeknek.
+
+(2) Akit az (1) bekezdés b) pontjában meghatározott ok miatt töröltek a nyilvántartásból, annak részére egy évig nem adható jogosultság.
+
+## A közlekedési hatóság által működtetett vizsgáló állomásokra vonatkozó rendelkezések
+
+### 11. §
+
+(1) A közlekedési hatóság által működtetett vizsgáló állomások esetében a 4. §-t, az 5. § (1) bekezdés a), e), h), j) pontját, az 5. § (2)–(4) bekezdését, valamint a 7. § (1), (2) és (4) bekezdését nem kell alkalmazni.
+
+(2)[^40] Az 5. § (1) bekezdés *b)–d), f), g), i)* és *k)–m)* pontjában foglaltakat a közlekedési hatóság és a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala együttműködési megállapodásban határozza meg.
+
+## A vizsgálók és adminisztrátorok képzésének, továbbképzésének szabályai
+
+### 12. §
+
+(1) A vizsgálók és adminisztrátorok képzése alaptanfolyamon, továbbképzése továbbképző tanfolyamon (a továbbiakban együtt: tanfolyam) történik.
+
+(2)[^41] A tanfolyamok szervezéséért, valamint a képzés és vizsgáztatás feltételeinek biztosításáért a Budapest Főváros Kormányhivatala felelős.
+
+(3)[^42] Az alaptanfolyamra a jelentkezés a Budapest Főváros Kormányhivatalához benyújtott kérelemmel történik.
+
+(4)[^43] A vizsgálói, illetve az adminisztrátori alaptanfolyamot végzett és eredményes vizsgát tett személy részére a Budapest Főváros Kormányhivatala az 1., illetve a 2. melléklet szerinti tanúsítványt állít ki.
+
+(5) A vizsgálói alaptanfolyamot végzett és eredményes vizsgát tett személy részére kiállított tanúsítvány adminisztrátori tevékenység végzésére is jogosít.
+
+(6) A tanfolyami képzés és az alaptanfolyamot követő vizsga térítésmentes.
+
+### 13. §
+
+(1) A vizsgálói alaptanfolyamra az a Kknyt. 33/A. § (3) bekezdés b) pontjában meghatározott feltételeknek megfelelő személy jelentkezhet, aki rendelkezik:
+
+a) legalább „B” kategóriára érvényes vezetői engedéllyel,
+
+b) az Országos Szakmunkásképzési Jegyzék (OSZJ), illetve az Országos Képzési Jegyzék (OKJ) szerint
+
+ba) OSZJ–311–1, OKJ 52 5241 02 autószerelő, illetve technikus,
+
+bb) OSZJ–311–2 autóvillamossági szerelő, illetve technikus,
+
+bc) OKJ 52 5241 01 autóelektronikai műszerész,
+
+bd) OKJ 53 5241 01 gázautó-szerelő,
+
+be) OKJ 53 5441 05 közlekedésgépészeti technikus, közúti járműgépész,
+
+bf) OKJ 51 8917 05 katonai gépjárműszerelő,
+
+bg) OKJ 52 8917 05 katonai gépjárműtechnikus,
+
+bh) OKJ 51 8917 02 harcjármű-szerelő,
+
+bi) OKJ 52 8917 02 harcjármű-technikus,
+
+bj) OKJ 33 5241 02 karosszérialakatos, vagy
+
+bk) a fentieknek megfelelő, legalább középfokú szakirányú végzettséggel.
+
+(2) A vizsgálói tanfolyami jelentkezéshez a jelentkezési lapon fel kell tüntetni a vezetői engedély okmányazonosító jelét és kategória jelét, valamint csatolni kell a szakképesítést igazoló bizonyítvány hiteles másolatát.
+
+### 14. §
+
+(1) Az adminisztrátori alaptanfolyamra az a Kknyt. 33/A. § (3) bekezdés b) pontjában meghatározott feltételeknek megfelelő személy jelentkezhet, aki rendelkezik legalább középfokú végzettséggel.
+
+(2) Az adminisztrátori tanfolyami jelentkezéshez csatolni kell az iskolai végzettséget igazoló bizonyítvány hiteles másolatát.
+
+### 15. §
+
+(1)[^44] A képzéshez az oktatási anyagot és a felkészüléshez szükséges jegyzeteket a Budapest Főváros Kormányhivatala biztosítja.
+
+(2)[^45] A képzési programot, a vizsgatételeket (írásbeli, szóbeli) a Budapest Főváros Kormányhivatala állítja össze.
+
+### 16. §
+
+(1) Az alaptanfolyamon elsajátított ismeretekről bizottság előtt vizsgát kell tenni. Vizsgára az jelentkezhet, aki megfelel a vizsgára bocsátás 1. melléklet III. 1. alpontjában, illetve a 2. melléklet III. 1. alpontjában meghatározott feltételeknek.
+
+(2)[^46] A vizsgabizottság 3 főből áll. A vizsgabizottság elnökét és tagjait a Budapest Főváros Kormányhivatala az érintett szakterület közszolgálati tisztviselői közül jelöli ki.
+
+(3) A vizsgabizottság elnökét és tagjait külön díjazás nem illeti meg.
+
+### 17. §
+
+(1)[^47] A vizsgáról jegyzőkönyvet kell felvenni, melyet a Budapest Főváros Kormányhivatalánál öt évig meg kell őrizni.
+
+(2) A vizsgálói alapképzés szakmai és vizsgakövetelményeit az 1. melléklet, az adminisztrátori alapképzés szakmai és vizsgakövetelményeit a 2. melléklet tartalmazza.
+
+### 18. §
+
+(1) A vizsgálói és az adminisztrátori vizsgával rendelkezők ötévenként legalább egy alkalommal kötelesek továbbképző tanfolyamon részt venni.
+
+(2)[^48] A továbbképző tanfolyamra a Budapest Főváros Kormányhivatalánál kell jelentkezni. A Budapest Főváros Kormányhivatala a továbbképzés időpontjáról a jelentkezőt tájékoztatja.
+
+(3)[^49] A továbbképzéshez az oktatási anyagot és a felkészüléshez szükséges jegyzeteket a Budapest Főváros Kormányhivatala biztosítja.
+
+(4)[^50] A továbbképzési programot a Budapest Főváros Kormányhivatala állítja össze.
+
+(5)[^51] A továbbképző tanfolyam elvégzéséről a Budapest Főváros Kormányhivatala igazolást állít ki.
+
+## Záró rendelkezések
+
+### 19. §
+
+(1) Ez a rendelet 2010. január 1. napján lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépését követően indult vagy megismételt eljárásokban kell alkalmazni azzal, hogy az e rendelet hatálybalépését megelőző napon előzetes eredetiségvizsgálatban közreműködésre jogosult szervezetek – ha az e rendelet 6. §-ában meghatározott feltételeknek megfelelnek – a Kknyt. 33/A. § (1) és (2) bekezdésben előírt engedélyezés és hatósági szerződés hiányában, az e rendeletben meghatározott informatikai rendszer használata mellett, 2010. március 31-ig végezhetik tevékenységüket.
+
+(3)[^52] Az e rendeletben meghatározott vizsgálói alaptanfolyam elvégzése nélkül is jogosult az eredetiségvizsgálati eljárásban vizsgálóként részt venni az – a Kknyt. 33/A. § (3) bekezdés b) pontjában meghatározott feltételeknek megfelelő – személy, aki a közúti járművek műszaki megvizsgálásáról szóló jogszabályban meghatározott vizsgabiztosi névjegyzékbe felvételre került és rendelkezik a Nyilvántartó által kiadott érvényes jogosultság-azonosítóval.
+
+(4) A 2010. január 1-je előtt a Hivatal által szervezett képzésben részt vett, sikeres vizsgát tett és az eredetiségvizsgálati tevékenységben történő közreműködésre jogosultságot szerzett vizsgáló és adminisztrátor jogosultságát e rendelet hatálybalépése nem érinti.
+
+(5)[^53] A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 35/2000. (XI. 30.) BM rendelet 44. § (5) bekezdésben meghatározott előzetes eredetiségvizsgálatnak minősül a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 12. § (15) bekezdésében meghatározott, időszakos vizsgálat keretében elvégzett előzetes eredetiségvizsgálat is.
+
+## 1. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^55]
+
+**„VIZSGÁLÓ” alapképzés szakmai és vizsgakövetelményei**
+
+**I. A munkaterület rövid, jellemző leírása**
+
+A vizsgálóval szemben támasztott követelmény, hogy megfelelő eszközök alkalmazásával a gépjármű eredetiségének megállapításában a hatósággal közreműködjön a bűncselekményből származó gépjárművek, gépjárműelemek (karosszériák, alvázak, motorok) forgalomba helyezésének, tulajdonjogot érintő jogosulatlan megváltoztatásának megakadályozásában.
+
+**II. A képesítés szakmai követelményei**
+
+1\. Jogi és igazgatási ismeretek
+
+Ismernie kell:
+
+– az államigazgatási (közigazgatási) eljárás általános szabályairól,
+
+– az adatvédelemről, adatbiztonságról,
+
+– a közlekedési igazgatásról,
+
+– a közúti járművek műszaki megvizsgálásáról,
+
+– a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről,
+
+– a közúti járművek eredetiségvizsgálatával kapcsolatos eljárásról
+
+szóló hatályos jogszabályok tevékenységi körét érintő előírásait,
+
+– az államigazgatási (közigazgatási) határozat elemeit,
+
+– a járműigazgatási ügy elemeit,
+
+– a magyar gépjármű-bűnözési problémákat, a gépjármű bűnmegelőzés jelentőségét,
+
+– a járműlopások főbb típusait.
+
+2\. Informatikai ismeretek
+
+Ismernie kell:
+
+– a számítógép és perifériák működését,
+
+– az adatvédelem, adatbiztonsági előírásokat, lehetőségeket,
+
+– az adatfelvételezéshez kialakított programok alkalmazásának módját,
+
+– a tevékenységét támogató programokat,
+
+– a telekommunikációs alkalmazásokat,
+
+– a számítógépes szövegszerkesztő programot,
+
+– az elektronikus levelezést,
+
+– az Internet keresőrendszereit,
+
+– a dokumentumszkennelést.
+
+3\. Okmányok ismerete és ellenőrzése
+
+Ismernie kell:
+
+– az egyes okiratok jellemzőit (okmány, közokirat és magánokirat),
+
+– a Magyarországon hivatalosan használt járműokmányokat, külföldi járműokmányokat,
+
+– a személyazonosító okmányokat,
+
+– az azonosítás során használandó okmányokat (forgalmi engedély, vámeljárással kapcsolatos okmányok, személyazonosító igazolvány, adásvételi szerződés, fődarab származási okmány, meghatalmazás),
+
+– az iratkezelés, irattározás szabályait,
+
+–[^56] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+
+– az okmányokkal kapcsolatos jogosultságokat.
+
+4\. Eljárásrend ismerete:
+
+– adminisztrációs,
+
+– vizsgálati.
+
+**III. A képesítés vizsgáztatási követelményei**
+
+A vizsgáló képesítő alapvizsgát vizsgabizottság előtt kell letenni.
+
+1\. A vizsgára bocsátás feltételei:
+
+– a szakmai elméleti tantárgyak tananyagának elsajátítása,
+
+– a résztvevő az előírt tanfolyami óraszám legalább 75%-án jelen volt.
+
+2\. A vizsga egyes részei
+
+Írásbeli vizsga
+
+A vizsgázók az írásbeli vizsgán a hatóság által jóváhagyott feladatlapot oldanak meg az alábbi tantárgyakból:
+
+– Jogi és igazgatási ismeretek
+
+– Okmányok ismerete és ellenőrzése
+
+– Eljárásrend ismerete
+
+Az írásbeli vizsga időtartama: maximum 120 perc.
+
+Szóbeli vizsga
+
+A vizsgázó a szóbeli vizsgán a hatóság által összeállított, a képzés során a résztvevőknek kiadott komplex tételsor alapján ad számot tudásáról.
+
+A vizsga tantárgyai:
+
+– Jogi és igazgatási ismeretek
+
+– Eljárásrend ismerete
+
+– Okmányok ismerete és ellenőrzése
+
+– Informatikai ismeretek
+
+| Sorszám: |
+|---|
+| Budapest Főváros Kormányhivatala |
+| TANÚSÍTVÁNY |
+| ......................................... |
+| (szül. helye: ...................................., ideje: ..........................., a. n.: ......................................) |
+| részére, aki az előzetes eredetiségvizsgálati eljárás részletes szabályiról szóló 301/2009. (XII. 22.) Korm. rendelet alapján a közúti járművek előzetes eredetiségvizsgálatában közreműködő |
+|  |
+| VIZSGÁLÓ-i alapvizsgát tett. |
+|  |
+|  |
+| .................................................................., ......... év ........................... hó ...........-n |
+|  |
+| P. H. |
+|  |
+| ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
+|  |
+
+## 2. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^58]
+
+**„ADMINISZTRÁTOR” alapképzés szakmai és vizsgakövetelményei**
+
+**I. A munkaterület rövid, jellemző leírása**
+
+Az adminisztrátorral szemben támasztott követelmény, hogy az eredetiség megállapítása érdekében a hatósági eljárás iránti kérelmet felvételezze, azt a hatósághoz továbbítsa, majd az eljárás végeztével az igazolást az ügyfél számára átadja. Munkájával segíti megakadályozni a bűncselekményből származó gépjárművek, gépjárműelemek (karosszériák, alvázak, motorok) forgalomba helyezését, tulajdonjogot érintő változását.
+
+**II. A képesítés szakmai követelményei**
+
+1\. Jogi és igazgatási ismeretek
+
+Ismernie kell:
+
+– az államigazgatási (közigazgatási) eljárás alapvető szabályait,
+
+– az adatvédelem és adatbiztonság szabályait,
+
+– a közúti közlekedési igazgatás alapvető szabályait,
+
+– a közúti járművek eredetiségvizsgálatával kapcsolatos eljárásról szóló hatályos jogszabályok tevékenységi körét érintő előírásait,
+
+– az államigazgatási (közigazgatási) határozat elemeit,
+
+– a járműigazgatási ügy elemeit,
+
+– a magyar gépjármű-bűnözési problémákat, a gépjármű bűnmegelőzés jelentőségét,
+
+– a járműlopások főbb típusait.
+
+2\. Informatikai ismeretek
+
+Ismernie kell:
+
+– a számítógép és perifériák működését,
+
+– az adatvédelem, adatbiztonsági előírásokat, lehetőségeket,
+
+– az adatfelvételezéshez kialakított programok alkalmazásának módját,
+
+– a tevékenységét támogató programokat,
+
+– a telekommunikációs alkalmazásokat,
+
+– a számítógépes szövegszerkesztő programot,
+
+– az elektronikus levelezést,
+
+– az Internet keresőrendszereit,
+
+– a dokumentumszkennelést.
+
+3\. Okmányok ismerete és ellenőrzése
+
+Ismernie kell:
+
+– az egyes okiratok jellemzőit (okmány, okirat és magánokirat),
+
+– a Magyarországon hivatalosan használt járműokmányokat, külföldi járműokmányokat,
+
+– a személyazonosító okmányokat,
+
+– az azonosítás során használandó okmányokat (forgalmi engedély, vámeljárással kapcsolatos okmányok, személyazonosító igazolvány, adásvételi szerződés, fődarab származási okmány, meghatalmazás),
+
+– az iratkezelés, irattározás szabályait,
+
+–[^59] a járművekkel kapcsolatos közlekedési igazgatási [járási (fővárosi kerületi) hivatali] ügyintézés menetét,
+
+– az okmányokkal kapcsolatos jogosultságokat.
+
+4\. Eljárásrend ismerete:
+
+– adminisztrációs eljárásrend.
+
+**III. A képesítés vizsgáztatási követelményei**
+
+Az adminisztrátori alapvizsgát vizsgabizottság előtt kell letenni.
+
+1\. A vizsgára bocsátás feltételei:
+
+– a szakmai elméleti tantárgyak tananyagának elsajátítása,
+
+– a résztvevő az előírt tanfolyami óraszám legalább 75%-án jelen volt.
+
+2\. A vizsga egyes részei
+
+Írásbeli vizsga
+
+A vizsgázók az írásbeli vizsgán a hatóság által jóváhagyott feladatlapot oldanak meg az alábbi tantárgyakból:
+
+– Jogi és igazgatási ismeretek
+
+– Eljárásrend ismerete
+
+– Okmányok ismerete és ellenőrzése
+
+Az írásbeli vizsga időtartama: maximum 120 perc.
+
+Szóbeli vizsga
+
+A vizsgázó a szóbeli vizsgán a hatóság által összeállított, a képzés során a résztvevőknek kiadott komplex tételsor alapján ad számot tudásáról.
+
+A vizsga tantárgyai:
+
+– Jogi és igazgatási ismeretek
+
+– Eljárásrend ismerete
+
+– Okmányok ismerete és ellenőrzése
+
+– Informatikai ismeretek
+
+| Sorszám: |
+|---|
+| Budapest Főváros Kormányhivatala |
+| TANÚSÍTVÁNY |
+| ......................................... |
+| (szül. helye: ...................................., ideje: ..........................., a. n.: ......................................) |
+| részére, aki az előzetes eredetiségvizsgálati eljárás részletes szabályiról szóló 301/2009. (XII. 22.) Korm. rendelet alapján a közúti járművek előzetes eredetiségvizsgálatában közreműködő |
+|  |
+| ADMINISZTRÁTOR-i alapvizsgát tett. |
+|  |
+|  |
+| .................................................................., ......... év ........................... hó ...........-n |
+|  |
+| P. H. |
+|  |
+| ........................................................................... ..................................................... a vizsgaszervező intézmény vezetője vizsgabizottság elnöke |
+|  |
+
+## 3. melléklet a 301/2009. (XII. 22.) Korm. rendelethez
+
+**A vizsgáló állomás informatikai és biztonsági feltételei**
+
+1\. Telephelyenként különböző Publikus Internet felől fix IP cím;
+
+2\. Internet böngésző program(Firefox 2.x vagy 3.x, vagy Internet Explorer 7.x vagy 8.x);
+
+3\. Acrobat Reader 8.x;
+
+4\. Számítógép (legalább WinXpHuSp2 prof. futtatására alkalmas 1 GB RAM, 100GB HDD, 9 pin soros port, 4 db USB 2.0 port, párhuzamos port, DVD olvasó, DVD olvasó, Operációs rendszer és környezete :Windows XP proff HUsp2, JRE1.6_1x, Monitor 17” TFT –1280*1024) 600 dpi lézernyomtató, 1200dpi skanner, billentyűzet pufferes vonalkód olvasó, digitális fényképezőgép);
+
+5\. Azonosítás kártyaolvasóval (Java Card 2.2.2.).
+
+## 4. melléklet a 301/2009. (XII. 22.) Korm. rendelethez[^61]
+
+**Az előzetes eredetiségvizsgálat végzésének technológiai folyamata**
+
+1\. Fogalommeghatározások
+
+1.1. *szemrevételezés (közvetlen érzékelés):* a vizsgált jármű meghatározott jellemzőjének, tulajdonságának, adatának ellenőrzése közvetlen érzékeléssel (eszköz használata nélkül), amely történhet vizuálisan, hallás útján vagy tapintással, miközben a járművet vagy annak szerkezeti egységét – szükség szerint – működtetik;
+
+1.2. *mechanikai vizsgálat:* a vizsgálatot végző személy a jármű egyes szerkezeti részeire a vizsgáló eszközzel erőhatást kifejtve (mozgatás, ütögetés, feszítés) a szerkezeti anyag, kötőelem vagy kapcsolódó szerkezeti elemek elmozdulását, szilárdságát megfigyeli;
+
+1.3. *egyeztetés:* a vizsgált járműre vonatkozó valamely okmányban (engedély, műbizonylat, igazolólap stb.) rögzített adat jellemző összevetése a jármű vonatkozó adatával, jellemzőjével;
+
+1.4. *mérés:* a vizsgált jármű tulajdonságainak, alkatrészei, felszerelései, különleges felépítménye jellemzőinek a meghatározott eszközzel (mérőeszközökkel) történő mérése, a jármű minősítésének megalapozására szolgáló mért érték dokumentálása;
+
+1.5. *megfelelőség ellenőrzése:* a vizsgált jármű tulajdonságai, alkatrészei, felszerelései, különleges felépítménye jóváhagyottságának, minősítettségének, valamint a vonatkozó jogszabályban előírt követelményeknek való megfelelőségének a megállapítása.
+
+2\. A kérelem átvételének, nyilvántartásba történő továbbításának, valamint a vizsgálat elvégzéséről szóló igazolás kiállításának rendje a vizsgálóállomáson, az adminisztrációs eljárásrend a következő:
+
+2.1. A jármű kísérő okmányainak átvétele.
+
+2.2. A kérelem nyomtatvány kitöltése, nyomtatása, átadása az ügyfél részére aláírás céljából.
+
+2.3. Az igazgatási szolgáltatási díj megfizetésének ellenőrzése.
+
+2.4. Az aláírt „kérelem” nyomtatvány továbbítása a hatósághoz.
+
+2.5. A vizsgálat elvégzéséről szóló igazolás kinyomtatása, átadása az ügyfél részére.
+
+2.6. A jármű kísérő okmányainak visszaadása az ügyfél részére.
+
+3\. A jármű műszaki adatai felvételezésének, nyilvántartásba történő továbbításának rendje a vizsgálóállomásokon, a vizsgálati eljárásrend az alábbi:
+
+3.1. A jármű átvétele.
+
+3.2. A kérelem azonosítása.
+
+3.3. A vizsgált jármű kategóriájához és típusához rendelt, a vizsgálati módszer használatba vétele.
+
+3.4. Az adatmezők kitöltése a rögzített adatokkal. Az összes adatmező adattartalmának jóváhagyása.
+
+3.5. A kitöltött, lezárt igazolás elektronikus hitelesítése és automatikus továbbítása a hatósági nyilvántartásba.
+
+3.6. A jármű átadása az ügyfél részére.
+
+4\. A vizsgáló állomáson az adminisztrátor, vizsgáló (a továbbiakban: adminisztrációs ügyintéző) a megvalósítandó ügymenet szerint az alábbi feladatokat látja el:
+
+4.1. Ellenőrzi az eljárás megindításának feltételeit. Ezen belül:
+
+4.1.1. átadja a hatósági eljárás kezdeményezésének feltételeiről szóló tájékoztatót a kérelmezőnek;
+
+4.1.2. ellenőrzi, hogy a hatósági eljárás kezdeményezésének jogszabályi feltételei fennállnak-e.
+
+4.2. Befogadja a kérelmet. Ezen belül:
+
+4.2.1. a jármű kísérő okmányai, valamint a kérelmező személyazonosító okmánya alapján rögzíti a meghatározott adatokat a kérelem kiállításához, és elektronikus úton továbbítja azokat a hatóság számára;
+
+4.2.2. kinyomtatja a hatóságtól elektronikus (megváltoztathatatlan) formátumban a vizsgáló állomásra megküldött, központilag generált egyedi azonosítóval (kérelemazonosító) ellátott kérelmet, amelyet a kérelmező aláír (ezzel elfogadva annak adattartalmát, és kérelmezve a hatósági eljárás lefolytatását);
+
+4.2.3. beszkenneli és továbbítja az aláírt kérelmet, valamint – amennyiben szükséges – a kérelemhez kapcsolódó egyéb dokumentumokat, majd visszaadja az(oka)t a kérelmezőnek;
+
+4.2.4. kezeli az igazgatási szolgáltatási díj megfizetésének folyamatát, adminisztrálja és rögzíti az igazgatási szolgáltatási díj megfizetésével kapcsolatos információkat.
+
+4.3. A vizsgálat lefolytatását követően átadja a kérelmezőnek a vizsgálat elvégzésével kapcsolatos dokumentumokat. Ezen belül:
+
+4.3.1. kinyomtatja a hatóság által generált (a hatóságtól a vizsgáló állomásra megküldött), a vizsgálat elvégzését igazoló és annak eredményét tartalmazó hatósági bizonyítványt; egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét);
+
+4.3.2. az igazgatási szolgáltatási díj megfizetéséről szóló számviteli bizonylatot.
+
+5\. A vizsgáló feladatai
+
+5.1. A vizsgáló állomáson az adminisztrációs ügyintéző a vonatkozó eljárásrend szerint a vizsgálati adatokat felvételezi és továbbítja a hatóság számára. Ezen belül:
+
+5.1.1. a vizsgált jármű kategóriájához illeszkedően elvégzi az alábbiakban meghatározott (alfanumerikus és képi) adatok felvételezését,
+
+5.1.2. az 5.1.1. pont szerinti adatokat elektronikusan továbbítja a hatóság számára.
+
+6\. Az eredetiségvizsgálat vizsgáló eszközei
+
+6.1. A vizsgálati tevékenységet támogató informatikai rendszer futtatásához szükséges informatikai környezet.
+
+6.2. Vizsgáló eszközök:
+
+6.2.1. kézilámpa, tükör, (gép)rongy,
+
+6.2.2. kézi nagyító,
+
+6.2.3. festék rétegvastagság vizsgáló készülék (acél- és fém alaphoz),
+
+6.2.4. okmányvizsgáló UV-lámpa,
+
+6.2.5. kézi anyagfolytonosság és tömörségvizsgáló eszköz,
+
+6.2.6. digitális fényképezőgép (legalább: 3,0 Megapixel felbontás, 512 MByte méretű memória kártya, közvetlen PC-re töltés lehetősége, az alvázszám rögzítéséhez alkalmas makro-funkció) vagy ezen műszaki paramétereket biztosító digitális eszköz,
+
+6.2.7. a járműazonossági vizsgálat vizsgáló eszközeinek és különösen az 5. és 6. pontban meghatározott eszközöknek a vizsgabiztos számára kizárólagos hozzáférést biztosító tároló eszközök.
+
+7\. A jármű vizsgálatának sorrendje
+
+7.1. A jármű vizsgálat előtti állapotának képi dokumentálása, melynek alkalmasnak kell lennie arra, hogy a vizsgált jármű minden látható része – különös figyelemmel az esetleges sérülésekre, jellegzetességekre, felszereltségekre, kilométer-számláló állása – visszaellenőrzésre alkalmas módon rögzítésre kerüljön. Az általános felmérés során figyelmet kell fordítani a vizuális ellenőrzésre, melynek célja annak a megállapítása, hogy a karosszéria nem rendelkezik-e típus idegen szerkezeti elemekkel.
+
+7.2. A jármű egyedi azonosító jeleinek, az alvázszámot hordozó elem bekötési, csatlakozási pontjainak képi rögzítése tisztítás előtti állapotban.
+
+7.3. Az egyedi azonosítók specifikus szerrel történő tisztítása. Az egyedi azonosításra alkalmas jelölések felfedése, adattartamának ellenőrzése, az adatok közvetlenül számítógépbe történő továbbítása.
+
+7.4. A jármű meghatározott pontjain a festékréteg vastagságának műszeres ellenőrzése olyan eszközzel, mely képes közvetlenül a számítógépbe továbbítani a mért adatokat.
+
+7.5. Az alvázszám felépítésének, környezetének, a hordozóelem illesztéseinek, a karosszériaelemek illesztéseinek ellenőrzése, a gyári rögzítés, illetve beavatkozás vizsgálata érdekében.
+
+7.6. A jármű alvázának, karosszériájának alulról történő vizsgálata és annak képi dokumentálása.
+
+7.7. Képi dokumentáció készítése:
+
+7.7.1. a típus-, kód-, adréma-, alvázszám- és produkciós táblákról, ezek rögzítéséről, és ha lehetséges, akkor a fonák oldaláról is úgy, hogy ezek fellehetőségi helyei a képi dokumentáció alapján beazonosíthatók legyenek;
+
+7.7.2. a papír és műanyag bázisú azonosító elemekről: gyártási szalag, kód zászló, vevőszolgálati matrica, Szövetségi Biztonsági Bizonyítvány, 3M, szín-, bárkód-azonosítási és VIN matrica, oly módon, hogy ezek megtalálási helyei a videófelvétel alapján beazonosíthatóak legyenek;
+
+7.7.3. a gyártás idejére vonatkozó időpontokkal az ilyen adatokat tartalmazó alkatrészekről;
+
+7.7.4. a jármű egyedi sajátosságairól: korábbi sérülések, hegesztési varratok, jelenlegi sérülések, házilagos megoldások, és minden olyan jellemző, ami a járműre nézve egyedi megoldás.
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th><th>**D**</th></tr><tr><th>**1**</th><th>**Vizsgálat tárgya**</th><th>**Köre**</th><th>**Eszköz**</th><th>**Módszer**</th></tr></thead><tbody><tr><td>**2**</td><td rowspan="3">okmányok</td><td>gépjárművek azonosítására szolgáló okmányok: forgalmi engedély, ideiglenes forgalmi engedély, igazoló lap (lassú járművek esetében), műszaki adatlap, hatósági határozat, külföldi forgalmi engedély</td><td>UV-lámpa, nagyító/okmányazonosító rendszer</td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**3**</td><td>személyi azonosításra szolgáló okmányok: személyazonosító igazolvány, vezetői engedély (kártyaformátumú), útlevél</td><td>UV-lámpa, nagyító/okmányazonosító rendszer</td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**4**</td><td>lakcím adatok igazolására szolgáló okmány: lakcímet igazoló hatósági igazolvány</td><td>UV-lámpa, nagyító/okmányazonosító rendszer</td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**5**</td><td rowspan="28">jármű</td><td>alvázszám</td><td>ipari kézitükör, kézilámpa, rétegvastagság-mérő</td><td>szemrevételezés/ egyeztetés/ mérés: fellelhetőségi adatok; vegyszeres vizsgálati adatok; festékrétegződés vizsgálati adatok; karakterisztika adatok; formai jellemzők adatai; hordozóelem felületének vizsgálati adatok; hordozóelem illesztési adatok; fonákoldali karakterisztika adatok; hordozóelem fonákoldali felületének vizsgálati adatok; anyagszerkezet vizsgálati adatok; vonalkód adatok</td></tr><tr><td>**6**</td><td>rendszám</td><td>mérőszalag</td><td>szemrevételezés/egyeztetés/mérés: tartalmi vizsgálati adatok; formai vizsgálati adatok; alapfólia fényvisszaverő biztonsági elemeinek adatai; rendszámtábla egyéb biztonsági elemeinek adatai; 2004. 05. 01. EU hatósági jel további biztonsági elemeinek adatai</td></tr><tr><td>**7**</td><td>rendszám típusa</td><td></td><td>szemrevételezés/egyeztetés/formai vizsgálat</td></tr><tr><td>**8**</td><td>gyártmány</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**9**</td><td>típus</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**10**</td><td>kategória</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**11**</td><td>kereskedelmi leírás</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**12**</td><td>jármű fajta</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**13**</td><td>sebességváltó típusa</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**14**</td><td>hajtóanyag vagy teljesítményforrás típusa</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**15**</td><td>regisztrációs matrica</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**16**</td><td>jármű színe</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**17**</td><td>első nyilvántartásba vétel időpontja</td><td></td><td>egyeztetés</td></tr><tr><td>**18**</td><td>első magyarországi nyilvántartásba vétel időpontja</td><td></td><td>egyeztetés</td></tr><tr><td>**19**</td><td>saját tömege</td><td></td><td>egyeztetés</td></tr><tr><td>**20**</td><td>legnagyobb megengedett össztömeg</td><td></td><td>egyeztetés</td></tr><tr><td>**21**</td><td>vontatási adatok</td><td></td><td>egyeztetés</td></tr><tr><td>**22**</td><td>hengerűrtartalom</td><td></td><td>egyeztetés</td></tr><tr><td>**23**</td><td>teljesítmény</td><td></td><td>egyeztetés</td></tr><tr><td>**24**</td><td>hajtóanyag</td><td></td><td>egyeztetés</td></tr><tr><td>**25**</td><td>teljesítmény/tömeg arány (kW/kg)</td><td></td><td>egyeztetés</td></tr><tr><td>**26**</td><td>ülőhelyek száma</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**27**</td><td>állóhelyek száma</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**28**</td><td>környezetvédelmi besorolás</td><td></td><td>egyeztetés</td></tr><tr><td>**29**</td><td>gyártási év</td><td></td><td>egyeztetés</td></tr><tr><td>**30**</td><td>sebességváltó fajta</td><td></td><td>szemrevételezés/egyeztetés</td></tr><tr><td>**31**</td><td>eurotax kód</td><td></td><td>egyeztetés</td></tr><tr><td>**32**</td><td>festékréteg-vastagság</td><td></td><td>hitelesített mérőeszközzel vizsgálandó</td></tr><tr><td>**33**</td><td rowspan="3">egyedi azonosítók másodlagos megjelenései, egyéb rejtett azonosítók</td><td>másodlagos alvázszám megjelenések vizsgálata</td><td></td><td>szemrevételezés/egyeztetés/ mérés: fellelhetőségi adatok; vegyszeres vizsgálati adatok; festékrétegződés vizsgálati adatok; karakterisztika adatok; formai jellemzők adatai; hordozóelem felületének vizsgálati adatok; hordozóelem illesztési adatok; fonákoldali karakterisztika adatok; hordozóelem fonákoldali felületének vizsgálati adatok; anyagszerkezet vizsgálati adatok; vonalkód adatok</td></tr><tr><td>**34**</td><td>táblák vizsgálata</td><td></td><td>szemrevételezés/egyeztetés: táblatípus, fellelhetőségi adatok, vizuális vizsgálati adatok, adattartalom, vonalkód adatok, karakterisztikai adatok, forma- és anyagjellemzők, vegyszeres vizsgálati adatok, rögzítési adatok, fonákoldali vizsgálati adatok</td></tr><tr><td>**35**</td><td>címkék vizsgálata</td><td></td><td>szemrevételezés/egyeztetés: címketípus, fellelhetőségi adatok, vizuális vizsgálati adatok, adattartalom, vonalkód adatok, forma- és anyagjellemzők, fénypolarizáció, súrolófény vizsgálati adatok, rögzítési adatok</td></tr></tbody></table>
+
+9\. A hatósági bizonyítvány kiadásának, valamint az eredetiségvizsgálat megléte és eredménye ellenőrzésének ügymenetleírása
+
+9.1. Hatósági bizonyítvány ellenőrzése, kiadása
+
+9.1.1. A járási (fővárosi kerületi) hivatali ügyintéző a vizsgáló állomáson elvégzett vizsgálatot követően, eredetiségvizsgálati eljárás lezárásaként a kérelmező (tulajdonos, üzembentartó, illetve azok meghatalmazottja) számára – annak személyes megjelenésekor, díjmentesen – az előzetes eredetiségvizsgálati nyilvántartásból kinyomtatja a hatóság által kiállított hatósági bizonyítványt (ha az korábban nem került kézbesítésre), egyidejűleg rögzíti ezen nyilvántartásban a kézbesítésre vonatkozó információkat (annak tényét, idejét).
+
+9.1.2. A járási (fővárosi kerületi) hivatali ügyintéző – újabb eredetiségvizsgálati eljárás lefolytatása nélkül –, kérelemre igazgatási szolgáltatási díj megfizetésének ellenében hatósági bizonyítvány másolatot állít ki az előzetes eredetiségvizsgálati nyilvántartásból, valamint az igazgatási szolgáltatási díj megfizetéséről számviteli bizonylatot állít ki.
+
+9.2. Az eredetiségvizsgálat megtörténtének igazolását igénylő közlekedési igazgatási eljárások lefolytatása és annak informatikai támogatása
+
+9.2.1. a külön jogszabályban megjelölt járműigazgatási eljárások esetében a járműnyilvántartás karbantartó rendszere segítségével megtörténik az előzetes eredetiségvizsgálati nyilvántartásban az eredetiségvizsgálat meglétének, eredményének, valamint az eredetiségvizsgálat során kiállított hatósági bizonyítvány felhasználhatóságának ellenőrzése;
+
+9.2.2. az ellenőrzés alapján döntés születik arról, hogy az adott járműigazgatási eljárás folytatható-e tovább vagy sem;
+
+9.2.3. a hatósági bizonyítvány felhasználásának tényét és idejét a járműnyilvántartás karbantartó rendszere segítségével az előzetes eredetiségvizsgálati nyilvántartáson át kell vezetni.
+
+10\. Az eredetiségvizsgálat során alkalmazott minősítések
+
+10.1. Az 1-es minősítés
+
+„A jármű egyedi azonosító adatainak, vizsgált műszaki adatainak és a járműokmánynak valódiságát megállapítom.”
+
+10.2. A 2-es minősítés
+
+A jármű egyedi azonosító adatainak és vizsgált műszaki adatainak, valamint a járműokmánynak a valódiságát megállapítom. Megállapítom továbbá, hogy a jármű egyedi azonosító adataiban külső erő hatására elváltozás állt be, de külső jogtalan beavatkozás nyoma nem látható.
+
+10.3. A 3-as minősítés
+
+A jármű egyedi azonosító adatainak a valódiságát megállapítom. Megállapítom továbbá, hogy a jármű és a járműhöz tartozó okmány vizsgált műszaki adatai eltérnek egymástól, külső jogtalan beavatkozás nyoma nem látható.
+
+10.4. A 4-es minősítés
+
+A jármű egyedi azonosító adatainak valódiságát megállapítom. Megállapítom továbbá, hogy a jármű vizsgált műszaki adatai eltérnek a járműokmány adataitól, de külső jogtalan beavatkozása nyoma nem látható. A jármű a járműnyilvántartásban nem szerepel.
+
+10.5. Az 5-ös minősítés
+
+A jármű egyedi azonosító adatai és a járműokmányon szereplő egyedi azonosító adatok egymástól való eltérését megállapítom. Megállapítom továbbá, hogy az eltérés adminisztrációs, illetve gyártási hiba miatt következett be.
+
+10.6. A 6-os minősítés (2+5 minősítések)
+
+A jármű egyedi azonosító adatai és a járműokmányon szereplő egyedi azonosító adatok egymástól való eltérését megállapítom. Megállapítom továbbá, hogy az eltérés adminisztrációs, illetve gyártási hiba miatt következett be. A jármű egyedi azonosító adataiban külső erő hatására elváltozás állt be, de külső jogtalan beavatkozás nyoma nem látható.
+
+10.7. 7-es minősítés (3+5 minősítés)
+
+A jármű egyedi azonosító adatai és a járműokmányon szereplő egyedi azonosító adatok egymástól való eltérését megállapítom. Megállapítom továbbá, hogy a jármű vizsgált műszaki adatai és a járműhöz tartozó okmány műszaki adatai eltérnek egymástól, de külső jogtalan beavatkozás nyoma nem látható. Az eltérés adminisztrációs, illetve gyártási hiba miatt következett be.
+
+10.8. A 8-as minősítés (2+3+5 minősítés)
+
+A jármű egyedi azonosító adatai és a járműokmányon szereplő egyedi azonosító adatok egymástól való eltérését megállapítom. A jármű egyedi azonosító adataiban külső erő hatására elváltozás állt be, valamint a jármű vizsgált műszaki adatai és a járműhöz tartozó okmány műszaki adatai eltérnek egymástól, de külső jogtalan beavatkozás nyoma egyik esetben sem látható. Megállapítom továbbá, hogy az eltérés adminisztrációs, illetve gyártási hiba miatt következett be.
+
+10.9. A 9-es minősítés
+
+A jármű egyedi azonosító adatai nem eredetiek. A jármű egyedi azonosító adatainak megváltozása külső, jogtalan beavatkozás következménye.
+
+10.10. Az 10-es minősítés
+
+A járműokmány valódisága nem állapítható meg.
+
+10.11. A 11-es minősítés (9+10 minősítés)
+
+A jármű egyedi azonosító adatai nem eredetiek. A jármű egyedi azonosító adatainak megváltozása külső, jogtalan beavatkozás eredménye. A járműokmány valódisága nem állapítható meg.
+
+---
+
+[^1]: Az 1. § a) pontja a 668/2020. (XII. 28.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (2) bekezdésével, a 668/2020. (XII. 28.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § e) pontja az 53/2014. (III. 3.) Korm. rendelet 23. §-a, a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 151. § (3) bekezdése iktatta be.
+[^5]: Az 1/A. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 696/2021. (XII. 13.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^6]: Az 1/B. §-t a 668/2020. (XII. 28.) Korm. rendelet 25. § (4) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 2. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. januát 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^11]: A 2. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 271. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 2. § (3b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 271. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 2. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 271. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: A 2. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 271. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 2. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 271. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 124. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^19]: A 4. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 125. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: A 4. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 272. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 4. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 271. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: Az 5. § (1) bekezdés m) pontja a 457/2017. (XII. 28.) Korm. rendelet 272. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: Az 5. § (1) bekezdés n) pontját a 4/2010. (I. 14.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^24]: Az 5. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^25]: Az 5. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^26]: A 6. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés e) pontja szerint módosított szöveg.
+[^27]: A 6. § (1) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés e) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 7. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja, a 696/2021. (XII. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^30]: A 7. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja, a 696/2021. (XII. 13.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^31]: A 8. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^32]: A 8. § (3) bekezdése a 342/2025. (X. 31.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^33]: A 8/A. §-t a 203/2013. (VI. 14.) Korm. rendelet 19. § (2) bekezdése iktatta be, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 272. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^34]: A 9. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 9. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^36]: A 9. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (136) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^37]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 9. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^39]: A 10. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 12. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^42]: A 12. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 12. § (4) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^44]: A 15. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^45]: A 15. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^46]: A 16. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (4) bekezdésével megállapított, a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^48]: A 18. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (5) bekezdésével megállapított, a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) és c) pontja szerint módosított szöveg.
+[^49]: A 18. § (3) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^50]: A 18. § (4) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^51]: A 18. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^52]: A 19. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 151. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^53]: A 19. § (5) bekezdését a 4/2010. (I. 14.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^55]: Az 1. melléklet a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
+[^58]: A 2. melléklet a 668/2020. (XII. 28.) Korm. rendelet 25. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^59]: A 2. melléklet II. pont 3. alpont hatodik franciabekezdése a 174/2012. (VII. 26.) Korm. rendelet 67. § b) pontja szerint módosított szöveg.
+[^61]: A 4. melléklet a 369/2025. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

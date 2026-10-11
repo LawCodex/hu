@@ -1,0 +1,136 @@
+---
+title: "28/2004. (II. 28.) Korm. rendelet a magyar Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ feladatainak ellátásával kapcsolatos egyes kérdésekről"
+identifier: "28/2004. (II. 28.) Korm. rendelet"
+njt_id: "2004-28-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/28"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-02-28
+in_force_from: 2008-05-01
+last_amended: 2025-06-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-28-20-22"
+retrieved: 2026-10-12
+---
+
+# 28/2004. (II. 28.) Korm. rendelet a magyar Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ feladatainak ellátásával kapcsolatos egyes kérdésekről
+
+## 1. §
+
+(1)[^1] Magyarország európai uniós tagállami kötelezettségéből adódó – a magyarországi kábítószer-helyzetre vonatkozó egységes, összehasonlítható, megbízható és hiteles adat- és információszolgáltatás elősegítésével összefüggő – kormányzati feladatok teljesítése érdekében a egészségügyért felelős miniszter által vezetett minisztérium szervezeti keretén belül Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ (a továbbiakban: Központ) működik.
+
+(2)[^2] A Központ alapító okiratát az egészségügyért felelős miniszter adja ki.
+
+(3)[^3] A Központ vezetőjét az egészségügyért felelős miniszter nevezi meg az Európai Unió Kábítószer-ügynöksége (a továbbiakban: EUDA) és az egészségügyért felelős miniszter által vezetett minisztérium között évente megkötésre kerülő támogatási szerződésben.
+
+## 2. §[^4]
+
+(1) A Központ az EUDA, illetve az EUDA-hoz kapcsolódó Kábítószerek és Kábítószer-függőség Európai Megfigyelő Hálózat munkájában, mint magyar nemzeti fókuszpont ellátja az adat- és információgyűjtő, -feldolgozó és -értékelő, illetve kapcsolattartó, továbbá minden, az Európai Unió Kábítószer-ügynökségről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló, 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 34. cikkében részletezett feladatot. Ezen felül információt, adatot szolgáltat különösen a Kormány számára döntéseinek előkészítéséhez, egyéb, a Fókuszpont feladatköréhez kapcsolódó szakterületen jelentkező feladatai teljesítéséhez.
+
+(2) A Központ részt vesz az EUDA munkatervének kialakításában és ennek megfelelően – megvalósítandó feladatai vonatkozásában – éves munkatervet készít.
+
+(3) A Központ a nemzeti kábítószerhelyzetre vonatkozó adatok és információk gyűjtése, átvétele, feldolgozása, elemzése és értékelése körében – az irányadó hatályos jogszabályok keretei között – az EUDA munkaterve, ütemterve, előírásai, irányelvei, valamint az EUDA és az egészségügyért felelős minisztérium között fennálló támogatási szerződésben rögzítettek szerint jár el, illetve ellátja a jogszabály alapján előírt további nemzeti feladatokat.
+
+(4) A Központ az EUDA részére történő éves jelentési csomag elkészítéséhez adat-, illetve információgyűjtést, kutatásokat, valamint adatátvételt végez. A Központ tevékenységéhez szükséges adatokat, valamint az 1. számú melléklet keretébe tartozó egyéb információkat a 2. számú melléklet szerinti, valamint az ezek szakmai felügyelete, illetve irányítása alatt működő szervek szolgáltatják. Az érintett szervek feladatkörükben az OSAP rendje szerint, illetve az ennek körén kívül eső információk tekintetében a Fókuszpont megkeresése alapján, a megkeresésben foglaltak figyelembevételével bocsátják rendelkezésre a Fókuszpont feladatainak ellátásához szükséges – személyazonosításra nem alkalmas, illetve arra alkalmatlanná tett – adatokat, információkat.
+
+(5) A Központ feladatainak teljesítéséhez éves beszámolót kér be az utolsó hatályos kábítószer-szakpolitikát meghatározó stratégiai dokumentumban kijelölt minisztériumoktól és háttérintézményeiktől a stratégiai dokumentumban meghatározott feladataik teljesítéséről.
+
+## 3. §[^5]
+
+A Központ az EUDA munkaterve szerinti éves jelentési csomag szöveges jelentési kimeneteinek tervezetét előzetes véleményezésre megküldi a szociális ügyekért felelős miniszternek, az egészségügyért felelő miniszternek, a köznevelésért felelős miniszternek, a kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszternek, a rendészetért felelős miniszternek és az igazságügyért felelős miniszternek, akik a tervezetet a rendelkezésükre bocsátásától számított 5 napon belül véleményezik. A Központ jelentési kötelezettségének a miniszterek véleményének ismeretében tehet eleget azzal, hogy a vélemény hiánya nem akadálya a jelentés megtételének, ha a miniszterek a véleményezésre rendelkezésre álló határidőn belül véleményezési jogukkal nem éltek. A Központ, illetőleg a miniszterek véleményének eltérése esetén a Központ vezetője a jelentésben foglalt, a véleménytől továbbra is eltérő megállapításokat a véleményező számára megindokolja.
+
+## 4. §
+
+(1) Ez a rendelet – a (3) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
+
+(2)[^6]
+
+(3) E rendelet 2. §-a a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+
+(4)[^7] Ez a rendelet az Európai Unió Kábítószer-ügynökségről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló, 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^8]
+
+A Központ részére feladatkörében szolgáltatandó információk köre:
+
+1\. kábítószer-fogyasztókra vonatkozó információk (a fogyasztói csoportok jellemzői szerint);
+
+2\. a kábítószer-fogyasztásra vonatkozó információk;
+
+3\. kábítószer-fogyasztással összefüggő kezelésekre, egyéb ellátásokra és szűrésekre, valamint az elsődleges, másodlagos valamint harmadlagos megelőzést szolgáló programokra vonatkozó információk;
+
+4\. a fogyasztás megelőzésére, illetőleg mérséklésére irányuló állami, önkormányzati, valamint társadalmi kezdeményezésen nyugvó intézkedések, kezdeményezések.
+
+5\. kábítószer-fogyasztással összefüggésbe hozható halálozásokra vonatkozó információk;
+
+6\. kábítószer-fogyasztással összefüggésbe hozható fertőző megbetegedésekre vonatkozó információk;
+
+7\. kábítószer-fogyasztással összefüggésbe hozható büntetőeljárási, illetőleg büntetés végrehajtási információk,
+
+8.[^9] a lefoglalt kábítószerek szerkezetére, mennyiségére, minőségére, árára vonatkozó információk;
+
+9.[^10] a biológiai mintákban azonosítható kábítószerekre vonatkozó információk és metaadatok;
+
+10\. kábítószer-fogyasztással összefüggő költségvetési kiadások;
+
+11.[^11] az illegális kábítószerek termesztésére, előállítására, forgalmazásra vonatkozó információk,
+
+12\. a kábítószer prekurzorokra és az azok lefoglalására vonatkozó információk
+
+## 2. számú melléklet a 28/2004. (II. 28.) Korm. rendelethez[^12]
+
+A Központ kábítószer adat- és információgyűjtő tevékenységében adat-, illetve információ-szolgáltatási kötelezettség teljesítésével feladatkörük szerint résztvevő minisztériumok, egyéb állami szervek:
+
+1\. Agrárminisztérium
+
+2\. Belügyminisztérium
+
+3\. Honvédelmi Minisztérium
+
+4\. Igazságügyi Minisztérium
+
+5\. Külgazdasági és Külügyminisztérium
+
+6\. Miniszterelnökség
+
+7\. Nemzetgazdasági Minisztérium
+
+8\. Budapest Főváros Kormányhivatala
+
+9\. Büntetés-végrehajtás Országos Parancsnoksága
+
+10\. Központi Statisztikai Hivatal
+
+11\. Nemzeti Adó- és Vámhivatal Központi Irányítása
+
+12\. Nemzeti Bűnmegelőzési Tanács
+
+13\. Nemzeti Egészségbiztosítási Alapkezelő
+
+14\. Nemzeti Népegészségügyi és Gyógyszerészeti Központ
+
+15\. Nemzeti Szakértői és Kutató Központ
+
+16\. Országos Mentőszolgálat
+
+17\. Országos Rendőr-főkapitányság
+
+18\. Slachta Margit Nemzeti Szociálpolitikai Intézet
+
+19\. Szociális és Gyermekvédelmi Főigazgatóság
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 260. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 61. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 260. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 24. §-a iktatta be.
+[^4]: A 2. § a 463/2024. (XII. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^5]: A 3. § a 463/2024. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^6]: A 4. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 61. § (4) bekezdés c) pontja hatályon kívül helyezte.
+[^7]: A 4. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^8]: Az 1. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. melléklet 8. pontja a 137/2025. (VI. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 9. pontja a 137/2025. (VI. 16.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 11. pontja a 137/2025. (VI. 16.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^12]: A 2. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.

@@ -1,0 +1,245 @@
+---
+title: "49/2007. (III. 26.) Korm. rendelet a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről"
+identifier: "49/2007. (III. 26.) Korm. rendelet"
+njt_id: "2007-49-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/49"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-03-26
+in_force_from: 2008-02-26
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-49-20-22"
+retrieved: 2026-10-12
+---
+
+# 49/2007. (III. 26.) Korm. rendelet a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági és Partnerségi Eszköz pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó programjaiból származó támogatások hazai felhasználásának intézményeiről
+
+A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 35. § (1) bekezdés a)–b) pontjában megállapított feladatkörében eljárva a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya kiterjed a 2007–2013 programozási időszakban
+
+a) az Európai Regionális Fejlesztési Alap, valamint az Előcsatlakozási Támogatási Eszköz (a továbbiakban: IPA) és az Európai Szomszédsági és Partnerségi Eszköz (a továbbiakban: ENPI) pénzügyi alapok egyes, a területi együttműködéshez kapcsolódó támogatásból finanszírozott programokat koordináló hazai szervezetekre és személyekre;
+
+b) az *a)* pontban meghatározott pénzügyi alapokból finanszírozott programok értékelésében és megvalósításában, valamint ellenőrzésükben részt vevő hazai szervezetekre és személyekre.
+
+(2)[^1] Az e rendeletben meghatározott jogokat és kötelezettségeket az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelettel összhangban kell gyakorolni, illetve teljesíteni.
+
+(3) Magyarország a következő operatív programok végrehajtásában vesz részt:
+
+a) Magyarország–Szlovákia területi együttműködés operatív program;
+
+b) Magyarország–Románia területi együttműködés operatív program;
+
+c) Ausztria–Magyarország területi együttműködés operatív program;
+
+d) Szlovénia–Magyarország területi együttműködés operatív program;
+
+e) Magyarország–Horvátország IPA határon átnyúló együttműködési program;
+
+f) Magyarország–Szerbia IPA határon átnyúló együttműködési program;
+
+g) Magyarország–Románia–Szlovákia–Ukrajna ENPI határon átnyúló együttműködési szomszédsági program;
+
+h) Dél-kelet Európai Térség operatív program;
+
+i) Közép Európai Térség operatív program;
+
+j) Interreg IVC interregionális operatív program;
+
+k) INTERACT 2 operatív program;
+
+l) ESPON 2013 operatív program;
+
+m) URBACT 2007–2013 operatív program.
+
+## Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+a) *egyetértési nyilatkozat:* egy adott operatív program irányító hatósága és nemzeti hatósága között kötött szerződés, amely meghatározza az adott program megvalósításáért felelős szervezetek feladat- és hatáskörét;
+
+b) *ENPI:* az Európai Szomszédsági és Partnerségi Támogatási Eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló 2006. október 24-i 1638/2006/EK európai parlamenti és tanácsi rendelet szerinti fogalom;
+
+c) *ex-ante hozzájárulás:* az egyes operatív programokban részt vevő partnerországok által évenként, lakosságszámuk arányában nyújtott hozzájárulás az operatív program hatékony működtetéséhez szükséges költségek fedezésére;
+
+d) *IPA:* az egy előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 2006. július 17-i 1085/2006/EK tanácsi rendelet szerinti fogalom;
+
+e) *közös igazoló hatóság:* az államháztartásért felelős miniszter által az európai uniós támogatásokkal kapcsolatos, az irányító hatóság által biztosított adatokon alapuló átutalás igénylések összeállítására, a költségnyilatkozatok igazolására, az Európai Unió felé történő benyújtására, valamint az Európai Unióból érkező pénzügyi források fogadására kijelölt szervezet;
+
+f) *külföldi székhelyű irányító hatóság:* azon operatív programok esetében, amelyekben nem Magyarországon kerül felállításra az irányító hatóság, az irányító hatósági feladatokat ellátó, az adott programban részt vevő valamely partnerállamban felállított intézmény;
+
+g)[^2] *nemzeti hatóság:* adott operatív program magyar részvételéért és a társfinanszírozási lebonyolítási rendszeréért, valamint az adott operatív program keretében felmerült kiadások hitelesítése érdekében ellenőrzési rendszer létrehozásáért felelős szervezet;
+
+h) *nemzeti kapcsolattartó pont:* a Közép Európai Térség operatív program, az Interreg IVC interregionális operatív program, az INTERACT 2 operatív program, az ESPON 2013 operatív program, valamint az URBACT 2007–2013 operatív program hatékony hazai lebonyolításában részt vevő szerv;
+
+i)[^3] *ellenőri csoport:* adott operatív program közös ellenőrzési hatóságát segítő nemzetközi munkacsoport, melybe az adott programban részt vevő partnerországok delegálnak tagokat;
+
+j)[^4] *közös irányító hatóság:* az 1083/2006/EK európai parlamenti és tanácsi rendelet 60-as cikke, a 718/2007/EK bizottsági rendelet 103. cikke szerinti, illetve a 951/2007/EK bizottsági rendelet 15. cikke szerinti tevékenységeket ellátó szervezet. Amennyiben az operatív program közös irányító hatósága Magyarországon kerül felállításra, akkor ez a szervezet egyben a nemzeti hatóság feladatait is ellátja.
+
+(2) Az (1) bekezdésben nem szereplő fogalmak tekintetében az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendeletben foglaltakat, az Európai Regionális Fejlesztési Alapról és az 1783/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 5-i 1080/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1080/2006/EK rendelet) foglalt eltérésekkel kell érteni.
+
+## Intézményrendszer
+
+### 3. §
+
+(1) Az 1. § (3) bekezdésének *a)*, *b)*, valamint *h)* pontjában meghatározott program vonatkozásában
+
+a)[^5] *a közös irányító hatóság:* a külgazdasági ügyekért felelős miniszter;
+
+b)[^6] *az* 1080/2006/EK rendelet 16. cikkében *foglalt feladat ellátásával megbízott szerv:* Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Széchenyi Programiroda);
+
+c)[^7] *közös igazoló hatóság:* Magyar Államkincstár;
+
+d)[^8]
+
+e)[^9] *nemzeti hatóság:* a külgazdasági ügyekért felelős miniszter.
+
+(2)[^10] Az 1. § (3) bekezdésének e)–f) pontjában meghatározott program vonatkozásában
+
+a)[^11] *a közös irányító hatóság:* a külgazdasági ügyekért felelős miniszter;
+
+b)[^12] *a közös igazoló hatóság:* Magyar Államkincstár;
+
+c)[^13]
+
+d)[^14] *az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló* 1085/2006/EK tanácsi rendelet *végrehajtásáról szóló, 2007. június 12-i* 718/2007/EK bizottsági rendelet 108. cikkében *foglalt feladatellátásával megbízott szerv:* Széchenyi Programiroda;
+
+e)[^15] *nemzeti hatóság:* a külgazdasági ügyekért felelős miniszter.
+
+(3)[^16] Az 1. § (3) bekezdésének g) pontjában meghatározott program vonatkozásában
+
+a)[^17] *a közös irányító hatóság:* a külgazdasági ügyekért felelős miniszter;
+
+b)[^18] *az európai szomszédsági és partnerségi támogatási eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló* 1638/2006/EK európai parlamenti és tanácsi rendelet *keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtási szabályainak megállapításáról szóló, 2007. augusztus 9-i* 951/2007/EK bizottsági rendelet 39. cikkében *foglalt feladat ellátásával megbízott szerv:* Széchenyi Programiroda;
+
+c)[^19] *nemzeti hatóság:* a külgazdasági ügyekért felelős miniszter.
+
+(4)[^20] Az 1. § (3) bekezdésének c), d), valamint i)–k) pontjában meghatározott program vonatkozásában
+
+a)[^21] *a nemzeti hatóság:* a külgazdasági ügyekért felelős miniszter;
+
+b)[^22]
+
+c)[^23] *az* 1080/2006/EK rendelet 16. cikkében *foglalt feladat ellátásával megbízott szerv:* Széchenyi Programiroda.
+
+(5)[^24] Az 1. § (3) bekezdésének k) pontjában meghatározott program vonatkozásában
+
+a)[^25] *az ex-ante hozzájárulás biztosítója:* a külgazdasági ügyekért felelős miniszter;
+
+b)[^26] *a nemzeti kapcsolattartó pont:* a Széchenyi Programiroda.
+
+(6)[^27] Az 1. § (3) bekezdés l) pontjában meghatározott program vonatkozásában
+
+a) *az ex-ante hozzájárulás biztosítója:* a területfejlesztés stratégiai tervezéséért felelős miniszter;
+
+b)[^28] a nemzeti kapcsolattartó pont: a területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium;
+
+c)[^29] *az* 1080/2006/EK rendelet 16. cikkében *foglalt feladat ellátásával megbízott szerv:* a Széchenyi Programiroda;
+
+d)[^30]
+
+(7)[^31] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
+
+a) *az ex-ante hozzájárulás biztosítója:* a településfejlesztésért és településrendezésért felelős miniszter;
+
+b)[^32] *a nemzeti kapcsolattartó pont:* a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
+
+c)[^33] *az* 1080/2006/EK rendelet 16. cikkében *foglalt feladat ellátásával megbízott szerv:* a Széchenyi Programiroda;
+
+d)[^34]
+
+### 4. §
+
+(1)[^35] A külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy a Kormány jóváhagyását követően megköti az 1. § (3) bekezdésének *a)–e), g),* valamint *i)–k)* pontjában meghatározott programokban részt vevő külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.
+
+(2)[^36] A területfejlesztés stratégiai tervezéséért felelős miniszter vagy az általa írásban kijelölt személy a transznacionális és interregionális programok vonatkozásában létrejött Nemzeti Bizottság (a továbbiakban: Nemzeti Bizottság) jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdés l) pontjában meghatározott programokban a külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.
+
+(3)[^37] A külgazdasági ügyekért felelős miniszter vagy az általa írásban kijelölt személy a Nemzeti Bizottság jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdésének h) pontjában meghatározott programban a külföldi székhelyű érintett intézményekkel az egyetértési nyilatkozatot.
+
+(4)[^38] A településfejlesztésért és településrendezésért felelős miniszter vagy az általa írásban kijelölt személy a Nemzeti Bizottság jóváhagyását követően, illetve véleményeltérés fennmaradása esetén a Kormány jóváhagyását követően megköti az 1. § (3) bekezdés m) pontjában meghatározott programokban a külföldi székhelyű irányító hatósággal az egyetértési nyilatkozatot.
+
+### 5. §
+
+(1)–(2)[^39]
+
+(3)[^40] Az 1. § (3) bekezdés h)–m) pontja szerinti programok vonatkozásában a programok végrehajtása során a területfejlesztési politikai szempontok érvényesülését a Nemzeti Bizottság vizsgálja és felügyeli, amelyet a területfejlesztésért felelős miniszter állít fel.
+
+## Záró rendelkezések
+
+### 6. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 4. § (1) bekezdése, valamint az 5. § (1) és (2) bekezdése az Európai Területi Együttműködés Tárcaközi Bizottság létrehozásáról szóló kormányhatározat[^41] hatálybalépésével egyidejűleg lép hatályba.
+
+(3)[^42] Felhatalmazást kap a külgazdasági ügyekért felelős miniszter, hogy – az államháztartásért felelős miniszterrel egyetértésben – a magyarországi közreműködő szervezetet és a közreműködő szervezet számára biztosított kizárólagos jogot rendeletben, illetőleg ha a közreműködő szervezet felett a tulajdonosi és irányítási jogokat más miniszter gyakorolja, az érintett miniszter egyetértésével kiadott rendeletben megállapítsa.[^43]
+
+(4) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) az Európai Regionális Fejlesztési Alapról és az 1783/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 5-i 1080/2006/EK európai parlamenti és tanácsi rendelet;
+
+b) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet;
+
+c) az egy előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 2006. július 17-i 1085/2006/EK tanácsi rendelet;
+
+d) az Európai Szomszédsági és Partnerségi Támogatási Eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló 2006. október 24-i 1638/2006/EK európai parlamenti és tanácsi rendelet;
+
+e) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról szóló 1083/2006/EK tanácsi rendelet, valamint az Európai Regionális Fejlesztési Alapról szóló 1080/2006/EK európai parlamenti és a tanácsi rendelet végrehajtására vonatkozó szabályok meghatározásáról szóló 2006. december 8-i 1828/2006/EK bizottsági rendelet.
+
+(5)[^44] A Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság jogutódja a VÁTI Magyar Regionális Fejlesztési és Urbanisztikai Nonprofit Korlátolt Felelősségű Társaságnak a 3. § (7) bekezdés b) pontjában meghatározott feladatok ellátásához kapcsolódó – a Lechner Lajos Tudásközpont alapításával összefüggő egyes kormányrendeletek módosításáról szóló 107/2013. (IV. 5.) Korm. rendelet hatálybalépését[^45] megelőzően a jogelőd által megkötött – polgári jogi szerződések alapján fennálló jogviszonyok, valamint a 3. § (7) bekezdés b) pontjában meghatározott feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 37/2011. (III. 22.) Korm. rendelet 39. § (16) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdésének g) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdésének i) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdésének j) pontját a 35/2008. (II. 23.) Korm. rendelet 51. § (3) bekezdése iktatta be.
+[^5]: A 3. § (1) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés b) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^9]: A 3. § (1) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdése a 35/2008. (II. 23.) Korm. rendelet 51. § (4) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés b) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés c) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^14]: A 3. § (2) bekezdés d) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 3. § (2) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 3. § új (3) bekezdését a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
+[^17]: A 3. § (3) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (5) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 3. § (3) bekezdés b) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^19]: A 3. § (3) bekezdés c) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (6) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^20]: A 3. § eredeti (3) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (4) bekezdésre változtatta.
+[^21]: A 3. § (4) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (7) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^22]: A 3. § (4) bekezdés b) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^23]: A 3. § (4) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^24]: A 3. § eredeti (4) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (5) bekezdésre változtatta.
+[^25]: A 3. § (5) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § b) pontja, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^26]: A 3. § (5) bekezdés b) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^27]: A 3. § (6) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^28]: A 3. § (6) bekezdés b) pontja a 326/2014. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 3. § (6) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^30]: A 3. § (6) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^31]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^32]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 3. § (7) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^34]: A 3. § (7) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
+[^35]: A 4. § (1) bekezdése a 171/2010. (V. 13.) Korm. rendelet 1. § 2. pontja, a 27/2014. (II. 7.) Korm. rendelet 6. § a) pontja, a 127/2018. (VII. 18.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 4. § (2) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^37]: A 4. § (3) bekezdése a 27/2014. (II. 7.) Korm. rendelet 6. § b) pontja, a 127/2018. (VII. 18.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^38]: A 4. § (4) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^39]: Az 5. § (1)–(2) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 2. pontja hatályon kívül helyezte.
+[^40]: Az 5. § (3) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^41]: Lásd a 2087/2007. (V. 23.) Korm. határozatot.
+[^42]: A 6. § (3) bekezdése a 300/2010. (XII. 23.) Korm. rendelet 2. § (5) bekezdése, az 550/2013. (XII. 30.) Korm. rendelet 29. § c) pontja, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^43]: Lásd a 34/2007. (XI. 17.) ÖTM rendeletet.
+[^44]: A 6. § (5) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^45]: A hatálybalépés időpontja 2013. április 13.

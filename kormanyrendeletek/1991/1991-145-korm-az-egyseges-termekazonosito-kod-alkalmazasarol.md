@@ -1,0 +1,96 @@
+---
+title: "145/1991. (XI. 22.) Korm. rendelet az egységes termékazonosító kód alkalmazásáról"
+identifier: "145/1991. (XI. 22.) Korm. rendelet"
+njt_id: "1991-145-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/145"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-11-22
+in_force_from: 2008-05-16
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-145-20-22"
+retrieved: 2026-10-12
+---
+
+# 145/1991. (XI. 22.) Korm. rendelet az egységes termékazonosító kód alkalmazásáról
+
+A Kormány az egységes termékazonosító kód piaci viszonyok közötti működésének elősegítése, a termékek azonosítása és annak számítógépes nyilvántartási rendszerének széles körű elterjedése érdekében az alábbiakat rendeli el:
+
+## 1. §[^1]
+
+A rendelet hatálya a gazdálkodó szervezetekre és egyéni vállalkozókra (a továbbiakban együtt: vállalkozó) terjed ki.
+
+## 2. §
+
+A vállalkozó, az e rendeletben meghatározott módon, az általa előállított vagy importált terméken annak azonosítására alkalmas egységes termékazonosító kódszámot (a továbbiakban ETK-számot) tüntethet fel.
+
+## 3. §
+
+Az ETK-szám az e rendeletben meghatározott módon kialakított egységes elvek alapján felépülő kilenc számjegyű kód, amely a terméket egyértelműen azonosítja.
+
+## 4. §
+
+(1) A belföldön előállított termékek esetében az ETK-szám első öt számjegye a gyártót, további négy számjegye az általa előállított terméket azonosítja. Ha az egy gyártó által készített termékfajták nagy száma vagy egyéb körülmény indokolja, egy gyártó több azonosító számmal is rendelkezhet.
+
+(2) A gyártót azonosító első öt számot a gyártó írásbeli kérelmére — a Nemzetközi Termékszámozási Társaság[^2] által kialakított rendszerben — a Magyar Gazdasági Kamara határozza meg.
+
+(3) Az ETK-szám további négy számjegyét, azaz a kapcsolódó konkrét termékszámot a gyártó alakítja ki.
+
+## 5. §
+
+(1) Az import termékre az ETK-szám kialakítását a forgalomba hozó vállalkozó kérheti.
+
+(2) Az importált termék ETK-száma megbontás nélküli kilenc kódszámból áll.
+
+(3)[^3] Az importált termék kódszámát a termékinformációs központ vagy ennek hiányában az iparügyekért felelős miniszter adja ki. Az iparügyekért felelős miniszter e feladatának ellátásával más szervezetet bízhat meg.
+
+## 6. §
+
+(1)[^4] Termékinformációs központnak minősül az a vállalkozó, aki a Kormány feladatkörében érintett tagja megbízásából és szerződés alapján, meghatározott termékcsoport tekintetében, az import termékek vonatkozásában az ETK-számot kiadja és e számokat nyilvántartja.
+
+(2)[^5] A termékinformációs központot a termék tekintetében a Kormány feladatkörében érintett tagja bízza meg az iparügyekért felelős miniszter egyetértésével.
+
+(3)[^6] A megbízási szerződésben rendezendő kérdéseket az iparügyekért felelős miniszter a Kormány feladatkörében érintett tagjával egyetértésben állapítja meg.
+
+## 7. §
+
+(1) A termékinformációs központ, illetve az 5. § (3) bekezdése szerinti más szervezet a vállalkozó számára az importált termék tekintetében az ETK-számot ellenszolgáltatás nélkül köteles kiadni.
+
+(2) A vállalkozónak csak az azonosításához, a termék egyedi jellemzőinek megállapításához és az ETK-szám kiadásához szükséges adatokat kell a termékinformációs központtal közölnie.
+
+(3) A termékinformációs központ egyéb szolgáltatásait — így különösen a belföldön előállított termékek ETK-számainak összegyűjtését és nyilvánosságra hozatalát — a vállalkozók térítés ellenében szerződés alapján vehetik igénybe.
+
+## 8. §
+
+(1)[^7] A termékinformációs központok jegyzékét és az általuk nyilvántartott termékcsoportok körét az iparügyekért felelős miniszter évente köteles közzétenni.
+
+(2)[^8] Ha a vállalkozó a termékinformációs tevékenységét meg kívánja szüntetni, ezt három hónappal korábban köteles a Kormány feladatkörében érintett tagjának bejelenteni és a termékinformációs központ adatait mágneslemezen vagy az általa rendszeresített más adathordozón a Kormány feladatkörében érintett tagjának átadni. A Kormány feladatkörében érintett tagja a vállalkozó termékinformációs tevékenységének megszűnéséről az iparügyekért felelős minisztert haladéktalanul tájékoztatja.
+
+## 9. §
+
+(1)[^9] A vállalkozónak biztosítania kell, hogy különböző termékei, illetve ugyanazon termékének — kiszerelésben, méretben, mennyiségben, színben vagy egyéb módon — eltérő változatai más-más ETK-számot kapjanak, iletve, hogy egy-egy ETK-szám mindig ugyanazt a terméket jelölje.
+
+(2) Az ETK-számot a terméken, ipari csomagoláson vagy mindkettőn a vonatkozó állami szabvány előírásai szerint kell feltüntetni. Az ETK-számot a termék kísérőokmányain az azokra vonatkozó előírások szerint lehet feltüntetni.
+
+## 10. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba.
+
+(2) A rendelet hatálybalépése előtt kialakított ETK-számok a rendelet hatálybalépését követően is használhatók.
+
+(3)–(4)[^10]
+
+---
+
+[^1]: Az 1. § a 221/2014. (IX. 4.) Korm. rendelet 140. §-a szerint módosított szöveg.
+[^2]: International Article Numbering Assotiation (EAN).
+[^3]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § c) pontja szerint módosított szöveg.
+[^6]: A 6. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § d) pontja szerint módosított szöveg.
+[^7]: A 8. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § a) pontja szerint módosított szöveg.
+[^8]: A 8. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 138. §-ával megállapított szöveg.
+[^9]: A 9. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 139. § e) pontja szerint módosított szöveg.
+[^10]: A 10. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1490. pontja hatályon kívül helyezte.

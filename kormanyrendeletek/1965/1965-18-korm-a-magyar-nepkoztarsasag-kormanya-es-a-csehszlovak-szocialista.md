@@ -1,0 +1,54 @@
+---
+title: "18/1965. (X. 17.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között az ingatlanokkal kapcsolatos egyes vagyonjogi kérdések rendezése tárgyában létrejött megállapodás végrehajtásáról"
+identifier: "18/1965. (X. 17.) Korm. rendelet"
+njt_id: "1965-18-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1965/Korm/18"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1965-10-17
+in_force_from: 1991-01-01
+last_amended: 1991-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1965-18-20-22"
+retrieved: 2026-10-12
+---
+
+# 18/1965. (X. 17.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya között az ingatlanokkal kapcsolatos egyes vagyonjogi kérdések rendezése tárgyában létrejött megállapodás végrehajtásáról[^1][^2]
+
+## 1. §
+
+A Magyar Népköztársaság[^3] Kormánya és a Csehszlovák Szocialista Köztársaság[^4] Kormánya között létrejött megállapodás alapján – e rendelet hatályba lépésének napjával – teljes egészében a magyar államra száll át a csehszlovák állampolgárok tulajdonában levő magyarországi ingatlanok közül azoknak az ingatlanoknak a tulajdonjoga, amelyek 1964. február 3-án részben vagy egészben magyar állami vállalatok, egyéb állami gazdálkodó szervek, költségvetési szervek, szövetkezetek és társadalmi szervezetek kezelésében vagy használatában állottak.
+
+## 2. §[^5]
+
+(1) Az 1. § értelmében állami tulajdonba került ingatlanok kezelői vagy használói e rendelet hatályba lépésétől számított 30 napon belül az ingatlan fekvése szerint illetékes helyi, illetőleg városi, fővárosi kerületi önkormányzat jegyzőjének[^6] írásban kötelesek bejelenteni a kezelésükben vagy használatukban lévő, s e rendelet hatálya alá tartozó ingatlanokat. A bejelentésben fel kell tüntetni az ingatlan-nyilvántartásba bejegyzett (telekkönyvi) tulajdonos nevét és lakcímét, az ingatlan ingatlan-nyilvántartási (telekkönyvi) és helyrajzi számát, továbbá azt, hogy az ingatlan melyik községben (városban) fekszik.
+
+(2) Tagosítás vagy földrendezés során táblába került földek esetében a földterület részarányát kell bejelenteni. A bejelentésben fel kell tüntetni a földnek az ingatlan-nyilvántartás (állami földnyilvántartás) szerinti területét, művelési ágát és kataszteri tiszta jövedelmét is.
+
+## 3. §
+
+(1) A bejelentés alapján vagy más módon tudomására jutott esetben az igazgatási osztály határozattal állapítja meg, hogy az ingatlan e rendelet hatálya alá tartozik-e vagy sem. Az állam tulajdonjogát megállapító határozatban az ingatlankezelő szervet is ki kell jelölni, ha ez korábban még nem történt volna meg.
+
+(2) A határozathozatalra, az ügyfelek értesítésére és a jogorvoslati eljárásra az 1957. évi IV. törvény rendelkezéseit kell alkalmazni.
+
+(3) Az igazgatási osztály a határozat jogerőre emelkedése után megkeresi a földhivatalt (telekkönyvi hatóságot) a magyar állam tulajdonjogának és az ingatlankezelő szervének az ingatlan-nyilvántartásba (telekkönyvbe) való bejegyzése iránt. Határozatának egy példányát egyidejűleg a Magyar Nemzeti Bank Jogügyi főosztályának is megküldi.
+
+(4) Ha vita merülne fel abban a kérdésben, hogy valamely ingatlan e rendelet hatálya alá tartozik-e, a Pénzügyminisztérium véleményét kell beszerezni.
+
+## 4. §
+
+Az állami tulajdonjogát e rendelet alapján megállapító államigazgatási határozat bíróság előtt nem támadható meg.
+
+## 5. §
+
+Ez a rendelet kihirdetése napján lép hatályba.
+
+---
+
+[^1]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^2]: A Csehszlovák Köztársaság államisága megszünt. Az államutódlást külön megállapodások rendezik.
+[^3]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^4]: A Csehszlovák Köztársaság államisága megszünt. Az államutódlást külön megállapodások rendezik.
+[^5]: A 2. § az 1972: 31. törvényerejű rendelet 48. § (6) bekezdése és 49. §-a alapján, valamint az 1983: 26. törvényerejű rendelet 1. §-ának megfelelően módosult szöveg.
+[^6]: A helyi önkormányzatokról szóló 1990: LXV. törvénynek megfelelő szöveg.

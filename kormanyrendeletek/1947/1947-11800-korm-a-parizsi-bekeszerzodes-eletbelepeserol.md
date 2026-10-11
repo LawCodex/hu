@@ -1,0 +1,39 @@
+---
+title: "11800/1947. (X. 15.) Korm. rendelet a párizsi békeszerződés életbelépéséről"
+identifier: "11800/1947. (X. 15.) Korm. rendelet"
+njt_id: "1947-11800-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1947/Korm/11800"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1947-10-15
+in_force_from: 1990-12-31
+last_amended: 1990-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1947-11800-20-22"
+retrieved: 2026-10-12
+---
+
+# 11800/1947. (X. 15.) Korm. rendelet a párizsi békeszerződés életbelépéséről[^1]
+
+A magyar kormány a Párizsban, az 1947. évi február hó 10. napján kelt békeszerződés becikkelyezéséről szóló 1947. évi VIII. törvény 4-5. §-ában foglalt felhatalmazás alapján a következőket rendeli:
+
+## 1. §
+
+(1) A Párizsban, az 1941. évi február hó 10. napján kelt és az 1947. évi XVIII. törvénnyel becikkelyezett békeszerződés (magyar békeszerződés) megerősítő okiratainak letételéről Moszkvában, az 1941. évi szeptember hó 15. napján készült jegyzőkönyv szerint a Szocialista Szovjet Köztársaságok Szövetsége, Nagy-Britannia és Észak-Írország Egyesült Királyság és az Amerikai Egyesült Államok a békeszerződés megerősítő okiratait letették és ezzel a békeszerződés életbelépésének a szerződés 42. cikkében meghatározott előfeltételei bekövetkeztek. Ennélfogva a Párizsban, az 1947. évi február hó 10. napján egyrészről Magyarország, másrészről a Szocialista Szovjet Köztársaságok Szövetsége, Nagy-Britannia és Észak-Írország Egyesült Királyság, az Amerikai Egyesült Államok, Ausztrália, a Fehérorosz Szocialista Szovjet Köztársaság, Kanada, Csehszlovákia, India, Új-Zéland, az Ukrán Szocialista Szovjet Köztársaság, a Dél-Afrikai Unió és a Jugoszláv Szövetséges Népköztársaság között aláírt békeszerződés, az 1947. évi szeptember hó 15. napján életbe lépett.
+
+(2) A magyar békeszerződésben kitűzött határidők számítása szempontjából az életbelépés napjaként az 1947. évi szeptember hó 15. napját kell érteni.
+
+## 2. §
+
+(1) A Párizsban, az 1947. évi február hó 10. napján kelt román békeszerződés megerősítő okiratainak letételéről Moszkvában, az 1947. évi szeptember hó 15. napján készült jegyzőkönyv szerint az 1. §-ban említett három nagyhatalom egyidejűleg annak a békeszerződésnek a megerősítő okiratait is letette, amely egyrészről a Szocialista Szovjet Köztársaságok Szövetsége, Nagy-Britannia és Észak-Írország Egyesült Királyság, az Amerikai Egyesült Államok, Ausztrália, a Fehérorosz Szocialista Szovjet Köztársaság, Kanada, Csehszlovákia, India, Új-Zéland, az Ukrán Szocialista Szovjet Köztársaság és a Dél-Afrikai Unió, másrészről Románia között ugyancsak Párizsban ugyanazon a napon kelt.
+
+(2) A magyar és román békeszerződés egyidejű életbelépésével bekövetkezett a Magyarország és Románia közötti hadiállapot megszűnésének a magyar békeszerződés 8. cikkében megkívánt előfeltételek, ennélfogva a hadiállapot Magyarország és Románia között, az 1947. évi szeptember hó 15. napján megszűnt.
+
+## 3. §
+
+A jelen rendelet kihirdetésének napján lép hatályba; rendelkezéseit azonban, az 1947. évi szeptember hó 15. napjától kezdődő hatállyal kell alkalmazni.
+
+---
+
+[^1]: Megjelent a Magyar Közlöny 1947. évi 233-234. számában.

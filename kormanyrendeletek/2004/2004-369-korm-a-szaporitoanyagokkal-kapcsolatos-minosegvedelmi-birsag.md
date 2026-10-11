@@ -1,0 +1,274 @@
+---
+title: "369/2004. (XII. 26.) Korm. rendelet a szaporítóanyagokkal kapcsolatos minőségvédelmi bírság megállapításáról"
+identifier: "369/2004. (XII. 26.) Korm. rendelet"
+njt_id: "2004-369-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/369"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-12-26
+in_force_from: 2009-10-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-369-20-22"
+retrieved: 2026-10-12
+---
+
+# 369/2004. (XII. 26.) Korm. rendelet a szaporítóanyagokkal kapcsolatos minőségvédelmi bírság megállapításáról
+
+A Kormány a növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény (a továbbiakban: Tv.) 30. §-ának (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési feladatkörében eljáró fővárosi és megyei kormányhivatal (továbbiakban: kormányhivatal) a Tv.-ben és a végrehajtására kiadott jogszabályokban foglaltak megsértése esetén az e rendeletben foglaltak szerint minőségvédelmi bírságot szab ki a szaporítóanyagot előállító, feldolgozó és forgalomba hozó természetes és jogi személyek, illetve jogi személyiséggel nem rendelkező szervezetek tekintetében.
+
+### 2. §
+
+(1)[^2]
+
+(2)[^3] A NÉBIH, illetve a kormányhivatal a bírság mértékének megállapításakor figyelembe veszi azt is, ha a jogszabálysértést elkövető a károsult felhasználó részére kártérítést ad.
+
+(3)[^4] A NÉBIH, illetve a kormányhivatal a minőségvédelmi bírság kiszabásával egyidejűleg a Tv.-ben foglaltak szerint egyéb jogkövetkezményeket is alkalmazhat.
+
+(4)[^5]
+
+### 3. §
+
+(1) Több jogszabálysértés egy eljárásban történő elbírálása esetén a minőségvédelmi bírság megállapításakor a súlyosabb jogszabálysértés alapján kiszabható összeget kell alapul venni.
+
+(2)[^6] A NÉBIH, illetve a kormányhivatal a minőségvédelmi bírságot kiszabó végleges határozatát a termékpálya szerinti terméktanáccsal is közli.
+
+## A szántóföldi növényfajok vetőmagvainak előállításával és forgalomba hozatalával kapcsolatos jogszabálysértések
+
+### 4. §
+
+(1) A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendeletben foglaltak megsértése esetén a minőségvédelmi bírság mértékét az e §-ban foglaltakra figyelemmel kell megállapítani.
+
+(2) A minőségvédelmi bírság mértéke a jogszabályi előírásoknak nem megfelelő vetőmag továbbszaporítás céljára történő elvetése esetén legfeljebb 250 000 forint.
+
+(3) A minőségvédelmi bírság mértéke legfeljebb 300 000 forint
+
+a) felbontott csomagolású és emiatt nem azonosítható, illetve ellenőrzöttnek nem minősülő vetőmag forgalomba hozatala, illetve
+
+b) jogszabály által előírt nyilvántartási kötelezettség elmulasztása
+
+c)[^7] a jogszabályban előírt vizsgálati kötelezettség elmulasztása
+
+esetén.
+
+(4) A szaporítóanyag származásának és minőségének a feldolgozás vagy a felhasználás helyén történő hiányos dokumentálása, illetve a dokumentálás elmaradása esetén a minőségvédelmi bírság mértéke legfeljebb 350 000 forint.
+
+(5) A minőségi feltételeknek nem megfelelő vetőmag forgalomba hozatala esetén – a forgalomba hozott szaporítóanyag eladási értékétől függően – a minőségvédelmi bírság mértéke legalább 400 000 forint, de legfeljebb 800 000 forint.
+
+(6) A minőségvédelmi bírság mértéke nem megfelelő jelölésekkel ellátott vetőmag forgalomba hozatala esetén – a szabálytalanul forgalomba hozott vetőmag eladási értékétől függően – legalább 500 000 forint, de legfeljebb 1 500 000 forint.
+
+(7) A minőségvédelmi bírság mértéke 1 millió forintig terjedhet
+
+a) a (3) bekezdés *a)* pontja szerinti eset kivételével vetőmag minősítés nélküli forgalomba hozatala,
+
+b) vetőmag előállításához igazolatlan származású alapanyag felhasználása, a származást igazoló bizonylatok előírt határidőig történő megőrzésének, illetve az esetleges letéti minták bemutatásának elmulasztása,
+
+c) a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben nem szereplő növényfajta vetőmagjának forgalomba hozatala, illetve
+
+d) a Tv. által előírt, termékpálya szerinti igazolt terméktanácsi tagság hiánya
+
+esetén.
+
+(8) A minőségvédelmi bírság mértéke 2 millió forintig terjedhet
+
+a) szántóföldön alkalmatlannak minősített szaporítóanyag vetőmagként történő forgalomba hozatala,
+
+b)[^8]
+
+c) hamis, illetve meghamisított minősítő okmányok használata
+
+esetén.
+
+(9) A minőségvédelmi bírság mértéke 2 500 000 forintig terjedhet
+
+a)[^9]
+
+b) ellenőrző vizsgálaton alkalmatlannak minősített vetőmag forgalomba hozatala, illetve
+
+c) a vetőmag szaporítások terméséhez tartozó bizonylatok meghamisítása
+
+esetén.
+
+### 4/A. §[^10]
+
+(1) A minőségvédelmi bírság mértéke
+
+a) géntechnológiával módosított szervezettel szennyezett szaporítóanyag (a továbbiakban: szennyezett szaporító anyag) forgalomba hozatala esetén 100 000 forinttól 2 000 000 000 forintig;
+
+b) a szennyezett szaporító anyag tétel elkülönítésére vonatkozó vagy a szennyezettség tényével kapcsolatos értesítési kötelezettség be nem tartása esetén 50 000 forinttól 1 000 000 forintig;
+
+c) zárolt növényi kultúrára vonatkozó betakarítási tilalom megsértése esetén 100 000 forinttól 10 000 000 forintig;
+
+d) a szennyezett szaporító anyag tétel vagy a köztermesztésbe bocsátott szennyezett szaporító anyagból származó növényi kultúrára vonatkozó megsemmisítési kötelezettség be nem tarása esetén késedelmes naponként 100 000 forinttól 10 000 000 forintig
+
+terjed, de legfeljebb a jogszabálysértést elkövető által elért nettó árbevételének tíz százaléka.
+
+(2) A nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti konszolidált nettó árbevétel alapján kell meghatározni. Ha a jogszabálysértést elkövető működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a jogszabálysértést elkövető a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező jogszabálysértést elkövető esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a jogszabálysértést elkövető által a hatóság felhívására közölt, a számvitelről szóló 2000. évi C. törvénynek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával, mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
+
+## A zöldség szaporítóanyagok előállításával és forgalomba hozatalával, valamint a dísznövény szaporítóanyagok forgalomba hozatalával kapcsolatos jogszabálysértések
+
+### 5. §
+
+(1) A zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendeletben és a dísznövény szaporítóanyagok forgalomba hozataláról szóló 62/2004. (IV. 27.) FVM rendeletben foglaltak megsértése esetén a minőségvédelmi bírság mértékét az e §-ban foglaltakra figyelemmel kell megállapítani.
+
+(2) A minőségvédelmi bírság mértéke 50 000 forintig terjedhet
+
+a) a szaporítóanyag tételek jelölésével és elkülönítésével kapcsolatos előírások megsértése,
+
+b) a szaporítóanyag nyilvántartás nem megfelelő rendszerességgel vagy hiányos tartalommal való vezetése,
+
+c) a szaporítóanyag hiányos vagy nem megfelelően kiállított okmánnyal, illetve jelöléssel történő forgalomba hozatala, vagy
+
+d) a különböző helyről származó szaporítóanyag együtt szállítása alkalmával a forgalmazó által az összetevőkről és azok származásáról készítendő feljegyzés elkészítésének elmulasztása
+
+esetén.
+
+(3) A minőségvédelmi bírság mértéke 100 000 forintig terjedhet
+
+a) a szaporítóanyagnak külön jogszabály szerinti kísérő okmány nélküli forgalomba hozatala esetén, vagy
+
+b) ha az előállító, illetve forgalmazó a szaporítóanyag származásával és forgalomba hozatalával kapcsolatos okiratokat nem tudja bemutatni, illetve azokat nem őrzi meg a külön jogszabályban előírt határidőig.
+
+(4) A minőségvédelmi bírság mértéke 200 000 forintig terjedhet
+
+a) szaporítóanyag engedély, illetve külön jogszabályban előírt nyilvántartásba vétel nélküli forgalomba hozatala,
+
+b) az előírásoknak nem megfelelő minőségű szaporítóanyag forgalomba hozatala esetén, vagy
+
+c) ha az előállító, illetve forgalmazó termesztési rendszerében vagy szaporítóanyag nyilvántartásában a szaporítóanyag követhetőségét nem biztosítja,
+
+d) ha a citrusfélék és hagymás dísznövények esetén az előállító, illetve forgalmazó olyan szaporítóanyagot hoz forgalomba, amelynek előállítása a különleges növényegészségügyi követelményeknek nem felelt meg,
+
+e) ha az előállító, illetve forgalmazó a termeltetésre vonatkozó előírásokat nem tartja be, vagy a termelővel nem tartatja be, vagy
+
+f) ha az előállító, illetve forgalmazó a jogszabály szerinti, a szaporítóanyagra vonatkozó nyilvántartási kötelezettségének nem tesz eleget.
+
+(5) Dísznövény szaporítóanyag szabálytalan fajtanévvel vagy fajtaleírás hiányában történő forgalomba hozatala esetén a minőségvédelmi bírság mértéke fajtánként legfeljebb 200 000 forint.
+
+(6) Minőségvédelmi bírságként legfeljebb 500 000 forintot kell kiszabni
+
+a) nem minősített vetőmagnak vagy nem ellenőrzött szaporítóanyagnak zöldségpalánta előállításához történő felhasználása esetén, illetve ha az ilyen szaporítóanyag származását nem tudják igazolni,
+
+b) a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben nem szereplő zöldségfajta vetőmagjának, illetve palántájának forgalomba hozatala, vagy
+
+c) nem faj-, illetve fajtaazonos vagy nem faj-, illetve fajtatiszta szaporítóanyag forgalomba hozatala
+
+esetén.
+
+(7) Minőségvédelmi bírságként legfeljebb 2 millió forintot kell kiszabni
+
+a) forgalomba hozataltól eltiltott vagy zárolt szaporítóanyag forgalomba hozatala, illetve
+
+b) szaporítóanyag kísérő okmánnyal való visszaélés vagy jogosulatlan okmányhasználat
+
+esetén.
+
+## A szőlő szaporítóanyagok előállításával, minősítésével és forgalomba hozatalával, valamint a gyümölcs szaporítóanyagok előállításával és forgalomba hozatalával kapcsolatos jogszabálysértések
+
+### 6. §
+
+(1) A szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 90/2004. (V. 18.) FVM rendeletben és a gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 64/2004. (IV. 27.) FVM rendeletben foglaltak megsértése esetén a minőségvédelmi bírságot az e §-ban foglaltakra tekintettel kell kiszabni.
+
+(2) Minőségvédelmi bírságként legfeljebb 50 000 forintot kell kiszabni azzal szemben, aki
+
+a) a szaporítóanyag tételek jelölését, elkülönítését elmulasztja,
+
+b) nyilvántartását nem rendszeresen vagy hiányosan vezeti,
+
+c)[^11] a származás igazolására szolgáló okiratot (a továbbiakban: származási igazolvány) a szaporítóanyag átadásával egyidőben nem állítja ki, vagy nem adja át,
+
+d)[^12] az általa forgalmazott szaporító alapanyagokról kiállított származási igazolványokat az előírt határidőre nem küldi meg a NÉBIH-nek, illetve a kormányhivatalnak vagy
+
+e) törzsültetvényt engedély nélkül vág ki, vagy törzsültetvényt engedély nélkül von ki törzsültetvénykénti üzemeltetésből.
+
+(3) A minőségvédelmi bírság mértéke legalább 100 000 forint, de legfeljebb 500 000 forint azzal szemben, aki
+
+a) engedély nélkül szaporítóanyagot importál, illetve annak belföldiesítését elmulasztja,
+
+b) szaporítóanyagot certifikációs címke nélkül, vagy amennyiben annak használata nem kötelező, megfelelő információtartalmú árucímke nélkül hoz forgalomba.
+
+(4) A minőségvédelmi bírság mértéke legalább 250 000 forint, de legfeljebb 500 000 forint azzal szemben, aki
+
+a) nyilvántartásában valótlan adatot tüntet fel, vagy
+
+b) zárolt szaporítóanyagot a zárlat feloldása nélkül hoz forgalomba.
+
+(5) Legalább 250 000 forint, de legfeljebb 5 millió forint minőségvédelmi bírságot kell kiszabni azzal szemben, aki
+
+a) szaporítóanyagot engedély nélkül termeszt vagy hoz forgalomba,
+
+b) a jogszabályokban meghatározott minőségi követelményeknek – ideértve a fajtaazonosságot és fajtatisztaságot is – nem megfelelő szaporítóanyagot hoz forgalomba,
+
+c) olyan fajtát szaporít vagy hoz forgalomba, amely sem a Nemzeti Fajtajegyzékben, sem a Szállítói Fajtajegyzékben, sem a Közösségi Fajtajegyzékben nem szerepel, és amelyre egyedi szaporítási engedélyt sem kapott,
+
+d) nem igazolt származású szaporítóanyagot használ fel, illetve hoz forgalomba,
+
+e)[^13] szaporítóanyagot hamis származási igazolvánnyal hoz forgalomba.
+
+(6) Az (1) bekezdés szerinti jogszabályokban foglaltaknak a (2)–(5) bekezdésben nem nevesített megsértése esetén a minőségvédelmi bírság mértéke legfeljebb 500 000 forintig terjedhet.
+
+## Az erdészeti szaporítóanyagokkal kapcsolatos jogszabálysértések
+
+### 7. §
+
+(1)[^14] Az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendeletben foglaltak megsértése esetén a NÉBIH, illetve a kormányhivatal a minőségvédelmi bírságot az e §-ban foglaltak szerint szabja ki.
+
+(2) A minőségvédelmi bírság mértéke legalább 50 000 forint, de legfeljebb 1 500 000 forint azzal szemben, aki
+
+a) az erdészeti szaporító alapanyag begyűjtését és származásigazolását nem a külön jogszabályban előírtak szerint végzi,
+
+b) az engedélyes csemetetermelő, szaporítóanyag begyűjtő és szaporítóanyag kereskedő számára előírt minimális szakmai nyilvántartást nem vezeti, illetve az olyan mértékben hiányos és szakszerűtlen, hogy az értékelést kizárja, vagy
+
+c) az előírt határidőket sorozatosan elmulasztja.
+
+(3) Legalább 500 000 forint, de legfeljebb 3 500 000 forint minőségvédelmi bírságot kell kiszabni azzal szemben, aki
+
+a) kiválasztott, kiemelt és vizsgált szaporítóanyagot nem törzsültetvényből állít elő vagy gyűjt be,
+
+b) törzsültetvényt nem a külön jogszabályokban foglaltak szerint létesít és tart fenn,
+
+c) a külön jogszabály szerinti minősítési eljárást (certifikációt) elkerüli, vagy
+
+d) a szaporítóanyag-tételeket nem a jogszabályi követelmények szerint hozza forgalomba.
+
+(4) Legalább 750 000 forint, de legfeljebb 5 millió forint mértékű minőségvédelmi bírságot kell kiszabni azzal szemben, aki
+
+a) engedély nélkül termelt vagy a jogszabályi követelményeknek nem megfelelő szaporítóanyagot hoz forgalomba, illetve nem tesz eleget a külön jogszabály szerinti származásazonosított szaporítóanyag-forrás bejelentési kötelezettségének,
+
+b) bejelentés nélkül szaporítóanyag-kereskedelmet folytat, illetve a viszonteladás szakmai követelményeit nem tartja be,
+
+c) származásigazolásra kötelezett faj szaporítóanyagát nemzetközi (OECD) származási igazolvány nélkül exportálja, az Európai Unión belüli átszállítás esetén bejelentési kötelezettségét nem teljesíti,
+
+d) az importelőírásokat megsérti, a belföldiesítést elkerüli, vagy
+
+e) zárlati termesztés esetén a ki nem szállított szaporítóanyagot forgalomba hozza, ha a faj, származás vagy fajta Magyarországon nem szaporítható és nem használható fel.
+
+## Záró rendelkezés
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+---
+
+[^1]: Az 1. § a 351/2010. (XII. 30.) Korm. rendelet 130. § (1) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § a) pontja, az 57/2014. (III. 4.) Korm. rendelet 5. §-a, a 360/2019. (XII. 30.) Korm. rendelet 34. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^2]: A 2. § (1) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 34. § b) pontja, a 713/2020. (XII. 30.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (2) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^5]: A 2. § (4) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^6]: A 3. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (3) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 143. §-a, a 360/2019. (XII. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: A 4. § (3) bekezdés c) pontját a 147/2011. (VIII. 4.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A 4. § (8) bekezdés b) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^9]: A 4. § (9) bekezdés a) pontját a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^10]: A 4/A. §-t a 147/2011. (VIII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A 6. § (2) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 386. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 6. § (2) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 130. § (4) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 34. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^13]: A 6. § (5) bekezdés e) pontja a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (5) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 34. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

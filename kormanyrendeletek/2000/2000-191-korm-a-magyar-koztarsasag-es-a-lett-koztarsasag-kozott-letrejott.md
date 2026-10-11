@@ -1,0 +1,194 @@
+---
+title: "191/2000. (XI. 24.) Korm. rendelet a Magyar Köztársaság és a Lett Köztársaság között létrejött Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyve módosításáról rendelkező megállapodás kihirdetéséről"
+identifier: "191/2000. (XI. 24.) Korm. rendelet"
+njt_id: "2000-191-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/191"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-11-24
+in_force_from: 2000-11-24
+last_amended: 2000-11-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-191-20-22"
+retrieved: 2026-10-12
+---
+
+# 191/2000. (XI. 24.) Korm. rendelet a Magyar Köztársaság és a Lett Köztársaság között létrejött Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyve módosításáról rendelkező megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és a Lett Köztársaság között létrejött Szabadkereskedelmi Megállapodás (a továbbiakban: Megállapodás) kihirdetéséről szóló 2000. évi XXVIII. törvény 3. §-ában kapott felhatalmazás alapján a Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyve módosításáról rendelkező megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű fordítása a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között\
+a Magyar Köztársaság és a Lett Köztársaság között létrejött Szabadkereskedelmi Megállapodás\
+3\. számú, a származási szabályokról szóló Jegyzőkönyvének módosításáról
+
+A Magyar Köztársaság (a továbbiakban: Magyarország) és a Lett Köztársaság (a továbbiakban: Lettország)
+
+figyelembe véve a Magyarország és Lettország között 1999. június 10-én, Budapesten aláírt Szabadkereskedelmi Megállapodást,
+
+tekintettel arra, hogy a ,,származó termékek'' fogalommeghatározásának olyan módosítása szükséges a kibővített kumulációs rendszer megfelelő működésének biztosítása érdekében, amely lehetővé teszi az Európai Közösségből, Lengyelországból, Magyarországról, a Cseh Köztársaságból, a Szlovák Köztársaságból, Bulgáriából, Romániából, Lettországból, Litvániából, Észtországból, Szlovéniából, Törökországból, az Európai Gazdasági Térségből (a továbbiakban: EGT), Izlandról, Norvégiából és Svájcból származó anyagok felhasználását,
+
+tanácsosnak tartva az összegeket érintő cikkek módosítását annak érdekében, hogy teljes mértékben figyelembe lehessen venni az euró hatálybalépését,
+
+szükségesnek ítélve változtatások bevezetését a nem származó termékek származóvá válásának megmunkálási és feldolgozási követelményeit tartalmazó listát illetően, figyelembe véve a termelési eljárások változásait és bizonyos nyersanyagok hiányát,
+
+az alábbiakról határoztak:
+
+*1. Cikk*
+
+A ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló 3. számú Jegyzőkönyv ezennel a következők szerint módosul:
+
+1\. A 21. és a 26. Cikkekben az ,,ECU'' szó helyébe az ,,euró'' lép.
+
+2\. A 30. Cikk helyébe a következő rendelkezés lép:
+
+,,
+
+*30. Cikk*
+
+*Euróban kifejezett összegek*
+
+1\. Az euróban megállapított összegekkel megegyező és az exportáló ország nemzeti valutájában kifejezett összegeket az exportáló ország határozza meg, és közli az importáló országgal.
+
+2\. Ha az összegek meghaladják az importáló ország által megállapított vonatkozó összegeket, az utóbbi elfogadja azokat, ha a terméket az exportáló ország valutájában számlázták. Ha a terméket a 3. és 4. Cikkben hivatkozott másik ország valutájában számlázták, az importáló ország a szóban forgó ország által közölt összeget fogadja el.
+
+3\. A felhasználandó, egy adott ország nemzeti valutájában kifejezett összegek megegyeznek az 1999. október első munkanapján érvényes árfolyamon, euróban kifejezett összegeknek az adott nemzeti valutában számított értékével.
+
+4\. Az euróban és az azzal egyenértékű, Magyarország és Lettország nemzeti valutájában kifejezett összegeket a Vegyesbizottság Magyarország és Lettország kérésére felülvizsgálja. E felülvizsgálat során a Vegyesbizottság biztosítja, hogy ne csökkenjenek a nemzeti valutában számított összegek, és figyelembe veszi, hogy célszerű a szóban forgó értékhatárok hatásának reális feltételek közötti fenntartása. E célból úgy határozhat, hogy módosítja az euróban kifejezett összegeket.''
+
+3\. A II. számú Melléklet a következők szerint módosul:
+
+*a)* a HR 1904 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+1904
+
+(2): Gabonából puffasztással vagy pirítással előállított, elkészített élelmiszer (pl. kukoricapehely); másutt nem említett gabona, (a kukorica kivételével) szem formában, pehely formában vagy más megmunkált szem formában (a liszt és őrlemény kivételével) előfőzve vagy másképp elkészítve
+
+(3): Előállítás:
+
+– az 1806 vámtarifaszám alá nem osztályozott anyagokból,
+
+– amelynek során a felhasznált gabonaféléknek és lisztnek [a durum búza és származékai és a gömbölyű kukorica (Zea indurata maize) kivételével] teljes egészében előállítottnak kell lennie[^1],
+
+– amelynek során a 17. Árucsoportba tartozó bármely felhasznált anyag értéke nem haladja meg a termék gyártelepi árának 30%-át,''
+
+*b)* a HR 2207 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+2207
+
+(2): Nem denaturált etilalkohol legalább 80 térfogatszázalék alkoholtartalommal; etilalkohol és más szesz denaturálva, bármilyen alkoholtartalommal
+
+(3): Előállítás:
+
+– a 2207 vagy 2208 vámtarifaszám alá nem osztályozott anyagokból,
+
+– amelynek során minden felhasznált szőlőnek és szőlőszármazéknak teljes egészében előállítottnak kell lennie, vagy ha minden más anyag már származó, rizspálinka maximum 5 tömegszázalékban felhasználható.''
+
+*c)* a HR 57. Árucsoportra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+57.Áru-csoport
+
+(2): Szőnyegek és más textil padlóborítók:
+
+– Tűnemezből
+
+(3): Előállítás[^2]:
+
+– természetes szálakból, vagy
+
+– vegyi anyagokból vagy textilpépből.
+
+Azonban:
+
+– az 5402 vámtarifaszám alá tartozó polipropilén végtelen szál, vagy
+
+– az 5503 vagy az 5506 vámtarifaszám alá tartozó polipropilén vágott szál, vagy
+
+– az 5501 vámtarifaszám alá tartozó polipropilén fonókábel, ha az egyágú végtelen szál vagy vágott szál értéke minden esetben kevesebb, mint 9 decitex felhasználható, ha értéke nem haladja meg a termék gyártelepi árának 40%-át.
+
+Jutaszövet hátoldalként felhasználható.
+
+(2):
+
+– Más nemezből
+
+(3): Előállítás[^3]:
+
+– nem kártolt vagy nem fésült vagy fonásra más módon elő nem készített természetes szálakból, vagy
+
+– vegyi anyagokból vagy textilpépből.
+
+(2):
+
+– Más textilanyagból
+
+(3): Előállítás[^4]:
+
+– kókuszrost- vagy jutafonalból,
+
+– szintetikus vagy mesterséges végtelen szálból készült fonalból,
+
+– természetes szálakból, vagy
+
+– nem kártolt vagy nem fésült vagy fonásra más módon nem előkészített műszálból.
+
+Jutaszövet hátoldalként felhasználható.''
+
+*d)* a HR 8401 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+ex 8401
+
+(2): Nukleáris fűtőelemek
+
+(3): Előállítás, amelynek során valamennyi felhasznált anyag a terméktől eltérő vámtarifaszám alá osztályozott[^5].
+
+(4): Előállítás, amelynek során valamennyi felhasznált anyag értéke nem haladja meg a termék gyártelepi árának a 30%-át.''
+
+*e)* a HR 9606 és 9612 vámtarifaszámokra vonatkozó rendelkezések közé a következő rendelkezést kell beiktatni:
+
+,,
+
+9608
+
+(2): Golyóstoll, filc- és más, szivacsvégű toll és jelző; töltőtoll, rajzolótoll és egyéb toll; másoló töltőtoll (átírótoll); töltőceruza vagy csúszóbetétes ceruza; tollszár, ceruzahosszabbító és hasonló; mindezek részei (beleértve a kupakot és a klipszet is), a 9609 vámtarifaszám alá tartozó áru kivételével
+
+(3): Előállítás, amelynek során valamennyi felhasznált anyag a terméktől eltérő vámtarifaszám alá osztályozott. Azonban azonos vámtarifaszám alá osztályozott tollhegy és tollhegycsúcs felhasználható.''
+
+*2. Cikk*
+
+Ez a Megállapodás a Magyar Köztársaság és a Lett Köztársaság közötti Szabadkereskedelmi Megállapodás hatálybalépése napjától lép hatályba.
+
+Készült Budapesten, 1999. december 10. napján, két hiteles példányban, angol nyelven.
+
+a Magyar Köztársaság képviselője
+
+a Lett Köztársaság képviselője''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodás rendelkezéseit azonban 2000. január 1-jétől kell alkalmazni.
+
+---
+
+[^1]: A gömbölyű kukoricára vonatkozó kivétel 2002. december 31-ig érvényes.
+[^2]: A kevert textilanyagokból készült termékekre vonatkozó különleges előírásokat lásd a Bevezető Megjegyzések 5. pontjában
+[^3]: A kevert textilanyagokból készült termékekre vonatkozó különleges előírásokat lásd a Bevezető Megjegyzések 5. pontjában
+[^4]: A kevert textilanyagokból készült termékekre vonatkozó különleges előírásokat lásd a Bevezető Megjegyzések 5. pontjában
+[^5]: Ez a szabály 2005. december 31-ig érvényes.

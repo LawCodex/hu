@@ -1,0 +1,156 @@
+---
+title: "96/1999. (VI. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az állampolgárok kölcsönös foglalkoztatása érdekében Pozsonyban, 1999. február 12. napján aláírt Egyezmény kihirdetéséről"
+identifier: "96/1999. (VI. 25.) Korm. rendelet"
+njt_id: "1999-96-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/96"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-06-25
+in_force_from: 2000-01-01
+last_amended: 2000-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-96-20-22"
+retrieved: 2026-10-12
+---
+
+# 96/1999. (VI. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az állampolgárok kölcsönös foglalkoztatása érdekében Pozsonyban, 1999. február 12. napján aláírt Egyezmény kihirdetéséről
+
+*(Az Egyezmény hatálybalépéséről szóló jegyzékváltás 1999. március 8. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az állampolgárok kölcsönös foglalkoztatása érdekében Pozsonyban, 1999. február 12. napján aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között az állampolgárok kölcsönös foglalkoztatásáról
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között (a továbbiakban: Szerződő Felek), az állampolgárok kölcsönös foglalkoztatása kérdésében, a jószomszédi viszony és a baráti együttműködés alapelveit tiszteletben tartva, az alábbi Egyezmény jött létre:
+
+*1. Cikk*
+
+Jelen Egyezmény a Magyar Köztársaság területén lakóhellyel rendelkező azon magyar állampolgárokra, illetve a Szlovák Köztársaság területén lakóhellyel rendelkező azon szlovák állampolgárokra vonatkozik (a továbbiakban: állampolgárok), akik a másik Szerződő Fél országának területén kerülnek alkalmazásba, jelen Egyezményben meghatározott feltételekkel és létszámkeret erejéig.
+
+*2. Cikk*
+
+(1) Jelen Egyezmény megvalósításáért felelős szervek:
+
+a Magyar Köztársaságban:
+
+Szociális és Családügyi Minisztérium;[^1]
+
+a Szlovák Köztársaságban:
+
+Munka-, Szociális és Családügyi Minisztérium.
+
+(2) Jelen Egyezmény végrehajtásával megbízott szervek:
+
+a Magyar Köztársaságban:
+
+Országos Munkaügyi Kutató- és Módszertani Központ;[^2]
+
+a Szlovák Köztársaságban:
+
+Nemzeti Munkaügyi Hivatal.
+
+(3) Az állampolgárok foglalkoztatása jelen Egyezmény szerint mindkét Szerződő Fél munkaerőpiaci szerveinek közreműködésével valósul meg.
+
+*3. Cikk*
+
+(1) Az állampolgároknak a másik Szerződő Fél országának területén történő foglalkoztatása a munkáltatóval történt megállapodás szerinti időtartamra az alábbiak szerint kerülhet sor:
+
+*a)* legfeljebb 1 évig, legfeljebb egyéves meghosszabbítási lehetőséggel,
+
+*b)* rövid időtartamra, szezonális jellegű munkákra az adott naptári évben legfeljebb hat hónapig.
+
+(2) A másik Szerződő Fél országának területén az állampolgár abban az esetben foglalkoztatható, ha
+
+*a)* az (1) bekezdés *a)* pontja szerinti esetben rendelkezik a munkakör betöltéséhez szükséges szakképesítéssel, és a munkába lépés idején betöltötte 18. életévét,
+
+*b)* az (1) bekezdés *b)* pontja szerinti esetben 18. életévét betöltötte.
+
+(3) A Szerződő Felek mindegyike jelen Egyezménnyel összefüggésben kölcsönösen elfogadja a másik Fél országának területén kiadott alap- és középfokú szakképesítést és végzettséget tanúsító, a fogadó ország hivatalos nyelvére lefordított okmányokat. A felsőfokú végzettségek és szakképzettségek elismerése tekintetében a fogadó Szerződő Fél államának belföldi jogszabályai érvényesek.
+
+*4. Cikk*
+
+(1) Mindkét Szerződő Fél számára az éves keret az ország munkaerőpiaci helyzetére való tekintet nélkül az alábbiak szerint kerül meghatározásra:
+
+*a)* 3. Cikk (1) bekezdés *a)* pontja szerint 400 állampolgár,
+
+*b)* 3. Cikk (1) bekezdés *b)* pontja szerint 400 állampolgár.
+
+(2) Amennyiben a Szerződő Felek valamelyike nem meríti ki az engedélyezett létszámot, ez a tény nem vonja maga után a másik Fél megengedett éves létszámának lecsökkentését. Az adott esztendőben a munkaengedélyek fel nem használt része nem vihető át a következő évre.
+
+(3) A Szerződő Felek a következő éves keretszám változtatásával kapcsolatban legkésőbb folyó év július 1-jéig állapodhatnak meg jegyzékváltás útján.
+
+*5. Cikk*
+
+(1) Ahhoz, hogy az egyik Szerződő Fél állampolgára a másik Szerződő Fél országának területén munkát folytathasson, a fogadó ország érvényes jogi előírásainak megfelelő munkavállalási engedéllyel kell hogy rendelkezzen. A Szerződő Felek illetékes hatóságai a 4. Cikk (1) bekezdés szerinti létszámkeret betöltéséig a munkaerőpiaci helyzetre való tekintet nélkül adják ki a munkavállalási engedélyeket.
+
+(2) Azokban a munkakörökben, ahol a fogadó ország jogszabályai értelmében külföldi egyáltalán nem foglalkoztatható, az engedély kiadására nem kerülhet sor.
+
+(3) Az állampolgár és a munkáltató közötti szerződésnek írásos formában kell létrejönnie.
+
+(4) Az állampolgár nem végezhet más munkatevékenységet, mint amelyre a munkavállalási engedélye szól, és nem dolgozhat más munkáltatónál sem.
+
+(5) A munkavállalási engedély érvényességének lejártát követően az állampolgár köteles az őt foglalkoztató Szerződő Fél országának területét az ország külföldiek tartózkodására vonatkozó idegenrendészeti szabályainak megfelelően elhagyni.
+
+*6. Cikk*
+
+A jelen Egyezmény 3. Cikke (1) bekezdése szerint foglalkoztatott állampolgárokra a fogadó országban érvényes külföldiek belépéséről és ott-tartózkodásáról szóló idegenrendészeti szabályok érvényesek.
+
+*7. Cikk*
+
+Az állampolgárok foglalkoztatásával összefüggő munkajogi védettségre azon Szerződő Fél államának belföldi jogszabályai vonatkoznak, amelynek területén az állampolgárt foglalkoztatják.
+
+*8. Cikk*
+
+Az állampolgárok nyugdíjbiztosítási, egészségbiztosítási ellátásaira a Szerződő Felek államai között a hatályos szociálpolitikai egyezmény rendelkezései az irányadók.
+
+*9. Cikk*
+
+A foglalkoztatással kapcsolatosan nyújtott térítések és jövedelmek adóztatására a kettős adóztatás elkerüléséről szóló szerződés vonatkozik.
+
+*10. Cikk*
+
+Jelen Egyezmény alapján foglalkoztatott állampolgárok áruimportjára, illetve -exportjára a Szerződő Felek országainak belföldi jogszabályai vonatkoznak.
+
+*11. Cikk*
+
+(1) A Szerződő Felek megbízott szervei jelen Egyezmény végrehajtási rendelkezéseit közösen dolgozzák ki, és kölcsönösen egyeztetik.
+
+(2) A Szerződő Felek megbízott és meghatalmazott szervei jelen Egyezmény végrehajtása során szorosan együttműködnek, és szükség esetén közös munkabizottságokat alakíthatnak ki.
+
+*12. Cikk*
+
+(1) Jelen Egyezményt mindkét Szerződő Fél belföldi jogszabályaival összhangban hagyja jóvá, és az Egyezmény ezen belföldi jóváhagyásáról szóló későbbi jegyzékváltás kézhezvételének napján lép hatályba.
+
+(2) Jelen Egyezményt hároméves időtartamra kötik, s érvényessége mindig egy évvel meghosszabbodik, amennyiben azt a Szerződő Felek valamelyike nem mondja fel írásban, legkésőbb az érvényességi időtartam lejárta előtt hat hónappal. Jelen Egyezmény felmondása esetén a munkavállalási engedélyek érvényességük lejártáig maradnak érvényben.
+
+(3) Jelen Egyezmény kiegészítésére vagy megváltoztatására a Szerződő Felek kölcsönös megegyezése alapján kerülhet sor. A változtatásokat és kiegészítéseket írásos formában kell megtenni.
+
+Készült Pozsonyban, 1999. február 12-én, két eredeti példányban, magyar és szlovák nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Szlovák Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. Az Egyezmény rendelkezéseit 1999. július 1. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a gazdasági miniszter[^3] gondoskodik.
+
+---
+
+[^1]: A 2000: LXXXIX. törvény 18. §-a értelmében Gazdasági Minisztériumot kell érteni.
+[^2]: Az 1999: CXXII. törvény 59. §-ának (3) bekezdése szerint , ahol jogszabály Országos Munkaügyi Módszertani Központot említ, azon Országos Munkaügyi Kutató- és Módszertani Központot kell érteni.
+[^3]: Az időközi változásoknak megfelelően módosított szöveg. Lásd a 2000: LXXXIX. törvény 18.§-át.

@@ -1,0 +1,193 @@
+---
+title: "88/2006. (IV. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezete  (NAPMO) Igazgató Tanácsa közötti, a NAPMO-hoz történő csatlakozásról szóló nemzetközi megállapodások kihirdetéséről"
+identifier: "88/2006. (IV. 18.) Korm. rendelet"
+njt_id: "2006-88-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/88"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-04-18
+in_force_from: 2006-04-26
+last_amended: 2006-04-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-88-20-22"
+retrieved: 2026-10-12
+---
+
+# 88/2006. (IV. 18.) Korm. rendelet a Magyar Köztársaság Kormánya és a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezete (NAPMO) Igazgató Tanácsa közötti, a NAPMO-hoz történő csatlakozásról szóló nemzetközi megállapodások kihirdetéséről
+
+*(A megállapodások 2005. december 22-én hatályba léptek.)*
+
+## 1. §
+
+A Kormány a Kiegészítő Megállapodás a NATO E-3A Együttműködési Programról létrejött Többoldalú Egyetértési Nyilatkozathoz (MOU) a Magyar Kormány csatlakozásáról című és A Magyar Kormánynak a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőire vonatkozó Műveleti és Támogatási Egyetértési Nyilatkozathoz (MOU) történő csatlakozását tartalmazó Kiegészítő Megállapodás című nemzetközi megállapodásokat e rendelettel kihirdeti.
+
+## 2. §
+
+A Kiegészítő Megállapodás a NATO E-3A Együttműködési Programról létrejött Többoldalú Egyetértési Nyilatkozathoz (MOU) a Magyar Kormány csatlakozásáról hiteles szövege és hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+Supplement\
+to the Multilateral Memorandum\
+of Understanding on the NATO E-3A Cooperative Programme Concerning the Accession\
+of the Government of Hungary
+
+The Governments of Belgium, Canada, Denmark, Germany, Greece, Italy, Luxembourg, The Netherlands, Norway, Portugal, Spain, Turkey, United Kingdom and the United States:
+
+Having undertaken a cooperative NATO E-3A programme pursuant to the Multilateral Memorandum of Understanding on the NATO E–3A Cooperative Programme, signed on 6 December 1978, as Addended on 10 December 1990, amended on 13 August 1997, supplemented on 11 December 1998 for the accession of Spain, amended on 8 April 2004 (hereafter referred to as the MMOU, as Addended); and
+
+Having received the request of the Government of Hungary to participate in the NATO E-3A Cooperative Programme in accordance with the provisions of the MMOU, as Addended; and
+
+Having consulted regarding the accession of the Government of Hungary;
+
+Concur that, by accepting the conditions detailed in the following Articles, Hungary accedes to the MMOU, as Addended; and the Government of Hungary agrees:
+
+*Article I*
+
+The Government of Hungary hereby accedes to the Multilateral Memorandum of Understanding, as Addended, and will comply with the provisions thereof, implementing agreements thereto, and documents and decisions approved by the NATO AEW&C Programme Management Organization (NAPMO) Board of Directors (BOD).
+
+*Article II*
+
+The Government of Hungary, as a member state of NAPMO, shall have one voting member on the NAPMO BOD and committees on the same basis as all other NAPMO participating nations. However, Hungary will have no rights, including voting rights, in relation to NATO AEW&C Programme matters decided prior to Hungary's accession for which Hungary did not make a financial contribution.
+
+*Article III*
+
+Taking into account the 13 NAPMO Nations' financial contributions ceiling of US $ 1200 Million (Base Year First Quarter 1996) for the Mid-Term Modernisation Programme, as set forth in the MMOU, as Addended, the Government of Hungary will pay, as an additional contribution to the NATO E-3A Mid-Term Modernisation Programme, a ceiling amount equal to 0.85% of the Mid-Term Modernization Programme contributions ceiling, as reduced by the administrative costs expended and paid from other Nations' contributions prior to the effective date of this Supplement. The Government of Hungary will pay its contribution to the Mid-Term Modernization Programme between the years 2006 and 2010.
+
+The Government of Hungary will also pay:
+
+a) An amount of US $ 330.000 equal to 0.85% of the Programme Generated Income in the Programme, and
+
+b) An amount equal to 0.85% of any other approved expenditure resulting from the NATO AEW&C Programme, not included above or expended from Programme Generated Income, as from the date of entry into force of this Supplement, and
+
+c) As of the year 2006, annual contributions to the NATO E-3A Operations and Support costs, as further defined in the Supplement concerning the accession of Hungary to the Memorandum of Understanding for Operations and Support of the NATO AEW&C Force, dated 26 September 1984 and revised on 27 March 2003.
+
+*Article IV*
+
+The Government of Hungary will assign personnel to NAPMA in accordance with policies and procedures as agreed by the NAPMO BOD.
+
+*Article V*
+
+This Supplement to the MMOU, as Addended, will become effective on the date of the last signature.
+
+Kiegészítő Megállapodás\
+a NATO E-3A Együttműködési Programról létrejött\
+Többoldalú Egyetértési Nyilatkozathoz (MOU)\
+a Magyar Kormány Csatlakozásáról
+
+Belgium, Kanada, Dánia, Németország, Görögország, Olaszország, Luxemburg, Hollandia, Norvégia, Portugália, Spanyolország, Törökország, az Egyesült Királyság, valamint az Amerikai Egyesült Államok Kormánya:
+
+– az 1978. december 6-án aláírt, 1990. december 10-én kiegészített, 1997. augusztus 13-án módosított, 1998. december 11-én Spanyolország csatlakozására vonatkozó kiegészítéssel ellátott, valamint 2004. április 8-án módosított NATO E-3A Együttműködési Program Többoldalú Egyetértési Nyilatkozata (a továbbiakban: „Módosított Többoldalú Egyetértési Nyilatkozat” [Multilateral Memorandum of Understanding (MMOU)]) rendelkezéseinek értelmében elindították a NATO E-3A Együttműködési Programot, valamint
+
+– megkapták a Magyar Kormánynak a Módosított Többoldalú Egyetértési Nyilatkozat (MMOU) rendelkezései értelmében a NATO E-3A együttműködési programban való részvétel iránti kérelmét, valamint
+
+– megbeszéléseket folytattak a Magyar Kormány csatlakozásáról, és
+
+– egyetértésre jutottak arról, hogy az alábbi cikkek rendelkezéseinek elfogadásával Magyarország a jelen Módosított Többoldalú Egyetértési Nyilatkozathoz (MMOU) csatlakozhat. Ezzel a Magyar Kormány egyetért.
+
+*I. Cikk*
+
+A Magyar Kormány ezúton csatlakozik a Módosított Többoldalú Egyetértési Nyilatkozathoz (MMOU), annak rendelkezéseit magára nézve kötelezőnek elismeri, az abban foglalt megállapodásokat, valamint a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző Program Kezelő Szervezete (NATO AEW & C Program Management Organization, NAPMO) Igazgatótanácsa (Board of Directors, BOD) által jóváhagyott dokumentumokban foglaltakat, valamint határozatokat végrehajtja.
+
+*II. Cikk*
+
+A NAPMO tagjaként a Magyar Kormányt a NAPMO Igazgatótanácsában és bizottságaiban a NAPMO-ban résztvevő összes egyéb nemzettel megegyező formában egy szavazati joggal rendelkező tag képviseli. Ugyanakkor a Magyarország csatlakozását megelőzően elfogadott és Magyarország pénzügyi hozzájárulása nélkül indított NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző Programokkal (NATO AEW & C) kapcsolatos kérdésekben Magyarországot nem illetik meg jogok, így szavazati jogok sem.
+
+*III. Cikk*
+
+A 13 NAPMO tagországnak a Középtávú Modernizálási Programhoz (Mid-Term Modernization Programme) a Módosított Többoldalú Egyetértési Nyilatkozatban (MMOU) rögzített pénzügyi hozzájárulására vonatkozó 1.200 millió US dollár (1996 bázis év első negyedév alapú) felső határérték figyelembevételével a Magyar Kormány a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO E-3A) Középtávú Modernizálási Programhoz teljesítendő, a jelen Kiegészítő Megállapodás hatálybalépését megelőzően felmerült és más nemzetek hozzájárulásának felhasználásával fedezett költségekkel és ráfordításokkal csökkentett pénzügyi hozzájárulás felső határértéke 0,85 százalékának megfelelő kiegészítő hozzájárulást fizet. A Magyar Kormány a Középtávú Modernizálási Programhoz való hozzájárulását 2006 és 2010 évek közötti időszakban teljesíti.
+
+A Magyar Kormány az alábbi költségeket, illetve ráfordításokat ugyancsak fedezi:
+
+*a)* a Programhoz Befolyó Összeg (Program Generated Income) 0,85 százalékának megfelelő 330 000 US dollár összeget, valamint
+
+*b)* a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Program keretében felmerülő és a Programhoz Befolyó Összegbe nem foglalt, a Programból nem fedezett bármilyen egyéb jóváhagyott költség, illetve ráfordítás 0,85 százalékának megfelelő összeget, a jelen Kiegészítő Megállapodás hatálybalépésétől fogva, valamint
+
+*c)* Magyarországnak az 1984. szeptember 26-i és 2003. március 27-én átdolgozott, a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőire vonatkozó Műveleti és Támogatási Tárgyú Egyetértési Nyilatkozathoz (MOU) történő csatlakozását tartalmazó Kiegészítő Megállapodás rendelkezéseinek értelmében definiált és a NATO E-3A műveleti és támogatási költségeihez teljesített éves hozzájárulást 2006 évtől.
+
+*IV. Cikk*
+
+A Magyar Kormány a NAPMO Igazgatótanácsa (NAPMO BOD) által meghatározott irányelvekkel és eljárásokkal összhangban nevez ki szakembereket a NAPMA-ba.
+
+*V. Cikk*
+
+A Módosított Többoldalú Egyetértési Nyilatkozathoz (MMOU) csatolt jelen Kiegészítő Megállapodás az utolsó aláírás napján lép hatályba.”
+
+## 3. §
+
+A Magyar Kormánynak a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőire vonatkozó Műveleti és Támogatási Egyetértési Nyilatkozathoz (MOU) történő csatlakozását tartalmazó Kiegészítő Megállapodás hiteles szövege és hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+Supplement to the\
+Memorandum of Understanding\
+for Operations and Support of the\
+NATO Airborne Early Warning and Control Force\
+Concerning the Accession\
+of the Government of Hungary
+
+The Governments of Belgium, Canada, Denmark, Germany, Greece, Italy, Luxembourg, The Netherlands, Norway, Portugal, Spain, Turkey, the United Kingdom and the United States:
+
+Having undertaken a cooperative programme to support the operations of the NATO AEW&C Force pursuant to the Memorandum of Understanding for Operations and Support of the NATO Airborne Early Warning and Control Force, dated 26 September 1984 and revised on 27 March 2003 (hereafter referred to as the O&S MOU); and
+
+Having received the request of the Government of Hungary to participate in the NATO AEW&C Force in accordance with the provisions of the O&S MOU; and
+
+Having consulted regarding the accession of the Government of Hungary;
+
+Concur that, by accepting the conditions detailed in the following Articles, Hungary accedes to the O&S MOU; and the Government of Hungary agrees:
+
+*Article I*
+
+The Government of Hungary hereby accedes to the O&S MOU and will comply with the provisions thereof and the implementing arrangements thereto.
+
+*Article II*
+
+Beginning in 2006, the Government of Hungary will participate in and contribute to the Operations and Support (O&S) of the NATO funded elements of the Force, and will be an integral part of the E-3A O&S cost shares as provided in Section VIII of the O&S MOU. The annual contribution of the Government of Hungary will increase incrementally until a steady state contribution of 0.85 percent is achieved in the year 2008 (2006 – 0.3% and 2007 – 0.6%). The annual contribution of the Government of Hungary to the NAEW&C Force Command Headquarters will be 0.6727 percent, beginning 2006. The contribution percentages of the participating nations in the O&S MOU, Section VIII, Paragraph 2. (a)(2) will be adjusted in accordance with that Section.
+
+*Article III*
+
+The Government of Hungary will assign personnel to the NAEW&C Force Command Headquarters and the NATO E-3A Component in accordance with NATO policies and procedures.
+
+*Article IV*
+
+This Supplement to the O&S MOU will become effective on the date of the last signature.
+
+A Magyar Kormánynak\
+a NATO Repülőgépfedélzeti Korai Előrejelző\
+és Ellenőrző (NATO AEW & C) Erőire vonatkozó\
+Műveleti és Támogatási Egyetértési Nyilatkozathoz\
+(MOU) történő csatlakozását tartalmazó\
+Kiegészítő Megállapodás
+
+Belgium, Kanada, Dánia, Németország, Görögország, Olaszország, Luxemburg, Hollandia, Norvégia, Portugália, Spanyolország, Törökország, az Egyesült Királyság, valamint az Amerikai Egyesült Államok Kormánya:
+
+– az 1984. szeptember 26-án aláírt és 2003. március 27-én átdolgozott, a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) erőire vonatkozó Műveleti és Támogatási Egyetértési Nyilatkozat [Memorandum of Understanding for Operations and Support (O&S MOU)] rendelkezéseinek értelmében elindították a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőit támogató együttműködési programot, valamint
+
+– megkapták a Magyar Kormánynak a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NATO AEW & C) Erőiben a Műveleti és Támogatási Egyetértési Nyilatkozat (O&S MOU) rendelkezései értelmében való részvétel iránti kérelmét, valamint
+
+– megbeszéléseket folytattak a Magyar Kormány csatlakozásáról, és
+
+– egyetértésre jutottak arról, hogy az alábbi cikkek rendelkezéseinek elfogadásával Magyarország csatlakozhat a Műveleti és Támogatási Egyetértési Nyilatkozathoz (O&S MOU). Ezzel a Magyar Kormány egyetért.
+
+*I. Cikk*
+
+A Magyar Kormány ezúton csatlakozik a Műveleti és Támogatási Egyetértési Nyilatkozathoz (O&S MOU), annak rendelkezéseit, annak végrehajtási megállapodásait magára nézve kötelezőnek elismeri.
+
+*II. Cikk*
+
+A 2006. évtől a Magyar Kormány részt vesz az Erők NATO által finanszírozott elemeinek műveleteiben és támogatásában, illetve hozzájárul azokhoz. A Magyar Kormány a Műveleti és Támogatási Egyetértési Nyilatkozat (O&S MOU) VIII. Cikke rendelkezéseinek értelmében részt vesz az E-3A műveleti és támogatási célú költség megosztási rendszerben. A Magyar Kormány éves hozzájárulása fokozatosan emelkedik addig, amíg a 0,85 százalékban meghatározott részarányt 2008. évben el nem éri (0,3 százalék 2006-ban, 0,6 százalék 2007-ben). A Magyar Kormány által a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NAEW & C) Erők Parancsnoksága részére teljesítendő éves hozzájárulás 2006 évtől kezdődően 0,6727 százalék. A résztvevő országok hozzájárulásainak a Műveleti és Támogatási Egyetértési Nyilatkozat (O&S MOU) VIII. Cikk, 2. (a)(2) bekezdés rendelkezéseinek értelmében meghatározott százalékos részaránya az adott Cikkely rendelkezéseivel összhangban módosul.
+
+*III. Cikk*
+
+A Magyar Kormány a NATO által alkalmazott irányelvekkel és eljárásokkal összhangban nevez ki szakembereket a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NAEW & C) Erők Parancsnokságába, valamint a NATO E-3A Komponensbe.
+
+*IV. Cikk*
+
+A Műveleti és Támogatási Egyetértési Nyilatkozathoz (O&S MOU) csatolt jelen Kiegészítő Megállapodás az utolsó aláírás napján lép hatályba.”
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a honvédelmi miniszter gondoskodik.

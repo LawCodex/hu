@@ -1,0 +1,254 @@
+---
+title: "130/2005. (VII. 1.) Korm. rendelet a felsőoktatási együttműködés támogatása érdekében a Közép-Európai Felsőoktatási Csereprogramról (CEEPUS II.) szóló Egyezmény kihirdetéséről"
+identifier: "130/2005. (VII. 1.) Korm. rendelet"
+njt_id: "2005-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-07-01
+in_force_from: 2005-07-09
+last_amended: 2005-07-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/2005. (VII. 1.) Korm. rendelet a felsőoktatási együttműködés támogatása érdekében a Közép-Európai Felsőoktatási Csereprogramról (CEEPUS II.) szóló Egyezmény kihirdetéséről[^1]
+
+## 1. §
+
+A Kormány az Osztrák Köztársaság, a Bolgár Köztársaság, a Horvát Köztársaság, a Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság, Románia, a Szlovák Köztársaság és a Szlovén Köztársaság között a felsőoktatási együttműködés támogatása érdekében a Közép-Európai Felsőoktatási Csereprogramról (CEEPUS II.) szóló, Zágrábban, 2003. március 9-én aláírt egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény az Osztrák Köztársaság,\
+a Bolgár Köztársaság, a Horvát Köztársaság,\
+a Cseh Köztársaság, a Magyar Köztársaság,\
+a Lengyel Köztársaság, Románia, a Szlovák Köztársaság és a Szlovén Köztársaság között a felsőoktatási együttműködés támogatása érdekében a Közép-Európai Felsőoktatási Csereprogramról (CEEPUS II.)
+
+Az Osztrák Köztársaság, a Bolgár Köztársaság, a Horvát Köztársaság, a Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság, Románia, a Szlovák Köztársaság és a Szlovén Köztársaság (a továbbiakban: Szerződő Felek) a következőkben állapodtak meg:
+
+*1. cikk*
+
+A Szerződő Felek a CEEPUS II. program végrehajtása keretében támogatják az együttműködést a felsőoktatás terén, különös tekintettel az egyetemközi együttműködésre és a mobilitásra. A CEEPUS II. program részprogramjait a jelen Egyezmény szerves részét képező I. számú Melléklet tartalmazza.
+
+*2. cikk*
+
+(1) A jelen Egyezmény alkalmazásában „Egyetemnek” az az intézmény minősül, amely felsőoktatási képzést folytat, és amelyet valamelyik Szerződő Fél illetékes hatósága az adott ország felsőoktatási rendszerébe tartozónak ismer el. Minden Szerződő Fél évente összeállítja azon Egyetemek felsorolását, amelyek a CEEPUS II. programban részt vehetnek.
+
+(2) A jelen Egyezmény alkalmazásában „Tanévnek” a szeptember 1-jétől a következő év augusztus 31-ig tartó időszak minősül.
+
+(3) Az Egyetemek beiratkozott hallgatói, tekintet nélkül arra, hogy milyen szakon folytatják tanulmányaikat, jogosultak arra, hogy tanulmányaik során (ideértve a doktori vagy posztgraduális tanulmányokat is) igénybe vegyék a CEEPUS II. program kínálta támogatást. A támogatás igénybevételének feltétele, hogy a hallgató egyetemi tanulmányainak részét képezze az a résztanulmány vagy az a részképzés, amelyet a jelen Egyezmény alapján valamely fogadó Egyetemen vagy intézményben teljesít, továbbá hogy a résztanulmány vagy részképzés összeegyeztethető legyen a hallgató otthoni egyetemi tanulmányainak tantervével. A CEEPUS II. program támogatja továbbá az egyetemi oktatók mobilitását a transznacionális egyetemközi együttműködés elősegítése, valamint az egyetemi tantervek közép-európai dimenziójának erősítése érdekében. A CEEPUS II. program nem támogat kutatási vagy technológiafejlesztési tevékenységet.
+
+*3. cikk*
+
+(1) A jelen cikk szerint létrejön a Miniszterek Közös Bizottsága, amelyben minden egyes Szerződő Felet egy tag képvisel. A Miniszterek Közös Bizottságának feladata egyrészről a CEEPUS II. program végrehajtása és elősegítése érdekében szükséges valamennyi intézkedés és döntés meghozatala, másrészről a CEEPUS II. programot értékelő jelentések jóváhagyása, illetve a program szerkezetének átalakítása.
+
+(2) A Miniszterek Közös Bizottsága évente legalább egyszer ülésezik. Azt a minisztert, aki nem tud részt venni a bizottság ülésén, magas rangú képviselője helyettesíti. A Miniszterek Közös Bizottsága létrehozhat egy magas rangú képviselőkből álló testületet. A testület a Miniszterek Közös Bizottsága soron következő ülésének előkészítése során olyan ügyben hozhat döntést, amellyel a Miniszterek Közös Bizottsága megbízta.
+
+(3) A Miniszterek Közös Bizottsága egyéves időtartamra megválasztja egyik tagját az elnöki tisztség betöltésére.
+
+(4) A Miniszterek Közös Bizottsága minden erőfeszítést megtesz annak érdekében, hogy a CEEPUS II. programnak az I. számú Melléklet szerint történő végrehajtása és elősegítése érdekében szükséges valamennyi intézkedést és döntést egyhangúlag hozzon meg. Abban az esetben, ha nem lehetséges egyhangú döntést elérni, a döntéshez a Miniszterek Közös Bizottsága jelenlévő és szavazásban részt vevő tagjainak kétharmados többsége szükséges.
+
+(5) Minden Szerződő Fél évente felajánlást tesz a program éves költségvetési támogatására és a Cserekvótára. Jelen Egyezmény alkalmazásában Cserekvótának azon ösztöndíjhónapok száma minősül, amely egy Tanév alatt vehető igénybe, és amely az I. számú Mellékletben meghatározott részprogramok végrehajtását szolgálja. A Miniszterek Közös Bizottsága a felajánlásokról szóló végső döntését egyhangúlag hozza meg.
+
+*4. cikk*
+
+(1) Az I. számú Melléklet 1–3. számú részprogramjának megvalósítására irányuló projektek kiválasztásáról szóló döntés a Miniszterek Közös Bizottságának vagy a 3. cikkben meghatározott magas rangú képviselők testületének a hatáskörébe tartozik. A projektek kiválasztásáról szóló döntés elősegítése érdekében azonban egyetemi oktatók vagy más szakértők véleményét is ki kell kérni.
+
+(2) A jelen Egyezmény hatálybalépését követően minden Szerződő Fél kijelöl egy Nemzeti CEEPUS Irodát, amelyről értesíti a Miniszterek Közös Bizottságát is. A Nemzeti CEEPUS Iroda feladatai a következők:
+
+– a program támogatása érdekében mind szélesebb nyilvánosság elérése, szorosan együttműködve a Központi CEEPUS Irodával és a többi Nemzeti CEEPUS Irodával;
+
+– a pályázatok fogadása;
+
+– az ösztöndíjak pályázók részére történő odaítélésének előkészítése;
+
+– a képzést nyújtó intézmény biztosítása a más országból érkező ösztöndíjasok számára;
+
+– az ösztöndíjak odaítélése (az I. számú Melléklet 4. számú részprogramja esetében);
+
+– az ösztöndíjak kifizetésének megszervezése;
+
+– a jelentések kézhezvétele;
+
+– a program nemzeti értékelésének elkészítése;
+
+– az éves jelentések elkészítése.
+
+(3) A Szerződő Felek intézkedéseket hoznak annak biztosítása érdekében, hogy a Nemzeti CEEPUS Irodák rendelkezzenek a feladataik ellátásához szükséges erőforrásokkal.
+
+*5. cikk*
+
+(1) A jelen cikk szerint Bécsben létrejön a Központi CEEPUS Iroda. A Központi CEEPUS Iroda olyan jogkörrel rendelkezik, amely szükséges feladatai ellátásához. A Központi CEEPUS Iroda és annak munkatársai, valamint a Szerződő Feleknek a Központi CEEPUS Irodához delegált képviselői olyan kiváltságokat és mentességeket élveznek, amelyek feladataik ellátásához szükségesek.
+
+(2) A Központi CEEPUS Iroda főtitkárát az Osztrák Köztársaság javaslata alapján a Miniszterek Közös Bizottsága kétharmados többségi szavazattal választja meg öt éves időtartamra. A főtitkár – mandátumának lejárta előtt – a Miniszterek Közös Bizottságának egyhangú döntése alapján menthető fel.
+
+(3) A Központi CEEPUS Iroda szükséges infrastruktúrájának a költségeit, beleértve a főtitkár és a munkatársak illetményét is, az Osztrák Köztársaság fizeti. A Szerződő Feleknek joguk van saját költségükre további munkatársakat küldeni az irodába. A főtitkár határozza meg a Központi CEEPUS Iroda működési szabályait, amelyekről tájékoztatja a Miniszterek Közös Bizottságát.
+
+(4) A Központi CEEPUS Iroda kizárólag koordinátori és értékelési feladatokat lát el, míg a Szerződő Felek fenntartják az I. számú Mellékletben meghatározott mobilitásra és hallgatói/oktatói cserére fordítandó nemzeti költségvetésük feletti önálló jogkörüket.
+
+(5) A Központi CEEPUS Iroda feladata továbbá:
+
+– a program közös külső kommunikációs stratégiájának fejlesztése, valamint a Szerződő Felek részére történő tanácsadás tájékoztatási ügyekben;
+
+– információnyújtás a Szerződő Felek Egyetemeiről, elősegítve ezzel az intézmények közötti akadémiai mobilitást;
+
+– a CEEPUS II. éves működési jelentésének elkészítése, valamint CEEPUS II. program általános értékelése;
+
+– javaslat a programok továbbfejlesztésére;
+
+– a Miniszterek Közös Bizottsága üléseinek előkészítése, megszervezése és a jegyzőkönyv vezetése;
+
+– külön felhatalmazás alapján a Miniszterek Közös Bizottsága által meghozott döntések végrehajtásának elősegítése.
+
+*6. cikk*
+
+(1) A Szerződő Felek megtesznek minden erőfeszítést annak érdekében, hogy tartózkodjanak valamennyi olyan korlátozástól, amely megakadályozhatja azon személyek szabad mozgását és az adott országban való tartózkodását, akik a jelen Egyezményben meghatározott mobilitási részprogramokban vesznek részt.
+
+(2) A Szerződő Felek megállapodnak abban, hogy nemzeti jogrendszerük keretein belül megteszik az általuk megfelelőnek tartott intézkedéseket annak érdekében, hogy elhárítsák azokat az adminisztratív és pénzügyi akadályokat, amelyek a CEEPUS II. programban résztvevő ösztöndíjasok számára szükséges vízumok és tartózkodási engedélyek megszerzésének útjában állnak.
+
+*7. cikk*
+
+(1) A Jelen Egyezmény hatályának időtartama öt év. A Szerződő Felek megállapodása esetén az Egyezmény további öt évre meghosszabbítható. A jelen Egyezmény hatálybalépését követő harmadik Tanév befejezése előtt az Egyezményről beszámolót kell készíteni. Ez a beszámoló a CEEPUS II. program átfogó értékelésén alapszik.
+
+(2) Bármelyik Szerződő Fél kérheti a jelen Egyezmény módosítását. Ennek érdekében a javaslatot írásban kell benyújtani a Miniszterek Közös Bizottsága elnökének és a többi Szerződő Félnek. A jelen Egyezmény módosítását érintő valamennyi döntést a Miniszterek Közös Bizottsága egyhangúan hozza meg.
+
+*8. cikk*
+
+(1) Jelen Egyezmény aláírására Zágrábban, Horvátországban kerül sor 2003. március 9-én az Osztrák Köztársaság, a Bolgár Köztársaság, a Horvát Köztársaság, a Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság, Románia, a Szlovák Köztársaság és a Szlovén Köztársaság által. Ezt követően kerülhet sor további csatlakozásra.
+
+(2) A jelen Egyezmény és annak módosítása a Szerződő Felek utólagos jóváhagyására szorul. Az utólagos jóváhagyást tanúsító nyilatkozatot Magyarország Oktatási Minisztériumához kell eljuttatni (a jelen Egyezmény alkalmazásában: Letéteményes).
+
+(3) A jelen Egyezmény hatálybalépésének időpontja az azt a napot követő harmadik hónap első napja, amelyen legalább három Szerződő Fél eljuttatja a Letéteményeshez az utólagos jóváhagyást tanúsító nyilatkozatot.
+
+(4) A Miniszterek Közös Bizottsága egyhangú meghívására bármely, az (1) bekezdésben nem említett állam csatlakozhat az Egyezményhez. Az az állam, amely Szerződő Fél kíván lenni, a Letéteményest erről a szándékáról írásban értesítheti.
+
+(5) A Letéteményes tájékoztatja a Szerződő Feleket a beérkezett értesítésekről és az utólagos jóváhagyást tanúsító nyilatkozatok kézhezvételéről.
+
+(6) Azon állam esetében, amely a jelen Egyezmény hatálybalépését követően vált Szerződő Féllé, az I. számú Mellékletben meghatározott részprogramokba történő teljes körű bekapcsolódás azon rendelkezések szerint történik, amelyeket a Miniszterek Közös Bizottsága egyhangúan meghatározott.
+
+*9. cikk*
+
+A jelen Egyezményt bármely Szerződő Fél a Letéteményeshez intézett írásbeli nyilatkozatával felmondhatja. A felmondás a felmondásról szóló nyilatkozatnak a Letéteményes által történt kézhezvételétől számított legalább hat hónap elteltével lép hatályba. A Miniszterek Közös Bizottsága azonban hat hónapnál hosszabb, de tizenkét hónapnál rövidebb időtartamot is megállapíthat a felmondás hatálybalépésére.
+
+*10. cikk*
+
+(1) Két vagy több Szerződő Fél közötti, illetve bármely Szerződő Fél és a Központi CEEPUS Iroda közötti olyan vita esetén, amely a jelen Egyezmény vagy Mellékletének értelmezéséről vagy alkalmazásáról szól, és amelyet a Miniszterek Közös Bizottsága nem tud rendezni, a vitában részt vevő bármelyik Fél kérésére választottbírósági eljárásnak van helye.
+
+(2) A választottbíróságnak legalább három tagja van. Minden Fél kijelöl egy-egy választottbírót, az első két választottbíró választja meg a harmadik választottbírót, aki a választottbíróság elnöke lesz.
+
+(3) A választottbíróság eljárásának helyét és eljárási szabályait maga határozza meg.
+
+(4) A választottbíróság határozatát tagjainak többségi szavazata alapján hozza meg, a választottbíróság tagjai a határozathozatalkor nem tartózkodhatnak. A választottbíróság határozata végleges és kötelező. A határozat ellen fellebbezésnek nincs helye, a vitában részes feleknek a határozatban foglaltaknak késedelem nélkül eleget kell tenniük. Amennyiben vita merül fel a határozat értelmezése vagy terjedelme tekintetében, a választottbíróság a vitában részes bármely fél kérésére határozatát értelmezi.
+
+*11. cikk*
+
+A jelen Egyezmény eredeti példányát, amelynek angol nyelvű szövege a hiteles, a Letéteményesnél kell elhelyezni.
+
+Annak bizonyítékául, hogy alulírottak rendelkeznek a megfelelő felhatalmazással, aláírták jelen Egyezményt.
+
+Kelt Zágrábban, Horvátországban, 2003. március 9-én.
+
+Osztrák Köztársaság
+
+Bolgár Köztársaság
+
+Horvát Köztársaság
+
+Cseh Köztársaság
+
+Magyar Köztársaság
+
+Lengyel Köztársaság
+
+Románia
+
+Szlovák Köztársaság
+
+Szlovén Köztársaság
+
+*I. számú Melléklet*
+
+A Szerződő Felek létrehoznak és támogatnak egy különböző, egymástól független hálózatokból felépülő Közép-európai Egyetemi Hálózatot. E hálózat célja az akadémiai mobilitás, különösen a hallgatói mobilitás ösztönzése Közép-Európában, valamint a közép-európai egyetemi együttműködés és az olyan közös programok kialakításának elősegítése, amelyek optimális esetben kettős vagy közös fokozatokhoz vezetnek.
+
+A CEEPUS II. valamennyi részprogramja, a „freemover” ösztöndíjak kivételével, az 1. számú részprogramban meghatározott CEEPUS II. hálózatokon belül valósul meg.
+
+A CEEPUS II. program elsőbbséget ad azon hálózatoknak, amelyek együttműködésüket közös programokká alakítják át, vagy új közös programokat dolgoznak ki. A Miniszterek Közös Bizottsága Bolognai Folyamat eredményeinek figyelembevételével fogalmazza meg a CEEPUS II. program prioritásait.
+
+*1. számú részprogram*
+
+*A Közép-európai Egyetemi Hálózat létrejötte és működése*
+
+1\. Egy hálózat legalább három Egyetemből áll, melyből kettő különböző Szerződő Félhez tartozik. A közös programokat kidolgozó hálózatok azonban, a Miniszterek Közös Bizottsága által meghatározott kezdeti szakaszban, állhatnak különböző Szerződő Felekhez tartozó két Egyetemből is. Elsőbbséget élveznek mindazonáltal azok a hálózatok, amelyek különböző Szerződő Felekhez tartozó több mint két Egyetemből épülnek fel.
+
+2\. Valamely CEEPUS II. hálózatban részt venni kívánó Egyetemnek a következő követelményeknek kell eleget tennie:
+
+*a)* Az egyik részt vevő Egyetemen vagy fogadó intézményben teljesített résztanulmányok vagy részképzés idejét a partner Egyetem teljes mértékben elismeri.
+
+*b)* Előre rendelkezni kell a hálózaton belüli kölcsönös elismerésről. Az Európai Kreditátviteli Rendszert (ECTS) vagy egyéb kompatibilis rendszert kell alkalmazni. A szakdolgozaton vagy disszertáción dolgozó hallgatók esetében a fent említett rendszerek helyett mind a fogadó, mind a hazai egyetemi mentor kiállít egy nyilatkozatot arról, hogy a külföldi tanulmány időszaka megfelelt a szakdolgozat vagy disszertáció készítés céljának.
+
+*c)* Az akadémiai mobilitás megkönnyítése érdekében a CEEPUS II. kurzusok és/vagy előadások nyelve az angol, német vagy francia nyelv. A Szerződő Felek megállapodnak arról, hogy elősegítik a szakmai nyelvi kurzusokat azáltal, hogy előkészítő szakmai nyelvi kurzusokra vonatkozó, a nyelvileg megfelelő nemzeti hálózat kínálta, hónapokra lebontott ösztöndíjakat írnak ki angol, német és francia nyelvből. A fentiek mellett, ha az lehetséges, a fogadó ország anyanyelvének nyelvi tanfolyamai is támogathatóak.
+
+*d)* A CEEPUS II. keretén belül tanulmányokat folytató hallgató mentesül minden beiratkozási díj vagy tandíj megfizetése alól.
+
+*2. számú részprogram*
+
+*Intenzív képzések*
+
+A Szerződő Felek megállapodnak, hogy intenzív képzéseket is támogatnak azon szempontok figyelembevételével, hogy
+
+1\. ezen képzések célja résztvevők toborzása minél több Szerződő Félbeli országból, beleértve a fogadó országot is. Résztvevőknek minősülnek a hallgatók és/vagy az előadók, a vendégtanárok, valamint az egyetemi oktatók;
+
+2\. ezek a képzések
+
+*a)* legalább 10 munkanapig tartó, meghatározott témát feldolgozó nyári egyetemek, azzal a feltétellel, hogy részvétel esetén a hallgatók kreditpontokat kapnak, vagy
+
+*b)* legalább 10 munkanapig tartó intenzív képzések fiatal egyetemi oktatók részére;
+
+3\. kongresszusok és hasonló rendezvények támogatása ezen részprogram keretében nem lehetséges.
+
+*3. számú részprogram*
+
+*Hallgatói kirándulások*
+
+A Szerződő Felek megállapodnak arról, hogy támogatják a hallgatói kirándulásokat, azzal a feltétellel, hogy részvétel esetén a hallgatók kreditpontokat kapnak, továbbá ezek a kirándulások
+
+1\. tudományos vagy művészeti céllal bírnak, és hasznosítják a fogadó ország infrastruktúrájának meghatározott részét; vagy
+
+2\. tudományos vagy művészeti céllal bírnak, és azokat közösen szervezik.
+
+*4. számú részprogram*
+
+*A hallgatói és oktatói mobilitást elősegítő ösztöndíjak rendszere*
+
+1\. A Szerződő Felek megállapodnak, hogy egyéni ösztöndíjakat ítélnek oda olyan hallgatók részére, akik részt vesznek a CEEPUS II. program 1–3. számú részprogramjaiban.
+
+2\. Szintén ösztöndíjakat nyerhetnek az előadók, vendégtanárok és egyetemi oktatók, amennyiben hozzájárulnak a transznacionális egyetemi együttműködéshez vagy az előremutató oktatási módszerekhez. Az előadók, vendégtanárok és az egyetemi oktatók legalább heti hat órát tartanak a fogadó egyetemen.
+
+3\. Ösztöndíjakat nyerhetnek azok a hallgatók vagy PhD, illetve posztgraduális képzésben részt vevő hallgatók, akik a fogadó államban gazdasági vállalkozásnál, kutatóintézetnél vagy kormányzati intézménynél kívánnak gyakorlatot folytatni, amennyiben a gyakorlat célját és hasznát világosan bemutató pályázatot készítenek.
+
+4\. A fogadó intézmény szemeszterek szerinti, rendszeres képzésébe bekapcsolódó hallgatói ösztöndíjak időtartama legalább három, legfeljebb tíz hónap lehet. Ennél rövidebb időtartamú ösztöndíjat csak szakdolgozaton vagy disszertáción dolgozó hallgatók nyerhetnek el.
+
+5\. A CEEPUS II. program ösztöndíját nyerheti el az a hallgató is, aki ezen Egyezmény szerinti Egyetemre úgy iratkozik be, hogy a fogadó intézménynél történő tanulása nem valamely Közép-európai Egyetemi Hálózatról szóló megállapodáson, hanem külön megállapodáson alapszik („freemover” ösztöndíj).
+
+6\. A CEEPUS II. program ösztöndíjai „átfogó” ösztöndíjak, vagyis azt célozzák, hogy a fogadó országban fedezzék a megélhetési költségeket, a fogadó országban az általános használatnak megfelelő laboratóriumi díjakat, ha ilyen külön díjak felmerülnek, továbbá a szállás és az egészségbiztosítás költségeit, ha ilyen költségek felmerülnek, a fogadó országban történő tartózkodás időtartama alatt. Biztosítani kell, hogy a CEEPUS II. program ösztöndíjait a fogadó ország megélhetési költségeire és az inflációra figyelemmel állapítsák meg.
+
+7\. Mivel a Szerződő Felek között nem történik pénzforgalom, a CEEPUS II. program ösztöndíjait a fogadó ország fizeti, az utazási költség kivételével, amelyet a küldő ország fizet, amennyiben az ilyen költség megtéríthető.
+
+8\. A CEEPUS II. program elszámolási egysége az „egy ösztöndíjas hónap”. Minden Szerződő Félnek évenként közölnie kell a következő Tanévre vonatkozó Cserekvótáját. A minimális követelmény száz ösztöndíjas hónap.
+
+9\. A CEEPUS II program általános igazgatási vagy szervezési célokhoz kapcsolódó költségeket és kiadásokat nem támogat.”
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba, azonban a CEEPUS II. program keretében csak az első Közép-Európai Felsőoktatási Csereprogram (CEEPUS I.) lejártát követően, 2005. január 1-jétől kerülhet sor kifizetésekre.
+
+---
+
+[^1]: A rendelet a 116/2009. (VI. 4.) Korm. rendelet 4. § (5) bekezdése alapján a szerződés 8. cikkében meghatározott időpontban hatályát veszti.

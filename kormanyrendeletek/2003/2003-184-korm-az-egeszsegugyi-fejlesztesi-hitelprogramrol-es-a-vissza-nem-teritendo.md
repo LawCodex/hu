@@ -1,0 +1,91 @@
+---
+title: "184/2003. (XI. 5.) Korm. rendelet az Egészségügyi Fejlesztési Hitelprogramról és a vissza nem térítendő bankgarancia díjtámogatás feltételeiről"
+identifier: "184/2003. (XI. 5.) Korm. rendelet"
+njt_id: "2003-184-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/184"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-11-05
+in_force_from: 2003-11-20
+last_amended: 2003-11-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-184-20-22"
+retrieved: 2026-10-12
+---
+
+# 184/2003. (XI. 5.) Korm. rendelet az Egészségügyi Fejlesztési Hitelprogramról és a vissza nem térítendő bankgarancia díjtámogatás feltételeiről
+
+Az egészségügyi szolgáltatókról és az egészségügyi közszolgáltatások szervezéséről szóló 2003. évi XLIII. törvény (a továbbiakban: Eüszt.) 35. § (1) bekezdés *e)* pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1) Az egészségügyi ellátási szerződések pályáztatásával és a pályázatok elbírálásával, valamint a vagyoni biztosítékkal kapcsolatos részletes szabályokról szóló 97/2003. (VII. 15.) Korm. rendelet (a továbbiakban: R.) 9. §-ának (5) bekezdése szerinti jogi személy részére egészségügyi ellátási szerződéskötés esetén az Eüszt. 22. §-ában meghatározott vagyoni biztosíték adásához hitelintézettel kötött garanciaszerződés alapján a bankgarancia díjához – legfeljebb 50 százalékos mértékig – vissza nem térítendő támogatás nyújtható maximum 6 évre, de legfeljebb a bankgarancia időtartamára.
+
+(2) Az (1) bekezdés szerinti jogi személy részére egy időben csak egy bankgarancia díj támogatás nyújtható.
+
+## 2. §
+
+(1) Egészségügyi szakellátást egészségügyi ellátási kötelezettség alapján nyújtó társas vállalkozásban, közhasznú társaságban (a továbbiakban: társaság) az Eüszt. 31. § (5) bekezdésében meghatározott állami, önkormányzati társasági részesedés (üzletrész) kizárólag tőkeemelés útján történő megszerzéséhez az Egészségügyi Fejlesztési Hitelprogram keretében – a (2)–(8) bekezdésben foglalt feltételekkel – 15 éves lejáratú kedvezményes kamatozású hitel vehető igénybe.
+
+(2) Kedvezményes hitelre jogosultak az(ok) a társaság(ok), amely(ek)
+
+a) az Áht. 91/A. § (2) bekezdése, illetőleg az Eüszt. 31. § (3) bekezdése alapján megszűnt állami vagy önkormányzati költségvetési szerv megszűnését követően,
+
+b) kizárólag az Eüszt. 31. § (6) bekezdésében meghatározott egészségügyi dolgozókból,
+
+c) egészségügyi szolgáltatás nyújtására
+
+alakultak vagy alakulnak (a továbbiakban: tulajdonosi társaság).
+
+Az Eüszt. 31. § (6) bekezdése szerinti egészségügyi dolgozónak kell tekinteni a megszűnt költségvetési szervvel a megszűnéskor közalkalmazotti jogviszonyban állt valamennyi személyt.
+
+(3) A tulajdonosi társaság az (1) bekezdésben meghatározott társaságban részesedés (üzletrész) kizárólag tőkeemelés útján történő megszerzéséhez kedvezményes hitelt csak egyszer vehet igénybe.
+
+(4) A kedvezményes hitel legmagasabb összege az (1) bekezdés szerinti társaság alapításkori jegyzett tőke értékének járóbeteg-szakellátás területén legfeljebb 90 százaléka, fekvőbeteg-szakellátás területén legfeljebb 75 százaléka.
+
+(5) Ha az (1) bekezdés szerinti társaságban az Eüszt. 31. § (5) bekezdésében meghatározott állami, önkormányzati társaságban részesedés (üzletrész) kizárólag tőkeemelés útján történő megszerzésére több tulajdonosi társaság igényel kedvezményes hitelt, a kedvezményes hitelek együttes összege akkor sem haladhatja meg a (4) bekezdés szerint számított összeget.
+
+(6) A tulajdonosi társaság járóbeteg-szakellátás területén korlátolt felelősségű vagy részvénytársasági formában, fekvőbeteg-szakellátás területén kizárólag részvénytársasági formában jogosult a kedvezményes hitel felvételére, ha a társasági szerződésben vagy alapszabályában rögzített módon lehetőséget ad a megszűnt költségvetési szervvel a megszűnéskor közalkalmazotti jogviszonyban állt valamennyi személynek a tulajdonosi társaságba történő belépésre vagy az alapításra.
+
+(7) A kedvezményes hitelhez a tulajdonosi társaságnak minimálisan 10 százalékos saját erővel kell rendelkeznie.
+
+(8) A kedvezményes hitelhez a Hitelgarancia Rt. által nyújtott legfeljebb 80 százalékos készfizető kezességvállalás kapcsolódhat.
+
+## 3. §
+
+(1) A kedvezményes hitel igényléséhez a tulajdonosi társaságnak mellékelnie kell:
+
+a) cégbejegyzését, illetőleg előtársaság esetén a társasági szerződést (alapító okiratot, alapszabályt) és a cégbejegyzés iránti kérelem másolatát;
+
+b) az Áht. 91/A. § (2) bekezdése, illetőleg az Eüszt. 31. § (3) bekezdése szerint megszüntetett állami, önkormányzati költségvetési szervként működött egészségügyi szolgáltató megszűnésének időpontját;
+
+c) a *b)* pontban foglaltak szerint megszűnt állami, önkormányzati költségvetési szerv megszüntetésével egyidejűleg az egészségügyi közszolgáltatásért felelős állami szerv, helyi önkormányzat által létrehozott egészségügyi szolgáltatást nyújtó gazdasági társaság, közhasznú társaság cégjegyzékszámát;
+
+d) a közalkalmazotti jogviszony megszűnéséről kiállított munkáltatói igazolást arról, hogy a tulajdonosi társaság tagjai (részvényesei) a *b)* pontban foglaltak szerint megszűnt állami, önkormányzati költségvetési szervvel annak megszűnésekor közalkalmazotti jogviszonyban álltak;
+
+e) a *c)* pont szerinti egészségügyi szolgáltató működési engedélyében foglalt szakmák felsorolását;
+
+f) ha a *c)* pont szerinti egészségügyi szolgáltató törzsvagyonában (alaptőkéjében) nem pénzbeli hozzájárulásként ingatlanvagyon is van, az ingatlanra vonatkozó 30 napnál nem régebbi tulajdoni lapot;
+
+g) a *c)* pont szerinti egészségügyi szolgáltatónak az egészségbiztosítás szerveivel fennálló finanszírozási szerződésében szereplő egészségügyi szolgáltatások felsorolását, továbbá a finanszírozási szerződés időtartamát;
+
+h) a hitelintézet által igényelt – a hitel összegéhez igazodó, annak visszafizetését garantáló – hitelbiztosítékot;
+
+i) a hitelintézet által igényelt egyéb, a hitelügylet üzleti, és jogi megalapozottságát alátámasztó dokumentumot;
+
+j) a tulajdonosi társaság üzleti tervét az egészségügyi szolgáltató működtetéséről és fejlesztéséről, a befektetett források megtérüléséről.
+
+(2) A részesedést (üzletrészt) értékesítő állami szerv, helyi önkormányzat az Eüszt. 31. § (6) bekezdésében előírt, a tőkeemelésről szóló elhatározásáról szóló felhívásban, illetőleg az állami, önkormányzati részesedés (üzletrész) értékesítésére az Áht. 108. § (1) bekezdésében és az R. 15. §-ában meghatározott versenytárgyalásra történő felhívásban köteles közzétenni az (1) bekezdés *b)–c),* *e)* és *g)* pontjában meghatározott adatokat, továbbá az *f)* pont szerinti ingatlan azonosító adatait.
+
+## 4. §
+
+Állami tulajdonban lévő társasági részesedés (üzletrész) értékesítése során az Áht. 108. § (1) bekezdése és az R. 15. §-a szerinti versenytárgyaláson az értékesítő állami szerv – az Eüszt. 31. § (6) bekezdésében meghatározott azonos feltételek megállapításánál, ugyanolyan vételi ár esetén – a készpénzben megtett vételi ajánlattal azonosnak köteles elfogadni az Egészségügyi Fejlesztési Hitelprogram keretében kiadott hitelígérvénnyel rendelkező pályázó ajánlatát is.
+
+## 5. §
+
+A bankgarancia-díjtámogatás részletes feltételeit az Egészségügyi, Szociális és Családügyi Minisztériumnak – a Gazdasági és Közlekedési Minisztériummal és a Pénzügyminisztériummal egyetértésben közzétett – pályázati felhívása tartalmazza.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.

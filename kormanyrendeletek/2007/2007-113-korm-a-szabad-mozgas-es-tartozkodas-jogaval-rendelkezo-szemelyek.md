@@ -1,0 +1,1487 @@
+---
+title: "113/2007. (V. 24.) Korm. rendelet a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról"
+identifier: "113/2007. (V. 24.) Korm. rendelet"
+njt_id: "2007-113-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/113"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-05-24
+in_force_from: 2010-01-01
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-113-20-22"
+retrieved: 2026-10-12
+---
+
+# 113/2007. (V. 24.) Korm. rendelet a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról
+
+A Kormány a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény (a továbbiakban: Tv.) 86. § (1) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *EGT-állampolgár:* a Tv. 1. § (1) bekezdés a) pontjában meghatározott személy;
+
+b) *EGT-állam:* az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
+
+c) *schengeni állam:* a Tv. 2. § e) pontjában meghatározott állam;
+
+d)[^1] *háztartás:* az EGT-állampolgárral egy lakásban együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező személyek közössége.
+
+## Eljáró idegenrendészeti hatóságok[^2]
+
+### 2. §[^3]
+
+A Tv.-ben szabályozott idegenrendészeti eljárások során a következő hatóságok járnak el:
+
+a)[^4]
+
+b) a külpolitikáért felelős miniszter;
+
+c)[^5] az Országos Idegenrendészeti Főigazgatóság (a továbbiakban: Főigazgatóság);
+
+d)[^6] a Főigazgatóság igazgatósága (a továbbiakban: regionális igazgatóság);
+
+e) a vízumkiadásra feljogosított magyar konzuli tisztviselő (a továbbiakban: konzuli tisztviselő);
+
+f)[^7] az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség).
+
+### 2/A. §[^8]
+
+Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti bevándorlási hatóság alatt az e rendelet 2. §-ában foglalt idegenrendészeti hatóságokat kell érteni.
+
+## A beutazás, valamint a kilencven napot meg nem haladó, tervezett tartózkodás joga[^9]
+
+### 3. §[^10]
+
+A Tv. 3. § (1)–(4) bekezdése szerinti feltételek fennállását a Magyarország területére történő beléptetést megelőzően a Rendőrség ellenőrzi.
+
+## A harmadik ország állampolgárságával rendelkező családtag számára kiadott vízum
+
+### 4. §[^11]
+
+A 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) szerinti száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodásra jogosító vízum kiadására irányuló eljárás
+
+a) a külpolitikáért felelős miniszter,
+
+b) a konzuli tisztviselő,
+
+c)[^12] a Főigazgatóság,
+
+d)[^13] az országos illetékességgel rendelkező Nyugat-dunántúli Regionális Igazgatóság,
+
+e)[^14] a regionális igazgatóság
+
+(a továbbiakban együtt: vízumkiadó hatóság) hatáskörébe tartozik.
+
+### 4/A. §[^15]
+
+Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet szerinti vízumhatóság alatt az e rendelet 4. §-ában foglalt vízumkiadó hatóságokat kell érteni. A határátkelőhelyen előterjesztett kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmek befogadása és továbbítása, valamint a döntés kihirdetése vonatkozásában vízumhatóság alatt a Rendőrséget is érteni kell.
+
+### 6. §
+
+A külpolitikáért felelős miniszter bírálja el – külön jogszabály szerint – a diplomáciai vagy nemzetközi jogon alapuló más kiváltságot és mentességet élvező személyek családtagjainak vízumkérelmeit.
+
+### 7. §[^17]
+
+(1)[^18] A Vízumkódex VI. fejezetében szabályozott kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmet Magyarország közúti, légi, valamint vízi határátkelőhelyén (a továbbiakban együtt: határátkelőhely) a Rendőrségnél lehet előterjeszteni.
+
+(2)[^19] A határátkelőhelyen előterjesztett kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmet a Rendőrség köteles haladéktalanul – elektronikus úton – döntésre felterjeszteni az országos illetékességgel rendelkező Nyugat-dunántúli Regionális Igazgatósághoz (a továbbiakban Igazgatóság).
+
+(3)[^20] Az Igazgatóság a kérelemről a kézhezvételt követően azonnal, de legkésőbb három órán belül határoz, és döntését – a Rendőrség útján – közli a kérelmezővel.
+
+(4)[^21] A kérelemnek helyt adó döntés esetén a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot a Rendőrség állítja ki a kérelmező részére.
+
+(5)[^22] A határátkelőhelyen előterjesztett kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítása tárgyában hozott döntés elleni fellebbezést a döntés közlését követő három napon belül a határátkelőhelyen, az Igazgatóságnál, vagy a Főigazgatóságnál lehet előterjeszteni.
+
+(6)[^23] A határátkelőhelyen előterjesztett fellebbezést a Rendőrség haladéktalanul felterjeszti az Igazgatósághoz. Az Igazgatóság a fellebbezést soron kívül felterjeszti a Főigazgatóságnak.
+
+(7)[^24] A Főigazgatóság a döntését öt napon belül hozza meg.
+
+### 9. §[^26]
+
+(1) A vízumkiadó hatóság a tartózkodás teljes időtartamára, valamint a vissza- vagy továbbutazáshoz szükséges anyagi fedezet meglétét vélelmezi.
+
+(1a)[^27] A családtag családtagi jogállását a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadására irányuló eljárás során a családi kapcsolat fennállását igazoló okirattal, így különösen
+
+a) születési anyakönyvi kivonattal,
+
+b) házassági anyakönyvi kivonattal,
+
+c) bejegyzett élettársi kapcsolatot igazoló anyakönyvi kivonattal,
+
+d) örökbefogadásról szóló okirattal, vagy
+
+e) egyéb hitelt érdemlő módon
+
+igazolhatja.
+
+(1b)[^28] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
+
+(2)[^29] A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadására irányuló eljárás során a családi kapcsolat valódiságát az eljáró vízumkiadó hatóság a rendelkezésre álló iratok, helyszíni szemle, az ügyfél és a családtag, valamint a tanú meghallgatása, és szakértői vélemények alapján ellenőrzi.
+
+(3) Ha a vízumkiadó hatóság a (2) bekezdésében meghatározott bizonyítékok alapján megállapítja, hogy a kérelmező a családi kapcsolatot a beutazás engedélyezése érdekében létesítette, részére csak akkor adható vízum, ha a kérelmező a vízumkiadásnak a Vízumkódexben a harmadik országbeli állampolgárokra meghatározott más célból történő beutazási feltételeit teljesíti.
+
+### 11. §[^31]
+
+A konzuli tisztviselő a vízum iránti kérelemről tizenöt napon belül dönt.
+
+### 12. §[^32]
+
+(1)[^33] A száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelmet elutasító döntés elleni fellebbezést írásban, nyolc napon belül lehet az illetékes konzuli tisztviselőnél előterjeszteni. A konzuli tisztviselő előtt személyesen megjelenő írástudatlan kérelmező fellebbezését a konzuli tisztviselő jegyzőkönyvbe foglalja, és a kérelmező annak valamennyi oldalát kézjegyével látja el.
+
+(2) A fellebbezést a külpolitikáért felelős miniszter tizenöt napon belül bírálja el.
+
+(3)[^34]
+
+### 14. §
+
+(1)[^36] A külpolitikáért felelős miniszter, valamint a konzuli tisztviselő a vízum iránti kérelemről a Alkotmányvédelmi Hivatal és a Rendőrség véleményét kérheti.
+
+(2)[^37] Az Alkotmányvédelmi Hivatal és a Rendőrség köteles a megkeresésnek tíz napon belül eleget tenni.
+
+### 16. §[^39]
+
+(1)[^40] A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a Magyarország területére történő beutazást megelőzően a vízumot kiállító konzuli tisztviselő dönt.
+
+(2)[^41] A 2016/399/EU európai parlamenti és tanácsi rendelet V. melléklet A. részében foglaltak alapján a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a Rendőrség dönt.
+
+(3)[^42] A Magyarország területén tartózkodó harmadik ország állampolgárságával rendelkező családtag kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumának megsemmisítéséről vagy visszavonásáról a harmadik ország állampolgárságával rendelkező családtag lakóhelye, ennek hiányában szokásos tartózkodási helye szerint illetékes regionális igazgatóság dönt.
+
+### 16/A. §[^43]
+
+(1)[^44] Ha a száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a konzuli tisztviselő döntött, a döntés elleni fellebbezést három napon belül lehet az illetékes konzuli tisztviselőnél előterjeszteni.
+
+(2)[^45] A fellebbezést a külpolitikáért felelős miniszter nyolc napon belül bírálja el.
+
+(3) Amennyiben a vízum megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezésnek a külpolitikáért felelős miniszter helyt ad, a harmadik országbeli állampolgár részére a konzuli tisztviselő új vízumot állít ki.
+
+### 16/B. §[^46]
+
+(1)[^47] A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum 16. § (2) bekezdése szerinti megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezést a döntés közlését követő három napon belül a Rendőrségnél lehet előterjeszteni.
+
+(2)[^48] A fellebbezést a Rendőrség másodfokon eljáró szerve nyolc napon belül bírálja el.
+
+(3)[^49] Amennyiben a vízum 16. § (2) bekezdése szerinti megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezésnek a Rendőrség másodfokon eljáró szerve helyt ad, a harmadik országbeli állampolgár részére új vízumot állít ki.
+
+### 16/C. §[^50]
+
+(1)[^51] Amennyiben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítéséről vagy visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést három napon belül lehet a regionális igazgatóságnál előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Főigazgatósághoz.
+
+(2)[^52] A fellebbezést a Főigazgatóság nyolc napon belül bírálja el.
+
+(3)[^53] Amennyiben a vízum megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezésnek a Főigazgatóság helyt ad, a harmadik országbeli állampolgár részére a regionális igazgatóság új vízumot állít ki.
+
+### 17. §[^54]
+
+(1)[^55] A központi vízumhatóságnak a 767/2008/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: VIS rendelet), a Vízumkódexben, valamint a Tv.-ben meghatározott feladatait a Főigazgatóság látja el.
+
+(2)[^56]
+
+(3)[^57] A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulásáról vagy a hozzájárulás megtagadásáról
+
+a) ha a Tv. 3. § (7) bekezdése szerinti egyeztetésre nincs szükség, vagy attól a központi vízumhatóság eltekint, vagy a Vízumkódex 8. cikke szerinti képviseleti megállapodás szerint az egyeztetést a képviselő tagállam végzi, a vízumkérelem felterjesztésétől számított hét napon belül,
+
+b) a Tv. 3. § (7) bekezdése szerinti egyeztetés esetén, valamennyi válasz beérkezését vagy a válaszok beérkezésére nyitva álló határidő lejártát követően haladéktalanul
+
+tájékoztatja a konzuli tisztviselőt.
+
+(4)–(5)[^58]
+
+### 18. §[^59]
+
+(1)[^60] A központi vízumhatóság a Tv. 3. § (7) bekezdése szerinti egyeztetés során történő válaszadás előtt köteles a vízumkérelemről az Alkotmányvédelmi Hivatal és a Rendőrség véleményét kérni.
+
+(2)[^61] Az Alkotmányvédelmi Hivatal és a Rendőrség köteles a központi vízumhatóság megkeresésében foglaltaknak hat napon belül eleget tenni.
+
+## A harmadik ország állampolgárságával rendelkező családtag számára kiadott kishatárforgalmi engedély[^62]
+
+### 18/A. §[^63]
+
+(1) A tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendeletben meghatározott, külön nemzetközi szerződés szerinti kishatárforgalmi engedély (a továbbiakban: kishatárforgalmi engedély) kiadására irányuló közigazgatási hatósági eljárás a nemzetközi szerződésben meghatározott konzuli szolgálat konzuli tisztviselőjének a hatáskörébe tartozik.
+
+(2)[^64] A hatóság a kishatárforgalmi engedélyt a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet szerinti kártyaformátumban állítja ki.
+
+### 18/B. §[^65]
+
+(1) A kishatárforgalmi engedély iránti kérelmet a külön jogszabályban meghatározott formanyomtatványon kell előterjeszteni.
+
+(2)[^66] A kishatárforgalmi engedély iránti kérelem előterjesztésekor a kérelmezőnek be kell mutatnia érvényes úti okmányát. Az úti okmány érvényességi ideje nem lehet kevesebb a kérelem benyújtását követő harmincadik naptól számított egy évnél.
+
+(3) A kishatárforgalmi engedély iránti kérelemhez mellékelni kell:
+
+a) egy darab arcfényképet;
+
+b) a külön nemzetközi szerződésben meghatározott, a határ menti területen fekvő állandó lakóhely igazolására szolgáló okiratot.
+
+### 18/C. §[^67]
+
+(1) A kishatárforgalmi engedély kiadását meg kell tagadni, illetve a kiadott kishatárforgalmi engedélyt vissza kell vonni, ha a kérelmező vagy a kiadott kishatárforgalmi engedély jogosultja
+
+a) a kishatárforgalmi engedély kiadási feltételeit nem teljesíti;
+
+b)[^68] a kishatárforgalmi engedély megszerzése érdekében az eljáró idegenrendészeti hatósággal hamis adatot, valótlan tényt közölt;
+
+c)[^69] a beutazás és tartózkodás célja tekintetében az eljáró idegenrendészeti hatóság megtévesztésére törekedett.
+
+(1a)[^70] A kishatárforgalmi engedély visszavonásáról a Magyarország területére történő beutazást megelőzően a kishatárforgalmi engedélyt kiállító hatóság, a Magyarország területére történő beléptetés vagy onnan kiléptetés során a Rendőrség, a Magyarország területén tartózkodó harmadik országbeli állampolgár esetében a visszavonásra okot adó körülmény bekövetkezésének helye szerint illetékes regionális igazgatóság dönt.
+
+(2) A kishatárforgalmi engedély érvénytelen, ha
+
+a)[^71] a kishatárforgalmi engedélyt véglegessé váltan visszavonták;
+
+b) a benne foglalt adatok igazolására alkalmatlanná vált;
+
+c) hamis adatot tartalmaz, vagy meghamisították;
+
+d) jogosultja meghalt;
+
+e)[^72] jogosultja magyar állampolgárságot szerzett.
+
+(3)[^73] A kishatárforgalmi engedély kiállítása, valamint a kiállító konzuli tisztviselő által a kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezést az illetékes konzuli tisztviselőnél lehet előterjeszteni.
+
+(4)[^74] A fellebbezést a konzuli tisztviselő haladéktalanul felterjeszti a külpolitikáért felelős miniszternek.
+
+(5)[^75] A fellebbezést a külpolitikáért felelős miniszter bírálja el.
+
+(6)[^76] Ha a kishatárforgalmi engedély visszavonásáról a Rendőrség döntött, a döntés elleni fellebbezést a Rendőrségnél lehet előterjeszteni.
+
+(7)[^77] A fellebbezést a Rendőrség másodfokon eljáró szerve bírálja el.
+
+(8)[^78] Ha a kishatárforgalmi engedély visszavonásáról a regionális igazgatóság döntött, a döntés elleni fellebbezést az illetékes regionális igazgatóságnál lehet előterjeszteni. A fellebbezést a regionális igazgatóság haladéktalanul felterjeszti a Főigazgatósághoz.
+
+(9)[^79] A fellebbezést a Főigazgatóság bírálja el.
+
+## A száznyolcvan napon belül kilencven napot meghaladó tartózkodás feltételeinek igazolása[^80]
+
+### 19. §
+
+(1) Az EGT-állampolgár a Tv.-ben meghatározott feltételeket a tartózkodás jogcímének megfelelően okirattal vagy más irattal igazolhatja.
+
+(2)[^81] A Tv. alkalmazásában az eljáró idegenrendészeti hatóság a kérelmező által benyújtott, külföldön kiállított közokiratot diplomáciai felülhitelesítés és hiteles magyar fordítás hiányában is elfogadhatja.
+
+### 20. §
+
+(1) Ha a tartózkodás célja keresőtevékenység folytatása, azt a kérelmező különösen a következő módon igazolhatja:
+
+a) munkavégzésre irányuló jogviszony keletkezését igazoló okirattal;
+
+b)[^82] ha a kérelmező gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, ügyvezetőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végzi tevékenységét, érvényes szerződéssel vagy a cégjegyzékbe bejegyzett cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozattal;
+
+c)[^83] egyéni vállalkozói nyilvántartási számmal;
+
+d) munkát kereső személy esetén olyan dokumentumokkal, amelyek alátámasztják, hogy munkát keres, és a keresőtevékenység megkezdése valószínű, vagy
+
+e) egyéb hitelt érdemlő módon.
+
+(1a)[^84] Az (1) bekezdés b) pontja szerinti esetben a cégkivonatot a Tv. alkalmazásában eljáró idegenrendészeti hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+(2)[^85] Azon EGT-állampolgárok esetében, akiket Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló, 1968. október 25-i 1612/68/EGK tanácsi rendelet 1–6. cikke előír, a munkavállalási engedély csatolása is szükséges.
+
+### 21. §
+
+(1)[^86] Elegendő forrással rendelkezik a kérelmező, ha a háztartásában az egy főre jutó havi jövedelem eléri a szociális vetítési alap összegét. Nem rendelkezik elegendő forrással az a személy, aki a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.)
+
+a) 32/B. §-ának (1) bekezdése alapján időskorúak járadékában,
+
+b)[^87] 33. §-a alapján aktív korúak ellátásában,
+
+c)[^88]
+
+három hónapnál hosszabb ideig részesül.
+
+(2)[^89] Ha a kérelmező háztartásában az egy főre jutó havi jövedelem nem éri el a szociális vetítési alap összegét, az eljáró idegenrendészeti hatóság a kérelmező jövedelmi, vagyoni helyzetének vizsgálata után megállapítja, hogy a kérelmező elegendő forrással rendelkezik-e önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
+
+(3)[^90] Ha a tartózkodás célja tanulmányok folytatása, az eljáró idegenrendészeti hatóság az elegendő forrás meglétét a (2) bekezdésben foglalt vizsgálat lefolytatása nélkül megállapítja, ha a kérelmező nyilatkozik arról, hogy elegendő forrással rendelkezik önmaga és családtagjai számára ahhoz, hogy tartózkodásuk ne jelentsen indokolatlan terhet Magyarország szociális ellátórendszerére.
+
+(4) A (2) bekezdésben foglalt vizsgálat során különösen az alábbi szempontokat kell figyelembe venni:
+
+a) az egy háztartásban jövedelemmel vagy vagyonnal rendelkezők száma;
+
+b) az egy háztartásban eltartottak száma;
+
+c) a kérelmező a saját és családtagjai lakhatását szolgáló ingatlan tulajdonosa, haszonélvezője vagy használója-e.
+
+(5) A kérelmező az elegendő forrás meglétét különösen a megélhetését biztosító vagyonával vagy olyan jövedelmével igazolhatja, amely
+
+a) EGT-állam társadalombiztosítása vagy egyéb szociális ellátórendszere alapján jár;
+
+b) tagdíjfizetésen vagy rendszeres befizetésen alapuló részesedésből vagy ellátásból származik;
+
+c) EGT-államban vezetett névre szóló betét vagy betétszerződés vagy más banki, illetve befektetési eszköz, EGT-állam hitelintézete által vállalt bankgarancia vagy EGT-állam székhelyén működő jogi személy által vállalt készfizető kezesség alapján garantált;
+
+d) tartásdíj esetén az erről szóló közokiraton alapul.
+
+(6) Nem lehet az (5) bekezdésben meghatározott vagyonnak tekinteni különösen
+
+a) a szokásos életszükségleti és berendezési tárgyakat;
+
+b) az EGT-állampolgár olyan ingatlanát, amely saját és az általa eltartottak lakhatását szolgálja;
+
+c) a mozgáskorlátozott személy gépjárművét, és
+
+d) azokat a vagyontárgyakat, amelyek az EGT-állampolgár jövedelmének megszerzéséhez szükségesek.
+
+(7) A havi jövedelem kiszámításakor
+
+a) rendszeres jövedelem esetén a tartózkodás bejelentését megelőző három hónap,
+
+b) nem rendszeres jövedelem esetén a tartózkodás bejelentését megelőző tizenkét hónap alatt kapott összeg egy havi átlagát kell együttesen figyelembe venni.
+
+(8)[^91] E rendelet alkalmazásában jövedelemnek, illetve vagyonnak minősül az Szt. 4. § (1) bekezdés a), illetve b) pontjában meghatározott jövedelem, illetve vagyon.
+
+### 22. §
+
+A Tv. hatálya alá tartozó személy jogosult az egészségbiztosítási szolgáltatások igénybevételére, ha a magyarországi tartózkodás teljes időtartamára
+
+a) részére a magyar biztosítottakkal azonos feltételek mellett nyújtott szolgáltatások finanszírozása közvetlenül alkalmazandó európai közösségi jogi aktus, nemzetközi szerződés vagy megállapodás alapján rendezett; ennek hiányában
+
+b) külön törvényben meghatározottak szerint jogosult az egészségbiztosítási szolgáltatások igénybevételére.
+
+### 23. §
+
+Ha a tartózkodás célja tanulmányok folytatása, azt a kérelmező különösen
+
+a)[^92] a nemzeti köznevelésről vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó oktatási intézmény felvételi igazolásával,
+
+b) tanulói vagy hallgatói jogviszonyt igazoló okirattal, vagy
+
+c) egyéb hitelt érdemlő módon
+
+igazolhatja.
+
+### 24. §
+
+(1)[^93] A családtag családtagi jogállását a családi kapcsolat fennállását igazoló okirattal, így különösen
+
+a) születési anyakönyvi kivonattal,
+
+b) házassági anyakönyvi kivonattal,
+
+c) bejegyzett élettársi kapcsolatot igazoló anyakönyvi kivonattal,
+
+d) örökbefogadásról szóló okirattal, vagy
+
+e) egyéb hitelt érdemlő módon
+
+igazolhatja.
+
+(2)[^94] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
+
+### 25. §
+
+(1)[^95] A (2) bekezdésben foglalt kivétellel az EGT-állampolgár külön jogszabályban meghatározott formanyomtatványon (a továbbiakban: eltartási nyilatkozat) nyilatkozik arról, hogy a családtag eltartására kötelezettséget vállal.
+
+(2)[^96] Eltartási nyilatkozat tételére nincs szükség, ha az EGT-állampolgár keresőtevékenységet folytat.
+
+(3) Az eltartási nyilatkozatot az EGT-állampolgár családtag tartózkodásának bejelentésekor, illetve a harmadik ország állampolgárságával rendelkező családtag tartózkodási kártya kiállítására irányuló kérelmével egyidejűleg csatolni kell.
+
+### 26. §
+
+(1) Az EGT-állampolgár családtagjának – kivéve, ha az EGT-állampolgár regisztrációs igazolással vagy állandó tartózkodási kártyával rendelkezik – igazolnia kell, hogy az az EGT-állampolgár, akit kísér, vagy akihez csatlakozik, teljesíti a Tv. 6. § (1) bekezdés a), b) vagy c) pontjában meghatározott feltételeket.
+
+(2)[^97]
+
+### 27. §
+
+(1) Aki a Tv. 8. § (1) bekezdése alapján kéri a tartózkodás engedélyezését,
+
+a)[^98] okirattal köteles igazolni, hogy tartási vagy életjáradéki szerződés, külön törvényben meghatározott tartási kötelezettség, a 25. § (1) bekezdése szerinti eltartási nyilatkozat alapján, illetve más jogszabályi rendelkezés vagy szerződés alapján az EGT-állampolgár a tartására köteles;
+
+b)[^99] a kezelőorvos által kiállított igazolással köteles igazolni, hogy súlyos egészségügyi okból az EGT-állampolgár személyes ápolására szorul;
+
+c)[^100] arra hivatkozva, hogy – abban az országban ahonnan érkeznek – az EGT-állampolgárral egy háztartásban élt, köteles ezt okirattal – különösen az erről kiállított hatósági bizonyítvánnyal – vagy egyéb hitelt érdemlő módon igazolni.
+
+(2)[^101]
+
+(3)[^102] Az eljáró idegenrendészeti hatóság az (1) bekezdésben foglaltakon túl a Tv. 8. § (1) bekezdése alapján előterjesztett tartózkodási kártya kiadására irányuló kérelem elbírálása során értékeli az Élettársi Nyilatkozatok Nyilvántartásába történő bejegyzésről szóló határozatot is.
+
+### 28. §
+
+(1) A keresőtevékenység megszűnésére vonatkozó – különösen a munkáltató bejelentéséből származó – adat felmerülése esetén az EGT-állampolgár a lakóhelye szerint illetékes regionális igazgatóság felhívására köteles a tartózkodás feltételeinek fennállását igazolni.
+
+(2) Ha az EGT-állampolgár a Tv. 6. § (1) bekezdés a) pontja szerinti tartózkodási jogát a Tv. 9. §-a alapján tartja meg, a tartózkodás feltételeinek fennállását az alábbiakkal igazolhatja:
+
+a) a keresőképtelenséget az orvosszakértői szerv szakvéleményével, illetve az orvosszakértői szerv szakvéleményére alapozott egyéb olyan okirattal, amelyből a munkaképesség-változás mértéke megállapítható;
+
+b)[^103] az álláskeresővé vált EGT-állampolgár az álláskeresési támogatás folyósítását a regionális igazgatóság felhívására az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal erre vonatkozó igazolásával;
+
+c) a szakképzésben részt vevő EGT-állampolgár a beiratkozást és a képzés várható időtartamát az erről kiállított igazolással.
+
+(3) A (2) bekezdés b) pontjában meghatározott igazolásnak tartalmaznia kell az álláskeresési támogatás folyósítása lejártának várható időpontját.
+
+### 29. §
+
+(1) A harmadik ország állampolgárságával rendelkező házastárs a Tv. 11. § (2) bekezdése alapján családtagként fennmaradó tartózkodási jogát az alábbiakkal igazolhatja:
+
+a) a házasság legalább kétéves fennállását házassági anyakönyvi kivonattal;
+
+b) a szülői felügyeleti jogot az azt megalapozó bírósági döntéssel vagy okiratba foglalt megállapodással;
+
+c) a rendkívüli méltánylást érdemlő körülményt annak hitelt érdemlő bizonyításával;
+
+d) a kiskorú gyermek láthatásának jogát az azt megalapozó bírósági döntéssel vagy okiratba foglalt megállapodással.
+
+(2)[^104] A regionális igazgatóság a Tv. 75. § (1) bekezdés a) vagy b) pontja alapján vezetett résznyilvántartásból ellenőrzi, hogy a volt házastárs legalább egy évig Magyarország területén tartózkodott az EGT-állampolgár családtagjaként.
+
+(3) Ha a harmadik ország állampolgárságával rendelkező házastárs a Tv. 11. § (2) bekezdése alapján családtagként fennmaradó tartózkodási jogát a volt házastársa által a sérelmére elkövetett szándékos bűncselekményre alapítja, erre nézve a regionális igazgatóság a Tv. 82. § (1) bekezdés b) pontja alapján adatot igényel a bűntettesek nyilvántartásából.
+
+(4)[^105] Ha a harmadik ország állampolgárságával rendelkező házastárs a Tv. 11. § (2) bekezdése alapján családtagként fennmaradó tartózkodási jogát a házasságkötés előtt fennálló, a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti huzamos tartózkodási jogosultságára alapítja, azt a regionális igazgatóság a Btátv. 259. §-a szerinti nyilvántartásban ellenőrzi.
+
+### 30. §
+
+(1) Ha az EGT-állampolgár gyermekének a Tv. 12. §-a alapján marad fenn a tartózkodási joga, a gyermek vagy törvényes képviselője köteles minden tanulmányi félévben az oktatási intézmény által kiállított igazolással a tanulmányok folytatását, valamint a tanulmányok befejezésének várható időpontját igazolni.
+
+(2) Az igazolást a gyermek vagy törvényes képviselője köteles legkésőbb az adott tanulmányi félév első napját követő harmincadik napon a gyermek regisztrációs igazolását vagy tartózkodási kártyáját kiállító regionális igazgatóságnál bemutatni.
+
+### 31. §
+
+(1)[^106] A Tv. 13. § (1) bekezdése, valamint 15. § (1) bekezdése alkalmazásában az eljáró idegenrendészeti hatóság az EGT állampolgár vagy családtag lakóhelye szerinti regionális igazgatóság.
+
+(2)[^107] A Tv. 19. § (2) bekezdése alkalmazásában eljáró idegenrendészeti hatóság az EGT állampolgár vagy családtag lakóhelye szerint illetékes regionális igazgatóság.
+
+### 33. §
+
+(1) A Tv. 16. § (1) bekezdés d) pontjában foglalt feltétel igazolására a születési anyakönyvi kivonat szolgál.
+
+(2)[^109]
+
+(3)[^110]
+
+### 33/A. §[^111]
+
+Az eljáró idegenrendészeti hatóság a Magyarország területén való megszakítás nélküli tartózkodásnak a Tv. 17. §-a szerinti első napját megelőző azon tartózkodási időtartamot is figyelembe veszi az állandó tartózkodásra való jogosultság megállapításánál, amely során az EGT-állampolgár vagy családtag a Btátv. szerinti tartózkodásra jogosító engedéllyel rendelkezett, feltéve, hogy ezen időtartam alatt is megfelelt a Tv. által a száznyolcvan napon belül kilencven napot meghaladó tartózkodás jogára vonatkozóan megállapított feltételeknek.
+
+### 34. §
+
+(1) A Tv. 18. § (1) bekezdése alkalmazásában az állandó tartózkodás joga az alábbi módon igazolható:
+
+a)[^112] az öregségi vagy korengedményes nyugdíj folyósítását megállapító határozattal, valamint az azt igazoló okirattal vagy más irattal, hogy a nyugellátás iránti igény bejelentését megelőző tizenkét hónapban Magyarország területén folytatott keresőtevékenységet;
+
+b) a balesettel vagy egészségkárosodással összefüggő és gyógykezelést igénylő állapot az orvosszakértői szerv szakvéleményével, illetve az orvosszakértői szerv szakvéleményére alapozott egyéb olyan okirattal, melyből a munkaképesség-változás mértéke megállapítható;
+
+c) a munkahelyi baleset vagy foglalkozási megbetegedés eredményeként bekövetkezett keresőképtelenség a baleseti rokkantsági nyugdíj folyósítását megállapító határozattal;
+
+d) a valamely EGT-állam területén folytatott keresőtevékenység az azt igazoló okirattal vagy más irattal.
+
+(1a)[^113] A Tv. 18. § (2a) bekezdése alkalmazásában az Európai Gazdasági Térségről szóló megállapodásban részes tagállamban folytatott keresőtevékenységet a hatáskörrel és illetékességgel rendelkező külföldi hatóság által kiállított okirattal vagy más irattal kell igazolni.
+
+(2) A Tv. 18. § (3) bekezdése alkalmazásában az állandó tartózkodás joga
+
+a) az öregségi vagy korengedményes nyugdíj folyósítását megállapító határozattal, vagy
+
+b) a balesettel vagy egészségkárosodással összefüggő és gyógykezelést igénylő állapotról az orvosszakértői szerv által kiállított szakvéleménnyel, illetve az orvosszakértői szerv szakvéleményére alapozott – a munkaképesség-változás mértékét megállapító – egyéb okirattal
+
+igazolható.
+
+(3) A Tv. 18. § (5) bekezdése alkalmazásában az állandó tartózkodás joga az EGT-állampolgár halálának körülményeit megállapító munkabaleseti jegyzőkönyvvel igazolható.
+
+### 35. §
+
+(1)[^114] Indokolatlan terhet jelent Magyarország szociális ellátórendszerére az az EGT-állampolgár vagy családtag, aki az Szt.
+
+a) 32/B. §-ának (1) bekezdése alapján időskorúak járadékában,
+
+b)[^115] 33. §-a alapján aktív korúak ellátásában,
+
+c)[^116]
+
+három hónapnál hosszabb ideig részesül.
+
+(2)[^117]
+
+(3)[^118] Az indokolatlan teher megállapításánál az eljáró idegenrendészeti hatóság figyelembe veszi az EGT-állampolgár vagy a családtag egyéb személyes körülményeit is, így különösen az ellátás igénylését megelőzően a Magyarország területén való tartózkodás időtartamát, az ellátás folyósításának időtartamát, valamint az anyagi nehézség átmeneti vagy tartós jellegét.
+
+### 35/A. §[^119]
+
+Ha a regionális igazgatóság a harmadik ország állampolgárságával rendelkező családtag részére tartózkodási kártya kiadására vagy hosszabbítására vagy huzamos tartózkodási kártya kiadására irányuló eljárás során a tartózkodási kártya kiadását vagy hosszabbítását vagy a huzamos tartózkodási kártya kiadását mérlegeli, és a harmadik ország állampolgárságával rendelkező családtag más schengeni állam által elrendelt kiutasítást vagy beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll, a regionális igazgatóság a SIRENE Irodán keresztül haladéktalanul egyeztetést kezdeményez a jelzést kibocsátó tagállammal a szükséges intézkedések megtétele érdekében.
+
+## Az EGT-állampolgár száznyolcvan napon belül kilencven napot meghaladó tartózkodásának bejelentése és a bejelentést igazoló okmány[^120]
+
+### 36. §
+
+(1)[^121] Az EGT-állampolgár a száznyolcvan napon belül kilencven napot meghaladó tartózkodását a jövőbeni lakóhelye szerint illetékes regionális igazgatóságnál jelenti be.
+
+(2) A bejelentéskor az érvényes úti okmányt vagy személyazonosító igazolványt be kell mutatni. Csatolni kell a tartózkodási feltételek fennállását igazoló – e rendeletben meghatározott – okiratokat vagy más iratokat.
+
+(3) A regisztrációs igazolás – érvényes úti okmánnyal vagy személyi igazolvánnyal – határozatlan ideig érvényes.
+
+## A harmadik ország állampolgárságával rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tartózkodási jogát igazoló okmány[^122]
+
+### 37. §
+
+(1) A harmadik ország állampolgárságával rendelkező családtag a tartózkodási kártya kiállítása iránti kérelmét a jövőbeni lakóhelye szerint illetékes regionális igazgatóságnál nyújtja be.
+
+(2)[^123] A kérelem benyújtásakor az érvényes úti okmányt és – ha a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot külön lapon adták ki – a külön lapot be kell mutatni, valamint csatolni kell az e rendeletben meghatározott, a családi kapcsolat és a tartózkodási jog egyéb feltételeinek fennállását igazoló okiratokat vagy más iratokat.
+
+(3) Ha a tartózkodási kártyát nem ötéves érvényességgel állították ki, a harmadik ország állampolgárságával rendelkező családtag kérelmezheti a tartózkodási kártya meghosszabbítását.
+
+(4) A meghosszabbítás iránti kérelmet legkésőbb a tartózkodási kártya érvényességi idejének lejártát megelőző harmincadik napon kell benyújtani a harmadik ország állampolgárságával rendelkező családtag lakóhelye szerint illetékes regionális igazgatóságnál.
+
+(5) A meghosszabbításra irányuló eljárásban a (2) bekezdésben foglaltakat kell alkalmazni azzal, hogy a külön lap bemutatása nem szükséges.
+
+## Az EGT-állampolgár és a családtag állandó tartózkodási jogát igazoló okmány
+
+### 38. §
+
+(1)[^124] Az EGT-állampolgár az állandó tartózkodási kártya, továbbá az EGT-állampolgár családtagja a huzamos tartózkodási kártya kiállítása iránti kérelmét a lakóhelye szerint illetékes regionális igazgatóságnál nyújthatja be.
+
+(2) A kérelem benyújtásakor az érvényes úti okmányt vagy személyazonosító igazolványt be kell mutatni, illetve csatolni kell a megszakítás nélküli és jogszerű tartózkodást igazoló, e rendeletben meghatározott okiratokat vagy más iratokat.
+
+(3)[^125] A regionális igazgatóság az állandó tartózkodási kártya, valamint a huzamos tartózkodási kártya kiállítására irányuló eljárása során ellenőrzi a tartózkodás jogszerűségét, tartamát és folyamatosságát.
+
+(4)[^126] A harmadik ország állampolgárságával rendelkező családtag részére kiadott huzamos tartózkodási kártyát a lakóhely szerint illetékes regionális igazgatóság tízévente a feltételek vizsgálata nélkül megújítja.
+
+(5)[^127] Az EGT-állampolgár részére kiadott állandó tartózkodási kártya – érvényes úti okmánnyal vagy személyi igazolvánnyal – határozatlan ideig érvényes.
+
+## A tartózkodási jogot igazoló okmányokra vonatkozó közös rendelkezések
+
+### 39. §
+
+(1)[^128] A tartózkodási jogot igazoló okmány érvénytelen, ha az EGT-állampolgár vagy a családtag Magyarország területén tartózkodási jogának gyakorlásával felhagyott, továbbá, ha a tartózkodási jog, illetve az állandó tartózkodási jog megszűnt.
+
+(2) A tartózkodási jogot igazoló okmány akkor is érvénytelen, ha
+
+a) – a lakcím kivételével – az okmányban foglalt adatok megváltoztak;
+
+b) az okmány érvényességi ideje lejárt;
+
+c) az okmány megrongálódott, és a benne foglalt adatok igazolására alkalmatlanná vált;
+
+d) hamis adatokat tartalmaz vagy meghamisították;
+
+e) tulajdonosa meghalt;
+
+f) az érintett magyar állampolgárságot szerzett;
+
+g)[^129] a harmadik ország állampolgárságával rendelkező családtag EU tartózkodási kártyát szerzett;
+
+h)[^130] az okmány elveszett, vagy az okmányt eltulajdonították;
+
+i)[^131] az EGT-állampolgár vagy családtag Magyarország területét véglegesen elhagyta vagy a tartózkodásra jogosító okmányát a regionális igazgatóságon leadta.
+
+(3) Érvénytelen a regisztrációs igazolás és a tartózkodási kártya, ha jogosultja részére állandó tartózkodási jogot igazoló okmány kerül kiállításra.
+
+(4)[^132] Az EGT állampolgár vagy családtag lakóhelye szerinti regionális igazgatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e), f) és i) pontjában meghatározott esetek kivételével – a Tv. 13. § (3) bekezdésében, a 15. § (5) bekezdésében és a 19. § (3) bekezdésében foglaltak alapján vonja vissza. A (2) bekezdés a), c)–d) és g)–h) pontjában, valamint a (3) bekezdésben meghatározott esetekben a lakóhely szerint illetékes regionális igazgatóság az érvénytelen tartózkodási jogot igazoló okmányt visszavonja, amelyről az érvénytelenséget megállapító határozatban rendelkezik.
+
+(5) Az okmányt visszavonó regionális igazgatóság gondoskodik az okmány érvénytelenítéséről, valamint a visszavonás tényének, okának és időpontjának a Tv. 75. § (1) bekezdésében meghatározott megfelelő résznyilvántartásba történő bejegyzéséről, továbbá a (2) bekezdés a)–c) pontjában meghatározott esetekben az új okmány kiadásáról.
+
+### 40. §
+
+A külpolitikáért felelős miniszter bírálja el – külön jogszabály szerint – a diplomáciai vagy nemzetközi jogon alapuló más kiváltságot és mentességet élvező személyek családtagjainak tartózkodási jogot igazoló okmány iránt kérelmeit.
+
+## Bejelentési kötelezettségek
+
+### 41. §[^133]
+
+A Tv. 27. § (2) és (3) bekezdésében meghatározott értesítést a regionális igazgatóság közvetlenül, elektronikus úton teljesíti.
+
+### 42. §[^134]
+
+(1) A regionális igazgatóság és a Rendőrség az úti okmányának, személyazonosító igazolványának, illetve tartózkodási jogát igazoló okmányának eltulajdonítását, vagy elvesztését bejelentő EGT-állampolgárnak vagy családtagnak – az állampolgárság valószínűsítése esetén – díjmentesen igazolást állít ki a bejelentés tényéről.
+
+(2) Ha az elveszettnek hitt okmányt a tulajdonosa megtalálja, és részére új úti okmányt vagy tartózkodási jogot igazoló okmányt még nem adtak ki, a tartózkodási jogot ideiglenesen igazoló igazolást köteles a kiállító hatóságnak leadni.
+
+(3) Ha az elveszettnek hitt okmányt a tulajdonosa megtalálja, de idő közben részére új okmányt adtak ki, a megtalált okmányt köteles a kiállító hatóságnak leadni.
+
+(4)[^135] Az a hatóság, amely talált úti okmányt vagy személyazonosító igazolványt, tartózkodásra jogosító okmányt átvett, köteles azt a Főigazgatóságnak megküldeni.
+
+(5)[^136] A Főigazgatóság gondoskodik a talált úti okmánynak a kiállítás helye szerint joghatósággal rendelkező állam Magyarországra akkreditált külképviseletére történő eljuttatásáról.
+
+(6)[^137] A Főigazgatóság az (1) bekezdésben meghatározott úti okmányokról, személyazonosító igazolványokról, valamint tartózkodási jogot igazoló okmányokról, továbbá a Tv.-ben meghatározott eljárások során kiadható, kitöltetlen tartózkodási jogot igazoló okmányokról külön nyilvántartást vezet. A nyilvántartás tartalmazza az úti okmány, személyazonosító igazolvány, valamint tartózkodási jogot igazoló okmány típusát, azonosító adatait, számát, sorozatszámát és érvényességi idejét.
+
+(7)[^138] Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Főigazgatóság általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
+
+### 43. §
+
+(1)[^139] A családtag a tartózkodási jogcímnek a Tv. 10. és 11. §-ban foglalt okból bekövetkezett változását köteles az annak alapjául szolgáló tény bekövetkeztétől számított harminc napon belül a lakóhelye szerint illetékes regionális igazgatóságnál az okiratok egyidejű csatolásával bejelenteni.
+
+(2)[^140] Az EGT-állampolgár vagy a családtag a tartózkodási jog gyakorlásával való felhagyás bejelentésével egyidejűleg a tartózkodási jogot igazoló okmányát és a személyi azonosítót és lakcímet igazoló hatósági igazolványát a lakóhelye szerint illetékes regionális igazgatóságnál leadhatja. A személyi azonosítót és lakcímet igazoló hatósági igazolványt a regionális igazgatóság Budapest Főváros Kormányhivatala (a továbbiakban: kijelölt kormányhivatal) részére megküldi.
+
+## Az EGT-állampolgár és családtag ellenőrzése[^141]
+
+### 43/A. §[^142]
+
+Az ellenőrzés során az EGT-állampolgárnál vagy a családtagnál talált, más személy részére kiállított és jogtalanul birtokban tartott úti okmányt az eljáró idegenrendészeti hatóság zár alá veszi, és – ha bűncselekmény gyanúja nem merül fel – továbbítja az azt kiállító állam Magyarországra akkreditált külképviseletének.
+
+## Az arányosság elvének betartása[^143]
+
+### 43/B. §[^144]
+
+Az eljáró idegenrendészeti hatóság a Tv. 44. §-ában meghatározott szempontokat a Tv. hatálya alá tartozó személyek beutazáshoz és tartózkodáshoz való jogának közrendi, közbiztonsági vagy közegészségügyi okból történő bármely korlátozása során mérlegeli.
+
+## A tartózkodás közegészségügyi szabályai
+
+### 44. §
+
+(1) Az EGT-állampolgár a tartózkodás bejelentésekor, illetve a harmadik ország állampolgárságával rendelkező családtag a tartózkodási kártya kiadása iránti kérelem benyújtásakor köteles nyilatkozni arról, hogy külön jogszabályban meghatározott közegészséget veszélyeztető betegségben szenved-e, fertőzőképes, illetve kórokozó hordozó állapotban van-e, illetve ezekre tekintettel részesül-e kötelező és rendszeres ellátásban.
+
+(2)[^145] Ha az EGT-állampolgár vagy a családtag nyilatkozata szerint az (1) bekezdés szerinti egészségügyi állapot fennáll, a regionális igazgatóság értesíti az egészségügyi államigazgatási szervnek az EGT-állampolgár vagy a családtag lakóhelye szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: járási hivatal).
+
+(3)[^146] A járási hivatal az EGT-állampolgárt vagy a családtagot kötelezheti arra, hogy a szükséges orvosi vizsgálatoknak alávesse magát.
+
+(4)[^147] Amennyiben a járási hivatal megállapítja, hogy az EGT-állampolgár vagy a családtag közegészséget veszélyeztető betegségben szenved, és a gondozásba vételére, illetve gyógykezelésére irányadó magatartási szabályokat, hatósági rendelkezéseket vagy jogszabályokat megsérti, a járási hivatal
+
+a) megteszi a szükséges járványügyi intézkedéseket, vagy
+
+b) a Tv. 40. § (1) bekezdésében foglaltakra tekintettel – egyidejűleg javaslatot téve a beutazási és tartózkodási tilalom időtartamára – az EGT-állampolgár vagy a családtag kiutasítását kezdeményezi.
+
+## A visszairányítás és a kiutasítás elrendelésére, illetve végrehajtására vonatkozó tilalom
+
+### 45. §
+
+(1)[^148] Az eljáró idegenrendészeti hatóságnak az EGT-állampolgár vagy a családtag visszairányítására vonatkozó hatósági intézkedés, az idegenrendészeti kiutasítás elrendelése és végrehajtása, illetve a bírósági határozattal elrendelt kiutasítás végrehajtása előtt vizsgálnia kell a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását. Ennek során az eljáró idegenrendészeti hatóság a menekültügyi hatóságtól véleményt kér, amely a megkeresést soron kívül teljesíti. A menekültügyi hatóság véleményétől az idegenrendészeti hatóság nem térhet el.
+
+(2) Nem kell vizsgálni a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását, ha a visszairányítás vagy a kiutasítás EGT-állam területére történik.
+
+(3) Ha az EGT-állampolgár, illetve a családtag származási országa vagy az az ország, amely őt visszafogadni köteles, nem felel meg a biztonságos származási vagy a biztonságos harmadik országokra vonatkozó követelményeknek, az (1) bekezdésben foglalt kényszerintézkedések nem rendelhetők el, illetve nem hajthatók végre.
+
+(4) A visszaküldési tilalom vizsgálata az EGT-állampolgárral, illetve a családtaggal szemben elrendelt kitoloncolási őrizet végrehajtását, illetve a kijelölt helyen való tartózkodás kötelezettségét nem érinti.
+
+(5)[^149] Az eljáró idegenrendészeti hatóság a határozat végrehajtását felfüggeszti és kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha a menekültügyi hatóság véleménye alapján az eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
+
+(6) A Tv. 34. § (1) bekezdése szerinti tilalom fennállását nem alapozhatja meg az a körülmény, hogy az EGT-állampolgár vagy a családtag részére a származási államának külképviselete nem állítja ki a hazatérésre szolgáló úti okmányt.
+
+(7)[^150] Az eljáró idegenrendészeti hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró idegenrendészeti hatóság a határozat végrehajtását folytatja.
+
+## A beléptetés megtagadása és a visszairányítás
+
+### 46. §
+
+(1) A visszairányításról rendelkező határozatnak tartalmaznia kell a visszaküldési tilalom vizsgálatának eredményét, annak az országnak a megjelölését, ahová a visszairányítás történik, valamint a visszairányítás biztosítása érdekében alkalmazott intézkedéseket.
+
+(2) A Tv. 37. § (2) bekezdésében foglalt határidőt a beléptetés megtagadásának időpontjától kell számítani.
+
+(3)[^151] Ha a Rendőrség az EGT-állampolgárt vagy családtagot a Tv. 37. § (2) bekezdése alapján a határterület vagy a repülőtér meghatározott részén való tartózkodásra kötelezi, részére a repülőtéri tranzitterületen vagy a határterületen e célra kialakított helyiségében
+
+a) elhelyezést,
+
+b) napi háromszori étkezést, valamint
+
+c) személyi felszerelést
+
+köteles biztosítani.
+
+(4)[^152] A Tv. 37. § (4) bekezdésében meghatározott esetben a Rendőrség az érintett EGT-állampolgárt vagy a családtagot a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő.
+
+## A beutazási és tartózkodási tilalom és az idegenrendészeti kiutasítás
+
+### 47. §
+
+(1)[^153] A beutazási és tartózkodási tilalom hatálya alatt álló EGT-állampolgár vagy családtag részére kivételes méltánylást érdemlő körülmények fennállása esetén a beutazási és tartózkodási tilalmat elrendelő hatóság – a tilalom fenntartása mellett – engedélyezheti a Magyarországra történő egyszeri, kilencven napot meg nem haladó, tervezett időtartamú beutazást.
+
+(2) A beutazási engedély iránti kérelmet a konzuli tisztviselőnél kell előterjeszteni.
+
+(3)[^154] A beutazási engedély alapján az EGT-állampolgár vagy a családtag a kilencven napot meg nem haladó, tervezett tartózkodásra vonatkozó szabályok szerint utazhat be Magyarország területére.
+
+(4)[^155] Amennyiben a családtag beutazásához vízum szükséges, a beutazás (1) bekezdés szerinti engedélyezése esetén a konzuli tisztviselő a családtag részére kiadott vízumban a külön engedély számát is feltünteti.
+
+(5)[^156] Amennyiben a családtag kilencven napot meg nem haladó, tervezett tartózkodás céljából vízummentes beutazásra jogosult, a Rendőrség a beléptetését csak a beutazási kérelmet engedélyező döntés felmutatása esetén engedélyezheti.
+
+### 48. §
+
+(1)[^157] A Tv. 38. § (1) bekezdés szerinti önálló beutazási és tartózkodási tilalom elrendelésének szükségességéről a külpolitikáért felelős miniszter tájékoztatja a Főigazgatóságot.
+
+(2)[^158] Az önálló beutazási és tartózkodási tilalom, valamint az idegenrendészeti kiutasítás elrendelésére – a (2a) bekezdésben foglalt kivétellel – a regionális igazgatóság jogosult.
+
+(2a)[^159] A Tv. 38. § (1) bekezdésében meghatározott esetben az önálló beutazási és tartózkodási tilalom elrendelésére a Főigazgatóság jogosult.
+
+(3) Idegenrendészeti kiutasítás a Tv. 40. § (1) bekezdése alapján kizárólag a közegészségügyi hatóság kezdeményezésére rendelhető el.
+
+(3a)[^160] Idegenrendészeti kiutasítás a Tv. 40. § (2) bekezdés c) pontja alapján az Alkotmányvédelmi Hivatal vagy a Rendőrség kezdeményezésére is elrendelhető.
+
+(4)[^161] Az idegenrendészeti kiutasítás végrehajtását követő harminc napon belül a személyi azonosítót és lakcímet igazoló hatósági igazolványt a kijelölt kormányhivatalnak kell megküldeni.
+
+### 49. §
+
+(1) Az idegenrendészeti kiutasítást elrendelő határozatnak tartalmaznia kell a végrehajtás időpontját, valamint azt az államot, ahová a kitoloncolás történik.
+
+(2) A kiutasító határozatban fel kell tüntetni a Tv. 34. § (1) bekezdésében foglalt tilalom vizsgálatának eredményét.
+
+(3)[^162] Idegenrendészeti kiutasítás elrendelése esetén a regionális igazgatóság intézkedik
+
+a) a kiutasítás ténye, végrehajtásának időpontja, valamint – ha beutazási és tartózkodási tilalmat rendeltek el – a beutazási és tartózkodási tilalom nyilvántartásba vétele,
+
+b) a tartózkodási jogot igazoló okmány visszavonása
+
+iránt.
+
+### 50. §[^163]
+
+A Tv. 42. § (1) bekezdés b) pontjában meghatározott kiutasítási akadály felmerülése esetén a regionális igazgatóság a kísérő nélküli kiskorú elhelyezése érdekében megkeresi a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát.
+
+### 51. §
+
+A beutazási és tartózkodási tilalom időtartamát években kell meghatározni.
+
+### 51/A. §[^164]
+
+(1) Amennyiben a harmadik országbeli állampolgár családtaggal szemben korábban beutazási és tartózkodási tilalom került elrendelésre és tartózkodásra jogosító okmány kiállítása iránti kérelmet terjeszt elő, a regionális igazgatóság a kérelem előterjesztéséről soron kívül értesíti az idegenrendészeti kiutasítást elrendelő idegenrendészeti hatóságot a Tv. 47/B. §-ában meghatározott felülvizsgálat lefolytatása érdekében.
+
+(2)[^165] Az idegenrendészeti kiutasítást elrendelő idegenrendészeti hatóság a Tv. 47/B. §-ában meghatározott eljárást az (1) bekezdésben foglalt értesítéstől, vagy amennyiben a korábban elrendelt idegenrendészeti kiutasítás végrehajtása során tudomására jut, hogy a harmadik országbeli állampolgár EGT-állampolgárt kísérő vagy hozzá csatlakozó családtagja, a tudomásra jutástól számított húsz napon belül folytatja le.
+
+(3) Az idegenrendészeti kiutasítást elrendelő hatóság a Tv. 47/B. §-ában meghatározott felülvizsgálati eljárás során hozott döntését a harmadik országbeli állampolgár családtag tartózkodásra jogosító okmány kiállítása iránti kérelmét elbíráló hatósággal soron kívül közli.
+
+(4) A Tv. 47/B. §-ában meghatározott aránytalan érdeksérelem különösen akkor áll fenn, ha az idegenrendészeti kiutasítás fenntartása a kiskorú gyermek mindenekfelett álló érdekét, vagy a család egységét sérti.
+
+## A bíróság által elrendelt kiutasítás végrehajtása[^166]
+
+### 52. §
+
+(1)[^167] A jogerős bírósági ítélettel elrendelt kiutasítás végrehajtását a kiutasítást elrendelő bíróság székhelye szerint illetékes regionális igazgatóság rendeli el.
+
+(1a)[^168] Ha a bíróság által elrendelt kiutasítás végrehajtásának elrendelésére ismeretlen helyen tartózkodó, nem szabadságvesztés-büntetésből szabaduló EGT-állampolgár vagy családtaggal szemben kerül sor, a regionális igazgatóság végzése tartalmazza a Tv. 61. § b) és c) pontjában meghatározottakat. Ebben az esetben a beutazási és tartózkodási tilalom időtartama a bírósági ítélet jogerőre emelkedésének időpontjához igazodva kerül rögzítésre a nyilvántartásban.
+
+(1b)[^169] Az (1a) bekezdésen túli esetben a regionális igazgatóság végzése a Tv. 61. § a)–f) pontjában meghatározottakat, valamint a kitoloncolásról való rendelkezést tartalmazza.
+
+(2) A büntetés-végrehajtási intézet a szabadságvesztés-büntetést töltő EGT-állampolgár vagy családtag kiutasításának végrehajtásához szükséges feltételek biztosítása érdekében a várható szabadulást hat hónappal megelőzően értesíti a büntetés-végrehajtási intézet székhelye szerint illetékes regionális igazgatóságot.
+
+(3)[^170] A bíróság által elrendelt kiutasítás végrehajtása esetén a regionális igazgatóság intézkedik
+
+a) a kiutasítás ténye, végrehajtásának időpontja, valamint ha beutazási és tartózkodási tilalmat rendeltek el a beutazási és tartózkodási tilalom nyilvántartásba vétele,
+
+b) a tartózkodási jogot igazoló okmány visszavonása
+
+iránt.
+
+## Kitoloncolás
+
+### 53. §[^171]
+
+(1) A kitoloncolás feltételeinek megteremtéséről – a (2) bekezdésben foglalt kivétellel – a Rendőrség intézkedik.
+
+(2)[^172] Ha a kitoloncolás a kiutasítás végrehajtása érdekében légi úton történik, a kitoloncolás feltételeinek megteremtésére a Főigazgatóság intézkedik.
+
+(3) A kitoloncolást a Rendőrség foganatosítja.
+
+### 54. §
+
+(1)[^173] A kitoloncolást Magyarország államhatáráig, ha a kitoloncolt személy kíséret nélküli utazása a repülés biztonságára veszélyt jelentene, vagy azt nemzetközi szerződés (visszafogadási egyezmény) kötelezően előírja, az EGT-állampolgár, illetve családtag származási államáig vagy más visszafogadásra köteles államig kell elrendelni.
+
+(2) Az érintettet a kitoloncolás módjáról, körülményeiről (a továbbiakban: végrehajtás), továbbá a végrehajtási kifogás benyújtásának lehetőségéről az anyanyelvén vagy az általa értett más nyelven tájékoztatni kell. A tájékoztatásnak ki kell terjednie
+
+a)[^174] a végrehajtás időpontjára, amelyet légi úton történő toloncolás esetén legkésőbb a foganatosítás megkezdésekor kell közölni,
+
+b) a célállomás megjelölésére,
+
+c) arra, hogy a végrehajtás milyen járművön, továbbá arra, hogy kísérettel történik.
+
+(3) Külön jogszabályban meghatározott esetben pszichológus vagy szakorvos közreműködését kell igénybe venni, ha a kitoloncolással járó megterhelést az érintett mentális vagy egészségi állapota következtében átmenetileg nem vagy csak különleges feltételek mellett képes elviselni.
+
+(4)[^175] A kitoloncolás végrehajtását csak az idegenrendészeti kiutasítást elrendelő határozat vagy a jogerős bírósági ítélettel elrendelt kiutasítás végrehajtását elrendelő végzés birtokában, az abban foglaltak szerint lehet megkezdeni.
+
+(5) A végrehajtás megkezdésekor és befejezésekor meg kell állapítani, hogy az EGT-állampolgáron, illetve a családtagon vannak-e látható külsérelmi nyomok, és azok dokumentálásáról gondoskodni kell.
+
+### 55. §
+
+(1)[^176] Az érintett a végrehajtás módja ellen végrehajtási kifogással élhet, amelyet a végrehajtás befejezését követő nyolc napon belül írásban, postai úton kell előterjeszteni.
+
+(2)[^177] A végrehajtást foganatosító szervnek a kifogás tárgyában hozott végzése ellen fellebbezésnek van helye, amelyet a közléstől számított nyolc napon belül a kifogást elbíráló szervnél lehet előterjeszteni.
+
+(3)[^178] A fellebbezés elbírálására jogosult hatóság a fellebbezésről tizenöt napon belül dönt.
+
+### 56. §
+
+(1) A célországba történő beutazást meghiúsultnak kell tekintetni, és a kitoloncolás végrehajtását félbe kell szakítani, ha
+
+a) a légi jármű parancsnoka megtagadja a toloncolt EGT-állampolgár, illetve családtag felvételét a légi járműre;
+
+b) a toloncolt EGT-állampolgáron, illetve családtagon nem dokumentált külsérelmi nyomok vannak, vagy ha az EGT-állampolgár, illetve a családtag olyan fokú ellenállást tanúsít, amelyet törvényes eszközökkel és az EGT-állampolgár, illetve a családtag életének, testi épségének, egészségének károsítása vagy veszélyeztetése nélkül nem lehet elhárítani.
+
+(2) A kitoloncolás a kitoloncolt sürgős orvosi beavatkozást igénylő állapota miatt nem hajtható végre, ha a végrehajtás során a toloncolt EGT-állampolgár, illetve családtag egészségi vagy pszichés állapotában olyan változás következik be, amely miatt a kitoloncolás csak a toloncolt életének, testi épségének veszélyeztetésével lenne végrehajtható.
+
+(3) A félbeszakított kitoloncolást tovább kell folytatni, ha a Tv. 50. § (5) bekezdésben meghatározott okok elhárultak.
+
+(4) A végrehajtást határozattal meg kell szüntetni, ha nyilvánvaló, hogy a toloncolást nem lehet végrehajtani. A határozat ellen jogorvoslatnak nincs helye. A végrehajtási akadály megszűnésekor a kitoloncolást ismételten el kell rendelni.
+
+(5) Az (1) és (2) bekezdésben foglalt esetben a Tv. 37. § (2) bekezdésében foglaltak alkalmazásával kell eljárni, és az EGT-állampolgárt, illetve a családtagot – a további intézkedésig – légi úton történő kitoloncolás esetén a repülőtér, vízi úton, vasúton vagy közúton történő kitoloncolás esetén a határterület kijelölt részén kell elhelyezni.
+
+(6) A (2) bekezdés szerinti egészségi vagy pszichés állapotváltozást szakorvos, illetve pszichológus állapítja meg.
+
+(7) A kitoloncolás végrehajtásának módját és körülményeit külön jogszabály állapítja meg.
+
+## A kitoloncolási őrizet
+
+### 57. §
+
+(1) Az őrizetbe vételt elrendelő határozatnak tartalmaznia kell az őrizet kezdő és befejező időpontját, a végrehajtás helyét, valamint az ideiglenes intézkedést vagy azt, hogy ideiglenes intézkedésnek nincs helye.
+
+(2) Az őrizet időtartamát – a (3) bekezdésben foglalt kivétellel – órákban kell számítani.
+
+(3)[^179] Ha a járásbíróság az őrizetet meghosszabbítja, azt napokban kell számítani. Az őrizet tartamába minden megkezdett nap beszámít.
+
+### 58. §[^180]
+
+Az EGT-állampolgár vagy családtag által szóban vagy írásban előterjesztett kifogást
+
+a) a Tv. 58. § (2)–(3) bekezdésében foglalt kötelezettség elmulasztása esetén az őrizetet elrendelő regionális igazgatóság,
+
+b) a Tv. 58. § (1) bekezdésében, illetve a Tv. 59. §-ában foglalt kötelezettségek elmulasztása esetén az őrizetet foganatosító szerv
+
+haladéktalanul továbbítja a kitoloncolási őrizet helye szerint illetékes járásbíróságnak.
+
+### 59. §
+
+(1) Az őrizetet elrendelő regionális igazgatóság az őrizet időtartamát az eljárás lefolytatásához szükséges legrövidebb időtartamban határozza meg.
+
+(2) Az őrizetet elrendelő hatóságnak az őrizet meghosszabbítására irányuló indítványa tartalmazza az EGT-állampolgár, illetve a családtag kiutaztatására tett intézkedésekre vonatkozó tájékoztatást is. Az indítványt az EGT-állampolgár, illetve a családtag jogi képviselőjének is meg kell küldeni.
+
+(3) Ha az őrizet időtartamát a bíróság meghosszabbította, de az elrendelés oka már nem áll fenn, az őrizetet elrendelő hatóság az őrizetet a bíróság egyidejű értesítése mellett megszünteti.
+
+## Az őrizet végrehajtására szolgáló intézmény létesítésének feltételei
+
+### 60. §
+
+(1) Őrzött szállás olyan épületben vagy épületrészben létesíthető, ahol
+
+a) az őrizetben lévő személyek elhelyezésére szolgáló helyiségekben személyenként legalább 15 m<sup>3</sup> légtér és 5 m<sup>2</sup> mozgástér,
+
+b) az étkezés, a szabadidő eltöltésére és a látogatók fogadására alkalmas külön közösségi helyiségek,
+
+c) az engedélyezett férőhelyek számának megfelelő számú, nemenként elkülönített, hideg-meleg folyóvízzel ellátott mosdó és zuhanyozó, valamint WC helyiség,
+
+d) háziorvosi minimum feltételeknek megfelelő orvosi rendelő,
+
+e) orvosi vizsgálat céljára szolgáló helyiség és egészségügyi elkülönítő helyiség,
+
+f) szabadlevegőn való tartózkodásra alkalmas terület,
+
+g) az országos településrendezési és építési követelmények és a hatósági előírások szerinti megvilágítás,
+
+h) az intézmény szünetmentes áramellátása,
+
+i) látogatók fogadására szolgáló külön helyiség,
+
+j) telefonhasználati lehetőség,
+
+k) az őrizetben lévő személyek és a személyzet elhelyezésére szolgáló helyiségekben, az orvosi szobában, a látogatók fogadására szolgáló helyiségekben, az élelmezést ellátó helyiségekben, valamint a közösségi célú helyiségekben ablak és természetes szellőzés
+
+biztosítható.
+
+(2) Őrzött szállás rendőrségi fogda vagy büntetés-végrehajtási intézet területén nem létesíthető.
+
+(3) Az őrizetben lévő férfiakat és nőket külön épületrészben kell elhelyezni.
+
+## Az őrizetben lévők egészségügyi ellátása
+
+### 61. §
+
+(1) Ha az őrizetbe vett EGT-állampolgár vagy családtag nem áll biztosítási jogviszonyban, betegsége esetén térítésmentesen jogosult az egészségügyről szóló 1997. évi CLIV. törvény 142. § (2) bekezdésében és (3) bekezdés e) és i) pontjaiban meghatározott ellátásokra.
+
+(2) Az elhelyezett EGT-állampolgár vagy családtag jogosult a külön jogszabályban meghatározott kötelező védőoltásra.
+
+### 62. §
+
+(1) Az EGT-állampolgár vagy a családtag háziorvosi ellátása az őrzött szálláson történik.
+
+(2) Az egészségügyi szakellátást a területi ellátási kötelezettséggel működő egészségügyi szolgáltatónál lehet igénybe venni.
+
+(3) A külön jogszabályban meghatározott gyógyszerrendelésre jogosító bélyegzővel rendelkező orvos által kiállított vény alapján kiadott gyógyászati segédeszköz, gyógyszer teljes árát az őrzött szállást fenntartó hatóság megtéríti.
+
+### 63. §
+
+(1)[^181] Az őrzött szállást fenntartó hatóság a 61. § hatálya alá nem tartozó egészségbiztosítási szolgáltatások díját az ellátást nyújtó egészségügyi szolgáltatónak megtéríti, ha annak megfizetését nemzetközi egyezményben Magyarország nem vállalta.
+
+(2)[^182] Az egészségbiztosítási szolgáltatások ellátási igazolvánnyal vehetők igénybe.
+
+(3)[^183] Az egészségügyi szolgáltató az elvégzett szolgáltatást – az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló jogszabály által az adott ellátás jelentésére és elszámolására előírt nyomtatványon – jelenti a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére. A jelentések alapján történő elszámolást – az egészségügyi szolgáltatások szerinti részletezésben – a NEAK küldi meg havonta az őrzött szállást fenntartó hatóságnak.
+
+(4)[^184] Az egészségügyi szolgáltató az elvégzett szolgáltatás költségét – vényköteles készítmények esetében – az EGT-állampolgár, illetve a családtag tartózkodási jogát igazoló okmányának számát feltüntető vény, valamint a gyógyszerkészítmény megnevezését, árát és mennyiségét tartalmazó, az őrzött szállást fenntartó hatóság mint vevő részére kiállított összesített számla bemutatásával igényelheti vissza. A vényt és a számlát az egészségügyi szolgáltató a NEAK-hoz továbbítja.
+
+### 64. §
+
+(1) Az őrizet végrehajtási helyének kijelölése ellen külön jogorvoslatnak nincs helye.
+
+(2) Az őrizet végrehajtásának részletes szabályait külön jogszabály állapítja meg.
+
+## Arcképmás és ujjnyomat rögzítése
+
+### 65. §
+
+A Tv. 60. § (1) bekezdése alapján az arcképmás és ujjnyomat adatokat a regionális igazgatóság rögzíti.
+
+### 66. §
+
+(1) A kiutasítás végrehajtása során törekedni kell arra, hogy az a kiutasítottnak a lehető legkevesebb költséget okozza.
+
+(2)[^185] A Tv. 62. §-ában meghatározott megtérítési kötelezettséget a kiutasítást végrehajtó hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől számított három hónapon belül kell teljesíteni. A teljesítési határidő eredménytelen eltelte esetén a Tv. 62. §-ban meghatározott személyek vonatkozásában a Tv. végrehajtási szabályait kell alkalmazni.
+
+## A személykörözés elrendelése
+
+### 67. §
+
+Körözés elrendelésére
+
+a) a Tv. 63. § (1) bekezdés a) pontja alapján az őrizetet elrendelő,
+
+b) a Tv. 63. § (1) bekezdés b) pontja alapján a kijelölt helyen való tartózkodást elrendelő
+
+hatóság jogosult.
+
+### 68. §[^186]
+
+A Tv. 64. § (1) és (4) bekezdésében meghatározott értesítést és úti okmányt az EGT-állampolgárral vagy a családtaggal szembeni büntetőjogi büntetés vagy intézkedés, büntetőeljárási kényszerintézkedés illetve egyéb korlátozás elrendelésének helye szerint illetékes regionális igazgatóságnak kell megküldeni, amely intézkedik
+
+a) a külföldre utazási tilalom nyilvántartásba történő bejegyzése, illetve törlése, valamint
+
+b) az úti okmány visszatartása, illetve visszaadása
+
+érdekében.
+
+## Felelősségi szabályok
+
+### 69. §
+
+(1)[^187] A Tv. 65. §-ában foglaltak során a fuvarozót terhelő közrendvédelmi bírságot, továbbá a visszaszállítási, illetve a költségviselési kötelezettség teljesítését a Rendőrség állapítja meg, illetve rendeli el.
+
+(2)[^188] Ha a fuvarozó a Tv. 37. § (2) bekezdésében foglalt határidőn belül nem tesz eleget visszaszállítási kötelezettségének, a Rendőrség megelőlegezi a költségeket, és más fuvarozó gondoskodik a visszairányítás végrehajtásáról.
+
+(3)[^189] Ha a fuvarozó a megelőlegezett költségek viselésére vonatkozó kötelezettségét nem teljesíti, a Rendőrség a költségek megtérítését a polgári jog szabályai szerint követelheti.
+
+(4) A fuvarozót nem terheli visszaszállítási kötelezettség, ha a szállított harmadik ország állampolgárságával rendelkező családtag menekültkénti elismerését kéri, illetve ha ideiglenes vagy kiegészítő védelmet kér.
+
+### 70. §
+
+(1) A Tv. 65. § (1) bekezdése szerinti ellenőrzési kötelezettségét nem teljesítő fuvarozót személyenként legalább 3000, legfeljebb 5000 euróig terjedő, forintban meghatározott közrendvédelmi bírsággal kell sújtani.
+
+(2)[^190] A bírságot a Rendőrségnek a Magyarország területére történő belépés megkísérlésének helye szerint illetékes szerve állapítja meg.
+
+### 71. §
+
+(1) A Tv. 66. §-a szerinti közrendvédelmi bírság mértéke legalább 3000, legfeljebb 5000 euró, amelyet forintban kell meghatározni. A bírság többszörös jogsértés esetén – minden olyan útra vonatkozóan, amellyel kapcsolatban az utasok adatait nem vagy helytelenül közölték – halmozottan is kiszabható.
+
+(2)[^191] A bírságot az adatszolgáltatási kötelezettségét megszegő légi fuvarozóval szemben a Rendőrségnek a Magyarország területére történő belépés helye szerint illetékes szerve állapítja meg.
+
+### 72. §
+
+(1)[^192] A munkáltató székhelye szerint illetékes regionális igazgatóság a Tv. 67. § (1) bekezdésében meghatározott kötelezettségét elmulasztó munkáltatót foglalkoztatottanként ötszázezer forintig terjedő közrendvédelmi bírsággal sújthatja.
+
+(2) A bírság kiszabására a regionális igazgatóságnak az (1) bekezdésben meghatározott cselekményről való tudomásszerzésétől számított egy éven túl nincs lehetősége.
+
+### 73. §
+
+(1) A 70–72. §-ban meghatározott bírság összegét az eset összes körülményére – így különösen a jogsértés ismételt jellegére – tekintettel kell meghatározni.
+
+(2)[^193]
+
+(3)[^194] A 70–71. § szerinti bírságot kiszabó határozat elleni fellebbezést az Országos Rendőr-főkapitányság, a 72. § szerinti bírságot kiszabó határozat elleni fellebbezést a Főigazgatóság bírálja el.
+
+## Eljárási szabályok
+
+### 73/A. §[^195]
+
+E rendelet eltérő rendelkezése hiányában az idegenrendészeti eljárásokban a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet (a továbbiakban: Btávhr.) NYOLCADIK RÉSZÉT kell alkalmazni.
+
+### 73/B. §[^196]
+
+Ha a kérelem elbírálására több regionális igazgatóság is illetékes, a kérelmeket a Főigazgatóság az illetékességgel rendelkező regionális igazgatóságok között arányosan osztja el.
+
+## Adatkezelés
+
+### 74. §[^197]
+
+A központi idegenrendészeti nyilvántartás adatkezelő szerve a Főigazgatóság (a továbbiakban: központi adatkezelő szerv).
+
+### 75. §[^198]
+
+(1) A regionális igazgatóság a Tv. 76. §-ában meghatározott adatokat a központi adatkezelő szerv részére továbbítja.
+
+(2) A vízumkiadó hatóság és a kishatárforgalmi engedélyt kiadó konzuli tisztviselő a Tv. 76/B. §-ában, a Rendőrség a Tv. 76/B. § (1) bekezdés n) pontjában, a regionális igazgatóság a Tv. 76/B. § (1) bekezdés o) pontjában meghatározott adatokat a központi adatkezelő szerv részére továbbítja.
+
+### 76. §
+
+(1)[^199] A regionális igazgatóság a Tv. 78. § (1) bekezdésében és a Tv. 78/A. §-ában meghatározott adatokat a központi adatkezelő szerv részére továbbítja.
+
+(2) A Tv. 60. § (1) bekezdése alapján rögzített arcképmás és ujjnyomat adatok tekintetében az adatfeldolgozó az idegenrendészetért és menekültügyért felelős miniszter rendeletében meghatározott szerv.
+
+(3)[^200] A Tv. 76/D. §-a alapján rögzített arcképmás és ujjnyomat adatok tekintetében az adatfeldolgozó a központi adatkezelő szerv.
+
+### 77. §
+
+A regionális igazgatóság
+
+a) a nyomozó hatóság vagy igazságszolgáltatási szerv tájékoztatása alapján a Tv. 79. § (1) bekezdés a)–b) pontjaiban,
+
+b) a Rendőrség tájékoztatása alapján a Tv. 79. § (1) bekezdés a) és c)–e) pontjaiban
+
+meghatározott adatokat a központi adatkezelő szerv részére továbbítja.
+
+### 78. §[^201]
+
+A Tv. 85/A. § (1) bekezdésében meghatározott adatokat a Hivatal a Kormány által kijelölt tárhelyszolgáltatótól napi rendszerességgel veszi át.
+
+## A Vízuminformációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok[^202]
+
+### 78/A. §[^203]
+
+A VIS rendelet alapján a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerben tárolt adatokhoz történő hozzáférés szempontjából:
+
+a) a VIS rendelet 15. cikke szerinti vízumhatóság a 4. §-ban meghatározott hatóság, a Rendőrség pedig a 7. § (4) bekezdés és a 16. § (2) bekezdés szerinti eljárásában;
+
+b)[^204] a VIS rendelet 16. cikke szerinti központi vízumhatóság a Főigazgatóság;
+
+c) a VIS rendelet 17. cikke szerinti vízumhatóság a 4. §-ban meghatározott hatóság;
+
+d)[^205] a VIS rendelet 19. és 20. cikke szerinti ellenőrző hatóság a Rendőrség, a Főigazgatóság és a regionális igazgatóság.
+
+## Biometrikus adatkezelés szabályai[^206]
+
+### 78/B. §[^207]
+
+(1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 76/D. §-ban meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+
+(2)[^208]
+
+(3)[^209] A Kormány a kishatárforgalmi engedéllyel és a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya okmány cseréjével vagy pótlásával összefüggésben
+
+a) a nemzeti dokumentum-aláíró hatósági (DS), az országos ellenőrző-hitelesítő hatósági (CVCA), valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági (DV) feladatok ellátására a Főigazgatóságot,
+
+b)[^210] az országos aláíró hitelesítő hatósági (CSCA) feladatok ellátására az informatikáért felelős minisztert
+
+jelöli ki.
+
+(4)[^211] A Főigazgatóság gondoskodik a kishatárforgalmi engedéllyel, a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya okmány cseréjével vagy pótlásával, továbbá az EGT-állampolgár családtagjának tartózkodási kártyájának, illetve huzamos tartózkodási kártyájának kiállításával, pótlásával és cseréjével összefüggésben az okmány megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltéséről.
+
+(5)[^212] A Főigazgatóság nemzeti dokumentum-aláíró hatóságként
+
+a) létrehozza és kiadja a dokumentum-aláíró tanúsítványt, és elhelyezi azt a tároló elemben,
+
+b)[^213] létrehozza és kezeli – a tároló elemmel ellátott kishatárforgalmi engedély okmányok és magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint huzamos tartózkodási kártya okmányok ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait, a visszavonási listáit tartalmazó tanúsítványt és a visszavonási listatárat.
+
+(6)[^214] Az informatikáért felelős miniszter országos aláíró hitelesítő hatóságként
+
+a) kiadja az országos aláírás-hitelesítő tanúsítványt,
+
+b) az általa kibocsátott tanúsítványokat, valamint az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában a külpolitikáért felelős miniszter útján eljuttatja a többi ICAO tagország országos aláíró hitelesítő hatóságához.
+
+(7)[^215] A Főigazgatóság országos ellenőrző-hitelesítő hatóságként
+
+a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő hatóság számára,
+
+b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
+
+(8)[^216] A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a (10) bekezdésben foglaltak kivételével a kishatárforgalmi engedélyben, valamint a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint huzamos tartózkodási kártya okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+
+(9)[^217] A kishatárforgalmi engedéllyel, valamint magyar állampolgár harmadik ország állampolgárságával rendelkező családtagjaként tartózkodási kártyával rendelkező harmadik országbeli állampolgár, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
+
+(10)[^218] Az informatikáért felelős miniszter a (7) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult EGT-állam hatóságai számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint az EGT-állam által kiállított tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
+
+## Az Európai Határregisztrációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok[^219]
+
+### 78/C. §
+
+(1) Az Európai Határregisztrációs Rendszerben tárolt adatokhoz az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 9. cikke alapján a 4/A. §-ban meghatározott hatóságok rendelkeznek közvetlen hozzáféréssel az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 14. cikk (8) bekezdésében, valamint 19. és 24. cikkében meghatározott célból. Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet említett rendelkezéseiben meghatározott feladatokat vízumhatóságként a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság látja el.
+
+(2) Az Európai Határregisztrációs Rendszerben tárolt adatokhoz az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 9. cikke alapján bevándorlási hatóságként a Főigazgatóság és a Rendőrség rendelkezik közvetlen hozzáféréssel az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 12. cikk (3) bekezdésében, továbbá 20., 26., 27. és 41. cikkében, valamint az (EU) 2018/1548 bizottsági végrehajtási határozatban meghatározott célból.
+
+(3) Az (EU) 2017/2226 európai parlamenti és tanácsi rendelet
+
+a) 12. cikk (3) bekezdése, továbbá 20., 26. és 27. cikke szerinti feladatokat a Főigazgatóság harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóságai és a Rendőrség,
+
+b) 41. cikke szerinti feladatokat a Főigazgatóság és a Rendőrség
+
+látja el.
+
+(4) A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum megsemmisítése vagy visszavonása esetén az Európai Határregisztrációs Rendszerben tárolt adatokhoz az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 9. cikke alapján – a kérelemfájlok kiegészítésének elvégzése érdekében – az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 19. cikkében meghatározott célból
+
+a) a konzuli tisztviselő a 16. § (1) bekezdésében,
+
+b) a Rendőrség a 16. § (2) bekezdésében,
+
+c) a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság a 16. § (3) bekezdésében
+
+foglalt feladatkörében eljárva közvetlen hozzáféréssel rendelkezik.
+
+## Hatálybalépés
+
+### 79. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2007. július 1-jén lép hatályba.
+
+(2) E rendelet
+
+a) 16. § (2) bekezdése,
+
+b) 17. és 18. §-a
+
+a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
+
+(3)–(4)[^220]
+
+## Átmeneti rendelkezések
+
+### 79/A. §[^221]
+
+(1) Az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 113/2016. (V. 30.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 45. § (5) és (7) bekezdését a Módr1. hatálybalépését[^222] követően megindult ügyekben kell alkalmazni.
+
+(2) E rendeletnek a Módr1.-gyel megállapított rendelkezéseit – az (1) bekezdésben meghatározott kivétellel – a 2016. július 1-jét követően megindult ügyekben kell alkalmazni.
+
+(3)[^223] E rendeletnek az egyes migrációs tárgyú és velük összefüggésben egyes további kormányrendeletek módosításáról szóló 411/2017. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépését[^224] követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(4)[^225] E rendeletnek a végrehajtásra vonatkozó, a Módr2.-vel megállapított rendelkezéseit
+
+a) a Módr2. hatálybalépésekor[^226] még el nem rendelt és
+
+b) a Módr2. hatálybalépésekor[^227] folyamatban lévő
+
+végrehajtási eljárásokra is alkalmazni kell.
+
+(5)[^228] Az e rendelet alapján a Módr2. hatálybalépése[^229] előtt kiadott jogerőssé vált hatósági döntéseket e rendelet alkalmazásában véglegessé vált döntésnek kell tekinteni.
+
+### 79/B. §[^230]
+
+E rendeletnek az egyes migrációs tárgyú kormányrendeletek módosításáról szóló 277/2018. (XII. 21.)Korm. rendelettel (a továbbiakban: Módr3.) megállapított rendelkezéseit a Módr3. hatálybalépését[^231] követően indult és a megismételt eljárásokban kell alkalmazni.
+
+### 79/C. §[^232]
+
+(1)[^233] A magyar állampolgárok harmadik országbeli állampolgár családtagjaira vonatkozó eljárásokban a Módr3. hatálybalépését[^234] követően indult és megismételt eljárásokban a Btávhr. rendelkezéseit kell alkalmazni.
+
+(2)[^235] A Tv. 94. § (2) bekezdés f) pontja alkalmazásában a regionális igazgatóság és a Főigazgatóság az életközösség tényleges fennállásának megállapítása érdekében a személyiadat- és lakcímnyilvántartásból adatot igényel arra vonatkozóan, hogy a harmadik országbeli állampolgárnak a magyar állampolgár lakóhelyével vagy a tartózkodási helyével azonos-e a lakóhelye vagy a tartózkodási helye.
+
+(3) A magyar állampolgár családtagja részére kiadott tartózkodási kártya okmány cseréjére vagy pótlására irányuló kérelmet a regionális igazgatóság a jogszabályban meghatározott feltételek fennállása esetén az eredeti okmány érvényességi idejével egyező érvényességi idővel rendelkező tartózkodási kártya okmány kiadásával teljesíti.
+
+(4) A magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártya pótlása vagy cseréje iránti kérelmének benyújtása során a kártya kiadásakor hatályos törvényi rendelkezések szerint meghatározott biometrikus azonosítókat a regionális igazgatóság rögzíti.
+
+### 79/D. §[^236]
+
+(1)[^237] A Nagy-Britannia és Észak-Írország Egyesült Királysága állampolgárára (a továbbiakban: egyesült királysági állampolgár) és az egyesült királysági állampolgár harmadik országbeli állampolgár családtagjára vonatkozó, 2021. január 1-jén vagy azt követően indult vagy megismételt eljárásokban a Btávhr. rendelkezéseit kell alkalmazni.
+
+(2) A Tv. 95. § (4) bekezdés c) pontja alkalmazásában a regionális igazgatóság és a Főigazgatóság az életközösség tényleges fennállásának megállapítása érdekében a személyi adat- és lakcímnyilvántartásból adatot igényel arra vonatkozóan, hogy az egyesült királysági állampolgárnak a harmadik országbeli állampolgár családtag lakóhelyével vagy a tartózkodási helyével azonos-e a lakóhelye vagy a tartózkodási helye.
+
+(3)[^238] Az egyesült királysági állampolgárnak és a harmadik országbeli állampolgár családtagjának kiadott regisztrációs igazolás, tartózkodási kártya, valamint állandó tartózkodási kártya okmány cseréjére vagy pótlására irányuló kérelmet a regionális igazgatóság a jogszabályban meghatározott feltételek fennállása esetén 2021. december 31-i érvényességi idővel rendelkező regisztrációs igazolás, tartózkodási kártya, állandó tartózkodási kártya okmány kiadásával teljesíti, ha nemzeti tartózkodási kártya kiadására irányuló kérelmet nem terjesztett elő.
+
+(4) A Tv. 95. § (7) bekezdésében meghatározottak szerint a magyarországi életvitelszerű tartózkodás hitelt érdemlő igazolásának minősül különösen
+
+a) a munkaszerződés,
+
+b) a hallgatói jogviszony igazolás,
+
+c) a hatályos lakásbérleti szerződés,
+
+d) tartós gyógykezelés esetén az egészségügyi intézmény által kiállított igazolás,
+
+e) a rendszeres, Magyarországon végzett tevékenységből származó jövedelemről szóló igazolás.
+
+(5) A Tv. 95. § (16) bekezdése szerinti kérelmet
+
+a) – a *b)* pont szerinti eset kivételével – a munkavégzés helye szerint illetékes regionális igazgatóságon, vagy
+
+b) ha a munkavégzés helye változó, a foglalkoztató székhelye szerint illetékes regionális igazgatóságon
+
+kell előterjeszteni.
+
+(6) A Tv. 95. § (17) bekezdése szerinti kérelmet
+
+a) – a *b)* pont szerinti eset kivételével – a jövedelemszerzés helye szerint illetékes regionális igazgatóságon, vagy
+
+b) ha a jövedelemszerzés helye változó, az egyéni vállalkozás bejegyzett irodájának helye szerint illetékes regionális igazgatóságon
+
+kell előterjeszteni.
+
+## Jogharmonizációs záradék
+
+### 80. §
+
+(1) E rendelet a Tv.-vel együtt az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2)[^239] E rendelet
+
+a) 70. §-a a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelvnek;
+
+b) 35/A. §-a a Benelux Gazdasági Unió államai, a Németországi Szövetségi Köztársaság és a Francia Köztársaság kormányai között a közös határaikon történő ellenőrzések fokozatos megszüntetéséről szóló, 1985. június 14-i schengeni megállapodás végrehajtásáról szóló egyezmény (Schengeni Végrehajtási Egyezmény) 25. cikkének;
+
+c)[^240] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendeletnek
+
+a végrehajtását szolgálja.
+
+(3)[^241] Ez a rendelet
+
+1\. a 18/A-C. §-ban a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i 1931/2006/EK európai parlamenti és tanácsi rendelet,
+
+2.[^242] a 16. § (2) bekezdésében a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet,
+
+3\. a 17. § (1) bekezdésében és a 78/A. §-ban a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK európai parlamenti és tanácsi rendelet,
+
+4.[^243] a 18/A. §-ban és a 78/B. §-ban
+
+a) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet,
+
+b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint
+
+c) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet,
+
+5.[^244] a 4. §-ban, a 7. §-ban, a 12. §-ban és a 16–18. §-ban a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet, valamint a Közösségi Vízumkódex (vízumkódex) létrehozásáról szóló 810/2009/EK rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1155 európai parlamenti és tanácsi rendelet
+
+6.[^245] a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet
+
+7.[^246] a 35/A. §-ban, a 38. §-ban és a 78/B. §-ban az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4)[^247] Ez a rendelet
+
+a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
+
+b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(5)[^248] E rendelet 78/C. §-a a határregisztrációs rendszerben (EES) túltartózkodóként azonosított személyek listájának összeállítására, valamint e listának a tagállamok rendelkezésére bocsátására vonatkozó eljárás kialakítására irányuló intézkedések meghatározásáról szóló, 2018. október 15-i (EU) 2018/1548 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 113/2007. (V. 24.) Korm. rendelethez[^249]
+
+## 2. melléklet a 113/2007. (V. 24.) Korm. rendelethez[^250]
+
+## 3. melléklet a 113/2007. (V. 24.) Korm. rendelethez[^251]
+
+---
+
+[^1]: Az 1. § d) pontja a 277/2018. (XII. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^2]: A 2. §-t megelőző alcím címe a 411/2017. (XII. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: A 2. § nyitó szövegrésze a 411/2017. (XII. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § a) pontját a 282/2011. (XII. 21.) Korm. rendelet 23. §-a hatályon kívül helyezte.
+[^5]: A 2. § c) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § d) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § f) pontja a 221/2013. (VI. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 2/A. §-t a 166/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 3. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^11]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 446/2013. (XI. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § c) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^13]: A 4. § d) pontját a 290/2010. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § e) pontját a 189/2020. (V. 7.) Korm. rendelet 11. §-a iktatta be.
+[^15]: A 4/A. §-t a 166/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 7. § a 96/2010. (III. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 7. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (2) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^20]: A 7. § (3) bekezdése a 282/2011. (XII. 21.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^21]: A 7. § (4) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^22]: A 7. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 22. §-a, a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja, a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 7. § (6) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 282/2011. (XII. 21.) Korm. rendelet 22. §-a, a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 7. § (7) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^26]: A 9. § a 290/2010. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^27]: A 9. § (1a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 3. §-a iktatta be.
+[^28]: A 9. § (1b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^29]: A 9. § (2) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^31]: A 11. § a 182/2009. (IX. 10.) Korm. rendelet 543. § (1) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^32]: A 12. §-t a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 290/2010. (XII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^33]: A 12. § (1) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 12. § (3) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^36]: A 14. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése, a 168/2026. (IX. 21.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^37]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (2) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (6)–(7) bekezdése, a 168/2026. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^39]: A 16. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^40]: A 16. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^41]: A 16. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^42]: A 16. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése, a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^43]: A 16/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 16/A. § (1) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^45]: A 16/A. § (2) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^46]: A 16/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 16/B. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^48]: A 16/B. § (2) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^49]: A 16/B. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^50]: A 16/C. §-t a 290/2010. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^51]: A 16/C. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja, a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^52]: A 16/C. § (2) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^53]: A 16/C. § (3) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^54]: A 17. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^55]: A 17. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^56]: A 17. § (2) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^57]: A 17. § (3) bekezdés nyitó szövegrésze a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^58]: A 17. § (4)–(5) bekezdését a 113/2016. (V. 30.) Korm. rendelet 18. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^59]: A 18. § a 96/2010. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^60]: A 18. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 6. §-ával megállapított, a 168/2026. (IX. 21.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^61]: A 18. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdése, a 168/2026. (IX. 21.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^62]: A 18/A. §-t megelőző alcímet a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^63]: A 18/A. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^64]: A 18/A. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^65]: A 18/B. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^66]: A 18/B. § (2) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^67]: A 18/C. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A 18/C. § (1) bekezdés b) pontja a 411/2017. (XII. 15.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^69]: A 18/C. § (1) bekezdés c) pontja a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^70]: A 18/C. § (1a) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 4. §-a iktatta be, a 113/2016. (V. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^71]: A 18/C. § (2) bekezdés a) pontja a 411/2017. (XII. 15.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^72]: A 18/C. § (2) bekezdés e) pontját a 290/2010. (XII. 21.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^73]: A 18/C. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^74]: A 18/C. § (4) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^75]: A 18/C. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^76]: A 18/C. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^77]: A 18/C. § (7) bekezdését a 113/2016. (V. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^78]: A 18/C. § (8) bekezdését a 113/2016. (V. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^79]: A 18/C. § (9) bekezdését a 113/2016. (V. 30.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^80]: A 19. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^81]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (3) bekezdésével megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^82]: A 20. § (1) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^83]: A 20. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (3) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 49. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^84]: A 20. § (1a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^85]: A 20. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^86]: A 21. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 18. §-ával megállapított, nyitó szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^87]: A 21. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^88]: A 21. § (1) bekezdés c) pontját a 179/2025. (VI. 30.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte.
+[^89]: A 21. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja, a 629/2022. (XII. 30.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^90]: A 21. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^91]: A 21. § (8) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 21. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^92]: A 23. § a) pontja a 113/2016. (V. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^93]: A 24. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^94]: A 24. § (2) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^95]: A 25. § (1) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^96]: A 25. § (2) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^97]: A 26. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^98]: A 27. § (1) bekezdés a) pontja a 277/2018. (XII. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^99]: A 27. § (1) bekezdés b) pontja a 277/2018. (XII. 21.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^100]: A 27. § (1) bekezdés c) pontja a 290/2010. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^101]: A 27. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^102]: A 27. § (3) bekezdését a 113/2016. (V. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja, a 277/2018. (XII. 21.) Korm. rendelet 10. § d) és e) pontja szerint módosított szöveg.
+[^103]: A 28. § (2) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 100. § (1) bekezdés a) pontja, a 233/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^104]: A 29. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 277/2018. (XII. 21.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^105]: A 29. § (4) bekezdése a 35/2024. (II. 29.) Korm. rendelet 283. §-ával megállapított szöveg.
+[^106]: A 31. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 10. §-ával megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^107]: A 31. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte, újonnan a 409/2012. (XII. 28.) Korm. rendelet 11. §-a iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^109]: A 33. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^110]: A 33. § (3) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^111]: A 33/A. §-t a 221/2013. (VI. 24.) Korm. rendelet 5. §-a iktatta be, szövege a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja, a 35/2024. (II. 29.) Korm. rendelet 284. § a) pontja szerint módosított szöveg.
+[^112]: A 34. § (1) bekezdés a) a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^113]: A 34. § (1a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 11. §-a iktatta be.
+[^114]: A 35. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szeint módosított szöveg.
+[^115]: A 35. § (1) bekezdés b) pontja a 290/2010. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^116]: A 35. § (1) bekezdés c) pontját a 179/2025. (VI. 30.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^117]: A 35. § új (2) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 19. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva, hatályon kívül helyezte a 168/2011. (VIII. 24.) Korm. rendelet 22. § (3) bekezdés a) pontja.
+[^118]: A 35. § eredeti (2) bekezdésének számozását a 395/2007. (XII. 27.) Korm. rendelet 19. § (2) bekezdése (3) bekezdésre változtatta. A 35. § (3) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése, a 411/2017. Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^119]: A 35/A. §-t a 15/2013. (I. 28.) Korm. rendelet 34. § (1) bekezdése iktatta be, szövege a 259/2021. (V. 20.) Korm. rendelet 7. §-ával megállapított, az 565/2021. (X. 4.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^120]: A 36. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^121]: A 36. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^122]: A 37. §-t megelőző alcím a 446/2013. (XI. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^123]: A 37. § (2) bekezdése a 96/2010. (III. 31.) Korm. rendelet 8. §-a, a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^124]: A 38. § (1) bekezdése a 259/2021. (V. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^125]: A 38. § (3) bekezdése a 259/2021. (V. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^126]: A 38. § (4) bekezdése a 259/2021. (V. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^127]: A 38. § (5) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^128]: A 39. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^129]: A 39. § (2) bekezdés g) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 284. § b) pontja szerint módosított szöveg.
+[^130]: A 39. § (2) bekezdés h) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^131]: A 39. § (2) bekezdés i) pontját a 290/2010. (XII. 21.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^132]: A 39. § (4) bekezdése a 113/2016. (V. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^133]: A 41. § a 290/2010. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^134]: A 42. § a 15/2013. (I. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^135]: A 42. § (4) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^136]: A 42. § (5) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^137]: A 42. § (6) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^138]: A 42. § (7) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^139]: A 43. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 290/2010. (XII. 21.) Korm. rendelet 17. §-a.
+[^140]: A 43. § (2) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 17. §-a iktatta be, egyidejűleg a 43. § eredeti szövegének megjelölését (1) bekezdésre változtatta. A 43. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^141]: A 43/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^142]: A 43/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 18. §-a iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) és e) pontja szerint módosított szöveg.
+[^143]: A 43/B. §-t megelőző alcímet a 221/2013. (VI. 24.) Korm. rendelet 6. §-a iktatta be.
+[^144]: A 43/B. §-t a 221/2013. (VI. 24.) Korm. rendelet 6. §-a iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^145]: A 44. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés a) pontja, a 233/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^146]: A 44. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^147]: A 44. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^148]: A 45. § (1) bekezdése a 411/2017. (XII. 15.) Korm. rendelet 10. §-ával megállapított szöveg. [A 45. § (1) bekezdésében a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontjával elrendelt módosítás, amely szerint az „eljáró hatóság” szövegrész helyébe az „eljáró idegenrendészeti hatóság” szöveg lép, nem vezethető át.]
+[^149]: A 45. § (5) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^150]: A 45. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^151]: A 46. § (3) bekezdésének felvezető szövege a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^152]: A 46. § (4) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^153]: A 47. § (1) bekezdése a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^154]: A 47. § (3) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 7. §-a iktatta be, szövege a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^155]: A 47. § (4) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 7. §-a iktatta be.
+[^156]: A 47. § (5) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 7. §-a iktatta be, szövege a 446/2013. (XI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^157]: A 48. § (1) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^158]: A 48. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^159]: A 48. § (2a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (2) bekezdése iktatta be, szövege a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^160]: A 48. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 19. § (3) bekezdése iktatta be, szövege a 113/2016. (V. 30.) Korm. rendelet 13. §-ával megállapított, a 168/2026. (IX. 21.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^161]: A 48. § (4) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 22. §-a, a 176/2019. (VII. 18.) Korm. rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^162]: A 49. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 20. §-a iktatta be.
+[^163]: Az 50. § a 182/2009. (IX. 10.) Korm. rendelet 544. §-a, a 70/2015. (III. 30.) Korm. rendelet 100. § (1) bekezdés b) pontja, a 233/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^164]: Az 51/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 21. §-a iktatta be.
+[^165]: Az 51/A. § (2) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^166]: Az 52. §-t megelőző alcím a 277/2018. (XII. 21.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^167]: Az 52. § (1) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^168]: Az 52. § (1a) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^169]: Az 52. § (1b) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^170]: Az 52. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^171]: Az 53. § a 290/2010. (XII. 21.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^172]: Az 53. § (2) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^173]: Az 54. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^174]: Az 54. § (2) bekezdés a) pontja a 277/2018. (XII. 21.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^175]: Az 54. § (4) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^176]: Az 55. § (1) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^177]: Az 55. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^178]: Az 55. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (4) bekezdésével megállapított, a 290/2010. (XII. 21.) Korm. rendelet 125. § (7) bekezdése szerint módosított szöveg.
+[^179]: Az 57. § (3) bekezdése a 403/2012. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^180]: Az 58. § záró szövegrésze a 403/2012. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^181]: A 63. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^182]: A 63. § (2) bekezdése a 301/2007. (XI. 9.) Korm. rendelet 115. § (1) bekezdésével megállapított szöveg.
+[^183]: A 63. § (3) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 115. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg.
+[^184]: A 63. § (4) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 115. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 95. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^185]: A 66. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 15. §-ával megállapított, a 411/2017. (XII. 15.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^186]: A 68. § a 409/2012. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^187]: A 69. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 543. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^188]: A 69. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^189]: A 69. § (3) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^190]: A 70. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^191]: A 71. § (2) bekezdése a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^192]: A 72. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^193]: A 73. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 545. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^194]: A 73. § (3) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 8. §-ával megállapított, a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^195]: A 73. §-t és az azt megelőző alcímet a 411/2017. (XII. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 284. § c) pontja szerint módosított szöveg.
+[^196]: A 73/B. §-t a 375/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^197]: A 74. § a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^198]: A 75. § a 290/2010. (XII. 21.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^199]: A 76. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^200]: A 76. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 26. §-a iktatta be, szövege a 277/2018. (XII. 21.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^201]: A 78. § a 277/2018. (XII. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^202]: A 78/A. §-t megelőző alcímet a 96/2010. (III. 31.) Korm. rendelet 6. §-a iktatta be.
+[^203]: A 78/A. §-t a 96/2010. (III. 31.) Korm. rendelet 6. §-a iktatta be.
+[^204]: A 78/A. § b) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^205]: A 78/A. § d) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^206]: A 78/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
+[^207]: A 78/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
+[^208]: A 78/B. § (2) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^209]: A 78/B. § (3) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^210]: A 78/B. § (3) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^211]: A 78/B. § (4) bekezdése a 259/2021. (V. 20.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^212]: A 78/B. § (5) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^213]: A 78/B. § (5) bekezdés b) pontja a 259/2021. (V. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^214]: A 78/B. § (6) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^215]: A 78/B. § (7) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^216]: A 78/B. § (8) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^217]: A 78/B. § (9) bekezdése a 259/2021. (V. 20.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^218]: A 78/B. § (10) bekezdését a 696/2021. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 217/2024. (VII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^219]: Az „Az Európai Határregisztrációs Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok” alcímet (78/C. §-t) a 166/2024. (VI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^220]: A 79. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 94. pontja hatályon kívül helyezte.
+[^221]: A 79/A. §-t és az azt megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 17. §-a iktatta be.
+[^222]: A hatálybalépés napja 2016. június 1.
+[^223]: A 79/A. § (3) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^224]: A hatálybalépés időpontja 2018. január 1.
+[^225]: A 79/A. § (4) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^226]: A hatálybalépés időpontja 2018. január 1.
+[^227]: A hatálybalépés időpontja 2018. január 1.
+[^228]: A 79/A. § (5) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 12. §-a iktatta be.
+[^229]: A hatálybalépés időpontja 2018. január 1.
+[^230]: A 79/B. §-t a 277/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
+[^231]: A hatálybalépés napja 2019. január 1.
+[^232]: A 79/C. §-t a 277/2018. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
+[^233]: A 79/C. § (1) bekezdése a 35/2024. (II. 29.) Korm. rendelet 284. § d) pontja szerint módosított szöveg.
+[^234]: A hatálybalépés napja 2019. január 1.
+[^235]: A 79/C. § (2) bekezdése a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^236]: A 79/D. §-t a 636/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^237]: A 79/D. § (1) bekezdése a 35/2024. (II. 29.) Korm. rendelet 284. § e) pontja szerint módosított szöveg.
+[^238]: A 79/D. § (3) bekezdése a 35/2024. (II. 29.) Korm. rendelet 284. § f) pontja szerint módosított szöveg.
+[^239]: A 80. § (2) bekezdése a 15/2013. (I. 28.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
+[^240]: A 80. § (2) bekezdés c) pontját a 446/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^241]: A 80. § (3) bekezdését a 327/2007. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 96/2010. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^242]: A 80. § (3) bekezdés 2. pontja a 441/2016. (XII. 16.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^243]: A 80. § (3) bekezdés 4. pontja a 267/2019. (XI. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^244]: A 80. § (3) bekezdés 5. pontját a 290/2010. (XII. 21.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 189/2020. (V. 7.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^245]: A 80. § (3) bekezdés 6. pontját a 189/2020. (V. 7.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^246]: A 80. § (3) bekezdés 7. pontját a 259/2021. (V. 20.) Korm. rendelet 10. §-a iktatta be.
+[^247]: A 80. § (4) bekezdését az 565/2021. (X. 4.) Korm. rendelet 22. §-a iktatta be.
+[^248]: A 80. § (5) bekezdését a 166/2024. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^249]: Az 1–2. mellékletet a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^250]: Az 1–2. mellékletet a 96/2010. (III. 31.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^251]: A 3. melléklet e rendelet 79. § (4) bekezdése alapján a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon hatályát vesztette. A hatálybalépés időpontja a 2007. december 6. napján kelt 2007/801/EK tanácsi határozat 1. cikke alapján 2007. december 21.

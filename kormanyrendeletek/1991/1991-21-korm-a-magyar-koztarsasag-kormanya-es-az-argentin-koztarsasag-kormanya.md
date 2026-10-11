@@ -1,0 +1,87 @@
+---
+title: "21/1991. (II. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya között a vízummentességre vonatkozó megállapodás kihirdetéséről"
+identifier: "21/1991. (II. 5.) Korm. rendelet"
+njt_id: "1991-21-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/21"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-02-05
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-21-20-22"
+retrieved: 2026-10-12
+---
+
+# 21/1991. (II. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya között a vízummentességre vonatkozó megállapodás kihirdetéséről
+
+*(A megállapodás megkötésére 1990. november 30-án került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Argentin Köztársaság Kormánya között a vízummentességre vonatkozó, 1990. november 30-án kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magyar külügyminisztériumi államtitkárnak az 1. §-ban említett megállapodást tartalmazó, az argentin külügy- és kultuszminisztériumi államtitkárhoz intézett jegyzéke a következő:
+
+,,Államtitkár Úr!
+
+Van szerencsém tájékoztatni Őnagyméltóságát arról, hogy a Magyar Kormánynak szándékában áll az Argentin Köztársasággal fenntartott kapcsolatok továbbfejlesztése, valamint
+
+a két ország állampolgárai utazásának megkönnyítése. Ezért a Magyar Köztársaság Kormánya készen állna Megállapodás létrehozására az Argentin Köztársaság Kormányával mindenfajta vízum megszüntetéséről a két ország diplomata, hivatalos, szolgálati vagy magán útlevéllel rendelkező állampolgárai részére, akik ideiglenes céllal utaznak a másik ország területére az alábbi feltételek mellett:
+
+1\. A Magyar Köztársaság és az Argentin Köztársaság azon állampolgárai, akik állampolgárságuknak megfelelő érvényes útlevéllel rendelkeznek, vízum nélkül léphetnek be a másik Szerződő Fél területére.
+
+2\. Azok a személyek, akik a Magyar Köztársaságba vagy az Argentin Köztársaságba az előző pontban megjelölt feltételek mellett utaznak be, három hónapig tartózkodhatnak a másik Szerződő Fél területén. Ezt az időtartamot a Felek illetékes hatóságai három hónappal meghosszabbíthatják.
+
+3\. A vízumkényszer feloldása nem mentesíti a két Szerződő Félnek a másik Szerződő Fél területére beutazó állampolgárait az alól a kötelezettség alól, hogy betartsák és tiszteletben tartsák az ott hatályban lévő jogszabályokat.
+
+4\. A diplomata, hivatalos vagy szolgálati útlevéllel rendelkező, az egyik Szerződő Félnek a másik Szerződő Fél területén működő diplomáciai vagy konzuli képviselete tagjai valamint családtagjaik és háztartási alkalmazottaik a vonatkozó belső szabályoknak megfelelően szolgálatuk idejére kapnak vízumot vagy tartózkodási engedélyt. Ezen személyek érkezéséről és végleges távozásáról a diplomáciai kapcsolatokról szóló 1963-as bécsi egyezményben előírtak alapján tájékoztatást kell adni.
+
+5\. Mindkét Szerződő Fél illetékes hatóságai fenntartják maguknak a jogot, hogy megakadályozzák olyan személyek beutazását területükre, akik a jelen Megállapodás értelmében szándékoznak belépni, de beutazásuk nem kívánatos. A Felek nem kötelesek megindokolni a beutazás megakadályozását.
+
+6\. A Szerződő Felek ideiglenesen felfüggeszthetik a jelen Megállapodás alkalmazását közrendi, közbiztonsági vagy közegészségügyi indokok alapján. Ilyen esetben diplomáciai úton tájékoztatni kell a másik Szerződő Felet a felfüggesztésről, valamint annak megszüntetéséről. Az értesítést követően a felfüggesztés, illetve annak megszüntetése azonnal hatályba lép.
+
+Amennyiben a fentiek elfogadhatók az Argentin Köztársaság Kormánya számára, úgy ez a jegyzék és az Ön azonos tartalmú és keltezésű jegyzéke Megállapodást képez Kormányaink között a fenti tárgyban.
+
+Jelen Megállapodás az aláírást követő 15. napon lép hatályba. A Megállapodás meghatározatlan időre szól, s azt bármelyik Fél felmondhatja. A felmondás a diplomáciai úton erről küldött értesítés kézhezvételét követő három hónap múlva lép hatályba.
+
+Megragadom az alkalmat, hogy Őnagyméltóságát legkíválóbb nagyrabecsülésemről biztosítsam.''
+
+## 3. §
+
+Az argentin külkapcsolatok államtitkárának az 1. §-ban említett megállapodást tartalmazó, a magyar külügyminisztériumi államtitkárhoz intézett spanyol nyelvű jegyzéke hivatalos magyar nyelvű fordítása a következő:
+
+,,Államtitkár Úr!
+
+Az Argentin Kormány azon óhajával kapcsolatban van szerencsém Önhöz fordulni, hogy szorosabb kölcsönös kapcsolatokat alakítson ki a Magyar Köztársasággal, és megkönnyítse a két ország közötti cserét. Ennek értelmében az Argentin Köztársaság Kormánya kész lenne arra, hogy a következő rendelkezések szerint megállapodást kössön a Magyar Köztársasággal mindkét ország azon állampolgárainak diplomata, hivatalos, szolgálati vagy általános útlevelébe ütendő minden vízumfajta eltörléséről, akik átmenetileg utaznak a másik ország területére.
+
+1\. A Magyar Köztársaság hazájukban érvényes útlevéllel rendelkező állampolgárai, valamint az Argentin Köztársaság hazájukban érvényes útlevéllel rendelkező állampolgárai vízumkérelem benyújtása nélkül utazhatnak be a másik Szerződő Fél területére.
+
+2\. Azok, akik az előző bekezdésben hivatkozott feltételek között utaznak az Argentin Köztársaságba vagy a Magyar Köztársaságba, három hónapos időtartamig tartózkodhatnak a másik Fél területén. Ezt a határidőt az egyes Fél illetékes hatóságai három hónapos kiegészítő időtartammal meghosszabbíthatják.
+
+3\. A vízummentesség nem mentesíti a két Szerződő Félnek a másik Fél területére utazó állampolgárait a Feleknél érvényben lévő törvények teljesítése és tiszteletben tartása alól.
+
+4\. Az egyik Szerződő Fél diplomáciai vagy konzuli képviseletének a másik Szerződő Fél területén tartózkodó azon tagjai, akik diplomata, hivatalos vagy szolgálati útlevéllel rendelkeznek, valamint családjuk tagjai és háztartási személyzetük — kiküldetésük időtartamára — tartózkodási vízumot vagy engedélyt kapnak, amelyet a vonatkozó belső szabályozásnak megfelelően adnak meg. Az ilyen személyek érkezéséről és végleges elutazásáról hivatalos értesítést kell küldeni a diplomáciai kapcsolatokról szóló 1961-es Bécsi Konvencióban és a konzuli kapcsolatokról szóló 1963-as Bécsi Konvencióban foglaltak szerint.
+
+5\. Mindkét Fél illetékes hatóságai fenntartják maguknak a jogot arra, hogy megakadályozzák azon személyeknek területükre történő beutazását, akik a jelen Megállapodásra kívánnak hivatkozni, abban az esetben, ha beutazásukat alkalmatlannak ítélik. A Feleknek nem kell az említett tiltást megindokolniuk.
+
+6\. A Szerződő Felek ideiglenesen felfüggeszthetik a jelen Megállapodás alkalmazását közrendi biztonsági vagy közegészségügyi okokból. Ilyen esetben úgy az intézkedés felfüggesztéséről, mint annak visszavonásáról diplomáciai úton, hivatalosan értesíteni kell a másik Szerződő Felet, és az intézkedés az értesítés után azonnal hatályba lép.
+
+A fentiekben foglaltak elfogadhatók a Magyar Köztársaság Kormánya számára, ez a Jegyzék és Excellenciád azonos tartalmú és azonos keltezésű Jegyzéke képezi az ezen tárgyban Kormányaink között létrejött Megállapodást.
+
+A jelen Megállapodás aláírása időpontjától számított tizenöt napon belül lép érvénybe. Meghatározatlan időre szól és bármely fél által felmondható. A felmondás a diplomáciai úton történő kézhezvételtől számított három hónap elteltével lép életbe.
+
+Megkülönböztetett tisztelettel üdvözlöm Excellenciádat.''
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. december 15. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 4. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 14. pontja szerint módosított szöveg.

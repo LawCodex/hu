@@ -1,0 +1,229 @@
+---
+title: "165/1994. (XII. 9.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között, az 1978. március 17-i, kiegészítő jegyzőkönyvvel módosított, 1959. április 20-i, a büntetőügyekben nyújtandó jogsegélyről szóló európai egyezmény kiegészítéséről és alkalmazásának megkönnyítéséről szóló, Budapesten, 1993. október hó 27. napján aláírt szerződés kihirdetéséről"
+identifier: "165/1994. (XII. 9.) Korm. rendelet"
+njt_id: "1994-165-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/165"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-12-09
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-165-20-22"
+retrieved: 2026-10-12
+---
+
+# 165/1994. (XII. 9.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között, az 1978. március 17-i, kiegészítő jegyzőkönyvvel módosított, 1959. április 20-i, a büntetőügyekben nyújtandó jogsegélyről szóló európai egyezmény kiegészítéséről és alkalmazásának megkönnyítéséről szóló, Budapesten, 1993. október hó 27. napján aláírt szerződés kihirdetéséről
+
+*[A szerződés, a XX. Cikke (1) bekezdése alapján, 1994. december hó 1. napján lép hatályba.]*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Osztrák Köztársaság között, az 1978. március 17-i kiegészítő jegyzőkönyvvel módosított, 1959. április 20-i, a büntetőügyekben nyújtandó jogsegélyről szóló európai egyezmény kiegészítéséről és alkalmazásának megkönnyítéséről szóló, Budapesten, 1993. október hó 27. napján aláírt szerződést e rendelettel kihirdeti.
+
+## 2. §
+
+A szerződés magyar nyelvű szövege a következő:
+
+**SZERZŐDÉS**
+
+**a Magyar Köztársaság és az Osztrák Köztársaság között, az 1978. március 17-i, kiegészítő jegyzőkönyvvel módosított, 1959. április 20-i, a büntetőügyekben nyújtandó jogsegélyről szóló európai egyezmény kiegészítéséről és alkalmazásának megkönnyítéséről**
+
+*I. Cikk*
+
+(az Egyezmény 1. Cikkéhez)
+
+Jogsegélyt olyan bűncselekmények miatt indult eljárásban is nyújtanak, amelyek üldözésére akkor, amikor a jogsegély iránti kérelem előterjesztésre kerül, a megkereső Állam igazságügyi hatóságai rendelkeznek hatáskörrel, és annak üldözésére a megkeresett Állam igazságügyi vagy közigazgatási hatóságai rendelkeznének hatáskörrel.
+
+*II. Cikk*
+
+(az Egyezmény 1. Cikkéhez, a kiegészítő jegyzőkönyv\
+3\. Cikkével összefüggésben)
+
+Az Egyezmény és a jelen Szerződés alkalmazásra kerül
+
+*a)* a kegyelmi ügyekben;
+
+*b)* valamint a jogtalan őrizetbevétel, más a büntetőeljárás miatt előállott hátrány vagy a jogtalan elítélés miatti kártérítési eljárásban is, feltéve, ha más államközi szerződés rendelkezéseit nem kell alkalmazni.
+
+*III. Cikk*
+
+(az Egyezmény 2. Cikkéhez, a kiegészítő jegyzőkönyv\
+1\. Cikkével összefüggésben)
+
+(1) Annak megítélésénél, hogy a megkeresett Államban a vonatkozó bűnüldözésre igazságügyi vagy közigazgatási hatóság rendelkezik-e hatáskörrel, nem kerül vizsgálatra, hogy ebben az államban is van-e azonos jellegű illeték vagy adó, vám vagy monopólium.
+
+(2) A Szerződő Államok jogszabályai szerint a pénzügyekkel kapcsolatos titoktartási kötelezettség nem akadálya az ezen Cikk szerint nyújtandó jogsegélynek. Azok a körülmények vagy tények, amelyek az egyik Szerződő Állam igazságügyi vagy közigazgatási hatóságai tudomására jutnak a jogsegélykérelem folytán, ezen állam pénzügyekben fennálló titoktartási kötelezettségre vonatkozó jogszabályai szerint kezelendők.
+
+*IV. Cikk*
+
+(az Egyezmény 3. Cikkéhez)
+
+(1) Azokat a tárgyakat, amelyek bűncselekményből származnak, vagy amelyeket az ilyen tárgyak értékesítésének ellenértékeként szereztek, meg kell küldeni a sértettnek történő kiszolgáltatás végett, amennyiben ez a megkeresett Állam joga szerint megengedett, és
+
+*a)* ezekre a tárgyakra, bizonyítékként nincs szükség bíróság vagy közigazgatási hatóság előtt folyamatban lévő eljárásban,
+
+*b)* a tárgyak a megkeresett Államban nem esnek elkobzás vagy lefoglalás alá,
+
+*c)* harmadik személy azokra jogot nem érvényesít.
+
+(2) Az (1) bekezdés szerint előterjesztett kérelemhez nem szükséges a lefoglalást elrendelő bírósági végzés.
+
+(3) A megkeresett Állam nem fogja érvényesíteni a vám- és adóügyi szabályai szerinti vámzálogjogot és egyéb hasonló jogot olyan tárgyak átadásakor, amelyek visszaadásáról lemondott, kivéve, ha a tárgyak bűncselekmény által sértett tulajdonosa maga is adóval tartozik.
+
+*V. Cikk*
+
+(az Egyezmény 4. Cikkéhez)
+
+(1) A büntetőeljárásban részt vevő hatóságok képviselőinek, valamint az egyéb érdekelteknek és jogi képviselőiknek kérelemre engedélyezni kell a megkeresett Államban foganatosított jogsegély cselekményeknél a jelenlétet. Az említettek kiegészítő kérdéseket és intézkedéseket indítványozhatnak. Az Egyezmény 12. Cikke értelemszerűen alkalmazást nyer.
+
+(2) A másik Állam hatósági képviselőinek a szolgálat ellátásához a Magyar Köztársaságban, ha az eljárás a vádemelés előtti szakaszban van a legfőbb ügyész hozzájárulására, azt követően az igazságügy-miniszter hozzájárulására, az Osztrák Köztársaságban a szövetségi igazságügy-miniszter hozzájárulására van szükség.
+
+*VI. Cikk*
+
+(az Egyezmény 5. Cikkéhez, a kiegészítő jegyzőkönyv\
+2\. Cikkével összefüggésben)
+
+Tárgyak lefoglalására vagy házkutatásra vonatkozó jogsegélyt csak akkor lehet teljesíteni, ha a megkeresés alapjául szolgáló cselekmény a megkeresés előterjesztésének időpontjában mindkét Államban bírósági hatáskörbe tartozik.
+
+*VII. Cikk*
+
+(az Egyezmény 6. Cikkéhez)
+
+Az Egyezmény 3. Cikk (1) bekezdésében említett bizonyítékok és iratok visszaadásáról semmiképp sem lehet lemondani, ha harmadik személy, aki azokkal kapcsolatban jogokat kíván érvényesíteni, a lemondáshoz nem járul hozzá.
+
+*VIII. Cikk*
+
+(az Egyezmény 10. Cikkéhez)
+
+Az Egyezmény 10. Cikk (2) bekezdése alkalmazást nyer tanú vagy szakértő megidézésének minden esetében. Ezen személyek maguk kérhetnek az Egyezmény 10. Cikk (3) bekezdése szerint előleget.
+
+*IX. Cikk*
+
+(az Egyezmény 11. és 12. Cikkéhez)
+
+(1) Ha a megkeresett Állam engedélyezi a jogsegély teljesítésénél egy olyan személy jelenlétét, aki a megkereső Állam felségterületén őrizetben van, köteles e személyt a felségterületén történő tartózkodás időtartamára őrizetben tartani, és a jogsegély foganatosítása után a megkereső Államnak haladéktalanul visszaadni, amennyiben ezen Állam nem kéri a szabadon bocsátását.
+
+(2) Ha egy harmadik állam engedélyezi a jogsegély teljesítésénél egy olyan személy jelenlétét, aki az egyik Szerződő Állam felségterületén őrizetben van, akkor e fogoly átszállítására a másik Szerződő Állam felségterületén az Egyezmény 11. Cikk (2) és (3) bekezdései az irányadóak.
+
+(3) Az Egyezmény 12. Cikkének rendelkezései kerülnek alkalmazásra az előző (1) és (2) bekezdésben említett esetekben.
+
+*X. Cikk*
+
+(az Egyezmény 3. Cikkéhez)
+
+A megkeresett Állam a másik Állam biztonsági hatóságai által a büntető igazságszolgáltatás céljából kért felvilágosításokat a bűnügyi nyilvántartásból olyan mértékben teljesíti, amilyen mértékben saját biztonsági hatóságai hasonló esetekben kapnának.
+
+*XI. Cikk*
+
+(az Egyezmény 14. Cikkéhez)
+
+Házkutatásra, vagy bizonyítékok vagy iratok lefoglalására vonatkozó megkereséshez csatolni kell a bírósági rendelkezés kiadmányát vagy hitelesített másolatát.
+
+*XII. Cikk*
+
+(az Egyezmény 15. Cikkéhez)
+
+(1) Amennyiben e Szerződés másképp nem rendelkezik, a két Állam ügyészségei, valamint a magyar ügyészségek egyrészről, és az osztrák bíróságok másrészről a vádemelésig közvetlenül érintkezhetnek egymással. Ez nem zárja ki egyrészről a Magyar Köztársaság Legfőbb Ügyészségén, másrészről az Osztrák Köztársaság Szövetségi Igazságügyi Minisztériumán keresztül történő érintkezést. A vádemelés után az Egyezmény 15. Cikk (1) bekezdése szerint előírt hivatalos utat kell betartani.
+
+(2) A házkutatásra vagy lefoglalásra, tárgyak átadására, foglyok átadására vagy átszállítására vonatkozó megkereséseket egyrészről a Magyar Köztársaság Igazságügyi Minisztériumán vagy Legfőbb Ügyészségén, másrészről az Osztrák Köztársaság Szövetségi Igazságügyi Minisztériumán keresztül kell továbbítani.
+
+(3) A sértett részére szóló, az eljárás megszüntetésére vonatkozó értesítéseket, valamint olyan iratokat, amelyek kézbesítése nem von maga után jogkövetkezményt, közvetlenül posta útján lehet kézbesíteni a két Szerződő Állam között a postai forgalomra vonatkozó előírások szerint. Amennyiben tértivevény alkalmazása szükséges, az iratot nemzetközi tértivevénnyel kell ellátni. A postai úton továbbított iratokat úgy kell tekinteni, hogy azokat a címzett nem kapta meg, ha
+
+1\. azok kézbesítése az Egyezmény vagy ezen Szerződés alapján nem lett volna megengedett, vagy
+
+2\. az irathoz nem volt azon Állam nyelvén készült hiteles fordítás csatolva, ahol azt kézbesíteni kellett.
+
+(4) Ezen Szerződés X. Cikkében említett megkeresést egyrészről a Magyar Köztársaság Belügyminisztériumán, másrészről az Osztrák Köztársaság Szövetségi Belügyminisztériumán keresztül kell továbbítani.
+
+*XIII. Cikk*
+
+(az Egyezmény 16. Cikkéhez)
+
+(1) Eltérő rendelkezés hiányában a megkeresésekhez és egyéb iratokhoz, amelyek a megkereső Állam nyelvén készültek, nem kell fordítást csatolni.
+
+(2) A kézbesítendő iratokhoz, különösen a bírósági eljárási és érdemi határozatokhoz, a megkereső Állam hites tolmácsa által a megkeresett Állam nyelvén készült fordítást kell csatolni. Nincs szükség a tolmács aláírásának hitelesítésére. Amennyiben a kézbesítendő irathoz nincs a megkeresett Állam nyelvén készült hiteles fordítás csatolva, akkor a megkeresett bíróság arra szorítkozik, hogy kézbesítést az iratnak a címzett részére történő átadással akkor teljesíti, ha azt a címzett önként átveszi.
+
+(3) Az ezen Szerződés alapján előterjesztett megkeresésekhez, amelyeket a Szerződés XII. Cikk (1) bekezdése szerint a hatóságok közvetlen érintkezésben küldenek meg, vagy iratokhoz, amelyeket postai úton kézbesítenek, minden esetben csatolni kell a megkeresett Állam nyelvén készült hiteles fordítást.
+
+*XIV. Cikk*
+
+(az Egyezmény 20. Cikkéhez)
+
+Azokat a költségeket, amelyek tárgyaknak a sértett részére való átadás végett történő megküldésével (IV. Cikk), és amelyek foglyok átadásával vagy átszállításával kapcsolatban merülnek fel, a megkereső Állam viseli.
+
+*XV. Cikk*
+
+(az Egyezmény 21. Cikkéhez)
+
+(1) Az Egyezmény 21. Cikke szerinti feljelentést a Magyar Köztársaság Legfőbb Ügyészségén és az Osztrák Köztársaság Szövetségi Igazságügyi Minisztériumán keresztül kell továbbítani. Az Egyezmény 21. Cikk (2) bekezdése szerinti értesítéseknél az ügyészségek közötti közvetlen érintkezés megengedett.
+
+(2) Az Egyezmény 21. Cikke szerint megküldött feljelentés alapján az illetékes hatóságok a bűnüldözést a megkeresett Állam jogszabályai szerint úgy indítják meg, mint azt teszik a területükön elkövetett bűncselekmények esetében. Az idegen tulajdon ellen elkövetett bűncselekmények miatti eljárás akkor is megengedett, ha a megkeresett Államban a kárösszegre tekintettel a közigazgatási hatóságok rendelkeznek hatáskörrel.
+
+(3) Közlekedési bűncselekmények megítélésénél a megkeresett Államban a cselekmény helyén hatályos közlekedési szabályok az irányadók.
+
+(4) A büntetőeljárás megindításához szükséges sértetti nyilatkozat (indítvány vagy felhatalmazás), amely a megkereső Államban rendelkezésre áll, hatályos a megkeresett Államban is. Kizárólag a megkeresett Állam joga szerint szükséges nyilatkozatot ezen Állam által meghatározott megfelelő időtartam alatt pótolni lehet.
+
+(5) A feljelentésnek tartalmaznia kell a tényállás rövid leírását. A feljelentéshez csatolni kell:
+
+*a)* az ügyiratot eredetiben vagy hiteles másolatban, valamint a figyelembe veendő tárgyi bizonyítékokat;
+
+*b)* a tényállásra és a büntetésre vonatkozó, az elkövetési hely szerint a cselekményre alkalmazandó jogszabályok leírását;
+
+*c)* közlekedési bűncselekményeknél ezenkívül a megítéléshez irányadó közlekedési szabályok másolatát.
+
+(6) Az (5) bekezdésben említett tárgyakat és az eredeti ügyiratokat a megkereső Állam részére a lehető legrövidebb időn belül vissza kell küldeni, amennyiben annak visszaadásáról nem történik lemondás. A megkeresett Államnak vagy harmadik személynek a megküldött tárgyakkal kapcsolatban fennálló jogai érintetlenek maradnak.
+
+(7) Az Egyezmény 21. Cikke szerinti feljelentés szünetelteti az elévülés folyását a megkeresett Államban. Erre vonatkozólag a megkeresésnek a megkeresett Államba történő elküldésének az időpontja az irányadó.
+
+(8) Az Egyezmény 21. Cikkének és ezen Cikknek az alkalmazásával kapcsolatban felmerült költségek nem kerülnek megtérítésre.
+
+*XVI. Cikk*
+
+(az Egyezmény 21. Cikkéhez)
+
+A megkereső Állam igazságügyi hatóságai eltekintenek a további bűnüldözési intézkedésektől, és amennyiben a terhelt személyt már elítélték, a végrehajtási intézkedésektől a feljelentett cselekmény miatt:
+
+*a)* ha a megkeresett Államban kiszabott büntetést vagy megelőző intézkedést végrehajtották vagy elengedték, vagy a végrehajtást teljesen vagy részben felfüggesztették, vagy az elévült;
+
+*b)* ha a megkeresett Államban bizonyítási okokból vagy azért, mert a cselekmény nem volt bűncselekménynek tekinthető, egy jogerős felmentés vagy az eljárás megszüntetése következett be;
+
+*c)* illetőleg mindaddig, amíg a büntetés vagy a megelőző intézkedés végrehajtása teljesen vagy részben felfüggesztésre került.
+
+*XVII. Cikk*
+
+(az Egyezmény 22. Cikkéhez, a kiegészítő jegyzőkönyv\
+4\. Cikkével összefüggésben)
+
+Az elítélésekről szóló értesítést a Magyar Köztársaság belügyminisztere és az Osztrák Köztársaság szövetségi belügyminisztere legalább egyszer negyedévenként egymás között kicserélik.
+
+*XVIII. Cikk*
+
+Ezen Szerződés értelmében a ,,megelőző intézkedés'' kifejezés egy olyan, a büntetőbíróság által elrendelt szabadságot elvonó intézkedést jelent, amelyet a büntetés mellett vagy helyette rendelnek el.
+
+*XIX. Cikk*
+
+(az Egyezmény 29. Cikkéhez)
+
+Abban az esetben, ha a Szerződő Államok egyike felmondja az Egyezményt, a felmondás a Magyar Köztársaság és az Osztrák Köztársaság viszonylatában azt az időpontot követő két évvel lép hatályba, amikor a felmondásról való értesítés az Európa Tanács Főtitkárához beérkezett.
+
+*XX. Cikk*
+
+(1) Ezen Szerződés azon hónapot követő harmadik hónap első napján lép hatályba, amikor a Szerződő Államok diplomáciai úton, írásban értesítették egymást, hogy a hatálybalépéshez szükséges mindenkori belső feltételeket teljesítették.
+
+(2) A Szerződés határozatlan ideig marad hatályban, mindaddig, amíg az egyik Szerződő Állam a Szerződést írásban, diplomáciai úton fel nem mondja; ebben az esetben a Szerződés a felmondást követő egy év után, de legkésőbb azon időpontban hatályát veszti, amikor a kiegészítő jegyzőkönyvvel módosított európai bűnügyi jogsegélyegyezmény ezen Szerződés felei között hatályát veszti.
+
+Ennek hiteléül a két Szerződő Állam meghatalmazottjai ezen Szerződést aláírták és pecsétjükkel látták el.
+
+Készült Budapesten, 1993. október 27-én, két eredeti példányban, magyar és német nyelven, mindkét szöveg egyaránt hiteles.
+
+## 3. §
+
+(1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1994. december hó 1. napjától kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról az igazságügyért felelős miniszter és a legfőbb ügyész gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.

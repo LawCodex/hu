@@ -1,0 +1,177 @@
+---
+title: "9/2005. (I. 19.) Korm. rendelet a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetek együttműködésének részletes szabályairól"
+identifier: "9/2005. (I. 19.) Korm. rendelet"
+njt_id: "2005-9-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/9"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-01-19
+in_force_from: 2008-05-16
+last_amended: 2026-01-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-9-20-22"
+retrieved: 2026-10-12
+---
+
+# 9/2005. (I. 19.) Korm. rendelet a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetek együttműködésének részletes szabályairól
+
+A postáról szóló 2003. évi CI. törvény (a továbbiakban: Pt.) 53. §-a (1) bekezdésének i) pontjában kapott felhatalmazás alapján a postai szolgáltatók, a postai közreműködők és a nemzetbiztonság, valamint a közbiztonság védelme érdekében titkos információgyűjtésre, valamint a büntetőeljárás keretében titkos adatszerzésre felhatalmazott szervezetek közötti együttműködés szabályozására a Kormány a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet hatálya a titkos információgyűjtésre és a titkos adatszerzésre (a továbbiakban együtt: titkos információgyűjtés), valamint az ezzel összefüggő tevékenységek végzésére – külön törvényben – felhatalmazott szervezetekre és a postai szolgáltatást végzőkre (a továbbiakban: a postai szolgáltató), a postai közreműködőkre, valamint a Nemzeti Hírközlési Hatóságra (a továbbiakban: Hatóság) terjed ki.
+
+(2)[^1] Az (1) bekezdésben megjelölt szervezetek közötti együttműködésre e rendelet rendelkezéseit kell alkalmazni, amennyiben a titkos információgyűjtés végrehajtása a postai szolgáltatásokról szóló 2012. évi CLIX. törvényben (a továbbiakban: Postatv.) meghatározott postai tevékenységet érinti.
+
+## A titkos információgyűjtés feltételeinek biztosítása
+
+### 2. §
+
+(1)[^2] A Hatóság a postai szolgáltató által a Postatv. 11. §-a alapján benyújtott kérelemről, illetve a postai szolgáltatótól a Postatv. 10. § (1) bekezdése alapján érkezett bejelentésről, valamint a Postatv. 13. § (1) bekezdésében, illetve 13. § (2) bekezdésében szabályozott bejelentésekről 15 napon belül tájékoztatja a Nemzetbiztonsági Szakszolgálatot (a továbbiakban: NBSZ).
+
+(2) A postai szolgáltató az NBSZ kérésére köteles megadni mindazokat az adatokat, információkat, amelyek a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához, valamint az ezzel összefüggő feladatok ellátásához szükségesek.
+
+### 3. §
+
+A postai szolgáltató köteles az NBSZ erre vonatkozó előzetes igénye esetén a titkos információgyűjtés feladatainak végrehajtására megfelelő zárt helyiséget rendelkezésre bocsátani, és biztosítani, hogy abba az NBSZ kijelölt munkatársai – a szolgáltató munkaidejében bármikor – beléphessenek, ott szükség szerint munkát végezzenek, a titkos információgyűjtéshez szükséges eszközöket használjanak.
+
+### 4. §
+
+(1) A postai szolgáltató és a postai közreműködő technológiai és logisztikai hálózati rendszer-, illetve szolgáltatásfejlesztési elképzeléseit, terveit köteles egyeztetni az NBSZ-szel annak érdekében, hogy a fejlesztések ne akadályozzák, vagy ne tegyék lehetetlenné a titkos információgyűjtést.
+
+(2) A postai szolgáltató nem alkalmazhat közreműködőt olyan módon, amely a titkos információgyűjtést kizárja vagy ellehetetleníti.
+
+## Az igazságügyért felelős miniszter vagy bíró engedélyéhez nem kötött titkos információgyűjtés eljárási rendje[^3]
+
+### 5. §
+
+(1)[^4] Az igazságügyért felelős miniszter vagy bíró engedélyéhez nem kötött titkos információgyűjtés során a titkos információgyűjtésre felhatalmazott szervezetek – a rájuk vonatkozó törvényi rendelkezéseknek megfelelően, figyelemmel az információs önrendelkezési jogról és az információszabadságról szóló törvény előírásaira – közvetlenül és az NBSZ-en keresztül is jogosultak a Postatv. 54. § (1) bekezdése szerinti adatok megkérésére.
+
+(2) Az (1) bekezdésben foglaltak alkalmazásának jogszerű végrehajtásáért az ügyben eljáró titkos információgyűjtésre felhatalmazott szervezet a felelős.
+
+## Az igazságügyért felelős miniszter vagy bíró engedélyéhez kötött titkos információgyűjtés eljárási rendje[^5]
+
+### 6. §
+
+(1)[^6] Amennyiben a titkos információgyűjtés eszközeinek, illetve módszereinek postai szolgáltatónál történő alkalmazásához az igazságügyért felelős miniszter vagy bíró engedélye szükséges, a titkos információgyűjtésre felhatalmazott szervezetek igényeinek kielégítését – külön törvényben meghatározott feltételek mellett – az NBSZ látja el. Az eszköz, illetve módszer alkalmazási feltételeinek biztosítását a postai szolgáltatótól írásban kell megrendelni.
+
+(2) Az (1) bekezdésben említett titkos információgyűjtő eszközök, módszerek alkalmazási feltételeinek biztosítását a postai szolgáltatótól kizárólag az NBSZ igényelheti, és ezekben az esetekben a megszerzett adatokat, információkat és küldeményeket a szolgáltató az NBSZ-en kívül más személynek nem adhatja át, illetve más számára nem teheti hozzáférhetővé.
+
+(3) A külön törvényekben meghatározott kivételes engedélyezés, illetve sürgősségi, valamint halaszthatatlan elrendelés alapján azonnali intézkedést igénylő esetekben a postai szolgáltatónak szóban is továbbítható megrendelés, amelyet haladéktalanul írásban is meg kell erősíteni, vagy le kell mondani. Ha a postai szolgáltató az NBSZ által szóban továbbított megrendelésnek írásba foglalt megerősítését az azt követő első munkanapon nem kapja meg, erről az NBSZ-t írásban haladéktalanul tájékoztatja, és a konkrét feladat végrehajtásában a további közreműködést megtagadja.
+
+(4) A külön törvényben meghatározott engedély beszerzéséért és az alkalmazás jogszerűségéért a titkos információgyűjtésre felhatalmazott szervezet, míg az engedélyben foglaltak szakszerű végrehajtásáért az NBSZ a felelős.
+
+## A költségviselés szabályai
+
+### 7. §[^7]
+
+A titkos információgyűjtésre felhatalmazott szervek részére a Postatv. 54. § (1) bekezdésében meghatározott adatokból történő adatszolgáltatás, a Postatv. 55. § (6) bekezdése szerinti szolgáltatás, valamint a titkos információgyűjtés feltételeinek biztosítása a Postatv. 38. §-a alapján díj-, költség- és térítésmentes.
+
+## Az adat- és titokvédelemre vonatkozó rendelkezések
+
+### 8. §
+
+(1)[^8] Az e rendelet alapján a postai szolgáltatóval való együttműködés során végzett titkos információgyűjtéssel, annak eszközével és módszerével, valamint azok alkalmazásával összefüggő valamennyi, továbbá a Postatv. 38. §-ában, illetve 55. § (6) bekezdésében meghatározottakra vonatkozó adatot a minősített adat védelméről szóló jogszabályok alapján kell minősíteni, és azok szerint kell kezelni.
+
+(2) A postai szolgáltató és a titkos információgyűjtésre felhatalmazott szervezet – amennyiben az együttműködés tartalma szükségszerűen igényli minősített adatok átadását – titokvédelmi szerződést (a továbbiakban: szerződés) köt a minősített adatok átadásának és kezelésének feltételeiről.
+
+(3) A szerződés megkötését a titkos információgyűjtésre felhatalmazott szervezet kezdeményezheti. A kezdeményezéstől számított 30 napon belül a szerződést meg kell kötni.
+
+(4) A szerződésben a (2) bekezdésben meghatározottakon túlmenően rögzíteni kell azt is, hogy a postai szolgáltató az általa a titkos információgyűjtés végzésével összefüggésben megismert minősített adatot kizárólag a hatályos jogszabályoknak megfelelő feltételekkel és módon továbbíthatja külföldre.
+
+(5) A szerződés kiterjedhet az együttműködést érintő egyéb rendelkezésekre is.
+
+### 9. §
+
+A titkos információgyűjtésre felhatalmazott szervezetek a postai szolgáltató számára csak azokat az adatokat továbbíthatják, amelyek a titkos információgyűjtés végrehajtása érdekében a postai szolgáltatóra háruló kötelezettségek teljesítéséhez elengedhetetlenül szükségesek.
+
+### 10. §
+
+A postai szolgáltató köteles meg-, illetve visszaküldeni a titkos információgyűjtés során vagy céljából keletkezett adatokat tartalmazó, e célra fenntartott adathordozók valamennyi példányát a titkos információgyűjtésre felhatalmazott szervezetnek, illetve köteles az adatok átadása után a saját rendszerében keletkezett adatok visszavonhatatlan törléséről gondoskodni. Ezekről az adatokról másolatot nem készíthet, és másodpéldányt nem tárolhat. Nem jogosult továbbá a titkos információgyűjtéssel összefüggésben tudomására jutott, birtokába került adatok gyűjtésére, archiválására.
+
+### 11. §
+
+(1) A postai szolgáltató alkalmazottai abban az esetben vonhatóak be a titkos információgyűjtésre felhatalmazott szervezetek részére végzett szolgáltatás teljesítésébe, ha a titkos információgyűjtés műszaki eszközökkel vagy egyéb műszaki jellegű megoldással nem valósítható meg.
+
+(2) A postai szolgáltató alkalmazottainak bevonása esetén a postai szolgáltató kötelezettsége olyan technológiai, szervezeti megoldás alkalmazása, amely postai tevékenység végrehajtásával leplezi a titkos információgyűjtés alkalmazásának támogatását.
+
+(3)[^9]
+
+(4) A postai szolgáltató az igényelt szolgáltatás teljesítésébe bevont alkalmazottai részére olyan feladatkört és jogosultságot köteles biztosítani, amely lehetővé teszi e tevékenység titkos – a titkos információgyűjtésre felhatalmazott szervezet törvényes igényeinek megfelelő –, késedelem nélküli ellátását.
+
+### 12. §
+
+A postai szolgáltató köteles gondoskodni a titkos információgyűjtéssel összefüggő, a postai küldemények feldolgozását végző technikai rendszerekhez, az abban tárolt adatokhoz, valamint a titkos információgyűjtés eszközéhez, illetve konkrét módszeréhez való illetéktelen hozzáférés kizárásáról.
+
+## Az együttműködés részletes szabályai
+
+### 13. §
+
+(1)[^10] A titkos információgyűjtésre felhatalmazott szervezetek a Postatv. és az e rendeletben foglalt feladatok teljesítésére vonatkozó részletszabályok meghatározása érdekében a postai szolgáltatóval írásbeli együttműködési megállapodás (a továbbiakban: megállapodás) megkötését kezdeményezhetik.
+
+(2) Kezdeményezés esetén a postai szolgáltató köteles a kezdeményezéstől számított 60 napon belül megkötni a megállapodást. A megállapodás tartalmát a titkos információgyűjtésre felhatalmazott szervezet tevékenységének jellegére tekintettel az együttműködő felek határozzák meg.
+
+(3) Az NBSZ-szel kötendő megállapodásnak tartalmazni kell:
+
+a) a titkos információgyűjtés keretében a külön törvényekben meghatározott engedély alapján megrendelt szolgáltatás igénylésének, az igény teljesítésének módját és rendjét, ezen belül az e rendelet 3. §-ában meghatározott zárt helyiség biztosításának követelményeit, valamint feltételeit;
+
+b) a kapcsolattartás szintjét és módját;
+
+c) a postai technológiai, logisztikai-hálózati rendszer- és szolgáltatásfejlesztéssel kapcsolatos tájékoztatási és egyeztetési eljárás szabályait;
+
+d) az adat- és titokvédelmi szabályok érvényesítésének módját;
+
+e) a postai szolgáltató részéről közreműködő alkalmazottak kiválasztásának, egyeztetésének, ellenőrzésének rendjét;
+
+f) az együttműködési megállapodásban foglaltak teljesülésének, szükség szerinti közös értékelésének és felülvizsgálatának rendjét;
+
+g) minden olyan feltételt, eljárást, amelyet az *a)–f)* pontokon túlmenően az együttműködő felek szükségesnek tartanak.
+
+### 14. §
+
+Amennyiben a felek valamelyik együttműködési kérdésben nem tudnak megállapodni, úgy bármelyikük kérheti a Hatóság Tanácsának Elnökétől egyeztetési eljárás lefolytatását.
+
+### 15. §
+
+A titkos információgyűjtésre felhatalmazott szervezetek a külön törvényben meghatározott feladataik ellátása érdekében a postai szolgáltató alkalmazási feltételeinek egyébként megfelelő alkalmazottjuk foglalkoztatása céljából – külön megállapodásban meghatározott időtartamra és feltételekkel – munkaviszony létesítését kezdeményezhetik a postai szolgáltatóknál.
+
+## Jogkövetkezmények
+
+### 16. §
+
+(1)[^11] E rendeletben foglalt kötelezettségek postai szolgáltatónak felróható okból történő megsértése esetén a Postatv. 68. §-ában foglaltak alkalmazandóak. A kötelezettségek megsértéséről a titkos információgyűjtésre felhatalmazott szervezet tájékoztatja a Hatóság Tanácsának Elnökét.
+
+(2) Amennyiben a titokvédelmi szerződés a 8. § (3) bekezdésében, valamint az együttműködési megállapodás a 13. § (2) bekezdésében meghatározott határidőben – a postai szolgáltatónak felróható okból – nem kerül megkötésre, erről a titkos információgyűjtésre felhatalmazott szervezet tájékoztatja a Hatóság Tanácsának Elnökét.
+
+(3) Amennyiben a postai szolgáltató a Hatóság Tanácsának Elnöke által meghozott, a 14. §-ban meghatározott egyeztetési eljárást lezáró határozatában foglaltakat nem teljesíti, vele szemben a Hatóság az (1) bekezdésben foglaltak alapján jár el.
+
+### 17. §
+
+(1)[^12] Amennyiben a postai szolgáltató a Postatv. 36. § (1) bekezdése alapján a postai tevékenység ellátásához közreműködőt vesz igénybe, a közreműködő kiválasztásakor köteles figyelemmel lenni a titkos információgyűjtés feltételeinek folyamatos biztosítására.
+
+(2)[^13] A Postatv. 38. §-ában, illetve 55. § (6) bekezdésében alapján a postai közreműködő köteles elősegíteni a titkos információgyűjtéssel összefüggésben a vele közvetlen kapcsolatban álló postai szolgáltató számára meghatározott kötelezettségek teljesítését.
+
+## Záró rendelkezések
+
+### 18. §
+
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 5. §-t megelőző alcím a 331/2007. (XII. 13.) Korm. rendelet 1. § 61. pontja, a 221/2014. (IX. 4.) Korm. rendelet 297. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 297. § b) pontja szerint módosított szöveg.
+[^5]: A 6. §-t megelőző alcím a 331/2007. (XII. 13.) Korm. rendelet 1. § 61. pontja, a 221/2014. (IX. 4.) Korm. rendelet 297. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdésének első mondata a 331/2007. (XII. 13.) Korm. rendelet 1. § 61. pontja, a 221/2014. (IX. 4.) Korm. rendelet 297. § c) pontja szerint módosított szöveg.
+[^7]: A 7. § a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (17) bekezdése, a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 11. § (3) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 13. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^11]: A 16. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^12]: A 17. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^13]: A 17. § (2) bekezdése a 102/2014. (III. 25.) Korm. rendelet 1. § (2) bekezdés h) pontja szerint módosított szöveg.

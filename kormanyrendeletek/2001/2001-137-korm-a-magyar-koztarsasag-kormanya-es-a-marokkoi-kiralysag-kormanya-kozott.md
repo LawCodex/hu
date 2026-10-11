@@ -1,0 +1,150 @@
+---
+title: "137/2001. (VII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harcban történő együttműködésről szóló, Rabatban, 1999. május 12-én aláírt Megállapodás kihirdetéséről"
+identifier: "137/2001. (VII. 27.) Korm. rendelet"
+njt_id: "2001-137-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/137"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-07-27
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-137-20-22"
+retrieved: 2026-10-12
+---
+
+# 137/2001. (VII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harcban történő együttműködésről szóló, Rabatban, 1999. május 12-én aláírt Megállapodás kihirdetéséről
+
+## (A Megállapodás jóváhagyásáról szóló jegyzékváltás 2001. április 12. napján megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harcban történő együttműködésről szóló, Rabatban, 1999. május 12-én aláírt Megállapodást e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya között a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és a Marokkói Királyság Kormánya, amelyeket a belügyminiszterek képviselnek (a továbbiakban: a Felek)
+
+– tekintettel arra, hogy a nemzetközi szervezett bűnözés veszélyezteti a biztonságot,
+
+– tudatában annak a veszélynek, amit a kábítószerek illegális forgalmazása jelent a két ország állampolgáraira nézve, és az ebből eredő, a közbiztonságra gyakorolt súlyos következményeire,
+
+– attól a szándéktól vezetve, hogy tovább erősítsék a kétoldalú együttműködésüket a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni harc terén,
+
+– hangsúlyozva annak szükségességét, hogy a nemzetközi szervezett bűnözés és a kábítószerek illegális forgalmazása elleni hatékony harc érdekében a kétoldalú együttműködést fejlesszék,
+
+tiszteletben tartva mindkét ország belső jogszabályait, az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+*A nemzetközi szervezett bűnözés*
+
+(1) A két Fél, államaik hatályos jogszabályaira figyelemmel, kötelezettséget vállal arra, hogy együttműködnek a nemzetközi szervezett bűnözés megelőzése és üldözése terén.
+
+(2) Ez az együttműködés magában foglalja:
+
+– a szervezett bűnözés különböző megjelenési formáira vonatkozó információk cseréjét;
+
+– a bűnöző csoportokra vonatkozó információk cseréjét;
+
+– a bűnöző csoportok elkövetési módszereire, illetőleg operatív technikára vonatkozó információk cseréjét;
+
+– a fegyverek, nukleáris és radioaktív anyagok, a robbanó- vagy mérgező anyagok illegális gyártására és kereskedelmére vonatkozó információk cseréjét;
+
+– a pénz- és értékpapírok hamisításával, illegális előállításával kapcsolatos információk cseréjét;
+
+– a lopott járművek csempészetével kapcsolatos információk cseréjét;
+
+– a hamis vagy meghamisított okmányokkal kapcsolatos információk cseréjét;
+
+– a pénzmosás megelőzéséhez szükséges intézkedések kidolgozását, végrehajtását;
+
+– a légi, tengeri és vasúti szállítás biztonságára vonatkozó tapasztalatok és technikai ismeretek kicserélését a repülőterek, kikötők és pályaudvarok biztonsági intézkedéseinek állandó javítása érdekében;
+
+– a nemzetközi szervezett bűnözés elleni harccal kapcsolatos információk és tapasztalatok cseréjét;
+
+– a közös érdekű nyomozati cselekmények esetén – a két állam hatályos jogszabályi rendelkezéseivel összhangban – szakemberek és szakértők fogadását.
+
+*2. Cikk*
+
+*Kábítószerek illegális forgalma*
+
+(1) A jelen Megállapodás alapján mindegyik Fél kötelezettséget vállal arra, hogy együttműködik a másik Féllel belső jogszabályai és az Egyesült Nemzetek Szervezetének keretében létrejött nemzetközi egyezmények rendelkezéseinek megfelelően, különös tekintettel a Felek országai által ratifikált, az Egyesült Nemzetek Szervezetének a Kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, Bécsben, 1988. december 20-án kelt Egyezményére.
+
+(2) Ezen együttműködés magában foglalja:
+
+– a kábítószerek illegális forgalmazására vonatkozó információk cseréjét;
+
+– az együttműködés fejlesztését a kábítószercsempészek felkutatása és azonosítása érdekében;
+
+– a kábítószerek illegális forgalmazására, különösen a kábítószer csempészésére vonatkozó naprakész ismeretek és információk kölcsönös cseréjét;
+
+– a kábítószerek illegális kereskedelme elleni harc módszereire vonatkozó tapasztalatcserét.
+
+*3. Cikk*
+
+Mindegyik Fél fenntartja magának a jogot, hogy a jelen Megállapodásban szabályozott együttműködésre vonatkozó megkeresés teljesítését, illetve az együttműködési intézkedést részben vagy egészben megtagadja, ha az ellentétes jogszabályaival, veszélyeztetné biztonságát avagy más lényeges érdekeit.
+
+*4. Cikk*
+
+A jelen Megállapodás végrehajtása során személyes adatok továbbítására és felhasználására csak a Felek hatályos jogszabályi rendelkezéseivel összhangban kerülhet sor.
+
+Az átadott adatokat a fogadó csak a kölcsönösen meghatározott felhasználási feltételekkel és olyan célból használhatja fel, amelyre az átadás vonatkozott.
+
+*5. Cikk*
+
+(1) A Felek kötelezettséget vállalnak a személyes adatok védelmére, különös tekintettel azokra az adatokra, melyeknek bizalmas kezelését az átadó Fél kéri.
+
+(2) A jelen Megállapodás 4. Cikke alapján átadott személyes adat harmadik Fél részére nem adható át. Amennyiben harmadik Fél az átadott adatokról tájékoztatást kér, a megkeresett Félnek azon hatósághoz kell utasítania, ahonnan a személyes adatok származnak.
+
+(3) A jelen Megállapodás keretében átadott személyes adatok törlése az adatokat átadó Fél jogszabályai alapján meghatározottak szerint történik.
+
+*6. Cikk*
+
+(1) A Felek biztosítják a bármelyik Fél által minősített információk titkosságát, amennyiben azok az átadó ország jogszabályai értelmében titkosnak minősülnek.
+
+(2) A jelen Megállapodás értelmében átadott anyagok, információk és technikai eszközök harmadik ország részére történő továbbadása csak az átadó Fél illetékes szervének hozzájárulásával lehetséges.
+
+*7. Cikk*
+
+(1) A két Fél a jelen Megállapodásban szabályozott együttműködés elősegítésére és értékelésére Vegyes Bizottságot hoz létre 5-5 fővel. A Felek a Vegyes Bizottság összetételéről, valamint a jelen Megállapodás végrehajtására kijelölt szervekről diplomáciai úton tájékoztatják egymást.
+
+(2) A Vegyes Bizottság kétévente tartja üléseit. Az ülések megtartását bármely Fél kezdeményezheti. Az üléseket Magyarországon és Marokkóban felváltva tartják.
+
+(3) Szükség esetén a Vegyes Bizottság szakosított munkacsoportokat hozhat létre.
+
+*8. Cikk*
+
+A jelen Megállapodás értelmezéséből és alkalmazásából származó vitákat a nemzetközi jog alapelveinek megfelelően, diplomáciai úton rendezik.
+
+*9. Cikk*
+
+(1) A jelen Megállapodás akkor lép hatályba, amikor a Felek diplomáciai úton értesítik egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges belső jogi előírásoknak eleget tettek.
+
+(2) A jelen Megállapodást a két Fél határozatlan időre köti. A jelen Megállapodás mindaddig hatályban marad, ameddig azt bármelyik Fél diplomáciai úton fel nem mondja. A Megállapodás a felmondásról szóló értesítés kézhezvételétől számított hat hónap elteltével megszűnik.
+
+Készült Rabatban, 1999. május 12-én, két eredeti példányban, mindegyik magyar, arab és francia nyelven. Mindhárom nyelvű szöveg egyaránt hiteles. Eltérés esetén a francia nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Marokkói Királyság\
+Kormánya nevében''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2001. április 12. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a honvédelemért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 139. pontja szerint módosított szöveg.

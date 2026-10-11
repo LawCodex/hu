@@ -1,0 +1,622 @@
+---
+title: "141/2000. (VIII. 9.) Korm. rendelet a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól"
+identifier: "141/2000. (VIII. 9.) Korm. rendelet"
+njt_id: "2000-141-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/141"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-08-09
+in_force_from: 2009-12-31
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-141-20-22"
+retrieved: 2026-10-12
+---
+
+# 141/2000. (VIII. 9.) Korm. rendelet a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól[^1]
+
+A Kormány a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 30. §-a (1) bekezdésének a) és b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## A súlyos fogyatékosság minősítése
+
+### 1. §
+
+(1) A Fot. 23. § (1) bekezdése a) pontjának alkalmazása során látási fogyatékosnak azt a személyt kell tekinteni, akinek a fogyatékossága az 1. számú melléklet 1. pontjában meghatározott mértékű.
+
+(2) A Fot. 23. § (1) bekezdése b) pontjának alkalmazása során hallási fogyatékosnak azt a személyt kell tekinteni, akinek a fogyatékossága az 1. számú melléklet 2. pontjában meghatározott mértékű.
+
+(3) A Fot. 23. § (1) bekezdése c) pontjának alkalmazása során értelmi fogyatékosnak azt a személyt kell tekinteni, akinek a fogyatékossága az 1. számú melléklet 3. pontjában meghatározott mértékű.
+
+(4)[^2] A Fot. 23. § (1) bekezdése d) pontja alkalmazása során autistának azt a személyt kell tekinteni, akinek az 1. számú melléklet 4. pontjában meghatározott fogyatékossága fennáll.
+
+(5)[^3] A Fot. 23. § (1) bekezdése e) pontja alkalmazása során mozgásában fogyatékosnak azt a személyt kell tekinteni, aki
+
+a) állapota miatt a helyváltoztatáshoz az 1. számú melléklet 5. pontjában meghatározott segédeszköz állandó és szükségszerű használatát igényli, vagy
+
+b) mozgásszervi okból állandó jelleggel ágyhoz kötött, ezért segédeszköz használatára állapota vagy állapotrosszabbodása miatt nem képes, vagy
+
+c)[^4] az 1. számú melléklet 6. pontjában meghatározott betegségben szenved és emiatt állapota segédeszközzel eredményesen nem befolyásolható.
+
+(6)[^5] A Fot. 23. § (1) bekezdésének h) pontja szerinti halmozottan fogyatékos állapot minősítéséhez az 1. számú mellékletben meghatározott, az adott fogyatékossági típusra vonatkozó orvos-szakmai mutatókat kell értelemszerűen alkalmazni.
+
+(7)[^6] A Fot. 23. § (1) bekezdésének i) pontja alkalmazása során a beszédnek hallás útján történő megértésére az a személy nem képes segédeszközzel sem, akinek hallásküszöbértéke a beszédfrekvenciákon a nyolcvan dB felett van.
+
+(8)[^7] A Fot. 23. § (1) bekezdés f) pontja alkalmazása során kromoszóma-rendellenességgel élőnek azt a személyt kell tekinteni, akinek az 1. számú melléklet 7. pontjában meghatározott fogyatékossága fennáll.
+
+(9)[^8] A Fot. 23. § (1) bekezdés g) pontja alkalmazása során beszédfogyatékosnak azt a személyt kell tekinteni, akinek az 1. számú melléklet 8. pontjában meghatározott funkciózavarok valamelyikének következtében az állapota középsúlyosnak vagy súlyosnak minősül.
+
+### 2. §
+
+(1) A fogyatékossági támogatás megállapítása szempontjából a súlyos fogyatékosság akkor minősül tartósnak, ha annak időtartama előreláthatólag három évig fennáll.
+
+(2) A Fot. 23. §-a (1) bekezdésének alkalmazásában önálló életvitelre az a személy nem képes, aki
+
+a)[^9] a mindennapi életviteléhez, társadalmi életben való részvételéhez szükséges tevékenységeket testi, érzékszervi, illetve beszédfogyatékossága vagy az azzal összefüggő kommunikációs képtelenség miatt még a szükség szerinti segédeszköz igénybevételével sem képes más személy közreműködése nélkül elvégezni, vagy
+
+b) a mindennapi életvitelében értelmi fogyatékossága miatt állandó felügyeletet, irányítást igényel, mivel térben és időben tájékozódni nem tud, a lakásban nem képes egyedül élni anélkül, hogy ez önmagára vagy másokra nézve veszélyt ne jelentene, továbbá a pénz értékét nem ismeri, így a mindennapi élet szintjén önálló gazdálkodásra képtelen.
+
+### 3. §
+
+Az önkiszolgálási képessége annak a személynek hiányzik, aki mások személyes segítsége nélkül nem képes
+
+a) étkezni, vagy
+
+b) tisztálkodni, vagy
+
+c) öltözködni, vagy
+
+d) illemhelyet használni, vagy
+
+e) lakáson belül – a szükség szerinti segédeszköz igénybevétele mellett sem – közlekedni.
+
+## A fogyatékossági támogatásra való jogosultság megállapítása
+
+### 3/A. §[^10]
+
+(1)[^11] A Kormány a fogyatékossági támogatás iránti eljárásban fogyatékossági támogatási szervként a fővárosi és vármegyei kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki.
+
+(2)[^12] A Kormány a fogyatékossági támogatás folyósítására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságot (a továbbiakban: folyósító szerv) jelöli ki.
+
+(3)[^13] A Kormány a Fot. 23/F. §-ában meghatározott nyilvántartás vezetésére a Magyar Államkincstár központi szervét (a továbbiakban: Központ) jelöli ki.
+
+(4)[^14] A fogyatékossági támogatás iránti hatósági ügyben eljáró kormányhivatal tekintetében felügyeleti szervként a Központ jár el, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában, valamint kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
+
+(5)[^15] A kormányhivatal fogyatékossági támogatással kapcsolatos feladatkörének gyakorlásával összefüggésben a Ksztv. 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja a (4) bekezdésben meghatározottak kivételével.
+
+### 4. §[^16]
+
+(1) A fogyatékossági támogatás iránti kérelem legkorábban abban a hónapban nyújtható be, amelyben a kérelmező a tizennyolcadik életévét betölti.
+
+(2)[^17] A fogyatékossági támogatás iránti kérelmet a 2. számú melléklet szerinti adattartalmú, a Központ által – az elektronikus űrlap tekintetében az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített nyomtatványon vagy elektronikus űrlapon kell előterjeszteni.
+
+(2a)[^18] A fogyatékossági támogatás iránti eljárásokkal kapcsolatosan a Központ országos telefonos ügyfélszolgálatot működtet.
+
+(2b)[^19] A fogyatékossági támogatás iránti ügyben a kérelmező lakóhelye vagy tartózkodási helye szerint illetékes kormányhivatal jár el. A Fot. 23. § (2) bekezdésében meghatározott személy esetén Budapest Főváros Kormányhivatala jár el.
+
+(3)[^20] A fogyatékossági támogatást igénylő személy a természetes személyazonosító adatait érvényes személyazonosító igazolvány vagy a személyazonosság igazolására alkalmas más hatósági igazolvány bemutatásával, vagy az arról készült másolat csatolásával igazolja.
+
+### 5. §
+
+(1)[^21] A támogatás iránti kérelemhez mellékelni kell a kérelmező háziorvosa, bentlakásos szociális intézményben élő kérelmező esetén az intézmény orvosa (a továbbiakban: háziorvos) által kiállított orvosi beutalót, valamint a fogyatékosságot igazoló orvosi dokumentációt (a továbbiakban együtt: orvosi dokumentáció). Az orvosi beutalóban a háziorvos
+
+a) nyilatkozik arról, hogy a rendelkezésre álló orvosi dokumentáció a súlyosan fogyatékos állapot minősítésére alkalmas-e,
+
+b)[^22] véleményt ad a kérelmező önálló életvitelre való képességének és önkiszolgálási képességének minősítéséhez,
+
+c)[^23] nyilatkozik arról, hogy ha a kérelmező személyes vizsgálata szükséges, a vizsgálatot a kérelmező lakóhelyén, tartózkodási helyén vagy a vizsgálatot végző szervnél indokolt-e elvégezni.
+
+(2)[^24] Amennyiben a kérelmező nem rendelkezik a minősítéséhez szükséges iratokkal, a súlyos fogyatékosság minősítésének előkészítése érdekében a háziorvos gondoskodik a megfelelő szakvizsgálatok elvégeztetéséről.
+
+(3)[^25] A támogatás iránti kérelemhez beszédfogyatékosság esetén – ha rendelkezésre áll – mellékelni kell a logopédiai szakvizsgálati dokumentációt.
+
+### 6. §[^27]
+
+(1)[^28] Ha a kérelmező súlyos fogyatékosságát a rehabilitációs szakértői szerv vagy jogelődjének hatályos határozata, szakhatósági állásfoglalása vagy szakvéleménye nem állapítja meg, a kormányhivatal a kérelmező által benyújtott orvosi dokumentáció, illetve a rendelkezésre álló logopédiai szakvizsgálati dokumentáció alapján
+
+a) a súlyos fogyatékosság fennállása,
+
+b) az önkiszolgálási képesség,
+
+c) a súlyos fogyatékosság fennállása esetén felülvizsgálatának szükségessége,
+
+d) a felülvizsgálat szükségessége esetén annak időpontja
+
+kérdését szakkérdésként vizsgálja.
+
+(2)[^29] Ha a kérelmező a súlyos fogyatékosság minősítése céljából elrendelt személyes vizsgálaton nem jelenik meg, úgy kell tekinteni, hogy a kérelmét visszavonta, és a kormányhivatal az eljárást megszünteti.
+
+### 8. §[^31]
+
+(1)[^32] Ha a rendelkezésre álló dokumentáció nem alkalmas a 6. § (1) bekezdésében meghatározott szakkérdés vizsgálatára, kormányhivatal a kérelmezőt a fogyatékosság jellegének megfelelő szakvizsgálatra utalja be vagy személyes vizsgálatot végez.
+
+(2)[^33] Ha a kérelmező személyes vizsgálata szükséges, a kormányhivatal a vizsgálatot – a háziorvos javaslatától függően – a kérelmező lakóhelyén, tartózkodási helyén (bentlakásos szociális intézményben élő kérelmező esetén az intézményben) vagy a kormányhivatal székhelyén, telephelyén végzi el.
+
+(3)[^34] Cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott személy személyes vizsgálata a kérésére csak a törvényes képviselője jelenlétében folytatható le.
+
+(4)[^35] Ha a rendelkezésre álló dokumentáció nem alkalmas a 6. § (1) bekezdésében meghatározott szakkérdés vizsgálatára, beszédfogyatékosság esetén annak megállapítására a kormányhivatal szakértőt rendel ki.
+
+### 9. §[^36]
+
+(1)[^37] A fogyatékossági támogatásra való jogosultság megállapítása esetén a határozat az általános közigazgatási rendtartásról szóló törvényben foglaltakon kívül tartalmazza a fennálló súlyos fogyatékosságnak a Fot. 23. § (1) bekezdése szerinti besorolását is.
+
+(2) A fogyatékossági támogatással kapcsolatos döntéshozatal során a kiadmányozásra jogosult aláírása és a hatóság bélyegzőlenyomata informatikai eszközzel rögzíthető.
+
+(3)[^38] A Központ a fogyatékossági támogatással kapcsolatos ügyekben azonosító adatok megadását nem igénylő elektronikus ügyfélszolgálati rendszert működtet.
+
+### 9/A. §[^39]
+
+A 4–9. §-ban foglalt rendelkezéseket a Fot. 23/A. §-ának (2) bekezdésében meghatározott, a fogyatékossági támogatás iránti kérelmet benyújtó, vakok személyi járadékában részesülő látási fogyatékos személy esetében a 9/B–9/E. §-okban szabályozott eltérésekkel kell alkalmazni.
+
+### 9/B. §[^40]
+
+(1)[^41] A vakok személyi járadékában részesülő látási fogyatékos személy fogyatékossági támogatásra csak akkor szerezhet jogosultságot, ha a vakok személyi járadékára való jogosultságáról lemond.
+
+(2)[^42] A Fot. 23/A. §-a (2) bekezdésének a) pontja szerinti esetben a támogatás iránti kérelemhez a háziorvos által kiállított orvosi beutalót, valamint orvosi dokumentációt mellékelni nem kell.
+
+(3)[^43] A Fot. 23/A. § (2) bekezdés b) pontja szerinti esetben a kérelemhez – a természetes személyazonosító adatok igazolására szolgáló irat másolatán túl – kizárólag a háziorvos által kiállított orvosi beutalót kell mellékelni. Az orvosi beutalóban a háziorvos
+
+a)[^44] feltünteti a kérelmező látási képességének a mértékét,
+
+b)[^45] véleményt ad a kérelmező önkiszolgálási képességének minősítéséhez,
+
+c)[^46] nyilatkozik arról, hogy ha az önkiszolgálási képesség megállapításához a kérelmező személyes vizsgálata szükséges, a vizsgálatot a kérelmező lakóhelyén, tartózkodási helyén vagy a vizsgálatot végző szervnél indokolt-e elvégezni.
+
+### 9/C. §[^47]
+
+(1)[^48] A kormányhivatal a Fot. 23/A. § (2) bekezdés a) pontja szerinti esetben szakkérdés vizsgálata nélkül állapítja meg a kérelmező támogatásra való jogosultságát.
+
+(2)[^49] A kormányhivatal a Fot. 23/A. § (2) bekezdés b) pontja szerinti esetben a kérelmező önkiszolgálási képességét szakkérdésként vizsgálja.
+
+### 9/D. §[^50]
+
+(1)[^51]
+
+(2)[^52] Ha a rendelkezésre álló orvosi beutaló nem alkalmas az önkiszolgálási képesség minősítésére és a kérelmező személyes vizsgálata szükséges, a kormányhivatal a vizsgálatot a háziorvosi beutalóban javasolt helyen végzi el.
+
+(3)[^53]
+
+### 9/E. §[^54]
+
+(1)[^55] A Fot. 23/A. §-a (2) bekezdésének a) pontja szerinti alacsonyabb összegű fogyatékossági támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg azzal, hogy a fogyatékossági támogatásra való jogosultság megállapításának és a vakok személyi járadéka megszüntetésének időpontja közötti időtartamra a két ellátás közötti különbözet összegét egy összegben kell kifizetni a kérelmező számára. A különbözet kiutalására a fogyatékossági támogatás folyósításának megkezdésével egyidejűleg kerül sor.
+
+(2)[^56] A kérelmező önkiszolgálási képességének hiánya esetén a kormányhivatal a támogatás összegét a Fot. 23/A. § (2) bekezdés b) pontja szerinti magasabb összegre módosítja. E magasabb összeg a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg azzal, hogy a fogyatékossági támogatás alacsonyabb és magasabb mértéke közötti különbözetet egy összegben kell kifizetni a kérelmező számára. A különbözet kiutalására a fogyatékossági támogatás magasabb mértéke szerinti összeg folyósításának megkezdésével egyidejűleg kerül sor.
+
+### 10. §[^57]
+
+(1)[^58] A magasabb összegű családi pótlékban részesülő személy fogyatékossági támogatásra csak akkor szerezhet jogosultságot, ha a magasabb összegű családi pótlékra való jogosultságáról lemond.
+
+(2)[^59] A kormányhivatal a kérelmező bejelentése, nyilatkozata alapján – a súlyos fogyatékosság fennállása esetén – intézkedik a magasabb összegű családi pótlék folyósításának megszüntetéséről.
+
+(3)[^60] A súlyos fogyatékosság fennállása esetén a fogyatékossági támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg azzal, hogy a fogyatékossági támogatásra való jogosultság megállapításának és a magasabb összegű családi pótlék megszüntetésének időpontja közötti időtartamra a két ellátás közötti különbözet összegét egy összegben kell kifizetni a kérelmező számára. A különbözet kiutalására a fogyatékossági támogatás folyósításának megkezdésével egyidejűleg kerül sor.
+
+### 11. §
+
+(1)[^61] A fogyatékossági támogatást a folyósító szerv havonta utólag, a tárgyhónapot követő hónap 5. napjáig folyósítja.
+
+(2)[^62] A megállapított fogyatékossági támogatás folyósítása
+
+a) belföldre forintban,
+
+b) külföldre az ellátás kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon, a kifizetés helye szerinti állam hivatalos pénznemében
+
+történik.
+
+(3)[^63] A kifizetés napja alatt az (2) bekezdés b) pontjának alkalmazásában a terhelés, illetve a postai utalvány feladásának napját kell érteni.
+
+(4)[^64] A támogatás a kérelmezőt a kérelem benyújtása hónapjának első napjától illeti meg.
+
+(5)[^65]
+
+## A felülvizsgálatra vonatkozó szabályok
+
+### 12. §[^66]
+
+(1) A súlyosan fogyatékos állapotot – a (3) bekezdésben foglaltak kivételével – a 6. § (1) bekezdése szerinti szakkérdés vizsgálatakor meghatározott időpontban felül kell vizsgálni. A vakok személyi járadékáról való lemondás következtében fogyatékossági támogatásra jogosult személy felülvizsgálatának időpontjára a vakok személyi járadékát megállapító határozatban meghatározott időpont irányadó.
+
+(2) Ha a felülvizsgálat a nyilvántartás adatai alapján esedékessé válik, erről a kormányhivatal értesíti a jogosultat. A felülvizsgálat esedékességéről szóló értesítésben a kormányhivatal – határidő megjelölésével – felhívja a jogosultat, hogy a felülvizsgálathoz szükséges a 6. § (1) bekezdése szerinti szakkérdés vizsgálata, továbbá hogy az előző felülvizsgálat óta keletkezett orvosi dokumentációt, rendelkezésre álló logopédiai szakvizsgálati dokumentációt küldje meg a részére.
+
+(3) Ha a fogyatékossági támogatásra jogosult személy állapota végleges, az (1) bekezdés szerinti felülvizsgálatnak nincs helye.
+
+### 13. §
+
+(1)[^67] Ha a felülvizsgálat szerint a súlyosan fogyatékos állapot továbbra is változatlanul fennáll, a fogyatékossági támogatást tovább kell folyósítani.
+
+(2)[^68] Ha a felülvizsgálat állapotváltozást állapít meg, akkor a kormányhivatal dönt az ellátás mértékének módosításáról.
+
+(3)[^69] Ha a kormányhivatal a felülvizsgálat során a jogosult állapotában, illetve önkiszolgálási képességében a fogyatékossági támogatás mértékét befolyásoló
+
+a) rosszabbodást állapít meg, úgy számára a magasabb ellátási összeget annak a hónapnak az első napjától kell megállapítani és folyósítani, amelyben a felülvizsgálatra sor került,
+
+b)[^70] javulást állapít meg, úgy számára az alacsonyabb ellátási összeget az állapotjavulás megállapítását követő hónap első napjától kell megállapítani és folyósítani.
+
+(4) Ha a súlyosan fogyatékos állapot már nem áll fenn, a fogyatékossági támogatást a felülvizsgálatot követő hónap első napjától kell megszüntetni.
+
+(5)[^71] A fogyatékossági támogatást meg kell szüntetni abban az esetben is, ha a jogosult a 12. § (2) bekezdés szerinti értesítésben foglaltaknak nem tesz eleget, illetve felülvizsgálata céljából nem jelenik meg. Ilyen esetben az ellátást a mulasztást követő hónap első napjától kell megszüntetni.
+
+### 14. §
+
+(1)[^72] A jogosult állapotrosszabbodásra hivatkozással – a felülvizsgálat határozatban meghatározott időpontja előtt – maga is kezdeményezheti felülvizsgálatát. Az eljárásra a támogatás megállapítására vonatkozó szabályokat kell megfelelően alkalmazni.
+
+(2)[^73] Ha a kormányhivatal a magasabb összegű ellátás iránti kérelmet azért utasítja vissza, mert a kérelmező állapotában a fogyatékossági támogatás mértékének megváltozását indokoló rosszabbodás nem következett be, az elutasító döntés véglegessé válásától számított egy éven belül előterjesztett újabb kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha a fogyatékosság jellege szerinti orvosi igazolás megfelelően tanúsítja, hogy az igénylő állapota az elutasítás óta rosszabbodott. Egyéb esetben – a jogszabályváltozás esetét kivéve – a magasabb összegű ellátás iránti kérelmet a kormányhivatal visszautasítja.
+
+### 15. §[^74]
+
+A kormányhivatal soron kívüli felülvizsgálatot indít, ha tudomására jut, hogy a fogyatékossági támogatásban részesülő személy a támogatást jogalap nélkül veszi igénybe. Az eljárásra a felülvizsgálat szabályait kell megfelelően alkalmazni.
+
+## Egyéb eljárási szabályok
+
+### 17. §
+
+(1)[^76] A jogosultnak a három hónapot meghaladó egybefüggő külföldi tartózkodását be kell jelentenie a kormányhivatalnak.
+
+(2)[^77] A fogyatékossági támogatás szüneteltetése esetén a továbbfolyósításra az ügyfél kérelmére kerül sor. Ebben az esetben az ellátást annak a hónapnak az első napjától kell továbbfolyósítani, amelyben az ügyfél visszatér Magyarországra.
+
+### 18. §[^78]
+
+A fogyatékossági támogatás iránti kérelem nyomtatványa térítésmentes. A nyomtatványok előállításáról a kormányhivatal gondoskodik.
+
+### 19. §[^79]
+
+(1) A fogyatékossági támogatás megállapítása esetén
+
+a) a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerinti utazási kedvezmény igénybevétele és
+
+b) a jogszabályban meghatározott adókedvezmény megállapítása
+
+céljából a fogyatékossági támogatást megállapító határozattal egyidejűleg hatósági igazolványt kell kiadni. A hatósági igazolvány tartalmazza a jogosult családi és utónevét, születési helyét, születési idejét, a kiállítás alapjául szolgáló tényt, a hatósági igazolvány által igazolt jogot és az igazolvány hatályát. A hatósági igazolvány a felülvizsgálat időpontjáig, de legfeljebb 5 évig hatályos.
+
+(2) Ha a fogyatékossági támogatásra jogosult személy állapota végleges, a hatósági igazolványt – a 6. § (1) bekezdése szerinti szakkérdés vizsgálata nélkül – határozatlan időre ki kell adni.
+
+(3) A fogyatékossági támogatásra jogosult személy a fogyatékossági támogatás alapjául szolgáló bármely körülményben, illetve a hatósági igazolványban foglalt adatokban bekövetkezett változást köteles tizenöt napon belül bejelenteni a kormányhivatalnak.
+
+### 19/A. §[^80]
+
+(1)[^81] A vakok személyi járadékát 2003. március 1-jétől a folyósító szerv havonta utólag, a tárgyhónapot követő hónap 5. napjáig változatlan feltételekkel folyósítja.
+
+(2)[^82] A járadékban részesített személy köteles a lakcímében bekövetkezett változást, illetőleg a járadék folyósításának megszüntetését előidéző okot a kormányhivatalnak 15 napon belül bejelenteni.
+
+(3)[^83] A járadék folyósításának megszüntetése a kormányhivatal tartozik. A határozatban fel kell tüntetni a megszüntetés időpontját.
+
+(4)[^84] Ha a járadékban részesített vak személy nem jelenti be a körülményeiben bekövetkezett olyan változást, amely a járadék folyósításának megszüntetését idézheti elő, a kormányhivatal őt a jogtalanul felvett járadék visszafizetésére kötelezi.
+
+(5)[^85]
+
+### 19/B. §[^86]
+
+(1)[^87] Fogyatékossági támogatási ügyben a végrehajtást a Központ rendeli el, és meghozza a végrehajtással kapcsolatos egyéb döntéseket. A végleges döntéssel megállapított és nem teljesített visszafizetési kötelezettség alapján a jogalap nélkül felvett fogyatékossági támogatás és annak kamatai végrehajtásával kapcsolatos feladatokat a Központ látja el. A végrehajtási eljárást a Központ a fizetési kedvezmény elbírálásának időtartamára, valamint fizetési kedvezmény engedélyezése esetén az erről hozott döntésben foglaltak teljesítésének időtartamára felfüggeszti.
+
+(2) Az (1) bekezdés szerinti feladat ellátása érdekében a Központ nyilvántartást vezet, amely tartalmazza:
+
+a) a visszafizetésre kötelezett személy azonosítása céljából kezelhető adatokat,
+
+b) a jogalap nélkül igénybe vett ellátás összegét, a jogalap nélkül történt folyósítás időtartamát és a visszakövetelés jogcímét,
+
+c)[^88] a visszafizetésre kötelező döntés véglegessé válásának időpontját és
+
+d) a visszafizetés rendezésének módját.
+
+### 20. §
+
+(1) Ez a rendelet 2000. szeptember 1-jén lép hatályba.
+
+(2) A fogyatékossági támogatásra való jogosultság legkorábbi kezdő időpontja 2001. július 1-je.
+
+(3)[^89]
+
+### 20/A. §[^90]
+
+A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
+### 20/B. §[^91]
+
+Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 448/2016. (XII. 19.) Korm. rendelet által megállapított 19. §-ban foglaltakat a 2017. január 1-jén folyamatban lévő ügyekben is alkalmazni kell. A 2017. január 1-jét megelőzően kiállított hatósági igazolványt a jogosult kérelmére a 2017. január 1-jétől hatályos 19. §-ban foglaltaknak megfelelően cserélni kell azzal, hogy az így kiállított hatósági igazolvány hatálya megegyezik a korábbi hatósági igazolvány hatályával.
+
+### 20/C. §[^92]
+
+A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
+### 20/D. §[^93]
+
+E rendeletnek a jogi és gazdasági versenyképesség erősítése érdekében egyes közigazgatási tárgyú kormányrendeletek módosításáról szóló 104/2024. (V. 9.) Korm. rendelettel megállapított 12. §-ában és 19. §-ában foglaltakat a 2025. január 1-jén folyamatban lévő ügyekben is alkalmazni kell. Ha a fogyatékossági támogatásra jogosult személy állapota végleges, részére a 2025. január 1-jét megelőzően kiállított hatósági igazolványt kérelmére a 2025. január 1-jétől hatályos 19. §-ban foglaltaknak megfelelően cserélni kell, azzal, hogy az így kiállított hatósági igazolvány hatálya határozatlan időre szól.
+
+## Az Európai Unió jogának való megfelelés[^94]
+
+### 21. §[^95]
+
+Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+
+## 1. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^96]
+
+**Értelmező rendelkezések**
+
+1\. Látási fogyatékosnak azt a személyt kell tekinteni,
+
+a) akinek látóélessége megfelelő korrekcióval
+
+*aa)* mindkét szemén 5/70,
+
+*ab)* az egyik szemén 5/50, a másik szemén három méterről olvas ujjakat,
+
+*ac)* az egyik szemén 5/40, a másik szemén fényérzékelés nincs, vagy a másik szeme hiányzik; rövidlátás esetén – a fenti látásélesség értékeitől függetlenül – csak az jogosult a fogyatékossági támogatásra, akinek közeli látásélessége Csapody V., vagy annál rosszabb, vagy
+
+b)[^97] akinek látótere mindkét oldalon körkörösen húsz foknál szűkebb. A szürkehályog műtéttel való gyógyíthatósága kérdésében a vármegyei, fővárosi vezető szemész szakorvos állásfoglalása az irányadó. Fogyatékossági támogatásra az a személy jogosult, akinek műtéti gyógyítását a szakorvos nem tartja indokoltnak, mivel a műtéti beavatkozástól állapotjavulás nem várható.
+
+2\. Hallási fogyatékosnak azt a személyt kell tekinteni, akinek hallásküszöbértéke a beszédfrekvenciákon nyolcvan dB felett van, és ennek következtében a hangzóbeszéd megértésére még segédeszközzel sem képes, feltéve, hogy
+
+a) halláskárosodása 25. életévének betöltését megelőzően következett be, vagy
+
+b) halláskárosodása mellett a hangzó beszéd érthető ejtése elmarad. Ez a szóbeli kifejezőkészség terén megnyilvánuló olyan súlyos és végleges zavart jelent, amely a kommunikációt lehetetlenné teszi, és a kifejezésmód zavaraiban vagy a beszéd akusztikus megnyilvánulásának hiányában mutatkozik meg.
+
+3\. Értelmi fogyatékosnak azt a személyt kell tekinteni, aki
+
+a) önellátásra képtelen, ezért állandó ápolásra szorul, beszéde nem alakult ki vagy tagolatlan, tartalom nélküli, s mindezek következtében a mindennapi élet szintjén csak kis mértékben képezhető, és élete más személy állandó segítsége nélkül veszélybe kerülne (IQ pontja 0–19 között határozható meg olyan teszttel, amelynek átlaga száznál van. BNO szerinti besorolása: F 73.), vagy
+
+b) a hétköznapi élet elemi cselekményei területén másokra van utalva, mivel az általános értelmi képessége az adott korosztályú népesség átlagától az első évektől kezdve számottevően elmarad, s amely miatt az önálló élet vezetése jelentősen akadályozott (IQ pontja: 20–49 között határozható meg olyan teszttel, amelynek átlaga száznál van és standard deviációja 15. BNO szerinti besorolása: F 71–F 72.).
+
+4.[^98] IQ értékétől függetlenül autistának kell tekinteni azt a személyt, aki a fejlődés átható (pervazív) zavarában szenved, és az autonómiatesztek alapján állapota súlyos vagy középsúlyos (BNO szerinti besorolása: F 84.0–F 84.9).
+
+5.[^99] Mozgásában fogyatékosnak kell tekinteni azt a személyt, akinek a helyváltoztatása az alább felsorolt segédeszközök állandó és szükségszerű használatát igényli:
+
+a) végtag protézisek
+
+*aa)* alsó végtag protézisek (egy végtagra)
+
+– lábszárcsonkra,
+
+– combcsonkra,
+
+– csípőízületi csonkra,
+
+– alsó végtag fejlődési rendellenességeire,
+
+*ab)* felső végtag protézisek (mindkét végtagra)
+
+– alkarcsonkra,
+
+– felkarcsonkra,
+
+– vállcsonkra,
+
+*ac)* felső végtag protézisek (egy végtagra)
+
+– alkarcsonkra,
+
+– felkarcsonkra,
+
+– vállcsonkra,
+
+feltéve, hogy a másik felső végtag is olyan mértékben bénult, csonkolt vagy deformált, hogy az a manipulációs képességet jelentős mértékben korlátozza;
+
+b) ortézisek
+
+*ba)* alsó végtag ortézisek (mindkét végtagra)
+
+– alsó végtag izomzatának bénulása esetén dinamikus rögzítéssel ortézisek,
+
+– járógépek,
+
+*bb)* felső végtag ortézisek (mindkét végtagra)
+
+– felső végtag izomzatának bénulása esetén,
+
+*bc)* egy alsó és egy felső végtag ortézis,
+
+*bd)* egy felső végtag ortézis, feltéve, hogy a másik felső végtag is olyan mértékben bénult, csonkolt vagy deformált, hogy az a manipulációs képességet jelentős mértékben korlátozza,
+
+*be)* egy végtag ortézis és gyógyászati segédeszköznek minősülő gerinc ortézis;
+
+c) személyes mozgás nem testen viselt segédeszközei
+
+*ca)*[^100] egy karral működtetett járóeszközök
+
+– hónalj- és könyökmankók, abban az esetben, ha a kérelmező protézis vagy ortézis állandó használatára az állapotából következően nem képes,
+
+– könyökmankók, abban az esetben, ha a kérelmezőnek mindkét alsó végtag bénulása, illetve azok súlyos deformitása, vagy a végtagok egymástól eltérő rövidülése miatt nehéz ortopéd cipőt kell viselnie, amennyiben a végtagok súlyos sérülése a végtag térfogat, és ezáltal az izomerő jelentős csökkenését okozza,
+
+*cb)* kerekesszékek (ideértve az olyan helyváltoztatást szolgáló eszközt is, amely valamilyen életfunkciót fenntartó készülékhez kötött)
+
+– kézi meghajtású,
+
+– elektromos kerekesszék.
+
+6.[^101] Mozgásában fogyatékosnak kell tekinteni azt a személyt is, akinek
+
+a) mindkét felső végtagja a manipulációs képességet olyan jelentős mértékben korlátozóan bénult, csonkolt, deformált vagy torzult, amely önmagában vagy műtéti korrekcióval alkalmas lehet alapfunkciók elvégzésére, de a felső végtag protézis használata esetén e funkciók ellátására már nem lenne képes;
+
+b) legalább két végtagra vagy egy végtagra és a törzsre kiterjedő tartós ízületi, illetve izommerevsége, bénulása, vagy csont-, illetve ízületi deformitása van, amennyiben ez az állapot a mozgást vagy az érintett testrészek használatát súlyos mértékben akadályozza;
+
+c) túlmozgással együttjáró súlyos mozgáskoordinációs zavara a járást vagy a motoros képességeket jelentős mértékben akadályozza.
+
+7.[^102] Kromoszóma-rendellenességgel élőnek kell tekinteni azt a személyt, aki az autoszómák vagy nemi kromoszómák teljes egészének vagy azok egy részletének többletével vagy hiányával született, és ebből adódóan állapota súlyos vagy középsúlyos.
+
+8.[^103] A beszédfogyatékosság megállapítása szempontjából az 1. § (9) bekezdése szerinti funkciózavarok a következők:
+
+8.1. Beszédzavar: a beszéd érthetőségét vagy kommunikatív hatékonyságát érintő, a beszédszervi működést jellemző zavar:
+
+a) beszédhanghiba,
+
+b) beszédmozgás zavar,
+
+c) beszédfolyamatossági zavar,
+
+d) hangképzési zavar,
+
+e) rezonanciazavar.
+
+Az a)–e) pont szerinti beszédzavar középsúlyosnak minősül, ha az olyan mértékű, hogy a személy csak átmenetileg tud megfelelő hangerőt vagy hangminőséget produkálni, a több hangot vagy a tagoltságot átfogóan érintő artikulációs zavar, illetve gyakori megakadások, prozódiai eltérések következtében a beszéd nehezen érthető, illetve kivitelezése jelentős erőfeszítést igényel, hatékonysága csökkent, ezáltal a mindennapi tevékenységeket jelentős mértékben akadályozza.\
+Az a)–e) pont szerinti beszédzavar súlyosnak minősül, ha az olyan mértékű, hogy a személy nem képes megfelelő hangerőt vagy hangminőséget produkálni, beszédképtelen, illetve a hangkészlet nagyobb részét vagy a beszéd tagoltságát átfogóan érintő artikulációs zavarok, a gyakori és hosszan tartó megakadások, a beszédrezonancia, illetve beszédprozódia súlyos zavarai következtében a beszéd nem érthető, kommunikációs funkcióját nem tölti be, ezáltal a személy a mindennapi tevékenységekhez szükséges tagolt és folyamatos beszédre képtelen.
+
+8.2. Nyelvi zavar: a beszélt, írott vagy egyéb szimbólumrendszerek használatának zavara, a nyelvi kifejezés vagy a nyelvi megértés zavara:
+
+a) beszélt vagy írott expresszív nyelvi zavar,
+
+b) beszélt vagy írott receptív nyelvi zavar.
+
+Az a) és b) pont szerinti nyelvi zavar középsúlyosnak minősül, ha az olyan mértékű, hogy a szótalálási, megnevezési nehézségek vagy tévesztések, a nyelvtani szerkesztettség alacsony komplexitása, töredezettsége, illetve hibái, az összefüggő szövegalkotás nehézségei, a nyelvi elemek társas kontextusban való alkalmazásának zavarai, illetve a beszédértés vagy az értelmező olvasás, szövegértés zavarai következtében a kommunikációs szándékok, nyelvileg kódolt információk hatékony közvetítése vagy megértése jelentős nehézségbe ütközik, illetve túlzott erőfeszítést igényel, ezáltal a mindennapi tevékenységeket jelentős mértékben akadályozza.\
+Az a) és b) pont szerinti nyelvi zavar súlyosnak minősül, ha az olyan mértékű, hogy a személy kevéssé vagy egyáltalán nem képes szóban, írásban vagy egyéb jelrendszereket alkalmazva sem szándékai, gondolatai kifejezésére, információk közvetítésére vagy megértésére, ezáltal a mindennapi tevékenységekhez szükséges kommunikációra képtelen.
+
+8.3. Auditív feldolgozási zavar: az akusztikus információk észlelésének, megkülönböztetésének, tagolásának, tárolásának zavara, mely nem tulajdonítható perifériás hallássérülésnek vagy egyéb, érzékszervi vagy értelmi fogyatékosságnak.
+
+Az auditív feldolgozási zavar középsúlyosnak minősül, ha az olyan mértékű, hogy az akusztikus ingerek észlelése, megkülönböztetése, kiemelése, egymás utáni sorrendjének felismerése, emlékezeti tárolása terén jelentkező nehézségek következtében a beszédértés, csoportos helyzetekben vagy zajos környezetben való kommunikáció nehézségbe ütközik, illetve túlzott erőfeszítést igényel, ezáltal a mindennapi tevékenységeket jelentős mértékben akadályozza.
+
+Az auditív feldolgozási zavar súlyosnak minősül, ha az olyan mértékű, hogy az akusztikus ingerek felismerésére, egymás utáni sorrendjének feldolgozására, emlékezeti tárolására a személy kevéssé vagy egyáltalán nem képes, melynek következtében a mindennapi tevékenységekhez szükséges beszédértésre és az auditív ingereken alapuló kommunikáció minden formájára képtelen.
+
+## 2. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^104]
+
+**A fogyatékossági támogatás iránti kérelem adattartalma**
+
+1\. A támogatás jogcímével, a kérelmezővel és az ellátás folyósításával kapcsolatos adatok
+
+1.1 arra vonatkozó adat, hogy a kérelmet
+
+1.1.1 fogyatékossági támogatás megállapítása vagy a már megállapított támogatás mértékének állapotrosszabbodás miatti módosítása, vagy
+
+1.1.2 a vakok személyi járadékára való jogosultságról történő lemondás és az alacsonyabb mértékű fogyatékossági támogatás megállapítása, vagy
+
+1.1.3 a vakok személyi járadékára való jogosultságról történő lemondás és a magasabb mértékű fogyatékossági támogatás megállapítása
+
+iránt nyújtják-e be;
+
+1.2 a kérelmező
+
+1.2.1 neve
+
+1.2.2 születési neve
+
+1.2.3 születési helye, ideje
+
+1.2.4 anyja neve
+
+1.2.5 lakcíme
+
+1.2.6 Társadalombiztosítási Azonosító Jele
+
+1.2.7 állampolgársága (huzamos tartózkodási jogosultsága vagy menekült jogállása);
+
+1.3 arra vonatkozó adat, hogy a kérelmező gondnokság alatt áll-e, valamint a gondnokának neve és lakcíme;
+
+1.4 a kérelmező bankszámlaszáma (fizetési számlaszáma), vagy – postai úton (pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím.
+
+2\. A jogosultság megállapításához szükséges egyéb adatok és nyilatkozatok
+
+2.1 nyilatkozat arról, hogy a kérelmező részesül-e magasabb összegű családi pótlékban, valamint arról, hogy ha igen, akkor arról lemond;
+
+2.2 nyilatkozat arról, hogy a kérelmező részesül-e vakok személyi járadékában, valamint arról, hogy ha igen, akkor arról lemond;
+
+2.3 nyilatkozat a fogyatékossági támogatás folyósítását érintő változások – azok bekövetkezésétől számított 15 napon belül történő – bejelentésére előírt kötelezettségnek, valamint annak tudomásul vételéről, hogy a kötelezettség elmulasztása esetén a jogalap nélkül kifizetett összeg visszakövetelésének van helye;
+
+3\. Kitöltési útmutató és tájékoztatás a csatolandó dokumentumokról.
+
+## 3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^105]
+
+## 4. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^106]
+
+## 5. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^107]
+
+---
+
+[^1]: A 89/2003. (VI. 25.) Korm. rendelet 86. §-ának b) pontja alapján a ,,TÁH'' szövegrész helyébe az ,,Igazgatóság'' szövegrész lépett.
+[^2]: Az 1. § új (4) bekezdését a 21/2003. (II. 25.) Korm. rendelet 1. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti (4)–(6) bekezdés számozását (5)–(7) bekezdésre változtatva. E módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: Az 1. § eredeti (4) bekezdésének számozását a 21/2003. (II. 25.) Korm. rendelet 1. §-ának (1) bekezdése (5) bekezdésre változtatta, szövege e módosító rendelet 1. §-ának (2) bekezdésével megállapított szöveg. Az 1. § (5) bekezdés nyitó szövegrésze a 313/2019. (XII. 18.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdés c) pontja a 313/2019. (XII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § eredeti (5) bekezdésének számozását a 21/2003. (II. 25.) Korm. rendelet 1. §-ának (1) bekezdése (6) bekezdésre változtatta, szövege e módosító rendelet 11. §-ának (9) bekezdése, a 616/2023. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § eredeti (6) bekezdésének számozását a 21/2003. (II. 25.) Korm. rendelet 1. §-ának (1) bekezdése (7) bekezdésre változtatta, szövegét e módosító rendelet 1. §-ának (3) bekezdése állapította meg, a 11. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell. Az 1. § (7) bekezdése a 616/2023. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (8) bekezdését a 95/2013. (III. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 616/2023. (XII. 22.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: Az 1. § (9) bekezdését a 616/2023. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A 2. § (2) bekezdés a) pontja a 616/2023. (XII. 22.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^10]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 39. § (1) bekezdése iktatta be.
+[^11]: A 3/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^12]: A 3/A. § (2) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^13]: A 3/A. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^14]: A 3/A. § (4) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § c) pontja, a 102/2019. (V. 6.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^15]: A 3/A. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 26. §-a szerint módosított szöveg. Alkalmazásra lásd a 360/2019. (XII. 30.) Korm. rendelet 203. §-át.
+[^16]: A 4. § a 182/2009. (IX. 10.) Korm. rendelet 189. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 39. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 83. §-a, a 239/2022. (VI. 30.) Korm. rendelet 5. §-a szerint módosított szöveg. Alkalmazására lásd a 457/2017. (XII. 28.) Korm. rendelet 618. §-át.
+[^18]: A 4. § (2a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 39. § (3) bekezdése iktatta be, szövege a 311/2017. (X. 31.) Korm. rendelet 10. § d) pontja, a 313/2019. (XII. 18.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (2b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 39. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^20]: A 4. § (3) bekezdését a 95/2013. (III. 29.) Korm. rendelet 5. §-a iktatta be.
+[^21]: Az 5. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 190–191. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: Az 5. § (1) bekezdésének b) pontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: Az 5. § (1) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a, a 95/2012. (V. 15.) Korm. rendelet 31. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^24]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: Az 5. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 39. § (7) bekezdés a) pontja hatályon kívül helyezte, újonnan a 616/2023. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 189. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 6. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 37. §-ával megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja, a 616/2023. (XII. 22.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^29]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 81. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^31]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 43. § (3) bekezdésével megállapított szöveg.
+[^32]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja, a 616/2023. (XII. 22.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^33]: A 8. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^34]: A 8. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 81. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^35]: A 8. § (4) bekezdését a 616/2023. (XII. 22.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 9. § a 95/2013. (III. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^37]: A 9. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 43. § (4) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 82. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^38]: A 9. § (3) bekezdése a 311/2017. (X. 31.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^39]: A 9/A. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 9/B. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^41]: A 9/B. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 189. § (4) bekezdésével megállapított, a 95/2013. (III. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^42]: A 9/B. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 9/B. § (3) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 190. §-a, a 95/2013. (III. 29.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^44]: A 9/B. § (3) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 9/B. § (3) bekezdésének b) pontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 9/B. § (3) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 190–191. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 9/C. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 43. § (5) bekezdésével megállapított szöveg.
+[^48]: A 9/C. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^49]: A 9/C. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^50]: A 9/D. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^51]: A 9/D. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 9/D. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^53]: A 9/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 43. § (13) bekezdés a) pontja hatályon kívül helyezte.
+[^54]: A 9/E. §-t a 21/2003. (II. 25.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^55]: A 9/E. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^56]: A 9/E. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 189. § (7) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: A 10. § a 21/2003. (II. 25.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^58]: A 10. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 189. § (8) bekezdésével megállapított, a 95/2013. (III. 29.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^59]: A 10. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^60]: A 10. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^61]: A 11. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
+[^62]: A 11. § új (2) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (4)–(5) bekezdésre változtatva.
+[^63]: A 11. § új (3) bekezdését a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva, szövege a 314/2009. (XII. 28.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^64]: A 11. § eredeti (2) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 21/2003. (II. 25.) Korm. rendelet 11. § (8) bekezdésének a) pontja, a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^65]: A 11. § eredeti (3) bekezdésének számozását a 125/2004. (IV. 29.) Korm. rendelet 10. §-ának (2) bekezdése (5) bekezdésre változtatta. A 11. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^66]: A 12. § a 104/2024. (V. 9.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^67]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 191. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^68]: A 13. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 43. § (8) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^69]: A 13. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^70]: A 13. § (3) bekezdésének b) pontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: A 13. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 191. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^72]: A 14. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^73]: A 14. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 81. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés b) pontja szerint módosított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^74]: A 15. § a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^76]: A 17. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^77]: A 17. § (2) bekezdése a 125/2004. (IV. 29.) Korm. rendelet 12. §-a, a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 18. § a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^79]: A 19. § a 104/2024. (V. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^80]: A 19/A. §-t a 21/2003. (II. 25.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell, a 9. §-ának (1)–(3) bekezdése alapján azt a személyt, aki 2003. február hónapban vakok személyi járadékában részesül, 2003. március hónapban egyszeri juttatás illeti meg. Az egyszeri juttatás összege 10 570 Ft. Az egyszeri juttatást a Nyugdíjfolyósító Igazgatóság, illetőleg a MÁV Rt. Nyugdíj Igazgatóság 2003. március 1. napját megelőzően hatályos, a vakok személyi járadékára vonatkozó rendelkezések szerint folyósítja és számolja el. Az 1998: XXVI. törvény 23/A. §-ának (2) bekezdése szerinti jogosultsággal kapcsolatban lásd e módosító rendelet 11. §-ának (2)–(3) és (5)–(6) bekezdését.
+[^81]: A 19/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 39. § (6) bekezdés d) pontja szerint módosított szöveg.
+[^82]: A 19/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^83]: A 19/A. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 191. §-a, a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd ez utóbbi módosító rendelet 203. §-át.
+[^84]: A 19/A. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 17. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^85]: A 19/A. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 191. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^86]: A 19/B. §-t újonnan a 379/2016. (XII. 2.) Korm. rendelet 39. § (5) bekezdése iktatta be.
+[^87]: A 19/B. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 81. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^88]: A 19/B. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 82. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^89]: A 20. § (3) bekezdését a 21/2003. (II. 25.) Korm. rendelet 11. § (8) bekezdésének b) pontja hatályon kívül helyezte.
+[^90]: A 20/A. §-t a 70/2015. (III. 30.) Korm. rendelet 43. § (11) bekezdése iktatta be.
+[^91]: A 20/B. §-t a 448/2016. (XII. 19.) Korm. rendelet 19. §-a iktatta be.
+[^92]: A 20/C. §-t a 171/2017. (VI. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^93]: A 20/D. §-t a 104/2024. (V. 9.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^94]: A 21. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^95]: A 21. §-t a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^96]: Az 1. számú melléklet a 21/2003. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^97]: Az 1. melléklet 1. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^98]: Az 1. melléklet 4. pontja a 616/2023. (XII. 22.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^99]: Az 1. számú melléklet 5. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja és 2. § b) pontja szerint módosított szöveg.
+[^100]: Az 1. számú melléklet 5. pontjának ca) alpontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^101]: Az 1. számú melléklet 6. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^102]: Az 1. számú melléklet 7. pontját a 95/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^103]: Az 1. melléklet 8. pontját a 616/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^104]: A 2. számú melléklet a 95/2013. (III. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 43. § (13) bekezdés c) pontja, a 35/2024. (II. 29.) Korm. rendelet 274. §-a szerint módosított szöveg.
+[^105]: A 3. számú mellékletet a 360/2019. (XII. 30.) Korm. rendelet 17. § (5) bekezdése hatályon kívül helyezte. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^106]: A 4. számú mellékletet a 206/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 191. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^107]: Az 5. számú mellékletet a 21/2003. (II. 25.) Korm. rendelet 8. §-a iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 191. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

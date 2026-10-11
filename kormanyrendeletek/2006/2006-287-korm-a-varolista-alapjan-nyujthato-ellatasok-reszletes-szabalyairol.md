@@ -1,0 +1,740 @@
+---
+title: "287/2006. (XII. 23.) Korm. rendelet a várólista alapján nyújtható ellátások részletes szabályairól"
+identifier: "287/2006. (XII. 23.) Korm. rendelet"
+njt_id: "2006-287-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/287"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-12-23
+in_force_from: 2009-04-05
+last_amended: 2024-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-287-20-22"
+retrieved: 2026-10-12
+---
+
+# 287/2006. (XII. 23.) Korm. rendelet a várólista alapján nyújtható ellátások részletes szabályairól
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének zs) pontja alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet hatálya kiterjed
+
+a) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) szerinti várólistára, előjegyzési listára vagy betegfogadási listára való felvételre jogosultra;
+
+b) a központi várólista, az intézményi várólista, az intézményi előjegyzési lista, illetve a betegfogadási lista alapján egészségügyi szolgáltatást nyújtó egészségügyi szolgáltatóra;
+
+c) az országos várólista, illetve előjegyzési nyilvántartást vezető szervre és a központi várólistát működtető szervre.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+a) *központi várólista:* az Ebtv. 5/B. §-a j) pontja szerinti transzplantációs várólista, továbbá az e rendelet 1. számú mellékletében meghatározott nagy költségű ellátások tekintetében kialakított várólista,
+
+b) *intézményi várólista:* az Ebtv. 5/B. §-ának k) pontja szerinti várólista,
+
+c)[^2] *szervriadó:* az az eseménysorozat, amelynek időtartama a potenciális donor kijelölésétől az adott szerv beültetésének kezdetéig vagy a szerv ártalmatlanításáig tart,
+
+d) *vérsejtképző őssejt:* csontvelő,
+
+e)[^3] *betegfogadási lista:* az Ebtv. 5/B. §-ának m) pontja szerinti lista,
+
+f)[^4] *azonnali ellátást igénylő eset:* az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának i) pontja szerinti sürgős szükség,
+
+g)[^5] *keresőképtelenség miatti soron kívüli eset:* az Ebtv. 20. § (4) bekezdése szerinti ellátás,
+
+h)[^6] *országos várólista nyilvántartás:* az intézményi várólistákkal kapcsolatos adatok országos nyilvántartása,
+
+i)[^7] *intézményi várólista vezetéséért felelős személy:* az intézményi várólista alapján fekvőbeteg-szakellátást nyújtó szolgáltató szervezeti és működési szabályzatában erre kijelölt személy,
+
+j)[^8] *tervezett várakozási idő:* a beteg számára szükséges ellátás indikációjának szakorvos általi megállapítása és az ellátás beteg általi igénybevételének lehetséges legkorábbi időpontja közötti időtartam,
+
+k)[^9] *tényleges várakozási idő:* a beteg számára szükséges ellátás indikációjának szakorvos általi megállapítása és az ellátás beteg általi igénybevételének időpontja közötti időtartam,
+
+l)[^10] *intézményi előjegyzési lista:* az Ebtv. 5/B. § u) pontja szerinti lista.
+
+## 3. §
+
+(1)[^11] A központi várólistát – a 12. § (1) bekezdésében meghatározott PET/CT várólista kivételével – az Országos Vérellátó Szolgálat Központja (a továbbiakban: OVSZK) működteti azzal, hogy a transzplantációs várólista működtetéséhez a (2) bekezdésben meghatározott egészségügyi ellátások szerinti Transzplantációs Bizottságok közreműködését veszi igénybe. A transzplantációs várólista – a csontvelő transzplantációra vonatkozó lista kivételével – az állami vérellátó szolgálat által megkötött megállapodásban részes szervcsere szervezet (a továbbiakban: szervcsere szervezet) által vezetett nemzetközi várólista részét képezi.
+
+(2)[^12] A Transzplantációs Bizottságokat a következő egészségügyi szolgáltatóknál működő egészségügyi ellátások szerint kell kialakítani
+
+a) szív transzplantáció: a Semmelweis Egyetem Általános Orvostudományi Kar Városmajori Szív- és Érgyógyászati Klinikán és a Gottsegen György Országos Kardiovaszkuláris Intézetben működő Szív Transzplantációs Bizottság,
+
+b) máj transzplantáció: a Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinikán működő Máj Transzplantációs Bizottság,
+
+c) tüdő transzplantáció: a Semmelweis Egyetem Mellkassebészeti Klinikán működő Tüdő Transzplantációs Bizottság,
+
+d) vese transzplantáció: a Debreceni Egyetem Klinikai Központ Sebészeti Intézetben, a Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinikán, a Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinikán, a Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinikán működő Regionális Vese Transzplantációs Bizottságok,
+
+e) kombinált vese és hasnyálmirigy transzplantáció: a Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinikán, Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinikán működő Regionális Vese-hasnyálmirigy Transzplantációs Bizottság.
+
+(3) Az egészségügyi szolgáltató a (2) bekezdés szerinti egészségügyi ellátásokat kizárólag transzplantációs várólista alapján nyújthatja.
+
+(4)[^13] A transzplantációs várólistára történő felkerüléssel, az átmeneti alkalmatlansággal és a törléssel kapcsolatos döntést a transzplantáció típusa szerint illetékes Transzplantációs Bizottság hozza meg a várólista-sorrend kialakításának szakmai feltételeiről szóló jogszabályban, valamint szervátültetések esetében az (1) bekezdés szerinti, a szervcsere szervezettel kötött megállapodásban foglaltak szerint.
+
+(5)[^14]
+
+## 4. §
+
+(1) A kezelőorvosnak tájékoztatási kötelezettsége keretében fel kell világosítania a beteget az adott ellátás esetében létező transzplantációs várólistára való felkerülés lehetőségéről.
+
+(2) A transzplantációra való alkalmasság kivizsgálását – a beteg megfelelő, a várható adattovábbításra is kiterjedő tájékoztatáson alapuló beleegyezése után – a beteg kezelőorvosa kezdeményezi az illetékes Transzplantációs Bizottságnál.
+
+(3) A transzplantációra való alkalmasság kivizsgálásának indokoltságáról az illetékes Transzplantációs Bizottság a külön jogszabályban foglalt szakmai szabályok alapján dönt.
+
+(4)[^15] A transzplantációra való alkalmasság megállapítása esetén a Transzplantációs Bizottság a beteget transzplantációs várólistára helyezi. Az OVSZK meghatározza a beteg Ebtv. 20/A. § (5) bekezdése szerinti azonosítóját (a továbbiakban: egyedi azonosító), és azt megküldi az illetékes Transzplantációs Bizottságnak. A Transzplantációs Bizottság zárt borítékban személyesen átadja vagy a kezelőorvos útján megküldi a betegnek az egyedi azonosítót. Az egyedi azonosítót az OVSZK a központi várólista keretében közzéteszi és a szervátültetésre váró beteg állapotában bekövetkezett változást 24 órán belül aktualizálja.
+
+(5)[^16] Az illetékes Transzplantációs Bizottság a várólistára történő felvételről, törlésről és minden egyéb, a várólistával kapcsolatban a beteget érintő döntésről a beteget és kezelőorvosát, valamint az OVSZK-t írásban tájékoztatja.
+
+(6)[^17] A kezelőorvos soron kívül értesíti a 2. számú melléklet szerinti jelentőlapon a Transzplantációs Bizottságot, ha a szervátültetésre váró beteg állapotában olyan, a transzplantációt lényegesen befolyásoló változás következik be, amely legalább 15 napig nem teszi lehetségessé a beavatkozást (a továbbiakban: átmeneti alkalmatlanság).
+
+(7) Az átmeneti alkalmatlanság megállapítása esetén a beteg a várólistán marad, azonban az átmeneti alkalmatlanságot a várólistán jelezni kell.
+
+(8) Az átmeneti alkalmatlanság az érintett beteg adott várólistán elfoglalt helyét kedvezőtlenül nem módosíthatja, amennyiben azonban annak szakmai feltételei fenn állnak, a transzplantáció más betegnél is elvégezhető.
+
+## 5. §[^18]
+
+(1) Szervriadó esetén az adott szerv transzplantációjához megfelelő beteg kiválasztását a szervcsere szervezet végzi. Az OVSZK minden szervriadó esetén továbbítja a donor adatokat a szervcsere szervezet felé. A 3. § (1) bekezdése szerinti megállapodás alapján magyar betegnek érkező szervfelajánlást az OVSZK fogadja és továbbítja az illetékes Transzplantációs Központ felé.
+
+(2) A szervriadó kimeneteléről a beavatkozást végző egészségügyi szolgáltató a beavatkozást követő 24 órán belül értesíti az OVSZK-t. Az OVSZK az értesítés alapján haladéktalanul tájékoztatja a szervcsere szervezetet.
+
+## 6. §
+
+(1)[^19] A Transzplantációs Bizottságok tagjait az OVSZK főigazgatója nevezi ki a 3. § (2) bekezdés a)–d) pontja szerinti bizottságok esetében a Magyar Transzplantációs Társaság, a 3. § (2) bekezdés e) pontja szerinti bizottságok esetében a Magyar Hematológiai és Transzfuziológiai Társaság javaslata alapján, a 8–10. §-ban foglalt szabályokra is figyelemmel.
+
+(2) A Transzplantációs Bizottság szükség szerint, de legalább havonta ülésezik.
+
+(3)[^20] A 3. § (2) bekezdése szerinti Transzplantációs Bizottságok tagjai maguk közül – két évre – elnököt választanak, és a Transzplantációs Bizottság létrehozásától számított 30 napon belül meghatározzák ügyrendjüket, amelyet az OVSZK főigazgatója hagy jóvá.
+
+(4) A Transzplantációs Bizottságnak nem lehet tagja, aki az adott transzplantációval érintett várólistán szerepel, illetve akinek erre a várólistára történő felvétele folyamatban van. A tagság a 4. § (2) bekezdése szerinti kezdeményezés időpontjával szűnik meg.
+
+(5) A Transzplantációs Bizottság tizenöt napot meghaladó határozatképtelensége esetén új bizottságot kell létrehozni.
+
+## 7. §
+
+(1)[^21] A Transzplantációs Bizottságok működési költségeit, valamint a központi várólista vezetésének költségeit – a 12. § (1) bekezdésében meghatározott PET/CT várólista kivételével – az OVSZK a költségvetésében biztosítja.
+
+(2)[^22] A Transzplantációs Bizottságok működésükről éves szakmai és pénzügyi beszámolót készítenek, amelyet megküldenek az OVSZK részére.
+
+## 8. §
+
+(1) A Szív és a Máj Transzplantációs Bizottságok tagjai:
+
+a) a Magyar Transzplantációs Társaság tagjai közül delegált két személy,
+
+b) az adott ellátás nyújtására külön jogszabályban kijelölt egészségügyi szolgáltató transzplantációt végző szervezeti egységének szakmai vezetője, valamint
+
+c) az adott szerv transzplantációjában, a betegek transzplantációra történő kiválasztásában, illetve utókezelésében és gondozásában legalább ötéves gyakorlattal rendelkező két szakorvos.
+
+(2) A Tüdő Transzplantációs Bizottság tagjai:
+
+a) a Magyar Transzplantációs Társaság tagjai közül delegált egy személy,
+
+b)[^23] a betegek transzplantációra történő kiválasztásában, illetve utókezelésében és gondozásában legalább ötéves gyakorlattal rendelkező négy szakorvos.
+
+## 9. §
+
+(1)–(3)[^24]
+
+(4)[^25] A Regionális Vese Transzplantációs Bizottság három- vagy öttagú lehet, tagjai:
+
+a) az adott szerv transzplantációjában legalább ötéves gyakorlattal rendelkező sebész szakorvos,
+
+b) az adott ellátás nyújtására külön jogszabályban kijelölt egészségügyi szolgáltató egy belgyógyász és egy nefrológus szakorvosa,
+
+c) öttagú bizottság esetén az adott szerv transzplantációjában, vagy ahhoz kötődő előkészítő, illetve utógondozó ellátásban legalább ötéves gyakorlattal rendelkező két szakorvos.
+
+(5) A Regionális Vese- és Hasnyálmirigy Transzplantációs Bizottság tagjai:
+
+a) az adott szerv transzplantációjában legalább ötéves gyakorlattal rendelkező sebész szakorvos,
+
+b) az adott ellátás nyújtására külön jogszabályban kijelölt egészségügyi szolgáltató egy belgyógyász-diabetológus és egy nefrológus szakorvosa.
+
+## 10. §
+
+(1) A Felnőtt Csontvelő Transzplantációs Bizottság a 18. életévet betöltött, a Gyermek Csontvelő Transzplantációs Bizottság a 18. életévet be nem töltött betegek esetében közreműködik a várólista vezetésében.
+
+(2) A Felnőtt Csontvelő Transzplantációs Bizottság tagjai:
+
+a) a csontvelő transzplantáció végzésére külön jogszabályban kijelölt egészségügyi szolgáltató(k) adott ellátást nyújtó szervezeti egységének vezetője,
+
+b)[^26] az Egészségügyi Szakmai Kollégium Transzfuziológia és Hematológia Tagozatának vezetője,
+
+c)[^27] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
+
+(3) A Gyermek Csontvelő Transzplantációs Bizottság tagjai:
+
+a) a gyermek csontvelő transzplantáció végzésére külön jogszabályban kijelölt egészségügyi szolgáltató(k) adott ellátást nyújtó szervezeti egységének vezetője,
+
+b) a gyermek onko-hematológiai ellátást nyújtó egészségügyi szolgáltatók által delegált két szakorvos,
+
+c)[^28] az őssejtdonor nyilvántartást vezető szervezet szakmai képviselője.
+
+## 11. §[^29]
+
+(1) Az OVSZK az 1. számú melléklet szerinti Gamma Sugársebészet várólista vezetése érdekében a 4. számú melléklet B) pontjában meghatározott egészségügyi szolgáltatónál működő Várólista Bizottság közreműködését veszi igénybe. A Várólista Bizottság feladata – a kezelőorvos javaslata alapján – a beteg gamma sugársebészeti várólistára történő felvétele, továbbá az egyedi azonosító meghatározása.
+
+(2) Az (1) bekezdés szerinti Várólista Bizottság az egyedi azonosítót – személyesen vagy kezelőorvosa útján, zárt borítékban – adja át a beteg számára.
+
+(3) A Gamma Sugársebészet Várólista Bizottság tagjai a 4. számú melléklet B) pontjában megjelölt egészségügyi szolgáltató idegsebészeti osztályának vezetője és az egészségügyi szolgáltató egy-egy klinikai onkológus és sugárterápiás szakorvosa.
+
+(4) A Gamma Sugársebészet Várólista Bizottság tekintetében a 6. §-ban foglaltakat kell értelemszerűen alkalmazni azzal, hogy tagjait – az Idegsebészeti Szakmai Kollégium javaslata alapján – a 4. számú melléklet B) pontjában megjelölt egészségügyi szolgáltató elnöke nevezi ki.
+
+## 12. §[^30]
+
+(1) Az 1. számú mellékletben meghatározott PET/CT ellátás tekintetében kialakított központi várólista nyilvántartási rendszert (a továbbiakban: PET/CT várólista) a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) működteti.
+
+(2) A NEAK a PET/CT várólista működtetése érdekében szakmai albizottságokból álló Központi Várólista Bizottságot (a továbbiakban: PET-Bizottság) hoz létre.
+
+(3) A PET-Bizottság feladata – a PET/CT várólistával kapcsolatos végrehajtási szabályokról szóló miniszteri rendeletben meghatározott szakorvosi csoport (a továbbiakban: szakmai team), vagy ennek hiányában a kezelőorvos javaslata alapján – az ellátási igények miniszteri rendeletben meghatározott eljárásrend szerinti ellenőrzése, elbírálása, az ellátást végző szolgáltató és az ellátás időpontjának kijelölése.
+
+(4) A NEAK a PET-Bizottság közreműködésével irányítja a PET/CT várólistán lévő betegek ellátásának elosztását a PET/CT várólistával kapcsolatos végrehajtási szabályokról szóló miniszteri rendeletben szabályozottak figyelembevételével. A NEAK az egyedi publikus azonosítót, továbbá a beavatkozás várható időpontját és helyét – a központi PET/CT várólista rendszerben – a honlapján közzéteszi.
+
+(5) A PET/CT várólistára történő felvételt követően a (4) bekezdésben foglalt adatokról a vizsgálati javaslatot kezdeményező szakmai team vagy kezelőorvos útján a beteg személyesen tájékoztatást kap.
+
+(6) A PET-Bizottság tagjait az Egészségügyi Szakmai Kollégium Nukleáris Medicina Tagozata és a PET/CT várólistával kapcsolatos végrehajtási szabályokról szóló miniszteri rendeletben meghatározott indikációk szerint illetékes szakmai tagozatainak javaslata alapján a NEAK jelöli ki.
+
+(7) A PET-Bizottság tagjainak listáját és a PET-Bizottság működésének rendjét a NEAK a honlapján tájékoztatóban teszi közzé.
+
+(8)[^31] A PET/CT várólista vezetésének költségeit a NEAK költségvetésében kell biztosítani.
+
+## 12/B. §[^32]
+
+(1)[^33] Az országos várólista nyilvántartást a NEAK vezeti.
+
+(2) Az országos várólista nyilvántartást vezető szerv
+
+a) kezeli a rendszer működtetéséhez szükséges valamennyi törzsadatot, az intézményi várólisták egységes országos azonosítóját,
+
+b) kezeli a várólista esetekre és a várólista esetek módosítására vonatkozó tranzakciós adatokat az aktuális állapotnak megfelelő várólista nyilvántartás biztosítása érdekében,
+
+c)[^34] biztosítja, hogy a várólista nyilvántartás a NEAK által kezelt egyéb nyilvántartásoknak megfelelő adatokat kezeljen,
+
+d) biztosítja, hogy az országos várólista nyilvántartás szakmai és nyilvános felülete – a személyes adatok védelmére vonatkozó szabályok figyelembevételével – időbeni és tartalmi azonossággal működjön,
+
+e) az *a)–d)* pont szerinti feladatok ellátása érdekében ellenőrzi az általa kezelt adatokat, az adatokkal kapcsolatos hibákról értesíti a térségi betegút-szervezésért felelős szervet, illetve az érintett egészségügyi szolgáltatót.
+
+(3)[^35] Az országos várólista nyilvántartást vezető szerv az országos várólista nyilvántartás adatai alapján ellenőrzi és folyamatosan értékeli az intézményi várólisták helyzetét az ellátás biztonsága, elérhetősége, a szakmai követelmények érvényesítése céljából. Az értékelés eredményéről rendszeresen tájékoztatja az egészségügyért felelős minisztert, valamint az érintett egészségügyi szolgáltatót.
+
+(4) Az országos várólista nyilvántartást vezető szerv gondoskodik az országos várólista nyilvántartás nyilvános honlapján keresztül a lakosság és a várólistán várakozók tájékoztatásáról a tervezett várakozási időről, a várakozók számáról szolgáltatónkénti és térségenkénti bontásban, valamint országos szinten.
+
+(5) Az országos várólista nyilvántartást vezető szerv az országos várólista nyilvántartás alapján a tervezett várakozási idők optimalizálása érdekében – az Ebtv. 20. § (7b) bekezdésében foglaltakon túl – szakmai ellenőrzési intézkedéseket kezdeményezhet az érintett egészségügyi szolgáltató fenntartójánál.
+
+(6)[^36]
+
+## 13. §[^37]
+
+(1) Intézményi várólistát az 5. számú mellékletben meghatározott ellátások esetében, valamint az Ebtv. 20. § (2) bekezdés b) pontja szerinti esetben kell vezetni.
+
+(1a)[^38] Abban az esetben, ha az egészségügyi szolgáltató az (1) bekezdésben meghatározott, várólista alapján igénybe vehető ellátást egymástól közigazgatásilag elkülönült településeken elhelyezkedő telephelyein végzi, az egészségügyi szolgáltató az országos várólista nyilvántartást vezető szervnél kezdeményezheti az adott ellátás vonatkozásában telephelyenként külön várólista vezetését. A kezdeményezés alapján az – országos várólista nyilvántartást vezető szerv által – egymástól elkülönített várólistákat e rendelet alkalmazása szempontjából önálló intézményi várólistának kell tekinteni azzal, hogy az egészségügyi szolgáltató alatt a telephelyet kell érteni.
+
+(2) A várólistára történő betegfelvétellel kapcsolatos feladatok ellátására egy szolgáltatón belül – az intézményi várólista vezetéséért felelős személyen túl – más személyek (a továbbiakban: intézményi várólista kezelését végző személy) is kijelölhetőek a szervezeti és működési szabályzatában.
+
+(3) Az intézményi várólistára történő felvételt a beteg számára ellátást nyújtó fekvőbeteg-gyógyintézet orvosa javaslatára az intézményi várólista vezetéséért felelős személy vagy az intézményi várólista kezelését végző személy kezdeményezi az országos várólista nyilvántartást vezető szervnél.
+
+(4) A (3) bekezdés alkalmazásában a beteg számára intézményi várólista alapján ellátást nyújtó fekvőbeteg-gyógyintézet orvosának kell tekinteni az orvost abban az esetben is, ha a várólistára felvételt más finanszírozott egészségügyi szolgáltató nevében eljáró orvosként javasolja.
+
+(5) Amennyiben az Ebtv. 20. § (2b) bekezdése alapján az országos várólista nyilvántartást vezető szerv egyedi azonosítót generál a beteg számára, azt elektronikusan megküldi a várólistára felvételt kezdeményező személynek, aki felveszi a beteget az országos várólista nyilvántartást vezető szerv által működtetett honlapon keresztül az Ebtv. 20/A. § (1) bekezdése szerinti adatok rögzítésével az intézményi várólistára. Abban az esetben, ha a várólistára felvételt az intézményi várólista kezelését végző személy kezdeményezte, azt a felvétel napján az intézményi várólista vezetéséért felelős személy felülbírálhatja.
+
+(6) Az intézményi várólista vezetéséért felelős személy az országos várólista nyilvántartási rendszer, az adatátviteli vonal vagy az intézményi rendszer hibája esetén a hiba megszűnését követően a betegek megjelenési sorrendjének megfelelően küldi meg az (5) bekezdés szerinti adatokat az országos várólista nyilvántartást vezető szerv részére.
+
+(7) Abban az esetben, ha az országos várólista nyilvántartást vezető szerv a várólistára felvétel kezdeményezését követően megállapítja, hogy az adott beteg adott ellátás vonatkozásában már másik intézményi várólistán szerepel, erről – a várólista nyilvántartási rendszeren keresztül – tájékoztatja a kezdeményező személyt. A kezdeményező személy felajánlja a beteg számára az adatait már tartalmazó várólista és a kezdeményezéssel érintett várólista közötti választás lehetőségét. Amennyiben a beteg a kezdeményezéssel érintett várólistát választja, az (5) bekezdésben foglaltakat kell alkalmazni, és erről az országos várólista nyilvántartást vezető szervet a honlapon keresztül értesíteni kell. Az országos várólista nyilvántartást vezető szerv törli a beteg adatait azokról a várólistákról, amelyek alapján a beteg választása szerint nem kerül sor ellátás igénybevételére.
+
+(8) A kezdeményező személy tájékoztatja a várólistára felvételt javasló orvost és a beteget a várólistára történő felvétel tényéről, a betegnek a várólista szerinti sorrendben való helyéről és az ellátás igénybevételének várható időpontjáról.
+
+(9) Az intézményi várólista alapján igénybe vehető fekvőbeteg-szakellátást a beteg annál az egészségügyi szolgáltatónál veheti igénybe, amelyik szolgáltató várólistáján szerepel.
+
+(10) Ha az intézményi várólistára felvett beteg a (9) bekezdés szerinti egészségügyi szolgáltató helyett másik egészségügyi szolgáltatónál kívánja az ellátást igénybe venni, azt a napot kell a várólistára felvétel időpontjának meghatározásánál figyelembe venni, amikor az utóbbi egészségügyi szolgáltatónál a várólistára felvételre került. Ha az utóbbi egészségügyi szolgáltatónál az (5) bekezdésben foglaltak szerint felvételre kerül a várólistára a beteg, az országos várólista nyilvántartásért felelős szerv törli a beteget a korábbi szolgáltató intézményi várólistájáról és erről egyidejűleg tájékoztatja a korábbi szolgáltatót.
+
+(10a)[^39] Az Ebtv. 20. § (3) bekezdése alkalmazása szempontjából a várólistára történő felkerülés időpontja szerinti igénybevételnek minősül a tervezett ellátási időpontot megelőző 7 munkanapon belüli, ellátás ütemezési érdekből végzett ellátási sorrendmódosítás. Az ütemezés nem eredményezhet az érintett betegek részére 7 munkanapnál hosszabb várakozási idő növekedést.
+
+(11) Abban az esetben, ha az ellátás igénybevételének időpontja eltér a beteggel korábban közölt tervezett időponttól, erről a beteget haladéktalanul tájékoztatja az intézményi várólista vezetéséért felelős személy, illetve az intézményi várólista kezelését végző személy.
+
+(12) Amennyiben a beteg kezelőorvosa a beteg jelzése alapján vagy a beteg vizsgálata során észleli, hogy az intézményi várólistán lévő beteg az ellátás igénybevételére a várólistán megadott időpontban – a beteg állapotában bekövetkezett változás miatt – nem alkalmas, akkor azt haladéktalanul jelzi az intézményi várólista vezetéséért felelős személynek, illetve az intézményi várólista kezelését végző személynek. Ez esetben a beteg az ellátást az igénybevételére történő alkalmasság orvosi vizsgálattal történő megállapítását követő – a várólistán elfoglalt helye szerinti – lehető legkorábbi időpontban kapja meg. A halasztás a beteg várólistán elfoglalt helyét kedvezőtlenül nem módosíthatja, amennyiben azonban annak szakmai feltételei fennállnak, az adott beavatkozás más – a várólistán lévő soron következő – betegnél is elvégezhető. A beteg alkalmasságát az ellátás igénybevételére a kezelőorvos jelzi az intézményi várólista vezetéséért felelős személynek, illetve az intézményi várólista kezelését végző személynek, aki az értesítést követően a kezelőorvossal egyeztetve megjelöli az új időpontot.
+
+(13) Amennyiben az intézményi várólistán szereplő beteg állapota miatt a beteg ellátása – az ellátás várható időpontját megelőzőn – azonnal szükséges, a beteg a várólista sorrendtől függetlenül igénybe veheti az ellátást. Erről a kezelőorvos tájékoztatja az intézményi várólista vezetéséért felelős személyt, illetve az intézményi várólista kezelését végző személyt, aki az országos várólista nyilvántartást vezető szerv felé jelzi az azonnali ellátás tényét és a beteg egyedi azonosítóját.
+
+(14)[^40] A beteg a (12) bekezdésben nem szabályozott esetben legkésőbb az ellátás várható időpontját megelőző 5. napig kezdeményezheti az intézményi várólista vezetéséért felelős személynél, illetve az intézményi várólista kezelését végző személynél az ellátás várható időpontjának későbbi időpontra történő halasztását. A szolgáltató az ellátás tervezett időpontja elhalasztásának beteg általi kezdeményezésével egyidejűleg a regisztrálási tételt az intézményi várólistáról áthelyezi az intézményi előjegyzési listára, ha a módosított tervezett ellátási időpont megfelel az Ebtv. 5/B. § u) pontjának. Ha az ellátás várható időpontjának elhalasztása miatt keletkező várakozási idő meghaladja az adott ellátás tekintetében – a beteg állapotának figyelembevételével – a szakmailag elfogadható időtartamot, az ebből eredő kockázatokról a beteget a kezelőorvos tájékoztatja.
+
+(15) Az intézményi várólista alapján nyújtott ellátás befejezését követő napon az intézményi várólista vezetéséért felelős személy törli az intézményi várólistából a beteg adatait.
+
+(16)[^41] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy leveszi az elmaradt ellátás időpontjától számított 3. napot követő napon az intézményi várólistáról, és a levételről egyidejűleg tájékoztatja a beteget. A tájékoztató tartalmazza az igazolási kérelem benyújtására való felhívást is. Ha a beteg az elmaradt ellátás időpontjától számított 3 napon belül bemutatja az egészségügyi szolgáltató felé a meg nem jelenés okát egyértelműen alátámasztó igazolást, akkor 7 napon belül új időpontot jelöl ki számára. Ha a műtéti indikáció továbbra is fennáll, kezelőorvosa ismételten az intézményi előjegyzési, illetve várólistára veheti. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
+
+(16a)[^42] Ha az intézményi várólistán lévő beteg az egészségügyi ellátást azért nem vette igénybe, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényelt, akkor az intézményi várólistáról való törlés mellett intézkedni kell a beteg intézményi előjegyzési listára történő vételéről. Azon betegeket, akik azért nem részesültek egészségügyi ellátásban, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényeltek, az intézményi előjegyzési listán kell nyilvántartani.
+
+(17)[^43] Az intézményi várólistákkal kapcsolatos, az (1)–(16a) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
+
+(18)[^44] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
+
+(19)[^45] A beteg intézményi várólistára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a tervezett ellátási időpontot.
+
+(20)[^46] A beteg intézményi előjegyzési listára történő felvételével egyidejűleg, a kapcsolódó ellátásról a beteg rendelkezésére bocsátandó dokumentumra rá kell vezetni az Ebtv. 20/A. § (5) bekezdése szerint képzett egyedi azonosítót, a beteg részére a listára vétel időpontjában az adott szolgáltatónál az adott várólistán kiadható legkorábbi tervezhető ellátási időpontot. Ha a tervezett ellátási időpont kijelölésére az Ebtv. 20. § (3a) bekezdés e) pontja alapján került sor, a dokumentumnak tartalmaznia kell a beteg aláírásával hitelesített, erre vonatkozó nyilatkozatát.
+
+(21)[^47] Az intézményi várólistához és előjegyzési listához kapcsolódó tájékoztatási és eljárási kötelezettség teljesítését a beteg dokumentációiba be kell jegyezni.
+
+(22)[^48] Ha az adott egészségügyi szolgáltatónál a várólistára felvételre kerülő személy nem részesíthető az egészségi állapota által indokolt legrövidebb időn belül a szükséges ellátásban, a beteg ellátásáról szóló dokumentációban, a beteg aláírásával igazolva, rögzíteni szükséges az egészségügyről szóló 1997. évi CLIV. törvény 9. § (1) bekezdése szerinti tájékoztatást arról, hogy az ellátás korábbi időpontban hol vehető igénybe.
+
+(23)[^49] A beteg kezelőorvosa a (22) bekezdés szerinti esetben a beteg ellátásának érdekében, a beteg jóváhagyása szerint, lefolytatja a szükséges egyeztetést a várólisták közötti áthelyezésről, amelynek eredményét a beteg dokumentációjában és az intézményi várólista rendszerben ezzel egyidejűleg dokumentálni szükséges.
+
+## 13/A. §[^50]
+
+(1) Az Ebtv. 20. §-ának (1) bekezdése szerinti egészségügyi szolgáltató betegfogadási listát vezet a járóbeteg-szakellátás keretében végzett ellátásokra.
+
+(2) A betegfogadási listát szakrendelésenként kell vezetni.
+
+(3) A betegfogadási listát vezető személyt az egészségügyi szolgáltató szervezeti és működési szabályzatában kell kijelölni.
+
+(4) A betegfogadási listára történő felkerülést a beteg, a beteg beleegyezése esetén háziorvosa vagy kezelőorvosa kezdeményezheti személyesen, telefonon vagy elektronikus úton. Az előzetes időpont egyeztetés nem minősül gyógyító, illetve diagnosztikai célú találkozásnak.
+
+(5)[^51] A betegfogadási listán a várható ellátás időpontját a szolgáltató legalább naptári nap és – ha ez lehetséges – óra szerinti pontossággal állapítja meg.
+
+(6)[^52] Amennyiben az egészségügyi szolgáltató a beavatkozást – a betegfogadási lista vezetésére vonatkozó szabályok betartásával, szabad kapacitása terhére – előzetes időpont egyeztetése nélkül, az ellátásra történő jelentkezéskor elvégzi, a betegfogadási listára történő felkerülés időpontjaként az ellátásra való jelentkezés időpontját kell feltüntetni.
+
+(7)[^53] A betegfogadási lista összeállításánál figyelembe kell venni a tárgyidőszakot megelőző három hónap betegforgalmi adatai alapján
+
+a) az azonnali ellátást, valamint a kontrollt igénylő esetek várható számát,
+
+b) azokat a gondozott betegeket, akik rendszeres ellátást igényelnek,
+
+c) a szakorvosi konzíliumot, továbbá a fekvőbeteg-ellátó intézményben ellátott beteg számára igényelt konzíliumot, valamint
+
+d) a külön jogszabály szerinti szakértői eljárás keretében elrendelt orvos-szakmai szakvélemény kiadásához szükséges szakvizsgálatot.
+
+(8)[^54] A betegfogadási lista összeállításánál a (7) bekezdésben foglaltakon túl figyelembe kell venni a betegforgalmi adatok alapján a keresőképtelenség és a transzplantáció előtti kivizsgálás miatti soron kívüli esetek számát, azzal, hogy a keresőképtelenség és a transzplantáció előtti kivizsgálás miatti soron kívüli esetek ellátása nem veszélyeztetheti a nem keresőképtelen és a nem transzplantáció előtti kivizsgálásra váró betegek folyamatos ellátását.
+
+## 13/B. §[^55]
+
+(1)[^56] Az egészségügyi szolgáltató a betegfogadási listáról, az azonnali ellátást igénylő, valamint a keresőképtelenség és a transzplantáció előtti kivizsgálás miatti soron kívüli esetekről – a (4) és a (9) bekezdésre is figyelemmel – elektronikus úton, személyazonosításra alkalmatlan módon, minden hónap 15. napjáig – a tárgyhónapot megelőző hónap vonatkozásában – a 6. számú melléklet szerinti adattartalommal jelentést küld a NEAK részére.
+
+(2)[^57] Az egészségügyi szolgáltató az intézményi várólistáról a 8. számú melléklet szerinti adattartalommal, az országos várólista nyilvántartás vezetésére szolgáló rendszeren keresztül, online jelentést küld az országos várólista nyilvántartást vezető szerv részére.
+
+(3)[^58] A betegfogadási listáról szóló tárgyhavi jelentés szakrendelésenként tartalmazza az ellátásra történő jelentkezés időpontjával (év, hónap, nap) együtt a beteg sorszámát és az ellátás igénybevételének időpontját, valamint a 6. számú mellékletben meghatározott körülményeit. Amennyiben a beteg – a tárgyhónapban – az ellátást nem vette igénybe vagy még nem kapta meg, a jelentésben ezt a tényt, valamint ennek a 6. számú melléklet alapján meghatározott okát kell megjelölni.
+
+(4)[^59] Azt a beteget, aki a tárgyhónapot megelőző hónapban a (2) és (3) bekezdés szerinti jelentés tárgyát képező ellátást nem kapta meg vagy nem vette igénybe, az ellátás igénybevételének hónapjáig minden tárgyhavi jelentésben fel kell tüntetni, azzal, hogy a beteg sorszáma nem változhat. Azt a beteget, aki a betegfogadási listán az ellátás igénybevételének időpontjaként meghatározott időponttól számított 2 hónap elteltével az ellátást nem vette igénybe és az ellátás igénybevételének elhalasztását sem a beteg, sem kezelőorvosa nem kezdeményezte, valamint azt a beteget, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvos-szakmai szempontból indokolatlanná teszi, a betegfogadási listáról törölni kell.
+
+(5)[^60] A (2)–(3) bekezdés szerinti jelentésben az azonnali ellátást igénylő eseteket „A” betűvel kell jelölni.
+
+(6)[^61] A betegfogadási listáról történő jelentés elkészítéséhez a NEAK a honlapjáról ingyenesen letölthető számítógépes szoftvert biztosít.
+
+(7)[^62]
+
+(8)[^63]
+
+(9)[^64] Az egészségügyi szolgáltatónak a diagnosztikai – ide nem értve a CT, MRI és PET vizsgálatokat – és művese-kezelés ellátásai tekintetében nincs jelentési kötelezettsége.
+
+(10)[^65] Az egészségügyi szolgáltató – az (1) bekezdésben rögzített gyakorisággal – elektronikus úton jelentést küld a NEAK részére arról, hogy az egyes betegfogadási listái esetében az újonnan jelentkező, sürgős ellátást nem igénylő betegeket milyen várható várakozási időn belül tudja fogadni.
+
+## 13/C. §[^66]
+
+Az intézményi várólista, illetve a betegfogadási lista vezetése tekintetében az azonnali ellátás nyújtásának indokoltságáról a külön jogszabály szerinti szempontok figyelembevételével
+
+a) a fekvőbeteg-gyógyintézeti ellátást végző egészségügyi szolgáltató esetében a beteg kezelőorvosa,
+
+b) járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vonatkozásában
+
+ba)[^67] beutaló alapján nyújtott ellátás igénybevételekor a háziorvos javaslatára az adott szakrendelés orvosa,
+
+bb) beutalót nem igénylő esetben az adott szakrendelés orvosa
+
+dönt. A döntést és annak indokát az adott beteg egészségügyi dokumentációjában rögzíteni kell.
+
+## 13/D. §[^68]
+
+(1) A 13. § (5) bekezdése szerinti intézményi várólista vezetés kötelezettsége nem érinti a fekvőbeteg- ellátó intézménynek azt a jogosultságát, hogy – a kötelezően vezetendő intézményi várólista vezetésével nem érintett – egészségügyi szolgáltatást az általa meghatározott módon, az ütemezett betegellátási rendszerben nyújtsa. Amennyiben a fekvőbeteg-ellátó intézmény ez esetben is intézményi várólistát vezet, akkor erre az intézményi várólistára vonatkozó szabályokat kell értelemszerűen alkalmazni.
+
+(2)[^69] Az egészségügyi szolgáltató az (1) bekezdés szerinti intézményi várólista kialakításának jellemzőiről a 13/B. § (1) bekezdése szerinti jelentés részeként elektronikus formában tájékoztatja a NEAK-ot, továbbá annak megszüntetése esetén, a megszüntetés tényét a NEAK részére – legalább a megszüntetés időpontját megelőző két hónappal – bejelenti. A megszüntetés időpontja nem lehet korábbi, mint az intézményi várólista alapján a bejelentés időpontja szerint a listán szereplő betegek közül utolsóként ellátott beteg ellátásának időpontja.
+
+## 13/E. §[^70]
+
+(1) Amennyiben az egészségügyi szolgáltató vagy szervezeti egysége egészségügyi szolgáltatást a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 5/B. § k) pontja szerinti intézményi várólista alapján végez, és az intézményi várólistával érintett szakma megszűnik, a várólistára felvett beteget a beteg választása alapján annak az egészségügyi szolgáltatónak kell átadni, amelyik
+
+a) az átadó szolgáltató által ellátott feladatot a továbbiakban végzi, vagy
+
+b) az adott ellátás tekintetében a biztosított ellátására területileg kötelezett.
+
+(2) Ha az (1) bekezdés alapján átvételre kötelezett egészségügyi szolgáltató az adott ellátást intézményi várólista alapján végzi, akkor az átvett biztosítottat az átvevő egészségügyi szolgáltató intézményi várólistáján az átadó egészségügyi szolgáltató intézményi várólistájára történő felvétel időpontja szerint kell elhelyezni.
+
+(3) Amennyiben az átvevő egészségügyi szolgáltató intézményi várólistáján a (2) bekezdés alapján nem állapítható meg a sorrend, akkor a várólista-sorrend kialakításáról szóló külön jogszabályban foglalt rendelkezések alapján kell a biztosítottat besorolni az átvevő egészségügyi szolgáltató újonnan kialakított intézményi várólistáján.
+
+(4) Az intézményi várólistára felvett betegeket az átvevő egészségügyi szolgáltató értesíti az intézményi várólistára történő felvételről, valamint arról, hogy várhatóan milyen időpontban tudják számára nyújtani az adott ellátást.
+
+(5)[^71] Az (1)–(4) bekezdés szerinti eljárással szemben a NEAK-nál lehet panasszal élni.
+
+## 16. §[^74]
+
+Az Ebtv. 20. §-a (2) bekezdésének b) pontja szerinti tartós kapacitáshiány akkor áll fenn, ha az egészségügyi szolgáltató a fekvőbeteg-szakellátást a beteg részére a jelentkezését követő 60 napon belül nem tudja biztosítani.
+
+## 17. §
+
+(1) Ez a rendelet 2007. január 1-jén lép hatályba azzal, hogy a Transzplantációs Bizottságok, a PET/CT Várólista Bizottságok, valamint a Monitoring Testület tagjait, továbbá a 13. § (1) bekezdése szerinti személyt a rendelet hatálybalépésétől számított 15 napon belül kell megbízni.
+
+(2) E rendelet hatálybalépését követően a beteget az 1. számú melléklet szerinti nagy költségű ellátás igénybevételének szükségessége esetén kizárólag az OVSZK által vezetett központi várólistára lehet felvenni és a központi várólistán elfoglalt helye szerint lehet számára az egészségügyi szolgáltatást nyújtani. E rendelet hatálybalépése előtt felkerült betegek ellátása a 2006. december 31. napján meglevő intézményi várólisták szerint történik. Azok az egészségügyi szolgáltatók, ahol az 1. számú melléklet szerinti nagy költségű ellátás nyújtása történik, az intézményi várólista adatait e rendelet hatálybalépésétől számított 5 napon belül, e rendelet hatálybalépésének napja szerinti adattartalommal megküldik az OVSZK számára.
+
+(3)[^75]
+
+## 17/A. §[^76]
+
+A települési önkormányzatok egészségügyi intézményei átvételének részletes szabályairól és egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 92/2012. (IV. 27.) Korm. rendelettel megállapított 2. § h) pontja szerinti országos várólista nyilvántartás létrehozása érdekében az egészségügyi szolgáltatók 2012. június 10-éig megküldik az országos várólista nyilvántartást vezető szerv részére az adott ellátás tekintetében intézményi várólistán szereplő betegek adatait. Amennyiben a beérkezett adatok alapján az országos várólista nyilvántartást vezető szerv megállapítja, hogy ugyanaz a beteg ugyanazon ellátás tekintetében egyidejűleg több intézményi várólistán is szerepel, 2012. június 15-éig felhívja a legkésőbbi bejelentkezés szerinti intézményi várólista vezetéséért felelős személyt arra, hogy 5 napon belül tájékoztassa az érintett beteget az intézményi várólisták közötti választás lehetőségéről és a határidőn belüli választás elmulasztásának következményeiről. Amennyiben a beteg a tájékoztatástól számított 10 napon belül nem választ intézményi várólistát, a legkésőbbi bejelentkezési időpontot és várólistát kell figyelembe venni.
+
+## 17/B. §[^77]
+
+(1) Azon esetekben, melyek tekintetében a PET/CT várólistára felvételt 2017. április 1-jét megelőzően kezdeményezték, az OVSZK jár el várólistát vezető szervként, azzal, hogy
+
+a) ezen esetek tárgyában legkésőbb 2017. április 15-éig meg kell hozni a döntést a várólistára felvételről, és erre irányuló döntés esetén gondoskodni kell a várólistára felvételről,
+
+b) ezen esetekben 2017. március 31-ét követően a 12. §-nak és a 4. számú mellékletnek a 2017. március 31-én hatályos szabályait kell alkalmazni.
+
+(2) Azon esetekben, melyek tekintetében a PET/CT várólistára felvételt 2017. március 31-ét követően kezdeményezték, a NEAK jár el várólistát vezető szervként, azzal, hogy 2017. június 30-áig a PET/CT várólista az OVSZK által működtetett központi várólista rendszer részeként működik.
+
+(3) Az OVSZK 2017. április 30-áig a PET/CT várólista és nyilvántartás valamennyi adatát átadja a NEAK részére.
+
+## 1. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^78]
+
+**A nagy költségű ellátások jegyzéke**
+
+1\. PET/CT
+
+2\. Gamma Sugársebészet
+
+## 2. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez
+
+**Jelentőlap**
+
+<table><tbody><tr><td>*Jelentést tevő intézet*</td><td></td></tr><tr><td colspan="2">*Személyi adatok*</td></tr><tr><td>Beteg neve:</td><td></td></tr><tr><td>Születési dátuma:</td><td></td></tr><tr><td>Anyja neve:</td><td></td></tr><tr><td>Lakcíme:</td><td></td></tr><tr><td>TAJ száma:</td><td></td></tr><tr><td colspan="2">*Betegséggel kapcsolatos adatok*</td></tr><tr><td>Diagnózis:</td><td></td></tr><tr><td>Kezdeményezés időpontja:</td><td></td></tr><tr><td>Várólistára kerülés időpontja:</td><td></td></tr><tr><td>Alkalmassági vizsgálat ideje és helye:</td><td></td></tr><tr><td>Állapotváltozás kezdete/vége:</td><td></td></tr><tr><td>A beteg jelentkezésének ideje:</td><td></td></tr><tr><td colspan="2">*Az átmeneti alkalmatlanságot indokoló betegség* *BNO kóddal jelezve*</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td colspan="2">*A beteg kezelőorvosának adatai*</td></tr><tr><td>Neve:</td><td></td></tr><tr><td>Munkahely megnevezése:</td><td></td></tr><tr><td>Telefonszám:</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+Budapest, 200 ..............
+
+aláírás/orvosi pecsét
+
+## 3. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^79]
+
+**A)** **A Regionális Vesetranszplantációs Bizottságok működésének központjai**
+
+1\. Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+
+*Illetékességi terület:*
+
+Budapest,
+
+Fejér vármegye,
+
+Győr-Moson-Sopron vármegye,
+
+Heves vármegye,
+
+Komárom-Esztergom vármegye,
+
+Nógrád vármegye,
+
+Pest vármegye,
+
+Vas vármegye,
+
+Veszprém vármegye.
+
+2\. Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ Sebészeti Klinika (6725 Szeged, Semmelweis u. 8.)
+
+*Illetékességi terület:*
+
+Bács-Kiskun vármegye,
+
+Békés vármegye,
+
+Csongrád-Csanád vármegye,
+
+Jász-Nagykun-Szolnok vármegye.
+
+3\. Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+
+*Illetékességi terület:*
+
+Baranya vármegye,
+
+Somogy vármegye,
+
+Tolna vármegye,
+
+Zala vármegye.
+
+4\. Debreceni Egyetem Klinikai Központ Sebészeti Intézet (4032 Debrecen, Móricz Zsigmond krt. 22.)
+
+*Illetékességi terület:*
+
+Borsod-Abaúj-Zemplén vármegye,
+
+Hajdú-Bihar vármegye,
+
+Szabolcs-Szatmár-Bereg vármegye.
+
+**B) A Regionális Vese- és Hasnyálmirigy-transzplantációs Bizottságok működésének központjai**
+
+1\. Semmelweis Egyetem Általános Orvostudományi Kar Sebészeti, Transzplantációs és Gasztroenterológiai Klinika (1082 Budapest, Üllői út 78/A.)
+
+*Illetékességi terület:*
+
+Budapest,
+
+Borsod-Abaúj-Zemplén vármegye,
+
+Fejér vármegye,
+
+Győr-Moson-Sopron vármegye,
+
+Hajdú-Bihar vármegye,
+
+Heves vármegye,
+
+Komárom-Esztergom vármegye,
+
+Nógrád vármegye,
+
+Pest vármegye,
+
+Szabolcs-Szatmár-Bereg vármegye,
+
+Vas vármegye,
+
+Veszprém vármegye.
+
+2\. Pécsi Tudományegyetem Általános Orvostudományi Kar Klinikai Központ Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+
+*Illetékességi terület:*
+
+Baranya vármegye,
+
+Bács-Kiskun vármegye,
+
+Békés vármegye,
+
+Csongrád-Csanád vármegye,
+
+Jász-Nagykun-Szolnok vármegye,
+
+Somogy vármegye,
+
+Tolna vármegye,
+
+Zala vármegye.
+
+## 4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^80]
+
+A)[^81]
+
+B) Gamma Sugársebészet Várólista Bizottságot működtető egészségügyi szolgáltató
+
+Debreceni Egyetem Klinikai Központ, Idegsebészeti Klinika
+
+## 5. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^82]
+
+**A kötelezően vezetendő intézményi várólisták köre**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | Várólista azonosító | Várólista megnevezés |
+| **2** | 001 | Szürkehályog műtétei |
+| **3** | 002 | Mandula, orrmandula műtét |
+| **4** | 003 | Orrmelléküregek, proc. mastoideus műtétei |
+| **5** | 006 | Gerincstabilizáló műtétek, gerincdeformitás műtétei |
+| **6** | 007 | Gerincsérv műtétek |
+| **7** | 017 | Prosztata jóindulatú megnagyobbodásának műtétei I. (Prostatectomia) |
+| **8** | 018 | Prosztata jóindulatú megnagyobbodásának műtétei II. (Transurethralis prostataműtét) |
+| **9** | 019 | Nőgyógyászati műtétek nem malignus folyamatokban |
+| **10** | 020 | Térdprotézis műtét, traumatológia szakma |
+| **11** | 021 | Térdprotézis műtét, ortopédia szakma |
+| **12** | 022 | Csípőprotézis műtét, traumatológia szakma |
+| **13** | 023 | Csípőprotézis műtét, ortopédia szakma |
+| **14** | 024 | Coronária intervenciók |
+| **15** | 025 | A szív elektrofiziológiai vizsgálata, nagy és rádiófrekvenciás ablációk |
+| **16** | 026 | Jelentős kiterjesztett gerincműtétek |
+
+A várólisták tételes meghatározását az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 19. számú melléklete tartalmazza.
+
+## 6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^83]
+
+**Betegfogadási listáról szóló jelentés a Nemzeti Egészségbiztosítási Alapkezelő részére**
+
+(Járóbeteg-szakellátás esetén szakrendelésenként)
+
+A jelentés adattartalma a következő:
+
+<table><tbody><tr><td>Intézmény kódja</td><td>Intézmény telephelye</td><td>Szakrendelés (járó)</td><td>Listára kerülés dátuma [éééé/hh/nn]</td><td>Napi sorszám</td><td>Azonnali (akut) beavatkozás (A)/Halaszt-<br>ható<br>beavatkozás (H) /<br>Keresőkép-<br>telenség miatti beavatkozás (K)/<br>transzplantáció előtti kivizsgálás miatti soron kívüli ellátás (T)</td><td>Esemény*</td><td>Esemény dátuma [ééééhhnn]**</td></tr><tr><td colspan="8"></td></tr><tr><td colspan="8">* Események</td></tr><tr><td rowspan="3">Az adott hónap során ellátott betegek</td><td colspan="6">Ellátást a beteg megkapta a jelentő intézményben normál rend szerint</td><td>NOR</td></tr><tr><td colspan="6">Ellátást a beteg megkapta a jelentő intézményben, de valamilyen szakmai ok vagy a keresőképtelenség vagy transzplantáció előtti kivizsgálás miatti soron kívüliség miatt a listához képest előrehozva</td><td>ELO</td></tr><tr><td colspan="7"></td></tr><tr><td rowspan="6">Az adott hónap során nem ellátott betegek</td><td colspan="6">Halasztás szakmai okokból (ideiglenes alkalmatlanság)</td><td>HSZ</td></tr><tr><td colspan="6">Halasztás kapacitáshiány miatt</td><td>HKH</td></tr><tr><td colspan="6">Halasztás a beteg kérésére</td><td>HBK</td></tr><tr><td colspan="6">A beteg nem jelent meg</td><td>NJM</td></tr><tr><td colspan="6">Egyéb okból aktualitását vesztette</td><td>EOA</td></tr><tr><td colspan="6">Nincs esemény (várakozás)</td><td>NES</td></tr></tbody></table>
+
+** Esemény dátuma: Csak igénybevett ellátás estén kitöltendő.
+
+## 8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^84]
+
+**Várólista jelentés az országos várólista nyilvántartást vezető szerv részére**
+
+A jelentés adattartalma a következő:
+
+Sorszám Adattartalom
+
+1 Az országos várólista eset publikus azonosítója
+
+2 Várólista kódja
+
+3 Várólista eset státusza
+
+4 Területi ellátási kötelezettség státusza (I/N)
+
+5 Beteg TAJ száma
+
+6 Beteg kapcsolattartási adatai
+
+Várólista eset felvételi adatai:
+
+7 Beküldő intézmény kódja
+
+8 Beküldő szervezeti egység kódja
+
+9 Beküldő orvos pecsétszáma
+
+10 BNO kód és név (elsődleges betegségé)
+
+11 Vizsgáló intézmény kódja
+
+12 Vizsgáló szervezeti egység kódja
+
+13 Vizsgáló orvos pecsétszáma
+
+14 Listára kerülés kelte
+
+15 A várólista eset eredeti azonosítója ezen a várólistán (az átmeneti időszakban)
+
+16 Tervezett OENO kód és név (elsődleges ellátásé)
+
+17 Oldaliság jele (páros szerven végezhető eljárás esetén) (J/B/P/N)
+
+18 Tervezett ellátás időpont típuskódja
+
+19 Sürgősség
+
+20 Előző kapcsolódó ellátási eset törzsszám azonosítója
+
+21 Szakmailag minimálisan indokolt várakozási idő, ha van (nap)
+
+22 Szakmailag megengedett maximális várakozási idő, ha van (nap)
+
+23 Megjelenés várható időpontja
+
+24 Ellátás várható időpontja
+
+Várólista eset teljesítési adatai:
+
+25 Megjelenés tényleges időpontja
+
+26 Ellátás tényleges időpontja
+
+27 Tényleges OENO kód és név (elsődleges ellátásé)
+
+27/a[^85] Oldaliság jele a tényleges ellátásnál (páros szerven végezhető eljárás esetén) (J/B/P/N)
+
+28 Ellátó intézmény kódja
+
+29 Ellátó szervezeti egység kódja
+
+30 Ellátó felelős orvos pecsétszáma
+
+31 Ellátás törzsszáma vagy naplósorszáma
+
+Külföldiek várólista regisztrálásának adatai:[^86]
+
+32[^87] Biztosítás, ennek hiányában állampolgárság országa
+
+33[^88] A külföldi beteg biztosítási azonosítási száma, ennek hiányában személyazonosítási okmány azonosítója
+
+34[^89] Ellátást engedélyező dokumentum típusa (ha rendelkezésre áll)
+
+---
+
+[^1]: Az 1. § az 520/2013. (XII. 30.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^2]: A 2. § c) pontja a 254/2013. (VII. 5.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^3]: A 2. § e) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 69/2008. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § f) pontját a 8/2008. (I. 23.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 2. § g) pontját a 106/2011. (VI. 30.) Korm. rendelet 8. §-a iktatta be.
+[^6]: A 2. § h) pontját a 92/2012. (IV. 27.) Korm. rendelet 16. §-a iktatta be.
+[^7]: A 2. § i) pontját a 92/2012. (IV. 27.) Korm. rendelet 16. §-a iktatta be.
+[^8]: A 2. § j) pontját a 92/2012. (IV. 27.) Korm. rendelet 16. §-a iktatta be.
+[^9]: A 2. § k) pontját a 92/2012. (IV. 27.) Korm. rendelet 16. §-a iktatta be.
+[^10]: A 2. § l) pontját az 520/2013. (XII. 30.) Korm. rendelet 41. §-a iktatta be.
+[^11]: A 3. § (1) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 21. §-ával megállapított, a 204/2016. (VII. 21.) Korm. rendelet 8. § a) pontja, a 464/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^13]: A 3. § (4) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. § (5) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 61. §-a hatályon kívül helyezte.
+[^15]: A 4. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 42. §-ával megállapított, a 192/2015. (VII. 21.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (5) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^17]: A 4. § (6) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^18]: Az 5. § a 254/2013. (VII. 5.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^19]: A 6. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^20]: A 6. § (3) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^21]: A 7. § (1) bekezdése a 261/2018. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 7. § (2) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^23]: A 8. § (2) bekezdés b) pontja a 463/2024. (XII. 30.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^24]: A 9. § (1)–(3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 33. § c) pontja hatályon kívül helyezte.
+[^25]: A 9. § (4) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^26]: A 10. § (2) bekezdés b) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^27]: A 10. § (2) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^28]: A 10. § (3) bekezdés c) pontja a 192/2015. (VII. 21.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^29]: A 11. § a 370/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^30]: A 12. § a 464/2016. (XII. 23.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^31]: A 12. § (8) bekezdését a 261/2018. (XII. 19.) Korm. rendelet 2. §-a iktatta be.
+[^32]: A 12/B. §-t a 92/2012. (IV. 27.) Korm. rendelet 17. §-a iktatta be.
+[^33]: A 12/B. § (1) bekezdése a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja, a 464/2016. (XII. 23.) Korm. rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^34]: A 12/B. § (2) bekezdés c) pontja a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 12/B. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^36]: A 12/B. § (6) bekezdését a 30/2015. (II. 25.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^37]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^38]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
+[^39]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
+[^40]: A 13. § (14) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^41]: A 13. § (16) bekezdése a 91/2022. (III. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^42]: A 13. § (16a) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^43]: A 13. § (17) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^44]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^45]: A 13. § (19) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^46]: A 13. § (20) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^47]: A 13. § (21) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^48]: A 13. § (22) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^49]: A 13. § (23) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 29. §-a iktatta be.
+[^50]: A 13/A. §-t a 8/2008. (I. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 69/2008. (III. 31.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 7. § (1) bekezdését.
+[^51]: A 13/A. § új (5) bekezdését a 19/2010. (II. 9.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (5)–(6) bekezdés számozását (6)–(7) bekezdésre változtatta. A 13/A. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^52]: A 13/A. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 19/2010. (II. 9.) Korm. rendelet 3. §-a.
+[^53]: A 13/A. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 19/2010. (II. 9.) Korm. rendelet 3. §-a.
+[^54]: A 13/A. § (8) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 287/2018. (XII. 21.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^55]: A 13/B. §-t a 8/2008. (I. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani.
+[^56]: A 13/B. § (1) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja, a 287/2018. (XII. 21.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^57]: A 13/B. § (2) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^58]: A 8/2008. (I. 23.) Korm. rendelet 6. § – 43/2008. (II. 29.) Korm. rendelet 3. §-ával megállapított – (2) bekezdése alapján az egészségügyi szolgáltató a 13/B. § (3) bekezdése szerinti jelentéseket első alkalommal – 2008. február és március hónap vonatkozásában együttesen – 2008. április 15-ig küldi meg az Egészségbiztosítási Felügyeletnek. A 13/B. § (3) bekezdésének első mondata a 69/2008. (III. 31.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^59]: A 13/B. § (4) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^60]: A 13/B. § (5) bekezdése a 69/2008. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^61]: A 13/B. § (6) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 19. § (3) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^62]: A 13/B. § (7) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^63]: A 13/B. § (8) bekezdését a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés g) pontja hatályon kívül helyezte.
+[^64]: A 13/B. § (9) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^65]: A 13/B. § (10) bekezdését a 69/2008. (III. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^66]: A 13/C. §-t a 8/2008. (I. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a betegfogadási listákat és az intézményi várólistákat 2008. február 1. napjáig kell kialakítani.
+[^67]: A 13/C. § b) pontjának ba) alpontja a 69/2008. (III. 31.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^68]: A 13/D. §-t a 69/2008. (III. 31.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^69]: A 13/D. § (2) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § a)–b) pontja, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés a)–b) pontja szerint módosított szöveg.
+[^70]: A 13/E. §-t a 72/2009. (IV. 3.) Korm. rendelet 2. §-a iktatta be.
+[^71]: A 13/E. § (5) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 7. § c) pontja, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^74]: A 16. § a 69/2008. (III. 31.) Korm. rendelet 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 7. § (1) bekezdését.
+[^75]: A 17. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 218. pontja hatályon kívül helyezte.
+[^76]: A 17/A. §-t a 92/2012. (IV. 27.) Korm. rendelet 20. §-a iktatta be.
+[^77]: A 17/B. §-t újonnan a 464/2016. (XII. 23.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^78]: Az 1. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^79]: A 3. számú melléklet a 463/2024. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^80]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^81]: A 4. számú melléklet A) pontját a 464/2016. (XII. 23.) Korm. rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^82]: Az 5. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 261/2018. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^83]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított, a 379/2016. (XII. 12.) Korm. rendelet 81. § (3) bekezdés d) pontja, a 287/2018. (XII. 21.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^84]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^85]: A 8. számú melléklet 27a. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^86]: A 8. számú melléklet 32. sorát megelőző alcímet az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^87]: A 8. számú melléklet 32. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^88]: A 8. számú melléklet 33. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^89]: A 8. számú melléklet 34. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.

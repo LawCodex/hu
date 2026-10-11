@@ -1,0 +1,160 @@
+---
+title: "216/1998. (XII. 30.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a háborúkban elesett katonák és a polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, 1996. november 16-án, Kijevben aláírt Megállapodás kihirdetéséről"
+identifier: "216/1998. (XII. 30.) Korm. rendelet"
+njt_id: "1998-216-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/216"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-12-30
+in_force_from: 1999-01-07
+last_amended: 1999-01-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-216-20-22"
+retrieved: 2026-10-12
+---
+
+# 216/1998. (XII. 30.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a háborúkban elesett katonák és a polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, 1996. november 16-án, Kijevben aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás hatálybalépéséről szóló diplomáciai jegyzékváltás 1998. szeptember 25-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a háborúkban elesett katonák és a polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, 1996. november 16-án, Kijevben aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hivatalos magyar nyelvű szövege a következő:
+
+,,
+
+MEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a háborúkban elesett katonák\
+és a polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: a Felek),
+
+a Magyar Köztársaság és Ukrajna között a jószomszédi viszony és az együttműködés alapjairól 1991. december 6-án aláírt Szerződés rendelkezéseiből kiindulva,
+
+kifejezve mindkét nép akaratát és tekintettel a közös történelmi múltra, valamint annak figyelembevételével, hogy a katonáknak, a hadifoglyoknak és más személyeknek, akik Magyarország és Ukrajna területén a háborúk idején vagy azok következményeként, valamint erőszakos elhurcolások következtében elestek vagy meghaltak, joguk van méltó sírhelyekre, amelyek kialakítását és gondozását – a háborúk áldozatainak védelméről szóló 1949. augusztus 12-i Genfi Konvenciók és az azokat kiegészítő Jegyzőkönyvek szerint – megfelelő módon kell biztosítani,[^1]
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A jelen Megállapodásban az alábbiakban feltüntetett fogalmak jelentése a következő:
+
+*a)* ,,elesett ukrán katonák és a háborúk polgári áldozatai'' (a továbbiakban: elesett katonák és a háborúk polgári áldozatai):
+
+– olyan személyek, akik az SzSzKSz megalakulása előtt és fennállása idején Ukrajna területén éltek és az ukrán, orosz, illetve szovjet fegyveres erők állományába tartoztak, valamint a háborúkban, hadifogságban vagy a háborúkat követő időszakban a háborúk vagy a fogság következtében a Magyar Köztársaság területén elestek vagy meghaltak,
+
+– olyan személyek, akik az SzSzKSz megalakulása előtt és fennállása idején Ukrajna területén éltek, és akiket a háborúk idején erőszakkal elhurcoltak, illetve akik mind a háborúk idején, mind azok következtében a Magyar Köztársaság területén meghaltak;
+
+*b)* ,,elesett ukrán katonák és a háborúk polgári áldozatainak temetkezési helyei'':
+
+az *a)* pontban meghatározott személyek Magyarország területén meglévő vagy fellelhető temetői, önálló temetőparcellái és sírjai;
+
+*c)* ,,elesett magyar katonák és a háborúk polgári áldozatai'' (a továbbiakban: elesett katonák és a háborúk polgári áldozatai):
+
+– azok a magyar állampolgárok, akik a magyar fegyveres erők állományába tartoztak és a háborúkban, hadifogságban vagy a háborúkat követő időszakokban a háborúk vagy a fogság következtében Ukrajna területén elestek vagy meghaltak,
+
+– azok a magyar állampolgárok, akiket a háborúk idején vagy következtében erőszakkal kényszermunkára Ukrajna területére hurcoltak, és akik ott ez idő tájt meghaltak;
+
+*d)* ,,az elesett magyar katonák és a háborúk polgári áldozatainak temetkezési helyei'':
+
+a *c)* pontban megjelölt személyek mai Ukrajna területén meglévő vagy fellelhető temetői, önálló temetőparcellái és sírjai;
+
+*e)* ,,az elesett katonák és a háborúk polgári áldozatai temetkezési helyeinek fenntartása és gondozása'':
+
+a temetkezési helyek megőrzésének biztosítása, azok megfelelő állapotban való fenntartása és temetői növényzettel történő ellátása;
+
+*f)* ,,elesett katonák és a háborúk polgári áldozatai temetkezési helyeinek létesítése és felszerelése'':
+
+a temetkezési helyek határainak kijelölése, megfelelő rendbehozataluk és síremlékek kialakítása;
+
+*g)* ,,síremlékek'': az elesettek emlékének megörökítését szolgáló sírfeliratok, sírkövek, emlékjelek és emléktáblák.
+
+*2. Cikk*
+
+1\. Az elesett katonák és a háborúk polgári áldozatai temetkezési helyeinek a Magyar Köztársaság és Ukrajna területén történő megjelölésével, bejegyzésével, létesítésével és felszerelésével, illetve ápolásával, valamint a földi maradványok exhumálásával és újratemetésével kapcsolatos kérdések rendezése során a Felek a jelen Megállapodást, valamint azon ország jogszabályait alkalmazzák, amely területén a temetkezési helyek megtalálhatók. Emellett a Felek tiszteletben tartják államaik nemzeti és vallási hagyományait a sírok, a síremlékek feliratozása, illetve létesítése és felszerelése tekintetében.
+
+2\. A Felek az általuk felhatalmazott szervek útján kölcsönösen tájékoztatják egymást az elesett katonák és a háborúk polgári áldozatai temetkezési helyeinek meglétéről és újabbak feltárásáról, számáról, illetve nagyságáról mindkét ország területén, valamint az elesettek és elhunytak személyi adatairól, továbbá ezeket a személyeket érintő és a jelen Megállapodás megvalósításával összefüggő egyéb kérdésekről. Az említett információ alapján hivatalos jegyzékeket állítanak össze az elesett katonák és a háborúk polgári áldozatai sírjainak és temetkezési helyeinek hollétéről, amelyeket diplomáciai úton adnak át.
+
+3\. A Felek mindkét ország területén biztosítják az elesett katonák és a háborúk polgári áldozatai temetkezési helyeinek, többek között az emlékművek és más síremlékek védelmét és korlátlan időre szóló megőrzését.
+
+4\. A Felek a jelen Megállapodásból származó jogok és kötelezettségek érvényesítése során tiszteletben tartják más országok elesett katonáinak földi maradványait, sírjait és temetkezési helyeit, a nemzetközi jogi normáknak megfelelően.
+
+5\. A Felek mindegyike biztosítja a másik Fél állampolgárai számára – saját országa jogrendjének és az érvényes kétoldalú megállapodásoknak megfelelően – az elesett magyar és ukrán katonák és a háborúk polgári áldozatai temetkezési helyei szabad meglátogatásának lehetőségét.
+
+6\. A Felek kölcsönösen elősegítik az elesettek emlékének megörökítésén munkálkodó társaságok, alapítványok és más társadalmi szervezetek erőfeszítéseit és együttműködését.
+
+*3. Cikk*
+
+1\. A Felek térítésmentesen egymás használatára bocsátják az elesett katonák és a háborúk polgári áldozatai temetkezési helyei, síremlékei által elfoglalt földterületeket arra az időre, amíg azok ilyen célt szolgálnak.
+
+2\. Amennyiben a jelen Cikk 1. pontjának megfelelően rendelkezésre bocsátott földterületet kivételes állami érdek miatt más célra kívánják hasznosítani, úgy az érdekelt Fél a jelen Cikk 1. pontja feltételei mellett új földterületet biztosít, és vállalja az elesett katonák és a háborúk polgári áldozatai földi maradványainak újratemetésével, a síremlékek áthelyezésével és új temetkezési helyek létesítésével és felszerelésével járó költségeket.
+
+3\. Az elesett katonák és a háborúk polgári áldozatai új temetkezési helyét szolgáló földterületének kiválasztása és az újratemetés a Felek kölcsönös megegyezésével és az illetékes szervek döntése alapján történik.
+
+4\. Az elesett katonák és a háborúk polgári áldozatai földi maradványainak a szülőhelyen történő újratemetése céljából történő exhumálás az érdekelt Fél kérésére, a hozzátartozók és a másik Fél egyetértésével történik.
+
+5\. A földi maradványok újratemetése céljából elvégzendő exhumáláson jogosultak jelen lenni azon Fél képviselői, amely elesett katonájának és a háborúk polgári áldozatainak földi maradványait exhumálják.
+
+*4. Cikk*
+
+Az elesett katonák és a háborúk polgári áldozatai új temetkezési helyeinek kialakítása a jövőben mindkét ország területén településen kívül, az elesettek emlékéhez méltó helyen, a Felek kölcsönös megegyezése alapján történik.
+
+*5. Cikk*
+
+1\. Mindegyik Fél saját költségére biztosítja országa területén a másik Fél elesett katonái és a háborúk polgári áldozatai temetkezési helyei, valamint síremlékei fenntartását és gondozását.
+
+2\. Az elesett katonák és a háborúk polgári áldozatai exhumálásával, földi maradványainak áthelyezésével, valamint a katonák és a háborúk polgári áldozatai újonnan feltárt temetkezési helyeinek létesítésével és felszerelésével kapcsolatos költségeket az a Fél vállalja, amely kezdeményezésére ezen munkákat elvégzik.
+
+*6. Cikk*
+
+A jelen Megállapodásból adódó feladatok végrehajtására a Felek képviselőket, szakértőket küldhetnek egymás országába, továbbá együttműködhetnek a helyi szervezetekkel, helyi munkaerőt és helyi anyagokat vehetnek igénybe.
+
+*7. Cikk*
+
+1\. A Felek bevihetik a másik Fél országa területére a jelen Megállapodásban megjelölt munkák elvégzéséhez szükséges eszközöket, szállítóeszközöket, anyagokat és tartozékokat.
+
+2\. Ezen Cikk 1. pontjában megjelölt eszközök és anyagok vámkezelésére az alábbi szabályok vonatkoznak:
+
+*a)* az ideiglenesen behozott eszközöket és szállítóeszközöket a behozatalnál/kivitelnél vámelőjegyzésbe veszik azzal a kitétellel, hogy a fent nevezett eszközöket és szállítóeszközöket a jelen Megállapodásban megjelölt munkák elvégzése után az országból ismét kiviszik. Ezek az eszközök mentesek a vámbiztosíték nyújtásának kötelezettsége alól;
+
+*b)* a temetők és temetkezési helyek létesítéséhez és felszereléséhez, díszítéséhez és gondozásához szükséges anyagok és tartozékok mentesülnek a behozatali vám alól, amennyiben a vámhatóság számára a behozatali vámnyilatkozat mellett csatolják
+
+– a behozott cikkek pontos listáját,
+
+– az erre felhatalmazott személy által aláírt kötelezvényt, hogy a megjelölt cikkeket csak a Megállapodásban meghatározott célokra használják.
+
+*8. Cikk*
+
+Mindkét Fél a jelen Megállapodásban foglaltak végrehajtásával megbízott felelős szervet jelöl ki.
+
+*9. Cikk*
+
+A Felek kölcsönös megegyezés alapján a jelen Megállapodást módosíthatják és kiegészíthetik.
+
+*10. Cikk*
+
+1\. A jelen Megállapodás meghatározatlan időre szól, és harminc (30) nappal azután lép hatályba, hogy a Felek jegyzékváltás útján kölcsönösen értesítik egymást, hogy teljesítették a jelen Megállapodás hatálybalépéséhez szükséges belső jogrendi eljárásokat.
+
+2\. A Felek bármelyike megszüntetheti a jelen Megállapodás hatályát, amennyiben a Megállapodás felmondására irányuló szándékáról írásban értesíti a másik Felet. Ebben az esetben a Megállapodás az értesítésnek a másik Fél által történő kézhezvétele napjától számított hat (6) hónap elteltével hatályát veszti.
+
+Készült Kijev városában, 1996. november 16-án, két példányban, magyar és ukrán nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Ukrajna Kormánya\
+nevében''
+
+## 3. §
+
+E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1998. október 25-től kell alkalmazni. Végrehajtásáról a honvédelmi miniszter gondoskodik.[^2]
+
+---
+
+[^1]: Lásd az 1954: 32.törvényerejű rendeletet, az 1989: 30. törvényerejű rendeletet, valamint a 17/2000. (XI. 16.), a 1.87/2000. (XI. 16.), a 1.97/2000. (XI. 16.) és a 20/2000. (XI. 16.) KüM közleményeket.
+[^2]: A Magyar Közlöny 1999. évi 3. számában közzétett helyesbítésnek megfelelő szöveg.

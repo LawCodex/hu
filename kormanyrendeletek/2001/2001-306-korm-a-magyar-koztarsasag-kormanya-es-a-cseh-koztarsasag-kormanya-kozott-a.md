@@ -1,0 +1,216 @@
+---
+title: "306/2001. (XII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a nemzetközi kombinált árufuvarozásról szóló Egyezmény kihirdetéséről"
+identifier: "306/2001. (XII. 27.) Korm. rendelet"
+njt_id: "2001-306-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/306"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-27
+in_force_from: 2002-01-04
+last_amended: 2002-01-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-306-20-22"
+retrieved: 2026-10-12
+---
+
+# 306/2001. (XII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a nemzetközi kombinált árufuvarozásról szóló Egyezmény kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás*
+
+*2001. október 12. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a nemzetközi kombinált árufuvarozásról szóló, Prágában, 2001. június 27-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+„,,
+
+**Egyezmény**\
+**a Magyar Köztársaság Kormánya**\
+**és a Cseh Köztársaság Kormánya között**\
+**a nemzetközi kombinált árufuvarozásról**
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+annak tudatában, hogy az árucseréhez elengedhetetlen a teljesítőképes nemzetközi árufuvarozás,
+
+felismerve, hogy környezetvédelmi okokból és a közúti forgalom korlátozott kapacitása miatt vasúton és vízi úton korszerű fuvarozási rendszert kell kialakítani a közúti áruforgalom gazdasági és környezetvédelmi szempontból is elfogadható alternatíváinak megteremtése érdekében,
+
+abban a meggyőződésben, hogy a kombinált árufuvarozás rendszere nagy lehetőség a nemzetközi áruforgalom gondjainak megoldásában,
+
+figyelembe véve azokat a környezet- és természetvédelmi nemzetközi egyezményeket, amelyeknek mindkét Szerződő Fél részese, valamint az erre vonatkozó nemzeti jogszabályokat,
+
+hivatkozva a kombinált árufuvarozásra vonatkozó azon nemzetközi egyezményekre, amelyeknek mindkét Szerződő Fél részese,
+
+törekedve a nemzetközi kombinált árufuvarozás terén történő kölcsönös együttműködésre,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+*Fogalommeghatározások*
+
+Jelen Egyezmény alkalmazásában:
+
+*a)* ,,Nemzetközi kombinált árufuvarozás'': olyan fuvarozás, amelynek során a gépjármű vagy a gépjármű által fuvarozott intermodális fuvarozási egység az útvonal egy részét vasúton vagy belvízi úton az egyik Szerződő Fél államából közvetlenül a másik Szerződő Fél államába vagy annak területén keresztül teszi meg, miközben ennek hossza legalább 100 km – s amelynek folyamán a gépjármű vagy az intermodális fuvarozási egység a közutat a feladási vagy a rendeltetési hely és a legközelebbi kombiterminál vagy kikötő között veszi igénybe.
+
+*b)* ,,Intermodális fuvarozási egység'': konténer (legalább 6 m hosszú), csereszekrény, továbbá a kombinált árufuvarozásban alkalmazott daruzható és nem daruzható félpótkocsi vagy pótkocsi.
+
+*c)* ,,Gépjármű'': az egyik Szerződő Fél államában bejegyzett, árufuvarozásra kiépített és használt gépi meghajtású jármű, továbbá bármilyen vontatóból és pótkocsiból, vagy vontatóból és félpótkocsiból álló közúti járműszerelvény, amelynél a gépjármű az egyik Szerződő Fél államában van bejegyezve. Nem szükséges, hogy a pótkocsi, illetve a félpótkocsi bejegyzése ugyanazon Szerződő Fél államában legyen.
+
+*d)* ,,Kísért kombinált árufuvarozás'': gépjárműveknek vasúton vagy belvízi úton történő továbbítása, miközben a gépjárművezető együtt utazik a gépjárművel.
+
+*e)* ,,Nem kísért kombinált árufuvarozás'': intermodális fuvarozási egységek vasúton vagy belvízi úton történő továbbítása.
+
+*f)* ,,Elő- és utánfuvarozás'': gépjármű által fuvarozott intermodális fuvarozási egységeknek és/vagy gépjárműveknek a határátlépés helyétől vagy az áru feladási helyétől az útirány szerinti legközelebbi kombiterminálig vagy belvízi kikötőig, illetve kombitermináltól vagy a belvízi kikötőtől az útirány szerinti legközelebbi határátlépési helyig, vagy az áru rendeltetési helyéig történő közúti fuvarozása, illetőleg közlekedése.
+
+*g)* ,,Kombiterminál'': intermodális fuvarozási egységeknek és/vagy gépjárműveknek az egyik fuvarozási módról a másikra történő átrakóhelye.
+
+*h)* ,,Közúti fuvarozási engedély'': a Szerződő Felek közötti nemzetközi közúti fuvarozásról szóló egyezmény szerinti közúti fuvarozási engedély.
+
+*i)* ,,Jutalomengedély'': a kísért kombinált árufuvarozás igénybevétele esetén járó közúti fuvarozási engedély, amely
+
+– magyar részről: gépjárműadó mentes,
+
+– cseh részről: úthasználati-adó mentes.
+
+*2. Cikk*
+
+*Alkalmazási terület*
+
+Jelen Egyezmény hatálya kiterjed a nemzetközi kombinált árufuvarozásra, amely a két Szerződő Fél államának területe között, vagy az egyik vagy mindkét Szerződő Fél államának területén keresztül történik.
+
+*3. Cikk*
+
+*Az Egyezmény végrehajtása*
+
+A jelen Egyezmény végrehajtásáról
+
+magyar részről: a Közlekedési és Vízügyi Minisztérium,
+
+cseh részről: a Közlekedési és Hírközlési Minisztérium,
+
+mint a Szerződő Felek illetékes hatóságai gondoskodnak.
+
+*4. Cikk*
+
+*Együttműködés a kombinált árufuvarozás elősegítésére*
+
+A Szerződő Felek
+
+*a)* ösztönzik a vasúti, a hajózási és kombitársaságokat arra, hogy a kombinált árufuvarozás elősegítése céljából hatékony egyeztetett intézkedéseket tegyenek,
+
+*b)* elősegítik – lehetőség szerint – a kombinált árufuvarozás fejlesztése céljából a saját vasútjaik, kombitermináljaik és kikötőik infrastrukturális beruházásait,
+
+*c)* törekednek arra, hogy a közúti árufuvarozás minél nagyobb mértékben kombinált árufuvarozás formájában bonyolódjék le,
+
+*d)* törekednek a kombinált árufuvarozáshoz kapcsolódó elő- és utánfuvarozásnak a hétvégi és ünnepnapi közlekedési korlátozási tilalom alól való mentesítésére a Szerződő Felek államában érvényes jogszabályoknak megfelelően,
+
+*e)* illetékes szerveik útján törekednek arra, hogy – lehetőség szerint – az elő- és utánfuvarozáshoz a 44 tonna össztömegű gépjárművek továbbításának feltételeit megteremtsék,
+
+*f)* illetékes szerveik útján törekednek arra, hogy – lehetőség szerint – a kombinált árufuvarozás keretében feladott rakományegységek vámkezelésének feltételeit a kombiterminálokon teremtsék meg,
+
+*g)* elősegítik – lehetőség szerint – a közös nemzetközi kombinált árufuvarozási társaságok létesítését, együttműködését,
+
+*h)* kölcsönösen tájékoztatják egymást azokról az intézkedésekről, amelyek elősegítik a nemzetközi kombinált árufuvarozás minőségének és a szolgáltatások színvonalának növelését.
+
+*5. Cikk*
+
+*Jutalomengedélyek*
+
+(1) A Szerződő Felek államából, államába vagy államán keresztül történő kísért kombinált árufuvarozás igénybevétele esetén a Szerződő Felek illetékes hatóságai közúti jutalomengedélyek kölcsönös kiadásában állapodnak meg.
+
+(2) A közúti jutalomengedélyek mértékét, számát és érvényességi idejét a Kombinált Árufuvarozási Vegyesbizottság javaslatára a Közúti Fuvarozási Vegyesbizottság állapítja meg a Szerződő Felek közötti nemzetközi közúti árufuvarozásról érvényben levő Egyezmény alapján.
+
+(3) A jutalomengedélyeket a Szerződő Felek illetékes hatóságai adják át egymás részére.
+
+*6. Cikk*
+
+*Mentességek*
+
+(1) A Szerződő Felek kölcsönösség alapján a kombinált árufuvarozás során a közúti elő- és utánfuvarozás számára légvonalban mért 70 km-es körzethatáron belül
+
+– magyar részről: gépjárműadó mentességet,
+
+– cseh ré szről: úthasználati-adó mentességet
+
+biztosítanak a másik Szerződő Fél fuvarozói részére.
+
+(2) A jelen Cikk 1. bekezdésének alkalmazása esetén közúti fuvarozási engedélyt nem kell felhasználni. Ebben az esetben a fuvarozó köteles igazolni az ellenőrző szervek előtt a kombinált árufuvarozás igénybevételét vasúti fuvarlevéllel vagy hajófuvarlevéllel.
+
+*7. Cikk*
+
+*A rendelkezések megszegése*
+
+(1) A fuvarozó, valamint annak tagja, alkalmazottja köteles megtartani a másik Szerződő Fél államában hatályos jogszabályokat.
+
+(2) Minden olyan esetben, amelyet a jelen Egyezmény vagy a Szerződő Feleket érintő nemzetközi egyezmények rendelkezései nem szabályoznak, a Szerződő Felek jogszabályait kell alkalmazni.
+
+(3) Ha valamely fuvarozó vagy annak tagja, alkalmazottja megszegi a másik Szerződő Fél államában hatályos jogszabályokat és egyéb előírásokat, vagy a jelen Egyezmény rendelkezéseit, a gépjármű forgalmi engedélyét kiadó Szerződő Fél illetékes hatósága – azon Szerződő Fél illetékes hatóságainak kérésére, amelyben a jogsértés történt – az alábbi intézkedéseket hozhatja:
+
+– az érintett fuvarozó felszólítása az érvényben lévő előírások megtartására;
+
+– az érintett fuvarozó részére a jutalomengedélyek kiadásának leállítása, vagy a már kiadott jutalomengedély visszavonása arra az időszakra, amelyre a másik Szerződő Fél illetékes hatósága kizárta őt a forgalomból.
+
+(4) A Szerződő Felek illetékes hatóságai értesítik egymást a megtett intézkedésekről.
+
+*8. Cikk*
+
+*Adatvédelem*
+
+A Szerződő Felek kötelezettséget vállalnak arra, hogy a jelen Egyezménnyel összefüggő minden adatot és információt – kivéve a nyilvánosan közzétett statisztikai adatokat és kimutatásokat – a saját államuk jogszabályaival összhangban harmadik féllel szemben védeni fognak.
+
+*9. Cikk*
+
+*Rendkívüli helyzet*
+
+A Szerződő Felek kötelezik magukat arra, hogy a kombinált árufuvarozásban vis maior, műszaki zavar vagy egyéb akadály miatt bekövetkező, huszonnégy órát meghaladó üzemszünet esetén külön egyeztetett, sürgős intézkedéseket tesznek a nemzetközi kombinált árufuvarozás zavartalanságának biztosítása érdekében.
+
+*10. Cikk*
+
+*Vegyesbizottság*
+
+(1) A Szerződő Felek illetékes hatóságai Kombinált Árufuvarozási Vegyesbizottságot hoznak létre az Egyezmény végrehajtása során felmerülő kérdések rendezése céljából. A Kombinált Árufuvarozási Vegyesbizottság jogosult a jelen Egyezmény módosítását és kiegészítését kezdeményezni.
+
+(2) A Kombinált Árufuvarozási Vegyesbizottság saját hatáskörében ügyrendben állapítja meg az összetételével és munkájával kapcsolatos feladatokat.
+
+(3) A Vegyesbizottság szükség szerint ülésezik és üléseit a Szerződő Felek államaiban felváltva tartja, bármelyik Szerződő Fél illetékes hatóságának kérésére.
+
+*11. Cikk*
+
+*Vitás kérdések rendezése*
+
+Jelen Egyezmény értelmezése, valamint alkalmazása során felmerülő vitás kérdéseket a Szerződő Felek illetékes hatóságai közötti tárgyalásokkal kell rendezni. Ha ezen az úton nem jön létre megegyezés, a Szerződő Felek a vitás kérdéseket diplomáciai úton rendezik.
+
+*12. Cikk*
+
+*Záró rendelkezések*
+
+(1) Jelen Egyezményt a Szerződő Felek államainak belső jogszabályai szerint jóvá kell hagyni. Az Egyezmény a jóváhagyásról szóló, későbbi diplomáciai értesítés kézhezvételét követő harmincadik napon lép hatályba.
+
+(2) Jelen Egyezményt a Szerződő Felek határozatlan időre kötik.
+
+(3) Jelen Egyezményt bármelyik Szerződő Fél diplomáciai úton írásban felmondhatja. Az Egyezmény a felmondásról szóló értesítésnek a másik Szerződő Fél általi kézhezvételét követő hat hónap elteltével hatályát veszti.
+
+Készült Prágában, a 2001. év június hó 27. napján, két eredeti példányban, magyar és cseh nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Cseh Köztársaság\
+Kormánya nevében
+
+*Dr. Fónagy János* s. k.
+
+*Jaromír Schling* s. k.''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az Egyezmény rendelkezéseit azonban 2001. november 11. napjától kell alkalmazni.
+
+(2) E rendelet végrehajtásáról a közlekedési és vízügyi miniszter gondoskodik.

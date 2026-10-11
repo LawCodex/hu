@@ -1,0 +1,111 @@
+---
+title: "55/1990. (IX. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között, az Egyesült Államok Békeszolgálatának magyarországi működéséről szóló Megállapodás kihirdetéséről"
+identifier: "55/1990. (IX. 19.) Korm. rendelet"
+njt_id: "1990-55-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1990/Korm/55"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1990-09-19
+in_force_from: 1991-01-01
+last_amended: 1991-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-55-20-22"
+retrieved: 2026-10-12
+---
+
+# 55/1990. (IX. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között, az Egyesült Államok Békeszolgálatának magyarországi működéséről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Egyesült Államok Kormánya között Budapesten, 1990. február 14-én az Egyesült Államok Békeszolgálatának magyarországi működéséről aláírt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+„**MEGÁLLAPODÁS**
+
+**a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között az Egyesült Államok Békeszolgálatának magyarországi működéséről**
+
+*1. Cikk*
+
+A Magyar Köztársaság Kormánya (a továbbiakban: Magyar Fél) és az Amerikai Egyesült Államok Kormánya (a továbbiakban: Amerikai Fél) a Békeszolgálat magyarországi működéséről az alábbiakban állapodik meg:
+
+*2. Cikk*
+
+A Magyar Fél és az Amerikai Fél megállapodik a Békeszolgálat azon önkénteseinek küldésében, illetve fogadásában, akik amerikai útlevéllel utaznak Magyarországra, olyan feladatok ellátása céljából, amelyeket a jelen Megállapodás végrehajtására kötendő Jegyzőkönyv(ek)ben a Felek közösen meghatároznak. Az Amerikai Fél képzést biztosít az önkéntesek számára a közösen meghatározott feladatok hatékony ellátása érdekében. Az önkéntesek azoknak a szervezeteknek a felügyelete alatt fejtik ki tevékenységüket, amelyeket a Felek közösen jelölnek ki. Az önkéntesként fogadott személyekről a Felek a Jegyzőkönyv(ek)ben meghatározott feltételek alapján közösen állapodnak meg. A Magyar Fél hasonló elbánásban részesíti az önkénteseket és vagyontárgyaikat, illetve olyan teljeskörű segítséget és védelmet nyújt számukra, amely nem hátrányosabb, mint a Magyarországon tartózkodási engedéllyel rendelkező amerikai állampolgároké általában.
+
+*3. Cikk*
+
+A Magyar Fél hozzájárul a Békeszolgálat képviselőjének, illetve a képviselő személyzetének fogadásához, amely a jelen Megállapodás végrehajtásához és a Magyar Fél kijelölt megbízottjaival való kapcsolattartáshoz szükséges. A Magyar Fél a jelen Megállapodás végrehajtására szintén fogadja a Békeszolgálat számára szerződéses viszonyban tevékenykedő személyeket, akiket szintén a képviselő személyzete tagjának tekint. A képviselő és személyzete fogadására csak a Magyar Fél előzetes jóváhagyásával kerülhet sor.
+
+*4. Cikk*
+
+A Felek megállapodnak arról, hogy a 3. Cikkben felsorolt személyek nem magyar útlevéllel utaznak be Magyarországra. Ez a korlátozás nem zárja ki, hogy a Békeszolgálat a 3. Cikkben felsorolt személyeken túl másokat is alkalmazzon.
+
+*5. Cikk*
+
+A Magyar Fél engedélyezi, hogy az önkéntesek, házastársaik és eltartott gyermekeik Magyarországra érkezésükkor és azt követő hat hónapig személyes használati tárgyaikat az országba behozzák. Ez a behozatal vám, adó és egyéb közterhektől mentesen történik, feltéve, hogy a behozott tárgyak Magyarországon nem kerülnek elidegenítésre. A mentesítés nem vonatkozik az önkéntesek, a behozatalt bonyolító személy, illetve a Békeszolgálat ügyintézése vagy mulasztása következtében felmerülő tárolási, szállítási vagy egyéb hasonló költségekre.
+
+*6. Cikk*
+
+A Magyar Fél a 3. Cikkben felsorolt személyeket, illetve házastársaikat és eltartott gyermekeiket az 5. Cikkben meghatározott vám, adó és egyéb közterhek alóli mentességben részesíti teljes magyarországi tartózkodásuk idejére.
+
+*7. Cikk*
+
+A 2. és 3. Cikkben felsorolt személyek jövedelemadója esetében a Felek között Washingtonban 1979. február 12-én aláírt, a Kettős Adóztatás Elkerüléséről és az Adóztatás Kijátszásának Megakadályozásáról Szóló Egyezmény szerint kell eljárni. Amennyiben ezek a személyek az Egyesült Államok állampolgárai, akkor az Egyesült Államokban állandó lakhellyel rendelkezőnek tekintendők és a Békeszolgálat által részükre fizetett összegek az említett Egyezmény értelmében az Egyesült Államok számára végzett közszolgálatért folyósított fizetésnek tekintendők.
+
+*8. Cikk*
+
+A Magyar Fél a 2. és 3. Cikkben meghatározott személyek részére illetékmentesen ad beutazó vízumot, amennyiben beutazásuk a jelen Megállapodás végrehajtása céljából történik. A Magyar Fél a magyar jogszabályokkal összhangban illetékmentesen biztosít e személyek részére tartózkodási engedélyt, illetve többszöri ki- és beutazási engedélyt. A Békeszolgálat tevékenységével összefüggő feladatok ellátásához a 2. és 3. Cikkben meghatározott személyeknek munkavállalási engedély nem szükséges.
+
+*9. Cikk*
+
+Az Amerikai Fél ellátja az önkénteseket olyan korlátozott mennyiségű felszereléssel és készletekkel, amelyek a Felek megállapodása szerint az önkéntesek hatékony és eredményes munkavégzéséhez szükségesek. Az Amerikai Fél a jelen Cikk alapján a Megállapodás végrehajtása érdekében az általa a Magyar Köztársaság területére behozott áruk esetében vám- és adómentességet élvez. Az Amerikai Fél a jelen Cikk alapján a Megállapodás végrehajtása érdekében az általa a Magyar Köztársaság területén beszerzett áruk esetében adómentességet élvez. A jelen Cikk alapján behozott vagy beszerzett áruk Magyarországon nem idegeníthetők el, kivéve olyan egyének és szervezetek számára, amelyek ugyanilyen vám- és adómentességet élveznek, illetve ha azokat a Magyar Köztársaság kormányszerveinek vagy a jelen Megállapodás alapján az önkéntesek felügyeletét ellátó szervezetnek adományozzák.
+
+*10. Cikk*
+
+A Magyar Fél a 2. és 3. Cikkben felsorolt személyeket, illetve házastársaikat és eltartott gyermekeiket sürgős orvosi beavatkozást igénylő esetekben a Magyar Köztársaság területén ingyenes ellátásban részesíti.
+
+*11. Cikk*
+
+A jelen Megállapodás végrehajtásával kapcsolatban az Amerikai Fél által a Magyar Köztársaság területére behozott bármilyen konvertibilis valuta vagy értékpapír a legmagasabb árfolyamon váltható át magyar fizetőeszközre az arra jogosult magyarországi intézménynél, és korlátozás nélkül használható fel.
+
+*12. Cikk*
+
+A Magyar Fél a megfelelő kormányhivatalokat, az Amerikai Fél a Békeszolgálatot jelöli ki a jelen Megállapodás végrehajtására hivatott szervként.
+
+*13. Cikk*
+
+A végrehajtásra kijelölt szervek meghatalmazott képviselői megegyezhetnek olyan, a jelen Megállapodásban nem szabályozott kérdésekben, amelyeket a Megállapodás végrehajtása vagy jobb teljesítése érdekében szükségesnek és kívánatosnak tartanak. A végrehajtásra kijelölt szervek évente áttekintik a jelen Megállapodás végrehajtására vonatkozó Jegyzőkönyv(ek) rendelkezéseit és a Jegyzőkönyv(ek)et közös megegyezéssel módosíthatják. A Békeszolgálat magyarországi tevékenységével kapcsolatos minden kérdésben a végrehajtásra kijelölt szervek szorosan együttműködnek, konzultálnak és információt cserélnek, illetve minden szükséges intézkedést megtesznek a jelen Megállapodás végrehajtására.
+
+*14. Cikk*
+
+Jelen Megállapodás azt követően lép hatályba, hogy a Felek kölcsönösen értesítették egymást vonatkozó törvényes előírásaik teljesítéséről. A Felek kötelezettségvállalására a rendelkezésre álló pénzügyi alapok és saját vonatkozó jogszabályaik figyelembe vételével kerül sor.
+
+*15. Cikk*
+
+Jelen Megállapodás attól az időponttól számított három hónapig marad érvényben, amikor bármelyik Fél írásban értesíti a másik Felet felmondási szándékáról. A Megállapodás a Felek közötti kölcsönös írásbeli megegyezés alapján módosítható.
+
+A fentiek hiteléül a Felek meghatalmazott képviselői a jelen Megállapodást aláírták.
+
+Készült 2 példányban, Budapesten, 1990. február hó 14. napján, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében:
+
+*Glatz Ferenc*
+
+Az Amerikai Egyesült Államok Kormánya nevében:
+
+*Donald B. Kursch*”
+
+## 3. §
+
+(1) E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. július 12-étől kezdődően kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a művelődési és közoktatási miniszter[^1] gondoskodik.
+
+---
+
+[^1]: Lásd az 1998: XXXVI. tv. 2. §-a (1) bekezdésének a) pontját.

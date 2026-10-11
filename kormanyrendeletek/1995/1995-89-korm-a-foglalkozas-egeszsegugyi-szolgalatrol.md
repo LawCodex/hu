@@ -1,0 +1,343 @@
+---
+title: "89/1995. (VII. 14.) Korm. rendelet a foglalkozás-egészségügyi szolgálatról"
+identifier: "89/1995. (VII. 14.) Korm. rendelet"
+njt_id: "1995-89-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/89"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-07-14
+in_force_from: 2009-04-11
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-89-20-22"
+retrieved: 2026-10-12
+---
+
+# 89/1995. (VII. 14.) Korm. rendelet a foglalkozás-egészségügyi szolgálatról
+
+## 1. §[^1]
+
+E rendelet hatálya
+
+a)[^2] munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) hatálya alá tartozó munkáltatókra – ide nem értve a honvédség, a rendőrség, a hivatásos állami és önkormányzati tűzoltóság, a polgári védelem, a büntetés-végrehajtás szerveit, valamint a polgári nemzetbiztonsági szolgálatokat –, és
+
+b)[^3] a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben, továbbá végrehajtására kiadott jogszabályban meghatározott feladatainak ellátásával összefüggésben az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra (a továbbiakban: kormányhivatal) és az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalra (a továbbiakban: járási hivatal)), valamint a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szerinti közfoglalkoztatókra, és
+
+c)[^4] a szakmai képzés szervezőjére és
+
+d) a foglalkozás-egészségügyi szolgáltatást nyújtókra
+
+terjed ki.
+
+## 2. §
+
+(1) A Mvt. 58. §-a szerinti foglalkozás-egészségügyi szolgáltatás nyújtása a foglalkozás-egészségügyi szolgálatok (a továbbiakban: szolgálat) feladatkörébe tartozik.
+
+(2)[^5]
+
+(3)[^6]
+
+(4)[^7]
+
+(5)[^8] A foglalkozás-egészségügyi szolgáltató, illetve a szolgáltatást nyújtó orvos személyében bekövetkezett változás esetén a szolgáltatást korábban nyújtó szolgáltató, illetve orvos köteles a foglalkozás-egészségügyi feladatok ellátásához szükséges dokumentumokat – egészségügyi adatok esetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény rendelkezéseire figyelemmel – a foglalkozás egészségügyi szolgáltatást biztosító szolgáltató részére átadni.
+
+(6)[^9]
+
+(7)[^10]
+
+(8)[^11] Az egészségkárosító kockázatok meghatározásához és nyomon követéséhez szükséges, az 1. számú melléklet 1.2. pontja szerinti munkahigiénés vizsgálatért fizetendő térítés összegéről a megrendelő és a vizsgálatot végző megállapodik.
+
+## 3. §[^12]
+
+(1)[^13] A munkáltatók, a kormányhivatalok, a járási hivatalok, továbbá a szakmai képzés szervezője az 1. mellékletben meghatározott feladatok elvégzése ellenében – külön jogszabályi előírás, vagy a szolgáltatást nyújtóval kötött eltérő megállapodás hiányában – az ott meghatározott díjat fizetik a szolgáltatást nyújtónak.
+
+(2) A foglalkoztathatósági szakvéleményezés díjtételét a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló jogszabály határozza meg.
+
+## 4. §
+
+(1)–(2)[^14]
+
+(3)[^15] A szolgálat alapfeladatainak ellátásához — a 3. számú mellékletben meghatározott létszámok esetén — legalább egy, teljes munkaidőben rendelkezésre álló orvost és ápolót kell biztosítani.
+
+## 5. §
+
+(1) A foglalkozás-egészségügyi szolgáltatást elsősorban a munkavégzés helyén vagy annak közelében kell biztosítani.
+
+(2)[^16] Amennyiben egy munkahelyen az ,,A'' és ,,B'' foglalkozás-egészségi osztályba tartozó munkavállalók száma egy műszakban 300 fő feletti, a munkahely szerint illetékes, munkavédelmi hatósági hatáskörben eljáró fővárosi és vármegyei kormányhivatal foglalkozás-egészségügyi szakápolói ellátásnak helyszíni biztosítását — beleértve az elsősegélynyújtás feltételeit is — írhatja elő.
+
+## 6. §
+
+(1) A foglalkozás-egészségi osztályba történő besorolás szempontrendszerét a 4. számú melléklet tartalmazza.
+
+(2)[^17] Az (1) bekezdés szerinti besorolást a munkáltató a szolgálat vagy a munkavédelmi hatósági hatáskörben eljáró fővárosi és vármegyei kormányhivatal véleményének figyelembevételével készíti el.
+
+(3)[^18] A foglalkozás-egészségügyi szolgálat biztosításával kapcsolatos hatósági ellenőrzési jogkört a munkavédelmi hatósági hatáskörben eljáró fővárosi és vármegyei kormányhivatal gyakorolja.
+
+## 7. §
+
+(1)[^19] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)[^20]
+
+## 1. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
+
+*1.1.*[^21] *A* 3. § (1) bekezdése *szerinti térítési díjak*
+
+1.1.1. A munkáltató által eltérő megállapodás hiányában fizetendő díjak:
+
+,,D'' foglalkozás-egészségügyi osztály esetében 5 000 Ft/fő/év,
+
+,,C'' foglalkozás-egészségügyi osztály esetében 6 800 Ft/fő/év,
+
+,,B'' foglalkozás-egészségügyi osztály esetében 8 400 Ft/fő/év,
+
+,,A'' foglalkozás-egészségügyi osztály esetében 10 000 Ft/fő/év.
+
+1.1.2.[^22] Az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal, valamint szakmai képzés szervezője által – eltérő megállapodás hiányában – fizetendő díjak: Az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal, valamint szakmai képzés szervezője által beutalt személy
+
+1.[^23]
+
+2\. szakmai alkalmassági vizsgálata beiskolázás előkészítése érdekében 2500 Ft/fő/eset;
+
+3\. szakmai alkalmassági vizsgálata munkaközvetítés előkészítése érdekében 2800 Ft/fő/eset;
+
+4.[^24]
+
+1.1.3.[^25]
+
+*1.2. Munkahigiénés vizsgálatok*
+
+*1.2.1. Munkakörnyezeti műszeres vizsgálatok:*
+
+*a)* munkahelyi kémiai kóroki tényezők (gázok, gőzök, aerosolok, porok okozta légszennyeződés)
+
+— mennyiségi,
+
+— minőségi
+
+vizsgálata;
+
+*b)* munkahelyi fizikai kóroki tényezők közül
+
+— zajszint,
+
+— infra- és ultrahang szintek
+
+— (egészt test) rezgésterhelés,
+
+— kéz-kar rezgésterhelés,
+
+— a megvilágítás világítástechnikai jellemzőinek,
+
+— elektromágneses tér jellemzői,
+
+— magas légköri nyomáson végzett munka,
+
+— ionizáló és nem ionizáló sugárzásszintek
+
+meghatározása;
+
+*c)* zárt, telepített munkahelyeken a klímatényezők meghatározása;
+
+*d)* fizikai megterhelés-igénybevétel vizsgálata.
+
+*1.2.2.*[^26] A biológiai expozíciós mutatók vizsgálata a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendeletben meghatározott expozíciós mutatók és határértékek alapján történik.
+
+## 2. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
+
+**Jelentés a munkavállalói létszámról**
+
+Foglalkozás-egészségügyi szolgálat
+
+neve:
+
+címe:
+
+orvosok száma: főállású:
+
+részállású:
+
+ápolók száma:
+
+alkalmazott egyéb személyek száma:
+
+_______________________________________________
+
+Osztály Jelenleg ellátott Várható növekedés(+)
+
+létszám 199… év illetve csökkenés(—)
+
+…… hó … naptól 199… év …… hó … naptól
+
+…… hó … napig …… hó … napig
+
+_______________________________________________
+
+A
+
+B
+
+C
+
+D
+
+_______________________________________________
+
+szabad kapacitás (fő) várható kapacitás (fő)
+
+_______________________________________________
+
+_______________________________________________
+
+Kelt:…………………………
+
+………………………………
+
+a szolgálat vezetője
+
+## 3. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
+
+**A foglalkozás-egészségügyi szolgálat által ellátandó munkavállalói létszámok**
+
+A főműszak-időben biztosítani kell a szolgálatban egy orvos és egy ápoló jelenlétét:
+
+*a)* ,,A'' foglalkozás-egészségi osztály esetén az 1000 munkavállalónként,
+
+*b)* ,,B'' foglalkozás-egészségi osztály esetén az 1200 munkavállalónként,
+
+*c)* ,,C'' foglalkozás-egészségi osztály esetén az 1500 munkavállalónként,
+
+*d)* ,,D'' foglalkozás-egészségi osztály esetén a 2000 munkavállalónként.
+
+Ha az ellátandó munkavállalók egynél több foglalkozás-egészségi osztályból kerülnek ki, az egy szolgálat által ellátható létszámot a következő képlet segítségével kell kiszámítani:
+
+Ae Be Ce De
+
+( -- + -- + -- + -- ) x 100 = F,
+
+A B C D
+
+ahol: Ae, Be, Ce, De az ellátandó munkavállalók száma az A—D foglalkozás-egészségi osztályokból, A, B, C, D az A—D foglalkozás-egészségi osztály létszámhatárainak számértékei.
+
+Ha F = 100+-20, akkoregy főműszakidőben rendelkezésre álló orvost és egy ápolót kell biztosítani.[^27]
+
+## 4. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
+
+**A tevékenységek foglalkozás-egészségi osztályba sorolása**
+
+*,,A'' foglalkozás-egészségi osztály*\
+*gazdasági tevékenységek ágazati számjelek*
+
+1\. Bányászat C 10—14
+
+2\. Kohászat D 27
+
+fizikai munkakörei, valamint azon nem fizikai munkakörök munkavállalói, akik az ,,A'' foglalkozás-egészségi osztályt indokló munkakörnyezetben töltik munkaidejük több mint 50%-át.
+
+3\. Ugyanebbe a foglalkozás-egészségi osztályba sorolandó:
+
+3.1. rákkeltőkkel exponáltak,
+
+3.2. sugárzó anyagokkal,
+
+3.3. ismeretlen (mérgező hatásuk szempontjából kivizsgálatlan) anyagokkal dolgozók,
+
+3.4. állatkísérletes munkakörökben foglalkoztatottak,
+
+3.5. korkedvezményre jogosító munkakörökben foglalkoztatottak,
+
+3.6. munkaidő-kedvezményre jogosító expozícióban alkalmazott munkavállalók,
+
+3.7. a vasúti közlekedésben a forgalom lebonyolításával közvetlenül összefüggő, a légi és vízi közlekedésben szakszolgálati vizsgához kötött munkakörökben alkalmazott munkavállalók,
+
+függetlenül a tevékenység ágazati osztályától.
+
+*,,B'' foglalkozás-egészségi osztály*
+
+| *gazdasági tevékenységek* | *ágazati számjelek* |
+|---|---|
+| 1. Mezőgazdaság, vadgazdálkodás és erdőgazdálkodás | A 01–02 |
+| 2. Építőipar | F 45 |
+| 3. Élelmiszerek és italok gyártása | D 15 |
+| 4. Dohánytermékek gyártása | D 16 |
+| 5. Textíliák gyártása | D 17 |
+| 6. Ruházati termékek gyártása, szőrmekikészítés és -festés | D 18 |
+| 7. Bőrkikészítés, bőrtermékek és lábbeli gyártása | D 19 |
+| 8. Fafeldolgozás | D 20 |
+| 9. Kőolaj-feldolgozás és kokszgyártás | D 23 |
+| 10. Vegyi alapanyagok és termékek gyártása | D 24 |
+| 11. Gumi és műanyag termékek gyártása | D 25 |
+| 12. Nemfém ásványi termékek gyártása | D 26 |
+| 13. Nyersanyag visszanyerése hulladékból | D 37 |
+| 14. Szárazföldi és csővezetékes szállítás | I 60 |
+| 15. Vízi szállítás | I 61 |
+| 16. Légi szállítás | I 62 |
+| 17. Bútorgyártás | D 361 |
+| 18. *Egészségügyi és szociális ellátás | N 85 |
+| 19. Állategészségügyi tevékenység | N 852 |
+| 20. Nyomdaipari termékek gyártása | D 2221 |
+
+fizikai munkakörei, valamint azon nem fizikai munkakörök munkavállalói, akik a „B” foglalkozás-egészségi osztályt indokló munkakörnyezetben töltik munkaidejük több mint 50%-át.
+
+______
+
+\* Indokolt esetben az ÁNTSZ illetékes intézetének egyedi elbírálása alapján az orvosok, illetve állatorvosok is besorolhatók a B kategóriába.
+
+*,,C'' foglalkozás-egészségi osztály*
+
+Ebbe a foglalkozás-egészségi osztályba sorolandók az ,,A'' foglalkozás-egészségi osztályba nem tartozó ág, ágazat, alágazat, szakágazat
+
+1\. ipari,
+
+2\. szolgáltató,
+
+3\. kutató,
+
+4\. számítástechnikai tevékenységgel kapcsolatos
+
+fizikai munkakörei, valamint azon nem fizikai munkakörök munkavállalói, a ,,C'' foglalkozás-egészségi osztályt indokló munkakörnyezetben töltik munkaidejük több mint 50%-át.
+
+*,,D'' foglalkozás-egészségi osztály*
+
+Ebbe a foglalkozás-egészségi osztályba sorolandók a
+
+1\. kutatás-szervezési,
+
+2\. kulturális,
+
+3\. oktatási,
+
+4\. egyéb adminisztratív
+
+tevékenységet végző munkavállalók, továbbá az ,,A'', a ,,B'' és a ,,C'' foglalkozás-egészségi osztályba sorolt tevékenységek nem fizikai munkaköreiben dolgozó, más osztályokba nem sorolt munkavállalói.
+
+---
+
+[^1]: Az 1. § a 9/1999. (I. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § a) pontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 5. pontja, a 158/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. § b) pontja a 350/2012. (XII. 12.) Korm. rendelet 1. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 14. § (1) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § c) pontja a 350/2012. (XII. 12.) Korm. rendelet 1. §-ával megállapított, a 13/2020. (II. 7.) Korm. rendelet 6. § 1. pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^6]: A 2. § új (3) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdésének számozását (6) bekezdésre változtatta, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 26. §-a.
+[^7]: A 2. § új (4) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdésének számozását (7) bekezdésre változtatta, hatályon kívül helyezte a 351/2010. (XII. 30.) Korm. rendelet 26. §-a.
+[^8]: A 2. § új (5) bekezdését a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdésének számozását (8) bekezdésre változtatta.
+[^9]: A 2. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése. A 2. § (6) bekezdését a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 2. § új (4) bekezdését a 9/1999. (I. 27.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, s egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatta. A 2. § (4) bekezdésének számozását (7) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése. A 2. § (7) bekezdését a 350/2012. (XII. 12.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 9/1999. (I. 27.) Korm. rendelet 2. §-ának (2) bekezdése. A 2. § (5) bekezdésének számozását (8) bekezdésre változtatta a 70/2007. (IV. 14.) Korm. rendelet 1. § (2) bekezdése.
+[^12]: A 3. §-t a 70/2007. (IV. 14.) Korm. rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 87/2010. (III. 26.) Korm rendelet 6. § (1) bekezdése iktatta be.
+[^13]: A 3. § (1) bekezdése a 350/2012. (XII. 12.) Korm. rendelet 2. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja, a 13/2020. (II. 7.) Korm. rendelet 6. § 2. pontja szerint módosított szöveg.
+[^14]: A 4. § (1)–(2) bekezdését a 351/2010. (XII. 30.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^15]: A 4. § (3) bekezdése a 9/1999. (I. 27.) Korm. rendelet 4. §-ával módosított szöveg.
+[^16]: Az 5. § (2) bekezdése a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének a) pontja, a 70/2015. (III. 30.) Korm. rendelet 14. § (1) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 25. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 14. § (1) bekezdés d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^18]: A 6. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 25. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 14. § (1) bekezdés d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1411. pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1411. pontja hatályon kívül helyezte.
+[^21]: Az 1. számú melléklet 1.1. pontja a 9/1999. ( I. 27.) Korm. rendelet mellékletével, az 1.1. pont címe a 350/2012. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 1.1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 14. § (2) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 6. § 3. pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
+[^26]: Az 1. számú melléklet 1.2. pont 1.2.2. alpontja a 356/2021. (VI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 3. számú melléket utolsó mondata a 9/1999. (I. 27.) Korm. rendelet 4. §-ával megállapított szöveg.

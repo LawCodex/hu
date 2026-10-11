@@ -1,0 +1,320 @@
+---
+title: "57/1996. (IV. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, Budapesten, 1994. október 28-án aláírt vasúti határforgalomról szóló egyezmény kihirdetéséről"
+identifier: "57/1996. (IV. 13.) Korm. rendelet"
+njt_id: "1996-57-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/57"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-04-13
+in_force_from: 1996-04-13
+last_amended: 1996-04-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-57-20-22"
+retrieved: 2026-10-12
+---
+
+# 57/1996. (IV. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, Budapesten, 1994. október 28-án aláírt vasúti határforgalomról szóló egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1995. év július hó 25. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között, Budapesten, 1994. október 28-án aláírt vasúti határforgalomról szóló egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya között\
+a vasúti határforgalomról
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Szerződő Felek) attól az óhajtól vezérelve, hogy a vasúti határforgalmat szabályozzák és meggyorsítsák az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Általános rendelkezések*
+
+(1) A Magyar Köztársaság és a Horvát Köztársaság között az utasok, poggyászok, expresszáruk, áruk és postai küldemények vasúti határforgalma az alábbi megjelölt vasútvonalakon bonyolódik le:
+
+1\. Murakeresztúr–Kotoriba
+
+2\. Gyékényes–Koprivnica
+
+3\. Magyarbóly–Beli Manastir
+
+(2) A Szerződő Felek az (1) bekezdésben feltüntetett vasútvonalak tekintetében a következőket határozták el:
+
+Közös határállomások:
+
+– Gyékényes
+
+– Murakeresztúr
+
+Határállomások:
+
+– Magyarbóly
+
+– Beli Manastir
+
+– Koprivnica
+
+– Kotoriba.
+
+(3) A határforgalom ellenőrzésének szabályait külön államközi szerződés tartalmazza.
+
+(4) A közös határállomásokon, illetve határállomásokon bonyolódik le a teljes átmeneti vasúti szolgálat és határforgalom ellenőrzés. A határforgalom ellenőrzését végző szervek külön megállapodás alapján ettől eltérhetnek.
+
+(5) A Szerződő Felek vasútigazgatásai határozzák meg, hogy az üzemváltás mely állomásokon bonyolódik le.
+
+(6) A közös határállomás, illetve a határállomás területe magában foglalja a bejárati jelzők közötti teret, amelyen a vasúti létesítmények, berendezések, szolgálati és állomás helyiségek vannak.
+
+*2. Cikk*
+
+*Fogalommeghatározások*
+
+Ezen Egyezmény értelmében
+
+*a)* *területi állam:* annak a Szerződő Félnek az állama, amelynek területén a közös határállomás, illetve határállomás van;
+
+*b)* *szomszédos állam*: a másik Szerződő Félnek az állama,
+
+*c)* *területi vasútigazgatás*: a területi állam vasútigazgatása;
+
+*d)* *szomszédos vasútigazgatás*: a szomszédos állam vasútigazgatása;
+
+*e)* *átmeneti vasúti szolgálat*: mindkét szomszédos állam vasútigazgatásának mindazon tevékenysége, amely a vasúti határforgalom lebonyolításához szükséges;
+
+*f)* *határvonalszakasz*: az államhatártól a közös határállomásig, illetve a határállomásig terjedő vonalszakasz;
+
+*g)* *üzemváltás:* a vasútigazgatások között a vonatok, kocsik, poggyászok, expresszáruk, áruk és postaküldemények átadásával és átvételével kapcsolatos eljárást jelenti.
+
+*3. Cikk*
+
+*Általános rendelkezések az átmeneti vasúti szolgálat ellátására*
+
+(1) A Szerződő Felek vasútigazgatásai egyetértésben szabályozzák az átmeneti vasúti szolgálat ellátását a határvonalszakaszokon, a közös határállomásokon, illetve azokon az állomásokon, ahol az üzemváltás történik.
+
+(2) A közös határállomásokon, illetve azokon a határállomásokon, ahol az üzemváltás történik, a területi vasútigazgatás szabályai érvényesek. A vasútigazgatóságok azonban megállapodhatnak, hogy a vasúti szolgálat meghatározott munkáinak ellátására a szomszédos vasútigazgatás szabályait alkalmazzák.
+
+(3) A forgalom biztonságára vonatkozó részletesebb utasításokat a vasútigazgatások egymás között egyetértően rögzítik.
+
+*4. Cikk*
+
+*A szolgáltatások elszámolása*
+
+(1) A Szerződő Felek vasútigazgatásai állapodnak meg azon szolgáltatások kiegyenlítésének módjáról, amelyeket a területi vasútigazgatás a szomszédos vasútigazgatás részére nyújt.
+
+(2) A teljesítményeket a vasútigazgatások az évenként megtartásra kerülő vasúti határforgalmi értekezletek keretében számolják el az előző naptári év időszakára vonatkozóan.
+
+(3) A vasútigazgatások megállapodhatnak abban, hogy a vonatok vontatását a szomszédos vasútigazgatás a közös határállomáson és határállomáson túl is végezze egyik vagy mindkét irányban.
+
+(4) A vontatási, illetőleg a tolatási teljesítmények értékét a kedvezményezett vasútigazgatás a teljesítést végző vasútigazgatás javára tengelykilométerben egyenlíti ki.
+
+(5) A tengelykilométerben ki nem egyenlített vontatási, illetve tolatási teljesítmények értékének pénzügyi rendezése évente egyszer történik.
+
+(6) A díjszabási metszőpont valamennyi határvonalszakasznál az államhatár.
+
+*5. Cikk*
+
+*Létesítmények, berendezések és szolgálati helyiségek*
+
+(1) A területi állam a közös határállomásokon és a határállomásokon a szomszédos állam szervei rendelkezésére bocsátja a szolgálat ellátásához szükséges létesítményeket, berendezéseket.
+
+(2) Mindegyik vasútigazgatás saját területén a saját költségére végzi, illetve végezteti a létesítmények és berendezések fenntartását és felújítását a közös határállomásokon, illetve a határállomásokon, ahol az üzemváltás történik.
+
+(3) A szomszédos állam szervei részére az (1) bekezdésben foglaltak szerint kizárólagos használatra átadott létesítményekért, berendezésekért és helyiségekért felszámítandó díjakat a két vasút megállapodása alapján kell meghatározni és az elismerést követően folyószámlába állítani.
+
+(4) A Szerződő Felek vasútigazgatásai tartoznak a saját államuk területén lévő közös határállomásokon, vagy azokon a határállomásokon, ahol az üzemváltás történik, úgyszintén a két szomszédos határállomás közötti forgalomban, közvetlen hírközlési berendezéseket rendelkezésre bocsátani. Ezeket a hírközlési berendezéseket a szomszédos vasútigazgatás és egyéb szervek alkalmazottai – akik a szomszédos állam állomásain teljesítenek szolgálatot – megállapodás szerinti térítés mellett használhatják.
+
+*6. Cikk*
+
+*A szomszédos állam vasúti képviselete*
+
+(1) A szomszédos vasútigazgatás a közös határállomásokon, határállomásokon, illetve azokon az állomásokon, ahol az üzemváltás történik, saját képviseletet létesíthet. A képviselet létesítéséről és tevékenységének közelebbi meghatározásáról, valamint az alkalmazottak létszámáról a vasútigazgatások külön állapodnak meg.
+
+(2) A képviselet költségeit a szomszédos állam vasútigazgatása viseli.
+
+(3) A szomszédos vasútigazgatás képviseletének vezetője a szolgálat teljesítése során felmerült vitás eseteket közvetlenül vitatja meg a területi vasútigazgatás illetékes szervének vezetőjével, de nem jogosult, hogy a területi vasútigazgatás alkalmazottainak utasításokat adjon, vagy szolgálatukba bármilyen módon beleavatkozzon.
+
+(4) A területi vasútigazgatás köteles a szomszédos vasútigazgatás alkalmazottjai részére lakóhelyiségeket rendelkezésre bocsátani, amennyiben ezt a szolgálat ellátása szükségessé teszi. Erről a két vasútigazgatás külön állapodik meg, és meghatározzák a helyiségek használatára vonatkozó feltételeket.
+
+*7. Cikk*
+
+*A biztonság és rend fenntartása a határvonalszakaszokon*
+
+A szomszédos vasútigazgatás személyzete köteles a határvonalszakaszokon haladó vonatokon, a szolgálat ellátása közbeni baleset, a vasúti forgalom akadályoztatása vagy a biztonság és a vasúti forgalom rendjének veszélyeztetése esetén a területi állam vasútállomását értesíteni.
+
+*8. Cikk*
+
+*Az államhatár átlépése és a másik Szerződő Fél területén való tartózkodás*
+
+(1) Az államhatár jelen egyezmény szerinti szolgálat céljából való átlépése csak olyan személy részére engedélyezhető, aki a határátlépésre vonatkozó hatályos Egyezmény szerinti úti okmánnyal rendelkezik.
+
+(2) Az úti okmányon a Szerződő Felek államának hivatalos megnevezése és jelképei alkalmazhatók.
+
+*9. Cikk*
+
+*Az áruk vámkezelése és vámellenőrzés*
+
+(1) A közös határállomásokon az áruk vámkezelését és a vámellenőrzést a Szerződő Felek vámszervei a saját államuk előírásainak megfelelően végzik.
+
+(2) Azoknak az áruknak a másik államba történő visszaszállítását nem lehet megtagadni, amelyeknek behozatalát a területi állam illetékes szervei jogszabályi feltétel hiánya, vagy ilyen tilalom miatt nem engedélyezik.
+
+*10. Cikk*
+
+*Vámkönnyítések*
+
+(1) Mentesek a behozatali vámok, illetékek és adók alól
+
+*a)* a hivatali helyiségek bútorzata és berendezései, a vontató és vontatott járművek javításához szükséges alkatrészek, valamint a közös határállomáson a szolgálat ellátásához szükséges szerszámok;
+
+*b)* a szolgálat ellátásához szükséges tárgyak és fogyóeszközök, az alkalmazottak szolgálati felszerelése és a személyes használatra szolgáló tárgyak, beleértve az élelmiszereket is, amelyeket az alkalmazottak szolgálatuk ellátása céljából a szomszédos állam területére magukkal visznek;
+
+*c)* a másik Szerződő Fél területén lévő közös határállomáson állandó szolgálatot teljesítő alkalmazottak, valamint ezek családtagjainak átköltözési ingóságai.
+
+(2) Az (1) bekezdés *a)* és *c)* alpontjában felsorolt tárgyakról két példányban jegyzéket kell készíteni, amelyből egy példányt át kell adni a másik Szerződő Fél vámszervének.
+
+Az (1) bekezdés *a)* és *c)* alpontja alatt felsorolt tárgyak az egyik szomszédos állam területéről a másik szomszédos állam területére a visszaviteli kötelezettséggel ideiglenesen vihetők be.
+
+(3) Ezen Egyezmény alapján a szomszédos állam területén szolgálatot teljesítő alkalmazottak minden külön engedély nélkül, valamint vám, adó és egyéb illeték fizetése nélkül vihetik át saját államuk területére a menetjegy eladásából, fuvardíjból, vámból vagy más adóból és illetékből származó fizetőeszközeiket; a szolgálatuk ellátása közben lefoglalt tárgyakat és árukat, valamint növényvédelmi és állat-egészségügyi célból vett mintákat. Ezekről szóló megfelelő bizonylatokat szükség szerint kilépéskor a területi állam szerveinek be kell mutatni.
+
+*11. Cikk*
+
+*Az egyenruha-viselés feltételei*
+
+Ezen Egyezmény alapján a szomszédos állam területén szolgálatot teljesítő alkalmazottak jogosultak mind a szolgálat ideje alatt, mind szolgálaton kívül egyenruhájukat és szolgálati jelvényeiket viselni.
+
+*12. Cikk*
+
+*Állat- és növény-egészségügyi vizsgálat*
+
+(1) A küldemények állat- és növény-egészségügyi vizsgálatát az illetékes szervek a közös határállomásokon és határállomásokon saját államuk előírásai és a nemzetközi egyezményeknek megfelelően végzik.
+
+(2) A közös határállomásokon a küldemények állat- és növény-egészségügyi vizsgálatát először a küldeményt kiléptető állam szervei végzik.
+
+(3) Ha a küldeményeket állat- és növény-egészségügyi okból vagy az ehhez szükséges okmányok elégtelensége miatt nem továbbítják, erről a Szerződő Felek állat- és növény-egészségügyi határszolgálatot ellátó szervei egymást kölcsönösen a helyszínen azonnal értesítik.
+
+(4) A Szerződő Felek állat- és növény-egészségügyi szervei megállapodnak a közös határállomáson végzendő állat- és növény-egészségügyi szolgálat részletes szabályozásáról.
+
+*13. Cikk*
+
+*A küldemények vizsgálata*
+
+(1) A Szerződő Felek illetékes szervei a közös határállomásokon és határállomásokon elsőbbséget biztosítanak a gyorsan romló áruk, élő állatok, továbbá a soron kívül továbbítandó áruk, vonatok vám-, állat-egészségügyi és növényvédelmi ellenőrzésének.
+
+(2) A közös határállomásokon a területii állam vasútigazgatása köteles a szomszédos állam szerveinek szolgálatuk folyamatos ellátásához szükséges időt és a műszaki feltételeket biztosítani.
+
+*14. Cikk*
+
+*Postaküldemények cseréje*
+
+(1) A Szerződő Felek közötti forgalomban a postaküldeményeket tartalmazó indított és átmenő levélpostai, -csomag és EMS zárlatok kicserélését a magyar és a horvát postaigazgatások között megkötött megállapodások szerint végzik.
+
+(2) Amennyiben a postaigazgatások másképp nem állapodnak meg, a postai zárlatok kicserélését a közös határállomásokon és azokon a határállomásokon végzik, ahol üzemváltás van.
+
+(3) A zárlatok kicserélését postai alkalmazottak vagy vasúti alkalmazottak végezhetik.
+
+(4) A postai zárlatok szállítására posta-, szolgálati és teherkocsik használhatók.
+
+(5) A Szerződő Felek illetékes postaigazgatásai egyetértően határozzák meg, hogy melyik viszonylatban milyen kocsit használnak, valamint azt, hogy postai vagy vasúti alkalmazottak végzik azok átadását.
+
+*15. Cikk*
+
+*Segítség és büntetőjogi védelem*
+
+(1) A területi állam szervei és hivatalos alkalmazottai a szomszédos állam szerveinek és hivatalos alkalmazottainak kötelesek a szolgálatuk ellátásához szükséges segítséget és védelmet nyújtani.
+
+(2) A szomszédos állam hivatalos alkalmazottja által a területi államban elkövetett bűncselekményekről, valamint az ilyen cselekmény miatt vele szemben foganatosított személyes szabadságától történő megfosztásáról a területi állam illetékes szerve haladéktalanul köteles a szomszédos állam illetékes szervét értesíteni.
+
+(3) Az egyik Szerződő Fél illetékes szerve köteles a másik Szerződő Fél illetékes szervének kívánságára saját alkalmazottját visszahívni. A visszahívás iránti megkeresést indokolni nem szükséges.
+
+*16. Cikk*
+
+*Felelősség a károk megtérítésére*
+
+Azokért a károkért, amelyeket ezen Egyezmény értelmében a vasúti határforgalomban végzett szolgálat során szenvednek el az alkalmazottak halálozás vagy sérülés folytán, vagy ezeknél az alkalmazottaknál lévő vagy magukon hordott holmik és tárgyak megsérüléséért, valamint a berendezésekben, eszközökben és egyéb javakban okozott károkért viselendő felelősség kérdését a Szerződő Felek illetékes szervei egymás között külön megállapodásban szabályozzák.
+
+*17. Cikk*
+
+*Orvosi segítségnyújtás*
+
+Azok az alkalmazottak, akik ezen Egyezmény alapján szolgálatuk végzése céljából tartózkodnak a másik Szerződő Fél területén, valamint a velük közös háztartásban élő családtagjaik is, a Szerződő Felek között kötött hatályban lévő társadalombiztosítási egyezmény alapján orvosi ellátást a területi államtól kapnak.
+
+*18. Cikk*
+
+*Hivatalos alkalmazottak utazási kedvezménye*
+
+A Szerződő Felek illetékes szerveinek alkalmazottait, akik hivatalos feladataik ellátása céljából ezen Egyezmény 1. Cikkének (1) bekezdésében meghatározott vonalakon utaznak, a vonatokon és egyéb vasúti járműveken díjmentesen szállítják. Az utazási igazolványt annak az országnak a vasútigazgatása adja ki, amelyhez az alkalmazottak tartoznak.
+
+*19. Cikk*
+
+*Nyelvhasználat*
+
+(1) Ezen Egyezmény alapján a szomszédos állam területén szolgálatot teljesítő alkalmazottak szóbeli érintkezésük alkalmával a területi állam nyelvét használják. Ebből a célból a szomszédos állam alkalmazottai a területi állam nyelvét a szolgálat ellátásához szükséges mértékben ismerniük kell.
+
+(2) A Szerződő Felek vasútigazgatásai a közös iratokat magyar és horvát nyelven készítik el.
+
+(3) A szomszédos államok határállomásai közötti szolgálati nyelv használatára a két vasút megállapodása a mérvadó.
+
+*20. Cikk*
+
+*Munkaidő*
+
+A munkaidőt az alkalmazottak részére a határállomási technológia figyelembevételével – a határállomási tartózkodási idők csökkentése érdekében – kell megállapítani.
+
+*21. Cikk*
+
+*A szolgálati helyiségek megjelölése*
+
+(1) A Szerződő Felek illetékes szervei jogosultak a szomszédos állam területén rendelkezésre bocsátott hivatali helyiségeket saját államuk címerével, nemzeti színekkel és feliratokkal megjelölni. A hivatali helyiségek feliratait mindkét állam nyelvén kell elkészíteni azzal, hogy első helyen a területi állam nyelvén készített feliratokat kell alkalmazni.
+
+(2) A Szerződő Felek illetékes szervei jogosultak a közös határállomáson és határállomáson lévő szolgálati helyiségre nemzeti ünnepeik alkalmával saját országuk állami zászlaját kitűzni, és ezeket a helyiségeket feldíszíteni.
+
+*22. Cikk*
+
+*Vegyesbizottság*
+
+Az Egyezmény értelmezésével és alkalmazásával kapcsolatosan keletkezett vitás kérdések rendezése érdekében a Szerződő Felek Vegyesbizottságot hoznak létre, amely a Magyar Köztársaság esetében a Közlekedési, Hírközlési és Vízügyi Minisztérium, a Horvát Köztársaság esetében a Tengerhajózási, Közlekedési és Hírközlési Minisztérium képviselőiből áll. A Vegyesbizottságba szükség esetén be kell vonni a határforgalom ellenőrzését végző illetékes szervek képviselőit.
+
+*23. Cikk*
+
+*Hatálybalépés és felmondás*
+
+(1) A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy eleget tettek az Egyezmény hatálybalépésére vonatkozó alkotmányos előírásoknak.
+
+(2) Az Egyezmény az e Cikk (1) bekezdésében említett későbbi értesítés kézhezvételétől számított 30. napon lép hatályba.
+
+(3) Az Egyezményt a Szerződő Felek meghatározatlan időre kötik.
+
+(4) A Szerződő Felek az Egyezményt bármely naptári év vége előtt legalább hat hónappal felmondhatják, és ebben az esetben az Egyezmény az adott év leteltével hatályát veszti.
+
+*24. Cikk[^1]*
+
+*Átmeneti és záró rendelkezések*
+
+(1) A vasúti határforgalomban a személyek, a járművek, az áruk és a vasúti szállítmányok határőrségi és vámellenőrzésére a Magyar Köztársaság és a Horvát Köztársaság között az e tárgyban megkötendő új szerződés hatálybalépéséig Budapesten, 1972. évi március hó 16. napján aláírt, Egyezmény a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a vasúti határforgalomról (a továbbiakban: Vasúti Határforgalmi Egyezmény) 9., 10. és 24. Cikkek rendelkezéseit értelemszerűen kell alkalmazni.
+
+(2) Jelen Egyezmény hatálybalépésével a Vasúti Határforgalmi Egyezmény az (1) bekezdésben foglalt kivételektől eltekintve a Magyar Köztársaság és a Horvát Köztársaság között nem kerül alkalmazásra.
+
+Készült Budapesten, 1994. évi október hó 28. napján, két eredeti példányban, magyar és horvát nyelven, és mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+*Dr. Lotz Károly* s. k.,
+
+A Horvát Köztársaság Kormánya nevében
+
+*Ivica Mudrinic* s. k.,''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. július 25. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: Az Egyezmény 24. Cikkének módosítására lásd a 337/2004. (XII. 18.) Korm. rendelettel kihirdetett, a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Budapesten, 2003. szeptember 29. napján aláírt Megállapodás 23. Cikkének (7) bekezdését.

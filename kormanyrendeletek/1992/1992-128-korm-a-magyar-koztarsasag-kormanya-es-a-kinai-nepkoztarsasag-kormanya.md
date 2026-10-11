@@ -1,0 +1,98 @@
+---
+title: "128/1992. (IX. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között, a kölcsönös vízummentességről szóló, Pekingben, 1992. április 28-án létrejött Megállapodás kihirdetéséről"
+identifier: "128/1992. (IX. 1.) Korm. rendelet"
+njt_id: "1992-128-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/128"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-09-01
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-128-20-22"
+retrieved: 2026-10-12
+---
+
+# 128/1992. (IX. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között, a kölcsönös vízummentességről szóló, Pekingben, 1992. április 28-án létrejött Megállapodás kihirdetéséről
+
+## (A Megállapodás 1992. május 28. napján lépett hatályba.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között, a kölcsönös vízummentességről Pekingben, 1992. április hó 28. napján létrejött Megállapodást e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+MEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a kölcsönös vízummentességről
+
+A Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya
+
+abból a célból, hogy az országaik közötti szívélyes kapcsolatokat tovább fejlesszék, állampolgáraik között a kölcsönös érintkezést megkönnyítsék, az egyenjogúság és a kölcsönös előnyök elveinek alapján a vízummentesség kérdéseiről folytatott baráti konzultációt követően
+
+az alábbi Megállapodás aláírása mellett döntött:
+
+*1. Cikk*
+
+(1) A Magyar Köztársaság érvényes diplomata vagy szolgálati útlevéllel rendelkező állampolgárai, valamint a Kínai Népköztársaság érvényes diplomata vagy szolgálati útlevéllel rendelkező állampolgárai, továbbá az e személyek útlevelébe bejegyzett, velük utazó személyek a másik Szerződő Fél országába vízum nélkül beutazhatnak, kiutazhatnak és azon átutazhatnak.
+
+(2) Az előző bekezdésben említett, együtt utazó személyek kizárólag az útlevél birtokosának házastársát vagy kiskorú gyermekét jelenthetik. Az útlevélbe bejegyzett személy fényképét el kell helyezni az útlevélben, az iskolaköteles kort el nem ért gyermekét kivéve.
+
+*2. Cikk*
+
+A Szerződő Feleknek az e Megállapodás 1. Cikkében meghatározott állampolgárai a másik Szerződő Fél által a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken léphetnek be, léphetnek ki, illetőleg utazhatnak át, és kötelesek az érintett ország hatóságai által előírt eljárásnak eleget tenni.
+
+*3. Cikk*
+
+(1) Az egyik Szerződő Fél állampolgára a másik Szerződő Fél területén való tartózkodása során köteles tiszteletben tartani e Szerződő Fél törvényeit és más jogszabályait.
+
+(2) Abban az esetben, ha a Szerződő Felek egyikének az 1. Cikkben meghatározott állampolgára harminc napon túl kíván a másik Szerződő Fél területén tartózkodni, le kell folytatni az ennek a Szerződő Félnek az illetékes hatóságai által előírt, a tartózkodással kapcsolatos eljárást.
+
+*4. Cikk*
+
+E Megállapodás nem korlátozza a Szerződő Felek azon jogát, hogy indokolás nélkül megtagadják a másik Szerződő Fél nemkívánatos vagy nem fogadható állampolgárainak beutazását, vagy megszüntessék az ilyen személyek tartózkodását területükön.
+
+*5. Cikk*
+
+(1) Közrendi, közbiztonsági vagy közegészségügyi okból a Szerződő Felek bármelyike a Megállapodás vagy annak egyes cikkei alkalmazását ideiglenesen felfüggesztheti. Ezen intézkedésről annak hatálybalépését, illetőleg visszavonását legalább hét nappal megelőzően a másik Szerződő Felet diplomáciai úton értesíteni kell.
+
+(2) A Szerződő Felek, az erre vonatkozó konzultációkon kialakított egyetértést követően a jelen Megállapodást jegyzékváltás útján kiegészíthetik vagy módosíthatják.
+
+*6. Cikk*
+
+(1) A Szerződő Felek a Megállapodás aláírását követő harminc napon belül diplomáciai úton kicserélik a Megállapodás 1. Cikkében meghatározott útleveleik mintapéldányát.
+
+(2) Amennyiben a Szerződő Felek valamelyike a Megállapodás hatályban léte alatt a fenti útlevélfajták valamelyikét módosítja, erről harminc nappal a bevezetés előtt értesíti a másik Szerződő Felet, és rendelkezésre bocsátja az új útlevél mintapéldányát.
+
+*7. Cikk*
+
+E Megállapodás 1992. május hó 28-án lép hatályba.
+
+A jelen Megállapodás hatálybalépésének napján a Magyar Népköztársaság Kormánya és a Kínai Népköztársaság Kormánya között a vízumkényszer kölcsönös megszüntetéséről, Pekingben, 1988. december 8-án aláírt Egyezmény hatályát veszti.
+
+*8. Cikk*
+
+A Megállapodás meghatározatlan időre szól.
+
+Amennyiben a Szerződő Felek egyike azt fel kívánja mondani, erről diplomáciai úton a másik Szerződő Felet írásban értesítenie kell. A Megállapodás a fenti értesítés megtörténtét követő kilencvenedik napon veszti hatályát.
+
+Készült Pekingben, 1992. április hó 28. napján, két eredeti példányban, magyar és kínai nyelven. Mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében\
+*Dr. Jeszenszky Géza* s. k.
+
+a Kínai Népköztársaság Kormánya nevében\
+*Csien-Csi-csen* s. k.,
+
+### 3. §
+
+(1) E rendelet 1992. szeptember 1-jén lép hatályba, rendelkezéseit azonban 1992. május 28-tól kezdődően kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 29. pontja szerint módosított szöveg.

@@ -1,0 +1,203 @@
+---
+title: "278/2000. (XII. 29.) Korm. rendelet a Magyar Köztársaság Kormánya és Málta Kormánya között a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 2000. május 18-án aláírt Megállapodás kihirdetéséről"
+identifier: "278/2000. (XII. 29.) Korm. rendelet"
+njt_id: "2000-278-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/278"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-29
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-278-20-22"
+retrieved: 2026-10-12
+---
+
+# 278/2000. (XII. 29.) Korm. rendelet a Magyar Köztársaság Kormánya és Málta Kormánya között a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 2000. május 18-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 2000. év november hó 17. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Málta Kormánya között a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés elleni harcban történő együttműködésről szóló, Budapesten, 2000. május 18-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és Málta Kormánya között a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és Málta Kormánya (a továbbiakban együtt: a Felek)
+
+abban a meggyőződésben, hogy a nemzetközi együttműködés elengedhetetlen a kábítószerek és pszichotrop anyagok tiltott forgalmazása, valamint a szervezett bűnözés hatékony megelőzéséhez, illetve visszaszorításához,
+
+tudatában annak, hogy a kábítószerek és pszichotrop anyagok tiltott forgalmazása, illetve előállítása és terjesztése komoly veszélyt jelent a társadalmi-gazdasági fejlődésre, valamint az állampolgárok jólétére,
+
+tekintettel a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény, a Pszichotrop Anyagokra vonatkozóan Bécsben, 1971. február 21-én aláírt Egyezmény, valamint a Kábítószerek és Pszichotrop Anyagok Tiltott Forgalmazása elleni fellépésre vonatkozóan Bécsben, 1988. december 20-án aláírt Egyezmény rendelkezéseire,
+
+tudatában annak, hogy a nemzetközi szinten tevékenykedő bűnszervezetek egyre növekvő mértékben vesznek részt a kábítószerek és pszichotrop anyagok tiltott forgalmazásában,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Általános rendelkezések*
+
+(1) A Felek jelen Megállapodást a kábítószerek, pszichotrop anyagok és prekurzoraik tiltott forgalmazása, a pénzmosás, a pénz- és értékpapírok hamisítása, művészeti alkotások, régiségek, gépjárművek lopása, valamint egyéb, a szervezett bűnözés körébe tartozó bűncselekmények elleni közös fellépés érdekében kötik.
+
+(2) A vonatkozó nemzetközi megállapodásoknak megfelelően, a jelen Megállapodás alapján az egyik Fél által átadott információkat és bizonyítékokat a másik Fél a bűnüldöző és nemzetbiztonsági szervei hatáskörébe tartozó ügyekben használhatja fel. A már megindult büntetőeljárásban mind a nyomozati, mind a bírói szakban a kérelmek előterjesztése kizárólag a Felek között fennálló kölcsönös bűnügyi jogsegély alapján történhet.
+
+*2. Cikk*
+
+*Információcsere*
+
+(1) A jelen Megállapodásban szabályozott információk cseréje a Felek hatályos belső jogszabályaival összhangban történik.
+
+(2) A jelen Megállapodás alapján az információcsere különösen az alábbiakra terjed ki:
+
+*a)* a Megállapodás 1. Cikk (1) bekezdésében meghatározott bűncselekmények elkövetésében részt vevő személyekről, kapcsolataikról, a bűnszervezetekről és csoportokról, az elkövetők és csoportjaik jellegzetes módszereiről – ideértve az elkövetés idejét és helyét – a megsértett jogszabályokról és az azokkal kapcsolatban megtett intézkedésekről szóló információk és a vonatkozó adatok kölcsönös átadása;
+
+*b)* a nemzetközi szervezett bűnözés új elkövetési módszereivel és formáival kapcsolatos információk, adatok és tapasztalatok kölcsönös átadása;
+
+*c)* tájékoztatás a nyomozások gyakorlatáról, a munkamódszerekről, a megszerzett tapasztalatokról, az ezen a területen alkalmazott új technikai eszközök használatáról, a kiképzési rendszereket is beleértve;
+
+*d)* tájékoztatás az új kábítószerekről és pszichotrop anyagokról, előállításuk helyéről az új útvonalakról, csatornákról, a terjesztők által használt szállítási eszközökről és azok elrejtésének módszereiről, a kábítószerek és pszichotrop anyagok árváltozásairól, valamint a kábítószerek és pszichotrop anyagok tiltott forgalmazásából származó bevételek tisztára mosásáról;
+
+*e)* minták rendelkezésre bocsátása a bűncselekményekből származó, illetve az elkövetés során használt tárgyakról, a bűncselekmény helyszínén rögzített nyomokról, anyagmaradványokról, a gyanúsított ujjnyomatáról, személyleírásáról és fényképéről, amennyiben arra a megkeresett Fél illetékes hatósága a belső jog előírásai alapján engedélyt ad;
+
+*f)* tájékoztatás a határellenőrzések módszereiről és végrehajtásáról.
+
+(3) A Felek – hatályos belső jogszabályaikkal összhangban – megkeresésre vagy anélkül is közölhetnek olyan információkat, amelyek a másik Fél számára fontosak lehetnek a jelen Megállapodásban meghatározott bűncselekmények elleni küzdelemben, illetve a közrendet és közbiztonságot fenyegető veszély elhárítása érdekében.
+
+*3. Cikk*
+
+*Szakképzés*
+
+(1) A Felek a szervezett bűnözés elleni küzdelem elősegítése érdekében – az alkalmazottak képzettségének, gyakorlati tapasztalati szintjének javítása érdekében – szakembereket küldhetnek egymáshoz képzésre vagy továbbképzésre.
+
+(2) A Felek vállalják, hogy központi hatóságaikon keresztül elősegítik a szervezett bűnözés elleni harc főbb irányvonalaival és problémáival foglalkozó találkozók és közös szemináriumok szervezését, melyek keretében kicserélik a kriminalisztikai, kriminológiai és egyéb bűnügyi kutatásaik eredményeit, tudományos, szakmai és oktatási publikációikat.
+
+*4. Cikk*
+
+*Az együttműködés egyéb területei*
+
+(1) A Felek, a jelen Megállapodásban meghatározott bűncselekmények elleni fellépés érdekében – hatályos belső jogszabályaikkal összhangban – összehangolt rendőri intézkedéseket foganatosíthatnak a nyomozások során, személyi, tárgyi és szervezési támogatást nyújthatnak egymásnak.
+
+(2) Az (1) bekezdés szerinti együttműködés magában foglalja a kábítószerek és pszichotrop anyagok ellenőrzött szállítását.
+
+*5. Cikk*
+
+*A személyes adatok védelme*
+
+(1) A jelen Megállapodásban meghatározott együttműködés keretében a személyes adatoknak a másik Fél részére történő átadása során az alábbi rendelkezéseket kell alkalmazni:
+
+*a)* a Felek, írásbeli kérelemre, személyes adatokat adhatnak át egymásnak. A kérelemben meg kell jelölni a kért adatok körét és felhasználásuk célját;
+
+*b)* az adatokat átadó Fél kérésére az átvevő Fél tájékoztatást nyújt az átadott adatok felhasználásáról;
+
+*c)* a személyes adatok kizárólag a bűnüldöző és nemzetbiztonsági szerveknek, valamint a kábítószer és a szervezett bűnözés elleni harcban illetékes hatóságoknak adhatók át. Más hatóságnak az adatok az átadó Fél előzetes írásbeli hozzájárulásával továbbíthatók;
+
+*d)* az átadó Félnek, miután megállapította, hogy az adatok átadása szükséges és összhangban áll belső jogszabályi előírásaival, meg kell győződnie az átadandó adatok helyességéről. Amennyiben bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, akkor arról az átvevő Felet haladéktalanul értesíteni kell. Az átvevő Fél köteles a téves adatokat helyesbíteni, illetve az át nem adható adatokat megsemmisíteni;
+
+*e)* bármely személynek, akinek a személyazonosságát megfelelően tisztázták, joga van a jelen Megállapodás 7. Cikkében meghatározott hatóságoktól kérni annak megállapítását, hogy van-e a nyilvántartásukban rá vonatkozó személyes adat. Ebben az esetben az átvevő Félnek konzultálnia kell az átadó Féllel arról, hogy tájékoztathatja-e az érintett személyt a nyilvántartásában szereplő személyes adatairól és felhasználásuk céljáról. Az átvevő Félnek az átadó Fél erre vonatkozó állásfoglalása szerint kell eljárni;
+
+*f)* a Felek kötelesek az érintettel a tájékoztatás megtagadásának indokát közölni, ha ezt az átadó Fél megengedi. A Felek ennek megfelelően tájékoztatják egymást. Mind az átvevő, mind az átadó Fél köteles – az érintett kérelmére – a helytelen adatot helyesbíteni, illetőleg a jogellenesen kezelt adatot törölni. A helyesbítésről vagy törlésről a másik Felet haladéktalanul tájékoztatni kell;
+
+*g)* az adatok átadásakor az átadó Félnek fel kell tüntetnie az adatok törlési határidejét hatályos belső jogszabályainak megfelelően. Az átvett személyes adatokat törölni kell, ha az átvételkor megjelölt felhasználási cél megvalósult, abban az esetben is, ha a törlési határidő még nem járt le. A Felek haladéktalanul értesítik egymást az átadott adatok törléséről és annak okairól. A jelen Megállapodás megszűnésekor minden személyes adatot törölni kell;
+
+*h)* a Felek kötelesek a személyes adatok átadásáról, átvételéről, módosításáról és törléséről nyilvántartást vezetni, amely tartalmazza az átadó, illetőleg átvevő szerv és személy nevét, valamint az átadás vagy átvétel idejét;
+
+*i)* a Felek kötelesek megtenni a szükséges szervezési és technikai intézkedéseket a személyes adatok hatékony védelmének biztosítása, az illetéktelen hozzáférés, megváltoztatás, megsemmisítés vagy nyilvánosságra hozatal ellen.
+
+*6. Cikk*
+
+*A minősített adatok védelme*
+
+(1) A Felek, a jelen Megállapodás végrehajtása során, az átadott és átvett adatokra vonatkozóan az átadó Fél belső jogszabályaiban meghatározott minősítésnek megfelelő védelmet biztosítják.
+
+(2) A Magyar Fél esetében a minősített adat jelölése államtitok esetén ,,SZIGORÚAN TITKOS'', szolgálati titok esetén ,,TITKOS''. A Máltai Fél esetében az adat jelölése államtitok esetén ,,STRICTLY CONFIDENTIAL'', szolgálati titok esetén ,,CONFIDENTIAL''.
+
+(3) A Felek vállalják, hogy a jelen Megállapodás alapján átvett ,,SZIGORÚAN TITKOS'' vagy ,,TITKOS'', illetőleg ,,STRICTLY CONFIDENTIAL'' vagy ,,CONFIDENTIAL'' jelöléssel ellátott adatok tekintetében betartják a belső jogszabályaikban meghatározott biztonsági előírásokat, és ezáltal biztosítják az adatok fizikai védelmét, valamint az illetéktelen hozzáférés elleni védelmet.
+
+(4) A jelen Megállapodás alapján átadott információk közzététele vagy harmadik ország részére történő továbbadása csak az átadó Fél írásos hozzájárulásával lehetséges.
+
+*7. Cikk*
+
+*Központi hatóságok*
+
+(1) A Felek diplomáciai úton tájékoztatják egymást a jelen Megállapodás végrehajtására felhatalmazott központi hatóságokról.
+
+(2) A jelen Megállapodás rendelkezései szerint a kijelölt központi hatóságok saját hatáskörükben közvetlenül együttműködhetnek, és ennek során meghatározhatják az együttműködés konkrét területeit és a kapcsolattartás módját, amit külön végrehajtási Jegyzőkönyvekben rögzíthetnek.
+
+(3) Eltérő megállapodás hiányában az együttműködő központi hatóságok közötti kapcsolat és információcsere angol nyelven történik.
+
+*8. Cikk*
+
+*Vegyes Bizottság*
+
+(1) A Felek a jelen Megállapodásban szabályozott együttműködés végrehajtásának koordinálása, megszilárdítása és elősegítése érdekében 3-3 főből álló Vegyes Bizottságot hoznak létre. Mindkét Fél diplomáciai úton közli a másik Szerződő Féllel a Vegyes Bizottság tagjainak nevét. A Vegyes Bizottság üléseit a Felek által kinevezett elnökök közösen vezetik.
+
+(2) A Vegyes Bizottság üléseire szükség szerint kerül sor és azt a Vegyes Bizottság elnökei bármikor jogosultak összehívni. A Vegyes Bizottság a Magyar Köztársaság és Málta területén felváltva tartja üléseit.
+
+(3) A Vegyes Bizottság üléseinek költségeit, az utazási költségek kivételével a fogadó Fél viseli.
+
+*9. Cikk*
+
+*A segítségnyújtás megtagadása*
+
+Mindkét Fél, részben vagy egészben, megtagadhatja vagy feltételektől teheti függővé a segítségnyújtást, ha az veszélyezteti, illetőleg sérti államának szuverenitását, biztonságát, közrendjét vagy egyéb alapvető érdekeit.
+
+*10. Cikk*
+
+*Költségviselés*
+
+A jelen Megállapodás végrehajtása során – a Felek eltérő megállapodása hiányában, illetőleg amennyiben jelen Megállapodás másként nem rendelkezik – mindkét Fél maga viseli a nála felmerülő költségeket.
+
+*11. Cikk*
+
+*A Megállapodás végrehajtása és a viták rendezése*
+
+(1) A jelen Megállapodás végrehajtásának koordinálásáért a Felek belügyminisztériumai felelősek.
+
+(2) A jelen Megállapodás értelmezésével vagy alkalmazásával kapcsolatban esetleg felmerülő viták rendezése a jelen Megállapodás 8. Cikke alapján felállított Vegyes Bizottság hatáskörébe tartozik.
+
+(3) Amennyiben a vitatott kérdésben a Vegyes Bizottság nem tud dönteni, a vitát diplomáciai úton kell rendezni.
+
+*12. Cikk*
+
+A Megállapodás viszonya más nemzetközi\
+szerződésekhez
+
+A jelen Megállapodás rendelkezései a Felek között hatályban lévő két- vagy többoldalú nemzetközi szerződésekben vállalt kötelezettségeket nem érintik.
+
+*13. Cikk*
+
+*Záró rendelkezések*
+
+(1) A jelen Megállapodás attól a naptól számított harmincadik napon lép hatályba, amikor a Felek jegyzékváltással kölcsönösen tájékoztatták egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.
+
+(2) A jelen Megállapodás határozatlan időre szól, és azt bármelyik Fél diplomáciai úton, írásban bármikor felmondhatja. Ez esetben a jelen Megállapodás a felmondásról szóló értesítés keltétől számított hat hónap elteltével hatályát veszti.
+
+(3) A jelen Megállapodás módosítását bármelyik Fél kezdeményezheti. A jelen Megállapodás módosítását a Felek külön megállapodásban szabályozzák.
+
+Készült Budapesten, 2000. május hó 18. napján, két eredeti példányban, magyar és angol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Málta Kormánya\
+nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a Megállapodás rendelekezéseit azonban 2000. évi december hó 17. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 134. pontja szerint módosított szöveg.

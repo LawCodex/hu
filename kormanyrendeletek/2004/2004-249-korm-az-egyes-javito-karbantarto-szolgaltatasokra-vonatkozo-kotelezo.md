@@ -1,0 +1,173 @@
+---
+title: "249/2004. (VIII. 27.) Korm. rendelet az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról"
+identifier: "249/2004. (VIII. 27.) Korm. rendelet"
+njt_id: "2004-249-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/249"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-08-27
+in_force_from: 2008-05-16
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-249-20-22"
+retrieved: 2026-10-12
+---
+
+# 249/2004. (VIII. 27.) Korm. rendelet az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról
+
+A Polgári Törvénykönyvről szóló 1959. évi IV. törvény (a továbbiakban: Ptk.) 248. §-ában foglaltakra figyelemmel a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) Ha a Polgári Törvénykönyv szerinti fogyasztó és vállalkozás közötti szerződés tárgya a fogyasztó által megrendelt, a Mellékletben felsorolt javító-karbantartó szolgáltatás (a továbbiakban: szolgáltatás), és a szolgáltatásnak az általános forgalmi adót és az anyagköltséget is magában foglaló díja a húszezer forintot meghaladja, a szolgáltatást nyújtó vállalkozást jótállási kötelezettség terheli. A jótállásból eredő jogokat a szolgáltatás tárgyát képező dolog (a továbbiakban: dolog) tulajdonosa érvényesítheti, feltéve, hogy fogyasztónak minősül.
+
+(2) E rendelet hatálya nem terjed ki arra a szolgáltatásra, amelyet a szolgáltatás tárgyát képező dologra vonatkozó szavatossági vagy jótállási igény alapján teljesítettek.
+
+(3) Az e rendeletben előírt jótállás érvényességéhez, valamint a jótállásból eredő jogok érvényesítéséhez a vállalkozás az e rendeletben foglaltakon túl további követelményt nem támaszthat a fogyasztóval szemben.
+
+(4) A fogyasztó és vállalkozás közötti szerződésben semmis az a kikötés, amely e rendelet rendelkezéseitől a fogyasztó hátrányára tér el. Az érvénytelen megállapodás helyébe e rendelet rendelkezései lépnek.
+
+## 2. §
+
+(1)[^2] A jótállás időtartama hat hónap. E határidő elmulasztása jogvesztéssel jár.
+
+(2)[^3] A jótállási határidő a szolgáltatás elvégzése után a dolognak a fogyasztó vagy megbízottja részére való átadásával, vagy – ha az üzembe helyezést a vállalkozás végzi – az üzembe helyezés napjával kezdődik.
+
+## 3. §
+
+(1)[^4] A vállalkozás a szolgáltatás díjának átvételekor vagy a dolognak a fogyasztó vagy megbízottja részére történő átadásakor jótállási jegyet köteles a fogyasztó rendelkezésére bocsátani olyan formában, amely a jótállási határidő végéig biztosítja a jótállási jegy tartalmának jól olvashatóságát.
+
+(2) A jótállási jegyen fel kell tüntetni:
+
+a)[^5] a vállalkozás nevét és címét;
+
+b)[^6] az elvégzett szolgáltatás megnevezését, a felhasznált alkatrészeket, anyagokat;
+
+c) a szolgáltatás díját;
+
+d)[^7] a fogyasztót a jótállás alapján megillető jogokat, azok érvényesíthetőségének feltételeit és határidejét, valamint az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a vármegyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti; továbbá
+
+e) a dolog fogyasztó részére történő visszaadásának időpontját, továbbá személygépkocsi és motorkerékpár esetében a kilométeróra állását.
+
+(3) A jótállási jegyet közérthetően és egyértelműen, magyar nyelven kell megfogalmazni.
+
+(4)[^8] A jótállási jegynek utalnia kell arra, hogy a jótállás a fogyasztó jogszabályból eredő jogait nem érinti.
+
+(5)[^9] A jótállásból eredő jogok – a (6) bekezdésben foglalt kivétellel – a jótállási jeggyel érvényesíthetők. A jótállási jegy szabálytalan kiállítása vagy a fogyasztó rendelkezésére bocsátásának elmaradása a jótállás érvényességét nem érinti.
+
+(6)[^10] A jótállási jegy fogyasztó rendelkezésére bocsátásának elmaradása esetén a szerződés megkötését bizonyítottnak kell tekinteni, ha az ellenérték megfizetését igazoló bizonylatot – az általános forgalmi adóról szóló törvény alapján kibocsátott számlát vagy nyugtát – a fogyasztó bemutatja. Ebben az esetben a jótállásból eredő jogok az ellenérték megfizetését igazoló bizonylattal érvényesíthetőek.
+
+(7)[^11] A vállalkozás az e rendelet előírásainak megfelelő jótállási jegyet – a fogyasztó eltérő kérése hiányában – a jótállási jegyet elektronikus úton is átadhatja a fogyasztó részére. Ezen eltérő kérés lehetőségére – a távollévők között kötött szerződések kivételével – a vállalkozás a jótállási jegy átadását megelőzően felhívja a fogyasztó figyelmét.
+
+## 4. §
+
+(1)[^12] A vállalkozás a fogyasztó jótállási igényéről jegyzőkönyvet köteles felvenni, amelyben rögzíti:
+
+a)[^13] a fogyasztó nevét, címét,
+
+b) a fogyasztó által érvényesíteni kívánt igényt,
+
+c)[^14] az elvégzett szolgáltatás megnevezését, díját,
+
+d) a dolog átadása vagy az üzembe helyezés időpontját,
+
+e) a hiba bejelentésének időpontját,
+
+f) a hiba leírását,
+
+g)[^15] a (4) bekezdés szerinti eset kivételével a jótállási igény rendezésének módját vagy az igény, illetve az az alapján érvényesíteni kívánt jog elutasítása esetén annak indokát, továbbá
+
+h)[^16] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a vármegyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti.
+
+(2)[^17] Ha a jótállási igény rendezésének módja a fogyasztó igényétől eltér, ennek indokolását a jegyzőkönyvben meg kell adni.
+
+(3)[^18] A jegyzőkönyv másolatát haladéktalanul, igazolható módon a fogyasztó rendelkezésére kell bocsátani.
+
+(4)[^19] Ha a vállalkozás a fogyasztó jótállási igényének teljesíthetőségéről annak bejelentésekor nem tud nyilatkozni, álláspontjáról – az igény elutasítása esetén az elutasítás indokáról és a békéltető testülethez fordulás lehetőségéről is – öt munkanapon belül, igazolható módon köteles értesíteni a fogyasztót.
+
+(5)[^20] A vállalkozás a kijavítás vagy a munka újbóli elvégzésének határidejét a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:159. § (4) bekezdésére figyelemmel köteles megállapítani és a fogyasztót a vállalt határidőről a bejelentéskor vagy a (4) bekezdésben meghatározott esetben az ott megjelölt időtartamon belül tájékoztatni.
+
+(6)[^21] A vállalkozás a fogyasztó jótállási igényéről felvett jegyzőkönyvet az annak felvételétől számított három évig köteles megőrizni, és azt az ellenőrző hatóság kérésére bemutatni.
+
+## 5. §
+
+(1)[^22] A vállalkozás a dolgot kijavításra elismervény ellenében köteles átvenni. Az elismervényen fel kell tüntetni a fogyasztó nevét és címét, a dolog azonosításához szükséges adatokat, a dolog átvételének idejét és azt az időpontot, amikor a fogyasztó a kijavított dolgot átveheti.
+
+(1a)[^23] Az (1) bekezdésben előírtak a jótállási igényről felvett jegyzőkönyvben is teljesíthetők.
+
+(2)[^24] Amennyiben a hibás teljesítés folytán a kijavítandó dolog elszállítása vagy visszaszállítása szükséges, erről – a melléklet 4. pontjában felsorolt járművek, továbbá a 10 kg-nál kisebb tömegű és tömegközlekedési járművön szállítható dolgok kivételével – a vállalkozás köteles gondoskodni. Amennyiben az el-, illetve visszaszállítást a vállalkozás elmulasztja, azt a vállalkozás költségére a fogyasztó is elvégezheti vagy elvégeztetheti.
+
+## 5/A. §[^25]
+
+(1) Kijavítás iránti igény teljesítésekor a vállalkozásnak a jótállási jegyen vagy ahhoz csatoltan fel kell tüntetnie:
+
+a) a kijavítás iránti igény bejelentésének és a kijavításra történő átvételnek vagy – helyben történő kijavítás esetén – a kijavítás megkezdésének az időpontját, valamint gépjármű esetében a kilométeróra állását,
+
+b) a hiba okát és a kijavítás módját, továbbá
+
+c) a dolog fogyasztó részére történő visszaadásának vagy – helyben történő kijavítás esetén – a kijavítás befejezésének időpontját, valamint gépjármű esetében a kilométeróra állását.
+
+(2) A szolgáltatás részben vagy egészben való újbóli teljesítése iránti igény teljesítésekor a vállalkozásnak a jótállási jegyen fel kell tüntetnie az újbóli teljesítés tényét és időpontját.
+
+## 5/B. §[^26]
+
+(1) A 3. § (1)–(4) bekezdésében és a 4–5/A. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.
+
+(2) Az (1) bekezdésben megjelölt rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+
+## 6. §
+
+(1) Ez a rendelet 2004. szeptember 1-jén lép hatálya, rendelkezéseit a hatálybalépését követően kötött szerződésekre kell alkalmazni.
+
+(2)[^27]
+
+## Melléklet a 249/2004. (VIII. 27.) Korm. rendelethez
+
+1\. Lakáskarbantartási és -javítási szolgáltatások.
+
+2\. Háztartási gépek és készülékek javítása.
+
+3\. Barkács- és kerti szerszámok javítása.
+
+4\. Személygépkocsik, motorkerékpárok, karbantartása és javítása.
+
+5\. Audiovizuális, foto-optikai és információfeldolgozási berendezések javítása.
+
+6\. Gyógyászati segédeszközök javítása.
+
+7\. Telefon- és telefax-berendezések javítása.
+
+8\. Hangszerek javítása.
+
+9\. Órák javítása.
+
+---
+
+[^1]: Az 1. § a 97/2014. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^2]: A 2. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^3]: A 2. § (2) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^4]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^5]: A 3. § (2) bekezdés a) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^6]: A 3. § (2) bekezdés b) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^7]: A 3. § (2) bekezdés d) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 270/2020. (VI. 12.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 55. §-a szerint módosított szöveg.
+[^8]: A 3. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^9]: A 3. § (5) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^10]: A 3. § (6) bekezdését a 97/2014. (III. 25.) Korm. rendelet 3. § (6) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^11]: A 3. § (7) bekezdését a 416/2024. (XII. 20.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^12]: A 4. § (1) bekezdés nyitó szövegrésze a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^13]: A 4. § (1) bekezdés a) pontja az 531/2022. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 4. § (1) bekezdés c) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^15]: A 4. § (1) bekezdés g) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (8) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^16]: A 4. § (1) bekezdés h) pontját a 97/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 270/2020. (VI. 12.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 55. §-a szerint módosított szöveg.
+[^17]: A 4. § (2) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^18]: A 4. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^19]: A 4. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^20]: A 4. § (5) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) és f) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^21]: A 4. § (6) bekezdését a 97/2014. (III. 25.) Korm. rendelet 3. § (11) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^22]: Az 5. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^23]: Az 5. § (1a) bekezdését a 416/2024. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^24]: Az 5. § (2) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^25]: Az 5/A. §-t a 97/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^26]: Az 5/B. §-t a 97/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^27]: A 6. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 642. pontja hatályon kívül helyezte.

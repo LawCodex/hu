@@ -1,0 +1,179 @@
+---
+title: "158/2007. (VI. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló Egyezmény kihirdetéséről"
+identifier: "158/2007. (VI. 27.) Korm. rendelet"
+njt_id: "2007-158-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/158"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-06-27
+in_force_from: 2007-07-05
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-158-20-22"
+retrieved: 2026-10-12
+---
+
+# 158/2007. (VI. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló Egyezmény kihirdetéséről
+
+*(A Megállapodás a Magyar Köztársaság vonatkozásában 1997. június 26-án nemzetközi jogilag hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között a kulturális, tudományos és oktatási együttműködésről szóló, Budapesten, 1997. március 6-án aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+„
+
+**Egyezmény**\
+**a Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya között**\
+**a kulturális, tudományos és oktatási együttműködésről**
+
+A Magyar Köztársaság Kormánya és a Lett Köztársaság Kormánya (a továbbiakban: a Felek)
+
+– az országaik közötti együttműködés további bővítésének és elmélyítésének szándékától vezérelve, a Magyar Köztársaság és a Lett Köztársaság közötti baráti kapcsolatok és együttműködés alapjairól kötött és 1992. augusztus 7-én Rigában aláírt Szerződéssel összhangban,
+
+– abban a meggyőződésben, hogy a kulturális, tudományos és oktatási együttműködés, valamint a széles körű emberi kapcsolatok hozzájárulnak mindkét állam nemzeti kultúrájának gazdagodásához,
+
+– attól a szándéktól vezérelve, hogy a kultúra, a tudományok és az oktatás sajátos eszközeivel kölcsönösen erősítsék a két ország és állampolgárai közötti baráti kapcsolatokat,
+
+– azzal a meggyőződéssel, hogy a kultúra, a művészetek, a tudományok és az oktatás terén megvalósuló együttműködésük által hozzájárulnak az Európai Biztonsági és Együttműködési Értekezletek záróokmányaiban, a párizsi „Új Európáért” Charta-ban, az Európa Tanács ajánlásaiban, valamint az Európai Biztonsági és Együttműködési Szervezet dokumentumaiban foglaltak megvalósításához, s így elősegítik a két nép még nagyobb fokú bekapcsolódását az integrálódó Európa kulturális vérkeringésébe, melynek révén hatékonyan mozdíthatják elő a közös európai kultúra gazdagodását is
+
+az alábbiakban állapodnak meg:
+
+*1. cikk*
+
+A Felek az egyenlőség és a kölcsönösség alapján az országaikban érvényben lévő törvények, rendelkezések és mindkét Fél érdekének tiszteletben tartásával támogatják a széles körű együttműködést a kultúra és a művészetek, a tudomány, az oktatás, a tájékoztatás és a tömegtájékoztatási eszközök felhasználása, a testnevelés és sport, valamint az ifjúsági kapcsolatok terén. Támogatják az állami, társadalmi és magánintézmények, egyházak, a különböző szervezetek és egyesületek, valamint magánszemélyek kezdeményezéseit és sokoldalú együttműködési formáit, a jelen Egyezményben foglalt célok megvalósítása érdekében.
+
+*2. cikk*
+
+A Felek az intézmények, egyházak, szervezetek, egyesületek, települések, önkormányzatok stb. kölcsönös igényeken és érdeklődésen alapuló közvetlen együttműködését tekintik az országaik közötti kulturális, tudományos és oktatási együttműködés alapvető formájának.
+
+A mind hatékonyabb együttműködés érdekében támogatják a már meglévő közvetlen kapcsolatokat és elősegítik újabbak létesítését.
+
+*3. cikk*
+
+A Felek ösztönzik a tudományos akadémiák, felsőoktatási intézmények és kutatóintézetek együttműködését. Támogatják a tudományos kutatók cseréjét, a közös kutatásokat, valamint azok eredményeinek publikálását és népszerűsítését, a közös tudományos rendezvények szervezését, a tudományos információk és dokumentációk cseréjét.
+
+A Felek megkülönböztetett figyelmet fordítanak a másik ország nyelvével, történelmével, kultúrájával és művészetével foglalkozó intézmények és kutatók támogatására, a műfordítók nyelvi, szakmai képzésére és továbbképzésére.
+
+A Felek megkönnyítik egymás kutatói számára a könyvtáraikban, levéltáraikban, múzeumaikban, felsőoktatási és tudományos intézeteikben, testületeikben és egyesületeikben található anyagokhoz való hozzájutást, s biztosítják a tudományos kutatások végzésének lehetőségét ezekben az intézményekben.
+
+*4. cikk*
+
+1\. A Felek bővítik együttműködésüket és cserekapcsolataikat az oktatásügy terén, ezért különösen támogatják
+
+*a)* a tudományos kutatók, tanárok és oktatásügyi szakemberek,
+
+*b)* a tanulók, egyetemi hallgatók és ösztöndíjasok
+
+kölcsönös küldését;
+
+*c)* a tankönyvek, tanmenetek, tantervek és az oktatási rendszerrel kapcsolatos egyéb anyagok cseréjét.
+
+2\. A Felek támogatják a másik ország nyelvének, irodalmának, történelmének és kultúrájának minél jobb megismertetését.
+
+Megkülönböztetett figyelmet fordítanak felsőoktatási intézményeik magyar nyelvi és irodalmi, illetve lett nyelvi és irodalmi lektorátusainak működésére, valamint igényeire. Folytatják, illetve megkezdik az anyanyelvi lektorok, illetőleg vendégtanárok alkalmazásának gyakorlatát ezen oktatóhelyeken, s támogatják új tanszékek létrehozását.
+
+3\. A Felek támogatják a történelmi, földrajzi és kulturális kérdéseket feldolgozó tankönyvek, enciklopédikus és népszerű tudományos kiadványok egyeztetését.
+
+4\. A Felek tárgyalásokat szorgalmaznak az iskolai végzettséget tanúsító, valamint a tudományos fokozatok és címek odaítéléséről szóló okiratok kölcsönös elismeréséről, a fentiekre vonatkozó megállapodás aláírása céljából.
+
+*5. cikk*
+
+A Felek kölcsönösen lehetővé teszik, hogy állampolgáraik a másik Fél oktatási intézményeiben tanulmányokat folytathassanak. Résztvevőket fogadnak továbbá a két nyelv és kultúra alaposabb megismerését szolgáló nyári egyetemeken, speciális kurzusokon.
+
+Lehetőségeikkel összhangban e célból a másik ország állampolgárai részére ösztöndíjakat adományoznak vagy egyéb anyagi segítséget nyújtanak.
+
+*6. cikk*
+
+A Felek rendszeresen kicserélik a nemzeti kisebbségek oktatása és kulturális ellátása terén szerzett tapasztalataikat.
+
+*7. cikk*
+
+A Felek kulturális örökségük és mai kulturális eredményeik megismertetése érdekében támogatják a kölcsönös érdeklődésen és előnyökön alapuló együttműködést és cserét a kultúra, a hivatásos és amatőr művészetek valamennyi területén, s megteremtik a megfelelő feltételeket az e területeken működő kormányzati és nem kormányzati intézmények, szervezetek, egyesületek stb., valamint magánszemélyek együttműködéséhez.
+
+Bátorítják
+
+*a)* a színházi, zenei, ének- és táncművészeti, irodalmi, képzőművészeti, iparművészeti és filmművészeti intézmények, művészeti szakemberek és ügynökségek, a könyvkiadói és könyvterjesztői szövetségek, illetőleg szervezetek, a könyvtárak, művelődési otthonok, múzeumok, galériák, műemlékvédelmi, természetvédelmi és környezetvédelmi intézmények, továbbá magánszemélyek együttműködését a kultúra valamennyi területén folyó személy-, tapasztalat- és dokumentációcserét;
+
+*b)* az írók, műfordítók, zeneszerzők, zeneművészek, színművészek, ének- és táncművészek, filmművészek, televíziós és rádiós alkotók, építőművészek, képző- és iparművészek, valamint művészettörténészek szövetségeinek, egyesületeinek és más szervezeteinek együttműködését;
+
+*c)* a másik ország szerzői művészeti, irodalmi és tudományos műveinek fordítását és kiadását;
+
+*d)* a másik ország művészi alkotásainak bemutatását a prózai, zenés és táncszínházakban, operaházakban, hangversenytermekben, galériákban, filmszínházakban, a rádióban és a televízióban stb.;
+
+*e)* egyéb, a másik ország kultúráját, életét bemutató kiállítások, valamint tájékoztató anyagok cseréjét;
+
+*f)* a hivatásos és amatőr művészek és művészeti csoportok (kórusok, zenekarok, együttesek) cseréjét;
+
+*g)* az információk, kiadványok, könyvek, folyóiratok és más információhordozók, hang- és képhordozó eszközök cseréjét;
+
+*h)* képviselők küldését a másik Fél által rendezett kulturális fesztiválokra, versenyekre, szemlékre, konferenciákra és nemzetközi találkozókra, alkotótelepekre, a nemzetközi versenyek zsűrijébe;
+
+*i)* az új kulturális értékeket teremtő személyek kezdeményezéseit és vállalkozásait.
+
+*8. cikk*
+
+A Felek bátorítják a kulturális örökségük megőrzését szolgáló együttműködés minden formáját. Együttműködnek a területükre került, a másik Fél kulturális javait képező emlékanyag felkutatásában, sértetlen megőrzésében és – amennyiben e javak jogtalanul kerültek birtokukba, illetőleg országuk területére – visszaszolgáltatásában. Külön-külön és együttesen is fellépnek a kulturális javak illegális forgalmazásával szemben.
+
+*9. cikk*
+
+A Felek – állampolgáraik objektív és sokoldalú tájékoztatása érdekében – kölcsönösen biztosítják a két ország politikai, társadalmi, kulturális és tudományos életére vonatkozó információk szabad áramlását.
+
+Ennek érdekében előmozdítják rádióik és televízióik, távirati irodáik, újságíró szervezeteik, kiadóik és szerkesztőségeik együttműködését.
+
+*10. cikk*
+
+A Felek elősegítik a kormányközi és nem kormányzati tudományos és kulturális nemzetközi szervezetekben való együttműködést, s tájékoztatják egymást a fentiekkel kapcsolatos tapasztalataikról.
+
+*11. cikk*
+
+A Felek – a kulturális és szellemi javak terjesztésének és népszerűsítésének megkönnyítése érdekében – biztosítják a másik Fél állampolgárai és jogi személyei szerzői jogainak törvényes védelmét.
+
+*12. cikk*
+
+A Felek – az ehhez szükséges szervezeti, jogi és pénzügyi feltételek megléte esetén – kölcsönösen kulturális központokat vagy képviseleteket állítanak fel. Ezek létrejöttéig diplomáciai képviseleteik útján segítik a jelen Egyezményben vállalt együttműködési feladatok megoldását.
+
+*13. cikk*
+
+A Felek bátorítják és segítik a két ország ifjúsági szervezetei, egyesületei együttműködését és együttes részvételét a nemzetközi ifjúsági szervezetek munkájában.
+
+*14. cikk*
+
+A Felek támogatják a két ország közötti kulturális kapcsolatok fejlesztését szolgáló társadalmi szervezetek, nemzetiségi szövetségek tevékenységét.
+
+*15. cikk*
+
+A jelen Egyezmény megvalósítása érdekében a Felek, illetve érintett intézményeik és szervezeteik programokat, munkaterveket és megállapodásokat dolgoznak ki, amelyekben meghatározzák az együttműködés pénzügyi és szervezeti feltételeit.
+
+*16. cikk*
+
+Ezt az Egyezményt az aláírás napjától ideiglenesen kell alkalmazni, véglegesen akkor lép hatályba, amikor a Felek diplomáciai úton értesítették egymást a jóváhagyás megtörténtéről.
+
+*17. cikk*
+
+Az Egyezmény öt évre szól, s hatálya automatikusan meghosszabbodik a következő öt-öt éves időszakra, amennyiben egyik Fél sem mondja írásban fel hat hónappal az érvényességi idő lejárta előtt. A felmondástól függetlenül az Egyezmény alapján kötött megállapodások az eredetileg megjelölt határidő lejártáig érvényben maradnak.
+
+Kelt Rigában, 1997. március 6-án két eredeti példányban, mindegyik magyar, lett és angol nyelven. Mindhárom szöveg egyformán hiteles. Az Egyezmény rendelkezéseinek eltérő értelmezése esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Lett Köztársaság\
+Kormánya nevében”
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 4. §[^1]
+
+E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 4. § a 238/2022. (VI. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.

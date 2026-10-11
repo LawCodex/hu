@@ -1,0 +1,191 @@
+---
+title: "260/2009. (XI. 25.) Korm. rendelet a guantanamoi fogolytáborban fogva tartott személy magyarországi befogadásáról szóló, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti megállapodás kihirdetéséről"
+identifier: "260/2009. (XI. 25.) Korm. rendelet"
+njt_id: "2009-260-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/260"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-11-25
+in_force_from: 2009-11-25
+last_amended: 2009-11-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-260-20-22"
+retrieved: 2026-10-12
+---
+
+# 260/2009. (XI. 25.) Korm. rendelet a guantanamoi fogolytáborban fogva tartott személy magyarországi befogadásáról szóló, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány felhatalmazást ad a guantanamoi fogolytáborban fogva tartott személy magyarországi befogadásáról szóló, a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya közötti megállapodás (a továbbiakban: Megállapodás) kötelező hatályának jegyzékváltás útján történő elismerésére.
+
+## 2. §
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**„Note verbale**
+
+The Embassy of the United States of America presents its compliments to the Ministry of Foreign Affairs of the Government of Hungary and has the honor to refer to discussions between the Government of the United States of America (USG) and the Government of Hungary (GoH) held in Budapest on September 16, 2009 regarding the transfer of a detainee under the control of the U.S. Department of Defense at the Guantanamo Bay Detention Facility.
+
+As a result of these consultations and subsequent conversations, the USG and have reached certain understandings set forth below which, when confirmed by diplomatic note from the GoH, is to establish the basis for the USG to transfer for resettlement a detainee from the control of the U.S. Department of Defense at Guantanamo Bay Detention Facility to Hungary.
+
+These understandings are based on:
+
+Shared fundamental values of democracy, respect for international law and human rights;
+
+Shared commitment to continued efforts to combat terrorism in a manner that comports with our respective obligations under international law, in particular international human rights law, refugee law, and humanitarian law, in particular as parties to the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment;
+
+Full support of the decision of the USG to close detention facilities at the Guantanamo Bay Naval Base;
+
+The USG's official request to certain Member States of the European Union to assist in finding residence for some of those persons approve for transfer;
+
+Based on the above, the USG understands:
+
+The GoH commits to receive and resettle one former detainee in the Republic of Hungary. The GoH made this decision based upon information received from the USG and on interviews conducted with the detainee, who has voluntarily agreed to resettlement in the Republic of Hungary.
+
+The GoH is committed to supervising and supporting the former detainee's integration into Hungarian society. This includes the granting of a residence permit on humanitarian grounds and with it the entitlement to all the rights and responsibilities thereto appertaining as regulated by the relevant Hungarian laws and regulations, especially the provisions of Act II of 2007 on the Admission and Right of Residence of Third Country-Nationals. The GoH states its continuing commitment not to extradite or otherwise transfer the former detainee to other countries or to the control of any third government, either directly or indirectly, except in accordance with its obligations under international law.
+
+The USG also understands that Hungary, pursuant to earlier consultations between the two Governments, intends to implement the following measures:
+
+Remain in ongoing discussions with the USG on the status of the transferred person resident in Hungary.
+
+Inform European Union Member States and Schengen associated countries through the information sharing mechanism as settled by the Conclusions of the Council and the representatives of the Governments of the Member states of June 4, 2009, on the exchange of information concerning Guantanamo former detainees.
+
+For its part, the USG commits to arrange and provide transportation of the former detainee from Guantanamo to an agreed-to location in Hungary, and is to provide the former detainee with appropriate identity documents.
+
+It is the objective of this arrangement that the former detainee quickly become self-sufficient and integrated into Hungarian society. To this end, the GoH is to provide integration support to include housing, job seeking assistance, access to public health care and language instruction. The USG will provide assistance in support of this integration effort.
+
+This note and the Ministry's note in reply confirming that the Government of Hungary shares the understandings set forth herein is to constitute an understanding between the two Governments, which will be effective on the date of the Ministry's reply.
+
+The Embassy of the United States avails itself of the opportunity to renew to the Ministry of Foreign Affairs of the Republic of Hungary the assurances of its highest consideration.”
+
+**„Note verbale**
+
+The Ministry of Foreign Affairs of the Republic of Hungary presents its compliments to the Embassy of the United States of America and has the honor of informing the Embassy that it acknowledges the receipt of and shares the understandings outlined in the Embassy's Note Verbale No. 2009–265 dated November 24, 2009 which reads as follows:
+
+“The Embassy of the United States of America presents its compliments to the Ministry of Foreign Affairs of the Government of Hungary and has the honor to refer to discussions between the Government of the United States of America (USG) and the Government of Hungary (GoH) held in Budapest on September 16, 2009 regarding the transfer of a detainee under the control of the U.S. Department of Defense at the Guantanamo Bay Detention Facility.
+
+As a result of these consultations and subsequent conversations, the USG and have reached certain understandings set forth below which, when confirmed by diplomatic note from the GoH, is to establish the basis for the USG to transfer for resettlement a detainee from the control of the U.S. Department of Defense at Guantanamo Bay Detention Facility to Hungary.
+
+These understandings are based on:
+
+Shared fundamental values of democracy, respect for international law and human rights;
+
+Shared commitment to continued efforts to combat terrorism in a manner that comports with our respective obligations under international law, in particular international human rights law, refugee law, and humanitarian law, in particular as parties to the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment;
+
+Full support of the decision of the USG to close detention facilities at the Guantanamo Bay Naval Base;
+
+The USG's official request to certain Member States of the European Union to assist in finding residence for some of those persons approve for transfer;
+
+Based on the above, the USG understands:
+
+The GoH commits to receive and resettle one former detainee in the Republic of Hungary. The GoH made this decision based upon information received from the USG and on interviews conducted with the detainee, who has voluntarily agreed to resettlement in the Republic of Hungary.
+
+The GoH is committed to supervising and supporting the former detainee's integration into Hungarian society. This includes the granting of a residence permit on humanitarian grounds and with it the entitlement to all the rights and responsibilities thereto appertaining as regulated by the relevant Hungarian laws and regulations, especially the provisions of Act II of 2007 on the Admission and Right of Residence of Third Country-Nationals. The GoH states its continuing commitment not to extradite or otherwise transfer the former detainee to other countries or to the control of any third government, either directly or indirectly, except in accordance with its obligations under international law.
+
+The USG also understands that Hungary, pursuant to earlier consultations between the two Governments, intends to implement the following measures:
+
+Remain in ongoing discussions with the USG on the status of the transferred person resident in Hungary.
+
+Inform European Union Member States and Schengen associated countries through the information sharing mechanism as settled by the Conclusions of the Council and the representatives of the Governments of the Member states of June 4, 2009, on the exchange of information concerning Guantanamo former detainees.
+
+For its part, the USG commits to arrange and provide transportation of the former detainee from Guantanamo to an agreed-to location in Hungary, and is to provide the former detainee with appropriate identity documents.
+
+It is the objective of this arrangement that the former detainee quickly become self-sufficient and integrated into Hungarian society. To this end, the GoH is to provide integration support to include housing, job seeking assistance, access to public health care and language instruction. The USG will provide assistance in support of this integration effort.
+
+This note and the Ministry's note in reply confirming that the Government of Hungary shares the understandings set forth herein is to constitute an understanding between the two Governments, which will be effective on the date of the Ministry's reply.
+
+The Embassy of the United States avails itself of the opportunity to renew to the Ministry of Foreign Affairs of the Republic of Hungary the assurances of its highest consideration.”
+
+The Ministry of Foreign Affairs of the Republic of Hungary avails itself of the opportunity to renew to the Embassy of the United States of America the assurances of its highest consideration.”
+
+**„Szóbeli jegyzék**
+
+Az Amerikai Egyesült Államok Nagykövetsége tiszteletét fejezi ki a Magyar Köztársaság Külügyminisztériumának, és van szerencséje hivatkozni az Amerikai Egyesült Államok Kormánya (a továbbiakban: Amerikai Kormány) és a Magyar Köztársaság Kormánya (a továbbiakban: Magyar Kormány) között 2009. szeptember 16-án Budapesten, a Védelmi Minisztérium ellenőrzése alatt álló Guantanamo-öbölbeli fogolytáborból egy fogvatartott átszállítására vonatkozó egyeztetésekre.
+
+Az egyeztetések és az ezt követő megbeszélések eredményeként az Amerikai Kormány és a Magyar Kormány az alábbiakban kifejtettek szerint állapodtak meg, amely a Magyar Kormány ezt megerősítő diplomáciai jegyzékét követően megalapozza az amerikai Védelmi Minisztérium ellenőrzése alatt álló Guantanamo-öbölbeli fogolytáborból egy fogvatartott befogadás céljából történő Magyarországra szállítását.
+
+E megállapodás a következőkön alapul:
+
+A demokrácia, a nemzetközi jog és emberi jogok közös értékeinek tiszteletben tartása;
+
+Közös elkötelezettség a terrorizmus elleni harcnak a nemzetközi jogi kötelezettségekkel összhangban, különös tekintettel a nemzetközi emberi jogokra, a menekült jogra és a humanitárius jogra, kivált a Kínzás, és egyéb Kegyetlen, Embertelen vagy Megalázó Bánásmód elleni Egyezmény aláíróiként;
+
+Az Amerikai Kormány Guantanamo-öbölbeli Haditengerészeti Bázison lévő fogolytáborok bezárására vonatkozó döntésének teljes támogatása;
+
+Az Amerikai Kormány egyes európai uniós tagállamokhoz intézett hivatalos kérése a szabadon engedett személyek letelepedésében történő segítségnyújtásra vonatkozóan;
+
+A fentiek alapján az Amerikai Kormány értelmezése szerint:
+
+A Magyar Kormány vállalja, hogy befogad és letelepít egy korábbi fogva tartott személyt a Magyar Köztársaságban. A Magyar Kormány e döntését az Amerikai Kormánytól kapott információk és a fogvatartottal – aki önkéntesen hozzájárult a Magyar Köztársaságban történő letelepedéséhez – folytatott interjúk alapján hozta meg.
+
+A Magyar Kormány elkötelezte magát a korábbi fogvatartott magyar társadalomba történő beilleszkedésének figyelemmel kísérése és támogatása mellett. Ez magában foglalja, hogy humanitárius célból tartózkodási engedéllyel látja el, biztosítva számára minden, a magyar jogszabályokban, különös tekintettel a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló, 2007. évi II. törvényben foglalt jogot és kötelezettséget. A Magyar Kormány kijelenti folyamatos elkötelezettségét aziránt, hogy a korábbi fogvatartottat nem adja ki vagy szállítja át harmadik állam részére vagy bármely harmadik kormány ellenőrzésébe, kivéve amennyiben az összhangban áll a nemzetközi joggal.
+
+Az Amerikai Kormány értelmezése szerint, összhangban a két kormány közötti korábbi megbeszélésekkel, a Magyar Kormány az alábbi intézkedéseket szándékozik megtenni:
+
+Rendszeresen konzultál az Amerikai Kormánnyal a Magyarországon letelepedett átszállított személy státuszáról.
+
+Tájékoztatja az Európai Unió tagállamait és a Schengeni Egyezmény társult országait a guantanamoi fogvatartottakkal kapcsolatos információcseréről szóló, 2009. június 4-én elfogadott tanácsi következtetésekben kialakított információ-megosztási mechanizmusnak megfelelően.
+
+Az Amerikai Kormány
+
+beleegyezik, hogy megszervezi és lebonyolítja a korábbi fogvatartottnak egy előre egyeztetett magyarországi helyszínre történő szállítását, és őt megfelelő személyazonosító okmányokkal látja el.
+
+A jelen megállapodás célja, hogy a korábbi fogvatartott mielőbb önellátóvá váljon és beilleszkedjen a magyar társadalomba. Ennek érdekében a Magyar Kormány a beilleszkedéshez támogatást nyújt, beleértve a lakhatáshoz, munkakereséshez nyújtott támogatást, valamint a közegészségügyi ellátások és nyelvtanulás biztosítását. Az Amerikai Kormány a beilleszkedés elősegítéséhez támogatást nyújt.
+
+A jelen jegyzék és a Magyar Kormány ebben foglaltakat megerősítő jegyzéke két kormány közötti megállapodást hoz létre. A jelen jegyzékváltás a Magyar Köztársaság Külügyminisztériuma megerősítő jegyzékének aláírása napján lép hatályba.
+
+Az Amerikai Egyesült Államok Budapesti Nagykövetsége megragadja az alkalmat, hogy a Magyar Köztársaság Külügyminisztériumát ismételten őszinte nagyrabecsüléséről biztosítsa.”
+
+**„Szóbeli jegyzék**
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki az Amerikai Egyesült Államok Nagykövetségének, és van szerencséje arról tájékoztatni a Nagykövetséget, hogy elismeri a kézhezvételt és egyetért a benne foglaltakkal a Nagykövetség 2009-265. számú 2009. november 24-i, következő szövegű jegyzékének vonatkozásában:
+
+„Az Amerikai Egyesült Államok Nagykövetsége tiszteletét fejezi ki a Magyar Köztársaság Külügyminisztériumának, és van szerencséje hivatkozni az Amerikai Egyesült Államok Kormánya (a továbbiakban: Amerikai Kormány) és a Magyar Köztársaság Kormánya (a továbbiakban: Magyar Kormány) között 2009. szeptember 16-án Budapesten, a Védelmi Minisztérium ellenőrzése alatt álló Guantanamo-öbölbeli fogolytáborból egy fogvatartott átszállítására vonatkozó egyeztetésekre.
+
+Az egyeztetések és az ezt követő megbeszélések eredményeként az Amerikai Kormány és a Magyar Kormány az alábbiakban kifejtettek szerint állapodtak meg, amely a Magyar Kormány ezt megerősítő diplomáciai jegyzékét követően megalapozza az amerikai Védelmi Minisztérium ellenőrzése alatt álló Guantanamo-öbölbeli fogolytáborból egy fogvatartott befogadás céljából történő Magyarországra szállítását.
+
+E megállapodás a következőkön alapul:
+
+A demokrácia, a nemzetközi jog és emberi jogok közös értékeinek tiszteletben tartása;
+
+Közös elkötelezettség a terrorizmus elleni harcnak a nemzetközi jogi kötelezettségekkel összhangban, különös tekintettel a nemzetközi emberi jogokra, a menekült jogra és a humanitárius jogra, kivált a Kínzás, és egyéb Kegyetlen, Embertelen vagy Megalázó Bánásmód elleni Egyezmény aláíróiként;
+
+Az Amerikai Kormány Guantanamo-öbölbeli Haditengerészeti Bázison lévő fogolytáborok bezárására vonatkozó döntésének teljes támogatása;
+
+Az Amerikai Kormány egyes európai uniós tagállamokhoz intézett hivatalos kérése a szabadon engedett személyek letelepedésében történő segítségnyújtásra vonatkozóan.
+
+A fentiek alapján az Amerikai Kormány értelmezése szerint:
+
+A Magyar Kormány vállalja, hogy befogad és letelepít egy korábbi fogvatartott személyt a Magyar Köztársaságban. A Magyar Kormány e döntését az Amerikai Kormánytól kapott információk és a fogvatartottal – aki önkéntesen hozzájárult a Magyar Köztársaságban történő letelepedéséhez – folytatott interjúk alapján hozta meg.
+
+A Magyar Kormány elkötelezte magát a korábbi fogvatartott magyar társadalomba történő beilleszkedésének figyelemmel kísérése és támogatása mellett. Ez magában foglalja, hogy humanitárius célból tartózkodási engedéllyel látja el, biztosítva számára minden, a magyar jogszabályokban, különös tekintettel a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló, 2007. évi II. törvényben foglalt jogot és kötelezettséget. A Magyar Kormány kijelenti folyamatos elkötelezettségét aziránt, hogy a korábbi fogvatartottat nem adja ki vagy szállítja át harmadik állam részére vagy bármely harmadik kormány ellenőrzésébe, kivéve amennyiben az összhangban áll a nemzetközi joggal.
+
+Az Amerikai Kormány értelmezése szerint, összhangban a két kormány közötti korábbi megbeszélésekkel, a Magyar Kormány az alábbi intézkedéseket szándékozik megtenni:
+
+Rendszeresen konzultál az Amerikai Kormánnyal a Magyarországon letelepedett átszállított személy státuszáról.
+
+Tájékoztatja az Európai Unió tagállamait és a Schengeni Egyezmény társult országait a guantanamoi fogvatartottakkal kapcsolatos információcseréről szóló, 2009. június 4-én elfogadott tanácsi következtetésekben kialakított információmegosztási mechanizmusnak megfelelően.
+
+Az Amerikai Kormány
+
+beleegyezik, hogy megszervezi és lebonyolítja a korábbi fogvatartottnak egy előre egyeztetett magyarországi helyszínre történő szállítását, és őt megfelelő személyazonosító okmányokkal látja el.
+
+A jelen megállapodás célja, hogy a korábbi fogvatartott mielőbb önellátóvá váljon és beilleszkedjen a magyar társadalomba. Ennek érdekében a Magyar Kormány a beilleszkedéshez támogatást nyújt, beleértve a lakhatáshoz, munkakereséshez nyújtott támogatást, valamint a közegészségügyi ellátások és nyelvtanulás biztosítását. Az Amerikai Kormány a beilleszkedés elősegítéséhez támogatást nyújt.
+
+A jelen jegyzék és a Magyar Kormány ebben foglaltakat megerősítő jegyzéke a két kormány közötti megállapodást hozza létre. A jelen jegyzékváltás a Magyar Köztársaság Külügyminisztériuma megerősítő jegyzékének aláírása napján lép hatályba.
+
+Az Amerikai Egyesült Államok Budapesti Nagykövetsége megragadja az alkalmat, hogy a Magyar Köztársaság Külügyminisztériumát ismételten őszinte nagyrabecsüléséről biztosítsa.”
+
+A Magyar Köztársaság Külügyminisztériuma megragadja az alkalmat, hogy az Amerikai Egyesült Államok Nagykövetségét ismételten őszinte nagyrabecsüléséről biztosítsa.”
+
+## 4. §
+
+(1) E rendelet a kihirdetésével egyidejűleg lép hatályba.
+
+(2) E rendelet végrehajtásáról a polgári nemzetbiztonsági szolgálatokat irányító miniszter, az idegenrendészetért és menekültügyért felelős miniszter, a honvédelemért felelős miniszter és az államháztartásért felelős miniszter gondoskodik.

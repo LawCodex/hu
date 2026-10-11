@@ -1,0 +1,191 @@
+---
+title: "300/2004. (XI. 2.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a környezetvédelmi együttműködésről szóló, Moszkvában, 2002. december 20-án aláírt Egyezmény kihirdetéséről"
+identifier: "300/2004. (XI. 2.) Korm. rendelet"
+njt_id: "2004-300-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/300"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-11-02
+in_force_from: 2004-11-02
+last_amended: 2004-11-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-300-20-22"
+retrieved: 2026-10-12
+---
+
+# 300/2004. (XI. 2.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a környezetvédelmi együttműködésről szóló, Moszkvában, 2002. december 20-án aláírt Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás megtörtént, az Egyezmény 2004. június 22-én hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a környezetvédelmi együttműködésről szóló, Moszkvában, 2002. december 20-án aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény a Magyar Köztársaság Kormánya\
+és az Oroszországi Föderáció Kormánya között\
+a környezetvédelmi együttműködésről
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya (a továbbiakban: Felek),
+
+a Magyar Köztársaság és az Oroszországi Szovjet Szövetségi Szocialista Köztársaság közötti baráti kapcsolatokról és együttműködésről 1991. december 6-án aláírt Szerződésben foglalt elvektől vezérelve,
+
+figyelembe véve a környezet védelmével és a természeti erőforrások ésszerű használatával kapcsolatos kérdések megoldásának fontosságát,
+
+elősegítendő az egészséges környezethez való jog érvényesítését minden ember számára,
+
+államaik törvényhozását és a nemzetközi jog általánosan elismert normáit tekintve irányadónak,
+
+a hosszú távú környezetvédelmi együttműködés és a kölcsönös érdekű kérdések megoldása elősegítésének szándékával,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+A Felek fejleszteni fogják együttműködésüket a környezetvédelem területén az egyenjogúság és a kölcsönös előnyök alapján, a fenntartható fejlődés céljaitól és elveitől vezérelve.
+
+*2. Cikk*
+
+A Felek együttműködésüket az alábbi szakterületeken valósítják meg:
+
+– a globális környezeti és éghajlat változások negatív gazdasági és társadalmi hatásainak csökkentése,
+
+– részvétel a „Környezetet Európának” folyamatban,
+
+– tapasztalatcsere a környezetpolitika megvalósítása terén,
+
+természetvédelemmel összhangban álló jogalkotás, megfelelő jogszabályok alkalmazása a környezetvédelem területén,
+
+– környezetbiztonság,
+
+– energiatakarékosság, az energiafelhasználás környezeti összefüggései,
+
+– a levegő, a talaj, a felszíni és felszín alatti vizek védelme,
+
+– hulladékok környezetbarát hasznosítása,
+
+– veszélyes hulladékok határon túli szállításának ellenőrzése,
+
+– ipari környezetvédelem és erőforrás-kímélő technológiák,
+
+– városok és települések környezeti állapotának védelme és javítása,
+
+– nemzeti parkok és más fokozottan védett természeti területek létrehozása, megóvása és fejlesztése,
+
+– a természet kiaknázásának gazdasági kérdései,
+
+– a biológiai sokféleség megóvása és fenntartható használata,
+
+– ritka és a kihalás veszélyével fenyegetett növény- és állatfajok védelme,
+
+– erdőterületek védelme, felújítása és bővítése,
+
+– ásványvagyon védelme és ésszerű ásványvagyon-gazdálkodás,
+
+– a környezetvédelmi egyezmények alapján fennálló nemzetközi jogi kötelezettségek teljesítése,
+
+– a környezet állapotára vonatkozó információk gyűjtése, elemzése, terjesztése, tárolása és ilyen információk kétoldalú cseréje,
+
+– környezet feltérképezése és geoinformációs rendszerek létrehozása,
+
+– környezeti monitoring, a környezetszennyezés lakosság egészségre gyakorolt hatásának értékelése,
+
+– állami környezeti felügyelet létrehozása,
+
+– a környezeti hatásvizsgálat módszertana és fejlesztése,
+
+– a lakosság környezeti nevelése, oktatása és tudatformálása,
+
+– együttműködés környezetvédő szervezetekkel,
+
+és más szakterületeken, amelyeket a Felek indokoltnak tartanak.
+
+*3. Cikk*
+
+Az együttműködés az alábbi formákban valósul meg:
+
+– közös programok, projektek és rendezvények megvalósítása a 2. Cikkben meghatározott szakterületeken,
+
+– értekezletek, konferenciák, szimpóziumok, szemináriumok és konzultációk rendezése,
+
+– szakértők és tudományos szakemberek cseréje,
+
+– környezetvédelmi szakemberek felkészítése,
+
+– tudományos-műszaki és jogi dokumentációk, módszertani anyagok és egyéb információk cseréje,
+
+– szerződéses alapon történő munkavégzés.
+
+Az együttműködés más, a jelen Egyezmény végrehajtása során egyeztetett formákban is megvalósulhat.
+
+*4. Cikk*
+
+Jelen Egyezmény végrehajtásáért a Felek által kijelölt illetékes szervek felelősek:
+
+a Magyar Fél részéről – a Magyar Köztársaság Környezetvédelmi és Vízügyi Minisztériuma,
+
+az Orosz Fél részéről – az Oroszországi Föderáció Természeti Erőforrások Minisztériuma.
+
+Más illetékes szerv kijelöléséről a Felek diplomáciai úton írásban értesítik egymást.
+
+*5. Cikk*
+
+A Felek jelen Egyezmény megvalósításának koordinálására Magyar–Orosz Környezetvédelmi Együttműködési Bizottságot hoznak létre (a továbbiakban: Bizottság).
+
+A Bizottságot társelnökök – a jelen Egyezmény 4. Cikke szerinti állami főhatóságok képviselői – vezetik. A Bizottság mindkét Fél részéről egyenlő számú tagból tevődik össze.
+
+A jelen Egyezmény hatálybalépését követő hat hónapon belül a Felek értesítik egymást a Bizottság társelnökeinek kinevezéséről, akik a jelen Egyezmény hatálybalépését követő egy éven belül összehívják a Bizottság első ülését.
+
+A Bizottság az első ülésén elfogadott ügyrend szerint fog működni.
+
+A Bizottság dolgozza ki és hagyja jóvá a Felek közötti együttműködési programokat a 2. Cikkben felsorolt szakterületeken, felügyeli azok végrehajtását és közös határozatokat hoz az együttműködés továbbfejlesztéséről.
+
+A Bizottság szükség szerint, de legalább évente egyszer ülésezik, felváltva a Magyar Köztársaság és az Oroszországi Föderáció területén.
+
+*6. Cikk*
+
+A Felek képviselőinek a Bizottság és a közös munkacsoportok üléseire, a jelen Egyezmény 2. Cikkében felsorolt szakterületeken jóváhagyott együttműködési programokkal kapcsolatos munkavégzésre szóló külföldi kiküldetése esetén az utazási, étkezési és szállásköltségeket a küldő Fél viseli.
+
+A fogadó Fél viseli a Bizottság, a közös munkacsoportok ülései és más, a Bizottság munkatervében előirányzott találkozók szervezési-rendezési költségét.
+
+*7. Cikk*
+
+A Felek saját államaik törvényhozásának megfelelően elősegítik a két ország környezetvédelmi tevékenységet folytató jogi személyei közötti közvetlen kapcsolatok kialakítását és fejlesztését.
+
+*8. Cikk*
+
+A jelen Egyezmény keretében megvalósuló közös munka eredményei nem adhatók át, illetve nem adhatók el harmadik állam jogi és természetes személyeinek, hacsak a Felek között erről másfajta megegyezés nem jön létre.
+
+*9. Cikk*
+
+A jelen Egyezmény értelmezéséből és alkalmazásából fakadó nézetkülönbségeket a Felek tárgyalások útján rendezik.
+
+*10. Cikk*
+
+A jelen Egyezmény nem érinti a Felek azon jogait és kötelezettségeit, amelyek a Magyar Köztársaság és az Oroszországi Föderáció által korábban megkötött nemzetközi egyezményekből származnak, vagy nemzetközi környezet- és természetvédelmi szervezetekben vállalt tagságukkal kapcsolatosak.
+
+*11. Cikk*
+
+Jelen Egyezmény mindkét Fél részéről a hatálybalépéshez szükséges belső jogi követelmények teljesítését igazoló utóbbi írásos értesítés kézhezvétele napján lép hatályba.
+
+Jelen Egyezményt a Felek ötéves időtartamra kötik és ennek elteltével hatálya automatikusan újabb ötéves időszakokra meghosszabbodik, amennyiben az adott időtartam lejárta előtt legalább hat hónappal a Felek egyike sem értesíti írásban a másik Felet az Egyezmény megszüntetésére vonatkozó szándékáról.
+
+*12. Cikk*
+
+Jelen Egyezmény hatálybalépésével a Magyar Köztársaság és az Oroszországi Föderáció viszonylatában hatályát veszti a Magyar Köztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között a környezetvédelem területén folytatandó együttműködésről 1989. november 1-jén aláírt Egyezmény.
+
+Készült Moszkvában, 2002. december 20-án, két példányban, magyar és orosz nyelven, mindkét szöveg egyformán hiteles.
+
+(Aláírások)”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2004. június 22-től kell alkalmazni.
+
+(2) E rendelet végrehajtásáról a környezetvédelmi és vízügyi miniszter gondoskodik.

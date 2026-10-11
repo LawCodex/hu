@@ -1,0 +1,303 @@
+---
+title: "109/1997. (VI. 25.) Korm. rendelet az önkéntes kölcsönös egészségpénztárak egészségügyi intézményeinek működési és üzemeltetési szabályairól"
+identifier: "109/1997. (VI. 25.) Korm. rendelet"
+njt_id: "1997-109-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/109"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-06-25
+in_force_from: 2010-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-109-20-22"
+retrieved: 2026-10-12
+---
+
+# 109/1997. (VI. 25.) Korm. rendelet az önkéntes kölcsönös egészségpénztárak egészségügyi intézményeinek működési és üzemeltetési szabályairól
+
+Az önkéntes kölcsönös biztosító pénztárakról szóló, módosított 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 78. §-ának (2) bekezdésében foglalt felhatalmazás alapján a Kormány az önkéntes kölcsönös egészségpénztárak egészségügyi intézményeinek működési és üzemeltetési szabályairól a következőket rendeli el:
+
+## I. RÉSZ — A rendelet hatálya
+
+#### 1. §
+
+A rendelet hatálya azokra az Öpt. hatálya alá tartozó egészségpénztárakra terjed ki, amelyek egészségügyi intézmény tulajdonosai vagy üzemeltetői.
+
+### Fogalmak
+
+#### 2. §
+
+E rendelet alkalmazásában:
+
+a)[^1] *egészségügyi intézmény:* az egészségügyről szóló törvény[^2], és az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet[^3] szerinti egészségügyi szolgáltatást végző szervezet, amely
+
+aa) jogi személy,
+
+ab) az egészségpénztár belső szervezeti egysége, vagy
+
+ac) az egészségpénztárral kötött üzemeltetési szerződés alapján működik;
+
+b) *működtető pénztár:* olyan egészségpénztár, amelynek egészségügyi intézménye van (tulajdonában tart, vagy belső szervezeti egységként irányít), vagy amely ilyen intézményt üzemeltet;
+
+c) *üzemeltetés:* egészségügyi intézmény által egészségügyi szolgáltatás nyújtása a pénztár tagjai és a nem pénztári tag természetes személyek számára üzemeltetési szerződés alapján, amelynek keretében az egészségpénztár átvállalja az intézmény tulajdonosától az intézmény fenntartásával, működésével kapcsolatos költségek meghatározott körét;
+
+d) *pénztári szolgáltatás:* az Öpt. 51. §-ának (1) bekezdésében meghatározott tevékenység;
+
+e) *nem pénztári szolgáltatás:* az Öpt. 2. §-ának (4) bekezdése *d)* pontjában meghatározott kiegészítő vállalkozási tevékenység;
+
+f) *egészségügyi szolgáltatás:* minden olyan tevékenység, amely a megbetegedések megelőzése, korai felismerése, megállapítása, gyógykezelése, a megbetegedés következtében kialakult egészségi állapot szinten tartása vagy javítása céljából a szolgáltatást igénybe vevő személy (a továbbiakban: beteg) közvetlen vizsgálatára, kezelésére, ápolására, orvosi rehabilitációjára, továbbá a beteg vizsgálati anyagainak feldolgozására irányul;[^4]
+
+g)[^5] *közeli hozzátartozó:* a Polgári Törvénykönyvben meghatározott közeli hozzátartozó, valamint a bejegyzett élettárs és az élettárs.
+
+### Általános rendelkezések
+
+#### 3. §
+
+(1) A működtető pénztár köteles tagjainak – és amennyiben az alapszabály úgy rendelkezik, azok közeli hozzátartozóinak – az egészségügyi intézmény egészségpénztári szolgáltatásait pénztári szolgáltatásként nyújtani.
+
+(2) A szükségletek, a szolgáltatások és a finanszírozás egyensúlyának fenntartásához a pénztártagok – a nyújtandó szolgáltatásokhoz kapcsolódó – egészségi szükségletének felmérésén alapuló egészségtervezési és modellezési rendszert kell kialakítani, és a pénzügyi gazdasági tervezési rendszerrel összehangoltan kell működtetni, a következők szerint:
+
+a) a pénztártagok egészségi állapotát – beleértve a kórelőzményeket és azok családi vonatkozásait is – fel kell mérni, a tagok esetleges betegségére vonatkozó adataival, leleteivel, zárójelentéseivel együtt és számítógépes adathordozón kell rögzíteni;
+
+b) az adatok személyenkénti elemzését – a kockázatelemzés, az esetvalószínűség becslés módszerével – el kell végezni, és az elemzés alapján egyéni egészségtervet kell készíteni. Az egyéni egészségterv a várható egészségi állapotváltozáshoz illeszti a javasolt egyéni életmód programot, és az igénybe veendő szolgáltatásokat;
+
+c) a tagok személyazonosításra alkalmatlanná tett egészségtervének összesítésével, majd évenkénti ismételt aktualizálásával, valamint előrevetítésével készítendő el az egészségpénztár rövidebb és hosszabb időtávú egészségterve és a demográfiai modellje;
+
+d) az egészségpénztár egészségtervével összehangoltan, de annak alárendelve kell a szolgáltatások pénzügyi fedezetét tervezni a költséghatékonyság szem előtt tartásával.
+
+(3) A (2) bekezdésben meghatározott adatok felvétele, tárolása, feldolgozása és hasznosítása – ideértve a továbbítást is – csak abban az esetben végezhető el, ha ahhoz a pénztártag, illetve – ha az érintett egészségi állapotára vonatkozó adatokból következtetni lehet kilétükre és egészségi állapotukra, akkor – a közeli hozzátartozók írásban hozzájárultak.
+
+### Az egészségpénztár által működtetett egészségügyi intézmény
+
+#### 4. §[^6]
+
+A jogi személyként működő egészségügyi intézmény gazdálkodását és nyilvántartását el kell különíteni a működtető pénztár gazdálkodásától és nyilvántartásától. Az intézmény a pénztári szolgáltatásokat a pénztárral kötött szerződés alapján nyújtja.
+
+#### 5. §
+
+(1) Az egészségpénztár belső szervezeti egységeként működő egészségügyi intézmény vezetője felett – amennyiben a pénztár nem alkalmaz ügyvezetőt – az igazgatótanács gyakorolja a munkáltatói jogokat.
+
+(2) Az (1) bekezdés szerinti intézmény vezetője
+
+a) a pénztár alapszabályában előírt képviseleti szabályok szerint a rendeltetésszerű működés által meghatározott körben a pénztár képviselőjeként jár el;
+
+b) irányítja az intézmény szakmai tevékenységét;
+
+c) gyakorolja az intézményben a munkáltatói jogokat, a pénztár alapszabálya szerint gondoskodik az intézmény működési és személyi feltételeinek biztosításáról;
+
+d) a pénztár alapszabálya és pénzügyi terve alapján gyakorolja az intézmény gazdálkodásával összefüggő jogokat, felel a biztonságos működésért;
+
+e) a pénztár pénzügyi terve alapján az alapszabályban meghatározott feltételek között gondoskodik az intézmény működéséhez szükséges tárgyi feltételek meglétéről;
+
+f) felel az egészségügyi szakmai követelmények és előírások, a vonatkozó egészségügyi jogszabályok maradéktalan betartásáért.
+
+#### 6. §
+
+(1) Az egészségpénztár köteles az általa üzemeltetett egészségügyi intézmény tulajdonosával (tulajdonosaival) üzemeltetési szerződést kötni.
+
+(2) Az üzemeltetési szerződésnek tartalmaznia kell különösen:
+
+a) a feleknek az egészségügyi intézményhez kapcsolódó feladatkörét, felelősségük módját és mértékét;
+
+b) a két fél közötti költségmegosztási, elszámolási szabályokat és feltételeket, beleértve az intézmény alkalmazottainak bérjellegű költségeit is;
+
+c) a szerződés teljesítéséhez szükséges adminisztrációs feltételeket, szabályokat (pl. információáramlás, kapcsolattartásra, illetve döntésre jogosult személyek és hatáskörük, értesítési, tájékoztatási kötelezettség);[^7]
+
+d) az intézmény vezetőjének kinevezésével, a munkáltatói jogok és alkalmazási feltételek gyakorlásával és az intézmény működésével kapcsolatos lényeges szabályokat.
+
+## II. RÉSZ — A működtető pénztár szervezetét érintő külön szabályok
+
+#### 7. §
+
+A működtető pénztár alapszabályának tartalmaznia kell:
+
+a) az egészségügyi intézménnyel kapcsolatos döntéshozatal szervezeti és eljárási rendjét, az ehhez kapcsolódó hatásköröket;
+
+b) az intézménnyel kapcsolatos szerződések megkötésének és módosításának szabályait.
+
+#### 8. §
+
+A működtető pénztár közgyűlésének kizárólagos hatáskörébe tartozik az egészségügyi intézmény
+
+a) létrehozására, a tulajdonosi, illetve az üzemeltetői jogának megszerzésére,
+
+b) megszüntetésére, a tulajdonosi jog átruházására, illetve az üzemeltetői jog megszüntetésére
+
+vonatkozó döntés.
+
+### A szakértői tagok
+
+#### 9. §
+
+A működtető pénztár közgyűlése a pénztártagok közül az igazgatótanácsba és az ellenőrző bizottságba tagként egy-egy szakértői tagot (a továbbiakban: szakértői tag) köteles választani, akik az egészségügyi intézmény egészségügyi tevékenységét, valamint gazdálkodását szakmailag felügyelik.
+
+#### 10. §
+
+(1) A szakértői tagok folyamatosan figyelemmel kísérik és értékelik az egészségügyi intézmény egészségügyi tevékenységét és gazdálkodását.
+
+(2) A szakértői tag az igazgatótanács, az ellenőrző bizottság, illetve az ellenőrző bizottságnál a közgyűlés összehívását kezdeményezheti, ha az intézmény egészségügyi tevékenysége vagy gazdálkodása azt indokolja.
+
+(3) A szakértői tagok előzetesen megvizsgálják a közgyűlés elé terjesztett valamennyi olyan dokumentumot, amely az intézményre vonatkozik. Az intézményre vonatkozó kérdésekben a szakértői tagok véleményezése nélkül a közgyűlés érvényesen nem határozhat.
+
+(4) Az igazgatótanács szakértői tagja a pénztár éves beszámolója kiegészítő mellékletének részeként elkészíti az intézményre vonatkozó értékelést (szakértői beszámoló). Az ellenőrző bizottság szakértői tagja az ellenőrző bizottság éves jelentésének részeként mutatja be az intézmény működését (szakértői jelentés).
+
+(5) A szakértői beszámolónak, illetve a szakértői jelentésnek tartalmaznia kell az intézmény egészségügyi tevékenységének és gazdálkodásának értékelését, valamint ismertetnie kell az intézmény egészségügyi tevékenységének és gazdálkodásának várható jövőbeli alakulását.
+
+(6) A szakértői beszámoló és jelentés elfogadásáról a közgyűlés külön határoz.
+
+(7)[^8] Ha a pénztár a 12. § (3) bekezdés szerinti intézmény tulajdonjogát, illetve üzemeltetői jogát szerzi meg, akkor a szakértői tagok kötelesek a szerződés aláírását követően naptári negyedévenként az intézmény gazdasági helyzetét felülvizsgálni, és arról az igazgatótanácsnak és az ellenőrző bizottságnak beszámolni, illetve 30 napon belül a pénztárak pénzügyi felügyeletét ellátó szervnek (a továbbiakban: Felügyelet) beszámolót benyújtani, amíg a fizetőképesség helyreállítása meg nem történt.
+
+### Összeférhetetlenségi szabályok
+
+#### 11. §
+
+(1) A működtető pénztár igazgatótanácsának tagja, ellenőrző bizottságának tagja, a pénztár ügyvezetője, illetve a pénztár alkalmazottja nem lehet a pénztár üzemeltetésében lévő egészségügyi intézmény tulajdonosa, vezető beosztású alkalmazottja, illetve ezek közeli hozzátartozója, valamint a pénztár tulajdonában álló intézmény vezető beosztású alkalmazottja, illetve ezek közeli hozzátartozója.
+
+(2) A szakértői tagok és azok közeli hozzátartozói nem állhatnak munkaviszonyban, munkavégzésre irányuló jogviszonyban a pénztár által működtetett egészségügyi intézménnyel, illetve nem lehetnek társtulajdonosai, vezető tisztségviselői az ilyen intézménynek.
+
+(3) Az (1) és (2) bekezdésben foglalt összeférhetetlenségi szabályokat a működtető pénztár alapszabályának tartalmaznia kell.
+
+## III. RÉSZ — Gazdálkodási, tervezési és beszámolási szabályok
+
+#### 12. §
+
+(1) A pénztár közgyűlése az egészségügyi intézmény működtetésének vállalására vonatkozó döntését, az intézmény – könyvvizsgáló által megvizsgált, ellenőrzött, véleményezett – gazdálkodásának felmérése után, a (3) bekezdésben foglalt kivétellel, különösen az alábbi feltételek teljesítése esetén hozhatja meg:
+
+a) az intézmény a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény értelmében nem fizetésképtelen,
+
+b) az intézmény eszközei tehermentesek,
+
+c) az intézmény átvételével kapcsolatos költségek, valamint az intézmény működésének legalább három hónapos fedezete a pénztár fedezeti és a működési alapjában, a két alap várható terhelésének arányában, alaponként elkülönítetten rendelkezésre áll.
+
+(2) Új intézmény létrehozására vonatkozó döntést a közgyűlés abban az esetben hozhat, ha a pénztár megfelel az (1) bekezdés *c)* pontjában előírt követelményeknek.
+
+(3) A pénztár fizetésképtelen intézményt is működtethet, ha a fizetőképesség helyreállítására – könyvvizsgálói vélemény alapján – igazolhatóan megfelelő eszközök állnak rendelkezésre.
+
+(4) Az egészségügyi intézmény működtetéséről döntő közgyűlés elé kell terjeszteni:
+
+a) a pénztárnak a közgyűlés időpontját megelőző legfeljebb 60 napon belül lezárt és könyvvizsgáló által hitelesített mérlegét és eredménykimutatását,
+
+b) a pénztár alapszabályának, illetve az alapszabály módosításának tervezetét,
+
+c) a pénztár éves és hosszú távú pénzügyi tervének, illetve módosításának tervezetét,
+
+d) az egészségügyi intézmény működési engedélyét, illetve az (5) bekezdés szerinti létrehozás esetén az intézmény működtetéséhez szükséges, jogszabályok által előírt iratokat.[^9]
+
+e) könyvvizsgálói nyilatkozatot arról, hogy az intézmény fizetőképes, illetve az intézmény eszközei tehermentesek, valamint az intézménynek nincs felhalmozott köztartozása, jogosulatlanul igénybe vett támogatása,
+
+f) az (1) bekezdés *c)* pontjában előírt feltételek meglétéről az ellenőrző bizottságnak a jelentését,
+
+g) a (3) bekezdés szerinti esetben könyvvizsgálói nyilatkozatot arról, hogy a fizetőképesség helyreállítására, illetve az eszközök tehermentesítésére megfelelő eszközök állnak rendelkezésre, valamint az erre vonatkozó tervet a pénztár induló gazdálkodási vagy pénzügyi tervének részeként.
+
+(5) Az új egészségügyi intézmény létrehozásáról döntő közgyűlés elé kell terjeszteni:
+
+a) a (4) bekezdés *a)*–*d)* pontjaiban foglalt iratokat,
+
+b) az ellenőrző bizottság jelentését az (1) bekezdés *c)* pontjában előírt feltételek meglétéről.
+
+(6) A közgyűlésnek az egészségügyi intézmény működtetéséről történő döntése előtt felmerült intézményi kiadásokat a működtető pénztár kizárólag a (3) bekezdésben foglalt esetben finanszírozhat, illetőleg vállalhat kötelezettséget azok fedezetére. A kiadások jóváhagyásáról a közgyűlésnek kell döntenie.
+
+#### 13. §
+
+(1) Az egészségügyi intézmények által a működtető pénztár tagjainak nyújtott pénztári szolgáltatásokat a pénztár a fedezeti alap terhére finanszírozza.
+
+(2) A pénztár belső szervezeti egységeként működtetett egészségügyi intézmény által a nem pénztári tag természetes személyeknek nyújtott szolgáltatást, valamint a tagnak nyújtott nem pénztári szolgáltatást a pénztár a működési alap terhére finanszírozza. Ennek a szolgáltatásnak a nyújtása a pénztár kiegészítő vállalkozási tevékenységének minősül.
+
+(3)[^10] Amennyiben a pénztár kiegészítő vállalkozási tevékenysége keretében olyan nem pénztári szolgáltatást nyújt, amelyre vonatkozóan a pénztár szerződéssel rendelkezik a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK), akkor ennek a szolgáltatásnak a finanszírozása a társadalombiztosítási jogszabályok alapján biztosított természetes személy esetében e jogviszony alapján történik.
+
+(4)[^11] Kormányrendeletben meghatározottak szerint az egészségpénztár, illetve az intézmény – mint egészségügyi szolgáltatást nyújtó szolgáltató – szerződést köthet a NEAK-kal.
+
+(5)[^12] Amennyiben egészségpénztár olyan, a tevékenységre feljogosított természetes vagy jogi személlyel kíván tulajdonszerzési, illetve üzemeltetési szerződést kötni, aki a NEAK-kal szerződéses viszonyban van, akkor a szerződés megkötésével egyidejűleg köteles a NEAK-ot tájékoztatni.
+
+#### 14. §
+
+Belső szervezeti egységként, illetőleg üzemeltetési szerződés alapján működtetett egészségügyi intézmény esetén a pénztárnak az eszközök pótlásához és felújításához – legalább a tárgyévben elszámolt értékcsökkenés összegének megfelelő mértékű – tartalékokat kell képeznie a pénztári alapok között, a 13. § (1) és (2) bekezdésekben meghatározott szolgáltatások arányának megfelelően. Ezeket a tartalékokat más célra felhasználni nem lehet.
+
+#### 15. §[^13]
+
+Az egészségügyi intézményt működtető pénztárak tevékenységére az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997. (XII. 22.) Korm. rendelet (a továbbiakban: R.) egészségpénztárakra vonatkozó üzemviteli szabályait megfelelően alkalmazni kell.
+
+### A működtető pénztár pénzügyi tervére vonatkozó külön szabályok
+
+#### 16. §
+
+(1) A működtető pénztár pénzügyi tervében nevesítetten és elkülönítetten, alaponkénti bontásban meg kell jeleníteni az egészségügyi intézmény működéséhez kapcsolódó bevételeket és kiadásokat, a hatályos finanszírozási szabályoknak megfelelő költségvetés keretében.
+
+(2) Kiegészítő vállalkozási tevékenységet folytató pénztár esetében az intézmény működéséből származó bevételeket és kiadásokat, valamint az intézmény ingatlan, illetve tárgyi eszköz vagyonának fenntartásához szükséges tartalékokat a pénztári szolgáltatásként és a nem pénztári szolgáltatásként nyújtandó szolgáltatások értékének (árának) és várható igénybevételének figyelembevételével megállapított arányok szerint kell a fedezeti és a működési alap között megosztani, illetve képezni.
+
+(3) Az egészségpénztár által az intézmény üzemeltetésével összefüggő kötelezettségvállalásoknak összhangban kell lenniük a pénztár általános anyagi helyzetével.
+
+### Nyilvántartási külön szabályok
+
+#### 17. §
+
+(1) A működtető pénztár olyan nyilvántartást vezet, amelyben elkülönítve kimutatja az egészségügyi intézménnyel kapcsolatos kiadásait, bevételeit és tartalékait.
+
+(2)[^14] A működtető pénztárnak a kiegészítő vállalkozási tevékenység keretében nyújtott szolgáltatásaihoz kapcsolódó adatokat, azon belül a NEAK-kal kötött szerződés alapján nyújtott szolgáltatásaira vonatkozó adatokat, elkülönítetten kell kimutatnia a nyilvántartásaiban.[^15]
+
+### A beszámolásra vonatkozó sajátos szabályok
+
+#### 18. §
+
+A pénztár évente az éves pénztári beszámoló kiegészítő mellékleteként az R. 2. számú mellékletének táblázatát az egészségügyi intézményre vonatkoztatva pénztártagok szerint elkülönítetten is elkészíti.[^16]
+
+**IV. Rész**
+
+### A felügyeleti eljáráshoz kapcsolódó szabályok
+
+#### 19. §
+
+(1)[^17] Az Öpt. 65. §-ában foglaltak maradéktalan teljesülése érdekében az egészségpénztár köteles az egészségügyi intézmény működtetéséről hozott elfogadó közgyűlési határozatot követő 90 napon belül a Felügyeletnek az alábbi dokumentumokat benyújtani – a (3) bekezdésben foglaltak figyelembevételével –:
+
+a) a pénztárnak a közgyűlés időpontját megelőző legfeljebb 60 napon belül eső, könyvvizsgáló által hitelesített mérlegét és eredménykimutatását, kivéve, ha azt a pénztár egyéb jogszabály alapján már benyújtotta,
+
+b) az egészségügyi intézmény működési engedélyét,
+
+c) a pénztár induló gazdálkodási, illetve az éves és hosszú távú pénzügyi tervét, melynek része a 12. § (3) bekezdésben foglalt esetben a fizetőképesség helyreállítására, illetve az eszközök tehermentesítésére vonatkozó terv és ehhez kapcsolódó könyvvizsgálói vélemény,[^18]
+
+d) már működő intézmény esetén könyvvizsgálói nyilatkozatot arról, hogy az intézmény fizetőképes, illetve az intézmény eszközei tehermentesek, valamint az intézménynek nincs felhalmozott köztartozása, jogosulatlanul igénybe vett támogatása,
+
+e) a 12. § (1) bekezdés *c)* pontjában előírt feltételek meglétéről a pénztár ellenőrző bizottságának a jelentését,
+
+f) az intézmény tulajdonjogának megszerzésére vonatkozó, illetve üzemeltetése tárgyában megkötött szerződést, ennek hiányában az előzetesen írásba foglalt kötelezettségvállalást,
+
+g)[^19] a pénztárnak, illetve az intézménynek a NEAK-kal kötött szerződését.
+
+(2)[^20] A pénztár az egészségügyi intézmény működési engedélyének visszavonásáról, módosításáról vagy megszűnéséről 15 napon belül írásban értesíti a Felügyeletet.
+
+(3)[^21] Ha a pénztár nem csatolja az (1) bekezdés b) és f) pontjában meghatározott dokumentumokat, a Felügyelet az adatok szolgáltatatása érdekében megkeresi az adatokról nyilvántartást vezető hatóságot vagy bíróságot.
+
+## V. RÉSZ
+
+#### 20. §
+
+(1)[^22]
+
+(2) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.[^23]
+
+---
+
+[^1]: A 2. § a) pontja a 46/2014. (II. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Lásd az 1997: CLIV. törvényt.
+[^3]: Lásd a 96/2003. (VII. 15.) Korm. rendeletet.
+[^4]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^5]: A 2. § g) pontja a 46/2014. (II. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: A 4. § a 46/2014. (II. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^7]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^8]: A 10. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 113. §-a, a 345/2013. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^9]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^10]: A 13. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^11]: A 13. § (4) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 43. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^12]: A 13. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 44. §-a, a 379/2016. (XII. 2.) Korm. rendelet 23. § b) és c) pontja szerint módosított szöveg.
+[^13]: A 15. § a 266/2011. (XII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^14]: A 17. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^15]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^16]: Lásd a 270/1997. (XII. 22.) Korm. rendelet 7. számú mellékletét.
+[^17]: A 19. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 113. §-a és 680. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A Magyar Közlöny 1997. évi 61. számának I. számú kötetében közzétett helyesbítésnek megfelelő szöveg.
+[^19]: A 19. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^20]: A 19. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 113. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 19. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 680. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 20. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1333. pontja hatályon kívül helyezte.
+[^23]: A Magyar Közlöny 1997. évi 60. számában közzétett helyesbítésnek megfelelő szöveg.

@@ -1,0 +1,367 @@
+---
+title: "134/1999. (VIII. 31.) Korm. rendelet a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról"
+identifier: "134/1999. (VIII. 31.) Korm. rendelet"
+njt_id: "1999-134-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/134"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-08-31
+in_force_from: 2010-01-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-134-20-22"
+retrieved: 2026-10-12
+---
+
+# 134/1999. (VIII. 31.) Korm. rendelet a járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról
+
+A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján az árhoz nyújtott támogatással igénybe vehető szolgáltatások finanszírozásával kapcsolatban a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A járóbeteg-ellátás keretében rendelt, támogatással történő gyógyszer, gyógyászati segédeszköz forgalmazására, gyógyászati segédeszköz javítására, kölcsönzésére, valamint gyógyászati ellátások nyújtására a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK) szerződést kötött forgalmazó, gyártó, szolgáltató (a továbbiakban: forgalmazó) jogosult a külön jogszabályban, illetve gyógyszerek és gyógyászati segédeszközök esetén a külön jogszabály szerinti közleményben közzétett támogatás elszámolására az e rendeletben, és a szerződésében foglaltakra figyelemmel.
+
+(2)[^2] Az (1) bekezdés szerinti szerződésben kell meghatározni a támogatás elszámolásának és folyósításának jogszabályban nem szabályozott kérdéseit, így különösen a támogatás elszámolásának a forgalmazó által választott gyakoriságát, az elszámolás benyújtásának módját, az elszámolás jogszabályban nem szabályozott formai és tartalmi elemeit.
+
+(3)[^3]
+
+## 2. §[^4]
+
+(1) A támogatás folyósításához szükséges elszámolás alapja az 1. §-ban meghatározott szerződés és az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet, a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló rendelet vagy az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendelet szerint előállított érvényes vény, munkalap (a továbbiakban együtt: vény).
+
+(2) Az (1) bekezdés alkalmazásában gyógyszert tartalmazó elektronikus vény esetében az elszámolás alapja az Elektronikus Egészségügyi Szolgáltatási Térben kiadottként megjelölt vény.
+
+## 2/A. §[^5]
+
+A gyógyszertár és a 2/C. § szerinti szolgáltató jelenti a NEAK felé
+
+a) papíralapú vény esetén a javaslatot adó szakorvos pecsétszámát, elektronikus vény esetén az alapnyilvántartási számát, valamint a javaslat keltét, ha a gyógyszert jogszabály szerint indikációhoz kötött emelt, kiemelt támogatással szakorvosi javaslatra rendelték,
+
+b) hogy a vény melyik minősített számítógépes programmal került előállításra.
+
+## 2/B. §[^6]
+
+A 2. § (1) bekezdés alkalmazásában a gyógyászati segédeszközt tartalmazó elektronikus vény esetében az elszámolás alapja az Elektronikus Egészségügyi Szolgáltatási Térben kiadottként megjelölt vény.
+
+## 2/C. §[^7]
+
+Az 1. § (1) bekezdése szerinti szerződéssel rendelkező, az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben meghatározott Mozgó Egészségügyi Központ társadalombiztosítási támogatást e rendelet és a szerződés szabályai szerint számolhat el.
+
+## 3. §
+
+(1) A támogatás folyósítására irányuló elszámolás összesítő és részletező elszámolásból áll.
+
+(2) Az összesítő elszámolás a folyósítandó támogatási összeget társadalombiztosítási támogatási, a társadalombiztosítást nem terhelő közgyógyellátási és hadirokkant támogatási jogcím szerinti, ezen belül áfa-kulcsok szerinti nettó összeg, áfa és bruttó összeg bontásban tartalmazza.
+
+(3)[^8] A részletező elszámolás tartalmazza
+
+a) a külön jogszabályban meghatározott jogcímenkénti bontásban, a nettó összegek és az áfa-kulcsok szerinti bruttó összegek feltüntetésével
+
+aa) gyógyszerre vonatkozó támogatás elszámolása esetén a folyósítandó támogatási összeget,
+
+ab) gyógyászati segédeszközre vonatkozó támogatás elszámolása esetén a mennyiségi egységenkénti támogatás együttes összegét,
+
+b)[^9]
+
+c) gyógyászati segédeszközre vonatkozó támogatás elszámolása esetén az *ab)* alpont szerinti támogatási összeg és a *b)* pont szerinti térítési díj különbözetéből adódó – folyósítandó – támogatási összeget,
+
+d) közgyógyellátás jogcímen kiszolgált vények esetén – amennyiben a fogyasztói ár és a közfinanszírozás alapjául szolgáló ár eltér – a különbözetet,
+
+e) a vényszintű adatállományt.
+
+(4)[^10] A támogatás folyósítására irányuló elszámolást elektronikus úton kell benyújtani.
+
+(5)[^11] Az új, illetőleg a módosított elszámoló-rendszer alkalmazását megelőzően az elszámoláshoz szükséges forgalmazói elszámoló-rendszert a NEAK-kal minősíttetni kell.
+
+(6)[^12] Nem felelhet meg a minősítésnek különösen az az elszámoló-rendszer,
+
+a)[^13] amelynek a NEAK által meghatározott és kiadott elszámolási minta alapján előállított teszt-elszámolása hibás, vagy
+
+b)[^14] amely nem képes a NEAK által kiadott adatszolgáltatási kötelezettségek teljesítésére, vagy
+
+c) amelynek szerzője a kezelt adatok védelmére és biztonságára vonatkozó jognyilatkozatokat nem teszi meg.
+
+(7)[^15] A támogatás folyósítására az elszámolás alapját képező vényszintű adatállomány elfogadását követően kerül sor.
+
+(8)[^16] A NEAK minden év február 25-éig minden forgalmazónak összesítő eredményszemléletű kimutatást küld írott formában a megelőző naptári évben felmerült támogatási összegekről.
+
+## 4. §
+
+(1) Elszámolási gyakoriságok és időszakok:
+
+a)[^17] havi egyszeri elszámolás esetén a hónap
+
+1-jétől az utolsó napig,
+
+b)[^18] havi kétszeri elszámolás esetén a hónap
+
+ba) 1-jétől 15-éig,
+
+bb) 16-ától az utolsó napig,
+
+c) havi négyszeri elszámolás esetén a hónap
+
+ca) 1-jétől 7-éig,
+
+cb) 8-ától 15-éig,
+
+cc) 16-ától 23-áig,
+
+cd) 24-étől az utolsó napig
+
+tartanak.
+
+(2)[^19] Az adott elszámolási időszakban csak a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények, illetve a forgalmazók önellenőrzése során feltárt és a NEAK által rögzített, valamint a NEAK által végzett ellenőrzés során feltárt – korábbi elszámolási időszakra vonatkozó – elszámolási hiba miatti korrekciós tételek számolhatók el.
+
+(3)[^20] Az elszámolást az elszámolási időszakot követő 3 munkanapon belül kell benyújtani a NEAK-hoz.
+
+(4)[^21] Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált papíralapú vények nyújthatók be elszámolásra, amelyeken szerepel a vényen rendelt terméket átvevő személy és a vény ellenében a terméket átadó személy kézjegye.
+
+(4a)[^22] Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált elektronikus vények számolhatók el, amelyek kiadásakor a gyógyszer kiadója az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet, a gyógyászati segédeszközök javítása, kölcsönzése kivételével, a gyógyászati segédeszköz kiadója, a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló rendelet szerinti kötelező adatrögzítést elvégezte. Ha az EESZT nem elérhető, a rendelt terméket átvevő személy aláírását, valamint a személyazonosság igazolására alkalmas hatósági igazolvány számát tartalmazó kiadási igazolás is szükséges az elszámoláshoz.
+
+(5)[^23] Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények nyújthatók be elszámolásra, amelyek önellenőrzését a forgalmazó a vény beváltása és az elszámolás benyújtása közötti időszakban elvégezte, és amelyeket az önellenőrzést végző személy kézjegyével ellátott, vagy elektronikus vény önellenőrzése esetében az önellenőrzést végző személy azonosítására is alkalmas módon ellenőrzöttként megjelölt.
+
+(6)[^24] Az (5) bekezdés alkalmazásában önellenőrzésnek minősül annak kontrollálása, hogy a vényen rendelt, vagy a helyettesítés szabályai szerint kiadható termék került-e kiszolgáltatásra, és ennek megfelelően az ehhez külön jogszabály alapján megállapított támogatás kerül-e elszámolásra. Az önellenőrzés tényét az önellenőrzést végző személy a vényen feltünteti és kézjegyével ellátja.
+
+(7)[^25] A támogatás folyósítására irányuló elszámolást
+
+a) a gyógyszertárak az (1) bekezdés c) pontja szerinti,
+
+b)[^26] a gyógyászati segédeszköz forgalmazók és a gyógyászati ellátást nyújtó szolgáltatók, valamint a 2/C. § szerinti szolgáltató az (1) bekezdés a), b) vagy c) pontja szerinti
+
+elszámolási időszakokban nyújtják be.
+
+## 5. §[^27]
+
+(1)[^28] Az elszámolt támogatás átutalására vonatkozó megbízást a NEAK a Magyar Államkincstárnak legkésőbb az elszámolás benyújtását követő 5. banki napon adja át.
+
+(2) Az elszámolt támogatás mint követelés nem engedményezhető.
+
+## 6. §[^29]
+
+A Magyar Államkincstár legkésőbb a NEAK támogatás átutalására vonatkozó megbízása átvételét követő napon teljesíti a Giro-rendszer felé.
+
+## 6/A. §[^30]
+
+(1)[^31] A forgalmazók közül a közforgalmú gyógyszertár (a továbbiakban: gyógyszertár) részére a lakosság biztonságos gyógyszerellátása érdekében az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) – az Egészségbiztosítási Alap éves költségvetésének gyógyszertámogatási előirányzata terhére – tárgyévben egy alkalommal kamatmentes, visszatérítendő finanszírozási előleget (a továbbiakban: előleg) nyújt, ha
+
+a) az igénylő gyógyszertár egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag elkülönülő településrész gyógyszerellátását legfeljebb három gyógyszertár egyikeként biztosítja, azzal, hogy a településen és a településrészen működő gyógyszertárak száma együttesen nem haladhatja meg a hármat,
+
+b) a gyógyszertár közfinanszírozott gyógyszerek forgalmazásából származó, a tárgyévet megelőző két év első naptári féléves árréstömegének átlaga nem haladja meg a 8 millió forintot,
+
+c) az adott gyógyszertárat működtető gazdasági társaság vagy egyéni vállalkozó kizárólag – az *a)* és *b)* pontban foglalt feltételeknek megfelelő – egy gyógyszertárat működtet, és
+
+d)[^32] a kérelem benyújtásakor a gyógyszertár nem rendelkezik olyan, az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontjában meghatározott köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+
+(2) Az előleg összege a kérelemben megjelölt összeg, de maximum 4 millió forint, fiókgyógyszertárat működtető közforgalmú gyógyszertár esetében pedig a kérelemben megjelölt összeg, de maximum 5 millió forint.
+
+(3) A gyógyszertár működtetője a (2) bekezdés szerinti előleg folyósítását az 1. számú melléklet szerinti nyomtatványon vagy elektronikus űrlapon a kormányhivatalnál kérelmezheti legkésőbb a tárgyév március 31. napjáig. A kérelemhez nyilatkozatot kell csatolni arról, hogy a kérelmező a támogatás teljes összegét gyógyszerbeszerzésre fordítja, és a személyi jogos gyógyszerésznek arról, hogy a finanszírozási előleg visszafizetését vállalja.
+
+(4) A kormányhivatal az általa meghozott határozatot megküldi a NEAK-nak. A NEAK a kormányhivatal által meghozott határozat jogerőre emelkedését követően az előleg utalását a hónap 26. napján, de legkésőbb a határozat jogerőre emelkedését követő hónap 26. napján a Magyar Államkincstáron keresztül teljesíti.
+
+(5) Az előleg összegét a NEAK a tárgyév december 15-éig a gyógyszertár részére az elszámolás alapján járó gyógyszer-támogatási összegből havi egyenlő részletekben levonja. A levonást a NEAK a kormányhivatal által kiadott jogerős határozatban megjelölt határidőn belül, legkorábban július 1-jét, legkésőbb szeptember 1-jét követően kezdi meg. Ha a NEAK az előleg összegét nem tudja levonni, a gyógyszer támogatással történő forgalmazására kötött szerződést felmondja.
+
+## 6/B. §[^33]
+
+(1) Az előlegben részesített gyógyszertárakról a kormányhivatal havonta összesítést készít, az előlegben részesített gyógyszertárak körét honlapján közzéteszi.
+
+(2) Ha a NEAK ellenőrzése során megállapítja, hogy a gyógyszertár az előleget nem a kérelemben megjelölt célra használta fel, az előleget a gyógyszertár részére az elszámolás alapján járó gyógyszer-támogatási összegből a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény rendelkezése szerint számított kamatokkal együtt vonja le. A gyógyszertár az ellenőrzést lezáró jegyzőkönyv felvételének napjától számított 2 évig finanszírozási előlegben nem részesülhet.
+
+(3) Nem részesíthető az előleg felvételének évét követő két évben finanszírozási előlegben a gyógyszertár, ha az előleg visszavonására a tárgyév december 15-ig nem volt lehetőség.
+
+## 6/C. §[^34]
+
+(1)[^35] A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 41. §-a szerinti közforgalmú gyógyszertárat működtető vállalkozás negyedévente működési célú támogatásban részesül, amennyiben azt az illetékes elsőfokú állami adóhatóságnál kérelmezi,
+
+a)[^36] egy adott település vagy egy település közigazgatási egységéhez csatolt, de földrajzilag és építészetileg elkülönülő településrész gyógyszerellátását egyedül biztosítja,
+
+b)[^37] a tárgyévet megelőző év január 1-je és június 30-a közötti időszakban elszámolt gyógyszerforgalmi adataiból számított, közfinanszírozott gyógyszer forgalmazásából származó árréstömege nem haladja meg a 9 millió forintot, és
+
+c) legalább heti – fiókgyógyszertár üzemeltetése esetén a fiókgyógyszertár nyitvatartási idejét is figyelembe véve – 40 órában nyitva tart.
+
+(2)[^38] A működési célú támogatás negyedéves összege a mindenkori központi költségvetésről szóló törvényben szereplő, a Gyftv. 41. § (1) bekezdése szerinti minisztérium fejezetében meghatározott előirányzat erejéig az (1) bekezdés alapján jogosult gyógyszertárak között kerül felosztásra úgy, hogy azon gyógyszertárak, amelyek (1) bekezdés b) pontja szerinti árréstömege
+
+a) a 4 millió forintot nem haladja meg, a felosztás tekintetében 1,7-szeres,
+
+b) a 4 millió forintot eléri, de az 5 millió forintot nem haladja meg, a felosztás tekintetében 1,5-szeres,
+
+c) az 5 millió forintot eléri, de a 6,5 millió forintot nem haladja meg, a felosztás tekintetében 1,25-szoros
+
+szorzóval súlyozottan kerülnek figyelembevételre.
+
+(2a)[^39] A fiókgyógyszertárral is rendelkező (1) bekezdés a) pontja szerinti közforgalmú gyógyszertárat működtető vállalkozás, ha az (1) bekezdés b) pontja szerinti időszakra számított árréstömege nem haladja meg a 9 millió forintot, negyedévente fiókgyógyszertáranként havi 60 ezer forint támogatásban részesül, ha azt az elsőfokú állami adóhatóságnál kérelmezi. A támogatás csak abban az esetben vehető igénybe, ha a fiókgyógyszertár egész évben biztosítja a lakosság gyógyszerellátását.
+
+(2b)[^40]
+
+(3)[^41]
+
+(4)[^42] Az (1) bekezdés szerinti támogatásra való jogosultság megítélése során figyelembe veendő feltételek meglétéről a gyógyszertárak szakmai felügyeletét ellátó Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) hatósági bizonyítványt állít ki a támogatást igénylő kérelmére. Az NNGYK az általa kiállított hatósági bizonyítványon feltünteti a (2) bekezdés alapján kiszámított, egy gyógyszertár által igényelhető működési célú támogatás összegét.
+
+(5)[^43]
+
+(6)[^44] A támogatás igényléséhez szükséges, az (1) bekezdés b) pontjában meghatározott adatokat a NEAK az NNGYK számára az összes forgalmazóra vonatkozóan minden év január 31. napjáig megküldi.
+
+(7)[^45] A gyógyszertárak szakmai felügyeletét ellátó egészségügyi államigazgatási szerv a gyógyszertár helye szerint illetékes adóhatóság részére az adózás rendjéről szóló 2017. évi CL. törvény 93. §-a szerint szolgáltat adatot.
+
+(8)[^46]
+
+(9)[^47] A gyógyszertáraknak kiutalt támogatás gyógyszertárankénti és összesített tényadatait az állami adóhatóság negyedévente elektronikus úton az egészségügyért felelős miniszter által vezetett minisztériumnak megküldi.
+
+## 6/D. §[^48]
+
+(1)[^49] A 6/C. §-ban meghatározott támogatás csekély összegű (de minimis) támogatásnak minősül, az 1407/2013/EU bizottsági rendelet alapján nyújtható.
+
+(2)[^50] Nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendeletben meghatározott kivételek szerint használná fel.
+
+(3)[^51] A támogatás nyújtását megelőzően a kedvezményezettnek nyilatkoznia kell a részére, valamint a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére az adott pénzügyi évben és az azt megelőző két pénzügyi év során, Magyarországon megítélt csekély összegű támogatások támogatástartalmáról.
+
+(4) A támogatást nyújtó köteles tájékoztatni a kedvezményezettet arról, hogy csekély összegű támogatásban részesül. A tájékoztatásnak kifejezetten utalnia kell a csekély összegű támogatásokról szóló bizottsági rendeletre, hivatkozva annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésére, valamint meg kell határoznia a támogatás összegét az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. mellékletében foglalt módszertan alapján kiszámolt támogatástartalomban kifejezve.
+
+(5)[^52] A kedvezményezett, valamint a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére odaítélt támogatás támogatástartalmának együttes összege nem haladhatja meg az 1407/2013/EU bizottsági rendeletben meghatározott felső határt, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(6)[^53] A támogatás a csekély összegű közszolgáltatási támogatással az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben (HL L 114, 2012.4.26., 8–13. o.) meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (5) bekezdésben meghatározott felső határig halmozható. A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+## 7. §
+
+(1) Ez a rendelet – a (2) bekezdés kivételével – a kihirdetését követő harmadik hónap első napján lép hatályba.
+
+(2) A gyógyászati segédeszköz ellátás vonatkozásában a 3. § (4) bekezdésének az elektronikus adathordozóra vonatkozó rendelkezése és a 4. § (1) bekezdésének c) pontja 2000. január 1-jén lép hatályba.
+
+(3) A rendelet hatálybalépését követően a szolgáltatások nyújtására e rendelet hatálybalépése előtt kötött szerződések alapján – a 8. §-ban foglalt kivétellel – elszámolás nem teljesíthető.
+
+(4) Az 1. §-ban meghatározott – a rendelet hatálybalépése előtt érvényes szerződéseket felváltó, a rendelet kihirdetése és hatálybalépése között megkötendő – új szerződések e rendelet hatálybalépésének napján lépnek hatályba.
+
+(5)[^54]
+
+## 8. §
+
+E rendelet hatálybalépését megelőző elszámolási időszak elszámolására, az elszámolás benyújtásának és a támogatás átutalására vonatkozó megbízás átadásának határidejére az R. 3. §-ának (2) bekezdésében, valamint ezen elszámolási időszakban érvényes szerződésben foglaltak az irányadók.
+
+## 8/A. §[^55]
+
+2017\. december 15-éig a 2. § (1) és (2) bekezdésében, valamint a 4. § (4) és (4a) bekezdésében foglaltaktól eltérően a 2017. október 31-ét követően kiszolgált gyógyszer esetén a támogatás elszámolható a társadalombiztosítási támogatással rendelhető gyógyszerekről és a támogatás összegéről szóló miniszteri rendelet szerint a gyógyszer átvevőjének aláírását tartalmazó felírási igazolás alapján is.
+
+## 8/B. §[^56]
+
+(1) A gyógyászati segédeszköz forgalmazók részére a NEAK – az Egészségbiztosítási Alap éves költségvetésének gyógyászati segédeszköz támogatási előirányzata terhére – a 2020. évben egy alkalommal kamatmentes, visszatérítendő finanszírozási előleget (a továbbiakban: előleg) nyújt, ha
+
+a) az igénylő gyógyászati segédeszköz forgalmazó legalább 2019. január 1. óta rendelkezik a NEAK-kal gyógyászati segédeszköz árhoz nyújtott támogatással történő kiszolgáltatására vonatkozó szerződéssel, és
+
+b) a kérelem benyújtásakor a gyógyászati segédeszköz forgalmazó nem rendelkezik olyan, az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontjában meghatározott köztartozással, amely esedékességének időpontja 60 napnál régebben lejárt.
+
+(2) Az előleg összege a kérelemben megjelölt összeg, de legfeljebb 4 millió forint. Az előleg összege nem haladhatja meg a 2019. év során az igénylő részére utalványozott társadalombiztosítási támogatás 1/6-od részét.
+
+(3) A gyógyászati segédeszköz forgalmazó a (2) bekezdés szerinti előleg folyósítását a NEAK által a honlapon közzétett nyomtatványon vagy elektronikus űrlapon a NEAK-nál kérelmezheti legkésőbb a veszélyhelyzet megszűnésével összefüggő átmeneti kormányrendeleti szabályokról szóló 284/2020. (VI. 17.) Korm. rendelet hatálybalépését[^57] követő 30. napig. A kérelemhez nyilatkozatot kell csatolni arról, hogy a kérelmező a támogatás teljes összegét gyógyászati segédeszköz beszerzésre fordítja, és a finanszírozási előleg visszafizetését vállalja.
+
+(4) A NEAK az előleg utalását a kérelem elbírálását követő 10 munkanapon belül teljesíti.
+
+(5) Az előleg összegét a NEAK 2020. december 15-éig a részére az elszámolás alapján járó támogatási összegből havi egyenlő részletekben levonja. A levonást a NEAK a jogerős határozatban megjelölt határidőn belül kezdi meg.
+
+## 9. §[^58]
+
+A 6/C. § az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
+
+## 1. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^59]
+
+**Finanszírozási előleg igénylő lap**
+
+Igénylő adatai
+
+1\. A cég neve:
+
+2\. Telephelye (ha több van, mindegyik telephelyet fel kell sorolni):
+
+3\. Székhelye:
+
+4\. Adószáma:
+
+5\. Bankszámlaszáma:
+
+6\. NEAK-kal kötött szerződés száma:
+
+7\. NEAK-kal kötött szerződés kelte:
+
+8\. A tárgyévet megelőző két év első féléve támogatott árréstömegének átlaga:
+
+9\. Az előleg visszafizetésének vállalt határideje:
+
+10\. A könyvvezetés módja:
+
+11\. Az igényelt összeg:
+
+Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
+
+Dátum:
+
+|  |  |
+|---|---|
+| cégjegyzésre jogosult aláírása | személyi jog jogosultjának aláírása |
+
+## 2. számú melléklet a 134/1999. (VIII. 31.) Korm. rendelethez[^60]
+
+## 3. számú melléklet a 134/1999. (VIII. 31.) Korm rendelethez[^61]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése.
+[^4]: A 2. § a 250/2017. (IX. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^5]: A 2/A. §-t újonnan a 347/2009. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 463/2024. (XII. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^6]: A 2/B. §-t újonnan a 155/2020. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 2/C. §-t a 463/2024. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^8]: A 3. § (3) bekezdése a 288/2006. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
+[^9]: A 3. § (3) bekezdés b) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^10]: A 3. § (4) bekezdése a 201/2010. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 3. § (5) bekezdését a 109/2000. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 37/2005. (III. 10.) Korm. rendelet 2. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^12]: A 3. § (6) bekezdését a 109/2000. (VI. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 37/2005. (III. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 3. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 3. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 3. § (7) bekezdését a 101/2003. (VII. 17.) Korm. rendelet 3. § (1) bekezdése hatályon kívül helyezte, újonnan a 37/2005. (III. 10.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^16]: A 3. § (8) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdés a) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (5) bekezdése hatályon kívül helyezi – a 10. § (2) bekezdése alapján – 2010. július 1. napjával.
+[^18]: A 4. § (1) bekezdés b) pontját a 347/2009. (XII. 30.) Korm. rendelet 10. § (5) bekezdése hatályon kívül helyezi – a 10. § (2) bekezdése alapján – 2010. július 1. napjával.
+[^19]: A 4. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 29. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^20]: A 4. § (3) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 4. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^22]: A 4. § (4a) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 155/2025. (VI. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 4. § (5) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^24]: A 4. § (6) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^25]: A 4. § (7) bekezdését a 201/2010. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 4. § (7) bekezdés b) pontja a 463/2024. (XII. 30.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^27]: Az 5. § a 347/2009. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^28]: Az 5. § (1) bekezdését a 201/2010. (VI. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^29]: A 6. § a 89/2003. (VI. 25.) Korm. rendelet 66. §-ával megállapított,a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 6/A. §-t a 308/2001. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^31]: A 6/A. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^32]: A 6/A. § (1) bekezdés d) pontja a 475/2017. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^33]: A 6/B. §-t a 308/2001. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^34]: A 6/C. §-t a 33/2003. (III. 27.) Korm. rendelet 7. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (4) bekezdése hatályon kívül helyezte, újonnan a 288/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be. Ez utóbbi módosító rendelet 10. § (2) bekezdése alapján a rendelkezést a 2007. január 1. napját követően beváltott vények esetén kell alkalmazni.
+[^35]: A 6/C. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^36]: A 6/C. § (1) bekezdés a) pontja az 520/2013. (XII. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^37]: A 6/C. § (1) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 25. §-a, a 757/2021. (XII. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^38]: A 6/C. § (2) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^39]: A 6/C. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 31. § (2) bekezdése iktatta be, szövege az 507/2017. (XII. 29.) Korm. rendelet 24. §-ával megállapított, a 231/2022. (VI. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 6/C. § (2b) bekezdését a 221/2023. (VI. 2.) Korm. rendelet 1. §-a iktatta be, a 2. §-a hatályon kívül helyezte.
+[^41]: A 6/C. § (3) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^42]: A 6/C. § (4) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte, újonnan a 201/2010. (VI. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 8. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 5. § a) és b) pontja szerint módosított szöveg.
+[^43]: A 6/C. § (5) bekezdését újonnan a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^44]: A 6/C. § (6) bekezdése a 347/2009. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 8. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^45]: A 6/C. § (7) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^46]: A 6/C. § (8) bekezdését a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^47]: A 6/C. § (9) bekezdése a 201/2010. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^48]: A 6/D. §-t a 120/2003. (VIII. 14.) Korm. rendelet 2. §-a iktatta be, a 37/2005. (III. 10.) Korm. rendelet 8. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 23. §-a iktatta be.
+[^49]: A 6/D. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^50]: A 6/D. § (2) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^51]: A 6/D. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^52]: A 6/D. § (5) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^53]: A 6/D. § (6) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^54]: A 7. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1223. pontja hatályon kívül helyezte.
+[^55]: A 8/A. §-t a 316/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A 8/B. §-t a 284/2020. (VI. 17.) Korm. rendelet 36. §-a iktatta be.
+[^57]: A hatálybalépés időpontja 2020. június 18.
+[^58]: A 9. §-t újonnan a 137/2012. (VI. 29.) Korm. rendelet 24. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^59]: Az 1. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 347/2009. (XII. 30.) Korm. rendelet 9. §-val megállapított, a 351/2010. (XII. 30.) Korm. rendelet 60. § c) pontja, a 137/2012. (VI. 29.) Korm. rendelet 25. §-a, a 379/2016. (XII. 2.) Korm. rendelet 35. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^60]: A 2. számú mellékletet a 308/2001. (XII. 28.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése.
+[^61]: A 3. számú mellékletet újonnan a 288/2006. (XII. 23.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 347/2009. (XII. 30.) Korm. rendelet 10. § (3) bekezdése.

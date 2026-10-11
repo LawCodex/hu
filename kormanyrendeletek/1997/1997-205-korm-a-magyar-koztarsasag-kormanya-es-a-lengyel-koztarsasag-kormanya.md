@@ -1,0 +1,308 @@
+---
+title: "205/1997. (XI. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a vámügyekben történő kölcsönös segítségnyújtásról szóló Egyezmény kihirdetéséről"
+identifier: "205/1997. (XI. 21.) Korm. rendelet"
+njt_id: "1997-205-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/205"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-11-21
+in_force_from: 1997-11-21
+last_amended: 1997-11-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-205-20-22"
+retrieved: 2026-10-12
+---
+
+# 205/1997. (XI. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a vámügyekben történő kölcsönös segítségnyújtásról szóló Egyezmény kihirdetéséről
+
+## (A diplomáciai jegyzékváltás 1997. augusztus 22-én megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között Budapesten, 1997. április 3-án aláírt, a vámügyekben történő kölcsönös segítségnyújtásról szóló Egyezményt e rendelettel kihirdeti.
+
+### 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya között a vámügyekben történő együttműködésről és kölcsönös segítségnyújtásról
+
+A Magyar Köztársaság Kormánya és a Lengyel Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+kívánva a két Állam közötti baráti viszonyt a vámügyekben történő együttműködés révén,
+
+kívánva a két Állam közötti áru- és személyforgalom megkönnyítését a vámhatóságaik közötti együttműködés révén,
+
+figyelembe véve, hogy a vámjogszabályokat sértő cselekmények kárt okoznak mindkét Állam társadalmi, gazdasági és kereskedelmi érdekeinek,
+
+figyelembe véve, hogy a kábítószerek és pszichotróp anyagok illegális kereskedelme veszélyt jelent a közegészség számára,
+
+figyelembe véve az áruk behozatala vagy kivitele során esedékes vámok, adók és egyéb illetékek pontos kiszabásának és beszedésének, valamint a tiltó, korlátozó és ellenőrző rendelkezések megfelelő végrehajtásának fontosságát,
+
+meggyőződve arról, hogy a vámjogszabályokat sértő cselekmények megakadályozása, valamint az importra és exportra vonatkozó vámok és adók pontos beszedése érdekében tett erőfeszítéseket a vámhatóságaik közötti együttműködés révén hatékonyabbá lehet tenni,
+
+az alábbiakban állapodtak meg:
+
+*Meghatározások*
+
+*1. Cikk*
+
+A jelen Egyezmény értelmében az alábbi kifejezéseket kell alkalmazni:
+
+1\. a ,,vámjogszabályok'' – az áruk és fizetőeszközök behozatalára, kivitelére és átvitelére vonatkozó, a Magyar Köztársaság és a Lengyel Köztársaság területén érvényes rendelkezéseket jelentik, akár a vámhatóságok által alkalmazott vámokra, adókra vagy egyéb költségekre, akár tiltó, korlátozó vagy ellenőrző intézkedésekre vonatkoznak;
+
+2\. a ,,vámhatóság'' – a Magyar Köztársaságban: a Vám- és Pénzügyőrség, a Lengyel Köztársaságban: a Központi Vámigazgatás Elnöksége;
+
+3\. a ,,vámok'' – az áruk importjára és exportjára vonatkozó vámok, adók és egyéb díjak;
+
+4\. ,,megkereső hatóság'' – az a vámhatóság, amely vámügyekben történő segítségnyújtást kér;
+
+5\. ,,megkeresett hatóság'' – az a vámhatóság, amelyhez a vámügyekben történő segítségnyújtásra vonatkozó kérés érkezik;
+
+6\. A ,,jogszabálysértés'' – bármilyen vámjogszabálysértés, valamint ilyen jogszabálysértés kísérlete.
+
+*Az Egyezmény hatálya*
+
+*2. Cikk*
+
+1\. A vámhatóságok a jelen Egyezmény rendelkezéseivel összhangban
+
+*a)* intézkedéseket tesznek az áruforgalom megkönnyítése és meggyorsítása érdekében;
+
+*b)* együttműködnek és segítséget nyújtanak egymásnak a vámjogszabályok megsértésének megelőzése, felderítése és az eljárás lefolytatása érdekében;
+
+*c)* megkeresés alapján segítséget nyújtanak egymásnak a vámjogszabályok alkalmazásában és végrehajtásában használható információk átadásával;
+
+*d)* együttműködnek az új vámeljárások kutatásában, fejlesztésében és alkalmazásában, valamint a vámtisztviselők képzése és szakmai gyakorlata terén, valamint más, közös erőfeszítéseket igénylő ügyekben; és
+
+*e)* törekednek a vámeljárások harmonizálására és egyszerűsítésére.
+
+2\. A jelen Cikk *b)* és *c)* albekezdéseiben említett segítségnyújtás bírói, adminisztratív vagy más eljárások céljaira is történhet.
+
+3\. A jelen Egyezmény keretei közötti kölcsönös segítségnyújtás a megkeresett hatóság Államának területén hatályban lévő jogszabályokkal összhangban, hatáskörén belül és lehetőségei szerint történik. Szükség esetén, a megkeresett hatóság intézkedhet másik, illetékes hatóság általi segítségnyújtásról az Államának területén hatályban lévő jogszabályokkal összhangban.
+
+4\. A jelen Egyezmény rendelkezéseit nem lehet oly módon értelmezni, hogy az korlátozza a két Állam között jelenleg érvényes kölcsönös segítségnyújtást.
+
+*Az együttműködés és a kölcsönös segítségnyújtás formái*
+
+*3. Cikk*
+
+1\. A vámhatóságok, saját kezdeményezésre vagy megkeresés alapján, átadják egymásnak a jelen Egyezmény rendelkezései szerint szükséges információkat.
+
+2\. A vámhatóságok:
+
+*a)* kicserélik a tevékenységükkel és vámtechnikáikkal kapcsolatos tapasztalataikat, és információkat adnak át egymásnak a vámjogszabályok megsértésének új eszközeiről és módszereiről;
+
+*b)* tájékoztatják egymást a vámjogszabályaikban történő lényeges változásokról, és a fejlett vámellenőrzési berendezésekről, valamint megvitatják a közös érdeklődésre számot tartó kérdéseket.
+
+*4. Cikk*
+
+1\. A vámhatóságok, saját kezdeményezésre vagy megkeresésre, megadnak egymásnak minden olyan információt, amely elősegítheti
+
+*a)* a vámok, adók és egyéb díjak pontos kiszabását, különösen a vámérték pontos megállapítását és az áruk tarifális osztályozását;
+
+*b)* a behozatali, kiviteli és átviteli korlátozások és tilalmak, valamint a vám-, adó- és más díjak alóli mentességek pontos alkalmazását;
+
+*c)* a származási szabályok pontos alkalmazását.
+
+2\. Amennyiben a megkeresett hatóság nem rendelkezik a kért információval, azt az Államában érvényes jogszabályoknak megfelelően beszerzi, mintha saját nevében járna el.
+
+*Személyek, áruk és szállítóeszközök megfigyelése*
+
+*5. Cikk*
+
+A vámhatóságok, saját kezdeményezésre vagy megkeresésre, figyelemmel kísérik
+
+*a)* a másik Állam területén hatályban lévő vámjogszabályokat megsértő vagy ezzel gyanúsítható személyek mozgását, különösen az Államaik területére történő belépést és az onnan való kilépést;
+
+*b)* a vámhatóságok jelzése alapján, a másik Állam területére befelé vagy onnan kifelé irányuló jogellenesen forgalomba hozott áruk és fizetőeszközök importját vagy exportját;
+
+*c)* a másik Állam területén hatályban lévő vámjogszabályok megsértéséhez használt szállítóeszközöket;
+
+*d)* a másik Állam területén jogellenesen forgalomba hozott áruk tárolására szolgáló helyeket.
+
+*Az áruk jogellenes forgalma elleni harc*
+
+*6. Cikk*
+
+A vámhatóságok, saját kezdeményezésre vagy megkeresés alapján, megadnak egymásnak minden olyan feltárt vagy tervezett cselekménnyel kapcsolatos információt, melyek bizonyosan vagy feltehetően a Szerződő Felek Államainak területén a hatályos vámjogszabályokba ütköznek, a következő területeken:
+
+*a)* művészeti tárgyak, melyek valamelyik Szerződő Fél számára jelentős történelmi, kulturális vagy archeológiai értéket képviselnek;
+
+*b)* mérgező anyagok, valamint a környezetre vagy a közegészségre káros anyagok;
+
+*c)* egyéb áruk, melyek nemzetközi szerződések, megfelelő multilaterális egyezmények és kötelezettségek, valamint Államaik területein érvényes jogszabályok értelmében különleges ellenőrzést igényelnek;
+
+*d)* magas vám- vagy adótartalmú áruk mozgása, különös tekintettel a szeszes italokra és a dohánygyártmányokra.
+
+*7. Cikk*
+
+A vámhatóságok, saját kezdeményezésre vagy megkeresés alapján, tájékoztatják egymást, hogy
+
+*a)* a megkereső hatóság Államának területére bevitt árukat a jogszabályokkal összhangban vitték-e ki a másik Állam területéről;
+
+*b)* a megkereső hatóság Államának területéről kivitt árukat a jogszabályokkal összhangban vitték-e be a másik Állam területére, és ez milyen vámeljárásban történt.
+
+*8. Cikk*
+
+A vámhatóságok, saját kezdeményezésre vagy megkeresésre, információt nyújtanak egymásnak
+
+*a)* a másik Állam területén érvényes vámjogszabályokat megsértő természetes vagy jogi személyekről;
+
+*b)* olyan áruk mozgásáról, melyek jelentős vámjogszabálysértéshez vezethetnek;
+
+*c)* a másik Állam területén érvényes vámjogszabályokat sértő cselekmények során használt szállítóeszközökről.
+
+*9. Cikk*
+
+A vámhatóságok, saját kezdeményezésre vagy megkeresésre, megküldik egymásnak mindazokat az okmányokat vagy ezek hitelesített másolatait, valamint más bizonyítékot, amelyek minden rendelkezésre álló információt tartalmaznak az Államaik területén érvényes vámjogszabályok megszegését bizonyító vagy ennek alapos gyanúját keltő, felderített vagy tervezett cselekményekről.
+
+*10. Cikk*
+
+A jelen Egyezményben meghatározott okmányok helyettesíthetők az ugyanilyen célra bármilyen formában készített számítógépes információval. Az anyag értelmezéséhez vagy felhasználásához szükséges minden információt egyidejűleg meg kell küldeni.
+
+*11. Cikk*
+
+1\. Eredeti okmányok csak abban az esetben kérhetők, ha a hitelesített másolatok nem elegendőek.
+
+2\. A megkapott eredeti okmányokat a lehető legrövidebb időn belül vissza kell küldeni.
+
+*Vizsgálatok*
+
+*12. Cikk*
+
+1\. Ha a vámhatóság kéri, a megkeresett hatóság hivatalos vizsgálatokat kezdeményezhet vámjogszabálysértő cselekményekkel kapcsolatban. Az ilyen vizsgálatokkal kapcsolatos eredményeket közlik a megkereső hatósággal.
+
+2\. Az ilyen vizsgálatokat a megkeresett hatóság Államának területén érvényes jogszabályoknak megfelelően kell lefolytatni. A megkeresett hatóságnak úgy kell eljárnia, mintha saját ügyében járna el.
+
+3\. Az egyik Állam vámhatóságának tisztviselői, kivételes esetekben, és a másik Állam vámhatóságának egyetértésével, jelen lehetnek az utóbbi területén a jelen Cikk értelmében folytatott vizsgálatok során.
+
+4\. A jelen Cikk 3. bekezdésében említett tisztviselők nem viselhetnek egyenruhát, és nem lehet náluk fegyver.
+
+*Szakértők és tanúk*
+
+*13. Cikk*
+
+1\. A vámhatóság, kérés alapján, felhatalmazhatja tisztviselőit, hogy a felhatalmazás keretein belül tanúként vagy szakértőként jelenjenek meg a jelen Egyezmény értelmében folytatott bírósági vagy közigazgatási eljárások során a vámhatóságok államainak igazságszolgáltatásában, és az eljáráshoz szükséges tárgyakat, okmányokat vagy ezek hitelesített másolatait rendelkezésre bocsássák. A felkérésben világosan közölni kell, hogy milyen ügyben és milyen minőségben kell a tisztviselőnek megjelennie.
+
+2\. A szakértőként vagy tanúként megjelenő tisztviselőnek joga van megtagadni a bizonyíték- vagy nyilatkozatadást, ha a saját Államának vagy a megkereső hatóság törvényei értelmében erre jogosult vagy köteles.
+
+3\. Minden esetben, amikor a tisztviselők a jelen Egyezmény értelmében a másik Állam területén megjelennek, bizonyítaniuk kell hivatalos minőségüket.
+
+*Az információk és okmányok felhasználása*
+
+*14. Cikk*
+
+1\. A jelen Egyezmény alapján kapott információk és okmányok csak a jelen Egyezményben meghatározott célokra használhatók fel. Semmilyen más célra nem adhatók át, illetve nem használhatók fel, kivéve, ha ehhez a megkeresett hatóság írásban hozzájárul.
+
+2\. A jelen Cikk 1. bekezdésének rendelkezése nem vonatkozik a kábítószerekkel és a pszichotróp anyagokkal kapcsolatos jogszabálysértésekről szóló információkra. Ezen információkat közvetlenül a jogellenes kábítószerforgalom elleni harccal foglalkozó más hatóságoknak lehet megküldeni.
+
+3\. A jelen Egyezmény alapján a vámhatóság által megkapott megkereséseket, bármilyen formában beszerzett információt, szakértői véleményt vagy egyéb közlést ugyanolyan módon kell védeni, mintha saját Államának információiról, okmányairól lenne szó.
+
+*15. Cikk*
+
+A vámhatóságok, a jelen Egyezmény céljaival összhangban és az Egyezmény keretei között, saját eljárásaikban, valamint bíróság és más hatóság előtti eljárásokban felhasználhatják bizonyítékként a jelen Egyezmény értelmében beszerzett információkat és okmányokat. Az ilyen információk és okmányok bizonyító erejét a megkeresett Állam jogszabályai határozzák meg.
+
+*A természetes és jogi személyekre vonatkozó információk átadása és felhasználása*
+
+*16. Cikk*
+
+A belső jogszabályoknak megfelelően, a természetes és jogi személyekre vonatkozó információk védelmére az alábbi feltételek érvényesek:
+
+*a)* a megkereső hatóság a megkapott információkat csak a megkeresett hatóság által meghatározott feltételekkel és célokra használhatja fel, és kérés alapján tájékoztatást nyújt az eredményekről;
+
+*b)* a természetes és jogi személyekre vonatkozó információkat más hatóságoknak csak a megkeresett hatóság előzetes beleegyezésével lehet átadni;
+
+*c)* a megkeresett hatóság köteles meggyőződni az átadandó információ helyességéről és hitelességéről. Ha a megkeresett hatóság úgy véli, hogy helytelen vagy visszatartott információ került átadásra, azonnal tájékoztatnia kell a megkereső hatóságot erről a tényről. Ezen hatóság köteles kijavítani az információt, vagy megsemmisíteni azt, amennyiben erre kérik;
+
+*d)* a vámhatóságok kötelesek az átadott és átvett, a természetes és jogi személyekre vonatkozó információkról nyilvántartást vezetni, és hatásosan védeni ezen információkat az illetéktelen hozzáférés, változtatás, nyilvánosságra hozatal, sérülés vagy megsemmisülés ellen;
+
+*e)* a megkeresett hatóság a természetes és jogi személyekre vonatkozó információkkal együtt tájékoztatást ad a természetes és jogi személyekre vonatkozó információk kívánt törlési határidejéről, a hazai jogszabályainak megfelelően. A természetes és jogi személyekről szóló információt a szükségesség megszűnésekor meg kell semmisíteni.
+
+*A segítségnyújtási kötelezettség alóli kivételek*
+
+*17. Cikk*
+
+1\. Amennyiben a vámhatóság úgy ítéli meg, hogy a megkeresésben foglaltak teljesítése sértené Állama szuverenitását, közrendjét, biztonságát vagy más lényeges érdekét, teljesen vagy részben visszautasíthatja a segítségnyújtást, vagy a segítségnyújtást bizonyos feltételekhez kötheti.
+
+2\. Ha a segítségnyújtást visszautasítják, írásban azonnal tájékoztatni kell a megkereső hatóságot a döntésről és az okairól.
+
+3\. Ha a vámhatóság olyan segítségnyújtást kér, amelyet saját maga nem tudna teljesíteni, akkor erre a tényre a megkeresésben utalni kell. Az ilyen megkeresés teljesítése a megkeresett vámhatóság mérlegelésétől függ.
+
+*A segítségnyújtás iránti megkeresés formája és tartalma*
+
+*18. Cikk*
+
+1\. A jelen Egyezmény szerinti megkereséseket írásban kell elkészíteni. A megkeresések végrehajtásához szükséges okmányokat mellékelni kell a megkereséshez. Sürgős esetekben szóbeli megkeresések is elfogadhatóak, de azokat késedelem nélkül írásban meg kell erősíteni.
+
+2\. Az 1. pont szerinti megkereséseknek az alábbi információkat kell tartalmazniuk:
+
+*a)* a megkereső hatóság megnevezését;
+
+*b)* az eljárás módját;
+
+*c)* a megkeresés tárgyát és okát;
+
+*d)* az eljárásban érintett felek neveit és címeit;
+
+*e)* az ügy részletes leírását, továbbá azt, hogy mely jogszabályokat sértették meg.
+
+3\. A megkeresés a megkeresett hatóság Államának hivatalos nyelvén, angolul vagy ezen hatóság által elfogadott egyéb nyelven történik.
+
+4\. Ha a megkeresés nem felel meg a formai követelményeknek, akkor helyesbítését vagy kiegészítését lehet kérni, de ez nem késleltetheti a halaszthatatlan intézkedések megtételét.
+
+*Technikai segítségnyújtás*
+
+*19. Cikk*
+
+A vámhatóságok technikai segítséget nyújtanak egymásnak az alábbi területeken:
+
+*a)* kölcsönös előnyök esetén vámtisztviselők cseréje, egymás fejlett technikáinak megismerése érdekében;
+
+*b)* vámtisztviselők különleges ismereteinek fejlesztése érdekében oktatás és segítségnyújtás;
+
+*c)* a felderítésnél használt berendezésekkel kapcsolatos információ- és tapasztalatcsere;
+
+*d)* szakértők cseréje.
+
+*Költségek*
+
+*20. Cikk*
+
+A Szerződő Felek lemondanak a jelen Egyezmény végrehajtásával kapcsolatban felmerülő költségekkel kapcsolatos minden igényről, a 13. Cikkben szereplő szakértők, tanúk, valamint a tolmácsok költségeinek kivételével.
+
+*Teljesítés*
+
+*21. Cikk*
+
+1\. A jelen Egyezmény értelmében a segítségnyújtás közvetlenül a vámhatóságok között történik. Ezen hatóságok kölcsönösen megállapodnak az Egyezmény végrehajtásához szükséges intézkedések részleteiről.
+
+2\. A vámhatóságok képviselői szükség esetén évente legalább egyszer, a Magyar Köztársaságban és a Lengyel Köztársaságban felváltva találkoznak a jelen Egyezmény felülvizsgálása és a vámhatóságok együttműködésével kapcsolatos egyéb más gyakorlati problémák, valamint az Egyezmény értelmezéséből adódó problémák megoldása érdekében.
+
+3\. Jelen Egyezmény rendelkezéseit a Szerződő Felek Államainak vámterületén kell alkalmazni.
+
+*Hatálybalépés és megszűnés*
+
+*22. Cikk*
+
+1\. Jelen Egyezmény hatvan nappal azután lépő hatályba, hogy a Szerződő Felek diplomáciai jegyzékkel értesítették egymást, hogy a jelen Egyezmény hatálybalépéséhez szükséges hazai jogi követelményeket teljesítették.
+
+2\. Jelen Egyezményt diplomáciai jegyzékváltással lehet módosítani.
+
+3\. Jelen Egyezmény határozatlan időre szól. Diplomáciai jegyzékkel megszüntethető, és hatálya a jegyzéknek a másik Szerződő Fél általi kézhezvételétől számított hat hónap után szűnik meg.
+
+Készült Budapesten, 1997. április 3-án, két eredeti példányban, magyar, lengyel és angol nyelven, mindegyik szöveg egyformán hiteles. Értelmezési eltérés esetén az angol szöveg az irányadó.
+
+Alulírottak, erre felhatalmazva, aláírták a jelen Egyezményt.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Lengyel Köztársaság\
+Kormánya nevében''
+
+### 3. §
+
+E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. október 21-től kell alkalmazni.

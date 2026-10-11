@@ -1,0 +1,311 @@
+---
+title: "64/2003. (V. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló, Kijevben, 2002. február 6-án aláírt Egyezmény kihirdetéséről"
+identifier: "64/2003. (V. 13.) Korm. rendelet"
+njt_id: "2003-64-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/64"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-05-13
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-64-20-22"
+retrieved: 2026-10-12
+---
+
+# 64/2003. (V. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló, Kijevben, 2002. február 6-án aláírt Egyezmény kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 2003. január hó 24. napján megtörtént. Az Egyezmény, annak 12. Cikk (1) bekezdése alapján, 2003. év február hó 23. napján hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről, Kijevben, 2002. február 6-án aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: Szerződő Felek) attól az óhajtól vezetve, hogy egyszerűsítsék a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok elkészítését, kiállítását és ellenőrzését, továbbá ezen okmányok egységesítése érdekében az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Magyar Köztársaság és Ukrajna állampolgárai a két állam közötti hatályos nemzetközi szerződésekből eredő feladatok végrehajtása érdekében, szolgálati célból a magyar–ukrán államhatárt a jelen Egyezményben meghatározott szolgálati célú Határátlépési Igazolvánnyal (a továbbiakban: Igazolvány) léphetik át.
+
+*2. Cikk*
+
+(1) Az Igazolvány magyar és ukrán nyelven készül. Az Igazolvány leírását a jelen Egyezmény elválaszthatatlan részét képező 1. számú melléklet tartalmazza.
+
+(2) A Szerződő Felek az Igazolvány mintapéldányaiból, azok megismerése céljából, 20-20 (húsz-húsz) darabot biztosítanak a másik Szerződő Fél határőrizeti szervei számára.
+
+(3) Az Igazolványt a Szerződő Felek illetékes szervei állítják ki, a kiadó állam nyelvén. A Szerződő Felek diplomáciai úton tájékoztatják egymást az Igazolvány kiállítására feljogosított illetékes szerv megnevezéséről.
+
+*3. Cikk*
+
+(1) Az Igazolvány korlátlan számú határátlépésre jogosít.
+
+(2) Az Igazolvány kiadásának módját a Szerződő Felek belső jogszabályai állapítják meg.
+
+(3) Az Igazolvány érvényességének időtartama öt év. Ezen időtartam egy alkalommal, öt évre meghosszabbítható.
+
+(4) A Szerződő Felek megfelelő intézkedéseket tesznek annak érdekében, hogy az Igazolványt, amelynek érvényessége lejárt vagy tulajdonosának jogosultsága megszűnt, haladéktalanul visszaszolgáltassák a kiállító szervnek.
+
+*4. Cikk*
+
+(1) Az Igazolvánnyal rendelkező személy a közös államhatárt kizárólag a vonatkozó nemzetközi szerződésekben meghatározott feladatok teljesítése céljából lépheti át. A határátlépéssel és a másik Szerződő Fél államának területén való tartózkodással kapcsolatos kötelezettségeket és jogokat a nemzetközi szerződésben meghatározott szolgálati feladatok teljesítésével összefüggésben az Igazolvány ,,Tudnivalók'' része tartalmazza.
+
+(2) Az Igazolvánnyal rendelkező személy a másik Szerződő Fél államának területén csak a nemzetközi szerződésekben kijelölt térségben, a szolgálati feladat végrehajtásához szükséges ideig tartózkodhat.
+
+*5. Cikk*
+
+(1) Az Igazolvánnyal rendelkező személy az államhatárt indokolt esetben a határátkelőhelyen kívül is átlépheti, ha ez a szolgálati feladatai ellátásához szükséges.
+
+(2) A határátkelőhelyen kívüli határátlépést az illetékes határőrizeti szervnek előzetesen be kell jelenteni. Az egyik Szerződő Fél határőrizeti szerve a határátlépést megelőzően értesíti a másik Szerződő Fél illetékes határőrizeti szervét a tervezett határátlépés helyéről és időpontjáról, valamint a másik Szerződő Fél államának területén végzendő munka helyéről és az ott tartózkodás várható időtartamáról.
+
+(3) A határátkelőhelyeken kívüli határátlépésre a közös határon – kivételes indokolt szolgálati esetektől eltekintve – csak napkeltétől napnyugtáig kerülhet sor.
+
+(4) Az Igazolványt a birtokosa bármelyik Szerződő Fél határőrizeti szervének felszólítására köteles bemutatni.
+
+*6. Cikk*
+
+(1) A nemzetközi szerződésben meghatározott szolgálati feladatok végrehajtásához szükséges műszaki és kisegítő személyzet a közös államhatárt csak Igazolvánnyal rendelkező személy kíséretében, Névjegyzék alapján – személyazonosításra alkalmas, fényképpel ellátott hivatalos igazolvány (például személyazonosító igazolvány, útlevél, vezetői engedély) birtokában – lépheti át. A Névjegyzék leírását a jelen Egyezmény elválaszthatatlan részét képező 2. számú melléklet tartalmazza.
+
+(2) A Névjegyzékben legfeljebb 20 (húsz) fő szerepelhet. A Névjegyzéket a nemzetközi szerződésből eredő szolgálati feladatok végrehajtásáért felelős, a munkálatokat elrendelő szerv állítja ki. A Névjegyzéket a Szerződő Feleknek az Igazolvány kiadására illetékes szervei hitelesítik.
+
+(3) Halaszthatatlan szolgálati érdekből a Névjegyzéket a Szerződő Felek államának határmegbízottai is hitelesíthetik.
+
+(4) A Névjegyzéket négy példányban kell kiállítani. Az első az Igazolvánnyal rendelkezőnél, a második a hitelesítést végző szervnél, a harmadik a közös államhatáron való kilépést engedélyező, a negyedik pedig a belépést engedélyező szervnél marad.
+
+(5) A Névjegyzékben feltüntetett személyek jogai és kötelességei azonosak az Igazolvánnyal rendelkezőkével.
+
+*7. Cikk*
+
+Az Igazolvánnyal rendelkező személy az Igazolványnak vagy a Névjegyzéknek a másik Szerződő Fél államának területén történő elvesztését vagy megsemmisülését haladéktalanul köteles bejelenteni a legközelebbi határőrizeti szervnek, amely erről jegyzőkönyvet vesz fel, és ezt követően intézkedik az érintett személynek (személyeknek) a saját állama területére történő visszaléptetésére.
+
+*8. Cikk*
+
+A Szerződő Felek illetékes határőrizeti szervei jogosultak arra, hogy megtagadják a közös államhatáron való beléptetést, vagy megvonják a nemzetközi szerződésben foglalt tartózkodási jogosultságot attól az Igazolvánnyal rendelkező vagy a Névjegyzékben szereplő személytől, aki a tartózkodási állam jogszabályait megsérti, vagy az Igazolványt, illetőleg a Névjegyzéket a rendeltetésétől eltérően használja.
+
+*9. Cikk*
+
+(1) A jelen Egyezmény végrehajtásának összehangolásáért a magyar Szerződő Fél részéről a Belügyminisztérium, az ukrán Szerződő Fél részéről a Határőrizeti Állami Bizottság mint illetékes szerv a felelős.
+
+(2) A Szerződő Felek a jelen Egyezmény értelmezésével vagy alkalmazásával kapcsolatos vitákat az (1) bekezdésben meghatározott illetékes szervek tárgyalások útján rendezik. A tárgyalások eredménytelensége esetén a Szerződő Felek a vitákat diplomáciai úton rendezik.
+
+*10. Cikk*
+
+A jelen Egyezmény hatálybalépését megelőzően kiadott szolgálati célú igazolványok, a jelen Egyezmény hatálybalépését követő legfeljebb egy évig használhatók fel, az igazolványok érvényessége azonban nem hosszabbítható meg.
+
+*11. Cikk*
+
+A jelen Egyezmény rendelkezései nem érintik a Szerződő Felek légitársaságainak repülési és műszaki személyzetére vonatkozó, a Nemzetközi Polgári Repülésről szóló, Chicagóban, 1944. december 7. napján aláírt Egyezmény (ICAO Egyezmény) 9. számú mellékletében (Formalitások egyszerűsítése) biztosított azon kedvezményeket, amelyek ezen személyeket a Szerződő Felek államának területén, szolgálati feladatuk ellátása során megilletik.
+
+*12. Cikk*
+
+(1) A jelen Egyezmény határozatlan időre szól. A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy az Egyezmény hatálybalépéséhez szükséges belső jogi követelményeknek eleget tettek. Az Egyezmény a későbbi diplomáciai jegyzék keltét követő 30. (harmincadik) napon lép hatályba.
+
+(2) A jelen Egyezményt bármelyik Szerződő Fél írásban, diplomáciai úton felmondhatja. Az Egyezmény attól a naptól számított három hónap elteltével veszti hatályát, amikor a felmondásról szóló értesítést a másik Szerződő Fél átvette.
+
+*13. Cikk*
+
+(1) Jelen Egyezmény hatálybalépésének napjával a Szerződő Felek hatályon kívül helyezik:
+
+*a)* a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között Budapesten, 1986. évi január hó 15. napján aláírt, a magyar–szovjet vasúti határforgalomról szóló Egyezmény hatályban lévő 10. Cikkét;
+
+*b)* a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Kijevben, 1995. május 19-én aláírt, az államhatáron megvalósuló vasúti forgalomról szóló Egyezmény 24. Cikkét.
+
+(2) Jelen Egyezmény hatálybalépésének napjával a Szerződő Felek a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Budapesten, 1997. november 11-én aláírt, a határvizekkel kapcsolatos vízgazdálkodási kérdésekről szóló Egyezmény 1. és 2. számú mellékletét hatályon kívül helyezik, az Egyezmény 11. Cikkét pedig az alábbiak szerint módosítják:
+
+*»11. Cikk*
+
+*A magyar–ukrán államhatár átlépése*
+
+(1) Azon személyeknek, akiknek a jelen Egyezményből származó feladataik teljesítése végett szolgálati célból át kell lépniük az államhatárt, erre érvényes Határátlépési Igazolvánnyal, illetve Névjegyzékkel jogosultak, amelynek a használatát a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló Kijevben, 2002. február 6-án aláírt Egyezmény határozza meg.
+
+(2) A Határátlépési Igazolvánnyal rendelkezők, valamint a Névjegyzékben szereplők – tevékenységüktől függően – a másik Szerződő Fél államának területén nappal és kivételes esetben éjjel tartózkodhatnak:
+
+*a)* az államhatártól számított 5 km-en belül;
+
+*b)* az árvízvédelmi töltések és egyéb vízi létesítmények által védett területen, valamint jelen Egyezmény 1. Cikkében említett vízgazdálkodási rendszerek területén;
+
+*c)* a határvizek medrében;
+
+*d)* a következő városokban: magyar területen Záhony, Nyíregyháza, Kisvárda és Vásárosnamény; ukrán területen Ungvár, Csap, Beregszász és Nagyszöllős.«
+
+*14. Cikk*
+
+(1) A jelen Egyezmény a Szerződő Felek kölcsönös egyetértésével kiegészíthető és módosítható.
+
+(2) A kiegészítést és módosítást diplomáciai úton, írásban kell kezdeményezni. A kiegészítés és módosítás a 12. Cikkben foglalt eljárási rend szerint lép hatályba.
+
+Készült Kijevben, 2002. február hónap 6. napján, két eredeti példányban, magyar és ukrán nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Ukrajna Kormánya\
+nevében
+
+*1. számú melléklet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló Egyezményhez*
+
+Cím (borító) lap
+
+Az állam megnevezése
+
+a kiadó állam címere
+
+Határátlépési igazolvány
+
+Okmány betű és sorozatszám: .............................................. (Belső oldalon nyomtatva ezt követően, a további oldalakon csak perforálva.)
+
+1\. oldal
+
+Magyar Köztársaság/Ukrajna
+
+a kiadó állam címere
+
+**Határátlépési Igazolvány**
+
+...................................................
+
+amely a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló, Kijevben, 2002. február hónap 6. napján aláírt Egyezmény alapján került kiadásra, a munkavégzés jogalapjául szolgáló ....................................................... (a nemzetközi szerződés megnevezése) alapján.
+
+Az Igazolvány nyolc számozott oldalt tartalmaz.
+
+2\. oldal
+
+Családi név:
+
+Utónév:
+
+Nők születéskori családi és utóneve:[^1]
+
+Neme:
+
+Születési helye, ideje:
+
+Ellátandó feladatkör (foglalkozás):
+
+A gépi leolvasáshoz szükséges adatok:[^2]
+
+3\. oldal
+
+(fénykép helye)
+
+pecsét helye
+
+az igazolvány birtokosának aláírása
+
+............................................................................
+
+4\. oldal
+
+Kiállító hatóság:
+
+Kiállítás helye és ideje:
+
+Érvényes: -ig (év, hónap, nap)
+
+|  | ............................................................................. |
+|---|---|
+|  | hivatalos személy aláírása |
+|  | pecsét helye |
+
+5\. oldal
+
+Meghosszabbító hatóság:
+
+Meghosszabbítás ideje:
+
+Érvényes: -ig (év, hónap, nap)
+
+|  | ............................................................................. |
+|---|---|
+|  | hivatalos személy aláírása |
+|  | pecsét helye |
+
+6–7. oldal
+
+Hivatalos bejegyzések:
+
+8\. oldal és a hátsó borítólap\
+belső oldalára nyomtatva
+
+TUDNIVALÓK
+
+Jelen Határátlépési Igazolvány (a továbbiakban: Igazolvány) a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú átlépéséhez szükséges okmányok egységesítéséről szóló Egyezmény alapján került kiállításra.
+
+1\. Az Igazolvány korlátlan számú határátlépésre jogosít.
+
+2\. Az Igazolvánnyal rendelkező személy a közös államhatárt kizárólag a vonatkozó kétoldalú nemzetközi szerződésekben meghatározott feladatok teljesítése céljából lépheti át.
+
+3\. Az Igazolvánnyal rendelkező személy a másik Szerződő Fél államának területén csak a nemzetközi szerződésekben kijelölt térségben, a szolgálati feladat végrehajtásához szükséges ideig tartózkodhat.
+
+4\. Az Igazolvánnyal rendelkező személy az államhatárt indokolt esetben a határátkelőhelyen kívül is átlépheti, ha ez a szolgálati feladata ellátásához szükséges.
+
+5\. A határátkelőhelyen kívüli határátlépést az illetékes határőrizeti szervnek előzetesen be kell jelenteni.
+
+6\. Az Igazolványt, amelynek érvényessége lejárt vagy tulajdonosának jogosultsága megszűnt haladéktalanul vissza kell szolgáltatni a kiállító szervnek.
+
+7\. Az Igazolványt a birtokosa a magyar és ukrán határőrizeti szervének felszólítására köteles ellenőrzés céljából bemutatni.
+
+8\. A határátkelőhelyeken kívüli határátlépésre a közös határon – kivételes esetektől eltekintve – csak napkeltétől napnyugtáig kerülhet sor.
+
+9\. Az Igazolvánnyal rendelkező személy az Igazolványnak a másik Szerződő Fél államának területén történő elvesztését vagy megsemmisülését haladéktalanul köteles bejelenteni a legközelebbi határőrizeti szervnek.
+
+2\. számú melléklet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a magyar–ukrán államhatár szolgálati célú\
+átlépéséhez szükséges okmányok egységesítéséről szóló Egyezményhez
+
+Névjegyzék\
+azokról a személyekről, akik a magyar–ukrán közös államhatárt szolgálati feladatok ellátása céljából határátkelőhelyen vagy határátkelőhelyen kívül átlépik
+
+Névjegyzék\
+azokról a személyekről, akik a magyar–ukrán közös államhatárt szolgálati feladatok ellátása céljából határátkelőhelyen vagy határátkelőhelyen kívül átlépik
+
+A Határátlépési Igazolvánnyal rendelkező személy családi és utóneve:
+
+Határátlépési Igazolványának száma:
+
+<table><tbody><tr><td colspan="2">Sorsz.</td><td>Családi név és utónév</td><td>Születési év</td><td>Személyazonosításra alkalmas okmány típusa és száma</td></tr><tr><td>1.</td><td></td><td></td><td></td><td></td></tr><tr><td>2.</td><td></td><td></td><td></td><td></td></tr><tr><td>3.</td><td></td><td></td><td></td><td></td></tr><tr><td>4.</td><td></td><td></td><td></td><td></td></tr><tr><td>...</td><td></td><td></td><td></td><td></td></tr><tr><td>20.</td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Kiadás helye és ideje:
+
+pecsét helye
+
+|  | .............................................................................................. |
+|---|---|
+|  | a munkálatokat elrendelő szervezet képviselőjének aláírása |
+
+Érvényes: 20....... évi ....................................... hó .................. napjáig.
+
+Hitelesítette:
+
+(illetékes szerv megnevezése)
+
+Kelt: .................................................................................. (év, hónap, nap)
+
+pecsét helye
+
+|  | .............................................................................................. |
+|---|---|
+|  | hivatalos személy aláírása |
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit 2003. február 23. napjától kell alkalmazni.
+
+(2)[^3]
+
+(3)[^4] E rendelet végrehajtásáról a határrendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Ezen adatot csak a magyar illetékes szervek által kiadott Határátlépési Igazolvány tartalmazza!
+[^2]: Ezen adatot csak az ukrán illetékes szervek által kiadott Határátlépési Igazolvány tartalmazza!
+[^3]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 864. pontja hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 159. pontja szerint módosított szöveg.

@@ -1,0 +1,744 @@
+---
+title: "127/1991. (X. 9.) Korm. rendelet a mérésügyről szóló törvény végrehajtásáról"
+identifier: "127/1991. (X. 9.) Korm. rendelet"
+njt_id: "1991-127-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/127"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-10-09
+in_force_from: 2009-10-01
+last_amended: 2023-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-127-20-22"
+retrieved: 2026-10-12
+---
+
+# 127/1991. (X. 9.) Korm. rendelet a mérésügyről szóló törvény végrehajtásáról
+
+A Kormány a mérésügyről szóló 1991. évi XLV. törvény 15. §-ban foglalt felhatalmazás alapján a törvény végrehajtására az alábbi rendeletet alkotja:
+
+## (Tv. 2. §-hoz)
+
+### 1. §[^1]
+
+(1)–(2)[^2]
+
+(3)[^3]
+
+## (Tv. 3. §-hoz)
+
+## (Tv. 5. §-hoz)
+
+### 3. §
+
+(1)[^5] Az egyes fontosabb törvényes mértékegységeket e rendelet 1. számú melléklete határozza meg.
+
+(2)[^6] A törvényes mértékegységben megadott mérési eredmény vagy érték után a mennyiség nagysága más mértékegységben is kifejezhető.
+
+(3)[^7] A törvényes mértékegységekre vonatkozó részletes előírásokat szabványok tartalmazzák.
+
+## (Tv. 6. §-hoz)
+
+### 4. §
+
+(1)[^8] Joghatással járó mérés végzésére használt minden mérőeszközt – közvetlenül vagy közvetett módon – országos etalonról kell leszármaztatni, illetve arra visszavezetni.
+
+(2)[^9] Az etalon olyan mérőeszköz, amely a mennyiség mértékegységének reprodukálására és fenntartására szolgál, amelyről a mértékegység értéke átszármaztatható a használati etalonokra.
+
+(3) A használati etalon és a vele egy tekintet alá eső hiteles anyagminta olyan mérőeszköz, amely alkalmas a mennyiség egységének és/vagy helyes értékeinek előállítására és más mérőeszközökre való továbbszármaztatására.
+
+(4) Mérésügyi szempontból mérőeszköznek a mérések elvégzésére alkalmas olyan technikai eszköz minősül, amelynek a mérési pontosságot és megbízhatóságot jellemző tulajdonságai ismertek és ellenőrizhetők.
+
+(5)[^10] A mérésügyi hatóság — a mérőeszköz tulajdonosával kötött megállapodás alapján — nem mérésügyi szerv tulajdonában lévő mérőeszközt is országos etalonná nyilváníthat.
+
+### 5. §
+
+(1) Használati etalonnal kell rendszeresen ellenőrizni azoknak a joghatással járó mérés elvégzésére használt mérőeszközöknek a pontosságát, amelyeknek a hitelesítése nem kötelező.
+
+(2)[^11] A használati etalonnak hatályos hitelesítéssel vagy kalibrálási bizonyítvánnyal kell rendelkeznie. A használati etalonnak pontosabbnak kell lennie a vele ellenőrzött mérőeszköznél.
+
+(3)[^12]
+
+(4)[^13]
+
+### 5/A. §[^14]
+
+Kötelező hitelesítésű mérőeszköz a hitelesítés hatályán belüli, de legfeljebb 2 évesnél nem régebbi első hitelesítést tanúsító jellel vagy hitelesítési bizonyítvánnyal, illetve megfelelőségi nyilatkozattal vagy megfelelőségi tanúsítvánnyal hozható forgalomba.
+
+## (Tv. 7. §-hoz)
+
+### 6. §
+
+(1) Használatra kész a mérőeszköz, ha a külső jegyek alapján megállapítható, hogy az minden külön előkészület nélkül rendeltetésszerű működésre alkalmas.
+
+(2)[^15] A kötelező hitelesítésű mérőeszközök felsorolását és a hitelesítés hatályát e rendelet 2. számú melléklete tartalmazza. A hitelesítés hatályát a mérésügyi hatóság a mérőeszköz használatának körülményeire tekintettel, indokolt esetben a 2. számú mellékletben előírttól eltérően is meghatározhatja.
+
+(3)[^16] Az első, az időszakos és a javítás utáni hitelesítést a hitelesíttetőnek az illetékes mérésügyi szervtől (időszakos hitelesítés esetén a hitelesítési időtartam lejárta előtt) kell kérnie.
+
+A kérelemnek tartalmaznia kell:
+
+a)[^17]
+
+b) a hitelesítendő mérőeszközök megnevezését, típusjelét, mérési tartományát és darabszámát,
+
+c) helyszíni hitelesítés esetén a hitelesítés helyét.
+
+(4)[^18] Az időszakos hitelesítés iránti eljárást – gazdaságossági és szervezési szempontok alapján – a mérésügyi szerv hivatalból is megindíthatja. Időszakos helyszíni hitelesítés meghirdetett ideiglenes hitelesítő központban is végezhető.
+
+(5)[^19] A mérésügyi szerv hitelesítési bizonyítványt kiállíthat külföldi vizsgálati eredmények alapján, ha az adott mérőeszköz hitelesítésének technikai feltételei a mérésügyi szerv joghatóságán belül nem biztosítottak, és a külföldi vizsgálati eredmények alapján a mérőeszköz megfelelősége eldönthető.
+
+(6)[^20] A mérőeszköz-minősítésre a hitelesítési előírás, a hitelesítési engedély, illetőleg a mérésügyi hatóság egyéb rendelkezései az irányadók.
+
+(7)[^21]
+
+(8)[^22]
+
+(9)[^23]
+
+(10)[^24] A hitelesítés négyéves vagy azt meghaladó hatálya azon a napon jár le, amelyik nap a hatály záró évének utolsó napja.
+
+(11)[^25] A hitelesítés négy évet el nem érő hatálya a hitelesítés napjától számított azon a napon jár le, amely számánál fogva a kezdőnapnak megfelel.
+
+### 6/A. §[^26]
+
+(1)[^27]
+
+(2)[^28] A mérésügyi szervek által használt törvényes tanúsító jelek:
+
+a) a nemzeti tanúsító és lezáró jelek,
+
+b) a mérőeszközökről és azok mérésügyi ellenőrzéséről szóló külön jogszabályban meghatározott jelölések[^29],
+
+c) a mérőeszközökre vonatkozó egyedi előírásokról szóló külön jogszabályban, valamint a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabályban meghatározott jelölések.[^30]
+
+A nemzeti tanúsító és lezáró jelek a mérőeszköznek csak a belföldi forgalomba hozatalára, valamint használatára jogosítanak.
+
+(3)[^31]
+
+(4)[^32] A mérésügyi szervek által használt törvényes tanúsító jeleket, azok leírását és alkalmazásának módját e rendelet 3. számú melléklete határozza meg.
+
+(5)[^33]
+
+(6)[^34]
+
+## (Tv. 8. §-hoz)
+
+### 7. §
+
+(1)[^35] A hitelesítési engedély hatálya a kiállításától számított legfeljebb 10 év.
+
+(2)[^36] A hitelesítési engedély a mérőeszköz-típusra vonatkozó időbeli és/vagy mennyiségi korlátozásokkal is kiadható.
+
+(3)[^37]
+
+(4)[^38] A hitelesítési engedélyben meghatározott feliratoknak a mérőeszközön való feltüntetéséről az első belföldi forgalombahozó köteles gondoskodni.
+
+## (Tv. 9. §-hoz)
+
+### 8. §
+
+(1) Kötelező hitelesítésű mérőeszközök esetében a típusvizsgálat célja a hitelesíthetőség elbírálása. A vizsgálat során el kell bírálni, hogy a mérőeszköz-típus megfelel-e a gyártó által megadott specifikációnak, a szabványoknak, valamint az adott mérőeszköz-típussal szemben támasztott mérésügyi követelményeknek.
+
+(2) A típusvizsgálat kiterjed a mérőeszköz működés és használat szempontjából fontos méréstechnikai tulajdonságainak vizsgálatára.
+
+(3) A kötelező hitelesítésű mérőeszköz típusvizsgálata akkor mellőzhető, ha a következő körülmények valamelyike fennáll:
+
+a) azonos típusú, már engedélyezett mérőeszközcsalád más névleges értékű vagy mérési tartományú típusváltozatának hitelesítési engedélyéről kell dönteni,
+
+b)[^39] a külföldön végzett nemzeti típusvizsgálat hazai hatályát a mérésügyi hatóság elismeri,
+
+c) a típusba tartozó mérőeszközök csekély mennyisége a típusvizsgálat elvégzését nem indokolja,
+
+d) a mérőeszköz-típus mérési pontosságáról és tartósságáról egyéb megbízható ismeret áll rendelkezésre.
+
+(4)[^40] A (3) bekezdésben meghatározott körülmények bármelyikének fennállása esetén a mérésügyi hatóság felmentést ad a típusvizsgálati kötelezettség alól.
+
+(5)[^41] A típusvizsgálat tárgyát képező mérőeszközöket a forgalombahozó bocsátja a mérésügyi hatóság rendelkezésére.
+
+(6)[^42]
+
+(7)[^43] Ha a hitelesítési engedéllyel rendelkező mérőeszköz-típus metrológiai jellemzőit módosítják, akkor a belföldi forgalombahozónak, a tulajdonosnak, illetőleg az üzemeltetőnek kiegészítő típusvizsgálat elvégzését kell kérnie.
+
+(8)[^44] Ha a mérőeszköz-típus az engedélyezési okiratban foglaltaktól eltér vagy a hitelesítés során tömegesen nem teljesíti a mérésügyi követelményeket, akkor a mérésügyi hatóság a hitelesítési engedélyt hatályon kívül helyezheti, vagy a további hitelesítést, illetőleg a mérőeszköz-használatot újabb feltételekhez kötheti.
+
+## (Tv. 10. §-hoz)
+
+### 9. §
+
+(1)[^45] A mérőeszköz hitelesítésének ki kell terjednie az engedélyezett mérőeszköz-típussal való azonosságnak, a mérőeszköz műszaki jellemzői megfelelőségének, valamint a mérőeszköz helyes működésének a vizsgálatára. A mérésügyi hatóság az Európai Unióból származó mérőeszköz időszakos, valamint javítás utáni hitelesítési kérelme esetén felhívja az ügyfelet a mérőeszköz európai uniós tanúsításáról szóló okirata csatolására, ha azzal a hatóság nem rendelkezik.
+
+(2)[^46] Csak olyan mérőeszköz hitelesíthető, amely a mennyiség értékét törvényes mértékegységben méri. A szerencsejáték[^47] céljára szolgáló eszközök tekintetében a hitelesítési előírásban előírtak az irányadóak.
+
+(3)[^48] A hitelesítés lehet darabonkénti és mintavételes eljáráson alapuló. A mintavételes eljáráson alapuló időszakos hitelesítés csak hatályos hitelesítéssel rendelkező mérőeszközön végezhető.
+
+(4) A hitelesítésnél a mérőeszköz szerves tartozékának kell tekinteni mindazokat a kiegészítő berendezéseket, amelyek a mérőeszköz pontosságát vagy helyes működését befolyásolják.
+
+(5) A hitelesítési hibahatárok értékét a mérőeszközre vonatkozó hitelesítési előírásban vagy a hitelesítési engedélyben kell rögzíteni. A mérőeszközre előírt hitelesítési hibahatárok az első és az időszakos hitelesítésnél különböző nagyságúak lehetnek.
+
+(6)[^49] A mérőeszközt hitelesítést tanúsító jellel csak a mérésügyi szerv hitelesítésre feljogosított kormánytisztviselője vagy állami tisztviselője láthatja el.
+
+(7)[^50] A hitelesített mérőeszköz javítását végző szerv (személy) köteles a javítás megkezdése előtt a mérőeszköz korábbi hitelesítését tanúsító törvényes tanúsító jelet vagy bizonyítványt a hitelesítési előírás rendelkezéseinek megfelelően érvényteleníteni.
+
+(8)[^51] Mérőeszköz a hitelesítési engedélyének vagy a közösségi típus-jóváhagyási engedélyének, illetve EK típusvizsgálati tanúsítványának kiadásától számított 10 éven belül mutatható be első hitelesítésre, kivéve, ha azok hatálya rövidebb.
+
+(9)[^52] A hitelesítési előírás a mérőeszköz időszakos hitelesítését megelőző karbantartáshoz, felújításhoz, javításhoz kötheti.
+
+### 10. §
+
+(1) Az első, az időszakos és a javítás utáni helyszíni hitelesítéshez — a mérésügyi szerv által meghatározott — alkalmas helyiségről és felszerelésről, valamint az üzemeletetés személyi és tárgyi feltételeiről a hitelesítést kérőnek kell gondoskodnia.
+
+(2)[^53] A mérőeszközt használatának helyszínén hitelesíti a mérésügyi szervezet,
+
+a) ha az ügyfél kérelmében igényli az eszköz használatának helyszínén történő hitelesítését, valamint vállalja annak költségeit, vagy
+
+b) ha az eszközzel kapcsolatos, kérelemre végzett hatósági feladat csak a mérőeszköz használatának helyszínén teljesíthető.
+
+Ekkor a mérésügyi szervezet gondoskodik a hitelesítéshez szükséges műszaki felszerelésnek a hatósági feladat helyszínére juttatásáról.
+
+(3)[^54] Ha a helyszíni hitelesítéshez szükséges műszaki felszerelés és a hitelesítő személy szállítását, illetőleg visszaszállítását a mérésügyi szerv műszaki vagy egyéb okból nem tudja biztosítani, akkor arról a hitelesítést kérő gondoskodik.
+
+(4)[^55] A hatóság helyszínre való kiszállásának költsége és a műszaki felszerelés szállításával járó költségek eljárási költségnek minősülnek.
+
+### 10/A. §[^56]
+
+A 2. számú melléklet I/3. pontjában meghatározott villamos fogyasztásmérők mintavételes eljárással történő időszakos hitelesítésének hatálya 10 év.
+
+## (Tv. 11. §-hoz)
+
+### 11. §
+
+(1)–(2)[^57]
+
+(3)–(5)[^58]
+
+## (Tv. 12. §-hoz)
+
+### 12. §
+
+(1)[^59] A mérésügyi ellenőrzés feltételeit és módját a fegyveres testületeknél és rendészeti szerveknél a feladat- és hatáskörrel rendelkező miniszter – az iparügyekért felelős miniszter véleményének kikérésével – szabályozza.[^60]
+
+(2) A mérésügyi ellenőrzés kiterjedhet:
+
+a) a helyes mértékegység-használatra,
+
+b) a mérőeszközökre (mérőeszköztípusra),
+
+c) az alkalmazott mérési módszerre,
+
+d) a mérési eredmény megadásának módjára,
+
+e) a mérés személyi feltételeire,
+
+f) a mérésügyi jogszabályokban meghatározott egyéb kötelezettségek teljesítésére.
+
+(3)[^61]
+
+## (Tv. 13. §-hoz)
+
+### 13. §
+
+(1)[^63]
+
+(2)[^64] A mérőeszköz hitelesítése – függetlenül attól, hogy a mérőeszközt használták-e vagy sem – hatályát veszti, ha
+
+a)[^65] a hitelesítésben meghatározott időtartam eltelt,
+
+b)[^66] a hitelesítési törvényes tanúsító jelet eltávolították, vagy megsérült, vagy a hitelesítési bizonyítványt megváltoztatták,
+
+c)[^67] a hitelesítési törvényes tanúsító jelet vagy bizonyítványt érvénytelenítették,
+
+d) a mérőeszközön javítást vagy olyan változtatást végeztek, amely annak metrológiai jellemzőit befolyásolhatta,
+
+e) a helyhezkötött mérőeszközt áthelyezték.
+
+(3) A közüzemek (víz-, gáz-, hő- és áramszolgáltató vállalatok) a hálózatukban üzemeltetett kötelező hitelesítésű fogyasztásmérők főbb adatait feltüntető folyamatos nyilvántartásról kötelesek gondoskodni.
+
+## (Tv. 14. §-hoz)
+
+## (Tv. 15. §-hoz)
+
+### 16. §[^70]
+
+Ez a rendelet 1992. január 1-jén lép hatályba.
+
+### 16/A. §[^71]
+
+E rendeletnek a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet, valamint a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló 38/1995. (IV. 5.) Korm. rendelet módosításáról szóló 247/2012. (VIII. 31.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit azokra a már felszerelt mellékvízmérőkre is alkalmazni kell, amelyeknek a hitelesítési hatálya a Mód. Kr. hatálybalépése[^72] napján még nem járt le.
+
+### 16/B. §[^73]
+
+E rendeletnek a mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet módosításáról szóló 344/2016. (XI. 17.) Korm. rendelettel (a továbbiakban: Mód. Kr2.) megállapított rendelkezéseit azokra a hiteles mérőeszközökre is alkalmazni kell, amelyeknek a hitelesítési hatálya a Mód. Kr2. hatálybalépése[^74] napján még nem járt le.
+
+### 16/C. §[^75]
+
+A 3. számú melléklet szerinti tanúsító jelek 2018. december 31-ig a „HITELES” helyett az „MKEH” felirattal is alkalmazhatóak.
+
+### 16/D. §[^76]
+
+A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet, valamint a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet módosításáról szóló 178/2019. (VII. 18.) Korm. rendelet hatálybalépését megelőzően forgalomba hozott radon-mérő eszközök joghatással járó mérésre hitelesítési eljárás lefolytatása nélkül – figyelemmel a Tv. 6. § (2) bekezdésében foglaltakra is – 2019. december 31-ig használhatók. 2020. január 1-jétől csak olyan radon-mérő eszköz forgalmazható és használható joghatással járó mérésre, amely hitelesnek minősült a hitelesítési eljárás során.
+
+### 17. §[^77]
+
+Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről és a 71/354/EGK irányelv hatályon kívül helyezéséről szóló, 1979. december 20-i 80/181/EGK tanácsi irányelv;
+
+b) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról szóló, 1984. december 18-i 85/1/EGK tanácsi irányelv;
+
+c) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK irányelv módosításáról szóló, 1989. november 27-i 89/617/EGK tanácsi irányelv;
+
+d) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról szóló, 2000. január 24-i 1999/103/EK európai parlamenti és tanácsi irányelv;
+
+e) a mértékegységekre vonatkozó tagállami jogszabályok közelítéséről szóló 80/181/EGK tanácsi irányelv módosításáról szóló, 2009. március 11-i 2009/3/EK európai parlamenti és tanácsi irányelv;
+
+f) a nem automatikus működésű mérlegek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/31/EU európai parlamenti és tanácsi irányelv;
+
+g) a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelv;
+
+h)[^78] a 80/181/EGK tanácsi irányelv mellékletének az SI-alapegységek meghatározása tekintetében a műszaki fejlődéshez való hozzáigazítása céljából történő módosításáról szóló, 2019. július 23-i (EU) 2019/1258 bizottsági irányelv.
+
+### 18. §[^79]
+
+E rendelet 16/D. §-ának és 2. számú mellékletében foglalt táblázat 17. sorának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+## 1. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^80]
+
+**Törvényes mértékegységek**
+
+I. Fejezet
+
+***A Nemzetközi Mértékegység-rendszer (a továbbiakban: SI) alapegységei***
+
+1\. Az idő mértékegysége a másodperc; jele: s.
+
+Definíció szerint a cézium-133 atom Δν<sub>Cs</sub> perturbálatlan alapállapoti hiperfinom átmeneti frekvenciájának rögzített számértéke legyen 9 192 631 770, amely Hz egységben van kifejezve, ami megegyezik a s<sup>–1</sup>-nel.
+
+2\. A hosszúság mértékegysége a méter; jele: m.
+
+Definíció szerint a vákuumbeli fénysebesség (c) rögzített számértéke legyen 299 792 458, amely m/s egységben van kifejezve, ahol a másodpercet Δν<sub>Cs</sub> határozza meg.
+
+3\. A tömeg mértékegysége a kilogramm; jele: kg.
+
+Definíció szerint a Planck-állandó (h) rögzített számértéke legyen 6,626 070 15 × 10<sup>–34</sup>, amely J × s egységben van kifejezve, ami megegyezik a kg × m<sup>2</sup> × s<sup>–1</sup>-nel, ahol a métert és a másodpercet c, illetve Δν<sub>Cs</sub> határozza meg.
+
+4\. Az áramerősség mértékegysége az amper; jele: A.
+
+Definíció szerint az elemi töltés (e) rögzített számértéke legyen 1,602 176 634 × 10<sup>–19</sup>, amely C egységben van kifejezve, ami megegyezik az A × s-mal, ahol a másodpercet Δν<sub>Cs</sub> határozza meg.
+
+5\. A termodinamikai hőmérséklet mértékegysége a kelvin; jele: K.
+
+Definíció szerint a Boltzmann-állandó (k) rögzített számértéke legyen 1,380 649 × 10<sup>–23</sup>, amely J × K<sup>–1</sup> egységben van kifejezve, ami megegyezik a kg × m<sup>2</sup> × s<sup>–2</sup> × K<sup>–1</sup>-nel, ahol a kilogrammot, a métert és a másodpercet\
+h, c, illetve Δν<sub>Cs</sub> határozza meg.
+
+6\. Az anyagmennyiség mértékegysége a mól; jele: mol.
+
+Egy mól pontosan 6,022 140 76 × 10<sup>23</sup> elemi egységet tartalmaz. Ez a szám az Avogadro-állandó (N<sub>A</sub>) rögzített értéke mol<sup>–1</sup> egységben kifejezve, az ún. Avogadro-szám.
+
+Az anyagmennyiség (jele: n) egy rendszer meghatározott elemi egységei számának a mérőszáma. Az elemi egység lehet atom, molekula, ion, elektron, bármely más részecske vagy meghatározott részecskecsoport.
+
+7\. A fényerősség mértékegysége a kandela; jele: cd.
+
+Definíció szerint az 540 × 10<sup>12</sup> Hz frekvenciájú monokromatikus sugárzás fényhatásfoka állandójának K<sub>cd</sub> rögzített számértéke legyen 683, amely lm × W<sup>–1</sup> egységben van kifejezve, ami megegyezik a cd × sr × W<sup>–1</sup>-nel, vagy\
+a cd × sr × kg<sup>–1</sup> × m<sup>–2</sup> × s<sup>3</sup>-nal, ahol a kilogrammot, a métert és a másodpercet h, c és Δν<sub>Cs</sub> határozza meg.
+
+II. Fejezet
+
+***Az SI rendszer származtatott egységei***
+
+(1) Az SI-alapegységekből és a kiegészítő SI-egységekből koherens módon származtatott egységek, amelyek a SI-alapegységek és/vagy kiegészítő SI-egységek hatványainak az 1 numerikus tényezővel képzett szorzatainak algebrai kifejezései.
+
+A származtatott egységek az alapegységeken kívül az úgynevezett külön nevű egységek segítségével is kifejezhetők.
+
+A külön nevű és jelű származtatott egységek a következők:
+
+1\. A frekvencia mértékegysége a hertz;
+
+jele: Hz. 1 Hz = 1 s<sup>–1</sup>
+
+2\. Egy radionuklid aktivitásának mértékegysége a becquerel;
+
+jele: Bq. 1 Bq = 1 s<sup>–1</sup>
+
+3\. Az erő mértékegysége a newton;
+
+jele: N. 1 N = 1 m × kg × s<sup>–2</sup>
+
+4\. A nyomás és felületi feszültség mértékegysége a pascal;
+
+jele: Pa. 1 Pa = 1 N × m<sup>–2</sup>
+
+5\. Az energia, munka, hőmennyiség mértékegysége a joule;
+
+jele: J. 1 J = 1 N × m
+
+6\. A teljesítmény mértékegysége a watt;
+
+jele: W. 1 W = 1 J × s<sup>–1</sup>
+
+7\. Az elnyelt sugárdózis, a fajlagos átadott energiamennyiség, kerma, elnyelt dózisindex mértékegysége a gray;
+
+jele: Gy. 1 Gy = 1 J × kg<sup>–1</sup>
+
+8\. A dózisegyenérték, mértékegysége a sievert;
+
+jele: Sv. 1 Sv = 1 J × kg<sup>–1</sup>
+
+9\. A villamos (elektromos) töltés mértékegysége a coulomb;
+
+jele: C. 1 C = 1 A × s
+
+10\. A villamos (elektromos) feszültség, feszültségkülönbség, elektromotoros erő mértékegysége a volt;
+
+jele: V. 1 V = 1 W × A<sup>–1</sup>
+
+11\. A villamos (elektromos) kapacitás mértékegysége a farad;
+
+jele: F. 1 F = 1 C × V<sup>–1</sup>
+
+12\. A villamos (elektromos) ellenállás mértékegysége az ohm;
+
+jele: Ω 1 Ω = 1 V × A<sup>–1</sup>
+
+13\. A villamos (elektromos) vezetőképesség mértékegysége a siemens;
+
+jele: S. 1 S = 1 Ω<sup>–1</sup>
+
+14\. A mágneses fluxus mértékegysége a weber;
+
+jele: Wb. 1 Wb = 1 V × s
+
+15\. A mágneses indukció mértékegysége a tesla;
+
+jele: T. 1 T = 1 Wb × m<sup>–2</sup>
+
+16\. Az induktivitás mértékegysége a henry;
+
+jele: H. 1 H = 1 Wb × A<sup>–1</sup>
+
+17\. A fényáram mértékegysége a lumen;
+
+jele: lm. 1 lm = 1 cd × sr
+
+18\. A megvilágítás mértékegysége a lux;
+
+jele: lx. 1 lx = 1 lm × m<sup>–2</sup>
+
+19\. A katalitikus aktivitás mértékegysége a katal;
+
+jele: kat. 1 kat = 1 mol × s<sup>–1</sup>
+
+20\. A síkszög mértékegysége a radián;
+
+jele: rad. 1 rad = 1 m × m<sup>–1</sup> = 1
+
+21\. A térszög mértékegysége a szteradián;
+
+jele: sr. 1 sr = 1 m<sup>2</sup> × m<sup>–2</sup> = 1
+
+22\. A hőmérséklet származtatott SI egységének speciális megnevezése és jele a Celsius hőmérséklet kifejezésére: A t Celsius hőmérsékletet a T és T<sub>0</sub> két termodinamikai hőmérséklet közötti különbség határozza meg, ahol T<sub>0</sub> = 273,15 K. A hőmérsékleti tartomány vagy különbség mind kelvinekben, mind Celsius-fokokban kifejezhető. A „Celsius-fok” egység a ,,kelvin” egységgel egyenlő. Jele: <sup>o</sup>C.
+
+(2) Az alap- és származtatott mértékegység többszöröseit és törtrészeit az egység neve elé illesztett, egy-egy szorzót jelentő, alább felsorolt prefixumok (SI-prefixumok) segítségével lehet képezni:
+
+| **Prefixum neve** | **Prefixum jele** | **A prefixummal jelképezett szorzó** |
+|---|---|---|
+| yotta | Y | 10<sup>24</sup> |
+| zetta | Z | 10<sup>21</sup> |
+| exa | E | 10<sup>18</sup> |
+| peta | P | 10<sup>15</sup> |
+| tera | T | 10<sup>12</sup> |
+| giga | G | 10<sup>9</sup> |
+| mega | M | 10<sup>6</sup> |
+| kilo | k | 10<sup>3</sup> |
+| hekto | h | 10<sup>2</sup> |
+| deka | da | 10<sup>1</sup> |
+| deci | d | 10<sup>–1</sup> |
+| centi | c | 10<sup>–2</sup> |
+| milli | m | 10<sup>–3</sup> |
+| mikro | μ | 10<sup>–6</sup> |
+| nano | n | 10<sup>–9</sup> |
+| piko | p | 10<sup>–12</sup> |
+| femto | f | 10<sup>–15</sup> |
+| atto | a | 10<sup>–18</sup> |
+| zepto | z | 10<sup>–21</sup> |
+| yocto | y | 10<sup>–24</sup> |
+
+Az SI egységek decimális többszöröseinek és osztóinak külön engedélyezett nevei és jelei
+
+| Mennyiség | neve | jele | értéke |
+|---|---|---|---|
+| térfogat | liter | l vagy L | 1 l = 1 dm<sup>3</sup> |
+| tömeg | tonna | t | 1 t = 10<sup>3</sup> kg |
+
+(3) SI egységek alapján meghatározott egységek, amelyek azonban azok nem decimális többszörösei vagy osztói
+
+<table><thead><tr><th>**Mennyiség**</th><th>**neve**</th><th>**jele**</th><th>**értéke**</th></tr></thead><tbody><tr><td rowspan="5">Síkszög</td><td>fordulat</td><td>(nincs)</td><td>1 fordulat = 2 π rad</td></tr><tr><td>újfok</td><td>újfok</td><td></td></tr><tr><td>fok</td><td>°</td><td></td></tr><tr><td>szögperc</td><td>’</td><td></td></tr><tr><td>szögmásodperc</td><td>”</td><td></td></tr><tr><td rowspan="3">Idő</td><td>perc</td><td>min</td><td>1 min = 60 sec</td></tr><tr><td>óra</td><td>h</td><td>1 h = 3600 sec</td></tr><tr><td>nap</td><td>d</td><td>1 nap = 86 400 sec</td></tr><tr><td>Sebesség</td><td>kilométer/óra</td><td>km/h</td><td></td></tr><tr><td>Munka, energia</td><td>wattóra</td><td>Wh</td><td>1 Wh = 3600 J</td></tr></tbody></table>
+
+III. Fejezet
+
+**Az SI alapegységektől függetlenül meghatározott mértékegységek**
+
+(1) Atomi tömegegység; jele: u.
+
+Az atomi tömegegység a szabad és nyugalmi állapotú szén <sup>12</sup>C atom tömegének 12-ed része.
+
+(2) Elektronvolt; jele: eV.
+
+Az elektronvolt az a mozgási energia, amelyre az elektron akkor tesz szert, ha vákuumban 1 volt potenciálkülönbségen halad át.
+
+IV. Fejezet
+
+***A Nemzetközi Mértékegység-rendszeren kívüli, kizárólag meghatározott szakterületen használható törvényes mértékegységek***
+
+HOSSZÚSÁG
+
+(1) Csak a légi és tengeri hajózásban használható hosszúság-mértékegység a tengeri mérföld.
+
+1 tengeri mérföld = 1852 m
+
+(2) Csak a csillagászatban használható hosszúság-mértékegység a csillagászati (asztronómiai) egység.
+
+1 csillagászati egység = 1,496 × 10<sup>11</sup> m
+
+(3) Csak a csillagászatban használható hosszúság-mértékegység a parszek; jele: pc.
+
+1 pc = 3,0857 × 10<sup>16</sup> m (közelítő érték)
+
+(4) Csak a csillagászatban használható hosszúság-mértékegység a fényév.
+
+1 fényév = 9,460 × 10<sup>15</sup> m (közelítő érték)
+
+(5) A tengeri mérfölddel, a csillagászati egységgel, a parszekkel és a fényévvel kapcsolatban SI-prefixumok nem használhatók.
+
+TERÜLET
+
+(1) Csak földterület meghatározására használható terület-mértékegység a hektár; jele: ha.
+
+1 ha = 10 000 m<sup>2</sup> = 10<sup>4</sup> m<sup>2</sup>
+
+(2) A hektárral kapcsolatban SI-prefixumok nem használhatók.
+
+NYOMÁS
+
+(1) Csak folyadékok és gázok nyomásának meghatározására használható nyomás-mértékegység a bar; jele: bar.
+
+1 bar = 100 000 Pa = 10<sup>5</sup> Pa
+
+(2) Orvosi vérnyomásmérő készülékeknél használható a higanyoszlop-milliméter; jele: mmHg.
+
+1 mmHg = 133,322 Pa
+
+TELJESÍTMÉNY
+
+(1) Csak villamos látszólagos teljesítmény meghatározására használható teljesítmény-mértékegység a voltamper; jele: VA.
+
+1 VA = 1 W
+
+(2) Csak elektromos meddő teljesítmény meghatározására használható teljesítmény-mértékegység a var; jele: var.
+
+1 var = 1 W.
+
+## 2. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^81]
+
+**Kötelező hitelesítésű mérőeszközök**
+
+| Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
+|---|---|---|
+|  | I. fejezet |  |
+|  | A közérdekkel, a közegészségüggyel, a közbiztonsággal, a közrenddel, a környezetvédelemmel, a fogyasztóvédelemmel, az adók és vámok kivetésével, valamint a tisztességes kereskedelemmel kapcsolatosan mérési feladatokra használt: |  |
+| 1. | Vízmérők |  |
+|  | *a)* bekötési és törzshálózati | 8 |
+|  | *b)* mellékvízmérő elszámolásra | 8 |
+|  | *c)* mellékvízmérő költségmegosztásra | korlátlan |
+|  | *d)* telki vízmérő | 8 |
+| 2. | Gázmérők és számító egységek |  |
+| 2.1. | 6 m<sup>3</sup>/h és ennél kisebb névleges méréshatárú első hitelesítése | 12 |
+| 2.2. | 6 m<sup>3</sup>/h-nál kisebb névleges méréshatárú, felújított | 10 |
+| 2.3. | 6 m<sup>3</sup>/h-nál nagyobb névleges méréshatárú | 5 |
+| 3. | Hatásos villamos energia mérésére szolgáló fogyasztásmérők | 12 |
+| 4. | Hőfogyasztás-mérők | 6 |
+| 5. | Víztől eltérő folyadékok mennyiségének folyamatos és dinamikus mérésére szolgáló mérőrendszerek ásványolajtermék, sör, pezsgő és köztes termék, LPG, cseppfolyósított kriogén gáz üzemanyag, alkoholtermék, tej mérésére | 1 |
+| 6. | Automatikus mérlegek | 2 |
+| 7. | Viteldíjjelzők | 2 |
+| 8. | Anyagi mértékek |  |
+|  | *a)* tartályszintmérő szalag és mérőléc | 10 |
+|  | *b)* egyéb anyagi mérték (hosszmérték, italkiszolgáló térfogatmérték) | korlátlan |
+| 9. | Kiterjedést mérő műszerek (hosszúságmérő, területmérő, térbeli kiterjedésmérő) | 2 |
+| 10. | Kipufogógáz-elemző műszerek | 1 |
+|  | II. fejezet |  |
+| 11. | Nem automatikus működésű mérlegek |  |
+|  | *a)* amelyek tömeg meghatározására szolgálnak |  |
+|  | – kereskedelmi ügyleteknél |  |
+|  | – vám, illeték, tarifa, adó, bírság, díj vagy hasonló típusú fizetéseknél |  |
+|  | – jogszabályok vagy más szabályok alkalmazása, illetve szakértői vélemények bíróság részére történő adása során |  |
+|  | – gyógyszerek és gyógyhatású készítmények gyógyszertárban történő előállítása, valamint az orvosi és gyógyszertári laboratóriumokban végzett analízisek során | 2 |
+|  | *b)* amelyek a mért tömeg alapján az ár meghatározására szolgálnak, az áruk fogyasztók részére történő előrecsomagolása, illetve egyéb módon történő közvetlen értékesítés során | 2 |
+|  | III. fejezet |  |
+| 12. | Súlyok (E1, E2, F1, F2, M1, M2, M3 pontosságú, valamint a “közepes” pontosságú) | 2 |
+| 13. | Közúti kerék- és tengelyterhelés-mérők, tengelyterhelés-mérők alatt értve a mozgásban lévő közúti járművek tengelyterhelésének hatósági ellenőrzésre és bizonyításra használt mérésére szolgáló automatikus működésű mérőeszközöket is | 2 |
+| 14. | Közúti ellenőrzésre szolgáló járműsebesség-mérők | 2 |
+| 15. | Gépjármű-gumiabroncsnyomás mérők | 2 |
+| 16. | folyamatos sűrűségmérők és sűrűség távadók | 2 |
+| 17. | Sugárvédelmi és gyógyászati alkalmazású dózismérők és felületi szennyezettségmérők, radon-mérő eszközök | 2 |
+| 18. | Környezetvédelmi, munkavédelmi és egyéb hatósági ellenőrzésre használt zajszintmérők | 2 |
+| 19. | Szerencsejáték céljára szolgáló eszközök | 2 |
+| 20. | Áram- és feszültség mérőváltók 0,5 pontossági osztályba tartozók, vagy pontosabbak | korlátlan |
+| 21. | a jövedéki adóról szóló törvény végrehajtását biztosító, folyékony halmazállapotú jövedéki termékek raktározási és tárolási folyamatai során a minőség és mennyiség megállapítását ellenőrzés céljából szolgáló I/5 pontban nem szereplő eszközök |  |
+|  | a) tartály első hitelesítés | 5 |
+|  | b) tartály további hitelesítés | 15 |
+|  | c) tároló- és szállítótartályban használt tartályszintmérő készülék | 2 |
+|  | d) szeszmérőgép | 10 |
+|  | e) szeszfokmérő | korlátlan |
+| 22. | Légzési alkoholmérők | 1 |
+| 23. | Az I/5. pontba nem tartozó üzemanyagmérők | 1 |
+
+<sup>4</sup> A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
+
+## 3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^82]
+
+**A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja**
+
+1\. A törvényes tanúsító jelet a mérőeszköz
+
+a) külső felületén vagy
+
+b) adattábláján, illetve a felületen e célra szolgáló helyen, vagy
+
+c) burkolatának felbontásakor egymáshoz képest elmozduló részek felületén kialakított, átfúrt elemeken átfűzött huzalos záróbélyeg fémpogácsáján (nyomóbélyegzés nyomóbélyegzővel lezárt fémzárral – plomba)
+
+helyezi el a hitelesítést végző kormánytisztviselő vagy állami tisztviselő.
+
+A törvényes nemzeti tanúsító és lezáró jelek típusai:
+
+1.1. A hitelesítettség tanúsítására szolgáló bélyegzések
+
+a) A hitelesítő fémzár (plomba), valamint a hitelesítő lenyomat (bélyeg) leírása, rajzolata:
+
+Körkeretben a Szent Korona stilizált jele.
+
+A Szent Korona két oldalán a hitelesítés évének két utolsó számjegye.
+
+A Szent Korona alatt középen a hitelesítő azonosító jelölése.
+
+![](https://njt.jog.gov.hu/picture/74/74061991_22__20000127AFE6_025_0.jpg)
+
+b) A hitelesítő öntapadó matrica leírása, rajzolata:
+
+Fekvő téglalap alakú, keretes mezőben, bal oldalon a Szent Korona stilizált jele. A Szent Korona mellett a ,,HITELES” felirat. A keretes mező alsó részén egyedi azonosító jelölés.
+
+A keretes mező körül a mérésügyi szervezet − tájékoztatás céljából − feltüntetheti a hitelesítés évének két utolsó számjegyét a hitelesítés hónapja megjelölésével.
+
+![](https://njt.jog.gov.hu/picture/77/77211991_22__20000127AFE6_025_1.jpg)
+
+1.2. A hitelesített mérőeszköz háza szerkezeti egységeinek felbontása elleni lezáró lenyomatok (bélyegzések) és lezáró matricák
+
+a) A lezáró lenyomatok (bélyegzések) leírása, valamint rajzolata megegyezik az 1.1. a) pont alatti hitelesítő lenyomat leírásával, rajzolatával.
+
+b) A lezáró öntapadó matrica leírása, rajzolata:
+
+Fekvő téglalap alakú mezőben a ,,LEZÁRÓ” felirat. A felirat alatt azonosító jelölés.
+
+![](https://njt.jog.gov.hu/picture/9b/9b401991_22__20000127AFE6_025_2.jpg)
+
+2\. Mérőeszköz-minősítés tanúsítására szolgáló bélyegzések
+
+2.1. A minősítő fémzár (plomba), valamint a minősítő lenyomat (bélyeg) leírása, rajzolata:
+
+Hatszög keretben a Szent Korona stilizált jele.
+
+A Szent Korona két oldalán a minősítés évének két utolsó számjegye.
+
+A Szent Korona alatt a minősítő azonosító jelölése.
+
+![](https://njt.jog.gov.hu/picture/a0/a0a11991_22__20000127AFE6_025_3.jpg)
+
+2.2. Öntapadó minősítő matrica leírása, rajzolata:
+
+Fekvő, hosszúkás nyolcszög alakú mezőben, bal oldalon a Szent Korona stilizált rajzolata.
+
+A Szent Korona mellett a „MÉRŐESZKÖZ MINŐSÍTÉS” felirat.
+
+A mező alsó részén azonosító jelölés, alatta a minősítés éve található.
+
+![](https://njt.jog.gov.hu/picture/2d/2d7e1991_22__20000127AFE6_025_4.jpg)
+
+---
+
+[^1]: A Vhr. 1. §-a a 68/2000. (V. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A Vhr. 1. §-ának (1)–(2) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 7. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^3]: A Vhr. 1. §-ának (3) bekezdését a 136/2004. (IV. 29.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 80/2018. (IV. 20.) Korm. rendelet 2. §-a.
+[^5]: A Vhr. 3. §-ának új (1) bekezdését a 294/2001. (XII. 26.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^6]: A Vhr. 3. §-a eredeti (1) bekezdésének számozását a 294/2001. (XII. 26.) Korm. rendelet 1. §-a (2) bekezdésre változtatta.
+[^7]: A Vhr. 3. §-a eredeti (2) bekezdésének számozását a 294/2001. (XII. 26.) Korm. rendelet 1. §-a (3) bekezdésre változtatta.
+[^8]: A Vhr. 4. §-ának (1) bekezdése a 309/2005. (XII. 25.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
+[^9]: A Vhr. 4. §-ának (2) bekezdése a 68/2000. (V. 19.) Korm. rendelet 9. §-a (1) bekezdésének d) pontja szerint módosított szöveg.
+[^10]: A Vhr. 4. §-ának (5) bekezdése a 68/2000. (V. 19.) Korm. rendelet 9. §-a (1) bekezdésének b) pontja, a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^11]: A Vhr. 5. §-ának (2) bekezdése a 68/2000. (V. 19.) Korm. rendelet 2. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A Vhr. 5. §-ának (3) bekezdését a 68/2000. (V. 19.) Korm. rendelet 9. §-a (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^13]: A Vhr. 5. § (4) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
+[^14]: A Vhr. 5/A. §-át a 309/2005. (XII. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A Vhr. 6. §-ának (2) bekezdése a 294/2001. (XII. 26.) Korm. rendelet 2. §-ával megállapított, valamint a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A Vhr. 6. § (3) bekezdésének bevezető és záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 26. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A Vhr. 6. § (3) bekezdésének a) pontját a 182/2009. (IX. 10.) Korm. rendelet 26. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A Vhr. 6. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A Vhr. 6. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A Vhr. 6. §-ának (6) bekezdése a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^21]: A Vhr. 6. §-ának (7) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 26. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A Vhr. 6. §-ának (8) bekezdését a 68/2000. (V. 19.) Korm. rendelet 3. §-ának (1) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 26. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A Vhr. 6. §-ának új (9) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (9)–(10) bekezdésének számozását (10)–(11) bekezdésre változtatta. A Vhr. 6. §-ának (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 26. §-a hatályon kívül helyezte. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A Vhr. 6. §-ának (9) bekezdése a 294/2001. (XII. 26.) Korm. rendelet 3. §-ával megállapított szöveg. A 6. § (9) bekezdésének számozását (10) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 1. §-a. A Vhr. 6. §-ának (10) bekezdése a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A Vhr. 6. § eredeti (10) bekezdésének számozását (11) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 1. §-a, szövege a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A Vhr. 6/A. §-át a 294/2001. (XII. 26.) Korm. rendelet 4. §-a iktatta be, szövege a 136/2004. (IV. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A Vhr. 6/A. § (1) bekezdését a 178/2019. (VII. 18.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^28]: A Vhr. 6/A. §-ának (2) bekezdése a 309/2005. (XII. 25.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
+[^29]: A mérőeszközökről és azok mérésügyi ellenőrzéséről szóló 6/2001. (III. 19.) GM rendelet.
+[^30]: Pl. a nem automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló 62/2004. (IV. 24.) GKM rendelet.
+[^31]: A Vhr. 6/A. §-ának (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 26. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A Vhr. 6/A. §-ának (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 26. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A Vhr. 6/A. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 26. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A Vhr. 6/A. § (6) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
+[^35]: A Vhr. 7. §-ának új (1) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (1)–(3) bekezdésének számozását (2)–(4) bekezdésre változtatta. A Vhr. 7. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A Vhr. 7. §-a eredeti (1) bekezdésének számozását (2) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 2. §-a.
+[^37]: A Vhr. 7. § (2) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte. A Vhr. 7. §-a eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 2. §-a.
+[^38]: A Vhr. 7. §-a eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 2. §-a.
+[^39]: A Vhr. 8. §-a (3) bekezdésének b) pontja a 309/2005. (XII. 25.) Korm. rendelet 6. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A Vhr. 8. §-ának új (4) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (4)–(6) bekezdésének számozását (5)–(7) bekezdésre változtatta. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^41]: A Vhr. 8. §-a eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 3. §-a, szövege a 7. § (4) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^42]: A Vhr. 8. § (6) bekezdését a 217/2008. (VIII. 29.) Korm. rendelet 16. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^43]: A Vhr. 8. §-a eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 266/2006. (XII. 20.) Korm. rendelet 3. §-a.
+[^44]: A Vhr. 8. §-ának (8) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^45]: A Vhr. 9. §-ának (1) bekezdése a 136/2004. (IV. 29.) Korm. rendelet 3. §-ának (1) bekezdése, a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének b) pontja, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A Vhr. 9. §-ának (2) bekezdése a 68/2000. (V. 19.) Korm. rendelet 4. §-a iktatta a szövegbe.
+[^47]: Lásd az 1991: XXXIV. törvényt.
+[^48]: A Vhr. 9. §-ának (3) bekezdése a 309/2005. (XII. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: A Vhr. 9. §-ának (6) bekezdése a 68/2000. (V. 19.) Korm. rendelet 5. §-ával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^50]: A Vhr. 9. §-ának (7) bekezdése a 294/2001. (XII. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^51]: A Vhr. 9. §-ának (8) bekezdése a 266/2006. (XII. 20.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A Vhr. 9. §-ának (9) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
+[^53]: A Vhr. 10. §-ának új (2) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 8. §-a iktatta be, egyidejűleg az eredeti (2) bekezdésének számozását (3) bekezdésre változtatta. A Vhr. 10. § (2) bekezdésének záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 26. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A Vhr. 10. §-a eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 309/2005. (XII. 25.) Korm. rendelet 8. §-a, szövege a 182/2009. (IX. 10.) Korm. rendelet 26. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A Vhr. 10. §-ának (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 24. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^56]: A Vhr. 10/A. §-át a 309/2005. (XII. 25.) Korm. rendelet 9. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 216/2023. (VI. 1.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^57]: A Vhr. 11. §-ának (1)–(2) bekezdését a 266/2006. (XII. 20.) Korm. rendelet 7. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^58]: A Vhr. 11. §-ának (3)–(5) bekezdését a 68/2000. (V. 19.) Korm. rendelet 9. §-a (1) bekezdésének d) pontja hatályon kívül helyezte.
+[^59]: A Vhr. 12. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 24. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^60]: Végrehajtására lásd a 22/1992. (X. 20.) HM rendeletet.
+[^61]: A Vhr. 12. § (3) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^63]: A Vhr. 13. §-ának (1) bekezdését a 136/2004. (IV. 29.) Korm. rendelet 5. §-a (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^64]: A Vhr. 13. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^65]: A Vhr. 13. § (2) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 25. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^66]: A Vhr. 13. §-ának (2) bekezdésének b) pontja a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének d) pontja, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^67]: A Vhr. 13. §-ának (2) bekezdésének c) pontja a 266/2006. (XII. 20.) Korm. rendelet 7. § (4) bekezdésének d) pontja szerint módosított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni.
+[^70]: A Vhr. eredeti 15. §-ának számozását 16. §-ra változtatta a 196/1997. (XI. 12.) Korm. rendelet 2. § (1) bekezdése, a 16. § a 118/2008. (V. 8.) Korm. rendelet 1. § 1491. pontja szerint módosított szöveg.
+[^71]: A Vhr. 16/A. §-t a 247/2012. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^72]: A hatálybalépés időpontja 2012. szeptember 1.
+[^73]: A Vhr. 16/B. §-t a 344/2016. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^74]: A hatálybalépés időpontja 2016. november 18.
+[^75]: A Vhr. 16/C. §-át a 66/2017. (III. 22.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^76]: A Vhr. 16/D. §-t a 178/2019. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^77]: A Vhr. 17. §-át a 196/1997. (XI. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^78]: A Vhr. 17. § h) pontját a 190/2020. (V. 7.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A Vhr. 18. §-t a 178/2019. (VII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^80]: A Vhr. 1. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 24. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 5. § (3) bekezdése, a 190/2020. (V. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^81]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a, a 405/2015. Korm. rendelet 1. §-a, a 344/2016. (XI. 17.) Korm. rendelet 2. §-a, a 423/2016. (XII. 14.) Korm. rendelet 1. §-a, a 419/2016. (XII. 14.) Korm. rendelet 1. §-a, a 80/2018. (IV. 20.) Korm. rendelet 1. §-a, a 178/2019. (VII. 18.) Korm. rendelet 3. §-a, a 216/2023. (VI. 1.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^82]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 66/2017. (III. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

@@ -1,0 +1,165 @@
+---
+title: "198/2007. (VII. 30.) Korm. rendelet a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében foglalt eljárási szabályok megállapításáról"
+identifier: "198/2007. (VII. 30.) Korm. rendelet"
+njt_id: "2007-198-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/198"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-07-30
+in_force_from: 2009-10-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-198-20-22"
+retrieved: 2026-10-12
+---
+
+# 198/2007. (VII. 30.) Korm. rendelet a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében foglalt eljárási szabályok megállapításáról
+
+A Kormány a légiközlekedésről szóló 1995. évi XCVII. törvény 73. §-a (3) bekezdésének g) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## Alkalmazási kör
+
+### 1. §[^1]
+
+E rendelet alkalmazásában korlátozott légiközlekedési jognak minősül Magyarország és az Európai Unión kívüli harmadik országok között fennálló kétoldalú légiközlekedési egyezményen alapuló olyan légiközlekedési jog, amelyet a kétoldalú egyezmény értelmében csak korlátozott számú vagy egyetlen légifuvarozó vehet igénybe, vagy amikor a kétoldalú légiközlekedési egyezmény a közlekedési jogok igénybevételére vonatkozó egyéb korlátozásokat (pl. frekvencia, kapacitás, leszállási pontok) határoz meg.
+
+## A felhatalmazás hatálya[^2]
+
+### 2. §
+
+(1)[^3] A korlátozott légiközlekedési joggal üzemeltethető légiútvonalra szóló felhatalmazás a légiközlekedési hatóság által a légiszolgáltatás kezdő időpontjaként meghatározott napot követő tizenkettő egymást követő a Légiszállítók Nemzetközi Szövetsége (a továbbiakban: IATA) által alkalmazott menetrendi időszakban hatályos.
+
+(2) A felhatalmazás, illetve az abban foglalt jogok nem ruházhatók át.
+
+## Légiközlekedési jogokkal kapcsolatos tárgyalások
+
+### 3. §
+
+(1)[^4] Magyarorság és az Európai Unión kívüli harmadik országok között rendelkezésre álló korlátozott légiközlekedési jogokra és e jogokkal kapcsolatos légiközlekedési tárgyalásokra vonatkozó információkat a légiközlekedési hatóság 45 nappal a tárgyalásokat megelőzően saját honlapján teszi közzé.
+
+(2) A honlapon közzétett tájékoztatásnak tartalmaznia kell a tárgyalás tervezett tartalmát és időpontját.
+
+(3)[^5] Magyarország területén letelepedett közösségi légifuvarozó (a továbbiakban: közösségi légifuvarozó) a felhatalmazásra irányuló kérelmet az információ közzétételének napjától számított 30 napon belül nyújthatja be.
+
+(4) A közösségi légifuvarozó a harmadik országgal tervezett tárgyalást megelőzően a honlapon közzétett határidőn belül írásban értesíti a légiközlekedési hatóságot az adott harmadik országgal kapcsolatos üzemeltetési szándékáról, amennyiben azt korlátozott légiközlekedési joggal üzemeltethető légiútvonalon tervezi megvalósítani.
+
+## Kihasználatlan korlátozott légiközlekedési jogok
+
+### 4. §
+
+(1)[^6] Magyarország és az Európai Unión kívüli harmadik országok közötti kihasználatlan korlátozott légiközlekedési jogról a légiközlekedési hatóság honlapján tájékoztatást tesz közzé.
+
+(2)[^7] A kihasználatlan korlátozott légiközlekedési jog igénybevételére elsőként benyújtott kérelemről az annak beérkezését követő naptól számított hét napon belül a légiközlekedési hatóság honlapján tájékoztatást tesz közzé. Más közösségi légifuvarozó az elsőként benyújtott kérelemről szóló tájékoztatás közzétételétől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen légiközlekedési jog igénybevétele iránt. A légiközlekedési hatóság a határidőig beérkezett valamennyi kérelemről tájékoztatást tesz közzé a honlapján.
+
+## Eljárás
+
+### 5. §
+
+(1) A korlátozott légiközlekedési jog igénybevételére benyújtott kérelemnek a következőket kell tartalmaznia:
+
+a)[^8] a légitársaság hárombetűs azonosító kódja;
+
+b) a tervezett légiközlekedési szolgáltatás részletes ismertetése (heti járatszám, légijármű típuscsalád, maximális üléshelyek száma, esetleges közbenső leszállások, a szolgáltatás időtartama);
+
+c) a tervezett légiközlekedési szolgáltatásra vonatkozó üzleti terv;
+
+d) a tervezett szolgáltatás kezdési időpontja;
+
+e) a szolgáltatás jellege: személy, áru, posta, a szolgáltatás jellemzői;
+
+f) amennyiben a közösségi légifuvarozó rendelkezik fennálló útvonal hálózattal, az ahhoz való kapcsolódás;
+
+g) az útvonalra vonatkozó viteldíj.
+
+(2) A kérelemhez a közösségi légifuvarozó köteles csatolni a külön jogszabályban meghatározott eljárási díj befizetéséről szóló igazolást.
+
+### 6. §
+
+(1) A kérelmek értékelése során a légiközlekedési hatóság az 5. § (1) bekezdése alapján beérkezett adatok figyelembevételével gazdasági elemzést végez, amelyben kitér a fogyasztók számára nyújtott előnyökre, a Közösségen belüli versenyre gyakorolt hatásokra és az adott útvonal utas- és áruforgalmi viszonyaira is. A légiközlekedési hatóság kidolgozza és honlapján közzéteszi az elemzés alapjául szolgáló szempontrendszert.
+
+(2)[^9] Ha a légiközlekedési hatóság az eljárás során közmeghallgatást tart, a közmeghallgatáson elhangzottakról készített jegyzőkönyvet a hatóság a honlapján közzéteszi. A kérelmet benyújtó légitársaságok a közzétételtől számított 3 napon belül a jegyzőkönyvet véleményezhetik.
+
+(2a)[^10] A közmeghallgatás a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján is megtartható.
+
+(2b)[^11] A közmeghallgatás az érintettek személyes megjelenése nélkül, honlapon való közzététel útján is megtartható. A közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek, és kérdéseket tehetnek fel. A légiközlekedési hatóság – szükség szerint az érintett egyéb szervek, illetve a kérelmező ügyfél bevonásával – a beérkezett észrevételekkel kapcsolatos tájékoztatását a honlapján közzéteszi. A kérelmet benyújtó légitársaságok a közzétételtől számított 3 napon belül a tájékoztatást véleményezhetik.
+
+(3)[^12] A légiközlekedési hatóság a meghirdetett, kihasználatlan légiközlekedési joggal üzemeltethető légiútvonalra szóló felhatalmazásról két hónapon belül dönt.
+
+(4) A felhatalmazást az átfogó értékelést követően a légiközlekedési hatóság annak a kérelmezőnek adja meg, amelynek ajánlata a legkedvezőbbnek bizonyul, különösen az utas-, illetve áruszállítási, a piaci versenyt élénkítő és a közösségi légiközlekedési piac kiegyensúlyozott fejlődését elősegítő szempontok tekintetében.
+
+## Jogorvoslat
+
+### 7. §
+
+(1)[^13]
+
+(2)[^14] A közigazgatási per során hozott határozat rendelkező részét a légiközlekedési hatóság honlapján közzéteszi, annak kézhezvételétől számított három napon belül.
+
+## A felhatalmazás felülvizsgálata
+
+### 8. §
+
+(1) A légiközlekedési hatóság folyamatosan figyelemmel kíséri a felhatalmazás alapján végzett légiközlekedési szolgáltatást.
+
+(2) Amennyiben azt bármely közösségi légifuvarozó kéri, a légiközlekedési hatóság legkorábban a felhatalmazás kiadását követő tíz egymást követő menetrendi időszak elteltével a felhatalmazást felülvizsgálja, a 6. § (4) bekezdés szerinti szempontok alapján.
+
+(3)[^15] A felülvizsgálatra irányuló kérelem beérkezését követő naptól számított hét napon belül a légiközlekedési hatóság a felülvizsgálatról szóló tájékoztatást tesz közzé honlapján. Más közösségi légifuvarozó a közzétételtől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen korlátozott légiközlekedési jog igénybevétele iránt. Ezt követően a felülvizsgálatra a 4–6. §-ban foglalt előírásokat kell megfelelően alkalmazni.
+
+(4)[^16] A légiközlekedési hatóság a felhatalmazás alapján végzett légiközlekedési szolgáltatástól az engedélyest a hiányok pótlásáig azonnali hatállyal eltiltja, ha a felhatalmazás jogosultja:
+
+a) nem a felhatalmazásban foglaltaknak megfelelően végzi a légiközlekedési szolgáltatást;
+
+b) elmulasztja a vonatkozó légiközlekedési megállapodás rendelkezéseinek vagy egyéb nemzetközi kötelezettségeknek a betartását, amelyek alapján a felhatalmazást kiadták;
+
+c) nem felel meg a légiközlekedési szolgáltatás végzésére vonatkozó jogszabályoknak.
+
+(5) A felhatalmazást a légiközlekedési hatóság visszavonja, amennyiben
+
+a) annak jogosultja írásban értesíti a légiközlekedési hatóságot arról, hogy a felhatalmazásban foglalt korlátozott légiközlekedési jogokat nem kívánja a továbbiakban gyakorolni,
+
+b) a felhatalmazásban szereplő légiszolgáltatás nem kezdődött meg a légiszolgáltatás kezdő időpontjaként meghatározott napot követő menetrendi időszakban,
+
+c) a felhatalmazásban szereplő légiszolgáltatást szüneteltetik, és a következő két egymást követő teljes menetrendi időszakban sem indul újra,
+
+d)[^17] eltiltás esetén a felhatalmazás jogosultja nem pótolja a felmerült hiányosságokat, az eltiltás napját követő menetrendi időszak végéig, vagy
+
+e) a harmadik ország nem fogadja el a közösségi légifuvarozó kijelölését, illetve harmadik ország illetékességgel és hatáskörrel rendelkező hatósága nem adja ki a járat végzéséhez szükséges engedélyt, vagy azt visszavonja.
+
+(6) A szükséges engedély (5) bekezdés e) pontja szerinti megtagadásáról vagy visszavonásáról a közösségi légifuvarozó 8 napon belül írásban értesíti a légiközlekedési hatóságot.
+
+(7) A felhatalmazás visszavonásáról és az adott légiközlekedési jog kihasználatlanná válásának kezdő időpontjáról a légiközlekedési hatóság honlapján tájékoztatást tesz közzé.
+
+## Átmeneti rendelkezések
+
+### 9. §
+
+Amennyiben e rendelet hatálybalépése előtt, a hatályos jogszabályok előírásainak megfelelően megkezdődött a korlátozott légiközlekedési jog igénybevétele olyan harmadik országba irányuló légiútvonal viszonylatában, amely korlátozott légiközlekedési joggal üzemeltethető, a korlátozott légiközlekedési jog felülvizsgálata e rendelet hatálybalépését követő tíz IATA által alkalmazott menetrendi időszak elteltével kérhető.
+
+## Záró rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet 2007. szeptember 1-jén lép hatályba.
+
+(2) Ez a rendelet a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+---
+
+[^1]: Az 1. § a 304/2011. (XII. 23.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^2]: A 2. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 556. §-a szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 556. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 3. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 556. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (1) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 557. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 556–557. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § (2a) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 11. §-a iktatta be.
+[^11]: A 6. § (2b) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 11. §-a iktatta be.
+[^12]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 555. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^13]: A 7. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 557. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 7. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 194. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^15]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 557. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^16]: A 8. § (4) bekezdés nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^17]: A 8. § (5) bekezdés d) pontja a 713/2020. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

@@ -1,0 +1,743 @@
+---
+title: "18/2007. (II. 20.) Korm. rendelet a transzeurópai közúthálózatnak a Magyar Köztársaság területén lévő alagútjaira vonatkozó biztonsági minimumkövetelményekről"
+identifier: "18/2007. (II. 20.) Korm. rendelet"
+njt_id: "2007-18-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/18"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-02-20
+in_force_from: 2009-10-01
+last_amended: 2025-04-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-18-20-22"
+retrieved: 2026-10-12
+---
+
+# 18/2007. (II. 20.) Korm. rendelet a transzeurópai közúthálózatnak a Magyar Köztársaság területén lévő alagútjaira vonatkozó biztonsági minimumkövetelményekről
+
+A transzeurópai közúthálózatnak a Magyar Köztársaság területén kijelölt szakaszain a biztonság, a szolgáltatások és a kényelem magas, egységes és állandó szintjének garantálása érdekében a Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a) pontjának 12. alpontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## I. Fejezet — A RENDELET ALKALMAZÁSI KÖRE
+
+#### 1. §
+
+E rendelet előírásait kell alkalmazni minden olyan működő, építés vagy tervezés alatt álló alagútra, amelynek hossza meghaladja az 500 métert.
+
+### Fogalommeghatározások
+
+#### 2. §
+
+E rendelet alkalmazásában:
+
+a)[^1] *transzeurópai közúthálózat:* a transzeurópai közlekedési hálózat fejlesztésére vonatkozó iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott közúthálózat;
+
+b)[^2] *alagút:* a transzeurópai közúthálózatnak Magyarország területén lévő, zárt földtani közegbe beágyazott vonalas műtárgya, amely a közutat valamely akadály alatt vezeti át;
+
+c) *alagút hossza:* az alagút teljesen lefedett részén mért leghosszabb forgalmi sáv hossza;
+
+d) *segélyszolgálat:* a területileg illetékes állami vagy önkormányzati fenntartású, vagy az alagút üzemeltetői állományába tartozó szolgálat, amely baleset esetén beavatkozik, ideértve a rendőrséget, tűzoltóságot és a mentőszolgálatot is;
+
+e) *működési engedély:* olyan engedély, amely a biztonsági szempontokat kielégítő alagút forgalom számára történő megnyitását, illetőleg újbóli megnyitását teszi lehetővé;
+
+f) *műszaki engedély:* olyan engedély, amely a közlekedési műszaki szempontokat kielégítő alagút építését, korszerűsítését, forgalomba helyezését és megszüntetését engedélyezi;
+
+g) *rendkívüli esemény:* az alagútban közlekedő jármű műszaki hibája, ütközése, tűz, az alagúthasználó személyi sérüléses balesete vagy a rendeltetésszerű alagúti üzemet veszélyeztető üzemi körülmény;
+
+h)[^3] *alagútkezelő:* a közlekedési hatóság (a továbbiakban: Hatóság) által kijelölt, a közúti közlekedésről szóló törvényben meghatározott közútkezelő.
+
+## II. Fejezet — BIZTONSÁGI INTÉZKEDÉSEK
+
+#### 3. §
+
+Az alagútban végrehajtandó biztonsági intézkedéseknek az építményt, annak berendezéseit, a működést, a használókat és a járműveket is magában foglaló rendszer szakmai elemzésén kell alapulnia.
+
+#### 4. §
+
+(1) Az alagútra vonatkozó biztonsági minimumkövetelményeket e rendelet 1. melléklete tartalmazza, amelyeket a tervezés, a kivitelezés és a működés során egyaránt teljesíteni kell.
+
+(2) A tervezés alatt álló alagutak kivételével amennyiben egyes, e rendelet 1. mellékletében megállapított minimumkövetelményeket csak olyan műszaki megoldásokkal lehetne teljesíteni, amelyek nem kivitelezhetőek, vagy kivitelezésük aránytalan költséggel járna, a Hatóság a minimumkövetelmények alkalmazása helyett alternatívaként elfogadhatja kockázatcsökkentő intézkedések végrehajtását, amennyiben az alternatív intézkedések azonos értékű vagy jobb védelmet biztosítanak. Ezen intézkedések hatékonyságát a 13. § szerinti kockázatelemzéssel kell alátámasztani. A közlekedésért felelős miniszter az indokolással ellátott, alternatívaként elfogadott kockázatcsökkentő intézkedésekről tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság).
+
+(3)[^4] A biztonsági minimumkövetelmények teljesítése alól a Hatóság korlátozott eltérést engedélyezhet. Erre vonatkozóan – az eljárás egyidejű felfüggesztése mellett – kérelmet nyújt be a Bizottsághoz, amely a következőket tartalmazza:
+
+a) a tervezett korlátozott mértékű eltérés,
+
+b) a tervezett korlátozott eltérés nyomós okai, valamint
+
+c) a legalább azonos biztonsági szint elérése érdekében alkalmazott vagy megerősített alternatív kockázatcsökkentő intézkedések, ideértve azok igazolását is a releváns kockázatok elemzése formájában.
+
+(4)[^5] Abban az esetben, ha a kérelemnek a Bizottság által történő átvételétől számított három hónapon belül sem a Bizottság, sem valamely tagállam nem él ellenvetéssel, a Hatóság az eljárás felfüggesztését megszünteti, és a korlátozott eltérésre irányuló kérelemnek helyt ad.
+
+(5)[^6] Ha a határozat nemleges, a Hatóság az eljárás felfüggesztését megszünteti, és a korlátozott eltérésre irányuló kérelmet elutasítja.
+
+(6)[^7] Annak érdekében, hogy a rendelet alkalmazási körébe tartozó valamennyi alagút megjelenése egységes legyen, az 1. mellékletében megállapított minimumkövetelményektől az alagút használóinak rendelkezésére álló biztonsági létesítmények kialakítását illetően (segélykérő állomások, jelzések, leálló öblök, vészkijáratok, sugárzókábeles rádióadás, amennyiben szükséges) eltérés nem engedélyezhető.
+
+## III. Fejezet — AZ ALAGUTAK BIZTONSÁGÁRÓL GONDOSKODÓ SZERVEZETEK, AZOK FELADAT- ÉS HATÁSKÖRE
+
+### A hatóság és a hatósággal kapcsolatos bejelentési kötelezettség
+
+#### 5. §
+
+(1)[^8] A működési engedély és a műszaki engedély kiadásával, valamint az alagutak biztonságával kapcsolatos egyéb hatósági hatáskört a Hatóság gyakorolja.
+
+(2)[^9] A Hatóság biztosítja, hogy az alagútban a biztonsági minimumkövetelményeknek valamennyi, e rendelet által megkövetelt szempontja érvényesüljön.
+
+(3)[^10] Amennyiben az alagút részben Magyarország, részben az Európai Unió egy másik tagállamának a területén található, a Hatóság az alagút biztonságával kapcsolatos döntések meghozatalához köteles beszerezni a másik érintett tagállam meghatározott hatóságának előzetes egyetértését.
+
+(4)[^11] A közlekedésért felelős miniszter bejelenti a Bizottságnak a Hatóság nevét és címét, valamint az ezekben bekövetkező változás esetén – a változástól számított három hónapon belül – a változás tényét és az új adatokat.
+
+#### 6. §
+
+(1) A Hatóság gondoskodik:
+
+a) az alagút rendszeres biztonsági vizsgálatáról, az ezekre vonatkozó – e rendeletben foglaltak alapján történő – biztonsági követelmények meghatározásáról;
+
+b) a segélyszolgálatok alagutakkal kapcsolatos képzésére és felszerelésére vonatkozó szervezeti és működési rendszerek, valamint a vészhelyzeti intézkedési tervek kidolgozásáról;
+
+c) rendkívüli esemény miatti azonnali lezárási rend meghatározásáról;
+
+d) a szükséges kockázatcsökkentő intézkedések végrehajtatásáról;
+
+e)[^12] az alagút kiviteli tervének a jóváhagyásáról,
+
+f)[^13] a működési engedélynek a kiadásáról,
+
+g)[^14] a működési engedélytől történő eltérések engedélyezéséről,
+
+h)[^15] a működési engedélynek – a biztonsági minimumkövetelmények sérelme esetén történő – korlátozásáról, felfüggesztéséről (a továbbiakban: az alagút lezárásáról) és azoknak a feltételeknek a meghatározásáról, amelyek teljesülése esetén az alagútban a rendeltetésszerű üzem helyreállítható, illetve az alagút a közforgalom számára újra megnyitható,
+
+i)[^16] a biztonsági minimumkövetelményektől való eltérések engedélyezéséről a 14. §-ban foglalt eljárási rend szerint.
+
+(2) Az alagút biztonságos használata érdekében a Hatóság, a biztonsági tiszt, illetve az alagútkezelő megkeresésére a segélyszolgálatok együttműködésre, illetve a feladatkörükbe tartozó szükséges intézkedések megtételére kötelesek.
+
+### Alagútkezelő
+
+#### 7. §
+
+(1)[^17] Olyan alagút esetében, amely részben Magyarország és részben az Európai Unió egy másik tagállamának területén található, az alagútnak csak egyetlen kezelője lehet. A Hatóság az alagútkezelő elismerésével kapcsolatban köteles egyeztetést kezdeményezni a másik tagállam kijelölt hatóságával.
+
+(2) A Hatóság az (1) bekezdésben meghatározott esetben alagútkezelőként a másik tagállam által kijelölt alagútkezelőt is elismerhet.
+
+#### 8. §
+
+(1) Az alagútkezelő az alagútban bekövetkezett rendkívüli eseményről jelentést készít. A jelentést legkésőbb a rendkívüli esemény bekövetkeztétől számított 8 napon belül továbbítja a biztonsági tiszthez, a Hatósághoz és az érintett segélyszolgálatokhoz.
+
+(2) Amennyiben súlyos személyi sérüléssel vagy halálesettel járó rendkívüli esemény történik, az alagútkezelő köteles vizsgálati jelentést is készíteni, amelyben elemzi a bekövetkezés körülményeit és megállapítja a szükséges következtetéseket. Az alagútkezelő a vizsgálati jelentést 30 napon belül köteles megküldeni az (1) bekezdésben megjelölt személyek, szervek részére.
+
+(3) A jelentés és a vizsgálati jelentés formáját és tartalmát a Hatóság határozza meg, figyelemmel a 15. §-ban foglalt kötelezettségére is.
+
+### Biztonsági tiszt
+
+#### 9. §
+
+(1)[^18] Az alagútkezelő minden alagút esetében kijelöl egy biztonsági tisztet. Egy biztonsági tiszt több alagút esetében is elláthatja feladatait. A biztonsági tiszt személyét a Hatóság részére be kell jelenteni. Az alagútkezelő köteles gondoskodni a biztonsági tisztség folyamatos betöltöttségéről.
+
+(2) A biztonsági tiszt az alagút használóinak és az üzemeltetésért felelős személyzetnek a biztonsága érdekében koordinálja a megelőző intézkedéseket és óvintézkedéseket.
+
+(3) Biztonsági tisztként kijelölhető az alagútkezelő üzemeltetésért felelős személyzetének tagja vagy valamely segélyszolgálat alkalmazottja. A biztonsági tiszt az alagutat érintő biztonsági kérdésekben független, e tekintetben a munkáltatója által nem utasítható.
+
+(4) Biztonsági tiszt az lehet, aki műszaki felsőoktatásban szerzett oklevéllel, legalább középfokú tűzvédelmi képzettséggel és 5 éves – e rendelet 2. § b) pontja szerinti vagy más – alagutakkal, biztonságtechnikával, illetve tűzvédelemmel kapcsolatos szakmai gyakorlattal rendelkezik, továbbá részt vesz szakirányú továbbképzéseken.
+
+#### 10. §
+
+A biztonsági tiszt:
+
+a) biztosítja a koordinációt a segélyszolgálatokkal, részt vesz ezen szervezetek alagutakkal kapcsolatos feladat- és tevékenységi körének kidolgozásában;
+
+b) részt vesz a rendkívüli esemény során megvalósítandó intézkedések megtervezésében, végrehajtásában és értékelésében;
+
+c) részt vesz a tervezésétől kezdődően a biztonságot érintő programok, az alagút szerkezeteinek, berendezéseinek és ezek működtetésének meghatározásában új vagy meglévő alagutak módosítása esetében;
+
+d) ellenőrzi az üzemeltetésért felelős személyzet felkészültségét, és részt vesz a rendszeresen tartandó gyakorlatok szervezésében;
+
+e) amennyiben szükséges, javaslatot tesz a kockázatelemzés elvégeztetésére;
+
+f) tanácsot ad az alagutak szerkezeteinek és a berendezéseinek üzembe helyezésével és működtetésével kapcsolatban;
+
+g) ellenőrzi az alagút szerkezeteinek és berendezéseinek megfelelő karbantartását és a szükséges javítások elvégzését;
+
+h) részt vesz a rendkívüli események értékelésében.
+
+### Ellenőrző szervezet
+
+#### 11. §
+
+(1) Az alagutak ellenőrzését, értékelését, vizsgálatát és a próbaüzemet a Hatóság végzi.
+
+(2) Az alagútkezelő köteles az ellenőrzést tűrni, az ellenőrzéshez, az értékeléshez és a próbaüzemhez szükséges feltételeket biztosítani, továbbá az ellenőrző szervezet felkérése esetén köteles az ellenőrzésben, a vizsgálatban és a próbaüzem elvégzésében közreműködni.
+
+## III/A. Fejezet — AZ ALAGUTAK ÜZEMBE HELYEZÉSE[^19]
+
+#### 11/A. §
+
+(1) Az alagút a Hatóság által kiadott ideiglenes forgalomba helyezési vagy forgalomba helyezési engedély (a továbbiakban: forgalomba helyezési engedély) és működési engedély birtokában nyitható meg a forgalom előtt.
+
+(2) Az alagútkezelő a forgalomba helyezési engedély iránti kérelem benyújtása előtt átadja a 2. melléklet 2. pontjában meghatározott biztonsági dokumentációt a biztonsági tisztnek, aki véleményt nyilvánít az alagút forgalom előtt történő megnyitásáról.
+
+(3) A forgalomba helyezési engedély iránti kérelemhez mellékelni kell a biztonsági dokumentációt és a biztonsági tiszt véleményét.
+
+(4) A Hatóság – az ellenőrző szervezet véleményének kikérésével – dönt arról, hogy az alagút kielégíti-e a biztonsági minimumkövetelményeket, a forgalom számára megnyitható-e, illetve szükséges-e korlátozó feltételek megállapítása.
+
+#### 11/B. §
+
+(1) Ha bármilyen jelentős szerkezeti vagy üzemeltetési változás vagy bármilyen lényegi átalakítás jelentős mértékben módosítja a biztonsági dokumentáció bármelyik elemét, és az alagút újbóli forgalom előtti megnyitása válik szükségessé, a Hatóságtól új működési engedélyt kell kérni. A kérelemhez csatolni kell a módosított biztonsági dokumentációt és a biztonsági tiszt véleményét.
+
+(2) Az alagútkezelő köteles tájékoztatni a biztonsági tisztet bármilyen egyéb, a szerkezetben és a működésben történt változásról. Az alagúttal kapcsolatos bármilyen módosítást megelőzően az alagútkezelő átadja a biztonsági tisztnek a javaslatokat részletező dokumentációt.
+
+(3) A biztonsági tiszt megvizsgálja a javasolt módosítások következményeit és 15 napon belül közli véleményét az alagútkezelővel, aki a vélemény egy példányát megküldi a Hatóságnak és a segélyszolgálatoknak.
+
+## IV. Fejezet — ELLENŐRZÉSI ÉS EGYÉB KÖTELEZETTSÉGEK AZ ALAGUTAKKAL KAPCSOLATBAN
+
+### Időszakos ellenőrzések
+
+#### 12. §
+
+(1) Az alagutakat a Hatóság legalább hatévente ellenőrzi (a továbbiakban: időszakos ellenőrzés).
+
+(2) A Hatóság a vizsgálatról ellenőrzési jelentést készít.
+
+(3) A Hatóság az időszakos ellenőrzésekről nyilvántartást vezet, amely tartalmazza az ellenőrzés időpontját, a főbb megállapításokat és a megtett intézkedéseket.
+
+(4) Az ellenőrzési jelentés megállapításairól a Hatóság értesíti az alagútkezelőt és a biztonsági tisztet. Amennyiben az alagút nem felel meg a biztonsági minimumkövetelményeknek, a Hatóság megfelelő határidő megjelölésével felszólítja az alagútkezelőt a szükséges intézkedések megtételére. A Hatóság a szükséges intézkedések megtétele idejére elrendelheti az alagút lezárását.
+
+(5)[^20] A (4) bekezdés szerinti felszólításban foglaltak megvalósításáig – amennyiben az alagút lezárására nem kerül sor – a Hatóság a biztonsági tiszt és az egyéb érintett szervek bevonásával megállapítja az alagút ideiglenes üzemeltetésének feltételeit, amelyeket addig kell alkalmazni, amíg az alagútkezelő a (4) bekezdés szerinti felszólításban foglaltaknak eleget tesz.
+
+(6)[^21] Amennyiben az alagút lezárására került sor és az alagútkezelő a (4) bekezdés szerinti felszólításban foglaltaknak eleget tett, a Hatóság a biztonsági tiszt véleményének kikérésével dönt az alagút újbóli megnyitásáról.
+
+(7)[^22] Amennyiben a (4) bekezdés szerinti felszólításban foglaltak megvalósítása bármilyen lényegi módosítást tartalmaz az alagút építményét, berendezéseit vagy működését illetően, az alagút további működéséhez új működési engedély szükséges.
+
+### Kockázatelemzés
+
+#### 13. §
+
+(1) A kockázatelemzés szükségességéről – az e rendelet 1. mellékletének 1.1.3. pontjában meghatározott eseteken túlmenően, a biztonsági tiszt javaslatának figyelembevételével – az alagútkezelő dönt.
+
+(2) A kockázatelemzés során figyelembe kell venni az alagút összes tervezési tényezőjét és a biztonságot érintő valamennyi közlekedési feltételt, így különösen a forgalom jellemzőit és összetételét, az alagút hosszát és geometriáját, valamint a naponta áthaladó nehéz tehergépkocsik előre becsült számát.
+
+(3) A kockázatelemzés tartalmát és eredményét ismertetni kell a 2. melléklet szerinti biztonsági dokumentációban. A biztonsági dokumentációt a Hatóság részére be kell nyújtani.
+
+(4) Az alagútkezelő minden egyes alagút esetében, valamennyi tervfázisban összeállítja a biztonsági dokumentációt, és azt folyamatosan aktualizálja. Az alagútkezelő a biztonsági dokumentáció egy példányát átadja a biztonsági tisztnek.
+
+(5)[^23] A biztonsági dokumentáció ismerteti az alagutat használók biztonsága érdekében szükséges megelőző és óvintézkedéseket – tekintettel a mozgáskorlátozott és a fogyatékossággal élő személyekre is –, az útvonal jellegét, a szerkezet konstrukcióját és annak környezetét, a forgalom jellegét és a rendelet 2. § d) pontjában meghatározott segélyszolgálatok tevékenységének hatókörét.
+
+(6) Az alagútkezelő a kockázatelemzést egy tőle funkcionális szempontból független – közúti létesítmények kapcsán elvégzett kockázatelemzési gyakorlattal rendelkező – szervezettel végezteti el, amellyel a (7) bekezdés szerinti módszertan követelményeinek alkalmazását előíró szerződést köt.
+
+(7) A kockázatelemzés módszertanát a Hatóság – az Országos Katasztrófavédelmi Főigazgatóság bevonásával – határozza meg és erről tájékoztatja a Bizottságot.
+
+(8) A Hatóság a kockázatelemzés módszertanát a honlapján közzéteszi.
+
+### Eltérések engedélyezése innovatív technikák esetében
+
+#### 14. §
+
+(1)[^24] Olyan innovatív biztonsági berendezések felszerelésének vagy innovatív biztonsági eljárások alkalmazásának lehetővé tétele érdekében, amelyek e rendeletben előírt követelményekkel azonos vagy annál magasabb szintű védelmet nyújtanak, a Hatóság az alagútkezelő megfelelően dokumentált kérelme alapján – a (2)–(4) bekezdés figyelembevételével – eltérést engedélyezhet e rendelet biztonsági minimumkövetelményeitől.
+
+(2)[^25] A Hatóság az eltérés engedélyezése előtt – az eljárás egyidejű felfüggesztése mellett – kérelmet nyújt be az Európai Bizottsághoz az eltérésre vonatkozóan, amelyhez mellékeli az alagútkezelő eredeti kérelmét.
+
+(3)[^26] Ha a Bizottság vagy valamely tagállam három hónapon belül nem fogalmaz meg ellenvetést, és a Bizottság ennek megfelelően tájékoztatja a Hatóságot, a Hatóság az eljárás felfüggesztését megszünteti, és az alagútkezelő kérelmének helyt ad.
+
+(4)[^27] Amennyiben a Bizottság nem ért egyet az eltérés engedélyezésével, a Hatóság az eljárás felfüggesztését megszünteti és az alagútkezelő kérelmét elutasítja.
+
+### Jelentési kötelezettség
+
+#### 15. §
+
+A Hatóság kétévente jelentést állít össze az alagutat érintő rendkívüli eseményekről, valamint az ilyen események gyakoriságáról és okairól. Értékeli ezeket, továbbá információt szolgáltat a biztonsági létesítmények és intézkedések tényleges szerepéről és hatékonyságáról. A jelentést a beszámolási időszakot követő év szeptember 30-ig a gazdasági és közlekedési miniszter megküldi a Bizottságnak.
+
+## V. Fejezet — ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
+
+#### 16. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+#### 16/A. §[^28]
+
+E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 2. melléklet 1. pont 1.2 alpontját 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+### Az Európai Unió jogának való megfelelés
+
+#### 17. §
+
+Ez a rendelet a transzeurópai közúthálózat alagútjaira vonatkozó biztonsági minimumkövetelményekről szóló, 2004. április 29-i 2004/54/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, a 3. melléklet 2.1. pontjának kivételével.
+
+#### 18. §[^29]
+
+Ez a rendelet a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 18/2007. (II. 20.) Korm. rendelethez
+
+**Alagutak biztonsági minimumkövetelményei**
+
+1\. *Biztonsági minimumkövetelmények*
+
+1.1. Biztonsági paraméterek
+
+1.1.1. Az alagútban végrehajtandó biztonsági intézkedések az infrastruktúrát, az üzemeltetést, az úthasználókat és a járműveket is magában foglaló rendszer valamennyi szempontjának módszeres megfontolásán alapulnak.
+
+1.1.2. Az alagútban végrehajtandó biztonsági intézkedések meghatározásakor a következő jellemzőket kell figyelembe venni:
+
+– az alagút hossza,
+
+– az alagút járatainak száma,
+
+– a forgalmi sávok száma,
+
+– keresztmetszeti geometria,
+
+– függőleges és vízszintes vonalvezetés,
+
+– a konstrukció típusa,
+
+– egyirányú vagy kétirányú forgalom,
+
+– a forgalom nagysága forgalmi sávonként (ideértve annak időbeni eloszlását is),
+
+– a torlódás veszélye (naponta vagy szezonálisan),
+
+– a segélyszolgálatok felvonulási ideje,
+
+– a nehéz tehergépkocsik jelenléte és százalékos aránya,
+
+– a veszélyes árukat szállító járművek forgalmának szabályozása, százalékos aránya és típusa,
+
+– az alagúthoz vezető utak jellemzői,
+
+– sávszélességek,
+
+– a sebességgel kapcsolatos szokások és sebességszabályozás,
+
+– földrajzi és meteorológiai környezet.
+
+1.1.3. Amennyiben az alagút a fentiekben felsorolt paramétereket illetően különleges jellemzőkkel rendelkezik, a 13. §-ban foglaltak szerint kockázatelemzést kell végezni annak megállapítására, hogy szükségesek-e kiegészítő biztonsági intézkedések és/vagy kiegészítő berendezések az alagút biztonságának magas szinten történő biztosításához. A kockázatelemzés során figyelembe kell venni az üzemeltetés során előforduló lehetséges baleseteket, amelyek nyilvánvalóan befolyásolják az alagút használóinak biztonságát, valamint azok lehetséges következményeinek jellegét és nagyságrendjét.
+
+1.2. Minimumkövetelmények
+
+1.2.1.[^30] Legalább a következő pontok szerinti biztonsági intézkedéseket végre kell hajtani annak érdekében, hogy a rendelet hatálya alá tartozó valamennyi alagútban a biztonsági szint a minimumkövetelményeknek megfelelően biztosítva legyen.
+
+1.2.2.[^31]
+
+1.3. A forgalom nagysága
+
+1.3.1. Amennyiben e melléklet „forgalomnagyságot” említ, az az alagút egy forgalmi sávjában áthaladó napi forgalom éves átlagát jelenti. A forgalomnagyság meghatározása céljából minden gépjármű egy egységnek számít.
+
+1.3.2. Amennyiben a 3,5 tonnát meghaladó tömegű tehergépkocsik száma a napi forgalom éves átlagában meghaladja a 15%-ot, vagy a szezonális napi forgalom jelentősen túllépi a napi forgalom éves átlagát, értékelni kell a többletkockázatot, és ezt az alagút kapacitásának növelésével kell figyelembe venni a következő pontok alkalmazása során.
+
+2\. *Infrastrukturális intézkedések*
+
+2.1. Az alagút járatainak és forgalmi sávjainak száma
+
+2.1.1. Az előre jelzett forgalomnagyság és a biztonság azok a fő kritériumok, amelyek alapján el kell dönteni, hogy egyetlen alagútjárat vagy két járat épüljön-e, figyelembe véve olyan szempontokat is, mint a nehéz tehergépkocsik százalékos aránya, az alagút lejtése/emelkedése és hosszúsága.
+
+2.1.2. Ha azonban a tervezés során a tizenötéves előrejelzés azt mutatja, hogy az alagútban a forgalom nagysága forgalmi sávonként és naponta meghaladja majd a 10 000 járművet, abban az időpontban, amikor az említett értéket túllépik, már két alagútjáratnak kell működnie, amelyekben a forgalom egy-egy irányban halad.
+
+2.1.3. A leállósáv kivételével az alagútban ugyanannyi közlekedési sávnak kell lennie, mint az alagúton kívül. A forgalmi sávok számának bármilyen változása az alagút bejárata előtt kellő távolságban kell történjen; a bejáratot megelőzően a sebességkorlátozásnak megfelelő sebességgel haladó jármű által 10 másodperc alatt megtehető úthosszban már annyi forgalmi sávnak kell lennie, mint az alagút közlekedési sávszáma. Ha a földrajzi körülmények ezt nem teszik lehetővé, további kiegészítő intézkedéseket kell tenni a biztonság növelése érdekében.
+
+2.2. Az alagút geometriája
+
+2.2.1. Különös figyelmet kell fordítani a biztonságra az alagút keresztmetszeti geometriájának, vízszintes és függőleges vonalvezetésének, valamint az alagúthoz vezető utak megtervezése során, miután ezek a paraméterek jelentős mértékben befolyásolják a balesetek valószínűségét és súlyosságát.
+
+2.2.2. Új alagutak esetében 5%-ot meghaladó hosszanti lejtés/emelkedés nem megengedett, kivéve, ha földrajzilag más megoldás nem lehetséges.
+
+2.2.3. A 3%-nál nagyobb lejtésű/emelkedésű alagutakban kockázatelemzés alapján kiegészítő intézkedéseket kell tenni a biztonság növelésére.
+
+2.2.4. Ahol a forgalmi sáv 3,5 m-nél keskenyebb és nehéz tehergépkocsik közlekedése megengedett, kockázatelemzés alapján kiegészítő intézkedéseket kell tenni a biztonság növelésére.
+
+2.3. Menekülési útvonalak és vészkijáratok
+
+2.3.1. A leállósáv nélküli új alagutakban meghibásodás vagy baleset esetére megemelt felszínű, vagy az útpályával egy síkban lévő, gyalogos közlekedésre szolgáló járdákat kell biztosítani az alagút használói számára. Ezt a rendelkezést nem kell alkalmazni, ha az alagút konstrukciós jellemzői ezt nem teszik lehetővé, vagy csak aránytalanul nagy költség mellett volna lehetséges és az alagút egyirányú, és állandó megfigyelő- és sávelzáró rendszerrel van felszerelve.
+
+2.3.2. A vészkijáratok lehetővé teszik az alagút használói számára, hogy járműveik nélkül elhagyhassák az alagutat, és baleset vagy tűz esetén biztos helyre juthassanak, valamint gyalogosan megközelíthetővé teszik az alagutat a segélyszolgálatok számára.
+
+A vészkijáratok lehetnek:
+
+– közvetlen kijárat az alagútból a felszínre,
+
+– az alagutak járatai közötti haránt járatok vagy harántfolyosók,
+
+– kijárat a mentőalagútba,
+
+– menedékhely az alagúttól elkülönülő menekülési útvonallal.
+
+2.3.3. A felszínre vezető menekülési útvonalra kijárattal nem rendelkező menedékhelyeket tilos építeni.
+
+2.3.4. Vészkijáratokról kell gondoskodni, ha az érintett veszélyek elemzése – ideértve, hogy a helyi viszonyok között a füst milyen messzire és milyen gyorsan terjed – azt mutatja, hogy a szellőztetés és az egyéb biztonsági rendelkezések nem elégségesek az úthasználók biztonságához.
+
+2.3.5. Az alagutaknál minden esetben vészkijáratokról kell gondoskodni, ha a forgalomnagyság forgalmi sávonként a 2000 járművet meghaladja.
+
+2.3.6. Több vészkijárat esetén, két vészkijárat között a távolság nem lehet 500 méternél nagyobb.
+
+2.3.7. Megfelelő eszközöket, például ajtókat kell alkalmazni, hogy megakadályozzák füst vagy hő bejutását a vészkijáratok mögötti menekülési útvonalakra, hogy az alagút használói biztonságban elérhessék a felszínt, és a segélyszolgálatok bejuthassanak az alagútba.
+
+2.4. A segélyszolgálatok bejutása
+
+2.4.1. Ikerjáratú alagutak esetében, ahol az alagutak járatai egy szintben vagy közel egy szintben helyezkednek el, a segélyszolgálatok számára legalább 1500 méterenként megfelelő harántjáratokat kell biztosítani.
+
+2.4.2. Ahol földrajzilag lehetséges, kétjáratú (ikeralagút) vagy több járatú alagutak esetében minden alagútbejárat előtt lehetővé kell tenni az elválasztó sáv átjárhatóságát. Ez az intézkedés lehetővé teszi az esetileg szükséges forgalomtereléseket, illetve lehetőséget biztosít a segélyszolgálatok számára, hogy közvetlenül bejuthassanak bármelyik alagútjáratba.
+
+2.5. Leálló öblök
+
+2.5.1. Kétirányú, 1500 méternél hosszabb alagutak esetében, ahol a forgalomnagyság sávonként meghaladja a 2000 járművet, legfeljebb 1000 méterenként leálló öblöket kell biztosítani, ha leállósáv nem áll rendelkezésre.
+
+2.5.2. Amennyiben az alagút konstrukciós jellemzői nem engedik meg, vagy ez csak aránytalanul nagy költség mellett volna lehetséges, nem kell leálló öblöket biztosítani, ha a megemelt részek között, a szokásos forgalmi sávokon kívül legalább egy forgalmi sávnak megfelelő szélességű útfelület áll rendelkezésre.
+
+2.5.3. A leálló öblökben segélykérő állomásoknak kell lenniük.
+
+2.6. Vízelvezetés
+
+2.6.1. Ahol megengedett a veszélyes áruk szállítása, az alagút keresztmetszetében jó kialakítású lefolyók vagy egyéb intézkedések révén biztosítani kell a gyúlékony és mérgező folyadékok elvezetését. Ezen túlmenően, a lefolyórendszert úgy kell kialakítani és karbantartani, hogy megelőzhető legyen a tűz, valamint a gyúlékony és mérgező folyadékok továbbterjedése az alagútban, illetve átterjedése az alagút járatai között.
+
+2.7. A szerkezetek tűzállósága
+
+Minden olyan alagút fő szerkezete esetében, ahol a szerkezet helyi beomlása katasztrofális következményekkel járhat, például víz alatti alagutak vagy olyan alagutak, amelyek beomlása fontos környező szerkezetek beomlását eredményezheti, megfelelő tűzállóságot kell biztosítani.
+
+2.8. Világítás
+
+2.8.1. Rendeltetésszerű üzem esetén olyan világításról kell gondoskodni, hogy a gépjárművezetők számára nappal és éjjel megfelelő látási viszonyokat biztosítsanak az alagút bejárati szakaszában, valamint annak belsejében.
+
+2.8.2. Gondoskodni kell egy olyan világításról is, amely az alagút használói számára minimális látási viszonyokat biztosít, hogy áramellátás kimaradása esetén azt járműveikkel együtt elhagyhassák.
+
+2.8.3. Az alagút használói számára annak elhagyásához legfeljebb 1,5 m magasságban irányjelző fényeket (vészvilágítást) kell biztosítani, ha veszély esetén gyalogosan kell elhagyniuk az alagutat.
+
+2.9. Szellőztetés
+
+2.9.1. A szellőztető rendszer tervezése, építése és üzemeltetése során a következőket kell figyelembe venni:
+
+– a közúti járművek által a rendeltetésszerű üzemben (akadálytalan forgalom és csúcsforgalom esetén egyaránt) kibocsátott szennyező anyagok eltávolítása,
+
+– a közúti járművek által kibocsátott szennyező anyagok eltávolítása, ha a forgalom valamilyen esemény vagy baleset következtében leállt,
+
+– a hő és füst elvezetése tűz esetén.
+
+2.9.2. Minden 1000 méternél hosszabb, forgalmi sávonként 2000 járműnél nagyobb forgalomnagyságú alagútban gépi szellőztető rendszert kell felszerelni.
+
+2.9.3. Kétirányú és/vagy egyirányú, torlódó forgalmú alagutakban hosszáramú szellőztetés csak akkor megengedett, ha a 13. § szerinti kockázatelemzés azt mutatja, hogy ez elfogadható és/vagy konkrét intézkedéseket tettek, például megfelelő forgalomirányítással, a vészkijáratok közötti távolság csökkentésével és szakaszonkénti füstelszívás alkalmazásával.
+
+2.9.4. Az olyan alagutakban, ahol gépi szellőztető rendszer szükséges és a 2.9.3. pont szerint a hosszáramú szellőztetés nem megengedett, részlegesen vagy teljesen keresztáramú, harántirányú szellőztető rendszert kell alkalmazni. Ezeknek a rendszereknek képeseknek kell lenniük arra, hogy tűz esetén eltávolítsák a füstöt az alagútból.
+
+2.9.5. Kétirányú forgalmú alagutak esetében, amelyek 3000 méternél hosszabbak, a forgalomnagyság sávonként meghaladja a 2000 járművet, és irányító központtal, valamint részlegesen vagy teljesen keresztáramú szellőztetéssel rendelkeznek, a szellőztetést illetően a következő minimumintézkedéseket kell tenni:
+
+– lég- és füstelszívó reteszeket kell felszerelni, amelyek önállóan vagy csoportokban működtethetők,
+
+– a hosszanti irányú légsebességet folyamatosan figyelemmel kell kísérni és a szellőztető rendszert (zsaluk, reteszek, ventilátorok stb.) megfelelően szabályozni kell.
+
+2.10. Segélykérő állomások
+
+2.10.1. A segélykérő állomásokon gondoskodni kell különféle biztonsági berendezések elhelyezéséről (segélykérő telefonok és tűzoltó készülékek), amelyeknek azonban nem feladatuk, hogy teljes körű védelmet nyújtsanak az úthasználóknak a tűz hatásai ellen.
+
+2.10.2. A segélykérő állomások lehetnek oldalfalban kialakított fülkék, vagy esetleg oldalfalra szerelt szekrények. Legalább segélykérő telefonnal és két tűzoltó készülékkel kell őket felszerelni.
+
+2.10.3. Segélykérő állomásokat kell biztosítani az alagút bejárata közelében és az alagútban, 150 métert meg nem haladó távolságonként.
+
+2.11. Vízellátás
+
+Minden alagútban gondoskodni kell a vízellátásról. Tűzcsapokat kell biztosítani a bejáratok közelében és az alagút belsejében, 250 métert meg nem haladó távolságonként. Amennyiben a vízellátás nem biztosított, kötelező annak ellenőrzése, hogy kellő mennyiségű víz áll egyéb módon rendelkezésre.
+
+2.12.[^32] Tájékoztató és közúti jelzések
+
+2.12.1. Az alagút használói számára minden biztonsági létesítményt meghatározott jelzéssel kell ellátni. Az alagutakban alkalmazandó jelzéseket és jelzőtáblákat a 3. melléklet tartalmazza.
+
+2.12.2. Az e rendelet hatálya alá tartozó alagutak esetében a közúti jelzőtáblák méreteiről és műszaki követelményeiről szóló miniszteri rendeletben (a továbbiakban: miniszteri rendelet) meghatározott alapméretnél kisebb méretű világító jelzőtáblák is alkalmazhatóak, azzal, hogy a világító jelzőtábla miniszteri rendelet alapján meghatározott alapmérete 600 mm-nél kisebb nem lehet.
+
+2.13. Irányító központ
+
+2.13.1. Minden 3000 méternél hosszabb és forgalmi sávonként 2000 járműnél nagyobb forgalomnagyságú alagút esetében irányító központról kell gondoskodni.
+
+2.13.2. Egyetlen irányító központ több alagút felügyeletét is elláthatja.
+
+2.14. Megfigyelő rendszerek
+
+2.14.1. Minden irányító központtal ellátott alagútban videó megfigyelő rendszereket és olyan rendszereket kell telepíteni, amelyek képesek a forgalmi események (például megálló járművek) és/vagy tüzek automatikus érzékelésére.
+
+2.14.2. Irányító központtal nem rendelkező valamennyi alagutat automatikus tűzérzékelő rendszerekkel kell felszerelni, amelyben a füst eltávolítására szolgáló gépi szellőztető rendszer működtetése nem azonos a szennyező anyagok eltávolítását szolgáló szellőztető rendszer automatikus működtetésével.
+
+2.15. Alagútelzáró berendezés
+
+2.15.1. Minden 1000 méternél hosszabb alagút esetében közúti forgalomirányító jelzőlámpát kell telepíteni az alagút bejárata elé annak érdekében, hogy az alagutat vészhelyzetben le lehessen zárni. További eszközök, például változtatható jelzéstartalmú közúti jelzőtáblák és sorompók helyezhetők el annak biztosítására, hogy az úthasználók az utasításokat betartsák.
+
+2.15.2. Minden 3000 méternél hosszabb alagútban, amely irányító központtal van felszerelve, és amelyben a forgalomnagyság forgalmi sávonként meghaladja a 2000 járművet, ajánlott, hogy vészhelyzet esetére legfeljebb 1000 méterenként a járművek megállítására alkalmas berendezés legyen felszerelve. A berendezésnek közúti jelzésekből és esetleg további eszközökből kell állnia (például: hangszóró, változtatható jelzéstartalmú közúti jelzőtáblák és korlátok).
+
+2.16. Kommunikációs rendszerek
+
+2.16.1. Minden 1000 méternél hosszabb alagút esetében, ahol a forgalomnagyság forgalmi sávonként meghaladja a 2000 járművet, a segélyszolgálatok általi használatra rádiókapcsolatot lehetővé tevő rendszert kell telepíteni.
+
+2.16.2. Ott, ahol irányító központ működik, a rádióadás félbeszakítására is lehetőséget kell biztosítani vészjelzések és utasítások továbbítására az alagút használói számára fenntartott csatornákon, amennyiben ilyen rendelkezésre áll.
+
+2.16.3. A menedékeket és egyéb létesítményeket, ahol az alagutat elhagyó közlekedőknek várakozniuk kell, mielőtt a felszínre érnének, hangszórókkal kell felszerelni, amelyekkel tájékoztatni lehet az alagút használóit.
+
+2.17. Áramellátás és elektromos áramkörök
+
+2.17.1. Minden alagútnak vészhelyzeti (szükség-) áramellátással kell rendelkeznie, amely képes biztosítani a meneküléshez elengedhetetlen biztonsági berendezések működését addig, amíg minden használó el nem hagyta az alagutat.
+
+2.17.2. Az elektromos, mérő és vezérlő áramköröket úgy kell kialakítani, hogy egy helyi (például tűz miatt keletkező) hiba ne érintse a még sértetlen áramköröket.
+
+2.18. A berendezések tűzállósága
+
+Az alagútban elhelyezett valamennyi berendezés tűzállósági szintje tekintetében figyelemmel kell lenni a technológiai lehetőségekre, és törekedni kell a szükséges biztonsági funkciók fenntartására tűz esetén is.
+
+2.19. A minimumkövetelményeket összefoglaló tájékoztató táblázat
+
+A következő táblázat összefoglalja a korábbi bekezdésekben megállapított minimumkövetelményeket.
+
+<table><tbody><tr><th colspan="3" rowspan="2">A minimumkövetelmények összegzése</th><th colspan="2">A forgalomnagyság <2000 jármű forgalmi sávonként</th><th colspan="3">A forgalomnagyság<br>> 2000 jármű<br>forgalmi sávonként</th><th rowspan="2">További kötelezően megvalósítandó feltételek vagy észrevételek</th></tr><tr><th>500–1000 m</th><th>> 1000 m</th><th>500–1000 m</th><th>1000–3000 m</th><th>> 3000 m</th></tr><tr><td rowspan="9">Szerkezeti követel-<br>mények</td><td>Két- vagy több alagút</td><td>2.1</td><td></td><td></td><td></td><td></td><td></td><td>Kötelező, ahol a 15 éves előrejelzés szerint a forga-<br>lom-nagyság meghaladja a<br>10 000 jármű/forgalmi sáv értéket.</td></tr><tr><td>Lejtés/emelkedés<br>≤ 5%</td><td>2.2</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, kivéve, ha földrajzilag nem lehetséges.</td></tr><tr><td>Veszély esetén használandó járdák</td><td>2.3.1<br>2.3.2</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, ha nincs leállósáv, kivéve, ha a 2.3.1-ben felsorolt feltételeket betartják.</td></tr><tr><td>Vészkijáratok legalább<br>500 m-enként</td><td>2.3.3–<br>2.3.9</td><td>¦</td><td>¦</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Harántjáratok a segélyszolgálatok számára legalább 1500 m-enként</td><td>2.4.1</td><td>¦</td><td>¦/●</td><td>¦</td><td>❍/●</td><td>●</td><td>Kötelező az 1500 m-nél hosszabb ikeralagutakban.</td></tr><tr><td>Alagútbejárat előtti átjáró az elválasztó sávban</td><td>2.4.2</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező a két- vagy többjáratú alagutakon kívül (ahol földrajzilag megvalósítható).</td></tr><tr><td>Leálló öblök legalább<br>1000 m-enként</td><td>2.5</td><td>¦</td><td>¦</td><td>¦</td><td>¦/●</td><td>¦/●</td><td>Kötelező a kétirányú forgalmú, 1500 m-nél hosszabb, leállósáv nélküli alagutakban. Többlet alagútszélesség helyettesítheti.</td></tr><tr><td>Gyúlékony vagy mérgező folyadékok elvezetése</td><td>2.6</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, ahol engedélyezett a veszélyes anyagok szállítása.</td></tr><tr><td>A szerkezetek tűzállósága</td><td>2.7</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, ahol az alagút beomlása katasztrofális következményekkel járhat.</td></tr><tr><td rowspan="3">Világítás</td><td>Rendeltetésszerű üzemi világítás</td><td>2.8.1</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Biztonsági világítás</td><td>2.8.2</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td>Vészvilágítás</td><td>2.8.3</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td></td></tr><tr><td rowspan="2">Szellőztetés</td><td>Gépi szellőztetés</td><td>2.9</td><td>¦</td><td>¦</td><td>¦</td><td>●</td><td>●</td><td></td></tr><tr><td>Részleges vagy teljes keresztáramú szellőztetés</td><td>2.9.5</td><td>¦</td><td>¦</td><td>¦</td><td>¦</td><td>●</td><td>Kötelező az olyan kétirányú forgalmú alagutakban, ahol irányító központ működik.</td></tr><tr><td>Segélykérő állomások</td><td>Legalább<br>150 m-enként</td><td>2.10</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Segélykérő telefonnal és két tűzoltó készülékkel van felszerelve.</td></tr><tr><td>Vízellátás</td><td>Tűzcsapok legalább<br>250 m-enként</td><td>2.11</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Ha hálózati víz nem áll rendelkezésre, kötelező megfelelő mennyiségű víz egyéb módon történő biztosítása.</td></tr><tr><td>Tájékoztató és közúti jelzések</td><td></td><td>2.12</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Minden, az alagút használóinak rendelkezésére álló biztonsági létesítmény esetében (lásd a<br>3. mellékletet).</td></tr><tr><td>Irányító központ</td><td></td><td>2.13</td><td>¦</td><td>¦</td><td>¦</td><td>¦</td><td>●</td><td>Több alagút megfigyelését egyetlen irányító központba lehet összevonni.</td></tr><tr><td rowspan="2">Megfigyelő rendszerek</td><td>Videó rendszer</td><td>2.14</td><td>¦</td><td>¦</td><td>¦</td><td>¦</td><td>●</td><td>Kötelező, ahol irányító központ működik.</td></tr><tr><td>Automatikus eseményérzékelés és/vagy tűzérzékelés</td><td>2.14</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>A két rendszer közül legalább az egyik kötelező az irányító központtal rendelkező alagutak esetében.</td></tr><tr><td rowspan="2">Alagútelzáró berendezések</td><td>Közúti forgalom-<br>irányító jelzőlámpa a bejárat előtt</td><td>2.1.5.1</td><td>¦</td><td>●</td><td>¦</td><td>●</td><td>●</td><td></td></tr><tr><td>Változtatható jelzéstartalmú közúti jelzések az alagútban legalább<br>1000 m-enként</td><td>2.1.5.2</td><td>¦</td><td>¦</td><td>¦</td><td>¦</td><td>£</td><td>Ajánlott, ha irányító központ működik és az alagút hossza meghaladja a 3000 m-t.</td></tr><tr><td rowspan="3">Kommuniká-<br>ciós rendszerek</td><td>Rádió adóvevő a segélyszolgálatok számára</td><td>2.1.6.1</td><td>¦</td><td>¦</td><td>¦</td><td>●</td><td>●</td><td></td></tr><tr><td>Vészhelyzeti rádióüzenetek az alagút használói számára</td><td>2.1.6.2</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, ahol sugárzókábeles rádióadás áll az alagút használói rendelkezésére, és ahol irányító központ működik.</td></tr><tr><td>Hangszórók a menedékeken<br>és a kijáratoknál</td><td>2.1.6.3</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Kötelező, ahol a menekülő alagúthasználóknak várakozniuk kell, mielőtt a felszínre jöhetnek.</td></tr><tr><td colspan="2">Vészhelyzeti áramellátás</td><td>2.17</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Legalább az alagúthasználók menekülése közben, a nélkülözhetetlen biztonsági berendezések működéséhez.</td></tr><tr><td colspan="2">A berendezések tűzállósága</td><td>2.18</td><td>●</td><td>●</td><td>●</td><td>●</td><td>●</td><td>Törekedni kell a szükséges biztonsági funkciók fenntartására.</td></tr></tbody></table>
+
+| ● | minden alagút esetében kötelező | ¦ | nem kötelező |
+|---|---|---|---|
+|  |  |  |  |
+| ● | kivételekkel kötelező | £ | ajánlott |
+
+3\. *Az üzemeltetést érintő intézkedések*
+
+3.1. Az üzemeltetés eszközei
+
+Az alagút üzemeltetését úgy kell megszervezni, és ehhez olyan eszközökkel kell rendelkezni, amelyek biztosítják az alagútban a forgalom folyamatosságát és biztonságát. Az üzemeltetésben részt vevő munkatársak, valamint a segélyszolgálatok számára megfelelő alapképzést és továbbképzést kell biztosítani.
+
+3.2. Vészhelyzeti tervezés
+
+Minden alagút esetében vészhelyzeti intézkedési tervnek kell rendelkezésre állnia. A más tagállamban kezdődő és végződő alagutak esetében az egységes vészhelyzeti intézkedési tervnek mindkét országra ki kell terjednie.
+
+3.3. Munkálatok az alagutakban
+
+Az előre tervezett építési és karbantartási munkálatok miatti teljes vagy részleges sávlezárásnak mindig az alagúton kívül kell kezdődnie. Erre a célra változtatható jelzéstartalmú közúti jelzőtáblák, közúti jelzések és terelőkorlátok használhatók.
+
+3.4. Balesetek és események kezelése
+
+Súlyos baleset vagy esemény előfordulása esetén az alagút minden érintett járatát azonnal el kell zárni a forgalom elől.
+
+Ezt nemcsak a fentiekben említett berendezéseknek a bejáratok előtti egyidejű aktiválásával, hanem amennyiben rendelkezésre állnak, változtatható jelzéstartalmú közúti jelzőtáblák, közúti jelzéseknek és terelőkorlátoknak az alagútban való elhelyezésével kell megoldani, hogy minden forgalom a lehető leghamarabb megálljon az alagúton belül és kívül is. Az 1000 m-nél rövidebb alagutak más módszerrel is lezárhatók. A forgalmat olyan módon kell irányítani, hogy a nem érintett járművek gyorsan elhagyhassák az alagutat.
+
+Törekedni kell rá, hogy baleset esetén a segélyszolgálatoknak az alagútba történő bejutási ideje a lehető legrövidebb legyen, és ezt gyakorlatok közben rendszeresen mérni kell. Mérhető ezenkívül események alkalmával is. A kétirányú, nagy forgalmat átbocsátó alagutakban a 13. §-ban előírt kockázatelemzéssel kell megállapítani, hogy szükséges-e az alagút két végén segélyszolgálatok állomásoztatása.
+
+3.5. Az irányító központ tevékenysége
+
+Az irányító központot igényelő alagutak esetében, ideértve azokat is, amelyek más tagállamban kezdődnek és végződnek, a teljes irányítást minden időpontban egyetlen irányító központ látja el.
+
+3.6. Az alagút lezárása
+
+Az alagút (tartós vagy rövid ideig tartó) lezárása esetén az alagút felé haladókat megfelelő útirányjelző közúti jelzőtáblákkal tájékoztatni kell a legmegfelelőbb alternatív útvonalakról.
+
+Az ilyen alternatív útvonalak a kidolgozott vészhelyzeti intézkedési tervek részét képezik. Céljuk a közlekedés folyamatosságának a lehető legnagyobb mértékben való fenntartása és a biztonsági intézkedések révén a környező területeket érintő másodlagos hatások minimalizálása.
+
+A tagállamoknak minden ésszerű erőfeszítést meg kell tenniük az olyan helyzet elkerülése érdekében, amikor a két tagállam területén található alagutat rossz időjárási körülmények következtében nem lehet használni.
+
+3.7. Veszélyes áruk szállítása
+
+A veszélyes áruk közúti szállítására vonatkozó megfelelő európai jogszabályok szerint a következő intézkedéseket kell alkalmazni, amikor a veszélyes árukat szállító járművek alagutakon haladnak keresztül:
+
+– a 13. § szerinti kockázatelemzés elvégzése a veszélyes áruk alagúton keresztül történő szállítására vonatkozó rendeletek és követelmények meghatározása vagy módosítása előtt,
+
+– megfelelő közúti jelzések elhelyezése a rendelet betartatása érdekében az alagút előtti utolsó lehajtó előtt, valamint az alagutak bejáratánál, és még korábban is, lehetővé téve a gépkocsivezetők számára alternatív útvonalak választását,
+
+– konkrét operatív intézkedések megfontolása, hogy csökkentsék egyes, veszélyes árukat alagutakon keresztül szállító járművekkel, vagy minden ilyen járművel kapcsolatban a kockázatokat, például – eseti alapon – bejelentés az alagútba való belépés előtt, vagy konvojban való áthaladás kísérőjárművekkel, a fentiekben említett kockázatelemzést követően.
+
+3.8. Előzés alagutakban
+
+Kockázatelemzést kell végezni annak megállapítására, hogy megengedhető-e a nehéz tehergépkocsik számára az olyan alagutakban való előzés, ahol mindkét irányban egynél több sáv áll rendelkezésre.
+
+3.9. Követési távolság és sebesség
+
+Az alagutakban különösen fontos a járművek megfelelő sebessége és a köztük lévő biztonságos távolság, amire kiemelt figyelmet kell fordítani. Ennek részét képezi az alagútban közlekedők tájékoztatása a megfelelő sebességről és követési távolságokról. Indokolt esetben megerősítő intézkedéseket kell kezdeményezni.
+
+Az úton közlekedő személygépkocsi-vezetőknek normális körülmények között az előttük haladó járműtől olyan minimális távolságot kell tartaniuk, amely megegyezik a jármű által 2 s alatt megtett távolsággal. Nehéz tehergépkocsik esetében ezt a távolságot meg kell duplázni.
+
+Az alagútkezelő az alagútban megengedett legmagasabb sebesség alapján meghatározza a minimálisan megtartandó követési távolságot és ennek megfelelő közúti jelzőtáblát helyez ki.
+
+4\. *Tájékoztató akciók*
+
+A hazai és a nemzetközi szervezetek összehangolt munkája figyelembevételével az alagútkezelőnek az érdekelt felekkel együttműködésben rendszeresen tájékoztató akciókat kell szerveznie az alagutak biztonságáról. A tájékoztató akcióknak foglalkozniuk kell az úton közlekedők helyes viselkedésével, amikor alagutakat közelítenek meg és azokon keresztülhajtanak, különös tekintettel a járművek meghibásodására, a torlódásokra, a balesetekre és a tüzekre.
+
+Az alagutakat használók számára megfelelő helyen tájékoztatást kell elhelyezni a rendelkezésre álló biztonsági berendezésekről és az út használói által az alagutakban tanúsítandó megfelelő viselkedésről (például az alagutak előtti pihenőhelyeken, az alagutak bejáratánál, amikor a forgalmat megállítják vagy az Interneten).
+
+## 2. melléklet a 18/2007. (II. 20.) Korm. rendelethez
+
+**A tervek és a biztonsági dokumentáció jóváhagyása és időszakos gyakorlatok[^33]**
+
+1\. *A terv jóváhagyása*
+
+1.1. E rendeletnek és mellékleteinek előírásait a tervezés minden fázisában alkalmazni kell.
+
+1.2.[^34] Az építési munkálatok megkezdését megelőzően az alagútkezelő a kiviteli tervdokumentáció részeként összeállítja az alagútra vonatkozó, 2.2. és 2.3. pont szerinti biztonsági dokumentációt, és egyeztet a biztonsági tiszttel. A tervdokumentációt, valamint a biztonsági tiszt véleményét az alagútkezelő a Hatósághoz elektronikus úton nyújtja be.
+
+1.3.[^35]
+
+2\. *Biztonsági dokumentáció*
+
+2.1. Az alagútra vonatkozó kiviteli terv biztonsági dokumentáció – a 2.2. pontban foglaltakon túlmenően – különösen a következőket tartalmazza:
+
+– a tervezett struktúra leírása és annak megközelítése, valamint kialakításának és a várt működési megoldásoknak az értelmezéséhez szükséges tervek,
+
+– a forgalom előrejelzését tartalmazó tanulmány, amely meghatározza és alátámasztja a veszélyes áruk szállításának várható feltételeit, az 1. melléklet 3.7. pontjában kért kockázatelemzéssel együtt,
+
+– a konkrét veszélyek vizsgálata, amely leírja azokat a lehetséges baleseteket, amelyek nyilvánvalóan befolyásolják az alagútban közlekedők biztonságát, és amelyek az alagút használata során előfordulhatnak, valamint a lehetséges következmények jellegét és nagyságrendjét; ennek a vizsgálatnak intézkedéseket kell meghatároznia és megalapoznia a balesetek valószínűségének és következményeinek csökkentése érdekében,
+
+– az ellenőrző szervezet vagy külső szakértő biztonsággal kapcsolatos véleménye.
+
+2.2.[^36] Az üzembe helyezési biztonsági dokumentációnak a tervezési szakaszban előírt dokumentáció mellett a következőket kell tartalmaznia:
+
+– az alagút üzemi szervezet leírása, emberi és anyagi erőforrások és az alagútkezelő által előírt utasítások az alagút üzemeltetésének és karbantartásának biztosításához,
+
+– a segélyszolgálatokkal közösen kidolgozott vészhelyzeti intézkedési terv, amely tekintettel van a mozgáskorlátozott és a fogyatékossággal élő személyekre is,
+
+– a tapasztalatok állandó visszacsatolási rendszerének leírása, amely révén nyilvántarthatók és elemezhetők az alagút üzemi rendkívüli események.
+
+2.3. Az üzemelő alagútra vonatkozó biztonsági dokumentációnak az üzembe helyezési dokumentáción túl a következőket kell tartalmaznia:
+
+– a bekövetkezett rendkívüli eseményekről szóló jelentés és ezek elemzése,
+
+– a végrehajtott biztonsági gyakorlatok jegyzéke és az ezekből levont tanulságok elemzése.
+
+3.[^37] *Üzembe helyezés, a működési engedély kiadásának rendje*
+
+4.[^38] *Módosítások, eltérések engedélyezése*
+
+5\. *Időszakos gyakorlatok*
+
+Az alagútkezelő és a segélyszolgálatok a biztonsági tiszttel együttműködésben rendszeresen gyakorlatokat szerveznek az alagútkezelő munkatársai és a segélyszolgálatok számára.
+
+A gyakorlatok:
+
+– legyenek a lehető legélethűbbek, és feleljenek meg a meghatározott események forgatókönyvének,
+
+– eredményezzenek világosan értékelhető eredményeket,
+
+– előzzenek meg minden károsodást az alagútban,
+
+– részben lehetnek asztali vagy számítógépes szimulációval végrehajtott gyakorlatok, amelyek kiegészítő eredményt hoznak.
+
+a) A lehető legélethűbb körülmények között végrehajtott teljes körű gyakorlatokat legalább négyévente meg kell tartani minden alagútban. Az alagút lezárása csak akkor követelmény, ha elfogadható megoldások biztosíthatók a forgalom elterelésére. Részleges és/vagy szimulációs gyakorlatokat minden évben kell tartani. Az olyan területeken, ahol több alagút található egymás közelében, teljes körű gyakorlatot legalább egy alagútban kell tartani.
+
+b) A biztonsági tiszt és a segélyszolgálatok közösen értékelik ezeket a gyakorlatokat, jelentést készítenek, és megfelelő ajánlásokat tesznek.
+
+## 3. melléklet a 18/2007. (II. 20.) Korm. rendelethez
+
+**Az alagutakkal kapcsolatos tájékoztató és közúti jelzések**
+
+1\. *Általános követelmények*
+
+Jelen melléklet tárgya az alagutakkal kapcsolatban használt tájékoztató és közúti jelzések, szimbólumok bemutatása.
+
+A jelzések nemzetközi érthetőségének elősegítése érdekében az ebben a mellékletben ismertetett jelek és jelzések rendszere az egyes jelzések osztályára jellemző formákon és színeken alapul, és amennyiben lehetséges, inkább grafikus szimbólumok alkalmazásán, semmint szavakon. Az itt ismertetett jelektől és jelzésektől csak úgy lehet eltérni, hogy az alkalmazott módosítások nem változtathatják meg azok alapvető jellemzőit.
+
+1.1. Tájékoztató jelzéseket kell használni az alagutakban a következő biztonsági létesítmények jelzésére:
+
+– leálló öblök,
+
+– vészkijáratok: mindenfajta vészkijárat esetében ugyanazt a jelzést kell alkalmazni,
+
+– menekülési útvonalak: a két legközelebbi vészkijáratot a járdákon legfeljebb 25 m távolságban kell jelezni, a menekülési útvonal szintje fölött 1–1,5 m magasságban, feltüntetve a vészkijáratok távolságát,
+
+– segélykérő állomások: jelekkel kell jelezni a segélykérő telefonok és a tűzoltó készülékek jelenlétét.
+
+1.2. Rádió
+
+Az alagutakban, ahol a közlekedő rádión kaphat tájékoztatást, „Közlekedési információt adó rádióállomás” közúti jelzőtáblát kell elhelyezni az alagút bejárata előtt, amely tájékoztatja a közlekedőt arról, hogy hogyan juthat hozzá ehhez az információhoz.
+
+1.3. A jeleket és jelzéseket úgy kell kialakítani és elhelyezni, hogy azok jól láthatók legyenek.
+
+2\. *A jelek és táblák leírása*
+
+Amennyiben szükséges, megfelelő jelek használhatók az alagutak előzetes figyelmeztetési körzetében, az alagutakban és az alagutak vége után. Az alagutak jelzéseinek kialakítása során figyelembe kell venni a helyi közlekedési és építési feltételeket, valamint az egyéb helyi feltételeket.
+
+2.1. Az alagút jelzése
+
+Az alagutat annak mindkét bejáratánál elhelyezett – a közúti közlekedés szabályairól szóló jogszabály szerinti - közúti jelzőtáblával kell jelezni.
+
+2.2. Útburkolati jelek
+
+Az út szélén útburkolat szélét jelző vonalat kell felfesteni.
+
+Kétirányú alagutak esetében jól látható kettős záróvonalat kell felfesteni a két közlekedési irány különválasztására.
+
+2.3. A létesítmények jelzésére szolgáló tájékoztató jelek és táblák
+
+Segélykérő állomások
+
+A segélykérő állomásokat tájékoztató jelzésekkel kell ellátni, amelyek a közlekedők rendelkezésére álló eszközöket jelzik, mint például:
+
+![](https://njt.jog.gov.hu/picture/8e/8e4f2007_22__20000018A0BC_000_0.jpg)
+
+2\. *számú ábra 3. számú ábra*
+
+*Segélykérő telefon Tűzoltó készülék*
+
+Az alagúttól ajtóval elválasztott segélykérő fülkékben magyar, angol és német nyelven feltüntetve jól látható szövegnek kell jeleznie, hogy a segélykérő állomás tűz esetén nem nyújt védelmet. Erre vonatkozik a következő példa:
+
+„EZ A TERÜLET TŰZ ELLEN NEM NYÚJT VÉDELMET!
+
+Kövesse a vészkijárathoz vezető jelzést!”
+
+*Leálló öblök*
+
+*A leálló öblöket feltüntető jelzéseket a 4-6. számú ábrák mutatják be. A telefont és a tűzoltó készüléket további táblán kell jelezni, vagy azt is be kell építeni a jelzésbe.*
+
+4\. *számú ábra 5. számú ábra*
+
+![](https://njt.jog.gov.hu/picture/74/744c2007_22__20000018A0BC_000_1.jpg)
+
+6\. *számú ábra*
+
+Vészkijáratok
+
+A vészkijáratot feltüntető jelzésekre példát a 7-8. számú ábrák mutatják be.
+
+![](https://njt.jog.gov.hu/picture/3c/3cac2007_22__20000018A0BC_000_2.jpg)
+
+7\. *számú ábra 8. számú ábra*
+
+Szükséges a két legközelebbi kijárat jelzése az oldalfalakon is. Példák:
+
+![](https://njt.jog.gov.hu/picture/bf/bf622007_22__20000018A0BC_000_3.jpg)
+
+9\. *számú ábra 10. számú ábra*
+
+Sávjelzések
+
+A sávok forgalmi irányai „forgalmi sáv foglaltságát jelző vagy a váltakozó irányú forgalmat szabályozó fényjelző készülék” segítségével jelezhetők. A jelzések – a 11. számú ábra szerint - lehetnek kör alakúak vagy négyszögletesek
+
+![](https://njt.jog.gov.hu/picture/c6/c6102007_22__20000018A0BC_000_4.jpg)
+
+11\. *számú ábra*
+
+Változtatható jelzéstartalmú táblák
+
+Minden változtatható jelzéstartalmú táblának világosan tájékoztatnia kell az alagútban közlekedőket a torlódásról, járművek meghibásodásáról, balesetekről, tűzről vagy bármilyen egyéb veszélyről.
+
+---
+
+[^1]: A 2. § a) pontja a 477/2016. (XII. 27.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § b) pontja a 304/2011. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^3]: A 2. § h) pontja a 351/2010. (XII. 30.) Korm. rendelet 173. §-a szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 526. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 4. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 526. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 4. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 526. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 4. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 526. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: Az 5. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 527. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: Az 5. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 12. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: Az 5. § (3) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^11]: Az 5. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 527. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 6. § (1) bekezdés e) pontja a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 6. § (1) bekezdés f) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 6. § (1) bekezdés g) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^15]: A 6. § (1) bekezdés h) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^16]: A 6. § (1) bekezdés i) pontját a 362/2008. (XII. 31.) Korm. rendelet 15. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^17]: A 7. § (1) bekezdése a 304/2011. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^18]: A 9. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^19]: A III/A. Fejezetet (11/A–11/B. §) a 182/2009. (IX. 10.) Korm. rendelet 526. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 12. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 12. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 12. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 12. pontja, a 182/2009. (IX. 10.) Korm. rendelet 527. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 12. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 13. § (5) bekezdése a 86/2025. (IV. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^24]: A 14. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 12. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: A 14. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 527. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 14. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 526. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 14. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 527. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^28]: A 16/A. §-t a 477/2016. (XII. 27.) Korm. rendelet 37. § (2) bekezdése iktatta be.
+[^29]: A 18. §-t a 477/2016. (XII. 27.) Korm. rendelet 37. § (3) bekezdése iktatta be.
+[^30]: Az 1. melléklet 1.2. pont 1.2.1. alpontja a 182/2009. (IX. 10.) Korm. rendelet 526. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Az 1. melléklet 1.2. pont 1.2.2. alpontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: Az 1. melléklet 2. pont 2.12. alpontja a 67/2022. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 2. melléklet címe a 182/2009. (IX. 10.) Korm. rendelet 528. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 2. melléklet 1. pont 1.2. alpontja a 477/2016. (XII. 27.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet 1.3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 2. melléklet 2.2. pontja a 86/2025. (IV. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^37]: A 2. melléklet 3. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 2. melléklet 4. pontját a 182/2009. (IX. 10.) Korm. rendelet 528. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

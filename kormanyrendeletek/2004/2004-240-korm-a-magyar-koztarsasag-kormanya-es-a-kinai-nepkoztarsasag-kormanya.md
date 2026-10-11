@@ -1,0 +1,286 @@
+---
+title: "240/2004. (VIII. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről szóló, Pekingben, 2003. augusztus 28. napján aláírt Egyezmény kihirdetéséről"
+identifier: "240/2004. (VIII. 16.) Korm. rendelet"
+njt_id: "2004-240-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/240"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-08-16
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-240-20-22"
+retrieved: 2026-10-12
+---
+
+# 240/2004. (VIII. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről szóló, Pekingben, 2003. augusztus 28. napján aláírt Egyezmény kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 2004. június 16. napján megtörtént. Az Egyezmény, annak XV. Cikkének értelmében, 2004. július 16. napján hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről szóló, Pekingben, 2003. augusztus 28. napján aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről
+
+A Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya (a továbbiakban: a Felek),
+
+annak érdekében, hogy a két ország közötti baráti kapcsolatokat tovább erősítsék és fejlesszék,
+
+megerősítve, hogy a bűnözést, különösen a határokon átlépő szervezett bűnözést megakadályozzák és visszaszorítsák a kábítószerrel folytatott illegális kereskedelmet és annak szállítását, valamint a terrorizmus elleni harcban történő együttműködést erősítsék,
+
+az egymás szuverenitása tiszteletben tartása, az egyenlőség és a kölcsönös előnyök alapján eljárva,
+
+az alábbiakban állapodtak meg:
+
+*I. Cikk*
+
+(1) A Felek a belső jogszabályaiknak, a vonatkozó nemzetközi szerződéseknek és a bűnüldöző szervek hatáskörének megfelelően, különösen az alábbi bűncselekmények megelőzésében és felderítésében együttműködnek:
+
+*a)* kábítószerek, pszichotróp anyagok és prekurzorok illegális forgalma,
+
+*b)* nemzetközi terrorcselekmények,
+
+*c)* csempészet,
+
+*d)* pénzmosás,
+
+*e)* pénz és készpénz-helyettesítő fizetőeszköz hamisítása,
+
+*f)* útlevél, vízum és egyéb közokirat hamisítása,
+
+*g)* fegyverek, lőszerek, robbanó anyagok, nukleáris anyagok és egyéb radioaktív anyagok illegális kereskedelme,
+
+*h)* szervezett embercsempészés és tiltott határátlépés,
+
+*i)* csalás,
+
+*j)* számítástechnikai bűncselekmények,
+
+*k)* egyéb, országhatárokon átnyúló bűnözés.
+
+(2) A Felek bűnüldöző szervei a fentiekben meghatározott bűncselekmények elleni fellépés érdekében – hatályos belső jogszabályaikkal összhangban – összehangolt intézkedéseket foganatosíthatnak a bűnfelderítés során, valamint személyi, technikai és szervezési támogatást nyújtanak egymásnak.
+
+(3) Amennyiben a fenti bűncselekményeket elkövető gyanúsított személy a bűncselekmény elkövetése után a másik Fél országába szökik, ezen Fél bűnüldöző szerve segítséget nyújt a megkereső Fél bűnüldöző szervének a gyanúsított személy körözése során.
+
+*II. Cikk*
+
+(1) A Felek bűnüldöző szervei, a belső jogszabályok keretében és saját hatáskörükben, a New Yorkban, 1961. március 30-án aláírt Egységes Kábítószer Egyezmény, valamint a módosításáról és kiegészítéséről, Genfben, 1972. március 25-én kelt Jegyzőkönyv, továbbá a pszichotróp anyagokról szóló, Bécsben, 1971. február 21-én aláírt Egyezmény, illetve a kábítószerek és pszichotróp anyagok tiltott forgalmazása ellen, Bécsben, 1988. december 20-án kelt ENSZ egyezmény rendelkezéseivel, valamint a határokon átnyúló szervezett bűnözés elleni harcról szóló, Palermóban, 2000. december 15-én aláírt Egyezmény célkitűzéseivel összhangban, az alábbi területekre kiterjedő együttműködést folytatnak a kábítószerek és pszichotróp anyagok, valamint ezek prekurzorai illegális előállításának és illegális kereskedelmének megelőzése és visszaszorítása érdekében:
+
+*a)* különböző új kábítószerekből, pszichotróp anyagokból és prekurzorokból vett minták és ezekre vonatkozó információk cseréje terén,
+
+*b)* kábítószerek és pszichotróp anyagok illegális előállításában és kereskedelmében résztvevő személyekre, az előállítás módszereire, tárolási helyeire és szállítási eszközeire, a kábítószerek és pszichotróp anyagok forrásaira és a célállomásra vonatkozó adatok cseréje terén,
+
+*c)* az alkalmazottak képzettségének, gyakorlati szintjének javítása érdekében szakembereket küldhetnek egymáshoz képzésre, gyakorlatokra és tapasztalatok cseréjére.
+
+(2) A Felek bűnüldöző szervei közötti együttműködés magában foglalja az ellenőrzött szállítást is.
+
+*III. Cikk*
+
+A terrorizmus megelőzése és visszaszorítása keretében a Felek bűnüldöző szervei az alábbi területeken információkat és adatokat cserélnek:
+
+*a)* az egyik Fél országának területén a másik Fél országa ellen tervezett vagy elkövetett terrorakciókról,
+
+*b)* a terrorista szervezetekről, azoknak tervezett vagy elkövetett terrorakciókban résztvevő tagjairól, valamint az általuk használt eszközökről,
+
+*c)* a közbiztonságot súlyosan veszélyeztető bűncselekmények megakadályozásához szükséges módszerekről.
+
+*IV. Cikk*
+
+A Felek bűnüldöző szervei a vonatkozó belső jogszabályaikkal összhangban, adatokat és információkat cserélnek egymással az alábbi területeken:
+
+*a)* az egyik Fél országának területén a másik Fél országa ellen előkészítés vagy végrehajtás alatt álló, vagy végrehajtott, az I. Cikkben felsorolt bűncselekmények,
+
+*b)* a Felek állampolgárai ellen a másik Fél országában elkövetett bűncselekmények, vagy olyan bűncselekmények, amelyek a másik ország állampolgárai ellen irányulnak,
+
+*c)* a bűncselekmények megelőzésére és visszaszorítására vonatkozó jogszabályok,
+
+*d)* a jelen Egyezmény végrehajtásának keretében egyéb, mindkét fél bűnüldöző szervének érdeklődésére számot tartó adatok és információk.
+
+*V. Cikk*
+
+A Felek bűnüldözői szervei tapasztalatcserét folytatnak az alábbi területeken:
+
+*a)* bűncselekmények megelőzése, megakadályozása és felderítése során szerzett tapasztalatokról,
+
+*b)* bűnügyi nyilvántartási rendszerekről,
+
+*c)* fegyverek, lőszerek, robbanóanyagok, mérgező anyagok, nukleáris anyagok és egyéb radioaktív anyagok és veszélyes áruk illegális forgalmára vonatkozó szabályokról,
+
+*d)* határellenőrzések módszereiről, beleértve az illegális migráció kezelését és visszaszorítását,
+
+*e)* a közúti, a vasúti, vízi és a légi közlekedés és polgári repülés biztonsága területén szerzett tapasztalatokról,
+
+*f)* a számítógépes bűncselekmények felderítésében és megelőzésében használt módszerekről és technikai felszerelésekről,
+
+*g)* a bűnüldöző szervek működését szabályozó jogszabályi háttérről,
+
+*h)* a rendőrök képzéséről és továbbképzéséről és a rendőrség szervezeti fejlesztésével kapcsolatos tapasztalatokról,
+
+*i)* a körözés tapasztalatairól.
+
+*VI. Cikk*
+
+A Felek támogatják az Interpol Magyar Nemzeti Iroda és a Kínai Népköztársaság Interpol Nemzeti Központi Irodája közötti együttműködést.
+
+*VII. Cikk*
+
+(1) A Felek bűnüldöző szervei – a belső jogszabályaiknak megfelelően – közösen kidolgozzák és végrehajtják a jelen Egyezmény I. Cikkében meghatározott különböző bűncselekmények megelőzése és visszaszorítása érdekében foganatosított intézkedéseket. A Felek illetékes bűnüldöző szervei hatáskörükben a saját területen szervezik a gyanúsított személyek felderítését és körözését és ennek eredményéről megfelelő időben tájékoztatják egymást.
+
+(2) A jelen Egyezmény végrehajtásának koordinálásáért a magyar Fél részéről a Belügyminisztérium, a kínai Fél részéről a Közbiztonságügyi Minisztérium a felelős. A minisztériumok a jelen Egyezmény végrehajtása érdekében külön megállapodást köthetnek.
+
+(3) A jelen Egyezmény keretében az átadott információk fogadására, továbbítására kijelölt központi bűnüldöző szervek:
+
+a magyar Fél részéről:
+
+– az Országos Rendőr-főkapitányság Nemzetközi Bűnügyi Együttműködési Központja
+
+Cím: 1139 Budapest, Teve utca 4–6.
+
+Telefon: 36-1-443-5557, 00-36-1-443-5584
+
+Fax: 36-1-343-1767;
+
+a kínai Fél részéről:
+
+– a Közbiztonsági Minisztérium Nemzetközi Együttműködési Főosztálya
+
+Cím: 100741, Beijing, Dong Chang An ú. 14.
+
+Telefon: 86-10-65203279, 86-10-65204389
+
+Fax: 86-10-65241596.
+
+*VIII. Cikk*
+
+(1) A jelen Egyezményben előírt együttműködés keretében a Felek bűnüldöző szervei információkat és adatokat, beleértve személyes adatokat, adhatnak át a másik Félnek.
+
+(2) A jelen Egyezményben meghatározott együttműködés keretében az adatoknak, beleértve a személyes adatoknak a másik Fél részére történő átadása során az alábbi rendelkezéseket kell alkalmazni:
+
+*a)* a Felek, írásbeli kérelemre a Felek bűnüldöző hatóságai által összegyűjtött adatokat, beleértve a személyes adatokat adhatnak át. A kérelemben meg kell jelölni a kért adatok körét és a felhasználás célját;
+
+*b)* az átvevő Fél az átvett adatokat kizárólag az átadó Fél által meghatározott feltételek szerint, a jelen Egyezményben előírt célokra használhatja fel. Az átadó Fél kérésére az átvevő Fél tájékoztatást nyújt az adatok felhasználásáról;
+
+*c)* adatok kizárólag a bűnüldöző hatóságoknak adhatók át. Más hatóságnak adat csak az átadó hatóság előzetes, írásbeli hozzájárulásával továbbítható;
+
+*d)* az átadó Félnek, miután megállapította, hogy az adatok átadása szükséges és összhangban áll belső jogszabályi előírásaival, meg kell győződnie az átadandó adatok helyességéről. Amennyiben bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, akkor arról az átadó Fél haladéktalanul értesíti az átvevő Felet. Az átvevő Fél köteles haladéktalanul az átadó Fél kérésének megfelelően a téves adatokat helyesbíteni, illetve az át nem adható adatokat megsemmisíteni;
+
+*e)* a Felek kötelesek hatékonyan védeni az átadott adatokat a jogosulatlan hozzáférés, megváltoztatás és nyilvánosságra hozatal ellen. A Magyar Köztársaságban és a Kínai Népköztársaságban a személyeknek a személyes adatok védelméhez fűződő jogai a Felek jogszabályai szerint részesülnek védelemben;
+
+*f)* az adat átadásával az átadó Fél saját belső jogszabályainak megfelelően megjelöli az adatok törlésének határidejét. Ezen túlmenően, a személyes adatot törölni kell, amint az adatátadáskor megjelölt felhasználási cél megvalósult. Az átvett információkat és adatokat a jelen Egyezmény megszűnésekor törölni kell.
+
+(3) A jelen Cikk alapján, a (2) bekezdésben foglaltaknak megfelelően átadandó személyes adatok az alábbiakra terjedhetnek ki:
+
+*a)* a bűncselekmények elkövetésében résztvevő személyek és kapcsolataik személyazonosságára (családnév, utónév, adott esetben előző név, gúnynév vagy álnév, születés ideje és helye, nem, állampolgárság) és az általuk használt személyazonosító okmányok adataira;
+
+*b)* a gyanúsított személyek ujjnyomatára, tenyérnyomatára, személyleírására, fényképére, valamint a DNS-profilra;
+
+*c)* egyéb, az elkövetők és kapcsolataik azonosítására alkalmas adatokra.
+
+(4) A jelen Egyezmény alapján átadott információk, iratok, minták és technikai eszközök, beleértve a minősített adatokat és információkat is, harmadik fél részére történő átadása, az átadó Fél írásbeli hozzájárulása nélkül tilos.
+
+*IX. Cikk*
+
+(1) A Felek a jelen Egyezmény végrehajtása során gondoskodnak arról, hogy az átvett minősített adatokra, információkra vonatkozóan az átadó Fél által meghatározott azonos minősítési jelölést és azonos védelmet biztosítsák. Az átadó Félnek meg kell jelölnie a minősített adat érvényességi idejét.
+
+(2) A minősített adatok jelölését és azok megfeleltetését a jelen Egyezmény *melléklete* tartalmazza.
+
+(3) A Felek felhatalmazzák illetékes minisztériumaikat, hogy végrehajtási megállapodásban rögzítsék a jelen Megállapodás alapján átadott, illetve átvett minősített adatok személyi, fizikai, adminisztratív, kommunikációs és informatikai védelmének részletes szabályait, az adatok továbbításának módját, valamint a minősítési jelölésen kívül alkalmazható kezelési utasításokat.
+
+*X. Cikk*
+
+(1) Bármelyik Fél részben vagy egészben megtagadhatja a segítségnyújtásra, illetve az együttműködésre irányuló kérés teljesítést, ha az nemzeti szuverenitását korlátozza, biztonságát vagy közrendjét sérti.
+
+(2) A megtagadás indokairól a segítséget kérő Felet írásban, haladéktalanul értesíteni kell.
+
+*XI. Cikk*
+
+A jelen Egyezmény értelmében küldendő delegációk (csoportok) nemzetközi útiköltségeit a küldő Fél fizeti. A Felek eltérő megállapodásának hiányában, a kiküldött delegációknak a fogadó országban való tartózkodása ideje alatt felmerült költségeket a fogadó Fél fedezi.
+
+*XII. Cikk*
+
+A Felek képviselői minden harmadik évben, felváltva Budapesten, illetve Pekingben találkoznak a jelen Egyezmény végrehajtásáról történő tapasztalatcsere és további együttműködési tervek megvitatása céljából.
+
+*XIII. Cikk*
+
+A jelen Egyezmény nem érinti azon nemzetközi kötelezettségek végrehajtását, amelyek olyan egyéb nemzetközi szerződésekből erednek, melyeket a Felek aláírtak vagy abban részesek.
+
+*XIV. Cikk*
+
+A jelen Egyezményt a Felek kölcsönös egyetértéssel módosíthatják és kiegészíthetik. A jelen Egyezmény értelmezésével vagy alkalmazásával kapcsolatban esetlegesen felmerülő vitát diplomáciai úton kell rendezni.
+
+*XV. Cikk*
+
+A jelen Egyezmény az azt követő 30 (harmincadik) napon lép hatályba, amikor a Felek diplomáciai úton írásban tájékoztatják egymást, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásoknak. A hatálybalépés napját a későbbi diplomáciai jegyzék kézhezvételétől kell számítani.
+
+A jelen Egyezmény öt évig marad hatályban és automatikusan öt-öt évvel meghosszabbodik, ha a Felek egyike nem nyilvánítja ki írásban, három hónappal az Egyezmény hatályának lejárta előtt az Egyezmény felmondására vonatkozó szándékát.
+
+Kelt Pekingben, 2003. augusztus 28. napján, két eredeti példányban, magyar, kínai és angol nyelven, mindhárom szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+*(Aláírások)*
+
+*Melléklet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között a szervezett bűnözés elleni küzdelemben folytatott együttműködésről szóló Egyezmény IX. Cikk (2) bekezdéséhez*
+
+**A minősített adatok jelölése és azok megfeleltetése**
+
+(1) A Magyar Fél a minősített adat hordozóján:
+
+*a)* államtitok esetén: „Államtitok!” megjelölést és „Szigorúan titkos!” minősítési jelölést,
+
+*b)* szolgálati titok esetén:
+
+„Szolgálati titok!” megjelölést és a minősítő döntésétől függően:
+
+*ba)* „Titkos!”,
+
+*bb)* „Bizalmas!”,
+
+*bc)* „Korlátozott terjesztésű!” minősítési jelölést tüntet fel.
+
+(2) A Kínai Fél a minősített adat hordozóján:
+
+*a)* államtitok esetén a megjelölés és minősítés: „Top Secret”,
+
+*b)* szolgálati titok esetén a megjelölés és a minősítési döntéstől függően:
+
+*ba)* „Secret”,
+
+*bb)* „Confidential”,
+
+*bc)* „Restricted”.
+
+(3) *a)* A Magyar Fél által „Szigorúan titkos!” (melynek angol megfelelője „Top Secret”) jelöléssel ellátott adathordozót a Kínai Népköztársaságban „Top Secret”-ként kell kezelni.
+
+*b)* A Magyar Fél által „Titkos!” (melynek angol megfelelője „Secret”) jelöléssel ellátott adathordozót a Kínai Népköztársaságban „Secret”-ként kell kezelni.
+
+*c)* A Magyar Fél által „Bizalmas!” (melynek angol megfelelője „Confidential”) jelöléssel ellátott adathordozót a Kínai Népköztársaságban „Confidential”-ként kell kezelni.
+
+*d)* A Magyar Fél által „Korlátozott terjesztésű!” (melynek angol megfelelője „Restricted”) jelöléssel ellátott adathordozót a Kínai Népköztársaságban „Restricted”-ként kell kezelni.
+
+(4) *a)* A Kínai Fél által „Top Secret” jelöléssel ellátott adathordozót a Magyar Köztársaságban „Szigorúan titkos!”-ként kell kezelni.
+
+*b)* A Kínai Fél által „Secret” jelöléssel ellátott adathordozót a Magyar Köztársaságban „Titkos!”-ként kell kezelni.
+
+*c)* A Kínai Fél által „Confidential” jelöléssel ellátott adathordozót a Magyar Köztársaságban „Bizalmas!”-ként kell kezelni.
+
+*d)* A Kínai Fél által „Restricted” jelöléssel ellátott adathordozót a Magyar Köztársaságban „Korlátozott terjesztésű!”-ként kell kezelni.”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba.
+
+(2) A Megállapodás rendelkezéseit 2004. július 16. napjától kell alkalmazni.
+
+(3)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter és az adópolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 184. pontja szerint módosított szöveg.

@@ -1,0 +1,3390 @@
+---
+title: "217/1997. (XII. 1.) Korm. rendelet a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról"
+identifier: "217/1997. (XII. 1.) Korm. rendelet"
+njt_id: "1997-217-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/217"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-12-01
+in_force_from: 2010-01-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-217-20-22"
+retrieved: 2026-10-12
+---
+
+# 217/1997. (XII. 1.) Korm. rendelet a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 83. §-ának (2) bekezdésében foglalt felhatalmazás alapján a Kormány az alábbiakat rendeli el:
+
+## Általános rendelkezések
+
+### 1. §
+
+(1)[^1] E rendelet hatálya kiterjed a biztosítottakra, az egészségügyért felelős miniszter által vezetett minisztériumra (a továbbiakban: minisztérium), a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK), az egészségbiztosítási pénztári feladatkörében eljáró Magyar Államkincstárra (a továbbiakban: Kincstár), az egészségbiztosítási pénztári feladatkörükben eljáró fővárosi és vármegyei kormányhivatalra (a továbbiakban: kormányhivatal), továbbá a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra, gyógyszert és gyógyászati segédeszközt forgalmazó, illetve kiszolgáltató, gyógyászati ellátást nyújtó egészségügyi szolgáltatókra, a gyógyászati segédeszközt egyedi méretvétel alapján gyártó – egészségügyi szolgáltatónak nem minősülő – személyekre, továbbá a biztosított foglalkoztatójára, és annak társadalombiztosítási kifizetőhelyére (a továbbiakban: kifizetőhely).
+
+(2)[^2] E rendelet alkalmazásában
+
+a)[^3] *gyógyfürdő:* az a létesítmény, amit a természetes gyógytényezőkről szóló rendelet alapján a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala annak nyilvánít,
+
+b) *jövedelem:*
+
+ba)[^4]
+
+bb) az Ebtv. 26. §-a és 50. §-a alapján benyújtott méltányossági kérelmek elbírálásánál a személyi jövedelemadóról szóló törvényben jövedelemként meghatározott vagyoni érték (bevétel) munkavállalói járulékkal, személyi jövedelemadóval, egészségbiztosítási és nyugdíjjárulékkal, magán-nyugdíjpénztári tagdíjjal, valamint a jövedelemadóról szóló törvényben elismert költségekkel csökkentett része, függetlenül attól, hogy adómentesnek vagy adókötelesnek minősül,
+
+c)[^5] *irányadó időszak:* folyamatos biztosítás esetén az ellátásra való jogosultság kezdő napján fennálló – az Ebtv. 39/A. § (1a) bekezdése szerinti esetben a megszűnt – biztosítási jogviszony első napjától az ellátásra való jogosultságot megelőző harmadik hónap utolsó napjáig terjedő időszak, melynek kezdő napja nem lehet korábbi az ellátásra való jogosultságot megelőző naptári év első napjánál,
+
+d)[^6] *számítási időszak:* az irányadó időszakon belül az Ebtv. 48. § (1)–(4) bekezdésében, baleseti táppénz esetén az Ebtv. 55. § (7) bekezdésében meghatározott időszak azon naptári napjai, amelyre társadalombiztosítási járulékalapot képező jövedelmet vallottak be, amely időszak legfeljebb azon hónapig tarthat, ameddig a biztosított jövedelméről a bevallás benyújtásra került,
+
+e)[^7] *funkcionális alcsoport:* az MSZ EN ISO 9999 szabvány szerinti hatodik szintű tizenkétjegyű besorolási csoport (ISO12),
+
+f)[^8] *funkcionális csoport:* az MSZ EN ISO 9999 szabvány szerinti ötödik szintű tízjegyű besorolási csoport (ISO10),
+
+g)[^9] *funkcionális elv szerinti fixcsoport:* funkcionális csoport vagy funkcionális alcsoport szintjén megképzett támogatási csoport,
+
+h)[^10] *közfinanszírozás alapjául elfogadott ár:* a NEAK által az árhoz nyújtott támogatás számításához figyelembe vett nettó összeg,
+
+i)[^11] *rendeltetés szerinti fixcsoport:* rendeltetési csoport szintjén megképzett támogatási csoport,
+
+j)[^12] *rendeltetési csoport:* az MSZ EN ISO 9999 szabvány szerinti negyedik szintű nyolcjegyű besorolási csoport (ISO8),
+
+k)[^13] *rövid használati idejű eszköz:* hat hónapnál nem hosszabb kihordási idejű, egyszer használatos eszköznek nem minősülő gyógyászati segédeszköz,
+
+l)[^14] *kombinált kiszerelés:* olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több, általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 32. §-a szerinti külön kérelmet nyújt be a NEAK-hoz,
+
+m)[^15] *baleset:* balesetnek minősül az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy rövid idő alatt következik be, és sérülést, mérgezést, más (testi, lelki) egészségkárosodást vagy halált okoz,
+
+n)[^16] *nevelőszülő:* a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 54. §-ában meghatározott, nevelőszülői foglalkoztatási jogviszonyban álló nevelőszülő,
+
+o)[^17] *aktív félév:* a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) hatálya alá tartozó felsőoktatási intézménnyel létesített hallgatói jogviszony alapján olyan félév, amelyben a hallgatói jogviszony az Nftv. 45. §-a szerint nem szünetel.
+
+p)[^18] *keresőtevékenység:* a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. §-ában meghatározott biztosítási jogviszonyban, valamint egyszerűsített foglalkoztatás keretében végzett személyes tevékenység.
+
+(3)[^19] A (2) bekezdésben foglaltakon túl e rendelet alkalmazásában az Ebtv. 5/B. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
+
+(4)[^20] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként – ha kormányrendelet ettől eltérően nem rendelkezik – a NEAK-ot jelöli ki az Ebtv. 5/B. § n) pontjában, 9. §-ában, 19/A. § (4) bekezdésében, 20. § (1) bekezdésében, 20/A. § (3) és (10) bekezdésében, 21. § (1) bekezdés a) pont aa) alpontjában, b)*,* d)*,* e) és f) pontjában, 21/A. § (1) bekezdésében, 26. § (1) és (2)–(2b) bekezdésében, 27. § (6) és (10) bekezdésében, 30. §-ában, 30/A. §-ában, 31. § (2) és (7) bekezdésében, 32. §-ában, 35. § (4), (7) és (8) bekezdésében, 36. § (1)–(2), (4) és (6)–(9) bekezdésében, 38. § (1), (2) és (4)–(6) bekezdésében, 37. §-ában, 38/A. §-ában, 38/B. §-ában, 38/C. §-ában, 65. § (2) bekezdésében, 70. § (5) bekezdésében, 79/A. §-ában, a 80. § (5b) bekezdésében, 79/C. §-ában, 81. § (1) bekezdésében, 82. § (2) bekezdésében foglalt feladatok ellátására.
+
+(4a)[^21] A Kormány egészségbiztosítóként a NEAK-ot jelöli ki az Ebtv. 36. § (3) bekezdésében foglalt feladatok ellátására. A NEAK jogosult az Ebtv. 36. § (1)–(9) bekezdésében, továbbá az Ebtv. 37–38/C. §-ában meghatározott ellenőrzésekhez elemzéseket végezni, ellenőrzéseket elrendelni, koordinálni és irányítani.
+
+(5)[^22] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki a 12. § (4) bekezdésében meghatározott feladatok kivételével az Ebtv. 27. § (1), (2), (5) és (7) bekezdésében, 35. § (5) bekezdésében, 50. §-ában, 61. § (12)–(14) bekezdésében, 62. § (1a) bekezdésében, 65. § (2) bekezdésében, 68/A. § (4) bekezdésében, 69. §-ában, 70. § (1) bekezdés b) és d) pontjában, 70. § (4) bekezdésében, 72. §-ában, 77. § (3) bekezdésében, 79/B. §-ában, 80. § (3)–(5) bekezdésében, valamint 81. § (1) bekezdésében foglalt feladatok ellátására.
+
+(5a)[^23] A Kormány egészségbiztosítóként és egészségbiztosítási szervként Budapest Főváros Kormányhivatalát jelöli ki az Ebtv. 70. § (1) bekezdés c) pontjában foglalt feladatok ellátására.
+
+(5b)[^24] A Kormány egészségbiztosítóként Budapest Főváros Kormányhivatalát jelöli ki, ha az Ebtv. 70. § (1) bekezdés b) pontja szerinti megtérítésre kötelező fizetési meghagyás az Ebtv. 18. § (8) bekezdés b) pontján alapul.
+
+(6)[^25] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a NEAK-ot, a Kincstár központi szervét (a továbbiakban: Központ), a kormányhivatalt együtt jelöli ki az Ebtv. 5. §-a, 79. § (1) és (3) bekezdésében, 80. § (1), (2) és (6) bekezdésében foglalt feladatok ellátására.
+
+(7)[^26]
+
+(7a)[^27] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként
+
+a)[^28] az Ebtv. 62. § (2b) bekezdése, (2c) bekezdés b) pontja, (3) és (4) bekezdése, valamint 63. § (1) bekezdése szerinti – a b) pont szerinti szerv által összeállított adatállománynak megfelelően végrehajtandó – folyósítási feladatok ellátására, továbbá az Ebtv. 50. §-a szerint méltányosságból megállapított pénzbeli ellátás és egyszeri segély folyósítására a Magyar Államkincstár Nyugdíjfolyósító Igazgatóságát,
+
+b)[^29] az Ebtv. 62. § (2) bekezdés b) pontja, 62. § (2a), (2d) és (2e) bekezdése, valamint 63. § (1) bekezdése szerinti elbírálási feladatok ellátására a kormányhivatalt
+
+jelöli ki.
+
+(7b)[^30]
+
+(7c)[^31] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a kormányhivatalt jelöli ki az Ebtv. 70. § (1) bekezdés a) pontjában és (3) bekezdésében, 81. § (2) bekezdésében foglalt feladatok ellátására.
+
+(7d)[^32] A Kormány egészségbiztosítóként, illetve egészségbiztosítási szervként a NEAK-ot és a kormányhivatalt együtt jelöli ki – a (10) és (11) bekezdésben foglaltak kivételével – az Ebtv. 71. § (1) és (2) bekezdésében, valamint 72. § (2) bekezdésében foglalt feladatok ellátására.
+
+(7e)[^33] A Kormány vasutas egészségbiztosítási szervként az Ebtv. 70. § (3) és (4) bekezdésében foglalt feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+
+(7f)[^34]
+
+(7g)[^35]
+
+(8)[^36] A 38/A. § (1) és (3) bekezdésében, a 40. § (2) bekezdésében, a 49. § (2) bekezdésében, a 49/A. §-ában, valamint az Ebtv. 72. § (2) bekezdésében, 77. § (3) bekezdésében, 79/B. §-ában, 81. § (1) és (2) bekezdésében foglalt esetekben a kormányhivatalok mint kifizetőhelyek, valamint a Tbj. 2. melléklet 6–8. pontja szerinti szervek kifizetőhelyei tekintetében a Központ jár el.
+
+(8a)[^37]
+
+(9)[^38] A kifizetőhelyek eljárására az Ebtv. és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit együttesen kell alkalmazni.
+
+(10)[^39] A Kormány egészségbiztosítóként, valamint egészségbiztosítási szervként az Ebtv. 71. § (1) bekezdésében, valamint 72. §-ában foglalt feladatok ellátására a Központot jelöli ki, ha a követelés érvényesítése az Ebtv. 70. § (1) bekezdés a) pontja vagy 80. § (6) bekezdése szerint hozott határozaton, illetve fizetési meghagyáson alapszik. A visszafizetésre kötelező, véglegessé vált határozatokon, illetve megtérítésre kötelező, véglegessé vált fizetési meghagyásokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatokat a Központ látja el, és a Központ rendeli el a végrehajtást.
+
+(10)[^40]
+
+(10a)[^41]
+
+(11)[^42] Az Ebtv. 72. §-a szerinti tartozás mérséklésére, elengedésére vagy részletfizetés engedélyezésére irányuló eljárás tartamára a végrehajtást fel kell függeszteni.
+
+(12)[^43]
+
+(13)[^44] A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel, a baleseti táppénzzel és az utazási költségtérítési támogatással kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
+
+## A beutalás nélkül igénybe vehető ellátások és a beutalásra jogosult orvosok
+
+## [Az Ebtv. 13–17. §-ához és 18. §-a (1) bekezdéséhez]
+
+### 2. §
+
+(1)[^45] A biztosított – az Ebtv. 20. § (4) bekezdésében meghatározott eset kivételével – orvosi beutaló nélkül is jogosult igénybe venni
+
+a) szakorvosi rendelő által nyújtott
+
+aa) bőrgyógyászati,
+
+ab) nőgyógyászati és gyermeknőgyógyászati,
+
+ac) urológiai,
+
+ad) pszichiátriai és addiktológiai
+
+ae) fül-, orr-, gégészeti, valamint csecsemő- és gyermek fül-orr-gégészeti,
+
+af) szemészeti és gyermekszemészeti,
+
+ag) általános sebészeti és baleseti sebészeti,
+
+ah) onkológiai
+
+ai)[^46] asszisztált reprodukciós
+
+szakellátást,
+
+b)[^47] az első alkalommal orvosi beutaló alapján igénybe vett bőr- és nemibeteg-gondozó, tüdőgondozó és onkológiai gondozó, valamint kúraszerű ellátás keretében a gondozásba vett biztosítottak részére nyújtott ellátást, azzal, hogy az ellátás igénybevételéhez már az első alkalommal sem szükséges orvosi beutaló, ha a biztosított a tüdőgondozó által nyújtott ellátást a dohányzásról történő leszokás támogatása céljából veszi igénybe.
+
+Az a) pont szerinti szakellátások körébe – az ott felsoroltakon kívül – nem tartoznak a szakmai főcsoporthoz sorolt, de ráépített szakképesítéssel ellátható szakellátások.
+
+(1a)[^48] A biztosított az (1) bekezdés szerinti szakellátásokat – az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott eset kivételével – a választása szerinti, az adott járóbeteg-szakellátás tekintetében érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál veheti igénybe azzal, hogy a biztosított tekintetében területi ellátási kötelezettséggel nem rendelkező egészségügyi szolgáltató – az (1b) bekezdésben és 5/G. §-ban meghatározott kivétellel – az Ebtv. 18. § (3) bekezdésében meghatározott esetben megtagadhatja a biztosított ellátását.
+
+(1b)[^49] Amennyiben bejelentett tartózkodási hely, illetve bejelentett lakóhely hiányában nem állapítható meg, hogy a biztosított tekintetében melyik egészségügyi szolgáltató rendelkezik területi ellátási kötelezettséggel, a biztosított ellátását nem tagadhatja meg a hajléktalan személyek ellátására külön jogszabály alapján szerződött háziorvosi ellátást nyújtó egészségügyi szolgáltató telephelye (ennek hiányában székhelye) szerint területileg ellátásra kötelezett egészségügyi szolgáltató.
+
+(1c)[^50] Az egészségügyi szolgáltató a honlapján és az ellátás nyújtásának helyén tájékoztatóban teszi közzé azoknak az ellátásoknak a körét, amelyek esetében nem fogadja az ellátási területén kívülről érkező biztosítottakat. Ilyen ellátások esetében a biztosítottat a betegfelvétel során szóban tájékoztatni kell arról, hogy van-e lehetőség a betegfogadási lista alapján egy későbbi időpontban történő ellátás-igénybevételre.
+
+(1d)[^51] Az (1) bekezdésben nem szereplő járóbeteg-szakellátások – a 4. § (1) bekezdés b) pontjában foglalt esetek kivételével – csak beutalóval vehetőek igénybe. Amennyiben a biztosított az (1) bekezdésben nem szereplő járóbeteg-szakellátást nem a beutalóban megnevezett egészségügyi szolgáltatónál szándékozik igénybe venni, úgy kell tekinteni, hogy a biztosított nem rendelkezik beutalóval.
+
+(2) Az (1) bekezdésben nem említett járóbeteg-szakellátásokra a biztosítottat
+
+a)[^52] a háziorvos, a házi gyermekorvos (a továbbiakban együtt: háziorvos), valamint szakkonzílium céljából a fogorvos,
+
+b)[^53] a járóbeteg-szakellátás – ideértve az (1) bekezdés b) pontjában foglalt gondozókat és a genetikai tanácsadókat is – orvosa, az egynapos ellátást nyújtó szolgáltató orvosa,
+
+c) a pszichiátriai betegek és a fogyatékosok otthonánál, illetve rehabilitációs intézményénél foglalkoztatott orvos, ideértve a fekvőbeteg-gyógyintézetek orvosát,
+
+d)[^54] az iskola- és ifjúság-egészségügyi szolgálat orvosa,
+
+e)[^55] a rendészetért felelős miniszter, valamint a katasztrófák elleni védekezésért felelős miniszter által vezetett és irányított szervek, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) orvosa,
+
+f) a büntetés-végrehajtás orvosa,
+
+g) a sorozó orvos,
+
+h)[^56] az orvosszakértői szerv orvosa,
+
+i)[^57] a NEAK ellenőrző főorvosi hálózatának orvosa,
+
+j)[^58] a személyes gondoskodást nyújtó bentlakásos szociális intézmény orvosa,
+
+k)[^59] az Ebtv. 10. §-a (1) bekezdésének e) alpontja alapján saját feladatkörében az országos sportegészségügyi hálózat orvosa,
+
+l)[^60] a Nemzeti Adó- és Vámhivatal orvosa
+
+m)[^61]
+
+n)[^62] a külpolitikáért felelős miniszter által vezetett minisztérium foglalkozás-egészségügyi szolgáltatói feladatokat ellátó orvosa
+
+(a továbbiakban együtt: beutaló orvos) utalhatja be.
+
+(3)[^63] A foglalkozás-egészségügyi szolgálatok orvosa járóbeteg-szakellátásra a biztosítottat a foglalkozás-egészségügyi szolgáltatásról szóló 27/1995. (VII. 25.) NM rendeletben foglalt feladatai keretében utalhatja be.
+
+(4)[^64] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató orvosa a 0–4 napos életkorban jogszabály szerint kötelező szűrővizsgálatok elvégzése érdekében jogosult beutalásra.
+
+(5) A társadalombiztosítási ellátásra, a külön jogszabályban meghatározott szociális juttatásra vagy kedvezményre való jogosultság megállapítása céljából a biztosított orvosi beutaló nélkül jogosult felkeresni a vonatkozó jogszabály szerint a szakvélemény (igazolás) elkészítésére jogosult egészségügyi szolgáltatót.
+
+(6)[^65] Az (1) bekezdés b) pontjában foglaltakat is figyelembe véve, ha a beutaló-köteles járóbeteg-szakellátás keretében a biztosított ismételt ellátása, ideértve a kontrollvizsgálatot is (a továbbiakban: visszarendelés) orvosszakmai szempontból indokolt, a visszarendeléshez a járóbeteg-szakellátás orvosa részéről új beutaló kiállítása szükséges, kivéve, ha a visszarendeléssel érintett ellátás során közvetlen orvosi közreműködés nem szükséges.
+
+(7)[^66]
+
+(8)[^67] Amennyiben a biztosított az (1) bekezdésben meg nem nevezett járóbeteg-szakellátást beutaló nélkül vesz igénybe és a 4. § (1) bekezdésének b) pontjában meghatározott eset nem áll fenn, az adott szakellátás keretében további szakellátás a biztosított részére nem kezdeményezhető.
+
+(9)[^68] Ha a beteg vizsgálata, illetve gyógykezelése érdekében az egészségügyi alapellátás szolgáltatásait meghaladó vizsgálat vagy kezelés szükséges, a háziorvos – beutalóval – szakorvosi konzíliumot kérhet.
+
+(10)[^69] A szakorvosi vizsgálat, illetve ellátás, továbbá a szakorvosi konzílium – a beteg beleegyezése esetén – a beteg otthonában is elvégezhető, ha az a beteg egészségi állapota vagy egyéb körülmények miatt indokolt, és a vizsgálat, illetve az ellátás jogszabályban előírt feltételei a szakorvosi rendelőn kívül is teljesíthetőek.
+
+### 3. §
+
+(1)[^70] A biztosítottat MRI (mágneses magrezonancia), CT (komputertomográfia), DSA (digitális szubtrakciós angiográfia) vizsgálatra – a (2a) bekezdésben foglaltakra is figyelemmel – a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. A PET-CT (pozitronemissziós tomográfia-komputertomográfia) vizsgálat várólistájára való felvételre a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet klinikai onkológus, hematológus, idegsebész, valamint neurológus szakorvosa tehet javaslatot a külön jogszabály szerinti indikáció esetén.
+
+(2)[^71] A biztosítottat a járóbeteg-szakellátás keretében igénybe vehető laboratóriumi vizsgálatokra az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 2. mellékletében külön jelzéssel ellátott, továbbá az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabályokban meghatározott esetekben – a (2a) bekezdésben foglaltakra is figyelemmel – a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézet szakorvosa utalhatja be. Azon laboratóriumi vizsgálatok megismétlése, amelyekre az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeleti szabály rendelkezéseket tartalmaz, az abban előírt gyakorisággal kezdeményezhető, kivéve, ha az ettől való eltérést a biztosított egészségi állapota indokolja.
+
+(2a)[^72] Az (1) és (2) bekezdés szerinti laboratóriumi vizsgálatokra, valamint CT, MR vizsgálatra történő beutalásra – ha a beutalás az életkorhoz kötött szűrőprogram keretében kiszűrt, nem negatív beteg további vizsgálata érdekében történik – az a háziorvosi tevékenységet végző orvos, a rend- és honvédelmi alapellátásba tartozó tevékenységet végző orvos, valamint a honvédelmi szervezet orvosa is jogosult, aki a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló miniszteri rendelet szerinti valamely – nem háziorvosi – szakorvosi szakképesítéssel rendelkezik.
+
+(2b)[^73] A (2) bekezdés szerinti laboratóriumi vizsgálatokra történő beutalást megelőzően az orvos az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) szolgáltatásának használatával ellenőrzi, hogy a beutalást megelőzően került-e sor a biztosított laboratóriumi vizsgálatára, és hogy az ismételt vizsgálat (2) bekezdés szerinti feltételei fennállnak-e.
+
+(3)[^74] A biztosítottat fekvőbeteg-gyógyintézeti ellátásra a 2. § (2) bekezdésében meghatározott orvos utalhatja be.
+
+(4)[^75] A biztosítottat
+
+a) fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolásra és otthoni hospice ellátásra saját vagy kezelőorvosi kezdeményezésre a háziorvos,
+
+b) krónikus ápolás finanszírozására szerződött egészségügyi szolgáltatónál történő intézeti ápolásra a háziorvos és a fekvőbeteg-gyógyintézet orvosa
+
+utalhatja be.
+
+(5)[^76] A biztosítottat rehabilitációs ellátásra kizárólag a rehabilitációt megalapozó megbetegedés gyógykezeléséhez szükséges szakorvosi szakképesítéssel rendelkező orvos és e megbetegedéshez kapcsolódó esetleges szövődmények tekintetében illetékes szakorvos, illetve a rehabilitáció vagy fizikoterápia szakorvosa utalhatja be. A 0–3 év közötti gyermeket habilitációs kezelésre a háziorvos, házi gyermekorvos is beutalhatja.
+
+(6)[^77] A biztosítottat szenvedélybetegsége esetén – az akut elvonási időszakot követően – pszichiáter, addiktológus szakorvos vagy háziorvos utalhatja be rehabilitációs ellátásra.
+
+(7)[^78] A (6) bekezdés szerinti szenvedélybeteg rehabilitációja történhet a szociális igazgatásról és szociális ellátásokról szóló törvény[^79] hatálya alá tartozó, az egészségügyi államigazgatási szerv által kiadott működési engedéllyel rendelkező személyes gondoskodást nyújtó intézményben is.
+
+(8)[^80] Az Ebtv. 20. § (4) bekezdése alapján a 3/A. § (10a) bekezdése szerinti beutalót – a miniszteri rendeletben meghatározott esetben – a keresőképtelen állományba vevő orvos vagy a felülvéleményező főorvos állíthatja ki.
+
+(9)[^81] Laborvizsgálat és képalkotó diagnosztikai ellátás nem végezhető beutaló nélkül, kivéve ha a 4. § (1) bekezdés b) pontjában meghatározott eset áll fenn.
+
+### 3/A. §[^82]
+
+(1)[^83] A biztosítottat – az Ebtv. 18. § (4) bekezdésében foglaltak figyelembevételével és a (2) bekezdésben meghatározott kivétellel – a biztosított választása alapján ahhoz a – progresszivitási szintnek megfelelő – járóbeteg-szakellátást nyújtó szolgáltatóhoz, illetve abba a fekvőbeteg-gyógyintézetbe kell beutalni, amelyik ellátási területéhez a beutaló szerinti ellátás tekintetében
+
+a) a biztosított bejelentett lakóhelye,
+
+b) a biztosított bejelentett tartózkodási helye, vagy
+
+c) ha a beutaló orvos háziorvos (ideértve a hajléktalanok ellátására külön jogszabály alapján szerződött háziorvosi ellátást nyújtó szolgáltatót is), akkor a háziorvos telephelye (ennek hiányában székhelye)
+
+tartozik.
+
+(1a)[^84] Az (1) és az (1c) bekezdés alapján választott – beutaló szerinti – egészségügyi szolgáltató nem utasíthatja el a biztosítottat arra hivatkozva, hogy nem rendelkezik a biztosított szempontjából területi ellátási kötelezettséggel.
+
+(1b)[^85] Az egészségügyi szolgáltató nem tagadhatja meg a biztosított intenzív ellátását arra hivatkozva, hogy az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 5/A. § (7) bekezdése szerinti nyilvántartásban szereplő ellátási területe alapján nem rendelkezik a biztosított szempontjából területi ellátási kötelezettséggel, ha az intenzív ellátás az ellátási területen kívülről fogadott biztosított szakellátásához – ide nem értve az egészségügyről szóló 1997. évi CLIV. törvény 77. §-ában meghatározott ellátásokat – kapcsolódik.
+
+(1c)[^86] A szakellátást nyújtó egészségügyi szolgáltató által foglalkoztatott személyt és a közeli hozzátartozóját választása alapján az (1) bekezdés szerinti szolgáltató helyett a foglalkoztató egészségügyi szolgáltatóhoz kell beutalni.
+
+(2)[^87] A beutaló orvos a biztosított kérésére az (1) és az (1c) bekezdésben meghatározottól eltérő, az adott szakellátás tekintetében a biztosított ellátására területileg nem kötelezett egészségügyi szolgáltatóhoz utalja be a biztosítottat, ha a szolgáltató a beutaló orvos vagy a biztosított felé írásban nyilatkozott arról, hogy fogadja a biztosítottat.
+
+(3)[^88] A (2) bekezdésben meghatározott esetben a szakellátást nyújtó szolgáltató a beutaló orvos megkeresésére 48 órán belül írásban (postai vagy elektronikus úton) nyilatkozik arról, hogy fogadja-e a biztosítottat.
+
+(4)[^89] Az egészségügyi szolgáltató a (3) bekezdés szerinti előzetes megkeresés során az ellátást csak az Ebtv. 18. §-ának (3) bekezdésében meghatározott esetben tagadhatja meg.
+
+(5)[^90] A beutaló orvos vagy a biztosított felé a (2) bekezdés szerint tett nyilatkozat tényét, illetve a (3) bekezdés szerinti megkeresés tényét és a megkeresésre kapott választ a biztosított egészségügyi dokumentációjában kell rögzíteni, valamint a (2) bekezdés szerinti nyilatkozat egy példányát a biztosított rendelkezésére kell bocsátani.
+
+(5a)[^91] Az uniós beteget ahhoz a – progresszivitási szintnek megfelelő – járóbeteg-szakellátást nyújtó szolgáltatóhoz, illetve abba a fekvőbeteg-gyógyintézetbe is be lehet utalni, amelyik ellátási területéhez a beutaló szerinti ellátás tekintetében a beutalót kiállító orvos járóbeteg-szakellátást nyújtó egészségügyi szolgáltatójának a telephelye, illetve a székhelye szerinti település tartozik.
+
+(6)[^92] A beutalás szerinti egészségügyi szolgáltató a biztosítottat abban az esetben utalhatja tovább magasabb progresszivitási szintű ellátást nyújtó egészségügyi szolgáltatóhoz, ha a biztosított ellátásához szükséges feltételekkel nem rendelkezik.
+
+(7)[^93] Ha a járóbeteg-szakellátás orvosa a nála megjelent beteg további szakorvosi vizsgálatát tartja szükségesnek, orvosi konzíliumot kérhet, illetőleg a beteget – a 2. § (8) bekezdésében megállapított eset kivételével – továbbutalja a szakmailag illetékes másik szakrendelésre. Amennyiben a járóbeteg-szakellátás orvosa a beteg fekvőbeteg-gyógyintézeti elhelyezését tartja szükségesnek, a beteget fekvőbeteg-gyógyintézetbe utalja.
+
+(8)[^94] Ha a beutaló szerinti fekvőbeteg-gyógyintézet orvosa a gyógyintézet szolgáltatásait meghaladó vizsgálat szükségességét állapítja meg, a beteget átutalja a vizsgálatok, illetőleg a gyógykezelés elvégzéséhez megfelelő személyi és tárgyi feltételekkel rendelkező szakellátást végző intézetbe.
+
+(9)[^95] A (6)–(8) bekezdésben foglalt esetekben nem kell alkalmazni az (1)–(5) bekezdésben foglaltakat azzal, hogy a beteg szakellátásra utalásáról, illetőleg átutalásáról a beutaló orvos tájékoztatja a beteg háziorvosát.
+
+(10)[^96] A beutalónak tartalmaznia kell:
+
+a) a beutaló orvos és munkahelyének azonosítására szolgáló adatot, megnevezését, kódját,
+
+b) a biztosított nevét, TAJ-át,
+
+c) a vizsgálatra vagy gyógykezelésre felkért szolgáltató nevét, intézményi azonosító kódját,
+
+d) a beutaló orvos által végzett ellátást azonosító naplósorszámot, a beteg rövid kórelőzményét,
+
+e)[^97] a beutaló diagnózis szöveges leírását, kódját, konzíliumi beutaló esetén a konkrét kérdést,
+
+f) annak megjelölését, hogy a beutalt biztosított tekintetében rendelkezik-e az adott szakellátás tekintetében a c) pont szerinti egészségügyi szolgáltató területi ellátási kötelezettséggel,
+
+g) a beutaló kiállításának dátumát,
+
+h) a (10b) bekezdés a) pontja szerinti időpontot, ha az későbbre esik a beutaló kiállításától számított 90. napnál,
+
+i)[^98] nem engedélyköteles külföldön történő gyógykezelés esetén az igénybe venni kívánt beavatkozás OENO kódját.
+
+(10a)[^99] Az Ebtv. 20. § (4) bekezdése szerinti esetben a beutalónak – a kötelező tartalmi elemein túl – tartalmaznia kell
+
+a) azt a tényt, hogy a beutaló orvos a biztosítottat a keresőképtelenségével összefüggő betegsége miatt soron kívül utalja be,
+
+b) azt, hogy a biztosított keresőképtelensége ugyanazon betegségből adódóan folyamatosan hány napja áll fenn, valamint
+
+c) a biztosított táppénzes naplószámát.
+
+(10b)[^100] A (10), illetve a (10a) bekezdésben foglaltaknak megfelelő beutaló
+
+a)[^101] a 2. § (6) bekezdése szerinti esetben a beutaló orvos által a beutalón megjelölt időpontig, de legalább 90 napig,
+
+b) az a) pont alá nem tartozó esetben a kiállításától számított 90 napon belül
+
+használható fel.
+
+(10c)[^102] A (10b) bekezdés alkalmazásában a beutaló felhasználásának minősül
+
+a) a beutaló szerinti egészségügyi szolgáltatóhoz történő bejelentkezés a beutaló szerinti ellátásra,
+
+b) a beutaló szerinti ellátás igénybevételének megkezdése a beutaló szerinti egészségügyi szolgáltatónál, vagy
+
+c) a beutaló szerinti ellátás igénybevétele a beutaló szerinti egészségügyi szolgáltatónál.
+
+(10d)[^103] A beutalóra adott szakvélemény tartalmazza a beutaló orvos kérdéseire adott válaszokat, a betegség okozta elváltozásokat, az esetleges további teendők szükségességét, ismételt szakkonzíliumot vagy szakkonzíliumokra tett javaslatot. A keresőképesség véleményezéséről csak a beutaló orvos ez irányú kérdésére lehet nyilatkozni.
+
+(10e)[^104] A (10) bekezdésben foglaltaktól eltérően a várandósgondozásról szóló miniszteri rendelet szerinti, a várandósgondozási könyvben szereplő, beutalóhoz kötött vizsgálatok tekintetében beutalónak minősül a várandósgondozási könyv, ha tartalmazza a beutaló gondozó háziorvos nevét, pecsétjét és aláírását, a várandósságot igazoló BNO-kódot, valamint a (10) bekezdés a), b), d) és g) pontja szerinti adatokat. A beutaló a (10) bekezdés g) pontja szerinti időponttól számított 300. napig használható fel.
+
+(10f)[^105] A beutaló orvos tájékoztatja a beteget arról, hogy a beutalóban szereplő ellátásra egészségszakmai szempontból legkorábban milyen időpontot vehet igénybe.
+
+(11)[^106] Az Ebtv. 18. § (1) bekezdésében foglaltak vizsgálatához a NEAK rendszeresen tájékoztatja a finanszírozott egészségügyi szolgáltatót a beutalásra jogosult orvosok kódjáról.
+
+(12)[^107] Az egészségügyi szolgáltató belső szabályzatában nevezi meg azon személyt, aki a (2) bekezdésben meghatározott nyilatkozatot megteheti.
+
+### 4. §
+
+(1) A biztosított a 2–3. § rendelkezéseitől eltérően
+
+a)[^108] a NEAK-kal egészségügyi szolgáltatás nyújtására finanszírozási szerződést nem kötött egészségügyi szolgáltató orvosa beutalása alapján is jogosult fekvőbeteg-gyógyintézeti ellátásra, ha az orvos megállapítása szerint közvetlen életveszély áll fenn, és az életveszély csak fekvőbeteg-gyógyintézetben alkalmazható gyógymóddal hárítható el,
+
+b) orvosi beutaló nélkül is jogosult a járóbeteg-szakellátás és a fekvőbeteg-gyógyintézeti ellátás kezdeményezésére, ha azt vélelmezi, hogy egészségi állapota az azonnali ellátását indokolja és a beutalásra jogosult orvos felkeresése az ellátását jelentősen késlelteti.
+
+(2) Az (1) bekezdés a) pontjában foglalt esetben az orvos a beteget azonnal fekvőbeteg-gyógyintézetbe szállíttatja és a magánorvosi rendelvényen feltünteti a kórismét, valamint az azonnali felvétel szükségességének indokait.
+
+(3) Az (1) bekezdés b) pontjában foglalt esetben az az egészségügyi szolgáltató, amelynél a biztosított az ellátását kezdeményezi, a biztosított vizsgálatát követően dönt az azonnali ellátás szükségességéről. Amennyiben a vizsgálat megállapítása szerint a biztosított egészségi állapota nem indokolja az azonnali ellátását, az egészségügyi szolgáltató orvosa
+
+a) a biztosítottat a beutalására jogosult orvoshoz irányítja,
+
+b) ha a biztosított továbbra is kezdeményezi az azonnali ellátását, tájékoztatja a biztosítottat az orvosi beutaló nélkül indokolatlanul igénybe vett egészségügyi ellátásért fizetendő térítési díjról.
+
+### 4/A. §[^109]
+
+(1)[^110] Az orvos a beutalót az EESZT útján is kiállíthatja. Az EESZT útján kiállított beutalóra e rendelet szabályai az e §-ban meghatározott eltérésekkel alkalmazandóak.
+
+(1a)[^111] A beutalót az EESZT útján kell kiállítani, ha a beutalás
+
+a) a 2. § (2) bekezdés a) vagy b) pontja – ide nem értve a fogorvos által kezdeményezett szakkonzíliumot –,
+
+b) a 3. § (4) bekezdés b) pontja vagy
+
+c) a 3. § (5)–(7) bekezdése
+
+alapján történik.
+
+(1b)[^112] Ha az (1a) bekezdés szerinti beutalás időpontjában az EESZT nem elérhető, az (1a) bekezdés szerinti beutaló orvos a papíralapú beutaló kiállításától számított négy napon belül, az EESZT üzemzavara esetén annak tényleges megszűnését követő négy napon belül kiállítja az elektronikus beutalót.
+
+(2)[^113] Az EESZT útján kiállított beutaló esetében a beutaló orvos a beteg kérésére papíralapú igazolást állít ki a beutalóról. Az igazolás az elektronikus beutaló adattartalmát és az elektronikus beutaló EESZT azonosítóját tartalmazza vonalkódos és szövegesen olvasható formában.
+
+(3)[^114] Az ellátást nyújtó egészségügyi szolgáltató a beutalót az EESZT útján tekinti meg és ellenőrzi, valamint az EESZT útján rögzíti a beutaló felhasználását, az ellátás megtörténtét. Ha az adatok rögzítése bármely okból sikertelen, az ellátást nyújtó egészségügyi szolgáltató az ellátást követő 24 órán belül köteles az adatokat rögzíteni.
+
+(3a)[^115] Az EESZT útján kiállított beutaló esetén, ha az EESZT üzemszünet vagy üzemzavar miatt nem elérhető, az ellátás a (2) bekezdés szerinti papíralapú igazolás vagy az EgészségAblak alkalmazásban bemutatott beutaló adatok alapján is nyújtható. Ilyen esetben a (3) bekezdés szerinti kötelezettséget az üzemszünet esetén annak végét, üzemzavar esetén annak tényleges megszűnését követő négy napon belül kell teljesíteni.
+
+(4)[^116] A beutaló orvos a beutaló kiállításával egyidejűleg, vagy a beteg a beutaló érvényességi idején belül az EESZT erre szolgáló internetes felületén az ellátást nyújtó egészségügyi szolgáltatóhoz – ha a szolgáltatónál a technikai feltételek adottak – időpontot tud foglalni.
+
+(5) Ha az EESZT útján kiállított beutalón javítást vagy más változtatást kell eszközölni, a beutaló orvos a beutalót a változtatás okának megjelölésével az EESZT útján visszavonja. A beutaló orvos ilyen esetben értesíti a beteget – kivéve, ha a változtatás szükségességét a beteg jelzi az orvos felé –, és gondoskodik új beutaló kiállításáról.
+
+### 5. §
+
+(1) A szülészeti ellátás keretébe tartozó genetikai tanácsadást és az ehhez szükséges diagnosztikai vizsgálatokat, továbbá a meddőség tényének és okának megállapításához szükséges vizsgálatokat a biztosított szülész-nőgyógyász vagy urológus szakorvos beutalása alapján veheti igénybe.
+
+(2) A terhesség orvosi indikáció alapján történő megszakítására a biztosított az 1992. évi LXXIX. törvény 6. §-ának és 12. §-ának (1)–(4) bekezdésében foglaltak szerint jogosult.
+
+(3)[^118] A csecsemő 8 hónapos koráig az egészségügyért felelős miniszter rendeletében meghatározott esetekben fekvőbeteg-gyógyintézeti ellátása során, továbbá járóbeteg-szakellátása során a gyermekgyógyász szakorvos, illetve házi(gyermek)orvos rendelése alapján jogosult térítésmentesen anyatej ellátásra.
+
+(4)[^119] Az anyatej társadalombiztosítási támogatás alapját képező literenkénti árát az egészségügyért felelős miniszter rendelete tartalmazza.
+
+(5)[^120] Az Ebtv. 17. §-ának alkalmazásában a fogyatékos gyermekek tekintetében egészségügyi intézményen a fogyatékos gyermek ellátását, korai fejlesztését és gondozását, fejlesztő nevelését-oktatását végző, rehabilitációs célú szolgáltatást nyújtó intézményeket és a konduktív pedagógiai intézményt is érteni kell, amennyiben az intézmény egészségügyi szolgáltatásának igénybevételére a mozgásszerveket érintő kórállapot miatt kerül sor.
+
+### 5/A. §[^121]
+
+A beutalásra jogosult orvosnak a biztosított beutalása során figyelembe kell vennie az egészségügyi államigazgatási szerv beutalási rendre vonatkozó előírásait.
+
+### 5/B. §
+
+(1)[^122] Az Ebtv. 18. §-a (6) bekezdésének e) pontja alkalmazásában különösen veszélyes (extrém) sportnak, szórakoztató-szabadidős tevékenységnek minősül:
+
+a) vízisízés,
+
+b) jet-ski,
+
+c) vadvízi evezés,
+
+d) hegy- és sziklamászás az V. foktól,
+
+e) magashegyi expedíció,
+
+f)[^123]
+
+g) bázisugrás, mélybe ugrás (bungee jumping),
+
+h) falmászás,
+
+i) roncsautó (auto-crash) sport, rally,
+
+j) hőlégballonozás,
+
+k) félkezes és nyílttengeri vitorlázás,
+
+l) sárkányrepülés, ejtőernyőzés, paplanernyőzés, műrepülés.
+
+(2)[^124] Az Ebtv. 18. §-a (6) bekezdésének m) pontja alkalmazásában nem minősül kísérő személynek az ellátásban részesülő biztosított szülője, törvényes képviselője és közeli hozzátartozója, amennyiben a biztosított az ellátás igénybevételének megkezdésekor a 14. életévét nem töltötte be. A szülő, törvényes képviselő és közeli hozzátartozó részére biztosított szállás és étkezés finanszírozása külön jogszabályban foglaltak szerint történik. A szülő, törvényes képviselő és közeli hozzátartozó tekintetében az Ebtv. 24. § (4) bekezdését alkalmazni kell.
+
+(3)[^125] Amennyiben a biztosított az ellátás igénybevétele során elhalálozik, az Ebtv. 18. §-ának (10) bekezdése szerinti elszámolási nyilatkozatot a közeli hozzátartozó részére kell átadni, ha azt a közeli hozzátartozó kéri.
+
+## Nem magyar biztosított beteg ellátása közfinanszírozott kapacitásokon[^126]
+
+### 5/C. §[^127]
+
+(1) Az egészségügyi szolgáltató a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alapján arra jogosult beteg vagy képviselője általi kezdeményezésre tervezett egészségügyi ellátást biztosíthat a közfinanszírozott kapacitásán, ha
+
+a) az ellátást a várólista alapján nyújtható ellátások részletes szabályairól szóló kormányrendeletnek megfelelő feltételek alapján biztosítani tudja, és
+
+b) az ellátás elvégzését az érintett beteg számára az ellátás tervezett időpontjának közlésével, valamint fekvőbeteg-szakellátás esetén a betegnek az Ebtv. 20/A. § (5) bekezdése szerinti várólista azonosítója, járóbeteg-szakellátás esetén a betegfogadási azonosítója közlésével igazoltan vállalja.
+
+(2)[^128] Az egészségügyi szolgáltató az (1) bekezdés szerinti ellátásról az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglaltaknak megfelelő tájékoztató jelentést küld a NEAK részére.
+
+### 5/D. §[^129]
+
+(1) Az egészségügyi szolgáltató az Ebtv. 5/B. § s) pont sa) alpontja szerinti határon átnyúló egészségügyi ellátás keretében az arra jogosult uniós beteg vagy képviselője általi kezdeményezésre tervezett egészségügyi ellátást biztosíthat a közfinanszírozott kapacitásán, ha
+
+a) az ellátást a várólista alapján nyújtható ellátások részletes szabályairól szóló kormányrendeletnek megfelelő feltételek alapján biztosítani tudja, és
+
+b) az ellátás elvégzését az ellátás tervezett időpontjának közlésével, valamint fekvőbeteg-szakellátás esetén a betegnek az Ebtv. 20/A. § (5) bekezdése szerinti várólista azonosítója, járóbeteg-szakellátás esetén a betegfogadási azonosítója közlésével igazoltan vállalja.
+
+(2)[^130] Az egészségügyi szolgáltató az (1) bekezdés szerinti ellátásról az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglaltaknak megfelelő tájékoztató jelentést küld a NEAK részére.
+
+(3) Az (1) bekezdés szerinti uniós beteg az ellátása után járó díjat az egészségügyi szolgáltató részére a közfinanszírozásban alkalmazott díjak szerint, az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben szabályozottak figyelembevételével megtéríti.
+
+## Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai[^131]
+
+### 5/E. §[^132]
+
+(1) Az állam az EESZT digitális időpontfoglalási rendszer szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) útján biztosítja, hogy a járóbeteg-szakellátást nyújtó, közfinanszírozott egészségügyi szolgáltatók (ezen alcím alkalmazásában a továbbiakban: járóbeteg-szakellátást nyújtó egészségügyi szolgáltató) az EESZT útján közzétegyék és folyamatosan frissítsék az e rendelet szerinti beutalóval és beutaló nélkül igénybe vehető szolgáltatásaikra nyitva álló időpontokat.
+
+(1a)[^133] A digitális időpontfoglaló rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltató az internetes felületén az időpontfoglalással kapcsolatos információk körében közzéteszi az (1b) bekezdésben foglaltakat.
+
+(1b)[^134] Az (1a) bekezdés szerinti tájékoztatás körében a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató feltünteti az EgészségAblak mobilalkalmazás logóját, valamint a „Foglaljon járóbeteg szakellátási időpontot egyszerűen az EgészségAblak mobilalkalmazásban, vagy a 1812-es Egészségvonalon!” szöveget.
+
+(2) A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknál történő ellátások igénybevétele során az e rendeletben foglaltakat ezen alcím szerinti eltérésekkel kell alkalmazni.
+
+(3) A digitális időpontfoglalási rendszerben a beutalóval igénybe vehető ellátások esetén a személyesen jelen lévő beteg kérésére a beutaló orvos végzi az időpontfoglalást.
+
+(3a)[^135] Ha az egészségügyi szolgáltató a digitális időpontfoglalási rendszerben adott ellátás tekintetében hirdetett meg időpontot, ezt a 3/A. § (2) bekezdése alkalmazásában úgy kell tekinteni, hogy a biztosított ellátásához hozzájárult, külön írásbeli nyilatkozatot nem kell tenni.
+
+(4) A beteg a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra – a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által meghatározott módon – időpontot foglalhat a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál, amelyet a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a digitális időpontfoglalási rendszerben rögzít.
+
+(4a)[^136] A beteg a (4) bekezdésben foglaltakon túl a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra közvetlenül vagy az Ebtv. 20/B. §-a szerinti egységes telefonos időpontfoglalási központ útján is foglalhat időpontot, illetve módosíthatja foglalt időpontját a digitális időpontfoglalási rendszerben.
+
+(4b)[^137] A digitális időpontfoglalási rendszerben a beteg által történő időpontfoglalás esetén ugyanazon szakmában nem foglalható ugyanazon TAJ-hoz kapcsolódóan egyszerre több egészségügyi szolgáltatónál időpont.
+
+(4c)[^138] A digitális időpontfoglalási rendszerben
+
+a) olyan egészségügyi szolgáltatónál is foglalható időpont, amely a beteg ellátására területileg nem kötelezett,
+
+b) a beutalóban szereplő egészségügyi szolgáltató helyett más, az adott ellátásra a digitális időpontfoglalási rendszerben időpontot meghirdetett egészségügyi szolgáltatónál is foglalható időpont.
+
+(4d)[^139] Abban az esetben, ha a betegnek az adott beutalóhoz kapcsolódóan korábban más szolgáltatónál volt a digitális időpontfoglalási rendszerben foglalt időpontja, a korábbi foglalás törlésre kerül.
+
+(5) A beutaló nélkül igénybe vehető ellátások esetén a beteg háziorvosa vagy kezelőorvosa vállalhatja, hogy a beteg kérésére a digitális időpontfoglalási rendszerben a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál időpontot foglal, ha az orvosszakmailag indokolt.
+
+(6) A háziorvos vagy kezelőorvos nem köteles a beteg (5) bekezdés szerinti időpontfoglalásra vonatkozó kérését fogadni.
+
+(7) A (4) és (5) bekezdés szerinti egészségügyi szolgáltató vagy orvos a beteg időpontfoglalásra vonatkozó kérését – az egészségügyi szolgáltató vagy az orvos döntése alapján, ha a beteg állapota személyes megjelenést nem igényel – rövid úton, a beteg személyes megjelenése nélkül is fogadhatja.
+
+(8) Ezen alcím rendelkezései nem érintik a nem a digitális időpontfoglalási rendszerben történő időpontfoglalás lehetőségeit.
+
+### 5/F. §[^140]
+
+(1) A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltatók az EESZT útján közzéteszik és folyamatosan frissítik az e rendelet szerinti beutalóval és beutaló nélkül igénybe vehető szolgáltatásaikra nyitva álló időpontokat.
+
+(2) Az ellátást nyújtó egészségügyi szolgáltató az (1) bekezdés szerint közzétett időpontokat – kivételes esetben, az egészségügyi szolgáltató működését érintő okból – az EESZT útján módosíthatja vagy törölheti. Lefoglalt időpont módosítása vagy törlése esetén az ellátást nyújtó egészségügyi szolgáltató köteles a beteg értesítésére, valamint új időpont egyeztetésére. Az időpont módosításáról vagy törléséről az intézmény felsővezetője vagy az általa megbízott személy dönt.
+
+(3) A beteg a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóhoz előjegyzett és részére közölt időpontot személyesen, telefonon vagy az erre a célra kijelölt elektronikus úton köteles haladéktalanul lemondani vagy módosítását kérni, amikor az arra okot adó körülményről értesült.
+
+### 5/G. §[^141]
+
+(1) A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltató az általa nyújtott – sürgős szükség körébe nem tartozó – járóbeteg-ellátási eseménynek minősülő ellátásokra rendelkezésre álló időpontjainak 100%-át a digitális időpontfoglalási rendszerben elérhetővé teszi.
+
+(2) Az (1) bekezdésben foglalt ellátási időpontokba nem kell beszámítani azon időpontokat, amelyeket
+
+a) az egészségügyi szolgáltató az általa foglalkoztatott, 2. § (2) bekezdése szerinti beutaló orvos számára,
+
+b) kontrollvizsgálatokra,
+
+c) adott szakmán belül speciális ellátást nyújtó ambulancián történő ellátásra
+
+tart fenn.
+
+(3) Az (1) bekezdés alkalmazása során a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató háromhavi bontásban legalább az előző év azonos háromhavi időszak esetszámának 60%-át teszi a beteg – ideértve a nevében eljáró orvost is – számára foglalhatóvá. E bekezdés alkalmazásában az előző év azonos háromhavi időszaka az előző év időpontfoglalással érintett hónappal azonos hónapja, valamint az azt követő két hónap.
+
+(4) Az (1) bekezdés alkalmazása során a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a röntgendiagnosztika, teljes körű ultrahangdiagnosztika, gyermekradiológia, CT- és MR-diagnosztika esetében háromhavi bontásban legalább az előző év azonos háromhavi időszak esetszámának 20%-át teszi a beteg – ideértve a nevében eljáró orvost is – számára foglalhatóvá. E bekezdés alkalmazásában az előző év azonos háromhavi időszaka az előző év időpontfoglalással érintett hónappal azonos hónapja, valamint az azt követő két hónap.
+
+(5) Az (1)–(4) bekezdésben foglaltakat az országos gyógyintézet által nyújtott járóbeteg-szakellátás esetén nem kell alkalmazni.
+
+(6) A járóbeteg-szakellátást nyújtó egészségügyi szolgáltató nem tagadhatja meg az ellátást, ha az EESZT útján digitálisan elérhetővé tett betegfogadási időpontra történik az időpontfoglalás.
+
+### 5/H. §[^142]
+
+(1) A digitális időpontfoglalási rendszer a következő időpontfoglalással kapcsolatos – személyes adatot nem tartalmazó – adatokat tartalmazza a beutalóval és a beutaló nélkül igénybe vehető járóbeteg-szakellátások esetén:
+
+a) a kezdeményezett ellátásra történő időpontfoglalás időpontja,
+
+b) az ellátás lefoglalt időpontja,
+
+c) a beteg egészségügyi szolgáltatónál történő érkeztetése és rendelésre történő továbbküldésének időpontja,
+
+d) a beteg rendelőbe történő behívásának időpontja,
+
+e) a központi eseménykatalógus „járóbeteg-szakellátás befejezése” eseményének időpontja.
+
+(2) Az (1) bekezdés a), b) és e) pontja szerinti adatokat – az egészségügyi szolgáltató jogszabályban meghatározott adatszolgáltatási kötelezettsége teljesítéséből – az EESZT üzemeltetője, az (1) bekezdés c) és d) pontja szerinti adatokat a digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltató rögzíti a digitális időpontfoglalási rendszerben.
+
+### 5/I. §[^143]
+
+A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a Nemzeti Népegészségügyi és Gyógyszerészeti Központról szóló kormányrendeletben kijelölt egységes telefonos időpontfoglalási központ útján is köteles fogadni a társadalombiztosítási azonosító jellel rendelkező biztosított járóbeteg-szakellátásra történő időpontfoglalását, a lefoglalt időpont módosítását vagy törlését.
+
+### 5/J. §[^144]
+
+(1) Az EESZT működtetője
+
+a) a digitális időpontfoglalási rendszerben lefoglalt időpontot legkésőbb 48 órával megelőzően, vagy
+
+b) ha az időpontfoglalás és az ellátás időpontja között 48 óránál kevesebb van, akkor az időpontfoglalást követő 12 órán belül
+
+értesíti a beteget az általa megadott elérhetőségen – SMS vagy e-mail útján – az ellátás időpontjáról és helyéről.
+
+(2) Az (1) bekezdés szerinti értesítésben fel kell hívni a beteg figyelmét arra, hogy ha nem tudja igénybe venni a lefoglalt időpontban az ellátást, milyen módon mondhatja azt le.
+
+## Különleges helyzetből adódó eltérő rendelkezések
+
+## [Az Ebtv. 18. §-a (4) bekezdéséhez][^145]
+
+### 6. §
+
+(1)[^146] A Magyar Honvédség hivatásos és szerződéses állományú tagjai, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek (a továbbiakban: rendvédelmi feladatokat ellátó szervek) hivatásos állományának tagjai, valamint a polgári nemzetbiztonsági szolgálatoknak a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény szerinti hivatásos állományának tagjai az egészségügyi szolgáltatások igénybevételére az Ebtv. és e rendelet rendelkezései alapján jogosultak, azzal, hogy e jogosultságuk nem érinti jogszabály vagy a Magyar Honvédség, a rendvédelmi feladatokat ellátó szerv vagy a polgári nemzetbiztonsági szolgálat rendelkezése alapján kijelölt egészségügyi szolgáltató igénybevételével kapcsolatos kötelezettséget. A Magyar Honvédség, a rendvédelmi feladatokat ellátó szervek és a polgári nemzetbiztonsági szolgálatok hivatásos, szerződéses, kormányzati szolgálati, honvédelmi alkalmazotti, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti, közszolgálati, közalkalmazotti jogviszonyban álló, egészségügyi szolgálati jogviszonyban álló, nyugállományú, valamint katonai intézeti hallgató tagjának, továbbá igényjogosult közeli hozzátartozójának vizsgálatát és gyógykezelését – kérésére, az Ebtv. 18. § (4) bekezdése szerinti jogszabályban foglaltak figyelembevételével – az egészségi állapota által indokolt, az ágazati jogszabályukban meghatározott egészségügyi szolgáltatónál kell kezdeményezni.
+
+(2)[^147] Az őrizetbe vett, az előzetesen letartóztatott, az elzárásra utalt és a szabadságvesztés büntetését töltő (a továbbiakban együtt: fogvatartott) személyek az egészségügyi szolgáltatásra – a személyes szabadságuk korlátozásából adódóan – a fogvatartó szerv keretén belül, illetve, ha ott nem biztosítható az egészségi állapotuknak megfelelő ellátásuk, a fogvatartó szerv által kijelölt egészségügyi szolgáltatónál jogosultak.
+
+(3) A vasúti és a hajózási dolgozók, továbbá a polgári repülés dolgozói egészségügyi szolgáltatások igénybevételére való jogosultságát nem érinti a külön jogszabály rendelkezése alapján kijelölt egészségügyi szolgáltató igénybevételével kapcsolatos kötelezettség.
+
+(4)[^148] Az Ebtv. 18. § (4) bekezdése alapján a Magyar Honvédség, a rendvédelmi feladatokat ellátó szervek, valamint a polgári nemzetbiztonsági szolgálatok hivatásos, nemzetbiztonsági szolgálati, szerződéses, kormányzati szolgálati, honvédelmi alkalmazotti, rendvédelmi igazgatási szolgálati, nemzetbiztonsági alkalmazotti, közszolgálati, közalkalmazotti és egészségügyi szolgálati jogviszonyban álló állománya tekintetében a Magyar Honvédség, a rendvédelmi feladatokat ellátó szervek, valamint a polgári nemzetbiztonsági szolgálatok állományában lévő orvosok általi, továbbá a fogvatartottak estében a 2. § (2) bekezdés e), f) és g) pontjában meghatározott orvosok általi beutalás esetén az egészségügyi szolgáltató nem utasíthatja el a beteget arra hivatkozva, hogy nem rendelkezik a beteg tekintetében területi ellátási kötelezettséggel.
+
+### 7. §[^149]
+
+(1)[^150]
+
+(2)[^151]
+
+(3)[^152]
+
+(4)[^153]
+
+(5)[^154]
+
+(6)[^155]
+
+(7)[^156]
+
+(8)[^157]
+
+(9)[^158]
+
+(10)[^159]
+
+(11)[^160]
+
+(12)[^161]
+
+(13)[^162]
+
+(14)[^163]
+
+(15)[^164]
+
+(16)[^165]
+
+(17)[^166]
+
+(18)[^167]
+
+## A gyógyászati ellátások árához, valamint a gyógyászati segédeszközök árához, javítási és kölcsönzési díjához nyújtott támogatás[^168]
+
+### 7/A. §[^169]
+
+(1) A biztosított az Ebtv. 21. § (2) bekezdése alapján fekvőbeteg-gyógyintézeti (a továbbiakban: gyógyintézeti) kezelése alatt, vagy elbocsátása előtt akkor jogosult árhoz nyújtott támogatással gyógyászati segédeszközre, ha számára az eszköz használata a rehabilitációjához, betanításához, végleges ellátásához, ideiglenes protézissel történő ellátásához már a gyógyintézetben tartózkodása alatt indokolt és a gyógyászati segédeszköz alkalmazása vagy használata a fekvőbeteg-ellátás keretében nem finanszírozott. A gyógyászati segédeszközt a gyógyintézet orvosa rendeli, ha a felírói körre vagy a szakorvosi javaslat tételére meghatározott szakképesítés valamelyikének megfelelő szakvizsgával rendelkezik.
+
+(2) A biztosított az Ebtv. 21. § (2) bekezdése alapján akkor is jogosult a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben (a továbbiakban: R.) foglalt feltételek szerint támogatásban részesülő
+
+a) fogpótlás és fogszabályozó készülék, valamint tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására fogászati ellátást nyújtó egészségügyi szolgáltatónál,
+
+b) hallásjavító készülék és tartozékai árához nyújtott támogatásra, ha ezek kiszolgáltatására a gyógyászati segédeszközök forgalmazásának, javításának, kölcsönzésének szakmai követelményeiről szóló miniszteri rendeletben foglalt feltételekkel audiológiai szakrendelésen,
+
+c) egyedi méretvétel alapján egyedileg készített kontaktlencse árához nyújtott támogatásra, ha ennek kiszolgáltatására szemészeti szakellátást nyújtó egészségügyi szolgáltatónál vagy
+
+d) egyedi méretvétel alapján egyedileg gyártott protézis, ortézis árához, valamint mozgásszervi rehabilitáció és teamrendszerű felírás keretében rendelhető eszköz árához nyújtott támogatásra, ha ennek kiszolgáltatására ortopédiai, traumatológiai, rehabilitációs vagy sebészeti szakellátást nyújtó egészségügyi szolgáltatónál nyújtott ellátás keretében
+
+kerül sor.
+
+(3)[^170] A NEAK a gyógyászati segédeszközök közfinanszírozás alapjául elfogadott árához vagy közfinanszírozás alapjául megállapított kölcsönzési napidíjához nyújtott támogatást a következő támogatási technikákkal állapíthatja meg:
+
+a) százalékos mértékű támogatás vagy
+
+b) támogatási csoportra meghatározott fix összegű támogatás, ezen belül
+
+ba) eszközre meghatározott fix összegű támogatás, vagy
+
+bb) az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatás.
+
+(4)[^171] Önálló funkcionális elv szerinti fixcsoport állapítható meg adott funkcionális alcsoportra, valamint funkcionális csoportra vonatkozóan, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
+
+(5)[^172] Önálló rendeltetés szerinti fixcsoport állapítható meg adott rendeltetési csoportra, amennyiben azt az R. – a (6) bekezdésben foglaltak szerint – az adott eszközcsoport tekintetében lehetővé teszi.
+
+(6)[^173] Az (5) bekezdés szerinti önálló rendeltetés szerinti fixcsoport a fixesítés alapjául szolgáló funkcionális csoportból vagy alcsoportból, valamint a fixesítés alá vont funkcionális csoportból, illetve csoportokból vagy alcsoportból, illetve alcsoportokból áll.
+
+(6a)[^174] Önálló támogatási csoport állapítható meg:
+
+a) az életminőséget azonos módon befolyásoló eszközökre,
+
+b) a termékek funkcionális csoportjára,
+
+c) a termékek funkcionális alcsoportjára vagy alcsoportjaira, illetve
+
+d) a funkcionális csoporton belül a termékek méret, kapacitás vagy teljesítmény alapján kialakított körére.
+
+(7)[^175] Az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási technikát az R. melléklete tartalmazza.
+
+### 7/B. §[^176]
+
+(1)[^177] Azokban a támogatási csoportokban, amelyekben a NEAK a 7/A. § (3) bekezdés a) vagy b) pontja szerinti támogatási technikákat alkalmazza, a következő támogatási mértékek alkalmazhatók:
+
+a) 98%-os támogatási mérték,
+
+b) 90%-os támogatási mérték,
+
+c) 80%-os támogatási mérték,
+
+d) 70%-os támogatási mérték,
+
+e) 60%-os támogatási mérték,
+
+f) 50%-os támogatási mérték,
+
+g) 45%-os támogatási mérték, vagy
+
+h) 0%-os támogatási mérték.
+
+(2) Az eszköz árához nyújtott támogatás összege a 7/A. § (3) bekezdés a) pontja szerinti, százalékos mértékű támogatásban részesített támogatási csoportban az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(3) A 7/A. § (3) bekezdés b) pont ba) alpontja szerinti, eszközre meghatározott fix összegű támogatási csoportban
+
+a) a referenciaeszköz árához nyújtott támogatás összege a referenciaeszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b)[^178] azon eszköz árához nyújtott támogatás összege, amelynek a NEAK határozatában szereplő közfinanszírozás alapjául elfogadott ára a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaösszeggel,
+
+c)[^179] azon eszköz árához nyújtott támogatás összege, amelynek a NEAK határozatában szereplő közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(3a)[^180] A 7/A. § (5) bekezdése szerinti fixcsoportban a támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (3) bekezdés a)–c) pontja szerint megállapított összeg.
+
+(4) A 7/A. § (3) bekezdés b) pont bb) alpontja szerinti, az eszköz valamely fizikai paraméterének fajlagos egységére meghatározott fix összegű támogatási csoportban a fajlagos egységre jutó támogatás összege
+
+a) a referenciaeszköz esetében a referenciaeszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b)[^181] azon eszköz esetében, amelynek egy fajlagos egységére jutó, a NEAK határozatában szereplő közfinanszírozás alapjául elfogadott ára (a továbbiakban: fajlagos közfinanszírozás alapjául elfogadott ár) a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaeszköz fajlagos egységére jutó támogatás összegével,
+
+c) azon eszköz esetében, amelynek fajlagos közfinanszírozás alapjául elfogadott ára a referenciaeszközénél alacsonyabb, az eszköz fajlagos közfinanszírozás alapjául elfogadott árának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(4a)[^182] A 7/A. § (5) bekezdése szerinti fixcsoportban a fajlagos egységre jutó támogatás összege a fixesítés alapjául szolgáló funkcionális csoport támogatására a (4) bekezdés a)–c) pontja szerint megállapított összeg.
+
+(5) A kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összege
+
+a) a referenciaeszköz esetében a referenciaeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata,
+
+b)[^183] azon eszköz esetében, amelynek a NEAK határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközével azonos vagy annál magasabb, megegyezik a referenciaeszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjához nyújtott támogatás összegével,
+
+c)[^184] azon eszköz esetében, amelynek a NEAK határozatában szereplő közfinanszírozás alapjául elfogadott kölcsönzési napidíja a referenciaeszközénél alacsonyabb, az eszköz közfinanszírozás alapjául elfogadott kölcsönzési napidíjának és az eszköz támogatási csoportjára vonatkozó, R. szerinti támogatási mértéknek a szorzata.
+
+(6)[^185] A kombinált kiszerelések árához nyújtott támogatás összege a kombinált kiszerelésben foglalt eszközök külön-külön vett támogatási összegeinek számtani összegét nem haladhatja meg.
+
+### 7/C. §[^186]
+
+(1) Referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz, vagy a termék valamely fizikai paraméterének egy fajlagos egységére meghatározott fix összegű támogatás esetén a legalacsonyabb fajlagos közfinanszírozás alapjául elfogadott árú gyógyászati segédeszköz,
+
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
+
+b)[^187] amelynek támogatási csoporton belüli forgalmi részesedése a naptári félév második hónapjának kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt gyógyászati segédeszköz mennyiség tekintetében az 5%-ot, azon támogatási csoportokban, ahol a befogadott termékek száma a 30-at meghaladja, 2%-ot elérte.
+
+(2)[^188]
+
+(3) Az R. szerint támogatással kizárólag kölcsönzés keretében kiszolgáltatható gyógyászati segédeszköz esetében – az (1) bekezdéstől eltérően – referenciaeszköz az a meghatározott fix összegű támogatási csoportba tartozó, legalacsonyabb közfinanszírozás alapjául elfogadott kölcsönzési napidíjú gyógyászati segédeszköz,
+
+a) amely nem áll hivatalból vagy kérelemre törlési eljárás alatt és
+
+b)[^189] amelynek támogatási csoporton belüli forgalmi részesedése a naptári félév második hónapjának kezdőnapját közvetlenül megelőző tizenkét hónapot vizsgálva legalább hét egymást követő hónapban az összes támogatási jogcímet együttesen figyelembe véve az elszámolt kölcsönzési napok száma tekintetében az 5%-ot elérte.
+
+(4)[^190]
+
+(5)[^191]
+
+(6)[^192] A Gyftv. 32. § (4) bekezdése szerinti eljárásokban a NEAK kikéri az egészségügyi szakmai kollégiumnak a kérelem tárgya szerint illetékes tagozata véleményét.
+
+### 7/D. §[^193]
+
+A külön jogszabály szerint különleges táplálkozási igényt kielégítő tápszerek árára és az árához nyújtott támogatásra a gyógyszerek közfinanszírozási árára és az árához nyújtott támogatásra vonatkozó rendelkezéseket értelemszerűen alkalmazni kell.
+
+### 8. §[^194]
+
+(1)[^195] A rendeltetésszerű használat során az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló kormányrendeletben (e § alkalmazásában a továbbiakban: kormányrendelet) foglalt kötelező jótállási időtartamon túl, továbbá a gyártó által – a kormányrendeletben foglaltak alapján – vállalt kedvezőbb jótállási feltételek szerinti időtartamon túl, a kihordási időn belül meghibásodott – árhoz nyújtott támogatással rendelt – gyógyászati segédeszközök javítási díjához nyújtott támogatás
+
+a)[^196] mértéke a javítás időpontjában támogatott termék esetében
+
+aa) azonos az adott termék árához nyújtott, a javítás idején érvényes támogatás mértékével, ha a termék százalékos támogatásban részesül,
+
+ab) azonos az adott termékcsoport referenciatermékére vonatkozó, a javítás idején érvényes százalékos támogatás mértékével, ha a termék meghatározott (fix) támogatásban részesül,
+
+de legfeljebb a javítás időpontjában az adott gyógyászati segédeszközre meghatározott támogatási érték 60%-ának megfelelő összeg, a külön jogszabály szerinti egyedi méretvétel alapján készített termék javítási díjához nyújtott támogatás összege legfeljebb az adott termék árához a javítás idején nyújtott társadalombiztosítási támogatás összegének megfelelő összeg lehet,
+
+b)[^197] mértéke a javítás időpontjában már nem, de kiváltáskor támogatott termék esetében
+
+ba) azonos az adott termék árához a társadalombiztosítási támogatás megszűnését közvetlenül megelőző napon nyújtott támogatás mértékével, ha a termék százalékos támogatásban részesült,
+
+bb) azonos az adott termékcsoport referenciatermékére a javíttatott eszköz társadalombiztosítási támogatása megszűnését közvetlenül megelőző napon nyújtott százalékos támogatás mértékével, ha a termék eredetileg fix támogatásban részesült,
+
+de legfeljebb az adott gyógyászati segédeszközre meghatározott legutolsó támogatási érték 60%-ának megfelelő összeg, a külön jogszabály szerinti egyedi méretvétel alapján készített termék javítási díjához nyújtott támogatás összege legfeljebb az adott eszköz árához a társadalombiztosítási támogatása megszűnését közvetlenül megelőző napon nyújtott társadalombiztosítási támogatás összegének megfelelő összeg lehet,
+
+c) több javítás esetén az első javítást követő egy éven belül összesen nem haladhatja meg az adott termékre meghatározott, illetve a kiváltáskor érvényes támogatás összegét.
+
+d)[^198]
+
+(2)[^199] A rendeltetésszerű használat során meghibásodott egyedi méretvétel alapján gyártott gyógyászati segédeszközök javítási díjához az eredeti kihordási idő leteltét követően a kihordási idővel azonos ideig az (1) bekezdés a)–b) pontja szerinti támogatás vehető igénybe.
+
+(3)[^200] A (2) bekezdésben foglaltak esetén a biztosított részére a javított eszközzel azonos rendeltetésű eszközcsoportba tartozó új terméket rendelni nem lehet, kivéve a kihordási időn belüli felírhatóság szabályaival azonos esetben. Ha a kihordási idő leteltét követően az eszközzel azonos rendeltetésű eszközcsoportba tartozó új terméket rendeltek, a (2) bekezdésben foglalt javítási díjhoz nyújtott támogatás nem vehető igénybe.
+
+(4)[^201] A támogatásban nem részesülő hallásjavító implantátum alkalmazása során a kormányrendeletben foglalt kötelező jótállási időtartamon túl, továbbá a gyártó által – a kormányrendeletben foglaltak alapján – vállalt kedvezőbb jótállási feltételek szerinti időtartamon túli meghibásodás esetén az alkatrészek cseréjéhez és javítási díjához nyújtott támogatás mértéke a csere vagy a javítás díjának 90%-a, melynek elszámolására a NEAK megállapodást köthet a szolgáltatóval.
+
+(5)[^202] Az árhoz nyújtott támogatásban nem részesülő gyógyászati segédeszközök kölcsönzési díjához nyújtott támogatás mértéke a kölcsönzési díj általános forgalmi adóval növelt összegének külön jogszabályban meghatározott százaléka.
+
+(5a)[^203] A kölcsönzési díjhoz nyújtott százalékos támogatás mértéke a közfinanszírozás alapjául elfogadott kölcsönzési díj általános forgalmi adóval növelt összegének 0, 50, 70, 80, 90, illetve 98%-a.
+
+(6)[^204] Egy termék javítására a kihordási időn belül legfeljebb a termék kiadásakor érvényes közfinanszírozás alapjául elfogadott ára általános forgalmi adóval növelt összegének 130%-a fordítható. Az ezt meghaladó javítási igény esetén az eszközt a gyártó vagy saját költségére javítja, vagy a kihordási idő végéig cserekészüléket biztosít.
+
+(7)[^205] A társadalombiztosítási támogatás alapját képező nettó javítási díj összetevői:
+
+a) a javításhoz felhasznált, beszerzési számlával igazolt alkatrészek nettó ára,
+
+b) a javítás munkadíja, mely a javítás munkafázisainak órában kifejezett időszükséglete szorozva a rezsi óradíj összegével.
+
+(8)[^206] Az egy évnél hosszabb kihordási idejű, az egészségügyért felelős miniszter rendeletében meghatározott, támogatással javítható eszközcsoportokba tartozó gyógyászati segédeszközök esetében a termék gyártója biztosítja a termék javítását dokumentáló szervizkönyvet (a továbbiakban: szervizkönyv). A szervizkönyv tartalmazza a gyártó vagy meghatalmazott képviselője nevét és címét, az eszköz megnevezését, típusát, a kormányrendeletben foglaltak alapján vállalt kedvezőbb jótállási feltételek szerinti időtartamot és az eszköz gyártási számát.
+
+(9)[^207] A szervizkönyvet az eszköz kiszolgáltatása során az eszközzel együtt a kiszolgáltatást végző adja át a gyógyászati segédeszközt átvevő személynek.
+
+(10)[^208] Az eszköz javítását végző a szervizkönyvben rögzíti az eszközön észlelt hibát, az elvégzett javításokat, a javítás időpontját, valamint a javítási díj nettó és bruttó összegét.
+
+### 8/A. §[^209]
+
+A gyógyászati segédeszköz társadalombiztosítási támogatással történő javítását, karbantartását a NEAK-kal
+
+a) az Ebtv. 30. § (3a) bekezdése alapján szerződést kötött gyártó vagy annak meghatalmazott képviselője, illetve gyógyászati segédeszköz javítását végző és a gyártó meghatalmazásával rendelkező egyéb szervezet, továbbá
+
+b) az Ebtv. 30. § (2) bekezdése alapján szerződést kötött és a gyártó meghatalmazásával rendelkező egészségügyi szolgáltató
+
+végezheti.
+
+### 9. §[^210]
+
+(1)[^211] A Gyftv. 32. § (4) bekezdése szerinti eljárást követően a támogatásba befogadott gyógyászati segédeszköz esetében a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletben foglalt adatokat a forgalomba hozó a támogatás kezdőnapját követő 30 napon belül elektronikus úton a NEAK rendelkezésére bocsátja.
+
+(2) A Gyftv. 21/A. § (3) bekezdése szerinti bírság összege eszközönként 100 ezer forint.
+
+### 10/A. §[^213]
+
+(1)[^214]
+
+(2)[^215] A Társadalombiztosítási Ár- és Támogatási Bizottság (a továbbiakban: TÁTB) az egészségbiztosításért felelős miniszter, az államháztartásért felelős miniszter, a gazdaságpolitikáért felelős miniszter, valamint a szociálpolitikáért felelős miniszter véleményező, javaslattevő szerve. A TÁTB-nak a gazdaságpolitikáért felelős miniszter, valamint szociálpolitikáért felelős miniszter által javasolt tagjait, továbbá az egészségbiztosításért felelős miniszter által vezetett minisztérium, az államháztartásért felelős miniszter által vezetett minisztérium, valamint az egészségbiztosító képviselőiből álló tagjait és elnökét az egészségbiztosításért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – nevezi ki.
+
+(3) A TÁTB feladat- és hatásköréről, valamint működési rendjéről külön jogszabály rendelkezik.
+
+(4)[^216]
+
+(5)[^217]
+
+(6)[^218]
+
+### 10/C. §[^220]
+
+(1)[^221] A NEAK a honlapján folyamatosan közzéteszi a támogatott gyógyszerek, gyógyászati segédeszközök és gyógyászati ellátások tárgyában megkötött, és hatályos támogatásvolumen-szerződések következő tartalmi elemeit:
+
+a) a szerződő felek megnevezése, a szerződés tárgyát képező termékek neve,
+
+b) a szerződés időbeli hatálya,
+
+c) gyógyszer esetén a szerződés által érintett indikációs pont (Eü. pont) száma,
+
+d)[^222] a szerződésben megjelölt befizetés megállapításának a Gyftv. 26. § (5) bekezdése szerinti módja,
+
+e)[^223]
+
+(2) A közzétételi kötelezettség a szerződés időbeli hatályának lejártát követő második hónap utolsó napjáig áll fenn.
+
+(3)[^224] A Gyftv. 26. § (5) bekezdés c) pontja szerinti esetben – a szerződő felek eltérő megállapodása hiányában – a terápiaeredményességi és beteg-együttműködési mutatók számításához, illetve teljesülésük nyomon követéséhez a NEAK adattárházában és a Betegségregiszterben szereplő finanszírozási adatokat kell alapul venni.
+
+### 10/D. §[^225]
+
+A gyógyszerek és gyógyászati segédeszközök közbeszerzésének részletes és sajátos szabályairól szóló kormányrendelet alapján beszerzésre kerülő gyógyszerek és gyógyászati segédeszközök esetében a közfinanszírozás alapjául elfogadott ár a közbeszerzési eljárás során kerül meghatározásra.
+
+### 10/E. §[^226]
+
+Az állam és a gyógyszergyártók, forgalmazók között létrejött szerződésben meghatározott gyártói befizetési kötelezettség Egészségbiztosítási Alap javára történő teljesítése, a tényadatokon alapuló végleges elszámolás szerinti rendezés a szerződésben megállapított szabályoknak megfelelően számított összegben, az ott részletezett ütemezésben és feltételek szerint történik.
+
+### 10/F. §[^227]
+
+(1)[^228] A társadalombiztosítási támogatással igénybe vehető gyógyászati ellátások körét, valamint az árukhoz nyújtott támogatás mértékét az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+
+(2)[^229] A támogatás kezelés-fajtánként százalékos mértékben, illetve fix összegben állapítható meg. A százalékos mértékű, illetve fix összegű támogatás alapja a NEAK által a (3)–(5) bekezdésben meghatározottak szerint elfogadott ár (a továbbiakban: a közfinanszírozás alapját képező ár).
+
+(3)[^230] A közfinanszírozás alapját képező ár kialakítására irányuló tárgyalásokat a NEAK – a (3a) bekezdésben megállapított eseteken túl – szükség szerinti gyakorisággal bonyolítja le. Az ártárgyalási felhívást a NEAK főigazgatója – a TÁTB véleményének előzetes kikérése után – legalább négy héttel a tárgyalások megkezdése előtt a NEAK honlapján közzéteszi.
+
+(3a)[^231] Amennyiben a társadalombiztosítási támogatással igénybe vehető gyógyászati ellátások köre kiegészül egy új ellátással, illetve a társadalombiztosítási támogatással már igénybe vehető gyógyászati ellátással kapcsolatos jogszabályi változás azt szükségesség teszi, a NEAK az új ellátás, illetve a módosulással érintett eljárás tekintetében a közfinanszírozás alapját képező ár kialakítására irányuló tárgyalásokat az új ellátásnak a társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló miniszteri rendeletben történő szabályozása kihirdetését, illetve a társadalombiztosítási támogatással már igénybe vehető gyógyászati ellátással kapcsolatos jogszabályi változás kihirdetését követő 90 napon belül bonyolítja le. A közfinanszírozás alapját képező ár kialakítására irányuló eljárás során a (3) bekezdés második mondatát, valamint a (4a)–(7) bekezdésben foglaltakat megfelelően alkalmazni kell, azzal, hogy a (6) bekezdésben foglaltaktól eltérően a javasolt árat a tárgyalás lezárását követő 15 napon belül kell az egészségügyért felelős miniszter elé terjeszteni, és a kialakított ár és támogatási mérték a (7) bekezdésben foglaltaktól eltérően legkésőbb a tárgyalás lezárását követő második hónap végéig kerül kihirdetésre.
+
+(4)[^232] Társadalombiztosítási támogatással igénybe vehető gyógyászati ellátások esetében a (3) bekezdés szerinti tárgyaláson való részvétel feltétele, hogy a külön jogszabályban foglaltak szerint gyógyászati ellátás támogatással történő nyújtására jogosult szolgáltató az alkalmazott számítások egyidejű bemutatásával nyilatkozzon arról, hogy az általa tett árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti, ha a gyógyászati ellátást támogatással nyújtja.
+
+(4a)[^233] Azon gyógyászati ellátások esetében, amelyek tekintetében az árhoz nyújtott támogatás mértéke az (1) bekezdés szerinti rendeletben még nem került megállapításra, a (3) bekezdés szerinti tárgyaláson való részvétel feltétele, hogy a szolgáltató rendelkezzen az adott szolgáltatás nyújtására jogosító működési engedéllyel, valamint megfeleljen az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló miniszteri rendeletben foglalt követelményeknek, és az alkalmazott számítások egyidejű bemutatásával nyilatkozzon arról, hogy az általa tett árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti, ha a gyógyászati ellátást támogatással nyújtja.
+
+(5)[^234] A tárgyalásokon döntési joggal kizárólag a NEAK kormánytisztviselői, tanácskozási joggal a NEAK főigazgatója által felkért szakértők vehetnek részt. Az ártárgyaláson közreműködő személyekkel szemben a közbeszerzési eljárásnál alkalmazandó összeférhetetlenségi szabályokat megfelelően alkalmazni kell.
+
+(6)[^235] A NEAK a tárgyalások során kialakított, a közfinanszírozás alapját képező árakat és a támogatási mértékeket a tárgyalás lezárását követő 30 napon belül az egészségügyért felelős miniszter elé terjeszti.
+
+(7)[^236] A kialakított árak és támogatási mértékek legkésőbb a tárgyalás lezárását követő második negyedév végéig – az (1) bekezdésben foglaltaknak megfelelően – kihirdetésre kerülnek.
+
+## Utazási költségtérítési támogatás[^239]
+
+## (Az Ebtv. 22. §-ához)
+
+### 11. §
+
+(1) Az utazási költségtérítési támogatás összege közforgalmú személyszállítási eszközzel történő utazás esetén a (2) bekezdésben, gépkocsival történő utazás esetén a (3) bekezdésben foglaltak szerint kerül megállapításra. A lakóhely vagy tartózkodási hely, illetve a szállás és az egészségügyi szolgáltató telephelye közötti távolságként a két település közötti legrövidebb, kizárólag közúti útszakaszt tartalmazó, a Kincstár által alkalmazott – és a Kincstár honlapján közzétett – település távolság mátrix alapján meghatározott útvonalat kell figyelembe venni.
+
+(2) Közforgalmú személyszállítási eszközzel történő utazás esetén az utazási költségtérítési támogatás összege a 2. mellékletben foglaltak szerint kerül megállapításra, azzal, hogy annak összegét csökkenteni kell a biztosítottat és kísérőjét megillető, jogszabály szerinti közforgalmú személyszállítási utazási kedvezmény mértékével. Az utazás során igénybe vett utazási kedvezményről a kérelem benyújtása során nyilatkozni kell, a biztosítottat megillető kedvezményeket az egészségbiztosítási szerv a rendelkezésére álló nyilvántartások alapján ellenőrzi. Ha a nyilvántartásban szereplő adatok és a biztosított nyilatkozata egymásnak ellentmond, az egészségbiztosítási szerv azt a magasabb kedvezménymértéket veszi figyelembe, amelyre a biztosított jogszabály rendelkezései szerint jogosult lenne. Nem jár utazási költségtérítési támogatás annak, aki jogszabály alapján díjmentes utazásra jogosult. Ha az utazás közforgalmú személyszállítási eszközzel történik, az Ebtv. 22. § (6) bekezdése szerinti esetben az utazási költségtérítési támogatás a biztosítottat és a kísérőt külön-külön illeti meg.
+
+(3)[^240] Azt a biztosítottat, aki a (7) bekezdés szerint kijelölt személy véleménye alapján betegsége, egészségi állapota miatt közforgalmú személyszállítási eszközön utazni nem képes, utazási költségtérítési támogatásként kilométerenként 21 forint illeti meg. Ha az utazás nem közforgalmú személyszállítási eszközzel történik, az Ebtv. 22. § (6) bekezdése szerinti esetben az utazási költségtérítési támogatás együttesen illeti meg a biztosítottat és kísérőjét. Több biztosított nem közforgalmú személyszállítási eszközzel történő együttes utazása esetén csak az egyik – választásuk szerinti – biztosított jogosult utazási költségtérítési támogatásra.
+
+(4) A kísérőt a kísért biztosított nélküli hazautazása, illetve a kísért biztosítottért történő visszautazása tekintetében utazási költségtérítési támogatás illeti meg, ha a kísért biztosított egészségi állapota, illetve elhúzódó kezelése miatt rövid időn belül nem tud lakóhelyére vagy tartózkodási helyére, illetve szállására távozni. A kísérő biztosított nélküli utazásának szükségességéről a biztosítottnak nyilatkozatot kell tennie. Nyilatkozat nélkül, valamint valótlan tények közlése esetén támogatás nem állapítható meg. A kísérő részére – a kísért biztosított nélküli utazás esetén – ugyanazon napra legfeljebb 2 út (1 oda és 1 vissza) számolható el. A kísérő részére nem állapítható meg ugyanazon napra vonatkozóan 2 útra – a kísért biztosított nélküli utazására tekintettel – utazási költségtérítési támogatás, ha az egészségügyi szolgáltató telephelye és a biztosított lakóhelye vagy tartózkodási helye, illetve szállása egymástól való távolsága a 100 kilométert meghaladja. Ha a kísérő a kísért biztosított nélkül utazik, közforgalmú személyszállítási eszköz igénybevétele esetén a 2. melléklet szerinti támogatás utazási kedvezménnyel csökkentett mértékű összegére, ha pedig a biztosított közforgalmú személyszállítási eszközön utazni nem képes, kilométerenként 18 forintra jogosult.
+
+(5) Az utazási költségtérítési támogatás igénybevétele érdekében a (7) bekezdés szerint kijelölt személy – a biztosított kérésére – a szolgáltatás igénybevételekor, illetve a szolgáltatótól történő elbocsátáskor a NEAK által üzemeltetett informatikai rendszerben köteles rögzíteni
+
+a) a biztosított megjelenésének, illetve a szolgáltatónál történő felvételének és az onnan való elbocsátásának a dátumát,
+
+b) az ellátás típusát,
+
+c) az arra vonatkozó véleményét, hogy a biztosított betegsége, egészségi állapota alapján közforgalmú személyszállítási eszközön utazni képes-e,
+
+d)[^241] 18 éven felüli biztosított esetében, hogy egészségi állapota miatt kísérőre szüksége van-e,
+
+e)[^242] az arra vonatkozó információt, hogy a biztosított az ellátást a lakóhelye szerinti területi ellátásra kötelezett szolgáltatónál vette-e igénybe.
+
+(6) Az utazási költségtérítési támogatás (5) bekezdés szerinti igénylésének a NEAK által üzemeltetett informatikai rendszerben történő rögzítése megtörténtéről az egészségügyi szolgáltató az ambuláns lapon, zárójelentésen vagy a szolgáltatás igénybevétele során keletkező egyéb dokumentumon tájékoztató szöveget köteles elhelyezni.
+
+(7) Az utazási költségtérítési támogatás igénylésének a NEAK által üzemeltetett informatikai rendszerben történő rögzítésére az Ebtv. 22. §-a szerinti ellátást nyújtó szolgáltató által kijelölt személy jogosult.
+
+(8) Az utazási költségtérítési támogatás iránti kérelmet a Központ által erre a célra rendszeresített – a Kincstár honlapján és a Személyre Szabott Ügyintézési Felületen közzétett – nyomtatványon vagy a Személyre Szabott Ügyintézési Felületen közzétett elektronikus űrlapon az egészségügyi szolgáltatást igénybe vevő biztosított, illetve törvényes képviselője vagy az általuk meghatalmazott személy nyújthatja be, akkor is, ha a biztosított közforgalmú személyszállítási eszközön díjmentes utazásra jogosult, és kísérőre van szüksége.
+
+(9) Ha az egészségügyi szolgáltatás igénybevételekor, illetve az egészségügyi szolgáltatótól történő elbocsátáskor – a biztosított erre vonatkozó kérése hiányában – nem került sor a NEAK által üzemeltetett informatikai rendszerben az utazási költségtérítési támogatás igénylésének rögzítésére, a biztosított utazási költségtérítési támogatásra nem jogosult. Az utazási költségtérítési támogatás igénylése a NEAK által üzemeltetett informatikai rendszerben 8 napra visszamenőlegesen rögzíthető, ha az egészségügyi szolgáltatás igénybevételekor, illetve az egészségügyi szolgáltatótól történő elbocsátáskor erre üzemzavar vagy üzemszünet miatt nem kerülhetett sor.
+
+(10) Az utazási költségtérítési támogatás iránti igény az egészségügyi szolgáltatónál történt megjelenés, illetve az onnan való elbocsátás napjától számított hatodik hónap utolsó napjáig érvényesíthető.
+
+(11) Az Ebtv. 22. § (6) bekezdése szerinti esetben legfeljebb egy kísérő jogosult a kísérettel kapcsolatban felmerült utazási költségtérítési támogatásra. Több biztosított egyidejű kísérete során csak egyszeri utazási költségtérítési támogatásra jogosult a kísérő.
+
+(12) Az Ebtv. 22. § (1) bekezdésének alkalmazásakor biztosított alatt azt az anyát is érteni kell, aki a koraszülött intézményben elhelyezett gyermekének anyatejellátása érdekében jelenik meg az egészségügyi szolgáltatónál.
+
+(13) Az Ebtv. 22. §-a alkalmazásakor a tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszerekkel történő kezelésben részesülő biztosított az utazási költségtérítési támogatás tekintetében a járóbeteg-szakellátásra, fogászati szakellátásra, fekvőbeteg-gyógyintézetbe, gyógyászati ellátásra, továbbá rehabilitációra beutalt biztosítottal azonos elbírálás alá esik.
+
+(14)[^243] A korai fejlesztést és gondozást, illetve fejlesztő nevelést-oktatást nyújtó intézmény – ideértve a sajátos nevelési igényű gyermekek ellátását biztosító gyógypedagógiai intézményt is – általi szolgáltatás igénybevételével kapcsolatos utazási költségtérítési támogatás iránti kérelem elbírálása során a (15)–(18) bekezdés szerint kell eljárni, azzal, hogy alkalmazni kell az (1)–(4) és (11) bekezdést a következő eltérésekkel:
+
+a)[^244] egészségügyi szolgáltató alatt a korai fejlesztést és gondozást, illetve fejlesztő nevelést-oktatást, továbbá a nem önkéntes pedagógiai szakszolgálati feladatellátást nyújtó intézményt kell érteni;
+
+b) egészségügyi szolgáltató által kijelölt személy alatt a nemzeti köznevelésről szóló 2011. évi CXC. törvény 18. § (2) bekezdés b) pontja szerinti tevékenységet végző szakértői bizottság vezetőjét kell érteni.
+
+c)[^245] a (3) bekezdésben foglaltaktól eltérően az utazási költségtérítési támogatás mértéke kilométerenként 45 forint.
+
+(15)[^246] A (14) bekezdés szerinti utazási költségtérítési támogatás a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti nappali rendszerű iskolai oktatás keretein belül tanulmányokat folytató tanulónak, valamint a szakképzésről szóló 2019. évi LXXX. törvény szerinti szakmai oktatásban tanulói jogviszonyban tanulókat a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével, továbbá a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti korai fejlesztésben és gondozásban, fejlesztő nevelésben-oktatásban, valamint gyógypedagógiai nevelésben, oktatásban egyéb intézményben részesülő gyermeknek jár, a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével. Az utazási költségtérítési támogatás igényléséhez utazási utalvány kiállítása szükséges, amelyre a nemzeti köznevelésről szóló 2011. évi CXC. törvény 18. § (2) bekezdés b) pontja szerinti tevékenységet végző szakértői bizottság vezetője jogosult. Az utazási utalvány kiállításakor fel kell tüntetni azt az időpontot, amikortól az utazási utalványon megnevezett intézmény által nyújtott szolgáltatás igénybevétele indokolt. A támogatás iránti igény az intézményben történt megjelenés napjától számított hatodik hónap utolsó napjáig érvényesíthető, azzal, hogy abban az esetben, ha a kérelem benyújtására az utazási utalvány kiállításától számított 6. hónap utolsó napjáig kerül sor, akkor az utazási költségtérítési támogatás az utazási utalványon feltüntetett, a szolgáltatás igénybevételének indokolt kezdő időpontjaként meghatározott naptól állapítható meg.
+
+(16) A (14) bekezdés szerinti szolgáltatások igénybevételét a szolgáltatást nyújtó intézmény vezetője az erre a célra rendszeresített nyomtatványon – a (15) bekezdés szerinti utazási utalvány betétlapján – igazolja.
+
+(17) A (14) bekezdés szerinti utazási költségtérítési támogatás a Központ által erre a célra rendszeresített elektronikus űrlapon vagy a (15) és (16) bekezdés szerinti nyomtatványok papíralapú benyújtásával kérelmezhető. Az elektronikusan benyújtott kérelemhez mellékelni kell a (15) és (16) bekezdés szerinti nyomtatványokat.
+
+(18) Jogszabály szerinti támogató szolgáltatás igénybevételével történő utazás esetén a (14) bekezdés szerinti utazási költségtérítési támogatás összege megegyezik a támogató szolgálat részére megfizetett díj összegével, azonban nem haladhatja meg a (3) bekezdés szerint számított összeget. A támogató szolgálat részére történő díjfizetést az erről szóló számlának a (17) bekezdés szerinti kérelemhez történő csatolásával kell igazolni.
+
+(19) Az Ebtv. 22. § (5) bekezdése szerinti esetben a helyi önkormányzatot illeti meg a szűrővizsgálaton történő részvétel céljából általa szervezett csoportos utazáson részt vett biztosítottnak járó utazási költségtérítési támogatás, ha a közlekedési eszközt térítésmentesen bármilyen formában az önkormányzat biztosítja. Ezzel egyidejűleg az utazási költségtérítési támogatás iránti igény mint követelés a helyi önkormányzatra száll át, aki az adott csoportos utazáson részt vett biztosítottakra tekintettel összesített követeléseket – a Polgári Törvénykönyv engedményezésre vonatkozó szabályainak figyelembevételével – egy összegben érvényesítheti a Központ által erre rendszeresített formanyomtatványon az E. Alappal szemben. A helyi önkormányzat valamennyi biztosított után a 2. mellékletben foglaltak szerint – a helyi önkormányzat székhelye és a szűrővizsgálat helye közötti távolság alapján – számított összeg hatvan százalékára jogosult utazási költségtérítési támogatásként. A kérelmet a helyi önkormányzat kizárólag elektronikus úton nyújthatja be, és az igény a szűrővizsgálaton történő részvétel céljából szervezett csoportos utazás napjától számított hatodik hónap utolsó napjáig érvényesíthető.
+
+(20) Az utazási költségtérítési támogatás igénybe vehető utazási költségtérítési utalvánnyal is, amelynek alkalmazása során a (21)–(26) bekezdés szerint kell eljárni. Utazási költségtérítési utalvány igénybevételére a (21) bekezdésben foglaltak szerint jogosult személy és kísérője az egészségbiztosítóval szerződést kötött közlekedési társaságok vonalain az utazási költségtérítési utalvánnyal díjfizetés nélkül utazhat.
+
+(21) Az utazási költségtérítési utalvány igénybevételére jogosult az a biztosított, aki
+
+a) közgyógyellátásra jogosító igazolvánnyal rendelkezik, vagy
+
+b) krónikus betegsége vagy állandósult egészségi állapota miatt legalább havi egy alkalommal kezelésre jár, illetve kúraszerű ellátást vesz igénybe, vagy
+
+c) szakorvosi vélemény alapján olyan egészségügyi szolgáltatóhoz utazik, amely lakóhelyétől vagy tartózkodási helyétől az Ebtv. 22. § (1) bekezdés b) pont ba) alpontjában meghatározott egészségügyi szolgáltatónál nagyobb távolságra található,
+
+kivéve, ha a biztosított díjmentes utazásra jogosult.
+
+(22) Az utazási költségtérítési utalvány kiállítására kizárólag háziorvos és házi gyermekorvos jogosult.
+
+(23) Az utazási költségtérítési utalvánnyal történő utazás lehetőségéről és az igénybevétel feltételeiről a biztosítottat a háziorvos vagy a házi gyermekorvos tájékoztatja. Ha utazási költségtérítési utalvány kiállítására került sor, a biztosított az (1) bekezdés szerinti utazási költségtérítési támogatásra nem jogosult.
+
+(24) Az utazási költségtérítési utalvány a Központ által rendszeresített olyan szigorú számadású nyomtatvány, amely két pénztári és egy ellenőrző szelvényből áll. A biztosított az ellenőrző szelvényt az egészségügyi szolgáltatás igénybevételének leigazolását követően, a következő orvos-beteg találkozó alkalmával háziorvosánál, házi gyermekorvosánál köteles leadni.
+
+(25) Ha a biztosított a (24) bekezdésben előírt kötelezettségének az ott meghatározott időpontban nem tesz eleget, úgy a (24) bekezdésben meghatározott időponttól számított 6 hónapon belül újabb utazási költségtérítési utalványt a háziorvos, házi gyermekorvos nem állíthat ki részére.
+
+(26) A háziorvos, házi gyermekorvos a kiállított utazási költségtérítési utalványokról az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendeletben szabályozott, a „Háziorvosi betegforgalmi tevékenység tételes jelentésében” a „továbbküldés eszköze” soron jelentést tesz. Az utazási költségtérítési utalványon a megjelenést az egészségügyi szolgáltató igazolja.
+
+(27) Az utazási költségtérítési utalványok elszámolása a közlekedési társaságok és az egészségbiztosító között létrejött szerződés alapján történik.
+
+## Az egészségügyi intézményen belüli orvosválasztás[^247]
+
+### 11/A. §[^248]
+
+(1) Az Ebtv. 19. §-ának (3) bekezdése alapján történő orvosválasztás akkor érvényes, ha azt írásba foglalták (orvosválasztási nyilatkozat) és annak három példányát a biztosított, valamint a választott orvos kézjegyével ellátta.
+
+(2)[^249] Az orvosválasztási nyilatkozatban meg kell határozni a kapcsolattartás módját, a választott orvos közreműködésével nyújtott ellátás igénybevételének rendjét, valamint a nyilatkozatban foglaltak módosítására és visszavonására vonatkozó rendelkezéseket.
+
+(3) Az aláírt orvosválasztási nyilatkozat egy példánya a biztosított egészségügyi dokumentációjának részét képezi, egy-egy példányát pedig az azt aláíró biztosított és a választott orvos kapja.
+
+(4)[^250] Az egészségügyi szolgáltatónak jól látható helyre ki kell függesztenie az orvosválasztás lehetőségéről szóló tájékoztatót.
+
+(5)[^251]
+
+(6)[^252]
+
+## Méltányosságból engedélyezhető egészségügyi szolgáltatások
+
+### 11/B. §[^253]
+
+(1)[^254] Az Ebtv. 26. § (1) bekezdés a) pontja alapján egészségügyi szolgáltatás térítési díja abban az esetben vállalható át, ha a kérelmező a kérelmezett szolgáltatást finanszírozási szerződéssel rendelkező egészségügyi szolgáltatónál (a továbbiakban: finanszírozott egészségügyi szolgáltató) veszi igénybe.
+
+(2)[^255] Az (1) bekezdés szerinti méltányossági kérelmet a biztosított a NEAK-nál nyújthatja be.
+
+(3)[^256] A kérelemnek tartalmaznia kell a biztosított nevét, lakcímét, Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ), továbbá a kérelemhez mellékelni kell:
+
+a)[^257] az ellátás (beavatkozás) szakmai indokoltságát alátámasztó egészségügyi dokumentációt
+
+b) az ellátást (beavatkozást) végző egészségügyi szolgáltató megnevezését, továbbá nyilatkozatát a beavatkozás elvégzésének, illetve az orvos szakmai szempontból indokolt ellátásnak a vállalásáról, annak várható költségéről, valamint implantátum vagy egyéb speciális eszköz esetén a magyarországi forgalmazó árajánlatát
+
+c)[^258] fogászati rekonstrukció esetén a kezelési tervet
+
+d)[^259]
+
+(4)[^260] Ugyanolyan egészségügyi szolgáltatásra vonatkozó ismételt méltányossági kérelem esetén a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a (3) bekezdés a) pontjában meghatározottak tekintetében csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapot változást dokumentáló leleteket szükséges csatolni.
+
+(5)[^261]
+
+### 11/C. §[^262]
+
+(1)[^263] A 11/B. § szerinti kérelmet a NEAK az orvos szakmai indokoltság vizsgálata alapján bírálja el.
+
+(2) Implantátum, egyéb speciális eszköz árának átvállalására irányuló kérelemnél vizsgálni kell, hogy
+
+a) az a születési vagy később bekövetkezett rendellenesség korrekciója során, vagy üzemi balesetből, foglalkozási megbetegedésből eredő egészségkárosodás esetén kerül-e felhasználásra
+
+b) a fejlődési rendellenesség egyéb terápiával orvosolható-e
+
+c)[^264] a deformitás kialakulását okozta-e orvosi beavatkozás vagy valamilyen trauma.
+
+(3)[^265] A NEAK a kérelmet visszautasító végzését, az eljárást megszüntető végzését, továbbá a határozatát közli a beavatkozást elvégző egészségügyi szolgáltatóval és – ha ismert – a kezelőorvossal.
+
+(4)[^266] A biztosított által fizetendő térítési díj átvállalására kizárólag a NEAK egyedi méltányossági határozata alapján kerülhet sor az abban foglalt feltételek teljesülése esetén. Az átvállalt térítési díj összegét a NEAK a beavatkozás elvégzése után, a kórházi zárójelentés, ambuláns lap, kórtörténeti összefoglaló vagy az engedélyezett ellátás jellegéből adódóan szükséges egyéb dokumentum, valamint a beavatkozás, illetve a felhasználásra került anyag, eszköz költségét igazoló számla – szolgáltató által történő – megküldését követően utalványozza az egészségügyi szolgáltató részére. A számlának tartalmaznia kell a biztosított nevét, TAJ-át, valamint a beavatkozás időpontját és az azt végző orvos aláírását, pecsétjét.
+
+## Méltányosságból engedélyezhető gyógyszerek, gyógyászati segédeszközök köre és ártámogatása[^267]
+
+### 11/D. §[^268]
+
+(1)[^269] A biztosított az Ebtv. 26. §-a szerinti méltányossági kérelmet, valamint a (3) bekezdés szerinti kérelmet a NEAK-nál nyújthatja be.
+
+(1a)[^270] Az Ebtv. 26. § (1) bekezdés c)–e) pontja, valamint az Ebtv. 26. § (2a) és (2b) bekezdése szerinti kérelem a biztosított választása esetén elektronikus úton is benyújtható. Ezen kérelmekkel kapcsolatos eljárások során az elektronikus kapcsolattartás a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásokon keresztül valósul meg.
+
+(2)[^271] A kérelemnek tartalmaznia kell a biztosított nevét, lakcímét, TAJ-át, valamint – a b) pont bb) alpontját kivéve – a gyógyszer kiadására a beteg által megjelölt gyógyszertárnak, támogatással nem rendelhető sorozatgyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyszertárnak vagy forgalmazónak, egyedi gyártású gyógyászati segédeszköz esetén a beteg által megjelölt gyógyászati segédeszköz gyártójának vagy forgalmazójának a megnevezését, és – a (3) bekezdés a) pontjában foglalt eset kivételével – a kérelemhez mellékelni kell:
+
+a) három hónapnál nem régebbi kórtörténeti összefoglalót, amely igazolja, hogy a kérelmező kizárólag az igényelt termékkel, illetve ellátással kezelhető vagy látható el;
+
+b)[^272] gyógyszerre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:
+
+ba) a biztosítottat kezelő szakorvos javaslatát, amelyből megállapítható a kért gyógyszer neve, kiszerelése, pontos dózisa, a gyógyszerváltás, tápszerváltás indokoltsága, az eddigi terápiák, illetve az új kezelések várható hatékonysága, a támogatás időtartama,
+
+bb)[^273] a Magyarországon és az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező állam (a továbbiakban: EGT tagállam) területén forgalomban nem lévő gyógyszer esetén – a kezelőorvos kérelmére – a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által kiadott engedély másolatát, a Magyarországon nem, viszont valamely EGT tagállam területén forgalomban lévő gyógyszer esetén az NNGYK által – a kezelőorvosnak a gyógyszer rendelését megelőző kérelmére – kiadott, jogszabályban meghatározott nyilatkozat másolatát;
+
+c) gyógyászati segédeszközre vonatkozó kérelem esetén az a) pontban foglaltakon kívül:
+
+ca) az Ebtv. 26. § (1) bekezdés c) pontja esetében a biztosítottat kezelő szakorvos javaslatát, amelyből megállapítható a gyógyászati segédeszköz neve, az eszköz szükségességének indokoltsága, a támogatás időtartama,
+
+cb)[^274] társadalombiztosítási támogatással nem rendelhető gyógyászati segédeszköz esetén a forgalmazó által adott fogyasztói ár ajánlatát, az eszköz megfelelőségét igazoló dokumentációt, valamint a forgalomba hozó nyilatkozatát az eszköz hasznos technológiai élettartamáról,
+
+cc) a rendelésre jogosult orvos igazolását, ha a biztosított ellátásához az adott kihordási időre rendelhető gyógyászati segédeszköz-mennyiség nem elegendő;
+
+cd)[^275] az Ebtv. 26. § (1) bekezdés d) pontja esetében a biztosított nyilatkozatát, melyben megnevezi azt a korábban méltányosságból támogatott gyógyászati segédeszközt, amely javítási díjához kéri a támogatást, és megjelöli, hogy a javítandó eszköz tekintetében mikor részesült méltányosságból támogatásban;
+
+ce)[^276] az Ebtv. 26. § (1) bekezdés e) pontja esetében a biztosítottat kezelő szakorvos javaslatát, amely tartalmazza az állapotváltozás tényét és leírását, melyből megállapítható az alkatrészcsere indokoltsága,
+
+cf)[^277] az Ebtv. 26. § (1) bekezdés e) pontja esetében a 11/F. §-ban foglaltakra vonatkozó árajánlatot;
+
+cg)[^278] az Ebtv. 26. § (2b) bekezdése szerinti esetben a biztosítottat kezelő szakorvos javaslatát, amelyből megállapítható a gyógyászati segédeszköz neve, az eszköz szükségességének indokoltsága, a kölcsönzés várható időtartama, valamint a kölcsönzést végző egészségügyi szolgáltatónak a kölcsönzés napi díjára vonatkozó árajánlatát és az eszköz megfelelőségét igazoló dokumentációt;
+
+d)[^279]
+
+e)[^280]
+
+(2a)[^281] A kérelemhez a (2) bekezdés a) pontjában foglalt, az EESZT rendszerben rögzített kórtörténeti összefoglalót nem kell csatolni.
+
+(3)[^282] Az indikáción túli gyógyszerrendelés szabályai alapján rendelt, továbbá a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez – figyelemmel a (3b) bekezdésben foglaltakra is –
+
+a)[^283] abban az esetben, ha az adott
+
+aa) járóbeteg-ellátás keretében rendelt gyógyszer valamely forgalomba hozatalra engedélyezett indikációban társadalombiztosítási támogatásban – a jogszabály szerinti érték nélküli támogatási kategória kivételével – normatív jogcímen részesül,
+
+ab) fekvőbeteg-ellátás keretében alkalmazható gyógyszer valamennyi forgalomba hozatalra engedélyezett indikációjában a finanszírozásba befogadásra került,
+
+a (2) bekezdéstől eltérően, kizárólag az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló Korm. rendelet szerinti indikáción túli gyógyszerrendelés iránti kérelmet – az ott meghatározott mellékletek kivételével – és az OGYÉI által kiadott engedély másolatát,
+
+a (2) bekezdéstől eltérően, kizárólag az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló Korm. rendelet szerinti indikáción túli gyógyszerrendelés iránti kérelmet – az ott meghatározott mellékletek kivételével – és az NNGYK által kiadott engedély másolatát,
+
+b) az a) pont alá nem tartozó gyógyszer esetén a (2) bekezdésben – a fekvőbeteg-ellátás során alkalmazható gyógyszer esetében a (2) bekezdés d) pontja kivételével – foglaltakat
+
+kell mellékelni.
+
+(3a)[^284] Ugyanazon gyógyszerre, gyógyászati segédeszközre vonatkozó ismételt méltányossági kérelem esetén a (2a) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapotváltozást dokumentáló, az EESZT rendszerben nem rögzített leleteket szükséges csatolni.
+
+(3b)[^285] A (3) bekezdéstől eltérően az indikáción túli gyógyszerrendelés szabályai alapján rendelt, továbbá a fekvőbeteg-ellátás során alkalmazott gyógyszer méltányossági kérelméhez nem kell mellékelni az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezéséről szóló Korm. rendelet szerinti indikáción túli gyógyszerrendelés iránti kérelmet és az NNGYK által kiadott engedély másolatát, ha az indikáción túli gyógyszerrendelés és -alkalmazás az adott beteg kérelem szerinti készítménnyel történő, adott indikációban történő ellátása tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 25. § (6d) bekezdése alapján, az NNGYK által kiadott indikáción túli gyógyszerrendelési ajánlásra figyelemmel nem engedélyköteles.
+
+(3c)[^286] Ha a Gytv. 25. § (6d) bekezdése alapján, az NNGYK által kiadott indikáción túli gyógyszerrendelési ajánlásában szereplő gyógyszer törzskönyvezett indikációja már befogadásra került emelt vagy kiemelt támogatással a társadalombiztosítási támogatásba, akkor a NEAK hivatalból dönthet a gyógyszer méltányossági kérelem nélkül történő társadalombiztosítási támogatással történő igénybevételének lehetőségéről.
+
+(3d)[^287] A (3c) bekezdése szerinti esetben az érintett emelt és kiemelt indikációs pont alá a NEAK által besorolt, az NNGYK által kiadott indikáción túli gyógyszerrendelési ajánlásában szereplő gyógyszer a NEAK által közzétett gyógyszertörzsben jelölésre kerül, amely alapján az adott gyógyszer az ajánlásban szereplő indikációban is rendelhető és kiszolgáltatható emelt vagy kiemelt támogatással.
+
+(4)[^288] A NEAK határozatát közli a kezelőorvossal, a beteg által a (2) bekezdés alapján megjelölt gyógyszertárral, gyártóval vagy forgalmazóval. A határozatban fel kell tüntetni a beteg számára kiváltható gyógyszer vagy gyógyászati segédeszköz adatait, mennyiségét, a megállapított támogatás alapjául figyelembe vett árát, a méltányosságból megállapított támogatás összegét, és a méltányosságból megállapított támogatás időtartamát. A kérelmezőt tájékoztatni kell arról, hogy a (2) bekezdés b) pont bb) alpontja esetén a gyógyszert melyik gyógyszertárban válthatja ki.
+
+(4a)[^289] A NEAK az NNGYK által kiadott engedély, illetve nyilatkozat másolatát a (4) bekezdés szerinti határozattal együtt megküldi a (2) bekezdés b) pont bb) alpontja szerint rendelt gyógyszer támogatással történő kiszolgáltatására kijelölt, külön szerződéssel rendelkező gyógyszertárnak.
+
+(5)[^290] A (3) bekezdés a) pontja szerinti kérelmet a NEAK tizenkét napon belül, az indikáción túli gyógyszerrendelésnek az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló külön jogszabály szerint sürgős szükséggé történt minősítése esetén pedig soron kívül bírálja el.
+
+(6)[^291] A (2) bekezdés alapján megjelölt vagy a NEAK által kijelölt gyógyszertár a méltányossági kérelem alapján engedélyezett gyógyszerről és a kiadott mennyiségéről nyilvántartást vezet, melyeket a vonatkozó hatósági engedélyre is rávezet. A nyilvántartott adatokat 5 évig meg kell őrizni.
+
+### 11/E. §[^292]
+
+(1)[^293] A kérelem elbírálása során a NEAK a beteg kórtörténete, a betegség súlyossága, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz kérelmező általi használatának orvosszakmai indokoltsága, költsége és költséghatékonysága, valamint a várható egészségnyereség alapján, a kórkép előfordulási gyakoriságának a figyelembevételével dönt.
+
+(1a)[^294] A kérelem elbírálása során a NEAK az EESZT rendszerben rögzített, a kérelem elbírálásához szükséges egészségügyi adathoz hozzáférhet.
+
+(1b)[^295]
+
+(1c)[^296]
+
+(1d)[^297]
+
+(1e)[^298]
+
+(1f)[^299]
+
+(1g)[^300]
+
+(1h)[^301]
+
+(1i)[^302]
+
+(1j)[^303] Korábban nem kérelmezett hatóanyag, indikáció vagy eszközfajta esetén a NEAK az általa felkért, a kérelemben megjelölt gyógyszer vagy gyógyászati segédeszköz szakmai megítélésében kompetens orvos, vagy kompetenciával és egyéb szakirányú képesítéssel rendelkező szakember véleményét is kikéri.
+
+(2) A kérelem elbírálásakor figyelemmel kell lenni a támogatással rendelhető komparátor technológiákra, valamint arra, hogy a kérelmező azokkal miért nem látható el.
+
+(3) A kérelmezett gyógyszerár-támogatás megállapítása bármely kérelmező esetében első alkalommal legfeljebb egy évre történhet.
+
+(4)[^304]
+
+(5) A 11/D. § (2) bekezdése alapján megjelölt közforgalmú gyógyszertár működésének ideiglenes szünetelése, illetve megszűnése esetén a gyógyszertár vezetője
+
+a) a szünetelést, illetve megszűnést megelőző utolsó adag gyógyszer kiadásakor tájékoztatja a gyógyszer támogatására méltányosságból jogosult beteget vagy hozzátartozóját
+
+aa) szünetelés esetén a szünetelés várható időtartamáról,
+
+ab) a gyógyszertár b) pont szerinti, beteg általi választása hiányában a legközelebbi közforgalmú gyógyszertár helyéről és elérhetőségéről, ahol a jogosult vagy hozzátartozója a gyógyszert kiválthatja;
+
+b) értesíti a beteg választása szerinti, ennek hiányában a legközelebbi közforgalmú gyógyszertárat, és ezzel egyidejűleg lebélyegezve és aláírva átküldi a 11/D. § (4) bekezdése szerinti határozat másolati példányát.
+
+(6)[^305] A kérelem elbírálását követően a beteg a 11/D. § (2) bekezdése alapján megjelölt gyógyszertár, illetve gyógyászati segédeszköz gyártó vagy forgalmazó helyett indokolt esetben a NEAK részére történő bejelentést követően másikat jelölhet meg.
+
+### 11/F. §[^306]
+
+Az Ebtv. 26. § (1) bekezdés e) pontja alapján a gyógyászati segédeszköz alkatrészcseréjéhez nyújtható támogatás megállapításánál figyelembe vehető tényezők:
+
+a) a cseréhez felhasznált alkatrész ára,
+
+b) a csere munkadíja, amennyiben az a gyártó beavatkozását igényli.
+
+### 11/G. §[^307]
+
+(1)[^308] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosításáról szóló 2026. évi XXXI. törvény hatálybalépésének[^309] napját megelőző napon hatályos Ebtv. 26/D. § (6) bekezdése szerinti elszámoló szervezetnek a Batthyány-Strattmann László Alapítvány A Gyógyításért alapítvány (a továbbiakban: Alapítvány) által nyújtott támogatások rendszeres kifizetéséhez, elszámolásához és ellenőrzéséhez gyógyszertárakkal, más egészségügyi szolgáltatókkal szerződéses kapcsolatokkal, valamint átlátható kifizetési és elszámolási rendszerekkel kell rendelkeznie.
+
+(2) Elszámoló szervezet igénybevétele esetén az Alapítvány a biztosított számára megítélt támogatásról az okirat megküldésével értesíti
+
+a) a biztosítottat,
+
+b) az elszámoló szervezetet,
+
+c) az okiratban foglaltak végrehajtásában érintett, a biztosított által megjelölt gyógyszertárat, más egészségügyi szolgáltatót.
+
+(3) Elszámoló szervezet igénybevétele esetén a (2) bekezdés c) pontja szerinti gyógyszertár, más egészségügyi szolgáltató számára a megítélt támogatást az elszámoló szervezet folyósítja. A támogatás felhasználásáról a (2) bekezdés c) pontja szerinti gyógyszertár, más egészségügyi szolgáltató az elszámoló szervezet számára elszámol.
+
+(4) Az Alapítvány – az elszámoló szervezet által a részére átadott – (3) bekezdés szerinti elszámolások alapján téríti meg az elszámoló szervezetnek a támogatást.
+
+## Külföldi tartózkodás közben szükséges gyógykezelés megtérítése
+
+## (Az Ebtv. 27. §-ához)
+
+### 12. §
+
+(1)[^310] Az Ebtv. 27. § (1) és (2) bekezdésében meghatározott esetekben a harmadik állam területén igénybe vett egészségügyi szolgáltatás és sürgősségi betegszállítás költségének megtérítésére vonatkozó kérelemhez csatolni kell a külföldi számlát, a számla fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapítható meg az igénybe vett egészségügyi szolgáltatás, az erre vonatkozó igazolást vagy kórházi zárójelentést és ezek fordítását.
+
+(2)[^311]
+
+(3)[^312] Az Ebtv. 27. §-ának (2) bekezdése alapján tartósan az Ebtv. 27. §-ának (1) bekezdésében meghatározott harmadik állam területén foglalkoztatott biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke által a harmadik állam területén indokoltan igénybe vett egészségügyi ellátás költségének megtérítése iránti kérelemhez az (1) bekezdésben foglaltakon túl mellékelni kell az igazolást arról, hogy az Ebtv. 27. §-ának (4) bekezdésében említett orvosi vizsgálaton részt vettek, valamint a munkáltató igazolását arról, hogy az egészségügyi szolgáltatás igénybevételére a harmadik állam területén történő foglalkoztatás alatt került sor.
+
+(4)[^313] Az Ebtv. 27. § (1) és (2) bekezdése alapján a biztosított külföldi egészségügyi szolgáltatótól magyarországi szolgáltatóhoz történő sürgősségi betegszállítása költségeinek megtérítésére abban az esetben kerülhet sor, ha a betegszállítás elmaradása a beteg életét vagy testi épségét súlyosan veszélyeztetné vagy maradandó egészségkárosodáshoz vezetne és a betegszállítás nem jár a beteg helyszínen történő ellátásával szemben aránytalan költségekkel. A sürgősségi betegszállítás engedélyezéséről és a költségek megtérítéséről a NEAK dönt.
+
+(5)[^314] A NEAK engedélyezheti a számla kiegyenlítése nélkül is az Ebtv. 27. §-ának (1) és (2) bekezdésében meghatározott esetben a (6) bekezdés szerint megállapított költség összegének megtérítését. A megtérítendő összeget a NEAK a gyógykezelést végző külföldi intézmény részére utalja át.
+
+(6)[^315] Az Ebtv. 27. § (1) és (2) bekezdése szerinti belföldi költséget külön jogszabályban foglaltak szerint kell megállapítani az igénybevétel hónapja szerinti elszámoláskor érvényes értéken.
+
+(7)[^316] Harmadik állam területén foglalkoztatott biztosított, továbbá a vele közös háztartásban élő házastársa és gyermeke által harmadik állam területén igénybe vett sürgősségi betegszállítás esetén a NEAK – nemzetközi egyezmény eltérő rendelkezése hiányában – a számla szerinti összegnek a Magyar Nemzeti Bank által közzétett, az igénybevételkor érvényes középárfolyamon számított forint összegét téríti meg.
+
+(8)[^317] A közszolgálati, kormányzati szolgálati, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban álló tartósan harmadik állam területén foglalkoztatott biztosított, illetve a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által a harmadik állam területén igénybe vett egészségügyi ellátás költségének megtérítése esetén megfelelően alkalmazni kell az (1) és (3) bekezdésben foglaltakat.
+
+(9)[^318] A (8) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a közszolgálati, kormányzati szolgálati, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, illetve a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke az Ebtv. 27. §-ának (7) bekezdése alapján az indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költsége 100 százalékának megtérítését kéri.
+
+(10)[^319] Az egészségügyi ellátás az Ebtv. 27. §-ának (4) bekezdésében foglaltak mellett akkor tekinthető indokoltnak, ha
+
+a) sürgős szükség miatt merül fel, vagy
+
+b) a külföldi ellátás költsége nem haladja meg a belföldi ellátás, valamint a haza- és visszaszállítás (utazás) költségét, vagy
+
+c) a haza- és visszaszállítás – a sürgős szükség esetét nem kimerítve – a biztosított állapotában rosszabbodást okoz.
+
+(11)[^320] Budapest Főváros Kormányhivatala kizárólagos hatáskörébe tartozik
+
+a) az Ebtv. 27. § (5) bekezdése szerinti költségek, továbbá
+
+b) az Ebtv. 27. § (7) bekezdésében biztosított választási lehetőséggel élő kérelmére az általa indokoltan igénybe vett egészségügyi ellátás felmerült és igazolt költség 100 százalékának
+
+a megtérítése. A megtérítési igény érvényesítésére a foglalkoztató Budapest Főváros Kormányhivatalával megállapodást köthet. Tervezett ellátást kizárólag a NEAK előzetes engedélyének birtokában lehet igénybe venni és utólagosan megtéríttetni.
+
+(12)[^321] A Budapest Főváros Kormányhivatala az igazolt költség 100 százalékát a szolgáltatás igénybevételekor érvényes, a Magyar Nemzeti Bank által közzétett középárfolyamon számított forintösszeg alapulvételével téríti meg.
+
+(13)[^322]
+
+(14)[^323] Az Ebtv. 27. §-ának (10) bekezdése alapján történő engedélyezés során a NEAK az ellátásra szoruló betegségének súlyosságát, az egészségügyi ellátás jellegét és várható időtartamát mérlegeli.
+
+### 12/A. §[^324]
+
+(1)[^325] Az igényérvényesítéshez szükséges TAJ kiadását – az e §-ban foglalt kivétellel – a Tbj. szerinti biztosított vagy a Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személy a lakóhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivatalnál kezdeményezi. A TAJ számot igazoló hatósági igazolvány kiadását az erre a célra rendszeresített nyomtatványon vagy elektronikus űrlapon kell kérelmezni. A kormányhivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ képzését, és az adatátadást követően azt a kormányhivatal vagy a NEAK hatósági igazolványon igazolja. Ha a Tbj. szerinti belföldi személy magyarországi tartózkodása vagy egészségügyi szolgáltatásokra való jogosultsága határozott idejű, a kormányhivatal, illetve a NEAK a hatósági igazolványt ezen időtartamra vonatkozó érvényességgel adja ki.
+
+(2)[^326]
+
+(3)[^327] A személyiadat- és lakcímnyilvántartás szervének az újszülött adataira vonatkozó adatszolgáltatása alapján a Kincstár TAJ számot képez, és erről adatot szolgáltat a NEAK részére. A gyermek lakóhelye – a szülő kérelmére a gyermek születési helye – szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivatal, a Kincstár adatszolgáltatását követően soron kívül, de legkésőbb nyolc napon belül kiadja, és a gyermek lakóhelyére vagy a szülő kérelmében meghatározott címre postán megküldi az újszülött TAJ számát igazoló hatósági igazolványt.
+
+(3a)[^328] A TAJ számot igazoló hatósági igazolványt annak az intézetben született, Magyarországon élő magyar állampolgár újszülöttnek, akinek az intézetben történt születését az intézet vezetője bejelentette, az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet 7. § (8) bekezdése szerint hivatalból kell kibocsátani, a hatósági igazolványt a NEAK adatszolgáltatása alapján az okmány megszemélyesítését végző szervezet kiállítja, és kézbesíti a születés helye szerint illetékes anyakönyvvezetőnek. Az át nem vett okmányok – havonta egyszer összegyűjtve – a lakóhely szerint illetékes vármegyei kormányhivatalnak kerülnek megküldésre.
+
+(3b)[^329]
+
+(4) Gyógyszer támogatással történő rendelése során a biztosított az Ebtv. 29. §-ának (2) bekezdése szerinti nyilatkozatát az egészségügyi dokumentáción aláírásával megerősíti. Az egészségügyi szolgáltató a nyilatkozathoz nyomtatványt rendszeresíthet, amit annak kitöltése céljából az ellátás megkezdése előtt a biztosított rendelkezésére bocsáthat. A biztosított által kitöltött és aláírt nyilatkozat az egészségügyi dokumentáció részét képezi, és az egészségügyi szolgáltató köteles azt a kitöltésétől számított öt évig megőrizni.
+
+(5) Gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelése során a biztosított Ebtv. 29. §-ának (2) bekezdése szerinti nyilatkozatát – külön jogszabályban foglaltak figyelembevételével – a vény hátoldalára kell feljegyezni, amit a biztosított aláírásával igazol.
+
+(6)[^330] A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, valamint a nemzetközi egyezmények szerinti formanyomtatványt az érvényes jogviszonnyal rendelkező biztosított részére a kormányhivatal vagy a NEAK bocsátja ki, a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti Európai Egészségbiztosítási Kártyát (a továbbiakban: EU-Kártya) az érvényes jogviszonnyal rendelkező biztosított részére a kormányhivatal, a kormányablak, valamint a NEAK bocsátja ki.
+
+(6a)[^331] A (6) bekezdés szerinti eljárás során az eljáró szerv által kiállított formanyomtatvány (ideértve az EU-Kártyát is) határozatnak minősül, azzal, hogy az alkalmazandó jogról szóló A1 jelű nyomtatvány hatósági bizonyítvány. A magyarországi pénzbeli egészségbiztosítási ellátás (6) bekezdés szerinti megállapításakor az ügyfél nyilatkozata akkor sem pótolhatja a nemzetközi egyezmények szerinti vagy európai uniós formanyomtatványt, illetve az azzal egyenértékű egyéb igazolást, ha a nyomtatvány vagy igazolás beszerzése nem lehetséges.
+
+(6b)[^332] EGT tagállamban és Svájcban történő ideiglenes tartózkodás időtartama alatt bekövetkező koraszülés esetén az egészségügyi szolgáltató megkeresése alapján a gyermek részére a NEAK az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendeletben meghatározott informatikai kód alkalmazásával kártyahelyettesítő nyomtatványt állít ki, ha az anya Magyarországon lakóhellyel rendelkező magyar állampolgár és a Tbj. 6. § szerinti biztosított vagy a Tbj. 22. § szerinti egészségügyi szolgáltatásra jogosult.
+
+(6c)[^333] Ha az új EU-Kártya igénylésének időpontjában az érvényes jogviszonnyal rendelkező biztosított birtokában még érvényes EU-Kártya van, az érvényességi idő lejártát megelőző harminc napon belül – a korábban kiadott EU-Kártya érvénytelenítésével és leadásával egyidejűleg – új EU-Kártya kiadása kezdeményezhető. Az új EU-Kártya érvényességi idejének kezdete az új EU-Kártya kiállításának napja.
+
+(7)[^334] Az EU-Kártya hatálya:
+
+a)[^335] a Tbj. szerinti egészségügyi szolgáltatásra jogosultság időtartama, de legfeljebb 120 hónap,
+
+b)[^336] a kihelyező okiratban szereplő, tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy és a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti hozzátartozója esetében a külszolgálat vagy külföldi szolgálat várható időtartama, de legfeljebb 48 hónap.
+
+(7a)[^337] A (6b) bekezdésben hivatkozott kártyahelyettesítő nyomtatvány legfeljebb a szülést követő második hónap utolsó napjáig tartó érvényességi idővel állítható ki.
+
+(7b)[^338] A Tbj. 43. § (1) bekezdés a) pontjában meghatározott személyi kör esetében az EU kártya érvényességi ideje legfeljebb 6 hónap, azzal, hogy a kérelem előterjesztésekor hitelt érdemlő módon igazolni kell az egészségügyi szolgáltatási járulék folyamatos befizetésének tényét.
+
+(8)[^339] A Tbj. szerint külföldinek minősülő biztosított részére a foglalkoztatója a foglalkoztatás megkezdése előtt – az erre rendszeresített nyomtatványon vagy elektronikus űrlapon – a székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivataltól kéri a TAJ kiadását. A kormányhivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ szám képzését, és az adatátadást követően a képzett TAJ számról, valamint a TAJ számot igazoló hatósági igazolvány átvételének lehetőségéről értesíti a foglalkoztatót. A TAJ számot igazoló hatósági igazolványt a foglalkoztatott az ország területén bármely egészségbiztosítási pénztári feladatkörében eljáró kormányhivatalnál átveheti.
+
+(9)[^340] A Tbj. 22. §-a (1) bekezdésének i) és m) pontja alapján egészségügyi szolgáltatásra jogosult külföldi tekintetében a köznevelési intézmény, a szakképző intézmény vagy a felsőoktatási intézmény, a hatáskörrel és illetékességgel rendelkező magyar hatóság által ideiglenes hatállyal elhelyezett, otthont nyújtó ellátás keretében átmeneti és tartós nevelésbe vett külföldi kiskorú személy tekintetében pedig az elhelyezésében eljáró intézmény a külföldi részére történő TAJ igénylés során a (8) bekezdés szerinti foglalkoztatónak minősül.
+
+(9a)[^341] Azt a Tbj. szerint külföldinek minősülő eltartott hozzátartozót, aki a főbiztosított jogán jogosultság igazolást kap a külföldi biztosító – a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendeletre – alapozott kérésére, a fő biztosított foglalkoztatójának székhelye szerint illetékes egészségbiztosítási pénztári feladatkörében eljáró kormányhivatal hivatalból TAJ számmal látja el. A kormányhivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ szám képzését, és az adatátadást követően a képzett TAJ számról, valamint a TAJ számot igazoló hatósági igazolvány átvételének lehetőségéről értesíti a főbiztosítottat. A TAJ számot igazoló hatósági igazolványt az érintett – érvényességi időn belül – a főbiztosított jogosultság igazolását kiállító kormányhivatalnál átveheti vagy a kérelmező nyilatkozata alapján a kormányhivatal gondoskodik a postai kézbesítésről.
+
+(10)[^342] A megállapodás alapján egészségügyi szolgáltatásra jogosult személy részére a kormányhivatal
+
+a) a megállapodás megkötését követő 24. hónap első napjáig a sürgősségi ellátásra való jogosultság bizonyításához igazolást állít ki,
+
+b) a TAJ-t hatósági igazolványon igazolja, ha az előírt járulék befizetése 24 hónapra megtörtént.
+
+(11)[^343] A Tbj. szerint külföldinek minősülő, TAJ-jal rendelkező személy köteles a változástól számított 15 napon belül bejelenteni a kormányhivatal részére a természetes személyazonosító adataiban, valamint a lakóhelyére, illetve tartózkodási helyére vonatkozó adatokban és az egészségügyi szolgáltatásra való jogosultságot megalapozó jogviszonya adataiban bekövetkező változásokat.
+
+(12)[^344] Az (1) és (8) bekezdésében foglalt azon személyek – ide nem értve a Tbj. 6. §-a szerint biztosított személyeket –, akik a TAJ igénylés előtt EGT tagállamban, Svájcban, illetve nemzetközi egyezmény – kivéve a kettős biztosítás tilalmáról nem rendelkező nemzetközi egyezményeket – hatálya alá tartozó államban rendelkeztek biztosítási jogviszonnyal, kötelesek a TAJ igénylést közvetlenül megelőző biztosítás helye szerinti tagállam biztosítója által kiadott, a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatványt vagy hatósági igazolást csatolni a biztosítási időszakról. Ha az igazolás becsatolására nem kerül sor, a TAJ nem állítható ki addig, amíg azt a magyar egészségbiztosítási szerv az igénylő által megadott másik tagállami illetékes hatóságtól be nem szerzi.
+
+(13)[^345] A külföldön született vagy külföldön biztosított kiskorú esetében a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatványt vagy hatósági igazolást – amennyiben az Electronic Exchange of Social Security Information (EESSI) rendszeren keresztül azonnali adatlekérdezésre nincs lehetőség – a törvényes képviselő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatával a jogsegély megérkezéséig pótolhatja. Ha a törvényes képviselő által tett nyilatkozat tartalma ellentétes a formanyomtatvány vagy hatósági igazolás tartalmával, az átmeneti időszakban igénybe vett egészségügyi ellátás költségeit köteles megtéríteni.
+
+(14)[^346] A TAJ számmal nem rendelkező, belföldinek nem minősülő, egyszerűsített foglalkoztatás keretében alkalmazott természetes személy részére – nem magyar állampolgár esetén a foglalkoztatási szerv, magyar állampolgár esetében pedig a foglalkoztató megkeresésére – az egészségbiztosítási pénztári feladatkörében eljáró kormányhivatal a NEAK által biztosított központi informatikai rendszeren keresztül kéri a Kincstártól a TAJ képzését, és az adatátadást követően a képzett TAJ számról az egészségbiztosítási pénztári feladatkörében eljáró kormányhivatal értesíti az állami foglalkoztatási szervet, illetve a foglalkoztatót. A kormányhivatal az értesítésben a „kizárólag baleseti egészségügyi szolgáltatásra jogosult” szöveggel korlátozza az egészségügyi szolgáltatásra való jogosultságot.
+
+(15)[^347] A TAJ-t tartalmazó hatósági igazolvány kizárólag a TAJ igazolására szolgál, az egészségügyi szolgáltatásra való jogosultságot az egészségügyi szolgáltató a jogviszony-ellenőrzés során a NEAK nyilvántartásban ellenőrzi.
+
+(16)[^348] Az uniós betegnek a határon átnyúló egészségügyi ellátásra való jogosultságát bármely olyan okirat igazolja, amely az Európai Unió tagállamabeli állampolgárságát vagy az egészségügyi ellátásra való jogosultságát hitelt érdemlően bizonyítja.
+
+### 12/B. §[^349]
+
+(1)[^350] Az Ebtv. 30. § (1) bekezdésében meghatározott finanszírozási szerződéssel rendelkező egészségügyi szolgáltató – a védőnői szolgáltatást, otthoni szakápolást, iskola- és ifjúság-egészségügyi ellátást, mozgó szakorvosi szolgálatot teljesítő szolgáltató, valamint a beteg közvetlen jelenlétét nem igénylő diagnosztikai és kórszövettani vizsgálat és boncolás kivételével – (e § alkalmazásában a továbbiakban: egészségügyi szolgáltató) az egészségügyi szolgáltatás igénybevételét megelőzően, transzplantáció esetén a transzplantáció céljából történt fekvőbeteg-gyógyintézeti felvételkor az ellátás igénybevételét megelőzően, a TAJ-t igazoló hatósági igazolvány bemutatását, vagy ennek hiányában az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 4. § (5) bekezdésében meghatározott adatok hitelt érdemlő igazolását követően, a NEAK nyilvántartásában közvetlenül elektronikus úton (on-line) ellenőrzi, hogy az Ebtv. 29. § (4) bekezdésében meghatározott személy a nyilvántartásban az egészségbiztosítás egészségügyi szolgáltatásaira jogosultként szerepel-e. A 14. életévét be nem töltött személy esetében az ellenőrzést minden egészségügyi szolgáltatónak egyszer, az adott személy első alkalommal történő ellátása során kell elvégeznie. Az ellenőrzést adott ellátási formában egy napon nyújtott szolgáltatások számától függetlenül egyszer kell elvégezni.
+
+(1a)[^351] Az (1) bekezdés szerinti jogviszony-ellenőrzést a szolgáltató kizárólag a NEAK által, az ellenőrzéssel érintett ellátás szerinti finanszírozási szerződéshez kapcsolódóan rendelkezésére bocsátott azonosító kóddal végezheti el.
+
+(2)[^352] Az (1) bekezdés szerinti ellenőrzést a szolgáltató nem köteles elvégezni abban az esetben, ha az ellátásra nem az egészségügyi szolgáltató székhelyén, illetve telephelyén kerül sor.
+
+(3)[^353] A NEAK az egészségügyi szolgáltatók részére az ellenőrzés lehetőségét időbeli korlátozás nélkül biztosítja.
+
+(4)[^354] Ha a jogosultsági ellenőrzésnek alávetett személynek az ellenőrzés eredménye alapján a NEAK nyilvántartása szerint érvényes a TAJ-a, azonban rendezetlen a jogviszonya, illetve a Tbj. 46. § (2) bekezdése alapján érvénytelen a TAJ-a, akkor az ellenőrzést végző szolgáltató a NEAK honlapjáról letölthető értesítést átadja az érintett személynek.
+
+(5) A (4) bekezdésben meghatározott értesítés tartalmazza
+
+a)[^355] azt a tényt, hogy az egészségbiztosítás egészségügyi szolgáltatását igénybe vevő személy a NEAK nyilvántartásban jogosultként nem szerepel,
+
+b)[^356] a felhívást arra, hogy a jogosultság fennállásának tisztázása érdekében keresse meg az ország területén bármely kormányhivatalt,
+
+c) a jogosultság hiányának jogkövetkezményeiről szóló tájékoztatást, valamint
+
+d)[^357] az arra vonatkozó információt, hogy bővebb tájékoztatás a NEAK honlapján érhető el.
+
+(6)[^358] Ha az (1) bekezdés szerinti személy állapota az ellátás azonnali megkezdését indokolja, az ellenőrzést közvetlenül az egészségügyi szolgáltatás igénybevételét követően, fekvőbeteg-szakellátás esetén legkésőbb az annak kezdetét követő első munkanapon kell elvégezni. Ismeretlen, az (1) bekezdés szerinti ellenőrzéshez szükséges adatokat igazolni nem tudó személynél – fekvőbeteg szakellátás esetén – legkésőbb az intézményből történő elbocsátás napján kell teljesíteni a jogviszony ellenőrzési kötelezettséget.
+
+(7) Kúraszerű ellátás esetén az ellátást – ideértve a dialízis kezelést is – végző szolgáltatónak – a kúra teljes ideje alatt – havonta egy alkalommal, a kezelés megkezdése előtt ellenőriznie kell az (1) bekezdés szerint az ellátott személy jogosultságát.
+
+(8)[^359] Az ellenőrzés eredménye nem érinti
+
+a) az egészségügyi szolgáltatás biztosításának kötelezettségét az érvényes TAJ-jal rendelkező személyek esetében, valamint
+
+b) az egészségügyről szóló 1997. évi CLIV. törvény 3. § i) pontja szerinti sürgős szükség esetén nyújtott ellátás és mentés biztosításának kötelezettségét a Tbj. 46. § (2) bekezdése alapján érvénytelen TAJ-jal rendelkező személyek esetében.
+
+(9)[^360] A jogosultság-ellenőrzési rendszer jogosultsági ellenőrzés elvégzését nem engedő, az egészségügyi szolgáltató tevékenységére vagy mulasztására vissza nem vezethető hibája esetén az ellenőrzés elmulasztásához kapcsolódó, külön jogszabályban meghatározott finanszírozási jogkövetkezmények nem érvényesíthetők, amennyiben a jogviszony-ellenőrzés elmaradása az egészségügyi szolgáltató által bizonyítható módon a hiba időtartamára esett.
+
+(10)[^361] A NEAK honlapjáról letölthető tájékoztatót, mely közérthető módon tartalmazza
+
+a) az egészségügyi szolgáltatásra való jogosultságot megalapozó jogviszonyok felsorolását és az azok megszerzésének lehetőségére, a jogviszony igazolására vonatkozó információkat,
+
+b) az egészségbiztosítás keretében fennálló közteherviselési kötelezettségre való utalást, valamint
+
+c) az egészségügyi szolgáltatásra való jogosultság hiánya esetén a jogkövetkezményekről szóló tájékoztatást,
+
+az egészségügyi szolgáltató a betegforgalom számára nyitva álló helyiségében közzéteszi, és erről az egészségügyi szolgáltatást igénybe vevő személyt szóban tájékoztatja.
+
+(11)[^362] Ha az egészségügyi szolgáltató az egészségügyi ellátás igénybevételekor az (1) bekezdés szerinti adatkapcsolatnak az egészségügyi szolgáltató felelősségi körén kívüli okból eredő üzemzavara miatt nem tudja ellenőrizni, hogy az ellátást igénybe vevő személy a nyilvántartásban ellátásra jogosultként szerepel-e, mentesül az ellenőrzés elmulasztásához külön jogszabályban meghatározott finanszírozási jogkövetkezmények alól, feltéve, hogy az üzemzavart igazolni tudja, és a hiba tényét annak észlelését követően azonnal, de legkésőbb a következő munkanapon írásban vagy elektronikusan jelzi a NEAK-nak.
+
+(12)[^363] E § alkalmazásában az egészségügyi szolgáltató felelősségi körén kívüli okból eredő üzemzavar az adatkapcsolat létesítéséhez igénybe vett, nem az egészségügyi szolgáltató ellenőrzése alatt álló távközlési vagy tápellátási rendszer üzemzavara.
+
+(13)[^364] Amennyiben az értesítés alapján a NEAK megállapítja, hogy az üzemzavar a (12) bekezdésben meghatározott okból állt fenn, az egészségügyi szolgáltatás – a külön jogszabályban meghatározott finanszírozási jogkövetkezmények alkalmazása nélkül – az ellátásra meghatározott finanszírozási szabályok szerint kerül elszámolásra.
+
+(14)[^365] A jogviszony-ellenőrzés elmulasztásának jogkövetkezménye az adott, 30 napot meghaladóan folyamatosan, nem kúraszerűen végzett egészségügyi ellátásra vonatkozóan az első finanszírozási jelentés beküldésében foglaltak tekintetében alkalmazható.
+
+(15)[^366]
+
+### 12/C. §[^367]
+
+A 3/A. § (10a) bekezdése szerinti beutaló kiállítása előtt a 3. § (8) bekezdése szerinti beutaló orvos a NEAK nyilvántartásban közvetlenül elektronikus úton ellenőrzi, hogy a biztosított a beutaló kiállításakor táppénzre jogosultságot szerezhet-e.
+
+### 12/D. §[^368]
+
+(1) Az Ebtv. 32. § (1) bekezdésében meghatározott támogatással történő rendelésére jogosító szerződéssel rendelkező egészségügyi szolgáltató orvosa társadalombiztosítási támogatással történő rendelés esetén, a rendelés igénybevételét megelőzően, a TAJ-t igazoló hatósági igazolvány bemutatását, vagy ennek hiányában az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 4. § (5) bekezdésében meghatározott adatok hitelt érdemlő igazolását követően, a NEAK nyilvántartásában közvetlenül elektronikus úton (on-line) ellenőrzi, hogy az Ebtv. 29. § (4) bekezdésében meghatározott személy a nyilvántartásban az egészségbiztosítás egészségügyi szolgáltatásaira jogosultként szerepel-e. A 14. életévét be nem töltött személy esetében az ellenőrzést minden egészségügyi szolgáltatónak egyszer, az adott személy első alkalommal történő ellátása során kell elvégeznie. Az ellenőrzést adott ellátási formában egy napon nyújtott szolgáltatások számától függetlenül egyszer kell elvégezni.
+
+(2) Az (1) bekezdés szerinti jogviszony-ellenőrzést a szolgáltató kizárólag a NEAK által, az ellenőrzéssel érintett ellátás szerinti támogatással történő rendelésére jogosító szerződéshez kapcsolódóan rendelkezésére bocsátott azonosító kóddal végezheti el.
+
+(3) Az Ebtv. 32. § (1) bekezdésében meghatározott támogatással történő rendelésére jogosító szerződéssel rendelkező egészségügyi szolgáltató orvosa általi jogviszony ellenőrzéssel kapcsolatban egyebekben a 12/B. § (3)–(14) bekezdésében foglaltak alkalmazandóak.
+
+## A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló szerződések és azok teljesítésének ellenőrzése[^369]
+
+## (Az Ebtv. 30–35. §-ához)
+
+### 13. §[^370]
+
+A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló, 14–25. § és az Ebtv. 30/A. §-a szerinti szerződések nem minősülnek a közbeszerzésekről szóló törvény szerinti értelemben vett visszterhes szerződésnek.
+
+### 13/A. §[^371]
+
+A kötelező egészségbiztosítás ellátásainak biztosítását szolgáló, a 14–20. § és a 22–25. § szerinti szerződéssel – ide nem értve a pro família rendelésre jogosító szerződést – rendelkező egészségügyi szolgáltató a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 44. §-ának (1) bekezdése szerinti tájékoztatási kötelezettsége keretében a NEAK által készített és a biztosítottaknak szóló – egészségbiztosítási jogviszony keretében igénybe vehető egészségügyi ellátással kapcsolatos – informatív és tájékoztató anyagokat, kiadványokat betegforgalom számára nyitva álló helyiségében közzéteszi.
+
+### 14. §
+
+(1)[^375] A 15–21. § szerinti finanszírozási szerződéseket a NEAK határozatlan időre köti meg. Adott szolgáltatás nyújtásához szükséges feltételek hiányosságai esetén, az azok pótlására az egészségügyi államigazgatási szerv által előírt, vagy a szolgáltató által vállalt határidőre figyelemmel, határozott időre köthető a finanszírozási szerződés.
+
+(1a)[^376] Az Ebtv. 31. § (3) bekezdés e) pontja szerinti nyilatkozat az alábbiakat tartalmazza:
+
+a) az egészségügyi szolgáltató neve, székhelye,
+
+b)[^377] az egészségügyi szolgáltató részére a NEAK által adott azonosító kód (a továbbiakban: NEAK-kód), amennyiben rendelkezik ilyennel,
+
+c) az egészségügyi szolgáltató nyilatkozata arról, hogy a nemzeti vagyonról szóló törvény szerinti átlátható szervezetnek minősül,
+
+d)[^378] kötelezettségvállalás arra, hogy amennyiben a finanszírozási szerződéskötést követően az egészségügyi szolgáltató helyzetében olyan változás következik be, amely miatt nem minősül átlátható szervezetnek, azt ezen változás bekövetkeztétől számított 8 napon belül írásban bejelenti a NEAK részére,
+
+e)[^379] közreműködő egészségügyi szolgáltató esetén az a)–d) pontban foglaltakon túl a közreműködő egészségügyi szolgáltató nyilatkozata arról, hogy mely egészségügyi szolgáltató (név, székhely, NEAK-kód) tevékenységében működik közre.
+
+(2)[^380] Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 5. § (1) bekezdése értelmében a települési önkormányzatok kötelező feladatát képező egészségügyi alapellátás körébe tartozó egészségügyi szolgáltatások (háziorvosi, házi gyermekorvosi, területi védőnői és fogorvosi) tekintetében a feladat ellátására kötelezett települési önkormányzat minősül egészségügyi szolgáltatónak, amennyiben nem hozott létre a feladat ellátására önkormányzati intézményt.
+
+(3)[^381] A területi ellátási kötelezettséggel rendelkező egészségügyi alapellátás finanszírozására vonatkozó szerződést az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 6. §-ában meghatározott körzet székhelye – kijelölt székhely hiányában az alapellátást nyújtó szolgálat telephelye – szerint, az otthoni szakápolás esetén a NEAK köti meg a szolgáltatóval.
+
+(4)[^382] A 22–25. § szerinti szerződéseket – ha jogszabály másként nem rendelkezik – a NEAK határozatlan időre köti meg.
+
+(5)[^383] A 24–25. § szerinti szerződéseket a NEAK a szolgáltató székhelye szerint köti meg.
+
+### 15. §[^384]
+
+(1)[^385] Amennyiben a NEAK megállapítja, hogy az egészségügyi szolgáltató valamely szakmai szervezeti egysége nem rendelkezik az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló külön jogszabályban meghatározott feltételekkel, 30 napos határidő tűzésével felszólítja a hiányosságok pótlására, és ezzel egyidejűleg a hiányosságokat jelzi az egészségügyi szolgáltatás nyújtására jogosító működési engedélyt kiadó hatóság felé. Amennyiben az egészségügyi szolgáltató valamely szakmai szervezeti egysége a határidő elteltét követően sem rendelkezik az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló külön jogszabályban meghatározott feltételekkel, a NEAK – ha az egészségügyi államigazgatási szerv véleménye alapján nem áll fenn ellátási érdek – az egészségügyi szolgáltató érintett szervezeti egysége tekintetében felmondja a finanszírozási szerződést.
+
+(2)[^386] Ha egészségügyi szolgáltatónak minősülő költségvetési szerv megszüntetésére a feladatellátás más, nem költségvetési szervezeti formában történő megvalósítása érdekében kerül sor, a megszüntetést megelőzően az alapítónak – az államháztartás működési rendjéről szóló 292/2009. (XII. 19.) Korm. rendeletben meghatározottakon túl – az új egészségügyi szolgáltató cégnyilvántartásba történő bejegyzése iránti kérelme előterjesztésével egyidejűleg kezdeményeznie kell az új finanszírozási szerződés megkötését annak érdekében, hogy a megszüntetett szolgáltató helyébe az új egészségügyi szolgáltató lépjen. Ilyen esetben a finanszírozási szerződés megkötését a NEAK nem tagadhatja meg.
+
+### 16. §
+
+(1)[^387] A NEAK az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján az iskola- és ifjúság-egészségügyi ellátás finanszírozására azzal az egészségügyi szolgáltatóval köt finanszírozási szerződést, amely nevelési-oktatási intézménnyel a feladat ellátására megállapodást kötött.
+
+(2)[^388]
+
+(3)[^389] Az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatások közül az egészségügyért felelős miniszter rendelete alapján a területi védőnői szolgálat finanszírozására a NEAK a finanszírozási szerződést a területi védőnői szolgálatot működtető irányító vármegyei intézménnyel köti meg.
+
+(4)[^390]
+
+(5)[^391] Az (1)–(4) bekezdésben nem szereplő és az Ebtv. 10. §-a szerint a betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásra a NEAK, az egészségügyért felelős miniszter rendelete szerint a szolgáltatás nyújtására kötelezett egészségügyi szolgáltatóval, a szolgáltató egyéb finanszírozott tevékenysége keretében köt finanszírozási szerződést.
+
+### 17. §
+
+(1)[^392] Háziorvosi és házi gyermekorvosi (a továbbiakban: háziorvosi) ellátás finanszírozására a NEAK a szerződést
+
+a) területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében, amennyiben a feladatot az önkormányzat
+
+aa) egészségügyi intézménye látja el, az intézménnyel,
+
+ab) átadta háziorvosi szolgáltatás nyújtására jogosult egészségügyi szolgáltatónak, a feladatot átvállaló egészségügyi szolgáltatóval,
+
+ac) nem az *aa)–ab)* pontban foglaltak szerint látja el, az önkormányzattal,
+
+b) területi ellátási kötelezettség nélkül működő háziorvosi szolgálat esetében a külön jogszabályban foglalt feltételeknek megfelelő egészségügyi szolgáltatóval
+
+köti meg.[^393]
+
+(2) A háziorvosi ellátás finanszírozására megkötött szerződésben vagy mellékletében – az Ebtv. 31. § (1) bekezdésének e) pontja szerint – meg kell határozni
+
+a) a területi ellátási kötelezettséggel működő háziorvosi szolgálatok körzetenkénti helyettesítési rendjét,
+
+b) a háziorvosi feladatot ellátó egészségügyi szolgáltatónak az ügyeleti ellátásban történő részvételi rendjét.
+
+### 18. §
+
+(1)[^394]
+
+(2) A fogászati ellátás finanszírozására megkötött szerződésben vagy mellékletében – az Ebtv. 31. § (1) bekezdésének e) pontja szerint – meg kell határozni
+
+a) a fogászati ellátási szolgálatok körzetenkénti helyettesítési rendjét,
+
+b) az ügyeleti ellátásban történő részvétel rendjét.
+
+### 19. §[^395]
+
+A járóbeteg-szakellátás és a fekvőbeteg-szakellátás – ideértve a rehabilitációs és a szülészeti ellátást is – finanszírozására a NEAK a finanszírozási szerződést azzal az egészségügyi szolgáltatóval köti meg, amely arra külön jogszabály alapján jogosult.
+
+### 20. §[^396]
+
+A fekvőbeteg-gyógyintézeti ellátást kiváltó otthoni szakápolás és otthoni hospice ellátás finanszírozására a NEAK a lakosság számának arányában felosztott vármegyei kereten belül köthet szerződést olyan egészségügyi szolgáltatóval, amely a feladat ellátására jogosító működési engedéllyel rendelkezik és megfelel a külön jogszabályban foglalt követelményeknek.
+
+### 20/A. §[^397]
+
+(1)[^398] Az Ebtv. 32. § (8) bekezdése szerinti szerződést a NEAK azzal a szolgáltatóval köti meg, amely a 2. § (2) bekezdés e)–f), illetve i)–l) pontjában megnevezett orvost a feladatkörébe tartozó egészségügyi tevékenység végzésére foglalkoztatja, és nincs az adott feladatra érvényes finanszírozási szerződése. A NEAK a foglalkozás-egészségügyi alapszolgáltatást nyújtó egészségügyi szolgáltatóval a biztosítottak foglalkozási megbetegedése és üzemi balesete miatt szükségessé vált járóbeteg-szakellátásokra történő beutalásra köti meg a szerződést.
+
+(2) Amennyiben a szolgáltató nem foglalkoztat a 2. § (2) bekezdés e)–f), illetve i)–l) pontja szerinti orvost a feladatkörébe tartozó egészségügyi tevékenység végzésére, hanem azt szerződés alapján más szolgáltatóval láttatja el, az Ebtv. 32. § (8) bekezdése szerinti szerződés az egészségügyi tevékenységet ténylegesen végző szolgáltatóval köthető meg.
+
+(3) A szerződésnek tartalmaznia kell
+
+a) a beutalásra jogosult orvos
+
+aa) azonosító adatait,
+
+ab) feladatkörét, engedélyezett szaktevékenységét,
+
+ac) által ellátandó biztosítottak körét,
+
+ad) beutalási jogosultságának megszűnésére, felfüggesztésére vonatkozó rendelkezéseket,
+
+ae) adatszolgáltatási kötelezettségét;
+
+b) a szerződés hatályát, módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszűnése esetén követendő eljárást.
+
+(4)[^399] A szerződés mellékletét képezi
+
+a) az egészségügyi tevékenység végzésére jogosító működési engedély,
+
+b) a (2) bekezdés szerinti esetben a feladat ellátására kötött szerződés,
+
+c)[^400] területi ellátási kötelezettség megállapítása esetén az azt megállapító határozat
+
+másolata.
+
+(5)[^401] A polgári nemzetbiztonsági szolgálatok szerződésére – figyelemmel a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésére – a (3) bekezdés a) pont ac) alpontját nem kell alkalmazni, valamint a (4) bekezdés a) pontja szerinti melléklet alatt az egészségügyi tevékenység végzésére jogosító működési engedély számát kell érteni.
+
+### 20/B. §[^402]
+
+Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltatóval – amennyiben az kormányrendeletben foglaltak szerint befogadásra került – a NEAK finanszírozási szerződést köt az újszülött 0–4 napos korban történő ellátására.
+
+### 21. §
+
+(1)[^403] Betegszállításra a NEAK a külön jogszabályban foglaltak szerint finanszírozási szerződést köt azzal a működési engedéllyel rendelkező szolgáltatóval, amely a külön jogszabályban meghatározottak szerint befogadásra került.
+
+(2)[^404] A mentés finanszírozására – kivéve a (3) és a (4) bekezdés szerinti feladatot – a külön jogszabályban előírt feltételek fennállása esetén a NEAK szerződést köt az Országos Mentőszolgálattal, amely a mentési feladatok ellátására szerződést köthet a mentést végző egészségügyi szolgáltatókkal.
+
+(3)[^405] A NEAK finanszírozási szerződést köt a szervátültetést végző orvos vagy munkacsoport, szerv, vérminta szállításának díjazására az Országos Vérellátó Szolgálattal a jogszabályban előírt feltételek fennállása esetén.
+
+(4)[^406] A légimentési feladatok végzésére a NEAK a Magyar Légimentő Nonprofit Kft.-vel köt finanszírozási szerződést a jogszabályban előírt feltételek fennállása esetén.
+
+### 21/A. §[^407]
+
+(1)[^408] Az Ebtv. 35. § (4) bekezdése szerinti hozzájárulást, illetve garanciát a tulajdonos a finanszírozási előlegről szóló szerződésben vállalja. Ennek mértéke nem lehet kevesebb az igényelt előleg tíz százalékánál. A finanszírozási előleg folyósítására vonatkozó kérelmet az egészségügyi szolgáltató a NEAK illetékes területi kihelyezett szervezeti egységéhez nyújtja be.
+
+(2) Az Ebtv. 35. § (4) bekezdése szerinti kritikus gazdálkodási helyzetnek minősül, ha az egészségügyi szolgáltató lejárt adósságállománya meghaladja a kérelem benyújtásának hónapját megelőző 12 hónapban finanszírozás keretében kapott összeg egy havi átlagának 50 százalékát.
+
+### 21/B. §[^409]
+
+Ha a NEAK által finanszírozott egészségügyi szolgáltató az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti közreműködőt vesz igénybe, a NEAK a közreműködővel nem köthet közvetlenül finanszírozási szerződést. A közreműködő által a biztosítottnak nyújtott szolgáltatások díjazását a NEAK által finanszírozott egészségügyi szolgáltató és a közreműködő közvetlenül számolja el egymással.
+
+### 22. §[^410]
+
+(1)[^411] Az Ebtv. 32. §-ának (1) bekezdése alapján gyógyszer, gyógyászati segédeszköz, illetve (4) bekezdése alapján gyógyászati ellátás támogatással történő rendelésére jogosító szerződésben meg kell határozni, hogy az orvos milyen tevékenysége keretében válik jogosulttá a támogatással történő rendelésre.
+
+(1a)[^412] Az Ebtv. 32. § (1) bekezdése alapján nem köthető szerződés az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerinti mozgó egészségügyi szolgáltatás vagy változó helyszínen végzett egészségügyi szolgáltatás keretében támogatással történő gyógyászati segédeszköz rendelésre.
+
+(2)[^413] A (3) bekezdésben foglalt kivétellel az Ebtv. 32. §-ának (1) bekezdése alapján a nem finanszírozott egészségügyi szolgáltató orvosával továbbá az Ebtv. 32. § (6) bekezdése alapján a pro família rendelésre jogosult orvossal gyógyszer és gyógyászati segédeszköz általános és különleges jogcímen történő rendelésre egyaránt jogosító szerződés köthető.
+
+(3)[^414]
+
+(4)[^415] A NEAK gyógyászati ellátások közül – külön jogszabály szerinti – fürdőgyógyászati ellátások támogatással történő rendelésére jogosító szerződést köt az Ebtv. 30. §-ának (2) bekezdése szerinti szerződés alapján fürdőgyógyászati ellátás támogatással történő nyújtására jogosult szolgáltató orvosával, amennyiben a szolgáltató – külön jogszabály szerinti – komplex fürdőgyógyászati ellátás nyújtására jogosult vagy rendelkezik az ahhoz szükséges – külön jogszabályban meghatározott – feltételekkel.
+
+(5) A (4) bekezdés alapján fürdőgyógyászati ellátás rendelésére jogosult orvos, illetve az az egészségügyi szolgáltató, akivel az orvos munkavégzésre irányuló jogviszonyban áll, az ellátás rendeléséhez kapcsolódó vizsgálatért nem kérhet a betegtől térítést.
+
+(6)[^416] Ha az Ebtv. 37. § (11) bekezdése szerinti összeg a tárgyhónapban
+
+a)[^417] a 300 ezer forintot meghaladja, a NEAK fél évre felfüggeszti a szerződést,
+
+b)[^418] a 600 ezer forintot meghaladja, a NEAK egy évre felfüggeszti a szerződést,
+
+c)[^419] a 900 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 1 évig nem köthető új szerződés,
+
+d)[^420] az 1 millió 200 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 2 évig nem köthető új szerződés,
+
+e)[^421] az 1 millió 500 ezer forintot meghaladja, a NEAK a szerződést felmondja, és a felmondást követő 3 évig nem köthető új szerződés.
+
+(6a)[^422] A (6) bekezdésben említett tárgyhónap alatt az elrendelt ellenőrzési időszak kezdő időpontját követő 4 heti elszámolás időszaka értendő.
+
+(7)[^423] A (6) bekezdés szerinti összeghatárokat és a hozzájuk kapcsolódó jogkövetkezményt a gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás támogatással történő rendelésére való jogosultság tekintetében külön-külön kell alkalmazni.
+
+(8)[^424]
+
+(9)[^425]
+
+(10)[^426]
+
+(11)[^427] Az Ebtv. 32. §-ának (1) bekezdése szerinti szerződés mellékletét képezi
+
+a)[^428] az a külön jogszabály szerinti működési engedély másolata, ami alapján a nem finanszírozott egészségügyi szolgáltató orvosa a gyógyszer, gyógyászati segédeszköz rendelésére való jogosultságát gyakorolja, továbbá
+
+b) a nem finanszírozott egészségügyi szolgáltató orvosának nyilatkozata arról, hogy az a) pont szerinti tevékenységet hol fejti ki.
+
+c)[^429] az orvos nyilatkozata, mely szerint
+
+ca) nem áll gyógyszer vagy gyógyászati segédeszköz gyártóval, forgalmazóval, nagykereskedővel, gyógyszer vagy gyógyászati segédeszköz ismertető tevékenység végzésére irányuló jogviszonyban,
+
+cb) nem rendelkezik gyógyszer vagy gyógyászati segédeszköz gyártó, forgalmazó, nagykereskedő vagy gyógyszertárat, illetve gyógyászati segédeszköz szaküzletet működtető gazdasági társaságban ötven százalékot meghaladó tulajdoni hányaddal, és
+
+cc) gyógyszer vagy gyógyászati segédeszköz gyártó, forgalmazó, nagykereskedő vagy gyógyszertárat, gyógyászati segédeszköz szaküzletet működtető gazdasági társaságnak nem vezető tisztviselője.
+
+(11a)[^430] Ha a (11) bekezdés a) pontjában szereplő működési engedély adattartalma nem felel meg a működési engedélyekről vezetett közhiteles nyilvántartásban foglaltaknak, a NEAK a szerződéskötést felfüggeszti, és a hiba javítására a szerződést kezdeményező személyt felhívja. A hiba javításáig a szerződés nem köthető meg.
+
+(12)[^431] A (11) bekezdésben foglaltak változásáról a változást követő 8 napon belül a nem finanszírozott egészségügyi szolgáltató orvosa tájékoztatja a NEAK-ot.
+
+(12a)[^432] Ha a (11) bekezdés c) pontja szerinti orvosi nyilatkozat tartalmában bekövetkező változás bejelentését az orvos – a változás bekövetkeztétől számított 8 napon belül írásban – elmulasztja a NEAK felé, a NEAK a szerződést felmondja, és az orvossal a felmondás hatályosulását követő 1 évig nem köthető új szerződés.
+
+(13)[^433] A Tbj. szerinti külföldi biztosított részére támogatással történő gyógyszer, gyógyászati segédeszköz, illetve gyógyászati ellátás rendelése esetén az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződéssel rendelkező orvos köteles öt évig megőrizni az érintett személynek az egészségügyi szolgáltatás igénybevételére vonatkozó jogosultságát igazoló dokumentum másolati példányát.
+
+### 22/A. §[^434]
+
+(1) A gyógyszer és gyógyászati segédeszköz támogatással történő rendelésre való jogosultság tekintetében – az E. Alap terhére társadalombiztosítási finanszírozásra jogosultakon kívül – nem finanszírozott egészségügyi szolgáltató orvosának minősül a külön jogszabály által előírt feladatkörében egészségügyi szolgáltatást nyújtó, központi költségvetésből normatív hozzájárulásban részesülő külön jogszabály szerinti bentlakásos szociális intézményben foglalkoztatott orvos, amennyiben gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosító érvényes szerződéssel rendelkezik.
+
+(1a)[^435] Az (1) bekezdés szerinti orvos – a személyes gondoskodást nyújtó bentlakásos szociális intézmény kötelező egészségügyi feladatának ellátása során – a gyógyszerek és gyógyászati segédeszközök felírása vonatkozásában a háziorvosok jogszabályban meghatározott jogosultságával járhat el.
+
+(2)[^436] Az (1) bekezdésben meghatározott intézményeknek tájékoztatniuk kell az a NEAK-ot azon orvosok köréről és azonosító adatairól, akiket a jogszabályban előírt egészségügyi feladataik ellátása céljából foglalkoztatnak és az Ebtv. 32. §-ának (1) bekezdése szerinti érvényes szerződés alapján gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosultak.
+
+(3)[^437] A (2) bekezdés szerinti adatok változásáról a külön jogszabály szerinti bentlakásos szociális intézménynek a változást követő 10. napig tájékoztatni kell a NEAK-ot.
+
+### 22/B. §[^438]
+
+(1) Az Ebtv. 35. § (1) bekezdésében előírt elkülönítési kötelezettségnek az egészségügyi szolgáltató a pénzügyileg teljesült bevételeinek és kiadásainak nyilvántartásában egyaránt köteles eleget tenni.
+
+(2)[^439] Az Ebtv. 36. § (3) bekezdésében foglalt ellenőrzési feladatok ellátása során az egészségbiztosító pénzforgalmi szemléletben vizsgálja az Ebtv. 35. § (1) és (2) bekezdésében előírtak teljesítését.
+
+(3)[^440] A (2) bekezdés szerinti pénzügyi ellenőrzés során a háziorvosi, házi gyermekorvosi és alapellátást nyújtó fogorvosi vállalkozásoknál figyelembe vehető bevételeket és kiadásokat az 1. melléklet tartalmazza.
+
+### 23. §
+
+(1)[^441]
+
+(2)[^442] Az Ebtv. 38. § (4) bekezdése szerinti összeg
+
+a) a kiszolgáltatott gyógyszer és a forgalmazott gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás – utolsó elszámolt hat havi forgalom alapján számított – havi átlagának 10 százaléka, de legfeljebb 1 000 000 Ft,
+
+b) a nyújtott gyógyászati ellátás után folyósított társadalombiztosítási támogatás – utolsó elszámolt hat havi forgalom alapján számított – havi átlagának 10 százaléka, de legfeljebb 400 000 Ft.
+
+(3)[^443] Az Ebtv. 38. §-ának (5) bekezdése szerinti összeg a gyártó által egyedi méretvétel alapján rendelésre készített gyógyászati segédeszköz után folyósított társadalombiztosítási támogatás – utolsó elszámolt hathavi forgalom alapján számított – havi átlagának 10 százaléka, de legfeljebb 400 000 Ft.
+
+### 24. §[^444]
+
+Gyógyászati segédeszközök árához nyújtott támogatással történő forgalmazására, javítására, kölcsönzésére a NEAK azzal a gyógyászati segédeszköz-forgalmazóval (gyártóval) köt szerződést, aki
+
+a)[^445] az általa forgalmazott gyógyászati segédeszköz tekintetében megfelel az orvostechnikai eszközökről szóló miniszteri rendeletben meghatározott előírásoknak, valamint egyedi méretvétel alapján készített gyógyászati segédeszköz vonatkozásában igazolja a gyártás megfelelőségét
+
+aa) az e területre kijelölt, az orvostechnikai eszközt gyártók minőségirányítási rendszerét tanúsító szervezet eljárásának lefolytatását, érvényben tartását igazoló minőségirányítási rendszer tanúsítvánnyal, vagy
+
+ab)[^446] a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló miniszteri rendeletnek az egyedi méretvétel alapján készült gyógyászati segédeszközök gyártására és kiszolgálására vonatkozó követelményekről szóló mellékletében meghatározott követelmények teljesítését igazoló, az NNGYK által a gyártó vonatkozásában kiadott határozattal,
+
+b)[^447] megfelel a külön jogszabályban foglalt feltételeknek, amennyiben jogszabály az adott gyógyászati segédeszköz(ök) forgalmazását, javítását, kölcsönzését meghatározott személyi vagy tárgyi feltételek meglétéhez köti, és
+
+c)[^448] a szerződéskötést megelőző két éven belül nem volt olyan egyéni vállalkozó, illetve olyan gazdasági társaság tulajdonosa, vezető tisztségviselője, tagja, akinek a szerződése az Ebtv. 38. §-ának (4) bekezdésében foglaltak miatt szűnt meg.
+
+### 25. §[^449]
+
+(1)[^450] Az Ebtv. 30. §-ának (2) bekezdése alapján a NEAK a gyógyászati ellátások közül a fürdőgyógyászati ellátások támogatással történő nyújtására annak a közfürdőnek, illetve gyógyfürdőnek a működtetőjével köthet szerződést, amelyik
+
+a) zárt területen épített és rendelkezik medencével, valamint
+
+b) rendelkezik az adott fürdőgyógyászati ellátás nyújtására jogosító, külön jogszabály szerinti működési engedéllyel, továbbá
+
+c) az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló miniszteri rendeletben meghatározott fürdőgyógyászati ellátások közül legalább négyfajta nyújtására alkalmas, és
+
+d) megfelel a külön jogszabályban foglalt egyéb feltételeknek.[^451]
+
+(2)[^452] A NEAK az (1) bekezdésben foglaltakon túl szerződést köthet a biztosítottak gyógyúszására alkalmas közfürdő működtetőjével vagy a gyógyúszás szervezésére működési engedéllyel rendelkező szervezettel, illetőleg személlyel ezen gyógyászati ellátás támogatással történő nyújtására.
+
+(3)[^453] A NEAK a társadalombiztosítási támogatással külön jogszabály szerint igénybe vehető, egyéb természetes gyógytényezőkön alapuló gyógyászati ellátások támogatással történő nyújtására a külön jogszabály szerinti engedéllyel rendelkező egészségügyi szolgáltatóval köthet szerződést.
+
+### 25/A. §[^454]
+
+(1)[^455]
+
+(2)[^456]
+
+(3)[^457] Járóbeteg-szakellátás és fogászati alapellátás esetén az elszámolási nyilatkozatot az egészségügyi szolgáltató az ellátást követően adja át a biztosítottnak.
+
+(4)[^458] Az elszámolási nyilatkozatot
+
+a) kúraszerű ellátás esetén a teljesítmény-elszámolás szempontjából egy ellátási esetnek minősülő ellátás befejezésekor,
+
+b) injekciós kúra, infúziós kúra, kötözés, gyógytorna kezelés, fizikotherápiás kezelés esetén a teljesítményelszámolás szempontjából egy ellátási esetnek minősülő ellátás befejezésekor
+
+köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.
+
+(5)[^459] Dialízis kezelés esetén az elszámolási nyilatkozatot havonta, a tárgyhónapot követő első dialízis kezeléskor a tárgyhónapban elvégzett dialízis kezelésekről, valamint a kúra befejezésekor a még el nem számolt dialízis kezelésekről köteles kiállítani és átadni az egészségügyi szolgáltató, amennyiben a biztosított azt kéri.
+
+(6)[^460] Az egészségügyi szolgáltatónak nem kell elszámolási nyilatkozatot kiállítania és átadnia a biztosított részére
+
+a) az ellátást követően a beteg közvetlen jelenlétét nem igénylő diagnosztikai vizsgálat esetén,
+
+b) mozgó szakorvosi szolgálat által végzett ellátás esetén,
+
+c) szövettani vizsgálat és citológiai vizsgálat esetén,
+
+d)[^461] iskola- és ifjúság-egészségügyi ellátás keretében nyújtott szolgáltatás esetén.
+
+(7)[^462] A fogászati alap- és szakellátás, valamint a laboratóriumi ellátás esetében, az igényelhető legmagasabb finanszírozási összeg meghatározásánál a finanszírozó által az egészségügyi szolgáltató részére megküldött utolsó teljesítmény-elszámolásnál alkalmazott fix pont-forint értéket kell figyelembe venni.
+
+(8)[^463] Az egészségügyi szolgáltató gondoskodik arról, hogy az Ebtv. 18. § (9)–(10) bekezdése szerinti lehetőségről szóló tájékoztató az ellátást igénybe vevők számára jól látható helyen kifüggesztésre kerüljön.
+
+### 25/B. §[^464]
+
+(1)[^465] Az Ebtv. 39. §-a szerinti választás esetén a választott ellátás iránti kérelmet az Ebtv. 62. § (1) bekezdése szerint illetékes szervhez, gyermekgondozási támogatás választása esetén a családok támogatásáról szóló 1998. évi LXXXIV. törvény 35. §-a szerint illetékes szervhez kell benyújtani a folyósítás alatt álló ellátás megszüntetésére vonatkozó kérelemmel együtt.
+
+(2) A korábban folyósított ellátás megszüntetésének napjáról a folyósító szerv értesíti a választott újabb ellátás megállapítására jogosult szervet. A folyósító szerv a korábban folyósított ellátás megszüntetéséről szóló határozatát megküldi a választott ellátást folyósító szervnek. A határozatnak tartalmaznia kell azt az összeget, amellyel a választott újabb ellátás visszamenőlegesen járó összegét csökkenteni kell.
+
+(3) A választott ellátást az értesítésben szereplő napot követő naptól kell folyósítani.
+
+(4) A választott újabb ellátás tekintetében visszamenőleges az az összeg, ami a biztosított, illetve a szülő által választott időponttól a korábban folyósított ellátás megszüntetésének napjáig jár az ellátásra jogosultnak.
+
+(5) A korábban folyósított ellátás megszüntetéséről szóló határozat beérkezését követő 30. napon a csökkentést teljesítettnek kell tekinteni.
+
+(6)[^466] A gyermekgondozási támogatást folyósító szerv és az egészségbiztosító külön megállapodás keretén belül elszámol a választás eredményeképpen túlfolyósított és levont összeggel.
+
+(7)[^467] A kifizetőhelyek tekintetében a Központ, illetve a kormányhivatalok gondoskodnak a gyermekgondozási támogatás és a pénzbeli ellátás közötti különbözet elszámolásáról attól függően, hogy a kifizetőhely a kifizetőhelyi elszámolását mely szervnek köteles benyújtani.
+
+(8)[^468]
+
+(9)[^469] Az Ebtv. 39. § (4) és (5) bekezdése alkalmazásában különböző korú gyermekek alatt a nem azonos várandósságból született gyermekeket kell érteni.
+
+## A csecsemőgondozási díj és a gyermekgondozási díj alapjául szolgáló jövedelem megállapításának részletes szabályai[^470]
+
+## (Az Ebtv. 42. §-ához)
+
+### 26. §[^471]
+
+Ha a csecsemőgondozási díjat, az örökbefogadói díjat, illetve az Ebtv. 42/A. § (1) bekezdése és 42/G. § (1) bekezdése alapján a gyermekgondozási díjat a Tbj. 6. § (1) bekezdés c) pontjában meghatározott biztosított részére állapítják meg, az ellátás összegét a jogosultság kezdő napján érvényes minimálbér alapján kell kiszámítani, azonban az ellátás naptári napi alapja nem haladhatja meg az álláskeresési támogatás alapját képező összeg harmincad részét.
+
+### 26/A. §[^472]
+
+(1)[^473] Ha az Ebtv. 42/A. §-a vagy 42/G. §-a szerinti gyermekgondozási díjra jogosult személy kérelmének elbírálása során megállapításra kerül, hogy ugyanazon gyermek jogán csecsemőgondozási díjat senki nem vett igénybe, a gyermekgondozási díjra való jogosultság megállapításánál a csecsemőgondozási díjnak megfelelő időtartam kezdő napjaként a gyermek születésének napját kell figyelembe venni.
+
+(2)[^474] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti csecsemőgondozási díjat a Kincstár honlapján erre rendszeresített, a (2a) bekezdés szerinti adattartalmú nyomtatvány bemutatásával együtt lehet igényelni.
+
+(2a)[^475] Az Ebtv. 40. § (4) bekezdés c) és e) pontja szerinti csecsemőgondozási díj igénybevételéhez szükséges nyomtatvány az alábbi adatokat tartalmazza:
+
+a) a nyomtatványt kiállító egészségügyi szolgáltató neve, címe, bélyegző lenyomata;
+
+b)[^476] az egészségügyi szolgáltató NEAK kódja;
+
+c) a vér szerinti anya vagy az örökbefogadó anya neve, lakcíme, születési ideje, TAJ-a;
+
+d) az egészségügyi szolgáltatóhoz való felvétel időpontja, a távozás időpontja;
+
+e) az egészségügyi szolgáltató nyilatkozata arról, hogy az ellátás a nyomtatvány kiállításakor fennáll-e;
+
+f) az ellátás BNO kódja;
+
+g) a vér szerinti apa vagy az örökbefogadó apa neve, TAJ-a;
+
+h)[^477] az egészségügyi szolgáltató nyilatkozata arról, hogy a nyomtatvány a g) pontban meghatározott személy részére csecsemőgondozási díj igénybevétele céljából kerül kiállításra;
+
+i) a nyomtatvány kiállításának dátuma;
+
+j) az orvos aláírása, bélyegzőjének lenyomata.
+
+(3)[^478] A gyermekgondozási díjra – ha jogszabály eltérően nem rendelkezik – a táppénzre vonatkozó rendelkezéseket megfelelően alkalmazni kell.
+
+### 26/B. §[^479]
+
+A gyermekgondozási díj legmagasabb naptári napi összegét az Ebtv. 42/D. § (1) bekezdésében, illetve 42/E. § (5) és (6) bekezdésében meghatározott összeg harmincad részében kell megállapítani.
+
+### 26/D. §[^481]
+
+(1)[^482] Az Ebtv. 42/E. § (1) bekezdés a) pont ab) alpontjában meghatározott két aktív félév megállapításához a gyermek születését megelőző két éven belüli aktív félévekben összesen 260 naptári napi hallgatói jogviszonnyal kell rendelkezni.
+
+(2)[^483] Az Ebtv. 42/E. § (1) bekezdés a) pont ab) alpontjának alkalmazásában államilag elismert felsőoktatási intézmény alatt az Nftv. 1. mellékletében felsorolt intézményeket kell érteni.
+
+(3) Az Ebtv. 42/E. § (5) bekezdésének alkalmazása során azt a képzést kell figyelembe venni, amelyben az igénybevevő az Ebtv. 42/E. §-a szerinti gyermekgondozási díjra való jogosultság kezdő napján részt vesz. A hallgatói jogviszony szünetelését, illetve megszűnését követően igényelt – az Ebtv. 42/E. §-a szerinti – gyermekgondozási díj esetén azt a képzést kell figyelembe venni, amelyben az igénybevevő az Ebtv. 42/E. §-a szerinti gyermekgondozási díjra való jogosultság kezdő napját közvetlenül megelőzően részt vett.
+
+## Táppénzre való jogosultság
+
+## (Az Ebtv. 44–48. §-ához)
+
+### 27. §
+
+(1)[^484] A gyermekápolási táppénz iránti kérelem elbírálása tekintetében egyedülállónak minősül
+
+a) az, aki hajadon, nőtlen, özvegy,
+
+b) elvált szülők esetében az a szülő, aki a közös gyermek tekintetében egyedül gyakorolja a szülői felügyeleti jogot,
+
+c) a házasság felbontása nélkül a házastársától külön élő azon szülő, akinél a gyermek életvitelszerűen tartózkodik,
+
+kivéve, ha élettársa van.
+
+(1a)[^485] Közös szülői felügyeleti jogot gyakorló elvált szülők egybehangzó nyilatkozata alapján az Ebtv. 46. § (1) bekezdés c)–e) pontja alkalmazása szempontjából – a közös gyermeküknek a válást követő születésnapjától – a nyilatkozatuk szerinti szülőt kell egyedülállónak tekinteni.
+
+(2) Az egyedülállóság szempontjából különélőnek kell tekinteni azt is, aki házastársával ugyanabban a lakásban lakik, ha a házasság felbontása iránt bírói eljárás van folyamatban.
+
+(3) Egyedülállónak kell tekinteni továbbá,
+
+a)[^486]
+
+b) azokat a házastársakat, akik a vakok személyi járadékában részesülnek, vagy arra egyébként jogosultak,
+
+c)[^487] akinek a házastársa
+
+ca) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
+
+cb) az Mmtv. 31. §-ának alkalmazásával öregségi nyugdíjban részesül és 2011. december 31-én I. vagy II. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
+
+cc) az Mmtv. szerinti rokkantsági ellátásban részesül és az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján nem haladja meg a 30%-os mértéket,
+
+cd) az Mmtv. 30. § (2) bekezdése alkalmazásával a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény, illetve a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 2012. január 1-jét megelőzően hatályos szabályai, vagy a fegyveres erők és a fegyveres testületek hivatásos állományának szolgálati viszonyáról szóló 1971. évi 10. törvényerejű rendelet alapján megállapított I. vagy II. csoportos rokkantsági, baleseti rokkantsági nyugdíjban 2011. december 31-én részesülő személy, aki a szolgálati járandóság megállapítását kérte, amennyiben megfelelt a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 9. § b) pontjában meghatározott feltételeknek, vagy
+
+ce) előzetes letartóztatásban van, szabadságvesztés büntetését tölti.
+
+(4) A (3) bekezdés rendelkezéseit megfelelően alkalmazni kell az élettársakra is.
+
+### 27/A. §[^488]
+
+(1)[^489] A fennálló biztosításban töltött napokkal össze kell számítani az ellátásra való jogosultságot megelőzően megszűnt, vagy az ellátásra való jogosultság kezdő napján szünetelő biztosítási jogviszonyból származó biztosításban töltött napok közül azokat, amelyek megelőzik az ellátásra való jogosultság első napján fennálló biztosítási jogviszony kezdő napját és
+
+a) csecsemőgondozási díj esetében a gyermek születésének a napját,
+
+b) az Ebtv. 42/A. §-a vagy 42/G. §-a szerinti gyermekgondozási díj esetében a gyermek születésének a napját,
+
+c) az Ebtv. 42/F. §-a szerinti gyermekgondozási díj esetében azt a napot, amelytől a gyermek gondozási helyét a nevelőszülőnél jelölték ki,
+
+d) örökbefogadói díj esetében azt a napot, amelytől az igénylő a gyermeket örökbefogadási szándékkal nevelésbe vette.
+
+(1a)[^490] A fennálló biztosítási jogviszonyhoz abban az esetben is hozzá kell számítani a megszűnt biztosítási jogviszony azon időtartamát, amely alatt a fennálló jogviszonyban a biztosítás szünetelt, ha a megszűnt biztosítási jogviszony nem az ellátásra való jogosultság első napján fennálló biztosítási jogviszony kezdő napját megelőzően szűnt meg.
+
+(1b)[^491] Az Ebtv. 42/F. §-a szerinti gyermekgondozási díj esetében az (1) bekezdés c) pontjában foglaltakon túl a nevelőszülői foglalkoztatási jogviszonyban töltött napokkal össze kell számítani az ellátásra való jogosultság kezdő napján fennálló más jogviszonyból származó biztosításban töltött napok közül azokat, amelyek megelőzik azt a napot, amelytől a gyermek gondozási helyét a nevelőszülőnél jelölték ki.
+
+(2) Az összeszámított biztosítási jogviszony időtartamát ahhoz a fennálló jogviszonyhoz kell hozzászámítani, amelyiknél a biztosított az ellátást kéri.
+
+(3)[^492] Ha a biztosított több egyidejűleg fennálló jogviszonyából kéri az ellátást, a kérelemmel érintett valamennyi fennálló biztosítási jogviszonyhoz külön-külön hozzá kell számítani a megszűnt, vagy szünetelő biztosítási jogviszonynak az (1) bekezdés szerint összeszámítható napjait.
+
+### 27/B. §[^493]
+
+(1) Az Ebtv. 39/A. § (1a) bekezdésének alkalmazása során a megszűnt biztosítási jogviszonyban az adóelőleg megállapításához bevallott azon jövedelmet kell figyelembe venni, amelyet az adott ellátás megállapítására irányadó számítási időszakra vallottak be.
+
+(2) Ha az irányadó időszakban a biztosított több megszűnt biztosítási jogviszonnyal is rendelkezett, az Ebtv. 39/A. § (1a) bekezdésének alkalmazása során valamennyi megszűnt biztosítási jogviszonyban azt az adóelőleg megállapításához bevallott jövedelmet kell figyelembe venni, amelyet az adott ellátás megállapítására irányadó számítási időszakra vallottak be.
+
+### 28. §
+
+(1)[^494] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapjától kezdődően táppénzt folyósítottak.
+
+(1a)[^495]
+
+(2) A biztosítás megszakítás nélkül akkor áll fenn, ha abban a szabadnap, a heti pihenőnap és a munkaszüneti nap kivételével egy nap megszakítás sincs.
+
+(3)[^496] Ha az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás időtartama egy évnél rövidebb, a táppénzre való jogosultság időtartamának a megállapításánál előzményként csak az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás ideje alatti táppénzfolyósítás időtartamát lehet figyelembe venni.
+
+(4)[^497] A biztosítási jogviszony kezdő napjánál korábban kezdődő keresőképtelenség esetén a keresőképtelenség első napjának a biztosítási jogviszony kezdő napját kell tekinteni.
+
+(5)[^498] A fennálló biztosítási jogviszony kezdőnapjának a pénzbeli ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napja minősül. Az Ebtv. 39/A. § (1) bekezdésének, 42. § (4b) bekezdésének, 42/D. § (6) bekezdésének és 48. § (8) bekezdésének alkalmazásánál a fennálló biztosítási jogviszony kezdő napja nem változik, ha az ellátásra jogosult a biztosítási jogviszony megszűnését követő harminc napon belül ugyanannál a foglalkoztatónál, ugyanolyan vagy jogszabály szerint átalakult jogviszony alapján ismét biztosítottá válik. Törvény szerinti jogutódlás esetén a biztosítási jogviszony kezdő napja megegyezik a jogelődnél létesített biztosítási jogviszony kezdő napjával.
+
+(6)[^499] Az (5) bekezdés tekintetében nem érinti a fennálló biztosítási jogviszony kezdőnapját a jogviszonynak a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 47. §-a és 47/A. §-a alapján történő átalakulása.
+
+### 29. §
+
+(1)[^500]
+
+(2)[^501]
+
+(3)[^502]
+
+### 30. §[^503]
+
+Az Ebtv. 47. § (3) bekezdése szerinti esetben a táppénzfolyósítás megszüntetéséről a táppénz megállapítására jogosult szerv intézkedik a szakértő főorvosnak, valamint a felülvéleményező főorvosnak a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló kormányrendelet szerinti vizsgálatot követő javaslatára.
+
+### 31. §[^504]
+
+(1)[^505] A pénzbeli ellátás, valamint a baleseti táppénz összegének megállapításakor a jövedelemadó előleg megállapításához bevallott társadalombiztosítási járulékalapot képező jövedelmet arra a hónapra, illetve időszakra kell figyelembe venni, amely hónapra, illetve időszakra a bevallás készült.
+
+(1a)[^506] Az (1) bekezdéstől eltérően a Tbj. 6. § (1) bekezdés f) pontja szerinti biztosított pénzbeli ellátás, valamint baleseti táppénz iránti kérelmének elbírálása során a társadalombiztosítási járulékalapot képező jövedelmet arra az időszakra kell figyelembe venni, amely időszakra tekintettel az kifizetésre került.
+
+(2)[^507] A naptári napi alap megállapításánál a számítási időszakra bevallott társadalombiztosítási járulékalapot képező jövedelmet el kell osztani a számítási időszak naptári napjainak a számával.
+
+(3)[^508] Tényleges jövedelem hiányában a táppénzre való jogosultság kezdő napján érvényes szerződés szerinti jövedelem harmincad részében kell megállapítani a táppénz alapját.
+
+(3a)[^509]
+
+(4)[^510] Ha az Ebtv. 48. § (4) bekezdése alkalmazása során a jogosultság kezdő napján érvényes minimálbér alapulvételére kerül sor, a táppénz naptári napi alapját a minimálbér harmincad részében kell megállapítani.
+
+(5)[^511] Ha az Ebtv. 5/C. § (1) bekezdés b) pont ba) alpontjában meghatározott szerződés szerinti havi jövedelemre vonatkozó adatot a foglalkoztató nem közli, és ezen adat a tényállás tisztázása során sem szerezhető be, szerződés szerinti jövedelemnek az ellátásra való jogosultság kezdő napján érvényes minimálbért, illetve – ha a munkaidő mértéke ismert – annak arányos részét kell tekinteni, kivéve, ha a munkaszerződésben meghatározott alapbér ennél kevesebb. Ez utóbbi esetben szerződés szerinti jövedelemnek a munkaszerződésben meghatározott alapbért kell tekinteni.
+
+(6)[^512] Ha a biztosított részére korábbi egészségbiztosítási pénzbeli ellátás vagy baleseti táppénz folyósításának ideje alatt – keresőtevékenység végzése nélkül – társadalombiztosítási járulékalapot képező jövedelem került kifizetésre, a jövedelmet – a számítási időszak naptári napjai számának növelése nélkül – a számítási időszakra bevallott társadalombiztosítási járulékalapot képező jövedelemhez hozzá kell számítani.
+
+(7)[^513] Az Ebtv. 56. § (2) bekezdése alkalmazása során a baleseti táppénz naptári napi összegét a szociális vetítési alap összege százötven százalékának harmincad részében kell megállapítani.
+
+(8)[^514] Ha a biztosított részére valamely nap vonatkozásában olyan módon kerül sor táppénz vagy baleseti táppénz megállapítására, hogy ugyanezen a napon társadalombiztosítási járulékalapot képező jövedelemmel is rendelkezik, és egy későbbi pénzbeli egészségbiztosítási ellátás vagy baleseti táppénz iránti kérelem elbírálása során ezen nap a számítási időszakba esik, ezt a napot osztószámként figyelembe venni nem lehet.
+
+(9)[^515]
+
+(10)[^516] Az elmebetegek adaptációs szabadsága idejére – esetenként legfeljebb 60 napra – vonatkozó keresőképtelenséget a kórház igazolja. Az adaptációs szabadság idejére járó táppénz mértékét az általános szabályok szerint – és nem a fekvőbeteg-gyógyintézeti ellátásra előírtak szerint – kell megállapítani.
+
+(11)[^517] A biztosítási jogviszony megszűnését követően megállapított ellátások esetében szerződés szerinti jövedelemként a megszűnt biztosítási jogviszony alapjául szolgáló szerződés szerinti jövedelmet kell figyelembe venni.
+
+## Méltányosságból engedélyezhető pénzbeli ellátások[^518]
+
+### 31/A. §[^519]
+
+Az Ebtv. 50. § (1) bekezdése szerinti méltányossági jogkörben kizárólag a Tbj. 6. §-a szerint biztosítottnak minősülő személy részére engedélyezhető pénzbeli ellátás.
+
+### 31/B. §[^520]
+
+(1)[^521]
+
+(2)[^522] A táppénz folyósításának időtartama a méltányosságból engedélyezett ellátás folyósításának időtartamával együtt sem haladhatja meg az egy évet.
+
+(3)[^523] Nem engedélyezhető méltányosságból táppénz, ha a biztosított jogszabály alapján egyéb ellátásra szerzett jogosultságot, illetve ellátásban részesül, kivéve, ha a gyermekgondozási támogatás mellett munkavégzési kötelezettsége van, valamint ha az ápolási díj mellett munkát végző biztosított a gyermeke betegségére tekintettel igényel táppénzt.
+
+### 31/D. §[^525]
+
+(1)[^526] A biztosítottnak a méltányosságból engedélyezhető pénzbeli ellátás iránti kérelmet a Központ által rendszeresített és a hivatalos honlapján közzétett nyomtatványon a foglalkoztatójánál kell előterjeszteni. A kérelemhez csatolni kell – az Ebtv. 50. § (3) bekezdésében foglalt, méltányosságból megállapítható gyermekápolási táppénzt kivéve – a kifizetőhely vagy a kormányhivatal azon végleges döntését, hogy a kérelmező az ellátásra nem jogosult, továbbá a táppénz folyósítására vonatkozó kérelemhez az orvosi igazolást, javaslatot, orvosi szakvéleményt a keresőképtelenség várható időtartamáról. A foglalkoztató – akkor is, ha kifizetőhelyet működtet – a biztosított méltányossági kérelmét annak kézhezvételétől számított 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően továbbítja a székhelye szerint illetékes kormányhivatalhoz.
+
+(2)[^527] Az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti biztosított a méltányosságból engedélyezhető pénzbeli ellátás iránti kérelmét az (1) bekezdésben foglaltak szerint – ide nem értve a foglalkoztatónál történő előterjesztést – nyújthatja be.
+
+(3)[^528] Az (1) bekezdés szerinti kérelem elbírálása tárgyában hozott döntést a kormányhivatal közli a biztosított foglalkoztatójával is.
+
+(4) A méltányossági kérelmek elbírálásánál figyelemmel kell lenni a biztosított
+
+a) biztosításban töltött idejére,
+
+b) 30 napnál hosszabb megszakítást megelőző biztosítási idejének tartamára,
+
+c) jövedelmi viszonyára és egyéb méltánylást érdemlő körülményeire.
+
+(5)[^529] A táppénz időtartamának meghosszabbítása iránti kérelem kizárólag a 2. § és a 3. § alapján beutalásra jogosult orvos által kiadott igazolásban foglaltak figyelembevételével engedélyezhető.
+
+(6) A táppénzt méltányosságból legkorábban – a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása vagy kórházi tartózkodása címén méltányosságból megállapítható táppénz esetét kivéve – az igényjogosultság megszűnését követő naptól lehet megállapítani.
+
+### 31/E. §[^530]
+
+(1)[^531] A Központ gondoskodik az E. Alap költségvetésében meghatározott méltányosságból adható pénzbeli ellátások keretösszegének kormányhivatalok közötti felosztásáról, továbbá figyelemmel kíséri a keretösszeg felhasználását. A kormányhivatal a Központ által méltányosságból adható pénzbeli ellátások megállapítására meghatározott éves keretösszeget nem lépheti túl, a méltányosságból megállapított pénzbeli ellátásokról minden naptári negyedévet követő hónap 10-éig köteles a Központ részére beszámolót készíteni annak érdekében, hogy a Központ a keretösszeg felhasználását figyelemmel kísérje.
+
+(2)[^532] Az Ebtv. 50. § (1) bekezdése alapján méltányosságból engedélyezett táppénz folyósításának időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
+
+## Méltányosságból engedélyezhető egyszeri segély[^533]
+
+### 31/F. §[^534]
+
+(1)[^535] A kormányhivatal a biztosított kérelemében előadott összes körülményre tekintettel dönt a segélyben részesítésről és a segély összegéről. Ennek keretében mérlegelni kell a biztosított
+
+a) egészségi állapotában bekövetkezett kedvezőtlen változást, illetve egészségkárosodást,
+
+b) jövedelmi helyzetét, életkörülményeit,
+
+c) egészségügyi szolgáltatás igénybevételével kapcsolatban felmerült utazási költségét,
+
+d)[^536] Ebtv. 50. § (1) és (2) bekezdése alapján méltányosságból megállapítható táppénz, csecsemőgondozási díj, gyermekgondozási díj iránti kérelmének elutasítását.
+
+(2)[^537] A biztosított a segély megállapításának időpontjától számított egy éven belül ismételten abban az esetben részesíthető segélyben, amennyiben az egészségi állapotával összefüggésben különös méltánylást érdemlő körülmény következett be.
+
+### 31/G. §[^538]
+
+(1)[^539] A kormányhivatal a Központ által rendelkezésére bocsátott éves keretösszeg erejéig a biztosítottat segélyben részesítheti.
+
+(2)[^540] A Központ gondoskodik az E. Alap költségvetésében meghatározott egyszeri segély keretösszegének kormányhivatalok közötti felosztásáról, továbbá figyelemmel kíséri a keretösszeg felhasználását. A kormányhivatal a Központ által meghatározott éves egyszeri segély keretösszeget nem lépheti túl, a segélykeret felhasználásáról köteles minden naptári negyedévet követő hónap 10-éig az a Központ részére beszámolót készíteni annak érdekében, hogy a Központ a keretösszeg felhasználását figyelemmel kísérje.
+
+(3)[^541] A biztosított a 31/F. § szerinti segély iránti kérelmet a lakóhelye szerint illetékes kormányhivatalnál vagy a kormányablaknál nyújthatja be. A kérelemnek tartalmaznia kell a biztosított TAJ-át. A kérelemhez csatolni kell a biztosított egészségi állapotára, kezelésére vonatkozó és a kérelemmel összefüggő egészségügyi dokumentációt, továbbá a biztosított nyilatkozatát a saját és a vele közös háztartásban élők által – a kérelem benyújtását megelőző három hónapban – megszerzett jövedelemről.
+
+## Baleseti ellátásra való jogosultság
+
+## (Az Ebtv. 52–56. §-ához)
+
+### 32. §
+
+(1)[^542] A Tbj. 21. §-a szerinti baleseti egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít:
+
+a)[^543] köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény tanulójának, képzésben részt vevő személyének, illetve hallgatójának az a balesete, amelyet a nevelés-oktatás, a szakképzés vagy a felsőfokú képzés közben, vagy ezzel összefüggésben szenvedett el;
+
+b) szocioterápiás intézetben gyógykezelt elmebetegnél, illetőleg szenvedélybetegnél a szocioterápiás foglalkoztatás közben vagy azzal összefüggésben elszenvedett baleset;
+
+c) őrizetbe vett, előzetesen letartóztatott elzárásra utalt illetőleg szabadságvesztés büntetést töltő személy esetén a fogvatartás ideje alatt végzett munka közben, vagy azzal összefüggésben, valamint a fogvatartást foganatosító szerv közege által adott utasítás teljesítése közben, vagy azzal összefüggésben elszenvedett baleset;
+
+d) a közcélú, illetőleg közérdekű munkát végző személynek az a balesete, amelyet a közcélú, illetőleg közérdekű munka végzése során vagy azzal összefüggésben szenvedett el.
+
+(2)[^544] Az (1) bekezdés d) pontja alkalmazásában közcélú munka a Tbj. 21. § d) pontjában foglaltakon túl az állami szerv vagy önkormányzat, illetőleg a munkáltató által kezdeményezett, irányított vagy jóváhagyott társadalmi munka.
+
+(2a)[^545] Egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdésében említett foglalkoztatás keretében végzett munka közben elszenvedett baleset.
+
+(3)[^546] Az Ebtv. 53. § (1) bekezdés a) pontjának alkalmazásában az alkohol vagy kábítószer általi befolyásoltság akkor tekinthető igazoltnak, ha a baleset kivizsgálásában, illetve a sérült ellátásában résztvevő, az alkohol vagy kábítószer általi befolyásoltság vizsgálatára feljogosított szervnek a vizsgáló egyedi mérlegelése által nem befolyásolható módszerrel végrehajtott mérése ezt alátámasztotta.
+
+### 33. §
+
+(1)[^547] A baleseti táppénzre jogosultság időtartamának megállapításánál figyelembe kell venni a baleseti táppénzre jogosultság első napját közvetlenül megelőző egy éven belül a baleseti táppénz folyósításának időtartamát, függetlenül attól, hogy a baleseti táppénz folyósítása egy éven át vagy meghosszabbított időtartamra történt.
+
+(2)[^548]
+
+(3)[^549]
+
+(4)[^550]
+
+(5)[^551]
+
+## Baleseti járadékra való jog állapotváltozás, illetőleg újabb üzemi baleset esetén
+
+## (Az Ebtv. 57–60. §-ához)
+
+### 36. §
+
+(1) Újabb üzemi baleset esetén valamennyi baleset következményét együttesen kell figyelembe venni, és a baleseti járadékot akkor kell újból megállapítani, ha a sérült az újabb baleset következtében magasabb baleseti fokozatba kerül.
+
+(2)[^554] Az (1) bekezdésben megjelölt esetben a baleseti járadékot a korábbi és az újabb üzemi balesetre irányadó átlagkeresetek közül a kedvezőbb alapján kell megállapítani.
+
+(3)[^555]
+
+### 36/A. §[^556]
+
+(1)[^557] Az Ebtv. 60. § (1) bekezdésének végrehajtása során a baleseti járadéknak az állapotváltozás időpontja szerinti összegét az Ebtv. 58. § (2) bekezdésben meghatározott fokozatok eltérésének arányában kell emelni, illetőleg csökkenteni. Az állapotváltozásnak megfelelő arányt úgy kell meghatározni, hogy az állapotváltozás szerinti fokozatnak megfelelő mértéket el kell osztani az állapotváltozás előtti fokozat szerinti mértékkel. Az állapotváltozásnak megfelelő baleseti járadék módosított összegét a kiszámított arányszám és az állapotváltozás időpontja szerinti baleseti járadék összegének szorzásával kell megállapítani.
+
+(2) A baleseti járadékra jogosultságnak az Ebtv. 60. § (3) bekezdése szerinti feléledése (újbóli megállapítása) esetén a korábban megállapított baleseti járadék megszűnésének időpontjától esedékes emelésekkel, kiegészítésekkel növelten kell az összeget meghatározni.
+
+### 36/B. §[^558]
+
+Ha a kérelmező nem rendelkezik az Ebtv. 59. § (2) bekezdésében meghatározott egy évi (365 napi) keresettel, a baleseti járadék a rövidebb időre vonatkozó keresetek havi átlaga alapján is megállapítható. Ha azonban a kérelmezőnek az Ebtv. 59. § (1)–(3) bekezdése szerinti időszakokra vonatkozóan egyáltalán nincs figyelembe vehető keresete, a baleseti járadékot a megállapítás kezdő napját megelőző hónapban érvényes – külön jogszabályban meghatározott – minimális bér alapulvételével kell megállapítani.
+
+## Az igény érvényesítése
+
+## (Az Ebtv. 61–65. §-ához)
+
+### 38. §[^561]
+
+(1)[^562] A foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához kiállítja a Központ által erre a célra rendszeresített, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti személyre szabott ügyintézési felületen közzétett elektronikus űrlapot, ha
+
+a) a foglalkoztatónál kifizetőhely nem működik, vagy
+
+b) ha a kérelem benyújtásakor vagy a kérelem elbírálásakor a biztosítottnak a kifizetőhellyel rendelkező foglalkoztatónál fennálló biztosítási jogviszonya megszűnt, ide nem értve a táppénznek és a baleseti táppénznek a biztosítási jogviszony megszűnéséig történő folyósítását, ha ezen ellátásokra való jogosultság elbírálása – naptári napi alap megállapítása – már korábban, a biztosítási jogviszony fennállása alatt megtörtént.
+
+(1a)[^563] A foglalkoztató a kitöltött (1) bekezdés szerinti elektronikus űrlapot a biztosított által benyújtott igazolásokkal, továbbá a táppénz és a baleseti táppénz kivételével a Központ által a kérelem benyújtására a Személyre Szabott Ügyintézési Felületen közzétett – a biztosított által kitöltött és aláírt – nyomtatvánnyal együtt a nyomtatvány foglalkoztatóhoz történő beérkezését követő 5 napon belül, az Ebtv. 61. § (5) bekezdésében foglaltaknak megfelelően megküldi a székhelye szerint illetékes kormányhivatalnak. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+
+(1b)[^564] Ha a foglalkoztatónál kifizetőhely működik, és a kérelem benyújtásakor a biztosítottnak az adott foglalkoztatónál fennálló biztosítási jogviszonya van, a (2) bekezdéstől eltérően az (1) és (1a) bekezdésben foglaltakat kell alkalmazni az Ebtv. 63. §-ában foglaltak tekintetében, ha a biztosított
+
+a) egyidejűleg fennálló több biztosítási jogviszonnyal rendelkezik, és a kifizetőhelyet működtető foglalkoztatónál fennálló biztosítási jogviszonyára tekintettel gyermekgondozási díjat, örökbefogadói díjat igényel, vagy
+
+b) az Ebtv. 42/G. § (1) bekezdése szerinti gyermekgondozási díj iránti kérelmet nyújt be.
+
+(2)[^565] A kifizetőhellyel rendelkező foglalkoztató a pénzbeli egészségbiztosítási ellátásra és a baleseti táppénzre vonatkozó kérelem elbírálásához – az (1) bekezdés b) pontjában és az (1b) bekezdésben foglaltak kivételével – a biztosított által benyújtott igazolásokat 5 napon belül a kifizetőhely részére megküldi. A foglalkoztató a kérelem, illetve az igazolások átvételét, beérkezését hitelt érdemlő módon köteles igazolni.
+
+(3)[^566] Az egyéni vállalkozó, a mezőgazdasági őstermelő és a Tbj. 87. § (3) bekezdése szerinti biztosított az (1) bekezdés megfelelő alkalmazásával nyújthatja be a pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmét.
+
+(4)[^567] Ha a kifizetőhelynek az egészségbiztosítási pénzbeli ellátás vagy a baleseti táppénz iránti kérelem elbírálása során, a tényállás tisztázása keretében korábban más kifizetőhely vagy az egészségbiztosító által folyósított egészségbiztosítási pénzbeli ellátásra vagy baleseti táppénzre vonatkozó adatokat kell beszereznie, és az Ebtv. 79/C. §-a alapján üzemeltetett elektronikus felületre történő bekérdezés eredménye sem elegendő a kérelem elbírálásához, akkor a kifizetőhely a székhelye szerinti kormányhivatalhoz fordul megkereséssel a hiányzó adatokért. A kormányhivatal a kifizetőhely megkeresésére az Ebtv. 79/B. § (2) bekezdés 11. pontja szerinti adatszolgáltatást teljesít.
+
+(5)[^568] A jogosult halála esetén a fel nem vett ellátás felvételét az Ebtv. 61. § (10) bekezdésében meghatározott személy kérheti. Ezen személyek pénzbeli ellátások, baleseti táppénz, valamint utazási költségtérítési támogatás iránti igényét úgy kell tekinteni, mintha azt az elhunyt maga nyújtotta volna be. A kérelmet a Központ által erre a célra rendszeresített és a hivatalos honlapján közzétett formanyomtatványon lehet benyújtani. A formanyomtatványon fel kell tüntetni az elhunyt személy nevét, társadalombiztosítási azonosító jelét, a halál időpontját, az igénylőnek az elhunyt személlyel fennállt rokonsági, hozzátartozói fokát, valamint az igénylő személy nevét, társadalombiztosítási azonosító jelét, születési helyét, idejét, anyja nevét, lakóhelyét és aláírását.
+
+(6)[^569]
+
+(7)[^570]
+
+(8)[^571]
+
+(9)[^572]
+
+(10)[^573]
+
+(11)[^574]
+
+(12)[^575] Az Ebtv. 42/E. §-a alapján igényelt gyermekgondozási díj esetén a kérelemhez csatolni kell az Ebtv. 42/E. § (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszonyról a felsőoktatási intézmény által kiadott igazolást, valamint ha az igénylő valamely EGT tagállam állampolgára, akkor a magyarországi lakcíméről kiadott hatósági igazolvány másolatát is.
+
+(13)[^576] Az Ebtv. 42/E. §-a szerinti gyermekgondozási díj iránti kérelem esetén az (1)–(3) bekezdésben foglaltakat akkor kell alkalmazni, ha a kérelmező a gyermek születése napján biztosított.
+
+(14)[^577]
+
+### 38/A. §[^578]
+
+(1)[^579] A társadalombiztosítási kifizetőhelyet fenntartó foglalkoztató a kifizetett pénzbeli ellátásokról, a baleseti táppénzről, a táppénz-hozzájárulás összegéről, továbbá a kifizetőhelyet megillető egyszázalékos mértékű költségtérítés összegéről havonta – az Ebtv. 79/B. § (4)–(8) bekezdése szerinti adatszolgáltatás részeként – elszámolást nyújt be a foglalkoztató székhelye szerinti kormányhivatalhoz. Az elszámolást a kormányhivatal mint kifizetőhely, valamint a Tbj. 2. melléklet 6–8. pontja szerinti szervek kifizetőhelyei a Központhoz nyújtják be. A kormányhivatal és a Központ az elszámolást – a beérkezésétől számított 8 napon belül – felülvizsgálja, és az elszámolt táppénz-hozzájárulással csökkentett összegre vonatkozóan intézkedik az átutalásról.
+
+(1a)[^580]
+
+(2)[^581]
+
+(3)[^582]
+
+(4)[^583] Az elszámolás adatait a kormányhivatal, illetve a Központ nem módosíthatja. A hiányosan vagy szabálytalanul benyújtott elszámolás esetén a kormányhivatal, illetve a Központ az elszámolást elutasítja.
+
+(5)[^584] Az egészségbiztosítónak a foglalkoztatóval szemben a kifizetőhelyi feladatok ellátásából eredő, fizetési meghagyással érvényesített követelésével összefüggésben a foglalkoztató által működtetett kifizetőhely a megtérítendő összeget az (1) bekezdés szerinti elszámolásban számolja el; az E. Alap részére átutalást teljesítenie nem kell.
+
+(6)[^585] A társadalombiztosítási kifizetőhelyet működtető foglalkoztató a biztosítottak pénzbeli ellátásának fedezete érdekében egészségbiztosítási szerv által folyósított pénzösszeg fogadása és kezelése céljából hitelintézetnél számlát nyithat. E számlára csak az előzőekben meghatározott jogcím alapján teljesíthető utalás. A számlán elhelyezett pénzösszegből csak az ellátás kifizetése, illetőleg az esetleges téves átutalás visszafizetése teljesíthető. A számla megnyitása kötelező, ha a kifizetőhely gazdálkodási körülményeinek figyelembevételével megalapozottan feltehető, hogy ellene a harmadik személyekkel szemben fennálló tartozása miatt végrehajtási eljárás indul.
+
+### 38/B. §[^586]
+
+(1) Elektronikus úton történő kapcsolattartás esetén a pénzbeli ellátásra, illetve baleseti táppénzre vonatkozó igényérvényesítés során az egyes ellátásokhoz e rendeletben meghatározott igazolásokat papíralapú digitalizált dokumentumként kell csatolni az elektronikus űrlaphoz.
+
+(2)[^587]
+
+(2a)[^588] Az e rendelet szerinti eljárásokban használt elektronikus űrlapokat a közigazgatás-fejlesztésért felelős miniszterrel és az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben kell rendszeresíteni.
+
+(3)[^589] A papíralapú digitalizált dokumentumon, az elektronizált űrlapon, illetve a papíralapú eredeti igazoláson lévő adatok egyezőségéért a foglalkoztató, ennek hiányában az igénylő felel.
+
+(4) Az (1) bekezdés alkalmazása esetén az igazolás eredeti példányát a kérelem benyújtásától számított öt évig meg kell őrizni. Aki a megőrzéssel kapcsolatos kötelezettségét megszegi, annak tekintetében az Ebtv. 80. § (6) bekezdését alkalmazni kell.
+
+(5)[^590] Kormányablakhoz benyújtott kérelem esetén az igény elbírálására hatáskörrel rendelkező illetékes hatósághoz
+
+a) az Igazolvány,
+
+b)[^591]
+
+c)[^592]
+
+d) az Utazási utalvány sajátos nevelési igényű gyermek és kísérője részére elnevezésű nyomtatvány
+
+hitelesített elektronikus másolatának megküldésével egyidejűleg eredetben, papír alapon is továbbítani kell a benyújtott dokumentumokat.
+
+(6)[^593] A kormányablak öt évig köteles megőrizni a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló Korm. rendelet rendelkezései szerint kiállított orvosi igazolást, a kórházi (klinikai) ápolásról, valamint a szülő fekvőbeteg-ellátást nyújtó intézményben történő, gyermeke melletti tartózkodásáról szóló kórház (klinika) által kiállított igazolást, amelyet hiteles elektronikus másolatként továbbított az igény elbírálására hatáskörrel rendelkező szervhez.
+
+(7)[^594]
+
+### 39. §
+
+(1)[^595] A táppénz, baleseti táppénz és utazási költségtérítési támogatás iránti kérelemben foglaltak teljesítése esetén, továbbá a csecsemőgondozási díj, az örökbefogadói díj és a gyermekgondozási díj folyósításának szüneteltetése, a szünetelés megszüntetése iránti kérelem teljesítésekor, valamint a csecsemőgondozási díj folyósítása alatt végzett keresőtevékenység miatti mérték változása esetén az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 80. § (2) bekezdés b) pontja alapján a hatóság az ügyintézési határidőn belül mellőzi a határozathozatalt.
+
+(1a)[^596]
+
+(2)[^597] Ha a pénzbeli egészségbiztosítási ellátás vagy a baleseti táppénz iránti kérelem részben vagy egészben elutasításra, illetve visszautasításra, valamint az eljárás megszüntetésre kerül, a kormányhivatal a döntést közli a biztosított foglalkoztatójával is.
+
+(3)[^598] A pénzbeli ellátás iránti kérelmet elbíráló kifizetőhely vagy kormányhivatal a pénzbeli ellátás jogosultját – kérelmére – tájékoztatja a megállapított pénzbeli ellátás összegének kiszámítása során figyelembe vett adatokról.
+
+### 39/A. §[^599]
+
+(1)[^600] A gyermekgondozási díj iránti kérelemhez a gyermek születési anyakönyvi kivonatának másolatát csak akkor kell csatolni, ha ugyanazon gyermekre vonatkozóan a gyermekgondozási díjat más személy igényli, mint aki részére a csecsemőgondozási díjat megállapították, továbbá ha az igénylő a gyermekgondozási díjat az Ebtv. 42/E. §-a alapján igényli.
+
+(2)[^601]
+
+### 40. §
+
+(1)[^602] A társadalombiztosítási kifizetőhellyel rendelkező foglalkoztató a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj, a táppénz, a baleseti táppénz megállapításánál, kifizetésénél (folyósításánál), elszámolásánál, valamint az üzemi balesettel kapcsolatos kérelem elbírálásánál, továbbá az ezzel kapcsolatos nyomtatványok és nyilvántartások vezetésénél a Központ által kiadott tájékoztató szerint köteles eljárni.
+
+(2)[^603] A tájékoztatóban foglaltak betartását a kormányhivatal, illetve a kormányhivatalok mint kifizetőhelyek és a Tbj. 2. melléklet 6–8. pontja szerinti szervek kifizetőhelyei tekintetében a Központ ellenőrzi.
+
+### 41. §
+
+(1)[^604] A táppénz megállapítása iránti kérelemben a keresőképtelenséget a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet rendelkezései szerint kiállított eredeti orvosi igazolással, a kórházi (klinikai) ápolást, valamint a szülő fekvőbeteg-ellátást nyújtó intézményben történő, gyermeke melletti tartózkodását a kórház (klinika) által kiállított igazolással kell igazolni.
+
+(1a)[^605]
+
+(2)[^606] Amennyiben a biztosított a csecsemőgondozási díjat a szülést megelőző időponttól kéri, a szülés várható időpontját a terhesállományba vételt igazoló orvosi igazolással, vagy ha a szülő nőt nem vették terhesállományba, akkor a várandósgondozási könyv másolatával kell igazolni. A szülést megelőző időponttól való igénylés esetén, illetve ha a foglalkoztatónál kifizetőhely működik, a gyermek születésének tényét a szülést követően, a születési anyakönyvi kivonat másolatával igazolni kell. A csecsemőgondozási díjra való jogosultság perinatális halottvizsgálati bizonyítvánnyal is igazolható.
+
+(3)[^607] Amennyiben a beteg gyermek kórházi ápolásának ideje alatt a szülő gyermeke mellett tartózkodik, úgy a szülő kórházban történő tartózkodásának idejét a Központ által rendszeresített nyomtatványon kell igazolni.
+
+(4)[^608]
+
+(5)[^609] Annak, akinek a keresőképtelensége közegészségügyi okból történt hatósági elkülönítés, foglalkoztatástól eltiltás vagy járványügyi, illetőleg állategészségügyi zárlat miatt áll fenn, azt, hogy munkahelyén megjelenni nem tud, és más munkakörben, munkahelyen, álláshelyen átmenetileg sem foglalkoztatható, a hatósági elkülönítést, a foglalkoztatástól eltiltást, illetőleg a zárlatot elrendelő határozattal kell bizonyítani.
+
+(6)[^610]
+
+### 41/A. §[^611]
+
+(1) Az egészségbiztosítási szerv, illetve a társadalombiztosítási kifizetőhely – az ügyfélnek a felhasználás célját is tartalmazó kérelmére – hatósági bizonyítványt állít ki az egészségbiztosítás pénzbeli ellátásai, a baleseti táppénz, valamint az utazási költségtérítési támogatás megállapításával, illetve folyósításával kapcsolatos adatok igazolása céljából. Az egészségbiztosítási szerv az ügyfél kérésének megfelelően, a hatósági bizonyítványban feltünteti a más egészségbiztosítási szerv, valamint 2023. június 30. napját követően a társadalombiztosítási kifizetőhely által megállapított, illetve folyósított ellátásokat is.
+
+(2) Ha az (1) bekezdés szerinti hatósági bizonyítvány kiállítása az egészségbiztosítási szerv hatáskörébe tartozik, a hatósági bizonyítványt az az egészségbiztosítási szerv állítja ki, amely az ügyfél részére az ellátást megállapította. Ha a hatósági bizonyítványban igazolandó adatok több, különböző illetékességű egészségbiztosítási szervet is érintenek, a hatósági bizonyítványt az ügyfél részére utoljára ellátást megállapító egészségbiztosítási szerv állítja ki.
+
+(3) Az Ebtv. 79/B. § (1) és (2) bekezdése alapján vezetett nyilvántartásból – az adatok igénylésére jogosult, az Ebtv. 79. § (6) bekezdése szerinti szervek megkeresésére – bármely egészségbiztosítási szerv adatot szolgáltat, ideértve azt is, ha a megkeresés által érintett ellátást nem a megkeresett egészségbiztosítási szerv állapította meg, illetve folyósította. A megkeresés más egészségbiztosítási szervhez történő áttételének helye nincs.
+
+### 42. §[^612]
+
+(1)[^613] A táppénz és baleseti táppénz folyósításának 240. napját követő tizenöt napon belül a táppénzt megállapító szerv köteles a keresőképtelenséget igazoló orvost és a biztosítottat értesíteni a biztosított táppénz, baleseti táppénz jogosultsága megszűnésének időpontjáról.
+
+(2)[^614] Ha a biztosított részére a pénzbeli ellátást vagy baleseti táppénzt a kormányhivatal állapította meg, és a biztosítási jogviszony a pénzbeli ellátás vagy a baleseti táppénz folyósításának időtartama alatt megszűnik, a foglalkoztató köteles 8 napon belül értesíteni a kormányhivatalt a biztosítási jogviszony megszűnésének időpontjáról.
+
+(3) A baleseti járadékkal kapcsolatban az egészségkárosodás mértékét szakkérdésként kell vizsgálni.
+
+(4)[^615] A kormányhivatal a szakvéleményéről tájékoztatja az orvost, a vizsgálat lefolytatásáról pedig a táppénz megállapítására jogosult szervet.
+
+### 42/A. §[^616]
+
+A csecsemőgondozási díjban, örökbefogadói díjban vagy gyermekgondozási díjban részesülő személy köteles nyolc napon belül bejelenteni az ellátást megállapító szervnek, ha csecsemőgondozási díj esetén az Ebtv. 41. §-ában, örökbefogadói díj esetén az Ebtv. 42/C. § (1) bekezdés b)–e) és g) pontjában, illetve gyermekgondozási díj esetén az Ebtv. 42/C. §-ában, 42/E. § (4a) bekezdésében, 42/F. § (2) bekezdésében vagy 42/G. § (3) bekezdésében felsorolt körülmények bekövetkeznek.
+
+### 43. §
+
+(1) A biztosított üzemi balesetnek minősülő munkabalesetéről a ,,Munkabaleseti jegyzőkönyv'' felvételére külön jogszabály rendelkezései az irányadók.
+
+(2) A munkabaleset fogalmi körébe nem tartozó üzemi balesetet a munkáltató köteles kivizsgálni, és a vizsgálat eredményét ,,Üzemi baleseti jegyzőkönyv''-ben rögzíteni.
+
+(3)[^617] A foglalkozási megbetegedés tényét a külön jogszabály szerint kiállított értesítéssel kell bizonyítani.
+
+(4)[^618] A külön jogszabály szerint munkaképtelenséget nem okozó munkabaleseteket a munkáltatónak – a biztosított kérésére – az egészségbiztosító által rendszeresített, a külön jogszabályban meghatározott munkabaleseti nyilvántartás adattartamával azonos adatokat tartalmazó nyomtatványon kell rögzítenie.
+
+(5)[^619] Az üzemi balesetet, illetőleg a foglalkozási megbetegedést – az (1)–(4) bekezdésben szereplő jegyzőkönyvek, nyomtatvány, illetőleg értesítés megküldésével, a munkabalesetek bejelentésére vonatkozó szabályok szerint kell a kormányhivatalnak bejelenteni.
+
+### 43/A. §[^620]
+
+(1)[^621] A Magyarországgal szociális biztonsági egyezményt kötött országnak Magyarország területén biztosítási jogviszonyban álló állampolgára által a korábban Magyarország területén kívül elszenvedett üzemi balesetére tekintettel benyújtott baleseti táppénz iránti kérelmét a Budapest Főváros Kormányhivatala bírálja el.
+
+(2) A kérelemhez csatolni kell az orvosi igazolást, valamint az üzemi baleset elismerésére vonatkozó bizonyítékok magyar nyelvű fordítását.
+
+### 44. §
+
+(1)[^622] A Tbj. 6. § (1) bekezdés d), e), f), h) és i) pontjában, (2) bekezdésében, valamint 87. § (1) bekezdésében meghatározott személy által elszenvedett balesetet – bejelentése alapján – a balesetet szenvedett személy lakóhelye szerint illetékes kormányhivatal kivizsgálja, és felveszi az üzemi baleseti jegyzőkönyvet. Szükség esetén a munkavégzés helye szerinti kormányhivatal a vizsgálatban közreműködik.
+
+(2) Az üzemi baleseti jegyzőkönyv felvételére kötelezett a 32. § (1) bekezdés a) pontjában említett esetben az oktatási intézmény, a b) pontban a szocioterápiás intézet, a c) pontban a fogvatartást foganatosító szerv, a d) pontban pedig a közcélú munkát szervező, illetőleg a közérdekű munkát elrendelő szerv.
+
+### 45. §
+
+(1)[^623] A bejelentett üzemi baleset vagy foglalkozási betegség tényét a táppénz iránti kérelem elbírálására hatáskörrel és illetékességgel rendelkező szervnek kell elbírálnia akkor is, ha a biztosított a balesetből eredően nem vált keresőképtelenné. A határozatnak tartalmaznia kell a baleseti sérülés vagy foglalkozási betegség pontos leírását.
+
+(2)[^624] A társadalombiztosítási kifizetőhelyek az (1) bekezdés szerint meghozott véglegessé vált határozatuk egy példányát megküldik az Ebtv. 67. és 68. §-a szerinti megtérítési eljárás megindítása szükségességének vizsgálata céljából a székhely szerint illetékes kormányhivatalnak. A határozathoz mellékelni kell a munkabaleseti jegyzőkönyvet, Üzemi baleseti jegyzőkönyvet vagy a 43. § (3) bekezdése szerinti értesítést, illetve a 43. § (4) bekezdése szerinti nyomtatványt.
+
+(3)[^625] A baleset üzemiségét elismerő határozatot a biztosított köteles megőrizni és a baleseti egészségügyi szolgáltatás igénybevételekor bemutatni.
+
+(4) Az üzemi balesettel összefüggésben baleseti egészségügyi szolgáltatás csak az (1) bekezdésben említett határozat bemutatása esetén rendelhető.
+
+(5)[^626] A baleset üzemiségének véglegessé vált megállapításáig a társadalombiztosítási támogatással rendelt gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás árához, illetve az Ebtv. 23. § b)–c) pontja szerint részleges térítés mellett igénybe vett fogászati ellátáshoz a térítési díj a biztosítottat terheli.
+
+(6)[^627] A kormányhivatal vagy társadalombiztosítási kifizetőhely a baleset üzemiségének elismeréséről meghozott határozatát 8 napon belül megküldi a biztosított lakóhelye szerint illetékes kormányhivatal részére, egyidejűleg tájékoztatja a biztosított baleseti táppénz folyósítására megadott bankszámlaszámáról. A lakóhely szerint illetékes kormányhivatal 8 napon belül kezdeményezi a biztosított által megfizetett térítési díjak NEAK általi – elsősorban bankszámlára történő – visszafizetését.
+
+(7)[^628]
+
+(8)[^629]
+
+### 46. §[^630]
+
+A baleseti táppénz folyósítása egy éven túl az orvosszakértői szerv szakvéleménye alapján hosszabbítható meg.
+
+### 47. §
+
+(1)[^631] A táppénzre jogosult biztosítottnak az üzemi balesetnek nem minősülő balesetéről – az előírt nyomtatványon – nyilatkoznia kell. A nyilatkozatnak a következő adatokat kell tartalmaznia:
+
+a) a sérült nevét, természetes személyazonosító adatait, lakcímét,
+
+b) hol, mikor és hogyan történt a sérülés,
+
+c) amennyiben a sérült erről nyilatkozni kíván, a baleset okozója (név, lakcím),
+
+d) gépjárművel kapcsolatos sérülés esetén ki az üzemben tartó,
+
+volt vagy van-e folyamatban a balesettel kapcsolatban hatósági (rendőrségi, ügyészségi, bírósági stb.) eljárás, az eljáró szerv nevét és az ügy számát;
+
+e)[^632]
+
+(2)[^633] Az (1) bekezdésben említett nyilatkozatot a táppénz megállapítására jogosult szerv megkeresésére a táppénzben részesülő személy kiállítja és tizenöt napon belül visszajuttatja a táppénzt megállapító szervhez. Ha a táppénzt megállapító szerv a nyilatkozatban foglaltak alapján azt állapítja meg, hogy a balesetet nem a biztosított, hanem más személy okozta, a nyilatkozatot további intézkedésre a foglalkoztató székhelye szerint illetékes kormányhivatalnak küldi meg, a baleset miatt folyósított táppénzre vonatkozó adatok közlésével együtt.
+
+(3)[^634]
+
+### 48. §[^635]
+
+A munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés a) pontjában meghatározott munkavállaló a pénzbeli ellátások iránti kérelmét az előírt igazolások benyújtásával a kölcsönvevőnél jelenti be. A kölcsönvevő a benyújtott igazolásokat az Ebtv.-ben, illetőleg e rendeletben meghatározott és rendelkezésre álló adatok közlésével a kölcsönbeadó részére öt napon belül továbbítja. Egyebekben az igény érvényesítésével összefüggő, a foglalkoztatóra előírt kötelezettségek a kölcsönbeadót terhelik. E rendelkezést kell alkalmazni akkor is, ha a kölcsönvevőnél társadalombiztosítási kifizetőhely működik.
+
+### 49. §
+
+(1)[^636] Az Ebtv. 68/A. § (2) és (3) bekezdésében említett kamatot a pénzbeli ellátás, illetőleg a baleseti táppénz, folyósításának napjától, egészségügyi szolgáltatás esetén a finanszírozott összeg átutalásának időpontjától kell felszámítani, a határozathozatalakor irányadó mértékben.
+
+(2)[^637] Az (1) bekezdésben foglaltaktól eltérően, ha a kifizetőhellyel rendelkező foglalkoztatót terheli az általa folyósított ellátás megtérítése, az Ebtv. 68/A. §-a alapján járó kamatot az ellátás fedezetének a Központ, illetve a kormányhivatal által történt átutalását követő harmadik naptól kell felszámítani.
+
+(3)[^638] Az Ebtv. 68/A. §-a (2) és (3) bekezdésében említett kamatot nem kell felszámítani, ha annak összege az 1000 forintot nem éri el.
+
+(4)[^639]
+
+(5)[^640] Az Ebtv. 70. §
+
+a)[^641] (3) bekezdése szerinti eljárásban az Ebtv. 66. §-án alapuló megtérítésre kötelező fizetési meghagyás kiadására a foglalkoztató vagy egyéb szerv székhelye (telephelye) szerinti kormányhivatal, illetve a kormányhivatalok, mint kifizetőhelyek tekintetében a Központ,
+
+b)[^642] (4) bekezdése szerinti eljárásban az Ebtv. 67. §-án alapuló követelés esetén a foglalkoztató székhelye, az Ebtv. 68. §-án alapuló követelés esetén – az (5a) bekezdésben foglalt kivétellel – az ellátásban részesült személy lakóhelye szerinti kormányhivatal
+
+c)[^643] (1) bekezdés d) pontja szerinti eljárásban az ellátást nyújtó egészségügyi szolgáltató székhelye szerinti kormányhivatal
+
+illetékes.
+
+(5a)[^644] Az (5) bekezdés b) pontjában foglaltaktól eltérően Budapest Főváros Kormányhivatala jár el országos illetékességgel, ha az Ebtv. 68. §-án alapuló követelés érvényesítése az Ebtv. 18. § (8) bekezdés a) pontja szerinti felelősség megállapítását igényli.
+
+(6)[^645] A pénzbeli egészségbiztosítási ellátást megállapító határozatban az ügyfelet tájékoztatni kell arról, hogy a véglegessé vált határozatban foglaltakat keresetre tekintet nélkül teljesíteni kell, ha a kereset csak a megállapított összegen felüli többletigényre vonatkozik.
+
+(7)[^646] A kifizetett egészségbiztosítási ellátások megtérítésére irányuló eljárásra az (5) bekezdés szerint illetékes szerv a NEAK feladatkörébe tartozó feladatok ellátása érdekében elektronikus úton, naptári negyedévenként statisztikai adatszolgáltatást teljesít a NEAK részére.
+
+(8)[^647] Budapest Főváros Kormányhivatala az Ebtv. 18. § (8a) bekezdése szerinti ítélet vagy határozat (a továbbiakban együtt: elmarasztaló döntés) kézhezvételét követően hivatalból vizsgálja, hogy az elmarasztaló döntésben szereplő beteg az elmarasztaló döntésben foglalt ellátást követő egy éven belül vett-e igénybe egészségbiztosítási ellátást, és ezt az ellátást az Ebtv. 18. § (8) bekezdés a) pontja szerinti szolgáltatás (a továbbiakban: elmarasztalt szolgáltatás) következtében vette-e igénybe.
+
+(9)[^648] Az elmarasztalt szolgáltatás és az Ebtv. 18. § (8) bekezdés b) pontja közötti ellátás közötti összefüggés akkor áll fenn, ha
+
+a) az Ebtv. 18. § (8) bekezdés b) pontja szerinti ellátásra vagy annak egy részére az elmarasztalt szolgáltatásnak az elmarasztaló döntésben foglalt szakmai szabályok megsértése nélkül nem került volna sor, és
+
+b) az Ebtv. 18. § (8) bekezdés b) pontja szerinti ellátás az elmarasztalt szolgáltatásnak az elmarasztaló döntésben foglalt szakmai szabályok megsértésére figyelemmel, a beteg gyógykezelésének, felépülésének, az elmarasztalt szolgáltatásból történő helyreállításának biztosítását szolgálta.
+
+(10)[^649] A (9) bekezdés szerinti összefüggés fennállása esetén Budapest Főváros Kormányhivatala döntésében megállapítja az összefüggés fennállását, és kötelezi az elmarasztaló döntésben foglalt szolgáltatót az Ebtv. 18. § (8) bekezdés b) pontja szerinti egészségbiztosítási ellátások Egészségbiztosítási Alap terhére finanszírozott összegének a megtérítésére.
+
+### 49/A. §[^650]
+
+Ha az Ebtv. 81. §-a szerint lefolytatott ellenőrzés során megállapításra kerül, hogy a társadalombiztosítási kifizetőhellyel rendelkező munkáltató a ténylegesnél magasabb összegben számolta el az ellátásokat, illetve a ténylegesnél alacsonyabb összegben állapította meg a táppénz-hozzájárulást, a kormányhivatal, illetve a Központ a különbözetet fizetésre kötelező határozatban állapítja meg. A különbözet után a munkáltatót a felszámítás időpontjában érvényes jegybanki alapkamat 5 százalékponttal növelt mértékű kamatfizetési kötelezettség terheli.
+
+### 49/C. §[^652]
+
+(1) Az Ebtv. szerinti pénzbeli egészségbiztosítási ellátások közül a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek alkalmazása szempontjából
+
+a) pénzbeli betegségi ellátás a táppénz,
+
+b) pénzbeli anyasági és azzal egyenértékű apasági ellátás a csecsemőgondozási díj,
+
+c) munkahelyi balesetekkel és foglalkoztatási megbetegedésekkel kapcsolatos pénzbeli ellátás a baleseti táppénz,
+
+d) pénzbeli családi ellátás a gyermekgondozási díj és az örökbefogadói díj.
+
+(2) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti adatcserével kapcsolatos feladatokat
+
+a) a foglalkoztató székhelye szerinti kormányhivatal látja el, ha az adatcsere az (1) bekezdés szerinti ellátásokkal kapcsolatos adatok beszerzésére, illetve a más EGT tagállam felé történő igazolására irányul,
+
+b) a biztosított lakóhelye szerinti kormányhivatal látja el, ha az adatcsere nem az (1) bekezdés szerinti ellátásokkal kapcsolatos – különösen a keresőképtelenségre vonatkozó – adatok más EGT tagállam felé történő igazolására irányul,
+
+c) a Központ látja el, ha az adatcsere az (1) bekezdés szerinti ellátásokkal kapcsolatos követelés érvényesítésére irányul, beleértve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti beszámítást is,
+
+d) a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet szerinti EGT-s kormányhivatal (a továbbiakban: EGT-s kormányhivatal) látja el, ha a gyermekgondozási díj és az örökbefogadói díj megállapítása, illetve folyósítása során tisztázni szükséges azt, hogy az EGT melyik országa az elsődleges teherviselő tagállam.
+
+(3) Ha a kifizetőhely (1) bekezdés szerinti ellátásokkal kapcsolatos eljárása során válik szükségessé a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti adatcsere, a kifizetőhely megkeresi a kormányhivatalt, amely gondoskodik az adatok beszerzéséről.
+
+(4) Ha a gyermekgondozási díj és az örökbefogadói díj megállapítására irányuló eljárásban, illetve a gyermekgondozási díj és az örökbefogadói díj folyósítása alatt megállapításra kerül, hogy a biztosított (vagy családtagja) az EGT más tagállamában lakik, ott biztosított, vagy ott is kért, illetve kapott családi ellátást, az egészségbiztosítási szerv, illetve a kifizetőhely megkeresi a (2) bekezdés d) pontja szerinti EGT-s kormányhivatalt. Az EGT-s kormányhivatal a külföldi szervvel tisztázza, hogy melyik tagállam az elsődleges teherviselő, és erről a megkereső szervet tájékoztatja.
+
+(5) Ha a más EGT tagállam hatósága a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti adatcsere keretében olyan adat igazolását kéri, amelynek a szolgáltatására a kifizetőhely rendelkezik hatáskörrel, és az adat nem áll a kormányhivatal rendelkezésére, a kormányhivatal megkeresi a kifizetőhelyet az adatok közlése érdekében. A kifizetőhely a kért adatokat köteles 8 napon belül megadni a kormányhivatal részére.
+
+### 49/D. §[^653]
+
+(1)[^654] Az Ebtv. 68–68/A. §-a alapján a kötelező gépjármű-felelősségbiztosítás hatálya alá tartozó megtérítésre kötelezett helyett a gépjármű üzembentartójának kötelező felelősségbiztosításáról szóló rendelkezések alapján a biztosító áll helyt azzal, hogy e kötelezettségének átalányösszegben is eleget tehet. Az évenkénti átalányösszeg mértékét, az elszámolás ügyviteli rendjét a NEAK a kötelező gépjármű-felelősségbiztosítást nyújtó biztosítókkal és a Magyar Biztosítók Szövetségével megállapodásban rendezi.
+
+(2)[^655] Az Ebtv. 67–68/A. §-a alapján fennálló megtérítési kötelezettség teljesítésére a Honvédelmi Minisztérium Védelemgazdasági Hivatala a NEAK-kal megállapodást köthet.
+
+(3)[^656] Az (1) és (2) bekezdés szerinti megállapodások megkötése érdekében a NEAK hatóságtól vagy egyéb szervtől a megtérítési igényt megalapozó eseménnyel kapcsolatban adatszolgáltatást kérhet. Az adatszolgáltatást a kérelem kézhezvételétől számított 30 napon belül kell teljesíteni.
+
+### 49/E. §[^657]
+
+(1)[^658] A bejelentést a NEAK által rendszeresített nyomtatványon vagy elektronikus űrlapon
+
+a)[^659] a kormányhivatalhoz teljesíti az Ebtv. 80. § (5) bekezdésében meghatározott bejelentésre kötelezett,
+
+b)[^660] a kormányhivatalhoz teljesíti az Ebtv. 80. § (4) bekezdésében meghatározott bejelentésre kötelezett.
+
+(2)[^661] Az Ebtv. 80. § (5) bekezdése szerint bejelentésre kötelezett személy a bejelentéshez – az (1) bekezdésben előírtakon túl – köteles csatolni a külföldi biztosítási jogviszony megszűnésének bejelentésekor
+
+a) a kettős biztosítás tilalmáról rendelkező nemzetközi egyezmények esetében a külföldi biztosító igazolását,
+
+b) nemzetközi szervezet esetében a szervezet által kiadott igazolást,
+
+c) az uniós rendeletek hatálya alá tartozó személy esetén a bejelentése tartalmát alátámasztó dokumentum – EESSI rendszeren keresztül történő – beszerzésére vonatkozó kérelmét, illetve
+
+d) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti strukturált elektronikus dokumentumot.
+
+### 49/F. §[^662]
+
+(1) Az Ebtv. 72. §-a alapján előterjesztett kérelmet az egészségbiztosító által rendszeresített nyomtatványon kell benyújtani.
+
+(2) Az egészségbiztosító a kérelem elbírálásánál megvizsgálja a magánszemély jövedelmi helyzetét és életkörülményeit, egyéb kötelezettnél annak pénzügyi helyzetét.
+
+## Átmeneti rendelkezések
+
+### 50. §
+
+(1) A 12. § rendelkezéseit az e rendelet hatálybalépését követően igénybe vett egészségügyi szolgáltatások tekintetében kell alkalmazni, az e rendelet hatálybalépése előtt nyújtott egészségügyi szolgáltatások költségeinek megtérítése a szolgáltatás igénybevételekor hatályos rendelkezések szerint történik.
+
+(2) E rendelet rendelkezéseit a kötelező egészségbiztosítás pénzbeli ellátásai tekintetében a hatálybalépését követően benyújtott igények érvényesítése során kell alkalmazni. A rendelet hatálybalépését megelőzően benyújtott és el nem bírált igényeket az igényléskor hatályban lévő rendelkezések alapján kell elbírálni, kivéve, ha e rendelet az ellátás feltételeként vagy az igény érvényesítésére kedvezőbb szabályt állapít meg.
+
+(3)[^663] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról szóló 151/2010. (IV. 30.) Korm. rendelettel megállapított 1. § (2) bekezdés e–l) pontját és 7/A–7/C. §-t a 2010. május 31-e után indult eljárásokban kell alkalmazni.
+
+(4)[^664] Az egyes egészségbiztosítási és egészségügyi tárgyú kormányrendeletek módosításáról szóló 325/2011. (XII. 28.) Korm. rendelettel (a továbbiakban: Mód.R.) megállapított 9. § hatálybalépésekor[^665] a támogatásba már befogadott gyógyászati segédeszközök esetében a Gyftv. 21/A. § (2) bekezdésében foglalt kötelezettségének a gyógyászati segédeszköz forgalomba hozójának legkésőbb 2012. március 1-jéig kell eleget tennie.
+
+(5)[^666] Abban az esetben, ha egy új gyógyászati ellátásnak a Mód.R. által megállapított 10/F. § (3a) bekezdése hatálybalépésekor[^667] a társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló miniszteri rendeletben történő szabályozására már sor került és a közfinanszírozás alapját képező árának kialakítása a 10/F. §-ban foglaltak szerint még nem történt meg, a közfinanszírozás alapját képező ár kialakítására irányuló tárgyalást az OEP a Mód.R. kihirdetését[^668] követő 90 napon belül bonyolítja le, amelynek során a 10/F. § (3a) bekezdésében foglaltakat kell alkalmazni.
+
+(6)[^669] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 13/2012. (II. 14.) Korm. rendelettel megállapított 21. § (3) és (4) bekezdése alapján az OEP a 2012. január 1-jét követően végzett szállítások, illetve mentési tevékenység finanszírozására köt szerződést.
+
+(7)[^670] A települési önkormányzatok egészségügyi intézményei átvételének részletes szabályairól és egyes egészségügyi tárgyú kormányrendeletek módosításáról szóló 92/2012. (IV. 27.) Korm. rendelettel megállapított 3/A. §-ban foglaltakat a 2012. július 1-jét követő beutalásokra kell alkalmazni azzal, hogy
+
+a) a biztosítottat nem utasíthatja el a területi ellátási kötelezettség hiányára hivatkozva az az egészségügyi szolgáltató, aki a fekvőbeteg-szakellátási kapacitásokat, illetve ellátási területeket érintő – a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. §-a alapján lefolytatott eljárások eredményeként bekövetkező – változások miatt már nem rendelkezik területi ellátási kötelezettséggel az adott betegnek a korábban megkezdett ellátása vonatkozásában, ha a beteg ellátását mint területileg ellátásra kötelezett szolgáltató kezdte meg, feltéve, hogy a változás után is rendelkezik az ellátáshoz szükséges kapacitással és egyéb feltételekkel;
+
+b) abban az esetben, ha a fekvőbeteg-szakellátási kapacitásokat, illetve ellátási területeket érintő – a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. §-a alapján lefolytatott eljárások eredményeként bekövetkező – változások miatt a biztosított nem tudná ugyanazon szolgáltató ugyanazon orvosánál a korábban megkezdett kezeléshez kapcsolódó ellátást igénybe venni, a változásokat követően az orvost foglalkoztató szolgáltató nem utasíthatja el a beteget arra hivatkozva, hogy nem rendelkezik a beteg tekintetében területi ellátási kötelezettséggel.
+
+(8)[^671] A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról szóló 131/2012. (VI. 27.) Korm. rendelettel (a továbbiakban: Mód.R2.) megállapított 37. § (5) bekezdését, 39. § (1) bekezdését, 39. § (1a) bekezdését, 39/A. § (1) bekezdését, 41. § (2) bekezdését a 2012. június 30-át követően benyújtott kérelmek tekintetében kell alkalmazni.
+
+(8)[^672] Azokat az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 137/2012. (VI. 29.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépését megelőzően az Ebtv. 32. § (1) bekezdése alapján megkötött és a Módr2. 8. §-ának hatálybalépésekor érvényes szerződéseket, amelyek 2012. szeptember 30-án nem felelnek meg a 22. § (1a) bekezdésében meghatározott feltételnek, az OEP 2012. október 1-jével felmondja.
+
+(9)[^673] A Mód.R2.-vel megállapított 45. § (5) és (6) bekezdését a 2012. június 30-át követően bekövetkezett balesetek tekintetében kell alkalmazni.
+
+(9)[^674] A Módr2. által megállapított 7/A. § (5) bekezdését, 7/B. § (3a) és (4a) bekezdését a Módr2. 3. § (1) bekezdésének és 4. §-ának hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(10)[^675] Azokat az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 447/2012. (XII. 29.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^676] megelőzően az Ebtv. 32. § (1) bekezdése alapján megkötött és a Módr3. 17. § j) pontjának hatálybalépésekor érvényes szerződéseket, amelyek 2013. március 31-én nem felelnek meg a 22. § (1a) bekezdésében meghatározott feltételnek, az OEP 2013. március 31-ével felmondja.
+
+(11)[^677] A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény végrehajtásáról szóló 168/1997. (X. 6.) Korm. rendelet és a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Mód. Rendelet[^678]) módosításáról szóló kormányrendelettel[^679] megállapított 37. § (2b) bekezdését a jogosultnak a Mód. Rendelet hatálybalépését követően bekövetkezett elhalálozása esetén kell alkalmazni.
+
+(12)[^680] A szülész-nőgyógyász szakorvos által 2014. június 30-át követően kiadott igazolás alapján kiállított várandósgondozási könyvre az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 169/2014. (VII. 18.) Korm. rendelettel megállapított 3/A. § (10e) bekezdésében foglaltakat alkalmazni kell.
+
+(13)[^681] Ahol kormányrendelet csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-je előtt nyílt meg.
+
+(14)[^682] Ha a terhességi-gyermekágyi segélyre való jogosultság kezdőnapja 2015. január 1-je elé esik, az ellátás terhességi-gyermekágyi segélyként kerül folyósításra.
+
+(15)[^683] A terhességi-gyermekágyi segély tárgyában 2015. január 1-je előtt előállított nyomtatványok 2014. december 31-ét követően is felhasználhatók, azzal, hogy a 2014. december 31-ét követően megnyílt igényjogosultság esetén a nyomtatványt csecsemőgondozási díj iránti kérelemnek kell tekinteni.
+
+(16)[^684] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 364/2014. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított 11. § (7a) bekezdését a 2014. december 31-ét követő utazásokra kell alkalmazni.
+
+(17)[^685] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 364/2014. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított 38. § (5) bekezdését a 2014. december 31-ét követően kezdődő igényjogosultságok esetében kell alkalmazni.
+
+(18)[^686] A fővárosi és megyei kormányhivatalok működésével összefüggő egyes kormányrendeletek módosításáról szóló 52/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított 1. § (7f) bekezdés hatálybalépése előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat az eljárás megindításakor hatályos rendelkezések szerint kell befejezni.
+
+(19)[^687] A járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított rendelkezéseket a 2017. július 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
+(20)[^688] A 4/A. § (2) bekezdésétől eltérően 2021. december 31-ig minden, az EESZT útján kiállított beutaló esetében kötelező papíralapú igazolást készíteni, és azt a beteg részére átadni.
+
+(21)[^689] A 11. § 2022. június 30-áig hatályos (3) bekezdése alapján az utazási utalvány kiállítására és a szolgáltatás igénybevételének az utazási utalványon történő igazolására kötelezett személy vagy szerv 2022. június 30. napjáig állíthat ki a 11. § 2022. június 30-áig hatályos (4) bekezdése szerinti utazási utalványt. A szolgáltatás igénybevételét az arra kötelezett ezen a nyomtatványon 2022. június 30-áig igazolhatja le.
+
+(22)[^690] A 11. § 2022. június 30-áig hatályos (4) bekezdése szerinti utazási utalványon 2022. június 30. napjáig az egészségügyi szolgáltató, illetve az orvos által igazolt megjelenések alapján utazási költségtérítés iránti kérelem az utolsó megjelenés napjától számított hatodik hónap utolsó napjáig, de legkésőbb 2022. december 31. napjáig terjeszthető elő. A 2022. június 30-át követően így benyújtott kérelmeket utazási költségtérítési támogatás iránti kérelemnek kell tekinteni, és a 11. § 2022. július 1-jétől hatályos (1)–(13) bekezdése megfelelő alkalmazásával kell elbírálni. Az utazási utalványon 2022. június 30. napját követően igazolt megjelenések alapján utazási költségtérítési támogatás nem állapítható meg.
+
+(23)[^691] A 2022. június 30-át követően a 11. § (14)–(19) bekezdése szerinti utazási költségtérítési támogatás megállapítása iránt benyújtott kérelmeket a 2022. július 1-jétől hatályos rendelkezések alapján kell elbírálni akkor is, ha a korai fejlesztést és gondozást, illetve fejlesztő nevelést-oktatást nyújtó intézményben, valamint az önkormányzat által szervezett csoportos utazás keretében a szűrővizsgálaton történő megjelenésre 2022. július 1-jét megelőzően került sor.
+
+### 50/A. §[^692]
+
+Az egészségügyi ellátásokat érintő kormányrendeletek módosításáról szóló 29/2025. (III. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5/G. § (1)–(5) bekezdésében foglaltakat az ott meghatározott járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak legkésőbb a Módr. hatálybalépését[^693] követő második hónap első napjától kell alkalmazniuk.
+
+### 50/B. §[^694]
+
+A fővárosi és megyei kormányhivataloktól 2018. január 1-jén a Kincstárhoz kerülő feladat- és hatáskörök, valamint az átvett feladat- és hatáskörökhöz kötődő foglalkoztatotti állomány, tárgyi eszköz és más, vagyoni értékű jogok tekintetében 2018. január 1-jétől a Kincstár a fővárosi és megyei kormányhivatalok jogutódja. E kérdések rendezésére a Kincstár és a fővárosi és megyei kormányhivatalok megállapodást kötnek.
+
+### 50/B. §[^695]
+
+(1) A kormányhivatalok által 2017. december 31-ig folyósított pénzbeli ellátással, baleseti táppénzzel összefüggésben teljesítendő önellenőrzést a Kincstár teljesíti a kormányhivatal adószámán.
+
+(2) A 2018. január 1-jét megelőző időszakra vonatkozó bevallások összegének befizetésével és visszaigénylésével kapcsolatos kötelezettségeket a Kincstár teljesíti a kormányhivatal adószámán.
+
+### 50/C. §[^696]
+
+E rendeletnek az egyes közegészségügyi és járványügyi, valamint egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 659/2023. (XII. 28.) Korm. rendelettel megállapított
+
+a) 22. § (11) bekezdés c) pontjában foglaltakat az ezen rendelkezés hatálybalépését[^697] követően megkötött új szerződések, valamint a már megkötött szerződéseknek az ezen rendelkezés hatálybalépését követő első módosításakor kell alkalmazni,
+
+b) 12/A. § (7b) bekezdésében foglaltak az ezen rendelkezés hatálybalépésének[^698] napján érvényes EU kártya érvényességi idejét nem érinti.
+
+### 50/D. §[^699]
+
+E rendeletnek a szociális, köznevelési és egészségügyi tárgyú kormányrendeletek módosításáról szóló 32/2024. (II. 22.) Korm. rendelettel (a továbbiakban: Módr4.) módosított 11/E. §-ában foglaltakat a Módr4.-gyel módosított 11/E. § hatálybalépése[^700] napján folyamatban lévő ügyekben is alkalmazni kell.
+
+### 50/D. §[^701]
+
+2024\. július 1-jétől a közfinanszírozott, heti 300 vagy ezt meghaladó órát legalább 5 szakmában működtető járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak digitális időpontfoglalási rendszert kell használniuk.
+
+### 50/E. §[^702]
+
+(1) A foglalkoztató a részére 2026. január 1-jét megelőzően átadott „Igazolvány a biztosítási jogviszonyról és az egészségbiztosítási ellátásokról” elnevezésű nyomtatványt (a továbbiakban: Igazolvány) legkésőbb a foglalkoztatási jogviszony megszűnésekor a biztosított részére hitelt érdemlő módon igazolva átadja, ezt követően a reá irányadó öregségi nyugdíjkorhatár betöltését követő 5. év végéig az Igazolványt a biztosított őrzi meg.
+
+(2) Ha az Igazolvány átadása meghiúsul, az Igazolványt a foglalkoztató a biztosítottra irányadó öregségi nyugdíjkorhatár betöltését követő öt évig köteles megőrizni.
+
+### 50/F. §[^703]
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról szóló 396/2025. (XII. 16.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 27/A. § (1b) bekezdésében foglaltakat a Módr5. hatálybalépésének[^704] napján folyamatban levő ügyekben is alkalmazni kell.
+
+### 50/G. §[^705]
+
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosításáról szóló 425/2025. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 27/A. § (1) és (3) bekezdésében foglaltakat a Módr6. hatálybalépésének[^706] napján folyamatban lévő ügyekben is alkalmazni kell.
+
+### 50/H. §[^707]
+
+Az Alapítvány Ebtv. 82/Z. §-a szerinti határidőig elbírált kérelmei alapján megítélt támogatás folyósítását a 11/G. § szerinti elszámoló szervezet 2026. december 31. napjáig teljesíti.
+
+## Záró rendelkezések
+
+### 51. §
+
+(1) E rendelet 1998. január 1-jén lép hatályba.
+
+(2)[^708]
+
+(3)[^709]
+
+(4)[^710]
+
+(5)[^711]
+
+### 52. §[^712]
+
+Ez a rendelet a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^713]
+
+A) Az Egészségbiztosítási Alapból folyósított pénzeszközök felhasználásának pénzügyi ellenőrzése során figyelembe vehető bevételek és kiadások háziorvosi, házi gyermekorvosi vállalkozások esetében\
+I. BEVÉTELEK
+
+1\. Finanszírozásból származó bevételek (az Egészségbiztosítási Alapból közvetlenül kifizetésre került pénzeszközök)
+
+2\. Egyéb, finanszírozáshoz kapcsolódó bevételek
+
+2.1. Finanszírozásból vásárolt eszközök értékesítéséből származó bevétel.
+
+2.2. Kapott kamatok.
+
+2.3. Árfolyamnyereség.
+
+2.4. Finanszírozott tevékenységhez kötődő telefondíjak magáncélú használata miatti befizetések.
+
+2.5. Finanszírozott tevékenység kiadásaként elszámolt adók és rezsiköltségek visszatérítése.
+
+3\. Hitel, kölcsön (tagi kölcsön, tőkebetét) felvétele, igénybevétele
+
+**II. KIADÁSOK**
+
+1\. Befektetett eszközök
+
+1.1. Nagy értékű immateriális javak beszerzése (ideértve a forgalomképes, vagyoni értéket megtestesítő nem anyagi jellegű eszközöket is). A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó immateriális eszközök, így orvosszakmai és felhasználói szoftver, betegnyilvántartási, kezelési program, office csomag.
+
+1.2. Ingatlanok beszerzése, felújítása, a finanszírozott háziorvosi tevékenységgel összefüggő ingatlanokkal kapcsolatos kiadások.
+
+1.3. Nagy értékű szakmai berendezések, eszközök beszerzési, felújítási kiadásai. A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó eszközök, továbbá CRP vizsgáló készülék, hordozható kislabor-készülék, vérkép és/vagy vizelet analizáló kislabor gép, spirometer, EKG készülékek, praxis Holter, defibrillátor, ABPM, szűrőaudiómeter, sürgősségi táska.
+
+1.4. Egyéb gépek, berendezések, felszerelések beszerzése, így rendelői számítógéprendszer; laptop; vonalkód nyomtatására alkalmas nyomtató/másoló szkenner; többfunkciós vezetékes és mobiltelefon; rendelő, váróterem, mellékhelyiségek, egyéb kiszolgáló helyiség felszerelési és berendezési eszközei.
+
+1.5. Járművek beszerzése, felújítása, a finanszírozott tevékenység ellátásához szükséges jármű beszerzésével, felújításával kapcsolatos kiadások.
+
+1.6. Befektetett eszközök lízingdíja.
+
+2\. Kis értékű tárgyi eszközök beszerzése
+
+2.1. Szakmai kis értékű tárgyi eszközök.
+
+2.2. A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó eszközök, továbbá Doppler-készülék, peak flow meter, inhalátor, pulzoximéter, kilégzett levegő CO mérő, Tens-készülék, 2 l-es oxigénpalack.
+
+2.3. Számítástechnikai és kommunikációs kis értékű tárgyi eszközök.
+
+2.4. Egyéb kis értékű tárgyi eszközök, így takarító eszközök, rendelő és várótermi kis értékű bútorzat, mellékhelyiségek, illetve egyéb kiszolgáló helyiségek felszerelése, egyéb tartozékok. A finanszírozott háziorvosi, házi gyermekorvosi tevékenység ellátásához szükséges egyéb kis értékű nem szakmai tárgyi eszközök.
+
+3\. Anyagköltség
+
+3.1. Gyógyszerbeszerzés
+
+3.1.1. Gyári és magisztrális gyógyszer.
+
+3.1.2. Gyógyászati, diagnosztikai segédanyagok.
+
+3.2. Szakmai anyagok beszerzése.
+
+3.3. Munkaruha, védőruha beszerzés.
+
+3.4. Szakmai könyv, folyóirat, CD.
+
+3.5. Irodaszer, nyomtatvány.
+
+3.6. Üzemanyag, kenőanyag beszerzés.
+
+3.7. Egyéb fogyóeszköz beszerzés, így a kommunikációs eszközök készletnek minősülő tartozékai, számítástechnikai segédanyagai, járművek üzemeltetéséhez és felújításához kapcsolódó készletbeszerzések, valamint az egyéb üzemeltetéssel, fenntartással kapcsolatos készletek.
+
+3.8. Karbantartási anyagok
+
+3.8.1. Gépjárműhöz kapcsolódó karbantartási anyag beszerzés.
+
+3.9. Tisztítószer beszerzés.
+
+3.10. Egyéb anyagbeszerzés.
+
+4\. Igénybe vett szolgáltatások kiadásai
+
+4.1. Épületek bérleti díja.
+
+4.2. Gépek bérleti díja.
+
+4.3. Oktatás, továbbképzés a finanszírozott feladatellátáshoz kapcsolódóan.
+
+4.4. Könyvviteli és jogi szolgáltatás díja.
+
+4.5. Vásárolt egészségügyi szolgáltatások díja.
+
+4.6. Számítástechnikai szolgáltatás díja.
+
+4.7. Javítás, karbantartás kiadása
+
+4.7.1. Gépjárműjavítás, karbantartás kiadása.
+
+4.8. Telefon és internet díjak.
+
+4.9. Postaköltség.
+
+4.10. Közüzemi díjak.
+
+4.11. Veszélyes hulladékszállítás díja.
+
+4.12. Tagsági díjak.
+
+4.13. Igénybe vett egyéb szolgáltatások.
+
+5\. Egyéb szolgáltatások kiadásai
+
+5.1. Hatósági, igazgatási szolgáltatási díjak, közzétételi díj.
+
+5.2. Bankköltségek.
+
+5.3. Gépjármű biztosítás.
+
+5.4. Vagyonbiztosítás.
+
+5.5. Szakmai felelősségbiztosítás.
+
+5.6. Egyéb szolgáltatások kiadásai.
+
+6\. Személyi jellegű kifizetések (nettó módon)
+
+6.1. A teljes és részmunkaidőben foglalkoztatottak kifizetett nettó bére.
+
+6.2. Vállalkozói kivét/társas vállalkozó jövedelme.
+
+6.3. Személyi jellegű egyéb kifizetések nettó módon (természetes személyek részére kifizetett jutalom, helyettesítés, végkielégítés, napidíj, jubileumi jutalom, betegszabadság idejére fizetett díjazás, tanulmányi szerződés alapján járó támogatás, cafetéria kifizetett összege).
+
+6.4. Megbízási díjak.
+
+6.5. Alkalmi munkavállalónak fizetett díjazás.
+
+7\. Osztalék
+
+8\. Járulékok, hozzájárulások
+
+9\. Adók
+
+10\. Közvetített szolgáltatások díja (közreműködői szerződés alapján kifizetett összegek)
+
+11\. Reprezentáció
+
+12\. Hiteltörlesztés (tőke+kamat)
+
+13\. Árfolyamveszteség
+
+14\. Tőke kivét/tagi kölcsön visszafizetése
+
+15\. Egyéb, az 1–14. pontban nem nevesített kiadások
+
+B) Az Egészségbiztosítási Alapból folyósított pénzeszközök felhasználásának pénzügyi ellenőrzése során figyelembe vehető bevételek és kiadások a fogorvosi vállalkozások esetében
+
+**I. BEVÉTELEK**
+
+1\. Finanszírozásból származó bevételek (az Egészségbiztosítási Alapból közvetlenül kifizetésre került pénzeszközök)
+
+2\. Egyéb, finanszírozáshoz kapcsolódó bevételek
+
+2.1. Finanszírozásból vásárolt eszközök értékesítéséből származó bevétel.
+
+2.2. Kapott kamatok.
+
+2.3. Árfolyamnyereség.
+
+2.4. Finanszírozott tevékenységhez kötődő telefondíjak magáncélú használata miatti befizetések.
+
+2.5. Finanszírozott tevékenység kiadásaként elszámolt adók és rezsiköltségek visszatérítése.
+
+3\. Hitel, kölcsön (tagi kölcsön, tőkebetét) felvétele, igénybevétele
+
+**II. KIADÁSOK**
+
+1\. Befektetett eszközök
+
+1.1. Nagy értékű immateriális javak beszerzése (ideértve a forgalomképes, vagyoni értéket megtestesítő nem anyagi jellegű eszközöket is). A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó immateriális eszközök, így fogorvosi szakmai és felhasználói szoftver, betegnyilvántartási, kezelési program, operációs rendszer, szövegszerkesztő-, adatbázis-kezelő és más számítógépes, illetve mobil alkalmazások beszerzési költsége vagy licence díja.
+
+1.2. Ingatlanok beszerzése, felújítása, a finanszírozott fogorvosi tevékenységgel összefüggő ingatlanok vonatkozásában felmerülő kiadások.
+
+1.3. Nagy értékű szakmai berendezések, eszközök beszerzési, felújítási kiadásai. A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó eszközök, továbbá mennyezeti lámpa, fogászati műtőlámpa, fogászati kezelőegység, fogászati kézidarabok, kompressor, exhaustor, higiénés berendezés, műszerkocsi, fogászati rtg., rtg.-film digitalizáló, hőlégsterilizátor, autokláv, gyorssterilizáló, UH tisztító berendezés, automata kézidarab tisztító, fóliahegesztő, rendelői mélyhúzógép, lenyomatkeverő gép, apexlocator, intraorális kamera, endomotor, gépi depurátor, kéziműszerélező gép, rendelői homokfúvó, polimerizációs lámpa, elektrokauter/UH radiosebészet, diódalézer, caries és pakk dg. készülék, digitális fogszín meghatározó készülék, ózonkészülék, éberszedáló berendezés.
+
+1.4. Egyéb gépek, berendezések, felszerelések beszerzése, így rendelői számítógéprendszer; laptop; vonalkód nyomtatására alkalmas nyomtató/másoló szkenner; többfunkciós vezetékes és mobiltelefon; rendelő, váróterem, mellékhelyiségek, egyéb kiszolgáló helyiség felszerelési és berendezési eszközei.
+
+1.5. Járművek beszerzése, felújítása, a finanszírozott tevékenység ellátásához szükséges jármű beszerzéséhez, felújításához kapcsolódó kiadások.
+
+1.6. Befektetett eszközök lízingdíja.
+
+2\. Kis értékű tárgyi eszközök beszerzése
+
+2.1. Szakmai kis értékű tárgyi eszközök.
+
+2.2. A finanszírozott tevékenység ellátásához szükséges minimumfeltételek körébe, valamint a szakmai kompetenciába tartozó eszközök, továbbá kéziműszer, fogó, műszertartó fiók betét, rtg. film és szenzortartó, rtg. kötény, rtg. szék, sterilizáló konténer, desztillált víz előállító, orvosi nagyító szemüveg és fejlámpa.
+
+2.3. Számítástechnikai és kommunikációs kis értékű tárgyi eszközök.
+
+2.4. Egyéb kis értékű tárgyi eszközök, így takarító eszközök, rendelő és várótermi kis értékű bútorzat, mellékhelyiségek, illetve egyéb kiszolgáló helyiségek felszerelése, egyéb tartozékok.
+
+2.5. A finanszírozott fogorvosi tevékenység ellátásához szükséges egyéb kis értékű, nem szakmai tárgyi eszközök.
+
+3\. Anyagköltség
+
+3.1. Gyógyszerbeszerzés
+
+3.1.1. Gyári és magisztrális gyógyszer.
+
+3.1.2. Gyógyászati, diagnosztikai segédanyagok.
+
+3.2. Szakmai anyagok beszerzése, így tömőanyag, lenyomatanyag, egészségügyi textíliák.
+
+3.3. Munkaruha, védőruha beszerzés.
+
+3.4. Szakmai könyv, folyóirat, CD.
+
+3.5. Irodaszer, nyomtatvány.
+
+3.6. Üzemanyag, kenőanyag beszerzés.
+
+3.7. Egyéb fogyóeszköz beszerzés, így a kommunikációs eszközök készletnek minősülő tartozékai, számítástechnikai segédanyagai, járművek üzemeltetéséhez és felújításához kapcsolódó készletbeszerzések, valamint az egyéb üzemeltetéssel, fenntartással kapcsolatos készletek.
+
+3.8. Karbantartási anyagok
+
+3.8.1. Gépjárműhöz kapcsolódó karbantartási anyag beszerzés.
+
+3.9. Tisztítószer beszerzés.
+
+3.10. Egyéb anyagbeszerzés.
+
+4\. Igénybe vett szolgáltatások kiadásai
+
+4.1. Épületek bérleti díja.
+
+4.2. Gépek bérleti díja.
+
+4.3. Oktatás, továbbképzés a finanszírozott feladatellátáshoz kapcsolódóan.
+
+4.4. Könyvviteli és jogi szolgáltatás díja.
+
+4.5. Vásárolt egészségügyi szolgáltatások díja.
+
+4.6. Számítástechnikai szolgáltatás díja.
+
+4.7. Javítás, karbantartás kiadása
+
+4.7.1. Gépjárműjavítás, karbantartás kiadása.
+
+4.8. Telefon és internet díjak.
+
+4.9. Postaköltség.
+
+4.10. Közüzemi díjak.
+
+4.11. Veszélyes hulladékszállítás díja.
+
+4.12. Tagsági díjak.
+
+4.13. Igénybe vett egyéb szolgáltatások.
+
+5\. Egyéb szolgáltatások kiadásai
+
+5.1. Hatósági, igazgatási szolgáltatási díjak, közzétételi díj.
+
+5.2. Bankköltségek.
+
+5.3. Gépjármű biztosítás.
+
+5.4. Vagyonbiztosítás.
+
+5.5. Szakmai felelősségbiztosítás.
+
+5.6. Egyéb szolgáltatások kiadásai.
+
+6\. Személyi jellegű kifizetések (nettó módon)
+
+6.1. A teljes és részmunkaidőben foglalkoztatottak kifizetett nettó bére.
+
+6.2. Vállalkozói kivét/társas vállalkozó jövedelme.
+
+6.3. Személyi jellegű egyéb kifizetések nettó módon, így természetes személyek részére kifizetett jutalom, helyettesítés, végkielégítés, napidíj, jubileumi jutalom, betegszabadság idejére fizetett díjazás, tanulmányi szerződés alapján járó támogatás, cafetéria kifizetett összege.
+
+6.4. Megbízási díjak.
+
+6.5. Alkalmi munkavállalónak fizetett díjazás.
+
+7\. Osztalék
+
+8\. Járulékok, hozzájárulások
+
+9\. Adók
+
+10\. Közvetített szolgáltatások díja (közreműködői szerződés alapján kifizetett összegek)
+
+11\. Reprezentáció
+
+12\. Hiteltörlesztés (tőke+kamat)
+
+13\. Árfolyamveszteség
+
+14\. Tőke kivét/tagi kölcsön visszafizetése
+
+15\. Egyéb, az 1–14. pontban nem nevesített kiadások
+
+## 1/A. számú melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^714]
+
+## 2. számú melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^715]
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | Lakóhely (tartózkodási hely), illetve szállás – egészségügyi szolgáltató telephelye közötti távolság (kilométer) | Utazási költségtérítési támogatás összege (forint) |
+| **2** | 0–10 | 250 |
+| **3** | 11–15 | 310 |
+| **4** | 16–20 | 370 |
+| **5** | 21–25 | 465 |
+| **6** | 26–30 | 560 |
+| **7** | 31–35 | 650 |
+| **8** | 36–40 | 745 |
+| **9** | 41–45 | 840 |
+| **10** | 46–50 | 930 |
+| **11** | 51–60 | 1120 |
+| **12** | 61–70 | 1300 |
+| **13** | 71–80 | 1490 |
+| **14** | 81–90 | 1680 |
+| **15** | 91–100 | 1860 |
+| **16** | 101–120 | 2200 |
+| **17** | 121–140 | 2520 |
+| **18** | 141–160 | 2830 |
+| **19** | 161–180 | 3130 |
+| **20** | 181–200 | 3410 |
+| **21** | 201–220 | 3690 |
+| **22** | 221–240 | 3950 |
+| **23** | 241–260 | 4200 |
+| **24** | 261–280 | 4430 |
+| **25** | 281–300 | 4660 |
+| **26** | 301–350 | 5160 |
+| **27** | 351–400 | 5590 |
+| **28** | 401–450 | 5940 |
+| **29** | 451–500 | 6210 |
+| **30** | 500– | 6400 |
+
+## 3. számú melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^716]
+
+## 4. számú melléklet a 217/1997. (XII. 1.) Korm. rendelethez[^717]
+
+---
+
+[^1]: A Vhr. 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés a) pontja, a 410/2022. (X. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg. [ Az 1. § (1) bekezdésben a 616/2022. (XII. 29.) Korm. rendelet 25. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
+[^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A Vhr. 1. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A Vhr 1. § (2) bekezdés b) pont ba) alpontját a 254/2013. (VII. 5.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^5]: A Vhr. 1. § (2) bekezdés c) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 396/2025. (XII. 16.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^6]: A Vhr. 1. § (2) bekezdés d) pontját a 360/2008. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított, a 396/2025. (XII. 16.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: A Vhr. 1. § (2) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A Vhr. 1. § (2) bekezdés f) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A Vhr. 1. § (2) bekezdés g) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A Vhr. 1. § (2) bekezdés h) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A Vhr. 1. § (2) bekezdés i) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A Vhr. 1. § (2) bekezdés j) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A Vhr. 1. § (2) bekezdés k) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A Vhr. 1. § (2) bekezdés l) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés b) pontja, a 464/2016. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^15]: A Vhr. 1. § (2) bekezdés m) pontját a 254/2013. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A Vhr. 1. § (2) bekezdés n) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A Vhr. 1. § (2) bekezdés o) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A Vhr. 1. § (2) bekezdés p) pontját a 364/2014. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 316/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A Vhr. 1. §-ának (3) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A Vhr. 1. § (4) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § a) pontja, a 418/2025. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^21]: A Vhr. 1. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 630/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A Vhr. 1. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 9. § a) pontja, a 463/2024. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^23]: A Vhr. 1. § (5a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^24]: A Vhr. 1. § (5b) bekezdését a 41/2024. (II. 29.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A Vhr. 1. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (2) bekezdésével megállapított, a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés a) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^26]: A Vhr. 1. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: A Vhr. 1. § (7a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 404/2017. (XII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^28]: A Vhr. 1. § (7a) bekezdés a) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^29]: A Vhr. 1. § (7a) bekezdés b) pontja a 286/2023. (VI. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^30]: A Vhr. 1. § (7b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, hatályon kívül helyezte a 20/2017. (II. 2.) Korm. rendelet 2. § (5) bekezdése.
+[^31]: A Vhr. 1. § (7c) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 20/2017. (II. 2.) Korm. rendelet 2. § (4) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: A Vhr. 1. § (7d) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 404/2017. (XII. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^33]: A Vhr. 1. § (7e) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^34]: A Vhr. 1. § (7f) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^35]: A Vhr. 1. § (7g) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^36]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta. A Vhr. 1. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 286/2023. (VI. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^37]: A Vhr. 1. § (8a) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés f) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^38]: A Vhr. 1. § (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (9) bekezdésre változtatta. Az 1. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^39]: A Vhr. 1. § (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 376/2021. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^40]: A Vhr. 1. § újabb (10) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 376/2021. (VI. 30.) Korm. rendelet 7. § a) pontja.
+[^41]: A Vhr. 1. § (10a) bekezdését a 376/2021. (VI. 30.) Korm. rendelet 3. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^42]: A Vhr. 1. § (11) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^43]: A Vhr. 1. § (12) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 315/2020. (VII. 1.) Korm. rendelet 3. § (2) bekezdése.
+[^44]: A Vhr. 1. § (13) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 807/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^45]: A Vhr. 2. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^46]: A Vhr. 2. § (1) bekezdés a) pont ai) alpontját a 128/2024. (VI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^47]: A Vhr. 2. § (1) bekezdés b) pontja a 40/2014. (II. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^48]: A Vhr. 2. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 11. §-a iktatta be, szövege a 42/2024. (II. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^49]: A Vhr. 2. § (1b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 11. §-a iktatta be.
+[^50]: A Vhr. 2. § (1c) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 11. §-a iktatta be.
+[^51]: A Vhr. 2. § (1d) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 11. §-a iktatta be.
+[^52]: A Vhr. 29. § (2) bek. a) pontja a 232/1998 (XII. 30) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. Hatályba lép 1999. január 1–jétől.
+[^53]: A Vhr. 2. § (2) bekezdés b) pontja a 254/2013. (VII. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^54]: A Vhr. 2. §-a (2) bekezdésének d) pontját a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése hatályon kívül helyezte, újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^55]: A Vhr. 2. § (2) bekezdés e) pontja a 97/2008. (IV. 29.) Korm. rendelet 4. § 83. pontja, az 53/2021. (II. 9.) Korm. rendelet 7. § a) pontja, a 410/2022. (X. 24.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^56]: A Vhr. 2. § (2) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: A Vhr. 2. §-a (2) bekezdés i) pontja a 295/2002. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^58]: A Vhr. 2. § (2) bekezdés j) pontját a 232/1998. (XII. 30) Korm. rendelet 1. § (2) bekezdése iktatta a szövegbe.
+[^59]: A 2. § (2) bekezdésének k) pontját a 154/2001. (IX. 5.) Korm. rendelet 24. §-a iktatta a szövegbe.
+[^60]: A Vhr. 2. §-a (2) bekezdésének l) pontját a 295/2002. (XII. 27.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése. Újonnan a 120/2007. (V. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 273/2010. (XII. 9.) Korm. rendelet 88. § (2) bekezdése szerint módosított szöveg.
+[^61]: A Vhr. 2. § (2) bekezdésének m) pontját a 281/2004. (X. 20.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (4) bekezdése 2007. január 1. napjával.
+[^62]: A Vhr. 2. § (2) bekezdés n) pontját a 223/2017. (VIII. 11.) Korm. rendelet 50. §-a iktatta be.
+[^63]: A Vhr. 2. §-ának (3) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdése a) pontjának ab) alpontja hatályon kívül helyezte, újonnan a 319/2006. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^64]: A Vhr. 2. §-ának (4) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 12. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 73/2011. (IV. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^65]: A Vhr. 2. § (6) bekezdése a 288/2025. (VIII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^66]: A Vhr. 2. §-ának (7) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének b) pontja.
+[^67]: A Vhr. 2. §-ának (8) bekezdését a 16/2007. (II. 13.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A Vhr. 2. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^69]: A Vhr. 2. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^70]: A Vhr. 3. § (1) bekezdése a 16/2008. (I. 31.) Korm. rendelet 1. §-ával megállapított, az 53/2021. (II. 9.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^71]: A Vhr. 3. § új (2) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(6) bekezdésének számozását (3)–(7) bekezdésre változtatta. A Vhr. 3. § (2) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 13. § a) pontja, az 53/2021. (II. 9.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^72]: A Vhr. 3. § (2a) bekezdését az 53/2021. (II. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^73]: A Vhr. 3. § (2b) bekezdését a 288/2025. (VIII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^74]: A Vhr. 3. §-ának eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A (3) bekezdés a 73/2011. (IV. 29.) Korm. rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^75]: A Vhr. 3. § (4) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^76]: A Vhr. 3. §-ának (4) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg, számozását (5) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése. A Vhr. 3. § (5) bekezdése az 53/2021. (II. 9.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^77]: A Vhr. 3. §-ának (5) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (6) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése.
+[^78]: A Vhr. 3. §-ának (6) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 3. §-a iktatta be, számozását (7) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése, szövege a 17. § (8) bekezdése a) pontjának aa) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 129–130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^79]: Lásd az 1993: III. törvényt.
+[^80]: A Vhr. 3. § (8) bekezdését újonnan a 106/2011. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A Vhr. 3. §-ának (9) bekezdését a 16/2007. (II. 13.) Korm. rendelet 2. §-a iktatta be, szövege a 65/2008. (III. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^82]: A Vhr. 3/A. §-át a 131/2006. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
+[^83]: A Vhr. 3/A. §-ának (1) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^84]: A Vhr. 3/A. § (1a) bekezdését a 92/2012. (IV. 27.) Korm. rendelet – a 107/2012. (VI. 1.) Korm. rendelet 15. § (3) bekezdése szerint módosított – 12. § (2) bekezdése iktatta be.
+[^85]: A Vhr. 3/A. § (1b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^86]: A Vhr. 3/A. § (1c) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 1. §-a iktatta be.
+[^87]: A Vhr. 3/A. §-ának (2) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 107/2012. (VI. 1.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^88]: A Vhr. 3/A. §-ának (3) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést 2007. július 1-jéig nem kell alkalmazni abban az esetben, ha a beutaló orvos a biztosítottat az adott ellátás tekintetében 2007. március 31-én ellátására kötelezett egészségügyi szolgáltatóhoz utalja be és a biztosított ellátására 2007. április 1-jétől területileg kötelezett egészségügyi szolgáltató a biztosított ellátását nem tudja biztosítani.
+[^89]: A Vhr. 3/A. §-ának (4) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést 2007. július 1-jéig nem kell alkalmazni abban az esetben, ha a beutaló orvos a biztosítottat az adott ellátás tekintetében 2007. március 31-én ellátására kötelezett egészségügyi szolgáltatóhoz utalja be és a biztosított ellátására 2007. április 1-jétől területileg kötelezett egészségügyi szolgáltató a biztosított ellátását nem tudja biztosítani.
+[^90]: A Vhr. 3/A. §-ának (5) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést 2007. július 1-jéig nem kell alkalmazni abban az esetben, ha a beutaló orvos a biztosítottat az adott ellátás tekintetében 2007. március 31-én ellátására kötelezett egészségügyi szolgáltatóhoz utalja be és a biztosított ellátására 2007. április 1-jétől területileg kötelezett egészségügyi szolgáltató a biztosított ellátását nem tudja biztosítani.
+[^91]: A Vhr. 3/A. § (5a) bekezdését a 339/2013. (IX. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^92]: A Vhr. 3/A. §-ának (6) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^93]: A Vhr. 3/A. §-ának (7) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^94]: A Vhr. 3/A. §-ának (8) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^95]: A Vhr. 3/A. §-ának (9) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^96]: A Vhr. 3/A. § (1) bekezdése számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (10) bekezdésre változtatta, szövege a 92/2012. (IV. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^97]: A Vhr. 3/A. § (10) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^98]: A Vhr. 3/A. § (10) bekezdés i) pontját a 339/2013. (IX. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^99]: A Vhr. 3/A. § (10a) bekezdését a 106/2011. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^100]: A Vhr. 3/A. § (10b) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^101]: A Vhr. 3/A. § (10b) bekezdés a) pontja a 288/2025. (VIII. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^102]: A Vhr. 3/A. § (10c) bekezdését a 92/2012. (IV. 27.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^103]: A Vhr. 3/A. § (10d) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^104]: A Vhr. 3/A. § (10e) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^105]: A Vhr. 3/A. § (10f) bekezdését a 288/2025. (VIII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^106]: A Vhr. 3/A. §-a eredeti (2) bekezdésének számozását a 63/2007. (III. 31.) Korm. rendelet 1. § (1) bekezdése (11) bekezdésre változtatta, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^107]: A Vhr. 3/A. §-ának (12) bekezdését a 63/2007. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^108]: A Vhr. 4. §-a (1) bekezdésének a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^109]: A Vhr. 4/A. §-át a 413/2015. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^110]: A Vhr. 4/A. § (1) bekezdése a 288/2025. (VIII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^111]: A Vhr. 4/A. § (1a) bekezdését a 251/2019. (X. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^112]: A Vhr. 4/A. § (1b) bekezdését a 251/2019. (X. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 288/2025. (VIII. 28.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^113]: A Vhr. 4/A. § (2) bekezdése a 251/2019. (X. 24.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^114]: A Vhr. 4/A. § (3) bekezdése a 288/2025. (VIII. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^115]: A Vhr. 4/A. § (3a) bekezdését a 251/2019. (X. 24.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 288/2025. (VIII. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^116]: A Vhr. 4/A. § (4) bekezdése a 42/2024. (II. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^118]: A Vhr. 5. §-ának (3) bekezdése a 200/2002. (IX. 14.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^119]: A Vhr. 5. §-ának (4) bekezdését a 200/2002. (IX. 14.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^120]: A Vhr. 5. § (5) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 288/2025. (VIII. 28.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^121]: A Vhr. 5/A. §-át és az azt megelőző alcímet a 111/2004. (IV. 28.) Korm. rendelet 1. §-a iktatta be. Az 5/A. § a 319/2006. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg; ez utóbbi módosító rendelet 21. § (3) bekezdésének a) pontja az 5/A. §-t megelőző alcímet hatályon kívül helyezte. A Vhr. 5/A. §-a a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^122]: A Vhr. 5/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 4. §-a iktatta be. A § eredeti szövegének számozását (1) bekezdésre változtatta a 10/2007. (II. 6.) Korm. rendelet 10. §-a. Az 5/B. § (1) bekezdésének bevezető szövegrésze a 172/2007. (VI. 29.) Korm. rendelet 12. § (8) bekezdésének a) pontja szerint módosított szöveg.
+[^123]: A Vhr. 5/B. § (1) bekezdés f) pontját a 413/2015. (XII. 23.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^124]: A Vhr. 5/B. § (2) bekezdését a 10/2007. (II. 6.) Korm. rendelet 10. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta. A Vhr. 5/B. § (2) bekezdése a 41/2007. (III. 13.) Korm. rendelet 15. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^125]: A Vhr. 5/B. §-ának (3) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^126]: A Vhr. 5/C. §-át megelőző alcímet újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
+[^127]: A Vhr. 5/C. §-át újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
+[^128]: A Vhr. 5/C. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^129]: A Vhr. 5/D. §-át újonnan a 339/2013. (IX. 25.) Korm. rendelet 2. §-a iktatta be.
+[^130]: A Vhr. 5/D. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^131]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^132]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^133]: A Vhr. 5/E. § (1a) bekezdését a 288/2025. (VIII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^134]: A Vhr. 5/E. § (1b) bekezdését a 288/2025. (VIII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^135]: A Vhr. 5/E. § (3a) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^136]: A Vhr. 5/E. § (4a) bekezdését a 42/2024. (II. 29.) Korm. rendelet – 135/2024. (VI. 28.) Korm. rendelet 4. §-a szerint módosított – 1. § (2) bekezdése iktatta be.
+[^137]: A Vhr. 5/E. § (4b) bekezdését a 42/2024. (II. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^138]: A Vhr. 5/E. § (4c) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^139]: A Vhr. 5/E. § (4d) bekezdését a 29/2025. (III. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^140]: A Vhr. 5/F. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^141]: A Vhr. 5/G. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 29/2025. (III. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^142]: A Vhr. 5/H. §-át a 4/2007. (I. 22.) Korm. rendelet 1. §-a iktatta be, az 5/H. § (1)-(5) bekezdését a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés c) pontja, az 5/H. § (6)-(14) bekezdését a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés d) pontja hatályon kívül helyezte, az 5/H. §-t újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^143]: A Vhr. 5/I. §-át újonnan a 135/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^144]: A Vhr. 5/J. §-át újonnan a 418/2025. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A Vhr. 6. §-át megelőző törvényi hivatkozás a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg.
+[^146]: A Vhr. 6. § (1) bekezdése a 24/2025. (II. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^147]: A Vhr. 6. § (2) bekezdésének második mondatát a 4/2007. (I. 22.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének g) pontja.
+[^148]: A Vhr. 6. § (4) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 24/2025. (II. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^149]: A Vhr. 7. §-át megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
+[^150]: A Vhr. 7. §-ának (1)–(2) bekezdését a 19/2007. (II. 20.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^151]: A Vhr. 7. §-ának (1)–(2) bekezdését a 19/2007. (II. 20.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^152]: A Vhr. 7. § (3) bekezdésének harmadik mondatát a 301/2004. (XI. 2.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 330/2005. (XII. 29.) Korm. rendelet 17. § (6) bekezdésének a) pontja.
+[^153]: A Vhr. 7. §-ának (4)–(5) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^154]: A Vhr. 7. §-ának (4)–(5) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^155]: A Vhr. 7. § új (6) bekezdését a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(15) bekezdés számozását (7)–(16) bekezdésre változtatva. A Vhr. 7. § (6) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^156]: A Vhr. 7. § eredeti (6) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (7) bekezdésre változtatta. A Vhr. 7. § (7) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^157]: A Vhr. 7. § eredeti (7) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (8) bekezdésre változtatta, szövegét a 218/2005. (X. 11.) Korm. rendelet 2. §-a állapította meg. A Vhr. 7. § (8) bekezdése a 288/2006. (XII. 23.) Korm. rendelet 10. § (5) bekezdése alapján 2007. április 1. napján hatályát vesztette.
+[^158]: A Vhr. 7. § eredeti (8) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (9) bekezdésre változtatta, szövege a 330/2005. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. A Vhr. 7. § (9) bekezdése a 288/2006. (XII. 23.) Korm. rendelet 10. § (5) bekezdése alapján 2007. április 1. napján hatályát vesztette.
+[^159]: A Vhr. 7. § eredeti (9) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (10) bekezdésre változtatta. A Vhr. 7. § (10) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^160]: A Vhr. 7. § eredeti (10) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (11) bekezdésre változtatta. A Vhr. 7. § (11) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^161]: A Vhr. 7. § eredeti (11) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (12) bekezdésre változtatta. A Vhr. 7. § (12) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^162]: A Vhr. 7. § eredeti (12) bekezdésének számozását a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése (13) bekezdésre változtatta. A Vhr. 7. § (13) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^163]: A Vhr. 7. §-ának (13) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 2. §-a iktatta be; a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése számozását (14) bekezdésre változtatta. A Vhr. 7. § (14) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^164]: A Vhr. 7. §-ának (14) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 2. §-a iktatta be; a 194/2004. (VI. 19.) Korm. rendelet 2. §-ának (2) bekezdése számozását (15) bekezdésre változtatta. A Vhr. 7. § (15) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
+[^165]: A Vhr. 7. § (16) bekezdését újonnan a 301/2004. (XI. 2.) Korm. rendelet 1. §-ának (7) bekezdése iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^166]: A Vhr. 7. § (17) bekezdését a 301/2004. (XI. 2.) Korm. rendelet 1. §-ának (7) bekezdése iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^167]: A Vhr. 7. § (18) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^168]: A Vhr. 7/A. §-a előtti alcímet a 91/2004. (IV. 26.) Korm. rendelet 2. §-a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 5. §-a állapította meg.
+[^169]: A Vhr. 7/A. §-át a 111/2000. (VI. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^170]: A Vhr. 7/A. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^171]: A Vhr. 7/A. § (4) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^172]: A Vhr. 7/A. § (5) bekezdése a 137/2012. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^173]: A Vhr. 7/A. § (6) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^174]: A Vhr. 7/A. § (6a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^175]: A Vhr. 7/A. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^176]: A Vhr. 7/B. §-át a 111/2000. (VI. 29.) Korm. rendelet 3. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^177]: A Vhr. 7/B. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 3. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^178]: A Vhr. 7/B. § (3) bekezdés b) pontja a a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^179]: A Vhr. 7/B. § (3) bekezdés c) pontja a a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^180]: A Vhr. 7/B. § (3a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^181]: A Vhr. 7/B. § (4) bekezdés b) pontja a a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^182]: A Vhr. 7/B. § (4a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^183]: A Vhr. 7/B. § (5) bekezdés b) pontja a a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^184]: A Vhr. 7/B. § (5) bekezdés c) pontja a a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^185]: A Vhr. 7/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^186]: A Vhr. 7/C. §-át a 111/2000. (VI. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 151/2010. (IV. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^187]: A Vhr. 7/C. § (1) bekezdés b) pontja a 325/2011. (XII. 28.) Korm. rendelet 4. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 17. § c) pontja, a 128/2024. (VI. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^188]: A Vhr. 7/C. § (2) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^189]: A Vhr. 7/C. § (3) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^190]: A Vhr. 7/C. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 27. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^191]: A Vhr. 7/C. § (5) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^192]: A Vhr. 7/C. § (6) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 17. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^193]: A Vhr. 7/D. §-át a 295/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^194]: A Vhr. 8. §-a a 111/2000. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^195]: A Vhr. 8. §-ának (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 172/2007. (VI. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított, az 520/2013. (XII. 30.) Korm. rendelet 19. § d) pontja, a 192/2015. (VII. 21.) Korm. rendelet 16. § c) pont ca) alpontja szerint módosított szöveg.
+[^196]: A Vhr. 8. § (1) bekezdés a) pontja a 283/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 16. § c) pont cb) alpontja, záró szövegrésze a 360/2008. (XII. 31.) Korm. rendelet 16. § (3) bekezdése, a 447/2012. (XII. 29.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^197]: A Vhr. 8. § (1) bekezdés b) pontja a 283/2008. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított, záró szövegrésze a 447/2012. (XII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^198]: A Vhr. 8. § (1) bekezdés d) pontját a 91/2004. (IV. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) 14. § a) pontja.
+[^199]: A Vhr. 8. §-ának (2) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^200]: A Vhr. 8. § (3) bekezdése a 283/2008. (XI. 28.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^201]: A Vhr. 8. §-ának új (4) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 3. §-a iktatta be, egyidejűleg az eredeti (4)–(7) bekezdésének számozását (5)–(8) bekezdésre változtatta. A Vhr. 8. § (4) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^202]: A Vhr. 8. § (4) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 8. § (2) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a. A Vhr. 8. § (5) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^203]: A Vhr. 8. § (5a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^204]: A Vhr. 8. § (5) bekezdését a 288/2006. (XII. 23.) Korm. rendelet 9. §-a iktatta be, számozását (6) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a. A Vhr. 8. § (6) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^205]: A Vhr. 8. §-ának (6) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 10. § (3) bekezdése iktatta be. A (6) bekezdés számozását (7) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 3. §-a.
+[^206]: A Vhr. 8. § (7) bekezdését a 172/2007. (VI. 29.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^207]: A Vhr. 8. § (9) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^208]: A Vhr. 8. § (10) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^209]: A Vhr. 8/A. §-át a 413/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^210]: A Vhr. 9. §-át a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte, újonnan a 325/2011. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^211]: A Vhr. 9. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 19. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^213]: A Vhr. 10/A.§-át a 203/1999. (XII. 26.) Korm. rendelet 2.§-a iktatta be.
+[^214]: A Vhr. 10/A. §-ának (1) bekezdését a 111/2000. (VI. 29.) Korm. rendelet 8. § (2) bekezdése, 9. § c) pontja, a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^215]: A Vhr. 10/A. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^216]: A Vhr. 10/A. §-ának (4) bekezdését a 111/2000. (VI. 29.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, hatályon kívül helyezte a 113/2005. (VI. 25.) Korm. rendelet 18. § (4) bekezdésének b) pontja.
+[^217]: A Vhr. 10/A. §-ának (5)-(6) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^218]: A Vhr. 10/A. §-ának (5)-(6) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^220]: A Vhr. 10/C. §-át a 295/2002. (XII. 27.) Korm. rendelet 11. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^221]: A Vhr. 10/C. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^222]: A Vhr. 10/C. § (1) bekezdés d) pontja a 464/2016. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^223]: A Vhr. 10/C. § (1) bekezdés e) pontját a 151/2010. (IV. 30.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^224]: A Vhr. 10/C. § (3) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^225]: A Vhr. 10/D. §-át a 91/2004. (IV. 26.) Korm. rendelet 8. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^226]: A Vhr. 10/E. §-át újonnan a 266/2005. (XII. 14.) Korm. rendelet 6. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 182. § a) pontja szerint módosított szöveg.
+[^227]: A Vhr. 10/F. §-át a 330/2005. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^228]: A Vhr. 10/F. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^229]: A Vhr. 10/F. §-ának (2) bekezdése a 319/2006. (XII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^230]: A Vhr. 10/F. § (3) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 4. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) és e) pontja szerint módosított szöveg.
+[^231]: A Vhr. 10/F. § (3a) bekezdését a 325/2011. (XII. 28.) Korm. renedelet 8. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^232]: A Vhr. 10/F. § (4) bekezdése a 185/2011. (IX. 9.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^233]: A Vhr. 10/F. § (4a) bekezdését a 185/2011. (IX. 9.) Korm. rendelet 14. §-a iktatta be.
+[^234]: A Vhr. 10/F. § (5) bekezdése a 325/2011. (XII. 28.) Korm. renedelet 8. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) és e) pontja szerint módosított szöveg.
+[^235]: A Vhr. 10/F. §-ának (6) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 13. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^236]: A Vhr. 10/F. § (7) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^239]: A Vhr. 11. §-át megelőző alcímet a 319/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, az „Utazási költségtérítési támogatás” alcím (Vhr. 11. §) a 807/2021. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^240]: A Vhr. 11. § (3) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^241]: A 11. § (5) bekezdés d) pontja az 571/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^242]: A Vhr. 11. § (5) bekezdés e) pontja a 231/2022. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^243]: A Vhr. 11. § (14) bekezdés nyitó szövegrésze a 288/2025. (VIII. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^244]: A Vhr. 11. § (14) bekezdés a) pontja a 288/2025. (VIII. 28.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^245]: A Vhr. 11. § (14) bekezdés c) pontját a 313/2025. (X. 17.) Korm. rendelet 1. §-a iktatta be.
+[^246]: A Vhr. 11. § (15) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 2. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 5. § b) pontja, a 288/2025. (VIII. 28.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^247]: A Vhr. 11/A. §-át megelőző alcímet a 319/2006. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^248]: A Vhr. 11/A. §-át a 232/1998. (XII. 30.) Korm. rendelet 17. § (1) bekezdése hatályon kívül helyezte. Újonnan beiktatta a 207/2000. (XII. 11.) Korm. rendelet 1. §-a, szövege a 319/2006. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^249]: A Vhr. 11/A. § (2) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^250]: A Vhr. 11/A. § (4) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^251]: A Vhr. 11/A. § (5)–(6) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 336/2009. (XII. 29.) Korm. rendelet 19. § (7) bekezdés a) pontja.
+[^252]: A Vhr. 11/A. § (5)–(6) bekezdését a 72/2009. (IV. 3.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 336/2009. (XII. 29.) Korm. rendelet 19. § (7) bekezdés a) pontja.
+[^253]: A Vhr. 11/B. §-át és az azt megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^254]: A Vhr. 11/B. § (1) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^255]: A Vhr. 11/B. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^256]: A Vhr. 11/B. § (3) bekezdésének nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 130. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 7. pontja, a 287/2018. (XII. 21.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^257]: A Vhr. 11/B. § (3) bekezdésének a) pontja a 111/2004. (IV. 28.) Korm. rendelet 9. § (4) bekezdésének c) pontja szerint módosított szöveg.
+[^258]: A Vhr. 11/B. § (3) bekezdés c) pontja a 40/2014. (II. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^259]: A Vhr. 11/B. § (3) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^260]: A Vhr. 11/B. § (4) bekezdését újonnan a 447/2012. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^261]: A Vhr. 11/B. § (5) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^262]: A Vhr. 11/C. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^263]: A Vhr. 11/C. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^264]: A Vhr. 11/C. §-a (2) bekezdésének c) pontja a 113/2005. (VI. 25.) Korm. rendelet 18. § (5) bekezdésének d) pontja szerint módosított szöveg.
+[^265]: A Vhr. 11/C. § (3) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 50. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^266]: A Vhr. 11/C. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^267]: A Vhr. 11/D. § előtti alcímét a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, szövege a 113/2005. (VI. 25.) Korm. rendelet 11. §-ával megállapított, a 366/2010. (XII. 30.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^268]: A Vhr. 11/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^269]: A Vhr. 11/D. § (1) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^270]: A Vhr. 11/D. § (1a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 49. § (2) bekezdésével megállapított, a 408/2024. (XII. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^271]: A Vhr. 11/D. § (2) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 11. pontja, a 287/2018. (XII. 21.) Korm. rendelet 8. § b) pontja, a 463/2024. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^272]: A Vhr. 11/D. § (2) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^273]: A 11/D. § (2) bekezdés b) pont bb) alpontja a 334/2023. (VII. 20.) Korm. rendelet 3. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^274]: A Vhr. 11/D. § (2) bekezdés c) pont cb) alpontja a 447/2012. (XII. 29.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^275]: A Vhr. 11/D. § (2) bekezdés c) pont cd) alpontját a 366/2010. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^276]: A Vhr. 11/D. § (2) bekezdés c) pont ce) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^277]: A Vhr. 11/D. § (2) bekezdés c) pont cf) alpontját az 520/2013. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^278]: A Vhr. 11/D. § (2) bekezdés c) pont cg) alpontját a 192/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^279]: A Vhr. 11/D. § (2) bekezdés d) pontját a 447/2012. (XII. 29.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^280]: A Vhr. 11/D. § (2) bekezdés e) pontját a 325/2011. (XII. 28.) Korm. rendelet 9. §-a iktatta be, a 463/2024. (XII. 30.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^281]: A Vhr. 11/D. § (2a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^282]: A Vhr. 11/D. § új (3) bekezdését a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3)–(4) bekezdés számozását (4)–(5) bekezdésre változtatva. A Vhr. 11/D. § (3) bekezdése a 71/2021. (II. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^283]: A 11/D. § (3) bekezdés a) pont záró szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^284]: A Vhr. 11/D. § (3a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 155/2025. (VI. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^285]: A Vhr. 11/D. § (3b) bekezdését a 71/2021. (II. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 334/2023. (VII. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^286]: A Vhr. 11/D. § (3c) bekezdését a 71/2021. (II. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^287]: A Vhr. 11/D. § (3d) bekezdését a 71/2021. (II. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^288]: A Vhr. 11/D. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése. A Vhr. 11/D. § (4) bekezdését újonnan a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 18. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 50. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^289]: A Vhr. 11/D. § (4a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 6. §-a, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^290]: A Vhr. 11/D. § (4) bekezdését a 281/2004. (X. 20.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, számozását (5) bekezdésre változtatta a 234/2008. (IX. 23.) Korm. rendelet 1. § (3) bekezdése, szövege a 336/2009. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^291]: A Vhr. 11/D. § (6) bekezdését újonnan a 447/2012. (XII. 29.) Korm. rendelet 8. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^292]: A Vhr. 11/E. §-t a 130/2003. (VIII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^293]: A Vhr. 11/E. § (1) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^294]: A Vhr. 11/E. § (1a) bekezdését a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^295]: A 11/E. § (1b) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^296]: A 11/E. § (1c) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^297]: A 11/E. § (1d) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^298]: A 11/E. § (1e) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^299]: A 11/E. § (1f) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^300]: A 11/E. § (1g) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^301]: A 11/E. § (1h) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^302]: A 11/E. § (1i) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, a 32/2024. (II. 22.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^303]: A 11/E. § (1j) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 32/2024. (II. 22.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^304]: A Vhr. 11/E. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § g) pontja hatályon kívül helyezte.
+[^305]: A Vhr. 11/E. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^306]: A Vhr. 11/F. §-át a 447/2012. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^307]: A Vhr. 11/G. §-át a 2/2025. (I. 23.) Korm. rendelet 1. §-a iktatta be.
+[^308]: A Vhr. 11/G. § (1) bekezdése a 111/2026. (VII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^309]: A hatálybalépés időpontja 2026. július 19.
+[^310]: A Vhr. 12. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított, a 659/2023. (XII. 28.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^311]: A Vhr. 12. §-ának (2) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 9. §-ának (3) bekezdése hatályon kívül helyezte.
+[^312]: A Vhr. 12. § (3) bekezdése a 113/2005. (VI. 25.) Korm. rendelet 13. § (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^313]: A Vhr. 12. § új (4) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^314]: A Vhr. 12. §-a eredeti (4) bekezdésének számozását (5) bekezdésre változtatta és szövegét megállapította a 113/2005. (VI. 25.) Korm. rendelet 13. § (3)–(4) bekezdése. A Vhr. 12. §-ának (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) és d) pontja szerint módosított szöveg.
+[^315]: A Vhr. 12. §-a eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövegét e módosító rendelet 13. § (4) bekezdése állapította meg. A Vhr. 12. § (6) bekezdése a 339/2013. (IX. 25.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^316]: A Vhr. 12. §-ának új (6) bekezdését a 203/1999. (XII. 26.) Korm. rendelet 4. §-a iktatta be, mely az eredeti (6)–(9) bekezdések számozását (7)–(10) bekezdésre változtatta; a (6) bekezdés számozását (7) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^317]: A Vhr. 12. §-ának (7) – eredeti (6) – bekezdését a 232/1998. (XII. 30.) Korm. rendelet 5. §-ának (2) bekezdése iktatta be, számozását (8) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (3) bekezdése, szövege e módosító rendelet 13. § (5) bekezdésével megállapított szöveg. A Vhr. 12. § (8) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 7. § a) pontja, a 102/2019. (V. 6.) Korm. rendelet 2. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^318]: A Vhr. 12. §-ának új (9) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése iktatta be, egyidejűleg a korábbi (9)–(13) bekezdés számozását (10)–(14) bekezdésre változtatva. A Vhr. 12. § (9) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 7. § b) pontja, a 102/2019. (V. 6.) Korm. rendelet 2. § b) pontja, az 529/2020. (XI. 28.) Korm. rendelet 1. § c) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^319]: A Vhr. 12. § (8) – eredeti (7) – bekezdését a 232/1998. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, felvezető mondata a 111/2004. (IV. 28.) Korm. rendelet 9. § (4) bekezdésének e) pontja szerint módosított szöveg, számozását (10) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése.
+[^320]: A Vhr. 12. § (11) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^321]: A Vhr. 12. § (12) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 16. pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés c) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^322]: A Vhr. 12. §-ának (11) bekezdését a 111/2004. (IV. 28.) Korm. rendelet 3. §-ának (3) bekezdése iktatta be, számozását (13) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése. A Vhr. 12. § (13) bekezdését a 339/2013. (IX. 25.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^323]: A Vhr. 12. § (12) bekezdését a 281/2004. (X. 20.) Korm. rendelet 8. §-ának (2) bekezdése iktatta be, számozását (14) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 13. § (6) bekezdése, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^324]: A Vhr. 12/A. §-át a 232/1998. (XII. 30.) Korm. rendelet 6. §–a iktatta be, szövegét újonnan a 113/2005. (VI. 25.) Korm. rendelet 14. §-a állapította meg.
+[^325]: A Vhr. 12/A. § (1) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés e) pontja, a 30/2020. (II. 29.) Korm. rendelet 4. § (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^326]: A Vhr. 12/A. §-ának (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
+[^327]: A Vhr. 12/A. § (3) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át. A (3) bekezdés a 30/2020. (II. 29.) Korm. rendelet 4. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^328]: A Vhr. 12/A. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 11. §-a iktatta be, szövege a 410/2022. (X. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg. [ A 12/A. § (3a) bekezdésben a 616/2022. (XII. 29.) Korm. rendelet 25. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át. ]
+[^329]: A Vhr. 12/A. § (3b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 11. §-a iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^330]: A Vhr. 12/A. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^331]: A Vhr. 12/A. § (6a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 49. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^332]: A Vhr. 12/A. § (6b) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^333]: A Vhr. 12/A. § (6c) bekezdését a 194/2019. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^334]: A Vhr. 12/A. §-ának új (7) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7)–(14) bekezdésének számozását (8)–(15) bekezdésre változtatta. A Vhr. 12/A. § (7) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^335]: A 12/A. § (7) bekezdés a) pontja az 561/2023. (XII. 14.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^336]: A Vhr. 12/A. § (7) bekezdés b) pontja az 507/2017. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^337]: A Vhr. 12/A. § (7a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^338]: A Vhr. 12/A. § (7b) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^339]: A Vhr. 12/A. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^340]: A Vhr. 12/A. §-ának eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése, szövege a 17. § (8) bekezdése a) pontjának ae) alpontja, a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 21. pontja, a 447/2012. (XII. 29.) Korm. rendelet 18. § h) pontja, a 13/2020. (II. 7.) Korm. rendelet 9. § 1. pontja, a 316/2020. (VII. 1.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^341]: A Vhr. 12/A. § (9a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^342]: A Vhr. 12/A. § (10) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^343]: A Vhr. 12/A. § (11) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^344]: A Vhr. 12/A. § (12) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 7. §-a iktatta be, szövege a 316/2020. (VII. 1.) Korm. rendelet 6. § b) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^345]: A Vhr. 12/A. § (13) bekezdését újonnan a 194/2019. (VII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^346]: A Vhr. 12/A. § (14) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 13. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^347]: A Vhr. 12/A. §-ának eredeti (14) bekezdésének számozását (15) bekezdésre változtatta a 330/2005. (XII. 29.) Korm. rendelet 10. § (2) bekezdése, újonnan a 447/2012. (XII. 29.) Korm. rendelet 10. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés g) pontja szerint módosított szöveg.
+[^348]: A Vhr. 12/A. § (16) bekezdését újonnan a 339/2013. (IX. 25.) Korm. rendelet 3. §-a iktatta be.
+[^349]: A Vhr. 12/B. §-át a 35/2007. (III. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 312/2007. (XI. 17.) Korm. rendelet 2. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 4. § (1) bekezdése alapján a rendelkezést 2007. december 1. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni; a 4. § (3) bekezdése alapján a gyógyszer- és gyógyászati segédeszköz-forgalmazást végző, valamint gyógyászati ellátást nyújtó egészségügyi szolgáltatók tekintetében 2008. január 1. napjától kell alkalmazni.
+[^350]: A Vhr. 12/B. § (1) bekezdése a 151/2008. (V. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 277/2021. V. 26.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^351]: A Vhr. 12/B. § (1a) bekezdését a 13/2012. (II. 14.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^352]: A Vhr. 12/B. §-ának (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^353]: A Vhr. 12/B. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^354]: A Vhr. 12/B. § (4) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^355]: A Vhr. 12/B. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés g) pontja szerint módosított szöveg.
+[^356]: A Vhr. 12/B. §-a (5) bekezdésének b) pontja a 366/2010. (XII. 30.) Korm. rendelet 14. § 25. pontja, a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés m) pontja szerint módosított szöveg.
+[^357]: A Vhr. 12/B. § (5) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^358]: A Vhr. 12/B. § (6) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^359]: A Vhr. 12/B. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^360]: A Vhr. 12/B. § (9) bekezdése a 225/2010. (VIII. 12.) Korm. rendelet 10. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^361]: A Vhr. 12/B. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^362]: A Vhr. 12/B. §-ának (11) bekezdését a 151/2008. (V. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés h) pontja szerint módosított szöveg.
+[^363]: A Vhr. 12/B. §-ának (12) bekezdését a 151/2008. (V. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 360/2008. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^364]: A Vhr. 12/B. §-ának (13) bekezdését a 151/2008. (V. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^365]: A Vhr. 12/B. §-ának (14) bekezdését a 193/2008. (VII. 31.) Korm. rendelet 10. § (5) bekezdése iktatta be.
+[^366]: A Vhr. 12/A. §-ának (15) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés b) pontja. Ez utóbbi módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
+[^367]: A Vhr. 12/C. §-át újonnan a 106/2011. (VI. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés i) pontja szerint módosított szöveg.
+[^368]: A Vhr. 12/D. §-át a 277/2021. V. 26.) Korm. rendelet 1. §-a iktatta be.
+[^369]: A Vhr. 13. §-át megelőző alcím a 447/2012. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^370]: A Vhr. 13. §-át újonnan a 281/2004. (X. 20.) Korm. rendelet 9. §-a iktatta be, szövege a 325/2011. (XII. 28.) Korm. rendelet a 13. § c) pontja, a 323/2015. (X. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^371]: A Vhr. 13/A. §-át újonnan a 10/2007. (II. 6.) Korm. rendelet 11. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^375]: A Vhr. 14. § (1) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^376]: A Vhr. 14. § (1a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 5. §-a iktatta be.
+[^377]: A Vhr. 14. § (1a) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) és j) pontja szerint módosított szöveg.
+[^378]: A Vhr. 14. § (1a) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^379]: A Vhr. 14. § (1a) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés j) pontja szerint módosított szöveg.
+[^380]: A Vhr. 14. §-ának (2) bekezdése a 203/1999. (XII. 26.) Korm. rendelet 17. § (1) bekezdésének a) pontja, a 264/2003. (XII. 24.) Korm. rendelet 27. § (6) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^381]: A Vhr. 14. §-ának (3) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 9. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^382]: A Vhr. 14. § (4) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^383]: A Vhr. 14. § (5) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 659/2023. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^384]: A Vhr. 15. §-a a 102/2003. (VII. 17.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^385]: A Vhr. 15. § (1) bekezdését újonnan a 131/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 7. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^386]: A Vhr. 15. § (2) bekezdését a 281/2004. (X. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 292/2009. (XII. 19.) Korm. rendelet 244. § j) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^387]: A Vhr. 16. § (1) bekezdése a 295/2002. (XII. 27.) Korm. rendelet 13. §-ával megállapított, valamint a 264/2003. (XII. 24.) Korm. rendelet 27. §-ának (7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja, a 13/2020. (II. 7.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^388]: A Vhr. 16. §-ának (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^389]: A Vhr. 16. § (3) bekezdése a 264/2003. (XII. 24.) Korm. rendelet 27. § (6)–(7) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^390]: A Vhr. 16. § (4) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 12. § b) pontja hatályon kívül helyezte.
+[^391]: A Vhr. 16. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^392]: A Vhr. 17. § (1) bekezdésének nyitó szövegrésze a 295/2002. (XII. 27.) Korm. rendelet 23. § (4) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^393]: Lásd a 43/1999. (III. 3.) Korm. rendelet 9. §-át.
+[^394]: A Vhr. 18. §-ának (1) bekezdését a 43/1999. (III. 3.) Korm. rendelet 52. §-ának (3) bekezdése hatályon kívül helyezte.
+[^395]: A Vhr. 19. §-a a 41/2007. (III. 13.) Korm. rendelet 17. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^396]: A Vhr. 20. §-a a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (4) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 410/2022. (X. 24.) Korm. rendelet 1. § a) pontja szerint módosított szöveg. [ A 20. §-ban a 616/2022. (XII. 29.) Korm. rendelet 25. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át. ]
+[^397]: A Vhr. 20. §-át a 336/2009. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^398]: A Vhr. 20/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) és d) pontja szerint módosított szöveg.
+[^399]: A Vhr. 20/A. § (4) bekezdés záró szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^400]: A Vhr. 20/A. § (4) bekezdés c) pontját a 137/2012. (VI. 29.) Korm. rendelet 6. §-a iktatta be.
+[^401]: A Vhr. 20/A. § (5) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^402]: A Vhr. 20/B. §-át a 73/2011. (IV. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^403]: A Vhr. 21. § eredeti szövegének jelölését (1) bekezdésre változtatta a 264/2003. (XII. 24.) Korm. rendelet 27. § (5) bekezdésének b) pontja. Az (1) bekezdés szövege a 364/2007. (XII. 23.) Korm. rendelet 3. §-ával megállapított, a 297/2008. (XII. 11.) Korm. rendelet 5. § (6) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^404]: A Vhr. 21. § (2) bekezdését a 264/2003. (XII. 24.) Korm. rendelet 27. § (5) bekezdésének b) pontja iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A 21. § (2) bekezdése a 13/2012. (II. 14.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^405]: A Vhr. 21. § (3) bekezdését a 13/2012. (II. 14.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^406]: A Vhr. 21. § (4) bekezdését a 13/2012. (II. 14.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 309/2019. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^407]: A Vhr. 21/A. §-át a 336/2009. (XII. 29.) Korm. rendelet 9. §-a iktatta be, szövege a 137/2012. (VI. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^408]: A Vhr. 21/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^409]: A Vhr. 21/B. §-át a 221/2014. (IX. 4.) Korm. rendelet 181. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^410]: A Vhr. 22. §-a a 113/2005. (VI. 25.) Korm. rendelet 15. §-ával megállapított szöveg. E módosító rendelet 18. § (3) bekezdése alapján gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosító, a finanszírozott egészségügyi szolgáltató orvosával megkötött, 2005. július 1-jén érvényes szerződéseket a 2005. július 1-jét követő harmadik hónap utolsó napjával fel kell bontani és addig – az Ebtv. 31. §-a (1) bekezdése c) pontjának megfelelően – a finanszírozási szerződésekben meg kell határozni a gyógyszer, illetve gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok körét. Ehhez a finanszírozott egészségügyi szolgáltatóknak 2005. augusztus 31-éig tájékoztatnia kell az illetékes MEP-et a szolgáltatónál dolgozó, gyógyszer, gyógyászati segédeszköz támogatással történő rendelésére jogosult orvosok köréről.
+[^411]: A Vhr. 22. § (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg. E módosító rendelet 17. § (9) bekezdése alapján 2006. január 1-jével a rendelkezés szerint módosulnak az ebben az időpontban érvényes, az Ebtv. 32. § (1) és (5) bekezdése szerinti szerződések.
+[^412]: A 22. § (1a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^413]: A Vhr. 22. § (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 325/2011. (XII. 28.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^414]: A Vhr. 22. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.
+[^415]: A Vhr. 22. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^416]: A Vhr. 22. § (6) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 41. pontja szerint módosított szöveg.
+[^417]: A Vhr. 22. § (6) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^418]: A Vhr. 22. § (6) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^419]: A Vhr. 22. § (6) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^420]: A Vhr. 22. § (6) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^421]: A Vhr. 22. § (6) bekezdés e) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^422]: A Vhr. 22. § (6a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^423]: A Vhr. 22. § (7) bekezdése a 336/2009. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^424]: A Vhr. 22. § (8) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^425]: A Vhr. 22. § (9) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 130. §-a. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^426]: A Vhr. 22. § (10) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (4) bekezdése iktatta be, hatályon kívül helyezte a 366/2010. (XII. 30.) Korm. rendelet 15. § g) pontja.
+[^427]: A Vhr. 22. § (11) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 17. § (10) bekezdését.
+[^428]: A Vhr. 22. § (11) bekezdés a) pontja a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^429]: A Vhr. 22. § (11) bekezdés c) pontját a 659/2023. (XII. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^430]: A Vhr. 22. § (11a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^431]: A Vhr. 22. § (12) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja, a 418/2025. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^432]: A Vhr. 22. § (12a) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 418/2025. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^433]: A Vhr. 22. § (13) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^434]: A Vhr. 22/A. §-át a 330/2005. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^435]: A Vhr. 22/A. § (1a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^436]: A Vhr. 22/A. §-ának (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja szerint módosított szöveg.
+[^437]: A Vhr. 22/A. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés k) pontja szerint módosított szöveg.
+[^438]: A Vhr. 22/B. §-át a 447/2012. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^439]: A Vhr. 22/B. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^440]: A Vhr. 22/B. § (3) bekezdését a 204/2016. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^441]: A Vhr. 23. §-ának eredeti szövegének jelölését (1) bekezdésre változtatta a 113/2005. (VI. 25.) Korm. rendelet 16. §-a, hatályon kívül helyezte a 63/2006. (III. 27.) Korm. rendelet 61. § (1) bekezdésének p) pontja.
+[^442]: A Vhr. 23. §-ának (2) bekezdését a 113/2005. (VI. 25.) Korm. rendelet 16. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A (2) bekezdés a 447/2012. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^443]: A Vhr. 23. § (3) bekezdését a 3139/2009. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege a 336/2009. (XII. 29.) Korm. rendelet 19. § (5) bekezdés b) pontja szerint módosított szöveg; ez utóbbi módosító rendelet 19. § (3) bekezdése alapján a rendelkezést a 2010. január 1-jét követően kiszolgáltatott gyógyszer, forgalmazott gyógyászati segédeszköz, nyújtott gyógyászati ellátás, valamint egyedi méretvétel alapján rendelésre készített gyógyászati segédeszköz vonatkozásában kell alkalmazni.
+[^444]: A Vhr. 24. §-a a 232/1998. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított, nyitó szövegrésze a 295/2002. (XII. 27.) Korm. rendelet 23. § (4) bekezdésének a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^445]: A Vhr. 24. § a) pontja a 192/2015. (VII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^446]: A Vhr. 24. § a) pont ab) alpontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (12) bekezdés b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^447]: A Vhr. 24. § b) pontját a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^448]: A Vhr. 24. §-ának c) pontját a 200/2006. (X. 2.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 6. § (2) bekezdése alapján a rendelkezést a 2006. október 16. napját követően kiállított vények esetén kell alkalmazni.
+[^449]: A Vhr. 25. §-a a 113/2005. (VI. 25.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^450]: A Vhr. 25. §-ának (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 14. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^451]: Lásd az 5/2004. (XI. 19.) EüM rendeletet.
+[^452]: A Vhr. 25. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^453]: A Vhr. 25. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^454]: A Vhr. 25/A §-át újonnan a 207/2000. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 319/2006. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 21. § (2) bekezdése alapján a rendelkezést a háziorvosi ellátás, fogászati alapellátás és a járóbeteg-szakellátások vonatkozásában 2008. január 1-jétől kell alkalmazni.
+[^455]: A Vhr. 25/A. § (1) bekezdését a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
+[^456]: A Vhr. 25/A. § (2) bekezdését a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 4. §-a alapján a rendelkezést a 2009. július 15. napját követően megkezdett egészségügyi szolgáltatások tekintetében kell alkalmazni.
+[^457]: A Vhr. 25/A. § (3) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^458]: A Vhr. 25/A. § (4) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^459]: A Vhr. 25/A. § (5) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^460]: A Vhr. 25/A. § (6) bekezdését újonnan a 43/2008. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^461]: A Vhr. 25/A. § (6) bekezdésének d) pontját a 79/2008. (IV. 3.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^462]: A Vhr. 25/A. § (7) bekezdését a 364/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 16. § (2) bekezdése alapján a rendelkezés 2008. január 1. napján lépett hatályba.
+[^463]: A Vhr. 25/A. § (8) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 141/2009. (VII. 3.) Korm. rendelet 1. § (1) bekezdés c) pontja, újonnan a 366/2010. (XII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^464]: A Vhr. 25/B. §-át a 319/2006. (XII. 23.) Korm. rendelet 15. §-a iktatta be, szövege a 366/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^465]: A Vhr. 25/B. § (1) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^466]: A Vhr. 25/B. § (6) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^467]: A Vhr. 25/B. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés n) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^468]: A Vhr. 25/B. § (8) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 417/2015. (XII. 23.) Korm. rendelet 10. §-a.
+[^469]: A Vhr. 25/B. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^470]: A Vhr. 26. §-át megelőző alcím a 295/2002. (XII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^471]: A Vhr. 26. §-a a 305/2019. (XII. 12.) Korm. rendelet 1. §-ával megállapított, a 316/2020. (VII. 1.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^472]: A Vhr. 26/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 6. §-a iktatta be.
+[^473]: A Vhr. 26/A. § (1) bekezdése a 305/2019. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^474]: A Vhr. 26/A. § (2) bekezdését újonnan a 325/2011. (XII. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 18. § e) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^475]: A Vhr. 26/A. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 11. § (2) bekezdése iktatta be, nyitó szövegrésze a 364/2014. (XII. 30.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^476]: A Vhr. 26/a. § (2a) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés l) pontja szerint módosított szöveg.
+[^477]: A Vhr. 26/A. § (2a) bekezdés h) pontja a 364/2014. (XII. 30.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^478]: A Vhr. 26. §-a (3) bekezdését a 207/2000. (XII. 11.) Korm. rendelet 4.§-a iktatta be.
+[^479]: A Vhr. 26/B. §-át a 203/1999. (XII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^481]: A Vhr. 26/D. §-át az 520/2013. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^482]: A Vhr. 26/D. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 310/2019. (XII. 18.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^483]: A Vhr. 26/D. § (2) bekezdése a 310/2019. (XII. 18.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^484]: A Vhr. 27. § (1) bekezdése a 463/2024. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^485]: A Vhr. 27. § (1a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^486]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^487]: A 27. § (3) bekezdés c) pontja a 137/2012. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^488]: A Vhr. 27/A. §-át a 295/2002. (XII. 27.) Korm. rendelet 17. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^489]: A Vhr. 27/A. § (1) bekezdése a 425/2025. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^490]: A Vhr. 27/A. § (1a) bekezdését a 449/2016. (XII. 19.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 376/2021. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^491]: A Vhr. 27/A. § (1b) bekezdését a 396/2025. (XII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^492]: A Vhr. 27/A. § (3) bekezdése a 425/2025. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^493]: A Vhr. 27/B. §-át a 396/2025. (XII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^494]: A Vhr. 28. § (1) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^495]: A Vhr. 28. § (1a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 413/2015. (XII. 23.) Korm. rendelet 10. § c) pontja.
+[^496]: A Vhr. 28. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
+[^497]: A Vhr. 28. § (4) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^498]: A Vhr. 28. § (5) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § f) pontja, a 277/2021. V. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^499]: A Vhr. 28. § (6) bekezdését a 204/2019. (VIII. 23.) Korm. rendelet 2. §-a iktatta be, szövege az 543/2020. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^500]: A Vhr. 29. § (1) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 21. § (3) bekezdésének g) pontja hatályon kívül helyezte.
+[^501]: A Vhr. 29. § (2) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^502]: A Vhr. 29. §-ának (3) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^503]: A Vhr. 30. §-a a 172/2016. (VII. 1.) Korm. rendelet 10. §-ával megállapított, a 404/2017. (XII. 15.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^504]: A Vhr. 31. §-a a 228/2001. (XI. 30.) Korm. rendelet 4. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 11. §-ának (3) bekezdése alapján a 2001. november 23-át követően kezdődő igényjogosultság esetében kell alkalmazni.
+[^505]: A Vhr. 31. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 9. §-ával megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § g) pontja, a 316/2020. (VII. 1.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^506]: A Vhr. 31. § (1a) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 6. §-a iktatta be, szövege a 316/2020. (VII. 1.) Korm. rendelet 6. § e) pontja, a 286/2023. (VI. 30.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^507]: A Vhr. 31. § (2) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 9. §-ával megállapított, a 316/2020. (VII. 1.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^508]: A Vhr. 31. § (3) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^509]: A Vhr. 31. § (3a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § a) pontja.
+[^510]: A Vhr. 31. § (4) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^511]: A Vhr. 31. § (5) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^512]: A Vhr. 31. § (6) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^513]: A Vhr. 31. § (7) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^514]: A Vhr. 31. § új (8) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 19. §-ának (3) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatta. A Vhr. 31. § (8) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^515]: A Vhr. 31. § (9) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 19. § (3) bekezdése iktatta be, hatályon kívül helyezte a 254/2013. (VII. 5.) Korm. rendelet 18. § c) pontja.
+[^516]: A Vhr. 31. §-ának eredeti (8) bekezdésének számozását a 295/2002. (XII. 27.) Korm. rendelet 19. §-ának (3) bekezdése (10) bekezdésre változtatta.
+[^517]: A Vhr. 31. § (11) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^518]: A Vhr. 31/A. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^519]: A Vhr. 31/A. §-át a 64/1998. (III. 31.) Korm. rendelet 23. §-a iktatta be, szövege a 165/2009. (VIII. 14.) Korm. rendelet 3. §-ával megállapított, a 106/2011. (VI. 30.) Korm. rendelet 6. § a) pontja, a 316/2020. (VII. 1.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^520]: A Vhr. 31/B. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^521]: A Vhr. 31/B. § (1) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^522]: A Vhr. 31/B. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^523]: A Vhr. 31/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^525]: A Vhr. 31/D. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^526]: A Vhr. 31/D. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^527]: A Vhr. 31/D. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^528]: A Vhr. 31/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (11) bekezdés b) pontja hatályon kívül helyezte, újonnan az 507/2017. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^529]: A Vhr. 31/D. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^530]: A Vhr. 31/E. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^531]: A Vhr. 31/E. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (4) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § f)–h) pontja szerint módosított szöveg.
+[^532]: A Vhr. 31/E. § (2) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^533]: A 31/F. §-t megelőző alcímet a 130/2003. (VIII. 22.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^534]: A Vhr. 31/F. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^535]: A Vhr. 31/F. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés q) pontja szerint módosított szöveg.
+[^536]: A Vhr. 31/F. § (1) bekezdés d) pontja a 364/2014. (XII. 30.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^537]: A Vhr. 31/F. § (2) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^538]: A Vhr. 31/G. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^539]: A Vhr. 31/G. § (1) bekezdése a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^540]: A Vhr. 31/G. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (5) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § g) és i) pontja szerint módosított szöveg.
+[^541]: A Vhr. 31/G. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés l) pontja szerint módosított szöveg.
+[^542]: A Vhr. 32. § (1) bekezdés nyitó szövegrésze a 316/2020. (VII. 1.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^543]: A Vhr. 32. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^544]: A Vhr. 32. § (2) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^545]: A Vhr. 32. § (2a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
+[^546]: A Vhr 32. § (3) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte, újonnan a 192/2015. (VII. 21.) Korm. rendelet 10. §-a iktatta be.
+[^547]: A Vhr. 33. §-a eredeti szövegének jelölését (1) bekezdésre változtatta a 228/2001. (XI. 30.) Korm. rendelet 5. §-a.
+[^548]: A Vhr. 33. §-ának (2) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. A Vhr. 33. § (2) bekezdését a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^549]: A Vhr. 33. § (3) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 19. § c) pontja.
+[^550]: A Vhr. 33. § (4) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.
+[^551]: A Vhr. 33. § (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 5. § b) pontja.
+[^554]: A Vhr. 36. §-ának (2) bekezdése a 228/2001. (XI. 30.) Korm. rendelet 6. §-ával megállapított, az 520/2013. (XII. 30.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.
+[^555]: A Vhr. 36. §-ának (3) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 6. §-a iktatta a szövegbe, utóbb a 269/2001. (XII. 21.) Korm. rendelet 26. § (5) bekezdése hatályon kívül helyezte.
+[^556]: A Vhr. 36/A. §-t a 229/2000. (XII. 23.) Korm. rendelet 25. § (3) bekezdésének bc) pontja hatályon kívül helyezte, majd a 269/2001. (XII. 21.) Korm. rendelet 25. §-a ismét beiktatta. Rendelkezéseit ez utóbbi módosító rendelet 26. §-ának (1) bekezdése alapján a 2001. 12. 31-ét követő időponttól megállapításra (megszüntetésre) kerülő ellátásokra, illetőleg követelésekre, valamint az említett időpontot követő adatszolgáltatásra és a folyamatban lévő ügyekben is alkalmazni kell.
+[^557]: A Vhr. 36/A. § (1) bekezdése a 248/2003. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg, e módosító rendelet 25. §-ának (5) bekezdése alapján 2004. április 30-ig hivatalból felül kell vizsgálni azokat a határozatokat, amelyekben a baleseti járadék összege 2002. január 1-je és 2003. december 31-e közötti időponttól, állapotváltozás miatt került módosításra. A baleseti járadék összege a felülvizsgálat eredményeként nem csökkenthető. A jogosultat az esetleges emelés összege a felülvizsgált határozatban meghatározott időponttól, visszamenőleg illeti meg.
+[^558]: A Vhr. 36/B. §-t a 269/2001. (XII. 21.) Korm. rendelet 25. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 129. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^561]: A Vhr. 38. §-a a 254/2013. (VII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^562]: A Vhr. 38. § (1) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^563]: A Vhr. 38. § (1a) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^564]: A Vhr. 38. § (1b) bekezdését a 351/2025. (XI. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^565]: A Vhr. 38. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 351/2025. (XI. 12.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^566]: A Vhr. 38. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^567]: A Vhr. 38. § (4) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 5. §-a hatályon kívül helyezte, újonnan az 571/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^568]: A Vhr. 38. § (5) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja, a 807/2021. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^569]: A Vhr. 38. § (6) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^570]: A Vhr. 38. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^571]: A Vhr. 38. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^572]: A Vhr. 38. § (9) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^573]: A Vhr. 38. § ((10) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^574]: A Vhr. 38. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte.
+[^575]: A Vhr. 38. § (12) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 310/2019. (XII. 18.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^576]: A Vhr. 38. § (13) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^577]: A Vhr. 38. § (14) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 15. §-a iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^578]: A Vhr. 38/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 9. §-a iktatta be.
+[^579]: A Vhr. 38/A. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^580]: A Vhr. 38/A. § (1a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 16. §-a iktatta be, a 286/2023. (VI. 30.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
+[^581]: A Vhr. 38/A. § (2) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
+[^582]: A Vhr. 38/A. § (3) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
+[^583]: A Vhr. 38/A. § (4) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^584]: A Vhr. 38/A. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (7) bekezdése iktatta be, szövege a 286/2023. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^585]: A Vhr. 38/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (7) bekezdése iktatta be.
+[^586]: A Vhr. 38/B. §-át a 336/2009. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^587]: A Vhr. 38/B. § (2) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 10. § f) pontja hatályon kívül helyezte.
+[^588]: A Vhr. 38/B. § (2a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 27. § (8) bekezdése iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^589]: A Vhr. 38/B. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^590]: A Vhr. 38/B. § (5) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^591]: A Vhr. 38/B. § (5) bekezdés b) pontját a 477/2016. (XII. 27.) Korm. rendelet 9. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^592]: A Vhr. 38/B. § (5) bekezdés c) pontját a 286/2023. (VI. 30.) Korm. rendelet 10. § f) pontja hatályon kívül helyezte.
+[^593]: A Vhr. 38/B. § (6) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^594]: A Vhr. 38/B. § (7) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 9. § (1) bekezdése iktatta be, hatályon kívül helyezte az 507/2017. (XII. 29.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^595]: A Vhr. 39. § (1) bekezdését újonnan a 457/2017. (XII. 28.) Korm. rendelet 49. § (4) bekezdése iktatta be, szövege a 199/2025. (VII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^596]: A Vhr. 39. § (1a) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § a) pontja.
+[^597]: A Vhr. 39. § (2) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 7. §-a iktatta be.
+[^598]: A Vhr. 39. § (3) bekezdését újonnan a 165/2009. (VIII. 14.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^599]: A Vhr. 39/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 10. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 128. § (8) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^600]: A Vhr. 39/A. § (1) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 17. §-ával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^601]: A Vhr. 39/A. § (2) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^602]: A Vhr. 40. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 13. §-ával megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja, a 376/2021. (VI. 30.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^603]: A Vhr. 40. § (2) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^604]: A Vhr. 41. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^605]: A Vhr. 41. § (1a) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 4. §-a.
+[^606]: A Vhr. 41. § (2) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 23. § (3) bekezdés a) pontja hatályon kívül helyezte, újonnan a 360/2008. (XII. 31.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 131/2012. (VI. 27.) Korm. rendelet 4. §-ával megállapított, a 169/2014. (VII. 18.) Korm. rendelet 2. §-a, a 364/2014. (XII. 30.) Korm. rendelet 18. § e) és g) pontja szerint módosított szöveg.
+[^607]: A Vhr. 41. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^608]: A Vhr. 41. § (4) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 18. § j) pontja hatályon kívül helyezte.
+[^609]: A Vhr. 41. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 102/2019. (V. 6.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^610]: A Vhr. 41. § (6) bekezdését a 398/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 195/2022. (V. 27.) Korm. rendelet 17. §-a.
+[^611]: A Vhr. 41/A. §-át a 376/2021. (VI. 30.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte, újonnan a 286/2023. (VI. 30.) Korm. rendelet 8. §-a iktatta be, szövege a 351/2025. (XI. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^612]: A Vhr. 42. § a 70/2015. (III. 30.) Korm. rendelet 28. § (5) bekezdésével megállapított szöveg. [A 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés j) pontjával elrendelt módosítás, amely szerint az „ az egészségbiztosítási szakigazgatási szerv” szövegrész helyébe a „ kormányhivatal” szöveg lép, nem vezethető át.][A 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés m) pontjával elrendelt módosítás, amely szerint az „ az egészségbiztosítási szakigazgatási szervet” szövegrész helyébe a „ kormányhivatalt” szöveg lép, nem vezethető át.
+[^613]: A Vhr. 42. § (1) bekezdése a 404/2017. (XII. 15.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^614]: A Vhr. 42. § (2) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 15. § b) pontja, a 404/2017. (XII. 15.) Korm. rendelet 4. § g) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés a) és f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^615]: A Vhr. 42. § (4) bekzdése a 404/2017. (XII. 15.) Korm. rendelet 4. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^616]: A Vhr. 42/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 14. §-a iktatta be, szövege a 376/2021. (VI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^617]: A Vhr. 43. § (3) bekezdése a 281/2004. (X. 20.) Korm. rendelet 14. § (6) bekezdés a) pontjának ai) alpontja szerint módosított szöveg.
+[^618]: A Vhr. 43. § új (4) bekezdését a 336/2009. (XII. 29.) Korm. rendelet 15. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.
+[^619]: A Vhr. 43. § (4) bekezdése a 281/2004. (X. 20.) Korm. rendelet 14. § (6) bekezdés a) pontjának aj) alpontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^620]: A Vhr. 43/A. §-át a 295/2002. (XII. 27.) Korm. rendelet 22. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 128. § (10) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^621]: A 43/A. § (1) bekezdése a 325/2011. (XII. 28.) Korm. rendelet 13. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^622]: A Vhr. 44. § (1) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^623]: A Vhr. 45. § (1) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^624]: A Vhr. 45. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 49. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^625]: A Vhr. 45. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 128. § (11) bekezdésével megállapított, a 254/2013. (VII. 5.) Korm. rendelet 17. § m) pontja szerint módosított szöveg.
+[^626]: A Vhr. 45. § (5) bekezdése a 131/2012. (VI. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 50. § d) pontja, a 463/2024. (XII. 30.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^627]: A Vhr. 45. § (6) bekezdését újonnan a 131/2012. (VI. 27.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 463/2024. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^628]: A Vhr. 45. §-ának (7) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 131/2012. (VI. 27.) Korm. rendelet 7. § b) pontja.
+[^629]: A Vhr. 45. § (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 27. § (13) bekezdése.
+[^630]: A Vhr. 46. §-a 332/2010. (XII. 27.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^631]: A Vhr. 47. § (1) bkezdés nyitó szövegrésze a 192/2015. (VII. 21.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^632]: A Vhr. 47. § (1) bekezdés e) pontját a 286/2023. (VI. 30.) Korm. rendelet 10. § g) pontja hatályon kívül helyezte.
+[^633]: A Vhr. 47. § (2) bekezdése a 404/2017. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^634]: A Vhr. 47. § (3) bekezdését a 366/2010. (XII. 30.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 172/2016. (VII. 1.) Korm. rendelet 16. § b) pontja.
+[^635]: A Vhr. 48. §-át a 203/1999. (XII. 26.) Korm. rendelet 17. §-a (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 118/2001. (VI. 30.) Korm. rendelet 18. § (6) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 129. §-a, a 366/2010. (XII. 30.) Korm. rendelet 14. § 73. pontja, a 135/2012. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^636]: A Vhr. 49. §-a a 207/2000. (XII. 11.) Korm. rendelet 14. §-ával megállapított szöveg, jelölését (1) bekezdésre változtatta a 228/2001. (XI. 30.) Korm. rendelet 10. §-a, szövege a 330/2005. (XII. 29.) Korm. rendelet 17. § (8) bekezdése a) pontjának ai) alpontja szerint módosított szöveg.
+[^637]: A Vhr. 49. § (2) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 111/2011. (VII. 4.) Korm. rendelet 3. § (7) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 28. § (10) bekezdés j) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^638]: A Vhr. 49. §-ának (3) bekezdését a 228/2001. (XI. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 113/2005. (VI. 25.) Korm. rendelet 18. § (5) bekezdésének i) pontja, a 330/2005. (XII. 29.) Korm. rendelet 17. § (8) bekezdése a) pontjának ai) alpontja szerint módosított szöveg.
+[^639]: A Vhr. 49. §-ának (4) bekezdését a 330/2005. (XII. 29.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 27. § b) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^640]: A Vhr. 49. §-ának (5) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 28. § (7) bekezdésével megállapított szöveg.
+[^641]: A Vhr. 49. § (5) bekezdés a) pontja a 172/2016. (VII. 1.) Korm. rendelet 14. §-ával megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^642]: A Vhr. 49. § (5) bekezdés b) pontja a 41/2024. (II. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^643]: A Vhr. 49. § (5) bekezdés c) pontját a 463/2024. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^644]: A Vhr. 49. § (5a) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (4) bekezdés b) pontja hatályon kívül helyezte, újonnan a 41/2024. (II. 29.) Korm. rendelet 2. §-a iktatta be.
+[^645]: A Vhr. 49. § (6) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 49. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^646]: A Vhr. 49. § (7) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (8) bekezdése iktatta be, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés m) pontja szerint módosított szöveg.
+[^647]: A Vhr. 49. § (8) bekezdését a 41/2024. (II. 29.) Korm. rendelet 3. §-a iktatta be.
+[^648]: A Vhr. 49. § (9) bekezdését a 41/2024. (II. 29.) Korm. rendelet 3. §-a iktatta be.
+[^649]: A Vhr. 49. § (10) bekezdését a 41/2024. (II. 29.) Korm. rendelet 3. §-a iktatta be.
+[^650]: A Vhr. 49/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 16. §-a iktatta be, szövege a 111/2011. (VII. 4.) Korm. rendelet 3. § (8) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (10) bekezdés j) pontja, a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja, a 286/2023. (VI. 30.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^652]: A Vhr. 49/C. §-át újonnan az 1/2025. (I. 23.) Korm. rendelet 9. §-a iktatta be.
+[^653]: A Vhr. 49/D. §-át a 360/2008. (XII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^654]: A Vhr. 49/D. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^655]: A Vhr. 49/D. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 182. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^656]: A Vhr. 49/D. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 28. § (9) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^657]: A Vhr. 49/E. §-át a 360/2008. (XII. 31.) Korm. rendelet 12. §-a iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^658]: A Vhr. 49/B. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (9) bekezdésével megállapított szöveg.
+[^659]: A Vhr. 49/E. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^660]: A Vhr. 49/E. § (1) bekezdés b) pontja a a 360/2019. (XII. 30.) Korm. rendelet 13. § (6) bekezdés i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^661]: A Vhr. 49/E. § (2) bekezdése a 351/2025. (XI. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^662]: A Vhr. 49/F. §-át a 182/2009. (IX. 10.) Korm. rendelet 128. § (14) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^663]: A Vhr. 50. § (3) bekezdését a 151/2010. (IV. 30.) Korm. rendelet 6. §-a iktatta be.
+[^664]: A Vhr. 50. § (4) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
+[^665]: A hatálybalépés időpontja 2012. január 1.
+[^666]: A Vhr. 50. § (5) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
+[^667]: A hatálybalépés időpontja 2012. január 1.
+[^668]: A kihirdetés napja 2011. december 28.
+[^669]: A Vhr. 50. § (6) bekezdését a 13/2012. (II. 14.) Korm. rendelet 11. §-a iktatta be.
+[^670]: A Vhr. 50. § (7) bekezdését a 92/2012. (IV. 27.) Korm. rendelet – a 137/2012. (VI. 29.) Korm. rendelet 94. §-ával megállapított – 13. §-a iktatta be.
+[^671]: A Vhr. 50. § (8) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 6. §-a iktatta be.
+[^672]: A Vhr. 50. § újabb (8) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^673]: A Vhr. 50. § (9) bekezdését a 131/2012. (VI. 27.) Korm. rendelet 6. §-a iktatta be.
+[^674]: A Vhr. 50. § újabb (9) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 11. §-a iktatta be.
+[^675]: A Vhr. 50. § (10) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
+[^676]: A hatálybalépés napja: 2013. január 1.
+[^677]: A Vhr. 50. § (11) bekezdését a 34/2013. (II. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^678]: A hivatkozott kormányrendelet a 34/2013. (II. 14.) Korm. rendelet.
+[^679]: A hivatkozott kormányrendelet a 34/2013. (II. 14.) Korm. rendelet.
+[^680]: Az 50. § (12) bekezdését a 169/2014. (VII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^681]: A Vhr. 50. § (13) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^682]: A Vhr. 50. § (14) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^683]: A Vhr. 50. § (15) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^684]: A Vhr. 50. § (16) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^685]: A Vhr. 50. § (17) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^686]: A Vhr. 50. § (18) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^687]: A Vhr. 50. § (19) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^688]: A Vhr. 50. § (20) bekezdését a 251/2019. (X. 24.) Korm. rendelet 2. §-a iktatta be.
+[^689]: A Vhr. 50. § (21) bekezdését a 807/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^690]: A Vhr. 50. § (22) bekezdését a 807/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^691]: A Vhr. 50. § (23) bekezdését a 807/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 288/2025. (VIII. 28.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^692]: A Vhr. 50/A. §-át a 408/2024. (XII. 20.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 29/2025. (III. 5.) Korm. rendelet 3. §-a iktatta be.
+[^693]: A hatálybalépés időpontja 2025. március 8.
+[^694]: A Vhr. 50/B. §-át a 404/2017. (XII. 15.) Korm. rendelet 3. §-a iktatta be.
+[^695]: A Vhr. újabb 50/B. §-át az 507/2017. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^696]: A Vhr. 50/C. §-át a 659/2023. (XII. 28.) Korm. rendelet 10. §-a iktatta be.
+[^697]: A hatálybalépés időpontja 2023. december 29.
+[^698]: A hatálybalépés időpontja 2023. december 29.
+[^699]: Az 50/D. §-t a 32/2024. (II. 22.) Korm. rendelet 1. §-a iktatta be.
+[^700]: A hatálybalépés időpontja 2024. február 23.
+[^701]: A Vhr. második 50/D. §-t a 42/2024. (II. 29.) Korm. rendelet 2. §-a iktatta be.
+[^702]: A Vhr. 50/E. §-át a 351/2025. (XI. 12.) Korm. rendelet 5. §-a iktatta be.
+[^703]: A Vhr. 50/F. §-át a 396/2025. (XII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^704]: A hatálybalépés időpontja 2026. január 1.
+[^705]: A Vhr. 50/G. §-át a 425/2025. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^706]: A hatálybalépés időpontja 2026. január 1.
+[^707]: A Vhr. 50/H. §-át a 111/2026. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^708]: A Vhr. 51. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
+[^709]: A Vhr. 51. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
+[^710]: A Vhr. 51. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte.
+[^711]: A Vhr. 51. §-ának (5) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 16. § (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^712]: A Vhr. 52. §-át a 339/2013. (IX. 25.) Korm. rendelet 4. §-a iktatta be.
+[^713]: A Vhr. 1. számú mellékletét a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének h) pontja hatályon kívül helyezte, újonnan a 204/2016. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^714]: A Vhr. 1/A. számú mellékletét a 248/2007. (IX. 26.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 4. § (2) bekezdése b) pontjának bb) alpontja.
+[^715]: A Vhr. 2. számú mellékletét a 118/2008. (V. 8.) Korm. rendelet 1. § 1309. pontja hatályon kívül helyezte, újonnan a 807/2021. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^716]: A 3. számú mellékletet újonnan a 16/2008. (I. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének i) pontja.
+[^717]: A 4. számú mellékletet újonnan a 16/2008. (I. 31.) Korm. rendelet 4. § (8) bekezdése iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének i) pontja.

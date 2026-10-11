@@ -1,0 +1,195 @@
+---
+title: "44/1999. (III. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kairóban, 1996. március 26-án aláírt Megállapodás kihirdetéséről"
+identifier: "44/1999. (III. 8.) Korm. rendelet"
+njt_id: "1999-44-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/44"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-03-08
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-44-20-22"
+retrieved: 2026-10-12
+---
+
+# 44/1999. (III. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kairóban, 1996. március 26-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1998. december 31. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kairóban, 1996. március 26-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és az Egyiptomi Arab Köztársaság Kormánya (a továbbiakban: Felek),
+
+– attól a törekvéstől vezérelve, hogy ezzel hozzájáruljanak a kétoldalú kapcsolataik fejlődéséhez,
+
+– abban a meggyőződésben, hogy az együttműködés a szervezett bűnözés – beleértve a nemzetközi terrorizmust –, különösen a kábítószerekkel folytatott bűnözés, az embercsempészés elleni harcban, és ezek hatásos megakadályozásában lényeges jelentőséggel bír,
+
+tekintettel:
+
+– a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezményre, valamint az 1961-ben kelt Egységes Kábítószer Egyezmény módosításáról és kiegészítéséről szóló Genfben, 1972. március 25-én kelt jegyzőkönyvre,
+
+– a pszichotrop anyagokról szóló, Bécsben, 1971. február 21-én aláírt egyezményre,
+
+– az 1988. december 20-án, a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni Bécsben kötött egyezményre,[^1]
+
+– aggodalommal a kábítószerekkel és pszichotrop anyagokkal folytatott visszaélések és azok meg nem engedett forgalmazásának világszerte tapasztalt növekedése miatt,
+
+– meggyőződve arról, hogy az embercsempészés leküzdése, a légi utak tekintetében elsősorban az indulási és a tranzitrepülőtereken kell hogy történjék, mert ezeket a személyeket csak ott lehet hatásosan kizárni a légitársaságok utasforgalmából, továbbá abban a törekvésben, hogy hatásos intézkedéseket foganatosítsanak a hamis vagy hamisított, vagy visszaélésre szánt úti okmányok használatának korlátozására, valamint a bűnös embercsempész szervezetek leküzdésére,
+
+figyelemmel:
+
+– a légi járművek fedélzetén elkövetett bűncselekményekről és egyéb cselekményekről szóló, 1963. szeptember 14-én, Tokióban kötött egyezményre,[^2]
+
+– a légi járművek jogellenes hatalomba kerítésének leküzdéséről Hágában, 1970. december 16-án kötött egyezményre,[^3]
+
+– a polgári repülés biztonsága elleni jogellenes cselekmények leküzdéséről Montrealban, 1971. szeptember 23-án kötött egyezményre,[^4]
+
+– a nemzetközileg védett személyek, köztük a diplomáciai képviselők ellen elkövetett bűncselekmények megelőzéséről, üldözéséről és büntetéséről szóló, New Yorkban, az Egyesült Nemzetek Közgyűlése XXVIII. ülésszakán 1973. december 14-én elfogadott egyezményre,[^5]
+
+– az 1979. december 18-án, New Yorkban kötött, a túszszedés elleni nemzetközi egyezményre,[^6]
+
+– a repülőtereken elkövetett erőszakos cselekmények leküzdésére az 1980. február 24-én aláírt jegyzőkönyvre,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+1\. A Felek, országaik jogrendjének rendelkezéseit figyelembe véve, együttműködnek a kábítószer tiltott forgalma és a szervezett bűnözés megakadályozásában, a bűnmegelőzésben és a bűnüldözésben.
+
+2\. A Felek különösen azokban az esetekben működnek együtt, amelyekben a bűncselekmények vagy azok előkészületei az egyik Fél országának felségterületén valósulnak meg, és adatok utalnak a másik Fél országának felségterületére.
+
+*2. Cikk*
+
+A Felek felhatalmazott szervei: a Magyar Köztársaság részéről a Belügyminisztérium, az Egészségügyi Minisztérium[^7], az Országos Rendőr-főkapitányság, a Vám- és Pénzügyőrség Országos Parancsnoksága; a Határőrség Országos Parancsnoksága; az Egyiptomi Arab Köztársaság részéről a Belügyminisztérium saját hatáskörükben és illetékességi területükön e Megállapodásban foglaltak végrehajtása érdekében közvetlenül és operatív módon vagy diplomáciai úton együttműködnek.[^8]
+
+*3. Cikk*
+
+A Felek országaik jogrendjének figyelembevételével és ezen Megállapodás rendelkezéseinek megfelelően együttműködnek a kábítószerek és pszichotrop anyagok, valamint prekurzorok tiltott termesztésének, kinyerésének, előállításának, behozatalának, kivitelének és átszállításának, továbbá jogellenes forgalmazásának megakadályozásában, különösen:
+
+1\. közlik egymással a kábítószer tiltott előállításában és kereskedelmében részt vevő személyek adatait, e személyek rejtekhelyeinek és szállítóeszközeinek adatait, elkövetési módszereit, a kábítószerek és pszichotrop anyagok származási és rendeltetési helyeit, valamint az ilyen bűncselekmények különleges részleteit;
+
+2\. közlik egymással a tiltott nemzetközi forgalmazás szokásos módszereiről szerzett és egyéb ide vonatkozó ismereteiket;
+
+3\. kicserélik a kábítószer-kereskedelemre és a kábítószerekkel való visszaélésre vonatkozó kriminalisztikai és kriminológiai kutatási eredményeiket és tanulmányokat;
+
+4\. a Felek országaik jogrendje által megengedett, összehangolt rendőri intézkedéseket foganatosítanak – beleértve az ellenőrzött szállítást – a kábítószerek és pszichotrop anyagok tiltott forgalmazásának megakadályozására.
+
+*4. Cikk*
+
+A Felek országaik jogszabályainak megfelelően együttműködnek a bűnözés, különösen a szervezett bűnözés felderítésében, megakadályozásában. Ennek során:
+
+1\. közlik egymással e Megállapodás tárgyát képező bűncselekmények elkövetésében résztvevők adatait, a tettesek kapcsolataira vonatkozó adatokat, a bűnöző szervezetek és bűnöző csoportok felépítéséről szóló ismereteiket, a típusos tettes- és csoportmagatartást, a tényállásokat, különösen az elkövetés idejét, helyét, módját, a megtámadott objektumokat, a különleges körülményeket, valamint a megsértett büntető jogszabályokat és a megtett intézkedéseket;
+
+2\. megkeresésre olyan rendőri intézkedéseket foganatosítanak, amelyeket a megkeresett Fél országának joga megenged;
+
+3\. a nyomozásnál együttműködnek – ezen Megállapodással és a jogrendjükkel összhangban, a Felek országai által kötött hatályban lévő kiadatási és bűnügyi jogsegélyegyezménynek megfelelően – egyeztetett rendőri intézkedésekkel személyi, tárgyi és szervezési támogatással;
+
+4\. adatokat és tapasztalatokat cserélnek a nemzetközi szervezett bűnözés elkövetési módszereiről, új formáiról;
+
+5\. kicserélik a kriminalisztikai és kriminológiai, valamint egyéb bűnügyi vonatkozású kutatási eredményeket, kölcsönösen tájékoztatják egymást a nyomozások gyakorlatáról, munkamódszereik és eszközeik alkalmazásáról, azok továbbfejlesztése céljából;
+
+6\. kérelemre egymás rendelkezésére bocsátanak ismereteket vagy mintákat azokról a tárgyakról, amelyek bűncselekményekből származnak, továbbá amelyekkel bűncselekményeket követtek el;
+
+7\. a szervezett bűnözés elleni harc elősegítése érdekében képzésre, továbbképzésre szakembereket küldenek egymás országaiba a magasabb szintű szakismeretek megszerzése, a bűnözéssel szemben alkalmazott eszközök és módszerek a krimináltechnika korszerű eredményeinek kölcsönös megismerése céljából.
+
+*5. Cikk*
+
+A Felek együttműködése kiterjed:
+
+1\. a Megállapodás tárgyát képező bűncselekményekkel kapcsolatos jogi szabályozással összefüggő információk cseréjére;
+
+2\. a bűncselekménnyel szerzett haszonnal kapcsolatos információk cseréjére;
+
+3\. a külföldiekre, illetőleg a migrációra vonatkozó jogi szabályozás és tapasztalatok cseréjére;
+
+4\. azon információk cseréjére, amelyek a másik Fél számára az embercsempészés, valamint a munkaerővel való tiltott kereskedelem elleni harchoz szükségesek.
+
+*6. Cikk*
+
+Az együttműködés során átadott, személyre vonatkozó adatok védelmére mindegyik Fél országa hatályos jogszabályainak figyelembevételével a következő feltételek érvényesek:
+
+1\. a fogadó Fél az adatokat csak az átadó Fél által megadott célra és az általa közölt feltételekkel használhatja fel;
+
+2\. az átadó Fél kérésére a fogadó Fél tájékoztatást nyújt az átadott adatok felhasználásáról és az ezáltal elért eredményekről;
+
+3\. a személyekre vonatkozó adatokat kizárólag a bűnüldöző hatóságoknak és a kábítószer és a szervezett bűnözés elleni harcban illetékes szerveknek szabad átadni. Az adatok továbbadása más hatóságoknak csak az átadó hatóság előzetes engedélyével történhet;
+
+4\. az átadó Fél köteles az átadandó adatok helyességéről meggyőződni, valamint arról, hogy az átadás szükségszerű-e, és arányban áll-e az átadás céljával. Emellett meg kell tartani a másik Fél nemzeti joga szerint meghatározott adatok átadásának korlátozására vonatkozó előírásokat. Ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, úgy erről a tényről a fogadó Felet haladéktalanul értesíteni kell. A fogadó Fél köteles a helyesbítés átvezetésére, a téves vagy át nem adható adat azonnali megsemmisítésére;
+
+5\. a jogosult személy számára, kérésére, felvilágosítást kell adni a személyéről meglévő adatokról és azok tervezett felhasználásáról. Ez a felvilágosítási kötelezettség nem áll fenn, ha az adott ország joga nem teszi kötelezővé. A személyi adatokról történő felvilágosítás adásánál annak a Félnek a nemzeti joga az irányadó, amely az adatokat átadja;
+
+6\. az átadó Fél az átadáskor közli a saját jogrendjében érvényes adattörlési határidőket. Ezektől függetlenül a közölt személyre vonatkozó adatokat a szükségesség megszűnésekor törölni kell. Az átvett adat törléséről, annak okáról az átadó Felet azzal egy időben értesíteni kell. Az átvett adatot a Megállapodás megszűnésekor törölni kell;
+
+7\. mindkét Fél köteles a személyre szóló adatok átadásáról, átvételéről és törléséről nyilvántartást vezetni;
+
+8\. a Felek kötelesek az átadott, személyre szóló adatokat hatásosan védeni az illetéktelen hozzáférés, változtatás és nyilvánosságra hozatal ellen.
+
+*7. Cikk*
+
+1\. A Felek biztosítják a bármelyik Fél által bizalmasnak minősített adatok titkosságát, amennyiben azok az átadó ország jogszabályai értelmében titkosnak minősülnek.
+
+2\. E Megállapodás értelmében átadott anyagok, adatok és technikai eszközök harmadik ország részére történő továbbadása csak az átadó Fél illetékes szervének hozzájárulásával lehetséges.
+
+*8. Cikk*
+
+1\. A Felek e Megállapodásban szabályozott együttműködés elősegítésére és értékelésére vegyes bizottságot állítanak fel. A Felek a vegyes bizottság összetételéről diplomáciai úton tájékoztatják egymást.
+
+2\. A vegyes bizottság szükség esetén tartja üléseit. Az ülések megtartását bármely Fél kezdeményezheti. A bizottság a Magyar Köztársaságban és az Egyiptomi Arab Köztársaságban felváltva tartja üléseit.
+
+3\. Az ülés költségeit az utazási költségek kivételével a fogadó Fél viseli.
+
+*9. Cikk*
+
+1\. Bármelyik Fél a megkeresés teljesítését, támogatását, illetve az együttműködési intézkedést részben vagy egészben megtagadhatja, vagy azt bizonyos feltételektől függővé teheti, ha az saját nemzeti jogát korlátozza, a biztonságát avagy más lényeges érdekeit veszélyezteti, illetőleg nemzeti jogrendjét sérti.
+
+2\. E Megállapodás rendelkezései nem érintik a Magyar Köztársaság és az Egyiptomi Arab Köztársaság által kötött egyéb két- és többoldalú nemzetközi szerződéseket.
+
+*10. Cikk*
+
+1\. Ez a Megállapodás azon a napon lét hatályba, amikor a Felek értesítik egymást arról, hogy eleget tettek az érvénybe lépéshez szükséges nemzeti előírásoknak.
+
+2\. A Felek ezt a Megállapodást határozatlan időre kötik. A Megállapodást bármelyik Fél diplomáciai úton felmondhatja. A felmondás attól az időponttól számított három hónap elteltével lép érvénybe, amikor az a másik Félhez megérkezett.
+
+Készült Kairóban, az 1996. év március hónap 26. napján, két eredeti példányban, magyar, angol és arab nyelven, mindhárom nyelvű szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+belügyminiszter
+
+Az Egyiptomi Arab\
+Köztársaság Kormánya\
+nevében
+
+belügyminiszter''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1998. december 31. napjától kell alkalmazni.
+
+(2)[^9] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter és az egészségügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1965: 4. törvényerejű rendeletet, az 1979: 25. törvényerejű rendeleletet, az 1988: 17. törvényerejű rendeletet és az 1998: L. törvényt.
+[^2]: Lásd az 1971: 24. törvényerejű rendeletet.
+[^3]: Lásd az 1973: 8. törvényerejű rendeletet.
+[^4]: Lásd az 1973: 17. törvémyerejű rendeletet.
+[^5]: Lásd az 1977: 22. törvényerejű rendeletet.
+[^6]: Lásd az 1987: 24. törvényerejű rendeletet.
+[^7]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének b) pontját.
+[^8]: Lásd az 1987: 24. törvényerejű rendeletet.
+[^9]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 104. pontja szerint módosított szöveg.

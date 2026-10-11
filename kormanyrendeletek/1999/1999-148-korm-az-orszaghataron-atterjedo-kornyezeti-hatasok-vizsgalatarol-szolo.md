@@ -1,0 +1,594 @@
+---
+title: "148/1999. (X. 13.) Korm. rendelet az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény kihirdetéséről"
+identifier: "148/1999. (X. 13.) Korm. rendelet"
+njt_id: "1999-148-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/148"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-10-13
+in_force_from: 1999-10-13
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-148-20-22"
+retrieved: 2026-10-12
+---
+
+# 148/1999. (X. 13.) Korm. rendelet az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezmény kihirdetéséről
+
+*(A Magyar Köztársaság megerősítési okiratának letétbe helyezése az Egyesült Nemzetek Szervezetének főtitkáránál, mint letéteményesnél, 1997. július 11. napján megtörtént, az egyezmény 1997. szeptember 10. napján, a Magyar Köztársaság vonatkozásában 1997. október 9. napján lépett hatályba.)*
+
+## 1. §
+
+A Kormány az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország), 1991. február 26. napján aláírt egyezményt (a továbbiakban: egyezmény) e rendelettel kihirdeti, és elrendeli annak kötelező alkalmazását.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+az országhatáron átterjedő környezeti hatások vizsgálatáról
+
+Az egyezmény felei
+
+tudatában a gazdasági tevékenységek és környezeti következményeik között lévő kölcsönös összefüggésnek,
+
+megerősítve a környezeti szempontból megalapozott és fenntartható fejlődés biztosításának szükségességét,
+
+elhatározva, hogy fejlesztik a nemzetközi együttműködést a környezeti hatások vizsgálatában, különösen az országhatáron átterjedő viszonylatban,
+
+tekintetbe véve a megelőző politikák kifejlesztésének, valamint a jelentős mérvű ártalmas környezeti hatások általában és különösen az országhatáron átterjedő viszonylatban végzett megelőzésének, enyhítésének és megfigyelésének szükségességét és fontosságát,
+
+felelevenítve az Egyesült Nemzetek Alapokmányának vonatkozó rendelkezéseit, az emberi környezetről rendezett stockholmi konferencia nyilatkozatát, az Európai Biztonsági és Együttműködési Értekezlet (EBEÉ) záróokmányát és az EBEÉ résztvevő államai képviselőinek madridi és bécsi találkozóin aláírt záródokumentumokat,
+
+dicsérve az államok folyamatban lévő tevékenységét, hogy nemzeti jogi és adminisztratív rendelkezéseik és politikájuk révén biztosítsák a környezeti hatásvizsgálat végrehajtását,
+
+tudatában annak szükségességének, hogy a döntéshozatali folyamat korai fázisában határozott figyelmet szenteljenek a környezeti tényezőknek azáltal, hogy környezeti hatásvizsgálatot végeznek valamennyi megfelelő közigazgatási szinten a döntéshozók számára nyújtandó információ minősége javításának szükséges eszközeként, és így, nagy figyelmet fordítva a jelentős mérvű ártalmas hatások – különösen az országhatáron átterjedő hatások – lehető legkisebbre csökkentésére, környezeti szempontból átgondolt döntések születhessenek,
+
+tekintetbe véve a nemzetközi szervezetek erőfeszítéseit, amelyek a környezeti hatásvizsgálat mind nemzeti, mind nemzetközi szinten való alkalmazásának támogatására irányulnak, és figyelembe véve az Egyesült Nemzetek Európai Gazdasági Bizottságának égisze alatt a környezeti hatásvizsgálat terén végzett munkát, különösen a környezeti hatásvizsgálattal foglalkozó szeminárium által elért eredményeket (1987. szeptember, Varsó, Lengyelország), valamint tudomásul véve az Egyesült Nemzetek Környezeti Programjának Kormányzó Tanácsa által a környezeti hatásvizsgálatról elfogadott célokat és elveket, és a fenntartható fejlődésről szóló miniszteri nyilatkozatot (1990. május, Bergen, Norvégia),
+
+megállapodtak a következőkben:
+
+*1. Cikk*
+
+*Meghatározások*
+
+Az egyezmény alkalmazása szempontjából:
+
+*(i)* ,,Felek'': hacsak a szöveg másképp nem jelzi, az egyezmény szerződő felei.
+
+*(ii)* ,,Kibocsátó fél'': az egyezmény azon szerződő fele vagy felei, amelyek joghatósága alatt egy tervezett tevékenység előreláthatólag meg fog valósulni.
+
+*(iii)* ,,Hatásviselő fél'': az egyezmény azon szerződő fele vagy felei, amelyekre egy tervezett tevékenység országhatáron átterjedő hatása várhatóan befolyást fog gyakorolni.
+
+*(iv)* ,,Érdekelt felek'': az egyezmény szerinti környezeti hatásvizsgálatban érintett kibocsátó fél és hatásviselő fél.
+
+*(v)* ,,Tervezett tevékenység'': bármely olyan tevékenység, vagy a tevékenység bármely jelentős megváltoztatása, amely egy alkalmazandó nemzeti eljárásnak megfelelően valamely illetékes hatóság döntésének van alávetve.
+
+*(vi)* ,,Környezeti hatásvizsgálat'': egy tervezett tevékenység környezetre gyakorolt valószínű hatását értékelő nemzeti eljárás.
+
+*(vii)* ,,Hatás'': bármely következmény, amelyet egy tervezett tevékenység idéz elő a környezetben, beleértve az emberi egészséget és biztonságot, a növény- és állatvilágot, a talajt, a levegőt, a vizet, az éghajlatot, a tájat és a történelmi emlékeket vagy más építményeket vagy ezen tényezők egymás közötti kölcsönhatását; ugyancsak magában foglalja az ezen tényezők megváltoztatása eredményeként a kulturális örökségben vagy a társadalmi-gazdasági viszonyokban bekövetkező hatásokat.
+
+*(viii)* ,,Országhatáron átterjedő hatás:'' bármely, nem kizárólag globális természet hatás egy fél joghatósága alá tartozó területen, amelyet egy olyan tervezett tevékenység idéz elő, amelynek fizikai eredete teljesen vagy részben egy másik fél joghatósága alá tartozó területre esik.
+
+*(ix)* ,,Illetékes hatóság'': egy fél által kijelölt nemzeti hatóság vagy hatóságok, amely(ek) az egyezmény szerinti feladatok végrehajtásának felelőse(i), és/vagy egy fél által valamely tervezett tevékenységre vonatkozóan döntéshozói jogkörrel felruházott hatóság vagy hatóságok.
+
+*(x)* ,,Nyilvánosság'': egy vagy több természetes vagy jogi személy.
+
+*2. Cikk*
+
+*Általános rendelkezések*
+
+1\. A felek, egyenként vagy közösen, megtesznek minden megfelelő és hatékony intézkedést a tervezett tevékenységekből eredő jelentős mérvű, ártalmas országhatáron átterjedő környezeti hatások megelőzésére, csökkentésére és ellenőrzésére.
+
+2\. Minden egyes fél megteszi a szükséges jogi, közigazgatási vagy egyéb intézkedéseket az egyezmény rendelkezéseinek végrehajtására, beleértve – az I. függelékben felsorolt, várhatóan jelentős mérvű ártalmas, országhatáron átterjedő hatást előidéző tervezett tevékenységekre tekintettel – olyan környezeti hatásvizsgálati eljárás bevezetését, amely lehetővé teszi a nyilvánosság részvételét és a II. függelékben leírt környezeti hatásvizsgálati dokumentáció elkészítését.
+
+3\. A kibocsátó fél biztosítja, hogy az egyezmény rendelkezéseinek megfelelően az I. függelékben felsorolt, várhatóan jelentős mérvű ártalmas, országhatáron átterjedő hatást előidéző tervezett tevékenység engedélyezésére vagy megkezdésére vonatkozó döntés előtt környezeti hatásvizsgálatot végeznek.
+
+4\. A kibocsátó fél az egyezmény rendelkezéseivel összhangban biztosítja, hogy a hatásviselő felek értesüljenek valamely, az I. függelékben felsorolt tervezett tevékenységről, amely valószínűleg jelentős mérvű ártalmas, országhatáron átterjedő hatást idézhet elő.
+
+5\. Az érdekelt felek, bármelyik ilyen fél kezdeményezésére, megbeszéléseket kezdenek arról, hogy egy vagy több, az I. függelékben fel nem sorolt tervezett tevékenység valószínűleg jelentős mérvű ártalmas, országhatáron átterjedő hatást idézhet-e elő, és ezért úgy kell-e kezelni, mintha ott fel lenne sorolva. Amennyiben ezen felek ebben megegyeznek, a tevékenységet vagy tevékenységeket így kell kezelni. A jelentős mérvű ártalmas hatás meghatározását szolgáló azonosító ismérvekre vonatkozó általános útmutatást a III. függelék tartalmazza.
+
+6\. A kibocsátó fél az egyezmény rendelkezéseinek megfelelően lehetőséget biztosít a várhatóan hatást viselő területek nyilvánossága számára a tervezett tevékenységekre vonatkozó megfelelő környezeti hatásvizsgálati eljárásban való részvételre, és biztosítja, hogy a hatásviselő fél nyilvánossága számára nyújtott lehetőség egyenértékű a kibocsátó fél nyilvánossága számára biztosítottal.
+
+7\. Az egyezmény szerint előírt környezeti hatásvizsgálatokat minimális követelményként a tervezett tevékenység létesítmény szintű tervezésekor kell elvégezni. A felek a megfelelő mértékig törekednek arra, hogy a környezeti hatásvizsgálat elveit alkalmazzák a politikákra, tervekre és programokra.
+
+8\. Az egyezmény rendelkezései nem érintik a felek azon jogát, hogy nemzeti törvényeket, szabályozásokat, közigazgatási intézkedéseket foganatosítsanak, vagy hogy az elfogadott jogi gyakorlatot alkalmazzák olyan információk védelmére, amelyek kiadása sértené az ipari és kereskedelmi titkokat vagy a nemzetbiztonságot.
+
+9\. Az egyezmény rendelkezései nem érintik az egyes felek azon jogát, hogy – amikor az helyénvaló, két- vagy többoldalú megállapodás révén – az egyezményénél szigorúbb intézkedéseket alkalmazzanak.
+
+10\. Az egyezmény rendelkezései nem befolyásolják a felek bármely azon nemzetközi jogi kötelezettségeit, amelyek országhatáron átterjedő hatású, vagy várhatóan ilyen hatású tevékenységekkel kapcsolatosak.
+
+*3. Cikk*
+
+*Értesítés*
+
+1\. A kibocsátó fél egy olyan, az I. függelékben felsorolt tevékenység esetén, amely várhatóan jelentős mérvű ártalmas, országhatáron átterjedő hatást okoz, az 5. Cikkben előírt megfelelő és hatékony konzultációk biztosításának céljából a lehető legkorábban, és nem később, mint amikor arról saját nyilvánosságát tájékoztatja, bármely olyan felet értesít, amely véleménye szerint hatásviselő fél lehet.
+
+2\. Ez az értesítés – többek között – tartalmazza:
+
+*a)* a tervezett tevékenységre vonatkozó információkat, beleértve annak lehetséges, országhatáron átterjedő hatásával kapcsolatos bármely elérhető információt,
+
+*b)* a lehetséges döntés természetét, és
+
+*c)* egy olyan ésszerű időtartam megjelölését, amelyen belül ezen Cikk 3. bekezdésének megfelelő választ kell adni, tekintetbe véve a tervezett tevékenység természetét,
+
+valamint kiterjedhet az ezen Cikk 5. bekezdésében kifejtett információkra.
+
+3\. A hatásviselő fél az értesítésben megjelölt időn belül köteles válaszolni a kibocsátó félnek, elismerve az értesítés kézhezvételét és jelzi, hogy részt kíván-e venni a környezeti hatásvizsgálati eljárásban.
+
+4\. Ha a hatásviselő fél jelzi, hogy nem kíván részt venni a környezeti hatásvizsgálati eljárásban, vagy ha nem válaszol az értesítésben megjelölt időn belül, ezen Cikk 5., 6., 7. és 8. bekezdéseinek és a 4–7. Cikkeknek a rendelkezései nem alkalmazhatók. Ez esetben sem csorbul a kibocsátó fél azon joga, hogy eldöntse, nemzeti törvénykezése és gyakorlata alapján végezzen-e környezeti hatásvizsgálatot.
+
+5\. A hatásviselő fél olyan tartalmú válaszának kézhezvételekor, amely jelzi, hogy részt kíván venni a környezeti hatásvizsgálati eljárásban, a kibocsátó fél, ha azt még nem tette meg, átadja a hatásviselő félnek:
+
+*a)* a környezeti hatásvizsgálati eljárásra vonatkozó érdemi információkat, beleértve az észrevételek átadásával kapcsolatos időrend jelzését, és
+
+*b)* a tervezett tevékenységre és lehetséges jelentős mérvű ártalmas, országhatáron átterjedő hatására vonatkozó érdemi információkat.
+
+6\. A hatásviselő fél a kibocsátó fél kérésére a hatásviselő fél joghatósága alatt lévő potenciálisan érintett környezetre vonatkozóan az ésszerűség határain belül megszerezhető információkat biztosítja, amikor ilyen információk szükségesek a környezeti hatásvizsgálati dokumentáció elkészítéséhez. Az információkat haladéktalanul szolgáltatják, ahol az létezik, egy megfelelő közös testületen keresztül.
+
+7\. Amikor egy fél úgy véli, hogy valamely, az I. függelékben felsorolt tervezett tevékenység jelentős mérvű ártalmas, országhatáron átterjedő hatása érintheti, és amikor az ezen Cikk 1. bekezdésének megfelelő értesítés nem történt meg, az érdekelt felek – a hatásviselő fél kérésére – megfelelő információt adnak át egymásnak abból a célból, hogy megvitassák, vajon várható-e jelentős mérvű ártalmas, országhatáron átterjedő hatás. Ha a szóban forgó felek egyetértenek abban, hogy jelentős mérvű ártalmas, országhatáron átterjedő hatás várható, akkor az egyezmény rendelkezéseit ennek megfelelően kell alkalmazni. Ha ezen felek nem tudnak egyetérteni abban, hogy jelentős mérvű ártalmas, országhatáron átterjedő hatás várható, akkor – hacsak e kérdés rendezésének más módjában nem állapodnak meg – a IV. függelék rendelkezéseinek megfelelően ezt a kérdést bármely fél egy vizsgálóbizottság elé terjesztheti, hogy az véleményt adjon a jelentős mérvű ártalmas, országhatáron átterjedő hatás valószínűségéről.
+
+8\. Az érdekelt felek biztosítják, hogy a hatásviselő fél nyilvánossága a várhatóan érintett területeken tájékoztatást kap a tervezett tevékenységről és lehetőséget az azzal kapcsolatos észrevételek vagy kifogások tételére, valamint az ezen észrevételeknek vagy kifogásoknak a kibocsátó fél illetékes hatóságához való továbbítására, vagy közvetlenül e hatósághoz, vagy amikor az megfelelő, a kibocsátó fél közvetítésével.
+
+*4. Cikk*
+
+A környezeti hatásvizsgálat dokumentációjának\
+elkészítése
+
+1\. A kibocsátó fél illetékes hatóságának benyújtandó környezeti hatásvizsgálati dokumentációnak legalább a II. függelékben meghatározott információkat kell tartalmaznia.
+
+2\. A kibocsátó fél a hatásviselő fél számára – amennyiben egy közös testület létezik, azon keresztül – átadja a környezeti hatásvizsgálat dokumentációját. Az érdekelt felek intézkednek a dokumentációnak a hatásviselő fél várhatóan érintett területeinek hatóságai és nyilvánossága számára való szétküldéséről, valamint az észrevételeknek a kibocsátó fél illetékes hatóságához a tervezett tevékenységről hozandó végső döntés előtti elfogadható időtartamon belül történő benyújtásáról (vagy közvetlenül e hatósághoz, vagy – amikor az megfelelő – a kibocsátó fél közvetítésével).
+
+*5. Cikk*
+
+*Konzultációk a környezeti hatásvizsgálat dokumentációja alapján*
+
+A kibocsátó fél a környezeti hatásvizsgálat dokumentálásának befejezése után indokolatlan késedelem nélkül konzultációkat kezd a hatásviselő féllel – többek között – a tervezett tevékenység lehetséges országhatáron átterjedő hatásáról és a hatást csökkentő vagy kiküszöbölő intézkedésekről. A konzultációk vonatkozhatnak:
+
+*a)* a tervezett tevékenység lehetséges változataira, beleértve a tevékenység elhagyását jelentő változatot, valamint a jelentős mérvű ártalmas, országhatáron átterjedő hatás enyhítésére irányuló lehetséges intézkedéseket, és az ilyen intézkedések hatásainak a kibocsátó fél költségén végzett megfigyelésére és értékelésére;
+
+*b)* a lehetséges kölcsönös segítség más formáira, amelyek a tervezett tevékenység bármely jelentős mérvű ártalmas, országhatáron átterjedő hatásának csökkentésére irányulnak; és
+
+*c)* bármely más, a tervezett tevékenységgel kapcsolatos idetartozó ügyre.
+
+A felek az ilyen konzultációk kezdetén megállapodnak a konzultációs időszak elfogadható időtartamában. Bármely ilyen konzultációt le lehet folytatni, ahol az létezik, egy megfelelő közös testületen keresztül.
+
+*6. Cikk*
+
+*Végső döntés*
+
+1\. A felek biztosítják, hogy a tervezett tevékenységről hozott végső döntésben megfelelően figyelembe veszik a környezeti hatásvizsgálat eredményét, beleértve a környezeti hatásvizsgálat dokumentációját, valamint a 3. Cikk 8. bekezdése és 4. Cikk 2. bekezdése szerint arról kapott észrevételeket és az 5. Cikkben megjelölt konzultációk eredményét.
+
+2\. A kibocsátó fél a hatásviselő fél rendelkezésére bocsátja a tervezett tevékenységről hozott végső döntést azon indokokkal és szempontokkal együtt, amelyekre azt alapozták.
+
+3\. Ha egy tervezett tevékenység jelentős mérvű, országhatáron átterjedő hatására vonatkozó pótlólagos információ – amely a szóban forgó tevékenységre vonatkozó döntés idején nem állt rendelkezésre, és amely érdemben érinthette volna a döntést – valamelyik érintett fél számára hozzáférhetővé válik, mielőtt a munka azon tevékenységgel kapcsolatban megkezdődik, e fél azonnal tájékoztatja a többi érdekelt felet vagy feleket. Ha az érdekelt felek egyike úgy kívánja, konzultációkat tartanak annak tisztázására, hogy a döntést felül kell-e vizsgálni.
+
+*7. Cikk*
+
+*Utóelemzés*
+
+1\. Az érdekelt felek – bármilyen ilyen fél kérésére – eldöntik, hogy történjék-e, és ha igen, milyen mértékű utóelemzés, figyelembe véve azon tevékenység várható jelentős mérvű ártalmas, országhatáron átterjedő hatását, amellyel kapcsolatban az egyezménynek megfelelően környezeti hatásvizsgálatot végeztek. Bármely elvégzett utóelemzésnek magában kell foglalnia különösen a tevékenység nyomon követését és bármely ártalmas, országhatáron átterjedő hatás meghatározását. Az ilyen nyomon követést és meghatározást lehetőleg az V. függelékben felsorolt célkitűzések elérésére való tekintettel kell végezni.
+
+2\. Amikor az utóelemzés eredményeként a kibocsátó félnek vagy a hatásviselő félnek megfelelő alapja van arra következtetni, hogy jelentős mérvű ártalmas, országhatáron átterjedő hatásról van szó, vagy olyan tényezőket tártak fel, amelyek ilyen hatást eredményezhetnek, azonnal tájékoztatja a másik felet. Az érdekelt felek ez után konzultációt tartanak a hatás csökkentésére vagy kiküszöbölésére vonatkozó szükséges intézkedésekről.
+
+*8. Cikk*
+
+*Két- és többoldalú együttműködés*
+
+A felek fenntarthatják meglévő két- vagy többoldalú megállapodásaikat vagy más megegyezéseiket, illetve újakat köthetnek abból a célból, hogy az egyezményből fakadó kötelezettségeiket teljesítik. Az ilyen megállapodásokat vagy más megegyezéseket a VI. függelékben felsorolt elemekre lehet alapozni.
+
+*9. Cikk*
+
+*Kutatási programok*
+
+A felek különleges figyelmet szentelnek speciális kutatási programok létrehozására vagy erősítésére, amelyek célja, hogy
+
+*a)* fejlesszék a tervezett tevékenységek hatásainak vizsgálatára szolgáló meglévő minősítési és számszerűsítési módszereket;
+
+*b)* elérjék az ok-okozati összefüggések és az integrált környezetgazdálkodásban játszott szerepük jobb megértését;
+
+*c)* elemezzék és ellenőrizzék a tervezett tevékenységekre vonatkozó döntések hatékony végrehajtását a hatások lehető legkisebbre csökkentése vagy megelőzése céljából;
+
+*d)* módszereket fejlesszenek ki az alkotó megközelítések ösztönözésére a tervezett tevékenységek, a termelési és fogyasztási módok környezeti szempontból helyes alternatíviáinak keresésében;
+
+*e)* módszertant fejlesszenek ki a környezeti hatásvizsgálat elveinek makrogazdasági szinten történő alkalmazására.
+
+Az itt felsorolt programok eredeményeit a felek kicserélik.
+
+*10. Cikk*
+
+*A függelékek státusza*
+
+Az ezen egyezményhez csatolt függelékek az egyezmény szerves részét képezik.
+
+*11. Cikk*
+
+*A felek találkozója*
+
+1\. A felek találkozót tartanak – amennyire az lehetséges – az EGB kormányok környezeti és vízügyi problémákkal foglalkozó főtanácsadóinak évi ülésszakaihoz kapcsolódva. A felek első találkozóját legkésőbb egy évvel az egyezmény hatálybalépését követően hívják össze. Ez után a felek találkozóit olyan egyéb időpontban tartják, amelyet a felek egy találkozója szükségesnek ítélt, vagy amelyet bármely fél írásban kért, feltéve, hogy azt miután a titkárság ezt a kérést megküldte a feleknek, hat hónapon belül legalább egyharmaduk támogatja.
+
+2\. A felek folyamatosan figyelemmel kísérik az egyezmény végrehajtását, és e célt szem előtt tartva:
+
+*a)* áttekintik a felek környezeti hatásvizsgálatra vonatkozó politikáit és módszertani megközelítéseit azzal a céllal, hogy az országhatáron átterjedő környezeti hatások vizsgálatának eljárásait továbbfejlesszék;
+
+*b)* kicserélik azokat az információkat, amelyek az országhatáron átterjedő környezeti hatások vizsgálatának használatára vonatkozó olyan két- és többoldalú megállapodások vagy más megegyezések kötése és végrehajtása terén nyert tapasztalatokra vonatkoznak, melyeknek egy vagy több fél részese;
+
+*c)* ha az indokolt, az egyezmény céljai eléréséhez kapcsolódó módszertani és műszaki kérdésekben igénybe veszik az illetékes nemzetközi testületek és tudományos bizottságok szolgálatait;
+
+*d)* az első találkozójukon megtárgyalják és konszenzussal elfogadják találkozóik eljárási rendjét;
+
+*e)* megtárgyalják, és amikor szükséges, elfogadják az egyezmény módosítására vonatkozó javaslatokat;
+
+*f)* megtárgyalnak és megtesznek bármely olyan további lépést, amely az egyezmény céljainak eléréséhez szükséges lehet.
+
+*12. Cikk*
+
+*Szavazati jog*
+
+1\. Az egyezmény minden egyes fele egy szavazattal rendelkezik.
+
+2\. Jelen Cikk 1. bekezdésében foglalt rendelkezésétől eltérően a regionális gazdasági integrációs szervezetek a hatáskörükbe tartozó ügyekben szavazati jogukat úgy gyakorolják, hogy annyi szavazattal rendelkeznek, amely megegyezik az egyezményben részes tagállamaik számával. E szervezetek nem gyakorolhatják szavazati jogukat, ha tagállamaik élnek azzal, és fordítva.
+
+*13. Cikk*
+
+*Titkárság*
+
+Az Európai Gazdasági Bizottság főtitkára látja el a következő titkársági funkciókat:
+
+*a)* összehívja és előkészíti a felek találkozóit;
+
+*b)* eljuttatja a feleknek az egyezmény rendelkezéseinek megfelelően kapott jelentéseket és más információkat;
+
+*c)* ellátja az egyezményben előírt vagy a felek által meghatározott egyéb funkciókat.
+
+*14. Cikk*
+
+*Az egyezmény módosításai*
+
+1\. Bármely fél javaslatokat tehet az egyezmény módosítására.
+
+2\. A javasolt módosításokat írásban kell benyújtani a titkárságnak, amely azokat valamennyi félhez eljuttatja. A javasolt módosításokat a felek következő találkozója megtárgyalja, feltéve, hogy a titkárság e javaslatokat legalább kilencven nappal a találkozó előtt megküldte a feleknek.
+
+3\. A felek minden tőlük telhető erőfeszítést megtesznek azért, hogy az egyezmény bármely javasolt módosításáról konszenzussal állapodjanak meg. Ha a konszenzus elérése érdekében már minden lehetőséget kimerítettek és megállapodást nem sikerült elérni, a módosítást végső megoldásként az ülésszakon jelen lévő és szavazó felek háromnegyedes szavazati többségével fogadják el.
+
+4\. Az egyezmény ezen Cikk 3. bekezdésének megfelelően elfogadott módosításait a letéteményes megerősítés, jóváhagyás vagy elfogadás végett minden félnek megküldi. A módosítások azon felek számára, amelyek azokat megerősítették, jóváhagyták vagy elfogadták, azt a napot követő kilencvenedik napon lépnek hatályba, amelyen a letéteményes ezen felek legalább háromnegyedétől értesítést kapott a módosítások megerősítéséről, jóváhagyásáról vagy elfogadásáról. Ezt követően a módosítások bármely egyéb fél tekintetében azt a napot követő kilencvenedik napon lépnek hatályba, amelyen letétbe helyezte a módosításokra vonatkozó megerősítő, jóváhagyási vagy elfogadási okiratát.
+
+5\. E Cikk alkalmazása szempontjából a ,,jelen lévő és szavazó felek'' kifejezés a jelen lévő és igennel vagy nemmel szavazó feleket jelenti.
+
+6\. Az e Cikk 3. bekezdésében kifejtett szavazási eljárás nem szándékozik precedenst teremteni az Európai Gazdasági Bizottságban a jövőben tárgyalandó megállapodásokra vonatkozóan.
+
+*15. Cikk*
+
+*Viták rendezése*
+
+1\. Ha az egyezmény értelmezése vagy alkalmazása tekintetében két vagy több fél között vita támad, tárgyalással vagy a vitarendezés bármely más módjával, ami a vitában részt vevő felek számára elfogadható, keresik a megoldást.
+
+2\. Amikor egy fél az egyezményt aláírja, megerősíti, elfogadja, jóváhagyja, vagy csatlakozik hozzá, vagy azt követően bármikor, írásos nyilatkozatban jelezheti a letéteményesnek, hogy valamely, e Cikk 1. bekezdésének megfelelően meg nem oldott vita tekintetében kötelezőként elfogadja a következő vitarendezési módok egyikét vagy mindkettőt, bármely olyan féllel kapcsolatban, mely ugyanezt a kötelezettséget ugyancsak elfogadja:
+
+*a)* a vitának a nemzetközi bíróság elé terjesztését;
+
+*b)* a VII. függelékben megállapított eljárásnak megfelelő választott bíráskodást.
+
+3\. Ha a vitában részt vevő felek az e Cikk 2. bekezdésében megjelölt mindkét vitarendezési módot elfogadták, a vitát csak a nemzetközi bíróság elé terjesztik, hacsak a felek másként nem állapodnak meg.
+
+*16. Cikk*
+
+*Aláírás*
+
+Ezen egyezmény aláírásra nyitva áll Espooban (Finnországban), 1991. február 25-től március 1-jéig, illetve azt követően az Egyesült Nemzetek székhelyén, New Yorkban, 1991. szeptember 2-ig, az Európai Gazdasági Bizottság tagországai, valamint a Gazdasági és Szociális Bizottság 1947. március 28-án kelt 36 (IV) számú határozatának 8. bekezdése értelmében az Európai Gazdasági Bizottságnál konzultatív státusszal rendelkező országok, illetve azon regionális gazdasági integrációs szervezetek számára, amelyeket az Európai Gazdasági Bizottság szuverén tagállamai alkotnak, és amelyekre tagországaik az ezen egyezmény által szabályozott ügyekben hatáskörüket átruházták, beleértve az ilyen ügyekkel kapcsolatos szerződésekhez való csatlakozás hatáskörét.
+
+*17. Cikk*
+
+*Megerősítés, elfogadás, jóváhagyás és csatlakozás*
+
+1\. Az egyezményt az aláíró államok és regionális gazdasági integrációs szervezetek megerősítik, elfogadják vagy jóváhagyják.
+
+2\. Az egyezmény 1991. szeptember 3-tól csatlakozásra nyitva áll a 16. Cikkben megjelölt államok és szervezetek számára.
+
+3\. A megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratokat az Egyesült Nemzetek főtitkáránál helyezik letétbe, aki a letéteményes funkcióit tölti be.
+
+4\. A 16. Cikkben megjelölt valamely olyan szervezetet, amely a nélkül válik részesévé az egyezménynek, hogy bármely tagállama részes lenne, az egyezményből fakadó valamennyi kötelezettség köti. Az olyan szervezetek esetében, amelyek egy vagy több tagállama részese az egyezménynek, a szervezetnek és tagállamainak dönteniük kell az egyezményből fakadó kötelezettségeik teljesítéséért viselt saját felelősségük tekintetében. Ilyen esetekben a szervezet és a tagállamok nem jogosultak egyidejűleg gyakorolni az egyezménnyel kapcsolatos jogokat.
+
+5\. A 16. Cikkben megjelölt regionális gazdasági integrációs szervezeteknek megerősítő, elfogadási, jóváhagyási vagy csatlakozási okirataikban meg kell adniuk, hogy az egyezményben szabályozott kérdésekben hatáskörük mire terjed ki. E szervezeteknek ugyancsak tájékoztatniuk kell a letéteményest a hatáskörük kiterjedésében beállott minden lényeges változásról.
+
+*18. Cikk*
+
+*Hatálybalépés*
+
+1\. Ezen egyezmény a tizenhatodik megerősítő, elfogadási, jóváhagyási vagy csatlakozási okirat letétbe helyezése napját követő kilencvenedik napon lép hatályba.
+
+2\. E Cikk 1. bekezdésének alkalmazása szempontjából bármely olyan okirat, amelyet egy regionális gazdasági integrációs szervezet helyezett letétbe, nem számítható az e szervezet tagállamai által letétbe helyezett okiratok számához.
+
+3\. A 16. Cikkben megjelölt minden egyes állam vagy szervezet tekintetében, amely az egyezményt a tizenhatodik megerősítő, elfogadási, jóváhagyási vagy csatlakozási okirat letétbe helyezését követően erősíti meg, fogadja el, hagyja jóvá, vagy csatlakozik hozzá, az egyezmény azt a napot követő kilencvenedik napon lép hatályba, amikor ezen állam vagy szervezet letétbe helyezte megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratát.
+
+*19. Cikk*
+
+*Felmondás*
+
+Négy évvel azt követően, hogy az egyezmény valamely fél tekintetében hatályba lépett, e fél a letéteményeshez intézett írásbeli értesítéssel bármikor felmondhatja az egyezményt. Bármely ilyen felmondás kilencven nappal azután válik hatályossá, amikor a letéteményes a felmondást kézhez vette. Egyetlen ilyen felmondás sem érinti az egyezmény 3–6. Cikkeinek alkalmazását egy olyan tervezett tevékenységnél, amelyre vonatkozólag az ilyen felmondás hatálybalépése előtt a 3. Cikk 1. bekezdése szerint értesítést küldtek, vagy a 3. Cikk 7. bekezdése szerint kérést jelentettek be.
+
+*20. Cikk*
+
+*Hiteles szövegek*
+
+Az egyezmény eredeti példánya, amelynek angol, francia és orosz szövege egyaránt hiteles, az Egyesült Nemzetek főtitkáránál kerül letétbe helyezésre.
+
+Ennek hiteléül az erre megfelelően felhatalmazottak aláírták az egyezményt.
+
+Készült Espooban (Finnország), ezerkilencszázkilencvenegy február huszonötödikén.
+
+*FÜGGELÉKEK*
+
+*I. FÜGGELÉK*
+
+*A tevékenységek felsorolása*
+
+1\. Nyersolaj finomítók (kivéve azon üzemeket, amelyek csupán kenőanyagokat gyártanak nyersolajból) és a naponta 500 tonna vagy annál több szenet vagy bitumenpalát gázosító vagy cseppfolyósító létesítmények.
+
+2\. Hőerőművek és más égetőművek 300 megawatt vagy annál nagyobb hőteljesítménnyel, valamint atomerőművek és egyéb atomreaktorok (kivéve az olyan kutató berendezéseket, amelyek hasadóképes és szaporító anyagok termelésére, illetve átalakítására szolgálnak, és maximális teljesítményük nem haladja meg az 1 kilowatt folyamatos hőterhelést).
+
+3\. Kizárólag nukleáris fűtőanyag termelésére vagy dúsítására, kiégett nukleáris fűtőanyag reprocesszálására vagy radioaktív hulladék tárolására, elhelyezésére és feldolgozására szolgáló létesítmények.
+
+4\. Nyersvas és acél beolvasztására és nemvas fémek termelésére szolgáló nagyobb létesítmények.
+
+5\. Azbeszt kinyerésére és azbeszt vagy azbeszttartalmú termékek feldolgozására és átalakítására szolgáló létesítmények: évente több mint 20 000 tonna azbesztcement készterméket előállító művek; évente több mint 50 tonna súrlódó anyag készterméket előállító üzemek; és más azbesztfelhasználás 200 tonna/évtől.
+
+6\. Komplex vegyiművek.
+
+7\. Autópályák, autóutak*, távolsági vasúti pályák építése, és repülőterek építése 2100 méter alaphosszúságú futópályától.
+
+8\. Nagyátmérőjű olaj- és gázvezetékek.
+
+9\. Olyan kereskedelmi kikötők, valamint belső víziutak és a belső víziutak kikötői, amelyek lehetővé teszik 1350 tonna fölötti hajók áthaladását.
+
+10\. Hulladék elhelyező létesítmények mérgező és veszélyes hulladékok égetésére, vegyi kezelésére vagy ártalmatlanítására.
+
+11\. Nagy gátak és víztározók.
+
+12\. Felszín alatti vízkivételi tevékenységek azon esetekben, amikor a vízkitermelés éves mennyisége 10 millió köbméter vagy annál több.
+
+13\. Cellulóz- és papírgyártás, napi 200 tonna vagy annál több légszáraz anyag termeléssel.
+
+14\. Fémtartalmú ércek és szén nagyobb mérvű bányászata, helyszíni előkészítése és dúsítása.
+
+15\. Tengeri szénhidrogén termelés.
+
+16\. Kőolaj, petrokémiai és vegyi termékek tárolására szolgáló nagyobb létesítmények.
+
+17\. Erdőirtás nagy területeken.
+
+_______
+
+\* Ezen egyezmény értelmében:
+
+,Autópálya'' jelenti azt a gépjármű forgalom számára tervezett és épített utat, mely az út menti ingatlanokat nem szolgálja ki közvetlenül, és
+
+*a)* amelyen a forgalmi irányokat – a speciális helyeket vagy ideiglenes megoldásokat kivéve – (fizikai elválasztást is biztosító) középső elválasztó sáv választja el, vagy a forgalmi irányok részére elkülönített pálya épül, és
+
+*b)* amelynek nincs szintbeli keresztezése semmilyen úttal, vasúttal vagy villamos pályával, gyalogúttal, és
+
+*c)* amelyet autópályaként külön táblával jeleznek.
+
+,,Autóút'' jelenti azt a gépjármű forgalom számára fenntartott utat, melynek csak különszintű vagy szabályozott szintbeni csomópontja lehet, és melynek haladási (forgalmi) sávján tilos megállni és várakozni.
+
+*II. FÜGGELÉK*
+
+A környezeti hatásvizsgálat dokumentációjának\
+tartalma
+
+A környezeti hatásvizsgálat dokumentációjába foglalandó információk a 4. Cikknek megfelelően legalább a következőket tartalmazzák:
+
+*a)* a tervezett tevékenység és célja leírása;
+
+*b)* a tervezett tevékenység elfogadható (például telepítési vagy technológiai) változatainak, valamint a tevékenység nélküli változatnak a leírása, amennyiben ez indokolt;
+
+*c)* a tervezett tevékenység vagy ennek változatai által várhatóan jelentősen befolyásolt környezet leírása;
+
+*d)* a tervezett tevékenység és változatai lehetséges környezeti hatásának leírása és jelentőségének becslése;
+
+*e)* az ártalmas környezeti hatás lehető legalacsonyabb szinten való tartását szolgáló mérséklő intézkedések leírása;
+
+*f)* az előrejelző módszerek és az azokat megalapozó feltételezések, valamint a vonatkozó felhasznált környezeti adatok tételes bemutatása;
+
+*g)* a szükséges információk összeállításakor az ismeretekben lévő hiányosságok és bizonytalanságok számbavétele;
+
+*h)* megfigyelési és kezelési programok, valamint az utóelemzésre vonatkozó bármely terv felvázolása, amikor az helyénvaló; és
+
+*i)* közérthető összefoglaló, beleértve a vizuális megjelenítést (térképek, grafikonok stb.), amennyiben az indokolt.
+
+*III. FÜGGELÉK*
+
+*Az I. függelékben nem szereplő tevékenységek környezeti jelentőségének meghatározását segítő általános kritériumok*
+
+1\. Azon tervezett tevékenységek tekintetében, amelyekre a 2. Cikk 5. bekezdése vonatkozik, az érdekelt felek főként a következő kritériumok valamelyike alapján vehetik fontolóra, hogy azok várhatóan együtt járnak-e jelentős mérvű ártalmas, országhatáron átterjedő hatással:
+
+*a)* *méret:* tervezett tevékenységek, amelyek a tevékenység típusához képest nagynak számítanak;
+
+*b)* *telepítési hely:* tervezett tevékenységek, amelyeket egy környezetileg különösen érzékeny vagy fontos területen, vagy ahhoz közel telepítenek (pl. a Ramsari Egyezmény alapján kijelölt vizes területek, nemzeti parkok, természetvédelmi területek, különös tudományos fontosságú helyek, illetve régészeti, kulturális vagy történelmi jelentőségű helyek); valamint tervezett tevékenységek olyan helyeken, ahol a tervezett fejlesztés jellegénél fogva várhatóan jelentős hatást gyakorolna a lakosságra;
+
+*c)* *hatások:* különösen bonyolult és potenciálisan ártalmas hatásokkal járó tervezett tevékenységek, beleértve azokat, amelyek az emberekre vagy értékes fajokra vagy élő szervezetekre gyakorolnak nagy hatást, valamint azokat, amelyek valamely érintett terület meglévő vagy potenciális használatát veszélyeztetik, és azokat, amelyek olyan többletterhelést okoznak, amely meghaladja a környezet teherbíró képességét.
+
+2\. Az érdekelt felek ezzel a céllal mérlegelik az olyan tervezett tevékenységeket, amelyek a nemzetközi határokhoz közel helyezkednek el, valamint az olyan távolabb tervezett tevékenységeket, amelyek a fejlesztés helyétől távol érvényesülő, országhatáron átterjedő jelentős hatásokat idézhetnek elő.
+
+*IV. FÜGGELÉK*
+
+*Vizsgálati eljárás*
+
+1\. A kérést benyújtó fél vagy felek értesítik a titkárságot, hogy ezen függelék rendelkezéseinek megfelelően létrehozott vizsgáló bizottságnak arra vonatkozó kérdést terjeszt(enek) be: várható-e, hogy az I. függelékben felsorolt valamely tervezett tevékenység jelentős mérvű ártalmas, országhatáron átterjedő hatást okoz. Ebben az értesítésben részletesen kifejti(k) a vizsgálat tárgyát. A titkárság haladéktalanul értesíti az egyezmény valamennyi felét a szóban forgó beterjesztésről.
+
+2\. A vizsgálóbizottság három tagból áll. Mind a kérést benyújtó fél, mind a másik fél, akik részt vesznek a vizsgálati eljárásban, kineveznek egy tudományos vagy műszaki szakértőt, az így kinevezett két szakértő pedig közös megegyezéssel kijelöli a harmadikat, aki a vizsgálóbizottság elnöke lesz. Az utóbbi nem lehet megegyező nemzetiségű a vizsgálati eljárásban részt vevő egyik féllel sem, és szokásos tartózkodási helye sem lehet ezen felek valamelyikének a területén, valamint nem lehet egyikük által alkalmazott sem, vagy olyan személy, aki az üggyel bármilyen más minőségben foglalkozott.
+
+3\. Ha a vizsgálóbizottság elnökét nem jelölik ki a második szakértő kinevezését követő két hónapon belül, a felek bármelyikének kérésére az Európai Gazdasági Bizottság főtitkára jelöli ki, további két hónapon belül.
+
+4\. Ha a vizsgálati eljárásban részt vevő felek egyike a titkárságtól kapott értesítés vételét követő egy hónapon belül nem nevez ki szakértőt, a másik fél tájékoztathatja az Európai Gazdasági Bizottság főtitkárát, aki további két hónapon belül kijelöli a vizsgálóbizottság elnökét. Amint kijelölték, a vizsgálóbizottság elnöke felkéri azt a felet, amely nem nevezett ki szakértőt, hogy azt egy hónapon belül tegye meg. Ennek eltelte után az elnök tájékoztatja az Európai Gazdasági Bizottság főtitkárát, aki a kinevezésről további két hónapon belül gondoskodik.
+
+5\. A vizsgálóbizottságnak el kell fogadnia saját eljárásának szabályait.
+
+6\. A vizsgálóbizottság megtehet minden helyénvaló intézkedést annak érdekében, hogy betöltse funkcióit.
+
+7\. A vizsgálati eljárásban részt vevő felek elősegítik a vizsgálóbizottság munkáját, és főképpen, minden rendelkezésükre álló eszközt felhasználva:
+
+*a)* biztosítják számára az összes lényeges dokumentumot, eszközt és információt, és
+
+*b)* amikor szükséges, felhatalmazzák tanúk vagy szakértők behívására és bizonyítékaik elfogadására.
+
+8\. A felek és a szakértők megőrzik a vizsgálóbizottság munkája során bizalmasan kapott minden információ bizalmasságát.
+
+9\. Ha a vizsgálati eljárásban részt vevő felek egyike nem jelenik meg a vizsgálóbizottság előtt, vagy nem adja elő álláspontját, a másik fél kérheti a vizsgálóbizottságot, hogy az eljárást folytassa, és fejezze be munkáját. Egy fél távolmaradása vagy álláspontja előadásának elmulasztása nem képezi a vizsgálóbizottság munkája folytatásának és befejezésének akadályát.
+
+10\. Hacsak a vizsgálóbizottság másképpen nem határoz, az ügy különleges körülményei miatt a vizsgálóbizottság költségeit, beleértve tagjainak díjazását is, a vizsgálati eljárásban részt vevő felek fedezik, egyenlő arányban. A vizsgálóbizottság valamennyi kiadásáról nyilvántartást vezet, és arról végelszámolást terjeszt a felek elé.
+
+11\. Bármely fél, amelynek olyan tárgyi természetű érdekeltsége fűződik a vizsgálati eljárás tárgyát képező ügyhöz, amire az ügyben hozott döntés befolyással lehet, a vizsgálóbizottság hozzájárulásával bekapcsolódhat az eljárásba.
+
+12\. A vizsgálóbizottság eljárási ügyekre vonatkozó döntéseit tagjai szavazattöbbséggel hozzák meg. A vizsgálóbizottság végső véleménye tagjai többségének álláspontját tükrözi, valamint magában foglal bármely eltérő véleményt is.
+
+13\. A vizsgálóbizottság a megalakítása utáni két hónapon belül előterjeszti végső véleményét, kivéve, ha szükségesnek tartja a határidő meghosszabbítását, ami nem haladhatja meg a két hónapot.
+
+14\. A vizsgálóbizottság végső véleménye elfogadott tudományos elveken alapul. A vizsgálóbizottság továbbítja végső véleményét a vizsgálati eljárásban részt vevő feleknek és a titkárságnak.
+
+*V. FÜGGELÉK*
+
+*Utóelemzés*
+
+Tárgykörét a következők képezik:
+
+*a)* a tevékenység engedélyezésekor vagy jóváhagyásakor megállapított feltételek teljesítésének, valamint a mérséklő intézkedések hatékonyságának ellenőrzése;
+
+*b)* valamely hatás áttekintése a helyes kezelés szempontjából és a bizonytalanságok leküzdése érdekében:
+
+*c)* előrejelzések helyességének igazolása a tapasztalatok ugyanilyen típusú jövőbeli tevékenységeknél történő hasznosítására.
+
+*VI. FÜGGELÉK*
+
+*A két- és többoldalú együttműködés elemei*
+
+1\. Az érdekelt felek, amikor az megfelelő, két- és többoldalú megállapodások keretében intézményi formákat hozhatnak létre, vagy kiterjesztik a meglévő intézményi formák mandátumát, hogy az egyezménynek teljes hatékonyságot biztosítsanak.
+
+2\. A két- és többoldalú megállapodások vagy más megegyezések a következőket foglalhatják magukba:
+
+*a)* az egyezmény végrehajtására vonatkozó bármely további követelményt, figyelembe véve az érdekelt szubrégió saját viszonyait;
+
+*b)* a kölcsönösség és egyenlőség alapján létrehozandó intézményi, adminisztratív és más megegyezéseket;
+
+*c)* a környezet védelmére szolgáló politikák és intézkedések összehangolását, hogy a környezeti hatásvizsgálat alkalmazásával kapcsolatos szabványokban és módszerekben a lehető legnagyobb hasonlóságot érjék el;
+
+*d)* a hatások azonosítására, mérésére, előrejelzésére és vizsgálatára, valamint az utóelemzésre szolgáló módszerek fejlesztését, javítását és/vagy összehangolását;
+
+*e)* a környezet minőségére vonatkozó összehasonlítható adatok összegyűjtésére, elemzésére, tárolására és megfelelő időben történő terjesztésére szolgáló módszerek és programok kifejlesztését és/vagy javítását a környezeti hatásvizsgálat elvégzéséhez szükséges információk biztosítása érdekében;
+
+*f)* küszöbszintek és pontosabban megszabott kritériumok megállapítását az olyan tervezett tevékenységek telepítési helyével, jellegével vagy méretével kapcsolatos országhatáron átterjedő hatás jelentőségének meghatározására, amelyekkel kapcsolatban az egyezmény rendelkezéseinek megfelelően környezeti hatásvizsgálatot végeznek, valamint az országhatáron átterjedő szennyezés kritikus terheléseinek megállapítását;
+
+*g)* amikor az helyénvaló, közös környezeti hatásvizsgálat végzését, közös észlelő-/mérő programok kifejlesztését, az észlelő-/mérő berendezések közös kalibrálását és a módszerek alkalmazásának összehangolását a szerzett adatok és információk összehasonlíthatóvá tétele érdekében.
+
+*VII. FÜGGELÉK*
+
+*Választott bíráskodás*
+
+1\. A panaszos fél vagy felek értesítik a titkárságot arról, hogy a felek megállapodtak a vitának a 15. Cikk 2. bekezdése szerinti választott bíráskodásra bocsátásáról. Az értesítés részletesen kifejti a választott bíráskodás tárgyát, valamint megjelöli az egyezmény azon cikkeit, amelyek értelmezése vagy alkalmazása a vita tárgyát képezi. A titkárság a kapott információkat továbbítja az egyezmény valamennyi felének.
+
+2\. A választott bíróság három tagból áll. A vitában résztvevő panaszos fél vagy felek és a másik fél vagy felek kineveznek egy-egy választott bírót, az így kinevezett két választott bíró pedig közös megegyezéssel kijelöli a harmadikat, aki a bíróság elnöke lesz. Az utóbbi nem lehet egyik vitában részt vevő féllel megegyező nemzetiségű sem, és szokásos tartózkodási helye sem lehet ezen felek valamelyikének a területén, valamint nem lehet egyikük által alkalmazott sem, vagy olyan személy, aki az üggyel bármilyen más minőségben foglalkozott.
+
+3\. Ha a választott bíróság elnökét nem jelölik ki a második választott bíró kinevezését követő két hónapon belül, a felek bármelyikének kérésére az Európai Gazdasági Bizottság főtitkára jelöli ki, további két hónapon belül.
+
+4\. Ha a vitában álló felek egyike a megkeresés vételét követő két hónapon belül nem nevezi ki választott bíróját, a másik fél tájékoztathatja az Európai Gazdasági Bizottság főtitkárát, aki további két hónapon belül kijelöli a választott bíróság elnökét. Amint kijelölték, a választott bíróság elnöke felkéri azt a felet, mely nem nevezett ki választott bírót, hogy azt két hónapon belül tegye meg. Ennek eltelte után tájékoztatja az Európai Gazdasági Bizottság főtitkárát, aki a kinevezésről további két hónapon belül gondoskodik.
+
+5\. A választott bíróság a nemzetközi joggal és az egyezmény rendelkezéseivel összhangban hozza meg döntését.
+
+6\. Bármely e függelék szerint megalakított választott bíróság maga állapítja meg eljárási rendjét.
+
+7\. A választott bíróság mind eljárási, mind pedig érdemi kérdésekben tagjainak többségi szavazatával hozza meg döntéseit.
+
+8\. A tények megállapítása érdekében a bíróság megtehet minden helyénvaló intézkedést.
+
+9\. A vitában részt vevő felek elősegítik a választott bíróság munkáját, valamint különösen, az összes rendelkezésükre álló eszközt felhasználva:
+
+*a)* biztosítanak számára minden lényeges dokumentumot, eszközt és információt, és
+
+*b)* amikor szükséges, felhatalmazzák tanúk vagy szakértők behívására és bizonyítékaik elfogadására.
+
+10\. A felek és a választott bírók megőrzik a választott bíróság munkája során bizalmasan kapott minden információ bizalmasságát.
+
+11\. A választott bíróság a felek egyikének kérése alapján átmeneti jellegű védekezési intézkedésekre tehet ajánlást.
+
+12\. Ha a vitában részt vevő felek egyike nem jelenik meg a választott bíróság előtt, vagy nem védi meg álláspontját, a másik fél kérheti a választott bíróságot, hogy az eljárást folytassa, és hozza meg végső döntését. A vitában álló valamely fél távolmaradása vagy mulasztása nem képezi az eljárás akadályát. Végső döntésének meghozása előtt a választott bíróságnak meg kell győződnie arról, hogy a panasz ténylegesen és jogilag jól megalapozott.
+
+13\. A választott bíróság meghallgathat és megítélhet olyan viszontkereseteket, amelyek közvetlenül a vita tárgyával kapcsolatban keletkeznek.
+
+14\. Hacsak a választott bíróság másképpen nem határoz az eset különleges körülményei miatt, a bíróság költségeit, beleértve tagjainak díjazását is, a vitában részt vevő felek fedezik, egyenlő arányban. A bíróság valamennyi kiadásáról nyilvántartást vezet, és arról végelszámolást terjeszt a felek elé.
+
+15\. Az egyezmény bármely fele, amelynek olyan jogi természetű érdekeltsége fűződik a vita tárgyát képező ügyhöz, amire az ügyben hozott döntés befolyással lehet, a bíróság hozzájárulásával bekapcsolódhat az eljárásba.
+
+16\. A választott bíróság a megalakítása utáni öt hónapon belül meghozza ítéletét, kivéve, ha szükségesnek tartja a határidő meghosszabbítását, ami nem haladhatja meg az öt hónapot.
+
+17\. A választott bíróság ítéletéhez indoklást csatol. Az ítélet a vitában álló felek számára végleges és kötelező. A választott bíróság továbbítja ítéletét a vitában álló feleknek és a titkárságnak. A titkárság a kapott információt eljuttatja az egyezmény minden Feléhez.
+
+18\. Bármely olyan vita, amely a felek között az ítélet értelmezése vagy végrehajtása tekintetében keletkezik, bármelyik fél által az ítéletet hozó választott bíróság elé terjeszthető, vagy ha az utóbbi azt nem tudja vállalni, egy másik döntőbíróság elé, amelyet e célból ugyanazon módon létesítenek, amint az elsőt létesítették.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, az egyezmény rendelkezéseit 1997. október 9. napjától kell alkalmazni.
+
+(2)[^1] Az egyezmény aláíróinak és részes feleinek listáját a rendelet *melléklete* tartalmazza. A kihirdetés időpontja utáni ratifikálókról a környezetvédelemért felelős miniszter a hivatalos lapban megfelelő időközönként értesítést jelentet meg.
+
+## Melléklet a 148/1999. (X. 13.) Korm. rendelethez
+
+**Az országhatáron átterjedő környezeti hatások vizsgálatáról szóló egyezmény aláírói és ratifikálói**
+
+**Az országhatáron átterjedő környezeti hatások vizsgálatáról szóló egyezmény aláírói és ratifikálói**
+
+(1999. szeptemberi állapot)
+
+| Aláírás dátuma | Ratifikálás dátuma1 |
+|---|---|
+| Albánia 1991. 02. 26. | 1991. 10. 04. |
+| Ausztria 1991. 02. 26. | 1994. 07. 27. |
+| Azerbajdzsán | 1999. 03. 25. |
+| Belgium 1991. 02. 26. | 1999. 07. 02. |
+| Belorusszia 1991. 02. 26. |  |
+| Bulgária 1991. 02. 26. | 1995. 05. 12. |
+| Csehország 1993. 09. 30.2 |  |
+| Dánia 1991. 02. 26. | 1997. 03. 14. |
+| Egyesült Államok 1991. 02. 26. |  |
+| Egyesült Királyság 1991. 02. 26. | 1997. 10. 10. |
+| Finnország 1991. 02. 26. | 1995. 08. 10. |
+| Franciaország 1991. 02. 26. |  |
+| Görögország 1991. 02. 26. | 1998. 02. 24. |
+| Hollandia 1991. 02. 25. | 1995. 02. 28. |
+| Horvátország | 1996. 07. 08. |
+| Írország 1991. 02. 27. |  |
+| Izland 1991. 02. 26. |  |
+| Kanada 1991. 02. 26. | 1998. 05. 13. |
+| Lengyelország 1991. 02. 26. | 1997. 06. 12. |
+| Lettország | 1998. 08. 31. |
+| Liechtenstein | 1998. 07. 09. |
+| Luxemburg 1991. 02. 26. | 1995. 08. 29. |
+| Macedónia (volt jugoszláv tagköztársaság) | 1999. 08. 31. |
+| Magyarország 1991. 02. 26. | 1997. 07. 11. |
+| Moldávia | 1994. 01. 04. |
+| Németország 1991. 02. 26. |  |
+| Norvégia 1991. 02. 25. | 1993. 06. 23. |
+| Olaszország 1991. 02. 26. | 1995. 01. 19. |
+| Orosz Föderáció 1991. 06. 06. |  |
+| Örményország | 1997. 02. 21. |
+| Portugália 1991. 02. 26. |  |
+| Románia 1991. 02. 26. |  |
+| Spanyolország 1991. 02. 26. | 1992. 09. 10. |
+| Svájc | 1996. 09. 16. |
+| Svédország 1991. 02. 26. | 1992. 01. 24. |
+| Szlovákia 1993. 05. 28.2 |  |
+| Szlovénia | 1998. 08. 05. |
+| Ukrajna 1991. 02. 26. | 1999. 07. 20. |
+| Európai Közösség 1991. 02. 26. | 1997. 06. 24. |
+
+_______
+
+1Ratifikálás, elfogadás, jóváhagyás, csatlakozás.
+
+2Csehszlovákia aláírásának vállalása.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 197. §-a szerint módosított szöveg.

@@ -1,0 +1,163 @@
+---
+title: "204/2008. (VIII. 19.) Korm. rendelet az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény kihirdetéséről"
+identifier: "204/2008. (VIII. 19.) Korm. rendelet"
+njt_id: "2008-204-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/204"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-08-19
+in_force_from: 2008-08-20
+last_amended: 2019-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-204-20-22"
+retrieved: 2026-10-12
+---
+
+# 204/2008. (VIII. 19.) Korm. rendelet az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről szóló egyezmény (a továbbiakban: egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az egyezmény hiteles magyar nyelvű szövege a következő:
+
+„EGYEZMÉNY\
+az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba való beszállításával kapcsolatos együttműködéséről
+
+Az Oroszországi Föderáció Kormánya és a Magyar Köztársaság Kormánya, a továbbiakban: Felek,
+
+törekedve az atomenergia békés felhasználásával kapcsolatos együttműködésre, a Magyar Népköztársaság és a Szovjet Szocialista Köztársaságok Szövetsége közötti, az atomenergia békés célokra való alkalmazásának terén Moszkvában, 1959. december 22-én kelt Egyezménynek megfelelően,
+
+megerősítve mindkét Fél elkötelezettségét az atomfegyverek elterjedésének megakadályozására létrejött rendszer mellett, a nukleáris fegyverek elterjedésének megakadályozásáról szóló, 1968. július 1-jén kelt Szerződés alapján,
+
+kizárni óhajtva a nagy dúsítású kiégett fűtőelemek tartását és felhasználását a Magyar Köztársaság területén,
+
+irányadónak tekintve a Nemzetközi Atomenergia Ügynökség szabályozó dokumentumait,
+
+figyelembe véve a Magyar Köztársaság tagságát az Európai Közösségekben, köztük az Európai Atomenergia-közösségben,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A jelen Egyezményben használt fogalmak jelentése a következő:
+
+„Kiégett fűtőelem” – a jelen Egyezmény hatálybalépése napján a Magyar Köztársaság területén a Budapesti Kutatóreaktorban és a Budapesti Műszaki és Gazdaságtudományi Egyetem Oktatóreaktorában lévő, orosz gyártmányú besugárzott fűtőelem kazetták, beleértve a sérült és szétszerelt fűtőelem kazettákat;
+
+„Üzemeltető”, „nukleáris baleset” és „atomkár” – az atomkárokért való polgári jogi felelősségről szóló 1963. május 21-i Bécsi Egyezményben meghatározott fogalmak.
+
+*2. Cikk*
+
+Jelen Egyezmény tárgya a kiégett fűtőelemeknek a Magyar Köztársaságból az Oroszországi Föderációba történő beszállítása ideiglenes technológiai tárolás, további feldolgozás és a feldolgozás folyamatában keletkező hulladékok végleges elhelyezése céljából.
+
+*3. Cikk*
+
+Mindkét Fél végrehajtási szervet jelöl ki a jelen Egyezmény teljesítésére. Az orosz Fél részéről a kijelölt végrehajtási szerv az Állami Atomenergetikai Egyesülés „Roszatom” (ROSZATOM). A magyar Fél részéről a kijelölt végrehajtási szerv az Országos Atomenergia Hivatal.
+
+A végrehajtási szervek megnevezésének vagy a feladatainak változásáról a Felek diplomáciai csatornákon keresztül haladéktalanul értesítik egymást.
+
+*4. Cikk*
+
+(1) A Felek végrehajtási szervei egymással végrehajtási egyezményeket köthetnek, amennyiben azokat szükségesnek tartják a jelen Egyezmény végrehajtásához.
+
+(2) Jelen Egyezmény céljának megvalósításához szükséges költségeket és más feltételeket a Felek felhatalmazott szervezetei közötti szerződésekben határozzák meg. A kiégett fűtőelemeknek a Magyar Köztársaságból az Oroszországi Föderációba történő beszállítása tekintetében a felhatalmazott szervezet az orosz Fél részéről a „Föderális Nukleáris és Sugárbiztonsági Központ” megnevezésű szövetségi állami vállalat, a magyar fél részéről a Magyar Tudományos Akadémia Atomenergia Kutatóintézet.
+
+A felhatalmazott szervezetek megváltozásáról a Felek diplomáciai csatornákon keresztül haladéktalanul értesítik egymást.
+
+(3) Abban az esetben, ha a végrehajtási egyezmények és szerződések előírásai eltérnek a jelen Egyezmény előírásaitól, jelen Egyezmény előírásait kell alkalmazni.
+
+*5. Cikk*
+
+(1) A kiégett fűtőelemeknek az Oroszországi Föderációban történő befogadása az Oroszországi Föderációnak az atomenergia felhasználása és a környezetvédelem területére vonatkozó jogszabályainak megfelelően valósul meg.
+
+(2) Az Oroszországi Föderáció területére beszállított kiégett fűtőelemek az Oroszországi Föderáció határának átlépésekor az Oroszországi Föderáció tulajdonába kerülnek, attól az időponttól, amikor a kiégett üzemanyagot az orosz üzemeltető a magyar üzemeltetőtől a megfelelő bizonylatban rögzítetten átveszi. Az üzemeltetőket a Felek felhatalmazott szervezetei közötti külkereskedelmi szerződésben határozzák meg.
+
+(3) A kiégett fűtőelemek feldolgozási folyamatának eredményeként keletkező feldolgozási termékek, köztük a visszanyert urán, plutónium és a radioaktív hulladékok nem kerülnek vissza a Magyar Köztársaságba.
+
+*6. Cikk*
+
+A kutatóreaktor kiégett fűtőelemeinek a Magyar Köztársaságból az Oroszországi Föderációba való szállításakor bekövetkező nukleáris baleset során keletkezett atomkárért való felelősséget az alábbiak viselik:
+
+a magyar üzemeltető – a kiégett fűtőelemeknek a Magyar Köztársaságból az Oroszországi Föderációba való szállítása során az orosz üzemeltetőnek azon a helyen történő átadás időpontjáig, amelyet a Felek felhatalmazott szervezetei között kötött külkereskedelmi szerződésben határoznak meg;
+
+az orosz üzemeltető – a kiégett fűtőelemeknek a Magyar Köztársaságból az Oroszországi Föderációba való szállítása során a magyar üzemeltetőtől azon a helyen történő átvétel időpontjától, amelyet a Felek felhatalmazott szervezetei között kötött külkereskedelmi szerződésben határoznak meg.
+
+*7. Cikk*
+
+(1) A kiégett fűtőelemeknek az Oroszországi Föderációba való beszállítása során a fizikai védelmet a Felek a nukleáris anyagok fizikai védelméről szóló 1979. október 26-i Egyezmény szerint biztosítják.
+
+(2) A kiégett fűtőelemeknek az Oroszországi Föderációba való beszállítása során a fizikai védelem megszervezésének felelőssége átkerül a magyar Féltől az orosz Félhez a Felek felhatalmazott szervezetei közötti külkereskedelmi szerződésben meghatározott helyen, a kiégett fűtőelemeknek az orosz üzemeltető által történő átvételének időpontjában.
+
+(3) A szállítási műveletekre vonatkozó feltételeket mindegyik Fél országában, melynek területén a szállítmány a kiégett fűtőelemekkel áthalad, az adott ország előírásainak és nemzetközi kötelezettségeinek megfelelően szabályozzák, beleértve a magyar Félre vonatkozóan az Európai Közösségek és az Európai Atomenergia-közösség jogszabályait.
+
+*8. Cikk*
+
+Az orosz fél egyetért az alábbi feltételek alkalmazásával az Oroszországi Föderáció területére beszállított kiégett fűtőelemekre vonatkozóan:
+
+*a)* a kiégett fűtőelemek fizikai védelmére, nyilvántartására és ellenőrzésére vonatkozó intézkedéseket a Nemzetközi Atomenergia Ügynökségnek „A nukleáris anyagok és nukleáris létesítmények fizikai védelme” INFCIRC/225/Rev.4. dokumentuma szerint vagy e dokumentum későbbi, a Felek által elfogadott változatainak megfelelően biztosítják,
+
+*b)* jelen Egyezménynek megfelelően az Oroszországi Föderációba beszállított kiégett fűtőelemeket és az abból kapott bármely nukleáris anyagot nem használják fel semmilyen fajtájú nukleáris fegyverhez, nukleáris robbanó szerkezethez vagy semmilyen fajtájú nukleáris fegyver, nukleáris robbanó szerkezet kísérleteihez és kifejlesztéséhez, vagy bármely más katonai célra.
+
+*9. Cikk*
+
+Jelen Egyezmény keretében elvégzett munkálatok és szolgáltatások során létrejött vagy átadott szellemi tulajdon jogi védelmével és a jogok elosztásával kapcsolatos kérdéseket a Felek felhatalmazott szervezetei között a Felek államai jogszabályainak megfelelően megkötött szerződések feltételeinek megfelelően szabályozzák.
+
+*10. Cikk*
+
+(1) Jelen Egyezmény alapján az Oroszországi Föderáció részéről államtitoknak minősülő információk átadása nem valósul meg. A megfelelő jelzéssel ellátott információnak a magyar Féltől való átvétele esetén az orosz Fél ezt az információt korlátozott terjesztésű szolgálati információként kezeli.
+
+(2) A jelen Egyezmény szerint átadott vagy a jelen Egyezmény végrehajtásának eredményeként keletkező és a Fél által bizalmasnak tekintett információt pontosan meg kell határozni, és ennek megfelelő jelöléssel kell ellátni, és a Felek államai jogszabályainak megfelelően kell védeni.
+
+(3) A jelen Egyezmény alapján átadott információ csak jelen Egyezménynek megfelelően használható fel.
+
+*11. Cikk*
+
+A jelen Egyezmény értelmezésével vagy alkalmazásával kapcsolatos bármilyen vitás kérdést a Felek konzultációk útján oldják meg.
+
+*12. Cikk*
+
+(1) Jelen Egyezmény az azt követő hónap első napján lép hatályba, amikor a Felek írásban értesítik egymást annak hatálybaléptetéshez szükséges belső jogi kötelezettségek teljesítéséről. Az egyezményt tízéves időszakra kötik.
+
+(2) A Felek egyetértésével a jelen Egyezmény módosítható.
+
+(3) A kiégett fűtőelemeknek a jelen Egyezmény hatályának megszűnése napján megkezdett, de be nem fejezett szállítását az Oroszországi Föderációba folytatni kell a szállítás befejezéséig a jelen Egyezmény előírásainak megfelelően.
+
+Készült Moszkvában, 2008. július 22-én, két példányban, mindkettő orosz és magyar nyelven, mindkét szöveg egyformán hiteles.
+
+Az Oroszországi Föderáció\
+Kormánya részéről
+
+A Magyar Köztársaság\
+Kormánya részéről”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a az egyezmény 12. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) Az egyezmény, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a közlekedési, hírközlési és energiaügyi miniszter gondoskodik.
+
+## 5. §[^5]
+
+(1)[^6] A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény 40. § (1) bekezdése alapján a kutatóreaktor kiégett fűtőelemeinek az egyezmény szerinti kiszállításával kapcsolatos feladatok ellátására az Energiatudományi Kutatóközpontot jelöli ki.
+
+(2) A kutatóreaktor kiégett fűtőelemei egyezmény szerinti kiszállításának pénzügyi forrása a Központi Nukleáris Pénzügyi Alap.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján az egyezmény 12. cikkében meghatározott időpontban lép hatályba. A 39/2008. (IX. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. szeptember 1.
+[^2]: A 3. § a 4. § (2) bekezdése alapján az egyezmény 12. cikkében meghatározott időpontban lép hatályba. A 39/2008. (IX. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. szeptember 1.
+[^3]: A 39/2008. (IX. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. szeptember 1.
+[^4]: Lásd a 39/2008. (IX. 9.) KüM határozatot.
+[^5]: Az 5. §-t a 348/2013. (IX. 30.) Korm. rendelet 1. §-a iktatta be, szövege ugyanezen rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § (1) bekezdése a 204/2019. (VIII. 23.) Korm. rendelet 8. §-a szerint módosított szöveg.

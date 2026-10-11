@@ -1,0 +1,655 @@
+---
+title: "56/2008. (III. 26.) Korm. rendelet a bírósági ügyintézők által ellátható egyes feladatokról"
+identifier: "56/2008. (III. 26.) Korm. rendelet"
+njt_id: "2008-56-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/56"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-03-26
+in_force_from: 2008-07-02
+last_amended: 2025-01-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-56-20-22"
+retrieved: 2026-10-12
+---
+
+# 56/2008. (III. 26.) Korm. rendelet a bírósági ügyintézők által ellátható egyes feladatokról
+
+A Kormány az Országos Ítélőtábla székhelyének és illetékességi területének megállapításáról, valamint az igazságszolgáltatás működését érintő egyes törvények módosításáról szóló 1999. évi CX. törvény 164. § (4) bekezdésében, a Polgári perrendtartásról szóló 1952. évi III. törvény 395. § (3) bekezdésében és a büntetőeljárásról szóló 1998. évi XIX. törvény 604. § (1) bekezdés c) pontjában foglalt felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §[^1]
+
+E rendelet hatálya az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 6. § (2) bekezdésében meghatározott azon bírósági ügyintézőkre terjed ki, akik polgári, gazdasági, végrehajtási, közigazgatási, munkaügyi, szabálysértési, valamint büntető- és büntetés-végrehajtási ügyekben eljáró bírósági titkár, bíró vagy tanács mellé, továbbá igazgatási ügyben eljáró bírósági vezető (a továbbiakban együtt: bíró) mellé kerültek beosztásra.
+
+## A bírósági ügyintéző feladatellátásának alapelvei
+
+### 2. §
+
+A bírósági ügyintéző az egyéb jogszabályokban rögzített feladatai mellett az e rendeletben meghatározott feladatokat láthatja el.
+
+### 3. §
+
+A bírósági ügyintéző a bíróság előtti peres és nemperes eljárásokban tárgyaláson (meghallgatáson) kívül jár el.
+
+### 4. §[^2]
+
+(1) A bíró vagy a bírósági titkár az ügyet a bírósági ügyintéző feladatköréből bármikor magához vonhatja. A bíró vagy a bírósági titkár a bírósági ügyintézőt feladatai ellátásáról beszámoltathatja, és kötelezheti, hogy a feladat teljesítését az irat bemutatásával igazolja.
+
+(2) A bírósági ügyintéző a bíró vagy a bírósági titkár írásbeli utasítása alapján, annak megfelelően jár el.
+
+(3) A bírósági ügyintéző kérheti az üggyel kapcsolatban egyéb állásfoglalás adását.
+
+### 5. §
+
+(1) A bírósági ügyintéző az e rendeletben és az egyéb jogszabályokban meghatározott, a bíró utasításának megfelelően önállóan eljárva, önálló aláírási joggal rendelkezve meghozott végzések és megtett intézkedések mellett, a bíró utasításának megfelelően elkészíti a nem az ügy érdemében hozott, a bíró által megjelölt egyéb határozatok és intézkedések tervezetét.
+
+(2)[^3] A bírósági ügyintéző a bíróság egyes eljárási cselekményei során – erre irányuló bírói utasítás esetén – jegyzőkönyvvezetői feladatokat lát el.
+
+### 6. §
+
+A bírósági ügyintéző egyéb – a bíróságon foglalkoztatott – igazságügyi alkalmazott által ellátható feladatokat is elvégezhet, ha az ezekre vonatkozó külön jogszabályokban meghatározott képesítési és egyéb feltételeknek megfelel.
+
+### 6/A. §[^4]
+
+A bírósági ügyintéző feladatainak ellátása során – valamennyi ügyszakra kiterjedően – az elektronikus ügyintézésre vonatkozó rendelkezéseket megfelelően alkalmazza.
+
+### 6/B. §[^5]
+
+A bírósági ügyintéző valamennyi ügyszakban ellátja az ingatlan-nyilvántartás vezetését támogató informatikai rendszerben a bírósági feladatokat.
+
+## A polgári, a gazdasági, a közigazgatási és a munkaügyi peres eljárás során ellátható feladatok
+
+### 7. §[^6]
+
+(1) A bírósági ügyintéző első fokon a peres eljárásban
+
+1\. hiánypótlásra felhívó,
+
+2.[^7] a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 176. § (1) bekezdés k) és l) pontja és 176. § (2) bekezdése, valamint 618. § (1) bekezdése alapján a keresetlevelet visszautasító, továbbá a Pp. 618. § (1) bekezdése alapján a bírósági meghagyással szembeni ellentmondást, a fellebbezést, a felülvizsgálati kérelmet, a perújítási kérelmet visszautasító,
+
+3.[^8] igazolási kérelmet a Pp. 150. § (2) bekezdése alapján elutasító, valamint az igazolási kérelemnek helyt adó,
+
+4\. idéző, valamint a kitűzött határnap előtt a tárgyalási határnapot elhalasztó,
+
+5\. ügygondnokot kirendelő,
+
+6.[^9] költség előlegezésére kötelező,
+
+7.[^10] költségmentesség, költségfeljegyzési jog engedélyezése, és munkavállalói költségkedvezmény iránti kérelem elbírálására vonatkozó, valamint költségmentesség, költségfeljegyzési jog megvonásáról szóló,
+
+8.[^11] perköltség-biztosíték összegéről rendelkező,
+
+9.[^12] az ítélet és az eljárást befejező végzés kézbesítésének esetét kivéve, a kézbesítési kifogásnak helyt adó, valamint azt visszautasító vagy elutasító,
+
+10\. tolmács kirendelésére vonatkozó, tolmácsdíjat és fordítási díjat megállapító,
+
+11\. az eljárás szünetelését megállapító,
+
+12.[^13] az eljárás félbeszakadását a Pp. 119. § (1) bekezdés b)–e) pontja alapján megállapító,
+
+13\. a bírósági ügyintéző által meghozott végzések tekintetében kijavító és kiegészítő,
+
+14.[^14] a bírósági ügyintéző által meghozott, a Pp. 357. § (2) bekezdésében meghatározott, a bíróságot nem kötő végzések megváltoztatására vonatkozó,
+
+15.[^15] a Pp. 144. §-a alapján hirdetményi kézbesítést elrendelő,
+
+16.[^16] a Pp. 147. §-a alapján határidőt meghosszabbító,
+
+17.[^17] a Pp. 359. § (1) bekezdése szerinti jogerőt tanúsító,
+
+18.[^18] a Pp. 390. § (2) bekezdése szerinti fellebbezésre vonatkozó észrevétel előterjesztésének lehetőségére felhívó,
+
+19.[^19] a Pp. 399. § (1) bekezdése alapján perújítási kérelmet visszautasító,
+
+20.[^20] a Pp. 259. § (1) bekezdése szerinti eljárást megszüntető,
+
+21.[^21] a Pp. 618. § (2) bekezdése szerinti eljárást megszüntető
+
+végzést hozhat.
+
+(2) A bírósági ügyintéző első fokon a peres eljárásban az (1) bekezdésben meghatározott végzések meghozatalán felül
+
+1.[^22] a Pp. 110. § (2) bekezdése alapján a beadványokat kiadhatja a feleknek,
+
+2\. iratokat
+
+2a. szerezhet be más bíróságtól, ügyészségtől, hatóságtól vagy szervezettől, illetve
+
+2b. küldhet meg más bíróságnak, ügyészségnek vagy hatóságnak,
+
+3\. állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és civil szervezetet kereshet meg tájékoztatás adása, adatok közlése, átadása, valamint környezettanulmány készítése iránt,
+
+4\. külföldre történő kézbesítéshez szükséges intézkedéseket tehet,
+
+5.[^23] megteheti a keresetlevél és az eljárást befejező érdemi határozat kézbesítése esetében a kézbesítési fikció beállásakor szükséges intézkedéseket,
+
+6\. az eljárásban részt vett személyek meghallgatásán kívül megteheti az elveszett (megsemmisült) iratok pótlása iránti intézkedéseket,
+
+7\. intézkedhet a félnek a jogerő megállapításáról való értesítése tárgyában,
+
+8\. intézkedhet a jogerős határozaton alapuló szakértői díj, tolmácsdíj, tanúdíj és ügygondnoki díj kiutalása, valamint az elnöki letétekkel kapcsolatos megkeresések tárgyában,
+
+9\. az iratokat fellebbezés folytán felterjesztheti a másodfokú bírósághoz,
+
+10\. az iratokat felülvizsgálati kérelem folytán felterjesztheti a Kúriához, és értesítheti a jogerős határozatot hozó bíróságot az eljárás megindításáról a felülvizsgálati kérelem másolatának megküldésével,
+
+11.[^24] a Pp. 101. § (3) bekezdése alapján értesítheti a jogi segítségnyújtó szolgálatot,
+
+12\. az alkotmányjogi panaszt továbbíthatja az Alkotmánybírósághoz,
+
+13.[^25] a Pp. 258. § (1) és (2) bekezdése alapján a közjegyzői iratanyagot, illetve a keresetet tartalmazó iratot a közjegyzői felhívás szerinti bíróságra megküldheti.
+
+### 8. §
+
+(1)[^26] A bírósági ügyintéző a gyermek tartása iránt indított perekben, a szülői felügyelettel kapcsolatos perekben, valamint a származási és a gondnoksági perekben elrendelheti az alperes, az anya, illetve a gyermek felkutatását.
+
+(2) Ha az alperes, az anya, illetve a gyermek felkutatása elrendelésének oka megszűnt, a bírósági ügyintéző jogosult az erről szóló végzést meghozni, és annak megküldésével haladéktalanul értesíteni az illetékes rendőrkapitányságot.
+
+### 8/A. §[^27]
+
+A bírósági ügyintéző a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 33/A. §-a alapján indult perekben első fokon jogosult a Cstv. 33/A. § (8) bekezdése szerinti értesítés felszámoló részére történő megküldésére.
+
+### 9. §[^28]
+
+A bírósági ügyintéző közigazgatási perben a közigazgatási perrendtartásról szóló 2017. évi I. törvény 39. § (3) bekezdése alapján megküldheti a keresetlevelet a közigazgatási szervnek.
+
+### 10. §
+
+(1)[^29] A bírósági ügyintéző másodfokon a peres eljárásban a 7. § (1) bekezdés 1. és 3–21. pontjaiban meghatározott végzést hozhat.
+
+(2)[^30] A bírósági ügyintéző másodfokon a peres eljárásban az (1) bekezdésben meghatározott végzések meghozatalán felül a 7. § (2) bekezdés 1–4., 6–8. és 11. pontjaiban meghatározott feladatokat láthatja el, továbbá intézkedhet a fellebbezési ellenkérelemnek, illetőleg a csatlakozó fellebbezés másodpéldányának a fellebbező fél számára történő kézbesítése iránt, valamint az iratokat fellebbezés folytán felterjesztheti a fellebbezés elbírálására jogosult bírósághoz.
+
+### 11. §
+
+A bírósági ügyintéző a 7. § (1) bekezdésében és a 10. § (1) bekezdésében meghatározott végzéseket abban az esetben hozhatja meg, ha a bírói utasítás a döntés valamennyi tartalmi elemére kiterjed.
+
+## A polgári, a gazdasági, a végrehajtási, a közigazgatási és a munkaügyi nemperes eljárás során ellátható feladatok[^31]
+
+### 12. §
+
+(1)[^32] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, és az ügy érdemében végzés meghozatalára jogosult
+
+a) az előzetes jognyilatkozatok nyilvántartásba vételével kapcsolatos eljárásban,
+
+b) a bírósági letéti eljárásban,
+
+c) az eltűntnek nyilvánítási eljárásban,
+
+d)[^33] a bírósági peres és nemperes eljárásokra adott általános meghatalmazásokkal kapcsolatos bírósági nyilvántartási eljárásban,
+
+e) a gondnokoltak névjegyzékének vezetésével kapcsolatos eljárásban,
+
+f) a választottbírósági határozatok jegyzékének vezetésével kapcsolatos eljárásban.
+
+(2)[^34] A bírósági ügyintéző nemperes eljárásban – ha jogszabály eltérően nem rendelkezik – első fokon eljárhat, de az ügy érdemében végzés meghozatalára nem jogosult
+
+a) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény hatálya alá tartozó szervezetek nyilvántartásba vételével, változásbejegyzésével és törlésével kapcsolatos eljárásban,
+
+b) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti civil szervezet végelszámolási, kényszer-végelszámolási és egyszerűsített törlési eljárásban,
+
+c) apaság vélelmének megdöntése iránti nemperes eljárásban,
+
+d) az európai területi együttműködési csoportosulás nyilvántartásba vételével, változásbejegyzésével, törlésével kapcsolatos eljárásban,
+
+e)[^35]
+
+f) önkényesen elfoglalt lakás kiürítésével kapcsolatos eljárásban.
+
+(3) A bírósági ügyintéző a holtnak nyilvánítási eljárásban, a holtnak nyilvánító végzés módosítása vagy hatályon kívül helyezése iránti eljárásban, továbbá a halál tényének megállapítására irányuló eljárásban első fokon eljárhat – kivéve, ha bizonyítás felvételére vagy az érdekeltek meghallgatására kerül sor –, de az ügy érdemében végzés meghozatalára nem jogosult.
+
+(4)[^36] A bírósági ügyintéző végrehajtási eljárásban első fokon jogosult
+
+a) megkeresés kiadására és iratok beszerzésére a végrehajtótól, más bíróságtól, vagy hatóságtól,
+
+b) hiánypótlás kibocsátására,
+
+c) a kifogásnak a bírósági végrehajtásról szóló 1994. évi LIII. törvény 217. § (5) bekezdésén alapuló hivatalbóli elutasítására,
+
+d) zálogjogosulti bekapcsolódási eljárásnál felhívás kibocsátására,
+
+e) jogerő megállapítására,
+
+f) kérelemtől elállás esetén peren kívüli eljárás megszüntetésére,
+
+g)[^37] Pp. 144. §-a alapján hirdetményi kézbesítést elrendelő végzés meghozatalára,
+
+h)[^38] Pp. 147. §-a alapján határidő hosszabbítás engedélyezésére,
+
+i) fellebbezés észrevételezésre történő kiadására,
+
+j) általa hozott végzések kijavítására, kiegészítésére,
+
+k) végrehajtási kifogás visszavonása esetén a kifogás tárgyában indult eljárás megszüntetésére.
+
+### 13. §[^39]
+
+A bírósági ügyintéző a csődeljárásban – a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárás kivételével – első fokon jogosult
+
+a) az egyezséget jóváhagyó, valamint a csődeljárást megszüntető végzés jogerőre emelkedése közzétételének elrendelésére;
+
+b)[^40] a csődeljárás iránti kérelmet hivatalból elutasítani, ha az adós a hiánypótlásra történő felhívás ellenére sem csatolta a Cstv. 8. § (1) bekezdésében meghatározott legfőbb szerv előzetes egyetértését.
+
+### 14. §[^41]
+
+A bírósági ügyintéző a felszámolási eljárásban – a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult felszámolási eljárás kivételével – első fokon jogosult
+
+a) a szünetelés megállapítására a hitelező és az adós közös kérelme alapján;
+
+b)[^42] a felszámolás elrendelése iránti kérelem érdemi vizsgálat nélküli visszautasítására,
+
+ba) ha az adós által kezdeményezett felszámolás esetén a Cstv. 8. § (1) bekezdésében meghatározott legfőbb szerv egyetértése hiányzik, vagy
+
+bb) a hitelező által a Cstv. 22. § (1) bekezdés b) pontja és 24. § (1) bekezdése alapján kezdeményezett eljárások esetén akkor, ha a teljesítési határidőt jogerős bírósági határozat állapította meg, és az a felszámolás elrendelése iránti kérelem bírósághoz érkezésének időpontjában még nem telt el;
+
+c) a Cstv. 26. § (3) bekezdése szerint az adós kérelmére a tartozás kiegyenlítésére fizetési határidő engedélyezésére;
+
+d) az adós vezetőjének a Cstv. 31. § (1) bekezdésében meghatározott kötelezettségek teljesítésére történő felhívására;
+
+e) a Cstv. 24. § (2) bekezdése szerint a felszámolási kérelem benyújtásáról az adós értesítésére;
+
+f)[^43] a felszámolást elrendelő és az eljárást befejező végzések kivonatának Cégközlönyben történő közzétételére;
+
+g) a Cstv. 63/B. § (2)–(3) bekezdése szerint a felszámoló által az egyszerűsített felszámolás lefolytatatásáról készített jelentésnek, valamint a vagyonfelosztási javaslatnak a hitelezők, az állami és az önkormányzati adóhatóság részére történő megküldésére
+
+h)[^44] a Cstv. 6. § (1c) bekezdés szerinti elektronikus nyilvántartás részére történő értesítések és adatszolgáltatások megküldésére,
+
+i)[^45] a Cstv. 6. § (1e) bekezdésében írt adatigénylésre,
+
+j)[^46] a felszámoló felmentésével összefüggésben a Cstv. 27/A. § (7) bekezdés szerint, a felszámolók névjegyzékét vezető hatóság részére történő adatszolgáltatásra,
+
+k)[^47] a Cstv. 29. § (1) bekezdés szerinti értesítési kötelezettség teljesítésével összefüggő feladatokra,
+
+l)[^48] az adós Cstv. 45/A. § (2) bekezdés szerinti kérelmének az állami és önkormányzati adóhatóság részére történő megküldésére, valamint
+
+m)[^49] a Cstv. 51. § (3), (3a) és (5) bekezdése, valamint 51/A. § szerinti jogerős végzések felszámoló szervezetet nyilvántartó hatóság részére történő megküldésére.
+
+### 15. §[^50]
+
+A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény (a továbbiakban: Har.) alapján a bírósági ügyintéző első fokon jogosult
+
+a) a Har. 29. § (5) bekezdése szerint a helyi önkormányzat vagy a hitelező észrevételének a pénzügyi gondnok részére történő megküldésére;
+
+b)[^51] az adósságrendezési eljárás megindítására irányuló kérelem érdemi vizsgálat nélküli visszautasítására, ha a polgármester hiánypótlásra történő felhívás ellenére sem csatolta a Har. 5. § (3) bekezdésben meghatározott okiratokat;
+
+c) a Har. 22. § (1) bekezdésében és 25. § (5) bekezdésében foglalt határidőknek a Har. 28. §-a szerinti meghosszabbítására;
+
+d) a helyi önkormányzat és a hitelező kifogásainak hiánypótlásra történő visszaadására;
+
+e)[^52] a Har. 3. § (2) bekezdés b) pontja szerinti esetekben az eljárás szünetelésének megállapítására;
+
+f) az adósságrendezési eljárást megindító és befejező végzés jogerőre emelkedése közzétételének elrendelésére.
+
+### 15/A. §[^53]
+
+A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvényben (a továbbiakban: Are. tv.) meghatározott bírósági adósságrendezési eljárással összefüggésben bírósági ügyintéző első fokon jogosult
+
+a)[^54] a bírósági adósságrendezés iránti kérelem visszautasítására az Are. tv. 33. § c) és d) pontja szerinti esetekben,
+
+b) a bírósági adósságrendezési eljárás megszüntetésére az Are. tv. 83. § (1) bekezdés d) pont da) alpontja, valamint *f)* és *g)* pontja esetében,
+
+c)[^55] a kifogás érdemi vizsgálat nélküli visszautasítására az Are. tv. 98. § (2) bekezdés a), b) és f) pontja szerinti esetekben.
+
+### 16. §
+
+A nemperes eljárások során a 7. § és a 10. § rendelkezéseit megfelelően alkalmazni kell.
+
+## A büntetőeljárásban és a büntetés-végrehajtási ügyekben ellátható feladatok[^56]
+
+### 17. §[^57]
+
+(1) A bírósági ügyintéző a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 46. § (1) bekezdése alapján védőt rendelhet ki, és a védő személyének kijelölése céljából a határozatot megküldi a kirendelő bíróság székhelye szerint illetékes területi ügyvédi kamarának. A bírósági ügyintéző a kirendelt védő személyéről és elérhetőségéről értesíti a terheltet, valamint a Be. 42. § (5) bekezdése szerint a fogva tartást végrehajtó intézetet.
+
+(2) A bírósági ügyintéző a meghatalmazott védőt tájékoztathatja a korábban eljárt kirendelt védő személyéről és elérhetőségéről a Be. 48. § (3) bekezdése szerint.
+
+### 18. §[^58]
+
+A bírósági ügyintéző tájékoztathatja
+
+a) a sértettet a Be. 51. § (5) bekezdésében foglalt események bekövetkeztéről, ha ez iránt a sértett előzetes kérelmet terjesztett elő,
+
+b) a távoltartással érintett személyt a távoltartás megszűnéséről, illetve megszüntetéséről a Be. 280. § (6) bekezdése szerint, illetve
+
+c) a fogva lévő terhelt által megjelölt személyt a fogva tartásról a Be. 39. § (2) bekezdés b) pontja szerint.
+
+### 19. §[^59]
+
+A bírósági ügyintéző a Be. 77. § (1) bekezdése szerint a költségkedvezmény engedélyezése iránt a bíróságra előterjesztett kérelmet megküldheti az elbírálásra jogosult jogi segítségnyújtó szolgálatnak.
+
+### 20. §[^60]
+
+A bírósági ügyintéző, ha a különösen védett tanú részvételét igénylő eljárási cselekményen jegyzőkönyvvezetőként vett részt, elkészítheti a különösen védett tanú részvételével végzett eljárási cselekményen felvett jegyzőkönyv kivonatát a Be. 92. § (7)–(9) bekezdése szerint.
+
+### 21. §[^61]
+
+(1)[^62] A bírósági ügyintéző a Be. 135. § (1) bekezdése szerint az ismeretlen helyen tartózkodó terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek szóló ügyirat hirdetményi úton történő kézbesítése iránt intézkedhet.
+
+(2) A bírósági ügyintéző a Be. 130. § (1) bekezdés c) pontja és (2) bekezdése szerint az ügyiratot a címzett részére személyesen is kézbesítheti, illetve a címzett az ügyiratot a bírósági ügyintézőtől a bíróságon is átveheti.
+
+### 22. §[^63]
+
+A bírósági ügyintéző a folyamatban lévő ügyet a Be. 147. § (4) bekezdése szerint az egyesítés megfontolása céljából megküldheti az egyesítés kérdésében határozathozatalra jogosult bíróságnak.
+
+### 23. §[^64]
+
+(1) A bírósági ügyintéző bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől a Be. 261. § (1) és (3) bekezdése szerinti adatszolgáltatást kérhet.
+
+(2) A bírósági ügyintéző adatkérése a Be. 261. § (4) bekezdése szerint állami vagy helyi önkormányzati szerv nyilvántartásában kezelt adat továbbítására, illetve átvételére is irányulhat. Ha törvény ezt lehetővé teszi, a bírósági ügyintéző a Be. 263. §-a szerint a nyilvántartásból vagy az adatállományból közvetlen hozzáféréssel veszi át a szükséges adatokat.
+
+(3) A bírósági ügyintéző jogosult a Be. 498. § (3) bekezdése szerint a vádlottra vonatkozó bűnügyi nyilvántartás és a központi szabálysértési nyilvántartás adatait, valamint a jogszabállyal rendszeresített egyéb közhiteles nyilvántartásnak a vádlottra, illetve a vád tárgyára vonatkozó adatait beszerezni.
+
+(4) A bírósági ügyintéző a Be. 498. § (1) bekezdése szerint intézkedhet aziránt, hogy a bizonyítási eszközök a tárgyaláson rendelkezésre álljanak, e körben – az ügyészség megkeresésének kivételével – más szerveket megkereshet, illetve adatszolgáltatást kérhet.
+
+(5) A bírósági ügyintéző a bírósági ügyvitel szabályai szerint jogosult az ügyiratok megküldésére más bíróság, ügyészség, nyomozó hatóság és más hatóság számára. A bírósági ügyintéző megkeresheti a bíróságot, az ügyészséget, a nyomozó hatóságot és más hatóságot iratok megküldése és a megküldött ügyiratok visszaküldése iránt.
+
+### 24. §[^65]
+
+(1) A bírósági ügyintéző az ismeretlen helyen tartózkodó terhelt vagy tanú felkutatása érdekében a terhelt vagy a tanú lakcímének, illetve tényleges tartózkodási helyének a megállapítása iránt intézkedhet. A bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+
+(2) A bírósági ügyintéző a terhelt vagy a tanú lakcímének és tényleges tartózkodási helyének megállapítása iránt a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresi meg.
+
+### 25. §[^66]
+
+(1)[^67] A bírósági ügyintéző jogosult
+
+a) az elővezetési költséget megállapító végzés, valamint
+
+b) a tolmács és fordító kirendelésére vonatkozó, a tolmácsdíjat és fordítási díjat megállapító végzés
+
+meghozatalára.
+
+(2) A bírósági ügyintéző a Be. 453. §-a szerinti eljárásban az általa hozott határozatokat kijavíthatja.
+
+### 26. §[^68]
+
+(1) A bírósági ügyintéző a jogerő megállapításáról tájékoztathatja azokat a személyeket, akik a jogerőssé vált határozat ellen fellebbezés benyújtására, valamint büntetővégzés esetében a Be. 742. §-a szerinti tárgyalás tartása iránti indítvány benyújtására voltak jogosultak a Be. 459. § (3) bekezdése szerint.
+
+(2) A bírósági ügyintéző az ügyiratok felterjesztése után a bírósághoz a Be. 586. § (1) bekezdése szerint benyújtott fellebbezésre tett észrevételt felterjesztheti a fellebbezés elbírálására jogosult bírósághoz.
+
+### 27. §[^69]
+
+A bírósági ügyintéző a másodfokú bírósági eljárásban jogosult
+
+a) a Be. 596. § (1) bekezdés b) pontja szerint az ügyiratokat visszaküldeni az elsőfokú bíróságnak, ha a fellebbezéseket visszavonták,
+
+b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a másodfokú bíróság mellett működő ügyészség indítványát a Be. 596. § (1) bekezdés c) pontja szerint,
+
+c) a vádlott vagy a védő fellebbezésének indokolását – ha azt a másodfokú bíróság előtt terjesztették elő – megküldeni a másodfokú bíróság mellett működő ügyészségnek a Be. 596. § (1) bekezdés d) pontja szerint.
+
+### 28. §[^70]
+
+A bírósági ügyintéző a harmadfokú bírósági eljárásban jogosult
+
+a) a Be. 596. § (1) bekezdés b) pontja szerint az ügyiratokat visszaküldeni a másodfokú bíróságnak, ha a fellebbezéseket visszavonták,
+
+b) a vádlottnak és a védőnek kézbesíteni a más által bejelentett fellebbezést, valamint a harmadfokú bíróság mellett működő ügyészség indítványát a Be. 596. § (1) bekezdés c) pontja szerint,
+
+c) a vádlott vagy a védő fellebbezésének indokolását – ha azt a harmadfokú bíróság előtt terjesztették elő – megküldeni a harmadfokú bíróság mellett működő ügyészségnek a Be. 596. § (1) bekezdés d) pontja szerint.
+
+### 29. §[^71]
+
+A bírósági ügyintéző a perújítási eljárásban jogosult
+
+a) az alapügy ügyiratainak beszerzése iránt intézkedni, ha az ügyészség az ügyiratokat nem csatolta a perújítási indítványhoz a Be. 643. § (3) bekezdése szerint,
+
+b) az ügyészségnek észrevételezésre megküldeni a perújítási indítványt és az alapügy bírósági ügyiratait a Be. 643. § (4) bekezdése szerint,
+
+c) az indítvány előterjesztőjének kézbesíteni az ügyészség perújítási indítványra tett nyilatkozatát, valamint a terheltnek és a védőnek kézbesíteni a más által előterjesztett perújítási indítványt és az arra tett ügyészségi nyilatkozatot a Be. 643. § (5) bekezdése szerint.
+
+### 30. §[^72]
+
+A bírósági ügyintéző a felülvizsgálati eljárásban jogosult
+
+a) a felülvizsgálati indítvány előterjesztőjének, valamint a terheltnek és védőjének észrevételezésre megküldeni a felülvizsgálati indítványt, valamint az ügyészség, a magánvádló vagy a pótmagánvádló nyilatkozatát [a Be. 657. § (3) bekezdése, a Be. 784. § (4) bekezdése vagy a 815. § (4) bekezdése szerint],
+
+b) a terhelt és védője részére észrevételezésre megküldeni a más által benyújtott felülvizsgálati indítványt és az arra tett ügyészségi nyilatkozatot a Be. 657. § (3) bekezdése szerint,
+
+c) a magánvádas vagy pótmagánvádas eljárásban hozott határozat ellen benyújtott felülvizsgálati indítványt a magánvádlónak, illetve a pótmagánvádlónak nyilatkozattétel érdekében megküldeni a Be. 784. § (2) bekezdése vagy a 815. § (2) bekezdése szerint.
+
+### 31. §[^73]
+
+A bírósági ügyintéző a törvényesség érdekében bejelentett jogorvoslati eljárásban jogosult a terheltnek és a védőnek észrevételezésre megküldeni a törvényesség érdekében bejelentett jogorvoslati indítványt a Be. 668. § (3) bekezdése szerint.
+
+### 32. §[^74]
+
+(1) A bírósági ügyintéző a távollévő terhelttel szemben folytatott eljárásban jogosult az ügyészséget tájékoztatni, ha
+
+a) az ügyészség távollévő terhelttel szemben emelt vádat, és a vádlott elérhetősége a tárgyalás megkezdése előtt ismertté válik a Be. 750. § (1) bekezdése szerint,
+
+b) a vádlottal szemben kibocsátott körözés vagy az elfogatóparancs a kibocsátásától számított tizenöt napon belül nem vezetett eredményre a Be. 750. § (2) bekezdése szerint.
+
+(2) A bírósági ügyintéző a külföldön tartózkodó terhelt távollétében folytatott eljárásban a Be. 750. § (1) bekezdése szerint tájékoztathatja az ügyészséget, ha az ügyészség a külföldön ismert helyen tartózkodó terhelt távollétében emelt vádat és a külföldön tartózkodó terhelt hazatért.
+
+### 33. §[^75]
+
+(1) A bírósági ügyintéző megküldheti az ügyiratokat a magasabb hatáskörű elsőfokú bíróságnak, illetve a katonai büntetőeljárást lefolytató bíróságnak az összbüntetési eljárás lefolytatására a Be. 839. § (1) és (2) bekezdése szerint.
+
+(2) A bírósági ügyintéző jogosult a foglalási jegyzőkönyv megküldése iránt a bírósági végrehajtót megkeresni a Be. 443. § (1) bekezdése és a Be. 843. § (1) bekezdése szerint.
+
+### 34. §[^76]
+
+(1) A bírósági ügyintéző a kártalanítási eljárásban jogosult
+
+a) beszerezni a terhelttel szemben alkalmazott szabadságkorlátozásra vonatkozó adatokat és iratokat, amelyek a kártalanítási igény elbírálásához szükségesek,
+
+b) az egyszerűsített kártalanítás tárgyában hozandó döntéshez szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint az egyszerűsített kártalanítási eljárásra irányuló kérelmet az igazságügyért felelős miniszternek megküldeni a Be. 851. § (3) bekezdés szerint, vagy
+
+c) a kártalanítási igény elbírálásához szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint a kártalanítási per iránti keresetlevelet az igazságügyért felelős miniszter által vezetett minisztérium székhelye szerint illetékes, a perre hatáskörrel rendelkező bíróságnak megküldeni a Be. 854. § (4) bekezdése szerint.
+
+(2) A bírósági ügyintéző a kegyelmi eljárásban jogosult
+
+a) beszerezni azokat a terheltre vonatkozó adatokat és iratokat, amelyek a kegyelmi eljárás lefolytatásához és a kegyelmi kérelem vagy a kegyelmi kezdeményezés elbírálásához szükségesek a Be. 859. § (2) bekezdése szerint,
+
+b) a kegyelmi döntéshez szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint a kegyelmi kérelmet vagy a kegyelmi kezdeményezést az igazságügyért felelős miniszterhez felterjeszteni a Be. 859. § (4) bekezdés b) pontja szerint.
+
+(3) A bírósági ügyintéző az államot megillető bűnügyi költség és a rendbírság mérséklésére vagy elengedésére irányuló eljárásban jogosult
+
+a) beszerezni azokat a fizetésre kötelezettre vonatkozó adatokat és iratokat, amelyek az eljárás lefolytatásához és a kérelem elbírálásához szükségesek a Be. 864. § (1) és (2) bekezdése szerint,
+
+b) az államot megillető bűnügyi költség és a rendbírság mérséklése vagy elengedése tárgyában hozandó döntéshez szükséges adatokat tartalmazó ügyiratokat és az e célból beszerzett egyéb iratokat, valamint a fizetésre kötelezett kérelmét az igazságügyért felelős miniszterhez felterjeszteni a Be. 864. § (3) bekezdése szerint.
+
+### 35. §[^77]
+
+(1) A bírósági ügyintéző jogosult az ismeretlen helyen tartózkodó elítélt, illetve kényszergyógykezelt tényleges tartózkodási helyének felkutatása iránt intézkedni a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 19. § (1) bekezdése szerint azzal, hogy a bírósági ügyintéző a körözés elrendelésére és az elfogatóparancs kibocsátására nem jogosult.
+
+(2) A bírósági ügyintéző jogosult a szabadságvesztés végrehajtásának elhalasztására irányuló eljárásban a Büntetés-végrehajtás Országos Parancsnoksága egészségügyi szakterület vezetőjének – az elítélt egészségügyi állapotának büntetés-végrehajtás keretei között való kezelhetőségére vonatkozó – nyilatkozatának beszerzése iránt intézkedni a Bv. tv. 39. § (4) bekezdése szerint.
+
+(3) A bírósági ügyintéző a büntetett előélethez fűződő hátrányok alóli utólagos bírósági mentesítésre irányuló eljárásban a Bv. tv. 44/A. § (3) bekezdése szerint az ügyészség nyilatkozatának beszerzése iránt intézkedhet.
+
+(4) A bírósági ügyintéző a Bv. tv. 69/B. § (8) bekezdése szerint a kényszergyógykezelés felülvizsgálata előtt beszerezheti az elmeorvos-szakértői véleményt.
+
+(5) A bírósági ügyintéző a végleges hatályú foglalkozástól és járművezetéstől eltiltás, valamint a végleges hatályú kiutasítás alóli mentesítésre irányuló eljárásban a Bv. tv. 69/C. § (3) bekezdése szerint az ügyészség és az idegenrendészeti hatóság nyilatkozatának beszerzése iránt intézkedhet.
+
+### 36. §[^78]
+
+(1) A bírósági ügyintéző jogosult a fogva tartott személy esetében a büntetőeljárás lefolytatása, továbbá a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra és egyéb szervekre háruló feladatokról szóló 9/2018. (VI. 11.) IM rendelet szerinti értesítőlapok kiállítására és aláírására, valamint a büntetés-végrehajtási előadó hatáskörébe utalt feladatok ellátására. A bírósági ügyintéző az értesítőlapra bírói rendelvényt nem vezethet.
+
+(2) A bírósági ügyintéző jogosult a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény alapján a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlés szabályairól szóló 20/2009. (VI. 19.) IRM rendeletben meghatározott, a bűnügyi nyilvántartás részére történő bírósági adatközléshez szükséges adatlapok kiállítására és aláírására.
+
+## A szabálysértési eljárásban ellátható feladatok[^79]
+
+### 36/A. §[^80]
+
+(1) A bírósági ügyintéző első fokon a szabálysértési eljárásban
+
+a) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 67. §-a szerint tolmácsot kirendelő, tolmácsdíjat és fordítási díjat megállapító,
+
+b) a Szabs. tv. 72. § (7) bekezdése szerint útbaindítási és elővezetési költséget megállapító,
+
+c) az eljárást
+
+ca) a Szabs. tv. 82. § (1) bekezdés b) pontja szerint az eljárás alá vont személy ismeretlen helyen, vagy külföldön tartózkodása,
+
+cb) a Szabs. tv. 82. § (1) bekezdés c) pontja szerint a szabálysértési hatóság vagy a bíróság az ügyet közvetítői eljárásra utalása
+
+miatt felfüggesztő,
+
+d) ha
+
+da) a Szabs. tv. 83. § (1) bekezdés d) pontja szerint az eljárás alá vont személy meghalt,
+
+db)[^81] a Szabs. tv. 83. § (1) bekezdés f)–g) pontja szerint a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen vagy véglegesen elbírálták, illetve ilyen eljárás van folyamatban,
+
+dc) a Szabs. tv. 83. § (1) bekezdés h) pontja szerint a Szabs. tv. 6. § (6) bekezdésében meghatározott idő eltelte miatt bekövetkező elévülés miatt, valamint
+
+dd) a Szabs. tv. 83. § (1) bekezdés j) pontja szerint az eredményes közvetítői eljárásra figyelemmel az eljárást megszüntető,
+
+e) a Szabs. tv. 86. § (1) bekezdése szerint igazolási kérelemnek helyt adó, elutasító,
+
+f) a Szabs. tv. 92. § (5) bekezdése szerint személyes költségmentesség engedélyezése iránti kérelmet elbíráló,
+
+g) a Szabs. tv. 97. § (1) bekezdése szerint az általa hozott végzést kijavító,
+
+h) a Szabs. tv. 97. § (2) bekezdése szerint az általa hozott végzést kiegészítő,
+
+i) a Szabs. tv. 128. § (5) bekezdése szerint a perújítási eljárást a perújítási kérelem visszavonása folytán megszüntető,
+
+j) a Szabs. tv. 119. § (1) bekezdése és 121. § (3) bekezdése szerint a törvényben kizárt, az elkésett, az arra nem jogosulttól származó, vagy az ismételten azonos tartalommal előterjesztett tárgyalás tartása iránti kérelmet, illetve fellebbezést elutasító,
+
+k) a Szabs. tv. 141. § (7) bekezdése szerint a meg nem fizetett helyszíni bírság, pénzbírság, továbbá a le nem dolgozott közérdekű munka végrehajthatóságának a Szabs. tv. 24. § (3) bekezdésében meghatározott idő eltelte miatt bekövetkező elévülés esetén a meg nem fizetett helyszíni bírság, pénzbírság, továbbá a le nem dolgozott közérdekű munka szabálysértési elzárásra átváltoztatását mellőző,
+
+l) a Szabs. tv. 141. § (7) bekezdése szerint a helyszíni bírság, pénzbírság megfizetésére tekintettel szabálysértési elzárásra átváltoztatását mellőző,
+
+m) a Szabs. tv. 141. § (9) bekezdése és 144. § (3) bekezdése szerint a meg nem fizetett helyszíni bírság, pénzbírság, továbbá a le nem dolgozott közérdekű munka szabálysértési átváltoztatása iránti indítványról tájékoztató szerinti
+
+végzést hozhat.
+
+(2) A bírósági ügyintéző első fokon a szabálysértési eljárásban az (1) bekezdésben meghatározott végzések meghozatalán felül
+
+a) a Szabs. tv. 56. § (3) bekezdése szerint az ismeretlen helyen tartózkodó eljárás alá vont személy vagy tanú tartózkodási helyének felkutatása érdekében az eljárás alá vont személy vagy a tanú lakóhelyének, illetve tartózkodási helyének a megállapítása iránt intézkedhet, így a lakóhely és a tartózkodási hely megállapítása iránt a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervet keresheti meg, valamint az eljárás alá vont személy vagy tanú tartózkodási helyének felderítése végett jogosult a rendőrség megkeresésére,
+
+b) a Szabs. tv. 89. § (5) bekezdése szerint hirdetményi kézbesítést rendelhet el,
+
+c) intézkedhet a szabálysértési kifogás miatt felterjesztett szabálysértési iratok visszaküldése iránt a szabálysértési hatóságnak,
+
+d) a Szabs. tv. 120. § (4) bekezdés d) pontja szerint iratokat, tárgyi bizonyítási eszközöket szerezhet be más bíróságtól, ügyészségtől, hatóságtól vagy szervezettől, iratokat küldhet meg más bíróságnak, ügyészségnek vagy hatóságnak,
+
+e) a Szabs. tv. 120. § (4) bekezdés e) pontja szerint állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és egyesületet kereshet meg tájékoztatás adása, adatok közlése, átadása iránt,
+
+f) intézkedhet a saját hatáskörben meghozható végzések jogerejének megállapítása iránt,
+
+g) intézkedhet a jogerős határozaton alapuló szakértői díj, tolmácsdíj kiutalása, illetve a rendbírság végrehajtása tárgyában,
+
+h) a Szabs. tv. 121. § (4) bekezdése szerint az iratokat fellebbezés folytán felterjesztheti a másodfokú bírósághoz,
+
+i) a Szabs. tv. 143. § (1) bekezdése szerint továbbíthatja a szabálysértési hatóság részére az elkövető bíróságnak megküldött pénzbírság, szabálysértési költség megfizetésére halasztás, illetve részletfizetés iránti kérelmét,
+
+j) intézkedhet a jogerős végzés végrehajtása céljából a végzés hatóságok (így különösen nyomozóhatóság, általános szabálysértési hatóság, foglalkoztatási szerv) részére történő megküldése, nyilvántartásba történő bejegyzése iránt,
+
+k) az elektronikus tárgyalási naplót az ügyirat tartalma alapján vezetheti.
+
+(3) A bírósági ügyintéző az (1) és (2) bekezdésben meghatározott jogosultságait tárgyaláson kívül – a bíró vagy bírósági titkár irányítása és felügyelete mellett – gyakorolhatja.
+
+## Igazgatási feladatok
+
+### 37. §
+
+(1)[^82] A bírósági ügyintéző az erre rendszeresített nyomtatványon rögzítheti a jogi képviselő által nem képviselt félnek a polgári peres eljárást kezdeményező keresetét, valamint viszontkeresetét, a beszámítását és az ellenkérelmet tartalmazó nyilatkozatát, továbbá jegyzőkönyvbe foglalhatja a jogi képviselő által nem képviselt félnek az egyéb polgári eljárást kezdeményező kérelmét.
+
+(2)[^83] Ha törvény alapján a jogi képviselő által nem képviselt fél a folyamatban lévő polgári peres és nemperes eljárások során szóbeli kérelmét jegyzőkönyvbe mondhatja, a bírósági ügyintéző jogosult a jegyzőkönyvet felvenni.
+
+(3) Az (1) és a (2) bekezdés esetében a bírósági ügyintéző köteles a felet a szükséges tájékoztatással ellátni.
+
+### 38. §[^84]
+
+A bírósági ügyintéző jegyzőkönyvbe foglalhatja a Be. 377. § (1) bekezdése és a Be. 765. § (2) bekezdése alapján a bíróságon tett feljelentést.
+
+### 39. §[^85]
+
+A bírósági ügyintéző ellátja az igazságügyi szolgálati jogviszonyából eredő, a bírósági vezető által meghatározott egyéb igazgatási feladatokat, elvégezheti a külön törvény alapján a Bírósági Határozatok Gyűjteményében digitális formában közzéteendő bírósági határozatoknak a közzétételt megelőző anonimizálását.
+
+## Hatálybalépés
+
+### 40. §
+
+Ez a rendelet 2008. július 1. napján lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § a 62/2017. (III. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § a 62/2017. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^4]: A 6/A. § a 62/2017. (III. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 6/B. §-t a 276/2024. (IX. 26.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A 7. § a 62/2017. (III. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 7. § (1) bekezdés 2. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^8]: A 7. § (1) bekezdés 3. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdés 6. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdés 7. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^11]: A 7. § (1) bekezdés 8. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § d) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdés 9. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^13]: A 7. § (1) bekezdés 12. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § e) pontja szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdés 14. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
+[^15]: A 7. § (1) bekezdés 15. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
+[^16]: A 7. § (1) bekezdés 16. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
+[^17]: A 7. § (1) bekezdés 17. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^18]: A 7. § (1) bekezdés 18. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § i) pontja szerint módosított szöveg.
+[^19]: A 7. § (1) bekezdés 19. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^20]: A 7. § (1) bekezdés 20. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^21]: A 7. § (1) bekezdés 21. pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^22]: A 7. § (2) bekezdés 1. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § j) pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdés 5. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § k) pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdés 11. pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § l) pontja szerint módosított szöveg.
+[^25]: A 7. § (2) bekezdés 13. pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (5) bekezdése iktatta be.
+[^26]: A 8. § (1) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
+[^27]: A 8/A. §-t a 393/2017. (XII. 13.) Korm. rendelet 26. § (7) bekezdése iktatta be.
+[^28]: A 9. § a 393/2017. (XII. 13.) Korm. rendelet 26. § (8) bekezdésével megállapított szöveg.
+[^29]: A 10. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^30]: A 10. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^31]: A 12. §-t megelőző alcím a 62/2017. (III. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^32]: A 12. § (1) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^33]: A 12. § (1) bekezdés d) pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (9) bekezdésével megállapított szöveg.
+[^34]: A 12. § (2) bekezdése a 62/2017. (III. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^35]: A 12. § (2) bekezdés e) pontját a 393/2017. (XII. 13.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^36]: A 12. § (4) bekezdését a 62/2017. (III. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^37]: A 12. § (4) bekezdés g) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § g) pontja szerint módosított szöveg.
+[^38]: A 12. § (4) bekezdés h) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § h) pontja szerint módosított szöveg.
+[^39]: A 13. § a 62/2017. (III. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^40]: A 13. § b) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § m) pontja szerint módosított szöveg.
+[^41]: A 14. § a 62/2017. (III. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^42]: A 14. § b) pont nyitó szövegrésze a 393/2017. (XII. 13.) Korm. rendelet 27. § n) pontja szerint módosított szöveg.
+[^43]: A 14. § f) pontja a 393/2017. (XII. 13.) Korm. rendelet 26. § (10) bekezdésével megállapított szöveg.
+[^44]: A 14. § h) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^45]: A 14. § i) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^46]: A 14. § j) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^47]: A 14. § k) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^48]: A 14. § l) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^49]: A 14. § m) pontját a 393/2017. (XII. 13.) Korm. rendelet 26. § (11) bekezdése iktatta be.
+[^50]: A 15. § a 62/2017. (III. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^51]: A 15. § b) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § o) pontja szerint módosított szöveg.
+[^52]: A 15. § e) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § p) pontja szerint módosított szöveg.
+[^53]: A 15/A. §-t a 62/2017. (III. 20.) Korm. rendelet 9. §-a iktatta be.
+[^54]: A 15/A. § a) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § q) pontja szerint módosított szöveg.
+[^55]: A 15/A. § c) pontja a 393/2017. (XII. 13.) Korm. rendelet 27. § r) pontja szerint módosított szöveg.
+[^56]: A 17. §-t megelőző alcím a 109/2018. (VI. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^57]: A 17. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^58]: A 18. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^59]: A 19. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^60]: A 20. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^61]: A 21. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^62]: A 21. § (1) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^63]: A 22. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^64]: A 23. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^65]: A 24. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^66]: A 25. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^67]: [A 675/2020. (XII. 28.) Korm. rendelet 1. § b) pontjában foglalt módosítás, mely szerint a „kirendelésére vonatkozó” szövegrész helyébe a „kirendelésére és felmentésére vonatkozó” szöveg lép, nem vezethető át.]
+[^68]: A 26. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^69]: A 27. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^70]: A 28. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^71]: A 29. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^72]: A 30. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^73]: A 31. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^74]: A 32. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^75]: A 33. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^76]: A 34. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^77]: A 35. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^78]: A 36. § a 109/2018. (VI. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^79]: A 36/A. §-t megelőző alcímet a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^80]: A 36/A. §-t a 62/2017. (III. 20.) Korm. rendelet 15. §-a iktatta be.
+[^81]: A 36/A. § d) pont db) alpontja a 393/2017. (XII. 13.) Korm. rendelet 27. § s) pontja szerint módosított szöveg.
+[^82]: A 37. § (1) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 26. § (12) bekezdésével megállapított szöveg.
+[^83]: A 37. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 26. § (12) bekezdésével megállapított szöveg.
+[^84]: A 38. § a 109/2018. (VI. 25.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^85]: A 39. § a 62/2017. (III. 20.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

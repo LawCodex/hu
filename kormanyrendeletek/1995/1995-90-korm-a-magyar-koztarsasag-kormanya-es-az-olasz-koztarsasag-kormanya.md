@@ -1,0 +1,107 @@
+---
+title: "90/1995. (VII. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya közötti vízummegállapodás kihirdetéséről"
+identifier: "90/1995. (VII. 25.) Korm. rendelet"
+njt_id: "1995-90-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/90"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-07-25
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-90-20-22"
+retrieved: 2026-10-12
+---
+
+# 90/1995. (VII. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya közötti vízummegállapodás kihirdetéséről
+
+## (A jegyzékváltás 1995. június hó 27. napján megtörtént.)
+
+### 1. §
+
+A Kormány e rendelettel a Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya között 1995. február 6-án aláírt vízummegállapodást kihirdeti.
+
+### 2. §
+
+A vízummegállapodás magyar nyelvű szövege a következő:
+
+,,VÍZUMMEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya\
+és az\
+Olasz Köztársaság Kormánya\
+között
+
+A Magyar Köztársaság Kormánya és az Olasz Köztársaság Kormánya, figyelembe véve a két ország közötti kapcsolatok kedvező fejlődését, kifejezve azon óhajukat, hogy minden területen fejlesszék és erősítsék e kapcsolatokat, a Helsinki Záróokmány elvei és rendelkezései alapján az Európai Biztonsági és Együttműködési Értekezlet keretében vállalt kötelezettségeik megvalósításaként, különös tekintettel az EBEÉ Bécsi Utótalálkozója 1989. január 19-én elfogadott Záródokumentumában foglaltakra, az alábbiakban állapodtak meg:
+
+*1. Cikk[^1]*
+
+(1) A Magyar Köztársaság, valamint az Olasz Köztársaság érvényes diplomata vagy szolgálati útlevéllel rendelkező állampolgárai a másik Szerződő Fél területére vízum nélkül utazhatnak a beutazás céljától függetlenül, időbeli korlátozás nélkül.
+
+(2) A Magyar Köztársaság, valamint az Olasz Köztársaság érvényes magánútlevéllelvagy érvényes személyi igazolvánnyal rendelkező állampolgárai kilencven napot meg nem haladó időre vízum nélkül utazhatnak a másik Szerződő Fél területére.
+
+Az Olasz Fél, nemzetközi kötelezettségeinak betartásával, az érvényes személyi igazolvánnyal rendelkező magyar állampolgárok személyi igazolvánnyal történő beutazását azt követően fogja lehetővé tenni,miután a Magyar Féllel diplomáciai úton közölte, hogy a magyar személyi igazolványt okmányvédelmi szempontból elismeri.
+
+Ez a könnyítés nem terjed ki azokra, akik munkaviszony létesítése, vagy önállóan történő munkavégzés, vagy más jövedelemszerző tevékenység folytatása céljából utaznak be, rájuk továbbra is a hatályos vízumszabályok vonatkoznak.
+
+*2. Cikk*
+
+A Szerződő Felek illetékes hatóságai legfeljebb kétéves időtartamra szóló, többszöri beutazásra érvényes vízumot adnak az alábbi kategóriákba tartozó személyeknek:
+
+*a)* a MALÉV olaszországi, illetve az ALITALIA magyarországi állandó képviseletének alkalmazottai és családtagjaik;
+
+*b)* a Szerződő Felek vonatkozó hatályos jogszabályai alapján a másik Szerződő Fél területén működő gazdasági, kereskedelmi, pénzügyi képviseletek és társaságok alkalmazottai és családtagjaik;
+
+*c)* a Magyar Köztársaságban, illetve az Olasz Köztársaságban állandó jelleggel akkreditált magyar, illetve olasz újságírók és családtagjaik;
+
+*d)* a hovatartozásuk rendje szerint jogi személyiséggel rendelkező, jogi vagy más jellegű kormányhatósági felügyelet alatt álló magyar és olasz műszaki-tudományos, valamint kulturális képviseletek alkalmazottai és családtagjaik;
+
+*e)* egyetemi posztgraduális tanfolyamok résztvevői, egyetemi hallgatók, ösztöndíjasok és kutatók, akik az egyik országból a másikba kilencven napot meghaladó tartózkodás céljából a kormányközi kulturális és műszaki tudományos megállapodásokkal összhangban utaznak.
+
+Az e cikkben felsorolt esetekben a Felek a vízumok kiadására vonatkozó döntésüket a lehető legrövidebb idő alatt, de legfeljebb a kérelem benyújtásától számított tizenöt munkanapon belül meghozzák.
+
+*3. Cikk*
+
+(1) A Felek megállapodnak abban, hogy a jelen Megállapodás rendelkezései vagy e rendelkezések értelmezése nem eredményezheti a másik Szerződő Fél állampolgárai beutazását érintő többoldalú nemzetközi szerződésben szabályozott jelenlegi vagy jövőbeli kötelezettségeik hatálytalanítását vagy feltételhez kötését.
+
+(2) Továbbra is irányadóak maradnak mindkét ország hatályos, általános jellegű előírásai a külföldiek beutazására, tartózkodására és mozgására vonatkozóan, beleértve azokat is, amelyek állambiztonsági érdekből a bizonyos területekre való belépést, a ki- és belépésre kijelölt határátkelőhelyeket, valamint a partnerország nemzetközi áruszállításra alkalmazott járműveinek közúti áthaladását szabályozzák.
+
+(3) A jelen Megállapodás rendelkezései nem zárják ki a Szerződő Felek azon jogát, hogy egyedi mérlegelés alapján megtagadják a vízum kiadását vagy a területükre való beutazás engedélyezését.
+
+(4) A Felek bármelyike jogosult a jelen Megállapodás alkalmazását közrendi, közbiztonsági vagy közegészségügyi okból részben vagy egészben, ideiglenes jelleggel felfüggeszteni. Az ilyen intézkedés bevezetéséről és annak feloldásáról a másik Felet haladéktalanul, diplomáciai úton, írásban értesíteni kell.
+
+*4. Cikk[^2]*
+
+(1)Amennyiben a jelen Megállapodás hatálybalépését követően a Szerződő Felek új útlevelet vagy személyi igazolványt ( a továbbiakban: úti okmány) bocsátanak ki, erről az úti okmány mintapéldányának megküldésével a másik Szerződő Felet haladéktalanul értesítik.
+
+(2) A Szerződő Felek állampolgárai, akik a másik Szerződő Fél felségterületén útlevelüket vagy személyi igazolványukat elvesztették vagy azt ellopták, úti okmány beszerzése nélkül visszautazhatnak hazájukba, amennyiben a megfelelő rendőrségi igazolást bemutatják és személyük kiléte, valamint állampolgársága hitelt érdemlően megállapítható.
+
+*5. Cikk*
+
+(1) A jelen Megállapodás az azt követő hatvanadik napon lép hatályba, hogy a Szerződő Felek kölcsönösen, írásban, diplomáciai úton értesítették egymást a hatálybalépéshez szükséges belső jogi feltételek teljesítéséről.
+
+(2) A jelen Megállapodás meghatározatlan időre szól, és azt a Felek bármelyike felmondhatja. A Megállapodás az egyik Szerződő Fél által a másikhoz írásban, diplomáciai úton előterjesztett felmondás kézhezvételét követő harmincadik napon veszti hatályát.
+
+(3) A jelen Megállapodás hatálybalépésével a Szerződő Felek között Rómában, 1990. január 17-én aláírt, az 1991. július 6-i és az 1993. február 22-i levélváltással módosított Megállapodás hatályát veszti.
+
+Készült Rómában, 1995. évi február hó 6. napján, két eredeti példányban, magyar és olasz nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+Az Olasz Köztársaság\
+Kormánya nevében''
+
+### 3. §
+
+(1) E rendelet a kihirdetését követő 2. napon lép hatályba, rendelkezéseit azonban 1995. augusztus hó 26. napjától kell alkalmazni.
+
+(2)[^3] A rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+(3)[^4]
+
+---
+
+[^1]: Az 1. Cikk megállapítva a 101/1999. (VII. 6.) Korm. rendelet 1. pontjával.
+[^2]: A 4. Cikk megállapítva a 101/1999. (VII. 6.) Korm. rendelet 2. pontjával.
+[^3]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 52. pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1410. pontja hatályon kívül helyezte.

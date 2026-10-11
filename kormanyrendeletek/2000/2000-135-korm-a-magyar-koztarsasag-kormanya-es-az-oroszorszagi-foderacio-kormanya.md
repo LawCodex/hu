@@ -1,0 +1,143 @@
+---
+title: "135/2000. (VIII. 3.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között az állampolgárok kölcsönös vízummentes utazásának feltételeiről szóló, 1978. november 24-én aláírt Egyezményhez készült, Moszkvában, 2000. május 18. napján aláírt Ideiglenes Kiegészítő Jegyzőkönyv kihirdetéséről"
+identifier: "135/2000. (VIII. 3.) Korm. rendelet"
+njt_id: "2000-135-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/135"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-08-03
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-135-20-22"
+retrieved: 2026-10-12
+---
+
+# 135/2000. (VIII. 3.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között az állampolgárok kölcsönös vízummentes utazásának feltételeiről szóló, 1978. november 24-én aláírt Egyezményhez készült, Moszkvában, 2000. május 18. napján aláírt Ideiglenes Kiegészítő Jegyzőkönyv kihirdetéséről
+
+## 1. §
+
+A Magyar Köztársaság Kormánya e rendelettel kihirdeti a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között az állampolgárok kölcsönös vízummentes utazásának feltételeiről szóló, 1978. november 24-én aláírt Egyezményhez készült, Moszkvában, 2000. május 18. napján aláírt Ideiglenes Kiegészítő Jegyzőkönyvet.
+
+## 2. §
+
+Az Ideiglenes Kiegészítő Jegyzőkönyv magyar nyelvű szövege a következő:
+
+,,
+
+**Ideiglenes Kiegészítő Jegyzőkönyv**
+
+**a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között az állampolgárok kölcsönös vízummentes utazásának feltételeiről szóló, 1978. november 24-én aláírt Egyezményhez**
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya (a továbbiakban: Szerződő Felek) a két ország közötti együttműködés fejlesztésére, valamint mindkét állam polgárainak kölcsönös utazási feltételeinek tökéletesítésére törekedve, az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+Az egyik Szerződő Fél államának érvényes nemzeti útlevéllel rendelkező állampolgárai a jelen Ideiglenes Kiegészítő Jegyzőkönyvben meghatározott feltételek szerint a másik Szerződő Fél államának területére beutazhatnak, kiutazhatnak, átutazhatnak és ott tartózkodhatnak.
+
+*2. Cikk*
+
+(1) Az egyik Szerződő Fél államának érvényes diplomata- vagy szolgálati útlevéllel rendelkező állampolgárai a másik Szerződő Fél állama területére vízum nélkül utazhatnak be, kiutazhatnak, átutazhatnak és ott legfeljebb 30 (harminc) napig tartózkodhatnak.
+
+A tartózkodási idő legfeljebb a belépéstől számított 90 (kilencven) napig meghosszabbítható, amennyiben a diplomata- vagy szolgálati útlevéllel rendelkező személy állampolgársága szerinti diplomáciai vagy konzuli képviselete azt a másik Szerződő Fél Külügyminisztériumától szóbeli jegyzékben kéri.
+
+A tartózkodás időtartamának meghosszabbításakor, amely bejegyzésre kerül az útlevélbe, a Szerződő Felek illetékes hatóságai nem számítanak fel illetéket.
+
+(2) Az egyik Szerződő Fél államának érvényes diplomata- vagy szolgálati útlevéllel rendelkező azon állampolgárai, akik a másik Szerződő Fél állama területén működő diplomáciai, konzuli vagy kereskedelmi képviselet személyzetének tagjaiként vagy olyan nemzetközi szervezetnél dolgoznak, melynek székhelye vagy képviselete a másik Szerződő Fél államában van, a szolgálatuk teljes időtartama alatt vízum nélkül utazhatnak be a fogadó Szerződő Fél államának területére, ott tartózkodhatnak és kiutazhatnak.
+
+(3) A (2) bekezdésben meghatározott személyek akkreditációjának teljes időtartamára a velük közös háztartásban élő családtagjaik, akik maguk is érvényes magyar vagy orosz diplomata- vagy szolgálati útlevéllel rendelkeznek, a másik Szerződő Fél állama területére vízum nélkül utazhatnak be, utazhatnak ki és ott tartózkodhatnak.
+
+*3. Cikk*
+
+(1) Az egyik Szerződő Fél államának érvényes nemzeti magánútlevéllel rendelkező és a jelen Ideiglenes Kiegészítő Jegyzőkönyv 2. Cikkében nem említett állampolgárai a másik Szerződő Fél államának területére vízum nélkül utazhatnak be, ott legfeljebb 30 (harminc) napig tartózkodhatnak, átutazhatnak és kiutazhatnak.
+
+(2) A jelen Cikk (1) bekezdésében megjelölt vízummentes tartózkodás időtartama – a tartózkodás lejárta előtt, a kérelmező által a másik Szerződő Fél államának illetékes szervéhez benyújtott írásbeli kérelem alapján – legfeljebb 30 (harminc) nappal meghosszabbítható. A tartózkodás időtartamának meghosszabbítása bejegyzésre kerül az útlevélbe.
+
+(3) A jelen Cikk (1) bekezdésében meghatározott vízum nélküli beutazás feltételei a következők:
+
+*a)* Az egyik Szerződő Fél államának azon állampolgárai, akik a másik Szerződő Fél államának területére magáncéllal kívánnak beutazni, a tartózkodási állam jogszabályainak megfelelő, ezen Szerződő Fél államának illetékes hatóságai által kiállított meghívólevél felmutatásával utazhatnak be. Illetékes hatóságok a Magyar Köztársaságban a rendőrkapitányságok, az Oroszországi Föderációban az illetékes belügyi hatóságok.
+
+*b)* Az egyik Szerződő Fél államának azon állampolgárai, akik a másik Szerződő Fél államának területére turista céllal kívánnak beutazni, ezen Szerződő Fél állama belső jogszabályainak megfelelően, hivatalosan bejegyzett és idegenforgalmi tevékenység folytatására feljogosított szállodák vagy utazási irodák által kiállított, a lefoglalt és kifizetett szálláshely meglétét igazoló okmány felmutatásával utazhatnak be.
+
+*c)* Az egyik Szerződő Fél államának a másik Szerződő Fél államának területére üzleti célból beutazó állampolgárainak rendelkezniük kell ez utóbbi Szerződő Fél hatályos jogszabályainak megfelelően kiállított meghívólevéllel. A Magyar Köztársaságban a meghívóleveleket a rendőrkapitányságok állítják ki. Az Oroszországi Föderációban a meghívóleveleket az Oroszországi Föderáció Külügyminisztériuma vagy az Oroszországi Föderáció Külügyminisztériumának regionális képviseletei, illetve azokban a jogilag elkülöníthető közigazgatási egységekben, ahol a Külügyminisztériumnak nincsenek képviseletei, az Oroszországi Föderáció illetékes belügyi hatóságai állítják ki.
+
+*d)* Az egyik Szerződő Fél államának a másik Szerződő Fél államának területére hivatalos célból beutazó állampolgárainak rendelkezniük kell ez utóbbi Szerződő Fél hatályos jogszabályainak megfelelően kiállított meghívólevéllel. A Magyar Köztársaságban a meghívólevelet a Magyar Köztársaság Országgyűlésének hivatalai, a központi közigazgatási szervek, a bíróságok, az ügyészségek, valamint az önkormányzatok, az Oroszországi Föderációban a meghívóleveleket az Oroszországi Föderáció Külügyminisztériuma vagy az Oroszországi Föderáció Külügyminisztériumának regionális képviseletei, illetve azokban a jogilag elkülöníthető közigazgatási egységekben, ahol a Külügyminisztériumnak nincsenek képviseletei, az Oroszországi Föderáció illetékes belügyi hatóságai állítják ki.
+
+*e)* Az egyik Szerződő Fél államának állampolgárai a másik Szerződő Fél államának területén eltemetett hozzátartozóinak sírhelyeit korlátozás nélkül, a Szerződő Felek államainak jogszabályai alapján illetékes szervezetei által évente kiállított, a sírhely fennállását igazoló okmánya alapján látogathatják.
+
+*f)* Az egyik Szerződő Fél államának állampolgárai a másik Szerződő Fél államának területére átutazás (tranzit) céljából a célországig szóló menetjegy vagy gépjárművel történő utazás esetén a gépjármű okmányai, továbbá szükség esetén a célország illetékes hatósága által kiállított beutazó vízum felmutatásával, valamint megfelelő pénzeszközök felmutatásával utazhatnak be, amelyet a Szerződő Felek illetékes hatóságai a tartózkodás idejéhez igazodva állapítanak meg. A tartózkodás időtartama az 5 (öt) napot nem haladhatja meg.
+
+(4) Mindkét Szerződő Fél fenntartja magának azt a jogot, hogy megtagadja a másik Szerződő Fél állama azon állampolgárainak beléptetését, akik a jelen Cikkben foglalt feltételeknek nem felelnek meg. A Szerződő Feleknek jogában áll az egyik Szerződő Fél államának területén való tartózkodás idejével kapcsolatos bejegyzéseket tenni a másik Szerződő Fél állampolgárainak útlevelébe azon okiratok alapján, amelyek ezen állampolgárokat felhatalmazzák a területükre való beutazásra.
+
+*4. Cikk*
+
+Az egyik Szerződő Fél államának azon állampolgárai, akik bevándorlás, tanulmányok folytatása, munkavállalás vagy más jövedelemszerző tevékenység, illetőleg 30 (harminc) napot meghaladó időtartamú tartózkodás céljából kívánnak beutazni, csak vízum birtokában utazhatnak be a másik Szerződő Fél állama területére.
+
+*5. Cikk*
+
+Az egyik Szerződő Fél államának állampolgárai a másik Szerződő Fél államának államhatárát csak a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken léphetik át.
+
+*6. Cikk*
+
+Mindkét Szerződő Fél fenntartja magának azt a jogot, hogy megtagadja a másik Szerződő Fél állama állampolgárainak beléptetését vagy tartózkodását saját államának területén közbiztonsági, közrendi vagy közegészségügyi okból.
+
+*7. Cikk*
+
+Az egyik Szerződő Fél államának állampolgárai a másik Szerződő Fél állama területén történő tartózkodásuk során kötelesek annak jogszabályait betartani.
+
+*8. Cikk*
+
+Az egyik Szerződő Fél államának azon állampolgárai, akik a másik Szerződő Fél állama területén való tartózkodásuk során elveszítik az érvényes nemzeti útlevelüket, a tartózkodási állam területéről a diplomáciai vagy konzuli képviselet által kiállított új, érvényes útlevéllel vagy hazatérési igazolvánnyal utazhatnak ki. Az említett úti okmányokba előzetesen be kell szerezni a tartózkodási állam illetékes hatósága által a lehető legrövidebb időn belül kiállított engedélyt, a Magyar Köztársaságban kiutazási engedély formájában, az Oroszországi Föderációban kiutazó vízum formájában. A kiutazási engedély (kiutazó vízum) kiállítása díjköteles, kivéve a diplomata- vagy szolgálati útlevéllel rendelkező állampolgárok esetében, akiknek a külügyminisztériumok adnak díjmentes kiutazási engedélyt (kiutazó vízumot).
+
+*9. Cikk*
+
+A Szerződő Felek államának azon állampolgárai, akik részére a Szerződő Felek államának egy harmadik államban működő diplomáciai vagy konzuli képviselete állított ki érvényes hazatérési igazolványt, vízum nélkül utazhatnak át a másik Szerződő Fél államának területén. Ilyen esetben a tartózkodás időtartama az 5 (öt) napot nem haladhatja meg.
+
+*10. Cikk*
+
+(1) Bármelyik Szerződő Fél részben vagy egészében felfüggesztheti a jelen Ideiglenes Kiegészítő Jegyzőkönyv alkalmazását közbiztonsági, közrendi vagy közegészségügyi okokból.
+
+(2) A felfüggesztés bevezetése, illetve megszüntetése a Szerződő Felek ilyen (erről szóló), diplomáciai úton tett értesítésének kézhezvétele napján lép hatályba.
+
+*11. Cikk*
+
+(1) A Szerződő Felek a jelen Ideiglenes Kiegészítő Jegyzőkönyv hatálybalépését megelőzően, diplomáciai úton megküldik egymásnak az érvényben lévő úti okmányok mintapéldányait, valamint az azok felhasználására vonatkozó szükséges információkat.
+
+(2) Amennyiben az egyik Szerződő Fél az érvényben lévő úti okmányokat megváltoztatja, vagy újfajta útlevelet vezet be, azok bevezetéséről legalább 30 (harminc) nappal megelőzően, diplomáciai úton, a minták csatolásával és a felhasználásukra vonatkozó lényeges információk közlésével értesíti a másik Szerződő Felet.
+
+(3) Az orosz Fél megfelelő időben, diplomáciai úton megküldi a magyar Fél részére az Oroszországi Föderáció Külügyminisztériuma azon képviseleteinek a Jelen Ideiglenes Kiegészítő Jegyzőkönyv 3. Cikkében említett listáját, amelyek jogosultak meghívólevelet kiállítani magyar állampolgárok részére.
+
+(4) Jelen Ideiglenes Kiegészítő Jegyzőkönyv alapján csak a jelen Cikk (1) és (2) bekezdése szerint átadott mintáknak megfelelő úti okmányokkal kerülhet sor a beutazásra.
+
+*12. Cikk*
+
+A jelen Ideiglenes Kiegészítő Jegyzőkönyv rendelkezései nem érintik a Szerződő Felek azon kötelezettségeit, amelyekre a Magyar Köztársaságot és az Oroszországi Föderációt az általuk kötött más nemzetközi szerződések kötelezik.
+
+*13. Cikk*
+
+A jelen Ideiglenes Kiegészítő Jegyzőkönyv az aláírás napjától számított tizenöt nap elteltével lép hatályba.
+
+*14. Cikk*
+
+(1) A jelen Ideiglenes Kiegészítő Jegyzőkönyv egy évig marad hatályban, vagy amíg azt a Szerződő Felek egyike írásban fel nem mondja. Ebben az esetben a jelen Ideiglenes Kiegészítő Jegyzőkönyv a másik a Szerződő Fél felmondásról szóló értesítése kézhezvételét követő 30 (harminc) nap elteltével veszti hatályát.
+
+(2) Jelen Ideiglenes Kiegészítő Jegyzőkönyv hatálybalépésének napjától a Szerződő Felek között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között az állampolgárok kölcsönös vízummentes utazásának feltételeiről szóló, 1978. évi november hó 24. napján aláírt Egyezmény 2–20. Cikkek, a 24–26. Cikkek, a 28. Cikk, valamint az Egyezményhez csatolt, 1978. év november hó 24. napján aláírt Jegyzőkönyv, valamint az Egyezmény módosítása tárgyában készült, 1988. április 20-án kelt Kiegészítő Jegyzőkönyv rendelkezései nem kerülnek alkalmazásra.
+
+Készült Moszkvában, 2000. év május hó 18. napján, két eredeti példányban, magyar és orosz nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Az Oroszországi Föderáció\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az Ideiglenes Kiegészítő Jegyzőkönyv rendelkezéseit azonban 2000. június 3. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 128. pontja szerint módosított szöveg.

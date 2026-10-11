@@ -1,0 +1,323 @@
+---
+title: "110/1995. (IX. 21.) Korm. rendelet az államháztartási reform kölcsön előkészítését szolgáló Japán Segélyegyezmény kihirdetéséről"
+identifier: "110/1995. (IX. 21.) Korm. rendelet"
+njt_id: "1995-110-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/110"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-09-21
+in_force_from: 1995-09-21
+last_amended: 1995-09-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-110-20-22"
+retrieved: 2026-10-12
+---
+
+# 110/1995. (IX. 21.) Korm. rendelet az államháztartási reform kölcsön előkészítését szolgáló Japán Segélyegyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány a Nemzetközi Újjáépítési és Fejlesztési Bankkal, mint a japán Kormány által az államháztartási reform kölcsön előkészítéséhez nyújtott segély kezelőjével kötött Japán Segélyegyezményt (a továbbiakban: egyezmény) — mely aláírása napján, 1995. március 9-én hatályba lépett — e rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,JAPÁN SEGÉLYEGYEZMÉNY\
+(Technikai Segítségnyújtás az Államháztartási Reform Kölcsönhöz)
+
+a Pénzügyminisztérium,\
+mint a Magyar Köztársaság képviselője és\
+a Nemzetközi Újjáépítési és Fejlesztési Bank,\
+mint a Japán által biztosított segélyalapok kezelője között
+
+EGYEZMÉNY, amely kelt 1995. március 9. napján a MAGYAR KÖZTÁRSASÁG (Kedvezményezett) és a JAPÁN (Japán) által biztosított segélyalapok kezelőjeként fellépő NEMZETKÖZI ÚJJÁÉPÍTÉSI ÉS FEJLESZTÉSI BANK (a Bank) között.
+
+TEKINTETTEL arra, hogy (A) Japán, a Bank és a Nemzetközi Fejlesztési Társulás (a Társulás) között 1990. július 30-án kelt levélmegállapodás értelmében Japán felkérte a Bankot és a Társulást, és ezek beleegyeztek abba, hogy a Bank és a Társulás kezeljen bizonyos, a Bank és a Társulás által támogatott programok és projektek finanszírozására Japán által biztosított segélyalapokat a fenti levélmegállapodásban foglaltaknak megfelelően.
+
+TEKINTETTEL arra, hogy (B) a Kedvezményezett kérelmezte, és Japán beleegyezett abba, hogy a Kedvezményezett részére az említett segélyalapokból segélyt (a Segély) nyújtson az Egyezmény 2. Függelékében leírt technikai segítségnyújtás (a Technikai Segítségnyújtás) megvalósítási költségeinek finanszírozására, a következőkben rögzített feltételeknek és kikötéseknek megfelelően.
+
+EZÉRT a Felek ezennel megállapodnak a következőkben:
+
+*I. Cikkely*
+
+*Általános feltételek és meghatározások*
+
+1.01. Bekezdés:
+
+*a)* Az 1985. január 1-jén kelt, ,,A Bank által Kölcsön és Garanciaegyezményekben alkalmazandó általános feltételek'' alábbi rendelkezései a jelen Egyezmény szerves részét képezik, figyelembe véve a jelen Bekezdés (Általános feltételek) *b)* szakaszában rögzített módosításokat:
+
+*(i)* I. Cikkely:
+
+*(ii)* a 2.01. (1), (2), (3), (4), (5), (6), (8), (9), (10), (11), (18) és (20), 2.02., valamint 2.03. Bekezdések;
+
+*(iii)* a 3.01. Bekezdés;
+
+*(iv)* a 4.01. Bekezdés és a 4.09. Bekezdés első mondata;
+
+*(v)* V. Cikkely;
+
+*(vi)* a 6.01. szakasz, a 6.02. *a)*, *c)*, *d)*, *e)*, *f),* *i)* és *k)*, a 6.03., 6.04., valamint a 6.06. Bekezdések;
+
+*(vii)* a 8.01. *b)* Bekezdés;
+
+*(viii)* a 9.01. *a)* és *c)*, a 9.04., 9.05., 9.06., 9.07., 9.08. és 9.09. Bekezdések;
+
+*(ix)* a 10.01., 10.03. és 10.04. Bekezdések; valamint
+
+*(x)* a XI. Cikkely.
+
+*b)* Az Általános Feltételek módosítása a következő:
+
+*(i)* a ,,Bank'', mint az Általános Feltételekben egységesen használt kifejezés, a 2.01. (8) és a 6.02. *f)* Bekezdések, valamint az 5.01. Bekezdés utolsó kifejezése kivételével a Nemzetközi Újjáépítési és Fejlesztési Bankot, mint az Egyezmény (A) Ismertetőjében hivatkozott Japán és a Bank között levélmegállapodásban szereplő Segély Kezelőjét jelenti, azzal a kitétellel, hogy a 6.02. Bekezdésben a ,,Bank'' kifejezés saját hatáskörében működő intézményként is magában foglalja a Nemzetközi Újjáépítési és Fejlesztési Bankot;
+
+*(ii)* a ,,Kölcsönvevő'' kifejezés, mint az Általános Feltételekben egységesen használt megjelölés, a Kedvezményezettet jelenti;
+
+*(iii)* a ,,Kölcsönegyezmény'' kifejezés, mint az Általános Feltételekben egységesen használt megjelölés, jelen Egyezményt jelenti;
+
+*(iv)* a ,,Kölcsön'' kifejezés, mint az Általános Feltételekben egységesen használt megjelölés, a Segélyt jelenti;
+
+*(v)* a ,,Kölcsönszámla'' kifejezés, mint az Általános Feltételekben egységesen használt megjelölés, a Segélyszámlát jelenti, mely számlát — amire a segélyösszeg jóváírása történik —, a Kezelő a Kedvezményezett nevére könyveiben megnyit;
+
+*(vi)* a ,,Projekt'' kifejezés, mint az Általános Feltételekben egységesen használt megjelölés, a jelen Egyezmény 2. Függelékében leírt Technikai Segítségnyújtást jelenti; és
+
+*(vii)* a 4.01. Bekezdés a következők szerint módosul:
+
+,,A Segélyszámláról történő lehívások yen-ben eszközlendőek, de abban az esetben, ha a Segélyből finanszírozandó kiadások más valutában kerültek, vagy kerülnek kifizetésre, a Kezelő — a Kedvezményezett — kérésére az említett lehívás összegéből megvásárolja az adott valutát.''
+
+1.02. Bekezdés:
+
+,,Amennyiben a szövegösszefüggés mást nem tesz indokolttá, az Általános Feltételekben és jelen Egyezmény Ismertetőiben meghatározott különböző kifejezések jelentése az ott meghatározottaknak felel meg: és a ,,yen'', illetve ,,Y'' jelölések Japán pénznemét jelentik.
+
+*II. Cikkely*
+
+*A Segély*
+
+02.01. Bekezdés:
+
+A Kezelő beleegyezik abba, hogy ezen Egyezményre vonatkozó kikötések és feltételek mellett a Kedvezményezettnek, hatvanhatmillió-ötszázezer (66500000) yen összegű kölcsönt nyújt.
+
+2.02. Bekezdés:
+
+*a)* A Segély összege a Segélyszámláról lehívható a jelen Egyezmény 1. Függelékében rögzített kikötéseknek megfelelően — amennyiben a Kedvezményezett és a Kezelő a Függeléket megállapodás formájában nem módosítja —, az ezen összegből finanszírozandó Projekt megvalósításához eszközölt (vagy a Kezelő beleegyezésével eszközlendő) ésszerű kiadások fedezésére.
+
+*b)* A Kedvezményezett a Projekt céljaira köteles egy kereskedelmi bankjában megnyitni és fenntartani egy különleges letéti számlát a Kezelő számára megfelelő feltételek és kikötések mellett, beleértve a megfelelő védelmet a viszontkereset és a zálogolás ellen. A Különleges Számlára helyezett letétek és ebből történő kifizetések a jelen Egyezmény 4. Függelékében rögzített kikötéseknek megfelelő formában eszközölhetőek.
+
+2.03. Bekezdés:
+
+A Zárónap 1996. október 31. napja, vagy a Kezelő által meghatározott későbbi időpont. Ezen későbbi időpontról a Kezelő késedelem nélkül értesíti a Kedvezményezettet.
+
+*III. Cikkely*
+
+*A Technikai Segítségnyújtás megvalósítása*
+
+3.01. Bekezdés:
+
+A Kedvezményezett a Technikai segítségnyújtást kellő gondossággal, hatékonysággal, a megfelelő adminisztratív és pénzügyi gyakorlattal összhangban valósítja meg, valamint, amint szükségessé válik, a pénzalapokat, a lehetőségeket, szolgáltatásokat és egyéb forrásokat késedelem nélkül biztosítja a Technikai Segítségnyújtás megvalósításához.
+
+3.02. Bekezdés:
+
+Ha a Kezelő másként nem állapodik meg, a Projekthez szükséges és a Segélyből finanszírozott konzultánsi szolgáltatások beszerzését a jelen Egyezmény 3. Függelékében rögzített eljárás szerint kell lebonyolítani.
+
+3.03. Bekezdés:
+
+*a)* A Kedvezményezett olyan nyilvántartásokat és számlákat vezet, vagy vezettet, melyek alkalmasak arra, hogy — a helyes számviteli gyakorlatnak megfelelően — tükrözzék a Kedvezményezett azon részlegeinek vagy intézményeinek a Technikai Segítségnyújtással kapcsolatos működését, forrásait és kiadásait, melyek felelősek a Technikai Segítségnyújtás egészének vagy bármely részének megvalósításáért.
+
+*b)* A Kedvezményezett:
+
+*(i)* a következetesen alkalmazott, helyes könyvvizsgálói elvekkel összhangban, minden egyes pénzügyi évben, a Kezelő számára elfogadható független könyvszakértőkkel megvizsgáltatja az *a)* pontban említett nyilvántartásokat és számlákat;
+
+*(ii)* amint rendelkezésére áll, de legalább minden pénzügyi év végét követő (négy) hónapnál semmiképpen sem később eljuttatja a Kezelőnek az adott évre vonatkozó, az említett szakértők által készített könyvvizsgálói jelentést a Kezelő által ésszerűen elvárt terjedelemben és részletességgel; és
+
+*(iii)* eljuttatja a Kezelőnek az említett nyilvántartásokra és számlákra, valamint azok könyvvizsgálatára vonatkozó minden egyéb információt, melyeket a Kezelő időről időre ésszerűen elvár.
+
+*c)* Minden, a kiadások fedezését szolgáló, a Segélyszámláról kiadási bizonylatok alapján történő lehívás esetén a Kedvezményezett:
+
+*(i)* jelen Bekezdés *a)* pontjával összhangban vezet, vagy vezettet nyilvántartásokat és számlákat, melyek tükrözik az ilyen jellegű kiadásokat;
+
+*(ii)* az ilyen jellegű kiadásokat alátámasztó igazolásokat (szerződések, megrendelések, számlák, okmányok, átvételi elismervények és egyéb dokumentumok) a Segélyszámláról történő utolsó lehívás pénzügyi évére vonatkozó könyvvizsgálói jelentés Kezelőnek való átadását követően legalább egy évig megőrzi;
+
+*(iii)* a Kezelő képviselői számára lehetővé teszi ezen nyilvántartások vizsgálatát;
+
+*(iv)* biztosítja, hogy jelen Bekezdés *b)* pontjában hivatkozott éves könyvvizsgálatban ezen nyilvántartások és számlák benne foglaltatnak, és az ilyen könyvvizsgálat nyomán létrejövő jelentés fent említett könyvvizsgálók önálló véleményét tartalmazza arra vonatkozóan, hogy az adott pénzügyi év során benyújtott kiadási igazolások, továbbá az elkészítésük során alkalmazott eljárások és belső ellenőrzés megbízhatóan alátámasztja a kapcsolatos lehívásokat.
+
+3.04. Bekezdés:
+
+Anélkül, hogy ez korlátozná az Általános Feltételek IX. Cikkelyének rendelkezéseit, a Kedvezményezettnek
+
+*a)* a Kezelő által elfogadható irányelvek alapján tervet kell készítenie a Projekt további működésére vonatkozóan, és eljuttatni a Kezelőnek, nem később, mint a Kölcsön zárónapja, vagy egy olyan későbbi időpontban, amelyben e célból a Kedvezményezett és a Kezelő megállapodnak;
+
+*b)* ésszerű lehetőséget kell biztosítani a Kezelőnek, hogy véleményt cseréljen a Kedvezményezettel az adott tervről;
+
+*c)* ezt követően kellő gondossággal, hatékonysággal és a megfelelő gyakorlattal összhangban kell az adott tervet végrehajtani, figyelembe véve a Kezelő megállapításait.
+
+*IV. Cikkely*
+
+*Hatályosság és megszűnés*
+
+4.01. Bekezdés:
+
+Jelen Egyezmény a Szerződő Felek aláírásával lép hatályba.
+
+4.02. Bekezdés:
+
+Jelen Egyezmény hatályban marad mindaddig, míg a Segély teljes összege folyósításra nem kerül és a jelen Egyezményt megkötő Szerződő Felek az abban foglalt kötelezettségeiknek eleget nem tettek.
+
+*V. Cikkely*
+
+*Képviselet*
+
+5.01. Bekezdés:
+
+Az Általános Feltételek 11.03. Bekezdésének céljaira a Kedvezményezett kijelölt képviselője a magyar Pénzügyminisztérium helyettes államtitkára.
+
+5.02. Bekezdés:
+
+Az Általános Feltételek 11.01. Bekezdésének céljaira az alábbi címek kerültek meghatározásra:
+
+A Kedvezményezett részéről:
+
+Pénzügyminisztérium
+
+Postafiók 481
+
+Budapest, Magyarország
+
+Telex: 225942
+
+A Kezelő részéről:
+
+Nemzetközi Újjáépítési és Fejlesztési Bank
+
+1818 H Street, N. W.
+
+Washington, D. C. 20433
+
+Észak-Amerikai Egyesült Államok
+
+Távirati cím:
+
+INTBAFRAD Washington, D. C.
+
+Telex:
+
+197688 (TRT)
+
+248423 (RCA)
+
+64145 (WVI), vagy
+
+82987 (FTCC)
+
+MINDEZEK BIZONYSÁGÁUL, a Szerződő Felek kellően felhatalmazott képviselőik útján eljárva, ezen Egyezmény nevükben aláírásra kerül a fenti évben és napok.
+
+A Magyar Köztársaság nevében:
+
+*Akar László* s. k.,\
+felhatalmazott képviselő
+
+A Nemzetközi Újjáépítési és Fejlesztési Bank, mint a Segély Kezelője nevében:
+
+*Kemal Dervis* s. k.,\
+felhatalmazott képviselő
+
+*1. Függelék*
+
+*A Segély lehívása*
+
+1\. A segélyösszeg a Segélyszámláról lehívható az ezen összegből finanszírozandó Technikai Segítségnyújtás megvalósításához szükséges konzultánsi szolgáltatások és képzés vonatkozásában felmerült (vagy, ha a Kezelő beleegyezik, a később felmerülő) ésszerű kiadások 100%-ának fedezésére.
+
+2\. Fenti 1. pont rendelkezéseitől függetlenül nem történhetnek lehívások olyan kiadásokra történő kifizetésekre, melyeket ezen Egyezmény kelte előtt eszközöltek.
+
+3\. A Bank kérheti, hogy a Segélyszámláról történő lehívások a konzultáns céggel kötött, a 100000 USD értéket meg nem haladó szerződések és az egyéni szaktanácsadókkal kötött, az 50000 USD értéket meg nem haladó szerződések esetén a kiadási bizonylatok alapján történjenek.
+
+*2. Függelék*
+
+*A Technikai Segítségnyújtás leírása*
+
+A segítségnyújtás célja:
+
+*a)* az államháztartási rendszer átfogó felülvizsgálata, beleértve a központi költségvetési intézmények működését, a költségvetésen kívüli alapokat és a helyi önkormányzatok finanszírozását;
+
+*b)* a közszolgálati rendszer foglalkoztatási és bérrendszerének felülvizsgálata;
+
+*c)* a költségvetés tervezésének és végrehajtásának felülvizsgálata a kiadások monitoringjának és kontrolljának javítása céljából;
+
+*d)* a szociális támogatásokra vonatkozó incidencia vizsgálat.
+
+*3. Függelék*
+
+1\. Ha a Kezelő másként nem állapodik meg, a Technikai Segítségnyújtás Kedvezményezett általi végrehajtásának elősegítése érdekében, a Kedvezményezett olyan szaktanácsadókat alkalmaz, akiknek szakképesítése, tapasztalata, alkalmazási feltételei és kikötései a Kezelő számára kielégítőek. Ezen szaktanácsadók a Kezelő számára kielégítő elvek és eljárások szerint kerülnek kiválasztásra, a Bank által 1981 augusztusában kiadott ,,Útmutató szaktanácsadók alkalmazásához a Világbank kölcsönfelvevői és a Világbank, mint megvalósító szervezet számára'' című kiadvány alapján.
+
+Komplex, idő alapú megbízásokra a Kedvezményezett szerződéssel szaktanácsadókat alkalmaz a Kezelő által a szaktanácsadói szolgáltatásokra kiadott szerződésmintát használva, olyan módosításokkal, amihez a Kezelő hozzájárul.
+
+Ahol nincs a Bank által kiadott vonatkozó standard szerződésdokumentum, a Kedvezményezett a Kezelő egyetértésével más standard szerződésmintát alkalmazhat.
+
+2\. Függetlenül a jelen Bekezdés első szakaszának rendelkezéseitől, a konzultánsokra vonatkozó útmutató rendelkezései, amelyek megkövetelik a költségvetés, a short list-ek, a kiválasztási eljárás, az ajánlatkérés, az ajánlatok, az értékelő jelentések és a szerződések Kezelő által történő felülvizsgálatát és jóváhagyását, nem vonatkoznak
+
+*a)* azokra a konzultáns cégekkel kötött szerződésekre, amelyek becsült költsége nem haladja meg a 100000 USD-t,
+
+*b)* azokra az egyéni szaktanácsadókkal kötött szerződésekre, amelyek becsült költsége kevesebb, mint 50000 USD.
+
+Mindazonáltal, a Kezelő előzetes felülvizsgálatára vonatkozó adott kivételek nem vonatkoznak
+
+*a)* ezen szerződések feladatmeghatározására (TOR),
+
+*b)* a konzultáns cégek közvetlen kiválasztására,
+
+*c)* a Kezelő által kritikus jellegűnek/fontosságúnak minősített megbízásokra,
+
+*d)* a konzultáns cégek megbízási szerződéseinek módosítására, amelyek szerződési értéke eléri vagy meghaladja a 100000 USD-t, vagy
+
+*e)* egyéni szaktanácsadók alkalmazására vonatkozó szerződések módosítására, amelyek szerződési értéke eléri vagy meghaladja az 50000 USD-t.
+
+*4. Függelék*
+
+*Különleges Számla*
+
+1\. Jelen Függelék céljaira
+
+*a)* a ,,jogosult kiadások'' kifejezés a finanszírozandó Projekt ésszerű költségeivel kapcsolatban felmerülő kiadásokat jelenti, amelyek jelen Egyezmény 1. Függelékének rendelkezéseivel összhangban kerülnek a Segély összegéből finanszírozásra.
+
+*b)* A ,,Jóváhagyott Felhasználás'' kifejezés egy tízmillió yennel (10000000) egyenértékű, a jelen Melléklet 3. *a)* pontja szerinti formában a Segélyszámláról lehívásra kerülő, a Különleges Számlára helyezett összeget jelenti.
+
+2\. A Különleges Számláról történő kifizetések jelen Melléklet rendelkezései szerint, kizárólagosan a jogosult kiadások tekintetében eszközölhetőek.
+
+3\. Miután a Kezelő kielégítő formában megkapta annak bizonyítékát, hogy a Különleges Számla jogosan megnyílt, a Jóváhagyott Felhasználás lehívása, illetve a Különleges Számla feltöltésére eszközölt lehívások a következők szerint történhetnek:
+
+*a)* A Jóváhagyott Felhasználás lehívásakor a Kedvezményezett a Kezelőnek a Jóváhagyott Felhasználás teljes összegét nem meghaladó letétbe helyezés(ek) iránti kérelme(ke)t nyújt be. Ezen kérelem (kérelmek) alapján a Kezelő a Kedvezményezett nevében az összege(ke)t lehívja a Segélyszámláról és a Különleges Számlán letétbe helyezi a Kedvezményezett kérelmének megfelelően.
+
+*b) (i)* A Különleges Számla feltöltésére vonatkozóan a Kedvezményezett a Kezelő által meghatározott időközönként nyújtja be a Kezelő felé a Különleges Számlára történő letétbe helyezések iránti kérelmeit.
+
+*(ii)* Ezen kérelmek benyújtásakor, vagy azt megelőzően, a Kedvezményezett jelen Melléklet 4. pontja szerinti, a feltöltésre irányuló kérelem tárgyát képező kifizetés(ek)re vonatkozó dokumentumokat és egyéb igazoló okiratokat a Kezelő felé benyújtja. Ezen kérelmek alapján a Kezelő — a Kedvezményezett nevében eljárva — a Segélyszámláról lehívja, és a Különleges Számlán letétbe helyezi a Kedvezményezett által igényelt, illetve a Különleges Számláról eszközölt jogosult kiadások említett dokumentumok és igazolások bemutatásával alátámasztott összeget. Minden ilyen letétet a Segélyszámláról a Kezelő hív le a vonatkozó egyenértékű összegben, az említett dokumentumok és egyéb igazolások elismerésével.
+
+4\. A Kedvezményezett által a Különleges Számláról eszközölt minden egyes kifizetéskor, a Kedvezményezett — a Kezelő által ésszerűen igényelt időpontban — a Kezelő felé benyújtja azon dokumentumokat és egyéb igazolásokat, melyek igazolják, hogy a kifizetést kizárólagosan jogosult kiadás kifizetésére eszközölték.
+
+5\. Jelen Melléklet 3. pontjának rendelkezéseitől függetlenül a Kezelő nem kérhető fel a Különleges Számlára történő további letétbe helyezésekre:
+
+*a)* ha a Kezelő úgy dönt, hogy minden további lehívást a Kedvezményezettnek kell eszközölnie közvetlenül a Segélyszámláról az Általános Feltételek V. Cikkelyének és a jelen Egyezmény 2.02. Bekezdésének *a)* pontja értelmében; vagy
+
+*b)* ha a Kedvezményezett a jelen Egyezmény 3.03. Bekezdésének értelmében meghatározott időn belül elmulasztja eljuttatni a Kezelőhöz az adott bekezdés értelmében megkívánt könyvvizsgálói jelentést a Különleges Számla nyilvántartására, számláira vonatkozó könyvvizsgálat tekintetében;
+
+*c)* ha bármely időpontban a Kezelő értesíti a Kedvezményezettet arról a szándékáról, hogy részben vagy egészben felfüggeszti a Kedvezményezett jogát, hogy a Különleges Számláról lehívást eszközöljön az Általános Feltételek 6.02. Bekezdésének értelmében;
+
+*d)* miután a Segély teljes lehívatlan összege, levonva a Kezelő által az Általános Feltételek 5.02. Bekezdése szerint a Projektre való tekintettel kötött érvényben lévő kötelezettségek összegét, egyenlő lesz a Jóváhagyott Felhasználás összegének kétszeresével. Ezt követően a Segély lehívatlan összegének Segélyszámláról történő lehívása a Kezelő által kedvezményezetti értesítésben meghatározott eljárások betartásával történhet. Az ilyen jellegű további lehívások csupán azt követően, és olyan mértékben eszközölhetőek, ahogy a Kezelő beleegyezik abba, hogy minden ilyen összeg a Különleges Számlán letétben marad, míg az ilyen értesítés dátuma a jogosult kiadások kifizetését esedékessé nem teszi.
+
+6\. *a)* Ha a Kezelő bármely, a Különleges Számláról történt kifizetést úgy minősít, hogy
+
+*(i)* a jelen Melléklet 2. pontja értelmében egy kiadás vagy összeg nem jogosult;
+
+*(ii)* a Kezelő számára benyújtott igazolások alapján nem igazolt, a Kezelőtől kapott értesítő kézhezvételekor késedelem nélkül (A) biztosítja a Kezelő által esetleg igényelt további igazolásokat; vagy (B) a Különleges Számlán letétbe helyezi (vagy amennyiben a Kezelő úgy igényli, a Kezelő számára megtéríti) az összeget, mely egyenértékű egy ily módon jogosulatlan vagy igazolatlan kifizetés vagy részlet összegével. Ha a Kezelő másként nem határoz, a Kezelő nem eszközöl további letétbe helyezéseket a Különleges Számlán, míg a Kedvezményezett említett igazolásokat, letétbe helyezést vagy megtérítést nem biztosítja.
+
+*b)* Ha a Kezelő úgy ítéli meg, hogy bármely, a Különleges Számlán lévő még kifizetetlen összeg a további jogosult kiadások kiegyenlítéséhez nem lesz szükséges, a Kedvezményezett — a Kezelőtől kapott értesítést követően késedelem nélkül — a Kezelőnek visszatéríti az említett kifizetetlen összeget.
+
+*c)* A Kedvezményezett — a Kezelő értesítését követően — a Különleges Számlán letétben lévő alapok egészét vagy bármely részét a Kezelőnek visszatérítheti.
+
+*d)* A Kezelő felé a jelen Melléklet 6. *a)*, *b)* és *c)* pontjai szerint történő visszatérítések a Segélyszámlára jóváírásra kerülnek, későbbi lehívás vagy jelen Egyezmény — beleértve az Általános Feltételeiket — vonatkozó rendelkezései értelmében történő hatályon kívül helyezés terhére.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. március 9-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a pénzügyminiszter gondoskodik.

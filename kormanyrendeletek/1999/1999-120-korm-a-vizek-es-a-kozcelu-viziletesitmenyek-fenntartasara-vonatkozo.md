@@ -1,0 +1,449 @@
+---
+title: "120/1999. (VIII. 6.) Korm. rendelet a vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról"
+identifier: "120/1999. (VIII. 6.) Korm. rendelet"
+njt_id: "1999-120-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/120"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-08-06
+in_force_from: 2009-10-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-120-20-22"
+retrieved: 2026-10-12
+---
+
+# 120/1999. (VIII. 6.) Korm. rendelet a vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról
+
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §[^1]
+
+A rendelet hatálya – a víziközművek kivételével – a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) hatálya alá tartozó vizek és vízilétesítmények körében az állami, önkormányzati tulajdonban álló vagy a vízügyi hatóság kijelölő döntése alapján állami üzemeltetésben és fenntartásban lévő, valamint a magántulajdonban lévő, de a vízügyi igazgatóság által fenntartott felszíni vizekre – vízfolyásokra, természetes tavakra, ezek medrére és partjára –, vízkárelhárítási vízilétesítményekre, vízkészletek átcsoportosítását szolgáló vízelosztó, többes rendeltetésű és a mezőgazdasági vízszolgáltató rendszerek vízilétesítményeire terjed ki.
+
+## Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1\. *fenntartás:* a vizeken és a közcélú vizilétesítményeken végzett munka, amelyet a biztonságos üzemelés és a rendeltetésszerű használat érdekében rendszeresen vagy eseti jelleggel el kell végezni, beleértve az építmény, illőleg egyéb tárgyi eszköz alkotórészei lényeges elemeinek részleges cseréjét, valamint a vis maior következtében közvetlenül szükséges hibaelhárítást, továbbá ezzel közvetlenül összefüggésben más tárgyi eszközökön végzett bontást és helyreállítást;
+
+2.[^2] *közérdekű fenntartás:* a Vgtv.-ben meghatározott vízgazdálkodási feladatok ellátása érdekében az állami és az önkormányzati tulajdonban lévő vizek és közcélú vízilétesítmények, valamint a területi vízügyi hatóság kijelölő döntése alapján a vízügyi igazgatóság által üzemeltetett egyéb vizek és vízilétesítmények fenntartására, mint közfeladatra a központi és az önkormányzati költségvetésben biztosított pénzeszközből, illetve egyéb támogatásból megvalósuló tevékenység;
+
+3\. *fenntartó:* a vizek és a közcélú vízilétesítmények tulajdonjogából, a vízgazdálkodási közfeladat ezzel összefüggő ellátási kötelezettségéből eredő jogokat gyakorló, az 1. pontban meghatározott kötelezettségek teljesítésért felelős személy (így például tulajdonos, vagyonkezelő);
+
+4\. *folyóban újonnan keletkezett sziget:* a vízből állandóan kiemelkedő terület (szárazulat), amelyet a vízfolyás természetes módon (hordaléklerakódás) vagy mesterséges beavatkozás (folyószabályozás) hozott létre.
+
+5.[^3] *tulajdonos:* a tulajdonos, valamint – állami tulajdonban álló ingatlan esetében – az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személy vagy szervezet.
+
+## Általános rendelkezések
+
+### 3. §
+
+(1)[^4] Az állam a tulajdonában vagy kijelölő döntés alapján üzemeltetésében lévő, az önkormányzat a tulajdonában lévő, valamint a vízitársulat az önkormányzattól üzemeltetésre átvett vizek és közcélú vízilétesítmények fenntartásáról olyan színvonalon és olyan mértékben kötelesek gondoskodni, amely lehetővé teszi a Vgtv.-ben meghatározott vízgazdálkodási közfeladataik ellátását.
+
+(2) Az (1) bekezdésben érintett közfeladatok ellátásának szakmai követelményeit a jogszabályok, illetve a közcélú vízilétesítmények vízgazdálkodási célját, rendeltetését is rögzítő hatósági (vízjogi) engedélyek határozzák meg.
+
+(3)[^5] Az állami tulajdonban vagy kijelölő döntés alapján állami üzemeltetésben lévő, az önkormányzati tulajdonban lévő, valamint az önkormányzattól a vízitársulat által üzemeltetésre átvett vizek és 1. § szerinti vízilétesítmények fenntartása a Mellékletben felsorolt munkák rendszeres vagy az igénybevétel, elhasználódás mértéke szerinti, időszakos elvégzését jelenti.
+
+(4) A fenntartó által elvégzett, de a közédekű fenntartás körébe nem tartozó fenntartás költségeit az abban érdekelt személyek, illetve az azt igénylők az e rendeletben foglaltak szerint a fenntartó részére kötelesek megtéríteni.
+
+(5) A fenntartási többletköltségeket a (4) bekezdés szerint megállapított (megállapítható) érdekeltség arányában
+
+a) vízilétesítmény fenntartásának összköltségeihez viszonyítva, vagy
+
+b) a közérdek mértékét meghaladó költségekre figyelemmel kell megállapítani.
+
+### 4. §
+
+(1) A közérdek mértékét meghaladó, illetve a fenntartással összefüggő vízimunka elvégzéséhez – a külön jogszabályban meghatározott hatósági engedélyek mellett – a fenntartó hozzájárulása szükséges.
+
+(2) Az (1) bekezdésben meghatározott esetben a fenntartó és az igénylő a felmerülő munkákról és többletköltségekről, az ezzel kapcsolatos fizetési kötelezettség mértékéről, módjáról külön szerződésben állapodik meg.
+
+(3)[^6]
+
+(4) A szerződésnek (megállapodásnak), a szerződésekre vonatkozó általános tartalmi követelmények mellett tartalmaznia kell
+
+a) a fenntartó által ellátott vízgazdálkodási közfeladatot, valamint azt a tevékenységet (vízimunkát, vízilétesítményt, illetve vízhasználatot), amely a vízgazdálkodási közfeladatokban kifejezett közérdeken, illetve annak mértékén túl jelentkező igénnyel összefüggésben a felek megállapodásának tárgya;
+
+b) a felmerülő, tervezett költséget, továbbá több igénylő esetén a fenntartási többletköltséggel kapcsolatos érdekeltség arányát;
+
+c) az érdekeltség arányából következő, illetve a ténylegesen megállapítható fenntartási többletköltség mértékére (összegére) vonatkozó fizetési kötelezettség teljesítésének módját, határidejét.
+
+(5) A (2) és (3) bekezdés szerinti szerződésben a fenntartási többletköltséget és az ennek megfelelő költségviselés mértékét (összegét) évenként kell meghatározni.
+
+(6) A szerződésben a felek kölcsönösen meghatározhatják azt a legkisebb igénybevételt, amely még nem eredményez fizetési kötelezettséget.
+
+(7) Amennyiben a vízjogi engedélyezési kötelezettség alá tartozó és fenntartási többletköltséggel járó tevékenység a közcélú vízilétesítmény meghatározott körű használatát célozza és eredményezi, a vízhasználati szolgalomra vonatkozó rendelkezések[^7] megfelelő alkalmazásával kell a vízilétesítmény használatával felmerült fenntartási többletköltségeket megállapítani.
+
+## Medrek és partok fenntartása
+
+### 5. §
+
+(1) A partok védelmét szolgáló művek (partvédő művek) fenntartása a vízfolyás, természetes tó fenntartójának a feladata.
+
+(2) A meder szabályozását és a partok védelmét szolgáló létesítmények fenntartásának kötelezettsége a közérdek mértékéig terjed. Az ezt meghaladó feladatokat – a feladatok ellátását – igénylőnek a kérelmére a fenntartó vagy a fenntartó hozzájárulásával az igénylő maga végezheti el.
+
+(3) A mederszabályozási művek hatására keletkezett feliszapolódásokkal kapcsolatos szakfeladatok ellátása a fenntartó feladata.
+
+(4) A természetes úton létrejött, a parti ingatlan alkotórészévé vált feliszapolódásokkal (parti növedék) összefüggő – a meder részét már nem képező – területekről, közérdekű mederszabályozási munkák esetén a fenntartó a Vgtv. 25. § (2) bekezdésére figyelemmel rendelkezhet.
+
+(5)[^8] A (3) és (4) bekezdés szerinti feliszapolódások minősítéséről, eredetéről, illetve ebből következően a meder és a part találkozási vonalának – a partvonalnak – a meghatározásáról a területileg illetékes vízügyi hatóság határoz.
+
+(6) A partok védelmére szolgáló munkák folytán ideiglenesen igénybe vett terület használatával összefüggő esetben [Vgtv. 25. § (1) bekezdés] a parti sávot és egyéb, korlátozottan hasznosítható területeket érintő rendelkezésekre figyelemmel (Vgtv. 24. §), jogellenes használat esetén a Vgtv. 24. és 25. §-aiban foglaltaknak megfelelően kell eljárni.
+
+(7) Amennyiben a közérdekű mederszabályozás eredményeként a korábban meghatározott partvonal módosul, a fenntartónak kezdeményezni kell annak ismételt megállapítását, illetve a meder részévé vált parti területeket a vízgazdálkodással összefüggő, művelés alól kivett – a vízfolyás, tó részét képező – területként kell nyilvántartani.
+
+(8) A Vgtv. 20. § (3) bekezdés, valamint a 24. §-ból eredő parti ingatlanok és az egyéb, a törvényben meghatározott esetekben a korlátozottan hasznosíthatóság tényét az ingatlan-nyilvántartásba be kell jegyezni. Az ezzel kapcsolatos feladatokról a fenntartó köteles gondoskodni.
+
+## A medrek használatával kapcsolatos rendelkezések
+
+### 6. §
+
+(1)[^9] A meder tulajdonosa a meder használatával összefüggésben – a közérdek, illetve a fenntartási szakfeladatok ellátásához fűződő követelmények sérelme nélkül – hozzájárulhat ahhoz, hogy a medret meghatározott vízilétesítmény (kikötői lekötőmű, móló az úszó móló kivételével, sólyapálya, partvédő művek, hullámtörő, energiatörő) elhelyezése céljából használják, ha azt más jogszabály nem korlátozza, illetve nem tiltja (a továbbiakban: mederhasználati vízilétesítmény).
+
+(2)[^10] A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmények üzemeltetőjét az üzemeltetési hatósági engedély véglegessé válása napjától kezdődően a vízilétesítmény által igénybe vett terület mértékéig terjedően e rendelet erejénél fogva használati jog illeti meg (a továbbiakban: mederhasználati jog). A mederhasználati jog ingatlan-nyilvántartásba – használati jogként – történő bejegyzése érdekében a vízügyi hatóság az üzemeltetési engedély véglegessé válásáról értesíti az ingatlanügyi hatóságot.
+
+(3)[^11] A mederhasználati jog az üzemeltetési engedélyben meghatározott üzemeltetési időszakban áll fenn. Az üzemeltetési engedély meghosszabbítása esetén a mederhasználati jog a meghosszabbított üzemeltetési időszakra terjedően áll fenn a meghosszabbítást kimondó hatósági határozat véglegessé válásának napjától számítottan. Az üzemeltetési engedély lejártának napján vagy visszavonásának véglegessé válása napján a mederhasználati jog megszűnik. Az ingatlan-nyilvántartásba bejegyzett mederhasználati jogot annak megszűnésekor az ingatlanügyi hatóság a vízügyi hatóság megkeresésére törli. A vízügyi hatóság megkeresésén alapuló törléshez az üzemeltető hozzájárulására nincs szükség.
+
+(4)[^12] A mederhasználati jog jogosultja – jogszabályban meghatározott – ellenérték fizetésére köteles. A jogosultnak az üzemeltetési engedély meghosszabbítása esetén a meghosszabbított időszakra vonatkozó ellenérték fizetési kötelezettségére az (5) bekezdésben foglaltak az irányadók.
+
+(5)[^13] A mederhasználati jog ellenértékét – a meder tulajdonosával kötött eltérő tartalmú megállapodás hiányában – a jogosult egy összegben, az üzemeltetési engedély véglegessé válásának napjától számított 30 napon belül köteles megfizetni a meder tulajdonosának.
+
+(6)[^14] A nemzeti vagyonba tartozó vizek medrében elhelyezett mederhasználati vízilétesítmény üzemeltetési engedélyét a hatóság köteles azonnali hatállyal visszavonni, ha
+
+a) a mederhasználati jog jogosultja az (5) bekezdés szerinti egyösszegű ellenérték, vagy – megállapodásban meghatározott – részletfizetés esetén bármely részlet megfizetését nem teljesíti, vagy azzal 90 napot meghaladó késedelembe esik, vagy
+
+b) a fennálló körülmények megváltozása következtében a meder, a természetes állóvíz (összességében vizek) rendeltetésszerű fenntartását, a vízgazdálkodási szakfeladatok vagy egyéb közérdekű munkák ellátását a mederben elhelyezett építmény akadályozza.
+
+(7)[^15] A mederhasználati jog megszűnésétől számított 90 napon belül a jogosult köteles a mederhasználati vízilétesítményt eltávolítani. Amennyiben a jogosult az eltávolítási kötelezettségének határidőben nem tesz eleget, a meder tulajdonosa a jogosult költségére a vízilétesítményt eltávolíthatja. Az eltávolított létesítmény megőrzésére, tárolására a meder tulajdonosa nem köteles.
+
+(8)[^16] A mederhasználati jog jogosultja a fenntartónak a szakfeladatok ellátásával kapcsolatos tevékenységét akadályozás és kártalanítás nélkül köteles tűrni. A nemzeti vagyonba tartozó meder tulajdonosát, fenntartóját a víz hullámmozgásából, jegesedéséből, szélviharból a mederhasználati vízilétesítményben keletkezett károkért felelősség nem terheli.
+
+(9) A meder kizárólag ásványi anyag kitermelésére irányuló igénybevétele esetén a fenntartónak figyelemmel kell kísérnie különösen azt, hogy a kotrás, illetve az ezzel járó egyéb tevékenység ne károsítsa vagy ne veszélyeztesse
+
+a) a hajózható folyókon a hajóutat;
+
+b) a meglévő szabályozási és egyéb műveket, különösen az árvízvédelmi művek biztonságát;
+
+c) a partok állékonyságát, valamint a hullámtérre, a parti sáv használatára vonatkozó, külön jogszabályban[^17] meghatározott rendelkezések szerinti vízgazdálkodási (fenntartási) szakfeladatok ellátását;
+
+d) élővilág-védelmi szempontból a parti sáv élővilágát, valamint a halak ívó- és táplálkozó helyeit.
+
+e)[^18] a kulturális örökségi értékeket.
+
+(10)[^19] A közcélú fenntartás során a mederből kitermelt ásványi anyag nem vízgazdálkodási célú hasznosítása, vagy értékesítése esetén a bányajáradékot a hasznosító vagy a vevő fizeti meg.
+
+## Árvízvédelmi töltések
+
+### 7. §
+
+(1) A fenntartási feladatok ellátása és az árvízvédelmi töltés védelme érdekében a töltésen, valamint a töltés lábvonalától, annak mindkét oldalán számított 10-10 méteres védősávon (töltésmenti sávon) belül nem szabad olyan tevékenységet végezni, amely a talaj szerkezetét, szilárdságát, összetételét megbontaná, illetve hátrányosan megváltoztatná, annak elszennyeződését eredményezné.
+
+(2) Az árvízvédelmi töltésen és az (1) bekezdésben meghatározott védősávon belül a fenntartó hozzájárulása szükséges különösen a járműközlekedéshez, kivéve a kerékpárral való közlekedést, állatok legeltetéséhez, hajtásához – a természet védelméről szóló 1996. évi LIII. törvény 18. §-ának (4) bekezdésében foglaltak figyelembevételével –, anyagok ideiglenes tárolásához.
+
+(3) A fenntartó a (2) bekezdésben említett hozzájárulást a használattal arányos, a fenntartási költségek részleges ellentételezését szolgáló díj megfizetéséhez kötheti.
+
+(4) Az (1) és (2) bekezdésben meghatározott rendelkezések megszegése esetén a fenntartó, a jogellenes magatartás jellegétől függően köteles
+
+a) intézkedés végett az arra hatáskörrel rendelkező államigazgatási szervet megkeresni, illetve
+
+b) bírósági úton eljárni annak érdekében, hogy a megsértett alanyi jogot a bíróság állítsa helyre, illetve a jogellenesen eljárót az attól való tartózkodásra vagy meghatározott magatartásra kötelezze,
+
+c) szabálysértési eljárás megindítását kezdeményezni, ha annak feltételei fennállnak.
+
+(5) Árvízvédelmi töltésen vezetett közút, vasút, kerékpárút esetén e rendeletben foglaltakat a közös rendeltetésnek megfelelően, az árvízvédelmi biztonság figyelembevételével kell alkalmazni.
+
+## A fenntartással kapcsolatos egyéb feladatok
+
+### 8. §
+
+(1) A vizek és vízilétesítmények fenntartásával kapcsolatos egyéb feladatok körében a fenntartó
+
+a)[^20] nyilvántartja az állami és az önkormányzati tulajdonban lévő, valamint a területi vízügyi hatóság kijelölő döntése alapján üzemeltetett egyéb vizeket, azok medrét képező területeket, továbbá a meder részét nem képező parti földrészleteket;
+
+b) szükség esetén gondoskodik az (1) bekezdés a) pontjában meghatározott területként nyilvántartott vizek medrét vagy azok partját érintő ingatlan-nyilvántartási bejegyzéssel kapcsolatos feladatokkal, továbbá a földrészleteken fennálló – a fenntartási feladatokkal összefüggő, a Vgtv. 20. § (3) bekezdésében, 23. és 24., valamint a 27. §-ban meghatározott – korlátozásokkal járó jogok és tények bejegyzéséről, illetve bejegyeztetéséről.
+
+(2) Az (1) bekezdésben érintett feladatokkal összefüggésben a fenntartó:
+
+a) a meder és a part találkozási vonalának módosulása esetén – a változást megalapozó jogcímre figyelemmel – elkészíti az ingatlan-nyilvántartási átvezetéshez szükséges munkarészeket, szükség esetén gondoskodik a part vonalának a természetben történő kitűzéséről;
+
+b) indokolt esetben – különösen jogellenes beavatkozás esetén, saját ellenőrzése alapján – intézkedés végett megkeresi a hatáskörrel rendelkező államigazgatási szervet, és kezdeményezi az eredeti állapot helyreállítását vagy ha az elbontás nem indokolt, a partvonal megállapítását (módosítását);
+
+c)[^21] a meder jogellenes igénybevétele, feltöltése esetén az eredeti állapot visszaállítására irányuló végleges közigazgatási hatósági határozat, illetve jogerős bírósági döntés alapján – ha a munkák elvégzésére más személy nem kötelezhető – ellátja a végrehajtás műveleti (operatív) feladatait.
+
+(3)[^22] Amennyiben a jogellenes feltöltést végző személye ismeretlen, a fenntartónak a fennmaradásra vagy az eredeti állapot helyreállítására vonatkozó, az eljárást megindító javaslata alapján, valamint a területileg illetékes önkormányzat véleményére figyelemmel a vízügyi hatóság határoz a partvonal ismételt megállapításáról vagy ennek hiányában a feltöltött terület megszüntetéséről, a meder eredeti állapotának helyreállításáról.[^23]
+
+(4)[^24] A (3) bekezdésben érintett hatáskörben eljárva, a vízügyi hatóság a partvonal ismételt megállapítására irányuló, elutasító döntésében kötelezi a fenntartót a (2) bekezdés a) pontja szerint feltöltött terület megszüntetésére, illetve az eredeti állapot visszaállítására.
+
+(5) A feltöltés fennmaradása esetén a fenntartó elkészíti az ingatlan-nyilvántartási átvezetéshez szükséges dokumentációt.
+
+(6)[^25] Az ingatlan-nyilvántartási változás és átvezetés alapja a végleges partvonal-megállapító határozat, amelynek alapján – figyelemmel a (5) bekezdés szerinti dokumentációra – az illetékes ingatlanügyi hatóság az eddig mederként nyilvántartott területet a változás átvezetésével, rendeltetésének, illetve a hasznosításnak megfelelő művelési ágban tartja nyilván.
+
+(7) Az ingatlan-nyilvántartási átvezetés után a meder részét már nem képező parti területeken – ha annak tulajdonosa és a vagyonkezelő személye megegyezik a meder tulajdonosával – a fenntartó gondoskodik a földrészletek (parti területek) jogszabálynak megfelelő, rendeltetésszerű hasznosításáról.
+
+(8) Amennyiben a jogellenes és káros mederfeltöltés kapcsán az eredeti mederállapot helyreállítása iránt kell intézkedni, az ehhez szükséges vízimunkát a fenntartó a (3) bekezdésben érintett döntésre figyelemmel, illetve vízjogi engedély alapján végzi el.
+
+## Nádasok
+
+### 9. §
+
+(1)[^26] Az állam tulajdonában álló természetes vizek medrében, valamint a csatlakozó szárazulatokon található nádas területeken, a vízminőség védelmét is szolgáló nádgazdálkodási feladatok keretében, a meder fenntartója gondoskodik:
+
+a) a vizek medrében lévő nádasok vízminőség-védelmi és partvédelmi szempontokra is figyelemmel kialakított minősítéséről, illetve a terület ennek megfelelő osztályba sorolásáról;
+
+b) az *a)* pont szerint minősített (osztályba sorolt) területek nádállományának hasznosításáról, megóvásáról, szükség szerint rehabilitációjáról.
+
+(2) A nádasok (1) bekezdés a) pontjában érintett minősítésénél az ipari (építési), mezőgazdasági vagy egyéb célra történő hasznosíthatóságot, valamint a terület jellegét (zárt állomány, ritka, szabdalt) a környezettel, a természetvédelemmel, valamint a partvédelemmel összefüggő jelentőségét, a vízminőségre gyakorolt kedvező, illetőleg kedvezőtlen hatását kell figyelembe venni.
+
+(3)[^27] Az állam tulajdonában álló vizek medrében és azok csatlakozó szárazulatain nádaratás, nádégetés és nádirtás csak a vízügyi igazgatási szerv vagyonkezelői hozzájárulásával végezhető.
+
+(4) Azokon a vizeken, amelyek nem az (1) bekezdésben meghatározott tulajdonban állnak, a rendeletnek megfelelő nádgazdálkodásról a vizek, illetve a meder tulajdonosa köteles gondoskodni.
+
+(5)[^28] A nádaratás csak vegetációs időn kívül és csak úgy végezhető, hogy a nádas termőképessége és állománya ne károsodjon. A nádas égetése csak kivételesen, a környezetvédelmi és természetvédelmi és egyéb jogszabályok előírásaira figyelemmel, illetve a jogszabály szerint szükséges hatósági engedélyekkel végezhető.
+
+(6)[^29] Az (5) bekezdés szerinti engedélyezési eljárásra természeti, illvetve védett természeti területen a természetvédelmi hatóság, egyéb területeken a területileg illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala rendelkezik hatáskörrel, amennyiben arról kormányrendelet másként nem rendelkezik.
+
+(7)[^30] Védett és egyéb természeti területeken – a környezetvédelmi és vízgazdálkodási követelmények mellett – a nádgazdálkodás csak a természet védelméről szóló külön jogszabályban meghatározott előírások szerint, a természetvédelmi hatóság engedélyével folytatható.
+
+(8) Olyan védett természeti területeken, ahol védett növények találhatók, gépi nádaratás, közlekedés és egyéb gazdasági tevékenység nem folytatható, illetve a természetvédelmi hatóság – ha az a természetvédelmi érdekekkel nem ellentétes –, a tevékenységet kivételesen és egyedi vizsgálat alapján engedélyezheti.
+
+(9) Természetvédelmi okból, a természetvédelmi hatóság kijelölése szerint, megfelelő nagyságú – 1–3 éves (avas) – nádasokat kell hagyni, amelyek csak vágásforgó-szerűen arathatók.
+
+(10) A nádasokra a fenntartó – a természetvédelmi hatóság egyetértésével – üzemeltetési tervet készít, amelyben meg kell határozni a nádgazdálkodással érintett területeket, valamint a nádasok e rendelet szerinti minősítését és a minőséggel kapcsolatos gazdasági és egyéb feladatokat.
+
+(11) A minősítést szükség szerint, de legalább ötévenként kell elvégezni.
+
+(12) E rendeletben meghatározott és a természetvédelmi érdekekkel összefüggő rendelkezések megtartását, ideértve a környezet-, természet- és vízminőségvédelmi szempontok figyelembevételével elkészített minősítést, a természetvédelmi és a környezetvédelmi hatóság ellenőrzi.
+
+## A települési vízrendezéssel összefüggő fenntartói feladatok
+
+### 10. §
+
+(1) A települési vízrendezési feladatok körében a fenntartó
+
+a) a természetes vízfolyások és belvízcsatornák,
+
+b) a nyílt csapadékvíz-elvezető csatornák, árkok,
+
+c) a zárt rendszerű csapadékvíz-csatornák,
+
+d) a tározók, záportározók, szivattyútelepek és egyéb műtárgyak
+
+fenntartásával gondoskodik arról, hogy azok az önkormányzat jogszabályban meghatározott, helyi vízkárelhárítási és vízrendezési feladatainak ellátása során, a tervezett funkció ellátására alkalmasak legyenek.
+
+(2) A fenntartási feladatok során – ideértve a melléklet szerinti munkákat is – gondoskodni kell különösen
+
+a) a vízfolyás- és csatornamedrek vízszállító képességének megtartásáról (így például kaszálás, iszapolás);
+
+b) az elfajult medrek helyreállításáról;
+
+c) a töltések, burkolatok helyreállításáról, gyepfelület pótlásáról;
+
+d) kapubejárók alatti csőátereszek tisztán tartásáról;
+
+e) a tározótér feliszapolódásának eltávolításáról.
+
+## A vízgazdálkodási társulatokat érintő rendelkezések
+
+## Záró rendelkezések
+
+### 12. §
+
+(1)[^32] A közcélú vízilétesítményekre, vízimunkákra és vízhasználatokra vonatkozó külön jogszabály[^33] alapján végzett vízügyi hatósági ellenőrzés során – a jogszabályban meghatározott egyéb szempontok mellett – vizsgálni kell:
+
+a) a vízjogi engedély alapján gyakorolt vízhasználatnak, üzemeltetett közcélú vízilétesítménynek, illetve elvégzett vízimunkának az állam vízgazdálkodási feladataival kapcsolatos és a közérdek mértékig terjedő vízgazdálkodási célját, rendeltetését;
+
+b) az *a)* pontban érintett hatósági engedély szerint végzett tevékenységgel összefüggésben azt, hogy a vizek, illetőleg közcélú vízilétesítmények vízjogi engedély alapján, más személyek részéről történő igénybevétele a közérdek mértékében kifejezett vízgazdálkodási rendeltetésen, célon túl, igényel-e fenntartási többletmunkát;
+
+c) a Vgtv. 8. § (1) bekezdésére figyelemmel és e rendelet 4. §-a szerinti esetben a fenntartó hozzájárulását, illetve a felek ezzel összefüggő írásba foglalt megállapodását.
+
+(2)[^34] Az (1) bekezdésben érintett felülvizsgálatot a vízügyi hatósági ellenőrzés keretében végzett ellenőrzések során – az adott felügyeleti kategóriára figyelemmel – folyamatosan, de legkésőbb e rendelet hatálybalépéstől számított két éven belül kell elvégezni.
+
+### 13. §
+
+(1) E rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy a partvonal megállapításával kapcsolatos rendelkezéseit a hatálybalépést követően indult ügyekben kell alkalmazni.
+
+(2)[^35] A nemzeti vagyonnal összefüggésben egyes kormányrendeletek módosításáról szóló 242/2012. (VIII. 31.) Korm. rendelettel (a továbbiakban: Mód Kr.) megállapított 6. § (1)–(8) bekezdésének rendelkezéseit a Mód Kr. hatálybalépését követően indult eljárásokban kell alkalmazni, e rendelkezések a Mód Kr. hatálybalépését[^36] megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érintik, azokat a Mód Kr. hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
+
+(3)–(6)[^37]
+
+### 14. §
+
+(1)[^38]
+
+(2) Amennyiben a vizek vagy a közcélú vízilétesítmények a közérdek mértékét meghaladó, illetve a közfeladatok körébe nem tartozó igénybevétele – az ahhoz egyébként szükséges – vízjogi engedély nélkül történik, de a fennmaradási engedély megadható, e rendelet 4. § (1) és (2) bekezdésében meghatározott feltételt is teljesíteni kell.
+
+(3) Az R. 8. §-ának e rendelettel kiegészített rendelkezései körében a jogellenes feltöltés jogkövetkezményeinek alkalmazására vonatkozó rendelkezések e rendelet hatálybalépését követően indult ügyekben alkalmazhatók.
+
+## Melléklet a 120/1999. (VIII. 6.) Korm. rendelethez
+
+**A közcélú vizekkel és vízkárelhárítási vízilétesítményekkel kapcsolatos fenntartási munkák**
+
+*I. Árvízvédelmi művek*
+
+1\. Árvízvédelmi töltés, ellennyomó medencék és azok vízelvezető csatornái, szorítógátak, fakadóvíz-elvezető csatornák karbantartása:
+
+– koronadomborítás,
+
+– a rézsűhajlás kialakítása a védelmi terv szerinti eredeti méretre,
+
+– burkolatok hibáinak megszüntetése, legfeljebb 100 m hosszú szakaszon azok cseréje,
+
+– tartalékdepónia és kitérő pótlása,
+
+– gyeptakaró ápolása: kaszálás évenként legalább kétszer, gyomtalanítás, felülvetés, újravetés, öntözés,
+
+– ellennyomó medencék vízelvezető csatornáinak és a fakadóvíz-elvezető csatornák gaztalanítása, kotrása,
+
+– rágcsálók írtása,
+
+– hóeltakarítás.
+
+2\. Töltéstartozékok (így például sorompók, lépcsők, vízmércék, rampák, szelvénykövek, VO-kövek, kisajátítási kövek, KRESZ és egyéb táblák) karbantartása, cseréje, megszüntetése.
+
+3\. Árvízvédelmi fal, árvízkapu és egyéb árvízvédelmi műtárgyak hibáinak kijavítása, az engedélyezési terv szerinti állapotának a fenntartása, azokban az állagromlás miatt szükséges munkák:
+
+– elzáró, felhúzó és mozgató szerkezetek cseréje,
+
+– kiüregelődések, szivárgások megszüntetése,
+
+– burkolatok, szárnyfalak helyreállítása, részleges átépítése,
+
+– jegesedés eltávolítása.
+
+4\. A töltésben, árvízvédelmi falban, illetőleg azok altalajában bekövetkezett állagromlás miatt szükséges, az eredeti védőképesség elérését szolgáló munkák, így különösen:
+
+– magassági hiányok megszüntetése,
+
+– szivárgások szabályozása, megszüntetése,
+
+– vízzáró rézsűvédelem,
+
+– anyaggödrök, kopolyák betöltése.
+
+5\. A töltés menti – hullámtéri és mentett oldali – védősáv kialakítása:
+
+terepegyengetés, fedőréteghiányok megszüntetése, vízelvezetés, gyepápolás, fák, bokrok kivágása.
+
+*II. Folyó- és tószabályozási művek, folyómedrek*
+
+1\. Kő és egyéb anyagú művek és tartozékaik karbantartása, kiegészítése.
+
+2\. A folyók, tavak és hajózható csatornák medrében keletkezett feliszapolódás eltávolítása.
+
+3\. Vízinövényzet szabályozása [67/1998. (IV. 3.) Korm. r.].
+
+4\. Elavult partvédő művek helyi jellegű nyomvonal kiigazítása, legfeljebb 200 m hosszúságban.
+
+5\. Az árvíz és a jég levonulását, valamint a hajóútban a víziközlekedést akadályozó mederakadályok eltávolítása.
+
+6\. A parti sávok kialakítása, fák, tuskók eltávolítása, terepegyengetés.
+
+7\. A hajóút parti és úszó kitűző jelei láthatóságának, működőképességének biztosítása, azok cseréje, és a vízállás változása vagy a meder módosulása esetén az esetleges áthelyezése.
+
+*III.*[^40] *Vízfolyások, csatornák, tározók*
+
+1\. A medreknek az engedélyezési terv szerinti rendezett állapota kialakításának keretében:
+
+1.1. a feliszapolódások eltávolítása,
+
+1.2. rézsűcsúszás, kagylósodás, mederrongálódások megszüntetése,
+
+1.3. gaztalanítás, kaszálás a csatorna rendeltetésétől függően évenként legalább egyszer vagy kétszer,
+
+1.4. a medreket kísérő töltések engedélyezési terv szerinti helyreállítása, tartozékainak karbantartása, cseréje, pótlása,
+
+1.5. műtárgyakkal kapcsolatos munkák az I. fejezet 3. pontja szerint,
+
+1.6. a mederben, valamint a parti sávban fák, cserjék kivágása,
+
+1.7. gyepápolás: kaszálás, gyomtalanítás, felülvetés, újravetés,
+
+1.8. tartozékok karbantartása az I. fejezet 2. pontja szerint,
+
+1.9. a műtárgyaknál, a különféle keresztezéseknél és a mederből az uszadék eltávolítása,
+
+1.10. hó- és jégeltávolítás,
+
+1.11. a parti sávok kialakítása,
+
+1.12. vízfolyás, csatorna nyomvonal korrekciója, 1 km hosszig,
+
+1.13. nádkaszálás, vízinövényzet-szabályozás,
+
+1.14. üzemi vízszint előállítása, fenntartása,
+
+1.15. kettősműködésű csatornák, illetve öntözőcsatornák belvízelvezetésre történő igénybevételét követően a meder átmosásának biztosítása,
+
+1.16. az állami tulajdonban lévő vízilétesítményeknél – a vízgazdálkodási közfeladatok ellátásához szükséges – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendelet szerinti, a vizek, vízilétesítmények állapotának feltárását, valamint állapotuk értékelését szolgáló monitoringadatok gyűjtése.
+
+*IV. Szivattyútelepek, szivattyúállások, zsilipek*
+
+1\. Mélyépítési szerkezetek (szívó- és nyomóakna, nyomócső, gravitációs cső, alépítmény, burkolatok) anyagszerkezeti hibáinak javítása, részleges átépítése, iszap eltávolítása.
+
+2\. Nyomáspróbák elvégzése.
+
+3\. Gépészeti és villamos berendezések (szivattyúk, motorok, transzformátorok, gerebek, csövek, segédberendezések, szerelvények, automaták) működőképességének biztosítása, javítása, egyes alkotóelemeinek cseréje.
+
+4\. Korrózióvédelem.
+
+5.[^41] Az öntözőrendszerek és felszíni vízelvezető főcsatornák fővízkivételénél, valamint a vízátadó helyeken a vízmennyiség mérése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet szerinti módon és a mérési eredmények nyilvántartása.
+
+*V. Hírközlő és adatgyűjtő rendszerek*
+
+1\. A légvezetékes, lég- és földkábeles hálózatok, távközlő berendezések (alközpontok, átviteltechnikai berendezések, távbeszélő készülékek, faxok és mobil telefonok), az URH rádióhálózat állomásai (tornyok, antennatartók, antennák, épületek, konténerek és készülékek) működőképességének biztosítása, javítása.
+
+2\. Hagyományos és távjelző vízmércék, távmérő és távbeszélő berendezések (modemek, URH rádiókészülékek, mobil telefonok) működőképességének fenntartása, javítása.
+
+3\. Számítástechnikai berendezések (számítógépek, nyomtatók és tartozékai) és helyi számítógép-hálózatok (szerverek, routerek, bridgek, modemek, HUB-k és csatlakozók) működőképességének biztosítása, javítása.
+
+*VI. Műszaki tervezés*
+
+Fenntartási munkák műszaki terveinek elkészítése, ezekhez állapotfelvételek, térképek készítése.
+
+---
+
+[^1]: Az 1. § a 232/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 2. pontja az 527/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 5. pontját a 242/2012. (VIII. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 3. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított, a 232/2016. (VII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 77. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: 1995\. évi LVII. tv. 20. § (2) bek., 72/1996. (V. 22.) Korm. r. 7. § (1) és (3) bek.
+[^8]: Az 5. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 6. § (1) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 75. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 6. § (3) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 76. § a)–b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^12]: A 6. § (4) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 6. § (5) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 76. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^14]: A 6. § (6) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (7) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: A 6. § (8) bekezdése a 242/2012. (VIII. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^17]: 46/1999. (III. 18.) Korm. r.
+[^18]: A 6. § (9) bekezdésének e) pontját a 190/2001. (X. 18.) Korm. rendelet 4. §-ának (4) bekezdése iktatta a szövegbe.
+[^19]: A 6. § (10) bekezdését a 706/2020. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^20]: A 8. § (1) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^21]: A 8. § (2) bekezdés c) pontja a 182/2009. (IX. 10.) Korm. rendelet 171. §-a, a 457/2017. (XII. 28.) Korm. rendelet 76. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^22]: A 8. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 60. pontja szerint módosított szöveg, e módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^23]: 72/1996. (V. 22.) Korm. r. 10. §.
+[^24]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 170. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 8. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 39. §-a, a 457/2017. (XII. 28.) Korm. rendelet 76. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^26]: A 9. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^27]: A 9. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 172. §-a hatályon kívül helyezte, újonnan a 232/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^28]: A 9. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171–172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: A 9. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 21. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^30]: A 9. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 12. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: Lásd a 72/1996. (V. 22.) Korm. rendelet 21. §-át.
+[^34]: A 12. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte, újonnan a 242/2012. (VIII. 31.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^36]: A hatálybalépés napja 2012. szeptember 1-
+[^37]: A 13. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
+[^38]: A 14. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
+[^40]: A melléklet III. fejezete a 232/2016. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^41]: A melléklet IV. fejezet 5. pontját a 232/2016. (VII. 29.) Korm. rendelet 3. §-a iktatta be.

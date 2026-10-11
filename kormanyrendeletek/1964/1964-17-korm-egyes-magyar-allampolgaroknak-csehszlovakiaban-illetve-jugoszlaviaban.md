@@ -1,0 +1,97 @@
+---
+title: "17/1964. (VIII. 8.) Korm. rendelet egyes magyar állampolgároknak Csehszlovákiában, illetve Jugoszláviában társadalmi tulajdonba vett vagyontárgyaiért járó kártalanításról"
+identifier: "17/1964. (VIII. 8.) Korm. rendelet"
+njt_id: "1964-17-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1964/Korm/17"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1964-08-08
+in_force_from: 1991-01-01
+last_amended: 1991-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1964-17-20-22"
+retrieved: 2026-10-12
+---
+
+# 17/1964. (VIII. 8.) Korm. rendelet egyes magyar állampolgároknak Csehszlovákiában, illetve Jugoszláviában társadalmi tulajdonba vett vagyontárgyaiért járó kártalanításról[^1][^2][^3]
+
+A Kormány azokat a magyar állampolgárokat, akiknek ingatlan vagy ingó vagyontárgyai Csehszlovákiában[^4], illetve Jugoszláviában[^5] a reájuk vonatkozó külön jogszabályok, illetve államközi megállapodások alapján társadalmi tulajdonba kerültek, e rendelet keretei között kártalanításban részesíti. E célból a Kormány a következő rendeletet alkotja:
+
+## A kártalanításra jogosult személyek
+
+### 1. §
+
+(1) Kártalanításban részesülnek azok a Magyarországon élő magyar állampolgárok, akik a Csehszlovákiában[^6] vagy Jugoszláviában[^7] levő ingatlan vagy ingó vagyontárgyaik tulajdonjogát a rájuk vonatkozó külön jogszabályok, illetve államközi megállapodások alapján társadalmi tulajdonbavétel folytán elvesztették.
+
+(2) A kártalanítási igény az (1) bekezdésben említett személyek Magyarországon élő magyar állampolgár örököseit is megilleti.
+
+(3) Nem részesülhetnek kártalanításban azok, akiket a magyar büntetőbíróság jogerős ítélete vagy a magyar állampolgárságtól való megfosztást kimondó jogerős határozat teljes vagyonelkobzással sújtott.
+
+## A kártalanítás alapjául szolgáló vagyon
+
+### 2. §
+
+(1) Kártalanítás csak
+
+a) a személyi tulajdon körébe tartozó
+
+– házingatlan (amely nem tartozott volna az 1952. évi 4. számú tvr. hatálya alá),
+
+– lakberendezési tárgyak és személyes használatra szolgáló egyéb ingó vagyontárgyak,
+
+– továbbá a családi ház építésére alkalmas, belterületen fekvő házhely,
+
+b) foglalkozás gyakorlására szolgáló ingó vagyontárgyak
+
+után jár,
+
+(2) Házingatlan tulajdonjogának elvesztéséért nem kaphat kártalanítást az, aki Magyarországon házingatlan-juttatásban részesült.
+
+(3) Pénzkövetelés megszűnéséért kártalanítási igény nem támasztható.
+
+(4) Ingóságok tulajdonjogának elvesztése címén nem támaszthat kártalanítási igényt az,
+
+a) aki Csehszlovákia, illetőleg Jugoszlávia felszabadulásának időpontjában Magyarország jelenlegi területén lakott,
+
+b) aki a ,,Magyar-Csehszlovák Lakosságcsere Egyezmény'' (1946. évi XV. törvény) keretében intézményesen települt át.
+
+c) aki a Csehszlovákiában hátrahagyott ingóságait Magyarországra költözését követően az illetékes szervek engedélyével átszállította,
+
+d) aki ingójuttatásban részesült.
+
+(5) Sem ingatlan, sem ingó vagyon elvesztése címén nem tarthat kártalanításra igényt az, aki a Csehszlovákiában, illetve Jugoszláviában maradt vagyonát, illetve annak elvesztését e rendelet hatálybalépésének napjáig a bejelentési kötelezettséget megállapító jogszabályokban megjelölt magyar hatóságnál nem jelentette be.
+
+## A kártalanítási igény bejelentése és elbírálása
+
+### 3. §
+
+(1) A kártalanításra jogosult, kizáró rendelkezések hatálya alá nem tartozó személy az igényét – függetlenül attól, hogy korábban tett-e bejelentést 1964. december 31-ig az alábbi (2) bekezdésben említett bizottsághoz köteles bejelenteni. E határidőn túl benyújtott igények nem elégíthetők ki.
+
+(2) A kártalanítási igények jogalapjának és mértékének elbírálására az Igazságügyminisztérium, a Pénzügyminisztérium és az Egészségügyi Minisztérium képviselőiből bizottságot kell létrehozni. A bizottság a kártalanítási igények kielégítéséről folyamatosan, az igény elbírálásához szükséges adatok rendelkezésére állásának sorrendjében, legkésőbb 1968. december 31-ig véglegesen dönt. A döntést a bizonyító iratok alapján, a korábbi igénybejelentések figyelembevételével kell meghozni. A bizottság határozatai ellen fellebbezésnek nincs helye; azok bíróság előtt sem támadhatók meg.
+
+(3) A bizottság munkájával kapcsolatos titkársági feladatokat a Pénzintézeti Központ[^8] látja el.
+
+## Vegyes és záró rendelkezések
+
+### 4. §
+
+(1) Nem részesíthető kártalanításban az, aki az igénybejelentésben, illetőleg az ahhoz tartozó adatszolgáltatásban abból a célból közöl valótlan adatokat, hogy a bizottságot [3. § (2) bekezdés] félrevezesse.
+
+(2) Ha a 3. § (2) bekezdésében említett bizottság a kártalanításra jogosult személyt természetben kártalanítja, a kártalanításul adott házingatlant, illetőleg az abban levő lakást a lakásbérletről szóló rendelkezések szempontjából úgy kell tekinteni, mintha a házingatlan 1953. április 1. után épült volna.
+
+(3) Nem alkalmazhatók e rendelet rendelkezései azokra a vagyontárgyakra, amelyek a kapitalista társadalmi rend felszámolásával összefüggésben kerültek társadalmi tulajdonba.
+
+(4) Ez a rendelet a kihirdetése napján lép hatályba. Felhatalmazást kap a pénzügyminiszter, hogy a kártalanítási igény bejelentésének és igazolásának szabályait, a kártalanítás mértékét és módját, valamint a szükséges eljárási szabályokat – az érdekelt miniszterekkel egyetértésben – rendelettel állapítsa meg.[^9]
+
+---
+
+[^1]: A Csehszlovák Köztársaság államisága megszűnt. Az államutódlást külön megállapodások rendezik.
+[^2]: A Jugoszláv Szocialista Szövetségi Köztársaság államisága megszünt. Az államutódlást külön megállapodások rendezik.
+[^3]: Végrehajtására lásd a 9/1964. (VIII. 8.) PM rendeletet.
+[^4]: A Csehszlovák Köztársaság államisága megszűnt. Az államutódlást külön megállapodások rendezik.
+[^5]: A Jugoszláv Szocialista Szövetségi Köztársaság államisága megszünt. Az államutódlást külön megállapodások rendezik.
+[^6]: A Csehszlovák Köztársaság államisága megszűnt. Az államutódlást külön megállapodások rendezik.
+[^7]: A Jugoszláv Szocialista Szövetségi Köztársaság államisága megszünt. Az államutódlást külön megállapodások rendezik.
+[^8]: A Pénzintézeti Központ megszünt.
+[^9]: Végrehajtására lásd a 9/1964. (VIII. 8.) PM számú rendeletet.

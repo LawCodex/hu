@@ -1,0 +1,75 @@
+---
+title: "102/1990. (XII. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és a Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről"
+identifier: "102/1990. (XII. 7.) Korm. rendelet"
+njt_id: "1990-102-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1990/Korm/102"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1990-12-07
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-102-20-22"
+retrieved: 2026-10-12
+---
+
+# 102/1990. (XII. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és a Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről
+
+*(A megállapodás megkötésére 1990. szeptember 18-án jegyzékváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó, 1990. szeptember 18-án kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magyar Külügyminisztériumnak az 1. §-ban említett megállapodást tartalmazó, az Egyesült Királyság budapesti Nagykövetséghez intézett jegyzéke a következő:
+
+,,A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki Nagy-Britannia és Észak-Írország Egyesült Királysága Nagykövetségének és van szerencséje igazolni az 1990. szeptember 18-án kelt 269. számú jegyzékének kézhezvételét, melynek magyar nyelvű szövege a következő:
+
+,,Őfelsége nagykövetsége tiszteletét fejezi ki a Magyar Köztársaság Külügyminisztériumának és van szerencséje a következőket javasolni:
+
+Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya abból a célból, hogy az Egyesült Királyság és a Magyar Köztársaság között az utazást megkönnyítsék, kész megállapodást kötni a Magyar Köztársaság Kormányával az alábbi feltételekkel:
+
+1\. Az e Jegyzék 3., 4. és 5. pontjában foglalt rendelkezésekkel összhangban azok a brit állampolgárok, akik olyan érvényes brit útlevéllel rendelkeznek, amely igazolja brit honpolgárságukat vagy egyébként igazolja, hogy jogosultak az Egyesült Királyságba való visszatérésre, szabadon utazhatnak a Magyar Köztársaságba és nem kötelesek előzetesen vízumot beszerezni útlevelükbe. A hat hónapot meghaladó tartózkodás esetén tartózkodási engedély iránti kérelmet kell benyújtaniuk az illetékes magyar hatóságnál.
+
+2\. Az e Jegyzék 3., 4.,5. és 6. pontjában foglalt rendelkezésekkel összhangban a Magyar Köztársaság azon állampolgárai, akik érvényes magyar útlevéllel rendelkeznek, szabadon utazhatnak Nagy-Britannia és Észak-Írország Egyesült Királyságba, a Csatorna Szigetekre és Man Szigetére és nem kötelesek előzetesen vízumot beszerezni útlevelükbe.
+
+A Magyar Köztársaság azon állampolgárainak, akik a beutazásukkor engedélyezett időtartamnál hosszabb ideig kívánnak tartózkodni az Egyesült Királyságban, a Csatorna Szigeteken vagy Man Szigetén, kérelmet kell benyújtaniuk az Egyesült Királyság illetékes hatóságainál.
+
+3\. A vízumkötelezettség megszüntetése nem mentesíti sem a Magyar Köztársaságba utazó brit állampolgárokat, sem pedig a Nagy-Britannia és Észak-Írország Egyesült Királyságba, a Csatorna Szigetekre és Man Szigetére utazó magyar állampolgárokat az alól a kötelezettség alól, hogy a külföldiek beutazására, állandó vagy ideiglenes tartózkodására, vállalkozóként vagy munkavállalóként kifejtett jövedelemszerző tevékenységére vonatkozó törvényeket és más jogszabályokat betartsák.
+
+Az érintett ország területére való belépés vagy tartózkodás engedélyezése megtagadható azoktól az utazóktól, akik az illetékes hatóság előtt nem képesek kielégítően igazolni, hogy ezen törvények és más jogszabályok feltételeinek megfelelnek.
+
+4\. A Szerződő Felek legalább a javasolt utazást egy hónappal megelőzően értesítik a másik Szerződő Fél diplomáciai képviseletét a diplomáciai ranggal rendelkező személyek hat hónapot meghaladó időtartamra szóló kihelyezéséről a diplomáciai képviseletre, a beutazási engedély kiadása érdekében. A Szerződő Felek olyan egyéb állampolgárainak, akik a másik Szerződő Fél területére Kormányuk, az Egyesült Nemzetek Szervezete vagy más olyan nemzetközi szervezet megbízásából történő munkavégzés céljából utaznak, amelynek a másik Szerződő Fél tagja, vagy pedig olyan egyéb munkavégzés céljából, amelyhez munkavállalási engedély nem szükséges, a másik Fél diplomáciai képviseletétől beutazási engedélyt kell kérniük, legalább egy hónappal utazásuk javasolt időpontját megelőzően.
+
+5\. Nagy-Britannia és Észak-Írország Egyesült Királysága, a Csatorna Szigetek és Man Szigete, továbbá a Magyar Köztársaság illetékes hatóságai fenntartják a jogot, hogy a belépési vagy a tartózkodási engedélyt megtagadják területükön minden olyan esetben, amikor az érintett személy nemkívánatosnak minősül, vagy egyébként elfogadhatatlan az érintett Kormánynak a külföldiek beutazására és tartózkodására vonatkozó általános irányelvei értelmében.
+
+6\. Nem terjed ki a jelen Megállapodás a Magyar Köztársaság azon állampolgáraira, akik olyan területre utaznak, amelynek nemzetközi kapcsolataiért az Egyesült Királyság felelős, de amely területek a fenti 2. pontban nincsenek felsorolva.
+
+7\. Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya, illetőleg a Magyar Köztársaság Kormánya közrendi okból az előző rendelkezéseket egészében vagy részben időlegesen felfüggesztheti.
+
+Minden ilyen esetben a felfüggesztésről és annak feloldásáról a másik Kormányt diplomáciai úton értesíteni kell, s az intézkedés e közlés megtörténtével azonnal hatályba lép.
+
+8\. Ezt a Megállapodást bármelyik Fél felmondhatja a másik Félhez 30 (harminc) nappal korábban tett előzetes értesítés útján.
+
+Amennyiben a fenti javaslatok a magyar Kormány számára elfogadhatóak, a Nagykövetség tisztelettel javasolja, hogy ez a Jegyzék és a Minisztérium válasza — a Felek erre vonatkozó eljárásával összhangban történt jóváhagyásától függően — Megállapodást képezzen a vízumkötelezettség megszüntetéséről a két Kormány között, mely Megállapodás 1990. október 1-jén lép hatályba.
+
+A Nagykövetség megragadja az alkalmat, hogy a Minisztériumot ezúttal is őszinte nagyrabecsüléséről biztosítsa.''
+
+A Külügyminisztérium ezennel megerősíti, hogy a Magyar Köztársaság Kormánya a fenti javaslatokkal egyetért, a fenti jegyzék, valamint ez a válaszjegyzék Megállapodást képez a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya között a vízumkötelezettség megszüntetéséről, mely Megállapodás 1990. október 1-jén lép hatályba.
+
+A Megállapodást a Magyar Köztársaság Kormánya jóváhagyta.
+
+A Magyar Köztársaság Külügyminisztériuma ezt az alkalmat is megragadja, hogy Nagy-Britannia és Észak-Írország Egyesült Királysága budapesti Nagykövetségét ismételten őszinte nagyrabecsüléséről biztosítsa.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. október 1. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 13. pontja szerint módosított szöveg.

@@ -1,0 +1,111 @@
+---
+title: "22/1991. (II. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és Svájc Szövetségi Tanácsa között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről"
+identifier: "22/1991. (II. 5.) Korm. rendelet"
+njt_id: "1991-22-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/22"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-02-05
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-22-20-22"
+retrieved: 2026-10-12
+---
+
+# 22/1991. (II. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és Svájc Szövetségi Tanácsa között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről
+
+*(A megállapodás megkötésére Budapesten, 1990. augusztus 7-én jegyzékváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Svájc Szövetségi Tanácsa között a vízumkényszer megszüntetésére vonatkozó 1990. augusztus 7-én kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Magyar Külügyminisztériumnak az 1. §-ban említett megállapodást tartalmazó, a Svájci Nagykövetséghez intézett szóbeli jegyzéke a következő:
+
+,,A Magyar Köztársaság Külügyminisztériuma a Svájci Nagykövetségnek.
+
+Szóbeli jegyzék
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Svájci Nagykövetségnek és Kormánya megbízásából van szerencséje megállapodás létrehozását javasolni a két ország közötti vízumkényszer kölcsönös megszüntetéséről az alábbiak szerint:
+
+1\. Azok a magyar állampolgárok, akik érvényes magyar útlevéllel rendelkeznek és három hónapnál nem szándékoznak hosszabb ideig Svájcban tartózkodni, vagy ott kereső tevékenységet folytatni, vízum nélkül utazhatnak be Svájcba és tartózkodhatnak ott.
+
+2\. Azok a svájci állampolgárok, akik érvényes svájci útlevéllel rendelkeznek és három hónapnál nem szándékoznak hosszabb ideig Magyarországon tartózkodni, vagy ott kereső tevékenységet folytatni, vízum nélkül utazhatnak be Magyarországra és tartózkodhatnak ott.
+
+3\. Azoknak a magyar állampolgároknak, akik három hónapnál hosszabb ideig szándékoznak Svájcban tartózkodni, vagy ott munkát vállalni, elutazásuk előtt Svájc illetékes diplomáciai, vagy konzuli képviseletében beutazó vízumot kell beszerezniük. Ez a rendelkezés nem vonatkozik a diplomata és szolgálati útlevéllel rendelkezőkre.
+
+4\. Azoknak a svájci állampolgároknak, akik három hónapnál hosszabb ideig szándékoznak Magyarországon tartózkodni, vagy ott munkát vállalni, elutazásuk előtt Magyarország illetékes diplomáciai, vagy konzuli képviseletében beutazó vízumot kell beszerezniük.
+
+Ez a rendelkezés nem vonatkozik a hivatalos útlevéllel rendelkezőkre.
+
+5\. Azok a magyar és svájci állampolgárok, akiknek állandó lakóhelye a másik szerződéskötő államban van, vízum nélkül visszatérhetnek oda, ha egy érvényes, szabályszerű tartózkodási engedéllyel rendelkeznek.
+
+6\. Az egyik Szerződő Fél állampolgárai mentesülnek azon kötelezettségüktől, hogy a másik Szerződő Fél államából történő kiutazásukkor kiutazó vízumot szerezzenek be, vagy bármiféle más formalitást teljesítsenek.
+
+7\. Mindkét Fél kötelezi magát arra, hogy azon állampolgárait, akik ezen Megállapodás szerint utaznak be a másik Szerződő Fél területére, bármikor formalitások nélkül ismét befogadja.
+
+8\. Ez a Megállapodás nem mentesíti a magyar és svájci állampolgárokat azon kötelezettség alól, hogy a másik Szerződő Fél területére történő beutazásuk és tartózkodásuk tekintetében az ott hatályban levő törvényeket és más jogszabályokat betartsák.
+
+9\. Mindkét Fél illetékes hatóságai fenntartják a jogot, hogy megtagadják azon személyek beutazását, vagy tartózkodását, akik az állam közrendjét vagy biztonságát veszélyeztethetik, vagy akinek az országban való jelenléte törvényellenes.
+
+10\. A Felek közrendi vagy biztonsági okokból átmenetileg, egészben vagy részlegesen felfüggeszthetik az előbbi rendelkezések alkalmazását. A felfüggesztést és annak feloldását a másik Szerződő Féllel haladéktalanul, diplomáciai úton, jegyzékben közölni kell.
+
+11\. A fenti rendelkezések kiterjednek Liechtenstein Nagyhercegségre is.
+
+12\. Ez a Megállapodás német és magyar nyelven készült és mindkét szöveg egyaránt hiteles.
+
+Amennyiben a Svájci Szövetségi Tanács az e jegyzékben foglalt javaslatokkal egyetért, úgy ez a jegyzék és a Svájci Nagykövetségnek a Svájci Szövetségi Tanács egyetértését kifejező válaszjegyzéke megállapodást képez a Magyar Köztársaság Kormánya és a Svájci Szövetségi Tanács között.
+
+A megállapodás a válaszjegyzék kézhezvételét követő 15. napon lép hatályba. A Megállapodás bármikor, három hónapos határidő betartásával felmondható. A felmondást diplomáciai úton, jegyzékben kell közölni a másik Féllel.
+
+A Magyar Köztársaság Külügyminisztériuma ezt az alkalmat is felhasználja, hogy a Svájci Nagykövetséget őszinte nagyrabecsüléséről biztosítsa.''
+
+## 3. §
+
+A Svájci Nagykövetségnek a Magyar Külügyminisztériumhoz intézett válaszjegyzéke hivatalos magyar nyelvű fordítása a következő:
+
+,,A Svájci Nagykövetség tisztelettel bejelenti a Magyar Köztársaság Külügyminisztériumának, megkapta az 1990. augusztus 7-ei jegyzéket melynek a szövege az alábbi:
+
+1\. Svájci állampolgárok, akiknek érvényes svájci útlevelük van és nincsen szándékukban Magyarországon három hónapnál hosszabb ideig tartózkodni vagy ott kereső foglalkozást gyakorolni, vízum nélkül beutazhatnak Magyarországba és tartózkodhatnak ott.
+
+2\. Magyar állampolgárok, akik érvényes magyar útlevéllel rendelkeznek és nem szándékoznak három hónapon túl Svájcban tartózkodni vagy ott kereső foglalkozást folytatni, vízum nélkül utazhatnak be Svájcba és tartózkodhatnak ott.
+
+3\. Azok a svájci állampolgárok, akik három hónapnál hosszabb ideig szándékoznak Magyarországon tartózkodni vagy ott egy állást elfoglalni, kötelesek elutazásuk előtt Magyarország illetékes diplomáciai vagy konzuli képviseleténél beutazási vízumot beszerezni. Ez a kötelezettség nem vonatkozik azokra a személyekre, akik hivatalos útlevéllel rendelkeznek.
+
+4\. Azok a magyar állampolgárok, akik három hónapnál hosszabb ideig szándékoznak Svájcban tartózkodni vagy ott egy állást elfoglalni, kötelesek elutazásuk előtt Svájc illetékes diplomáciai vagy konzuli képviseleténél beutazási vízumot beszerezni. Ez a kötelezettség nem vonatkozik azokra a személyekre, akik diplomata- vagy szolgálati útlevéllel rendelkeznek.
+
+5\. Azok a svájci és magyar állampolgárok, akiknek lakhelye a másik szerződő államban van, vízum nélkül visszatérhetnek oda, amennyiben érvényes rendes jelenléti engedéllyel rendelkeznek.
+
+6\. Az egyik szerződő államnak polgárai mentesek kiutazásnál a másik szerződő államból a kiutazási engedély beszerzésnek kötelezettsége avagy bármiféle más alakiságnak teljesítése alól.
+
+7\. Mindkét Fél kötelezi magát, állampolgárait, akik e megállapodás rendelkezései szerint a másik szerződő állam területére beutaztak, mindenkor alakiság nélkül újból átveszi.
+
+8\. Ez a megállapodás nem mentesíti a svájci állampolgárokat és a magyar állampolgárokat azon kötelezettségük alól, hogy a beutazás tekintetében és tartózkodásuk alatt a másik szerződő állam területén az ott érvényes törvényeket és más előírásokat megtartsák.
+
+9\. A két állam illetékes hatóságai fenntartják maguknak a jogot, hogy azoknak a személyeknek beutazását avagy tartózkodását, akik az állam közrendjét vagy biztonságát veszélyeztethetik vagy akiknek jelenléte az országban törvénybe ütköző, megtagadják.
+
+10\. Mindegyik Fél felfüggesztheti átmenetileg egészben vagy részben a fentebbi előírások alkalmazását a közrend vagy a biztonság okából. A felfüggesztést és annak megszüntetését a másik szerződő állammal diplomáciai úton nyomban közölni kell.
+
+11\. A fentebb idézett rendelkezések hasonlóképp kiterjednek a Liechtensteini Hercegségre is.
+
+12\. Ezt a megállapodást német és magyar nyelven szövegezték, ami mellett mindkét szöveg egyformán kötelező.
+
+A Nagykövetség tisztelettel tudtul adja, hogy a Svájci Szövetségi Tanács egyetért a fentebbi rendelkezésekkel. Ezzel a Magyar Köztársaság augusztus 7-ei jegyzéke és ez a válasz megállapodást képez a Svájci Szövetségi Tanács és a Magyar Köztársaság Kormánya között.
+
+Ez a megállapodás a válaszjegyzék vételét követő 15. naptól lép életbe. Az bármikor felmondható három hónapos határidővel. A felmondást a másik féllel diplomáciai úton kell közölni.
+
+A Svájci Nagykövetség élve ezzel az alkalommal újból biztosítja a Magyar Köztársaság Külügyminisztériumát kiváló nagyrabecsüléséről.''
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. augusztus 22. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 4. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 15. pontja szerint módosított szöveg.

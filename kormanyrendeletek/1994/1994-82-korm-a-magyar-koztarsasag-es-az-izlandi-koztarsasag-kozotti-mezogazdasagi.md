@@ -1,0 +1,404 @@
+---
+title: "82/1994. (V. 25.) Korm. rendelet a Magyar Köztársaság és az Izlandi Köztársaság közötti Mezőgazdasági Levélváltás kihirdetéséről"
+identifier: "82/1994. (V. 25.) Korm. rendelet"
+njt_id: "1994-82-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/82"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-05-25
+in_force_from: 1994-06-01
+last_amended: 1994-06-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-82-20-22"
+retrieved: 2026-10-12
+---
+
+# 82/1994. (V. 25.) Korm. rendelet a Magyar Köztársaság és az Izlandi Köztársaság közötti Mezőgazdasági Levélváltás kihirdetéséről
+
+## 1. §
+
+A Magyar Köztársaság Kormánya, a Magyar Köztársaság és az Izlandi Köztársaság között Genfben, 1993. március 29-én aláírt Mezőgazdasági Levélváltást (a továbbiakban: Levélváltás), amely 1994. június 1-jén lép hatályba, e rendelettel kihirdeti.
+
+## 2. §
+
+A Levélváltás magyar nyelvű fordítása a következő:
+
+,,Balás Péter úr főosztályvezető
+
+Nemzetközi Gazdasági Kapcsolatok Minisztériuma
+
+Genf, 1993. március 29.
+
+Tisztelt Uram!
+
+Van szerencsém tájékoztatni Önt arról, hogy az EFTA tagállamok és a Magyar Köztársaság (a továbbiakban: Magyarország) közötti Megállapodás 13. Cikke szerint Izland a Megállapodás hatálybalépésének napjától Magyarország számára a mezőgazdasági termékek esetében az e levélben és mellékleteiben meghatározott elbánást nyújtja.
+
+Az I. Melléklet a vámmentes mezőgazdasági termékekre vonatkozik, de a megadott tarifacsökkentések nem zárják ki az árkiegyenlítési rendszer szerinti importvámok kivetését és a mezőgazdasági termékek izlandi import rezsimjében a jövőben várható változások részeként a változó importvámtarifák vagy más tarifális intézkedések foganatosítását sem. E termékek származási szabályait a II. Melléklet tartalmazza.
+
+Köszönettel venném, ha megerősítené levelem kézhezvételét.
+
+Kérem Uram, fogadja őszinte nagyrabecsülésemet.
+
+*Lilja Ólafsdóttir* s. k.,\
+tanácsos\
+Izland Genfi Állandó Missziója
+
+Lilja Ólafsdóttir
+
+tanácsos
+
+Izland Genfi Állandó Missziója
+
+Genf, 1993. március 29.
+
+Tisztelt Hölgyem!
+
+Van szerencsém igazolni a mai napon kelt levelének kézhezvételét, amelynek szövege a következő:
+
+»Van szerencsém tájékoztatni Önt arról, hogy az EFTA tagállamok és a Magyar Köztársaság (a továbbiakban: Magyarország) közötti Megállapodás 13. Cikke szerint Izland a Megállapodás hatálybalépésének napjától Magyarország számára a mezőgazdasági termékek esetében az e levélben és mellékleteiben meghatározott elbánást nyújtja.
+
+Az I. Melléklet a vámmentes mezőgazdasági termékekre vonatkozik, de a megadott tarifacsökkentések nem zárják ki az árkiegyenlítési rendszer szerinti importvámok kivetését, és a mezőgazdasági termékek izlandi import rezsimjében a jövőben várható változások részeként a változó importvámtarifák vagy más tarifális intézkedések foganatosítását sem. E termékek származási szabályait a II. Melléklet tartalmazza.«
+
+Van szerencsém megerősíteni, hogy a Magyar Kormány egyetért a levélben foglalt javaslattal.
+
+Fogadja Hölgyem, őszinte nagyrabecsülésem.
+
+*Dr. Balás Péter* s. k.,\
+főosztályvezető\
+Magyar Köztársaság
+
+*I. Melléklet*
+
+Izland
+
+**Ajánlat Magyarország részére mezőgazdasági termékekre**
+
+*Vámmentes termékek*
+
+____________________________________________
+
+HR vámtarifaszám Leírás
+
+____________________________________________
+
+*0409 Természetes méz:*
+
+04.09.00.00 Természetes méz
+
+*0505 Madárbőr, madárrész tollal vagy pehellyel, toll, tollrész (nyírt széllel is) és pehely, legfeljebb tisztítva, fertőtlenítve, tartósításra előkészítve, további megmunkálás nélkül; tollport, toll- és tollrészhulladék:*
+
+05.05.10 Toll, töltelékanyagnak; pehely
+
+*0703 Vöröshagyma, gyöngyhagyma, fokhagyma, póréhagyma és más hagymaféle frissen vagy hűtve:*
+
+07.03.10 Vöröshagyma és gyöngyhagyma
+
+07.03.20 Fokhagyma
+
+*0708 Hüvelyes zöldség, hüvelyben vagy kifejtve, frissen vagy hűtve:*
+
+07.08.10 Borsó (Pisum sativum)
+
+07.08.20 Bab (Vigna spp. Phaseolus spp)
+
+07.08.90 Más hüvelyes zöldség (vicia faba, hüvelyben vagy kifejtve)
+
+*0709 Más zöldség frissen vagy hűtve:*
+
+07.09.2000 Spárga
+
+07.09.70 Paraj
+
+07.09.90 Más
+
+07.09.90.20 Olajbogyó
+
+07.09.90.70 Gourgettes
+
+*0710 Zöldség (nyersen, gőzölve vagy vízben forrázva is) fagyasztva:*
+
+07.10.21 Borsó
+
+07.10.22 Bab
+
+07.10.80.21 Paprika
+
+07.10.80.61 Vöröshagyma
+
+*0711 Zöldségfélék ideiglenesen tartósítva (pl. kéndioxid gázzal, sós lében, kénes vízben vagy más tartósító-oldatban), de közvetlen étkezésre még nem elkészítve*
+
+07.11.10 Vöröshagyma
+
+07.11.20 Olajbogyó
+
+*0712 Szárított zöldség egészben, aprítva, szeletelve, törve vagy porítva, de ezen túlmenően nem elkészítve:*
+
+07.12.2000 Vöröshagyma
+
+*0713 Szárított hüvelyes zöldség kifejtve, hántolva és felesen is:*
+
+07.13.10 Borsó, szárított
+
+07.13.20 Csicseriborsó
+
+07.13.31 Bab
+
+07.13.40 Lencse
+
+07.13.50 Nagyszemű disznóbab és lóbab
+
+*0802 Más dióféle frissen vagy szárítva, héjastól vagy héj nélkül:*
+
+08.02.12 Mandula héj nélkül
+
+08.02.22 Mogyoró héj nélkül
+
+08.02.31 Dió héjastól
+
+08.02.32 Dió héj nélkül
+
+08.02.50 Pisztácia
+
+*0804 Datolya, füge, ananász, avokádó, guajava, mangó és mangosztán frissen vagy szárítva:*
+
+08.04.20 Füge
+
+*0805 Citrusfélék frissen vagy szárítva:*
+
+08.05.10 Narancs
+
+08.05.20 Mandarin
+
+08.05.30 Citrom
+
+08.05.40 Grapefruit
+
+*0806 Szőlő frissen vagy szárítva:*
+
+08.06.10 Frissen
+
+08.06.20 Szárítva
+
+*0807 Dinnye (beleértve a görögdinnyét is) és papaya frissen:*
+
+08.07.10 Dinnye (beleértve a görögdinnyét is)
+
+08.07.10.10 Görögdinnye
+
+*0808 Alma, körte és birs (frissen):*
+
+08.08.10 Alma
+
+08.08.10.10 Alma frissen
+
+08.08.20 Körte és birs
+
+*0809 Kajszibarack, cseresznye, őszibarack (beleértve a sima héjú őszibarackot is), szilva és kökény frissen:*
+
+08.09.10 Kajszibarack
+
+08.09.20 Cseresznye
+
+08.09.30 Őszibarack
+
+08.09.40 Szilva és kökény
+
+*0810 Más gyümölcs (frissen):*
+
+08.10.10 Földieper
+
+08.10.20 Málna, földiszeder
+
+08.10.30 Fekete, fehér vagy piros ribiszke és egres
+
+08.10.90 Gránátalma
+
+*0811 Gyümölcs és dió nyersen, gőzölve vagy vízben forrázva, fagyasztva, cukor vagy más édesítőanyag hozzáadásával is:*
+
+08.11.10 Földieper (fagyasztva)
+
+08.11.20 Málna, földi szeder, fekete, fehér vagy piros ribiszke és egres, fagyasztva
+
+08.11.90 Más
+
+08.11.90.31 Cseresznye
+
+08.11.90.32 Szilva
+
+08.11.90.33 Kajszibarack
+
+08.11.90.34 Őszibarack
+
+08.11.90.36 Szőlő
+
+*0813 Szárított gyümölcs, a 0801—0806 vtsz. alá tartozók kivételével: diókeverék vagy ebbe az árucsoportba tartozó szárított gyümölcsök keveréke:*
+
+08.13.10 Kajszibarack
+
+08.13.20 Aszalt szilva
+
+08.13.30 Alma
+
+08.13.40 Más gyümölcs (őszibarack, körte)
+
+08.13.50 Diókeverék vagy ebbe az árucsoportba tartozó szárított gyümölcsök keveréke
+
+*0904 Bors, Piper-fajta; paprika, Capsicum- vagy Pimenta-fajta, szárítva, zúzva vagy őrölve:*
+
+09.04.20 A Capsicum vagy a Pimenta-fajhoz tartozó növények gyümölcse, szárítva, zúzva vagy őrölve
+
+*1509 Olivaolaj és frakciói finomítva is, de vegyileg nem átalakítva*
+
+15.09.10 ,,Szűz'' olaj
+
+15.09.90 Más (nyersen)
+
+*2001 Zöldség, gyümölcs, dió és más ehető növényrész ecettel vagy ecetsavval elkészítve vagy tartósítva:*
+
+20.01.10 Uborka és apró uborka
+
+*2004 Más zöldség ecet vagy ecetsav nélkül elkészítve vagy tartósítva, fagyasztva:*
+
+20.04.90.22 Olajbogyó (fekete)
+
+20.04.90.23 Olajbogyó (zöld)
+
+20.04.90.32 Zöldbab
+
+20.04.90.58 Bab
+
+*2005 Más zöldség, ecet vagy ecetsav nélkül elkészítve vagy tartósítva, nem fagyasztva:*
+
+20.05.30 Savanyú káposzta
+
+20.05.40 Borsó
+
+20.05.51 Bab
+
+20.05.70 Olajbogyó
+
+20.05.90.30 Articsóka
+
+*2007 Dzsem, gyümölcskocsonya (zselé), gyümölcsíz, gyümölcs- és diópüré, gyümölcs- és dió-(mogyoró-) krém, mindezek főzve, hozzáadott cukorral vagy édesítőanyaggal is:*
+
+20.07.99 Más
+
+20.07.99.50 Diókrém
+
+20.07.99.71 Mogyorókrém
+
+*2008 Más módon elkészített vagy tartósított, másutt nem említett gyümölcs, dió (mogyoró) és más ehető növényrész, cukor vagy más édesítőanyag vagy alkohol hozzáadásával is:*
+
+20.08.11 Földimogyoró
+
+20.08.19 Másféle (mogyoró és pisztácia)
+
+20.08.30 Citrusfélék
+
+20.08.50 Kajszibarack
+
+20.08.60 Cseresznye
+
+20.08.70 Őszibarack
+
+20.08.80 Földieper
+
+20.08.92 Keverékek
+
+20.08.99 Másféle (szőlő és szilva)
+
+*2009 Gyümölcslé (beleértve a szőlőmustot is) és zöldséglé (nem erjesztve, alkoholtartalom nélkül, cukor vagy más édesítőanyag hozzáadásával is):*
+
+20.09.11 Narancslé
+
+20.09.19 Másféle (sűrített narancslé)
+
+20.09.20 Grapefruitlé
+
+20.09.30 Más
+
+20.09.30.21 Citromlé
+
+20.09.50 Paradicsomlé
+
+20.09.60 Szőlőlé
+
+20.09.70 Almalé
+
+20.09.80 Más (gyümölcslé)
+
+20.09.90 Gyümölcslékeverék
+
+*II. Melléklet*
+
+**Származási szabályok**
+
+1\. (1) A Megállapodás alkalmazása szempontjából egy termék akkor számít Magyarországról származó terméknek, ha teljes egészében Magyarországon került előállításra.
+
+(2) Teljes egészében Magyarországon előállítottnak számítanak a következőek:
+
+*a)* az ott betakarított növényi termékek;
+
+*b)* az ott született és nevelt élőállatok;
+
+*c)* az ott nevelt élőállatokból nyert termékek;
+
+*d)* a kizárólag a (2) *a)*—*c)* alpontokban meghatározott termékekből előállított áruk.
+
+(3) Azok a csomagoló anyagok és csomagoló tartályok, amelyekben a terméket elhelyezik, nem számítanak a termékhez annak megítélése szempontjából, hogy az adott termék teljes egészében előállított-e vagy sem, és nem szükséges annak megállapítása, hogy az ilyen csomagoló anyagok és csomagoló tartályok származóak-e vagy sem.
+
+2\. Az 1. pontban foglaltak ellenére, azok a Magyarországon előállított termékek, amelyek a Mellékletben szereplő lista 1. és 2. oszlopában szerepelnek és tartalmaznak nem teljes egészében ott előállított anyagokat is, Magyarországról származó termékeknek tekintendők, ha teljesülnek a 3. oszlopban rögzített, az ilyen anyagok megmunkálására vagy feldolgozására vonatkozó feltételek.
+
+3\. (1) A Megállapodás szerinti kedvezményes elbánás csak olyan termékekre vonatkozik, amelyeket egy másik ország területén történő átszállítás nélkül, közvetlenül szállítanak Magyarországról Izlandra. A Magyarországról származó és egységes, fel nem osztott szállítmányt képező termékeket azonban át lehet szállítani Izland vagy Magyarország területén kívüli más területeken is, szükség esetén az e területeken történő átrakodással vagy ideiglenes raktározással, feltéve, hogy az e területeken keresztüli átszállítás földrajzi okokból indokolt és az áruk a tranzit vagy a raktározás országa vámhatóságainak felügyelete alatt maradnak, hogy ezekben az országokban nem kerülnek kereskedelmi forgalomba vagy nem kerülnek belföldön felhasználásra és nem mennek keresztül más műveleten, mint a kirakás, az ismételt berakás, illetve a jó állapotban való megőrzést célzó bármely más művelet.
+
+(2) A bizonyítékokat az 1. alpontban megjelölt feltételek teljesüléséről, az EFTA államok és Magyarország közötti Megállapodás B) Jegyzőkönyv 12. Cikke 6. bekezdésében foglaltak szerint, az importáló ország vámhatóságainak kell benyújtani.
+
+4\. A jelen Melléklet értelmében származó termékek Izlandra történő behozatala esetén a Megállapodásban foglalt engedmények alkalmazandók, ha az EFTA államok és Magyarország közötti Megállapodás B) Jegyzőkönyve rendelkezései szerint kiállított vagy elkészített EUR.1 szállítási bizonyítványt vagy számlanyilatkozatot mutatnak be.
+
+5\. Az EFTA államok és Magyarország közötti Megállapodás B) Jegyzőkönyvében foglalt, a vámvisszatérítésre vagy a vámmentesítésre, a származás igazolására és az adminisztratív együttműködésre vonatkozó rendelkezések a megfelelő változtatásokkal alkalmazandók. A jelen rendelkezésekben szereplő és a vámvisszatérítésre vagy a vámmentesítésre vonatkozó tilalom kizárólag az olyan anyagfajtákra alkalmazandó, amelyekre az EFTA államok és Magyarország közötti Megállapodás vonatkozik.
+
+*Függelék*
+
+A 2. bekezdésben hivatkozott termékek listája, amelyekre a teljes egészében Magyarországon,\
+illetve Izlandon való előállítás kritériumától eltérő feltételek vonatkoznak
+
+[*A listában alkalmazott rövidítés a következő:*
+
+*M:* — A nem származó anyagokon végzett megmunkálás vagy feldolgozás, a származó státusz elnyerése céljából]
+
+____________________________________________
+
+HR vámtarifaszám Árumegnevezés
+
+____________________________________________
+
+ex 20.04 Zöldbab és bab, ecet vagy ecetsav nélkül elkészítve vagy tartósítva, fagyasztva
+
+*M:* Előállítás, melynek során a 7. és 20. árucsoportba tartozó valamennyi zöldbab és bab származó
+
+ex 20.05 Zöldborsó és bab, ecet vagy ecetsav nélkül elkészítve vagy tartósítva, nem fagyasztva
+
+*M:* Előállítás, melynek során a 7. és 20. árucsoportba tartozó valamennyi zöldborsó és bab származó
+
+ex 20.07 Dzsem, gyümölcskocsonya (zselé), gyümölcsíz, gyümölcs- és dió (mogyoró)-krém, mindezek főzve, hozzáadott cukorral vagy édesítőanyaggal is, kivéve citrusfélék és alma
+
+*M:* Előállítás, melynek során:\
+— valamennyi gyümölcs és dió származó, és\
+— a 17. árucsoportba tartozó bármely felhasznált anyag értéke nem haladhatja meg a termék gyártelepi árának 30%-át
+
+ex 20.08 Gyümölcs, dió és egyéb ehető növényrészek, a terméklista szerint
+
+*M:* Előállítás, melynek során:\
+— valamennyi gyümölcs, dió és egyéb ehető növényi rész származó, és\
+— a 17. árucsoportba tartozó bármely felhasznált anyag és egyéb ehető növényi értéke nem haladhatja meg a termék gyártelepi árának 30%-át
+
+ex 20.09 Gyümölcslevek, a terméklista szerint
+
+*M:* Előállítás, melynek során:\
+— valamennyi felhasznált gyümölcsnek vagy gyümölcsökből származó anyagnak teljes egészében előállítottnak kell lennie, és\
+— a 17. árucsoportba tartozó bármely felhasznált anyag értéke nem haladhatja meg a termék gyártelepi árának 30%-át''
+
+## 3. §
+
+Ez a rendelet 1994. június 1-jén lép hatályba.

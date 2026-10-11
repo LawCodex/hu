@@ -1,0 +1,98 @@
+---
+title: "59/2001. (IV. 13.) Korm. rendelet a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás C Jegyzőkönyvének B Mellékletében szereplő élőmarhára és fagyasztott marhahúsra vonatkozó 2000. évi átmeneti kompenzációról szóló vegyesbizottsági határozat kihirdetéséről"
+identifier: "59/2001. (IV. 13.) Korm. rendelet"
+njt_id: "2001-59-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/59"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-04-13
+in_force_from: 2001-04-18
+last_amended: 2001-04-18
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-59-20-22"
+retrieved: 2026-10-12
+---
+
+# 59/2001. (IV. 13.) Korm. rendelet a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás C Jegyzőkönyvének B Mellékletében szereplő élőmarhára és fagyasztott marhahúsra vonatkozó 2000. évi átmeneti kompenzációról szóló vegyesbizottsági határozat kihirdetéséről
+
+## 1. §
+
+A Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás kihirdetéséről szóló 1998. évi XX. törvény 3. §-ában kapott felhatalmazás alapján a Kormány a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás C Jegyzőkönyvének B Mellékletében szereplő élőmarhára és fagyasztott marhahúsra vonatkozó 2000. évi átmeneti kompenzációról szóló vegyesbizottsági határozatot (a továbbiakban: vegyesbizottsági határozat) e rendelettel kihirdeti.
+
+## 2. §
+
+A vegyesbizottsági határozat hivatalos magyar nyelvű fordítása a következő:
+
+,,
+
+**A Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás által létrehozott Vegyesbizottság határozata (2000/2. számú határozat)**
+
+**Átmeneti kompenzáció a C Jegyzőkönyv B Mellékletében szereplő élő szarvasmarhára és fagyasztott marhahúsra**
+
+Tekintettel a Török Köztársaságban az élő szarvasmarhára és a fagyasztott marhahúsra vonatkozó import engedélyek kiadásánál felmerült nehézségekre, valamint arra a tényre, hogy a Magyar Köztársaság és a Török Köztársaság közötti Szabadkereskedelmi Megállapodás (a továbbiakban: ,,a Megállapodás'') C Jegyzőkönyvének B Mellékletében szereplő, élő szarvasmarhára és fagyasztott marhahúsra vonatkozó kedvezmények nem kerülhettek időben kihasználásra,
+
+tekintettel arra, hogy kompenzálni szükséges a Magyar Köztársaságnak abból eredő veszteségeit, hogy a Török Köztársaság által a Magyar Köztársaságból származó élő szarvasmarhára és fagyasztott marhahúsra a Megállapodás C Jegyzőkönyvének B Melléklete szerint nyújtott kedvezmények nem kerültek kihasználásra,
+
+a Vegyesbizottság a következő határozatot hozta:
+
+A Török Fél átmenetileg alkalmazandó pótlólagos vámkvótákat nyit, az alábbiak szerint:
+
+--------------------
+
+*V:* Vámtarifaszám
+
+*M:* A termék megnevezése
+
+*I:* Időszak
+
+*K:* A pótlólagos kvóta mennyisége
+
+*T:* Az alkalmazott vám és a mezőgazdasági összetevő Törökországban
+
+--------------------
+
+*V:* 0710.40
+
+*M:* Csemegekukorica, fagyasztott
+
+*I:* 2001.
+
+*K:* 500 tonna
+
+*T:* 0%+2,91 euró/100 kg/nettó
+
+----------
+
+*V:* 1005.90
+
+*M:* Kukorica, más
+
+*I:* 2001. szeptember1.–2002. május 31.
+
+*K:* 55 000 tonna
+
+*T:* 0%
+
+A Magyar Fél elfogadja a fent részletezett kompenzációt az élő szarvasmarhára és fagyasztott marhahúsra vonatkozó kedvezmények ki nem használásából adódóan 2000-ben elszenvedett veszteségei ellensúlyozására.
+
+Ez a határozat azon a napon lép hatályba, amelyen a Felek értestik egymást, hogy a határozat elfogadását célzó belső eljárás megtörtént.[^1]
+
+Készült Budapesten, 2000. december 12-én, két eredeti példányban, angol nyelven.
+
+A Magyar Fél nevében:\
+*Dr. Balás Péter* s. k,\
+a Külügyminisztérium helyettes államtitkára
+
+A Török Fél nevében:\
+*Abdullah Köten* s. k.,\
+a Török Köztársaság Miniszterelnöki Hivatala\
+Külkereskedelmi Államtitkárságának helyettes államtitkára''
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba, de a vegyesbizottsági határozatban foglaltakat 2001. március 30. napjától kell alkalmazni.
+
+---
+
+[^1]: A vegyesbizottsági határozat 2001. március 30-án lépett hatályba.

@@ -1,0 +1,481 @@
+---
+title: "162/2003. (X. 16.) Korm. rendelet a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről"
+identifier: "162/2003. (X. 16.) Korm. rendelet"
+njt_id: "2003-162-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/162"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-10-16
+in_force_from: 2009-03-01
+last_amended: 2023-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-162-20-22"
+retrieved: 2026-10-12
+---
+
+# 162/2003. (X. 16.) Korm. rendelet a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről
+
+Az Egyesült Nemzetek Szervezete keretében a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt Egyezmény kihirdetéséről szóló 1998. évi L. törvény, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet, valamint az Egységes Kábítószer Egyezmény módosításáról és kiegészítéséről szóló, Genfben, 1972. március 25-én kelt Jegyzőkönyv kihirdetéséről szóló 1988. évi 17. törvényerejű rendelet végrehajtása érdekében, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 166. §-ában kapott felhatalmazás alapján a Kormány a kábítószerek előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának szabályozására a következőket rendeli el:
+
+## Értelmező rendelkezések
+
+### 1. §[^1]
+
+E rendelet alkalmazásában:
+
+a) *mák:* a mák vagy ópiummák (Papaver somniferum L.) faj fajtáihoz, valamint a murvásmák (Papaver bracteatum Lindl.) faj fajtáihoz tartozó növény;
+
+b)[^2] *ipari mák:* a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a mezőgazdasági növényfajok közösségi fajtajegyzékében (a továbbiakban: Közösségi Fajtajegyzék) közzétett olyan – magas alkaloid tartalmú – mákfajta (a továbbiakban: mákfajta), amelyben az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban átlagosan 0,7% feletti;
+
+c)[^3] *étkezési mák:* a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett olyan – alacsony alkaloid tartalmú – mákfajta, amelyben az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban átlagosan 0,7% vagy az alatti;
+
+d)[^4] *díszítő mák:* virágkötészeti célra előállított étkezési mákfajta;
+
+e)[^5] *mákszalma:* teljes éréskor szárrésszel betakarított mák magot már nem tartalmazó tokja;
+
+f)[^6] *kifejtetlen máktok:* teljes éréskor szárrésszel betakarított mák magot tartalmazó tokja;
+
+g)[^7]
+
+h) *kender:* minden Cannabis nemzetséghez tartozó növény;
+
+i)[^8] *alacsony THC tartalmú kender:* olyan, a Cannabis sativa L. fajhoz tartozó rost- és magkenderfajta, amelynek tetrahidrocannabinol (THC) tartalma ténylegesen vagy a kenderfajta állami elismerési eljárása vagy a Közösségi Fajtajegyzékbe való felvételre irányuló eljárás során végzett vizsgálatok eredménye alapján a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében nem éri el a 0,2%-ot;
+
+j)[^9] *magas THC tartalmú kender:* olyan kenderfajta, amely nem minősül alacsony THC tartalmúnak;
+
+k)[^10] *kannabisz:* a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet (a továbbiakban: KKR.) 1. § 20. pontja szerinti fogalom.
+
+### 2. §[^11]
+
+A mákfajta alkaloid tartalmának, valamint a kenderfajta THC tartalmának a mintavételt követő meghatározását a NÉBIH akkreditált laboratóriuma végzi a Nemzeti Fajtajegyzékben történő közzététel előtt.
+
+## A kender termesztése
+
+### 3. §
+
+(1)[^12] Szabadföldön, valamint fedett termesztő berendezésben – a 13. § (1) bekezdésében meghatározott tevékenységek kivételével – kizárólag a Nemzeti vagy a Közösségi Fajtajegyzékben közzétett, alacsony THC tartalmú kender termeszthető.
+
+(2)[^13] Kender vetéséhez kizárólag fémzárolt vetőmag használható fel. A termesztőnek a vetőmaggal kapcsolatos bizonylatokat és számlákat vagy másolatait legalább a vetési évet követő év végéig meg kell őriznie.
+
+## Az ipari mák termesztése
+
+### 4. §
+
+(1) Ipari mák vetéséhez kizárólag ipari mákfajta fémzárolt vetőmagja használható fel.
+
+(2)[^14] Ipari mák termesztése kizárólag a külön jogszabály szerint a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) által kiadott tevékenységi engedéllyel, valamint évenként megújítandó eseti termesztetési engedéllyel (a továbbiakban: eseti termesztetési engedély) rendelkező gazdálkodó szervezettel (a továbbiakban: termesztető) megkötött szerződés alapján végezhető.
+
+(3)[^15]
+
+### 5. §
+
+(1) A termesztető köteles
+
+a)[^16] a földművelésügyi feladatkörében eljáró vármegyei kormányhivatallal (a továbbiakban: kormányhivatal) a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatványon az alábbi *aa)–ah)* pontokban meghatározott adatokat tavaszi vetésű ipari mák esetén a vetési évben április 30-ig, őszi vetésű ipari mák esetén a vetési évben november 30-ig, az *ai)* pont szerinti adatot pedig november 30-áig közölni:
+
+aa) a termesztető neve, címe,
+
+ab) a termesztők neve, címe,
+
+ac) a vetett termőterületek nagysága,
+
+ad) a termőterületek helye, helyrajzi száma, vagy fizikai blokk és parcella szám,
+
+ae) a termesztett fajták neve,
+
+af) a kiadott vetőmag fajtája, fémzár száma, mennyisége,
+
+ag) a termesztési szerződések megkötésének dátuma, iktatószáma,
+
+ah)[^17]
+
+ai)[^18] a termesztető részére a termesztők által leadott kifejtetlen ipari máktok mennyisége (kg).
+
+b)[^19] a KKR. 10. §-ában meghatározott időpontig az eseti termesztetési engedély kiadása érdekében a KKR. 10. §-ában meghatározott adatokat az NNGYK-nak, valamint az agrárpolitikáért felelős miniszternek megküldeni,
+
+c)[^20] folyamatos nyilvántartást vezetni a szerződéses máktermesztőkről, azok vetőmag és ipari mák termőterületeinek helyéről és nagyságáról, az átadott és visszaszolgáltatott vetőmag, valamint az átvett ipari mák kifejtetlen tokjának mennyiségéről, továbbá a bejelentett különleges esetekről,
+
+d) a vetéshez szükséges vetőmagot a termesztőnek átadni, a fel nem használt vetőmagot tőle visszavenni, és a fel nem használt vetőmag őrzéséről annak felhasználásáig, illetve megsemmisítéséig gondoskodni,
+
+e) a vele szerződésben álló termesztőknél az ipari mák termesztését ellenőrizni,
+
+f)[^21] a megkötött szerződés alapján termesztett ipari mák kifejtetlen tokjának teljes mennyiségét átvenni,
+
+g)[^22] a felhasználni nem kívánt mákszalmát legkésőbb november 30-ig megsemmisíteni,
+
+h)[^23] biztosítani, hogy a mákszalma, a kifejtetlen máktok, illetve a máktokkal szennyezett mákmag csak megfelelő biztonsági eljárások mellett kerüljön felhasználásra vagy megsemmisítésre,
+
+i)[^24] a termesztésre vonatkozó jogszabályi rendelkezések megsértése vagy visszaélés gyanúja esetén a rendőrséget értesíteni,
+
+j)[^25] a vetőmaggal kapcsolatos számlák másolatát a kormányhivatalnak az *a)* pont szerinti bejelentéssel egyidejűleg megküldeni.
+
+(1a)[^26] A termesztető köteles őszi vetésű ipari mák kipusztulása esetén a kormányhivatalnak a vetést követő év április 30-ig bejelenteni a kipusztulással érintett termesztő nevét, címét, a terület azonosítóit (település neve, földrészlet helyrajzi száma, alrészlet megjelölése, fizikai blokk és parcella azonosító), nagyságát, valamint a kipusztult állomány fajtáját.
+
+(2)[^27] A kormányhivatal az (1) bekezdés a) pontja szerinti bejelentésről a rendőrséget tájékoztatja.
+
+(3)[^28]
+
+### 6. §
+
+(1) Az ipari mák termesztője köteles
+
+a)[^29] a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatvány szerinti nyilvántartást vezetni, amely az alábbi adatokat tartalmazza:
+
+aa) a szerződött terület nagysága, helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+
+ab) a termesztetőtől átvett vetőmag mennyisége, fémzár száma,
+
+ac) a fajta neve,
+
+ad) a vetés ideje,
+
+ae) a vetett terület nagysága,
+
+af) a termesztetőnek visszaszolgáltatott vetőmag mennyisége, fémzár száma,
+
+ag) a virágzás kezdetének időpontja,
+
+ah) a betakarítás kezdetének időpontja,
+
+ai) a betakarított terület nagysága,
+
+aj)[^30] a termesztetőnek átadott kifejtetlen ipari máktok mennyisége,
+
+b) a fel nem használt vetőmagot tárgyév május 10-éig a termesztető részére visszaszolgáltatni,
+
+c) a mákvirágzás befejezésének időszakától (zöld tokos állapottól) a betakarításig a teljes termőterület folyamatos őrzéséről gondoskodni,
+
+d)[^31] a kifejtetlen ipari máktok teljes mennyiségét a termesztető részére átadni, a tok átmeneti őrzésére alkalmas tárolóhelyet biztosítani, és annak folyamatos őrzéséről gondoskodni,
+
+e)[^32] a betakarítás után a kifejtetlen ipari máktok termesztető általi átvételét követően az általa az *a)* pontban meghatározott adattartalommal vezetett nyilvántartást a 7. § (2) bekezdése szerint aláíratni.
+
+(2)[^33] A termesztő köteles továbbá minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek, valamint a termesztővel szerződésben álló termesztetőnek haladéktalanul írásban bejelenteni. Az ügyészség a nyomozás eredményéről értesíti a kormányhivatalt, valamint az NNGYK-t.
+
+### 7. §
+
+(1)[^34] A kormányhivatal az ipari mákot termesztők bejelentési, nyilvántartási, valamint a 4. § (1) és (2) bekezdésében meghatározott kötelezettségeinek betartását a virágzástól a betakarításig terjedő időszakban évente legalább egyszer ellenőrzi. A kormányhivatal a fajtaazonosság vagy az alkaloid tartalom laboratóriumi vizsgálattal történő megállapítása érdekében a betakarítás előtt a máktokból mintát vehet.
+
+(2)[^35] Az ellenőrzésről a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatványnak megfelelő jegyzőkönyvet vagy feljegyzést kell készíteni a (4) bekezdés szerinti adattartalommal. Az ellenőrzést végző a betakarítást követően aláírja a termesztő által vezetett nyilvántartást. Ha az ellenőrzés arra az eredményre vezet, hogy a termesztő az e rendeletben foglalt bármely kötelezettségének nem tett eleget, a kormányhivatal haladéktalanul értesíti a termesztetőt, a rendőrséget és az NNGYK-t, egyúttal elrendelheti a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.
+
+(3)[^36] A kormányhivatal az 5. § (1) bekezdésének a) pontja és a 6. § (1) bekezdésének a) pontja szerint nyilvántartott adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában a betakarítást követő év március 31-éig az ENSZ Nemzetközi Kábítószer Ellenőrző Szerve felé történő adatszolgáltatás érdekében megküldi a NÉBIH, valamint az NNGYK részére.
+
+(4)[^37] Az ellenőrzésről készített jegyzőkönyv vagy feljegyzés – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túl – a következő adatokat tartalmazza:
+
+a) a termesztő neve, címe, telefonszáma,
+
+b) a tábla helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+
+c) a faj és fajta megnevezése,
+
+d) a nyilvántartás szerinti táblaméret,
+
+e) a nyilvántartott és tényleges táblaméret közötti különbség,
+
+f) az eltérés indoklása,
+
+g) észlelt rendellenességek,
+
+h) megtett intézkedések.
+
+## Étkezési mák termesztése
+
+### 8. §
+
+(1)[^38] Étkezési mák vetéséhez kizárólag étkezési mákfajtának a termőterülettel arányos mennyiségű, fémzárolt vetőmagja használható fel. A termesztőnek a vetőmaggal kapcsolatos bizonylatokat és számlákat legalább a vetési évet követő második év végéig meg kell őriznie.
+
+(2)[^39] A termesztő az étkezési mák 500 m<sup>2</sup>-t meghaladó termőterületen történő termesztése, valamint területnagyságtól függetlenül az étkezési mák kereskedelmi céllal történő termesztése esetén köteles a kormányhivatal részére a termesztés megkezdése előtt, de legkésőbb tavaszi vetésű étkezési mák esetén a vetési évben április 30-ig, őszi vetésű étkezési mák esetén a vetési évben november 30-ig a következő adattartalmú bejelentést tenni a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatványon:
+
+a)[^40] a termesztő
+
+aa) természetes személy személyazonosító adatai és lakcíme,
+
+ab) jogi személy vagy jogi személyiséggel nem rendelkező más szervezet megnevezése, székhelye, adószáma, a képviseletét ellátó személy családi és utóneve, lakcíme, valamint a képviselet jogcíme,
+
+b) a vetett termőterület nagysága, helye, helyrajzi száma, vagy fizikai blokk és parcella száma,
+
+c) a termesztett fajta neve, vetőmag fémzár száma és mennyisége,
+
+d) virágkötészeti célból termesztett mák esetén az exportáló, illetve a belföldi forgalmazó neve, címe,
+
+e) az előző évi betakarított terület nagysága.
+
+(2a)[^41] A termesztő köteles a vetőmaggal kapcsolatos számlák másolatát a kormányhivatalnak a (2) bekezdés szerinti bejelentéssel egyidejűleg megküldeni.
+
+(2b)[^42] A termesztő köteles őszi vetésű étkezési mák kipusztulása esetén a kormányhivatalnak a vetést követő év április 30-ig bejelenteni a kipusztulással érintett terület azonosítóit (település neve, földrészlet helyrajzi száma, alrészlet megjelölése, fizikai blokk és parcella azonosító), nagyságát, valamint a kipusztult állomány fajtáját.
+
+(3)[^43] A termesztőnek a (2) bekezdés szerint bejelentett adatairól a kormányhivatal a bejelentést követő tizenöt napon belül a NÉBIH által rendszeresített, és a NÉBIH honlapján közzétett formanyomtatvány szerinti igazolást állítja ki. A kormányhivatal az igazolás kiállítását megtagadja, amennyiben
+
+a) a termesztő a (2) bekezdés szerinti bejelentési kötelezettségének határidőre nem tesz eleget és azt legkésőbb a mák virágzásának befejezését megelőző tizenöt napig nem pótolja,
+
+b) a bejelentés nem felel meg a (2) és (2a) bekezdésben foglalt követelményeknek és a termesztő a hiánypótlási felhívásnak nem tesz eleget, vagy
+
+c) alapos okkal feltételezi, hogy a termesztő bejelentésében valótlan adatot közölt és felhívására a termesztő az adatot nem tudja igazolni.
+
+(4)[^44] Az étkezési mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
+
+(5)[^45] A kormányhivatal a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a NÉBIH-nek, amely azt június 15-ig összesítve továbbítja az NNGYK-nak.
+
+### 9. §[^46]
+
+(1)[^47] Az étkezési mák fel nem használt mákszalmáját a termesztő felajánlhatja az ipari mákot termesztetőnek átvételre, aki a mákszalma elfogadása esetén az elszállításról saját költségén gondoskodik. Az ipari mákot termesztető jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi az NNGYK-nak.
+
+(2) A fel nem ajánlott, továbbá át nem vett mákszalmát égetéssel vagy talajba forgatással legkésőbb november 30-ig meg kell semmisíteni.
+
+### 9/A. §[^48]
+
+(1)[^49] A kormányhivatal ellenőrzi az étkezési mák termesztője számára e rendeletben megállapított kötelezettség teljesítését.
+
+(2)[^50] Étkezési mák 500 m<sup>2</sup>-t meghaladó termőterületen történő termesztése esetén a kormányhivatal évente egyszer, az állomány virágzó állapotának végéig, szántóföldi ellenőrzést végez. Amennyiben a máktábla nagysága étkezési mák kereskedelmi céllal történő termesztése esetén nem haladja meg az 500 m<sup>2</sup>-t, a kormányhivatal szántóföldi ellenőrzést szúrópróbaszerűen végez az állomány virágzó állapotának végéig.
+
+(3)[^51] A kormányhivatal a szántóföldi ellenőrzés keretében ellenőrzi a bejelentett adatok megfelelőségét. A kormányhivatal a szántóföldi ellenőrzés során a fajtaazonosság vagy az alkaloid tartalom laboratóriumi vizsgálattal történő megállapítása érdekében a máktokból mintát vehet.
+
+(4)[^52] A kormányhivatal a termesztő költségére elrendelheti az étkezési máktábla talajba forgatással történő megsemmisítését, amennyiben
+
+a) az étkezési mák termesztése a 8. § (2) bekezdése alapján bejelentési kötelezettség alá tartozik és a termesztő a bejelentési kötelezettségének határidőre nem tett eleget, illetve azt legkésőbb a mák virágzásának befejezését megelőző tizenöt napig nem pótolta,
+
+b) a termesztő nem fémzárolt vetőmagot használt fel, vagy
+
+c) a termesztő valótlan adatokat jelentett be.
+
+### 9/B. §[^53]
+
+(1)[^54] Az étkezési mák termesztője köteles tárgyév szeptember 30-ig a kormányhivatalnak bejelenteni a mákszalma és a betakarított mákmag mennyiségét, megjelölve, hogy a tisztított vagy tisztítatlan állapotú mákmag mennyiségét adta-e meg, valamint a mákszalma megsemmisítésének tervezett módját. A bejelentés és a mákszalma megsemmisítése között legalább hét napnak kell eltelnie.
+
+(2)[^55] A mákszalma megsemmisítéséről az étkezési mák termesztőjének nyilvántartást kell vezetnie, megjelölve a megsemmisítés időpontját és módját. A mákszalma megsemmisítését, valamint a nyilvántartás meglétét a kormányhivatal szúrópróbaszerűen ellenőrzi. Amennyiben a mákszalma megsemmisítését a termesztő nem végzi el a 9. § (2) bekezdése szerinti határidőig, a kormányhivatal a termesztő költségére elrendeli a mákszalma megsemmisítését.
+
+(3)[^56] A kormányhivatal az (1) bekezdés szerinti bejelentést követő hét napon belül igazolást állít ki a termesztő számára a bejelentett mákmag mennyiségéről. A kormányhivatal az igazolás kiállítását megtagadja, amennyiben a termesztő a 8. § (3) bekezdése szerinti igazolással nem rendelkezik, vagy alapos okkal feltételezi, hogy a termesztő bejelentésében valótlan adatot közölt és felhívására a termesztő az adatot nem tudja igazolni.
+
+(4)[^57] Az étkezési mák termesztője az (1) bekezdés szerinti adatokat az (1) bekezdésben foglalt határidő végéig több részletben is megadhatja, megjelölve, hogy az adott bejelentés nem a termesztő által termesztett és betakarított mák teljes mennyiségére vonatkozik. Az (1) bekezdésben foglalt adatok mellett a termesztőnek meg kell adnia a bejelentéssel érintett területnagyságot is. A kormányhivatal minden egyes bejelentésről a (3) bekezdésben foglaltak szerint igazolást állít ki.
+
+(4a)[^58]
+
+(4b)[^59]
+
+(5) A termesztő az étkezési mákot kizárólag a (3) bekezdés szerinti igazolás birtokában hozhatja kereskedelmi forgalomba. A termesztő köteles az étkezési mákot továbbforgalmazó személynek az igazolást bemutatni. Az igazolás számát az étkezési mák forgalomba hozatala során a kereskedelmi dokumentumoknak tartalmaznia kell.
+
+(6)[^60] A kormányhivatal és a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala ellenőrzi a forgalomba hozott étkezési mák (3) bekezdés szerinti igazolásának meglétét. Amennyiben a termesztő igazolás nélkül hozta forgalomba az étkezési mákot, földművelésügyi, valamint az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró vármegyei kormányhivatal az étkezési mákot lefoglalja és elrendeli a termesztő költségén való megsemmisítését.
+
+## Díszítő mák termesztése
+
+### 10. §
+
+(1) Díszítő mák termesztéséhez kizárólag étkezési mákfajta fémzárolt vetőmagja használható fel.
+
+(2)[^61] A díszítő mák termesztője tavaszi vetésű díszítő mák esetén a vetési évben április 30-ig, őszi vetésű díszítő mák esetén a vetési évben november 30-ig a 8. § (2) bekezdése szerinti adatokat, az ott megjelölt módon köteles a kormányhivatallal közölni.
+
+(3)[^62] A kormányhivatal a (2) bekezdés szerinti bejelentésben foglalt adatokat az érintett személyek azonosítására alkalmatlan statisztikai adat formájában május 31-ig megküldi a NÉBIH-nek, amely azt június 15-ig összesítve továbbítja az NNGYK-nak.
+
+(4)[^63] A díszítő mák mákszalmáját vagy kifejtetlen máktokját a szárával a díszítő mák termesztője virágkötészeti céllal értékesítheti, amennyiben
+
+a)[^64] az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban 0,7% vagy az alatti, vagy
+
+b)[^65] a máktokot kábítószerként való felhasználást megnehezítő eljárással (így különösen festéssel, lakkozással, fehérítéssel) kezelték, vagy
+
+c)[^66] Magyarország területén kívülre történő értékesítés esetében a fogadó állam importőre írásos nyilatkozatban vállalja, hogy a máktokot a *b)* pont szerint, illetve saját nemzeti előírásainak megfelelően kezelni fogja.
+
+(5)[^67]
+
+(6)[^68] A díszítő mák virágkötészeti célra fel nem használt mákszalmáját vagy kifejtetlen máktokját a termesztő felajánlhatja az ipari mákot termesztetőnek átvételre, aki a mákszalma vagy kifejtetlen máktok elfogadása esetén az elszállításról saját költségén gondoskodik, továbbá a nyilvántartás érdekében jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi az NNGYK-nak.
+
+(7)[^69] A fel nem ajánlott, továbbá át nem vett, valamint virágkötészeti célra nem értékesített díszítő mák mákszalmáját égetéssel vagy talajba forgatással legkésőbb november 30-ig meg kell semmisíteni. A megsemmisítés módjáról és tervezett időpontjáról legalább hét nappal a megsemmisítés időpontja előtt a díszítő mák termesztőjének tájékoztatnia kell a kormányhivatalt. A 9/B. § (2) bekezdésében foglalt előírásokat a díszítő mák szalmájának megsemmisítésével kapcsolatban alkalmazni kell.
+
+(8)[^70] A díszítő mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
+
+## A forgalomba hozatal szabályai
+
+### 11. §
+
+(1)[^71] Az e rendeletben és a külön jogszabályokban előírtaknak megfelelő mákmagot, illetve alacsony THC tartalmú kendermagot szabad forgalomba hozni.
+
+(2)[^72] Ipari mák és étkezési mák magja csak megfelelő tisztítás után hozható étkezési célra forgalomba.
+
+(3)[^73] Az ipari mákmagot első alkalommal étkezési céllal forgalomba hozónak az alkaloidtartalom meghatározása céljából a mákmagot erre akkreditált laboratóriumban be kell vizsgáltatnia. Az ipari mákmagot étkezési céllal első alkalommal forgalomba hozónak a laboratóriumi vizsgálati jegyzőkönyvet a mákmagot továbbforgalmazó személy számára be kell mutatnia. A vizsgálati jegyzőkönyv számát a mákmag forgalomba hozatala során a kereskedelmi dokumentumoknak tartalmaznia kell.
+
+(3a)[^74] A forgalomba hozatalra kerülő étkezési és ipari mákfajta magjának megfelelő tisztítottságát a kormányhivatal és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatal ellenőrzi. Az étkezési céllal forgalmazott mákmagból a kormányhivatal és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatal szúrópróbaszerűen mintát vehet, és azt az élelmiszerekben előforduló egyes szennyezőanyagokra és természetes eredetű ártalmas anyagokra vonatkozó határértékekről, valamint az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő egyes anyagokkal, tárgyakkal kapcsolatos követelményekről szóló 49/2014. (IV. 29.) VM rendelet [a továbbiakban: 49/2014. (IV. 29.) VM rendelet] szerinti határértékeknek való megfelelést ellenőrző vizsgálat céljából megküldi az erre akkreditált hatósági laboratóriumnak.
+
+(3b)[^75] A kormányhivatal és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatal elrendelheti a forgalomba hozó költségére a mákmag ismételt tisztítását vagy a forgalomból való kivonását, ha a mákmag a természetes eredetű ártalmas anyag tartalma tekintetében nem felel meg a 49/2014. (IV. 29.) VM rendelet szerinti határértékeknek.
+
+(4)[^76] Az NNGYK a kannabisz exportját, importját, transzferét végző, a tisztítatlan mákszalmamaradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát, kifejtetlen máktokot és kannabiszt továbbhasznosítás céljából tároló gazdálkodó szervezeteknek nyilvántartásba vételt követően hatósági bizonyítványt állít ki.
+
+(5)[^77] Ipari mák mákszalmáját és ipari mák kifejtetlen máktokját, valamint kannabiszt exportálni, importálni, transzferét végezni csak eseti export vagy eseti import engedély birtokában lehet. Az eseti export és import engedélyt az NNGYK adja ki a KKR. szerinti hatósági bizonyítvánnyal már rendelkező gazdálkodó szervezet részére.
+
+### 12. §[^78]
+
+A mák és a kender termesztésére és forgalomba hozatalára vonatkozó szabályok betartásának ellenőrzésére a rendőrség és a kormányhivatal, valamint a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal jogosult. A NÉBIH a kormányhivatal és a népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal által végzett, a kábítószer előállítására alkalmas növények termesztésének helyszíni ellenőrzésével kapcsolatos adatokat összesíti, és gondoskodik az ipari-, az étkezési és a díszítőmák termesztésével kapcsolatos, a miniszter részére történő adatszolgáltatásról.
+
+## Ipari mákkal és magas THC tartalmú kenderrel végezhető egyéb tevékenységek
+
+### 13. §
+
+(1)[^79] Ipari mák és magas THC tartalmú kender termesztéstechnológiai kutatásával, nemesítésével, fajtakísérleteinek beállításával, kísérleti termesztésével, tudományos célú termesztésével és termesztetésével, vetőmagja előállításával, valamint genetikai alapanyagainak tárolásával az NNGYK tevékenységi engedélyével rendelkező szervezet (a továbbiakban: engedélyes) foglalkozhat. A tevékenységi engedély, valamint kísérleti célú termesztés esetén az eseti termesztetési engedély a NÉBIH-nek a szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló rendelet szerinti kísérleti célú vetőmag felhasználási, valamint forgalomba hozatali engedélyében foglalt vetőmag mennyiségi korlátozások figyelembe vételével adható meg. Az NNGYK az engedélyről tájékoztatja a NÉBIH-et és az Országos Rendőr-főkapitányságot.
+
+(2) Az (1) bekezdésben meghatározott tevékenységet az az engedélyes folytathat, amely
+
+a) alaptevékenysége körében kutatás-fejlesztési, génmegőrzési vagy fajtakísérleti tevékenységet végez,
+
+b) kender THC tartalma, illetve mák alkaloid tartalma meghatározására saját kémiai vizsgáló (analitikai) laboratóriummal és módszerekkel rendelkezik, vagy hatósági laboratóriumtól a vizsgálati eredményt megkéri,
+
+c) ipari mákfajták, fajtajelöltek és kísérleti populációk termesztése során a tenyészidő alatt a zöld tokos állapottól kezdődően a betakarításig, illetve a magas THC tartalmú kenderfajták és azok vetőmagjai termesztésénél mind szabadföldön, mind fedett termesztőberendezésben folyamatos őrzést képes biztosítani,
+
+d) a magas THC tartalmú kenderfajták, ipari mákfajták, fajtajelöltek és kísérleti populációk termesztéséhez, feldolgozásához és raktározásához saját tulajdonú vagy bérelt területtel rendelkezik.
+
+(3)[^80] Az (1) bekezdésben meghatározott tevékenységekre vonatkozó engedély (a továbbiakban: tevékenységi engedély) iránti kérelmet az NNGYK-hoz kell benyújtani.
+
+(4)[^81] A tevékenységi engedély iránti kérelemnek – a KKR szerinti gyógyászati célú tevékenységi engedély iránti kérelem tartalmi elemein túl – tartalmaznia kell
+
+a) a kábítószer előállítására felhasználható, az (1) bekezdés szerinti tevékenységgel érintett növények körét és a tevékenység formáját,
+
+b) a kábítószer előállítására felhasználható növényekkel kapcsolatos fajtafenntartási kötelezettségvállalást.
+
+(5)[^82]
+
+(6)[^83]
+
+(7)[^84]
+
+(8)[^85]
+
+(9) Az (1) bekezdés szerinti vetőmag-előállítás során a vetőmag tisztítási aljat zárttéri égetéssel meg kell semmisíteni.
+
+(10) Az (1) bekezdés szerinti nemesítési és fajtafenntartási tevékenység fajtakísérletek, gyűjteményfenntartás, újraszaporítás, valamint a nemzetközi megrendelésekhez való adatszolgáltatás céljából csak ellenőrzött körülmények között végezhető.
+
+### 14. §[^86]
+
+Magas THC tartalmú kender bármely részének exportja, importja és transzfere esetén a KKR. szerinti eseti export-, illetve eseti importengedélyt az NNGYK adja ki a KKR. szerinti tevékenységi engedéllyel már rendelkező gazdálkodó szervezetek részére.
+
+### 15. §[^87]
+
+A rendeletben foglaltakat
+
+a) a 4. § (2) bekezdése szerinti tevékenységek,
+
+b) a 13. § (1) bekezdése szerinti tevékenységek, és
+
+c) a 14. § szerinti tevékenységek
+
+esetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
+
+## Záró rendelkezések
+
+### 16. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2004. január 1-jén lép hatályba.
+
+(2)[^88]
+
+(3)–(6)[^89]
+
+### 17. §[^90]
+
+(1) E rendelet a vetőmagok piacának közös szervezéséről szóló 2358/71/EGK rendelet módosításáról, valamint a vetőmagágazatban a 2000/2001. és 2001/2002. gazdasági évben nyújtandó támogatásról szóló 1405/1999/EK tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^91]
+
+## 2. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^92]
+
+## 3. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^93]
+
+## 4. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^94]
+
+## 5. számú melléklet a 162/2003. (X. 16.) Korm. rendelethez[^95]
+
+---
+
+[^1]: Az 1. § a 62/2010. (III. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § b) pontja a 137/2012. (VI. 29.) Korm. rendelet 95. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés a) pontja, a 607/2022. (XII. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § c) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 607/2022. (XII. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § d) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § e) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § f) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 1. § g) pontját a 19/2015. (II. 16.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § i) pontja a 332/2016. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § j) pontja a 332/2016. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. § k) pontját a 332/2016. (XI. 8.) Korm. rendelet 1. §-a iktatta be, szövege a 607/2022. (XII. 28.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^11]: A 2. § a 332/2016. (XI. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 3. § (1) bekezdése a 332/2016. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 3. § (2) bekezdése a 228/2006. (XI. 20.) Korm. rendelet 2. §-ával megállapított, a 332/2016. (XI. 8.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 58. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^16]: Az 5. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 50. § a) pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdés a) pont ah) alpontját a 19/2015. (II. 16.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^18]: Az 5. § (1) bekezdés a) pont ai) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^19]: Az 5. § (1) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 332/2016. (XI. 8.) Korm. rendelet 8. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^20]: Az 5. § (1) bekezdés c) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^21]: Az 5. § (1) bekezdés f) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
+[^22]: Az 5. § (1) bekezdés g) pontja a 19/2015. (II. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (1) bekezdés h) pontja a 62/2010. (III. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 5. pontja szerint módosított szöveg.
+[^24]: Az 5. § (1) bekezdés i) pontja a 62/2010. (III. 18.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^25]: Az 5. § (1) bekezdés j) pontját a 19/2015. (II. 16.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^26]: Az 5. § (1a) bekezdését a 19/2015. (II. 16.) Korm. rendelet 2. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^27]: Az 5. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: Az 5. § (3) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 29. § (4) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^29]: A 6. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^30]: A 6. § (1) bekezdés a) pont aj) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
+[^31]: A 6. § (1) bekezdés d) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
+[^32]: A 6. § (1) bekezdés e) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
+[^33]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^34]: A 7. § (1) bekezdése a 19/2015. (II. 16.) Korm. rendelet 3. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^35]: A 7. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 9–10. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^36]: A 7. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § b) és f) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 11. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^37]: A 7. § (4) bekezdését a 62/2010. (III. 18.) Korm. rendelet 5. § (2) bekezdése iktatta be, nyitó szövegrésze a 347/2019. (XII. 23.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^38]: A 8. § (1) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 12. pontja szerint módosított szöveg.
+[^39]: A 8. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 6. §-ával megállapított, nyitó szövegrésze a 19/2015. (II. 16.) Korm. rendelet 9. § 13–14. pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^40]: A 8. § (2) bekezdés a) pontja a 19/2015. (II. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^41]: A 8. § (2a) bekezdését a 19/2015. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^42]: A 8. § (2b) bekezdését a 19/2015. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^43]: A 8. § (3) bekezdése a 177/2015. (VII. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^44]: A 8. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^45]: A 8. § (5) bekezdése a 19/2015. (II. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^46]: A 9. § a 19/2015. (II. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^47]: A 9. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^48]: A 9/A. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.
+[^49]: A 9/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^50]: A 9/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^51]: A 9/A. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^52]: A 9/A. § (4) bekezdése a 177/2015. (VII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^53]: A 9/B. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.
+[^54]: A 9/B. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: A 9/B. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 9/B. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^57]: A 9/B. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^58]: A 9/B. § (4a) bekezdését a 332/2016. (XI. 8.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 9. §-a.
+[^59]: A 9/B. § (4b) bekezdését a 332/2016. (XI. 8.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 9. §-a.
+[^60]: A 9/B. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § j) pontja szerint módosított szöveg. [Utóbbi módosító rendelet ugyanezen pontjával elrendelt módosítás, amely szerint az „a földművelésügyi, valamint az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal” szövegrészek helyébe az „a megyeszékhely szerinti járási hivatal és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala” szöveg lép, nem vezethető át.] [A 9/B. § (6) bekezdésében a 347/2019. (XII. 23.) Korm. rendelet 3. § c) pontjával elrendelt módosítás, amely szerint hatályát veszti az „Amennyiben a termesztő igazolás nélkül hozta forgalomba az étkezési mákot, a megyeszékhely szerinti járási hivatal és a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási hivatala az étkezési mákot lefoglalja és elrendeli a termesztő költségén való megsemmisítését.” szövegrész, nem vezethető át.] A 9/B. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
+[^61]: A 10. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 15. pontja, a 360/2019. (XII. 30.) Korm. redelet 29. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^62]: A 10. § (3) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdés g) pontja, a 62/2010. (III. 18.) Korm. rendelet 16. § h) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 16. pontja, a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^63]: A 10. § (4) bekezdését az 58/2006. (III. 21.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 228/2006. (XI. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 62/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, nyitó szövegrésze a 19/2015. (II. 16.) Korm. rendelet 9. § 17. pontja szerint módosított szöveg.
+[^64]: A 10. § (4) bekezdés a) pontja a 607/2022. (XII. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^65]: A 10. § (4) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^66]: A 10. § (4) bekezdés c) pontja a 347/2019. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^67]: A 10. § (5) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^68]: A 10. § (6) bekezdése a 62/2010. (III. 18.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 20–21. pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^69]: A 10. § új (7) bekezdése a 19/2015. (II. 16.) Korm. rendelet 7. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^70]: A 10. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 228/2006. (XI. 20.) Korm. rendelet 3. § (2) bekezdése, szövege a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^71]: Az 11. § (1) bekezdése a 142/2004. (IV. 29.) Korm. rendelet 34. §-ának (5) bekezdésével megállapított szöveg, e módosító rendelet 34. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^72]: A 11. § (2) bekezdése a 19/2015. (II. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^73]: A 11. § (3) bekezdése a 19/2015. (II. 16.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^74]: A 11. § (3a) bekezdését a 19/2015. (II. 16.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^75]: A 11. § (3b) bekezdését a 19/2015. (II. 16.) Korm. rendelet 8. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^76]: A 11. § (4) bekezdése a 332/2016. (XI. 8.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § b) pontja, a 607/2022. (XII. 28.) Korm. rendelet 2. §-a, a 334/2023. (VII. 20.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^77]: A 11. § (5) bekezdését újonnan a 332/2016. (XI. 8.) Korm. rendelet 5. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 58. § b) pontja, a 607/2022. (XII. 28.) Korm. rendelet 1. § d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^78]: A 12. § a 360/2019. (XII. 30.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^79]: A 13. § (1) bekezdése a 332/2016. (XI. 8.) Korm. rendelet 6. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § o) pontja, a 347/2019. (XII. 23.) Korm. rendelet 2. § g) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^80]: A 13. § (3) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § p) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^81]: A 13. § (4) bekezdése a 62/2010. (III. 18.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^82]: A 13. § (5) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^83]: A 13. § (6) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^84]: A 13. § (7) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^85]: A 13. § (8) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^86]: A 14. § a 332/2016. (XI. 8.) Korm. rendelet 7. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^87]: A 15. §-t a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte, újonnan a 141/2010. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^88]: A 16. § (2) bekezdését a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^89]: A 16. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 832. pontja hatályon kívül helyezte.
+[^90]: A 17. §-t a 62/2010. (III. 18.) Korm. rendelet 13. §-a iktatta be, szövege a 141/2010. (IV. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^91]: Az 1. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^92]: A 2. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^93]: A 3. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^94]: A 4. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^95]: Az 5. számú mellékletet a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte.

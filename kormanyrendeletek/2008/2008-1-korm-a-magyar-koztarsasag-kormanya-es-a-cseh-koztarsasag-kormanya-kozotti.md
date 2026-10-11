@@ -1,0 +1,143 @@
+---
+title: "1/2008. (I. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, a Magyar Köztársaságban és a Cseh Köztársaságban kiállított, végzettséget tanúsító okiratok, továbbá a tudományos fokozatot és címet tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló Egyezmény kihirdetéséről"
+identifier: "1/2008. (I. 4.) Korm. rendelet"
+njt_id: "2008-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-01-04
+in_force_from: 2008-01-12
+last_amended: 2008-01-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/2008. (I. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, a Magyar Köztársaságban és a Cseh Köztársaságban kiállított, végzettséget tanúsító okiratok, továbbá a tudományos fokozatot és címet tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló Egyezmény kihirdetéséről
+
+(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 2005. június 9-én megtörtént.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, a Magyar Köztársaságban és a Cseh Köztársaságban kiállított, végzettséget tanúsító okiratok, továbbá a tudományos fokozatot és címet tanúsító okiratok egyenértékűségének kölcsönös elismeréséről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„Egyezmény\
+a Magyar Köztársaság Kormánya\
+és a Cseh Köztársaság Kormánya között\
+a Magyar Köztársaságban és a Cseh Köztársaságban kiállított, végzettséget tanúsító okiratok, továbbá\
+a tudományos fokozatot és címet tanúsító okiratok egyenértékűségének kölcsönös elismeréséről
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya (a továbbiakban: a Szerződő Felek)
+
+– a két ország sokoldalú oktatási és kulturális kapcsolatainak erősítése és továbbfejlesztése érdekében,
+
+– a tanulói és a hallgatói mobilitás elősegítésére és növelésére,
+
+– az 1997. április 11-én Lisszabonban aláírt „A felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló egyezménnyel” összhangban,
+
+– tekintettel az Európa Tanács és az UNESCO tagállamainak a hallgatók és az egyetemi oktatók nemzetközi cseréjének harmonizációjában elért sikereire,
+
+– az ipari, mezőgazdasági, kereskedelmi és egyéb szakképesítések két- és többoldalú elismerésének, illetve átláthatóságának az Európai Unió által támogatott szándékára, továbbá
+
+– az európai oktatási miniszterek 1999. június 19-én Bolognában aláírt közös nyilatkozatában, valamint a felsőoktatásért felelős európai miniszterek 2001. május 19-én Prágában tartott találkozójának kommünikéjében megfogalmazott célok elérése érdekében,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Magyar Köztársaságban kiállított, az általános iskola nyolcadik évfolyamának elvégzését tanúsító bizonyítványok és a Cseh Köztársaságban kiállított, az alapfokú iskolai végzettség megszerzését tanúsító bizonyítványok egyenértékűek, és a másik Szerződő Fél országában középiskolában folytatható tanulmányokra való jelentkezésre jogosítanak.
+
+*2. Cikk*
+
+A Magyar Köztársaságban kiállított, az állam által elismert szakképesítés megszerzését tanúsító bizonyítványok és a Cseh Köztársaságban kiállított, szakképzettség megszerzését tanúsító, állam által elismert okiratok egyenértékűek, amennyiben a szakmai képzés időtartama és tartalma azonos vagy nagymértékben hasonló.
+
+*3. Cikk*
+
+(1) A Magyar Köztársaságban kiállított érettségi bizonyítványok és a Cseh Köztársaságban kiállított érettségi bizonyítványok (vysvědčení o maturitní zkoušce) egyenértékűek, és feljogosítanak arra, hogy a másik Szerződő Fél országában felsőoktatási intézményben folytatható tanulmányokra lehessen jelentkezni.
+
+(2) A Magyar Köztársaságban kiállított érettségi bizonyítványok a Cseh Köztársaságban felsőfokú szakiskolákban folytatható tanulmányokra való jelentkezésre is jogosítanak. A Cseh Köztársaságban kiállított érettségi bizonyítványok a Magyar Köztársaságban akkreditált iskolai rendszerű felsőfokú szakképzés keretében folytatható tanulmányokra való jelentkezésre is jogosítanak.
+
+(3) A Magyar Köztársaságban a művészeti szakközépiskolák által kiállított, a művészeti szakmai képzés elvégzését tanúsító bizonyítványok a Cseh Köztársaságban a felsőoktatási intézmények megfelelő művészeti tanulmányi programjain folytatható tanulmányokra való jelentkezésre jogosítanak. A Cseh Köztársaságban a konzervatóriumok által az abszolutóriumról kiállított bizonyítványok (vysvědčení o absolutoriu a diplom absolventa) a Magyar Köztársaság felsőoktatási intézményeinek megfelelő művészeti szakirányú tanulmányi programjain folytatható tanulmányokra való jelentkezésre jogosítanak.
+
+*4. Cikk*
+
+A Magyar Köztársaságban kiállított, akkreditált iskolai rendszerű felsőfokú szakképzés elvégzését tanúsító bizonyítványok és a Cseh Köztársaságban kiállított, a felsőfokú szakiskolák elvégzését tanúsító abszolutóriumi bizonyítványok és a felsőfokú szakiskola elvégzését tanúsító diplomák (vysvědčení o absolutoriu a diplom absolventa vyšší odborné školy) egyenértékűek, amennyiben a szakmai képzés időtartama és tartalma azonos vagy nagymértékben hasonló.
+
+*5. Cikk*
+
+(1) A Magyar Köztársaság közoktatási intézményeiben folytatott résztanulmányok, illetve a Cseh Köztársaság államilag elismert általános és középiskoláiban, valamint felsőfokú szakiskoláiban folytatott résztanulmányok a tanuló vagy törvényes képviselője kérelmére kölcsönösen beszámíthatók és elismerhetők. A tanulmányok egyezőségét az az oktatási intézmény bírálja el, amelyhez a kérelmet benyújtják.
+
+(2) A Magyar Köztársaságban, illetve a Cseh Köztársaságban az államilag elismert felsőoktatási intézményekben folytatott résztanulmányok a hallgató kérelmére mint tanulmányi idő, illetve tanulmányi teljesítmény (kredit, vizsga) kölcsönösen beszámíthatók és elismerhetők. A tanulmányok egyezőségét az a felsőoktatási intézmény bírálja el, amelyhez a kérelmet benyújtják.
+
+*6. Cikk*
+
+(1) A Magyar Köztársaságban kiállított, államilag elismert, főiskolai végzettségi szintet tanúsító oklevelek és a Cseh Köztársaságban a „bakalář” képzésben folytatott tanulmányok befejezése után kiállított, államilag elismert oklevelek egyenértékűek.
+
+(2) A Magyar Köztársaságban az egyetemi tanulmányok befejezése után kiállított, államilag elismert oklevelek és a Cseh Köztársaság felsőoktatási intézményeiben a magiszteri képzésben folytatott tanulmányok befejezése után kiállított, államilag elismert oklevelek egyenértékűek.
+
+(3) A Magyar Köztársaságban az egyetemi szakirányú továbbképzésben szerzett, államilag elismert oklevelek és a Cseh Köztársaság felsőoktatási intézményei által kiállított, a magiszteri képzésben folytatott tanulmányok befejezése utáni állami szigorlati vizsgák (státní rigorózní zkouška) letételét tanúsító, államilag elismert oklevelek egyenértékűek.
+
+(4) A Magyar Köztársaság egyetemei által kiállított, tudományos fokozatot tanúsító, államilag elismert doktori oklevelek (rövidítve: PhD, DLA) és a Cseh Köztársaság felsőoktatási intézményei által a doktori képzésben folytatott tanulmányok befejezése után kiállított, államilag elismert oklevelek (rövidítve: Ph.D., Th.D.) egyenértékűek.
+
+*7. Cikk*
+
+A 6. cikk rendelkezései nem érintik a szakképzettség elismerését, amely a Szerződő Felek belső jogi előírásainak megfelelően történik.
+
+*8. Cikk*
+
+Az egyik Szerződő Fél országában adományozott címeket és tudományos fokozatokat a végzettek a másik Szerződő Fél országában az eredeti elnevezéssel, az adományozó intézmény feltüntetése nélkül is használhatják.
+
+*9. Cikk*
+
+A Szerződő Felek a jelen Egyezmény alapján a belső jogi előírásaikkal összhangban fejleszteni fogják az együttműködést.
+
+*10. Cikk*
+
+(1) A Szerződő Felek kölcsönösen tájékoztatják egymást az országaik oktatási rendszerében bekövetkezett változásokról, és a jelen Egyezményben tárgyalt, általánosan használt okiratok mintáit az általános iskolaitól a felsőfokú szakiskolai okiratokkal bezárólag egymásnak megküldik.
+
+(2) Amennyiben a Szerződő Felek belső jogi előírásai megváltoznak, a Szerződő Felek tárgyalást kezdenek a jelen Egyezmény esetleges módosításáról.
+
+*11. Cikk*
+
+(1) Bármely Szerződő Fél kérésére az országaik oktatási miniszterei által kijelölt szakemberekből álló csoport ülést tart.
+
+(2) A Szerződő Felek továbbá minden év augusztus 31-ig eljuttatják egymáshoz az országuk felsőoktatási rendszerébe tartozó, államilag elismert intézmények listáját. A Szerződő Felek biztosítják egymás számára az ezen információkhoz való hozzáférést. Jelentős változások esetén a Szerződő Felek haladéktalanul tájékoztatják egymást a változásokról.
+
+*12. Cikk*
+
+A Szerződő Felek egyenértékűnek ismerik el a „tudományok kandidátusa” és a „tudományok doktora” fokozatok odaítélését igazoló, a Szerződő Felek országaiban kiállított okiratokat.
+
+*13. Cikk*
+
+Jelen Egyezmény hatálybalépésével a Magyar Köztársaság és a Cseh Köztársaság tekintetében a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya közötti, a Magyar Népköztársaságban és a Csehszlovák Szocialista Köztársaságban kiadott, végzettséget, tudományos fokozatokat és címeket igazoló okiratok egyenértékűségének kölcsönös elismeréséről szóló, Prágában, 1989. október 11-én aláírt egyezmény hatályát veszti.
+
+*14. Cikk*
+
+Jelen Egyezmény a Szerződő Felek országainak belső jogi előírásaival összhangban történő jóváhagyásra szorul, és azon a napon lép hatályba, amelyen a Szerződő Felek írásban értesítik egymást, hogy az Egyezmény hatálybalépéséhez szükséges, a belső jog által meghatározott feltételeket teljesítették.
+
+*15. Cikk*
+
+Jelen Egyezmény határozatlan időre szól, azonban a Szerződő Felek bármelyike írásban felmondhatja. Ebben az esetben az Egyezmény a felmondásáról szóló értesítés átvételének napjától számított 12 hónap múlva veszti hatályát.
+
+Kelt Budapesten, 2004. május 6-án, két eredeti példányban, magyar és cseh nyelven, melyből mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Cseh Köztársaság\
+Kormánya részéről”
+
+## 3. §[^1]
+
+(1) E rendelet a kihirdetés napját követő 8. napon lép hatályba.
+
+(2) A rendelet végrehajtásáról az oktatási és kulturális miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § a Magyar Közlöny 2008. évi 4. számában megjelent helyesbítésnek megfelelő szöveg.

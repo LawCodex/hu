@@ -1,0 +1,41 @@
+---
+title: "39/1996. (III. 13.) Korm. rendelet a nyári időszámítás alkalmazásáról"
+identifier: "39/1996. (III. 13.) Korm. rendelet"
+njt_id: "1996-39-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/39"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-03-13
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-39-20-22"
+retrieved: 2026-10-12
+---
+
+# 39/1996. (III. 13.) Korm. rendelet a nyári időszámítás alkalmazásáról
+
+A Kormány a nyári időszámítás alkalmazásáról a következőket rendeli el:
+
+## 1. §
+
+(1) A nyári időszámítást minden év március utolsó vasárnapjától október utolsó vasárnapjáig kell alkalmazni.
+
+(2) Az órákat március utolsó vasárnapján kettő órakor három órára, október utolsó vasárnapján három órakor kettő órára kell állítani.
+
+(3) A nyári időszámítás kezdő és záró időpontjában munkát végző – nem havibéres – munkavállalók munkabérét a tényleges teljesítmény, illetőleg a ténylegesen ledolgozott munkaidő alapján kell elszámolni.
+
+(4) A nyári időszámítás kezdő és záró időpontjáról a közlekedési és vízügyi miniszter[^1] a Magyar Közlönyben, valamint a Közlekedési és Vízügyi Értesítőben tájékoztatót ad ki.[^2]
+
+## 2. §
+
+(1)[^3] Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+(2) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek, valamint azok tagállamai között társulás létesítéséről, Brüsszelben 1991. december 16-án aláírt Európai Megállapodás – kihirdette az 1994. évi I. törvény – a jogszabályok közelítéséről szóló III. fejezete 67. Cikkének megfelelően összhangban van az Európai Parlament és a Tanács által kiadott ,,A nyári időszámítás alkalmazásáról'' szóló 94/21/EK irányelvével.
+
+---
+
+[^1]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^2]: Lásd a 8002/2001. (MK. 11.), a 8001/2002. (MK 6.) KöViM tájékoztatót, a 8001/2007. (MK 30.) GKM tájékoztatót.
+[^3]: A 2. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1388. pontja szerint módosított szöveg.

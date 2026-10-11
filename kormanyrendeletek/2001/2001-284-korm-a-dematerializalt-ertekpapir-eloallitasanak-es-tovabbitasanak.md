@@ -1,0 +1,253 @@
+---
+title: "284/2001. (XII. 26.) Korm. rendelet a dematerializált értékpapír előállításának és továbbításának módjáról és biztonsági szabályairól, valamint az értékpapír-számla, központi értékpapír-számla és az ügyfélszámla megnyitásának és vezetésének szabályairól"
+identifier: "284/2001. (XII. 26.) Korm. rendelet"
+njt_id: "2001-284-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/284"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-26
+in_force_from: 2009-10-01
+last_amended: 2020-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-284-20-22"
+retrieved: 2026-10-12
+---
+
+# 284/2001. (XII. 26.) Korm. rendelet a dematerializált értékpapír előállításának és továbbításának módjáról és biztonsági szabályairól, valamint az értékpapír-számla, központi értékpapír-számla és az ügyfélszámla megnyitásának és vezetésének szabályairól
+
+A tőkepiacról szóló 2001. évi CXX. törvény (a továbbiakban: Tpt.) 451. § (1) bekezdésének *f)* és *g)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli:
+
+### 1. §
+
+Dematerializált értékpapír — az Tpt.-ben és e rendeletben meghatározottak szerint — elektronikus úton, számítógépes jelként állítható elő, illetve továbbítható.
+
+### 2. §[^1]
+
+A dematerializált értékpapír előállítása, nyilvántartása, továbbítása és az ezekkel kapcsolatos adatkezelés csak olyan — a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által jóváhagyott, az 5. §-ban meghatározott – szabályzat (a továbbiakban: szabályzat) alapján és olyan jóváhagyott számítógépprogram, valamint adathordozó felhasználásával történhet, amely biztosítja:
+
+a) a központi értéktár [Tpt. 336. §] nyilvántartási rendszerével az adatkapcsolatot,
+
+b) az adatok biztonságos tárolását, továbbítását,
+
+c) az adatok adatvédelmi jogszabályoknak megfelelő felhasználását,
+
+d)[^2] a dematerializált értékpapírba foglalt jogok és kötelezettségek (osztalék, kamat, törlesztés) mindenkori megállapíthatóságát, valamint dematerializált kötvény esetén a kezességvállaló egyoldalú jognyilatkozatának a megállapíthatóságát, ha a kötvényben a kibocsátójáért egyoldalú kezességet vállaltak,
+
+e) a dematerializált értékpapír jogosultjának, tulajdonosának, illetve ezen személy megváltozásának mindenkori megállapíthatóságát, és
+
+f) a dematerializált értékpapír összes kötelező tartalmi elemének a számítógép képernyőjén és nyomtatás útján történő megjelenítését.
+
+### 3. §
+
+(1) A számítógépprogramot és -hálózatot adatvesztés, illetéktelen hozzáférés, illetve más adatbázisokkal, nyilvántartásokkal való illetéktelen összekapcsolás elleni védelemmel kell ellátni.
+
+(2) A dematerializált értékpapír előállításával, nyilvántartásával, továbbításával kapcsolatos adatkezelésre, adatváltoztatásra jogosult személyt egyedi azonosító kóddal kell ellátni. A kódnak, illetve a számítógépprogramnak biztosítania kell a személy, valamint az általa elvégzett művelet azonosíthatóságát.
+
+### 4. §
+
+(1) A központi értéktár, az értékpapír-számlavezető köteles
+
+a) a dematerializált értékpapírral kapcsolatos, teljes nyilvántartását naponta a rendszerétől függetleníthető adathordozóra átmásolni,
+
+b) ellenőrizni az eredeti és a másolatot tartalmazó adathordozón lévő adatok egyezőségét, illetve az adathordozó működőképességét,
+
+c) a másolatot tartalmazó adathordozó biztonságos, a rendszerétől fizikailag elkülönített tárolását.
+
+(2) A központi értéktár, az értékpapír-számlavezető haladéktalanul bejelenti a Felügyeletnek, ha valamely nyilvántartása megsérült vagy megsemmisült, illetve ha illetéktelen hozzáférést vagy ennek kísérletére utaló jelet észlelt.
+
+(3)[^3] A (2) bekezdésben meghatározottak esetén a központi értéktár, az értékpapír-számlavezető köteles a nyilvántartásáról másolatot készíteni, és az (1) bekezdés szerinti másolat, valamint a rendelkezésre álló bizonylatok alapján haladéktalanul helyreállítani a valós állapotot. Ha a valós állapotot az adott napon belül nem lehet helyreállítani, a központi értéktár, az értékpapír-számlavezető kérelmezi a Felügyeletnél az érintett dematerializált értékpapírok kereskedésének felfüggesztését.
+
+(4)[^4]
+
+### 5. §
+
+A központi értéktár, az értékpapír-számlavezető nem nyilvános szabályzatban határozza meg
+
+a) a dematerializált értékpapír előállításának, nyilvántartásának, törlésének és továbbításának technikai szabályait;
+
+b) azon személyek körét, akik az értékpapír előállítást, törlést végrehajtják, és akik a központi értékpapír-számlán, értékpapír-számlán adatváltozást jogosultak végrehajtani;
+
+c) a 3. § (2) bekezdésében meghatározott kód képzésének és nyilvántartásának szabályait;
+
+d) az adatkezelő adatkezelési, adatváltoztatási és adattörlési jogosultságának nyilvántartását;
+
+e) az adatkezelési rendszer ügykezelésének szabályait;
+
+f) az adatok eredetének azonosíthatóságát;
+
+g) az adatkezelési rendszer fenntartásának műszaki szabályait;
+
+h) az adatállományról készített másolat adategyezőségének igazolási rendjét;
+
+i) az adatkezelési rendszer sérülése, illetve illetéktelen hozzáférés esetén követendő intézkedéseket, és
+
+j) az adatállományt tartalmazó másolat tárolásának helyét.
+
+## Központi értékpapír-számla
+
+### 6. §
+
+(1) A kibocsátó köteles az Tpt. 9. § (2) bekezdésében meghatározott írásbeli utasítást legkésőbb a központi értékpapír-számlák megnyitásának értéknapjáig a központi értéktár rendelkezésére bocsátani. Az utasításnak tartalmaznia kell:
+
+a) az értékpapír előállítására vonatkozó jogszabályban meghatározott feltételek teljesülésének igazolását,
+
+b) a központi értékpapír-számlák megnyitásának értéknapját,
+
+c) az értékpapír-számlavezetők megnevezését, és
+
+d) a központi értékpapír-számlán az egyes értékpapír-számlavezetők részére jóváírandó értékpapír darabszámát.
+
+(2) A központi értéktár a dematerializált értékpapír szabályzat szerinti, számítástechnikai előállítását, a központi értékpapír-számla megnyitását és az azon történő jóváírást a kibocsátó által meghatározott értéknapon hajtja végre.
+
+(3) Külföldön kibocsátott dematerializált értékpapír belföldi forgalomba hozatala esetén a külföldön kibocsátott dematerializált értékpapír nyilvántartására szolgáló központi értékpapír-számlát a központi értéktár a külföldi letétkezelővel vagy elszámolóházzal kötött szerződés alapján nyitja meg.
+
+(4) A központi értéktár a központi értékpapír-számlákon végrehajtott jóváírásról, terhelésről és egyéb adatváltozásról haladéktalanul értesíti az értékpapír-számlavezetőket.
+
+### 7. §
+
+(1) A kibocsátó haladéktalanul értesíti a központi értéktárat, ha megváltozik az Tpt. 7. § (2) bekezdésében előírt okirat adattartalma.
+
+(2) Ha az Tpt. 7. § (2) bekezdésének *a),* *c)* és *d)* pontjában meghatározott adatok megváltoznak, a megváltozott adatnak a központi értékpapír-számlán történő átvezetéséről a központi értéktár az értékpapír-számlavezetők haladéktalan értesítése mellett intézkedik.
+
+(3) A kibocsátó a (2) bekezdésben meghatározott adatváltozás esetén a központi értéktár értesítésével egyidejűleg a központi értéktáron keresztül köteles értesíteni az értékpapír-számlavezetőket a dematerializált értékpapírral kapcsolatos adatváltozásról.
+
+(4) A központi értékpapír-számlát érintő értékpapír-számla jóváírást, terhelést a központi értéktár a megbízásban szereplő időpontban hajtja végre.
+
+### 8. §
+
+A központi értéktár köteles biztosítani az értékpapír-számlavezető saját tulajdonú, illetőleg ügyfelei tulajdonát képező értékpapírok elkülönített nyilvántartását.
+
+### 9. §
+
+Ha a különböző időpontokban kibocsátott értékpapír sorozatok egy meghatározott időponttól kezdve teljes mértékben azonos jogokat testesítenek meg, a kibocsátó haladéktalanul köteles új okiratot kiállítani és utasítást adni a központi értéktárnak az érintett központi értékpapír-számlák összevonására.
+
+## Az értékpapír-számla és az ügyfélszámla közös szabályai
+
+### 10. §
+
+(1) Az értékpapír-számla szerződés a zárolt értékpapír-alszámla vezetését is magába foglalja.
+
+(2) Az értékpapír-számla és az ügyfélszámla szerződés megkötésekor, a számlatulajdonos azonosításakor a számlavezető a pénzmosás megelőzéséről és magakadályozásáról szóló jogszabályokban foglaltak figyelembevételével jár el.
+
+### 11. §
+
+(1) A számlatulajdonos, illetve a számlatulajdonos szervezetnek a szervezet jogi formáját szabályozó jogszabályban a szervezet képviseletére jogszabály erejénél fogva jogosultként meghatározott személy (a továbbiakban: vezető) írásban köteles bejelenteni a számlavezetőnek a számla felett rendelkezni jogosult személyeket, ideértve az értékpapír-számla felett rendelkezni jogosult közös képviselőt is.
+
+(2)[^5] A számlatulajdonos szervezet vezetője bejelentési, illetve rendelkezési jogosultságát abban az esetben gyakorolhatja, ha a megválasztását (kinevezését) hitelt érdemlő módon, valamint aláírását közjegyző által hitelesített aláírási címpéldánnyal, vagy ügyvéd, vagy kamarai jogtanácsos által cégbejegyzési (változásbejegyzési) eljárásban való közreműködés során ellenjegyzett aláírásmintával igazolja. A bejelentettek rendelkezési joga mindaddig érvényes, amíg a szervezet új vagy más vezetője másként nem rendelkezik. Több egymásnak ellentmondó, a rendelkezésre jogosulttól érkező bejelentés közül a számlavezető a legutolsó bejelentést fogadja el érvényesnek.
+
+(3)[^6] Ha a számlatulajdonos és a számlavezető elektronikus adatátviteli kapcsolatban áll egymással, az aláírást – külön megállapodás alapján – fokozott biztonságú elektronikus aláírással lehet helyettesíteni. Két személy együttes aláírási kötelezettsége esetén az elektronikus aláírásnak biztosítania kell a két személy együttes rendelkezési jogosultságát.
+
+### 11/A. §[^7]
+
+Az értékpapírszámlán és az ügyfélszámlán nyilvántartott pénzeszköz, követelés, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 6. §-ában meghatározott pénzügyi eszköz, a számlatulajdonos, illetve a számlatulajdonos vezetője és a számlavezető megállapodása alapján óvadék tárgyát képezhetik.
+
+### 12. §
+
+(1) A számlavezető köteles üzletszabályzatában, illetve hirdetményében meghatározni munkanapon belül azt a kezdő és záró időpontot, amelyek között az értékpapír-számlához, illetve ügyfélszámlához kapcsolódó terhelési megbízásokat befogadja. Ezen belül meg kell határozni azt az időpontot, ameddig az elfogadott, illetve beérkezett megbízásokat még a tárgynapon teljesíti. A záró időpontig befogadott megbízásokat a számlavezető a számlatulajdonos megbízásában feltüntetett időpontban, ennek hiányában legkésőbb a következő munkanapon hajtja végre.
+
+(2) Az értékpapír-számla, az ügyfélszámla szerződés számlavezető általi felmondása esetén a számlavezető köteles a felmondással egyidejűleg igazolhatóan értesíteni a számlatulajdonost a megszűnés jogkövetkezményeiről.
+
+## Értékpapír-számla
+
+### 13. §
+
+(1) A központi értékpapír-számlát is érintő értékpapír-számla jóváírás, terhelés a központi értékpapír-számlán végrehajtott jóváírásról, terhelésről, illetve adatváltozásról szóló értesítést követően végezhető el a központi értékpapír-számla terhelésének, jóváírásának napjával. Az értékpapír-számlavezető a központi értéktár értesítését követően az értékpapír-számla terhelését, jóváírását, illetve a dematerializált értékpapírt érintő adatváltozást (pl. névérték, típus) haladéktalanul végrehajtja.
+
+(2) Azonos értékpapír-számlavezetőnél vezetett értékpapír-számlák közötti jóváírás, terhelés esetén az értékpapír-számlavezető ugyanazon nappal köteles az értékpapír-számlákon a jóváírást, terhelést végrehajtani.
+
+### 14. §
+
+(1) Az értékpapír-számla megszűnése esetén a számlavezető a számla állományát a számlatulajdonos által megjelölt napon, ennek hiányában legkésőbb a megszűnés napján utalja át a számlatulajdonos által megjelölt értékpapír-számlára.
+
+(2) Ha az értékpapír-számla megszüntetésére a számlavezető tevékenységi körének változása miatt kerül sor, az értékpapír-számla állományának átruházása a Felügyelet által meghatározott napon történik.
+
+## Ügyfélszámla
+
+### 15. §
+
+(1)[^8] Ha törvény vagy kormányrendelet másként nem rendelkezik, akkor az ügyfélszámlával kapcsolatban a fizetési módok közül csak egyszerű átutalás vagy készpénzfizetés alkalmazható.
+
+(2)[^9] A számla felett rendelkezni jogosult az ügyfélszámláról – törvény eltérő rendelkezése hiányában – kizárólag a számlatulajdonos nevére szóló más ügyfélszámlára vagy a számlatulajdonos nevére szóló, hitelintézetnél vezetett fizetési számlára kezdeményezhet átutalást.
+
+(3) Az átutalási megbízás értékhatárra tekintet nélkül is benyújtható. A számlavezetővel történő megállapodás alapján az átutalás értéknap feltüntetésével is benyújtható. Ebben az esetben az ügyfélszámlán történő terhelés e napon történik.
+
+(4) Ha az ügyfélszámlán lévő pénzügyi fedezet nem teszi lehetővé valamennyi esedékes megbízás teljesítését, a számlavezető az érkezés sorrendjét veszi figyelembe a megbízások teljesítésénél, ha a számlatulajdonos eltérően nem rendelkezik.
+
+(5) Az ügyfélszámlához kapcsolódó készpénzfizetés a számlavezető pénztáránál
+
+a) történő készpénzbefizetéssel, vagy
+
+b) készpénzfelvételi utalvány útján történő készpénzkifizetéssel
+
+teljesíthető.
+
+(6) Az ügyfélszámláról történő készpénzpénzfelvételt a számlavezető összeghatár megjelölésével előzetes bejelentéshez kötheti. Erről az ügyfélszámla szerződésben rendelkezni kell.
+
+(7) A számlavezető a számlatulajdonost az ügyfélszámlán történt terhelésről, illetőleg jóváírásról írásban — vagy külön megállapodás alapján más módon (pl. elektronikus úton) — számlakivonattal értesíti. A számlakivonatnak tartalmaznia kell a számlán végrehajtott művelet azonosításához szükséges valamennyi adatot.
+
+(8) Számlakivonatot kell készíteni minden olyan munkanapon, amikor az ügyfélszámlán terhelés vagy jóváírás történt, és azt — eltérő megállapodás hiányában — a számlatulajdonos részére haladéktalanul továbbítani kell.
+
+(9) A csőd-, felszámolási és adósságrendezési eljárás esetén a pénzforgalomról szóló előírásokat az ügyfélszámlára is alkalmazni kell.
+
+### 16. §
+
+(1) Az ügyfélszámla kimerülése a számlaszerződést nem szünteti meg.
+
+(2)[^10] Az ügyfélszámla megszűnése esetén, ha a számlatulajdonos hitelintézetnél vezetett, nevére szóló fizetési számlát nem jelöl meg, a számlán lévő pénzt a számlavezető az ügyfél részére legkésőbb a megszűnést követő munkanapon készpénzben vagy postai úton kifizeti.
+
+## Vegyes rendelkezések
+
+### 17. §
+
+A központi értékpapír-számla, az értékpapír-számla és az ügyfélszámla vezetését a számlavezető díjazáshoz kötheti. A számlavezetésért csak az a díj számítható fel, amelyet a számlavezető a Felügyelet által jóváhagyott üzletszabályzata alapján a díjjegyzékben közzétett. A központi értékpapír-számla vezetéséért felszámított díj a kibocsátót terheli.
+
+### 18. §
+
+(1) A Tpt. 7. § (2) bekezdésében meghatározott okirat érvénytelenítése az okiraton elhelyezett ,,érvénytelen'' felirattal történik. Az érvénytelenítést a kibocsátó megbízása alapján a központi értéktár végzi. Az okiraton fel kell tüntetni az érvénytelenítés időpontját és azt a kibocsátó vagy a központi értéktár képviselőjének aláírásával kell ellátni.
+
+(2) Az érvénytelenített okirat nem selejtezhető.
+
+### 19. §
+
+(1)[^11] A kibocsátó vagy jogszabályban meghatározott esetben a bíróság értesíti a központi értéktárat a dematerializált értékpapírban foglalt jogok és kötelezettségek megszűnéséről. Az értesítésnek tartalmaznia kell a kibocsátó kötelezettségeinek teljesítéséről szóló igazolást.
+
+(2)[^12] A központi értéktár a kibocsátó vagy a bíróság értesítése alapján értesíti az értékpapír-számla vezetőket a dematerializált értékpapír törlésének értéknapjáról. Az értékpapír-számla vezető az értesítés alapján a szabályzatban meghatározott módon törli a dematerializált értékpapírt és a törlés megtörténtéről értesíti a központi értéktárat.
+
+(3) A központi értékpapír-számla megszüntetésére
+
+a)[^13] a dematerializált értékpapír törlését,
+
+b) a forgalmazó értékpapír-számla vezetésre vonatkozó engedélyének megszűnését, vagy
+
+c) a 9. §-ban meghatározott összevonást
+
+követően kerülhet sor.
+
+(4)[^14] A dematerializált értékpapír törlése előtt a központi értéktár és az értékpapír-számlavezető köteles az adatállományát a 4. § (1) bekezdésében leírtak szerint archiválni. Az archivált adatokat húsz évig meg kell őrizni.
+
+## Záró rendelkezések
+
+### 20. §
+
+(1) Ez a rendelet 2002. január 1-jén lép hatályba.
+
+(2)[^15]
+
+---
+
+[^1]: A 2. § bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 255. §-a, a 345/2013. (IX. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^2]: A 2. § d) pontja a 316/2019. (XII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^3]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 255. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 4. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 256. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 11. § (2) bekezdése a 393/2017. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^6]: A 11. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^7]: A 11/A. §-t a 80/2014. (III. 14.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^8]: A 15. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 15. § (2) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 16. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 19. § (1) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^12]: A 19. § (2) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^13]: A 19. § (3) bekezdés a) pontja a 316/2019. (XII. 18.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^14]: A 19. § (4) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^15]: A 20. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1005. pontja hatályon kívül helyezte.

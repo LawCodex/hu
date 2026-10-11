@@ -1,0 +1,248 @@
+---
+title: "215/1996. (XII. 23.) Korm. rendelet a lakáselőtakarékosság állami támogatásáról"
+identifier: "215/1996. (XII. 23.) Korm. rendelet"
+njt_id: "1996-215-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/215"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-12-23
+in_force_from: 2009-10-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-215-20-22"
+retrieved: 2026-10-12
+---
+
+# 215/1996. (XII. 23.) Korm. rendelet a lakáselőtakarékosság állami támogatásáról
+
+A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltv.) 26. §-ának a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A lakás-előtakarékoskodó az Ltv. 21. §-ában foglalt feltételek megléte esetén a lakás-előtakarékossági szerződés megkötésekor az állami támogatásra kérelmet (a továbbiakban: kérelem) nyújthat be a lakás-takarékpénztárhoz. A szerződéskötést megelőzően az állami támogatás iránti igény esetén a lakás-takarékpénztár a saját és a kincstár elektronikus nyilvántartási rendszerében ellenőrzi, hogy a természetes személy lakás-előtakarékoskodó vagy – amennyiben kedvezményezettet jelölnek meg – a kedvezményezett javára, nem természetes személy lakás-előtakarékoskodó esetén ugyanarra az épületre kérelmeztek-e állami támogatást. A lakás-takarékpénztár tájékoztatja a lakás-előtakarékoskodót az ellenőrzés eredményéről és következményeiről.
+
+(1a)[^2] A lakás-takarékpénztár az állami támogatásra benyújtott kérelem esetén a lakás-előtakarékoskodó vagy – amennyiben kedvezményezettet jelölnek meg – a kedvezményezett személyéről vagy nem természetes személy által kötött szerződés esetén a lakás-előtakarékoskodó nevéről, adószámáról és az épület címéről, valamint az ingatlan-nyilvántartási adatbázisból lekérdezett helyrajzi számáról adatot szolgáltat a kincstár részére a havi adatszolgáltatás keretében. A kincstár jelzi, ha az állami támogatásra való jogosultság nem áll fenn.
+
+(2)[^3] A kérelem alapján a lakás-takarékpénztár készíti el a lakás-előtakarékoskodó megtakarítási évének leteltekor az adott évi támogatásra vonatkozó igénylést mindaddig, amíg a lakás-előtakarékoskodó az erre vonatkozó kérelmét vissza nem vonja.
+
+(3) A kérelmező igényjogosultságát a lakástakarékpénztár köteles ellenőrizni.
+
+(4)[^4] A lakás-takarékpénztár a kérelmet elutasítja, ha a természetes személy lakás-előtakarékoskodó vagy – amennyiben kedvezményezettet jelölnek meg – a kedvezményezett javára az adott naptári évben már átutaltak állami támogatást vagy arra vonatkozóan már kérelmet nyújtottak be ugyanahhoz a lakás-takarékpénztárhoz. A támogatás igénylést a kincstár utasítja el, ha ugyanazon természetes személy javára az adott naptári évben már átutaltak állami támogatást egy másik lakás-takarékpénztárhoz.
+
+(5)[^5] A lakás-takarékpénztár a kérelmet elutasítja, ha a nem természetes személy lakás-előtakarékoskodó által ugyanarra az épületre kötött lakás-előtakarékossági szerződésre az adott naptári évben már átutaltak állami támogatást vagy arra vonatkozóan már kérelmet nyújtottak be ugyanahhoz a lakás-takarékpénztárhoz. A támogatás igénylést a kincstár utasítja el, ha a nem természetes személy lakás-előtakarékoskodó által ugyanarra az épületre kötött lakás-előtakarékossági szerződésre az adott naptári évben már átutaltak állami támogatást egy másik lakás-takarékpénztárhoz.
+
+(6)[^6] Nem kell alkalmazni a (4) és az (5) bekezdésben foglaltakat, ha az adott naptári évben az utolsó, töredék megtakarítási év miatt utalnak át másodszor állami támogatást, valamint ha a töredék megtakarítási év után járó állami támogatás utalását követően, azonos naptári évre vonatkozóan igényelnek ugyanazon személy javára másik olyan lakás-előtakarékossági szerződésre állami támogatást, amelyre korábban még nem igényeltek, feltéve, hogy ezen másik szerződés igényléssel érintett megtakarítási éve a korábbi szerződés igényléssel érintett megtakarítási idejét követően kezdődött el.
+
+(7)[^7] Az Ltv. 24. § (2) bekezdésében foglaltak teljesítése érdekében a lakás-takarékpénztár minden szerződés olyan átruházásánál vagy olyan módosításánál, amely érinti az állami támogatásra jogosult lakás-előtakarékoskodó vagy a kedvezményezett személyét, ellenőrzi, hogy szerződéses állományában és a kincstár elektronikus nyilvántartási rendszerében ugyanannak a személynek a javára vagy ugyanarra az épületre kérelmezték-e már az állami támogatást. Amennyiben a kincstár a hozzá benyújtott igénylések alapján többszörös igénybevételt észlel egy lakás-takarékpénztáron belül, értesítése alapján a lakás-takarékpénztár 30 napon belül intézkedik a jogosulatlan igénybevétel megszüntetése érdekében.
+
+(8)[^8] Ha a természetes személy lakás-előtakarékoskodó, illetve a kedvezményezett javára, vagy a nem természetes személy lakás-előtakarékoskodó által ugyanarra az épületre kötött szerződésre a szerződés módosításának, illetve átruházásának következtében ugyanazon naptári évben korábban több, eltérő lakás-takarékpénztárral kötött szerződés után jóváírták az állami támogatást, a Kincstár egyidejűleg értesíti azokat a lakás-takarékpénztárakat, amelyeknél a szerződéseket megkötötték. A Kincstár értesítésében tájékoztatja azt a lakás-takarékpénztárt, amelynél később kötötték meg a szerződést. A Kincstár értesítése alapján a lakás-takarékpénztárak felhívják az ügyfelüket, hogy tegye meg a szükséges intézkedéseket az állami támogatás jogosulatlan igénybevételének megszüntetése érdekében. Amennyiben az ügyfél erre vonatkozó nyilatkozata a lakás-takarékpénztár felhívását követő második hónap utolsó napjáig nem érkezik meg a lakás-takarékpénztárakhoz, akkor arról a betétszámláról vonják le az állami támogatást, amelyik esetében a szerződést később kötötték meg. Az a lakás-takarékpénztár, amelynél később kötötték meg a szerződést, intézkedik a jogosulatlan igénybevétel megszüntetése érdekében.
+
+## 1/A. §[^9]
+
+(1)[^10] Ha a lakás-előtakarékoskodó az Ltv. 21. § (2) bekezdés b) pontjában meghatározott személy, jogosultságának megállapítása céljából az állami támogatás iránti kérelem benyújtásakor, valamint az állami támogatás és járulékai felvételekor köteles bemutatni érvényes úti okmányát vagy személyazonosító igazolványát, valamint igazolni tartózkodási jogát.
+
+(2)[^11] Ha a lakás-előtakarékoskodó az Ltv. 21. § (2) bekezdés c) pontjában meghatározott személy, jogosultságát az állami támogatás iránti kérelem benyújtásakor és az állami támogatás és járulékai felvételekor
+
+a)[^12] – huzamos tartózkodási jogosultsággal rendelkező személy esetén – érvényes huzamos tartózkodási jogosultságot igazoló okmány bemutatásával,
+
+b)[^13]
+
+c) – menekültként elismert személy esetén – érvényes személyazonosító igazolvány, illetve annak kiállításáig a menekültként való elismerésről szóló jogerős határozat bemutatásával
+
+igazolja.
+
+## 2. §
+
+(1) A lakástakarékpénztár kérelem benyújtása esetén a lakáselőtakarékoskodó betétszámlája alapján meghatározza az igényelhető állami támogatás összegét. Az állami támogatás kiszámításánál a lakáselőtakarékoskodó által az adott megtakarítási évben befizetett betétösszegeket kell figyelembe venni a jóváírt betéti kamatok és támogatások nélkül. Az állami támogatás mértékét és legnagyobb összegét az Ltv. 22. §-a és a 27. §-a határozza meg.
+
+(2)[^14] Ha a betétösszeg felvételekor a megtakarítási év még nem telt le, az utolsó, a betétösszeg felvételéig, illetve a lakás-előtakarékossági szerződés kiutalásáig tartó töredék megtakarítási év a támogatás elszámolása szempontjából befejezett megtakarítási évnek minősül azzal, hogy a lakás-előtakarékoskodó részére igényelhető állami támogatást – mind az állami támogatás mértékét, mind a legnagyobb összegét tekintve – időarányosan kell meghatározni.
+
+(3) Nem igényelhető állami támogatás abban az esetben sem, ha a lakáselőtakarékossági szerződésben a lakáskölcsön rögzített kamata nem felel meg az Ltv. 21. §-ának (2) bekezdésében előírt feltételnek.
+
+## 3. §
+
+(1)[^15] A lakástakarékpénztár minden hónap végén összesíti azokra a szerződésekre vonatkozóan benyújtott kérelmeket, amelyeknél a megtakarítási év az adott hónapban telt le (a továbbiakban: összesítés). Az összesítést a következő hónap 15-éig, ha az munkaszüneti napra esik, akkor a következő munkanapon kell benyújtani a Kincstárnak.
+
+(2) Az összesítésnek a következő adatokat kell tartalmaznia:
+
+a)[^16] a természetes személy lakás-előtakarékoskodó és a kedvezményezett természetes személyazonosító adatai, lakcíme, továbbá az adóazonosító száma;
+
+b) nem természetes személy lakáselőtakarékoskodó esetén a lakáselőtakarékoskodó neve, székhelye, adószáma, valamint annak az épületnek a címe és helyrajzi száma, amelyre a lakáselőtakarékossági szerződést kötötték;
+
+c)[^17] a lakás-előtakarékossági szerződés megkötésének időpontja, a megtakarítási év kezdete, valamint töredék megtakarítási év esetén annak vége;
+
+d) a lakáselőtakarékoskodó betétjének – amelyre az állami támogatást kéri – számlaszáma, az adott megtakarítási évben a betétszámlára befizetett összeg, a lakáselőtakarékossági szerződésben rögzített lakáskölcsön kamata;
+
+e) az igényelt állami támogatás az adott betétre;
+
+f) a lakástakarékpénztárnál vezetett betétek után igényelt összes állami támogatás.
+
+(3)[^18] A Kincstár az eljárási rend változását – a Kincstár és a lakás-takarékpénztár közötti elszámolás érdekében az állami támogatás igénylésére, folyósítására és informatikai feldolgozására vonatkozó, technikai tájékoztatást tartalmazó útmutatót – az alkalmazást legalább 90 nappal megelőzően megküldi a lakás-takarékpénztárak részére.
+
+## 4. §
+
+(1)[^19] A Kincstár minden hónap utolsó napjáig az előző hónapra vonatkozó összesítésekben igényelt összeget – szükség esetén az 1. § (4) és (5) bekezdése alapján helyesbítve – a lakástakarékpénztárnak átutalja a központi költségvetésből.
+
+(2) A lakástakarékpénztár a központi költségvetésből átutalt összeget legkésőbb a lakástakarékpénztár számláján történő jóváírást követő munkanapon a lakáselőtakarékoskodók megfelelő betétszámláján jóváírja.
+
+(3)[^20] A lakás-előtakarékosság állami támogatását a központi költségvetés „Lakástámogatások” előirányzatából kell finanszírozni.
+
+## 5. §
+
+A lakástakarékpénztár a szerződéses összeg, illetőleg az állami támogatás kifizetésénél lehetőség szerint készpénzkímélő megoldásokat alkalmaz. Készpénzkímélő megoldásnak tekinthető különösen:
+
+a) a banki átutalás;
+
+b) a csekk;
+
+c) a hitel- és terhelési kártya.
+
+## 6. §
+
+(1)[^21] A lakástakarékpénztár havonta egyszer, a tárgyhónapot követő hónap 10-éig visszafizeti a központi költségvetéstől igénybe vett állami támogatást a felmondással megszűnt lakáselőtakarékossági szerződések után.
+
+(2)[^22] Az (1) bekezdéstől eltérően nem kell visszafizetni az állami támogatást, ha
+
+a) a lakás-előtakarékossági szerződés megtakarítási ideje elérte az Ltv. 24. §-ának (3) bekezdésében meghatározott időtartamot és a kedvezményezett, ennek hiányában a lakás-előtakarékoskodó a támogatással növelt betétösszeget lakáscélra használja fel; vagy
+
+b)[^23] a lakás-előtakarékossági szerződés megtakarítási ideje elérte az Ltv. 24. §-ának (8) bekezdésében meghatározott időtartamot;
+
+c)[^24] a lakás-előtakarékossági szerződés megtakarítási ideje elérte az Ltv. 24. §-ának (3) bekezdésében meghatározott időtartamot és a lakás-előtakarékoskodó, illetve a kedvezményezett lakáskölcsön kérelmét a lakás-takarékpénztár az Ltv. 24. §-ának (9) bekezdésében meghatározott esetek fennállása miatt utasította el.
+
+(3)[^25] Ha a lakás-előtakarékoskodó vagy a kedvezményezett annak az összegnek, amely után állami támogatást kapott, egy részét nem lakáscélra használja fel, a betéti kamattal növelt állami támogatás arányos részét a lakás-takarékpénztár a lakás-előtakarékoskodó betétszámlájáról levonja, és a levont összeget átutalja a központi költségvetésnek, vagy amennyiben a támogatással növelt összeget a lakás-előtakarékoskodó vagy a kedvezményezett már felvette, a támogatás arányos részét vissza kell fizetnie az Ltv. 24. § (5) bekezdése alapján. A támogatásból levont, illetve visszafizetendő résznek olyan arányban kell állnia a betéti kamattal növelt teljes állami támogatással, amilyen arányban a nem igazolt összeg áll a betét és az állami támogatás kamatokkal növelt összegével, illetve lakáskölcsön igénybevétele esetén az igénybe vett teljes összeggel.[^26]
+
+(4)[^27] A nem igazolt lakáscélú felhasználás miatt, valamint a támogatásra való jogosultság más okból fennálló hiánya miatt visszafizetett, vagy a lakás-takarékpénztár által az Ltv. 24. §-ának (7) bekezdése alapján visszafizetett összegeket a lakás-takarékpénztárnak havonta egy összegben, a tárgyhónapot követő hónap 10-éig a 10032000-01034011 Ltp. nem lakás céljára igénybe vett állami támogatás visszafizetése elnevezésű számlára kell átutalni.
+
+## 7. §[^28]
+
+(1) A lakás-takarékpénztár a betét, illetve a szerződéses összeg (a továbbiakban: igénybe vett összeg) lakáscélú felhasználásának ellenőrzése érdekében jogosult
+
+a) a szükséges iratokat a lakás-előtakarékoskodóktól bekérni;
+
+b) külső szakértőket megbízni a lakáscélú felhasználás utólagos ellenőrzésével.
+
+(2)[^29] Az (1) bekezdés a) pontjában említett iratok különösen a következők:
+
+a) lakótelek vásárlása, lakás vagy családi ház vásárlása, cseréje esetén 30 napnál nem régebbi hiteles tulajdonilap-másolat, az adásvételi szerződés, vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat, a vételár vagy a pénzügyi lízing önerejének kifizetéséről szóló okirat, valamint – amennyiben az előző iratok azt nem tartalmazzák – a vevő tulajdonjogának ingatlan-nyilvántartási bejegyzési engedélyét tartalmazó okirat;
+
+b)[^30] lakás vagy családi ház építése, bővítése esetén 30 napnál nem régebbi hiteles tulajdonilap-másolat, az építési engedély vagy építési engedélyhez nem kötött eljárásban a bejelentés vagy a hatóság tudomásul vételi határozata, továbbá a felhasználást igazoló számlák;
+
+c) lakás, családi ház vagy közös tulajdonban, illetve lakásszövetkezeti tulajdonban álló épületrészek felújítása, korszerűsítése, helyreállítása, valamint közművek, kommunális létesítmények kialakítása esetén 30 napnál nem régebbi hiteles tulajdonilap-másolat és a felhasználást igazoló számlák;
+
+d) lakáscélú kölcsön, pénzügyi lízing kiváltása esetén a tartozást nyilvántartó vagy a lízingbe adó pénzügyi intézménynek a kiváltásról szóló igazolása;
+
+e) az *a)–c)* pont esetében, ha a lakáscélú felhasználás a lakáselőtakarékoskodó, illetve a kedvezményezett, továbbá ezen személyek közeli hozzátartozója által az Ltv. 8. §-ában meghatározott – a tulajdonjogon kívüli – más jogcímen használt ingatlanon valósul meg, akkor a 30 napnál nem régebbi hiteles tulajdonilap-másolat mellett be kell nyújtani a használat jogcímét igazoló iratokat is.
+
+(3)[^31] Ha a természetes személy lakás-előtakarékoskodó, illetőleg a kedvezményezett vagy ezen személyek közeli hozzátartozója az igénybe vett összeget társasház esetén a közös tulajdonban álló, illetve lakásszövetkezet esetén a lakásszövetkezeti tulajdonban álló épületrészek
+
+a) korszerűsítésének, felújításának költségeiből ráeső részének megfizetésére fordítja, akkor az igazolást szolgáló iratok a (2) bekezdés c) és d) pontjától eltérően a következők:
+
+1\. a társasház, illetőleg a lakásszövetkezet képviselőjének igazolása a korszerűsítés, felújítás költségeiből a természetes személyre jutó, valamint az általa ténylegesen megfizetett összegről,
+
+2\. a korszerűsítés, felújítás kapcsán kiállított, a társasház, illetőleg a lakásszövetkezet nevére szóló számlának a társasház, illetőleg a lakásszövetkezet képviselője által hitelesített másolata, valamint
+
+3\. a lakástulajdont, illetőleg a szövetkezeti lakáshasználati jogot igazoló, 30 napnál nem régebbi hiteles tulajdonilap-másolat;
+
+b) korszerűsítéséhez, felújításához a társasház, illetőleg a lakásszövetkezet által felvett hitel ráeső részének megfizetésére fordítja, akkor az igazolást szolgáló iratok a (2) bekezdés c) és d) pontjától eltérően a következők:
+
+1\. a társasház, illetőleg a lakásszövetkezet képviselőjének igazolása a hitel kapcsán a természetes személyt terhelő fizetési kötelezettség teljesítéséről,
+
+2\. a hitelintézetnek a hitel, illetve hitelrész törlesztéséről szóló igazolása, valamint
+
+3\. a lakástulajdont, illetőleg a szövetkezeti lakáshasználati jogot igazoló, 30 napnál nem régebbi hiteles tulajdonilap-másolat.
+
+(4)[^32] Ha a közművek, kommunális létesítmények kialakítása az Ltv. 8. § (1) bekezdés a) pontjának 3. alpontjában felsorolt célok megvalósítására létrehozott közmű társulat útján valósul meg, és a társulat vagy a beruházás megvalósulását követően a területileg illetékes önkormányzat igazolást ad a lakás-előtakarékoskodó részére az érdekeltségi hozzájárulás mértékéről és annak megfizetéséről, a lakás-takarékpénztár a (2) bekezdés c) pontjában meghatározott számlák benyújtásától eltekinthet. A lakás-takarékpénztár eltekinthet a (2) bekezdés c) pontjában meghatározott hiteles tulajdonilap-másolat benyújtásától, amennyiben a közmű társulat igazolja, hogy a lakás-előtakarékoskodó, illetve a kedvezményezett vagy ezen személyek közeli hozzátartozója a társulat érdekeltségi területén lakástulajdonnal rendelkezik.
+
+(4a)[^33] A lakás-takarékpénztár a lakás-előtakarékoskodó vagy a kedvezményezett kérelmére lekérdezi az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot az ingatlan-nyilvántartási adatbázisból a másolatért fizetendő igazgatási szolgáltatási díj megtérítése esetén.
+
+(5)[^34] A lakás-takarékpénztár a lakáscélú felhasználás igazolásaként olyan számlát, lakáscélú kölcsön, pénzügyi lízing kiváltásáról szóló igazolást, illetve adásvételi szerződés vagy a tulajdonjog visszterhes átruházására irányuló egyéb okirat alapján a vételár vagy a pénzügyi lízing önerejének kifizetéséről szóló okiratot fogadhat el, amely az elfogadott kiutaláshoz tartozó kiutalási időszak első napján, kiutalást megelőzően benyújtott hitelkérelem esetén a hitelkérelem lakás-takarékpénztárhoz való megérkezésének napján, illetve felmondással történő megszűnés esetén a felmondásról szóló nyilatkozat lakás-takarékpénztárhoz való megérkezésének napján vagy azt követően keletkezett.
+
+(6)[^35] Az igénybe vett összeg felvételét megelőzően kell benyújtani a (2) bekezdésben felsorolt iratok közül az adásvételi szerződést, a tulajdonjog visszterhes átruházására irányuló egyéb okiratot, valamint az építési engedélyt. A (2) és (3) bekezdésben felsorolt iratok közül az igénybe vett összeg felvételét követő
+
+a)[^36] 60 napon belül kell benyújtani a lakáscélú kölcsön vagy pénzügyi lízing kiváltásáról szóló igazolást, a (3) bekezdés a) pont 3. alpontjában és a (3) bekezdés b) pontjában meghatározott iratokat,
+
+b) 18 hónapon belül kell benyújtani a lakás vagy családi ház építésére, bővítésére vonatkozó számlákat, valamint
+
+c)[^37] 180 napon belül kell benyújtani az egyéb szükséges iratokat.
+
+(7) A lakáscélú felhasználást igazoló okiratok benyújtására a (6) bekezdésben meghatározott határidők számításánál figyelmen kívül kell hagyni azt az időt, amely alatt a lakás-előtakarékoskodó az adott igazolási kötelezettségének elháríthatatlan okból, igazoltan nem tud eleget tenni.
+
+(8) Az utólagos ellenőrzéssel megbízott külső szakértő és a lakás-takarékpénztár jogosult a lakáscélú felhasználást a helyszínen ellenőrizni. A lakás-előtakarékoskodó köteles a külső szakértő számára a helyszíni ellenőrzést lehetővé tenni, és a felhasználással kapcsolatban adatot szolgáltatni.
+
+(9)[^38] A lakás-takarékpénztár jogosult a lakáscélú felhasználást igazoló okiratok eredeti, másolati vagy elektronikus másolati példányát a lakás-előtakarékoskodótól vagy a kedvezményezettől bekérni és elfogadni. A lakás-előtakarékoskodó vagy a kedvezményezett a lakáscélú felhasználás igazolásáról szóló dokumentumokat, míg a társasház, vagy a lakásszövetkezet azokat az eredeti számlákat, amelyekről a (3) bekezdés a) pont 2. alpontjában foglalt esetben hitelesített másolatot adott ki, öt évig megőrzi, és azokat az állami adóhatóság kérésére bemutatja.
+
+(10)[^39] Az Ltv. 8. § (1) bekezdésében meghatározott lakáscélú felhasználások fogalmainál a településrendezési és építési követelményekről szóló kormányrendelet szerinti meghatározásokat kell figyelembe venni.
+
+(11) A lakás-előtakarékoskodó az igénybe vett összeg kifizetését követően, de az adott, (6)–(7) bekezdésben meghatározott lakáscélú felhasználás igazolására nyitva álló határidő letelte előtt jogosult kezdeményezni a lakáscél módosítását más olyan lakáscélra, amelynek az igazolási határideje még nem telt le.
+
+(12)[^40]
+
+## 7/A. §[^41]
+
+A lakás-takarékpénztárt – a nem lakáscélú felhasználás esetén igénybe vett állami támogatás és járulékai érvényesítése miatt – költségtérítési átalány illeti meg, amely a lakás-takarékpénztár által a lakás-előtakarékoskodók részére folyósított állami támogatás kamatok nélküli összegének 2 százaléka. A lakás-takarékpénztár a költségtérítési átalány iránti igényét havonta, a folyósítást követő hónapban nyújtja be a Kincstárhoz.
+
+## 7/B. §[^42]
+
+A lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró fővárosi és vármegyei kormányhivatal Ltv. 24. § (6b) bekezdése szerinti fizetési könnyítés iránti kérelmekkel kapcsolatos feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter gyakorolja.
+
+## 8. §
+
+Ez a rendelet 1997. január 1-jén lép hatályba.
+
+## 9. §[^43]
+
+A lakás-előtakarékossággal összefüggő egyes kormányrendeletek módosításáról a Magyary Program Egyszerűsítési Programjának végrehajtása céljából című 254/2012. (IX. 11.) Korm. rendelet (a továbbiakban: Módr.) 2. §-ával megállapított 7. § (4a) és (6) bekezdését a Módr. hatálybalépését[^44] megelőzően kötött lakás-előtakarékossági szerződésekre is alkalmazni kell.
+
+## 10. §[^45]
+
+A Módr. 1. §-ával megállapított 1. § (2), (4), (5), (6) és (7) bekezdését a Módr. hatálybalépését[^46] megelőzően kötött lakás-előtakarékossági szerződésekre is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (4) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (6) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (7) bekezdését a 47/2006. (III. 7.) Korm. rendelet 1. §-a iktatta be, szövege a 254/2012. (IX. 11.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (8) bekezdését a 47/2006. (III. 7.) Korm. rendelet 1. §-a iktatta be. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^9]: Az 1/A. §-t a 47/2006. (III. 7.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 12. § (4) bekezdése alapján a rendelkezést a 2004. május 1-jét követően kötött szerződésekre kell alkalmazni. A 12. § (6) bekezdése alapján az Ltv. 21. §-a (2) bekezdésének *b)* és *c)* pontjában meghatározott lakás-előtakarékoskodó az állami támogatást 2004. május 1-jét követően kezdődő és már lezárult megtakarítási évekre utólag akkor igényelheti, ha a rendelet 1/A. § (1)–(2) bekezdésében meghatározott, a lezárult megtakarítási év kezdetekor és a visszamenőleges igénylés időpontjában fennálló jogosultságot igazoló érvényes iratokat 2006. május 1-jéig benyújtja a lakás-takarékpénztárhoz.
+[^10]: Az 1/A. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 1/A. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 98. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: Az 1/A. § (2) bekezdés a) pontja a 35/2024. (II. 29.) Korm. rendelet 266. §-a szerint módosított szöveg.
+[^13]: Az 1/A. § (2) bekezdés b) pontját a 35/2024. (II. 29.) Korm. rendelet 267. §-a hatályon kívül helyezte.
+[^14]: A 2. § (2) bekezdése a 47/2006. (III. 7.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^15]: A 3. § (1) bekezdésének második mondata a 135/2002. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (3) bekezdése alapján a rendelkezéseit 2002. június 29. napját követően megkötött szerződésekre kell alkalmazni; a bekezdés a 89/2003. (VI. 25.) Korm. rendelet 85. §-ának d) pontja szerint módosított szöveg.
+[^16]: A 3. § (2) bekezdésének a) pontja a 47/2006. (III. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 99. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 3. § (2) bekezdésének c) pontja a 47/2006. (III. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^18]: A 3. § (3) bekezdését a 47/2006. (III. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^19]: A 4. § (1) bekezdése a 135/2002. (VI. 21.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (3) bekezdése alapján a rendelkezéseit 2002. június 29. napját követően megkötött szerződésekre kell alkalmazni; a bekezdés a 89/2003. (VI. 25.) Korm. rendelet 85. §-ának d) pontja szerint módosított szöveg.
+[^20]: A 4. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 686/2020. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdése a 135/2002. (VI. 21.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 8. §-ának (4) bekezdése alapján a rendelkezéseit 2002. október 1. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^22]: A 6. § (2) bekezdése a 47/2006. (III. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^23]: A 6. § (2) bekezdés b) pontja a 349/2010. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^24]: A 6. § (2) bekezdés c) pontja a 349/2010. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 6. § (3) bekezdése a 47/2006. (III. 7.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^26]: Lásd a 135/2002. (VI. 21.) Korm. rendelet 9. §-át.
+[^27]: A 6. § (4) bekezdését a 47/2006. (III. 7.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 349/2010. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^28]: A 7. § a 47/2006. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^29]: A 7. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^30]: A 7. § (2) bekezdés b) pontja a 316/2019. (XII. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^31]: A 7. § (3) bekezdés nyitó szövegrésze a 254/2012. (IX. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^32]: A 7. § (4) bekezdése a 254/2012. (IX. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^33]: A 7. § (4a) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 316/2019. (XII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^34]: A 7. § (5) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^35]: A 7. § (6) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^36]: A 7. § (6) bekezdés a) pontja a 316/2019. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^37]: A 7. § (6) bekezdés c) pontja a 316/2019. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^38]: A 7. § (9) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^39]: A 7. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 7. § (12) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^41]: A 7/A. §-t a 47/2006. (III. 7.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
+[^42]: A 7/B. §-t a 70/2015. (III. 30.) Korm. rendelet 21. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 21. §-a, a 30/2020. (II. 29.) Korm. rendelet 2. §-a, a 616/2022. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^43]: A 9. §-t a 254/2012. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^44]: A hatálybalépés időpontja 2012. november 10.
+[^45]: A 10. §-t a 254/2012. (IX. 11.) Korm. rendelet 4. §-a iktatta be.
+[^46]: A hatálybalépés időpontja 2012. november 10.

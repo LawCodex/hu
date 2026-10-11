@@ -1,0 +1,329 @@
+---
+title: "1/1998. (I. 12.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között Budapesten, 1993. szeptember 15-én aláírt légiközlekedési megállapodás kihirdetéséről"
+identifier: "1/1998. (I. 12.) Korm. rendelet"
+njt_id: "1998-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-01-12
+in_force_from: 1998-01-12
+last_amended: 1998-01-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/1998. (I. 12.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között Budapesten, 1993. szeptember 15-én aláírt légiközlekedési megállapodás kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1997. július 20. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya között Budapesten, 1993. szeptember 15-én aláírt légiközlekedési megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+**Légiközlekedési Megállapodás a Magyar Köztársaság és a Kínai Népköztársaság között**
+
+A Magyar Köztársaság Kormánya és a Kínai Népköztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+attól az óhajtól vezérelve, hogy megkönnyítsék a baráti kapcsolatokat népeik között, és fejlesszék a kölcsönös kapcsolatokat országaik között a polgári repülés terén;
+
+a Chicagóban, 1944. december 7. napján aláírásra megnyitott Nemzetközi Polgári Repülési Egyezmény részeseiként;
+
+megegyeztek abban, hogy légijáratokat létesítenek és működtetnek országaik területei között és azokon túl.
+
+*1. Cikk*
+
+*Meghatározások*
+
+A jelen Egyezmény és Függeléke céljából hacsak az másképpen nem rendelkezik:
+
+*a)* a ,,Chicagói Egyezmény'' kifejezés a Nemzetközi Polgári Repülési Egyezményt jelenti, melyet 1944. december 7. napján írtak alá Chicagóban, és magában foglal minden Függeléket, melyet a fenti Egyezmény 90. Cikke alapján fogadtak el, illetve a Függelék minden módosítását a 94. Cikk értelmében, amennyiben a kérdéses Függelékek és módosítások mindkét Fél számára érvényre léptek, vagy azokat ratifikálták;[^1]
+
+*b)* a ,,légügyi hatóságok'' kifejezés a Magyar Köztársaság esetében a Közlekedési és Vízügyi[^2] Minisztériumot és/vagy minden olyan személyt vagy testületet, melyet felhatalmaztak arra, hogy ellása azokat a funkciókat, melyet jelenleg a Minisztérium gyakorol, a Kínai Népköztársaság esetében a Kínai Polgári Légügyi Igazgatóságot jelenti és/vagy minden olyan személyt vagy testületet, melyet felhatalmaztak arra, hogy a jelenleg az említett testület által gyakorolt funkciókat ellássa;
+
+*c)* a ,,légifuvarozás'' kifejezés bármely menetrendszerű légifuvarozást jelent, melyet az utasok nyilvános szállítására rendszeresített repülőgépek biztosítanak (ideértve a poggyászt, árut és postát) külön vagy együttesen, díj vagy ellenszolgáltatás fejében;
+
+*d)* a ,,nemzetközi légifuvarozás'' kifejezés olyan légifuvarozást jelent, amely egynél több állam területe feletti légtéren halad át;
+
+*e)* a ,,nem kereskedelmi célú leszállás'' kifejezés olyan leszállást jelent, melynek célja nem utasok, poggyász, áru és/vagy posta felvétele vagy kirakása;
+
+*f)* a ,,légitársaság'' kifejezés bármilyen légifuvarozási vállalatot jelent, mely nemzetközi légifuvarozást kínál vagy működtet;
+
+*g)* a ,,kijelölt légitársaság'' kifejezés azt a légitársaságot jelenti, melyet a jelen Megállapodás 3. Cikkével kapcsolatban jelöltek ki és hatalmaztak fel;
+
+*h)* a ,,tarifa'' kifejezés azt a felszámított díjat jelenti, melyet az utasok, poggyászok és áruk szállításáért beszednek, és azokat a feltételeket, melyek esetében a fenti árak érvényesek, beleértve az ügynökségi és egyéb kiegészítő szolgáltatások árait és feltételeit, de kivéve a posta szállításáért fizetett térítést és feltételeket;
+
+*i)* a ,,használati díj'' kifejezés azt a díjat jelenti, melyet a légitársaságoknak számítanak fel a repülőtéri, légi-navigációs létesítmények és szolgáltatások igénybevételéért;
+
+*j)* az ,,útvonal'' kifejezés az Egyezményhez csatolt Függeléket és annak bármely módosításait jelenti a jelen Megállapodás 20. Cikke alapján.
+
+*2. Cikk*
+
+*Forgalmi jogok nyújtása*
+
+1\. Mindegyik Szerződő Fél megadja a másik Szerződő Félnek azon jogokat, melyeket a jelen Megállapodás meghatároz abból a célból, hogy lehetővé tegye a kijelölt légitársaság számára, hogy nemzetközi légijáratokat hozzon létre és működtessen a ,,Függelékben'' meghatározottak alapján (a továbbiakban: a ,,megállapodás szerinti légiközlekedési szolgáltatás'', illetve a ,,megjelölt útvonal'').
+
+2\. A jelen Megállapodás meghatározásaitól függően, mindkét Szerződő Fél kijelölt légitársasága az alábbi jogokat élvezi miközben a megadott útvonalon a megállapodás szerinti légiközlekedési szolgáltatást végzi:
+
+*a)* leszállás nélküli átrepülés a másik Szerződő Fél területe felett azon megjelölt útvonalakon, amelyeket a másik Szerződő Fél légügyi hatósága előírt;
+
+*b)* nem-kereskedelmi célú leszállások a másik Szerződő Fél területén;
+
+*c)* valamint leszállás a másik Szerződő Fél területén az adott útvonalra meghatározott pontokban az első Szerződő Fél vagy egy harmadik ország területéről kiinduló vagy oda irányuló utasok, poggyász, áru és posta felvétele és kirakása céljából.
+
+*3. Cikk*
+
+*Légitársaság kijelölése és engedélyezése*
+
+1\. Mindegyik Szerződő Félnek joga van egy légiközlekedési vállalatot írásban kijelölni a másik Szerződő Fél számára, hogy a megállapodás szerinti légiközlekedési szolgáltatásokat a meghatározott útvonalon üzemeltesse, valamint az ilyen kijelöléseket visszavonja vagy módosítsa.
+
+2\. Mindegyik Szerződő Fél kijelölt légiközlekedési vállalata tulajdonának túlnyomó része és tényleges ellenőrzése a légiközlekedési vállalatot kijelölő Szerződő Fél, vagy e Szerződő Fél állampolgárainak kezében van.
+
+3\. A másik Szerződő Fél légügyi hatóságai kérhetik annak bizonyítását, hogy az előbbi Szerződő Fél által kijelölt légiközlekedési vállalat megfelel azon feltételeknek, amelyet az említett hatóságok a nemzetközi légifuvarozás bonyolításával kapcsolatban szokásosan és ésszerűen alkalmaznak a törvényekben és jogszabályokban leírtak alapján.
+
+4\. Az ilyen kijelölés kézhezvételekor a másik Szerződő Fél a jelen Cikk 2. és 3. bekezdése alapján az így kijelölt légiközlekedési vállalatnak a megfelelő üzemelési engedélyt indokolatlan késedelem nélkül kiadja.
+
+5\. Az ilyen módon kijelölésre és engedélyezésre került légiközlekedési vállalat attól az időponttól kezdheti meg a megállapodás szerinti légiközlekedési szolgáltatások üzemeltetését, amelyről a jelen Megállapodás vonatkozó rendelkezéseivel összhangban a Szerződő Felek légügyi hatóságai megegyeznek.
+
+*4. Cikk*
+
+*Az engedély visszavonása, felfüggesztése és feltételek szabása*
+
+1\. Mindegyik Szerződő Félnek joga van a másik Szerződő Fél kijelölt légiközlekedési vállalata üzemeltetési engedélyét visszavonni vagy felfüggeszteni, vagy a jelen Megállapodás 2. Cikkében meghatározott jogokat az említett kijelölt légiközlekedési vállalat általi gyakorlásával kapcsolatban szükségesnek ítélt feltételekhez kötni bármely következő esetben:
+
+*a)* abban az esetben, ha a légiközlekedési vállalat tulajdonának túlnyomó része és tényleges ellenőrzése nem a légiközlekedési vállalatot kijelölő Szerződő Fél vagy annak állampolgárai kezében van; vagy
+
+*b)* amikor a légiközlekedési vállalat nem tartja be az első Szerződő Fél jogszabályait vagy rendelkezéseit; vagy
+
+*c)* amikor a légiközlekedési vállalat bármely más módon nem a jelen Megállapodásban meghatározott feltételekkel összhangban üzemel.
+
+2\. Hacsak a törvények és rendelkezések további megsértésének megakadályozásához a jelen Megállapodás 1. bekezdésében említett visszavonás, felfüggesztés vagy feltételek előírása nem szükséges, akkor ezek a jogok csak a másik Szerződő Féllel történt egyeztetés után gyakorolhatók.
+
+A légügyi hatóságok között ilyen konzultációt az erre vonatkozó kérés kézhezvételét követő 60 napon belül meg kell kezdeni.
+
+*5. Cikk*
+
+*Használati díjak*
+
+Mindegyik Fél felszámíthat, vagy engedélyezheti igazságos és ésszerű díjak felszámítását a repülőterek és egyéb, ellenőrzésük alatt álló berendezések használatáért.
+
+E díjak nem lehetnek magasabbak, mint a hasonló nemzetközi légifuvarozásban részt vevő hazai légijárművekre felszámított használati díjak.
+
+*6. Cikk*
+
+*Törvények és rendelkezések alkalmazása*
+
+1\. Az egyik Szerződő Fél területére belépő, ott-tartózkodó, illetve onnan kilépő a nemzetközi légiforgalomban részt vevő légijárműre vonatkozó törvények és rendeletek kiterjednek a másik Szerződő Fél kijelölt légiközlekedési vállalatának légijárművére, az első Szerződő Fél területére történő belépéskor, illetve a területén való tartózkodáskor.
+
+2\. Az egyik Szerződő Fél területére belépő, ott-tartózkodó, illetve onnan kilépő utasokra, személyzetre, árura és légipostára vonatkozó törvények és rendelkezések, mint a belépésre, útlevelekre, vámvizsgálatra és karanténra vonatkozó szabályok kiterjednek a másik Szerződő Fél kijelölt légiközlekedési vállalata légijárművére felvitt utasokra, személyzetre, árura és légipostára, amíg az az első Szerződő Fél területére belép, ott-tartózkodik és onnan távozik.
+
+*7. Cikk*
+
+*Egyszerűsített ellenőrzés*
+
+Bármely Szerződő Fél területén közvetlen tranzittal áthaladó, a repülőtérnek erre a célra kijelölt területét el nem hagyó utasokat, poggyászaikat és árukat csak egyszerűsített ellenőrzésnek kell alávetni.
+
+A közvetlen tranzittal szállított poggyászra és árura nem lehet vámilletéket vagy más díjat kivetni.
+
+*8. Cikk*
+
+*Kapacitásrendelkezések*
+
+1\. A Szerződő Felek kijelölt légiközlekedési vállalatai igazságos és egyenlő feltételeket élveznek a megállapodás szerinti légiközlekedési szolgáltatások kijelölt útvonalakon történő üzemeltetése során.
+
+2\. Az egyik Szerződő Fél kijelölt légiközlekedési vállalata a megállapodás szerinti légiközlekedési szolgáltatások üzemeltetése során figyelembe veszi a másik Szerződő Fél kijelölt légiközlekedési vállalatának érdekeit, hogy az utóbbi szolgáltatásait ugyanazon az útvonalon vagy annak egy részén szükségtelenül ne károsítsa.
+
+3\. A Szerződő Felek kijelölt légiközlekedési vállalatai által nyújtott megállapodás szerinti légiközlekedési szolgáltatásoknak szorosan kapcsolódni kell a kijelölt útvonalaknak közforgalmú igényeihez, és elsődleges céljuk, hogy a Szerződő Felek területei között az utasok, áruk és légiposta jelenlegi és előrebecsült követelményei a kapacitásigényt ésszerű kihasználtsági faktora mellett kielégítsék.
+
+4\. A kijelölt útvonal azon pontjain, amelyek a légiközlekedési vállalatot kijelölő Szerződő Fél területén kívül vannak, az utasok és áruk és légiposta felvételének és kirakásának azon általános feltételek szerint kell történnie, miszerint a kapacitás kapcsolódik:
+
+*a)* a légiközlekedési vállalatot kijelölő Szerződő Fél területén felvett és kirakott forgalom igényeihez;
+
+*b)* annak a régiónak a forgalmi igényeihez, amelyen a megállapodás szerinti légiközlekedési szolgáltatás áthalad, figyelemmel a régió államainak légiközlekedési vállalatai által biztosított más légiközlekedési szolgáltatásokra; és
+
+*c)* a légiközlekedési vállalatok üzemeltetéséből adódó igényekhez.
+
+*9. Cikk*
+
+*Menetrend*
+
+Bármely Szerződő Fél kijelölt légiközlekedési vállalatának bármely megállapodás szerinti légiközlekedési szolgáltatása üzemeltetésének megkezdése előtt nem később, mint kilencven (90) nappal a tervezett menetrendet jóváhagyásra a másik Szerződő Fél légügyi hatóságához be kell nyújtani. Az ilyen menetrendnek tartalmaznia kell a használandó légijármű típusát, a szolgáltatás gyakoriságát és a járattervet.
+
+*10. Cikk*
+
+*Tarifák*
+
+1\. A két Szerződő Fél területe között alkalmazandó tarifákat ésszerű szinten kell megállapítani, figyelembe véve minden meghatározó tényezőt, beleértve az üzemeltetés költségét, az ésszerű profitot, az egyes szolgáltatások sajátosságát (mint a sebesség és az elhelyezés színvonala) a következő alapelvekkel összhangban:
+
+*a)* a túlzottan diszkriminatív árak, illetve gyakorlatok megakadályozása;
+
+*b)* a fogyasztók megvédése a domináns helyzettel való visszaéléstől adódó indokolatlanul magas vagy korlátozó jellegű áraktól; és
+
+*c)* a légiközlekedési vállalatok megvédése a mesterségesen alacsony és a légiközlekedés piaci versenyét veszélyeztető áraktól.
+
+2\. A jelen Cikk 1. bekezdésében hivatkozott díjtételekről a Szerződő Felek kijelölt légitársaságai állapodnak meg, amikor szükséges és lehetséges konzultálva az adott útvonal egészén vagy annak egy részén üzemelő más légiközlekedési vállalatokkal. Az ilyen módon megállapított viteldíjakat legalább hatvan (60) nappal tervezett bevezetésüket megelőzően az illetékes légügyi hatóságokhoz jóváhagyásra benyújtják, és a viteldíjak a Szerződő Felek légügyi hatóságainak jóváhagyása után válnak hatályossá.
+
+3\. Amennyiben a kijelölt légiközlekedési vállalatok az ilyen viteldíjakról nem tudnak megállapodni, akkor a Szerződő Felek légügyi hatóságai konzultáció során próbálják a viteldíjakat meghatározni.
+
+4\. Amennyiben a légügyi hatóságok nem tudnak megállapodni a jelen Cikk (2) bekezdésének megfelelően hozzájuk jóváhagyásra benyújtott valamely díjtételről, vagy a jelen Cikk 3. bekezdése alapján a díjtétel meghatározásáról, akkor a jelen Megállapodás 21. Cikkével összhangban az ügy megoldását a Szerződő Felek hatáskörébe utalják.
+
+5\. Ameddig a jelen Cikk rendelkezéseivel összhangban az új díjtétel nem kerül meghatározásra, addig a már hatályban lévő díjtételek az érvényesek.
+
+*11. Cikk*
+
+*Képviselet és kereskedelmi lehetőségek*
+
+1\. Mindegyik Szerződő Fél légiközlekedési vállalata, a másik Szerződő Fél légügyi hatóságának előzetes értesítésével a légiközlekedés elősegítése és értékesítése céljából a másik Szerződő Fél területén képviseleteket hozhat létre.
+
+2\. Mindegyik kijelölt légiközlekedési vállalat a másik Szerződő Fél törvényeivel és rendelkezéseivel összhangban értékesítheti légiközlekedési szolgáltatásait a másik Szerződő Fél területén.
+
+3\. Az egyik Szerződő Fél kijelölt légiközlekedési vállalata a másik Szerződő Félnek belépésre, tartózkodásra és foglalkoztatásra vonatkozó törvényeivel és rendelkezéseivel összhangban a jelen Cikk 1. bekezdésében hivatkozott irodákhoz bevihet és fenntarthat a légiközlekedési szolgáltatások nyújtásához igazgatási, értékesítési, műszaki, üzemeltetési és egyéb szakmai személyzetet.
+
+4\. Mindegyik Szerződő Fél megadja a szükséges támogatást és elősegíti a másik Szerződő Fél kijelölt légiközlekedési vállalata képviseletének és személyzetének a megállapodás szerinti légiközlekedési szolgáltatások hatékony üzemeltetését.
+
+5\. Valamely Szerződő Fél kijelölt légiközlekedési vállalata képviseletének személyzete bármely Szerződő Fél állampolgára lehet. Az ilyen személyzetre a másik Szerződő Fél hatályos törvényei és rendelkezései vonatkoznak.
+
+*12. Cikk*
+
+*A személyzet állampolgársága*
+
+Bármely Szerződő Fél kijelölt légiközlekedési vállalatának a másik Szerződő Fél területére belépő, illetve onnan kilépő járata személyzetének tagjai az előbbi Szerződő Fél állampolgárai kell hogy legyenek. Amennyiben bármely Szerződő Fél kijelölt légiközlekedési vállalata a másik Szerződő Fél területére belépő és onnan kilépő járatain bármely más állampolgárságú személyzetet kíván alkalmazni, akkor előzetesen jóváhagyást kell kérnie a másik Szerződő Féltől.
+
+*13. Cikk*
+
+*A bevétel átváltása és átutalása*
+
+1\. Bármely Szerződő Fél kijelölt légiközlekedési vállalatának a viszonosság alapján joga van a másik Szerződő Fél területén kapott bevételeit a légiközlekedési vállalatot kijelölő Szerződő Félnek átutalni.
+
+2\. Az ilyen bevételek átváltása és átutalása konvertibilis valutában történik az átutalás napján érvényben lévő átváltási árfolyamon.
+
+3\. Mindegyik Szerződő Fél elősegíti, hogy a területén kapott bevételeket a másik Szerződő Fél kijelölt légiközlekedési vállalata átváltsa és átutalja, illetve a vonatkozó eljárásoknak eleget tegyen.
+
+*14. Cikk*
+
+*Vámilletékek*
+
+1\. Az egyik Szerződő Fél kijelölt légiközlekedési vállalata által a nemzetközi légiközlekedésben üzemeltetett légijármű, valamint szokásos felszerelése, alkatrészei (beleértve a hajtóműveket), üzemanyag, olaj (beleértve a hidraulikus folyadékokat), kenőanyag, a légijármű készleteit (beleértve az élelmiszereket, italokat és dohányárut), amely a másik Szerződő Fél területére történő belépéskor a légijármű fedélzetén van, a viszonosság alapján mentes a vámok, adók, vizsgálati díjak és más hasonló illetékek alól, feltéve, hogy ezek a berendezések és készletek re-exportjukig a légijármű fedélzetén maradnak.
+
+2\. A viszonosság alapján a következő berendezések és készletek mentesek ugyanezen vámok, adók, vizsgálati díjak és más hasonló illetékek és díjak alól, kivéve azokat az illetékeket, amelyek a nyújtott szolgáltatásokhoz kapcsolódnak:
+
+*a)* az egyik Szerződő Fél területére a másik Szerződő Fél által vagy annak nevében bevitt, vagy a nemzetközi légiközlekedésben részt vevő légijármű fedélzetére kizárólag felhasználás vagy fogyasztás céljából felvitt szokásos felszerelés, alkatrészek (beleértve a hajtóműveket), üzemanyagot, olaj (beleértve a hidraulikus folyadékokat), kenőanyagok és a légijármű készletei (beleértve az élelmiszereket, italokat és dohányárut), még akkor is, amikor ezeket a berendezéseket és készleteket a másik Szerződő Fél területe felett végzett repülés egy szakaszán használják is fel;
+
+*b)* az egyik Szerződő Fél területére a másik Szerződő Fél kijelölt légiközlekedési vállalata által vagy annak nevében bevitt alkatrészek, beleértve a hajtóműveket, amelyek a nemzetközi légiközlekedésben részt vevő légijármű karbantartásához és javításához szükségesek.
+
+3\. Az egyik Szerződő Fél területére a másik Szerződő Fél kijelölt légiközlekedési vállalata által vagy annak nevében bevitt nyomtatott jegyblokkok, légi fuvarlevelek és a tájékoztató anyagok a viszonosság alapján mentesek minden vám, adó, vizsgálati díj és más hasonló illetékek és díjak alól.
+
+4\. A jelen Cikk 1. és 2. bekezdésében hivatkozott berendezések és készletek a másik Szerződő Fél vámhatóságainak jóváhagyásával annak területén kirakhatók. Az ilyen berendezéseket és cikkeket a másik Szerződő Fél vámhatóságainak felügyelete vagy ellenőrzése alá kell helyezni addig az időtartamig, amíg reexportjukra vagy más módon történő elintézésükre vámszabályokkal összhangban sor kerül.
+
+5\. A jelen Cikk 1. és 2. bekezdésében biztosított mentességek ott is érvényesek, ahol az egyik Szerződő Fél kijelölt légiközlekedési vállalata szerződést kötött a jelen Cikk 1. és 2. bekezdésében meghatározott cikkek kölcsönzésére vagy elidegenítésére a másik Szerződő Fél területén egy olyan légiközlekedési vállalattal, amely az említett területen éppúgy mentességet élvez.
+
+6\. Az egyik Szerződő Fél kijelölt légiközlekedési vállalata képviseletének irodai felszerelései, a repülőtéri különleges használatú járművei vagy a személyzet tagjainak a repülőtér és a város közötti szállítására használt járművek, valamint az elektronikus helyfoglalási és kommunikációs berendezések, beleértve az alkatrészeiket is a másik Szerződő Fél területére történő bevitelük alkalmával a viszonosság alapján mentesülnek az importra kivetett vámok, más illetékek és adók alól.
+
+*15. Cikk*
+
+*Adózás*
+
+1\. Az egyik Szerződő Fél kijelölt légiközlekedési vállalata által a másik Szerződő Fél területén a nemzetközi szolgáltatás üzemeltetésével kapcsolatban kapott bevételek és profit mentes a másik Szerződő Fél által kivetett minden adó alól.
+
+2\. Bármely Szerződő Fél kijelölt légiközlekedési vállalatának a másik Szerződő Fél területén belül lévő tulajdona mentes a másik Szerződő Fél által kivetett minden adó alól.
+
+3\. Bármelyik Szerződő Fél kijelölt légiközlekedési vállalata képviseletének alkalmazottai a másik Szerződő Fél területén, amennyiben azok az első Szerződő Fél állampolgárai, úgy az általuk kapott bérek, fizetések és más hasonló díjazások mentesek a másik Szerződő Fél által kivetett mindennemű adó alól.
+
+*16. Cikk*
+
+*A légiközlekedés biztonsága*
+
+1\. A Szerződő Felek megerősítik a nemzetközi jogban foglalt jogaikat és kötelezettségeiket, beleértve a Chicagóban, 1944. december 7-én aláírt Nemzetközi Polgári Repülésügyi Egyezményt és a Tokióban, 1963. szeptember 14-én aláírt, a ,,Légijárművek fedélzetén elkövetett bűncselekményekről és egyéb cselekményekről szóló egyezményt'', az 1970. december 16-án, Hágában aláírt ,,A légijárművek jogellenes hatalomba kerítésének leküzdéséről'' szóló egyezményt és az 1970. szeptember 23-án, Montrealban aláírt ,,A polgári légiközlekedés biztonsága elleni jogellenes cselekmények leküzdéséről'' szóló egyezményt. A Szerződő Felek kinyilvánítják, hogy a polgári légiközlekedés biztonságának jogellenes beavatkozások elleni védelme az Egyezmény szerinti kölcsönös kapcsolataik szerves részét képezi.
+
+2\. A Szerződő Felek felkérés esetén minden szükséges segítséget megadnak egymásnak a polgári légijárművek jogellenes hatalomba kerítésére irányuló cselekmények megakadályozására és más a légijárművek, annak utasai és személyzete, a repülőterek és a léginavigációs berendezések biztonsága elleni jogellenes cselekmények és minden más repülésbiztonság ellen irányuló fenyegetés megakadályozására.
+
+3\. A Szerződő Felek az egymással fenntartott kapcsolataikban a Nemzetközi Polgári Repülési Szervezet által megállapított és a Nemzetközi Polgári Repülési Egyezmény Függelékeiben megnevezett, a légiközlekedés biztonságára vonatkozó rendelkezésekkel és a technikai követelményekkel összhangban cselekednek, valamint megkívánják, hogy a területükön bejegyzett légijárművek üzemeltetői, illetve azok az üzemeltetők, akik fő üzleti telephelye vagy állandó lakhelye területükön van ezen légiközlekedési biztonsági előírásoknak megfelelően járjanak el.
+
+4\. Mindegyik Szerződő Fél egyetért azzal, hogy kérés esetén megvizsgálható, hogy a légijárművet üzemeltető betartja-e a légiközlekedés biztonsági rendelkezéseket és a másik Szerződő Fél területére történő belépésre, ott-tartózkodásra és kilépésre vonatkozó követelményeket. Mindegyik Szerződő Fél biztosítja a megfelelő intézkedések hatékony megtételét, hogy területén a légijármű, valamint az utasok, személyzet, poggyászok, áruk és a légijármű készleteinek védelmét a beszállás, illetve berakodás előtt és közben biztosítsák.
+
+A Szerződő Felek kölcsönös jóindulattal bírálják el a másik Szerződő Félnek egyes konkrét veszélyekkel szembeni ésszerűen különleges biztonsági intézkedések megtételére irányuló kérelmeit.
+
+5\. A légijármű jogellenes hatalomba kerítése, illetve ennek fenyegetés fennállása esetén, vagy más, a légijármű, annak utasai és személyzete, illetve a repülőterek és a léginavigációs berendezések biztonsága elleni jogellenes cselekmények vagy annak fenyegetése esetén a Felek segítséget nyújtanak egymásnak a kommunikáció elősegítése és más, az effajta cselekmény vagy ennek fenyegetése gyors és biztonságos megszüntetéséhez szükséges megfelelő intézkedések megtétele révén.
+
+*17. Cikk*
+
+*Biztonság és légialkalmasság*
+
+Mindegyik Szerződő Fél a jelen Megállapodásban biztosított légifuvarozás üzemeltetése szempontjából érvényesnek ismeri el a másik Szerződő Fél által kiadott vagy érvényesített és érvényben lévő légialkalmassági bizonyítványokat vagy szakszolgálati bizonyítványokat és engedélyeket, feltéve, hogy az e bizonyítványokkal vagy engedélyekkel szemben támasztott követelmények a Chicagói Egyezményben foglalt minimális előírásokkal legalább azonosak. Mindazonáltal mindegyik Szerződő Fél visszautasíthatja, hogy érvényesnek fogadja el a másik Szerződő Fél által a saját állampolgárai számára a területük feletti átrepülés céljából kiállított vagy érvényesített szakszolgálati engedélyeket és jogosítványokat.
+
+*18. Cikk*
+
+*Statisztikai adatok biztosítása*
+
+Bármelyik Szerződő Fél légügyi hatósága a másik Szerződő Fél légügyi hatóságának kérésére biztosítja azokat a statisztikai adatokat, amelyek ésszerűen szükségesek lehetnek ahhoz, hogy az első Szerződő Fél kijelölt légiközlekedési vállalata által a kijelölt útvonalon a megállapodás szerint üzemeltetett légiközlekedési szolgáltatások során nyújtott kapacitást áttekintse. Az ilyen adatok minden olyan információt tartalmaznak, amelyek ésszerűen szükségesek az említett légiközlekedési vállalat által a megállapodás szerinti légiközlekedési szolgáltatások nyújtása során bonyolított forgalom nagyságának meghatározásához.
+
+*19. Cikk*
+
+*Konzultációk*
+
+1\. A Szerződő Felek a szoros együttműködés és a kölcsönös támogatás szellemében biztosítják a Megállapodás pontos végrehajtását és rendelkezéseinek megfelelő betartását. Ebből a célból a Szerződő Felek légügyi hatóságai időről időre konzultációt tartanak.
+
+2\. Bármelyik Szerződő Fél bármikor konzultációt kérhet a másik Szerződő Féltől a Megállapodásról. Az ilyen konzultációt lehetőleg minél előbb, de legalábbis az ilyen kérés másik Szerződő Fél általi kézhezvételétől számított hatvan (60) napon belül meg kell kezdeni, kivéve, ha erről másképp állapodtak meg.
+
+*20. Cikk*
+
+*Kiegészítés és módosítás*
+
+1\. Ha bármelyik Szerződő Fél kívánatosnak tartja a jelen Megállapodás bármely rendelkezésének vagy Függelékének módosítását, akkor bármely időpontban konzultációt kérhet a másik Szerződő Féltől. A légügyi hatóságok között a tárgyalások vagy levelezés útján megtartandó konzultációkat az erre vonatkozó kérés másik Szerződő Fél által történő kézhezvételtől számított kilencven (90) napos perióduson belül meg kell kezdeni, kivéve, ha a Felek ezen periódus kiterjesztéséről állapodnak meg.
+
+2\. A jelen Megállapodás vagy Függelékének bármely módosítása, amelyről az ezen Cikk 1. bekezdésében hivatkozott konzultáció eredményeképp született megegyezés, a Szerződő Felek jegyzékváltással diplomáciai úton történő megerősítésével lépnek hatályba.
+
+*21. Cikk*
+
+*Viták rendezése*
+
+1\. Amennyiben a Szerződő Felek között vita merül fel a jelen Megállapodás értelmezése vagy alkalmazása tekintetében, akkor azt a két Szerződő Fél légügyi hatóságai elsősorban tárgyalások útján próbálják rendezni.
+
+2\. Amennyiben a Szerződő Felek légügyi hatóságai az említett vitát nem tudják rendezni, akkor arról diplomáciai csatornákon keresztül, vagy ha a Szerződő Felek úgy állapodnak meg, akkor közvetítés, egyeztetés vagy arbitrage útján kell megegyezni.
+
+*22. Cikk*
+
+*Bejegyzés az ICAO-nál*
+
+A Megállapodást és valamennyi módosítását nyilvántartásba kell vetetni a Nemzetközi Polgári Repülési Szervezetnél.
+
+*23. Cikk*
+
+*Felmondás*
+
+Bármelyik Szerződő Fél bármikor diplomáciai úton értesítheti a másik Szerződő Felet azon döntéséről, hogy a Megállapodást felmondja. Ebben az esetben a Megállapodás a másik Szerződő Féltől kapott értesítés után 12 hónappal érvényét veszti, hacsak az ilyen értesítést a Szerződő Felek megállapodásával a fenti időszak lejárta előtt vissza nem vonják.
+
+*24. Cikk*
+
+*Hatálybalépés*
+
+A jelen Megállapodás azon a napon lép hatályba, amikor a Szerződő Felek diplomáciai csatornákon értesítik egymást, hogy a Megállapodás hatálybalépéséhez szükséges alkotmányos előírásokat teljesítették.
+
+Ennek tanúbizonyságaként, az alulírott meghatalmazottak, akiket illetékes Kormányaik arra megfelelően felhatalmaztak, aláírták a Megállapodást.
+
+Készült két példányban, Budapesten, 1993. szeptember 15-én, magyarul, angolul és kínaiul, melyek mindegyike egyaránt hiteles. Eltérő értelmezés esetén az angol szöveg a mérvadó.
+
+A Kínai Népköztársaság\
+Kormánya nevében
+
+A Magyar Köztársaság\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. július 20-tól kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^3] miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1971: 25. törvényerejű rendeletet.
+[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.
+[^3]: Az időközi szervezeti változásoknak megfelelő szöveg.

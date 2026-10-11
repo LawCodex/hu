@@ -1,0 +1,372 @@
+---
+title: "140/1992. (X. 20.) Korm. rendelet a külföldi jogról való tájékoztatásról szóló, Londonban, 1968. június 7. napján aláírt Európai Egyezmény, valamint Strasbourgban, 1978. március 15. napján aláírt Egyezmény Kiegészítő Jegyzőkönyv kihirdetéséről"
+identifier: "140/1992. (X. 20.) Korm. rendelet"
+njt_id: "1992-140-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/140"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-10-20
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-140-20-22"
+retrieved: 2026-10-12
+---
+
+# 140/1992. (X. 20.) Korm. rendelet a külföldi jogról való tájékoztatásról szóló, Londonban, 1968. június 7. napján aláírt Európai Egyezmény, valamint Strasbourgban, 1978. március 15. napján aláírt Egyezmény Kiegészítő Jegyzőkönyv kihirdetéséről
+
+(A Magyar Köztársaság csatlakozási okiratának letétbe helyezése Strasbourgban, 1989. november 16. napján megtörtént. Az Egyezmény és a Jegyzőkönyv a Magyar Köztársaság tekintetében 1990. február 16. napján hatályba lépett.)
+
+## 1. §
+
+A Kormány a külföldi jogról való tájékoztatásról szóló 1968. június 7. napján, Londonban aláírt Európai Egyezményt (a továbbiakban: Egyezmény), valamint az 1978. március 15. napján, Strasbourgban aláírt Egyezmény Kiegészítő Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény és a Jegyzőkönyv magyar nyelvű szövege a következő:
+
+Európa Tanács 62. szám
+
+,,
+
+**Európai Egyezmény a külföldi jogról való tájékoztatásról**
+
+*London, 1968. június 7.*
+
+**PREAMBULUM**
+
+az Európa Tanács alulírott tagállamai,
+
+tekintettel arra, hogy az Európa Tanács célja a tagállamok közti szorosabb egység elérése;
+
+abbeli meggyőződésükben, hogy e cél eléréséhez hozzájárul egy nemzetközi kölcsönös jogsegélynyújtási rendszer megteremtése azzal a céllal, hogy az megkönnyítse az igazságügyi hatóságok számára a külföldi jogról való tájékozódást,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Az Egyezmény alkalmazásának köre*
+
+1\. A Szerződő Felek kötelezettséget vállalnak arra, hogy a jelen Egyezmény rendelkezéseivel összhangban tájékoztatják egymást polgári jogi és kereskedelmi jogi jogszabályaikról, eljárásukról, valamint az igazságügyi szervezetről.
+
+2\. Mindazonáltal két vagy több Szerződő Fél egymás között megállapodhat a jelen Egyezmény alkalmazási körének az előző bekezdésben nem említett területre való kiterjesztéséről. Az ilyen megállapodások szövegét meg kell küldeni az Európa Tanács Főtitkárának.
+
+*2. Cikk*
+
+*Nemzeti kapcsolattartó szervek*
+
+1\. Ezen Egyezmény rendelkezéseinek végrehajtására minden Szerződő Fél felállít vagy kijelöl egy önálló testületet (a továbbiakban: átvevő intézmény), amely
+
+*a)* fogadja az ezen Egyezmény 1. Cikk (1) bekezdése szerint egy másik Szerződő Fél által előterjesztett, tájékoztatás iránti megkereséseket;
+
+*b)* a 6. Cikkel összhangban intézkedik e megkeresések alapján.
+
+Az átvevő intézmény lehet egy minisztériumi főosztály vagy bármilyen más állami szerv.
+
+2\. Minden Szerződő Fél létrehozhat vagy kijelölhet egy vagy több szervet (a továbbiakban: áttevő intézmény) igazságügyi hatóságaitól érkező tájékoztatás fogadására, valamint annak a megfelelő külföldi átvevő intézményhez való továbbítására. Az átvevő intézmény egyben áttevő intézményként is kijelölhető.
+
+3\. Minden Szerződő Fél közli az Európa Tanács Főtitkárával átvevő intézményének nevét és címét, valamint — adott esetben — áttevő intézményének vagy intézményeinek nevét és címét.
+
+*3. Cikk*
+
+*A tájékoztatás iránti megkeresés előterjesztésére jogosult hatóságok*
+
+1\. Tájékoztatás iránti megkeresést csak igazságügyi hatóság terjeszthet elő, még abban az esetben is, ha a megkeresést nem az a hatóság bocsátotta ki. Megkeresés csak már folyamatban levő eljárásokban terjeszthető elő.
+
+2\. Azok a Szerződő Felek, amelyek nem hoztak létre vagy nem jelöltek ki áttevő intézményt, az Európa Tanács Főtitkárához intézett nyilatkozatban megjelölhetik, hogy melyek az általuk az előző bekezdés szerinti értelemben igazságügyi hatóságnak tekintett hatóságok.
+
+3\. Két vagy több Szerződő Fél az Egyezmény alkalmazását egymás között kiterjesztheti a nem igazságügyi hatóságok által előterjesztett megkeresésekre is. Az ilyen megállapodások szövegét meg kell küldeni az Európa Tanács Főtitkárának.
+
+*4. Cikk*
+
+*A tájékoztatás iránti megkeresések tartalma*
+
+1\. A tájékoztatás iránti megkeresésnek meg kell jelölnie a megkeresést előterjesztő igazságügyi hatóságot, valamint az ügy természetét. A megkeresésnek tartalmaznia kell azokat a lehető legnagyobb pontossággal megfogalmazott kérdéseket, amelyeket illetően a megkeresett Állam jogára vonatkozó tájékoztatásra szükség van, valamint — ha a megkeresett Államban több jogrendszer van hatályban — annak a jogrendszernek a megjelölését, amelyről tájékoztatást kérnek.
+
+2\. A megkeresésben közölni kell azokat a tényeket, amelyek egyrészt annak megértéséhez, másrészt a szabatos és pontos válasz megfogalmazásához szükségesek. Amennyiben a megkeresés tartalmának megvilágításához arra szükség van, a megkereséshez okiratok másolatai is csatolhatók.
+
+3\. A megkeresés az 1. Cikk (1) bekezdésében meghatározott területeken kívül eső kérdéseket is magában foglalhat, ha azok kapcsolódnak a megkeresésben megfogalmazott fő kérdésekhez.
+
+4\. Ha a megkeresést nem igazságügyi hatóság bocsátotta ki, azt egy igazságügyi hatóságnak hitelesítő záradékkal kell ellátnia.
+
+*5. Cikk*
+
+*A tájékoztatás iránti megkeresések továbbítása*
+
+Az áttevő intézmény, illetve ennek hiányában az az igazságügyi hatóság, amelytől a megkeresés származik, a tájékoztatás iránti megkeresést közvetlenül a megkeresett Állam átvevő intézményének küldi meg.
+
+*6. Cikk*
+
+*A válaszadásra hatáskörrel bíró hatóságok*
+
+1\. Az átvevő intézmény a tájékoztatás iránti megkeresés átvételét követően azt maga is megválaszolhatja, vagy a válasz megfogalmazása végett egy másik állami vagy más hivatalos szervhez továbbíthatja.
+
+2\. Az átvevő intézmény bizonyos esetekben, illetve az igazgatási szervezetben rejlő okokból magántestülethez vagy erre képesített jogászhoz is továbbíthatja a megkeresést a válasz elkészítése végett.
+
+3\. Ha az előző bekezdés alkalmazása miatt költségek valószínű felmerülésével kell számolni, a megkeresésnek az előző bekezdés alapján történő továbbítása előtt az átvevő intézmény közli a megkeresést előterjesztő hatósággal azon magántestület vagy jogász nevét, amelyhez a megkeresést továbbítani fogja, valamint — a lehetséges pontossággal — a valószínű költségek összegét és ehhez e hatóság egyetértését kéri.
+
+*7. Cikk*
+
+*A válasz tartalma*
+
+A válasznak tárgyszerűen és részrehajlástól mentes módon kell a megkeresett Állam jogáról tájékoztatnia a megkeresést előterjesztő hatóságot. A válasznak — az esettől függően — a releváns jogszabályszövegeket és jogalkalmazói döntéseket kell magában foglalnia. Ha a megkereső hatóság megfelelő tájékoztatása érdekében ez szükségesnek tűnik, az előbbihez kiegészítő dokumentumokat is mellékelni lehet, úgymint jogtudományi művekből és jogszabály-előkészítő munkákból vett szemelvényeket. Csatolhatók indokolások, kommentárok is.
+
+*8. Cikk*
+
+*A válasz joghatásai*
+
+A válaszban adott tájékoztatás nem köti azt az igazságügyi hatóságot, amely a megkeresést előterjesztette.
+
+*9. Cikk*
+
+*A válasz közlése*
+
+A választ az átvevő intézmény az áttevő intézményhez intézi, ha a megkeresést az áttevő intézmény küldte meg; vagy az igazságügyi hatósághoz, ha a megkeresés közvetlenül ez utóbbitól érkezett.
+
+*10. Cikk*
+
+*Válaszadási kötelezettség*
+
+1\. Az átvevő intézmény a tájékoztatás iránti megkeresés átvételét követően — a 11. Cikk rendelkezéseire figyelemmel — a megkeresés alapján a 6. Cikkel összhangban megteszi a szükséges intézkedéseket.
+
+2\. Ha a választ nem az átvevő intézmény dolgozza ki, gondoskodnia kell arról, hogy a választ a 12. Cikkben foglalt feltételeknek megfelelően küldjék meg.
+
+*11. Cikk*
+
+*A válaszadási kötelezettség alóli kivételek*
+
+A megkeresett Állam megtagadhatja a tájékoztatás iránti megkeresés teljesítését, ha a megkeresés alapjául szolgáló eljárás az érdekeit sérti, vagy ha úgy ítéli meg, hogy a válasz szuverenitását vagy biztonságát hátrányosan érintheti.
+
+*12. Cikk*
+
+*A válaszadás határideje*
+
+A tájékoztatás iránti megkeresésre a lehető legrövidebb időn belül választ kell adni. Mindazonáltal, ha a válasz elkészítése hosszabb időt vesz igénybe, az átvevő intézmény tájékoztatja erről a külföldi megkereső hatóságot, és ugyanakkor — ha lehetséges — megjelöli a válasz megküldésének valószínű időpontját is.
+
+*13. Cikk*
+
+*Kiegészítő információk*
+
+1\. Az átvevő intézmény, valamint az általa a 6. Cikkel összhangban a válasz kidolgozására felhívott szerv vagy személy a válasz kidolgozásához általa szükségesnek ítélt tájékoztatás végett a megkeresést előterjesztő hatósághoz fordulhat.
+
+2\. A kiegészítő tájékoztatás iránti megkeresést az átvevő intézmény a 9. Cikkben, a válasz megküldésére előírt úton továbbítja.
+
+*14. Cikk*
+
+*Nyelvhasználat*
+
+1\. A tájékoztatás iránti megkeresést és annak mellékleteit a megkeresett Állam hivatalos nyelvén vagy egyik hivatalos nyelvén kell elkészíteni, vagy azt erre a nyelvre készült fordítással kell ellátni. A választ a megkeresett Állam a saját nyelvén adja meg.
+
+2\. Mindazonáltal két vagy több Szerződő Fél egymás között megállapodhat az előző bekezdés rendelkezéseitől való eltérésben.
+
+*15. Cikk*
+
+*Költségek*
+
+1\. A válasz nem vonhat maga után semmiféle illeték-, vagy költségfizetési kötelezettséget, kivéve a 6. Cikk (3) bekezdés szerinti költségeket, amelyeket a megkeresést előterjesztő Államnak kell viselnie.
+
+2\. Mindazonáltal két vagy több Szerződő Fél egymás között megállapodhat az előző bekezdés rendelkezéseitől való eltérésben.
+
+*16. Cikk*
+
+*Szövetségi Államok*
+
+A Szövetségi Államokban az átvevő intézménynek a 2. Cikk1/a) bekezdése alapján gyakorolt funkcióján kívüli funkciói alkotmányos okokból átruházhatók más állami szervekre.
+
+*17. Cikk*
+
+*Az Egyezmény hatálybalépése*
+
+1\. Az Egyezmény aláírásra az Európa Tanács tagállamai számára áll nyitva. Az Egyezmény megerősítésre vagy elfogadásra szorul. A megerősítési vagy elfogadási okiratokat az Európa Tanács Főtitkáránál kell letétbe helyezni.
+
+2\. Az Egyezmény a harmadik megerősítési vagy elfogadási okirat letétbe helyezésének napjától számított három hónap elteltével lép hatályba.
+
+3\. Azon aláíró Államok tekintetében, amelyek az Egyezményt annak hatálybalépését követően erősítik meg vagy fogadják el, az Egyezmény a megerősítési vagy elfogadási okirat letétbe helyezésének napjától számított három hónap elteltével lép hatályba.
+
+*18. Cikk*
+
+*Az Európa Tanács-i tagsággal nem rendelkező Államok csatlakozása*
+
+1\. Az Egyezmény hatálybalépését követően az Európa Tanács Miniszteri Bizottsága az Egyezményhez való csatlakozásra bármely nem tagállamot meghívhat.
+
+2\. Az ilyen csatlakozás a csatlakozási okiratnak az Európa Tanács Főtitkáránál való letétbe helyezésével valósul meg, és az okirat letétbe helyezésének napját követő három hónap elteltével lép hatályba.
+
+*19. Cikk*
+
+*Az Egyezmény területi hatálya*
+
+1\. Az aláírás vagy a megerősítési elfogadási vagy csatlakozási okirat letétbe helyezése időpontjában bármely Szerződő Fél meghatározhatja azt a területet vagy területeket, amelyekre az Egyezményt alkalmazni kell.
+
+2\. Megerősítési, elfogadási vagy csatlakozási okiratának letétbe helyezésekor, vagy az Európa Tanács Főtitkárához bármely későbbi időpontban intézett nyilatkozattal bármely Szerződő Fél kiterjesztheti az Egyezmény alkalmazását a nyilatkozatban megjelölt olyan területre vagy területekre, amelyek nemzetközi kapcsolataiért felelős, vagy amelyek nevében kötelezettségeket vállalhat.
+
+3\. Az előző bekezdés alapján tett nyilatkozat az abban megjelölt bármelyik terület vonatkozásában visszavonható az Egyezmény 20. Cikkében meghatározott eljárásnak megfelelően.
+
+*20. Cikk*
+
+*Az Egyezmény időbeli hatálya és felmondása*
+
+1\. Az Egyezmény határozatlan ideig marad hatályban.
+
+2\. A maga részéről bármely Szerződő Fél felmondhatja az Egyezményt az Európa Tanács Főtitkárához intézett, erről szóló értesítéssel.
+
+3\. A felmondás az arról szóló értesítésnek a Főtitkár általi átvételétől számított hat hónap elteltével lép hatályba.
+
+*21. Cikk*
+
+*Az Európa Tanács Főtitkárának feladatköre*
+
+Az Európa Tanács Főtitkára a Tanács tagállamait és az Egyezményhez csatlakozott Államokat tájékoztatja
+
+*a)* valamennyi aláírásról;
+
+*b)* valamennyi megerősítési, elfogadási vagy csatlakozási okirat letétbe helyezéséről;
+
+*c)* az Egyezménynek bármely, a 17. Cikknek megfelelő hatálybalépése időpontjáról;
+
+*d)* az 1. Cikk (2) bekezdése, a 2. Cikk (3) bekezdése, a 3. Cikk (2) bekezdése, valamint a 19. Cikk (2) és (3) bekezdése rendelkezéseivel összhangban kapott nyilatkozatokról;
+
+*e)* a 20. Cikk rendelkezéseinek megfelelő értesítésekről és a felmondás hatálybalépésének időpontjáról.
+
+Ennek hiteléül az erre kellően felhatalmazott alulírottak ezt az Egyezményt aláírták.
+
+Készült Londonban, 1968. június 7-én francia és angol nyelven — mindkét szöveg egyaránt hiteles —, egyetlen példányban, amelyet az Európa Tanács irattárában helyeznek letétbe, és amelynek hiteles másolatait az Európa Tanács Főtitkára minden aláíró és csatlakozó Államnak megküldi.
+
+Európa Tanács 97. szám
+
+A külföldi jogról való tájékoztatásról szóló\
+Európai Egyezmény\
+Kiegészítő Jegyzőkönyve
+
+Strasbourg, 1978. március 15.
+
+Az Európa Tanács alulírott Tagállamai,
+
+A külföldi jogról való tájékoztatásról szóló, Londonban, 1968. június 7-én aláírásra megnyílt Európai Egyezmény (a továbbiakban: az Egyezmény) rendelkezéseire tekintettel;
+
+számításba véve, hogy az Egyezmény által létrehozott nemzetközi kölcsönös segélynyújtási rendszert kívánatos lenne a büntetőjog és a büntető eljárási jog területére is kiterjeszteni, mégpedig az Egyezményben részes valamennyi Szerződő Fél számára nyitva álló sokoldalú keretben;
+
+tekintetbe véve, hogy az Egyezmény által létrehozott rendszert a polgári és kereskedelmi jogi ügyekben nyújtott jogsegély és jogi tanácsadás területére is kívánatos lenne kiterjeszteni, hogy ezáltal elháruljanak az eljárás megindításának útjában álló, vagyoni természetű akadályok, és a vagyoni, jövedelmi viszonyok szempontjából gyengébb helyzetben lévő személyek részére is könnyebbé váljék jogaik érvényesítése a Tagállamokban;
+
+megjegyezve, hogy az Egyezmény 1. Cikk (2) bekezdése értelmében két vagy több Szerződő Fél elhatározhatja, hogy az Egyezmény alkalmazási körét egymás között az Egyezményben meghatározott területeken kívüli más területekre is kiterjeszti;
+
+megjegyezve, hogy az Egyezmény 3. Cikkének (3) bekezdése értelmében két vagy több Szerződő Fél elhatározhatja, hogy az Egyezmény alkalmazását egymás között olyan megkeresésekre is kiterjeszti, amelyek nem igazságügyi hatóságtól származnak;
+
+a következőkben állapodtak meg:
+
+I. FEJEZET
+
+*1. Cikk*
+
+A Szerződő Felek kötelezettséget vállalnak arra, hogy az Egyezmény rendelkezéseivel összhangban tájékoztatják egymást büntető anyagi és büntető eljárásjogukról, valamint a büntető ügyekben eljáró igazságügyi szervezetről, beleértve a vádhatóságokat és a büntető intézkedések végrehajtásával kapcsolatos jogot. Ez a kötelezettségvállalás azon bűncselekményekkel kapcsolatos eljárásokra vonatkozik, amelyek tekintetében a vádemelés — a tájékoztatás iránti megkeresés előterjesztésének időpontjában — a megkereső Fél igazságügyi hatóságainak joghatósága alá tartozik.
+
+*2. Cikk*
+
+Az 1. Cikk szerinti kérdéskörrel kapcsolatos tájékoztatás iránti megkeresést
+
+*a)* nemcsak bíróság, hanem bármilyen igazságügyi hatóság előterjesztheti, amelynek a bűnüldözés vagy a jogerős ítéletek végrehajtása a hatáskörébe tartozik;
+
+*b)* nemcsak folyamatban lévő eljárásokban, hanem valamely eljárás megindítását megelőzően is elő lehet terjeszteni.
+
+II. FEJEZET
+
+*3. Cikk*
+
+Az Egyezmény 1. Cikkének (1) bekezdésében foglalt kötelezettségvállalás keretén belül a Szerződő Felek megállapodnak abban, hogy tájékoztatás iránti megkeresést
+
+*a)* nemcsak igazságügyi hatóság terjeszthet elő, hanem bármely, a jogsegély vagy jogi tanácsadás hivatalos rendjében a jövedelmi, vagyoni szempontból gyengébb helyzetben lévő személyek nevében eljáró hatóság vagy személy is;
+
+*b)* nemcsak folyamatban lévő eljárásban, hanem valamely eljárás megindítását megelőzően is elő lehet terjeszteni.
+
+*4. Cikk*
+
+1\. Azoknak a Szerződő Feleknek, amelyek nem állítottak fel vagy nem jelöltek ki egy vagy több szervet az Egyezmény 2. Cikk (2) bekezdése szerinti áttevő intézményként, ilyen intézményt vagy intézményeket kell felállítaniuk vagy kijelölniük az e Jegyzőkönyv 3. Cikkével összhangban előterjesztett tájékoztatás iránti megkereséseknek a megfelelő külföldi átvevő intézményhez való továbbítása végett.
+
+2\. A Szerződő Felek közlik az Európa Tanács Főtitkárával az előző bekezdéssel összhangban felállított vagy kijelölt áttevő intézmény vagy intézmények nevét és címét.
+
+III. FEJEZET
+
+*5. Cikk*
+
+1\. Az aláírás vagy a megerősítési, elfogadási, jóváhagyási vagy csatlakozási okirat letétbe helyezése időpontjában bármely Állam nyilatkozhat arról, hogy a Jegyzőkönyv I. és II. Fejezete közül csak az egyiket vagy csak a másikat tekinti magára nézve kötelezőnek.
+
+2\. Bármely Állam, amely ilyen nyilatkozatot tett, az azt követően bármely időpontban az Európa Tanács Főtitkárához intézett értesítéssel kinyilváníthatja, hogy mind az I., mind a II. Fejezet rendelkezéseit magára nézve kötelezőnek tekinti. Az ilyen értesítés az átvételének időpontjától kezdve hatályos.
+
+3\. Bármely Szerződő Fél, amelyet mind az I., mind a II. Fejezet rendelkezései kötnek, az Európa Tanács Főtitkárához intézett értesítéssel bármikor kinyilváníthatja, hogy az I. és II. Fejezet közül csak az egyiket vagy a másikat tekinti magára nézve kötelezőnek. Az ilyen értesítés az átvételének időpontjától számított hat hónap elteltével lép hatályba.
+
+4\. Az I. vagy II. Fejezet rendelkezéseit csak azon Szerződő Felek között kell alkalmazni, amelyeket — az esettől függően — ugyanazon Fejezet rendelkezései kötnek.
+
+*6. Cikk*
+
+1\. Ez a Jegyzőkönyv aláírásra nyitva áll az Európa Tanácsnak az Egyezményt aláíró Tagállamai számára, amelyek az alábbi módokon válhatnak a Jegyzőkönyv részesévé:
+
+*a)* megerősítés, elfogadás vagy jóváhagyás fenntartása nélküli aláírással;
+
+*b)* a megerősítés, elfogadás vagy jóváhagyás fenntartásával történő aláírással, amelyet megerősítés, elfogadás vagy jóváhagyás követ.
+
+2\. A megerősítési, elfogadási vagy jóváhagyási okiratot az Európa Tanács Főtitkáránál kell letétbe helyezni.
+
+3\. Az Európa Tanács Tagállama csak akkor írhatja alá a megerősítés, elfogadás vagy jóváhagyás fenntartása nélkül ezt a Jegyzőkönyvet, illetve azt csak akkor erősítheti meg, fogadhatja el vagy hagyhatja jóvá, ha azt megelőzően vagy azzal egyidőben megerősítette vagy elfogadta az Egyezményt.
+
+*7. Cikk*
+
+1\. Ez a Jegyzőkönyv azon időponttól számított három hónap elteltével lép hatályba, amelyen az Európa Tanács három tagállama a 6. Cikk rendelkezéseivel összhangban a Jegyzőkönyv részesévé vált.
+
+2\. Azon Tagállamok tekintetében, amelyek ezt követően írják alá a megerősítés, elfogadás vagy jóváhagyás fenntartása nélkül a Jegyzőkönyvet, vagy ezt követően erősítik meg, fogadják el vagy hagyják jóvá azt, a Jegyzőkönyv az aláírás vagy a megerősítési, elfogadási vagy jóváhagyási okirat letétbe helyezésének napjától számított három hónap elteltével lép hatályba.
+
+*8. Cikk*
+
+1\. E Jegyzőkönyv hatálybalépését követően a Miniszteri Bizottság minden olyan Államot meghívhat a Jegyzőkönyvhöz való csatlakozásra, amely az Egyezményhez csatlakozott vagy amelyet arra meghívtak.
+
+2\. Az ilyen csatlakozás a csatlakozási okiratnak az Európa Tanács Főtitkáránál való letétbe helyezésével valósul meg, és az okirat letétbe helyezésének napjától számított három hónap elteltével lép hatályba.
+
+*9. Cikk*
+
+1\. Az aláírás vagy a megerősítési, elfogadási, jóváhagyási vagy csatlakozási okirat letétbe helyezése időpontjában bármely Állam meghatározhatja azt a területet vagy területeket, amelyekre a Jegyzőkönyvet alkalmazni kell.
+
+2\. Megerősítési, elfogadási, jóváhagyási vagy csatlakozási okiratának letétbe helyezésekor vagy az Európa Tanács Főtitkárához bármely későbbi időpontban intézett nyilatkozattal bármely Állam kiterjesztheti e Jegyzőkönyv alkalmazását a nyilatkozatban meghatározott olyan területre vagy területekre, amelyek nemzetközi kapcsolataiért felelős vagy amelyek nevében kötelezettségeket vállalhat.
+
+3\. Az előző bekezdés alapján tett nyilatkozat az abban meghatározott bármelyik terület vonatkozásában visszavonható az Európa Tanács Főtitkárához intézett értesítéssel. Az ilyen visszavonás az értesítésnek az Európa Tanács Főtitkára általi átvételétől számított hat hónap elteltével lép hatályba.
+
+*10. Cikk*
+
+1\. A maga részéről bármely Szerződő Fél felmondhatja ezt a Jegyzőkönyvet az Európa Tanács Főtitkárához intézett, erről szóló értesítéssel.
+
+2\. A felmondás az erről szóló értesítésnek az Európa Tanács Főtitkára általi átvételétől számított hat hónap elteltével lép hatályba.
+
+3\. Az Egyezmény felmondása automatikusan maga után vonja a Jegyzőkönyv felmondását is.
+
+*11. Cikk*
+
+Az Európa Tanács Főtitkára a Tanács Tagállamait és az Egyezményhez csatlakozott Államokat tájékoztatja
+
+*a)* a megerősítés, elfogadás vagy jóváhagyás fenntartása nélküli valamennyi aláírásról;
+
+*b)* a megerősítés, elfogadás vagy jóváhagyás fenntartásával történt valamennyi aláírásról;
+
+*c)* a megerősítési, elfogadási, jóváhagyási vagy csatlakozási okiratok letétbe helyezéséről;
+
+*d)* e Jegyzőkönyv valamennyi, a 7. Cikknek megfelelő hatálybalépése időpontjáról;
+
+*e)* a 4. Cikk rendelkezései értelmében kapott valamennyi értesítésről;
+
+*f)* az 5. Cikk rendelkezései értelmében kapott valamennyi nyilatkozatról vagy értesítésről;
+
+*g)* a 9. Cikk rendelkezései értelmében kapott valamennyi nyilatkozatról és e nyilatkozatok visszavonásáról;
+
+*h)* a 10. Cikk rendelkezései értelmében kapott valamennyi értesítésről és a felmondás hatálybalépésének időpontjáról.
+
+Fentiek hiteléül az erre kellően felhatalmazott alulírottak ezt a Jegyzőkönyvet aláírták.
+
+Készült Strasbourgban, 1978. március 15-én, angol és francia nyelven — mindkét szöveg egyaránt hiteles —, egyetlen példányban, amelyet az Európa Tanács irattárában helyeznek letétbe, és amelynek hiteles másolatait az Európa Tanács Főtitkára valamennyi aláíró és csatlakozó Államnak megküldi.''
+
+## 3. §
+
+(1)[^1] E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. február 16. napjától kell alkalmazni. Végrehajtásáról az igazságügyért felelős miniszter gondoskodik.
+
+(2)[^2]
+
+---
+
+[^1]: A 3. § (1) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1466. pontja hatályon kívül helyezte.

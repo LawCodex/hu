@@ -1,0 +1,354 @@
+---
+title: "77/1994. (V. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Köztársaság Kormánya között a nemzetközi áruszállításról szóló egyezmény kihirdetéséről"
+identifier: "77/1994. (V. 19.) Korm. rendelet"
+njt_id: "1994-77-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/77"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-05-19
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-77-20-22"
+retrieved: 2026-10-12
+---
+
+# 77/1994. (V. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Köztársaság Kormánya között a nemzetközi áruszállításról szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Köztársaság Kormánya között Bécsben, 1993. augusztus 17-én aláírt nemzetközi áruszállítási egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya\
+és az Osztrák Köztársaság Kormánya között\
+a nemzetközi áruszállításról
+
+*PREAMBULUM*
+
+A Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya
+
+figyelembe véve azt a tényt, hogy a Magyar Népköztársaság Közlekedési és Postaügyi Minisztériuma és az Osztrák Köztársaság Kereskedelmi és Újjáépítési Szövetségi Minisztériuma között 1960. december 21-én aláírt, tehergépkocsikkal végzett nemzetközi árufuvarozási egyezmény politikai, gazdasági, közlekedéspolitikai és környezetvédelmi okokból módosításra szorul,
+
+abban a törekvésben, hogy főként a Szerződő Államok közötti külkereskedelem követelményeit megfelelően tekintetbe vegyék,
+
+abban a törekvésben, hogy a közúti, vasúti, belvízi és kombinált áruszállítást mindenfajta nemzeti diszkriminációtól mentesen a viszonosság alapján, a nemzetiségi okokból való mindenfajta diszkrimináció nélkül szabályozzák a két Szerződő Állam között, miközben rögzítik, hogy a közlekedés területén beszedendő adó, illetve illetékfizetési kötelezettségek kérdéséről a nemzeti szabályozásokban döntenek, és azokat a jelen Egyezmény nem érinti,
+
+abban a törekvésünkben, hogy a Szerződő Államok közötti árufuvarozást úgy rendezzék, hogy a lakosság életminőségét és Magyarország, illetve Ausztria érintett területeinek környezetvédelmét a lehető legnagyobb mértékben biztosítsák, hogy a közúti fuvarozás által okozott megterheléseket mennyiségileg és minőségileg a lehető leghamarabb csökkentsék,
+
+abban a törekvésükben, hogy biztosítsák azt a körülményt, hogy a nemzetközi áruszállításban a mindenkor legújabb környezetkímélő technológiák a technika adott állásának megfelelően — főképp ami az igénybe vett szállítóeszközök által előidézett zajártalom és káros anyag emisszió minimalizálását illeti — alkalmazásra kerüljenek,
+
+attól a felismeréstől vezérelve, hogy az árufuvarozásnak a lehető legnagyobb mértékben a közútról a vasútra vagy a belvízi hajózásra való átterelése szükségessé vált,
+
+abban a törekvésükben, hogy előnyben kell részesíteni a veszélyes áruk fokozott átterelését a közútról a vasútra, illetve a belvízi hajózásra,
+
+abban az eltökélt szándékban, hogy jelen Egyezmény célkitűzéseinek megvalósítására a szállítási keresletet mindinkább a vasút és a belvízi hajózás magas színvonalú közlekedési szolgáltatásaival, mindenekelőtt a kombinált forgalom technikáinak az alkalmazásával elégítsék ki,
+
+a következőkben állapodtak meg:
+
+I. RÉSZ
+
+*ALKALMAZÁSI TERÜLET*
+
+*1. Cikkely*
+
+1\. Jelen Egyezmény a Magyarország és Ausztria között végzett, továbbá az országok területén áthaladó nemzetközi áruszállításban kerül alkalmazásra.
+
+2\. Jelen Egyezmény hatálya kiterjed
+
+az üzemeltetők szempontjából a nemzetközi
+
+— vasúti-közúti kombinált forgalomra,
+
+— belvízi-közúti kombinált forgalomra,
+
+— vasúti áruszállításra,
+
+— közúti áruszállításra olyan tehergépjárművek alkalmazása esetén, ahogyan ezeket a 2. Cikkely 2. pontja meghatározza;
+
+a forgalom fajtái szerint a nemzetközi
+
+— díj ellenében végzett árutovábbításra, beleértve az üres tehergépjárművekkel való forgalmat,
+
+— saját számlás szállítás (üzemi szállítás), beleértve az üres tehergépjárművekkel való forgalmat,
+
+valamint a kombinált áruszállításhoz csatlakozó fel- és elfuvarozásra valamelyik Szerződő Államban.
+
+II. RÉSZ
+
+FOGALMAK MEGHATÁROZÁSA\
+ÉS ELHATÁROLÁSOK
+
+*2. Cikkely*
+
+Jelen Egyezmény értelmében
+
+1\. *Kombinált forgalom*
+
+*a)* áruszállítás közúton tehergépjárművel, ha az a szokásos legrövidebb, szállításgazdaságilag elvárható, közlekedésgazdaságilag elfogadható és a közlekedési szabályok alapján megengedett útvonalon bonyolódik le, és ha a felrakó pályaudvar/belvízi kikötő (terminál) a Szerződő Államok valamelyikében van, a feladótól a legközelebbi műszakilag erre alkalmas terminálig (felfuvarozás), valamint
+
+*b)* az áruszállítás a felrakó pályaudvartól/belvízi kikötőtől a lerakó pályaudvarig/belvízi kikötőig vasúton vagy belvízi hajó segítségével tehergépjárművel vagy csere-szekrénnyel (Huckepack), vagy legalább hat méter hosszúságú konténerrel (konténerforgalom), miközben át kell lépni a két Szerződő Állam közti határt, valamint
+
+c) áruszállítás közúton tehergépjárművek segítségével, ha az a szokásos legrövidebb, a közlekedésgazdaságilag elvárható és a közlekedési szabályok alapján megengedett útvonalon bonyolódik és a lerakó pályaudvar/belvízi kikötő (terminál) a Szerződő Államok valamelyikében van, a legközelebbi műszakilag erre alkalmas terminálról kiindulva a címzettig (elfuvarozás).
+
+2\. *Tehergépjármű*
+
+Minden egyes áruszállításra rendszeresített gépjármű, beleértve a tehergépkocsikat, nyerges vontatókat, pótkocsikat, félpótkocsikat és járműszerelvényt (a továbbiakban: tehergépjármű).
+
+3\. *Saját számlás áruszállítás*
+
+Áruk szállítása tehergépjárművekkel, amennyiben a következő feltételek valósulnak meg:
+
+*a)* a szállított áruk a vállalat tulajdona kell hogy legyenek, vagy az szükséges, hogy a vállalat eladta, megvette, bérbe adta, bérbe vette, gyártotta, kinyerte, feldolgozta vagy kijavította ezeket;
+
+*b)* a szállítás arra kell, hogy szolgáljon, hogy ezeket az árukat a vállalathoz eljuttassa, onnan elszállítsa, hogy a vállalaton belül vagy — saját szükségletek kielégítésére — a vállalaton kívül szállítsa;
+
+*c)* a szállításra használt tehergépjárműveket a vállalat saját alkalmazottja kell hogy vezesse;
+
+*d)* az árukat szállító tehergépjárművek a vállalat tulajdonában kell hogy legyenek, vagy pedig az szükséges, hogy a vállalat részletre vásárolta, vagy bérbe vette ezeket;
+
+*e)* a szállítás a vállalat teljes tevékenységi körén belül csak kisegítő tevékenység lehet.
+
+4\. *Kabotázs*
+
+Áruk felvétele a másik Szerződő Állam felségterületén ezen felségterületen belüli árutovábbítás céljából.
+
+III. RÉSZ
+
+A VASUTAK EGYÜTTMŰKÖDÉSE\
+ÉS A KOMBINÁLT FORGALOM
+
+*3. Cikkely*
+
+*Az együttműködés alapelvei és kritériumai*
+
+A Szerződő Felek kötelezettséget vállalnak, hogy a vasutak együttműködésére, valamint a kombinált árufuvarozás erőteljesebb ösztönzésére a Szerződő Államok között, valamint a Szerződő Államok felségterületén át harmadik országba az alábbi alapelvek és kritériumok alapján kerüljön sor:
+
+1\. A Szerződő Felek egyetértenek abban, hogy minden szükséges és nemzetgazdaságilag vállalható intézkedést meghoznak, hogy minél nagyobb piaci részesedést biztosítanak a vasúti áruszállításnak a nemzetközi árufuvarozásból a két ország között, valamint az egyik vagy mindkét Szerződő Államon átmenő forgalomból Magyarország és Ausztria között. Ebből a célból felszólítják a vasúti társaságokat, hogy versenyképes ajánlatokat dolgozzanak ki, amelyek a különleges fuvarozási minőség, a rövid szállítási idők és differenciált fuvarozási tarifák révén versenyképesek a többi fuvarozási ággal szemben.
+
+2\. A Szerződő Felek egyetértenek abban, hogy minden szükséges intézkedést megtesznek annak érdekében, hogy garantálják, hogy a gyakorlatban hasznosítható vasúti kapacitásokat a hagyományos vasúti áruszállításban és a kombinált forgalomban teljesen kihasználják.
+
+*4. Cikkely*
+
+*A vasúti forgalom és a kombinált forgalom ösztönzése*
+
+1\. A Szerződő Felek megbízzák a vasúti társaságokat azzal, hogy a már megkezdett intézkedéseket a Budapest és Bécs közötti szállítási idők lerövidítésére folytassák, és sürgősen javítsák a vasúti közlekedés kínálatának minőségét.
+
+2\. A Szerződő Felek hatni fognak arra, hogy a vasúti társaságok és a kombinált forgalom társaságai illetékességük keretében irányozzák elő az ehhez szükséges nemzetgazdaságilag vállalható intézkedéseket, főképp ami
+
+*a)* a nagyobb sebesség elérésére alkalmas vonalvezetést,
+
+*b)* a nagyobb sebesség elérésére és a nagyobb tengelyterhelésre alkalmas pálya kialakítását illeti,
+
+*c)* a nagyobb sebesség elérésére alkalmas és a nagyobb vontatási teljesítménynek megfelelő vontatási áramellátást illeti,
+
+*d)* a nagyobb sebesség elérésére alkalmas és a nagyobb teljesítőképességnek megfelelő biztosítóberendezések létrehozását illeti,
+
+*e)* bizonyos konkrét pályaudvarok és infrastruktúrák kiépítését illeti,
+
+*f)* a területet lefedő terminálhálózat létrehozását és a meglévő terminálok kapacitásának bővítését illeti,
+
+*g)* gördülő anyag (vagonok és mozdonyok) koordinált beszerzését és finanszírozását illeti, úgy, hogy figyelembe vegyék a vasúti kapacitások kibővítését,
+
+*h)* a vasúti társaságok közötti kompatibilis, komputer-támogatott áruinformációs rendszer létrehozását illeti,
+
+*i)* minden lehetőség kiaknázását illeti, hogy a Magyarország és Ausztria között bevezetésre kerüljön a vasúti áruszállításban a teherkocsik bizalmi elven történő átvétele,
+
+*j)* a veszélyes áruk szállítására, valamint a hőmérsékletre érzékeny áruk szállítására szolgáló, a kereslethez igazodó módozatok kifejlesztését illeti.
+
+3\. A Szerződő Felek gondoskodnak arról is, hogy a vasúti társaságok és a kombinált fuvarozást végző társaságok által felkínált fuvarozási módozatok együttműködésben kerüljenek a piacon felhasználásra.
+
+4\. Ami a 2. pontban foglalt intézkedések konkretizálását illeti, a részletek rögzítésére kiegészítő jegyzőkönyvben kerül sor.
+
+*5. Cikkely*
+
+*Határkezelés*
+
+A Szerződő Felek egyetértenek abban, hogy a magas minőségi színvonalú fuvarozási kínálat elérése érdekében Magyarország és Ausztria között az áruszállításban jelentősen csökkenteni szükséges a határon való tartózkodás időtartamát. Ebből a célból a Szerződő Felek kötelezettséget vállalnak, gondoskodnak arról, hogy a terminálokon lényegesen meggyorsítsák a műszaki, üzemviteli és szervezési folyamatokat, és hogy elsősorban a kombinált forgalomban a határkezelést a terminálokra helyezik át.
+
+*6. Cikkely*
+
+*Vasúti összeköttetések kiépítése*
+
+Szerződő Felek egyetértenek abban, hogy a Bécs—Hegyeshalom—Budapest vasúti összeköttetés mellett a többi Magyarország és Ausztria közötti vasúti összeköttetésre, főképp az Ebenfurth—Sopron—Győr, valamint a Neusiedl/See—Fertőszentmiklós közötti összeköttetésre is figyelmet kell fordítani. Ezzel kapcsolatban a Szerződő Felek koncepciót dolgoznak majd ki a kínálat megjavítására, és az ezzel kapcsolatos intézkedések megtételére.
+
+IV. RÉSZ
+
+*KÖZÚTI ÁRUSZÁLLÍTÁS*
+
+*7. Cikkely*
+
+*Engedélyköteles forgalmak*
+
+1\. Az alkalmazási területen felsorolt közlekedési módok esetén, amennyiben az árutovábbítás közúton történik, annak a Szerződő Államnak az engedélyére van szükség, amelynek területén az árut továbbítják.
+
+2\. Az engedélyeket egyszer felhasználható engedélyekként vagy időre szóló engedélyekként adják ki kontingens-megállapodás keretében a 12. Cikkely értelmében, éspedig
+
+*a)* szabványengedélyként,
+
+*b)* korlátozott érvényű engedélyként (például: helyi forgalomban, árufajták szerint, bizonyos gépjárművekre, vagy pedig a szállítás módozata szerint).
+
+*8. Cikkely*
+
+*Engedélymentes forgalmak*
+
+1\. Engedélyre nincs szükség az alábbi esetekben:
+
+*a)* áruk alkalmi szállítása repülőterekre vagy repülőterekről, a repülőjáratok alkalmi átirányítása esetén;
+
+*b)* poggyász szállítása olyan gépjárművek pótkocsijaiban, amelyekkel rendeltetésszerűen szállítanak utasokat, poggyász szállítása repülőterekre és repülőterekről mindenfajta gépjárművel;
+
+*c)* postai küldemények szállítása;
+
+*d)* sérült vagy javításra szoruló járművek szállítása;
+
+*e)* méhek és halivadék szállítása;
+
+*f)* holttestek szállítása;
+
+*g)* áruk szállítása olyan tehergépjárművekkel, amelyeknek megengedett összsúlya, beleértve a pótkocsik össztömegét, nem haladja meg a 6 tonnát, vagy amelyeknek megengedett hasznos terhelhetősége, beleértve a pótkocsik hasznos terhelését, nem haladja meg a 3,5 tonnát;
+
+*h)* az egészségügyi ellátást szolgáló javak szállítása sürgős veszélyhelyzetekben való segítségnyújtás céljából (főképp természeti katasztrófák esetén);
+
+*i)* magas értékű áruk (pl. nemesfémek) szállítása speciális járművekben, amelyeket rendőrségi járművek vagy egyéb biztonsági erők kísérnek;
+
+*j)* tengeri hajókhoz és repülőgépekhez szükséges pótalkatrészek szállítása;
+
+*k)* az áruszállításban alkalmazott gépjármű üres futása, amely egy olyan tehergépjárművet pótol, amely nem abban az országban hibásodott meg, mint ahol a hatósági engedélyét kiadták, valamint a vontató gépjárművel való szállítás folytatása a meghibásodott jármű számára kiadott engedély alapján;
+
+*l)* műtárgyak és művészeti objektumok szállítása kiállításokra, valamint a vásárokon bemutatandó áruk szállítása;
+
+*m)* kizárólag reklám vagy oktatás céljait szolgáló áruk alkalmi szállítása;
+
+*n)* készülékek, kellékek és állatok szállítása színházi, zenei, film-, sport- és cirkuszrendezvényekre, kiállításokra vagy vásárokra és vissza, valamint rádiós, film- vagy televíziós felvételekre és vissza;
+
+*o)* egyes rendkívüli esetekben olyan oszthatatlan (szétszerelhetetlen) tárgyak szállítása, amennyiben olyan tehergépjárművel szállítják, amelyre a mindenkori nemzeti előírások szerint kivételes engedély került kiadásra az illetékes hatóság részéről a legnagyobb megengedett összsúly tekintetében a konkrét esetben.
+
+2\. A Szerződő Felek megállapodhatnak abban, hogy bizonyos vagy mindenfajta áru szállításához a nemzetközi forgalom bizonyos útszakaszain nincs szükség engedélyre.
+
+*9. Cikkely*
+
+*Az engedély tartalma*
+
+1\. Minden tehergépjárműre — kivéve a 8. Cikkelyben meghatározott eseteket — engedély kiállítása szükséges.
+
+2\. Az engedélynek a következő adatokat kell tartalmaznia:
+
+*a)* a vállalkozó nevét és címét;
+
+*b)* a jármű forgalmi rendszámát;
+
+*c)* a jármű megengedett legnagyobb hasznos terhelését és megengedett összsúlyát;
+
+*d)* a szállítás módját (díj ellenében végzett árutovábbítás, saját számlás áruszállítás, üresjárat);
+
+*e)* adott esetben a felhasználásra vonatkozó különleges kikötéseket és feltételeket;
+
+*f)* az érvényesség időtartamát.
+
+3\. Az engedély kizárólag arra a vállalkozóra érvényes, akinek nevére állították ki, és nem ruházható át.
+
+4\. Az engedélyeket az egyik Szerződő Állam illetékes hatóságai átadják a mindenkori másik Szerződő Állam illetékes hatóságának, amely hatóság az engedélyeket kitöltve — a 2. pont *b)* és *c)* alatt szereplő adatokat kivéve — kiadja a figyelembe vehető vállalkozónak. A 2. pont *b)* és *c)* alatt szereplő adatokat a vállalkozónak, illetve a Szerződő Állam döntése alapján illetékes hatóságnak kell kitöltenie.
+
+5\. A Szerződő Felek megállapodnak az engedély külső formájában és a nyelvben, amelyben ez kiállításra kerül.
+
+6\. Az engedély két útra érvényes, itt egy oda- és visszaútról, két odaútról vagy két visszaútról lehet szó. Az engedély csak a kontingens időtartama alatt és az azt követő hónapban érvényes, hacsak a Vegyesbizottság (15. Cikkely) nem dönt egy másik eljárás követéséről.
+
+7\. Egy Szerződő Állam sem adhat ki saját vállalkozóinak nagyobb számú engedélyt, mint amiben a kontingensre vonatkozó megállapodásban megegyeztek.
+
+*10. Cikkely*
+
+*A kabotázs tilalma*
+
+Alapvetően kölcsönös kabotázstilalom van érvényben. Csak a kombinált forgalom fel- és elfuvarozásának vonatkozásában állapodhatnak meg a Felek abban, hogy kölcsönösségi alapon bizonyos számú kabotázsútra kerülhet sor.
+
+*11. Cikkely*
+
+*Az engedély visszavonása*
+
+1\. Amennyiben egy vállalat vét a jelen Egyezmény rendelkezései ellen, annak a Szerződő Államnak a hatósága, amelyben azt a kihágást elkövették, kérheti, hogy a vállalkozónak átmenetileg ne adjanak ki további engedélyt abban az államban való fuvarozás céljából, amelyben elkövette a szabálysértést.
+
+2\. A Szerződő Felek megállapodnak abban, hogy nem fogadnak el olyan engedélyeket, amelyek olyan fuvarozó részére kerültek kiadásra, aki több alkalommal vétett jelen Egyezmény rendelkezései ellen.
+
+3\. Mindkét Szerződő Állam hatóságai tájékoztatni fogják egymást az 1. bekezdés minden megsértéséről, valamint a 2. bekezdés szerinti intézkedésekről.
+
+*12. Cikkely*
+
+*Engedélyek darabszáma*
+
+Az engedélyek (kontingensek) számában, az érvényességükben, valamint az átadás időpontjában és ütemezésében a Szerződő Felek a Vegyesbizottság javaslatára mindenkor 12 hónapra előre állapodnak meg.
+
+Itt figyelembe kell venni a preambulumban, valamint a 3. Cikkelyben említett alapelveket és kritériumokat.
+
+*13. Cikkely*
+
+*Környezetbarát tehergépjárművek*
+
+Összhangban a lakosság és a környezet védelmének célkitűzéseivel minél korábbi időpontban a technika állásának megfelelő környezetbarát tehergépjárműveket kívánatos üzembe helyezni. A Vegyesbizottság intézkedéseket fog javasolni ilyen tehergépjárművek felhasználásának előmozdítására, valamint javaslatokat arra vonatkozóan, hogy a megállapított kontingens egészét vagy bizonyos részét effajta tehergépjárművek használatához kötik.
+
+*14. Cikkely*
+
+*A vasúti szállításra különlegesen alkalmas áruk*
+
+A Szerződő Felek ígéretet tesznek arra vonatkozóan, hogy a vállalatok termelési követelményeinek figyelembevételével megvizsgálják, hogy milyen feltételek alapján lehetne bizonyos áruk szállítását teljesen vagy részben a közútról a vasútra áthelyezni.
+
+V. RÉSZ
+
+*VEGYESBIZOTTSÁG*
+
+*15. Cikkely*
+
+1\. A Szerződő Felek jelen Egyezmény intézkedéseinek végrehajtására Vegyesbizottságot hoznak létre.
+
+2\. A Vegyesbizottság évenként vagy a Szerződő Felek valamelyikének kérésére ül össze, és döntéseit egyetértésben hozza meg.
+
+3\. A Vegyesbizottság rendszeresen beszámol a Szerződő Feleknek a célkitűzések eléréséről többek között a kombinált forgalom továbbfejlesztésére, a forgalomnak a közlekedési módozatokra való felosztására vonatkozóan, valamint az engedélyek kiadásának állásáról és körülményeiről, valamint arról, hogy a megállapított kontingens elégségesnek bizonyul-e.
+
+4\. Amennyiben a Vegyesbizottság más államigazgatási területekre vonatkozó kérdéseket tárgyal meg, az illetékes hatóságok képviselői meghívást kapnak.
+
+VI. RÉSZ
+
+ZÁRÓ RENDELKEZÉSEK
+
+*16. Cikkely*
+
+Amennyiben a megnövekedett árucsere az előrehaladó európai integrációra való tekintettel is jelen Egyezmény előírásainak betartásával már nem bonyolítható le, és a 15. Cikkelyben említett Vegyesbizottságnak nem sikerül egyetértést elérnie a probléma megoldásában, a Szerződő Felek haladéktalanul tárgyalásokat kezdenek jelen Egyezmény megváltoztatásáról, illetve újjászövegezéséről.
+
+*17. Cikkely*
+
+*Hatálybalépés*
+
+Jelen Egyezmény 1994. január 1-jével lép hatályba. Ugyanakkor hatályát veszti a Magyar Népköztársaság Közlekedési és Postaügyi Minisztériuma és az Osztrák Köztársaság Kereskedelmi és Újjáépítési Minisztériuma között 1960. december 21-én megkötött nemzetközi közúti áruforgalmi megállapodás.
+
+*18. Cikkely*
+
+*A szerződés időtartama*
+
+Jelen Egyezmény háromévi időtartamra érvényes. Érvényessége mindenkor egy-egy további évvel hosszabbodik meg, hacsak a Szerződő Felek valamelyike nem mondja fel három hónappal ennek a határidőnek a letelte előtt.
+
+Megköttetett Bécsben, 1993. augusztus 17-én, két eredeti példányban, magyar és német nyelven, mindkét nyelvű példány hiteles.
+
+A Magyar Köztársaság Kormánya részéről\
+a közlekedési, hírközlési és vízügyi miniszter:\
+*Dr. Schamschula György*s. k.
+
+Az Osztrák Köztársaság Kormánya részéről\
+az államosított ipari és szövetségi közlekedési miniszter:\
+*Mag. Viktor Klima* s. k.''
+
+## 3. §
+
+(1)[^1] Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1994. január 1-jétől kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1431. pontja hatályon kívül helyezte.

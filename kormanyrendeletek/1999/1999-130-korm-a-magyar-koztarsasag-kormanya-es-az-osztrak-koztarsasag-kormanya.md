@@ -1,0 +1,347 @@
+---
+title: "130/1999. (VIII. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállítási, Koppenhágában, 1998. május 26-án aláírt Megállapodás kihirdetéséről"
+identifier: "130/1999. (VIII. 26.) Korm. rendelet"
+njt_id: "1999-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-08-26
+in_force_from: 1999-08-26
+last_amended: 1999-08-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/1999. (VIII. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállítási, Koppenhágában, 1998. május 26-án aláírt Megállapodás kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1999. május 10. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállítási, Koppenhágában, 1998. május 26-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti forgalomban lebonyolódó nemzetközi közúti személyszállításról
+
+*Preambulum*
+
+A Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+abban a tudatban, hogy az 1993. március 17-én, Bécsben megrendezett Közép-európai Konferencia határozatai alapján a közúti közlekedésbiztonság biztosítása és növelése érdekében a nemzetközi közúti személyszállítás terén is intézkedések meghozatala szükséges,
+
+abban az elhatározásban, hogy a magas színvonalú üzembiztonság megvalósítása érdekében – különösen a zaj- és károsanyag-kibocsátás minimalizálását, valamint a magas színvonalú biztonságtechnikai standardok biztosítását illetően – a mindenkori technika állása szerinti legkorszerűbb technológiák kerüljenek alkalmazásra,
+
+abban a törekvésben, hogy jelen Megállapodás révén a két állam közötti nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállítást ily módon szabályozzák, valamint annak szervezését és lebonyolítását megkönnyítsék, és ezáltal Európában az idegenforgalom és a népek közötti kölcsönös megértés előmozdítását is támogassák,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+*Az alkalmazás területe*
+
+A Megállapodás a Szerződő Felek területére, területéről és azok területén keresztül nem menetrend szerinti forgalomban bonyolódó nemzetközi közúti személyszállításra (eseti forgalom, ingajárati forgalom), valamint fenti szállítási szolgáltatásokkal kapcsolatos üresjáratokra vonatkozik.
+
+*2. Cikk*
+
+*Jogszabályi definíciók*
+
+(1) Jelen Megállapodás értelmében eseti forgalomnak azon szállítási szolgáltatás minősül, amely nem felel meg sem a menetrend szerinti forgalom [(2) bekezdés], sem az ingajárati forgalom [(3) bekezdés] fogalmi meghatározásának, és amelynek során előre kialakított utascsoportok szállítása történik.
+
+(2) Jelen Megállapodás értelmében a menetrend szerinti forgalom (gépjárművel végzett menetrend szerinti forgalom) személyek rendszeres szállítása egy adott viszonylatban előre meghatározott állomások érintésével, előre meghatározott menetrendek és díjszabások mellett.
+
+(3) *a)* Jelen Megállapodás értelmében ingaforgalomnak azon szállítási szolgáltatás minősül, amelynek során utasok előre kialakított csoportjait többszöri oda- és visszaúton, mindig azonos kiindulópontról mindig azonos célállomásra szállítják.
+
+Az utasok vagy azon állam állampolgárai, amelyben az ingajárati forgalmat lebonyolító jármű bejegyzésre került, vagy pedig egy harmadik államéi, akik a mindenkori másik Szerződő Fél államának repülőteréről vagy belvízi hajókikötőjéről kerülnek elszállításra, vagy akik meghívásra utaznak a jármű bejegyzése szerinti Szerződő Fél államának területére, melynek során a szállítási költségeket a meghívó fizeti. Minden utascsoport, amely közösen bonyolította le az odautazást, egy későbbi járat keretében közösen utazik vissza a kiindulási állomásra.
+
+*b)* A kiindulási terület és a célterület alatt az utazás megkezdésének, illetve az utazás célállomásának helye, valamint ezek 50 km-es körzetében elhelyezkedő helységek értendők.
+
+*c)* Ingajárati forgalomban elhelyezéssel párosuló szállítási szolgáltatás esetében az elhelyezés a célállomáson ellátással vagy anélkül, illetve adott esetben az utazás során az utasok legalább 80%-át érintve valósul meg.
+
+Az utasok célállomáson való tartózkodásának időtartama legalább két éjszaka kell hogy legyen.
+
+(4) Előre kialakított utascsoport alatt olyan csoport értendő, amelyre nézve egy, a szerződő állam előírásai szerint felelős szerv vagy személy szerződést kötött, vagy a csoport tagjai a szolgáltatást közösen megfizették, avagy indulás előtt valamennyi helyfoglalást és fizetést ez a felelős szerv vagy személy kézhez vett.
+
+(5) Jelen Megállapodás értelmében sajátszámlás forgalom az a szállítási tevékenység, amelyet egy vállalkozás saját alkalmazottai részére, vagy egy nem nyereségorientált egyesület saját tagjainak az egyesület céljaival összefüggő szállítása érdekében fejt ki a következő feltételek mellett:
+
+– a szállítási tevékenység a vállalkozás, illetve egyesület csupán kiegészítő tevékenysége,
+
+– a felhasznált járművek az adott vállalkozás, illetve egyesület tulajdonát képezik, vagy azokat a vállalkozás, illetve az egyesület részletfizetéses ügylet keretében vásárolta, vagy hosszú távú lízingszerződés tárgyai, és azokat a vállalkozás személyzetének egyik tagja, illetve az egyesület tagja vezeti.
+
+(6) Jelen Megállapodás értelmében ,,vállalkozónak'' minősül minden természetes vagy jogi személy, illetve jogi személyiség nélküli társaság, amely az adott Szerződő Fél területén bejegyzésre került, és üzletszerű vagy sajátszámlás közúti személyszállítási tevékenység folytatásához a nemzeti előírások szerint jogosultságot szerzett.
+
+(7) Jelen Megállapodás értelmében ,,járműnek'' azon gépjármű minősül, amelyet
+
+*a)* a Szerződő Felek egyikének felségterületén jegyeztek be, és
+
+*b)* felépítése és felszereltsége alapján több mint kilenc személy (a gépjárművezetőt is beleértve) szállítására rendszeresített.
+
+(8) Jelen Megállapodás értelmében ,,engedélynek'' minősül az az igazolás, hogy a vállalkozó eleget tesz azon szükséges követelményeknek, amelyek őt feljogosítják az 1. Cikkben rögzített szállítási tevékenységek végzésére.
+
+*3. Cikk*
+
+*Ingajárati forgalmak*
+
+(1) Ingajáratok esetén a 3. Cikk (3) bekezdésének *a)* és *b)* pontjaiban foglaltak betartása mellett útközben utasok a kiindulási területen és a célterületen kívül legfeljebb három különböző helyen szállhatnak fel vagy le.
+
+(2) Az ingajáratok során az első visszaútnak és az utolsó odaútnak üresjáratnak kell lennie.
+
+(3) Egy szállítási szolgáltatásnak az ingaforgalomhoz való sorolását nem érinti az a körülmény, hogy az illető Szerződő Fél előzetes egyetértésével
+
+*a)* egyes utasok a 2. Cikk (3) bekezdésében foglaltaktól eltérően a visszautat egy másik csoporttal teszik meg;
+
+*b)* a 3. Cikk (1) bekezdésében foglaltaktól eltérően útközben a kiindulási területen vagy a célterületen kívül több mint három különböző helyen utasok szállnak fel vagy le;
+
+*c)* a 3. Cikk (2) bekezdésében foglaltaktól eltérően az első odaút üresjárat.
+
+(4) A két Szerződő Fél úgy határozhat, hogy ingajáratok esetén az ingajárati szolgáltatások tartalmáról a járművön írásos információt kötelező tartani. Az írásos információ konkrét formáját a 11. Cikk szerinti Vegyesbizottság állapítja meg.
+
+*4. Cikk*
+
+*Eseti forgalmak*
+
+(1) Az 1. Cikk értelmében az eseti forgalom az alábbiakat foglalja magába:
+
+*a)* körutazások zárt ajtóval, azaz olyan járatok, amelyek esetében a forgalmat a teljes útvonal során ugyanazon utascsoportot szállító járművel bonyolítják, amely az utasokat az indulási helyre visszaszállítja;
+
+*b)* olyan szállítási szolgáltatások, amelyek során az odaúton utasokat szállítanak és a visszaút üresjárat (odaszállító járatok);
+
+*c)* minden egyéb eseti forgalmi szolgáltatás.
+
+(2) Eseti járatok forgalma alkalmával útközben utasok nem szállhatnak fel és le, hacsak az érintett Szerződő Fél illetékes hatósága ezt kivételesen nem engedélyezi. Ezek a járatok meghatározott gyakorisággal végrehajthatóak, az eseti forgalomra vonatkozó ismérvek megtartása mellett.
+
+*5. Cikk*
+
+*Engedélykötelezettség*
+
+(1) Az 1. Cikkben felsorolt közlekedési szolgáltatások folytatásához, amennyiben a 7. Cikk másként nem rendelkezik, alapvetően azon Szerződő Fél engedélye szükséges, amelynek területén a személyszállítás lebonyolításra kerül.
+
+(2) Az engedélyek járati engedély vagy állandó engedély formájában kerülnek kibocsátásra. A járati engedély egy oda- és visszaútra érvényes. Csak a kontingens időtartamán és az azt közvetlenül követő hónapon belül használható fel, kivéve, ha a 11. Cikk szerinti Vegyesbizottság keretein belül más eljárásmód kerül kiválasztásra.
+
+(3) A hiánytalanul kitöltött engedély minden egyes út során a járművön tartandó és az ellenőrző szervek felszólítására annak bemutatása kötelező. A 7. Cikk szerinti járatok (engedélymentes járatok) esetében a 7. Cikk (2) bekezdése szerinti igazolás helyettesíti az engedélyt.
+
+(4) A járati engedélynek legalább a következő adatokat kell tartalmaznia:
+
+*a)* név (a cég megnevezése) és a vállalkozó székhelye,
+
+*b)* a gépjármű(vek) hivatalos forgalmi rendszáma,
+
+*c)* a gépjárművezető(k) családi és utóneve,
+
+*d)* útvonal (határátkelőhelyek felsorolásával),
+
+*e)* a járat indulási és célállomása (hely és időpont).
+
+(5) Az állandó engedélynek legalább a (4) bekezdés *a)* pontja szerinti adatokat, valamint a (4) bekezdés *e)* pontja értelmében az első járat kezdetét és az utolsó járat befejezését (hely és időpont) kell tartalmaznia.
+
+(6) Az engedélyt csak azon vállalkozó használhatja, akinek a nevére azt kiállították, az engedély át nem ruházható. Az engedélyeket az egyik szerződő állam illetékes hatóságai a másik szerződő állam illetékes hatóságaihoz továbbítják, amelyek az engedélyeket kitöltve az érintett vállalkozók részére kiadják. A (4) bekezdés *b)*–*e)* pontjai szerinti adatokat a vállalkozónak magának kell kitöltenie.
+
+(7) Az engedély konkrét formáját a 11. Cikk szerinti Vegyesbizottság határozza meg.
+
+*6. Cikk*
+
+*Ellenőrző dokumentum és utaslista*
+
+(1) Az 5. Cikkben megjelölt engedélyen vagy a 7. Cikk (2) bekezdésében megnevezett igazoláson túlmenően az 1. Cikk szerinti minden egyes szállítás során a jármű vezetőjének egy, a járat megindítása előtt kitöltött, az ellenőrző dokumentumhoz csatolt, az utasok neveit tartalmazó listával kell rendelkeznie, és azt az ellenőrző szervek felszólítására be kell mutatnia. A mindenkori másik Szerződő Fél előzetes tájékoztatását követően a két Szerződő Fél bármelyike kérheti az ezen Szerződő Fél felségterületén bejegyzett vállalkozóktól, hogy az utaslistát belépéskor pecsételés céljából a határellenőrzési szerveknek adják át, és azt kilépésnél ismételten mutassák be.
+
+(2) Az ellenőrző dokumentumot és a 7. Cikk (2) bekezdése szerinti igazolást a jármű bejegyzése szerinti érintett szerződő állam illetékes hatóságai vagy erre meghatalmazott egyéb szervei állítják ki.
+
+(3) Az ellenőrző dokumentum és a 7. Cikk (2) bekezdése szerinti igazolás formáját és tartalmát a 11. Cikk szerinti Vegyesbizottság határozza meg.
+
+*7. Cikk*
+
+*Engedélymentes forgalmak*
+
+(1) Az alábbiakban felsorolt szállítási szolgáltatások nem esnek engedélykötelezettség alá, amennyiben a szállítást lebonyolító jármű a károsanyag-kibocsátás és a műszaki biztonsági standardok tekintetében eleget tesz a korszerű technikai színvonal támasztotta követelményeknek:
+
+*a)* ,,körutazások zárt ajtókkal'' – olyan járatok, amelyek esetében a forgalmat a teljes útvonal során ugyanazon utascsoportot szállító járművel végzik, amely az utasokat az indulási helyre visszaszállítja;
+
+*b)* olyan szállítási szolgáltatások, amelyek során az odaúton utasokat szállítanak és a visszaút üresjárat;
+
+*c)* olyan szállítási szolgáltatások, amelyek esetében az odaút üresjárat, és minden utast ugyanazon helyen vesznek fel, és
+
+*ca)* az utasok, amelyek egy harmadik államból származnak és a jármű bejegyzése szerinti mindenkori Szerződő Fél területére történő megérkezésük előtt megkötött szállítási szerződések alapján csoportba szerveződtek, valamint őket a jármű bejegyzése szerinti Szerződő Fél területére szállítják, vagy
+
+*cb)* az utasokat előzőleg ugyanazon szállítási vállalkozó szállított azon Szerződő Fél területére, ahol őket ismételten felveszik, és a jármű bejegyzése szerinti Szerződő Fél területére ismét visszaszállítják, vagy
+
+*cc)* az utasok meghívásra utaznak a másik Szerződő Fél területére, és a szállítási költségeket a meghívó fizeti. Az utasoknak összetartozó személyi kört kell alkotniuk, amelyet nem csupán ezen út céljára hoztak létre, és amelyet a jármű bejegyzése szerinti Szerződő Fél területére szállítanak el.
+
+(2) Az engedélymentes forgalmak ellenőrző dokumentum és a műszaki követelmények teljesítését alátámasztó megfelelő igazolás (autóbuszok műszaki alkalmasságát igazoló okmány) meglétéhez kötöttek, amelyre nézve a 6. Cikk rendelkezései irányadóak.
+
+(3) Az (1) bekezdés értelmezése szerinti mindenkor érvényes műszaki normákat a Szerződő Felek a jelen Megállapodáshoz tartozó különálló Memorandumban rögzítik.
+
+*8. Cikk*
+
+*Kontingensek*
+
+Az engedélyek számáról (kontingensek), érvényességéről, az átadás időpontjáról, illetve intervallumáról mindenkor 12 hónapra vonatkoztatva, a 11. Cikk szerinti Vegyesbizottság javaslata alapján, a Szerződő Felek döntenek.
+
+*9. Cikk*
+
+*A kabotázs tilalma*
+
+A másik Szerződő Fél államának területén személyek felvétele az adott állam területén belül történő szállítás céljából nem engedélyezett.
+
+*10. Cikk*
+
+*Jogsértések esetén alkalmazandó intézkedések*
+
+(1) A másik szerződő állam területén hatályos jognak, vagy a jelen Megállapodás előírásainak a vállalkozó vagy szállítási személyzete által történő megsértése esetén azon állam illetékes hatósága, ahol a gépjármű bejegyzésre került, a másik szerződő állam illetékes hatóságának kérésére, a következő intézkedéseket foganatosíthatja:
+
+*a)* a felelős vállalkozó figyelmeztetése az érvényes előírások betartására;
+
+*b)* a vállalkozó részére azon másik Szerződő Fél területén történő szállításra jogosító engedélyek kiadásának felfüggesztése, amelyben a jogsértést elkövették, vagy a már kiadott engedélyek visszavonása;
+
+*c)* jelen Megállapodás előírásainak a másik szerződő állam területén a vállalkozó vagy személyzete által történő súlyos, vagy ismételt megsértése esetén azon állam illetékes hatósága, amelynek területén a jogsértést elkövették, az érintett vállalkozót saját területén a forgalomból átmeneti időre vagy tartósan kizárhatja.
+
+(2) A szerződő államok illetékes hatóságai tájékoztatják egymást az (1) bekezdés szerinti jogsértésekről, valamint a foganatosított intézkedésekről. Az engedélyek/koncessziók visszavonását és visszavételét szabályozó belső állami jog érintetlen marad.
+
+*11. Cikk*
+
+*Vegyesbizottság*
+
+(1) Jelen Megállapodás szabályozott keretek között történő ellenőrzése és végrehajtása érdekében a Szerződő Felek Vegyesbizottságot hoznak létre, amelyben mindkét Szerződő Fél képviselteti magát.
+
+(2) A Vegyesbizottság bármelyik Szerződő Fél kívánságára összehívható, döntéseit egyhangúan hozza.
+
+(3) Amennyiben a Vegyesbizottság olyan jellegű kérdéseket tárgyal, amelyek más igazgatási területeket érintenek, az adott kérdésekben illetékes hatóságok képviselőit is bevonhatja.
+
+*12. Cikk*
+
+*Vám-, illeték- és engedélymentesség*
+
+Az 1. Cikk értelmében folytatott szállítások és az azokkal kapcsolatos üresjáratok végzése során a Szerződő Felek kölcsönösségi alapon biztosítják a következő cikkeknek a másik Szerződő Fél területére történő vám-, illeték- és engedélymentes bevitelét:
+
+*a)* a gépjárműtípus erre a célra rendeltetésszerűen alkalmazott és a gyártó által beépített, műszakilag és felépítéséből adódóan üzemanyag-ellátó berendezéssel összekötött főtartályaiban szállított üzemanyag;
+
+*b)* kenőanyagok, amelyek a gépjármű rendszerében találhatóak, és amelyek az adott gépjárműtípus normál üzemeltetéséhez szükségesek a szállítás során;
+
+*c)* a nemzetközi szállítást végző gépjármű helyreállításához szükséges pótalkatrészek és szerszámok; a fel nem használt pótalkatrészeket, továbbá a kicserélt régi alkatrészeket vissza kell szállítani, illetve vámfelügyelet alatt meg kell semmisíteni, vagy azokat a mindenkori Szerződő Fél területén érvényes rendelkezések szerint kell kezelni.
+
+*13. Cikk*
+
+*Hatálybalépés*
+
+Jelen Megállapodás azon napot követő második hónap első napján lép hatályba, amikor a Szerződő Felek értesítik egymást arról, hogy a belső állami előírások szerinti eljárások megtörténtek.
+
+*14. Cikk*
+
+*A Megállapodás időtartama*
+
+Jelen Megállapodást a Szerződő Felek a hatálybalépést követő három évre kötik. Érvényessége mindenkor további egy évvel meghosszabbodik, amennyiben a Szerződő Felek bármelyike – a hat hónapos felmondási idő betartása mellett – jelen Megállapodást január 1-jével nem mondja fel.
+
+Készült Koppenhágában, az 1998. év május hó 26. napján, két eredeti példányban, magyar és német nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Az Osztrák Köztársaság\
+Kormánya részéről
+
+Memorandum\
+a Magyar Köztársaság Kormánya és az Osztrák Köztársaság Kormánya között a nem menetrend szerinti nemzetközi közúti személyszállításról megkötött Megállapodás 5., 6., 7. és 8. Cikkéhez
+
+A Szerződő Felek az alábbi szabályozásban állapodnak meg:
+
+(1) A kölcsönösség alapján és a rögzített műszaki standardok fokozatos bevezetésére tekintettel az engedélyek számát naptári évenként határozzák meg.
+
+(2) A Szerződő Felek minden naptári év kezdete előtt egy hónappal átadják a rögzített engedélymennyiséget.
+
+(3) Az 5. Cikk (6) bekezdése szerinti engedélyként a Szerződő Felek a 11. Cikk szerint Vegyesbizottság által meghatározott német és magyar nyelvű engedélymintákat fogadják el.
+
+(4) A Szerződő Felek a 6. Cikk (3) bekezdése szerinti ellenőrző dokumentumként az 1839/92/EGK rendeletnek (a 2944/93/EGK rendelet figyelembevételével) vagy az ASOR-nak megfelelő ellenőrző dokumentumokat fogadják el.
+
+(5) A 7. Cikk (3) bekezdése szerint a Szerződő Felek a műszaki színvonal vonatkozásában a következőkben állapodnak meg azzal, hogy a Megállapodás 11. Cikke szerinti Vegyesbizottság javaslatára a Szerződő Felek további standardokat rögzíthetnek:
+
+*a)* Emissziós standardok:
+
+– Füstgáz-kibocsátás
+
+24.03 ENSZ EGB rendelet
+
+vagy a Tanács 72/306/EGK irányelve.
+
+*b)* Biztonságtechnikai standardok:
+
+– Blokkolásgátló berendezés (ABS)
+
+13.06 ENSZ EGB rendelet
+
+vagy a Tanács 71/320/EGK irányelve, az ezt módosító 91/422/EGK bizottsági irányelv figyelembevételével,
+
+vagy KDV 3g §,
+
+vagy 16/1992. (VII. 3.) KHVM rendelet 2. § (2) bekezdés *g)* pontja (nemzetközi közúti személyszállításról szóló rendelet).
+
+– Visszatartó fék
+
+13.06 ENSZ EGB rendelet
+
+vagy a Tanács 71/320/EGK irányelve, az ezt módosító 91/422/EGK bizottsági irányelv figyelembevételével,
+
+vagy KDV 3e §
+
+vagy 16/1992. (VII. 3.) KHVM rendelet 2. § (2) bekezdés *e)* pontja.
+
+(6) A 7. Cikk (2) bekezdése szerinti igazolásként (autóbuszok műszaki alkalmasságát igazoló okmány) a 11. Cikk szerinti Vegyesbizottság által meghatározott minta érvényes.
+
+(7) Kötelező továbbá az alábbi műszaki standardok betartása:
+
+– Tachográf
+
+AETR-egyezmény
+
+vagy 3821/85 EK rendelet, az ezt módosító 89/491/EGK bizottsági irányelv figyelembevételével,
+
+vagy KDV 1d § (osztrák gépjárműtörvény végrehajtási rendelet),
+
+vagy 6/1990. (IV. 12.) KöHÉM rendelet (magyar közúti jármű műszaki rendelet) 16. §-a.
+
+– Kipufogógáz
+
+49.02/A vagy /B ENSZ EGB rendelet (A-EURO I. B-EURO II.),
+
+vagy a Tanács 88/77/EGK irányelve, az azt módosító 91/542/EGK tanácsi irányelv figyelembevételével (A vagy B változat),
+
+vagy KDV 1d §,
+
+vagy 6/1990. (IV. 12.) KöHÉM rendelet 16. §-a.
+
+– Zajszint
+
+51.01 ENSZ EGB rendelet
+
+vagy a Tanács 70/157/EGK irányelve, az ezt módosító 84/424/EGK tanácsi irányelv figyelembevételével,
+
+vagy KDV 8. §,
+
+vagy 6/1990. (IV. 12.) KöHÉM rendelet 12. §-a,
+
+vagy 16/1992. (VII. 3.) KHVM rendelet 2. § (2) bekezdés *b)* pontja.
+
+(8) A fent megállapított biztonságtechnikai és környezeti standardok teljesítése az EGB-előírás, az EK-előírás, illetve az EGB- vagy az EK-előírásokkal egyező mindenkori nemzeti előírások szerinti meghatározásuk tekintetében mindenkor vagylagos.
+
+Készült Koppenhágában, az 1998. év május hó 26. napján, két eredeti példányban, magyar és német nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Az Osztrák Köztársaság\
+Kormánya részéről
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. A Megállapodásban foglaltakat 1999. július 1-jétől kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi miniszter[^1] gondoskodik.
+
+---
+
+[^1]: Az időközi szervezeti változásoknak megfelelő szöveg.

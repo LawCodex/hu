@@ -1,0 +1,131 @@
+---
+title: "130/1992. (IX. 3.) Korm. rendelet az atomkárokért való polgári jogi felelősségről szóló Bécsi Egyezmény és az atomenergia területén való polgári jogi felelősségről szóló Párizsi Egyezmény alkalmazásáról szóló, 1989. szeptember 20-án aláírt közös jegyzőkönyv kihirdetéséről"
+identifier: "130/1992. (IX. 3.) Korm. rendelet"
+njt_id: "1992-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-09-03
+in_force_from: 1997-06-01
+last_amended: 1997-06-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/1992. (IX. 3.) Korm. rendelet az atomkárokért való polgári jogi felelősségről szóló Bécsi Egyezmény és az atomenergia területén való polgári jogi felelősségről szóló Párizsi Egyezmény alkalmazásáról szóló, 1989. szeptember 20-án aláírt közös jegyzőkönyv kihirdetéséről
+
+*(A Jegyzőkönyv 1992. április 27-én hatályba lépett.)*
+
+## 1. §
+
+A Kormány az atomkárokért való polgári jogi felelősségről szóló Bécsi Egyezmény és az atomenergia területén való polgári jogi felelősségről szóló Párizsi Egyezmény alkalmazásáról szóló közös Jegyzőkönyvet e rendelettel kihirdeti.
+
+## 2. §
+
+A Jegyzőkönyv hiteles magyar nyelvű szövege a következő:
+
+,,A SZERZŐDŐ FELEK
+
+TEKINTETTEL az 1963. május 21-én az atomkárokért való polgári jogi felelősség tárgyában kelt Bécsi Egyezményre;
+
+TEKINTETTEL az 1964. január 28-i Kiegészítő Jegyzőkönyvvel és az 1982. november 16-i Jegyzőkönyvvel módosított, Az atomenergia területén való polgári jogi felelősségről 1960. július 29-én kelt Párizsi Egyezményre;
+
+FIGYELEMMEL arra, hogy a Bécsi Egyezmény és a Párizsi Egyezmény értelmében megegyező, és hogy jelenleg egy olyan Állam nincs, amely mindkét Egyezménynek részese lenne;
+
+ABBAN A MEGGYŐZŐDÉSBEN, hogy az egyik Egyezményben részes Államoknak a másik Egyezményhez való csatlakozása nehézséget okozhatna a két Egyezménynek valamely nukleáris balesetre történő egyidejű alkalmazása kapcsán;
+
+AZT KÍVÁNVA, hogy kapcsolat létesüljön a Bécsi Egyezmény és a Párizsi Egyezmény között, kölcsönösen kiterjesztve az egyes Egyezmények szerint az atomkárokért való polgári jogi felelősség speciális szabályozásából eredő előnyöket, és hogy kiküszöbölődjenek a két Egyezménynek valamely nukleáris balesetre való egyidejű alkalmazásából eredő ellentétek;
+
+MEGÁLLAPODTAK az alábbiakról:
+
+*I. Cikk*
+
+A Jegyzőkönyvben:
+
+*a)* ,,A Bécsi Egyezmény'' az 1963. május 21-én, az atomkárokért való polgári jogi felelősség tárgyában kelt Bécsi Egyezményt és a Jegyzőkönyvben részes Szerződő Fél tekintetében hatályos minden módosítást jelenti;
+
+*b)* ,,A Párizsi Egyezmény'' az 1960. július 29-én, az atomenergia területén való polgári jogi felelősség tárgyában kelt Párizsi Egyezményt és a Jegyzőkönyvben részes Szerződő Fél tekintetében hatályos, minden módosítást jelöli.
+
+*II. Cikk*
+
+A Jegyzőkönyv alkalmazásában:
+
+*a)* a Bécsi Egyezményben részes Szerződő Fél területén található nukleáris létesítmény üzemeltetője a Bécsi Egyezmény szerint felel a Párizsi Egyezményben, egyszersmind a Jegyzőkönyvben részes Szerződő Fél területén elszenvedett atomkárokért;
+
+*b)* a Párizsi Egyezményben részes Szerződő Fél területén található nukleáris létesítmény üzemeltetője a Párizsi Egyezmény szerint felel a Bécsi Egyezményben, egyszersmind a Jegyzőkönyvben részes Szerződő Fél területén elszenvedett atomkárokért.
+
+*III. Cikk*
+
+1\. Egy és ugyanazon balesetre vagy a Bécsi Egyezményt, vagy a Párizsi Egyezményt kell alkalmazni, a másik Egyezmény kizárásával.
+
+2\. A nukleáris létesítményben keletkezett nukleáris baleset esetén azt az Egyezményt kell alkalmazni, amelyikben az az Állam Szerződő Fél, amelynek területén a nukleáris létesítmény található.
+
+3\. Az olyan nukleáris baleset esetén, amely a nukleáris létesítményen kívül következett be, és szállításuk során hozott működésbe nukleáris anyagokat, azt az Egyezményt kell alkalmazni, amelyben az az Állam Szerződő Fél, amelynek területén az a nukleáris létesítmény található, amelynek üzemben tartója felelős, akár a Bécsi Egyezmény II. Cikke 1. pontja *b)* és *c)* alpontjainak alkalmazásával, akár pedig a Párizsi Egyezmény 4. Cikke *a)* és *b)* bekezdéseinek alkalmazásával.
+
+*IV. Cikk*
+
+1\. A Bécsi Egyezmény I—XV. Cikkeit ugyanúgy kell alkalmazni a Jegyzőkönyvben részes azon Szerződő Felek tekintetében, amelyek a Párizsi Egyezményben is Szerződő Felek, mint a Bécsi Egyezményben részes Szerződő Felek között.
+
+2\. A Párizsi egyezmény 1—14. Cikkeit ugyanúgy kell alkalmazni a Jegyzőkönyvben részes azon Szerződő Felek tekintetében, amelyek a Bécsi Egyezményben is Szerződő Felek, mint a Párizsi Egyezményben részes Szerződő Felek között.
+
+*V. Cikk*
+
+A Jegyzőkönyv 1988. szeptember 21-től kezdődően hatálybalépéséig a Nemzetközi Atomenergia Ügynökség Székhelyén aláírásra nyitva áll minden olyan Állam számára, amely aláírta vagy megerősítette akár a Bécsi Egyezményt, akár pedig a Párizsi Egyezményt, vagy valamelyikhez csatlakozott.
+
+*VI. Cikk*
+
+1\. A Jegyzőkönyvet meg kell erősíteni, el kell fogadni, jóvá kell hagyni vagy ahhoz csatlakozni lehet. A megerősítésről, az elfogadásról vagy a jóváhagyásról szóló okiratok csak, vagy a Bécsi Egyezményben, vagy a Párizsi Egyezményben részes Államoktól kerülnek elfogadásra. Azok az érintett Államok, amelyek nem írják alá a Jegyzőkönyvet, csatlakozhatnak ahhoz.
+
+2\. A megerősítésről, az elfogadásról, a jóváhagyásról vagy a csatlakozásról szóló okiratokat a Nemzetközi Atomenergia Ügynökség Főigazgatójánál kell letétbe helyezni, akit ily módon az Egyezmény letéteményesének jelölnek ki.
+
+*VII. Cikk*
+
+1\. A Jegyzőkönyv az attól az időponttól számított három hónap múltán lép hatályba, amikor a Bécsi Egyezményben részes legalább öt Állam és a Párizsi Egyezményben részes legalább öt Állam letétbe helyezte a megerősítésről, az elfogadásról, a jóváhagyásról szóló okiratát. Minden olyan Állam tekintetében, amely a Jegyzőkönyvet a fent említett okiratok letétbe helyezése után erősíti meg, fogadja el, hagyja jóvá, vagy csatlakozik ahhoz, a Jegyzőkönyv a megerősítésről, az elfogadásról, a jóváhagyásról vagy a csatlakozásról szóló okirat letétbe helyezésének időpontjától számított három hónap múltán lép hatályba.
+
+2\. A Jegyzőkönyv mindaddig hatályban marad, míg a Bécsi Egyezmény és a Párizsi Egyezmény.
+
+*VIII. Cikk*
+
+1\. Minden Szerződő Fél felmondhatja a Jegyzőkönyvet a letéteményeshez intézett írásos jegyzékkel.
+
+2\. A felmondás a jegyzéknek a letéteményes általi kézhezvételének időpontjától számított egy év múltán lép hatályba.
+
+*IX. Cikk*
+
+1\. Minden olyan Szerződő Fél, amely akár a Bécsi Egyezményt, akár pedig a Párizsi egyezményt felmondja, tudatja a letéteményessel, hogy magára nézve nem alkalmazza már az adott Egyezményt, valamint a felmondás időpontját.
+
+2\. A Jegyzőkönyv alkalmazása abban az időpontban szűnik meg az olyan Szerződő Fél tekintetében, amelyik felmondta akár a Bécsi Egyezmény, akár pedig a Párizsi Egyezmény alkalmazását, amikor a felmondás hatályba lép.
+
+*X. Cikk*
+
+A letéteményes késedelem nélkül értesíti a Szerződő Feleket, a Párizsi Egyezmény és a Bécsi Egyezmény közötti kapcsolatokról tartott Értekezletre meghívott Államokat, valamint a Gazdasági Együttműködési és Fejlesztési Szervezet Főtitkárát az alábbiakról:
+
+*a)* a Jegyzőkönyv minden egyes aláírásáról;
+
+*b)* a Jegyzőkönyvre vonatkozó minden egyes, a megerősítésről, az elfogadásról, a jóváhagyásról vagy a csatlakozásról szóló okirat letétbe helyezéséről;
+
+*c)* a Jegyzőkönyv hatálybalépéséről;
+
+*d)* minden egyes felmondásról;
+
+*e)* a IX. Cikk alkalmazásával kapcsolatos bármely tájékoztatásról.
+
+*XI. Cikk*
+
+A Jegyzőkönyv eredeti szövege, melynek angol, arab, kínai, spanyol, francia és orosz nyelvű változata egyaránt hiteles, letétbe helyezésre kerül a letéteményesnél, aki arról hiteles másolatokat küld a Szerződő Felek és a Párizsi Egyezmény és a Bécsi Egyezmény közötti kapcsolatokról tartott Értekezletre meghívott Államoknak, valamint a Gazdasági Együttműködési és Fejlesztési Szervezet Főtitkárának.
+
+ENNEK HITELÉÜL, a kormányuk által megfelelő módon felhatalmazott alulírottak, a Közös Jegyzőkönyvet aláírták.
+
+KÉSZÜLT Bécsben, ezerkilenszáznyolcvannyolc szeptember huszonegyedikén.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napját követő 15. napon lép hatályba, rendelkezéseit azonban 1992. április 27. napjától kezdődően kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. §-a (2) bekezdésének j) pontja szerint módosított szöveg.

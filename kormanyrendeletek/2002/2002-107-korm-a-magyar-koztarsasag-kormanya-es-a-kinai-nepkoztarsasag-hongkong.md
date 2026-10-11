@@ -1,0 +1,313 @@
+---
+title: "107/2002. (V. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Hongkongban, 2002. január hó 8. napján aláírt Megállapodás kihirdetéséről"
+identifier: "107/2002. (V. 14.) Korm. rendelet"
+njt_id: "2002-107-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/107"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-05-14
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-107-20-22"
+retrieved: 2026-10-12
+---
+
+# 107/2002. (V. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Hongkongban, 2002. január hó 8. napján aláírt Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Hongkongban, 2002. január hó 8. napján aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar és angol nyelvű szövege a következő:
+
+„,,
+
+**Megállapodás**\
+**a Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről**
+
+A Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya, melyet a Kínai Népköztársaság Központi Népi Kormánya a jelen Megállapodás megkötésére felhatalmazott, (a továbbiakban: Szerződő Felek)
+
+törekedve a köztük meglévő barátság és együttműködés fenntartására és megerősítésére,
+
+a köztük lévő utazási formalitások enyhítésének céljából, valamint
+
+az illegális bevándorlás elleni küzdelem terén közöttük fennálló bizalom és kölcsönös együttműködés fejlesztése érdekében,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A jelen Megállapodás mellékletében felsorolt érvényes magyar útlevéllel rendelkező magyar állampolgárok, az utasforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a Kínai Népköztársaság Hongkong Különleges Közigazgatási Területre, ott az első belépéstől számított hat (6) hónap alatt legfeljebb kilencven (90) napig tartózkodhatnak, és kiutazhatnak.
+
+*2. Cikk*
+
+A Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület által kibocsátott érvényes útlevéllel rendelkező személyek, az utasforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a Magyar Köztársaság területére, ott az első belépéstől számított hat (6) hónap alatt legfeljebb kilencven (90) napig tartózkodhatnak, és kiutazhatnak.
+
+*3. Cikk*
+
+(1) Azon érvényes magyar útlevéllel rendelkező magyar állampolgároknak, akik kilencven (90) napot meghaladó időtartamra, letelepedés, tanulmányok folytatása, munkavégzés vagy jövedelemszerző tevékenység céljából kívánnak belépni a Kínai Népköztársaság Hongkong Különleges Közigazgatási Területére, beutazásuk előtt vízumért kell folyamodniuk.
+
+(2) Azon a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület által kibocsátott érvényes útlevéllel rendelkező személyeknek, akik kilencven (90) napot meghaladó időtartamra, letelepedés, tanulmányok folytatása, munkavégzés vagy jövedelemszerző tevékenység céljából kívánnak belépni a Magyar Köztársaság területére, beutazásuk előtt vízumért kell folyamodniuk.
+
+*4. Cikk*
+
+(1) Azon érvényes magyar útlevéllel rendelkező magyar állampolgárok, akik a Kínai Népköztársaság Hongkong Különleges Közigazgatási Területére szóló lakhatási engedéllyel rendelkeznek, vízum nélkül léphetnek be a Kínai Népköztársaság Hongkong Különleges Közigazgatási Területre.
+
+(2) Azon a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület által kibocsátott érvényes útlevéllel rendelkező személyek, akik az illetékes magyar hatóságok által kiadott érvényes tartózkodási engedéllyel rendelkeznek, vízum nélkül léphetnek be a Magyar Köztársaság területére.
+
+*5. Cikk*
+
+A jelen Megállapodás hatálya alá tartozó azon személyek, akik a másik Szerződő Fél területén elvesztették útlevelüket vagy azt ellopták, illetve útlevelük megsemmisült, megrongálódott vagy lejárt, kötelesek ezt a tényt azon Szerződő Fél illetékes hatóságánál bejelenteni, ahol tartózkodnak.
+
+*6. Cikk*
+
+A Szerződő Felek az általuk kibocsátott érvényes útlevelek mintapéldányait, valamint az útlevelek használatára vonatkozó információkat a jelen Megállapodás hatálybalépését megelőzően egymásnak megküldik. Ha a Szerződő Felek egyike a jelen Megállapodás hatálybalépése után, a jelen Megállapodás mellékletében felsorolt úti okmányait megváltoztatja vagy újfajta úti okmányt vezet be, azok bevezetése előtt legalább harminc (30) nappal, a minták és azok leírásának csatolásával értesíti a másik Szerződő Felet.
+
+*7. Cikk*
+
+A vízumkötelezettség megszüntetése nem mentesíti a Szerződő Felek által kibocsátott érvényes útlevelek birtokosait a másik Szerződő Fél területén érvényben lévő, a beutazásra, a tartózkodásra és a kiutazásra vonatkozó, valamint egyéb jogszabályok betartásának kötelezettsége alól.
+
+*8. Cikk*
+
+A jelen Megállapodás nem érinti a Szerződő Felek azon jogát, hogy azoknak a személyeknek a beléptetését vagy saját területükön való tartózkodását megtagadják, akik nemkívánatosak, illetőleg a be- és kiutazásra vagy tartózkodásra vonatkozó előírásoknak nem tesznek eleget.
+
+*9. Cikk*
+
+(1) Saját jogszabályaiknak megfelelően és az egyéb kétoldalú megállapodások tiszteletben tartása mellett a Szerződő Felek kölcsönösen együttműködnek az illegális bevándorlás elleni küzdelem terén, különösen az alábbi területekkel kapcsolatos információk folyamatos vagy kérelemre történő kölcsönös megküldésével:
+
+*a)* a területükre történő belépés, ott-tartózkodás és kilépés jogszabályi feltételei;
+
+*b)* illegális bevándorlási és csempészési tevékenységek, beleértve a hamis bevándorlási és személyazonossági okmányok behozatalára, készítésére és eladására, a csempészetben részt vevő szervezetek szervezőire és az illegális bevándorlók kísérőire vonatkozó információkat is.
+
+(2) A jelen Cikk céljából a kapcsolattartó hatóságok:
+
+*a)* a magyar Szerződő Fél részéről: az Országos Rendőr-főkapitányság Nemzetközi Bűnügyi Együttműködési Központja (NEBEK), Belügyminisztérium, Bevándorlási és Állampolgársági Hivatal;
+
+*b)* a hongkongi Szerződő Fél részéről: Bevándorlási Főosztály Végrehajtó és Kapcsolattartó Kirendeltsége (Enforcement and Liaison Branch of the Immigration Department).
+
+*10. Cikk*
+
+(1) A személyes adatok közlése csak akkor történhet, ha a jelen Megállapodás végrehajtása céljából ez szükséges. A személyes adatokra vonatkozó eljárás és azok kezelése egyedi esetben a Szerződő Felek belső joga szerint történik. A személyes adatok közlése az alábbiakra terjed ki:
+
+*a)* kérelemre az érintett személy, és ha szükséges családtagjai, személyes azonosító adatait (családi és utónév, adott esetben korábbi név, gúnynév vagy álnév, születési hely és idő, nem, korábbi és jelenlegi állampolgárság);
+
+*b)* a személyazonosító igazolványban vagy útlevélben feltüntetett adatokat (az okmány száma, érvényességi ideje, a kiállítás helye és ideje, a kiállító hatóság megnevezése stb.);
+
+*c)* a jelen Megállapodás 9. Cikk (1) bekezdés b) pontja értelmében átadandó információk esetén felmerülő személyes adatot;
+
+*d)* egyéb, az érintett személy azonosításához szükséges adatot.
+
+(2) A továbbiakban a következő rendelkezéseket kell alkalmazni:
+
+*a)* A Szerződő Felek az átadott személyes adatokat csak a jelen Megállapodásban meghatározott célra, és az átadó Szerződő Fél által közölt feltételekkel használhatják fel.
+
+*b)* Az átadó Fél kérésére a fogadó Fél tájékoztatást nyújt az átadott személyes adatok felhasználásáról és az elért eredményekről.
+
+*c)* A személyes adatok csak a jelen Megállapodás végrehajtásában illetékes hatóságoknak adhatók át. Az adatok továbbadása más hatóságoknak csak ezen adatokat átadó Fél előzetes engedélyével történhet.
+
+*d)* Az átadó Fél felel az átadott adatok teljességéért és helyességéért. Ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, akkor erről a tényről a fogadó Felet haladéktalanul értesíteni kell, amely azonnal intézkedik a téves adatok helyesbítéséről, illetve az át nem adható adatok megsemmisítéséről.
+
+*e)* Amikor azt a Szerződő Felek jogszabályai lehetővé teszik, az érintett személy számára – kérésére – felvilágosítást kell adni a személyével kapcsolatban kezelt adatokról. Az érintett személy kérheti személyes adatainak helyesbítését vagy törlését, ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek.
+
+*f)* Az átadó Fél az átadáskor közli a saját államának jogszabályaiban meghatározott, érvényes adattörlési határidőket. Ezektől függetlenül az átadott személyes adatokat a szükségesség megszűnésekor törölni kell.
+
+*g)* A Szerződő Felek kötelesek a személyes adatok átadásáról, átvételéről és törléséről nyilvántartást vezetni.
+
+*h)* A Szerződő Felek kötelesek az átadott személyes adatokat hatásosan védeni a jogosulatlan hozzáférés, valamint a változtatás és nyilvánosságra hozatallal szemben.
+
+*11. Cikk*
+
+A jelen Megállapodás értelmezésével, alkalmazásával vagy végrehajtásával kapcsolatban felmerülő esetleges vitákat a Szerződő Felek illetékes hatóságai között szóban vagy írásban folytatott kölcsönös egyeztetés és véleménycsere útján kell rendezni.
+
+*12. Cikk*
+
+Bármelyik Szerződő Fél a jelen Megállapodást közrendi, közbiztonsági vagy közegészségügyi okokból részben vagy egészben felfüggesztheti. A felfüggesztésről, illetve annak megszűnéséről a másik Szerződő Felet írásban haladéktalanul értesíteni kell.
+
+*13. Cikk*
+
+A jelen Megállapodás az aláírást követő harmincadik (30.) napon lép hatályba. A jelen Megállapodás határozatlan időre szól, és mindaddig hatályban marad, amíg azt bármelyik Szerződő Fél írásban fel nem mondja. A Megállapodás a felmondásról szóló értesítés keltét követő kilencvenedik (90.) napon veszti hatályát.
+
+Készült Hongkongban, 2002. január 8-án, két eredeti példányban, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya\
+nevében
+
+A Kínai Népköztársaság Hongkong\
+Különleges Közigazgatási Terület\
+Kormánya nevében
+
+*Melléklet*
+
+**A Magyar Köztársaság Kormánya és a Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló Megállapodáshoz**
+
+Érvényes útlevelek a jelen Megállapodás alkalmazásában:
+
+1\. A Magyar Köztársaság tekintetében:
+
+– diplomata útlevél,
+
+– külügyi szolgálati útlevél,
+
+– szolgálati útlevél,
+
+– hajós szolgálati útlevél,
+
+– magánútlevél.
+
+2\. A Kínai Népköztársaság Hongkong Különleges Közigazgatási Terület tekintetében:
+
+,,Hongkong Különleges Közigazgatási Terület'' útlevele (,,Hong Kong Special Administrative Region'' passport).
+
+**Agreement**\
+**between the Government of the Republic of Hungary and the government of the Hong Kong Special Administrative Region of the People's Republic of China on Abolition of visa Requirements**
+
+The Government of the Republic of Hungary and the Government of the Hong Kong Special Administrative Region of the People's Republic of China, which has been duly authorised to conclude this Agreement by the Central People's Government of the People's Republic of China (hereinafter referred to as the ,,Contracting Parties'')
+
+wishing to maintain and reinforce the friendship and co-operation between them,
+
+to alleviate the travel formalities between them,
+
+with a view to the development of the trust between them in the field of combating illegal immigration and mutual co-operation
+
+have agreed as follows:
+
+*Article 1*
+
+Hungarian nationals holding a valid Hungarian passport listed in the Annex to this Agreement may enter the territory of the Hong Kong Special Administrative Region of the People's Republic of China without a visa at the border crossing points designated for passenger traffic, and may stay for at most 90 (ninety) days per period of (6) months from first entry, and may exit.
+
+*Article 2*
+
+Persons holding a valid passport issued by the Hong Kong Special Administrative Region of the People's Republic of China may enter the territory of the Republic of Hungary without a visa at the border crossing points designated for passenger traffic, and may stay for at most 90 (ninety) days per period of 6 (six) months from first entry, and may exit.
+
+*Article 3*
+
+(1) Hungarian nationals holding a valid Hungarian passport, who wish to enter the Hong Kong Special Administrative Region of the People's Republic of China with a view to staying for a period exceeding 90 (ninety) days, or who wish to study or to take up employment or to pursue an income generating activity or residence, shall apply for a visa prior to their entry.
+
+(2) Persons holding a valid passport issued by the Hong Kong Special Administrative Region of the People's Republic of China, who wish to enter the territory of the Republic of Hungary with a view to staying for a period exceeding 90 (ninety) days, or wish to study or to take up employment or to pursue an income generating activity or residence, shall apply for a visa prior to their entry.
+
+*Article 4*
+
+(1) Hungarian nationals holding a valid Hungarian passport who are also in possession of a residence permit for the Hong Kong Special Administrative Region of the People's Republic of China may enter the Hong Kong Special Administrative Region of the People's Republic of China without a visa.
+
+(2) Persons holding a valid passport issued by the Hong Kong Special Administrative Region of the People's Republic of China who are in possession of a valid permission to stay issued by the competent Hungarian authorities may enter the territory of the Republic of Hungary without a visa.
+
+*Article 5*
+
+Persons subject to this Agreement, who have lost their passport in the territory of the other Contracting Party or whose passport was stolen or annihilated, damaged or expired shall report this fact to the competent authorities of the Contracting Party where they are staying.
+
+*Article 6*
+
+The Contracting Parties shall send to each other samples of the valid passports issued by them as well as information concerning the use of passports, prior to the entry into force of this Agreement. When either of the Contracting Parties changes its valid travel documents listed in the Annex to this Agreement or introduces a new type of travel document, it shall notify the other Contracting Party and provide samples and descriptions through appropriate channels at least 30 (thirty) days prior to their introduction.
+
+*Article 7*
+
+The abolition of visa requirement does not exempt the holders of valid passports issued by the Contracting Parties from the obligation to abide by legal regulations concerning entry, stay and exit and other statutory provisions in force in the territory of the other Contracting Party.
+
+*Article 8*
+
+This Agreement does not affect the right of the Contracting Parties to refuse the entry or stay in their territory of persons who are considered undesirable, or who fail to meet requirements concerning entry, exit or stay.
+
+*Article 9*
+
+(1) In accordance with their own domestic legal regulations and notwithstanding other bilateral agreements, the Contracting Parties shall mutually co-operate in combating illegal immigration, in particular by exchanging information concerning the areas listed below on an ongoing basis or on request:
+
+*a)* legal requirements concerning entry to, staying in and exit from their territory,
+
+*b)* illegal immigration and smuggling activities including information concerning the importation, production and sale of forged immigration and personal identity documents, the organisers of organisations participating in smuggling and the escorts of illegal immigrants.
+
+(2) For the purpose of this Article, the following authorities shall maintain contact with one another:
+
+*a)* for the Hungarian Contracting Party: International Criminal Co-operation Centre (NEBEK) of the National Police Headquarters, Ministry of the Interior, Office for Immigration and Nationality Affairs;
+
+*b)* for the Hong Kong Contracting Party: Enforcement and Liaison Branch of the Immigration Department.
+
+*Article 10*
+
+(1) The communication of personal data shall only take place if such communication is necessary for the implementation of this Agreement. The processing and treatment of personal data in a particular case shall be subject to the domestic laws of the Parties. The communication of personal data shall be limited to:
+
+*a)* upon request, personal identification data of the person concerned and, when needed, his/her family members (surname and given name, former name, nickname or alias as appropriate; place and date of birth; sex; former and current nationality);
+
+*b)* the data indicated in the personal identification card or passport (number of the document, its period of validity, date and place of issue, description of the issuing authority, etc.;
+
+*c)* personal data arising in the case of information to be transferred pursuant to Article 9 (1) *b)* of this Agreement;
+
+*d)* other data required for the identification of the person concerned.
+
+(2) In addition the following principles shall apply:
+
+*a)* The Contracting Parties may use the personal data transferred only for the purposes specified in this Agreement under the conditions notified by the transferring Contracting Party.
+
+*b)* Upon request of the transferring Contracting Party, the receiving Contracting Party shall provide information on the use of the personal data transferred and the results achieved.
+
+*c)* Personal data may be transferred only to the authorities competent in the implementation of this Agreement. Forwarding the data to other authorities may only be effected with the prior permission of the Contracting Party transferring these data.
+
+*d)* The transferring Contracting Party shall be responsible for the completeness and correctness of the data transfer. Should it be revealed that erroneous data or data that should not have been transferred have also been transferred, the recipient Contracting Party shall be immediately notified of this fact and it shall take immediate action to have the erroneous data rectified or to have the data that should not have been transferred deleted.
+
+*e)* When permitted by the statutory provisions of the Contracting Parties, information shall be provided to the person concerned upon his/her request concerning the data managed in relation to his/her person. The person concerned may request the rectification or deletion of his/her personal data should it be proven that erroneous data or data that should not have been transferred have also been transferred.
+
+*f)* Upon transfer, the transferring Contracting Party shall disclose the valid deadlines for deleting data set forth in the legal regulations of its State. Notwithstanding the above, transferred personal data must be deleted when they are no longer needed.
+
+*g)* The Contracting Parties shall keep records of the transfer, receipt and deletion of personal data.
+
+*h)* The Contracting Parties shall effectively protect the personal data transferred against unauthorised access, alteration and disclosure.
+
+*Article 11*
+
+The Contracting Parties shall settle any disputes that may eventually arise in relation to the interpretation, application or implementation of this Agreement by way of mutual consultation and exchange of opinions between the competent authorities of the Contracting Parties, orally or in writing.
+
+*Article 12*
+
+Either Contracting Party may suspend this Agreement in part or in full for reasons of public order, public security or public health. The other Contracting Party shall be immediately notified of such suspension and its termination in writing.
+
+*Article 13*
+
+This Agreement shall enter into force on the 30<sup>th</sup> (thirtieth) day following the signing. It is concluded for an indefinite period and shall remain in force until either Contracting Party terminates it in writing. The Agreement shall cease effect on the 90th (ninetieth) day following the date of the receipt of the notice of termination.
+
+Done at Hong Kong on 8 January 2002, in two originals, each in the Hungarian, and English languages, both texts being equally authentic.
+
+For the Government\
+of the Republic of Hungary
+
+For the Government\
+of the Hong Kong Special Administrative Region\
+of the People's Republic of China
+
+**Annex**
+
+**To the Agreement between the Government**\
+**of the Republic of Hungary and the Government**\
+**of the Hong Kong Special Administrative Region**\
+**of the People's Republic of China, concerning**\
+**the abolition of the visa requirement**
+
+For the purpose of this Agreement, valid passports are:
+
+1\. With respect to the Republic of Hungary:
+
+– diplomatic passport,
+
+– service passport for foreign affairs purposes,
+
+– service passport,
+
+– service passport of mariners,
+
+– private passport.
+
+2\. With respect to the Hong Kong Special Administrative Region of the People's Republic of China:
+
+– ,,Hong Kong Special Administrative Region'' passport.''”
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, a Megállapodás rendelkezéseit azonban 2002. február hó 7. napjától alkalmazni kell.
+
+(2)[^1] A rendelet végrehajtásáról a külpolitikáért felelős miniszter, valamint az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 154. pontja szerint módosított szöveg.

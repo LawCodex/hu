@@ -1,0 +1,87 @@
+---
+title: "51/1992. (III. 18.) Korm. rendelet a volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk kiegészítéséről"
+identifier: "51/1992. (III. 18.) Korm. rendelet"
+njt_id: "1992-51-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/51"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-03-18
+in_force_from: 2008-05-16
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-51-20-22"
+retrieved: 2026-10-12
+---
+
+# 51/1992. (III. 18.) Korm. rendelet a volt nyugati hadifoglyok hitelutalványaival kapcsolatos pénzkövetelésekről és nyugdíjuk kiegészítéséről
+
+## 1. §
+
+(1) Az a volt nyugati hadifogoly (a továbbiakban: hadifogoly), aki a hadifogságban végzett munkájának ellenértékeként kapott devizakövetelésre vonatkozó hitelutalványt (a továbbiakban: utalvány) a külföldi fizetési eszközök és követelések, a külföldi értékpapírok és az arany forgalmának, valamint a fizetési eszközök kivitelének újabb szabályozása tárgyában kiadott 8400/1946. (VII. 28.) ME rendelet alapján a rendeletben megjelölt pénzintézetnél vagy annak jogutódjánál letétbe helyezte, vagy az utalványt a birtokában tartja, választása szerint:
+
+a) az utalvány ellenértékének a kifizetését, vagy
+
+b) a letéti követeléséről való lemondása ellenében a 4. §-ban foglaltak alkalmazását kérheti.
+
+(2) A hadifogoly halála esetén örökösét (örököseit) csak az (1) bekezdés *a)* pontjában biztosított lehetőség illeti meg.
+
+## 2. §
+
+(1)[^1] Az utalványt letétbe helyező személy vagy örököse (a továbbiakban: jogosult) az igényt 1992. december 31-ig a kárpótlási hatóságnál jelentheti be. A határidő elmulasztása jogvesztéssel jár.
+
+(2) Örökösnek azt a személyt kell tekinteni, aki e minőségét közokirattal igazolja.
+
+(3) Az igénybejelentéshez az utalványok banki átvételi elismervényét is csatolni kell. Ennek hiányában — és vita esetén — a Pénzintézeti Központ[^2] (a továbbiakban: PK) letéti nyilvántartását kell irányadónak tekinteni.
+
+(4)[^3]
+
+(5)[^4] A kárpótlási hatóság a kérelemnek helyt adó véglegessé vált vagy jogerős határozatot a véglegessé válását vagy jogerőre emelkedést követő harminc napon belül megküldi a PK-nak.
+
+(6)[^5] Amennyiben a jogosult olyan, a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás ideje van megállapítva, a 4. § szerinti juttatás iránti kérelem benyújtásakor mellékelni kell azt is. Ebben az esetben a hatósági bizonyítványban szereplő szabadságkorlátozás idejétől függően a kiegészítés összegét a nyugdíj megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.
+
+## 3. §
+
+(1) Az utalvány forint ellenértékét a jogosultnak a PK fizeti ki, a kifizetés napján érvényes hivatalos vételi valutaárfolyam 160%-ának megfelelő forintösszegben.
+
+(2) Több örökös esetén az utalvány ellenértéke közöttük örökrészük arányában oszlik meg.
+
+(3) A kifizetett összeg a személyi jövedelemadó szempontjából a kárpótlással esik egy tekintet alá.
+
+(4)[^6]
+
+## 4. §
+
+(1)[^7] Annak a hadifogolynak, aki devizakövetelésre szóló hitelutalvánnyal nem rendelkezett vagy annak meglétét nem tudja bizonyítani, a nyugellátását, baleseti nyugellátását (kivéve a baleseti járadékot, hacsak a nyugdíjkorhatárt betöltött személy más ellátással nem rendelkezik), továbbá a nyugdíjfolyósító szerv által folyósított nyugdíjszerű rendszeres szociális ellátását az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkenés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet (a továbbiakban: R.) 1–2/A. §-ában foglaltak megfelelő alkalmazásával fel kell emelni.
+
+(2) E rendelet alkalmazásában nyugati hadifogoly, aki nem szovjet vagy jugoszláv katonai parancsnokság alárendeltségébe tartozó hadifogolytáborban volt.
+
+(3) Az emelés összegének szempontjából az 1944. október 1-je után hadifogságban töltött idő hat hónapot meghaladó idejét kell figyelembe venni.
+
+(4) Az e rendelettel nem szabályozott kérdésekben a R.-ben foglaltakat kell megfelelően alkalmazni.
+
+## 5. §
+
+(1) E rendelet 1992. április 1-jén lép hatályba.
+
+(2) A 4. § alapján megállapított nyugdíjemelés 1992. április 1-jétől jár. E rendelet hatálybalépését követő hat hónapon túli igénybejelentés esetén a nyugdíjemelés legkorábban az igénybejelentés napját megelőző hatodik hónap első napjától jár.
+
+(3)[^8] Az R.-nek az e rendelet 5. §-a (4) bekezdésével módosított rendelkezései alapján megállapított nyugdíjemelés 1992. január 1-jétől jár abban az esetben, ha az igénybejelentés a kárpótlási hatósághoz e rendelet hatálybalépésétől számított hat hónapon belül beérkezett.
+
+(4)[^9] E rendeletnek a totalitárius diktatúrák áldozatai társadalombiztosítási és munkajogi helyzetének rendezéséről szóló egyes kormányrendeletek módosításáról szóló 236/2017. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^10] folyamatban lévő, társadalombiztosítási és munkajogi helyzet rendezésére irányuló eljárásokban is alkalmazni kell.
+
+(5)[^11]
+
+---
+
+[^1]: A 2. § (1) bekezdése a 236/2017. (VIII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: A Pénzintézeti Központ megszünt.
+[^3]: A 2. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 7. §-a hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^4]: A 2. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 12. §-a, a 457/2017. (XII. 28.) Korm. rendelet 9. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^5]: A 2. § (6) bekezdését a 349/2011. (XII. 30.) 3. § (2) bekezdése iktatta be.
+[^6]: A 3. § (4) bekezdését a 298/2001. (XII. 27.) Korm. rendelet 4. §-ának a) pontja hatályon kívül helyezte.
+[^7]: A 4. § (1) bekezdése a 316/2014. (XII. 12.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^9]: Az 5. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1481. pontja hatályon kívül helyezte, újonnan a 236/2017. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A hatálybalépés időpontja 2017. augusztus 19.
+[^11]: Az 5. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1481. pontja hatályon kívül helyezte.

@@ -1,0 +1,216 @@
+---
+title: "136/2002. (VI. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és Ausztrália Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről és a nukleáris anyagok átadásáról Budapesten, 2001. augusztus 8-án aláírt egyezmény kihirdetéséről"
+identifier: "136/2002. (VI. 24.) Korm. rendelet"
+njt_id: "2002-136-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/136"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-06-24
+in_force_from: 2002-07-02
+last_amended: 2002-07-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-136-20-22"
+retrieved: 2026-10-12
+---
+
+# 136/2002. (VI. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és Ausztrália Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről és a nukleáris anyagok átadásáról Budapesten, 2001. augusztus 8-án aláírt egyezmény kihirdetéséről
+
+*(A jegyzékváltás 2002. május 16-án megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Ausztrália Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről és a nukleáris anyagok átadásáról aláírt egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+,,
+
+**Egyezmény**
+
+a Magyar Köztársaság Kormánya és Ausztrália Kormánya között az atomenergia békés célú felhasználása terén folytatandó együttműködésről\
+és a nukleáris anyagok átadásáról
+
+A Magyar Köztársaság Kormánya és Ausztrália Kormánya (a továbbiakban: a Felek),
+
+újra megerősítve elkötelezettségüket, hogy az atomenergia békés célú nemzetközi fejlesztése és alkalmazása olyan megállapodások keretében történjék, amelyek elősegítik a nukleáris fegyverek elterjedésének megakadályozását,
+
+szem előtt tartva, hogy mind a Magyar Köztársaság, mind Ausztrália olyan atomfegyverrel nem rendelkező államok, amelyek részesei az 1968. július 1-jén, Londonban, Moszkvában és Washingtonban létrejött, a nukleáris fegyverek elterjedésének megakadályozásáról szóló – ún. non-proliferációs – szerződésnek (a továbbiakban: Szerződés),
+
+elismerve, hogy a Magyar Köztársaság és Ausztrália a Szerződés alapján kötelezték magukat arra, hogy nem állítanak elő és más módon sem szereznek be atomfegyvereket vagy egyéb nukleáris robbanószerkezeteket, továbbá, hogy egyezményt kötöttek a Nemzetközi Atomenergia Ügynökséggel (a továbbiakban: Ügynökség) a Szerződéssel kapcsolatos biztosítékok országaikban való alkalmazására,
+
+megerősítve a Szerződés céljainak és rendelkezéseinek támogatását, valamint a Szerződéshez való egyetemes csatlakozás előmozdítására irányuló óhajukat,
+
+megerősítve a Felek arra irányuló óhaját, hogy az atomenergia békés célú fejlesztése és alkalmazása területén együttműködjenek,
+
+attól az óhajtól vezetve, hogy létrehozzák a non-proliferáció iránti elkötelezettségüknek megfelelő feltételeket, amelyek alapján a nukleáris anyagok békés, nem robbantási célból Ausztrália és a Magyar Köztársaság között átadhatók,
+
+megegyeztek a következőkben:
+
+*I. Cikk*
+
+A Felek az Egyezmény rendelkezéseivel összhangban együttműködnek az atomenergia békés célú felhasználásában. A tervezett együttműködés az atomenergia békés célú felhasználására vonatkozik, és magában foglalja a nukleáris anyagok átadását, a kutatás-fejlesztést, az információ cseréjét, a műszaki képzést, a tudósok látogatásait és a kölcsönös érdeklődésre számot tartó projekteket. Ezt az együttműködést szükség esetén külön egyezményekkel vagy megállapodásokkal is elő kell mozdítani. A Felek kormányzati hatóságokat, valamint természetes és jogi személyeket is kijelölhetnek az együttműködés megvalósítására.
+
+*II. Cikk*
+
+Az Egyezmény alkalmazásában
+
+*a)* az ,,illetékes hatóság'' Ausztrália esetében az Ausztrál Biztosítéki és Non-proliferációs Hivatal (ASNO), a Magyar Köztársaság esetében az Országos Atomenergia Hivatal (OAH) vagy az a másik hatóság, amelyről az érintett Fél szükség szerint tájékoztatja a másik Felet;
+
+*b)* a ,,katonai cél'' az atomenergia vagy nukleáris anyag közvetlen katonai alkalmazása mint például atomfegyverek, katonai atommeghajtás, katonai nukleáris rakétahajtóművek, katonai atomreaktorok és a nukleáris anyagok közvetlen katonai, nem nukleáris alkalmazása mint például lőszerek, beleértve a szegényített urán lőszereket; de a meghatározás nem terjed ki a közvetett felhasználásokra, amilyen például egy katonai bázis energiaellátása polgári célú elektromos hálózatból, vagy olyan radioaktív izotópok előállítása, amelyek katonai kórházban diagnosztikai célokra használhatók;
+
+*c)* a ,,nukleáris anyag'' bármilyen ,,alapanyag'' vagy bármilyen ,,különleges hasadóanyag'', amelynek meghatározását az Ügynökség Alapokmányának XX. Cikke tartalmazza. Az Ügynökség Kormányzó Tanácsának az Ügynökség Alapokmányának XX. Cikke értelmében hozott valamennyi meghatározása, amely az ,,alapanyagnak'' vagy ,,különleges hasadó anyagnak'' tekintendő anyagok jegyzékét módosítja, csak akkor érvényes az Egyezmény tekintetében, ha az Egyezmény szerződő Felei írásban értesítették egymást arról, hogy a módosítást elfogadják;
+
+*d)* a ,,békés cél'' bármely katonai célútól eltérő felhasználás.
+
+*III. Cikk*
+
+(1) Az Egyezményt az alábbiakra kell alkalmazni:
+
+*a)* a II. Cikk szerinti nukleáris anyag, amely Ausztrália és a Magyar Köztársaság között akár közvetlenül, akár harmadik országon keresztül békés, nem robbantási célokból átadásra került;
+
+*b)* a nukleáris anyagok bármilyen formája, amelyet kémiai vagy fizikai eljárással, illetve izotóp szétválasztással állítottak elő az Egyezmény hatálya alá tartozó nukleáris anyagból; amennyiben az Egyezmény hatálya alá tartozó nukleáris anyagot egyéb nukleáris anyaggal keverik, illetve az egyéb nukleáris anyaggal keveredik, az így előállított nukleáris anyag mennyiségét csak olyan arányban kell az Egyezmény hatálya alá tartozónak tekinteni, ahogyan a kevert anyag előállításához felhasznált, az Egyezmény hatálya alá tartozó nukleáris anyag mennyisége aránylik az így felhasznált nukleáris anyag teljes mennyiségéhez; továbbá
+
+*c)* a nukleáris anyagok valamennyi generációja, amelyet az Egyezmény szerinti nukleáris anyag neutronokkal való besugárzásával állítottak elő; amennyiben az Egyezmény szerinti nukleáris anyagot más nukleáris anyaggal együtt sugároznak be, az így előállított nukleáris anyag mennyiségét csak olyan arányban kell az Egyezmény hatálya alá tartozónak tekinteni, amilyen arányban a nukleáris anyag azon mennyisége, amely az Egyezmény hatálya alá tartozik, e gyártáshoz felhasználva hozzájárul a gyártáshoz.
+
+(2) Az e Cikk (1) bekezdése szerinti nukleáris anyagot az Egyezmény szerint csak olyan természetes vagy jogi személynek szabad átadni, amelyet az átvevő Fél az átadó Fél számára mint a nukleáris anyag átvételére megfelelően felhatalmazott személyt megnevezett.
+
+*IV. Cikk*
+
+(1) A III. Cikkben megnevezett nukleáris anyag az Egyezmény rendelkezéseinek hatálya alá tartozik addig az időpontig, ameddig
+
+*a)* az anyag a továbbiakban már nem használható; vagy
+
+*b)* gyakorlatilag visszanyerhetetlen olyan formában, amelyben a VI. és VII. Cikkekben hivatkozott biztosítékok szempontjából szóba jöhető nukleáris tevékenységre felhasználható; vagy
+
+*c)* az Egyezmény IX. Cikk (1) bekezdés *a)* pontjával összhangban Ausztrália vagy a Magyar Köztársaság joghatóságának területén kívülre nem szállítják; vagy
+
+*d)* a Felek másként meg nem egyeznek.
+
+(2) Annak meghatározására, hogy az Egyezmény hatálya alá tartozó nukleáris anyag mikor minősül a továbbiakban már nem használhatónak, illetve gyakorlatilag visszanyerhetetlennek olyan formában, amelyben a VI. és VII. Cikkekben hivatkozott biztosítékok szempontjából szóba jöhető nukleáris tevékenységre felhasználható, mindkét Fél elfogadja az Ügynökség meghatározását. Az Egyezmény céljából az a meghatározás a mértékadó, amelyet az Ügynökség az érintett Fél és az Ügynökség között megkötött biztosítéki egyezménynek a biztosítékok megszüntetésére vonatkozó rendelkezéseivel összhangban ad meg.
+
+*V. Cikk*
+
+Az Egyezmény hatálya alá tartozó nukleáris anyagot nem szabad atomfegyverek vagy egyéb nukleáris robbanószerkezetek gyártására, atomfegyverekre vagy egyéb nukleáris robbanószerkezetekre irányuló kutatásra vagy ilyenek kifejlesztésére felhasználni, ilyen célra átirányítani, vagy bármilyen más katonai célra felhasználni.
+
+*VI. Cikk*
+
+(1) Ha Ausztrália az átvevő, az Egyezmény V. Cikkének teljesítését az a biztosítékrendszer biztosítja, amelyet az Ügynökség alkalmaz az Ausztrália és az Ügynökség között a Szerződés szerinti biztosítékok alkalmazására vonatkozó, 1974. július 10-én aláírt Biztosítéki Egyezmény szerint.
+
+(2) Ha a Magyar Köztársaság az átvevő, az Egyezmény V. Cikkének teljesítését az a biztosítéki rendszer biztosítja, amelyet az Ügynökség alkalmaz a Magyar Népköztársaság és a Nemzetközi Atomenergia Ügynökség között a nukleáris fegyverek elterjedésének megakadályozásáról szóló szerződés szerinti biztosítékok alkalmazásáról Bécsben, 1972. március 6-án aláírt és 1972. március 30-án hatályba lépett egyezmény szerint.
+
+*VII. Cikk*
+
+(1) Amennyiben – a Feleknek a Szerződés és az Ügynökség támogatására irányuló erőfeszítései ellenére – az Ügynökség, bármilyen okból és bármikor nem alkalmazza az Egyezmény VI. Cikkében hivatkozott biztosítékokat valamelyik Fél területén, amelynek területén az Egyezmény hatálya alá tartozó nukleáris anyag van jelen, a Felek haladéktalanul konzultálnak más biztosítéki megállapodásról, amely a VI. Cikkben említett biztosítéki rendszer helyébe lép.
+
+(2) Elsősorban, az érintett Fél köteles biztosítékokat elfogadni egy – vagy több – olyan új egyezmény keretében, amelyben a szerződő Felek az érintett állam és az Ügynökség, és amely az Egyezmény VI. Cikkében hivatkozott biztosítéki rendszerrel azonos hatályú és hatású biztosítékokat nyújt. Amennyiben ilyen egyezmény vagy egyezmények megkötése nem lehetséges, a Felek egy olyan többoldalú biztosítéki rendszer alkalmazásáról kötnek egyezményt, amely összeegyeztethető az Ügynökség biztosítéki rendszerének elveivel és eljárásaival, valamint amely hatályában és hatásában azzal egyenértékű biztosítéki rendszerről gondoskodik mint az Ügynökség biztosítékai, amelyek helyébe lép. Ha többoldalú biztosítéki rendszer nem hozható létre azonnal, a Felek együttműködnek egy ilyen rendszer létrehozása céljából, és annak létrehozásáig egyezményt kötnek az Egyezmény tárgyát képező nukleáris anyagokra vonatkozó, kölcsönösen elfogadható biztosítékok alkalmazásának rendezéséről.
+
+*VIII. Cikk*
+
+(1) Mindkét Fél intézkedéseket hoz a joghatóságuk területén található nukleáris anyag megfelelő fizikai védelmének biztosítására.
+
+(2) A Nukleáris Anyagok Fizikai Védelméről szóló Egyezmény szerinti kötelezettségein túlmenően mindkét Fél alkalmazza legalább az Ügynökség ,,A nukleáris anyagok és nukleáris létesítmények fizikai védelme'' című, INFCIRC/225/Rev.4. számú dokumentuma mindenkori hatályos változatának, vagy az INFCIRC/225/Rev.4. dokumentum helyébe lépő későbbi dokumentumnak az ajánlásait. Az INCIRC/225/Rev.4. dokumentum bármilyen módosítása vagy helyettesítése az Egyezmény alkalmazása során csak akkor hatályos, ha a Felek írásban tájékoztatták egymást arról, hogy az ilyen módosítást vagy helyettesítést elfogadják.
+
+*IX. Cikk*
+
+(1) Az Egyezmény hatálya alá tartozó nukleáris anyagokat tilos
+
+*a)* az átvevő Fél joghatóságának területén kívülre szállítani, vagy
+
+*b)* urán-235-izotópban 20%-ra vagy annál nagyobb mértékben dúsítani, vagy
+
+*c)* újrafeldolgozni,
+
+az átadó Fél előzetes írásbeli jóváhagyása nélkül.
+
+(2) A jelen Cikk (1) bekezdésének alkalmazása során az átadó Félnek figyelembe kell vennie a non-proliferáció szempontjait, a nukleáris üzemanyagciklus nemzetközi alakulását és az átvevő Fél energiaszükségleteit, az Egyezmény *A)* Mellékletének megfelelően.
+
+(3) Amennyiben az átadó Fél úgy véli, hogy ellenvetései lehetnek a jelen Cikk (1) bekezdésében hivatkozott tevékenységek bármelyikének az átvevő Fél részéről történő végrehajtása ellen, e véleményét köteles írásban közölni az átvevő Féllel. Az átadó Fél azonnali lehetőséget biztosít a másik Fél részére a kérdés teljes körű megtárgyalására.
+
+(4) Az átadó Fél semmilyen esetben sem tagadhatja meg a jóváhagyást kereskedelmi előny biztosítása céljából.
+
+*X. Cikk*
+
+(1) A Felek illetékes hatóságai Eljárási Megállapodást kötnek az Egyezményből eredő kötelezettségek hatékony végrehajtásának biztosítása céljából. A jelen bekezdés alapján létrehozott Eljárási Megállapodást a Felek illetékes hatóságai közös megegyezéssel, írásban módosíthatják.
+
+(2) Amennyiben valamelyik Fél területén az Egyezmény hatálya alá tartozó nukleáris anyag van jelen, ez a Fél – a másik Fél kérésére – köteles a másik Féllel ismertetni azokat az átfogó következtetéseket, amelyeket az Ügynökség vont le ellenőrzési tevékenysége során, amennyiben ezek az Egyezmény hatálya alá tartozó nukleáris anyagokkal kapcsolatosak.
+
+(3) A Felek kötelesek megfelelő óvintézkedést tenni, hogy az Egyezmény működésének eredményeként birtokukba került üzleti titkok védelmét biztosítsák.
+
+(4) A Felek között átadott minősített információt az Egyezmény *B)* Mellékletének megfelelően kell kezelni.
+
+*XI. Cikk*
+
+(1) A Felek rendszeresen vagy bármelyik Fél kívánságára, bármikor tanácskoznak, hogy az Egyezmény hatékony végrehajtását biztosítsák, illetve áttekintsék az atomenergia békés célú alkalmazásával kapcsolatos kérdéseket.
+
+(2) A Felek közösen meghívhatják az Ügynökséget, hogy vegyen részt az ilyen megbeszéléseken.
+
+*XII. Cikk*
+
+Abban az esetben, ha az átvevő Fél megsérti az Egyezmény III. Cikk (2) bekezdésének, a IV. Cikk (2) bekezdésének, az V–XI., vagy XIII. Cikkének valamelyik rendelkezését, vagy az átvevő Fél megsérti vagy felmondja az Ügynökség biztosítéki rendszereit, mely tényt az Ügynökséggel konzultálva kell megállapítani, akkor az átadó Félnek jogában áll felfüggeszteni vagy megszüntetni a nukleáris anyagok további szállítását és az átvevő Féltől korrekciós lépések megtételét igényelni. Amennyiben a Felek közötti megbeszéléseket követően ilyen korrekciós lépések 90 napon belül nem történnek meg, akkor az átadó Fél követelheti az Egyezmény hatálya alá tartozó nukleáris anyagok visszaszolgáltatását. A Felek egyetértenek abban, hogy nukleáris szerkezetnek bármelyik Fél általi robbantása az Egyezmény VI. Cikkének rendelkezéseibe ütközőnek minősül.
+
+*XIII. Cikk*
+
+Az Egyezmény értelmezéséből vagy végrehajtásából eredő minden olyan vitát, amely nem nyer tárgyalásos megoldást, bármelyik Fél kérelmére választottbíróság elé kell terjeszteni, amely az e Cikk rendelkezései szerint kinevezett három választottbíróból áll. Mindkét Fél kinevez egy-egy választottbírót, aki a saját állampolgára is lehet, és az így kinevezett két választottbíró jelöli ki harmadikként valamely harmadik állam állampolgárát, aki a testületben elnököl. Ha a választottbírósági eljárásra irányuló kérelem beterjesztését követő 30 napon belül valamelyik Fél nem nevez ki választottbírót, akkor a vitában részt vevő bármelyik Fél felkérheti a Hágai Nemzetközi Bíróság elnökét választottbíró kijelölésére. Ugyanezt az eljárást kell alkalmazni abban az esetben is, ha a második választottbíró kinevezésétől vagy kijelölésétől számított 30 napon belül nem jelölik ki a harmadik választottbírót. A választottbíróság határozatképes, ha tagjainak többsége jelen van. Valamennyi döntést a választottbíróság összes tagja szavazatainak többségével kell meghozni. A választottbíróság maga határozza meg eljárási szabályait. A választottbíróság valamennyi határozata és döntése kötelező a Felekre, és általuk végrehajtandó. Mindegyik Fél viseli az általa kijelölt bíró és saját jogi képviseletének költségeit. Az elnök költségeit, valamint az egyéb költségeket a Felek egyenlő arányban viselik.
+
+*XIV. Cikk*
+
+(1) Az Egyezményt a Felek megegyezéssel módosíthatják és felülvizsgálhatják.
+
+(2) Bármilyen módosítás vagy javítás azon a napon lép hatályba, amelyet a Felek diplomáciai jegyzékváltással a hatálybalépés időpontjaként meghatároznak.
+
+*XV. Cikk*
+
+Az Egyezmény mellékletei az Egyezmény elválaszthatatlan részét képezik.
+
+*XVI. Cikk*
+
+(1) Az Egyezmény 30 nappal azután lép hatályba, amikor a Felek diplomáciai jegyzékváltással értesítik egymást, hogy hazájukban eleget tettek a hatálybalépés minden vonatkozó követelményének. Az Egyezmény 30 éves kezdeti időszakra marad hatályban. Amennyiben ennek az időtartamnak az elteltét megelőzően legalább 180 nappal egyik Fél sem értesíti a másik Felet az Egyezmény felmondására irányuló szándékáról, ezt követően az Egyezmény bármelyik Félnek a másik Félhez intézett ilyen értesítését követő további 180 napig hatályban marad. A Felek eltérő írásbeli megállapodása hiányában azonban az Egyezmény – vagy az Egyezmény alapján folytatott bármilyen együttműködés – bármilyen okból történő megszűnése, alkalmazásának felfüggesztése vagy lejárta nem mentesíti a Feleket az Egyezményből fakadó kötelezettségeik alól az Egyezmény III. Cikk (1) bekezdésében hivatkozott olyan nukleáris anyagokkal kapcsolatban, amelyek használhatók maradnak, vagy visszanyerhetőek olyan formában, amelyben felhasználhatók a biztosítékok szempontjából szóba jöhető bármilyen nukleáris tevékenységre, összhangban az Egyezmény IV. Cikkével. Az ilyen nukleáris anyagokkal kapcsolatban a IV., V., VI., VII., VIII., IX., X., XI., XII. és XIII. Cikkekben foglalt kötelezettségek érvényben maradnak.
+
+(2) Ha a Magyar Köztársaság az Európai Unió tagjává válik, ezt az Egyezményt az Ausztrália Kormánya és az Európai Atomenergia Közösség közötti, a nukleáris anyagoknak Ausztráliából az Európai Atomenergia Közösségbe történő szállításáról szóló, 1982. január 15-én hatályba lépett Egyezmény (,,EURATOM Egyezmény'') kiegészítőjének kell tekinteni. A Magyar Köztársaság taggá válásának időpontjától kezdve Magyarországra az EURATOM Egyezmény rendelkezései vonatkoznak, és a Feleknek tárgyalniuk kell azokról a feltételekről, amelyek szerint az Egyezmény rendelkezéseit megfelelő módon felváltják az EURATOM Egyezmény rendelkezései.
+
+A fentiek hiteléül az alulírottak saját Kormányuktól e célra kapott meghatalmazás alapján aláírták az Egyezményt.
+
+Kelt Budapesten, 2001. augusztus nyolcadik napján, két példányban, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről:
+
+*Dr. Rónaky József*
+
+Ausztrália Kormánya\
+részéről:
+
+*Leopold Albert Cruise*
+
+*A) Melléklet*
+
+1\. A Felek megállapodnak, hogy az Egyezmény IX. Cikk (1) bekezdése *a)* pontjának rendelkezéseit az alábbi feltételek szerint alkalmazzák:
+
+*a)* Az Egyezmény hatálya alá tartozó nukleáris anyagokat átalakítás, urán-235-izotópban 20%-nál kisebb mértékű dúsítás és üzemanyaggyártás céljára megengedett a Magyar Köztársaságból olyan harmadik országba szállítani, amelynek olyan hatályos egyezménye van Ausztráliával a nukleáris anyagok szállítására vonatkozóan, amely egyezménnyel kapcsolatban az Ausztrál Kormány nem értesítette a Magyar Köztársaság Kormányát arról, hogy szükségesnek tartja a nukleáris anyagok szállításának felfüggesztését, törlését vagy elkerülését.
+
+*b)* A Magyar Köztársaság haladéktalanul köteles értesíteni Ausztráliát az ilyen szállításokról a X. Cikk (1) bekezdése szerinti Eljárási Megállapodásban megállapított eljárások szerint.
+
+*c)* Ausztrália a Magyar Köztársaság rendelkezésére bocsátja azoknak az országoknak a listáját, amelyekbe szállítások a fenti *a)* ponttal összhangban bonyolíthatók, és ezt a listát naprakészen tartja.
+
+*B) Melléklet*
+
+1\. Az Ausztrália által átadott ,,Secret'' minősítésű és jelölésű adatokat a Magyar Köztársaság a szolgálati titokra vonatkozó hatályos magyar jogszabályok szerint kezeli.
+
+2\. A Magyar Köztársaság által átadott ,,Titkos!'' minősítéssel és jelöléssel ellátott adatokat Ausztrália a ,,Secret'' minősítésű és jelölésű adatokra vonatkozó ausztrál rendelkezések szerint kezeli.
+
+3\. Az Ausztrália által átadott ,,Restricted'' vagy ,,Confidential'' minősítésű és jelölésű adatokat a Magyar Köztársaság a szolgálati titokra vonatkozó hatályos magyar jogszabályok szerint kezeli.
+
+4\. Az Ausztrália által átadott ,,Top Secret'' minősítésű és jelölésű adatokat a Magyar Köztársaság az államtitokra vonatkozó hatályos magyar jogszabályok szerint kezeli.
+
+5\. A Magyar Köztársaság által átadott ,,Szigorúan titkos!'' minősítéssel és jelöléssel ellátott adatokat Ausztrália a ,,Top Secret'' minősítésű és jelölésű adatokra vonatkozó ausztrál rendelkezések szerint kezeli.
+
+6\. A bármely féltől származó minősített adat átadását a vonatkozó nemzeti törvények és eljárások szerint, diplomáciai vagy konzuli futár útján, vagy a nemzetközi jog alapján velük azonos kiváltságokat és mentességeket élvező egyéb módon kell végrehajtani.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, de rendelkezéseit 2002. június 15-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.

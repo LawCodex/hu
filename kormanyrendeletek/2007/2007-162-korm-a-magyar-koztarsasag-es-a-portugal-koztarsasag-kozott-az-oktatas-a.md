@@ -1,0 +1,239 @@
+---
+title: "162/2007. (VI. 27.) Korm. rendelet a Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "162/2007. (VI. 27.) Korm. rendelet"
+njt_id: "2007-162-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/162"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-06-27
+in_force_from: 2008-05-16
+last_amended: 2020-02-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-162-20-22"
+retrieved: 2026-10-12
+---
+
+# 162/2007. (VI. 27.) Korm. rendelet a Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság és a Portugál Köztársaság között az oktatás, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén történő együttműködésről szóló egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a szerződést e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A szerződés hiteles magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény a Magyar Köztársaság\
+és a Portugál Köztársaság között az oktatás,\
+a tudomány, a felsőoktatás, a kultúra, az ifjúság,\
+a sport és a társadalmi kommunikáció területén történő együttműködésről
+
+A Magyar Köztársaság és a Portugál Köztársaság (a továbbiakban: a „Felek”),
+
+azzal az óhajjal, hogy megerősítsék a két nép közötti baráti kapcsolatokat,
+
+azzal a céllal, hogy előmozdítsák a két ország közötti együttműködést az oktatás, a szakképzés, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén,
+
+a következőkben állapodtak meg:
+
+*1. cikk*
+
+*Együttműködési területek*
+
+A Felek támogatják és előmozdítják az együttműködést az oktatás, a szakképzés, a felnőttképzés, a felsőoktatás, a tudomány, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén.
+
+*2. cikk*
+
+*Dokumentációk cseréje*
+
+A Felek a lehetőségek szerint kölcsönösen átadják egymásnak az oktatással, a szakképzéssel, a tudománnyal, a felsőoktatással, a kultúrával, az ifjúsággal, a sporttal és a társadalmi kommunikációval kapcsolatos tájékoztató anyagaikat könyvek, kiadványok és dokumentumok, valamint audiovizuális anyagok formájában.
+
+*3. cikk*
+
+*Intézmények közötti együttműködés*
+
+A Felek ösztönzik az együttműködés kiépítését és továbbfejlesztését az oktatás, a szakképzés, a tudomány, a felsőoktatás, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció területén illetékes hatóságaik, szervezeteik és intézményeik között a következők szerint:
+
+*a)* Tudósok, tanárok, szakértők, művészek, írók és a jelen Egyezményben meghatározott valamennyi terület szakértőinek cserekapcsolata.
+
+*b)* Ösztöndíjak alap-, mester-, és doktori képzésben folytatott tanulmányokra, posztgraduális képzésekre, valamint egyetemen vagy más felsőoktatási intézményben folytatott kutatásokra.
+
+*c)* Rövid időtartamú ösztöndíjak szakirányú és nyári tanfolyamokra.
+
+*4. cikk*
+
+*Tudományos fokozatok, címek és egyéb bizonyítványok elismerése*
+
+(1) A Felek kidolgozzák azon módszereket és feltételeket, amelyek alapján mindegyikük elismeri a másik Fél alap- és középfokú oktatási rendszerében szerzett bizonyítványok és diplomák egyenértékűségét.
+
+(2) A Felek ösztönzik a felsőoktatási rendszerről folytatott információcserét annak érdekében, hogy az ekvivalencia tárgykörében hatályos törvényi szabályozással összhangban megkönnyítsék a másik Fél által kiadott diplomák és tudományos fokozatok elismerését.
+
+*5. cikk*
+
+*Nyelv*
+
+(1) A Felek támogatják egymás nyelvének oktatását.
+
+(2) Azzal a céllal, hogy nemzetközileg elismertessék a portugál nyelvtudást, és megkönnyítsék a portugált tanulók bejutását a portugál egyetemekre, a portugál Fél a SCAPLE-tanúsítási rendszer alkalmazásával igazolja a magyar felsőoktatási intézményekben szerzett portugál nyelvismeret elismerését.
+
+*6. cikk*
+
+*Kulturális rendezvényeken való részvétel*
+
+Mindkét Fél megkönnyíti a másik Fél képviselőinek, illetve delegációinak részvételét a jelen Egyezmény keretében a másik Fél országában szervezett kongresszusokon, konferenciákon, szemináriumokon és más kulturális rendezvényeken.
+
+*7. Cikk*
+
+*Támogatás a fordításban és könyvkiadásban*
+
+(1) A Felek támogatják a másik ország történelmének, irodalmának, művészetének és kultúrája egyéb területeinek megismertetését.
+
+(2) Az előző bekezdésben említett célok érdekében a Felek támogatják a saját országukban folyó könyvfordítást és -kiadást.
+
+*8. cikk*
+
+*Együttműködés a nemzeti levéltárak és nemzeti könyvtárak között*
+
+(1) A Felek kölcsönösen támogatják a két ország könyvtárai, különösen a nemzeti könyvtárak közvetlen együttműködését.
+
+(2) A vonatkozó hatályos törvényi szabályozásokkal összhangban a Felek elősegítik az együttműködést és információcserét, továbbá a dokumentumok és bibliográfiai rekordok cseréjét a két ország nemzeti levéltárai és nemzeti könyvtárai között.
+
+(3) A Felek elősegítik kutatók bejutását a fent említett intézményekbe.
+
+*9. cikk*
+
+*Kulturális örökségi együttműködés*
+
+A Felek támogatják az együttműködést a kulturális örökségvédelem – a régészet, a műemlékvédelem, és a kulturális javak – vonatkozásában.
+
+*10. cikk*
+
+Együttműködés a filmművészet, az audiovizuális\
+és multimédia kultúra területén
+
+(1) A Felek támogatják az illetékes szervezetek közvetlen együttműködését a film, az audiovizuális és multimédiás kultúra területein.
+
+(2) A Felek támogatják képviselőik részvételét a másik ország nemzeti és nemzetközi filmfesztiváljain.
+
+(3) A Felek támogatják az információ és/vagy tapasztalatok cseréjét a másik Fél filmművészetének jobb megismerése céljából.
+
+*11. cikk*
+
+*Kiállítások és fesztiválok*
+
+(1) A Felek támogatják kiállítások bemutatását egymás országában, valamint közös projektek kidolgozását.
+
+(2) A Felek támogatják a zenekarok, a színtársulatok, a hivatásos és nem hivatásos művészeti csoportjaik közötti cserekapcsolatokat, valamint a művészek részvételét a másik Fél országában rendezett nemzetközi fesztiválokon.
+
+*12. cikk*
+
+*Műalkotások illegális kereskedelme*
+
+(1) A Felek hatályos belső jogszabályaiknak és a nemzetközi egyezmények és a közösségi jog rendelkezéseinek megfelelően együttműködnek a kulturális javak tiltott importjának, exportjának és átruházásának megakadályozásában.
+
+(2) A Felek támogatják az illegálisan exportált és importált kulturális javak visszaszolgáltatását.
+
+*13. cikk*
+
+*Kulturális termékek nem kereskedelmi célú behozatala*
+
+A Felek a területükön hatályos törvényeknek megfelelően megkönnyítik a különböző kulturális termékek jelen Egyezmény keretében történő, nem kereskedelmi célú behozatalát és a másik Félnek történő visszaszállítását.
+
+*14. cikk*
+
+*Ifjúsági együttműködés*
+
+(1) A Felek információ- és dokumentációcsere révén ösztönzik az együttműködést országaik ifjúsági szervezetei és nonprofit ifjúsági szervezetei között azzal a céllal, hogy elmélyítsék a másik ország ifjúságának helyzetéről meglévő ismereteiket.
+
+(2) A Felek előmozdítják továbbá közös tevékenységek kialakítását, valamint a fiatalok közötti közvetlen kapcsolatépítést.
+
+*15. cikk*
+
+*Együttműködés a sport területén*
+
+A két Fél a sportért felelős kormányzati szervezeteken és a két ország sportszövetségein és sportszervezetein keresztül előmozdítja az együttműködést a sportigazgatás és a sporttudomány különféle területein.
+
+*16. cikk*
+
+*Együttműködés a társadalmi kommunikáció területén*
+
+Mindkét Fél támogatja a rádiózás és televíziózás területén közszolgálati tevékenységet folytató intézményeik közötti kapcsolatok elmélyítését. Ösztönzik közvetlen kapcsolatok kiépítését olyan szervezeteik között, amelyek tevékenységüket hírügynökségként, illetve az újságíróképzés területén folytatják az adott országban.
+
+*17. cikk*
+
+*Együttműködés nemzetközi szervezetek keretében*
+
+A Felek erősítik az UNESCO Nemzeti Bizottságaik kapcsolatát, valamint a két ország különböző oktatási, tudományos és kulturális nemzetközi szervezeteknél működő delegációi között meglévő kapcsolatokat. A Felek támogatják az együttműködést az Európai Unió, az Európa Tanács és az OECD keretein belül is.
+
+*18. cikk*
+
+*Az együttműködés egyéb formái*
+
+Jelen Egyezmény nem zárja ki az együttműködés más formáit az oktatás, a felsőoktatás, a tudomány, a kultúra, az ifjúság, a sport és a társadalmi kommunikáció egyéb területein, amelyeket a Felek a későbbiekben határozhatnak meg.
+
+*19. cikk*
+
+*Az Egyezmény végrehajtása*
+
+(1) A Felek jelen Egyezmény végrehajtása érdekében együttműködési programokat dolgoznak ki, amelyek elvileg hároméves időtartamra jönnek létre, és meghatározzák az együttműködés és a cserekapcsolatok részleteit.
+
+(2) Az együttműködési programokat a vegyes bizottság tárgyalja meg, amely üléseit általánosságban felváltva tartja a két országban.
+
+(3) A hatályosságukra előírt időtartamtól függetlenül, és ha a Felek nem rendelkeznek kifejezetten másképp, a fent említett együttműködési programok a következő program aláírásáig maradnak hatályban.
+
+*20. cikk*
+
+*Értelmezési és alkalmazási viták megoldása*
+
+A Felek megállapodnak abban, hogy a jelen Egyezmény értelmezéséből és alkalmazásából fakadó esetleges vitákat diplomáciai úton, írásban rendezik.
+
+*21. cikk*
+
+*Hatálybalépés*
+
+(1) A jelen Egyezmény azon későbbi diplomáciai értesítés kézhezvételét követő harmincadik napon lép hatályba, amellyel a Felek értesítették egymást, hogy a jelen Egyezmény hatálybalépéséhez szükséges belső jogi feltételeknek eleget tettek.
+
+(2) A jelen Egyezmény hatálybalépésével egyidejűleg hatályát veszti a Magyar Népköztársaság Kormánya és a Portugál Köztársaság Kormánya között Budapesten, 1976. január 14-én aláírt kulturális Egyezmény.
+
+*22. cikk*
+
+*Hatályosság és felmondás*
+
+(1) Jelen Egyezmény öt évig marad hatályban, és automatikusan meghosszabbodik ugyanezen időtartamokra, kivéve, ha valamelyik Fél az adott hatályos időszak lejárta előtt legalább hat hónapos felmondási idővel diplomáciai úton írásban felmondja a megállapodást.
+
+(2) Az Egyezmény felmondása esetén a jelen Egyezmény hatálya alatt megkezdett valamennyi csereprogram, terv vagy projekt végrehajtása egészen annak teljesítéséig folyamatban marad.
+
+Fentiek hiteléül az alulírott meghatalmazottak a jelen Egyezményt kézjegyükkel látják el.
+
+Készült 2005. november 3-án, két eredeti példányban magyar és portugál nyelven. Mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+nevében
+
+A Portugál Köztársaság\
+nevében”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2)[^3] E rendelet 2–3. §-a a szerződés 21. cikkében meghatározott időpontban lép hatályba.
+
+(3) A szerződés, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a szakképzésért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § – a 4. § (2) bekezdése alapján – a szerződés 21. cikkében meghatározott időpontban lép hatályba. A hatálybalépés időpontja a 30/2007. (X. 6.) KüM határozat alapján 2007. október 18. napja.
+[^2]: A 3. § – a 4. § (2) bekezdése alapján – a szerződés 21. cikkében meghatározott időpontban lép hatályba. A hatálybalépés időpontja a 30/2007. (X. 6.) KüM határozat alapján 2007. október 18. napja.
+[^3]: A 4. § (2) bekezdésének második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 61. pontja hatályon kívül helyezte.
+[^4]: Lásd a 30/2007. (X. 6.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 34. §-a szerint módosított szöveg. [Nem vezethető át a 238/2022. (VI. 30.) Korm. rendelet 55. §-ában foglalt módosítás, mely szerint az „az oktatásért felelős miniszter, a kultúráért felelős miniszter és a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.]

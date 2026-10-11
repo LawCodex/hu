@@ -1,0 +1,194 @@
+---
+title: "140/1997. (VIII. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kazahsztáni Köztársaság Kormánya között a szervezett bűnözés, a kábítószerek és pszichotróp anyagok illegális forgalmazása, a terrorizmus elleni harc területén történő együttműködésről szóló, Budapesten, 1996. október 7-én aláírt Megállapodás kihirdetéséről"
+identifier: "140/1997. (VIII. 6.) Korm. rendelet"
+njt_id: "1997-140-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/140"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-08-06
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-140-20-22"
+retrieved: 2026-10-12
+---
+
+# 140/1997. (VIII. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kazahsztáni Köztársaság Kormánya között a szervezett bűnözés, a kábítószerek és pszichotróp anyagok illegális forgalmazása, a terrorizmus elleni harc területén történő együttműködésről szóló, Budapesten, 1996. október 7-én aláírt Megállapodás kihirdetéséről
+
+## (A Megállapodás jóváhagyásáról szóló jegyzékváltás 1997. május 25-én megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Kazahsztáni Köztársaság Kormánya között a szervezett bűnözés, a kábítószerek és pszichotróp anyagok illegális forgalmazása, a terrorizmus elleni harc területén történő együttműködésről szóló, Budapesten, 1996. október 7-én aláírt Megállapodást e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,Megállapodás\
+a Magyar Köztársaság Kormánya és a Kazahsztáni Köztársaság Kormánya között a szervezett bűnözés,\
+a kábítószerek és pszichotróp anyagok illegális forgalmazása, a terrorizmus elleni harc területén történő együttműködésről
+
+A Magyar Köztársaság Kormánya és Kazahsztáni Köztársaság Kormánya (a továbbiakban: Szerződő Felek), a Magyar Köztársaság és Kazahsztáni Köztársaság között a baráti kapcsolatokról és együttműködésről szóló, Budapesten, 1994. december 7-én aláírt Egyezményben foglaltak alapján,
+
+– mivel meg vannak győződve arról, hogy a szervezett bűnözés, ezen belül a kábítószerekkel kapcsolatos bűnözés, a terrorizmus és más veszélyes bűncselekmények elleni harc és a megelőzés területén nagyon nagy jelentősége van az együttműködésnek;
+
+– figyelemmel az e tárgyban mindkét Szerződő Fél által megkötött nemzetközi szerződésekben foglaltakra;
+
+– veszélyesnek tartva a kábítószerekkel és más pszichotróp anyagokkal való visszaélés növekedését az egész világban, valamint az illegális kábítószer-kereskedelem terjedését;
+
+– hangsúlyozva a terrorizmus elleni hatékony fellépésre irányuló közös szándékukat;
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek, az országaik jogszabályaiban foglalt rendelkezésekre figyelemmel együttműködnek a szervezett bűnözés és más veszélyes bűncselekmények elleni harcban, beleértve a megelőzést és a felderítést.
+
+*2. Cikk*
+
+(1) A Szerződő Felek együttműködése kiterjed a bűnözés, különösen a szervezett bűnözés elleni harcra.
+
+(2) Az együttműködés érdekében:
+
+1\. A Szerződő Felek szakemberek részére tapasztalatcseréket szerveznek a kölcsönös információcsere érdekében a bűnüldözés különböző területeivel és az új bűnüldözési technikákkal kapcsolatosan.
+
+2\. Az együttműködés során a Szerződő Felek információt cserélnek:
+
+– olyan személyekről, akik szervezett bűnözés keretein belül elkövetett bűncselekmények részesei, különösen a szervezőkről;
+
+– bűnszövetségekről, csoportokról, kapcsolataikról és a csoport tagjainak jellemző viselkedéséről;
+
+– bűncselekmény elkövetésének körülményeiről, ezen belül az időpont, helyszín, elkövetés módja, célpont, jellegzetesség, valamint a büntető törvénykönyv normáinak megsértése és intézkedésekről.
+
+3\. A Szerződő Felek végrehajtják a megkeresett Fél saját jogszabálya által engedélyezett cselekményeket.
+
+4\. A Szerződő Felek együttműködnek az operatív felderítési intézkedésekben és egyeztetett akciókat hajtanak végre személyi, anyagi és szervezési segítségnyújtással.
+
+5\. A Szerződő Felek tapasztalatokat és információkat cserélnek különösen a nemzetközi bűnözés elterjedt módszereiről, valamint az új elkövetési módszerekről.
+
+6\. A Szerződő Felek az új kriminalisztikai és kirminológiai kutatási eredményekről tájékoztatják egymást.
+
+7\. A Szerződő Felek átadják egymásnak a bűncselekmények elkövetése során szerzett vagy a bűncselekmény elkövetésének (vagy visszaélésre alkalmas) eszközeként használt tárgyak mintáit.
+
+8\. A Szerződő Felek közös és kölcsönös szakmai továbbképzés érdekében megszervezik szakembereik cseréjét, munkatársaik szakmai képzettségének továbbfejlesztését a szervezett bűnözés és más veszélyes bűncselekmények elleni harc terén.
+
+9\. A Szerződő Felek szükség esetén közös intézkedések előkészítése és lebonyolítása érdekében munkatalálkozókat szerveznek olyan konkrét ügyek kapcsán, amelyek felderítési szakaszban vannak.
+
+*3. Cikk*
+
+A kábítószerek és pszichotróp anyagok illegális termesztése és előállítása, ezek behozatala, kivitele és tranzitforgalma, valamint tiltott kereskedelme elleni harcban a Szerződő Felek saját jogszabályaik adta kereteken belül együttműködnek, mindenekelőtt:
+
+1\. Információkat cserélnek a kábítószerek előállításában, csempészetében és kereskedelmében érdekelt személyek adatairól, a rejtekhelyekről, a szállítási utakról és csatornákról, a munkamódszerekről, a származási és rendeltetési célországokról, az illegális határátlépések módjairól, valamint az ügyek részleteiről, amennyiben ez szükséges a társadalmi biztonságot veszélyeztető bűncselekmények felderítése és nyomozása vagy megelőzése érdekében.
+
+2\. Egymás rendelkezésére bocsátják a visszaélésre alkalmas és használt növényi vagy szintetikus eredetű kábítószerek és pszichotróp anyagok mintáit.
+
+3\. Tapasztalatokat cserélnek a kábítószerek és pszichotróp anyagok, valamint az előállításhoz szükséges alapanyagok illegális forgalmának ellenőrzéséről.
+
+4\. Közös intézkedéseket hoznak annak érdekében, hogy megelőzzék, illetve megakadályozzák a Szerződő Felek által kábítószerek, pszichotróp anyagnak minősített bármely szer vagy ezek jogellenes előállításához szükséges bármely alapanyag elvonását a törvényes forgalomból.
+
+5\. Közösen foganatosítanak intézkedéseket a kábító- és pszichotróp szerek illegális termelése elleni harc területén.
+
+*4. Cikk*
+
+A terrorizmus elleni harc érdekében a Szerződő Felek a saját jogszabályaik adta kereteken belül információkat cserélnek a tervezett és végrehajtott terrorcselekményekről, a terrorcselekmények formáiról és módszereiről, valamint a terrorista csoportokról, amelyek a másik Szerződő Fél területén terveznek, hajtanak vagy hajtottak végre azok érdekeit sértő cselekményeket.
+
+*5. Cikk*
+
+A jelen Megállapodás alapján átadásra kerülő személyes adatok védelmére a Szerződő Felek hatályos jogszabályainak figyelembevételével a következőket kell alkalmazni:
+
+1\. A fogadó Fél az adatokat csak az átadó Fél által megadott célra és az általa közölt feltételekkel használja fel.
+
+2\. Az átadó Fél kérésére a fogadó Fél tájékoztatást nyújt az átadott adatok felhasználásáról és az ezáltal elért eredményekről.
+
+3\. A személyes adatokat kizárólag a bűnüldöző hatóságoknak és a terrorizmus, a kábítószer és a szervezett bűnözés elleni harcban illetékes szerveknek szabad átadni. Az adatok továbbadása más hatóságoknak csak az átadó hatóság előzetes engedélyével történhet.
+
+4\. Az átadó Fél köteles az átadandó adatok helyességéről meggyőződni, valamint arról, hogy az átadás szükségszerű-e, és arányban áll-e az átadás céljával. Emellett meg kell tartani a másik Fél nemzeti jogszabályaiban meghatározott, az adatok átadásának korlátozására vonatkozó előírásokat. Ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, úgy erről a tényről a fogadó Felet haladéktalanul értesíteni kell. A fogadó Fél köteles a helyesbítést átvezetni, a téves vagy át nem adható adatot azonnal megsemmisíteni.
+
+5\. A jogosult személy számára, kérésére, felvilágosítást kell adni a személyéről vezetett adatokról és azok tervezett felhasználásáról. Ez a felvilágosítási kötelezettség nem áll fenn, ha az adott ország jogszabályai ezt nem teszik kötelezővé. A személyes adatokról történő felvilágosítás adásánál annak a Félnek a nemzeti jogszabályai az irányadóak, amely az adatokat átadja.
+
+6\. Az átadó Fél az átadáskor közli a saját jogszabályaiban meghatározott érvényes adattörlési határidőket. Ezektől függetlenül az átadott személyes adatokat a szükségesség megszűnésekor törölni kell. Az átvett adat törléséről, annak okáról az átadó Felet haladéktalanul értesíteni kell. Az átvett adatot a jelen Megállapodás megszűnésekor azonnal törölni kell.
+
+7\. Az átadó és átvevő szervek nyilvántartást vezetnek az adatok átvételéről, átadásáról.
+
+8\. Az átvevő köteles biztosítani az átvett személyekről szóló adatok hatékony védelmét az illetéktelen hozzáférés, változtatás és nyilvánosságra hozatal ellen.
+
+*6. Cikk*
+
+A jelen Megállapodás végrehajtása céljából minden kapcsolat közvetlenül az illetékes központi szervek között valósul meg.
+
+(1)[^1] Az illetékes központi szervek:
+
+Kazahsztáni Köztársaságban:
+
+– Állami Nyomozóbizottság,
+
+– Belügyminisztérium,
+
+– Nemzetbiztonsági Bizottság,
+
+– Egészségügyi Minisztérium,
+
+– Állami Vámhivatal,
+
+– Állami Határőrség (Határvédelmi Bizottság).
+
+A Magyar Köztársaságban:
+
+– Belügyminisztérium,
+
+– Népjóléti Minisztérium,
+
+– Országos Rendőr-főkapitányság,
+
+– Határőrség Országos Parancsnoksága,
+
+– Vám- és Pénzügyőrség Országos Parancsnoksága.
+
+(2) Az illetékes központi szervek az együttműködés konkrét területeit és a kapcsolattartás módját együttműködési jegyzőkönyvben rögzíthetik.
+
+*7. Cikk*
+
+(1) A Szerződő Felek a jelen Megállapodásban szabályozott együttműködés elősegítésére és értékelésére vegyesbizottságot hoznak létre három-három személy részvételével. A Szerződő Felek a vegyesbizottság összetételéről diplomáciai úton tájékoztatják egymást. A vegyesbizottság szükség esetén szakértőket vehet igénybe.
+
+(2) A vegyesbizottság szükség esetén tartja üléseit, amelynek összehívását bármelyik Szerződő Fél kezdeményezheti.
+
+*8. Cikk*
+
+Bármelyik Szerződő Fél a megkeresés teljesítését, illetve az együttműködést a segítségnyújtást részben, vagy egészben megtagadhatja, vagy azt bizonyos feltételektől függővé teheti, ha az szuverénitását, országa jogszabályainak érvényesülését, a biztonságát, avagy más lényeges érdekeit veszélyezteti, illetőleg ellentétes jogszabályaival.
+
+*9. Cikk*
+
+(1) A Szerződő Felek biztosítják a minősített, információk, adatok védelmét, amennyiben az egyik Szerződő Fél azokat saját jogszabályai szerint titkosnak minősítette.
+
+(2) A jelen Megállapodás keretében átadott dokumentáció, információ, adat és műszaki berendezés nem adható át harmadik félnek az átadó Szerződő Fél illetékes szervével történő előzetes egyeztetés nélkül.
+
+*10. Cikk*
+
+A jelen Megállapodás rendelkezései nem érintik a Magyar Köztársaság és a Kazahsztáni Köztársaság által kötött egyéb nemzetközi szerződéseket.
+
+*11. Cikk*
+
+(1) A jelen Megállapodás a jóváhagyásról szóló diplomáciai jegyzék kézhezvételét követő 30. napon lép hatályba.
+
+(2) A jelen Megállapodás diplomáciai jegyzékkel módosítható, kiegészíthető.(3) A jelen Megállapodás bármelyik Szerződő Fél diplomáciai úton írásban felbonthatja. A felmondás attól az időponttól számított hat hónap elteltével lép hatályba, amikor az a másik Szerződő Félhez megérkezett.
+
+Készült Budapesten, 1996. év október hó 7. napján, két eredeti példányban, magyar, kazah és orosz nyelven, mindhárom nyelvű szöveg egyaránt hiteles. Eltérés esetén az orosz nyelvű szöveg a meghatározó.''
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Kazahsztáni Köztársaság\
+Kormánya nevében''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba, rendelkezéseit azonban 1997. június 25. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, valamint a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A Megállapodás 6. cikkének (1) bekezdésében megjelölt együttműködő szervek elnevezésében – szervezeti jogszabályi módosulás következtében – mindkét Szerződő Fél esetében változás történt. Az új elnevezésekről lásd a Magyar Közlöny 2005. évi 47. és 157. számában megjelent belügyminiszteri közleményt.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 71. pontja szerint módosított szöveg.

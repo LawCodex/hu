@@ -1,0 +1,354 @@
+---
+title: "287/2005. (XII. 21.) Korm. rendelet az Európai Közösség és annak tagállamai, valamint Ukrajna között a polgári globális navigációs műholdrendszerekről (GNSS) szóló Együttműködési Megállapodás kihirdetéséről"
+identifier: "287/2005. (XII. 21.) Korm. rendelet"
+njt_id: "2005-287-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/287"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-12-21
+in_force_from: 2005-12-22
+last_amended: 2013-12-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-287-20-22"
+retrieved: 2026-10-12
+---
+
+# 287/2005. (XII. 21.) Korm. rendelet az Európai Közösség és annak tagállamai, valamint Ukrajna között a polgári globális navigációs műholdrendszerekről (GNSS) szóló Együttműködési Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad az Európai Közösség és annak tagállamai, valamint Ukrajna között a polgári globális navigációs műholdrendszerekről (GNSS) szóló Együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„
+
+**Együttműködési Megállapodás**\
+**az Európai Közösség és tagállamai,**\
+**valamint Ukrajna között a Polgári Globális**\
+**Műholdas Navigációs Rendszerről (GNSS)**
+
+Egyrészről
+
+az Európai Közösség (a továbbiakban: a Közösség),
+
+valamint
+
+a Belga Királyság,
+
+a Cseh Köztársaság,
+
+a Dán Királyság,
+
+a Németországi Szövetségi Köztársaság,
+
+az Észt Köztársaság,
+
+a Görög Köztársaság,
+
+a Spanyol Királyság,
+
+a Francia Köztársaság,
+
+Írország,
+
+az Olasz Köztársaság,
+
+a Ciprusi Köztársaság,
+
+a Lett Köztársaság,
+
+a Litván Köztársaság,
+
+a Luxemburgi Nagyhercegség,
+
+a Magyar Köztársaság,
+
+a Máltai Köztársaság,
+
+a Holland Királyság,
+
+az Osztrák Köztársaság,
+
+a Lengyel Köztársaság,
+
+a Portugál Köztársaság,
+
+a Szlovén Köztársaság,
+
+a Szlovák Köztársaság,
+
+a Finn Köztársaság,
+
+a Svéd Királyság,
+
+Nagy-Britannia és Észak-Írország Egyesült Királysága
+
+mint az Európai Közösséget létrehozó szerződés részes felei (a továbbiakban: a tagállamok), másrészről
+
+Ukrajna,
+
+(a továbbiakban: a felek)
+
+figyelembe véve a globális navigációs műholdrendszer polgári célokra történő fejlesztésében rejlő közös érdekeket,
+
+felismerve a GALILEO jelentőségét, mint az európai és az ukrajnai navigációs és információs infrastruktúrához való hozzájárulást,
+
+felismerve Ukrajna műholdas navigációs tevékenységének előrehaladott helyzetét,
+
+figyelembe véve a GNSS-alkalmazások fejlesztésének erősödését Ukrajnában, Európában és a világ más részein,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+*A megállapodás célja*
+
+A megállapodás célja, hogy ösztönözze, elősegítse és erősítse a polgári navigációs műholdrendszerben részt vevő felek közötti együttműködést.
+
+*2. Cikk*
+
+*Fogalommeghatározások*
+
+E megállapodás alkalmazásában:
+
+„Kiegészítő rendszer”: regionális vagy helyi mechanizmusok, például az európai geostacionárius navigációs átfedési szolgáltatás (EGNOS). Ezek a mechanizmusok a felhasználók számára lehetővé teszik a teljesítmény növekedését, így a fokozott pontosságot, a rendelkezésre állást, az egységességet és a megbízhatóságot.
+
+„GALILEO”: önálló, polgári ellenőrzés alatt álló, a GNSS-szolgáltatások ellátását biztosító polgári európai globális navigációs és időmeghatározási műholdrendszer, amelyet a Közösség, valamint annak tagállamai terveztek és fejlesztettek ki. A GALILEO üzemeltetése magánkézbe adható. A GALILEO nyílt, kereskedelmi és életvédelmi, kutatási és mentési célú szolgáltatásokat foglal magában, a hatóságok általi felhasználás célját szolgáló védett, nyilvánosan szabályozott, korlátozott hozzáférésű szolgáltatáson felül.
+
+„GALILEO nyilvános szolgáltatás”: a nagyközönség számára nyitott, ingyenes szolgáltatás.
+
+„GALILEO életvédelmi szolgáltatás”: olyan nyilvános szolgáltatásra épülő szolgáltatás, amely további integritásra vonatkozó információkat, jelhitelesítést, szolgáltatási garanciákat és más, például a légi és tengeri közlekedés során alkalmazott életvédelmi megoldásokhoz szükséges funkciókat biztosít.
+
+„GALILEO kereskedelmi szolgáltatás”: professzionális alkalmazások kidolgozását lehetővé tevő szolgáltatás, amely nagyobb teljesítményt nyújt a nyilvános szolgáltatásokkal szemben, különösen a nagyobb adatátviteli sebesség, a szolgáltatási garanciák és a pontosság terén.
+
+„GALILEO kutató és mentő szolgáltatás”: a vészjelzők által leadott jelek gyorsabb és pontosabb helymeghatározásával, valamint válaszüzenetek küldésének képességével a kutatási és mentési műveletek hatékonyságát javító szolgáltatás.
+
+„GALILEO nyilvánosan szabályozott szolgáltatás”: korlátozott hozzáférésű, védett helymeghatározó és időmérő szolgáltatás, amelyet kifejezetten a közszektor engedélyezett felhasználói által támasztott szükségletek kielégítésére fejlesztettek ki.
+
+„GALILEO helyi elemek”: olyan helyi mechanizmusok, amelyek a GALILEO globális navigációs és időmeghatározási műholdrendszer felhasználóit a használatban lévő alapkonstellációból származó bemeneti információn túl további bemeneti információval látják el. A helyi elemeket a teljesítmény fokozása érdekében repülőterek, tengeri kikötők és városi vagy egyéb, földrajzilag kihívást jelentő környezetbe lehet telepíteni. A GALILEO a helyi elemeket általános modellekkel látja el a piaci elfogadás és a szabványosítás megkönnyítésének támogatása érdekében.
+
+„Globális navigációs helyzetmeghatározási és időmeghatározási berendezés”: minden olyan, műholdas navigációs vagy időjelek átvitelére, vételére vagy feldolgozására szolgáló polgári végfelhasználású berendezés, amely szolgáltatást biztosít, vagy regionális kiegészítő rendszerrel közösen működik.
+
+„Szabályozási intézkedés”: valamely fél által meghozott törvény, rendelet, szabály, határozat, illetve általuk alkalmazott eljárás, adminisztratív vagy hasonló cselekmény.
+
+„Interoperabilitás”: felhasználói szinten jelentkező helyzet, amelyben a duális rendszerű vevőkészülék a két rendszerből érkező jelzéseket együtt ugyanolyan vagy jobb teljesítménnyel használja fel, mintha csak az egyik rendszerből érkező jeleket használná. A globális és a regionális műholdas navigációs rendszerek interoperabilitása javítja a felhasználók számára rendelkezésre álló szolgáltatások minőségét.
+
+„Szellemi tulajdon”: a Stockholmban, 1967. július 14-én készült, a Szellemi Tulajdon Világszervezetét létrehozó egyezmény 2. cikkében meghatározottak.
+
+„Felelősség”: valamely természetes vagy jogi személy meghatározott jogi elvek és szabályok szerinti kártérítési felelőssége valamely más természetes vagy jogi személynek okozott kárért. Ez a kötelezettség származhat megállapodásból (szerződéses felelősség) vagy jogi normából (szerződésen kívüli felelősség).
+
+„Minősített információ”: olyan információ, bármilyen formában, amely a felek vagy valamely tagállam alapvető érdekeit – beleértve nemzetbiztonsági érdekeket – különböző mértékben sértő jogosulatlan nyilvánosságra hozatallal szembeni védelmet igényel. A minősítési szint feltüntetése minősítési jelöléssel történik. Az ilyen információt a feleknek a vonatkozó törvényekkel és rendelkezésekkel összhangban kell minősíteni, és azokat védeni kell a minősítés, a teljesség és az elérhetőség elvesztésével szemben.
+
+*3. Cikk*
+
+*Az együttműködés alapelvei*
+
+A felek megállapodnak abban, hogy az e Megállapodás hatálya alá eső együttműködési tevékenységeiket a következő elveknek megfelelően folytatják:
+
+1\. A jogok és kötelességek általános egyensúlyán alapuló kölcsönös előnyök.
+
+2\. Partnerség a GALILEO-programban a GALILEO üzemeltetésére vonatkozó eljárásoknak és szabályoknak megfelelően.
+
+3\. Kölcsönös lehetőségek az Európai Közösség és Ukrajna polgári felhasználású GNSS-projektjeiben való részvételre.
+
+4\. Az együttműködési tevékenységre esetlegesen hatást gyakorló információ kellő időben megvalósuló cseréje.
+
+5\. Az e Megállapodás 8. cikke 2. bekezdésében említett, szellemi tulajdonhoz kapcsolódó jogok megfelelő védelme.
+
+*4. Cikk*
+
+*Az együttműködési tevékenységek területei*
+
+1\. A műholdas navigációval és időmeghatározással kapcsolatos együttműködési tevékenységek területei a következők: rádióspektrum, tudományos kutatás és képzés, ipari együttműködés, kereskedelem és piacfejlesztés, szabványosítás, tanúsítási és szabályozási intézkedések, a GNSS globális és regionális földi pontosságnövelő rendszereinek fejlesztése, biztonság, felelősség és a költségek fedezése. A felek közös megegyezéssel kiigazíthatják e listát.
+
+2\. Az együttműködés – a felek erre irányuló kérelme esetén – a következő területekre való kiterjesztése:
+
+2.1. az EU, az EU és ESA tagállamok, az MTCR és a WASSENAAR megállapodás export-ellenőrzési szabályozása alá tartozó GALILEO-érzékeny technológiák és elemek, továbbá a kriptográfia és a jelentős információbiztonsági technológiák és elemek,
+
+2.2. a GALILEO rendszerbiztonsági felépítése (világűrbeli, földi és felhasználói szegmensek),
+
+2.3. a GALILEO globális szegmenseinek biztonsági ellenőrzési sajátosságai,
+
+2.4. nyilvánosan szabályozott szolgáltatások azok meghatározási, fejlesztési, végrehajtási, tesztelési és értékelési, illetve működési (üzemeltetési és használati) szakaszában, továbbá
+
+2.5. a műholdas navigációt és a GALILEO-t érintő minősített információ cseréje
+
+a felek között aláírandó, megfelelő külön megállapodás tárgyát képezi.
+
+3\. Ez a megállapodás nem érinti a GALILEO-program működése céljából az Európai Közösség jogszabályai által létrehozott intézményi szerkezetet. E megállapodás nem érinti továbbá az atomsorompóval kapcsolatos kötelezettségvállalásokra és a kettős felhasználású szolgáltatások exportellenőrzésére vonatkozó megfelelő törvényeket, rendeleteket és politikákat, valamint a technológia immateriális átruházásának biztonságát és ellenőrzését érintő nemzeti intézkedéseket.
+
+*5. Cikk*
+
+*Az együttműködési tevékenységek formái*
+
+1\. A felek – a vonatkozó szabályozási intézkedéseikre is figyelemmel – a lehető legteljesebb mértékben előmozdítják az e Megállapodás szerinti együttműködési tevékenységeiket abból a célból, hogy hasonló lehetőségeket biztosítsanak a 4. cikkben felsorolt területeken végzett tevékenységeikben való részvételre.
+
+2\. A felek megállapodnak abban, hogy a 6–13. cikkben említetteknek megfelelően együttműködési tevékenységeket folytatnak.
+
+*6. Cikk*
+
+*Rádióspektrum*
+
+1\. A Nemzetközi Távközlési Unió keretein belül eddig elért sikerekre építve a felek megállapodnak abban, hogy a rádióspektrummal kapcsolatos kérdések terén tovább folytatják az együttműködést és a kölcsönös támogatást.
+
+2\. Ebben az összefüggésben a felek előmozdítják a megfelelő frekvenciakiosztást a GALILEO részére abból a célból, hogy a felhasználók előnyére világszerte – és nevezetesen Ukrajnában és a Közösségben – biztosítsák a GALILEO szolgáltatásainak hozzáférhetőségét.
+
+3\. A felek felismerik továbbá annak jelentőségét is, hogy a rádiónavigációs spektrum védelmet élvezzen a megszakítással és az interferenciával szemben. E célból a felek meghatározzák az interferencia forrásait, és kölcsönösen elfogadható megoldásokat keresnek az ilyen interferencia leküzdése érdekében.
+
+4\. E Megállapodás egyetlen része sem értelmezhető oly módon, hogy az eltérjen a Nemzetközi Távközlési Unió vonatkozó rendelkezéseitől, ideértve az NTU rádiószabályzatát is.
+
+*7. Cikk*
+
+*Tudományos kutatás és képzés*
+
+A felek a GNSS területén közösségi és ukrajnai kutatási programokon – köztük az Európai Közösség kutatási és fejlesztési keretprogramján, az Európai Űrügynökség kutatási programjain, valamint az Európai Közösség és az ukrán hatóságok vonatkozó programjain – keresztül előmozdítják a közös kutatási tevékenységeket.
+
+A közös kutatási tevékenységek hozzájárulnak a polgári felhasználású GNSS jövőbeni fejlesztésének tervezéséhez.
+
+A felek megállapodnak abban, hogy meghatározzák a megfelelő mechanizmusokat a hatékony kapcsolatok, valamint a kutatási és a képzési programokban való részvétel biztosítása céljából.
+
+*8. Cikk*
+
+*Ipari együttműködés*
+
+1\. A felek – a GALILEO-rendszer létrehozása, valamint a GALILEO-alkalmazások és szolgáltatások használatának és fejlesztésének előmozdítása céljából – ösztönzik és támogatják a két fél ipara közötti együttműködést, különösen közös vállalkozásokon, valamint az érintett ipari társulásokban való kölcsönös részvételen keresztül.
+
+2\. Az ipari együttműködés megkönnyítése érdekében a felek – a legmagasabb nemzetközi előírásokkal, különösen az ilyen előírások végrehajtásának hatékony módszereivel összhangban – a GALILEO/EGNOS fejlesztését és működését érintő területeken és iparágakban megadják és biztosítják a szellemi, az ipari és a kereskedelmi tulajdonnal kapcsolatos jogok megfelelő és hatékony védelmét.
+
+3\. A kifejezetten a GALILEO program által kidolgozott és finanszírozott érzékeny termékek Ukrajna által harmadik országokba való kivitelét előzetes engedélyezés céljából be kell nyújtani a GALILEO megfelelő biztonsági hatóságához, amennyiben ez a hatóság azt javasolta, hogy ezek a termékek a vonatkozó szabályozási intézkedéseknek megfelelően essenek kiviteli engedélykötelezettség alá. Az e megállapodás 4. cikk 2. bekezdésében említett külön megállapodásokban is megfelelő mechanizmust kell kidolgozni Ukrajna vonatkozásában annak érdekében, hogy javaslat szülessen a kiviteli engedélykötelezettség alá eső lehetséges tételek köréről.
+
+4\. A felek ösztönzik a Közösségben és Ukrajnában a GALILEO-programban részt vevő különböző érdekeltek közötti kapcsolatok erősítését az ipari együttműködéssel összefüggésben.
+
+*9. Cikk*
+
+*Kereskedelem- és piacfejlesztés*
+
+1\. A felek ösztönzik a kereskedelmet és a befektetést az európai és ukrajnai műholdas navigációs infrastruktúra, berendezések, a GALILEO helyi elemei és alkalmazásai terén.
+
+2\. E célból a felek fokozzák a GALILEO műholdas navigációs tevékenységeinek közismertségét, azonosítják a GNSS-alkalmazások elterjedésének lehetséges akadályait, és megfelelő intézkedéseket tesznek az elterjedés elősegítése érdekében.
+
+3\. A felhasználók igényeinek azonosítása és hatékony kielégítése érdekében a Közösség és Ukrajna fontolóra veszi egy nyilvános GNSS felhasználói fórum létrehozását.
+
+*10. Cikk*
+
+*Szabványok, tanúsítás és szabályozási intézkedések*
+
+1\. A felek felismerik a globális műholdas navigációs szolgáltatásokra vonatkozó megközelítéseik – a nemzetközi szabványosítási és hitelesítési fórumokon történő – összehangolásának jelentőségét. A felek együttesen elősegítik különösen a GALILEO-szabványok fejlesztését, valamint azok világszerte és Ukrajnában való alkalmazását, hangsúlyt fektetve a rendszer más GNSS-rendszerekkel való interoperabilitására.
+
+Az összehangolás egyik célkitűzése a GALILEO-szolgáltatások a navigáció és az időjel globális szabványaként való nyílt, kereskedelmi és életvédelmi célú, széles körű és innovatív felhasználásának előmozdítása.
+
+A felek megegyeznek abban, hogy előnyös feltételeket teremtenek a GALILEO-alkalmazások fejlesztéséhez.
+
+2\. Következésképpen e Megállapodás célkitűzéseinek előmozdítása és végrehajtása érdekében a felek – szükség szerint – együttműködnek a GNSS-t érintő, nevezetesen a Nemzetközi Polgári Repülési Szervezetben, az EUROCONTROL-ban, a Nemzetközi Tengerészeti Szervezetben és a Nemzetközi Távközlési Unióban felmerülő kérdésekben.
+
+3\. A kétoldalú kapcsolatok terén a felek biztosítják, hogy a GNSS-t érintő üzemeltetési és technikai szabványokra, hitelesítésre, engedélyezési követelményekre és eljárásokra vonatkozó intézkedések ne korlátozzák szükségtelenül a kereskedelmet. A hazai követelményeknek objektív, megkülönböztetésmentes, előre megállapított és átlátható feltételeken kell alapulniuk.
+
+*11. Cikk*
+
+*A globális és regionális GNSS földi kiegészítő*\
+*rendszerek fejlesztése*
+
+1\. A felek együttműködnek a GALILEO/EGNOS integritásának, az EGNOS- és a GALILEO-szolgáltatások folytonosságát és más GNSS-rendszerekkel való interoperabilitásnak optimális biztosítékát szolgáló földi rendszerek meghatározásában és megvalósításában.
+
+2\. E célból a felek regionális szinten együttműködnek egy, a GALILEO-rendszerre épülő földi regionális kiegészítő rendszer Ukrajnában való kivitelezésében és felépítésében. A regionális rendszer a GALILEO-rendszer által globálisan biztosított szolgáltatásokon túlmenően regionális integritási és nagy pontosságú szolgáltatásokat biztosít. Ennek előfeltételeként a felek célul tűzik ki az EGNOS kiterjesztését az ukrajnai régióban az ukrajnai távolságmérő és integritás-ellenőrző állomásokat is magában foglaló földi infrastruktúrán keresztül.
+
+3\. Helyi szinten a felek elősegítik a GALILEO helyi elemeinek fejlesztését.
+
+*12. Cikk*
+
+*Biztonság*
+
+1\. A felek meggyőződése, hogy a globális navigációs műholdas rendszereket meg kell védeni a nem rendeltetésszerű felhasználással, az interferenciával, a megszakítással és az ellenséges cselekményekkel szemben.
+
+2\. A felek saját felségterületükön minden gyakorlati lépést megtesznek a műholdas navigációs rendszerek és az azokhoz kapcsolódó infrastruktúra minőségének, folytonosságának és biztonságának garantálása érdekében.
+
+3\. A felek felismerik, hogy a GALILEO-rendszer és -szolgáltatások biztonságáról való gondoskodásra irányuló együttműködés fontos célkitűzés.
+
+4\. A felek ezért megfontolják a GNSS biztonsági kérdéseivel foglalkozó megfelelő konzultációs csatorna felállítását. Ezt a csatornát a GNSS-szolgáltatások folytonosságának biztosítására kell használni. A részletes gyakorlati szabályokat és eljárásokat a felek illetékes biztonsági hatóságai együttesen határozzák meg a 4. cikk 2. bekezdésével összhangban.
+
+*13. Cikk*
+
+*Felelősség és költségmegtérítés*
+
+A felek – különösen a nemzetközi és regionális szervezetek keretein belül – megfelelően együttműködnek, hogy a polgári GNSS-szolgáltatások biztosításának elősegítése érdekében felelősségi rendszereket és költségmegtérítési szabályokat határozzanak meg és hajtsanak végre.
+
+*14. Cikk*
+
+*Együttműködési mechanizmus és információcsere*
+
+1\. Az e Megállapodás hatálya alá tartozó együttműködési tevékenységek összehangolását és elősegítését Ukrajna részéről az ukrán kormány, a Közösség és annak tagállamai részéről pedig a Bizottság végzi.
+
+2\. Az 1. cikkben meghatározott célkitűzésnek megfelelően e két szerv az Európai Közösségek és annak tagállamai, valamint Ukrajna között partnerséget létrehozó partnerségi és együttműködési megállapodás keretében létrehozza a GNSS irányítóbizottságot (a továbbiakban: irányítóbizottság) e Megállapodás kezelésére. Az irányítóbizottság a felek hivatalos képviselőiből áll, és eljárási szabályzatát maga állapítja meg.
+
+Az irányítóbizottság feladata többek között:
+
+2.1. a Megállapodás 4–13. cikkében említett különböző együttműködési tevékenységek előmozdítása, az ezekkel kapcsolatos ajánlások kidolgozása és átfogó felügyelete;
+
+2.2. tanácsadás a felek számára az együttműködés – a Megállapodás elveinek megfelelő – erősítésének és javításának módjairól;
+
+2.3. a Megállapodás hatékony működésének és végrehajtásának felülvizsgálata.
+
+3\. A bizottság fő szabály szerint évente ülésezik. Az ülések helyszíne felváltva a Közösség, illetve Ukrajna. További ülések bármely fél kérelmére rendezhetők.
+
+Az irányítóbizottság részéről vagy annak nevében felmerült költségeket az a fél viseli, amelyhez a hivatalos képviselők tartoznak. Az utazási és szállásköltségeket kivéve az ülések megrendezésével kapcsolatban közvetlenül felmerülő költségeket a fogadó fél viseli. Amennyiben a felek ezt szükségesnek ítélik, az irányítóbizottság meghatározott tárgykörökben közös technikai munkacsoportokat állíthat fel.
+
+4\. Bármely érintett ukrajnai szervezet részt vehet a GALILEO Közös Vállalkozásban vagy az Európai GNSS felügyelő hatóságban az alkalmazandó jogszabályokkal és eljárásokkal összhangban.
+
+5\. A felek ösztönzik a két fél intézményei és vállalkozásai közötti, műholdas navigációt érintő információcserét.
+
+*15. Cikk*
+
+*Finanszírozás*
+
+1\. A GALIELO közös vállalkozáson keresztül a GALILEO-programhoz befizetendő ukrajnai hozzájárulás összegét és szabályait külön – az Európai Közösség vonatkozó jogszabályainak szervezeti előírásaival összhangban lévő – megállapodásban kell meghatározni.
+
+2\. A felek a törvényi, rendeleti vagy közigazgatási rendelkezésekkel összhangban megtesznek minden megfelelő intézkedést és erőfeszítést, hogy megkönnyítsék az e Megállapodás keretében tett együttműködési tevékenységekben részt vevő személyek területükre történő belépését, azok tartózkodását és kilépését, valamint az e Megállapodás keretében végzett együttműködési tevékenységekben felhasznált tőke, anyagok, adatok és felszerelések területükre történő behozatalát, jelenlétét és kivitelét.
+
+3\. A 2. bekezdés sérelme nélkül, amennyiben az egyik fél meghatározott együttműködési programja a másik fél résztvevői számára pénzügyi támogatásról rendelkezik, az egyik fél részéről a másik fél résztvevői számára az ezen intézkedések támogatása céljából nyújtott minden ilyen támogatást vagy pénzügyi hozzájárulást – a felségterületeiken alkalmazandó törvényekkel és rendeletekkel összhangban – nem terheli adó, vám és egyéb illeték.
+
+*16. Cikk*
+
+*Konzultáció és vitarendezés*
+
+1\. Bármelyik fél kérelmére a felek azonnali konzultációt folytatnak az e Megállapodás értelmezésével vagy alkalmazásával kapcsolatban felmerülő kérdésekről. Az e Megállapodás értelmezésével vagy alkalmazásával kapcsolatos vitákat a felek egymás között baráti konzultációk útján rendezik.
+
+2\. A 2. bekezdésben foglaltak nem akadályozzák meg a feleket abban, hogy a viták rendezéséhez igénybe vegyék az Európai Közösségek és annak tagállamai, valamint Ukrajna között partnerséget létrehozó partnerségi és együttműködési megállapodás vitarendezési mechanizmusát.
+
+*17. Cikk*
+
+*Hatálybalépés és megszűnés*
+
+1\. E Megállapodás azt a napot követő hónapnak az első napján lép hatályba, amikor a felek kölcsönösen írásban értesítik egymást az ehhez szükséges belső eljárásaik befejezéséről. Az értesítéseket az Európai Unió Tanácsa Főtitkárságának kell megküldeni, amely a megállapodás letéteményese.
+
+2\. E Megállapodás lejárta vagy megszűnése nem befolyásolja a megállapodás szerint létrehozott szabályok vagy a szellemi tulajdonjogokkal kapcsolatos meghatározott jogok és kötelezettségek érvényességét vagy időtartamát.
+
+3\. E Megállapodás a felek kölcsönös, írásos megállapodásával módosítható. A módosítás azt a napot követő hónapnak az első napján lép hatályba, amikor a felek kölcsönösen értesítik egymást az ehhez szükséges belső eljárásaik befejezéséről.
+
+4\. E Megállapodás a hatálybalépését követő öt évig hatályos, és az első ötéves időszak végén a felek általi közös megegyezéssel további ötéves időszakokra hosszabbítható meg. E megállapodás 3 hónapos felmondási idővel, a másik félhez intézett írásos felmondással bármely fél által megszüntethető.
+
+E Megállapodás másodlatban angol, cseh, dán, észt, finn, francia, görög, holland, magyar, német, lett, litván, máltai, lengyel, olasz, portugál, spanyol, svéd, szlovák, szlovén, valamint ukrán nyelven készült, amely szövegek egyformán hitelesek.”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-ai a Megállapodás 17. cikkében meghatározott időpontban lépnek hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-ai hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az informatikai és hírközlési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 7/2019. (II. 14.) KKM közlemény alapján a hatálybalépés időpontja 2013. december 1.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 7/2019. (II. 14.) KKM közlemény alapján a hatálybalépés időpontja 2013. december 1.
+[^3]: A 7/2019. (II. 14.) KKM közlemény alapján a hatálybalépés időpontja 2013. december 1.
+[^4]: Lásd a 7/2019. (II. 14.) KKM közleményt.

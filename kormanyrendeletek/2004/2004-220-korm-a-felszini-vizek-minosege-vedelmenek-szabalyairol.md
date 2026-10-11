@@ -1,0 +1,1959 @@
+---
+title: "220/2004. (VII. 21.) Korm. rendelet a felszíni vizek minősége védelmének szabályairól"
+identifier: "220/2004. (VII. 21.) Korm. rendelet"
+njt_id: "2004-220-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/220"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-07-21
+in_force_from: 2009-12-31
+last_amended: 2025-04-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-220-20-22"
+retrieved: 2026-10-12
+---
+
+# 220/2004. (VII. 21.) Korm. rendelet a felszíni vizek minősége védelmének szabályairól
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 36. §-ában, a 110. § (7) bekezdés f) pontjában, valamint a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 14. § (6) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## I.
+
+### ÁLTALÁNOS RENDELKEZÉSEK
+
+### A rendelet hatálya[^1]
+
+#### 1. §[^2]
+
+A vízhasználatok biztonsága, az emberi egészség és a környezeti állapot megőrzése, valamint a szennyezések megelőzése és csökkentése érdekében e rendelet meghatározza a felszíni vizek minőségének megóvását, javítását, a víztestek jó állapotának elérését és fenntartását, továbbá a vízi és vízközeli, valamint a felszíni víztől közvetlenül függő szárazföldi élőhelyek és élő szervezetek fennmaradásához szükséges feltételek biztosítását szolgáló intézkedéseket.
+
+#### 2. §
+
+A rendelet hatálya kiterjed:
+
+a) a természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező szervezetre, ha
+
+aa) a felszíni vizekkel kapcsolatban jogokkal rendelkezik, illetőleg kötelezettségek terhelik,
+
+ab) létesítménye vagy terméke, illetőleg tevékenysége vízszennyezést okoz, illetve okozhat,
+
+ac)[^3] a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti csapadékvíz- és szennyvízelvezető műbe, valamint a szennyvíztisztító telep nélküli közüzemi szolgáltatást biztosító szennyvízelvezető, -gyűjtő rendszerbe (a továbbiakban együtt: közcsatornába) szennyvizet bocsát,
+
+ad)[^4] zárt gyűjtőben gyűjtött szennyvizet – kivéve a kizárólag háztartási eredetű nem közművel összegyűjtött szennyvizet – közcsatornába, továbbá közös üzemi szennyvíz-, illetve csapadékvíz hálózatba szennyvizet bocsát;
+
+b) a felszíni vizekre, a csapadékvíz, szennyvíz elvezetését, tisztítását szolgáló víziközművekre, a nem közüzemű közös üzemi (ipari) csatornára, szennyvíztisztítóra, azok terhelésére és szennyezésére.
+
+### Értelmező rendelkezések
+
+#### 3. §
+
+E rendelet alkalmazásában:
+
+1\. *felszíni víz:* a föld felszínén lévő állóvíz (így különösen: tó, bányató, mocsár, tározó), vízfolyás (így például: folyam, folyó, patak, ér, csatornák, időszakos vízfolyás, vízmosás) vize;
+
+2\. *a felszíni víz állapota:* olyan általánosan jellemző állapot, amelyet a felszíni víztest ökológiai és kémiai állapota közül a kevésbé jó határoz meg;
+
+3.[^5] *a felszíni víz jó állapota:* olyan jellemző állapot, amelyben a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerinti ökológiai és kémiai állapot jó minősítésű;
+
+4\. *a felszíni víz jó kémiai állapota:* a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító kémiai állapot, amely azzal jellemezhető, hogy a felszíni vízben található szennyező anyagok koncentrációja nem haladja meg a környezetminőségi határértékek által meghatározott koncentráció szintjét;
+
+5.[^6] *környezeti célkitűzés:* a felszíni víz adott időpontig elérni kívánt ökológiai és kémiai állapota, melynek jellemzőit a vonatkoztatható referencia feltételek és a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet határozzák meg;
+
+6\. *befogadó:* a felszíni víz, valamint annak medre;
+
+7.[^7] *befogadó terhelhetősége:* előzetes vízszennyezettségi vizsgálatok és a vonatkozó vízszennyezettségi határérték alapján az illetékes vízvédelmi hatóság által megállapított olyan mértékű, még megengedhető terhelés, amely mellett még biztosítható a környezeti célkitűzés elérése;
+
+8\. *vízszennyezettség:* a felszíni vízben a vízszennyező anyaggal történő terhelés (vízterhelés) hatására kialakult vízszennyező anyag koncentráció;
+
+9.[^8] *környezetminőségi határérték:* elsőbbségi anyagok és egyéb veszélyes anyagok, anyagcsoportok olyan mértékű, még megengedett koncentrációja felszíni vízben vagy biótában, amelynek meghaladása a felszíni víz jó kémiai állapotának nem megfelelését okozza;
+
+10\. *mértékadó vízszennyezettség:* a vizsgált vízszennyező forrás környezetében kialakult, más vízszennyező források által okozott, meghatározott időtartamra vonatkoztatott jellemző vízszennyezettség, amelyhez a vizsgált vízszennyező forrás kibocsátásának hatása hozzáadódik;
+
+11\. *vízszennyező forrás:* az a tevékenység, létesítmény, építmény, illetőleg berendezés, amelyből vagy amelyről vízszennyező anyag kerül pontszerű források esetében szennyvízelvezető (illetve csapadékvíz elvezető) vízilétesítményen keresztül, nem pontszerű (diffúz) szennyezőforrások esetében más környezeti elemek közvetítésével a felszíni vizekbe;
+
+12\. *vízszennyező anyag:* a vizek természetes minőségét hátrányosan befolyásoló olyan anyag vagy hőenergia, amely az emberi tevékenység eredményeként közvetlen, illetőleg közvetett bevezetéssel kerül a befogadóba, és amely káros, illetve káros lehet az emberi egészségre, az élővilágra vagy a környezet más elemeire, illetőleg károsítja, illetve károsíthatja az anyagi javakat;
+
+13\. *veszélyes anyagok:* az olyan anyagok vagy az anyagoknak olyan csoportjai, amelyek toxikusak, perzisztensek és képesek a bio-akkumulációra, továbbá az olyan anyagok, illetőleg az anyagok olyan csoportjai, amelyek az előbbiekkel egyenértékű problémákat okoznak;
+
+14\. *I. és II. listába tartozó anyagok:* e rendelet 1. számú mellékletének B) pontjában meghatározott anyagok, illetve anyagcsoportok;
+
+15\. *elsőbbségi anyagok, anyagcsoportok:* e rendelet 1. számú mellékletének E) pontjában meghatározott anyagok, anyagcsoportok, melyek jelentős kockázatot jelentenek a vízikörnyezetre, illetve azon keresztül az egyéb védett értékekre, környezeti elemekre;
+
+16\. *elsőbbségi veszélyes anyagok, anyagcsoportok:* e rendelet 1. számú mellékletének E) pontjában külön jelzett anyagok, anyagcsoportok;
+
+17\. *vízterhelés:* vízszennyező anyag felszíni vízbe bocsátása;
+
+18\. *vízszennyező anyag kibocsátása (a továbbiakban: kibocsátás):* vízszennyező anyag, hőenergia közvetlenül vagy közvetetten felszíni vízbe juttatása;
+
+19\. *kibocsátó:* az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki tevékenysége során szennyvizet (használt vizet) közvetlenül vagy közvetve befogadóba vezeti;
+
+20.[^9] *szennyvíz:* a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat – illetve az üzemi területen összegyűlő csapadékvizek esetében bemosódás vagy keveredés – következtében fizikai, kémiai vagy biológiai minőségében megváltozott, vízszennyező anyagot tartalmazó víz;
+
+21\. *a felszíni vízbe való közvetlen bevezetés (a továbbiakban:* közvetlen bevezetés): a kibocsátott szennyvíz (használt víz) további tisztítás nélküli befogadóba vezetése;
+
+22.[^10] *a felszíni vízbe való közvetett bevezetés (a továbbiakban: közvetett bevezetés):* a telephelyről kibocsátott szennyvíz (használt víz) közcsatornán vagy egyéb csatornán (a továbbiakban: közös üzemi csatornán) való elvezetése, illetve a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti háztartási szennyvíznek nem minősülő szippantott szennyvíz közcsatornába vagy közös üzemi (ipari) csatornába bocsátása és további tisztítás után történő befogadóba vezetése;
+
+23\. *vízszennyezés:* vízszennyező anyagnak az engedélyezett kibocsátási határértékét meghaladó mértékű, közvetlen vagy közvetett befogadóba vezetése;
+
+24\. *rendkívüli szennyezés:* üzemszerű működésen kívülálló okból (műszaki meghibásodás, gondatlan kezelés,baleset) bekövetkező vízszennyezés, illetve a közcsatorna károsító szennyezése, továbbá, ha a felszíni víz, közcsatorna szennyezése nem szennyvízzel történt;
+
+25\. *higítás:* ha a kibocsátás az engedélyezett (üzemnapra, illetve egyéves időszakra vonatkozó) szennyvízmennyiséget indokolatlanul túllépi, továbbá ha a kibocsátó a szennyvízmintavétel ideje alatt friss vizet kever a szennyvízhez a mintavételi pont előtt, a kibocsátási határérték teljesítése érdekében;
+
+26.[^11] *vízszennyező anyag kibocsátási határértéke (a továbbiakban: kibocsátási határérték):* a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott keretek között, hatósági határozatban előírt – közvetlen vagy közvetett úton – a felszíni vízbe, illetve közcsatornába, közös üzemi csatornába vezethető szennyező anyag mértéke. Az adott szennyező anyagra vonatkozó határérték megadható koncentrációban, tömegáramban, előállított termékegységre, felhasznált anyagmennyiségre, gyártási kapacitásra vonatkozó fajlagos mennyiségben, illetve százalékos csökkentési hatásfokban;
+
+27.[^12] *kombinált módszer:* a kibocsátásra és a szennyvizek befogadóba vezetésére a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti kibocsátási határértékek, valamint az elérhető legjobb technika, illetve nem pontszerű (diffúz) szennyezések esetén a legjobb környezeti gyakorlat komplex – kombinált – alkalmazása egy adott kibocsátás szabályozása során;
+
+28\. *küszöbérték:* jogszabályban, jogszabályi keretek között hatósági határozatban meghatározott kibocsátási határérték, mely a közcsatornába vezethető szennyező anyag minőségét és megengedett mértékét határozza meg;
+
+29.[^13] *közcsatorna:* a közműves ivóvízellátásról és a közműves szennyvízelvezetésről szóló kormányrendelet szerinti szennyvízelvezető mű, valamint a települési szennyvíztisztító telep vagy szennyvíztisztító telep nélküli közüzemi szolgáltatást biztosító szennyvízelvezető, -gyűjtő rendszer;
+
+30\. *közcsatornába bocsátó:* az a kibocsátó, aki közcsatornába szennyvizet, csapadékvizet bocsát;
+
+31\. *közcsatorna, szennyvíztisztító telep károsító szennyezése:* vízszennyező anyagnak a küszöbértékét meghaladó mértékű közcsatornába vezetése;
+
+32\. *szolgáltató:* a víziközmű üzemeltetésével szennyvízelvezetést vagy szennyvíztisztítást, illetőleg mindkettőt közszolgáltatásként végző természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet;
+
+33\. *közös üzemi csatorna:* az a nem közüzemű szennyvíz elvezetését szolgáló vízilétesítmény, amelyet több kibocsátó közösen használ a különböző eredetű, döntően technológiai szennyvizek közös üzemi szennyvíztisztító telepre, illetve befogadóba vezetésére;
+
+34\. *közös üzemi szennyvíztisztító:* az a nem közüzemű létesítmény, amelyet több kibocsátó közösen használ a különböző eredetű, döntően technológiai szennyvizek tisztítására;
+
+35\. *közös üzemi csatornát, szennyvíztisztítót üzemeltető:* több kibocsátó által közösen használt, nem közüzemi szennyvízelvezető, szennyvíztisztító létesítményt üzemeltető természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet;
+
+36.[^14]
+
+37.[^15]
+
+38.[^16] *használt víz:* a termelési, szolgáltatási, fogyasztási tevékenység során használt, a használat következtében csak fizikai tulajdonságaiban megváltozott víz;
+
+39.[^17] *felszíni vízben okozott károsodás:* a felszíni víz ökológiai, kémiai, illetve mennyiségi állapotában, illetve ökológiai potenciáljában közvetlenül vagy közvetve bekövetkező, mérhető, jelentős és kedvezőtlen változás, illetve a felszíni víz által nyújtott szolgáltatás közvetlen vagy közvetett mérhető jelentős romlása;
+
+40.[^18] *regeneráció:* az a folyamat, illetve tevékenység – ideértve a természetes regenerálódást is –, amelynek erdeményeképpen a károsodott állapot megszűnik, a károsodott felszíni víz, illetve az általa nyújtott, károsodott szolgáltatás visszaáll az eredeti állapotba;
+
+41.[^19] *kármentesítés:* olyan helyreállítási intézkedés, amely a felszíni víz károsodásának enyhítésére, az eredeti állapot vagy ahhoz közeli állapot helyreállítására, valamint a felszíni víz által nyújtott szolgáltatás helyreállítására vagy azzal egyenértékű szolgáltatás biztosítására irányul, így különösen olyan műszaki, gazdasági és igazgatási tevékenység, amely a veszélyeztetett, szennyezett, károsodott felszíni víz megismerése, illetőleg a szennyezettség, károsodás és a kockázat mértékének csökkentése, megszüntetése, továbbá monitorozása érdekében szükséges;
+
+42.[^20] *diffúz források:* nem pontszerű források, illetve sok kisebb vagy elszórt forrás, amelyekből a szennyező anyagok a vízbe kerülhetnek kibocsátásra, amelyek a felszíni vizekre gyakorolt együttes hatása jelentős lehet, és amelyek esetében nem praktikus a jelentések begyűjtése egyedileg minden forrásból;
+
+43.[^21] *üledék:* a felszíni vízbe besodort és lerakódott szervetlen és szerves eredetű hordalék részecskéi, a víztestben kémiai folyamatból keletkező csapadék pelyhek, valamint elpusztult vízi szervezetek fenéken lerakodó maradványai;
+
+44.[^22] *vízminőségi határérték:* a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló rendeletben meghatározott fizikai-kémiai szennyezőanyagok által okozott vízszennyezettség még megengedett olyan mértéke, amelynek meghaladása a jó ökológiai állapot romlását okozza;
+
+45.[^23] *keveredési zóna:* a felszíni víztestbe való közvetlen bevezetés bevezetési pontjának közvetlen környezetében a víztest egy részének lehatárolásával kijelölt térrész;
+
+46.[^24] *jó ökológiai állapot:* a felszíni víztestre meghatározott környezeti célkitűzések elérésének lehetőségét biztosító ökológiai állapot, amely azzal jellemezhető, hogy a biológiai minőségi elemek, az ökológiát támogató fizikai-kémiai elemek és a vízgyűjtő-gazdálkodási tervről szóló miniszteri rendeletben meghatározott, egyéb specifikus szennyező anyagok koncentrációja nem haladja meg a vízminőségi határértékek által meghatározott koncentráció szintjét;
+
+47.[^25] *bióta:* adott élőhelyen található élőlények összessége;
+
+48.[^26] *mátrix:* a vízi környezet eleme, nevezetesen víz, üledék vagy bióta;
+
+49.[^27] *bióta-taxon:* tetszőleges szintű rendszertani kategóriába tartozó speciális – környezetminősítésre alkalmas – vízi élőlénycsoport.
+
+### A felszíni vizek minőségének védelmére vonatkozó általános szabályok
+
+#### 4. §
+
+(1) A felszíni víztest jó állapotának eléréséhez és fenntartásához, illetve az erősen módosított víztestek jó ökológiai potenciáljának eléréséhez a vízhasználó (ideértve a kibocsátót) köteles – az e rendelet és a Kvt. vonatkozó előírásainak betartásával – hozzájárulni.
+
+(2) Amennyiben nem pontszerű (diffúz) szennyezések miatt kibocsátási határérték megállapítására nincs mód, ott a legjobb környezeti gyakorlaton alapuló műszaki intézkedések alkalmazásával kell a vízszennyezést megelőzni, hogy a környezeti terhelés a legkisebb mértékűre csökkenjen.
+
+#### 5. §
+
+(1) Tilos a felszíni vizekbe, illetve azok medrébe bármilyen halmazállapotú, vízszennyezést okozó anyagot juttatni, az engedélyezett vízilétesítményen bevezetett
+
+a) határértéknek megfelelő,
+
+b) határérték alatti
+
+e rendelet alapján engedélyezett kibocsátások kivételével.
+
+(2)[^28] Használt, illetve szennyvizet közvetlenül vagy közvetve felszíni vízbe kibocsátó létesítmény létesítéséhez, bővítéséhez, illetve a környezet védelmének általános szabályairól szóló törvényben meghatározott jelentős változással járó fejlesztéséhez, valamint a működésének megkezdéséhez és működtetéséhez, a létesítményt engedélyező hatóságok engedélye szükséges.
+
+#### 6. §
+
+(1)[^29] A vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet előírásai szerint meg kell határozni a felszíni víztestek elhelyezkedését, a víztest-csoportok kialakítását és a hozzájuk tartozó, a jó ökológiai állapotot jellemező referenciaértékeket.
+
+(2)[^30] A felszíni víztestek vízminőségi elemeire vonatkozó referencia feltételek megállapításáról, az állapotértékelés végrehajtásáról, valamint a monitoring programok tervezéséről és működtetéséről a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló miniszteri rendelet rendelkezik.
+
+#### 7. §[^31]
+
+A környezeti célkitűzéseket az országos és regionális környezetvédelmi, illetve társadalmi, gazdasági programok, tervek, a területfejlesztési, terület- és településrendezési tervek, és helyi építési szabályzatok kidolgozása során, valamint az önkormányzatok környezetvédelmi programjaiban, a gazdálkodó szervezetek terveiben és a műszaki tervezésben – a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben foglaltak szerint – érvényesíteni kell.
+
+#### 8. §[^32]
+
+A felszíni víztestek jó kémiai állapotának elérése és fenntartása érdekében az 1. számú melléklet B) pontjában meghatározott I. lista szerinti anyagok, valamint E) pontjában meghatározott elsőbbségi veszélyes anyagok, anyagcsoportok kibocsátásának fokozatos kiküszöbölésére, továbbá a B) pontban meghatározott II. lista szerinti anyagok, valamint az E) pontban meghatározott elsőbbségi anyagok, anyagcsoportok kibocsátásának csökkentésére intézkedéseket kell hozni a vízgyűjtő-gazdálkodási tervben.
+
+### A kibocsátó általános kötelezettségei
+
+#### 9. §
+
+(1) A kibocsátó köteles a keletkezett szenny- vagy használt vizet az engedélyben előírt kibocsátási határértékre megtisztítani vagy megtisztíttatni.
+
+(2) A vízhasználatokat és a vizek védelmét szolgáló beavatkozásokat úgy kell végezni, hogy
+
+a) a vízszennyezést megelőzzék, vagy a környezet terhelését a lehető legkisebb mértékűre csökkentsék;
+
+b) takarékos vízhasználatot és hatékony energiafelhasználást valósítsanak meg.
+
+(3)[^33] A felszíni víz jó állapotának elérése érdekében a vízszennyező anyagok tekintetében megállapított környezeti célkitűzéseket, valamint a környezetminőségi és vízminőségi határértékeket (a továbbiakban együtt: vízszennyezettségi határérték), továbbá a kibocsátási határértékeket a tevékenység és létesítmény tervezésénél figyelembe kell venni, valamint a megvalósítás és működtetés során be kell tartani.
+
+#### 10. §
+
+(1) Új létesítmények tervezésénél és megvalósításánál, valamint működtetésénél az elérhető legjobb technikának megfelelő kibocsátási színvonalat eredményező módszereket, eljárásokat, termelő, illetőleg szennyvíztisztító berendezéseket kell alkalmazni.
+
+(2) Tilos vízterhelést okozó új létesítményt telepíteni, ha a 42. § (1) bekezdés szerinti előírások nem teljesíthetők, továbbá – a 26. § (4)–(5) bekezdésben foglalt kivételekkel – ha a befogadó mértékadó vízszennyezettsége már meghaladja vagy a tervezett létesítmény szennyezőanyag- kibocsátásának hatására várhatóan meghaladhatja a vízszennyezettségi határértéket.
+
+#### 11. §
+
+(1) Aki a vízhasználata során, a kibocsátási határértéket valamely szennyező anyag tekintetében meghaladó szennyezettségű vizet vesz ki a felszíni vízből, és a tevékenysége során keletkező szennyvizet ugyanabba a befogadóba bocsátja, kizárólag az általa okozott többletszennyezésért felel.
+
+(2) A kibocsátó üzemszerű működésén kívülálló okból bekövetkező, rendkívüli szennyezés esetében a kibocsátó
+
+a)[^34] haladéktalanul köteles arról a vízvédelmi hatóság részére bejelentést tenni az addig tett intézkedések egyidejű közlésével
+
+aa)[^35] közvetlen bevezetés esetén a vízügyi igazgatóságnak, végpontján szennyvíztisztító telepet nem tartalmazó közös szennyvízelvezetés esetén a szolgáltatónak vagy a közös üzemi csatornát üzemeltetőnek is,
+
+ab) közvetett bevezetés esetén a szolgáltatónak vagy a közös üzemi tisztítót üzemeltetőnek is;
+
+b)[^36] azonnali beavatkozást igénylő esetben a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben foglaltaknak megfelelően a kárelhárítást azonnal köteles megkezdeni.
+
+### A szennyvizek kibocsátására vonatkozó általános szabályok
+
+#### 12. §
+
+(1)[^37] Az 1. számú melléklet B) pontjában meghatározott, I. lista szerinti vízszennyező anyagok és az *E)* pontban megjelölt elsőbbségi veszélyes anyagok felszíni vízbe való kibocsátását a kibocsátó technológiák fejlődésével párhuzamosan a 8. § (1) bekezdésében előírtakra is figyelemmel fokozatosan meg kell szüntetni. A kibocsátás megszüntetéséig a kibocsátás a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott, illetőleg a vízvédelmi hatóság által előírt határértékek és határidők megtartásával végezhető.
+
+(2) Az 1. számú melléklet C) pontjában meghatározott anyagok kibocsátása, valamint *D)* pontjában meghatározott anyagok kibocsátása az ott felsorolt technológiákból tilos.
+
+(3)[^38] Közcsatornába szennyvíz (használt víz) csak a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet és a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerint, valamint e rendelet előírásainak betartásával bocsátható.
+
+(4)[^39] Zárt gyűjtőben gyűjtött szennyvizet (használt vizet) közcsatornába vezetni – a kizárólag házi szennyvizek kivételével – csak akkor lehet, ha a szennyvizet megfelelően kialakított és az adott technológiára előírt technológiai határérték, illetőleg küszöbérték alapján méretezett szennyvíz előkezelőn való előtisztítást követően vezették a gyűjtőbe. Előtisztítás hiányában technológiából származó szennyvizet (használt vizet) nem közművel összegyűjtött háztartási szennyvízként kizárólag nem közművel összegyűjtött háztartási szennyvíz leürítő helyen és előzetes minőségvizsgálat ismeretében, a szolgáltató által adott a tisztításra vonatkozó vállalkozási nyilatkozat alapján szabad leüríteni. Kommunális és technológiai szennyvizek egyazon fordulóban nem szippanthatók, a jármű tartályában való keveredésük nem engedhető meg.
+
+(5)[^40] Közcsatornába – a háztartások, továbbá a napi száz adagnál kisebb kapacitású vendéglátó-ipari egységek kibocsátásait, valamint a vízvédelmi hatóság által jóváhagyott előkezelést követően külön engedélyezett eseteket kivéve – tilos bármilyen hulladékot, így élelmiszer-hulladékot bocsátani, kiemelt figyelemmel a gépi eszközök és őrlők által előállított, házi és közüzemi konyhákból, éttermekből, feldolgozóüzemekből származó szilárd vagy folyékony hulladékokra.
+
+(6) Elválasztott rendszerű (nyílt vagy zárt szelvényű) települései csapadékvíz-elvezető csatornába szennyvizet vezetni tilos az üzemi területen összegyűjtött, megfelelően tisztított csapadékvizek kivételével.
+
+#### 13. §
+
+A szennyvizet kibocsátó létesítmények üzemeltetése során a környezet védelme szempontjából az elérhető legjobb technikát kell alkalmazni. Ennek meghatározásánál figyelembe kell venni
+
+a) a tevékenység folytatásához szükséges veszélyes anyagok mennyiségének csökkentését, fokozatos kiküszöbölését;
+
+b) a tevékenységhez szükséges víz takarékos, a nyers- és segédanyagok, valamint az energia hatékony felhasználását;
+
+c) a környezet szennyezésének megelőzését, a káros hatások, illetve ezek kockázatának csökkentését;
+
+d) a balesetek megelőzését és a bekövetkezett balesetek környezeti következményeinek csökkentését;
+
+e)[^41] a tevékenység felhagyása esetén, az esetleges további szennyezések, károsodások kockázatának elkerüléséhez és a működési terület környezetvédelmi szempontból megfelelő állapotának visszaállításához szükséges, megkövetelt intézkedéseket.
+
+#### 14. §
+
+(1) A szennyvízkibocsátással járó létesítmények működtetése során:
+
+a) olyan anyag-, víz- és energiafelhasználást kell folytatni, amely nem okozza a kibocsátási határértékek túllépését és megfelel az egyéb környezetvédelmi előírásoknak;
+
+b) a szennyvíztisztító és a szennyvízkezelő berendezések szakszerű üzemeltetéséről folyamatosan, karbantartásukról rendszeresen gondoskodni kell;
+
+c)[^42] a technológiai előírások megtartásával, az üzemzavarok megelőzésével, illetőleg elhárításával a vízszennyezést meg kell akadályozni.
+
+(2) Az engedélyben előírt kibocsátási határértéket hígítás útján teljesíteni a befogadó vagy közcsatorna védelmében jogszabálynak, illetőleg hatósági intézkedésnek megfelelően lehet.
+
+(3) Az engedélyben megállapított követelmény nem teljesíthető olyan eljárás alkalmazásával, amely más környezeti elem szennyezésével jár.
+
+(4) A kibocsátási határértéket – a kibocsátás utáni hígulást figyelmen kívül hagyva a vízszennyező anyag koncentrációjának meghatározása során – az engedélyben rögzített, illetve arra a pontra kell alkalmazni, ahol a kibocsátott szennyező anyag elhagyja a vízszennyező forrást. Közvetett bevezetés esetén a szennyvíztisztító telep tisztítóképessége is figyelembe vehető az érintett vízszennyező források kibocsátási határértékeinek meghatározásakor.
+
+(4a)[^43] A vízvédelmi hatóság azokra a felszíni vizeket szennyező elsőbbségi és egyéb veszélyes anyagokra, amelyekre a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendelet környezetminőségi határértékeket határoz meg, a befogadó terhelhetőségére tekintettel keveredési zónát jelölhet ki. A keveredési zónában az elsőbbségi és egyéb veszélyes anyagok, anyagcsoportok koncentrációja – nem érintve a felszíni víz további részét – meghaladhatja a környezetminőségi határértéket.
+
+(5)[^44] Amennyiben a kibocsátott szennyvíz veszélyezteti vagy korlátozza a felszíni vízből kivett víz használatát, vagy károsan szennyezi a közcsatornát, illetőleg veszélyezteti a szennyvíztisztító működését, illetve tisztítási hatékonyságát, a vízvédelmi hatóság – a települési szennyvíztisztító telepek, a közszolgáltatást végző, létfenntartási, közegészségügyi, köznevelési, szakképző és tűz- és katasztrófavédelmi feladatokat ellátó intézmények kivételével – a kibocsátót a veszélyeztetés vagy károsodás mértékétől függően határozatban kötelezi a szennyvízkibocsátás korlátozására vagy leállítására.
+
+(6)[^45] A 27. § (2) bekezdésében meghatározott kibocsátók a szennyvízkibocsátásuk mennyiségi és minőségi adatait – használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben meghatározottak szerint – rendszeresen mérni (önellenőrzés), és nyilvántartani kötelesek.
+
+## II.
+
+### RÉSZLETES RENDELKEZÉSEK
+
+### Kibocsátási határértékek
+
+#### 14/A. §[^46]
+
+A kibocsátási határértékeket a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazási szabályairól szóló miniszteri rendeletben meghatározott vízszennyezettségi határértékek figyelembevételével kell meghatározni.
+
+#### 15. §
+
+(1) Az adott technológiára vonatkozó kibocsátási határértékeket (a továbbiakban: technológiai határérték) az elérhető legjobb technika alkalmazásából és a kapcsolódó szennyvíztisztítási tevékenységből származó szennyezőanyag-kibocsátás értékeinek alapulvételével kell meghatározni.
+
+(2)[^47] A technológiai határértékeket és alkalmazásuk szabályait a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet határozza meg.
+
+#### 16. §[^48]
+
+A közvetlen bevezetésre vonatkozó területi határértékeket (a továbbiakban: területi határérték) a vízminőségvédelmi területi kategóriák alapján a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet határozza meg. A területi határérték akkor alkalmazható, ha az adott kibocsátás adott szennyező anyagára a 15. § szerinti határérték nem állapítható meg.
+
+#### 17. §[^49]
+
+A közcsatornába bocsátható szennyvíz szennyezőanyag-tartalmának mértékét (a továbbiakban: küszöbérték) a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet határozza meg. Egy adott szennyező anyag közcsatornába bocsátásának engedélyezésekor a küszöbérték megállapítása során e rendelet 21. §-ának rendelkezései szerint kell eljárni.
+
+### A kibocsátási határértékek megállapítása közvetlen bevezetés esetén
+
+#### 18. §
+
+(1)[^50] A kibocsátási határértéket a kibocsátó számára a vízvédelmi hatóság – a (2)–(4) bekezdésben, a 12–17. §-ban, a 19–22. §-ban foglaltak figyelembevételével – a 25. § (1) bekezdés szerinti engedélyben állapítja meg.
+
+(2)[^51] A vízvédelmi hatóság a kibocsátási határértéket a technológiai határérték és a területi határérték alapján határozza meg a következők szerint:
+
+a) ha a tevékenységre van technológiai kibocsátási határérték, akkor kibocsátási határértéknek azt kell előírni;
+
+b) ha a tevékenységre vagy a kibocsátásra jellemző szennyező anyagok közül egy adott szennyező anyagra nincs technológiai határérték, akkor a vonatkozó területi határértéket kell előírni kibocsátási határértéknek.
+
+(3) A 38. § (1) bekezdés szerinti türelmi idő alatt olyan közcsatornából való közvetlen bevezetés esetében, ahol a szennyvízlevezető mű gyűjtőrendszeréhez nem kapcsolódik szennyvíztisztító, a kibocsátási határértéket a 22. § (2) bekezdés szerint kell a szolgáltató kibocsátására vonatkozóan megállapítani.
+
+(4)[^52]
+
+#### 19. §[^53]
+
+(1)[^54] A vízvédelmi hatóság a kibocsátó kérelmére vagy hivatalból egyedi határértéket állapíthat meg
+
+a) a 2. számú melléklet 2.9. pontjában meghatározott anyagok tekintetében a kibocsátásra, vagy
+
+b) a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott technológiai és területi határértéktől történő eltérés esetében.
+
+(2) Az egyedi határérték megállapítása során figyelembe kell venni:
+
+a) a befogadó terhelhetőségét,
+
+b)[^55]
+
+c) a jó kémiai és ökológiai állapot megőrzésének, szükség szerinti elérésének szempontjait, valamint
+
+d)[^56]
+
+(2a)[^57] Ha a termálvíz hasznosításából keletkező szennyvíz bevezetése a hatásterületen lévő befogadó vízfolyás-rendszer hasznosítását veszélyezteti, a szennyvizet a hatóság által meghatározott időszakban és módon, a vízhasználat veszélyeztetése nélkül lehet bevezetni a vízfolyásba.
+
+(3) A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott legkisebb és legnagyobb határértéktől eltérni nem lehet. Nem lehet enyhébb határértéket megállapítani
+
+a) azokra a felszíni vizeket szennyező elsőbbségi és egyéb veszélyes anyagokra, amelyekre a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendelet környezetminőségi határértékeket határoz meg, az ott meghatározott határértékeknél, valamint
+
+b) a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott, települések szennyvízelvezetésére és -tisztítására vonatkozó technológiai határértékeknél a 2000 LE feletti terhelési kapacitású települési szennyvíztisztító telepek esetében.
+
+(4)[^58] A kibocsátó külön kérelmére a vízvédelmi hatóság által e rendelet szerint megállapított egyedi határérték felülvizsgálható, amennyiben a kérelmet a kibocsátó a befogadó terhelhetőségére vonatkozó mérésekkel és számításokkal alátámasztja. A felülvizsgálat következtében az egyedi határérték megállapítása a (2) bekezdésben foglaltakra figyelemmel történik.
+
+#### 19/A. §[^59]
+
+Időszakos vízfolyásba történő vízszennyező anyag bevezetése esetén a 19. § (3) bekezdésében meghatározott kivételek figyelembevételével a kibocsátási határérték a területi határérték alapján vagy az egyedi határérték megállapításával határozható meg.
+
+### A kibocsátási határértékek (küszöbértékek) megállapítása közvetett bevezetés esetén
+
+#### 20. §[^60]
+
+A közös üzemi szennyvíztisztításra vezetett szennyvíz (használt víz) egy adott szennyező anyagának közös üzemi csatornába vezethetőségére vonatkozó kibocsátási határértékét a vízvédelmi hatóság a 18. § (1) bekezdésére figyelemmel, a közös üzemi szennyvíztisztító üzemeltetőjének vállalása szerinti szennyezőanyag-terhelési szint figyelembevételével állapítja meg.
+
+#### 21. §
+
+(1)[^61] A küszöbértéket a vízvédelmi hatóság a 25. § (1) bekezdés szerinti engedélyben állapítja meg.
+
+(2)[^62] A közcsatornába vezethető szennyvíz (használt víz) egy adott szennyező anyagának küszöbértékét, amennyiben a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet az anyagra, anyagcsoportra küszöbértéket határoz meg, akkor az aszerint meghatározott koncentráció szinten kell előírni.
+
+(3)[^63] Amennyiben a közcsatornába vezetendő szennyvíz, használt víz a 2. számú melléklet 2.9. B) pontja szerinti veszélyes és mérgező anyagot tartalmaz, és az adott anyagra adott tevékenység esetén vonatkozik a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti felszíni víz befogadóba vezetésre vonatkozó technológiai határérték, úgy küszöbértéknek azt kell előírni. A keletkezési helyre és az elkeveredés előtti pontra a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben meghatározott technológiai határértéket a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szabályozása szerinti helyre előírt küszöbértékként kell alkalmazni.
+
+(4) A 38. § (1) bekezdés szerinti türelmi idő alatt, arra a kibocsátásra, melyet olyan közcsatornába vezetnek, melynek gyűjtőrendszeréhez nem kapcsolódik szennyvíztisztító telep, a küszöbértéket a 22. § (1) bekezdés szerint kell a kibocsátásra vonatkozóan megállapítani.
+
+#### 22. §
+
+(1) Azon kibocsátók esetében, akik szennyvizüket olyan közcsatornába (szennyvízelvezető mű gyűjtőrendszerébe) bocsátják, melynek gyűjtőrendszeréhez nem kapcsolódik szennyvíztisztító telep, a települési tisztító üzembe helyezéséig vagy legfeljebb a települési tisztítókra vonatkozó türelmi idő végéig a kibocsátás engedélyezésénél a 21. § (1)–(3) bekezdés szerint megállapított küszöbértékeket kell előírni, és annak túllépése esetén csatornabírságot kell kiszabni.
+
+(2)[^64] Az (1) bekezdés szerint meghatározott közcsatornát üzemeltető szolgáltatónak, mint engedélyesnek, a türelmi idő alatt közvetlen bevezetésre vonatkozó kibocsátási határértékeit az e rendelet 18–19. §-ában foglaltaktól eltérően egyedileg úgy kell meghatározni, hogy egy adott szennyező anyagra vonatkozó kibocsátási határérték legfeljebb az ugyanazon szennyező anyagra vonatkozó a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti küszöbértékkel lehet azonos koncentrációjú.
+
+### A közös szennyvízelvezetésre és -tisztításra vonatkozó különös szabályok közvetett bevezetés esetében
+
+#### 23. §
+
+(1)[^65] Több kibocsátó által közösen használt szennyvízelvezető, valamint szennyvíztisztító létesítmény esetén az üzemeltető, közcsatorna (víziközmű) esetén a szolgáltató felelős a szennyvíztisztítási előírások megtartásáért, a létesítmény tulajdonosa(i) felelős(ek) a kibocsátói szennyezéscsökkentési ütemterv (a továbbiakban: szennyezéscsökkentési ütemterv) elkészítéséért, a terv vízvédelmi hatósággal való jóváhagyatásáért és a tervben foglalt fejlesztések (beruházások) megvalósításáért.
+
+(2) Szennyvíz (használt víz) közcsatornába vagy közös üzemi szennyvíztisztítóra vezetése esetén a szolgáltató, illetve a közös üzemi szennyvíztisztító üzemeltetője a szennyezett víz tisztítását szerződés keretében vállalja.
+
+(3) A szolgáltató, illetve a közös üzemi szennyvíztisztító üzemeltetője csak olyan szennyező anyagot tartalmazó szennyvíz, illetőleg kibocsátott szennyezőanyag-koncentráció tisztítására vállalkozhat, melynek tisztítására a technológiája alkalmas.
+
+(4) A (2) bekezdés szerinti szerződés hiányában a közcsatornába bocsátó a 2. számú melléklet 2/II. h) pontja szerinti vízvédelmi bírság megfizetésére kötelezhető.
+
+#### 24. §
+
+A kibocsátó köteles megtéríteni a szolgáltatónak, illetve a közös üzemi tisztítót üzemeltetőnek mindazokat a károkat és többletüzemelési költségeket (a vízszennyezési bírság kivételével), amelyek a szennyvízkibocsátás mértékét meghatározó engedélyben foglaltaktól, illetve a szerződésben foglaltaktól eltérő szennyvíz kibocsátásának következtében merültek fel.
+
+### Szennyvízkibocsátás engedélyezése
+
+#### 25. §
+
+(1)[^66] A szennyvízkibocsátással, közcsatornába vezetéssel kapcsolatos környezetvédelmi követelményeket a kibocsátó számára a környezet védelmének általános szabályairól szóló törvény és a vízgazdálkodásról szóló törvény szerinti engedélyben, illetve azok hatálya alá nem tartozó tevékenység esetén a vízvédelmi hatóság által kiadott külön engedélyben kell meghatározni.
+
+(2)[^67] A kibocsátó (1) bekezdés szerinti engedély iránti kérelmének a 3. számú mellékletben foglaltak mellett tartalmaznia kell
+
+a) a kibocsátásra jellemző szennyező anyagok megnevezését és mennyiségéről szóló nyilatkozatát, valamint
+
+b) a közcsatornára történő vezetés esetében a szolgáltatónak a befogadásra vonatkozó hozzájárulását.
+
+(3)[^68] Az engedélyezés során a kibocsátásra és a szennyvizek befogadóba való vezetésének szabályozására kombinált megközelítésen alapuló, a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerinti határértékrendszereket alkalmazó szabályozási módszert kell alkalmazni, figyelembe véve a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazási szabályairól szóló miniszteri rendeletben meghatározott felszíni vizek vízszennyezettségi határértékeit.
+
+(4)[^69] Ha a kibocsátó az (1) bekezdésben meghatározott engedély iránti kérelmében a 3. sz. melléklet 1.7. e) pontjában szereplő telep nyilvántartási számát nem igazolja, a vízvédelmi hatóság adatszolgáltatási kérelemmel fordul az adatról nyilvántartást vezető jegyzőhöz.
+
+(5)[^70] A szennyvízkibocsátás engedélyezése iránti kérelmet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a víz és a földtani közeg részszakterületen szakértői jogosultsággal rendelkező szakértő (a továbbiakban: szakértő) is elkészítheti.
+
+#### 25/A. §[^71]
+
+(1) A 25. § (1) bekezdése szerinti engedély iránti kérelem csak írásban terjeszthető elő.
+
+(2) A vízvédelmi hatóság eljárásában az eljárás szünetelésének nincs helye.
+
+(3) A vízvédelmi hatóság döntését írásban közli az ügyfelekkel.
+
+#### 25/B. §[^72]
+
+Ha a bányászati létesítmények esetében a felszíni vizek minőségének védelmét szolgáló jogszabályok szerinti kibocsátás történik, a kibocsátásra a vízvédelmi szabályokat kell alkalmazni, amelyek alapján a vízvédelmi hatóság önálló vízvédelmi hatósági intézkedésre jogosult a bányászati létesítmény üzemeltetőjével szemben.
+
+#### 26. §
+
+(1)[^73] A 25. § (1) bekezdése szerinti engedély határozott időtartamra, legfeljebb 5 évre – az 1. számú melléklet B) pontjának I. listájába tartozó anyagot kibocsátókra vonatkozóan legfeljebb 4 évre – adható.
+
+(2)[^74] A szennyvízkibocsátásra vonatkozó engedély visszavonásáról, módosításáról a vízvédelmi hatóság hivatalból vagy a kibocsátó kérelme alapján, illetve a 14. § (5), 37. § (5) bekezdésekben meghatározott feltételek fennállása esetén dönt.
+
+(3)[^75] Új létesítmények esetén a kibocsátó a próbaüzem lezárásáig akkreditált laboratórium által végzett – a próbaüzem elindítását követően minimum négy alkalommal azonos időközönként vett – mérési eredményekkel köteles igazolni, hogy az engedélyben előírt határértéket, illetve küszöbértéket tartósan és folyamatosan betartja.
+
+(4)[^76] Akkor engedélyezhető az új kibocsátás, ha
+
+a) annak hatásait a befogadó vízszennyezettségi határértékének betartása érdekében
+
+aa) a meglévő létesítmény kibocsátására vonatkozóan engedélyezett kibocsátói szennyezéscsökkentési terv megvalósításával elért szennyezéscsökkentéssel, vagy
+
+ab) az új kibocsátó által kezdeményezett és megvalósított beruházás által más kibocsátónál elért szennyezéscsökkentéssel ellensúlyozni lehet, vagy
+
+b) a vízgyűjtő-gazdálkodási tervben meghatározott kevésbé szigorú környezeti célkitűzések megengedik.
+
+(5)[^77] A vízvédelmi hatóság a befogadó vízminőségénél jobb minőségű szennyvizet kibocsátó új létesítmény telepítését engedélyezheti a 18–19. § figyelembevételével.
+
+### Ellenőrzés
+
+#### 27. §
+
+(1)[^78] A szennyvízkibocsátásokat a vízvédelmi hatóság, közcsatornába bocsátás esetén a vízvédelmi hatóság és a szolgáltató a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben[^79] foglaltak szerint ellenőrizheti.
+
+(2) Önellenőrzésre köteles az a kibocsátó (ill. közcsatornába bocsátó):
+
+a) aki az 1. számú melléklet I. lista szerinti veszélyes anyagot, vagy elsőbbségi veszélyes anyagot bocsát ki vagy használ;
+
+b)[^80] akinek önellenőrzési kötelezettségét a vízvédelmi hatóság környezet veszélyeztetettség miatt megállapítja, továbbá
+
+c) aki az engedélye szerint, illetőleg a telephelyről (szennyvíztisztítóból) a megelőző év adatai alapján 15 m<sup>3</sup>/üzemnap mennyiséget meghaladó szennyvizet
+
+ca) közvetlenül a befogadóba vezet,
+
+cb)[^81] közvetve (közcsatornán vagy közös üzemi tisztítón keresztül) a befogadóba vezet és egyúttal a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet szerint meghatározott tevékenység folytatása során keletkező szennyvizet bocsát ki;
+
+d)[^82] akinek felszíni vízbe történő vízszennyező anyag kibocsátására a vízvédelmi hatóság keveredési zónát jelölt ki.
+
+(3)[^83] Az önellenőrzésre nem kötelezett kibocsátó – a vízvédelmi hatóságnak történő bejelentéssel és jóváhagyással – önellenőrzésre vállalkozhat. Ez esetben a kibocsátóra az önellenőrzésre kötelezettekre vonatkozó ellenőrzési szabályokat kell alkalmazni.
+
+(4)[^84] A felszíni vízbe történő közvetlen bevezetés esetén a 27. § (2) bekezdés szerinti kibocsátó a bebocsátási pont alatt és felett, illetve amennyiben a hatóság keveredési zónát jelölt ki, a keveredési zóna határai felett és alatt állandó kibocsátóknál évente legalább kétszer, időszakos üzemeknél legalább egyszer köteles a befogadó vízszennyezettségének ellenőrzésére. Az ellenőrzés rendjét és szabályait a vízvédelmi hatóság a kibocsátási engedélyben határozza meg.
+
+#### 28. §
+
+(1)[^85] Az önellenőrzésre kötelezett a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben meghatározott tartalommal önellenőrzési tervet köteles készíteni, amelyet a vízvédelmi hatóság részére elektronikus úton, valamint
+
+a) közcsatornába bocsátás esetében a szolgáltatónak,
+
+b) közös üzemi csatornába bocsátás esetén a közös üzemi szennyvíztisztítót üzemeltetőnek
+
+köteles megküldeni.
+
+(1a)[^86] A vízvédelmi hatóság a terv benyújtásától számított 30 napon belül dönt annak jóváhagyásáról.
+
+(1b)[^87] A terv a szennyvízkibocsátással, közcsatornába, közös üzemi csatornába vezetéssel kapcsolatos környezetvédelmi követelményeket előíró, a környezet védelmének általános szabályairól szóló törvény és a vízgazdálkodásról szóló törvény szerinti engedély, illetve azok hatálya alá nem tartozó tevékenység esetén a vízvédelmi hatóság által kiadott külön engedély időbeli hatályáig alkalmazható.
+
+(2)[^88] Az önellenőrzésre kötelezett kibocsátónak az önellenőrzési tervet első alkalommal a kibocsátási engedély hatálybalépését követő 60 napon belül, ezt követően az engedély időbeli hatályának lejártát megelőző 60 napon belül kell benyújtani, melyet legalább 5 évente felül kell vizsgálni. Az önellenőrzési tervet szakértő is elkészítheti, és a vízvédelmi hatóság hagyja jóvá. Az önellenőrzési terv szerinti éves vizsgálati időpontokat a tárgyévet megelőző év november 30-áig be kell jelenteni a vízvédelmi hatóságnak, mely bejelentés nem minősül az önellenőrzési terv módosításának. Az önellenőrzési tervben rögzített ellenőrzések száma – az időszakos üzemek kivételével – egy naptári évben 2 alkalomnál kevesebb nem lehet.
+
+(2a)[^89] Ha a vízvédelmi hatóság az általa lefolytatott ellenőrzés vagy a kibocsátó bejelentése alapján megállapítja, hogy az önellenőrzési terv tartalmát érintő lényeges változás következett be, elrendeli a terv felülvizsgálatát.
+
+(2b)[^90] A közcsatornán keresztül, szabadkiömléssel, közvetlenül bevezetett használt vagy szennyvíz, valamint rizstermesztési, illetve halgazdálkodási tevékenység során kibocsátott használt víz esetén, az önellenőrzésre vonatkozó kötelezettséget – annak tartalmi elemei meghatározásával – a hatóság egyedileg állapítja meg, mérlegelve az önellenőrzés gyakorlati megvalósíthatóságát.
+
+(3)[^91] Az önellenőrzésre kötelezett az önellenőrzés keretében végzett vizsgálatok eredményét – azok tartalmától függetlenül – az önellenőrzési tervben rögzített időpontban, de legkésőbb a mintavételt követő húsz napon belül:
+
+a) közcsatornába bocsátott szennyvíz vizsgálata esetén a szolgáltatónak és elektronikus úton a vízvédelmi hatóságnak,
+
+b) közös üzemi (ipari) csatornába bocsátás esetén a közös üzemi tisztító üzemeltetőjének és elektronikus úton a vízvédelmi hatóságnak,
+
+c) közvetlen felszíni vízbe vezetés esetén a befogadó vizsgálati eredményeivel együtt elektronikus úton a vízvédelmi hatóságnak
+
+köteles megküldeni.
+
+(4)[^92] Az önellenőrzés keretében végzett vizsgálatok eredményeit a szolgáltató, illetve a közös üzemi tisztító üzemeltetője értékeli a kibocsátás határértékeknek való megfelelőség alapján. Amennyiben az önellenőrzés eredménye vagy a szolgáltató által lefolytatott helyszíni ellenőrzés eredménye azt bizonyítja, hogy a kibocsátó vízszennyezést, vagy a közcsatorna károsító szennyezését követte el, a szennyezés megállapítására vonatkozó valamennyi iratot és egyéb vizsgálati adatot meg kell küldeni a vízvédelmi hatóságnak, a kibocsátó adatszolgáltatásától, illetve a szolgáltató ellenőrzése esetében a helyszíni ellenőrzés időpontjától számított harminc napon belül.
+
+(5)[^93] Amennyiben az önellenőrzésre kötelezett vagy önellenőrzésre vállalkozott kibocsátó önellenőrzési tervet nem készít vagy azt nem az elfogadottak szerint hajtja végre, a vízvédelmi hatóság, illetve közcsatornába bocsátás esetén a vízvédelmi hatóság felhívására a szolgáltató, a kibocsátó költségére köteles az engedélyben meghatározott kibocsátás, illetve a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti keletkezés helyén, az elkeveredés előtti ponton a szennyvíz szennyező anyag tartalmának és a kibocsátás körülményeinek használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti meghatározott vizsgálatára.
+
+(6) Amennyiben a (5) bekezdésben foglaltak következtében a szennyvízkibocsátás az önellenőrzés keretében nem ellenőrizhető, a kibocsátó az e rendelet szerinti vízvédelmi bírság fizetésére köteles.
+
+#### 28/A. §[^94]
+
+Az önellenőrzésre köteles kibocsátó folyamatosan üzemnaplót köteles vezetni. A hatóság az üzemnapló vezetését ellenőrzi és ha megállapítja, hogy az nem felel meg a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendeletben előírt tartalmi követelményeknek, az üzemeltetőt a hiányosságok megszüntetésére kötelezi.
+
+#### 29. §[^95]
+
+(1) A kibocsátó önellenőrzésének megfelelőségét, valamint az önellenőrzésre nem kötelezett, illetve nem vállalkozott kibocsátó esetében a befogadóra vonatkozó határértékek betartását a vízvédelmi hatóság, továbbá közcsatornába bocsátás esetében a küszöbértékek betartását a vízvédelmi hatóság és a szolgáltató (a továbbiakban együtt: ellenőrzésre jogosult) ellenőrzi.
+
+(2) A kibocsátási határérték betartását az engedélyben meghatározott mintavételi helyen:
+
+a) önellenőrzésre kötelezettek esetében a kibocsátó önellenőrzése,
+
+b) önellenőrzésre nem kötelezett kibocsátó esetében a vízvédelmi hatóság, közcsatornába bocsátás esetében a szolgáltató ellenőrzése
+
+alapján kell megállapítani.
+
+(3) Az év meghatározott szakaszában üzemelő kibocsátónál (idényüzem) az idény tartama, az időszakosan változó technológiával vagy szennyvízkibocsátással folyamatosan üzemelő kibocsátónál a különböző működési ciklusok tartama alatt lehet a helyszíni ellenőrzést – a tervezett üzemnapok számának függvényében – a szükséges gyakorisággal megtartani.
+
+(4) Önellenőrzésre nem kötelezett kibocsátóknál folyamatos szennyvízkibocsátás esetén az ellenőrzésre jogosult helyszíni ellenőrzést tarthat, idényüzem esetében a (3) bekezdés rendelkezéseit kell megfelelően alkalmazni.
+
+#### 30. §[^96]
+
+(1) A 27. § (2) bekezdésében meghatározott kibocsátó a szennyvízkibocsátás jellemzőiről és a technológiai folyamatok üzemviteléről adatot szolgáltat, és évente összefoglaló jelentést készít.
+
+(2) A 27. § (2) bekezdés d) pontjában meghatározott kibocsátó a szennyezőanyag mennyiségi- és technológiai felhasználásáról, az engedélyben meghatározott kibocsátott anyag mennyiségéről, a technológiai veszteségekről jelentést készít.
+
+(3)[^97] Az (1) és (2) bekezdés szerinti adatokat és jelentést a kibocsátó a tárgyévet követő év március 31-ig elektronikus úton megküldi az illetékes vízvédelmi hatóságnak, amelyekről a vízvédelmi hatóság nyilvántartást vezet.
+
+(4)[^98] Az (1) és a (2) bekezdés szerinti adatszolgáltatás és jelentéstétel során a 27. § (2) bekezdésében meghatározott kibocsátó felelőssége, hogy a rá vonatkozó számviteli szabályokkal, statisztikai rendszerrel, valamint az egyéb nyilvántartási rendszereivel és mérési, megfigyelési adataival megegyező, teljes körű adatokat szolgáltasson a vízvédelmi hatóság részére.
+
+#### 30/A. §[^99]
+
+(1) Az üzemeltetésben, annak körülményeiben, funkciójában, a létesítmény kiterjedésében, kapacitásában tervezett jelentős változtatásokat a vízvédelmi hatóság részére 15 napon belül be kell jelenteni elektronikus úton.
+
+(2) Az alapbejelentés adatainak változásáról a változást követő 15 napon belül elektronikus úton tájékoztatni kell a vízvédelmi hatóságot.
+
+(3) Ha az üzemeltető személye év közben változik, az üzemeltető éves jelentést készít a ténylegesen általa végzett tevékenység időszakára, amelyet elektronikus úton megküld a vízvédelmi hatóságnak.
+
+### Bírságok és egyéb jogkövetkezmények
+
+#### 31. §
+
+(1)[^100] Az a kibocsátó aki az e rendelet vagy a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerinti engedélyezés során előírt kibocsátási határértéket túllépi vagy az engedélyben meghatározottaktól eltérő szennyező anyagot vagy az 1. számú melléklet C)–D) pontjában meghatározott tiltott anyagot bocsát ki, az e rendelet szerinti csatornabírság vagy vízszennyezési bírság fizetésére köteles.
+
+(2)[^101] Vízszennyező anyagnak küszöbérték fölötti kibocsátása vagy a szolgáltatói szerződésben a küszöbérték fölött egyedileg befogadásra vállalt és a vízvédelmi hatóság által engedélyezett koncentráció szintje fölötti kibocsátása után csatornabírságot kell megállapítani és kiszabni.
+
+(3) Vízszennyező anyagnak a kibocsátási határértéket meghaladó mértékű közös üzemi (ipari) csatornába vezetése vagy közvetlen bevezetése esetén vízszennyezési bírságot kell megállapítani és kiszabni.
+
+(4) Az e rendelet 35. § (1) bekezdésében meghatározott jogellenes magatartás elkövetéséért vízvédelmi bírságot kell megállapítani és kiszabni.
+
+(5)[^102] Az (1)–(4) bekezdésben meghatározott bírságot a vízvédelmi hatóság állapítja meg és szabja ki. A csatornabírság megállapításához a szolgáltató bírságjavaslatot köteles készíteni és azt a szennyvízkibocsátás évét követő év március 31-éig a vízvédelmi hatóságnak megküldeni.
+
+(6)[^103]
+
+#### 32. §
+
+(1) A csatornabírság vagy vízszennyezési bírság megállapításánál a 38. § (1) bekezdés szerinti türelmi időt figyelembe kell venni.
+
+(2) A bírság megfizetése nem tekinthető a már megtörtént és a további szennyezésre vonatkozó engedélynek, és nem mentesít a 39. § (1) bekezdés szerinti szennyezéscsökkentési intézkedések megtétele alól.
+
+(3) Ha a szennyvíz, illetve szennyező anyag elháríthatatlan külső ok (különös tekintettel katasztrófa, tűz, robbanás, árvíz, egyéb elemi károk bekövetkezésére), továbbá kárelhárítási gyakorlat kapcsán kerül a befogadóba, a kibocsátó felelősségének hiányában bírság nem állapítható meg.
+
+### Csatornabírság, vízszennyezési bírság megállapítása és kiszabása
+
+#### 33. §
+
+(1)[^104] A vízvédelmi hatóság a csatornabírságot a szolgáltató bírságjavaslata figyelembevételével, illetve a vízszennyezési bírságot a 2. számú melléklet 1. pontja szerint állapítja meg és tárgyévet követő év december 31-ig szabja ki.[^105]
+
+(2)[^106] A csatornabírságot, illetve vízszennyezési bírságot önellenőrzésre nem kötelezett kibocsátóknál a helyszíni ellenőrzés alapján, önellenőrzésre kötelezetteknél, ha a vízvédelmi hatóság, illetve a szolgáltató az önellenőrzés megfelelőségét elfogadta, az önellenőrzési adatok alapján kell megállapítani. Az önellenőrzés meg nem felelése esetén a bírságot a helyszíni ellenőrzés alapján kell megállapítani.
+
+(3)[^107] Nem szennyvízzel felszíni vízbe vagy közcsatornába – az engedélyezett minőségben és módon ürített nem közművel összegyűjtött háztartási szennyvíz kivételével – bebocsátott szennyező anyag esetén a bírságot annak teljes mennyisége után kell megállapítani.
+
+(4) A 32.[^108] § (3) bekezdésében meghatározott esetben a közcsatornában (szennyvíztisztító telepen) kárelhárítási gyakorlattal okozott kár megtérítését a szolgáltató külön igényelheti.
+
+#### 34. §
+
+(1)[^109] Ha a közcsatornába bocsátás előtti szennyvízelvezető létesítményt, illetve a szennyvíz-előtisztító berendezést több kibocsátó közösen használja, a bírságot a csatlakozó szennyvízhálózat és közös bekötés esetében az átadási ponthoz tartozó házi szennyvízhálózat, illetőleg csatlakozó víziközmű-hálózat működtetője köteles megfizetni.
+
+(2) Közös üzemi (ipari) csatornán, illetve közös üzemi szennyvíztisztítón át közvetlenül felszíni vízbe bocsátott szennyezés esetében a vízszennyezési bírságot minden vízszennyező anyagra ki kell számítani, majd a kiszámított bírság összegéből le kell vonni az adott közös üzemi (ipari) csatornába vezető kibocsátókra az ugyanazon szennyező anyag miatt megállapított bírság összegét. A levonás nem haladhatja meg a közös üzemi tisztítót üzemeltetőre ezen szennyező anyagok miatt kivetett bírság összegét. A közös üzemi szennyvíztisztítót (csatornát) üzemeltetőre az így megállapított vízszennyezési bírságot kell kiszabni.
+
+(3)[^110] A bírságot a határozat véglegessé válását követő hónap 15. napjáig kell a határozatban megjelölt kedvezményezett részére (fizetési számlájára) befizetni
+
+a)[^111] vízszennyezési bírság fizetése esetében a bírság 70%-át az illetékes vízvédelmi hatóság és a bírság 30%-át a határozatban kedvezményezettként megjelölt önkormányzat,
+
+b)[^112] csatornabírság fizetése esetében a bírság 97%-át a határozatban kedvezményezettként megjelölt szolgáltató és a bírság 3%-át, de legfeljebb 300 000 Ft-ot a határozatot meghozó vízvédelmi hatóság
+
+részére.
+
+(4)[^113]
+
+(5)[^114] A vízszennyezési vagy a csatornabírságot nem kell kivetni, ha a kiszámított bírság összege egy kibocsátásra számítva kevesebb, mint 50 000 Ft.
+
+(6)[^115] Azon szolgáltató esetében, aki a 2003. évi uniós csatlakozási szerződés X. melléklet 8. Környezetvédelem fejezet B. Vízminőség alcím 1. pontjában foglalt derogációval összefüggő kötelezettsége teljesítésének végrehajtását az Európai Unió társfinanszírozásával valósítja meg, 2023. december 31-ig a fizetendő vízszennyezési bírság összege – a szennyező anyag kibocsátási határérték feletti kibocsátása után – a számított teljes bírság 3%-a.
+
+(7)[^116] A fizetendő csatornabírság összege a 33. § (1) bekezdése szerinti számítási módszer alapján megállapított bírság összegének kétszerese.
+
+### Vízvédelmi bírság
+
+#### 35. §
+
+(1)[^117] Azt a kibocsátót vagy tulajdonost, aki
+
+a)[^118] a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti önellenőrzési terv készítését és annak jóváhagyását elmulasztotta,
+
+b)[^119] az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el,
+
+c)[^120] a jóváhagyott önellenőrzési terv a használt és szennyvizek kibocsátásának ellenőrzésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti teljesítését elmulasztotta,
+
+d) vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl,
+
+e)[^121] szennyezéscsökkentési ütemtervét a vízvédelmi hatóság által előírt határidőig (települési szennyvízelvezetés esetén ez a kötelezettség a tulajdonost terheli) nem készíti el,
+
+f) szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi,
+
+g)[^122] a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti,
+
+h)[^123] engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését engedély nélkül kezdi meg és szennyvízkibocsátást folytat,
+
+i)[^124] engedélyezéshez szükséges adatokban bekövetkezett változást nem jelent be a vízvédelmi hatóságnak, illetve nem kéri az engedély módosítását, valamint a vízvédelmi hatóság felszólítására a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát az előírt határidőre nem küldi meg,
+
+j)[^125] felszíni vízbe, csapadékvíz elvezető hálózatba engedély nélküli szennyvíz (használt víz) bevezetését a vízvédelmi hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát
+
+a vízvédelmi hatóság az e rendelet 2. számú melléklete 2/II. pontjában meghatározott vízvédelmi bírság megfizetésére kötelezi.
+
+(2)[^126] A vízvédelmi bírságot az erről rendelkező határozat véglegessé válását követő harminc napon belül kell a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára a vízvédelmi hatóság részére befizetni.
+
+### Rendkívüli szennyezés
+
+#### 36. §
+
+(1)[^127] Aki rendkívüli szennyezést okoz, rendkívüli vízszennyezési vagy csatornabírságot köteles fizetni.
+
+(2) A rendkívüli vízszennyezési vagy csatornabírságot a szennyezés időszakára minden szennyező anyagra külön-külön, a szennyező anyagok teljes mennyiségére kell meghatározni.
+
+(3) A szennyező anyagok mennyiségét – a kibocsátási határértékek figyelembevétele nélkül – az anyagfelhasználás, illetve a kibocsátott szennyvíz minőségi és mennyiségi adataira figyelemmel, műszaki becsléssel kell meghatározni.
+
+(4) A kiszabott bírság a 2. számú melléklet alapján megállapított bírságösszeg:
+
+a)[^128] ha a kibocsátó a rendkívüli szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette és a károk enyhítése érdekében tőle elvárható módon közreműködött;
+
+b) kétszerese, ha a szennyezés tényét kívülálló észleli, majd a kibocsátó a károk enyhítésében közreműködik;
+
+c)[^129] háromszorosa, ha a kibocsátó a szennyezés tényét a vízvédelmi hatóságnak, illetve a szolgáltatónak haladéktalanul bejelentette, de a károk enyhítésében nem működött közre;
+
+d) ötszöröse, ha a kibocsátó a rendkívüli szennyezésre vonatkozó bejelentési és kárenyhítési kötelezettségének nem tett eleget.
+
+(5)[^130] A vízvédelmi hatóságnak előre bejelentett tervszerű karbantartási műveletből származó vízszennyezés miatt a határérték feletti kibocsátás után kell a vízszennyezési bírságot kiszabni.
+
+### Egyéb jogkövetkezmények
+
+#### 37. §
+
+(1)[^131] Abban az esetben, ha a kibocsátó a vízvédelmi hatóság által jóváhagyott szennyezéscsökkentési ütemtervet neki felróható módon nem hajtja végre, vagy nem az előírt ütemben teljesíti, a vízvédelmi hatóság a szennyező tevékenységet részben vagy egészében korlátozhatja, felfüggesztheti, megtilthatja, a települési szennyvíztisztító telepek, a közszolgáltatást végző, létfenntartási, közegészségügyi, köznevelési, szakképző és tűz- és katasztrófavédelmi feladatokat ellátó intézmények kivételével.
+
+(2) Ha a kibocsátó a szennyezéscsökkentési ütemtervben foglaltak megvalósítása után, a türelmi időn belül nem teljesíti a kibocsátási határértéket, akkor a bírságot a 39. § (3) bekezdésben foglalt kedvezmény mellőzésével kell megállapítani és kiszabni.
+
+(3) Ha a kibocsátó a türelmi idő lejárta után, illetve új létesítmények esetében a (4) bekezdés szerinti teljesítési határidő végéig nem teljesíti a kibocsátási határértéket, akkor a teljes bírságot, kell megállapítani és kiszabni.
+
+(4)[^132] Új létesítmények esetében, amennyiben a próbaüzem lezárását követően a határértékeket a kibocsátó nem tartja be, a vízvédelmi hatóság a szükséges szennyezéscsökkentési intézkedések megtételére kötelezi. A teljesítés határidejét legfeljebb két évre határozza meg a teljes bírság 30%-ának kiszabása mellett.
+
+(5)[^133] Amennyiben a kibocsátó a kibocsátási határértéket nem teljesíti, valamint az előírt szennyezéscsökkentési intézkedéseket nem teszi meg
+
+a) meglévő létesítmények esetében a türelmi idő lejárta utáni első év végéig,
+
+b)[^134] új létesítmények esetében a (4) bekezdés szerinti teljesítési határidő végéig
+
+akkor a szennyező tevékenységét a vízvédelmi hatóság felfüggeszti, korlátozza vagy betiltja. Ez alól kivételt képeznek a települési szennyvíztisztító telepek, a közszolgáltatást végző, létfenntartási, közegészségügyi, közoktatási és tűz- és katasztrófavédelmi feladatokat ellátó intézmények.
+
+### Türelmi idők, kedvezmények
+
+#### 38. §
+
+(1)[^135] A vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet alapján a 19. § (2) bekezdésére figyelemmel megállapított kibocsátási határértékeket – a (2), az (5) és a (6) bekezdésekben foglaltak kivételével – a meglévő létesítményekre legkésőbb 2010. december 31-ig kell teljesíteni (türelmi idő).
+
+(2) Meglévő létesítmények esetében:
+
+a)[^136] a települési szennyvíztisztítás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló kormányrendeletben megállapított érzékeny területeken lévő 10 000 lakosegyenérték fölötti szennyvízelvezetési agglomerációk települési szennyvíztisztító telepei esetén a türelmi idő 2008. december 31;
+
+b) a 15 000 lakosegyenérték alatti szennyvízelvezetési agglomerációk települési szennyvíztisztító telepei esetén a türelmi idő 2015. december 31;
+
+c) az egységes környezethasználati engedélyezés eljárása alá tarozó kibocsátók esetén a türelmi idő 2007. október 31;
+
+d)[^137] az energetikai célú termálvíz-hasznosítás esetén a türelmi idő 2014. december 22.
+
+(3)[^138] Türelmi idő nem állapítható meg azon létesítmények esetében, ahol a kibocsátási határérték e rendelet hatálybalépésekor – e rendelet 25. §-ában meghatározott engedélyezési eljárás során vagy azt megelőzően elvégzett vizsgálati eredmények alapján – teljesíthető.
+
+(4)[^139] A türelmi idő alatt a bírságot
+
+a) a nem szolgáltatónak minősülő kibocsátókra a türelmi idő
+
+első két évében a megállapított bírság 5%-ában,
+
+harmadik évétől a megállapított bírság 25%-ában,
+
+negyedik évétől a megállapított bírság 50%-ában,
+
+ötödik évétől a megállapított bírság 75%-ában,
+
+b) a szolgáltatókra a türelmi idő
+
+első három évében a megállapított bírság 5%-ában,
+
+negyedik évétől a megállapított bírság 8%-ában,
+
+hatodik évétől a megállapított bírság 12%-ában,
+
+nyolcadik évétől a megállapított bírság 15%-ában,
+
+tizedik évétől a megállapított bírság 20%-ában
+
+kell kiszabni a 39. § (3) bekezdésben foglaltak kivételével.
+
+(5)[^140] A szolgáltató kérelmére a hatóság a (7) bekezdésben meghatározott türelmi időn belüli határnapot állapít meg, ha
+
+a) a határértékek teljesítéséhez szükséges beruházás
+
+aa)[^141] vízjogi létesítési engedélye 2010. december 31-ig véglegessé vált, vagy
+
+ab) támogatásáról a Környezet és Energia Operatív Program Irányító Hatósága által jóváhagyott döntés megszületett, és
+
+b) a települési szennyvíztisztítóból kibocsátott szennyvíz a dikromátos oxigénfogyasztás (KOI<sub>k</sub>), a biokémiai oxigénigény (BOI<sub>5</sub>) és az összes lebegőanyag (ÖLA) koncentrációja vagy minimális eltávolítási hatásfoka tekintetében nem haladja meg a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendeletben a települések szennyvíz-elvezetésére és -tisztítására vonatkozó technológiai határértékekként meghatározott követelményeket.
+
+(6)[^142] Ha a nem szolgáltató kibocsátó a hatóság által jóváhagyott szennyezéscsökkentési ütemtervének végrehajtását megkezdte, de azt az ütemezésnek megfelelően nem tudja teljesíteni, akkor – kérelmére – a hatóság a (7) bekezdésben meghatározott türelmi időn belüli határnapot állapíthat meg, ha a nem szolgáltató kibocsátó csatolta a kérelemhez:
+
+a) a módosított szennyezéscsökkentési ütemtervet, valamint
+
+b) az előrehaladás állapotáról szóló jelentést, és
+
+az ezekben foglalt adatok alapján megállapítható, hogy a meghatározott határnapig a módosított szennyezéscsökkentési ütemterv teljesül.
+
+(7)[^143] Az (5) és a (6) bekezdésekben meghatározott esetekben a türelmi idő utolsó napja:
+
+a) 2015. december 31.
+
+aa) a szolgáltató esetében,
+
+ab) azon nem szolgáltató kibocsátó esetében, akinél a szennyvíz vagy használt víz termálfürdőből vagy gyógyászati célú termálvíz hasznosításából keletkezik;
+
+b) 2012. december 31. az *a)* pont alá nem tartozó esetben.
+
+#### 38/A. §[^144]
+
+A kizárólag energiahasznosítás céljából történő termálvíz kitermelése esetén a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet alapján megállapított kibocsátási határértékeket meglévő és új létesítmény esetében is 2027. december 31-ig kell teljesíteni (átmeneti időszak). Az átmeneti időszakban a vízszennyezési bírság mértéke az adott szennyezőanyagra a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól szóló miniszteri rendelet alapján a 19. § (2) bekezdésére figyelemmel megállapított kibocsátási határérték feletti kibocsátás után számított teljes bírság 3%-a.
+
+#### 39. §
+
+(1)[^145] A kibocsátási határérték évi kétszeri vagy ennél többszöri 20%-os túllépése esetén, továbbá a települési szennyvíztisztító telepeknél a 2. számú melléklet 2/I. 2.7.2. a) pontja szerinti követelmények meg nem tartása esetén a vízvédelmi hatóság a szennyezést okozó kibocsátót, a közcsatorna és közös üzemi tisztító esetén annak tulajdonosát szakértő által is elkészíthető szennyezéscsökkentési ütemterv benyújtására és jóváhagyatására és az abban foglaltak megvalósítására kötelezi.
+
+(2)[^146] A kibocsátó szennyezéscsökkentési ütemtervét a vízvédelmi hatóság részére, valamint észrevételezés céljából:
+
+a) közcsatornába bocsátás esetén a szolgáltatónak is,
+
+b) közös üzemi (ipari) csatornahálózatba bocsátás esetén a közös üzemi szennyvíztisztítót üzemeltetőnek is,
+
+köteles megküldeni. A szolgáltató és a közös üzemi szennyvíztisztítót üzemeltető a szennyezéscsökkentési ütemterv észrevételezésének eredményét a vízvédelmi hatóságnak és a kibocsátónak küldi meg.
+
+(3)[^147] Amennyiben a kibocsátó a szennyezéscsökkentést a jóváhagyott szennyezéscsökkentési ütemtervnek megfelelően hajtja végre, a bírságot a vízvédelmi hatóság az adott szennyező anyag kibocsátási határértéke feletti kibocsátása után a számított teljes bírság 3%-ában állapítja meg. Ez a kedvezmény a jóváhagyott szennyezéscsökkentési ütemtervben foglalt fejlesztések megvalósításáig, üzembe helyezésig, de legfeljebb a türelmi idő végéig tart.
+
+(4) Települési szennyvízelvezetés, -tisztítás esetében, valamint a közös üzemi csatornahálózaton való szennyvízelvezetés, közös üzemi szennyvíztisztítóban való szennyvíztisztítás esetében a szennyezéscsökkentési ütemterv készítéséért és annak megvalósításáért a közcsatornának vagy a közös üzemi csatornának, illetve szennyvíztisztítónak a tulajdonosa felelős.
+
+(5)[^148] A befogadó ökológiai állapotának, illetve a közcsatorna állapotának védelmében a vízvédelmi hatóság, a jóváhagyott szennyezéscsökkentési ütemtervben részletezett fejlesztések megvalósítására vonatkozó ütemezés alapján a 38. § (1) és (2) bekezdésben rögzítetteknél rövidebb türelmi időt is előírhat.
+
+(6)[^149] Az (1) bekezdésben meghatározott esetben szennyezéscsökkentésként az anyagáram egyes módszerekkel (így például hígítás nélküli koncentrációcsökkentés, változatlan koncentráció mellett a kibocsátott szennyvíz mennyiségének csökkentése, a gyártástechnológia módosítása, szennyezőanyag felhasználásának, illetve kibocsátásának csökkentése) történő csökkentése elfogadható.
+
+### FELSZÍNI VIZEK KÁRMENTESÍTÉSE[^150]
+
+### A kivizsgálás[^151]
+
+#### 39/A. §[^152]
+
+(1)[^153] A vízvédelmi hatóság a felszíni víz jelentősen kedvezőtlen állapotának valószínűségéről birtokába került adat, információ alapján vizsgálatot folytat le. A kivizsgálást a kockázat mérlegelése alapján a Kvt. vonatkozó rendelkezései alkalmazásával folytatja le.
+
+(2) A felszíni víz állapota valószínűsíthetően jelentős és kedvezőtlen az alábbi feltételek bármelyikének megvalósulása esetén:
+
+a) a vízi és víz közeli, valamint a felszíni víztől közvetlenül függő szárazföldi élőhelyek és élő szervezetek fennmaradásához szükséges feltételek kedvezőtlen változása;
+
+b) a rendeltetésszerű vízhasználat korlátozása, akadályozása;
+
+c) környezet-egészségügyi kockázat fennállása;
+
+d)[^154] a felszíni víz vízszennyezettségi határértékeiről és azok alkalmazásának szabályairól szóló miniszteri rendeletben meghatározott környezetminőségi határérték túllépése;
+
+e) e rendelet 1. számú mellékletének C) pontjában meghatározott anyagok, továbbá *D)* pontjában meghatározott anyagok, meghatározott technológiából történő felszíni vízbe kerülése;
+
+f) hatósági határozatban megállapított alapállapot kedvezőtlen megváltozása.
+
+(3)[^155] A kivizsgálás alapján a vízvédelmi hatóság:
+
+a) dönt a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti kárelhárítás megindításáról,
+
+b) dönt a kármentesítés bármely szakaszának, vagy a szakaszok 39/B. § (4) bekezdés szerinti együttes elrendeléséről,
+
+c) megteszi az intézkedéseket a Kvt. 73. §-a szerinti környezetvédelmi felülvizsgálat elvégzése érdekében,
+
+d) dönt – a környezetkárosodás bekövetkezése valószínűségének hiányában – az eljárás megszüntetéséről.
+
+(4)[^156] A vízvédelmi hatóság a kivizsgálás során, valamint a kármentesítés bármely szakaszában azonnali beavatkozást igénylő környezetkárosodás esetén a szükséges környezetvédelmi megelőző és kárelhárítással összefüggő, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti intézkedésről rendelkezhet.
+
+### A kármentesítés[^157]
+
+#### 39/B. §[^158]
+
+(1)[^159] A kármentesítés végrehajtására kötelezett a vízvédelmi hatóság által – a tevékenységével összefüggő – meghatározott adatot, információt a vízvédelmi hatóság részére bocsátja.
+
+(2) A kármentesítés szakaszai:
+
+a) tényfeltárás, amely felderítő és részletes vizsgálatból állhat,
+
+b) beavatkozás,
+
+c) az *a)* és *b)* pontok során folytatott monitoring.
+
+(3) A kármentesítés bármely szakasza a kármentesítés lezárásáig szükség szerint elrendelhető, illetve megismételhető.
+
+(4)[^160] A vízvédelmi hatóság a kármentesítés szakaszairól vagy azok egy részéről a környezeti kockázatot mérlegelve összevont határozatot is hozhat indokolt esetben.
+
+(5) Amennyiben a kármentesítés több környezeti elemet érint, a kármentesítést az érintett környezeti elemekre nézve csak együttesen, egymásra tekintettel lehet elvégezni. A tényfeltárásnak (a tényfeltárási tervnek, a tényfeltárási záródokumentációnak), a beavatkozásnak (a beavatkozási tervnek, a beavatkozási záródokumentációnak) valamennyi érintett környezeti elemre ki kell terjednie és az összes érintett környezeti elemre kiterjedő egységes határozatot kell hozni a külön jogszabály rendelkezése szerint.
+
+(6) A kármentesítés bármely szakaszának végrehajtására vonatkozó határozatban megállapított határidő csak kivételes esetben – az ügy megítélésének összetettségére tekintettel – módosítható.
+
+(7) A kármentesítés során biztosítani kell, hogy a szennyezés ne tevődjön át más környezeti elemre, a felszín alatti vízre, a földtani közeg nem szennyezett részeire, illetve, hogy az a lehető legkisebb környezeti terheléssel járjon, és ne okozzon környezeti veszélyeztetést, szennyezést, környezetkárosodást.
+
+(8)[^161] A kármentesítés során az eredeti környezetéből (helyéről) kitermelt és a szennyezett területen a kívánt mértékig a legjobb elérhető technika alkalmazásával sem ártalmatlanítható, elszállított szennyező anyagok kezelésére a hulladékokra vonatkozó a veszélyes hulladékkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet előírásait kell alkalmazni.
+
+(9) A Kvt. 56. §-ának (1) bekezdése szerinti esetekben a kármentesítést az OKKP keretében kell végezni.
+
+(10)[^162] A kármentesítés (2) bekezdésben meghatározott szakaszaira, valamint a (4) bekezdés szerint összevont határozat alapján tervezett kármentesítés engedélyezésére irányuló kérelmekhez csatolt dokumentációt, továbbá a kármentesítési szakasz elvégzéséről szóló jelentést (zárójelentést) szakértők is elkészíthetik.
+
+(11)[^163] A kármentesítés során tervezési feladatokat szakértők is végezhetnek. Amennyiben a kármentesítés sajátosságai megkövetelik, a szakértők jogosultságának a tervezési feladatokkal érintett valamennyi szakterületre vagy részterületre ki kell terjednie.
+
+### Tényfeltárás[^164]
+
+#### 39/C. §[^165]
+
+(1) A tényfeltárás
+
+a) amennyiben a környezetkárosodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből,
+
+b) felderítő és részletes tényfeltárásból, továbbá
+
+c) tényfeltárási záródokumentáció készítéséből
+
+áll.
+
+(2) A tényfeltárásra kötelező határozat tartalmazza:
+
+a) a valószínűsíthetően károsodott felszíni víz megjelölését;
+
+b) a felszíni víz károsodása valószínűségének megállapításakor figyelembe vett tényezőket, jellemzőket, az ezekkel kapcsolatos eljárások, vizsgálatok megjelölését;
+
+c) az (1) bekezdés c) pontban meghatározottakra figyelemmel tényfeltárási terv készítésének előírását, benyújtási határidejét;
+
+d) a tényfeltárási záródokumentáció benyújtási határidejét.
+
+(3) A tényfeltárási tervnek tartalmaznia kell a tényfeltárással kapcsolatos mindazon munkát, amely a tényfeltárási záródokumentáció megalapozott összeállításához szükséges, beleértve a tényfeltáráshoz kapcsolódó monitoring tervét.
+
+(4)[^166] A tényfeltárási tervet a (2) bekezdés szerinti határozatban megjelölt határidőre engedélyezésre be kell nyújtani a vízvédelmi hatósághoz. A vízvédelmi hatóság nem kötelezi a kötelezettet tényfeltárási terv készítésére, ha a kármentesítés sürgőssége, a várható költség alacsony szintje, a szennyező anyagok kis száma valószínűsíthető.
+
+(5)[^167] A (4) bekezdés szerinti tényfeltárási terv elfogadásáról a vízvédelmi hatóság dönt.
+
+(6)[^168] A tényfeltárási munkák megkezdését nyolc napon belül, a tényfeltárás során észlelt bármilyen rendkívüli körülményt haladéktalanul be kell jelenteni a vízvédelmi hatóságnak.
+
+(7)[^169] A tényfeltárás során észleltek alapján, a tényfeltárásra kötelezett kezdeményezésére indokolt esetben, a vízvédelmi hatóság nyolc napon belül dönt a tényfeltárási terv módosításának elfogadásáról vagy elutasításáról.
+
+(8)[^170] A tényfeltárást és annak eredményeit dokumentálni kell. A tényfeltárási záródokumentációt a (9) bekezdés szerint kell összeállítani és benyújtani a vízvédelmi hatósághoz.
+
+(9) A tényfeltáró záródokumentáció az alábbiakat tartalmazza:
+
+a) a felszíni víz eredeti állapotára vonatkozó adatokat;
+
+b) a felszíni víz károsodása utáni állapotára vonatkozó adatokat;
+
+c) a már elvégzett kármentesítési szakaszok bemutatását, eredményét;
+
+d) a lehetséges beavatkozási változatok bemutatását, jellemzését, továbbá a javasolt változat jellemzését és indokolását;
+
+e) a természetes regenerálódás esélyét, mértékét, várható időtartamát;
+
+f) a tényfeltárás alatt működtetett monitoring bemutatását, továbbá monitoring tervet a tényfeltárást követő szakaszra.
+
+(10)[^171] A vízvédelmi hatóság dönt a tényfeltárási záródokumentáció elfogadásáról, valamint a környezetkárosodással kapcsolatos további feladatokról, így:
+
+a) a tényfeltárás folytatásáról;
+
+b) a beavatkozás elvégzésének szükségességéről, illetve a beavatkozás megvalósítási tervének elkészítéséről és benyújtásáról, amennyiben megállapítható a felszíni víz jelentősen kedvezőtlen állapota;
+
+c) a tényfeltárást követő monitorozás elrendeléséről;
+
+d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy a további kármentesítési munkára nincs szükség.
+
+### Beavatkozás[^172]
+
+#### 39/D. §[^173]
+
+(1) A beavatkozási terv tartalmi követelményeit a 4. számú melléklet tartalmazza.
+
+(2)[^174] A vízvédelmi hatóság a 4. számú mellékletben meghatározottak figyelembevételével a beavatkozási terv alapján dönt az abban megjelölt lehetséges beavatkozás kiválasztásáról és végrehajtásának elrendeléséről.
+
+(3) A beavatkozást elrendelő határozatnak tartalmaznia kell, a kötelezett által benyújtott beavatkozási tervből kiválasztott beavatkozásra alapozottan:
+
+a) a károsodott terület megnevezését, azonosítóit;
+
+b) indokolt esetben kötelezést a károsodott területtel összefüggésben a beavatkozási terv benyújtásáig végzett munkálatok dokumentálására, és annak a hatósághoz való benyújtására, kivéve, ha a kötelezett ezt már megtette;
+
+c) kötelezést a károsodott, illetve a kármentesítési munkálatokkal érintett területnek a kármentesítés céljából történő szabaddá tételére;
+
+d) a beavatkozás kiviteli tervére, a munkák ütemezésére vonatkozó előírásokat;
+
+e) a beavatkozás megkezdésének és végrehajtásának határidejét;
+
+f) a tényfeltárást követően üzemeltetett kármentesítési monitoring elfogadását;
+
+g) a beavatkozás időtartama alatt üzemelő kármentesítési monitoring kivitelezésére és üzemeltetésére vonatkozó előírásokat;
+
+h) az ügy szempontjából fontos egyéb feladatok elrendelését (így például: a károsodott terület megjelölését figyelmeztető táblákkal).
+
+(4)[^175] A beavatkozási munkák megkezdését az azt megelőző tíz nappal be kell jelenteni a vízvédelmi hatóságnak, amely a munkálatokat ellenőrzi. A beavatkozási munkákat dokumentálni kell.
+
+(5)[^176] A beavatkozás során észleltek alapján, a kötelezett kezdeményezésére indokolt esetben a vízvédelmi hatóság engedélyezi a beavatkozási terv módosítását.
+
+(6)[^177] A beavatkozás befejezését nyolc napon belül be kell jelenteni a vízvédelmi hatóságnak.
+
+(7) A (6) bekezdés szerinti bejelentésnek tartalmaznia kell a beavatkozást elrendelő határozat számát, tárgyát, a munka befejezésének időpontját, valamint a hatósági ellenőrző mintavétel biztosításának módját.
+
+(8)[^178] A vízvédelmi hatóság ellenőrzésére a beavatkozási záródokumentáció elbírálásáig kerülhet sor.
+
+(9)[^179] A kötelezett a beavatkozási munkák befejezését követően a (10) bekezdés szerint összeállított beavatkozási záródokumentációt köteles benyújtani a vízvédelmi hatósághoz.
+
+(10) A beavatkozási záródokumentáció tartalmazza:
+
+a) az elvégzett kármentesítési munkák, beavatkozások leírását;
+
+b) a beavatkozás eredményét;
+
+c) a természetes regenerálódás következtében várható változásokat;
+
+d) a beavatkozás során működtetett monitoring bemutatását, továbbá a beavatkozás hatékonyságát ellenőrző kármentesítési monitorig tervét;
+
+e) a Kvt. 56. §-ának (1) bekezdés c) pontja szerinti esetekben a beavatkozással felmerült költségek ismertetését.
+
+(11)[^180] A vízvédelmi hatóság a beavatkozási záródokumentáció kézhezvételét követően:
+
+a) a beavatkozás elégtelensége esetén annak folytatásáról,
+
+b) a további tényfeltárás elrendeléséről, vagy
+
+c) a beavatkozás befejezéséről a záródokumentáció elfogadásával, továbbá
+
+d) a kármentesítési monitoringról, illetve
+
+e) a kármentesítés befejezéséről.
+
+### Monitoring[^181]
+
+#### 39/E. §[^182]
+
+(1) A kármentesítés tényfeltárás és beavatkozás szakaszaiban folytatott tevékenység környezetre gyakorolt hatását, eredményességét, továbbá a környezetkárosodás csökkenését, illetve megszűnését folyamatosan, illetőleg az egyes szakaszokat követő időszakokban a környezeti állapot változását a kötelezett monitoring keretében ellenőrzi.
+
+(2) A monitoring magában foglalja az (1) bekezdés szerinti ellenőrzés
+
+a) tervezését;
+
+b) megvalósítását;
+
+c) működtetését;
+
+d) felülvizsgálatát;
+
+e) megszüntetését.
+
+(3) A monitoringot elrendelő határozat tartalmazza:
+
+a) a vizsgált környezeti elemek meghatározott paramétereinek észlelését, mérését, megfigyelését;
+
+b) az észlelési, mérési, megfigyelési adatok gyűjtését, feldolgozását, nyilvántartását, rendszeres értékelését;
+
+c)[^183] a monitoringot elrendelő vízvédelmi hatósági határozat szerinti tartalmú és gyakoriságú adatszolgáltatást;
+
+d) értékelő tanulmány készítését, határozatban megadott gyakorisággal;
+
+e) a monitoring, illetve annak részét képező létesítmények felszámolására, megszüntetésére vonatkozó terv készítését.
+
+(4) A monitoring rendszer kialakítására és működtetésére vonatkozó tervet környezeti elemenként a tényfeltárási záródokumentációra és a beavatkozási záródokumentációra vonatkozó követelményeknek megfelelően kell elkészíteni.
+
+(5) A monitoring rendszer működtetése során jelentkező, a tervezettől eltérő körülmények esetén a monitoring módosítására vonatkozó (2) bekezdés d) pont szerinti felülvizsgálatot azonnal el kell rendelni, és a működtetést a módosított terv szerint kell végezni.
+
+(6) A beavatkozási záródokumentáció jóváhagyásával elrendelt monitoring legalább a határozatban megállapított időtartam feléig, azonban legfeljebb a záródokumentációt elfogadó határozatot követő 5 évig terjed. A kármentesítés egyéb szakaszaiban elrendelt monitoring legfeljebb az adott szakasz lezárásáig tart.
+
+(7)[^184] A (6) bekezdésben foglaltaktól a vízvédelmi hatóság indokolt esetben eltérhet, különösen, ha a beavatkozás befejezése után az állapot megfigyeléséről más tevékenységhez kapcsolódó monitoring kötelezettség keretében gondoskodnak.
+
+(8) A monitoring jelentés, illetve záródokumentáció tartalmi követelményeit az 5. számú melléklet határozza meg.
+
+(9)[^185] A monitoring záródokumentáció alapján a vízvédelmi hatóság dönt:
+
+a) szükség esetén tényfeltárás, beavatkozás végzéséről, esetleges kiegészítéséről;
+
+b) a monitoring folytatásáról;
+
+c) a monitoring befejezéséről;
+
+d) a kármentesítés befejezéséről, ha minden körülmény együttes mérlegelése azt mutatja, hogy további kármentesítési munkára nincs szükség.
+
+### Adatszolgáltatás
+
+#### 40. §[^186]
+
+(1)[^187] A kibocsátások, bevezetések és veszteségek nyilvántartása érdekében a 2000/60/EK európai parlamenti és tanácsi irányelv 5. és 8. cikkével összhangban és a 166/2006/EK európai parlamenti és tanácsi rendelet szerint összegyűjtött információk, valamint más rendelkezésre álló adatok alapján, minden vízgyűjtőkerület vagy vízgyűjtőkerület-rész tekintetében az Országos Vízügyi Főigazgatóság a vízügyi és vízvédelmi hatóságok bevonásával nyilvántartást vezet – ha rendelkezésre állnak térképek, akkor ezekkel együtt – az 1. számú melléklet E) pontjában felsorolt valamennyi elsőbbségi és elsőbbségi veszélyes anyag kibocsátásáról, bevezetéséről és veszteségéről, beleértve adott esetben az üledékben és biótában meglévő koncentrációjukat is.
+
+(2) A 30. § (3) bekezdésében meghatározott nyilvántartásban szereplő szennyező anyagokról készülő jelentésnél a referencia-időszak a 2008 és 2010 közé eső egy éves időszak. A növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló miniszteri rendelet által szabályozott elsőbbségi anyagok, szennyező anyagok tekintetében a 2008-tól 2010. év végéig terjedő időszak átlagában is meg lehet állapítani az éves nyilvántartás adatait.
+
+(3)[^188] Az Országos Vízügyi Főigazgatóság – a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben meghatározott és elvégzett elemzések eredményeire figyelemmel – aktualizálja az (1) bekezdés szerinti nyilvántartást. A nyilvántartásban szereplő adatok megállapítására vonatkozó referencia-időszak az elemzés elkészítésére kitűzött évet megelőző egy év, illetve a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló miniszteri rendelet által szabályozott elsőbbségi anyagok, szennyező anyagok esetében a megelőző három év átlaga. Az aktualizált nyilvántartást a miniszter a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet szerint készített országos vízgyűjtő-gazdálkodási tervben közzéteszi, és erről a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben előírtaknak megfelelően tájékoztatja a Bizottságot.
+
+(4)[^189]
+
+## III.
+
+### ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
+
+#### 41. §
+
+(1)[^190] E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
+
+(2)–(4)[^191]
+
+(5)[^192] Meglévő létesítmények esetében a szennyvízbírságról szóló 3/1984. (II. 7.) OVH rendelkezés, illetve a csatornabírságról szóló 204/2001. (X. 26.) Korm. rendelet, új létesítmények esetében a csatornabírságról szóló 204/2001. (X. 26.) Korm. rendelet alapján megállapított jogszabályi és egyedi határértékek a 25. § szerinti engedélyezési eljárásban megszerezhető engedély kiadásáig továbbra is érvényesek.
+
+(6)[^193] A 19. § (3) bekezdésében meghatározott kötelezettséget a 2000 LE feletti terhelési kapacitású települési szennyvíztisztítóknak 2014. december 31. napjáig kell teljesíteni.
+
+#### 42. §
+
+(1)[^194] E rendelet hatálybalépése után engedélyezett (létesítési vagy építési engedély) létesítmények esetében vízszennyező anyag bevezetése tilos bányatavakba, valamint minden olyan tóba, ahol a fedőrétegek eltávolításával került felszínre a felszín alatti víz, továbbá a felszín alatti víz állapota szempontjából érzékeny területeken levő települések besorolásáról szóló miniszteri rendelet szerinti fokozattan érzékeny területen lévő olyan vízfolyásba, melynek medre időszakosan kiszárad.
+
+(2)–(3)[^195]
+
+(4) Abban az esetben, ha a közcsatorna gyűjtőrendszeréhez nem kapcsolódik szennyvíztisztítótelep (szabadkiömlőn vagy szivattyútelepen keresztüli közvetlen bevezetés) a határidő csak a szabadkiömlő vagy szivattyútelep vízjogi üzemeltetési engedélykérelmének benyújtására vonatkozik, a gyűjtőrendszerre nem.
+
+(5) Azon új létesítmények szennyvízkibocsátására, melynek engedélye 2003. január 1. és a használt és szennyvizek kibocsátási határértékeiről és alkalmazásuk szabályairól szóló 9/2002. (III. 22.) KöM–KöViM együttes rendelet módosításáról szóló 25/2003. (XII. 29.) KvVM rendelet hatálybalépése között került kiadásra, technológiai határértéket első ízben 2008. január 1-jét követően kell meghatározni, melyhez a kérelmet 2007. december 31-ig kell benyújtani.
+
+(6)[^196]
+
+(7)[^197] A természetes és mesterséges eredetű radioaktív anyagoktól eredő, folyadékkal kibocsátott szennyezés kibocsátási határértékeit, az ellenőrzés, valamint a bírságolás szabályait az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendelet határozzák meg.
+
+#### 44. §[^199]
+
+A miniszter az e rendeletben meghatározott elsőbbségi anyagok kibocsátási és környezetminőségi (vízszenyezettségi) határértékeit és a felszíni vízbe vezetésre vonatkozó szabályokat rendeletben állapítja meg, amennyiben erről 2006. december 22-ig az Európai Közösség tagállamai között közösségi szintű megegyezés nem jön létre. Az elsőbbségi listára később felvett anyagok esetében – közösségi szintű megegyezés hiányában – a miniszter a kibocsátási és vízszennyezettségi határértékeket az anyag listára kerülésétől számított öt éven belül állapítja meg.
+
+#### 44/A. §[^200]
+
+(1) E kormányrendeletnek a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet és a települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól szóló 64/2008. (III. 28.) Korm. rendelet módosításáról szóló 307/2010. (XII. 23.) Korm. rendelettel (a továbbiakban: kormányrendelet mód.) megállapított rendelkezéseit a kormányrendelet mód. hatálybalépésekor[^201] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(2) A kormányrendelet mód.-sal megállapított 38. § (5) bekezdés a) pontjában és a (6) bekezdésben meghatározott esetben a hatóság a bírságot a 39. § (3) bekezdése alapján állapítja meg.
+
+#### 44/B. §[^202]
+
+A 2. számú mellékletnek az egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 558/2013. (XII. 31.) Korm. rendelet [a továbbiakban: 558/2013. (XII. 31.) Korm. rendelet] 1. mellékletével megállapított 2/I. fejezet 2.9. pontját a 558/2013. (XII. 31.) Korm. rendelet hatálybalépésekor[^203] folyamatban lévő hatósági eljárásokban, valamint közigazgatási perekben is alkalmazni kell.
+
+#### 44/C. §[^204]
+
+(1) E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 368/2020. (VII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 34. § (6) bekezdését kell alkalmazni
+
+a) a Módr. hatálybalépésekor[^205] folyamatban lévő hatósági eljárásokban is, valamint
+
+b) a 2019. január 1. és a Módr. hatálybalépése[^206] közötti időszakban végleges határozattal kiszabott azon vízszennyezési bírságok tekintetében is, amelyeket a hatóság a – szennyező anyag kibocsátási határérték feletti kibocsátása után – számított teljes bírság 3%-ánál magasabb mértékben állapított meg a 2003. évi uniós csatlakozási szerződés X. melléklet 8. Környezetvédelem fejezet B. Vízminőség alcím 1. pontjában foglalt derogációval összefüggő kötelezettségét az Európai Unió társfinanszírozásával megvalósító szolgáltatóval szemben.
+
+(2) Az (1) bekezdés b) pontja szerinti esetben a kiszabott teljes bírság 3%-át meghaladó részt a bírságot megfizető ügyfél részére a Módr. hatálybalépését[^207] követő 180 napon belül az állam visszatéríti.
+
+#### 45. §[^208]
+
+Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv,
+
+b) a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló, 1996. szeptember 24-i 96/61/EK tanácsi irányelv 2. cikk, 3. cikk és 18. cikk,
+
+c) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és a tanácsi irányelv,
+
+d) a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló, 2004. április 21-i 2004/35/EK európai parlamenti és a tanácsi irányelv,
+
+e) a Közösség vízi környezetébe bocsátott egyes veszélyes anyagok által okozott szennyezésről szóló, 2006. február 15-i 2006/11/EK európai parlamenti és a tanácsi irányelv,
+
+f) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2006. január 18-i 166/2006/EK európai parlamenti és a tanácsi rendelet, valamint
+
+g) a vízpolitika területén a környezetminőségi előírásokról, a 82/176/EGK, a 83/513/EGK, a 84/156/EGK és a 86/280/EGK tanácsi irányelv módosításáról és az azt követő hatályon kívül helyezéséről, valamint a 2000/60/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2008. december 16-i 2008/105/EK európai parlamenti és a tanácsi irányelv,
+
+h)[^209] a 2000/60/EK és a 2008/105/EK irányelvnek a vízpolitika terén elsőbbséginek minősülő anyagok tekintetében történő módosításáról szóló, 2013. augusztus 12-i 2013/39/EU európai parlamenti és tanácsi irányelv.
+
+## 1. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^210]
+
+**A vízszennyező anyagok indikatív listája és a felszíni vizekre veszélyes anyagok köre**
+
+A) A fő szennyező anyagok indikatív listája
+
+1\. Szerves halogén vegyületek és olyan anyagok, amelyek ilyen vegyületeket alkothatnak a vízi környezetben,
+
+2\. Szerves foszforvegyületek,
+
+3\. Szerves ónvegyületek,
+
+4\. Anyagok és készítmények vagy ezek lebomlási termékei, amelyekről bebizonyosodott, hogy karcinogén vagy mutagén tulajdonságokkal rendelkeznek vagy pedig olyan tulajdonságokkal, amelyek kedvezőtlen hatással vannak a szteroidogén, thyroid, szaporodási vagy endokrin függő funkciókra a vízikörnyezetben vagy azon keresztül,
+
+5\. Perzisztens szénhidrogének és perzisztens vagy bioakkumulációra hajlamos szerves toxikus anyagok,
+
+6\. Cianidok,
+
+7\. Fémek és vegyületeik,
+
+8\. Arzén és vegyületei,
+
+9\. Biocidok és növényvédő szerek,
+
+10\. Szuszpenzióban levő anyagok,
+
+11\. Az eutrofizációt elősegítő anyagok (különösen a nitrátok és a foszfátok),
+
+12\. Az oxigénháztartásra kedvezőtlen hatással levő anyagok (és az olyan paraméterekkel mérhetők, mint a BOI és KOI).
+
+B) Az I. vagy II. listába tartozó anyagok, anyagcsoportok
+
+I. listába tartozó anyagok
+
+1\. Higany,
+
+2\. Kadmium,
+
+3\. Hexaklórciklohexán (HCH),
+
+4\. Széntetraklorid,
+
+5\. DDT,
+
+6\. Pentaklórfenol,
+
+7–10. Aldrin, Dieldrin, Endrin, Izodrin,
+
+11\. Hexaklórbenzol,
+
+12\. Hexaklórbutadién,
+
+13\. Triklórmetán (kloroform),
+
+14\. 1,2-diklóretán,
+
+15\. Triklóretilén,
+
+16\. Perklóretilén,
+
+17\. Triklórbenzol.
+
+II. listába tartozó anyagok, anyagcsoportok
+
+1\. Fémek és vegyületeik,
+
+2\. Biocidek és az I. listában nem szereplő származékaik,
+
+3\. A vízi környezetből emberi fogyasztásra kinyert termékekben káros íz- és/vagy szaghatást okozó anyagok és a vízben ilyen anyagokat előidéző vegyületek,
+
+4\. A szilícium mérgező vagy nem lebomló szerves vegyületei, továbbá a vízben ilyen vegyületeket alkotó anyagok, kivéve azokat, amelyek biológiailag ártalmatlanok vagy a vízben rövid idő alatt ártalmatlan anyagokká alakulnak át,
+
+5\. Szervetlen foszforvegyületek és elemi foszfor,
+
+6\. Lebomló ásványolajok és kőolaj eredetű szénhidrogének,
+
+7\. Cianidok és fluoridok,
+
+8\. Az oxigénháztartást károsan befolyásoló anyagok, elsősorban ammónia, nitritek,
+
+9\. Azbeszt.
+
+C) A következőkben felsorolt I. listába tartozó anyagok kibocsátása tilos
+
+1\. Hexaklór-ciklohexán (HCH),
+
+2\. Aldrin,
+
+3\. Dieldrin,
+
+4\. Endrin,
+
+5\. Isodrin,
+
+6\. DDT,
+
+7\. Pentaklórfenol.
+
+D) A következőkben felsorolt I. listába tartozó anyagok kibocsátása az alábbi technológiákból tilos
+
+1\. Széntetraklorid
+
+1.1. Széntetraklorid gyártás perklórozással (mosást is tartalmazó eljárások és mosással nem járó eljárások),
+
+1.2. Klórmetánok gyártása metán klórozással (beleértve a nagynyomású elektrolitikus klórfejlesztést) és metanolból,
+
+1.3. Klórozott fluorozott szénhidrogének (CFC) gyártása,
+
+1.4. Széntetrakloridot oldószerként felhasználó üzemek (a termékbe való beépülés nélkül),
+
+1.5. Minden egyéb gyártási technológia.
+
+2\. Hexaklórbenzol (HCB)
+
+2.1. HCB gyártása és feldolgozása,
+
+2.2. Perklóretilén (PER) és széntetraklorid (CC14) gyártása perklórozással,
+
+2.3. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással,
+
+2.4. Kvintozént és teknazént gyártó üzemek.
+
+3\. Hexaklórbutadién (HCBD)
+
+3.1. Perklóretilén (PER) és széntetraklorid (CC14) gyártása perklórozással,
+
+3.2. Triklóretilén gyártása és/vagy perklóretilén gyártása más eljárással.
+
+4\. Kloroform (CHC13)
+
+4.1. Klórmetánok gyártása metanolból vagy metanol és metán keverékéből,
+
+4.2. Klórmetánok gyártása metán klórozásával,
+
+4.3. Klórozott fluorozott szénhidrogének (CFC) gyártása.
+
+5\. Triklóretilén (TRI)
+
+5.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása.
+
+6\. Perklóretilén (PER)
+
+6.1. Triklóretilén (TRI) és perklóretilén (PER) gyártása (TRI-PER) eljárással,
+
+6.2. Széntetraklorid és perklóretilén gyártása (TETRA-PER) eljárás,
+
+6.3. Klórozott fluorozott szénhidrogének (CFC) gyártása.
+
+7\. Triklórbenzol (TCB)
+
+7.1. TCB gyártása hexaklórciklohexán (HCH) dehidroklórozásával és/vagy TCB feldolgozása,
+
+7.2. Klórbenzol gyártása és/vagy feldolgozása benzol klórozásával.
+
+E) Az elsőbbségi és elsőbbségi veszélyes anyagok, anyagcsoportok listája
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1.** | Sorszám | CAS-szám<sup>(1)</sup> | EU-szám<sup>(2)</sup> | Az elsőbbségi anyag neve<sup>(3)</sup> | Elsőbbségi veszélyes anyagként azonosítva |
+| **2.** | (1) | 15972-60-8 | 240-110-8 | Alaklór |  |
+| **3.** | (2) | 120-12-7 | 204-371-1 | Antracén |  |
+| **4.** | (3) | 1912-24-9 | 217-617-8 | Atrazin |  |
+| **5.** | (4) | 71-43-2 | 200-753-7 | Benzol |  |
+| **6.** | (5) | nem alkalmazható | nem alkalmazható | Brómozott difeniléter | X<sup>(4)</sup> |
+| **7.** | (6) | 7440-43-9 | 231-152-8 | Kadmium és vegyületei | X |
+| **8.** | (7) | 85535-84-8 | 287-476-5 | Klóralkánok, C<sub>10-13</sub> | X |
+| **9.** | (8) | 470-90-6 | 207-432-0 | Klórfenvinfosz |  |
+| **10.** | (9) | 2921-88-2 | 220-864-4 | Klórpirifosz (etilklórpirifosz) |  |
+| **11.** | (10) | 107-06-2 | 203-458-1 | 1,2-diklór-etán |  |
+| **12.** | (11) | 75-09-2 | 200-838-9 | Diklór-metán |  |
+| **13.** | (12) | 117-81-7 | 204-211-0 | Di[2-etilhexil]ftalát (DEHP) | X |
+| **14.** | (13) | 330-54-1 | 206-354-4 | Diuron |  |
+| **15.** | (14) | 115-29-7 | 204-079-4 | Endoszulfán |  |
+| **16.** | (15) | 206-44-0 | 205-912-4 | Fluorantén |  |
+| **17.** | (16) | 118-74-1 | 204-273-9 | Hexaklór-benzol | X |
+| **18.** | (17) | 87-68-3 | 201-765-5 | Hexaklór-butadién | X |
+| **19.** | (18) | 608-73-1 | 210-168-9 | Hexaklór-ciklohexán | X |
+| **20.** | (19) | 34123-59-6 | 251-835-4 | Izoproturon |  |
+| **21.** | (20) | 7439-92-1 | 231-100-4 | Ólom és vegyületei |  |
+| **22.** | (21) | 7439-97-6 | 231-106-7 | Higany és vegyületei | X |
+| **23.** | (22) | 91-20-3 | 202-049-5 | Naftalin |  |
+| **24.** | (23) | 7440-02-0 | 231-111-4 | Nikkel és vegyületei |  |
+| **25.** | (24) | nem alkalmazható | nem alkalmazható | Nonilfenol | X<sup>(5)</sup> |
+| **26.** | (25) | nem alkalmazható | nem alkalmazható | Oktilfenol<sup>(6)</sup> |  |
+| **27.** | (26) | 608-93-5 | 210-172-0 | Pentaklór-benzol | X |
+| **28.** | (27) | 87-86-5 | 201-778-6 | Pentaklór-fenol |  |
+| **29.** | (28) | nem alkalmazható | nem alkalmazható | Poliaromás szénhidrogének (PAH)<sup>(7)</sup> | X |
+| **30.** | (29) | 122-34-9 | 204-535-2 | Simazin |  |
+| **31.** | (30) | nem alkalmazható | nem alkalmazható | Tributil-ón vegyületek | X<sup>(8)</sup> |
+| **32.** | (31) | 12002-48-1 | 234-413-4 | Triklór-benzolok |  |
+| **33.** | (32) | 67-66-3 | 200-663-8 | Triklór-metán (kloroform) |  |
+| **34.** | (33) | 1582-09-8 | 216-428-8 | Trifluralin |  |
+| **35.** | (34) | 115-32-2 | 204-082-0 | Dikofol |  |
+| **36.** | (35) | 1763-23-1 | 217-179-8 | Perfluoroktán-szulfonát és származékai (PFOS) | X |
+| **37.** | (36) | 124495-18-7 | nem alkalmazható | Kinoxifen |  |
+| **38.** | (37) | nem alkalmazható | nem alkalmazható | Dioxinok és dioxin jellegű vegyületek | X<sup>(9)</sup> |
+| **39.** | (38) | 74070-46-5 | 277-704-1 | Aklonifen |  |
+| **40.** | (39) | 42576-02-3 | 255-894-7 | Bifenox |  |
+| **41.** | (40) | 28159-98-0 | 248-872-3 | Cibutrin |  |
+| **42.** | (41) | 52315-07-8 | 257-842-9 | Cipermetrin<sup>(10)</sup> |  |
+| **43.** | (42) | 62-73-7 | 200-547-7 | Diklórfosz |  |
+| **44.** | (43) | nem alkalmazható | nem alkalmazható | Hexabróm-ciklododekánok (HBCDD) | X<sup>(11)</sup> |
+| **45.** | (44) | 76-44-8/ 1024-57-3 | 200-962-3/ 213-831-0 | Heptaklór és heptaklór-epoxid | X |
+| **46.** | (45) | 886-50-0 | 212-950-5 | Terbutrin |  |
+
+Megjegyzés és jelmagyarázat:
+
+<sup>(1)</sup> CAS: Vegyianyag Nyilvántartási Szolgálat (Chemical Abstracts Service).
+
+<sup>(2)</sup> EU-szám: Létező Kereskedelmi Vegyi Anyagok Európai Jegyzéke (EINECS) vagy Törzskönyvezett Vegyi Anyagok Európai Jegyzéke (ELINCS).
+
+<sup>(3)</sup> Amennyiben anyagok csoportjait választották ki, kifejezett eltérő rendelkezés hiányában tipikus egyedi képviselőket határoztak meg a környezetminőségi előírások megállapításának összefüggésében.
+
+<sup>(4)</sup> Kizárólag tetra-, penta-, hexa- és heptabróm-difenil-éter (CAS -számok: 40088-47-9, 32534-81-9, 36483-60-0, illetve 68928-80-3).
+
+<sup>(5)</sup> Nonilfenol (CAS 25154-52-3, EU 246-672-0), beleértve a 4-nonilfenol (CAS 104-40-5, EU 203-199-4) és a 4-nonilfenol (elágazó) (CAS 84852-15-3, EU 284-325-5) izomereket.
+
+<sup>(6)</sup> Oktilfenol (CAS 1806-26-4, EU 217-302-5), beleértve a 4-[1,1’,3,3’-tetrametil-butil]-fenol (CAS 140-66-9, EU 205-426-2) izomert.
+
+<sup>(7)</sup> Beleértve a benzo[a]pirént (CAS 50-32-8, EU 200-028-5), a benzo[b]fluorantént (CAS 205-99-2, EU 205-911-9), a benzo[g,h,i]perilént (CAS 191-24-2, EU 205-883-8), a benzo[k]fluorantént (CAS 207-08-9, EU 205-916-6), az indeno[1,2,3-cd]pirént (CAS 193-39-5, EU 205-893-2), és kivéve az antracént, a fluorantént és a naftalint, amelyeket külön felsorolás tartalmaz.
+
+<sup>(8)</sup> Beleértve a tributil-ón-kationt (CAS 36643-28-4).
+
+<sup>(9)</sup> Ez a következő vegyületekre vonatkozik: 7 poliklórozott dibenzo-p-dioxin (PCDD): 2,3,7,8-T4CDD (CAS 1746-01-6), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9), 10 poliklórozott dibenzo-furán (PCDF): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0), 12 dioxin jellegű poliklórozott bifenil (PCB-DL): 3,3’,4,4’-T4CB (PCB 77, CAS 32598-13-3), 3,3’,4’,5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3’,4,4’-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4’,5-P5CB (PCB 114, CAS 74472-37-0), 2,3’,4,4’,5-P5CB (PCB 118, CAS 31508-00-6), 2,3’,4,4’,5’-P5CB (PCB 123, CAS 65510-44-3), 3,3’,4,4’,5-P5CB (PCB 126, CAS 57465-28-8), 2,3,3’,4,4’,5-H6CB (PCB 156, CAS 38380-08-4), 2,3,3’,4,4’,5’-H6CB (PCB 157, CAS 69782-90-7), 2,3’,4,4’,5,5’-H6CB (PCB 167, CAS 52663-72-6), 3,3’,4,4’,5,5’-H6CB (PCB 169, CAS 32774-16-6), 2,3,3’,4,4’,5,5’-H7CB (PCB 189, CAS 39635-31-9).
+
+<sup>(10)</sup> Az 52315-07-8 CAS-szám egy cipermetrin-izomerkeverékre vonatkozik: alfa-cipermetrin (CAS 67375-30-8), béta-cipermetrin (CAS 65731-84-2), théta-cipermetrin (CAS 71697-59-1) és zéta-cipermetrin (52315-07-8).
+
+<sup>(11)</sup> Ez az 1,3,5,7,9,11-hexabróm-ciklododekánra (CAS 25637–99–4), az 1,2,5,6,9,10-hexabróm-ciklododekánra (CAS 3194–55–6), az α-hexabróm-ciklododekánra (CAS 134237–50–6), a β-hexabróm-ciklododekánra (CAS 134237–51–7) és a γ-hexabróm-ciklododekánra (CAS 134237–52–8) vonatkozik.
+
+## 2. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^211]
+
+**2/I. A csatornabírság és a vízszennyezési bírság számítása**
+
+1\. A küszöbértékeknek, illetve a kibocsátási határértékeknek való megfelelést az engedélyben meghatározott mintavételi helyen vett szennyvízminta vizsgálata alapján kell megállapítani.
+
+2\. A csatornabírság és a vízszennyezési bírság összegének meghatározása.
+
+A helyhez kötött pontszerű vízszennyező forrás engedélyezett küszöbértékének, kibocsátási határértékének túllépése miatt kiszabandó bírságot a következők szerint kell megállapítani:
+
+2.1. A tárgyévre kiszabott éves bírságot (B<sub>éves</sub>), a tárgyévben az egyes bírságolási időszakokra megállapított bírságolási részösszegek (B<sub>időszakos</sub>) összegzésével kell megállapítani:
+
+B<sub>éves</sub> = ΣB<sub>időszakos</sub>
+
+2.2. Egy adott bírságolási időszakra megállapított időszakos bírságot (B<sub>időszakos</sub>) az egyes szennyező anyagonként külön, az engedélyezett határértékből, küszöbértékből számolható megengedett mennyiség fölötti kibocsátási mennyiségre kiszámolt bírságok (B<sub>sza</sub>) összegzésével kell megállapítani:
+
+B<sub>időszakos</sub> = ΣB<sub>sza</sub>
+
+| B<sub>sza</sub> | = egy adott bírságolási időszakban egy adott szennyező anyagra vonatkoztatott bírság, melyet a küszöbérték, határérték fölött kibocsátott szennyezési koncentrációból számolt szennyezőanyag mennyiség alapján számolunk [Ft] |
+|---|---|
+| M<sub>f</sub> | = a küszöbérték, határérték fölött kibocsátott szennyezési koncentrációból számolt szennyezőanyag mennyiség [kg/bírságolási időszak] |
+| k | = a fajlagos bírságtétel az adott szennyező anyagra vonatkozóan [Ft/kg] |
+
+A küszöbérték, határérték fölött kibocsátott szennyezési koncentrációból számolt szennyezőanyag mennyiség (M<sub>f</sub>) kiszámítása:
+
+M<sub>f</sub> = M<sub>t</sub> – M<sub>e</sub>
+
+ahol
+
+| M<sub>t</sub> | = a tényleges szennyezőanyag-kibocsátás tömegárama a bírságolási időszakra, azaz az ellenőrzés szerint kibocsátott szennyezőanyag mennyiség (kg/bírságolási időszak), |
+|---|---|
+
+és
+
+M<sub>t</sub> = C<sub>i</sub> × Q<sub>t</sub>
+
+| M<sub>e</sub> | = az engedélyezett, küszöbérték határérték és szennyvízhozam alapján meghatározott szennyezőanyag mennyiség tömegáramban (kg/bírságolási időszak), azaz a kibocsátásra engedélyezett maximális szennyezőanyag mennyiség, |
+|---|---|
+
+és
+
+a) települési tisztítóból való kibocsátás esetében, valamint olyan egyéb kibocsátások esetében, ahol a ténylegesen kibocsátott szennyvízmennyiség nem haladja meg a bírságolási időszakra számolt engedélyezett szennyvízmennyiséget\
+M<sub>e</sub> = C<sub>e</sub> × Q<sub>t</sub>
+
+b) azon kibocsátások esetében, amikor a ténylegesen kibocsátott szennyvízmennyiség meghaladja a bírságolási időszakra számított engedélyezett mennyiséget és a kibocsátás nem települési tisztítóból történik\
+M<sub>e</sub> = C<sub>e</sub> × Q<sub>e</sub>
+
+| C<sub>e</sub> | = az engedélyben előírt koncentrációs küszöbérték, határérték [mg/l], vagy százalékban kifejezett csökkentési hatásfok [%] alapján számított koncentráció |
+|---|---|
+| C<sub>i</sub> | = az ellenőrzés során mért, egy adott szennyező anyagra vonatkozó tényleges koncentráció [mg/l], |
+| Q<sub>t</sub> | = a kibocsátott szennyvíz mennyisége a bírságolási időszakban az ellenőrzés alapján [m<sup>3</sup>/bírságolási időszak], |
+| Q<sub>e</sub> | = az engedélyben előírt kibocsátható szennyvízmennyiség alapján a bírságolási időszakra számolt engedélyezett szennyvízmennyiség [m<sup>3</sup>/bírságolási időszak]. |
+
+*Megjegyzés:* A Q<sub>e</sub> engedélyezése során a kibocsátó adatszolgáltatását kell figyelembe venni azzal, hogy az engedélyeztetni kívánt kibocsátandó szennyvízmennyiség megadásánál az erre vonatkozó kérelmét a vízszolgáltatóval kötött szerződésével, a termelő kapacitási adatokkal, valamint saját vízbázisának víztermelési adataival indokolnia kell.
+
+A Q<sub>e</sub> engedélyezett szennyvízmennyiség-kibocsátás mértékét a hatóság – az előző évi ellenőrzésen alapuló kibocsátás (Q<sub>t</sub>) alapján – módosíthatja.
+
+Amennyiben az engedélyben előírt technológiai határérték [kg vízszennyezőanyag/tonna termék] dimenzióban van megadva, akkor a kibocsátásra engedélyezett maximális szennyezőanyag mennyiség [M<sub>e</sub>] értékét a következő képlettel kell kiszámolni:
+
+M<sub>e</sub> = T × C<sub>f</sub>
+
+ahol:
+
+| T | = a termelés jellemző volumenadata a bírságolási időszakra |
+|---|---|
+| C<sub>f</sub> | = a termelési egységre vetített technológiai határérték [kg/t] |
+
+2.4. Abban az esetben, ha az ellenőrzés során mért koncentráció (helyszíni ellenőrzés vagy önellenőrzés) az engedélyben előírt küszöbérték, határérték kétszeresét eléri vagy meghaladja, egy adott szennyező anyagra vonatkozóan, azaz a túllépés mértéke 100%, vagy annál nagyobb, akkor az adott szennyező anyagra a 2.3. pont szerint számított bírságot (B<sub>sza</sub>) meg kell szorozni a [j] jelentős túllépés miatti bírságtényezővel.\
+Azaz\
+B’<sub>vsza</sub> = B<sub>vsza</sub> × j\
+ahol\
+j = 1,3, illetve veszélyes és mérgező anyagok esetében j = 2\
+Egy adott bírság számítási időszakra megállapított időszakos bírság számításánál a küszöbérték, határérték kétszeresét elérő vagy meghaladó szennyező anyagra a fenti képlet szerint számolt (B’<sub>sza</sub>) bírságot kell a 2.2. pont szerinti összegzés során figyelembe venni.
+
+2.5. Bírságszámítás nem engedélyezett hígítás esetén akkor, ha a tényleges szennyezőanyag-kibocsátási mennyiség (M<sub>t</sub>) meghaladja az engedélyezett (M<sub>e</sub>) mennyiséget: Amennyiben az ellenőrző vizsgálatok azt állapítják meg, hogy az engedélyezett vízhozamnál nagyobb szennyvízkibocsátás folyik.\
+B<sub>sza</sub> = [(M<sub>t</sub> – M<sub>e</sub>) × k]× h\
+ahol h = hígítási bírságtényező\
+és
+
+2.5.1. ha egy adott szennyező anyag a kibocsátásra engedélyezett küszöbértéknek, határértéknek megfelel, akkor\
+h = 1,1
+
+2.5.2. ha egy adott szennyező anyagra vonatkozó mért szennyezési koncentráció a kibocsátására engedélyezett küszöbértéknek, határértéknek nem felel meg, akkor\
+h = 1,3
+
+2.6. Bírságszámítás az 1. számú melléklet C. és D. pontja szerint tiltott szennyezőanyag kibocsátása esetén. A bírságot a bírságolási időszakra a kibocsátott szennyező anyag teljes mennyiségére kell megállapítani:\
+B<sub>sza</sub> = M<sub>t</sub> × k
+
+2.7. A bírság számítási időszak meghatározása:
+
+2.7.1. A bírság számítási időszakot a következők szerint kell értelmezni:
+
+| Kibocsátási jellemzők | Bírságolás számítási időszak |
+|---|---|
+| Nem önellenőrzés köteles, folyamatos szennyvízkibocsátás esetén | A tárgyév január 1-jétől, a megelőző év utolsó helyszíni ellenőrzésének eredménye alapján, a tárgyév első helyszíni ellenőrzésének időpontjáig, majd az első helyszíni ellenőrzés időpontjától a következő helyszíni ellenőrzésig, de legkésőbb a tárgyév december 31-éig |
+| Önellenőrzés köteles folyamatos szennyvízkibocsátás esetén | A tárgyév január 1-jétől a megelőző év utolsó önellenőrzési mintavételi vizsgálat eredménye alapján, a tárgyévi első önellenőrzési időpontjáig majd az azt követő mintavételi időpontig, de legkésőbb a tárgyév december 31-éig |
+| Idény üzem esetén | az idényben elvégzett egyik ellenőrzéstől a következő ellenőrzésig, (önellenőrzésig), illetve az idény időtartamában, de legkésőbb a tárgyév december 31-éig |
+| Változó szennyvízkibocsátású üzem esetén | a működési ciklusban elvégzett egyik ellenőrzéstől (önellenőrzéstől) a következő ellenőrzésig, (önellenőrzésig), illetve a ciklus időtartamára, de legkésőbb a tárgyév december 31-éig |
+
+2.7.2. Amennyiben a kibocsátó önellenőrzést végez folyamatos, valamint egész évben üzemelő, változó szennyvízkibocsátású üzem esetében a teljes naptári évet (január 1-jétől–december 31-éig) lehet figyelembe venni a bírságszámítás időszakának, és egy adott szennyezőanyag-kibocsátási mennyiségét a mérési koncentráció átlaga (C<sub>á</sub>) és az egész évben kibocsátott vízmennyiség alapján lehet meghatározni.\
+M<sub>t éves</sub> = C<sub>á</sub> × Q<sub>t éves</sub>\
+ahol\
+*n*\
+Σ*C*<sub>i</sub>\
+*i*=1\
+C<sub>á</sub>= ––––– és\
+*n*\
+M<sub>e</sub> <sub>éves</sub> = C<sub>e</sub> × Q<sub>éves eng.,</sub>\
+valamint\
+M<sub>f éves</sub> = M<sub>t éves</sub> – M<sub>e éves</sub>\
+Ezt az eljárást csak akkor lehet alkalmazni, ha
+
+a) települési tisztítóból való kibocsátás esetében az éves mérések sorozatában a határértéket túllépő mérési eredmények maximálisan megengedett száma megfelel a következő követelményeknek. (Ha ennek nem felel meg, akkor az önellenőrzési tervben rögzített egyik ellenőrzési időponttól a következő ellenőrzési időpontig kell a bírságszámítási időszakot figyelembe venni.);\
+Az engedélyben előírt követelményeket ki nem elégítő mérési eredmények megengedhető száma egy adott szennyező anyagra vonatkozóan:
+
+| **Az éves önellenőrző mérések száma egy adott szennyező anyagra** | **Az engedélynek nem megfelelő mérési eredmények száma egy adott szennyező anyagra** | **Az éves önellenőrző mérések száma egy adott szennyező anyagra** | **Az engedélynek nem megfelelő mérési eredmények száma egy adott szennyező anyagra** | **Az éves önellenőrző mérések száma egy adott szennyező anyagra** | **Az engedélynek nem megfelelő mérési eredmények száma egy adott szennyező anyagra** |
+|---|---|---|---|---|---|
+| 4–7 | 1 | 111–125 | 10 | 252–268 | 19 |
+| 8–16 | 2 | 126–140 | 11 | 269–284 | 20 |
+| 17–28 | 3 | 141–155 | 12 | 285–300 | 21 |
+| 29–40 | 4 | 156–171 | 13 | 301–317 | 22 |
+| 41–53 | 5 | 172–187 | 14 | 318–334 | 23 |
+| 54–67 | 6 | 188–203 | 15 | 335–350 | 24 |
+| 68–81 | 7 | 204–219 | 16 | 351–365 | 25 |
+| 82–95 | 8 | 220–235 | 17 |  |  |
+| 96–110 | 9 | 236–251 | 18 |  |  |
+
+A települési tisztító megfelelő működéséhez szükséges további követelmények a nem megfelelő mérési eredményekre vonatkozóan:
+
+*aa)* Ha a megengedett esetek száma nagyobb 1-nél, de kisebb mint 10, akkor azok egymást követő mérésekhez nem tartozhatnak. Ha a mérési gyakoriság nagyobb mint 126, akkor 2-nél, ha nagyobb mint 300, akkor 3-nál több egymás mellett lévő meg nem engedett mérési eredmény nem fordulhat elő.
+
+*ab)* A dikromátos oxigénfogyasztás (KOIk) és a biokémiai oxigénigény (BOI<sub>5</sub>) esetében az üzemszerű működés közben vett minta engedélyben előírtaknak nem megfelelő mérési eredménye sem haladhatja meg 100%-kal a koncentrációban meghatározott engedélyezett határértéket. Az összes lebegőanyag (ÖLA) esetében a nem megfelelő mérési eredmény nem haladhatja meg 150%-kal a koncentrációban meghatározott engedélyezett határértéket.
+
+*ac)* A külön jogszabály<sup>34</sup> szerinti érzékeny területeken lévő felszíni vizekbe vezetés esetén az összes foszfor (Pösszes) és összes nitrogén (Nösszes) esetében a mérési eredmények éves átlaga (a nem megfelelő mérési eredményeket is beleszámolva), meg kell feleljen az engedélyben előírt határértéknek.
+
+b) Az egyéb kibocsátások (nem települési tisztítóból való kibocsátás) esetében egy adott szennyező anyagnak a maximális koncentrációjú kibocsátása nem haladhatja meg 100%-kal az engedélyezett határértéket. (Ha ennek nem felel meg, akkor az önellenőrzési tervben rögzített egyik mintavételi időponttól a következő mintavételi időpontig kell a bírságszámítási időszakot figyelembe venni).
+
+2.8. A rendkívüli csatornabírság, illetve vízszennyezési bírság számítása\
+A bírságot a szennyezési időszakra minden szennyező anyagra külön-külön, a kibocsátott szennyező anyagok teljes mennyiségére kell megállapítani.\
+B<sub>R</sub> = ΣBsza\
+és\
+Bsza = [Qr × Ci× k]× R\
+illetve nem szennyvízzel történő rendkívüli szennyezés esetén\
+Bsza = M<sub>r</sub> × k × R\
+ahol
+
+| Bsza | = egy adott szennyező anyagra számított bírság a rendkívüli szennyezés időszakára [Ft] |
+|---|---|
+| Qr | = a rendkívüli szennyezés időszakában kibocsátott szennyvízmennyiség [m<sup>3</sup>/rendkívüli szennyezési időszak] |
+| M<sub>r</sub> | = a nem szennyvízzel okozott rendkívüli szennyezés szennyező anyagának teljes (becsült) mennyisége |
+
+_____________
+
+<sup>34</sup> A települési szennyvízkibocsátás szempontjából érzékeny felszíni vizek és vízgyűjtőterületük kijelöléséről szóló 240/2000. (XII. 23.) Korm. rendelet.
+
+| R | = rendkívüli szennyezési szorzótényező, melynek értékei a 36. § (4) bekezdés |
+|---|---|
+|  | *a)* pontja esetén: R = 1 |
+|  | *b)* pontja esetén: R = 2 |
+|  | *c)* pontja esetén: R = 3 |
+|  | *d)* pontja esetén: R = 5 |
+
+2.9. A „k” fajlagos bírságtétel megállapítása:
+
+<table><tbody><tr><td>Sor-<br>szám</td><td>A szennyezés neme</td><td>Bírságtétel<br>Ft/kg</td></tr><tr><td colspan="3">*A) Szennyező anyagok, közcsatornát károsító anyagok*</td></tr><tr><td>1.</td><td>Dikromátos oxigénfogyasztás KOI<sub>k</sub></td><td>70</td></tr><tr><td>2.</td><td>Ötnapos biokémiai oxigénigény BOI<sub>5</sub></td><td>210</td></tr><tr><td>3.</td><td>Összes nitrogén N összes</td><td>350</td></tr><tr><td>4.</td><td>Összes szervetlen nitrogén (ammónium, nitrit, nitrát)</td><td>350</td></tr><tr><td>5.</td><td>pH</td><td></td></tr><tr><td></td><td>– határérték alatt</td><td>350</td></tr><tr><td></td><td>– határérték felett</td><td>350</td></tr><tr><td>6.</td><td>Összes só</td><td></td></tr><tr><td></td><td>– természetes eredetű</td><td>14</td></tr><tr><td></td><td>– technológiai eredetű</td><td>70</td></tr><tr><td>7.</td><td>Nátrium-egyenérték* (%)</td><td></td></tr><tr><td></td><td>– természetes eredetű</td><td>28</td></tr><tr><td></td><td>– technológiai eredetű</td><td>140</td></tr><tr><td>8.</td><td>Összes lebegőanyag</td><td>70</td></tr><tr><td>9.</td><td>Ammónia-ammónium-nitrogén</td><td>350</td></tr><tr><td>10.</td><td>Összes vas</td><td>140</td></tr><tr><td>11.</td><td>Összes mangán</td><td>1 400</td></tr><tr><td>12.</td><td>Szulfid</td><td>7 000</td></tr><tr><td>13.</td><td>Aktív klór</td><td>3 500</td></tr><tr><td>14.</td><td>Összes foszfor</td><td>2 300</td></tr><tr><td>15.</td><td>Foszfát foszfor</td><td>2 300</td></tr><tr><td>16.</td><td>Szulfit</td><td>437</td></tr><tr><td>17.</td><td>Szulfát</td><td>70</td></tr><tr><td>18.</td><td>Szerves oldószer extrakt (olajok, zsírok)</td><td>1 400</td></tr><tr><td>19.</td><td>Coliform szám**</td><td>0,025×2<sup>n</sup>Ft/m<sup>3</sup></td></tr><tr><td>20.</td><td>Nitrát-nitrogén</td><td>70</td></tr><tr><td>21.</td><td>Nitrit-nitrogén</td><td>70</td></tr><tr><td>22.</td><td>Klorid</td><td>3 500</td></tr><tr><td>23.</td><td>Kátrány</td><td>8 400</td></tr><tr><td>24.</td><td>Fenolok (fenol index)</td><td>3 500</td></tr><tr><td>25.</td><td>Fluoridok</td><td>3 500</td></tr><tr><td>26.</td><td>Összes alifás szénhidrogén (TPH) C<sub>5</sub>–C<sub>40</sub>, ill. alifás szénhidrogének fűtőolajként kimutatva C<sub>10</sub>–C<sub>32</sub></td><td>8 750</td></tr><tr><td colspan="3">*B) Veszélyes és mérgező anyagok*</td></tr><tr><td>27.</td><td>Adszorbeálható szerves halogén vegyületek, klórban kifejezve (AOX)</td><td>70 000</td></tr><tr><td>28.</td><td>Alaklór</td><td>85 000</td></tr><tr><td>29.</td><td>Aldrin</td><td>500 000</td></tr><tr><td>30.</td><td>Alumínium (összes)</td><td>3 500</td></tr><tr><td>31.</td><td>Antimon (összes)</td><td>14 000</td></tr><tr><td>32.</td><td>Antracén</td><td>240 000</td></tr><tr><td>33.</td><td>Arzén (összes)</td><td>14 000</td></tr><tr><td>34.</td><td>Atrazin</td><td>45 000</td></tr><tr><td>35.</td><td>Azbeszt</td><td>14 000</td></tr><tr><td>36.</td><td>Bárium (összes)</td><td>8 750</td></tr><tr><td>37.</td><td>Benz(g,h,i)perilén</td><td>15 000</td></tr><tr><td>38.</td><td>Brómozott difenil-éterek (PBDE)****</td><td>–</td></tr><tr><td>39.</td><td>BTEX (benzol, toluol, etilbenzol, xilol)</td><td>5 000</td></tr><tr><td>40.</td><td>Cianidok (könnyen felszabaduló)</td><td>350 000</td></tr><tr><td>41.</td><td>Cianid (összes)</td><td>3 500</td></tr><tr><td>42.</td><td>Cink (összes)</td><td>3 500</td></tr><tr><td>43.</td><td>Dieldrin</td><td>500 000</td></tr><tr><td>44.</td><td>Dioxinok és furánok</td><td>700 000</td></tr><tr><td>45.</td><td>Di(2-etilhexil)ftalát</td><td>15 000</td></tr><tr><td>46.</td><td>1,2-diklór-etán</td><td>14 000</td></tr><tr><td>47.</td><td>DDT</td><td>500 000</td></tr><tr><td>48.</td><td>Diuron</td><td>100 000</td></tr><tr><td>49.</td><td>Diklórmetán (DCM)</td><td>7 000</td></tr><tr><td>50.</td><td>Endoszulfán</td><td>700 000</td></tr><tr><td>51.</td><td>Endrin</td><td>500 000</td></tr><tr><td>52.</td><td>Etilén oxid</td><td>5 000</td></tr><tr><td>53.</td><td>Ezüst (összes)</td><td>70 000</td></tr><tr><td>54.</td><td>Fluorantén</td><td>200 000</td></tr><tr><td>55.</td><td>Heptaklór</td><td>500 000</td></tr><tr><td>56.</td><td>Hexabróm-bifenil</td><td>500 000</td></tr><tr><td>57.</td><td>Hexaklórbenzol (HCB)</td><td>70 000</td></tr><tr><td>58.</td><td>Hexaklórbutadién (HCBD)</td><td>35 000</td></tr><tr><td>59.</td><td>Hexaklór-ciklohexán (HCH)</td><td>500 000</td></tr><tr><td>60.</td><td>Higany (összes)</td><td>700 000</td></tr><tr><td>61.</td><td>Isodrin</td><td>500 000</td></tr><tr><td>62.</td><td>Izoproturon</td><td>80 000</td></tr><tr><td>63.</td><td>Kadmium (összes)</td><td>70 000</td></tr><tr><td>64.</td><td>Klór-alkánok, C<sub>10</sub>–C<sub>13</sub>****</td><td></td></tr><tr><td>65.</td><td>Klórdán</td><td>500 000</td></tr><tr><td>66.</td><td>Klórdekon</td><td></td></tr><tr><td>67.</td><td>Klórfenvinfosz</td><td>260 000</td></tr><tr><td>68.</td><td>Kloroform (triklór-metán)</td><td>35 000</td></tr><tr><td>69.</td><td>Klórpirifosz</td><td>700 000</td></tr><tr><td>70.</td><td>Kobalt (összes)</td><td>14 000</td></tr><tr><td>71.</td><td>Króm (VI)</td><td>14 000</td></tr><tr><td>72.</td><td>Króm (összes)</td><td>3 500</td></tr><tr><td>73.</td><td>Mirex</td><td>500 000</td></tr><tr><td>74.</td><td>Molibdén</td><td>14 000</td></tr><tr><td>75.</td><td>Naftalin</td><td>8 000</td></tr><tr><td>76.</td><td>Nikkel (összes)</td><td>14 000</td></tr><tr><td>77.</td><td>Nonil-fenolok és nonil-fenol-etoxilátok</td><td>70 000</td></tr><tr><td>78.</td><td>Oktil-fenolok és oktil-fenol-etoxilátok</td><td>480 000</td></tr><tr><td>79.</td><td>Ólom (összes)</td><td>14 000</td></tr><tr><td>80.</td><td>Ón (összes)</td><td>3 500</td></tr><tr><td>81.</td><td>Pentaklór-benzol</td><td>700 000</td></tr><tr><td>82.</td><td>Pentaklórfenol</td><td>500 000</td></tr><tr><td>83.</td><td>Perklóretilén (tetraklóretilén)</td><td>70 000</td></tr><tr><td>84.</td><td>Policiklikus aromás szénhidrogének (PAH-k)*****</td><td>7 000</td></tr><tr><td></td><td>Benz(a)pirén</td><td></td></tr><tr><td></td><td>Benz(b)fluorantén</td><td></td></tr><tr><td></td><td>Benz(g,h,i)perilén</td><td></td></tr><tr><td></td><td>Benz(k)fluorantén</td><td></td></tr><tr><td></td><td>Indeno(1,2,3-cd)pirén</td><td></td></tr><tr><td>85.</td><td>Poliklórozott bifenilek (PCB-k)</td><td>500 000</td></tr><tr><td>86.</td><td>Réz (összes)</td><td>3 500</td></tr><tr><td>87.</td><td>Simazin</td><td>25 000</td></tr><tr><td>88.</td><td>Szelén (összes)</td><td>14 000</td></tr><tr><td>89.</td><td>Széntetraklorid (tetraklór-metán TCM)</td><td>23 500</td></tr><tr><td>90.</td><td>Tallium (összes)</td><td>14 000</td></tr><tr><td>91.</td><td>Toxafén</td><td>500 000</td></tr><tr><td>92.</td><td>Toxicitás</td><td>70 Ft/m<sup>3</sup></td></tr><tr><td>93.</td><td>Tributil-ón és vegyületei</td><td>700 000</td></tr><tr><td>94.</td><td>Trifenil-ón és vegyületei</td><td>700 000</td></tr><tr><td>95.</td><td>Trifluralin</td><td>500 000</td></tr><tr><td>96.</td><td>Triklórbenzolok (TCB)</td><td>70 000</td></tr><tr><td>97.</td><td>Triklóretilén</td><td>35 000</td></tr><tr><td>98.</td><td>Vinilklorid</td><td>10 000</td></tr><tr><td colspan="3">*C) Egyebek*</td></tr><tr><td>99.</td><td>10 perces ülepedő anyag</td><td>70</td></tr><tr><td>100.</td><td>Hőterhelés ***</td><td>5 Ft/°C/m<sup>3</sup></td></tr></tbody></table>
+
+| * | A víz kalcium-, magnézium- és káliumtartalmával 45 egyenérték%-ban egyensúlyt tartó nátrium kg-ban kifejezett értékét meghaladó mennyiség. |
+|---|---|
+| ** | Az „n” a cm<sup>3</sup>-kénti coliform szám normál alakban kifejezett értékének kitevője, de legfeljebb 4. |
+| *** | A hőterhelés bírságtényezője Ft/°C/m<sup>3</sup>, mely a kibocsátott vízmennyiségnek csak a hőfokára értelmezhető. |
+| **** | Ez az anyagcsoport számos egyedi komponenst tartalmaz. Jelenleg konkrét vegyület mint indikatív paraméter még nem adható meg. |
+| ***** | A bírságtétel a felsorolt egyedi PAH-k összességére vonatkozik.” |
+
+2.10. Többszörös bírságolás elkerülésére vonatkozó előírás\
+A bírság számításánál és megállapításánál többszörös bírságolást nem lehet alkalmazni.\
+*2/II. A vízvédelmi bírság bírságtételeinek meghatározása*\
+A vízvédelmi bírság mértéke, ha a kibocsátó
+
+<table><tbody><tr><td colspan="2">*a)* a külön jogszabály alapján elkészítendő önellenőrzési terv készítését és annak jóváhagyását elmulasztotta</td><td>300 000 Ft/év</td></tr><tr><td colspan="2">*b)* az önellenőrzési tervét a vízvédelmi hatóság általi felszólításra sem készíti el</td><td>1 000 000 Ft/eset</td></tr><tr><td colspan="2">*c)* a jóváhagyott önellenőrzési terv teljesítését elmulasztotta</td><td>300 000 Ft/eset</td></tr><tr><td colspan="2">*d)* vízhasználatáról és a kibocsátott szennyvizéről szándékosan valótlan adatot közöl</td><td>1 000 000 Ft/eset</td></tr><tr><td colspan="2">*e)* nem készíti el szennyezéscsökkentési ütemtervét, a vízvédelmi hatóság által előírt határidőig</td><td>200 000 Ft/év és 10 000 000 Ft/év között (a telepü-<br>lési szennyvíz el-<br>vezetése esetében a bírságot a tele-<br>pülés LE terhelés nagyságrendje függvényében egyedileg kell megállapítani)</td></tr><tr><td>*f)* szennyezéscsökkentési ütemtervét nem a jóváhagyott ütemezés szerint végzi</td><td colspan="2">500 000 Ft/ellenőrzés</td></tr><tr><td colspan="2">*g)* a szennyvízkibocsátására vonatkozó (jogszabályban, illetve hatósági kötelezésben előírt) adatszolgáltatási kötelezettségét határidőre, illetve a vízvédelmi hatóság felszólítására sem teljesíti</td><td>1 000 000 Ft/eset</td></tr><tr><td colspan="2">*h)* engedélyköteles tevékenységet, illetve az ehhez tartozó technológia üzemeltetését hatósági engedély nélkül kezdi meg, és szennyvízkibocsátást folytat</td><td>100 000 Ft/nap</td></tr><tr><td colspan="2">*i)* engedélyezéshez szükséges adatokban bekövetkezett változást nem jelenti be a területileg illetékes vízvédelmi hatóságnak és nem kéri az engedély módosítását, valamint a vízvédelmi hatóság általi felszólításra a módosításhoz szükséges meglévő engedélyét, továbbá a kibocsátására jellemző szennyező anyagokra vonatkozó nyilatkozatát a hatóság részére az előírt határidőre nem küldi meg</td><td>200 000 Ft/eset</td></tr><tr><td colspan="2">*j)* vagy felszíni vízbe, csapadékvízelvezető hálózatba engedély nélküli szennyvíz- (használtvíz) bevezetését a hatóság által előírt határidőre nem szünteti meg, illetve a 12. § (5) bekezdés szerinti tilalmat megszegi és közcsatornába hulladékot (így különösen: élelmiszer hulladékot) bocsát</td><td>200 000 Ft/eset</td></tr></tbody></table>
+
+## 3. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^212]
+
+**A szennyvízkibocsátás engedélyezéséhez benyújtandó engedélykérelmi dokumentáció tartalmi követelményei**
+
+*A) A tartalmi követelményekre vonatkozó általános előírások*\
+A szennyvízkibocsátás engedélyezéséhez a 21. § (1)-(3) bekezdésében előírt engedélyezési eljárás során a külön jogszabályok szerinti engedélykérő dokumentáció tartalmi követelményeire vonatkozó előírásokat csak új létesítmények vízjogi engedélyezése, új és meglévő létesítmények egységes környezethasználati engedélyezése és meglévő létesítmények felülvizsgálata során kell teljesíteni, továbbá az engedélykérelemnek tartalmaznia kell a B) fejezet szerint meghatározott adatokat is.\
+B) Meglévő létesítményből kibocsátók engedélyének (vízjogi üzeméltetési, környezetvédelmi, működési, egységes környezethasználati, 25. § szerinti) szennyvízkibocsátással kapcsolatos megújításához, illetve meglévő, a 21. § (3) bekezdése szerinti kibocsátást folytatók kibocsátási határértékeinek megállapításához az e rendelet hatálybalépése után benyújtott engedélykérő dokumentációnak a következő adatokat, tervrészleteket kell tartalmaznia:
+
+1\. Általában szükséges adatok minden kibocsátóra értelemszerűen vonatkoztatva
+
+1.1. A külön jogszabályban meghatározott adatok.
+
+1.2. Termelő üzemekből kibocsátók termelésre, gyártástechnológiára vonatkozó, az 1.1. pontban előírtakon túli, egyéb jellemző adatai:
+
+a) a szennyvíz keletkezését eredményező gyártástechnológia, a felhasznált alap- és segédanyagok, az ezekkel összefüggő – az anyagokban előforduló – károsító anyagok fajtái; a termelés jellemző volumen adata, illetve a termelési kapacitás,
+
+b) a termelési időszakok időtartama,
+
+c) a szennyvíz keletkezését befolyásoló munkarend, az éves üzemnapok száma,
+
+d) idényben vagy időszakosan működő kibocsátóknál az aktuális idény vagy időszak tartama, jellemzői,
+
+e) több műszakban, eltérő technológiákkal üzemelő kibocsátóknál a szennyvíz műszakonkénti megoszlása,
+
+f) a vízveszteségnek az alkalmazott technológia jellemzői alapján mért vagy számított mértéke,
+
+g) ha az adott gyártási technológiára vonatkozóan a külön jogszabályban technológiai határértékek vannak érvényben, meg kell adni, hogy a folytatott (vagy folytatni kívánt) tevékenység(ek) a jogszabály mellékletében szereplő technológiák melyikével azonosítható(ak) (sorszám és pontos megnevezés megjelölésével),
+
+h) több – technológiai határértékkel bíró – gyártási technológia esetében a szennyvízmennyiség megadása technológiai bontásban, m3/nap mértékegységben; ha a technológiai határérték(ek) a felhasznált anyag vagy termék egységére vetített szennyező anyag mennyiségben van(nak) megadva (kg/t), akkor szükséges a felhasznált anyag vagy előállított termék mennyiségének megadása technológiánként.
+
+1.3. Közvetlen bevezetést folytató kibocsátások esetében a befogadó jellemző adatai:
+
+a) megnevezése,
+
+b) vízhozamának jellemzői,
+
+c) vízminőség-védelmi területi kategória szerinti besorolása,
+
+d) a közvetlen bevezetés helyének szelvényszáma, EOV koordinátái,
+
+e) a bevezetés jellegének (parti, sodorvonali, hígulási) leírása.
+
+1.4. Szennyvíztisztító telepről való kibocsátással folyatott közvetlen bevezetés esetén szükséges egyéb adatok:
+
+a) a tisztítótelep lakott területtől való távolsága,
+
+b) az üzemelés (szennyvíztisztítás) megkezdésének időpontja,
+
+c) az engedély véglegessé válását követő érdemi, a szennyvíztisztítás hatékonyságát befolyásoló változások ismertetése,
+
+d) a szennyvíztisztító mértékadó kapacitás (m3/d; LE),
+
+e) a szennyvíztisztító telep jellemző szennyező anyag terhelése,
+
+f) a szennyvíztisztítási technológia leírása,
+
+g) az üzemelő tisztító műtárgyak ismertetése,
+
+h) a szennyvíztisztítás hatásfoka,
+
+i) a keletkező iszap mennyiségi, minőségi adatai, kezelése, végleges elhelyezése.
+
+1.5. A szennyvíz-előkezelő és szennyvíztisztító létesítmények üzemeltetési és kárelhárítási szabályzatának leírása.
+
+1.6. A kibocsátás szabályozására vonatkozó, a kibocsátó kérelmét, javaslatát tartalmazó adatok
+
+a) egyedi kibocsátási határérték kérelmére és a kérelem alátámasztására vonatkozó adatok, ismertetések;
+
+b) a szennyvízkibocsátás ellenőrzésére vonatkozó adatok:
+
+ba) mintavételi helyek (önellenőrzési és hatósági mintavétel a nyers szennyvíz és a kibocsátott szennyvíz ellenőrzésére),
+
+baa) keletkezési helyre előírt technológiai határérték ellenőrzési helye,
+
+bab) elkeveredés előtti helyre előírt technológiai határérték ellenőrzési helye,
+
+bac) közcsatornába vagy közös üzemi csatornába vezetésre előírt határérték ellenőrzési helye,
+
+bad) felszíni víz befogadóba való közvetlen bevezetésre előírt kibocsátási határérték ellenőrzési helye,
+
+bb) önellenőrzést végző akkreditált laboratórium megnevezése.
+
+1.7. Egyéb tartalmi elemek:
+
+a) átnézetes helyszínrajz,
+
+b) telephely részletes helyszínrajz, a szennyvízelvezető, előkezelő, tisztító létesítményekkel,
+
+c) a szennyvíz-előtisztító, illetve tisztító technológia működési hossz-szelvény,
+
+d) szennyvízre, szennyvíziszapra vonatkozó – lehetőleg – akkreditált laboratórium által elvégzett önkontroll vizsgálati eredmények,
+
+e) az eddig előfordult üzemzavarok, havária események rövid ismertetése.
+
+2\. Egyes vízilétesítményekből való kibocsátás esetén az 1.1., 1.3-1.7. pontban előírtak értelemszerű megadásán túl az engedélykérő dokumentáció részei:
+
+2.1. Települési szennyvíztisztítóból való kibocsátás esetén
+
+a) a telep lakosegyenértékben (60 g BOI5/fő x nap) kifejezett szervesanyag eltávolító kapacitása,
+
+b) nitrifikációra vonatkozó adatok, műtárgyak, tartózkodási idők, berendezések,
+
+c) denitrifikációra vonatkozó adatok, műtárgyak, tartózkodási idők, berendezések, használt vegyszerek megnevezése, mennyisége,
+
+d) foszfor eltávolításra vonatkozó adatok, műtárgyak, tartózkodási idők, berendezések, használt vegyszerek megnevezése, mennyisége,
+
+e) a telep lakosegyenértékben (60 g BOI5/fő x nap) kifejezett szervesanyag terhelése,
+
+f) csatornamű hulladékok mennyiségére, minőségére, kezelésére vonatkozó adatok.
+
+2.2. Szivattyútelepről való közvetlen bevezetést folytató kibocsátás esetén
+
+a) az engedély véglegessé válását követő érdemi, a kibocsátást befolyásoló változások ismertetése,
+
+b) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
+
+c) egyéb csatornamű hulladékok mennyiségére, minőségére és ártalmatlanítására vonatkozó adatok,
+
+d) üzemeltetési szabályzat,
+
+e) kárelhárítás szabályzat.
+
+2.3. A végpontján szennyvíztisztító teleppel nem rendelkező szennyvízelvezető hálózatból (szabadkiömlőből) való közvetlen bevezetés esetén
+
+a) az engedély véglegessé válását követő érdemi, a kibocsátást befolyásoló változások ismertetése,
+
+b) a kibocsátott szennyvíz mennyiségére és minőségére vonatkozó (önellenőrzési) adatok,
+
+c) kárelhárítási szabályzat.
+
+3\. Ha a meglévő létesítményből kibocsátást folytató vízjogi engedélyköteles kibocsátó nem rendelkezik érvényes vízjogi üzemeltetési engedéllyel az 1. és 2. pontban előírtak értelemszerű alkalmazásával megadott adatokon túl az engedélykérő dokumentáció részei:
+
+a) szennyvíztisztító telepről vagy szennyvíz-előtisztító (kezelő) létesítményből való kibocsátás esetében a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló miniszteri rendeletben előírtak;
+
+b) szivattyútelepről való közvetlen bevezetés esetében
+
+ba) a vízgyűjtőterület jellemzése,
+
+bb) a vízgyűjtőterületen működő, a környezetre potenciális veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
+
+bc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége,
+
+bd) a szivattyútelep műtárgyainak és berendezéseinek leírása, vázlatrajza;
+
+c) szabadkiömlőből való közvetlen bevezetés esetében
+
+ca) a vízgyűjtőterület jellemzése,
+
+cb) a vízgyűjtőterületen működő, a környezetre veszélyt jelentő, nagyobb ipari szennyvízkibocsátók megnevezése, ezen kibocsátók szennyvizeinek jellemzése,
+
+cc) a vízgyűjtőterületen leeresztett nem közművel összegyűjtött háztartási szennyvíz mennyisége, minősége.
+
+## 4. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^213]
+
+**A beavatkozási terv tartalmi követelményei**
+
+1\. A beavatkozási terv készítése során
+
+a) vizsgálni kell minden olyan szennyező anyag térbeli előfordulását, melynek jelenléte a károkozó tevékenysége vagy az általa alkalmazott technológiák alapján valószínűsíthető;
+
+b) részletes kémiai vizsgálatot kell végezni a felszíni vízre, üledékre vonatkozóan annak érdekében, hogy valamennyi, a szennyeződést okozó szennyező anyag előfordulása megállapítható legyen;
+
+c) le kell határolni a szennyeződés által érintett területet;
+
+d) ki kell választani az alkalmazásra javasolt, bizonyítottan legjobb elérhető beavatkozási technológiát;
+
+e) vizsgálni kell a kármentesítés beavatkozásának pénzügyi-műszaki megvalósíthatóságát, költséghasznosságát.
+
+2.[^214] A beavatkozási tervben megjelölt lehetséges beavatkozások közötti választáshoz a kötelezett
+
+a) az elsődleges beavatkozások azonosítása során köteles mérlegelni a felszíni vizek és szolgáltatások eredeti állapothoz közeli állapotba történő gyors és közvetlen visszaállítása érdekében a választható beavatkozások vagy a természetes regenerálódás lehetőségét;
+
+b) a kiegészítő és a kompenzációs[^215] beavatkozás mértékének meghatározása során a kieső felszíni vizet vagy szolgáltatást az adott felszíni vízzel vagy szolgáltatással egyenértékű felszíni vízzel vagy szolgáltatással kell helyettesíteni. A helyettesítés elsődleges követelménye a károsodott felszíni vízhez vagy szolgáltatáshoz típusában, minőségében és mennyiségében hasonló felszíni víz, illetve szolgáltatás biztosítása.
+
+Amennyiben
+
+a) a (2) bekezdés b) pontjában meghatározott helyettesítés nem valósítható meg, alternatív értékelési technikákat kell alkalmazni, alternatív felszíni vizek, illetve szolgáltatások biztosításával (így például: a minőségromlás kompenzálható a kármentesítési intézkedések mennyiségének növelésével). A vízvédelmi hatóság a szükséges kiegészítő és kompenzációs[^216] beavatkozás mértékének meghatározására előírhatja a megfelelő módszert (így például: pénzügyi értékelés);
+
+b) az elveszett felszíni vizek, illetve szolgáltatások értékelése elvégezhető, de a helyettesítő felszíni vizek, illetve szolgáltatások értékelése nem hajtható végre ésszerű határidőn belül vagy ésszerű költségszinten, a vízvédelmi hatóság olyan beavatkozásokat választhat, amelyek költsége megegyezik az elveszett felszíni vizek, illetve szolgáltatások becsült pénzügyi értékével.
+
+3\. A kiegészítő és a kompenzációs[^217] beavatkozások tervezése során annyi időre kell gondoskodni további felszíni vizekről, illetve szolgáltatásokról, amennyi a beavatkozások ideális időtartama és időbeosztása alapján szükséges (így például: minél több időt vesz igénybe az eredeti állapotba történő visszaállás, annál több kompenzációs[^218] beavatkozást kell alkalmazni, míg a többi tényező nem változik).
+
+4\. A beavatkozási tervben a lehetséges, ésszerű beavatkozási lehetőségeket a kötelezettnek az elérhető legjobb technika alkalmazásával és a következő ismérvek alapján kell értékelni:
+
+a) hatás a közegészségügyre és a biztonságra;
+
+b) végrehajtás költsége;
+
+c) a sikeresség valószínűsége;
+
+d) az idő mértéke, amely szükséges ahhoz, hogy a felszíni vizekben okozott károk kármentesítésére tett intézkedések kifejtsék hatásukat;
+
+e) földrajzi kapcsolat a károsodott természeti területtel;
+
+f) a különböző lehetőségek
+
+*fa)* milyen mértékben előzik meg a jövőbeli károkat, és mennyire kerülhetők el általuk az adott lehetőség végrehajtásából adódó másodlagos károk,
+
+*fb)* milyen előnyös hatásokat gyakorolnak a természeti erőforrás és/vagy szolgáltatás egyes összetevőire,
+
+*fc)* mennyire veszik figyelembe a lényeges társadalmi, gazdasági és kulturális vonatkozásokat és a helyi sajátosságokból adódó egyéb lényeges tényezőket,
+
+*fd)* milyen mértékben állatják helyre a felszíni vizekben okozott károkat szenvedett természeti területet.
+
+5\. A lehetséges beavatkozások értékelése során választható olyan elsődleges beavatkozás, amely nem, vagy csak lassabban állítja vissza teljesen a károsodott felszíni vizek eredeti állapotát (így például: ha az azonos szintű felszíni vizek, illetve szolgáltatások biztosításáról máshol alacsonyabb költséggel lehet gondoskodni). A választás feltétele, hogy eredményként az elsődleges területen a felszíni vizekben, illetve szolgáltatásokban bekövetkező veszteséget egyre jelentősebb kiegészítő vagy kompenzációs[^219] beavatkozással kompenzáljuk annak érdekében, hogy az elveszített felszíni vizekhez, illetve szolgáltatásokhoz hasonló szintű felszíni vizek, illetve szolgáltatások álljanak rendelkezésre.
+
+6\. Kompenzációs[^220] beavatkozást kell végezni a felszíni vizek és azok szolgáltatásainál regenerálódásáig bekövetkező ideiglenes veszteségek kompenzálására. Ez a kompenzáció a felszíni víz további javítását jelenti vagy károsodott, vagy pedig a másik természeti területen. E fogalom nem terjed ki a köznek nyújtott pénzbeli kompenzációra.
+
+## 5. számú melléklet a 220/2004. (VII. 21.) Korm. rendelethez[^221]
+
+**A monitoring jelentés, illetve záródokumentáció tartalmi követelményei**
+
+1\. A károsodott felszíni víz megjelölése, lehatárolása
+
+2\. A károsodott felszíni víz tulajdonosainak, kezelőinek, használóinak, illetve a kármentesítési monitoringra kötelezett adatai
+
+3\. A monitoring keretében vizsgált környezeti elemek felsorolása
+
+3.1. A vizsgálati gyakoriság
+
+3.2. A mérések, megfigyelések, észlelések, továbbá a mintavétel módszertana
+
+3.3. A mért, észlelt, megfigyelt adatok nyilvántartása és feldolgozási rendje
+
+3.4. Az értékelés eredménye, különösen:
+
+a) A monitoring létesítmények állapota
+
+b) A mintavételek rendszeressége
+
+c) A mintavételek megbízhatósága
+
+d) A helyszíni vizsgálatok megbízhatósága
+
+e) A laboratóriumi vizsgálatok megbízhatósága
+
+f) Az adatok viszonyítása a vonatkozó határértékekhez
+
+g) Trendvizsgálatok, tendenciák felismerhetősége
+
+h) Javaslat az esetleges módosításokra
+
+4\. A kármentesítés korábbi szakaszaiban kialakított kármentesítési monitoring bemutatása (amennyiben készült)
+
+5\. A monitoring esetleges hiányosságainak bemutatása, rövid indokolással
+
+6\. A monitoring eredményeinek részletes bemutatása
+
+7\. Mellékletek: dokumentumok, térképek, ábrák, fotók
+
+8\. Egyebek
+
+---
+
+[^1]: Az 1. §-t megelőző alcím a 230/2010. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: Az 1. § a 230/2010. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § a) pont ac) alpontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^4]: A 2. § a) pont ad) alpontja a 441/2012. (XII. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § 3. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 3. § 5. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 3. § 7. pontja a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (1) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 3. § 9. pontja a 230/2010. (VIII. 18.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § 20. pontja a 368/2004. (XII. 26.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 3. § 22. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^11]: A 3. § 26. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^12]: A 3. § 27. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^13]: A 3. § 29. pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^14]: A 3. § 36. pontját a 310/2014. (XII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^15]: A 3. § 37. pontját a 310/2014. (XII. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^16]: A 3. § 38. pontját a 368/2004. (XII. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 3. § 39. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 3. § 40. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 3. § 41. pontját a 93/2007. (IV. 26.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 3. § 42. pontját a 194/2007. (VII. 25.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 3. § 43. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 3. § 44. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^23]: A 3. § 45. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^24]: A 3. § 46. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 3. § 47. pontját a 230/2010. (VIII. 18.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^26]: A 3. § 48. pontját a 248/2015. (IX. 8.) Korm. rendelet 4. §-a iktatta be.
+[^27]: A 3. § 49. pontját a 248/2015. (IX. 8.) Korm. rendelet 4. §-a iktatta be.
+[^28]: Az 5. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 34. pontja, a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^29]: A 6. § (1) bekezdése a 248/2015. (IX. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A 6. § (2) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^31]: A 7. § a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^32]: A 8. § a 248/2015. (IX. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 9. § (3) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^34]: A 11. § (2) bekezdés a) pont nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^35]: A 11. § (2) bekezdés a) pont aa) alpontja a 300/2011. (XII. 22.) Korm. rendelet 30. § j) pontja szerint módosított szöveg.
+[^36]: A 11. § (2) bekezdésének b) pontja a 93/2007. (IV. 26.) Korm. rendelet 2. §-ával megállapított, a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^37]: A 12. § (1) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^38]: A 12. § (3) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^39]: A 12. § (4) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^40]: A 12. § (5) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 29. §-ának (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^41]: A 13. § e) pontja a 93/2007. (IV. 26.) Korm. rendelet 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^42]: A 14. § (1) bekezdésének c) pontja a 93/2007. (IV. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^43]: A 14. § (4a) bekezdését a 230/2010. (VIII. 18.) Korm. rendelet 6. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^44]: A 14. § (5) bekezdése a 93/2007. (IV. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^45]: A 14. § (6) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, a 310/2014. (XII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^46]: A 14/A. §-t a 230/2010. (VIII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^47]: A 15. § (2) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^48]: A 16. § a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^49]: A 17. § a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^50]: A 18. § (1) bekezdése a 208/2006. (X. 16.) Korm. rendelet 1. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^51]: A 18. § (2) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^52]: A 18. § (4) bekezdését a 208/2006. (X. 16.) Korm. rendelet 13. §-ának b) pontja hatályon kívül helyezte.
+[^53]: A 19. § a 230/2010. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^54]: A 19. § (1) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^55]: A 19. § (2) bekezdés b) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^56]: A 19. § (2) bekezdés d) pontját a 182/2013. (VI. 7.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^57]: A 19. § (2a) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 182/2013. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^58]: A 19. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^59]: A 19/A. §-t a 208/2006. (X. 16.) Korm. rendelet 3. §-a iktatta be, szövege az 558/2013. (XII. 31. ) Korm. rendelet 1. §-ával megállapított szöveg.
+[^60]: A 20. § az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^61]: A 21. § (1) bekezdése a 208/2006. (X. 16.) Korm. rendelet 4. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^62]: A 21. § (2) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^63]: A 21. § (3) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^64]: A 22. § (2) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^65]: A 23. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (4) bekezdése szerint módosított szöveg.
+[^66]: A 25. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^67]: A 25. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 134. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^68]: A 25. § (3) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^69]: A 25. § (4) bekezdését a 208/2006. (X. 16.) Korm. rendelet 5. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 360. § (1) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^70]: A 25. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^71]: A 25/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 134. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^72]: A 25/B. §-t az 595/2023. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^73]: A 26. § (1) bekezdése a 368/2004. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^74]: A 26. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 29. § (3) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 362. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^75]: A 26. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^76]: A 26. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^77]: A 26. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 34. pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^78]: A 27. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 136. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^79]: Lásd a 27/2005. (XII. 6.) KvVM rendeletet.
+[^80]: A 27. § (2) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^81]: A 27. § (2) bekezdés c) pont cb) alpontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^82]: A 27. § (2) bekezdés d) pontját a 230/2010. (VIII. 18.) Korm. rendelet 13. § (1) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^83]: A 27. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^84]: A 27. § (4) bekezdését a 230/2010. (VIII. 18.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 310/2014. (XII. 11.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^85]: A 28. § (1) bekezdés nyitó szövegrésze a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 136. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^86]: A 28. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 134. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^87]: A 28. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 134. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^88]: A 28. § (2) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 136. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^89]: A 28. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 134. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^90]: A 28. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 134. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^91]: A 28. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^92]: A 28. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^93]: A 28. § (5) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^94]: A 28/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 134. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 29. § a 457/2017. (XII. 28.) Korm. rendelet 134. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^96]: A 30. § a 230/2010. (VIII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^97]: A 30. § (3) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^98]: A 30. § (4) bekezdését a 170/2013. (V. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^99]: A 30/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 134. § (7) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^100]: A 31. § (1) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^101]: A 31. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 29. § (4) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^102]: A 31. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése szerint módosított szöveg.
+[^103]: A 31. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 362. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^104]: A 33. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^105]: Az Alkotmánybíróság 5/2017. (III. 10.) AB határozatának 1. pontja alapján megállapította, hogy a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet 33. § (1) bekezdése alkalmazásában alkotmányos követelmény, hogy az ott meghatározott határidő leteltét követően szankció nem szabható ki.
+[^106]: A 33. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^107]: A 33. § (3) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^108]: A Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.
+[^109]: A 34. § (1) bekezdése a 310/2014. (XII. 11.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^110]: A 34. § (3) bekezdés bevezető szövegrésze a 314/2009. (XII. 28.) Korm. rendelet 28. §-a, a 457/2017. (XII. 28.) Korm. rendelet 136. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^111]: A 34. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^112]: A 34. § (3) bekezdés b) pontja a 312/2005. (XII. 25.) Korm. rendelet 2. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 340/2024. (XI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^113]: A 34. § (4) bekezdését a 312/2005. (XII. 25.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^114]: A 34. § (5) bekezdését a 208/2006. (X. 16.) Korm. rendelet 6. §-a iktatta be.
+[^115]: A 34. § (6) bekezdését a 100/2016. (V. 13.) Korm. rendelet 11. §-a iktatta be, szövege a 368/2020. (VII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^116]: A 34. § (7) bekezdését az 56/2025. (III. 26.) Korm. rendelet 1. §-a iktatta be.
+[^117]: A 35. § (1) bekezdés zár szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^118]: A 35. § (1) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^119]: A 35. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^120]: A 35. § (1) bekezdés c) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^121]: A 35. § (1) bekezdés e) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^122]: A 35. § (1) bekezdés g) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^123]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
+[^124]: A 35. § (1) bekezdés i) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése szerint módosított szöveg.
+[^125]: A 35. § (1) bekezdés j) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^126]: A 35. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 137/2017. (VI. 9.) Korm. rendelet 3. §-a szerint, a 457/2017. (XII. 28.) Korm. rendelet 136. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^127]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendelet 1. § e) pontját.
+[^128]: A 36. § (4) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^129]: A 36. § (4) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^130]: A 36. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^131]: A 37. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^132]: A 37. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^133]: A 37. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^134]: [A 37. § (5) bekezdés b) pontjában a 13/2020. (II. 7.) Korm. rendelet 23. § 3. pontjával elrendelt módosítás, amely szerint a „közoktatási” szövegrész helyébe a „köznevelési, szakképző” szöveg lép, nem vezethető át.]
+[^135]: A 38. § (1) bekezdése a 182/2013. (VI. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^136]: A 38. § (2) bekezdés a) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^137]: A 38. § (2) bekezdésének d) pontját a 312/2005. (XII. 25.) Korm. rendelet 3. §-a iktatta be, szövege a 156/2012. (VII. 13.) Korm. rendelet 2. §-ával megállapított szöveg, a 156/2012. (VII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^138]: A 38. § új (3) bekezdését a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
+[^139]: A 38. § (3) bekezdésének záró szövegrésze a 312/2005. (XII. 25.) Korm. rendelet 5. § a) pontjával megállapított szöveg. A 38. § eredeti (3) bekezdésének számozását a 208/2006. (X. 16.) Korm. rendelet 7. § (2) bekezdése (4) bekezdésre változtatta.
+[^140]: A 38. § (5) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^141]: A 38. § (5) bekezdés a) pont aa) alpontja a 457/2017. (XII. 28.) Korm. rendelet 136. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^142]: A 38. § (6) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^143]: A 38. § (7) bekezdését a 307/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^144]: A 38/A. §-t a 156/2012. (VII. 13.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 156/2012. (VII. 13.) Korm. rendelet 4. § b) pontja, újonnan az 558/2013. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^145]: A 39. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 360. § (3) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^146]: A 39. § (2) bekezdésének nyitó szövegrésze a 208/2006. (X. 16.) Korm. rendelet 8. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, zárós zövegrésze ez utóbbi módosító rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^147]: A 39. § (3) bekezdése a 182/2013. (VI. 7.) Korm. rendelet 4. §-ával megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^148]: A 39. § (5) bekezdése a 208/2006. (X. 16.) Korm. rendelet 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^149]: A 39. § (6) bekezdését a 208/2006. (X. 16.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^150]: A 39/A. §-t megelőző címet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^151]: A 39/A. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^152]: A 39/A. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^153]: A 39/A. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 55. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^154]: A 39/A. § (2) bekezdés d) pontja a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^155]: A 39/A. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^156]: A 39/A. § (4) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^157]: A 39/B. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^158]: A 39/B. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^159]: A 39/B. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^160]: A 39/B. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^161]: A 39/B. § (8) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^162]: A 39/B. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^163]: A 39/B. § (11) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 360. § (4) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^164]: A 39/C. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^165]: A 39/C. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^166]: A 39/C. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (6) bekezdése szerint módosított szöveg.
+[^167]: A 39/C. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^168]: A 39/C. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^169]: A 39/C. § (7) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^170]: A 39/C. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^171]: A 39/C. § (10) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^172]: A 39/D. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^173]: A 39/D. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^174]: A 39/D. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^175]: A 39/D. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^176]: A 39/D. § (5) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^177]: A 39/D. § (6) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (57) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^178]: A 39/D. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^179]: A 39/D. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (6) bekezdése szerint módosított szöveg.
+[^180]: A 39/D. § (11) bekezdés nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 361. §-a, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 56. §-a szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^181]: A 39/E. §-t megelőző alcímet a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be.
+[^182]: A 39/E. §-t a 93/2007. (IV. 26.) Korm. rendelet 5. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^183]: A 39/E. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (7) bekezdése szerint módosított szöveg.
+[^184]: A 39/E. § (7) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^185]: A 39/E. § (9) bekezdés nyitó szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^186]: A 40. § a 230/2010. (VIII. 18.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^187]: A 40. § (1) bekezdése a 170/2013. (V. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (8) bekezdése szerint módosított szöveg.
+[^188]: A 40. § (3) bekezdése a 170/2013. (V. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 27. § (8) bekezdése szerint módosított szöveg.
+[^189]: A 40. § (4) bekezdését a 170/2013. (V. 29.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^190]: A 41. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 654. pontja szerint módosított szöveg.
+[^191]: A 41. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 654. pontja hatályon kívül helyezte.
+[^192]: A 41. § (5) bekezdése a 368/2004. (XII. 26.) Korm. rendelet 3. § (2) bekezdésével megállapított és a 118/2008. (V. 8.) Korm. rendelet 52. § (3) bekezdése szerint módosított szöveg.
+[^193]: A 41. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 654. pontja hatályon kívül helyezte, újonnan a 230/2010. (VIII. 18.) Korm. rendelet 16. §-a iktatta be.
+[^194]: A 42. § (1) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^195]: A 42. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 654. pontja hatályon kívül helyezte.
+[^196]: A 42. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 654. pontja hatályon kívül helyezte.
+[^197]: A 42. § (7) bekezdése a 230/2010. (VIII. 18.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^199]: A 44. § a 208/2006. (X. 16.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^200]: A 44/A. §-t a 307/2010. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^201]: A hatálybalépés napja: 2010. december 30.
+[^202]: A 44/B. §-t az 558/2013. (XII. 31.) Korm. rendelet 3. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 136. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^203]: A hatálybalépés időpontja 2014. január 1.
+[^204]: A 44/C. §-t a 368/2020. (VII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^205]: A hatálybalépés időpontja 2020. augusztus 12.
+[^206]: A hatálybalépés időpontja 2020. augusztus 12.
+[^207]: A hatálybalépés időpontja 2020. augusztus 12.
+[^208]: A 45. § a 230/2010. (VIII. 18.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^209]: A 45. § h) pontját a 248/2015. (IX. 8.) Korm. rendelet 7. §-a iktatta be.
+[^210]: Az 1. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^211]: A 2. számú melléklet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg. A 2. számú melléklet a 208/2006. (X. 16.) Korm. rendelet 12. §-a és 13. §-ának a) pontja, az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) és (5) bekezdése, az 558/2013. (XII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^212]: A 3. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 135. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^213]: A 4. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^214]: A 4. számú melléklet 2. pontja az 527/2013. (XII. 30.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
+[^215]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^216]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^217]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^218]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^219]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^220]: A Magyar Közlöny 2007. évi 69. számában megjelent helyesbítésnek megfelelő szöveg.
+[^221]: Az 5. számú mellékletet a 93/2007. (IV. 26.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.

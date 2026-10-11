@@ -1,0 +1,136 @@
+---
+title: "345/2008. (XII. 30.) Korm. rendelet a közúti járművek típusjóváhagyásával kapcsolatos egyes rendelkezések megsértése esetén kiszabható bírságokról"
+identifier: "345/2008. (XII. 30.) Korm. rendelet"
+njt_id: "2008-345-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/345"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-12-30
+in_force_from: 2009-02-14
+last_amended: 2026-01-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-345-20-22"
+retrieved: 2026-10-12
+---
+
+# 345/2008. (XII. 30.) Korm. rendelet a közúti járművek típusjóváhagyásával kapcsolatos egyes rendelkezések megsértése esetén kiszabható bírságokról
+
+A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 5. és 17. alpontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 22/A. § (1) bekezdésében meghatározott rendelkezések megsértőjével szemben a közigazgatási hatósági eljárásban a 2–6. §-ban meghatározott bírság szabható ki.
+
+(2) E rendelet alkalmazásában:
+
+a) *gyártó:* az a személy vagy szervezet, aki vagy amely – függetlenül attól, hogy a típus-jóváhagyási eljárás tárgyát képező jármű, jármű-tulajdonság, alkatrész vagy tartozék összes gyártási fázisában közvetlenül részt vesz-e – a jóváhagyó hatósággal szemben felelős a típus-jóváhagyási eljárásért, valamint a jóváhagyottal egyező kivitelű gyártásért; e tekintetben gyártónak kell tekinteni a gyártó képviselőjét is;
+
+b) *adat:* szennyezőanyag-kibocsátással összefüggő, azt befolyásoló műszaki jellemző.
+
+## 2. §
+
+(1) A Kkt. 22/A. § (1) bekezdés a) pontjához kapcsolódóan, ha a gyártó a típusjóváhagyás kiadása során
+
+a)[^1] az adatközlő lapon valótlan adatot tüntet fel: 650 000 forint,
+
+b)[^2] valótlan adattartalmú jóváhagyási okmányt nyújt be: 910 000 forint,
+
+c)[^3] a megfelelőségi nyilatkozaton valótlan adatokat tüntet fel: 910 000 forint,
+
+d)[^4] elmulasztja a szennyezőanyag-kibocsátás szempontjából való jóváhagyás kiterjesztésének kérelmezését valamely általa forgalomba hozott járműtípus-változatra: 650 000 forint,
+
+e)[^5] a típusjóváhagyás szennyezőanyag-kibocsátással összefüggő kiterjesztéséhez valótlan adatot közöl: 1 040 000 forint
+
+összegű bírságot köteles fizetni.
+
+(2)[^6] A Kkt. 22/A. § (1) bekezdés a) pontjához kapcsolódóan, ha a gyártó az általa kezdeményezett jármű szennyezőanyag-kibocsátással összefüggő visszahívása indokaként hamis okot jelöl meg, 390 000 forint összegű bírságot köteles fizetni.
+
+## 3. §
+
+(1)[^7] A Kkt. 22/A. § (1) bekezdés b) pontjához kapcsolódóan, ha a gyártó a típus-jóváhagyási eljárásban hamis adattartalmú vizsgálati jegyzőkönyvet nyújt be, 650 000 forint összegű bírságot köteles fizetni.
+
+(2)[^8] Ha a gyártó azonos típus-jóváhagyási eljárásban követi el az (1) bekezdésben és a 2. § (1) bekezdésében foglaltakat, 1 300 000 forint összegű bírságot köteles fizetni.
+
+## 3/A. §[^9]
+
+(1) A Kkt. 22/A. § (1) bekezdés b) pontjához kapcsolódóan, ha a gyártó
+
+a) a kibocsátási típusjóváhagyás keretében a használatban lévő járművek megfelelőségére irányuló vizsgálati eredményeket meghamisítja, 480 000 forint összegű bírságot,
+
+b) a járművet olyan manipulációs eszközzel vagy manipulációs stratégiával tervezi, gyártja vagy szereli, amelyek következtében a nem megfelelő jármű az (EU) 2018/858 európai parlamenti és tanácsi rendelet szerint megfelelőnek tűnik, 680 000 forint összegű bírságot,
+
+c) az M1, az M2, az M3, az N1, az N2 vagy az N3 kategóriájú járművek esetében, a tervezést, gyártást vagy összeszerelést azzal folytatja, hogy az adott jármű nem rendelkezik az (EU) 2024/1257 európai parlamenti és tanácsi rendeletben előírt, a járművezetőt a kipufogógáz-kibocsátási határértékek túllépésére figyelmeztető rendszerrel, vagy a járművezetőt a reagens alacsony szintjére figyelmeztető rendszerrel, 580 000 forint összegű bírságot
+
+köteles fizetni.
+
+(2) A Kkt. 22/A. § (1) bekezdés b) pontjához kapcsolódóan, ha megállapítható, hogy az (EU) 2018/858 európai parlamenti és tanácsi rendelet 3. cikk 45. pontjában meghatározott független gazdasági szereplő a típusjóváhagyásra kötelezett jármű vagy rendszerei esetében a típusmegfelelőséggel összefüggésben manipulálást hajtott végre, akkor 680 000 forint összegű bírságot köteles fizetni.
+
+## 4. §[^10]
+
+A Kkt. 22/A. § (1) bekezdés c) pontjához kapcsolódóan, ha a gyártó a típusjóváhagyás visszavonását vagy a gyártói visszahívást eredményező adatokat vagy műszaki előírásokat visszatartja, vagy az adatváltozás-bejelentési kötelezettségét elmulasztja, 650 000 forint összegű bírságot köteles fizetni.
+
+## 5. §[^11]
+
+A Kkt. 22/A. § (1) bekezdés d) pontjához kapcsolódóan, ha a gyártó a jóváhagyottól eltérő, az adatok romlását okozó, a kibocsátás-csökkentő berendezések hatásfokát csökkentő hatástalanító berendezést szerel be a járműbe, 1 170 000 forint összegű bírságot köteles fizetni.
+
+## 6. §
+
+A Kkt. 22/A. § (1) bekezdés e) pontjához kapcsolódóan, ha a gyártó a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról és a járműjavítási és -karbantartási információk elérhetőségéről szóló 2007. június 20-i 715/2007/EK európai parlamenti és tanácsi rendelet 7. cikk (2) bekezdésében foglalt járműjavítási és -karbantartási információhoz való hozzáférés-biztosítási kötelezettségét oly módon nem teljesíti, hogy
+
+a)[^12] az információhoz történő hozzáférést megtagadja vagy korlátozza: 1 300 000 forint,
+
+b)[^13] az információhoz történő napi hozzáférést nem biztosítja: 130 000 forint,
+
+c)[^14] az információhoz történő havi hozzáférést nem biztosítja: 390 000 forint
+
+összegű bírságot köteles fizetni.
+
+## 7. §[^15]
+
+Ha jogszabály eltérően nem rendelkezik, az e rendelet hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
+
+## 8. §
+
+(1)[^16] A bírság összegét a bírságot kiszabó határozat véglegessé válásától számított 30 napon belül, az eljáró hatóság részére, annak a Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlájára kell befizetni.
+
+(2) A bírság kiszabásáról szóló határozatban rendelkezni kell arról a számlaszámról, amelyre a bírságot be kell fizetni.
+
+## 9. §
+
+(1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba.
+
+(2)[^17] Ez a rendelet
+
+a) a könnyű személygépjárművek és haszongépjárművek (Euro 5 és Euro 6) kibocsátás tekintetében történő típusjóváhagyásáról szóló, 2007. június 20-i 715/2007/EK európai parlamenti és tanácsi rendelet 13. cikkének,
+
+b) a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek jóváhagyásáról és piacfelügyeletéről, a 715/2007/EK és az 595/2009/EK rendelet módosításáról, valamint a 2007/46/EK irányelv hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/858 európai parlamenti és tanácsi rendeletnek,
+
+c) a gépjárművek és motorok, valamint az ilyen járművek rendszereinek, alkotóelemeinek és önálló műszaki egységeinek a kibocsátásuk és az akkumulátor tartóssága tekintetében történő típusjóváhagyásáról (Euro 7), az (EU) 2018/858 európai parlamenti és tanácsi rendelet módosításáról, továbbá a 715/2007/EK és az 595/2009/EK európai parlamenti és tanácsi rendelet, az 582/2011/EU bizottsági rendelet, az (EU) 2017/1151 bizottsági rendelet, az (EU) 2017/2400 bizottsági rendelet és az (EU) 2022/1362 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2024. április 24-i (EU) 2024/1257 európai parlamenti és tanácsi rendeletnek
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(4)–(6)[^18]
+
+---
+
+[^1]: A 2. § (1) bekezdés a) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés b) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés c) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés d) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 393/2023. (VIII. 14.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdése a 393/2023. (VIII. 14.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 393/2023. (VIII. 14.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^9]: A 3/A. §-t a 450/2025. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 4. § a 393/2023. (VIII. 14.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^11]: Az 5. § a 393/2023. (VIII. 14.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^12]: A 6. § a) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^13]: A 6. § b) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
+[^14]: A 6. § c) pontja a 393/2023. (VIII. 14.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^15]: A 7. §-t a 351/2010. (XII. 30.) Korm. rendelet 229. §-a hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 231. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^16]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 232. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 9. § (2) bekezdése a 450/2025. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 9. § (4)–(6) bekezdése a 9. § (6) bekezdése alapján hatályát vesztette.

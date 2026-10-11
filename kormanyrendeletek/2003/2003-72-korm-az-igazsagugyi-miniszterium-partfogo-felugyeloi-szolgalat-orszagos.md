@@ -1,0 +1,249 @@
+---
+title: "72/2003. (V. 28.) Korm. rendelet az Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat Országos Hivatala létrehozásáról, valamint ehhez kapcsolódóan egyes kormányrendeletek módosításáról"
+identifier: "72/2003. (V. 28.) Korm. rendelet"
+njt_id: "2003-72-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/72"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-05-28
+in_force_from: 2003-06-05
+last_amended: 2003-06-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-72-20-22"
+retrieved: 2026-10-12
+---
+
+# 72/2003. (V. 28.) Korm. rendelet az Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat Országos Hivatala létrehozásáról, valamint ehhez kapcsolódóan egyes kormányrendeletek módosításáról
+
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 88. §-ának (1) bekezdésében kapott felhatalmazás alapján, a pártfogó felügyelői tevékenységgel kapcsolatos egységes szakmai irányítás megteremtése érdekében a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány a pártfogó felügyelői feladatok ellátására Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat Országos Hivatala (a továbbiakban: Hivatal) elnevezéssel 2003. július 1-jével országos illetékességű központi hivatalt hoz létre.
+
+(2) A Hivatalt az igazságügy-miniszter irányítja és gyakorolja a szakmai felügyeletét.
+
+(3) A Hivatal önállóan gazdálkodó, az előirányzatok felett teljes rendelkezési jogkörrel rendelkező központi költségvetési szerv, költségvetése az Igazságügyi Minisztérium költségvetésében önálló címként szerepel.
+
+(4) A Hivatal a feladatait a területi szervei útján látja el. A területi szervek a Hivatal szervezeti egységei, költségvetésüket a Hivatal költségvetése tartalmazza.
+
+(5) A Hivatal székhelye Budapest.
+
+## 2. §
+
+Az igazságügy-miniszter az 1. § (2) bekezdésében foglaltak szerint
+
+a) kiadja a Hivatal alapító okiratát,
+
+b) gyakorolja a Hivatal főigazgatója és főigazgató-helyettese (gazdasági vezetője) felett a munkáltatói jogkört,
+
+c) jóváhagyja a Hivatal szervezeti és működési szabályzatát,
+
+d) jóváhagyja a Hivatal éves munkatervét, költségvetését és beszámolóját,
+
+e) ellenőrzi és beszámoltatja a Hivatal főigazgatóját.
+
+## 3. §
+
+(1) A Hivatal
+
+a) ellátja a pártfogó felügyelői tevékenységről szóló jogszabályokban az igazságügy-miniszter feladatkörébe utalt feladatokat,
+
+b) szakmai irányítást gyakorol a megyei hivatalok, valamint a pártfogó felügyelők felett,
+
+c) szervezi a pártfogó felügyelők képzését és továbbképzését,
+
+d) kialakítja és fejleszti a pártfogó felügyelők, az igazságszolgáltatás, az ügyészség, a hatóságok, a társadalmi szervezetek és egyéb intézmények közötti együttműködést,
+
+e) biztosítja a pártfogó felügyelők működéséhez szükséges személyi és dologi feltételeket.
+
+(2) A Hivatal vezetője a főigazgató, aki kinevezi és felmenti a pártfogó felügyelőket, gyakorolja a fegyelmi jogkört a Hivatal és a megyei hivatalok, továbbá a munkáltatói jogkört a Hivatal munkatársai felett.
+
+## 4. §
+
+(1) A Hivatal területi szerveiként 2003. július 1-jével a rendelet *mellékletében* meghatározott székhelyen és illetékességi területtel megyei hivatalok jönnek létre.
+
+(2) A megyei hivatal
+
+a) irányítja és felügyeli a pártfogó felügyelők tevékenységét,
+
+b) felügyeli a pártfogó felügyelői foglalkoztatók, szállások és irodák tevékenységét, dönt ezek elhelyezéséről,
+
+c) gondoskodik a pártfogó felügyelői asszisztensek, az írnokok és a fizikai dolgozók foglalkoztatásáról.
+
+(3) A megyei hivatal igazgatója – a kinevezés, a felmentés és a fegyelmi jogkör kivételével – gyakorolja a munkáltatói jogkört a pártfogó felügyelők felett, valamint gyakorolja és teljesíti a pártfogó felügyelői asszisztensek, az írnokok és a fizikai dolgozók foglalkoztatásával kapcsolatos jogokat és kötelezettségeket.
+
+## 5. §
+
+A gyámhatóságokról, valamint a gyermekvédelmi és a gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) a következő 5/A. §-sal egészül ki:
+
+,,
+
+**5/A. §** (1) A megyei gyámhivatal a Gyvt. 122. §-ának (1)–(2) bekezdésében foglalt feladata végrehajtása érdekében folyamatosan figyelemmel kíséri a gyermekek védelmét szolgáló bűnmegelőzési pályázati kiírásokat, a pályázati lehetőségekről tájékoztatja a helyi önkormányzatokat, gyermekjóléti szolgálatokat, civil szervezeteket. Segítséget nyújt a pályázatok benyújtásához és a pályázaton elnyert támogatások cél szerinti felhasználásához.
+
+(2) A megyei gyámhivatal a Gyvt. 118. §-ának (3) bekezdése szerinti ellenőrzése során, az állami és nem állami gyermekjóléti és gyermekvédelmi intézményekben értékeli a bűnmegelőzési tevékenységet, különös tekintettel a gyermeket veszélyeztető körülmények feltárására irányuló tevékenységre.
+
+(3) A gyermek sérelmére elkövetett bűncselekmény gyanúja esetén a megyei gyámhivatal segítséget nyújt a tudomást szerző gyámhatóságoknak, valamint a gyermekvédelmi rendszerben működő szakembereknek a szükséges feljelentés megtételéhez.
+
+(4) A büntetőjogi felelősségre nem vonható 14 év alatti elkövetők ügyében a megyei gyámhivatal szakmai támogatást nyújt a jegyzőnek és a gyermekjóléti szolgálatnak a kiskorú, illetve családja részére nyújtandó segítségre vonatkozóan, továbbá kezdeményezi a szükséges gyermekvédelmi intézkedéseket, és ezek végrehajtását ellenőrzi.
+
+(5) A megyei gyámhivatal évente tájékoztatást kér az Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat megyei hivatalától, valamint a jegyzőtől és a rendőrségtől a gyermekkorú, illetve fiatalkorú bűnelkövetők számáról, az általuk elkövetett bűncselekményekről, azok okairól, továbbá a gyermekjóléti szolgálattól a családgondozás és a védelembevétel eredményéről.
+
+(6) Az (5) bekezdésben írt tájékoztatás alapján a megyei gyámhivatal jelentést készít és annak ismertetése céljából megyei értekezletet tart. Az értekezletre meghívja az önkormányzatok, a rendőrség, az ügyészség, a bíróság, a drogmegelőzést, illetve drogrehabilitációt végző intézmények, a családsegítő és a gyermekjóléti szolgálatok, a gyermekvédelmi intézmények, a közoktatási intézmények, a pártfogó felügyelői szolgálat, valamint a bűnmegelőzésben és az áldozatvédelemben érintett civil szervezetek képviselőit.
+
+(7) A (6) bekezdésben írt értekezleten elhangzottakról készített írásbeli összefoglalót a megyei gyámhivatal, az elhangzott javaslatokkal együtt megküldi az értekezletre meghívott valamennyi szervezetnek.''
+
+## 6. §
+
+A Gyer. 82. §-ának (3) bekezdése helyébe a következő rendelkezés lép:
+
+,,(3) A pártfogó felügyelet alatt álló fiatalkorú esetében az (1) bekezdésben meghatározott intézkedéseket a pártfogó felügyelő is kezdeményezheti.''
+
+## 7. §
+
+Az igazságügy-miniszter feladat- és hatásköréről szóló 157/1998. (IX. 30.) Korm. rendelet 16. §-a a következő (2) bekezdéssel egészül ki, és a § eredeti szövege (1) bekezdésre változik:
+
+,,(2) A miniszter ellátja a pártfogó felügyelői tevékenységgel kapcsolatos jogalkotási és jogszabály-előkészítési feladatokat, összehangolja a kormányzati szervek pártfogó felügyelői tevékenységgel kapcsolatos feladatait, irányítja az Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat Országos Hivatalát.''
+
+## 8. §
+
+(1) A rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 8. napon lép hatályba.
+
+(2) A rendelet 5–7. §-a 2003. július 1-jén lép hatályba, ezzel egyidejűleg
+
+a) a Gyer. 3. §-a (2) bekezdéséből ,,és a hivatásos pártfogók'' szövegrész, 4. §-ából a ,,valamint a hivatásos pártfogókra'' szövegrész, 5. §-a (5) bekezdéséből a ,,tevékenységét, valamint az igazságügy-miniszterrel együttesen a hivatásos pártfogók'' szövegrész;
+
+b) a gyámhatóságok, a területei gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet Mellékletének XVII. számú adatlapja;
+
+c) a gyámhatóságok, a területei gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet módosításáról szóló 260/2002. (XII. 18.) Korm. rendelet Mellékletének XVII. számú adatlapja;
+
+d) a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet 2. számú Melléklete I/6. pontjának utolsó bekezdése;
+
+e) a köztisztviselők képesítési előírásairól szóló 9/1995. (II. 3.) Korm. rendelet módosításáról szóló 192/2001. (X. 19.) Korm. rendelet 2. számú Melléklete I/6. pontjának utolsó bekezdése
+
+a hatályát veszti.
+
+## Melléklet a 72/2003. (V. 28.) Korm. rendelethez
+
+**A Igazságügyi Minisztérium Pártfogó Felügyelői Szolgálat Országos Hivatalának területi szervei**
+
+1\. Fővárosi Hivatal
+
+Székhely: Budapest
+
+Illetékességi terület: Budapest
+
+2\. Baranya Megyei Hivatal
+
+Székhely: Pécs
+
+Illetékességi terület: Baranya megye
+
+3\. Bács-Kiskun Megyei Hivatal
+
+Székhely: Kecskemét
+
+Illetékességi terület: Bács-Kiskun megye
+
+4\. Békés Megyei Hivatal
+
+Székhely: Békéscsaba
+
+Illetékességi terület: Békés megye
+
+5\. Borsod-Abaúj-Zemplén Megyei Hivatal
+
+Székhely: Miskolc
+
+Illetékességi terület: Borsod-Abaúj-Zemplén megye
+
+6\. Csongrád Megyei Hivatal
+
+Székhely: Szeged
+
+Illetékességi terület: Csongrád megye
+
+7\. Fejér Megyei Hivatal
+
+Székhely: Székesfehérvár
+
+Illetékességi terület: Fejér megye
+
+8\. Győr-Moson-Sopron Megyei Hivatal
+
+Székhely: Győr
+
+Illetékességi terület: Győr-Moson-Sopron megye
+
+9\. Hajdú-Bihar Megyei Hivatal
+
+Székhely: Debrecen
+
+Illetékességi terület: Hajdú-Bihar megye
+
+10\. Heves Megyei Hivatal
+
+Székhely: Eger
+
+Illetékességi terület: Heves megye
+
+11\. Jász-Nagykun-Szolnok Megyei Hivatal
+
+Székhely: Szolnok
+
+Illetékességi terület: Jász-Nagykun-Szolnok megye
+
+12\. Komárom-Esztergom Megyei Hivatal
+
+Székhely: Tatabánya
+
+Illetékességi terület: Komárom-Esztergom megye
+
+13\. Nógrád Megyei Hivatal
+
+Székhely: Salgótarján
+
+Illetékességi terület: Nógrád megye
+
+14\. Pest Megyei Hivatal
+
+Székhely: Budapest
+
+Illetékességi terület: Pest megye
+
+15\. Somogy Megyei Hivatal
+
+Székhely: Kaposvár
+
+Illetékességi terület: Somogy megye
+
+16\. Szabolcs-Szatmár-Bereg Megyei Hivatal
+
+Székhely: Nyíregyháza
+
+Illetékességi terület: Szabolcs-Szatmár-Bereg megye
+
+17\. Tolna Megyei Hivatal
+
+Székhely: Szekszárd
+
+Illetékességi terület: Tolna megye
+
+18\. Vas Megyei Hivatal
+
+Székhely: Szombathely
+
+Illetékességi terület: Vas megye
+
+19\. Veszprém Megyei Hivatal
+
+Székhely: Veszprém
+
+Illetékességi terület: Veszprém megye
+
+20\. Zala Megyei Hivatal
+
+Székhely: Zalaegerszeg
+
+Illetékességi terület: Zala megye

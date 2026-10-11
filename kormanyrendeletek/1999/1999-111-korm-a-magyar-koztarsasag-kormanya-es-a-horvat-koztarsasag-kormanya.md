@@ -1,0 +1,151 @@
+---
+title: "111/1999. (VII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti növényvédelmi együttműködésről szóló Egyezmény kihirdetéséről"
+identifier: "111/1999. (VII. 15.) Korm. rendelet"
+njt_id: "1999-111-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/111"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-07-15
+in_force_from: 1999-07-15
+last_amended: 1999-07-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-111-20-22"
+retrieved: 2026-10-12
+---
+
+# 111/1999. (VII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti növényvédelmi együttműködésről szóló Egyezmény kihirdetéséről
+
+*(A diplomáciai jegyzékváltás 1997. március 3-án megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya közötti, Zalaegerszegen, 1995. október 20-án aláírt, a növényvédelmi együttműködésről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya közötti növényvédelmi együttműködésről
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Egyezményben Résztvevő Felek) tudatában vannak a növények és növényi termékek védelme és a károsítók országhatáraikon keresztül való terjedésének és behurcolásának a megakadályozása terén megvalósítandó kölcsönös együttműködés jelentőségének, és biztosítandó, hogy valamennyi szükséges intézkedést megtesznek a károsítóknak országaik területére való behurcolásának a megakadályozására, elősegítve a tudományos együttműködést a növényvédelemben, támogatva a kereskedelmi kapcsolatok előmozdítását, a következőkben állapodtak meg:
+
+*1. Cikkely*
+
+Ebben az Egyezményben a következő fogalmak érvényesek:
+
+*a)* az Egyezményben ,,a növények és növényi termékek'' alatt az élő növényeket, azok részeit és mindazon növényi eredetű termékeket kell érteni, amelyek az Egyezményben Résztvevő Felek országainak rendelkezései szerint behozatali, kiviteli és átmenő forgalomban növényegészségügyi vizsgálati kötelezettség alá tartoznak;
+
+*b)* az Egyezményben ,,növényi károsító'' alatt azok a növényi betegségek, állati szervezetek és gyommagvak értendők, amelyek az Egyezményben Résztvevő Felek országaiban nem fordulnak elő vagy csak részben terjedtek el, és elterjedésük veszélyes lehet a növények és növényi termékek számára;
+
+*c)* az Egyezményben ,,növényegészségügyi bizonyítvány'' Rómában, 1951. december 6-án elfogadott és a FAO 1979. novemberi római előírásaival módosított Nemzetközi Növényvédelmi Egyezménynek megfelelő hivatalosan meghatározott formájú hivatalos és igazolt növényvédelmi nyilatkozat.
+
+*2. Cikkely*
+
+Az Egyezményben Résztvevő Felek egyetértenek abban, hogy
+
+*a)* kölcsönösen biztosítják az információcserét a növények és növényi termékek kivitelére, behozatalára, átmenő forgalmára vonatkozó növényegészségügyi követelményekről,
+
+*b)* e Cikkely *a)* bekezdésében említett követelmények betartása érdekében gondoskodnak a növények és növényi termék küldemények vizsgálatáról, ezáltal biztosítva, hogy az Egyezmény mellékletében felsorolt növényi károsítók nem találhatók meg, és a vizsgálat megtörténtét, illetve az importáló ország előírásainak való megfelelést növényegészségügyi bizonyítvány kiállításával igazolják. Az Egyezményben Résztvevő Felek az egymás országán keresztül történő szállítás esetében is betartják a behozatali küldeményekre vonatkozó előírásokat. A küldemények vizsgálatát az Egyezményben Résztvevő Felek az országukban rendszeresített módszerekkel végzik,
+
+*c)* az Egyezmény mellékletét képező károsítók jegyzékében vagy a növényegészségügyi előírásokban bekövetkezett változásokról egymást késedelem nélkül értesítik,
+
+*d)* az új növényi károsítók előfordulásáról késedelem nélkül tájékoztatják egymást,
+
+*e)* együttműködnek a növényi károsítók behurcolásának és elterjedésének az ellenőrzésében, és kölcsönösen segítik egymást a különösen veszélyes (karantén) növényi károsítók elterjedésének megelőzésében és felszámolásában,
+
+*f)* a gazdasági szempontból jelentős növényi károsítóknak a határövezetben való tömeges elszaporodása esetén figyelmeztető felhívást adnak ki, és szükség esetén együttműködnek a veszélyhelyzet megelőzésében.
+
+*3. Cikkely*
+
+1\. Az importáló országnak jogában áll a másik országból származó szállítmányt megvizsgálni, még akkor is, ha azt érvényes növényegészségügyi bizonyítvány kíséri, valamint joga van ahhoz, hogy megtegye a szükséges növényvédelmi intézkedéseket, ha a szállítmány nem felel meg az előírásoknak.
+
+2\. Vitás esetben az Egyezményben Résztvevő Felek határkirendeltségének felügyelői az országukban alkalmazott módszerekkel közösen végzett párhuzamos vizsgálattal megkísérlik tisztázni a fertőzésen alapuló visszautasítás indokoltságát. Ennek eredményétől függetlenül a szállítmányról független döntést hozhatnak.
+
+*4. Cikkely*
+
+1\. Növényküldeményeknél olyan csomagolást alkalmaznak, amellyel a károsítók terjedése csak kivételes esetekben fordulhat elő.
+
+2\. A szállítóeszközöknek valamennyi olyan szennyező anyagtól mentesnek kell lenniök, amely a növényi károsító behurcolását lehetővé tenné, s ha szükséges, azokat használat előtt fertőtleníteni kell.
+
+3\. A talaj és termesztőközeg az Egyezményben Résztvevő Felek növényegészségügyi előírásainak megfelelően szállítható.
+
+*5. Cikkely*
+
+1\. Az import növények és növényi termékek növényegészségügyi vizsgálatát az Egyezményben Résztvevő Felek országaik belépő határállomásán végzik vagy (ha van ilyen) a közös belépő határállomásokon, vagy szükség és kölcsönös egyetértés esetén az exportáló ország berakóhelyén vagy a termőhelyen.
+
+2\. A közös határállomásokon a növényegészségügyi kirendeltségek létesítése, működtetése, illetve bezárása az Egyezményben Résztvevő Felek között egyeztetetten történik.
+
+3\. A növény és növényi termék szállítmányok növényegészségügyi vizsgálata az Egyezményben Résztvevő Felek illetékes szerve által szabályszerűen feljogosított és szakképesített személyzet által vagy annak ellenőrzése alatt történik.
+
+4\. Az Egyezményben Résztvevő Felek diplomáciai testületei számára vagy rajtuk keresztül ajándékként, csere- vagy exportcélra érkező szállítmányokat ezen Egyezmény előírásai szerint kell kezelni.
+
+*6. Cikkely*
+
+Az Egyezményben Résztvevő Felek minden szükséges intézkedést megtesznek a növényi károsítók harmadik országból való behurcolásának a megakadályozására. A növényeket és növényi termékeket tartalmazó szállítmányok átmenő forgalma csak akkor engedélyezett, ha azt növényegészségügyi bizonyítvány kíséri (kivéve, ha ettől eltérően jogszabály vagy illetékes szerv intézkedik) és, ha a szállítmány megfelel a tranzitország növényegészségügyi előírásainak.
+
+*7. Cikkely*
+
+Az Egyezményben Résztvevő Felek kötelezik magukat, hogy a növényvédelemben együttműködnek, különösen:
+
+*a)* a növényvédelmi eredmények és a kutatási módszerek és gyakorlati védekezési módszerek tapasztalatainak cseréjében,
+
+*b)* emberi és állati egészségre káros, idegen eredetű anyagokat tartalmazó növény és növényi termékek bekerülésének megelőzésében,
+
+*c)* szakmai információk térítésmentes cseréjében,
+
+*d)* szakértők számára tanulmányutak szervezésében, és
+
+*e)* olyan növényvédelmi feladatok közös megoldásában, amelyben mindkét ország érdekelt.
+
+*8. Cikkely*
+
+1\. Az Egyezmény végrehajtása során felmerülő szakmai problémák megoldása, munkatapasztalatok cseréje és az együttműködés továbbfejlesztése érdekében az Egyezményben Résztvevő Felek illetékes szervei – szükség esetén – a két országban felváltva közös tanácskozásokat szerveznek.
+
+2\. A tanácskozások idejét és helyét az Egyezményben Résztvevő Felek egyeztetés útján határozzák meg.
+
+3\. A delegációk utazási költségeit a küldő fél, míg a szállás, ellátás, valamint a látogatás során felmerülő belföldi utazási költségeket a fogadó vagy megegyezés szerint a küldő ország viseli.
+
+*9. Cikkely*
+
+Az Egyezmény függelékében felsorolt növényi károsítók jegyzékét, valamint a növényegészségügyi előírásokat az Egyezményben Résztvevő Felek módosíthatják. A módosításokat diplomáciai jegyzékváltás útján kell kicserélni, s kézhezvételüktől számított 30 nap után lépnek hatályba.
+
+*10. Cikkely*
+
+Ez az Egyezmény nem érinti az Egyezményben Résztvevő Felek más országgal kötött két- és sokoldalú szerződéséből származó jogait és kötelességeit.
+
+*11. Cikkely*
+
+1\. Az Egyezmény végrehajtására vonatkozó feladatokat a magyar Fél részéről a Földművelésügyi Minisztérium[^1], a horvát Fél részéről a Mezőgazdasági és Erdészeti Minisztérium hangolja össze.
+
+2\. Amennyiben az Egyezmény végrehajtása vagy értelmezése tárgyában nincs egyetértés, az Egyezményben Részvevő Felek a vita eldöntésére – megállapodás alapján – közös bizottságot alakítanak. Ha a közös bizottság nem jut megállapodásra, a véleményeltérést diplomáciai úton rendezik.
+
+*12. Cikkely*
+
+1\. Az Egyezmény 1 hónappal azután lép hatályba, hogy a Felek diplomáciai jegyzéket váltottak, amely szerint az megfelel a hatálybalépést szabályozó belső törvényhozási előírásoknak.
+
+2\. Az Egyezményt 5 éves időszakra kötötték. Ezután az időszak után érvényessége újabb 5 évre meghosszabbodik, kivéve, ha a Felek egyike az érvényességi időtartam lejárta előtt legkésőbb 6 hónappal azt írásban fel nem mondja.
+
+3\. Jelen Egyezmény két egyaránt hiteles eredeti példányban, magyar és horvát nyelven született.
+
+Készült Zalaegerszegen, 1995. október 20-án.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Horvát Köztársaság\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. április 2. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.
+
+---
+
+[^1]: Az 1998: XXXVI. törvény 2. §-a (1) bekezdésének d) pontja szerint Földművelési Minisztériumon Földművelési és Vidékfejlesztési minisztériumot kell érteni.

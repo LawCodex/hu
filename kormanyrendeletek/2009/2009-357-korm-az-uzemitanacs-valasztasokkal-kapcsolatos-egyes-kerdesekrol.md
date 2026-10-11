@@ -1,0 +1,124 @@
+---
+title: "357/2009. (XII. 30.) Korm. rendelet az üzemitanács-választásokkal kapcsolatos egyes kérdésekről"
+identifier: "357/2009. (XII. 30.) Korm. rendelet"
+njt_id: "2009-357-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/357"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-30
+in_force_from: 2010-01-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-357-20-22"
+retrieved: 2026-10-12
+---
+
+# 357/2009. (XII. 30.) Korm. rendelet az üzemitanács-választásokkal kapcsolatos egyes kérdésekről
+
+A Kormány a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény 53. § (3) bekezdésben kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet hatálya a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 236. § (1) bekezdésében meghatározott munkáltatónál létrejövő üzemi tanács, és üzemi megbízott (a továbbiakban együtt: üzemi tanács) megválasztásának, a választási eredmények összesítésének és felhasználásának egyes kérdéseire, valamint a társadalmi párbeszédért felelős miniszter (a továbbiakban: miniszter) ezzel kapcsolatos feladataira terjed ki.
+
+## 2. §
+
+Az üzemi tanács megválasztásához felhasznált szavazólap tartalmazza:
+
+a)[^2] a munkáltató megnevezését, illetve az önálló telephely, részleg megjelölését;
+
+b) a jelöltek nevét ábécé sorrendben;
+
+c) a szakszervezet által állított jelölt esetén a jelölt neve után a szakszervezet nevét, továbbá, ha a szakszervezet ágazati szakszervezet, illetve országos szakszervezeti szövetség tagja, ezen szervezet(ek) megjelölését;
+
+d) a nem szakszervezet által állított jelölt esetén a jelölt neve után a „nem szakszervezeti jelölt” megnevezés feltüntetését;
+
+e)[^3] az Mt. alapján a munkáltatónál, illetve önálló telephelyen történő választás esetén az adott telephelyen megválasztható üzemi tanácstagok számát, valamint arra való utalást, hogy érvénytelen a szavazat, ha a szavazólapon ennél több személyt jelöltek meg.
+
+## 3. §
+
+(1)[^4] A munkáltatónál működő választási bizottság az üzemi tanácsi választásról jelentést készít. Ha munkáltatónál az Mt. 236. § (1) és (2) bekezdése alapján több üzemi tanácsot választottak, minden üzemi tanács megválasztásáról külön jelentést kell készíteni.
+
+(2) A jelentés tartalmazza:
+
+a) a választás helyét és időpontját;
+
+b) a munkáltató megnevezését, székhelyét, adószámát;
+
+c)[^5] az önálló telephely, részleg megjelölését;
+
+d)[^6] az üzemi tanácsnak az Mt. 45. § (1) bekezdés alapján megválasztható tagjainak számát vagy annak megjelölését, hogy üzemi megbízott választása történt;
+
+e) a választásra jogosultak számát;
+
+f) a választáson részt vettek számát;
+
+g) az összes érvényes szavazat számát, ezen belül a szakszervezetek jelöltjeire leadott összes érvényes szavazat számát, szakszervezetenkénti bontásban, megjelölve azt az ágazati szakszervezetet is, amelynek a szakszervezet esetlegesen tagja, valamint a nem szakszervezet által állított jelöltekre leadott összes érvényes szavazat számát.
+
+## 4. §
+
+(1)[^7] A munkáltatónál működő választási bizottság a jelentést megküldi
+
+a)[^8] a miniszter és
+
+b) az üzemi tanácsi választáson jelöltet állító szakszervezet munkahelyi szervének.
+
+(2)[^9] A jelentést a miniszternek elektronikus úton kell megküldeni.
+
+(3)[^10] Az adatszolgáltatás a miniszter honlapján elérhető Munkaügyi Kapcsolatok Információs Rendszer keretében működő „Üzemi tanács elektronikus adatgyűjtő rendszer”-en keresztül történik.
+
+(4)[^11] A jelentésre kötelezett az adatszolgáltatás érdekében – a munkáltató 3. § (2) bekezdés *b)* pontjában megjelölt adatai közlésével – a minisztertől elektronikus úton az internetes felület használatára jogosító kódot kér. A miniszter a 8 számjegyből álló, véletlenszerűen generált belépési azonosító kódot öt napon belül elektronikus úton küldi meg.
+
+## 5. §
+
+A jelentést a munkáltatónál tartott következő érvényes üzemi tanácsi választás eredményének jogerős megállapításáig az üzemi tanács köteles megőrizni. Ha az üzemi tanács e kötelezettségének – különösen megszűnése esetén – nem tud eleget tenni, a jelentés megőrzésére a munkáltató köteles.
+
+## 6. §
+
+(1)[^12] A miniszter
+
+a) szakszervezet, szakszervezeti szövetség kérelmére elvégzi a rá vonatkozó adatok országos összesítését,
+
+b)[^13] az Ágazati Részvételt Megállapító Bizottság megkeresésére az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló törvény szerint az érdekképviselet egyes jogosultságainak gyakorlásához szükséges pontszám meghatározása, az érdekképviselet ágazati reprezentativitás feltételeinek, illetve a kollektív szerződés kiterjesztéséhez szükséges, ágazatisággal összefüggő feltételnek való megfelelés megállapítására irányuló eljárás céljából nemzetgazdasági ági, ágazati – alágazati, szakágazati – összesítést végez.
+
+(2)[^14] A miniszter a szavazatösszesítés érdekében a beküldött jelentések alapján megállapítja az üzemi tanácsi választások érvényes, a (3) bekezdés szerint számított redukált szavazatinak összesített számát, valamint – a 7. § (1) bekezdés szerint – a választáson részt vettek arányát.
+
+(3)[^15] A redukált szavazatok számát az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény 26. § 10. pontja szerint kell megállapítani. A számításban a kérelem, illetve megkeresés beérkezésének időpontját megelőző öt teljes naptári évben tartott üzemi tanácsi választásról szóló jelentés adatait kell figyelembe venni. Ha ugyanazon munkáltatónál, telephelyen vagy részlegnél tartott választásról a számbavételi időszak alatt több jelentés érkezett be, a számításban a későbbi jelentést kell figyelembe venni. Ha az Mt. 242. § (1) bekezdése alapján közös jelöltállításra került sor, a szavazatok számát egyenlően kell megosztani a jelölők között.
+
+## 7. §[^16]
+
+(1)[^17] A választáson részt vettek arányát a nemzetgazdasági ágban, ágazatban – alágazatban, szakágazatban – legalább tizenöt főt foglalkoztató munkáltatóknál alkalmazásban állók összlétszámához képest kell megállapítani. A számítást úgy kell elvégezni, hogy a 6. § (3) bekezdése alapján figyelembe vett jelentések szerint a választáson részt vettek nemzetgazdasági ági, ágazati – alágazati, szakágazati – összlétszámát el kell osztani a megelőző öt teljes naptári évben a nemzetgazdasági ágban, ágazatban – alágazatban, szakágazatban – a tizenöt főnél többet foglalkoztató munkáltatóknál alkalmazásban állók évi átlagos állományi létszámával és meg kell szorozni százzal. Az alkalmazásban állók évi átlagos állományi létszámára nézve a Központi Statisztikai Hivatal által szolgáltatott adatot kell figyelembe venni. Amennyiben az adatkérés időpontjában az azt megelőző naptári évre vonatkozó adat még nem áll rendelkezésre, a számítási időszaknak az adatkérés időpontját megelőző második, harmadik, negyedik, ötödik és hatodik teljes naptári évet kell tekinteni azzal, hogy a 2010. évet megelőző év adata nem vehető figyelembe.
+
+(2) A nemzetgazdasági ági, ágazati – alágazati, szakágazati – összesítésnél több, különböző ágazatba besorolt munkáltatónál képviselettel rendelkező szakszervezet jelöltjeire leadott szavazatok közül csak azok vehetők figyelembe, amelyeket az adott nemzetgazdasági ágba, ágazatba – alágazatba, szakágazatba – besorolt munkáltatónál történt üzemi tanácsi választási jelentés tartalmaz.
+
+## 8. §
+
+(1) A közölt adatok csak a 6. § (1) bekezdésében meghatározott célból, valamint azonosításra alkalmatlan módon, statisztikai célból használhatók fel.
+
+(2)[^18] A beérkezett jelentéseket a beérkezésüktől számított ötödik év utolsó napjával archiválni kell.
+
+## 9. §
+
+E rendelet 2010. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § a 318/2014. (XII. 13.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § a) pontja a 135/2012. (VI. 28.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § e) pontja a 135/2012. (VI. 28.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 16. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés c) pontja a 135/2012. (VI. 28.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. § (2) bekezdés d) pontjában a 135/2012. (VI. 28.) Korm. rendelet 16. § (9) bekezdés c) pontjával elrendelt módosítás, amely szerint az „az Mt. 45. § (1) bekezdése” szövegrész helyébe az „az Mt. 237. § (1) bekezdése” szöveg lép, nem vezethető át.
+[^7]: A 4. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^8]: A 4. § (1) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés a) pontjával megállapított szöveg.
+[^9]: A 4. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 23. § (3) bekezdésével megállapított, a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 16. § (4) bekezdésével megállapított, a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 23. § (5) bekezdésével megállapított, a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 23. § (6) bekezdésével, nyitó szövegrésze a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés a) pontjával megállaptott szöveg.
+[^13]: A 6. § (1) bekezdés b) pontja a 135/2012. (VI. 28.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2) bekezdése a 324/2011. (XII. 28.) Korm. rendelet 23. § (7) bekezdésével megállapított, a 318/2014. (XII. 13.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^15]: A 6. § (3) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 16. § (6) bekezdésével megállapított szöveg.
+[^16]: A 7. § a 135/2012. (VI. 28.) Korm. rendelet 16. § (7) bekezdésével megállapított szöveg.
+[^17]: A 7. § (1) bekezdése a 89/2014. (III. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 16. § (8) bekezdésével megállapított szöveg.

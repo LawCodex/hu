@@ -1,0 +1,175 @@
+---
+title: "31/1999. (II. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között közvetlen vasúti kapcsolat létesítéséről szóló, Budapesten, 1996. október 15-én aláírt Egyezmény, valamint módosításának egységes szerkezetben történő kihirdetéséről"
+identifier: "31/1999. (II. 24.) Korm. rendelet"
+njt_id: "1999-31-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/31"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-02-24
+in_force_from: 1999-02-24
+last_amended: 1999-02-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-31-20-22"
+retrieved: 2026-10-12
+---
+
+# 31/1999. (II. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között közvetlen vasúti kapcsolat létesítéséről szóló, Budapesten, 1996. október 15-én aláírt Egyezmény, valamint módosításának egységes szerkezetben történő kihirdetéséről
+
+*[Az Egyezmény hatálybalépéséről szóló jegyzékváltás 1998. május 19-én, az 1. Cikk (2) bekezdése módosításának jóváhagyásáról szóló jegyzékváltás 1999. január 4-én megtörtént.]*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között közvetlen vasúti kapcsolat létesítéséről szóló, Budapesten, 1996. október 15-én aláírt Egyezményt, valamint módosítását egységes szerkezetben e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya\
+és a Szlovén Köztársaság Kormánya között\
+közvetlen vasúti kapcsolat létesítéséről
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+– attól a szándéktól vezérelve, hogy megkönnyítsék a két ország közötti és mindkét ország területén bonyolódó tranzit személy- és áruforgalmat, ezzel javítva a Nyugat-Európát, illetve Közép-Európát Délkelet-Európával összekötő közlekedési áramlatokat,
+
+– figyelembe véve azt a tényt, hogy a közlekedési feltételek javítása jelentős tényező az országok közötti együttműködés fejlesztésében,
+
+– abból a tényből kiindulva, hogy a közös vasúti határállomás kiépítése nagymértékben hozzájárul a két ország közötti és a tranzit vasúti forgalom fejlődéséhez,
+
+– figyelembe véve a környezetvédelem, a vasúti személy- és áruforgalom, valamint ezzel összefüggésben a közúti forgalom biztonságának alapvető elveit és a környezetbarát szállítási megoldások jelentőségét,
+
+– azzal a céllal, hogy a közvetlen vasúti kapcsolat kiépítésével szorosabb és hatékonyabb közlekedési összeköttetés jöjjön létre a két ország között,
+
+– attól vezérelve, hogy a közös projekt megvalósítása nagyobb mértékben ösztönözze ezen a területen a jószomszédi kapcsolatok további fejlődését és ezáltal a két ország kapcsolatait,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+(1) A Szerződő Felek a két állam között hiányzó vasúti összeköttetés nyomvonalát az ötödik krétai folyosó keretén belül Puconci–Hodoš–Zalalövő között határozzák meg. Az új vonalszakasz hossza összesen 44 km, Szlovéniában 25 km, Magyarországon 19 km vasúti pálya épül.
+
+(2) A Szerződő Felek kötelezik magukat arra, hogy az építési munkálatokat 1997-ben megkezdik, és a közvetlen vasúti összeköttetésen a forgalom legkésőbb 2000. év végére történő beindításához szükséges minden feltételt biztosítanak.
+
+(3) A Szerződő Felek a jelen Cikk (1) bekezdésében rögzített nyomvonalat az alábbi paraméterek figyelembevételével építik meg:
+
+*a)* tervezési sebesség: 160 km/h,
+
+*b)* üzembe helyezési sebesség: 120 km/h,
+
+*c)* tengelyterhelés: 225 kN,
+
+*d)* legnagyobb emelkedő: 12‰,
+
+*e)* a vonatfogadó vágányok hossza állomásonként: 750 m.
+
+(4) Az első ütemben egyvágányú dízelvontatásra alkalmas vasútvonal épül, később a Szerződő Felek a forgalomnövekedés függvényében villamosítást és esetleges második vágány megépítését tervezik.
+
+(5) Az új vasútvonal a nagy nemzetközi vasúti vonalakról szóló Európai Egyezmény (AGC) és a fontos kombinált nemzetközi szállítási vonalakról és ezek létesítményeiről szóló Európai Megállapodás (AGTC) paramétereivel összhangban létesül.
+
+(6) A pálya vegyes forgalom – áru- és személyforgalom – számára épül.
+
+(7) A vasúti pálya a magyar–szlovén határt az A223.5 és az A223.6 határkövek között metszi. A vasútvonal metszéspontjának távolsága az A223.5 határkőtől 11,53 m, az A223.6 határkőtől pedig 23,87 m.
+
+(8) A Szerződő Felek abban állapodnak meg, hogy mindegyik Szerződő Fél saját területén a másik Szerződő Fél számára lehetővé teszi a biztonságos vasúti közlekedéshez szükséges jelző-, biztosító- és távközlő, valamint az információs technikai berendezések kiépítését.
+
+(9) A Szerződő Felek kölcsönösen lehetővé teszik egymásnak a berendezések csatlakoztatását különcélú (saját vasúti) távközlő rendszerükbe, ezáltal a biztonságos vasúti közlekedés és a határszervek Hodoš határállomáson való zavartalan munkájának érdekében biztosítják a két ország közötti távközlő kapcsolatot.
+
+*2. Cikk*
+
+(1) A vasúti technológiai, vám-, határőrizeti, valamint növény- és állategészségügyi munkák elvégzésére a Szlovén Köztársaság területén, Hodošon, közös vasúti üzemváltó határállomás épül.
+
+(2) A szlovén Szerződő Fél a közös határállomáson a magyar Szerződő Fél illetékes szervei rendelkezésére bocsátja a szolgálat ellátásához szükséges létesítményeket és helyiségeket.
+
+(3) A magyar Szerződő Fél illetékes szervei a közös határállomáson lévő valamennyi helyiség és létesítmény használatáért díjat fizetnek, amelyről a két Szerződő Fél illetékes szervei külön állapodnak meg.
+
+*3. Cikk*
+
+(1) A jelen Egyezmény tárgyát képező vasútvonal megépítéséhez szükséges létesítmények építési és karbantartási költségeire vonatkozóan a Szerződő Felek a következőkben állapodnak meg:
+
+*a)* mindegyik Szerződő Fél viseli a saját területén áthaladó pálya építési költségeit;
+
+*b)* a közös határállomás építési költségeit a szlovén Szerződő Fél fedezi, ideértve a magyar területen létesítendő szlovén berendezéseket is;
+
+*c)* a közös határállomáson lévő magyar (jelző-, biztosító-, távközlő és információs technikai) berendezések, valamint azok magyar hálózati rendszerhez való csatlakoztatásának építési költségeit a magyar Szerződő Fél fedezi;
+
+*d)* a vasúti infrastruktúra karbantartási költségeit az a Szerződő Fél fedezi, amelyhez az infrastruktúra tartozik. A karbantartási költségekre vonatkozó részletes szabályokat a Szerződő Felek között megkötendő vasúti határforgalmi megállapodás tartalmazza.
+
+(2) A Szerződő Felek abban állapodnak meg, hogy együttműködnek a nemzetközi pénzintézeteknél történő fellépésnél a meghatározott nyomvonalon létesítendő közvetlen vasúti összeköttetés költségeinek fedezéséhez szükséges pénzeszközök megszerzése érdekében.
+
+(3) A Szerződő Felek kötelezik magukat arra, hogy amennyiben bármelyik Fél részére szükséges az Egyezmény megvalósítását bizonyító igazolások, dokumentumok, valamint jogi és pénzügyi biztosítékok bemutatása, abban az esetben a Szerződő Felek ezeket egymásnak kölcsönösen átadják, illetve saját projektrészükre vonatkozóan közreműködnek a banki hitelvizsgálathoz szükséges tájékoztatások és adatok szolgáltatásában.
+
+*4. Cikk*
+
+(1) A Szerződő Felek a jelen Egyezmény tárgyát képező vasútvonal megépítésének idejére az Egyezmény végrehajtására vonatkozó feladatok ellátása, valamint az Egyezmény szövegének értelmezéséből vagy alkalmazásából eredő vitás kérdések rendezése érdekében Koordinációs Bizottságot hoznak létre. A Bizottság munkáját a magyar Szerződő Fél részéről a Közlekedési és Vízügyi[^1] Minisztérium, a szlovén Szerződő Fél részéről a Közlekedési és Hírközlési Minisztérium hangolja össze.
+
+(2) A Koordinációs Bizottság vezetőjének személyéről a Szerződő Felek képviselői írásban értesítik egymást, a Koordinációs Bizottság tagjainak személyéről pedig a vezetők tájékoztatják egymást.
+
+(3) A Koordinációs Bizottság eljárási rendjét saját hatáskörben állapítja meg.
+
+(4) A Koordinációs Bizottság
+
+*a)* gondoskodik a jelen Egyezményben foglaltak megvalósításáról, melynek keretében elkészíti a pályaépítés ütemtervét,
+
+*b)* folyamatosan tájékoztatja a Szerződő Feleket a vasúti összeköttetés kiépítése érdekében végzett tevékenységekről,
+
+*c)* egyezteti a felmerülő kérdéseket, és azokat a jelen Egyezmény rendelkezései keretén belül törekszik megoldani,
+
+*d)* szükség szerint javaslatot tesz a Szerződő Feleknek a jelen Egyezmény kiegészítésére és módosítására.
+
+(5) A Koordinációs Bizottság üléseit szükség szerint hívja össze, felváltva a Szerződő Felek területén.
+
+*5. Cikk*
+
+(1) A Szerződő Felek kötelezik magukat arra, hogy a vasúti pálya tervezésében és építésében dolgozó személyek számára a vasúti pálya nyomvonala területén az államhatár zavartalan átlépését a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között a szolgálati feladatok ellátására kiadásra kerülő magyar–jugoszláv határátlépési igazolványok egységesítése tárgyában Budapesten, 1975. november 27-én aláírt egyezményben foglaltak szerint biztosítják, figyelemmel a Szlovén Köztársaságnak a Magyar Köztársaság és a JSzSzK közötti kétoldalú nemzetközi szerződésben való jogutódlásáról Budapesten, 1995. február 6-án aláírt Jegyzőkönyv 2. számú mellékletének 7. pontjára.
+
+(2) A jelen Cikk (1) bekezdésében említett személyek a határátlépésnél érvényesíthetik a két Szerződő Felet kötelező nemzetközi szerződések alapján számukra biztosított vámkedvezményeket.
+
+*6. Cikk*
+
+A jelen Egyezmény tárgyát képező vasúti pálya építéséhez szükséges és a másik Szerződő Fél területére szállítandó építőanyag, gépek, szállítóeszközök, felszerelés és más munkagépek, berendezések, terv- és műszaki dokumentáció teljes mértékben mentes mindenféle vámteher- és vámbiztosíték-fizetési kötelezettség alól. A munkák befejezése után, a jelen Egyezmény alapján, a Szerződő Felek egyikének területére vámmentesen szállított fennmaradó építőanyagot, gépeket, szállítóeszközöket, felszerelést, terv- és műszaki dokumentációt azon Szerződő Fél területére kell visszaszállítani, ahonnan azok származnak.
+
+*7. Cikk*
+
+(1) Ha az egyik Szerződő Fél a vasútvonalat nem az Egyezmény 1. Cikkének (3) bekezdésében meghatározott paramétereknek megfelelően, illetve az Egyezmény 4. Cikke (4) bekezdésének *a)* pontjában megjelölt ütemtervtől eltérően, késedelmesen építi meg, köteles megtéríteni a másik Szerződő Félnek, az ezzel kapcsolatban felmerült tényleges költségeit.
+
+(2) A Szerződő Felek a vis maior esetén felmerült költségeket egyenlő arányban viselik.
+
+(3) A jelen Cikk (1) bekezdésében foglalt rendelkezéseket kell alkalmazni a vasútvonal üzemeltetése során felmerült, a nem megfelelő létesítéssel összefüggő költségek megtérítésére is.
+
+*8. Cikk*
+
+(1) A jelen Egyezménnyel kapcsolatos esetleges vitás kérdéseket a Szerződő Felek az Egyezmény hatálya alatt a jelen Egyezmény 4. Cikkében meghatározott Koordinációs Bizottság, az Egyezmény megszűnését követően a két Szerződő Fél között megkötendő vasúti határforgalmi megállapodásban meghatározott Vasúti Határforgalmi Vegyesbizottság keretén belül, tárgyalásos úton rendezik.
+
+(2) Ha a jelen Cikk (1) bekezdésében megjelölt bizottságok a vitás kérdésekben nem tudnak megegyezni, a Szerződő Felek a véleményeltérést diplomáciai úton rendezik.
+
+*9. Cikk*
+
+(1) A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy eleget tettek az Egyezmény hatálybalépésére vonatkozó saját belső jogszabályaiknak.
+
+(2) Az Egyezmény a jelen Cikk (1) bekezdésében említett későbbi értesítés kézhezvétele napján lép hatályba.
+
+Készült Budapest, 1996. év október hó 15. napján, két példányban, magyar és szlovén nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében:
+
+A Szlovén Köztársaság\
+Kormánya nevében:
+
+''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1998. május 19. napjától, az Egyezmény 1. Cikk (2) bekezdésében foglalt módosítás tekintetében 1999. január hó 4. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi miniszter[^2] gondoskodik.
+
+---
+
+[^1]: Lásd a 2000: LXXXIX. törvény 4. §-át.
+[^2]: Az időközi szervezeti változásoknak megfelelő szöveg.

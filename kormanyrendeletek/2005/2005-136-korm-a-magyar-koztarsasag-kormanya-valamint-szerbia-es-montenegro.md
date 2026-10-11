@@ -1,0 +1,141 @@
+---
+title: "136/2005. (VII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről"
+identifier: "136/2005. (VII. 15.) Korm. rendelet"
+njt_id: "2005-136-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/136"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-07-15
+in_force_from: 2005-07-15
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-136-20-22"
+retrieved: 2026-10-12
+---
+
+# 136/2005. (VII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti tudományos és technológiai együttműködési megállapodás kihirdetéséről
+
+*(A Megállapodás hatálybalépéséhez szükséges belső jogi eljárások teljesüléséről szóló jegyzékváltás 2005. március 29-én megtörtént, a Megállapodás ezen a napon hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa közötti tudományos és technológiai együttműködésről szóló, Belgrádban, 2004. szeptember 14. napján aláírt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+„
+
+**Megállapodás a Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa között a tudományos és technológiai együttműködésről**
+
+A Magyar Köztársaság Kormánya, valamint Szerbia és Montenegró Minisztertanácsa (a továbbiakban: Szerződő Felek),
+
+abban a meggyőződésben, hogy a nemzetközi tudományos és technológiai együttműködés erősíteni fogja a két ország népei közötti barátság és megértés kötelékeit,
+
+felismerve a nemzetközi tudományos és technológiai együttműködés fontosságát nemzetgazdaságuk fejlődése és mindkét ország jóléte szempontjából,
+
+attól a szándéktól vezérelve, hogy elősegítsék a két ország közötti együttműködést a tudomány és technológia területein,
+
+a következőkben állapodtak meg:
+
+*Első Cikk*
+
+A Szerződő Felek támogatják a két ország szervezeteinek az egyenlőség és kölcsönös előnyök alapján mindkét ország javára folytatott kétoldalú tudományos és technológiai együttműködését és közvetlen kapcsolatfelvételét. A Felek a jelen Megállapodás keretében folyó együttműködésüket vonatkozó nemzeti törvényeikkel és jogszabályaikkal, valamint azon nemzetközi szervezetek előírásaival összhangban folytatják, amelyeknek tagjai.
+
+*Második Cikk*
+
+1\. A Magyar Köztársaság, valamint Szerbia és Montenegró kutatóintézetei és egyéb együttműködő szervezetei a tudományos és technológiai együttműködést a következők révén mozdítják elő:
+
+*a)* tudományos és technológiai kutatási és fejlesztési projektek közösen meghatározott területeken;
+
+*b)* kutatók és szakértők cseréje;
+
+*c)* tudományos és technológiai információk és dokumentációk cseréje;
+
+*d)* közös tudományos konferenciák, szimpóziumok, szemináriumok, workshop-ok, kiállítások és hasonló események szervezése;
+
+*e)* a tudományos és technológiai együttműködésnek a Szerződő Felek által közösen meghatározott egyéb formái.
+
+2\. A Szerződő Felek bátorítják továbbá a vállalkozások közötti technológiacserét, a műszaki együttműködést is beleértve.
+
+*Harmadik Cikk*
+
+1\. A Szerződő Felek bátorítják és támogatják a többoldalú és regionális tudományos és technológia-fejlesztési programokban történő együttműködést és részvételt.
+
+2\. A Szerződő Felek információt cserélnek az európai szintű tudományos és technológiai együttműködésekkel kapcsolatos prioritásaikról, és bátorítják az együttműködő szervezeteiket arra, hogy az Európai Unió kutatási és fejlesztési programjaiban projekteket kezdeményezzenek, és azokban közösen vegyenek részt.
+
+*Negyedik Cikk*
+
+A Szerződő Felek egyetértésével más országok vagy nemzetközi szervezetek tudósai, szakértői vagy szervezetei meghívhatók, hogy – hacsak a Szerződő Felek másként nem állapodnak meg írásban – saját költségükön vegyenek részt a jelen Megállapodás keretében folyó tevékenységekben.
+
+*Ötödik Cikk*
+
+1\. A jelen Megállapodás keretében folyó együttműködésből keletkező szellemi tulajdonnal kapcsolatos kérdéseket az együttműködő szervezetek közötti külön megállapodásokban kell szabályozni oly módon, hogy a szellemi tulajdon megfelelő és hatékony védelme biztosított legyen, összhangban a Szerződő Felek nemzeti jogszabályaival és az általuk aláírt nemzetközi egyezmények előírásaival.
+
+2\. A jelen Megállapodás keretében folyó együttműködésből keletkező szellemi tulajdont az együttműködő szervezetek közösen birtokolják.
+
+*Hatodik Cikk*
+
+A jelen Megállapodás keretében folyó együttműködésből keletkező, iparjogvédelem alá nem eső, és a Szerződő Felek nemzeti szabályozása szerint bizalmas információt nem tartalmazó tudományos és technológiai eredmények, azaz tudományos innovációk az együttműködő szervezetek közös tulajdonává válnak, és harmadik félnek csak a két fél előzetes írásos hozzájárulásával adhatók át, kivéve, ha az együttműködő szervezetek a konkrét projekt tekintetében írásban másként állapodtak meg.
+
+*Hetedik Cikk*
+
+A jelen Megállapodás végrehajtásáért felelős intézmények a Magyar Köztársaság részéről az Oktatási Minisztérium, Szerbia és Montenegró részéről a Külügyminisztérium.
+
+*Nyolcadik Cikk*
+
+1\. A jelen Megállapodás végrehajtása céljából a Szerződő Felek Tudományos és Technológiai Együttműködési Vegyes Bizottságot (a továbbiakban: Vegyes Bizottság) hoznak létre, amelybe egyenlő számú képviselőt és szakértőt delegálnak.
+
+2\. A Vegyes Bizottság kialakítja a tudományos és technológiai együttműködés szervezeti és pénzügyi feltételeit. A Vegyes Bizottság tervezi, koordinálja és kíséri figyelemmel a tudományos és technológiai együttműködés végrehajtását.
+
+3\. A Vegyes Bizottság két évre szóló együttműködési programokat dolgoz ki, ellenőrzi a programok végrehajtását, és szükség esetén konkrét intézkedéseket kezdeményez.
+
+4\. A Vegyes Bizottság kétévente – vagy bármelyik Szerződő Fél kérésére szükség szerint gyakrabban – ül össze, felváltva a Magyar Köztársaságban, illetve Szerbia és Montenegróban.
+
+5\. Tevékenysége megszervezése érdekében a Vegyes Bizottság kidolgozza saját belső eljárási szabályait.
+
+*Kilencedik Cikk*
+
+A jelen Megállapodás rendelkezései semmilyen módon nem érintik azokat a jogokat és kötelezettségeket, amelyek a Szerződő Felek létező vagy jövőbeni kétoldalú vagy sokoldalú megállapodásai aláírásából erednek.
+
+*Tizedik Cikk*
+
+1\. A jelen Megállapodás akkor lép hatályba, amikor a Szerződő Felek diplomáciai jegyzékváltással értesítették egymást a jelen Megállapodás hatálybalépéséhez szükséges nemzeti eljárásuk befejezéséről. A hatálybalépés dátuma az utolsó értesítés kézhezvételének napja.
+
+2\. A Magyar Népköztársaság és a Jugoszláv Szövetségi Köztársaság között 1956. május 29-én, Belgrádban aláírt Műszaki és Tudományos Együttműködési Megállapodás a jelen Megállapodás hatálybalépésekor hatályát veszti.
+
+*Tizenegyedik Cikk*
+
+1\. A jelen Megállapodás öt évig marad hatályban, és ezt követően további ötéves időszakokra meghosszabbodik, hacsak valamelyik Szerződő Fél írásban diplomáciai úton nem értesíti a másik Szerződő Felet felmondási szándékáról. A Megállapodás az értesítés kézhezvétele után hat hónappal veszti hatályát.
+
+2\. A jelen Megállapodás előírásai csak mindkét Szerződő Fél egyetértésével módosíthatók vagy egészíthetők ki írásban.
+
+3\. A jelen Megállapodás módosítása vagy megszűnése nem érinti a Megállapodás keretében folyó, a változás időpontjában még be nem fejezett projekteket és programokat.
+
+*Tizenkettedik Cikk*
+
+A jelen Megállapodás értelmezésével vagy alkalmazásával kapcsolatos nézetkülönbségek és viták a Szerződő Felek közötti konzultációk útján rendezendők.
+
+Fentiek tanúsításaként alulírottak – rendelkezve Kormányaik felhatalmazásával – aláírták a Megállapodást.
+
+Készült Belgrádban, 2004. szeptember 14. napján, két eredeti példányban, magyar, szerb és angol nyelven, valamennyi szöveg egyaránt hiteles. A Megállapodással kapcsolatos bármely értelmezési eltérés esetén az angol szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Szerbia és Montenegró\
+Minisztertanácsa nevében”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodás rendelkezéseit azonban 2005. március 29-től kell alkalmazni.
+
+(2)[^1] A Megállapodás végrehajtásáról a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+Budapest, 2004. február 4.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 9. §-a szerint módosított szöveg.

@@ -1,0 +1,150 @@
+---
+title: "147/2006. (VII. 19.) Korm. rendelet „a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között az V. számú összeurópai közlekedési folyosó közúti csatlakozási pontjairól a magyar–ukrán határszakaszon” című egyezmény kihirdetéséről"
+identifier: "147/2006. (VII. 19.) Korm. rendelet"
+njt_id: "2006-147-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/147"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-07-19
+in_force_from: 2006-07-20
+last_amended: 2006-07-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-147-20-22"
+retrieved: 2026-10-12
+---
+
+# 147/2006. (VII. 19.) Korm. rendelet „a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között az V. számú összeurópai közlekedési folyosó közúti csatlakozási pontjairól a magyar–ukrán határszakaszon” című egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad „a Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje között az V. számú összeurópai közlekedési folyosó közúti csatlakozási pontjairól a magyar–ukrán határszakaszon” című egyezmény (a továbbiakban: szerződés) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a szerződést e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A szerződés hiteles magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és Ukrajna\
+Miniszteri Kabinetje között az V. számú összeurópai\
+közlekedési folyosó közúti csatlakozási pontjairól\
+a magyar–ukrán határszakaszon
+
+A Magyar Köztársaság Kormánya és Ukrajna Miniszteri Kabinetje (a továbbiakban: Szerződő Felek)
+
+– törekedve a kölcsönös jószomszédi és baráti kapcsolatok fejlesztésére és erősítésére, valamint az együttműködés szélesítésére a nemzetközi kereskedelmet és turizmust szolgáló közlekedés területén;
+
+– figyelemmel a Magyar Köztársaság és Ukrajna között a jószomszédság és az együttműködés alapjairól Kijevben, az 1991. évi december hó 6. napján aláírt szerződés 13. cikkében foglaltakra;
+
+– tekintettel azon szándékukra, hogy megteremtsék a zavartalan nemzetközi, kétoldalú és határmenti közúti közlekedés feltételeit;
+
+– különös tekintettel az V. számú összeurópai közlekedési folyosó [Velence–Trieszt/Koper–Ljubljana–Budapest–Uzshorod(Ungvár)–Lviv (Lvov)] fejlesztéséről a Szerződő Felek között a korábbiakban létrejött egyetértő szándékra; és
+
+– időszerűnek ítélve az V. számú összeurópai közlekedési folyosó irányának megfelelő autópálya építésének előkészítését a Magyar Köztársaság területén az M3 autópálya Nyíregyháza–országhatár közötti szakaszán, illetve Ukrajna területén Ukrajna nyugati határa és Kijev között,
+
+a következőkben állapodnak meg:
+
+*1. Cikk*
+
+1\. A Szerződő Felek egyetértenek abban, hogy az V. számú összeurópai közlekedési folyosó a Magyar Köztársaság és Ukrajna közötti közúti kapcsolata új autópálya megépítésével, illetve a meglévő közúti szakaszok korszerűsítésével, mint két egyenrangú útelágazással valósul meg.
+
+2\. Az V. számú összeurópai közlekedési folyosó közúti kapcsolatának egyik ága a Nyíregyháza–Vásárosnamény–Záhony–Csop (Csap)–Uzshorod (Ungvár)–Munkacseve (Munkács) útvonal – Magyarországon gyorsforgalmi út –, amelynek a közúti csatlakozási pontja a jelenleg üzemelő Záhony–Csop (Csap) nemzetközi határátkelőhely.
+
+3\. Az V. számú összeurópai közlekedési folyosó közúti kapcsolatának másik ága új autópálya megépítésével valósul meg, amelynek érdekében a Szerződő Felek ezen Egyezmény alapján közösen meghatározzák a Magyar Köztársaság területén haladó M3 autópálya, illetve Ukrajna területén az Ukrajna nyugati határa és Kijev közötti autópálya közvetlen kapcsolatának csatlakozási helyét a magyar–ukrán államhatáron keresztül.
+
+*2. Cikk*
+
+1\. A Szerződő Felek megállapodnak abban, hogy tekintettel az 1. Cikk 3. pontjában meghatározott autópályák megvalósításának időigényére, illetve a jelenleg meglévő, az V. számú összeurópai közlekedési folyosó részét képező Nyíregyháza–Vásárosnamény–Záhony–Csop (Csap)– Uzshorod (Ungvár)–Munkacseve (Munkács) nemzetközi útvonal, a Záhony–Csop határátkelőhely és az arra települt, nagy hagyományokkal rendelkező és fejlesztés alatt álló logisztikai létesítmények folyamatos kiszolgálására, továbbá az V/a jelű Pozsony–Zsolna–Kassa–Uzshorod (Ungvár) összeurópai közlekedési folyosó tényleges csatlakozási pontjára, az ebben az irányban lévő úton továbbra is biztosítják a forgalomnak megfelelő közlekedési feltételeket. Ennek érdekében 2005-ben az Ukrán Fél 75 millió EUR értékű beruházás keretében befejezi a Csap (Csop)– Stryj szakasz, valamint 2008 végéig további 100 millió EUR értékben a Stryj–Brodi útszakasz rehabilitációját.
+
+2\. Számítva arra, hogy a meglévő Záhony–Csop (Csap) határátkelőhely Tisza-hídja és forgalomellenőrző létesítményei hosszabb távon esetleg nem elégítik ki a forgalom követelményeit, a Szerződő Felek megvizsgálják a térségben egy új nemzetközi határátkelőhely létesítésének lehetőségét, amelyről szükség szerint külön állapodnak meg.
+
+*3. Cikk*
+
+1\. A Szerződő Felek megállapodnak abban, hogy
+
+*a)* az 1. Cikk 3. pontjában megjelölt autópályákat a Nyíregyháza–Vásárosnamény–Barabás–Beregdaróc– Dyida (Beregdéda)–Koszini (Mezőkaszony)–Mizshirja (Ökörmező)–Ivano–Frankivszk irányban építik meg;
+
+*b)* ezen autópályák közös csatlakozási helye a magyar– ukrán államhatáron a Magyar Köztársaság területén lévő Beregdaróc és az Ukrajna területén lévő Dyida (Beregdéda) között lesz, a 212. és a 214. számú határjel között;
+
+*c)* a kiépítés első szakaszában a magyar–ukrán határt keresztező autópálya mindkét állam területén egypályás útként épül ki a kétirányú forgalom számára, olyan műszaki paraméterekkel, hogy a későbbiekben az út kétpályás teljes autópályává legyen bővíthető, mindkét irányban egyirányú közlekedéssel.
+
+2\. Az Ukrán Fél vállalja, hogy legkésőbb a Vásárosnamény–Beregdaróc autóút-szakasz üzembe helyezéséig megépíti és üzembe helyezi a csatlakozó Dyida (Beregdéda)–Munkacseve (Munkács) autóút-szakaszt.
+
+*4. Cikk*
+
+A Szerződő Felek a saját államuk területére eső útszakaszt saját erőforrásaikból valósítják meg. A Szerződő Felek az építkezés időbeli ütemezéséről külön állapodnak meg.
+
+*5. Cikk*
+
+1\. A 3. Cikk 1. *b)* pontjában megjelölt határcsatlakozási helyen építendő nemzetközi autópálya-határátkelőhely létesítésével kapcsolatos feladatokat a Szerződő Felek külön megállapodásban határozzák meg.
+
+2\. A határátkelőhelyen a határforgalom-ellenőrzéshez szükséges igazgatási célú épületek, objektumok és infrastruktúra létrehozását a Szerződő Felek összehangolják az autópálya építésével.
+
+3\. A Szerződő Felek a teljes körű infrastruktúrát saját lehetőségeikhez mérten, fokozatosan építik meg. A megvalósítás pénzügyi fedezetének biztosítása céljából a Szerződő Felek megvizsgálják a nemzetközi források bevonásának lehetőségét mind az autópálya, mind a határátkelőhely tekintetében.
+
+*6. Cikk*
+
+A Szerződő Felek az 5. Cikkben megjelölt nemzetközi autópálya-határátkelőhelyet folyamatos nyitva tartással, 00.00 órától 24.00 óráig a nemzetközi személy- és áruforgalom számára nyitják meg.
+
+*7. Cikk*
+
+1\. Az ezen Egyezmény végrehajtására illetékes szerv a Magyar Köztársaságban a Gazdasági és Közlekedési Minisztérium, Ukrajnában a Közlekedési és Hírközlési Minisztérium.
+
+2\. Az Egyezmény végrehajtásával kapcsolatos feladatokat a Szerződő Felek illetékes szerveinek képviselői által irányított tárcaközi szakértői munkacsoport (a továbbiakban: Munkacsoport) koordinálja. A Munkacsoport állandó résztvevői a közlekedésért, a környezet- és természetvédelemért, az örökségvédelemért, a területfejlesztésért, a külkapcsolatokért, a határőrizetért és a vámügyekért felelős minisztériumok és hivatalok képviselői. A Munkacsoportba más szakértők is bevonhatók.
+
+3\. Mindkét Szerződő Fél illetékes szerve kijelöli a Munkacsoport társelnökét és állandó tagjait, akiknek személyéről írásban értesítik egymást.
+
+4\. A Munkacsoport működési rendjét saját hatáskörben állapítja meg.
+
+5\. A Munkacsoport
+
+*a)* összehangolja az ezen Egyezményben foglaltak végrehajtását;
+
+*b)* javaslatokat dolgoz ki az érintett szervek bevonásával az ezen Egyezmény végrehajtásával összefüggésben felmerülő kérdések megoldására;
+
+*c)* javaslatot tehet a Szerződő Feleknek az Egyezmény kiegészítésére és módosítására.
+
+6\. A Munkacsoport üléseit szükség szerint tartja, felváltva a Szerződő Felek államának területén.
+
+*8. Cikk*
+
+1\. A Szerződő Felek a jelen Egyezményt határozatlan időre kötik.
+
+2\. A Szerződő Felek diplomáciai úton, írásban kölcsönösen értesítik egymást arról, hogy eleget tettek a jelen Egyezmény hatálybalépéséhez szükséges belső jogi előírásaiknak. Az Egyezmény a jóváhagyásáról szóló utolsó ilyen értesítés kézhezvételét követő 30. (harmincadik) napon lép hatályba.
+
+3\. Ezen Egyezményt a Szerződő Felek diplomáciai jegyzékváltás útján módosíthatják, a módosítások ezen Cikk 2. pontjában meghatározott módon lépnek hatályba.
+
+4\. Ezen Egyezményt a Szerződő Felek bármikor megszüntethetik a másik Szerződő Félnek diplomáciai úton küldött írásos értesítéssel. Az Egyezmény a felmondásról szóló értesítés kézhezvételét követő 6 (hat) hónap elteltével hatályát veszti.
+
+Készült Kijevben, 2006. március hó 21. napján, két eredeti példányban, magyar és ukrán nyelven. Mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Ukrajna Miniszteri\
+Kabinetje nevében”
+
+*(aláírások)”*
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a szerződés 8. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A szerződés, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § – e rendelet 4. § (2) bekezdése alapján – a szerződés 8. cikkében meghatározott időpontban lép hatályba. A 41/2008. (X. 3.) KüM határozat alapján a hatálybalépés időpontja 2008. október 22.
+[^2]: A 3. § – e rendelet 4. § (2) bekezdése alapján – a szerződés 8. cikkében meghatározott időpontban lép hatályba. A 41/2008. (X. 3.) KüM határozat alapján a hatálybalépés időpontja 2008. október 22.
+[^3]: A 41/2008. (X. 3.) KüM határozat alapján a hatálybalépés időpontja 2008. október 22.
+[^4]: Lásd a 41/2008. (X. 3.) KüM határozatot.

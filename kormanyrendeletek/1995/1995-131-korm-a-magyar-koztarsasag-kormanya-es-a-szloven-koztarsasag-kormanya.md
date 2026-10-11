@@ -1,0 +1,478 @@
+---
+title: "131/1995. (XI. 9.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a növényvédelmi együttműködésről szóló Egyezmény kihirdetéséről"
+identifier: "131/1995. (XI. 9.) Korm. rendelet"
+njt_id: "1995-131-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/131"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-11-09
+in_force_from: 1995-11-09
+last_amended: 1995-11-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-131-20-22"
+retrieved: 2026-10-12
+---
+
+# 131/1995. (XI. 9.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a növényvédelmi együttműködésről szóló Egyezmény kihirdetéséről
+
+*(Az Egyezmény 1995. szeptember 1. napján lépett hatályba.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között Ljubljanában, 1994. március 21-én aláírt, a növényvédelmi együttműködésről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a növényvédelmi együttműködésről
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya attól a szándékától vezérelve, hogy
+
+— kölcsönösen, megtegyenek minden szükséges intézkedést országaik területének megvédésére a növények és növényi termékek károsítóinak országhatáron át történő behurcolásától,
+
+— megteremtsék a növényegészségügyi biztonság összehangolt feltételeit a növényi árucsere és átmenő forgalom számára,
+
+— országaikban hatékony növényvédelemmel megelőzzék, szükség esetén közös összefogással megakadályozzák a károsítók járványos szétterjedését,
+
+— a növényvédelem területén elmélyítsék a tudományos együttműködést,
+
+— segítsék a kereskedelmi kapcsolatok előmozdítását
+
+az alábbi Egyezményt kötötték:
+
+*1. Cikk*
+
+Az Egyezményben
+
+*a)* növények és növényi termékek alatt az élő növényeket, azok részeit, továbbá mindazon növényi eredetű termékek összességét kell érteni, amelyek a Szerződő Felek országának rendelkezései szerint a behozatali, kiviteli és átmenő forgalomban növényegészségügyi vizsgálati kötelezettség alá tartoznak,
+
+*b)* károsító alatt azok a növényi betegségek, állati kártevők és gyommagvak értendők, amelyek a Szerződő Felek országában nem fordulnak elő, vagy jelen vannak, de elterjedésük nem széles körű, illetőleg szétterjedésük, járványos felszaporodásuk a növényre, növényi termékre káros, továbbá jelenlétük az egészségre káros lehet,
+
+*c)* növényegészségügyi bizonyítvány a FAO 1979. évi rendelkezésével módosított, 1951. december 6-án, Rómában elfogadott Nemzetközi Növényvédelmi Egyezmény alapján egységes iratmintával igazolt, növényvédelmi hatósági nyilatkozat.
+
+*2. Cikk*
+
+A Szerződő Felek illetékes szervei
+
+*a)* kölcsönösen tájékoztatják egymást a növények és növényi termékek kivitelére, behozatalára és átmentő forgalmára vonatkozó növényegészségügyi követelményekről,
+
+*b)* a 2. Cikk *a)* szakaszában említett követelmények érvényesítése során gondoskodnak a növények és növényi termékek küldeményeinek az Egyezmény *mellékletében* felsorolt károsítóktól való mentessége szakszerű ellenőrzéséről és a vizsgálat megtörténtét, illetőleg az importáló ország előírásainak való megfelelést növényegészségügyi bizonyítvány kiállításával igazolják. Az egymás országán keresztül történő szállítás során is betartják a behozatali küldeményekre vonatkozó feltételeket. A küldemények vizsgálatát a Szerződő Felek saját országukban rendszeresített módszerekkel végzik,
+
+*c)* az Egyezmény mellékletét képező károsítók jegyzékében vagy a növényegészségügyi követelményekben bekövetkezett változásokat egymás felé késedelem nélkül jelzik,
+
+*d)* az új károsítók előfordulásáról haladéktalanul tájékoztatják egymást,
+
+*e)* együttműködnek a károsítók behurcolása és elterjedése elleni védelemben, kölcsönösen segítik egymást a különösen veszélyes károsítók visszaszorításában,
+
+*f)* a határövezetben nagy gazdasági kárral fenyegető károsító tömeges elszaporodása esetén a Szerződő Felek illetékes szervei kölcsönösen figyelmeztetik egymást, és szükség esetén együttműködnek a veszélyhelyzet elhárításában.
+
+*3. Cikk*
+
+Az importáló országnak joga van a másik országból származó szállítmány megvizsgálására még akkor is, ha el van látva érvényes növényegészségügyi bizonyítvánnyal, illetve joga van ahhoz, hogy megtegye a szükséges védelmi intézkedéseket, amennyiben az nem felel meg a követelményeknek.
+
+Vitás esetben a Szerződő Felek vámhatáron működő vizsgáló közegei egymás szakmai álláspontját egyeztetik, és a fertőzés tényétől függően szuverén döntést hozhatnak.
+
+*4. Cikk*
+
+1\. Növényi eredetű küldeményeknél olyan csomagolást alkalmaznak, amely nem segíti elő a károsítók terjedését.
+
+2\. Szállításhoz a károsítók behurcolására alkalmas szennyezésektől megtisztított, szükség esetén fertőtlenített, szállító eszközt használnak.
+
+3\. Talaj, illetve termőközeg szállítása a Szerződő Felek növényegészségügyi követelményei szerint történik.
+
+*5. Cikk*
+
+1\. Növény-, növényi termék import küldemények növényegészségügyi ellenőrzését a Szerződő Felek országuk vámhatárán — ahol ilyen létezik a közös vámhatáron — vagy szükség esetén — közös megegyezés alapján — az exportáló ország termő, illetőleg berakó helyén végzik el. A határ két oldalán a szomszédos ország 10 km-es körzetében termelt növényi eredetű áruk vizsgálatát, az illetékes Felek külön kétoldalú megállapodásban szabályozhatják.
+
+2\. A közös határállomásokon a növényegészségügyi kirendeltségek létesítése, működtetése, illetve bezárása a Szerződő Felek között egyeztetetten történik.
+
+3\. A szállítmányok növényegészségügyi vizsgálata a Szerződő Felek illetékes szerve által szabályszerűen feljogosított és szakképesített személyzet (vizsgálóközeg) által, vagy annak ellenőrzése alatt történik.
+
+4\. A Szerződő Felek diplomáciai testületei részére vagy rajtuk keresztül ajándékként, illetve csere céljából érkező növényeket tartalmazó küldeményeket az Egyezményben foglaltak szerint kell kezelni.
+
+*6. Cikk*
+
+A Szerződő Felek megtesznek minden szükséges intézkedést annak érdekében, hogy károsítók behurcolását harmadik országból is megakadályozzák. A növényeket, növényi termékeket tartalmazó küldemények átmenő forgalmát akkor engedélyezik, ha azok növényegészségügyi bizonyítvánnyal rendelkeznek — kivéve, ha ettől eltérően jogszabály vagy illetékes szerv intézkedik —, és megfelelnek azon ország növényegészségügyi követelményeinek, amelynek területén a küldemény majd áthalad.
+
+*7. Cikk*
+
+Az Egyezmény mellékletében felsorolt károsítók jegyzékét, illetőleg a növényegészségügyi követelményeket a Szerződő Felek módosíthatják. A módosítást diplomáciai jegyzékváltás útján kell megerősíteni, amely a kézhezvételtől számított 30. nap után lép hatályba.
+
+*8. Cikk*
+
+1\. A Szerződő Felek támogatják illetékes szerveik tudományos együttműködését, főként
+
+*a)* a növényvédelmi ismeretek és tapasztalatok cseréjében a kutatás és a védekezési gyakorlat módszerei területén,
+
+*b)* a növények, növényi termékek idegen eredetű, egészségre káros anyag tartalmának megelőzésében,
+
+*c)* a szerzői jogokat nem érintő szakmai információk térítésmentes cseréjében, és
+
+*d)* a szakemberek tanulmányútjainak megvalósításában.
+
+2\. Az Egyezmény végrehajtása során felmerülő szakmai problémák megoldása, munkatapasztalatok cseréje és az együttműködés továbbfejlesztése érdekében a Szerződő Felek illetékes szervei szükség esetén közös tanácskozásokat tartanak. A tanácskozások megrendezésére a két országban felváltva kerül sor.
+
+3\. A delegációk nemzetközi utazási költségeit a küldő Fél, míg a szállás és ellátás, valamint a látogatás során felmerülő belföldi utazási költségeket viszonossági alapon a fogadó vagy megegyezés szerint a küldő ország viseli.
+
+A tanácskozások helyét és idejét a Szerződő Felek egyeztetés útján határozzák meg.
+
+*9. Cikk*
+
+1\. Az Egyezmény végrehajtására vonatkozó feladatokat a magyar Fél részéről a Földművelésügyi Minisztérium[^1], a szlovén Fél részéről a Mezőgazdasági, Erdészeti és Élelmiszerügyi Minisztérium hangolja össze.
+
+2\. Amennyiben az Egyezmény végrehajtása vagy értelmezése tárgyában nincs egyetértés, a Szerződő Felek a vita eldöntésére — megállapodás alapján — közös bizottságot alakítanak. Ha a közös bizottság nem jut megállapodásra, a véleményeltérést diplomáciai úton rendezik.
+
+*10. Cikk*
+
+Az Egyezmény rendelkezései nem érintik a Szerződő Felek egyéb kétoldalú vagy nemzetközi egyezményekből származó jogait és kötelezettségeit.
+
+*11. Cikk*
+
+Jelen Egyezmény hatálybalépésének időpontjától a Magyar Köztársaság és a Szlovén Köztársaság vonatkozásában hatályát veszti:
+
+Egyezmény a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Képviselőházának Szövetségi Végrehajtó Tanácsa között a növényvédelem és a növényvédelmi karantén terén történő együttműködésről (Becse, 1983. november 21.).
+
+*12. Cikk*
+
+Az Egyezményt a Szerződő Felek alkotmányos előírásai szerint meg kell erősíteni, illetve jóvá kell hagyni. Az Egyezmény — a megerősítéséről, illetve jóváhagyásáról szóló — diplomáciai jegyzékváltás napjától számított 30. napon lép hatályba. Az Egyezmény a hatálybalépés napjától számított 5 évig marad érvényben, és érvényessége mindaddig további öt évre meghosszabbodik, ameddig érvényességi időtartamának lejárta előtt 6 hónappal az egyik Szerződő Fél azt írásban fel nem mondja.
+
+Készült Ljubljanában, 1994. március 21-én, két eredeti példányban, magyar és szlovén nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+A Szlovén Köztársaság Kormánya nevében
+
+*Melléklet*
+
+Vesztegzáras káros organizmusok jegyzéke\
+a Szlovén Köztársaságban
+
+*A1. Vesztegzáras káros organizmusok*
+
+1\. Gombák
+
+1.1 Apiosporina morbosa (Schweinitz) von Arx
+
+1.2 Atropellis pinicola (Zeller & Gooding)
+
+1.3 Atropellis piniphila (Weir) Lohman & Cash
+
+1.4 Botryosphaeria laricina (K. Sawada) Y. Zhong
+
+1.5 Ceratocystis fagacearum (Bretz) Hunt
+
+1.6 Ceratocystis fimbriata f. sp. platani (Ellis & Halsted) Walter
+
+1.7 Chrysomyxa arctostaphyli (Dietel)
+
+1.8 Cochliobolus carbonum (R. R. Nelson)
+
+1.9 Cronartium spp. (nem európai fajták)
+
+1.10 Didymella ligulicola (K. F. Baker, Dimock & L. H. Davis) von Arx
+
+1.11 Gymnosporangium spp. (nem európai fajták)
+
+1.12 Inonotus weirii (Murrill) Kotlaba & Pouzar
+
+1.13 Melampsora farlowii (J. C. Arthur) J. J. Davis
+
+1.14 Melampsora medusae (Thümen)
+
+1.15 Monilinia fructicola (Winter) Honey
+
+1.16 Mycosphaerella dearnessii (M. E. Barr)
+
+1.17 Mycosphaerella gibsonii (H. C. Evans)
+
+1.18 Mycosphaerella laricis-leptolepidis\
+(K. Ito, K. Sato & M. Ota)
+
+1.19 Mycosphaerella populorum (G. E. Thompson)
+
+1.20 Ophiostoma wageneri (Goheen & Cobb) Harrington
+
+1.21 Phialophora cinerescens (Wollenweber) van Beyma
+
+1.22 Phialophora gregata (Allington & Chamberlain) W.˙Gams
+
+1.23 Phoma andina (Turkensteen)
+
+1.24 Phoma exigua
+
+1.25 Phyllosticta solitaria (Ellis & Everhart)
+
+1.26 Phythophtora megasperma f. sp. glycinea\
+(Drechsler: Kuan & Erwin)
+
+1.27 Puccinia pittieriana (P. Hennings)
+
+1.28 Stenocarpella macrospora (Earle) Sutton
+
+1.29 Stenocarpella maydis (Berkley) Sutton
+
+1.30 Thecaphora solani (Thirumulachar & O Brien) Mordue
+
+1.31 Tilletia indica (Mitra)
+
+1.32 Uromyces transversalis (Thümen) Winter
+
+2\. Baktériumok
+
+2.1 Apricot chlorotic leafroll MLO
+
+2.2 Clavibacter michiganensis subsp. insidiosus (Smith) Davis et al.; (McCulloch) Davis et al.
+
+2.3 Clavibacter michigabensis subsp. insidiosus Davis et al.; (Spieckermann & Kotthoff) Davis et al.
+
+2.4 Curtobacterium flaccumfaciens pv. flaccumfaciens (Hedges) Collins & Jones
+
+2.5 Elm phloem necrosis MLO
+
+2.6 Erwinia amylovora (Burrill) Winslow et al.
+
+2.7 Erwinia chrysanthemi (Burkholder et al.)
+
+2.8 Erwinia stewartii (Smith) Dye
+
+2.9 Peach rosette MLO
+
+2.10 Peach X disease MLO
+
+2.11 Peach yellows MLO
+
+2.12 Potato stolbur MLO
+
+2.13 Pseudomonas caryophylli (Burkholder) Starr & Burkholder
+
+2.14 Pseudomonas solanacearum (Smith) Smith
+
+2.15 Pseudomonas syringae var. persicae Van Hall; (Prunier et al.;) Young et al.
+
+2.16 Pseudomonas syringae var. pisi Van Hall; (Sackett) Young et al.
+
+2.17 Strawberry Witches broom MLO
+
+2.18 Xanthomonas campestris pv. corylina (Pammel) Dowson; (Miller et al.) Dye
+
+2.19 Xanthomonas campestris pv. phaseoli (Pammel) Dowson; (Smith) Dye
+
+2.20 Xanthomonas fragariae (Kennedy & King)
+
+2.21 Xanthomonas populi (Ride) Ride & Ride
+
+2.22 Xylella fastidiosa (Wells et al.)
+
+2.23 Xylophilus ampelinus (Panagopoulos) Willems et al.
+
+3\. Vírusok, vírusokhoz hasonló organizmusok és viroidok
+
+3.1 American plum line pattern virus
+
+3.2 Apple mosaic ilarvirus in Rubus
+
+3.3 Beet leaf curl rhabdovirus
+
+3.4 Beet necrotic yellow vein furovirus
+
+3.5 Cherry leaf roll nepovirus in Rubus
+
+3.6 Cherry necrotic rusty mottle disease
+
+3.7 Cherry rasp leaf nepovirus
+
+3.8 Chrysanthemum stunt viroid
+
+3.9 Peach latent mosaic viroid
+
+3.10 Potato spindle tuber viroid
+
+3.11 Potato viruses (nem európai fajták)
+
+3.12 Raspberry leaf curl virus
+
+3.13 Strawberry latent C disease
+
+4\. Rovarok
+
+4.1 Acleris gloverana (Walsingham)
+
+4.2 Acleris variana (Fernald)
+
+4.3 Aleurocanthus woglumi (Ashby)
+
+4.4 Amauromyza maculosa (Malloch)
+
+4.5 Anastrepha spp. (nem európai fajták)
+
+4.6 Anthonomus grandis (Boheman)
+
+4.7 Anthonomus signatus (Say)
+
+4.8 Bactrocera spp. (nem európai fajták)
+
+4.9 Bemisia tabaci (Gennadius)
+
+4.10 Blitopertha orientalis (Waterhouse)
+
+4.11 Cacoecimorpha pronubana (Hubner)
+
+4.12 Carposina niponensis (Walsingham)
+
+4.13 Ceratitis cosyra (Walker)
+
+4.14 Ceratitis rosa (Karsch)
+
+4.15 Conotrachelus nenuphar (Herbst)
+
+4.16 Cydia prunivora (Walsh)
+
+4.17 Dacus ciliatus (Loew)
+
+4.18 Epichoristodes acerbella (Walker)
+
+4.19 Epitrix cucumeris (Harris)
+
+4.20 Epitrix tuberis (Gentner)
+
+4.21 Epochra canadensis (Loew)
+
+4.22 Euphranta japonica (Ito)
+
+4.23 Gonipterus scutellatus (Gyllenhal)
+
+4.24 Helicoverpa armigera (Hubner)
+
+4.25 Liriomyza huidobrensis (Blanchard)
+
+4.26 Liriomyza sativae (Blanchard)
+
+4.27 Listronotus bonariensis (Kuschel)
+
+4.28 Monochamus alternatus (Hope)
+
+4.29 Monochamus carolinensis (Olivier)
+
+4.30 Parabemisia myricae (Kuwana)
+
+4.31 Pissodes spp. (nem európai fajták)
+
+4.32 Popillia japonica (Newman)
+
+4.33 Premnotrypes spp. (Andok fajták)
+
+4.34 Rhagoletis spp. (nem európai fajták)
+
+4.35 Scolytidae (nem szlovén fajták)
+
+4.36 Spodoptera littoralis (Boisduval)
+
+4.37 Spodoptera litura (Fabricius)
+
+4.38 Thrips palmi (Karny)
+
+4.39 Trogoderma granarium (Everts)
+
+5\. Fonálférgek
+
+5.1 Aphelenchoides besseyi (Christie)
+
+5.2 Bursaphelenchus xylophilus (Steiner & Buhrer)\
+Nickle
+
+5.3 Globodera pallida (Stone) Behrens
+
+5.4 Globodera rostochiensis (Wollenweber) Behrens
+
+5.5 Heterodera glycines (Ichinohe)
+
+5.6 Nacobbus aberrans (Thorne) Thorne & Allen
+
+5.7 Radopholus citrophilus (Huettel et al.)
+
+5.8 Radopholus similis (Cobb) Thorne
+
+5.9 Xiphinema brevicolle
+
+5.10 Xiphinema californicum
+
+5.11 Xiphinema pachtaicum
+
+5.12 Xiphinema rivesi
+
+6\. Élősködő virágok
+
+6.1 Arceuthobium spp. (nem európai fajták)
+
+*A2. Vesztegzáras, ártalmas, a Szlovén Köztársaság korlátozott területén fellelhető organizmusok*
+
+1\. Gombák
+
+1.1 Mycosphaerella linicola (Naumov)
+
+1.2 Phaeoisariopsis griseola (Saccardo) Ferraris
+
+1.3 Phytophthora fragariae (Hickman)
+
+1.4 Phytophthora fragariae var. rubi (Wilcox & Duncan)
+
+1.5 Puccinia horiana (P. Hennings)
+
+1.6 Puccinia pelargonii-zonalis (Doigde)
+
+1.7 Synchytrium endobioticum (Schilbersky) Percival
+
+1.8 Tilletia controversa (Kuhn)
+
+2\. Baktériumok
+
+2.1 Apple proliferation MLO
+
+2.2 Clavibacter michiganensis subsp. michiganensis (Smith) Daves et al.
+
+2.3 Grapevine flavescence dorée MLO
+
+2.4 Pear decline MLO
+
+2.5 Xanthomonas campestris pv. pruni (Pammel) Dowson; (Smith) Dye
+
+2.6 Xanthomonas campestris pv. vesicatoria (Pammel) Dowson; (Doidge) Dye
+
+3\. Vírusok, vírusokhoz hasonló organizmusok és viroidok
+
+3.1 Barley stripe mosaic hordeivirus
+
+3.2 Plum pox potyvirus
+
+3.3 Raspberry ringsport nepovirus
+
+3.4 Strawberry vein banding caulimovirus
+
+3.5 Tomato ringspot nepovirus
+
+4\. Rovarok
+
+4.1 Ceratitis capitata (Wiedemann)
+
+4.2 Frankliniella occidentalis (Pergande)
+
+4.3 Liriomyza trifolii (Burgess)
+
+4.4 Quadraspidiotus perniciosus (Comstock)
+
+5\. Fonálférgek
+
+5.1 Xiphinema americanum (Cobb)''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. szeptember 1. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének d) pontját.

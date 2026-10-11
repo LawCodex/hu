@@ -1,0 +1,291 @@
+---
+title: "153/2002. (VII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és a Belga Királyság Kormánya között a rendőrségi együttműködésről, valamint a szervezett bűnözés elleni harcban folytatott együttműködésről szóló, Brüsszelben, 1998. november 4-én aláírt Egyezmény kihirdetéséről"
+identifier: "153/2002. (VII. 5.) Korm. rendelet"
+njt_id: "2002-153-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/153"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-07-05
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-153-20-22"
+retrieved: 2026-10-12
+---
+
+# 153/2002. (VII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és a Belga Királyság Kormánya között a rendőrségi együttműködésről, valamint a szervezett bűnözés elleni harcban folytatott együttműködésről szóló, Brüsszelben, 1998. november 4-én aláírt Egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Belga Királyság Kormánya között a rendőrségi együttműködésről, valamint a szervezett bűnözés elleni harcban folytatott együttműködésről szóló, Brüsszelben, 1998. november 4-én aláírt Egyezményt e rendelettel kihirdeti.
+
+*[Az Egyezmény jóváhagyásáról szóló jegyzékváltás 2002. június 17. napján megtörtént. Az Egyezmény, annak 16. Cikk* (2) bekezdésére *figyelemmel 2002. szeptember 1. napján lép hatályba.]*
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„,,
+
+**Egyezmény**\
+**a Magyar Köztársaság Kormánya és a Belga Királyság Kormánya között a rendőri együttműködésről, valamint a szervezett bűnözés elleni harcban folytatott együttműködésről**
+
+A Magyar Köztársaság Kormánya és a Belga Királyság Kormánya (a továbbiakban: Szerződő Felek)
+
+abból a törekvésükből kiindulva, hogy kétoldalú kapcsolataikat továbbfejlesszék,
+
+attól a kívánságtól vezérelve, hogy megerősítsék együttműködésüket a jelen Egyezményben foglaltak szerint, szem előtt tartva a Szerződő Felek által vállalt nemzetközi kötelezettségeket, így az Emberi Jogok és Alapvető Szabadságjogok védelméről szóló Európai Egyezményt és annak Jegyzőkönyveit, valamint az Európa Tanács Az egyének védelméről a személyes adatok gépi feldolgozása során, Strasbourgban, 1981. január 28. napján kelt Egyezményének rendelkezéseit,
+
+tekintettel arra, hogy a nemzetközi szervezett bűnözés súlyos fenyegetést jelent a Szerződő Felek társadalmi és gazdasági fejlődésére, valamint arra, hogy a nemzetközi szervezett bűnözés területén a legutóbbi időben végbement fejlemények, nevezetesen a pénzmosás elterjedése veszélyeztetik alkotmányos rendjüket,
+
+tekintetbe véve elhatározásukat, hogy összehangolják a szervezett bűnözés elleni tevékenységüket,
+
+figyelembe véve, hogy az emberkereskedelem és a gyermekek szexuális kihasználása, amelyre a Gyermekek Jogairól szóló, 1989. november 20-án kelt ENSZ Egyezmény 34. Cikke vonatkozik, beleértve a gyerekekkel kapcsolatos pornográf jellegű anyagok készítését, eladását, terjesztését és forgalmazásának egyéb formáit, aggodalmat kelt a Szerződő Felekben, ezért közös feladatuknak tekintik az említett cselekmények elleni harcot,
+
+tekintettel arra, hogy az államok területére való jogellenes belépés, jogellenes kilépés, továbbá az illegális migráció elleni minden fellépés, valamint azon hálózatok felszámolása, amelyek e jogellenes akciókban részt vesznek, foglalkoztatják a Szerződő Felek kormányait és törvényhozását;,
+
+tekintettel arra, hogy a kábítószerek és pszichotrop anyagok jogellenes gyártása és forgalmazása, úgy, ahogy ez a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezményben és az azt módosító, Genfben, 1972. március 25-én kelt Jegyzőkönyvben, valamint a Bécsben, 1971. február 21-én kelt Pszichotrop Anyagokra vonatkozó Egyezményben, valamint úgy, miként ez a Bécsben, 1988. december 19-én kelt, a Kábítószerek és Pszichotrop Anyagok Tiltott Forgalmazása Elleni ENSZ Egyezményben található, veszélyt jelent az állampolgárok egészségére és biztonságára nézve,
+
+tekintettel arra, hogy a nukleáris és radioaktív anyagokhoz kapcsolódó bűnözés, úgy ahogy a Nukleáris Anyagok Fizikai Védelméről, 1980. március 3-án, Bécsben és New Yorkban aláírt Egyezmény 7. Cikk 1. §-ában szerepel, ugyancsak veszélyt jelent az állampolgárok egészségére és biztonságára nézve,
+
+tekintetbe véve, hogy a terrorizmushoz kapcsolódó bűnözés elleni harc úgy, ahogy ez a terrorizmus visszaszorításáról, 1977. január 27-én kelt Európai Egyezményben szerepel, olyan veszély, melyet a demokratikus értékek és intézmények védelme tesz indokolttá,
+
+figyelemmel arra, hogy a vonatkozó jogszabályok harmonizációja nem elegendő ahhoz, hogy kellő hatékonysággal küzdjenek a jelen Egyezményben szereplő bűnözés sajátos jelenségei ellen,
+
+meggyőződve arról, hogy a szóban forgó bűncselekmények megelőzésében és ellenük való küzdelemben elengedhetetlen a hatékony kétoldalú együttműködés, többek között az információcsere és az információ feldolgozás terén,
+
+tekintettel arra, hogy eredményes együttműködésük számos megfelelő intézkedést és szoros összehangolt tevékenységet igényel mindkét Szerződő Fél részéről,
+
+az alábbi Egyezmény létrehozásában állapodtak meg:
+
+*Az együttműködés területei*
+
+*1. Cikk*
+
+(1) A Szerződő Felek kötelezik magukat, hogy belső jogszabályaikkal összhangban a legmesszebbmenőkig együttműködnek a másik Szerződő Féllel a szervezett bűnözés elleni harc területein a jelen Egyezmény rendelkezései szerint, beleértve az emberkereskedelmet és a gyermekek szexuális kizsákmányolását.
+
+(2) Az (1) bekezdésben meghatározott célkitűzések érdekében a Szerződő Felek mindenekelőtt az alábbi súlyos bűncselekmények megelőzésében, üldözésében és visszaszorításában működnek együtt:
+
+– az emberek élete, testi épsége és egészsége elleni bűncselekmények;
+
+– a kábítószerek, pszichotrop anyagok és prekurzorok illegális gyártásával, valamint tiltott forgalmazásával kapcsolatos bűncselekmények;
+
+– az illegális migráció;
+
+– a kerítés, az emberkereskedelem és a gyermekek szexuális kizsákmányolása;
+
+– zsarolás, beleértve a védelmi pénz kifizetésének kikényszerítését;
+
+– fegyverek, lőszerek, robbanóanyagok illegális kereskedelme, csempészete;
+
+– radioaktív, nukleáris és más veszélyes anyagok illegális kereskedelme és csempészete;
+
+– pénz-, értékpapír- és okmányhamisítás;
+
+– pénzmosás;
+
+– vagyon elleni bűncselekmények, különösen műtárgyak, régiségek és más kulturális javak eltulajdonítása, csempészete;
+
+– gépjárműlopás és gépjárműcsempészés.
+
+(3) A Szerződő Felek együttműködése kiterjed továbbá:
+
+– eltűnt személyek felkutatására, azonosítatlan holttestek azonosításához nyújtott segítségnyújtásra,
+
+– az egyik Szerződő Fél területén ellopott, eltűnt, elsikkasztott tárgyak felkutatására a másik Szerződő Fél területén.
+
+*Az együttműködés módja*
+
+*2. Cikk*
+
+A Szerződő Felek – hatályos jogszabályaiknak megfelelően – együttműködésük során a jelen Egyezmény 1. Cikkében megjelölt területeken:
+
+*a)* közlik egymással a szervezett bűnözésben résztvevők adatait, az elkövetők kapcsolataira vonatkozó adatokat, a bűnöző csoportok felépítésére, a típusos tettes- és csoportmagatartásokra, a tényállásokra, különösen az elkövetés idejére, helyére, módjára, a megtámadott objektumokra, a különleges körülményekre vonatkozó ismereteiket, valamint a megsértett jogszabályokat és a megtett intézkedéseket;
+
+*b)* segítséget nyújtanak egymásnak a jelen Egyezmény 1. Cikkében megjelölt cselekmények elleni küzdelem céljából, feltéve, hogy a megkeresett Szerződő Fél belső jogszabályai nem az igazságügyi szerveknek tartják fenn a kérést, illetve annak teljesítését, valamint hogy a kérés, illetve annak teljesítése nem foglalja magában kényszerítő intézkedéseknek a megkeresett Szerződő Fél által való foganatosítását;
+
+*c)* a bűnügyi jogsegélykérelmek teljesítésének előkészítésében.
+
+*Az információcsere*
+
+*3. Cikk*
+
+(1) A Szerződő Felek folyamatos és közvetlen együttműködést valósítanak meg. Ennek keretében kicserélik minden érdemleges és fontos információjukat.
+
+(2) Az együttműködés állandó kapcsolat formáját öltheti olyan összekötő tiszt vagy attasé (a továbbiakban: összekötő tiszt) útján, akit mindegyik Szerződő Fél illetékes minisztere vagy miniszterei jelölnek ki.
+
+*4. Cikk*
+
+Bármelyik Szerződő Fél, belső jogszabályaival összhangban, megkeresés nélkül is közölhet olyan információt, amelyek a másik Szerződő Fél számára fontosak lehetnek a jelen Egyezmény 1. Cikke szerinti bűncselekmények megelőzésében és visszaszorításában, illetve más, a közrendet és közbiztonságot fenyegető veszély megelőzése érdekében.
+
+*5. Cikk*
+
+A jelen Egyezmény alapján, az egyik Szerződő Fél által átadott információkat, bizonyítékokat, hatályos nemzetközi rendelkezésekkel összhangban, a másik Szerződő Fél csak a bűnügyi jogsegélykérelem benyújtása után használhatja fel az igazságügyi hatóságok joghatósága alá tartozó ügyekben.
+
+*6. Cikk*
+
+(1) A Szerződő Felek jelen Egyezmény 12. Cikkében meghatározott illetékes szervei, belső jogszabályi előírásaik szerint, feladat- és hatáskörükben operatív módon együttműködnek. A segítségnyújtás tárgyában történő megkereséseket és az azokra adott válaszokat, valamint az egyéb információkat írásban küldik meg egymásnak.
+
+(2) Ha a megkeresés megfelelő időben a jelen Egyezmény 12. Cikkében foglalt központi hatóságokon keresztül nem továbbítható, akkor a megkeresést kivételesen és kizárólag sürgős esetben a megkereső Szerződő Fél területileg illetékes hatóságai közvetlenül a megkeresett Szerződő Fél területileg illetékes hatóságaihoz is eljuttathatják, s utóbbiak közvetlenül válaszolhatnak. E kivételes esetekben a területileg illetékes megkereső hatóság a legrövidebb időn belül köteles tájékoztatni a közvetlen kérelemről a megkeresett Szerződő Fél nemzetközi együttműködéssel megbízott központi szervét, megindokolva a kérelem sürgősségét.
+
+(3) A (2) bekezdésben foglalt információcsere szóban is történhet, feltéve, hogy azt a lehető legrövidebb határidőn belül írásban megerősítik.
+
+(4) A segítségnyújtásra vonatkozó kérelem akkor minősül sürgősnek, ha a központi szervek szabályszerű megkeresése azzal a veszéllyel jár, hogy az a bűnmegelőzési, illetve felderítési akciók sikerességét kockáztatná.
+
+*7. Cikk*
+
+(1) Mindkét Szerződő Fél biztosítja a másik Szerződő Fél által átadott minősített adatok és technikai eszközök védelmét az átadó titokvédelmi szabályainak megfelelően, amennyiben azok az átadó Szerződő Fél jogszabályai értelmében titkosnak minősülnek és ilyen jelöléssel látták el azokat.
+
+(2) A jelen Egyezmény keretében átadott minősített adatok, anyagok vagy technikai eszközök harmadik fél részére történő továbbadása csak az átadó Szerződő Fél előzetes, írásbeli hozzájárulásával lehetséges.
+
+*8. Cikk*
+
+(1) A Szerződő Felek határozott vagy határozatlan időtartamra összekötő tiszteket küldhetnek egymás országába.
+
+(2) Az összekötő tisztek kiküldésének célja a Szerződő Felek közötti együttműködés meggyorsítása, valamint a folyamatos segítségnyújtás biztosítása:
+
+*a)* a szervezett bűnözés megelőzését és visszaszorítását szolgáló információcserében;
+
+*b)* a bűnügyi tárgyú megkeresések teljesítésében;
+
+*c)* a külső határok védelmével és a bevándorlással megbízott hatóságok feladatainak gyakorlásához szükséges segítségnyújtásban;
+
+*d)* a közrendet fenyegető veszélyek elhárításával megbízott hatóságok feladatai ellátásához szükséges információk átadása révén.
+
+(3) Az összekötő tisztek feladata a véleményezés és a segítségnyújtás. Rendőri intézkedések önálló elvégzésére nem jogosultak. Az információ továbbítása és feladataik végzése a küldő Szerződő Fél és azon Szerződő Fél utasításai alapján történik, amely mellett tevékenykednek. Rendszeres időközönként beszámolnak azon Szerződő Fél rendőri együttműködéssel megbízott központi hatóságának, amely mellett tevékenykednek.
+
+(4) A Szerződő Felek illetékes miniszterei megállapodhatnak abban, hogy az egyik Szerződő Fél harmadik államokban tevékenykedő összekötő tisztjei képviselik a másik Szerződő Fél érdekeit is.
+
+(5) A jelen Egyezmény végrehajtása érdekében kiküldött összekötő tiszteket – amennyiben nem tagjai a diplomáciai testületnek – a Szerződő Felek megállapodása alapján a diplomáciai testület tagjait megillető jogokkal, kötelezettségekkel, kiváltságokkal, mentességekkel ruházhatják fel.
+
+*A személyes adatok védelme*
+
+*9. Cikk*
+
+(1) Jelen Egyezmény alkalmazása során a személyes adatok kezelésére a Szerződő Felek országainak belső jogszabályaiban foglaltak, valamint az alábbi szabályok az irányadóak:
+
+*a)* amennyiben a jelen Egyezmény alkalmazása során az információcsere keretében személyes adatokat is átadnak, úgy teljes mértékben tiszteletben kell tartani az Európa Tanács keretében Strasbourgban, 1981. január 28-án, az egyének védelméről a személyes adatok automatizált feldolgozására vonatkozóan létrejött Egyezmény rendelkezéseit és az Európa Tanács Miniszteri Bizottsága által 1987. szeptember 17-én elfogadott, R (87)15 számú ajánlásában foglalt alapelveket, amelyek a személyes adatoknak a rendőrségi apparátusban történő felhasználását szabályozzák;
+
+*b)* a személyes adatokat az átvevő Szerződő Fél kizárólag azokra a célokra használhatja fel amelyekre a jelen Egyezmény ezen adatok felhasználását lehetővé teszi, illetve amelyeket az átadó meghatároz;
+
+*c)* a jelen Cikk (1) bekezdés b) pontjában foglaltakkal összhangban személyes adatokat kizárólag a szervezett bűnözés elleni harcban illetékes hatóságoknak, a kábítószerekkel és pszichotrop anyagokkal való visszaélésben és a terrorizmus elleni harcban illetékes szerveknek lehet átadni. Más hatóságoknak kizárólag az adatokat átadó Szerződő Fél előzetes hozzájárulása alapján lehet átadni. A Szerződő Felek átadják egymásnak a felhasználók listáját;
+
+*d)* az átadó Szerződő Fél köteles az átadandó adatok helyességére ügyelni, valamint mérlegelni, hogy az átadás szükséges és arányban áll az átadás céljával. Ha az adatok átadását követően az átadó Szerződő Fél akár hivatalból, akár az érintett személy megkeresésére meggyőződött arról, hogy téves vagy át nem adható adatok is átadásra kerültek, úgy erről haladéktalanul tájékoztatja a fogadó Szerződő Felet, amely helyesbíti a téves adatokat, illetve megsemmisíti az át nem adhatóakat;
+
+*e)* egyik Szerződő Fél sem hivatkozhat arra, hogy a másik Szerződő Fél téves adatokat adott át, hogy így mentesüljön a belső jogszabályai alapján fennálló felelőssége alól. Amennyiben az átvevő Szerződő Felet az átvett adatok pontatlanságáért az átvevő állam bírósága kártérítésre kötelezte, a kárt az átadó Szerződő Fél köteles az átvevő Félnek teljes mértékben megtéríteni;
+
+*f)* az átadott és átvett személyes adatokról, azok törléséről és megsemmisítéséről mindkét Szerződő Félnek nyilvántartást kell vezetnie. A Szerződő Felek megküldik egymásnak azon hatóságok és szolgálatok jegyzékét, amelyek felhatalmazást kaptak a nyilvántartásokba való betekintésre;
+
+*g)* a személyes adatokba való betekintést annak a Szerződő Félnek belső jogszabályai szerint kell engedélyezni, amelytől az érintett személy a betekintést kérte. A személyes adatokról csak az adatokat átadó Szerződő Fél előzetes hozzájárulásával lehet tájékoztatást adni;
+
+*h)* az átadó Szerződő Fél az adatok átadásánál országa jogszabályaival összhangban közli az érvényes adattörlési határidőket. Ezektől a határidőktől függetlenül törölni kell az érintett személyre vonatkozó adatokat, ha azok szükségessége megszűnik. Az átadó Szerződő Felet értesíteni kell az átvett adat törléséről és annak okáról. Jelen Egyezmény megszűnése esetén minden adatot meg kell semmisíteni;
+
+*i)* a Szerződő Felek kötelesek a személyes adatokat hatásosan védeni az illetéktelen hozzáférés, megváltoztatás, nyilvánosságra hozatal, valamint a véletlen vagy szándékos elvesztés vagy megsemmisítés ellen.
+
+(2) Mindkét Szerződő Fél kijelöl egy független ellenőrző szervet, amely saját területén, a belső jogszabályok figyelembevételével ellenőrzi a jelen Egyezmény alapján átadott személyes adatok kezelését, valamint hogy a kezelés során nem sérültek-e az érintett személy jogai. A fenti ellenőrző szervek illetékesek abban is, hogy elemezzék a jelen Egyezmény alkalmazásával, illetve értelmezésével kapcsolatos, a személyes adatok kezelését illető nehézségeket. Ezek az ellenőrző szervek megállapodhatnak abban, hogy együttműködnek a jelen Egyezményből rájuk háruló feladatok ellátásában.
+
+(3) A jelen Egyezmény rendelkezéseit kell alkalmazni abban az esetben is, ha a személyes adatok átadására a 8. Cikkben megjelölt összekötő tiszt útján kerül sor.
+
+*A segítségnyújtás megtagadása*
+
+*10. Cikk*
+
+(1) Mindkét Szerződő Fél megtagadja a segítségnyújtást a politikai vagy katonai bűncselekmények tekintetében, valamint, ha a segítségnyújtás ellentétben áll hatályos belső jogszabályaival.
+
+(2) Mindkét Szerződő Fél részben vagy egészben megtagadhatja vagy feltételektől teheti függővé a segítségnyújtást a politikai vagy katonai bűncselekmények tekintetében, illetve ha a segítségnyújtás veszélyezteti, illetőleg sérti államának szuverenitását, biztonságát, közrendjét vagy egyéb alapvető érdekeit.
+
+*Az együttműködés egyéb területei*
+
+*11. Cikk*
+
+(1) A Szerződő Felek megállapodnak abban, hogy kölcsönösen segítik egymást a szakképzés és a jelen Egyezmény végrehajtásában illetékes szervek működésével kapcsolatos problémák megoldását célzó technikai segítségnyújtás területén.
+
+(2) A Szerződő Felek megállapodnak, hogy a jelen Egyezmény által meghatározott valamennyi területen kicserélik gyakorlati tapasztalataikat, beleértve a kábítószer-függéssel kapcsolatos ismereteket is.
+
+(3) Az átadott információk, adatok, anyagok vagy technikai eszközök harmadik országok részére történő továbbadása csak az átadó Szerződő Fél írásos hozzájárulásával lehetséges.
+
+*Központi hatóságok*
+
+*12. Cikk*
+
+(1) A jelen Egyezmény végrehajtására felhatalmazott központi hatóságok a következők:
+
+*a)* A Magyar Köztársaság részéről:
+
+– a Belügyminisztérium,
+
+– az Országos Rendőr-főkapitányság,
+
+– a Határőrség Országos Parancsnoksága,
+
+– a Pénzügyminisztérium,
+
+– a Vám- és Pénzügyőrség Országos Parancsnoksága,
+
+– a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter hivatala,
+
+– a legális kábítószer-előállítást, illetve -forgalmazást érintő információk tekintetében az Egészségügyi Minisztérium.
+
+*b)* A Belga Királyság részéről:
+
+– az Általános Rendőrségi Együttműködési Szolgálat.
+
+(2) A jelen Megállapodás alapján együttműködő illetékes központi hatóságok változásáról a Szerződő Felek illetékes miniszterei diplomáciai úton tájékoztatják a másik Szerződő Felet.
+
+(3) A kölcsönös segítségnyújtás módját és végrehajtásának részletes szabályait a Szerződő Felek illetékes miniszterei végrehajtási megállapodásban szabályozhatják.
+
+*Egyeztetés*
+
+*13. Cikk*
+
+(1) A Szerződő Felek illetékes miniszterei Vegyes Bizottságot hoznak létre, amelyben mindkét Szerződő Fél képviselői részt vesznek. Kölcsönösen tájékoztatják egymást a Vegyes Bizottságba kijelölt személyekről, valamint a végrehajtásra kijelölt szervekről.
+
+(2) A Vegyes Bizottság feladata a jelen Egyezményben meghatározott együttműködés elősegítése és rendszeres értékelése. A Bizottság kétévente tartja üléseit, felváltva a Magyar Köztársaság, illetve a Belga Királyság területén. Rendkívüli találkozót bármelyik Szerződő Fél kezdeményezhet.
+
+(3) A Vegyes Bizottság szükség esetén Albizottságokat hoz létre, valamint szakértőket vehet igénybe az együttműködés egyes feladatainak kidolgozására.
+
+*14. Cikk*
+
+A jelen Egyezmény végrehajtása során – a Szerződő Felek képviselőinek eltérő megállapodása hiányában – mindkét Szerződő Fél maga viseli a nála felmerülő költségeket.
+
+*A viták rendezése*
+
+*15. Cikk*
+
+(1) A jelen Egyezmény értelmezésével vagy alkalmazásával esetleg felmerülő viták rendezése a jelen Egyezmény 13. Cikke alapján felállított Vegyes Bizottság hatáskörébe tartozik.
+
+(2) Amennyiben a vitatott kérdésben a Vegyes Bizottság nem tud dönteni, a vitát diplomáciai úton kell rendezni.
+
+*Záró rendelkezések*
+
+*16. Cikk*
+
+(1) A jelen Egyezmény akkor lép hatályba, amikor a Szerződő Felek kölcsönösen diplomáciai úton, írásban tájékoztatták egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásoknak.
+
+(2) A jelen Egyezmény az utolsó ilyen tájékoztatás átvételét követő harmadik hónap első napján lép hatályba.
+
+(3) A jelen Egyezmény határozatlan időre szól, és azt bármelyik Szerződő Fél diplomáciai úton, írásban bármikor felmondhatja. Ez esetben a jelen Egyezmény a felmondás kézhezvételtől számított hat hónap elteltével hatályát veszti.
+
+(4) A jelen Egyezmény módosítását bármelyik Szerződő Fél kezdeményezheti. A jelen Egyezmény módosítását a Szerződő Felek külön megállapodásban szabályozzák.
+
+Mindezek hiteléül alulírott meghatalmazottak aláírásukkal látták el a jelen Egyezményt.
+
+Készült Bruxellesben, 1998. év, november hónap, 4. napján, két eredeti példányban, magyar, francia és flamand nyelven, mindhárom nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Belga Királyság\
+Kormánya nevében''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2002. szeptember 1. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az egészségügyért felelős miniszter gondoskodik.[^2]
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 155. pontja szerint módosított szöveg.
+[^2]: A polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter hatáskörét a Miniszterelnöki Hivatalt vezető miniszter, az egészségügyi miniszter hatáskörét az egészségügyi, szociális és családügyi miniszter gyakorolja [2002. évi XI. tv., 148/2002. (VII. 1.) Korm. r., 142/2002. (VI. 28.) Korm. r.].

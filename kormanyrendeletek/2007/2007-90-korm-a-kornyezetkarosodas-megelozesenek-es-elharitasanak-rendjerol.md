@@ -1,0 +1,688 @@
+---
+title: "90/2007. (IV. 26.) Korm. rendelet a környezetkárosodás megelőzésének és elhárításának rendjéről"
+identifier: "90/2007. (IV. 26.) Korm. rendelet"
+njt_id: "2007-90-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/90"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-04-26
+in_force_from: 2009-10-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-90-20-22"
+retrieved: 2026-10-12
+---
+
+# 90/2007. (IV. 26.) Korm. rendelet a környezetkárosodás megelőzésének és elhárításának rendjéről
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. §-ának (a továbbiakban: Kvt.) v) pontjában, a természet védelméről szóló 1996. évi LIII. törvény 85. §-ának a) pontjában, a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 18. §-ának (2) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya kiterjed:
+
+a) a felszíni vizekre;
+
+b) a felszín alatti vizekre és földtani közegre;
+
+c) a vadon élő madarak védelméről szóló a Tanács 79/409/EGK irányelvének (a továbbiakban: madárvédelmi irányelv) 4. cikke (2) bekezdésében, valamint I. mellékletében meghatározott fajokra, élőhelyeikre, költő és pihenőhelyeikre;
+
+d) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről szóló a Tanács 92/43/EGK irányelvének (a továbbiakban: élőhelyvédelmi irányelv) II. és IV. mellékletében meghatározott fajokra és élőhelyeikre, költő és pihenőhelyeikre, valamint az I. mellékletében meghatározott természetes élőhelyekre;
+
+e) a védett és fokozottan védett fajokra;
+
+f) a Natura 2000 területekre;
+
+g) az országos jelentőségű védett természeti területekre.
+
+## Általános rendelkezések
+
+### 2. §
+
+(1) A környezetveszélyeztetés megszüntetése érdekében környezetkárosodást megelőző intézkedéseket, a környezetkárosodás megszüntetése érdekében helyreállítási intézkedéseket kell tenni. A helyreállítási intézkedés keretében kárelhárítást, illetve kármentesítést kell végezni.
+
+(2) A környezethasználó környezetveszélyeztetés esetén köteles minden környezetkárosodást megelőző intézkedést megtenni a környezetkárosodás enyhítése, illetve a további környezetkárosodás megakadályozása érdekében, így különösen haladéktalanul ellenőrzése alá vonni, feltartóztatni, eltávolítani vagy más megfelelő módon kezelni a környezetkárosodást okozó anyagokat, illetve más károsító tényezőket.
+
+(3) A környezethasználó azonnali beavatkozást igénylő környezetkárosodás bekövetkezése esetén kárelhárítást (a továbbiakban: kárelhárítás), minden más esetben kármentesítést köteles végezni. A kármentesítés szabályait külön jogszabály tartalmazza.[^1]
+
+(4) Azonnali beavatkozás szükséges, amennyiben a környezetkárosodás a közegészségügyet, a közbiztonságot veszélyezteti, illetve amennyiben a környezetkárosodás felszámolása azonnali beavatkozással eredményesebben, hatékonyabban, gazdaságosabban végrehajtható, illetve a jövőbeni környezetkárosodás megelőzhető.
+
+(5) A kárelhárítás során biztosítani kell, hogy
+
+a) a környezetkárosodás ne tevődjön át más környezeti elemre,
+
+b) a lehető legkisebb környezeti terheléssel járjon,
+
+c) ne okozzon környezetveszélyeztetést, illetve környezetkárosodást.
+
+(6)[^2] A környezethasználó a környezetveszélyeztetés, illetve környezetkárosodás helyéről, jellegéről és mértékéről
+
+a) – amennyiben az az 1. § a) vagy b) pontja szerinti környezeti elemet érinti – a területi vízügyi hatóságot (a továbbiakban: vízügyi hatóság) és a területi vízügyi igazgatóságot (a továbbiakban: VIZIG),
+
+b)[^3] – amennyiben az az 1. § c)–g) pontja szerinti környezeti elemet érinti – a környezetvédelmi és természetvédelmi hatóságot (a továbbiakban együtt: környezetvédelmi hatóság) és a Nemzeti Park Igazgatóságot (a továbbiakban: NPI)
+
+haladéktalanul köteles tájékoztatni.
+
+### 3. §
+
+(1)[^4] Amennyiben a környezetkárosodás határon túlról terjed át, illetve a környezethasználó személye ismeretlen, vagy a környezethasználó környezetkárosodást megelőző intézkedést nem tesz, kárelhárítást nem végez, illetve azokat nem vagy nem megfelelően végzi, akkor az e rendelet szerinti környezetkárosodást megelőző intézkedések megtétele és a kárelhárítás elvégzése – figyelemmel a 17. § (1) bekezdésére –,
+
+a)[^5] az 1. § a) és b) pontja szerinti környezeti elem esetében, valamint azoknál a vizeknél és vízilétesítményeknél, amelyek az 1. § f) és g) pontja szerinti területeken vannak, a vízügyi hatóság megbízása alapján a VIZIG,
+
+b)[^6] az a) pont kivételével az 1. § c)–g) pontja szerinti környezeti elem esetében a környezetvédelmi hatóság megbízása alapján a NPI
+
+feladata.
+
+(2) Az (1) bekezdés b) pontja esetében a környezethasználót értesíteni kell.
+
+(3)[^7] Amennyiben a környezethasználó személye ismert, azonban önmaga nem képes a környezetkárosodást megelőző intézkedések megtételére, a kárelhárítás elvégzésére, az (1) bekezdés a) pontja szerinti környezeti elem esetében a VIZIG szakmai irányítása mellett, az (1) bekezdés b) pontja szerinti környezeti elem esetében az NPI szakmai irányítása mellett köteles részt venni a kárelhárításban.
+
+(4) Amennyiben a kárelhárítást tűz- és robbanásveszélyes vagy veszélyes vegyi, biológiai, illetőleg radiológiai körülmények között kell folytatni, azt – részben, illetve egészben – az erre hatáskörrel rendelkező szervezetek hajtják végre.
+
+### 4. §[^8]
+
+(1) A környezethasználó, illetve a környezetvédelmi és természetvédelmi, valamint a vízügyi szervek a kárelhárítás feladatainak végrehajtását elsősorban saját erőforrásaikkal látják el.
+
+(2) Ha a kárelhárítás ellátásához a saját erőforrás nem elegendő, a környezethasználó
+
+a) az 1. § a) és b) pontja szerinti környezeti elem esetében – a VIZIG-nél, a VIZIG és a vízügyi hatóság vezetője az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) főigazgatójánál kezdeményezi más vízügyi szervek erőforrásainak (így például anyagainak és eszközeinek) igénybevételét,
+
+b)[^9] az 1. § c)–g) pontja szerinti környezeti elem esetében – az NPI-nél, az NPI az országos környezetvédelmi hatóságnál kezdeményezi más környezetvédelmi szervek erőforrásainak (így például anyagainak és eszközeinek) igénybevételét,
+
+(3) Amennyiben a kárelhárítás több környezeti elemet érint, a kárelhárítást az érintett környezeti elemekre nézve csak együttesen, egymásra tekintettel lehet elvégezni.
+
+(4)[^10] A VIZIG-ek kárelhárítási tevékenységét az OVF útján a vízügyi igazgatási szervek irányításáért felelős miniszter irányítja. Az NPI kárelhárítási tevékenységét az országos környezetvédelmi és természetvédelmi hatóság útján a környezetvédelemért felelős miniszter irányítja.
+
+(5)[^11] A kárelhárítás során teljesítendő mintavételeket és méréseket – elsődlegesen államigazgatási vagy központi költségvetési szerv által működtetett – akkreditált mintavételi szerv és laboratórium által kell biztosítani.
+
+## A feladatok megoszlása
+
+### 5. §[^12]
+
+A kárelhárításra való felkészülésben a környezethasználó és a vízügyi igazgatási, valamint a környezetvédelmi szervek feladataikat önállóan és e rendeletben meghatározott együttműködéssel hajtják végre.
+
+## Kárelhárítási tervek
+
+### 6. §
+
+(1) A kárelhárítást – amennyiben rendelkezésre áll – üzemi és területi tervek alapján kell végrehajtani.
+
+(2)[^13] A kárelhárítási területi tervek készítésére
+
+a) az 1. § a) vagy b) pontja szerinti környezeti elem esetében a VIZIG,
+
+b) 1. § c)–g) pontja szerinti környezeti elem esetében az NPI
+
+köteles.
+
+(2a)[^14] A (2) bekezdés a) pontja szerinti kárelhárítási területi terveket a vízgyűjtő-gazdálkodási tervvel összhangban kell kidolgozni.
+
+(3) Üzemi terv készítésére e rendelet 2. számú melléklete szerinti tevékenység végzője köteles.
+
+(4)[^15] A környezetvédelmi hatóság vagy a vízvédelmi hatóság határozata alapján a 2. számú melléklet szerinti tevékenység végzőjén kívül üzemi tervet az a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) is köteles készíteni, amely által alkalmazott, a környezetet veszélyeztető technológia ezt indokolja.
+
+(5)[^16] A területi és az üzemi tervet a környezetvédelmi hatóság hagyja jóvá.
+
+(6)[^17] Az üzemi terv jóváhagyására irányuló eljárásba a VIZIG ügyfélként kerül bevonásra.
+
+## Az üzemi tervek tartalma, elkészítése és elhelyezése
+
+### 7. §
+
+(1) Az üzemi terveknek e rendelet 1. számú melléklete szerinti adatokat, dokumentumokat és nyilvántartásokat kell tartalmazniuk.
+
+(2)[^18] Az üzemi terveket elektronikus úton kell megküldeni a jóváhagyást végző környezetvédelmi hatóságnak, továbbá a működési terület szerinti VIZIG-nek és NPI-nek.
+
+(3)[^19] Az e rendelet szerinti üzemi tervet a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján a víz és a földtani közeg részszakterületen szakértői jogosultsággal rendelkező szakértő vagy tervező készíti el.
+
+## Az üzemi tervek karbantartása, felülvizsgálata és módosítása
+
+### 8. §
+
+(1) Az üzemi kárelhárítási tervek adatainak folyamatos vezetéséről, az adatokban bekövetkezett változás rögzítéséről, átvezetéséről, illetve a terv ezzel összefüggő felülvizsgálatáról – ideértve az üzem munkarendjében bekövetkezett változásokat – a terv készítésére kötelezettnek kell gondoskodnia.
+
+(2)[^20] A változásokról a környezetvédelmi hatóságot 30 napon belül értesíteni kell. A környezetvédelmi hatóság a változásról haladéktalanul értesíti
+
+a) a vízügyi hatóságot és a VIZIG-et, ha a jóváhagyott terv az 1. § a) vagy b) pontja szerinti környezeti elemet érinti,
+
+b) az NPI-t, ha a jóváhagyott terv az 1. § c)–g) pontja szerinti környezeti elemet érinti.
+
+### 9. §
+
+(1) A terveket a terv készítésére kötelezettnek – a változások átvezetésétől függetlenül – ötévenként, továbbá az üzem technológiájában, a gazdálkodó szervezet ezzel összefüggő tevékenységi körében bekövetkezett változást követő 60 napon belül felül kell vizsgálnia.
+
+(2)[^21] Ha a rendelet hatálya alá tartozó gazdálkodó szervezetnél az alkalmazott technológia, illetve tevékenység módosulása nem jelentős és az (1) bekezdés szerinti felülvizsgálat nem szükséges, úgy a változás bekövetkezésétől számított 30 napon belül a környezetvédelmi hatóságot erről kell tájékoztatni. A környezetvédelmi hatóság a változásról haladéktalanul értesíti
+
+a) a vízügyi hatóságot és a VIZIG-et, ha a jóváhagyott terv az 1. § a) vagy b) pontja szerinti környezeti elemet érinti,
+
+b) az NPI-t, ha a jóváhagyott terv az 1. § c)–g) pontja szerinti környezeti elemet érinti.
+
+### 10. §
+
+(1) Amennyiben e rendelet hatálya alá tartozó, tervkészítésre kötelezett gazdálkodó szervezet vízhasználat gyakorlásával vagy vízilétesítmény üzemeltetésével egyben vízjogi engedélyezési kötelezettség alá tartozó tevékenységet is végez, a tervekkel kapcsolatos kötelezettségek teljesítését a Vgtv.-ben meghatározott vízügyi felügyeleti ellenőrzés során is vizsgálni kell.
+
+(2)[^22] Ha az ellenőrzés eredménye alapján az állapítható meg, hogy a gazdálkodó szervezet a tervek elkészítésével, rendszeres karbantartásával vagy módosításával kapcsolatos feladatait (ideértve a terv tartalmi teljességét is) nem teljesítette, a vízvédelmi hatóság a gazdálkodó szervezetet e rendelet szerinti terv benyújtására vagy kiegészítésére kötelezi.
+
+## A kárelhárítási anyagok és eszközök készenlétben tartása
+
+### 11. §
+
+(1) A kárelhárításhoz szükséges anyagokat és eszközöket a kárelhárítási tervek alapján kell meghatározni.
+
+(2)[^23] A területi kárelhárítási tervekben rögzített kárelhárítási anyagok és eszközök készenlétben tartásáról – a 3. § (1) bekezdésében meghatározott feladat-megosztás alapján – a VIZIG vagy a NPI gondoskodik.
+
+## A KÖRNYEZETVÉDELMI ÉS VÍZÜGYI SZERVEKRE VONATKOZÓ KÜLÖNLEGES RENDELKEZÉSEK
+
+## Az adatok nyilvántartása
+
+### 12. §[^24]
+
+(1)[^25] A környezetvédelmi hatóság és a természetvédelmi hatóság köteles az illetékességi területén a 7. § szerinti üzemi tervekből származó adatokat nyilvántartani, továbbá azokat a lehetséges szennyező-forrásokat felmérni és nyilvántartani, amelyek rendkívüli mértékben veszélyeztethetik a térségben a környezeti elemek eredeti állapotát.
+
+(2)[^26] A kárelhárítás egységes adatnyilvántartását a környezetvédelmi hatóság kezeli, és az adatok hozzáférhetőségét a vízügyi hatóság, a VIZIG és az NPI, valamint a hivatalos statisztikai szolgálathoz tartozó szervek számára biztosítja.
+
+(3)[^27] Az országos környezetvédelmi hatóság a területi környezetvédelmi hatóság, a területi természetvédelmi hatóság és a területi vízvédelmi hatóságok által szolgáltatott adatok alapján országos nyilvántartást vezet.
+
+(4)[^28]
+
+## Kárelhárítási gyakorlatok
+
+### 13. §[^29]
+
+(1) A 3. § (1) bekezdése szerinti feladatmegosztás alapján a VIZIG és az NPI – a (2) bekezdés szerinti kivétellel – évente köteles megszervezni és lebonyolítani, az együttműködő szervezetek bevonásával, a kárelhárítási gyakorlatokat a beosztott munkatársak részére felkészítés és továbbképzés céljából.
+
+(2)[^30] A gyakorlat megtartása – az OVF főigazgatója, illetve az országos környezetvédelmi és természetvédelmi hatóság vezetőjének jóváhagyásával – mellőzhető, ha az adott évben a VIZIG, illetve az NPI III. fokú kárelhárítási készültségben volt.
+
+## A környezetkárosodás észlelése
+
+### 14. §
+
+A környezetkárosodás észlelése céljából
+
+a)[^31] a vizeket és a földtani közeget érintő rendkívüli szennyezések felderítése érdekében a VIZIG figyelőhálózatot, és mérő-megfigyelő rendszert működtet;
+
+b) külön jogszabály alapján a NPI a természetvédelmi őrszolgálatban megfigyelést végez;
+
+c) a külön jogszabály alapján működő erdővédelmi mérő- és megfigyelő rendszer alapján az erdészeti hatóság megfigyelést végez.
+
+## A környezetkárosodás felderítése
+
+### 15. §[^32]
+
+(1) A környezetkárosodás felderítésére bejelentésre vagy hivatalból kerülhet sor.
+
+(2)[^33] A környezetkárosodás felderítése a vízügyi hatóság, a környezetvédelmi hatóság, a VIZIG és az NPI feladata.
+
+(3)[^34] A környezetvédelmi hatóságnál, a vízügyi hatóságnál és a VIZIG-en állandó ügyeletet kell tartani. A környezetkárosodással kapcsolatos bejelentésről a (2) bekezdés szerinti szervek egymást azonnal értesítik.
+
+(4)[^35] A vízügyi igazgatási szervek irányításáért felelős miniszter az OVF-en folyamatosan működő Központi Ügyeletet tart fenn, amely fogadja országos szinten a felszíni és felszín alatti vizekkel, a vízkárelhárítással és a vízgazdálkodással összefüggő bejelentéseket, és azokat továbbítja a VIZIG-hez, a vízügyi hatósághoz és a környezetvédelmi hatósághoz.
+
+(5)[^36] A bejelentés alapján az 1. § a) és b) pont szerinti környezeti elem esetében a VIZIG haladéktalanul köteles az NPI, a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró kijelölt járási (fővárosi kerületi) hivatala és a vízügyi hatóság bevonásával az esetet a helyszínen kivizsgálni. A bejelentés alapján az 1. § c)–g) pontja esetében a NPI haladéktalanul köteles a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró kijelölt járási (fővárosi kerületi) hivatala és a környezetvédelmi hatóság bevonásával az esetet a helyszínen kivizsgálni.
+
+(6)[^37] A kivizsgálásba a halgazdálkodásról és a hal védeleméről szóló külön jogszabályok szerinti tiltott halfogási eszközök és módszerek következtében fellépő halpusztulás esetén halgazdálkodási hatáskörében eljáró Pest Vármegyei Kormányhivatalt, valamint az erdőket érintő környezetveszélyeztetés és környezetkárosodás esetén az erdészeti hatáskörében eljáró Pest Vármegyei Kormányhivatalt is be kell vonni.
+
+## A környezetkárosodás minősítése
+
+### 16. §[^38]
+
+(1)[^39] A környezetkárosodás minősítése
+
+a)[^40] az 1. § a)–b) pontja szerinti környezeti elem esetében a vízügyi hatóság feladata – a környezetvédelmi és természetvédelmi hatóság, a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala, a VIZIG, az NPI és az erdészeti hatáskörében eljáró Pest Vármegyei Kormányhivatal bevonásával,
+
+b)[^41] az 1. § c)–g) pontja szerinti környezeti elem esetében a környezetvédelmi és természetvédelmi hatóság, valamint a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala feladata – a vízügyi hatóság, a VIZIG, az NPI és az erdészeti hatáskörében eljáró Pest Vármegyei Kormányhivatal bevonásával.
+
+(2)[^42] A környezetkárosodás minősítéséhez
+
+a) a VIZIG az 1. § a) és b) pontja szerinti környezeti elem,
+
+b) az NPI az 1. § c)–g) pontja szerinti faj, élőhely, terület,
+
+c)[^43] a fővárosi és vármegyei kormányhivatal közegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal a környezet-egészségügy,
+
+d)[^44] a vármegyei kormányhivatal erdészeti feladatkörében eljáró járási hivatala az erdők
+
+érintettsége szerint szolgáltat információt.
+
+(3)[^45] A minősítés során meg kell állapítani, hogy a környezetveszélyeztetés milyen mértékben veszélyezteti a vizeket és a földtani közeget, a vízi környezetet, a vízhasználatokat és a vízi-létesítményeket, az élővilágot és élőhelyeket. A beavatkozás szükségességéről a VIZIG, az NPI, a vármegyei kormányhivatal erdészeti feladatkörében eljáró járási hivatala és a fővárosi és vármegyei kormányhivatal közegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala javaslata alapján, valamint ezek hiányában az 1. § a) és b) pontja szerinti környezeti elem esetében a vízügyi hatóság, az 1. § c)–g) pontja szerinti környezeti elem esetében a környezetvédelmi hatóság dönt.
+
+(4) A minősítés alapján a VIZIG és az NPI együttműködve kialakítja a védekezés lehetséges módozatait és egyidejűleg tájékoztatja
+
+a) az 1. § a) és b) pontja szerinti környezeti elem esetében a vízügyi hatóságot,
+
+b)[^46] az 1. § c)–g) pontja szerinti környezeti elem esetében a környezetvédelmi hatóságot.
+
+## A kárelhárítás végrehajtásának műveleti irányítása
+
+### 17. §
+
+(1)[^47] A környezetkárosodás elhárításának műveleti irányítása
+
+a) az 1. § a) és b) pontja szerinti környezeti elem esetében és azoknál a vizeknél és vízilétesítményeknél, amelyek az 1. § f) és g) pontja szerinti területeken vannak, de a VIZIG vagyonkezelésében állnak, a VIZIG,
+
+b) az a) pontban foglaltak kivételével az 1. § c)–g) pontja szerinti környezeti elem esetében az NPI feladata.
+
+(2)[^48]
+
+(3) Az eltávolított hulladék biztonságos elhelyezése a műveleti kárelhárítást végző szerv feladata.
+
+## A kárelhárítás készültségi fokozatai
+
+### 18. §
+
+(1) A kárelhárítás feladatait készültségi fokozatokban kell ellátni.
+
+(2) A kárelhárítás készültségi fokozatai:
+
+a) I. fokú készültség: a környezetkárosodás felderítése;
+
+b) II. fokú készültség: a műveleti végrehajtást megelőző intézkedések megtétele;
+
+c) III. fokú készültség: a kárelhárítás műveleti végrehajtása.
+
+## A készültségi fokozatok elrendelése és megszüntetése
+
+### 19. §[^49]
+
+(1) A kárelhárítás érdekében, az 1. § a) és b) pontja szerinti környezeti elem esetében, és azoknál a vizeknél és vízilétesítményeknél, amelyek az 1. § f) és g) pontja szerinti területeken vannak, de a VIZIG vagyonkezelésében állnak, a VIZIG rendeli el a vízügyi hatóság és NPI bevonásával
+
+a)[^50] az I. fokú készültséget, ha a VIZIG, az NPI és a vízügyi hatóság rendkívüli környezetkárosodásról szerzett tudomást, és helyszíni kárfelmérést kell tartani,
+
+b)[^51] a II. fokú készültséget, ha helyszíni kárfelmérés alapján a műveleti irányítást közvetlenül megelőző intézkedések (így különösen mintavétel, elemzés, értékelés) válhatnak szükségessé,
+
+c)[^52] a III. fokú készültséget, ha helyszíni kárfelmérés vagy a minták elemzésének eredménye alapján azonnali beavatkozásra (így különösen a szennyezés lokalizálására, közömbösítésére, eltávolítására, a partok, vízkivételek megvédésére) van szükség.
+
+(2)[^53] A kárelhárítás érdekében, az 1. § c)–g) pontja szerinti környezeti elem esetében – az (1) bekezdés kivételével – az NPI rendeli el a környezetvédelmi hatóság és a VIZIG bevonásával
+
+a)[^54] az I. fokú készültséget, ha a VIZIG, az NPI és a környezetvédelmi hatóság rendkívüli környezetkárosodásról szerzett tudomást, és helyszíni kárfelmérést kell tartani,
+
+b)[^55] a II. fokú készültséget, ha helyszíni kárfelmérés alapján a műveleti irányítást közvetlenül megelőző intézkedések (így különösen mintavétel, elemzés, értékelés) válhatnak szükségessé,
+
+c)[^56] a III. fokú készültséget, ha helyszíni kárfelmérés vagy a minták elemzésének eredménye alapján azonnali beavatkozásra (így különösen a szennyezés lokalizálására, közömbösítésére, eltávolítására, a partok, vízkivételek megvédésére) van szükség.
+
+(3)[^57] A készültség fokozatait a VIZIG, illetve az NPI megszünteti, ha az azt kiváltó ok megszűnt, és annak közvetlen ismétlődésétől nem kell tartani. A vízvizsgálati eredményekről, valamint a vízjogi üzemeltetési engedélyes tevékenységéhez kapcsolódó káresemények esetén az okok megszűnéséről a vízügyi hatóság azonnal tájékoztatja a VIZIG-et.
+
+## A környezetkárosodást megelőző intézkedés és a kárelhárítás kiadásainak viselése
+
+### 20. §[^58]
+
+Az e rendelet szerinti feladatok ellátását végző költségvetési szervek felmerülő kiadásaikat maguk fedezik, de a környezetkárosodást megelőző intézkedés, illetve a kárelhárítás befejezése után a költségeknek a környezethasználóra való áthárításáról
+
+a) az 1. § a) és b) pontja szerinti környezeti elem vonatkozásában felmerült költségek esetében a vízvédelmi hatóság,
+
+b) az 1. § c)–g) pontja szerinti környezeti elem vonatkozásában felmerült költségek esetében a környezetvédelmi hatóság
+
+intézkedik.
+
+## Záró és átmeneti rendelkezések
+
+### 21. §
+
+(1)[^60] Ez a rendelet 2007. április 30-án lép hatályba.
+
+(2) E rendelet a környezeti károk megelőzése és felszámolása tekintetében a környezeti felelősségről szóló az Európai Parlament és a Tanács 2004/35/EK irányelvének (2004. április 21.) való megfelelést szolgálja.
+
+(3)[^61] E rendeletnek az egyes kormányrendeletek vízügyi tárgyú módosításáról szóló 42/2014. (II. 24.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított
+
+a) 6. § (4)–(5) bekezdését, 8. § (2) bekezdését, 9. § (2) bekezdését, 12. § (1)–(3) bekezdését, 15. § (3) és (4) bekezdését, 16. § (1) bekezdését, 16. § (2) bekezdés a) pontját, valamint 17. § (2) bekezdését a Mód. Kr. 1. hatálybalépésekor[^62] folyamatban lévő ügyekben is alkalmazni kell,
+
+b) 3. § (1) bekezdés a) és b) pontját a folyamatban lévő ügyekben nem kell alkalmazni.
+
+### 22. §[^63]
+
+E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## 1. számú melléklet a 90/2007. (IV. 26.) Korm. rendelethez
+
+**Üzemi kárelhárítási tervek tartalma**
+
+1\. *Általános tartalom:*
+
+– az üzem székhelyének, tulajdonosának és üzemeltetőjének megnevezése, címe, telefon- és telefaxszáma,
+
+– az üzem, telephely neve, címe, telefon- és telefaxszáma,
+
+– működési, üzemeltetési engedélyének hivatalos másolata,
+
+– az intézkedésre jogosult vezetők neve, beosztása, címe, telefon- és telefaxszáma,
+
+– a környezetvédelmi megbízott neve, beosztása, címe, telefon- és telefaxszáma,
+
+– a felelős vezetők elérhetősége,
+
+– az üzem tevékenységének ismertetése, az alkalmazott technológia bemutatása,
+
+– az üzem környezetének hidrogeológiai jellemzői, helyi és közeli kútadatok, különös tekintettel a potenciális szennyezőforrásokra,
+
+– a veszélyeztetett felszíni és felszín alatti vizek meghatározása,
+
+– a befogadók hidraulikai adatai (vízhozam- és vízsebesség-adatok, szelvény paraméterek) a befolyás szelvényében,
+
+– közművek (víz, gáz, telefon, távhő, elektromos ellátás),
+
+– megközelítési útvonalak,
+
+– a szennyvízgyűjtő, -kezelő, -elvezető létesítmények, a kibocsátott szennyvíz jellemző mennyiségi és minőségi paraméterei,
+
+– csapadékvíz-elvezető hálózat,
+
+– a raktározott tüzelő- és fűtőanyagok üzemen belüli tárolása, szállítási módja,
+
+– a vegyi, biológiai anyagok (nyersanyagok, félkész és késztermékek) mennyisége, üzemen belüli tárolása, szállítási módja,
+
+– a keletkező veszélyes hulladékok üzemi gyűjtésének módja, mennyisége,
+
+– az üzemi kárelhárítási anyagok raktározása.
+
+2\. *A kárelhárítási tervek szerkezete*
+
+a) Műszaki leírás
+
+Az 1. pont szerinti szöveges, táblázatos és ábrás iratanyag.
+
+b) Dokumentációk:
+
+– kárelhárítási napló (káresemények és kárelhárítási beavatkozások, intézkedések időbeli dokumentálása),
+
+– veszélyes hulladékok mennyiségének és összetételének meghatározása anyagmérleg alapján,
+
+– hatósági ellenőrzések jegyzőkönyve, intézkedési tervek,
+
+– átnézetes helyszínrajz az üzem település-földrajzi elhelyezkedéséről, megközelítési utakról, befogadókról,
+
+– részletes helyszínrajz az üzem területéről, üzemi létesítmények, úthálózat, közművek, technológiai csővezetékek, tartályok feltüntetésével,
+
+– az üzem vízellátási rendszere,
+
+– telepen belüli szennyvíz- és csapadékvíz-kezelő és -elvezető létesítmények helyszínrajza, hossz-szelvénye, a műtárgyak általános terve, működési vázlatok,
+
+– a tulajdonjog igazolása (tulajdonilap-másolat, ingatlan-nyilvántartási térképmásolat).
+
+3\. *A kárelhárítási tervek tartalma*
+
+a)[^64] Együttműködési terv:
+
+– az üzemen belüli figyelőhálózat felépítése,
+
+– a riasztás és tájékoztatás módja,
+
+– a kárelhárítás irányításáért felelős vezetők neve, beosztása, címe, telefonszáma, az üzemi kárelhárítási szervezetbe beosztott személyek neve, beosztása, címe, telefonszáma,
+
+– a területileg illetékes környezetvédelmi hatóság, közegészségügyi hatáskörben eljáró járási hivatal, Pest Vármegyei Kormányhivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
+
+– az üzem területére történő belépés rendje,
+
+– a kárelhárításba bevonható szervezetek, vállalkozások címe, együttműködési megállapodások.
+
+b) Lokalizációs terv:
+
+– a lokalizáció személyi és tárgyi erőforrás szükséglete,
+
+– az üzemen belüli, valamint az üzem és a befogadó közötti beavatkozási pontok, az állandó és ideiglenes elzáró szerkezetek helye, a felvonulási és terelő útvonalak, a lokalizációs munkák technológiai utasítása,
+
+– a lokalizációs anyagok tárolási helye és hozzáférhetősége,
+
+– illetéktelenek távol tartásának módja, a szennyezett terület körülhatárolása, figyelmeztető táblák, jelzések kihelyezése.
+
+c) Kárelhárítási műveleti terv:
+
+– a rendkívüli szennyezés megelőzésének műszaki feltételei (kármentők, figyelő- és jelzőrendszerek), a kárelhárítás erőforrás-szükséglete,
+
+– a kárelhárítási műveletek technológiai utasításai,
+
+– a kárelhárítás során keletkező veszélyes hulladék összegyűjtésének, elszállításának, ártalmatlanításának módja,
+
+– a munkavédelmi és tűzvédelmi szabályok.
+
+d) Kárelhárítási anyagok és eszközök meghatározása:
+
+– a helyszínen készletben tartandó kárelhárítási anyagok, eszközök mennyiségét – az üzemben tárolt, feldolgozott veszélyes anyagok volumenéhez igazodva – úgy kell meghatározni, hogy rendkívüli szennyezés esetén biztosítható legyen a szennyeződés telepen belüli lokalizálása,
+
+– az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
+
+## 2. számú melléklet a 90/2007. (IV. 26.) Korm. rendelethez
+
+**Üzemi terv készítésére kötelezettek**
+
+*Iparág, illetve tevékenység*
+
+1\. *Energiaipar*
+
+1.1. Tüzelőberendezések 50 MWth-ot meghaladó bemenő hőteljesítménnyel.
+
+1.2. Ásványolaj- és gázfeldolgozók (gáztisztítók).
+
+1.3. Kokszolókemencék.
+
+1.4. Szénelgázosító és -cseppfolyósító üzemek.
+
+2\. *Fémek termelése és feldolgozása*
+
+2.1. Fémérc (beleértve a szulfid ércet) pörkölő és szinterelő létesítmények.
+
+2.2. Vas vagy acél termelésére szolgáló létesítmények (elsődleges vagy másodlagos olvasztás), beleértve a folyamatos öntést is, 2,5 tonna/óra kapacitás felett.
+
+2.3. Vasfémek feldolgozására szolgáló létesítmények:
+
+a) meleghengersorok 20 tonna nyersacél/óra kapacitáson felül,
+
+b) kalapácsos kovácsműhelyek 50 kJ/kalapács feletti energiafogyasztással, ahol a felhasznált hőenergia meghaladja a 20 MW-ot,
+
+c) védő olvadékfém-bevonatok felvitele 2 tonna nyersacél/óra kapacitás felett.
+
+2.4. Vasöntödék 20 tonna/nap feletti termelési kapacitással.
+
+2.5. Létesítmények:
+
+a) nemvas fémeknek ércekből, koncentrátumokból vagy másodlagos nyersanyagokból való gyártása kohászati, kémiai vagy elektrolitikus eljárással,
+
+b) nemvas fémek olvasztására (beleértve az ötvözést), visszanyert (reciklált) termékek olvasztására (finomítás, öntés stb.), ólom és kadmium esetében 4 tonna/nap, egyéb nemvas fémek esetében 20 tonna/nap olvasztási kapacitás felett.
+
+2.6. Fémek és műanyagok felületi kezelésére szolgáló létesítmények elektrolitikus vagy kémiai folyamatokkal, ahol az összes kezelőkád térfogata meghaladja a 30 m<sup>3</sup>-t.
+
+3\. *Építőanyag-ipar*
+
+3.1. Cement-klinkernek forgókemencében történő gyártására szolgáló létesítmények 500 tonna/nap termelési kapacitáson felül vagy mésznek forgókemencében történő gyártására 50 tonna/nap kapacitáson felül vagy egyéb égetőkemencék 50 tonna/nap kapacitáson felül.
+
+3.2. Azbeszt gyártására és azbeszt alapú termékek gyártására szolgáló létesítmények.
+
+3.3. Üveg gyártására szolgáló létesítmények, beleértve az üvegszálat is, 20 tonna/nap olvasztókapacitáson felül.
+
+3.4. Ásványi anyagok olvasztására szolgáló létesítmények, beleértve az ásványi szálak gyártását is, 20 tonna/nap olvasztókapacitáson felül.
+
+3.5. Kerámia termékek égetéssel történő gyártására szolgáló létesítmények, különösen csempék, téglák, tűzálló téglák, kőáruk vagy porcelánok gyártása 75 tonna/nap termelési kapacitáson felül, és/vagy ahol a kemence térfogata 4 m<sup>3</sup> és abban az árusűrűség a 300 kg/m<sup>3</sup>-t meghaladja.
+
+4\. *Vegyipar*
+
+Csak az ipari méretű előállításra vonatkozóan:
+
+4.1. Vegyipari létesítmények, alapvető szerves anyagok, nevezetesen
+
+a) szénhidrogének (lineáris vagy ciklikus, telített vagy telítetlen, alifás vagy aromás),
+
+b) oxigéntartalmú szénhidrogének, nevezetesen alkoholok, aldehidek, ketonok, szerves savak, észterek, acetátok, éterek, peroxidok, epoxi-vegyületek,
+
+c) kéntartalmú szénhidrogének,
+
+d) nitrogéntartalmú szénhidrogének, nevezetesen aminok, amidok, nitrovegyületek vagy nitrátvegyületek, nitrilek, cianátok, izocianátok,
+
+e) foszfortartalmú szénhidrogének,
+
+f) halogénezett szénhidrogének,
+
+g) szerves fémvegyületek,
+
+h) műanyagok (polimerek, szintetikus szálak és cellulóz alapú szálak),
+
+i) szintetikus gumik,
+
+j) színezékek és pigmentek,
+
+k) aktív felületű anyagok és felületaktív anyagok,
+
+l) egyéb vegyipari létesítmények, alapvető szerves anyagok ipari méretű gyártására.
+
+4.2. Vegyipari létesítmények, alapvető szervetlen anyagok, nevezetesen
+
+a) gázok, nevezetesen ammónia, klór, hidrogén-klorid, fluor vagy hidrogén-fluorid, szén-oxidok, kénvegyületek, nitrogén-oxidok, hidrogén, kén-dioxid, karbonil-klorid (foszgén),
+
+b) savak, nevezetesen krómsav, fluorsav, foszforsav, salétromsav, sósav, kénsav, óleum, kénessav,
+
+c) lúgok, nevezetesen ammónium-hidroxid, kálium-hidroxid, nátrium-hidroxid,
+
+d) sók, nevezetesen ammónium-klorid, kálium-klorát, kálium-karbonát, nátrium-karbonát, perborát, ezüstnitrát,
+
+e) nemfémek, fémoxidok vagy egyéb szervetlen vegyületek, nevezetesen kalcium-karbid, szilícium, szilíciumkarbid,
+
+f) egyéb vegyipari létesítmények, alapvető szervetlen anyagok ipari méretű
+
+gyártására.
+
+4.3. Vegyipari létesítmények foszfor, nitrogén vagy kálium alapú műtrágyák (egyszerű vagy összetett műtrágyák) gyártásához.
+
+4.4. Vegyipari létesítmények növényvédő szer hatóanyagok és biocidek gyártásához.
+
+4.5. Gyógyszeralapanyagok gyártására kémiai vagy biológiai folyamatokat felhasználó létesítmények.
+
+4.6. Vegyipari létesítmények robbanóanyagok gyártására.
+
+5\. *Hulladékkezelés (radioaktív hulladékok és települési folyékony hulladékok szennyvíztisztítási eljárással történő kezelése kivételével)*
+
+5.1. Veszélyes hulladékok ártalmatlanítását (beleértve az égetést) végző telephelyek 10 tonna/nap kapacitáson felül.
+
+5.2. Kommunális hulladékégető berendezések 3 tonna/óra kapacitáson felül.
+
+5.3. Nem veszélyes hulladékok ártalmatlanítását végző telephelyek 50 tonna/nap kapacitáson felül.
+
+5.4. Hulladéklerakók 10 tonna/nap feltöltési kapacitáson felül vagy 25 000 tonna teljes befogadókapacitáson felül, az inert hulladékok lerakóinak kivételével.
+
+6\. *Papíripar*
+
+Ipari üzemek a következő termékek gyártására:
+
+a) faanyagból származó pép (cellulóz) vagy egyéb szálas anyagok,
+
+b) papír és karton 20 tonna/nap termelési kapacitáson felül.
+
+7\. *Textilipar*
+
+Üzemek textilanyagok előkészítésére (olyan műveletek mint mosás, fehérítés, mercerezés) vagy szálas anyagok, fonalak és kelmék színezése, nyomása, kikészítése, ahol a kezelés kapacitása meghaladja a 10 tonna/nap értéket.
+
+8\. *Bőripar*
+
+Üzemek állati bőrök és nyersbőrök kikészítésére, ahol a kezelési kapacitás meghaladja a 12 tonna kikészített termék/nap értéket.
+
+9\. *Élelmiszeripar*
+
+9.1. Vágóhidak 50 tonna vágott súly/napnál nagyobb termelési kapacitással.
+
+9.2. Élelmiszer-termékek termeléséhez kezelő és feldolgozó üzemek
+
+a) állati nyersanyagokból kiindulva (tejen kívül) 75 tonna/napnál nagyobb késztermék termelő kapacitással,
+
+b) növényi nyersanyagokból kiindulva 300 tonna/napnál nagyobb késztermék termelő kapacitással (negyedévi átlagban).
+
+9.3. Tej kezelése és feldolgozása, ahol a beérkezett tej mennyisége nagyobb mint 200 tonna/nap (évi átlagban).
+
+10\. *Állati anyagok feldolgozása*
+
+Létesítmények állati tetemek és állati hulladékok ártalmatlanítására vagy újrafeldolgozására 10 tonna/napnál nagyobb kezelési kapacitással.
+
+11\. *Nagy létszámú állattartás*
+
+Létesítmények intenzív baromfi- vagy sertéstenyésztésre, több mint
+
+a) 40 000 férőhely baromfi számára,
+
+b) 2000 férőhely (30 kg-on felüli) sertések számára,
+
+c) 750 férőhely kocák számára.
+
+12\. *Gépipar, fémfeldolgozás*
+
+Anyagok, tárgyak vagy termékek felületi kezelésére szerves oldószereket használó létesítmények, különösen felületmegmunkálásra, nyomdai mintázásra, bevonatolásra, zsírtalanításra, vízállóvá tételre, fényesítésre, festésre, tisztításra vagy impregnálásra, 150 kg/óra vagy 200 tonna/év oldószer-fogyasztási kapacitás felett.
+
+13\. *Bányászat*
+
+13.1. Szénbányászat 100 ezer t/év szén bányászatától, külszíni bányászat esetén 25 ha területtől is.
+
+13.2. Kőolaj-kitermelés éves átlagban 500 t/naptól, földgázkitermelés éves átlagban 500 ezer m<sup>3</sup>/naptól.
+
+13.3. Uránércbányászat 100 ezer t/év uránérc bányászatától.
+
+13.4. Fémtartalmú ércek bányászata: vasérc esetén 1 millió t/év, nemvas fémek esetén 100 ezer t/év bányászatától.
+
+14\. *Egyéb létesítmények*
+
+Létesítmények szén (jól kiégetett szén) termelésére vagy elektrografit termelésére égetéssel vagy grafitizációval.
+
+## 3. számú melléklet a 90/2007. (IV. 26.) Korm. rendelethez[^65]
+
+---
+
+[^1]: A felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet. A felszíni vizek védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet. A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet.
+[^2]: A 2. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (6) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés a) pontja a 42/2014. (II. 24.) Korm. rendelet 7. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés b) pontja a 42/2014. (II. 24.) Korm. rendelet 7. § (11) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^8]: A 4. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 4. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
+[^12]: Az 5. § a 300/2011. (XII. 22.) Korm. rendelet 17. § (2) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 6. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (5) bekezdésével megállapított szöveg.
+[^14]: A 6. § (2a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 25. § (1) bekezdése iktatta be.
+[^15]: A 6. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés b) pontja, a 42/2014. (II. 24.) Korm. rendelet 7. § (10) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 195/2017. (VII. 10.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^16]: A 6. § (5) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 189. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^17]: A 6. § (6) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^18]: A 7. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^19]: A 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 539. §-ával megállapított, az 518/2017. (XII. 29.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^20]: A 8. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) és d) pontja szerint módosított szöveg.
+[^21]: A 9. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (3) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) és d) pontja szerint módosított szöveg.
+[^22]: A 10. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (16) bekezdés f) pontja, a 195/2017. (VII. 10.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^23]: A 11. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^24]: A 12. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (8) bekezdésével megállapított szöveg.
+[^25]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 624/2022. (XII. 30.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 12. § (2) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 12. § (3) bekezdése a 624/2022. (XII. 30.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^28]: A 12. § (4) bekezdését a 624/2022. (XII. 30.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^29]: A 13. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (9) bekezdésével megállapított szöveg.
+[^30]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 14. § a) pontja a 300/2011. (XII. 22.) Korm. rendelet 17. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 15. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (10) bekezdésével megállapított szöveg.
+[^33]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^34]: A 15. § (3) bekezdése a 289/2016. (IX. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^35]: A 15. § (4) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (5) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^36]: A 15. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 75. § a) pontja szerint módosított szöveg.
+[^37]: A 15. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 75. § b) pontja szerint módosított szöveg.
+[^38]: A 16. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (11) bekezdésével megállapított szöveg.
+[^39]: A 16. § (1) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^40]: A 16. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 75. § c) és d) pontja szerint módosított szöveg.
+[^41]: A 16. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 75. § c) és d) pontja szerint módosított szöveg.
+[^42]: A 16. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdésével megállapított szöveg.
+[^43]: A 16. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 75. § c) pontja szerint módosított szöveg.
+[^44]: A 16. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 75. § c) pontja szerint módosított szöveg.
+[^45]: A 16. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 93. § (1) bekezdésével megállapított, az 518/2017. (XII. 29.) Korm. rendelet 29. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 75. § a) pontja szerint módosított szöveg.
+[^46]: A 16. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 49. § (12) bekezdésével megállapított szöveg.
+[^48]: A 17. § (2) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 29. § b) pontja hatályon kívül helyezte.
+[^49]: A 19. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (13) bekezdésével megállapított szöveg.
+[^50]: A 19. § (1) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 188. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^51]: A 19. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 188. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^52]: A 19. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 188. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^53]: A 19. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^54]: A 19. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés j) pontja, a 457/2017. (XII. 28.) Korm. rendelet 188. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^55]: A 19. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 188. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 188. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^57]: A 19. § (3) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^58]: A 20. § a 195/2017. (VII. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^60]: A 21. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 110. pontja szerint módosított szöveg.
+[^61]: A 21. § (3) bekezdését a 42/2014. (II. 24.) Korm. rendelet 7. § (8) bekezdése iktatta be.
+[^62]: A hatálybalépés időpontja 2014. február 25.
+[^63]: A 22. §-t a 195/2017. (VII. 10.) Korm. rendelet 6. §-a iktatta be.
+[^64]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 75. § d) pontja szerint módosított szöveg.
+[^65]: A 3. számú mellékletet a 351/2010. (XII. 30.) Korm. rendelet 181. § (2) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § j) pontja.

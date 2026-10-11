@@ -1,0 +1,180 @@
+---
+title: "159/2005. (VIII. 16.) Korm. rendelet a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról"
+identifier: "159/2005. (VIII. 16.) Korm. rendelet"
+njt_id: "2005-159-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/159"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-08-16
+in_force_from: 2009-10-01
+last_amended: 2023-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-159-20-22"
+retrieved: 2026-10-12
+---
+
+# 159/2005. (VIII. 16.) Korm. rendelet a kábítószer-prekurzorokkal kapcsolatos egyes hatósági eljárási szabályok, valamint a hatósági feladat- és hatáskörök megállapításáról
+
+Az 1998. évi L. törvénnyel kihirdetett, az Egyesült Nemzetek Szervezete keretében a kábítószerek és pszichotrop anyagok tiltott forgalmazása elleni, 1988. december 20-án, Bécsben kelt Egyezmény 12. cikkével kapcsolatban vállalt kötelezettségek teljesítésére a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (2) bekezdésének alapján a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikk (2) bekezdésében, a 111/2005/EK tanácsi rendelet 6. cikk (1) bekezdésében hivatkozott, a jegyzékben szereplő anyagok (a továbbiakban: kábítószer-prekurzorok) birtoklására, forgalomba hozatalára, illetve azok behozatalával, kivitelével vagy kereskedelmi közvetítésével kapcsolatos tevékenységre vonatkozó engedélyt – a 3. §-ban foglalt kivétellel – Budapest Főváros Kormányhivatala mint a kábítószer-prekurzorokkal kapcsolatos legális tevékenységek ellenőrzésére kijelölt nemzeti hatóság adja ki.
+
+(2)[^2] Az (1) bekezdés szerinti határozatot közölni kell a Nemzeti Népegészségügyi és Gyógyszerészeti Központtal (a továbbiakban: NNGYK).
+
+## 2. §
+
+(1)[^3] A 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikkének (6) bekezdése szerinti, valamint a 111/2005/EK tanácsi rendelet 7. cikkében foglaltak szerinti bejelentési kötelezettségeknek – a 3. §-ban foglalt kivétellel – a Budapest Főváros Kormányhivatalánál kell eleget tenni.
+
+(2)[^4]
+
+## 3. §
+
+(1) A 6. §-ban felsorolt hatóságok a kábítószer-prekurzorok vonatkozásában – további intézkedés nélkül – jogosultak a hivatalos hatósági feladataik ellátását szolgáló engedély-, illetve bejelentés-köteles tevékenységeket végezni.
+
+(2) A gyógyszertárak hivatalos feladatai ellátása tekintetében a 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikkének (2) bekezdése szerinti különleges engedélyezést, illetve 3. cikkének (6) bekezdése szerinti különleges nyilvántartásba vételi kötelezettség teljesítését a gyógyszertárak létesítésének és működésének egyes szabályairól szóló külön jogszabályban[^5] előírt működési engedély kiadása jelenti. Az e bekezdésben hivatkozott közösségi előírások alkalmazásában a hivatalos feladatok ellátásán a gyógyszertár működési engedélye alapján végezhető tevékenységek értendők, ide nem értve a külön jogszabály szerinti egyéb tevékenységeket.
+
+(3) Kábítószer-prekurzort tartalmazó állatgyógyászati készítmények kiskereskedelmi forgalmazása esetében a 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikkének (2) bekezdése szerinti különleges engedélyezést, illetve 3. cikkének (6) bekezdése szerinti különleges nyilvántartásba vételi kötelezettség teljesítését az állatgyógyászati készítményekről szóló külön jogszabályban előírt kiskereskedelmi forgalmazásra jogosító engedély kiadása jelenti.
+
+## 4. §
+
+(1)[^6] Az egyes kábítószer-prekurzorok kivitelére és behozatalára vonatkozó, a 111/2005/EK tanácsi rendeletben előírt engedélyeket a Budapest Főváros Kormányhivatala adja ki.
+
+(2)[^7] Az (1) bekezdés szerinti engedélyek visszavonásáról és felfüggesztéséről szóló határozatát a Budapest Főváros Kormányhivatala a Nemzeti Adó- és Vámhivatallal (a továbbiakban: NAV) haladéktalanul közli.
+
+## 5. §[^8]
+
+(1)[^9] A jegyzékben szereplő anyagokkal tevékenységet végző köteles a 6. § (1) bekezdésben meghatározott ellenőrzésre jogosult hatóságok (a továbbiakban: hatóságok) kérésére a jegyzékben szereplő anyagokkal kapcsolatos bármilyen megrendelésről és tevékenységről információt szolgáltatni. A hatóságok a kábítószer-prekurzorokkal folytatható tevékenységek hatósági ellenőrzése, felügyelete céljából szükséges éves, eseti vagy időszakos jelentést, adatszolgáltatást, iratbemutatást is kérhetnek a kábítószer-prekurzorokkal végzett, vagy azokkal tervezett tevékenységről.
+
+(2)[^10] A 273/2004/EK európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdésében, a 111/2005/EK tanácsi rendelet 9. cikk (2) bekezdésében, valamint a 2015/1011/EK bizottsági felhatalmazáson alapuló rendelet 9. cikkében és a 2015/1013/EK európai bizottsági végrehajtási rendelet 10. cikkében meghatározott információszolgáltatási kötelezettséget – a (3) bekezdésben meghatározott kivétellel – a Budapest Főváros Kormányhivatala felé kell teljesíteni.
+
+(3)[^11] Az információszolgáltatásra kötelezett gyógyszertár az előírt adatokat az NNGYK-nak küldi meg, nyilvántartásba vétel céljából.
+
+(4)[^12] Annak a 273/2004/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontjában, illetve a 111/2005/EK tanácsi rendelet 2. cikk f) pontjában meghatározott gazdasági szereplőnek, aki a tevékenység folytatása során
+
+a) a kábítószer-prekurzor felhasználási céljáról szóló, a 273/2004/EK európai parlamenti és tanácsi rendelet 4. cikke szerinti vevői nyilatkozatot dokumentációjában nem őrzi meg, vagy
+
+b) az e rendelet szerinti hatósági ellenőrzést akadályozza,
+
+a Budapest Főváros Kormányhivatala a kábítószer-prekurzorokkal kapcsolatos tevékenység folytatását három éves időtartamra megtilthatja.
+
+(5)[^13] A Budapest Főváros Kormányhivatala a (4) bekezdésben foglalt jogkövetkezményt
+
+a) a jogsértés súlyát, ismétlődését, a jogsértő állapot időtartamát, a jogsértőnek való felróhatóságát, az ellenőrzés alá vont gazdasági szereplő eljárást segítő, együttműködő magatartását mérlegelve alkalmazza,
+
+b) más jogkövetkezményekkel együtt is alkalmazhatja.
+
+## 6. §
+
+(1)[^14] A kábítószer-prekurzorokkal folytatható tevékenységgel kapcsolatos hatósági ellenőrzés végzésére hatáskörrel rendelkezik:
+
+a) Budapest Főváros Kormányhivatala, amely hatósági ellenőrzést általános hatáskörrel végez, kivéve a gyógyszertárakat, amelyek esetében csak a kábítószer-prekurzorok nem gyógyászati célú feldolgozását, forgalmazását ellenőrzi,
+
+b) a Rendőrség, amely a kábítószer-prekurzorok vonatkozásában hatósági ellenőrzést általános hatáskörrel végez,
+
+c) a NAV, amely a kábítószer-prekurzorok kiviteli, behozatali, tranzit szállításainak folyamatos és utólagos ellenőrzését végzi,
+
+d)[^15] az NNGYK, amely a gyógyszertárakban általános hatáskörrel a kábítószer-prekurzorok vonatkozásában is végez ellenőrzést, és amely a kábítószer-prekurzorok kábítószer-, valamint a pszichotróp tevékenységi engedély alapján végzett felhasználását is ellenőrizheti.
+
+(2)[^16] Az engedélyezés, ellenőrzés vagy egyéb hatósági eljárás során az illegális célra való eltérítés, felhasználás tekintetében felmerülő gyanúról, kétségről az (1) bekezdés szerinti hatóság a b) pont kivételével a Rendőrséget, vagy a *c)* pont kivételével a NAV-ot, valamint a Nemzetbiztonsági Hivatalt tájékoztatja, és azzal a tervezett intézkedés, illetőleg nyomozás befejezéséig együttműködik.
+
+## 7. §
+
+(1) A további felhasználásra, értékesítésre alkalmatlanná vált 1. és 2. kategóriába tartozó kábítószer-prekurzorok selejtezéséről, valamint ártalmatlanításáról jegyzőkönyvet kell felvenni. A selejtezési jegyzőkönyvet – amely tartalmazza a kábítószer-prekurzor nevét, mennyiségét és a selejtté válás okát – a felelős tisztviselő is aláírja.
+
+(2)[^17] Az (1) bekezdés szerinti anyagok ártalmatlanítását annak elvégzése előtt legalább 20 nappal a selejtezési jegyzőkönyv és az annak alapján készített összesítő jegyzék két példányának megküldésével, az ártalmatlanítás helyének, időpontjának és módjának közlésével a Budapest Főváros Kormányhivatalának be kell jelenteni. A Budapest Főváros Kormányhivatala a bejelentést követő tíz napon belül az ártalmatlanítás ellenőrzött módon történő lebonyolítását elrendelheti és a Rendőrséggel közös ellenőrzést végezhet.
+
+(3)[^18] Az ártalmatlanítás tényét rögzítő jegyzőkönyvet az ártalmatlanítást végző megbízottja, valamint – ellenőrzött módon történő ártalmatlanítás esetén – az ellenőrzést végző hatóság képviselője is aláírja. Az ártalmatlanításról készített jegyzőkönyvet az ártalmatlanítást követően egy eredeti példányban haladéktalanul meg kell küldeni a Budapest Főváros Kormányhivatala részére.
+
+(4)[^19] A gyógyszertárak esetében a kábítószer-prekurzorok ártalmatlanítását, selejtezését az egészségügyért felelős miniszter által külön jogszabályban meghatározott előírások szerint kell végezni.
+
+(5) Egyebekben a kábítószer-prekurzorok ártalmatlanítására a hulladékokra vonatkozó külön jogszabályok előírásait kell alkalmazni.
+
+## 8. §
+
+(1)[^20] A Budapest Főváros Kormányhivatala, valamint a Rendőrség és a NAV a kábítószer-prekurzorok nemzetközi forgalmának ellenőrzését, valamint a bűnmegelőzést és a bűnfelderítést szolgáló egyéb adatcserét végezhet az illetékes külföldi hatóságokkal és a Nemzetközi Kábítószer-ellenőrző Szervvel. A Budapest Főváros Kormányhivatala felel továbbá a legális kereskedelmet, felhasználást érintő jelentési, adatszolgáltatási kötelezettségek hazai koordinálásáért és ezeknek az Európai Bizottság és a Nemzetközi Kábítószer-ellenőrző Szerv felé történő teljesítéséért, egyben jogosult az Európai Bizottsággal a kábítószer-prekurzorokra vonatkozó jogszabályok alkalmazása során felmerülő kérdésekben a szükséges egyeztetéseket lefolytatni. Az Országos Rendőr-főkapitányság a rendőri, a NAV a vámügyekkel kapcsolatos nemzetközi együttműködést koordinálja és végzi.
+
+(2)[^21] Minősített adatot, vámtitkot, valamint személyes adatot és a gazdálkodó szervezet által üzleti titoknak minősített adatot az (1) bekezdésben meghatározott hatóságok közül csak az továbbíthat külföldre, amelyiket törvény vagy nemzetközi megállapodás arra felhatalmaz. Külföldről érkező megkeresésre az (1) bekezdésben meghatározott hatóság közvetlenül is válaszolhat.
+
+(3) A 6. §-ban meghatározott hatóságoknak az e rendeletben vagy más jogszabályban foglalt, a kábítószer-prekurzorokkal kapcsolatos feladataik ellátásához szükséges adatokat – az adatvédelemre vonatkozó jogszabályok rendelkezéseinek megtartásával – egymás számára hozzáférhetővé kell tenniük.
+
+## 9. §[^22]
+
+A Budapest Főváros Kormányhivatala az eljáró hatóság megkeresésére vagy kérelemre – ha az adott eljárásban az szükséges és a Budapest Főváros Kormányhivatala szakhatóságként nincs kijelölve – megállapítja, hogy valamely kábítószer-prekurzort tartalmazó keverék, készítmény a 273/2004/EK európai parlamenti és tanácsi rendelet 2. cikk a) pontjában, valamint a 111/2005/EK tanácsi rendelet 2. cikk a) pontjában foglaltakat figyelembe véve e rendelet hatálya alá tartozik-e.
+
+## 10. §
+
+(1) A kábítószerek és pszichotrop anyagok tiltott előállítása megelőzésének, illetve felderítésének céljából az Európai Bizottság által megállapított, jegyzékben nem szereplő anyagok kereskedelmét egymás kölcsönös tájékoztatása és az azokkal tevékenységet végzők önkéntes együttműködésének ösztönzése útján a 6. §-ban meghatározott hatóságok kísérik figyelemmel.
+
+(2)[^23] Az Európai Bizottság által megállapított, a jegyzékben nem szereplő, de kábítószer és pszichotrop anyag tiltott gyártása során általánosan használt egyéb anyagok listáját, valamint a hatóságok és a vegyipar közötti együttműködést segítő iránymutatásokat, továbbá azok változásait a Budapest Főváros Kormányhivatala bocsátja az együttműködő felek rendelkezésére.
+
+(3)[^24] A 6. § (1) bekezdése szerinti hatóságok a jegyzékben nem szereplő anyagok vonatkozásában a 273/2004/EK európai parlamenti és tanácsi rendelet 10. cikk (2) bekezdésében, illetve a 111/2005/EK tanácsi rendelet 26. cikk (3b) bekezdésében meghatározott célból ellenőrzést folytathatnak a jegyzékben nem szereplő anyagot birtokló, vagy birtokolni szándékozó, a szakmája, önálló foglalkozása vagy üzleti tevékenysége körében eljáró személy (vállalkozás) tekintetében. Ennek során a vállalkozás köteles a hatóságokkal együttműködni és a hatóságok rendelkezésére bocsátani mindazon információkat, bizonyítékokat, amelyek a törvényes felhasználási célt igazolják.
+
+## 11. §
+
+(1)[^25] Ez a rendelet 2005. augusztus 18-án lép hatályba.
+
+(2) A 2. § (1) bekezdésében meghatározott bejelentési kötelezettséget teljesítettnek kell tekinteni, amennyiben az adott kábítószer-prekurzorral kapcsolatos meghatározott tevékenységre és telephelyre vonatkozóan e rendelet hatálybalépését megelőzően a Hivatalnál már történt bejelentés, és azt a Hivatal visszaigazolta.
+
+## 12. §
+
+(1)[^26] Felhatalmazást kap az iparügyekért felelős miniszter, hogy a 8. § (3) bekezdésében foglaltak végrehajtására a tárolandó adatok körét és az adatokhoz való hozzáférés rendjét a rendészetért felelős miniszter, az egészségügyért felelős miniszter, az adópolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter és a polgári hírszerzési tevékenység irányításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+
+(2)[^27] Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kábítószer-prekurzorokkal kapcsolatos engedélyezési és nyilvántartásba vételi kötelezettségek tekintetében a közösségi szabályozásban megengedett módon az egyes részletszabályok alkalmazásáról rendeletet alkosson.
+
+(3)[^28] Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-prekurzorok gyógyszertárak által történő gyógyászati célú megrendelését, nyilvántartását és selejtezését rendeletben szabályozza.[^29]
+
+## 13. §[^30]
+
+(1)[^31] Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet 3. cikk (2) és (6) bekezdése, 4. cikke, 5. cikk (3) és (5) bekezdése, 8. cikk (2) bekezdése, 9. cikk (3) bekezdése, 10. cikk (1) és (2) bekezdése, 11. cikk (1) bekezdése, 12. cikke, valamint 13. cikk (1) bekezdése;
+
+b) a kábítószer-prekurzoroknak a Közösség és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló, 2004. december 22-i 111/2005/EK tanácsi rendelet 6. cikk (1) bekezdése, 7. cikk (1) bekezdése, 9. cikk (2) bekezdése 10. cikk (3) bekezdése, 26. cikk (3) és (3b) bekezdése, 31. cikke, valamint 32. cikke;
+
+c)[^32] a kábítószer-prekurzorokról szóló 273/2004/EK európai parlamenti és tanácsi rendelet és a kábítószer- prekurzoroknak az Unió és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló 111/2005/EK tanácsi rendelet kiegészítéséről, valamint az 1277/2005/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. április 24-i 2015/1011/EK bizottsági felhatalmazáson alapuló rendelet 9. cikke, valamint a kábítószer-prekurzorokról szóló 273/2004/EK európai parlamenti és tanácsi rendeletre, valamint a kábítószer-prekurzoroknak az Unió és harmadik országok közötti kereskedelme nyomon követésére vonatkozó szabályok megállapításáról szóló 111/2005/EK tanácsi rendeletre vonatkozó szabályok megállapításáról szóló, 2015. június 25-i 2015/1013/EK európai bizottsági végrehajtási rendelet 10. cikke.
+
+(2) Ez a rendelet az Európai Unió tagállamaiban a kábítószer-prekurzorok tiltott kereskedelme elleni fellépésre szakosodott különböző operatív egységek közötti együttműködés és információcsere fokozásának szükségességéről szóló, 2002. április 25-i tanácsi ajánlásnak való megfelelést szolgálja (2002/C 114/02).
+
+## 1. melléklet a 159/2005. (VIII. 16.) Korm. rendelethez[^33]
+
+## 2. melléklet a 159/2005. (VIII. 16.) Korm. rendelethez[^34]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 417. §-a, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 147. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A gyógyszertárak létesítéséről és működésük egyes szabályairól szóló 1994. évi LIV. törvény.
+[^6]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 416. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 108. § (1) bekezdése, a 486/2015. (XII. 29.) Korm. rendelet 14. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^8]: Az 5. § a 88/2008. (IV. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 5. § (1) bekezdés harmadik mondatát a 182/2009. (IX. 10.) Korm. rendelet 418. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c)–d) pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdése a 30/2015. (II. 25.) Korm. rendelet 17. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés e) pontja, a 334/2023. (VII. 20.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be, záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^13]: Az 5. § (5) bekezdését a 29/2014. (II. 11.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^16]: A 6. § (2) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 108. § (1) bekezdése szerint módosított szöveg.
+[^17]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 418. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (66) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) és f) pontja szerint módosított szöveg.
+[^18]: A 7. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 7. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^20]: A 8. § (1) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 108. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 14. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^21]: A 8. § (2) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (18) bekezdése szerint módosított szöveg.
+[^22]: A 9. § a 182/2009. (IX. 10.) Korm. rendelet 416. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^23]: A 10. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 66. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 10. § (3) bekezdését a 29/2014. (II. 11.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 11. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 494. pontja szerint módosított szöveg.
+[^26]: A 12. § (1) bekezdése a 300/2010. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 12. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 194. pontja szerint módosított szöveg.
+[^28]: A 12. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 194. pontja szerint módosított szöveg.
+[^29]: Lásd a 43/2005. (X. 15.) EüM rendeletet.
+[^30]: A 13. § a 88/2008. (IV. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: A 13. § (1) bekezdése a 29/2014. (II. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^32]: A 13. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 66. § (3) bekezdésével megállapított szöveg.
+[^33]: Az 1–2. számú mellékletet a 88/2008. (IV. 17.) Korm. rendelet 3. § (1) bekezdése hatályon kívül helyezte.
+[^34]: Az 1–2. számú mellékletet a 88/2008. (IV. 17.) Korm. rendelet 3. § (1) bekezdése hatályon kívül helyezte.

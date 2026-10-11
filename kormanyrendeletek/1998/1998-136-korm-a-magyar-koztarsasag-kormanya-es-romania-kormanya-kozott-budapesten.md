@@ -1,0 +1,254 @@
+---
+title: "136/1998. (VIII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, a nemzetközi kombinált áruszállításról szóló Egyezmény kihirdetéséről  "
+identifier: "136/1998. (VIII. 15.) Korm. rendelet"
+njt_id: "1998-136-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/136"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-08-15
+in_force_from: 1998-08-15
+last_amended: 1998-08-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-136-20-22"
+retrieved: 2026-10-12
+---
+
+# 136/1998. (VIII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, a nemzetközi kombinált áruszállításról szóló Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1998. év március 17. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, a nemzetközi kombinált áruszállításról szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya\
+és Románia Kormánya között\
+a nemzetközi kombinált áruszállításról
+
+A Magyar Köztársaság Kormánya és Románia Kormánya (a továbbiakban: Szerződő Felek),
+
+annak tudatában, hogy a két ország közötti árucseréhez elengedhetetlen a nemzetközi áruszállítás,
+
+felismerve, hogy környezet- és természetvédelmi okokból és a közúti infrastruktúra korlátozott kapacitása miatt vasúton és vízi úton korszerű szállítási rendszert kell kialakítani, a közúti áruforgalom gazdasági, szociális és környezet- és természetvédelmi szempontból is elfogadható alternatíváinak megteremtése érdekében,
+
+figyelembe véve a vonatkozó azon nemzetközi egyezmények rendelkezéseit, amelyeknek mindkét Szerződő Fél részese,
+
+abban a meggyőződésben, hogy a kombinált áruszállítás reális lehetőség a nemzetközi áruforgalom gondjainak megoldására,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Alkalmazási terület*
+
+Ezen Egyezmény rendelkezései kiterjednek a nemzetközi kombinált áruszállításra, amely
+
+– részben vasúton vagy vízi úton, részben közúton valamelyik Szerződő Fél államában bejegyzett gépjárművel,
+
+– a két Szerződő Fél államának területe között, vagy az egyik vagy mindkét Szerződő Fél államának területén keresztül\
+tranzitban történik.
+
+*2. Cikk*
+
+*Fogalommeghatározások*
+
+Ezen Egyezmény értelmében:
+
+*a) A nemzetközi kombinált áruszállítás:* olyan áruszállítás, amelynek folyamán az üres vagy rakott gépjármű, amely az egyik Szerződő Fél államában van bejegyezve, vagy az intermodális szállítási egység az útvonal túlnyomó részét vasúton vagy vízi úton, az egyik Szerződő Fél államából a másik Szerződő Fél államában közvetlenül, vagy a másik Szerződő Fél államának területén keresztül teszi meg, amelynek folyamán a gépjármű vagy az intermodális szállítási egység a közutat csak a feladási vagy rendeltetési hely és a legközelebbi – fel- és lerakodás céljára alkalmas – vasúti terminál vagy vízi (Ro-Ro) kikötő között veszi igénybe.
+
+*b) Intermodális szállítási egység:* minden konténer, csereszekrény, félpótkocsi, pótkocsi, amely alkalmas kombinált áruszállításra.
+
+*c) Közúti elő- és utánfuvarozás:* intermodális szállítási egységeknek és gépjárműveknek a határátlépés helyétől vagy az áru feladási helyétől az útirány szerinti legközelebbi vasúti terminálig vagy vízi kikötőig, illetőleg a vasúti termináltól vagy a vízi kikötőtől az útirány szerinti legközelebbi határátlépési helyig vagy az áru rendeltetési helyéig történő közúti fuvarozása.
+
+*e) Gépjármű:* az egyik Szerződő Fél államában bejegyzett, áruszállításra kiépített és használt gépi meghajtású jármű. Továbbá bármilyen vontatóból és pótkocsikból vagy vontatótól és félpótkocsiból álló közúti járműszerelvény, amelyeknél a vontató vagy a tehergépkocsi az egyik Szerződő Fél államában van bejegyezve. A pótkocsi, illetve a félpótkocsi bejegyzése nem szükséges, hogy ugyanazon Szerződő Fél államában legyen.
+
+*f) Kísért kombinált áruszállítás:* a gépjárműnek vasúton (Ro-La) vagy vízi úton (Ro-Ro) a gépjárművezetővel együtt történő továbbítása.
+
+*g) Nem kísért kombinált áruszállítás:* intermodális szállítási egységeknek vasúton vagy vízi úton (Ro-Ro) történő továbbítása.
+
+*h)* *Jutalomengedély:* a gördülő országúti (Ro-La) és Ro-Ro viszonylatok igénybevételét jutalmazó közúti fuvarozási engedély
+
+– Magyarországon: gépjárműadó-mentes,
+
+– Romániában: úthasználati díjtól mentes,
+
+amelynek mennyiségét a Szerződő Felek a Közúti Fuvarozási Vegyesbizottsági ülés keretben állapítják meg.
+
+*3. Cikk*
+
+*Az Egyezmény végrehajtása*
+
+A jelen Egyezmény végrehajtásáról
+
+– román részről: a Közlekedési Minisztérium,
+
+– magyar részről: a Közlekedési, Hírközlési és Vízügyi Minisztérium
+
+gondoskodik.
+
+*4. Cikk*
+
+Közúti-vasúti kísért kombinált áruszállítás\
+(Ro-La)
+
+(1) A Szerződő Felek államának területéről, területére vagy területén keresztül az egyik Szerződő Fél államában bejegyzett tehergépjárművekkel lebonyolódó gördülő országút (Ro-La) igénybevétele esetén kölcsönösen előnyös közúti jutalomengedély-mennyiségről állapodnak meg a Közúti Fuvarozási Vegyesbizottsági ülés keretében.
+
+(2) A Szerződő Felek a gördülő országút (Ro-La) viszonylatait a mindenkori lehetőségek és igények alapján határozzák meg. A jutalomengedély azon viszonylat igénybevétele esetén adható, amely viszonylatban a közúti fuvarozás távolsága az államhatár és a terminál között a hetven kilométert nem haladja meg.
+
+(3) A közúti jutalomengedélyek számának meghatározása negyedévenként történik.
+
+(4) A Szerződő Felek a gördülő országúti rendszerben (Ro-La) továbbított minden vonat határállomási tartózkodását 30 percre korlátozzák.
+
+*5. Cikk*
+
+Közúti-vízi kombinált áruszállítás\
+(Ro-Ro)
+
+(1) A Szerződő Felek államának területéről, területére vagy területén keresztül a másik Szerződő Fél államában bejegyzett gépjárművekkel lebonyolódó Ro-Ro viszonylat igénybevétele esetén kölcsönösen közúti jutalomengedély-mennyiségről állapodnak meg a Közúti Fuvarozási Vegyesbizottsági ülés keretében.
+
+(2) A Szerződő Felek a Ro-Ro viszonylatait – amelynek igénybevételéért a jutalomengedély kiadható – a mindenkori lehetőségek és igények alapján határozzák meg.
+
+(3) A közúti jutalomengedélyek számának meghatározása negyedévenként történik.
+
+*6. Cikk*
+
+*Mentességek*
+
+(1) A Szerződő Felek kölcsönösség alapján az államhatártól vagy rakodási helytől a terminálig, illetve a termináltól a rakodási helyig vagy az államhatárig a közúti elő- és utánfuvarozás számára légvonalban mért hetven kilométeres körzethatáron belül
+
+– magyar részről: gépjárműadó-mentességet,
+
+– román részről: úthasználati díj fizetése alóli mentességet\
+biztosítanak. Amennyiben a gépjármű a hetven kilométeres körzethatárt átlépi, az említett mentességek nem érvényesek.
+
+(2) A jelen Cikk (1) bekezdésében foglaltak esetén közúti fuvarozási engedélyt nem kell felhasználni.
+
+(3) A jelen Cikk (1) bekezdésének rendelkezései nem érintik azokat az adókat, díjakat és illetékeket, amelyeket autópályák egyes szakaszain, alagutakon, hidakon és egyéb közúti létesítményeken való áthaladásra rónak ki.
+
+(4) Ha az egyik Szerződő Fél államában bejegyzett gépjármű a kombinált áruszállítás során a másik Szerződő Fél államának területére ideiglenesen belép, mentesül a vámok megfizetése alól, amennyiben a gépjármű a másik Szerződő Fél jogszabályaiban meghatározott határidőn belül az állam területét elhagyja.
+
+(5) Azok a cserealkatrészek és felszerelési tárgyak, amelyeket a jelen Egyezmény keretében az egyik Szerződő Fél államában bejegyzett és a másik Szerződő Fél államának területén megsérült, kombinált áruszállítást végző gépjárművek javítására ideiglenesen visznek be a másik Szerződő Fél államának területére, vám- és illetékmentesek.
+
+(6) A kicserélt cserealkatrészeket vissza kell szállítani a gépjárművet bejegyző államba, vagy a vámhatóság ellenőrzése mellett meg kell semmisíteni.
+
+*7. Cikk*
+
+*Átlépés az országhatáron*
+
+(1) A kombinált áruszállításra jogosító dokumentumokat a Szerződő Felek államainak területén történő minden szállításnál a gépjárművön kell tartani, és azokat az illetékes ellenőrző hatóságok kérésére fel kell mutatni. A dokumentumokon történő bárminemű illetéktelen módosítás a 10. Cikk (1) bekezdése szerinti szankciókat vonja maga után.
+
+(2) A kombinált áruszállítás keretén belül az államhatáron átlépő személyek, járművek és áruk ellenőrzését a Szerződő Felek határforgalmi ellenőrzést végző szervei saját államuk jogszabályai alapján hajtják végre. A kísért kombinált áruszállítás esetén a beutazási feltételek hiánya miatt be nem léptethető személyek visszairányításával, valamint a hatósági eljárás során (amennyiben szükségessé válik) a szállítmányok levételével, kisorolásával és visszairányításával kapcsolatban felmerülő költségek a fuvarozót, illetve szállítmányozót terhelik. Az egyik Szerződő Fél illetékes szervei kötelesek visszafogadni bármely olyan személyt, gápjárművet és szállítmányt, amelyek beléptetését a másik Szerződő Fél illetékes szerve megtagadta, és azt írásban indokolta.
+
+(3) A kísért kombinált áruszállítás esetén a határátlépéskor az illetékes ellenőrző szerv az egyik Szerződő Fél államában bejegyzett gépjárművet, a másik Szerződő Fél államának területére közúti árufuvarozási engedély nélkül engedi be a 6. Cikk (1) bekezdésében meghatározott esetben.
+
+Az országból történő kilépés során kombinált áruszállítás igénybevételét a CIM–UIRR fuvarlevéllel vagy más fuvarozási módnál használatos okmánnyal kell igazolni.
+
+(4) Az egyik Szerződő Fél államában bejegyzett gépjárművel fuvarozó, illetve szállítmányozó vagy alkalmazottja köteles betartani a másik Szerződő Fél államában hatályos jogszabályokat és egyéb előírásokat.
+
+*8. Cikk*
+
+*A kombinált áruszállítás elősegítése*
+
+(1) A Szerződő Felek ösztönzik a vasúti, a hajózási és a kombitársaságokat arra, hogy a kombinált áruszállítás elősegítése céljából hatékony egyeztetett intézkedéseket tegyenek, figyelembe véve, hogy mindenekelőtt a nem kísért kombinált áruszállítás rendelkezik rendkívüli előnyökkel.
+
+(2) A Szerződő Felek lehetőségeik szerint – támogatást nyújtanak a kombinált áruszállítás fejlesztéséhez szükséges infrastruktúra kiépítéséhez.
+
+(3) A Szerződő Felek eljárnak annak érdekében, hogy a kombinált áruszállításhoz kapcsolódó fel- és elfuvarozást mentesítsék a hétvégi és ünnepnapi közlekedési korlátozási tilalom alól.
+
+(4) A Szerződő Felek illetékes szervei törekednek arra, hogy a fel- és elfuvarozáshoz szükséges egyes közúti útvonalakon a legfeljebb 44 tonna össztömegű gépjárművek továbbításának feltételeit megteremtsék.
+
+(5) A Szerződő Felek illetékes szervei törekednek arra, hogy a szállítás késedelmes lebonyolításának elkerülése érdekében a határtartózkodási idő csökkentése céljából a vámkezelési műveletek elvégzését – az árutovábbítás kivételével – a vasúti és kikötői terminálokra helyezzék át.
+
+(6) A Szerződő Felek törekednek arra, hogy a kombinált forgalomban használt vasúti kocsik bizalmi elven történő műszaki átvételét kölcsönösen bevezessék.
+
+(7) A Szerződő Felek elősegítik a nemzetközi kombinált áruszállítási viszonylatok kiépítését és fejlesztését, illetve azok közös üzemeltetését.
+
+(8) A kombinált áruszállítás elősegítése érdekében ezen Egyezmény értelmében a jutalomengedélyeket a Szerződő Felek illetékes hatóságai adják ki.
+
+*9. Cikk*
+
+*Együttműködés*
+
+(1) A Szerződő Felek ösztönzik a vasutakat arra, hogy a kombinált áruszállításban részt vevő társaságokkal együttműködve versenyképes ajánlatokat dolgozzanak ki a kombinált áruszállítás elősegítésére.
+
+(2) A Szerződő Felek törekednek arra, hogy a nemzetközi áruszállítás – lehetőség szerint – minél nagyobb mértékben kombinált áruszállítás formájában bonyolódjon le.
+
+(3) A Szerződő Felek kölcsönösen tájékoztatják egymást azokról az intézkedésekről, amelyek elősegítik a nemzetközi kombinált áruszállítás minőségének és a szolgáltatások színvonalának növelését.
+
+(4) A Szerződő Felek javasolják a vasúti és hajózási társaságok számára, hogy kétoldalú megállapodásokat hozzanak létre az intermodális egységek közös használatára.
+
+(5) A Szerződő Felek javasolják a vasúti és hajózási társaságok számára, hogy működjenek együtt új kísért kombinált áruszállítási viszonylatok kiépítésében (Ro-La és Ro-Ro).
+
+(6) A nem kísért kombinált áruszállításhoz kapcsolódó, a másik Szerződő Fél tulajdonában lévő intermodális szállítási egységek közúton történő elő- és utánfuvarozása az egyik Szerződő Fél államának területén csak azon országban bejegyzett közúti gépjárművekkel történhet, amelynek területén a terminál található.
+
+*10. Cikk*
+
+*Rendelkezések megszegése*
+
+(1) Ha valamely fuvarozó, illetve szállítmányozó vagy annak alkalmazottja – aki kombinált áruszállítást végez valamely Szerződő Fél államában bejegyzett gépjárművel – megszegi a jelen Egyezmény előírásait vagy a fuvarozási engedélyekben foglalt feltételeket, valamint a másik Szerződő Fél államában hatályos jogszabályokat és egyéb előírásokat, akkor azon ország illetékes hatóságai, ahol a gépjárművet bejegyezték, azon Szerződő Fél illetékes hatóságának kérésére, ahol a jogsértés történt, a következő azonnali intézkedéseket hozhatják:
+
+*a)* az érintett fuvarozó, illetve szállítmányozó vagy annak alkalmazottjának felszólítása a hatályos jogszabályok és egyéb előírások betartására;
+
+*b)* az érintett fuvarozó, illetve szállítmányozó vagy annak alkalmazottja részére a jutalomengedélyek kiadásának leállítása, vagy a már kiadott engedély visszavonása arra az időszakra, amelyre a másik Szerződő Fél illetékes hatósága kizárta őt a forgalomból az államának területén.
+
+(2) Az illetékes hatóságok értesítik egymást a hozott intézkedésekről.
+
+*11. Cikk*
+
+*Adat- és információvédelem*
+
+(1) A Szerződő Felek kijelentik, hogy minden adatot és információt – kivéve a hivatalos statisztikai adatokat – harmadik Féllel szemben védik.
+
+(2) A jelen Cikk (1) bekezdése szerinti adatok és információk csak a Szerződő Fél hatóságai, ügyészségei és bíróságai részére szolgáltathatók ki, amennyiben azt büntetőeljárás teszi szükségessé. Minden további adat kiadása csak az adatkibocsátó előzetes engedélye alapján lehetséges.
+
+*12. Cikk*
+
+*Válsághelyzet*
+
+A Szerződő Felek a kombinált áruszállításban vis maior vagy műszaki zavarok miatt bekövetkező, tizenkét órát meghaladó üzemszünetek esetén külön, sürgős, egyeztetett intézkedéseket hoznak.
+
+*13. Cikk*
+
+*Információcsere*
+
+(1) A Szerződő Felek a két fél közötti mindenkor érvényes közúti egyezmény alkalmazására létrehozott Közúti Fuvarozási Vegyesbizottság keretében találkoznak a jelen Egyezmény végrehajtása érdekében.
+
+(2) A Közúti Fuvarozási Vegyesbizottság javasolhatja ezen Egyezmény módosítását, amennyiben arra szükség van.
+
+*14. Cikk*
+
+*Hatálybalépés és módosíts*
+
+(1) A jelen Egyezmény azon a napon lép hatályba, amikor a Felek írásban kölcsönösen értesítik egymást arról, hogy saját belső törvényes eljárásaikat teljesítették.
+
+(2) Jelen Egyezmény bármilyen módosítását a Szerződő Felek egyeztetik, és azok hatálybalépése jelen Cikk (1) bekezdésében foglalt eljárás szerint történik.
+
+*15. Cikk*
+
+*Felmondás*
+
+Jelen Egyezményt a Szerződő Felek meghatározatlan időre kötik. Az Egyezmény hatálya hat hónappal azután szűnik meg, hogy az egyik Fél írásban értesíti a másik Felet az Egyezmény felmondásáról.
+
+Készült Budapesten, 1997. március 12. napján két-két példányban, magyar és román nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében:\
+*Dr. Lotz Károly* s. k.
+
+Románia Kormánya\
+nevében:\
+*Traian Basescu* s. k.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1998. március 17-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

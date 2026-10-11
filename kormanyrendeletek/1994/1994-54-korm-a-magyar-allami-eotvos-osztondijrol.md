@@ -1,0 +1,88 @@
+---
+title: "54/1994. (IV. 13.) Korm. rendelet a Magyar Állami Eötvös Ösztöndíjról"
+identifier: "54/1994. (IV. 13.) Korm. rendelet"
+njt_id: "1994-54-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/54"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-04-13
+in_force_from: 1997-05-29
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-54-20-22"
+retrieved: 2026-10-12
+---
+
+# 54/1994. (IV. 13.) Korm. rendelet a Magyar Állami Eötvös Ösztöndíjról
+
+## 1. §
+
+(1) A Magyar Állami Eötvös Ösztöndíj (a továbbiakban: Eötvös Ösztöndíj) külföldi posztgraduális képzésben, továbbá külföldi kutatóhelyen, alkotóműhelyben kutatói, illetve művészeti továbbképzésben való részvételt tesz lehetővé.
+
+(2)[^1] Eötvös Ösztöndíjban részesülhetnek olyan, felsőoktatási intézményben oklevelet szerzett magyar állampolgárok, akik hazai szakmai tevékenységükkel bizonyították kiemelkedő képességüket.
+
+## 2. §[^2]
+
+Kiemelkedő képességűnek az tekintendő, akiről szakterülete két, nemzetközileg elismert hazai vagy külföldi tudósa, művésze ezt ajánlás formájában állítja. Az ajánlók írásos véleményét a Tempus Közalapítvány (a továbbiakban: Közalapítvány) szerzi be.
+
+## 3. §
+
+Az Eötvös Ösztöndíj nyílt pályázás útján, a pályázati felhívásban szereplő tudomány-, művészeti területeken vagy a pályázó által művelt, de a felhívásban nem szereplő területeken nyerhető el.
+
+## 4. §
+
+A pályázási feltételek:
+
+a) két szakmai ajánló véleménye,
+
+b) fogadókészség (egyetemtől, kutatóintézettől, könyvtártól, levéltártól, múzeumtól, művészeti akadémiától szerezhető be),
+
+c) kizárólag az ösztöndíjból folyósítandó költségeket tartalmazó költségterv (az egyéb felmerülő költségeket a pályázó igazolja),
+
+d) külföldi tanulmányokra, munkára vonatkozó részletes terv,
+
+e) a külföldi tanulmányokhoz, munkához szükséges nyelvtudás, melyet állami nyelvvizsga vagy azzal egyenértékű bizonyítvány tanúsít.
+
+## 5. §
+
+(1)[^3] Az Eötvös Ösztöndíj legalább három hónapra adható, amely egyszer, legfeljebb hat hónappal meghosszabbítható.
+
+(2) Az Eötvös Ösztöndíj indokolt esetben többször is odaítélhető.
+
+## 6. §
+
+(1)[^4] A Közalapítvány gondoskodik az Eötvös Ösztöndíj fedezetéül szolgáló összeg gazdaságos felhasználásáról. Meghatározza országonként évente az ösztöndíjasok devizaellátmányát. A Közalapítvány dönt az ösztöndíjasoknak adható egyszeri dologi kiadás mértékéről, biztosítja az egyszeri oda- és visszautazás költségét.
+
+(2)[^5] A Közalapítvány – külön jogszabályban foglaltak szerint – közzéteszi a pályázati felhívást, elbírálja a pályázatokat és odaítéli az ösztöndíjakat. Az ösztöndíjasok névsorát nyilvánosságra hozza.
+
+(3)[^6] A felsőoktatásért felelős miniszter az Eötvös Ösztöndíj fedezetéül szolgáló összeg terhére
+
+a) intézi az ösztöndíjasok kiutazását (beleértve a devizaellátmány biztosítását),
+
+b) biztosítja a kiutazók számára a kezdéshez szükséges ellátmányt az indulás előtt,
+
+c)[^7]
+
+(4)[^8] Az ösztöndíjas hazajövetele után egy hónapon belül szakmai beszámolót készít külföldi útjáról a Közalapítvány számára. A Közalapítvány előírhatja, hogy az ösztöndíjas hazajövetele után egy éven belül hazai szakmai, tudományos fórumon számoljon be külföldi munkájának eredményeiről.
+
+(5)[^9] Az Eötvös Ösztöndíj segítségével létrejött valamennyi munkán fel kell tüntetni, hogy "Készült a Magyar Állami Eötvös Ösztöndíj támogatásával".
+
+## 7. §
+
+(1)[^10]
+
+(2) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (2) bekezdésének második mondatát a 82/1997. (V. 21.) Korm. rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^2]: A 2. § a 81/2015. (III. 31.) Korm. rendelet 1. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése a 82/1997. (V. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 6. § (1)—(2) bekezdése a 82/1997. (V. 21.) Korm. rendelet 2. §-ának (1) bekezdésével megállapított, a 81/2015. (III. 31.) Korm. rendelet 1. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^5]: A 6. § (2) bekezdése a 81/2015. (III. 31.) Korm. rendelet 1. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 6. § (3) bekezdés nyitó szövegrésze 82/1997. (V. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 156. §-a, a 238/2022. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdés c) pontját a 81/2015. (III. 31.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 6. § (4) bekezdése a 82/1997. (V. 21.) Korm. rendelet 2. §-ának (3) bekezdésével megállapított, a 81/2015. (III. 31.) Korm. rendelet 1. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 6. § új (5) bekezdését a 82/1997. (V. 21.) Korm. rendelet 2. §-ának (4) bekezdése iktatta a szövegbe.
+[^10]: A 7. § (1) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 157. §-a hatályon kívül helyezte.

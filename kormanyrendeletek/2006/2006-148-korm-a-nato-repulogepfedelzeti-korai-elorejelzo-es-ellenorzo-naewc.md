@@ -1,0 +1,103 @@
+---
+title: "148/2006. (VII. 21.) Korm. rendelet a NATO Repülőgépfedélzeti Korai Előrejelző  és Ellenőrző (NAEWC) Rendszere   korszerűsítésére vonatkozó NATO E–3A Együttműködési Programjának az Észak Atlanti Szövetség védelmi miniszterei közötti Többoldalú Egyetértési Nyilatkozata (MMOU) kiegészítésének harmadik módosítása kihirdetéséről"
+identifier: "148/2006. (VII. 21.) Korm. rendelet"
+njt_id: "2006-148-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/148"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-07-21
+in_force_from: 2006-07-22
+last_amended: 2006-07-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-148-20-22"
+retrieved: 2026-10-12
+---
+
+# 148/2006. (VII. 21.) Korm. rendelet a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NAEWC) Rendszere korszerűsítésére vonatkozó NATO E–3A Együttműködési Programjának az Észak Atlanti Szövetség védelmi miniszterei közötti Többoldalú Egyetértési Nyilatkozata (MMOU) kiegészítésének harmadik módosítása kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NAEW&C) Rendszere korszerűsítésére vonatkozó NATO E–3A Együttműködési Programjának az Észak Atlanti Szövetség védelmi miniszterei közötti Többoldalú Egyetértési Nyilatkozata (MMOU) kiegészítésének harmadik módosítása (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol nyelvű szövege és hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+**Third Amendment to the Addendum to the Multilateral Memorandum of Understanding (MMOU) between the North Atlantic Trealy Organisation ministers of defence on the NATO A–3A Cooperative Program relating to the Modernisation of the NATO Airborne Early W'arning and Control (NAEW&C) System**
+
+Whereas, the Multilateral Memorandum of Understanding (MMOU) for the NATO E–3A Cooperative Programme has been addended with an effective date of 7 December 1990, so as to modernise the NAEW&C System, and amended with an effective date of 13 August 1997 to include a Mid Term Modernisation programme,
+
+whereas the MMOU as addended, and amended on 13 August 1997 was supplemented to account for the accession of Spain with an effective date of 11 December 1998,
+
+whereas the contribution ceiling for the Mid Term Modernisation Programme was raised by an amendment with an effective date of 8 Apríl 2004,
+
+whereas the NAPMO Nations have now agreed to implement an Infrared Counter Measure project, listed as a requirement in the Addendum, as an Urgent Operational Requirement noted by the Military Committee[^3], as follows:
+
+*Article 1*
+
+Amend Section IV, Paragraph 1.a to add a new last sentence:
+
+„The contribution ceiling for an Infrared Counter Measure project, as well as related administration, that will be implemented as a distinct Urgent Operational Requirement in paralel with, but separate from, the Mid-Term Programme will be $ 200 M equivalent in then-year values.”
+
+Amend Section IV, Paragraph 1.c, to add a new fourth sentence:
+
+„Contributions in then-year values to the Infrared Counter Measure project will start in 2006 and, for planning purposes, will cover a three-year period.”
+
+*Article 2*
+
+This amendment, agreed in accordance with Section VII of the Addendum to the MMOU, enters into effect at the date of its last signature.
+
+A NATO Repülőgépfedélzeti Korai Előrejelző\
+és Ellenőrző (NAEW&C)\
+Rendszere korszerűsítésére vonatkozó\
+NATO E–3A Együttműködési Programjának\
+az Észak Atlanti Szövetség védelmi miniszterei\
+közötti Többoldalú Egyetértési Nyilatkozata (MMOU) kiegészítésének harmadik módosítása
+
+Tekintve, hogy a NATO Repülőgépfedélzeti Korai Előrejelző és Ellenőrző (NAEW&C) Rendszere NATO E–3A Együttműködési Programjának Többoldalú Egyetértési Nyilatkozata (MMOU) 1990. december 7-i hatállyal kiegészítésre került avégett, hogy a NAEW&C Rendszer korszerűsítésre kerüljön, illetve módosult a Középtávú Korszerűsítés Programjával 1997. augusztus 13-i hatállyal,
+
+tekintve, hogy az 1997. augusztus 13-án kiegészített és módosított MMOU kiegészítésre került Spanyolország csatlakozásának alkalmával 1998. december 11-i hatállyal,
+
+tekintve, hogy a Középtávú Korszerűsítési Program hozzájárulási felső határértékét megemelték 2004. április 8-i hatállyal,
+
+tekintve, hogy a NAPMO tagállamai egyetértenek az Infravörös Ellentevékenység projektjének kivitelezésével, amely a Kiegészítésben követelményként került felsorolásra, és mint Sürgős Hadműveleti Követelményt a Katonai Bizottság[^4] is elismerte, a következők szerint:
+
+*1. Cikk*
+
+A IV. Cikk 1.a pontja egy új utolsó mondattal egészül ki:
+
+„Az Infravörös Ellentevékenység projekt, valamint kapcsolódó adminisztráció hozzájárulásának felső határértéke, amely Sürgős Hadműveleti Követelményként kerül kivitelezésre, párhuzamosan, de egyértelműen különállóan a Középtávú Programtól, a tízéves értéknek megfelelően 200 millió $ lesz.”
+
+A IV. Cikk 1.c pontja egy új negyedik mondattal egészül ki:
+
+„Az Infravörös Ellentevékenység projektjének tízéves hozzájárulása 2006-ban kezdődik, és tervezési célokra, hároméves időszakot ölel fel.”
+
+*2. Cikk*
+
+Ez a módosítás az MMOU Kiegészítésének VII. Cikkével összhangban került elfogadásra, és az utolsó aláírás napján lép hatályba.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2. és 3. §-a a Megállapodás 2. cikkében meghatározott időpontban lép hatályba.[^5]
+
+(3) A Megállapodás, illetve e rendelet 2. és 3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^6]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a honvédelmi miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 2. cikkében meghatározott időpontban lép hatályba. A 10/2013. (IV. 11.) KüM közlemény alapján a hatálybalépés időpontja 2006. január 13.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 2. cikkében meghatározott időpontban lép hatályba. A 10/2013. (IV. 11.) KüM közlemény alapján a hatálybalépés időpontja 2006. január 13.
+[^3]: IMS'WM84–03 dated 21 February 2003
+[^4]: IMSWMS84–03, kelt 2003. február 21.
+[^5]: A 10/2013. (IV. 11.) KüM közlemény alapján a hatálybalépés időpontja 2006. január 13.
+[^6]: Lásd a 10/2013. (IV. 11.) KüM közelményt.

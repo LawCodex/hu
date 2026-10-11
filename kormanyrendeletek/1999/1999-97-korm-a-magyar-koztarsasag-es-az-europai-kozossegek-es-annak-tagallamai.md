@@ -1,0 +1,123 @@
+---
+title: "97/1999. (VI. 25.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 2/99. számú, Magyarországnak a ,,SAVE II\\'\\' energiahatékonysági közösségi programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről"
+identifier: "97/1999. (VI. 25.) Korm. rendelet"
+njt_id: "1999-97-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/97"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-06-25
+in_force_from: 1999-07-01
+last_amended: 1999-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-97-20-22"
+retrieved: 2026-10-12
+---
+
+# 97/1999. (VI. 25.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 2/99. számú, Magyarországnak a ,,SAVE II\'\' energiahatékonysági közösségi programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 4. §-ának *c)* pontjában kapott felhatalmazás alapján e rendelettel kihirdeti a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanács 2/99. számú, Magyarországnak a ,,SAVE II'' energiahatékonysági közösségi programban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozatát (a továbbiakban: határozat).
+
+## 2. §
+
+A határozat magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság és a Európai Közösségek és annak tagállamai közötti Társulási Tanács\
+2/99. számú határozata\
+Magyarországnak a ,,SAVE II'' energiahatékonysági közösségi programban történő részvétele módozatainak\
+és feltételeinek elfogadásáról
+
+A Társulási Tanács,
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti társulást létesítő Európai Megállapodást,[^1]
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodás Kiegészítő Jegyzőkönyvét Magyarország közösségi programokban történő részvételéről, különösen annak 1. és 2. Cikkét,[^2]
+
+tekintettel arra, hogy az említett Kiegészítő Jegyzőkönyv 1. Cikkének megfelelően Magyarország részt vehet a közösségi keretprogramokban, egyedik programokban, projektumokban és más közösségi akciókban, nevezetesen az energetika területén,
+
+tekintettel az említett Kiegészítő Jegyzőkönyv 2. Cikkére, amelynek értelmében Magyarországnak az 1. Cikkben foglalt tevékenységekben való részvétele módozatait és feltételeit a Társulási Tanács határozza meg,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+Magyarországon részt vesz az Európai Közösség ,,SAVE II'' programjában a jelen határozat elválaszthatatlan részét képező I. és II. Mellékletben meghatározott módozatok és feltételek szerint.
+
+*2. Cikk*
+
+Jelen határozat a ,,SAVE II'' program időtartama alatt marad hatályban.
+
+*3. Cikk*
+
+Jelen határozat az elfogadását követő hónap első napján lép hatályba.
+
+*I. Melléklet*
+
+Magyarország részvételének módozatai és feltételei\
+a ,,SAVE II'' többéves energiahatékonysági közösségi programban
+
+1\. Magyarország a ,,SAVE II'' többéves energiahatékonysági közösségi program (a továbbiakban: ,,SAVE II'') valamennyi akciójában – amennyiben a jelen határozat másként nem rendelkezik – azokkal a célokkal, feltételekkel, eljárásokkal és határidőkkel vesz részt, amelyeket a Tanács 96/737/EK[^3] számú határozata tüntet fel. Ez a határozat ötéves programot hoz létre intézkedések és akciók költséghatékony módon történő előkészítésére és megvalósítására az energiahatékonyság ösztönzése érdekében.
+
+2\. A jogosult magyar intézmények, szervezetek és természetes személyek pályázatának benyújtására, értékelésére és kiválasztására vonatkozó szabályok és feltételek megegyeznek a Közösség jogosult intézményei, szervezetei és természetes személyei tekintetében alkalmazott szabályokkal és feltételekkel Magyarország pénzügyi hozzájárulásának keretén belül, az adminisztratív költségek levonásával, a II. Mellékletben rögzítettek szerint.
+
+3\. A ,,SAVE II'' közösségi jellegének biztosítása érdekében a Magyarország által javasolt nemzetközi projektumok és tevékenységek megvalósításához minimális számú, a Közösség tagállamaiból való partner részvétele szükséges. E minimális szám a ,,SAVE II'' megvalósítása során kerül meghatározásra, figyelembe véve a különböző tevékenységek jellegét, az adott projektumban részt vevő partnerek és a tevékenységben részt vevő országok számát.
+
+4\. Magyarország minden szükséges intézkedést megtesz a ,,SAVE II''-ben való részvétel nemzeti koordinálásának és megszervezésének biztosítása érdekében.
+
+5\. Magyarország minden évben hozzájárulást fizet az Európai Közösségek általános költségvetéséhez a ,,SAVE II''-ben való részvételéből fakadó költségek fedezésére (lásd II. Melléklet).
+
+A Társulási Bizottság jogosult a hozzájárulást szükség esetén módosítani.
+
+6\. A Közösség tagállamai és Magyarország – a hatályban lévő rendelkezések keretei között – mindent megtesznek a Magyarország és a Közösség tagállamai között a határozat alá tartozó tevékenységekben való részvétel céljából utazó személyek szabad mozgásának és tartózkodásának megkönnyítése érdekében.
+
+7\. A Tanács 96/737/EK számú határozatának 5. Cikke alapján – nem érintve a Bizottságnak és az Európai Közösségek Számvevőszékének a ,,SAVE II'' felügyeletével és értékelésével kapcsolatos felelősségét – Magyarország részvételét a programban Magyarország és az Európai Közösségek Bizottsága közösen, a partnerség alapján folyamatosan figyelemmel kíséri. Magyarország a Bizottság elé terjeszti a szükséges jelentéseket, és részt vesz a Közösség más, e célt szolgáló sajátos tevékenységeiben.
+
+8\. Nem érintve a Tanács 96/737/EK számú határozatának 4. és 5. Cikkében foglalt eljárásokat, Magyarország meghívást kap a SAVE Bizottság rendes üléseit megelőző, a határozat végrehajtásával kapcsolatos bármely kérdésről folytatandó egyeztető üléseire. E rendes ülések eredményeiről a Bizottság tájékoztatja Magyarországot.
+
+9\. A pályázati eljárás, a szerződések, a beterjesztendő jelentések és a ,,SAVE II'' programmal kapcsolatos egyéb adminisztratív rendelkezések vonatkozásában használt nyelv a Közösség valamelyik hivatalos nyelve.
+
+*II. Melléklet*
+
+Magyarország pénzügyi hozzájárulása\
+a ,,SAVE II'' programhoz
+
+1\. Magyarország pénzügyi hozzájárulása fedezi:
+
+– a programokból a magyar résztvevők számára nyújtott támogatásokat és valamennyi egyéb pénzügyi támogatást,
+
+– a Magyarország részvételéből eredő igazgatási jellegű többletköltségeket, amelyek az Európai Közösségek Bizottságánál a program kezelése során jelentkeznek.
+
+2\. A programból a magyar kedvezményezettek számára nyújtott támogatások és valamennyi egyéb pénzügyi támogatás együttes összege az igazgatási többletköltségek levonását követően költségvetési évenként nem haladhatja meg a Magyarország által befizetett hozzájárulás mértékét.
+
+Amennyiben a Magyarország által az Európai Közösségek általános költségvetésébe befizetett hozzájárulás az igazgatási többletköltségek levonását követően meghaladja a programból a magyar kedvezményezetteknek nyújtott támogatások és az egyéb pénzügyi támogatás együttes összegét, a Bizottság a különbséget a következő költségvetési időszakra átvezeti, majd levonja a következő évben esedékes hozzájárulásból. A program zárómérlegében jelentkező maradványösszeget visszafizetik Magyarországnak.
+
+3\. 1999-től Magyarország éves hozzájárulása 309.024 EUR. Ebből az összegből 21.024 EUR fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+4\. Magyarország hozzájárulásának kezelésének az Európai Közösségek általános költségvetésére vonatkozó pénzügyi szabályok érvényesek.
+
+A Bizottság e határozat hatálybalépésekor és azt követően minden év elején felhívást intéz Magyarországhoz a jelen határozat szerint rá eső pénzügyi befizetés teljesítésére.
+
+E hozzájárulást euróban kell meghatározni, és a Bizottság euróban vezetett bankszámlájára kell átutalni.
+
+Magyarország a jelen határozat szerinti éves költségvetési hozzájárulását a befizetési felhívásnak megfelelően, de legkésőbb a felhívás megküldését követő három hónapon belül teljesíti. A hozzájárulás késedelmes teljesítése esetén a késedelem időpontjától kamatfizetési kötelezettség terheli Magyarországot a még be nem fizetett összegre vonatkozóan. A kamat mértéke az Európai Pénzügyi Együttműködési Alap által euróban[^4] végrehajtott műveletek esetén a késedelem hónapjában érvényes kamatláb 1,5 %-ponttal emelt értéke.
+
+5\. Magyarország a 3. bekezdésben említett igazgatási többletköltséget (21.024 EUR) a nemzeti költségvetésből fedezi.
+
+6\. Magyarország a ,,SAVE II'' programban való részvétele fennmaradó költségeiből 144.000 EUR-t a nemzeti költségvetésből fedez.
+
+A PHARE-programokra érvényes szabályos eljárásoknak megfelelően 144.000 EUR-t Magyarország az éves PHARE-forrása fedez.''
+
+## 3. §
+
+Ez a rendelet 1999. július 1. napján lép hatályba. Végrehajtásáról a gazdasági miniszter és a PHARE-programok koordinálásáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
+
+---
+
+[^1]: Európai Közösségek Hivatalos Lapja, 1993. 12. 31., L347. sz. 2. oldal.
+[^2]: Európai Közösségek Hivatalos Lapja, 1995. 12. 30., L317. sz. 30. oldal.
+[^3]: Európai Közösségek Hivatalos Lapja, 1996. 12. 24., L335. sz., 50. oldal.
+[^4]: A kamatlábakat az Európai Közösségek Hivatalos Lapja havonta közli a C sorozatban.

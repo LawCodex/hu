@@ -1,0 +1,198 @@
+---
+title: "154/2007. (VI. 27.) Korm. rendelet a Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény kihirdetéséről"
+identifier: "154/2007. (VI. 27.) Korm. rendelet"
+njt_id: "2007-154-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/154"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-06-27
+in_force_from: 2007-10-23
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-154-20-22"
+retrieved: 2026-10-12
+---
+
+# 154/2007. (VI. 27.) Korm. rendelet a Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló Egyezmény kihirdetéséről
+
+## 1. §[^1]
+
+A Kormány a Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya közötti oktatási, tudományos és kulturális együttműködésről szóló egyezményt (a továbbiakban: szerződés) e rendelettel kihirdeti.
+
+## 2. §[^2]
+
+A szerződés hiteles magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény\
+Bosznia és Hercegovina Minisztertanácsa,\
+valamint a Magyar Köztársaság Kormánya közötti\
+oktatási, tudományos és kulturális együttműködésről
+
+Bosznia és Hercegovina Minisztertanácsa, valamint a Magyar Köztársaság Kormánya (a továbbiakban: a Szerződő Felek)
+
+– az országaik közötti együttműködés további bővítésének és elmélyítésének szándékától vezérelve,
+
+– abban a meggyőződésben, hogy az oktatási, tudományos és kulturális együttműködés, valamint a széles körű emberi kapcsolatok hozzájárulnak mindkét állam nemzeti kultúrájának gazdagodásához;
+
+– attól a szándéktól vezérelve, hogy az oktatás, a tudományok és a kultúra sajátos eszközeivel kölcsönösen erősítsék a két ország és állampolgárai közötti megértést;
+
+– azzal a meggyőződéssel, hogy az oktatás, a tudományok, a kultúra és a művészetek terén megvalósuló együttműködésük által hozzájárulnak az Európai Biztonsági és Együttműködési Értekezletek záróokmányaiban, a párizsi „Új Európáért” Charta-ban, az Európa Tanács ajánlásaiban, továbbá az Európai Biztonsági és Együttműködési Szervezet dokumentumaiban, valamint a Délkelet-Európai Stabilitási Egyezményben foglaltak megvalósításához, s így elősegítik népeik nagyobb fokú bekapcsolódását az integrálódó Európa kulturális életébe, melynek révén hatékonyan mozdíthatják elő a közös európai kultúra gazdagodását is,
+
+az alábbiakban állapodnak meg:
+
+*1. cikk*
+
+A Szerződő Felek az egyenlőség és a kölcsönösség alapján, mindkét Fél érdekeinek tiszteletben tartásával támogatják a széles körű együttműködést az oktatás, a kutatás, a tudomány, a kultúra és a művészetek a tájékoztatás és a tömegtájékoztatási eszközök felhasználása terén. Támogatják az állami, társadalmi és magánintézmények, egyházak, szervezetek és egyesületek, valamint magánszemélyek – a jelen Egyezmény céljainak elérését szolgáló – kezdeményezéseit és sokoldalú együttműködési formáit.
+
+*2. cikk*
+
+A Szerződő Felek az intézmények, egyházak, szervezetek, egyesületek, települések, önkormányzatok stb. kölcsönös igényeken és érdeklődésen alapuló közvetlen együttműködését tekintik az országaik közötti oktatási, tudományos és kulturális együttműködés alapvető formájának.
+
+A mind hatékonyabb együttműködés érdekében támogatják a már meglévő közvetlen kapcsolatokat és elősegítik újabbak létesítését.
+
+*3. cikk*
+
+A Szerződő Felek ösztönzik tudományos akadémiáik, felsőoktatási intézményeik és az ezekhez kapcsolódó kutatóintézetek – közvetlen megállapodásokon alapuló – együttműködését. Támogatják a tudományos kutatók cseréjét, a közös kutatásokat, valamint azok eredményeinek publikálását, a közös tudományos rendezvények szervezését, a tudományos információk és dokumentációk cseréjét.
+
+A Szerződő Felek támogatják a másik ország népének, illetve népeinek nyelvével, történelmével, kultúrájával és művészetével foglalkozó intézményeket és kutatómunkát, bátorítják műfordítóik szakmai képzését és továbbképzését.
+
+A Szerződő Felek megkönnyítik egymás kutatói számára a könyvtáraikban, levéltáraikban, múzeumaikban, műemlékvédelmi intézményeikben, felsőoktatási és tudományos intézeteikben, testületeikben és egyesületeikben található anyagokhoz való hozzájutást, és lehetővé teszik a tudományos kutatások végzésének lehetőségét ezekben az intézményekben.
+
+*4. cikk*
+
+A Szerződő Felek a tudományos és technológiai együttműködés területén az ebben érdekelt intézmények közvetlen megállapodásain alapuló kooperációt szorgalmazzák.
+
+*5. cikk*
+
+1\. A Szerződő Felek bővítik együttműködésüket és cserekapcsolataikat az oktatásügy terén. Ennek érdekében:
+
+*a)* támogatják iskolarendszeren belüli és kívüli köz-, szak- és felsőoktatási intézményeik, valamint az ezekhez kapcsolódó intézmények – közvetlen megállapodásokon alapuló – együttműködését,
+
+*b)* szorgalmazzák az oktatásügy irányítása valamennyi szintjén és területén működő szakemberek cseréjét,
+
+*c)* teljes és részképzésben, doktori és egyéb továbbképzésben való részvétel céljából diák- és hallgatói cserét folytatnak,
+
+*d)* kölcsönösen elősegítik a felsőoktatásban és szakképzésben tevékenykedő oktatók és tudományos munkatársak tanulmányútjait, közös projektek megvalósítását szolgáló konzultációs kiküldetéseit, konferenciákon, szakmai szemináriumokon és előadásokon való részvételét,
+
+*e)* támogatják a köz- és szakoktatásban használatos tankönyvek, egyetemi jegyzetek és egyéb oktatási-nevelési segédanyagok cseréjét.
+
+2\. A Szerződő Felek a másik ország népe, illetve népei nyelvének, irodalmának, történelmének és kultúrájának minél jobb megismertetése érdekében megkülönböztetett figyelmet fordítanak felsőoktatási intézményeik bosnyák, horvát, szerb nyelvet, irodalmat és kultúrát, illetve magyar nyelvet, irodalmat és kultúrát oktató tanszékeinek működésére és igényeire, s vendégoktatókat (vendéglektorokat, illetőleg vendégprofesszorokat) fogadnak ezen oktatóhelyeken a másik országból.
+
+3\. A Szerződő Felek kölcsönösen lehetővé teszik, hogy állampolgáraik a másik Fél oktatási intézményeiben tanulmányokat folytathassanak. Résztvevőket fogadnak továbbá a népeik nyelve és kultúrája alaposabb megismerését szolgáló nyári egyetemeken, speciális kurzusokon.
+
+A Szerződő Felek a fenti célok elérése érdekében – lehetőségeikkel összhangban – ösztöndíjakat adományoznak, vagy egyéb anyagi segítséget nyújtanak a másik ország állampolgárai részére.
+
+*6. cikk*
+
+A Szerződő Felek – az Európa Tanács és az UNESCO keretei között aláírt többoldalú megállapodásokkal összhangban – egyezmény megkötését szorgalmazzák a két országban kiadott, az iskolai végzettséget és szakképzettséget tanúsító, valamint a megszerzett tudományos fokozatok és címek odaítéléséről szóló okiratok kölcsönös elismeréséről.
+
+*7. cikk*
+
+A Szerződő Felek rendszeresen kicserélik a nemzeti kisebbségek oktatása és kulturális ellátása terén szerzett tapasztalataikat.
+
+*8. cikk*
+
+A Szerződő Felek kulturális örökségük és mai kulturális eredményeik megismertetése érdekében támogatják a kölcsönös érdeklődésen és előnyökön alapuló együttműködést és cserét a kultúra, a hivatásos és amatőr művészetek valamennyi területén, s megteremtik a megfelelő feltételeket az e területeken működő kormányzati és nem kormányzati intézmények, szervezetek, egyesületek stb., valamint magánszemélyek együttműködéséhez.
+
+Bátorítják
+
+*a)* a színházi, zenei, ének-, tánc- és bábművészeti, irodalmi, képzőművészeti, iparművészeti, fotó- és filmművészeti intézmények, művészeti szakemberek és ügynökségek, a könyvkiadói és könyvterjesztői szövetségek, illetve szervezetek, a könyvtárak, művelődési otthonok, múzeumok, galériák, az ingó és ingatlan kulturális örökségük védelmével foglalkozó intézmények, természetvédelmi és környezetvédelmi intézmények együttműködését, a kultúra valamennyi területén folyó személy-, tapasztalat- és dokumentáció-cserét;
+
+*b)* az írók, műfordítók, zeneszerzők, zeneművészek, színművészek, ének- és táncművészek, báb-, fotó- és filmművészek, televíziós és rádiós alkotók, építőművészek, képző- és iparművészek, valamint művészettörténészek szövetségeinek, egyesületeinek és más szervezeteinek együttműködését;
+
+*c)* a másik ország szerzői művészeti, irodalmi és tudományos műveinek fordítását és kiadását;
+
+*d)* a másik ország művészi alkotásainak bemutatását a prózai, zenés, tánc- és bábszínházakban, operaházakban, hangversenytermekben, galériákban, filmszínházakban, a rádióban és a televízióban stb.;
+
+*e)* egyéb, a másik ország kultúráját, életét bemutató kiállítások, valamint tájékoztató anyagok cseréjét;
+
+*f)* a hivatásos, valamint amatőr művészek és művészeti csoportok (kórusok, zenekarok, együttesek) cseréjét;
+
+*g)* az információk, kiadványok, könyvek, folyóiratok és más információhordozók, hang- és képhordozó eszközök cseréjét;
+
+*h)* az audiovizuális művészetek területén folytatandó kereskedelmi és nem kereskedelmi együttműködés minden formáját, a filmarchívumaik, filmforgalmazó és filmgyártó cégeik közötti közvetlen kapcsolatok kiépítését;
+
+*i)* képviselők küldését a másik Fél által rendezett kulturális fesztiválokra, versenyekre, filmhetekre vagy egyéb szemlékre, konferenciákra, nemzetközi találkozókra, alkotótelepekre, szakmai képzésre és a nemzetközi versenyek zsűrijébe;
+
+*j)* az új kulturális értékeket teremtő személyek kezdeményezéseit és vállalkozásait.
+
+*9. cikk*
+
+A Szerződő Felek támogatják a kulturális örökségük megőrzését szolgáló együttműködés minden formáját:
+
+– rendszeres tapasztalatcserét és közvetlen együttműködést szorgalmaznak az épített műemlékek és a régészeti örökség védelme terén érdekelt intézményeik között;
+
+– együttműködnek a világörökség kutatása és védelme területén;
+
+– együttműködnek a területükre került, a másik Fél kulturális javait képező emlékanyag felkutatásában, sértetlen megőrzésében, helyreállításában és – amennyiben e javak jogtalanul kerültek birtokukba, illetőleg országuk területére – a másik Fél részére történő visszaszolgáltatásában;
+
+– külön-külön és együttesen is fellépnek a kulturális javak illegális forgalmazásának minden formájával szemben.
+
+*10. cikk*
+
+A Szerződő Felek – állampolgáraik objektív és sokoldalú tájékoztatása érdekében – kölcsönösen biztosítják a két ország politikai, társadalmi, kulturális és tudományos életére vonatkozó információk szabad áramlását.
+
+Ennek érdekében előmozdítják közszolgálati rádióik és televízióik, távirati irodáik, újságíró szervezeteik, kiadóik és szerkesztőségeik együttműködését.
+
+*11. cikk*
+
+A Szerződő Felek elősegítik a kormányközi és nem kormányzati oktatási, tudományos és kulturális nemzetközi szervezetek keretei közötti együttműködést, s tájékoztatják egymást az ezen keretek között szerzett tapasztalataikról.
+
+*12. cikk*
+
+A Szerződő Felek – kulturális és szellemi javaik terjesztésének és népszerűsítésének megkönnyítése érdekében, a szükséges jogi szabályozást is létrehozva – biztosítják a másik Fél állampolgárai és jogi személyei szerzői jogainak törvényes védelmét.
+
+*13. cikk*
+
+A Szerződő Felek támogatják a jelen Egyezmény által szabályozott területeken nemzetközi kereskedelmi tevékenységet folytató természetes és jogi személyek közötti együttműködést.
+
+*14. cikk*
+
+A Szerződő Felek diplomáciai képviseleteik útján segítik a jelen Egyezményben vállalt együttműködési feladatok megoldását.
+
+*15. cikk*
+
+A Szerződő Felek támogatják a két ország közötti kulturális kapcsolatok fejlesztését szolgáló társadalmi szervezetek, nemzetiségi szövetségek, illetve jogi személyek tevékenységét.
+
+*16. cikk*
+
+A jelen Egyezmény megvalósítása érdekében a Szerződő Felek, illetve érintett intézményeik és szervezeteik együttműködési programokat, munkaterveket, jegyzőkönyveket, akcióterveket vagy megállapodásokat dolgoznak ki, amelyekben meghatározzák az együttműködés pénzügyi és szervezeti feltételeit.
+
+*17. cikk*
+
+A jelen Egyezmény mindkét Szerződő Fél belső jogszabályainak megfelelően jóváhagyásra szorul, s az ehhez szükséges feltételek teljesüléséről szóló későbbi diplomáciai értesítés kézhezvételének napján lép hatályba, rendelkezéseit azonban az aláírás napjától ideiglenesen alkalmazni kell.
+
+*18. cikk*
+
+A jelen Egyezmény hatálybalépésével a Magyar Népköztársaság Kormánya és a Jugoszláv Szövetségi Köztársaság Képviselőháza Végrehajtó Tanácsa közötti tudományos, oktatási és kulturális együttműködésről Belgrádban, 1986. március 24-én aláírt Egyezmény a Magyar Köztársaság, valamint Bosznia és Hercegovina viszonylatában hatályát veszti.
+
+A jelen Egyezmény határozatlan időre szól, és az egyik Szerződő Fél által történt felmondás időpontját követően még hat hónapig marad hatályban. Felmondása esetén minden a jelen Egyezményen alapuló befejezetlen csereprogram, közös rendezvény vagy projekt az eredetileg meghatározott időpontig valósul meg.
+
+Kelt Budapesten, 2005. június 23-án, két eredeti példányban, mindegyik magyar, bosnyák, horvát, szerb és angol nyelven. Mind az öt szöveg egyformán hiteles. Az Egyezmény rendelkezéseinek eltérő értelmezése esetén az angol nyelvű szöveg az irányadó.
+
+Bosznia és Hercegovina\
+Minisztertanácsa nevében
+
+A Magyar Köztársaság\
+Kormánya nevében”
+
+## 3. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 1–2. §-a a szerződés 17. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A szerződés, illetve e rendelet 1–2. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Az 1. § – a 3. § (2) bekezdése alapján – a szerződés 17. cikkében meghatározott időpontban lép hatályba. A 21/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2007. október 23.
+[^2]: A 2. § – a 3. § (2) bekezdése alapján – a szerződés 17. cikkében meghatározott időpontban lép hatályba. A 21/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2007. október 23.
+[^3]: A 21/2012. (IV. 13.) KÜM közlemény alapján a hatálybalépés időpontja: 2007. október 23.
+[^4]: Lásd a 21/2012. (IV. 13.) KÜM közleményt.
+[^5]: A 3. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 48. §-a szerint módosított szöveg.

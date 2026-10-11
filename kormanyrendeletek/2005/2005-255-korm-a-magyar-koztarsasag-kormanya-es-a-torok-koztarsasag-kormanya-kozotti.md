@@ -1,0 +1,251 @@
+---
+title: "255/2005. (XII. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti gazdasági együttműködési megállapodás kihirdetéséről"
+identifier: "255/2005. (XII. 6.) Korm. rendelet"
+njt_id: "2005-255-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/255"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-12-06
+in_force_from: 2005-12-07
+last_amended: 2005-12-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-255-20-22"
+retrieved: 2026-10-12
+---
+
+# 255/2005. (XII. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti gazdasági együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya közötti gazdasági együttműködési megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §[^1]
+
+A Megállapodás hivatalos angol szövege és annak hiteles magyar nyelvű fordítása a következő:
+
+„
+
+**Agreement on economic cooperation between the Government of the Republic of Hungary and the Government of the Republic of Turkey**
+
+The Government of the Republic of Hungary and the Government of the Republic of Turkey, hereinafter referred to as „the Contracting Parties”,
+
+– desirous of enhancing the long-standing relationship between their countries,
+
+– wishing to continue and reinforce their existing traditional economic relations,
+
+– with the intention of developing and intensifying their economic, industrial, technical and technological cooperation on the basis of mutual benefit,
+
+– with the conviction that the deepening of the contractual framework establishes favourable conditions and suitable basis for further cooperation,
+
+– within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations
+
+have agreed as follows:
+
+*Article 1*
+
+The main objective of this Agreement is to promote and develop bilateral economic cooperation.
+
+The Contracting Parties shall, within the framework of their respective legislation in force, make every effort to develop and strengthen economic cooperation, on a basis as broad as possible, in all fields deemed to be in their mutual interest and benefit.
+
+*Article 2*
+
+The Contracting Parties, considering the current state and perspectives of economic relations, agree that favourable conditions for long-term co-operation exist, in particular in the following areas:
+
+– Agriculture and food processing industry,
+
+– Energy,
+
+– Electrical equipment and appliances,
+
+– Chemical and petrochemical industry,
+
+– Infrastructure development,
+
+– Water management and forestry industry,
+
+– Health care, medical technology, medical and pharmaceutical industry,
+
+– Tourism,
+
+– IT and Communications,
+
+– Transport,
+
+– Science and technology,
+
+– Cooperation on third markets.
+
+*Article 3*
+
+The Contracting Parties shall endeavour to broaden and intensify their cooperation through appropriate means, such as:
+
+– Promoting links and strengthening the cooperation between the government institutions, public and private sector organizations through the exchange of economic and business information of mutual interest, as well as the visits of their representatives and other economic and technical delegations,
+
+– Exchanging information on development priorities and encouraging the business circles of both countries to participate in development projects,
+
+– Encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences,
+
+– Promoting the stronger participation of small and medium-sized enterprises in bilateral economic relations,
+
+– Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their cooperation respectively,
+
+– Encouraging investment activities, the foundation of joint ventures, establishment of company representations and branch offices,
+
+– Cooperation on international level in the issues of mutual interest.
+
+*Article 4*
+
+The Contracting Parties hereby establish a „Hungarian– Turkish Joint Commission” for promoting and facilitating economic cooperation between the two countries.
+
+The Hungarian–Turkish Joint Commission shall, inter alia:
+
+– Recommend any necessary measures for the successful application and implementation of this Agreement,
+
+– Discuss the development of the bilateral economic relations,
+
+– Identify new possibilities for further development of the future economic cooperation,
+
+– Identify and promote opportunities in order to increase cooperation in the investment field and in the industrial cooperation,
+
+– Serve as a consultation forum between the Contracting Parties and make proposals for the implementation of this Agreement.
+
+The Hungarian–Turkish Joint Commission shall meet upon the request of either Contracting Party alternately in Hungary and in Turkey.
+
+*Article 5*
+
+This Agreement shall apply without prejudice to the obligations flowing from Hungary's membership in the European Union, and subject to those obligations. The provisions of this Agreement may not be invoked or interpreted in such a way as to invalidate or otherwise affect the obligations imposed by the Treaty on European Union or by the Association Agreement between the European Economic Community and Turkey.
+
+*Article 6*
+
+Any dispute between the Contracting Parties relating to the interpretation or implementation of this Agreement shall be resolved without unreasonable delay, by friendly consultations and negotiations.
+
+Any amendment to this Agreement shall comply with the existing legal procedures established by the legislation of the Contracting Parties.
+
+*Article 7*
+
+This Agreement shall enter into force on the date of exchanging notes indicating the completion of the constitutional procedures of both countries and shall be valid for a period of five (5) years, thereafter it shall be extended every year for an additional one year period, unless a written notice of termination is given by either Contracting Party six (6) months prior to its expiration.
+
+Done and signed in Budapest on May 12, 2005, in two originals in the English language.”
+
+„
+
+**Gazdasági együttműködési megállapodás a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között**
+
+A Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+– azzal az óhajjal, hogy elmélyítsék az országaik közötti hosszú távú kapcsolatokat,
+
+– azzal a törekvéssel, hogy fenntartsák és erősítsék tradicionális gazdasági kapcsolataikat,
+
+– azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék és intenzívebbé tegyék gazdasági, ipari, műszaki és technológiai együttműködésüket,
+
+– azzal a meggyőződéssel, hogy a szerződéses keretek erősítése a további együttműködéshez előnyös feltételeket és megfelelő alapot teremt,
+
+– a két országban hatályban lévő törvények keretei között és nemzetközi kötelezettségeikkel teljes összhangban
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+Jelen Megállapodás fő célja a kétoldalú gazdasági együttműködés elősegítése és fejlesztése.
+
+A Szerződő Felek hatályban levő törvényeik keretein belül mindent megtesznek a gazdasági együttműködés lehető legszélesebb alapokon történő fejlesztéséért és elmélyítéséért a kölcsönös érdekeiket és előnyöket szolgálónak tekintett valamennyi területen.
+
+*2. Cikk*
+
+Figyelembe véve a gazdasági kapcsolatok jelenlegi helyzetét és perspektíváit a Szerződő Felek egyetértenek abban, hogy különösen a következő területeken kedvezőek a feltételek a hosszú távú együttműködésre:
+
+– mezőgazdaság és élelmiszeripar,
+
+– energiaszektor,
+
+– elektromos berendezések és készülékek,
+
+– vegyipar és petrolkémiai ipar,
+
+– infrastrukturális fejlesztés,
+
+– víz- és erdőgazdálkodás,
+
+– egészségügy, gyógyászati technológia, orvostechnikai eszközök és gyógyszeripar,
+
+– idegenforgalom,
+
+– informatika és hírközlés,
+
+– közlekedés,
+
+– tudomány és technológia,
+
+– harmadik piaci együttműködés.
+
+*3. Cikk*
+
+A Szerződő Felek törekednek arra, hogy megfelelő eszközökkel szélesítsék és mélyítsék el együttműködésüket:
+
+– elősegítik a kapcsolatok építését és erősítik az együttműködést a kormányzati intézmények, az állami és a magánszektor szervezetei között, a kölcsönös érdeklődésre számot tartó gazdasági és üzleti információk cseréjével, valamint saját képviselőik és más gazdasági és szakmai delegációk látogatásai révén,
+
+– információt cserélnek a fejlesztési prioritásokról és bátorítják mindkét ország üzleti köreit a fejlesztési projektekben való részvételre,
+
+– bátorítják a vásárokon és kiállításokon történő részvételt, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezését,
+
+– elősegítik kis- és közepes vállalkozásaik erőteljesebb részvételét a kétoldalú gazdasági kapcsolatokban,
+
+– bátorítják pénzügyi intézményeiket és bankszektorukat szorosabb kapcsolatok létesítésére és együttműködésük erősítésére,
+
+– bátorítják a beruházási tevékenységet, vegyes vállalatok alapítását, képviseletek és fiókvállalatok létesítését,
+
+– együttműködnek nemzetközi szinten a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+*4. Cikk*
+
+A Szerződő Felek Magyar–Török Vegyes Bizottságot alapítanak a két ország közötti gazdasági együttműködés előmozdítására és fejlesztésére.
+
+A Magyar–Török Vegyes Bizottság többek között:
+
+– ajánlást tesz a jelen Megállapodás sikeres alkalmazásához és végrehajtásához szükséges intézkedésekre,
+
+– megvitatja a kétoldalú gazdasági kapcsolatok fejlődését,
+
+– azonosítja a gazdasági együttműködés további fejlesztésének új lehetőségeit,
+
+– lehetőségeket azonosít és ösztönzést nyújt, hogy erősítse az együttműködést a beruházások terén és az ipari együttműködésben,
+
+– a Szerződő Felek közötti konzultációs fórumként javaslatokat tesz a jelen Megállapodás végrehajtására.
+
+A Magyar–Török Vegyes Bizottság a Szerződő Felek egyikének kérésére felváltva Magyarországon és Törökországban ülésezik.
+
+*5. Cikk*
+
+A jelen Megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek Magyarország Európai Uniós tagságából fakadnak, és azokra tekintettel alkalmazandó. A jelen Megállapodás rendelkezései nem idézhetők vagy értelmezhetők úgy, hogy érvénytelenítik vagy más módon befolyásolják az Európai Unióról szóló Szerződés vagy az Európai Közösség és Törökország közötti Társulási Megállapodás által előírt kötelezettségeket.
+
+*6. Cikk*
+
+A Szerződő Felek a jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatos bármilyen vitát indokolatlan késedelem nélkül, baráti konzultációk és tárgyalások révén rendezik.
+
+Jelen Megállapodás módosítása a Szerződő Felek jogszabályaiban megállapított belső jogi eljárásoknak megfelelően történik.
+
+*7. Cikk*
+
+A jelen Megállapodás a két ország belső alkotmányjogi eljárásának befejezését jelző jegyzékváltás napján lép hatályba, és a hatálybalépés napjától számított 5 (öt) évig marad hatályban, ezután további egy-egy éves periódusokkal automatikusan meghosszabbodik mindaddig, amíg az egyik Szerződő Fél a megszüntetésére irányuló szándékáról 6 (hat) hónappal a lejárat előtt a másik Szerződő Felet írásban nem értesíti.
+
+Kelt és aláírásra került Budapesten, 2005. május 12-én, két eredeti példányban, angol nyelven.
+
+*(Aláírások)”*
+
+## 3. §[^2]
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 7. cikkében meghatározott időpontban lép hatályba.
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 3. § (2) bekezdése alapján a Megállapodás 7. cikkében meghatározott időpontban lép hatályba. A 24/2007. (VII. 20.) KüM határozat alapján a hatálybalépés időpontja 2007. július 2. napja.
+[^2]: A 24/2007. (VII. 20.) KüM határozat alapján a hatálybalépés időpontja 2007. július 2. napja.
+[^3]: Lásd a 24/2007. (VII. 20.) KüM határozatot.

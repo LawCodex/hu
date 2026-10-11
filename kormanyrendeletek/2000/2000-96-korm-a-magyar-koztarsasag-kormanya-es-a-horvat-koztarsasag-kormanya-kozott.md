@@ -1,0 +1,150 @@
+---
+title: "96/2000. (VI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 2000. május 23-án aláírt Megállapodás kihirdetéséről"
+identifier: "96/2000. (VI. 22.) Korm. rendelet"
+njt_id: "2000-96-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/96"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-06-22
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-96-20-22"
+retrieved: 2026-10-12
+---
+
+# 96/2000. (VI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 2000. május 23-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 2000. június 15. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Budapesten, 2000. május 23-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: a Szerződő Felek)
+
+szem előtt tartva a Magyar Köztársaság és a Horvát Köztársaság között Budapesten, 1992. december 16-án aláírt, a baráti kapcsolatokról és az együttműködésről szóló Szerződésben foglalt célkitűzéseket,
+
+tekintettel a két ország közötti kapcsolatok eddigi fejlődésére és eredményeire,
+
+kifejezve azon óhajukat, hogy a továbbiakban is minden területen fejlesszék és erősítsék az országaik közötti kapcsolatokat,
+
+a vízumkötelezettség kölcsönös megszüntetéséről az alábbiak szerint állapodtak meg:
+
+*1. Cikk*
+
+Az egyik Szerződő Fél államának érvényes, a jelen Megállapodás szerves részét képező Mellékletben felsorolt úti okmánnyal rendelkező állampolgárai az utas- és áruforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a másik Szerződő Fél államának területére, ott külön engedély nélkül legfeljebb kilencven napig tartózkodhatnak és kiutazhatnak.
+
+*2. Cikk*
+
+(1) Az egyik Szerződő Fél államának érvényes diplomata vagy szolgálati útlevéllel rendelkező állampolgárai az utas- és áruforgalom számára kijelölt határátkelőhelyeken vízum nélkül utazhatnak be a másik Szerződő Fél államterületére, ott – külön engedély nélkül – legfeljebb kilencven napig tartózkodhatnak és kiutazhatnak.
+
+(2) Az egyik Szerződő Fél államának érvényes diplomata vagy szolgálati útlevéllel rendelkező azon állampolgárai, akik a másik Szerződő Fél államának területén működő diplomáciai, konzuli képviseletén teljesítenek szolgálatot vagy az egyik Szerződő Fél képviselői olyan nemzetközi szervezeteknél, amelyeknek székhelye a másik Szerződő Fél államának területén van, szolgálatuk teljes időtartama alatt vízum nélkül utazhatnak be a másik Szerződő Fél államának területére, ott külön engedély nélkül tartózkodhatnak és kiutazhatnak.
+
+(3) A (1) bekezdésben említett személyek szolgálatának időtartama alatt a velük közös háztartásban élő házastársukat és gyermeküket is megilletik a (2) bekezdés szerinti jogosultságok, amennyiben érvényes magyar vagy horvát diplomata vagy szolgálati útlevéllel rendelkeznek.
+
+*3. Cikk*
+
+(1) Az egyik Szerződő Fél állampolgárai a másik Szerződő Fél államának területére kilencven napnál hosszabb idejű tartózkodás, munkavállalás vagy egyéb jövedelemszerző tevékenység, illetőleg bevándorlás céljából csak előzetesen beszerzett vízum birtokában utazhatnak be.
+
+(2) A tartózkodási engedély beszerzésére a Szerződő Felek belső jogi szabályozása az irányadó.
+
+*4. Cikk*
+
+Az egyik Szerződő Fél állampolgárai a másik Szerződő Fél államának területén való tartózkodásuk során kötelesek annak jogszabályait betartani.
+
+*5. Cikk*
+
+A jelen Megállapodás nem érinti a Szerződő Felek azon jogát, hogy azoknak a személyeknek a beléptetését vagy saját területükön való tartózkodását megtagadják, akik nemkívánatosak, illetőleg a be- és kiutazásra vagy tartózkodásra vonatkozó előírásoknak nem tesznek eleget.
+
+*6. Cikk*
+
+Az egyik Szerződő Fél azon állampolgárai, akik a másik Szerződő Fél államának területén elvesztették úti okmányukat, kötelesek az úti okmány elvesztését a tartózkodási állam hatóságánál bejelenteni. A hatóság az úti okmány elvesztéséről jegyzőkönyvet vesz fel. A kiutazás feltétele a hatósági jegyzőkönyv és az úti okmányát elvesztő honossága szerinti állam diplomáciai vagy konzuli képviselete által kiállított úti okmány, de kiutazási vízum vagy engedély nem szükséges.
+
+*7. Cikk*
+
+A jelen Megállapodás alkalmazását közrendi, közbiztonsági vagy közegészségügyi okból bármelyik Szerződő Fél egészében vagy részben, átmenetileg felfüggesztheti. Ezen intézkedés bevezetéséről, valamint megszüntetéséről a másik Szerződő Felet diplomáciai úton, írásban haladéktalanul tájékoztatni kell.
+
+*8. Cikk*
+
+(1) A Szerződő Felek legkésőbb a jelen Megállapodás aláírását követő harminc napon belül, diplomáciai úton megküldik egymásnak az államterületükön érvényben lévő, a jelen Megállapodás Mellékletében felsorolt úti okmányok mintapéldányait és azok leírását.
+
+(2) Ha a Szerződő Felek egyike a jelen Megállapodás hatálybalépése után az érvényben lévő, a jelen Megállapodás Mellékletében felsorolt úti okmányait megváltoztatja vagy új fajta úti okmányt vezet be, azok érvénybelépése előtt legalább harminc nappal, diplomáciai úton, a minták és azok leírásának csatolásával értesíti a másik Szerződő Felet.
+
+*9. Cikk*
+
+(1) A jelen Megállapodás az azt követő tizenötödik napon lép hatályba, amikor a Szerződő Felek kölcsönösen, jegyzékváltás útján értesítették egymást arról, hogy a hatálybalépéshez szükséges belső jogi feltételeknek eleget tettek.
+
+(2) A jelen Megállapodás hatálybalépését követően a Magyar Népköztársaság Kormánya és a Jugoszláv Szocialista Szövetségi Köztársaság Kormánya között létrejött, a vízumkötelezettség megszüntetéséről szóló, Belgrádban, 1965. november hó 23. napján aláírt Egyezmény[^1] a Szerződő Felek vonatkozásában nem kerül alkalmazásra.
+
+*10. Cikk*
+
+A jelen Megállapodás határozatlan időre szól, és mindaddig hatályban marad, amíg azt bármelyik Szerződő Fél írásban, diplomáciai úton fel nem mondja. A Megállapodás a felmondásról szóló értesítés keltét követő harmincadik napon veszti hatályát.
+
+Készült Budapesten, 2000. év május hónap 23. napján, két eredeti példányban, magyar és horvát nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Horvát Köztársaság\
+Kormánya nevében
+
+*Melléklet*
+
+A Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya között\
+a vízumkötelezettség kölcsönös\
+megszüntetéséről szóló Megállapodáshoz
+
+1\. A jelen Megállapodás 1. Cikkében meghatározott úti okmányok a magyar állampolgárok esetében a következők:
+
+– magánútlevél,
+
+– diplomata útlevél,
+
+– külügyi szolgálati útlevél,
+
+– szolgálati útlevél,
+
+– hajós szolgálati útlevél,
+
+– hazatérési igazolvány,
+
+– személyazonosító igazolvány.
+
+2\. A jelen Megállapodás 1. Cikkében meghatározott úti okmányok a horvát állampolgárok esetében a következők:
+
+– magánútlevél,
+
+– diplomata útlevél,
+
+– szolgálati útlevél,
+
+– tengerész útlevél,
+
+– hajós útlevél,
+
+– hazatérési igazolvány,
+
+– személyazonosító igazolvány.''
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, a Megállapodás rendelkezéseit azonban 2000. június hónap 29-től kell alkalmazni.
+
+(2)[^2] A rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Az Egyezményt az 1966. évi 4. tvr. hirdette ki, hatályos 1966. február 15-től. A jelen Megállapodás 9. Cikk (2) bekezdése értelmében az 1966. évi 4. tvr. a Szerződő Felek vonatkozásában 2000. június hó 29-től nem kerül alkalmazásra.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 125. pontja szerint módosított szöveg.

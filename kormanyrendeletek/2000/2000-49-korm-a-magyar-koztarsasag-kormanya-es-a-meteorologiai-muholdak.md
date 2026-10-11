@@ -1,0 +1,163 @@
+---
+title: "49/2000. (IV. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Meteorológiai Műholdak Hasznosításának Európai Szervezete (EUMETSAT) közötti Együttműködési Megállapodás kihirdetéséről"
+identifier: "49/2000. (IV. 13.) Korm. rendelet"
+njt_id: "2000-49-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/49"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-04-13
+in_force_from: 2000-04-13
+last_amended: 2000-04-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-49-20-22"
+retrieved: 2026-10-12
+---
+
+# 49/2000. (IV. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Meteorológiai Műholdak Hasznosításának Európai Szervezete (EUMETSAT) közötti Együttműködési Megállapodás kihirdetéséről[^1]
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Meteorológiai Műholdak Hasznosításának Európai Szervezete (EUMETSAT) között, 1999. július 7-én aláírt Együttműködési Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Együttműködési Megállapodás\
+a Magyar Köztársaság Kormánya\
+és a Meteorológiai Műholdak Hasznosításának\
+Európai Szervezete (EUMETSAT) között
+
+*Bevezető*
+
+Meteorológiai Műholdak Hasznosításának Európai Szervezete, amelyet az 1983. május 24-től, aláírásra nyitva álló, és 1986. június 19-én hatályba lépett Genfi Megállapodással létesítettek (a továbbiakban: EUMETSAT), képviseli az igazgatója és a Magyar Köztársaság Kormánya (a továbbiakban: Magyarország), képviseli az Országos Meteorológiai Szolgálat elnöke,
+
+figyelembe véve, hogy az európai országok integrációjának folyamata az Európai Unióval, az ,,Európai Egyezmények'' aláírásával kezdődött,
+
+figyelembe véve a Meteorológia Világszervet (WMO) keretében a meteorológia területén az európai országok közötti hosszú távú együttműködést,
+
+emlékezve arra, hogy az EUMETSAT elsődleges célja, hogy létrehozza, fenntartsa és hasznosítsa a működő meteorológiai műholdak hasznosításának európai rendszerét, amennyire lehetséges, figyelembe véve a WMO ajánlásait,
+
+emlékezve arra, hogy az EUMETSAT Megállapodás 3. Cikke felhívja az EUMETSAT-ot, hogy céljai elérése érdekében és a meteorológiai hagyományoknak megfelelően kössön megállapodásokat a nem-tagállamokkal,
+
+tekintettel arra, hogy az EUMETSAT elő kívánja mozdítani az EUMETSAT adatok, termékek és szolgáltatások szélesebb európai szinten történő felhasználását és hangsúlyozva annak szükségességét, hogy ki kell terjeszteni az EUMETSAT finanszírozási alapját,
+
+tekintettel arra, hogy az EUMETSAT Tanácsa úgy határozta meg az ,,Együttműködő Állam'' helyzetét, mint közbeeső fokozatot azon európai államok számára, amelyek az EUMETSAT teljes jogú tagjai kívánnak lenni,
+
+megjegyezve, hogy az Országos Meteorológiai Szolgálat a Magyar Köztársaság meteorológia szolgálata,
+
+megjegyezve, hogy az EUMETSAT és a magyar Országos Meteorológiai Szolgálat között már 1992-ben gyümölcsöző együttműködés kezdődött az EUMETSAT meteorológia műholdaktól származó képek és adatok felhasználására vonatkozó Együttműködési Megállapodás aláírásával,
+
+egyetértve Magyarország 1999. április 13-án kelt levelében kifejezett szándékával, hogy az EUMETSAT Tanácsának 1997. június 24–26-án tartott 34. ülése által megállapított feltételek között az EUMETSAT Együttműködő Állama kíván lenni, megfelelően az EUMETSAT Megállapodás 3., 5., 9. és 10. Cikkeinek,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+*Cél*
+
+Ezen megállapodás célja, hogy az EUMETSAT és Magyarország közötti szoros együttműködés számára hosszú távú folyamatos keretet biztosítson, és meghatározza Magyarország, mint Együttműködő Állam jogait és kötelességeit.
+
+*2. Cikk*
+
+Hozzáférés az EUMETSAT adataihoz, termékeihez\
+és szolgáltatásaihoz
+
+1\. Magyarország, mint együttműködő állam az EUMETSAT adatainak, termékeinek és szolgáltatásainak hozzáférésére, felhasználására és forgalmazására vonatkozólag ugyanazokkal a jogokkal és kötelességekkel rendelkezik, mint az EUMETSAT tagállamai.
+
+2\. Az EUMETSAT adatainak, termékeinek és szolgáltatásainak hozzáférésére, felhasználására és forgalmazására vonatkozó kikötéseket és feltételeket az EUMETSAT Adatfelhasználási Irányelvei tartalmazzák, amelyeket az EUMETSAT Tanácsa fogadott el.
+
+3\. Ami harmadik feleknek az EUMETSAT által forgalmazott adatait vagy az EUMETSAT által harmadik felekkel együttműködésben létesített rendszerekből származó adatokat illeti, az ilyen adatokhoz való hozzáférés, felhasználás és forgalmazás Magyarország és az érdekelt harmadik fél megállapodásának függvénye.
+
+4\. A fenti harmadik pontban hivatkozott adatokra vonatkozólag az EUMETSAT az érintett harmadik felekkel való tárgyalásokon támogatja Magyarországot, hogy olyan hozzáférést és felhasználási jogot kapjon, amelyek egyenlőek az EUMETSAT Tagállamaira alkalmazott jogokkal.
+
+*3. Cikk*
+
+Az EUMETSAT Együttműködő Államainak\
+Tanácsadó Bizottsága
+
+1\. Magyarországnak az Országos Meteorológiai Szolgálat egy képviselőjét kell kineveznie EUMETSAT Együttműködő Államai Tanácsadó Bizottságának (EACCS) tagjául, amelyet az EUMETSAT kiegészítő szerveként hoztak létre, az EUMETSAT Tanácsának eljárási szabályai szerint.
+
+2\. Az EACCS-ét fel kell kérni, hogy a Tanács eljárási szabályai 13.3. szakaszának megfelelően, az elnökén keresztül képviseltesse magát a Tanács ülésszakain. A Tanács dönthet arról is, hogy az EACCS elnökét meghívja a kiegészítő testületekbe, ha ezt helyénvalónak tartja.
+
+*4. Cikk*
+
+*Pénzügyi hozzájárulás*
+
+1\. Magyarország hozzájárulása az EUMETSAT éves költségvetéséhez a fele lesz azon hozzájárulási tételnek, amelyet Magyarország az EUMETSAT Megállapodás rendelkezései alapján fizetne, ha tagállam lenne. Ezt a tételt kell alkalmazni valamennyi kiadásra, amelyeket az EUMETSAT költségvetésén belül a tagállamok és az együttműködő államok hozzájárulásaiból finanszíroznak.
+
+2\. Magyarország pénzügyi hozzájárulása egyetlen esetben sem lehet kevesebb annál a licencdíjnál, amely olyan nem-tagállam országos meteorológiai szolgálatára alkalmazható, amely az országhatárain belül nem-kizárólagos alapon az EUMETSAT képadatait felismerhető formában felhasználni és forgalmazni kívánja, az EUMETSAT Tanácsának meghatározása szerint.
+
+3\. Magyarország éves hozzájárulását euróban kell fizetni.
+
+4\. Magyarország éves hozzájárulásának fizetési módozatai ugyanazok, amelyeket az EUMETSAT tagállamai számára a pénzügyi szabályok megállapítottak.
+
+5\. Magyarország éves hozzájárulása az EUMETSAT-nak hároméves átmeneti időszak során rendre a fenti 1. pontban meghatározott hozzájárulás egynegyede, fele és háromnegyede lesz. Ezen átmeneti időszakra alkalmazandó éves hozzájárulás nem lehet alacsonyabb a fenti 2. pontban meghatározott minimális hozzájárulásnál.
+
+*5. Cikk*
+
+*Felelősség*
+
+1\. A Felek ezennel lemondanak egymással szemben a jelen Megállapodásból származó bármely személyi sérelem vagy vagyoni kár miatti követelésről, kivéve azokat a követeléseket, amelyek szándékos hivatali kötelességszegésből származnak.
+
+2\. Az EUMETSAT ezen Megállapodás szerint nyújtott adatok, termékek vagy szolgáltatások tekintetében semmiféle szavatosságot vagy kötelezettségvállalást nem nyújt.
+
+*6. Cikk*
+
+*A viták rendezése*
+
+1\. Ezen Megállapodás fogalmai értelmezésével vagy teljesítésével kapcsolatos bármely vitát, amelyet nem lehet barátságosan rendezni, bármelyik fél kérésére választott bíráskodás útján kell rendezni.
+
+2\. A választott bírósági eljárást az EUMETSAT Megállapodásban rögzítettek szerint kell lefolytatni.
+
+*7. Cikk*
+
+*Hatálybalépés, időtartam, felülvizsgálat*
+
+1\. Ezen Megállapodás a két fél által történt aláírásakor lép hatályba és 5 éves időszakra marad hatályban.
+
+2\. Ezen Megállapodás hatálybalépését követő ötödik év során a Feleknek hivatalosan felül kell vizsgálniuk együttműködésüket Magyarországnak az EUMETSAT-ba teljes jogú tagként történő lehetséges belépése szempontjából vagy a Megállapodásnak további időszakokra való megújítása szempontjából.
+
+*8. Cikk*
+
+*Módosítások*
+
+1\. Ezen Megállapodást a Felek közötti írásbeli megállapodással lehet módosítani.
+
+2\. A Felek egyetértenek abban, hogy ezen Megállapodást szükség szerint, értelemszerűen módosítani kell, ha az EUMETSAT Megállapodásnak az EUMETSAT Tanácsa 15. ülésszakán az EUM/C/Res. XXXVI. Tanácsi Határozattal történt módosításai és jelenleg az EUMETSAT valamennyi tagállamán belül folyó ratifikációk hatályba lépnek a jelen Megállapodás hatályának időszaka alatt.
+
+*9. Cikk*
+
+*Megszüntetés*
+
+1\. Ezen Megállapodást a 7. Cikk 1. pontjában meghatározott időszak vége előtt, bármelyik Fél által eszközölt írásbeli felmondása alapján meg lehet szüntetni.
+
+2\. A megszüntetés a felmondás évét követő naptári év végén lép hatályba.
+
+3\. Ha Magyarország elmulasztja ezen Megállapodás szerinti kötelezettségeinek teljesítését, az EUMETSAT jogosult az EUMETSAT Tanácsa által hozott határozat alapján a Megállapodást megszüntetni. Ezen határozat azon naptári év végén lép hatályba, amelynek során azt meghozták.
+
+Ennek hiteléül, a kellő meghatalmazással rendelkező alulírottak aláírták ezen Megállapodást.
+
+Készült Budapesten, 1999. július 7-én, két eredeti angol nyelvű példányban.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Magyarország Országos\
+Meteorológiai Szolgálatának elnöke
+
+EUMETSAT\
+részéről
+
+## 3. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1999. július 7. napjától kell alkalmazni.
+
+(2) Felhatalmazást kap a környezetvédelmi miniszter, hogy az Együttműködési Megállapodás keretében nyert adatokhoz és információkhoz való hozzáférés, valamint azok használatának rendjét rendeletben szabályozza.
+
+---
+
+[^1]: A Megállapodás módosításáról lásd a 137/2006. (VI. 28.) Korm. rendeletet.

@@ -1,0 +1,167 @@
+---
+title: "91/1997. (VI. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a terrorizmus elleni harcban, a kábítószer és pszichotrop anyagok tiltott forgalma visszaszorításában és a szervezett bűnözés elleni harcban történő együttműködésről szóló Prágában, 1996. február 16. napján aláírt Megállapodás kihirdetéséről"
+identifier: "91/1997. (VI. 4.) Korm. rendelet"
+njt_id: "1997-91-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/91"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-06-04
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-91-20-22"
+retrieved: 2026-10-12
+---
+
+# 91/1997. (VI. 4.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a terrorizmus elleni harcban, a kábítószer és pszichotrop anyagok tiltott forgalma visszaszorításában és a szervezett bűnözés elleni harcban történő együttműködésről szóló Prágában, 1996. február 16. napján aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1997. március 28. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a terrorizmus elleni harcban, a kábítószer és pszichotrop anyagok tiltott forgalma visszaszorításában és a szervezett bűnözés elleni harcban történő együttműködésről szóló Prágában, 1996. február 16-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„**,,Megállapodás**\
+**a Magyar Köztársaság Kormánya**\
+**és a Cseh Köztársaság Kormánya között a terrorizmus elleni harcban, a kábítószer és pszichotrop anyagok tiltott forgalma visszaszorításában és a szervezett bűnözés elleni harcban történő együttműködésről**
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+attól a törekvéstől vezérelve, hogy hozzájáruljanak kétoldalú kapcsolataik fejlődéséhez,
+
+abban a meggyőződésükben, hogy a szervezett bűnözés, a kábítószerek és pszichotrop anyagok tiltott forgalma és a terrorizmus elleni harc területén, vagy ezek hatásos megakadályozásában az együttműködés lényeges jelentőséggel bír,
+
+azzal a célkitűzéssel, hogy közösen fokozzák erőfeszítéseiket a terrorizmus elleni harcban,
+
+egyeztetni kívánva a nemzetközi szervezett bűnözés elleni akcióikat,
+
+összhangban e területek nemzetközi szerződéseivel az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+(1) A Szerződő Felek, országaik jogszabályaival összhangban, együttműködnek a terrorizmus elleni, a kábítószer, pszichotrop anyagok és prekurzoraik tiltott forgalma elleni, a radioaktív anyagok tiltott előállítása, megszerzése, behozatala, kivitele és forgalma elleni, és a szervezett bűnözés elleni harcban, ezen bűncselekmények megelőzésében, felderítésében és üldözésében.
+
+(2) A Szerződő Felek különösen azokban az esetekben működnek együtt, amelyekben a bűncselekmények vagy azok előkészületei az egyik Szerződő Fél országának területén valósulnak meg, és érintik a másik Szerződő Fél országát.
+
+*2. Cikk*
+
+A Szerződő Felek, országaik jogszabályaival és ezen Megállapodás rendelkezéseivel összhangban:
+
+– ismereteket és adatokat cserélnek a tervezett vagy már elkövetett terrorakciókról, az azokban részt vevő személyekről, a végrehajtás módjáról és ezen akciók során használt technikai eszközökről,
+
+– ismereteket és adatokat cserélnek azokról a terrorista csoportosulásokról, illetve azok tagjairól, amelyek bűncselekményt terveznek, követnek el vagy már elkövettek a másik Szerződő Fél országának területén, annak hátrányára vagy érdekei ellen.
+
+*3. Cikk*
+
+A kábítószerek termesztésével, valamint a kábítószerek, pszichotrop anyagok és prekurzoraik tiltott előállítása, kinyerése, behozatala, kivitele, átszállítása, ezek tiltott forgalmazása elleni, valamint az ilyen tevékenységek elősegítése elleni harcban a Szerződő Felek, összhangban országaik jogszabályaival:
+
+– kölcsönösen közlik egymással a kábítószer, pszichotrop anyagok és prekurzoraik tiltott előállításában, forgalmazásában részt vevő személyekre, e személyek rejtekhelyeire, felhasznált szállítóeszközeire, elkövetési módszereire vonatkozó ismereteket és adatokat, a kábítószerek és pszichotrop anyagok és ezek prekurzorainak származási és rendeltetési helyeit, valamint az ilyen bűncselekmények különleges részleteit, amennyiben ez szükséges a bűncselekmények felderítéséhez,
+
+– kölcsönösen közlik egymással a kábítószerek, pszichotrop anyagok és prekurzoraik tiltott forgalmazásának módszereiről szerzett és egyéb ezzel összefüggő ismereteiket és adataikat,
+
+– kicserélik információikat a kábítószerek, pszichotrop anyagok és prekurzoraik tiltott forgalmazására vonatkozó kriminalisztikai és kriminológiai kutatási eredményekről,
+
+– kölcsönösen mintákat bocsátanak egymás rendelkezésére a visszaélésre alkalmas növényi vagy szintetikus eredetű kábítószerekből és pszichotrop anyagokból,
+
+– kicserélik egymással a kábítószerek, pszichotrop anyagok és prekurzoraik törvényes forgalmazásának felügyeletével kapcsolatos tapasztalataikat, tekintettel az azzal való visszaélés lehetőségére,
+
+– összehangolt, a két ország jogszabályai által megengedett intézkedéseket foganatosítanak a kábítószerek, pszichotrop anyagok és prekurzoraik tiltott előállításának és szállításának megakadályozására.
+
+*4. Cikk*
+
+A Szerződő Felek együttműködnek a bűncselekmények, különösen a szervezett bűnözés felderítésében és megakadályozásában. Ennek érdekében:
+
+– kölcsönösen közlik egymással ismereteiket és adataikat a szervezett bűnözésben részt vevő személyekről, az elkövetők kapcsolatairól, a bűnöző csoportok szervezeteiről és felépítéséről, az egyes elkövetők és csoportok tipikus magatartásáról, információikat az elkövetés idejéről, helyéről, módjáról, a támadás célját jelentő objektumokról, a különleges körülményekről, a megsértett büntető jogszabályokról, valamint a bűncselekmények megelőzésére és megakadályozására megtett intézkedésekről,
+
+– kérésre olyan intézkedéseket foganatosítanak, amelyek összhangban vannak a megkeresett Szerződő Fél országának jogszabályaival,
+
+– kölcsönösen összehangolják együttműködésüket a bűncselekmények felderítéséhez szükséges személyi, tárgyi és szervezési támogatás nyújtásában, összhangban ezen Megállapodással és a Szerződő Felek országainak jogszabályaival,
+
+– információkat és tapasztalatokat cserélnek a Szerződő Felek országhatárain átnyúló bűnözés elkövetési módszereiről és új formáiról,
+
+– kicserélik információikat a bűncselekmények kriminalisztikai és kriminológiai kutatási eredményeiről, kölcsönösen tájékoztatják egymást a nyomozások gyakorlatáról, munkamódszereiről és eszközeiről, azok továbbfejlesztése céljából,
+
+– kérelemre egymás rendelkezésére bocsátanak ismereteket vagy mintákat azokról a tárgyakról, amelyek bűncselekményekből származnak, vagy amelyekkel bűncselekményeket követtek el,
+
+– a szervezett bűnözés elleni harc érdekében kölcsönösen képzésre, továbbképzésre szakembereket küldenek a magasabb szintű szakismeretek megszerzése, a bűnözéssel szemben alkalmazott eszközök és módszerek a krimináltechnika korszerű eredményeinek kölcsönös megismerése céljából,
+
+– szükség szerint munkatalálkozókat tartanak az intézkedések előkészítésére és összehangolására.
+
+*5. Cikk*
+
+E Megállapodás értelmében a Szerződő Felek közti együttműködés továbbá magában foglalja:
+
+– a Megállapodás tárgyát képező együttműködés jogi előírásaival kapcsolatos információk cseréjét,
+
+– az elkövetők bűncselekménnyel szerzett hasznával kapcsolatos információk cseréjét,
+
+– a külföldiek tartózkodására és mozgására, valamint a tiltott migrációra vonatkozó jogi szabályozásról és tapasztalatokról szóló információk cseréjét,
+
+– információk cseréjét, amelyek szükségesek a másik Szerződő Fél számára az embercsempészés, valamint a munkaerővel való tiltott kereskedelem elleni harchoz.
+
+*6. Cikk*
+
+(1) A Magyar Köztársaság illetékes szervei, azaz a Belügyminisztérium, a Pénzügyminisztérium, a Népjóléti Minisztérium[^1] és az általuk irányított országos hatáskörű szervek, és a Cseh Köztársság illetékes szervei, azaz a Belügyminisztérium, a Pénzügyminisztérium, a Munka- és Szociálisügyi Minisztérium, az Egészségügyi Minisztérium és az általuk irányított országos hatáskörű szervek, az e Megállapodásban foglaltak megvalósítása érdekében saját hatáskörükben és illetékességi területükön közvetlenül és operatív módon együttműködnek.
+
+(2) Ha másképp nem állapodnak meg, a Szerződő Felek illetékes szervei közti információcsere angol vagy német nyelven történik.
+
+*7. Cikk*
+
+Ezen Megállapodás szerinti együttműködés során átadott személyes adatok védelme érdekében, a Szerződő Felek országaik jogszabályaival összhangban, a következő feltételeket tartják be:
+
+– Az adatokat fogadó Szerződő Fél csak az átadó Szerződő Fél által meghatározott célra és feltételekkel használhatja fel azokat.
+
+– Az adatokat fogadó Szerződő Fél, az átadó Szerződő Fél kérésére, tájékoztatást ad az átadott adatok felhasználásáról és a segítségükkel elért eredményekről.
+
+– A személyes adatokat kizárólag a bűnüldöző hatóságoknak, a terrorizmus, a kábítószerekkel és pszichotrop anyagokkal való visszaélés és a szervezett bűnözés elleni harcban illetékes szerveknek szabad átadni. Az adatok továbbadása más hatóságoknak csak az átadó Szerződő Fél engedélyével lehetséges.
+
+– Az átadó Szerződő Fél köteles az átadandó adatok helyességére ügyelni, valamint arra is, hogy az átadás szükségszerű-e és arányban áll-e az átadás céljával. Emellett tiszteletben kell tartani a másik Szerződő Fél országának jogszabályait, amelyek korlátozhatják az adatszolgáltatást. Ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, úgy erről a fogadó Szerződő Felet haladéktalanul értesíteni kell. A fogadó Szerződő Fél köteles a téves adatokat helyesbíteni, vagy amennyiben át nem adható adatokról van szó, megsemmisíteni.
+
+– Annak a személynek, akiről adatok kerülnek vagy kerültek átadásra, kérésére felvilágosítást kell adni az átadott adatokról és azok tervezett felhasználásáról, feltéve, hogy ezt lehetővé teszik azon Szerződő Fél országának jogi előírásai amelytől az érintett személy ezt kérte, és nem ellentétes az átadó Szerződő Fél jogi előírásaival.
+
+– Az átadó Szerződő Fél az adatok átadásánál országa jogszabályaival összhangban közli az érvényes adattörlési határidőket. Ezektől a határidőktől függetlenül törölni kell az érintett személyre vonatkozó adatokat, ha azok szükségessége megszűnik. Az átadó Szerződő Felet értesíteni kell az átvett adat törléséről és annak okáról. E Megállapodás megszűnése esetén minden átvett adatot meg kell semmisíteni.
+
+– Mindkét Szerződő Fél köteles nyilvántartást vezetni a személyi adatok átadásáról, átvételéről, törléséről és megsemmisítéséről.
+
+– A Szerződő Felek kötelesek a személyes adatokat hatásosan védeni az illetéktelen hozzáférés, megváltoztatás és nyilvánosságra hozatal ellen.
+
+*8. Cikk*
+
+(1) Mindkét Szerződő Fél biztosítja a másik Szerződő Fél által átadott információk és technikai eszközök titkosságát, amennyiben azok az átadó Szerződő Fél országának jogszabályai értelmében titkosnak minősülnek, és ilyen jelöléssel vannak ellátva.
+
+(2) Az átadott információk, adatok, anyagok vagy technikai eszközök harmadik országok részére történő továbbadása csak az átadó Szerződő Fél írásos hozzájárulásával lehetséges.
+
+*9. Cikk*
+
+Bármelyik Szerződő Fél részben vagy egészben megtagadhatja a konkrét megkeresés teljesítését, az együttműködést vagy segítségnyújtást, vagy bizonyos feltételekhez kötheti abban az esetben, ha ez korlátozza saját országa jogszabályainak érvényesülését, veszélyezteti országa biztonságát vagy más lényeges érdekeit, illetőleg ellentétes jogszabályaival.
+
+*10. Cikk*
+
+E Megállapodás nem érinti a Szerződő Felek azon kötelezettségeit, melyek a Szerződő Felek országai által kötött egyéb két- vagy többoldalú nemzetközi szerződésekből fakadnak.
+
+*11. Cikk*
+
+(1) Ez a Megállapodás az azt követő harmincadik napon lép hatályba, amikor a Szerződő Felek diplomáciai úton írásban tájékoztatják egymást, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásoknak.
+
+(2) Ezt a Megállapodást határozatlan időre kötik. Bármikor felmondható. Ilyen esetben az erről szóló írásos értesítésnek a másik Szerződő Félhez diplomáciai úton történt kézbesítésétől számított hat hónap elteltével veszti hatályát.
+
+Készült Prágában, az 1996. év február hónap 16. napján, két eredeti példányban, magyar és cseh nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság A Cseh Köztársaság\
+Kormánya nevében Kormánya nevében''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1997. április hó 27. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, valamint a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 70. pontja szerint módosított szöveg.

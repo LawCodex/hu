@@ -1,0 +1,469 @@
+---
+title: "217/2000. (XII. 11.) Korm. rendelet a Pénztárak Garancia Alapja éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól"
+identifier: "217/2000. (XII. 11.) Korm. rendelet"
+njt_id: "2000-217-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/217"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-11
+in_force_from: 2010-01-01
+last_amended: 2024-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-217-20-22"
+retrieved: 2026-10-12
+---
+
+# 217/2000. (XII. 11.) Korm. rendelet a Pénztárak Garancia Alapja éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól
+
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének b) pontjában, valamint a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 134. §-ának d) pontjában kapott felhatalmazás alapján – a Magyar Nemzeti Bank előzetes véleményének kikérésével – a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) A rendelet hatálya kiterjed az Mpt. 86. §-ának (1) bekezdése szerint létrejött Garancia Alapra (a továbbiakban: Alap).
+
+(2) Az Alap a Tv. előírásait e rendeletben foglaltak figyelembevételével köteles alkalmazni.
+
+## Beszámolási és könyvvezetési kötelezettség
+
+### 2. §
+
+(1) Az Alap kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az Alap éves beszámolója az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a 13. § szerinti kiegészítő mellékletből áll. Az éves beszámolóval egyidejűleg üzleti jelentést is kell készíteni.
+
+(3)[^1] Az Alap belső számviteli rendjét oly módon köteles kialakítani, hogy annak adataiból év közben is kielégíthesse a saját működését biztosító, valamint a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) információs igényeit.
+
+### 3. §
+
+Az Alap számviteli politikája keretében a Tv. 14. §-ának (3)–(5) bekezdésében foglaltakon túlmenően köteles elkészíteni az Mpt.-ben, illetve az ahhoz kapcsolódó végrehajtási rendeletekben előírt azon szabályzatokat, amelyek az Alap könyvvezetéséhez, az éves beszámoló elkészítéséhez, továbbá a Felügyelet, az Állami Számvevőszék és a tagpénztárak felé történő egyéb jelentéstételi kötelezettséghez tartoznak, így különösen:
+
+a) a befektetési szabályzatot, amelynek tartalmaznia kell az Alap eszközeinek befektetésével kapcsolatos szabályokat;
+
+b) az Alap tagjai részére az Mpt. 89. §-ának (1) bekezdése szerint teljesített kifizetéseknek, valamint a kifizetésekkel kapcsolatban felmerült költségeknek az Alap tagjaival történő elszámolása során az egyes tagpénztárakat terhelő összegek megállapítása céljából az elkülönített nyilvántartás módjára és a tagpénztárakkal történő elszámolás rendjére vonatkozó szabályzatot.
+
+## A mérleg tagolása, tételeinek tartalma
+
+### 4. §
+
+A mérleg előírt tagolását az 1. számú melléklet tartalmazza.
+
+### 5. §
+
+(1) A mérlegben eszközként kell kimutatni az Alap működését szolgáló, valamint az Mpt. 89. §-ában meghatározott garanciális kifizetések fedezetéül szolgáló befektetett eszközöket és forgóeszközöket – a bérbevett eszközök kivételével –, függetlenül attól, hogy azok tulajdonjoga csak törvényben, szerződésben rögzített feltételek teljesítése után kerül át az Alaphoz, továbbá az aktív időbeli elhatárolásokat.
+
+(2) Az eszközök befektetett eszközök vagy forgóeszközök közé sorolása annak figyelembevételével történik, hogy azok az Alap tevékenységét tartósan – legalább egy éven túl – vagy egy éven belül szolgálják.
+
+(3) Az Alap a (2) bekezdés szerinti minősítést saját hatáskörben dönti el, a működési tevékenységének és a garanciális kötelezettségeinek figyelembevételével.
+
+### 6. §
+
+Az immateriális javak között a mérlegben a nem anyagi eszközöket (a vagyoni értékű jogokat – az ingatlanhoz kapcsolódó vagyoni értékű jogok kivételével –, a szellemi termékeket), továbbá az immateriális javakra adott előlegeket, valamint az immateriális javak értékhelyesbítését kell kimutatni.
+
+### 7. §
+
+(1) Az Alapnak a befektetett pénzügyi eszközök között kell kimutatnia a garanciális kötelezettségek teljesítése érdekében a tagpénztárak által befizetett garanciadíj bevételekből tartós hozam elérése céljából – az Mpt. 98. §-ának (2) bekezdése szerint – eszközölt befektetéseit.
+
+(2) A befektetett pénzügyi eszközökön belül:
+
+a) egyéb tartósan adott kölcsönként kell kimutatni a garanciális fedezet céljára szolgáló éven túli lejáratra – forintban – elhelyezett bankbetéteket;
+
+b) tartós hitelviszonyt megtestesítő értékpapírként kell kimutatni a garanciális fedezet céljára szolgáló kamatozó államkötvényeket, amelyek lejárata, beváltása a tárgyévet követő üzleti évben nem esedékes, és az Alap azokat a tárgyévet követő üzleti évben nem szándékozik értékesíteni.
+
+### 8. §
+
+(1) A forgóeszközök között a mérlegben a készleteket, a követeléseket (ideértve a tagpénztárakkal, a pénztártagokkal vagy azok kedvezményezettjeivel és a vagyonkezelő szervezetekkel szembeni követeléseket is), a forgatási célú hitelviszonyt megtestesítő állampapírokat, valamint a pénzeszközöket kell kimutatni.
+
+(2) Követelésként kell a mérlegben elkülönítetten kimutatni a tagpénztárakkal szembeni – törvényi előíráson alapuló – fizetési igényeket, a pénztártagokkal, azok kedvezményezettjeivel szembeni követeléseket, az Alap működésével kapcsolatos vagy különféle egyéb szerződésekből jogszerűen eredő fizetési igényeket, amelyek az Alap által már teljesített, a másik fél által elfogadott, elismert értékesítéshez, szolgáltatás teljesítéshez, hitelviszonyt megtestesítő értékpapír értékesítéshez, előlegfizetéshez kapcsolódnak.
+
+(3) A tagpénztárakkal szembeni követeléseken belül:
+
+a) garanciadíj követelésként kell kimutatni az Mpt. 91–92. §-a szerint a tagpénztárak által az Alapnak negyedévente fizetendő, az Alap által kibocsátott számla alapján garanciális bevételként előírt és még fennálló követelés összegét;
+
+b)[^2] tagpénztárak rendkívüli befizetésére szóló követelésként kell kimutatni az Mpt. 93. §-a szerint a tagok által az Alap részére teljesítendő rendkívüli befizetések garanciális bevételként előírt és még fennálló követelés összegét;
+
+c) Alapra átszállt befagyott követelésként kell kimutatni az Mpt. 90. §-ának (2) bekezdése szerint a pénztártag vagy kedvezményezettje más pénztárba történő átlépése, a társadalombiztosítási nyugdíjrendszerbe való visszalépése, a járadékszolgáltatás folyósítása, valamint a pénztártag elhalálozása esetén az Mpt. 89. §-ának (2) bekezdése szerint befagyott követelésnek az Alap által – a pénztár helyett – kifizetett összege miatt még fennálló követelés összegét;
+
+d)[^3]
+
+e) szolgáltatási tartalék kiegészítéséből eredő követelésként kell kimutatni a nyugdíj folyósításának időszakában a pénztár szolgáltatási tartalékának – a likviditási és kockázati tartalék igénybevétele után is fennálló hiánya miatt – az Alap által történő kiegészítésből a még fennálló követelés összegét;
+
+f)[^4] felszámolás alatt álló pénztár járadékos tagja részére folyósított járadék miatti követelésként kell kimutatni az Mpt. 89. § (7) bekezdése alapján az Alap által – a pénztár helyett – kifizetett járadék miatt még fennálló követelés összegét;
+
+g) egyéb követelésként kell kimutatni a tagpénztárakkal szembeni követelések behajtásával, a felszámolási eljárással összefüggésben az Alapnál felmerült költségek, ráfordítások tagpénztárra továbbhárított összege miatt még fennálló követelés összegét;
+
+h)[^5] működési célra átadott pénzeszköz miatti követelésként kell kimutatni a Felügyelet engedélyével, visszatérítési kötelezettség mellett működési célra rendelkezésre bocsátott összeget.
+
+(4) Pénztártagokkal, kedvezményezettekkel szembeni követelésként kell kimutatni a felszámolási eljárás, egyezségi tárgyalás során a pénztártagok Alap által történő jogi képviseletéért felszámított díjak garanciális bevételként elszámolt összegét.
+
+(5) Áruszállításból és szolgáltatás teljesítéséből származó követelésként kell kimutatni az előzetesen felszámított általános forgalmi adót is tartalmazó, a vevő által elismert, számlázott összegben az Alap működését szolgáló eszközök (immateriális javak, tárgyi eszközök, készletek) értékesítéséből származó követelések összegét mindaddig, amíg azokat pénzügyileg nem rendezték.
+
+(6) Egyéb követelésként kell kimutatni az Alap munkavállalóival, a költségvetéssel, a vagyonkezelő, illetve a letétkezelő vállalkozásokkal szemben fennálló követeléseket, továbbá az értékpapírok értékesítéséből származó és pénzügyileg nem rendezett követelések összegét.
+
+### 9. §
+
+(1) A forgóeszközök között értékpapírként az Alap befektetési tevékenységével összefüggésben a garanciális fedezet céljára szolgáló, átmeneti, nem tartós befektetésként vásárolt, hitelviszonyt megtestesítő állampapírokat (államkötvény, kincstárjegy) kell kimutatni.
+
+(2) A forgatási célú hitelviszonyt megtestesítő értékpapírok között külön-külön kell kimutatni a kamatbevétel, illetve az árfolyamnyereség elérése érdekében beszerzett államkötvényeket, kincstárjegyeket. Itt kell továbbá kimutatni a tartós befektetési céllal vásárolt hitelviszonyt megtestesítő államkötvények közül azokat, amelyek a tárgyévet követő üzleti évben lejárnak.
+
+### 10. §
+
+(1) A mérlegben a saját tőkén belül:
+
+a) jegyzett tőkeként kell kimutatni az Alap alapításakor az Alap részére más gazdálkodó szervezetek, illetve egyéb szervezetek által – véglegesen – juttatott pénzbeli támogatások összegét;
+
+b)[^6] tartaléktőkeként kell kimutatni az Alap tevékenységének előző üzleti év(ek)ben keletkezett tárgyévi eredményét (nyereségét, veszteségét), ideértve az ellenőrzés előző üzleti év(ek) tárgyévi eredményét növelő, illetve csökkentő módosítását is, továbbá az eszközmozgással egyidejűleg a jogszabály alapján tartaléktőkébe helyezett pénzeszközöket, átvett eszközök értékét;
+
+c) értékelési tartalékként kell kimutatni az Alap működését tartósan szolgáló vagyoni értékű jogok, szellemi termékek és tárgyi eszközök piaci értékelése alapján – a Tv. 58. §-a szerint – meghatározott értékhelyesbítés összegét;
+
+d)[^7] tárgyévi eredményként kell kimutatni az Alap tárgyévi tevékenységével összefüggésben az üzleti évet megillető bevételek és üzleti évet terhelő ráfordítások különbözetének összegét.
+
+(2) A tagpénztárakkal szembeni rövid lejáratú kötelezettségként kell a mérlegben kimutatni az Alapnak a tagpénztárakkal kapcsolatos elszámolások során keletkező egy évnél rövidebb lejáratú fizetési kötelezettségeit.
+
+(3)[^8]
+
+(4) Állammal szembeni kötelezettségként kell a mérlegben kimutatni az Mpt. 100. §-ában foglaltak alapján az Alap fizetőképességének biztosítása miatt a központi költségvetés által vállalt garancia beváltásából eredő kötelezettséget.
+
+(5) Egyéb rövid lejáratú kötelezettségként kell a mérlegben kimutatni a szerződésen alapuló, eszközbeszerzéssel vagy szolgáltatás igénybevételével kapcsolatos, az előzőekben nem nevesített minden egyéb, egy éves vagy egy évnél rövidebb lejáratú kötelezettséget.
+
+### 10/A. §[^9]
+
+(1) Az Alap a Tv. 59/A–59/F. §-ok szerinti valós értéken történő értékelés szabályait nem alkalmazhatja.
+
+(2) Az Alap a számviteli politikájában rögzített döntése szerint alkalmazhatja a Tv. 54. §-ának (8)–(9) bekezdésében foglalt előírásokat.
+
+## Az eredménykimutatás tagolása, tételeinek tartalma
+
+### 11. §
+
+(1) Az eredménykimutatás előírt tagolását a 2. számú melléklet tartalmazza.
+
+(2) A garanciális bevételeken belül kell kimutatni a tagpénztárakkal szemben elszámolt díjbevételek, rendkívüli tagpénztári befizetések, a pénztártagok felszámolási eljárásban, illetve egyezségi tárgyaláson való jogi képviseletéért felszámított díjak összegét.
+
+(3)[^10] Garanciális ráfordításokon belül elkülönítetten kell kimutatni
+
+a) a pénztárak befagyott követeléseinek az Alap által kifizetett összegét (ideértve a felszámolás alatt álló pénztár járadékos tagja számára folyósított járadék összegét is), a pénztártagok felszámolási eljárásban, illetve egyezségi tárgyaláson való képviseletével összefüggésben felmerült ráfordítások (ügyvédi díjak, szakértői díjak stb.) összegét,
+
+b) a szolgáltatási tartalék kiegészítésével kapcsolatos kifizetések összegét,
+
+c) az Alapból a tag egyéni számla egyenlegének a hozamgarantált tőke összegéig történő kiegészítése címén a pénztár részére kifizetett összeget,
+
+d) az Alapra átszállt követelések pénztáraktól történő behajtásával összefüggésben felmerült ráfordítások összegét,
+
+e)[^11] a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra jutó, garanciális kifizetésekre fordítható pénzeszköz jogszabály szerint átutalt összegét.
+
+(4) Működéssel kapcsolatos ráfordítások között elkülönítetten kell kimutatni az Alap gazdálkodásával, saját eszközeinek működtetésével összefüggésben felmerült anyagjellegű és személyi jellegű ráfordításokat, valamint az Alap működését szolgáló immateriális javak és tárgyi eszközök után elszámolt terv szerinti értékcsökkenési leírás összegét.
+
+## Sajátos könyvelési előírások
+
+### 12. §[^12]
+
+Az Alap által a tagpénztárak helyett kifizetett, illetve a szolgáltatási tartalék kiegészítéseként a 8. § (3) bekezdésének e) pontja szerint a pénztárnak átutalt összegeket a tagpénztárakkal szembeni követelésként kell előírni a pénzeszközök csökkentésével egyidejűleg.
+
+## Kiegészítő melléklet
+
+### 13. §
+
+(1) Az Alap a kiegészítő mellékletet a Tv. 88–92. §-ai szerint készíti el.
+
+(2) A kiegészítő mellékletnek a Tv. előírásain túlmenően tartalmaznia kell:
+
+a) az új tagpénztárak és a – végelszámolással, illetve felszámolással – megszűnő tagpénztárak megnevezését;
+
+b) az üzleti év mérleg fordulónapján fennálló befagyott követelésállomány összegét tagpénztárankénti bontásban;
+
+c) a befagyott követelésállomány üzleti évben, az üzleti évet megelőző években együttesen, valamint az üzleti év mérlegkészítés időszakában Alap által kifizetett összegét tagpénztárankénti bontásban;
+
+d)[^13] a szolgáltatási tartalék Alap által történő kiegészítését az üzleti évben és az azt megelőző években együttesen tagpénztárankénti bontásban;
+
+e) a felszámolás alatt álló pénztárak járadékos tagjai részére az üzleti évben folyósított járadék összegét tagpénztárankénti bontásban;
+
+f) a befagyott követelések Alap által történő kifizetésével kapcsolatban felmerült költségeket, ráfordításokat tagpénztárankénti bontásban;
+
+g) a tagpénztárak által az üzleti évben és az azt megelőző évben együttesen befizetett garanciadíjak és rendkívüli befizetések összegét tagpénztárankénti bontásban;
+
+h) a megszűnő tagpénztárakkal szemben azonnal esedékessé váló követelések összegét tagpénztárankénti bontásban;
+
+i) a tagpénztárak megszűnése esetén az Alap követelésének kiegyenlítéseként a tulajdonába került pénztári eszközök (vagyontárgyak, értékpapírok) átadó pénztár által közölt, illetve vagyonfelosztási javaslat szerinti értékét, valamint a kapott pénzeszközöket tagpénztárankénti bontásban;
+
+j) az Alap üzleti évi költségvetésének terv- és tényszámai közötti jelentős eltéréseket és azok indoklását;
+
+k) a jogi személyek és természetes személyek által az Alap részére a mérleg fordulónapjáig teljesített végleges pénzbeli és nem pénzbeli juttatások összegét;
+
+l) az Alap által felvett hitelek feltételeit és indoklását;
+
+m) a befektetett pénzügyi eszközök részletes bemutatását;
+
+n) az Alap Szervezeti és Működési Szabályzatában rögzített, a tagpénztárak által szükségesnek tartott adatokat.
+
+## Üzleti jelentés
+
+### 14. §
+
+Az üzleti jelentésben – a Tv. 95. §-a előírásain túlmenően – ki kell térni:
+
+a) az Alap igazgatósága által megállapított feladatok teljesítésére és azok értékelésére;
+
+b) az Alap következő üzleti évre vonatkozó költségvetésére;
+
+c) az Alap garanciális kifizetési kötelezettségeinek az üzleti évet követő időszakban várható alakulására a biztosításmatematikai előrejelzés alapján.
+
+## Az éves beszámoló jóváhagyása
+
+### 15. §
+
+(1) Az éves beszámolót és az üzleti jelentést az üzleti évet követő év június 30-áig az Alap igazgatósága hagyja jóvá.
+
+(2) A jóváhagyott éves beszámolót és üzleti jelentést legkésőbb az üzleti évet követő év július 31-éig kell a Felügyeletnek, az Állami Számvevőszéknek, valamint a tagpénztáraknak megküldeni.
+
+## ZÁRÓ RENDELKEZÉSEK
+
+## Hatálybalépés
+
+### 16. §
+
+(1) Ez a rendelet 2001. január 1-jén lép hatályba azzal, hogy rendelkezéseit első ízben a 2001. évi üzleti évről készített beszámolóra kell alkalmazni.
+
+(2)–(3)[^14]
+
+## Átmeneti rendelkezések[^16]
+
+### 18. §[^17]
+
+E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 22. §-ával megállapított 8. §-a (3) bekezdése h) pontját, 23. §-ával megállapított 11. §-a (3) bekezdése e) pontját, 25. §-ával megállapított 2. számú mellékletét először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+### 19. §[^18]
+
+A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 26. § 2. pontjával megállapított 10. § (1) bekezdés b) pontját, 26. § 3. pontjával megállapított 10. § (1) bekezdés d) pontját, 27. §-ával megállapított 1. és 2. számú mellékletet először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+## 1. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez
+
+**A mérleg előírt tagolása**
+
+ESZKÖZÖK (AKTÍVÁK)
+
+A. Befektetett eszközök
+
+I. Immateriális javak
+
+1\. Vagyoni értékű jogok
+
+2\. Szellemi termékek
+
+3\. Immateriális javakra adott előlegek
+
+4\. Immateriális javak értékhelyesbítése
+
+II. Tárgyi eszközök
+
+1\. Ingatlanok és a kapcsolódó vagyonértékű jogok
+
+2\. Gépek, berendezések, felszerelések, járművek
+
+3\. Beruházások, felújítások
+
+4\. Beruházásokra adott előlegek
+
+5\. Tárgyi eszközök értékhelyesbítése
+
+III. Befektetett pénzügyi eszközök
+
+1\. Egyéb tartósan adott kölcsönök
+
+2\. Tartós hitelviszonyt megtestesítő értékpapír
+
+B. Forgóeszközök
+
+I. Készletek
+
+II. Követelések
+
+1\. Tagpénztárakkal szembeni követelések
+
+*a)* garanciadíj követelések
+
+*b)* tagpénztárak rendkívüli befizetésére szóló követelések
+
+*c)* Alapra átszállt befagyott követelések
+
+*d)*[^19]
+
+*e)* szolgáltatási tartalék kiegészítéséből eredő követelések
+
+*f)* felszámolás alatt álló pénztár járadékos tagja részére folyósított járadék miatti követelések
+
+*g)* tagpénztárakkal szembeni egyéb követelések
+
+2\. Pénztártagokkal, kedvezményezettekkel szembeni követelés
+
+3\. Követelések áruszállításból és szolgáltatásból (vevők)
+
+4\. Egyéb követelések
+
+III. Értékpapírok
+
+1\. Forgatási célú hitelviszonyt megtestesítő értékpapírok
+
+*a)* államkötvény
+
+*b)* kincstárjegy
+
+IV. Pénzeszközök
+
+1\. Pénztár, csekkek
+
+2\. Bankbetétek
+
+C. Aktív időbeli elhatárolások
+
+1\. Bevételek aktív időbeli elhatárolása
+
+2\. Költségek, ráfordítások aktív időbeli elhatárolása
+
+Eszközök összesen
+
+FORRÁSOK (PASSZÍVÁK)
+
+D. Saját tőke
+
+I. Jegyzett tőke
+
+II. Tartaléktőke
+
+III. Értékelési tartalék
+
+IV.[^20] Tárgyévi eredmény
+
+E. Céltartalékok
+
+F. Kötelezettségek
+
+I. Hosszú lejáratú kötelezettségek
+
+II. Rövid lejáratú kötelezettségek
+
+1\. Tagpénztárakkal szembeni kötelezettségek
+
+2\. Rövid lejáratú hitelek, kölcsönök
+
+3\. Állammal szembeni kötelezettségek
+
+4\. Egyéb rövid lejáratú kötelezettségek
+
+G. Passzív időbeli elhatárolások
+
+1\. Bevételek passzív időbeli elhatárolása
+
+2\. Költségek, ráfordítások passzív időbeli elhatárolása
+
+3\. Halasztott bevételek
+
+Források összesen
+
+## 2. számú melléklet a 217/2000. (XII. 11.) Korm. rendelethez[^21]
+
+**Az eredménykimutatás előírt tagolása**
+
+01\. Tagpénztárakkal szemben elszámolt díjbevételek
+
+Ebből: garanciadíj bevételek
+
+02\. Rendkívüli tagpénztári befizetések
+
+03\. Pénztártagok jogi képviseletéért felszámított díjak
+
+**I. *Garanciális bevételek (01+02+03)***
+
+**II. *Egyéb bevételek***
+
+Ebből: visszaírt értékvesztés
+
+04\. Befagyott követelések kifizetésével kapcsolatos ráfordítások
+
+05\. Pénztártagok jogi képviseletével összefüggő ráfordítások
+
+06\. A pénztártag egyéni számla egyenlegének a hozamgarantált tőke összegéig történő kiegészítése miatti ráfordítások
+
+07\. Szolgáltatási tartalék kiegészítésével kapcsolatos ráfordítások
+
+08\. Egyéb garanciális ráfordítások
+
+Ebből: – Alapra átszállt követelések behajtásával kapcsolatos ráfordítások
+
+– társadalombiztosítási nyugdíjrendszerbe átlépő tagot a garanciális kifizetésekre fordítható pénzeszközből megillető összeg miatti ráfordítások
+
+**III. *Garanciális ráfordítások (04+05+06+07+08)***
+
+09\. Anyagjellegű ráfordítások
+
+10\. Személyi jellegű ráfordítások
+
+11\. Értékcsökkenési leírás
+
+**IV. *Működéssel kapcsolatos ráfordítások (09+10+11)***
+
+**V. *Egyéb ráfordítások***
+
+Ebből: értékvesztés
+
+*A. Szokásos tevékenység eredménye (I+II–III–IV–V)*
+
+12.[^22] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételek, árfolyamnyereségek
+
+13\. Egyéb kapott (járó) kamatok és kamatjellegű bevételek
+
+14\. Pénzügyi műveletek egyéb bevételei
+
+**VI. *Pénzügyi műveletek bevételei (12+13+14)***
+
+15.[^23] Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordítások, árfolyamveszteségek
+
+16.[^24] Fizetendő (fizetett) kamatok és kamatjellegű ráfordítások
+
+17\. Értékpapírok, bankbetétek értékvesztése
+
+18\. Pénzügyi műveletek egyéb ráfordításai
+
+**VII. *Pénzügyi műveletek ráfordításai (15+16+17+18)***
+
+*B. Pénzügyi műveletek eredménye (VI–VII)*
+
+*VIII.*[^25]
+
+*IX.*[^26]
+
+*C.*[^27]
+
+*C.*[^28] *Tárgyévi eredmény (±A±B)*
+
+---
+
+[^1]: A 2. § (3) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: A 8. § (3) bekezdés b) pontja a 484/2015. (XII. 29.) Korm. rendelet 26. § 1. pontja szerint módosított szöveg.
+[^3]: A 8. § (3) bekezdésének d) pontját a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^4]: A 8. § (3) bekezdés f) pontja a 423/2024. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 8. § (3) bekezdés h) pontját a 345/2010. (XII. 28.) Korm. rendelet 22. §-a iktatta be, szövege a 345/2013. (IX. 30.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^6]: A 10. § (1) bekezdés b) pontja a 484/2015. (XII. 29.) Korm. rendelet 26. § 2. pontja szerint módosított szöveg.
+[^7]: A 10. § (1) bekezdés d) pontja a 484/2015. (XII. 29.) Korm. rendelet 26. § 3. pontja szerint módosított szöveg.
+[^8]: A 10. § (3) bekezdését a 345/2013. (IX. 30.) Korm. rendelet 16. §-a hatályon kívül helyezte.
+[^9]: A 10/A. §-t a 236/2003. (XII. 17.) Korm. rendelet 18. §-a iktatta be, szövege a 352/2004. (XII. 22.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 18. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi üzleti évről készített beszámolóra is lehet alkalmazni.
+[^10]: A 11. § (3) bekezdése a 325/2009. (XII. 29.) Korm. rendelet 43. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 46. § (1) és (3) bekezdését.
+[^11]: A 11. § (3) bekezdés e) pontját a 345/2010. (XII. 28.) Korm. rendelet 23. §-a iktatta be.
+[^12]: A 12. § a 293/2001. (XII. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^13]: A 13. § (2) bekezdésének d) pontja a 293/2001. (XII. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^14]: A 16. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1127. pontja hatályon kívül helyezte.
+[^16]: A 18. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
+[^17]: A 18. §-t a 345/2010. (XII. 28.) Korm. rendelet 24. §-a iktatta be.
+[^18]: A 19. §-t a 484/2015. (XII. 29.) Korm. rendelet 25. §-a iktatta be.
+[^19]: Az 1. számú melléklet B/II. részének 1.d) sorát a 293/2001. (XII. 26.) Korm. rendelet 26. §-a hatályon kívül helyezte.
+[^20]: Az 1. számú melléklet „D. Saját tőke” pont IV. alpontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^21]: A 2. számú melléklet a 293/2001. (XII. 26.) Korm. rendelet 26. §-a, a 325/2009. (XII. 29.) Korm. rendelet 44. §-a, a 345/2010. (XII. 28.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^22]: A 2. számú melléklet 12. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^23]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^24]: A 2. számú melléklet 16. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^25]: A 2. számú melléklet VIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 2. számú melléklet IX. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^27]: A 2. számú melléklet C. pontját a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdése hatályon kívül helyezte.
+[^28]: A 2. számú melléklet 15. pontja a 484/2015. (XII. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.

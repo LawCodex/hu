@@ -1,0 +1,114 @@
+---
+title: "179/2008. (VII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba történő visszaszállításának támogatásáról és annak finanszírozásáról szóló Megállapodás kihirdetéséről"
+identifier: "179/2008. (VII. 5.) Korm. rendelet"
+njt_id: "2008-179-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/179"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-07-05
+in_force_from: 2008-07-06
+last_amended: 2008-07-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-179-20-22"
+retrieved: 2026-10-12
+---
+
+# 179/2008. (VII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba történő visszaszállításának támogatásáról és annak finanszírozásáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a kutatóreaktor kiégett fűtőelemeinek az Oroszországi Föderációba történő visszaszállításának támogatásáról és annak finanszírozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+*„Article 1*
+
+This Agreement between the Government of the Republic of Hungary and the Government of the United States of America (the „Parties”) aims to give assurances concerning the provision of technical assistance that may be provided by the Government of the United States of America (the „United States Government”), through the United States Department of Energy, to support:
+
+a. the transfer of spent research reactor nuclear fuel from the Republic of Hungary to the Russian Federation,
+
+b. conversion of the research reactor at the KFKI Atomic Energy Research Institute from the use of high-enriched uranium (HEU) fuel to low-enriched uranium (LEU) fuel,
+
+c. safety upgrade of the reactor system as part its conversion from HEU fuel to LEU fuel, and
+
+d. security enhancement of the reactor site and nuclear materials stored at the site.
+
+*Article 2*
+
+The Government of the Republic of Hungary agrees that:
+
+a. The technical assistance provided by the Government of the United States of America (the „United States Government”) shall not be used for payment of any taxes (including value-added taxes), customs duties, or other charges imposed by the Government of the Republic of Hungary or any subdivision or instrumentalities thereof. If any taxes, customs duties, or other charges imposed by the Government of the Republic of Hungary or any subdivision or instrumentalities thereof are assessed with respect to the technical assistance provided by the United States Government, the Government of the Republic of Hungary shall provide prompt and full reimbursement for those taxes, duties or other charges.
+
+b. The Government of the Republic of Hungary shall be responsible for any liability arising out of technical assistance provided by the United States Government as set forth in Article 1 above, in accordance with the Vienna Convention on Civil Liability for Nuclear Damage of May 21 1963.
+
+*Article 3*
+
+Any technical assistance provided by the United States of America pursuant to this Agreement is subject to the availability of funds.
+
+*Article 4*
+
+Ministries and agencies of the Parties may enter into implementing agreements and other arrangements to implement technical assistance provided by the United States Government pursuant to this Agreement.
+
+*Article 5*
+
+The two governments understand that during the implementation of the Agreement the Hungarian side is required to act in compliance with the legislation of the European Community and the European Atomic Energy Community.
+
+If these proposals are acceptable to the United States Government, it is further proposed that this note, together with the Embassy's affirmative note of reply, shall constitute an agreement between the two governments, which shall enter into force on the date of a note from the Ministry confirming that the Government of the Republic of Hungary has completed all of its domestic legal procedures necessary for entry into force of the Agreement.
+
+*1. cikk*
+
+A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya (a továbbiakban: Felek) közötti jelen Megállapodás célja, hogy biztosítékot nyújtson az Amerikai Egyesült Államok Kormánya (a továbbiakban: Egyesült Államok Kormánya) által, az Amerikai Egyesült Államok Energiaügyi Minisztériumán keresztül nyújtható műszaki támogatás tekintetében, amely támogatás kiterjed:
+
+*a)* a kiégett nukleáris kutatóreaktor-fűtőelemeknek a Magyar Köztársaságból az Oroszországi Föderációba történő szállítására,
+
+*b)* a KFKI Atomenergia Kutató Intézet kutatóreaktorának magas dúsítású urán használatáról alacsony dúsítású uránra történő átállására,
+
+*c)* a magas dúsítású uránról alacsony dúsítású uránra történő átállás részeként a reaktor-rendszer biztonságának növelésére, valamint
+
+*d)* a reaktor telephelye és a telephelyen tárolt nukleáris anyagok védettségének növelésére.
+
+*2. cikk*
+
+A Magyar Köztársaság Kormány egyetért azzal, hogy:
+
+*a)* Az Amerikai Egyesült Államok Kormánya (az „Egyesült Államok Kormánya”) által nyújtott műszaki támogatást nem lehet adók (beleértve az általános forgalmi adókat), vám vagy más olyan díjak kiegyenlítésére fordítani, amelyeket a Magyar Köztársaság Kormánya, vagy kormányzati szerve vagy intézménye kiszab. Amennyiben az Egyesült Államok Kormánya által nyújtott műszaki támogatással kapcsolatosan a Magyar Köztársaság Kormánya, vagy kormányzati szerve vagy intézménye adót, vámot vagy más díjat állapít meg, úgy az erre fordított összeggel megegyező összeget a Magyar Köztársaság Kormánya köteles haladéktalanul és teljes mértékben visszafizetni.
+
+*b)* A Magyar Köztársaság Kormánya vállalja a kárfelelősséget bármely, az Egyesült Államok Kormánya által a fenti 1. cikkben meghatározott műszaki támogatásból adódó kártérítési kötelezettségért, az atomkárokért való polgári jogi felelősségről szóló 1963. május 21-én kelt Bécsi Egyezménynek megfelelően.
+
+*3. cikk*
+
+Bármely, az Amerikai Egyesült Államok által, ezen Megállapodás szerint nyújtott műszaki támogatás a pénzügyi források rendelkezésre állásától függ.
+
+*4. cikk*
+
+A Felek minisztériumai és hivatalai végrehajtási egyezményeket vagy más megállapodásokat köthetnek az Egyesült Államok Kormánya által, a jelen Megállapodás szerint nyújtott műszaki támogatás végrehajtására.
+
+*5. cikk*
+
+A Felek tudomásul veszik, hogy a Megállapodás végrehajtása során a magyar fél köteles az Európai Közösség és az Európai Atomenergia Közösség jogrendjének megfelelően eljárni.
+
+Amennyiben ezen javaslatok elfogadhatóak az Egyesült Államok Kormánya számára, akkor javasoljuk továbbá, hogy ez a jegyzék a Nagykövetség jóváhagyó válaszjegyzékével együtt képezzen Megállapodást a két Kormány között, amely Megállapodás akkor lép hatályba, amikor a Minisztérium megerősíti, hogy a Magyar Köztársaság a hatálybaléptetéshez szükséges belső jogi kötelezettségeknek eleget tett.”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás záró rendelkezésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás záró rendelkezésében meghatározott időpontban lép hatályba. A 32/2008. (VII. 16.) KüM határozat alapján a hatálybalépés időpontja 2008. július 7.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás záró rendelkezésében meghatározott időpontban lép hatályba. A 32/2008. (VII. 16.) KüM határozat alapján a hatálybalépés időpontja 2008. július 7.
+[^3]: A 32/2008. (VII. 16.) KüM határozat alapján a hatálybalépés időpontja 2008. július 7.
+[^4]: Lásd a 32/2008. (VII. 16.) KüM határozatot.

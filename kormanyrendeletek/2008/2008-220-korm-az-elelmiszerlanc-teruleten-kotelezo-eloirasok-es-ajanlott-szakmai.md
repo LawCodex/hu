@@ -1,0 +1,276 @@
+---
+title: "220/2008. (VIII. 30.) Korm. rendelet az élelmiszerlánc területén kötelező előírások és ajánlott szakmai irányelvek gyűjteményei kiadásának rendjéről"
+identifier: "220/2008. (VIII. 30.) Korm. rendelet"
+njt_id: "2008-220-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/220"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-08-30
+in_force_from: 2009-10-01
+last_amended: 2021-03-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-220-20-22"
+retrieved: 2026-10-12
+---
+
+# 220/2008. (VIII. 30.) Korm. rendelet az élelmiszerlánc területén kötelező előírások és ajánlott szakmai irányelvek gyűjteményei kiadásának rendjéről
+
+A Kormány az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés *c)* pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában foglalt feladatkörében eljárva következőket rendeli:
+
+## A magyar FAO/WHO Codex Alimentarius munka szakmai irányítását végző szerv kijelölése és működési rendje
+
+### 1. §
+
+(1) A magyar FAO/WHO Codex Alimentarius munka szakmai irányítását végző szervként a Kormány a Codex Alimentarius Magyar Nemzeti Bizottságot jelöli ki.
+
+(2)[^1] A Codex Alimentarius Magyar Nemzeti Bizottság 15 tagból áll, akik közül az élelmiszer-vállalkozások 4 főt, az oktató, illetve kutató intézmények 3 főt, a fogyasztói érdekek képviseletét ellátó társadalmi szervezetek 1 főt javasolhatnak, továbbá az élelmiszerlánc-felügyeletért felelős miniszter 4 főt, a fogyasztóvédelemért felelős miniszter 1 főt, az egészségügyért felelős miniszter 1 főt, valamint a Nemzeti Élelmiszerlánc-biztonsági Hivatal 1 főt jelöl. A Codex Alimentarius Magyar Nemzeti Bizottság tagjait FAO Magyar Nemzeti Bizottság elnöke nevezi ki.
+
+(3)[^2] A Codex Alimentarius Magyar Nemzeti Bizottság elnökét és titkárát az élelmiszerlánc-felügyeletért felelős miniszter által jelölt tagok közül a FAO Magyar Nemzeti Bizottság elnöke nevezi ki.
+
+(4)[^3] A Codex Alimentarius Magyar Nemzeti Bizottság titkársági feladatait az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium látja el.
+
+(5)[^4] A Codex Alimentarius Magyar Nemzeti Bizottság működési szabályzatát maga határozza meg, és azt az élelmiszerlánc-felügyeletért felelős miniszter hagyja jóvá.
+
+(6)[^5] A Codex Alimentarius Magyar Nemzeti Bizottság működéséhez és titkársági feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket a Codex Alimentarius Magyar Nemzeti Bizottság által jóváhagyott éves munka- és pénzügyi tervre figyelemmel az élelmiszerlánc-felügyeletért felelős miniszter biztosítja.
+
+## A Magyar Élelmiszerkönyv gondozásával kapcsolatos munka szakmai irányítását végző szerv kijelölése és működési rendje
+
+### 2. §
+
+(1) A Magyar Élelmiszerkönyv gondozásával kapcsolatos munka szakmai irányítását végző szervként a Kormány a Magyar Élelmiszerkönyv Bizottságot jelöli ki.
+
+(2)[^6] A Magyar Élelmiszerkönyv Bizottság 15 tagból áll. A Magyar Élelmiszerkönyv Bizottságba
+
+a) az élelmiszeripari vállalkozások szakmai és érdekvédelmi szervezetei összesen 6 főt, az oktatási és kutatási intézmények képviselői összesen 2 főt, a fogyasztói érdekek képviseletét ellátó egyesületek összesen 1 főt javasolhatnak,
+
+b) a Nemzeti Élelmiszerlánc-biztonsági Hivatal 2 főt, az élelmiszerlánc-felügyeletért felelős miniszter az általa vezetett minisztérium kormánytisztviselői közül 2 főt, a fogyasztóvédelemért felelős miniszter és az egészségügyért felelős miniszter az általa vezetett minisztérium kormánytisztviselői közül 1-1 főt jelöl.
+
+(3)[^7] A Magyar Élelmiszerkönyv Bizottság
+
+a) tagjait az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki,
+
+b) elnökét az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki az általa jelölt tagok közül.
+
+(4)[^8] A Magyar Élelmiszerkönyv Bizottság működési szabályzatát maga határozza meg, és azt az élelmiszerlánc-felügyeletért felelős miniszter hagyja jóvá.
+
+(5) A Magyar Élelmiszerkönyv Bizottság az egyes szakterületek előírásai és irányelvei tervezeteinek kidolgozására szakbizottságokat hoz létre.
+
+(6) A Magyar Élelmiszerkönyv Bizottság feladatainak ellátásához – beleértve az adminisztratív teendőket is – szakértőt vehet igénybe.
+
+(7)[^9] A Magyar Élelmiszerkönyv Bizottság működésével kapcsolatos titkársági feladatok ellátásáért az élelmiszerlánc-felügyeletért felelős miniszter felel. A Magyar Élelmiszerkönyv Bizottság titkárát az élelmiszerlánc-felügyeletért felelős miniszter az általa vezetett minisztérium kormánytisztviselői közül nevezi ki.
+
+(8)[^10] A Magyar Élelmiszerkönyv Bizottság működéséhez és titkársági feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket a Magyar Élelmiszerkönyv Bizottság által jóváhagyott éves munka- és pénzügyi tervre figyelemmel az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium biztosítja.
+
+## A Magyar Élelmiszerkönyv kiadásának rendje
+
+### 3. §
+
+(1) A Magyar Élelmiszerkönyv előírásainak és irányelveinek tervezetét a Magyar Élelmiszerkönyv Bizottság dolgozza ki.
+
+(2) A Magyar Élelmiszerkönyv
+
+a) I. kötete az egyes élelmiszerekre, illetve az élelmiszerek vagy élelmiszer-összetevők egyes csoportjaira vonatkozó élelmiszer-minőségi, élelmiszer-jelölési és élelmiszer-biztonsági (élelmiszer-higiéniai), az Európai Unió kötelező jogi aktusainak átvételével készült, illetve nemzeti termékelőírásokra és rendelkezésekre vonatkozó kötelező előírásokat,
+
+b) II. kötete a nemzetközi szervezetek ajánlásai és a hazai adottságok figyelembevételével készült ajánlott irányelveket,
+
+c) III. kötete – a Hivatalos Élelmiszer-vizsgálati Módszergyűjtemény – az Európai Közösség irányelveinek átvételével készült vizsgálati módszer előírásokat, továbbá ajánlott vizsgálati módszer irányelveket
+
+tartalmazza.
+
+(3)[^11] Az élelmiszerlánc-felügyeletért felelős miniszter a Magyar Élelmiszerkönyv (1) bekezdés szerinti tervezete alapján a Magyar Élelmiszerkönyv
+
+a) kötelező előírásait rendelettel kiadja,
+
+b) irányelveit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi,
+
+c) mindenkor hatályos szövegét az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium honlapján egységes szerkezetben megjelenteti.
+
+(4)[^12] A 2. § (5) bekezdése szerinti szakbizottságok a szakterületük szerinti termékcsoportok vonatkozásában a jogalkalmazói gyakorlat kiszámíthatóságának növelése érdekében a szabályozás alapjait ismertető tájékoztatókat adhatnak ki, amelyeknek kötelező ereje nincs. Ezeket a tájékoztatókat az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni.
+
+## A Magyar Állat-egészségügyi és Állatjóléti Kódex gondozásával kapcsolatos munka szakmai irányítását végző szerv kijelölése és működési rendje
+
+### 4. §
+
+(1)[^13] A Kormány a Magyar Állat-egészségügyi és Állatjóléti Kódex gondozásával kapcsolatos munka szakmai irányítását végző, az élelmiszerlánc-felügyeletért felelős miniszternek az állategészségügy irányításával kapcsolatos tevékenységét segítő tanácsadó szervként a Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottságot jelöli ki.
+
+(2)[^14] A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság 13 tagból áll, akik közül a Magyar Állatorvosi Kamara 2 főt, az állatorvos-tudományi oktató és kutató intézmények 2 főt, az Országos Állatvédelmi és Állatjóléti Tanács 1 főt javasolhatnak, továbbá az élelmiszerlánc-felügyeletért felelős miniszter 3 főt, az állategészségügyi és élelmiszer-ellenőrző szolgálat 4 főt jelöl. A tagokat az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki. A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság tagja az országos főállatorvos.
+
+(3)[^15] A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság elnöke az országos főállatorvos, titkárát a tagok közül az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki.
+
+(4)[^16] A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság működési szabályzatát maga határozza meg, és azt az élelmiszerlánc-felügyeletért felelős miniszter hagyja jóvá.
+
+(5) A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság az egyes szakterületek előírásai és irányelvei tervezeteinek kidolgozására szakbizottságokat hoz létre.
+
+(6) A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság döntéseit a szakbizottságok javaslata alapján fogadja el.
+
+(7) A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság feladatainak ellátásához – beleértve az adminisztratív teendőket is – szakértőt vehet igénybe.
+
+(8)[^17] A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság működésével kapcsolatos titkársági feladatokat az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium látja el.
+
+(9)[^18] A Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság működéséhez és titkársági feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket a Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság által jóváhagyott éves munka- és pénzügyi tervre figyelemmel az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium biztosítja.
+
+## A Magyar Állat-egészségügyi és Állatjóléti Kódex kiadásának rendje
+
+### 5. §
+
+(1) A Magyar Állat-egészségügyi és Állatjóléti Kódex előírásainak és irányelveinek tervezetét a Nemzetközi Állatjárványügyi Hivatal (OIE) Szárazföldi és Vízi állatok Állat-egészségügyi Kódex előírásaival összhangban, illetve ajánlásaira tekintettel a Magyar Állat-egészségügyi és Állatjóléti Kódex Bizottság dolgozza ki.
+
+(2) A Magyar Állat-egészségügyi és Állatjóléti Kódex
+
+a) I. kötete az Európai Unió kötelező jogi aktusainak átvételével készült, illetve nemzeti rendelkezésekre vonatkozó kötelező előírásokat,
+
+b) II. kötete az egyes fertőző állatbetegségek leküzdésére kidolgozott országos készenléti terveket, mentesítési, illetve monitoring programokat,
+
+c) III. kötete az ajánlott irányelveket, diagnosztikai eljárásokat, valamint a vakcinákkal, illetve diagnosztikumokkal szemben támasztott követelményeket
+
+tartalmazza.
+
+(3)[^19] Az élelmiszerlánc-felügyeletért felelős miniszter a Bizottság javaslata alapján a Magyar Állat-egészségügyi és Állatjóléti Kódex köteteit az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium hivatalos lapjában és honlapján közzéteszi.
+
+## A Magyar Takarmánykódex Bizottság
+
+### 6. §
+
+A Magyar Takarmánykódex (Codex Pabularis Hungaricus) (a továbbiakban: Magyar Takarmánykódex) gondozásával kapcsolatos munka irányítását végző szervként a Kormány a Magyar Takarmánykódex Bizottságot jelöli ki.
+
+### 7. §
+
+A Magyar Takarmánykódex Bizottság
+
+a)[^20] kidolgozza és javaslatot tesz az élelmiszerlánc-felügyeletért felelős miniszter felé a Magyar Takarmánykódex I. kötetének szakmai tervezetére, valamint kidolgozza és kiadja a Magyar Takarmánykódex II. és III. kötetét,
+
+b) véleményt nyilvánít az Európai Unió takarmányozási tárgyú jogi aktusainak átvételéről, illetve alkalmazási feltételeinek megteremtéséről,
+
+c) javaslatot tesz az Európai Unió jogi aktusa nem korlátozott hozzáférésű tervezetének az Európai Unió intézményeiben való tárgyalása során képviselendő magyar álláspontra.
+
+### 8. §
+
+(1)[^21] A Magyar Takarmánykódex Bizottság 12 tagból áll, akik közül az oktatási, illetve kutatási intézmények képviselői 4 főt, a takarmányipar képviselői 4 főt javasolhatnak, továbbá az állategészségügyi és élelmiszer-ellenőrző szolgálatok és az élelmiszerlánc-felügyeletért felelős miniszter együttesen 4 főt jelölnek. A Magyar Takarmánykódex Bizottság tagjait az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki.
+
+(2)[^22] A Magyar Takarmánykódex Bizottság elnökét és annak helyettesét a Magyar Takarmánykódex Bizottság tagjai közül választja, titkárát a tagok közül az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki.
+
+### 9. §
+
+(1)[^23] A Magyar Takarmánykódex Bizottság a működési szabályzatát maga határozza meg, és azt az élelmiszerlánc-felügyeletért felelős miniszter hagyja jóvá.
+
+(2) A Magyar Takarmánykódex Bizottság feladatainak ellátásához – beleértve az adminisztratív teendőket is – szakértőt vehet igénybe.
+
+(3)[^24] A Magyar Takarmánykódex Bizottság működéséhez és titkársági feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket a Magyar Takarmánykódex Bizottság által jóváhagyott éves munka- és pénzügyi tervre figyelemmel az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium biztosítja.
+
+## A Magyar Takarmánykódex összeállítása
+
+### 10. §
+
+A Magyar Takarmánykódexet a Magyar Takarmánykódex Bizottság állítja össze a következők szerint: a Magyar Takarmánykódex
+
+a) I. kötete a takarmányokra, a takarmány előállítására, forgalomba hozatalára, vizsgálatára, szállítására, valamint a takarmányozási létesítményekre az Európai Unió kötelező jogi aktusainak átvételével készült, illetve nemzeti rendelkezésekre vonatkozó kötelező előírásokat,
+
+b) II. kötete a takarmányok kémiai leírásának, felhasználásának, valamint az állatok táplálóanyag szükségletének ajánlott szakmai irányelveit,
+
+c) III. kötete az ajánlott takarmányvizsgálati módszereket
+
+tartalmazza.
+
+## A Magyar Takarmánykódex közzétételének és kiadásának rendje
+
+### 11. §[^25]
+
+Az élelmiszerlánc-felügyeletért felelős miniszter a Magyar Takarmánykódex
+
+a) 10. § *a)* pontja szerinti kötelező előírásait rendelettel adja ki,
+
+b)[^26] 10. § *b)* pontja szerinti ajánlott szakmai irányelveit és 10. § *c)* pontja szerinti takarmányvizsgálati módszereit a Magyar Takarmánykódex Bizottság az élelmiszerlánc-felügyeletért felelő miniszter által vezetett minisztérium hivatalos lapjában és honlapján teszi közzé,
+
+c)[^27] mindenkor hatályos szövegét az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium honlapján egységes szerkezetben megjelenteti.
+
+## A Növényvédelmi Módszertani Gyűjtemény gondozásával kapcsolatos munka szakmai irányítását végző szerv kijelölése és működési rendje
+
+### 12. §
+
+(1) A Kormány a Növényvédelmi Módszertani Gyűjtemény gondozásával kapcsolatos munka szakmai irányítását végző szervként a Növényvédelmi Bizottságot jelöli ki.
+
+(2)[^28] A Növényvédelmi Bizottság 21 tagból áll, akik közül a Gabonatermesztők Országos Szövetsége 1 főt, a Greenpeace Magyarország Egyesület 1 főt, a Magyar Agrár- és Élettudományi Egyetem 1 főt, a Magyar Növényvédő Mérnöki és Növényorvosi Kamara 2 főt, az Agrártudományi Kutatóközpont Növényvédelmi Kutató Intézete 1 főt, a Növényvédőszer-gyártók és Importőrök Szövetsége Egyesület 1 főt, a Növényvédő Szer Kereskedők Szakmai Egyesülete 1 főt, az Országos Magyar Méhészeti Egyesület 1 főt javasolhat, továbbá a Nemzeti Élelmiszerlánc-biztonsági Hivatal 5 főt, az élelmiszerlánc-felügyeletért felelős miniszter 2 főt, a környezetvédelemért felelős miniszter 1 főt, a természetvédelemért felelős miniszter 1 főt, az egészségügyért felelős miniszter 1 főt jelöl. A tagokat az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki. A Növényvédelmi Bizottság tagja az országos növényegészségügyi főtisztviselő, valamint az országos növény- és talajvédelmi főfelügyelő.
+
+(3)[^29] A Növényvédelmi Bizottság elnöke az országos növényegészségügyi főtisztviselő, titkárát az élelmiszerlánc-felügyeletért felelős miniszter nevezi ki a tagok közül.
+
+(4)[^30] A Növényvédelmi Bizottság működési szabályzatát maga határozza meg, és azt az élelmiszerlánc-felügyeletért felelős miniszter hagyja jóvá.
+
+(5) A Növényvédelmi Bizottság feladatainak ellátásához – beleértve az adminisztratív teendőket is – szakértőt vehet igénybe.
+
+(6)[^31] A Növényvédelmi Bizottság működéséhez és titkársági feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket a Növényvédelmi Bizottság által jóváhagyott éves munka- és pénzügyi tervre figyelemmel az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium biztosítja.
+
+## A Növényvédelmi Módszertani Gyűjtemény kiadásának rendje
+
+### 13. §
+
+(1) A Növényvédelmi Módszertani Gyűjtemény előírásainak és irányelveinek tervezetét a Növényvédelmi Bizottság dolgozza ki.
+
+(2) A Növényvédelmi Módszertani Gyűjtemény tartalmazza:
+
+a) az engedélyezési dosszié tartalmi és formai követelményeit,
+
+b) a címkézési útmutatót,
+
+c) a növényvédő szerek forgalmi kategóriába sorolásának feltételeit,
+
+d) a biológiai hatékonysági vizsgálatok tervezéséhez és végzéséhez szükséges útmutatót,
+
+e) a vizsgálóhelyek „Helyes Kísérleti Gyakorlat” szerinti minősítésének útmutatóját,
+
+f) a környezetben várható koncentrációk előre jelzett értékeinek kiszámítását és felhasználását a kockázatbecslésben,
+
+g) a nem cél-szervezetekre történő, ökotoxikológiai kockázatbecslést,
+
+h) egyéb – a Bizottság által jóváhagyott – módszertani előírásokat.
+
+(3)[^32] Az élelmiszerlánc-felügyeletért felelős miniszter a Növényvédelmi Bizottság javaslata alapján a Növényvédelmi Módszertani Gyűjteményt az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium honlapján egységes szerkezetben közzéteszi.
+
+## Záró rendelkezés
+
+### 14. §
+
+(1) Ez a rendelet 2008. szeptember 1-jén lép hatályba.
+
+(2)[^33]
+
+(3) E rendelet nem érinti a Codex Alimentarius Magyar Nemzeti Bizottság, a Magyar Élelmiszerkönyv Bizottság, valamint a Magyar Takarmánykódex Bizottság e rendelet hatálybalépését megelőzően kinevezett tagjai megbízatását és annak időtartamát, e tagok megbízatása a kinevezésük idején hatályos rendelkezések alapján megállapított ideig áll fenn.
+
+(4)–(5)[^34]
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 637. §-a, a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 637. §-a, a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (6) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése a 352/2019. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdése a 352/2019. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 2. § (7) bekezdése a 352/2019. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^10]: A 2. § (8) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^12]: A 3. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja és (6) bekezdése szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^14]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 637. §-a, a 40/2013. (II. 14.) Korm. rendelet 60. §-a, a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 4. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A 4. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 4. § (8) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 4. § (9) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) és f) pontja, (6) bekezdése szerint módosított szöveg.
+[^20]: A 7. § a) pontja a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^21]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 636. § (2) bekezdésével megállapított, a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^22]: A 8. § (2) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 9. § (1) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^24]: A 9. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 11. § nyitó szövegrésze a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^26]: A 11. § b) pontja a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^27]: A 11. § c) pontja a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 12. § (2) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 345/2019. (XII. 23.) Korm. rendelet 2. §-a, a 120/2021. (III. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^29]: A 12. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^30]: A 12. § (4) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 12. § (6) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^32]: A 13. § (3) bekezdése a 98/2014. (III. 25.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^33]: A 14. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 638. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 14. § (4)–(5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 638. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

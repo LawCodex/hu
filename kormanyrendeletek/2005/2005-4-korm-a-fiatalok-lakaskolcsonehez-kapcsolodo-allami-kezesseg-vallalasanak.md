@@ -1,0 +1,247 @@
+---
+title: "4/2005. (I. 12.) Korm. rendelet a fiatalok lakáskölcsönéhez kapcsolódó állami kezesség vállalásának és érvényesítésének részletes szabályairól"
+identifier: "4/2005. (I. 12.) Korm. rendelet"
+njt_id: "2005-4-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/4"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-01-12
+in_force_from: 2009-10-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-4-20-22"
+retrieved: 2026-10-12
+---
+
+# 4/2005. (I. 12.) Korm. rendelet a fiatalok lakáskölcsönéhez kapcsolódó állami kezesség vállalásának és érvényesítésének részletes szabályairól
+
+A Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 121. §-ának *e)* pontjában kapott felhatalmazás alapján a Kormány az alábbiakat rendeli el:
+
+## Az állami kezesség feltételei
+
+### 1. §
+
+(1) Az állam a mindenkori éves költségvetési törvényben, valamint e rendeletben foglalt feltételek teljesülése esetén készfizető kezességet vállal a központi költségvetés terhére a lakáscélú ingatlan építéséhez, vásárlásához hitelintézettől igényelt kölcsön összegének a hitel fedezetéül szolgáló, a hitelcél szerinti lakásingatlan hitelbiztosítéki értékének 60%-át meghaladó részére, legfeljebb e hitelbiztosítéki érték 100%-áig (a továbbiakban: garantált hitelrész). Az állami kezességvállalás mértéke a garantált hitelrész és az erre felszámított kamat és kezelési költség 100%-a.
+
+(2) Az állami kezességvállalással biztosított hitelt házastársak, élettársak, valamint gyermeket nevelő egyedülálló személyek vehetik igénybe, ha:
+
+a)[^1] a hitelkérelem benyújtásakor a házastársak vagy az élettársak egyike sem töltötte be a 35. életévét, illetve a gyermeket nevelő egyedülálló személy nem töltötte be a 35. életévét,
+
+b) megfelelnek a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet (a továbbiakban: R.) 2. §-ának (2)–(4) bekezdésében, valamint 12. §-a (1) bekezdésének *b)* és *e)* pontjában meghatározott feltételeknek,
+
+c) a házastársak vagy az élettársak legalább egyike, illetve a gyermeket nevelő egyedülálló személy az R. 1. §-a (4) bekezdésének 7. pontjában meghatározott támogatott személy,
+
+d)[^2] a kölcsönszerződésben hozzájárulnak ahhoz, hogy a kezességvállalás feltételeinek ellenőrzése érdekében, a kezességvállalással érintett állomány meghatározása céljából, továbbá a kezesség beváltása esetén a *mellékletben* meghatározott személyes adataikat és a hitelre vonatkozó adatokat a hitelintézet továbbítsa a Nemzeti Adó- és Vámhivatal és a Magyar Államkincstár részére, ahol az adatokat az kezességvállalással nyújtott kölcsön teljes visszafizetéséig kezelik.
+
+(3) Az állami kezességvállalás feltétele, hogy a házastársak vagy az élettársak a kölcsön adósai legyenek és a hitelcél szerinti ingatlanban közös tulajdonjogot szerezzenek, illetve a gyermeket nevelő egyedülálló személy a kölcsön adósa legyen és a hitelcél szerinti ingatlanban tulajdonjogot szerezzen. A hitelcél szerinti ingatlanban kizárólag a házastársak, vagy az élettársak, vagy a gyermeket nevelő egyedülálló személy, valamint gyermekeik szerezhetnek tulajdonjogot.
+
+(4) A gyermek fogalmánál az R. szerinti meghatározást kell figyelembe venni.
+
+(5) A hitelcél szerinti ingatlan vételára, új lakás építése vagy vásárlása esetén pedig a telekár nélkül számított általános forgalmi adót tartalmazó építési költsége vagy vételára (a továbbiakban együtt: az ingatlan vételára) nem haladhatja meg:
+
+a) Budapesten és megyei jogú városokban használt lakás esetén a 12 millió forintot, új lakás esetén a 15 millió forintot,
+
+b) más településeken használt lakás esetén a 8 millió forintot, új lakás esetén a 12 millió forintot.
+
+(6)[^3] A kölcsön felvételénél a (2) bekezdés *a)* pontjában meghatározott adós(ok) mellett adóstárs az adós(ok) a Polgári Törvénykönyv szerint meghatározott közeli hozzátartozója lehet.
+
+(7) Egyedülálló az a személy, aki hajadon, nőtlen, özvegy vagy elvált és nincs élettársa.
+
+(8) Az egyedülálló személy, illetve az élettársi kapcsolatban élők e családi állapotuk fennállásáról írásban nyilatkoznak a kölcsönt nyújtó hitelintézetnek.
+
+(9) Az állami kezességvállalás (2)–(8) bekezdésben meghatározott igénybevételi feltételeinek meglétét a folyósító hitelintézet – a hiteligénylő által benyújtott dokumentumok és nyilatkozatok alapján – köteles ellenőrizni. Az R.-ben foglalt feltételekre történő hivatkozások esetén az ellenőrzésnél az R.-ben meghatározottak szerint kell eljárni.
+
+### 2. §
+
+(1) Az állami készfizető kezességvállalás további feltétele, hogy
+
+a)[^4] a nyújtott kölcsön teljes összege nem haladhatja meg a hitelcél szerinti ingatlan vételárának, új lakás vásárlása vagy építése esetén pedig a telekárral együtt számított általános forgalmi adót tartalmazó vételárának vagy építési költségének 70%-át,
+
+b)[^5] a nyújtott kölcsön fedezetéül szolgáló, a hitelcél szerinti ingatlan hitelbiztosítéki értékét a termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendeletnek megfelelően készített és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank által jóváhagyott hitelbiztosítéki értékmegállapítási szabályzat alapján határozták meg,
+
+c) az adós(ok), illetve adóstársak hitelképessége jövedelmi helyzetüket is figyelembe véve a kölcsön teljes összegére vonatkozóan – a kölcsönt nyújtó hitelintézet belső szabályai szerint – fennáll,
+
+d)[^6]
+
+e)[^7] a kölcsönt forintban nyújtják és a törlesztése is csak forintban történhet, árfolyamkockázatot a kölcsönt igénybe vevő nem visel.
+
+(2) Az (1) bekezdés *b)* pontjában meghatározott feltétel teljesül abban az esetben is, ha a hitelintézet egy jelzálog-hitelintézet útján – a jelzálog-hitelintézet jóváhagyott értékmegállapítási szabályzata alapján – határozza meg az ingatlan hitelbiztosítéki értékét.
+
+(3) Lakásépítéshez és új lakás vásárlásához nyújtott kölcsön esetén a garantált hitelrész összegének meghatározásánál figyelembe vehető a hitelcél szerinti, fedezetül szolgáló ingatlan várható hitelbiztosítéki értéke.
+
+(4) A hitelintézet a kölcsönszerződésben rögzíti a garantált hitelrész összegét és annak arányát a teljes kölcsönösszegen belül.
+
+(5) A garantált hitelrész összegét a fedezetül szolgáló, hitelcél szerinti ingatlan hitelbírálatkor megállapított hitelbiztosítéki értéke alapján kell meghatározni. Az ingatlan hitelbiztosítéki értékének futamidő alatt történő változása nem érinti a garantált hitelrész összegét.
+
+### 3. §
+
+(1)[^8] Az állami kezességvállalás feltétele, hogy a kölcsön teljes hiteldíjmutatójának mértéke kisebb, mint a kölcsönt nyújtó hitelintézet által állami kezességvállalás nélkül, forintban, kamattámogatás szempontjából azonos feltételekkel nyújtott lakáskölcsön teljes hiteldíjmutatója. Amennyiben a kölcsön támogatott és nem támogatott kölcsönrészekből áll, az egyes kölcsönrészekre vonatkozó teljes hiteldíjmutatónak kisebbnek kell lennie, mint a hitelintézet által az adott kölcsönrésszel azonos feltételekkel, de állami kezességvállalás nélkül nyújtott lakáskölcsön teljes hiteldíjmutatója.
+
+(2) Az (1) bekezdésben meghatározott teljes hiteldíj mutató a betéti kamat, az értékpapírok hozama és a teljes hiteldíj mutató számításáról és közzétételéről szóló 41/1997. (III. 5.) Korm. rendelet alapján számított, a hitelintézet nyilvános tájékoztatójában meghatározott teljes hiteldíj mutatót jelenti.
+
+### 4. §[^9]
+
+### 5. §
+
+(1) Az állami kezességvállalás időtartama a garantált hitelrész első folyósítási napjától a felvett kölcsön és járulékai visszafizetéséig, illetve az állami kezesség beváltásáig áll fenn.
+
+(2) A kölcsön törlesztése során a 2. § (4) bekezdése szerinti arány megtartása mellett csökken a garantált hitelrész összege.
+
+(3)[^10] A hitelintézet a negyedévet követő hónap 20. napjáig elektronikus úton tájékoztatja a Magyar Államkincstárt a garantált hitelrészek negyedév végén fennálló állományáról, valamint e kölcsönök számáról. A hitelintézet az első adatszolgáltatási kötelezettség előtt értesítést küld a Magyar Államkincstárnak, ahol adatszolgáltatóként a nyilvántartásba felvételre kerül és azonosítót kap. A Magyar Államkincstár a jelentkező hitelintézeteknek az értesítés kézhezvételét követő nyolc napon belül megküldi az adatszolgáltatás részletes eljárási szabályait tartalmazó, honlapján közzétett információk elérhetőségéről szóló tájékoztatást.
+
+## A kezességvállalási díj
+
+### 6. §[^11]
+
+(1) A hitelfelvevő az állami kezességvállalás után a központi költségvetés javára kezességvállalási díjat köteles fizetni, amit kérésére a hitelintézet meghitelez. A garantált hitelrész folyósított hányadára számított kezességvállalási díj összegét a hitelintézet – a garantált hitelrész folyósítási napját követő hónap 5. napjáig – átutalja a központi költségvetés részére a Magyar Államkincstárnál vezetett 10032000-01034004 Különleges bevételek számlára.
+
+(2) Amennyiben a hitelfelvevő nem kéri a kezességvállalási díj meghitelezését, egy összegben megfizetheti a díj összegét a hitelintézet részére. A hitelintézet e hitelek esetében is az (1) bekezdésben meghatározott időpontban utalja át a kezességvállalási díj összegét a központi költségvetés részére.
+
+(3) A díj mértéke a garantált hitelrész – kezességvállalási díj nélkül számított – összegének 2%-a.
+
+(4)[^12]
+
+(5) A kezességvállalási díj hitelintézet által történő meghitelezése esetén a díj összege növeli az állami kezességvállalással biztosított garantált hitelrész összegét, illetve mértékét.
+
+## A kezesség érvényesítése
+
+### 7. §
+
+(1) Az adós nem teljesítése esetén a hitelintézet a hitel felmondását megelőzően belső szabályai szerint felszólítja az adóst a tartozás rendezésére.
+
+(2)[^13] Amennyiben az állami kezességvállalással érintett hitelszerződés felmondásra kerül, vagy a véglejáratkor a kölcsönt az adós még nem fizette teljesen vissza, a hitelintézet a hitelszerződés lejáratát, illetve – amennyiben az korábbi – annak felmondását követő 180 naptári napon belül érvényesítheti az állami kezességvállalásból eredő jogait az állami adóhatóságnál. E határidő elmulasztása jogvesztéssel jár. A hitelintézet az állami kezesség beváltását az adóhatóságnál kezdeményezheti a melléklet szerinti igénylőlap felhasználásával a 10032000-01907027 NAV Állami kezesség beváltás folyósítási számla ellenében.
+
+(3) Deviza alapú hitelek esetében az állami kezességvállalással érintett követelés forint ellenértékét a devizában meghatározott követelésnek a kezességvállalás érvényesítésének napján érvényes, a hitelintézet által alkalmazott deviza-eladási árfolyam alapján kell meghatározni.
+
+(4)[^14] Az állami kezesség beváltásánál a Nemzeti Adó- és Vámhivatal az adózás rendjéről szóló törvény szerint jár el. A beváltás iránti kérelmet elutasítja, ha a hitelintézet eljárása a kölcsönnyújtásnál nem felelt meg e rendeletben meghatározott feltételeknek.
+
+(5)[^15] A beváltott kezesség – figyelemmel a Magyar Köztársaság 2005. évi költségvetéséről szóló 2004. évi CXXXV. törvény 44. §-ának (4) bekezdésére – a hitelfelvevő állammal szembeni kötelezettségévé válik.
+
+(6)[^16] Az érvényesített kezességekről a Nemzeti Adó- és Vámhivatal a Magyar Államkincstárt félévente tájékoztatja.
+
+## Záró rendelkezések
+
+### 8. §
+
+(1) E rendelet – a (2) bekezdésben foglaltak kivételével – 2005. február 1-jén lép hatályba.
+
+(2) E rendelet 6. §-a 2006. január 1-jén lép hatályba, rendelkezéseit a hatálybalépést követően benyújtott hitelkérelmekre kell alkalmazni.
+
+## Melléklet a 4/2005. (I. 12.) Korm. rendelethez[^17]
+
+**Igénylőlap az állami kezesség beváltásához**
+
+...................................................
+
+hitelintézet megnevezése
+
+*I.* *Az adós(ok) adatai*
+
+1\. Családi és utóneve, születési családi és utóneve:
+
+2.
+
+3\. Anyja születési családi és utóneve:
+
+4\. Lakhelye/székhelye:
+
+5\. Adóazonosító jele:
+
+6\. Bankszámlaszáma:
+
+*Az állami kezességvállalás mellett nyújtott kölcsön adatai a megkötött szerződés alapján*
+
+**II. A kölcsön**
+
+1\. A kezesség jogszabályi alapja:
+
+2\. A szerződés száma:
+
+3\. A szerződés kelte:
+
+4\. A garantált hitelrész összege:
+
+5\. A kezességvállalási díj összege:
+
+6\. A kezességvállalási díj megfizetésének módja (hitelintézet meghitelezte vagy a hitelfelvevő egy összegben megfizette):
+
+7\. A kölcsön teljes összege:
+
+8\. A hitelcél szerinti ingatlan vételára:
+
+9\. Új lakás építése vagy vásárlása esetén a telekárral együtt számított, általános forgalmi adót tartalmazó építési költség vagy vételár:
+
+10\. A hitelcél szerinti lakásingatlan hitelbiztosítéki értéke:
+
+11\. A hitelcél szerinti lakásingatlan címe, helyrajzi száma:
+
+12\. A kölcsön lejárata:
+
+13\. A kölcsön lejártakor/felmondásakor vissza nem fizetett garantált hitelrész, kezességvállalási díj és az ezekre felszámított kamat és kezelési költség összege az egyes elemeket külön feltüntetve:
+
+14\. Az igénylőlap benyújtásakor fennálló vissza nem fizetett garantált hitelrész, kezességvállalási díj és az ezekre felszámított kamat és kezelési költség összege az egyes elemeket külön feltüntetve:
+
+15\. A kölcsön lejártakor/felmondáskor érvényes, a kölcsönszerződésben foglalt kamat napi összege:
+
+**III. Az állami kezességbeváltás adatai**
+
+1\. Az állami kezességbeváltás jogosultja:
+
+2\. A kezességbeváltás jogosultjának pénzforgalmi bankszámla száma:
+
+3\. Az átutalandó kezesség összege (a tőke, a kölcsön lejártakor/felmondáskor érvényes kamat és kezelési költség, továbbá azok együttes összege, a napi kamat mértéke és kezdő időpontja):
+
+4\. A kezességbeváltás indoka:
+
+**IV. Mellékletek**
+
+1\. Kölcsönszerződés és annak mellékletét képező dokumentumok másolata
+
+2\. Kölcsönszerződés-módosítások és annak mellékletét képező dokumentumok másolata
+
+3\. A biztosítékokról szóló szerződések és mellékletek másolata
+
+4\. A biztosítékok módosításának indokai
+
+5\. A biztosítékokból történt megtérülés tényét és összegét igazoló dokumentum, megtérülés hiányában a bank nemleges nyilatkozata
+
+6\. Óvadéki szerződés esetén az óvadéki szerződés, annak hiányában a hitelintézet nemleges nyilatkozata
+
+7\. A kölcsönszerződés felmondását igazoló irat és/vagy a kölcsönszerződésben meghatározott utolsó törlesztőrészlet, illetőleg egyösszegű fizetési kötelezettség teljesítésére nyitva álló fizetési határidő eredménytelen leteltét igazoló irat, valamint az azok kézbesítését igazoló irat
+
+8\. A szerződés egyoldalú felmondására okot adó magatartás vagy körülmény megszüntetésére történő felszólítás
+
+9\. A kötelezett tartozását részletesen bemutató kimutatás
+
+10\. A hitelképesség- és fedezetvizsgálat dokumentumai
+
+11\. Az 1. § (2)–(8) bekezdésében meghatározott feltételeket igazoló okiratok, dokumentumok másolata
+
+Kelt: ................................................, ..... év ..... hó ..... nap
+
+P. H.
+
+................................................
+
+igénylő
+
+---
+
+[^1]: Az 1. § (2) bekezdésének a) pontja a 235/2005. (X. 25.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. §-a alapján a rendelkezést a 2005. november 2. napját követően benyújtott hitelkérelmek esetében kell alkalmazni.
+[^2]: Az 1. § (2) bekezdés d) pontja a 486/2015. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 396. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: A 2. § (1) bekezdésének a) pontja a 125/2009. (VI. 15.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^5]: A 2. § (1) bekezdés b) pontja a 345/2013. (IX. 30.) Korm. rendelet 40. §-a szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdésének d) pontját a 125/2009. (VI. 15.) Korm. rendelet 11. §-ának b) pontja hatályon kívül helyezte. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^7]: A 2. § (1) bekezdésének e) pontját a 125/2009. (VI. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^8]: A 3. § (1) bekezdése a 125/2009. (VI. 15.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^9]: A 4. §-t a 125/2009. (VI. 15.) Korm. rendelet 11. §-ának c) pontja hatályon kívül helyezte. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^10]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 396. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (63) bekezdése szerint módosított szöveg. Ez utóbbi módosító törvény 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^11]: A 6. §-t a 22/2006. (II. 3.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte. Újonnan e módosító rendelet 1. §-a iktatta be, a 19. § (2) bekezdése alapján 2007. január 1. napján lépett hatályba azzal, hogy rendelkezéseit az ezt követően benyújtott hitelkérelmek esetében kell alkalmazni.
+[^12]: A 6. § (4) bekezdését a 125/2009. (VI. 15.) Korm. rendelet 11. §-ának d) pontja hatályon kívül helyezte. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2009. július 1. napját követően benyújtott hitelkérelmekre kell alkalmazni.
+[^13]: A 7. § (2) bekezdése a 125/2009. (VI. 15.) Korm. rendelet 9. §-a, a 486/2015. (XII. 29.) Korm. rendelet 12. § b) pontja, a 481/2016. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^14]: A 7. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 12. § a) pontja, a 475/2017. (XII. 28.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^15]: A 7. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 397. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^16]: A 7. § (6) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^17]: A melléklet a 125/2009. (VI. 15.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 396–397. §-a, a 212/2009. (IX. 29.) Korm. rendelet 10. § (8) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult és megismételt eljárásokban kell alkalmazni.

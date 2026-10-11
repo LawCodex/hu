@@ -1,0 +1,152 @@
+---
+title: "316/2007. (XI. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Egyezmény   kihirdetéséről"
+identifier: "316/2007. (XI. 23.) Korm. rendelet"
+njt_id: "2007-316-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/316"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-11-23
+in_force_from: 2007-11-24
+last_amended: 2007-11-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-316-20-22"
+retrieved: 2026-10-12
+---
+
+# 316/2007. (XI. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a két ország közös államhatárán, Ráróspuszta és Rároš települések közötti közúti Ipoly-híd és a kapcsolódó létesítmények megépítéséről
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban: Szerződő Felek) összhangban a jószomszédi kapcsolatokról és a baráti együttműködésről szóló, Párizsban, 1995. március 19-én aláírt Szerződéssel és tekintettel az infrastruktúra-kapcsolatoknak a két ország közötti gazdasági együttműködés fejlődésére gyakorolt hatására,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+(1) A Ráróspuszta és Rároš települések közötti, az V. 35. számú és az V. 36. határjelek térségében a közúti kapcsolat helyreállítása érdekében a Szerződő Felek megállapodnak egy, az Ipoly 161+900 fkm szelvényében elhelyezkedő 75,4 m hosszúságú közös Ipoly-híd (a továbbiakban: a híd) megépítéséről. A híd megépítésének költségeit közösen, egyenlő arányban viselik.
+
+(2) A híd a pozsonyi Szlovák Műszaki Egyetem Építőmérnöki Kara Fém- és Faszerkezetek Tanszéke és a Reformút Kft. által elkészített terv alapvető műszaki paraméterei alapján épül meg. Mindkét Szerződő Fél birtokában van az általános terv egy-egy rajzi példánya, amely jelen Egyezmény elválaszthatatlan részét képezi.
+
+(3) A Szerződő Felek saját oldalukon biztosítják a hídhoz vezető bekötőút előkészítését és megépítését, amely összeköti a hidat saját államának úthálózatával, a hídnak a (2) bekezdésben foglalt előzetesen megállapodott szélességi méreteinek, illetve a jelen Egyezmény 2. Cikkében vázolt forgalom jellegének megfelelően.
+
+*2. Cikk*
+
+A közúti kapcsolat a nemzetközi közúti személyforgalom (gyalogos, kerékpár, motorkerékpár, személygépkocsi és autóbusz) céljára létesül, valamint a maximum 12 t össztömegű tehergépjárművek forgalmát szolgálja.
+
+*3. Cikk*
+
+A Szerződő Felek erőfeszítéseket tesznek a híd és a hídhoz vezető bekötőutak megépítéséhez szükséges pénzügyi támogatásnak az Európai Uniótól történő megszerzése érdekében.
+
+*4. Cikk*
+
+(1) A Szerződő Felek biztosítják a híd és a hídhoz vezető bekötőutak beruházásainak előkészületeit és kötelezik magukat, hogy az engedélyezési és jóváhagyási eljárások a Szerződő Felek államainak vonatkozó belső jogszabályaival összhangban valósulnak meg.
+
+(2) A Szerződő Felek kötelezik magukat, hogy mindegyikük külön-külön beszerzi a híd és a hídhoz vezető bekötőutak megépítéséhez szükséges érvényes építési és egyéb engedélyeket államuk illetékes hatóságaitól a Szerződő Fél államának jogszabályai alapján.
+
+(3) A híd megépítésére vonatkozó közbeszerzési eljárás kiírásának feltétele a (2) bekezdésben említett valamennyi engedély megléte.
+
+(4) A híd megépítésére vonatkozó közbeszerzési eljárást a Szerződő Felek nevében a szlovák fél írja ki, a szlovák félnek a közbeszerzésre vonatkozó előírásai szerint.
+
+(5) A kivitelezési munkálatok a mindkét Szerződő Fél államában hatályos jogszabályokkal és műszaki előírásokkal összhangban valósulnak meg. A műszaki előírások közötti eltérések esetén minden esetben a szigorúbb szabályozás az irányadó.
+
+(6) Az államhatár vonalát vagy a határjeleket érintő valamennyi munka kivitelezéséhez az Államhatár Felmérésének és Megjelölésének Magyar–Szlovák Közös Bizottsága előzetes jóváhagyása szükséges.
+
+(7) Tekintettel arra, hogy a híd felépítése az Ipoly határfolyó nagyvízi medrét érinti, megvalósításához a Magyar–Szlovák Határvízi Bizottság előzetes jóváhagyása szükséges.
+
+*5. Cikk*
+
+A híd megnyitásának időpontját a Szerződő Felek diplomáciai úton egyeztetik.
+
+*6. Cikk*
+
+(1) A híd üzemeltetéséről, karbantartásáról, időszakos vizsgálatáról és rekonstrukciós munkáinak rendjéről, valamint a munkák elvégzésének menetéről a Szerződő Felek külön megállapodást kötnek.
+
+(2) Az (1) bekezdésben meghatározott feladatok végrehajtásának költsége a Szerződő Feleket közösen, egyenlő arányban terheli.
+
+*7. Cikk*
+
+A híd a Szerződő Felek államainak osztatlan közös tulajdonába kerül.
+
+*8. Cikk*
+
+(1) Amennyiben az egyik Szerződő Fél alapos indok nélkül eláll attól, hogy megépítse a hidat vagy a saját oldalán a hídhoz vezető bekötőutat, köteles megtéríteni a másik Szerződő Fél minden olyan kárát és költségét, amely bizonyítottan a híd és a saját oldalán a hídhoz vezető bekötőút építésével összefüggésben felmerült.
+
+(2) A hídban vis maior miatt keletkezett kárt a Szerződő Felek közösen, egyenlő arányban viselik.
+
+*9. Cikk*
+
+(1) A híd építésének előkészítésével, tervezésével és kivitelezésével megbízott személyek a beruházás időszakában szabadon mozoghatnak az államhatár közelében az építési övezetben. Amennyiben a beruházó szervezetek a híd építése során harmadik államból származó személyeket alkalmaznak, munkaviszonyuknak meg kell felelnie az adott ország területén érvényes, a külföldiek munkavállalásáról és tartózkodásáról szóló belső jogszabályoknak.
+
+(2) Az (1) bekezdésben meghatározott személyek a Szerződő Felek által felhatalmazott ellenőrző szervek felszólítására érvényes, személyazonosító igazolvánnyal kötelesek igazolni magukat.
+
+(3) Az (1) bekezdésben meghatározott személyek névjegyzékét a Szerződő Felek által megbízott beruházó szervezetek a munkák megkezdését megelőzően legalább 15 nappal megküldik mindkét Szerződő Fél illetékes határőrizeti szerveinek.
+
+*10. Cikk*
+
+A Magyar Köztársaság Kormánya jelen Egyezmény végrehajtásával a Magyar Köztársaság Gazdasági és Közlekedési Minisztériumát bízza meg, a Szlovák Köztársaság Kormánya jelen Egyezmény végrehajtásával a Szlovák Köztársaság Közlekedési, Postaügyi és Távközlési Minisztériumát bízza meg.
+
+*11. Cikk*
+
+(1) Jelen Egyezmény értelmezésével és végrehajtásával összefüggő viták rendezése a Szerződő Felek jelen Egyezmény 10. Cikkében megjelölt szerveinek a feladata. Megegyezés hiányában a vitás kérdéseket a Szerződő Felek elé kell terjeszteni.
+
+(2) Amennyiben az (1) bekezdésben megjelölt módon a vitát nem sikerül rendezni, azt az egyik Szerződő Fél kérése alapján döntőbíróság elé terjesztik.
+
+(3) Szerződő Felek a döntőbíróságot ad hoc módon hozzák létre úgy, hogy bármelyik Szerződő Féltől eredő igénybejelentést követő két hónapon belül saját állampolgáraik közül egy-egy döntőbírót jelölnek ki. A döntőbíróság elnöke egy harmadik állam polgára lesz, akinek személyéről a két döntőbíró állapodik meg.
+
+(4) A (3) bekezdésben megjelölt döntőbíróság előtti eljárásban a nemzetközi jog szabályai az irányadóak. A döntőbíróság előtti eljárás során az UNCITRAL választottbírósági szabályai az irányadóak.
+
+(5) A döntőbíróság szavazattöbbséggel dönt; döntése mindkét Szerződő Félre nézve kötelező. A Szerződő Felek viselik a saját döntőbírájuk tevékenységével összefüggő költségeket. A döntőbíróság eljárásával összefüggő további költségeket a Szerződő Felek közösen, egyenlő arányban viselik.
+
+(6) Amennyiben az egyik Szerződő Fél azon szándékának, hogy döntőbírósághoz kíván fordulni, bejelentésétől számított hat hónapon belül a döntőbírók nem tudnak megegyezni a döntőbíróság elnökének személyéről, s nem is állapodnak meg másként, az érintett Szerződő Fél a Hágai Állandó Választottbíróság főtitkárához fordul, hogy nevezze ki a döntőbíróság elnökét. Abban az esetben, ha az Állandó Választottbíróság főtitkára az egyik Szerződő Fél állampolgára lenne, az Állandó Választottbíróság opciós szabályai szerint kell eljárni.
+
+*12. Cikk*
+
+(1) Szerződő Felek jelen Egyezményt határozatlan időre kötik.
+
+(2) Jelen Egyezményt a Szerződő Felek belső jogszabályai által előírt módon jóvá kell hagyni. A jóváhagyásról a Szerződő Felek egymást diplomáciai úton értesítik.
+
+(3) Jelen Egyezmény a jóváhagyásáról szóló, későbbi diplomáciai jegyzék kézhezvételétől számított 30. napon lép hatályba.
+
+(4) Jelen Egyezmény módosítására vagy kiegészítésére a Szerződő Felek megállapodását követően kerül sor. A jóváhagyott módosítás a jelen Egyezménnyel megegyező módon lép hatályba.
+
+(5) Jelen Egyezményt bármelyik Szerződő Fél diplomáciai úton írásban felmondhatja. Ebben az esetben az esetleges károk és felmerülő költségek ügyében a jelen Egyezmény 8. Cikke az irányadó. Felmondás esetén a jelen Egyezmény a felmondásról szóló értesítésnek a másik Szerződő Fél által történt átvétele napjától számított hat hónap után hatályát veszti.
+
+Készült Párkányban, a 2007. év november hó 16. napján, két eredeti példányban, magyar és szlovák nyelven, és mindkét nyelvű változat egyformán hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Szlovák Köztársaság\
+Kormánya nevében”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a az Egyezmény 12. Cikkében meghatározott időpontban lép hatályba.
+
+(3) Az Egyezmény, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján az Egyezmény 12. Cikkében meghatározott időpontban lép hatályba. A 4/2008. (I. 11.) KüM határozat alapján a hatálybalépés időpontja 2008. január 10.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján az Egyezmény 12. Cikkében meghatározott időpontban lép hatályba. A 4/2008. (I. 11.) KüM határozat alapján a hatálybalépés időpontja 2008. január 10.
+[^3]: Lásd a 4/2008. (I. 11.) KüM határozatot.

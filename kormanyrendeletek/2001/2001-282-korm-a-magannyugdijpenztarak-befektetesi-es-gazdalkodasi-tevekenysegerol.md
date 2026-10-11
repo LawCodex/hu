@@ -1,0 +1,1156 @@
+---
+title: "282/2001. (XII. 26.) Korm. rendelet a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről"
+identifier: "282/2001. (XII. 26.) Korm. rendelet"
+njt_id: "2001-282-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/282"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-26
+in_force_from: 2010-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-282-20-22"
+retrieved: 2026-10-12
+---
+
+# 282/2001. (XII. 26.) Korm. rendelet a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről
+
+A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény (a továbbiakban: Mpt.) 134. § *a)*, *b)*, *f)*, *h)*, *k)*, *l)* és *m)* pontjaiban foglalt felhatalmazás alapján, figyelemmel az 55. § (2), a 68. § (2), a 69. § (6), valamint a 70. § (5) bekezdéseire, a Kormány a magánnyugdíjpénztárak befektetési és gazdálkodási tevékenységéről a következőket rendeli el:
+
+## I. RÉSZ — A RENDELET HATÁLYA
+
+#### 1. §
+
+A rendelet hatálya az Mpt. 2. §-a (1) bekezdésének *a)* pontjában meghatározott magánnyugdíjpénztárakra (a továbbiakban: pénztár), valamint a 2. § (1) bekezdésének *b)* pontjában meghatározott szervekre és szervezetekre terjed ki.
+
+## II. RÉSZ — BEFEKTETÉSI ÉS LIKVIDITÁSI SZABÁLYOK
+
+### Általános rendelkezések
+
+#### 2. §
+
+(1) A pénztár eszközeit – a (3) bekezdésben meghatározott kivételekkel – kizárólag az e rendeletben meghatározott befektetési formákba és befektetési eszközökbe fektetheti be, illetve eszközeit ilyen befektetési formákban tarthatja.
+
+(2) A pénztár csak saját eszközeit fektetheti be.
+
+(3) E rendelet befektetési szabályai nem vonatkoznak:
+
+a) a pénztár működtetésére és szolgáltatásainak nyújtására használt tárgyi eszközökre, valamint az ilyen tárgyi eszközök létrehozását, beszerzését szolgáló beruházásokra,
+
+b)[^1] a pénztár vagyonának befektetését, kezelését, ingatlanfejlesztését, ingatlanüzemeltetését, ingatlankezelését végző vagy adminisztrációs és nyilvántartási, járadékszolgáltatási, behajtási feladatait ellátó szervezetben lévő tulajdoni részesedésre.
+
+(4)[^2] A (3) bekezdés *b)* pontjában felsorolt tulajdonosi részesedések összessége nem haladhatja meg a pénztár negyedéves jelentésében a tárgyidőszakot megelőző negyedévben piaci értéken kimutatott eszközei értékének 3%-át, és legfeljebb 500 millió forint lehet. Ezen tulajdonosi részesedések összességének folyamatosan meg kell felelnie ezen határértéknek.
+
+#### 3. §
+
+(1) A pénztár befektetett eszközeit az *1. számú mellékletben* meghatározott eszközökben tarthatja, illetve ezen mellékletben meghatározott eszközcsoportok szerint kell nyilvántartania.
+
+(2)[^3] A pénztár befektetett eszközeire vonatkozó befektetési és likviditási keretszabályokat a *2., illetve a 2/A. számú melléklet* tartalmazza.
+
+#### 4. §
+
+(1) A vagyonkezelési tevékenység eredményességének mérése érdekében a pénztár eszközeit a *3. számú mellékletben* szabályozott előírásoknak megfelelően kell értékelni. Az értékelés eredményét ismertető tájékoztatót az éves beszámoló kiegészítő mellékletének részeként kell a közgyűlés elé terjeszteni.
+
+(2)[^4]
+
+#### 5. §
+
+(1)[^5] A pénztár befektetett eszközeit (portfolióját) úgy kell csoportosítani, hogy a fedezeti tartalék, választható portfoliós rendszer esetén az egyes választható portfoliók eszközei befektetésének eredménye elkülönítetten megállapítható legyen. A fedezeti tartalékon belül meg kell különböztetni az egyéni számlák és a szolgáltatási tartalékok befektetési eredményességét.
+
+(2)[^6] A pénztári befektetések e rendeletben meghatározott szabályozási mértékeit a befektetett eszközök piaci értéke alapján kell megállapítani.
+
+(3)[^7] A pénztár a hozamráta-számításhoz a pénzforgalmi számláján és a befektetési számláján történő pénzmozgásokról olyan nyilvántartást köteles vezetni, amely alapján a befektetésekkel kapcsolatos pénzáramlások napi szinten, legalább az (1) bekezdésnek megfelelő részletezettséggel elkülöníthetők az egyéb be- és kifizetésektől. Ezen nyilvántartás vezetése az elszámolóegységen alapuló nyilvántartási rendszer esetében nem kötelező.
+
+#### 6. §[^8]
+
+(1)[^9] A befektetett pénztári eszközök állománya a támogató adománya, az induló vagyon összetétele, vagy követelés fejében átvett eszköz miatt térhet el az előírt arányoktól és formáktól. Az eltérésről a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankot (a továbbiakban: Felügyelet) a portfólió jelentés benyújtásával egyidejűleg értesíteni kell.
+
+(2) Amennyiben a pénztár az induló vagyon részeként, a támogató adománya, vagy követelés fejében átvett eszköz miatt az e rendeletben meghatározott eszközcsoportokba nem tartozó, befektetett pénztári eszköznek minősített befektetéssel rendelkezik, azt be nem sorolt befektetett pénztári eszközként kell kimutatni.
+
+(3) A pénztár az (1), illetve a (2) bekezdésben meghatározott állapot létrejöttétől számított egy éven belül köteles:
+
+a) az előírt befektetési arányoktól való eltérést megszüntetni,
+
+b) a be nem sorolt befektetett pénztári eszközöket az eszközcsoportok között felsorolt befektetési formák valamelyikébe átalakítani.
+
+## III. RÉSZ — A PÉNZTÁRI BEFEKTETÉSEK BIZTONSÁGI SZABÁLYAI
+
+#### 7. §[^10]
+
+#### 8–9. §[^11]
+
+### A pénztárak befektetési politikája, vagyonkezelése és letétkezelése
+
+#### 10. §
+
+(1) A pénztár befektetési politikáját az igazgatótanács alakítja ki. A befektetési politika kötelező tartalmi elemei:
+
+a)[^12] a pénztári vagyon befektetésének célja, alapelvei, a befektetési politikában érvényre juttatandó pénztártagi és pénztári érdekek, ingatlanbefektetéssel rendelkező pénztár esetén az ingatlanokkal kapcsolatos pénztári stratégia, szándékok és célok meghatározása,
+
+b)[^13] a pénztár kockázatvállaló képessége, valamint a pénztár meglévő, illetve várható kötelezettségei alakulása alapján – választható portfoliós rendszer esetében portfoliónként – meghatározott befektetési stratégiai eszközallokáció (minimum és maximum arányok) és a megcélzott hozamok mutatói (referenciaindexek),
+
+c) a befektetési politika meghatározásának, teljesülése értékelésének és módosításának feltételei (ideértve az ehhez kapcsolódó jogosultságokat és felelősséget),
+
+d) a befektetési tevékenység végrehajtásában a pénztár tisztségviselői, alkalmazottai és szolgáltatói – beleértve a vagyonkezelő(ke)t és a letétkezelőt – közötti feladatmegosztás alapelveinek meghatározása, az ezzel kapcsolatos folyamatos ellenőrzés, valamint a szükségessé váló beavatkozás általános érvényű módja és feltételei,
+
+e) a pénztár befektetéssel foglalkozó alkalmazottai, a letétkezelő, a vagyonkezelő(k) kiválasztásának, tevékenysége értékelésének, díjazásának az *a)* pontban foglaltakhoz igazodó irányelvei.
+
+(2) A pénztár befektetési politikája az eszközcsoportokból portfolió osztályokat alkothat és ezekre korlátozásokat is felállíthat.
+
+(3) A pénztár igazgatótanácsa a vagyonkezelési tevékenység kihelyezésére vonatkozó döntés, a pénztári vagyonkezelő kiválasztása és tevékenységének ellenőrzése során a pénztártagok érdekében köteles eljárni.
+
+(4) A pénztár igazgatótanácsa köteles a pénztári vagyonkezelő tevékenységét rendszeresen ellenőrizni, és ennek során attól – a pénztár beszámolási kötelezettségeihez igazodóan – írásbeli jelentést, beszámolót, kimutatást kérni.
+
+(5) A befektetési politikát megvalósító személyek/megbízottak részére a befektetési politika rájuk vonatkozó részét vagyonkezelési irányelvekbe kell foglalni. A vagyonkezelési irányelvek kötelező tartalmi eleme a kezelt portfolió vonatkozásában megengedett befektetési eszközök portfolión belüli minimum és maximum arányai és a kezelt portfolióra vonatkozó referenciaindexek meghatározása.
+
+(6)[^14] A vagyonkezelési irányelvek esetében referenciaindex alatt értendő a kezelt portfolió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfolió adott időszak alatti, az adott portfolióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referenciaindexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referenciaindexével. Abszolút hozamra törekvő portfoliók esetében referenciaindexként a megcélzott hozamszintet tükröző mutató is alkalmazható, ekkor azonban az abszolút hozamra törekvő stratégiát, illetve a mutatót előzetesen a befektetési politikában rögzíteni kell. Az abszolút hozamra törekvő stratégia célja, hogy a piaci tendenciáktól függetlenül folyamatosan pozitív hozamot biztosítson a pénztárnak.
+
+(7)[^15] A befektetési politikát a pénztár a tevékenységi engedély véglegessé válását követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
+
+(8) Az igazgatótanács legalább évente köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatótanács legkésőbb a pénztár közgyűlésének soron következő ülésén ad tájékoztatást.
+
+(9) A pénztár az éves beszámoló kiegészítő mellékletében köteles beszámolni a tárgyévre vonatkozó befektetési politikáról, annak teljesítéséről, illetve a befektetési politikával kapcsolatos jövőbeni elképzeléseiről.
+
+(10) A pénztár aktuális befektetési politikájának tartalmi kivonatát
+
+a) a pénztárba belépni kívánó magánszeméllyel meg kell ismertetni,
+
+b) a pénztártaggal kérésére, a pénztár SzMSz-ében szabályozott módon ismertetni kell.
+
+#### 11. §
+
+(1) A pénztár vagyonkezelési tevékenységét részben vagy egészben kihelyezheti. Nem bízható meg pénztári vagyonkezeléssel az a gazdasági társaság,
+
+a)[^16] amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdés *y)* pontja szerinti közeli hozzátartozója a pénztár alkalmazottja vagy vezető tisztségviselője, vagy ezek Mpt. 4. § (2) bekezdés *y)* pontja szerinti közeli hozzátartozója,
+
+b) amely ellen csőd- vagy felszámolási eljárás van folyamatban, illetve amellyel szemben az üzletmenet-kihelyezést megelőző 2 évben csődeljárást folytattak le.
+
+(2) Az (1) bekezdés *a)* pontjában a vezető tisztségviselőkre vonatkozó korlátozást nem kell alkalmazni a pénztár tulajdonlása mellett működő szolgáltató esetében.
+
+(3) Amennyiben a pénztári vagyonkezelő a jogszabályi feltételeknek nem felel meg, a pénztár köteles az üzletmenet-kihelyezésre vonatkozó szerződést azonnali hatállyal felmondani, és a Felügyeletet a felmondástól számított 15 napon belül értesíteni.
+
+(4) Az Mpt. 77. §-a szerinti, a vagyonkezelő és letétkezelő közötti összeférhetetlenség esetén a pénztár köteles vagy a letétkezelői szerződést, vagy a vagyonkezelői szerződést haladéktalanul felmondani, és a Felügyeletet a felmondástól számított 15 napon belül értesíteni.
+
+(5)[^17] A befektetések vagyonarányos költségei között számolhatók el a pénztári eszközök befektetését – részben vagy egészben – saját maga kezelő pénztárnál az e tevékenységet kizárólagosan végző, munkaviszony keretében foglalkoztatott személyek alkalmazásából fakadó személyi jellegű költségek és azok közterhei, a teljes pénztári vagyon és a saját kezelésű vagyon arányában. Erről a pénztárnak a hozamfelosztási szabályzatában kell rendelkeznie. Amennyiben a pénztár saját kezelésű vagyonrésze az 5 milliárd forintot meghaladja, akkor a fenti költségek teljes egészében elszámolhatóak a befektetések vagyonarányos költségei között.
+
+(6)[^18] A befektetések vagyonarányos költségei között számolhatók el a pénztár ingatlanbefektetéseivel kapcsolatban felmerülő ingatlanértékeléssel és műszaki ellenőri tevékenységgel kapcsolatos költségek és ráfordítások. A pénztár nem számolhatja el a befektetések vagyonarányos költségei között a meg nem valósult ingatlanbefektetés előkészítésével kapcsolatos költségeket és ráfordításokat.
+
+(7)[^19] Nem minősül saját vagyonkezelési tevékenységnek, amennyiben a pénztár vagyonkezelésbe ki nem helyezett befektetett eszközei kizárólag házipénztárban, pénzforgalmi számlán, befektetési számlán, – likviditási célból, átmeneti jelleggel – vannak elhelyezve.
+
+(8)[^20] A választható portfoliós rendszert működtető pénztár a választható portfolióinak egymás közötti, valamint a választható portfoliói és a függő tételek közötti értékpapír átvezetés során a portfoliók egymás közötti ügyleteinél az ügylet kötésekor alkalmazott eljárást a választható portfoliós szabályzatban kell rögzítenie. A szabályzatnak tartalmaznia kell az átvezetésre kerülő értékpapírok kiválasztásának elveit, módszereit, a döntésre jogosultak körének meghatározását, az átvezetéssel kapcsolatos tájékoztatási kötelezettséget és az átvezetés elszámolásának folyamatát. Az értékpapír átvezetések során az átvezetési ár meg kell, hogy egyezzék az aznapi, e rendelet 3. számú melléklete alapján megállapított piaci eszközértékkel. Portfoliók közötti átvezetésre csak az indokolt és szükséges mértékben lehet mód, az átvezetés nem irányulhat valamely portfolió tudatos előnyhöz juttatására.
+
+#### 12. §
+
+(1) A pénztár vagyonkezelője (vagyonkezelői) a pénztárral kötött szerződés feltételei szerint, önállóan rendelkezik a kezelésébe átadott pénztári portfolió és a szerződés tartama alatt a szerződés szerint átadásra kerülő pénztári eszközök felett, valamint gondoskodik a kezelésbe vett pénztárvagyon e rendeletben meghatározott elvek és befektetési politika szerinti hasznosításáról és újra befektetéséről. Ezen belül
+
+a) a pénztár által megfogalmazott, a vagyonkezelőre bízott portfolióra vonatkozó vagyonkezelési irányelvek kereteit figyelembe véve meghatározza a kezelésébe adott pénztárvagyon befektetéseinek összetételét és lejáratát,
+
+b) szervezi és irányítja a kezelésébe adott pénztárvagyon befektetési ügyleteit,
+
+c) vezeti a vagyonkezelésbe adott befektetett pénztári eszközök nyilvántartását.
+
+(2) A vagyonkezelési tevékenység kihelyezésére vonatkozó szerződésnek az Mpt. 74. § (1) bekezdésében foglaltak mellett tartalmaznia kell a kezelésbe adott pénztárvagyonra vonatkozó, a 10. § (5) bekezdésében foglaltaknak megfelelő vagyonkezelési irányelveket. A szerződésben rendelkezni kell arról, hogy a vagyonkezelő mely esetekben és milyen mértékben felel azért, ha a kezelésbe átadott pénztári vagyon vonatkozásában a rá vonatkozó vagyonkezelési irányelvek nem teljesülnek.
+
+(3) A pénztári vagyonkezelő a rábízott vagyon eszközeit nyilvántartásaiban elkülönítetten mutatja ki, de az elkülönített számlákon kimutatott pénztári eszközöket mérlegében nem szerepeltetheti.
+
+#### 13. §
+
+(1) A pénztári letétkezelő az alábbi feladatokat együttesen látja el:
+
+a) vagyonkezelőnként befektetési számlát (számlákat) vezet a pénztár javára, ideértve a pénztár saját befektetési tevékenységét is, amely(ek) ha a pénztár pénzforgalmi számláját vezető hitelintézet és a letétkezelő egy szervezet, a pénzforgalmi számla alszámlái is lehetnek,
+
+b)[^21] vagyonkezelőnként értékpapírszámlát (értékpapírszámlákat) és értékpapír letéti számlát (számlákat) vezet a pénztár javára úgy, hogy választható portfoliós rendszer működtetése esetén az értékpapírszámlákon és a letéti számlákon lévő értékpapír-állomány portfoliónkénti részletezésben megállapítható legyen,
+
+c) ellátja a letéti őrzéssel kapcsolatos teendőket,
+
+d) ellátja a pénztár tulajdonában lévő, nyomdai úton előállított értékpapírok letétkezelését,
+
+e) beszedi a pénztár értékpapírszámláján, értékpapír letéti számláján nyilvántartott értékpapírok után járó hozadékot és egyéb járandóságokat,
+
+f) elvégzi a befektetett pénztári eszközök piaci értékének meghatározását,
+
+g) ellenőrzi a pénztári befektetésekre vonatkozó jogszabályi előírások betartását,
+
+h) elszámolja és nyilvántartja az értékpapírügyleteket, amelynek révén összeveti a befektetési számlán történt pénzforgalmi mozgásokat az értékpapír-állomány változásával, és a pénztár rendelkezése alapján végzi a folyószámlára történő utalást,
+
+i) ha a pénztár úgy dönt, a pénztár által adott felhatalmazás alapján eljár a pénztár tulajdonosi jogai gyakorlásának a biztosítása érdekében a letétkezelésben lévő értékpapírok vonatkozásában,
+
+j)[^22] ellenjegyzi az ingatlanokra vonatkozó adásvételi szerződéseket,
+
+k)[^23] ellenjegyzi az ingatlanértékelő megbízásához szükséges szerződést,
+
+l)[^24] elvégzi az elszámolóegységek számának és árfolyamának megállapítását.
+
+(2)[^25] A vagyonkezelő a napi ügyletekről teljeskörűen tájékoztatja a letétkezelőt.
+
+(3)[^26] A pénztár tulajdonában lévő értékpapírok kizárólag a letétkezelőnél helyezhetők el, kivéve az óvadékba helyezett értékpapírok esetét. A fel nem használt óvadékot kizárólag a letétkezelőhöz lehet szállítani, transzferálni. Nem transzferálható értékpapírok esetében a pénztár tulajdonában lévő értékpapírokat olyan módon kell elhelyezni, hogy a letétkezelő az (1) bekezdésben meghatározott feladatainak folyamatosan és maradéktalanul eleget tudjon tenni, ideértve azt az esetet is, amikor a Felügyelet intézkedése következtében szükségessé válik az értékpapír zárolása.
+
+(4)[^27] A letétkezelő felel a jogszabályban foglalt kötelezettségei teljesítésének elmulasztásából adódó károkért. Az e felelősségét kizáró vagy korlátozó szerződési kitétel semmis.
+
+(5)[^28] A letétkezelő tevékenysége végzése során közreműködőt, így különösen alletétkezelőt vehet igénybe, amelynek cselekedeteiért és mulasztásaiért sajátjaként felel. Alletétkezelőként kizárólag a letétkezelőkre vonatkozó jogszabályi előírásoknak megfelelő másik letétkezelő, illetve ennek külföldi megfelelője vehető igénybe.
+
+(6)[^29] A pénztár a pénztári eszközök piaci értékének és az elszámolóegységek árfolyamának a meghatározásához szükséges adatokról (többek között az ingatlanokról, árukról, házipénztár és a bankszámla egyenlegéről, úton lévő pénzeszközökről, bankbetétek és azok kamatáról, vagyonkezelési díjról és annak számításáról, portfoliók közötti átvezetésekről) és az azokban bekövetkezett változásokról a tárgynapot követő első munkanapon teljeskörűen tájékoztatja a letétkezelőt. Ez az előírás nem vonatkozik a (2) bekezdésben meghatározott kötelezettségre.
+
+(7)[^30] Az elszámolóegységek számát két tizedesjegyig kell figyelembe venni. Az elszámolóegységek árfolyamát hat tizedesjegyig kell számítani, illetve nyilvántartani.
+
+#### 13/A. §[^31]
+
+(1) Az elszámolóegységekre épülő nyilvántartási rendszert működtető pénztárnak a vagyonkezelő, a letétkezelő és a pénztár közötti adatszolgáltatás, az egyeztetés, az eltérések kezelése részletes eljárási szabályait háromoldalú szerződésben kell meghatároznia. Ezen dokumentumokban ki kell térni az üzleti titok megtartásának és a felelősségvállalásnak a szabályaira is.
+
+(2) Az elszámolóegységekre épülő nyilvántartási rendszert működtető pénztárnak e rendszer alkalmazásának első évében részletes tájékoztatót kell adnia tagjai részére annak működéséről.
+
+#### 14. §
+
+(1) A pénztár a Pénzkezelési Szabályzatában köteles rögzíteni a pénztár pénzforgalmi számlája, illetve a letétkezelőnél vezetett befektetési számlája (számlái) közötti pénzáramlásokra vonatkozó szabályokat.
+
+(2) A Pénzkezelési Szabályzatban kell rendelkezni az utalások határidejéről, valamint az azok eljárási és nyilvántartási rendjéről. Rendezni kell különösen a szolgáltatás, a tagsági viszony megszűnése, a működéshez és a befektetéshez kapcsolódó költségek, valamint a befektetésekhez kapcsolódó egyéb pénzforgalom szabályait.
+
+(3) A Pénzkezelési Szabályzatban meg kell határozni, hogy a pénztár mely alkalmazottja, tisztségviselője milyen összeghatárokon belül és mely befektetési (al)számla vonatkozásában adhat utasítást a letétkezelőnek.
+
+#### 15. §[^32]
+
+(1)[^33]
+
+(2) A letétkezelő az eszközértékelésen alapuló vagyonértékelést a letétkezelési szerződésben meghatározott módon és tartalommal elérhetővé teszi a pénztárnak.
+
+(3)[^34]
+
+#### 16. §
+
+A letétkezelő a befektetési limitek figyelését és az értékelést a kötésnapi elszámolás alapján végzi.
+
+### Ingatlanbefektetésekre vonatkozó különös rendelkezések
+
+#### 16/A. §[^35]
+
+(1)[^36] A pénztár kizárólag az Európai Gazdasági Térség (a továbbiakban: EGT) területén és Magyarországon fekvő, tehermentes, az ingatlan-nyilvántartásban egy helyrajzi számon (alszámon) nyilvántartott, önállóan forgalomképes ingatlant vásárolhat. A pénztár megvásárolhatja az ingatlant akkor is, amennyiben azt telki szolgalom terheli.
+
+(2) A pénztár az ingatlan megvásárlásakor a döntést megalapozó előzetes tervezetet készít, amely tartalmazza a várható költségeket, a megtérülést, valamint az ingatlan hasznosítására vonatkozó terveket. A tervezetet az ellenőrző bizottság véleményezi. Az igazgatótanács az ingatlan vásárlásáról, értékesítéséről, valamint más jelentős eseményről a soron következő közgyűlést tájékoztatja.
+
+#### 16/B. §[^37]
+
+(1)[^38] Az Mpt. 66. § (5) bekezdése alapján a pénztárnak ingatlanértékelő személyt, vagy szervezetet kell megbíznia, melyeknek feladata a pénztár tulajdonában lévő ingatlanok értékének rendszeres megállapítása. A megbízás legfeljebb ötéves időtartamra szólhat. A megbízott személynek, illetve szervezetnek függetlennek kell lennie a pénztár szervezetétől és nem lehet érdekelt a pénztár befektetéseiben. A pénztárral egyidejűleg csak egy ingatlanértékelő állhat megbízási jogviszonyban. A megbízás érvényességéhez a letétkezelő beleegyezése, továbbá a Felügyelet jóváhagyása szükséges. Amennyiben a pénztári portfólió csak 10 millió forint bekerülési érték alatti, követelés fejében átvett, be nem sorolt eszközként nyilvántartott ingatlan(oka)t tartalmaz, akkor ingatlanértékelő megbízása nem kötelező.
+
+(2)[^39] Az ingatlan értékelésével csak olyan személy bízható meg, aki rendelkezik
+
+a) ingatlan értékbecslésére feljogosító végzettséggel;
+
+b)[^40]
+
+c) legalább 2 év, ingatlanértékelési területen szerzett szakmai gyakorlattal.
+
+(3) Társaság akkor bízható meg, ha legalább egy, a (2) bekezdés szerinti feltételeknek megfelelő személyt munkaviszonyban vagy tagsági viszonyban alkalmaz.
+
+(4)[^41] Nem lehet a pénztár ingatlanértékelője az a személy vagy társaság, aki, vagy amely a pénztár ingatlanfejlesztőjével, ingatlankezelőjével, ingatlanüzemeltetőjével szerződéses kapcsolatban áll.
+
+(5)[^42] A pénztár tulajdonában lévő ingatlanok értékelése
+
+a) piaci összehasonlításon alapuló módszerrel,
+
+b) hozamszámításon alapuló módszerrel, vagy
+
+c) újraelőállítási költségen alapuló módszerrel
+
+történhet azzal, hogy az értékelési módszer választását részletesen indokolni kell és a továbbiakban – a (6) bekezdésben foglaltak kivételével – minden időszakban ugyanezen módszerrel kell az adott ingatlan esetében elvégezni.
+
+(6)[^43] Az (5) bekezdés szerint kiválasztott és alkalmazott értékelési módszert akkor kell megváltoztatni, ha az ingatlanértékelő úgy ítéli meg, hogy ez a továbbiakban már nem alkalmas az ingatlan piaci értékének becslésére, és egy másik módszer alkalmazása a korábbiaknál pontosabb becslést eredményez. Ez esetben az adott ingatlanra alkalmazott értékelési módszer megváltoztatásának indokait az értékelési szakvéleményben részletesen be kell mutatni.
+
+#### 16/C. §[^44]
+
+(1)[^45] Az ingatlanértékelő az ingatlanértékelés során szakvéleményében
+
+a) meghatározza az ingatlan megvásárlásakor a kifizethető legmagasabb összeget;
+
+b) meghatározza az ingatlan eladásakor az elfogadható legalacsonyabb összeget;
+
+c) meghatározza a pénztár tulajdonában álló ingatlanok forgalmi értékét évente legalább egyszer, az éves pénztári beszámoló fordulónapjára vonatkozóan;
+
+d) meghatározza az építés, fejlesztés alatt álló ingatlanok értékét, egyúttal ellenőrzi a kivitelezési, hasznosítási terv teljesítését;
+
+e) meghatározza bérbeadás esetén, az elfogadható legkisebb bérleti díjat;
+
+f) ellenőrizhető módon feltünteti a felhasznált adatokat és azok forrását, valamint jelzi, ha valamely, az ingatlan értékelését befolyásoló körülmény megítéléséhez szükséges információhoz nem fér hozzá;
+
+g) részletesen és ellenőrizhető módon bemutatja az értékelési módszertan lépéseit és az elvégzett számításokat;
+
+h) ismerteti az ingatlanra vonatkozó, ingatlan-nyilvántartásban szereplő leírást (ideértve a még be nem jegyzett, széljegyként feltüntetett beadványok tartalmát), az ingatlan földrajzi és gazdasági környezetét, valamint – adatokkal alátámasztva – az ingatlanpiaci körülményeket;
+
+i) ismerteti az ingatlan műszaki jellemzőit; és
+
+j) mellékletként becsatolja ingatlan-nyilvántartásban szereplő leírás harminc napnál nem régebbi, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 68. §-ának megfelelő hiteles másolatát, mindazon megállapodások, okiratok másolatát, amelyek az ingatlan jogi helyzetének megítéléséhez szükségesek, illetve amelyek az ingatlanértékelés során figyelembevételre kerültek, tekintet nélkül arra, hogy azok az ingatlan-nyilvántartási bejegyzés alapját képezték-e.
+
+(2) Az ingatlan vásárlásakor, valamint értékelésekor az ingatlanértékelő köteles az ingatlan tehermentességét ellenőrizni.
+
+(3) Az ingatlanértékelő az éves beszámoló elfogadását megelőzően beszámol a pénztár közgyűlésének a pénztár tulajdonában álló, valamint év közben vásárolt, illetve eladott ingatlanokról, azok értékéről, hasznosításáról, valamint az ingatlanbefektetéseken elért hozam alakulásáról.
+
+(4)[^46] Az (1) bekezdésben foglaltak szerint elkészített szakvélemények közötti időben készülő ingatlanértékelés alátámasztására az ingatlanértékelő egyszerűsített szakvéleményt készíthet, melyben mindazon jellemzők, adatok, dokumentumok esetében, amelyek a legutóbbi szakvéleményben foglaltakhoz képest változatlanok, egyértelműen és azonosítható módon hivatkozik a legutóbbi ingatlanértékelés megállapításaira és a megállapítások alátámasztására.
+
+(5)[^47] A pénztár ingatlan adásvételére és bérbeadására vonatkozó szabályok:
+
+a) ingatlan megvásárlásakor a vételár nem haladhatja meg az ingatlanértékelő által meghatározott, ingatlanért kifizethető legmagasabb összeget,
+
+b) ingatlan értékesítése esetén az eladási ár nem lehet kevesebb, mint az ingatlanértékelő által megállapított legalacsonyabb összeg, illetve
+
+c) az ingatlan bérbeadásakor a bérleti díj nem lehet kevesebb, mint az ingatlanértékelő által megállapított legkisebb bérleti díj.
+
+#### 16/D. §[^48]
+
+(1) A pénztár a megbízását követő 15 napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét. Az eljárás során a Felügyelet vizsgálja az értékelő személy végzettségének és gyakorlatának meglétét.
+
+(2) A megbízást jóváhagyottnak kell tekinteni, ha a Felügyelet harminc napon belül nem hoz döntést.
+
+#### 16/E. §[^49]
+
+(1) Nem bízható meg ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel az a gazdasági társaság,
+
+a) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének *y)* pontja szerinti közeli hozzátartozója a pénztár alkalmazottja, megbízottja vagy a pénztár vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének *y)* pontja szerinti közeli hozzátartozója;
+
+b) amely ellen csőd- vagy felszámolási eljárás van folyamatban, amellyel szemben az üzletmenet-kihelyezést megelőző 2 évben csődeljárást folytattak le, vagy amely végelszámolási eljárás alatt áll;
+
+c) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének *y)* pontja szerinti közeli hozzátartozója a pénztár ingatlanértékelője, műszaki ellenőre annak alkalmazottja vagy az ingatlanértékelő vezető tisztségviselője vagy ezek Mpt. 4. § (2) bekezdésének *y)* pontja szerinti közeli hozzátartozója.
+
+(2) Amennyiben a pénztári ingatlanfejlesztő, ingatlanüzemeltető, ingatlankezelő a jogszabályi feltételeknek nem felel meg, a pénztár köteles az üzletmenet-kihelyezésre vonatkozó szerződést azonnali hatállyal felmondani, és a Felügyeletet a felmondástól számított 15 napon belül értesíteni.
+
+(3) Amennyiben az ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel megbízott gazdasági társaságban a pénztár önállóan, vagy más önkéntes kölcsönös biztosító pénztárral, vagy magánnyugdíjpénztárral közösen 100%-os tulajdonrésszel rendelkezik, akkor az (1) bekezdés *a)* pontjában foglaltakat nem kell alkalmazni.
+
+#### 16/F. §[^50]
+
+A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
+
+### Devizamegfeleltetési szabályok[^51]
+
+#### 16/G. §[^52]
+
+(1) Azt a pénznemet, amelyben a pénztár a felhalmozási időszakban lévő tagok követeléseinek fedezetéül szolgáló tartalékot tartani köteles, a mindenkori devizaszabályoknak megfelelően a következők szerint kell meghatározni:
+
+a) a devizamegfeleltetési szabályok szempontjából a felhalmozási időszakban lévő tagok egyéni számlaköveteléseit abban a pénznemben fennállónak kell tekinteni, amelyben az egyéni számla követeléseit nyilvántartják;
+
+b) az egyéni számlák fedezetéül szolgáló tartalékot az *a)* pontban meghatározott pénznemben fennálló eszközökbe kell fektetni;
+
+c) a pénztárnak lehetősége van arra, hogy az egyéni számlák fedezetéül szolgáló tartalék
+
+ca) klasszikus portfólió esetében 5%-át meg nem haladó részét,
+
+cb) kiegyensúlyozott portfólió esetében 20%-át meg nem haladó részét,
+
+cc) növekedési portfólió esetében 35%-át meg nem haladó részét
+
+ne a *b)* pont szerinti eszközben tartson;
+
+d) a *c)* pontban meghatározott arány megállapítása során a Tpt. 5. § (1) bekezdésének 58. pontja szerint definiált hosszú pozíciók rövid pozíciókkal [Tpt. 5. § (1) bekezdésének 112. pontja] történő nettósítása nem megengedett;
+
+e) a *c)* pontban meghatározott arány megállapítása során a befektetési jegyek és egyéb kollektív befektetési értékpapírok tekintetében a kollektív befektetési forma tényleges, illetve mögöttes devizapozícióit kell figyelembe venni.
+
+(2) Az (1) bekezdés alkalmazása során figyelembe kell venni, hogy a pénztári befektetés milyen pénznemben fennálló befektetésen alapul.
+
+## IV. RÉSZ — A PÉNZTÁRAK TELJESÍTMÉNYMÉRÉSÉRE VONATKOZÓ SZABÁLYOK
+
+### A teljesítménymérés alapelvei
+
+#### 17. §
+
+(1) A pénztár befektetési teljesítményének a vagyonkezelés hatékonysága szempontjából történő értékelését a pénztárnak negyedévente, valamint egy pénzügyi év vonatkozásában az év egészére is el kell végeznie.
+
+(2) A pénztár a 3. számú mellékletben meghatározott értékelési elvek alapján határozza meg eszközei piaci értékét.
+
+#### 18. §
+
+(1) A portfolió piaci értékét a pénztár vagyonkezelését az értékelés napján részben vagy egészben végző vagyonkezelőnként kell kimutatni.
+
+(2) A vagyonkezelők szerinti kimutatást szervezetenként kell összeállítani, a pénztár saját vagyonkezelésében lévő részt is beleértve.
+
+(3) A vagyonkezelő által kezelt portfolió szempontjából nyitó dátumnak a pénztár részéről történt első vagyonátadás időpontját kell tekinteni.
+
+(4) Ha a pénztár a házipénztár pénzeszközei, a bankszámlák pénzeszközei és a bankbetétek kezelésén kívül minden más vagyonkezeléssel vagyonkezelőt bízott meg, szabad választása szerint értékelheti az egész vagyont – a pénztár és a vagyonkezelő viszonyában – egyben vagy megosztva.
+
+### A pénztári hozamráta meghatározásának elvei
+
+#### 19. §
+
+(1)[^53] A pénztári hozamráta kiszámításának képletét a 4. számú melléklet tartalmazza. A hozamrátát ki kell számolni a pénztár egészére vonatkozóan, bruttó és nettó módon. Választható portfóliós rendszerben a bruttó és nettó hozamrátákat a választható portfóliókra kell külön-külön kiszámítani.
+
+(2)[^54] Amennyiben a pénztár vagyona megosztva kerül vagyonkezelésre, akkor vagyonkezelőnként is – ideértve a pénztár által végzett vagyonkezelést – el kell végezni a vagyonkezelési teljesítményt kifejező hozamráta és a referenciaindex hozamrátájának kiszámítását.
+
+(3) Pénztárak egyesülése esetén a jogutód pénztárnak az egyesülés előtti időszakra vonatkozó hozamszámításaiban és kimutatásaiban a jogelőd pénztáraknak az adott időszakra eső, tőkével súlyozott hozamráta értékeit kell használni. Ezt a szabályt beolvadás esetén csak akkor kell alkalmazni, ha a beolvadó pénztár beolvadás előtti zárómérlegének főösszege a befogadó pénztár mérleg főösszegének 3%-ánál nagyobb.
+
+#### 20. §[^55]
+
+(1) A pénztárnak az alapítás negyedévét követő negyedévtől kezdődően az előírt hozamráta értékeket a negyedév egészére, illetve év végén, év közbeni alapítás esetén az alapítás időpontjától kezdődően az egész évre kell meghatároznia.
+
+(2)[^56] A pénztárnak a tárgyévre vonatkozó nettó pénztári hozamrátáját, referenciahozamát, a pénztári vagyon fordulónapi záró piaci értékét, illetve az elmúlt tíz naptári év – 21. § (3) bekezdésében foglaltak szerint számított – átlagos hozamrátáját és referenciahozamát, valamint az elmúlt tíz évre vonatkozó 21. § (3) bekezdése szerinti vagyonnövekedési mutatóját a tárgyévet követő év február 28-áig a Felügyeletnek be kell jelentenie és azt a Felügyelet március 15-éig a honlapján közzéteszi. A közzététel során a Felügyelet jelzi, hogy a tíz éves átlagos hozamráta a vagyonkezelői teljesítményt, a vagyonnövekedési mutató pedig a pénztártagok egyéni számlájának átlagos hozamát jellemzi. Választható portfóliós rendszer működtetése esetén a választható portfóliókra vonatkozó nettó hozamrátákat (vagyonnövekedési mutatókat), referenciahozamokat, és a portfólió fordulónapi záró piaci értékét kell jelenteni a Felügyelet részére. A Felügyeletnek jelentett referenciahozamoknál fel kell tüntetni, hogy azok pénz- és tőkepiaci indexe(ke)n és/vagy abszolút hozammutatón alapulnak-e. Amennyiben a pénztár alapítási időpontja miatt a fenti időszakra a hozamráta (vagyonnövekedési mutató) nem értelmezhető, akkor a pénztár alapítási éve óta eltelt teljes naptári évek fenti módszerrel számított átlagos hozamát (vagyonnövekedési mutatóját) kell megjelentetni, annak feltüntetésével, hogy az mely időszak adataiból került számításra.
+
+### Nyilvánosságra hozatal
+
+#### 21. §[^57]
+
+(1) A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles az alábbiakat nyilvánosságra hozni, a pénztár teljesítménymérésének főbb mutatói és változásuk címén:
+
+a) a pénztár egészének a tárgyévi és az azt megelőző kilencévi nettó és bruttó hozamrátáját a 4. számú mellékletben leírt módszerrel számítva, összehasonlítható szerkezetben, valamint a referenciaindex ugyanazon időszakra vonatkozó hozamrátáját. Választható portfóliós rendszer esetén a választható portfóliókra vonatkozó bruttó és nettó hozamrátákat, referenciahozamokat kell nyilvánosságra hozni, megjelölve a portfóliókba fektetett eszközök fordulónapi záró piaci értékét is, a referenciaindex hozamrátáját csak a 2002. január 1-jétől kezdődő időszakra kell publikálni;
+
+b) a tárgyévre és a tárgyévet követő évre vonatkozó, a befektetési politikában meghatározott eszközcsoportonkénti – választható portfóliós rendszerben választható portfóliónkénti – megengedett minimális és maximális százalékos megoszlást és a referenciaindexet;
+
+c) a pénztár teljes vagyonának tárgyévi nyitó és záró értékét;
+
+d) a pénztár teljes vagyonának tárgyévi eszközcsoportonkénti százalékos megoszlását az év elején és végén.
+
+(2) A nyilvánosságra hozatal során a pénztár más pénztár teljesítményét nem minősítheti.
+
+(3) A pénztár kereskedelmi kommunikációja [a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § *e)* pontja] csak a tíz naptári év átlagos hozamrátáját és a pénztár ezen rendelet alapján számított tárgyévi hozamrátáját tartalmazhatja. Ha a pénztár kereskedelmi kommunikációja a hozam mértékére hivatkozást tartalmaz, az elmúlt tíz naptári év átlagos hozamrátáját is fel kell tüntetni, a többi hozamrátával azonos méretben. Átlagos hozamrátaként – a nyilvánosságra hozatalt megelőző – tíz teljes naptári évre vonatkozó, hivatalosan közzétett pénztári szintű nettó éves hozamráta mértani átlagát kell meghatározni. A tíz évre vonatkozó átlagos hozamráta feltüntetése mellett azonos méretben kötelezően fel kell tüntetni az éves hozamráták tíz éves – 4/A. számú mellékletben meghatározott módszerrel számított – egy főre jutó vagyonnal súlyozott átlagos hozamrátáját, a vagyonnövekedési mutatót is. A közzététel során jelezni kell, hogy a tíz éves átlagos hozamráta a vagyonkezelői teljesítményt, a vagyonnövekedési mutató pedig a pénztártagok egyéni számlájának átlagos hozamát jellemzi.
+
+(4) Ha az adott pénztár alapítási időpontja miatt a tíz teljes naptári évre vonatkozó átlagos hozamráta (vagyonnövekedési mutató) nem értelmezhető, akkor a pénztár alapítási éve óta eltelt teljes naptári évek (3) bekezdés szerinti módszerrel számított átlagos hozamát (vagyonnövekedési mutatóját) kell megjelentetni, annak feltüntetésével, hogy az mely időszak adataiból került számításra. Ha a pénztár a hozamrátáját, illetve a vagyonnövekedési mutatót más, előre kiválasztott pénztárakkal, csoporttal kívánja összevetni, az összehasonlításnál a kiválasztott pénztárakra, csoportra is be kell mutatni az elmúlt tíz év (3) bekezdés szerint számított átlagos hozamrátáját (vagyonnövekedési mutatóját). Csoporttal való összehasonlítás esetében a nyilvánosságra hozatal során a csoport kiválasztási elvét is definiálni kell. Választható portfóliós rendszer működtetése esetén az egyes portfóliókra vonatkozó, e bekezdésben meghatározott átlagos hozamrátákat (vagyonnövekedési mutatókat) kell közölni, a többi hozamrátával azonos méretben, feltüntetve a pénztári vagyon fordulónapi záró piaci értékének egyes portfóliók közötti megoszlási arányát is. Ha – a választható portfóliós rendszer indulási időpontjából adódóan – a tíz éves hozam számításához a választható portfóliónkénti hozamráta (vagyonnövekedési mutató) nem értelmezhető, akkor az indulás előtti évekre vonatkozóan az átlagos hozam számításához – minden portfólió tekintetében – a pénztári szintű nettó hozamot (vagyonnövekedési mutatót) kell alkalmazni.
+
+(5) Amennyiben a legutolsó nyilvánosságra hozatalt követően az (1) bekezdés *b)* pontjában előírt tartalom tekintetében a befektetési politika megváltozik, a pénztár köteles a döntés meghozatalát követő 30 napon belül ezt a változást az SzMSz-ben meghatározott módon a tagokkal ismertetni, és egyidejűleg a Felügyelet részére megküldeni.
+
+(6) Az egyes, egy évnél rövidebb részidőszakok (havi vagy negyedéves periódusok) hozamrátáit nem lehet sem évesíteni, sem nyilvánosságra hozni.
+
+#### 22. §[^58]
+
+(1)[^59] A pénztár köteles a pénztártag egyéni számlájának tárgyévi alakulásáról, valamint annak tárgyév végi egyenlegéről számlaértesítőt küldeni a pénztártag részére évente legalább egy alkalommal, legkésőbb a tárgyévet követő év június 30-ig. A tárgyévben elszámolóegységre épülő rendszert alkalmazó pénztár esetén a számlaértesítőt a tárgyévet követő év február 28-ig kell megküldeni. 2011. évben a pénztár tagjai részére az egyéni számlaértesítőt 2011. június 30-áig küldi meg. A társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártag részére a 2010. és 2011. évre vonatkozó számlaértesítőt a kifizetést követő 5 munkanapon belül, de legkésőbb 2011. augusztus 31-ig kell megküldeni.
+
+(2) Amennyiben a pénztár nem működtet elszámolóegységen alapuló nyilvántartási rendszert, a pénztártagnak küldött számlaértesítőnek legalább tartalmaznia kell:
+
+a) a pénztár elérhetőségeit,
+
+b) a tag azonosítására szolgáló adatokat,
+
+c) a tag tagsági jogviszonyának kezdetét,
+
+d) a tagdíjjellegű bevételek pénztári tartalékok közötti felosztásának tárgyévi arányszámait, esetleges változásait,
+
+e) a tárgyévi nyitó egyenleget, vagy a más pénztárból áthozott követelést,
+
+f) a tárgyévben beérkezett bevallott tagdíjat és a tagdíj-kiegészítést, befizetőnként éves összesítésben,
+
+g) a tárgyévben beérkezett az egyéni számlán jóváírt tagdíjat és tagdíj-kiegészítést összesen és befizetőnként éves összesítésben,
+
+h) a befektetési tevékenység eredményét (a befektetési tevékenység egyéni számlára jutó nettó hozambevételei),
+
+i) az egyéni számlán jóváírt egyéb bevételeket (pl. átcsoportosítások, pótlékok),
+
+j) a tagi követelés nyilvántartási záró értékét (piaci értékét),
+
+k) az értékelési különbözetet,
+
+l) a tag részére nyugdíjba vonulásakor várhatóan folyósítandó járadék nagyságát, amennyiben a tag magán-nyugdíjpénztári tagsága 15 évnél régebben keletkezett, és a tag 15 éven belül eléri a rá irányadó öregségi nyugdíjkorhatárt,
+
+m) az első pénztári tagsági jogviszony kezdő időpontját,
+
+n)[^60] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
+
+o) a választható befektetési portfóliók közötti váltás címén az egyéni számláról történő levonás összegét,
+
+p) a tag által választott befektetési portfólió(k) megnevezését,
+
+q) a tag tájékoztatása érdekében az egyes portfóliók tárgyévi hozamát, a portfóliók közötti váltás módjával és annak költségeivel kapcsolatos tájékoztatást.
+
+(3) Amennyiben a pénztár elszámolóegységen alapuló nyilvántartási rendszert működtet, a pénztártagnak küldött számlaértesítőnek legalább tartalmaznia kell:
+
+a) a pénztár elérhetőségeit,
+
+b) a tag azonosítására szolgáló adatokat,
+
+c) a tag tagsági jogviszonyának kezdetét,
+
+d) a tagdíjjellegű bevételek pénztári tartalékok közötti felosztásának tárgyévi arányszámait, esetleges változásait,
+
+e) a tárgyévi nyitó egyenleget, vagy a más pénztárból áthozott követelést, elszámolóegységek nyitó darab száma, elszámolóegységek nyitó árfolyama,
+
+f) a tárgyévben beérkezett bevallott tagdíjat és a tagdíj-kiegészítést, befizetőnként éves összesítésben,
+
+g) a tárgyévben beérkezett az egyéni számlán jóváírt tagdíjat és tagdíj-kiegészítést, egyéb bevételeket, levonásokat, és kiadásokat tranzakciónként, forintban és befektetési egységekben és feltüntetve az átváltás árfolyamát is,
+
+h) a befektetési tevékenység eredményét,
+
+i) a tagi követelés nyilvántartási záró értékét (piaci értékét), elszámolóegységek záró darab számát, elszámolóegységek záró árfolyamát,
+
+j) az egyéni számlán felhalmozott tőke összegét,
+
+k) a tag részére nyugdíjba vonulásakor várhatóan folyósítandó járadék nagyságát, amennyiben a tag magán-nyugdíjpénztári tagsága 15 évnél régebben keletkezett, és a tag 15 éven belül eléri a rá irányadó öregségi nyugdíjkorhatárt,
+
+l) az első pénztári tagsági jogviszony kezdő időpontját,
+
+m)[^61] a Felügyelet honlapjának címét azzal a megjegyzéssel, hogy azon a pénztárak működését, működésének eredményeit bemutató, összehasonlítható adatok is találhatók,
+
+n) a tag által választott befektetési portfólió(k) megnevezését,
+
+o) a tag tájékoztatása érdekében az egyes portfóliók tárgyévi hozamát, a portfóliók közötti váltás módjával és annak költségeivel kapcsolatos tájékoztatást.
+
+(3a)[^62] A társadalombiztosítási nyugdíjrendszerbe visszalépő pénztártagok számára küldendő számlaértesítő a (3) bekezdésben foglaltakon túl az alábbiakat tartalmazza:
+
+a) a Nyugdíjreform és Adósságcsökkentő Alap részére az Mpt. 24. § (11) bekezdése alapján átutalt tagi követelés összegét, csökkentve a visszalépő tagi kifizetés összegével,
+
+aa) az egyéni számlán jóváírt tagdíj összegét csökkentve az egyéni számlán jóváírt hozamokkal,
+
+ab) az egyéni számlán jóváírt hozam összegét,
+
+ac) a hozamgarantált tőke összegét, továbbá
+
+b) a visszalépő tagi kifizetés összegét,
+
+ba) a munkavállalói tagdíj-kiegészítés összegét,
+
+bb) munkáltatói tagdíj-kiegészítés összegét,
+
+bc) a hozamgarantált tőke feletti összeget,
+
+bd) a visszalépő tagi kifizetés összegének (munkavállalói, munkáltatói tagdíj-kiegészítés összege, hozamgarantált tőke feletti összeg) kifizetésével kapcsolatban felmerülő költség összegét.
+
+(4) Amennyiben a pénztár egyéni számlára vonatkozó hozamrátát közöl a számlaértesítőben, akkor köteles feltüntetni a számítás módját is, amelynek alapján a tag a számlakivonaton szereplő adatokból azt ellenőrizni tudja.
+
+## V. RÉSZ — EGYÉB GAZDÁLKODÁSI SZABÁLYOK
+
+### Hitel- és kölcsönfelvétel szabályai
+
+#### 23. §
+
+A pénztár a működési és a likviditási tartalék fedezete mellett legfeljebb 12 havi lejáratú hitelintézeti hitelt vagy kölcsönt vehet fel.
+
+#### 24. §
+
+A felvett hitel vagy kölcsön futamidőre tervezett, kamatokkal növelt összege – több hitel-, illetve kölcsönfelvétel esetén összesítve – nem haladhatja meg a pénztár likviditási és működési tartalékának a pénztár éves pénzügyi tervében meghatározott bevételei 30%-át. Amennyiben a hitel vagy kölcsön futamideje két naptári évet érint, az első évre az éves pénzügyi tervben, a második évre a pénztár hosszú távú tervében foglalt bevételek időarányos részét kell figyelembe venni.
+
+### A kölcsönnyújtás és egyéb pénztári tehervállalás szabályai
+
+#### 25. §
+
+(1) Hitel- vagy kölcsöntartozással nem rendelkező pénztár a tulajdonában lévő, a gazdálkodás nyilvántartását, a biztosításmatematikai feladatok ellátását, a befektetési üzletmenetet végző szervezet részére kölcsönt nyújthat, tőle tartozást vállalhat át, és érte bírósági úton érvényesíthető követelésre nem készfizető kezességet vállalhat.
+
+(2)[^63] Az (1) bekezdés szerint vállalt kötelezettségek összességükben nem haladhatják meg a pénztár kötelezettségvállalás időpontjában meglévő likviditási tartalékainak 30%-át.
+
+(3) A kötelezettségvállalást, az azt bizonyító okirat másolatával, annak keletkezését követő 8 napon belül be kell jelenteni a Felügyeletnek.
+
+### Az önkéntes kölcsönös nyugdíjpénztár által működtetett pénztár gazdálkodására vonatkozó külön szabályok
+
+#### 26. §
+
+Az önkéntes kölcsönös nyugdíjpénztár által működtetett pénztár befektetéseit külön kell nyilvántartani, és az egyes pénztártípusokra előírt befektetési és teljesítményértékelési előírásoknak külön-külön is meg kell felelni. A nyilvántartást az előírt befektetési szabályok betartására és ellenőrzésére alkalmas módon kell vezetni.
+
+#### 27. §
+
+Az önkéntes nyugdíjpénztár által üzemeltetett magánnyugdíjpénztár esetében a magánnyugdíjpénztári feladatok ellátásához szükséges vagyont az önkéntes pénztárétól elkülönítetten kell kezelni. A magánnyugdíj-szolgáltatás céljára szolgáló vagyont semmilyen módon nem szabad az önkéntes nyugdíjpénztár gazdálkodásában felhasználni.
+
+### Hozamfelosztási szabályzat
+
+#### 28. §
+
+(1) A pénztárnak hozamfelosztási szabályzatot kell készítenie. A hozamfelosztási szabályzat tartalmazza mindazon szabályokat és eljárásokat, amelyek alapján az időszaki hozamokat a pénztár meghatározza, valamint az egyes tartalékok és számlák között felosztja, illetve jóváírja.
+
+(2) A fedezeti tartalék eszközeinek befektetéséből származó nettó hozambevételeket (hozambevételek és a befektetések költségeinek különbözete) a tagok egyéni számlái és a szolgáltatási tartalékok javára, a hozamjóváíráskor fennálló egyenleg és az időtényező figyelembevételével negyedévente kell jóváírni.
+
+(3) A hozamfelosztási szabályzatnak rendelkeznie kell a be- és kilépő tagok esetében követendő eljárásról is.
+
+(4)[^64] Amennyiben a pénztár elszámolóegységre épülő nyilvántartási rendszert működtet, akkor a (2) bekezdésben lévő előírásokat az egyéni számlák, illetve a függő számlákhoz kapcsolódó portfolió vonatkozásában nem kell alkalmazni.
+
+### A pénztárak közötti átlépésekre, valamint egyes pénztári kifizetésekre vonatkozó speciális szabályok[^65]
+
+#### 29. §
+
+(1)[^66] Az egyik pénztárból a másikba átlépni kívánó pénztártagnak átlépési nyilatkozatot kell benyújtania az érintett pénztárakhoz (a továbbiakban: átadó, illetve átvevő pénztár). Az átlépési nyilatkozatnak alkalmasnak kell lennie az átlépő tag, az átadó és az átvevő pénztár azonosítására. Az átlépési nyilatkozat kötelező mellékletét képezi az Mpt. 24. §-ának (1) bekezdésében meghatározott, a Felügyelet által kiadott, az átlépéssel kapcsolatos ismereteket tartalmazó útmutató. A pénztártag írásbeli felhatalmazása alapján az útmutatót tartalmazó átlépési nyilatkozatot az átvevő pénztár is benyújthatja az átadó pénztárhoz. Az átlépési nyilatkozat nyomtatványt a tag kérésére a pénztár saját költségére haladéktalanul a tag rendelkezésére bocsátja. Az átlépés a választott pénztár belépési nyilatkozatának kitöltésével is történhet, amennyiben a belépési nyilatkozat az átlépéshez szükséges adatokat, az átlépéssel kapcsolatos ismereteket tartalmazó útmutatót és a pénztártag felhatalmazását is tartalmazza. Az átlépési nyilatkozatot és az átlépéssel kapcsolatos ismereteket tartalmazó útmutatót három eredeti példányban kell elkészíteni, és egy példányát – amennyiben az átlépés kezdeményezésére az átadó pénztárnál nem került sor – a pénztártag által történő aláírást követően vissza kell juttatni az átadó pénztárhoz.
+
+(2)[^67] Az átlépési nyilatkozat és annak kötelező mellékletei alapján a pénztárak megvizsgálják az átlépés feltételeinek meglétét. A vizsgálat eredményéről az érintett pénztárak az átlépési kérelem beérkezését követő hónap 8. napjáig értesítést küldenek egymásnak. Amennyiben az átlépés feltételei nem állnak fenn, erről az átadó pénztár értesíti a pénztártagot.
+
+(3)[^68]
+
+(4)[^69] Az Mpt. 23. § (4) bekezdésében előírt, az átlépéshez az átadó pénztárban szükséges hat havi tagsági jogviszonynak a tagsági viszony megszűnésének e § (16) bekezdése szerinti időpontjában kell fennállnia.
+
+(5)[^70]
+
+(6)[^71] Az átlépő tag tagsági viszonya az átvevő pénztárban, az átadó pénztári tagsági jogviszony megszűnését követő napon (a továbbiakban: átlépés napja) kezdődik. Az átlépés napjától kezdődően, az átlépett pénztártagra vonatkozó tagdíjbevallási és befizetési kötelezettséget a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvényben és a végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendeletben foglalt szabályok szerint kell teljesíteni. Az átadó pénztár az átlépés napját megelőzően, de legkésőbb az átlépési kérelem beérkezését követő hónap 8. napjáig a tagdíjfizetés folytonossága érdekében az átlépés feltételeinek meglétét és a tag valamennyi, az átlépéskor nyilvántartott munkáltatója nevét és azonosító adatait közli az átvevő pénztárral.
+
+(7)[^72] Az átvevő pénztár az átlépés feltételeinek meglétéről a tagot, a tagdíjfizetési kötelezettségnek az átlépés napja utáni teljesítéshez szükséges adatokról a tagot és annak valamennyi, az átlépéskor nyilvántartott munkáltatóját, illetve a javára befizetőket legkésőbb az átlépés napját követő 15 napon belül írásban értesíti.
+
+(8)[^73] Az (1) bekezdésben meghatározott útmutatónak tartalmaznia kell különösen az átlépési eljárásról, az átlépés lehetséges előnyeiről, illetve kockázatairól, a hozamgarancia elvesztésének lehetőségéről, valamint az átlépéssel érintett pénztárak összehasonlítható teljesítményadatainak elektronikus elérési helyéről való tájékoztatást. Az átadó pénztár, illetve – amennyiben az átlépést az átvevő pénztárnál kezdeményezi a pénztártag – az átvevő pénztár az útmutatóhoz csatolva köteles az átlépni szándékozó tagot az átlépéssel érintett pénztárak legfőbb hozammutatóiról írásban tájékoztatni. Ennek a tájékoztatónak a tag által választható portfóliókra vonatkozó, a 20. § (2) bekezdésében foglaltak alapján a Felügyeletnek bejelentett legutolsó tárgyévi nettó hozamrátákat, az elmúlt tíz naptári év átlagos nettó hozamrátáit és vagyonnövekedési mutatókat kell tartalmaznia. A tájékoztatóban elkülönítetten kell feltüntetni a tag tényleges, illetve életkori besorolás szerinti portfóliójára vonatkozó mutatókat.
+
+(9)[^74]
+
+(10)[^75] Az átadó pénztárban a taggal való elszámolást a tagsági viszony megszűnésének napjáig terjedő bevallási időszakra vonatkozó tagdíjbevallások, pótbevallások, önellenőrzések és befizetések figyelembevételével, a tagsági viszony megszűnésének napjára vonatkozóan kell elvégezni. A tag egyéni számláját is ezzel a nappal, mint fordulónappal kell lezárni. Az átlépést megelőző bevallási időszakban befizetett és függőszámlán nyilvántartott foglalkoztatói túlfizetés vonatkozásában a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az átlépett tagra teljesített olyan adatszolgáltatást, amely
+
+– az átlépés napját követően érkezik be, és amely vonatkozásában
+
+– a bevallás benyújtásának napja nem későbbi, mint az átlépés napját magában foglaló hónap utolsó napja,
+
+a pénztár a túlfizetés rendezése érdekében feldolgozza. Az átlépett tagra azonosított tagdíj összegét és a függőszámla alapján megállapított hozamot – utólagos adatszolgáltatás mellett – az átvevő pénztár részére át kell utalni. Amennyiben az átlépés napját magában foglaló hónap utolsó napját követően az átlépett tagra – az átlépés napját megelőző bevallási időszakra vonatkozóan – a NAV-tól végrehajtási eljárásból, vagy az adóhatóság által kirótt késedelmi pótlék megfizetéséből átutalás érkezik, ennek összege alapján is átutalást kell teljesíteni az átvevő pénztár részére. Ez esetben a pénztár a NAV-tól érkezett átutalás összegét – az átlépett tag követelésére jutó rész kivételével – a hátralékos bevallásokra a Tbj. 53. § (1)–(2) bekezdéseinek megfelelően számolja el. Az átlépett tagra eső behajtott, vagy megfizetett összeget az átadó pénztár az átvevő pénztár részére átutalja, a munkáltató és a jogosult tagok megjelölésével.
+
+(11)[^76] Az átlépett pénztártagra vonatkozó tagdíjbevallási és befizetési adatokat 2010. január 1-jét megelőzően teljesített tagdíjbevallás (önellenőrzés és helyesbítés) esetén a központi nyilvántartás az átlépési adatszolgáltatás sikeres feldolgozását követően haladéktalanul megküldi az átvevő pénztárnak. A 2009. december 31-ét követően teljesített tagdíjbevallás (önellenőrzés és helyesbítés) esetén
+
+a) az átlépett pénztártagra vonatkozó tagdíjbevallási (önellenőrzési és helyesbítési) adatokat az adóhatóság által a pénztár részére teljesített adatszolgáltatással megegyező tartalommal és szerkezetben, továbbá
+
+b) havi bontásban a tag javára jóváírt befizetéseket
+
+az átadó pénztár, az átlépést követő 30. napig – az ezt követően azonosított adatok esetén az azonosítás hónapját követő 30. napig – küldi meg az átvevő pénztárnak.
+
+(12)[^77] Az átadó pénztár legkésőbb a tag tagsági jogviszonyának megszűnését követő negyedév utolsó napjáig megküldi az átvevő pénztár részére az átlépő pénztártag első pénztártagsági jogviszonya létrejöttét igazoló eredeti belépési nyilatkozatának pénztár által hitelesített másolatát. A 2006. december 31-éig terjedő bevallási időszakra vonatkozóan, az átlépő taggal összefüggésben kezdeményezett adóhatósági eljárásokról szóló alábbi dokumentumokat, amennyiben a tag átlépésére az adóhatósági eljárás alatt, illetőleg annak lezárása előtt kerül sor, az átadó pénztár megküldi az átvevő pénztár részére:
+
+a) a folyamatban lévő adóhatósági eljárás kezdeményezésére vonatkozó dokumentumokat, ideértve a pénztári megkeresésben az adóhatóság részére átadott dokumentumok másolatát is, valamint
+
+b) a hatósági eljárásban az eljárást kezdeményező helyébe lépő új jogosult bejelentéséről szóló értesítőlevél hiteles másolatát.
+
+Az *a)–b)* pontok szerinti dokumentumok megküldéséről az átadó pénztár legkésőbb a tag tagsági jogviszonyának megszűnését követő negyedév végéig gondoskodik. Az elszámolóegységekre épülő nyilvántartási rendszert vezető pénztár az átlépő pénztártag eredeti belépési nyilatkozatának pénztár által hitelesített másolatát, valamint az *a)–b)* pontok szerinti dokumentumokat tagsági jogviszony megszűnését követő második hónap utolsó napjáig küldi meg az átvevő pénztár részére.
+
+(13)[^78] Az átadó pénztár az átlépő tag és az átvevő pénztár részére a tag tagsági jogviszonyának megszűnését követő második hónap utolsó napjáig írásban megadja
+
+a) a tag egyéni számlájának a zárás időpontjában fennálló értékét,
+
+b) a tagnak az átadó pénztári tagsága idején javára befizetett tagdíjak összegét,
+
+c) a tag egyéni számlájára jóváírt tagdíjak, hozamok összegét,
+
+d) a tag által 2010. január 1-je után kezdeményezett átlépések időpontját,
+
+e) a tag által 2010. január 1-je után kezdeményezett portfólióváltások időpontját.
+
+(14) A (4) bekezdésben foglaltakat nem kell alkalmazni, ha a pénztártag átlépésére tagsági jogviszonyának az Mpt. 23. §-a (1) bekezdésének *c)* pontjában meghatározott megszűnése miatt kerül sor.
+
+(15)[^79]
+
+(16)[^80] A pénztártag, illetve a kedvezményezett részére történő egyösszegű kifizetés, valamint más pénztárba való átlépés esetén – amennyiben az átlépésre vonatkozó bejelentés, a jogosultság igazolása a hónap fordulónapját megelőzően 10 munkanappal megtörtént a pénztárnál – a tag tagsági jogviszonya a bejelentés hónapjának fordulónapjával szűnik meg, a tagi követelést legkésőbb a bejelentés hónapját követő 8 munkanapon belül kell kifizetni. Amennyiben az átlépésre irányuló tagi bejelentésben a tag meghatározza az átlépése fordulónapját, akkor a fordulónapot magában foglaló hónap utolsó napjával kerül sor a tagsági jogviszony megszűnésére. A hónap utolsó 10 munkanapján beérkező írásbeli bejelentés alapján a pénztár a tag tagsági jogviszonyát a pénztár szabályzata szerint a bejelentés hónapjának, vagy a következő hónap fordulónapjával szüntetheti meg. A részletszabályokat a hozamfelosztási szabályzatban kell rögzíteni.
+
+(17)[^81] A pénztár a tagsági jogviszonyát megszüntető, szolgáltatást igénybe vevő tagokra, valamint az egyösszegű kifizetést igénybe vevő kedvezményezettre jutó, függő számláról azonosított tagi követelés összegét az első utalást követően a tagsági viszony megszűnése hónapját követő negyedik hónap nyolcadik munkanapjáig utalja át. Az ezt követően azonosított tagi követelést a pénztár a (16) bekezdésben meghatározott határidők figyelembevételével utalja át az érintettek részére.
+
+(18)[^82] A pénztár a tagsági jogviszonyukat megszüntető tagok, illetve portfolióváltás esetén a portfoliót váltó tagok elszámolóegységeinek számáról a fordulónapot követő második munkanapig tájékoztatja a letétkezelőt. A részletszabályokat a háromoldalú szerződésben kell rendezni.
+
+#### 29/A. §[^83]
+
+A pénztártag halála következtében, az Mpt. 28. § (1) bekezdés *a)* pontja alapján teljesítendő egyösszegű kifizetés esetén a tagsági jogviszony megszűnése fordulónapjának azon negyedév – választható portfoliós rendszert és elszámolóegységekre épülő nyilvántartási rendszert működtető pénztárak esetén azon hónap – utolsó napját kell tekinteni, melyben a pénztártag elhunytának, illetve a kifizetésre való jogosultságnak az igazolása megtörtént.
+
+### Működési kiadások és kockázatok fedezetére felhasználható tagdíjrész[^84]
+
+#### 29/B. §[^85]
+
+A pénztár az adóhatóság Magyar Államkincstár által vezetett, magánnyugdíjpénztáranként megnyitott tagdíjbeszedési számláiról átutalt, munkáltatóhoz rendelhető, de bevallási adatokhoz még nem rendelhető pénzösszegnek a szervezeti és működési szabályzatban vagy a pénzügyi tervben meghatározott tagdíjmegosztás arányában a működési kiadások fedezetére a tárgyhónapra elhatárolt részéből az előző hónapban a működésre és likviditási kockázatok fedezetére ténylegesen jóváírt összeget használhatja fel.
+
+### A pénztártag választható portfólióba történő besorolásának és a portfoliók közötti átsorolásának szabályai
+
+#### 29/C. §[^86]
+
+A pénztár a tagok besorolását minden év december 31-ével aktualizálja, a szükséges átsorolásokat – a 35. §-ban foglaltak figyelembevételével – elvégzi. Ennek során a kiegyensúlyozott portfólióból a növekedési portfólióba, valamint a klasszikus portfólióból a kiegyensúlyozott portfólióba történő átsorolásokat a nyugdíjkorhatár változása miatt nem kell végrehajtani.
+
+## V. RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+### Hatálybalépés
+
+#### 30. §
+
+(1)[^87] Ez a rendelet – kivéve a (2), (3), (4), (5) és (6) bekezdésekben foglaltakat – 2002. január 1-jén lép hatályba.
+
+(2)[^88]
+
+(3)[^89] E rendelet alkalmazásában az „elismert értékpapírpiac” kifejezésen szabályozott piacot kell érteni.
+
+(4)[^90]
+
+(5)[^91]
+
+(6)[^92]
+
+(7)[^93] E rendelet 2. számú mellékletének 2. pontja 2002. július 1-jétől a következők szerint változik:
+
+,,2. A befektetési szabályoknak való megfelelés szempontjából az egyes eszközök piaci értékét kell figyelembe venni. Az egyes befektetési eszközök arányának számításakor az egyes befektetési eszközökhöz kapcsolódó származékos ügyletekben megtestesülő – a befektetési alapokra vonatkozó törvényi előírások szerint meghatározott – nettó pozíciót is figyelembe kell venni. Amennyiben és csak kizárólag a piaci árfolyamok mozgása következtében a fenti szabályok 5%-nál kisebb mértékben sérülnek, akkor a vagyonkezelő 90 naptári napon, amennyiben 5%-nál nagyobb mértékben, akkor 45 napon belül köteles az arányokat a meghatározott korlátokon belülre vinni. Amennyiben és csak kizárólag a piaci árfolyamok mozgása következtében a fenti szabályok 10%-nál nagyobb mértékében sérülnek, akkor a vagyonkezelő köteles a rákövetkező lehetséges első kereskedési napon az eltérést legalább 10%-nál kisebb mértékűre csökkenteni. Az előbbi, százalékban kifejezett eltérési határok a befektetett pénztári eszközök abszolút százalékos értékében értendők.''
+
+### Átmeneti rendelkezések
+
+#### 31–32. §[^94]
+
+#### 33. §
+
+Az egyesülő pénztárak hozamainak a 19. § (3) bekezdés szerinti beszámítását csak a rendelet hatálybalépése utáni egyesülések esetében kell elvégezni.
+
+#### 34. §[^95]
+
+#### 35. §[^96]
+
+A 29/C. §-ban foglaltaktól eltérően a 2009. január 1-jén aktuális átsorolásokat a pénztár 2010. január 1-jén köteles elvégezni. A pénztárnak – amennyiben ilyen tartalmú tájékoztatást a 2009. január 1-jét megelőző 180 napon belül nem adott – 2009. június 30-áig írásban fel kell hívni az átsorolásban érintett tagok figyelmét a portfólióváltással összefüggő körülményekre. Az írásbeli tájékoztatásnak tartalmaznia kell az átsorolás esedékességének időszakára való utalást, valamint a portfólióváltással összefüggő lehetőségeket, az egyes választható portfóliók összetételével, kockázataival kapcsolatos információkat.
+
+## 1. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^97]
+
+1\. A pénztári befektetéseket szabályozó törvényi előírások által meghatározott eszközcsoportokba a következő eszközök tartoznak:
+
+a) házipénztár: forint- és valutapénztár;
+
+b) pénzforgalmi számla és befektetési számla;
+
+c) lekötött betét (betétszerződés): hitelintézeti betétszámlán lekötött pénzösszeg;
+
+d) hitelviszonyt megtestesítő értékpapírok (kötvények):
+
+*d1)* magyar állampapír,
+
+*d2)[^98]* értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal,
+
+*d3)* külföldi állampapír,
+
+*d4)* értékpapír, amelyben foglalt kötelezettség teljesítéséért külföldi állam készfizető kezességet vállal,
+
+*d5)* Magyarországon bejegyzett gazdálkodó szervezet által nyilvánosan forgalomba hozott kötvény,
+
+*d6)* külföldön bejegyzett gazdálkodó szervezet által nyilvánosan forgalomba hozott kötvény,
+
+*d7)* Magyarországon bejegyzett hitelintézet által nyilvánosan forgalomba hozott kötvény,
+
+*d8)* külföldön bejegyzett hitelintézet által nyilvánosan forgalomba hozott kötvény,
+
+*d9)* magyarországi helyi önkormányzat által nyilvánosan forgalomba hozott kötvény,
+
+*d10)* külföldi önkormányzat által nyilvánosan forgalomba hozott kötvény;
+
+e) részvények:
+
+*e1)* a Budapesti Értéktőzsdére vagy más elismert értékpapírpiacra bevezetett, Magyarországon nyilvánosan forgalomba hozott részvény,
+
+*e2)* Magyarországon kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az általa adott értékpapír fél éven belüli, bármely tőzsdére vagy elismert értékpapírpiacra történő bevezetésére és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé,
+
+*e3)* tőzsdére vagy más elismert értékpapírpiacra bevezetett, külföldön kibocsátott, nyilvánosan forgalomba hozott részvény,
+
+*e4)* külföldön kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az általa adott értékpapír fél éven belüli, bármely tőzsdére vagy elismert értékpapírpiacra történő bevezetésére és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé;
+
+f) befektetési jegyek, illetve egyéb kollektív befektetési értékpapír:
+
+*f1)* Magyarországon bejegyzett befektetési alap befektetési jegye, ideértve az ingatlanbefektetési alapot is,
+
+*f2)* külföldön bejegyzett befektetési alap befektetési jegye, ideértve az ingatlanbefektetési alapot is,
+
+*f3)* egyéb kollektív befektetési értékpapír;
+
+g) jelzáloglevél:
+
+*g1)* Magyarországon bejegyzett jelzáloghitel-intézet által kibocsátott jelzáloglevél,
+
+*g2)* külföldön bejegyzett jelzáloghitel-intézet által kibocsátott jelzáloglevél;
+
+h) határidős ügyletek;
+
+i) opciós ügyletek;
+
+j) ingatlan;
+
+k) értékpapír-kölcsönzési ügyletből származó követelések;
+
+l) kockázati tőkealapjegy;
+
+m)[^99] repó-(fordított repó-)ügyletek
+
+n)[^100] swapügyletek
+
+o)[^101] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
+
+2.[^102] Nem szabványosított határidős és opciós ügyletek esetében az elszámolási feltételek és a partnerkockázat kialakítása során biztosítani kell, hogy a termék nem szabványosított voltából adódóan a pénztártagokat kár ne érhesse.
+
+3\. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
+
+4.[^103] A pénztár csak állampapír alapú, szállításos vagy óvadéki repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalékból repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
+
+5\. Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
+
+6.[^104] A pénztári portfólió terhére a Tpt.-nek az értékpapír-kölcsönzésre vonatkozó szabályainak betartásával értékpapír-kölcsönzési ügylet köthető, ezen ügyletek összértéke nem haladhatja meg a befektetett pénztári eszközök 30%-át. A pénztári befektetési portfólióban csak értékpapírok kölcsönadása lehetséges, kölcsönvétele nem. Az értékpapír-kölcsönzési ügylet futamideje egy évnél hosszabb nem lehet, az ügylethez kapcsolódóan megfelelő óvadékot kell kikötni. Értékpapír-kölcsönzési ügylet esetében óvadékként csak olyan befektetési eszközök szolgálhatnak, amelyek megszerzését a jogszabályok és a pénztár befektetési politikája lehetővé teszik. A pénztár által kölcsönadott értékpapírok a pénztári portfolióból kikerülnek, ugyanakkor a befektetési korlátozások ellenőrzése során úgy kell őket figyelembe venni, mintha továbbra is a pénztári portfolió részét képeznék.
+
+## 2. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez
+
+**Választható portfoliós rendszert nem üzemeltető pénztárakra vonatkozó befektetési előírások[^105]**
+
+1\. A pénztár az 1. számú melléklet szerinti befektetési formák esetében az alábbi szabályoknak köteles megfelelni:
+
+a)[^106] a pénztár csak olyan eszközöket adhat el, amelyek a tulajdonában vannak, nettó ,,rövid'' pozíciók nem megengedettek;
+
+b)[^107]
+
+c) az 1. számú melléklet *d5)*, *d6)*, *d9)*, *d10)*, *e2)*, *e4*) alpontokban feltüntetett eszközök értékének alpontonként számított együttes aránya nem haladhatja meg a befektetett pénztári eszközök 10-10%-át, és együttes arányuk nem haladhatja meg a befektetetett pénztári eszközök 30%-át;
+
+d) a *g1)*, *g2)* alpontokban meghatározott eszközök együttes aránya nem haladhatja meg a befektetetett pénztári eszközök 25%-át;
+
+e)[^108] A közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a pénztártagot közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez mérten – a vagyonkezelési költségekkel összhangban legyen. Közvetett befektetési instrumentumnak tekinthetőek az e rendelet 1. számú mellékletében meghatározott befektetési jegyek, illetve egyéb kollektív befektetési értékpapírok.
+
+f)[^109] az *f)* pontban feltüntetett eszközökön belül az ingatlanba befektető befektetési alapok, valamint a *j)* pontban feltüntetett eszközök együttes aránya nem haladhatja meg a befektetett pénztári eszközök 10%-át, úgy, hogy a *j)* pontban feltüntetett eszközök legfeljebb a befektetett pénztári eszközök 5%-át tehetik ki;
+
+g)[^110] a pénztár a *h)* és *i)* pontban meghatározott ügyleteket csak fedezeti vagy arbitrázs célból köthet, a spekulációs célú kötés nem megengedett. Fedezeti célú az olyan – a számvitelről szóló 2000. évi C. törvény 3. § (8) bekezdése 10. pontjának megfelelő – ügylet, amelyet a pénztár portfoliójában már meglévő eszközökre, az azok tartásából adódó kockázat csökkentésére kötnek. Fedezeti ügylet esetén szükséges egy fedezendő kockázati kitettség, amelyre irányul a fedezés. Arbitrázs célú az az ügylet, amely esetében az időben vagy térben meglévő árfolyam-, illetve kamatkülönbözet kihasználására kerül sor oly módon, hogy az ügylet eredményeképpen nem keletkezik nyitott pozíció, és az ügylet a portfolió kockázati szintjét nem növeli.
+
+2.[^111] A befektetési szabályoknak való megfelelés szempontjából az egyes eszközök piaci értékét kell figyelembe venni. Az egyes befektetési eszközök arányának számításakor az egyes befektetési eszközökhöz kapcsolódó származékos ügyletekben megtestesülő – a befektetési alapokra vonatkozó jogszabályi előírások szerint meghatározott – nettó pozíciót is figyelembe kell venni. Ha a piaci árfolyamok mozgása vagy értékpapír-kölcsönzési ügylet óvadékának portfolióba kerülése következtében a fenti szabályok sérülnek, akkor a vagyonkezelő 30 naptári napon belül köteles az arányokat a meghatározott korlátokon belülre vinni. Amennyiben a közvetlen ingatlanbefektetésekre vonatkozó befektetési korlátozások kizárólag a piaci árfolyamok mozgása vagy szolgáltatások kifizetése miatt sérülnek, akkor az előírt arányok helyreállítására a pénztárnak 6 hónap áll rendelkezésére.
+
+3\. A pénztár házipénztárában, annak napi zárásakor legfeljebb 500 000 Ft értékű készpénz tartható. Ha a pénztárnak több telephelye van, akkor ennek az előírásnak az egyes telephelyekre külön-külön kell érvényesülnie.
+
+4\. A pénztár a járadékfizetési kötelezettsége teljesítéséhez szükséges mértékben, illetve a szabályzataiban foglaltak szerint köteles pénztári befektetett eszközeit likvid eszközben tartani, különös tekintettel a nem tőzsdei ügyletekre.
+
+5.[^112] Magyarországon bejegyzett származtatott ügyletekbe befektető alap befektetési jegyének, illetve a külföldön bejegyzett és a kibocsátás országában származtatott ügyletekbe befektető alapnak minősülő befektetési alap jegyének – kivéve a származtatott alapnak minősülő garantált alapok jegyeit – együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Magyarországon bejegyzett kockázati tőkealap jegyének, illetve külföldön bejegyzett és a kibocsátás országában kockázati tőkealapnak minősülő alap jegyének együttes aránya nem haladhatja meg a befektetett pénztári eszközök 5%-át. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett pénztári eszközök 2%-át.
+
+6.[^113] A nem OECD, illetve EGT tagországbeli kibocsátó értékpapírjába történő befektetések aránya nem haladhatja meg a külföldi befektetések 20%-át.
+
+7.[^114] Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök (illetve választható portfoliós rendszer esetében az egyes portfoliók értékének) 10 százalékát nem haladhatja meg.
+
+## 2/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^115]
+
+**I. **Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó prudenciális elvárások****
+
+1\. A pénztár befektetési tevékenységének a lehető legmagasabb nyugdíjszolgáltatás elérésére kell irányulnia, figyelembe véve a pénztár által felvállalható kockázati szintet, illetve a pénztár kötelezettségállományának szerkezetét.
+
+2\. A pénztár befektetési tevékenységét a pénztártagok érdekében, kiemelt gondossággal, felelősséggel, képzettséggel kell végezni. Amennyiben a felelősségvállaláshoz és a gondos döntésekhez szükséges szakmai képzettség nem áll rendelkezésére, akkor megfelelő gyakorlattal és képzettséggel rendelkező szakértő(k) igénybevételére van szükség.
+
+3\. A pénztári befektetési tevékenység folytatása során biztosítani kell a portfolió megfelelő diverzifikáltságát, a helyesen alkalmazott kockázatmenedzsmentet, figyelemmel a kötelezettségek lejárati szerkezetéből adódó tényezőkre, a likviditási szükségletek biztosítására. A közvetett befektetési instrumentumok alkalmazása során biztosítani kell, hogy a pénztártagot közvetetten terhelő befektetési költségek mértéke – a közvetlen befektetésekhez kapcsolódó költségekhez mérten – a vagyonkezelési költségekkel összhangban legyen. Közvetett befektetési instrumentumnak tekinthetőek az e rendelet 1. számú mellékletében meghatározott befektetési jegyek, illetve egyéb kollektív befektetési értékpapírok.
+
+4\. A pénztár igazgatótanácsának a befektetési politikájának kialakítása során biztosítani kell, hogy az egyes választható portfoliók különbözzenek egymástól a befektetett eszközök hátralévő befektetési ideje és kockázati szintje vonatkozásában, és az egyes portfoliók megfelelő hozam-kockázat sorrendet alkossanak (Klasszikus, Kiegyensúlyozott, Növekedési portfolió sorrendben).
+
+**II. **Választható portfoliós rendszert üzemeltető pénztárakra vonatkozó általános befektetési előírások****
+
+1\. A befektetési szabályoknak való megfelelés szempontjából az egyes eszközök piaci értékét kell figyelembe venni. Az egyes befektetési eszközök arányának számításakor az egyes befektetési eszközökhöz kapcsolódó származékos ügyletekben megtestesülő – a befektetési alapokra vonatkozó jogszabályi előírások szerint meghatározott – nettó pozíciót is figyelembe kell venni. Ha a piaci árfolyamok mozgása vagy értékpapír-kölcsönzési ügylet óvadékának portfolióba kerülése következtében a befektetési szabályok sérülnek, akkor a vagyonkezelő, illetve a pénztár 30 naptári napon belül köteles az előírt arányoknak való megfelelést helyreállítani. Amennyiben az ingatlanbefektetésekre vonatkozó befektetési korlátozások kizárólag a piaci árfolyamok mozgása vagy szolgáltatások kifizetése miatt sérülnek, akkor az előírt arányok helyreállítására a pénztárnak 6 hónap áll rendelkezésére.
+
+2\. A Felügyelet a pénztár kérelmére – a limitek betartását akadályozó rendkívüli piaci körülmények fennállása esetén – maximum 6 hónap időtartamig engedélyezheti a rögzített eszközkategóriáktól, valamint a befektetési előírásoktól történő legfeljebb 10 százalékos eltérést.
+
+3\. Az állampapírok kivételével az egy kibocsátó által kibocsátott értékpapírba az egyes választható portfoliókba befektetett pénztári eszközök legfeljebb 10 százaléka helyezhető el. Az egy bankcsoporthoz tartozó hitelintézetnél elhelyezett betétek – a pénzforgalmi számla kivételével –, valamint az ugyanazon bankcsoporthoz tartozó szervezet által kibocsátott értékpapírok együttes értéke nem haladhatja meg az egyes választható portfoliókba befektetett pénztári eszközök 20 százalékát.
+
+4\. Fedezeti és arbitrázs célú származtatott ügylet mindhárom választható portfolióban köthető. Fedezeti célú az olyan – a számvitelről szóló 2000. évi C. törvény 3. § (8) bekezdése 10. pontjának megfelelő – ügylet, amelyet a pénztár portfoliójában már meglévő eszközökre, az azok tartásából adódó kockázat csökkentésére kötnek. Fedezeti ügylet esetén szükséges egy fedezendő kockázati kitettség, amelyre irányul a fedezés. Arbitrázs célú az az ügylet, amely esetében az időben vagy térben meglévő árfolyam-, illetve kamatkülönbözet kihasználására kerül sor oly módon, hogy az ügylet eredményeképpen nem keletkezik nyitott pozíció, és az ügylet a portfolió kockázati szintjét nem növeli. Nyitott származtatott pozíciót – az ügylet kockázata miatt – csak fokozott körültekintéssel, a származtatott piacra vonatkozó megfelelő szakértelemmel és tapasztalattal lehet felvenni.
+
+5\. A pénztár házipénztárában, annak napi zárásakor legfeljebb 500 000 Ft értékű készpénz tartható. Ha a pénztárnak több telephelye van, akkor ennek az előírásnak az egyes telephelyekre külön-külön kell érvényesülnie.
+
+6\. A pénztár a járadékfizetési kötelezettsége teljesítéséhez szükséges mértékben, illetve a szabályzataiban foglaltak szerint köteles pénztári befektetett eszközeit likvid eszközben tartani.
+
+7\. A nem OECD, illetve EU-tagállam, vagy az EGT-megállapodásban részes állambeli kibocsátó értékpapírjába történő befektetések aránya – választható portfoliónként – nem haladhatja meg a külföldi befektetések 20 százalékát.
+
+8.[^116]
+
+9\. Az egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapírban történő befektetések aránya a befektetett pénztári eszközök (illetve választható portfoliós rendszer esetében az egyes portfoliók értékének) 10 százalékát nem haladhatja meg.
+
+10\. A pénztári befizetések azonosításáig azokat egy elkülönült portfolióban (függő portfolió) kell elhelyezni. A függő portfoliót a klasszikus portfolió befektetési szabályai szerint kell befektetni.
+
+**III. **Az egyes választható portfoliókra vonatkozó prudenciális elvárások, befektetési előírások****
+
+1\. Klasszikus portfolióra vonatkozó elvárások, előírások:
+
+1.1. A Klasszikus portfolió esetében olyan rövid távú, elsősorban pénzpiaci portfoliót kell kialakítani, amely alacsony veszteségkockázatot és megfelelő likviditást biztosít. A Klasszikus portfoliónál kerülni kell az olyan befektetési instrumentumokat, amelyek esetében a termék jellege, futamideje, kockázati szintje, előzménye, piacának sajátosságai folytán a rövidtávon belüli, veszteség nélküli likvidálás bizonytalan. A Klasszikus portfolió esetében fokozott figyelmet kell fordítani arra, hogy a kötelezettségállomány és a befektetések devizakitettsége összhangban legyen.
+
+1.2. A Klasszikus portfolióban közvetlen és közvetett ingatlanbefektetések, kockázati tőkealapjegyek, származtatott alapok jegyei nem helyezhetők el, illetve nyitott származtatott pozíciók nem vehetők fel.
+
+1.3. A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 10 százalékát nem haladhatja meg.
+
+1.4.[^117]
+
+2\. Kiegyensúlyozott portfolióra vonatkozó elvárások, előírások:
+
+2.1. A Kiegyensúlyozott portfolió esetében olyan középtávú, vegyes befektetési portfoliót kell kialakítani, amely mérsékelt kockázatvállalás mellett megfelelő hozamot biztosít. A Kiegyensúlyozott portfoliónál elsősorban az olyan befektetési instrumentumokat kell alkalmazni, amelyek hozamelőnye várhatóan a befektetést követő 10 éven belül jelentkezik.
+
+2.2. A Kiegyensúlyozott portfolióban az ingatlanbefektetések (ingatlanok és ingatlanalapok) aránya a befektetett eszközök 10 százalékát, míg a kockázati tőkealapjegyek a 3 százalékát nem haladhatják meg. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett eszközök 2 százalékát. A portfolióba származtatott alapok jegyei nem helyezhetők el, illetve nyitott származtatott pozíciók nem vehetők fel.
+
+2.3.[^118] A portfolióban a részvények, részvénybefektetésen alapuló befektetési instrumentumok aránya a befektetett eszközök 40 százalékát nem haladhatja meg.
+
+3\. Növekedési portfolióra vonatkozó elvárások, előírások:
+
+3.1. A Növekedési portfolió esetében olyan hosszú távú, dinamikus befektetési portfoliót kell kialakítani, amely magasabb hozam-kockázati profilú eszközök bevonásával, a pénztár által vállalható kockázat mellett, a lehető legmagasabb hozamot biztosítja. A befektetési portfolió kialakítása és kezelése során a hosszú távú szemlélet melletti hozammaximalizálásra kell törekedni.
+
+3.2. A Növekedési portfolióban az ingatlanbefektetések (ingatlanok és ingatlanalapok) aránya a befektetett eszközök 20 százalékát, míg a kockázati tőkealapjegyek aránya a befektetett eszközök 5 százalékát nem haladhatja meg. Egy kockázati tőkealap által kibocsátott jegyek aránya nem haladhatja meg a befektetett eszközök 2 százalékát. A származtatott alapok jegyeinek és nyitott származtatott pozíciók árfolyamértéken vett együttes aránya a befektetett eszközök maximálisan 5 százalékát teheti ki.
+
+3.3.[^119]
+
+## 3. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez
+
+I. A befektetett pénztári eszközök negyedéves\
+értékének változása
+
+1\. A pénztárak befektetett eszközei értéke alatt az 1. számú mellékletben előírt befektetési formák meghatározott piaci értékét kell érteni. Ezen pénztári portfolió értékelésével kell a pénztár gazdálkodását, annak alakulását bemutatni.
+
+2\. Az értékelést hozamráta meghatározása céljából a következő időtartamra kell elvégezni:
+
+*a)* azon pénztárak esetében, amelyek a tárgyévet megelőző időszakban alakultak, az értékelés kiterjed a tárgyév egész időszakára. Az értékelés időpontjai, a 4. számú melléklet szerinti fordulónapok;
+
+*b)* azon pénztárak esetében, amelyek a tárgyévben alakultak meg, az értékelés értelemszerűen a megalakulástól a tárgyév végéig terjed, a fordulónapok a nyitómérleg dátuma, valamint a 4. számú melléklet szerinti fordulónapok.
+
+3\. A pénztár letétkezelője végzi a pénztári eszközök piaci értékének meghatározását. A befektetett pénztári eszközök piaci értékét a fordulónapig – függetlenül attól, hogy ez kereskedési nap vagy sem – kötött ügyletek kötési pozíciója alapján kell értékelni. Az értékelésnél figyelembe kell venni a fordulónapig még el nem számolt ügyletek függő pénzügyi teljesítésének egyenlegét. Amennyiben a pénztár az értékelési időszakban letétkezelőt váltott, a megelőző letétkezelő a pénztár rendelkezésére bocsátja a pénztári eszközök befektetésére vonatkozó adatokat.
+
+4\. Az értékelés körébe tartozó eszközök teljeskörűen megegyeznek a Felügyeletnek küldött negyedéves jelentés megfelelő adataival.
+
+5.[^120] A pénztár az értékelést a pénztár egészére elkülönítve, a likviditási, a működési, valamint a fedezeti tartalék eszközei szerint, s ezen belül az egyéni számlák tartalékára és a szolgáltatási tartalékokra megbontva végzi. Választható portfoliós rendszer esetében a fedezeti tartalék eszközeit portfoliónkénti bontásban kell kimutatni és értékelni.
+
+6\. A pénztár könyvvizsgálója az óvatosság számviteli elvének érvényesítése érdekében – külön indoklással – alacsonyabb érték megállapítása céljából eltérhet a II. fejezetben leírt értékelési eljárásoktól.
+
+**II. Értékelési szabályok**
+
+A befektetett pénztári eszközök – napi és negyedéves –\
+piaci értékének meghatározása
+
+1\. *Pénzforgalmi számla és befektetési számla:* a számlá(ko)n lévő eszközök megszolgált, de el nem számolt időarányos kamattal növelt fordulónapi záróállománya kerül beszámításra.
+
+2\. *Házipénztár:* a házipénztár értéke a fordulónapi pénztárjelentés záró értéke.
+
+3\. *Lekötött betét:* a lekötött betétek esetében a betét értéke a megszolgált, de el nem számolt időarányos kamattal növelt fordulónapi záró állománnyal kerül beszámításra.
+
+4\. *Hitelviszonyt megtestesítő értékpapírok:*
+
+*a)* a pénztár tulajdonában lévő, a tőzsdén jegyzett fix és változó kamatozású kötvények, valamint a diszkont kincstárjegyek esetén – az elsődleges forgalmazói rendszerbe bevezetett államkötvényeket és diszkont kincstárjegyeket kivéve – egységesen az értékelési időszakban az utolsó tőzsdei záró nettó árfolyam felhasználásával kell értékelni oly módon, hogy a nettó árhoz a piaci érték meghatározásakor hozzá kell adni a fordulónapig felhalmozott kamatokat;
+
+*b)[^121]* az elsődleges forgalmazói rendszerbe bevezetett, kötelező árjegyzésű, 3 hónapnál hosszabb hátralévő futamidejű fix és változó kamatozású, illetve diszkont állampapírok esetén az Államadósság Kezelő Központ (a továbbiakban: ÁKK) által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett legjobb vételi és eladási nettó árfolyamok számtani átlaga és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+
+*c)[^122]* az elsődleges forgalmazói rendszerben nem kötelező árjegyzésű, 3 hónapnál rövidebb hátralévő futamidejű, fix kamatozású és diszkont állampapírok – ideértve az állami készfizető kezességgel rendelkező értékpapírokat is – esetén az ÁKK által a fordulónapon, illetve az azt megelőző legutolsó munkanapon közzétett 3 hónapos referenciahozam felhasználásával a fordulónapra számított nettó árfolyam és a fordulónapig felhalmozott kamatok összegeként kell a piaci értéket meghatározni;
+
+*d)[^123]* ha tőzsdére bevezetett hitelviszonyt megtestesítő értékpapírnak – az elsődleges forgalmazói rendszerbe bevezetett állampapírokat kivéve – nincsen 30 napnál nem régebbi árfolyama, akkor a piaci érték meghatározása a tőzsdén kívüli kereskedelem szerinti regisztrált és a fordulónapig közzétett utolsó, forgalommal súlyozott nettó átlagár és a fordulónapig felhalmozott kamat felhasználásával történik, ha ez az adat nem régebbi 30 napnál. A tőzsdén kívüli kereskedelem szerint regisztrált árfolyamok 30 napos érvényessége a közzétételben megjelölt időszak, azaz a vonatkozási időszak utolsó napjától számítandó akkor is, ha az nem munkanapra esik. Ugyanezen módszert kell alkalmazni a tőzsdére be nem vezetett hitelviszonyt megtestesítő értékpapírra;
+
+*e)* ha a fenti értékelési módszerek nem használhatóak, akkor a nettó beszerzési árat kell felhasználni oly módon, hogy a piaci érték meghatározásakor hozzá kell adni az utolsó kamatfizetés óta a fordulónapig felhalmozott kamatokat.
+
+5\. *Részvények értékelése:*
+
+*a)* a tőzsdére bevezetett részvényeket a fordulónapi tőzsdei záróárfolyam szerint kell értékelni;
+
+*b)* ha az adott napon nem történt üzletkötés, akkor a legutolsó tőzsdei záróárfolyamot kell használni, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi;
+
+*c)* a tőzsdére nem bevezetett részvény esetében a tőzsdén kívüli kereskedelem szerinti és a BÉT hivatalos lapjában közzétett utolsó súlyozott átlagárfolyam alapján kell meghatározni az eszköz értékelési árfolyamát, ha az nem régebbi 30 napnál;
+
+*d)* ha egyik módszer sem alkalmazható, akkor függetlenül annak régiségétől, az utolsó tőzsdei, ennek hiányában tőzsdén kívüli árfolyam, illetve a beszerzési ár közül az alacsonyabbat kell figyelembe venni.
+
+6\. *A befektetési jegyek (ideértve az ingatlanbefektetési alap által kibocsátott befektetési jegyet is):*
+
+*a)* a nyíltvégű befektetési alap befektetési jegyét az alapkezelő által közzétett legutolsó egy jegyre jutó nettó eszközértéken kell figyelembe venni;
+
+*b)[^124]* zárt végű befektetési alap befektetési jegye esetében az utolsó tőzsdei záróárfolyam és az utolsó nyilvánosságra hozott nettó eszközérték közül az alacsonyabbat kell figyelembe venni. Az utolsó tőzsdei záróárfolyam akkor alkalmazható, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi. A kockázati tőkealap-jegyeket is a zárt végű befektetési alapokra vonatkozó értékelési módszer alapján kell értékelni.
+
+7\. *Jelzáloglevél:* a jelzáloglevelet a hitelviszonyt megtestesítő értékpapírokhoz hasonlóan, a 4.1. pont szerint kell értékelni.
+
+8\. *Opciós ügyletek:* a szabványosított tőzsdei opciók értékelése az utolsó tőzsdei záróáron történik. Ha 30 napnál nem régebbi tőzsdei záróár nem áll rendelkezésre, akkor az opció belső értékét és időértékét is figyelembe vevő módszerrel kell kiszámítani. Ennek hiányában, illetve nem tőzsdei ügyletek esetében, az opciót kizárólag a belső értéken kell értékelni, azaz az opció értéke ebben az esetben az opciós kötés kötési árfolyamának és az opciós ügylet alapjául szolgáló termék utolsó záró árának különbözete vagy nulla közül a nagyobb érték.
+
+9\. *Határidős kereskedelem:* a fordulónapi nyitott pozíciókból származó nyereséget és veszteséget az adott instrumentumra közzétett fordulónapi, illetve ennek hiányában a legutolsó, hivatalos közzétett elszámoló ár és kötéskori ár különbözetén kell értékelni.
+
+10\. *Külföldi befektetések értékelése:*
+
+1\. Hitelviszonyt megtestesítő értékpapírok:
+
+*a)* a pénztár tulajdonában lévő, hitelviszonyt megtestesítő értékpapírokat egységesen az utolsó nyilvánosságra hozott nettó árfolyam és a fordulónapig számított felhalmozott kamatok összegeként kell értékelni;
+
+*b)* ha a fenti értékelési módszerek nem használhatóak, akkor a nettó beszerzési árat kell felhasználni oly módon, hogy a piaci érték meghatározásakor hozzá kell adni az utolsó kamatfizetése óta a fordulónapig felhalmozott kamatokat.
+
+2\. Részvények értékelése:
+
+*a)* a tőzsdére és elismert értékpapírpiacra bevezetett részvényeket a fordulónapi záróárfolyam, annak hiányában a fordulónapra nyilvánosságra hozott árfolyam szerint kell értékelni;
+
+*b)* ha az árfolyam keletkezésének helyén az adott napon nem történt üzletkötés, akkor a legutolsó nyilvánosságra hozott árfolyamot kell használni, ha ez az árfolyam a fordulónaphoz képest 30 napnál nem régebbi;
+
+*c)* ha egyik módszer sem alkalmazható, akkor a beszerzési árat kell használni.
+
+3\. Befektetési jegyek:
+
+Befektetési jegyeket a fordulónapra vonatkozó, de legkésőbb a fordulónapot követő második munkanapon rendelkezésre álló egy jegyre jutó nettó eszközértéken kell figyelembe venni.
+
+4\. A külföldi befektetések révén keletkezett pozíciók devizában kifejezett értékét a fordulónapon közzétett, ennek hiányában a legutolsó nyilvánosságra hozott MNB középárfolyam felhasználásával kell forintban kifejezni.
+
+11\. *Repó (fordított repó):* az ügylet árkülönbözetének naptári napra számított időarányos (lineáris) része.
+
+12.[^125] *Ingatlan:* az ingatlanokat a pénztár által meghatározott fordulónapra, de legalább az üzleti év fordulónapjára, 3 hónapnál nem régebbi, a pénztártól független ingatlanértékelő által készített értékbecslés alapján kell értékelni. Az ingatlan beszerzésének évében a pénztár az ingatlant könyv szerinti értéken is értékelheti. A követelés fejében átvett, 10 millió forint bekerülési értéket meg nem haladó ingatlantulajdon a pénztár könyvvizsgálója által hitelesített piaci értéken is értékelhető. Az ingatlanértékelő által végzett értékbecslések között végzett ingatlan beruházást könyv szerinti értéken kell értékelni.
+
+13.[^126] *Swap:* a letétkezelő belső értékelési szabályzata alapján kell értékelni.
+
+14.[^127] Az egyéb, tőzsdén vagy más szabályozott piacon forgalmazott, fenti kategóriákba nem sorolható értékpapír esetében a piaci érték forrása azon tőzsdei vagy más szabályozott piaci árfolyam, ahol az adott értékpapír forgalma jellemzően zajlik. Amennyiben a vonatkozó piacról 30 napnál frissebb árfolyam nem érhető el, akkor a beszerzési árat kell az értékeléshez alkalmazni.
+
+## 4. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^128]
+
+*Hozamráták meghatározásának módjai*
+
+1\. A pénztár hozamrátái:
+
+*a)* A pénztár egészére vonatkozó időszakos (negyedéves, éves) hozamrátát az alábbi idősúlyos módszer alapján kell számítani:
+
+R = (1 + r<sub>1</sub>)*(1 + r<sub>2</sub>)*…*(1 + r<sub>t</sub>)–1
+
+R = a pénztári portfolió időszakos hozama
+
+r<sub>t</sub>= a pénztári portfolió napi hozama
+
+ahol,
+
+<sub>![](https://njt.jog.gov.hu/picture/fe/feb32001_22__200002829F01_008_0.jpg)</sub>
+
+illetve ahol,
+
+r<sub>t</sub>= a t. napi idősúlyozású hozam
+
+P<sub>t</sub>= a pénztári vagyon t. napi záró bruttó piaci értéke
+
+CF<sub>t</sub>= t. napi pénzmozgás, azaz a nem vagyonkezeléshez kapcsolódó be-, illetve kifizetés (előjeles) nettó értéke
+
+*b)* A napi teljesítményt legalább 8 tizedes jegyig ki kell számolni és a negyedéves, éves hozam számításakor nem szabad kerekíteni. A kiszámított negyedéves, éves hozamot két tizedes jegyre kell kerekíteni.
+
+*c)* A bruttó hozamrátát a kereskedési költségek (jutalékok) levonása után kell számítani.
+
+*d)* A nettó, illetve bruttó hozamráta közötti különbségként az adott időszakra vonatkozó befektetési vagyonarányos költségeket kell figyelembe venni.
+
+*e)* Választható portfoliós rendszerben a portfoliónként számított hozamrátát az *a)–d)* pontok szerinti módszerrel kell kiszámítani.
+
+*f)* Az elszámolóegységekre épülő nyilvántartási rendszer esetén a nettó hozamrátát az adott időszak nyitó és záró elszámolóegység árfolyamának növekménye alapján kell számítani. A bruttó hozamráta számítása során az adott időszakban elszámolt befektetési vagyonarányos költségek arányát a portfolió adott időszak alatti napi bruttó piaci értékeinek számtani átlagára vetítve meg kell határozni, majd ezzel a nettó hozamráta értékét növelni.
+
+*g)* Az elszámolóegység-árfolyamot az egyes választható portfoliók egyéní számlái eszközfedezetének e rendelet szerint számított piaci értékének és az elszámoló egységek számának hányadosaiként kell megképezni.
+
+2\. Referenciaindex hozamának számítása:
+
+*a)* Az időszakos (negyedéves, éves) referenciaindex hozamát az alábbi módszer alapján kell számítani:
+
+R = (1 + r<sub>1</sub>)*(1 + r<sub>2</sub>)*…*(1 + r<sub>n</sub>)–1
+
+![](https://njt.jog.gov.hu/picture/d6/d68f2001_22__20000282A081_009_0.jpg)
+
+ahol
+
+R = a referenciaindex éves, negyedéves hozama
+
+r<sub>n</sub>= a referenciaindex havi hozama
+
+BMk = a k. referenciaindex
+
+I<sub>BMk(n)</sub>= a k. referenciaindex n. havi záró indexértéke
+
+x, y, z…s = a BM1, BM2, BM3.....BMk súlya a portfolióhoz kijelölt referenciaindexekhez
+
+x+y+z+…+s = 100%
+
+*b)* Választható portfoliós rendszerben a referenciaindex hozamát (referenciahozamot) választható portfoliónként, az *a)* pont szerinti módszerrel is ki kell számítani.
+
+## 4/A. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^129]
+
+**A 10 éves vagyonnövekedési mutató meghatározása**
+
+A pénztárnak a vagyonnövekedési mutatót a következő képlet szerint kell meghatároznia:
+
+<sub>![](https://njt.jog.gov.hu/picture/6a/6a3f2001_22__20000281A3AE_015_0.jpg)</sub>
+
+ahol
+
+V = 10 éves vagyonnövekedési mutató
+
+R<sub>i</sub> = a tárgyévi (a tárgyévben *i* = 1) és az azt megelőző 9 év nettó hozamrátája
+
+![](https://njt.jog.gov.hu/picture/7c/7cbd2001_22__20000281A381_013_1.jpg)
+
+ahol
+
+v<sub>i</sub> = a tárgyévben és az azt megelőző 9 évben a pénztár fedezeti tartaléka egy pénztártagra jutó vagyona nyitó és záró értékének számtani átlaga
+
+Az egy pénztártagra jutó vagyon nyitó értéke a pénztár fedezeti tartaléka tárgyév első napján kimutatott piaci értékének és a tárgyév első napján meglévő taglétszámnak a hányadosa. Az egy pénztártagra jutó vagyon záró értéke a pénztár fedezeti tartaléka tárgyév utolsó napján kimutatott piaci értékének és a tárgyév utolsó napján meglévő pénztári taglétszámnak a hányadosa.
+
+v<sub>b</sub> = a tárgyévet megelőző 9. évben a pénztár fedezeti tartaléka egy pénztártagra jutó vagyonának nyitó értéke.
+
+## 5. számú melléklet a 282/2001. (XII. 26.) Korm. rendelethez[^130]
+
+---
+
+[^1]: A 2. § (3) bekezdés b) pontja a 335/2008. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (4) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 234/2006. (XI. 24.) Korm. rendelet 15. § (4) bekezdése szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdését a 332/2005. (XII. 29.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.
+[^5]: Az 5. § (1) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^6]: Az 5. § (2) bekezdése e rendelet 30. §-ának (3) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (3) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 6. § a 332/2005. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^10]: A 7. §-t a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése, az azt megelőző alcímet a 330/2006. (XII. 23.) Korm. rendelet 15. § (10) bekezdése hatályon kívül helyezte.
+[^11]: A 8–9. §-t a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése, a 8. §-t megelőző alcímet a 330/2006. (XII. 23.) Korm. rendelet 15. § (10) bekezdése hatályon kívül helyezte.
+[^12]: A 10. § (1) bekezdésének a) pontja a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdésének b) pontja a 234/2006. (XI. 24.) Korm. rendelet 15. § (4) bekezdése szerint módosított szöveg.
+[^14]: A 10. § (6) bekezdésének harmadik és negyedik mondatát a 234/2006. (XI. 24.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 10. § (7) bekezdése e rendelet 30. § (4) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 103. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^16]: A 11. § (1) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^17]: A 11. § (5) bekezdését a 300/2002. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövegét a 332/2005. (XII. 29.) Korm. rendelet 2. § (1) bekezdése állapította meg.
+[^18]: A 11. § új (6) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be, egyidejűleg az eredeti (6) bekezdésének számozását (7) bekezdésre változtatta.
+[^19]: A 11. § (6) bekezdését a 332/2005. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 234/2006. (XI. 24.) Korm. rendelet 15. § (4) bekezdése szerint módosított szöveg. Az eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 369/2007. (XII. 23.) Korm. rendelet 2. § (1) bekezdése.
+[^20]: A 11. § (8) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^21]: A 13. § (1) bekezdésének b) pontja a 234/2006. (XI. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: A 13. § (1) bekezdésének j) pontját a 234/2006. (XI. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^23]: A 13. § (1) bekezdésének k) pontját a 234/2006. (XI. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^24]: A 13. § (1) bekezdésének l) pontját a 369/2007. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^25]: A 13. § (2) bekezdésének második mondatát a 331/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^26]: A 13. § (3) bekezdését a 331/2004. (XII. 11.) Korm. rendelet 1. §-a iktatta be, szövege a 369/2007. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^27]: A 13. § (4) bekezdését a 331/2004. (XII. 11.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^28]: A 13. § (5) bekezdését a 331/2004. (XII. 11.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^29]: A 13. § (6) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^30]: A 13. § (7) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^31]: A 13/A. §-t a 369/2007. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^32]: A 15. § a 115/2005. (VI. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^33]: A 15. § (1) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^34]: A 15. § (3) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^35]: A 16/A. §-t és az előtte lévő alcímet a 262/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^36]: A 16/A. § (1) bekezdésének második mondatát a 369/2007. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^37]: A 16/B. §-t a 262/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^38]: A 16/B. § (1) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 252. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^39]: A 16/B. § (2) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 13. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^40]: A 16/B. § (2) bekezdésének b) pontját a 331/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^41]: A 16/B. § (4) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^42]: A 16/B. § (5) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^43]: A 16/B. § (6) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^44]: A 16/C. §-t a 262/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^45]: A 16/C. § (1) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^46]: A 16/C. § (4) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^47]: A 16/C. § (5) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^48]: A 16/D. §-t a 262/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 102. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^49]: A 16/E. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^50]: A 16/F. §-t a 369/2007. (XII. 23.) Korm. rendelet 8. §-a iktatta be.
+[^51]: A 16/G. §-t megelőző alcímet a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 16/G. §-t a 155/2009. (VII. 23.) Korm. rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^53]: A 19. § (1) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^54]: A 19. § (2) bekezdése a 332/2005. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^55]: A 20. § a 332/2005. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^56]: A 20. § (2) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^57]: A 21. § a 335/2008. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^58]: A 22. § a 369/2007. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^59]: A 22. § (1) bekezdése a 297/2010. (XII. 23.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 87/2011. (V. 31.) Korm. rendelet 18. § (1) bekezdése szerint módosított szöveg.
+[^60]: A 22. § (2) bekezdésének n) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^61]: A 22. § (3) bekezdésének m) pontja a 182/2009. (IX. 10.) Korm. rendelet 253. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^62]: A 22. § (3a) bekezdését a 87/2011. (V. 31.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^63]: A 25. § (2) bekezdés második mondatát a 335/2008. (XII. 30.) Korm. rendelet 29. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^64]: A 28. § (4) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
+[^65]: A 29. §-t megelőző alcím a 369/2007. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^66]: A 29. § (1) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^67]: A 29. § (2) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^68]: A 29. § (3) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^69]: A 29. § (4) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^70]: A 29. § (5) bekezdése a 332/2005. (XII. 29.) Korm. rendelet 8. §-ával megállapított, a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg. Az (5) bekezdést a 335/2008. (XII. 30.) Korm. rendelet 29. § (2) bekezdése hatályon kívül helyezte.
+[^71]: A 29. § (6) bekezdése a 332/2005. (XII. 29.) Korm. rendelet 8. §-ával megállapított, a 369/2007. (XII. 23.) Korm. rendelet 12. § (2)–(3) bekezdése szerint módosított szöveg.
+[^72]: A 29. § (7) bekezdése a 332/2005. (XII. 29.) Korm. rendelet 8. §-ával megállapított, a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^73]: A 29. § (8) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte, újonnan a 155/2009. (VII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^74]: A 29. § (9) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^75]: A 29. § (10) bekezdése a 369/2007. (XII. 23.) Korm. rendelet 12. § (3) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^76]: A 29. § (11) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (3) bekezésével megállapított szöveg.
+[^77]: A 29. § (12) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^78]: A 29. § (13) bekezdése a 332/2009. (XII. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^79]: A 29. § (15) bekezdését a 300/2002. (XII. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 335/2008. (XII. 30.) Korm. rendelet 29. § (2) bekezdése.
+[^80]: A 29. § (16) bekezdését a 234/2006. (XI. 24.) Korm. rendelet 7. § (6) bekezdése iktatta be, szövege a 335/2008. (XII. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 26. § (2) bekezdését.
+[^81]: A 29. § (17) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 335/2008. (XII. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 26. § (2) bekezdését.
+[^82]: A 29. § (18) bekezdését a 369/2007. (XII. 23.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 335/2008. (XII. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 26. § (2) bekezdését.
+[^83]: A 29/A. §-t a 300/2002. (XII. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 234/2006. (XI. 24.) Korm. rendelet 8. §-ával megállapított, a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^84]: A 29/B. §-t megelőző alcímet a 330/2006. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^85]: A 29/B. §-t a 330/2006. (XII. 23.) Korm. rendelet 13. §-a iktatta be, alkalmazására lásd e módosító rendelet 15. § (9) bekezdését.
+[^86]: A 29/C. §-t és az azt megelőző alcímet a 335/2008. (XII. 30.) Korm. rendelet 6. §-a iktatta be. A 29/C. § a 332/2009. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^87]: A 30. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja szerint módosított szöveg.
+[^88]: A 30. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja hatályon kívül helyezte.
+[^89]: A 30. § új (3) bekezdését a 332/2005. (XII. 29.) Korm. rendelet 9. §-a iktatta be, ezzel egyidejűleg az eredeti (3)–(6) bekezdés számozása (4)–(7) bekezdésre változott.
+[^90]: A 30. § eredeti (3) bekezdésének számozása a 332/2005. (XII. 29.) Korm. rendelet 9. §-a alapján (4) bekezdésre változott. A (4) bekezdést a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja hatályon kívül helyezte.
+[^91]: A 30. § eredeti (4) bekezdésének számozása a 332/2005. (XII. 29.) Korm. rendelet 9. §-a alapján (5) bekezdésre változott. Az (5) bekezdést a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja hatályon kívül helyezte.
+[^92]: A 30. § eredeti (5) bekezdésének számozása a 332/2005. (XII. 29.) Korm. rendelet 9. §-a alapján (6) bekezdésre változott. A (6) bekezdést a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja hatályon kívül helyezte.
+[^93]: A 30. § eredeti (6) bekezdésének számozása a 332/2005. (XII. 29.) Korm. rendelet 9. §-a alapján (7) bekezdésre változott.
+[^94]: A 31–32. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1007. pontja hatályon kívül helyezte.
+[^95]: A 34. §-t a 234/2006. (XI. 24.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 425/2012. (XII. 29.) Korm. rendelet 13. § a) pontja.
+[^96]: A 35. §-t a 335/2008. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^97]: Az 1. számú melléklet a 332/2005. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^98]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 230. §-a szerint módosított szöveg.
+[^99]: Az 1. számú melléklet 1. pontjának m) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^100]: Az 1. számú melléklet 1. pontjának n) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^101]: Az 1. számú melléklet 1. pontjának o) alpontját a 234/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^102]: Az 1. számú melléklet 2. pontja a 234/2006. (XI. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^103]: Az 1. számú melléklet 4. pontja a 335/2008. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^104]: Az 1. számú melléklet 6. pontja a 369/2007. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^105]: A 2. számú melléklet 1. pontjának alcímét a 234/2006. (XI. 24.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^106]: A 2. számú melléklet 1.a) pontjának második mondatát a 115/2005. (VI. 27.) Korm. rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte.
+[^107]: A 2. számú melléklet 1. pontjának b) alpontját a 331/2004. (XII. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
+[^108]: A 2. számú melléklet 1. pontjának e) alpontja a 369/2007. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^109]: A 2. számú melléklet 1. pontjának f) pontja a 300/2002. (XII. 27.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
+[^110]: A 2. számú melléklet 1. pontjának g) alpontja a 234/2006. (XI. 24.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^111]: A 2. számú melléklet 2. pontja a 332/2005. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^112]: A 2. számú melléklet 5. pontja a 332/2005. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 369/2007. (XII. 23.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^113]: A 2. számú melléklet 6. pontja a 262/2003. (XII. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^114]: A 2. számú melléklet 7. pontját a 300/2002. (XII. 27.) Korm. rendelet 7. §-ának (4) bekezdése iktatta be, hatályon kívül helyezte a 262/2003. (XII. 24.) Korm. rendelet 5. §-ának (2) bekezdése. Újonnan a 234/2006. (XI. 24.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^115]: A 2/A. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 12. §-a iktatta be.
+[^116]: A 2/A. számú melléklet II. részének 8. pontját a 369/2007. (XII. 23.) Korm. rendelet 17. § (2) bekezdése hatályon kívül helyezte.
+[^117]: A 2/A. számú melléklet III. rész 1. pont 1.4. alpontját a 155/2009. (VII. 23.) Korm. rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^118]: A 2/A. számú melléklet III. fejezet 2.3. pontja a 425/2012. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^119]: A 2/A. számú melléklet III. fejezet 3.3. pontját a 425/2012. (XII. 29.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^120]: A 3. számú melléklet I. része 5. pontjának második mondatát a 234/2006. (XI. 24.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^121]: A 3. számú melléklet II. része 4. pontjának b) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^122]: A 3. számú melléklet II. része 4. pontjának c) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^123]: A 3. számú melléklet II. része 4. pontjának d) alpontja a 332/2005. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^124]: A 3. számú melléklet II. rész 6. pontja b) alpontjának második és harmadik mondatát a 332/2005. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^125]: A 3. számú melléklet II. fejezetének 12. pontját a 300/2002. (XII. 27.) Korm. rendelet 8. §-a iktatta be, szövege a 369/2007. (XII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^126]: A 3. számú melléklet II. részének 13. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^127]: A 3. számú melléklet II. részének 14. pontját a 234/2006. (XI. 24.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^128]: A 4. számú melléklet a 332/2005. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 234/2006. (XI. 24.) Korm. rendelet 14. §-a, a 369/2007. (XII. 23.) Korm. rendelet 16. §-a, a 335/2008. (XII. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^129]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 10/2009. (I. 27.) Korm. rendelet 6. § (7) bekezdése és a 27/2009. (II. 13.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^130]: Az 5. számú mellékletet a 234/2006. (XI. 24.) Korm. rendelet 15. § (2) bekezdése hatályon kívül helyezte.

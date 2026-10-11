@@ -1,0 +1,130 @@
+---
+title: "59/1991. (IV. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és a Benelux országok Kormányai között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről"
+identifier: "59/1991. (IV. 19.) Korm. rendelet"
+njt_id: "1991-59-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/59"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-04-19
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-59-20-22"
+retrieved: 2026-10-12
+---
+
+# 59/1991. (IV. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és a Benelux országok Kormányai között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről
+
+*(A megállapodás megkötésére 1991. január 16-án levélváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Benelux országok Kormányai között a vízumkényszer megszüntetésére vonatkozó, 1991. január 16-án kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Benelux országok külügyminisztereinek a magyar külügyminiszterhez intézett francia nyelvű levele hivatalos magyar nyelvű fordítása a következő:
+
+,,Miniszter Úr!
+
+Van szerencsénk Excellenciád tudomására hozni, hogy a Benelux országok Kormányai, a Belga Királyság, a Luxemburgi Nagyhercegség és a Holland Királyság között a Benelux országok területe külső határait átlépő személyek ellenőrzésének átengedéséről Brüsszelben, 1960. április 11-én aláírt Megállapodás értelmében közösen eljárva, készek arra, hogy a Magyar Köztársaság Kormányával a vízumkötelezettség eltörléséről egyezményt kössenek a következők szerint:
+
+1\. A jelen Egyezmény értelmében a ,,Benelux országokon'' a Belga Királyságot, a Luxemburgi Nagyhercegséget és a Holland Királyságot kell érteni, a ,,Benelux területé''-n pedig: a Belga Királyság, a Luxemburgi Nagyhercegség és a Holland Királyság Európában levő területeinek összességét.
+
+2\. A Magyar Köztársaság állampolgárai, legfeljebb három hónapos időtartamra, vízum nélkül léphetnek a Benelux területére, ehhez csak érvényes nemzeti útlevél szükséges.
+
+3\. A Benelux országok állampolgárai, legfeljebb három hónapos tartózkodásra, vízum nélkül léphetnek a Magyar Köztársaság területére, ehhez csak érvényes nemzeti útlevél szükséges.
+
+4\. A három hónapot meghaladó tartózkodáshoz a jelen Egyezmény kedvezményezettjeinek indulás előtt meg kell szerezniük az engedélyt azon ország diplomáciai vagy konzuli képviselőjének közvetítésével, amelybe utazni szándékoznak. Ez a kötelezettség nem érinti a diplomata vagy szolgálati útlevéllel rendelkező személyeket, akiket arra neveztek ki, hogy diplomáciai misszió vagy konzuli képviseleten gyakorolják hivatalukat.
+
+5\. A Benelux országoknak a rendszeresen a Magyar Köztársaság területén tartózkodó állampolgárai és a Magyar Köztársaságnak a rendszeresen az egyik Benelux országban tartózkodó állampolgárai vízum nélkül hagyhatják el tartózkodásuk országait és térhetnek vissza oda, ehhez érvényes nemzeti útlevél és tartózkodási jogcím szükséges.
+
+6\. Mindegyik Kormány fenntartja magának a jogot arra, hogy visszautasítsa az országukba történő belépést azoknak a személyeknek, akiknek nincsenek a birtokában a belépéshez szükséges okmányok vagy nem rendelkeznek elegendő létfenntartási eszközzel vagy nemkívánatosnak vannak jelezve vagy úgy tekinthetők mint akik megzavarhatják a köznyugalmat, a közrendet vagy a nemzetbiztonságot.
+
+7\. Az előző rendelkezésekben foglaltak kivételével a Benelux országokban és a Magyar Köztársaságban a külföldiek belépésével, tartózkodásával, letelepedésével és eltávozásával, úgyszintén valamely tevékenység gyakorlásával kapcsolatos, érvényben levő törvények és szabályok továbbra is alkalmazásra kerülnek.
+
+8\. Mindegyik Kormány kötelezi magát arra, hogy bármikor és formaságok nélkül visszafogadja területére:
+
+*a)* azon állampolgárait, akik a másik Szerződő Fél területére léptek;
+
+*b)* azon személyeket, akik a belga, luxemburgi, holland vagy magyar hatóságok által kiállított, érvényes nemzeti útlevéllel léptek be, még abban az esetben is, ha az állampolgárságuk vitatott lenne.
+
+9\. A jelen Egyezmény 1991. február 1-jén lép hatályba, egy éves időtartamra. Ha felmondására ezen időszak letelte előtt 30 nappal korábban nem kerül sor, az Egyezményt határozatlan időtartamra meghosszabbítottnak kell tekinteni. Az első egyéves időszak után mindegyik aláíró Kormány felmondhatja, a belga Kormánynak küldött 30 napos előzetes értesítéssel. Az egyik aláíró Kormány által történt felmondás az Egyezmény hatályon kívül helyezését vonja maga után.
+
+A belga Kormány értesíti a többi aláíró Kormányt a jelen szakaszban említett hivatalos értesítés kézhezvételéről.
+
+10\. A 8. bekezdésben tartalmazottak kivételével, a jelen Egyezmény alkalmazását bármelyik Szerződő Fél felfüggesztheti. A felfüggesztésről azonnal diplomáciai úton értesíteni kell a belga Kormányt. Ez a Kormány értesíti majd a többi aláíró Kormányt ennek a hivatalos értesítésnek a kézhezvételéről. Ugyanígy kell eljárni, mihelyt a kérdéses intézkedést visszavonták.
+
+11\. Ami a Holland Királyságot illeti, a jelen Egyezmény alkalmazása Hollandia Kormánya által a Magyar Köztársaság Kormányának küldött hivatalos értesítéssel kiterjeszthető Arubára[^1] és a Holland Antillákra.
+
+Ha a Magyar Köztársaság Kormánya kész arra, hogy a Benelux országok Kormányaival a fentiekben hivatkozott rendelkezésekre vonatkozó Egyezményt kössön, van szerencsénk azt javasolni Excellenciádnak, hogy a jelen, valamint ehhez hasonló tartalmú levél, amelyet Excellenciád lenne szíves mindegyikünknek küldeni, képezze a Magyar Köztársaság Kormánya és a Benelux országok Kormányai közötti Egyezményt.
+
+Megragadjuk az alkalmat, Miniszter Úr, hogy ismételten kifejezzük Excellenciádnak, legőszintébb nagyrabecsülésünket.''
+
+## 3. §
+
+A magyar külügyminiszternek a Belga Királyság nagykövetéhez, a Luxemburgi Nagyhercegség nagykövetéhez, a Holland Királyság nagykövetéhez intézett levele a következő:
+
+,,Nagykövet Urak!
+
+Engedjék meg, hogy igazoljam az 1991. január 9-én kelt levelük kézhezvételét, melynek szövege az alábbi:
+
+,Miniszter Úr!
+
+Van szerencsénk Őexcellenciája tudomására hozni, hogy a Benelux országok Kormányai a Belga Királyság, a Luxemburgi Nagyhercegség és a Holland Királyság között Benelux országok külső határán áthaladó személyforgalom ellenőrzése tárgyában Brüsszelben, 1960. április 11-én létrejött Megállapodás értelmében közösen eljárva, készek a Magyar Köztársaság Kormányával a vízumkötelezettség megszüntetéséről Megállapodást kötni az alábbi feltételekkel:
+
+1\. A jelen Megállapodás alkalmazása körében ,,Benelux országok'' a Belga Királyság, a Luxemburgi Nagyhercegség és a Holland Királyság;
+
+,,Benelux terület'' a Belga Királyság, a Luxemburgi Nagyhercegség és a Holland Királyság együttes európai területe.
+
+2\. A Magyar Köztársaság állampolgárai legfeljebb három hónapos tartózkodás céljából, érvényes nemzeti útlevél birtokában, vízum nélkül utazhatnak be Benelux területre.
+
+3\. A Benelux országok állampolgárai, legfeljebb három hónapos tartózkodás céljából, érvényes nemzeti útlevél birtokában, vízum nélkül utazhatnak be a Magyar Köztársaság területére.
+
+4\. A három hónapot meghaladó tartózkodás esetén a jelen Megállapodás kedvezményezettjei kötelesek elutazásukat megelőzően engedélyt beszerezni azon ország diplomáciai vagy konzuli képviselete útján, ahová utazni szándékoznak. Nem vonatkozik ez a kötelezettség azokra a személyekre, akik diplomata vagy szolgálati útlevéllel rendelkeznek és akiket a diplomáciai vagy konzuli képviseleten szolgálattételre jelöltek ki.
+
+5\. A Benelux országok azon állampolgárai, akik állandó jelleggel a Magyar Köztársaságban élnek, valamint azok a magyar állampolgárok, akik állandó jelleggel a Benelux országokban élnek, a lakóhelyük szerinti országot elhagyhatják és oda vízum nélkül visszautazhatnak, amennyiben érvényes nemzeti útlevéllel és tartózkodási engedéllyel rendelkeznek.
+
+6\. Mindegyik Kormány fenntartja a jogot, hogy megtagadja azon személyek beutazásának engedélyezését, akik nem rendelkeznek a beutazáshoz előírt okmányokkal, vagy elégséges megélhetési eszközzel, illetve akik nemkívánatos személyek, vagy a köznyugalmat, a közrendet vagy a nemzetbiztonságot veszélyeztethetik.
+
+7\. A fenti rendelkezések által nem érintett kérdésekben a Benelux országokban és a Magyar Köztársaságban a külföldiek beutazására, tartózkodására, letelepedésére és kiutasítására, valamint a hivatás gyakorlására vonatkozóan hatályban levő törvények és más jogszabályok továbbra is alkalmazandók.
+
+8\. Mindegyik Kormány kötelezettséget vállal arra, hogy mindenkor, formalitások nékül visszaengedi területére:
+
+*a)* azokat az állampolgárait, akik a másik Szerződő Fél területére beutaztak;
+
+*b)* azokat a személyeket, akik a belga, luxemburgi, holland, vagy magyar hatóságok által kiállított érvényes nemzeti útlevél birtokában utaztak be erre a területre, még akkor is, ha állampolgárságuk vitás.
+
+9\. A jelen Megállapodás 1991. február 1-jén lép hatályba egy éves időtartamra. Amennyiben ezen időtartam lejárta előtt 30 nappal nem mondják fel, a Megállapodás határozatlan időre meghosszabbítottnak tekintendő.
+
+Az első, egy éves időszakot követően a Megállapodást az aláíró Kormányok bármelyike felmondhatja, a belga Kormányhoz 30 nappal korábban intézett előzetes értesítés útján.
+
+Az aláíró Kormányok egyike által történt felmondás a Megállapodás hatályon kívül helyezését vonja maga után.
+
+Az ebben a cikkben említett közlés kézhezvételéről a belga Kormány értesíti a többi aláíró Kormányt.
+
+10\. A 8. pont kivételével a jelen Megállapodás alkalmazását a Szerződő Felek bármelyike felfüggesztheti.
+
+A felfüggesztésről haladéktalanul, diplomáciai úton értesíteni kell a belga Kormányt, amely értesíti a többi aláíró Kormányt a közlés kézhezvételéről.
+
+Ugyanez vonatkozik az ilyen intézkedés megszüntetésére is.
+
+11\. A Holland Királyság vonatkozásában a jelen Megállapodás alkalmazása kiterjeszthető Arubára és a Holland Antillákra a Holland Királyság Kormányának a Magyar Köztársaság Kormányához intézett értesítése útján.
+
+Amennyiben a Magyar Köztársaság Kormánya a fenti rendelkezéseket tartalmazó Megállapodást kíván kötni a Benelux országok Kormányaival, van szerencsénk javasolni Őexcellenciájának, hogy a jelen levél és az a hasonló tartalmú levél, amelyet Őexcellenciája intéz valamennyiünkhöz, Megállapodást képezzen a Magyar Köztársaság Kormánya és a Benelux országok Kormányai között.
+
+Megragadjuk az alkalmat, Miniszter úr, hogy Őexcellenciáját legőszintébb nagyrabecsülésünkről biztosítsuk.'
+
+Van szerencsém megerősíteni, hogy az Önök levelében foglalt javaslatokkal a Magyar Köztársaság Kormánya egyetért. Az Önök levele és ez a válaszlevél megállapodást képez a Magyar Köztársaság Kormánya és a Benelux országok Kormányai között a vízumkötelezettség megszüntetéséről, amely 1991. február 1-jén lép hatályba.''
+
+## 4. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. február 1. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Az értesítés megtörtént, a közzétételt lásd a Magyar Közlöny 1991. évi 114. számában.
+[^2]: A 4. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 19. pontja szerint módosított szöveg.

@@ -1,0 +1,118 @@
+---
+title: "23/2004. (II. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Perui Köztársaság Kormánya közötti mezőgazdasági együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "23/2004. (II. 20.) Korm. rendelet"
+njt_id: "2004-23-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/23"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-02-20
+in_force_from: 2004-02-20
+last_amended: 2004-02-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-23-20-22"
+retrieved: 2026-10-12
+---
+
+# 23/2004. (II. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Perui Köztársaság Kormánya közötti mezőgazdasági együttműködésről szóló egyezmény kihirdetéséről
+
+## (A diplomáciai jegyzékváltás 1999. június 14-én megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Perui Köztársaság Kormánya közötti mezőgazdasági együttműködésről szóló, Budapesten, 1998. szeptember 14-én aláírt egyezményt e rendelettel kihirdeti.
+
+### 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény a Magyar Köztársaság Kormánya\
+és a Perui Köztársaság Kormánya közötti Mezőgazdasági Együttműködésről
+
+A Magyar Köztársaság Kormánya és a Perui Köztársaság Kormánya (a továbbiakban: Felek),
+
+a két nemzet közötti baráti szálak szorosabbra fűzésének óhajától vezéreltetve,
+
+annak tudatában, hogy érdekükben áll a műszaki és tudományos haladás mindkét fél javát szolgáló előmozdítása és fejlesztése,
+
+tekintettel közös érdekeltségükre abban, hogy ösztönözzék a tudományos kutatást, a fenntartható fejlődést és a technológia átadást az agrárium területén, lehetővé téve mindkét országban ezen erőforrások felelősségteljes hasznosításának biztosítását,
+
+egyetértésre jutottak, hogy megkötik a jelen Mezőgazdasági Együttműködési Egyezményt.
+
+*I. Cikkely*
+
+Jelen Egyezmény célja a két ország közötti mezőgazdasági témájú műszaki és tudományos együttműködés előmozdítása programok és projektek kidolgozása és végrehajtása útján a gyümölcstermesztés, a zöldségtermesztés, a gabonafélék, a hüvelyesek, a gumós növények, az embriótranszplantáció, a biotechnológia, az állattenyésztés, a növény- és állategészségügy, az agráripari kultúrák, a termékértékesítés területén, valamint a felek érdeklődésére számot tartó más területeken.
+
+*II. Cikkely*
+
+A Felek a jelen Egyezmény alapján kiegészítő megállapodásokat köthetnek, amelyekben pontosíthatják a célokat, a munkák ütemterveit, a Felek kötelezettségeit, a finanszírozási kérdéseket, az ágazati szerveket és/vagy függőségeket, a projektek végrehajtásának felelőseit és az egyes műveleti tervek kidolgozásának határidőit.
+
+*III. Cikkely*
+
+A projektek ezen kívül kiterjedhetnek a többi között az alábbi együttműködési formákra:
+
+*a)* az agrárszektor gazdasági és társadalmi fejlődését elősegítő kutatási, képzési és képesítési tevékenységek közös és összehangolt megvalósítása;
+
+*b)* szemináriumok és konferenciák szervezése, tudományos információcsere az I. Cikkelyben megjelölt területeken és általános agrárdokumentáció csere;
+
+*c)* bármely egyéb műszaki együttműködési forma, amelynek célja a Felek agrárfejlődésének előmozdítása.
+
+*IV. Cikkely*
+
+A Felek a műszaki együttműködés különféle formáit e célból létrehozandó agrárprojektek keretében valósítják meg
+
+*a)* szakosító, szakmai továbbképző és műszaki gyakorlat szerzési tanulmányi ösztöndíjak biztosításával;
+
+*b)* szakértők, kutatók, szakemberek kérdésével szakirányú konzultánsi és tanácsadói szolgáltatás nyújtása céljából;
+
+*c)* eszközök és anyagok cseréjével;
+
+*d)* információ- és tapasztalatcserével.
+
+*V. Cikkely*
+
+A Felek az I., III. és IV. Cikkelyben említett műszaki együttműködési formák körébe illeszkedő projektek végrehajtásához a nemzeti törvényeikben, valamint a vonatkozó kiegészítő megállapodásokban rögzítettekkel összhangban kérhetik nemzetközi szervek részvételét a projektekben, illetve azok finanszírozásában.
+
+*VI. Cikkely*
+
+A Felek kijelölik a II. Cikkelyben rögzített műszaki együttműködési projektekkel kapcsolatos egyeztetést végző képviselőiket, és gondoskodnak a szükséges hivatalos lépések megtételéről a saját országukban a témára vonatkozóan hatályos törvényi szabályozással összhangban.
+
+*VII. Cikkely*
+
+A képviselők közös elhatározásból és meghatározott időszakonként összeülnek
+
+*a)* a jelen Egyezmény és az azt kiegészítő megállapodások végrehajtásának előmozdítása, megkönnyítése és adott esetben ellenőrzése,
+
+*b)* a megvalósítás ütemének figyelemmel kísérése és az e célt szolgáló agrárprojektek tökéletesítésének előmozdítása,
+
+*c)* az e célt szolgáló agrárprojektek végrehajtása során elért eredmények kiértékelése
+
+céljából.
+
+*VIII. Cikkely*
+
+Jelen Egyezmény értelmezésével és végrehajtásával kapcsolatban felmerülő bármely nézeteltérést a Felek diplomáciai úton oldanak meg.
+
+*IX. Cikkely*
+
+Jelen Egyezmény három évig marad hatályban. A Felek diplomáciai úton értesítik egymást, hogy eleget tettek az Egyezmény hatálybalépéséhez szükséges belső jogi előírásaiknak. Az Egyezmény a későbbi jegyzék keltének napján lép hatályba.
+
+*X. Cikkely*
+
+Jelen Egyezményt a Felek hallgatólagosan kétévenként meghosszabbítják, kivéve, ha a Felek valamelyike az adott időszak lejárta előtt legalább hat hónappal azt a másik Félnek felmondja.
+
+Kelt Budapesten, 1998. szeptember 14-én, magyar és spanyol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Perui Köztársaság\
+Kormánya nevében''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1999. június 14. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.

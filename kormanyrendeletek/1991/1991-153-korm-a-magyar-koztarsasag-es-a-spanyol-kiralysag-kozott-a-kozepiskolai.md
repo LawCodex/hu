@@ -1,0 +1,232 @@
+---
+title: "153/1991. (XII. 10.) Korm. rendelet a Magyar Köztársaság és a Spanyol Királyság között a középiskolai bizonyítványok, felsőoktatásban szerzett oklevelek és a tudományos fokozatok kölcsönös elismeréséről szóló, Budapesten, 1989. november 9-én aláírt Egyezmény kihirdetéséről"
+identifier: "153/1991. (XII. 10.) Korm. rendelet"
+njt_id: "1991-153-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/153"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-12-10
+in_force_from: 1991-12-10
+last_amended: 1991-12-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-153-20-22"
+retrieved: 2026-10-12
+---
+
+# 153/1991. (XII. 10.) Korm. rendelet a Magyar Köztársaság és a Spanyol Királyság között a középiskolai bizonyítványok, felsőoktatásban szerzett oklevelek és a tudományos fokozatok kölcsönös elismeréséről szóló, Budapesten, 1989. november 9-én aláírt Egyezmény kihirdetéséről
+
+*(Az Egyezmény megerősítéséről szóló jegyzékváltás az 1991. évi szeptember hó 3. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és a Spanyol Királyság között a középiskolai bizonyítványok, felsőoktatásban szerzett oklevelek és a tudományos fokozatok kölcsönös elismeréséről szóló, Budapesten, 1989. november 9-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+**,,EGYEZMÉNY**
+
+a Magyar Köztársaság és a Spanyol Királyság között\
+a középiskolai bizonyítványok, felsőoktatásban szerzett oklevelek és a tudományos fokozatok kölcsönös elismeréséről
+
+A Magyar Köztársaság és a Spanyol Királyság (a továbbiakban: Szerződő Felek) attól az óhajtól vezérelve, hogy fejlesszék a két állam együttműködését a tudomány és az oktatás területén, s abból az elhatározásból kiindulva, hogy erősítsék és ösztönözzék kapcsolataikat az Európai Biztonsági és Együttműködési Konferencia záróokmánya alapján, valamint az 1979. évi november 27-én aláírt Magyar—Spanyol Kulturális és Tudományos Megállapodás X. Cikkére figyelemmel a következőkben állapodtak meg:
+
+*1. Cikk*
+
+(1) A Szerződő Felek kölcsönösen elismerték egymás érettségi bizonyítványát: a Magyar Köztársaságban kiadott érettségi bizonyítványt, a Spanyol Királyságban kiadott ,,titulo de bachillerato''-t.
+
+(2) A magyar oktatási rendszerben szerzett érettségi bizonyítvány és a spanyol oktatási rendszerben szerzett, az Egyetemi Előkészítő Tanfolyam (Curso de Orientación Universitaria — COU) elvégzését tanúsító okirat felsőfokú tanulmányok folytatatására jogosít a másik fél országában, a fogadó ország hallgatói számára előírt azonos feltételek mellett.
+
+*2. Cikk*
+
+(1) A Szerződő Felek kölcsönösen elismerik az I. számú mellékletben felsorolt szakirányokban a Magyar Köztársaság egyetemein kiadott okleveleket és a Spanyol Királyság egyetemein kiállított ,,licenciado'', ,,ingeniero'' (mérnök) és ,,arquitecto'' (építész) egyetemi fokozatokat.
+
+(2) Az előző bekezdésben említett egyetemi oklevelek és egyetemi fokozatok a következő Cikkben meghatározott egyetemi doktori fokozatok megszerzését célzó tanulmányok folytatására jogosítanak.
+
+*3. Cikk*
+
+A Szerződő Felek a II. számú mellékletben felsorolt tudományágak területén kölcsönösen egyenértékűnek ismerik el a Magyar Köztársaság egyetemei által adományozott egyetemi doktori fokozatot (doctor universitatis) és a Spanyol Királyság egyetemei által adományozott ,,doctor'' fokozatot.
+
+*4. Cikk*
+
+Mindkét Szerződő Fél három személyt jelöl ki abba a szakértői bizottságba, amely a jelen Egyezmény aláírásától számított tizenkét hónapon belül kidolgozza a 2. Cikknek megfelelően az I. számú, illetőleg a 3. Cikknek megfelelően a II. számú mellékleteket. A mellékletek jegyzékváltás útján a jelen Egyezmény részeivé válnak.
+
+*5. Cikk*
+
+A jelen Egyezmény hatálya a *III. számú mellékletben* (a Magyar Köztársaság egyetemei) és a *IV. számú mellékletben* (a Spanyol Királyság egyetemei) felsorolt egyetemekre terjed ki.
+
+*6. Cikk*
+
+A jelen Egyezmény szellemének megfelelő együttműködés a Szerződő Felek országaiban érvényes jogszabályok tiszteletben tartásával valósul meg.
+
+*7. Cikk*
+
+A Szerződő Felek rendszeresen tájékoztatják egymást a középiskolai bizonyítványok, a felsőoktatásban szerzett oklevelek és tudományos fokozatok elnyerésének feltételeiben és az oktatási rendszerben bekövetkezett változásokról.
+
+*8. Cikk*
+
+(1) A jelen Egyezményt a Szerződő Felek kiegészíthetik. E célból vállalják, hogy tanulmányozni fogják az 1—3. Cikkben nem szereplő, más közép- és felsőfokú oktatásban megszerezhető bizonyítványok, oklevelek lehetséges egyenértékűségét, különös tekintettel a szakmai képzésre, azzal a céllal, hogy a jelen Egyezmény tartalmát az említett bizonyítványok, oklevelek kölcsönös elismerésével kibővítsék.
+
+Ebben az összefüggésben fogják figyelembe venni a magyar ,,tudomány kandidátusa'' és a ,,tudomány doktora'' fokozatok és a megfelelő spanyol ,,doctor'' fokozat egyenértékűségét.
+
+(2) Az előző bekezdés alapján létrejött egyenértékűségi megállapodások jegyzékváltás útján a jelen Egyezmény részévé válnak.
+
+*9. Cikk*
+
+(1) A jelen Egyezmény akkor lép hatályba, amikor a Szerződő Felek kölcsönösen tájékoztatják egymást arról, hogy eleget tettek a nemzetközi egyezmények kötésére és hatálybalépésére vonatkozó alkotmányjogi előírásoknak.
+
+(2) A jelen Egyezményt diplomáciai úton írásban lehet felmondani. A felmondás a másik Szerződő Félnek történő átadásától számított egy év elteltével lép hatályba.
+
+Készült Budapesten, 1989. november 9-én, két eredeti példányban, mind a kettő spanyol és magyar nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+(Aláírások)
+
+*III. számú melléklet*
+
+**A Magyar Köztársaság Egyetemei**
+
+Budapesti Közgazdaságtudományi Egyetem
+
+Budapesti Műszaki Egyetem
+
+Eötvös Loránd Tudományegyetem (Budapest)
+
+Janus Pannonius Tudományegyetem (Pécs)
+
+József Attila Tudományegyetem (Szeged)
+
+Kossuth Lajos Tudományegyetem (Debrecen)
+
+Liszt Ferenc Zeneművészeti Főiskola (Budapest)
+
+Magyar Iparművészeti Főiskola (Budapest)
+
+Magyar Képzőművészeti Főiskola (Budapest)
+
+Magyar Testnevelési Egyetem (Budapest)
+
+Miskolci Egyetem
+
+Színház- és Filmművészeti Főiskola (Budapest)
+
+Veszprémi Egyetem
+
+Agrártudományi Egyetem (Debrecen)
+
+Állatorvostudományi Egyetem (Budapest)
+
+Erdészeti és Faipari Egyetem (Sopron)
+
+Gödöllői Agrártudományi Egyetem
+
+Kertészeti és Élelmiszeripari Egyetem (Budapest)
+
+Pannon Agrártudományi Egyetem (Keszthely)
+
+Debreceni Orvostudományi Egyetem
+
+Orvostovábbképző Egyetem (Budapest)
+
+Pécsi Orvostudományi Egyetem
+
+Semmelweis Orvostudományi Egyetem (Budapest)
+
+Szent-Györgyi Albert Orvostudományi Egyetem (Szeged)
+
+*IV. számú melléklet*
+
+**A Spanyol Királyság Egyetemei**
+
+*A) Állami Egyetemek*
+
+Universidad de Alcalá de Henares
+
+Universidad de Alicante
+
+Universidad de las Islas Baleares
+
+Universidad Autonóma de Barcelona
+
+Universidad de Barcelona
+
+Universidad Plitécnica de Cataluna
+
+Universidad de Cádiz
+
+Universidad Politécnica de Canarias
+
+Universidad de Cantabria
+
+Universidad de Castilla la Mancha
+
+Universidad de Cordoba
+
+Universidad de Extremadura
+
+Universidad de Granada
+
+Universidad de la Coruna
+
+Universidad de la Laguna
+
+Universidad de Leon
+
+Universidad Autonoma de Madrid
+
+Universidad ,,Carlos III'' de Madrid
+
+Universidad Complutense de Madrid
+
+Universidad Politécnica de Madrid
+
+Universidad de Málaga
+
+Universidad de Murcia
+
+Universidad Publica de Navarra
+
+Universidad de Oviedo
+
+Universidad del Pais Vasco
+
+Universidad de Salamanca
+
+Universidad de Santiago de Compostela
+
+Universidad de Sevilla
+
+Universidad de Valencia
+
+Universidad Politécnica de Valencia
+
+Universidad de Valladolid
+
+Universidad de Vigo
+
+Universidad de Zaragoza
+
+Universidad Nacional de Aducacion a Distancia
+
+*B) Egyházi Egyetemek*
+
+(Csak az effectus civilis szempontjából elismert tanulmányok esetén.)
+
+Universidad Pontificia de Comillas (székhelye: Madrid)
+
+Universidad de Deusto
+
+Universidad Pontificia de Salamanca
+
+Universidad de Navarra''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1991. évi szeptember hó 3. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról az oktatási miniszter [^1] gondoskodik.
+
+---
+
+[^1]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének a) pontját.

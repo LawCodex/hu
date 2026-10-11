@@ -1,0 +1,303 @@
+---
+title: "170/1996. (XI. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között Budapesten, 1996. január 24-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény kihirdetéséről"
+identifier: "170/1996. (XI. 26.) Korm. rendelet"
+njt_id: "1996-170-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/170"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-11-26
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-170-20-22"
+retrieved: 2026-10-12
+---
+
+# 170/1996. (XI. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között Budapesten, 1996. január 24-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1996. augusztus 2. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között Budapesten, 1996. január 24-én aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról
+
+A Magyar Köztársaság Kormánya és az Albán Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+attól az óhajtól vezérelve, hogy fejlesszék az országaik közötti közúti személyszállítást és árufuvarozást,
+
+szem előtt tartva, hogy közös érdek a határátkelőkhöz vezető megfelelő közúti kapcsolatok fejlesztése, kellő figyelmet szentelve a környezetvédelmi és forgalombiztonsági követelményeknek,
+
+attól az óhajtól vezérelve, hogy segítsék a területükön áthaladó forgalmat,
+
+az alábbiakról állapodtak meg:
+
+I. Fejezet
+
+*1. Cikk*
+
+*Fogalommeghatározások*
+
+Az Egyezmény szempontjából
+
+*a) fuvarozó:* a Szerződő Felek egyikében bejegyzett olyan természetes vagy jogi személy, illetőleg jogi személyiség nélküli gazdasági társaság, amely saját számlára vagy díj ellenében a vonatkozó hazai jogszabályokkal és rendelkezésekkel összhangban közúti fuvarozás végzésére jogosult;
+
+*b) a gépjármű*
+
+*(i)* *személyszállítás esetén:* autóbusz vagy bármely személyszállításra szolgáló gépi meghajtású közúti jármű, amely a műszaki követelményeknek megfelelően a vezetőt is beleértve több mint kilenc személy szállítására alkalmas, valamint a poggyász fuvarozására szolgáló pótkocsi, amelyeket valamelyik Szerződő Fél területén tartanak nyilván,
+
+*(ii)* *árufuvarozás esetén*: bármely árufuvarozásra szolgáló gépi meghajtású közúti jármű, amelyet a műszaki követelményeknek megfelelően árufuvarozásra alakítottak ki, beleértve bármely ahhoz kapcsolt pótkocsit vagy félpótkocsit, amelyeket valamelyik Szerződő Fél területén tartanak nyilván;
+
+*c) menetrend szerinti autóbusszal történő személyszállítás:* a Szerződő Felek területén bejegyzett autóbusszal előre meghatározott és közzétett menetrend, útvonal, díjszabás és feltételek szerint végzett olyan rendszeres személyszállítás, ahol az utasok előre meghatározott megállókban fel- és leszállhatnak;
+
+*d) nem menetrend szerinti autóbusszal történő személyszállítás:* a Szerződő Felek bármelyikének területén bejegyzett járművel végzett olyan személyszállítás, amelynek során ugyanaz a gépjármű szállítja az utasok ugyanazon csoportját az egész útvonalon, és visszaszállítja őket az autóbuszt nyilvántartó Szerződő Fél területén lévő kiindulási pontra,
+
+vagy a végpontra utasokat szállít és üresen tér vissza a kiindulási pontra,
+
+vagy üresen lép ki és a végpontról utasokat szállít vissza a kiindulási pontra;
+
+*e) autóbusszal történő ingajárati személyszállítás:* a Szerződő Felek területén bejegyzett autóbusszal végzett olyan személyszállítás, amelynek során az utasok előre kialakított csoportját ismétlő oda- és visszaút során, az autóbuszt nyilvántartó Szerződő Fél területén levő ugyanazon kiindulási pontról a másik Szerződő Fél területén lévő ugyanazon végpontra szállítják, feltéve, hogy az első út során az autóbusz üresen tér vissza, és az utolsó út során az autóbusz üresen lép be a másik Szerződő Fél területére;
+
+*f) cabotage fuvarozás:* az egyik Szerződő Fél fuvarozója által a másik Szerződő Fél területén lévő kiindulási és végpont között végzett személyszállítást és árufuvarozást jelent.
+
+*2. Cikk*
+
+*Az Egyezmény hatálya*
+
+1\. Ezen Egyezmény rendelkezései a díj ellenében vagy saját számlára bármely Szerződő Fél területén bejegyzett gépjárművel végzett, a Szerződő Felek területe között, az azokon áthaladó, valamint a harmadik országba irányuló vagy onnan kiinduló nemzetközi közúti személyszállításra és árufuvarozásra vonatkoznak.
+
+2\. Az Egyezmény rendelkezései nem érintik a Szerződő Felek azon jogait és kötelezettségeit, amelyeket az általuk már elfogadott egyezmények, megállapodások és jogszabályok rögzítenek.
+
+*3. Cikk*
+
+*Vegyesbizottság*
+
+1\. Ezen Egyezmény alkalmazásának ellenőrzése, a közúti árufuvarozási engedélyek mennyiségének kölcsönös meghatározása és a vitás kérdések rendezése érdekében a Szerződő Felek Vegyesbizottságot hoznak létre, amely a Szerződő Felek illetékes hatóságainak képviselőiből áll.
+
+2\. Az illetékes hatóság a Magyar Köztársaság esetében a Közlekedési, Hírközlési és Vízügyi Minisztérium (1077 Budapest, Dob u. 75–81.), az Albán Köztársaság esetében az Ipari, Közlekedési és Kereskedelmi Minisztérium (Tirana, Abdi Toptani u. 4.).
+
+II. Fejezet
+
+*SZEMÉLYSZÁLLÍTÁS*
+
+*4. Cikk*
+
+*Menetrend szerinti személyszállitás[^1]*
+
+1\. Az 1. Cikk *c)* pontjában meghatározott menetrend szerinti személyszállítás a Szerződő Felek illetékes hatóságai közötti megállapodás alapján bonyolódik. A fuvarozók menetrend szerinti személyszállítást csak a mindkét Szerződő Fél által jóváhagyott engedély, illetőleg koncesszió alapján végezhetnek.
+
+2\. Az egyik Szerződő Fél illetékes hatósága az általa jóváhagyott kérelmet két példányban megküldi a másik Szerződő Fél illetékes hatóságának a lehető legrövidebb időn belüli elbírálás céljából.
+
+A kérelemnek tartalmaznia kell az üzemeltető:
+
+– nevét és címét,
+
+– a választott útvonalat és távolságokat,
+
+– a menetrendet,
+
+– a viteldíjakat,
+
+– az utasok felvételére és lerakására szolgáló megállási pontokat,
+
+– a szállítás tervezett gyakoriságát és időszakát.
+
+A Szerződő Felek illetékes hatósága az általa szükségesnek ítélt egyéb adatokat is kérhet.
+
+3\. A Szerződő Felek illetékes hatósága a menetrend szerinti személyszállításra jogosító engedélyeket saját területükre díj és ellenszolgáltatás nélkül adja ki. Ezen engedélyek érvényességi időtartamáról a Szerződő Felek illetékes hatóságai állapodnak meg.
+
+*5. Cikk*
+
+*Nem menetrend szerinti személyszállítás*
+
+1\. A Szerződő Felek területei között végzett nem menetrend szerinti személyszállítás esetén nem szükséges engedély ugyanazon utasoknak ugyanazon autóbusszal végzett
+
+*a)* az 1. Cikk *d)* pontjában meghatározott nem menetrend szerinti autóbusszal történő személyszállításra;
+
+*b)* ha az autóbuszt meghibásodása miatt másik autóbusszal kell helyettesíteni.
+
+2\. A másik Szerződő Fél illetékes hatósága által kibocsátott engedély szükséges
+
+*a)* az 1. Cikk *e)* pontjában meghatározott ingajárati személyszállításra;
+
+*b)* a másik Szerződő Fél területén bejegyzett üres autóbusz belépésére;
+
+*c)* az egyéb nem menetrend szerinti személyszállításokra.
+
+3\. Jelen Cikk 1. és 2. pontjaiban jelzett személyszállítás esetén az autóbusz vezetőjének utaslistával és menetlevéllel kell rendelkeznie.
+
+4\. Jelen Cikk és a 4. Cikk szerinti személyszállítás esetében a jármű vezetőjének a következő adatokat tartalmazó iratokkal kell rendelkeznie:
+
+*a)* az engedélyokirat azonosító száma,
+
+*b)* a személyszállítást végző gépjármű forgalmi rendszáma,
+
+*c)* a megengedett maximális utaslétszám,
+
+*d)* az útvonal kezdő- és végpontja,
+
+*e)* üres hely a vámhatósági pecsét számára,
+
+*f)* bármely más, bármelyik Szerződő Fél illetékes hatósága által a saját fuvarozóiktól megkövetelt információ.
+
+III. Fejezet
+
+*ÁRUFUVAROZÁS*
+
+*6. Cikk*
+
+*Árufuvarozási feltételek*
+
+1\. A Szerződő Felek területén nyilvántartott gépjárművel
+
+– a Szerződő Felek területe között,
+
+– a másik Szerződő Fél területén áthaladó, valamint
+
+– a harmadik országba irányuló és az onnan kiinduló árufuvarozások
+
+az előzetesen kiadott engedélyek alapján végezhetők.
+
+2\. Az engedélyek egy oda- és visszaútra jogosítanak.
+
+3\. Az engedélyeket a fuvarozó nevére állítják ki, és azok nem átruházhatók.
+
+4\. Az engedélyek adómentesek és adókötelesek lehetnek. Az adómentes engedélyek a Magyar Köztársaság területén a gépjárműadó, az Albán Köztársaság területén a közúti járműadó alól mentesítenek.
+
+5\. A Szerződő Felek illetékes hatóságai, az Egyezmény 3. Cikkével létrehozott Vegyesbizottság útján közös megegyezéssel határozzák meg az adóköteles és adómentes engedélyek éves kontingensét.
+
+6\. Az e Cikkben meghatározott engedélyeket a másik Szerződő Fél területén végzett árufuvarozás során a gépjárművön kell tartani, és azokat az ellenőrzésre jogosult hatóság felszólítására fel kell mutatni.
+
+7\. A közúti fuvarozási engedélyek egy naptári évig és következő év január 31. napjáig érvényesek.
+
+*7. Cikk*
+
+*Mentességek*
+
+Adómentesen és közúti fuvarozási engedély nélkül végezhetők a következő fuvarozások:
+
+*a)* költözködési ingóságok fuvarozása;
+
+*b)* áruk alkalmi szállítása a repülőterekre vagy azokról, a repülőjáratok alkalmi átirányítása esetén;
+
+*c)* poggyászfuvarozás a személyszállító gépjárművekhez kapcsolt utánfutókban;
+
+*d)* postai küldemények fuvarozása;
+
+*e)* sérült vagy meghibásodott gépjárművek fuvarozása;
+
+*f)* színházi, zenei, filmművészeti, cirkuszi előadásokhoz, sporteseményekhez, kiállításokhoz vagy vásárokhoz, illetve rádió- és televízióközvetítésekhez szükséges anyagok, tárgyak, berendezések és élő állatok fuvarozása;
+
+*g)* kizárólagosan reklám és tájékoztatás céljára szánt anyagok és felszerelések fuvarozása;
+
+*h)* olyan árufuvarozás, ahol a gépjármű legnagyobb össztömege, az utánfutót is beleértve, 6 tonnát, vagy hasznos terhelése, beleértve az utánfutót is, a 3,5 tonnát nem haladja meg;
+
+*i)* rendkívüli segélyszállítmányok fuvarozása elemi csapás, szerencsétlenség vagy katasztrófa esetén;
+
+*j)* elhunytak földi maradványait tartalmazó koporsók vagy urnák fuvarozása;
+
+*k)* saját számlás árufuvarozás;
+
+*l)* gépjárművek üresen történő közlekedése;
+
+*m)* kombinált (intermodális) közlekedés esetén a határátlépés helyétől vagy az áru feladási helyétől az útirány szerinti legközelebbi, attól légvonalban legfeljebb 70 km-es körzethatáron belül található terminálig (vasúti, belvízi), illetve ezen termináltól a legközelebbi, attól légvonalban legfeljebb 70 km-es körzethatáron belül található rendeltetési helyig, vagy az útirány szerinti legközelebbi határátlépési helyig történő fuvarozás.
+
+*8. Cikk*
+
+*Gépjárművek tömege, méretei és műszaki követelményei*
+
+1\. A gépjárművek tömege, méretei és műszaki követelményei vonatkozásában mindegyik Szerződő Fél kötelezi magát arra, hogy a másik Szerződő Fél területén nyilvántartott gépjárművek esetében a saját területükön nyilvántartott gépjárművekre alkalmazott előírásoknál szigorúbbat nem foganatosítanak.
+
+2\. Ha a gépjármű vagy a gépjárműszerelvény tömege és méretei meghaladják a másik Szerződő Fél területén engedélyezett mértéket, a fuvarozás megkezdése előtt külön engedélyt kell beszerezni az utóbbi Szerződő Fél illetékes szervétől.
+
+3\. Ha a 2. pontban meghatározott műveletek céljából kiadott engedély külön útvonalat ír elő, úgy a fuvarozást csak az engedélyezett útvonalon lehet elvégezni.
+
+IV. Fejezet
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*9. Cikk*
+
+*Cabotage*
+
+Tilos a cabogate személyszállítás és árufuvarozás. A Szerződő Felek illetékes hatóságai azonban egyes esetekben engedélyt adhatnak ki ilyen fuvarozásra.
+
+*10. Cikk*
+
+*Különleges áruk fuvarozása*
+
+1\. A Szerződő Felek illetékes hatóságai a menetrend szerinti autóbuszoknál és az élő állatokat, gyorsan romló, valamint veszélyes árukat szállító gépjárműveknél a határ-, vám- és egészségügyi ellenőrzést soron kívül elvégzik.
+
+2\. Veszélyes áruk fuvarozásához, szükség esetén a Szerződő Felek illetékes hatóságai speciális engedélyt adnak ki. A Szerződő Felek illetékes hatóságai a kézhezvételtől számított 10 napon belül kötelesek választ adni az ilyen speciális engedélykérelemre. A Szerződő Felek illetékes hatóságai területükön útvonalat jelölhetnek ki a veszélyes áruk fuvarozására. A Szerződő Felek megállapodnak abban, hogy a veszélyes áruk fuvarozása során a Veszélyes Áruk Közúti Fuvarozásáról szóló Egyezmény (ADR) rendelkezéseit területükön kölcsönösen alkalmazzák.
+
+*11. Cikk*
+
+*Pénzügyi rendelkezések*
+
+1\. Jelen Egyezmény rendelkezései alapján a másik Szerződő Fél területén személyszállítást végző gépjármű, naptári évenként 60 napig mentes a gépjárműadó alól.
+
+2\. A jelen Egyezmény 6. Cikkében említett adómentes engedéllyel közlekedő járművek mentesek a másik Szerződő Fél területén a jármű tulajdonlásával és használatával kapcsolatos adó és díj alól.
+
+3\. A jelen Egyezmény nem mentesít az üzemanyaggal kapcsolatos adók és illetékek, a közlekedési szolgáltatásokkal kapcsolatos általános forgalmi adó, valamint az úthasználati díjak, illetve egyéb használati díjak alól. Ugyancsak nem mentesít az olyan pénzbírságok alól, amelyeket a Szerződő Fél jogszabályai a gépjárművek megengedett össztömegének és tengelyterhelésének túllépésére állapítanak meg.
+
+4\. A jelen Egyezmény alapján közlekedő járművek részére a másik Szerződő Fél területére bevitt pótalkatrészek, valamint ezen járművek javítására bevitt alkatrészek vám- és illetékmentesek. A kicserélt alkatrészeket vissza kell szállítani a gépjárművet bejegyző országba, vagy a vámhatóságok ellenőrzése mellett meg kell semmisíteni, vagy az állam javára ellenszolgáltatás nélkül fel kell ajánlani.
+
+5\. Mentes a vámok és illetékek alól a gépjárművek e célra gyárilag rendszeresített tartályába elhelyezett üzemanyag, legfeljebb 200 liter mennyiségben.
+
+*12. Cikk*
+
+*Az Egyezmény megszegése*
+
+1\. Ha az egyik Szerződő Fél fuvarozója a másik Szerződő Fél területén történő tartózkodása alatt súlyosan vagy ismételten megszegi az Egyezmény rendelkezéseit, az a Szerződő Fél, amelynek területén az Egyezményt megszegték, a következő intézkedéseket foganatosíthatja:
+
+*a)* figyelmeztetés;
+
+*b)* a figyelmeztetéssel együtt közleményt ad ki, hogy bármilyen hasonló megszegés
+
+*(i)* a fuvarozónak kiadott engedély vagy engedélyek visszavonásához,
+
+*(ii)* ha engedélyt nem írnak elő, a fuvarozó tulajdonában lévő vagy általa üzemeltetett gépjárműnek, annak a Szerződő Félnek a területéről, ahol a megszegést elkövették, az ideiglenes vagy állandó kitiltáshoz vezethet;
+
+*c)* a visszavonásról vagy kitiltásról közleményt ad ki;
+
+és felkérheti a másik Szerződő Fél illetékes hatóságát arra, hogy közölje döntését a fuvarozóval és az e Cikk 1. *c)* pontjában rögzített esetben határozott vagy határozatlan időtartamra függessze fel részére az engedélyek kiadását.
+
+2\. E Cikk rendelkezései nem befolyásolják azokat a törvényes intézkedéseket, amelyeket annak a Szerződő Félnek a bíróságai vagy illetékes hatóságai alkalmaznak, ahol a megszegés történt.
+
+V. Fejezet
+
+*ZÁRÓ RENDELKEZÉSEK*
+
+*13. Cikk*
+
+*Hatálybalépés és felmondás*
+
+1\. A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy eleget tettek az Egyezmény hatálybalépésére vonatkozó alkotmányos előírásaiknak.
+
+2\. Az Egyezmény a későbbi értesítés kézhezvételétől számított 30. napon lép hatályba. Az Egyezmény hatálybalépésével hatályát veszti a Magyar Népköztársaság Kormánya és az Albán Népköztársaság Kormánya között a nemzetközi közúti árufuvarozás tárgyában Budapesten, 1973. október 3-án aláírt Egyezmény.
+
+3\. Az Egyezményt a Szerződő Felek határozatlan időre kötik. Az Egyezményt bármely Szerződő Fél a naptári év vége előtt legalább hat hónappal írásban felmondhatja, s ebben az esetben az Egyezmény az adott év leteltével hatályát veszti.
+
+Készült Tiranában, az 1996. évi január hó 24. napján, magyar, albán, angol nyelven, mindhárom szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya nevében
+
+Az Albán Köztársaság Kormánya nevében''
+
+## 3. §
+
+(1)[^2] Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1996. szeptember 2-tól kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1996. évi 108. számában közzétett helyesbítésnek megfelelő szöveg.
+[^2]: A 3. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1369. pontja hatályon kívül helyezte.

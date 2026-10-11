@@ -1,0 +1,152 @@
+---
+title: "117/1998. (VI. 16.) Korm. rendelet egyes egészségügyi ellátások visszautasításának részletes szabályairól"
+identifier: "117/1998. (VI. 16.) Korm. rendelet"
+njt_id: "1998-117-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/117"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-06-16
+in_force_from: 1998-07-01
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-117-20-22"
+retrieved: 2026-10-12
+---
+
+# 117/1998. (VI. 16.) Korm. rendelet egyes egészségügyi ellátások visszautasításának részletes szabályairól
+
+A Kormány az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 247. §-a (1) bekezdésének *a)* pontjában foglalt felhatalmazás alapján a következőket rendeli el:
+
+## 1. §
+
+E rendeletet kell alkalmazni
+
+a) életmentő, életfenntartó (a továbbiakban együtt: életfenntartó) beavatkozások visszautasítására [Eütv. 20. § (3) bekezdés], valamint
+
+b) olyan egészségügyi ellátások visszautasítására, amelyek elmaradása esetén a beteg egészségi állapotában várhatóan súlyos vagy maradandó károsodás következne be [Eütv. 20. § (2) bekezdés].
+
+## 2. §
+
+(1) Amennyiben a beteg az egészségügyi ellátás visszautasítására irányuló jogát gyakorolni kívánja, őt ismételten tájékoztatni kell döntésének várható következményeiről, illetve e jog gyakorlásának feltételeiről.
+
+(2) Ha a beteg az ellátás visszautasítására irányuló szándékát továbbra is fenntartja, haladéktalanul biztosítani kell számára e jog gyakorlásához szükséges törvényi feltételeket, azonban a közokirat elkészíttetésének költségei a beteget terhelik. Ennek keretében intézkedni kell annak érdekében, hogy a beteg nyilatkozatát az Eütv. által megkívánt alakiságok [Eütv. 20. § (2)–(3) bekezdés, 22. §] megtartásával tehesse meg. A betegnek az ellátás visszautasításáról szóló nyilatkozata, valamint a korábban tett – visszautasításról szóló – nyilatkozatának visszavonása az egészségügyi dokumentáció részét képezi.
+
+(3) Amennyiben az ellátás visszautasítására két tanú együttes jelenlétében kerül sor, arról a kezelőorvos jegyzőkönyvet vesz fel, amelyet a tanúkkal – és lehetőség szerint a beteggel – alá kell íratni. A kezelőorvos gondoskodik arról, hogy ha a beteg a visszautasítást követően – a gyógykezelés során – képessé válik rá, az ellátást visszautasító nyilatkozatát írásba foglalja.
+
+## 3. §
+
+(1) Az életfenntartó beavatkozás visszautasítása esetén az egészségügyi intézmény vezetője vagy az általa kijelölt személy gondoskodik az Eütv. 20. §-ának (4) bekezdése szerinti bizottság (a továbbiakban: Bizottság) haladéktalan összehívásáról.
+
+(2) A Bizottságnak a betegség jellegének megfelelő szakorvos tagja nyilatkozik arról, hogy a beteg olyan betegségben szenved-e, amely az Eütv. 20. §-ának (3) bekezdésében megfogalmazott kritériumoknak megfelel.
+
+(3) A Bizottság pszichiáter szakorvos tagja nyilatkozik arról, hogy a beteg rendelkezik-e a döntés meghozatalához szükséges belátási képességgel. A belátási képesség megállapítása során a beteget minden esetben, a beteg hozzátartozóját [Eütv. 16. § (2) bekezdés] lehetőség szerint meg kell hallgatni.
+
+(4) Ha a Bizottság döntését követő harmadik napon a beteg – két tanú előtt – ismételten kinyilvánítja az életfenntartó beavatkozás visszautasítására irányuló szándékát, akkor a visszautasított ellátást meg kell szüntetni, illetve azt meg sem lehet kezdeni.
+
+## 4. §
+
+A beteget az életfenntartó beavatkozás visszautasítása jogának gyakorlása során belátási képességgel rendelkezőnek kell tekinteni, ha képes döntése következményeinek megértésére. Ennek során a Bizottságnak azt kell vizsgálnia, hogy a beteg képes-e
+
+a) megérteni a döntéséhez szükséges információkat,
+
+b) mérlegelni döntésének esetleges következményei között,
+
+c) döntése következményeinek megértésére, valamint
+
+d) döntésének megfelelő formában, érthető módon való közlésére.
+
+## 5. §
+
+(1) Amennyiben a beteg az Eütv. 22. §-ában foglalt nyilatkozatot tett, a kezelőorvosnak az abban foglaltaknak megfelelően, illetve az abban megnevezett személy (a továbbiakban: helyettes döntéshozó) nyilatkozata alapján kell eljárnia.
+
+(2) A Bizottság a helyettes döntéshozó döntésével kapcsolatban írásban nyilatkozik arról, hogy a törvényi feltételek fennállnak-e, illetve a helyettes döntéshozó rendelkezik-e belátási képességgel [Eütv. 22. § (4) bekezdés *b)* pont].
+
+## 6. §
+
+(1) A Bizottság összehívásának rendjét az intézmény házirendje szabályozza. A szükséges vizsgálatok elvégzését követően a Bizottság az életfenntartó beavatkozás visszautasításának érvényességével kapcsolatos nyilatkozatát haladéktalanul, egyhangúlag hozza meg, amelyet írásba kell foglalni, és azt a Bizottság tagjai aláírásukkal ellátnak.
+
+(2) A Bizottság nyilatkozata meghozatalát megelőzően megkeresheti az intézményben működő etikai bizottságot állásfoglalás kérése céljából.
+
+(3) A Bizottság működése során azt is vizsgálja, hogy a beteg tájékoztatása megfelelt-e a törvényi követelményeknek.
+
+## 7. §
+
+(1) Amennyiben a Bizottság nem állapítja meg az életfenntartó beavatkozás visszautasításának érvényességét, a beteg, valamint a helyettes döntéshozó keresetet indíthat az életfenntartó beavatkozás visszautasításának érvényességét megállapító bírósági döntés iránt. A bíróság eljárására az Eütv. 21. §-ának (4) bekezdése az irányadó.
+
+(2) A beteg jogosult ismételten visszautasítani az életfenntartó beavatkozást, ha a Bizottság nem állapította meg az életfenntartó beavatkozás visszautasításának érvényességét.
+
+## 8. §
+
+(1) Az 5. § (1) bekezdés szerinti nyilatkozat (a továbbiakban: Nyilatkozat) másolati példányát a beteg átadhatja választott háziorvosának, aki azt a beteg egészségügyi dokumentációjában megőrzi.
+
+(2) A Nyilatkozatról a beteg – amennyiben erre képes – az egészségügyi intézménybe történő felvételekor, legkésőbb azonban az egészségügyi szolgáltatás nyújtásának megkezdése előtt tájékoztatja az egészségügyi szolgáltatót, illetve átadja részére a Nyilatkozat egy példányát.
+
+(3) Amennyiben az egészségügyi szolgáltató tudomással bír arról, hogy a beteg korábban tett Nyilatkozatot, de az nem áll rendelkezésére, és annak tartalmáról nem képes tájékoztatást adni – a sürgős szükség esetének kivételével – haladéktalanul intézkedik a Nyilatkozat beszerzése céljából, feltéve, hogy annak tárolási helye ismert.
+
+## 9. §
+
+(1) Amennyiben a beteg az ellátás visszautasításának jogát gyakorolta, a tájékoztatáshoz való jog (Eütv. 13. §) továbbra is megilleti, illetve ismételten javasolni kell számára az életfenntartó beavatkozás elvégzéséhez történő beleegyezést.
+
+(2) Ha a beteg továbbra is fenntartja az ellátás visszautasítására irányuló szándékát, számára továbbra is nyújtani kell minden olyan egyéb ellátást, amely biztosítja kényelemérzetét, fájdalmainak csökkentését.
+
+(3) Amennyiben a beteg erre irányuló akarata világosan és meggyőző módon kideríthető, az életfenntartó beavatkozások meghatározott fajtájáról való lemondás esetében is alkalmazni kell azokat az ellátásokat és el kell végezni azokat a beavatkozásokat, amelyeket a beteg nem utasított vissza.
+
+## 10. §
+
+(1) Az ellátás visszautasítása jogának gyakorlásához szükséges tárgyi feltételeket az egészségügyi szolgáltató fenntartójának kell biztosítania.
+
+(2) Az egészségügyi szolgáltatónak biztosítania kell a Bizottság szükség szerinti működését.
+
+## 11. §
+
+(1) Ez a rendelet 1998. július 1. napján lép hatályba.
+
+(2) Az ellátás visszautasításával kapcsolatos nyilatkozatot közokirat esetén közjegyző foglalja írásba. A közokirat kötelező tartalmi elemeit a *melléklet* tartalmazza.
+
+(3) A fogva tartott személy esetén az ellátás visszautasításáról külön jogszabály rendelkezik.
+
+## Melléklet a 117/1998. (VI. 16.) Korm. rendelethez
+
+**Az Eütv. 22. §-ának (1) bekezdésében megjelölt közokirat kötelező tartalmi elemei**
+
+1\. Az ellátás visszautasításáról nyilatkozatot tevő személy (a továbbiakban: érintett személy) személyazonosító adatai.
+
+2.[^1]
+
+3\. Az érintett személy betegsége/balesete esetén nem járul hozzá az alábbi diagnosztikus és/vagy terápiás eljárások alkalmazásához:**
+
+4\. Az érintett személy
+
+– nem járul hozzá, hogy cselekvőképtelensége esetén más személy további ellátásokat visszautasítson, vagy
+
+– hozzájárul ahhoz, hogy későbbi cselekvőképtelenné válása esetén ……… (személyazonosító adatok) helyette további ellátásokat visszautasítson, vagy teljes körben gyakorolja az ellátás visszautasításának jogát.
+
+5.[^2] Az érintett személy nyilatkozata arról, hogy akaratát annak tudatában nyilvánította ki, hogy
+
+– az általa visszautasított ellátások elmaradása egészségi állapotában súlyos vagy maradandó károsodást okozhat, illetve életét jelentősen megrövidítheti, vagy halálához vezethet,
+
+– amennyiben a 3. pont szerinti nyilatkozatból nem állapítható meg konkrétan a visszautasított ellátások köre vagy terjedelme, vélelmezni kell, hogy a konkrétan nem visszautasított ellátás nyújtható,
+
+– jelen nyilatkozata nem érvényes abban az esetben, ha olyan betegségben szenved, amely mások életét, testi épségét veszélyezteti.
+
+_______
+
+** A visszautasított ellátásokat tételesen kell nevesíteni, illetve oly módon rögzíteni, hogy az egészségügyi intézmény, illetőleg az orvos számára egyértelmű eligazítást adhasson. Így például:
+
+– ki kell tűnni, hogy a visszautasított ellátáshoz az érintett általános jelleggel nem járul hozzá, vagy konkrét esetben utasítja csak vissza (pl. az életfenntartó beavatkozások visszautasíthatók általános jelleggel, de visszautasíthatók úgy is, hogy az érintett meghatározza azt az időtartamot, amelyet követően már nem járul hozzá életének mesterséges meghosszabbításához, illetve meghatározza azt az egészségi állapotot – pl. a kezelés következtében megmaradt szellemi vagy fizikai képességének minimális szintjével –, amelynek bekövetkezését követően az ellátást visszautasítja),
+
+– a visszautasított ellátás meghatározható egy beavatkozási csoport meghatározásával (pl. amputáció) vagy egy konkrét beavatkozás kizárásával (pl. végtag- vagy mellamputáció),
+
+– a visszautasított ellátások meghatározhatók
+
+= a magyar nyelvben általánosan használt megnevezéssel (pl. vér vagy más vizsgálati anyag vétele, vér vagy vérkészítmény beadása, gyógyszeres kezelés általában vagy csak egyes gyógyszerekkel, műtéti beavatkozás kizárása általában vagy csak egyes konkrét műtétek tekintetében, mesterséges táplálás vagy lélegeztetés általában vagy időtartam, illetve esetszám meghatározásával),
+
+= tételesen az Orvosi Eljárások Nemzetközi Osztályozásában szereplő elnevezéssel, de ez esetben az egyes beavatkozásokat az általánosan ismert megnevezéssel is fel kell tüntetni,
+
+= a beavatkozások nevesítése nélkül a konkrét betegség megnevezésével általános jelleggel (pl. amennyiben rosszindulatú daganatos megbetegedésem lesz, nem járulok hozzá annak gyógykezeléséhez, vagy amennyiben olyan betegségem lesz, vagy baleset következtében olyan állapotba kerülök, hogy önmagam ellátására képtelen lennék, nem járulok hozzá a gyógykezelésemhez).
+
+---
+
+[^1]: A melléklet 2. pontját és az ahhoz kapcsolódó lábjegyzetet az Alkotmánybíróság a 24/2014. (VII. 22.) AB határozat 2. pontjával megsemmisítette 2014. július 23. napjával.
+[^2]: A melléklet 5. pontja a 364/2014. (XII. 30.) Korm. rendelet 22. §-a szerint módosított szöveg.

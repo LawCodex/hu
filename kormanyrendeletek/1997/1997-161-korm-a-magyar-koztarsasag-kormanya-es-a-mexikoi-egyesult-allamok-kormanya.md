@@ -1,0 +1,83 @@
+---
+title: "161/1997. (IX. 30.) Korm. rendelet a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya között a két állam állampolgárainak magánútleveleire vonatkozó vízumkényszer eltörléséről szóló, 1997. április 14-én jegyzékváltással létrejött Megállapodás kihirdetéséről"
+identifier: "161/1997. (IX. 30.) Korm. rendelet"
+njt_id: "1997-161-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/161"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-09-30
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-161-20-22"
+retrieved: 2026-10-12
+---
+
+# 161/1997. (IX. 30.) Korm. rendelet a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya között a két állam állampolgárainak magánútleveleire vonatkozó vízumkényszer eltörléséről szóló, 1997. április 14-én jegyzékváltással létrejött Megállapodás kihirdetéséről
+
+*(A Megállapodás megkötésére Mexikóvárosban, 1997. április 14-én jegyzékváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Mexikói Egyesült Államok Kormánya között a két állam állampolgárainak magánútleveleire vonatkozó 1997. április 14-én jegyzékváltással létrejött Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Magyar Köztársaság Külügyminisztériumának az 1. §-ban említett Megállapodást tartalmazó, a Mexikói Egyesült Államok Külügyminisztériumához intézett szóbeli jegyzéke a következő:
+
+,,Őexcellenciája Juhan Rebolledo Gout úr, a Mexikói Egyesült Államok kétoldalú kapcsolatokért felelős miniszterhelyettese részére
+
+Államtitkár Úr!
+
+Örömömre szolgál Excellenciád mai keltezésű hozzám intézett levelére válaszolni, amely a következőket tartalmazza:
+
+˙»Államtitkár Úr!
+
+A Mexikói Egyesült Államok és a Magyar Köztársaság közötti szívélyes baráti viszony erősítésének szándékától vezérelve Kormányom nevében javaslatot teszek Excellenciádnak egy, a magánútlevelekre vonatkozó vízumkényszer eltörléséről szóló Megállapodás létrehozására az alábbi feltételekkel:
+
+1\. Jelen Megállapodás rendelkezései értelmében, az illetékes mexikói hatóságok által kiadott érvényes magánútlevéllel rendelkező mexikói állampolgárok, bárhonnan is érkezzenek, vízum előzetes beszerzése nélkül beutazhatnak és turisztikai célból vagy üzleti tárgyalás céljából legfeljebb 90 napig tartózkodhatnak a Magyar Köztársaság területén, onnan kiutazhatnak, illetve annak területén átutazhatnak.
+
+2\. Az illetékes magyar hatóságok által kiadott érvényes magánútlevéllel rendelkező magyar állampolgárok, bárhonnan is érkezzenek, vízum előzetes beszerzése nélkül beutazhatnak és turisztikai célból vagy üzleti tárgyalás céljából legfeljebb 90 napig tartózkodhatnak a Mexikói Egyesült Államok területén, onnan kiutazhatnak, illetve annak területén átutazhatnak.
+
+3\. A mexikói és a magyar állampolgárok a másik ország államhatárát a nemzetközi utasforgalom számára megnyitott határátkelőhelyen léphetik át.
+
+4\. Azok a mexikói állampolgárok, akik a Magyar Köztársaság területére és azok a magyar állampolgárok, akik a Mexikói Egyesült Államok területére érvényes magánútlevéllel vízummentesen beutaznak, ott nem folytathatnak jövedelemszerző tevékenységet, illetve nem vállalhatnak munkát.
+
+5\. Azoknak a mexikói, illetőleg magyar állampolgároknak, akik 90 napnál hosszabb ideig kívánnak a Magyar Köztársaság, illetve a Mexikói Egyesült Államok területén tartózkodni, az ehhez szükséges vízum iránti kérelmet kell benyújtaniuk az érintett ország illetékes hatóságaihoz.
+
+6\. Azoknak a mexikói, illetőleg magyar állampolgároknak, akik egy harmadik államba utazás céljából kívánnak a másik Fél államának területére belépni, a célországba szóló vízummal kell rendelkezniük abban az esetben, ha ez a célországba való belépéshez szükséges feltétel.
+
+7\. A Szerződő Felek fenntartják maguknak azt a jogot, hogy megtagadják a belépést államuk területére az általuk nemkívánatosnak tartott személyektől vagy azoktól, akik nem tudják igazolni, hogy eleget tettek azoknak a jogszabályi feltételeknek, amelyeket a jelen Megállapodás érint.
+
+8\. A jelen Megállapodás nem mentesíti a két Szerződő Fél állampolgárait az alól, hogy betartsák a Mexikói Egyesült Államokban, illetve a Magyar Köztársaságban hatályban lévő, a külföldiek beutazására, kiutazására és tartózkodására vonatkozó jogszabályokat.
+
+9\. A Szerződő Felek bármelyike – közrendi, közbiztonsági vagy közegészségügyi okból – részben vagy egészben időlegesen felfüggesztheti, illetőleg annak megszüntetéséről diplomáciai úton, haladéktalanul, de legfeljebb három napon belül értesíteni kell a másik Felet.
+
+10\. Jelen Megállapodást bármelyik Szerződő Fél felmondhatja, amit harminc nappal előbb diplomáciai úton írásban kell a másik Szerződő Fél tudomására hozni.
+
+11\. Jelen Megállapodás nem érinti a Szerződő Felek Kormányai között Budapesten, 1990. április 13-án létrejött, a diplomata és szolgálati útlevelekre vonatkozó vízumkényszer eltörléséről szóló Megállapodás hatályát.
+
+12\. A Szerződő Felek illetékes szervei diplomáciai úton kölcsönösen rendelkezésre bocsátják a Szerződő Felek úti okmányainak mintapéldányait. Új úti okmányok kiadását vagy az érvényes úti okmányok módosítását legkevesebb harminc nappal a bevezetés előtt közölni kell a másik Szerződő Féllel, és át kell adni az új vagy módosított úti okmányok mintapéldányait.
+
+Ha az előbbi javaslat elfogadható Excellenciád Kormánya számára, ez a levél, valamint Excellenciád Kormánya egyetértését kifejező válaszlevele Kormányaink között Megállapodást képez, amely az Excellenciád válaszát tartalmazó levél keltét követő harmincadik napon lép hatályba.
+
+Élek az alkalommal, hogy Excellenciádat legmélyebb és megkülönböztetett nagyrabecsülésemről biztosítsam.«
+
+Excellenciád fenti szövegű levelére válaszolva van szerencsém közölni, hogy a Magyar Köztársaság Kormánya elfogadja az abban foglaltakat, és egyetért azzal, hogy Excellenciád levele, valamint a jelen levél Kormányaink közötti Megállapodást képezzen, amely a levélváltás keltezését követő harmincadik napon lép hatályba.
+
+Megragadom az alkalmat, hogy Excellenciádat legőszintébb és megkülönböztetett nagyrabecsülésemről biztosítsam.[^1]
+
+*Szent-Iványi István*\
+a Magyar Köztársaság Külügyminisztériuma politikai államtitkára''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. május 14. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Megjegyzés: a levélváltás azonos szövegű mexikói és magyar levélből áll, amelyeket a szokásos diplomáciai formában értelemszerűen nem azonos záradék követ oly módon, hogy a válaszlevél önmaga erősíti meg a mexikói Kormány nevében a fenti megállapításokat.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 78. pontja szerint módosított szöveg.

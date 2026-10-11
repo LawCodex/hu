@@ -1,0 +1,259 @@
+---
+title: "126/2006. (V. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás kihirdetéséről"
+identifier: "126/2006. (V. 22.) Korm. rendelet"
+njt_id: "2006-126-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/126"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-05-22
+in_force_from: 2006-05-23
+last_amended: 2006-05-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-126-20-22"
+retrieved: 2026-10-12
+---
+
+# 126/2006. (V. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+„
+
+Agreement between\
+the Government of the Republic of Hungary\
+and the Government\
+of the Federative Republic of Brazil\
+on Economic Cooperation
+
+The Government of the Republic of Hungary and the Government of the Federative Republic of Brazil (hereinafter referred to as the „Contracting Parties”),
+
+– desiring to promote and establish diverse and reciprocally useful economic relations between the Contracting Parties on an equal basis,
+
+– aiming at further intensifying their relations established on the principles of equality, mutual respect and common benefit,
+
+have agreed as follows:
+
+*Article 1*
+
+The Contracting Parties, in accordance with their respective national legislation and in full conformity with their international obligations, shall endeavor to take necessary measures to ensure favorable conditions for furthering development of the mutual advantageous relations in all domains of the economic activity.
+
+*Article 2*
+
+Considering the current state and prospects for the development of their economic relations the Contracting Parties agree that favorable conditions for long term co-operation shall be pursued, inter alia, in the following areas:
+
+– Agriculture and food processing;
+
+– Environment;
+
+– Water management;
+
+– Education;
+
+– Health care;
+
+– Natural resources;
+
+– Human resource development;
+
+– Energy;
+
+– Tourism;
+
+– Cooperation between small and medium-sized businesses;
+
+– Communication;
+
+– Computer and information technology;
+
+– Transport;
+
+– Science and technology.
+
+*Article 3*
+
+The Contracting Parties agree to encourage close contacts between policy-makers and government institutions, with a view to improve the exchange of information on development priorities and to facilitate the participation of business operators in development projects in accordance with their respective relevant legislation.
+
+*Article 4*
+
+The Contracting Parties, for the purpose of improving and establishing a diversified development of their economic relations, agreed to facilitate the exchange of business information, to stimulate contacts between their businessmen and enterprises, and to support the participation at international exhibitions and fairs organized on the territory of the other Contracting Party.
+
+*Article 5*
+
+The Contracting Parties, in compliance with their respective national legislation, shall encourage the co-operation between their institutions in the field of standardization, measurement and quality control.
+
+*Article 6*
+
+With a view to establishing optimum conditions for developing bilateral economic relations the Contracting Parties shall promote the co-operation between their interested financial institutions.
+
+*Article 7*
+
+Upon conclusion of this Agreement a „Joint Commission” shall be established that shall be convened upon request of each of the Contracting Parties alternatively in Hungary and Brazil.
+
+The tasks of the Joint Commission shall especially comprise as follows:
+
+– Discussion of the development of the bilateral economic relations;
+
+– Identification of new possibilities for the further development of the future economic co-operation;
+
+– Consideration of suggestions for the improvement of the terms for the economic co-operation between enterprises of both countries;
+
+– Elaboration of proposals for the application of the Agreement.
+
+Differences of opinion between the Contracting Parties on the application or interpretation of the Agreement are to be settled within the framework of the Joint Commission.
+
+*Article 8*
+
+The present Agreement shall in no way prejudice the obligations of the Republic of Hungary as a member state of the European Union. Consequently, the provisions of the present Agreement shall not be cited or interpreted neither in whole nor in part as to annul, amend or influence in any way the duties arising from the Treaty on the European Community (Treaty of Rome, 1957), the Treaty on the European Union (Treaty of Maastricht, 1992) and the primary and secondary legislation of the European Union in particular, undertaken by the Republic of Hungary in the Treaty of Accession (Treaty of Athens, 2003).
+
+*Article 9*
+
+This Agreement shall not apply to the detriment of the Brazilian obligations towards Mercosul and its Associated States.
+
+*Article 10*
+
+This Agreement shall enter into force on the date of receiving the latter of two notifications by which the Contracting Parties notify each other in writing through diplomatic channels that all conditions for its entry into force have been fulfilled in compliance with the national legislation of the Contracting Parties.
+
+This Agreement shall remain in force for a period of five years from the date of its entry into force, and shall be tacitly renewed each year thereafter. In case one of the Contracting Parties wishes to denounce the Agreement, it should notify in writing the other Contracting Party its intention to denounce the Agreement through diplomatic channels, not later than six months prior to the expiration of the current period.
+
+Done in Brasilia on the 5th May 2006, in two originals in Hungarian, Portuguese and English languages, all texts being equally authentic. In case of divergence in interpretation, the English text shall prevail.
+
+For the Government of\
+the Republic of Hungary
+
+For the Government of\
+the Federative Republic\
+of Brazil
+
+\* * *
+
+Gazdasági Együttműködési Megállapodás\
+a Magyar Köztársaság Kormánya\
+és a Brazil Szövetségi Köztársaság Kormánya\
+között
+
+A Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya (a továbbiakban: a Szerződő Felek),
+
+– azzal az óhajjal, hogy sokrétű és kölcsönösen előnyös gazdasági kapcsolatokat ösztönözzenek és alakítsanak ki a Szerződő Felek országai között az egyenlőség elve alapján,
+
+– azzal a céllal, hogy tovább erősítsék az egyenlőség, a kölcsönös tisztelet és a közös érdekek alapján közöttük fennálló kapcsolatokat,
+
+a következőkben állapodtak meg:
+
+*1. cikk*
+
+A Szerződő Felek nemzeti törvényeikkel és nemzetközi kötelezettségvállalásaikkal teljesen összhangban minden szükséges intézkedést megtesznek annak érdekében, hogy kedvező feltételeket teremtsenek a köztük fennálló, kölcsönösen előnyös kapcsolatok továbbfejlesztése érdekében a gazdasági élet minden területén.
+
+*2. cikk*
+
+A jelenleg fennálló gazdasági kapcsolatok és a jövőbeni fejlesztésükre vonatkozó kilátások ismeretében, a Szerződő Felek megállapodnak abban, hogy a hosszú távú együttműködés kedvező feltételeit többek között az alábbi területeken igyekeznek megteremteni:
+
+– Mezőgazdaság és élelmiszer-feldolgozás;
+
+– Környezetvédelem;
+
+– Vízgazdálkodás;
+
+– Oktatás;
+
+– Egészségügy;
+
+– Természeti erőforrások;
+
+– Emberi erőforrások fejlesztése;
+
+– Energetika;
+
+– Idegenforgalom;
+
+– Kis- és középvállalkozások közötti együttműködés;
+
+– Távközlés;
+
+– Számítástechnika és informatika;
+
+– Közlekedés;
+
+– Tudomány és technológia.
+
+*3. cikk*
+
+A Szerződő Felek elhatározzák, hogy ösztönzik a két ország politikai döntéshozói és kormányszervei közötti szoros kapcsolatok kialakítását, és ennek keretében javítják a fejlesztési prioritásokra vonatkozó információcserét, illetve előmozdítják az üzleti élet szereplőinek fejlesztési projektekben való részvételét országaik törvényeivel összhangban.
+
+*4. cikk*
+
+A közöttük fennálló gazdasági kapcsolatok javítása és sokrétű fejlesztése érdekében a Szerződő Felek elhatározzák, hogy elősegítik az üzleti információk cseréjét, ösztönzik az üzletembereik és vállalkozásaik közötti kapcsolatokat, és támogatják a másik Szerződő Fél országának területén megrendezésre kerülő nemzetközi kiállításokon és vásárokon való részvételt.
+
+*5. cikk*
+
+A Szerződő Felek nemzeti törvényeikkel összhangban ösztönzik a két ország intézményei közötti együttműködést a szabványosítás, a mérésügy és a minőség-ellenőrzés területén.
+
+*6. cikk*
+
+A közöttük fennálló kétoldalú gazdasági kapcsolatok fejlesztéséhez szükséges optimális feltételek megteremtése céljából a Szerződő Felek előmozdítják az érdekelt pénzintézetek közötti együttműködést.
+
+*7. cikk*
+
+A Szerződő Felek a jelen Megállapodás megkötésével Vegyes Bizottságot hoznak létre, amelynek összehívása a Szerződő Felek bármelyikének kérésére történik, felváltva Magyarországon és Brazíliában.
+
+A Vegyes Bizottság feladatai különösen az alábbiakat foglalják magukban:
+
+– A kétoldalú gazdasági kapcsolatok fejlesztésének megvitatása;
+
+– Új lehetőségek feltárása a jövőbeli gazdasági együttműködés további fejlesztéséhez;
+
+– Javaslatok kidolgozása a gazdasági együttműködés feltételeinek javítására a két ország vállalkozásai közötti;
+
+– Javaslatok tétele a Megállapodás alkalmazására.
+
+A Szerződő Felek a Megállapodás alkalmazásával, illetve értelmezésével kapcsolatos vitás kérdéseket a Vegyes Bizottság keretei között rendezik.
+
+*8. cikk*
+
+A jelen Megállapodás nem befolyásolja azokat a kötelezettségeket, amelyek a Magyar Köztársaság európai uniós tagságából fakadnak. Következésképpen jelen Megállapodás rendelkezései sem együttesen, sem önmagukban nem idézhetők vagy értelmezhetők úgy, mint amelyek érvénytelenítik, módosítják vagy bármilyen más módon befolyásolják az Európai Közösséget létrehozó Szerződésből (Római Szerződés, 1957), az Európai Unióról szóló Szerződésből (Maastrichti Szerződés, 1992), valamint általában véve az Európai Unió elsődleges és másodlagos jogából származó kötelezettségeket, amelyeket a Magyar Köztársaság a Csatlakozási Szerződéssel (Athéni Szerződés, 2003) vállalt.
+
+*9. cikk*
+
+A jelen Megállapodás alkalmazása nem érintheti hátrányosan a Brazília által a Mercosul és annak társult országai irányában vállalt kötelezettségeket.
+
+*10. cikk*
+
+A jelen Megállapodás azon utolsó jegyzék kézhezvételének napján lép hatályba, melyben a Szerződő Felek diplomáciai úton írásban tájékoztatják egymást arról, hogy a Megállapodás hatálybalépéséhez szükséges, nemzeti jogrendjük által előírt követelményeket teljesítették.
+
+A jelen Megállapodás a hatálybalépéstől számított öt évig marad érvényben, ez után egy-egy további évvel folyamatosan hosszabbodik. Abban az esetben, ha valamelyik Szerződő Fél a Megállapodást fel kívánja mondani, erről a szándékáról diplomáciai úton írásban értesíti a másik Szerződő Felet legkésőbb hat hónappal a lejárat előtt.
+
+Készült Brazíliavárosban, 2006. év május hónap 5. napján, magyar, portugál és angol nyelven, két eredeti példányban, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg a mérvadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Brazil Szövetségi\
+Köztársaság\
+Kormánya részéről”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 10. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 10. cikkében meghatározott időpontban lép hatályba. A 43/2008. (X. 21.) KüM határozat alapján a hatálybalépés időpontja 2008. október 1.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 10. cikkében meghatározott időpontban lép hatályba. A 43/2008. (X. 21.) KüM határozat alapján a hatálybalépés időpontja 2008. október 1.
+[^3]: A 43/2008. (X. 21.) KüM határozat alapján a hatálybalépés időpontja 2008. október 1.
+[^4]: Lásd a 43/2008. (X. 21.) KüM határozatot.

@@ -1,0 +1,118 @@
+---
+title: "193/1998. (XII. 4.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 2/98. számú, a Magyar Köztársaságnak a kis- és középvállalkozásokra vonatkozó közösségi programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről"
+identifier: "193/1998. (XII. 4.) Korm. rendelet"
+njt_id: "1998-193-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/193"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-12-04
+in_force_from: 1998-12-04
+last_amended: 1998-12-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-193-20-22"
+retrieved: 2026-10-12
+---
+
+# 193/1998. (XII. 4.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 2/98. számú, a Magyar Köztársaságnak a kis- és középvállalkozásokra vonatkozó közösségi programban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről
+
+## 1. §
+
+A Kormány – a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 4. §-ának *c)* pontjában kapott felhatalmazás alapján – e rendelettel kihirdeti a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 2/98. számú, a Magyar Köztársaságnak a kis- és középvállalkozásokra vonatkozó közösségi programban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozatát (a továbbiakban: határozat).
+
+## 2. §
+
+A határozat magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság és az Európai Közösségek\
+és annak tagállamai közötti Társulási Tanács\
+1998\. november 23-i, 2/98. számú határozata
+
+a Magyar Köztársaságnak a kis-\
+és középvállalkozásokra vonatkozó közösségi programban történő részvétele módozatainak\
+és feltételeinek elfogadásáról
+
+A Társulási Tanács
+
+figyelembe véve a Magyar Köztársaság és az Európai, Közösségek és annak tagállamai között társulást létesítő Európai Megállapodást,[^1]
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és annak tagállamai között társulást létesítő Európai Megállapodás Kiegészítő Jegyzőkönyvét[^2] Magyarországnak a közösségi programokban történő részvételéről, különösen annak 1. és 2. Cikkét,
+
+tekintettel arra, hogy az említett Kiegészítő Jegyzőkönyv 1. Cikkének megfelelően Magyarország részt vehet a közösségi keretprogramokban, egyedi programokban, projektumokban és más közösségi akciókban, nevezetesen a kis- és középvállalkozások területén,
+
+tekintettel az említett Kiegészítő Jegyzőkönyv 2. Cikkére, azokat a módozatokat és feltételeket, amelyeknek megfelelően Magyarország részt vesz az 1. Cikkben foglalt tevékenységekben, a Társulási Tanács határozza meg,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+Magyarország részt vesz az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjában (1997–2000.) a jelen határozat szerves részét képező *1.* és *2. számú mellékletben* rögzített feltételeknek és módozatoknak megfelelően.
+
+*2. Cikk*
+
+Jelen határozat a program időtartamára marad hatályban.
+
+*3. Cikk*
+
+Jelen határozat az elfogadását követő hónap első napján lép hatályba.
+
+*1. számú melléklet*
+
+Magyarország részvételének módozatai és feltételei\
+az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjában (1997–2000.)
+
+1\. Magyarország részt vesz az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjához (a továbbiakban: program) kapcsolódó valamennyi akcióban, összhangban – amennyiben e határozat másként nem rendelkezik – a Tanács 1996. december 9-i 97/15/EK számú, az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjáról (1997–2000.) szóló határozatában[^3] és különösen annak 7. Cikke 1. bekezdésében feltüntetett célokkal, feltételekkel, eljárásokkal és határidőkkel.
+
+2\. A jogosult magyar intézmények, szervezetek és természetes személyek jelentkezésének, a jelentkezés benyújtásának, értékelésének és kiválasztásának szabályai és feltételei ugyanazok, mint amelyek a jogosult közösségi intézményekre, szervezetekre és egyénekre vonatkoznak.
+
+3\. Adott esetben a program közösségi jellegének biztosítása érdekében a Magyarország által javasolt nemzetközi projektumok és tevékenységek megvalósításához szükség van arra, hogy azokban részt vegyen minimális számú partner közösségi országból is. Ezt a minimális számot a program megvalósítása során kell meghatározni, figyelembe véve a különböző tevékenységek természetét, az adott projektumban részt vevő partnerek, valamint a programban részt vevő országok számát.
+
+4\. Magyarország minden évben hozzájárulást fizet az Európai Közösségek általános költségvetésébe a programban való részvételéből adódó költségek fedezésére (lásd a 2. számú mellékletet). A Társulási Bizottság jogosult a hozzájárulás mértékét szükség esetén módosítani.
+
+5\. Magyarország és a Közösség tagállamai – a fennálló rendelkezések keretei között – mindent megtesznek azért, hogy megkönnyítsék és elősegítsék mindazon, arra jogosult személyek szabad mozgását és tartózkodását, akik a határozat hatálya alá tartozó tevékenységben való részvétel céljából utaznak Magyarország és a Közösség tagállamai között.
+
+6\. Nem érintve a Bizottságnak és az Európai Közösség Számvevőszékének az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjáról szóló határozat (6. Cikk) alapján a programok értékelésében viselt felelősségét, Magyarország és az Európai Közösségek bizottsága közösen, a partnerség alapján, folyamatosan figyelemmel kíséri Magyarország részvételét a programban. Ennek érdekében Magyarország a Bizottság elé terjeszti a szükséges jelentéseket, és részt vesz a Közösség más, e célt szolgáló sajátos tevékenységeiben.
+
+7\. Nem érintve az Európai Unió kis- és középvállalkozásokra vonatkozó harmadik többéves programjáról szóló határozat 4. Cikkében említett eljárásokat, Magyarország meghívást kap a Program Bizottság rendes üléseit megelőző, a határozat végrehajtásával kapcsolatos bármely kérdésről folytatandó egyeztető ülésre. E rendes ülések eredményeiről a Bizottság tájékoztatja Magyarországot.
+
+8\. A pályázati eljárás, a szerződések, a beterjesztendő jelentések és a programokkal kapcsolatos egyéb adminisztratív rendelkezések vonatkozásában használt nyelv a Közösség valamelyik hivatalos nyelve.
+
+*2. számú melléklet*
+
+**Magyarország pénzügyi hozzájárulása az Európai Unió kis- és középvállalkozásokra (KKV) vonatkozó harmadik többéves programjához (1997–2000.)**
+
+1\. Magyarország pénzügyi hozzájárulása fedezi:
+
+– a program keretében a magyar résztvevőknek az 1. számú melléklet 1. pontjában meghatározott tevékenységekben való részvételéhez nyújtott pénzügyi támogatásokat;
+
+– a Magyarország részvételéből eredő igazgatási jellegű többletköltségeket, amelyek a Bizottságnál a programok igazgatása során jelentkeznek.
+
+2\. A programból a magyar kedvezményezettek számára nyújtott támogatások vagy más pénzügyi hozzájárulás együttes összege, az igazgatási többletköltségek levonását követően, költségvetési évenként nem haladhatja meg a Magyarország által befizetett hozzájárulás mértékét.
+
+Amennyiben a Magyarország által az Európai Közösségek általános költségvetésébe a programhoz befizetett hozzájárulás az igazgatási többletköltségek levonását követően meghaladja a magyar kedvezményezetteknek nyújtott támogatások vagy más pénzügyi hozzájárulás együttes összegét, a Bizottság a különbséget a következő költségvetési időszakra átvezeti, majd levonja a következő évben esedékes hozzájárulásból. A program záró mérlegében jelentkező maradványösszeget visszafizetik Magyarországnak.
+
+3\. 1998-tól Magyarország éves hozzájárulása 896 981 ECU. Ebből az összegből 58 681 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+4\. Magyarország hozzájárulásának kezelésére a Közösség általános költségvetésére vonatkozó pénzügyi szabályok érvényesek.
+
+A Bizottság e határozat hatálybalépésekor és azt követően minden év elején felhívást intéz Magyarországhoz az e határozat szerint rá eső pénzügyi befizetés teljesítésére. A hozzájárulást ECU-ben kell meghatározni, és a Bizottság ECU-ben vezetett bankszámlájára kell átutalni.
+
+Magyarország az e határozat szerinti éves költségvetési hozzájárulását a fizetési felhívásnak megfelelően, de legkésőbb a felhívás megküldését követő három hónapon belül teljesíti. A hozzájárulás késedelmes teljesítése esetén a késedelem időpontjától kamatfizetési kötelezettség terheli Magyarországot a még be nem fizetett összegre vonatkozólag. A kamat mértéke az Európai Pénzügyi Együttműködési Alap által ECU-ben végrehajtott műveletek esetén a késedelem hónapjában érvényes kamatláb 1,5%ponttal emelt értéke.
+
+5\. Magyarország a 3. pontban említett igazgatási többletköltségeket saját nemzeti költségvetéséből fedezi.
+
+6\. Magyarország a programban való részvétele fennmaradó költségeinek 50%-át saját nemzeti költségvetésből fedezi.
+
+A PHARE programokra érvényes szabályos eljárásoknak megfelelően, a fennmaradó költségek 50%-át Magyarország éves PHARE forrása fedezi.''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, de rendelkezéseit 1998. december 1-jétől kell alkalmazni. Végrehajtásáról a gazdasági miniszter és a PHARE program koordinációjáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
+
+---
+
+[^1]: Lásd az 1994: I. törvényt.
+[^2]: Lásd a 12/1996. (I. 26.) Korm. rendeletet.
+[^3]: Európai Közösségek Hivatalos Lapja 1997. 01. 10. L6 sz. 25. oldal.

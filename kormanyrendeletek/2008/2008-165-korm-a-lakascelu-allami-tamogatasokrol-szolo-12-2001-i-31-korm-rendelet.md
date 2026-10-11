@@ -1,0 +1,64 @@
+---
+title: "165/2008. (VI. 27.) Korm. rendelet a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról"
+identifier: "165/2008. (VI. 27.) Korm. rendelet"
+njt_id: "2008-165-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/165"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-06-27
+in_force_from: 2009-07-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-165-20-22"
+retrieved: 2026-10-12
+---
+
+# 165/2008. (VI. 27.) Korm. rendelet a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet módosításáról
+
+A Kormány a Magyar Köztársaság 2000. évi költségvetéséről szóló 1999. évi CXXV. törvény 91. §-a (1) bekezdésének *e)* pontjában foglalt felhatalmazás alapján, a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 35. §-a (1) bekezdésének *b)* pontjában foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1–6. §[^1]
+
+## 7. §[^2]
+
+## 8. §
+
+(1) E rendelet hatálybalépésekor érvényes, 2002. december 1-jét követően kötött megelőlegező kölcsönszerződéssel rendelkező támogatott személy e rendelet hatálybalépését követő 90 napon belül a hitelintézetnél tett írásbeli nyilatkozatában hozzájárulását adhatja ahhoz, hogy a gyermekvállalás teljesítését a Kincstár a családtámogatási igény benyújtása alapján a kincstári családtámogatási adatbázisban rendelkezésre álló és a hitelintézet által szolgáltatott adatokat vesse össze, és erről a hitelintézetet tájékoztassa.
+
+(2) A hitelintézet a támogatott személy (1) bekezdés szerinti nyilatkozatának eredeti példánya alapján, legkésőbb e rendelet hatálybalépését követő 100. napig tájékoztatja a Kincstárt a beérkezett hozzájárulásokról.
+
+(3) Ha az (1) bekezdés szerinti támogatott személy nem járult hozzá ahhoz, hogy a Kincstár megállapítsa a gyermekvállalás teljesítését, illetve felhatalmazást adott a kincstári adatkezelésre, de megszületett gyermeke után nem igényelt családtámogatási ellátást, akkor a gyermekvállalás teljesítését igazoló okiratot annak kiállítását követő 60 napon belül, – ha a gyermekvállalást e rendelet hatálybalépésekor már teljesítette, akkor legkésőbb 2008. október 31-éig – köteles a megelőlegező kölcsönt folyósító hitelintézetnek bemutatni, illetve bejelenteni. Ha a támogatott személy a gyermekvállalás teljesítését ezen határidőben nem jelenti be, akkor a hitelintézeti felszólítástól számított 30 napon belül a hitelintézeten keresztül köteles visszafizetni a gyermekvállalás teljesítése, de legkorábban 2008. november 1-je és a bejelentés időpontja közötti időtartam alatt az állam által kifizetett kamatot, költséget és kamattámogatást.
+
+(4) Amennyiben az R. 2008. február 1-je és e rendelet hatálybalépése között hatályos 24. § (5) bekezdése, valamint 5/A. § (13) bekezdése szerinti esemény már bekövetkezett és annak igazolására, illetve az igazolás benyújtására biztosított, az R. 2008. február 1-je és e rendelet hatálybalépése között hatályos 24. § (5) bekezdésében, valamint 5/A. § (13) bekezdésében meghatározott határidő már eredménytelenül eltelt és a támogatott személy igazolását legkésőbb 2008. október 31-éig benyújtja, mentesül az R. 2008. február 1-je és e rendelet hatálybalépése között hatályos 24. § (5) bekezdése, valamint 5/A. § (13) bekezdése szerinti jogkövetkezmények alól. Ha a támogatott személy az igazolást ezen határidőn belül nem nyújtja be, akkor a hitelintézeti felszólítástól számított 30 napon belül a hitelintézeten keresztül köteles visszafizetni az esemény bekövetkezése, de legkorábban 2008. november 1-je és a bejelentés időpontja közötti időtartam alatt az állam által kifizetett kamatot, költséget és kamattámogatást.
+
+(5)[^3] A hitelintézet a lakáscélú állami támogatásokért felelős miniszter által elektronikus úton megküldött, a gyermekvállalás teljesítésének Kincstár általi megállapításához adható hozzájárulás lehetőségéről, ennek hiányában a gyermekvállalás teljesítésének bejelentésére vonatkozó kötelezettségről, teljesítésének határidejéről és elmulasztásának jogkövetkezményeiről, valamint a (4) bekezdés szerinti igazolás benyújtására rendelkezésre álló határidőről és elmulasztásának jogkövetkezményeiről szóló tájékoztatást tartalmazó levelét postai úton, könyvelt küldeményként küldi meg e rendelet hatálybalépését követő 30 napon belül fennálló megelőlegező kölcsönszerződései adósainak.
+
+(6) Amennyiben az (1) bekezdés szerinti támogatott személy az adatkezeléshez hozzájárulását adta, a Kincstár az R. e rendelettel megállapított 5/A. § (6) bekezdése és 5/B. §-a szerint jár el.
+
+## 9. §
+
+(1)[^4] A 8. § szerinti esetekben amennyiben a támogatott személy – az R. 2008. február 1-je és e rendelet hatálybalépése között hatályos rendelkezései alapján – visszafizetési kötelezettségét már részben vagy egészben teljesítette, a visszafizetett kamat, költség és kamattámogatás összegét a Kincstár a hitelintézeten keresztül kamatmentesen téríti vissza. A hitelintézet az így visszafizetett összegeket utólag, havonta, a költségvetéssel történő elszámolás keretében, elkülönítve igényli a lakáscélú állami támogatásokért felelős miniszter által vezetett központi államigazgatási szerven keresztül a Kincstártól. Amennyiben a visszafizetési kötelezettség az R. 2008. február 1-je és e rendelet hatálybalépése között hatályos rendelkezései szerint megállapításra került, a meg nem fizetett kamat, költség és kamattámogatás összegét nem kell megfizetni.
+
+(2) A hitelintézet az (1) bekezdés szerinti esetekről a havi elszámolásban tételesen adatot szolgáltat a Kincstárnak.
+
+## 10. §
+
+(1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+(2)–(3)[^5]
+
+(4) Az R. e rendelet 1–6. §-aival megállapított rendelkezéseit a hatálybalépést követően megkötött szerződésekre kell alkalmazni.
+
+(5) E rendelet 9. §-ának (1) bekezdésében foglaltakat a már lakásépítési (vásárlási) kedvezménnyé alakult és ezért megszűnt kölcsönök tekintetében is alkalmazni kell.
+
+(6)[^6]
+
+---
+
+[^1]: Az 1–6. §-t a 10. § (6) bekezdése hatályon kívül helyezte.
+[^2]: A 7. §-t a 125/2009. (VI. 15.) Korm. rendelet 11. §-ának a) pontja hatályon kívül helyezte.
+[^3]: A 8. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^4]: A 9. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 82. §-a szerint módosított szöveg.
+[^5]: A 10. § (2)–(3) bekezdését a 10. § (6) bekezdése hatályon kívül helyezte.
+[^6]: A 10. § (6) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

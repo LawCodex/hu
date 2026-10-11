@@ -1,0 +1,141 @@
+---
+title: "40/2003. (III. 27.) Korm. rendelet az ózdi martinsalak felhasználásával készült lakóépületek tulajdonosainak kárenyhítéséről"
+identifier: "40/2003. (III. 27.) Korm. rendelet"
+njt_id: "2003-40-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/40"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-03-27
+in_force_from: 2007-07-04
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-40-20-22"
+retrieved: 2026-10-12
+---
+
+# 40/2003. (III. 27.) Korm. rendelet az ózdi martinsalak felhasználásával készült lakóépületek tulajdonosainak kárenyhítéséről
+
+Az ózdi martinsalak felhasználásával készült lakóépületek tulajdonosainak kárenyhítéséről a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) A támogatás célja az ózdi martinsalak felhasználása következtében legveszélyesebb műszaki állapotba került lakóingatlanokban élők lakhatási feltételeinek biztosítása.
+
+(2)[^2] Támogatásban részesíthető mindazon károsult lakástulajdonos, aki lakóépületének károsodását 2002. január 15-ig bejelentette, és akinél az Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) által megrendelt szakértői vizsgálat megállapította, hogy az ózdi martinsalak felhasználása miatt, építési engedéllyel épített, általa lakott lakását, lakóépületét kár érte.
+
+(3) A támogatás vissza nem térítendő állami támogatás, amelynek folyósítása készpénzben, önkormányzat útján történik.
+
+(4)[^3] A támogatás a károsodott ingatlan helyreállítására, „E” kategóriába sorolt ingatlan esetében új lakás építésére vagy lakás vásárlására fordítható, a kárenyhítési határozat jogerőssé válását követő év december 31-éig.
+
+(5) Az állami támogatás nem használható fel nem lakás céljára szolgáló helyiség, építmény, melléképület építéséhez, helyreállításához.
+
+(6) A támogatási célra a költségvetési törvényben a tárgyévre biztosított központosított előirányzat a károsodás fokának sorrendjében az e rendelet szerinti „E”, „D”, „C”, illetve „B” kategóriába sorolt ingatlanok tulajdonosainak támogatására használható fel.
+
+(7)[^4] A (4) bekezdés szerinti támogatás akkor folyósítható, ha a tulajdonos vállalja, hogy a lakóingatlan 5 éven belüli elidegenítése esetén a támogatás összegét az állam részére visszafizeti, és hozzájárul ahhoz, hogy ennek biztosítékaként az újonnan épített vagy vásárolt, illetve a helyreállított lakóingatlanra jelzálogjog, ennek biztosítására elidegenítési és terhelési tilalom kerüljön bejegyzésre az állam javára. Az állam javára szóló jelzálogjog, valamint az elidegenítési és terhelési tilalom bejegyzése, továbbá törlése iránt a jegyző intézkedik.
+
+## 2. §
+
+(1)[^5] A támogatás biztosított lakás esetén a biztosítótól kapott kártérítésnek a 3. § (2) és (3) bekezdése szerint meghatározott összeg 100%-ára történő kiegészítésére szolgálhat, nem biztosított lakás esetén ugyanezen költségek 70%-áig, lakás vásárlása esetén 90%-áig terjedhet.
+
+(2) Új lakás építésénél a támogatás nem tartalmazhatja a visszaigényelhető általános forgalmi adó összegét.
+
+(3)[^6] Ha a károsult a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet alapján adó-visszatérítési támogatást vesz igénybe új lakása építéséhez, akkor a támogatás ezen összeggel csökken.
+
+## 3. §
+
+(1)[^7] A támogatás a károsodott lakás alapterülete után állapítható meg, feltéve, hogy az nem haladja meg a külön jogszabályban meghatározott, méltányolható lakásigény felső határának megfelelő lakásméretet.
+
+(2)[^8] A bontással együtt kalkulált újjáépítési költség megtérítésére fordított támogatás, illetve a lakások vásárlása esetén a támogatás mértéke nem haladhatja meg az (1) bekezdésben meghatározott mértékű lakásnagyságra eső részt, illetve a korábbi lakás komfortfokozatának, készültségi állapotának megfelelő mértéket, és a támogatás mértéke nem haladhatja meg a négyzetméterenkénti bruttó 140 000 Ft összeget.
+
+(3) Az épület helyreállítása esetén a támogatás mértéke nem haladhatja meg az újjáépítés esetére meghatározott támogatás mértékének
+
+a) 80%-át, ha a szakértői vélemény alapján
+
+– az épület életveszélyes állapotának megszüntetéséhez műszaki biztosítás, megerősítés szükséges, vagy
+
+– az épület átfogó szerkezetmegerősítése indokolt;
+
+b) 50%-át, ha a szakértői vélemény alapján az épületen részleges helyi javítások szükségesek.
+
+(4) Az (1)–(2) bekezdésben meghatározottnál nagyobb (értékesebb) ingatlan értékkülönbözetét a károsult viseli.
+
+(5)[^9] A biztosítottság és a méltányolható lakásigény megállapítása szempontjából figyelembe vehető családtagok számának megítélésénél a kárbejelentés időpontja az irányadó.
+
+## 4. §
+
+(1) A támogatás odaítélésének alapja a szakértői vizsgálat. A szakértői felmérésnek és vizsgálatoknak ki kell terjednie a részben vagy egészben ózdi martinsalakból épült lakóépületek károsodására és helyreállítási költségeire. A támogatás odaítélése szempontjából a szakértői vizsgálat a hibák mértéke szerinti épületkategóriákat különböztet meg: ,,E'' kategória: az épület életveszélyes, azonnali bontást igénylő; ,,D'' kategória: az épület életveszélyes, műszaki biztosítása és megerősítése szükséges; ,,C'' kategória: az épület átfogó szerkezetmegerősítése indokolt, közvetlen életveszély nincs; ,,B'' kategória: az épületen részleges, helyi javítások szükségesek.
+
+(2)[^10] Ha a szakértői vizsgálat óta eltelt időszakban az épület az állagromlás miatt életveszélyessé és azonnal bontandóvá vált, akkor az épület az elsőfokú építésügyi hatóság bontási kötelezése alapján is „E” kategóriába sorolható. Az épületkategória átsorolásáról készült határozatot az elsőfokú építésügyi hatóság az érintettekkel egyidőben megküldi a másodfokú építésügyi hatóságnak. Az épületkategória az időszakos és soron kívüli szakértői vizsgálat alapján is módosulhat. A soron kívüli átsorolást a károsult saját költségére kezdeményezheti. Ha a kérelem megalapozott, az OKF a szakértői díjat a károsultnak visszatéríti.
+
+(3) A szakértői vizsgálat alapján megállapított károk helyreállításáról a károsult lakás tulajdonosa gondoskodik.
+
+## 5. §[^11]
+
+(1) A támogatás odaítéléséről a jegyző dönt.
+
+(2) A károsodott lakóingatlan helyreállításáról, újjáépítéséről vagy bontásáról – a kárenyhítési határozat meghozatala előtt – az elsőfokú építésügyi hatóság külön határozatban rendelkezik.
+
+(3) A lakást vásárló tulajdonosok támogatásának feltétele, hogy a visszamaradó ingatlant a károsult az illetékes települési önkormányzat részére ingyenes tulajdonszerzés céljából felajánlja. Amennyiben az önkormányzat az ingatlant nem fogadja el, az ingyenesen állami tulajdonba kerül.
+
+## 6. §[^12]
+
+(1)[^13] A települési önkormányzat részére a támogatás folyósítását az OKF főigazgatója (a továbbiakban: főigazgató) kezdeményezi.
+
+(2) A támogatási összeg megállapításának elsődleges szempontja a károsodott épületek – hibák mértéke szerinti – kategóriába tartozása. Amennyiben a rendelkezésre álló központosított előirányzat az azonos kategóriába tartozó összes épület helyreállításának támogatására nem nyújt fedezetet, akkor a támogatás összegének megállapításánál elsősorban az életveszélyessé nyilvánított épületeket kell alapul venni.
+
+(3)[^14] A támogatás felhasználásának jogszerűségét az OKF vizsgálhatja.
+
+(4) Egyedi elbírálás szerint támogatásban részesülhet az a tulajdonos,
+
+a) akinek sor-, társas- és ikerház építésű lakóingatlana nem ózdi martinsalak felhasználásával épült, de az az azzal érintkező és martinsalak felhasználásával épített lakóingatlan károsodása vagy bontása következtében károsodott, vagy elbontandóvá vált. A támogatás mértékére az e rendeletben foglaltak az irányadóak,
+
+b) aki a károsodott ingatlanát korábban – saját költségére – helyreállította, vagy azt az ózdi martinsalak felhasználásával összefüggő életveszély kialakulása miatt engedéllyel elbontotta.
+
+(5) A (4) bekezdés szerinti egyedi kárenyhítési összeg mértékének megállapítása, folyósítása, kifizetése és elszámolása, valamint a felhasználás ellenőrzése az elbírálás idején hatályban lévő szabályok szerint történik. A (4) bekezdés *b)* pont szerinti – saját költségre történő – helyreállítás vagy elbontás esetén a helyreállítást, illetve elbontást megelőző szakértői vizsgálat alapján megállapított kategória besorolásának megfelelően kell a támogatás összegét megállapítani, mely nem haladhatja meg a helyreállítási vagy építési költség összegét, illetve a vásárolt lakóingatlan vételárát.
+
+## 7. §[^15]
+
+(1) A települési önkormányzat a részére biztosított költségvetési támogatás összegével a zárszámadás keretében és rendje szerint, valamint külön is köteles elszámolni. A támogatás a tárgyév december 31-én kötelezettségvállalással terhelt maradványa jogszerűen a tárgyévet követő év december 31-éig használható fel. A külön elszámolást az önkormányzat támogatottanként és önkormányzati összesítésben az építési munkák befejezését követő 30 napon belül, de legkésőbb a tárgyévet követő február 28-áig, december 31-i fordulónappal a Magyar Államkincstár illetékes területi szervéhez (a továbbiakban: Igazgatóság) két példányban elszámolást küld, amelynek egy példányát az Igazgatóság továbbítja az OKF részére.
+
+(2) A katasztrófák elleni védekezésért felelős miniszter a helyreállítási, újjáépítési és kárenyhítési feladatok éves teljesítéséről az önkormányzati elszámolások határidejét követő 30 napon belül tájékoztatja a Kormányt.
+
+## 8. §
+
+(1) Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+(2) E rendelet 1–4. §-a, valamint a rendelet *mellékletében* felsorolt kormányhatározatok alapján nyújtott támogatást – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú mellékletének 6.1. pontja értelmében – nem terheli személyi jövedelemadó.
+
+## Melléklet a 40/2003. (III. 27.) Korm. rendelethez
+
+1\. A beregi térségben 2001. év tavaszán keletkezett árvízi károk enyhítéséről szóló 1025/2001. (III. 23.) Korm. határozat.
+
+2\. A 2001. évi tiszai árvíz során károsodott Szabolcs-Szatmár-Bereg megyei települések helyreállításáról és újjáépítéséről szóló, az 1104/2001. (IX. 12.) Korm. határozattal módosított 1033/2001. (IV. 12.) Korm. határozat.
+
+3\. Az ózdi martinsalak felhasználásával készült lakóépületekben keletkezett károk helyreállításának támogatásáról, lebonyolításáról szóló 1085/2001. (VII. 25.) Korm. határozat.
+
+4\. A martinsalak felhasználásával készült életveszélyes épületek helyreállításának teljesítése kapcsán szükséges további intézkedésekről szóló 1016/2002. (III. 7.) Korm. határozat.
+
+5\. A Dunán és mellékfolyóin 2002. augusztusban kialakult árhullám okozta károk felméréséről és a kárenyhítés elveiről szóló 1149/2002. (IX. 5.) Korm. határozat.
+
+6\. A 2002. augusztus 9-én bekövetkezett felhőszakadás okozta károk enyhítésének módjáról, a helyreállítás, újjáépítés feladatairól szóló 1155/2002. (IX. 14.) Korm. határozat.
+
+7\. Az ózdi martinsalak felhasználásával készült lakóépületek tulajdonosainak kárenyhítéséről szóló 1177/2002. (X. 10.) Korm. határozat.
+
+---
+
+[^1]: Az 1. § a 214/2004. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^3]: Az 1. § (4) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^4]: Az 1. § (7) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 6. § (2) bekezdés a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 243. §-a szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 6. § (2) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^6]: A 2. § (3) bekezdését a 214/2004. (VII. 13.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^7]: A 3. § (1) bekezdése a 214/2004. (VII. 13.) Korm. rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^9]: A 3. § (5) bekezdését a 214/2004. (VII. 13.) Korm. rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.
+[^10]: A 4. § (2) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^11]: Az 5. § a 150/2007. (VI. 26.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^12]: A 6. § a 214/2004. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^13]: A 6. § (1) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^14]: A 6. § (3) bekezdése a 150/2007. (VI. 26.) Korm. rendelet 6. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.
+[^15]: A 7. § a 150/2007. (VI. 26.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a folyamatban lévő ügyekben a korábbi rendelkezések az irányadóak.

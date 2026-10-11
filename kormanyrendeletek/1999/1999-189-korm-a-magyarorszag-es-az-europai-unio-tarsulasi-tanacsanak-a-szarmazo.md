@@ -1,0 +1,195 @@
+---
+title: "189/1999. (XII. 17.) Korm. rendelet a Magyarország és az Európai Unió Társulási Tanácsának a ,,származó termék\\'\\' fogalmának meghatározásáról és az adminisztratív együttműködés módszeréről szóló, az Európai Unió és Magyarország közötti Európai Megállapodás 4. számú Jegyzőkönyvének módosításáról szóló 4/1999. számú határozatának kihirdetéséről"
+identifier: "189/1999. (XII. 17.) Korm. rendelet"
+njt_id: "1999-189-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/189"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-12-17
+in_force_from: 1999-12-17
+last_amended: 1999-12-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-189-20-22"
+retrieved: 2026-10-12
+---
+
+# 189/1999. (XII. 17.) Korm. rendelet a Magyarország és az Európai Unió Társulási Tanácsának a ,,származó termék\'\' fogalmának meghatározásáról és az adminisztratív együttműködés módszeréről szóló, az Európai Unió és Magyarország közötti Európai Megállapodás 4. számú Jegyzőkönyvének módosításáról szóló 4/1999. számú határozatának kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás[^1] által létrehozott Társulási Tanács 4/1999. számú, 1999. december 16-án hozott határozatát a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létrejöttéről szóló Európai Megállapodás 4. számú Jegyzőkönyvének módosításáról, e rendelettel kihirdeti.
+
+## 2. §
+
+A Társulási Tanács határozatának magyar nyelvű szövege a következő:
+
+,,Az Európai Unió és Magyarország Társulási Tanácsának\
+4/99. számú határozata
+
+**az Európai Unió és Magyarország közötti Európai Megállapodás 4. számú, a ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló Jegyzőkönyvének módosításáról**
+
+A Társulási Tanács
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodást és különösen annak 4. számú Jegyzőkönyve 38. Cikkét,
+
+tekintettel arra, hogy:
+
+(1) a ,,származó termék'' fogalommeghatározásának olyan módosítása szükséges a kibővített kumulációs rendszer megfelelő működésének biztosítása érdekében, amely lehetővé teszi az Európai Közösségből, Lengyelországból, Magyarországról, a Cseh Köztársaságból, a Szlovák Köztársaságból, Bulgáriából, Romániából, Lettországból, Litvániából, Észtországból, Szlovéniából, Törökországból, az Európai Gazdasági Térségből, Izlandról, Norvégiából és Svájcból származó anyagok felhasználását,
+
+(2) tanácsos lenne az összegeket érintő cikkek módosítása annak érdekében, hogy teljes mértékben figyelembe lehessen venni az euró hatálybalépését,
+
+(3) változtatások bevezetése szükséges a nem származó termékek származóvá válásának megmunkálási és feldolgozási követelményeit tartalmazó listát illetően, figyelembe véve a termelési eljárások változásait és bizonyos nyersanyagok hiányát,
+
+(4) s hogy ennek következtében a 4. számú Jegyzőkönyvet módosítani szükséges,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+A ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló 4. számú Jegyzőkönyv ezennel a következők szerint módosul:
+
+1\. A 21. és a 26. Cikkekben az ,,ECU'' szó helyébe az ,,euró'' lép;
+
+2\. A 30. Cikk helyébe a következő rendelkezés lép:
+
+*,,30. Cikk*
+
+*Euróban kifejezett összegek*
+
+1\. Az euróban megállapított összegekkel megegyező, és az exportáló ország nemzeti valutájában kifejezett összegeket az exportáló ország határozza meg, és az Európai Bizottságon keresztül közli az importáló országokkal.
+
+2\. Ha az összegek meghaladják az importáló ország által megállapított vonatkozó összegeket, az utóbbi elfogadja azokat, ha a terméket az exportáló ország valutájában számlázták. Ha a terméket egy másik EK tagállam vagy a 3. és 4. Cikkben hivatkozott másik ország valutájában számlázták, az importáló ország a szóban forgó ország által közölt összeget fogadja el.
+
+3\. A felhasználandó, egy adott ország nemzeti valutájában kifejezett összegek megegyeznek az 1999. október első munkanapján érvényes árfolyamon, euróban kifejezett összegeknek az adott nemzeti valutában számított értékével.
+
+4\. Az euróban és az azzal egyenértékű, a Tagállamok és Magyarország nemzeti valutájában kifejezett összegeket a Társulási Bizottság a Közösség vagy Magyarország kérésére felülvizsgálja. E felülvizsgálat során a Társulási Bizottság biztosítja, hogy ne csökkenjenek a nemzeti valutában számított összegek, és figyelembe veszi, hogy célszerű a szóban forgó értékhatárok hatásának reális feltételek közötti fenntartása. E célból úgy határozhat, hogy módosítja az euróban kifejezett összegeket.''
+
+3\. A II. számú Melléklet a következők szerint módosul:
+
+*a)* a HR 1904 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+(1): 1904
+
+(2): Gabonából puffasztással vagy pirítással előállított, elkészített élelmiszer (pl. kukoricapehely); másutt nem említett gabona, (a kukorica kivételével) szem formában, pehely formában vagy más megmunkált szem formában (a liszt és őrlemény kivételével) előfőzve vagy másképp elkészítve
+
+(3): Előállítás:
+
+– a 1806 vámtarifaszám alá nem osztályozott anyagokból;
+
+– amelynek során a felhasznált gabonaféléknek és lisztnek [a durum búza és származékai és a gömbölyű kukorica (Zea indurata maize) kivételével] teljes egészében előállítottnak kell lennie[^2];
+
+– amelynek során a 17. Árucsoportba tartozó bármely felhasznált anyag értéke nem haladja meg a termék gyártelepi árának 30%-át''
+
+*b)* a HR 2207 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+(1): 2207
+
+(2): Nem denaturált etilalkohol legalább 80 térfogatszázalék alkoholtartalommal; etilakohol és más szesz denaturálva, bármilyen alkoholtartalommal
+
+(3): Előállítás:
+
+– a 2207 vagy 2208 vámtarifaszám alá nem osztályozott anyagokból;
+
+– amelynek során minden felhasznált szőlőnek és szőlőszármazéknak teljes egészében előállítottnak kell lennie, vagy ha minden más anyag már származó, rizspálinka maximum 5 tömegszázalékban felhasználható''
+
+*c)* a HR 57. Árucsoportra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+(1): 57. Árucsoport
+
+(2): Szőnyegek és más textil padlóborítók:
+
+(2): – Tűnemezből
+
+(3): Előállítás<sup>1</sup>:
+
+– természetes szálakból, vagy
+
+– vegyi anyagokból vagy textilpépből
+
+Azonban:
+
+– az 5402 vámtarifaszám alá tartozó polipropilén végtelen szál,
+
+– az 5503 vagy az 5506 vámtarifaszám alá tartozó polipropilén vágott szál,
+
+– az 5501 vámtarifaszám alá tartozó polipropilén fonókábel, ha az egyágú végtelen szál vagy vágott szál értéke minden esetben kevesebb, mint 9 decitex,
+
+felhasználható, ha értéke nem haladja meg a termék gyártelepi árának 40%-át.
+
+Jutaszövet hátoldalként felhasználható.,
+
+(2): – Más nemezből
+
+(3): Előállítás<sup>1</sup>:
+
+– nem kártolt vagy nem fésült vagy fonásra más módon elő nem készített természetes szálakból, vagy
+
+– vegyi anyagokból vagy textilpépből.,
+
+(2): – Más textilanyagból
+
+(3): Előállítás<sup>1</sup>:
+
+– kókuszrost- vagy jutafonalból,
+
+– szintetikus vagy mesterséges végtelen szálból készült fonalból,
+
+– természetes szálakból, vagy
+
+– nem kártolt vagy nem fésült vagy fonásra más módon nem előkészített műszálból.
+
+Jutaszövet hátoldalként felhasználható.
+
+____
+
+<sup>1</sup> A kevert textilanyagokból készült termékekre vonatkozó különleges előírásokat lásd a Bevezető Megjegyzések 5. pontjában.''
+
+*d)* a HR 8401 vámtarifaszámra vonatkozó szabály helyébe a következő lép:
+
+,,
+
+(1): ex 8401
+
+(2): Nukleáris fűtőelemek, Előállítás, amelynek során valamennyi felhasznált anyag a terméktől eltérő vámtarifaszám alá osztályozott.[^3]
+
+(3): Előállítás, amelynek során valamennyi felhasznált anyag értéke nem haladja meg a termék gyártelepi árának a 30%-át.
+
+''
+
+*e)* a HR 9606 és 9612 vámtarifaszámokra vonatkozó rendelkezések közé a következő rendelkezést kell beiktatni:
+
+,,
+
+(1): 9608
+
+(2): Golyóstoll, filc- és más, szivacsvégű toll és jelző; töltőtoll, rajzolótoll és egyéb toll; másoló töltőtoll (átírótoll); töltőceruza vagy csúszóbetétes ceruza; tollszár, ceruzahosszabbító és hasonló; mindezek részei (beleértve a kupakot és a klipszet is), a 9609 vámtarifaszám alá tartozó áru kivételével
+
+(3): Előállítás, amelynek során valamennyi felhasznált anyag a terméktől eltérő vámtarifaszám alá osztályozott. Azonban azonos vámtarifaszám alá osztályozott tollhegy és tollhegycsúcs felhasználható.'',
+
+*2. Cikk*
+
+Ez a határozat az elfogadása napján lép hatályba.
+
+Rendelkezéseit 2000. január 1-jétől kell alkalmazni.
+
+Készült Brüsszelben, 1999. december 16.
+
+A Társulási Tanács részéről\
+az Elnök''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit 2000. január 1-jétől kell alkalmazni.
+
+---
+
+[^1]: Kihirdette az 1994. évi I. törvény (Magyar Közlöny 1994. évi 1. szám).
+[^2]: A gömbölyű kukoricára vonatkozó kivétel 2002. december 31-ig érvényes.
+[^3]: Ez a szabály 2005. december 31-ig érvényes.

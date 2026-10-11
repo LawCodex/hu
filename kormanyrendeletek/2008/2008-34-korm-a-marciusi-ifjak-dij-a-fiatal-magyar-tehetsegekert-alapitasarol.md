@@ -1,0 +1,70 @@
+---
+title: "34/2008. (II. 21.) Korm. rendelet a „Márciusi Ifjak Díj – a fiatal magyar tehetségekért” alapításáról"
+identifier: "34/2008. (II. 21.) Korm. rendelet"
+njt_id: "2008-34-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/34"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-02-21
+in_force_from: 2009-03-13
+last_amended: 2018-06-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-34-20-22"
+retrieved: 2026-10-12
+---
+
+# 34/2008. (II. 21.) Korm. rendelet a „Márciusi Ifjak Díj – a fiatal magyar tehetségekért” alapításáról
+
+A Kormány a Magyar Köztársaság kitüntetéseiről szóló 1991. évi XXXI. törvény 6/A. §-ának *a)* és *b)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány „Márciusi Ifjak Díj – a fiatal magyar tehetségekért” (a továbbiakban: díj) elnevezéssel díjat alapít és adományoz.
+
+(2) A díj azoknak a 35 év alatti, magyar állampolgárságú személyeknek adományozható, akik az alkotó- és előadóművészet, a kultúra, a tudomány, a társadalmi- és technológiai innováció, valamint a sport területén kifejtett tevékenységükkel öregbítették Magyarország hírnevét, elősegítették kulturális gyarapodását.
+
+(3)[^1] A díj évente legfeljebb 15 személynek adományozható.
+
+## 2. §
+
+(1) A díjat a miniszterelnök minden évben a március 15-i nemzeti ünnepen, az 1848-as forradalom évfordulóján adja át.
+
+(2)[^2] A díj a tehetség és a szabadság lángját jelképező, bronzból készült kisplasztikai alkotás, talapzatán a „Márciusi Ifjak” és az adományozás évét jelölő felirattal.
+
+(3)[^3] A miniszterelnök a díjat a kitüntetett részére az adományozást igazoló emléklappal adja át. A díjjal egyszeri, nettó 500 000 forint összegű pénzjutalom jár.
+
+## 3. §
+
+(1) A díj adományozását az 1. § (2) bekezdésében meghatározott művészeti ágak, területek körében működő országos szakmai szervezetek, valamint a Kormány tagjai kezdeményezhetik, az adományozást megelőző év december 31-ig.
+
+(2)[^4] A díj adományozására irányuló kezdeményezést a kultúráért felelős miniszterhez (a továbbiakban: miniszter) kell benyújtani.
+
+(3)[^5] A kezdeményezést a miniszterelnök által felkért és megbízott héttagú bizottság értékeli, és tesz javaslatot a miniszter útján a Kormánynak legfeljebb tizenkét díj adományozására. A bizottság elnökét a tagok közül a miniszterelnök kéri fel és bízza meg.
+
+(4) A bizottság az ügyrendjét maga állapítja meg.
+
+## 4. §[^6]
+
+A bizottság működésével és a díj adományozásával kapcsolatos feladatokat a miniszter látja el.
+
+## 5. §[^7]
+
+A díj adományozásával felmerülő költségek forrását a miniszter által vezetett minisztérium költségvetési fejezete tartalmazza.
+
+## 6. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2)[^8]
+
+---
+
+[^1]: Az 1. § (3) bekezdése az 52/2009. (III. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § új (2) bekezdését a 17/2009. (I. 30.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatva.
+[^3]: A 2. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 17/2009. (I. 30.) Korm. rendelet 1. §-a.
+[^4]: A 3. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés első mondata az 52/2009. (III. 12.) Korm. rendelet 1. §-ával megállapított, a 101/2018. (VI. 11.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 4. § a 101/2018. (VI. 11.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^7]: Az 5. § a 221/2014. (IX. 4.) Korm. rendelet 421. § d) pontja, a 101/2018. (VI. 11.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 422. §-a hatályon kívül helyezte.

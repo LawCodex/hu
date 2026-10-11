@@ -113,6 +113,8 @@ def ministers():
         code, name = clean(code), clean(name)
         if not code:
             continue
+        if code == "MT":  # Minisztertanács (Council of Ministers): listed with "korm"
+            continue
         if ("miniszter" in name.lower() and "államtitkár" not in name.lower()) or code == "ME":
             out.append((code, name))
     return out

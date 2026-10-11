@@ -1,0 +1,157 @@
+---
+title: "276/2004. (X. 8.) Korm. rendelet a természet védelmét szolgáló egyes támogatásokra, valamint kártalanításra vonatkozó részletes szabályokról"
+identifier: "276/2004. (X. 8.) Korm. rendelet"
+njt_id: "2004-276-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/276"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-10-08
+in_force_from: 2009-10-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-276-20-22"
+retrieved: 2026-10-12
+---
+
+# 276/2004. (X. 8.) Korm. rendelet a természet védelmét szolgáló egyes támogatásokra, valamint kártalanításra vonatkozó részletes szabályokról
+
+A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 71. §-ának (3), 72. §-ának (5) bekezdésében, valamint a 85. §-ának *a)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+A rendelet hatálya:
+
+a) a védett természeti területek és értékek védelmét szolgáló állami támogatásra [Tvt. 71. § (1) és (2) bekezdés] (a továbbiakban: természetvédelmi támogatás),
+
+b) a védett természeti területeken természetvédelmi érdekből elrendelt gazdálkodási korlátozás, illetve tilalom esetén vagy a termelésszerkezet jelentős megváltoztatásának előírása következtében felmerülő kártalanításra (Tvt. 72. §) (a továbbiakban: természetvédelmi kártalanítás)
+
+terjed ki.
+
+## A természetvédelmi támogatások
+
+### 2. §
+
+(1)[^1] Természetvédelmi támogatásban részesülhet az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező szervezet (a továbbiakban: támogatás igénylője), aki tevékenységével – az e rendeletben meghatározottak szerint – támogatható védett természeti érték vagy terület védelmét segíti elő.
+
+(2) Az ökológiai hálózat nem védett természeti területeivel kapcsolatos támogatásokról külön jogszabály rendelkezik.
+
+(3) A természetvédelmi támogatás:
+
+a) a támogatható védett természeti érték vagy terület természetes vagy természetközeli állapota helyreállításának támogatása (a továbbiakban: helyreállítási támogatás);
+
+b) a támogatható védett természeti érték vagy terület védelmét, megőrzését, igénybevételének mérséklését szolgáló fejlesztések támogatása (a továbbiakban: fejlesztési támogatás).
+
+(4)[^2] A természetvédelmi támogatás pályázat útján nyerhető el. A természetvédelmi támogatás elnyerésének részletes pályázati feltételeit a természetvédelemért felelős miniszter határozza meg és teszi közzé.
+
+(5) A (3) bekezdésben foglalt természetvédelmi támogatások vissza nem térítendő támogatások.
+
+(6) A jogosulatlanul igénybe vett természetvédelmi támogatást a támogatás igénylője – a visszafizetés évében érvényes átlagos jegybanki alapkamat kétszeres mértékének megfelelő kamattal növelve – köteles visszafizetni.
+
+(7) Jogosulatlan a természetvédelmi támogatás igénybevétele, ha utóbb megállapítást nyer, hogy a támogatás igénylője a támogatást jogosulatlanul nyerte el, illetve ha a támogatás igénylője a támogatást rendeltetésétől eltérő célra használja fel. Rendeltetéstől eltérő célú felhasználásnak minősül, ha a jogszabályban, valamint a természetvédelmi hatóság határozatában, szakhatósági állásfoglalásában, illetve a pályázati felhívásban, valamint a támogatásról szóló szerződésben meghatározott céltól, illetve feltételektől eltérően használja fel a természetvédelmi támogatást.
+
+(8) A természetvédelmi támogatás rendeltetésének megfelelő felhasználását a természetvédelmi hatóság ellenőrzi, illetve rendeli el a (7) bekezdésben foglaltak alapján a jogosulatlanul igénybe vett természetvédelmi támogatás visszafizetését.
+
+### 3. §
+
+(1) Helyreállítási támogatásban részesülhet:
+
+a) akit a tevékenysége befejezésekor hatósági határozat a támogatható védett természeti érték vagy terület természetes vagy természetközeli állapotának helyreállítására kötelez;
+
+b) aki önként vállalja a támogatható védett természeti érték, illetőleg terület természetes vagy természetközeli állapotának helyreállítását.
+
+(2) Nem részesülhet az (1) bekezdés szerinti helyreállítási támogatásban, akinek jogellenes magatartása miatt válik szükségessé a helyreállítás.
+
+(3) A helyreállítási támogatás a helyreállítás hatósági határozatban előírt helyreállítási költségének a 100%-a, csökkentve az egyéb támogatással.
+
+### 4. §
+
+(1) Fejlesztési támogatásban részesülhet a támogatás jogosultja, aki a támogatható védett természeti érték vagy terület védelmére, megőrzésére, természetkímélő használatára, élőhelyek javítására, felújítására irányuló, közvetlen természetvédelmi eredménnyel járó fejlesztést végez.
+
+(2) A közvetlen természetvédelmi eredménynek meg kell felelnie a Tvt. 36. § (3) bekezdése szerinti természetvédelmi kezelési tervnek, illetőleg a természetvédelmi hatóság engedélyében vagy szakhatósági hozzájárulásában foglaltaknak.
+
+(3) A támogatható fejlesztés kizárólagosan, illetőleg részlegesen természetvédelmi célú fejlesztés lehet.
+
+## A kártalanítás
+
+### 5. §
+
+(1) Kártalanítás igényelhető:
+
+a) a védett természeti területeken természetvédelmi érdekből elrendelt gazdálkodási korlátozással, tilalommal vagy jelentős mértékű termelésszerkezet-változtatással [Tvt. 72. § (1) bek.],
+
+b) az indokolatlan ideiglenes védetté nyilvánítással [Tvt. 72. § (3) bekezdésének első mondata],
+
+c) indokolt ideiglenes védetté nyilvánítással [Tvt. 72. § (3) bekezdésének második mondata],
+
+d) a védett természeti területeken kívül természetvédelmi érdekből elrendelt korlátozás, tilalom, egyéb hatósági kötelezés miatt bekövetkező jelentős mértékű termelésszerkezet-változtatással [Tvt. 72. § (4) bek.]
+
+okozott tényleges károk megtérítésére.
+
+(2) Az (1) bekezdés *b)* pontja szerinti ideiglenes védetté nyilvánítás akkor tekinthető indokolatlannak, ha azt a Tvt. 27. § (2) bekezdésében meghatározott időn belül nem követi végleges védetté nyilvánítás. Ha az ideiglenesen védetté nyilvánított területnek csak egy része kerül véglegesen védetté nyilvánításra, a kártalanítási igény arra a területrészre korlátozódik, amelynek végleges védetté nyilvánítása nem történt meg.
+
+### 6. §
+
+(1)[^3] A kártalanítási igényt – a (2) bekezdésre figyelemmel – a tulajdonos, illetve jogszerű használó, ideértve a földtulajdonhoz kötődő vagyoni értékű jog jogosultját is (a továbbiakban együtt: kártalanításra jogosult) nyújtja be, akinek az 5. § (1) bekezdés szerinti korlátozást, tilalmat, ideiglenes védetté nyilvánítást megállapító határozat, illetve egyéb hatósági kötelezés véglegessé válásakor és a kár bekövetkezésekor is az ingatlan a tulajdonában, illetve jogszerű használatában állt, illetőleg azon más jogszerű tevékenységet folytatott.
+
+(2)[^4] Kártalanítási igény benyújtására a kártalanításra jogosult örököse, illetve jogutódja jogosult, ha az (1) bekezdés szerinti határozat véglegessé válása és a kár bekövetkeztét követően vált örökössé, illetve jogutóddá.
+
+### 7. §
+
+(1)[^5] A kártalanítási igényt a kártalanításra jogosult a kár bekövetkezésétől vagy az arról történt tudomásszerzéstől számított 30 napon belül jogosult benyújtani.
+
+(2)[^6] A kár bekövetkezésétől számított egy éven túl kártalanítási igény nem nyújtható be.
+
+(3) A kártalanítási igénybejelentésnek tartalmaznia kell:
+
+a)[^7] a kártalanításra való jogosultság igazolását, így különösen a kártalanítási igény alapjául szolgáló bizonyítékokat, beleértve a véglegessé vált hatósági határozat által elrendelt korlátozás, tilalom és a kár bekövetkezte közötti okozati összefüggést alátámasztó bizonyítékokat,
+
+b) a képviseleti jogosultságról, a kártalanítási összeg jogosultak közötti megosztásáról szóló nyilatkozatokat,
+
+c) a kártalanításra jogosult és az ingatlan azonosításához szükséges adatokat.
+
+### 8. §
+
+(1)–(2)[^8]
+
+(3) A kártalanítás egyszeri és végleges, kivéve, ha a hatósági határozatból fakadó tilalom vagy korlátozás több mint 5 évig változatlan tartalommal fennáll. Ebben az esetben a kártalanításra jogosult a kártalanítási igényét évente – a tényleges kár bekövetkezését követően, a 7. § (1) bekezdésében megjelölt határidőn belül – jelentheti be.
+
+(4)[^9]
+
+(5)[^10]
+
+### 9. §
+
+(1)[^11] A részben vagy egészben elismert kártalanítási összeget az erről szóló határozat véglegessé válásától számított harminc napon belül a természetvédelmi hatóság a kártalanításra jogosult részére – a 7. § (3) bekezdésének *b)* pontjára is figyelemmel – folyósítja.
+
+(2) A késedelmes fizetés minden napjára a kártalanításra jogosultnak a tárgyévi átlagos jegybanki alapkamat kétszeresének háromszázhatvanötöd részét kitevő kamat jár.
+
+(3) A kártalanítás egy összegben vagy a tényleges kár bekövetkezésének megfelelő ütemezésben történő kifizetéséről a természetvédelmi hatóság a kifizetési időszak pontos megjelölésével a kártalanításról szóló határozatában rendelkezik.
+
+(4) A kártalanítási összeget bírósági letétbe kell helyezni, ha
+
+a) a kártalanításra jogosult a kártalanítási összeget nem veszi át,
+
+b) a kártalanításra jogosult lakóhelye, székhelye időközben megváltozott és ismeretlen.
+
+### 10. §
+
+(1) A rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) E rendelet hatálybalépése előtt, de 1997. január 1-jét követően elrendelt korlátozások és tilalmak esetében a kártalanítási igény e rendelet hatálybalépését követő 6 hónapos jogvesztő határidőn belül nyújtható be.
+
+---
+
+[^1]: A 2. § (1) bekezdése az 57/2014. (III. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^3]: A 6. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 142. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 142. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 7. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 377. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 7. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 142. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: A 8. § (1)–(2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 378. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 8. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 57. §-a hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 8. § (5) bekezdését a 228/2005. (X. 13.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^11]: A 9. § (1) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (61) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 142. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

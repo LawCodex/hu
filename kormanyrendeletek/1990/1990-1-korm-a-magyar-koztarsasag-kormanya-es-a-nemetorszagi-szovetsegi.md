@@ -1,0 +1,71 @@
+---
+title: "1/1990. (VII. 3.) Korm. rendelet a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között az 1990. évi március hó 24. napján jegyzékváltás útján megkötött, a vízumkényszer megszüntetéséről szóló megállapodás kihirdetéséről"
+identifier: "1/1990. (VII. 3.) Korm. rendelet"
+njt_id: "1990-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1990/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1990-07-03
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/1990. (VII. 3.) Korm. rendelet a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között az 1990. évi március hó 24. napján jegyzékváltás útján megkötött, a vízumkényszer megszüntetéséről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között az 1990. évi március hó 24. napján jegyzékváltás útján megkötött, a vízumkényszer megszüntetéséről szóló megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás hivatalos magyar nyelvű fordítása a következő:
+
+**,,MEGÁLLAPODÁS**
+
+**a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a vízumkényszer megszüntetéséről**
+
+A Magyar Köztársaság külügyminisztere a Németországi Szövetségi Köztársaság szövetségi külügyminiszterének.
+
+Van szerencsém a mai napon kelt jegyzékének kézhezvételét igazolni, amelyben javaslatot tesz Kormánya nevében a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között vízummegállapodás kötésére. Az Ön jegyzékének közösen megállapított magyar szövege az alábbi:
+
+1\. Azok a magyar állampolgárok, akik érvényes útiokmánnyal rendelkeznek és nem szándékoznak a Németországi Szövetségi Köztársaságban három hónapnál hosszabb ideig tartózkodni, vagy ott kereső tevékenységet folytatni, vízum nélkül (tartózkodási engedély vízum formájában) beutazhatnak a Német Szövetségi Köztársaságba és ott tartózkodhatnak.
+
+2\. Azok a német állampolgárok, akik érvényes útiokmánnyal rendelkeznek és nem szándékoznak három hónapnál hosszabb ideig a Magyar Köztársaságban tartózkodni, vagy ott kereső tevékenységet folytatni, vízum nélkül utazhatnak be a Magyar Köztársaságba és ott tartózkodhatnak.
+
+3\. A Felek a megállapodás hatályba lépése előtt legkésőbb 30 nappal kicserélik az érvényes útiokmányok mintapéldányait.
+
+4\. Amennyiben az egyik Fél a megállapodás hatályba lépését követően új útiokmányt vezet be, erről a másik Felet legkésőbb a bevezetést megelőzően 30 nappal diplomáciai úton, a mintapéldány megküldésével jegyzékben tájékoztatja.
+
+5\. Ez a megállapodás nem mentesíti a német állampolgárokat és a magyar állampolgárokat az alól a kötelezettség alól, hogy a másik Fél területén történő tartózkodásuk során betartsák az ott hatályban lévő törvényeket és más rendelkezéseket.
+
+6\. A Felek illetékes hatóságai fenntartják maguknak azt a jogot, hogy a nemkívánatos személyektől a beutazást megtagadják, vagy a tartózkodást megtiltsák.
+
+7\. A Felek mindenkor formaságoktól mentesen saját területükre átveszik azokat az állampolgáraikat, akik érvényes útiokmánnyal rendelkeznek.
+
+8\. A Felek ugyancsak átveszik azokat az állampolgáraikat, akik érvényes útiokmányokkal nem rendelkeznek. Szükség esetén számukra az illetékes diplomáciai vagy konzuli képviselet útiokmányt állít ki.
+
+9\. Közrendi, közbiztonsági vagy közegészségügyi okokból a Felek bármelyike a fenti rendelkezések alkalmazását átmenetileg teljesen vagy részlegesen felfüggesztheti. A felfüggesztésről és annak feloldásáról a másik Felet haladéktalanul, diplomáciai úton jegyzékben tájékoztatni kell.
+
+10\. Az 1971. szeptember 3-i négyoldalú egyezménynek megfelelően ez a megállapodás a rögzített eljárásokkal megegyezően Berlin (Nyugat)-re kiterjed.
+
+11\. Ez a megállapodás 1990. május hó 1. napján lép hatályba.
+
+12\. Ez a megállapodás bármikor három hónapos határidő betartásával felmondható. A felmondást a másik Féllel diplomáciai úton jegyzékben kell közölni.
+
+Van szerencsém közölni Önnel, hogy Kormányom az Ön jegyzékében foglalt javaslatokkal egyetért. Az Ön jegyzéke, valamint ez a válaszjegyzék Kormányaink között megállapodást képez.
+
+Engedje meg Miniszter Úr, hogy legkiválóbb nagyrabecsülésemről biztosítsam.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. május hó 1. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 9. pontja szerint módosított szöveg.

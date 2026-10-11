@@ -1,0 +1,249 @@
+---
+title: "30/1990. (VIII. 21.) Korm. rendelet a Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között a beruházások elősegítéséről és védelméről szóló Megállapodás és a hozzá csatlakozó Jegyzőkönyv kihirdetéséről"
+identifier: "30/1990. (VIII. 21.) Korm. rendelet"
+njt_id: "1990-30-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1990/Korm/30"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1990-08-21
+in_force_from: 1991-01-01
+last_amended: 1991-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-30-20-22"
+retrieved: 2026-10-12
+---
+
+# 30/1990. (VIII. 21.) Korm. rendelet a Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között a beruházások elősegítéséről és védelméről szóló Megállapodás és a hozzá csatlakozó Jegyzőkönyv kihirdetéséről[^1]
+
+*(A megállapodás jóváhagyásáról szóló jegyzékváltás 1989. szeptember 6-án megtörtént.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya a Magyar Népköztársaság[^2] Kormánya és az Olasz Köztársaság Kormánya között a beruházások elősegítéséről és védelméről Rómában, 1987. február 17. napján aláírt Megállapodást és a hozzá csatlakozó Jegyzőkönyvet e rendelettel kihirdeti.
+
+## 2. §[^3]
+
+A Megállapodás és a hozzá csatlakozó Jegyzőkönyv magyar nyelvű szövege a következő:
+
+**MEGÁLLAPODÁS**
+
+**a Magyar Népköztársaság[^4] Kormánya és az Olasz Köztársaság Kormánya között a beruházások elősegítéséről és védelméről**
+
+A Magyar Népköztársaság[^5] Kormánya és az Olasz Köztársaság Kormánya (a továbbiakban Szerződő Felek)
+
+ATTÓL AZ ÓHAJTÓL VEZETVE, hogy kedvező feltételeket teremtsenek a két ország közötti fokozottabb gazdasági együttműködés és különösen az egyik Szerződő Fél beruházói által a másik Szerződő Fél területén megvalósuló beruházások számára, és
+
+FELISMERVE, hogy az ilyen beruházások elősegítése és kölcsönös védelme nemzetközi megállapodások alapján hozzájárul a vállalkozói kezdeményezések ösztönzéséhez, a két állam felvirágzásához,
+
+AZ ALÁBBIAKBAN ÁLLAPODTAK MEG:
+
+*1. Cikk*
+
+*Meghatározások*
+
+A Megállapodás szempontjából:
+
+1\. ,,Beruházáson'' értendő bármely típusú gazdasági tevékenységhez kapcsolódó javaknak a Megállapodás hatálybalépése előtt vagy után az egyik Fél törvényeinek és rendeleteinek megfelelően a másik Szerződő Fél természetes vagy jogi személyei által történt befektetése. A fenti általános meghatározás korlátozása nélkül a ,,beruházás'' fogalmába tartoznak különösen:
+
+*a)* ingó és ingatlan dolog, valamint minden egyéb dologi jellegű tulajdonjog, mint a jelzálogjog, elsőbbségi jog, zálogjog, haszonélvezeti jog és hasonló jogok;
+
+*b)* részvények és a részesedés egyéb formái, az egyik Fél területén létesített társaságban a kisebbségi részesedés is; társasági kötvények; állami és közületi értékpapírok; gazdasági értéket képviselő bármely szolgáltatásból származó hitelek és jogok;
+
+*c)* szerzői jogok, kereskedelmi védjegyek, szabadalmak, ipari minták, valamint egyéb szellemi és ipari tulajdonjogok, know-how, kereskedelmi titok, kereskedelmi nevek és goodwill;
+
+*d)* jogszabállyal vagy szerződéssel átruházott bármely jog, valamint a jogszabályokkal összhangban levő használati engedély és koncesszió, ideértve a természeti erőforrások kutatási, kitermelési és hasznosítási jogát.
+
+2\. ,,Beruházón'' értendő bármelyik Szerződő Félnek a másik Szerződő Fél területén beruházásokat megvalósító természetes vagy jogi személye.
+
+3\. ,,Természetes személyen'' értendő mindegyik Szerződő Fél tekintetében az a természetes személy, aki az adott állam törvényei szerint annak állampolgárságával rendelkezik.
+
+4\. ,,Jogi személyen'' értendő mindegyik Szerződő Fél tekintetében bármely olyan szervezeti egység, amelynek az adott állam törvényeinek megfelelően, a Szerződő Felek egyikében van székhelye, és amelyet ez a fél jogi személynek ismert el, úgy mint a közintézmények, társaságok, hatóságok, alapítványok, magánjogi társaságok, vállalatok és állandó szervezetek, függetlenül attól, hogy felelősségük korlátozott vagy sem.
+
+5\. ,,Jövedelmen'' értendő valamilyen beruházásból származó összeg, így különösen, de nem kizárólag, a nyereség, a kamat, a tőkehozadék, az osztalék, a jogdíj vagy a műszaki segítségnyújtásért, szolgáltatásért járó térítés és egyéb törvényes járandóság.
+
+*2. Cikk*
+
+*A beruházások elősegítése és védelme*
+
+1\. Mindegyik Szerződő Fél elősegíti a másik Szerződő Fél beruházói által a területén létesítendő beruházásokat, és azokat jogszabályai szerint engedélyezi.
+
+2\. Mindegyik Szerződő Fél a másik Szerződő Fél beruházóit mindenkor igazságos és méltányos elbánásban részesíti. Mindegyik Szerződő Fél vállalja, hogy a területén a másik Szerződő Fél beruházói által megvalósított beruházások irányítását, fenntartását, használatát, élvezetét vagy átengedését semmiképpen sem sújtja indokolatlan vagy megkülönböztető intézkedéssel.
+
+*3. Cikk*
+
+*Legnagyobb kedvezményes elbánás*
+
+1\. Mindegyik Szerződő Fél ugyanolyan kedvező elbánásban részesíti a másik Szerződő Fél beruházói által a területén megvalósított beruházásokat és az azokból származó jövedelmeket, mint saját állampolgárai vagy harmadik állam beruházói által megvalósított beruházásokat és az azokból származó jövedelmeket, bármelyik legyen is a kedvezőbb megadott elbánás.
+
+2\. Mindegyik Szerződő Fél beruházóinak az általuk megvalósított beruházásokkal kapcsolatos tevékenysége semmivel sem részesül kedvezőtlenebb elbánásban, mint a saját vagy bármely harmadik állam beruházói által megvalósított beruházásokkal kapcsolatos tevékenység.
+
+3\. Ez az elbánás nem vonatkozik azokra az előjogokra, amelyeket a Szerződő Felek valamelyike vám- vagy gazdasági unióhoz, közös piachoz, szabadkereskedelmi övezethez, regionális vagy szubregionális megállapodáshoz, többoldalú nemzetközi gazdasági megállapodáshoz való tartozása alapján, vagy a Szerződő Felek egyike és harmadik állam között a kettős adóztatás elkerüléséről, vagy a határmenti kereskedelem megkönnyítéséről kötött megállapodás alapján, harmadik állam beruházói számára nyújt.
+
+*4. Cikk*
+
+*Kártalanítás károkért vagy veszteségekért*
+
+Amennyiben a két Szerződő Fél egyikének beruházói a másik Fél területén levő beruházásaikban veszteségeket lennének kénytelenek elviselni háború vagy egyéb fegyveres összeütközés, az egyik Fél szükségállapota vagy hasonló események következtében, az elszenvedett veszteségekért megfelelő kártalanításban fognak részesülni. Az ilyen kifizetések, indokolatlan késedelem nélkül, szabadon átutalhatók.
+
+A Szerződő Felek beruházói ugyanolyan elbánásban részesülnek, mint az illető Szerződő Fél állampolgárai, és semmilyen esetben sem kedvezőtlenebb elbánásban, mint a harmadik államok beruházói.
+
+*5. Cikk*
+
+*Államosítás vagy kisajátítás*
+
+1\. *(i)* A Megállapodás hatálya alá tartozó beruházások nem vethetők semmilyen olyan intézkedés alá, amely állandóan vagy időlegesen korlátozza ezeknek a beruházásoknak a tulajdonjogát, birtoklásának jogát, ellenőrzési vagy élvezeti jogát, kivéve a hatályos jogszabályoknak vagy az illetékes bíróság által hozott határozatoknak külön rendelkezéseit.
+
+*(ii)* Az egyik Szerződő Fél beruházói által megvalósított beruházásokat sem közvetlenül, sem közvetve nem államosítják, nem sajátítják ki, illetőleg nem vetik államosítással vagy kisajátítással egyenértékű intézkedés alá a másik Szerződő Fél területén, kivéve közérdekből, az illető állam nemzeti érdekeiből és azonnali, megfelelő kártalanítás ellenében, valamint azzal a feltétellel, hogy ezek az intézkedések nem megkülönböztetőek és azokat törvényes eljárásnak megfelelően hozzák.
+
+*(iii)* A jogos kártalanítást a beruházásnak, az államosítási vagy kisajátítási határozat közzététele vagy közlése időpontját közvetlenül megelőző, tényleges piaci értéke alapján számítják ki, és a nemzetközileg elfogadott értékelési alapelveknek megfelelő, a piaci értékek elismert értékelési szabályai szerint határozzák meg. Amennyiben a piaci érték megállapítása nehézségekbe ütközne, a kártalanítást a vállalati tevékenység értékelése szempontjából tipikus elemek alapján határozzák meg. A kártalanítás magába foglalja az államosítás vagy a kisajátítás keltétől a kifizetés időpontjáig esedékessé vált, LIBOR szerinti, fél évre számított kamatokat. A beruházó és a fogadó Fél közötti megállapodás hiánya esetében, a kártalanítás meghatározása a Megállapodás 9. Cikkének megfelelően, a vitás kérdések rendezésére vonatkozó eljárás alapján történik. A már meghatározott kártalanítást, a hazautalást engedélyezve, azonnal kifizetik.
+
+2\. E cikk (1) bekezdése szerinti rendelkezések alkalmazandók a beruházásból eredő hasznokra is, valamint felszámolás esetén, ez utóbbiból származó bevételekre is.
+
+*6. Cikk*
+
+*A tőke, a nyereség és az illetmények hazautalása*
+
+1\. Mindegyik Szerződő Fél garantálja, valamennyi pénzügyi kötelezettség teljesítését követően, az átutalást bármely konvertibilis valutában, indokolatlan késedelem nélkül, az alábbiak szerint:
+
+*a)* a másik Szerződő Fél beruházójának beruházásaiból esedékessé vált tiszta hasznot, osztalékot, jogdíjat, a műszaki segítségnyújtásért és szolgáltatásért járó térítést, kamatot és egyéb nyereséget;
+
+*b)* a Szerződő Fél beruházója által megvalósított beruházás teljes vagy részleges eladásából, illetve teljes vagy részleges felszámolásából eredő bevételt;
+
+*c)* a kölcsönök visszafizetésére szolgáló összegeket;
+
+*d)* törvényei és nemzeti jogszabályai által előírt mértékben és módon a másik Szerződő Fél állampolgárai által felvett azokat az illetményeket és térítéseket, amelyek a területén létesített beruházással összefüggésben végzett munkából és szolgáltatásokból származnak.
+
+2\. A Megállapodás 3. Cikke alkalmazási körének korlátozása nélkül, a Szerződő Felek kötelezik magukat arra, hogy az e Cikk (1) bekezdése szerinti átutalásokat ugyanolyan kedvezményes elbánásban részesítik, mint amilyent harmadik államok beruházói által megvalósított beruházásokkal kapcsolatos átutalásoknak nyújtanak.
+
+*7. Cikk*
+
+*Jogok átszállása*
+
+Abban az esetben, amikor az egyik Szerződő Fél nem kereskedelmi kockázatok ellen garanciát nyújtott a saját beruházója által a másik Szerződő Fél területén megvalósított beruházásra, és ennek a beruházónak a garancia alapján fizetést teljesített, a másik Szerződő Fél elismeri a jogok átszállását a beruházóról az előbb említett Szerződő Félre; ez a jogátszállás nem terjedhet túl a beruházó eredetileg fennállott jogain. A Szerződő Fél által az ilyen jogátszállás alapján teljesítendő fizetések átutalására a 4., 5. és 6. Cikk megfelelően alkalmazandó.
+
+*8. Cikk*
+
+*Átutalási módok*
+
+A 4., 5., 6. és 7. Cikk szerinti átutalásokat indokolatlan késedelem nélkül kell teljesíteni, és mindenképpen a pénzügyi kötelezettségek rendezését követő hat hónapon belül. Ezek az átutalások, az átutalás időpontjában alkalmazandó hivatalos árfolyamon, konvertibilis valutában történnek.
+
+*9. Cikk*
+
+*Beruházási viták rendezése*
+
+1\. Az egyik Szerződő Fél és a másik Szerződő Fél beruházója között, az előbb említett fél területén megvalósított beruházásokkal kapcsolatos kisajátításból, államosításból vagy hasonló intézkedésekből eredő vitákat, ideértve a kártalanítás összegére vonatkozó vitákat is, lehetőség szerint, békés úton rendezik.
+
+2\. Amennyiben az e Cikk (1) bekezdésének rendelkezése szerint az ilyen vitát, annak kezdeményezésétől számított hat hónapon belül nem lehet rendezni, azt az érdekelt beruházó előterjesztheti:
+
+*a)* a Szerződő Fél döntésre illetékes bíróságánál;
+
+*b)* a Jegyzőkönyv 3. pontjának rendelkezései szerinti választottbíróságnál;
+
+*c)* a ,,Beruházási Viták Rendezésének Nemzetközi Központjánál'', választottbírósági úton való rendezés céljából, attól az időponttól kezdődően, amikor mindkét Szerződő Fél csatlakozott ,,Az Államok és más államok természetes és jogi személyei közötti beruházási viták rendezéséről Washingtonban, 1965. március 18-án készült egyezményhez''.
+
+3\. A két Szerződő Fél tartózkodik attól, hogy diplomáciai úton tárgyaljon bármely választottbíróságra vagy bírói útra tartozó ügyet, mindaddig, amíg az eljárás be nem fejezódött, és amíg az egyik Szerződő Fél a választottbíróság vagy az eljáró bíróság határozatához tartja magát, annak eleget tesz.
+
+*10. Cikk*
+
+*A Szerződő Felek közötti viták rendezése*
+
+1\. A Felek közötti vitákat a Megállapodás értelmezésével és alkalmazásával kapcsolatban, lehetőség szerint a két Fél diplomáciai úton, közvetlen tanácskozás keretében rendezi.
+
+2\. Abban az esetben, ha az ilyen vitát nem lehet attól az időponttól számított három hónapon belül rendezni, amikor az egyik Szerződő Fél írásban fordult a másik Félhez, ezt a Felek egyike *ad hoc* választottbíróság elé terjeszti, e Cikk rendelkezéseivel összhangban.
+
+3\. A választottbíróságot a következő módon alakítják meg: a választottbíráskodás iránti kérelem kézhezvételétől számított két hónapon belül mindegyik Fél kijelöli a bíróság egy tagját. A két tag ezt követően megválasztja az elnöki feladatkört betöltő személyt, aki egy harmadik állam állampolgára (a továbbiakban elnök). Az elnököt a két másik tag kijelölésétől számított három hónapon belül kell megválasztani.
+
+4\. Amennyiben e Cikk (3) bekezdése szerinti határidőkön belül az egyik Fél nem jelölte volna ki választottbíróját, vagy a két választottbíró nem tudott megegyezni az elnök személyében, a kijelölés céljából a Nemzetközi Bíróság Elnökéhez lehet fordulni. Abban az esetben, ha a Nemzetközi Bíróság Elnöke a Szerződő Felek egyikének állampolgára, vagy ha feladatkörének ellátásában akadályoztatva van, a kijelölés céljából a Nemzetközi Bíróság Alelnökéhez lehet fordulni. Amennyiben az Alelnök is az egyik Szerződő Fél állampolgára, vagy ha feladatkörének ellátásában akadályoztatva van, a kijelölésre a Nemzetközi Bíróságnak azt a tagját kérik fel, aki szolgálati rangsorban őt követi, és aki a Szerződő Felek egyikének sem állampolgára.
+
+5\. A választottbíróság szavazattöbbséggel dönt, és döntései kötelezőek. Mindegyik Szerződő Fél viseli választottbírója és eljárásbeli képviseletének költségeit. Az elnök költségeit és az egyéb költségeket a két állam egyenlő arányban viseli. A választottbíróság maga határozza meg eljárásának szabályait.
+
+*11. Cikk*
+
+*A Szerződő Felek közötti kapcsolatok*
+
+A Megállapodás rendelkezései a Felek közötti diplomáciai vagy konzuli kapcsolatok fennállásától függetlenül alkalmazandók.
+
+*12. Cikk*
+
+*Egyéb szabályok alkalmazása*
+
+1\. Amennyiben valamilyen kérdést akár a Megállapodás, akár egy másik olyan nemzetközi szerződés, amelynek a két Szerződő Fél részese, akár az általános nemzetközi jog szabályoz, úgy e Megállapodás egyik rendelkezése sem korlátozza a Szerződő Felek bármelyikét, illetőleg azok természetes vagy jogi személyeit, akik a másik Szerződő Fél területén beruházásokat valósítottak meg, abban, hogy a számukra kedvezőbb szabály előnyeit élvezzék.
+
+2\. Amennyiben az egyik Szerződő Fél törvényeinek, rendeleteinek vagy egyéb rendelkezéseinek, illetőleg külön szerződéseinek megfelelően a másik Szerződő Fél beruházói számára kedvezőbb elbánást irányoz elő annál, mint amit e Megállapodás előirányoz, a kedvezőbb elbánás alkalmazandó.
+
+*13. Cikk*
+
+*Hatálybalépés*
+
+A Megállapodás abban az időpontban lép hatályba, amikor a két Szerződő Fél értesítette egymást az erre vonatkozó alkotmányos eljárások teljesítésének megtörténtéről.
+
+*14. Cikk*
+
+*Időtartam és lejárat*
+
+1\. A Megállapodás 10 éves időtartamra marad hatályban, és további 5 éves időszakokra is hatályban marad, feltéve, hogy azt az egyik Fél a Megállapodás lejárta előtt egy éven belül írásban fel nem mondja.
+
+2\. A Megállapodás lejártának időpontját megelőzően létesített beruházásokra az 1—12. Cikkek rendelkezései a Megállapodás lejártát követő további 5 évre hatályban maradnak.
+
+ENNEK HITELÉÜL, a Kormányaik által kellően felhatalmazott alulírottak a Megállapodást aláírták.
+
+KÉSZÜLT Rómában, 1987. év február hó 17. napján, két eredeti példányban, mindkettő magyar és olasz nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Népköztársaság Kormánya nevében
+
+*Kovács László*
+
+Az Olasz Köztársaság Kormánya nevében
+
+*Bruno Corti*
+
+**JEGYZŐKÖNYV**
+
+A Magyar Népköztársaság Kormánya és az Olasz Köztársaság Kormánya között a beruházások elősegítéséről és védeméről szóló Megállapodás aláírása alkalmával még az alábbi rendelkezésekben állapodtak meg, amelyek a Megállapodás szerves részét képezik:
+
+1\. *Az 1. Cikk tekintetében*
+
+A Megállapodás rendelkezései az 1973. január 1-jét követően létesített beruházásokra alkalmazandók.
+
+2\. *A 3. Cikk tekintetében*
+
+*a)* Minden az alapanyagok és másodlagos anyagok, energia, üzemanyagok és termelőeszközök megszerzésére, eladására és szállítására irányuló tevékenység, ugyanígy minden ezzel kapcsolatos tevékenység, ugyanolyan kedvező elbánásban részesül, mint amilyent annak a tevékenységnek nyújtanak, amelyet a fogadó ország állampolgárai vagy harmadik ország beruházói élveznek, bármelyik legyen is a kedvezőbb. Az ilyen tevékenység rendes gyakorlásával szemben semmilyen akadályt sem támasztanak, amennyiben e tevékenységet a fogadó ország törvényeinek és rendeleteinek megfelelően és a Megállapodás rendelkezéseinek figyelembevételével folytatják.
+
+*b)* Az egyik Szerződő Fél területén munkavégzésre jogosult állampolgárok élvezhetik szakmai tevékenységük folytatásához a szükséges feltételeket.
+
+3\. *A 9. Cikk tekintetében*
+
+Ami a Megállapodás 9. Cikk (2) bekezdés *b)* pontjában említett választottbíróságot illeti, az Egyesült Nemzetek Nemzetközi Kereskedelmi Jogi Bizottsága (UNCITRAL) választottbírósági szabályzatának megfelelően, a választottbíróságot az alábbiak szerint kell megalakítani:
+
+*a)* A választottbíróság három választottbíróból áll. Mindegyik Fél egy választottbírót jelöl ki. A két választottbíró közös megegyezéssel olyan Elnököt jelöl ki, aki egy harmadik állam állampolgára, mely állam mindkét Szerződő Féllel diplomáciai kapcsolatot tart fenn. A választottbírókat, ideértve az Elnököt is, két hónapon belül jelölik ki, attól az időponttól számítva, amikor az egyik Fél a másik Felet értesítette arról, hogy a vitát választottbíróság elé kívánja terjeszteni. Amennyiben a kijelöléseket a fenti határidőn belül nem teljesítik, bármelyik Fél felkérheti a Stockholmi Kereskedelmi Kamara Választottbírósági Intézetének elnökét a kijelölések két hónapon belüli megtételére.
+
+*b)* A választottbíróság szavazattöbbséggel dönt. A választottbíróság határozata végleges, és köti a vitában álló Feleket. A vitában álló Felek a határozatot nemzeti jogszabályaiknak megfelelően hajtják végre.
+
+*c)* A választottbírósági határozatot a nemzeti jogszabályokkal, ideértve a beruházást befogadó Szerződő Fél kollíziós jogszabályait, és a megállapodás rendelkezéseivel, valamint a két Fél által elismert általános nemzetközi jog alapelveivel összhangban hozzák.
+
+*d)* A vitában álló Felek viselik saját választottbírójuk és eljárásbeli képviseletük költségeit. Az Elnök költségeit és a választottbíróság egyéb költségeit a két Fél egyenlő részben viseli.
+
+KÉSZÜLT Rómában, 1987. év február hó 17. napján, két eredeti példányban, mindkettő magyar és olasz nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Népköztársaság Kormánya nevében
+
+*Kovács László*
+
+Az Olasz Köztársaság Kormánya nevében
+
+*Bruno Corti*
+
+## 3. §
+
+(1) E rendelet a kihirdetése napján lép hatályba; rendelkezéseit azonban 1989. szeptember 6-ától kezdődően kell alkalmazni.
+
+(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+
+---
+
+[^1]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^2]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^3]: A 9/2008. (II. 18.) KüM határozat alapján a Megállapodás és a hozzá csatlakozó Jegyzőkönyv 2008. október 1-jén hatályukat vesztik, míg a Megállapodás alapján létrejött beruházások vonatkozásában 2013. október 1-jéig kerülnek alkalmazásra a Megállapodás és a hozzá csatlakozó Jegyzőkönyv rendelkezései.
+[^4]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^5]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.

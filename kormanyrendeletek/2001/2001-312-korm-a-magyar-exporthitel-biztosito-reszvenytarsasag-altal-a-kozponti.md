@@ -1,0 +1,1063 @@
+---
+title: "312/2001. (XII. 28.) Korm. rendelet a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről"
+identifier: "312/2001. (XII. 28.) Korm. rendelet"
+njt_id: "2001-312-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/312"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-28
+in_force_from: 2008-05-16
+last_amended: 2025-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-312-20-22"
+retrieved: 2026-10-12
+---
+
+# 312/2001. (XII. 28.) Korm. rendelet a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről
+
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló, többször módosított 1994. évi XLII. törvény (a továbbiakban: Etv.) 26. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §[^1]
+
+(1)[^2] E rendelet hatálya az Etv. 3. § (3)–(7) bekezdése szerinti kockázatoknak a Magyar Exporthitel Biztosító Zártkörűen működő Részvénytársaság (a továbbiakban: Mehib Zrt.) általi biztosítására, valamint viszontbiztosítási szerződéseire terjed ki.
+
+(2)[^3] Az e rendelet hatálya alá tartozó biztosításokra és viszontbiztosításokra a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) biztosítási fejezetének rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni azzal, hogy a 17/B. § (1) bekezdésében meghatározott mentesülési okok a Ptk. 6:464. § szerinti mentesülési szabályokkal együtt alkalmazandók.
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+a) *állami adós*: a központi kormányzat, a jegybank (a továbbiakban együtt: szuverén adós), továbbá a regionális és a helyi önkormányzat, illetve az irányításuk alatt álló minden olyan szervezet, amely a szervezet székhelye szerinti állam joga alapján sem jogi, sem közigazgatási úton nem nyilvánítható fizetésképtelennek;
+
+b) *magánadós*: minden olyan szervezet, amely nem tartozik az *a)* pontba;
+
+c)[^4] *külföldi vállalkozás:* olyan külföldi székhelyű gazdasági társaság, amely vállalkozás létrehozásával a belföldi gazdálkodó szervezet e vállalkozásban közvetlenül vagy más hazai és külföldi vállalkozása útján közvetetten tőkebefektetéssel rendelkezik, vagy amelybe tőkebefektetést kíván eszközölni;
+
+d)[^5] *külföldi vállalkozásba befektetett tőke és annak hozama:*
+
+da) *külföldi vállalkozásba befektetett tőke:* a *c)* pontban meghatározott külföldi vállalkozás javára teljesített pénzbeli befizetés, nem pénzbeli betét,
+
+db) *külföldi vállalkozásba befektetett tőke hozama:* a *c)* pontban meghatározott külföldi vállalkozásból származó osztalék, nyereségrészesedés, tulajdonosi hitel miatt felmerült kamat, prémium, továbbá bármilyen, a külföldi vállalkozás székhelye szerinti ország joga alapján harmadik országba irányuló tőkebefektetésből származó jövedelem;
+
+e)[^6] *idegen tartalom:* az exportirányú külkereskedelmi szerződéshez kapcsolódóan nyújtott azon termékek, illetve szolgáltatások, amelyek esetében nem kerül igazolásra a 7. § szerinti magyar származásra vonatkozó követelmény;
+
+f)[^7] *állami adós által vállalt szerződéses kötelezettség:* a 4. § (1) bekezdésének e) pontjában meghatározott szerződéseket érintően a harmadik országba irányuló tőkebefektetéshez kacsolódóan az *a)* pontban foglalt meghatározásnak megfelelő harmadik országbeli állami adós szerződő által szerződésben vállalt kötelezettsége;
+
+g)[^8] *garancia:* ajánlattételi (tender)-, előleg-visszafizetési-, teljesítési,- jólteljesítési-, szavatossági- vagy visszatartási- garancia;
+
+h)[^9] *export:* olyan termékértékesítés vagy szolgáltatásnyújtás, amelyet a gazdálkodó szervezet a rá irányadó számviteli szabályok szerint exportárbevételként számol el, ideértve a 2. § (1) bekezdés q) pontja szerinti exportirányú külkereskedelmi szerződések esetén a belföldi gazdálkodó szervezet teljesítése eredményeként létrejövő árbevételt is;
+
+i)[^10] *szállítói hitel:* olyan tagállami származású áruk vagy szolgáltatások exportjáról szóló, egy vagy több szállító és egy vagy több vevő közötti kereskedelmi szerződésre vonatkozik, ahol a vevő(k) vállalja (vállalják), hogy a szállító(k)nak készpénzzel vagy hitelmegállapodás keretében fizet(nek);
+
+j)[^11] *vevőhitel:* olyan kereskedelmi szerződést finanszírozó, egy vagy több pénzügyi intézmény és egy vagy több kölcsönvevő közötti, egy vagy több tagállamból származó termékek és szolgáltatások exportjáról szóló hitelszerződésre vonatkozik, ahol a hitelintézet(ek) vállalja (vállalják), hogy a szállító(k)nak a kölcsön alapjául szolgáló ügylet alapján készpénzben fizet(nek) a vevő(k)/kölcsönvevő(k) nevében, míg a vevő(k)/kölcsönvevő(k) lejáratkor visszafizetik azt a hitelintézet(ek)nek.
+
+k)[^12] *nemzeti érdekű fedezetnyújtás:* exporthitel biztosítás keretében a Mehib Zrt. olyan kockázatvállalása, amelynél a fedezet az ügyletnek a biztosított által benyújtott dokumentumokkal alátámasztható stratégiai jelentősége vagy meghatározott nemzetgazdasági hatásai alapján terjed ki az idegen tartalomra;
+
+l)[^13] *viszontbiztosítás:* olyan biztosítás, amelynek keretében ellenérték fejében egy biztosító kockázatkezelési céllal egy másik biztosítónak átad kockázatot, és ezáltal saját kockázatát továbbhárítja, illetve egy másik biztosító ellenérték fejében átvesz más biztosító által vállalt kockázatot,
+
+la) *passzív viszontbiztosítás:* a Mehib Zrt. az általa vállalt kockázatokból átad külföldi székhelyű biztosítónak,
+
+lb) *aktív viszontbiztosítás:* a Mehib Zrt. viszontbiztosítás keretében kockázatokat vállal át külföldi vagy belföldi székhelyű biztosítótól;
+
+m)[^14] *belföldi székhelyű biztosító:* Magyarországon bejegyzett biztosító, viszontbiztosító vagy külföldi székhelyű biztosító magyarországi fióktelepe;
+
+n)[^15] *érdekeltség:*
+
+na) Az érdekeltség olyan külföldön bejegyzett, a biztosított tulajdonosi érdekeltségébe tartozó gazdálkodó szervezet,
+
+*naa)*[^16] amelyben a biztosított vagy a biztosított bármely tulajdonosa közvetlenül vagy közvetve a Ptk. 8:2. § szerinti többségi befolyással rendelkezik, vagy
+
+*nab)*[^17] amely, vagy amelynek bármely tulajdonosa a biztosított gazdálkodó szervezetben közvetve vagy közvetlenül a Ptk. 8:2. § szerinti többségi befolyással rendelkezik.
+
+nb)[^18] A biztosított és egy külföldön bejegyzett gazdálkodó szervezet között érdekeltségi viszony áll fenn az *na)* pontban rögzítetteken túl akkor is, ha harmadik személynek minősülő természetes személy vagy gazdálkodó szervezet közvetlenül vagy közvetve mindkettőjükben a Ptk. 8:2. § szerinti többségi befolyással rendelkezik;
+
+o)[^19] *egyedi szerződés:* olyan egyéb módozatba tartozó biztosítási termék, melyet az Etv. 3. § (2) bekezdése alapján Magyarország ellátásbiztonságához kapcsolódóan nyújt a Biztosító egyedileg meghatározott feltételekkel ideértve, ha ezen célokból a Mehib Zrt. viszontbiztosítás keretében egyedi kockázatokat vállal át külföldi vagy belföldi székhelyű biztosítótól;
+
+p)[^20] *egyedi* *módozat:* az a rövidlejáratú vagy közép- és hosszú lejáratú ügyletre vonatkozó biztosítási módozat, amely esetén a Mehib Zrt. kockázatviselése a biztosított vagy az exportirányú külkereskedelmi tevékenységet folytató gazdálkodó szervezet és az adós vagy megrendelő között létrejött egyetlen jogügyletből és az ezen jogügyletekhez kapcsolódóan a biztosított által nyújtott finanszírozásból eredő követelésre vagy követelésekre terjed ki;
+
+q)[^21] *exportirányú* *külkereskedelmi* *szerződés:*
+
+qa) a belföldi gazdálkodó szervezet,
+
+qb) a teljesítés helye szerinti ország joga szerint alapított gazdasági társaság vagy
+
+qc) a qa) és qb) alpontban meghatározottak hiányában a nem a teljesítés helye szerinti országban bejegyzett gazdálkodó szervezet
+
+által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
+
+r)[^22]
+
+s)[^23] *rövid lejáratú ügylet:* azon ügylet, amely esetén a biztosított, gyártási időt és a hitel futamidejét is magában foglaló teljes kockázatviselési idő nem éri el a két évet;
+
+t)[^24] *közép- és hosszú lejáratú ügylet:* azon ügylet, amely esetén a biztosított, gyártási időt és a hitel futamidejét magában foglaló, teljes kockázatviselési idő két év vagy annál hosszabb;
+
+u)[^25] *forgalmi* *típusú* *módozat:* az a rövidlejáratú ügyletekre vonatkozó biztosítási módozat, amely esetén a Mehib Zrt. kockázatviselése a biztosított vagy exportőr és az adós vagy megrendelő közötti exportirányú külkereskedelmi kapcsolat(ok)ból eredő követelésekre terjed ki;
+
+v)[^26] *egyéb módozat:* a d), g) és o) pontban meghatározott termékekhez nyújtott biztosítás, valamint az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák;
+
+w)[^27] *faktoring biztosítás:* a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontjában meghatározott pénzügyi szolgáltatási tevékenységhez az Etv. 3. § (3) bekezdés a) és b) pontjában foglaltaknak megfelelően nyújtott biztosítási vagy viszontbiztosítási fedezet,
+
+x)[^28] *gazdálkodó* *szervezet:* az Etv. 1. § (5a) bekezdés 3. pontjában meghatározott szervezet, ideértve a külföldi székhelyű gazdálkodó szervezetet is.
+
+y)[^29] *külföldi székhelyű biztosító:* minden olyan külföldi szervezet, amely vagy
+
+ya) a Berni Unió tagja,
+
+yb) vagy legalább befektetési kategóriájú külső hitelminősítéssel rendelkező biztosító, vagy viszontbiztosító,
+
+yc) vagy exporthitel-ügynökség,
+
+yd) vagy nemzetközi szervezet,
+
+amely a rá irányadó jog szabályai szerint jogosult biztosítási vagy viszontbiztosítási vagy exporthitel-ügynökségi tevékenységet végezni;
+
+z)[^30] *export szerződéses értéke:* a vevő által vagy nevében az exportált árukért és szolgáltatásokért fizetendő, helyi költséget nem tartalmazó összeg;
+
+zs)[^31] *helyi költség:* a vevő országában felmerülő, azon árukért és szolgáltatásokért fizetendő, az exportőr képviselőjének a vevő országában fizetendő jutalékát nem tartalmazó kiadás, amely az exportőr szerződésének teljesítéséhez vagy az exportőr szerződését magában foglaló projekt megvalósításához szükséges.
+
+(2) Az állami adósra vonatkozó előírásokat kell alkalmazni az (1) bekezdés b) pontja szerinti szervezet esetében, ha a kötelezettségeiért az állami adós, mint kezes vállal felelősséget.
+
+(3)[^32] Jelen rendelet alkalmazásában a külföldi vállalkozásnak nyújtott tulajdonosi hitel, illetve a tulajdonos által a külföldi vállalkozás hitelfelvételéhez vállalt jogszabályban nevesített fizetési kötelezettség ugyanolyan megítélés alá esik, mint a 2. § (1) bekezdés da) pontja szerinti befektetett tőke;
+
+### 3. §[^33]
+
+A biztosítás, illetve a viszontbiztosítás alanyai egyrészről a Mehib Zrt. mint biztosító, viszontbiztosító vagy viszontbiztosított, másrészről
+
+a) mint biztosított
+
+aa)[^34] a külkereskedelmi tevékenységet folytató gazdálkodó szervezet, illetve a 2. § (1) bekezdés o) pontja szerinti egyedi szerződés esetében a gazdálkodó szervezet,
+
+ab) a külföldi vállalkozásba közvetlenül vagy közvetetten befektető belföldi gazdálkodó szervezet, abban az esetben, ha a Mehib Zrt. kockázatviselése az egyéb módozat alá tartozó ügyletre terjed ki,
+
+ac) a 4. § (1) bekezdés c) pontjában meghatározott pénzügyi szolgáltatás valamelyikét nyújtó pénzügyi intézmény, vagy
+
+ad) az utazásszervezési szolgáltatást végző belföldi vállalkozás, abban az esetben, ha a Mehib Zrt. kockázatviselése rövid lejáratú ügyletnek minősülő ügyletre terjed ki, vagy
+
+b) a külföldi székhelyű biztosító mint viszontbiztosított vagy viszontbiztosító, vagy
+
+c) a belföldi székhelyű biztosító mint viszontbiztosított.
+
+## A Mehib Zrt. által az Állam készfizető kezessége mellett vállalható biztosítások tárgya[^35]
+
+### 4. §
+
+(1)[^36] A Mehib Zrt. által biztosítható, illetve viszontbiztosítható:
+
+a) az exportirányú külkereskedelmi szerződés alapján előállított termék, illetőleg szolgáltatás előállítási költsége;
+
+b) a külföldi adóssal szembeni exportirányú külkereskedelmi szerződésből és hitelszerződésből származó követelés, ideértve az érdekeltség biztosítottól átvett áru külföldi adós részére történő tovább értékesítéséből, vagy az érdekeltség általi feldolgozását követő tovább értékesítéséből származó követelését is, feltéve, hogy a külkereskedelmi keretszerződés keretében teljesített export – a 7/A. §-ban foglalt kivétellel – megfelel a 7. § (1) bekezdésében vagy (7) bekezdésében előírt magyar hányadra vonatkozó előírásoknak;
+
+c) az exportirányú külkereskedelmi szerződéshez vagy külföldi vállalkozáshoz kapcsolódóan hitel- és pénzkölcsön nyújtásából, pénzügyi lízingből, kezesség és hitelintézet által nyújtott garancia vállalásából, valamint egyéb bankári kötelezettség vállalásából eredő követelés;
+
+d) a külföldön kiírt versenytárgyalásokra (tenderekre) benyújtott ajánlatok tervezett költsége;
+
+e) a külföldi vállalkozásba befektetett tőke és annak hozama;
+
+f) a 3. § b) és c) pontjában meghatározott hitelbiztosító biztosítási szerződése, amennyiben az a magyar áruk és a biztosítható szolgáltatások exportirányú külkereskedelmi szerződéséhez kapcsolódik (viszontbiztosítás), ide nem értve a 7/A. §-ban foglalt kivételt;
+
+g) a 2. § (1) bekezdés g) pontjában meghatározott kereskedelmi garancia, ha az exportirányú külkereskedelmi szerződéshez kapcsolódik;
+
+h) a 2. § (1) bekezdés o) pontja keretében az Etv. 3. § (1) bekezdésében felsorolt kockázatok);
+
+i) beszállítói hitel nyújtásából eredő követelés.
+
+(2) Az (1) bekezdés b) és c) pontjában foglalt esetekben a biztosítás kiterjed a kárfizetési türelmi időre számított szerződéses kamatra is.
+
+(3) A biztosítás nem terjed ki:
+
+a) a kötbérből, a szerződéses bírságból, a késedelmi kamatból és a kártérítésből eredő követelésekre;
+
+b) a számviteli bizonylattal nem igazolható költségekre;
+
+c)[^37] a közvetett károkra, ideértve az elmaradt hasznot is, kivéve a 4. § (1) bekezdés e) pontja szerinti külföldi vállalkozásba befektetett tőke hozamát, valamint ha a 6. § (2) és (3) bekezdésében foglaltak szerint az általános szerződési feltételek nem tartalmazzák a 17/A. § (1) bekezdés d) pont dd) alpontjában szereplő mentesülést vagy a 17/A. § (4) bekezdése vagy a 17/B. § (4) bekezdése szerinti kárfizetési halasztást, és a szerződés teljesítésében részt vevők nem szerződésszerű teljesítése vagy nemteljesítése ellenére is a biztosított jogosult a kárfizetésre;
+
+d)[^38]
+
+e)[^39] azokra a károkra, amelyekre vonatkozóan más biztosítóval kötött vagyonbiztosítási szerződés fedezetet nyújtott;
+
+f)[^40]
+
+g)[^41] pénzügyi befektetésekre, ide nem értve az (1) bekezdés e) pontja szerinti befektetés biztosítás tárgyát képező befektetéseket és az (1) bekezdés c) pontja szerinti külföldi vállalkozáshoz kapcsolódó hitelnyújtást;
+
+h)[^42] hitelintézet által vállalt garancia biztosításánál a garancia díjára.
+
+i)[^43] a 2. § (1) bekezdés o) pontja szerinti egyedi szerződés keretében biztosított, illetve viszontbiztosított ügyletek esetében az egyedi szerződéses feltételekben meghatározott kizárásokra.
+
+(4)[^44] Belföldi gazdálkodó szervezetnek a külföldiek Magyarországra történő utaztatási tevékenységéből származó követelése e rendelet alkalmazásában úgy minősül, mint a külföldi adóssal szembeni exportirányú külkereskedelmi és hitelszerződésből származó követelés.
+
+## Az Állam készfizető kezessége mellett vállalható kockázatokhoz kapcsolódó biztosítási események[^45]
+
+### 5. §[^46]
+
+Az Állam készfizető kezessége mellett vállalható kockázatokhoz kapcsolódó biztosítási események a következők:
+
+a) a magánadós vagy annak kötelezettsége teljesítéséért szerződést biztosító mellékkötelezettséget (kezesség, garancia) vállaló jogi személy (a továbbiakban: kezes) fizetésképtelensége;
+
+b)[^47] közép- és hosszú lejáratú ügyletre vonatkozó egyedi módozat esetén az adós vagy kezese fizetési késedelme, rövidlejáratú ügyletre vonatkozó egyedi módozat és forgalmi típusú módozat esetén az adós vagy kezese nem fizetése;
+
+c)[^48] az exportirányú külkereskedelmi szerződés vevő általi jogalap nélküli egyoldalú felmondása vagy az áru átvételének vevő általi jogalap nélküli egyoldalú megtagadása, továbbá a garanciát vállaló hitelintézet által nyújtott garancia lehívása;
+
+d) a biztosító vagy a biztosított országán kívüli harmadik ország kormányának, illetve más állami hatóságának olyan intézkedése, amely megakadályozza az exportirányú külkereskedelmi szerződés vagy hitelmegállapodás teljesítését (pl. beviteli tilalom);
+
+e) általános moratórium elrendelése akár az adós vagy kezese országának, akár olyan harmadik országnak a kormánya által, amelyen keresztül az exportirányú külkereskedelmi szerződésre vagy a hitelmegállapodásra vonatkozóan a fizetések lebonyolódnak;
+
+f) a biztosító országán kívül bekövetkezett olyan politikai események, gazdasági nehézségek, törvényhozási vagy adminisztratív intézkedések, amelyek megakadályozzák vagy késleltetik az exportirányú külkereskedelmi szerződésre vagy hitelmegállapodásra vonatkozó kifizetések átutalását;
+
+g) az adós országában hozott olyan rendelkezés, amely az adós által helyi valutában teljesített fizetéseket a tartozás megfizetésének tekinti, annak ellenére, hogy – az árfolyamváltozás következtében – az ilyen fizetések az exportirányú külkereskedelmi szerződés vagy hitelmegállapodás devizanemére történő átváltással az átutalás időpontjában már nem fedezik a követelés összegét;
+
+h)[^49] a biztosító vagy a biztosított országának kormánya által hozott, a külkereskedelmi forgalmat akadályozó intézkedése, ideértve az Európai Unió intézkedését is, feltéve, hogy az intézkedés miatt bekövetkező károk vonatkozásában nem kerül sor kártalanításra vagy egyéb kompenzációra;
+
+i)[^50] a biztosító országán kívüli olyan vis maior események (így különösen háború, polgárháború, lázadás, zendülés, forradalom és hasonló jellegű politikai események, természeti és nukleáris katasztrófák, járvány), amelyek megakadályozzák az exportirányú külkereskedelmi szerződés vagy a hitelmegállapodás teljesítését, amennyiben annak kockázatait másként nem biztosították; vagy azok hatásai másként nem biztosíthatóak;
+
+j)[^51] a 4. § (1) bekezdés e) pontja szerinti befektetés biztosítása esetén a külföldi vállalkozás székhelye szerinti országban végrehajtott államosítás, kisajátítás, háború, polgárháború, forradalom vagy olyan államhatalmi, közigazgatási intézkedés, amely nem teszi lehetővé a külföldi vállalkozásba befektetett tőkének, annak hozamának biztosított részére történő átutalását;
+
+k) a külföldön kiírt versenytárgyalást (tendert) az ajánlatot benyújtott biztosított megnyeri, de szerződéskötésre nem kerül sor a biztosítotton kívülálló okból;
+
+l)[^52]
+
+m)[^53] a 4. § (1) bekezdés e) pontja szerinti befektetés biztosítása esetén harmadik országbeli állami adós szerződésszegése, amennyiben a biztosított (vagy a biztosított nevében a külföldi vállalkozás) a 2. § (1) bekezdés f) pontjában meghatározott harmadik országbeli szerződővel szemben, a javára meghozott bírósági ítéletnek képtelen érvényt szerezni, feltéve, hogy a bírósági ítélet számszerűsített értékről szól, és a külföldi vállalkozás harmadik országba irányuló tőkebefektetéséhez kapcsolódó megállapodás szerinti szerződéses kötelezettség szerződő általi nem teljesítése, vagy a megállapodásnak szerződő általi felmondása miatt következett be;
+
+n)[^54] a 2. § (1) bekezdés o) pont szerinti egyedi szerződés keretében biztosított, illetve viszontbiztosított ügyletek esetében az egyedi szerződéses feltételekben meghatározott, az Etv. 3. § (1) bekezdésében felsorolt vállalható kockázatokhoz kapcsolódó biztosítási események.
+
+## A biztosíthatóság feltételei
+
+### 6. §[^55]
+
+(1) Az exporthitelnyújtáshoz kapcsolódó biztosításoknál a biztosítási szerződés megkötésének feltétele, hogy
+
+a)[^56] a kockázat az Etv. 3. § (3)–(5) bekezdése alapján az állam készfizető kezessége mellett biztosíthatónak minősüljön,
+
+b)[^57] a Gazdasági és Együttműködési és fejlesztési Szervezet (a továbbiakban: OECD) Hivatalosan támogatott exporthitelekről szóló Megállapodás (a továbbiakban: OECD Megállapodás) hatálya alá tartozó közép- és hosszú lejáratú ügyletek esetén az exportirányú külkereskedelmi szerződéshez kapcsolódó exporthitelnyújtás tartalmilag megfeleljen a szerződéskötés időpontjában hatályos OECD Megállapodásban meghatározottaknak,
+
+c)[^58] az OECD Tanácsának vesztegetésről és a hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet megfelel az ajánlásában meghatározottaknak,
+
+d)[^59] a Mehib Zrt. által az OECD Tanácsának a hivatalosan támogatott exporthitelekkel és a környezeti és társadalmi átvilágítással kapcsolatos közös megközelítésről szóló ajánlásának hatálya alá tartozó ügylet esetében a megfelelően elvégzett környezeti célú átvilágítás, valamint az annak keretében készített környezeti hatástanulmány vagy környezeti és társadalmi hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak és az emberi jogokra tekintettel hátrányosnak, és
+
+e)[^60] a Mehib Zrt. lefolytatta az OECD Tanácsának a fenntartható hitelezési gyakorlatokról és hivatalosan támogatott exporthitelekről szóló ajánlásának hatálya alá tartozó ügylet esetében az ajánlásban előírt eljárásokat.
+
+(2)[^61] Egyedi módozatú ügyletek esetén, amennyiben a 19. §-ban meghatározott általános szerződési feltételek nem tartalmazzák a 17/A. § (1) bekezdés d) pont dd) alpontjában szereplő mentesülést vagy a 17/B. § (4) bekezdésében leírt kárfizetési halasztást, a biztosítási szerződés megkötésének további feltétele az exportirányú külkereskedelmi szerződés teljesítésére kötelezett személy kifejezett, írásbeli hozzájárulása ahhoz, hogy a Mehib Zrt. a kárfizetést követően vele szemben megtérítési igényt érvényesít, ha a kár az exportirányú külkereskedelmi szerződés teljesítésében részt vevők nem szerződés szerinti teljesítéséből származik.
+
+(3)[^62] Forgalmi típusú módozat keretében biztosított ügyletek esetén, amennyiben a 19. § szerinti általános szerződési feltételek nem tartalmazzák a mentesülést arra az esetre, ha a kár az exportőr, illetve a szerződés teljesítésében részt vevők exportirányú külkereskedelmi szerződésben meghatározott kötelezettségeinek nem szerződésszerű teljesítéséből ered, továbbá, ha nem tartalmazzák a 17/B. § (4) bekezdésében szereplő kárfizetési halasztást, a biztosító kockázatviselésének feltétele, hogy a szerződés teljesítésében részt vevőkkel megállapodást kössön a biztosítottnak kifizetett kártérítési összeg Mehib Zrt. részére történő megfizetésére vonatkozóan, arra az esetre, ha a kár az exportirányú külkereskedelmi szerződés nem szerződésszerű teljesítéséből ered.
+
+(4)[^63] A 2. § (1) bekezdés o) pontja keretében biztosított ügyletek esetében a biztosítási szerződések megkötésének feltétele, hogy az az Etv. 3. § (3)–(5) bekezdése alapján az állam készfizető kezessége mellett biztosítható legyen, a biztosíthatóság egyéb feltételeit az egyedi szerződéses feltételek tartalmazzák.
+
+### 6/A. §[^64]
+
+Hitelintézet által vállalt garancia biztosításánál a biztosítási szerződés megkötésének feltétele, hogy az exportirányú külkereskedelmi szerződés teljesítésére kötelezett a garancia jogalappal történő lehívása esetére hozzájáruljon ahhoz, hogy a Mehib Zrt. a biztosítottnak teljesített kárfizetést követően vele szemben megtérítési igényt érvényesít.
+
+### 7. §[^65]
+
+(1)[^66] Áruexport esetén
+
+a)[^67] az OECD Megállapodás hatálya alá tartozó közép- és hosszú lejáratú ügyletek keretében a Mehib Zrt. kockázatvállalása akkor terjedhet ki legfeljebb az OECD Megállapodásban foglalt mértékig (ideértve az idegen tartalmat és a helyi költséget), ha az exportirányú külkereskedelmi szerződésben az export szerződéses értékének legalább fele – a (7) bekezdésben foglaltak teljesülése esetén legalább 25%-a – magyar származásúnak minősül, amit a Mehib Zrt. a belső szabályzataiban előírt módon ellenőriz;
+
+b)[^68] rövidlejáratú ügyletek tekintetében a Mehib Zrt. kockázatvállalása az idegen tartalomra akkor terjedhet ki, ha az exportirányú külkereskedelmi szerződés keretében kiszállított áruk legalább fele – a (7) bekezdésben foglaltak teljesülése esetén legalább 25%-a – magyar származásúnak minősül, amely feltétel teljesülését a Mehib Zrt. belső szabályzatában foglaltak szerint ellenőriz;
+
+c)[^69] az a) és b) pontban foglalt esetekben a részteljesítést elfogadottnak kell tekinteni, ha az áruexport részteljesítéskori tényleges magyar hányad mértéke megfelel a biztosítási kötvényben legkésőbb az adott részteljesítésre vonatkozó kockázatviselés megkezdése előtt meghatározott teljesítési ütemterv szerinti magyar hányadnak, azzal, hogy amennyiben a biztosítási kötvény nem tartalmazza az áruexport teljesítési ütemtervét, és az exportirányú külkereskedelmi szerződés keretében megvalósuló áruexport az e bekezdésben előírt magyar hányadot nem éri el, a Mehib Zrt. kockázatvállalása – a (7) bekezdésben foglalt kivétellel – csak a tényleges magyar hányadra terjedhet ki;
+
+d)[^70] a külkereskedelmi tevékenységet folytató gazdálkodó szervezet az áruk származásának az igazolására a Mehib Zrt. részére a biztosítási szerződésben előírt módon származási bizonyítványt nyújt be, amelyet az annak kiadására felhatalmazott kamarai szervtől szerez be, azzal, hogy az áruk magyar származásának megállapítására és tanúsítására a származási bizonyítvány kiadására felhatalmazott kamarai szerv által alkalmazott, a felhatalmazott kamarai szerv honlapján elérhető, nem preferenciális származási szabályokat és a származási bizonyítvány kibocsátására vonatkozó kamarai eljárásrendben foglaltakat kell alkalmazni;
+
+e)[^71] ha a külkereskedelmi tevékenységet folytató gazdálkodó szervezet az exportirányú külkereskedelmi szerződés alapján ugyanazon vevő részére azonos árumegnevezésű, vámtarifa számú és származási helyű áruk tekintetében több alkalommal teljesít áruexportot, az áruk magyar származásának igazolásához elegendő az első áruexport teljesítését követően az illetékes Kamara által kiállított és külön záradékkal ellátott származási bizonyítványt beszerezni és a Mehib Zrt. részére megküldeni; a záradékkal ellátott bizonyítvány az abban szereplő – az árumegnevezés, a vámtarifa szám és a származási hely tekintetében azonos – áru vonatkozásában ugyanazon vevő részére teljesített további áruexport tekintetében is megfelelően igazolja annak magyar származását;
+
+f)[^72] amennyiben a záradékkal ellátott származási bizonyítványon szereplő áru megnevezésében, vámtarifa számában vagy származási helyében, illetve a vevő személyében változás következik be, a biztosított a változást követő első exportjára vonatkozóan az illetékes kamarai szervtől új származási bizonyítványt szerez be, és azt a Mehib Zrt. részére megküldi.
+
+(2)[^73] A Mehib Zrt. kockázatvállalása szolgáltatásra e rendelet szerint akkor terjed ki, ha az exportirányú külkereskedelmi szerződés alapján a szolgáltatás teljesítésében résztvevő gazdálkodó szervezet belföldi székhellyel rendelkezik.
+
+(3)[^74] Építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések finanszírozási költségekkel csökkentett értékének legalább egynegyed részben magyar származású exportnak kell minősülnie. Erről a Magyar Kereskedelmi és Iparkamara a Mehib Zrt. által jóváhagyott eljárás alapján állít ki magyar hányad igazolást. Egynegyed résznél kisebb magyar hányad esetén a Mehib Zrt. kockázatvállalása a (7) bekezdésben meghatározott kivétellel csak a magyar hányadra terjedhet ki. Amennyiben az exportirányú külkereskedelmi szerződés részteljesítést is lehetővé tesz, a részteljesítés elfogadottnak tekintendő, ha a részteljesítéskori magyar hányad mértéke megfelel a biztosítási kötvényben legkésőbb az adott részteljesítésre vonatkozó kockázatviselés megkezdése előtt meghatározott teljesítési ütemterv szerinti magyar hányadnak azzal, hogy amennyiben a biztosítási kötvény nem tartalmazza a teljesítési ütemtervet és az exportirányú külkereskedelmi szerződés keretében megvalósuló export az e bekezdésben – vagy a (7) bekezdés alkalmazása esetén az abban – előírt magyar hányadot nem éri el, a Mehib Zrt. kockázatvállalása csak a tényleges magyar hányadra terjedhet ki.
+
+(4)[^75] Az (1) és (3) bekezdésben foglaltak alkalmazása során
+
+a)[^76] más biztosító által viszontbiztosított – – szerződés esetén a viszontbiztosított hányadot figyelmen kívül kell hagyni,
+
+b)[^77] a Mehib Zrt. által nyújtott viszontbiztosítás esetén a Mehib Zrt. által viszontbiztosított hányadot kell figyelembe venni.
+
+(5)[^78] A Magyarországon bejegyzett székhellyel rendelkező gazdálkodó szervezetnél legalább öt éve rendeltetésszerűen használatban lévő gépek, berendezések exportja esetében, azok származására tekintet nélkül a Mehib Zrt. kockázatviselése kiterjedhet a biztosított export teljes ellenértékére.
+
+(6)[^79] A Mehib Zrt. üzletszabályzatában rögzített szabályokat kell alkalmazni a magyar származás igazolására abban az esetben, ha a 4. §-ban meghatározott biztosítási szerződés az exportirányú külkereskedelmi szerződés teljesítését megelőző kockázatokat is lefed. Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet alapján a segélyhitel-szerződés alapján folyósított előlegek biztosítása esetében a magyar származás igazolására vonatkozóan az (1)–(3) bekezdést nem kell alkalmazni.
+
+(7)[^80] Az (1) és (3) bekezdésben meghatározottnál alacsonyabb magyar hányad esetén – amely azonban nem lehet kevesebb, mint az (1) és (3) bekezdésben meghatározott arány fele – a teljes hitelösszeg, illetve az exportirányú külkereskedelmi szerződés értéke abban az esetben biztosítható, ha az exportügylet megvalósulásához nemzeti érdek fűződik. A nemzeti érdekű fedezetnyújtást jelentő biztosítási ügylet jóváhagyása során a Mehib Zrt. az ügylet jellemzői közül a következő szempontokat veszi figyelembe:
+
+a) munkahelyteremtés, munkahelymegőrzés;
+
+b) exportpiac megtartása, megszerzése, további exportbővüléshez való hozzájárulás;
+
+c) a kis- és középvállalkozások versenyképességének elősegítése;
+
+d) a beszállítói lehetőségek kiterjesztése;
+
+e)[^81] a hazai hozzáadott érték arányának mértéke a magyar származásúnak minősülő hányadon belül vagy
+
+f) környezetvédelmi szempontok, a megújuló energia szektorának erősítése.
+
+(8)[^82] A Mehib Zrt. az üzletszabályzatban rögzíti, és legalább évente felülvizsgálja a nemzeti érdek meghatározását alátámasztó szempontokat, annak igazolásául szolgáló eljárási szabályokat és dokumentációs követelményeket.
+
+(9)[^83] Amennyiben közép- és hosszú lejáratú ügyletek és az egyedi módozat keretében biztosított rövid lejáratú ügyletek esetén a Mehib Zrt. több, egymással összefüggő exportirányú külkereskedelmi szerződéshez kapcsolódóan nyújt biztosítást, akkor az ebben a §-ban meghatározott feltételek a több, egymással összefüggő exportirányú külkereskedelmi szerződés alapján teljesített valamennyi exportügyletre vetítve is teljesülhetnek.
+
+(10)[^84] Az elektronikus formában kiállított származási bizonyítványok és magyar hányad igazolás benyújtására a MEHIB üzletszabályzata és az általános szerződési feltételei speciális rendelkezéseket is előírhatnak.
+
+(11)[^85]
+
+### 7/A. §[^86]
+
+A Kormány egyedi döntése alapján az exportirányú külkereskedelmi szerződésekhez kapcsolódóan a 7. § (1) bekezdésében, (3)–(7) bekezdésében és (9) bekezdésében előírt magyar hányadra vonatkozó szabályoktól és a 7. § (2) bekezdésében, valamint a 2. § (1) bekezdés q) pontjában előírt feltételektől eltérően is meghatározhatja a biztosíthatósági feltételeket.
+
+### 8. §
+
+(1)[^87] A 4. § (1) bekezdésének e) pontjában meghatározott biztosítás csak abban az esetben köthető, ha a biztosított által a külföldi vállalkozásban megszerzendő részesedés aránya – figyelembe véve az adott vállalkozásban korábban megszerzett részesedéseket is – meghaladja külföldi vállalkozás jegyzett tőkéjének, illetve ennek hiányában saját tőkéjének 10%-át.
+
+(2)[^88] Nem köthető olyan biztosítási szerződés, amelyben a biztosítási esemény állami adós esetén az 5. § b)–j) pontjába és *l)* pontjába, magánadós esetében pedig az 5. § a)–j) pontjába, valamint *l)* pontjába tartozik, és az alábbi feltételek együttesen teljesülnek:
+
+a) az adósnak vagy kezesének a székhelye az 1. számú melléklet szerinti országok valamelyikében van, továbbá
+
+b) a gyártási és hitelezési időszakot tartalmazó teljes kockázatviselési idő kevesebb, mint két év.
+
+(3)[^89] A (2) bekezdésben meghatározottakat nem kell alkalmazni arra a biztosítási szerződésre, amely olyan, a KKV törvény meghatározásának megfelelő mikro-, kis- és középvállalkozásoknak nyújtott exporthitelhez kapcsolódik, amelyek a KKV törvény éves nettó árbevételre vonatkozó előírásainak alkalmazásával számított éves exportforgalma nem haladja meg a 2 500 000 eurót. Az e bekezdésben meghatározottakat csak az Európai Bizottságnak előzetesen bejelentett és a Bizottság által jóváhagyott program keretében, a program időbeli hatálya alatt kötött szerződésekre lehet alkalmazni.
+
+(4)[^90] A (3) bekezdésben meghatározott kivétel nem vonatkozik a 4. § (1) bekezdés e) és h)–j) pontjában meghatározott biztosításokra.
+
+(5)[^91] A (2) és (3) bekezdésben előírt feltételeket nem kell alkalmazni a 2. § (1) bekezdés o) pontja szerinti biztosítási és viszontbiztosítási ügyletek esetében.
+
+## A kockázatviselés tartama és mértéke
+
+### 9. §
+
+(1)[^92] Mehib Zrt. a kockázatviselés tartamát az általános szerződési feltételeiben vagy a 2. § (1) bekezdés o) pontjában meghatározott egyedi szerződéses feltételekben köteles meghatározni.
+
+(2)[^93] Hitelbiztosítás esetén a Mehib Zrt. kockázatviselésének kezdete:
+
+a) vevőhitel-biztosítás esetén a hitelmegállapodás hatálybalépésének napja, feltéve, hogy a hitelbiztosítási kötvényben és a hitelmegállapodásban előzetesen kikötött feltételek teljesülnek;
+
+b) szállítói hitel biztosítása esetén a gyártási kockázat biztosítási fedezete a kereskedelmi szerződés hatálybalépésének napján kezdődik, feltéve, hogy a hitelbiztosítási kötvényben és az exportirányú külkereskedelmi szerződésben előzetesen kikötött feltételek teljesülnek;
+
+c)[^94]
+
+(3)[^95] Ha a (2) bekezdés b) pontjában foglalt ügylethez hitelkockázat is kapcsolódik, a Mehib Zrt. kockázatviselésének kezdete az a nap, amikor a biztosított szerződéses kötelezettségeinek teljes körű teljesítése alapján az ellenértékre jogosult, feltéve, hogy a hitelbiztosítási kötvényben és az exportirányú külkereskedelmi szerződésben előzetesen kikötött feltételek teljesülnek. Ha az exportirányú külkereskedelmi szerződés feltételei szerint a biztosított a kiszállított termékek, illetve szolgáltatások értékének megfelelő fix és meghatározott ellenértékre jogosult, a Mehib Zrt. által nyújtott fedezet az egyes részteljesítések, illetve kiszállítások napján is hatályba léphet.
+
+(4)[^96] A Mehib Zrt. által fizetendő kár összegéből a biztosítottat önrészesedés terheli, amelynek mértéke rövid lejáratú ügyletekhez kapcsolódó exporthitel biztosítás esetén a kár összegének legalább 1%-a.
+
+(5)[^97] A Mehib Zrt. által fizetendő kár összegéből a biztosítottat önrészesedés terheli, amelynek mértéke a közép- és hosszú lejáratú ügyletekhez kapcsolódó exporthitel biztosítás esetén a kár összegének legalább 5%-a, minden egyéb biztosításnál a kár összegének legalább 20%-a.
+
+(6)[^98] A közép- és hosszú lejáratú ügyletekhez kapcsolódó exporthitel biztosítások esetén az (5) bekezdésben meghatározottnál alacsonyabb önrész alkalmazásakor a Mehib Zrt. köteles az ilyen esetre az Európai Unió jogszabályaiban előírt eljárásokat lefolytatni.
+
+(7)[^99]
+
+## Minősítés
+
+### 10. §[^100]
+
+(1)[^101] A Mehib Zrt. az ügylethez közvetlenül vagy közvetve kapcsolódó kockázatok minősítésének módját és az alkalmazandó eljárásokat belső szabályzataiban rögzíti. A kockázatokat első alkalommal a biztosítási szerződés megkötése előtt minősíti. A Mehib Zrt. e minősítés alapján határozza meg az esetleg szükséges kockázati felárat, amelynek módosítására a egyedi módozatok esetén a biztosítási szerződés megkötését követően nem kerülhet sor. A Mehib Zrt. az ügyleteihez kapcsolódó kockázatait köteles szükség szerint, de legalább évente minősíteni.
+
+(2)[^102] Az adós minősítésekor a Mehib Zrt. figyelembe veszi az adós tényleges jogi és pénzügyi státuszát.
+
+(3)[^103] A Mehib Zrt. igazgatósága az egyes országokat kockázati kategóriába sorolja be, megállapítja a vonatkozó fedezeti politikát, valamint a központi költségvetési törvényben rögzített biztosítási állomány felső határa és az országkockázati besorolás figyelembe vételével az országlimiteket. A kockázati besorolást, a fedezeti politikát, valamint az országlimiteket a Mehib Zrt. igazgatósága legalább évenként felülvizsgálja, szükség esetén az évenkénti kötelező felülvizsgálatok között is módosíthatja.
+
+(4)–(5)[^104]
+
+## Biztosítási díj
+
+### 11. §
+
+(1)[^105] A Mehib Zrt. biztosítási díjtételeit az országkockázati besorolástól, az adós, a kezes minősítésétől, a vállalt önrészesedés mértékétől, a kockázatviselés tartamától, a törlesztés feltételeitől, továbbá a díjfizetés módjától, valamint a 6. § (2) és (3) bekezdésében foglalt esetekben az exportirányú külkereskedelmi szerződés teljesítésében résztvevők teljesítési kockázatától függően állapítja meg. A felszámított díjnak tükröznie kell a biztosító által a biztosítási szerződésben vállalt kockázatokat, és fedeznie kell a Mehib Zrt. hosszú távú költségeit. A Mehib Zrt. a díjtételek meghatározásakor az üzletpolitikájában foglalt szempontokat is figyelembe véve jár el. Azon termékek esetében, ahol a Mehib Zrt. saját kártapasztalattal nem rendelkezik, valamint nem kerültek kiadásra a díjszintre vonatkozó nemzetközi normák, a kockázatvállaláshoz kapcsolódó díjait a hasonló szolgáltatást nyújtó, az Európai Unió tagállamaiban székhellyel rendelkező hitelbiztosítók által felszámított díjakhoz igazítja, figyelembe véve a külföldi vásárlók korlátozott számát, a finanszírozott vállalkozás jellegzetességeit és a járulékos költségeket.
+
+(2)[^106] Az (1) bekezdés szerint felszámított, a két éves és két éven túli lejáratú exporthitel biztosítási szerződésekhez kapcsolódó díj nem lehet alacsonyabb az OECD Megállapodásban előírtak alapján felszámítandó minimális díjszintnél. A két éves lejáratot el nem érő egyedi exporthitel biztosítási szerződések esetén a biztosítás díjtételét a két éves és két éven túli lejáratú szerződésekre vonatkozó díjtétel-számítással azonos elvek szerint kell meghatározni.
+
+(3)[^107] A Mehib Zrt. egy összegben és részletekben is szedheti a biztosítási díjat. A biztosítási díj részletekben történő szedése esetén az így beszedett díjnak nettó jelenértéken kifejezve akkorának kell lennie, mintha azt egy összegben teljesítenék.
+
+(4)[^108]
+
+(5)[^109] A Mehib Zrt. biztosítási díjszámítási elveit üzletszabályzatában teszi közzé.
+
+## Meg nem szolgált díjak tartaléka[^110]
+
+### 12. §[^111]
+
+(1)[^112] A Mehib Zrt. a az Állam készfizető kezessége mellett vállalható biztosítási tevékenységéhez kapcsolódóan meg nem szolgált díjak tartalékát képez, amely a díjfizetés alapját képező biztosítási szerződésekből származó, tárgyévet követő évek költségeinek és ráfordításainak fedezetére szolgál.
+
+(2) A meg nem szolgált díjak tartalékát annak szükséges szintjéig a mérleg fordulónapjával kell megképezni. Ha a meg nem szolgált díjak tartalékának állománya a szükséges szintet a mérleg fordulónapján meghaladja, akkor az azt meghaladó összeget fel kell használni.
+
+(3)[^113] A tartalék szükséges szintjét a Mehib Zrt. egyedileg, ügyletenként állapítja meg, a számlázott díjak 80%-ának a biztosított kockázatok lejárati struktúrája alapján meghatározott, időarányosan meg nem szolgált összegében. Azon exporthitel biztosítások esetében, ahol a díj előre került kiszámlázásra, azonban a hitelfolyósítás nem történik meg teljes egészében, és emiatt fennáll a díjvisszatérítés lehetősége, a ki nem folyósított összegre eső díj 90%-ára kell képezni tartalékot.
+
+(4) A meg nem szolgált díjak tartaléka tárgyévi meghatározásának számítási módját és tárgyévi alakulását az éves beszámoló kiegészítő mellékletében kell bemutatni országonként és szerződésenként (ügyletenként) összesítve.
+
+(5)[^114] Passzív viszontbiztosítási ügylet esetén a Mehib Zrt. a teljes díjelőírást alapul véve meghatározza a meg nem szolgált díjak tartalékát, majd a viszontbiztosítási szerződésben rögzített díjmegosztást figyelembe véve kiszámolja a viszontbiztosítónak át nem adott díj és a viszontbiztosítónak átadott díj alapján a biztosításra és a viszontbiztosításra jutó meg nem szolgált díjak tartalékát.
+
+(6)[^115] Aktív viszontbiztosítási ügylet esetén a viszontbiztosítási szerződésben rögzített díjmegosztást figyelembe véve a viszontbiztosításba vett díjból kiindulva kell a meg nem szolgált díjak tartalékát megképezni, tekintettel a direkt biztosító meg nem szolgált díjak tartalékára vonatkozó szabályozására.
+
+(7)[^116] A Mehib Zrt. a meg nem szolgált díjak tartalékának számítási módját és a felhasznált adatokat köteles egyértelműen dokumentálni. A tartalék képzési szabályait a Mehib Zrt. által készített tartalékolási szabályzat tartalmazza.
+
+## Díjvisszatérítési tartalék[^117]
+
+### 13. §[^118]
+
+(1)[^119] A Mehib Zrt. a forgalmi típusú módozatok keretében végzett biztosítási tevékenységéhez kapcsolódóan díjvisszatérítési tartalékot képezhet. A díjvisszatérítési tartalék a biztosítási szerződés szerint a biztosítottnak adható, feltételekhez kötött díjvisszatérítés fedezetére szolgál.
+
+(2) A díjvisszatérítési tartalékot a tárgyév mérleg fordulónapjával az érvényben levő szerződések alapján kell megképezni. Ha valamely szerződésnél a mérlegforduló napján rendelkezésre álló információk alapján a biztosítási időszak végén a díjvisszatérítés feltételei várhatóan fennállnak, akkor tartalékként a kötvény időszak megszolgált díjából a várható díjvisszatérítési aránynak megfelelő részt kell megképezni.
+
+(3) A tárgyévben képzett díjvisszatérítési tartalékot a díjvisszatérítés megtörténtekor fel kell használni, a tartalék fennmaradó részét pedig legkésőbb a tárgyévet követő év mérleg fordulónapján a szükséges szintre kell módosítani.
+
+(4) A díjvisszatérítési tartalék tárgyévi meghatározásának számítási módját és tárgyévi alakulását az éves beszámoló kiegészítő mellékletében kell összesítve bemutatni.
+
+(5)[^120] Passzív viszontbiztosítási ügylet esetén a Mehib Zrt. a teljes díjelőírást alapul véve meghatározza a díjvisszatérítési tartalékot, majd a viszontbiztosítási szerződésben rögzített díjmegosztást és a díjvisszatérítésre vonatkozó elszámolás szabályozását figyelembe véve kiszámolja a biztosításra és viszontbiztosításra jutó díjvisszatérítési tartalékot.
+
+(6)[^121] Aktív viszontbiztosítási ügylet esetén a viszontbiztosítási szerződésben rögzített díjmegosztást és a díjvisszatérítésre vonatkozó elszámolás szabályozását figyelembe véve, a viszontbiztosításba vett díjból kiindulva kell a díjvisszatérítési tartalékot megképezni, tekintettel a direkt biztosító díjvisszatérítésre vonatkozó szabályozására.
+
+(7)[^122] A Mehib Zrt. díjvisszatérítési tartalék számítási módját és a felhasznált adatokat egyértelműen dokumentálja. A tartalék képzési szabályait a Mehib Zrt. által készített tartalékolási szabályzat tartalmazza.
+
+## Kárfizetési türelmi idő
+
+### 15. §
+
+(1)[^124] A kárfizetési türelmi idő annak megállapítására szolgál, hogy a kár a biztosítási esemény következtében valóban bekövetkezett-e, és ha igen, tartósan fennáll-e. A szükséges kárenyhítési intézkedéseket elsődlegesen a kárfizetési türelmi idő alatt kell elvégezni.
+
+(2)[^125] A kárfizetési türelmi idő legkisebb időtartama a kár bekövetkeztétől számított
+
+a)[^126] 180 nap befektetési és gyártási kockázatok esetén,
+
+b)[^127] 90 nap hitelkockázat és hitelintézet által vállalt garancia biztosítása esetében,
+
+c) 30 nap az 5. § k) pontjában foglalt esetben,
+
+d)[^128] 90 nap az *a)–c)* pontban nem említett egyéb esetben.
+
+(3)[^129] Kárfizetési türelmi idő nem kerül alkalmazásra magánadós fizetésképtelensége folytán bekövetkezett biztosítási események és kétoldalú kormányközi adósság átütemezési megállapodások esetében.
+
+(4)[^130] A 2. § (1) bekezdés o) pontjában meghatározott ügyletek esetében a kárfizetési türelmi időre vonatkozó rendelkezéseket az egyedi szerződéses feltételek tartalmazzák.
+
+## A kárigény bejelentése
+
+### 16. §
+
+(1)[^131] A biztosítási esemény bekövetkeztének és a kár összegének bizonyítása a biztosított kötelezettsége. A Mehib Zrt. nem ismerhet el olyan kárigényt, amely a teljes kárigény tényleges értékét vagy a biztosítási szerződésben meghatározott kárfizetés maximális összegét meghaladja, illetve a biztosítottnak az exportirányú külkereskedelmi szerződés vagy a hitelmegállapodás alapján járó összeget meghaladja, ide nem értve azokat az eseteket, amikor a 6. § (2) és (3) bekezdésében foglaltak szerint az általános szerződési feltételek nem tartalmazzák a mentesülést arra az esetre, ha a kár az exportirányú külkereskedelmi szerződés teljesítésében részt vevők szerződésben meghatározott kötelezettségeinek nem teljesítéséből vagy nem szerződésszerű teljesítéséből ered, továbbá ha nem tartalmazzák a 17/B. § (4) bekezdésében leírt kárfizetési halasztást.
+
+(2)[^132] A kárigényt a biztosított a biztosítási esemény következtében előálló kár bekövetkezését követő 15 napon belül köteles írásban bejelenteni. A bejelentéshez mellékelnie kell valamennyi rendelkezésre álló, a káresemény bekövetkeztét és a kár összegét igazoló okiratot.
+
+## A kárrendezés
+
+### 17. §[^133]
+
+(1)[^134] Devizakövetelés biztosítása esetén – amennyiben a kárfizetés forintban történik – a Mehib Zrt. a kár összegét az ügyletet lebonyolító hitelintézet által a kárfizetési türelmi idő lejártának, ennek hiányában a követelés esedékességének napján alkalmazott devizavételi árfolyamon, ennek hiányában a Magyar Nemzeti Bank hivatalos devizaárfolyamán állapítja meg.
+
+(2)[^135] A Mehib Zrt. a kárfizetési kötelezettségét
+
+a) a *b)–c)* pontban meghatározott kivétellel a kárfizetési türelmi idő lejártát követő,
+
+b) a 15. § (3) bekezdésben meghatározott esetekben a kárelbíráláshoz szükséges utolsó dokumentum beérkezését követő,
+
+c) ha a kárfizetési türelmi idő lejártáig a biztosított a kárelbíráláshoz szükséges valamennyi dokumentumot nem adta át, a legutolsó irat átadásától számított
+
+30 napon belül teljesíti.
+
+d)[^136] A Mehib Zrt. a kárfizetési kötelezettségének határidejét e rendelet 2. § (1) bekezdés o) pontja szerinti biztosítási szerződések esetében az egyedi szerződéses feltételek tartalmazzák
+
+Kárfizetési türelmi idő nem kerül alkalmazásra az első kárfizetést követően, ha a biztosított hitelszerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint – több időpontban – történik a kárfizetés.
+
+(3)[^137] A Mehib Zrt. a 30 napos fizetési kötelezettségének abban az esetben tesz eleget a (2) bekezdés a)–c) pontja szerint meghatározott időben, amennyiben a kárfizetés feltételeként előírt – a 20. § (3) bekezdésében meghatározott biztosított által aláírt – követelés átruházására vonatkozó megállapodást a biztosított megküldte, annak hiányában a Mehib Zrt. a kárfizetési kötelezettségét a követelés átruházására vonatkozó megállapodás kézhezvételétől számított 10 munkanapon belül teljesíti.
+
+(4)[^138]
+
+(5)[^139]
+
+(6)[^140] A biztosított követelés egészének egyösszegű azonnali esedékessé válása esetén a Mehib Zrt. jogosult
+
+a) a teljes kárt a biztosított hitelszerződés, exportirányú külkereskedelmi szerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint megállapítani és annak ütemezése szerint kifizetni, azzal, hogy ilyen esetben a kárfizetés összege maximum a biztosított hitelszerződés vagy az exportirányú külkereskedelmi szerződés törlesztési ütemtervében – az egy összegű esedékessé válást megelőzően meghatározott – törlesztő részletek (tőke és esetleges ügyleti kamat) összege lehet,
+
+b) a kár egyik részét egy összegben megállapítani és kifizetni, míg, a másik részét a biztosított hitelszerződés vagy az exportirányú külkereskedelmi szerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint – az a) pont szerinti módon – megállapítani és kifizetni, amennyiben a biztosított ügylet vagy a kárügy jellemzői azt indokolják, vagy
+
+c) a teljes kárt egy összegben megfizetni.
+
+(7)[^141] A (6) bekezdés a) pontjában foglalt részletekben történő kárfizetés esetén az első kárfizetést a (2) bekezdésben foglaltak szerint, majd az első kárfizetést követően a Mehib Zrt. a kárfizetést az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn. A (6) bekezdés b) pontja szerinti esetben a Mehib Zrt. a kár egy részének egyösszegben történő fizetését a (2) bekezdésben foglaltak szerint, míg a részleteket az eredeti esedékességek napját követő 30 napon belül teljesíti, feltéve, hogy a biztosító mentesülésének feltételei nem állnak fenn. A (6) bekezdés c) pontja esetében a Mehib Zrt. a kárfizetést a (2) bekezdésben foglaltak szerint teljesíti.
+
+## A kárfizetés alóli mentesülés[^142]
+
+### 17/A. §[^143]
+
+(1)[^144] Közép- és hosszú lejáratú ügyletek és az egyedi módozat keretében biztosított rövid lejáratú ügyletek esetén a Mehib Zrt. mentesül a kárfizetési kötelezettség alól, ha
+
+a) a biztosított a biztosítási szerződés megkötéséhez valótlan vagy megtévesztő adatokat közölt, kivéve, ha a biztosított bizonyítja, hogy a biztosítónak tudomása volt arról, hogy az adatok valótlanok vagy megtévesztőek, vagy azok nem befolyásolják a biztosító által vállalt kockázat mértékét, vagy nem hatottak közre a biztosítási esemény bekövetkeztében;
+
+b) a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi, és
+
+ba) ezzel ok-okozati összefüggésben következik be a biztosított kára,
+
+bb) ennek következtében a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke megnő vagy a kockázat növekedésének mértéke nem állapítható meg;
+
+c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági ítéletben megállapított bűncselekményt vagy jogerős bírósági ítéletben vagy hatósági határozatban megállapítottan jogszabálysértést követ el;
+
+d) a kár közvetve vagy közvetlenül az alábbi okok miatt következett be:
+
+da) a biztosított vagy a nevében eljáró személy cselekménye vagy mulasztása,
+
+db) olyan rendelkezés, előírás a biztosított exportirányú külkereskedelmi vagy hitelszerződésben vagy bármely, a Mehib Zrt. által előírt, a hitelintézet által vállalt garanciával, egyéb biztosítékokkal kapcsolatos dokumentumokban, amely a biztosított igényérvényesítési jogait olyan módon korlátozza, hogy a követelés érvényesítésére vagy végrehajtására vonatkozó bármely peren kívüli, peres vagy nemperes eljárás megindítását kizárja, korlátozza, illetve amelynek eredményeképpen az adós vagy a biztosíték kötelezettje a tartozás megfizetése alól részben vagy egészben mentesül,
+
+dc) a biztosítási szerződés megkötését követően a biztosított és az adós által létrejött olyan megállapodás, amely a követelés kifizetését késlelteti vagy megakadályozza,
+
+dd) szállítói hitel esetében a 6. § (2) bekezdésében meghatározott eset kivételével az exportőr, az alvállalkozók, társvállalkozók, más szállítók által a szerződésben meghatározott kötelezettségeiknek nem szerződésszerű teljesítése, feltéve, hogy ez nem az 5. § d)–j) pontjában meghatározott biztosítási események következménye.
+
+(2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontnak megfelelően az általános szerződési feltételek tartalmazzák.
+
+(3)[^145] Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott megtérítési igényre vonatkozó megállapodás megkötése esetén nem minősül mentesülési oknak.
+
+(4)[^146]
+
+### 17/B. §[^147]
+
+(1)[^148] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetén a Mehib Zrt. a Ptk.-ban meghatározott mentesülési okokon túl akkor is mentesül a kárfizetési kötelezettsége alól, ha:
+
+a)[^149] a biztosított a biztosítási szerződésből eredő kötelezettségeit szándékosan vagy súlyosan gondatlanul megszegi és
+
+aa) ezzel ok-okozati összefüggésben következik be a biztosított kára,
+
+ab) ennek következtében a biztosító kockázatvállalásának vagy kártérítési kötelezettségének mértéke megnő vagy a kockázat növekedésének mértéke nem állapítható meg;
+
+b) a biztosítónak a biztosított szándékos vagy súlyosan gondatlan kötelezettségszegése miatt nincs lehetősége kárenyhítési és kármegelőzési intézkedéseket tenni vagy azok végrehajtására a biztosítottnak utasítást adni;
+
+c) a biztosított a biztosított ügylethez kapcsolódóan jogerős bírósági ítéletben megállapított bűncselekményt vagy jogerős bírósági ítéletben vagy hatósági határozatban megállapított jogszabálysértést követ el.
+
+(2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontjának megfelelően az általános szerződési feltételek tartalmazzák.
+
+(3)[^150] A forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek és faktoring-biztosítás esetén a 17/A. § (1) bekezdésében szereplő mentesülési okok az (1) bekezdés c) pontjában, valamint a 17/A. § (1) bekezdés d) pont *db)* és *dd)* alpontjában meghatározott kivétellel nem alkalmazandók.
+
+(4)[^151] A 17/A. §-ban foglalt közép- és hosszú lejáratú, valamint az egyedi módozat keretében biztosított rövidlejáratú ügyletek és az e §-ban foglalt forgalmi típusú módozatokba tartozó rövid lejáratú ügyletek esetében, ha az adós vagy a kezes a követelés jogalapját vagy összegszerűségét vitatja, a Mehib Zrt. a 6. § (2) és (3) bekezdésében meghatározott eset kivételével a vitatott összeg vonatkozásában mindaddig elhalasztja a kárfizetést, amíg a vitát az exportirányú külkereskedelmi szerződésben vagy a hitelmegállapodásban kikötött választottbíróság, ezek hiányában az irányadó jog szerinti bíróság jogerős ítélete vagy határozata nem zárja le a biztosított javára. A Mehib Zrt. a kárfizetést a választottbíróság vagy bíróság jogerős ítéletének vagy határozatának kézhezvételétől számított 30 napon belül teljesíti.
+
+(5)[^152] Az egyéb módozatok esetén lehetőség van arra, hogy a Mehib Zrt. az általános szerződési feltételekben a 17/A. § szerinti mentesülési okok helyett a 17/B. § szerinti mentesülési okokat szerepeltesse. A 2. § (1) bekezdés o) pontja szerinti biztosítási szerződések esetében a mentesülési okokat az egyedi szerződéses feltételek tartalmazzák.
+
+## Kármegelőzés, kárkezelés, kárenyhítés
+
+### 18. §
+
+(1)[^153] A biztosított követelésekkel, kárkintlévőséggel kapcsolatos kármegelőzési, kárenyhítési költségeit, ráfordításait a Mehib Zrt. és a biztosított a kárviselési hányad arányában viseli, feltéve, hogy azokat Mehib Zrt. jóváhagyta. E költségek és ráfordítások közé tartoznak a bírósági eljárási költségek és a kár minimalizálása vagy elkerülése érdekében felmerült egyéb jogi költségek, de nem tartoznak ide a kárigény érvényessége megállapításának költségei.
+
+(2)[^154] A kármegelőzés, kárenyhítés, kárbehajtás módját a Mehib Zrt. írja elő a biztosított számára, e körben adott utasításainak a biztosított a kárfizetési türelmi idő alatt és a kárfizetési türelmi idő lejártát követően is köteles eleget tenni.
+
+(3)[^155] Az adóssal fennálló biztosított exportirányú külkereskedelmi szerződést, illetve hitelszerződést és a 4. § (1) bekezdés e) pontját érintő, valamint a Mehib Zrt. által előírt bankgaranciára és egyéb biztosítékokra vonatkozó szerződéseket csak a Mehib Zrt. előzetes hozzájárulásával lehet módosítani vagy felmondani.
+
+(4)[^156] Kárkintlévőség megtérülése esetén a megtérült összeg és behajtási költségek – feltéve, hogy azokat Mehib Zrt. jóváhagyta – a kárviselési hányad arányában kerülnek megosztásra a Mehib Zrt. és a biztosított között.
+
+(5)[^157] Ha ugyanazon adóssal szemben biztosított és nem biztosított követelés is fennáll, a költségek és a kármegtérülések biztosító és biztosított közötti megosztására és elszámolására az alábbi szabályokat kell alkalmazni:
+
+a) forgalmi típusú módozatok esetén – a Mehib Zrt. és a biztosított – a kármegtérülést, valamint az (1) és a (4) bekezdésben meghatározott költségeket és ráfordításokat a biztosított és a nem biztosított hányad arányában kell elszámolni, feltéve, hogy a biztosított is érvényesíti a követelését az adóssal szemben, vagy a Mehib Zrt. és a biztosított jelen pontban meghatározott arányos elszámolástól eltérően is megállapodhatnak, ha
+
+aa) az adott kárügyben a biztosított és nem biztosított követelés arányának megállapítása bármely okból nem lehetséges, vagy
+
+ab) az exportirányú külkereskedelmi szerződéshez valamely pénzügyi intézmény finanszírozást nyújt oly módon, hogy a Mehib Zrt. által teljesítendő kárfizetés jogosultja ezen pénzügyi intézmény;
+
+b)[^158] egyedi ügyletek – ideértve az egyedi módozat keretében biztosított rövidlejáratú ügyleteket is – és egyéb módozatok esetén a kármegtérülést, valamint az (1) és a (4) bekezdésben meghatározott költségeket és ráfordításokat a biztosított és a Mehib Zrt. abban az esetben köteles egymással a biztosított és nem biztosított hányad arányában elszámolni, ha a Mehib Zrt. és a biztosított egy jogi eljárás keretében érvényesítik mind a biztosított, mind a nem biztosított követelésüket az adóssal szemben, ezzel együtt, amennyiben a Mehib Zrt. és a biztosított nem egy eljárás keretében érvényesítik a biztosított és nem biztosított követelést, úgy
+
+ba) abban az esetben, ha a nem biztosított követelés esedékessége korábbi, mint a biztosított követelés esedékessége, a megtérülést az adós rendelkezései szerint, ennek hiányában pedig először a nem biztosított követelésre kell elszámolni,
+
+bb) ha a biztosított követelés esedékessége korábbi, mint a nem biztosított követelés esedékessége, úgy a megtérülést először a biztosított követelésre kell elszámolni,
+
+bc) ha a biztosított és nem biztosított követelés egy időben esedékes, úgy a kármegtérülést a biztosított és nem biztosított hányad arányában kell megosztani;
+
+c)[^159] a b) pont alkalmazásában nem biztosított követelésnek minősül az ugyanazon adóssal szembeni, a biztosított követeléssel egyidejűleg ugyanazon exportirányú külkereskedelmi szerződés finanszírozására szolgáló és a Mehib Zrt. által nyújtott biztosítással nem fedezett követelés (így különösen az előleg finanszírozására nyújtott hitel);
+
+d) az *a)* és *b)* pontban meghatározott megosztási és elszámolási szabályok alkalmazása során valamennyi biztosítási módozat esetén a biztosított követeléshez kapcsolódó késedelmi kamatkövetelés – mint a biztosított követelés járuléka – biztosított követelésnek minősül, függetlenül attól, hogy a 4. § (3) bekezdés a) pontja szerint a biztosítás a késedelmi kamatból eredő követelésekre nem terjed ki.
+
+e)[^160] a 2. § (1) bekezdés o) pontja szerinti biztosítási szerződések esetében a kármegelőzési, kárenyhítési költségekkel, ráfordításokkal, valamint a kárkintlévőséggel kapcsolatos elszámolási szabályokat az egyedi szerződési feltételek tartalmazzák.
+
+(6)[^161] Kárkintlévőség megtérülése esetén a Mehib Zrt. a követelésekből a hozzá befolyó, a költségvetést megillető összegeket (ideértve a kamatot és késedelmi kamatot is) a központi költségvetés részére 5 banki munkanapon belül átutalja.
+
+(7) Fővállalkozó és alvállalkozóinak biztosítása esetén a felmerülő költségek és ráfordítások megosztására az (1)–(6) bekezdésekben foglaltakat kell alkalmazni.
+
+## Biztosítási szerződési feltételek
+
+### 19. §[^162]
+
+A Mehib Zrt. általános szerződési feltételeinek, illetve az egyedi szerződési feltételeknek tartalmazniuk kell:
+
+a) a kockázatviselés tartamát és mértékét
+
+b) a díjfizetésre, illetve a biztosítottnak (szerződőnek, vagy a biztosítási szerződésből eredő jogok gyakorlására jogosultnak) a szerződésből eredő jogaira és kötelezettségeire, azok teljesítésének módjára, idejére, teljesítésük elmaradásának következményeire vonatkozó rendelkezéseket;
+
+c) a Mehib Zrt. szolgáltatásainak megjelölését, a teljesíthető kárfizetés legmagasabb összegének meghatározási módját, a teljesítés módját, idejét, külön feltételeit, a Mehib Zrt. mentesülésének vagy szolgáltatása korlátozásának feltételeit;
+
+d) a biztosítási esemény meghatározását;
+
+e) a biztosítási esemény bejelentésének módját, határidejét;
+
+f) a kárfizetési türelmi idő mértékét;
+
+g) a biztosítási esemény bekövetkeztének igazolására vonatkozó előírásokat (beleértve, hogy a különböző eseményeknél mely magyar vagy külföldi szerv igazolása fogadható el);
+
+h) a szerződés megszűnése esetére a biztosított (szerződő, vagy a biztosítási szerződésből eredő jogok gyakorlására jogosult) jogainak és a Mehib Zrt. kötelezettségeinek ismertetését;
+
+i) az egyes igények elévülési idejét;
+
+j) a kárfizetés összegét csökkentő tételeket.
+
+## A biztosított kötelezettségei
+
+### 20. §
+
+(1) Bejelentési kötelezettsége keretében a biztosított köteles a biztosítónak haladéktalanul írásban bejelenteni
+
+a)[^163] minden olyan körülményt, amely biztosítási esemény bekövetkeztével fenyeget, és amely körülményt a biztosított ismert vagy kellő gondosság tanúsítása mellett ismernie kellett;
+
+b) a biztosítási esemény bekövetkeztét;
+
+c) a biztosított követelés címén, valamint kármegtérülésként hozzá befolyt összegeket.
+
+(2) Kárenyhítési kötelezettsége keretében a biztosított köteles
+
+a)[^164] a Mehib Zrt. utasításai szerint eljárni, továbbá megtenni mindazokat az intézkedéseket, amelyek a biztosítékok felhasználását (érvényesítését) szolgálják;
+
+b)[^165] a biztosított követelés – a forgalmi típusú módozatok és az egyedi módozat keretében biztosított rövidlejáratú ügyleteket esetén pedig a nem biztosított követelés tekintetében is – a fizetési haladék nyújtása, egyezségkötés, fizetési átütemezéssel kapcsolatos megállapodások megkötése vagy más kármegelőzési, kárenyhítési intézkedés előtt a Mehib Zrt. írásbeli hozzájárulását beszerezni, valamint a megtett intézkedéseiről és azok eredményeiről folyamatosan tájékoztatni a Mehib Zrt.-t;
+
+c)[^166] egyedi és egyéb módozatok esetén – a (9) bekezdésben foglalt kivétellel – a nem biztosított követelések vonatkozásában a Mehib Zrt. előzetes írásbeli hozzájárulását beszerezni a b) pontban foglalt esetekben, ha a biztosított és a Mehib Zrt. az adóssal szembeni biztosított és nem biztosított követelésüket egy jogi eljárás keretében érvényesítik, vagy ha a biztosított és nem biztosított követelések esedékességének időpontja egybeesik, és a megtett intézkedéseiről és azok eredményeiről folyamatosan tájékoztatni a Mehib Zrt.-t.
+
+(3)[^167] Átruházási kötelezettsége keretében a biztosított köteles a biztosítási szerződésben előírtak szerint a biztosítóval a követelés átruházásával kapcsolatban megállapodást kötni, amely a kárfizetéssel egyidejűleg lép hatályba, és amely alapján köteles az ügylettel kapcsolatos lejárt biztosított követelését annak járulékaival együtt – a kártérítés önrésszel növelt összegének erejéig – a követelés érvényesítésének jogával együtt a Mehib Zrt.-re mint az állam megbízottjára engedményezni. Az átruházási kötelezettség – a kárfizetés önrésszel növelt összegén túl – kiterjed a kárigény-bejelentés összegéből a biztosítási szerződés rendelkezései szerint levont biztosított követelésekre is. A biztosított az átruházási kötelezettsége keretében az e bekezdésben foglaltakon túl köteles a biztosított ügylettel kapcsolatos biztosítékait az átruházott követelés összegének erejéig a Mehib Zrt.-re átruházni. A biztosított köteles
+
+a) az adóst az átruházás megtörténtéről értesíteni,
+
+b) az adóshoz intézett értesítés másolatát a Mehib Zrt.-hez eljuttatni – amennyiben ezekre a Mehib Zrt. az átruházási kötelezettsége keretében írásban utasítja –, továbbá
+
+c) a Mehib Zrt. által kért nyilatkozatokat megtenni.
+
+(4)[^168] A biztosított az adóssal szembeni követeléseit, illetve a biztosítási szerződésből eredő követeléseit harmadik személyre csak a Mehib Zrt. előzetes írásbeli jóváhagyásával engedményezheti, illetve terhelheti meg.
+
+(5)[^169] A biztosított átutalási kötelezettsége keretében köteles a kárfizetést követően az adóssal szemben fennálló követelésekhez kapcsolódóan bármilyen jogcímen befolyt összegeket a Mehib Zrt.-nek azonnal átutalni, beleértve a 18. § (4)–(5) bekezdésében foglalt arányos elszámolás alapján a biztosítót megillető összegeket is.
+
+(6)[^170] A biztosított köteles lehetővé tenni a Mehib Zrt. vagy meghatalmazottja számára, hogy az adott biztosítási jogviszonnyal összefüggésben könyveibe, üzleti levelezéseibe a biztosítási szerződéssel érintett adósokkal folytatott üzleti levelezéseibe teljes körűen betekintsen.
+
+(7)[^171] Ha a biztosított fővállalkozó, a fővállalkozó és az alvállalkozó közötti vállalkozási szerződés módosításához a Mehib Zrt. előzetes írásbeli engedélye szükséges.
+
+(8)[^172] A 7. § (9) bekezdésben meghatározott nemzeti érdekű fedezetnyújtás alátámasztásához a biztosított köteles benyújtani a biztosító által előírt dokumentumokat.
+
+(9)[^173] Az egyedi szerződés keretében biztosított ügyletek esetében a biztosított kötelezettségeit az egyedi szerződéses feltételek tartalmazzák.
+
+## Egyéb rendelkezések
+
+### 21. §
+
+(1)[^174]
+
+(2)[^175] A Mehib Zrt. csak azokat a bankgaranciákat biztosíthatja, amelynek esetleges beváltásából fakadó fizetési kötelezettségekért a központi költségvetés nem felel.
+
+(3)[^176] Az Európai Unió Tanácsa által létrehozott, exporthitelezéssel foglalkozó csoport, valamint az Európai Bizottság illetékes Főigazgatósága felé fennálló, az Európai Unió jogszabályai által meghatározott adatszolgáltatási, bejelentési kötelezettségeket – az előírt formában, tartalommal és határidőben – a Mehib Zrt. végzi, amelynek jogosult a Magyar Export-Import Bank Zártkörűen Működő Részvénytársasággal közösen eleget tenni. A Mehib Zrt. az e rendelet hatálya alá tartozó ügyekben eljár ezekben a testületekben. A Mehib Zrt.-nek a jelen rendelet hatálya alá eső, közép- és hosszú lejáratú, azaz a kétéves és két éven túli lejáratú szállítói, illetve vevőhiteleket magában foglaló ügyleteire a 2. számú melléklet 5.1. pontjában foglalt eljárásokat le kell lefolytatnia. A Mehib Zrt. a 2. számú melléklet 5.2. pontjában foglalt eljárásokat lefolytatja, ha az adott eljárás lefolytatásának feltételei fennállnak. A Mehib Zrt. közép- és hosszú lejáratú ügyleteinél a jelen rendeletben rögzített biztosítási feltételektől eltérő feltételeket alkalmazhat, feltéve, hogy az ilyen esetekben a 2. számú melléklet 1. és 2. pontjában foglalt kötelező bejelentési eljárásokat lefolytatja.
+
+(4)[^177] A Mehib Zrt. köteles teljesíteni az OECD Kereskedelmi és Mezőgazdasági Igazgatósága által meghatározott adatszolgáltatási, valamint bejelentési kötelezettségeket, amelynek jogosult a Magyar Export-Import Bank Zártkörűen Működő Részvénytársasággal közösen eleget tenni. A Mehib Zrt. az e rendelet hatálya alá tartozó ügyekben eljár az OECD-ben.
+
+(5)[^178] Amennyiben olyan exportirányú külkereskedelmi szerződéshez, ahol a vevő székhelye nem az Európai Unió tagállamában van és a Mehib Zrt. az Európai Unió tagállamában állami támogatással működő exporthitel-biztosító szervezettel együttes biztosítást nyújt – akár mint fővállalkozói biztosító, akár mint az alvállalkozó hitelbiztosítója –, be kell tartania az Európai Unió jogszabályaiban foglalt előírásokat. Az együttes biztosítás nyújtása esetén a biztosító köteles a 3. számú mellékletben foglalt előírásokat betartani.
+
+(6)[^179] A Mehib Zrt. az állam készfizető kezessége mellett vállalt biztosítási tevékenységével kapcsolatban képzett, meg nem szolgált díjak tartalékát csak állampapírban vagy olyan értékpapírban, betétben tarthatja, amelyekben foglalt kötelezettségek teljesítéséért az állam készfizető kezességet vállalt. A tartalék fedezetéül szolgálhat a tartalékszámításnál figyelembe vett ügyletek tekintetében a biztosítottakkal szembeni három hónapnál nem régebbi követelés, valamint a Mehib Zrt.-nek az általa kötött viszontbiztosítási szerződés alapján a külföldi székhelyű biztosítóval vagy az azt biztosító kezessel vagy garantőrrel szemben fennálló követelés könyv szerinti értéke és az ezek által a Mehib Zrt. részére megfizetett összeg abban az esetben is, ha a Mehib Zrt.-t az összeg feletti szabad rendelkezés joga nem illeti meg.
+
+(7)[^180] A 20. § (3) bekezdésében foglalt kötelezettségnek azok a biztosítottak is kötelesek eleget tenni, melyek a Mehib Zrt. jogelődeivel kötöttek biztosítási szerződést.
+
+(8)[^181]
+
+(9)[^182]
+
+(10)[^183]
+
+## Záró rendelkezések
+
+### 22. §
+
+(1) Ez a rendelet – a (2), (4) és (5) bekezdésben foglaltak kivételével – a kihirdetését követő 8. napon lép hatályba.
+
+(2) E rendelet 11. §-ának (2) bekezdése 2002. április 1-jén lép hatályba.
+
+(3)–(4)[^185]
+
+(5) Az e rendelet 9. §-ának (6) bekezdésében és 21. §-ának (3) és (5) bekezdésében foglalt kötelezettségek a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lépnek hatályba.
+
+(6)[^186] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Tanács 84/568 EGK irányelve (1984. november 27.) az Európai Közösségek egy vagy több tagállamában kötött egy vagy több alvállalkozói szerződést magában foglaló szerződésre irányuló együttes biztosítékok esetén az állam megbízásából vagy támogatásával eljáró tagállami exporthitel-biztosító szervezetek vagy az ilyen szervezetek helyében eljáró közigazgatási egységek kölcsönös kötelezettségeiről;
+
+b) a Tanács 98/29 EK irányelve (1999. május 7.) a közép- és hosszú lejáratú fedezettel rendelkező ügyletek exporthitel-biztosításával kapcsolatos főbb rendelkezések összehangolásáról.
+
+(7)[^187] Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a)[^188]
+
+b)–c)[^189]
+
+d) a Tanács 2006/789/EK határozata (2006. november 13.) a hitelbiztosítással, a hitelgaranciával és a pénzügyi hitelekkel kapcsolatos konzultációs és tájékoztatási eljárásokról (kodifikált változat);
+
+e)[^190] az Európai Parlament és a Tanács 1233/2011/EU rendelete (2011. november 16.) a hivatalosan támogatott exporthitelek terén bizonyos iránymutatások alkalmazásáról, valamint a 2001/76 és a 2001/77/EK tanácsi határozat hatályon kívül helyezéséről.
+
+### 23. §[^191]
+
+A Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 185/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 6. §-ával megállapított 7. § (1) és (3) bekezdése, 11. § b) és c) pontjával megállapított 7. § (4) bekezdése és 7. § (7) bekezdése a 2012. december 30. és a MódR. hatálybalépése[^192] közötti időszakban megkötött biztosítási szerződésekre is alkalmazandók.
+
+### 24. §[^193]
+
+E rendeletnek a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 502/2022. (XII. 8.) Korm. rendelet (a továbbiakban: MódR1.) 1. §-ával megállapított 21. § (6) bekezdését a MódR1. hatálybalépését[^194] megelőzően a Mehib Zrt. által megkötött viszontbiztosítási és biztosítási szerződésekre is alkalmazni kell.
+
+### 25. §[^195]
+
+E rendeletnek a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet módosításáról szóló 630/2023. (XII. 23.) Korm. rendelet (a továbbiakban: MódR2.) 10. §-ával megállapított 17. § (6) és (7) bekezdését a MódR2. hatálybalépését[^196] megelőzően a Mehib Zrt. által megkötött viszontbiztosítási és biztosítási szerződésekre is alkalmazni kell.
+
+## 1. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^197]
+
+**A piacképes kockázatú országok jegyzéke**
+
+Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a rövid lejáratú exporthitel-biztosításokra történő alkalmazásáról szóló, a tagállamokhoz címzett bizottsági közlemény mindenkor hatályos melléklete szerinti országok.
+
+## 2. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^198]
+
+**A 21. § (3) bekezdésében foglaltak teljesítésére vonatkozó eljárások**
+
+1\. *Előzetes értesítés tájékoztatás céljából*
+
+a)[^199] Amennyiben a Mehib Zrt. egy bizonyos ügyletre vagy ügyletcsoportra, egy bizonyos ágazatra vagy ágazatokra, egy bizonyos országra vagy országokra, vagy teljes rendszerére vonatkozóan e rendelet rendelkezéseinél kedvezőbb fedezeti feltételek nyújtásával el szándékozik térni, döntése hatálybalépését megelőzően legalább hét munkanappal értesíteni köteles e szándékáról az Európai Unió tagállamában lévő export-hitelügynökségeket (a továbbiakban: ECA) és az Európai Bizottságot (a továbbiakban: Bizottság), megjelölve a tervezett eltérés okát, amely lehet például a nemzetközi versenyhez történő igazodás, és közölnie kell a felszámításra kerülő megfelelő díjmértéket.
+
+b)[^200] Amennyiben a Mehib Zrt. az 5. pont 5.1. alpont *b)* alpontja szerinti értesítés kötelezettség teljesítése során bejelentett éves fedezeti politikája szerinti éves értesítésében megadottnál alacsonyabb díjat szándékozik felszámítani, döntése hatálybalépését megelőzően legalább hét munkanappal értesíteni köteles e szándékáról a többi ECA-t és a Bizottságot.
+
+c)[^201] Amennyiben a Mehib Zrt. egy másik biztosítónak az *a)* és *b)* alpont szerinti értesítését követően a kezdeményező értesítőénél kedvezőbb feltételeket kíván nyújtani, döntése hatálybalépését megelőzően legalább hét nappal értesíteni köteles e szándékáról a többi ECA-t és a Bizottságot, megjelölve az általa felszámítani szándékozott díjmértéket.
+
+d)[^202] Amennyiben a Mehib Zrt. egy országra vagy egy adott országcsoportra kétoldalú politikai vagy nemzeti érdekből kivételesen olyan országbeli adósokkal kötött ügyletekre kíván fedezetet nyújtani, amelyekre rendes esetben nem nyújt fedezetet, döntése hatálybalépését megelőzően legalább hét munkanappal értesíteni köteles e szándékáról a többi ECA-t és a Bizottságot, megadva az általa felszámítani szándékozott díjmértéket.
+
+2\. *Utólagos értesítés tájékoztatás céljából*
+
+a)[^203] Amennyiben a Mehib Zrt. úgy dönt, hogy egy bizonyos ügyletre vagy ügyletcsoportra, egy bizonyos ágazatra vagy ágazatokra, egy bizonyos országra vagy országokra, vagy teljes rendszerére e rendelet rendelkezéseinél kedvezőtlenebb fedezeti feltételek nyújtásával el szándékozik térni, legkésőbb január 31-éig az előző évre vonatkozóan tájékoztatni köteles a többi ECA-t és a Bizottságot.
+
+b)[^204] Amennyiben a Mehib Zrt. úgy dönt, hogy az 5. pont 5.1. alpont *b)* alpontja szerinti éves értesítésében közzétett országonkénti fedezeti politikájának egy vagy több elemét módosítja, erről azonnal értesíti a többi ECA-t és a Bizottságot.
+
+c)[^205] Amennyiben a Mehib Zrt. az 1. pont *a),* illetve *b)* alpontja szerinti értesítést követően úgy dönt, hogy ugyanazokat a feltételeket nyújtja, mint a kezdeményező értesítő, erről azonnal értesíti a többi ECA-t és a Bizottságot.
+
+d)[^206] A Mehib Zrt. azonnal részletes választ küld egy másik biztosítótól vagy a Bizottságtól érkező, a tevékenységére vonatkozó magyarázat vagy tájékoztatás iránti megkeresésre.
+
+3\. *Az elektronikus levelezési rendszer használata*
+
+Minden értesítés általában elektronikus levelezés útján történik, vagy, ha szükséges, más megfelelő azonnali írásos kommunikációs eszköz útján.
+
+4.[^207] *Fenti eljárások kiegészítik* a hitelbiztosítással, a hitelgaranciával és a pénzügyi hitelekkel kapcsolatos konzultációs és bejelentési eljárásokról szóló – a Tanács 1976. július 27-ei 6/641/EGK határozatával módosított – 1973. december 3-i 73/391/EGK Tanácsi Határozatban megállapítottakat, ezért a Mehib Zrt.-nek ezen bejelentési eljárásokat a Határozatban foglaltakkal együttesen kell alkalmaznia.
+
+5\. *További értesítési eljárások*
+
+5.1.[^208] Éves értesítés tájékoztatás céljából
+
+a) Minden év végén, de legkésőbb a következő év április 30-áig, minden biztosító visszamenőleges alapon jelentést küld a többi ECA-nak és a Bizottságnak előző évi tevékenységéről. E jelentésnek ki kell terjednie valamennyi adós országra, és tartalmaznia kell ezen országok mindegyikére vonatkozóan:
+
+– a biztosító által ajánlott garancia biztosítások teljes összegét,
+
+– a biztosító teljes fennálló kinnlevőségét az önrészesedést leszámítva, a közép- és hosszú lejáratú (két év és két éven túli lejáratú szállítói, illetve vevőhiteleket magában foglaló) ügyletek összegei alapján meghatározva,
+
+– a beszedett díjat,
+
+– a megtérülések összegét és
+
+– a kárfizetések összegét.
+
+b) Minden év elején legkésőbb január 31-ig minden biztosító a Mehib Zrt. jelentést küld a többi ECA-nak és a Bizottságnak a következő évre tervezett, vagy a következő évben alkalmazandó fedezeti politikájáról, beleértve a felső határok fajtáját és szintjét csakúgy, mint azokat a feltételeket, amelyeket a biztosító a következő évben a fedezetet illetően szokásosan megszabni szándékozik.
+
+5.2. Értesítés döntés céljából
+
+a)[^209] Uniós exportőrök vagy bankok egymással versengő ajánlata esetén a Mehib Zrt. azonnal válaszol egy másik közreműködő biztosító arra irányuló információkérésére, hogy milyen a szóban forgó ügyletbeli adósnak e rendelet 2. § (1) bekezdés a) és b) pontjában meghatározottak szerinti státusa.
+
+b)[^210] Az adós státusát illető vita esetén a közreműködő biztosítók a rendelkezésre álló információkat a többi ECA számára hozzáférhetővé teszik, hogy megállapodjanak egy kölcsönösen elfogadott státusban.
+
+c) Amennyiben a biztosítók az információkéréstől számított 10 munkanapon belül nem tudnak megállapodni az adós státusáról, a közreműködő biztosítók az ügyet a vonatkozó információval együtt a Bizottság tudomására hozzák, amely a reá vonatkozó eljárásnak megfelelően határozatot hoz.
+
+## 3. számú melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^211]
+
+**A** 21. § (5) bekezdésében **foglaltak teljesítésére vonatkozó előírások**
+
+1\. A Mehib Rt.-nek a 3. pontban szereplő mintaszerződés rendelkezéseinek megfelelően kell eljárnia az olyan a kölcsönös kötelezettségeik vonatkozásában, ha egy másik tagállam szervezetével vagy ügyosztályával közösen egy vagy több tagállamban, egy vagy több alvállalkozói szerződést magába foglaló szerződésre vonatkozó biztosítékok nyújtásában vesz részt.
+
+2\. A 3. pontban szereplő mintaszerződés rendelkezései nem zárják ki eleve, olyan járulékos rendelkezések átvételét az 1. pontban hivatkozott szervezetek vagy ügyosztályok által, amelyek nincsenek hatással a 3. pontban foglalt mintaszerződés hatályára, az utóbbinak bármely egyedi tevékenységre történő alkalmazásakor.
+
+3\. Mintaszerződés:
+
+*1. cikk*
+
+*Hatály*
+
+Ezen Szerződés tárgya az Európai Gazdasági Közösség export-hitelbiztosítói kölcsönös kötelezettségeinek a szabályozása azon esetekre, ha
+
+– egy vállalkozás (a továbbiakban: a fővállalkozó) alvállalkozási szerződést köt az Európai Gazdasági Közösség egy vagy több tagállamának egy vagy több vállalkozásával (a továbbiakban: az alvállalkozók) egy exportszerződés vonatkozásában, amelynek a fővállalkozó az egyedüli kötelezettje, és amelyet az egy olyan vállalkozással (a továbbiakban: a vevő) kötött, amelynek székhelye:
+
+– vagy az Európai Gazdasági Közösséghez nem tartozó országban van;
+
+– vagy az Európai Gazdasági Közösségnek egy tagállamában van, kivéve azokat, amelyekben a megbízó fél és az alvállalkozó székhelye van;
+
+– a fővállalkozó kötelezettséget vállalt arra, hogy átutalja az alvállalkozó(k)nak az őket illető részt a vevő által a fővállalkozónak fizetett összegből, és hogy eleget tesz mindazon előírásoknak, amelyek szükségesek lehetnek a vevő által teljesített kifizetések alvállalkozónak járó részének az átutalásához;
+
+– nincs jogi kapcsolat az alvállalkozók és a vevő között;
+
+– a fővállalkozó hitelbiztosítója (a továbbiakban: a fővállalkozói biztosító) és az alvállalkozó(k) hitelbiztosítója vagy hitelbiztosítói [a továbbiakban: az együttes biztosító(k)] készek garanciát adni – mindegyik a saját üzletpolitikájának a feltételei szerint – a tevékenységnek az illető országában végrehajtott részére, az egyes szerződésekben az általuk meghatározott kockázatokra.
+
+A szerződésre, amelyet a fent említett export-hitelbiztosítók kötelesek megkötni minden egyes esetben, a fővállalkozónak és az egy vagy több alvállalkozónak nyújtandó együttes biztosítékok tárgyában, az alábbi pontok rendelkezései vonatkoznak.
+
+*2. cikk*
+
+*A fővállalkozói biztosító kötelezettségei*
+
+A fővállalkozói biztosító, a kockázat egyedüli kezelőjeként, beleértve az alvállalkozási elemet, köteles vállalni, hogy
+
+*a)* biztosítja a fővállalkozót, az alvállalkozó szerződésrészének a vonatkozásában, a biztosító által minden egyes szerződésben meghatározott kockázatok ellen;
+
+*b)* a szerződés teljesítési feltételeinek (mennyiség, szállítás, fizetés stb.) vagy a fővállalkozó és az alvállalkozó(k) közötti szerződésnek a szerződés teljesítése vonatkozásában történő módosításához nem járul hozzá, hacsak az együttes biztosítókkal kölcsönösen meg nem állapodott;
+
+*c)* nem tagadja meg a felelősségét, a fővállalkozó részére kibocsátott biztosítási kötvény rendelkezései alapján, az utóbbi részéről elkövetett bármely szerződésszegés következményeként, anélkül, hogy az együttes biztosítók értesítenék erről;
+
+*d)* nem jelenti be a biztosítási szerződés lejártát az együttes biztosítók erről történő értesítése nélkül;
+
+*e)* bármely a tudomására jutott olyan tényről tájékoztatja az együttes biztosítókat, amely megváltoztathatja a vállalt kockázatokat, azok mértékét, terjedelmét vagy kárhoz vezethet;
+
+*f)* kár vagy annak veszélye esetén egyezteti az együttes biztosítókkal a megteendő lépéseket; a veszteséget elfogadó döntéseket, amíg lehetséges, közös megegyezéssel kell meghozni, a jótállás összegét, és a fizetés módját pedig az egyes biztosítási kötvények rendelkezéseivel összhangban kell meghatározni;
+
+*g)* veszteség esetében megteszi a szükséges lépéseket vagy megköveteli a fővállalkozótól a szükséges lépések megtételét, a fizetetlen összegek behajtása, a behajtott összegből az együttes biztosítónak a neki járó rész visszafizetése és az ilyen rész átutalásához szükséges előírások elintézése érdekében. A fővállalkozói biztosítónál a behajtás során felmerült költségeket, a biztosított szerződésarányában kell megosztani;
+
+*h)* a fővállalkozónak adott biztosíték felmondása esetén megtesz minden tőle telhetőt, hogy az e cikkelyben írt kötelezettségeknek eleget tegyen.
+
+*3. cikk*
+
+*Az egyes együttes biztosításban részes biztosítók kötelezettségei*
+
+Minden egyes együttes biztosításban részes biztosító a saját részéről köteles vállalni, hogy
+
+*a)* az alvállalkozót a saját országában biztosítja, kizárólag az utóbbi tevékenységének vonatkozásában, az egyes szerződésekben általa meghatározott kockázatok ellen;
+
+*b)* a fővállalkozó és az alvállalkozó között létrejött szerződés semmilyen módosítását sem fogadja el a vevővel kötött szerződés teljesítésére vonatkozólag, kivéve a fővállalkozói biztosítóval történő közös megegyezést;
+
+*c)* az alvállalkozónak adott szerződés rendelkezései szerint nem tagadja meg a felelősséget, az utóbbi oldaláról történő bármely szerződésszegés miatt, anélkül hogy erről a fővállalkozói biztosítót értesítené;
+
+*d)* nem nyilvánítja lejártnak a biztosítási szerződést a fővállalkozói biztosító értesítése nélkül;
+
+*e)* a tudomására jutott bármely olyan tényről tájékoztatja a fővállalkozói biztosítót, amely megváltoztathatja a vállalt kockázatokat, vagy azok mértékét, vagy kárhoz vezethet;
+
+*f)* az alvállalkozónak adott biztosíték felmondása esetén megtesz minden tőle telhetőt az e cikkelyben írt kötelezettségnek való megfelelés érdekében.
+
+*4. cikk*
+
+*A biztosítási kötelezettségek teljesítése*
+
+A vásárló ország adósságának teljesítését szolgáló szerződés esetében, a fővállalkozói biztosító és az együttes biztosító(k) kötelesek egyeztetést tartani a konszolidációs szerződés által okozott meghatározott problémák megoldásának módjairól és eszközeiről.
+
+*5. cikk*[^212]
+
+*Importhitel műveletek*
+
+Azon uniós hitelbiztosítók, amelyek importhitel rendszerei megfelelően összeegyeztethetők, továbbá megegyezhetnek, hogy a teljes szerződés tekintetében egyetlen importhitelt alapítanak, illetőleg a szerződést azzal fedezik, amely hitelre ezen Szerződés rendelkezéseit kell alkalmazni analógia útján.
+
+*6. cikk*[^213]
+
+*Választottbíráskodás*
+
+Bármely ezen Szerződésből fakadó vitát, amelyet barátságos úton nem lehet rendezni, egy három választott bíróból álló Választottbíróság elé kell vinni. Minden érintett fél egy választott bírót jelöl. A harmadik választott bírót az Európai Unió Bíróságának Elnöke jelöli ki; ez a választott bíró jár el a Választottbíróság elnökeként. Az eljárás a Nemzetközi Kereskedelmi Kamara Egyeztetési és Választottbíráskodási Szabályai szerint zajlik.
+
+## 4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^214]
+
+## 5. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^215]
+
+---
+
+[^1]: Az 1. § a 437/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (2) bekezdése a 80/2014. (III. 14.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés c) pontja az 50/2010. (III. 9.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdésének d) pontja a 303/2005. (XII. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^6]: A 2. § (1) bekezdés e) pontját a 48/2003. (IV. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 235/2021. (V. 6.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^7]: A 2. § (1) bekezdésének f) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^8]: A 2. § (1) bekezdésének g) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdésének h) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. [A 2. § (1) bekezdés h) pontban a 630/2023. (XII. 23.) Korm. rendelet 18. § a) pontja által elrendelt módosítás, amely szerint hatályát veszti az „Etv.1. § (5a) bekezdése szerinti beszállítói ügylet vagy exportcélú befektetés eredményeként keletkező árbevételt, exportárbevételt, valamint a 7. § (11) bekezdések vonatkozásában” szövegrész, nem vezethető át.]
+[^10]: A 2. § (1) bekezdésének i) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^11]: A 2. § (1) bekezdésének j) pontját a 303/2005. (XII. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^12]: A 2. § (1) bekezdés k) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés l) pontját az 50/2010. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (2) bekezdésével megállapított, nyitó szövegrésze a 235/2021. (V. 6.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdés m) pontját újonnan a 126/2020. (IV. 16.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés n) pontját a 205/2012. (VII. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § (1) bekezdés n) pont na) alpont naa) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 2. § (1) bekezdés n) pont na) alpont nab) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 2. § (1) bekezdés n) pont nb) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 2. § (1) bekezdés o) pontját újonnan a 233/2024. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 2. § (1) bekezdés p) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. [A 2. § (1) bekezdés p) pontban a 630/2023. (XII. 23.) Korm. rendelet 18. § c) pontja által elrendelt módosítás, amely szerint hatályát veszti a „belföldi szövegrész, nem vezethető át.]
+[^21]: A 2. § (1) bekezdés q) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^22]: A 2. § (1) bekezdés r) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, a 233/2024. (VII. 31.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^23]: A 2. § (1) bekezdés s) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^24]: A 2. § (1) bekezdés t) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^25]: A 2. § (1) bekezdés u) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^26]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 233/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
+[^28]: A 2. § (1) bekezdés x) pontját a 80/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^29]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 235/2021. (V. 6.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^30]: A 2. § (1) bekezdés z) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^31]: A 2. § (1) bekezdés zs) pontját a 26/2019. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^32]: A 2. § (3) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^33]: A 3. § a 126/2020. (IV. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^34]: A 3. § a) pont aa) alpontja a 233/2024. (VII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^35]: A 4. §-t megelőző alcím az 50/2010. (III. 9.) Korm. rendelet 4. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 4. pontja szerint módosított szöveg.
+[^36]: A 4. § (1) bekezdése a 233/2024. (VII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^37]: A 4. § (3) bekezdés c) pontja a 235/2021. (V. 6.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^38]: A 4. § (3) bekezdés d) pontját az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte.
+[^39]: A 4. § (3) bekezdés e) pontja a 126/2020. (IV. 16.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^40]: A 4. § (3) bekezdésének f) pontját a 48/2003. (IV. 3.) Korm. rendelet 12. §-ának (3) bekezdése hatályon kívül helyezte.
+[^41]: A 4. § (3) bekezdés g) pontja a 185/2013. (VI. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^42]: A 4. § (3) bekezdésének h) pontja a 303/2005. (XII. 25.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^43]: A 4. § (3) bekezdés i) pontját a 233/2024. (VII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 4. § (4) bekezdését az 50/2010. (III. 9.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^45]: Az 5. §-t megelőző alcím az 50/2010. (III. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^46]: Az 5. § nyitó szövegrésze az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^47]: Az 5. § b) pontja a 630/2023. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^48]: Az 5. § c) pontja a 303/2005. (XII. 25.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^49]: Az 5. § h) pontja a 437/2012. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^50]: Az 5. § i) pontja a 126/2020. (IV. 16.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^51]: Az 5. § j) pontja a 437/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^52]: Az 5. § l) pontját a 48/2003. (IV. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § a) pontja.
+[^53]: Az 5. § m) pontját a 303/2005. (XII. 25.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 437/2012. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 235/2021. (V. 6.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^54]: Az 5. § n) pontját újonnan a 233/2024. (VII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^55]: A 6. § az 50/2010. (III. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^56]: A 6. § (1) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^57]: A 6. § (1) bekezdés b) pontja a 437/2012. (XII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^58]: A 6. § (1) bekezdés c) pontja a 126/2020. (IV. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^59]: A 6. § (1) bekezdés d) pontja a 126/2020. (IV. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^60]: A 6. § (1) bekezdés e) pontja a 126/2020. (IV. 16.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^61]: A 6. § (2) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^62]: A 6. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 33. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg. A 6. § (3) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^63]: A 6. § (4) bekezdését a 233/2024. (VII. 31.) Korm. rendelet 7. §-a iktatta be.
+[^64]: A 6/A. §-t a 303/2005. (XII. 25.) Korm. rendelet 7. §-a iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^65]: A 7. § a 437/2012. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^66]: A 7. § (1) bekezdése a 26/2019. (II. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^67]: A 7. § (1) bekezdés a) pontja a 630/2023. (XII. 23.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^68]: A 7. § (1) bekezdés b) pontja a 630/2023. (XII. 23.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^69]: A 7. § (1) bekezdés c) pontját a 60/2019. (III. 25.) Korm. rendelet 10. §-a iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^70]: A 7. § (1) bekezdés d) pontját a 60/2019. (III. 25.) Korm. rendelet 10. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 36. § 11. pontja szerint módosított szöveg.
+[^71]: A 7. § (1) bekezdés e) pontját a 60/2019. (III. 25.) Korm. rendelet 10. §-a iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^72]: A 7. § (1) bekezdés f) pontját a 60/2019. (III. 25.) Korm. rendelet 10. §-a iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 36. § 13. pontja szerint módosított szöveg.
+[^73]: A 7. § (2) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^74]: A 7. § (3) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^75]: A 7. § (4) bekezdése a 60/2019. (III. 25.) Korm. rendelet 11. §-ával megállapított, nyitó szövegrésze a 630/2023. (XII. 23.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^76]: A 7. § (4) bekezdés a) pontja a 126/2020. (IV. 16.) Korm. rendelet 36. § 15. pontja, a 630/2023. (XII. 23.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^77]: A 7. § (4) bekezdés b) pontja a 126/2020. (IV. 16.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
+[^78]: A 7. § (5) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^79]: A 7. § (6) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^80]: A 7. § (7) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^81]: A 7. § (7) bekezdés e) pontja a 630/2023. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^82]: A 7. § (8) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 17. pontja szerint módosított szöveg.
+[^83]: A 7. § (9) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
+[^84]: A 7. § (10) bekezdését a 630/2023. (XII. 23.) Korm. rendelet 18. § h) pontja hatályon kívül helyezte, újonnan a 463/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^85]: A 7. § (11) bekezdését a 215/2015. (VII. 31.) Korm. rendelet 2. § (7) bekezdése iktatta be, a 630/2023. (XII. 23.) Korm. rendelet 18. § h) pontja hatályon kívül helyezte.
+[^86]: A 7/A. §-t hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § b) pontja, újonnan a 630/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^87]: A 8. § (1) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó.
+[^88]: A 8. § (2) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^89]: A 8. § (3) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 437/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^90]: A 8. § (4) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 437/2012. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^91]: A 8. § (5) bekezdését az 50/2010. (III. 9.) Korm. rendelet 21. § (1) bekezdése hatályon kívül helyezte, újonnan a 233/2024. (VII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^92]: A 9. § (1) bekezdése a 233/2024. (VII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^93]: A 9. § (2) bekezdésének bevezető mondatrésze a 48/2003. (IV. 3.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 21. pontja szerint módosított szöveg.
+[^94]: A 9. § (2) bekezdés c) pontját a 437/2012. (XII. 29.) Korm. rendelet 10. § (1) bekezdése iktatta be, a 630/2023. (XII. 23.) Korm. rendelet 18. § i) pontja hatályon kívül helyezte.
+[^95]: A 9. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 22. pontja szerint módosított szöveg.
+[^96]: A 9. § (4) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^97]: A 9. § (5) bekezdését újonnan a 437/2012. (XII. 29.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^98]: A 9. § (6) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^99]: A 9. § (7) bekezdését a 48/2003. (IV. 3.) Korm. rendelet 12. §-ának (3) bekezdése hatályon kívül helyezte.
+[^100]: A 10. § a 437/2012. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^101]: A 10. § (1) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 26. pontja, a 235/2021. (V. 6.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^102]: A 10. § (2) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 27. pontja szerint módosított szöveg.
+[^103]: A 10. § (3) bekezdése a 327/2014. (XII. 15.) Korm. rendelet 10. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 28. pontja szerint módosított szöveg.
+[^104]: A 10. § (4)–(5) bekezdését a 327/2014. (XII. 15.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^105]: A 11. § (1) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 34. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 29. pontja, a 630/2023. (XII. 23.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^106]: A 11. § (2) bekezdése az 50/2010. (III. 9.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^107]: A 11. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 30. pontja szerint módosított szöveg.
+[^108]: A 11. § (4) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^109]: A 11. § (5) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 31. pontja szerint módosított szöveg.
+[^110]: A 12. §-t megelőző alcím címet a 303/2005. (XII. 25.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^111]: A 12. § a 303/2005. (XII. 25.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg. E módosító rendelet 19. § (1) bekezdése alapján a rendelkezés a 2006. január 1. napja után kötött szerződésekre irányadó. A rendelkezés alkalmazására lásd még e módosító rendelet 20. § (1) bekezdését.
+[^112]: A 12. § (1) bekezdése az 50/2010. (III. 9.) Korm. rendelet 20. § (1) bekezdése, a 126/2020. (IV. 16.) Korm. rendelet 36. § 32. pontja szerint módosított szöveg.
+[^113]: A 12. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg. [A 12. § (3) bekezdésben a 630/2023. (XII. 23.) Korm. rendelet 17. § e) pontja által elrendelt módosítás, amely szerint a „90%” szövegrész helyébe a „legalább 90%” szöveg lép, nem vezethető át.]
+[^114]: A 12. § (5) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 630/2023. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^115]: A 12. § (6) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^116]: A 12. § (7) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 26. § (2) bekezdése iktatta, szövege a 630/2023. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^117]: A 13. §-t megelőző alcímet a 437/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 26/2019. (II. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^118]: A 13. §-t a 303/2005. (XII. 25.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte, újonnan a 437/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 26/2019. (II. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^119]: A 13. § (1) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 33. pontja szerint módosított szöveg.
+[^120]: A 13. § (5) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 27. §-ával megállapított, a 630/2023. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^121]: A 13. § (6) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 27. §-a iktatta be.
+[^122]: A 13. § (7) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 27. §-a iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^124]: A 15. § (1) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 13. §-ával megállapított, a 235/2021. (V. 6.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^125]: A 15. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^126]: A 15. § (2) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^127]: A 15. § (2) bekezdés b) pontja a 303/2005. (XII. 25.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^128]: A 15. § (2) bekezdésének d) pontját a 48/2003. (IV. 3.) Korm. rendelet 8. §-a iktatta a szövegbe, e módosító rendelet 12. §-ának (1) bekezdése alapján a rendelkezés a 2003. április 11. napja után kötött szerződésekre irányadó.
+[^129]: A 15. § (3) bekezdése az 50/2010. (III. 9.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^130]: A 15. § (4) bekezdését újonnan a 233/2024. (VII. 31.) Korm. rendelet 10. §-a iktatta be.
+[^131]: A 16. § (1) bekezdése a 233/2024. (VII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^132]: A 16. § (2) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^133]: A 17. § az 50/2010. (III. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^134]: A 17. § (1) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^135]: A 17. § (2) bekezdés nyitó szövegrésze a 437/2012. (XII. 29.) Korm. rendelet 20. § b) pontja, a 126/2020. (IV. 16.) Korm. rendelet 36. § 34. pontja szerint módosított szöveg.
+[^136]: A 17. § (2) bekezdés d) pontját a 233/2024. (VII. 31.) Korm. rendelet 12. §-a iktatta be.
+[^137]: A 17. § (3) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte, újonnan a 235/2021. (V. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^138]: A 17. § (4) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^139]: A 17. § (5) bekezdését a 437/2012. (XII. 29.) Korm. rendelet 20. § c) pontja hatályon kívül helyezte.
+[^140]: A 17. § (6) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^141]: A 17. § (7) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^142]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^143]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^144]: A 17/A. § (1) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^145]: A 17/A. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^146]: A 17/A. § (4) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.
+[^147]: A 17/B. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^148]: A 17/B. § (1) bekezdés nyitó szövegrésze a 126/2020. (IV. 16.) Korm. rendelet 36. § 38. pontja szerint módosított szöveg.
+[^149]: A 17/B. § (1) bekezdés a) pontja a 185/2013. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^150]: A 17/B. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^151]: A 17/B. § (4) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^152]: A 17/B. § (5) bekezdése a 233/2024. (VII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^153]: A 18. § (1) bekezdése a 233/2024. (VII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^154]: A 18. § (2) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 16. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 41. pontja szerint módosított szöveg.
+[^155]: A 18. § (3) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 16. §-ával megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 42. pontja szerint módosított szöveg.
+[^156]: A 18. § (4) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 43. pontja szerint módosított szöveg.
+[^157]: A 18. § (5) bekezdése a 235/2021. (V. 6.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^158]: A 18. § (5) bekezdés b) pontja a 630/2023. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^159]: A 18. § (5) bekezdés c) pontja a 630/2023. (XII. 23.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
+[^160]: A 18. § (5) bekezdés e) pontját a 233/2024. (VII. 31.) Korm. rendelet 15. §-a iktatta be.
+[^161]: A 18. § (6) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 44. pontja szerint módosított szöveg.
+[^162]: A 19. § a 233/2024. (VII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^163]: A 20. § (1) bekezdés a) pontja a 437/2012. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^164]: A 20. § (2) bekezdés a) pontja a 126/2020. (IV. 16.) Korm. rendelet 36. § 48. pontja szerint módosított szöveg.
+[^165]: A 20. § (2) bekezdés b) pontja a 630/2023. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^166]: A 20. § (2) bekezdés c) pontját a 235/2021. (V. 6.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 233/2024. (VII. 31.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^167]: A 20. § (3) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^168]: A 20. § (4) bekezdése a 140/2014. (IV. 30.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 50. pontja szerint módosított szöveg.
+[^169]: A 20. § (5) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^170]: A 20. § (6) bekezdése a 437/2012. (XII. 29.) Korm. rendelet 17. § (4) bekezdésével megállapított, a 126/2020. (IV. 16.) Korm. rendelet 36. § 52. pontja szerint módosított szöveg.
+[^171]: A 20. § (7) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 53. pontja szerint módosított szöveg.
+[^172]: A 20. § (8) bekezdését az 50/2010. (III. 9.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^173]: A 20. § (9) bekezdését a 233/2024. (VII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^174]: A 21. § (1) bekezdését a 185/2013. (VI. 7.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^175]: A 21. § (2) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 54. pontja szerint módosított szöveg.
+[^176]: A 21. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^177]: A 21. § (4) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^178]: A 21. § (5) bekezdése a 303/2005. (XII. 25.) Korm. rendelet 17. §-a, a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 126/2020. (IV. 16.) Korm. rendelet 36. § 55. pontja szerint módosított szöveg.
+[^179]: A 21. § (6) bekezdése az 502/2022. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^180]: A 21. § (7) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 57. pontja szerint módosított szöveg.
+[^181]: A 21. § (8) bekezdését az 50/2010. (III. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § d) pontja.
+[^182]: A 21. § (9) bekezdését az 50/2010. (III. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, a 437/2012. (XII. 29.) Korm. rendelet 20. § d) pontja hatályon kívül helyezte.
+[^183]: A 21. § (10) bekezdését a 205/2012. (VII. 27.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § d) pontja.
+[^185]: A 22. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 991. pontja hatályon kívül helyezte.
+[^186]: A 22. § (6) bekezdése az 50/2010. (III. 9.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^187]: A 22. § (7) bekezdését az 50/2010. (III. 9.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^188]: A 22. § (7) bekezdés a) pontját a 126/2020. (IV. 16.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^189]: A 22. § (7) bekezdés b)–c) pontját a 437/2012. (XII. 29.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
+[^190]: A 22. § (7) bekezdés e) pontját a 205/2012. (VII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^191]: A 23. §-t a 185/2013. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
+[^192]: A hatálybalépés napja: 2013. június 8.
+[^193]: A 24. §-t az 502/2022. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^194]: A hatálybalépés időpontja 2022. december 9.
+[^195]: A 25. §-t a 630/2023. (XII. 23.) Korm. rendelet 16. §-a iktatta be.
+[^196]: A hatálybalépés időpontja 2023. december 24.
+[^197]: A rendelet eredeti mellékletének számozását a 303/2005. (XII. 25.) Korm. rendelet 18. §-a 1. számú mellékletre változtatta. Az 1. számú melléklet a 126/2020. (IV. 16.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^198]: A 2. számú mellékletet a 303/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be, egyidejűleg a rendelet eredeti mellékletének számozását 1. számú mellékletre változtatva.
+[^199]: A 2. számú melléklet 1. pont a) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^200]: A 2. számú melléklet 1. pont b) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^201]: A 2. számú melléklet 1. pont c) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^202]: A 2. számú melléklet 1. pont d) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^203]: A 2. számú melléklet 2. pont a) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^204]: A 2. számú melléklet 2. pont b) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^205]: A 2. számú melléklet 2. pont c) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^206]: A 2. számú melléklet 2. pont d) alpontja 21. § (7) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 36. § 58. pontja szerint módosított szöveg.
+[^207]: A 2. számú melléklet 4. pontja a 126/2020. (IV. 16.) Korm. rendelet 36. § 59. pontja szerint módosított szöveg.
+[^208]: A 2. számú melléklet 5. pont 5.1. alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^209]: A 2. számú melléklet 5. pont 5.2. alpont a) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^210]: A 2. számú melléklet 5. pont 5.2. alpont b) alpontja a 126/2020. (IV. 16.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^211]: A 3. számú mellékletet a 303/2005. (XII. 25.) Korm. rendelet 18. §-a iktatta be. E módosító rendelet 19. (1) bekezdése alapján rendelkezései a 2006. január 1. napja után kötött szerződésekre irányadóak.
+[^212]: A 3. számú melléklet 5. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^213]: A 3. számú melléklet 6. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^214]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § f) pontja.
+[^215]: Az 5. mellékletet a 205/2012. (VII. 27.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 235/2021. (V. 6.) Korm. rendelet 12. §-a.

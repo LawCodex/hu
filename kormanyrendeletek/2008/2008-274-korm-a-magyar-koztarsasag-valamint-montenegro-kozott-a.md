@@ -1,0 +1,320 @@
+---
+title: "274/2008. (XI. 21.) Korm. rendelet a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás kihirdetéséről"
+identifier: "274/2008. (XI. 21.) Korm. rendelet"
+njt_id: "2008-274-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/274"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-11-21
+in_force_from: 2008-11-22
+last_amended: 2008-11-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-274-20-22"
+retrieved: 2026-10-12
+---
+
+# 274/2008. (XI. 21.) Korm. rendelet a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás (a továbbiakban: Igazgatási Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Igazgatási Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Igazgatási Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„Igazgatási Megállapodás\
+a Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló Egyezmény végrehajtására
+
+A Magyar Köztársaság, valamint Montenegró között a társadalombiztosításról és a szociális biztonság egyes kérdéseiről szóló, Budapesten, 2008. május 20-án aláírt egyezmény (a továbbiakban: Egyezmény) 29. cikke alapján a Szerződő Felek az alábbiakban állapodtak meg:
+
+I. RÉSZ
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+*1. cikk*
+
+*Fogalommeghatározások*
+
+A jelen megállapodásban alkalmazott fogalmak és kifejezések jelentése megegyezik az Egyezményben foglaltakkal.
+
+*2. cikk*
+
+*Összekötő szervek*
+
+Az Egyezmény 28. cikke szerinti összekötő szervek az alábbiak:
+
+(1) A Magyar Köztársaság részéről:
+
+*a)* a nyugellátások tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság,
+
+*b)* a munkanélküliség tekintetében a Foglalkoztatási és Szociális Hivatal,
+
+*c)* minden egyéb kérdésben az Országos Egészségbiztosítási Pénztár;
+
+(2) Montenegró részéről az egészségbiztosítás nyugdíj- és rokkantsági biztosítás, valamint a munkanélküliség tekintetében a köztársaság Egészségügyi, Munkaügyi és Szociális Gondoskodási Minisztériuma.
+
+*3. cikk*
+
+*Illetékes teherviselők*
+
+Az Egyezmény 2. cikk (1) bekezdésében felsorolt jogszabályok alkalmazása céljából illetékes teherviselő:
+
+(1) A Magyar Köztársaság tekintetében a jelen Megállapodás 2. cikkében megjelölt szervek;
+
+(2) Montenegró tekintetében:
+
+*a)* az egészségbiztosítás vonatkozásában:
+
+Köztársasági Egészségbiztosítási Alap, Podgorica,
+
+*b)* a nyugdíj- és rokkantbiztosítás biztosítás vonatkozásában:
+
+Köztársasági Nyugdíj- és Rokkantsági Biztosítási Alap, Podgorica,
+
+*c)* A munkahelyi balesetek és foglalkozási megbetegedések vonatkozásában:
+
+Köztársasági Nyugdíj- és Rokkantsági Biztosítási Alapja, Podgorica,
+
+Köztársasági Egészségbiztosítási Alap, Podgorica,
+
+*d)* A munkanélküliség vonatkozásában:
+
+a Köztársasági Foglalkoztatási Intézet.
+
+*4. cikk*
+
+*Az összekötő szervek feladatai*
+
+(1) A jelen Megállapodás 2. cikkében felsorolt összekötő szervek az Egyezmény és a jelen Megállapodás alkalmazása céljából egymás között, valamint a biztosítottakkal és azok meghatalmazottaival közvetlenül érintkezhetnek, továbbá kölcsönösen támogatják egymást az Egyezmény végrehajtása érdekében. Az összekötő szervek a jelen Megállapodásban rögzített hatáskörüket a rájuk irányadó jogszabályok szerint más intézményekre is átruházhatják.
+
+(2) Az összekötő szerveknek meg kell állapodniuk az Egyezmény és a jelen Megállapodás végrehajtásához szükséges eljárásokról és igazolásokról (formanyomtatványokról).
+
+II. RÉSZ
+
+AZ ALKALMAZANDÓ JOGSZABÁLYOKRA VONATKOZÓ RENDELKEZÉSEK
+
+*5. cikk*
+
+*Az alkalmazandó jogszabályokra vonatkozó igazolások (formanyomtatványok)*
+
+(1) Az Egyezmény 8–10. cikkében előírt esetekben a munkavállaló, a munkáltató, illetőleg az önálló tevékenységet végző személy kérelmére kiállított igazolás (formanyomtatvány) tanúsítja, hogy az érintett személy a kiküldő Szerződő Fél jogszabályai szerint marad biztosított.
+
+(2) A jelen cikk (1) bekezdése szerinti igazolást (formanyomtatványt) kiállítja:
+
+*a)* a Magyar Köztársaság jogszabályainak alkalmazásánál:
+
+az Országos Egészségbiztosítási Pénztár,
+
+*b)* Montenegró jogszabályainak alkalmazásánál:
+
+a köztársasági egészségbiztosítási teherviselő illetékes szervezeti egysége.
+
+(3) Az igazolást (formanyomtatványt) kiállító teherviselő a másik Szerződő Fél jelen cikk (2) bekezdésében megjelölt teherviselőt – kérelmére – tájékoztatja a kibocsátott igazolások (formanyomtatványok) számáról és tartalmáról.
+
+(4) Amennyiben az (1) bekezdésben említett igazolást (formanyomtatványt) nem mutatják be, az egyik Szerződő Fél teherviselője kérheti, hogy azt a másik Szerződő Félnek a (2) bekezdésben megjelölt teherviselője utólag állítsa ki.
+
+*6. cikk*
+
+*A kiküldetés időtartamának meghosszabbítása*
+
+(1) Az Egyezmény 8. cikk (7) bekezdésének alkalmazása során a jogszabályok alkalmazásának meghosszabbítása céljából szükséges egyetértés kiállításával kapcsolatos kérelmet Montenegróban a foglalkoztatási ügyekben illetékes minisztériumhoz, a Magyar Köztársaságban pedig az Országos Egészségbiztosítási Pénztárhoz kell benyújtani. A kérelmet három példányban kiállított igazoláson (formanyomtatványon) kell benyújtani.
+
+(2) A jelen cikk (1) bekezdésében említett szerv az egyetértését a másik Szerződő Fél illetékes szerve részére két példányban elküldött igazolással (formanyomtatvánnyal) erősíti meg.
+
+*7. cikk*
+
+*Választási jog gyakorlása*
+
+(1) Az Egyezmény 9. cikk (4) bekezdésében említett személy a választási jogát a foglalkoztatás megkezdésének napjától számított 3 hónapon belül gyakorolhatja. A jelen Megállapodás hatálybalépésekor már foglalkoztatott személy tekintetében e határidőt a megállapodás hatálybalépésének napjától kell számítani.
+
+(2) A jelen cikk (1) bekezdésében említett személy által választott jogok a nyilatkozat megtételét követő hónap első napján állnak be.
+
+III. RÉSZ
+
+A TERMÉSZETBENI ELLÁTÁSOKRA VONATKOZÓ RENDELKEZÉSEK
+
+*8. cikk*
+
+*Természetbeni ellátások nyújtása*
+
+(1) *a)* Az Egyezmény 12–15. cikkében, valamint a 25. cikk (1) bekezdésében megjelölt természetbeni ellátások igénybevétele esetén a természetbeni ellátásokra való jogosultságot az illetékes teherviselő által kiállított igazolással (formanyomtatvánnyal) kell igazolni.
+
+*b)* Amennyiben az ellátás nyújtásakor nem tudták bemutatni a nyomtatványt, a kérelmező szolgáltató vagy a tartózkodási hely szerinti teherviselő az illetékes teherviselőhöz fordul az igazolás (formanyomtatvány) utólagos beszerzése érdekében. Amennyiben a Magyar Köztársaság területén az Egyezmény 12. cikk (1) bekezdése szerinti ellátást nyújtottak, Montenegró illetékes teherviselője részére eljutatott, az igazolás (formanyomtatvány) utólagos kiállítása iránti kérelemhez a megfelelő orvosi jelentést is csatolni kell.
+
+*c)* A kiállított igazolás (formanyomtatvány) a rajta feltüntetett érvényességi idő utolsó napjáig, vagy addig érvényes, amíg a lakóhely szerint illetékes teherviselő nem kapja meg az érvényesség megszűnéséről szóló hivatalos írásbeli értesítést a megfelelő igazoláson (formanyomtatványon).
+
+(2) Az a személy, aki az Egyezmény 12. cikk (3) bekezdésében megjelölt természetbeni ellátást vesz igénybe a másik Szerződő Fél területén, köteles egy olyan igazolást (formanyomtatványt) bemutatni, amely tanúsítja, hogy az illetékes teherviselő engedélyezte a számára az egészségi állapotának megfelelő gyógykezelés másik Szerződő Fél területén történő igénybevételét. A magyar illetékes teherviselő által kiállított igazolást (formanyomtatványt) a személy köteles bemutatni Montenegróban a tartózkodási helye szerinti egészségbiztosítási teherviselő részére. Ez az igazolás (formanyomtatvány) tartalmazza azt a maximális időtartamot, ameddig a természetbeni ellátások nyújthatók.
+
+(3) Az a személy, aki az Egyezmény 13–15. cikkében megjelölt természetbeni ellátásokban akar részesülni, köteles magát, valamint családtagjait is bejelenteni a lakóhelye szerinti illetékes teherviselőnél, bemutatva az illetékes teherviselő által kiállított igazolást (formanyomtatványt), amellyel tanúsítja, hogy e természetbeni ellátásokra jogosult mind saját maga, mind pedig családjának tagjai.
+
+A természetbeni ellátásra való igényjogosultságról szóló igazolás (formanyomtatvány) egy példányát az illetékes teherviselő megküldi a lakóhely szerinti teherviselőnek.
+
+Az Egyezmény 15. cikk (3) bekezdésében említett nyugdíjas számára a természetbeni ellátásra való igényjogosultság igazolása céljából a lakóhely szerint illetékes teherviselő az e cikk (1) bekezdésében említett igazolás (formanyomtatvány) másolatát az igénybevevő számára megküldi.
+
+A lakóhely szerinti teherviselő tájékoztatja az illetékes teherviselőt az általa elvégzett összes nyilvántartásba vételről, illetve minden olyan tényről, amely a jogosultság érvényesítéséhez szükséges.
+
+*9. cikk*
+
+Az ellátások megtérítése az előírt eljárás\
+be nem tartása esetén
+
+(1) Az Egyezmény 12–16. cikkében említett személy részére, aki a természetbeni egészségügyi ellátást nem a jelen Megállapodás 8. cikkében meghatározott módon vette igénybe, a keletkezett költségeket az illetékes teherviselő téríti meg a rá vonatkozó jogszabályok szerint.
+
+(2) A jelen cikk (1) bekezdésében említett ellátást nyújtó teherviselő az illetékes teherviselő részére, annak kérésére a szükséges dokumentációt köteles megküldeni.
+
+*10. cikk*
+
+*Keresőképtelenségre vonatkozó tájékoztatás*
+
+A Szerződő Fél illetékes teherviselői és teherviselői a megfelelő igazolások (formanyomtatványok) megküldésével kölcsönösen tájékoztatják egymást az Egyezmény és a jelen Megállapodás alkalmazása során bekövetkező keresőképtelenségi esetekről.
+
+*11. cikk*
+
+A természetbeni ellátások költségeinek\
+visszatérítése
+
+(1) Az Egyezmény 12–16. cikkeiben említett személyek részére nyújtott ellátások költségeinek megtérítése iránti igényt minden egyes negyedévet követően, de legkésőbb 3 éven belül kell megküldeni.
+
+(2) A nem vitatott költségeket a kérelem kézhezvételétől számított 6 hónapon belül kell megtéríteni.
+
+(3) A kifizetés euróban történik, az elszámolási igazolás kiküldésének napján érvényes hivatalos devizaárfolyamon átváltott összeg átutalásával.
+
+*12. cikk*
+
+*Nagyobb értékű ellátások engedélyezése*
+
+Az Egyezmény 16. cikkének értelmében ellátásnak minősülnek:
+
+*a)* végtagprotézis, mellprotézis és protézistartó melltartó, illetve fürdőruha, ortopéd segédeszköz és bot, beleértve a szövetborítású ortopéd fűzők, azok kiegészítő részeit, tartozékait és szerszámait,
+
+*b)* a méretre készült ortopéd cipő, adott esetben a hozzá tartozó normál cipővel,
+
+*c)* az állkapocs-implantátum és arcplasztika, a paróka,
+
+*d)* a műszem, kontaktlencse, nagyító és távcső szemüvegek és távcső szemüveg,
+
+*e)* a hallókészülékek, nevezetesen az akusztikai és fonetikai készülékek, cohleáris implantátum, beszédprocesszor,
+
+*f)* a fogpótlás (beépített és kivehető), a szájpadzáró protézis,
+
+*g)* a rokkantkocsi (kézi és motoros hajtású), kerekesszék, valamint egyéb, mechanikai mozgássegítő készülék és tartozékaik, vakvezető kutya,
+
+*h)* beszélő számítógép,
+
+*i)* CPAP és BiPAP készülékek,
+
+*j)* oxigén koncentrátor,
+
+*k)* inzulin pumpa,
+
+*l)* az *a)–k)* pontban felsorolt eszközök felújítása,
+
+*m)* a szanatóriumokban, üdülőkben vagy gyógyintézetekben való orvosi kezelés és kúrák,
+
+*n)* a funkcionális képességek visszanyerésére szolgáló intézkedések,
+
+*o)* a támogatások azon költségek részbeni megtérítése céljából, amelyek az *a)–n)*-ig terjedő ellátásokból adódtak,
+
+*p)* gyógyászati segédeszközök, orvostechnikai eszközök és egyéb eszközök, amelyeknek értéke meghaladja az ötszáz eurót.
+
+IV. RÉSZ
+
+A PÉNZBELI ELLÁTÁSOKRA VONATKOZÓ RENDELKEZÉSEK
+
+*13. cikk*
+
+A pénzbeli ellátások iránti kérelmek benyújtása\
+és feldolgozása
+
+(1) Azon Szerződő Fél teherviselője, amelynél az ellátási kérelmet benyújtották, a kérelmezőtől a másik Szerződő Fél illetékes teherviselője számára a kérelem feldolgozásához szükséges rendelkezésre álló dokumentáció, különösen pedig a foglalkoztatás, illetve tevékenységvégzés idejére, jellegére és helyére, valamint a munkáltatóra vonatkozó adatok becsatolását kéri.
+
+(2) Az illetékes teherviselők kötelesek tájékoztatni egymást minden ellátás iránti kérelemről és a jogosultság érvényesítése, valamint az ellátás összegének megállapítása szempontjából lényeges valamennyi tényállásról, miközben meghatározott kétnyelvű igazolásokon (formanyomtatványokon) szereplő adatok megerősítése helyettesíti az eredeti dokumentáció megküldését.
+
+(3) Az illetékes teherviselők továbbá kölcsönösen megküldik egymásnak a másik Szerződő Félnél, illetve esetleg harmadik országban történt foglalkoztatások, illetve végzett tevékenységek áttekintését, megfelelő eredeti dokumentáció, illetve hitelesített fénymásolat – ideértve a munkakönyvet is – kíséretében.
+
+(4) Az illetékes teherviselő, amelynél az ellátás iránti kérelmet benyújtották, a másik Szerződő Fél teherviselője részére igazolja az általa alkalmazott jogszabályok szerint beszámított biztosítási időket.
+
+(5) Az illetékes teherviselők a meghatározott igazolásokon (formanyomtatványon) tájékoztatják egymást az ellátási jogosultság megállapítására irányuló eljárás befejezéséről.
+
+(6) Munkanélküliség esetén járó pénzbeli ellátásokkal kapcsolatban a jelen cikk (1), (3), (4) és (5) bekezdését kell megfelelően alkalmazni.
+
+*14. cikk*
+
+*A pénzbeli ellátások kifizetése*
+
+(1) A Szerződő Fél illetékes teherviselői az Egyezményen alapuló pénzbeli ellátások kifizetését közvetlenül a jogosult részére teljesítik a saját jogszabályaik szerint.
+
+(2) Az alkalmazandó jogszabályokkal összhangban az ellátásban részesülő személy az illetékes teherviselő felhívására életben létének tényét az e célra megállapított igazoláson (formanyomtatványon) köteles igazolni.
+
+V. RÉSZ
+
+EGYÉB RENDELKEZÉSEK
+
+*15. cikk*
+
+*Adatok és információk cseréje*
+
+(1) A Szerződő Felek összekötő szervei vagy illetékes teherviselői évente kicserélik az Egyezmény értelmében teljesített kifizetésekre vonatkozó kimutatásaikat. E kimutatásoknak tartalmazniuk kell az ellátásban részesülők létszámára és a kifizetett ellátások összesített összegére vonatkozó adatokat ellátástípusok szerinti bontásban.
+
+(2) A Szerződő Felek illetékes teherviselői kölcsönösen és haladéktalanul tájékoztatják egymást valamennyi, az ellátással kapcsolatos fontos tényről, amennyiben mindkét Szerződő Fél jogszabályai szerint ellátásban részesül, ez különösen az alábbi tényállásokra vonatkozik, amennyiben azok rendelkezésre állnak:
+
+*a)* valamely ellátás megállapítása, felfüggesztése vagy megszüntetése,
+
+*b)* új biztosítási idők igazolása,
+
+*c)* egy adott foglalkoztatás vagy önálló tevékenység megkezdése vagy folytatása,
+
+*d)* özvegy újbóli házasságkötése,
+
+*e)* az ellátásban részesülő halála,
+
+*f)* a tanulói, hallgatói jogviszony megszűnése,
+
+*g)* lakóhely, tartózkodási hely változása,
+
+*h)* más állampolgárság felvétele.
+
+*16. cikk*
+
+*Igazolások (formanyomtatványok) és eljárások*
+
+(1) A Szerződő Felek összekötő szervei megállapodnak az Egyezmény alkalmazásához szükséges igazolásokról (formanyomtatványokról) és eljárásokról.
+
+(2) Amennyiben a biztosított a kérelmet a másik Szerződő Fél teherviselőjéhez közvetlenül nyújtja be, ez a teherviselő a kérelmet a másik Szerződő Fél teherviselőjéhez továbbítja az eljárás Egyezménnyel összhangban történő lefolytatása érdekében.
+
+*17. cikk*
+
+*Hatálybalépés*
+
+A jelen Megállapodás az Egyezménnyel egyidejűleg, az alkalmazandó jogszabályok szerint lép hatályba.
+
+Készült Budapesten, 2008. május 20. napján, a Szerződő Felek hivatalos nyelvén, két eredeti példányban. Mindegyik szöveg egyformán hiteles.
+
+A Magyar Köztársaság\
+részéről
+
+Montenegró\
+részéről”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a 17. cikkben meghatározott időpontban lép hatályba.[^3]
+
+(3) Az Igazgatási Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 7/2009. (I. 10.) KüM határozat alapján a hatálybalépés időpontja 2009. április 1.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 17. cikkében meghatározott időpontban lép hatályba. A 7/2009. (I. 10.) KüM határozat alapján a hatálybalépés időpontja 2009. április 1.
+[^3]: A 7/2009. (I. 10.) KüM határozat alapján a hatálybalépés időpontja 2009. április 1.
+[^4]: Lásd a 7/2009. (I. 10.) KüM határozatot.

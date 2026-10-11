@@ -1,0 +1,148 @@
+---
+title: "41/2004. (III. 12.) Korm. rendelet az olimpiai járadékról"
+identifier: "41/2004. (III. 12.) Korm. rendelet"
+njt_id: "2004-41-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/41"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-03-12
+in_force_from: 2009-12-31
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-41-20-22"
+retrieved: 2026-10-12
+---
+
+# 41/2004. (III. 12.) Korm. rendelet az olimpiai járadékról
+
+A Kormány a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 79. §-a (1) bekezdésének e) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) E rendelet hatálya a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 59. §-ában meghatározott olimpiai, paralimpiai és Siketlimpián, Sakkolimpián érmes helyezést elért személyre (a továbbiakban: érmes), annak özvegyére és edzőjére terjed ki.
+
+(2) E rendelet rendelkezései nem érintik az Stv. alapján olimpiai, paralimpiai, illetve Siketlimpia-, Sakkolimpia-járadékra (a továbbiakban: járadék) jogosult érmesnek az egyéni, illetve csapatverseny számban szerzett világbajnoki címe alapján – az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíj-kiegészítések megszüntetéséről szóló 1991. évi XII. törvény szerint – járó pótléka folyósítását.
+
+## 2. §[^2]
+
+(1) Az Stv. 59. § (1) bekezdés a) és b) pontja, valamint 61. § (12) bekezdés b) pontja szerinti sporteseményre (a továbbiakban: sportesemény) sportolót nevező sportszövetség vagy sportköztestület (a továbbiakban együtt: sportolót nevező szervezet) a sportesemény hivatalos időszakát legalább harminc nappal megelőzően
+
+a) tájékoztatja a sportpolitikáért felelős minisztert (a továbbiakban: miniszter) a sportesemény hivatalos megnevezéséről és időpontjáról, a sporteseményre nevezett sportolókról, valamint
+
+b) megküldi a felkészítésben közreműködő edző, a nevelőedző és a szövetségi kapitány megjelölésére vonatkozó, az Stv. 59. § (5) bekezdés e) pontja szerinti sportolói nyilatkozatokat.
+
+(2)[^3] A sportesemény hivatalos időszakának zárónapját követő 30 napon belül a sportolót nevező szervezet tájékoztatja a minisztert
+
+a) a járadékra jogosító helyezést elérő sportolókról a sportoló nevének, születési idejének, lakó- vagy tartózkodási helyének,
+
+b) – a sportág és a versenyszám megjelölésével – a járadékra jogosító helyezés adatainak, valamint
+
+c) a helyezés Stv. 61. § (12) bekezdés c) pontjában foglalt feltételnek való megfelelőség igazolásának – a járadékra jogosító eredményeket tartalmazó hivatalos eredményösszesítő, valamint az ezek alátámasztásául szolgáló hivatalos versenyjegyzőkönyvek –
+
+megküldésével.
+
+(3) A sportolót nevező szervezet a miniszter részére az (1) és (2) bekezdés szerinti személyes adatokat az érintett hozzájárulásával továbbíthatja.
+
+## 4. §[^5]
+
+A miniszter az Stv. 61. § (1a) bekezdésében meghatározott adatok nyilvántartását a sportolót nevező szervezet 2. § (2) bekezdése szerinti tájékoztatása, igazolása, valamint a hivatalbóli hatósági eljárása során az érintett és a sportolót nevező szervezet által tett nyilatkozat alapján vezeti.
+
+## 5. §[^6]
+
+Az érmes, az edző, az özvegy az Stv. 61. § (1a) bekezdése szerint nyilvántartásba bejegyzett adatai változását 8 napon belül bejelenti a miniszternek. Ha ennek elmulasztása miatt nem állapítható meg a járadékra való jogosultság vagy nem folyósítható a járadék, az önhibának minősül.
+
+## 6. §
+
+(1)[^7] A járadék folyósítása iránti kérelemre vonatkozó nyomtatványt a minisztertől lehet igényelni, vagy a hatóság honlapjáról lehet letölteni.
+
+(2)[^8] A hiánytalanul kitöltött nyomtatványt a miniszter nyilvántartásba veszi.
+
+(3)[^9]
+
+(4)[^10] A hibásan vagy hiányosan benyújtott kérelem esetén a miniszter a kérelmezőt két alkalommal hiánypótlásra hívhatja fel.
+
+(5)[^11] A szocialista országok versenyzői számára 1984-ben megrendezett „A” kategóriás nemzetközi versenyek esetében a járadékra való jogosultság megállapításához a miniszter megkeresésére a szövetség igazolja, hogy a kérelemben megjelölt verseny „A” kategóriás nemzetközi verseny volt-e.
+
+## 7. §
+
+(1)[^12] Ha az érmes a járadék folyósításának időtartama alatt újabb, járadékra jogosító helyezést ér el, a járadékot új eredményére figyelemmel kell megállapítani (a továbbiakban: új járadék).
+
+(2)[^13] Ha az edzői járadékra jogosult személy az edzői járadék folyósításának időtartama alatt újabb, járadékra jogosító helyezés után válik jogosulttá edzői járadékra, részére a járadékot az új eredményre figyelemmel kell megállapítani (a továbbiakban: új edzői járadék).
+
+(3)[^14]
+
+(4)[^15]
+
+## 8. §
+
+(1)[^16] Ha az érmes 35. életéve betöltése előtt hal meg, az edző járadékra való jogosultsága – az Stv. 59. § (4) bekezdésében meghatározott kivétellel – az érmes születési időpontjától számított 35. év elteltét követő hónap első napján nyílik meg.
+
+(2) Az érmes járadékra való jogosultságát nem érinti az érmes özvegyi, edzői járadékra saját jogán történő jogosulttá válása.
+
+(3) Az özvegyi járadékra való jogosultságot nem érinti az özvegy újabb házasságkötése vagy a járadékra, edzői járadékra saját jogán történő jogosulttá válása, valamint az sem, ha az érmes – a külön jogszabályban meghatározottak szerint – a ,,Nemzet Sportolója'' Címre válik jogosulttá.
+
+(4) Az edzői járadékra való jogosultságot nem érinti az edző járadékra, özvegyi járadékra saját jogán történő jogosulttá válása, valamint az sem, ha az érmes – a külön jogszabályban meghatározottak szerint – a ,,Nemzet Sportolója'' Címre válik jogosulttá.
+
+(5) A több jogcímen való jogosultság esetén összevontan kell a járadékot és az özvegyi, valamint edzői járadékot folyósítani.
+
+(6)[^17] Az özvegy Stv. 60. § (3) bekezdésében foglalt teljes összegű járadékra való jogosultsága az érmes sportolóval közös gyermek halálát követő hónap első napjáig tart, ha a közös gyermek a nagykorúvá válását megelőzően hal meg.
+
+## 9. §
+
+(1)[^18] A miniszter a járadékot, az özvegyi, illetve edzői járadékot a jogosultságot megállapító végleges döntése alapján, külön kérelem nélkül, havonta, minden hónap 20. napjáig folyósítja.
+
+(2)[^19] A járadék folyósítása – az érmes, illetve az özvegy vagy az edző választása szerint – átutalással vagy fizetési számláról történő készpénzkifizetés kézbesítése útján történik.
+
+(3)[^20] A járadék folyósítását az Stv.-ben meghatározott jogosultsági feltétel megszűnését követő hónap első napjától a miniszter megszünteti, amelyhez – a jogosult elhalálozása esetén – szükség szerint intézkedik a halotti anyakönyvi kivonat másolatának beszerzése iránt.
+
+## 10. §[^21]
+
+A miniszter a járadékot a tárgyévben a bérből és fizetésből élők előző évi országos szintű bruttó nominál átlagkeresetének a Központi Statisztikai Hivatal általi közzétételéig (a továbbiakban: átmeneti időszak) a tárgyévet megelőző év adatai alapján havonta, az átmeneti időszakra eső esetleges különbözetet pedig a közzétételt követő második hónapban egy összegben folyósítja.
+
+## 10/A. §[^22]
+
+Az elhunyt, járadékra jogosult érmest vagy edzői járadékra jogosult személyt – különösen a sportéletben betöltött meghatározó szerepére vagy elhalálozásának körülményeire tekintettel – a miniszter az általa vezetett minisztérium saját halottjának nyilváníthatja, és hozzájárulhat a temetési költségeihez.
+
+## 11. §
+
+(1) Ez a rendelet 2004. március 13-án lép hatályba.
+
+(2)[^23] Az Stv. 78/M. §-a szerinti kérelmet a jogosult természetes személyazonosító adatai és a járadékra jogosító valamennyi eredmény, edzői és özvegyi járadék esetén továbbá az eredményt elért érmes megjelölésével kell benyújtani. A kérelemben megjelölt eredményt a sportolót nevező szervezet igazolja.
+
+(3)[^24]
+
+## 1. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^25]
+
+## 2. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^26]
+
+## 3. számú melléklet a 41/2004. (III. 12.) Korm. rendelethez[^27]
+
+---
+
+[^1]: Az 1. § a 475/2016. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: A 2. § a 260/2018. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 151/2024. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. §-t a 182/2009. (IX. 10.) Korm. rendelet 332. §-a hatályon kívül helyezte, újonnan a 260/2018. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^6]: Az 5. § a 260/2018. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^7]: A 6. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 330. § (2) bekezdésével megállapított, a 475/2016. (XII. 27.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^9]: A 6. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 332. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 125. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 331. §-a, a 475/2016. (XII. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdése a 260/2018. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 7. § (2) bekezdése a 260/2018. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: A 7. § (3) bekezdését a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^15]: A 7. § (4) bekezdését a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^16]: A 8. § (1) bekezdése a 260/2018. (XII. 18.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^17]: A 8. § (6) bekezdését a 151/2024. (VI. 28.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 9. § (1) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 8. § d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 126. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^19]: A 9. § (2) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^20]: A 9. § (3) bekezdése a 151/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 10. § a 475/2016. (XII. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^22]: A 10/A. §-t a 177/2025. (VI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^23]: A 11. § (2) bekezdése a 260/2018. (XII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 740. pontja hatályon kívül helyezte.
+[^25]: Az 1. mellékletet a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^26]: A 2. mellékletet a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^27]: A 3. mellékletet a 260/2018. (XII. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.

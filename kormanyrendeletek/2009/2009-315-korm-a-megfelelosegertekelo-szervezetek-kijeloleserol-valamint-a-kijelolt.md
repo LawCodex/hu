@@ -1,0 +1,305 @@
+---
+title: "315/2009. (XII. 28.) Korm. rendelet a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól"
+identifier: "315/2009. (XII. 28.) Korm. rendelet"
+njt_id: "2009-315-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/315"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-28
+in_force_from: 2010-01-01
+last_amended: 2023-05-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-315-20-22"
+retrieved: 2026-10-12
+---
+
+# 315/2009. (XII. 28.) Korm. rendelet a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól
+
+A Kormány a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (1) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *harmonizált szabvány:* a 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 9. pontjában meghatározott szabvány, amelynek hivatkozását az Európai Unió Hivatalos Lapjában közzéteszik,
+
+b) *honosított harmonizált szabvány:* a nemzeti szabványként közzétett harmonizált szabvány.
+
+## A kijelölt szervezetekre vonatkozó követelmények
+
+### 2. §
+
+(1) A kijelölt szervezetnek a megfelelőségértékelési tevékenységek végzésére minőségirányítási kézikönyvvel, valamint olyan belső szabályzattal kell rendelkeznie, amely tartalmazza a (2) bekezdésben, valamint a 6. § (2) bekezdésében előírtakat (a továbbiakban: működési és eljárási szabályzat).
+
+(2) A működési és eljárási szabályzatban rendelkezni kell arra vonatkozóan, hogy a kijelölt szervezet miként biztosítja
+
+a) azt, hogy a megfelelőségértékelési tevékenységet végző munkavállalója és a kijelölt szervezettel munkavégzésre irányuló egyéb jogviszonyban álló, megfelelőségértékelési tevékenységet végző személy (a továbbiakban együtt: a megfelelőségértékelési tevékenységet végző személyzet) rendelkezzen a kijelölt megfelelőségértékelési területen
+
+aa) a termékek forgalmazásának követelményeit meghatározó jogszabály, illetve az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa és annak végrehajtási intézkedései rendelkezéseinek, valamint az irányadó szabványok ismeretével, továbbá
+
+ab) az értékelés eredménye, a nyilvántartások és – ha a szervezet megfelelőségértékelési tanúsítást végez – a tanúsítványok elkészítéséhez szükséges ismeretekkel;
+
+b) a megfelelőségértékelési eljárás átláthatóságát és reprodukálhatóságát;
+
+c) a megfelelőségértékelésnek az esetleges egyéb tevékenységektől való elkülönítését;
+
+d) – a termék forgalmazására vonatkozóan jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában meghatározott követelmények keretei között – a megfelelőségértékelési tevékenységet megrendelő gazdasági szereplő méretének, tevékenységi ágazatának, szerkezetének, az alkalmazott gyártástechnológia összetettsége fokának és a gyártási folyamat egyedi, tömegtermelési vagy sorozat-jellegének megfelelő figyelembevételét;
+
+e) a kijelölt megfelelőségértékelési területen a szabványosítási tevékenységben, továbbá az Európai Unió kötelező jogi aktusában létrehozott, a bejelentett szervezeteket koordináló csoport tevékenységében való részvételt, vagy a megfelelőségértékelési tevékenységet végző személyzete megfelelő tájékoztatását az említett szabványosítási tevékenységről, illetve koordináló csoportban folyó munkáról; és
+
+f) az *e)* pont szerinti koordináló csoportban hozott adminisztratív döntések és dokumentumok alkalmazását.
+
+(3) A kijelölt szervezetnek minden, a kijelölt megfelelőségértékelési területébe tartozó termék és megfelelőségértékelési eljárás tekintetében biztosítania kell a megfelelőségértékeléshez kapcsolódó műszaki és adminisztrációs feladatok megfelelő ellátásához szükséges felszereltséget.
+
+(4) A megfelelőségértékelési tevékenységet végző személyzetnek a kijelölt megfelelőségértékelési területen rendelkeznie kell az adott megfelelőségértékelési tevékenység elvégzéséhez szükséges szakmai képzettséggel és szakmai gyakorlattal, és a megfelelőségértékelési tevékenységet a tevékenységére irányadó szakmai szabályok megtartásával, legjobb tudása szerint köteles végezni.
+
+(5) A megfelelőségértékelési tevékenységet végző személyzetet a tevékenysége során tudomására jutott tényekre és adatokra nézve titoktartási kötelezettség terheli, azokról csak a megfelelőségértékeléssel kapcsolatban eljáró hatóság, továbbá törvényben meghatározott szerv vagy személy részére nyújthat tájékoztatást.
+
+## A kijelölt szervezetek tevékenységére vonatkozó rendelkezések
+
+### 3. §
+
+A kijelölt szervezet a kijelölt megfelelőségértékelési területen, a termékre vonatkozóan megfelelőségértékelési tevékenységet előíró jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában meghatározott előírásoknak megfelelően végzi a megfelelőségértékelési tevékenységeket.
+
+### 4. §
+
+(1) A megfelelőségértékelési tevékenység elvégzésére irányuló szerződést írásban kell megkötni.
+
+(2) A megfelelőségértékelési tanúsítás elvégzésére irányuló szerződés időtartamát úgy kell meghatározni, hogy az nem lehet rövidebb, mint a megfelelőségértékelési tanúsítás alapján kiadandó tanúsítvány hatálya.
+
+(3) A megfelelőségértékelési tevékenység elvégzésére irányuló szerződésnek tartalmaznia kell egy olyan kikötést, amelynek értelmében a megfelelőségértékelő szervezet a szerződés időtartama alatt jogosult a megfelelőségértékelési tevékenységet megrendelő gazdasági szereplőnél a szerződés tárgyát képező megfelelőségértékelési tevékenységhez szükséges vizsgálatokat és ellenőrzéseket elvégezni.
+
+(3a)[^1] A polgári célú pirotechnikai eszközök tekintetében a megfelelőségértékelési tevékenység elvégzésére irányuló szerződés és az e tevékenységre irányadó általános szerződési feltételek nem tartalmazhatnak olyan rendelkezést, amely korlátozza vagy ellehetetleníti a megbízó gazdasági szereplő azon jogát, hogy a szerződés szerinti eljárás szabályszerűségét és annak eredményét vitassa.
+
+(4) A (3) bekezdésben és a 6. § (1) és (2) bekezdésében foglaltak a megfelelőségértékelési tanúsítás elvégzésére irányuló szerződésnek akkor is részei, ha a felek eltérően rendelkeznek.
+
+(5)[^2] Ha az (1) bekezdés szerinti szerződés nem vagy nem megfelelően tartalmazza a (2) bekezdés, illetve a polgári célú pirotechnikai eszközök tekintetében a megfelelőségértékelési tevékenység elvégzésére irányuló szerződés esetén a (3a) bekezdésben meghatározott kötelező tartalmi elemeket, a megbízó gazdasági szereplő a Polgári Törvénykönyvnek és a polgári perrendtartásról szóló törvény szabályainak megfelelően érvényesítheti jogait bíróság előtt.
+
+### 5. §
+
+(1) A kijelölt szervezet a megfelelőségértékelési tevékenységek végzéséhez csak olyan közreműködőt vehet igénybe, aki megfelel a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.) 3. § (2) bekezdésében meghatározott követelményeknek. A közreműködő igénybevételéről és az általa végzendő feladatokról a kijelölt szervezet haladéktalanul tájékoztatni köteles a kijelölő hatóságot.
+
+(2) Közreműködő igénybevételéhez a megrendelő gazdasági szereplő beleegyezése szükséges.
+
+(3) A megfelelőségértékelési vizsgálati és ellenőrzési eredmények kiértékelésére és megfelelőségértékelési tanúsításra közreműködő nem vehető igénybe.
+
+### 6. §
+
+(1) Ha a kijelölt szervezet megállapítja, hogy a termék nem felel meg a termékre vonatkozóan jogszabályban vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában, továbbá a 765/2008/EK rendelet 2. cikk 8. pontjában meghatározott egyéb műszaki előírásokban meghatározott azon követelményeknek, amelyekre nézve a gazdasági szereplő a megfelelőségértékelési tanúsítást kérte, a kijelölt szervezet addig nem állít ki megfelelőségi tanúsítványt, amíg a gazdasági szereplő nem teszi meg a termék követelményeknek való megfelelővé tételéhez szükséges intézkedéseket.
+
+(2) Ha a kijelölt szervezet a megfelelőségi tanúsítvány kiadását követően állapítja meg, hogy a tanúsított termék már nem elégíti ki az (1) bekezdésben hivatkozott követelményeket, erről a termék sajátosságaihoz igazodó határidő közlésével értesíti a gazdasági szereplőt. Ha a gazdasági szereplő a megadott határidőn belül nem teszi meg a termék követelményeknek való megfelelővé tételéhez szükséges intézkedéseket, vagy a termék hibája nem orvosolható, a kijelölt szervezet minőségirányítási kézikönyvében és a működési és eljárási szabályzatában meghatározottak szerint a tanúsítvány hatályát korlátozza, felfüggeszti vagy a tanúsítványt visszavonja.
+
+(3) A minőségirányítási kézikönyvnek, valamint a működési és eljárási szabályzatnak a (2) bekezdés szerinti rendelkezéseit a gazdasági szereplő számára a megfelelőségértékelési tanúsítás elvégzésére irányuló szerződés megkötése előtt megismerhetővé kell tenni. Annak bizonyítása, hogy e kötelezettségnek eleget tett, a kijelölt szervezetet terheli.
+
+### 7. §
+
+A kijelölt szervezet a megfelelőségértékelési tevékenysége során kiadott dokumentumokat – így különösen a vizsgálati, ellenőrzési jegyzőkönyvet, tanúsítványt – tíz évig köteles megőrizni.
+
+## A kijelölt szervezetek tájékoztatási kötelezettsége
+
+### 8. §
+
+(1)[^3] A kijelölt szervezet nyolc napon belül tájékoztatja a kijelölő hatóságot
+
+a) a tanúsítvány kiállításának megtagadásáról, a tanúsítvány hatályának korlátozásáról vagy felfüggesztéséről és a tanúsítvány visszavonásáról,
+
+b) a kijelölt megfelelőségértékelési területet vagy a kijelölés feltételeit érintő változásokról, továbbá
+
+c) a piacfelügyeleti hatóságoktól érkező, a megfelelőségértékelésre vonatkozó tájékoztatáskérésről.
+
+(2) Az (1) bekezdés a) pontjában írtakról a kijelölt szervezet tájékoztatja a hatáskörrel rendelkező piacfelügyeleti hatóságot is.
+
+(3) A kijelölő hatóság hatósági ellenőrzése keretében adatszolgáltatást, tájékoztatást kérhet a kijelölt szervezetnek a kijelölt megfelelőségértékelési területen végzett megfelelőségértékeléséről, továbbá a megfelelőségértékeléshez kapcsolódó bármely más általa végzett tevékenységről, így különösen a határon átnyúló tevékenységekről.
+
+(4) Ha a kijelölt szervezet a kijelölt megfelelőségértékelési területen a termék forgalmazására vonatkozó rendelkezések megsértését tapasztalja, erről megfelelően tájékoztatja a kijelölt megfelelőségértékelési területen működő más megfelelőségértékelő szervezeteket, ideértve az Európai Gazdasági Térségről szóló megállapodásban részes többi állambeli (a továbbiakban: EGT-államok) bejelentett szervezeteket is.
+
+(5) A kijelölt szervezet a kijelölt megfelelőségértékelési területen működő más megfelelőségértékelő szervezetek – ideértve az EGT-állambeli bejelentett szervezeteket – kérésére tájékoztatást ad a pozitív megfelelőségértékelési eredményekről is.
+
+## A kijelölő hatóság
+
+### 9. §[^4]
+
+A megfelelőségértékelési tevékenységeket engedélyező kijelölő hatóság feladatait a törvényben vagy kormányrendeletben kijelölt hatóság, ennek hiányában a termékre vonatkozó forgalmazási követelmény szabályozása tekintetében feladat- és hatáskörrel rendelkező miniszter látja el.
+
+### 10. §
+
+A kijelölésre vonatkozó döntés előkészítésében – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – nem vehet részt az a személy, aki vagy akinek – a Polgári Törvénykönyvben meghatározott – közeli hozzátartozója olyan tevékenységet végez, mint amilyet a kérelmező szervezet végez a kérelmezett megfelelőségértékelési területen. A kizárásra egyebekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+
+## A kijelölés iránti kérelem
+
+### 11. §
+
+(1) A kijelölés iránti kérelemben meg kell jelölni azt a megfelelőségértékelési tevékenységet, továbbá terméket és megfelelőségi eljárást (modult), amelyre a kérelmező szervezet az engedélyt kéri (a továbbiakban: kérelmezett megfelelőségértékelési terület). Kijelölés iránti kérelem a megfelelőségértékelési tevékenységek közül bármelyikre vagy többre együttesen, továbbá több megfelelőségértékelési eljárásra és termékre is előterjeszthető.
+
+(2) Kizárólag megfelelőségértékelési vizsgálatra vagy megfelelőségértékelési ellenőrzésre engedély akkor kérhető, ha a kérelmező szervezet igazolja, hogy megfelelőségértékelési tanúsításra kijelölt szervezettel olyan szerződést kötött, amely alapján az említett tanúsításra kijelölt szervezet a tanúsítást a kérelmező szervezet vizsgálati, illetve ellenőrzési eredményei felhasználásával végzi. Nem kell alkalmazni ezt a rendelkezést, ha a kérelmezett megfelelőségértékelési tevékenység használatban lévő termék jogszabályban előírt időszakos vagy eseti megfelelőségértékelési ellenőrzése.
+
+### 12. §
+
+(1)[^5] Ha az Msztv. 6. § (3) bekezdés a) pontja szerinti esetben a kérelmező szervezet kérelméhez az akkreditáló szervnek az akkreditált státusz odaítéléséről szóló határozatát nem csatolja, – a kérelmező adatközlése alapján – a kijelölő hatóság adatszolgáltatás iránti kérelemmel fordul az akkreditáló szervhez.
+
+(2) Az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben a kijelölés iránti kérelemhez a következő okiratokat kell csatolni:
+
+a) a kérelmezett megfelelőségértékelési területre vonatkozó minőségirányítási kézikönyvet, valamint működési és eljárási szabályzatot,
+
+b) a kérelmező szervezetnek a kérelmezett megfelelőségértékelési területen egyes tevékenységek végzésére való felkészültséget igazoló akkreditált státusz odaítéléséről szóló határozatot, ha van ilyen,
+
+c) ha a kérelmező szervezet védjegyeztetett minőségtanúsító jel használati jogának átruházására jogosult, e jogosultságot igazoló dokumentumokat,
+
+d) a felelősségbiztosítási szerződés másolatát és a biztosító arra vonatkozó nyilatkozatát, hogy a felelősségbiztosítási szerződés érvényes és hatályos.
+
+## A kijelölési eljárás általános szabályai
+
+### 14. §
+
+(1) Ha a kérelmező szervezet igazolja, hogy teljesíti a kérelmezett megfelelőségértékelési területre vonatkozó honosított harmonizált szabványokban rögzített követelményeket vagy azok egy részét, vélelmezni kell, hogy megfelel az Msztv. 3. § (2) bekezdésében meghatározott, a szabvány vagy annak megjelölt részei által lefedett megfelelő követelményeknek.
+
+(2) Ha a kijelölő hatóság megállapítja, hogy az (1) bekezdésben említett honosított harmonizált szabvány nem teljesen felel meg az Msztv. 3. § (2) bekezdésében meghatározott, a szabvány tárgyát jelentő követelményeknek, a 768/2008/EK európai parlamenti és tanácsi határozat I. melléklete R19., illetve R9. cikke szerinti eljárás érdekében erről és a meg nem felelés indokolásáról értesíti az iparügyekért felelős minisztert, aki az ügyet a 98/34/EK európai parlamenti és tanácsi irányelv 5. cikke alapján létrehozott állandó bizottság elé terjeszti.
+
+### 15. §
+
+Ha a kijelölő hatóság megállapítja, hogy a kérelmező szervezet eleget tesz az Msztv. 3. § (2) bekezdésében meghatározott követelményeknek, és
+
+a) a kérelmezett megfelelőségértékelési terület nem tartozik harmonizációs uniós jogi aktus hatálya alá, a kérelmező szervezetet a kérelmezett megfelelőségértékelési területen megfelelőségértékelésre kijelöli,
+
+b)[^7] a kérelmezett megfelelőségértékelési terület harmonizációs uniós jogi aktus hatálya alá tartozik – az Európai Bizottság (a továbbiakban: Bizottság) által működtetett elektronikus rendszeren keresztül – megkeresi a Bizottságot és az EGT-államokat a kérelmező szervezetnek bejelentett szervezetté válása és a Bizottság által vezetett nyilvántartásban ekként való közzététele iránt.
+
+### 16. §[^8]
+
+Ha a kijelölő hatóság az Msztv. 6. § (3) bekezdés a) pontja szerinti eljárásban azt állapítja meg, hogy a kijelölt szervezet az akkreditált státusza ellenére nem felel meg az Msztv. 3. § (2) bekezdésében meghatározott követelményeknek, az engedély iránti kérelmet elutasító határozatát közli az akkreditált státuszt odaítélő akkreditáló szervvel.
+
+### 17. §
+
+(1) A 15. § b) pontja szerinti megkeresésnek tartalmaznia kell
+
+a) a kérelmező szervezet nevét, székhelyét, elérhetőségét (telefon, telefax, elektronikus levélcím, honlapcím, kapcsolattartó személy neve és elérhetősége),
+
+b) hivatkozást az Európai Unió az érintett megfelelőségértékelési tevékenység bejelentett szervezetekkel való elvégeztetését előíró jogi aktusára,
+
+c) az engedély javasolt hatályát,
+
+d) a kérelmezett megfelelőségértékelési területre tartozó termékek és megfelelőségértékelési eljárások (modulok) megjelölését [a *b)* pont szerinti jogi aktus érintett rendelkezésének hivatkozásával],
+
+e) azt, hogy a kérelmezett megfelelőségértékelési tevékenység végzésére való alkalmasság igazolása milyen szabványok vagy előírások alapján történt,
+
+f)[^9] azt, hogy a felkészültség értékelését a kijelölő hatóság vagy az akkreditáló szerv végezte,
+
+g) a kijelölő hatóság nyilatkozatát arról, hogy a kérelmező szervezet teljesíti a kérelmezett megfelelőségértékelési területre vonatkozóan az Európai Unió *b)* pontban megjelölt jogi aktusaiban meghatározott követelményeket.
+
+(2) A megkereséshez az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben csatolni kell a kérelmező szervezet szakmai felkészültségét igazoló okiratokat.
+
+(3)[^10] Ha a Bizottság és az EGT-államok a kérelmező szervezet bejelentett szervezetté válása ellen
+
+a) az Msztv. 6. § (3) bekezdés a) pontja szerinti eljárás esetében a megkeresést követő két héten belül,
+
+b) az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben a megkeresést követő két hónapon belül
+
+nem emelnek kifogást és a Bizottság a kérelmező szervezetet nyilvántartásba véve az e célra kialakított honlapon bejelentett szervezetként közzéteszi, a kijelölő hatóság határoz a szervezetnek a 15. § b) pontja szerinti, a kijelölő hatóság általi megkeresés időpontjára visszamenőleges hatállyal történő kijelöléséről.
+
+## A kijelölt szervezetek kijelölést követő ellenőrzése
+
+### 18. §
+
+A kijelölt szervezet a kijelölés feltételeiben bekövetkezett változást köteles a kijelölő hatóságnak haladéktalanul írásban bejelenteni.
+
+### 19. §
+
+(1)[^11]
+
+(2)[^12] Az Msztv. 6. § (3) bekezdés a) pontja szerinti kijelölés esetében, a kijelölő hatóság a 20. § (1) bekezdés szerinti döntésének meghozatala során figyelembe veszi az akkreditáló szervtől megkapott felügyeleti vizsgálati, rendkívüli felügyeleti vizsgálati eredményt és az akkreditáló szerv határozatát.
+
+(3) A kijelölő hatóság a Bizottság megkeresésére a Bizottság rendelkezésére bocsátja az olyan bejelentett szervezet bejelentett szervezetté válása kezdeményezésének vagy a szakmai alkalmassága igazolásának alapjául szolgáló összes információt, amelynek tevékenységével kapcsolatban a Bizottság részéről kifogás merült fel.
+
+### 20. §
+
+(1) Ha a kijelölt szervezet nem felel meg az Msztv. 3. § (2) bekezdésében meghatározott követelményeknek, a megfelelőségértékelési tevékenységére vonatkozó rendelkezéseket megsérti vagy kötelezettségeit nem teljesíti, a kijelölő hatóság az eset összes körülményeinek – így különösen a jogsértés súlyának – figyelembevételével és az arányosság követelményének szem előtt tartásával felfüggeszti, vagy részben vagy egészben visszavonja a kijelölt szervezet engedélyét.
+
+(2) A kijelölő hatóság felfüggeszti a kijelölt szervezet engedélyét, ha a kijelölt szervezet
+
+a) megsérti a megfelelőségértékelési tevékenységére vonatkozó rendelkezéseket, azonban a jogsértés súlyossága nem indokolja a kijelölés visszavonását,
+
+b) az Msztv. 6. § (3) bekezdés b) pontja szerinti kijelölési eljárás esetében a hatósági ellenőrzést megelőzően az ellenőrzéshez szükséges dokumentumokat határidőben nem bocsátja a kijelölő hatóság rendelkezésére,
+
+c) ezt maga kéri.
+
+(3) A (2) bekezdés a) és b) pontja szerinti esetben az engedély felfüggesztésének időtartama a jogsértés megszüntetéséhez szükséges idő.
+
+(4) A kijelölő hatóság a kijelölt megfelelőségértékelési terület egészén vagy egy részén visszavonja a kijelölt szervezet engedélyét, ha a kijelölt szervezet
+
+a) nem felel meg többé az Msztv. 3. § (2) bekezdésében meghatározott követelményeknek, vagy a tevékenységét jogszerűen nem tudja tovább folytatni,
+
+b) súlyosan megsérti a megfelelőségértékelési tevékenységére vonatkozó rendelkezéseket,
+
+c) az esedékes hatósági ellenőrzést nem teszi lehetővé vagy akadályozza,
+
+d) engedélyét felfüggesztette, és a kijelölt szervezet felfüggesztés megszüntetése feltételeinek határidőben nem tett eleget,
+
+e) bejelenti a tevékenysége megszüntetését.
+
+(5) A megfelelőségértékelési tevékenység végzésére vonatkozó engedély hatályát veszti:
+
+a) az engedélyben meghatározott idő elteltével,
+
+b) – jogszabály eltérő rendelkezése hiányában – ha a kijelölt megfelelőségértékelési területre vonatkozó jogszabály megváltozása miatt a kijelölt megfelelőségértékelési területre engedély a továbbiakban nem adható,
+
+c) a kijelölt szervezet jogutód nélküli megszűnése esetén,
+
+d) visszavonással.
+
+### 21. §
+
+(1) Ha a megfelelőségértékelési tevékenység végzésére vonatkozó engedély hatályát veszti, a megfelelőségértékelő szervezet köteles
+
+a) saját költségén a megszűnő tevékenységgel kapcsolatos iratanyag megőrzéséről, továbbá
+
+b) a 20. § (5) bekezdés c) és d) pontja szerinti esetben megbízásainak más kijelölt szervezetnek való átadásáról vagy megszüntetéséről gondoskodni és erről a kijelölő hatóságot, valamint a vele szerződéses kapcsolatban álló gazdasági szereplőket megfelelően tájékoztatni.
+
+(2) A 20. § (4) bekezdés e) pontja szerinti esetben a tevékenység megszüntetésére vonatkozó bejelentésben igazolni kell az (1) bekezdésben foglalt követelmények teljesülését.
+
+(3) A 20. § (5) bekezdés c) pontja szerinti esetben az (1) bekezdésben foglalt követelmények teljesülését a végelszámolás, illetve a felszámolási eljárás során kell biztosítani.
+
+(4) Ha a megfelelőségértékelő szervezet nem tesz eleget az (1) bekezdés a) pontja szerinti kötelezettségnek, a megfelelőségértékelő szervezet költségére a kijelölő hatóság rendelkezik az iratanyag megőrzéséről és az érintett gazdasági szereplőknek a megőrzés helyéről való megfelelő tájékoztatásáról.
+
+(5) Nem érinti a kijelölt szervezet által vagy a vizsgálati eredményei alapján kiadott tanúsítványok hatályát, ha az engedély a 20. § (4) bekezdés e) pontján alapuló visszavonással vagy a 20. § (5) bekezdés a)–c) pontja szerinti okból veszti hatályát.
+
+(6) A 20. § (5) bekezdés d) pontja szerinti esetben – kivéve, ha a visszavonásra a 20. § (4) bekezdés e) pontja alapján kerül sor – a kijelölő hatóság a jogszerűtlenség fennállásának ideje alatt végzett megfelelőségértékelési tevékenység eredményének, továbbá az így kiadott tanúsítvány visszavonására kötelezi a kijelölt szervezetet.
+
+### 22. §
+
+A kijelölő hatóság a 17. § (1) bekezdése szerint megadott adatokat érintő bármely későbbi változásról – ideértve az engedély felfüggesztését, részben vagy egészben történő visszavonását és megszűnését is – haladéktalanul értesíti a Bizottságot és az EGT-államokat.
+
+## A Bizottság tájékoztatása
+
+### 23. §
+
+(1) Az iparügyekért felelős miniszter tájékoztatja a Bizottságot az e rendeletben a megfelelőségértékelő szervezetek kijelölésére, bejelentett szervezetté válása kezdeményezésére és a kijelölt szervezetek ellenőrzésére vonatkozóan előírt rendelkezésekről és azok minden módosításáról.
+
+(2) A termékre vonatkozó forgalmazási követelmény szabályozása tekintetében feladatkörrel rendelkező miniszter tájékoztatja a Bizottságot az Msztv. felhatalmazása alapján kiadott miniszteri rendeletben a megfelelőségértékelő szervezetek kijelölésére, bejelentett szervezetté válása kezdeményezésére és a kijelölt szervezetek ellenőrzésére vonatkozó eljárásra vonatkozóan előírt, az adott termékszabályozás sajátosságaival összefüggő további rendelkezésekről és azok minden módosításáról, feltéve, hogy az érintett termékszabályozás harmonizációs uniós jogi aktus hatálya alá tartozik.
+
+## Záró rendelkezések
+
+### 24. §
+
+(1) Ez a rendelet 2010. január 1-jén lép hatályba, rendelkezéseit a hatálybalépése után indult eljárásokban kell alkalmazni.
+
+(2) A rendelet hatálybalépésekor folyamatban lévő eljárásokra – ha az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy az Európai Unió kötelező jogi aktusának végrehajtása céljából jogszabály eltérően nem rendelkezik – az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.
+
+### 26. §
+
+Ez a rendelet – az Msztv.-vel együtt – a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklete R4. fejezetével összhangban álló szabályozást tartalmaz.
+
+---
+
+[^1]: A 4. § (3a) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^2]: A 4. § (5) bekezdését a 100/2015. (IV. 20.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^3]: A 8. § (1) bekezdés nyitó szövegrésze a 289/2010. (XII. 21.) Korm. rendelet 3. § (140) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 9. § a 282/2011. (XII. 21.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^5]: A 12. § (1) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: A 15. § b) pontja a 441/2015. (XII. 28.) Korm. rendelet 127. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 16. § a 425/2015. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdés f) pontja a 425/2015. (XII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^10]: A 17. § (3) bekezdés záró szövegrésze a 150/2023. (IV. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 19. § (1) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^12]: A 19. § (2) bekezdése a 425/2015. (XII. 23.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.

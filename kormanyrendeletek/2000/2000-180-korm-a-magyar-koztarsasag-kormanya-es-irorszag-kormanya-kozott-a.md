@@ -1,0 +1,206 @@
+---
+title: "180/2000. (XI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és Írország Kormánya között a kábítószerek illegális forgalmazása, a pénzmosás, a szervezett bűnözés, az emberkereskedelem, a terrorizmus és más súlyos bűncselekmények elleni harcban történő együttműködésről szóló, Budapesten, 1999. november 3-án aláírt Megállapodás kihirdetéséről"
+identifier: "180/2000. (XI. 8.) Korm. rendelet"
+njt_id: "2000-180-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/180"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-11-08
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-180-20-22"
+retrieved: 2026-10-12
+---
+
+# 180/2000. (XI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és Írország Kormánya között a kábítószerek illegális forgalmazása, a pénzmosás, a szervezett bűnözés, az emberkereskedelem, a terrorizmus és más súlyos bűncselekmények elleni harcban történő együttműködésről szóló, Budapesten, 1999. november 3-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 2000. július 18. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Írország Kormánya között a kábítószerek illegális forgalmazása, a pénzmosás, a szervezett bűnözés, az emberkereskedelem és más súlyos bűncselekmények elleni harcban történő együttműködésről szóló, Budapesten, 1999. november 3-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és Írország Kormánya között a kábítószerek illegális forgalmazása,\
+a pénzmosás, a szervezett bűnözés,\
+az emberkereskedelem, a terrorizmus és más súlyos bűncselekmények elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és Írország Kormánya (a továbbiakban: Felek),
+
+attól az óhajtól vezérelve, hogy hozzájáruljanak kétoldalú kapcsolataik fejlődéséhez,
+
+meggyőződve a súlyos bűncselekmények, különösen az illegális kábítószer-kereskedelem, a pénzmosás, a szervezett bűnözés, az emberkereskedelem és a terrorizmus elleni fellépésben történő együttműködés fontosságáról,
+
+figyelemmel a fenti tárgyakban létrejött azon nemzetközi szerződésekben foglaltakra, amelyeknek a Felek részesei,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Az együttműködés területei*
+
+A jelen Megállapodás az illegális kábítószer-forgalmazásra, a pénzmosásra, a szervezett bűnözésre, az emberkereskedelemre, a terrorizmusra és más súlyos bűncselekményekre terjed ki.
+
+*2. Cikk*
+
+*Illetékes hatóságok*
+
+(1) A jelen Megállapodás végrehajtásában illetékes hatóságok:
+
+*(i)* A Magyar Köztársaság részéről:
+
+– a belügyminiszter,
+
+– az egészségügyi miniszter,
+
+– a pénzügyminiszter,
+
+– az Adó- és Pénzügyi Ellenőrzési Hivatal Bűnügyi Igazgatósága,
+
+– az országos rendőrfőkapitány,
+
+– a vám- és pénzügyőrség országos parancsnoka,
+
+– a határőrség országos parancsnoka.
+
+*(ii)* Írország részéről:
+
+– a külügyminiszter,
+
+– az egészség- és gyermekvédelmi miniszter,
+
+– az igazságügyért, egyenlőségért és a jogrendszer reformjáért felelős miniszter,
+
+– a rendőrségi biztos (An Garda Síochána),
+
+– a bevételi biztos (Revenue Commissioners).
+
+(2) A Felek illetékes hatóságai államaik hatályos jogszabályai, valamint a jelen Megállapodás rendelkezései szerint, közvetlenül együttműködhetnek, illetve meghatározhatják ezen együttműködés pontos módszereit és részletes szabályait.
+
+(3) Az illetékes hatóságok megfelelő és közvetlen érintkezési módot alakítanak ki társhatóságaikkal. A jelen Megállapodás szerinti minden információkérést, illetve egyéb intézkedést közvetlenül az illetékes, érintett társhatósághoz kell intézni.
+
+(4) Eltérő megállapodás hiányában, az illetékes hatóságok közötti kapcsolattartás angol nyelven történik.
+
+(5) A Felek kicserélik a jelen Megállapodás végrehajtásáért felelős illetékes hatóságok kapcsolattartó szerveire vonatkozó adatokat.
+
+*3. Cikk*
+
+*Információcsere*
+
+(1) A jelen Megállapodásban szabályozott információk cseréje a Felek belső jogszabályaival összhangban történik.
+
+(2) A Felek illetékes hatóságai a lehető legszélesebb körben együttműködnek a jelen Megállapodás tárgyát képező bűncselekmények megelőzésére, felderítésére és nyomozására vonatkozó információk cseréjében.
+
+(3) Az információcsere a jelen Cikk értelmében a következőkre terjed ki:
+
+– olyan személyekről és szervezetekről szóló vagy hozzájuk kapcsolható információkra, akik gyanúsíthatók kábítószerrel kapcsolatos bűncselekmény, pénzmosás, szervezett bűnözéssel és emberkereskedelemmel összefüggő bűncselekmény, terrorcselekmény vagy más súlyos bűncselekmény elkövetésével;
+
+– a fenti bűncselekmények elkövetéséről, illetve előkészületéről szóló információkra;
+
+– a fenti bűncselekményekben való részvétellel gyanúsítható személyek vagy szervezetek módszereiről szóló információkra;
+
+– kábítószerek, pszichotrop anyagok és prekurzorok legális forgalmazásának ellenőrzésére hozott intézkedésekről, valamint alkalmazásuk tapasztalatairól szóló információkra.
+
+*4. Cikk*
+
+*Az információ bizalmassága, illetve felhasználása*
+
+(1) A Felek vállalják, hogy
+
+*(i)* a jelen Megállapodás körében átvett minden információt csak a megkeresésben, illetve az átadó Fél által meghatározott célra használják, továbbá, hogy
+
+*(ii)* minden információt bizalmasan kezelnek, kivéve, ha az átadó Fél ez alól felmentést ad.
+
+(2) A jelen Megállapodás keretében átvett információ csak akkor hozható harmadik országok tudomására, ha beszerezték ehhez az átadó Fél írásos hozzájárulását.
+
+(3) A Felek illetékes hatóságai nemzeti jogszabályaikkal összhangban gondoskodnak a jelen Megállapodás értelmében átvett minden információ védelméről.
+
+*5. Cikk*
+
+*Személyes adatok védelme*
+
+A Felek a személyes adatok védelme érdekében vállalják, hogy
+
+*(i)* alkalmazzák az Európa Tanács keretében az egyének védelméről a személyes adatok gépi feldolgozása során, Strasbourgban, 1981. január 28. napján kelt Egyezmény elveit és az Európa Tanács Miniszteri Bizottsága által 1987. szeptember 17-én elfogadott, R (87)15 számú Ajánlását, amely a személyes adatoknak a rendőrségi apparátusban történő felhasználását szabályozza;
+
+*(ii)* nyilvántartást vezetnek a jelen Megállapodás keretében átvett valamennyi személyes adatról, védelmet biztosítanak e személyes adatok véletlen elvesztésével, illetve véletlen megsemmisítésével, a jogtalan hozzáféréssel, módosítással, terjesztéssel, a megsemmisítéssel vagy törléssel szemben; és
+
+*(iii)* az átadott személyes adatokat törlik az átadó Fél által meghatározott feltételek szerint, illetve ilyen feltételek hiányában is, amint az adatokra már nincs szükség arra a célra, amire azt kérték vagy átadták. Az átvett adatokat a jelen Megállapodás megszűnésekor azonnal törölni kell.
+
+*6. Cikk*
+
+*Segítségnyújtás megtagadása*
+
+(1) Ha a jelen Megállapodás értelmében előterjesztett együttműködési vagy segítségnyújtási kérelem az illetékes hatóság szerint
+
+*(i)* sértené államának szuverenitását, biztonságát vagy alapvető érdekeit, illetve
+
+*(ii)* ha az a belső jogszabályokba ütközik, vagy
+
+*(iii)* túlzott terheket róna rá,
+
+az adott hatóság visszautasíthatja a kérelem teljesítését vagy azt feltételekhez kötheti.
+
+(2) Amennyiben a segítségnyújtást felfüggesztik vagy megtagadják, az arról szóló döntésről, illetve annak okairól haladéktalanul értesíteni kell a kérelmet előterjesztő hatóságot.
+
+(3) Amennyiben a segítségnyújtási kérelmet előterjesztő hatóság önmaga nem lenne képes a megkeresésnek eleget tenni hasonló felkérés esetén, a megkeresésben erre a tényre köteles felhívni a figyelmet. Ezt követően a megkeresett hatóság jogosult eldönteni, hogy az ilyen kérelemre miként válaszol.
+
+*7. Cikk*
+
+*Képzés*
+
+A Felek illetékes hatóságai megállapodásuk szerint együttműködnek olyan képzési programok kialakításában, amelyek a jelen Megállapodás körébe tartozó bűncselekmények megelőzésére, felderítésére és nyomozására vonatkozó szakképzést célozzák, beleértve a bűnüldöző szerveknél foglalkoztatott szakemberek cseréjét.
+
+*8. Cikk*
+
+*Költségek viselése*
+
+(1) A megkeresett Fél illetékes hatósága viseli a megkeresés teljesítésének minden szokásos költségét, az esetleges rendkívüli költségek megfizetéséről pedig az érintett illetékes hatóságok külön állapodnak meg.
+
+(2) A megkereső Fél illetékes hatósága viseli a képviselőik utazásával és tartózkodásával kapcsolatos összes költséget, kivéve, ha eltérően nem állapodnak meg.
+
+*9. Cikk*
+
+*A Megállapodás végrehajtása*
+
+A jelen Megállapodás végrehajtását a Magyar Köztársaság Belügyminisztériuma, valamint Írország Igazságügyi, Egyenlőségi és a Jogrendszer Reformjáért Felelős Minisztériuma kíséri figyelemmel, és a két minisztérium vezető tisztségviselői, a megfelelő szakemberek bevonásával, szükség szerint találkozókat tartanak bármely felmerülő kérdés megtárgyalására.
+
+*10. Cikk*
+
+*Más megállapodások végrehajtása*
+
+A jelen Megállapodás nem érinti a Feleknek a más nemzetközi szerződések által meghatározott jogait és kötelezettségeit.
+
+*11. Cikk*
+
+*Záró rendelkezések*
+
+(1) Mindkét Fél írásban, diplomáciai úton értesíti a másik Felet arról, hogy eleget tett a jelen Megállapodás hatálybalépéséhez szükséges belső jogi előírásoknak. A Megállapodás a második értesítést követő harmincadik napon lép hatályba.
+
+(2) A jelen Megállapodást bármelyik Fél diplomáciai úton, írásban felmondhatja. A Megállapodás a felmondásról szóló értesítés kézhezvételétől számított hat hónap elteltével veszti hatályát.
+
+Készült Budapesten, 1999. november 3. napján, két eredeti példányban, magyar és angol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Írország Kormánya\
+nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2000. augusztus 17. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, valamint a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 132. pontja szerint módosított szöveg.

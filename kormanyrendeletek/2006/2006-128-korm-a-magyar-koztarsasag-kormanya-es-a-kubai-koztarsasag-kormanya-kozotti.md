@@ -1,0 +1,287 @@
+---
+title: "128/2006. (VI. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló megállapodás kihirdetéséről és kötelező hatályának elismeréséről"
+identifier: "128/2006. (VI. 1.) Korm. rendelet"
+njt_id: "2006-128-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/128"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-06-01
+in_force_from: 2006-06-02
+last_amended: 2006-06-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-128-20-22"
+retrieved: 2026-10-12
+---
+
+# 128/2006. (VI. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló megállapodás kihirdetéséről és kötelező hatályának elismeréséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködés kialakításáról szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A megállapodás hiteles angol és magyar nyelvű szövege a következő:
+
+„
+
+Agreement\
+on economic cooperation between\
+the Government of the Republic of Hungary\
+and the Government of the Republic of Cuba
+
+The Government of the Republic of Hungary and the Government of the Republic of Cuba, hereinafter referred to as „the Contracting Parties”,
+
+– Desirous of furthering the relationship between their countries,
+
+– Wishing to continue and reinforce their existing traditional economic relations,
+
+– With the intention of developing and intensifying their economic, industrial, technical and technological cooperation on the basis of mutual benefit,
+
+– With the conviction that the strengthening of the contractual framework establishes favourable conditions and suitable basis for further cooperation,
+
+– Within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations,
+
+have agreed as follows:
+
+*Article 1*
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, the expansion and diversification of mutually advantageous economic cooperation in all fields relevant to economic and social development.
+
+*Article 2*
+
+The Contracting Parties, considering the current state and perspectives of economic relations, agree that favourable conditions for long-term cooperation exist, inter alia, in the following areas:
+
+– Agriculture and food processing industry;
+
+– Expansion and rehabilitation of power stations and high-tension distribution networks as well as pipeline networks for gas and oil;
+
+– Electrical equipment and appliances;
+
+– Electronic and electrotechnical industry;
+
+– Exploration of mineral raw materials and mining products;
+
+– Packaging technology;
+
+– Environment;
+
+– Water management and forestry industry;
+
+– Education;
+
+– Health care, medical and pharmaceutical industry;
+
+– Human resource development;
+
+– Tourism;
+
+– Cooperation between small and medium-sized enterprises;
+
+– IT and Communications;
+
+– Transport.
+
+*Article 3*
+
+The Contracting Parties shall endeavour to broaden and intensify their cooperation through appropriate means, such as:
+
+– Promoting the links and strengthening the cooperation between the economic policy-makers, government institutions, professional organizations, business federations, chambers, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their representatives and other economic delegations,
+
+– Exchanging information on development priorities and facilitating the participation of business operators in development projects,
+
+– Expediting the establishment of new contacts and broadening the existing ones between the business circles of the two countries, encouraging the visits, meetings and other interactions between individuals and enterprises,
+
+– Exchanging business information, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences,
+
+– Promoting the stronger participation of enterprises in bilateral economic relations,
+
+– Promoting the cooperation in providing consulting, marketing, advisory and expert services in the areas of mutual interest,
+
+– Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their cooperation respectively,
+
+– Encouraging investment activities, through different modalities of foreign investment forms,
+
+– Encouraging the establishment of company representations within the framework of the respective legislations in force in the two countries,
+
+– Promoting the inter-regional cooperation and cooperation on international level in issues of mutual interest.
+
+*Article 4*
+
+Within the framework of this Agreement the Contracting Parties shall establish a Hungarian–Cuban Joint Commission for the Economic Cooperation.
+
+The „Joint Commission” shall be convened upon request of each of the Contracting Parties alternatively in Hungary and Cuba.
+
+The duties of the Joint Commission shall comprise, in particular, the following:
+
+– Promoting the accomplishment of the present Agreement, drawing up proposals with this aim and assessing its application,
+
+– Analysis of the development of bilateral economic relations,
+
+– Identifying new possibilities for further development of the economic cooperation,
+
+– Drawing up proposals for improvement of the terms for the economic cooperation between enterprises of both countries.
+
+The Commission in necessary cases, shall devise regulations for its operation, on the basis of the present Agreement.
+
+Differences of opinion between the Contracting Parties on the application or interpretation of the Agreement are to be settled within the framework of the Joint Commission.
+
+*Article 5*
+
+This Agreement shall in no way be interpreted as to conflict with any regional or other international commitments and obligations resulting from the Contracting Parties current or future participation in any regional or other international economic integration arrangement.
+
+This Agreement shall apply without prejudice to the obligations flowing from Hungary's membership in the European Union, and subject to those obligations. Consequently the provisions of this Agreement may not be invoked or interpreted in such a way as to invalidate or otherwise affect the obligations imposed on the Republic of Hungary by the Treaties on which the Union is founded as amended or supplemented.
+
+*Article 6*
+
+This Agreement shall enter into force on the date of exchanging notes indicating the completion of the legal procedures of both countries and shall be valid for a period of three years, thereafter it shall be extended automatically for successive one year periods unless either Contracting Party notifies the other, in writing, of its intention to terminate it three months prior to its expiry.
+
+Any amendment to this Agreement shall comply with existing legal procedures established by the legislation of the Contracting Parties.
+
+Done and signed in Havana, on 12th of May 2006 in two original copies in the Hungarian, Spanish, and English languages, all texts being equally authentic. In case of any disputes in the interpretation of this Agreement the English text shall prevail.
+
+For the Government\
+of the Republic of Hungary
+
+For the Government\
+of the Republic of Cuba
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya közötti gazdasági együttműködésről
+
+A Magyar Köztársaság Kormánya és a Kubai Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+– azzal az óhajjal, hogy elmélyítsék az országaik közötti kapcsolatokat,
+
+– azzal a törekvéssel, hogy fenntartsák és erősítsék tradicionális gazdasági kapcsolataikat,
+
+– azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék és intenzívebbé tegyék gazdasági, ipari, műszaki és technológiai együttműködésüket,
+
+– azzal a meggyőződéssel, hogy a szerződéses keretek erősítése a további együttműködéshez kedvező feltételeket és megfelelő alapot teremt,
+
+– a két országban hatályban lévő törvények keretei között és nemzetközi kötelezettségeikkel teljes összhangban
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek hatályban levő törvényeik keretein belül a gazdasági és társadalmi fejlődés minden fontos területén elősegítik a kölcsönösen előnyös gazdasági együttműködés bővítését és diverzifikálását.
+
+*2. Cikk*
+
+Figyelembe véve a gazdasági kapcsolatok jelenlegi helyzetét és perspektíváit, a Szerződő Felek egyetértenek abban, hogy többek között a következő területeken kedvezőek a feltételek a hosszú távú együttműködésre:
+
+– mezőgazdaság és élelmiszer-feldolgozó ipar;
+
+– erőművek és nagyfeszültségű elosztó hálózatok, valamint gáz- és olajvezeték-hálózatok bővítése és felújítása;
+
+– elektromos berendezések és eszközök;
+
+– elektronikai és elektrotechnikai ipar;
+
+– nyersanyagok kitermelése és bányászata;
+
+– csomagolási technológia;
+
+– környezetvédelem;
+
+– víz- és erdőgazdálkodás;
+
+– oktatás;
+
+– egészségügy, gyógyászati és gyógyszeripar;
+
+– humán erőforrások fejlesztése;
+
+– idegenforgalom;
+
+– kis- és középvállalkozások közötti együttműködés;
+
+– IT és távközlés;
+
+– közlekedés.
+
+*3. Cikk*
+
+A Szerződő Felek törekednek arra, hogy megfelelő eszközökkel szélesítsék és tegyék intenzívebbé együttműködésüket, például:
+
+– elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, szakmai és üzleti érdekképviseleti szervezetek, kamarák, regionális és helyi szervek között, szorgalmazzák a kölcsönös érdeklődésre számot tartó gazdasági információk cseréjét, valamint saját képviselőik és más gazdasági delegációk látogatásait,
+
+– információkat cserélnek a fejlesztési prioritásokról és megkönnyítik az üzleti szereplők részvételét a fejlesztési projektekben,
+
+– szorgalmazzák a két ország üzleti körei közötti új kapcsolatok létesítését és a meglévők szélesítését, bátorítják az egyének és vállalkozások között a látogatásokat, találkozókat és más kölcsönös érintkezéseket,
+
+– üzleti információkat cserélnek, bátorítják a vásárokon és kiállításokon történő részvételt, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezését,
+
+– elősegítik a vállalkozások erősebb részvételét a kétoldalú gazdasági kapcsolatokban,
+
+– konzultációs, marketing, tanácsadói és szakértői szolgáltatások nyújtásával bátorítják az együttműködést a kölcsönös érdeklődésre számot tartó területeken,
+
+– arra bátorítják pénzintézeteiket és bankszektorukat, hogy szorosabb kapcsolatokat létesítsenek és erősítsék együttműködésüket,
+
+– bátorítják a beruházási tevékenységet különféle külföldi befektetési formákban,
+
+– a két országban hatályban lévő törvények keretein belül elősegítik vállalati képviseletek létrehozását,
+
+– elősegítik a régiók közötti együttműködést és a nemzetközi szintű együttműködést a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+*4. Cikk*
+
+Jelen Megállapodás keretében a Szerződő Felek Magyar–Kubai Gazdasági Együttműködési Vegyes Bizottságot hoznak létre.
+
+A Vegyes Bizottságot a Szerződő Felek bármelyikének kérésére hívják össze felváltva Magyarországon és Kubában.
+
+A Vegyes Bizottság feladatai különösen az alábbiakat foglalják magukba:
+
+– a jelen Megállapodás teljesítésének elősegítése, e célból, illetve alkalmazásának értékelése érdekében javaslatok tétele;
+
+– a kétoldalú gazdasági kapcsolatok fejlődésének elemzése;
+
+– a gazdasági együttműködés további fejlesztéséhez új lehetőségek azonosítása;
+
+– javaslatok kidolgozása a gazdasági együttműködés feltételeinek javítására mindkét ország vállalatai között.
+
+A Bizottság szükséges esetekben kialakíthatja saját működési szabályait a jelen Megállapodás alapján.
+
+A Szerződő Felek a jelen Megállapodás alkalmazásával vagy értelmezésével kapcsolatos véleményeltéréseket a Vegyes Bizottság keretei között rendezik.
+
+*5. Cikk*
+
+A jelen Megállapodás nem értelmezhető úgy, hogy összeütközésbe kerüljön a Szerződő Felek jelenlegi vagy jövőbeli, regionális vagy más nemzetközi gazdasági integrációs szerződéséből fakadó bármely regionális vagy más nemzetközi kötelezettségvállalásaival vagy kötelezettségeivel.
+
+A jelen Megállapodás nem befolyásolja Magyarország Európai Uniós tagságából fakadó kötelezettségeket, és azokra tekintettel alkalmazandó. Következésképpen a Megállapodás rendelkezései nem idézhetők vagy értelmezhetők úgy, hogy érvénytelenítik vagy másképpen befolyásolják az Európai Uniót létrehozó, módosított, illetve kiegészített Szerződés által a Magyar Köztársaság részére előírt kötelezettségeket.
+
+*6. Cikk*
+
+Jelen Megállapodás a két ország jogi eljárásának befejezését jelző jegyzékváltás napján lép hatályba, és hároméves időszakra marad érvényben, ezután további egyéves periódusokkal automatikusan meghosszabbodik mindaddig, amíg a Szerződő Felek egyike a megszüntetésére irányuló szándékáról három hónappal a lejárat előtt a másikat írásban nem értesíti.
+
+Jelen Megállapodás bárminemű módosítása a Szerződő Felek hatályos törvényei által előírt jogi folyamatokkal összhangban eszközölhető.
+
+Kelt és aláírásra került Havannában, 2006. május 12-én, két eredeti példányban, magyar, spanyol és angol nyelven, mindegyik szöveg egyaránt hiteles. A Megállapodás értelmezéséből eredő bármilyen vita esetén az angol szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Kubai Köztársaság\
+Kormánya részéről”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a megállapodás 6. cikkében meghatározott időpontban lép hatályba.
+
+(3) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a megállapodás 6. cikkében meghatározott időpontban lép hatályba. A hatálybalépés időpontja a 11/2007. (III. 29.) KüM határozat alapján 2007. március 5.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a megállapodás 6. cikkében meghatározott időpontban lép hatályba. A hatálybalépés időpontja a 11/2007. (III. 29.) KüM határozat alapján 2007. március 5.
+[^3]: Lásd a 11/2007. (III. 29.) KüM határozatot.

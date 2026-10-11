@@ -1,0 +1,223 @@
+---
+title: "135/1995. (XI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kijevben, 1995. május 19-én aláírt Egyezmény kihirdetéséről"
+identifier: "135/1995. (XI. 22.) Korm. rendelet"
+njt_id: "1995-135-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/135"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-11-22
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-135-20-22"
+retrieved: 2026-10-12
+---
+
+# 135/1995. (XI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kijevben, 1995. május 19-én aláírt Egyezmény kihirdetéséről
+
+**(A jegyzékváltás 1995. augusztus 29-én megtörtént.)**
+
+## 1. §
+
+A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről szóló, Kijevben, 1995. május 19-én aláírt Egyezményt.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a szervezett bűnözés elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: a Felek)
+
+attól a törekvéstől vezérelve, hogy ezzel hozzájáruljanak a kétoldalú kapcsolatok fejlődéséhez és kiszélesítéséhez,
+
+abban a meggyőződésükben, hogy az együttműködés a szervezett bűnözés, különösen a kábítószerekkel folytatott bűnözés, a terrorizmus, az embercsempészet elleni harcban, ezek hatásos megakadályozásában lényeges jelentőséggel bír, tekintettel:
+
+— a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezményre, valamint az 1961-ben kelt Egységes Kábítószer Egyezmény módosításáról és kiegészítéséről szóló, Genfben, 1972. március 25-én kelt jegyzőkönyvre,
+
+— a pszichotróp anyagokról szóló, Bécsben, 1971. február 21-én aláírt egyezményre,
+
+— az 1988. december 20-i, a kábítószerek és pszichotróp anyagok tiltott forgalmazása elleni, Bécsben kötött egyezményre, melyek mindegyikét az Egyesült Nemzetek keretében dolgozták ki,
+
+aggodalommal a kábítószerekkel és pszichotróp anyagokkal folytatott visszaélések és azok meg nem engedett forgalmazásának világszerte tapasztalt növekedése miatt, közös akarattal a terrorizmus hatásos leküzdésére,
+
+továbbá meggyőződve arról, hogy az embercsempészés leküzdése a légi utak tekintetékben elsősorban az indulási és a tranzit-repülőtereken kell hogy történjék, mert ezeket a személyeket csak ott lehet hatásosan kizárni a légitársaságok utasforgalmából,
+
+továbbá abban a törekvésben, hogy hatásos intézkedéseket foganatosítsanak a hamis és hamisított, vagy visszaélésre szánt úti okmányok használatának korlátozására, valamint a bűnös embercsempész-szervezetek leküzdésére
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek a saját jogszabályaik rendelkezéseit figyelembe véve együttműködnek a bűnözés súlyosabb formái, a szervezett bűnözés megakadályozásában, ideértve annak megelőzését és üldözését is.
+
+A Szerződő Felek, különösen azokban az esetekben működnek együtt, amelyekben a bűncselekmények vagy a bűncselekmények előkészületei az egyik Szerződő Fél felségterületén valósulnak meg, de egyéb adatok a másik Szerződő Fél felségterületére utalnak.
+
+*2. Cikk*
+
+Az együttműködés az alábbi bűncselekményfajtákra terjed ki, ha a tényállásban a szervezett végrehajtás elemei felismerhetők:
+
+— kábítószerrel kapcsolatos bűncselekmények,
+
+— terrorizmus,
+
+— személy elleni bűncselekmények,
+
+— embercsempészés, valamint tiltott határátlépés,
+
+— lőfegyverrel, lőszerrel, robbanóanyaggal és sugárzóanyaggal kapcsolatos bűncselekmények,
+
+— pénzmosás,
+
+— gazdasági bűncselekmény, különösen:
+
+= a pénzmosás,
+
+= a pénzhamisítás,
+
+= a csempészet,
+
+— vagyon elleni bűncselekmények, különösen a rablás,
+
+— prostitúcióval kapcsolatos bűncselekmények,
+
+— okiratok hamisítása,
+
+— környezetvédelemmel kapcsolatos bűncselekmények.
+
+*3. Cikk*
+
+1\. Közlik egymással a szervezett bűnözésben részt vevő személyek adatait, a tettesek előéletére, kapcsolataira vonatkozó adatait, a bűnöző szervezetek és bűnöző csoportok felépítéséről szóló ismereteiket, a jellemző tettes- és csoportmagatartást, a tényállásokat, különösen az elkövetés idejét, helyét, módját, a megtámadott objektumokat, valamint a megsértett büntető jogszabályokat és a megtett intézkedéseket, amennyiben ez a szervezett bűnözés bűncselekményeinek megelőzéséhez, megakadályozásához vagy egyes esetekben a közrend számára nagy veszélyt jelentő bűncselekmények elhárításához szükséges;
+
+2\. megkeresésre olyan intézkedéseket foganatosítanak, amelyeket a megkeresett Szerződő Fél jogszabályai megengednek;
+
+3\. adatokat és tapasztalatokat cserélnek a nemzetközi bűnözés módszereiről, új formáiról;
+
+4\. kicserélik a kriminalisztikai és kriminológiai kutatási eredményeiket, valamint a szakmai és az operatív-technikai eszközökkel kapcsolatos tapasztalataikat;
+
+5\. kérelemre egymás rendelkezésére bocsátanak ismereteket vagy mintákat azokról a tárgyakról, amelyek bűncselekményekből származnak, továbbá, amelyekkel bűncselekményeket követtek el;
+
+6\. a szervezett bűnözés elleni harcban szerzett tapasztalatok hasznosítása érdekében kölcsönös képzési lehetőségeket biztosítanak munkatársaiknak a magasabb szintű szakismeretek megszerzéséhez, a bűnözéssel szemben alkalmazott technikai és más módszerek megismerésére;
+
+7\. szükség szerint munkatalálkozókat tartanak az összehangolt intézkedések előkészítésére és végrehajtására.
+
+*4. Cikk*
+
+A kábító- és pszichotróp anyagok, valamint prekurzorok tiltott termesztésének, előállításának, kinyerésének, ki-, be- és átmenő forgalmának, továbbá illegális kereskedelmének megszüntetésére a Felek saját jogszabályaik figyelembevételével különösen:
+
+1\. közlik egymással a kábítószer illegális előállításában és kereskedelmében rész vevő személyek adatait, rejtekhelyeit és szállítóeszközeit, munkamódszereit, a kábítószerek és pszichotróp anyagok származási és rendeltetési helyeit, valamint az egyes bűncselekmények különleges részleteit;
+
+2\. az illegális nemzetközi forgalmazás szokásos módszereiről szerzett ismereteiket közlik egymással;
+
+3\. a kábítószer-kereskedelemre és a kábítószerekkel való visszaélésre vonatkozó kriminalisztikai és kriminológiai kutatási eredményeiket kicserélik;
+
+4\. növényi vagy szintetikus eredetű új kábítószerekből, pszichotróp anyagokból mintákat bocsátanak egymás rendelkezésére;
+
+5\. kicserélik a kábítószerek, a pszichotróp anyagok és a prekurzorok legális forgalmazásának ellenőrzésében szerzett tapasztalataikat;
+
+6\. összehangolt intézkedéseket foganatosítanak a szintetikus drogok tiltott előállításának megakadályozására.
+
+*5. Cikk*
+
+A terrorizmus leküzdésére, a Szerződő Felek saját jogszabályaik alapján és ezen Egyezmény rendelkezéseinek figyelembevételével adatokat és tapasztalatokat cserélnek a tervezett vagy elkövetett terrorakciókról, az elkövetés módjáról, azokról a terrorista csoportokról, amelyek cselekményeiket a másik Fél területén terveznek, hajtanak, illetve hajtottak végre, ezek megakadályozása, illetve felderítése céljából.
+
+*6. Cikk*
+
+Az embercsempészés megakadályozására a Felek saját jogszabályaik alapján az alábbiak szerint járnak el:
+
+1\. vizsgálják az embercsempészés leküzdésével kapcsolatos kérdéseket, és kidolgozzák a megfelelő ellenintézkedéseket;
+
+2\. közlik egymással azon információkat, amelyek a másik Fél számára az embercsempészés elleni intézkedéshez szükségesek.
+
+*7. Cikk*
+
+A személyekre vonatkozó adatok védelmére mindegyik Szerződő Fél érvényes jogi előírásainak figyelembevételével a következő feltételek érvényesek:
+
+1\. a fogadó Fél az adatokat csak az átadó Fél által megadott célra és az általa közölt feltételekkel használhatja fel;
+
+2\. az átadó Fél kérésére a fogadó Fél tájékoztatást nyújt az átadott adatok felhasználásáról és az ezáltal elért eredményekről;
+
+3\. a személyekre vonatkozó információkat kizárólag a bűnüldöző hatóságoknak szabad átadni. Az adatok továbbadása más hatóságoknak csak a Felek egyeztetése alapján az átadó hatóság előzetes engedélyével történhet;
+
+4\. az átadó Fél felelős az átadandó adatok helyességéért. Ha bebizonyosodik, hogy helytelen adatok is átadásra kerültek, úgy arról a fogadó Felet haladéktalanul értesíteni kell;
+
+5\. az érintett személy számára, kérésére, felvilágosítást kell adni a személyéről meglevő adatokról és azok tervezett felhasználásáról. Ez a felvilágosításadási kötelezettség nem áll fenn, ha a Felek belső jogszabályai ezt lehetővé teszik. A személyi adatokról történő felvilágosítás adásánál annak a Félnek a nemzeti joga az irányadó, amely az adatokat kezeli;
+
+6\. az átadó Fél közli az átadáskor a saját jogrendjében érvényes adattörlési határidőket. Ezektől függetlenül a közölt személyre vonatkozó adatokat a szükségesség megszűnésekor törölni kell;
+
+7\. mindkét Fél köteles a személyekre szóló adatok átadásáról és átvételéről nyilvántartást vezetni;
+
+8\. a Felek kötelesek az átadott, személyekre szóló adatokat hatásosan védeni illetéktelen hozzáférés, változtatás és nyilvánosságra hozatal ellen.
+
+*8. Cikk*
+
+A Szerződő Felek az Egyezmény végrehajtása céljából vegyes bizottságot állítanak fel az együttműködő szerveket képviselő szakértőkből a Belügyminisztériumok képviselőinek vezetésével.
+
+A vegyes bizottság szükség szerint, de legalább kétévente ülést tart. Bármelyik Fél kezdeményezheti az ülés megtartását. A vegyes bizottság a Magyar Köztársaságban és Ukrajnában felváltva tartja üléseit.
+
+A vegyes bizottság feladata, hogy az Egyezményben szabályozott együttműködést elősegítse, és felügyelje annak hatékonyságát.
+
+Az Egyezmény megvalósítása érdekében saját hatáskörükben az alábbi központi szervek működnek közvetlenül együtt:
+
+Magyar részről:
+
+Belügyminisztérium,
+
+Népjóléti Minisztérium[^1],
+
+Országos Rendőr-főkapitányság,
+
+Határőrség Országos Parancsnoksága,
+
+Vám- és Pénzügyőrség Országos Parancsnoksága;
+
+Ukrán részről:
+
+Belügyminisztérium,
+
+Ukrajna Biztonsági Szolgálata,
+
+Ukrajna Állami Határvédelmi Bizottsága,
+
+Állami Vámhivatal,
+
+Pénzügyminisztérium Állami Adófelügyelősége,
+
+Egészségügyi Minisztérium.
+
+A Felek erre felhatalmazott szervezetei saját hatáskörükben és illetékességi területükön ezen Egyezményben foglaltak végrehajtása érdekében közvetlenül és operatív módon együttműködnek, ennek során az együttműködés konkrét területeit és a kapcsolattartás módját együttműködési jegyzőkönyvben rögzíthetik.
+
+*9. Cikk*
+
+Ha valamelyik Szerződő Fél szerint a megkeresés teljesítése, az együttműködési intézkedés a saját felségjogát korlátozza, a biztonságát vagy más lényeges érdekeit veszélyezteti, illetőleg a saját jogrendjének alapjait sérti, úgy a támogatását, illetőleg az együttműködési intézkedését erre vonatkozóan részben vagy egészben megtagadhatja, vagy azt bizonyos feltételektől függővé teheti.
+
+A Szerződő Felek legkésőbb két héttel a vegyes bizottság ülése, illetőleg a szakemberek cseréje előtt közlik egymással az érdekelt személyek nevét.
+
+*10. Cikk*
+
+Ez az Egyezmény nem érinti a Felek más nemzetközi szerződésből eredő jogait és kötelezettségeit.
+
+*11. Cikk*
+
+A Szerződő Felek ezt az Egyezményt határozatlan időre kötik. Ez az Egyezmény az azt követő 30. napon lép hatályba, amikor a Szerződő Felek diplomáciai jegyzékváltás útján értesítik egymást, hogy eleget tettek az érvénybelépéshez szükséges belső előírásoknak.
+
+Az Egyezményt bármelyik Szerződő Fél diplomáciai úton felmondhatja. A felmondás attól az időponttól számított hat hónap elteltével lép érvénybe, amikor az a másik Szerződő Félhez megérkezett.
+
+Készült Kijevben, 1995. május 19-én, két eredeti példányban, magyar és ukrán nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+Ukrajna Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 2. napon lép hatályba, a rendelkezéseit azonban 1995. szeptember hó 28. napjától kell alkalmazni.
+
+(2)[^2] Az Egyezmény végrehajtásáról a rendészetért felelős miniszter, az egészségügyért felelős miniszter, az adópolitikáért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 54. pontja szerint módosított szöveg.

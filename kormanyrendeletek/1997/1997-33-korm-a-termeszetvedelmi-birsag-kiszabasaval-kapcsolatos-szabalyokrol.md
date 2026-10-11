@@ -1,0 +1,184 @@
+---
+title: "33/1997. (II. 20.) Korm. rendelet a természetvédelmi bírság kiszabásával kapcsolatos szabályokról"
+identifier: "33/1997. (II. 20.) Korm. rendelet"
+njt_id: "1997-33-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/33"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-02-20
+in_force_from: 2009-10-01
+last_amended: 2021-01-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-33-20-22"
+retrieved: 2026-10-12
+---
+
+# 33/1997. (II. 20.) Korm. rendelet a természetvédelmi bírság kiszabásával kapcsolatos szabályokról
+
+A természet védelméről szóló 1996. évi LIII. törvény (a továbbiakban: Tvt.) 80. §-ának (6) bekezdésében, valamint a 85. §-ának *a)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## A természetvédelmi bírság mértéke
+
+### 1. §
+
+(1) A természetvédelmi bírság alapbírságból vagy – az e rendeletben meghatározott esetekben – az alapbírság és az azt módosító tényezőkhöz hozzárendelt szorzószám szorzatával kiszámított bírságösszegből áll.
+
+(2)[^1] Az alapbírság legkisebb összege a 2. §-ban meghatározott legnagyobb alapbírság összegének negyede, illetve védett természeti érték veszélyeztetése, károsítása esetében a pénzben kifejezett érték vagy értékek összegének a negyede.
+
+### 2. §
+
+(1) A természetvédelmi alapbírságok legmagasabb mértéke:
+
+a)[^2] a természet védelmét szolgáló jogszabály, illetve egyedi határozat előírásainak megsértése esetén:
+
+aa) természeti értékre vonatkozó előírás megsértésével okozott veszélyeztetés vagy károsítás esetében a természeti érték pénzben kifejezett értéke, de veszélyeztetés esetén legfeljebb százezer, károsítás esetén legfeljebb kettőszázezer forint,
+
+ab)[^3] természeti területre, Natura 2000 területre vonatkozó előírás megsértésével okozott veszélyeztetés vagy károsítás esetében a veszélyeztetett vagy károsított területnagyság alapján, megkezdett hektáronként veszélyeztetés esetén legfeljebb százezer, károsítás esetén legfeljebb kettőszázezer forint,
+
+ac) tájvédelmi előírások megsértésével okozott veszélyeztetés esetén a területnagyság alapján, megkezdett hektáronként legfeljebb százezer, károsítás esetében megkezdett hektáronként legfeljebb kettőszázezer forint;
+
+b)[^4] védett természeti érték jogellenes veszélyeztetése esetében legfeljebb a veszélyeztetett védett természeti értékek pénzben kifejezett értékének összege, károsítása, elpusztítása esetében a károsított, elpusztított védett természeti értékek pénzben kifejezett értéke összegének legfeljebb háromszorosa;
+
+c)[^5] védett természeti terület állapotának, minőségének jogellenes veszélyeztetése esetében a veszélyeztetett területnagyság alapján megkezdett hektáronként legfeljebb kettőszázötvenezer forint, rongálása, károsítása esetében megkezdett hektáronként legfeljebb ötszázezer forint;
+
+d)[^6] barlang jogellenes veszélyeztetése, károsítása esetében legfeljebb ötszázezer forint, elpusztítása esetében a barlang felületének minden megkezdett száz négyzetmétere után legfeljebb hétszázötvenezer forint;
+
+e)[^7] a védett természeti terület, Natura 2000 terület, továbbá barlang jogellenes megváltoztatása, átalakítása esetében a *c)* és *d)* pontok károsításra vonatkozó szabályait kell alkalmazni azzal, hogy a védett természeti területen, Natura 2000 területen, illetve barlangban a védelem céljával össze nem egyeztethető, *c)* és *d)* pontok alá nem tartozó tevékenység folytatása esetén legfeljebb ötszázezer forint;
+
+f) a védett élő szervezet, életközösség élőhelyének, illetőleg élettevékenységének jelentős mértékű zavarása esetén legfeljebb a zavarással érintett védett élő szervezetek, életközösségek pénzben kifejezett értékének az összege, élőhely esetében pedig a zavarással érintett területnagyság alapján, megkezdett hektáronként legfeljebb háromszázötvenezer forint;
+
+g)[^8] a természetvédelmi hatósági engedély-köteles tevékenység, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenység engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően, továbbá a természet védelmét szolgáló jogszabályi előírást érintő bejelentés, ellenőrzött bejelentés nélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően történő végzése esetén:
+
+ga) védett természeti érték esetében legfeljebb az egyedek, egyes védett természeti értékek pénzben kifejezett értékének az összege,
+
+gb) barlang esetében legfeljebb ötszázezer forint,
+
+gc)[^9] védett természeti terület, Natura 2000 terület esetében – a *gf)* alpontban foglaltak kivételével – a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint,
+
+gd) az ideiglenes vagy átmeneti védettség kimondásáról szóló hatósági határozat megsértésével okozott veszélyeztetés esetében a területnagyság alapján megkezdett hektáronként legfeljebb ötszázezer forint;
+
+ge)[^10] tájvédelmi előírások megsértése esetében a területnagyság alapján, megkezdett hektáronként legfeljebb százezer forint;
+
+gf)[^11] járművel történő közlekedés esetén legfeljebb százezer forint;
+
+h)[^12] az *a)–g)* pontokba nem tartozó esetekben legfeljebb kettőszázezer forint.
+
+(2)[^13] Fokozottan védett természeti terület, illetve fokozottan védett természeti érték veszélyeztetése, károsítása, elpusztítása esetében az alapbírság az (1) bekezdés *b)–h)* pontjaiban meghatározott mérték kétszerese.
+
+### 3. §[^14]
+
+A 2. § alapján meghatározott alapbírságot:
+
+a) a 2. § (1) bekezdés *b)* pontjában meghatározott veszélyeztetés esetén, ha a veszélyeztetés eredményeként a védett természeti érték fennmaradása súlyos veszélybe kerül, 2-es,
+
+b) a 2. § (1) bekezdés *f)* pontjában meghatározott zavarás esetén, ha a fokozottan védett élő szervezet vagy életközösség, illetve ezek élőhelyének zavarásával jár együtt, 2-es,
+
+c) a 2. §-ban meghatározott védett élő szervezet tömeges pusztulása esetén, más védett természeti érték, illetve védett természeti terület helyreállíthatatlan károsodása esetén 5-ös,
+
+d)[^15] ha az elkövetővel szemben – az elkövetéstől számított 2 éven belül – jogerősen vagy véglegesen természetvédelmi bírságot szabtak ki, valamennyi eset után 2-es
+
+szorzószámmal kell megszorozni.
+
+## A természetvédelmi bírság kiszabásának módja
+
+### 4. §
+
+(1)[^16] Ha a természetvédelmi bírságot a Tvt. 80. § több pontja alapján is ki lehet szabni, akkor a magasabb összegű bírságtételt meghatározó pont alapján kell eljárni.
+
+(2) Nem alapozható a természetvédelmi bírság a Tvt. 80. §-a (1) bekezdésének *a)*, illetve *e)* pontjára, ha az abban szabályozott magatartás a Tvt. 80. §-a (1) bekezdésének *b)–d)* pontjaiban foglalt következménnyel jár.
+
+(3) A Tvt. 80. §-a (1) bekezdésének *b)* és *d)* pontjaiban foglalt veszélyeztetés miatt természetvédelmi bírság akkor szabható ki, ha a jogellenes magatartás folytán védett természeti érték vagy terület károsodásának, pusztulásának objektív feltételei megvalósultak, de még károsodás vagy pusztulás nem következett be.
+
+(4) Védett élő szervezet, életközösség élőhelyének, élettevékenységének jelentős zavarása miatt [Tvt. 80. § (1) bek. *d)* pont] természetvédelmi bírság akkor szabható ki, ha a zavarás a védett élő szervezet, életközösség, érintett élőhelyének állományában, fajösszetételében, élettevékenységében kimutatható kedvezőtlen változást idéz elő. Ha a zavarás a védett élő szervezetek, életközösségek károsodását vagy pusztulását idézi elő, a bírságot a Tvt. 80. §-a (1) bekezdésének *b)* pontja alapján kell kiszabni.
+
+### 5. §
+
+(1)[^17] A természetvédelmi bírság összegének meghatározásakor előbb az alapbírság összegét kell meghatározni, amely során figyelembe kell venni
+
+1\. a tevőleges magatartás, illetve a mulasztás körülményeit;
+
+2\. a kötelezettségszegés súlyosságát;
+
+3\. a kötelezettségszegés időtartamát és ismétlődését;
+
+4\. a jogsértő magatartás konkrét veszélyességét vagy károsító hatását;
+
+5\. az ország természetvédelmi helyzetére, illetve a térség természeti állapotának egészére gyakorolt hatását;
+
+6\. a jogsértő magatartással érintett területnek az ökológiai hálózat koherenciájában betöltött szerepét;
+
+7\. a jogsértő magatartással érintett élőhelyek, fajok, illetve területek kedvező természetvédelmi helyzetének elérését vagy fenntartását befolyásoló hatások jelentőségét;
+
+8\. a jogsértő magatartással érintett populáció szerepét, sérülékenységét;
+
+9\. a jogsértő magatartással érintett fajok tömegességét, állománysűrűségét, állománynagyságát, reprodukciós rátáját;
+
+10\. a jogsértő magatartással érintett faj, élőhelytípus ritkaságát (helyi, regionális, országos, európai közösségi szinten);
+
+11\. a jogsértő magatartással érintett fajok szaporodási képességét;
+
+12\. a bekövetkezett kár mértékét;
+
+13\. a helyreállíthatóság lehetőségét, a terület természetes megújulási képességét, a faj állományának, illetve az élőhelytípusnak a regenerálódási képességét;
+
+14\. azt, hogy a jogsértő magatartás hogyan viszonyul a természetvédelmi szempontból szükségszerű kezeléshez;
+
+15\. azt, hogy az elkövetőt a további, a természet védelméhez fűződő érdekeket sértő magatartástól visszatartsa;
+
+16\. azt, hogy a cselekményt engedély nélkül vagy engedélytől eltérően végezte.
+
+(2) Az alapbírság meghatározását követően az e rendelet alapján előírt módosító tényezők szorzószámával az alapbírságot meg kell szorozni.
+
+(3) Ha több módosító tényező szorzószámainak alkalmazására is sor kerülhet, a szorzószámokat össze kell adni és az így kapott emelt szorzószámmal kell az alapbírságot megszorozni.
+
+## Eljárási szabályok
+
+### 6. §[^18]
+
+### 7. §[^19]
+
+A természetvédelmi bírságot csak a Tvt. 80. §-ának (3) bekezdésében meghatározott időtartamon belül lehet kiszabni. Ha végleges másodfokú határozat, illetőleg jogerős bírói ítélet az eljárt természetvédelmi hatóságot új eljárás lefolytatására utasítja, a Tvt. 80. §-ának (3) bekezdése szerinti egyéves határidőt a másodfokú határozat véglegessé válásától vagy a bírói ítélet jogerőre emelkedésétől kell számítani, de öt éven túl ebben az esetben sincs helye bírság kiszabásának.
+
+### 8. §[^20]
+
+### 9. §
+
+(1)[^21] A természetvédelmi bírság kiszabásáról szóló határozat rendelkező részében rendelkezni kell arról, hogy a természetvédelmi bírságot milyen számlaszámra kell a határozat véglegessé válásától számított 15 napon belül befizetni.
+
+(1a)[^22] A természetvédelmi bírság megfizetésére a bírságoló szerv a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, ha a természetvédelmi bírság megfizetésére kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
+
+(2)[^23] Az (1) bekezdés szerinti határozattal egyidejűleg – szükség esetén, és ha ennek a jogszabályi feltételei fennállnak – önálló határozatban kell rendelkezni a veszélyeztető, károsító, zavaró tevékenység korlátozásáról, felfüggesztéséről, megtiltásáról, továbbá a helyreállítási kötelezettség meghatározását követően, a helyreállítási kötelezettség elrendeléséről.
+
+### 10. §[^24]
+
+### 11. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit az 1997. január 1-jét követően indult és jogerősen le nem zárult eljárásokban kell alkalmazni.
+
+---
+
+[^1]: Az 1. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés a) pont nyitó szövegrésze a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés a) pont ab) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1) bekezdés b) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: Alkalmazására lásd a 19/2009. (XII. 22.) KvVM rendeletet.
+[^6]: A 2. § (1) bekezdés d) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (1) bekezdés e) pontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés g) pontja a 713/2020. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés g) pont gc) alpontja a 336/2013. (IX. 20.) Korm. rendelet 2. § (5) bekezdésével megállapított, a 713/2020. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés g) pont ge) alpontját a 336/2013. (IX. 20.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés g) pont gf) alpontját a 713/2020. (XII. 30.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés h) pontja a 336/2013. (IX. 20.) Korm. rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 2. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 3. § a 336/2013. (IX. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 3. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 31. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 4. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: Az 5. § (1) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: A 6. §-t a 182/2009. (IX. 10.) Korm. rendelet 107. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^19]: A 7. § a 457/2017. (XII. 28.) Korm. rendelet 31. § b)–c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^20]: A 8. §-t a 441/2015. (XII. 28.) Korm. rendelet 20. §-a hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 9. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 31. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 9. § (1a) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^23]: A 9. § (2) bekezdése a 336/2013. (IX. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 10. §-t a 182/2009. (IX. 10.) Korm. rendelet 107. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

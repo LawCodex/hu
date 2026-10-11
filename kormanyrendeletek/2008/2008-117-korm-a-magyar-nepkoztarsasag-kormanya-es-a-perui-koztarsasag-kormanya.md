@@ -1,0 +1,101 @@
+---
+title: "117/2008. (IV. 30.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya között a kulturális és tudományos együttműködés tárgyában Budapesten, az 1972. évi május hó 22. napján aláírt egyezmény kihirdetéséről"
+identifier: "117/2008. (IV. 30.) Korm. rendelet"
+njt_id: "2008-117-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/117"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-04-30
+in_force_from: 2008-05-01
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-117-20-22"
+retrieved: 2026-10-12
+---
+
+# 117/2008. (IV. 30.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya között a kulturális és tudományos együttműködés tárgyában Budapesten, az 1972. évi május hó 22. napján aláírt egyezmény kihirdetéséről
+
+*(Az Egyezmény a Magyar Köztársaság vonatkozásában 1976. október 14-én nemzetközi jogilag hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya között a kulturális és tudományos együttműködés tárgyában Budapesten, az 1972. évi május hó 22. napján aláírt Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+**„Kulturális és tudományos együttműködési egyezmény a Magyar Népköztársaság és a Perui Köztársaság Kormányai között**
+
+A Magyar Népköztársaság Kormánya és a Perui Köztársaság Kormánya, attól az óhajtól vezérelve, hogy a kölcsönös megértés, szuverenitásuk tiszteletben tartása és az egymás belügyeibe való be nem avatkozás elve alapján fejlesszék országaik között az együttműködést a kultúra, a tudomány, az oktatás, a művészet és a sport területén, hogy ily módon hozzájáruljanak a népeik közötti kapcsolatok megszilárdításához, elhatározták a jelen egyezmény megkötését és e célból kinevezték teljhatalmú megbízottaikat, akik jó és kellő alakban talált meghatalmazásaik kicserélése után az alábbiakban állapodtak meg:
+
+*Első Cikk*
+
+A Szerződő Felek elhatározzák, hogy elősegítenek minden olyan tevékenységet, amely hozzájárul a két ország kulturális és oktatási fejlődésének jobb megismeréséhez.
+
+*Második Cikk*
+
+A Szerződő Felek támogatják a kulturális, tudományos és oktatási szervezeteik és intézményeik közötti kapcsolatok létesítését. Elősegítik a tapasztalatok és információk cseréjét a kultúra, a tudomány, az oktatás, a művészet és a sport területén, abból a célból, hogy jobban megismertessék egymással a két nép életét. Ennek érdekében támogatják professzorok, tudósok, oktatási szakemberek és a kultúra képviselőinek cseréjét.
+
+*Harmadik Cikk*
+
+A Szerződő Felek kölcsönösen felsőfokú tanulmányi, elsősorban továbbképzési ösztöndíjakat ajánlanak fel elméleti és gyakorlati tanulmányok folytatására, valamint tudományos kutatómunka céljából az oktatás, a tudományok, a műszaki tudományok és a kultúra területén, s erre a hivatalosan megállapított csatornákat fogják igénybe venni.
+
+*Negyedik Cikk*
+
+A Szerződő Felek megvizsgálják, hogy a két országban kiadott diplomákat, egyetemi és tudományos fokozatokat milyen feltételek mellett ismerik el egyenértékűnek abból a célból, hogy azokat kölcsönösen elismerjék, és erről külön egyezményt kössenek.
+
+*Ötödik Cikk*
+
+A Szerződő Felek gondoskodnak arról, hogy az országaikban használatban levő tankönyvek kulturális, történelmi és földrajzi kérdésekben megfelelő és a lehető legpontosabb képet adják a másik Szerződő Fél országáról.
+
+*Hatodik Cikk*
+
+A Szerződő Felek oktatási és kulturális intézményeik útján kölcsönösen megkönnyítik a másik ország irodalmának, történelmének, földrajzának és kultúrájának jobb megismerését. Ebből a célból tájékoztató anyagokat bocsátanak egymás rendelkezésére.
+
+*Hetedik Cikk*
+
+A Szerződő Felek támogatják a másik Fél által a kultúra, a tudomány, az oktatás, az egészségügy és a sport területén kiadott könyvek, füzetek, folyóiratok cseréjét, fordítását, kiadását és terjesztését.
+
+*Nyolcadik Cikk*
+
+A Szerződő Felek országaik kulturális életének jobb megismerése érdekében megkönnyítik tudományos, oktatási, művészeti és dokumentációs kiállítások rendezését, filmbemutatók tartását, népi és egyéb művészeti együttesek, kulturális és sportküldöttségek cseréjét.
+
+*Kilencedik Cikk*
+
+A Szerződő Felek elhatározzák, hogy védelmezik a másik Fél régészeti és kulturális örökségét, és támogatják a megóvásukra irányuló technikai együttműködést.
+
+*Tizedik Cikk*
+
+A Szerződő Felek támogatják és elősegítik a kapcsolatokat a két ország állami rádió és televízió szervezetei között, és támogatják a két szerv közötti külön megállapodás kötését az érvényben levő törvényes rendelkezéseknek megfelelően és az országok felelős szerveinek előzetes egyetértésével.
+
+*Tizenegyedik Cikk*
+
+A Szerződő Felek elősegítik a két ország UNESCO Nemzeti Bizottságai közötti kapcsolatok erősítését.
+
+*Tizenkettedik Cikk*
+
+Jelen Egyezmény végrehajtására a Szerződő Felek két vegyes bizottságot hoznak létre, az egyiket Budapest, a másikat Lima székhellyel, melynek tagjait mindkét Fél részéről a Kormány jelöli ki. A vegyes bizottságok legalább kétévenként egyszer összeülnek a munkatervek előkészítésére és értékelésére.
+
+Az Egyezmény végrehajtásának anyagi feltételeit a munkatervek szabályozzák.
+
+*Tizenharmadik Cikk*
+
+A jelen Egyezményt mindkét Szerződő Fél alkotmányos előírásainak megfelelően meg kell erősíteni, és az a megerősítő okiratok kicserélésének napján lép hatályba.
+
+A Szerződő Felek a jelen Egyezményt ötéves időtartamra kötik, és az továbbra is hatályban marad addig, amíg az egyik Fél be nem jelenti a felmondásra irányuló szándékát. Az Egyezményt legkevesebb hat hónapos felmondási idővel bármelyik Fél bármikor felmondhatja, ez esetben a felmondás bejelentésének napjától számított egy évig marad hatályban.
+
+Készült Budapesten, az 1972. évi május hó 22. napján, két eredeti példányban, magyar és spanyol nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+*(Aláírások)”*
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2)[^1] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, az audiovizuális feladatok ellátása tekintetében az audiovizuális politikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 70. §-a szerint módosított szöveg.

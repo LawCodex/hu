@@ -1,0 +1,223 @@
+---
+title: "139/2008. (V. 16.) Korm. rendelet a Környezet és Energia Operatív Program derogációs projektek kamattámogatásának igényléséről, folyósításának, elszámolásának és ellenőrzésének részletes feltételeiről"
+identifier: "139/2008. (V. 16.) Korm. rendelet"
+njt_id: "2008-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-05-16
+in_force_from: 2009-12-31
+last_amended: 2015-07-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/2008. (V. 16.) Korm. rendelet a Környezet és Energia Operatív Program derogációs projektek kamattámogatásának igényléséről, folyósításának, elszámolásának és ellenőrzésének részletes feltételeiről
+
+A Kormány a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 84. §-a (1) bekezdésének *d)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének *b)* pontjában megállapított feladatkörében eljárva a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya kiterjed
+
+a) az Európai Bizottság által 2007HU161PO002 CCI számon 2007. augusztus 1-én elfogadott Környezet és Energia Operatív Program (a továbbiakban: KEOP) 1. Egészséges, tiszta települések prioritása keretében a szennyvízkezelés, ivóvízminőség-javítás és a hulladékgazdálkodás területén meghirdetett pályázati konstrukciókban támogatást elnyert önkormányzatokra és azok jogi személyiségű társulásaira (továbbiakban önkormányzat),
+
+b)[^1] a támogatóra és az általa kijelölt közreműködő szervezetre,
+
+c)[^2] a Magyar Fejlesztési Bank Zrt.-re (a továbbiakban: MFB),
+
+amennyiben az önkormányzat a beruházáshoz biztosítandó önrészét részben vagy egészben az új gazdaságfejlesztési hitelprogramok meghirdetéséről szóló 2288/2004. (XI. 17.) Korm. határozatban meghirdetett „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogram, a „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogramhoz kapcsolódó kamattámogatásról és az Új Magyarország Fejlesztési Tervhez és az Új Magyarország Vidékfejlesztési Programhoz kapcsolódó Új Magyarország Önkormányzati Infrastruktúrafejlesztési Kötvényfinanszírozási Programról szóló 2196/2007. (X. 27.) Korm. határozatban meghirdetett Új Magyarország Önkormányzati Infrastruktúrafejlesztési Kötvényfinanszírozási Program, vagy az MFB Önkormányzati Infrastruktúrafejlesztési Program bevezetéséről, és az önkormányzati hitelprogramok átalakításáról szóló 1424/2011. (XII. 6.) Korm. határozat alapján meghirdetett MFB Önkormányzati Infrastruktúrafejlesztési Program (a továbbiakban: hitel-, illetve kötvényprogram) keretében biztosítja.
+
+### 2. §
+
+Az önkormányzatoknak nyújtott kamattámogatás mértékét és időtartamát a „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogramhoz kapcsolódó kamattámogatásról és az Új Magyarország Fejlesztési Tervhez és az Új Magyarország Vidékfejlesztési Programhoz kapcsolódó Új Magyarország Önkormányzati Infrastruktúrafejlesztési Kötvényfinanszírozási Programról szóló 2196/2007. (X. 27.) Korm. határozat (a továbbiakban: Korm. határozat) határozza meg.
+
+### 3. §
+
+E rendelet szerinti kamattámogatás nem vehető igénybe a lakáscélú állami támogatásokról szóló 12/2001. (I. 31.) Korm. rendelet 16. § (6) bekezdése alapján igénybe vett, kamattámogatott hitel refinanszírozása esetén.
+
+## Értelmező rendelkezések
+
+### 4. §
+
+E rendelet alkalmazásában
+
+a) *derogációs projekt:* a KEOP 1. Egészséges, tiszta települések prioritása keretében meghirdetett pályázati konstrukciókban a projekt megvalósítására vonatkozóan támogatási döntéssel rendelkező, a szennyvízkezelés, ivóvízminőség-javítás és a hulladékgazdálkodás területén önkormányzat által megvalósítandó beruházás;
+
+b) *elismerhető költség:* a Nemzeti Szabályozás az elszámolható költségekről, valamint a vonatkozó pályázati kiírás szerint a támogatási intenzitás számításakor figyelembe vehető költségkategóriákban felmerülő, a beruházáshoz kapcsolódó költségek;
+
+c)[^3] *kedvezményezett:* olyan önkormányzat, illetve jogi személyiségű önkormányzati társulás, amely derogációs projekt megvalósítására a támogató által adott támogatási döntéssel rendelkezik, és a projekt finanszírozásához a hitel-, illetve kötvényprogramját veszi igénybe;
+
+d)[^4] *támogató:* az államháztartásról szóló 2011. évi CXCV. törvény 48/A. § (1) bekezdése szerinti személy vagy a nevében eljáró közreműködő szervezet;
+
+e) *finanszírozó hitelintézet:* az a pénzügyi intézmény, amely az MFB-vel a hitelprogramban refinanszírozási keretmegállapodást kötött, illetve közvetlen hitelnyújtás esetén az MFB;
+
+f) *befektető:* az a pénzügyi intézmény, amely az MFB-vel a kötvényprogramban refinanszírozási keretmegállapodást kötött;
+
+g) *önrész:* a derogációs projektek elismerhető összes költségének a pályázat keretében elnyert vissza nem térítendő támogatással csökkentett része;
+
+h) *kamattámogatás:* a derogációs projekt elismerhető költségein belül elvárt megtérülő önrész finanszírozásához igénybe vett – az MFB által refinanszírozott vagy közvetlenül nyújtott – hitel, kibocsátott kötvény tőkeösszegére vetített 3 havi EURIBOR +1%/év, amely a hitelfolyósítás/kötvényjegyzés napjától a türelmi időre, de legfeljebb a hitelszerződés/kötvényjegyzés napjától számított 5 évre jár;
+
+i)–o)[^5]
+
+## A kamattámogatás igénybevételének általános szabályai
+
+### 5. §
+
+Az önkormányzat által kamattámogatás mellett kedvezményes kamatozással felvett hitel, illetve kibocsátott kötvény
+
+a) derogációs projektekre nyújtott uniós társfinanszírozású állami támogatások (a továbbiakban: támogatás) kedvezményezettjei által,
+
+b) az MFB által refinanszírozott hitel-, illetve kötvényprogram keretében vagy az MFB által közvetlenül nyújtott hitelprogramon keresztül,
+
+c) a támogató által a támogatási szerződésben rögzített, a beruházások elszámolható költségén belül elvárt megtérülő önrész finanszírozásához kapcsolódóan vehető igénybe.
+
+### 6. §
+
+A kedvezményezett csak a támogató által elfogadott kifizetési kérelmek alapján, a kamattámogatás alapjául szolgáló hitel összegéig, a türelmi idő alatt, de legfeljebb a hitelfolyósítás, illetve kötvényjegyzés napjától számított, a Korm. határozatban meghatározott időtartamig jogosult a kamattámogatás igénybevételére, és ezáltal a kedvezményes kamat fizetésére.
+
+## A kamattámogatással felvett kedvezményes kamatozású hitel igénybevételének szabályai
+
+### 7. §
+
+Hitelprogram igénybevétele esetén
+
+a) a kedvezményezett a szállító által kiállított, de még ki nem fizetett számlákat a hitelfolyósítási kérelemmel egyidejűleg benyújtja a finanszírozó hitelintézetnek, amely a benyújtott számlák önrészarányos részét átutalja a szállító részére,
+
+b) a kedvezményezett a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások fogadásához kapcsolódó pénzügyi lebonyolítási és ellenőrzési rendszerek kialakításáról szóló 281/2006. (XII. 23.) Korm. rendelet (a továbbiakban: pénzügyi rendelet) 19. § (4) bekezdésének *b)* pontja szerinti támogatásfolyósítás mellett a számlák hitelprogramból finanszírozható önrészarányos összegének szállító részére történő megfizetését igazoló, a pénzügyi rendelet 19. § (4) bekezdésének *a)* és *c)* pontjai szerinti támogatás folyósítása mellett a teljes számlaérték kifizetését igazoló dokumentum – különösen az átutalást igazoló bankszámlakivonat – hitelesített másolatával együtt kifizetési kérelmet nyújt be a támogató részére,
+
+c) a támogató a kifizetési kérelmet a pénzügyi rendelet 19–20. §-ának megfelelően ellenőrzi, és annak elfogadásáról, a jogosult támogatási összeg utalásáról tájékoztatja a kedvezményezettet,
+
+d) a kedvezményezett minden tárgynegyedév utolsó hónapjának 15. napjáig a kamattámogatás alapjául szolgáló hitel összegéről és az önrész finanszírozásához kapcsolódó kifizetési kérelmek támogató általi elfogadásáról, a kapcsolódó támogatás kifizetéséről nyilatkozik a finanszírozó hitelintézet és az MFB felé a *melléklet* szerint elkészített összesítő kimutatásban.
+
+### 8. §
+
+(1) A kamattámogatás igénybevételére a kedvezményezett a kifizetési kérelem támogatási részének támogató általi kifizetésének időpontját magában foglaló tárgynegyedév első napjától jogosult, de legfeljebb a hitelfolyósítás, illetve kötvénykibocsátás napjáig visszamenőleg, amennyiben a melléklet a tárgynegyedév utolsó hónapjának 15. napjáig a finanszírozó hitelintézet és az MFB részére megküldésre került.
+
+(2) Abban az esetben, ha a támogatás kifizetésére tárgynegyedévben kerül sor, de az erről szóló igazolás a tárgynegyedév utolsó hónapjának 15. napjáig a finanszírozó hitelintézet és az MFB részére nem került megküldésre, kamattámogatás csak az igazolás benyújtásának napját követő negyedév első napjától vehető igénybe.
+
+## A kamattámogatással kibocsátott kedvezményes kamatozású kötvény igénybevételének szabályai
+
+### 9. §
+
+(1) Kötvényprogram igénybevétele esetén kötvénykibocsátás csak a költségeket tartalmazó kifizetési kérelem támogató általi elfogadását és a jogosult támogatási összeg kifizetését követően lehetséges.
+
+(2) A kibocsátást megelőzően a kedvezményezett a kamattámogatás alapjául szolgáló kibocsátás összegéről és az önrész finanszírozásához kapcsolódó kifizetési kérelmek támogató általi elfogadásáról, a kapcsolódó támogatás kifizetéséről nyilatkozik a befektető és az MFB felé a melléklet szerint elkészített összesítő kimutatásban.
+
+(3) A kibocsátott kötvények össznévértéke nem haladhatja meg a támogató által elfogadott kifizetési kérelmek önrészének mértékét.
+
+(4) A kedvezményes kamatra való jogosultság kezdő időpontja a kötvény befektető általi lejegyzésének időpontja.
+
+(5) Kedvezményes kamatozású hitelnek kedvezményes kamatozású kötvénykibocsátással történő átfinanszírozása esetén a kamattámogatás szempontjából figyelembe vehető időszak a két finanszírozási konstrukció összességében nem haladhatja meg a türelmi időt, illetve a Korm. határozatban meghatározott időtartamot.
+
+## A kedvezményezett által igénybe vett kamattámogatás ellenőrzése
+
+### 10. §
+
+A kamattámogatással felvett kedvezményes kamatozású hitel-, illetve kibocsátott kötvény kedvezményezett általi rendeltetésszerű és a jogszabályoknak megfelelő felhasználását a támogató, az MFB, a finanszírozó hitelintézet, a befektető, továbbá jogszabályban erre feljogosított egyéb szervek ellenőrizhetik.
+
+### 11. §
+
+A kedvezményezett köteles az ellenőrzés során együttműködni, az ellenőrzés céljából a kedvezményes kamatozású forrással kapcsolatos nyilvántartásokat naprakészen és elkülönítetten vezetni és az ellenőrzéskor bemutatni.
+
+### 12. §
+
+Amennyiben a kedvezményezett támogatás visszafizetési kötelezettségének a derogációs projekt KEOP támogatási szerződésben foglalt feltételei bekövetkeznek, és a támogatás visszafizetését a támogató elrendeli, a kedvezményezett köteles a visszavont támogatással arányos kölcsön és az igénybe vett kamattámogatás összegét – kötvényprogram esetén a jegyzés napjára, míg hitelprogram esetén a kölcsönszerződés megkötésének napjára, kötvényprogram esetén a jegyzés napján, míg hitelprogram esetén a kölcsönszerződés megkötésének időpontjában érvényes jegybanki alapkamat kétszeresével növelt értékben – a fizetési felszólítás kézhezvételét követő 8 napon belül a finanszírozó hitelintézet, illetve a befektető részére visszamenőleg megfizetni.
+
+### 13. §
+
+Az MFB köteles a 10–12. §-ok rendelkezéseit a finanszírozó hitelintézetekkel és a befektetőkkel kötendő refinanszírozási szerződésekben, illetve közvetlen hitelnyújtás esetén az MFB által a kedvezményezettekkel létesítendő finanszírozási szerződésekben előírni.
+
+## A MFB-nek nyújtott kamattámogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének szabályai
+
+### 14. §
+
+(1)[^6] Az MFB a neki járó kamattámogatás összegét és annak alátámasztására elkészített összesítő kimutatást a tárgynegyedévet követő hónap 15. (tizenötödik) napjáig, első alkalommal 2008. július 15. napjáig megküldi a fejezetet irányító szerv részére. Az MFB-nek nincs kimutatási kötelezettsége a támogatóval szemben abban az esetben, ha nem áll fenn kamattámogatásra vonatkozó követelésállománya.
+
+(2) A támogató az összesítő kimutatásban szereplő pénzügyi adatokat az EMIR finanszírozási modul információival összeveti, eltérés esetén 8 napos határidő megadásával hiánypótlásra visszaküldi.
+
+(3)[^7] Az adategyeztetés alapján a támogató által jogosultnak ítélt kamattámogatás összegét a támogató a tárgynegyedévet követő hónap utolsó napjáig utalja az MFB által megadott fizetési számlára.
+
+### 15. §
+
+(1) A kamattámogatás forrásául szolgáló mindenkori költségvetési előirányzatra vállalt kötelezettség tárgyévet követő június 30-a után is kifizethető, tekintettel arra, hogy a kamattámogatás időtartama az egyedi ügyletek tekintetében a Korm. határozatban meghatározott többéves időszak, de a teljes hitel-, illetve kötvényprogram tekintetében 2018. december 31-ig tart.
+
+(2) A kamattámogatás lehívásának végső határideje: 2019. január 15-e.
+
+(3) Az MFB a tárgyévet követő évben neki járó kamattámogatás várható összegét a tárgyév szeptember hó 30. (harmincadik) napjáig tájékoztatásul közli a támogatóval.
+
+(4) Amennyiben bármelyik határnap nem munkanap, az ott megjelölt kötelezettségnek a határnapot követő legközelebbi munkanapon kell eleget tenni.
+
+### 16. §[^8]
+
+### 17. §
+
+A kamattámogatás rendeltetésszerű és a jogszabályoknak megfelelő felhasználását a támogató, továbbá jogszabályban erre feljogosított egyéb szervek ellenőrizhetik.
+
+### 18. §
+
+Az MFB köteles az ellenőrzést tűrni és együttműködni, az ellenőrzés céljából a kamattámogatással kapcsolatos nyilvántartásokat naprakészen és elkülönítetten vezetni és az ellenőrzéskor bemutatni.
+
+### 19. §[^9]
+
+Az utólagos ellenőrzések során az MFB hibájából jogtalannak ítélt kamattámogatás összegét az MFB köteles a folyósítás időpontjában érvényes jegybanki alapkamat kétszeresével növelt értékben a fizetési felszólítás kézhezvételét követő 8 napon belül a fejezetet irányító szervnek visszafizetni.
+
+### 20. §[^10]
+
+Amennyiben a hitel- és kötvényprogram igénybevétele esetén megállapítást nyer, hogy a kedvezményezett jogosulatlanul vette igénybe a kedvezményes kamatozású hitel-, illetve kötvénykonstrukciót, a jogosulatlan kamattámogatás összegéről a fejezetet irányító szerv haladéktalanul tájékoztatja a MFB-t, amely a 12. § alapján megteszi a szükséges lépéseket a kamattámogatás összegének visszafizetése érdekében. A finanszírozó hitelintézet, illetve a befektető által az MFB részére visszafizetett kamattámogatás összegét az MFB köteles a fejezetet irányító szerv részére visszafizetni.
+
+## Záró rendelkezések
+
+### 21. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+## Melléklet a 139/2008. (V. 16.) Korm. rendelethez
+
+Hitelfelvevő / Kibocsátó tölti ki!
+
+**Számlaösszesítő kimutatás és nyilatkozat**
+
+a KEOP derogációs projektek keretében benyújtott kifizetési kérelemhez kapcsolódó önrészének a „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogram és az Új Magyarország Önkormányzati Infrastruktúrafejlesztési Kötvényfinanszírozási Program keretében kedvezményes kamattal történő finanszírozásról
+
+***(Benyújtandó a finanszírozó hitelintézet vagy a befektető és az MFB Zrt. részére!)***
+
+**Hitelfelvevő/Kibocsátó (Kedvezményezett) megnevezése:**
+
+**Projekt KEOP azonosítószáma:**
+
+| **Ssz.** | **Számla-** **azonosító** | **Számla nettó értéke** **(Ft)** | **Áfa** **(Ft)** | **Számla bruttó értéke** **(Ft)** | **KEOP** **támogatás** **(Ft)** | **KEOP támogatás folyósításának időpontja** | **Egyéb forrás** **(Ft)** | ***ÖKIF hitel/** ****KÖFIP forrás** **(Ft)** |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | **Összesen:** |  |  |  |  |  |  |  |
+
+*A „Sikeres Magyarországért” Önkormányzati Infrastruktúrafejlesztési Hitelprogram keretében folyósított forrás mértéke
+
+**Az Új Magyarország Önkormányzati Infrastruktúrafejlesztési Kötvényfinanszírozási Program keretében folyósított forrás mértéke (KÖFIP)
+
+Kijelentem, hogy a fenti számlákat, bizonylatokat tartalmazó kifizetési kérelmet a támogató elfogadta és az alapján jogosult támogatási összeg kifizetése ezen kimutatásban megadott forrásösszetétel alapján történt.
+
+Kelt,…………………………………………
+
+............................................
+
+Kedvezményezett
+
+---
+
+[^1]: Az 1. § b) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 255/2011. (XII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § c) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § d) pontja az 549/2013. (XII. 30.) Korm. rendelet 54. § c) pontja, a 175/2015. (VII. 7.) Korm. rendelet 56. §-a szerint módosított szöveg.
+[^5]: A 4. § i)–o) pontját az 549/2013. (XII. 30.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
+[^6]: A 14. § (1) bekezdése az 549/2013. (XII. 30.) Korm. rendelet 54. § d) pontja szerint módosított szöveg.
+[^7]: A 14. § (3) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^8]: A 16. §-t az 549/2013. (XII. 30.) Korm. rendelet 55. § b) pontja hatályon kívül helyezte.
+[^9]: A 19. § az 549/2013. (XII. 30.) Korm. rendelet 54. § e) pontja szerint módosított szöveg.
+[^10]: A 20. § az 549/2013. (XII. 30.) Korm. rendelet 54. § f) pontja szerint módosított szöveg.

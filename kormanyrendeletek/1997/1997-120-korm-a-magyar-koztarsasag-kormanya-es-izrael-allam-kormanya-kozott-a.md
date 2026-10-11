@@ -1,0 +1,122 @@
+---
+title: "120/1997. (VII. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a műszaki együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "120/1997. (VII. 17.) Korm. rendelet"
+njt_id: "1997-120-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/120"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-07-17
+in_force_from: 1997-07-17
+last_amended: 1997-07-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-120-20-22"
+retrieved: 2026-10-12
+---
+
+# 120/1997. (VII. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a műszaki együttműködésről szóló Megállapodás kihirdetéséről
+
+*(A Megállapodás 11. Cikkében előírt diplomáciai jegyzékváltás 1997. május hó 13. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a műszaki együttműködésről szóló, Jeruzsálemben, 1997. január 6-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+„**,,Megállapodás**\
+**a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a műszaki együttműködésről**
+
+A Magyar Köztársaság Kormánya és Izrael Állam Kormánya (a továbbiakban: Szerződő Felek)
+
+attól az óhajtól vezetve, hogy a két ország közötti műszaki együttműködést előmozdítsák és erősítsék,
+
+felismerve kölcsönös érdekeiket a tudomány és az oktatás tapasztalatainak kicserélésében,
+
+egyetértettek, hogy megkötik az alábbi Megállapodást:
+
+*1. Cikk*
+
+A Szerződő Felek lehetőségeikhez képest a jelen Megállapodás 2. Cikkében leírt különféle területeken és bármely olyan területen, amit mindkét Kormány megfelelőnek és kölcsönösen elfogadhatónak ítél, az együttműködésre és segítségnyújtásra törekszenek.
+
+A jelen Megállapodás végrehajtásáért felelős szervek a Magyar Köztársaság Kormánya részéről a Külügyminisztérium, míg Izrael Állam Kormánya részéről a Külügyminisztérium Nemzetközi Együttműködési Központja (a MASHAV).
+
+*2. Cikk*
+
+Forráskihasználásuk előmozdítására irányuló szándékaik további elősegítése és a két ország népei jólétének gyarapítása érdekében a Szerződő Felek a következő műszaki területeken működnek együtt:
+
+*a)* a műszaki, igazgatási és társadalomtudományi képzést nyújtó intézmények támogatásában a magasan képzett munkaerő iránti növekvő igény kielégítése céljából, a modern technológiák bővítésében és elterjesztésében, beleértve a termelési és vezetési módszereket, a társadalmi és közösségi szolgáltatások növekedésének és fejlesztésének bátorításában;
+
+*b)* a föld, a tőke és az emberi erő forrásai hasznosítására szolgáló beruházások és programok tervezésében, fejlesztésében és alkalmazásában az agrárágazatban;
+
+*c)* fejlesztési tervek kezdeményezésében és bevezetésében a szövetkezeti ágazatban a vezetés területén, a képzés és oktatás támogatásában ezeken a területeken;
+
+*d)* tapasztalatcserében a környezetvédelmi gyakorlat terén;
+
+*e)* a képzés támogatásában és a tanácsadásban az egészségügy és az orvostudomány területén;
+
+*f)* tapasztalatcserében a vízkészletek és öntözési rendszerek tervezése, fejlesztése és üzemeltetése terén.
+
+*3. Cikk*
+
+A műszaki együttműködés a következő tevékenységeken keresztül valósul meg:
+
+*a)* tanácsadók, konzultánsok, technikusok és szakemberek cseréje;
+
+*b)* bármelyik országnak fejlődése irányában tett erőfeszítései által igényelt képzési lehetőségek biztosítása (úgy elméleti mint gyakorlati);
+
+*c)* a Magyar Köztársaság Kormányának kérésére Izrael Állam Kormánya erőfeszítést tesz tanfolyamok támogatásának, szervezésének és vezetésének elősegítésére Magyarországon, az erre kijelölt személyek számára;
+
+*d)* a műszaki együttműködés olyan egyéb formái, amit a Szerződő Felek szükségesnek tartanak, és amelyekben megállapodnak.
+
+*4. Cikk*
+
+Az Izrael Állammal való együttműködési programból a Magyar Köztársaság népe javának legmesszebb menő biztosítására a szolgáltatások, áruk, felszerelések, berendezések, vagy a Magyarországon az Izrael Állammal való együttműködési programmal kapcsolatban használt egyéb vagyontárgyak minden vám, illeték, díj, import- és exportadó, a beszerzést és ajándékozást terhelő adó, illetve egyéb adó vagy hasonló fizetési kötelezettség alól mentesen hozhatók be, vihetők ki, vásárolhatók meg, használhatók fel, vagy adományozhatók magyarországi szervezeteknek.
+
+*5. Cikk*
+
+A Szerződő Felek együttműködési programban szerződéses vagy munkavállalói viszonyban álló valamennyi személyei és ezek családtagjai, kivéve a másik Szerződő Fél állampolgárait vagy állandó lakosait, továbbá a program végrehajtásáért felelős köz- vagy magánszervezetek, akik a másik Szerződő Fél területén az együttműködési programmal kapcsolatos munkák elvégzése céljából tartózkodnak, mentesek:
+
+*a)* a vízumdíjak és tartózkodási engedély díjak alól, valamint a vízum és tartózkodási engedély iránti folyamodás személyes kötelezettsége alól;
+
+*b)* az együttműködési programból származó jövedelemre a másik Szerződő Fél jogszabályai alapján kivetett valamennyi adó alól;
+
+*c)* a másik Szerződő Fél területére az önmaguk és családtagjaik személyes használatára behozott személyes tárgyaik és háztartási cikkeik minden díj, vám, importadó vagy egyéb hasonló adó és fizetési kötelezettsége alól a megérkezésüktől számított 6 hónapos időszakon belül. Az így behozott személyes tárgyakat és háztartási cikkeket végleges távozáskor külföldre vissza kell szállítani.
+
+*6. Cikk*
+
+A Szerződő Felek alkalmazottai és ezek családtagjai – kivéve a másik Szerződő Fél állampolgárait vagy állandó lakosait –, akik a másik Szerződő Fél területén az együttműködési programmal kapcsolatos munkák elvégzése céljából tartózkodnak, a Diplomáciai Kapcsolatokról szóló Bécsi Szerződés alapján az igazgatási és műszaki személyzet jogállását élvezik.
+
+*7. Cikk*
+
+A Szerződő Felek fenntartják maguknak a jogot, hogy a küldő Kormánnyal való konzultációt követően bármely olyan személy visszahívását kérelmezzék, akinek munkája vagy magatartása nem kielégítő. A küldő Kormány fenntartja magának a jogot arra, hogy ésszerű értesítés mellett bármelyik személyt bármikor visszahívja.
+
+*8. Cikk*
+
+A jelen Megállapodás keretein belül a Szerződő Felek különmegállapodásokat köthetnek.
+
+*9. Cikk*
+
+A jelen Megállapodás alkalmazásával kapcsolatban felmerülő bármely vita esetén a Szerződő Felek illetékes szervei a baráti megoldás szem előtt tartásával konzultációkat folytatnak.
+
+*10. Cikk*
+
+A jelen Megállapodás a 11. Cikkben leírt eljárás szerint, a Szerződő Felek kölcsönös egyetértésével időről időre módosítható.
+
+*11. Cikk*
+
+A jelen Megállapodás azon a napon lép hatályba, melyen a Szerződő Felek diplomáciai úton, írásban értesítik egymást, hogy eleget tettek a hatálybalépéshez szükséges belső követelményeiknek. A Megállapodás ettől a naptól számított 5 évig marad hatályban, kivéve, ha a Szerződő Felek bármelyike diplomáciai úton eljuttatott írásbeli értesítéssel 6 hónapos határidővel felmondja azt. A továbbiakban a felmondásról szóló ilyen értesítés hiányában a Megállapodás további 3-3 éves időszakokra újul meg automatikusan.
+
+Készült Jeruzsálemben, 1997. január hó 6. napján, amely az 5757. év Tevet hava 27. napjának felel meg, két eredeti példányban, magyar, héber és angol nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya\
+nevében
+
+Izrael Állam Kormánya\
+nevében''”
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. május hó 13. napjától kell alkalmazni.

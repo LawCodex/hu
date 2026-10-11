@@ -1,0 +1,335 @@
+---
+title: "164/2002. (VIII. 2.) Korm. rendelet az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről"
+identifier: "164/2002. (VIII. 2.) Korm. rendelet"
+njt_id: "2002-164-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/164"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-08-02
+in_force_from: 2009-10-01
+last_amended: 2022-11-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-164-20-22"
+retrieved: 2026-10-12
+---
+
+# 164/2002. (VIII. 2.) Korm. rendelet az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről
+
+A honvédelemről szóló 1993. évi CX. törvény (a továbbiakban: Hvt.) 260. §-ának i) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet hatálya kiterjed az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja, valamint az Észak-atlanti Szerződés Szervezete által finanszírozott egyéb programok (a továbbiakban együtt: NSIP) keretében kiírásra kerülő pályázatokon (a továbbiakban: beszerzési eljárásokban) részt venni kívánó magyarországi székhelyű, a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontjában felsorolt szervezetekre, továbbá a felsőoktatási intézményekre és a kutatóintézetekre (a továbbiakban együtt: gazdálkodó szervezetek), valamint az értékelési eljárásban résztvevőkre.
+
+### 2. §[^2]
+
+E rendelet az NSIP keretében meghirdetett beszerzési eljárásokon való részvétel feltételeként az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) által megszabott, a részt vevő magyarországi székhelyű gazdálkodó szervezetek szakmai és gazdasági megfelelőségét (a továbbiakban: szakmai és gazdasági megfelelőség) tanúsító „NATO Beszállításra Alkalmas” határozat kiadását szolgáló értékelési eljárás rendjét, illetve az NSIP keretében kiírt beszerzési eljárásokra való jelentkezés feltételeit szabályozza.
+
+### 3. §[^3]
+
+Az értékelési eljárásra az általános közigazgatási rendtartásról szóló törvényt[^4] kell alkalmazni.
+
+### 4. §
+
+(1)[^5] Az értékelési eljárásban benyújtott kérelmekről a honvédelemért felelős miniszter dönt. A honvédelemért felelős miniszter az értékelési eljárás során kikéri a Biztonsági Beruházási Bizottság (a továbbiakban: BBB) véleményét. A BBB feladata a 2. § szerinti határozatok megszerzéséhez szükséges feltételrendszer kidolgozása és a kérelmek előzetes értékelése.
+
+(2)[^6] A BBB összetétele:
+
+a)[^7] a BBB elnöke a honvédelemért felelős miniszter által kijelölt szakmai felsővezető;
+
+b)[^8] a BBB tagjai
+
+ba) a közbeszerzésekért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+bb) az e-közigazgatásért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+bc) az igazságügyért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+bd) a külgazdasági ügyekért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+be) a belgazdaságért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+bf) az agrárpolitikáért felelős miniszter által vezetett minisztérium kijelölt állami vezetője,
+
+bg) az állami infrastruktúra-beruházásokért felelős miniszter által vezetett minisztérium kijelölt állami vezetője, valamint
+
+bh) a Nemzeti Biztonsági Felügyelet elnöke.
+
+(3) A BBB működési rendjét a BBB Szervezeti és Működési Szabályzata határozza meg.
+
+(4)[^9] A BBB titkársági feladatait a honvédelemért felelős miniszter által vezetett minisztérium NSIP feladatok végrehajtását koordináló szervezete a BBB Titkárság (a továbbiakban: Titkárság) látja el.
+
+### 5. §
+
+(1) A BBB meghatározza
+
+a)[^10] a ,,NATO Beszállításra Alkalmas'' határozat megszerzésének feltételeit;
+
+b)[^11] az értékelési eljárás megindításához szükséges pályázati dokumentáció – amely tartalmazza az *a)* pontjában foglaltakat – ellenértékét;
+
+c) az éves adatszolgáltatás tartalmát, továbbá a szükség esetén előírt pótlólagos feltételeket;
+
+d) az éves adatszolgáltatási kötelezettség teljesítéséhez szükséges dokumentáció ellenértékét.
+
+(2)[^12] Az (1) bekezdés a) és c) pontjában meghatározott feltételeket a BBB minden évben pályázati dokumentációban rögzíti.
+
+(3)[^13] Az (1) bekezdésben felsoroltakat a Titkárság minden év január 1-jét követő első munkanapján a NATO Beszállítói Információs Honlapon teszi közzé, amelynek elérhetőségéről a BBB dönt. A NATO Beszállítói Információs Honlap elérhetőséghez kapcsolódó döntésről a BBB két országos terjesztésű napilapban hirdetményt tesz közzé. A honlapon közzétett adatok a Titkárságon nyomtatott formában is átvehetők.
+
+(4)[^14] A pályázati és az adatszolgáltatási dokumentáció ellenértéke fedezi
+
+a) a határozatok megszerzése feltételeinek összeállításához és közzétételéhez,
+
+b) az éves adatszolgáltatás tartalmának, a pótlólagos feltételeknek az összeállításához és közzétételéhez,
+
+c)[^15] az értékelési eljárást végzők nyilvántartási és értesítési kötelezettségeinek teljesítéséhez, megbízási díjához,
+
+d)[^16] a NATO Beszállítói Információs Honlap működtetéséhez, üzemeltetéséhez és fejlesztéséhez
+
+szükséges költségeket.
+
+(5) Az azonos naptári évben benyújtott, az értékelési eljárás lefolytatására vonatkozó kérelmekre (a továbbiakban: kérelem) az adott évben közzétett feltételek vonatkoznak az értékelés idejétől függetlenül.
+
+(6)[^17] A pályázati és az adatszolgáltatási dokumentációk ellenértékével a BBB rendelkezik, azt a kérelmek értékelésében közreműködök között költségeik arányában osztja fel. A pályázati és az adatszolgáltatási dokumentációk ellenértékét a Titkárság által meghatározott számlaszámra kell befizetni, amelyet a Titkárság kezel.
+
+(7) Pótlólagos feltételek előírására akkor kerül sor, ha jogszabály vagy a NATO olyan alkalmassági feltételeket követel meg, amelyeket a már határozattal rendelkező gazdálkodó szervezetek értékelési eljárásában még nem vettek figyelembe, de azokat a tárgyévi feltételek már tartalmazzák, és amelyek az éves adatszolgáltatási kötelezettség körébe nem vonhatók.
+
+### 6. §
+
+(1)[^18] A BBB az 5. § (1) bekezdés a) pontja szerinti minősítésnek való megfelelés feltételeit különösen az alábbi szempontok szerinti adatok, információk előírásával határozza meg:
+
+a) a gazdálkodó szervezet pénzügyi, gazdasági helyzete;
+
+b) a gazdálkodó szervezet szakmai felkészültsége, tevékenysége, műszaki-technikai felszereltsége, személyi állománya;
+
+c)[^19] a gazdálkodó szervezet ISO és AQAP akkreditált minőségbiztosítási rendszere;
+
+d) a gazdálkodó szervezet referenciái.
+
+(2) A BBB az előző bekezdésben foglaltak közül egy- vagy többfajta feltételt is előírhat.
+
+(3)[^20] A kérelem összeállításának formai és tartalmi követelményeit a pályázati dokumentáció tartalmazza.
+
+(4)[^21]
+
+## A szakmai és gazdasági alkalmasságra vonatkozó értékelési eljárás
+
+### 7. §
+
+Az értékelés a gazdálkodó szervezet szakmai, gazdasági megfelelőségére vonatkozik.
+
+### 8. §[^22]
+
+A kérelmet a gazdálkodó szervezet a közzététel évében meghatározott feltételeknek megfelelően, az 5. § (1) bekezdésének b) pontja szerinti összeg befizetésének egyidejű igazolásával, a közzététel évének november 30. napjáig a honvédelemért felelős miniszterhez nyújthatja be.
+
+### 8/A. §[^23]
+
+A 8. §-ban foglaltaktól eltérően az a gazdálkodó szervezet, amely rendelkezik hatályos „NATO Beszállításra Alkalmas” határozattal és tevékenységi körének, gazdasági helyzetének megváltozása nélkül társasági formát vált, a kérelmet térítésmentesen nyújthatja be és a közzététel évében meghatározott feltételeknek nem kell megfelelnie. Ez esetben a gazdálkodó szervezet a kérelemhez olyan nyilatkozatot csatol, amelyben kijelenti, hogy a hatályos „NATO Beszállításra Alkalmas” határozat megszerzésének feltételeként előírt körülményekben változás nem következett be. A kérelem benyújtásának határideje a cégbejegyzés időpontjától számított három hónap, amely határidő elmulasztása miatt igazolásnak nincs helye.
+
+### 8/B. §[^24]
+
+A 8. §-ban foglaltaktól eltérően annak a szétválással vagy egyesüléssel létrejövő új, jogutód gazdálkodó szervezetnek, amelynek jogelődjei közül az átalakuláskor legalább az egyik rendelkezett hatályos „NATO Beszállításra Alkalmas” határozattal, a közzététel évében meghatározott feltételeknek nem kell megfelelnie. A kérelem benyújtásának határideje a cégbejegyzés időpontjától számított három hónap, amely határidő elmulasztása esetén igazolásnak nincs helye.
+
+### 8/C. §[^25]
+
+A 8/B. § szerinti kérelem alapján helyszíni szemle kerül megtartásra, melynek célja az adott évi adatszolgáltatási követelményeknek való megfelelés megállapítása. Ez esetben a 9. § (1) és (2) bekezdését nem kell alkalmazni.
+
+### 9. §[^26]
+
+(1) A kérelmek szakmai és gazdasági értékelését a BBB tagok által javasolt szakértők végzik.
+
+(2) A Titkárság által előkészített javaslat alapján a kérelmek szakértők közötti elosztásáról a BBB dönt.
+
+(3) A BBB döntését követően a BBB elnöke a BBB Titkársági feladatait ellátó szervezet képviseletében megbízási szerződéseket köt a szakértőkkel.
+
+### 11. §[^28]
+
+(1)[^29] A honvédelemért felelős miniszter által kiadott „NATO Beszállításra Alkalmas” határozattal rendelkező gazdálkodó szervezet olyan beszerzési eljárásokon vehet részt, amelyek minősített NATO adatokhoz való hozzáférést nem foglalnak magukban. A határozat visszavonásig hatályos.
+
+(2)[^30] A honvédelemért felelős miniszter elutasító határozatot hoz, amennyiben a gazdálkodó szervezet az értékelési szempontoknak nem felelt meg.
+
+## Éves adatszolgáltatási kötelezettség
+
+### 13. §
+
+(1)[^32] Az adatszolgáltatási tárgyévben június 30-ig a szakmai és gazdasági alkalmasságot megállapító határozattal rendelkező gazdálkodó szervezet az 5. § (1) bekezdésének c) pontja szerinti meghatározott adatokat az 5. § (1) bekezdésének d) pontja szerinti összeg befizetésének igazolásával együtt juttatja el a honvédelemért felelős miniszterhez. A határidő elmulasztása miatt igazolásnak nincs helye.
+
+(2)[^33] Amennyiben az adatszolgáltatás nem megfelelő tartalommal készült, a honvédelemért felelős miniszter felhívja a gazdálkodó szervezetet a hiányok pótlására.
+
+(3)[^34]
+
+(4)[^35] A honvédelemért felelős miniszter a „NATO Beszállításra Alkalmas” határozatot visszavonja, ha
+
+a)[^36]
+
+b) a gazdálkodó szervezet az (1) bekezdés szerinti határidőt elmulasztotta,
+
+c)[^37]
+
+(5)[^38]
+
+(6) Az e §-ban meghatározott eljárásra egyebekben a 9. és 16. § rendelkezései az irányadók.
+
+## A szakmai, gazdasági alkalmasságra vonatkozó értékelési eljárás közös szabályai[^41]
+
+### 16. §
+
+(1)[^42] A szakmai, gazdasági alkalmasságra vonatkozó értékelési eljárás alatt szükség esetén kiegészítő helyszíni szemlére is sor kerülhet. A helyszíni szemle célja a szakmai és gazdasági alkalmasságra vonatkozó értékelés teljes körű megalapozása, a pályázatban szereplő és a helyszíni adatok összehasonlítása, valamint az értékeléshez szükséges további információk szerzése.
+
+(2)[^43] A helyszíni szemle értesítés után, munkaidőben történik.
+
+(3)[^44] A helyszíni szemléről jegyzőkönyv készül, amely tartalmazza a helyszíni szemle helyét, idejét, célját és eredményét.
+
+### 17. §[^45]
+
+A kérelem elutasítása esetén a kérelmező minden év Pályázati Dokumentációjában meghatározott időtartamon belül új kérelmet nyújthat be a honvédelemért felelős miniszterhez.
+
+### 18. §[^46]
+
+A határozatot a honvédelemért felelős miniszter visszavonja, ha a gazdálkodó szervezet
+
+a) a szakmai és gazdasági vagy az iparbiztonsági alkalmasságra vonatkozó értékelési eljárás megindításához, illetve az éves adatszolgáltatási kötelezettséghez szükséges valótlan adatot, jogosultságot, körülményt közöl,
+
+b)[^47] az ellene megindított csőd-, felszámolási, végelszámolási eljárás vagy átalakulásának kezdeményezése megindításáról, továbbá az éves adatszolgáltatási kötelezettséghez szükséges adat, jogosultság, tény változásról a Titkárságot 10 napon belül nem értesíti. E határidő elmulasztása esetén igazolásnak nincs helye.
+
+## A határozat felfüggesztése[^49]
+
+### 20. §[^50]
+
+(1) Ha a honvédelemért felelős miniszter a gazdálkodó szervezettel kapcsolatos olyan információról szerez tudomást, amely a gazdálkodó szervezet szakmai vagy gazdasági alkalmasságát megkérdőjelezi, felhívja a gazdálkodó szervezetet, hogy a felhívás kézhezvételét követő 15 napon belül közölje az információval kapcsolatos álláspontját. Ha az információ hiteles, és a gazdálkodó szervezet a helyzetét nem tisztázza, a honvédelemért felelős miniszter a határozatot felfüggeszti.
+
+(2) A határozat felfüggesztésével egyidejűleg a honvédelemért felelős miniszter határidőt állapít meg a gazdálkodó szervezet részére a felfüggesztés indokául szolgáló állapot megszüntetésére. E határidő jogszabály eltérő rendelkezése hiányában a három hónapot nem haladhatja meg.
+
+(3) A felfüggesztés hatálya addig tart, amíg a gazdálkodó szervezet a felfüggesztés alapjául szolgáló indokot meg nem szünteti. A határidő eredménytelen eltelte esetén a honvédelemért felelős miniszter a határozatot visszavonja.
+
+(4) Az (1) bekezdés szerinti felfüggesztés indoka különösen a gazdálkodó szervezet pénzügyi vagyoni helyzetét, belső struktúráját, tevékenységét érintő, illetve bármely olyan változás lehet, amely a gazdálkodó szervezet alkalmasságát kétségessé teszi.
+
+### 21. §[^51]
+
+(1) Ha a gazdálkodó szervezet tárgyévi adatszolgáltatásának értékelése alapján a honvédemért felelős miniszter a gazdálkodó szervezet szakmai vagy gazdasági alkalmatlanságát állapítja meg, a honvédelmért felelős miniszter a határozatot a következő adatszolgáltatási időszak végéig felfüggeszti.
+
+(2) Ha a honvédelemért felelős miniszter az (1) bekezdés alapján felfüggesztett határozattal rendelkező gazdálkodó szervezetnek a felfüggesztést követő éves adatszolgáltatásának értékelése alapján újbóli szakmai vagy gazdasági alkalmatlanságát állapítja meg, a gazdálkodó szervezet határozatát visszavonja.
+
+### 21/A. §[^52]
+
+A 20. és a 21. § szerinti felfüggesztés hatálya alatt a gazdálkodó szervezet az NSIP keretében kiírásra kerülő beszerzési eljárásokon nem vehet részt.
+
+## Hatósági bizonyítvány és nyilvántartás[^53]
+
+### 22. §
+
+(1)[^54] Ha nem NSIP pályázaton kívánja a gazdálkodó szervezet a határozatot felhasználni, kérelmezheti a honvédelemért felelős miniszternél a határozat meglétére vonatkozó hatósági bizonyítvány kiállítását.
+
+(2)[^55] A honvédelemért felelős miniszter a hatósági bizonyítványt a kérelem beérkezését követő naptól számított nyolc napon belül kiállítja.
+
+### 23. §[^56]
+
+(1) A honvédelemért felelős miniszter nyilvántartást vezet a „NATO Beszállításra Alkalmas” határozattal, a NATO minősített adatok kezelésére jogosító telephely biztonsági tanúsítvánnyal, valamint az azok alapján kiállított megfelelőségi tanúsítvánnyal (Declaration of Eligibility) rendelkező gazdálkodó szervezetekről.
+
+(2) A nyilvántartás tartalmazza
+
+a) a gazdálkodó szervezet nevét, rövidített nevét, székhelyét, telephelyét,
+
+b) a szakmai, gazdasági alkalmasságra vonatkozó értékelési eljárás elrendelésének és megszüntetésének, a „NATO Beszállításra Alkalmas” határozat meghozatalának, visszavonásának időpontját,
+
+c) a 13. § szerinti hatósági ellenőrzés megtörténtét,
+
+d) a „Minősített NATO Beszállításra Alkalmas” határozat visszavonásának időpontját, valamint
+
+e) a telephely biztonsági tanúsítvány kiadásának időpontját, időbeli hatályát, szintjét, valamint a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló kormányrendeletben meghatározott Engedély és az elektronikus biztonság részletes szabályairól szóló kormányrendelet által előírt Rendszerengedély szintjét.
+
+(3) A honvédelemért felelős miniszter szükség esetén kiállítja és a NATO felé megküldi a megfelelőségi tanúsítványt. A (2) bekezdésben meghatározott adatokat a honvédelemért felelős miniszter a „NATO Beszállításra Alkalmas” határozat vagy a telephely biztonsági tanúsítvány érvényességének, időbeli hatályának időtartama alatt és a visszavonást követő 5 évig kezeli, ezt követően a nyilvántartásából törli.
+
+(4) A nyilvántartásban szereplő gazdálkodó szervezetek jegyzékét a honvédelemért felelős miniszter a nyilvántartás adataiban bekövetkezett változás esetén, de évente legalább egy alkalommal megküldi a NATO, valamint a NATO-tagállamok érintett szervezeteinek.
+
+## Záró rendelkezések
+
+### 25. §[^58]
+
+A „NATO Beszállításra Alkalmas” határozattal rendelkező gazdálkodó szervezetek kizárólag e rendelet *mellékletében* szereplő emblémákat használhatják üzleti, hivatalos vagy egyéb kapcsolataikban, a határozatok visszavonásáig.
+
+### 26. §
+
+(1) Ez a rendelet – a 24. és 25. §-a kivételével – 2002. október 30. napján lép hatályba.
+
+(2) A rendelet 24. és 25. §-a a kihirdetését követő 8. napon lép hatályba.
+
+### 28. §[^60]
+
+A 27. § 2011. október 1-jén hatályát veszti.
+
+### 29. §[^61]
+
+Az Észak-atlanti Szerződés Szervezete Biztonsági Beruházási Programja keretében kiírásra kerülő pályázatokon való részvételi jogosultság feltételeiről, a jogosultság megszerzésével kapcsolatos eljárás szabályairól és az eljáró szervezetről szóló 164/2002. (VIII. 2.) Korm. rendelet módosításáról szóló 133/2014. (IV. 18.) Korm. rendelettel (a továbbiakban: Kr.) megállapított 9. §-t és 10. § (3) bekezdést a Kr. hatálybalépését[^62] megelőzően benyújtott, értékelés előtt álló kérelmek vonatkozásában is alkalmazni kell.
+
+### 30. §[^63]
+
+Ha a honvédelemért felelős miniszter az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## Melléklet a 164/2002. (VIII. 2.) Korm. rendelethez[^64]
+
+![](https://njt.jog.gov.hu/picture/a7/a7c42002_22__20000164A561_007_0.jpg)
+
+![](https://njt.jog.gov.hu/picture/7a/7a922002_22__20000164A561_007_1.jpg)
+
+---
+
+[^1]: Az 1. § a 117/2007. (V. 31.) Korm. rendelet 1. §-ával megállapított, a 409/2022. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 40/2005. (III. 10.) Korm. rendelet 31. §-ának (2) bekezdésével megállapított, a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 3. § a 40/2005. (III. 10.) Korm. rendelet 31. §-ának (3) bekezdésével megállapított, a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése, a 457/2017. (XII. 28.) Korm. rendelet 115. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^4]: Lásd a 2004: CXL. törvényt.
+[^5]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 4. § (2) bekezdés a) pontja a 409/2022. (X. 24.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdés b) pontja a 197/2015. (VII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (2) bekezdésével megállapított, a 409/2022. (X. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^10]: Az 5. § (1) bekezdés a) pontja a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdésének b) pontja a 117/2007. (V. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (2) bekezdése a 117/2007. (V. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (3) bekezdése a 117/2007. (V. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (4) bekezdésének bevezető szövege a 117/2007. (V. 31.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (4) bekezdés c) pontja a 8/2011. (II. 11.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^16]: Az 5. § (4) bekezdésének d) pontját a 117/2007. (V. 31.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^17]: Az 5. § (6) bekezdése a 117/2007. (V. 31.) Korm. rendelet 3. § (6) bekezdésével megállapított szöveg.
+[^18]: A 6. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint, a 92/2010. (III. 31.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 6. § (1) bekezdésének c) pontja a 182/2009. (IX. 10.) Korm. rendelet 277. § (3) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^20]: A 6. § (3) bekezdése a 117/2007. (V. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^21]: A 6. § (4) bekezdését a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése hatályon kívül helyezte.
+[^22]: A 8. § a 117/2007. (V. 31.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 278. §-a, a 477/2016. (XII. 27.) Korm. rendelet 24. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^23]: A 8/A. §-t a 8/2011. (II. 11.) Korm. rendelet 16. §-a iktatta be.
+[^24]: A 8/B. §-t a 8/2011. (II. 11.) Korm. rendelet 16. §-a iktatta be.
+[^25]: A 8/C. §-t a 8/2011. (II. 11.) Korm. rendelet 16. §-a iktatta be.
+[^26]: A 9. § a 133/2014. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^28]: A 11. § a 117/2007. (V. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^29]: A 11. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: A 11. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278–279. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 13. § (1) bekezdése a 117/2007. (V. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 278. §-a, a 8/2011. (II. 11.) Korm. rendelet 19. § d) pontja, a 477/2016. (XII. 27.) Korm. rendelet 24. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^33]: A 13. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 13. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 45. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^35]: A 13. § (4) bekezdésének bevezető szövege a 117/2007. (V. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^36]: A 13. § (4) bekezdés a) pontját a 197/2015. (VII. 21.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^37]: A 13. § (4) bekezdésének c) pontját a 182/2009. (IX. 10.) Korm. rendelet 279. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 13. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 279. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^41]: A 16. §-t megelőző alcím a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^42]: A 16. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A 16. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^44]: A 16. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^45]: A 17. § a 182/2009. (IX. 10.) Korm. rendelet 277. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^46]: A 18. § a 117/2007. (V. 31.) Korm. rendelet 12. §-ával megállapított, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^47]: A 18. § b) pontja a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^49]: A 20. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 277. § (8) bekezdése iktatta be.
+[^50]: A 20. § a 197/2015. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^51]: A 21. § a 197/2015. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^52]: A 21/A. §-t a 197/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^53]: A 22. §-t megelőző alcímet a 182/2009. (IX. 10.) Korm. rendelet 277. § (9) bekezdése iktatta be.
+[^54]: A 22. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 278. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 22. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 277. § (10) bekezdésével megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (34) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^56]: A 23. § a 8/2011. (II. 11.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^58]: A 25. § a 117/2007. (V. 31.) Korm. rendelet 13. § (1) bekezdése, a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^60]: A 28. §-t a 8/2011. (II. 11.) Korm. rendelet 18. §-a iktatta be.
+[^61]: A 29. §-t a 133/2014. (IV. 18.) Korm. rendelet 3. §-a iktatta be.
+[^62]: A hatálybalépés napja: 2014. április 19.
+[^63]: A 30. §-t a 477/2016. (XII. 27.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^64]: A melléklet a 129/2003. (VIII. 22.) Korm. rendelet 1. §-a szerint kiegészített, a 92/2010. (III. 31.) Korm. rendelet 20. § (1) bekezdése szerint módosított szöveg.

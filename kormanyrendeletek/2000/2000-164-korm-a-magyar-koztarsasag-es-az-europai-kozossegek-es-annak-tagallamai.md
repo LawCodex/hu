@@ -1,0 +1,140 @@
+---
+title: "164/2000. (IX. 22.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 3/2000. számú, a Magyar Köztársaságnak a ,,Fiatalok\\'\\' (,,Ifjúság 2000–2006\\'\\') közösségi akcióprogramban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről"
+identifier: "164/2000. (IX. 22.) Korm. rendelet"
+njt_id: "2000-164-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/164"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-09-22
+in_force_from: 2000-09-22
+last_amended: 2000-09-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-164-20-22"
+retrieved: 2026-10-12
+---
+
+# 164/2000. (IX. 22.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 3/2000. számú, a Magyar Köztársaságnak a ,,Fiatalok\'\' (,,Ifjúság 2000–2006\'\') közösségi akcióprogramban történő részvétele módozatainak és feltételeinek elfogadásáról szóló határozata kihirdetéséről
+
+## 1. §
+
+A Kormány – a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 4. §-ának *c)* pontjában kapott felhatalmazás alapján – e rendelettel kihirdeti a Magyar Köztársaság és az Európai Közösségek és annak tagállamai közötti Társulási Tanács 3/2000. számú, a Magyar Köztársaságnak a ,,Fiatalok'' közösségi akcióprogramban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozatát (a továbbiakban: határozat).
+
+## 2. §
+
+A határozat magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság és az Európai Közösségek,\
+és annak tagállamai közötti Társulási Tanács\
+3/2000. számú határozata\
+a Magyar Köztársaságnak a ,,Fiatalok'' közösségi akcióprogramban történő részvétele módozatainak\
+és feltételeinek elfogadásáról
+
+A Társulási Tanács
+
+figyelembe véve az Európai Közösségek és azok tagállamai és a Magyar Köztársaság közötti Európai Megállapodásnak a közösségi programokban való magyar részvételről szóló Kiegészítő Jegyzőkönyvét, különösen annak 1. és 2. Cikkét,[^1]
+
+tekintettel arra, hogy
+
+(1) a Kiegészítő Jegyzőkönyv 1. Cikke értelmében Magyarország részt vehet a közösségi keretprogramokban, speciális programokban, projektumokban és egyéb közösségi akciókban, nevezetesen az ifjúsági területen,
+
+(2) a Kiegészítő Jegyzőkönyv 2. Cikke értelmében Magyarország részvételének feltételeiről és módozatairól a Társulási Tanács dönt,
+
+(3) az Európai Közösségek és azok tagállamai és a Magyar Köztársaság közötti Társulási Tanács 1997. augusztus 4-i, 1/97. számú határozata alapján[^2] Magyarország 1997. szeptember 1-je óta részt vesz a ,,Fiatalok Európáért'' programban, továbbá kifejezte azon óhaját, hogy részt vegyen az új ,,Fiatalok'' programban
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+Magyarország részt vesz a ,,Fiatalok'' közösségi akcióprogramban (a továbbiakban: ,,Fiatalok'' program), az e határozat szerves részét képező 1. és 2. számú mellékletben meghatározott módozatok és feltételek szerint.
+
+*2. Cikk*
+
+E határozat 2000. január 1-jével kezdődően, a Fiatalok program időtartamára marad hatályban.
+
+*3. Cikk*
+
+E határozat a Társulási Tanács által történt elfogadásának napján lép hatályba.
+
+*1. számú melléklet*
+
+A Magyar Köztársaságnak a ,,Fiatalok'' programban történő részvételét meghatározó\
+módozatok és feltételek
+
+1\. Magyarország részt vesz a ,,Fiatalok'' program (a továbbiakban: program) tevékenységeiben, összhangban – amennyiben e határozat másként nem rendelkezik – az Európai Parlament és a Tanács 2000. április 13-i, ezen közösségi akcióprogram létesítéséről szóló 2000/1031/EK határozatában[^3] rögzített célokkal, feltételekkel, eljárásokkal és határidőkkel.
+
+2\. Összhangban a ,,Fiatalok'' programról szóló 2000/1031/EK határozat 5. Cikkének feltételeivel, továbbá a tagállamoknak és a Bizottságnak a ,,Fiatalok'' Nemzeti Irodákkal szembeni kötelezettségeiről szóló bizottsági rendelkezésekkel, Magyarország nemzeti szinten létrehozza a program tevékenységeinek koordinált irányításához és végrehajtásához szükséges struktúrát, s meghozza a szükséges intézkedéseket a tevékenységéhez programtámogatásban részesülő Iroda megfelelő finanszírozásának biztosítása érdekében. Magyarország megtesz minden más szükséges intézkedést, hogy biztosítsa a program hatékony működését nemzeti szinten.
+
+3\. A programban való részvétel érdekében Magyarország a 2. számú mellékletben leírtak szerint minden évben hozzájárulást fizet az Európai Unió általános költségvetésébe.
+
+Amennyiben szükséges, a Társulási Bizottságnak joga van e hozzájárulást módosítani a program végrehajtásával kapcsolatos fejlemények vagy Magyarország teljesítőképességének a figyelembevétele céljából oly módon, hogy e programok végrehajtásában el lehessen kerülni a pénzügyi aránytalanságot.
+
+4\. A jogosult magyar intézmények, szervezetek és egyének pályázatai benyújtásának, elbírálásának és kiválasztásának szabályai és feltételei azonosak a közösségi intézményekre, szervezetekre és egyénekre vonatkozó szabályokkal és feltételekkel.
+
+A program létrehozásáról szóló 2000/1031/EK határozat vonatkozó rendelkezései alapján a Bizottság független szakértők kinevezésekor magyar szakértőket is számításba vehet a projektumok értékelésében való közreműködésre.
+
+5\. A program közösségi jellegének biztosítása érdekében a közösségi pénzügyi támogatásra való jogosultság előfeltétele, hogy a projektumokba, illetve tevékenységekbe legalább egy partnert a Közösség valamelyik tagállamából bevonjanak.
+
+6\. A decentralizált tevékenységek megvalósítása, valamint a fenti 2. pontban foglaltak szerint létesített Nemzeti Iroda pénzügyi támogatása céljából, Magyarország pénzügyi hozzájárulást kap a programok éves költségvetési tételeivel kapcsolatban közösségi szinten hozott döntés, továbbá a programhoz történő magyar hozzájárulás függvényében. A nemzeti irodák tevékenységéhez nyújtott pénzügyi támogatás maximális összege nem haladja meg a nemzeti irodák munkatervéhez rendelt költségvetés 50%-át.
+
+7\. Magyarország és a Közösség tagállamai – a hatályos rendelkezések keretei között – mindent megtesznek annak érdekében, hogy megkönnyítsék és elősegítsék mindazon ,,Fiatalok'' és egyéb támogatásra jogosult személyek szabad mozgását és tartózkodását, akik a határozat hatálya alá tartozó tevékenységben való részvétel céljából utaznak Magyarország és a Közösség tagállamai között.
+
+8\. Az e határozat hatálya alá eső tevékenységek mentesülnek a Magyarország által érvényesített közvetett adók és vámok alól, az idevágó tevékenységekre szánt áruk és szolgáltatások pedig a behozatalra és kivitelre vonatkozó tilalmak és korlátozások alól.
+
+9\. Nem érintve az Európai Közösségek Bizottságának és az Európai Közösségek Számvevőszékének a programok nyomon követésében és értékelésében viselt – a ,,Fiatalok'' programra vonatkozó 2000/1031/EK határozat 13. Cikkében rögzített – felelősségét, Magyarországnak a programokban való részvételét az Európai Közösségek Bizottsága és Magyarország a partnerség alapján, folyamatosan figyelemmel kíséri és értékeli. Magyarország elkészíti a vonatkozó jelentéseket a Bizottság számára, és részt vesz a Közösség más, e célokat szolgáló sajátos tevékenységeiben.
+
+10\. A Közösség Pénzügyi Szabályzatával összhangban, biztosítani kell a magyar résztvevőkkel, vagy általuk kötött szerződéses megállapodásoknak a Bizottság és a Számvevőszék, vagy az általuk felhatalmazottak részéről történő ellenőrzését és auditálását. Ami az auditálásokat illeti, azokat az érintett résztvevők bevételeinek és kiadásainak a Bizottsággal fennálló szerződéses kötelezettségek szempontjából történő ellenőrzése céljából végezhetik. Az együttműködés és a kölcsönös érdekek szellemében, az érintett magyar hatóságok szükség szerint, az adott körülmények között minden lehetséges és ésszerű segítséget megadnak ezen ellenőrzések és auditálások lefolytatásához.
+
+A Magyarország, a Bizottság és a magyar nemzeti irodák közötti kapcsolatokban, a ,,Fiatalok'' nemzeti iroda vonatkozásában a tagállamok és a Bizottság felelősségéről szóló, a Bizottság által jóváhagyott rendelkezéseket alkalmazzák. A magyar nemzeti iroda által elkövetett szabálytalanság, hanyagság vagy visszaélés esetén az elveszett pénzügyi alapokért a magyar hatóságok felelősséggel tartoznak.
+
+11\. Nem érintve a ,,Fiatalok'' programot létrehozó 2000/1031/EK határozat 8. Cikkének rendelkezéseit, Magyarország képviselői megfigyelőként részt vesznek a Program Bizottságokban az őket érintő kérdések tárgyalásánál. A fennmaradó kérdések tárgyalása és a szavazás a Bizottságban Magyarország képviselőinek jelenléte nélkül történik.
+
+12\. A pályázati eljárás, a szerződések, a beterjesztendő jelentések és a programokkal összefüggő egyéb adminisztratív ügyek vonatkozásában a Bizottsággal történő minden fajta kapcsolattartás során használt nyelv a Közösség valamelyik hivatalos nyelve.
+
+13\. A Közösség és Magyarország bármikor beszüntetheti az e határozat alapján folytatott tevékenységeket, 12 hónappal az ez irányú előzetes írásos értesítést követően. A megszüntetés időpontjában folyamatban levő projektumok és tevékenységek befejezésükig folytatódnak az e határozatban megszabott feltételek szerint.
+
+*2. számú melléklet*
+
+A Magyar Köztársaság pénzügyi hozzájárulása\
+a ,,Fiatalok'' programhoz
+
+1\. Magyarország 2000-ben a ,,Fiatalok'' programban való részvétele céljából 1 539 000 eurót fizet be az Európai Unió költségvetésébe.
+
+Magyarországnak a program következő éveire vonatkozó hozzájárulásáról a Társulási Tanács a 2000. év folyamán hoz határozatot.
+
+2\. Magyarország a fenti hozzájárulást részben a magyar állami költségvetésből, részben a magyar Nemzeti PHARE Programból fizeti. A PHARE programokra érvényes eljárásnak megfelelően, az igényelt PHARE források átutalása Magyarországnak egy külön Pénzügyi Memorandum révén történik. Ezek a források a magyar állami költségvetésből származó résszel együtt képezik azt a nemzeti hozzájárulást, amelyből Magyarország a befizetéseket teljesíti a Bizottság éves fizetési felszólításának megfelelően.
+
+3\. A PHARE források igénybevétele az alábbi ütemterv szerint történik:
+
+– a ,,Fiatalok'' programhoz való hozzájárulás 2000-ben 760 000 euró;
+
+– Magyarország hozzájárulásának fennmaradó részét a magyar állami költségvetés fedezi.
+
+4\. Magyarország hozzájárulásának kezelésére az Európai Közösségek általános költségvetésére vonatkozó 1977. december 21-i Pénzügyi Szabályozás[^4] érvényes.
+
+A magyar szakértőknek az 1. számú melléklet 11. pontjában megjelölt bizottságok munkájában megfigyelőként, vagy a programok végrehajtása kapcsán tartott egyéb értekezleteken való részvételével összefüggésben felmerülő utazási és tartózkodási költségeket a Bizottság megtéríti az Európai Unió tagállamainak nem-kormányzati szakértőire vonatkozó hatályos eljárás szerint.
+
+5\. E határozat hatálybalépését követően, és minden ezt követő év elején a Bizottság fizetési felhívást intéz Magyarországhoz az e határozatban érintett programokhoz történő hozzájárulásának a befizetésére.
+
+A hozzájárulást euróban állapítják meg, és azt a Bizottság egyik euróban vezetett bankszámlájára kell átutalni.
+
+Magyarország hozzájárulását a fizetési felhívás szerint fizeti be, az alábbiaknak megfelelően:
+
+– a nemzeti költségvetésből származó részt május 1-jéig, amennyiben a Bizottság fizetési felhívását április 1-je előtt megküldi, illetve ha ezt követően küldi, akkor legkésőbb egy hónappal a fizetési felhívás megküldését követően;
+
+– a PHARE-ból származó részt május 1-jéig, amennyiben addig megtörtént a megfelelő összeg átutalása Magyarország részére, illetve legkésőbb 30 nappal az összeg átutalásának megtörténtét követően.
+
+A hozzájárulás késedelmes teljesítése esetén a hátralék után az esedékesség időpontjától számítva Magyarországot kamatfizetési kötelezettség terheli. A kamat mértéke az Európai Központi Bank által az esedékesség időpontjában alkalmazott euró-kamatláb 1,5%-ponttal emelt értéke.''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2000. szeptember 21-től kell alkalmazni. Végrehajtásáról az ifjúsági és sportminiszter és a PHARE program koordinációjáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
+
+---
+
+[^1]: Európai Közösségek Hivatalos Lapja 1995. 12. 30. L317. 30. oldal. [Magyarországon kihirdetve a 12/1996. (I. 26.) Korm. rendelettel.]
+[^2]: Európai Közösségek Hivatalos Lapja 1997. 9. 23. L260. 23. oldal. [Magyarországon kihirdetve a 142/1997. (VIII. 29.) Korm. rendelettel.]
+[^3]: Európai Közösségek Hivatalos Lapja 2000. 5. 18. L117. 1. oldal.
+[^4]: Európai Közösségek Hivatalos Lapja 1977. 12. 31. L356. 1. oldal (EK) rendelet, módosítva a 2779/98 rendelettel (Európai Közösségek Hivatalos Lapja 1998. 12. 23. L347. 3. oldal).

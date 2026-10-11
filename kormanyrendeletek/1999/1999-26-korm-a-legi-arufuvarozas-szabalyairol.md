@@ -1,0 +1,232 @@
+---
+title: "26/1999. (II. 12.) Korm. rendelet a légi árufuvarozás szabályairól"
+identifier: "26/1999. (II. 12.) Korm. rendelet"
+njt_id: "1999-26-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/26"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-02-12
+in_force_from: 2009-10-01
+last_amended: 2014-03-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-26-20-22"
+retrieved: 2026-10-12
+---
+
+# 26/1999. (II. 12.) Korm. rendelet a légi árufuvarozás szabályairól
+
+A légiközlekedésről szóló 1995. évi XCVII. törvény 27. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. RÉSZ — BEVEZETŐ RENDELKEZÉSEK
+
+#### A rendelet hatálya
+
+##### 1. §
+
+(1) A légi árufuvarozásra (a továbbiakban: fuvarozás) kötött szerződésre a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a szerződésekre vonatkozó általános, továbbá a fuvarozási szerződésre vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+
+(2) Abban az esetben, ha a fuvarozás országhatáron túlra vagy országhatáron túlról történik (a továbbiakban: nemzetközi fuvarozás), e rendelet rendelkezéseit csak annyiban lehet alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+
+(3) Ha a fuvarozó a fuvarozási szerződést
+
+a) maga teljesíti: a fuvarozás valamennyi szakaszára,
+
+b) közúti, vasúti, vízi közlekedési fuvarozóval együttesen teljesíti (összetett fuvarozás): a felek eltérő rendelkezésének hiányában a fuvarozó által végzett részfuvarozásra
+
+e rendelet előírásait kell alkalmazni.
+
+#### A fuvarozási szerződés
+
+##### 2. §
+
+(1) A fuvarozási szerződés alapján a fuvarozó díjazás ellenében a küldeményt az indulási repülőtérről az érkezési repülőtérre továbbítja, és kiszolgáltatja.
+
+(2) A fuvarozási szerződés alanyai. a fuvarozó és a fuvaroztató. E rendelet alkalmazásában fuvaroztató az, aki a fuvarozóval a szerződést megköti.
+
+(3) Ha a felek megállapodása alapján a fuvaroztató a fuvarlevélen feladóként, illetve címzettként más személyt jelöl meg, a fuvaroztatónak a küldeményre vonatkozó rendelkezési jogosultsága – eltérő megállapodás hiányában – a küldemény megérkezéséről szóló értesítés vétele előtt a feladót, azt követően a címzettet illeti meg. A rendelkezési jogosultság átszállása estén a feladó, illetőleg a címzett a fuvarozóval szemben a fuvarozási szerződésből eredő jogokat saját nevében érvényesítheti.
+
+(4) Küldemény az egy fuvarlevéllel feladott áru, illetve árudarabok, rakományok összessége.
+
+#### Az üzletszabályzat
+
+##### 3. §
+
+(1) A fuvarozó a fuvarozási szerződésnek a Ptk.-ban és az e rendeletben nem szabályozott feltételeit üzletszabályzatban határozza meg. Az üzletszabályzatra a Ptk.-nak az általános szerződési feltételekre vonatkozó előírásai az irányadók.
+
+(2)[^1] Az üzletszabályzatnak tartalmaznia kell a fuvarozási szerződésre vonatkozó jogszabályok rendelkezéseit is, külön – eltérő szedéssel is – megjelölve annak ilyen jellegét. Ha az üzletszabályzat eltérést kíván tenni a jogszabály eltérést engedő szabályától, erre az üzletszabályzatnak a jogszabályi és az üzletszabályzati rendelkezés külön megjelölésével utalnia kell.
+
+(3)[^2] Az üzletszabályzatot, valamint módosításait a légiközlekedési hatóság hagyja jóvá. A jóváhagyás után az üzletszabályzatot, valamint módosításait a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a fuvarozó honlapján közzé kell tenni, és arról a fuvarozó tájékoztatást ad, valamint az ügyfélszolgálatai helyein – az ott elhelyezett, erről szóló tájékoztatás mellett – lehetővé teszi annak magyar és angol nyelvű változata megismerését és megvásárlását egyaránt.
+
+## 2. RÉSZ — ÁRUFUVAROZÁS
+
+### I. Fejezet — A fuvarozási szerződés megkötése
+
+##### 4. §
+
+A fuvarozási szerződés – a felek eltérő megállapodásának hiányában – a fuvarozás elvállalásával jön létre.
+
+#### A fuvarlevél
+
+##### 5. §
+
+(1) Fuvarozás esetén fuvarlevelet kell kiállítani, melynek tartalmaznia kell:
+
+a) a fuvarozó megnevezését;
+
+b) a fuvaroztató, a feladó, a címzett nevét és címét;
+
+c) az indulási és rendeltetési helyet;
+
+d) a küldemény megnevezését, darabszámát, valamint a mennyiségére, méretére és tömegére vonatkozó adatokat;
+
+e) a küldemény be- és kirakását végző megjelölését;
+
+f) a küldemény csomagolásának jellemzőit;
+
+g) a fuvardíjat, az alkalmazandó fizetési módot, a költségviselő fél megjelölését;
+
+h) a fuvarlevélhez csatolt kísérő okmányok megnevezését;
+
+i) a felek megállapodása esetén az értékbevallással kapcsolatos bejegyzést;
+
+j) a fuvaroztató nyilatkozatát arról, hogy az üzletszabályzat feltételeit ismeri, és elfogadja.
+
+(2) A fuvarlevél minden olyan adatot, tájékoztatást tartalmazhat, amelyet a felek szükségesnek tartanak.
+
+(3) Minden küldeményről külön fuvarlevelet kell kiállítani.
+
+(4) A feladó felelős a küldeményre vonatkozó, az általa a fuvarozó számára megadott, illetve általa a fuvarlevélbe bejegyzett adatok és nyilatkozatok pontosságáért. A feladó viseli a felelősséget mindazokért a károkért, amelyek pontatlan, szabálytalan adatai és nyilatkozatai következtében a fuvarozóra vagy olyan más személyre hárulnak, akivel szemben a fuvarozó felelős.
+
+(5) A fuvarozó ellenőrizheti, hogy a fuvaroztató által megadott adatok, valamint okiratok a fuvarozás szerződés szerinti teljesítéséhez elegendőek és pontosak-e, továbbá – nemzetközi fuvarozás esetén – a nemzetközi szerződéseknek és a fuvarozás során érintett államok hatósági előírásainak megfelelnek-e.
+
+(6) A fuvarlevélnek a küldemény tömegére, méretére és csomagolására, valamint az árudarabok számára vonatkozó adatai – az ellenkező bizonyításáig – hitelesnek tekintendők.
+
+(7) A fuvarlevél fajtáira (ideértve az elektronikus fuvarlevelet is), tartalmára, kiállítására, érvényességére, felhasználására és pótlására vonatkozó részletes feltételeket a fuvarozó az üzletszabályzatban állapítja meg.
+
+#### A fuvardíj
+
+##### 6. §
+
+A fuvarozót a fuvarozásért a fuvarozási szerződés teljesítésének ellenértéke, továbbá a fuvarozásra szükségesen és hasznosan fordított költség (a továbbiakban együtt: fuvardíj) illeti meg.
+
+### II. Fejezet — A fuvarozás teljesítése
+
+##### 7. §
+
+(1) A feladó a fuvarozás útirányát megválaszthatja, és útmegszakításokat köthet ki. Amennyiben a feladó a fuvarozás elvállalásának időpontjában ilyen kívánságot nem nyilvánít, az útirányt a fuvarozó választja meg. A fuvarozó a feladó által választott útiránytól üzemkörében felmerülő okból eltérhet.
+
+(2) A fuvarozó a küldeményt egyszerre vagy részletekben továbbíthatja. A részletekben továbbított küldemény továbbításának sorrendjét – eltérő megállapodás hiányában – a feladó határozza meg. A fuvarozó a feladó kívánságára vállalhatja, hogy a küldeményt meghatározott napon és járaton fuvarozza. A fuvarozó e kötelezettségét a fuvarlevélen fel kell tüntetni.
+
+(3) A küldeménynek a légijárműbe való be- és kirakását – ellenkező megállapodás hiányában – a fuvarozó végzi.
+
+(4) A fuvarozó az üzletszabályzatban határozza meg a fuvarozás teljesítésének és az ahhoz kapcsolódóan nyújtott egyéb szolgáltatásainak részletes feltételeit.
+
+#### A küldemény tartalma és csomagolása
+
+##### 8. §
+
+A küldemény nem, vagy a feltételek teljesítése esetén tartalmazhat olyan tárgyat,
+
+a) amelynek fuvarozását jogszabály, hatósági rendelkezés tiltja, vagy feltételhez köti;
+
+b) amelyet az üzletszabályzat a terjedelme, a tömege vagy egyéb tulajdonsága miatt, továbbá repülésbiztonsági, a fuvarozás vagy az üzemeltetés jellegzetességéből eredő okból, vagy a szokásosnál nagyobb gondosságot követelő fuvarozási feltételek miatt a fuvarozásból teljesen vagy feltételesen kizártnak minősített.
+
+##### 9. §
+
+(1) A fuvarozó a küldeményt lehetőleg a feladó és/vagy hatósági személy jelenlétében – kivéve, ha jogszabály vagy nemzetközi szerződés eltérően rendelkezik – ellenőrizheti, ha alaposan feltételezhető, hogy a feladó a küldemény tartalmára és csomagolására vonatkozó szabályokat nem teljesítette.
+
+(2) A küldemény ellenőrzéséről a fuvarozó jegyzőkönyvet készít, abban a küldemény tömegét, esetleges sérülését, a vizsgálat körülményeit, a megtett intézkedéseket feltünteti, és a jegyzőkönyv egy példányát a feladónak átadja.
+
+(3) A fuvarozó az üzletszabályzatban határozza meg a küldemény átvizsgálásának feltételeit, módját és végrehajtását.
+
+(4) A diplomáciai és a konzuli poggyász ellenőrzése – az 1965. évi 22. törvényerejű rendelettel kihirdetett, a diplomáciai kapcsolatokról Bécsben, 1961. április 18-án aláírt nemzetközi szerződés, illetőleg az 1987. évi 13. törvényerejű rendelettel kihirdetett, a konzuli kapcsolatokról Bécsben, 1963. április 24-én aláírt nemzetközi szerződés rendelkezéseinek megfelelően – kizárólag az érintett diplomáciai, illetve konzuli képviselet tagja jelenlétében végezhető el, és poggyász csak ilyen személynek adható ki.
+
+##### 10. §
+
+A fuvarozó az üzletszabályzatban meghatározhatja egyes tárgyak, anyagok csomagolásának módját, továbbá az élő állatok külön jogszabályban meghatározott fuvarozásának további részletes feltételeit.
+
+#### A címzett értesítése és a küldemény átvétele
+
+##### 11. §
+
+(1) A fuvarozó köteles a küldeménynek a rendeltetési repülőtérre való érkezéséről a címzettet – az elviteli határidő feltüntetésével – haladéktalanul értesíteni.
+
+(2) A fuvarozó köteles a fuvarozás befejezése után a fuvarlevél megfelelő példányát és a küldeményt a címzettnek – a ki nem egyenlített fuvardíj megfizetése ellenében – a kiszolgáltatás helyén érvényes előírások, rendelkezések teljesítését követően kiszolgáltatni.
+
+(3) A kiszolgáltatás helye – ellenkező megállapodás hiányában – az érkezési repülőtér.
+
+(4) A küldemény átvételét a címzettel el kell ismertetni.
+
+(5) A címzett köteles a küldemény átvétele céljából az értesítés kézhezvételétől számított két munkanapon belül jelentkezni, és a küldeményt a kiszolgáltatás helyén érvényes rendelkezések teljesítése után átvenni.
+
+(6)[^3] Ha a címzett a küldeményt az (5) bekezdésben megjelölt határidőn belül nem veszi át, a fuvarozó köteles az értesítést három munkanapon belül megismételni. A fuvarozó az első értesítési határidő eredménytelen eltelte után a küldemény tárolásáért díjat számíthat fel. Ha a címzett a küldeményt a második átvételi határidő letelte után sem veszi át, az átvételkor esedékes fuvardíjat nem egyenlíti ki, vagy a kiszolgáltatás egyéb akadályba ütközik, a fuvarozó köteles a feladót bizonyítható módon haladéktalanul értesíteni, és a küldeményt – nemzetközi fuvarozás esetén – a vámjogszabályok rendelkezéseinek figyelembevételével – a megbízás nélküli ügyvitel szabályai szerint megőrizni.
+
+(7)[^4] A vámhivatal az átmeneti megőrzés időtartamának lejártakor köteles a vámáru értékesítéséről rendelkezni. A fuvarozó megbízás nélküli ügyvitele eddig az időpontig terjedhet, ezt követően a vámtörvény rendelkezéseit kell a vámárura alkalmazni.
+
+#### Veszélyes áruk fuvarozása
+
+##### 12. §
+
+A légi árufuvarozási szerződés keretében végzett veszélyes áruk fuvarozására a külön jogszabályban[^5] foglalt rendelkezéseket kell alkalmazni.
+
+#### Hadianyagok és hadifelszerelések fuvarozása
+
+##### 13. §
+
+(1)[^6] Hadianyagok és hadifelszerelések fuvarozása esetén a fuvarozó a fuvarozás megkezdése előtt köteles ellenőrizni, hogy a feladó vagy a feladó által írásos megbízással rendelkező természetes vagy jogi személy és a küldemény rendelkezik-e a hadianyagokkal és hadifelszerelésekkel kapcsolatos tevékenységek végzéséhez jogszabályokban megkövetelt hatósági engedélyekkel, valamint a fuvarozás során érintett államok által a fuvarozás teljesítéséhez megkövetelt engedélyekkel, valamint, hogy a hadianyagok és hadifelszerelések a fuvarozásukra vonatkozó jogszabályok, nemzetközi szerződések, továbbá a fuvarozás során érintett államok jogszabályainak és hatósági rendelkezéseinek megfelelően fuvarozhatók-e. Bármely feltétel hiányában a fuvarozó a hadianyagok és hadifelszerelések fuvarozását a küldemény átvétele nélkül köteles visszautasítani. A fuvarozó közbiztonsági érdekek védelmében a feladat- és hatáskörrel rendelkező hatóságoktól véleményt szerezhet be a döntés előtt.
+
+(2) A hadianyagokat és hadifelszereléseket töltetlen, illetve közvetlenül rendeltetésszerű használatra alkalmatlan állapotban kell fuvarozni, olyan csomagolásban, amely illetéktelen személy általi felbontását nem teszi lehetővé.
+
+(3) A hadianyagok és a hadifelszerelések fuvarozására vonatkozó okmányokat (engedélyek, fuvarlevelek stb.) legalább egy évig a fuvarozónak meg kell őrizni.
+
+### III. Fejezet — A fuvarozási szerződés módosítása
+
+##### 14. §
+
+A fuvarozási szerződés módosítása esetén új fuvarlevelet kell kiállítani. Ha a fuvardíj és az útirány változatlan marad, az üzletszabályzat meghatározhatja, hogy a szerződés módosítása a fuvarlevél átragasztásával vagy felülírásával és ezek hitelesítésével is igazolható.
+
+##### 15. §
+
+(1) A fuvarozó az üzletszabályzatban meghatározhatja a feladó utólagos rendelkezésének eseteit.
+
+(2) A fuvarozó a feladó rendelkezését nem köteles végrehajtani, ha az a részéről teljesíthetetlen, továbbá, ha üzemeltetésének rendjét vagy a légijárművön fuvarozott egyéb küldemények feladójának érdekeit sérti. Ilyen esetben a fuvarozó köteles a feladót haladéktalanul értesíteni, és új rendelkezést kérni.
+
+#### A fuvarozási szerződés megszűnése
+
+##### 16. §
+
+(1) A feladónak a fuvarozási szerződéstől való elállása esetére az üzletszabályzat kikötheti a fuvarozó bánatpénz iránti igényét.
+
+(2) A fuvarozó a fuvarozási szerződéstől a továbbítás megkezdése előtt elállhat, ha megállapítja, hogy a küldemény a fuvarozásból kizárt, vagy nem az előírásoknak megfelelően csomagolt feltételesen fuvarozható tárgyat (anyagot) tartalmaz.
+
+### IV. Fejezet — A fuvarozási szerződés megszegése, a fuvarozó felelőssége
+
+##### 17. §
+
+(1) A fuvarozó köteles jegyzőkönyvet felvenni, és a feladó és/vagy a címzett rendelkezésére bocsátani, ha észleli, hogy a küldemény hiányos vagy sérült, továbbá, ha a küldeményt a fuvarozó nem tudja kiszolgáltatni a szerződésben meghatározott határidőben.
+
+(2) A címzett elveszettnek tekintheti a küldeményt és ezzel kapcsolatos jogait érvényesítheti, ha azt a fuvarozó az (1) bekezdésben meghatározott időponttól számított 30 napon belül nem tudja kiszolgáltatni.
+
+#### A kártérítési igény érvényesítése
+
+##### 18. §
+
+(1) A jogosult a fuvarozási szerződésből, illetve annak hibás teljesítéséből eredő kártérítési igényét a fuvarozóhoz intézett írásbeli bejelentéssel érvényesítheti, melyhez csatolni kell a jogosultságot igazoló, valamint a követelés elbírálásához szükséges okiratokat.
+
+(2) A jogosult követelését keresettel abban az esetben érvényesítheti, ha írásbeli bejelentéssel élt, és a fuvarozó azt 3 hónapon belül részben vagy egészben elutasította, vagy a követelést nem egyenlítette ki.
+
+## 3. RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+##### 19. §
+
+Ez a rendelet 1999. május 1-jén lép hatályba, és rendelkezéseit a hatálybalépése után megkötött légi árufuvarozási szerződésekre kell alkalmazni.
+
+---
+
+[^1]: A 3. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 336/2008. (XII. 30.) Korm. rendelet 3. § (2) bekezdés 4. pontja szerint módosított szöveg. [Az 53/2014. (III. 3.) Korm. rendelet 9. § (1) bekezdés a) pontjával elrendelt módosítás, amely szerint a „Közlekedési, Hírközlési és Vízügyi Minisztérium hivatalos lapjában” szövegrész helyébe a „közlekedésért felelős miniszter által vezetett minisztérium honlapján” szöveg lép, nem vezethető át.]
+[^3]: A 11. § (6) bekezdése az 53/2014. (III. 3.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 11. § (7) bekezdése az 53/2014. (III. 3.) Korm. rendelet 9. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény függelékeinek kihirdetéséről szóló 20/1997. (X. 21.) KHVM rendelet mellékletében megjelölt 18. Annex.
+[^6]: A 13. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 163. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

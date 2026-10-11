@@ -1,0 +1,398 @@
+---
+title: "170/1998. (X. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, az államhatáron keresztül megvalósuló vasúti határforgalom lebonyolításáról szóló Egyezmény kihirdetéséről  "
+identifier: "170/1998. (X. 14.) Korm. rendelet"
+njt_id: "1998-170-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/170"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-10-14
+in_force_from: 1998-10-14
+last_amended: 1998-10-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-170-20-22"
+retrieved: 2026-10-12
+---
+
+# 170/1998. (X. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, az államhatáron keresztül megvalósuló vasúti határforgalom lebonyolításáról szóló Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1998. évi március 17. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között Budapesten, 1997. március 12-én aláírt, az államhatáron keresztül megvalósuló vasúti határforgalom lebonyolításáról szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és Románia Kormánya között az államhatáron keresztül megvalósuló vasúti határforgalom lebonyolításáról
+
+A Magyar Köztársaság Kormánya és Románia Kormánya (a továbbiakban: Szerződő Felek),
+
+– szem előtt tartva a két állam közötti kedvező, jószomszédi kapcsolatokat,
+
+– törekedve az államok közötti vasúti forgalom szabályozására és fejlesztésére,
+
+– tekintettel azokra a nemzetközi egyezményekre, melyeknek mindkét Szerződő Fél részese,
+
+– figyelemmel a nemzetközi szerződések jogáról szóló, Bécsben, 1969. május 23-án kelt Egyezményre,
+
+megállapodtak az alábbiakban:
+
+*1. Cikk*
+
+*Bevezető rendelkezések*
+
+1\. Vasúti határátmenetekre az alábbi vasútvonalak állnak rendelkezésre:
+
+Ágerdőmajor–Carei
+
+Nyírábrány–Valea lui Mihai
+
+Biharkeresztes–Episcopia Bihor
+
+Kötegyán–Salonta
+
+Lökösháza–Curtici
+
+2\. Az 1. bekezdésben felsorolt határátmenetekben a határállomások a következők:
+
+*a)* Ágerdőmajor
+
+Nyírábrány
+
+Biharkeresztes
+
+Kötegyán
+
+Lökösháza
+
+Carei
+
+Valea lui Mihai
+
+Episcopia Bihor
+
+Salonta
+
+Curtici
+
+*b)* Közös állomás:
+
+Curtici
+
+3\. A Szerződő Felek vasútjai közösen jelölik ki az üzemváltó állomásokat.
+
+4\. A Szerződő Felek illetékes szerveinek jóváhagyása alapján a vasutak állapodnak meg abban, hogy az egyes határátmenetekben milyen jellegű (személy-, útipoggyász-, áru-, expresszáru- és postai küldemény) forgalmat bonyolítanak le.
+
+5\. A határforgalom ellenőrzésének szabályait, beleértve a rendészeti és biztonsági szolgálatot azokon a vonatokon, amelyek átmennek az államhatáron, külön kétoldalú egyezmény tartalmazza.
+
+6\. A csatlakozó és az átmeneti szolgálat a közös állomáson, illetve az üzemváltó állomásokon bonyolódik le.
+
+*2. Cikk*
+
+*Értelmező rendelkezések*
+
+Ezen Egyezmény értelmében:
+
+1\. *területi állam* – annak a Szerződő Félnek az állama, melynek területén az üzemváltó állomás van;
+
+2\. *szomszédos állam* – a másik Szerződő Fél állama;
+
+3\. *vasutak* – a Magyar Államvasutak Rt. (MÁV Rt.) és a Román Vasutak Nemzeti Társasága (SNCFR);
+
+4\. *területi vasút* – a területi állam vasútja;
+
+5\. *szomszédos vasút* – a másik Szerződő Fél vasútja;
+
+6\. *csatlakozó és átmeneti szolgálat* – a vasutaknak a határátmenet lebonyolításához szükséges forgalmi, kereskedelmi és műszaki tevékenysége;
+
+7\. *határforgalom ellenőrzésében közreműködő szervek tevékenysége* – a Szerződő Felek illetékes szerveinek személyek, áruk, közlekedési eszközök forgalmának útlevél-, vám- és deviza-, valamint állategészségügyi és növényegészségügyi, szükség esetén járványügyi ellenőrzése;
+
+8\. *határállomás* – rendszerint az államhatárhoz legközelebbi vasútállomás;
+
+9\. *üzemváltó állomás* – az a vasútállomás, ahol a csatlakozó és átmeneti szolgálatot végzik;
+
+10\. *közös állomás* – ahol a két vasút a csatlakozó és átmeneti szolgálatot, valamint a Szerződő Felek illetékes szervei a vám-, növényegészségügyi és állategészségügyi tevékenységet együttesen végzik;
+
+11\. *határszelő vonal* – a területi vasút üzemváltó állomása és a szomszédos vasút határállomása közötti vasútvonal;
+
+12\. *határátszelő vonalszakasz* – az államhatár és a határállomás közötti vonalrész;
+
+13\. *az illetékes szervek* – a Szerződő Felek azon szervei, amelyek a jelen Egyezményből adódó, a vasúti határforgalommal összefüggő feladatokat végrehajtják.
+
+*3. Cikk*
+
+*Végrehajtásért felelős szerv*
+
+A jelen Egyezmény végrehajtásáról
+
+magyar részről a Közlekedési, Hírközlési és Vízügyi
+
+Minisztérium,
+
+román részről a Közlekedési Minisztérium
+
+gondoskodik.
+
+*4. Cikk*
+
+*Rendészet*
+
+A rendészeti szolgálatot a közös állomáson, üzemváltó állomáson, határállomáson annak az államnak az illetékes szervei biztosítják belső szabályzatok alapján, amelynek területén a közös állomás, üzemváltó állomás, határállomás van.
+
+*5. Cikk*
+
+*Szolgálati nyelv*
+
+1\. Az illetékes szerveknek az üzemváltó állomáson szolgálatot teljesítő alkalmazottai között az írásbeli és szóbeli érintkezés a területi állam hivatalos nyelvén történik.
+
+Az illetékes szervek azon alkalmazottai, akik a másik Szerződő Fél területén lévő állomáson és vonatokon teljesítenek szolgálatot, kötelesek annak az államnak a nyelvét a szolgálat ellátásához szükséges mértékben ismerni.
+
+2\. A vasutak között a vasúti forgalmat érintő valamennyi írásbeli és szóbeli érintkezés a vasutak közötti megállapodás szerint történik.
+
+3\. Azokat a szolgálati utasításokat és nyomtatványokat, amelyeket a vasutak egymás között kicserélnek, nem kell fordítással ellátni.
+
+4\. Azokat a jegyzőkönyveket, amelyeket az illetékes szervek alkalmazottai vesznek fel és írnak alá, magyar és román nyelven kell elkészíteni, két eredeti példányban.
+
+*6. Cikk*
+
+*Forgalmi akadályok elhárítása*
+
+1\. A vasutak a vonatkozó nemzetközi egyezményeknek megfelelően tájékoztatják egymást minden olyan akadályról, amely a két Szerződő Fél állama közötti vasúti összeköttetést vagy a szomszédos állam vasúti forgalmát kedvezőtlenül befolyásolhatja.
+
+2\. A határállomáson, továbbá a határátszelő vonalon felmerült akadályokat annak a Szerződő Félnek a vasútja köteles megszüntetni, amelynek állama területén azok keletkeztek. A másik vasút az érdekelt vasút felkérésére segítséget nyújt, különösen a szükséges berendezések, járművek és anyagok, valamint munkaerő rendelkezésre bocsátásával. A segítségnyújtás térítés ellenében történik, melynek mértékében a vasutak egymás között állapodnak meg.
+
+*7. Cikk*
+
+*Szolgálati helyiségek*
+
+1\. A szomszédos állam illetékes szervei részére a közös állomáson, illetve az üzemváltó állomásokon szolgálatuk megfelelő ellátásához szükséges szolgálati helyiségeket és területeket kell biztosítani. A helyiségeket a Szerződő Felek hivatalos nyelvén készült, megfelelő felirattal kell ellátni oly módon, hogy a szomszédos állam hivatalos nyelvén írt szöveg álljon az első helyen.
+
+2\. A szomszédos állam illetékes szervei ezeket a helyiségeket jogosultak saját állami címerükkel és zászlójukkal is megjelölni.
+
+*8. Cikk*
+
+*Az illetékes szervek alkalmazottainak kirendelése*
+
+1\. A jelen Egyezményből eredő feladatok teljesítésére a Szerződő Felek illetékes szervei a közös állomásra, a Szerződő Felek vasútjai a közös állomásra és az üzemváltó állomásokra alkalmazottakat rendelhetnek ki.
+
+2\. A jelen Egyezményből eredő vasúti feladatok ellátása érdekében a szomszédos vasutak a közös állomásra és az üzemváltó állomásokra saját költségükre képviselőket jelölhetnek ki. A képviselői feladatok ellátásának feltételeiről, a tevékenység részleteiről a vasutak külön állapodnak meg.
+
+*9. Cikk*
+
+Az illetékes szervek alkalmazottainak jogi helyzete\
+a szomszédos állam területén
+
+1\. Az illetékes szervek alkalmazottai, akik a jelen Egyezmény alapján a szomszédos állam területén teljesítenek szolgálatot, kötelesek annak jogszabályait tiszteletben tartani, egyidejűleg élvezik azok védelmét.
+
+2\. Az illetékes szervek alkalmazottainak szolgálati viszonyára a szomszédos állam területén saját államuk jogszabályai és egyéb előírásai vonatkoznak. Az alkalmazottak a másik állam területén elkövetett szolgálati fegyelemsértésért kizárólag a saját felettes szervüknek felelősek.
+
+3\. Az illetékes szervek a szomszédos állam területén szolgálatot teljesítő alkalmazottaikat kötelesek visszahívni, ha azt a másik Szerződő Fél illetékes szervei kérik. A visszahívás iránti kérelmet indokolni szükséges.
+
+*10. Cikk*
+
+*Segítségnyújtás és védelem*
+
+1\. A Szerződő Felek illetékes szervei kölcsönösen biztosítják a szolgálat zavartalan ellátását, és szükség esetén segítséget és védelmet nyújtanak.
+
+2\. Az illetékes szervek azon alkalmazottai, akik jelen Egyezmény alapján szolgálatuk végzése céljából tartózkodnak a másik Szerződő Fél államának területén, valamint a velük közös háztartásban élő családtagjaik is, a Szerződő Felek között hatályban lévő egyezmény alapján orvosi ellátást a területi államtól kapnak.
+
+*11. Cikk*
+
+*Díjmentes utazás*
+
+Az illetékes szervek alkalmazottai hivatalos feladataik ellátása során, valamint a tartósan kirendeltek és családtagjaik a jelen Egyezmény 1. Cikkének 1. pontjában meghatározott vonalakon díjmentesen utaznak.
+
+*12. Cikk*
+
+*Egyenruhaviselés*
+
+A jelen Egyezmény alapján a szomszédos állam területén szolgálatot teljesítő alkalmazottak a szolgálati tartózkodásuk alatt jogosultak egyenruhát, szolgálati jelvényt viselni.
+
+*13. Cikk*
+
+Vasúti építmények és berendezések létesítése,\
+fenntartása és felügyelete
+
+1\. Határállomásokon, valamint határátszelő vonalon vasúti építmények és berendezések létesítését, felügyeletét, valamint fenntartását és felújítását saját költségeire a területi állam vasútja végzi.
+
+2\. Az államhatár vonalával átszelt vasúti építmények és berendezések fenntartását és felújítását, valamint e berendezések felügyeletét a Szerződő Felek illetékes szerveinek egyetértésével a vasutak egy későbbi megállapodásban szabályozzák.
+
+*14. Cikk*
+
+*Általános előírások a csatlakozó és átmeneti szolgálatra*
+
+1\. A vasutak közösen szabályozzák a csatlakozó és átmeneti szolgálat ellátását az üzemváltó állomáson.
+
+2\. A nemzetközi vonatforgalom lebonyolítását a határátszelő vonalon az üzemváltó vagy a közös állomásig a szomszédos vasút saját vonatszemélyzetével és mozdonyával, saját előírásainak megfelelően végzi. A vasutak ettől eltérően is megállapodhatnak.
+
+3\. A vasutak megállapodhatnak abban, hogy a vonatok a szomszédos vasút járműveivel és személyzetével a határállomáson túl is közlekedhetnek.
+
+4\. Az üzemváltó állomáson és a közös állomáson a területi vasút előírásait kell alkalmazni. A vasutak azonban megállapodhatnak, hogy a szolgálat közlekedésbiztonságot nem érintő munkáinak ellátására a szomszédos vasút szabályait alkalmazzák.
+
+*15. Cikk*
+
+*Menetrend*
+
+Az államhatáron keresztül közlekedő vonatok menetrendjének összeállításánál az üzemváltó állomáson vagy határállomáson olyan tartózkodást kell biztosítani, amely lehetővé teszi a végzett szolgálat biztonságos és gyors lebonyolítását, figyelembe véve az idevonatkozó nemzetközi gyakorlatot.
+
+*16. Cikk*
+
+*A vasúti kocsik és rakományok átadása és átvétele*
+
+A teher- és személykocsikat, szállítótartályokat, rakszereket, rakodólapokat, valamint a vasúti küldeményeket és a hozzájuk tartozó fuvarokmányokat a Szerződő Felekre, illetve vasutaikra kötelező nemzetközi megállapodások alapján kell átvenni és átadni.
+
+*17. Cikk*
+
+*Postaküldemények*
+
+A postai küldemények átadása az államhatáron keresztül az Egyetemes Postaegyesület Alapokmánya. Egyezménye és Megállapodásai, valamint a Szerződő Felek illetékes postai szervei között megkötött megállapodások alapján történik.
+
+*18. Cikk*
+
+*Szolgálati küldemények*
+
+A vasúti szolgálati küldemények (táviratok, szolgálati nyomtatványok, menetrendek, díjszabások, egyebek) továbbítása a mindkét Szerződő Félre vonatkozó nemzetközi szerződések és a vasutak közötti megállapodás szerint történik. A továbbítás mindkét vasút vonalain díjtalan.
+
+*19. Cikk*
+
+*Távközlési és biztosítóberendezési szolgálat*
+
+1\. A határforgalom lebonyolítását szolgáló távközlési és biztosítóberendezések, valamint a vasutak közötti távközlési kapcsolatokat szolgáló egyéb berendezések kiépítését és karbantartását mindegyik Szerződő Fél saját állama területén vasútja útján biztosítja. A Szerződő Felek illetékes szervei ettől eltérően is megállapodhatnak.
+
+2\. A szomszédos állam területén elhelyezett helyhez kötött jelzők és a hozzájuk tartozó biztosítóberendezési tartozékok, valamint a távközlési berendezések fenntartása és javítása annak a vasútnak a kötelessége, amelynek állomásához a jelen pontban felsoroltak tartoznak. A Szerződő Felek vasútjai ettől eltérően is megállapodhatnak.
+
+3\. Az adatok előkészítését, feldolgozását, átvitelét és rögzítését szolgáló vasúti adatállomások és az ehhez esetleg szükséges klímaberendezések beszerzése, felszerelése, karbantartása annak a vasútnak a feladata, amelynek céljait az adatállomás szolgálja. Az adatállomás megfelelő technikával, telefonnal, rádióval való ellátása és ezek fenntartása a tulajdonos vasút feladata.
+
+4\. A Szerződő Felek illetékes szerveinek hozzájárulásával a vasutak megállapodhatnak:
+
+*a)* az üzemváltó állomásról a szomszédos vasút hálózatához kapcsolódó vasúti távközlési összeköttetések,
+
+*b)* a vasutak vezető szervei között vasúti távközlési összeköttetések
+
+létesítésében.
+
+5\. A közös állomáson, üzemváltó vagy határállomáson létesített vasúti rádiókörzetek annak az államnak a szabályai szerint működnek, amelynek a területén a berendezés üzemel, valamint a két állam illetékes szerveinek azon beleegyezése alapján, amely az államhatár körzetében lévő rádiókörzetek létesítését és üzemeltetését szabályozza.
+
+6\. Az illetékes szervek alkalmazottai szolgálati célból díjtalanul használhatják a szomszédos vasút távközlési berendezéseit. E berendezések magáncélokra való használata nem megengedett. E Cikkben jelzett összeköttetések a közcélú távközlési hálózattal nem kapcsolhatók össze.
+
+*20. Cikk*
+
+*Az államhatár átlépése*
+
+A Szerződő Felek illetékes szerveinek alkalmazottai az államhatárt a jelen Egyezményből eredő szolgálati feladatok ellátása céljából a vonatkozó egyezményben foglaltak szerint léphetik át.
+
+*21. Cikk*
+
+*Vámellenőrzés és vámkezelés*
+
+1\. A vasúton szállítandó áruk, poggyászok és személyek vámvizsgálatát a Szerződő Felek vámszervei államuk belső jogszabályaival összhangban végzik.
+
+2\. Az egyik Szerződő Fél illetékes szervei kötelesek visszafogadni bármely olyan küldeményt, amelynek beléptetését a másik Szerződő Fél illetékes szerve megtagadta, és azt írásban indokolta.
+
+*22. Cikk*
+
+*Vámkönnyítések*
+
+1\. Mentesek a behozatali vámok, illetékek és adók alól:
+
+*a)* a közlekedés szolgálati eszközei, a vasutak javítási üzemi szükségleteinek kielégítésére vagy a vasúti közlekedés akadályoztatásának elhárítására szolgáló speciális járművek, berendezések, szükséges szerszámok és anyagok, valamint a közlekedés fenntartását és biztonságát szolgáló dokumentálhatóan igazolt alkatrészek;
+
+*b)* a szolgálati helyiségek bútorzata és berendezései;
+
+*c)* a szolgálat ellátásához szükséges hivatalos okmányok, tárgyak és fogyóeszközök, az alkalmazottak szolgálati felszerelése és a személyes használatra szolgáló tárgyak, beleértve az élelmiszereket is, amelyeket az alkalmazottak szolgálatuk ellátása céljából a szomszédos állam területére magukkal visznek;
+
+*d)* a másik Szerződő Fél területén lévő közös állomáson állandó szolgálatot teljesítő alkalmazottak, valamint ezek családtagjainak átköltözési ingóságai.
+
+2\. Az 1. pont *a)*, *b)* és *d)* alpontjában felsorolt tárgyakról három példányban jegyzéket kell készíteni, amelyből egy példányt át kell adni a másik Szerződő Fél vámszervének.
+
+Az 1. pont *a)*, *b)* és *d)* alpont alatt felsorolt tárgyak az egyik szomszédos állam területéről a másik szomszédos állam területére visszaviteli kötelezettséggel ideiglenesen vihetők be.
+
+3\. Ezen Egyezmény alapján a szomszédos állam területén szolgálatot teljesítő alkalmazottak minden külön engedély nélkül, valamint vám, adó és egyéb illeték fizetése nélkül vihetik át saját államuk területére a menetjegy eladásából, fuvardíjból, vámból vagy más adóból és illetékből származó fizetőeszközeiket; a szolgálatuk ellátása közben lefoglalt tárgyakat és árukat, valamint növényegészségügyi vagy állategészségügyi célból vett mintákat. Ezekről szóló megfelelő dokumentumokat szükség szerint kilépéskor az illetékes szervnek be kell mutatni.
+
+*23. Cikk*
+
+*Felelősség*
+
+1\. Ha a csatlakozó és átmeneti szolgálat során a határátszelő vonalon, a közös állomáson, üzemváltó állomáson vagy a határállomáson a vasútüzem tevékenységi körében bekövetkezett rendkívüli esemény következtében valamely utas meghal vagy megsérül, illetőleg olyan tárgy, amelyet magával visz vagy magán visel megsérül vagy megsemmisül, a kártérítési igény érvényesítésére jogosulttal szemben az a vasút tartozik felelősséggel, amely államának területén a kárt okozó esemény bekövetkezett, a káresemény helyének joga szerint.
+
+2\. A felelősség vonatkozásában az 1. pontban foglaltak irányadók abban az esetben is, ha az ott megjelölt helyen, illetve esemény során harmadik személy (nem utas és nem vasúti alkalmazott) sérülése vagy halála következik be, vagy olyan tárgy sérül vagy semmisül meg, amely nem tartozik a fuvarozási szerződés hatálya alá.
+
+3\. Ha a vasútüzemben bekövetkezett balesetnél a Szerződő Felek a csatlakozó és átmeneti szolgálattal összefüggő tevékenysége közben határátszelő vonalon, közös állomáson, üzemváltó állomáson vagy határállomáson, illetve szolgálatba menet vagy onnan hazatérve a szomszédos vasút alkalmazottja meghal vagy megsérül, vagy olyan tárgy, amelyet magán visel vagy magával visz megsérül vagy megsemmisül, a jogi helyzetet a kártérítés szempontjából úgy kell megítélni, mintha a kár a szomszédos államban következett volna be.
+
+4\. A fuvarozási szerződésekből, valamint járművek vagy alkatrészeik, rakszerek, szállítótartályok, rakodólapok elveszéséből és megrongálódásából eredő felelősség kérdésében a Szerződő Felekre, illetve a vasutakra kötelező két- vagy többoldalú nemzetközi egyezményekben és megállapodásokban foglaltak irányadók.
+
+5\. A vasutak az 1. és 4. pontban szabályozott felelőssége következtében – az egymással szembeni igények érvényesítése tekintetében – az alábbiak szerint kell eljárniuk:
+
+*a)* a vasúti alkalmazottak által okozott károkat az a vasút viseli, amelynek azok alkalmazottai,
+
+*b)* a vasúti forgalom céljára vagy annak biztosítására szolgáló építmények, berendezések és vontató járművek nem kielégítő állapotából eredő károkat az a vasút viseli, amely ezeket az építményeket, berendezéseket és vontató járműveket fenntartani és felújítani köteles,
+
+*c)* egyéb vasúti járművek nem kielégítő műszaki állapotából keletkezett károkért az a vasút a felelős, amely e járműveket a közös állomáson vagy üzemváltó állomáson műszakilag utoljára átvette,
+
+*d)* ha a kárt mindkét vasút vagy mindkét vasút alkalmazottai okozták, közrehatásuk arányában, ha pedig nem lehet biztosan megállapítani, hogy melyik vasút vagy melyik vasút alkalmazottai okozták azt, vagy a közrehatás aránya nem tisztázható, a kárt a vasutak egyenlő arányban viselik,
+
+*e)* a vasutak maguk viselik az elhárítatlan ok folytán bekövetkezett károkat.
+
+6\. A károk, balesetek és tűzesetek – amelyeknél a másik vasút felelőssége is felmerül – vizsgálatát, okainak megállapítását a két vasút képviselői közösen végzik, azon állam joga szerint, amelynek területén a kárt okozó esemény, baleset vagy tűzeset bekövetkezett.
+
+7\. Annak szabályozása, hogy a vasutak egymással szemben viszontkereseti igénnyel fellépnek-e, azt milyen módon érvényesítik és milyen módon nyújtanak egymásnak kártérítést, a vasutak hatáskörébe tartozik.
+
+*24. Cikk*
+
+*A szolgáltatások elszámolása*
+
+Az elvégzett fuvarozásért és a nyújtott vasúti szolgáltatásokért esedékes fizetések és leszámolások, valamint az okozott anyagi kár megfizetése a Szerződő Felek vasútjaira vonatkozó megállapodások alapján történik.
+
+*25. Cikk*
+
+*Növény-, állategészségügyi és járványügyi vizsgálatok*
+
+Az államhatáron át továbbított vasúti küldemények, ideértve a gyorsan romló árukat és az élő állatokat is, növény-, állategészségügyi és járványügyi vizsgálatát a Szerződő Felek erre illetékes szervei végzik saját jogszabályaiknak és a nemzetközi előírásoknak megfelelően.
+
+*26. Cikk*
+
+*Vegyesbizottság*
+
+1\. A jelen Egyezmény teljesítésére és alkalmazására a Szerződő Felek Vasúti Határforgalmi Vegyesbizottságot (a továbbiakban: Vegyesbizottság) hoznak létre, amely a Szerződő Felek illetékes szerveinek képviselőiből áll.
+
+2\. A Vegyesbizottság szükség szerint, de legalább évente egyszer, felváltva a két Szerződő Fél államának területén ülésezik.
+
+3\. A Vegyesbizottság munkájának rendjét az első ülésen elfogadott ügyrend határozza meg.
+
+*27. Cikk*
+
+*Hatálybalépés és módosítás*
+
+1\. A jelen Egyezmény azon a napon lép hatályba, amikor a Felek írásban kölcsönösen értesítik egymást arról, hogy saját belső törvényes eljárásaikat teljesítették.
+
+2\. A jelen Egyezmény bármilyen módosítását a Szerződő Felek egyeztetik, és azok hatálybalépése a jelen Cikk 1. pontjában foglalt eljárás szerint történik.
+
+*28. Cikk*
+
+*Felmondás*
+
+A jelen Egyezményt a Szerződő Felek meghatározatlan időre kötik. Az Egyezmény hatálya hat hónappal azután szűnik meg, hogy az egyik Fél írásban értesíti a másik Felet az Egyezmény felmondásáról.
+
+Készült Budapesten, 1997. március 12. napján, két eredeti példányban, magyar és román nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+*Dr. Lotz Károly*
+
+Románia Kormánya\
+nevében
+
+*Traian Basescu*''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1998. március 17-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

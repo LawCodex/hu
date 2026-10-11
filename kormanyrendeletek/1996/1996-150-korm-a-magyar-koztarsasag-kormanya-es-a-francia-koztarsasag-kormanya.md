@@ -1,0 +1,101 @@
+---
+title: "150/1996. (X. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a rövid időtartamú tartózkodásokra vonatkozó vízumkötelezettség megszüntetéséről az 1990. évi július hó 4. napján létrejött megállapodás kihirdetéséről szóló 58/1990. (IX. 25.) Korm. rendelettel kihirdetett megállapodás módosítása tárgyában 1995. január 16. napján létrejött Megállapodás kihirdetéséről"
+identifier: "150/1996. (X. 1.) Korm. rendelet"
+njt_id: "1996-150-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/150"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-10-01
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-150-20-22"
+retrieved: 2026-10-12
+---
+
+# 150/1996. (X. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a rövid időtartamú tartózkodásokra vonatkozó vízumkötelezettség megszüntetéséről az 1990. évi július hó 4. napján létrejött megállapodás kihirdetéséről szóló 58/1990. (IX. 25.) Korm. rendelettel kihirdetett megállapodás módosítása tárgyában 1995. január 16. napján létrejött Megállapodás kihirdetéséről
+
+*(A Megállapodás jegyzékváltás útján jött létre, 1995. január 16. napján lépett hatályba.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a rövid időtartamú tartózkodásokra vonatkozó vízumkötelezettség megszüntetéséről az 1990. év július hó 4. napján létrejött, az 58/1990. (IX. 25.) Korm. rendelettel kihirdetett megállapodás módosítása tárgyában, 1995. január 16. napján jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Magyar Köztársaság külügyminiszterének a Francia Köztársaság külügyminiszteréhez intézett szóbeli jegyzéke a következő:
+
+,,A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Francia Köztársaság Külügyminisztériumának, és van szerencséje tudomására hozni a következőket:
+
+A Magyar Köztársaság Kormánya
+
+– figyelembe véve az 1990. július 4-én levélváltással létrejött kétoldalú teljes körű vízummentességi megállapodás eddigi kedvező tapasztalatait,
+
+– hivatkozva a két állam közötti egyetértésről és barátságról Párizsban, 1991. szeptember 11-én aláírt szerződésre,
+
+– megerősítve elkötelezettségét az EBEÉ Záródokumentumában, továbbá a Párizsi Chartában foglaltak mellett,
+
+– attól a céltól vezérelve, hogy tovább könnyítse a francia állampolgárok magyarországi beutazását,
+
+az alábbi könnyítést vezeti be:
+
+1\. A francia állampolgárok érvényes francia személyi igazolvánnyal is beutazhatnak a Magyar Köztársaságba.
+
+2\. A személyi igazolvánnyal beutazók magyarországi belépésére, tartózkodására, az 1. pontban bevezetett intézkedés esetleges felfüggesztésére egyebekben az 1990. évi július hó 4. napján létrejött, a hatályos kétoldalú vízummentességi megállapodás rendelkezései az irányadók.
+
+3\. A Magyar Köztársaság Kormánya a fentiek szerint bevezetésre kerülő lépését, a kölcsönös előnyök és érdekek szem előtt tartásával, a Francia Fél azonos tartalmú viszonossági lépése iránti igényével teszi, attól az időponttól kezdődően, mihelyt annak jogi és adminisztratív feltételei adottak.
+
+4\. A Magyar Köztársaság Külügyminisztériuma kéri a Francia Köztársaság Külügyminisztériumát, hogy a szükséges magyarországi intézkedések bevezetése céljából jelen jegyzékének kézhezvételét, a benne foglaltakkal való egyetértését igazolja vissza.
+
+5\. A Magyar Fél egyúttal megállapítja, hogy ez a jegyzéke és a Francia Fél egyetértését tükröző válaszjegyzéke a hatályos kétoldalú vízummentesség tárgyában a két Szerződő Fél között 1990. év július hó 4. napján létrejött megállapodás 3. pontjának módosítását jelentő kiegészítés, amely a válaszjegyzék kézhezvételével egyidejűleg lép hatályba.
+
+A Magyar Köztársaság Külügyminisztériuma ezúttal is őszinte nagyrabecsülését fejezi ki a Francia Köztársaság Külügyminisztériumának.''
+
+## 3. §
+
+A Francia Köztársaság budapesti nagykövetének a Magyar Köztársaság külügyminiszteréhez intézett francia nyelvű szóbeli jegyzéke hivatalos magyar nyelvű fordítása a következő:
+
+,,Franciaország magyarországi Nagykövetsége tiszteletét fejezi ki Magyarország Külügyminisztériumának és visszaigazolja Magyarország Külügyminisztériuma 1994. december 13-i jegyzékének vételét, melynek szövege a következő:
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Francia Köztársaság Külügyminisztériumának, és van szerencséje tudomására hozni a következőket:
+
+»A Magyar Köztársaság Kormánya
+
+– figyelembe véve az 1990. július 4-én levélváltással létrejött kétoldalú teljes körű vízummentességi megállapodás eddigi kedvező tapasztalatait,
+
+– hivatkozva a két állam közötti egyetértésről és barátságról Párizsban, 1991. szeptember 11-én aláírt szerződésre,
+
+– megerősítve elkötelezettségét az EBEÉ Záródokumentumában, továbbá a Párizsi Chartában foglaltak mellett,
+
+– attól a céltól vezérelve, hogy tovább könnyítse a francia állampolgárok magyarországi beutazását,
+
+az alábbi könnyítést vezeti be:
+
+1\. A francia állampolgárok érvényes francia személyi igazolvánnyal is beutazhatnak a Magyar Köztársaságba.
+
+2\. A személyi igazolvánnyal beutazók magyarországi belépésére, tartózkodására, az 1. pontban bevezetett intézkedés esetleges felfüggesztésére egyebekben az 1990. évi július hó 4. napján létrejött, a hatályos kétoldalú vízummentességi megállapodás rendelkezései az irányadók.
+
+3\. A Magyar Köztársaság Kormánya a fentiek szerint bevezetésre kerülő lépését, a kölcsönös előnyök és érdekek szem előtt tartásával, a Francia Fél azonos tartalmú viszonossági lépése iránti igényével teszi, attól az időponttól kezdődően, mihelyt annak jogi és adminisztratív feltételei adottak.
+
+4\. A Magyar Köztársaság Külügyminisztériuma kéri a Francia Köztársaság Külügyminisztériumát, hogy a szükséges magyarországi intézkedések bevezetése céljából jelen jegyzékének kézhezvételét, a benne foglaltakkal való egyetértését igazolja vissza.
+
+5\. A Magyar Fél egyúttal megállapítja, hogy ez a jegyzéke és a Francia Fél egyetértését tükröző válaszjegyzéke a hatályos kétoldalú vízummentesség tárgyában a két Szerződő Fél között 1990. év július hó 4. napján létrejött megállapodás 3. pontjának módosítását jelentő kiegészítés, amely a válaszjegyzék kézhezvételével egyidejűleg lép hatályba.
+
+A Magyar Köztársaság Külügyminisztériuma ezúttal is őszinte nagyrabecsülését fejezi ki a Francia Köztársaság Külügyminisztériumának.«
+
+Franciaország magyarországi Nagykövetsége megelégedéssel elfogadja a Magyar Köztársaság Kormányának a francia állampolgárok magyarországi belépésének megkönnyítését célzó javaslatát, de jelenleg nem áll módjában kedvező választ adni a Magyar Köztársaság Kormányának a Francia Fél azonos tartalmú viszonos intézkedése iránti kérésére.
+
+Ugyanakkor arról biztosítja a Magyar Köztársaság Kormányát, hogy nemzeti téren és a Schengen Csoport-beli partnereivel kötött megállapodásai keretében egyaránt, aktívan dolgozik a magyar javaslat teljes elfogadását akadályozó kérdések megoldásán.
+
+Franciaország magyarországi Nagykövetsége megragadja az alkalmat, hogy a Magyar Köztársaság Külügyminisztériumát ismételt nagyrabecsüléséről biztosítsa.''
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a rendelet rendelkezéseit azonban 1995. január 16. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 4. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 63. pontja szerint módosított szöveg.

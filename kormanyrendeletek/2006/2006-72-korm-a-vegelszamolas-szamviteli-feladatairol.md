@@ -1,0 +1,254 @@
+---
+title: "72/2006. (IV. 3.) Korm. rendelet a végelszámolás számviteli feladatairól"
+identifier: "72/2006. (IV. 3.) Korm. rendelet"
+njt_id: "2006-72-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/72"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-04-03
+in_force_from: 2009-01-01
+last_amended: 2017-12-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-72-20-22"
+retrieved: 2026-10-12
+---
+
+# 72/2006. (IV. 3.) Korm. rendelet a végelszámolás számviteli feladatairól
+
+A Kormány a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 178. §-a (1) bekezdésének *f)* pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) A rendelet hatálya arra a számviteli törvény hatálya alá tartozó gazdálkodóra terjed ki, amelynél a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) 94. §-ának (1) és (2) bekezdése alapján végelszámolásnak van helye.
+
+(1a)[^1] A rendelet hatálya kiterjed a külföldi székhelyű vállalkozás magyarországi fióktelepére (a továbbiakban: fióktelep) is, amennyiben azt a külföldi székhelyű vállalkozás erre vonatkozó döntésével megszünteti.
+
+(2) A számviteli törvény hatálya alá nem tartozó, illetve cégnek nem minősülő szervezet végelszámolása esetén a rendelet előírásainak megfelelő alkalmazását jogszabály előírhatja.
+
+## A végelszámolás időszaka
+
+### 2. §
+
+(1) A végelszámolás időszaka a végelszámolásnak a Ctv.-ben meghatározott kezdő időpontjától a végelszámolás befejezése időpontjáig, illetve – a gazdálkodó törlését követően – a vagyonnak a tulajdonosok részére történő kiadásáig terjed.
+
+(2) A végelszámolás időszaka alatt a gazdálkodóra a számviteli törvény, illetve a számviteli törvény felhatalmazása alapján kiadott, az adott gazdálkodóra vonatkozó sajátos könyvvezetési és beszámoló készítési szabályokat tartalmazó kormányrendelet (a továbbiakban: vonatkozó számviteli kormányrendelet) előírásait a Ctv.-ben és e rendeletben előírtak figyelembevételével kell alkalmazni. A számviteli törvénynek, illetve a vonatkozó számviteli kormányrendeletnek a Ctv.-vel és e rendelettel nem érintett előírásai a végelszámolás időszaka alatt is alkalmazandók.
+
+(3) A végelszámolás időszaka alatt a gazdálkodó úgy köteles vezetni analitikus és főkönyvi nyilvántartásait, hogy azok alkalmasak legyenek:
+
+a)[^2] a korrigált végelszámolási nyitó mérleg,
+
+b) a számviteli törvény 11. §-ának (12) bekezdése szerinti üzleti évenként készítendő számviteli beszámoló,
+
+c) a számviteli adatokra épülő adóbevallások,
+
+d) a végelszámolás befejezésekor a piaci értéken történő értékelés, valamint a vagyonfelosztási javaslat
+
+alátámasztására.
+
+## Számviteli feladatok a végelszámolás megindításakor
+
+### 3. §
+
+(1) A végelszámolásra kerülő gazdálkodó vezető tisztségviselője a végelszámolás kezdő időpontját megelőző nappal – mint mérlegfordulónappal – a számviteli törvény 11. §-ának (10) bekezdése szerinti üzleti évről a gazdálkodó tevékenységét lezáró beszámolót készít a számviteli törvénynek, illetve a vonatkozó számviteli kormányrendeletnek az adott gazdálkodóra vonatkozó előírásai szerint.
+
+(2)[^3] A tevékenységet lezáró beszámolót a végelszámolás kezdő időpontjától számított 30 napon belül kell elkészíteni és a jóváhagyásra jogosult testülettel elfogadtatni, azt – kötelező könyvvizsgálat esetén – a független könyvvizsgálói jelentéssel együtt legkésőbb a 30. napon a végelszámoló részére át kell adni.
+
+(3) A tevékenységet lezáró beszámolóval egyidejűleg üzleti jelentést nem kell készíteni.
+
+(4)[^4] A tevékenységet lezáró beszámolót – kötelező könyvvizsgálat esetén – a független könyvvizsgálói jelentéssel együtt, valamint az adózott eredmény felhasználására vonatkozó határozatot a végelszámolás kezdő időpontjától számított 30 napon belül a számviteli törvény 153–154/B. §-ai, illetve a vonatkozó számviteli kormányrendelet előírásai szerint letétbe kell helyezni és közzé kell tenni.
+
+## Számviteli feladatok a végelszámolás időszaka alatt
+
+### 4. §
+
+(1)[^5] A végelszámoló a 3. § szerinti tevékenységet lezáró beszámoló mérlege (az azt alátámasztó leltár) alapján a végelszámolás kezdő időpontjával végelszámolási nyitó mérleget (nyitó leltárt) készít.
+
+(2) A végelszámolás alatt álló gazdálkodó könyvviteli nyilvántartásait a végelszámolási nyitó mérleg (nyitó leltár) adatai alapján nyitja meg, az eszközök és azok forrásai változását érintő gazdasági eseményeket a számviteli törvény, illetve a vonatkozó számviteli kormányrendelet könyvvezetésre, bizonylatolásra vonatkozó előírásai szerint számolja el.
+
+(3)[^6] A végelszámoló a végelszámolási nyitó mérleg (nyitó leltár) adatait a hitelezők igénybejelentése, valamint a vagyoni helyzet felmérése alapján – szükség szerint – korrigálja. Ennek során dönthet a végelszámolási nyitó mérlegben (nyitó leltárban) nem szereplő követelések, illetve kötelezettségek felvételéről, továbbá értékhelyesbítés és értékelési tartalék, időbeli elhatárolás, értékvesztés, terven felüli értékcsökkenés, céltartalék elszámolásáról, a korábban ilyen címen elszámolt összegek módosításáról.
+
+(4) A végelszámoló a (3) bekezdés szerinti eltérésekről (korrekciókról) tételes (eszközönkénti-forrásonkénti részletezésben) jegyzéket készít, és az általa megállapított eltérésekkel – azoknak a számviteli törvény, illetve a vonatkozó számviteli kormányrendelet szerinti elszámolásával – módosítja az (1) bekezdés szerinti végelszámolási nyitó mérleg adatait.
+
+(5) A végelszámoló által készített korrigált végelszámolási nyitó mérleg
+
+a) első oszlopa az (1) bekezdés szerinti végelszámolási nyitó mérleg adatait,
+
+b) második oszlopa a (4) bekezdés szerinti eltéréseket,
+
+c) harmadik oszlopa pedig az első és második oszlop összevont adatát
+
+tartalmazza.
+
+(6) A korrigált végelszámolási nyitó mérlegben a (4) bekezdés szerinti eltérések együttes adózás előtti eredményt érintő összegéből
+
+a)[^7] az adózott eredmény sorba kell beállítani a számított (kalkulált) társasági adóval csökkentett részt, míg
+
+b) a számított (kalkulált) társasági adó összegét a kötelezettségek között kell kimutatni.
+
+(7) A (4) bekezdés szerinti eltérésekkel a (2) bekezdés szerint megnyitott könyvviteli nyilvántartások adatait kell módosítani, a módosításokat az értékhelyesbítés és az értékelési tartalék összegét érintő tételek kivételével a megfelelő eredményszámlával szemben kell elszámolni. A korrigált végelszámolási nyitó mérleg készítésekor a könyvviteli nyilvántartásokat nem szabad lezárni.
+
+(8) A végelszámolónak a korrigált végelszámolási nyitó mérleget a végelszámolási nyitó mérleg elkészítését követően – a hitelezők igénybejelentésére nyitva álló határidő figyelembevételével – legfeljebb 75 napon belül kell elkészítenie és azt a gazdálkodó legfőbb szerve elé terjesztenie. A korrigált végelszámolási nyitó mérleg a végelszámoló döntésének megfelelő értéken tartalmazza a végelszámolásra átvett gazdálkodó eszközeit és kötelezettségeit, a végelszámolás kezdő időpontjában meglévő vagyonát.
+
+### 5. §
+
+(1) A végelszámolás időszaka alatt a végelszámoló a számviteli törvény 11. §-ának (12) bekezdésében meghatározott üzleti évenként a gazdálkodóra előírt számviteli beszámolót köteles készíteni a számviteli törvény, illetve a vonatkozó számviteli kormányrendelet mérleg-fordulónapon hatályos előírásai szerint, annak feltüntetésével, hogy a gazdálkodó végelszámolás alatt áll.
+
+(2) A végelszámoló a végelszámolás első üzleti évéről olyan számviteli beszámolót köteles készíteni, amelynek
+
+a) mérlege külön-külön oszlopban tartalmazza a végelszámolási nyitó mérleg adatait, illetve korrekció esetén a 4. § (5) bekezdése szerinti korrigált végelszámolási nyitó mérleg adatait, valamint az üzleti év záró adatait;
+
+b) eredmény-kimutatása az előző üzleti év adatai mellett külön-külön oszlopban tartalmazza a 4. § (4) bekezdése szerinti eltérések eredményre gyakorolt hatását, a tárgyévi tevékenység bevételeit, költségeit, ráfordításait, valamint ezek összevont adatait (a tárgyévi üzleti év adatait).
+
+(3)[^8] A végelszámolás időszaka alatt készített számviteli beszámoló mérlegében és eredmény-kimutatásában a számviteli törvény 3. §-a (3) bekezdésének 3. pontjában meghatározott jelentős összegű hibákkal összefüggő, az előző üzleti évvel (évekkel) kapcsolatos módosításokat külön oszlopban kell bemutatni. A végelszámolás időszaka alatt fellelt – követelésnek nem minősülő – olyan, értékkel rendelkező eszközöket, amelyek a tevékenységet lezáró számviteli beszámoló mérlegében, illetve az azt alátámasztó nyilvántartásban nem szerepeltek, a fellelés (megtalálás) jogcímének megfelelően kell a könyvekbe felvenni, vagy a számviteli törvény szerinti önellenőrzés keretében, vagy a többletként fellelt (a nem adminisztrációs hibából származó többlet-) eszközökre vonatkozó előírások szerint.
+
+(4) A végelszámolás időszaka alatt készített számviteli beszámolóval egyidejűleg üzleti jelentést nem kell készíteni.
+
+(5) A végelszámolás időszaka alatt a könyvvizsgálat tekintetében a számviteli törvény, illetve a vonatkozó számviteli kormányrendelet előírásait kell megfelelően alkalmazni.
+
+(6)[^9] A végelszámolás időszaka alatt készített (a jóváhagyásra jogosult testület által elfogadott) számviteli beszámolót – kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt – a végelszámolási időszak üzleti éve mérleg-fordulónapját követő ötödik hónap utolsó napjáig kell a számviteli törvény 153–154/B. §-ai, illetve a vonatkozó számviteli kormányrendelet előírásai szerint letétbe helyezni és közzétenni.
+
+(7)[^10] A vitatott hitelezői igények fedezetére, továbbá a jövőben felmerülő szavatossági, jótállási, kártérítési kötelezettségek rendezésére az eredménytartalékkal szemben képzett lekötött tartalékot elkülönítetten kell nyilvántartani.
+
+(8)[^11] Amennyiben a végelszámolás időszaka alatt a vitatott hitelezői igények rendezésre (kielégítésre, vagy a hitelezők részéről elengedésre) kerülnek, akkor az ilyen címen képzett lekötött tartalékot fel kell oldani.
+
+(9)[^12] Ha a jövőben felmerülő szavatossági, jótállási és kártérítési kötelezettségek rendezésére az ügy összes körülményei figyelembevételével képzett lekötött tartalékot, illetve az ennek megfelelő eszközt (pénzeszközt) harmadik személynek át kell adni, az átadást a lekötött tartalékkal szemben kell elszámolni.
+
+(10)[^13] Amennyiben a végelszámoló a Ctv. 99. §-ának (5), illetve (6) bekezdése alapján a cég vagyonához tőke-hozzájárulás teljesítésére köteles, a végelszámoló által teljesített tőke-hozzájárulást a saját tőkébe (az eredménytartalékba) kell helyezni.
+
+### 6. §
+
+(1) Amennyiben a végelszámolás alatt álló gazdálkodó legfőbb szerve a végelszámolás megszüntetéséről és a gazdálkodó működésének továbbfolytatásáról dönt, akkor a végelszámolás megszüntetésének időpontjáról is döntenie kell. A végelszámoló a végelszámolás megszüntetésének időpontjával – mint mérleg-fordulónappal – köteles a számviteli törvény 11. §-ának (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni, és a jóváhagyásra jogosult testületnek előterjeszteni.
+
+(2) Amennyiben a végelszámoló kezdeményezésére a gazdálkodó felszámolását rendelik el, a végelszámoló a felszámolás kezdő időpontját megelőző nappal – mint mérleg-fordulónappal – köteles a számviteli törvény 11. §-ának (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, a felszámolás számviteli feladatairól szóló kormányrendelet előírásainak figyelembevételével, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni. Az így elkészült számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
+
+(3)[^14] Amennyiben a gazdálkodó a végelszámolást három éven belül nem fejezte be és a cégbíróság kényszertörlési eljárás megindítását rendelte el, a végelszámoló a kényszertörlési eljárás kezdő időpontját (kényszertörlési eljárás megindításáról szóló bírósági végzés közzétételének napja) megelőző nappal – mint mérlegfordulónappal – köteles a számviteli törvény 11. § (12) bekezdése szerinti üzleti évről az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót elkészíteni, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni. Az így elkészült számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia.
+
+(4)[^15] Az (1), illetve a (2) és (3) bekezdés szerinti – a végelszámolást lezáró – számviteli beszámolót a végelszámoló a végelszámolás megszüntetésének időpontját – mint mérlegfordulónapot – követő ötödik hónap utolsó napjáig, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző napot – mint mérlegfordulónapot – követő 30 napon belül a számviteli törvény 153–154/B. §-a, valamint a vonatkozó számviteli kormányrendelet előírásai szerint köteles letétbe helyezni és közzétenni.
+
+(5)[^16] A végelszámoló a végelszámolás megszüntetésének időpontjával, illetve a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal köteles a könyvviteli nyilvántartásokat lezárni, azokat a gazdálkodó kijelölt tisztségviselőjének, illetve a felszámolónak az (1) és (3), illetve a (2) bekezdés szerinti számviteli beszámolóval együtt átadni.
+
+(6)[^17] A tevékenységét, működését továbbfolytató, valamint a felszámolás alá, illetve a kényszertörlési eljárás alá került gazdálkodó a végelszámolótól átvett számviteli beszámoló mérlege (az azt alátámasztó leltár) alapján nyitja meg könyvviteli nyilvántartásait.
+
+## Számviteli feladatok a végelszámolás befejezésekor
+
+### 7. §
+
+(1) A végelszámoló a végelszámolás befejezésekor az általa meghatározott nappal – mint mérleg-fordulónappal – a végelszámolás időszaka utolsó üzleti évéről, a végelszámolás időszakát lezáró, az 5. § (1) és (2) bekezdése szerinti számviteli beszámolót köteles készíteni a (2)–(5) bekezdésben foglaltak figyelembevételével, kötelező könyvvizsgálat esetén azt könyvvizsgálóval ellenőriztetni, és a jóváhagyásra jogosult testületnek előterjeszteni.
+
+(2)[^18] Ha a végelszámolás befejezésekor a végelszámolás alatt álló gazdálkodó könyvviteli nyilvántartásaiban a forintban lévő pénzeszközön kívül egyéb eszközök, a források között kötelezettségek is szerepelnek, a végelszámoló köteles azokat tételesen piaci értéken értékelni. A kötelezettségek, valamint a részesedésnek, értékpapírnak, vagy tartósan adott kölcsönnek nem minősülő eszközök – a vásárolt követelések kivételével – piaci értéke és a könyv szerinti értéke közötti különbözetet az egyéb ráfordítások, illetve az egyéb bevételek között kell – a könyvviteli számlák zárása előtt – elszámolni. A befektetett eszközök között kimutatott részesedésnek, értékpapírnak és kölcsönnek minősülő eszközök átértékelési különbözetét jellegének megfelelően részesedésekből származó bevételként, árfolyamnyereségként, vagy befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételként, árfolyamnyereségként vagy részesedések, értékpapírok, tartósan adott kölcsönök, bankbetétek értékvesztéseként kell elszámolni. Ha az átértékelt eszköz a forgóeszközök között kimutatott részesedés, értékpapír, akkor azok átértékelési különbözetét a pénzügyi műveletek egyéb bevételeként, vagy a részesedések, értékpapírok, tartósan adott kölcsönök, bankbetétek értékvesztéseként kell elszámolni. A vásárolt követelések átértékelési különbözetét jellegének megfelelően a pénzügyi műveletek egyéb bevételeként, vagy a pénzügyi műveletek egyéb ráfordításaként kell elszámolni.
+
+(2a)[^19] A piaci értéken történő értékelés (2) bekezdés szerinti elszámolása előtt a könyvviteli nyilvántartásokban kimutatott értékhelyesbítést, illetve értékelési különbözetet a megfelelő értékelési tartalékkal szemben ki kell vezetni, a követelés jellegű időbeli elhatárolásokat a követelések közé, a kötelezettség jellegű időbeli elhatárolásokat a kötelezettségek közé át kell vezetni. A részesedésnek, értékpapírnak, tartósan adott kölcsönnek nem minősülő eszközökhöz – a vásárolt követelések kivételével – kapcsolódó egyéb időbeli elhatárolásokat az egyéb ráfordításokkal, illetve az egyéb bevételekkel szemben, a céltartalékokat az egyéb bevételekkel szemben meg kell szüntetni. A befektetett eszközök között kimutatott részesedésnek, értékpapírnak és kölcsönnek minősülő eszközökhöz kapcsolódó elhatárolt összegeket jellegüknek megfelelően részesedésekből származó bevételként, árfolyamnyereségként vagy befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételként, árfolyamnyereségként, illetve részesedésekből származó ráfordításként, árfolyamveszteségként, vagy befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó ráfordításként, árfolyamveszteségként kell elszámolni. Ha az elhatárolt összeg forgóeszközök között kimutatott részesedéshez, értékpapírhoz vagy vásárolt követeléshez kapcsolódik, akkor annak megszüntetését a pénzügyi műveletek egyéb bevételeként vagy a pénzügyi műveletek egyéb ráfordításaként kell elszámolni. A végelszámolási időszak utolsó üzleti évéről készített számviteli beszámoló mérlegében értékhelyesbítés, értékelési különbözet, illetve értékelési tartalék, valamint aktív és passzív időbeli elhatárolás, továbbá céltartalék nem mutatható ki.
+
+(3)[^20] Amennyiben a végelszámolás befejezésekor a végelszámolás alatt álló gazdálkodó eszközei között olyan eszközök is vannak, amelyek után az általános forgalmi adóról szóló törvény szerint a tulajdonosoknak történő eszköz-kiadáskor általános forgalmi adó fizetési kötelezettség keletkezik, akkor a fizetendő általános forgalmi adót a kötelezettségek közé be kell állítani az egyéb ráfordításokkal szemben, illetve, ha az a tulajdonosokra áthárítható, a tulajdonosokkal szembeni követelésként.
+
+(4) A végelszámoló díját, továbbá – amennyiben a végelszámolás befejezéséig azokat nem számolták el – a végelszámolás költségeit, az iratanyag őrzésének a költségeit és a gazdálkodó megszűnésével kapcsolatosan felmerülő egyéb költségeket, ráfordításokat (ideértve az adófizetési kötelezettségeket is) a kötelezettségek közé kell beállítani a megfelelő költségekkel, ráfordításokkal szemben. A végelszámolás befejezéséig el nem számolt, a vagyon kiadásáig – a kiadandó eszközökhöz kapcsolódóan – felmerülő bevételeket a megfelelő bevételek között a követelésekkel szemben kell figyelembe venni.
+
+(5) A (2) bekezdés szerinti piaci értéken történő értékelés (átértékelés), valamint a (3) és (4) bekezdés szerinti tételek elszámolása után elkészített mérlegben az eszközök, illetve a kötelezettségek piaci értéken szerepelnek, a piaci értéken történő értékelésnek, valamint a (3) és (4) bekezdés szerinti elszámolásoknak az eredményre gyakorolt hatását az eredmény-kimutatás adózás előtti eredménye foglalja magában.
+
+(6)[^21] Az (1) bekezdés szerint számviteli beszámolót a gazdálkodó törlésére irányuló kérelem benyújtásával egyidejűleg, de legkésőbb a beszámoló mérleg-fordulónapját követő 60 napon belül a számviteli törvény 153–154/B. §-ai, illetve a vonatkozó számviteli kormányrendelet előírásai szerint letétbe kell helyezni és közzé kell tenni. A számviteli beszámoló és az azt alátámasztó leltár alapján vagyonfelosztási javaslatot kell készíteni.
+
+(6a)[^22] A (6) bekezdés szerinti beszámoló letétbe helyezésével és közzétételével egyidejűleg esedékessé válik azon beszámolók letétbe helyezése és közzététele is, amelyekre a vonatkozó határidő az 5. § (6) bekezdés alapján egyébként még nem járt le.
+
+(7) A vagyonfelosztási javaslatba az (1) bekezdés szerinti számviteli beszámoló mérlegében kimutatott eszközöket a következők szerint – elkülönítve – kell beállítani:
+
+a) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 4. §-ának (3) bekezdésében meghatározott vagyoni eszközök;
+
+b) a számviteli beszámoló mérlegében kimutatott kötelezettségek (ideértve a lekötött tartalékként kimutatott kötelezettségeket is) rendezésére szolgáló eszközök;
+
+c) a tulajdonosok részére kiadandó eszközök.
+
+## A vagyon kiadása
+
+### 8. §
+
+(1) A 7. § (1) bekezdése szerinti számviteli beszámoló, valamint a 7. § (6) és (7) bekezdése szerinti vagyonfelosztási javaslat elfogadásakor a végelszámolás alatt álló gazdálkodó legfőbb szerve dönt a felosztott vagyon kiadásáról.
+
+(2) A végelszámoló a vagyon kiadását akkor kezdheti meg a Ctv. 112. §-ának (3) bekezdése szerint, ha a gazdálkodó törlésére vonatkozó végzést a Cégbíróság meghozta.
+
+(3) A végelszámoló a vagyoni eszközök kiadása, a számviteli beszámoló mérlegében szereplő kötelezettségek rendezése előtt köteles a könyvviteli nyilvántartásokat megnyitni, a vagyoni eszközök kiadását, a kötelezettségek rendezését a számviteli törvény előírásai szerint bizonylatolni, a könyvviteli nyilvántartásokban rögzíteni.
+
+(4) A végelszámolás e rendelet alkalmazásában akkor tekinthető befejezettnek, ha a vagyoni eszközök kiadása, a kötelezettségek rendezése megtörtént, ha a könyvviteli nyilvántartások értékadatokat nem tartalmaznak.
+
+## Egyszerűsített végelszámolás, illetve kényszer-végelszámolás
+
+### 9. §
+
+(1) Egyszerűsített végelszámolás esetén az 1–4. §-okban, az 5. § (1)–(5) bekezdésében, továbbá a 6–8. §-okban foglaltakat kell értelemszerűen alkalmazni.
+
+(2) Kényszer-végelszámolás esetén az 1–5. §-okban, a 6. § (2)–(4) bekezdésében, továbbá a 7. és 8. §-okban foglaltakat kell értelemszerűen alkalmazni.
+
+## Fióktelep megszüntetése[^23]
+
+### 9/A. §[^24]
+
+(1) Fióktelep megszüntetése esetén a fióktelep cégnyilvántartásból való törlésének időpontjával, mint mérlegfordulónappal el kell készíteni a tevékenységet lezáró beszámolót.
+
+(2) Az (1) bekezdés szerinti beszámolót – kötelező könyvvizsgálat esetén – a független könyvvizsgálói jelentéssel együtt, valamint az adózott eredmény felhasználására vonatkozó határozatot a mérlegfordulónapot követő 45 napon belül kell a számviteli törvény 153–154/B. §-ai szerint letétbe helyezni, közzétenni.
+
+(3) Amennyiben a fióktelep a megszüntetését megelőző üzleti év(ek)ben mentesült a számviteli törvény 154/A. § alapján saját beszámolójának közzétételétől, letétbe helyezésétől, úgy a (2) bekezdés szerinti határidőt a fióktelep tevékenységet lezáró beszámolójának elkészítésére kell érteni.
+
+(4) A tevékenységet lezáró beszámolóra megfelelően alkalmazni kell a 7. § (2)–(5) bekezdésében foglaltakat is, a tevékenységet lezáró beszámolón kívül további beszámolót nem kell készíteni.
+
+(5) E rendelet egyéb előírásait csak annyiban kell alkalmazni jelen alcím tekintetében, amennyiben azok – figyelemmel a (4) bekezdésben foglaltakra is – megfelelően értelmezhetőek a fióktelep megszüntetésére.
+
+## Záró rendelkezések
+
+### 10. §
+
+(1) Ez a rendelet 2006. július 1. napján lép hatályba. Rendelkezéseit a hatálybalépést követően megindított végelszámolásnál kell alkalmazni.
+
+(2)–(4)[^25]
+
+### 11. §
+
+A rendelet hatálybalépésekor folyamatban lévő végelszámolásnál a 2006. július 1-jéig hatályos rendelkezéseket kell alkalmazni.
+
+### 12. §[^26]
+
+(1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 342/2011. (XII. 29.) Korm. rendelet 48. §-ával megállapított 1. § (1a) bekezdését és 49. §-ával megállapított 9/A. §-át a 2012. január 1-jével vagy azt követően megszüntetett fióktelepekre kell alkalmazni.
+
+(2) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 342/2011. (XII. 29.) Korm. rendelet 51. §-ával módosított 5. § (6) bekezdését és 6. § (3) bekezdését először a 2012. évben induló üzleti évről készített beszámolóra kell alkalmazni, de a 2011. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+### 13. §[^27]
+
+A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 87. §-ával megállapított 7. § (2) és (2a) bekezdését, 89. §-ával megállapított 4. § (6) bekezdés *a)* pontját, 7. § (3) bekezdését először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+### 14. §[^28]
+
+(1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 87. §-ával megállapított 7. § (2)–(2a) bekezdését először a 2017. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 87. §-ával megállapított 7. § (2)–(2a) bekezdése a 2016. évben induló üzleti évről készített beszámolóra is alkalmazható.
+
+---
+
+[^1]: A 1. § (1a) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 48. §-a iktatta be.
+[^2]: A 2. § (3) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 27. § a) és b) pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 27. § 2. pontja szerint módosított szöveg.
+[^7]: A 4. § (6) bekezdés a) pontja a 484/2015. (XII. 29.) Korm. rendelet 89. § 1. pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdésének második mondatát a 357/2006. (XII. 27.) Korm. rendelet 20. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^9]: Az 5. § (6) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^10]: Az 5. § (7) bekezdése a 357/2006. (XII. 27.) Korm. rendelet 21. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^11]: Az 5. § új (8) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 21. §-a iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatva, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^12]: Az 5. § (9) bekezdését a 357/2006. (XII. 27.) Korm. rendelet 21. §-a iktatta be, alkalmazására lásd e módosító rendelet 24. § (1)–(2) bekezdését.
+[^13]: Az 5. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta a 357/2006. (XII. 27.) Korm. rendelet 21. §-a.
+[^14]: A 6. § (3) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított, az 518/2013. (XII. 30.) Korm. rendelet 58. § a) pontja szerint módosított szöveg.
+[^15]: A 6. § (4) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított, az 518/2013. (XII. 30.) Korm. rendelet 58. § b) pontja szerint módosított szöveg.
+[^16]: A 6. § (5) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^17]: A 6. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 25. §-a iktatta be.
+[^18]: A 7. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 87. § (1) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
+[^19]: A 7. § (2a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 57. § (2) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 87. § (2) bekezdésével megállapított szöveg.
+[^20]: A 7. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 89. § 2. pontja szerint módosított szöveg.
+[^21]: A 7. § (6) bekezdése a 330/2008. (XII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg. E módosító rendelet 7. § (2) bekezdése alapján a rendelkezéssel meghatározott 60 napos határidőt azokra a beszámolókra kell alkalmazni, amelyek mérlegfordulónapja 2009. április 30. napját követő napra esik.
+[^22]: A 7. § (6a) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 26. §-a iktatta be.
+[^23]: A 9/A. §-t megelőző alcímet a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^24]: A 9/A. §-t a 342/2011. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^25]: A 10. § (2)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 336. pontja hatályon kívül helyezte.
+[^26]: A 12. §-t a 342/2011. (XII. 29.) Korm. rendelet 50. §-a iktatta be.
+[^27]: A 13. §-t a 484/2015. (XII. 29.) Korm. rendelet 88. §-a iktatta be.
+[^28]: A 14. §-t a 480/2016. (XII. 28.) Korm. rendelet 88. §-a iktatta be.

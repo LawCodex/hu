@@ -1,0 +1,140 @@
+---
+title: "274/2000. (XII. 28.) Korm. rendelet a Vámformalitások Egyszerűsítése EK–EFTA Vegyes Bizottságának 2000. december 20-i 1/2000. számú határozata kihirdetéséről"
+identifier: "274/2000. (XII. 28.) Korm. rendelet"
+njt_id: "2000-274-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/274"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-28
+in_force_from: 2001-07-01
+last_amended: 2001-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-274-20-22"
+retrieved: 2026-10-12
+---
+
+# 274/2000. (XII. 28.) Korm. rendelet a Vámformalitások Egyszerűsítése EK–EFTA Vegyes Bizottságának 2000. december 20-i 1/2000. számú határozata kihirdetéséről
+
+## 1. §
+
+A Magyar Köztársaság Kormánya a Vámformalitások Egyszerűsítése EK–EFTA Vegyes Bizottságának 1/2000. számú határozatát e kormányrendelettel kihirdeti.
+
+## 2. §
+
+A határozat hivatalos magyar nyelvű fordítása a következő:
+
+,,
+
+A Vámformalitások Egyszerűsítése\
+EK–EFTA Vegyes Bizottságának
+
+**2000. december 20-i,**
+
+**1/2000. számú határozata**
+
+a Vámformalitások Egyszerűsítéséről\
+szóló Egyezmény II. és III. Függelékeinek\
+módosításáról
+
+A Vegyes Bizottság,
+
+tekintettel a vámformalitások egyszerűsítését célzó 1987. május 20-i Egyezményre, és különösen annak 11. Cikk (3) bekezdésére,
+
+tekintettel arra, hogy az egységes árutovábbítási eljárást érintően olyan új rendelkezéseket foglaltak az 1987. május 20-i Egyezménybe, amelyek a továbbítási bejelentők által igényelt adatokra vonatkoznak,
+
+tekintettel arra, hogy a Vámformalitások Egyszerűsítéséről szóló Egyezmény II. és III. Függelékét ennek megfelelően módosítani kell,
+
+az alábbi határozatot hozta:
+
+*1. Cikk*
+
+A Vámformalitások Egyszerűsítéséről szóló Egyezmény II. és III. Függelékei a jelen határozat Függeléke szerint módosításra kerülnek.[^1]
+
+*2. Cikk*
+
+Ez a határozat az elfogadása napján lép hatályba.
+
+A határozat 2001. július 1-jétől kötelező érvényű.
+
+Kelt Brüsszelben, 2000. december 20-án.
+
+A Vegyes Bizottság nevében\
+az elnök
+
+*FÜGGELÉK*
+
+*A) A II. Függeléket a következők szerint kell módosítani:*
+
+1\. A 2. Cikk (1) bekezdésének negyedik mondata helyett a következő mondatot kell felvenni:
+
+,,Az árutovábbításhoz használt példányokon (1., 4. és 5.) azonban az 1. (kivéve a második rovatrészt), 2., 3., 4., 5., 6., 8., 15., 17., 18., 19., 21., 25., 27., 31., 32., 33. (az első almező balra), 35., 38., 40., 44., 50., 51., 52., 53., 55. és 56. rovatoknak zöld az alapja.''
+
+2\. A 6. Cikk (2) bekezdése helyett a következő szöveget kell felvenni:
+
+,,(2) A továbbítási eljáráshoz az I. Függelék 1. Melléklete szerinti mintának az 1., 4. és 5. példányai, vagy az I. Függelék 2. Melléklete szerinti mintának az 1/6. és 4/5. (dupla) példányai szükségesek.''
+
+3\. A 3. Melléklet I. Cím ,,*A)* Általános megjegyzések'' részben a következő módosításokat kell végrehajtani:
+
+*a)* Az 1. pont második albekezdésének hetedik gondolatjele utáni szöveg helyett a következő szöveget kell felvenni:
+
+,,– 7. példány, amely a rendeltetési ország statisztikai céljaira szolgál (behozatal formalitásai),''
+
+*b)* A 2. pont harmadik albekezdésének második gondolatjele utáni szöveg helyett a következő szöveget kell felvenni:
+
+,,– kivitel + továbbítás: 1., 2., 3., 4. és 5. példányok,''
+
+*c)* A 2. pont harmadik albekezdésének negyedik gondolatjele utáni szöveg helyett a következő szöveget kell felvenni:
+
+,,– csak továbbítási eljárás: 1., 4. és 5. példányok,''
+
+4\. A 3. Melléklet I. Cím ,,*B)* A kért adatok'' részben a következő módosításokat kell végrehajtani:
+
+A második bekezdés második gondolatjele utáni szöveg helyett a következő szöveget kell felvenni:
+
+,,– A továbbítási eljárás formalitásainak teljesítése esetén: 1. (harmadik rovatrész[^2]), 2., 3., 4., 5., 6., 8., 15., 17., 18., 19., 21., 25., 27., 31., 32., 33. (első almező), 35., 38., 40., 44., 50., 51., 52., 53., 55. és 56. (zöld alapú) rovatok,''
+
+5\. A 3. Melléklet II. Cím ,,I. Formalitások a kiléptető országban'' részben a következő módosításokat kell végrehajtani:
+
+*a)* A 33. rovatra vonatkozó szöveg helyett a következő szöveget kell felvenni:
+
+,,33. sz. rovat: Vámtarifaszám
+
+Ebbe a rovatba az érintett árutétel vámtarifaszámát kell megadni.
+
+A továbbítás és az áruk közösségi státuszának igazolása vonatkozásában a Szerződő Feleknek ezt a rovatot nem kell kitölteniük, kivéve azokat az eseteket, ahol az Egységes Árutovábbítási Eljárásról szóló 1987. május 20-i Egyezmény azt írja elő, hogy ennek használata kötelező.''
+
+*b)* A 40. rovatra vonatkozó szöveg második bekezdéseként a következő szöveget kell felvenni:
+
+,,A továbbítás és az áruk közösségi státuszának igazolása vonatkozásában a Szerződő Feleknek ezt a rovatot nem kell kitölteniük, kivéve azokat az eseteket, ahol az Egységes Árutovábbítási Eljárásról szóló 1987. május 20-i Egyezmény azt írja elő, hogy ennek használata kötelező.''
+
+6\. A 3. Melléklet II. Cím ,,II. Formalitások szállítás közben'' részben a következő módosításokat kell végrehajtani:
+
+Az 55. ,,Átrakodások'' rovat szövege helyett az alábbi szöveget kell felvenni:
+
+,,A rovatot az Egységes Árutovábbítási Eljárásról szóló 1987. május 20-i Egyezménynek megfelelően kell kitölteni.''
+
+*B) A III. Függeléket a következők szerint kell módosítani:*
+
+A 33. rovatnál az első almezőre való utalás helyébe a következő szöveget kell felvenni:
+
+,,33. sz. rovat: Vámtarifaszám
+
+Első almező
+
+A Közösségben a Kombinált Nómenklatúra nyolc számjegyét kell megadni. Az EFTA országokban ezen almező bal részébe a HR kód[^3] hat számjegyét kell beírni.
+
+A továbbítási eljárás esetén, ahol az Egységes Árutovábbítási Eljárásról szóló 1987. május 20-i Egyezmény azt előírja, a HR kód [^4] legalább hat számjegyét kell megadni.''
+
+## 3. §
+
+(1) Ez a rendelet 2001. július 1-jén lép hatályba.
+
+(2) E rendelet végrehajtásáról a pénzügyminiszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 2001. évi 16. számában közzétett helyesbítésnek megfelelő szöveg.
+[^2]: A Magyar Közlöny 2001. évi 16. számában közzétett helyesbítésnek megfelelő szöveg.
+[^3]: A Magyar Közlöny 2001. évi 16. számában közzétett helyesbítésnek megfelelő szöveg.
+[^4]: A Magyar Közlöny 2001. évi 16. számában közzétett helyesbítésnek megfelelő szöveg.

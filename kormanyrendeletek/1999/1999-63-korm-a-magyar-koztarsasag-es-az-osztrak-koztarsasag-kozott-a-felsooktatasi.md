@@ -1,0 +1,384 @@
+---
+title: "63/1999. (IV. 28.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a felsőoktatási intézményekben végzett tanulmányok egyenértékűségének elismeréséről szóló Egyezmény kihirdetéséről"
+identifier: "63/1999. (IV. 28.) Korm. rendelet"
+njt_id: "1999-63-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/63"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-04-28
+in_force_from: 1999-04-28
+last_amended: 1999-04-28
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-63-20-22"
+retrieved: 2026-10-12
+---
+
+# 63/1999. (IV. 28.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a felsőoktatási intézményekben végzett tanulmányok egyenértékűségének elismeréséről szóló Egyezmény kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 1998. május 14-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Osztrák Köztársság között a felsőoktatási intézményekben végzett tanulmányok egyenértékűségének elismeréséről szóló, Budapesten, 1997. április 23-án aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság és az Osztrák Köztársaság között a felsőoktatási intézményekben végzett tanulmányok egyenértékűségének elismeréséről
+
+A Magyar Köztársaság és az Osztrák Köztársaság (a továbbiakban: Szerződő Államok)
+
+– a közöttük lévő baráti kapcsolatok szellemében,
+
+– azzal a szándékkal, hogy elősegítsék a cserét a tudományban és az együttműködést a felsőoktatás területén,
+
+– abból a célból, hogy megkönnyítsék a Szerződő Államok hallgatóinak a tanulmányok folytatását a másik Szerződő Államban,
+
+– tudatában annak, hogy mindkét országban sok a közös vonás a felsőoktatás területén,
+
+– folytatva a Szerződő Államok között az egyenértékűsítés bilaterális szabályozását, melyet az érettségi bizonyítványok egyenértékűségéről az egyetemi felvételek érdekében 1982. július 16-án kötött egyezménnyel, valamint az egyetemi tanulmányok és felsőoktatási fokozatok egyenértékűségéről 1983. március 8-án kötött egyezménnyel indítottak meg,
+
+– tekintettel az Európa Tanács és az UNESCO keretében a Szerződő Államok által az egyenértékűsítésre vonatkozóan aláírt Egyezményre,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+Ebben az Egyezményben:
+
+1\. a ,,felsőoktatási intézmény'' kifejezés mindazokat az intézményeket jelenti, amelyeknél a Szerződő Államok a felsőoktatási jelleget törvényesen elismerték, kivéve azokat a felsőoktatási intézményeket, amelyeknél a felvétel előfeltétele szolgálati viszony vagy testületi tagság. Azokat a felsőoktatási intézményeket, amelyekre az Egyezmény kiterjed, és az *1.* és *2. számú melléklet* tartalmazza. Az Állandó Szakértői Bizottság e mellékleteket a 6. Cikknek megfelelően, kölcsönös egyetértésben változtathatja meg;
+
+2\. a ,,felsőoktatási fokozat'' kifejezés mindazon diploma- vagy doktori fokozatot jelenti, melyet valamely felsőoktatási intézmény az előírás szerinti tanulmányok lezárásaként ítél oda;
+
+3\. a ,,vizsga'' kifejezés jelenti mind valamely előírás szerinti tanulmányok záróvizsgáit, mind az előírás szerinti tanulmányok folyamán letett részvizsgákat vagy közbenső vizsgákat.
+
+*2. Cikk*
+
+1\. A tanulmányokat végző kérelmére bizonyos tanulmányi idők, tanulmányi teljesítmények és vizsgák kölcsönösen beszámíthatók és elismerhetők. Azokat a hiányzó vizsgákat, melyeket a felvevő felsőoktatási intézmény tanulmányi előírásaiban kötelezőként tüntet fel, pótolni kell.
+
+2\. Azt, hogy egyező tanulmányokról van-e szó, az a felsőoktatási intézmény dönti el, amelyhez a tanulmányi idők beszámítására, illetve a tanulmányi teljesítmények és vizsgák elismerésére a kérelmet benyújtották.
+
+3\. Osztrák hallgató által valamely magyar egyetem finnugor szakán elvégzett félévek Ausztriában a teljes tanulmányi időbe legfeljebb két félév terjedelméig számíthatók be, és az e félévek alatt eredményesen letett vizsgák ismerhetőek el teljesen. Előfeltétel, hogy e tanulmányokat Magyarországon a hallgató a magyar tanulmányi előírásoknak megfelelően elvégezze, és a megfelelő egyetemi bizonyítványokat bemutassa.
+
+4\. Magyar hallgató által valamely osztrák egyetem germanisztika szakán elvégzett féléveket Magyarországon legfeljebb két félév erejéig számítanak be a tanulmányi időbe, és az e félévek alatt eredményesen letett vizsgákat ismerik el teljesen. Előfeltétele, hogy ezeket a tanulmányokat Ausztriában mint rendes hallgató az osztrák tanulmányi előírásoknak megfelelően elvégezze, és a megfelelő egyetemi bizonyítványokat bemutassa.
+
+5\. A 3. és 4. pontokat a Szerződő Államokban való alkalmazhatóságánál előfeltétel, hogy a hallgatók tanulmányaiknak legalább a felét hazájukban végezzék el.
+
+*3. Cikk*
+
+Felsőoktatási fokozatok és tanulmányok záróvizsgák a tulajdonosukat ráépülő vagy további tanulmányokra jogosítják fel a másik Szerződő Állam felsőoktatási intézményeiben pót- vagy kiegészítő vizsgák nélkül, ha és amennyiben a pályázó az azt odaítélő országban pót- vagy kiegészítő vizsga nélkül közvetlenül jogosult ráépülő, illetve további tanulmányokra.
+
+*4. Cikk*
+
+Valamely felsőoktatási fokozat tulajdonosa jogosult arra, hogy ezt a fokozatot a másik Szerződő Államban olyan formában használja, ahogyan azt a fokozatot odaítélő országban a törvényes rendelkezéseknek megfelelően használni szabad. A felsőoktatási fokozat használati jogához nem kapcsolódik közvetlenül a szakma gyakorlásának joga.
+
+*5. Cikk*
+
+A felsőoktatási intézménybe való felvételre vonatkozó, a Szerződő Államokban hatályos egyéb általános és különleges szabályokat – különösen az oktatási nyelv megfelelő ismeretének követelményét – a jelen Egyezmény nem érinti.
+
+*6. Cikk*
+
+1\. A jelen Egyezményből adódó valamennyi kérdés megvitatására Állandó Szakértői Bizottság létesül, amely a Szerződő Államok által kinevezendő legfeljebb 3-3 tagból áll. A tagok névsorát a Szerződő Államok diplomáciai úton közlik egymással. E Bizottság a jelen Egyezmény hatálybalépése után azon Állandó Szakértői Bizottság helyébe lép, amely az Osztrák Köztársaság és a Magyar Népköztársaság által az érettségi bizonyítványok egyenértékűségéről az egyetemi felvételek érdekében 1982. július 16-án megkötött Egyezmény 4. Cikke értelmében működött.
+
+2\. Az Állandó Szakértői Bizottság a Szerződő Államok egyikének kívánságára ül össze. Az ülés helyét mindig diplomáciai úton egyeztetik.
+
+*7. Cikk*
+
+1\. Jelen Egyezmény azon hónapot követő harmadik hónap első napján lép hatályba, amelyben a Szerződő Államok diplomáciai úton írásban kölcsönösen közölték egymással, hogy a hatálybalépéshez a mindenkori honi követelményeket teljesítették.
+
+2\. Jelen Egyezmény hatálybalépésével egyidejűleg hatályát veszti a Magyar Népköztársaság és az Osztrák Köztársaság között 1983. március 8-án az egyetemi tanulmányok és egyetemi fokozatok egyenértékűségéről kötött Egyezmény.
+
+3\. Jelen Egyezmény a Magyar Népköztársaságban és az Osztrák Köztársságban kiállított érettségi bizonyítványok egyetemi felvétel szempontjából való egyenértékűségéről szóló, 1982. július 16-án kötött Egyezményt – az Állandó Szakértői Bizottság kivételével (6. Cikk. 1. bekezdés utolsó mondata) – nem érinti.
+
+*8. Cikk*
+
+Jelen Egyezmény határozatlan időre szól. A Szerződő Államok mindegyike egyéves felmondási idő betartásával írásban felmondhatja az Egyezményt.
+
+Aláírták Budapesten, 1997. április 23-án, két eredeti példányban, magyar és német nyelven, melyből mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+részéről
+
+Az Osztrák Köztársaság\
+részéről
+
+*1. számú melléklet[^1]*
+
+*A) Egyetemek*
+
+*A)* 1. Állami egyetemek:
+
+Eötvös Loránd Tudományegyetem (Budapest)
+
+Janus Pannonius Tudományegyetem (Pécs)
+
+József Attila Tudományegyetem (Szeged)
+
+Kossuth Lajos Tudományegyetem (Debrecen)
+
+Liszt Ferenc Zeneművészeti Főiskola (Budapest)
+
+Magyar Iparművészeti Főiskola (Budapest)
+
+Magyar Képzőművészeti Főiskola (Budapest)
+
+Budapesti Műszaki Egyetem (Budapest)
+
+Magyar Testnevelési Egyetem (Budapest)
+
+Miskolci Egyetem (Miskolc)
+
+Veszprémi Egyetem (Veszprém)
+
+Zrínyi Miklós Nemzetvédelmi Egyetem (Budapest)
+
+Budapesti Közgazdaságtudományi Egyetem (Budapest)
+
+Semmelweis Orvostudományi Egyetem (Budapest)
+
+Debreceni Orvostudományi Egyetem (Debrecen)
+
+Haynal Imre Egészségtudományi Egyetem (Budapest)
+
+Pécsi Orvostudományi Egyetem (Pécs)
+
+Szent-Györgyi Albert Orvostudományi Egyetem (Szeged)
+
+Állatorvostudományi Egyetem (Budapest)
+
+Debreceni Agrártudományi Egyetem (Debrecen)
+
+Soproni Egyetem (Sopron)
+
+Gödöllői Agrártudományi Egyetem (Gödöllő)
+
+Kertészeti és Élelmiszeripari Egyetem (Budapest)
+
+Pannon Agrártudományi Egyetem (Keszthely)
+
+*A)* 2. Egyházi egyetemek:
+
+Debreceni Református Hittudományi Egyetem (Debrecen)
+
+Evangélikus Teológiai Akadémia (Budapest)
+
+Károli Gáspár Református Egyetem (Budapest)
+
+Országos Rabbiképző Intézet (Budapest)
+
+Pázmány Péter Katolikus Egyetem (Budapest)
+
+*B) Főiskolák*
+
+*B)* 1. Állami főiskolák:
+
+Bánki Donát Műszaki Főiskola (Budapest)
+
+Gépipari és Automatizálási Műszaki Főiskola (Kecskemét)
+
+Kandó Kálmán Műszaki Főiskola (Budapest)
+
+Könnyűipari Műszaki Főiskola (Budapest)
+
+Széchenyi István Főiskola (Győr)
+
+Ybl Miklós Műszaki Főiskola (Budapest)
+
+Bárczi Gusztáv Gyógypedagóiai Tanárképző Főiskola (Budapest)
+
+Berzsenyi Dániel Tanárképző Főiskola (Szombathely)
+
+Bessenyei György Tanárképző Főiskola (Nyíregyháza)
+
+Eszterházy Károly Tanárképző Főiskola (Eger)
+
+Juhász Gyula Tanárképző Főiskola (Szeged)
+
+Apáczai Csere János Tanítóképző Főiskola (Győr)
+
+Benedek Elek Pedagógiai Főiskola (Sopron)
+
+Brunszvik Teréz Óvóképző Főiskola (Szarvas)
+
+Budapesti Tanítóképző Főiskola (Budapest)
+
+Csokonai Vitéz Mihály Tanítóképző Főiskola (Kaposvár)
+
+Comenius Tanítóképző Főiskola (Sárospatak)
+
+Eötvös József Főiskola (Baja)
+
+Hajdúböszörményi Wargha István Pedagógiai Főiskola (Hajdúböszörmény)
+
+Illyés Gyula Pedagógia Főiskola (Szekszárd)
+
+Jászberényi Tanítóképző Főiskola (Jászberény)
+
+Kőrösi Csoma Sándor Főiskola (Békéscsaba)
+
+Kecskeméti Tanítóképző Főiskola (Kecskemét)
+
+Külkereskedelmi Főiskola (Budapest)
+
+Kereskedelmi és Gazdasági Főiskola (Szolnok)
+
+Kereskedelmi, Vendéglátóipari és Idegenforgalmi Főiskola (Budapest)
+
+Pénzügyi és Számviteli Főiskola (Budapest)
+
+Magyar Táncművészeti Főiskola (Budapest)
+
+Színház- és Filmművészeti Főiskola (Budapest)
+
+Kodály Zoltán Zenepedagógiai Intézet (Kecskemét)
+
+Államigazgatási Főiskola (Budapest)
+
+Rendőrtiszti Főiskola (Budapest)
+
+Bolyai János Katonai Műszaki Főiskola (Budapest)
+
+*B)* 2. Egyházi főiskolák:
+
+Baptista Teológiai Akadémia (Budapest)
+
+Egri Hittudományi Főiskola (Eger)
+
+Esztergomi Hittudományi Főiskola (Esztergom)
+
+Evangéliumi Pünkösdi Közösség Bibliai Főiskola (Budapest)
+
+Ferences Hittudományi Főiskola (Budapest)
+
+Görögkatolikus Hittudományi Főiskola (Nyíregyháza)
+
+Győri Hittudományi Főiskola (Győr)
+
+H. N. Adventista Egyházi Lelkészképző Intézet (Budapest)
+
+Kölcsey Ferenc Református Tanítóképző Főiskola (Debrecen)
+
+Pannonhalmi Szent Gellért Hittudományi Főiskola (Pannonhalma)
+
+Pápai Református Teológiai Akadémia (Pápa)
+
+Pécsi Püspöki Hittudományi Főiskola (Pécs)
+
+Piarista Hittudományi és Tanárképző Főiskola (Budapest)
+
+Sárospataki Református Teológiai Akadémia (Sárospatak)
+
+Sola Scriptura Lelkészképző és Teológiai Főiskola (Budapest)
+
+Szegedi Hittudományi Főiskola (Szeged)
+
+Szent Bernát Hittudományi Főiskolája (Zirc)
+
+Szent Pál Akadémia (Budapest)
+
+A Tan Kapuja Buddhista Főiskola (Budapest)
+
+Veszprémi Érseki Hittudományi Főiskola (Veszprém)
+
+Vitéz János Római Katolikus Tanítóképző Főiskola (Esztergom)
+
+Wesley János Lelkészképző Főiskola (Budapest)
+
+Zsámbéki Katolikus Tanítóképző Főiskola (Zsámbék)
+
+*C) Egyéb főiskolák*
+
+Általános Vállalkozási Főiskola (Budapest)
+
+Gábor Dénes Főiskola (Budapest)
+
+Kodolányi János Főiskola (Székesfehérvár)
+
+Modern Üzleti Tudományok Főiskolája (Tatabánya)
+
+Mozgássérültek Pető András Nevelőképző és Nevelőintézete (Budapest)
+
+Nemzetközi Üzleti Akadémia (Budapest)
+
+*2. számú melléklet*
+
+*A) Egyetemek*
+
+Universität Wien
+
+Universität Graz
+
+Universität Innsbruck
+
+Universität Salzburg
+
+Technische Universität Wien
+
+Technische Universität Graz
+
+Montanuniversität Leoben
+
+Universität für Bodenkultur Wien
+
+Veterinärmedizinische Universität Wien
+
+Wirtschaftsuniverität Wien
+
+Universität Linz
+
+Universität Klagenfurt
+
+*B) Művészeti felsőoktatási intézmények*
+
+Akademie der bildenden Künste in Wien
+
+Hochschule für angewandte Kunst in Wien
+
+Hochschule für Musik und darstellende Kunst in Wien
+
+Hochschule für Musik und darstellende Kunst ,,Mozarteum'' in Salzburg
+
+Hochschule für Musik und darstellende Kunst in Graz
+
+Hochschule für künstlerische und industrielle Gestaltung in Linz
+
+*C) Egyéb felsőoktatási intézmények*
+
+Automatisierte Anglagen- und Prozeβtechnik (Trägerverein zur Vorbereitung und Errichtung von Fachhochschulen in Oberösterreich, Standort Wels)
+
+Elektronik (Verein zur Förderung eines Fachhochschul-Studienganges Elektronik in Wien, Wien)
+
+Fertigungsautomatisierung (Verein Technikum Vorarlberg, Dornbirn)
+
+Gebäudetechnik und Energieplanung (Verein zur Errichtung dun Führung einer wirtschaftlich-technischen Fachhochschule Burgenland, Eisendstadt, Standort Pinkafeld)
+
+International Wirtschaftsbeziehungen (Verien zur Errichtung und Führung einer wirtschaftlich-technischen Fachhochschule Burgenland, Eisenstadt)
+
+Präzisions-, System- und Informationstechnik (Wiener Neustädter Bildungs- und Forschungs Ges.m.h.H., Wiener Neustadt)
+
+Produktions- und Managementtechnik (Trägerverein zur Vorbereitung und Errichtung von, Fachhochschulen in Oberösterreich, Standort Steyr)
+
+Software-Engineering (Trägerverein zur Vorbereitung und Errichtung von, Fachhochschulen in Oberösterreich, Standort Hagenberg)
+
+Telekommunikationstechnik und -systeme (Techno-Z Salzburg)
+
+Tourismus-Management (Wirtschaftskammer Wien, Hotel- und Tourismusschulen Modul, Wien)
+
+Tourismusmanagement und Freizeitwirtschaft (Internationales Management Center Krems Ges.m.b.H., Krems)
+
+Wirtschaftsberatende Berufe (Wiener Neustädter Bildungs- und Forschungs Ges.m.b.H., Wiener Neustadt).''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1998. szeptember 1. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról az oktatási miniszter gondoskodik.
+
+---
+
+[^1]: Az egyetemek és főiskolák elnevezését a 2000: CVII. törvény módosította.

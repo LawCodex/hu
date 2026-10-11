@@ -1,0 +1,153 @@
+---
+title: "152/1997. (IX. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a kábítószerek és pszichotróp anyagok illegális kereskedelme és azokkal való visszaélés, a terrorizmus és más súlyos bűncselekmények elleni küzdelemben való együttműködésről szóló, Budapesten, 1997. április 9-én aláírt Megállapodás kihirdetéséről"
+identifier: "152/1997. (IX. 16.) Korm. rendelet"
+njt_id: "1997-152-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/152"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-09-16
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-152-20-22"
+retrieved: 2026-10-12
+---
+
+# 152/1997. (IX. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a kábítószerek és pszichotróp anyagok illegális kereskedelme és azokkal való visszaélés, a terrorizmus és más súlyos bűncselekmények elleni küzdelemben való együttműködésről szóló, Budapesten, 1997. április 9-én aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1997. augusztus 1. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a kábítószerek és pszichotróp anyagok illegális kereskedelme és azokkal való visszaélés, a terrorizmus és más súlyos bűncselekmények elleni küzdelemben való együttműködésről szóló, Budapesten, 1997. április 9-én aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás szövege a következő:
+
+**,,MEGÁLLAPODÁS**
+
+a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a kábítószerek és pszichotróp anyagok illegális kereskedelme és azokkal való visszaélés,\
+a terrorizmus és más súlyos bűncselekmények elleni küzdelemben való együttműködésről
+
+A Magyar Köztársaság Kormánya és Izrael Állam Kormánya (a továbbiakban: Szerződő Felek)
+
+figyelemmel a két ország között fennálló baráti kapcsolatokra,
+
+felismerve a kábítószerek illegális használatának megakadályozásában a bilaterális együttműködés fontosságát,
+
+emlékeztetve a kábítószerekre vonatkozó, Genfben, 1972. március 25-én aláírt Jegyzőkönyvvel módosított, New Yorkban, 1961. március 30-án aláírt Egységes Egyezményre, a Pszichotróp Anyagokra vonatkozó, Bécsben, 1971. február 21-én aláírt Egyezményre, valamint a Kábítószerek és Pszichotróp Anyagok Illegális Forgalmazása elleni fellépésre vonatkozó, Bécsben, 1988. december 20-án kelt Egyezményre,
+
+mélyen aggódva a demokratikus értékeket és az emberi jogokat megtagadó terrorizmus folytatódása miatt,
+
+attól a kívánságtól vezérelve, hogy elősegítsék az együttműködést a két Fél között a kábítószerek és pszichotróp anyagok illegális kereskedelme, a terrorizmus és más súlyos bűncselekmények elleni küzdelemben, valamint, hogy megerősítsék az együttműködést és a kommunikációs csatornákat megfelelő bűnüldöző szerveik között,
+
+tudatában az ilyen együttműködés kölcsönös előnyeinek, mindkét Fél számára,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+1\. A Szerződő Felek együttműködnek és támogatást nyújtanak egymásnak a kábítószer-bűnözés elleni harcban:
+
+*a)* a kábítószerek, a pszichotróp anyagok, valamint ezek illegális gyártása során felhasznált anyagok a két országot érintő illegális kereskedelme megakadályozásában és üldözésében,
+
+*b)* a kábítószerekkel való visszaélés ellenőrzésében.
+
+2\. Ebben a vonatkozásban a Szerződő Felek igyekeznek
+
+– információt és részletes adatokat cserélni a két országot érintő kábítószerek és pszichotróp anyagok illegális felhasználásáról és kereskedelméről, valamint az ellenük való fellépés módjairól;
+
+– összehangolják a kábítószerek és pszichotróp anyagok illegális felhasználásával és kereskedelmével, valamint az ebből származó más bűncselekményekkel foglalkozó bűnüldöző szerveik tevékenységeit;
+
+– megosztani ismereteiket és tapasztalataikat, és kölcsönösen elősegíteni tanulmányaikat és kutatásaikat a megelőzés, az egészségre nevelés, a kábítószer-fogyasztók kezelése és rehabilitációja, szociális tevékenységek, a megelőzéshez kapcsolódó meglévő módszerek és szervezeti struktúrák terén, és a kábítószer-használat jelensége elleni küzdelemben;
+
+– tájékoztatni egymást a lefoglalt kábító hatású anyagok származásáról és elemzéséről, valamint megküldeni nyomozati dokumentumok másolatait és kölcsönösen információt cserélni ebben az ügyben addig a mértékig, ameddig az ügy a másik Felet érinti, hivatkozással a Kölcsönös Bűnügyi Jogsegélyről szóló Európai Egyezményre;
+
+– találkozókat, előadásokat, szemináriumokat és tanfolyamokat szervezni a képzésben dolgozók számára a kábítószer-ellenes küzdelem terén.
+
+3\. A Szerződő Felek szükség esetén kölcsönösen meghívják egymás illetékes hatóságainak tisztségviselőit konzultációkra azzal a céllal, hogy javítsák az együttműködést a kábítószerek és pszichotróp anyagok illegális kereskedelme terén.
+
+*2. Cikk*
+
+A terrorizmus elleni küzdelemben a Szerződő Felek együttműködnek az információ- és a tapasztalatcserében a közrend védelme érdekében bevezetett biztonsági intézkedéseikről. A terrorizmussal kapcsolatos ügyekben folytatott együttműködést az illetékes magyar hatóságok és az Izraeli Nemzeti Rendőrség illetékes egységein keresztül folytatják.
+
+*3. Cikk*
+
+A súlyos bűncselekmények más formái elleni küzdelem tekintetében a Szerződő Felek a nemzeti törvényeik által lehetővé tett kereteken belül információt cserélnek többek között:
+
+a bűnöző szervezetek felépítéséről szóló ismereteikről, közlik egymással a súlyos bűncselekményekben résztvevők adatait, a tényállásokat, különösen az elkövetés idejét, helyét, módját, a megtámadott objektumokat, az egyéb különleges körülményeket, valamint a megsértett büntető jogszabályokat és a megtett intézkedéseket, amennyiben ez a bűncselekmények megelőzéséhez, megakadályozásához szükséges.
+
+*4. Cikk*
+
+A jelen Megállapodás szerinti területeken folytatott együttműködés keretében a Szerződő Felek illetékes hatóságai szakértőket cserélhetnek.
+
+*5. Cikk*
+
+A Szerződő Felek együttműködnek a kriminalisztikai és kriminológiai kutatási módszerek és eszközök hasznosításával kapcsolatos tapasztalatok cseréjében, és együttműködnek bűnügyi szolgálataik vezetői számára továbbképzések és szemináriumok szervezésében.
+
+*6. Cikk*
+
+A Szerződő Felek képviselőikből létrehoznak egy Magyar–Izraeli Vegyebizottságot, mely szükség szerint bármely időpontban összeül, bármely Szerződő Fél kérésére Budapesten, illetve Jeruzsálemben. A Vegyesbizottság vezetőit a Szerződő Felek nevezik ki.
+
+A Bizottság felel a jelen Megállapodás szerinti tevékenységek ellenőrzéséért, és szükség esetén bevonhat a jelen Megállapodás végrehajtásáért felelős illetékes hatóságok által kijelölt szakértőket is.
+
+*7. Cikk*
+
+1\. A Jelen Megállapodás végrehajtására a Szerződő Felek felhatalmazzák: a Magyar Köztársaság részéről a Belügyminisztériumot, a Népjóléti Minisztériumot[^1], a polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszter Hivatalát, az Országos Rendőr-főkapitányságot, a Vám- és Pénzügyőrség Országos Parancsnokságát, a Határőrség Országos Parancsnokságát, Izrael Állam részéről a Közbiztonsági Minisztériumot.
+
+2\. Az illetékes szervek közötti kapcsolat és információcsere angol nyelven történik.
+
+*8. Cikk*
+
+A jelen Megállapodás alapján átadott, személyes adatok védelmére a Szerződő Felek hatályos jogszabályainak figyelembevételével a következőket kell alkalmazni:
+
+1\. A fogadó Fél az adatokat csak a jelen Megállapodás céljára, az átadó Fél által meghatározott feltételekkel használhatja fel.
+
+2\. Az átadó Fél kérésére a fogadó Fél tájékoztatást nyújt az átadott adatok felhasználásáról és az ezáltal elért eredményekről.
+
+3\. A Megállapodás alapján átadott személyes adatokat kizárólag a jelen Megállapodásban meghatározott hatóságok használhatják fel. Az adatok továbbadása más hatóságoknak csak az átadó hatóság előzetes írásos engedélyével történhet.
+
+4\. Az átadó Fél köteles az átadandó adatok helyességéről meggyőződni, valamint arról, hogy az átadás szükségszerű-e és arányban áll-e az átadás céljával. Meg kell tartani a másik Fél nemzeti jogszabályaiban meghatározott, az adatok átadásának korlátozására vonatkozó előírásokat. Ha bebizonyosodik, hogy téves vagy át nem adható adatok is átadásra kerültek, úgy erről a tényről a fogadó Felet haladéktalanul értesíteni kell. A fogadó Fél köteles a helyesbítést átvezetni, a téves vagy át nem adható adatot azonnal megsemmisíteni.
+
+5\. Az érintett személy számára, kérésére, felvilágosítást kell adni a személyéről vezetett adatokról és azok tervezett felhasználásáról. Ez a felvilágosítási kötelezettség nem áll fenn, ha az adott Szerződő Fél országának jogszabályai ezt nem követelik meg. A személyes adatokról történő felvilágosítás adásánál annak a Félnek a nemzeti jogszabályai az irányadóak, amely az adatokat átadja.
+
+6\. Az átadó Fél az átadáskor közli a saját jogszabályaiban meghatározott érvényes adattörlési határidőket. Ezektől függetlenül az átadott személyes adatokat a cél megszűnésekor törölni kell. Az átvett adat törtéséről, annak okáról az átadó Felet azzal egyidőben értesíteni kell. Az átvett adatot a jelen Megállapodás megszűnésekor azonnal törölni kell.
+
+7\. Az adatkezeléssel megbízott szervek kötelesek a személyes adatok átadásáról, átvételéről és törléséről nyilvántartást vezetni, és ezen adatokat védeni az illetéktelen hozzáférés, változtatás és nyilvánosságra hozatal ellen.
+
+*9. Cikk*
+
+Az egyik Fél által a másiknak a jelen Megállapodás szerint átadott információt vagy adatokat bizalmasan kell kezelni, és az információt vagy adatokat nyújtó Fél kifejezett hozzájárulása nélkül azokat harmadik Félnek kiadni, vagy bármilyen más célra felhasználni nem lehet.
+
+*10. Cikk*
+
+A jelen Megállapodás végrehajtására vonatkozó eljárási kérdéseket a két Szerződő Fél illetékes hatóságai közösen dolgozzák ki.
+
+*11. Cikk*
+
+A jelen Megállapodásban foglalt együttműködés végrehajtása a Szerződő Felek országai jogszabályainak keretei között történik.
+
+*12. Cikk*
+
+A jelen Megállapodás a jóváhagyásáról szóló későbbi diplomáciai jegyzék kézhezvételének napján lép hatályba. A Szerződő Felek ezt a Megállapodást határozatlan időre kötik. A jelen Megállapodást bármelyik Szerződő Fél diplomáciai úton felmondhatja. A felmondás attól az időponttól számított hat hónap elteltével lép hatályba, amikor az a másik Szerződő Félhez megérkezett.
+
+Készült Budapesten, 1997. év április hónap 9. napján – amely megfelel az 5757. év, Niszán hónap 2. napjának –, két eredeti példányban, magyar, héber és angol nyelveken. Mindegyik szöveg egyaránt hiteles. Értelmezési Feltérések esetén az angol szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Izrael Állam Kormánya\
+nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1997. augusztus 1. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének b) pontját.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 76. pontja szerint módosított szöveg.

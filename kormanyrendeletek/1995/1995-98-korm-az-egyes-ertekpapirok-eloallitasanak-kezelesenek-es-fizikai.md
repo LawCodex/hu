@@ -1,0 +1,221 @@
+---
+title: "98/1995. (VIII. 24.) Korm. rendelet az egyes értékpapírok előállításának, kezelésének és fizikai megsemmisítésének biztonsági szabályairól"
+identifier: "98/1995. (VIII. 24.) Korm. rendelet"
+njt_id: "1995-98-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/98"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-08-24
+in_force_from: 2009-10-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-98-20-22"
+retrieved: 2026-10-12
+---
+
+# 98/1995. (VIII. 24.) Korm. rendelet az egyes értékpapírok előállításának, kezelésének és fizikai megsemmisítésének biztonsági szabályairól
+
+## 1. §
+
+(1)[^1] E rendelet hatálya kiterjed a jogszabályban erre feljogosított kibocsátó által belföldön nyilvánosan vagy zártkörűen sorozatban forgalomba hozott értékpapírok nyomdai úton történő előállítására (a továbbiakban: előállítás) és megsemmisítésére.
+
+(2) Az értékpapírok előállítására, kezelésére és megsemmisítésére vonatkozó szabályokat kell alkalmazni a pénzintézetek által nem külön jogszabály alapján, sorozatban kibocsátott, hitelviszonyt megtestesítő értékpapírszerű okiratok előállítására, kezelésére és megsemmisítésére is.
+
+(3)[^2] Értékpapír előállításának minősül a nyomdai úton előállított értékpapír (a továbbiakban: értékpapír) felülbélyegzése is.
+
+## 2. §
+
+(1) Értékpapír előállítására csak a 3. §-ban foglaltak szerinti engedéllyel rendelkező nyomda jogosult.
+
+(2)[^3] A 3. § szerinti engedélyt az e rendeletben foglalt feltételek megléte esetén a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) adja meg.
+
+(3)[^4] A Felügyelet az értékpapír-engedélyezési eljárás során gondoskodik a szakhatóságok kijelöléséről szóló kormányrendeletben meghatározott szakkérdések tekintetében a szakhatóságok állásfoglalásának beszerzéséről.
+
+## 3. §
+
+(1) Értékpapír előállítására az a belföldön bejegyzett nyomda kaphat engedélyt, amely rendelkezik
+
+a) legalább százmillió forint saját vagyonnal és káreseményenkénti legalább ötvenmillió forint biztosítási összegű felelősségbiztosítással,
+
+b) az alkalmazandó értékpapír védelmi tervben szereplő gyártási technológiákkal,
+
+c) zártrendszerű, a szigorú elszámolást lehetővé tevő technológiai-szervezeti rendszerrel és az azt szabályozó biztonsági szabályzattal,
+
+d) a szükséges belső ellenőrzési apparátussal, őrző biztonsági személyzettel és technikai berendezésekkel,
+
+e) a selejt- és a hulladékanyagok zártrendszerű megsemmisítéséhez szükséges berendezéssel vagy eljárási renddel, továbbá
+
+f)[^5]
+
+g)[^6] olyan nyilatkozattal, amelyben vállalja a Felügyelet értékpapírok előállításáról szóló szabályzatának (a továbbiakban: Szabályzat) megtartását.
+
+(2)[^7] A Szabályzatot a Felügyelet az értékpapír-előállítási tevékenység folytatására jelentkező, az (1) bekezdés egyéb feltételeit már teljesítő nyomda rendelkezésére bocsátja, melyet az köteles titkosan kezelni.
+
+(3)[^8] Az engedéllyel rendelkező nyomdákról a Felügyelet nyilvántartást vezet, melyet rendszeresen, de legalább félévente közzétesz hivatalos lapjában, valamint a Pénzügyi Közlöny című hivatalos lapban.
+
+(4) Az ,,értékpapír nyomda'' vagy ehhez hasonló elnevezést csak a (3) bekezdésben foglalt nyilvántartásban szereplő nyomda használhatja.
+
+(5)[^9] Az engedélyt a Felügyelet kérelemre határozatlan időre adja meg. A Felügyelet a Nemzetbiztonsági Szakszolgálat (a továbbiakban: Szakszolgálat) bevonásával rendszeresen ellenőrzi az (1) bekezdésben foglaltak meglétét, és az (1) bekezdés b), c), e) és g) pontjában foglalt feltételeket vizsgálja.
+
+(6)[^10] Ha működő nyomda esetén az (1) bekezdésben foglalt feltételek bármelyike nem teljesül, a Felügyelet – a hiányosság súlyától függően, ha szükséges –
+
+a) figyelmezteti a nyomdát,
+
+b) határidő tűzésével felszólítja a nyomdát a feltételeknek való megfelelésre,
+
+c) felfüggeszti a nyomda engedélyét, vagy
+
+d) visszavonja a nyomda engedélyét,
+
+az erre vonatkozó döntését pedig a (3) bekezdésben foglalt módon közzéteszi.
+
+(7)[^11]
+
+## 4. §
+
+(1) A nyomda csak az értékpapír kibocsátójától fogadhat el gyártási vagy utánnyomási megrendelést.
+
+(2)[^12] A nyomda a kibocsátandó értékpapírról formai, esztétikai és értékpapírvédelmi tervet készít, amelyet a kibocsátó hagy jóvá. Az értékpapírok jogszabályban meghatározott tartalmi kellékeit az előlapon (köpenyen) kell feltüntetni és az előlaphoz elválaszthatatlan módon kell kapcsolni az osztalék, kamat, csere és egyéb jogokat megtestesítő szelvényeket. Az előírásoknak megfelelő formai, esztétikai és értékpapírvédelmi tervet a nyomda köteles megőrizni, és kérésre a Felügyelet, az elszámolóház, a Szakszolgálat rendelkezésére bocsátani.
+
+(3)[^13] A nyomda köteles megfelelő mennyiségű értékpapír-mintát, valamint az értékpapírminta előzetes ellenőrzését lehetővé tevő biztonsági leírást a kibocsátónak átadni.) A kibocsátó az értékpapír védelmi tervét köteles a Felügyeletnek engedélyezésre benyújtani.
+
+(4) A nyomda köteles megőrizni minden általa gyártott értékpapír sorozatból fajtánként és címletenként egy-egy érvénytelenített példányt, továbbá az értékpapírtervet és a gyártási tervet. Az értékpapír grafikája feletti kizárólagos rendelkezési jog a kibocsátót illeti meg, a grafikát azonban a nyomda köteles megőrizni.
+
+(5) A (4) bekezdés szerinti őrzési kötelezettséget zárt biztonsági rendszerben, a szigorú számadás szabályai szerint kell teljesíteni. Az őrzési kötelezettség időtartama az értékpapír lejáratától számított tíz év. A lejárat nélküli értékpapírok vonatkozásában az őrzési kötelezettség időtartama az előállítástól számított huszonöt év.
+
+(6)[^14] A nyomda köteles biztosítani az általa korábban előállított értékpapír és értékpapírszerű okirat utánnyomását a korábbival azonos megjelenéssel (azonos vagy az engedélyezettnél erősebb okmánytechnikai védelemmel, azonos látható színekkel, valamint a cégnév- és embléma kivételével azonos grafikával). Köteles továbbá az általa gyártott értékpapírt azonosításra alkalmas impresszummal ellátni. Azonos jogokat megtestesítő értékpapírokat mindig azonos kivitelben kell előállítani.
+
+(6a)[^15] Öt évnél régebben engedélyezett védelmi tervvel rendelkező értékpapír utánnyomása esetén azt a korábbival azonos megjelenéssel (azonos látható színekkel, valamint a cégnév és embléma kivételével azonos grafikával), de az utánnyomás időpontjában hatályos Szabályzat előírásainak megfelelő okmánytechnikai védelemmel kell előállítani. Az összes, az értékpapír szabad szemmel látható megjelenését nem befolyásoló védelmi megoldást (a keret grafikai megjelenésén kívül) alkalmazni kell.
+
+(6b)[^16] A védelmi terv engedélyezése óta eltelt időtől függetlenül az utánnyomáskor hatályos Szabályzat előírásait kell alkalmazni teljes értékpapír-sorozat cseréje esetén.
+
+(7)[^17] A nyomda felelős azért, hogy az általa előállított értékpapírok az elfogadott terveknek és a biztonsági követelményeknek megfelelően a megrendelő által kért minőségben készüljenek el. Amennyiben a nyomda felhagy tevékenységével vagy engedélyét a Felügyelet visszavonta, köteles az őt megbízó kibocsátókat erről értesíteni, és az általuk megjelölt más — engedéllyel rendelkező — nyomdának az értékpapírvédelmi és grafikai terveket, filmeket és más adathordozókat átadni. Az átadás megtörténtéig ezen tervekért és azok megőrzéséért a nyomda továbbra is felelős.
+
+## 5. §
+
+(1) Értékpapírokat felülbélyegezni csak típusuk vagy névértékük megváltoztatásakor, a felismerhetőség megőrzésével, a kibocsátó írásos megrendelése alapján lehet.
+
+(2)[^18] Felülbélyegzéssel megbízni csak az ezen rendelet szerinti engedéllyel rendelkező nyomdát lehet. A felülbélyegzés jelét megfelelő, a hitelesség szempontjából jól ellenőrizhető biztonsági festékkel vagy tintával kell a papírra felvinni. A Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseitől vagy e rendelet rendelkezéseitől eltérő értékpapír-felülbélyegzés esetén az értékpapír érvénytelenné válik.
+
+(3) Az értékpapírhoz a toldatot tőle el nem választható módon kell illeszteni, a toldatban feltüntetett adatok, átruházások időbeli sorrendjének egyértelműen ki kell tűnnie.
+
+## 6. §[^19]
+
+## 7. §
+
+(1)[^20] Az értékpapír fizikai megsemmisítésére a benne foglalt jogok és kötelezettségek megszűnését követő hat hónap elteltével kerülhet sor. Az értékpapírt csere vagy dematerializált értékpapírrá történő átalakítása miatt történő bevonásakor azonnal érvényteleníteni kell, az értékpapír a csere vagy az átalakítás meghirdetett záró napjától számított hat hónap elteltével semmisíthető meg.
+
+(2) A beváltott, illetve bevont és érvénytelenített értékpapírokat, értékpapírszerű okiratokat és azok szelvényeit a megsemmisítésig a kibocsátó, illetve megbízottja őrzi. Az érvénytelenítés feltűnő és anyagpótlással sem javítható lyukasztással vagy feltűnő és eltávolíthatatlan ,,ÉRVÉNYTELEN'' szöveget eredményező perforációval történik. Az érvénytelenítésnek úgy kell történnie, hogy az értékpapír sorszáma felismerhető maradjon. Az érvénytelenítésről a kibocsátónak vagy megbízottjának kell gondoskodnia.
+
+(3) Az (1) bekezdésben szabályozott idő elteltével az értékpapír kibocsátója jogosult az értékpapír fizikai megsemmisítésére. A megsemmisítést végezheti a kibocsátó vagy annak erre technikailag felkészült megbízottja.
+
+(3a)[^21] A jogutód nélküli megszűnése esetére a kibocsátó megbízhat vagy meghatalmazhat az értékpapír fizikai megsemmisítésére a megszűnését követően jogosult személyt.
+
+(3b)[^22] A (3a) bekezdés szerinti megbízott vagy meghatalmazott hiányában vagy akadályoztatása esetén a kibocsátó jogutód nélküli megszűnését követően
+
+a) a megszűnt értékpapír-kötelem utolsó jogosultja,
+
+b) ha a megszűnt értékpapír-kötelem utolsó jogosultja és az értékpapír birtokosa eltérnek, a megszűnt értékpapír-kötelem utolsó jogosultja által a megsemmisítésre teljes bizonyító erejű magánokiratban meghatalmazott birtokosa,
+
+c) ha a megszűnt értékpapír-kötelem utolsó jogosultja és az értékpapír birtokosa eltérnek, és a megszűnt értékpapír-kötelem utolsó jogosultja jogutód nélkül megszűnt vagy az értékpapír-kötelem utolsó jogosultjának nyilatkozattétele egyéb okból elháríthatatlan akadályba ütközik, az értékpapír birtokosa
+
+jogosult az értékpapír fizikai megsemmisítésére.
+
+(3c)[^23] A kibocsátó jogutód nélküli megszűnését követően a fizikai megsemmisítést a (3a) bekezdésben meghatározott személy vagy hiányában, illetve akadályoztatása esetén a (3b) bekezdés szerint arra jogosult személy, vagy erre technikailag felkészült megbízottja végezheti.
+
+(4)[^24] A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény végrehajtásáról szóló 104/1991. (VIII. 3.) Korm. rendeletben (a továbbiakban: Kr.) meghatározott, forgalomba nem került kárpótlási jegy az érvénytelenítést követően semmisíthető meg. Az érvénytelenítésre, a megsemmisítésig történő őrzésre és a megsemmisítésre a (2)–(3) bekezdés rendelkezéseit azzal kell alkalmazni, hogy a megsemmisítés az érvénytelenítést követően az (1) bekezdésben szabályozott idő eltelte előtt is megkezdhető.
+
+## 8. §
+
+(1)[^25] Az értékpapírok fizikai megsemmisítése – égetéssel, bezúzással vagy ezekkel biztonságilag egyenértékű más módszerrel – bizottság jelenlétében történik, a megsemmisítés megtörténtét pedig – a 8/A. §-ban foglalt esetkör kivételével – közjegyző tanúsítja.
+
+A bizottság tagjai:
+
+a)[^26] a megsemmisítésre jogosult személy cégjegyzésre jogosult vagy írásban meghatalmazott képviselője;
+
+b) a megsemmisítéssel megbízott szervezet képviselője;
+
+c) a megsemmisítést végrehajtó szervezet képviselője;
+
+d)[^27] az engedéllyel rendelkező letéti hely képviselője, ha a megsemmisítésre jogosult személy az értékpapírt vagy az értékpapírszerű okiratot letétben tartja.
+
+(2)[^28] A megsemmisítési eljárásról a közjegyző a közjegyzőkről szóló 1991. évi XLI. törvény 144. § (1) bekezdése alapján jegyzőkönyvet készít, amely tartalmazza az alábbiakat:
+
+a) a megsemmisített értékpapírok megnevezése, darabszáma, névértéke, sorozat- és sorszáma, névértékének összesítése, a kibocsátó neve,
+
+b) a megsemmisítés ideje és a megsemmisítés megrendelésének száma és kelte,
+
+c) a megsemmisítési eljárásnál jelenlévők neve, beosztása,
+
+d) a megsemmisítés helye és az alkalmazott technológiai eljárás,
+
+e) a bizottság tagjainak hitelesítő aláírása,
+
+f) a megsemmisített értékpapírok ISIN azonosítója.
+
+(3) A közjegyző (2) bekezdés szerinti eljárásáért járó munkadíjat a közjegyzői díjszabásról szóló 14/1991. (XI. 26.) IM rendelet 15. §-a alapján kell megállapítani.
+
+## 8/A. §[^29]
+
+(1) A Kr.-ben meghatározott kárpótlási jegyek megsemmisítését a Szakszolgálat végzi. A megsemmisítési eljárásról a Szakszolgálat a 8. § (2) bekezdésében meghatározott tartalommal jegyzőkönyvet készít. A jegyzőkönyvet a Szakszolgálat jelen lévő képviselője aláírja, aláírását pedig a megsemmisítési bizottság jelen lévő képviselői tanúsítják. A Szakszolgálat által így kiállított okirat közokirat.
+
+(2) Az (1) bekezdésben megjelölt megsemmisítési bizottság tagjai:
+
+a) a Szakszolgálatnak a Szakszolgálat vezetője által kijelölt munkatársa;
+
+b)[^30] a kárpótlási hatóság arra kijelölt képviselője;
+
+c) az állami vagyonkezelő szervezet képviselője.
+
+(3) A megsemmisítésre csak a bizottság valamennyi tagjának jelenléte esetén kerülhet sor.
+
+## 9. §
+
+(1)[^31] Az e rendelet hatálya alá tartozó értékpapírok kibocsátása esetén a Felügyelet jogosult az értékpapírok előállítására, kezelésére és megsemmisítésére vonatkozó előírások betartását ellenőrizni. Indokolt esetben jogosult az értékpapírok okmányszakértői vizsgálatát előírni, ha szükséges, azok megsemmisítését, újranyomtatását és kicserélését elrendelni a kibocsátó költségére.
+
+(2)[^32]
+
+## 10. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)–(3)[^33]
+
+(4) Az e rendelet hatálybalépését megelőzően előállított értékpapírok lejáratukig forgalomban maradhatnak. A lejárati idővel nem rendelkező értékpapírokat az osztalékív cseréjekor, de legkésőbb 1998. december 31-ig be kell vonni, és az e rendeletben foglaltaknak megfelelően kell előállítani. Nem kell bevonni azokat az értékpapírokat, amelyek megfelelnek az e rendeletben foglalt minimális feltételeknek.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 80/2014. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállaíptott szöveg.
+[^2]: Az 1. § (3) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 2. §-ával megállapított, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 75. pontja, a 345/2013. (IX. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 42. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^5]: A 3. § (1) bekezdésének f) pontját a 182/2009. (IX. 10.) Korm. rendelet 64. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 3. § (1) bekezdés g) pontja a 297/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja, a 297/2021. (V. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^9]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 62. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^10]: A 3. § (6) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 3. § (7) bekezdését a 206/1996. (XII. 23.) Korm. rendelet 7. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^12]: A 4. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 4. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 63. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 4. § (3) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 1. §-a, 7. § (2) bekezdésének b) pontja, valamint (3) bekezdése, a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 75. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^14]: A 4. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (6a) bekezdését a 297/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A 4. § (6b) bekezdését a 297/2021. (V. 31.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 4. § (7) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 64. §-a, a 80/2014. (III. 14.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 6. §-t a 206/1996. (XII. 23.) Korm. rendelet 7. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^20]: A 7. § (1) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 7. § (3a) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 7. § (3b) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 7. § (3c) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 7. § (4) bekezdését a 27/2007. (II. 28.) Korm. rendelet 3. §-a iktatta be.
+[^25]: A 8. § (1) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^26]: A 8. § (1) bekezdés a) pontja a 172/2017. (VI. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^27]: A 8. § (1) bekezdés d) pontja a 172/2017. (VI. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^28]: A 8. § (2) bekezdése a 468/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^29]: A 8/A. §-t a 27/2007. (II. 28.) Korm. rendelet 5. §-a iktatta be.
+[^30]: A 8/A. § (2) bekezdés b) pontja a 233/2014. (IX. 18.) Korm. rendelet 11. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja és (4) bekezdésének b) pontja szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 64. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: A 10. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1409. pontja hatályon kívül helyezte.

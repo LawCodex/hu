@@ -1,0 +1,107 @@
+---
+title: "61/2006. (III. 23.) Korm. rendelet a biológiai anyagok szabadalmi eljárás céljából való letétbe helyezéséről és kezeléséről"
+identifier: "61/2006. (III. 23.) Korm. rendelet"
+njt_id: "2006-61-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/61"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-03-23
+in_force_from: 2009-12-31
+last_amended: 2025-01-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-61-20-22"
+retrieved: 2026-10-12
+---
+
+# 61/2006. (III. 23.) Korm. rendelet a biológiai anyagok szabadalmi eljárás céljából való letétbe helyezéséről és kezeléséről
+
+A Kormány a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 118. § (3) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A biológiai anyagon vagy annak alkalmazásán alapuló találmányra vonatkozó szabadalmi bejelentés céljából a Magyar Agrár- és Élettudományi Egyetem intézményi keretei között működő Mezőgazdasági és Ipari Mikroorganizmusok Nemzeti Gyűjteményénél (a továbbiakban: Egyetem) a környezetre egészségügyi vagy más veszélyt nem jelentő és a tárolásnál, tenyésztésnél különleges követelményt nem igénylő, az Egészségügyi Világszervezet által elfogadott osztályozás szerint 1 és 2 kockázati csoportba sorolt
+
+a) baktériumok (a Streptomyces-eket is ideértve) és
+
+b) gombák, ideértve az élesztő- és penészgombákat (a továbbiakban *a)–b)* pontok együtt: biológiai anyag)
+
+helyezhetők letétbe.
+
+(2) Az Egyetem a letétbe helyezett biológiai anyagot a mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezése nemzetközi elismeréséről szóló Budapesti Szerződés kihirdetéséről szóló 1981. évi 1. törvényerejű rendeletben (a továbbiakban: Budapesti Szerződés), valamint a mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezése nemzetközi elismeréséről szóló Budapesti Szerződés Végrehajtási Szabályzatának kihirdetéséről szóló 21/2002. (XII. 13.) IM rendeletben (a továbbiakban: Végrehajtási Szabályzat) foglaltak szerint tárolja és kezeli.
+
+## 2. §[^2]
+
+(1) A letevőnek a letétbe helyezés céljából a biológiai anyagból:
+
+a) legalább 25 liofilezett ampullát, amely tárolt anyagnak minősül, vagy
+
+b) legalább 3 liofilezett vagy élő tenyészetet, amelyből az Egyetem készít tárolható anyagot
+
+kell beküldenie az Egyetem részére.
+
+(2) A letétbe helyezés iránti kérelmet az Egyetem által közzétett formanyomtatványon kell benyújtani.
+
+## 3. §
+
+(1) Az Egyetem által nyújtott szolgáltatásokért a letevőnek, illetve a szolgáltatás egyéb igénybevevőjének az e rendelet *mellékletének* *a)–d)* pontjában meghatározott mértékű igazgatási szolgáltatási díjat (a továbbiakban együttesen: díj) kell fizetnie az Egyetem részére az Egyetem által kiállított számla alapján.
+
+(2)[^3] A díjat az Egyetem számlaszámára kell befizetni az azonosítási adatok feltüntetésével.
+
+(3) A díj az Egyetem bevételét képezi, és azt az Egyetem a Budapesti Szerződésben, a Végrehajtási Szabályzatban és az e rendeletben meghatározott feladatok ellátásával kapcsolatban felmerülő költségeinek biztosítására használhatja fel.
+
+(4)[^4]
+
+(5)[^5] A letevő a letétbe helyezett biológiai anyagonként az e rendelet mellékletének a) pontjában meghatározott egyszeri tárolási díjat fizet az Egyetem részére. A belföldi fizetési számlával rendelkező letevő a tárolási díjat a számla átvételétől számított nyolc napon belül utalja át az Egyetem (2) bekezdésben meghatározott számlájára.
+
+(6) Az e rendelet mellékletének *b)–d)* pontjában meghatározott díjat az ott meghatározott dokumentumok, illetve minta kiadása iránti igény benyújtásával egyidejűleg kell megfizetni az Egyetem részére. Az e rendelet mellékletének *d)* pontjában meghatározott díj nem tartalmazza a minta kiadásához kapcsolódó postaköltséget, azt a díjon felül kell megfizetni az Egyetem részére.
+
+## 4. §
+
+Ha a letevő a díjat nem fizeti meg, az Egyetem határidő tűzésével felhívja a díj megfizetésére. A felhívás eredménytelensége a letét megszűnését eredményezi, a letétbe helyezett biológiai anyagot az Egyetem megsemmisíti, erre az Egyetem a felhívásban figyelmezteti a letevőt.
+
+## 5. §
+
+(1) Ha a letétbe helyezett biológiai anyag a tárolás időtartama alatt elpusztul, a letevőt erről az Egyetem értesíti. Ebben az esetben a letevő díjmentesen jogosult azonos biológiai anyag letétbe helyezésére.
+
+(2) A Végrehajtási Szabályzatban meghatározott tárolási időtartam lejárata után az Egyetem a letevő kérésére a letétbe helyezett biológiai anyagot a letevő részére visszajuttatja. A letevő erre irányuló kérelme hiányában az Egyetem a tárolás időtartamának lejáratától számított hat hónap elteltével a tárolt biológiai anyagot megsemmisíti vagy a gyűjteményében elhelyezi.
+
+## 6. §[^6]
+
+Az Egyetem a szabadalmi eljárás céljából letétbe helyezett biológiai anyagok tartósításával és tárolásával kapcsolatban további szolgáltatásokat (így különösen a letétbe helyezendő biológiai anyag azonosítása, genetikai jellemzése) végezhet a letevővel való külön megállapodás alapján, külön térítés ellenében.
+
+## 7. §
+
+(1)[^7] E rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) Az e rendelet mellékletében meghatározott díjmértéket – a Végrehajtási Szabályzat 12.2. szabályának *c)* pontjában foglaltak alapján – annak a Nemzetközi Iroda általi közzétételét követő harmincadik naptól kezdődően és az ezt az időpontot követően felmerülő díjigények tekintetében kell alkalmazni.
+
+(3)[^8] A mikroorganizmus törzsek szabadalmi eljárás céljából való letétbe helyezéséről és kezeléséről szóló miniszteri rendelet 1. § c) pontjában meghatározott és e rendelet hatálybalépése előtt letétbe helyezett biológiai anyagokat az Egyetem a letétbe helyezés idején hatályos jogszabályoknak megfelelően tovább tárolja.
+
+## Melléklet a 61/2006. (III. 23.) Korm. rendelethez
+
+**Az e rendelet alapján biológiai anyagonként**\
+**fizetendő díjak**
+
+*a)*[^9] Tárolás 202 500 forint
+
+*b)*[^10] A Végrehajtási Szabályzat 8.2. szabályában említett tanúsítvány kiadása és a Végrehajtási Szabályzat 7.6. szabályában meghatározott tájékoztatás 13 500 forint
+
+*c)*[^11] Életképességi bizonylat kiadása a Végrehajtási Szabályzat 10.2. szabálya *e)* pontjának első mondatában foglalt kivétellel 33 750 forint
+
+*d)*[^12] Minták kiadása a Végrehajtási Szabályzat 11.4. szabálya *h)* pontjának első mondatában foglalt kivétellel 40 500 forint
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 2. § a) pontja, nyitó szövegrésze a 409/2024. (XII. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 409/2024. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 2. § b) pontja, a 409/2024. (XII. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdését a 409/2024. (XII. 20.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^5]: A 3. § (5) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 36. §-a, a 409/2024. (XII. 20.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § a 409/2024. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 343. pontja szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdése a 409/2024. (XII. 20.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^9]: A Melléklet a) pontja a 409/2024. (XII. 20.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^10]: A Melléklet b) pontja a 409/2024. (XII. 20.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^11]: A Melléklet c) pontja a 409/2024. (XII. 20.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^12]: A Melléklet d) pontja a 409/2024. (XII. 20.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.

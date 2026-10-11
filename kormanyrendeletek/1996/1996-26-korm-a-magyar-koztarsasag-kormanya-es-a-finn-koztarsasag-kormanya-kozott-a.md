@@ -1,0 +1,119 @@
+---
+title: "26/1996. (II. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Finn Köztársaság Kormánya között a kultúra, az oktatás és a kutatás területén történő együttműködésről szóló Egyezmény kihirdetéséről"
+identifier: "26/1996. (II. 14.) Korm. rendelet"
+njt_id: "1996-26-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/26"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-02-14
+in_force_from: 1996-02-22
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-26-20-22"
+retrieved: 2026-10-12
+---
+
+# 26/1996. (II. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Finn Köztársaság Kormánya között a kultúra, az oktatás és a kutatás területén történő együttműködésről szóló Egyezmény kihirdetéséről
+
+*(Az Egyezmény 1995. szeptember 8. napján lépett hatályba.)*
+
+## 1. §
+
+A Kormány a Finn Köztársaság Kormányával a kultúra, az oktatás és a kutatás területén történő együttműködésről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+**,,EGYEZMÉNY**
+
+a Magyar Köztársaság Kormánya\
+és a Finn Köztársaság Kormánya között\
+a kultúra, az oktatás és a kutatás területén történő együttműködésről
+
+A Magyar Köztársaság Kormánya és a Finn Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+– tekintettel a magyar– finn kulturális kapcsolatok hosszú múltra visszatekintő hagyományaira, amelyek folytatása mindkét Fél érdekeit szolgálja, és hivatkozva az 1937-ben és 1959-ben megkötött kulturális egyezményekre,
+
+– attól a kívánságtól vezérelve, hogy erősítsék és továbbfejlesszék a két ország közötti baráti kapcsolatokat, valamint a kölcsönös együttműködést a kultúra, az oktatás és a tudomány területén,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek a jelen Egyezményben foglaltak szerint fejlesztik a kölcsönös együttműködést a kultúra, az oktatás és a tudományos kutatás területén, beleértve az ifjúsági ügyek és a sport területét is.
+
+Az együttműködés elősegítése céljából a Magyar Fél Kulturális és Tudományos Központot tart fenn Helsinkiben.
+
+*2. Cikk*
+
+A Szerződő Felek támogatják a közvetlen együttműködést a jelent Egyezmény illetékességi körébe tartozó szervezetek, intézmények és közösségek között, azok hatáskörének és a két ország törvényes rendelkezéseinek megfelelően.
+
+*3. Cikk*
+
+A Szerződő Felek elősegítik az állampolgári szervezetek és az állampolgárok közvetlen kapcsolattartását és öntevékeny együttműködését a jelen Egyezménybe foglalt területeken.
+
+*4. Cikk*
+
+A Szerződő Felek lektorok és más oktatók cseréjével elősegítik a magyar nyelv oktatását Finnországban és a finn nyelv oktatását Magyarországon, továbbá bátorítanak a másik ország irodalmának fordítására.
+
+*5. Cikk*
+
+A Szerződő Felek fejlesztik együttműködésüket a finnugor népek nyelveinek és kulturális hagyományainak kutatása és ápolása terén.
+
+*6. Cikk*
+
+A Szerződő Felek különleges figyelmet fordítanak a kulturális örökség ápolását szolgáló együttműködésre.
+
+*7. Cikk*
+
+A Szerződő Felek elősegítik a szerzői jog, illetve az ehhez közelálló jogok terén az együttműködést.
+
+*8. Cikk*
+
+A Szerződő Felek készek bátorítani az írott és az elektronikus sajtó területén az együttműködést, különös tekintettel annak oktatási és kutatási vonatkozására.
+
+*9. Cikk*
+
+A Szerződő Felek elősegítik a mozgáskultúra és a sporttevékenység terén a hivatalos szervek és az intézmények közti együttműködést, bátorítják a testnevelési és sportszervezeteket kapcsolataik továbbfejlesztésére.
+
+*10. Cikk*
+
+A Szerződő Felek támogatják az ifjúsággal foglalkozó kormányzati és más szervezetek és intézmények közti együttműködést, és bátorítják mindkét ország fiataljainak és ifjúsági szervezeteinek kapcsolattartását.
+
+*11. Cikk*
+
+Az Egyezmény rendelkezéseinek megvalósulását közös munkacsoport kíséri figyelemmel, amely az érintett minisztériumok és hivatalok képviselőiből, valamint különböző szakterületek szakértőiből áll. A munkacsoport szükség szerint vagy a Szerződő Felek valamelyikének kérésére ülést tart felváltva Magyarországon és Finnországban. Ezeken az üléseken értékelik az együttműködés megvalósulását és annak továbbfejlesztése érdekében meghatározott időre szóló munkaterveket készítenek, amelyekben megállapodnak a pénzügyi feltételekben, a személycserékben és más, gyakorlati kérdésekben. A munkacsoport alcsoportokat hozhat létre egyes területek együttműködése érdekében.
+
+*12. Cikk*
+
+A jelen Egyezmény hatálybalépésével hatályukat vesztik a két ország között 1937. október 22-én és 1959. június 10-én aláírt kulturális egyezmények.
+
+*13. Cikk*
+
+A jelen Egyezmény 30 nappal azután lép hatályba, amikor a Szerződő Felek diplomáciai úton kölcsönösen értesítik egymást arról, hogy eleget tettek a hatálybalépéshez előírt alkotmányos rendelkezéseiknek.
+
+A jelen Egyezmény meghatározatlan ideig marad hatályban, mindaddig, amíg az egyik Szerződő Fél írásban fel nem mondja. Az Egyezmény az írásbeli felmondás kézhezvételétől számított hat hónapot követően veszti hatályát.
+
+Készült Budapesten, 1995. március hó 9. napján, két-két példányban, magyar és finn nyelven. Mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya részéről
+
+*Dr. Fodor Gábor* s. k.,\
+művelődési és közoktatási miniszter
+
+A Finn Köztársaság Kormánya részéről
+
+Dr. Tytti Isohookana-Asunmaa\
+kulturális miniszter''
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1995. szeptember 8. napjától kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról a köznevelésért felelős miniszterrel, a szakképzésért felelős miniszterrel, a felsőoktatásért felelős miniszterrel és a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével egyetértésben a kultúráért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 1. §-a, a 238/2022. (VI. 30.) Korm. rendelet 5. §-a szerint módosított szöveg.

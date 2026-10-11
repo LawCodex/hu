@@ -1,0 +1,148 @@
+---
+title: "22/2008. (II. 7.) Korm. rendelet a befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet üzletszabályzatának kötelező tartalmi elemeiről"
+identifier: "22/2008. (II. 7.) Korm. rendelet"
+njt_id: "2008-22-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/22"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-02-07
+in_force_from: 2008-02-23
+last_amended: 2017-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-22-20-22"
+retrieved: 2026-10-12
+---
+
+# 22/2008. (II. 7.) Korm. rendelet a befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást, valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet üzletszabályzatának kötelező tartalmi elemeiről
+
+A Kormány az Alkotmány 35. §-a (1) bekezdésének *b)* pontjában foglalt feladatkörében eljárva, valamint a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. §-a (1) bekezdésének *b)* pontjában kapott felhatalmazás alapján az alábbiakat rendeli el:
+
+## 1. §
+
+(1) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti befektetési szolgáltatási tevékenységet, befektetési szolgáltatási tevékenységet kiegészítő szolgáltatást (a továbbiakban: kiegészítő szolgáltatás), valamint árutőzsdei szolgáltatást folytató gazdálkodó szervezet (a továbbiakban: vállalkozás) e tevékenysége tekintetében készített üzletszabályzata tartalmazza
+
+a)[^1] a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró a Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által engedélyezett befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, árutőzsdei szolgáltatások, valamint a Bszt. 8. §-ának (5) bekezdésében meghatározott tevékenységek felsorolását,
+
+b) a Felügyelet által kiadott, az *a)* pontban foglalt tevékenységek végzésére jogosító határozat számát és keltét, a Felügyelet elnevezését, levelezési és honlapcímét,
+
+c) az ügyfél által a vállalkozással való kapcsolattartás során használható nyelveket, továbbá
+
+d) a vállalkozás ügyféllel való kapcsolattartásának módját, eszközét, ideértve a megbízás küldésének és fogadásának módját, eszközét.
+
+(2) A szerződés megkötésével, teljesítésével, módosításával és megszűnésével kapcsolatban a vállalkozás üzletszabályzata tartalmazza
+
+a) az ügyfél azonosításának részletes szabályait,
+
+b) azon okiratok és nyilatkozatok felsorolását, amelyek alkalmasak a vállalkozás számára előírt alkalmassági vagy megfelelési teszt elvégzéséhez, valamint az ügyfélminősítés szabályait,
+
+c) az egyes befektetési szolgáltatási tevékenységek, kiegészítő szolgáltatások, illetve árutőzsdei szolgáltatások keretében köthető ügyletek részletes szabályait, ideértve ügyletenként az ügyfélnek a vállalkozás által kezelt pénzügyi eszköze és pénzeszköze feletti rendelkezésének módját és részletes szabályait is,
+
+d) az ügyféllel történő szerződéskötés megtagadásának törvényben meghatározott okait,
+
+e) az ügyféllel történő elszámolás módját, határidejét,
+
+f) a szerződés módosításának, illetve megszüntetésének részletes szabályait, ideértve az elállási, felmondási határidőket, valamint
+
+g) a 6. §-ban meghatározott, az üzletszabályzat részét képező mellékleteit,
+
+h) az adatvédelmi tájékoztatás módját.
+
+(3) A vállalkozás üzletszabályzata tartalmazza
+
+a) az állományátruházásra vonatkozó általános szabályokat,
+
+b) a vállalkozás ügyféllel szembeni kötelezettségét – ideértve az ügyfél rendkívüli tájékoztatásának módját is – a vállalkozás tevékenységi engedélyének, egyes tevékenységek végzésének részleges vagy teljes felfüggesztése, korlátozása, a tevékenység végzésére jogosító engedélyének visszavonása esetén,
+
+c) ügyletfajtánként a vállalkozás, illetve az ügyfél kötelezettségét, kockázatviselését a vállalkozás tevékenységének a tőzsde vagy a Felügyelet részéről történő korlátozása, felfüggesztése, illetve az elszámolóháznak vagy központi szerződő félnek az ügyfél megbízását érintő intézkedése esetén.
+
+(4) Értékpapírszámla és ügyfélszámla vezetése esetén az üzletszabályzatban meg kell határozni
+
+a) számlanyitás részletes feltételeit,
+
+b) a számla jóváírásáról, terheléséről és egyenlegéről történő ügyfélértesítés gyakoriságát és módját.
+
+## 2. §
+
+(1) Ha a vállalkozás az ügyféltől megbízást telefonon, telefaxon vagy egyéb elektronikus úton is elfogad, az üzletszabályzatban rendelkezni kell ennek részletes szabályairól, így különösen
+
+a) a telefonon, telefaxon vagy egyéb elektronikus úton adott megbízás esetén követendő eljárásról (hangrögzítés vagy a megbízás felvevője általi írásban való rögzítés), az írásba foglalt szerződés elkészítésének módjáról, az írásba foglalás idejéről,
+
+b) a hangfelvétel megőrzésének időtartamáról.
+
+(2) Ha a vállalkozás a megbízást hangfelvételen rögzíti, az üzletszabályzatnak rendelkeznie kell a hangfelvételhez történő hozzáférési jogosultságról.
+
+## 3. §
+
+A vállalkozás üzletszabályzata tartalmazza, hogy – a jogszabályban meghatározott esetek, valamint az ügyfél súlyos és felszólítás ellenére sem rendezett szerződésszegése kivételével – a vállalkozás a szerződés teljesítéséért fennálló felelősségét nem korlátozhatja, nem zárhatja ki. Az üzletszabályzat ügyletfajtánként tartalmazza az ügyfél súlyos szerződésszegésének minősülő esetek körét, valamint a felek szerződésszegése esetén a felek jogait és kötelezettségeit.
+
+## 4. §
+
+(1) A vállalkozás üzletszabályzatában meg kell határozni az ügyfél értesítésének, tájékoztatásának gyakoriságát és módját, valamint annak költségkihatását.
+
+(2) A vállalkozás a Bszt.-ben előírt tájékoztatási kötelezettségének tartós adathordozón történő teljesítése esetén az üzletszabályzatában kifejezetten fel kell hívnia az ügyfél figyelmét a tájékoztatás módjának részletszabályaira.
+
+(3) A vállalkozás üzletszabályzata nem zárhatja ki, hogy az ügyfél az általa adott megbízás teljesítéséről és a vállalkozás által vezetett számlájának egyenlegéről, az üzletszabályzatban foglaltaktól eltérő módon is felvilágosítást kérjen.
+
+## 5. §
+
+(1)[^2] A vállalkozás az üzletszabályzatát az ügyfélforgalom számára rendelkezésre álló helyiségeiben közzéteszi, továbbá elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfél számára folyamatosan és könnyen elérhető módon elektronikus úton is elérhetővé teszi, lehetővé téve az ügyfél számára annak tárolását és előhívását.
+
+(2) A vállalkozás üzletszabályzata tartalmazza
+
+a) az ügyfél számára végzett, illetőleg nyújtott, a befektetési szolgáltatási tevékenységről, kiegészítő szolgáltatásról vagy árutőzsdei szolgáltatásról szóló jelentés gyakoriságát, időzítését és jellegét,
+
+b) az ügyfél pénzügyi eszközeinek vagy pénzeszközeinek kezelése esetén ezen eszközök megóvását biztosító intézkedések összefoglalását, ideértve az ügyfél rendelkezésére álló befektetővédelmi rendszerről és annak működéséről szóló tájékoztatást.
+
+(3) A vállalkozás az üzletszabályzatában kifejezetten felhívja az ügyfél figyelmét
+
+a) a pénzmosás elleni jogszabályokban foglalt előírásokra,
+
+b) a vállalkozás és az ügyfél között fennálló jogvita esetére irányadó jogra.
+
+## 6. §
+
+(1) A vállalkozás üzletszabályzatának mellékletei:
+
+a) a vállalkozásnak az ügyféllel kötendő szerződéseire vonatkozó formanyomtatványok,
+
+b) a kiszervezett tevékenységek köre és a kiszervezett tevékenységet végzők jegyzéke,
+
+c) a vállalkozás által igénybe vett közvetítők jegyzéke,
+
+d) a vállalkozás által alkalmazott díjtételek jegyzéke, amely tartalmazza a szerződéskötéshez, valamint – egy korábban megkötött és hatályban lévő szerződés (keretszerződés) esetén – az egyes ügyletekhez kapcsolódó, az ügyfelet terhelő költséget és díjat is,
+
+e) az üzleti órák megjelölése,
+
+f) általános szerződési feltételek,
+
+g) panaszkezelési szabályzata,
+
+h) a vállalkozás végrehajtási politikája,
+
+i) a vállalkozás összeférhetetlenségi politikájának összefoglaló leírása.
+
+(2)[^3]
+
+## 7. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+(2) E rendelet hatálybalépésekor működő vagy engedélyezési eljárás alatt álló vállalkozás e rendelet hatálybalépését követő 30 napon belül köteles módosítani az üzletszabályzatát.
+
+(3)[^4]
+
+## 8. §
+
+E rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről, 19. cikk,
+
+b) a Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 345/2013. (IX. 30.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^3]: A 6. § (2) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 45. §-a hatályon kívül helyezte.
+[^4]: A 7. § (3) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

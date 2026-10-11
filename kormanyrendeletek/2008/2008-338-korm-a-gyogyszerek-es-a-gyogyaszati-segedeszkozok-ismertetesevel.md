@@ -1,0 +1,46 @@
+---
+title: "338/2008. (XII. 30.) Korm. rendelet a gyógyszerek és a gyógyászati segédeszközök ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeiről és felhasználásáról"
+identifier: "338/2008. (XII. 30.) Korm. rendelet"
+njt_id: "2008-338-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/338"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-12-30
+in_force_from: 2009-10-01
+last_amended: 2023-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-338-20-22"
+retrieved: 2026-10-12
+---
+
+# 338/2008. (XII. 30.) Korm. rendelet a gyógyszerek és a gyógyászati segédeszközök ismertetésével kapcsolatban kiszabott bírság pénzügyi teljesítésének feltételeiről és felhasználásáról
+
+A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdés c) pontjában, az 5. § (3)–(5) bekezdése tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés d) pontjában, illetve a szakhatósági kijelölések tárgyában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva – a Kormány a következőket rendeli:
+
+## 2. §
+
+(1)[^2] A gyógyszerek és gyógyászati segédeszközök ismertetésével kapcsolatban eljáró hatóság által a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 19. § (2) bekezdés d) pontja szerint kiszabott bírságot a Nemzeti Népegészségügyi és Gyógyszerészeti Központnak (a továbbiakban: NNGYK) a Magyar Államkincstárnál vezetett számlájára – a (2) bekezdésben megjelölt időpontig – kell megfizetni, amelyet az NNGYK a kincstár által megjelölt fizetési számlára utal.
+
+(2)[^3] A bírságot az azt kiszabó határozat véglegessé válását követő 30 napon belül kell megfizetni.
+
+(3)[^4] A bírság megfizetésére az NNGYK a teljesítési határidő lejárta előtt benyújtott kérelemre egy alkalommal legfeljebb harminc nap fizetési halasztást, illetve a kiszabott bírság összegétől függően legfeljebb egy évre – negyedéves vagy havi teljesítéssel – részletfizetést engedélyezhet.
+
+(4)[^5] Az NNGYK által kiszabott bírságot banki átutalással kell megfizetni. Az átutalási megbízásban fel kell tüntetni a bírságot kiszabó határozat számát, az átutalás jogcímét és a kötelezett nevét (megnevezését).
+
+(5)[^6]
+
+## 5. §
+
+(1) Ez a rendelet 2009. január 1-jén lép hatályba. Rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2)–(5)[^10]
+
+---
+
+[^2]: A 2. § (1) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 60. § (1) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 35. § a)–b) pontja, a 175/2015. (VII. 7.) Korm. rendelet 61. §-a, a 334/2023. (VII. 20.) Korm. rendelet 17. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 230. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 2. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 658–659. §-a, a 351/2010. (XII. 30.) Korm. rendelet 226. § (2) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 35. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdése a 351/2010. (XII. 30.) Korm. erndelet 226. § (2) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 35. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 659. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: Az 5. § (2)–(5) bekezdése e rendelet 6. § (1) bekezdése alapján hatályát vesztette.

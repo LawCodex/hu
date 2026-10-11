@@ -1,0 +1,164 @@
+---
+title: "212/2006. (X. 27.) Korm. rendelet a „Pályamódosító hitelprogram” keretében nyújtott hitel igénybevételének feltételeiről"
+identifier: "212/2006. (X. 27.) Korm. rendelet"
+njt_id: "2006-212-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/212"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-10-27
+in_force_from: 2010-01-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-212-20-22"
+retrieved: 2026-10-12
+---
+
+# 212/2006. (X. 27.) Korm. rendelet a „Pályamódosító hitelprogram” keretében nyújtott hitel igénybevételének feltételeiről
+
+A Magyar Köztársaság 2006. évi költségvetéséről szóló 2005. évi CLIII. törvény (a továbbiakban: Kvtv.) 103. §-ának *g)* pontjában kapott felhatalmazás alapján a Kormány a „Pályamódosító hitelprogram” (a továbbiakban: Hitelprogram) keretében nyújtott hitel igénybevételének feltételeiről a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+a) *közszférában foglalkoztatott:*
+
+aa) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.) hatálya alá tartozó köztisztviselő és ügykezelő,
+
+ab) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó közalkalmazott,
+
+ac) a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: Hszt.) hatálya alá tartozó szolgálati jogviszonyban álló személy,
+
+ad) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozó szolgálati jogviszonyban álló személy,
+
+ae) a többségi állami tulajdonú gazdálkodó szervezetnél, a közalapítványnál, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) XII. fejezete alapján közigazgatási szervnél foglalkoztatott munkavállaló,
+
+af)[^1] az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) hatálya alá tartozó igazságügyi alkalmazott;
+
+b)[^2] *pályakezdő:* az a közszférában foglalkoztatott, aki először létesített az *aa)–af)* pontban felsorolt jogviszonyt, és a jogviszony létesítésekor a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – még nem töltötte be;
+
+c) *nyugdíjas:* az a közszférában foglalkoztatott, aki a jogviszonya megszűnésekor megfelel az Mt. 87/A. §-a (1)–(2) bekezdésében foglaltaknak;
+
+d) *gazdasági társaság:* a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) szerinti korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság;
+
+e)[^3] *egyéni vállalkozó:* a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 17. pontja értelmében ekként minősülő személy;
+
+f) *többségi állami tulajdonú gazdálkodó szervezet:* az olyan gazdasági társaság, közhasznú társaság, amelyben az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék;
+
+g) *tőkeemelés:* korlátolt felelősségű társaságban törzstőke, illetőleg zártkörűen működő részvénytársaságban alaptőke emelés;
+
+h) *beruházás:* a tárgyi eszköz beszerzése, létesítése, saját vállalkozásban történő előállítása, a beszerzett tárgyi eszköz üzembe helyezése, rendeltetésszerű használatbavétele érdekében az üzembe helyezésig, a rendeltetésszerű használatbavételig végzett tevékenység. Beruházás a meglévő tárgyi eszköz bővítését, rendeltetésének megváltoztatását, átalakítását, élettartamának, teljesítőképességének közvetlen növelését eredményező tevékenység is;
+
+i) *ügyfél:* az a jogviszonya megszűnéséig a közszférában foglalkoztatott, aki a Hitelprogram keretében a kedvezményes hitelt igénybe veszi, illetve annak igénybevételét kezdeményezi;
+
+j)[^4] *finanszírozó hitelintézet:* a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben meghatározott pénzügyi intézmény, amely az ügyfél számára – a Hitelprogram keretében – a Magyar Fejlesztési Bank Részvénytársaság (a továbbiakban: MFB Rt.) által nyújtott refinanszírozott forrásból kedvezményes kamatozású hitelt nyújt;
+
+k)[^5] *kedvezményes kamatozású hitel:* a Kormány által elfogadott Hitelprogram keretében a finanszírozó hitelintézet által nyújtott, az állam készfizető kezességvállalásával biztosított hitel.[^6]
+
+## 2. §
+
+(1) Az ügyfélnek nyújtható kedvezményes hitel összege a (2) bekezdésben meghatározott célra fordítandó összeg, de legfeljebb 3 millió forint, lejárata legfeljebb tíz év, a türelmi idő legfeljebb három év.
+
+(2) A kedvezményes kamatozású hitelt kizárólag
+
+a) gazdasági társaság alapításához nyújtott pénzbeli hozzájáruláshoz,
+
+b) gazdasági társaságban történő tőkeemeléshez,
+
+c) egyéni vállalkozó részére a vállalkozás indításához szükséges beruházáshoz
+
+lehet felhasználni.
+
+(3) A hitelből szerzett üzletrész vagy részvény futamidő alatti értékesítése esetén a hitel fennálló teljes összegét egy összegben vissza kell fizetni.
+
+## 3. §
+
+(1) A hitelkérelmet az ügyfél a foglalkoztatási jogviszonya megszűnését követő egy éven belül és abban az esetben nyújthatja be, ha a foglalkoztatási jogviszonya megszűnését közvetlenül megelőzően megszakítás nélkül legalább egy évig – pályakezdők esetén legalább hat hónapig – a közszférában állt alkalmazásban, a felmentése (rendes felmondása) munkáltató általi közlésére 2006. július 1. és 2008. december 31. között került sor, és arra a felmentési (felmondási) okirat tanúsága szerint
+
+a) a Ktv. 17. §-a (1) bekezdésének *a)–c)* pontja, (2) bekezdésének *a)*, illetve *c)–d)* pontja,
+
+b) a Kjt. 30. §-a (1) bekezdésének *a)–c)* pontja,
+
+c) az Mt. hatálya alá tartozó munkavállaló esetén a munkáltató működésével összefüggő ok,
+
+d)[^7] a Hszt. 56. §-a (1) bekezdésének *a)–b)* és *d)* pontja, illetve (2) bekezdésének *c)* pontja,
+
+e)[^8] a Hjt. 59. §-a (1) bekezdésének *a)–b)* és *d)* pontja, vagy
+
+f)[^9] az Iasz. 22. § (1) bekezdés *c)* pontja
+
+alapján került sor, feltéve, hogy a jogviszony megszűnéséig nem minősül nyugdíjasnak.
+
+(2) Hitelfelvételre az (1) bekezdésben foglalt feltételeknek való megfelelés esetén sem jogosult az az ügyfél, aki
+
+a)[^10] az adózás rendjéről szóló törvény szerint – a hitelkérelme benyújtásának időpontjában – nem minősül köztartozásmentes adózónak.
+
+b) a hitelkérelem benyújtásának időpontjában hitelszerződésből eredő lejárt tartozással rendelkezik,
+
+c) ellen a hitelkérelem benyújtásának időpontjában végrehajtási eljárás van folyamatban.
+
+(3)[^11] A (2) bekezdés *a)* pontja szerinti kizáró feltétel fennállásának hiányát az ügyfél
+
+a) 30 napnál nem régebben kiállított közokirattal igazolja, vagy
+
+b) szerepel a köztartozásmentes adózói adatbázisban.
+
+(4)[^12] Ha e rendelet eltérően nem rendelkezik, az (1)–(2) bekezdésben foglalt feltételnek való megfelelést a felmondási (felmentési) okirattal, a jogviszony megszűnésekor kiadott munkáltatói igazolással, az adóhatóság által kiadott igazolással, illetőleg a (2) bekezdés *b)* és *c)* pontja esetén az ügyfél nyilatkozatával kell igazolni.
+
+(5)[^13] A kedvezményes hitel iránti kérelemhez – a (4) bekezdésben foglalt okiratokon túlmenően – eredetiben vagy hiteles másolatban be kell nyújtani
+
+a)[^14] új gazdasági társaság alapítása esetén a közjegyző által készített közokiratba, vagy ügyvéd, illetve az alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba foglalt társasági szerződést, alapszabályt vagy alapító okiratot,
+
+b) tőkeemelés esetén az(oka)t a határozato(ka)t, amely(ek)ben a gazdasági társaság legfőbb szerve a tőkeemelés elhatározásáról, valamint arról dönt, hogy az ügyfelet jogosítja fel a tőkeemeléshez szükséges vagyoni szolgáltatás nyújtására, továbbá a Gt. 156. §-ának (2) bekezdésében foglalt nyilatkozatot,
+
+c)[^15] egyéni vállalkozó esetén a vállalkozói igazolványt vagy az egyéni vállalkozói nyilvántartási számot tartalmazó igazolás másolatát, illetve tevékenységtől függően a tevékenység folytatásához, gyakorlásához szükséges igazolványt, engedélyt vagy kamarai tagságot igazoló dokumentumot.
+
+(6)[^16] A kedvezményes hitel igénybevételére vonatkozó hitelkérelmeket a finanszírozó hitelintézetekhez folyamatosan,
+
+a) a Kvtv. 44. §-ának (3) bekezdésében meghatározott tőkeösszeg teljes felhasználásának időpontjáig, de
+
+b) legkésőbb 2009. december 31-éig
+
+lehet benyújtani.
+
+## 4. §
+
+(1) A kedvezményes hitelhez a Kvtv. 44. §-ának (2) bekezdésében foglalt feltételekkel az állam készfizető kezességet vállal. Az állami kezességvállalás további feltételeire és a kezesség beváltásának rendjére az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet rendelkezéseit kell alkalmazni.
+
+(2) A hitel folyósításának feltétele, hogy a hitelfelvevő a Kvtv. 44. §-a (2) bekezdésének *b)* pontja szerinti – a hitel tőkeösszege 2%-ának megfelelő – kezességvállalási díjat a Magyar Államkincstár 10032000-01034066 számú, „Kincstár Pályamódosító hitelprogram kezességvállalási díj” elnevezésű számlájára befizesse.
+
+## 5. §
+
+(1) Az MFB Rt. feladata a Kvtv. 44. §-ának (3) bekezdése szerinti 20 000,0 millió forintos állami kezességvállalási keret és ügyfelenként a 3,0 millió forintos hitelösszeg túllépésének megakadályozása.
+
+(2)[^17] Az MFB Rt. a kezességvállalási keret igénybevételének alakulásáról hitelintézetek szerinti bontásban a tárgynegyedévet követő 30. napig tájékoztatja az államháztartásért felelős minisztert.
+
+## 6. §[^18]
+
+A Hitelprogram keretében nyújtott kedvezményes kamatozású hitel állami támogatásnak, formáját tekintve kedvezményes kamatozású hitelnek minősül. A támogatás kategóriája: „D. Csekély összegű támogatás”. A hitelt kizárólag a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK bizottsági rendelettel összhangban lehet nyújtani.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+---
+
+[^1]: Az 1. § a) pontjának af) alpontját a 15/2007. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: Az 1. § b) pontja a 15/2007. (II. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: Az 1. § e) pontja a 15/2007. (II. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § j) pontja az 537/2013. (XII. 30.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^5]: Az 1. § k) pontja a 221/2014. (IX. 4.) Korm. rendelet 326. § a) pontja szerint módosított szöveg.
+[^6]: Lásd az 1100/2006. (X. 27.) Korm. határozatot.
+[^7]: A 3. § (1) bekezdésének d) pontja a 15/2007. (II. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdésének e) pontja a 15/2007. (II. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdésének f) pontját a 15/2007. (II. 13.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^10]: A 3. § (2) bekezdés a) pontja a 163/2009. (VIII. 6.) Korm. rendelet 13. § (1) bekezdésével megállapított, a 475/2017. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^11]: A 3. § új (3) bekezdését a 163/2009. (VIII. 6.) Korm. rendelet 13. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
+[^12]: A 3. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 13. § (2) bekezdése, szövege (3) bekezdésével megállapított szöveg.
+[^13]: A 3. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 13. § (2) bekezdése, szövege a 41. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 3. § (5) bekezdés a) pontja a 393/2017. (XII. 13.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^15]: A 3. § (5) bekezdésének c) pontja a 15/2007. (II. 13.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 308/2009. (XII. 28.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^16]: A 3. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 163/2009. (VIII. 6.) Korm. rendelet 13. § (2) bekezdése.
+[^17]: Az 5. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 326. § b) pontja szerint módosított szöveg.
+[^18]: A 6. § a 15/2007. (II. 13.) Korm. rendelet 3. §-ával megállapított szöveg.

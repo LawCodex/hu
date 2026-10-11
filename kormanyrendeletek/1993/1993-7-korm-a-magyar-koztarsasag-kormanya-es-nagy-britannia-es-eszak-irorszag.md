@@ -1,0 +1,123 @@
+---
+title: "7/1993. (I. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a kábítószerek és pszichotróp anyagok tiltott termelése, kereskedelme és a visszaélés megelőzése területén történő együttműködés tárgyában 1991. április 25-én aláírt Egyetértési Memorandum kihirdetéséről"
+identifier: "7/1993. (I. 13.) Korm. rendelet"
+njt_id: "1993-7-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1993/Korm/7"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1993-01-13
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1993-7-20-22"
+retrieved: 2026-10-12
+---
+
+# 7/1993. (I. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a kábítószerek és pszichotróp anyagok tiltott termelése, kereskedelme és a visszaélés megelőzése területén történő együttműködés tárgyában 1991. április 25-én aláírt Egyetértési Memorandum kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 1992. január 21-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a kábítószerek és pszichotróp anyagok tiltott termelése, kereskedelme és a visszaélés megelőzése területén történő együttműködés tárgyában 1991. április 25-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+**EGYETÉRTÉSI MEMORANDUM**
+
+a Magyar Köztársaság Kormánya\
+és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a kábítószerek\
+és pszichotróp anyagok tiltott termelése, kereskedelme és a visszaélés megelőzése területén történő együttműködés tárgyában
+
+A Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya
+
+abban a hitben, hogy a nemzetközi együttműködés lényeges a kábítószerek és pszichotróp anyagok tiltott termesztése, előállítása, terjesztése és a velük való visszaélés hatékony megelőzésében és megakadályozásában, és kifejezve folyamatos támogatásukat az Egyesült Nemzetek ilyen ügyekben felelős testületeinek fontos munkájához;
+
+tekintetbe véve az Egységes kábítószer egyezményt (New York, 1961. március 30.), a Pszichotróp anyagok egyezményét (Bécs, 1971. február 21.) és a Kábítószerek és pszichotróp anyagok tiltott termesztése elleni egyezményt (Bécs, 1988. december 20.), melyek az Egyesült Nemzetek égisze alatt készültek;
+
+azon kapcsolatok hangsúlyozását kívánva, melyeket a két ország megfelelő szervei már létrehozták a kölcsönös együttműködés további fejlesztése céljából;
+
+egyetértésre jutottak az alábbiakban:
+
+*1. Cikk*
+
+Az illető ország hatályos törvényei és jogszabályai függvényében mindkét Kormány ösztönözni fogja az együttműködést a két ország megfelelő kormányzati és nem kormányzati szervezetei között a kábítószerek és pszichotróp anyagok tiltott termelése, kereskedelme és a velük való visszaélés megelőzése területén, ahogy azt a következő Cikkek kitűzik.
+
+*2. Cikk*
+
+Ezen Egyetértési Memorandum keretében történő együttműködés az alábbi célú tevékenységeket foglalja magában:
+
+*a)* a kábítószerek és pszichotróp anyagok tiltott előállításának megelőzése;
+
+*b)* olyan kémiai termékek (prekurzorok) gyártásának, raktározásának és kereskedelmének hatékony monitorozása és szabályozása, melyeket a kábítószerek és pszichotróp anyagok tiltott gyártásában lehet hasznosítani;
+
+*c)* az intézkedések megerősítése a tiltott kábítószerek kereskedelmének azonosítása, felszámolása és kiküszöbölése érdekében;
+
+*d)* működési mechanizmusok kialakítása a kábítószer törvény végrehajtás céljait szolgáló információcsere és közös akciók megkönnyítésére;
+
+*e)* intézkedések meghozatala a kábítószer-kereskedelem hasznának kinyomozása, befagyasztása és elkobzása terén való együttműködés megkönnyítésére;
+
+*f)* információ- és tapasztalatcsere a kábítószerek és pszichotróp anyagok iránti kereslet és tiltott kínálat csökkentési módszerekről, a kábítószer-visszaélés megelőzéséről és a kábítószer-visszaélők kezeléséről és rehabilitációjáról;
+
+*g)* részletes egyezmények vagy további együttműködési intézkedések megkötése kábítószerrel kapcsolatos speciális kérdésekben, ha azt időről időre szükségesnek vagy kívánatosnak találja a két Kormány vagy a megfelelő kormányzati szervezetek.
+
+*3. Cikk*
+
+Együttműködési tevékenységek ezen Egyetértési Memorandum 2. Cikke keretében, melyet a két ország megfelelő egészségügyi, vám-, bűnüldözési, nemzetbiztonsági, törvény-végrehajtási és egyéb hatóságai közötti közvetlen kapcsolat útján fognak megvalósítani, és amelyek az alábbi formák némelyikében vagy mindegyikében fognak folyni:
+
+*a)* információ-, tapasztalat- és irodalomcsere;
+
+*b)* profilok és nyomozási információ cseréje a két ország bármelyikén keresztülhaladó gyanús tranzitutasokat, áruszállítást és azok útvonalát illetően;
+
+*c)* a két ország bármelyikének eljárásaihoz szükséges bizonyítékok nyújtása;
+
+*d)* specialisták kölcsönös látogatása a megfelelő szervezetektől ismerkedés vagy képzés céljából;
+
+*e)* a vonatkozó országos konferenciákat, szemináriumokat, kiállításokat stb. illető információk cseréje;
+
+*f)* részletes megállapodások aláírása, melyek speciális területeken való együttműködésre vonatkoznak;
+
+*g)* egyéb együttműködési tevékenységek, ahogy azt a két Kormány vagy a megfelelő kormányzati szervezetek meghatározhatják;
+
+*h)* különösen szorosan együttműködik mindkét Kormány annak érdekében, hogy megvalósítsa a kölcsönös adminisztratív segítségnyújtásra vonatkozó intézkedéseket, melyeket a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segítségnyújtásról 1990. szeptember 28-án aláírt Egyetértési Memorandum kitűzött.
+
+*4. Cikk*
+
+Az ezen Egyetértési Memorandum 2. és 3. Cikkében jelzett együttműködésekhez szükséges pénzügyi és egyéb feltételeket a két ország megfelelő szervezetei közötti végrehajtási megállapodások alapján teremtik meg.
+
+*5. Cikk*
+
+A nemzeti kábítószer ügyekért felelős magyar és brit minisztériumok és különleges szervezetek és a két ország Külügyminisztériuma, ha szükséges, megbeszéléseket tart azzal a céllal, hogy koordinálják és növeljék az ezen Egyetértési Memorandumban lefektetett együttműködés hatékonyságát.
+
+*6. Cikk*
+
+Ezen Egyetértési Memorandum rendelkezései nem lesznek joghátrányára bármely, a két ország között a kábítószerek és pszichotróp anyagok tiltott előállítása és kereskedelme megelőzése és a velük való visszaélés területén meglévő vagy jövőbeni megállapodásnak.
+
+*7. Cikk*
+
+Mindkét Kormány értesíti a másikat arról, hogy az Egyetértési Memorandum hatálybaléptetéséhez a szükséges intézkedéseket megtette. Az Egyetértési Memorandum az utolsó ilyen kormányértesítés napján lép hatályba. Ezt az Egyetértési Memorandumot mindkét Kormány felmondhatja a másik Kormány hat hónappal előre írásban történő értesítésével.
+
+Aláírva két példányban, Budapesten, 1991. április 25. napján, magyar és angol nyelven, mindkét szöveg egyformán hiteles.
+
+A Magyar Köztársaság Kormánya nevében\
+*Dr. Gálszécsy András* s. k.
+
+A Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya nevében\
+*John Patten* s. k.
+
+''
+
+3\. §
+
+(1) Ez a rendelet a kihirdetést követő 30. napon lép hatályba, rendelkezéseit azonban 1992. január hó 21. napjától kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról a rendészetért felelős miniszter, az egészségügyért felelős miniszter, az adópolitikáért felelős miniszter, a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 31. pontja szerint módosított szöveg.

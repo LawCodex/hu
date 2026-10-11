@@ -1,0 +1,207 @@
+---
+title: "154/1992. (XI. 25.) Korm. rendelet a magyar—szlovén nemzetközi közúti személy- és áruszállítások szabályozásáról szóló Egyezmény kihirdetéséről"
+identifier: "154/1992. (XI. 25.) Korm. rendelet"
+njt_id: "1992-154-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/154"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-11-25
+in_force_from: 1992-11-25
+last_amended: 1992-11-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-154-20-22"
+retrieved: 2026-10-12
+---
+
+# 154/1992. (XI. 25.) Korm. rendelet a magyar—szlovén nemzetközi közúti személy- és áruszállítások szabályozásáról szóló Egyezmény kihirdetéséről
+
+*[Az Egyezmény jóváhagyásáról szóló jegyzékváltás 1992. május hó 26. napján megtörtént.]*
+
+##### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között Budapesten, 1992. február 14-én aláírt, a nemzetközi közúti személy- és áruszállítások szabályozásáról szóló Egyezményt e rendelettel kihirdeti.
+
+##### 2. §
+
+Az Egyezmény hivatalos magyar nyelvű szövege a következő:,,
+
+#### EGYEZMÉNY a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a nemzetközi közúti személy- és áruszállítások szabályozásáról
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+ATTÓL AZ ÓHAJTÓL VEZÉRELVE, hogy megkönnyítsék a két ország közötti és a területükön áthaladó személy- és áruforgalmat,
+
+ELISMERVE az áruk és szolgáltatások szabad mozgását segítő európai liberalizációs folyamatok jelentőségét,
+
+FONTOSNAK TARTVA, hogy e liberalizációs folyamatok a két ország közötti közúti fuvarozások terén is erősödjenek,
+
+ABBÓL KIINDULVA, hogy a közúti forgalom elősegítése céljából a közúti összeköttetések és a határátmenetek megfelelő szintű kiépítését mindkét Fél kiemelt feladatnak tekinti,
+
+SZEM ELŐTT TARTVA a környezetvédelem és a közúti forgalombiztonság elsődleges szempontjait, beleértve a környezetkímélő szállítások előterjesztésének fontosságát,
+
+a következőkben állapodtak meg:
+
+## I. RÉSZ
+
+### 1. Cikk
+
+#### Fogalommeghatározások
+
+Jelen Egyezményben a
+
+— fuvarozó: olyan természetes vagy jogi személy, aki a Magyar Köztársaságban, illetve a Szlovén Köztársaságban a vonatkozó belső jogszabályokkal összhangban, díj ellenében vagy saját számlára közúti fuvarozást végez;
+
+— gépjármű:
+
+— — személyszállítás esetén: autóbusz vagy bármely gépi meghajtású közúti jármű, amelyet személyszállításra gyártottak vagy a műszaki követelmények szerint alakítottak ki, és amely a vezetőt is beleértve több mint kilenc személy szállítására alkalmas, valamint a csomagok szállítására szolgáló pótkocsi,
+
+— — áruszállítás esetén: bármely gépi meghajtású közúti jármű, amelyet áru szállítására gyártottak vagy a műszaki követelmények szerint alakítottak ki, beleértve bármely ahhoz kapcsolt pótkocsit vagy félpótkocsit,
+
+és amelyet, de legalább a vontatót valamelyik Szerződő Fél területén tartanak nyilván;
+
+— menetrend szerinti személyszállítás: olyan szolgáltatás, amely személyek szállítását meghatározott gyakorisággal és meghatározott útvonalon látja el, amelynek során előre meghatározott megállási pontokon utasok felvehetők és lerakhatók.
+
+A menetrend szerinti járatot előre meghatározott és közzétett menetrend és fuvardíj alapján kell működtetni;
+
+— nem menetrend szerinti (különjárati) személyszállítás: a különjárati személyszállítás, amelynek során ugyanaz a jármű szállítja az utasok ugyanazon csoportját az egész útvonalon és visszaszállítja őket a kiindulási helyre, vagy kifelé utasokat szállít és üresen jön vissza;
+
+— ingajárati személyszállítás: olyan szolgáltatás, ahol ismétlődő oda- és visszaút során utasok előre kialakított csoportjait szállítják egyetlen kiinduló pontról egyetlen végpontig;
+
+— cabotage forgalom: olyan fuvarozás, amelyet az egyik Szerződő Fél fuvarozója végez a másik Szerződő Fél területén fekvő kiinduló és végpont között.
+
+### 2. Cikk
+
+1\. Jelen Egyezmény rendelkezései a Magyar Köztársaság és a Szlovén Köztársaság közötti, továbbá bármelyikük területén áthaladó és harmadik országba irányuló díj ellenében vagy saját számlára, a Szerződő Felek egyikében bejegyzett gépjárművel végzett nemzetközi közúti személy- és áruszállításra terjednek ki.
+
+2\. Jelen Egyezmény rendelkezései nem érintik a két ország azon jogait vagy kötelezettségeit, amelyeket a rájuk már kötelező erejű egyezmények, megállapodások vagy jogszabályok rögzítenek.
+
+### 3. Cikk
+
+1\. A jelen Egyezmény végrehajtásának ellenőrzése és a felmerülő vitás kérdések mielőbbi rendezése céljából a két Szerződő Fél Vegyesbizottságot hoz létre, amely az illetékes hatóságok képviselőiből áll.
+
+2\. A Szerződő Feleket illetékes hatóságként magyar részről a Magyar Köztársaság Közlekedési, Hírközlési és Vízügyi Minisztériuma, szlovén részről a Szlovén Köztársaság Közlekedési és Hírközlési Minisztériuma képviseli.
+
+## II. RÉSZ — SZEMÉLYSZÁLLÍTÁS
+
+### 4. Cikk
+
+#### Utasok szállítása
+
+1\. Az autóbusszal végzett menetrend szerinti személyszállításra a Szerződő Felek illetékes hatóságai közötti megegyezés jogosít.
+
+2\. A menetrend szerinti kétoldalú és tranzit személyszállítás engedélyezésére vonatkozó, általuk már jóváhagyott kérelmeket a Szerződő Felek illetékes hatóságai a lehető legrövidebb időn belüli elbírálás céljából megküldik egymásnak.
+
+E kérelemnek tartalmaznia kell:
+
+— a fuvarozó (cég) megnevezését és címét,
+
+— a választott útvonalat,
+
+— a menetrendet,
+
+— a viteldíjakat,
+
+— az utasok felvételére és lerakására szolgáló megállási pontokat,
+
+— a szállítás tervezett időszakát és gyakoriságát.
+
+3\. A menetrend szerinti járatok üzemeltetésére a Szerződő Felek illetékes hatóságai az útvonal területükre eső szakaszára, illeték- és díjmentesen adják ki az engedélyokiratot.
+
+### 5. Cikk
+
+1\. Nem szükséges személyszállítás esetén engedély:
+
+*a)* a nem menetrend szerinti autóbuszjáratok zártajtós üzemeltetéséhez, az utasok azonos csoportjának ugyanazon az autóbuszon történő szállításához, ha
+
+— az utazás kiindulási és végpontja annak a Szerződő Félnek a területén van, ahol a gépjárművet bejegyezték, és az útvonalon új utasok felvételére nem kerülhet sor és az autóbuszon lévő utasok nem szállhatnak le,
+
+— az utazás kiindulási pontja annak a Szerződő Félnek a területén van, ahol a gépjárművet bejegyezték, végpontja pedig a másik Szerződő Fél területén található, feltéve, ha a gépjármű az utóbbi országot üresen hagyja el;
+
+*b)* meghibásodott gépjármű másik gépjárművel történő helyettesítéséhez.
+
+2\. Az 1. *a)* pontban megjelölt szállítások esetén a vezetőnek utaslistával és menetlevéllel kell rendelkeznie.
+
+3\. Külön engedély szükséges
+
+*a)* ingajárati személyszállításnál, ideértve azokat a járatokat, ahol azonos kiinduló és érkezési pontok között több járatot szerveznek, melyek során az első alkalommal üresen lép be a másik Szerződő Fél területére;
+
+*b)* a másik Szerződő Fél területéről a bejegyzés szerinti országba történő utasszállításhoz;
+
+*c)* minden egyéb, nem menetrend szerinti autóbuszközlekedéshez.
+
+## III. RÉSZ — ÁRUSZÁLLÍTÁS
+
+### 6. Cikk
+
+1\. A két Szerződő Fél közötti, a bármelyikük területén áthaladó, továbbá a harmadik országba irányuló, illetve onnan kiinduló fuvarozások számát a Felek nem korlátozzák.
+
+2\. Az 1. pontban megjelölt engedélymentesség a visszafuvarozásra is kiterjed.
+
+3\. A határátlépéseknél a veszélyes és gyorsan romló árukat szállító gépjárművek kezelését a Szerződő Felek érintett szervei gyorsított ütemben végzik.
+
+### 7. Cikk
+
+#### Gépjárművek tömege, méretei és műszaki követelményei
+
+1\. A gépjárművek tömegét, méreteit és azok műszaki állapotát illetően a Szerződő Felek kötelezik magukat arra, hogy a másik Szerződő Fél területén bejegyzett gépjárművekre nem alkalmaznak szigorúbb előírásokat, mint a saját területükön bejegyzettekre.
+
+2\. Ha a fuvarműveletet végző gépjármű vagy a járműszerelvény tömege, illetve méretei meghaladják a másik Szerződő Fél által meghatározott értéket, a fuvarozás megkezdése előtt külön engedélyt kell beszerezni az utóbbi Szerződő Fél illetékes hatóságától.
+
+3\. Amennyiben a jelen Cikk 2. pontjában foglaltak elvégzésére kiadott engedély rögzíti az útvonalat, úgy a fuvarműveletet csak azon az útvonalon lehet elvégezni.
+
+## IV. RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 8. Cikk
+
+#### Cabotage
+
+A cabotage fuvarozás kölcsönösségi alapon nem engedélyezett, hacsak a Szerződő Felek erről külön megállapodásban másképp nem rendelkeznek.
+
+### 9. Cikk
+
+#### Az Egyezmény megszegése
+
+1\. Amennyiben az egyik Szerződő Fél fuvarozója a másik Szerződő Fél területén való tartózkodása során megsérti az Egyezmény rendelkezéseit, az a Szerződő Fél, amelynek területén a szabálysértés történt
+
+*a)* figyelmeztetésben részesítheti a fuvarozót;
+
+*b)* az *a)* pontban foglaltakkal egy időben figyelmeztetheti a fuvarozót, hogy
+
+I. a részére kiadott engedély visszavonásra kerülhet,
+
+II. a tulajdonában lévő vagy általa üzemeltetett gépjárművek ideiglenes vagy állandó jellegű kitiltását eredményezheti annak a Szerződő Félnek a területéről, ahol a szabálysértés történt;
+
+*c)* közleményt adhat ki az ilyen visszavonásról.
+
+2\. E Cikk rendelkezései nem befolyásolják azon Szerződő Fél hatóságainak bármely törvényes eljárását, ahol a szabálysértést elkövették.
+
+### 10. Cikk
+
+#### A jegyzőkönyv
+
+1\. A Szerződő Felek jegyzőkönyvben rögzítik az Egyezmény alkalmazásának részletes szabályait, melyet az Egyezménnyel egyidejűleg írnak alá.
+
+2\. A 3. Cikknek megfelelően létrehozott Vegyesbizottság jogosult az említett jegyzőkönyv kiegészítésére annak érdekében, hogy az alkalmazkodjék a nemzetközi árufuvarozási rendszer alakulásához, és segítse annak fejlődését.
+
+### 11. Cikk
+
+#### Hatálybalépés és felmondás
+
+1\. A Szerződő Felek diplomáciai úton értesítik egymást az Egyezmény hatálybaléptetését célzó intézkedések megtételéről. Az Egyezmény az ilyen értesítések közül a későbbi kézhezvételét követő harmincadik napon lép hatályba.
+
+2\. Az Egyezmény bármely Szerződő Fél felmondásáról szóló, diplomáciai úton megküldött értesítést követő hat hónapig hatályban marad.
+
+Készült Budapesten, 1992. február 14-én, két eredeti példányban, magyar és szlovén nyelven, mindkét példány egyaránt hiteles.
+
+(Aláírások)''
+
+##### 3. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit 1992. június 26. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról — a pénzügyminiszterrel egyetértésben — a közlekedési és vízügyi[^1] miniszter gondoskodik.
+
+---
+
+[^1]: Az időközi szervezeti változásoknak megfelelő szöveg.

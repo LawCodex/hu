@@ -1,0 +1,455 @@
+---
+title: "297/2001. (XII. 27.) Korm. rendelet a pénzváltási tevékenységről"
+identifier: "297/2001. (XII. 27.) Korm. rendelet"
+njt_id: "2001-297-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/297"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-27
+in_force_from: 2010-01-01
+last_amended: 2020-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-297-20-22"
+retrieved: 2026-10-12
+---
+
+# 297/2001. (XII. 27.) Korm. rendelet a pénzváltási tevékenységről
+
+A Kormány a hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény (a továbbiakban: Hpt.) 235. §-a (1) bekezdésének *a)* és *e)* pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## Általános szabályok
+
+### 1. §
+
+(1)[^1] E rendelet hatálya kiterjed a pénzváltási tevékenységet végző hitelintézetre, valamint a pénzváltási tevékenységet közvetítőre (a továbbiakban együtt: pénzváltó).
+
+(2) E rendelet alkalmazásában fizetőeszköz alatt a devizakorlátozások megszüntetéséről, valamint egyes kapcsolódó törvények módosításáról szóló 2001. évi XCIII. törvény 2. § 6. pontja szerint meghatározott fizetőeszköz fogalmát kell érteni.
+
+(3) E rendelet alkalmazásában vezető állású személy:
+
+a) részvénytársaság esetén az igazgatóság elnöke és a felügyelő bizottság elnöke, korlátolt felelősségű társaság esetén az ügyvezető, közös vállalat esetén az igazgató;
+
+b) szövetkezet esetén – ide nem értve az *a)* pont alá tartozó szövetkezeti hitelintézetet – a tisztségviselő;
+
+c)[^2] fióktelep esetén a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 122. pont *d)* alpontjában meghatározott személy.
+
+(4)[^3] E rendelet alkalmazásában ügyfél a természetes személy, vállalkozás és szervezet (a továbbiakban együtt: ügyfél).
+
+### 2. §
+
+(1)[^4] Pénzváltási tevékenység végzésére engedélyt a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvényben és az e rendeletben meghatározott feltételek teljesülése esetén ad.
+
+(2)[^5]
+
+(3)[^6]
+
+### 3. §
+
+(1)[^7] A pénzváltási tevékenységet közvetítőnek az engedély iránti kéreleméhez – a (4) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+
+a)[^8] a kérelmező létesítő okiratát,
+
+b)[^9] a nem Magyarországon bejegyzett cég esetében harminc napnál nem régebbi okirati igazolást arról, hogy személyes joga szerinti bejegyzése (nyilvántartásba vétele) megtörtént,
+
+c)[^10] harminc napnál nem régebbi igazolást arra vonatkozóan, hogy a kérelmezőnek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs,
+
+d) a tervezett működési terület (országos kiterjedésű vagy meghatározott területi egységre korlátozott) meghatározását tartalmazó iratot,
+
+e)[^11] a kérelmező szervezeti felépítésének, az irányítási, döntési és ellenőrzés rendjének bemutatását, ha ezeket az létesítő okirat részletesen nem tartalmazza,
+
+f) a középtávú – az első három évre vonatkozó – üzleti tervet,
+
+g) annak igazolását, hogy a kérelmező rendelkezik a pénzváltási tevékenység végzéséhez szükséges személyi és tárgyi feltételekkel,
+
+h) a folytatni kívánt pénzváltási tevékenységre vonatkozó, a hitelintézet által jóváhagyott általános szerződési feltételeket is tartalmazó üzletszabályzatot,
+
+i) nyilatkozatot arra vonatkozóan, hogy a pénzváltási tevékenységét mikor kívánja megkezdeni,
+
+j) nyilatkozatot arról, hogy a jogszabályban meghatározott adatszolgáltatások teljesítésére felkészült,
+
+k)[^12] nem természetes személy kérelmező esetén a tulajdonosi szerkezetének okiratokkal alátámasztott részletes leírását, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosainak bemutatását,
+
+l)[^13] a kérelmezőnek a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatát és eljárásrendjét.
+
+(2)[^14] A pénzváltási tevékenységet közvetítőnek a kérelem előterjesztésekor rendelkeznie kell egy hitelintézettel kötött pénzváltási tevékenység közvetítésére irányuló megbízási szerződéssel. A megbízási szerződés megkötése előtt a hitelintézet köteles meggyőződni arról, hogy a közvetítő megfelel az (1) és (3) bekezdésben, valamint 10–14. §-ban foglalt feltételeknek.
+
+(3)[^15] A pénzváltási tevékenységet közvetítőnek az (1) bekezdés *e)* és *f)* pontjaiban előírt feltételt akkor kell teljesíteni, ha a pénzváltási tevékenységet kizárólagos tevékenységként kívánja gyakorolni.
+
+(4)[^16] Ha a kérelmező az (1) bekezdés *a)–c)* pontjában meghatározott okiratokat, adatokat a kérelemhez nem csatolja, a Felügyelet az adatok szolgáltatása érdekében megkeresi az okiratokról, adatokról nyilvántartást vezető hatóságot, bíróságot. Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát a Felügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+
+### 4. §
+
+A hitelintézetnek a pénzváltási tevékenység engedélyezése iránti eljárásban igazolnia kell a 3. § (1) bekezdés *g)*, *i)* és *j)* pontjában az említett egyes engedélyezési és működési feltételek meglétét.
+
+### 5. §[^17]
+
+A pénzváltási tevékenység engedélyezése iránti kérelemhez – a 3. §-ban említetteken túlmenően – a pénzváltási tevékenységet közvetlenül végző személy vonatkozásában mellékelni kell:
+
+a) a valutapénztáros és valuta-ügyintézői, illetve pénztárkezelő és valutapénztárosi képzés elvégzését tanúsító államilag elismert bizonyítványt, vagy 2003. december 31-ig megszerzett, korábban alkalmazási feltételként elfogadott bizonyítványt,
+
+b) a legalább alapfokú idegennyelv-ismeretet igazoló államilag elismert nyelvvizsga bizonyítványt vagy a pénzváltó vezető tisztségviselőjének, a tevékenység irányításáért felelős vezetőnek a nyilatkozatát arról, hogy a pénzváltási tevékenységet közvetlenül végző személy legalább alapfokú idegennyelv-ismerettel rendelkezik.
+
+### 5/A. §[^18]
+
+A pénzváltási tevékenységnek kiemelt közvetítő útján történő engedélyezésére irányuló eljárásban a Felügyelet az engedély kiadására vonatkozóan véleményt kér az Országos Rendőr-főkapitányságtól. Az Országos Rendőr-főkapitányság véleményében a bűnügyi, közbiztonsági szempontokat értékeli.
+
+### 6. §[^19]
+
+A Felügyelet az engedély iránti kérelmet elutasítja, ha a kérelmező
+
+a) az engedélyezési eljárásban megtévesztő vagy valótlan adatot közöl,
+
+b) a szükséges személyi és tárgyi feltételekkel nem rendelkezik,
+
+c)[^20] az engedély iránti kérelem benyújtását megelőzően már végzett pénzváltói tevékenységet és a vonatkozó hatályos előírásoknak nem tett maradéktalanul eleget,
+
+d)[^21] üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, továbbá a Felügyelet rendelkezésére álló bármely okirat, adat vagy információ alapján megállapítható, hogy a kérelmező nem tud megfelelni a működésre vonatkozó jogszabályok előírásainak,
+
+e) más tevékenységének folytatása nem összeegyeztethető a pénzváltási tevékenységgel.
+
+### 7. §[^22]
+
+A Felügyelet az engedélyt visszavonja, ha a pénzváltó
+
+a)[^23] azt a Felügyelet megtévesztésével vagy más jogszabályt sértő módon szerezte meg,
+
+b) törvény által tiltott tevékenységet folytat,
+
+c)[^24] az engedély közlésétől számított hat hónapon belül a tevékenységét nem kezdi meg,
+
+d) tizenkét hónapon keresztül nem folytat pénzváltási tevékenységet,
+
+e) nem felel meg a tevékenységre vonatkozó jogszabályok előírásainak,
+
+f)[^25] több alkalommal vagy súlyosan megsértette a számvitelre, ellenőrzésre, továbbá a tevékenységre vonatkozó jogszabályokat vagy a Felügyelet határozataiban foglalt előírásokat,
+
+g) e rendelet hatálya alá tartozó működése súlyosan veszélyezteti vagy sérti az ügyfelek érdekeit,
+
+h) nem tartja be az engedély előírásait,
+
+i) akadályozza vagy meghiúsítja a pénzváltási tevékenység ellenőrzését,
+
+j) tevékenységi engedélyét visszaadja.
+
+### 8. §[^26]
+
+A pénzváltó köteles a Felügyeletnek bejelenteni, ha az e rendelet hatálya alá tartozó szolgáltatási tevékenységét 30 napon túl szünetelteti. A bejelentésnek tartalmaznia kell a szüneteltetés időtartamát.
+
+### 8/A. §[^27]
+
+A hitelintézet köteles 5 napon belül a Felügyeletnek bejelenteni a pénzváltási tevékenységet közvetítővel kötött jogviszony megszűnését.
+
+### 9. §[^28]
+
+A Felügyelet a pénzváltó működését azonnal felfüggeszti, ha a pénzváltó tevékenységével összefüggésben pénzmosással vagy terrorizmussal kapcsolatban büntetőeljárás indul. A Felügyelet a büntetőeljárás lezárását követően, a büntetőeljárás eredményétől függően a felfüggesztést megszünteti vagy az engedélyt visszavonja.
+
+## Személyi és tárgyi feltételek
+
+### 10. §
+
+(1) A pénzváltási tevékenység
+
+a) a pénzváltási tevékenység végzésére alkalmas üzlethelyiség,
+
+b) a biztonságos pénztároláshoz szükséges páncélszekrény, falba épített széf vagy – havi átlagban napi 100 000 forintot meg nem haladó forgalom esetén – lemezszekrény,
+
+c) a valuták és a csekkek forgalomképességének ellenőrzéséhez szükséges segédeszközök:
+
+ca) valuta- és csekktájékoztató,
+
+cb) technikai segédeszközök (UV-lámpa, nagyító),
+
+d)[^29] legalább egy telefon fővonal vagy mobil telefon előfizetői szerződés (mobil telefonos elérhetőség),
+
+e) árfolyamjegyzék,
+
+f) az ügyfelet érintő, a pénzváltással összefüggő előírásokat angol és német nyelven tartalmazó tájékoztató tábla,
+
+g) a 11. §-ban megjelölt technikai eszköz
+
+megléte esetén végezhető.
+
+(2)[^30] A pénzváltási tevékenységet közvetítő az (1) bekezdés *a)* pontjában említett feltétel meglétét az ingatlanra vonatkozó tulajdonjog és az ingatlan-nyilvántartásba bejegyezhető más, használati jog esetében az ingatlanügyi hatóság által kiállított tulajdoni lappal, bérleti jog esetén bérleti szerződéssel köteles igazolni. Ha a kérelmező – ide nem értve a bérleti jogot – az adatokat nem mellékeli, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető magyarországi hatósághoz.
+
+(3)[^31] A pénzváltási tevékenységet közvetítőnek az (1) bekezdés *d)* pontjában említett feltétel meglétét valamelyik távközlési szolgáltatóval kötött szolgáltatási szerződéssel köteles igazolni.
+
+(4) A pénzváltó az (1) bekezdés *b)*–*c)*, valamint *e)–f)* pontjában foglalt feltételekről nyilatkozni köteles.
+
+(5)[^32] Az (1) bekezdés *g)* pontjának megfelelő technikai eszköz telepítését a pénzváltási tevékenységet közvetítőnek a rendszer telepítőjével vagy üzemeltetőjével kötött szerződéssel, illetve saját telepítés esetén a pénzváltási tevékenységet közvetítő vezető tisztségviselőjének nyilatkozatával kell igazolnia.
+
+(6)[^33] A pénzváltó a Felügyelet részére valutaváltó automata használatát bejelenti.
+
+(7)[^34] A pénzváltó automata pénzváltási ügyletenként a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 21. § (1) bekezdésében meghatározott összeghatárig válthat pénzt.
+
+### 11. §
+
+(1) A pénzváltó köteles olyan technikai eszköz telepítésére és üzemeltetésére, mely alkalmas arra, hogy az ügyfélfogadásra szolgáló helyiségeiben lezajló folyamatokat filmszalagon vagy más hasonló, képi, a történtek későbbi rekonstruálását lehetővé tévő módon rögzítse (kamera).
+
+(2) A pénzváltó a kamera elhelyezéséről, működéséről és használatáról az érintett személyek figyelmét a figyelemfelhívásra alkalmas módon és előzetesen megfelelő helyen elhelyezett tájékoztatóval köteles felhívni.
+
+(3) Az (1) és (2) bekezdés alapján készült felvételeket – az adatvédelmi szabályoknak megfelelően – a pénzváltó köteles az elkészülés napjától számított ötven napig megőrizni.
+
+(4) A (3) bekezdésben foglalt határidő leteltét követően a pénzváltó köteles az (1) bekezdés alapján készült felvételeket – az adatvédelmi szabályoknak megfelelően – megsemmisíteni.
+
+### 12. §
+
+(1)[^35] A pénzváltási tevékenységet közvetítőnél vezető állású személyként nem nevezhető ki, illetve vezető állású személynek nem választható meg, pénzváltási tevékenységet közvetlenül nem irányíthat, illetve ilyen tevékenységet közvetlenül nem végezhet, aki
+
+a)[^36] nem rendelkezik jó üzleti hírnévvel,
+
+b)[^37]
+
+c) a kérelem benyújtását megelőző két éven belül jogerős határozatban megállapított, tulajdon elleni, pénzügyi szabálysértést követett el,
+
+d)[^38] a kérelem benyújtását megelőző öt éven belül olyan vállalkozásnak – ideértve a jogi személyiséggel nem rendelkező társaságot is – volt vezető tisztségviselője, illetőleg vezető állású személye, továbbá olyan egyéni vállalkozó, aki (amely) korábban pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet – így különösen pénzváltási tevékenységet – engedély nélkül folytatott vagy a pénzügyi szolgáltatási, illetve kiegészítő pénzügyi szolgáltatási tevékenységre – így különösen a pénzváltási tevékenységre vonatkozó – engedélyét a Felügyelet visszavonta.
+
+(2)[^39] A pénzváltási tevékenységet közvetlenül végző személy kizárólag olyan személy lehet, aki rendelkezik:
+
+a) valutapénztáros és valuta-ügyintézői, illetve pénztárkezelő és valutapénztárosi képzés elvégzését tanúsító államilag elismert bizonyítvánnyal, vagy 2003. december 31-ig megszerzett, korábban alkalmazási feltételként elfogadott bizonyítvánnyal,
+
+b) legalább alapfokú idegennyelv-ismeretet igazoló államilag elismert nyelvvizsga bizonyítvánnyal vagy a pénzváltó vezető tisztségviselőjének, a tevékenység irányításáért felelős vezetőnek a nyilatkozatával arról, hogy a pénzváltási tevékenységet közvetlenül végző személy legalább alapfokú idegennyelv-ismerettel rendelkezik, amely nyelvismeret illeszkedik a pénzváltási tevékenység folytatása földrajzi helyéhez és ügyfélköréhez.
+
+## A pénzváltási tevékenység végzésének szabályai
+
+## Általános szabályok
+
+### 13. §
+
+(1) Ha a 10. § (1) bekezdésének *a)* pontja szerinti üzlethelyiségben egyéb, nem pénzváltási tevékenységet is folytatnak, az üzlethelyiségnek a pénzváltási tevékenység végzésére szolgáló részét el kell különíteni a más tevékenység végzésére szolgáló résztől.
+
+(2)[^40] Az egyébként üzlethelyiséggel rendelkező pénzváltó kérelmére a Felügyelet indokolt esetben meghatározott időtartamra engedélyezheti a pénzváltási tevékenységnek az üzlethelyiségen kívüli végzését.
+
+### 14. §[^41]
+
+A pénzváltási tevékenységet közvetítőt megbízó hitelintézet köteles a pénzváltó pénztári nyitvatartási ideje alatt a pénzváltási tevékenységhez szükséges váltási készletet folyamatosan biztosítani.
+
+## Árfolyamjegyzés
+
+### 15. §[^42]
+
+(1) A pénzváltási tevékenységet közvetítő az általa alkalmazott árfolyamokat a hitelintézettel kötött megbízási szerződésben rögzített módon állapítja meg.
+
+(2)[^43] A pénzváltási tevékenységet közvetítő belső utasításban köteles szabályozni az árfolyam-meghatározás módját, és megjelölni az árfolyam-megállapításért felelős személyeket.
+
+(3) A pénzváltó köteles öt évig megőrizni az árfolyamjegyzékeket.
+
+### 16. §[^44]
+
+A pénzváltó az euróra és az amerikai dollárra valutaárfolyamot köteles jegyezni.
+
+### 17. §
+
+(1) Az árfolyamjegyzés úgy történik, hogy a külföldi fizetőeszköz valamely egységét kell forintban kifejezni.
+
+(2) Az árfolyamjegyzéken fel kell tüntetni
+
+a) a jegyzett fizetőeszköz pénznemét,
+
+b) a jegyzés egységét (1, 100, 1000),
+
+c) a vételi és az eladási árfolyamokat.
+
+(3) A pénzváltó a csekket vagy valutaárfolyamon vagy külön meghatározott csekkárfolyamon forgalmazza.
+
+(4) Az árfolyamjegyzéken a pénznem és a jegyzés egységének megjelölése után az első oszlopban a valuta vételi, a második oszlopban a valuta eladási árfolyamot kell feltüntetni. Ha a pénzváltó külön meghatározott csekkárfolyamot alkalmaz, az árfolyamjegyzék harmadik oszlopában a csekk vételi, a negyedik oszlopában a csekk eladási árfolyamot kell feltüntetni.
+
+(5) Ha az ügyfél által átváltani kívánt valuta vagy csekk összege a pénzváltó által előre meghatározott összeghatárt meghaladja, a pénzváltó a közzétett vételi árfolyamhoz képest nagyobb, illetőleg eladási árfolyamhoz képest alacsonyabb árfolyamot alkalmazhat. Az összeghatárt, továbbá az árfolyameltérés mértékét az árfolyamjegyzéken fel kell tüntetni.
+
+(6) A pénzváltó köteles az árfolyamjegyzéket áttekinthetően elkészíteni és az ügyfelek által jól látható helyen kifüggeszteni.
+
+## Ügyviteli rend
+
+### 18. §
+
+A pénzváltó köteles
+
+a)[^45] a pénzváltási tevékenységre vonatkozó belső szakmai utasítást – ideértve a pénzmosás és a terrorizmus finanszírozás megelőzésére és megakadályozására, továbbá a pénzkezelésre vonatkozó előírásokat is – elkészíteni, annak naprakészségéről gondoskodni,
+
+b) megfelelő ügyviteli rendszert kialakítani.
+
+## Nyilvántartás, bizonylatok
+
+### 19. §
+
+(1) Ha a pénzváltó a pénzváltási tevékenységen kívül egyéb tevékenységet is folytat – a vonatkozó számviteli előírások megtartása mellett –, köteles könyvvitelét úgy kialakítani, hogy a pénzváltási tevékenységgel kapcsolatos forgalom (bevétel, kiadás) elkülöníthető legyen.
+
+(2) A pénzváltó a bizonylatok alapján köteles pénztáranként pénztári naplót vagy annak megfelelő egyéb nyilvántartást vezetni, amely valutanemenkénti és forint szerinti bontásban tartalmazza a tételes (bizonylatonkénti) bevételi és kiadási forgalmat, valamint a pénztár napi valuta, illetve forint nyitó- és zárókészletét.
+
+(3)[^46] A pénzváltó köteles a könyvvitelét úgy kialakítani, hogy az alkalmas legyen a felügyeleti adatok szolgáltatására és ellenőrzésére.
+
+(4)[^47] A pénzváltási tevékenységet közvetítő vállalkozásnak a számvitelről szóló törvény szerinti napi készpénz záró állomány maximális mértékének, illetve havi szintű átlagának megállapítása során nem kell figyelembe vennie az e tevékenység során birtokába került, a megbízót megillető készpénzállomány elkülönített nyilvántartásban szereplő, kötelezettségként kimutatott összegét.
+
+### 20. §
+
+A pénzváltó köteles minden ügyletről bizonylatot kiállítani az alábbiak szerint:
+
+a)[^48] külföldi fizetőeszköz ügyféltől történő megvásárlása esetén vételi bizonylatot,
+
+b)[^49] külföldi fizetőeszköz ügyfél részére való eladása esetén eladási bizonylatot,
+
+c) külföldi fizetőeszköznek más külföldi fizetőeszközre való átváltása esetén konverziós bizonylatot,
+
+d) egyéb pénzmozgás (pl. hitelintézettel való ügyletek, a központ és a telephely közötti ügyletek) esetén kiadási, illetőleg bevételi pénztárbizonylatot.
+
+### 21. §
+
+A bizonylatnak tartalmaznia kell
+
+a) a 20. § szerinti bizonylattípus megnevezését,
+
+b)[^50] az ügyfél devizajogi státusát,
+
+c) az esetleg felszámított jutalékot,
+
+d) az ügylet keltét,
+
+e) a pénzváltó nevét és telephely címét,
+
+f) a pénzváltást közvetlenül végző személy azonosítására alkalmas kézjelét,
+
+g)[^51] a pénzváltási tevékenységet közvetítő esetében a megbízó hitelintézet nevét.
+
+### 22. §
+
+(1) A 20. § *a)* pontja szerinti vételi bizonylaton a 21. §-ban foglaltakon túl fel kell tüntetni
+
+a) a megvásárolt fizetőeszköz pénznemét, összegét és a csekk sorszámát,
+
+b) az alkalmazott vételi árfolyamot,
+
+c) a kifizetett forintellenértéket.
+
+(2) A 20. § *b)* pontja szerinti eladási bizonylaton a 21. §-ban foglaltakon túl fel kell tüntetni
+
+a) az eladott fizetőeszköz pénznemét, összegét és az eladott csekk sorszámát,
+
+b) az alkalmazott eladási árfolyamot,
+
+c) a bevételezett ellenértéket.
+
+(3) A 20. § *c)* pontja szerinti konverziós bizonylaton a 21. §-ban foglaltakon túl fel kell tüntetni
+
+a) a megvásárolt fizetőeszköz pénznemét, összegét és a csekk sorszámát,
+
+b) az alkalmazott vételi árfolyamot,
+
+c) a forintellenértéket,
+
+d) az eladott fizetőeszköz pénznemét és összegét,
+
+e) az alkalmazott eladási árfolyamot.
+
+(4) A konverziós bizonylat helyett együttesen alkalmazható a vételi és eladási bizonylat. Ez esetben a bizonylatokon fel kell tüntetni a ,,konverzió'' megjegyzést. A két bizonylat adattartalmának meg kell egyeznie a konverziós bizonylat adattartalmával.
+
+### 23. §
+
+(1) A bizonylat kiállítható az erre a célra rendszeresített
+
+a) legalább két másolati példánnyal rendelkező, előre nyomtatott sorszámmal ellátott nyomtatvány kitöltése útján (kézi kiállítású bizonylat),
+
+b) pénzváltó géppel, számítógéppel (gépi kiállítású bizonylat).
+
+(2) Az (1) bekezdés *a)–b)* pontjában említett bizonylatok a 24–25. § szerint szigorú számadásúak.
+
+### 24. §
+
+(1) A kézi kiállítású bizonylatok nyomtatványait a kibocsátó köteles szigorú számadás alá vonni. Ennek megfelelően a nyomtatványokról fajtánként külön-külön nyilvántartást kell vezetni.
+
+(2) A nyilvántartásnak az alábbi adatokat kell tartalmaznia:
+
+a) a nyomtatvány jelét, illetve számjelét,
+
+b) a beszerzést igazoló számla számát és a számlán feltüntetett teljesítés keltét,
+
+c) a tömbök sorszámát (tól–ig),
+
+d) a használatbavétel keltét,
+
+e) a kiselejtezés keltét.
+
+### 25. §
+
+A gépi kiállítású bizonylatok akkor minősülnek szigorú számadás alá vontnak, ha a pénzváltógép (számítógép) kihagyás és ismétlés nélkül biztosítja a sorszámozást mind az eredeti, mind a másolati példányon.
+
+## A pénzváltó ellenőrzése
+
+### 26. §[^52]
+
+(1) A hitelintézet belső ellenőrzése köteles legalább évente megvizsgálni, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályoknak, illetőleg a szerződésben foglaltaknak megfelelően végzi-e.
+
+(2)[^53] A hitelintézet felelős azért, hogy a pénzváltási tevékenységét közvetítő e tevékenységét a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézetnek haladéktalanul jelentenie kell a Felügyelet részére, amennyiben a közvetítő e tevékenysége jogszabályba vagy a szerződésbe ütközik.
+
+## A pénzváltási tevékenységgel összefüggő panaszokra vonatkozó eljárás
+
+### 27. §[^54]
+
+### 28. §
+
+A pénzváltónak a forgalomból ki kell vonnia a sérült, csonka és – szennyezettség mértékétől függetlenül – a szennyezett bankjegyet, a forgalomból kivont bankjegyet, valamint az olyan bankjegyet, amelynek valódisága megkérdőjelezhető.
+
+## Hatálybalépés
+
+### 29. §
+
+(1) Ez a rendelet 2002. január 1. napján lép hatályba.
+
+(2)[^55]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdés c) pontja a 172/2017. (VI. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 1. § (4) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^4]: A 2. § (1) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^5]: A 2. § (2) bekezdését a 172/2017. (VI. 29.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. § (3) bekezdését a 80/2010. (III. 25.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^7]: A 3. § (1) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^8]: A 3. § (1) bekezdés a) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés b) pontja a 172/2017. (VI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés c) pontja a 172/2017. (VI. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés e) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés k) pontját a 172/2017. (VI. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^13]: A 3. § (1) bekezdés l) pontját a 172/2017. (VI. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 3. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 2. §-ával megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^16]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 685. § (1) bekezdése iktatta be, szövege a 355/2012. (XII. 13.) Korm. rendelet 10. §-ával megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^17]: Az 5. § az 537/2013. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^18]: Az 5/A. §-t a 172/2017. (VI. 29.) Korm. rendelet 7. §-a iktatta be.
+[^19]: A 6. § nyitó szövegrésze a 172/2017. (VI. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 6. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 259. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 6. § d) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^22]: A 7. § nyitó szövegrésze a 172/2017. (VI. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^23]: A 7. § a) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^24]: A 7. § c) pontja a 182/2009. (IX. 10.) Korm. rendelet 259. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 7. § f) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^26]: A 8. § a 172/2017. (VI. 29.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^27]: A 8/A. §-t a 172/2017. (VI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^28]: A 9. § a 182/2009. (IX. 10.) Korm. rendelet 259. §-a, a 172/2017. (VI. 29.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^29]: A 10. § (1) bekezdés d) pontja az 537/2013. (XII. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^30]: A 10. § (2) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 24. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^31]: A 10. § (3) bekezdése a 80/2010. (III. 25.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^32]: A 10. § (5) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^33]: A 10. § (6) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^34]: A 10. § (7) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^35]: A 12. § (1) bekezdés nyitó szövegrésze a 172/2017. (VI. 29.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^36]: A 12. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 15. pontja hatályon kívül helyezte, újonnan a 172/2017. (VI. 29.) Korm. rendelet 10. §-a iktatta be.
+[^37]: A 12. § (1) bekezdés b) pontját a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 15. pontja hatályon kívül helyezte.
+[^38]: A 12. § (1) bekezdés d) pontja a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^39]: A 12. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^40]: A 13. § (2) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^41]: A 14. § a 80/2010. (III. 25.) Korm. rendelet 4. §-ával megállapított, a 172/2017. (VI. 29.) Korm. rendelet 12. § i) pontja szerint módosított szöveg.
+[^42]: A 15. § a 80/2010. (III. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^43]: A 15. § (2) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § j) pontja szerint módosított szöveg.
+[^44]: A 16. § az 537/2013. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^45]: A 18. § a) pontja az 537/2013. (XII. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^46]: A 19. § (3) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^47]: A 19. § (4) bekezdését a 325/2009. (XII. 29.) Korm. rendelet 45. §-a iktatta be; szövege a 80/2010. (III. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^48]: A 20. § a) pontja az 537/2013. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^49]: A 20. § b) pontja az 537/2013. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^50]: A 21. § b) pontja az 537/2013. (XII. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^51]: A 21. § g) pontját az 537/2013. (XII. 30.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^52]: A 26. § a 80/2010. (III. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^53]: A 26. § (2) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^54]: A 27. §-t a 345/2013. (IX. 30.) Korm. rendelet 35. § b) pontja hatályon kívül helyezte.
+[^55]: A 29. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 997. pontja hatályon kívül helyezte.

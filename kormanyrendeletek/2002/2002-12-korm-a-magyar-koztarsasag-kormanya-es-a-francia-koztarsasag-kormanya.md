@@ -1,0 +1,146 @@
+---
+title: "12/2002. (I. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a szakmai gyakornokok cseréjéről szóló, Budapesten, 2000. május 4. napján aláírt Egyezmény kihirdetéséről"
+identifier: "12/2002. (I. 31.) Korm. rendelet"
+njt_id: "2002-12-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/12"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-01-31
+in_force_from: 2002-01-31
+last_amended: 2002-01-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-12-20-22"
+retrieved: 2026-10-12
+---
+
+# 12/2002. (I. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a szakmai gyakornokok cseréjéről szóló, Budapesten, 2000. május 4. napján aláírt Egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 2001. december 1. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a szakmai gyakornokok cseréjéről, Budapesten, 2000. május 4. napján aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya között a szakmai gyakornokok cseréjéről
+
+A Magyar Köztársaság Kormánya és a Francia Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+annak tudatában, hogy azoknak a fiatal szakmai gyakornokoknak a cseréje, akik a másik állam területén a két fél számára megfelelő, de 18 hónapnál nem hosszabb időtartamú bérfizetéssel járó szakmai tevékenységet folytatnak, ami a két ország között a kölcsönös megértés és együttműködés szempontjából rendkívül hasznosnak minősül
+
+az alábbi rendelkezésekben állapodnak meg:
+
+*1. Cikk*
+
+Jelen Egyezmény rendelkezései azokra a szakmájukat már gyakorló magyar vagy francia állampolgárokra vonatkoznak, akik a fogadó országba szakismereteik elmélyítése, az életkörülmények megismerése, nyelvi ismereteik tökéletesítése és szakmai pályafutásuk bővítése céljából utaznak. A fogadó ország területén e célkitűzéseknek egy egészségügyi, oktatási vagy szociális jellegű intézménynél, illetve mezőgazdasági, kisipari, kézműipari, ipari vagy kereskedelmi vállalatnál végzendő fizetett munka keretében szerzendő tapasztalatok alapján tehetnek eleget.
+
+Ezen, a továbbiak során ,,gyakornokként'' megnevezett állampolgároknak joguk van arra, hogy egy adott munkakört, a jelen Egyezményben rögzített feltételek szerint lássanak el anélkül, hogy a fogadó ország munkaerőpiacát a szóban forgó szakma tekintetében figyelembe vennék. A külön szabályozás alá tartozó szakmák esetében azonban a gyakornokok sem kaphatnak felmentést.
+
+*2. Cikk*
+
+A gyakornokok korhatára 18–35 év. E személyeknek a fogadó ország nyelvének a munkakör ellátásához szükséges megfelelő szintű ismerete mellett rendelkezniük kell a munkakör ellátásához megkívánt, a szakképzettséget tanúsító oklevéllel vagy pedig az adott tevékenység területén elvárt szakmai gyakorlattal.
+
+*3. Cikk*
+
+A gyakornoki munka általában egy évre engedélyezhető, és ez az időtartam azonos munkáltató esetében egy alkalommal, hat hónappal meghosszabbítható.
+
+A gyakornokcserében részt vevő francia és magyar állampolgároknak saját hazájukból való kiutazásuk előtt kötelezettséget kell vállalniuk arra, hogy a fentebb engedélyezett időszak lejárta után, a fogadó országban tovább nem tartózkodnak és a belépés feltételei szerint megjelölt munkához képest más munkát nem vállalnak.
+
+*4. Cikk*
+
+A gyakornokcsere magyar és francia résztvevőinek száma éves szinten egyik fél részéről sem haladhatja meg a 300 főt.
+
+Azok a gyakornokok, akik a jelen Egyezmény alapján már a másik ország területén tartózkodnak, nem számítanak bele a jelen Egyezmény jelen Cikke 1. bekezdésében foglalt létszámkeretbe. A fenti létszámkeret attól függetlenül kerül alkalmazásra, hogy az engedélyeket mely időszakra adták ki és mely időszakban használták fel.
+
+Amennyiben a jelen Cikk 1. bekezdésében meghatározott létszámkeretet az adott év folyamán a Szerződő Felek egyikének gyakornokai esetében nem használták fel, ez a körülmény nem csökkentheti a másik Szerződő Fél gyakornokai számára kiadható munkavállalási engedélyek számát, a létszámkeret fel nem használt része pedig a következő naptári évre nem vihető át.
+
+A jelen Egyezményben érintett gyakornokcsere résztvevői létszámkerete felhasználásának összesítésére az Egyezmény hatálybalépésétől számított első év december 31-éig kerül sor. Az ezt követő évek összesítő értékelése pedig a tárgyév január 1. és december 31. közötti időszakára vonatkozik.
+
+Jelen Cikk 1. bekezdésében megjelölt létszámkeret bármely módosítása a Szerződő Felek illetékes hatóságai közötti egyszerű levélváltás útján történik. Annak érdekében, hogy e módosítás a következő naptári évben érvénybe léphessen, szükséges, hogy a fent idézett levélváltásra még az előző év december 31-éig sor kerüljön.
+
+*5. Cikk*
+
+A gyakornokok a fogadó országban felmerülő költségeik fedezéséhez elégséges bért kapnak a munkaadótól, amely legalább olyan értékű, mint a fogadó ország azonos körülmények között dolgozó állampolgárainak bére.
+
+A kettős adóztatás elkerülésére hivatott hatályos rendelkezések fenntartása mellett, a gyakornokok azon jövedelmének adóztatása, amelyet a fogadó államban végzett fizetett tevékenységük után kapnak, ezen állam adózási törvényei szerint történik.
+
+A gyakornokok azonos bánásmódot élveznek a fogadó ország állampolgáraival, a munkafeltételek és a munkaegészségügyre vonatkozó törvények, jogszabályok és bevett szokások alkalmazása terén. A fogadó állam hatályos társadalombiztosítási törvényeinek rendelkezései a gyakornokra és munkaadóikra egyaránt vonatkoznak.
+
+Az utazási költségek – a fogadó vállalattal való eltérő megállapodás hiányában – a gyakornokokat terhelik.
+
+*6. Cikk*
+
+A gyakornok családtagjai (házastárs és gyermekek) nem lehetnek a családegyesítési eljárás kedvezményezettjei. A családtagok nem kaphatnak engedélyt arra sem, hogy a gyakornoki időtartam alatt a fogadó országban munkát vállaljanak.
+
+*7. Cikk*
+
+Jelen Egyezmény végrehajtásával meghatalmazott kormányszervek:
+
+a magyar fél részéről: a Szociális és Családügyi Minisztérium[^1]
+
+a francia fél részéről: a Foglalkoztatási és Szolidaritási Minisztérium
+
+Jelen Egyezmény rendelkezéseinek kedvezményeit igénylő gyakornokoknak saját államukban kérelemmel kell fordulniuk a gyakornokok kérelmeinek összegyűjtésével és továbbításával megbízott szervekhez. A fentiek végrehajtása céljából kijelölt szervek:
+
+magyar részről: az Országos Munkaügyi Kutató és Módszertani Közpon[^2] a megyei és fővárosi munkaügyi központokkal együttműködve
+
+francia részről: a Nemzetközi Migrációs Hivatal
+
+A gyakornokok kötelesek kérelmükben minden, a megszerzett diplomájukra és az általuk gyakorolt szakmai hivatásukra vonatkozó adatot megjelölni, s ugyancsak kötelesek ismertetni azt az intézményt (vállalatot), ahová munkavállalási engedélyt kérnek.
+
+A kérelmek elbírálása a fentebb megjelölt szervek feladata. E hatóságok a kérelmeket, a jogszerűen felhasználható éves létszámkeret figyelembevételével a másik állam illetékes hatóságaihoz továbbítják.
+
+A két állam illetékes szervei minden tőlük telhetőt megtesznek annak érdekében, hogy a fenti kérelmekben foglaltaknak a lehető legrövidebb időn belüli ügyintézését biztosítani lehessen.
+
+Mindkét állam hatóságai annak érdekében, hogy megkönnyítsék a jelöltek számára gyakornoki állást találni, a jelöltek rendelkezésére bocsátják az álláshirdetésekkel foglalkozó dokumentációt, és minden szükséges intézkedést megtesznek annak érdekében, hogy a vállalatokkal megismertessék a jelen Egyezményben felkínált lehetőségeket. A fogadó államban meglévő élet- és munkafeltételekről szóló tájékoztatást szintén az érdekeltek rendelkezésére bocsátják.
+
+*8. Cikk*
+
+A jelen Egyezmény 7. Cikk 1. bekezdésében megjelölt illetékes kormányszervek minden erőfeszítést megtesznek annak érdekében, hogy a gyakornoki tevékenység folytatásának céljából már elfogadott, a gyakornoknak a fogadó országba való belépésével és tartózkodásával kapcsolatos hatósági döntéseket a lehető legrövidebb időn belül meghozzák annak érdekében, hogy a gyakornokok be- és kiutazásával kapcsolatban esetlegesen felmerülő nehézségeket rendezni lehessen.
+
+Jelen Egyezményben foglalt feltételek teljesülését követően, a hatóságok a munkavállalási engedélyt a gyakornokcsere időtartamára, a foglalkoztatási helyzet vizsgálata nélkül megadják.
+
+*9. Cikk*
+
+Jelen Egyezmény 7. Cikk 2. bekezdésében megjelölt szervek a végrehajtás gyakorlati módozatairól külön állapodnak meg, illetve kiegészítő eljárásrendet dolgoznak ki.
+
+*10. Cikk*
+
+A Szerződő Felek jegyzékváltás keretében tájékoztatják egymást arról, hogy eleget tettek a jelen Egyezmény hatálybalépéséhez szükséges belső jogi előírásaiknak. Az Egyezmény a későbbi (második) jegyzék kézhezvétele napját követő második hónap első napján lép hatályba.
+
+*11. Cikk*
+
+Jelen Egyezmény egyéves időtartamra szól, amely hallgatólagosan minden alkalommal a következő évre kiterjedő hatállyal meghosszabbodik, hacsak a két fél egyike három hónappal előbb írásban a másik fél tudomására nem hozza a megállapodás felmondására vonatkozó szándékát.
+
+Az Egyezmény felmondása esetén a korábban, a jelen Egyezmény alapján már kiadott munkaengedélyek azonban az engedélyezett határidő lejártáig érvényben maradnak.
+
+Készült két, egyaránt hiteles eredeti példányban, magyar és francia nyelven.
+
+Budapest, 2000. május 4.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+*Harrach Péter* s. k.,\
+szociális és családügyi miniszter
+
+A Francia Köztársaság\
+Kormánya nevében\
+Hubert Védrine s. k.,\
+külügyminiszter''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit 2001. december 1-jétől kell alkalmazni.
+
+---
+
+[^1]: Az 1051/2000. (VI. 28.) Korm. határozat 1. d) pontja szerint ezt a feladatot a Gazdasági Minisztérium látja el.
+[^2]: A 2001. évi XXIV. törvény 19. §-ának (3)–(4) bekezdése alapján ezt a feladatot a Foglalkoztatási Hivatal látja el.

@@ -1,0 +1,192 @@
+---
+title: "181/2000. (XI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a logisztikai központok és a Koperi kikötő használatáról szóló Megállapodás kihirdetéséről"
+identifier: "181/2000. (XI. 8.) Korm. rendelet"
+njt_id: "2000-181-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/181"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-11-08
+in_force_from: 2000-11-08
+last_amended: 2000-11-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-181-20-22"
+retrieved: 2026-10-12
+---
+
+# 181/2000. (XI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a logisztikai központok és a Koperi kikötő használatáról szóló Megállapodás kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 2000. július 11-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a logisztikai központok és a Koperi kikötő használatáról szóló, Ljubljanában, 2000. február 9-én aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között\
+a logisztikai központok és a Koperi kikötő használatáról
+
+*Bevezetés*
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+a logisztikai együttműködés fejlesztésének szándékától vezéreltetve,
+
+a logisztikai központok létesítésének és használatának ösztönzése céljából,
+
+a logisztikai központokon és különösen a Koperi kikötőn keresztüli átmenő forgalomban rejlő lehetőségek kihasználása érdekében,
+
+az alábbiakban állapodtak meg:
+
+I. Rész
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*1. Cikk*
+
+*A Megállapodás hatálya*
+
+A jelen Megállapodás mindazon tevékenységekre és szolgáltatásokra kiterjed, amelyeket magyar és szlovén vállalkozások folytatnak és/vagy vesznek igénybe a Szerződő Felek területén lévő logisztikai központokban és különösen a Koperi kikötőben.
+
+*2. Cikk*
+
+*Definíciók*
+
+A jelen Megállapodás értelmében a következő meghatározások érvényesek:
+
+*a)* A ,,vállalkozás'' kifejezés bármely olyan természetes, jogi személyt és jogi személyiséggel nem rendelkező szervezetet jelent, aki/amely a Szerződő Felek jogrendje értelmében vállalkozást folytat.
+
+*b)* A ,,tevékenység'' kifejezés küldemények szállítmányozását, csomagolását, feladását, fuvarozását, rakodását, kirakodását, átrakodását, gyűjtőforgalmát és raktározását, a fuvarozáshoz kapcsolódó kiegészítő szolgáltatásokat, valamint a jelen Megállapodás hatálya alá tartozó tevékenységekhez kapcsolódó egyéb műveleteket jelenti.
+
+*c)* A ,,szolgáltatás'' kifejezés minden olyan tevékenység, amelyet egy vállalkozás ellenszolgáltatás fejében végez.
+
+*d)* A ,,logisztikai központ'' kifejezés azt a területet jelenti, ahol a *b)* pontban meghatározott tevékenységeket mind vagy azokat részben végzik.
+
+*e)* A ,,teherhajó'' kifejezés bármely olyan hajót jelent, amely rakomány fuvarozására és/vagy bármely más kereskedelmi célra szolgál.
+
+*f)* Az ,,intermodális fuvarozás'' kifejezés azt jelenti, hogy az áru egy és ugyanazon rakodóegységben vagy közúti járműben kerül továbbításra egymás után két vagy több közlekedési módon anélkül, hogy az árut a módozatváltáskor átrakják, mozgatják.
+
+II. Rész
+
+*JOGOK*
+
+*3. Cikk*
+
+*A vállalkozások jogai*
+
+Mindkét Szerződő Fél vállalkozásai azonos jogokat élveznek a másik Fél területén lévő logisztikai központokban.
+
+*4. Cikk*
+
+*Jogok a Koperi kikötőben*
+
+Magyar lobogó alatt hajózó vagy magyar vállalkozás által bérelt teherhajók a legnagyobb kedvezmény elvéhez kapcsolódó elbánásban részesülnek a Koperi kikötő használata során.
+
+A jelen Megállapodás értelmében a Koperi kikötőben tevékenységet végző vagy kikötői szolgáltatást igénybe vevő magyar vállalkozás a legnagyobb kedvezmény elvéhez kapcsolódó elbánásban részesül.
+
+III. Rész
+
+EGYÜTTMŰKÖDÉS A SZERZŐDŐ FELEK\
+KÖZÖTT
+
+*5. Cikk*
+
+*Beruházások előmozdítása*
+
+A Szerződő Felek saját belső jogrendjükkel összhangban beruházásokat mozdítanak elő a Koperi kikötőben és más logisztikai központokban.
+
+*6. Cikk*
+
+*Szakmai együttműködés*
+
+A Szerződő Felek kiaknázva a logisztikai központok és a közlekedési hálózat mindazon előnyeit, amelyek áruk harmadik országokba irányuló tranzitforgalmában rejlenek, beleértve az értéknövelő tevékenységek végzését is, elősegítik a Szerződő Felek illetékes hatóságai, kereskedelmi kamarái és vállalkozásai, valamint szakmai és érdekképviseleti szervezetei közötti együttműködést annak érdekében, hogy a Koperi kikötő és más logisztikai központok használatához fűződő érdekeltséget fokozzák.
+
+*7. Cikk*
+
+*Információcsere*
+
+A Szerződő Felek információcserét folytatnak a jelen Megállapodás alá tartozó tevékenységekkel kapcsolatban, és erőfeszítéseket tesznek annak érdekében, hogy a vállalkozások támogatásban és tanácsadásban részesüljenek, amennyiben és amikor ez szükségesnek bizonyul.
+
+IV. Rész
+
+*VEGYES BIZOTTSÁG*
+
+*8. Cikk*
+
+*Vegyes Bizottság létrehozása és hatáskörének megállapítása*
+
+1\. A Szerződő Felek Vegyes Bizottságot állítanak fel konzultációk folytatása céljából és a jelen Megállapodás rendelkezéseinek végrehajtására.
+
+2\. A Vegyes Bizottság összetételét a Szerződő Felek illetékes hatóságai határozzák meg.
+
+3\. A Vegyes Bizottság szükség esetén albizottságokat állíthat fel, illetve szakértői megbeszéléseket hívhat össze.
+
+4\. A Vegyes Bizottság döntéseket hoz, ha a jelen Megállapodás úgy rendelkezik, illetve ajánlásokat tesz a Szerződő Feleknek.
+
+*9. Cikk*
+
+*Hatáskör*
+
+A Vegyes Bizottság
+
+*a)* az egyes Szerződő Felek illetékes hatósága által tett javaslatok alapján dönt a jelen Megállapodás hatálya alá tartozó logisztikai központok jegyzékéről;
+
+*b)* az egyik Szerződő Fél kérésére konzultációkat tart az azzal kapcsolatos lehetőségek felméréséről, hogyan lehetne növelni a logisztikai központokon, s különösképpen a Koperi kikötőn keresztüli tranzitforgalmat, és ajánlásokat tesz a felmérésből következő határozatok érvényesítésére;
+
+*c)* ajánlásokat tesz a jelen Megállapodás alá tartozó együttműködés fejlesztésének formáira, módszereire és feltételeire;
+
+*d)* áttekinti a lehetőségeket, hogyan lehet fokozni az intermodális fuvarozást, a kombinált fuvarozást és a fuvarozás egyéb formáit annak érdekében, hogy tovább lehessen fejleszteni a logisztikai központokban, s különösképpen a Koperi kikötőben folyó tevékenységeket;
+
+*e)* megvizsgálja a vállalkozások mindazon javaslatait és kéréseit, amelyek a logisztikai központokban, s különösképpen a Koperi kikötőben meglévő feltételek jobbítására vonatkoznak;
+
+*f)* időről időre áttekinti a Szerződő Felek vonatkozó jogszabályait, valamint ajánlásokat tesz olyan módosításokra, amelyek a jelen Megállapodás könnyebb végrehajtására irányulnak.
+
+*10. Cikk*
+
+*A Vegyes Bizottság eljárásrendje*
+
+1\. A Vegyes Bizottság az eljárásrendjét maga alakítja ki, illetve módosítja, ha azt célszerűnek tartja.
+
+2\. A Vegyes Bizottság határozatai és ajánlásai kizárólag egyhangú elfogadás esetén érvényesek.
+
+3\. A Vegyes Bizottság az egyik Szerződő Fél kérésére bármikor, de legalább évente egyszer ülésezik.
+
+V. Rész
+
+*ZÁRÓ RENDELKEZÉSEK*
+
+*11. Cikk*
+
+*Illetékes hatóság*
+
+A jelen Megállapodás végrehajtására a Magyar Köztársaságban a Gazdasági Minisztérium, a Szlovén Köztársaságban a Közlekedési és Hírközlési Minisztérium az illetékes hatóság.
+
+*12. Cikk*
+
+*Hatálybalépés*
+
+1\. A jelen Megállapodás azon a napon lép hatályba, amikor a Szerződő Felek mindegyike diplomáciai úton megkapta az egymásnak küldött értesítést arról, hogy a Megállapodás hatálybalépéséhez a belső jogrendjük szerint szükséges követelményeket teljesítették.
+
+2\. A jelen Megállapodást meghatározatlan időtartamra kötik. Bármelyik Szerződő Fél hathónapos határidővel írásban felmondhatja a jelen Megállapodást, legkorábban erre azonban csak három évvel a hatálybalépést követően kerülhet sor.
+
+3\. A jelen Megállapodás a Szerződő Felek kölcsönös egyetértésével megváltoztatható és módosítható. A változtatások és módosítások írásban eszközlendők.
+
+Készült Ljubljanában, 2000. február 9-én, két eredeti példányban, magyar, szlovén és angol nyelven, mely szövegek mindegyike egyformán hiteles. Eltérő értelmezés esetén az angol nyelvű változat a mérvadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Szlovén Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodásban foglaltakat 2000. július 11-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a gazdasági miniszter gondoskodik.

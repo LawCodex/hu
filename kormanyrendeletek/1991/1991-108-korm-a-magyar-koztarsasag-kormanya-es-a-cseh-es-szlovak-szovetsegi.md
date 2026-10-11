@@ -1,0 +1,192 @@
+---
+title: "108/1991. (VIII. 28.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh és Szlovák Szövetségi Köztársaság Kormánya között a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Bécsben, 1990. szeptember 20-án aláírt egyezmény kihirdetéséről"
+identifier: "108/1991. (VIII. 28.) Korm. rendelet"
+njt_id: "1991-108-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/108"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-08-28
+in_force_from: 1997-06-01
+last_amended: 1997-06-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-108-20-22"
+retrieved: 2026-10-12
+---
+
+# 108/1991. (VIII. 28.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh és Szlovák Szövetségi Köztársaság Kormánya között a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Bécsben, 1990. szeptember 20-án aláírt egyezmény kihirdetéséről
+
+(A Megállapodás 1991. május 15-én hatályba lépett.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Cseh és Szlovák Szövetségi Köztársaság Kormánya között a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén aláírt egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+,,A Magyar Köztársaság Kormánya és a Cseh és Szlovák Szövetségi Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+MEGGYŐZŐDVE együttműködésük fontosságáról a nukleáris biztonsággal és sugárvédelemmel összefüggő kérdésekben, különösen a lakosság és a környezet védelmének biztosítása területén,
+
+KIINDULVA a Nemzetközi Atomenergia Ügynökség keretében kidolgozott, ,,A nukleáris balesetekről adandó gyors értesítésről'' és ,,A nukleáris baleset agy sugaras veszélyhelyzet esetén való segítségnyújtás''-ról szóló, 1986. szeptember 26-án, Bécsben kelt egyezményekből,
+
+TÖREKEDVE az Európai Biztonsági és Együttműködési Értekezlet bécsi utótalálkozója záródokumentumában foglaltak teljesítésére,
+
+megállapodtak az alábbiakról:
+
+*1. Cikk*
+
+1\. Minden olyan nukleáris létesítménnyel vagy tevékenységgel összefüggő esemény esetén, amelynek következtében a másik Szerződő Fél sugárbiztonsága szempontjából jelentős radioaktív anyag kibocsátás keletkezik, vagy keletkezhet a közös államhatáron keresztül, az a Szerződő Fél, amelynek a területén az esemény történt, haladéktalanul értesíti a kapcsolattartási pontokon keresztül a másik Szerződő Felet.
+
+2\. Az 1. bekezdésben említett nukleáris létesítmények, vagy tevékenységek a következők:
+
+*a)* atomreaktor,
+
+*b)* a nukleáris üzemanyagciklushoz tartozó létesítmény,
+
+*c)* radioaktív hulladékok kezelésére szolgáló létesítmény,
+
+*d)* nukleáris üzemanyag, vagy radiokatív hulladék szállítása és tárolása,
+
+*e)* mezőgazdasági, ipari, egészségügyi, valamint ezzel összefüggő tudományos és kutatási célokat szolgáló radioizotópok gyártása, felhasználása, tárolása, eltemetése és szállítása.
+
+3\. Az egységes nemzetközi gyors értesítési szintek elfogadásáig az 1. bekezdés szerint jelentősnek tekintendő az a kibocsátás, amely következtében a másik Szerződő Fél lakosságánál védelmi intézkedések nélkül kialakulhat az a sugárterhelés, amelynél a Nemzetközi Atomenergia Ügynökség védelmi intézkedések megfontolását ajánlja.
+
+*2. Cikk*
+
+1\. Az Egyezmény 1. Cikkének 1. bekezdése szerinti értesítésre minden olyan esetben is sor kerül, ha a saját lakosság védelmére intézkedések történnek.
+
+2\. A Szerződő Felek tájékoztatják egymást az olyan egyéb eseményekről is, amelyek nem minősülnek az Egyezmény 1. Cikkének 1. bekezdése szerinti eseménynek, de összefüggnek az Egyezmény tárgyával és a másik Szerződő Fél lakosságánál aggodalmat válthatnak ki.
+
+3\. A Szerződő Felek haladéktalanul tájékoztatják egymást az Egyezmény 6. Cikkének 4. bekezdése szerinti mérési eredményekről is, ha azok értékei jelentősen eltérnek a normál állapottól.
+
+*3. Cikk*
+
+1\. A Szerződő Felek gondoskodnak arról, hogy az Egyezmény 1. Cikkének 1. bekezdése szerinti tájékoztatás lehetőleg olyan terjedelmű legyen, amely a másik Szerződő Félnek lehetővé teszi, hogy dönthessen a lakosságának védelmére teendő intézkedések előkészítéséről vagy végrehajtásáról.
+
+Ez a tájékoztatás — ha az adott időpontban az értesítést küldő Szerződő Fél rendelkezik velük — elsősorban a következő adatokat tartalmazza:
+
+*a)* a veszélyhelyzet kialakulásának időpontja, pontos helye, ha utóbbi meghatározható, és természete;
+
+*b)* az érintett létesítmény vagy tevékenység;
+
+*c)* a veszélyhelyzet feltételezett vagy megállapított oka és előrelátható alakulása a radioaktív anyagok országhatáron túli terjedését illetően;
+
+*d)* a radioktív kibocsátás általános jellemzői, beleértve, — amennyire lehetséges és célszerű — a radioaktív kibocsátás természetét, valószínű fizikai és kémiai formáját és mennyiségét, összetételét és effektív magasságát;
+
+*e)* információ az akutális és előrelátható meteorológiai és hidrológiai viszonyokról, ami a radioaktív anyagok határon túli terjedésének előrejelzéséhez szükséges;
+
+*f)* a környezeti ellenőrző méréseknek a radioaktív anyagok határon túli terjedésével összefüggő eredményei;
+
+*g)* a tervezett vagy megtett, létesítményen kívüli védelmi intézkedések;
+
+*h)* a radioaktív kibocsátás előrelátható időbeni alakulása.
+
+2\. A közölt adatokat a helyzet további alakulása szerint folyamatosan pontosítani kell. A tájékoztatást adó Szerződő Fél a másik Szerződő Fél kérésére, magyarázatokat és kiegészítéseket fűz az átadott adatokhoz.
+
+3\. Ezeket az adatokat, valamint esetleges kiegészítéseiket mindaddig szolgáltatni kell, amíg az Egyezmény 1. Cikkének 1. bekezdésében említett helyzet fennáll, vagy a helyzet megítéléséhez elegendő információ nem áll rendelkezésre.
+
+*4. Cikk*
+
+1\. Ha bekövetkezik az Egyezmény 1. Cikkének 1. bekezdése vagy a 2. Cikkének 1. bekezdése szerinti esemény, a Szerződő Felek kölcsönösen támogatják egymást a következmények elhárításában.
+
+2\. Ilyen esetekben a Szerződő Felek azonnal megegyeznek a szükséges együttműködésben, valamint a segítségnyújtásban az élet-, egészségvédelem és az anyagi javak védelme érdekében.
+
+*5. Cikk*
+
+Mindkét Szerződő Fél kötelezi magát, hogy kapcsolattartási pontokat létesít az Egyezmény 1., 2., 3., 4. Cikke szerinti tájékoztatás átadására, amelyről az Egyezmény hatálybalépését követően haladéktatlanul, diplomáciai úton értesíti a másik Szerződő Felet.
+
+*6. Cikk*
+
+1\. A Szerződő Felek évente kölcsönösen tájékoztatják egymást nukleáris programjukról, a nukleáris létesítmények üzemeltetése során szerzett tapasztalatokról, és a nukleáris biztonságra és sugárvédelemre vonatkozó jogszabályaikról is.
+
+2\. A Szerződő Felek kölcsönösen tájékoztatják egymást meglévő, épülő vagy tervezett nukleáris létesítményeikről is az Egyezmény 1. Cikkének 2. bekezdése *a)*—*c)* pontjai szerint, és rendelkezésre bocsátják ezen létesítményeknek az Egyezmény tárgyával kapcsolatos adatait.
+
+3\. A tervezett nukleáris létesítményekről szóló 2. bekezdés szerinti tájékoztatást a létesítési engedély kiadását követően kell szolgáltatni. Az épülő létesítmények várható üzembehelyezéséről legalább két évvel korábban tájékoztatják egymást a Szerződő Felek.
+
+4\. A Szerződő Felek évente tájékoztatják egymást a területükön lévő nukleáris létesítmények üzemeltetésével kapcsolatban végzett környezeti sugárvédelmi ellenőrzések ereményeiről, a mérési programokról és módszerekről, valamint a kibocsátásokról. Ennek során az előző évi megfelelő adataikat kicserélik. A másik Szerződő Fél kérésére kiegészítő adatokat lehet szolgáltatni.
+
+*7. Cikk*
+
+1\. Az Egyezmény alkalmazására mindkét Szerződő Fél koordinátort nevez ki:
+
+magyar részről az Országos Atomenergia Bizottságot, csehszlovák részről a Csehszlovák Atomenergia Bizottságot.
+
+2\. A koordinátorok többek között:
+
+*a)* biztosítják az Egyezmény 6. Cikke szerinti együttműködés során átadandó összes adat és tájékoztatás cseréjét,
+
+*b)* megállapodnak az információ átadás módjában, és legalább évente ellenőrzik az információ átadási rendszer működését az Egyezmény 5. Cikke alapján létesített kapcsolattartási pontokon keresztül,
+
+*c)* megszervezik a szakértők közös tanácskozását az Egyezmény 8. Cikke szerint,
+
+*d)* szükség szerint ellátják az Egyezmény tárgyával összefüggő egyéb feladatokat is.
+
+3\. A koordinátor esetleges változását a Szerződő Felek diplomáciai úton közlik egymással.
+
+*8. Cikk*
+
+1\. A Szerződő Felek intézkedéseket tesznek annak érdekében, hogy évente együttes szakértői ülést tartsanak, amelyen többek között:
+
+*a)* értékelik az Egyezmény végrehajtását,
+
+*b)* megtárgyalják az Egyezmény 6. Cikke szerint nyújtott tájékoztatást,
+
+*c)* megtárgyalják az eredményeket, és tapasztalatokat cserélnek az Egyezmény 6. Cikkének 4. bekezdése szerinti mérések végrehajtásáról,
+
+*d)* intézkedéseket készítenek elő és javaslatokat tesznek a Szerződő Felek közötti együttműködésre az Egyezmény 4. Cikke szerinti segítségnyújtáshoz,
+
+*e)* megtárgyalják a nukleáris biztonság és sugárvédelem biztosításának és ellenőrzésének más, időszerű kérdéseit, valamint kölcsönösen tájékoztatják egymást a nemzetközi szervezetekkel folytatott együttműködésükről.
+
+2\. A tárgyalások idejéről, helyéről, napirendjéről és a szakértői küldöttség összetételéről a koordinátorok állapodnak meg.
+
+3\. Szükség esetén a Szerződő Felek egyetértésével soron kívül is szervezhetők együttes szakértői ülések.
+
+*9. Cikk*
+
+1\. A Szerződő Felek hatékonyan együttműködnek a lakosság tájékoztatásában az Egyezmény tárgyát képező kérdésekben.
+
+2\. A Szerződő Fél felhasználhatja a lakosság tájékoztatására az Egyezmény alapján kapott információkat, ha azokat a másik Szerződő Fél nem minősíti bizalmasnak.
+
+*10. Cikk*
+
+Az Egyezmény szerinti kölcsönös információcsere költségtérítésmentesen történik. Ha a kiegészítő információ megszerzése jelentős költséggel jár — amit a tájékoztatást adó Szerződő Fél előzetesen közöl — ezt a költséget az információt kérő Szerződő Fél megtéríti.
+
+*11. Cikk*
+
+Az Egyezmény értelmezésével és alkalmazásával kapcsolatos, valamint az Egyezmény által szabályozott tevékenységek megvalósításával kapcsolatos vitákat a Szerződő Felek tárgyalások útján rendezik.
+
+*12. Cikk*
+
+Az Egyezmény szerint továbbított információk általában az azt nyújtó Szerződő Fél hivatalos nyelvén készülnek. A Szerződő Felek szükség szerint megállapodhatnak más nyelvek használatában is. Az Egyezmény 3. Cikke szerinti értesítések és tájékoztatások továbbítása során a Szerződő Felek a nyelvhasználatra vonatkozó döntésükben figyelembe veszik a minél gyorsabb továbbítás és felhasználhatóság, valamint a félreértések elkerülésének követelményeit.
+
+*13. Cikk*
+
+1\. Az Egyezmény az azt követő 30. napon lép hatályba, amikor a Szerződő Felek diplomáciai úton közölték egymással, hogy eleget tettek a hatálybalépéséhez szükséges belső jogi követelményeknek.
+
+2\. Az Egyezmény meghatározatlan időre szól.
+
+3\. Az Egyezményt mindkét Szerződő Fél diplomáciai úton felmondhatja, és a felmondás egy évvel azt követően válik hatályossá, amikor a másik Szerződő Fél az erről szóló értesítést megkapta.
+
+Készült Bécsben, 1990. szeptember 20-án, két eredeti példányban, mindkettő magyar és cseh nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről:\
+*Vajda György* s. k.
+
+A Cseh és Szlovák\
+Szövetségi Köztársaság\
+Kormánya részéről:\
+*Karl Wagner* s. k.''
+
+## 3. §
+
+(1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. május 15-től kezdődően kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 87/1997. (V. 28.) Korm. rendelet 22. §-a (2) bekezdésének h) pontja szerint módosított szöveg.

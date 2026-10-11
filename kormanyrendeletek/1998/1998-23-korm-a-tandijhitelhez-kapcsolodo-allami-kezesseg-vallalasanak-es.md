@@ -1,0 +1,129 @@
+---
+title: "23/1998. (II. 13.) Korm. rendelet a tandíjhitelhez kapcsolódó állami kezesség vállalásának és érvényesítésének feltételeiről"
+identifier: "23/1998. (II. 13.) Korm. rendelet"
+njt_id: "1998-23-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/23"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-02-13
+in_force_from: 2007-04-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-23-20-22"
+retrieved: 2026-10-12
+---
+
+# 23/1998. (II. 13.) Korm. rendelet a tandíjhitelhez kapcsolódó állami kezesség vállalásának és érvényesítésének feltételeiről
+
+A Magyar Köztársaság 1998. évi költségvetéséről szóló 1997. évi CXLVI. törvény (a továbbiakban: Tv.) 89. §-a (1) bekezdésének *c)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## Az állami kezesség vállalásának feltételei
+
+### 1. §
+
+Az állam kezességet vállal a hitelintézet által tandíj, illetőleg költségtérítés (a továbbiakban: tandíj) céljára nyújtott hitelre (a továbbiakban: tandíjhitel), melyet a hallgató tanulmányainak képesítési követelményeiben meghatározott teljes időtartamára megfelelően, de legfeljebb tíz félévre vehet fel, ha a hitel megfelel a Tv.-ben, valamint e rendelet 2–7. §-ában foglalt feltételeknek. Az állami kezességvállalás mértéke a felvett hitel, de legfeljebb a hitelrészletek igénybevétele időpontjában érvényben lévő – az éves költségvetési törvényekben megállapított – egy főre eső hallgatói normatívák összege mint tőke, az ehhez kapcsolódó ügyleti kamat, a jogszabály által meghatározott büntetőkamat és a bírósági végrehajtásra irányuló eljárás megindításának közvetlen költségei összegének nyolcvan százaléka.
+
+### 2. §
+
+(1) A hitelintézet a Tv. 39. §-ának (1) bekezdésében meghatározott hallgatók részére nyújt a felsőfokú tanulmányaik első évétől a tandíj kifizetése céljából tandíjhitelt.
+
+(2) A tandíjhitelt a hitelintézet szakaszosan (legalább félévente és legfeljebb havonta) folyósítja a hitelszerződésben megjelölt felsőoktatási intézmény (a továbbiakban: felsőoktatási intézmény) bankszámlájára a tandíjfizetési kötelezettség esedékességekor a hitelfelvevő megbízása alapján.
+
+(3) A hitelintézet a hitelfelvevőnek az 5. § (3) és (4) bekezdésében foglalt eset kivételével türelmi időt biztosít a jogszabályban az egyes szakokra meghatározott képesítési követelményben előírt képzési idő alatt, a halasztás vagy félév ismétlés ideje – de legfeljebb két tanulmányi év – alatt, valamint a tanulmányainak befejezését követő legalább hat és legfeljebb tizenkét hónapban.
+
+(4) A tandíjhitel futamideje a (3) bekezdésben meghatározott türelmi időt követően legalább 5 év és legfeljebb 10 év.
+
+(5)[^1] A hitelszerződés tartalmazza a felek nyilatkozatát arról, hogy az általuk megkötött jogügylet megfelel a Tv.-ben, valamint e rendeletben foglalt feltételeknek, valamint a hitelfelvevő hozzájárulását ahhoz, hogy az állami kezesség beváltása esetén adatait és a hitelfelvétel iratait a kincstárnak és a hitelfelvevő lakóhelye szerint illetékes önkormányzati adóhatóságnak megküldik.
+
+(6)[^2] A hitelintézet és a hitelfelvevő az általuk megkötött hitelszerződésben vállalják, hogy a kincstár számára minden, a kezességvállalással kapcsolatos iratba betekintést engednek, illetve lehetővé teszik a helyszíni ellenőrzést.
+
+(7) E rendelet alkalmazásában a tanulmányok befejezésének időpontja az oklevél kiállításának dátuma.
+
+### 3. §
+
+(1) A 2. § (3) bekezdésében meghatározott türelmi idő alatt a teljes hiteldíj évente esedékes. A türelmi idő alatt a teljes hiteldíj vagy a teljes hiteldíj egy részének törlesztése a felek hitelszerződésbe foglalt megállapodása alapján elhalasztható. A tőke a türelmi idő lejártától esedékes a szerződésben meghatározottak szerint.
+
+(2) Ha az ügyleti kamat elhalasztásra kerül a felek megállapodhatnak a hitelszerződésben, hogy az évente esedékes hitelkamatot a hitelintézet tőkésíti.
+
+### 4. §
+
+A hitelintézet a hitelvizsgálati eljárás során kizárólag a hiteligénylő várható jövedelmi helyzetét veheti figyelembe.
+
+### 5. §
+
+(1) A hallgató egy időben csak egy felsőoktatási intézménynél történő tandíjfizetésre igényelhet tandíjhitelt.
+
+(2) Ha a hitelfelvevő összesen két tanulmányi félévet ismétel, illetőleg halaszt – ide nem értve a 6. §-ban meghatározott esetet –, a hitelintézet a továbbiakban nem nyújt részére tandíjhitelt.
+
+(3) Ha a hitelfelvevő összesen két tanulmányi félévnél többet ismétel, illetőleg halaszt – ide nem értve a 6. §-ban meghatározott esetet –, legkésőbb a harmadik ismételt, illetőleg halasztott tanulmányi félév végétől megkezdi a tandíjhitel törlesztését.
+
+(4) Ha a hitelfelvevő nem tudja bizonyítani, hogy az adott tanulmányi félévre beiratkozott – a félév halasztás, illetőleg a félév ismétlés esetét kivéve – a tandíjhitel törlesztését a tanulmányainak félbeszakítását követő hat hónapon belül megkezdi.
+
+### 6. §
+
+(1) A hitelintézethez érkezett kérelem alapján halasztást kell biztosítani a tandíjhitel tőke-, illetőleg kamattörlesztése alól:
+
+a) a gyermeket nevelő szülőnek, ha tanulmányai alatt, illetőleg a tandíjhitel törlesztésének időszakában születik a gyermeke és nem folytat keresőtevékenységet, vagy nem teljes munkaidőben dolgozik összesen legfeljebb egy évig;
+
+b) ha a hitelfelvevő sorkatonai vagy polgári szolgálatot teljesít, annak időtartamára.
+
+(2) A törlesztés halasztásának időtartamával a futamidő meghosszabbodik.
+
+### 7. §
+
+(1) Ha a hitelfelvevő az esedékessé vált fizetési kötelezettségének nem tesz eleget, a hitelintézet a hitelszerződés futamideje alatt egy alkalommal átütemezheti legfeljebb egy év törlesztését az eredeti futamidő alatt.
+
+(2) Ha a hitelfelvevő az esedékessé vált fizetési kötelezettségének nem tesz eleget és az (1) bekezdésben meghatározott átütemezésre nem került sor, a hitelintézet legalább három, de legfeljebb hat hónap után a kölcsönt felmondja.
+
+## Az állami kezesség érvényesítése és folyósítása
+
+### 8. §
+
+(1)[^3] A kincstár biztosítja a 2–7. §-ban foglalt feltételeknek megfelelő tandíjhitelhez kapcsolódó állami kezesség érvényesítését.
+
+(2)[^4] A hitelintézet csak abban az esetben nyújthatja be a kezesség érvényesítése iránti igényét a kincstárnak, ha az ott vezetett hitelintézeti nyilvántartásba bejelentkezett, és minden évben március 31-ig adatot szolgáltat részére az előző év december 31-éig megkötött, kezességgel érintett szerződések számáról és az azok alapján december 31-ig folyósított hitelek összegéről.
+
+### 9. §
+
+(1) Az állami kezesség érvényesítésének feltétele, hogy
+
+a) a hitelintézet a hitelfelvevővel fennálló szerződésben meghatározott módon a kötelezettség teljesítése érdekében a hitelfelvevővel szemben fellépett,
+
+b) amennyiben a hitelintézet *a)* pontban meghatározott eljárása sikertelen követelését fizetési meghagyással érvényesíti.
+
+(2)[^5] A hitelintézet az állami kezesség érvényesítése iránti igényét a kincstárnak nyújtja be a hitel felmondását követő nyolc munkanapon belül. Jogosultságát a hitelintézet a hitelszerződés, a jogerős fizetési meghagyás, illetve ellentmondás esetén a jogerős ítélet benyújtásával igazolja. A kezesség beváltását ezen igazolások benyújtásának elmulasztása esetén a kincstár megtagadja. Megtagadja a kezesség beváltását a kincstár abban az esetben is, ha a hitelszerződésben foglaltak, illetve a hitel folyósítása, felhasználása nem felel meg a Tv. és e rendelet feltételeinek.
+
+(3)[^6] A kincstár legkésőbb a (2) bekezdésben meghatározott igazolás kézhezvételétől számított 8 munkanapon belül rendelkezik a kezességvállalás összegének a hitelintézet számlájára történő átutalásáról.
+
+### 10. §
+
+(1)[^7] A kincstár vizsgálja, hogy az adók módjára történő behajtás alóli – a Tv. által meghatározott – mentesség esetei fennállnak-e.
+
+(2)[^8] A kincstár megkeresi a kezesség beváltásából származó követelések adók módjára történő behajtása végett a területileg illetékes önkormányzati adóhatóságot az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben meghatározott adatok közlésével.
+
+## Záró rendelkezések
+
+### 11. §
+
+(1) Ez a rendelet 1998. augusztus 1-jén lép hatályba. Rendelkezéseit a hatálybalépést követően kötött hitelszerződésekre kell alkalmazni.
+
+(2)[^9]
+
+(3)[^10]
+
+(4)[^11]
+
+---
+
+[^1]: A 2. § (5) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a Támogatásokat és Járadékokat Kezelő Szervezet 2007. április 1-jén megszűnik, annak általános jogutódja a Kincstár.
+[^2]: A 2. § (6) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^3]: A 8. § (1) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^4]: A 8. § (2) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^5]: A 9. § (2) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^7]: A 10. § (1) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdésének b) pontja szerint módosított szöveg.
+[^8]: A 10. § (2) bekezdése a 311/2006. (XII. 23.) Korm. rendelet 8. § (4) bekezdés b) pontja, a 475/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^9]: A 11. § (2)-(4) bekezdését a 250/2000. (XII. 24.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^10]: A 11. § (2)-(4) bekezdését a 250/2000. (XII. 24.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^11]: A 11. § (2)-(4) bekezdését a 250/2000. (XII. 24.) Korm. rendelet 32. §-a hatályon kívül helyezte.

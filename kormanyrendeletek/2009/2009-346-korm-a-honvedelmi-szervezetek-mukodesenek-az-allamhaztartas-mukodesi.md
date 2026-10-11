@@ -1,0 +1,435 @@
+---
+title: "346/2009. (XII. 30.) Korm. rendelet a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól"
+identifier: "346/2009. (XII. 30.) Korm. rendelet"
+njt_id: "2009-346-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/346"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-30
+in_force_from: 2010-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-346-20-22"
+retrieved: 2026-10-12
+---
+
+# 346/2009. (XII. 30.) Korm. rendelet a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól
+
+A Kormány az államháztartásról szóló 1992. évi XXXVIII. törvény 124. § (2) bekezdés a)–c) és d) pontjában, a költségvetési szervek jogállásáról és gazdálkodásáról szóló 2008. évi CV. törvény 56. § (1) bekezdés a) és c) pontjában, valamint az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés h) pontjában kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva – a következőket rendeli:
+
+## Általános rendelkezések[^1]
+
+### 1. §[^2]
+
+(1)[^3] E rendelet alkalmazásában
+
+a)[^4] *honvédelmi* *szervezet:* a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti szervezet;
+
+b)[^5] *honvédségi* *szervezet:* a Hvt. 3. § 15. pontja szerinti szervezet;
+
+c) *logisztikai gazdálkodás:* az 5. § szerint kiadott miniszteri utasításban meghatározott definíció.
+
+(2) A honvédelmi szervezetek esetében az e rendeletben foglalt, eltérő rendelkezések hiányában – ideértve azt az esetet is, ha az e rendeletben foglalt eltérő szabályt valamely honvédelmi szervezet vonatkozásában nem kell alkalmazni, és azzal összefüggésben e rendelet további eltérő szabályt nem állapít meg – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.), valamint az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) rendelkezéseit kell alkalmazni.
+
+(3)[^6] A rendelet előírásait a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézményre is alkalmazni kell.
+
+## A gazdálkodás általános sajátosságai
+
+### 2. §
+
+(1) A honvédelmi szervezetek gazdálkodása és ellátása intézményi, illetve – a (4) bekezdés szerint gazdálkodási és ellátási tárgykörök vonatkozásában – térítésmentes természetbeni ellátáson alapuló központi gazdálkodás és ellátás keretében valósul meg.
+
+(2)[^7] A központi gazdálkodás a honvédelmi szervezetek feladatai ellátásához szükséges erőforrások tervezésére, beszerzésére, felhasználására és kezelésére, valamint a központi költségvetés XIII. fejezete (a továbbiakban: HM fejezet) költségvetési előirányzatai tervezésére, felhasználására, módosítására és átcsoportosítására, továbbá beszámolására, a könyvvezetésre és az adatszolgáltatásra irányuló gazdálkodási tevékenységek összessége, amelyeket az erre kijelölt honvédelmi szervezetek végeznek.
+
+(3)[^8]
+
+(4)[^9] Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM fejezetnél
+
+a)[^10] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, valamint – a KNBSZ kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
+
+b) a létszámgazdálkodás, ideértve a foglalkoztatottak létszámösszetételének és – a honvédelmi szervezet parancsnoka (vezetője) által meghatározott munkaidő keret kivételével – munkaidő-alapjának meghatározását is;
+
+c)[^11] az illetmény- és bérgazdálkodás, az egyéb személyi juttatások előirányzataival történő gazdálkodás, – a központosított illetményszámfejtésbe tartozó feladatok kivételével – az illetmény- és bérszámfejtés, -folyósítás, a kapcsolódó adó- és járulék -elszámolás, -bevallás és -befizetés;
+
+d) az ingatlan-beruházás;
+
+e)[^12] a HM vagyonkezelésében lévő ingatlanok felújítása, rekonstrukciója, valamint – a KNBSZ használatában lévő ingatlanok kivételével – fenntartása és üzemeltetése;
+
+f)[^13] a központi logisztikai beszerzési, importbeszerzési és beruházási feladatok ellátása;
+
+g)[^14] a honvédelmi szervezet haditechnikai és egyéb eszközökkel, valamint anyagokkal, továbbá közjogi szervezetszabályozó eszközben meghatározott egészségügyi anyagokkal történő ellátása;
+
+h) a nemzetközi feladatok költségvetési javaslatának és éves költségvetésének összeállítása, valamint elszámolása;
+
+i) az állami vagyonnal történő gazdálkodás;
+
+j)[^15] a hadfelszerelés-fejlesztés, a haditechnikai eszközök fejlesztése és a kutatás-fejlesztés-innováció;
+
+k)[^16] a katonai vám, jövedéki és határforgalmi feladatok ellátása.
+
+(5)[^17] A honvédelmi szervezet, valamint a miniszter által az állam nevében alapított szakképző intézmény vonatkozásában a munkáltató által elektronikus formában kiadott összesített adóigazolás és a társadalombiztosítási nyilvántartás adatairól szóló igazolás – a munka törvénykönyvéről szóló 2012. évi I. törvény hatálya alá tartozó munkavállaló, illetve munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott állomány kivételével – az érintett részére központilag, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetőjének minősített elektronikus aláírásával és időbélyegzővel ellátva kerül kiadásra.
+
+(6)[^18] A KNBSZ által foglalkoztatott esetében az (5) bekezdés szerinti adóigazolás és társadalombiztosítási nyilvántartás adatairól szóló igazolás a KNBSZ által üzemeltetett önálló rendszer alkalmazásával kerül átadásra.
+
+### 3. §[^19]
+
+Az Áhsz. 50. § (1) bekezdése szerinti számviteli politika és annak szabályzatai a honvédelmi szervezetek részére egységesen, a HM fejezet egészére vonatkozóan kerülnek kialakításra és kiadásra.
+
+### 4. §[^20]
+
+A honvédségi szervezetek alapító okirata és a törzskönyvi nyilvántartása Hvt. 15. § (3) bekezdése szerinti nemzetbiztonsági érdekből nem nyilvános telephelyekre vonatkozó adatokat nem tartalmazza.
+
+### 5. §[^21]
+
+Az ellátó és az ellátott honvédelmi szervezet közötti munkamegosztás és felelősségvállalás rendjét miniszteri utasítás határozza meg.
+
+### 6. §[^22]
+
+A válságkezelő és béketámogató műveletekben részt vevő szervezeti egységek a 8. § (2) bekezdése szerinti pénzügyi gazdasági feladatokat ellátó beosztásokkal (munkakörökkel) rendelkezhetnek.
+
+### 7. §[^23]
+
+(1)[^24] A honvédelmi szervezet parancsnokának, illetve vezetőjének jogszabályban meghatározott gazdálkodási jogköre az ahhoz kapcsolt kötelezettségekkel és felelősséggel együtt központosítható, más honvédelmi szervezet vezető beosztásban, munkakörben lévő alkalmazottjának jogkörébe adható a miniszter által kiadott közjogi szervezetszabályozó eszközben.
+
+(2) A központi költségvetés XIII. Honvédelmi Minisztérium fejezet alcímeibe sorolt honvédelmi szervezetek tekintetében alcímen belül, a személyi juttatásokra és azok járulékaira vonatkozóan az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításra a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője jogosult.
+
+(3) Az Ávr. 9. § (1) bekezdésében a gazdasági szervezet részére meghatározott egyes feladatok központosított végrehajtására honvédelmi szervezet jelölhető ki.
+
+### 7/A. §[^25]
+
+A külföldön tevékenységet ellátó honvédelmi szervezet gazdálkodási tevékenysége során kötelezettségvállalási, pénzügyi ellenjegyzési, érvényesítési, utalványozási és teljesítési igazolásra irányuló feladatot abban az esetben végezheti az a személy, aki ezt a tevékenységet a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója vagy maga javára látná el, ha az összeférhetetlenség alól a kihelyező honvédelmi szervezet gazdasági vezetője – amennyiben a gazdasági vezetői feladat a 8. § szerint megosztásra kerül, úgy a pénzügyi és számviteli feladatok vonatkozásában gazdasági vezetőnek minősülő személy – írásban felmentést ad részére.
+
+### 7/B. §[^26]
+
+A fejezeti kezelésű előirányzatok esetében a XIII. Honvédelmi Minisztérium költségvetési fejezet, 8. Fejezeti kezelésű előirányzatok cím, 2. Ágazati célelőirányzatok alcím, 25. Hozzájárulás a NATO Biztonsági Beruházási Programjához jogcímcsoport kezelő szerve a kiemelt előirányzatokon belül rovatok közötti átcsoportosítást hajthat végre.
+
+## A Honvéd Vezérkar főnöke gazdálkodás-irányítási jogköre[^27]
+
+### 7/C. §[^28]
+
+(1)[^29] A 2. Magyar Honvédség költségvetési címbe sorolt honvédségi szervezetek gazdálkodását a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) a honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról szóló 614/2022. (XII. 29.) Korm. rendelet 8. §-a szerinti jogkörében irányítja, melynek keretében jogosult a honvédségi szervezetek
+
+a) elemi költségvetési tervjavaslata összeállításához szükséges – a középirányító szerv részére kiadott – kiadási és bevételi tervezési keretek elosztására,
+
+aa) elemi költségvetési tervjavaslatának, és
+
+ab) miniszteri hatáskörű előirányzat-átcsoportosítási javaslatának
+
+előzetes jóváhagyására,
+
+b) az Áht. 33. § (3a) bekezdése szerinti előirányzat-átcsoportosítására,
+
+c) központi logisztikai előirányzatai átcsoportosításának elrendelésére, és
+
+d) a zárszámadáshoz kapcsolódó
+
+da) év végi leltározásának – a 3. § szerinti HM fejezet Számviteli Politikája Leltározási szabályzatában foglaltak figyelembevételével történő – meghatározására és elrendelésére, és
+
+db) adatszolgáltatásának jóváhagyására.
+
+(2)[^30] A HVKF vagy az általa kijelölt helyettese a 2. § szerinti speciális gazdálkodásra való tekintettel a honvédelmi szervezetek vonatkozásában egyéb gazdálkodási jogköröket gyakorolhat, a közjogi szervezetszabályozó eszközben meghatározottak szerint.
+
+(3)[^31] A HVKF vagy az általa kijelölt helyettese a 2. Magyar Honvédség költségvetési cím vonatkozásában a központi létszámgazdálkodás keretében
+
+a) előzetesen meghatározza, és részletes indokolással látja el a költségvetési cím – állománycsoportonkénti – költségvetési létszámszükségletét,
+
+b) a miniszter által jóváhagyott költségvetési létszámkeretet a honvédségi szervezetek részére lebontja, és intézkedik a honvédségi szervezetek között a költségvetési létszám szükséges átcsoportosítására,
+
+c) meghatározza a honvédségi szervezetek részére a személyi juttatások és járulékok tervezési kereteit az elemi költségvetés összeállítása során, és
+
+d) előirányzatfedezet megléte esetén dönt a honvédségi szervezetek elemi költségvetési létszáma módosításának javaslatairól.
+
+(4)[^32] A HVKF az (1)–(3) bekezdés szerinti jogköröket a HVKF gazdálkodási helyettese útján gyakorolja.
+
+## A gazdasági vezető
+
+### 8. §
+
+(1)[^33] Amennyiben a honvédelmi szervezet logisztikai és költségvetési gazdálkodási feladatait több szervezeti egység vagy más honvédelmi szervezetek látják el, a gazdasági vezetői feladat is megosztásra kerül.
+
+(2)[^34] A logisztikai gazdálkodás tekintetében a honvédelmi szervezet logisztikai vezetője – amennyiben ilyen beosztást az állománytábla, illetve a munkaköri jegyzék nem nevesít, a honvédelmi szervezet SZMSZ-ében kijelölt beosztást betöltő személy – minősül gazdasági vezetőnek. A pénzügyi és számviteli feladatok vonatkozásában a honvédelmi szervezet pénzügyi és számviteli szervezeti egységének, ennek hiányában az ellátásra kijelölt honvédelmi szervezet pénzügyi és számviteli szervezeti egységének, vagy a pénzügyi és számviteli feladatok központosított ellátására kijelölt honvédelmi szervezet szervezeti egységének vezetője minősül gazdasági vezetőnek.
+
+(3)[^35]
+
+(4)[^36]
+
+(5)[^37]
+
+## A költségvetési előirányzatok tervezése és felhasználása
+
+### 10. §[^39]
+
+A központi költségvetésről szóló törvény elfogadását követően a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet:
+
+a)[^40]
+
+b)[^41] összeállítja a honvédelmi szervezetek intézményi költségvetési tervének, valamint az egyes tárcaszintű és nemzetközi költségvetési tervek (a továbbiakban együtt: intézményi költségvetési terv) elkészítéséhez szükséges előirányzat-keretekre vonatkozó javaslatát, valamint az intézményi költségvetési tervjavaslatok elkészítésének rendjére vonatkozó javaslatot és azokat a miniszter által történő jóváhagyást követően kiadja a honvédelmi szervezetek részére;
+
+c)[^42] felülvizsgálja az intézményi költségvetési tervjavaslatokat és azokat cím, alcím, valamint a tervjavaslatok elkészítésére vonatkozó rendben meghatározott részletezettséggel jóváhagyásra felterjeszti;
+
+d)[^43] a központi költségvetésről szóló törvény szerkezeti rendjének megfelelően összeállítja a HM fejezet elemi költségvetését és azt az Ávr.-ben meghatározott határideig a Kincstár részére megküldi;
+
+e)[^44] az intézményi költségvetéseket a *c)* pont szerinti jóváhagyást követő 90. napig visszaküldi a honvédelmi szervezet részére.
+
+### 11. §[^45]
+
+(1) A KNBSZ az elemi költségvetést, az időközi költségvetési jelentést, az éves költségvetési beszámolót és az időközi mérlegjelentést a minősített adat védelméről szóló törvény szerinti minősítéssel ellátva küldi meg a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet részére.
+
+(2) A Kincstárhoz benyújtott éves költségvetési beszámoló a KNBSZ vagyonára, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 20. § (1) bekezdése szerint foglalkoztatottak állománycsoportonkénti megosztására vonatkozó adatokat nem tartalmazhat.
+
+(3) Az elemi költségvetést, időközi költségvetési jelentést és az éves költségvetési beszámolót a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a KNBSZ tekintetében
+
+1\. a személyi juttatások kiemelt előirányzatot a K1101. Törvény szerinti illetmények, munkabérek,
+
+2\. a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzatot a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó,
+
+3\. a dologi kiadások kiemelt előirányzatot a K355. Egyéb dologi kiadások,
+
+4\. az ellátottak pénzbeli juttatásai előirányzatot a K48. Egyéb nem intézményi ellátások,
+
+5\. az egyéb működési célú kiadások kiemelt előirányzatot a K506. Egyéb működési célú támogatások államháztartáson belülre és a K512. Egyéb működési célú támogatások államháztartáson kívülre,
+
+6\. a beruházások kiemelt előirányzatot a K64. Egyéb tárgyi eszközök beszerzése, létesítése,
+
+7.[^46] a felújítások kiemelt előirányzatot a K73. Egyéb tárgyi eszközök felújítása,
+
+8.[^47] az egyéb felhalmozási célú kiadások kiemelt előirányzatot a K84. Egyéb felhalmozási célú támogatások államháztartáson belülre, a K86. Felhalmozási célú visszatérítendő támogatások, kölcsönök nyújtása államháztartáson kívülre és a K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre,
+
+9\. a működési célú támogatások államháztartáson belülről kiemelt előirányzatot a B16. Egyéb működési célú támogatások bevételei államháztartáson belülről,
+
+10\. a felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzatot a B25. Egyéb felhalmozási célú támogatások bevételei államháztartáson belülről,
+
+11\. a működési bevételek kiemelt előirányzatot a B411. Egyéb működési bevételek,
+
+12\. a felhalmozási bevételek előirányzatot a B53. Egyéb tárgyi eszközök értékesítése,
+
+13\. a működési célú átvett pénzeszközök kiemelt előirányzatot a B65. Egyéb működési célú átvett pénzeszközök,
+
+14\. a felhalmozási célú átvett pénzeszközök kiemelt előirányzatot a B75. Egyéb felhalmozási célú átvett pénzeszközök,
+
+15\. a finanszírozási bevételek kiemelt előirányzatot a maradvány igénybevétele kivételével a B816. Központi, irányító szervi támogatás,
+
+16\. a maradvány igénybevételt a B8131. Előző év költségvetési maradványának igénybevétele
+
+rovat összesítéssel küldi meg a Kincstár részére.
+
+(4) A KNBSZ a speciális működési kiadások terhére teljesített kiadások esetében az Ávr. 59. § (1) bekezdése szerinti teljesítésigazolás megléte esetén fedőnévre kiállított számla, számviteli bizonylat alapján is elszámolhatja kiadásait.
+
+(5) A KNBSZ az elemi költségvetésében a speciális működési kiadásai fedezetére elkülönített előirányzatot a dologi kiadások kiemelt előirányzaton belül a K337. Egyéb szolgáltatások rovaton, egy összegben, speciális működési kiadásként tervezi és számolja el.
+
+### 12. §[^48]
+
+A KNBSZ
+
+a) Kincstárnál vezetett fizetési számláját érintő kiadásai és bevételei teljesítése során az érintett rovathoz kapcsolódó Egységes Rovat Azonosítót nem kell alkalmazni, a Kincstár a KNBSZ fizetési számláját érintő kifizetés előtti fedezetvizsgálatkor csak a rendelkezésre álló likviditási fedezetet vizsgálja,
+
+b) fizetési számlájának forgalmáról és egyenlegéről a Kincstár az Állami Számvevőszéken (a továbbiakban: ÁSZ), a Kormányzati Ellenőrzési Hivatalon (a továbbiakban: KEHI), az államháztartásért felelős miniszter által vezetett minisztériumon és az arra feljogosított honvédelmi szervezeteken kívül más szervnek és személynek adatot csak a miniszter engedélyével szolgáltathat, és
+
+c) a kincstári költségvetési jelentéshez – az Áhsz.-ben foglaltaknak megfelelően – a költségvetési számvitelben elszámolt adatairól a 11. § (3) bekezdése szerinti tartalommal, a tárgyhónapot követő hónap tizedik napjáig szolgáltat adatot a Kincstár részére akként, hogy a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az időközi költségvetési jelentést a KNBSZ tekintetében az azt alátámasztó – a könyvelési rendszerből előállított – teljes főkönyvi kivonat nélkül küldi meg a Kincstár részére.
+
+## A kincstári számla feletti rendelkezési jogosultság[^49]
+
+### 12/A. §[^50]
+
+A 2. § (4) bekezdés a) pontja szerinti központi pénzügyi és számviteli ellátásra utalt honvédelmi szervezetek kincstári számlái felett a számlatulajdonos honvédelmi szervezet vezetője részére jogszabályban biztosított számlatulajdonosi jogosultságokat a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője gyakorolja.
+
+## Finanszírozás
+
+### 13. §
+
+(1) A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a honvédelmi szervezetek éves költségvetése finanszírozását – a költségvetési törvény szerkezeti rendje szerinti – kincstári számlákról biztosítja.
+
+(2) A Kincstár a havi időarányos előirányzat-felhasználási keretet a tárgyhónapot megelőző három munkanappal előbb nyitja meg az (1) bekezdés szerinti kincstári számlákra.
+
+## Költségvetési beszámolás
+
+### 17. §[^54]
+
+(1)[^55] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+
+a)[^56] a fejezeti kezelésű előirányzatok és – a KNBSZ kivételével – a honvédelmi szervezetek tekintetében éves intézményi költségvetési beszámolót, intézményi időközi mérlegjelentéseket és a (4a) bekezdésben meghatározott módon intézményi időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások),
+
+b)[^57] az a) pont szerinti intézményi elszámolások – ideértve a KNBSZ elszámolásait is – ellenőrzését és jóváhagyását követően, a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettségű összesítésével elszámolásokat, valamint
+
+c) a zárszámadáshoz kapcsolódó adatszolgáltatást
+
+készít, és azokat – az intézményi elszámolások, valamint a 3. Katonai Nemzetbiztonsági Szolgálat költségvetési cím időközi mérlegjelentésének kivételével – az Áhsz.-ben, az Ávr.-ben, az (1a) bekezdésben, valamint az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határidőig megküldi a Kincstár és az államháztartásért felelős miniszter részére.
+
+(1a)[^58] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a honvédelmi szervezetenként elkészített, ellenőrzött, jóváhagyott és a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettséggel összeállított
+
+a) időközi mérlegjelentéseket a tárgynegyedévet követő hónap 25. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő év február 10-éig,
+
+b) éves jelentést és éves költségvetési beszámolót az Áhsz. 32. § (1a) bekezdése szerinti határideig, és
+
+c) a december hónapra készített időközi költségvetési jelentést a költségvetési évet követő év február 10-éig
+
+a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe – a 3. Katonai Nemzetbiztonsági Szolgálat cím időközi mérlegjelentésének kivételével – feltölti.
+
+(2) A költségvetési beszámolás során
+
+a) azon honvédelmi szervezet esetében, amelynél a gazdasági vezetői feladat megosztásra kerül, az elszámolásokat a honvédelmi szervezet vezetője, parancsnoka mellett a 8. § (2) bekezdése szerinti pénzügyi gazdasági vezető és a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az Ávr. 9. § (1) bekezdés a) pontjában meghatározott könyvviteli szolgáltatásokat végző szervezeti egységéből kijelölt személy együttesen,
+
+b) az éves költségvetési beszámoló irányító szerv részéről történő ellenőrzését az (1) bekezdés szerinti honvédelmi szervezet vezetője által kijelölt bizottság vezetője,
+
+c) az (1) bekezdés a) pontja szerint összesített elszámolásokat a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet vezetője és ezen honvédelmi szervezet az Ávr. 9. § (1) bekezdés a) pontjában meghatározott könyvviteli szolgáltatásokat végző szervezeti egységének vezetője
+
+írja alá.
+
+(3) A honvédelmi szervezetek a havi zárlati feladataik végrehajtása során az Áhsz. 53. § (5) bekezdés d) és e) pontja szerinti egyeztetéseket hajtják végre. Az Áhsz. 53. § (5) bekezdés a)–c) pontja szerinti feladatok a negyedéves könyvviteli zárlat keretében kerülnek végrehajtásra.
+
+(4) A honvédelmi szervezetek költségvetése végrehajtását érintő, az Ávr. 169. § (2) bekezdése szerinti kötelezettségek teljesítése során feltárt, esetleges eltérések rendezését, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet negyedévente, a Kincstár által közzétett, a negyedév utolsó hónapját érintő kincstári költségvetési jelentés visszaküldésével egyidejűleg teljesíti.
+
+(4a)[^59] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a január és február hónapról szóló időközi költségvetési jelentést a központi költségvetés címrendjének megfelelően állítja össze.
+
+(5) A maradványelszámolás keretében a NATO Biztonsági Beruházási Programja megvalósításához kapcsolódó fejezeti kezelésű előirányzat teljesítésével összefüggésben a lezárt beruházási programok elszámolását követően a NATO által visszatérített pénzeszközök alapján elszámolt bevétel az Ávr. 150. § (1) bekezdésben foglaltaktól eltérően kötelezettségvállalás hiányában is a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzat fejezetet megillető költségvetési maradványnak minősül.
+
+(6) A KNBSZ speciális feladatai ellátása érdekében bérelt ingatlanon végzett felújítás elszámolt kiadásait a KNBSZ vagyonában nem kell kimutatni, azt a speciális működési kiadások terhére kell elszámolni. A felújítás elszámolt kiadásai a bérleti díjban érvényesíthetőek.
+
+### 18. §[^60]
+
+A KNBSZ a 29. § (1) bekezdése szerinti számlákhoz kapcsolódó pénzforgalomról a számviteli rendszerétől elkülönített, analitikus nyilvántartást vezet.
+
+## Egyéb szabályok
+
+### 26. §
+
+(1) A miniszter a vagyonkezeléssel összefüggő feladatait az általa kijelölt honvédelmi szervezet útján gyakorolja.
+
+(2) A kijelölt honvédelmi szervezet felügyeli az állami feladat ellátásához rendelkezésre bocsátott állami vagyon használatából eredő kötelezettségek teljesítését.
+
+### 27. §
+
+(1) A fejlesztési, illetve az egyéb célú támogatásokra kiírt utófinanszírozású vagy önrészt igénylő pályázatokon honvédelmi szervezet csak a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet előzetes – az előirányzat fedezetre vonatkozó likviditási vizsgálatát követően kiadott – miniszteri engedély alapján vehet részt.
+
+(2)[^68]
+
+### 28. §[^69]
+
+A HM költségvetési fejezetnél azon előző évi maradványok, melyek – a központi gazdálkodás és ellátásból adódóan – a keletkezési helyüktől eltérő költségvetési címen, alcímen, illetve honvédelmi szervezetnél kerülnek jóváhagyásra, ott számolhatók el teljesített bevételként és kiadásként, ahol a maradvány ténylegesen felhasználásra kerül.
+
+### 28/A. §[^70]
+
+Az Áht. 30. § (4) bekezdése szerinti többletbevétel felhasználásának engedélyezésére és a bevételi előirányzatok módosítására e § rendelkezéseit kell alkalmazni. E § alkalmazásában a honvédelmi szervezetek többletbevétele az elemi költségvetésben megtervezett eredeti előirányzat az Ávr. 35. § (1) bekezdése szerinti bevételekkel, valamint a HM fejezet visszatérüléseiből, az inkurrencia- és a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 110/M. § (1) bekezdés a) pontja szerinti értékesítésből befolyó bevételekkel csökkentett összegén felül pénzforgalmilag elszámolt összeg.
+
+### 28/B. §[^71]
+
+(1) A Honvédelmi és Haderőfejlesztési Program részeként (e § alkalmazásában a továbbiakban: Program) a szerződés szerinti teljesítések tárgyévet követő években történő megvalósulása esetén a kifizetett előlegeket, a teljesítés tényleges megvalósulásáig, a honvédelmi szervezet kötelezettségvállalással terhelt költségvetési maradványának kell tekinteni, amely összeg kizárólag a Programban kitűzött, a kötelezettségvállalással érintett tárgyi feladatok ellátása érdekében kerülhet nyilvántartásba vételre.
+
+(2) Az (1) bekezdés szerinti költségvetési maradvány elvonásáról vagy felhasználásának további engedélyezéséről a Kormány nem határoz, annak terhére a költségvetési évet követő év december 31-ét követően is a Kormány döntése nélkül történhet meg a szerződés szerinti teljesítés elszámolása.
+
+### 29. §[^72]
+
+(1) A KNBSZ speciális működési kiadásai teljesítéséhez Magyarországon működő hitelintézetnél fizetési számla, devizaszámla nyitható. A hitelintézet által vezetett számláról, devizaszámláról a KNBSZ és a számlavezető hitelintézet a Kincstár részére adatot nem szolgáltat.
+
+(2) A Kincstárnál vezetett fizetési számla terhére a speciális működési kiadások finanszírozására vezetett hitelintézeti számlákra történő utalások teljes összegét az átutalást követően a 11. § (5) bekezdése szerint, teljesítésként kell elszámolni.
+
+(3) A KNBSZ (1) bekezdés szerinti számláinak év végi egyenlegét nem kell az éves költségvetési beszámolóban szerepeltetni. A számlák év végi egyenlegéről – a műveleti szempontokat figyelembe véve – a speciális gazdálkodásról szóló költségvetési beszámoló jelentésben kell számot adni, melyet a miniszter külön hagy jóvá.
+
+### 29/A. §[^73]
+
+(1) A KNBSZ az állami vagyonról saját hatáskörben vezet nyilvántartást, melyben az alaptevékenysége ellátásához besorolt speciális kezelésű vagyonelemeket elkülönítetten tartja nyilván.
+
+(2) A KNBSZ
+
+a)[^74] az állami vagyonról az Áhsz. 5. mellékletének adataiból mérleg-főcsoportonkénti részletezésben szolgáltathat adatot a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaságnak, az ÁSZ-nak, a Nemzeti Földalap kezeléséért felelős szervnek, a Központi Statisztikai Hivatalnak és a KEHI-nek,
+
+b) az ajánlatkérés tényét nem kell, hogy nyilvánossá tegye, ha a használatában, illetve vagyonkezelésében lévő, vagy tulajdonosi joggyakorlása alatt álló, feladatai ellátásához feleslegessé vált vagyontárgyakat zártkörű pályázat útján értékesíti.
+
+(3) A (2) bekezdésben meghatározott értékesítések során nem kötelező közjegyző igénybevétele, ha az értékesítési folyamatot egy legalább három főből álló, a KNBSZ főigazgatója által kinevezett bizottság felügyeli. A bizottság tagja nem lehet olyan személy, aki az értékesítési eljárás eredményében bármilyen okból érdekelt, vagy akitől egyéb okból nem várható el az értékesítési eljárás szabályszerűségének tárgyilagos megítélése.
+
+(4) A speciális működési kiadásból finanszírozott ingatlanok vonatkozásában az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 2. § (1) bekezdésében és IX. Fejezetében foglaltak nem alkalmazhatóak. Ezen ingatlanok tulajdonjogának megszerzéséhez a miniszter jóváhagyása szükséges.
+
+### 30. §[^75]
+
+A honvédelmi szervezetek és az irányító szerv az Ávr. 167/M. § (1) bekezdése szerinti bejelentési és adatszolgáltatási kötelezettségeit a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet teljesíti.
+
+## Záró rendelkezések
+
+### 31. §
+
+(1) Ez a rendelet 2010. január 1-jén lép hatályba.
+
+(2)[^76]
+
+(3)[^77]
+
+### 32. §[^78]
+
+A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet és más Magyar Honvédséget érintő kormányrendeletek módosításáról szóló 282/2010. (XII. 15.) Korm. rendelet 5. §-ával megállapított 28/A. §-t a 2010. augusztus 15-étől keletkezett bevételekre is alkalmazni kell.
+
+### 33. §[^79]
+
+A katonai szervezetek alapító okiratait a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet módosításáról szóló 196/2015. (VII. 21.) Korm. rendelet (a továbbiakban: R.) hatálybalépését[^80] követő első módosításuk alkalmával kell az R. 1. §-ával megállapított 4. § szerint kiegészíteni.
+
+---
+
+[^1]: Az 1. §-t megelőző alcím a 26/2015. (II. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^2]: Az 1. § a 26/2015. (II. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdése a 354/2019. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés a) pontja a 409/2022. (X. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés b) pontja a 409/2022. (X. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: Az 1. § (3) bekezdését a 354/2019. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 176/2024. (VII. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdése a 26/2015. (II. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdését a 196/2017. (VII. 10.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^9]: A 2. § (4) bekezdés nyitó szövegrésze a 26/2015. (II. 25.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^10]: A 2. § (4) bekezdés a) pontja a 225/2016. (VII. 29.) Korm. rendelet 11. §-ával megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § a) pontja, az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés a) pontja, a 354/2024. (XI. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^11]: A 2. § (4) bekezdés c) pontja a 26/2015. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^12]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 2. § (4) bekezdés f) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. § (4) bekezdés g) pontja a 247/2018. (XII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § b) pontja, a 11/2021. (I. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^15]: A 2. § (4) bekezdés j) pontját újonnan a 247/2018. (XII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^16]: A 2. § (4) bekezdés k) pontját a 354/2019. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 2. § (5) bekezdését a 457/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 2. § (6) bekezdését a 457/2023. (X. 5.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 3. § a 259/2016. (VIII. 31.) Korm. rendelet 82. §-ával megállapított, a 196/2017. (VII. 10.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^20]: A 4. § a 196/2015. (VII. 21.) Korm. rendelet 1. §-ával megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § c) pontja, a 409/2022. (X. 24.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^21]: Az 5. § a 196/2017. (VII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 6. § a 282/2010. (XII. 15.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^23]: A 7. §-t megelőző alcímet a 175/2015. (VII. 7.) Korm. rendelet 64. §-a hatályon kívül helyezte. A 7. § a 247/2018. (XII. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 7. § (1) bekezdése a 11/2021. (I. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^25]: A 7/A. §-t a 247/2018. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 354/2019. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 7/B. §-t a 354/2019. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^27]: Az „A Honvéd Vezérkar főnöke gazdálkodás-irányítási jogköre” alcím címe az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^28]: A 7/C. §-t a 354/2019. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^29]: A 7/C. § (1) bekezdés nyitó szövegrésze az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 7/C. § (2) bekezdése a 354/2024. (XI. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^31]: A 7/C. § (3) bekezdés nyitó szövegrésze az 592/2023. (XII. 20.) Korm. rendelet 2. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^32]: A 7/C. § (4) bekezdését az 592/2023. (XII. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^33]: A 8. § (1) bekezdése a 89/2012. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 8. § (2) bekezdése a 89/2012. (IV. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^35]: A 8. § (3) bekezdését a 89/2012. (IV. 26.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^36]: A 8. § (4)–(5) bekezdését a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^37]: A 8. § (4)–(5) bekezdését a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^39]: A 10. § a 282/2010. (XII. 15.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze a 26/2015. (II. 25.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^40]: A 10. § a) pontját a 196/2017. (VII. 10.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^41]: A 10. § b) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^42]: A 10. § c) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^43]: A 10. § d) pontja a 89/2012. (IV. 26.) Korm. rendelet 9. § e) pontja, a 26/2015. (II. 25.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^44]: A 10. § e) pontját a 159/2011. (VIII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 247/2018. (XII. 17.) Korm. rendelet 5. §-ával megállapított, a 354/2019. (XII. 23.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^45]: A 11. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte, újonnan a 26/2015. (II. 25.) Korm. rendelet 11. §-a iktatta be.
+[^46]: A 11. § (3) bekezdés 7. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^47]: A 11. § (3) bekezdés 8. pontja az 57/2016. (III. 25.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^48]: A 12. § a 26/2015. (II. 25.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^49]: A 12/A. §-t megelőző alcímet a 159/2011. (VIII. 11.) Korm. rendelet 3. §-a iktatta be.
+[^50]: A 12/A. §-t a 159/2011. (VIII. 11.) Korm. rendelet 3. §-a iktatta be, szövege a 26/2015. (II. 25.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^54]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^55]: A 17. § (1) bekezdése az 57/2016. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^56]: A 17. § (1) bekezdés a) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^57]: A 17. § (1) bekezdés b) pontja az 592/2023. (XII. 20.) Korm. rendelet 2. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^58]: A 17. § (1a) bekezdését az 57/2016. (III. 25.) Korm. rendelet 1. §-a iktatta be, szövege a 196/2017. (VII. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^59]: A 17. § (4a) bekezdését a 196/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A 18. §-t megelőző alcímet és a 18. §-t a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte. A 18. §-t újonnan a 26/2015. (II. 25.) Korm. rendelet 15. §-a iktatta be.
+[^68]: A 27. § (2) bekezdését a 89/2012. (IV. 26.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^69]: A 28. § a 194/2013. (VI. 12.) Korm. rendelet 2. § c) és d) pontja szerint módosított szöveg.
+[^70]: A 28/A. §-t a 282/2010. (XII. 15.) Korm. rendelet 5. §-a iktatta be, szövege a 89/2012. (IV. 26.) Korm. rendelet 7. §-ával megállapított, a 194/2013. (VI. 12.) Korm. rendelet 2. § e) és f) pontja, a 176/2024. (VII. 7.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^71]: A 28/B. §-t a 354/2019. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^72]: A 29. §-t a 89/2012. (IV. 26.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte, újonnan a 194/2013. (VI. 12.) Korm. rendelet 1. §-a iktatta be, szövege a 26/2015. (II. 25.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^73]: A 29/A. §-t a 26/2015. (II. 25.) Korm. rendelet 17. §-a iktatta be.
+[^74]: A 29/A. § (2) bekezdés a) pontja a 107/2024. (V. 9.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^75]: A 30. § a 89/2012. (IV. 26.) Korm. rendelet 8. §-ával megállapított, a 26/2015. (II. 25.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^76]: A 31. § (2)–(3) bekezdését a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^77]: A 31. § (2)–(3) bekezdését a 282/2010. (XII. 15.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^78]: A 32. §-t a 282/2010. (XII. 15.) Korm. rendelet 6. §-a iktatta be.
+[^79]: A 33. §-t a 196/2015. (VII. 21.) Korm. rendelet 3. §-a iktatta be, szövege a 247/2018. (XII. 17.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^80]: A hatálybalépés időpontja 2015. július 22.

@@ -1,0 +1,188 @@
+---
+title: "146/2000. (VIII. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya között a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni harcban történő együttműködésről szóló, Londonban, 2000. február 9-én aláírt Egyetértési Nyilatkozat kihirdetéséről"
+identifier: "146/2000. (VIII. 23.) Korm. rendelet"
+njt_id: "2000-146-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/146"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-08-23
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-146-20-22"
+retrieved: 2026-10-12
+---
+
+# 146/2000. (VIII. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya között a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni harcban történő együttműködésről szóló, Londonban, 2000. február 9-én aláírt Egyetértési Nyilatkozat kihirdetéséről
+
+## (Az Egyetértési Nyilatkozat jóváhagyásáról szóló jegyzékváltás 2000. július 17. napján megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya között a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni harcban történő együttműködésről szóló, Londonban, 2000. február 9-én aláírt Egyetértési Nyilatkozatot e rendelettel kihirdeti.
+
+### 2. §
+
+Az Egyetértési Nyilatkozat magyar nyelvű szövege a következő:
+
+,,
+
+**Egyetértési Nyilatkozat**
+
+a Magyar Köztársaság Kormánya és Nagy-Britannia\
+és Észak-Írország Egyesült Királyságának Kormánya között a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyságának Kormánya (a továbbiakban: Résztvevők)
+
+– mélységes aggodalommal a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció miatt,
+
+– megerősítve közös elhatározásukat, hogy fellépnek ezen fenyegetések ellen,
+
+– attól a kívánságtól vezérelve, hogy megerősítsék a köztük fennálló együttműködésüket és kifejezzék a kábítószerek illegális forgalma, a szervezett bűnözés, a nemzetközi terrorizmus és az illegális migráció elleni hatékony fellépésre irányuló szándékukat,
+
+– építeni kívánva a Résztvevők által a Kábítószerek és pszichotrop anyagok tiltott termelése, kereskedelme és a visszaélés megelőzése területén történő együttműködés tárgyában, 1991. április 25-én aláírt Egyetértési Nyilatkozatra,
+
+az alábbiakban jutottak egyetértésre:
+
+*1. Az együttműködés területei*
+
+(1) A jelen Egyetértési Nyilatkozat a kábítószerek illegális forgalmára, a szervezett bűnözésre, a nemzetközi terrorizmusra, az illegális migrációra és más súlyos bűncselekményekre terjed ki.
+
+(2) A Résztvevők a kábítószerek és pszichotrop anyagok illegális termelése, előállítása és kereskedelme, valamint a prekurzoroknak a törvényes kereskedelemből való eltérítése elleni fellépés céljából, a közöttük fennálló kormányközi egyetértési nyilatkozattal összhangban, információt cserélnek a kábítószerek és pszichotrop anyagok jogellenes termeléséről, előállításáról és az illegális kereskedelméről, a prekurzoroknak a törvényes kereskedelemből való eltérítéséről, az illegális kábítószer-kereskedelem elleni fellépésnek, valamint a kábítószer-kereskedelemből származó jövedelmeknek a pénzintézeteken keresztül történő tisztára mosása megakadályozásának módszereiről.
+
+(3) A Résztvevők a bűnözés és különösen a szervezett bűnözés elleni fellépés, annak felderítése és felszámolása céljából információt cserélnek a szervezett bűnözésről, az érintett bűnszervezetekről és tevékenységeikről, beleértve az ilyen tevékenységből származó jövedelmek tisztára mosását is.
+
+(4) A nemzetközi terrorizmus elleni fellépés céljából a Résztvevők információt cserélnek a terrorista csoportokról, a tenorista bűncselekményekről, valamint a terrorizmus elleni fellépés és a terrorista cselekmények kezelésének módszereiről.
+
+(5) A Résztvevők az illegális migráció elleni fellépés céljából információt cserélnek a külföldi állampolgárok belépésére és tartózkodására vonatkozó nemzeti jogszabályaikról, az illegális migráció elleni fellépés módszereiről, valamint az embercsempészés és az azt kísérő bűncselekmények felderítéséről.
+
+*2. Információcsere*
+
+(1) A jelen Egyetértési Nyilatkozatban szabályozott információk cseréje a Résztvevők nemzeti jogszabályaival és nemzetközi kötelezettségeivel összhangban történik.
+
+(2) A Résztvevők illetékes hatóságai a lehető legszélesebb körben együttműködnek a jelen Egyetértési Nyilatkozat tárgyát képező bűncselekmények megelőzésére, felderítésére és nyomozására vonatkozó információk cseréjében.
+
+*3. Összehangolt intézkedések a bűncselekmények elleni fellépésben*
+
+(1) A Résztvevők – amennyiben az adott körülmények között gyakorlatilag megvalósítható és lehetséges – biztosítják az összehangolt rendőri együttműködést a nyomozások során, és lehetőség szerint személyi, infrastrukturális és szervezeti támogatást nyújtanak egymásnak; továbbá együttműködnek az ellenőrzött szállítások végrehajtásában, ahogyan azt az Egyesült Nemzetek Szervezetének a Kábítószerek és Pszichotrop Anyagok Illegális Forgalmazása elleni, Bécsben, 1988-ban kelt Egyezménye meghatározza.
+
+(2) A Résztvevők illetékes hatóságai (lásd a mellékletben) találkozókat tarthatnak a bűncselekmények elleni fellépéshez szükséges összehangolt intézkedések előkészítése, elősegítése és végrehajtása érdekében.
+
+*4. Az együttműködés általános területei*
+
+A Résztvevők illetékes hatóságai:
+
+*(i)* kicserélik szaktudásukat és támogatást nyújtanak egymásnak a személyi állomány képzésében,
+
+*(ii)* információt és tapasztalatot cserélnek a bűncselekményekkel kapcsolatos jogi szabályozásról,
+
+*(iii)* információt cserélnek a bűncselekményekből származó jövedelmekről.
+
+*5. Illetékes hatóságok*
+
+(1) A Résztvevők illetékes hatóságai (lásd melléklet) saját nemzeti jogszabályaikkal, valamint a jelen Egyetértési Nyilatkozat rendelkezéseivel összhangban közvetlenül együttműködnek egymással, és meghatározzák ezen együttműködés konkrét módszereit és részletes szabályait.
+
+(2) Az illetékes hatóságok megfelelő és közvetlen érintkezési módot alakítanak ki társhatóságaikkal. A jelen Egyetértési Nyilatkozat szerinti minden információkérést, illetve egyéb intézkedést közvetlenül az illetékes, érintett társhatósághoz kell intézni.
+
+(3) Eltérő megállapodás hiányában az illetékes hatóságok közötti kapcsolattartás angol nyelven történik.
+
+(4) A Résztvevők tájékoztatják egymást a jelen Egyetértési Nyilatkozat végrehajtásáért felelős illetékes hatóságokon belüli kapcsolattartó pontokról.
+
+*6. Személyes adatok védelme*
+
+A jelen Egyetértési Nyilatkozattal összhangban, az egyénekre vonatkozó adatok átadása az alábbi feltételekkel történik:
+
+*(i)* A fogadó illetékes hatóság jogszabályi előírásainak megfelelően az adatokat kizárólag az átadó illetékes hatóság által meghatározott célra és feltételek mellett használhatja fel.
+
+*(ii)* A hazai jogszabályokkal összhangban, az adatok kizárólag a jelen Egyetértési Nyilatkozat mellékletében meghatározott illetékes hatóságoknak adhatók át. Az adatok más hatóságoknak történő továbbadása kizárólag az adatokat átadó illetékes hatóság előzetes hozzájárulásával történhet. Az adatokat a Résztvevők illetékes hatóságai által egyeztetett módon lehet továbbítani.
+
+*7. Bizalmas információ kezelés*
+
+Mindkét Résztvevő illetékes hatóságai belső jogszabályaikkal összhangban biztosítják a másik Résztvevő illetékes hatóságaitól érkező kéréseknek, illetve intézkedések iránti kérelmeknek, valamint az ilyen kérelmek végrehajtási eredményeinek a bizalmas kezelését. Mindkét Résztvevő illetékes hatóságai ugyanolyan mértékű védelmet biztosítanak az ilyen kérelmek, valamint az azok végrehajtási eredményei tekintetében, mint amelyet azok az átadó illetékes hatóság államában élveznek.
+
+*8. Költségek*
+
+(1) A megkeresett illetékes hatóság viseli a kérés teljesítésével kapcsolatos összes szokásos költséget, a rendkívüli költségeket azonban a megkereső illetékes hatóság viseli, kivéve, ha az érintett illetékes hatóságok másképpen állapodnak meg.
+
+(2) A megkereső illetékes hatóság viseli képviselőinek utazásával és tartózkodásával kapcsolatos költségeket, kivéve, ha ezzel ellentétes megállapodás születik.
+
+*9. Az Egyetértési Nyilatkozat végrehajtása*
+
+A jelen Egyetértési Nyilatkozat végrehajtását a Magyar Köztársaság Belügyminisztériuma, valamint Nagy-Britannia és Észak-Írország Egyesült Királyságának Belügyminisztériuma kíséri figyelemmel. A minisztériumok rangidős munkatársai a megfelelő szakértőkkel együtt szükség szerint találkoznak a felmerülő kérdések megvitatása érdekében.
+
+*10. Nemzetközi szerződésekből származó kötelezettségek*
+
+A jelen Egyetértési Nyilatkozat nem érinti a Résztvevők más nemzetközi egyezményeiből származó jogait és kötelezettségeit.
+
+*11. Záró rendelkezések*
+
+(1) Mindkét Résztvevő írásban, diplomáciai úton értesíti a másik Résztvevőt arról, hogy eleget tett a jelen Egyetértési Nyilatkozat hatálybalépéséhez szükséges belső jogi előírásoknak. Az Egyetértési Nyilatkozat a második értesítést követő harmincadik napon lép hatályba.
+
+(2) A jelen Egyetértési Nyilatkozatot bármelyik Résztvevő felmondhatja a másik Résztvevőhöz diplomáciai úton intézett írásos értesítéssel. Az Egyetértési Nyilatkozat a felmondásról szóló értesítéstől számított 3 hónap elteltével veszti hatályát.
+
+*12. Emberi Jogok*
+
+A Résztvevők elfogadják, hogy ezen Egyetértési Nyilatkozat szerinti kapcsolataik és cselekedeteik megfelelnek az Emberi Jogok Egyetemes Nyilatkozatában lefektetett elveknek.
+
+Készült Londonban, 2000. év február hó 9. napján, magyar és angol nyelven, mindkét nyelvű szöveg egyaránt hiteles. Vita esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+nevében
+
+Nagy-Britannia\
+és Észak-Írország\
+Egyesült Királyságának\
+Kormánya nevében
+
+*Melléklet*
+
+*Illetékes hatóságok*
+
+(1) A jelen Egyetértési Nyilatkozat végrehajtása szempontjából illetékes hatóságok:
+
+*(i)* A Magyar Körtársaság részéről:
+
+– a Belügyminisztérium, beleértve a Belügyminisztérium Bevándorlási és Állampolgársági Hivatalát;
+
+– az Adó- és Pénzügyi Ellenőrzési Hivatal Bűnügyi Igazgatósága;
+
+– az Országos Rendőr-főkapitányság;
+
+– a Határőrség Országos Parancsnoksága;
+
+– a Vám- és Pénzügyőrség Országos Parancsnoksága.
+
+*(ii)* Nagy-Britannia és Észak-Írország Egyesült Királysága részéről:
+
+– Belügyminisztérium, Őfelsége Bevándorlási Hivatalával együtt (Home Office, including Her Majesty's Immigration Service);
+
+– Anglia, Wales, Skócia és Észak-Írország Rendőrsége, az Országos Bűnügyi Felderítő Szolgálattal, az Országos Bűnügyi Akciócsoporttal és a Skót Bűnügyi Akciócsoporttal együtt (the Police Service of England, Wales, Scotland and Northern Ireland, including the National Criminal Intelligence Service, the National Crime Squad and the Scottish Crime Squad);
+
+– Őfelsége Vámhivatala (Her Majesty's Customs and Excise);
+
+– a Külügyi és Nemzetközösségi Ügyek Minisztériuma, beleértve az Egyesült Királyság kábítószerekkel, pénzügyekkel és bűncselekményekkel foglalkozó összekötő tisztjeit, akik a külföldi diplomáciai szervezetekhez rendelten tevékenykednek (Foreign and Commonwealth Office, including the United Kingdom's Drugs, Fiscal and Crime Liaison Officers attached to British Diplomatic Posts overseas);
+
+– a Korona Ügyészségi Szolgálata (Crown Prosecution Service);
+
+– a Korona Hivatala, a Skót Főállamügyészséggel együtt (Crown Office, including the Procurator Fiscal Service);
+
+– az Észak-Írországi Főügyészség vezetője (Director of Public Prosecutions for Nothern Ireland);
+
+– a Pénzügyminisztérium (Her Majesty's Treasury);
+
+– a Nagy Értéket Képviselő Csalásokkal Foglalkozó Hivatal (Serious Fraud Office);
+
+– az Adóhivatal (the Inland Revenue);
+
+– a Kereskedelmi és Ipari Minisztérium (Department of Trade and Industry).''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2000. augusztus 16. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 130. pontja szerint módosított szöveg.

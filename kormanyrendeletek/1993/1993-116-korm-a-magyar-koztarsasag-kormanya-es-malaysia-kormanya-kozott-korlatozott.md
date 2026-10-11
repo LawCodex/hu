@@ -1,0 +1,105 @@
+---
+title: "116/1993. (VIII. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és Malaysia Kormánya között korlátozott vízummentességi megállapodás kihirdetéséről"
+identifier: "116/1993. (VIII. 19.) Korm. rendelet"
+njt_id: "1993-116-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1993/Korm/116"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1993-08-19
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1993-116-20-22"
+retrieved: 2026-10-12
+---
+
+# 116/1993. (VIII. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és Malaysia Kormánya között korlátozott vízummentességi megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Malaysia Kormánya között korlátozott vízummentességről szóló, Kuala Lumpurban, 1993. február 19. napján aláírt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+**,,KORLÁTOZOTT VÍZUMMENTESSÉGI MEGÁLLAPODÁS A MAGYAR KÖZTÁRSASÁG KORMÁNYA ÉS MALAYSIA KORMÁNYA KÖZÖTT**
+
+A Magyar Köztársaság Kormánya és Malaysia Kormánya (a továbbiakban: Szerződő Felek),
+
+tekintetbe véve a két ország között fennálló baráti kapcsolatokat,
+
+kívánatosnak tartva, hogy jobban elősegítsék állampolgárainknak az egymás országába való utazását,
+
+az alábbiakban állapodtak meg:
+
+*,,1. Cikk*
+
+A Szerződő Feleknek azok az állampolgárai, akik az országuk illetékes hatóságai által kiállított érvényes útlevéllel rendelkeznek, vízum nélkül utazhatnak a másik Szerződő Fél országának területére legfeljebb 90 napra, ha a beutazás olyan céllal történik, amelyben a Szerződő Felek a Függelékben megállapodtak.
+
+*2. Cikk*
+
+1\. Az érvényes magyar vagy malaysiai diplomata vagy szolgálati/hivatalos útlevéllel rendelkező magyar, illetőleg malaysiai állampolgárok, akik az egyik Szerződő Félnek a másik Szerződő Fél területén működő diplomáciai vagy konzuli képviseletének tagjai, a szolgálatuk teljes ideje alatt vízum nélkül utazhatnak be a másik Szerződő Fél területére.
+
+2\. Azok az érvényes magyar vagy malaysiai diplomata vagy szolgálati/hivatalos útlevéllel rendelkező magyar, illetőleg malaysiai állampolgárok, akik az egyik Szerződő Fél képviselői nemzetközi szervezetnél tartott tárgyaláson, konferencián vagy valamely állami tárgyaláson, illetőleg konferencián, amelyet a másik Szerződő Fél területén tartanak, szintén mentesek a vízumkötelezettség alól.
+
+3\. Az 1. és 2. bekezdésben említett személyek háztartásában élő családtagok szintén vízum nélkül utazhatnak a szolgálat teljes ideje alatt a másik Szerződő Fél területére, amennyiben ők maguk is érvényes magyar vagy malaysiai diplomata vagy szolgálati/hivatalos útlevéllel rendelkező magyar vagy malaysiai állampolgárok.
+
+*3. Cikk*
+
+Az 1. Cikk rendelkezései nem érintik mindkét ország állampolgárainak kötelezettségét arra, hogy be kell tartaniuk a másik országnak a külföldi állampolgárok beutazására, tartózkodására és jövedelemszerző tevékenységére vonatkozó törvényeit és rendeleteit.
+
+*4. Cikk*
+
+Mindkét Szerződő Fél fenntartja a jogot arra, hogy megtagadja a beutazást vagy a területén való tartózkodást az általa nemkívánatosnak tartott személyektől, valamint azoktól, akik nem felelnek meg a külföldi állampolgárok elutazására vagy tartózkodására vonatkozóan az illető Kormány rendelkezései vagy általánosan követett gyakorlata által támasztott követelményeknek.
+
+*5. Cikk*
+
+Mindkét Szerződő Fél fenntartja a jogot arra, hogy közrendi, nemzetbiztonsági vagy közegészségügyi okból a fenti rendelkezések alkalmazását, részben vagy egészben felfüggessze. Az ilyen felfüggesztésről és annak megszüntetéséről a másik Szerződő Felet diplomáciai úton, írásban haladéktalanul tájékoztatni kell.
+
+*6. Cikk*
+
+Ezt a megállapodást bármelyik Szerződő Fél felmondhatja a másik Szerződő Félhez hatvan (60) nappal korábban diplomáciai úton küldött írásbeli értesítéssel.
+
+*7. Cikk*
+
+Ez a megállapodás az azt követő 60. napon lép hatályba, amikor a Szerződő Felek kölcsönösen értesítették egymást arról, hogy országuk belső szabályai szerinti jóváhagyása megtörtént.
+
+Készült Kuala Lumpurban, az 1993. évi február hó 19. napján, három eredeti példányban, magyar, angol és bahasa maláj nyelven, mindhárom nyelvű szöveg egyaránt hiteles. Amennyiben a három eredeti szöveg rendelkezéseiben eltérések lennének, úgy az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya nevében
+
+Malaysia Kormánya nevében
+
+**FÜGGELÉK**
+
+A Magyar Köztársaság Kormánya és Malaysia Kormánya között a korlátozott vízummentességi megállapodás 1. Cikkében írt célok listája:
+
+1\. hivatalos út
+
+2\. rokonlátogatás
+
+3\. turizmus
+
+4\. üzleti tárgyalás
+
+5\. beruházások
+
+6\. sport
+
+7\. szemináriumon, megbeszélésen, konferencián való részvétel
+
+8\. sajtókonferencián való részvétel/tudósítás
+
+9\. egyéb célok, melyekben a Szerződő Felek időről időre megállapodnak.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1993. április 20. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 41. pontja szerint módosított szöveg.

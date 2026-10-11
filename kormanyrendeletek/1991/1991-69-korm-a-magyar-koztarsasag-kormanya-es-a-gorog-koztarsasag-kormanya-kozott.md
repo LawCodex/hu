@@ -1,0 +1,75 @@
+---
+title: "69/1991. (VI. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Görög Köztársaság Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó megállapodás kihirdetéséről"
+identifier: "69/1991. (VI. 6.) Korm. rendelet"
+njt_id: "1991-69-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/69"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-06-06
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-69-20-22"
+retrieved: 2026-10-12
+---
+
+# 69/1991. (VI. 6.) Korm. rendelet a Magyar Köztársaság Kormánya és a Görög Köztársaság Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó megállapodás kihirdetéséről
+
+*(A megállapodás megkötésére 1991. március 4-én jegyzékváltás formájában került sor.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Görög Köztársaság Kormánya között a vízummentességre, illetve a vízumkönnyítésre vonatkozó, 1991. március 4-én kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magyar nagykövetségnek az 1. §-ban említett megállapodást tartalmazó, a Görög Köztársaság Külügyminisztériumához intézett angol nyelvű jegyzéke hivatalos magyar nyelvű fordítása a következő:
+
+,,A Magyar Köztársaság Nagykövetsége tiszteletét fejezi ki a Görög Köztársaság Külügyminisztériumának és igazolja az F. 1170/44/AS 3698. számú jegyzék vételét, amely 1991. február 28-án kelt és amelynek a szövege a következő:
+
+,,A Görög Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Magyar Köztársaság Nagykövetségének és van szerencséje tudomására hozni, hogy a megtartott tanácskozásokat követően a Görög Köztársaság Kormánya hajlandó megállapodást kötni a Magyar Köztársaság Kormányával a vízumkényszer kölcsönös eltörlése tárgyában és ennek szövege a következő:
+
+1\. A Szerződő Felek érvényes magánútlevéllel rendelkező állampolgárai, akik a másik Szerződő Fél területén legfeljebb három hónapig kívánnak tartózkodni és nem kívánnak ott jövedelemszerző tevékenységet kifejteni, szabadon léphetnek be a másik Szerződő Fél területére, a vízum beszerzésének kötelezettsége nélkül.
+
+2\. A Szerződő Felek érvényes diplomata vagy szolgálati útlevéllel rendelkező állampolgárai, akik a másik Szerződő Fél területén legfeljebb három hónapig kívánnak tartózkodni és nem kívánnak ott jövedelemszerző tevékenységet kifejteni, szabadon léphetnek be a másik Szerződő Fél területére, a vízum beszerzésének kötelezettsége nélkül.
+
+3./*a)* A Szerződő Felek érvényes diplomata, szolgálati vagy magánútlevéllel rendelkező állampolgárai, akik a másik Szerződő Fél országába diplomáciai képviselet tagjaként vagy nemzetközi szervezetben kormányképviselőként utaznak, mentesek a vízumkötelezettség alól.
+
+*b)* Ugyanez vonatkozik az *a)* bekezdésben szereplő személyek családtagjaira is, feltéve, hogy érvényes diplomata, szolgálati vagy magánútlevéllel rendelkeznek.
+
+*c)* Nem érintve az *a)* bekezdésben foglaltakat, egyetértés született arról, hogy diplomáciai képviselők kijelöléséről a Felek kölcsönösen, 20 nappal korábban tájékoztatják egymást. Amennyiben ezen időtartamon belül nem érkezik válasz, ez a kinevezéssel való egyetértésnek tekintendő.
+
+4\. A Szerződő Felek állampolgárai a másik Szerződő Fél területén való tartózkodásuk során nem mentesülnek az alól a kötelezettség alól, hogy a külföldiek beutazására és tartózkodására, valamint önálló vagy alkalmazotti jövedelemszerző tevékenységére vonatkozó hatályos törvényeket és más jogszabályokat betartsák.
+
+5\. Ez a Megállapodás nem érinti az illetékes hatóságok jogát arra, hogy a beutazási vagy tartózkodási engedélyt megtagadják azon személyektől, akik veszélyeztethetik a közrendet vagy akiknek a másik Szerződő Fél területén való tartózkodása nem kívánatosnak minősül 1. a turisták megengedett tartózkodási idejére, 2. az ideiglenes tartózkodásra, 3. munkavállalásra és 4. a bevándorolásra vonatkozó törvények és más jogszabályok megsértése miatt.
+
+6\. Mindkét Szerződő Fél hatóságai vállalják, hogy a másik Szerződő Fél illetékes hatóságainak kérésére területükre formalitások nélkül visszabocsátják azon állampolgáraikat, akik e Megállapodás alapján léptek be a másik Szerződő Fél területére.
+
+7\. Bármely Szerződő Fél közrendi, biztonsági vagy egészségügyi okból egészen vagy részben felfüggesztheti e Megállapodás végrehajtását. A felfüggesztésről és annak feloldásáról diplomáciai úton azonnal értesíteni kell a másik Szerződő Felet.
+
+8\. A Szerződő Felek diplomáciai úton megküldik egymásnak új vagy módosított útiokmányaik mintapéldányát, ideértve az azok felhasználására vonatkozó adatokat is, legkevesebb a bevezetést megelőzően 30 nappal.
+
+9\. A jelen Megállapodás 15 nappal a megállapodást tartalmazó jegyzékek kicserélését követően lép hatályba. A Megállapodás annak felmondásáig marad hatályban, amelyet bármely Szerződő Fél bármely időpontban a másik Félhez írásban 30 nappal korábban intézett értesítés útján megtehet.
+
+Tekintettel arra, hogy a fenti szöveg diplomata útlevéllel rendelkezőkre kielégítő szabályozást tartalmaz, a Szerződő Felek között a diplomata útlevelekre vonatkozó vízummentességről Athénban 1989. január 26-án létrejött Megállapodás a jelen Megállapodás hatálybalépésekor hatályát veszti.
+
+Ha a fenti javaslat elfogadható a Magyar Köztársaság Kormánya számára, ez a diplomáciai Jegyzék és a Nagykövetség válasza megvalósíthatja az Egyezményt a Görög Köztársaság Kormánya és a Magyar Köztársaság Kormánya között a vízumkényszer eltörlése tárgyában.
+
+A Görög Köztársaság Külügyminisztériuma felhasználja ezt az alkalmat, hogy ismételten biztosítsa a Magyar Köztársaság Nagykövetségét legmagasabb fokú megbecsüléséről.''
+
+A Magyar Köztársaság Nagykövetségének van szerencséje megerősíteni, hogy a fenti javaslat elfogadható a Magyar Köztársaság Kormánya számára.
+
+A Miniszter Jegyzéke és ez a Válaszjegyzék megvalósítja az Egyezményt a Magyar Köztársaság Kormánya és a Görög Köztársaság Kormánya között a vízumkényszer kölcsönös eltörléséről és 1991. március 19-én lép életbe.
+
+A Magyar Köztársaság Nagykövetsége felhasználja ezt az alkalmat, hogy újólag kifejezze a Görög Köztársaság Külügyminisztériumának legmélyebb tiszteletét.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. március 19. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 21. pontja szerint módosított szöveg.

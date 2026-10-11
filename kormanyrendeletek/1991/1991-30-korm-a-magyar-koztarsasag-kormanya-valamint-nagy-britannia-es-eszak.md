@@ -1,0 +1,250 @@
+---
+title: "30/1991. (II. 26.) Korm. rendelet a Magyar Köztársaság Kormánya valamint Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segélynyújtásról szóló Egyetértési Memorandum kihirdetéséről"
+identifier: "30/1991. (II. 26.) Korm. rendelet"
+njt_id: "1991-30-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/30"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-02-26
+in_force_from: 1991-02-26
+last_amended: 1991-02-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-30-20-22"
+retrieved: 2026-10-12
+---
+
+# 30/1991. (II. 26.) Korm. rendelet a Magyar Köztársaság Kormánya valamint Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segélynyújtásról szóló Egyetértési Memorandum kihirdetéséről[^1]
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya valamint Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segélynyújtásról szóló Egyetértési Memorandumot e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyetértési Memorandum magyar nyelvű szövege a következő:
+
+,,EGYETÉRTÉSI MEMORANDUM\
+a Magyar Köztársaság Kormánya és Nagy-Britannia\
+és Észak-Írország Egyesült Királyság Kormánya között a vámhatóságaik közötti kölcsönös adminisztratív segítségnyújtásról
+
+A Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Kormánya;
+
+Figyelembe véve, hogy a vámtörvények megszegése kárt okoz országaik gazdasági, pénzügyi és társadalmi érdekeinek;
+
+Figyelembe véve, hogy a kábítószerek és pszichotrop anyagok kereskedelme veszélyt jelent a közegészségügyre és a társadalomra;
+
+Figyelembe véve az áruk behozatala vagy kivitele esetén esedékes vámok, adók és más díjak pontos kivetésének, valamint a tilalmak, korlátozások és ellenőrzések megfelelő végrehajtásának fontosságát;
+
+Meggyőződve arról, hogy vámtörvények megszegésének megelőzésére és a vámok beszedésében a nagyobb pontosság elérésére irányuló erőfeszítéseket hatékonyabbá teszi a vámhatóságaik közötti szorosabb együttműködés révén;
+
+Tekintettel a kétoldalú kölcsönös segítségnyújtást elősegítő nemzetközi dokumentumokra az alábbiakban állapodtak meg:
+
+MEGHATÁROZÁSOK
+
+1\. Cikk
+
+A jelen Egyetértési Memorandum alkalmazásában:
+
+*a)* a ,,Vámhatóság'' kifejezés alatt a Magyar Köztársaságban a Vám- és Pénzügyőrséget, az Egyesült Királyságban Őfelsége Vámok és Közvetett Adók Igazgatóságát kell érteni;
+
+*b)* a ,,vámtörvény'' kifejezés alatt minden, az áruk behozatalával, kivitelével és átvitelével kapcsolatban a vámhatóságok által alkalmazott törvényi és adminisztratív rendelkezést kell érteni, beleértve:
+
+*(i)* a vámok, adók és más díjak beszedését, biztosítását vagy visszatérítését;
+
+*(ii)* tilalmakat, korlátozásokat vagy ellenőrzési intézkedéseket;
+
+*(iii)* a kábítószerek és pszichotrop anyagok illegális kereskedelmével kapcsolatos intézkedéseket;
+
+*c)* a ,,megszegés'' kifejezés alatt vámtörvények bármely megsértését vagy annak kísérletét kell érteni.
+
+A MEMORANDUM HATÁLYA
+
+2\. Cikk
+
+(1) A két Kormány vámhatóságaikon keresztül és a jelen Memorandumban lefektetett rendelkezésekkel összhangban kölcsönösen segítséget nyújtanak egymásnak:
+
+*a)* a vámtörvények megfelelő betartásának biztosítása érdekében;
+
+*b)* a vámtörvények megszegésének megelőzése, nyomozása és megtorlása érdekében;
+
+*c)* a vámtörvények alkalmazására vonatkozó okmányok kézbesítésével kapcsolatos esetekben.
+
+(2) A jelen Memorandum keretei között a segítséget annak az országnak a törvényeivel és jogszabályaival összhangban nyújtják, amelyikben a megkeresett vámhatóság működik és ezen vámhatóság hatáskörén belül és a rendelkezésére álló erőforrások keretei között.
+
+(3) A jelen Memorandum nem érinti a vámok, adók és más díjak behajtását.
+
+AZ INFORMÁCIÓK KÖZLÉSE
+
+3\. Cikk
+
+(1) A két vámhatóság megküld egymásnak, felkérésre vagy saját kezdeményezésre, minden olyan rendelkezésre álló információt, amely segíti a vámtörvény megfelelő alkalmazásának biztosítását.
+
+(2) Megkeresés esetén, ha a megkeresett vámhatóság nem rendelkezik a kért információval, saját belátása szerint intézkedéseket tesz az információ beszerzése érdekében saját vámtörvénye rendelkezéseivel összhangban.
+
+4\. Cikk
+
+A két vámhatóság megküldi egymásnak azon áruk jegyzékét, amelyek valószínűleg illegális forgalom tárgyát képezik területeik között. Ezeket a jegyzékeket szükség szerint felülvizsgálják.
+
+5\. Cikk
+
+Felkérésre, az egyik vámhatóság megküldi a másik vámhatóságnak az alábbi ügyekkel kapcsolatos információkat:
+
+*a)* a felkérő vámhatóság területére behozott árukat jogszerűen vitték-e ki a megkeresett vámhatóság területéről;
+
+*b)* a felkérő vámhatóság területéről kivitt árukat jogszerűen vitték-e be a megkeresett vámhatóság területére és az árukat, ha volt ilyen, milyen vámeljárásban kezelték.
+
+6\. Cikk
+
+A két vámhatóság — saját kezdeményezésére vagy felkérésre — megküldi egymásnak mindazokat a jelentéseket, bizonyítékokat vagy okmányok hitelesített másolatait, amelyek tartalmaznak minden rendelkezésre álló információt a vámtörvény megszegését vagy feltehető megszegését jelentő befejezett vagy tervezett cselekményekről.
+
+7\. Cikk
+
+A két vámhatóság tájékoztatja egymást, ha a csalások új módszereit derítik fel. Megküldik egymásnak a kérdéses módszereket leíró, nyomozószolgálataik által készített jelentések másolatait vagy kivonatait.
+
+8\. Cikk
+
+A jelen Memorandumban említett okmányokat helyettesíteni lehet az ugyanilyen célra bármilyen formában készített számítógépes információval. Az anyag értelmezéséhez vagy felhasználásához szükséges minden lényeges információt egyidejűleg kell megküldeni.
+
+9\. Cikk
+
+(1) Eredeti nyilvántartásokat és okmányokat csak olyan esetekben kérhetnek, amikor a hitelesített másolat elégtelen.
+
+(2) Az átadott eredeti nyilvántartásokat és okmányokat a lehető legrövidebb időn belül vissza kell küldeni.
+
+SZEMÉLYEK, ÁRUK, HELYSZÍNEK\
+ÉS SZÁLLÍTÓESZKÖZÖK MEGFIGYELÉSE
+
+10\. Cikk
+
+Mindkét vámhatóság — saját kezdeményezésére vagy a másik vámhatóság írásos megkeresésére — saját törvényei feltételei szerint és saját adminisztratív gyakorlatával összhangban különleges megfigyelést tart fenn egyebek között:
+
+*a)* a felkérő vámhatóság által alkalmazott vámtörvények alkalomszerű vagy szokásos megsértésével gyanúsított személyek mozgása, különösen a megkeresett vámhatóság területére történő belépése és az onnan való kilépése;
+
+*b)* a felkérő vámhatóság területén lényeges illegális kereskedelemhez vezető, a felkérő vámhatóság által jelzett gyanús áru- és fizetőeszközmozgás;
+
+*c)* a felkérő vámhatóság területén esetleg lényeges illegális kereskedelmet jelentő áruk raktározására használt helyek;
+
+*d)* a felkérő vámhatóság által alkalmazott a vámtörvények megszegéséhez feltehetőleg használt szállítóeszközök
+
+felett.
+
+Az ilyen adatgyűjtés eredményeit közlik a kérést előterjesztő vámhatósággal.
+
+NYOMOZÁSOK
+
+11\. Cikk
+
+(1) Ha az egyik vámhatóság úgy kéri, a másik vámhatóság minden hivatalos adatgyűjtést kezdeményezni fog azokkal a cselekményekkel kapcsolatban, amelyek a felkérő vámhatóság által alkalmazott vámtörvényeket sértik vagy feltehetőleg sértik. Az ilyen adatgyűjtés eredményeit késedelem nélkül közlik a kérést előterjesztő hatósággal.
+
+(2) Ezeket az adatgyűjtéseket a megkeresett vámhatóságra kötelező törvények és rendelkezések szerint folytatják le.
+
+12\. Cikk
+
+Az egyik vámhatóságnak a vámtörvényt sértő cselekmények nyomozására feljogosított tisztviselője a másik vámhatóság jóváhagyásával jelen lehet amikor az ilyen vámtörvényt sértő cselekmények nyomozását és felderítését célzó cselekményeket végeznek azon a területen, ahol a megkeresett vámhatóság működik, ha az ilyen vámtörvényt sértő cselekmények a megkereső vámhatóságnak az érdekkörében merülnek fel.
+
+SZAKÉRTŐK ÉS TANÚK
+
+13\. Cikk
+
+Ha azon ország bíróságai vagy hatóságai, ahol az egyik vámhatóság működik, így kérik az eléjük került vámtörvényt sértő cselekményekkel kapcsolatban, a megkeresett vámhatóság felhatalmazhatja tisztviselőit, hogy tanúként vagy szakértőként megjelenjenek az ilyen bíróságok vagy hatóságok előtt. Az ilyen tisztviselők bizonyítékot nyújtanak a hivatali tevékenységük során általuk megállapított tényekkel kapcsolatban, valamint olyan nyilvántartásokat, okmányokat, egyéb anyagokat vagy ezek hitelesített másolatait terjesztik elő, amelyeket az eljárás szempontjából lényegesnek tarthatnak.
+
+A LÁTOGATÓ TISZTVISELŐKKEL KAPCSOLATOS INTÉZKEDÉSEK
+
+14\. Cikk
+
+Amikor a jelen Memorandum által előírt esetekben az egyik vámhatóság tisztviselői jelen vannak azon a területen, ahol a másik vámhatóság működik, nekik mindig képesnek kell lenniük bizonyítani hivatalos minőségüket. Amíg ott tartózkodnak ugyanazt a védelmet élvezik, mint a hazai vámtisztviselők az ott hatályban levő törvényeknek megfelelően. Nem viselhetnek sem egyenruhát, sem fegyvert.
+
+AZ INFORMÁCIÓK ÉS OKMÁNYOK FELHASZNÁLÁSA
+
+15\. Cikk
+
+(1) A beszerzett információkat, közléseket és okmányokat kizárólag a jelen Memorandum céljaira lehet felhasználni, kivéve azokat az eseteket, amikor az egyik vámhatóságnak — saját törvényei értelmében — kötelessége értesíteni a törvényt sértő vagy feltehetőleg törvényt sértő cselekményekről egy másik állam illetékes hatóságait vagy egy Vámunió Igazgatóságát és a tájékoztatást adó vámhatóság ehhez kifejezetten írásban hozzájárul és a tájékoztatást fogadó vámhatóságra vonatkozó törvények az ilyen felhasználást megengedik.
+
+(2) A jelen Memorandum értelmében az egyik vámhatóságnak átadott kéréseket, információkat, szakértői jelentéseket és más közléseket ugyanolyan védelemben részesítik azon a területen, ahol ez a vámhatóság működik, mint a hasonló természetű okmányokat és információkat saját nemzeti törvényei szerint.
+
+16\. Cikk
+
+(1) A tájékoztatást fogadó vámhatóság jelen Memorandum céljaival összhangban és tárgyi hatályának keretei között saját bizonyítékaikban, jelentéseikben és vallomásaikban, valamint a bíróság elé vitt eljárásaikban és vádemeléseikben bizonyítékként felhasználhatják a jelen Memorandumnak megfelelően beszerzett információkat és okmányokat.
+
+(2) Az ilyen információknak és okmányoknak bíróságokon bizonyítékként való felhasználását és a nekik tulajdonított súlyt azon ország nemzeti jogi rendszerének megfelelően határozzák meg, ahol a felkérő vámhatóság működik.
+
+OKMÁNYOK KÉZBESÍTÉSE
+
+17\. Cikk
+
+(1) Az egyik vámhatóság felkérésére a másik vámhatóság kézbesíti azon ország illetékes hatóságai által saját vámtörvényeinek alkalmazása során folytatott eljárásaival és ezen hatóságok által hozott határozatokkal kapcsolatos iratokat a területen lakó vagy bejegyzett személyhez vagy személyekhez, ahol a felkérő vámhatóság működik.
+
+(2) Iratok kézbesítését a jelen Memorandum szerint azon ország törvényeinek és gyakorlatának megfelelően végzik, ahol a megkeresett vámhatóság működik. A kézbesítés iránti kérés az irat rövid tartalmát tartalmazza.
+
+(3) Ha a megkereső vámhatóság úgy kívánja, a kézbesítést meghatározott módon végzik, feltéve, hogy a kért eljárás teljesíthető azon ország törvényei és gyakorlata szerint, ahol a megkeresett vámhatóság működik.
+
+(4) A kézbesítés bizonyítéka lehet egy, az érintett személy által igazolt és keltezéssel ellátott átvételi elismervény vagy a megkeresett vámhatóság igazolása, amely jelzi a kézbesítés módját és idejét.
+
+A NYOMOZÓSZOLGÁLATOK KÖZÖTTI SEGÍTSÉGNYÚJTÁS
+
+18\. Cikk
+
+A jelen Memorandum szerinti bármilyen információt csak a magyar Vám- és Pénzügyőrség vezetője, illetve Őfelsége Vámok és Közvetett Adók igazgatói által kijelölt tisztviselők között lehet átadni.
+
+A SEGÍTSÉGNYÚJTÁSI KÖTELEZETTSÉG ALÓLI KIVÉTELEK
+
+19\. Cikk
+
+(1) Ha az egyik vámhatóság úgy véli, hogy a tőle kért segítségnyújtás kárt okozhat azon ország nyilvános politikájának vagy szuverenitásának, biztonságának vagy más lényeges érdekeinek, ahol az működik, vagy ipari, kereskedelmi vagy szakmai titok megsértését eredményezhetné, visszautasíthatja a segítségnyújtást vagy bizonyos feltételek teljesítéséhez kötheti azt.
+
+(2) Ha a segítségnyújtást visszautasítják, a visszautasításról hozott döntést és annak okát haladéktalanul írásban közölni kell.
+
+20\. Cikk
+
+Ha az egyik vámhatóság olyan segítséget kér, amelyet ő maga nem tudna teljesíteni, ha azt a másik kérné, a kérésében felhívja erre a körülményre a figyelmet. Az ilyen kérés teljesítése kizárólag a megkeresett vámhatóság belátásán múlik.
+
+KÖLTSÉGEK
+
+21\. Cikk
+
+Mindkét vámhatóság lemond a jelen Memorandum végrehajtásával kapcsolatban felmerülő költségek megtérítésének igényéről, kivéve a 13. cikkben említett tisztviselőknek fizetett ellátmányt és a tolmácsok ellátmányát. Az ilyen ellátmányt az a hatóság fizeti, amely kérte, hogy a tisztviselőket idézzék meg tanúként vagy szakértőként.
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+22\. Cikk
+
+(1) A jelen Memorandum rendelkezéseit a Magyar Köztársaság és Nagy-Britannia és Észak-Írország Egyesült Királyság területén alkalmazzák.
+
+(2) A jelen Memorandum szerint előírt segítséget közvetlenül a két vámhatóság között nyújtják.
+
+(3) A két vámhatóság közösen határozza meg azokat a részletes intézkedéseket, amelyek a jelen Memorandum végrehajtásához szükségesek.
+
+(4) A jelen Memorandum értelmezésében esetleg felmerült bármely nézeteltérést diplomáciai úton rendezik.
+
+HATÁLYBALÉPÉS ÉS MEGSZŰNÉS
+
+23\. Cikk
+
+(1) Mindkét Kormány értesíti a másikat, amikor teljesítették a jelen Egyetértési Memorandum hatályba léptetéséhez szükségesnek tartott alkotmányos eljárásokat. Az Egyetértési Memorandum az utolsó ilyen kormány-értesítés keltének napján lép hatályba.
+
+(2) A két vámhatóság találkozni fog a jelen Memorandum feltételeinek áttekintése céljából a memorandum hatályba lépésének napjától számított minden három év elteltével, hacsak írásban másképpen meg nem egyeznek.
+
+(3) A jelen Memorandumot bármely Állam Kormánya megszüntetheti a másik Kormányhoz írásban intézett hat hónapos felmondással.
+
+A fenti feljegyzés a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királyság Kormánya között elért egyetértést képez.
+
+Készült Budapesten, az 1990. év szeptember hónapjának 28-ik napján, két példányban, magyar és angol nyelveken, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Nagy-Britannia
+
+Kormánya nevében: és Észak-Írország
+
+Egyesült Királyság
+
+Kormánya nevében:
+
+*Dr. Balogh György Sir Brian Unwin''*
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az Egyetértési Memorandum 23. Cikke (1) bekezdésében meghatározott időponttól kell alkalmazni.
+
+---
+
+[^1]: A Magyar Közlöny 1991. évi 27. számában közzétett helyesbítésnek megfelelő szöveg.

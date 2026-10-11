@@ -1,0 +1,182 @@
+---
+title: "222/2006. (XI. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös kapcsolattartási szolgálati helyeken történő együttműködésről szóló Megállapodás kihirdetéséről"
+identifier: "222/2006. (XI. 17.) Korm. rendelet"
+njt_id: "2006-222-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/222"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-11-17
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-222-20-22"
+retrieved: 2026-10-12
+---
+
+# 222/2006. (XI. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös kapcsolattartási szolgálati helyeken történő együttműködésről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös kapcsolattartási szolgálati helyeken történő együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a közös kapcsolattartási szolgálati helyeken történő együttműködésről
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+– a Magyar Köztársaság és a Szlovák Köztársaság között a határokat átlépő bűnözés megelőzésében és a szervezett bűnözés elleni harcban folytatott együttműködésről szóló Egyezmény (a továbbiakban: a bűnüldöző szervek közötti együttműködésről szóló Egyezmény) 20. cikkének (5) bekezdésében foglalt felhatalmazás alapján,
+
+– szem előtt tartva a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló, Pozsonyban, 2003. október 9. napján aláírt Egyezményben (a továbbiakban: Egyezmény) foglaltakat,
+
+– utalva a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Pozsonyban, 2003. október 9. napján aláírt Megállapodásban (a továbbiakban: a határforgalom ellenőrzéséről szóló Megállapodás) foglaltakra,
+
+az alábbiakban állapodtak meg:
+
+*1. cikk*
+
+*A közös kapcsolattartási szolgálati helyek*
+
+(1) A Szerződő Felek a határforgalom ellenőrzéséről szóló Megállapodás 33. cikkében meghatározott közös kapcsolattartási szolgálati helyek (a továbbiakban: szolgálati helyek) tevékenységét a bűnüldöző szervek közötti együttműködésről szóló Egyezmény 20. cikkének (1) bekezdése alapján, az e Megállapodásban szereplő együttműködéssel kiegészítik.
+
+(2) A Szerződő Felek a szolgálati helyek munkahelyeit a határforgalom ellenőrzéséről szóló Megállapodás 34. cikkében meghatározott módon és feltételekkel alakítják ki. Mindkét Szerződő Fél, a jelen Megállapodás 2. cikkében meghatározott, szolgálati helyen szolgálatot teljesítő személyei részére saját maga biztosítja a jelen Megállapodásban meghatározott tevékenység ellátásához szükséges berendezést, valamint a telekommunikációs és informatikai eszközöket.
+
+(3) A Szerződő Felek a szolgálati helyeken a távközlési és adatkezelő berendezések elhelyezését és a szükséges csatlakozásokat oly módon alakítják ki, hogy a szolgálati helyeken szolgálatot teljesítő személyek közötti információcsere, illetve az adattovábbítás a lehető leghatékonyabb módon valósuljon meg.
+
+(4) A szolgálati helyek elnevezését, nyitvatartási idejét magyar és szlovák nyelven kell feltüntetni. A szolgálati helyeket címerrel és zászlóval kell megjelölni.
+
+*2. cikk*
+
+*A szolgálati helyeken szolgálatot teljesítő személyek*
+
+A szolgálati helyeken az alábbi személyek működnek együtt:
+
+*a)* a magyar Szerződő Fél részéről:
+
+– a bűnüldöző szervek közötti együttműködésről szóló Egyezmény 1. cikkének 1. pontjában meghatározott bűnüldöző szervek tagjai,
+
+– az Egyezmény 2. cikkének *b)* pontjában meghatározott szolgálati személyek,
+
+– a Bevándorlási és Állampolgársági Hivatal kijelölt tagjai;
+
+*b)* a szlovák Szerződő Fél részéről:
+
+– a bűnüldöző szervek közötti együttműködésről szóló Egyezmény 1. cikkének 1. pontjában meghatározott bűnüldöző szervek tagjai,
+
+– az Egyezmény 2. cikkének *b)* pontjában meghatározott szolgálati személyek.
+
+*3. cikk*
+
+*Együttműködés a szolgálati helyeken*
+
+(1) A szolgálati helyeken szolgálatot teljesítő személyek együttműködése az alábbi területekre terjed ki:
+
+*a)* az államhatár ellenőrzését érintő információk közvetlen kicserélésére, azok elemzésére;
+
+*b)* a határforgalom egyszerűsítésére, gyorsítására és összehangolására;
+
+*c)* a bűnüldöző szervek közötti együttműködésről szóló Egyezményben meghatározott közvetlen információcserére;
+
+*d)* segítségnyújtásra a bűnüldöző szervek közötti együttműködésről szóló Egyezményben meghatározott együttműködési formák összehangolására;
+
+*e)* a Szerződő Felek között létrejött hatályos nemzetközi szerződések alapján a személyek átadásának és visszafogadásának előkészítésére, illetve az abban való közreműködésre;
+
+*f)* az illegális migráció és az azt kísérő jogellenes cselekmények elleni közös fellépésre vonatkozó együttműködési formák összehangolására;
+
+*g)* együttműködésre azon személyekre vonatkozó információk cseréjében, akiknek az Európai Unió területére történő beutazására és tartózkodására vonatkozó tilalom érvényesítéséről döntés született;
+
+*h)* a kiutasítási intézkedések végrehajtására vonatkozó összehangolt fellépésre és együttműködésre;
+
+*i)* helyzetjelentések és elemzések készítésére a szolgálati helyek tevékenységéről, az elért eredményekről; szükség esetén javaslattételre a szolgálati helyeken történő együttműködés javítására.
+
+(2) A Szerződő Felek lehetővé teszik, hogy a szolgálati helyeken a mélységi mobil ellenőrző csoportok, a felmerült igények alapján, a feladataikat összehangolják.
+
+(3) A szolgálati helyeken szolgálatot teljesítő személyek a bűnüldöző szervek közötti együttműködésről szóló Egyezményben, és a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között, személyeknek a közös államhatáron történő visszafogadásáról szóló, Budapesten, 2002. szeptember 12. napján aláírt Egyezményben meghatározott adatokat, az ott meghatározott feltételekkel adhatják át egymásnak, továbbíthatják, illetve kezelhetik.
+
+(4) Az (1) bekezdés *g)* és *h)* pontjaiban meghatározott együttműködés keretében, az ezen együttműködésben részt vevő hatóságok az általuk kezelt személyes adatokat feladataik ellátása céljából, belső jogszabályaikban foglaltaknak megfelelően átadhatják egymásnak, illetve kezelhetik az átvett személyes adatokat.
+
+(5) A szolgálati helyek szervezeti felépítését és működésének részletes szabályait a Szerződő Felek illetékes központi hatóságai által egyetértésben elkészített Szervezeti és Működési Szabályzat tartalmazza. A Szerződő Felek ezen illetékes központi hatóságokról írásban, közvetlenül tájékoztatják egymást.
+
+*4. cikk*
+
+*A beutazás, a kiutazás és a tartózkodás feltételei*
+
+A szolgálati helyeken szolgálatot teljesítő személyek a jelen Megállapodásból származó feladataik végrehajtása érdekében a másik Szerződő Fél államának területére érvényes, fényképpel ellátott szolgálati igazolvánnyal vagy az Egyezmény 13. cikkében meghatározott érvényes határátlépési igazolvánnyal léphetnek, és ott e feladat ellátásának idejéig tartózkodhatnak.
+
+*5. cikk*
+
+*Szolgálati viszonyok*
+
+(1) A szolgálati helyeken szolgálatot teljesítő személyek a 3. cikkben meghatározottakon túl nem jogosultak önálló intézkedésre, és nemzeti hatóságaik irányítási és fegyelmi jogköre alá tartoznak.
+
+(2) A szolgálati helyeken szolgálatot teljesítő személyek védelméről, az Egyezmény 15. cikkének (1) bekezdésében, valamint a bűnüldöző szervek közötti együttműködésről szóló Egyezmény 25. cikkének (2) bekezdésében foglaltaknak megfelelően, azon Szerződő Fél gondosodik, amelynek államterületén a szolgálati hely működik.
+
+(3) A szolgálati helyeken szolgálatot teljesítő személyek büntetőjogi felelősségére az Egyezmény 15. cikkének (1) bekezdésében, illetve a bűnüldöző szervek közötti együttműködésről szóló Egyezmény 26. cikkében foglalt rendelkezések az irányadók.
+
+*6. cikk*
+
+*A költségek viselése*
+
+(1) A szolgálati helyeken szolgálatot teljesítő személyek szolgálati viszonyával összefüggő költségeit mindegyik Szerződő Fél saját maga viseli.
+
+(2) A szolgálati helyek üzemeltetésének, karbantartásának módjáról, ezen költségek viseléséről a Szerződő Felek illetékes szervei a szolgálati helyek üzemeltetőjével külön szerződésben állapodnak meg.
+
+*7. cikk*
+
+*Más nemzetközi szerződésekhez való viszony*
+
+A jelen Megállapodás nem érinti a Magyar Köztársaság és a Szlovák Köztársaság egyéb nemzetközi szerződésekben szereplő jogait és kötelezettségeit.
+
+*8. cikk*
+
+*A viták rendezése*
+
+A jelen Megállapodás értelmezéséből vagy alkalmazásából eredő vitákat a Magyar Köztársaság belügyminisztériuma és a Szlovák Köztársaság belügyminisztériuma tárgyalások útján, annak eredménytelensége esetén diplomáciai úton rendezi.
+
+*9. cikk*
+
+*Záró rendelkezések*
+
+(1) A jelen Megállapodás a Magyar Köztársaság és a Szlovák Köztársaság között a határokat átlépő bűnözés megelőzésében és a szervezett bűnözés elleni harcban folytatott együttműködésről szóló Egyezmény hatálybalépésével egyidejűleg lép hatályba.
+
+(2) A jelen Megállapodás hatálybalépésével egyidejűleg a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a terrorizmus, a kábítószer tiltott forgalma és az egyéb szervezett bűnözés elleni küzdelemben történő együttműködésről szóló, Budapesten, 1995. június 28-án aláírt Megállapodás hatályát veszti.
+
+(3) A jelen Megállapodás hatálybalépésével egyidejűleg a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Pozsonyban, 2003. október 9. napján aláírt Megállapodás 36. cikkének (2) bekezdése hatályát veszti.
+
+(4) A Magyar Köztársaság és a Szlovák Köztársaság között a határokat átlépő bűnözés megelőzésében és a szervezett bűnözés elleni harcban folytatott együttműködésről szóló Egyezmény megszűnésének napján a jelen Megállapodás hatályát veszti. A jelen Megállapodást bármelyik Szerződő Fél diplomáciai úton, írásban bármikor felmondhatja, mely így a felmondásról szóló jegyzék kézhezvételét követő hatodik (6.) hónapot követő napon hatályát veszti.
+
+(5) Mindkét Szerződő Fél a jelen Megállapodás alkalmazását részben vagy egészben átmenetileg felfüggesztheti, amennyiben az sérti vagy veszélyezteti szuverenitását, biztonságát, közrendjét, vagy ha az a Szerződő Felek belső jogszabályaival ellentétes. Az ilyen intézkedések meghozataláról vagy visszavonásáról a Szerződő Felek diplomáciai úton haladéktalanul tájékoztatják egymást. A jelen Megállapodás végrehajtásának felfüggesztése, illetve annak visszavonása az erről szóló értesítésben megjelölt időpontban lép hatályba.
+
+(6) Jelen Megállapodást a Szerződő Felek kölcsönös egyetértéssel írásban módosíthatják.
+
+Készült Pozsonyban, 2006. október 2. napján, két eredeti példányban, magyar és szlovák nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+*(Aláírások)”*
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2)[^3] E rendelet 2. és 3. §-a a Megállapodás 9. cikkének (1) bekezdésében meghatározott időpontban lép hatályba.
+
+(3) E rendelet 2. és 3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatában állapítja meg.[^4]
+
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről a rendészetért felelős miniszter és az adópolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 9. cikkének (1) bekezdésében meghatározott időpontban lép hatályba. A 19/2007. (VI. 8.) KüM határozat alapján a hatálybalépés napja 2007. május 1.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 9. cikkének (1) bekezdésében meghatározott időpontban lép hatályba. A 19/2007. (VI. 8.) KüM határozat alapján a hatálybalépés napja 2007. május 1.
+[^3]: A 4. § (2) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 265. pontja szerint módosított szöveg.
+[^4]: Lásd a 19/2007. (VI. 8.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 199. pontja szerint módosított szöveg.

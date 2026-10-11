@@ -1,0 +1,146 @@
+---
+title: "55/1995. (V. 17.) Korm. rendelet a tudományos továbbképzés befejezésének feltételeiről, a külföldön szerzett tudományos fokozat hazai elismeréséről és a kandidátusi fokozattal járó illetménykiegészítésről"
+identifier: "55/1995. (V. 17.) Korm. rendelet"
+njt_id: "1995-55-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/55"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-05-17
+in_force_from: 2005-02-20
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-55-20-22"
+retrieved: 2026-10-12
+---
+
+# 55/1995. (V. 17.) Korm. rendelet a tudományos továbbképzés befejezésének feltételeiről, a külföldön szerzett tudományos fokozat hazai elismeréséről és a kandidátusi fokozattal járó illetménykiegészítésről
+
+A Kormány a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya a tudományos továbbképzésben részt vevő ösztöndíjasokra, a tudományos továbbképzést végző szervekre, a továbbképzést irányító szervre, továbbá a tudomány kandidátusaira, valamint a nemzetközi egyezmény vagy szerződés alapján a ,,tudomány doktora'', illetőleg a ,,tudomány kandidátusa'' fokozottal egyenértékű, külföldi tudományos fokozattal rendelkező személyekre terjed ki.
+
+(2) E rendelet alkalmazásában
+
+a) tudományos továbbképzésben részt vevő ösztöndíjas az, aki 1995. január 19-én a Tudományos Minősítő Bizottsággal
+
+— belföldi ösztöndíjasként,
+
+— belföldi levelező ösztöndíjasként,
+
+— külföldön levelező tudományos továbbképzésben részt vevő ösztöndíjasként,
+
+— külföldi ösztöndíjasként,
+
+— külföldi levelező ösztöndíjasként
+
+(a továbbiakban együtt: ösztöndíjas) tudományos továbbképzési jogviszonyban állt;
+
+b) tudományos továbbképzést végző szerv az az egyetem, kutatóintézet vagy más kutatóhely, amely 1995. január 20-án a Tudományos Minősítő Bizottsággal együttműködve, a tudományos továbbképzésben részt vevő ösztöndíjas képzését végezte;
+
+c) tudományos továbbképzést irányító szerv — a Tudományos Minősítő Bizottság jogutódjaként — a Magyar Tudományos Akadémia Doktori Tanácsa (a továbbiakban: Doktori Tanács).
+
+(3) Azokra a nem magyar állampolgárokra, akik külföldi ösztöndíjasként vagy külföldi levelező ösztöndíjasként vesznek részt tudományos továbbképzésben, e rendelet szabályait kell megfelelően alkalmazni.
+
+## 2. §
+
+(1) A tudományos továbbképzési jogviszony a képzési idő elteltével vagy a képzés megszüntetésével szűnik meg.
+
+(2) A tudományos továbbképzés időtartama 36 hónap, amely nem hosszabbítható meg. A képzés legfeljebb 18 hónapig a Doktori Tanács engedélyével szüneteltethető. A szünetelés a képzés időtartamába nem számítható be.
+
+(3) A tudományos továbbképzés szüneteltetését a következő esetekben lehet engedélyezni az ösztöndíjas kérelmére:
+
+— szülési szabadság,
+
+— gyermekgondozás, ápolás céljából igénybe vett fizetés nélküli szabadság,
+
+—[^1] három hónapot meghaladó keresőképtelenséggel járó betegállomány,
+
+— egy hónapot meghaladó — a tudományos továbbképzés céljának megfelelő — külföldi tanulmányút.
+
+(4) Tekintet nélkül a képzés egyéni szüneteltetésére, 1997. június 30-ával az e rendelet hatálya alá tartozó tudományos továbbképzés megszűnik.
+
+## 3. §
+
+(1) A tudományos továbbképzési jogviszonyt meg kell szüntetni, ha
+
+a) azt az ösztöndíjas kéri,
+
+b) a tudományos továbbképzés eredményes befejezése nem várható,
+
+c) a továbbképzést végző szerv megszűnik és más szakmailag illetékes szerv fogadókészséget nem nyilvánít.
+
+(2) A tudományos továbbképzést a képzési idő letelte előtt meg kell szüntetni az (1) bekezdés *b)* pontja alapján, ha az ösztöndíjas egy vizsgát ismételten elégtelen minősítéssel tesz le.
+
+(3) A tudományos továbbképzési jogviszony megszüntetéséről a Doktori Tanács dönt.
+
+## 4. §
+
+(1) Az ösztöndíjas joga és kötelezettsége, hogy jóváhagyott egyéni tanulmányi és munkaterve alapján, tudományos vezetője irányításával elsajátítsa az önálló kutatómunkához szükséges ismereteket. Szakmai előrehaladását tudományos vezetője, a továbbképzést végző szerv vezetője és a Doktori Tanács ellenőrzi.
+
+(2) Az ösztöndíjas, ha valamennyi vizsgakötelezettségének eleget tesz 1997. június 30-áig, a kandidátusi fokozat megszerzése érdekében értekezését legkésőbb 1997. szeptember 1-jéig nyújthatja be a Doktori Tanácshoz.
+
+## 5. §
+
+Ha a belföldi ösztöndíjas tudományos továbbképzési jogviszonya a továbbképzési idő letelte előtt, vagy a képzési idő leteltével, de eredménytelenül szűnik meg, a részére ösztöndíjként már kifizetett illetmény és pótlék visszakövetelésének nincs helye.
+
+## 6. §
+
+Ha a belföldi ösztöndíjas ösztöndíj-jogosultságának időtartama alatt egy hónapot meghaladó időtartamú külföldi ösztöndíjat vagy tanulmányok folytatására külföldi meghívást nyer el, a távollét idejére fizetés nélküli szabadságot kérhet. A Doktori Tanács a kérelmet az ösztöndíjas tudományos fejlődését, kutatói munkáját figyelembe véve bírálja el. A fizetés nélküli szabadság engedélyezése esetén, annak időtartamára a tudományos továbbképzés szünetel.
+
+## 7. §
+
+A belföldi ösztöndíjas tudományos továbbképzési jogviszonyára mindazokban az esetekben, amelyekről a jelen rendelet nem tartalmaz előírást, az ösztöndíjassal a felvételkor kötött megállapodásban foglaltakat kell alkalmazni.
+
+## 8. §[^2]
+
+A belföldi levelező és a külföldön levelező tudományos továbbképzésben részt vevő ösztöndíjasok munkaviszonyának, közalkalmazotti, közszolgálati, kormányzati szolgálati vagy állami szolgálati jogviszonyának fennállását a tudományos továbbképzési jogviszony nem érinti.
+
+## 9. §
+
+(1) A tudományos továbbképzés befejezésének pénzügyi fedezetét az éves központi költségvetés Magyar Tudományos Akadémia fejezetében kell biztosítani.
+
+(2) A tudományos továbbképzésben közreműködő tudományos vezetők tiszteletdíja képzési évenként 12 000 Ft, amelynek a kifizetéséről a Doktori Tanács gondoskodik.
+
+(3) A nemzetközi megállapodás alapján tudományos továbbképzésben részt vevő nem magyar állampolgárok ösztöndíját és egyéb juttatásait a nemzetközi megállapodások tartalmazzák.
+
+## 10. §
+
+Ha nemzetközi egyezmény vagy szerződés kimondja külföldi tudományos fokozatnak a ,,tudomány kandidátusa'' vagy a ,,tudomány doktora'' magyar tudományos fokozattal való egyenértékűségét, a külföldön szerzett tudományos fokozat honosításáról — érdemi vizsgálat lefolytatása alapján — a Doktori Tanács dönt.
+
+## 11. §
+
+(1) A tudomány kandidátusa fokozattal rendelkező személy a fokozat megszerzését követő hónap 1. napjától öt éven keresztül havi 3000 Ft illetménykiegészítésre jogosult.
+
+(2) Az illetménykiegészítés folyósításáról a Doktori Tanács gondoskodik.
+
+## 11/A. §[^3]
+
+(1) Annak a tudomány kandidátusának, akinek nyugdíját 1989. április 1. napjától — az illetménykiegészítésének megszűnésére tekintettel — havi 1000 forinttal felemelték, ezen emelt összeggel kell nyugdíját továbbra is folyósítani.
+
+(2) Annak a tudomány kandidátusa özvegyének, akinek özvegyi nyugdíját 1989. április 1. napjától havi 500 forinttal, a tudomány kandidátusa szülőjének szülői nyugdíját, árvájának árvaellátását 250 forinttal felemelték, ezen emelt összeggel kell nyugdíját, árvaellátását továbbra is folyósítani.
+
+(3)[^4] A társadalombiztosításról szóló 1975. évi II. törvény 65/A. §-ában említett és külön jogszabályban meghatározott határösszeg szempontjából továbbra is figyelmen kívül kell hagyni:
+
+— az (1) és (2) bekezdésben foglaltaknak megfelelő mindenkori összeget,
+
+— a Magyar Tudományos Akadémia által az 1987. április 30-ig érvényes rendelkezések alapján az akadémikus hozzátartozójának megállapított és folyósított, majd a nyugdíjfolyósító szervnek folyósításra átadott, és az érdekeltet ezen a címen mindenkor megillető összeget,
+
+— a tudomány doktorát, illetőleg özvegyét ezen a címen mindenkor megillető összeget.
+
+(4) Az (1)—(3) bekezdésben megjelölt ellátások fedezetét és a végrehajtás költségeit a központi költségvetésből — félévenként — a Nyugdíjbiztosítási Alapnak meg kell téríteni.
+
+## 12. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, az ösztöndíj, a tiszteletdíj és az illetménykiegészítés folyósítására vonatkozó rendelkezéseit 1995. január 20. napjától kell alkalmazni.
+
+(2) A tudományos továbbképzés és a tudományos minősítés szabályainak módosításáról szóló 5/1989. (I. 13.) MT rendelet, valamint a tudományos továbbképzésről szóló 72/1982. (XII. 10.) MT rendelet módosításáról szóló 105/1992. (VI. 26.) Korm. rendelet 1995. január 20-án hatályát veszti.
+
+---
+
+[^1]: A 2. § (3) bekezdésének harmadik gondolatjeles bekezdése a 28/2005. (II. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 8. § a 217/2016. (VII. 22.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 11/A. §-t a 171/1995. (XII. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^4]: A 11/A. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 13. §-a szerint módosított szöveg.

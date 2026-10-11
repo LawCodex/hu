@@ -1,0 +1,202 @@
+---
+title: "123/2008. (V. 9.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között Budapesten, az 1968. évi február hó 14. napján aláírt kulturális egyezmény kihirdetéséről"
+identifier: "123/2008. (V. 9.) Korm. rendelet"
+njt_id: "2008-123-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/123"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-05-09
+in_force_from: 2008-05-10
+last_amended: 2022-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-123-20-22"
+retrieved: 2026-10-12
+---
+
+# 123/2008. (V. 9.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között Budapesten, az 1968. évi február hó 14. napján aláírt kulturális egyezmény kihirdetéséről
+
+## (Az Egyezmény a Magyar Köztársaság vonatkozásában 1970. január 27-én nemzetközi jogilag hatályba lépett.)
+
+### 1. §
+
+A Kormány a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között Budapesten, az 1968. évi február hó 14. napján aláírt kulturális Egyezményt (a továbbiakban: Egyezmény) e rendelettel kihirdeti.
+
+### 2. §
+
+Az Egyezmény hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**„Cultural agreement between the Government of the Hungarian People's Republic and the Government of the Kingdom of the Netherlands**
+
+The Government of the Hungarian People's Republic and the Government of the Kingdom of the Netherlands being desirous of promoting co-operation between the two countries in the fields of education, science and culture, and convinced that such co-operation will contribute to a better understanding between the two nations, have decided to conclude a cultural agreement and have agreed as follows:
+
+*Article 1*
+
+In order to promote co-operation between the two countries in the fields of science, education and social welfare, the Contracting Parties undertake in particular, and on a basis of reciprocity:
+
+*a)* to further the exchange of, and contacts between, university professors, other scholars and students, social welfare officials, as co-operation between the universities and other scientific institutions;
+
+*b)* to promote the similar fashion co-operation between specialists and institutions active in the field of secondary education, including technical and artistic education;
+
+*c)* to provide scholarships in order to enable nationals of the other country to study at their scientific educational and social welfare institutions or to visit the respective countries for study purposes, including the participation in summer courses;
+
+*d)* promoting tourism by facilitating free contacts and other means that may contribute to a better understanding of the way of life, work and culture of the other country;
+
+*e)* promoting co-operation between sport- organizations and sport-federations;
+
+*f)* to facilitate the access to libraries, archives, museums and cultural and scientific institutions for scientists and research workers in the respective countries;
+
+*g)* fostering the exchange of books, periodicals and other publications of scientific, technical and cultural nature between libraries and other institutions of both countries;
+
+*h)* to determine through mutual consultation the value to be attributed to the certificates and academic titles awarded by the institutions of the other country.
+
+*Article 2*
+
+In order to promote in their respective countries a better knowledge of the culture of the other country, the Contracting Parties shall encourage exchange visits and other contacts between persons active in the fields of culture, such as authors, composers, choreographers, artists, art critics, and specialists in mass media, social welfare, popular education, youth training and sports.
+
+With the same object in view the Contracting Parties shall, on a basis of reciprocity, assist each other as much as possible in:
+
+*a)* establishing and further developing professorships, lectureships and courses on the language, culture and civilization of the other country at their respective universities and other educational and research institutes;
+
+*b)* having translations made of literary works from the other country;
+
+*c)* organizing art exhibitions and other exhibitions of a cultural nature;
+
+*d)* organizing conferences, concerts and theatrical performances;
+
+*e)* organizing radio and television broadcasts and disseminating gramophone records and similar aids;
+
+*f)* disseminating books, periodicals and other publications;
+
+*g)* showing scientific, educational and cultural films.
+
+*Article 3*
+
+The Contracting Parties shall set up a mixed committee whose duty it shall be, in application of Articles 1 and 2, to recommend to the two Governments a programme of activities for a period of two years at a time; the programme shall be accompanied by suggestions as to the financing of its various parts. Each Contracting Party shall submit its decisions concerning the recommendations and suggestions of the mixed committee to the other Party through the ordinary diplomatic channels.
+
+*Article 4*
+
+The committee shall consist of not more than ten members; each Contracting Party shall appoint an equal number of members.
+
+*Article 5*
+
+The mixed committee shall in principle meet every two years, alternately in Hungary and in the Netherlands.
+
+The respective diplomatic representatives of each of the Contracting Parties shall be invited to attend the meetings of the committee. The members may be assisted at the meetings by a limited number of specialists.
+
+The meetings shall be presided over by a member of the committee belonging to the country in which the meeting is held.
+
+*Article 6*
+
+As regards the Kingdom of the Netherlands the present Agreement shall apply to the Kingdom in Europe.
+
+*Article 7*
+
+The Agreement shall be ratified and the instruments of ratification shall be exchanged as soon as possible at the Hague.
+
+The Agreement shall enter into force on the date on which the instruments of ratification are exchanged.
+
+*Article 8*
+
+The present Agreement shall remain in force for a period of five years. If it has not been denounced six months before the date of its termination, it shall be tacitly renewed. However, either Contracting Party shall then have the right to denounce the Agreement at any time by giving six months' notice to the other Contracting Party.
+
+In witness whereof the respective plenipotentiaries have signed the present Agreement and affixed their seals thereto.
+
+Done at Budapest on 14<sup>th</sup> February, 1968, in duplicate, in the English language.
+
+For the Government\
+of the Hungarian People's\
+Republic
+
+For the Government\
+of the Kingdom\
+of the Netherlands
+
+Kulturális egyezmény\
+a Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya között
+
+A Magyar Népköztársaság Kormánya és a Holland Királyság Kormánya attól az óhajtól vezérelve, hogy elősegítsék a két ország közötti oktatási, tudományos és kulturális együttműködést és azzal a meggyőződéssel, hogy az ilyen együttműködés elősegíti a két nemzet közötti jobb megértést, elhatározták, hogy kulturális egyezményt kötnek, s a következőkben állapodnak meg:
+
+*1. Cikk*
+
+A két ország közötti tudományos, oktatási és a népjóléttel kapcsolatos együttműködés elősegítése céljából a Szerződő Felek a kölcsönösség alapján különösen a következőket vállalják:
+
+*a)* elősegítik az egyetemi tanárok, oktatók és hallgatók, valamint a népjóléttel kapcsolatos feladatokat ellátó tisztviselők közötti kapcsolatokat és cseréket, s támogatják az egyetemek és egyéb tudományos intézetek közötti együttműködést;
+
+*b)* hasonlóképpen elősegítik az együttműködést a szakemberek és a középfokú oktatási intézmények között, ideértve a műszaki és művészeti oktatási intézményeket is;
+
+*c)* ösztöndíjakat biztosítanak azzal a céllal, hogy lehetőséget nyújtsanak a másik ország állampolgárainak tanulmányok folytatására az illető ország tudományos, oktatási és népjóléti intézményeiben, vagy hogy az illető országot tanulmányi céllal meglátogassák, ideértve a nyári tanfolyamokon való részvételt is;
+
+*d)* fejlesztik az idegenforgalmat azáltal, hogy megkönnyítik a közvetlen kapcsolatok kialakítását és támogatják azokat a módszereket, amelyek alkalmasak arra, hogy a másik ország életformájának, munkájának és kultúrájának jobb megértéséhez vezessenek;
+
+*e)* elősegítik a sportszervezetek és sportszövetségek közötti együttműködést;
+
+*f)* megkönnyítik a másik ország tudósai és tudományos kutatói számára könyvtárak, levéltárak, múzeumok, kulturális és tudományos intézetek látogatását;
+
+*g)* elősegítik a könyvek, folyóiratok, tudományos, műszaki és kulturális jellegű kiadványok cseréjét a két ország könyvtárai és egyéb intézményei között;
+
+*h)* kölcsönös tárgyalások útján meghatározzák a másik ország intézményei által adott bizonyítványok, tudományos címek érvényességét.
+
+*2. Cikk*
+
+A Szerződő Felek annak érdekében, hogy elősegítsék országaikban a másik ország kultúrájának jobb megismerését, szorgalmazzák a kulturális területen dolgozók, így írók, zeneszerzők, koreográfusok, művészek, kritikusok, továbbá a tömegek tájékoztatása, a népjólét, az ismeretterjesztés, az ifjúság szakmai képzése, valamint a sport terén működő szakemberek cserelátogatását és más kapcsolatait.
+
+Ebből a célból a Szerződő Felek a kölcsönösség alapján minden lehetséges támogatást megadnak egymásnak a következők szerint:
+
+*a)* a másik ország nyelvével, kultúrájával és civilizációjával kapcsolatos tanári és előadói állások létesítésével, tanfolyamok szervezésével és fejlesztésével az illető ország egyetemein és egyéb oktatási vagy kutató intézményeiben;
+
+*b)* a másik ország irodalmi műveinek lefordításával;
+
+*c)* művészeti és egyéb kulturális kiállítások szervezésével;
+
+*d)* konferenciák, hangversenyek és színházi előadások szervezésével;
+
+*e)* rádió és televízió adások szervezésével, hanglemezek és hasonló tárgyak terjesztésével;
+
+*f)* könyvek, folyóiratok és egyéb kiadványok terjesztésével;
+
+*g)* tudományos, oktatási és kulturális jellegű filmek bemutatásával.
+
+*3. Cikk*
+
+A Szerződő Felek vegyesbizottságot létesítenek, amelynek feladata, hogy az 1–2. cikk alkalmazására vonatkozóan kétéves munkatervre tegyen javaslatot a két Kormánynak; a munkatervhez mellékelni kell az egyes pontjainak végrehajtásával kapcsolatban felmerülő költségek viselésére vonatkozó javaslatokat is. A Szerződő Felek diplomáciai úton megküldik egymásnak a vegyesbizottság ajánlásaira és javaslataira vonatkozó határozataikat.
+
+*4. Cikk*
+
+A vegyesbizottság legfeljebb tíz tagból áll, mindegyik Szerződő Fél egyenlő számú tagot nevez ki.
+
+*5. Cikk*
+
+A vegyesbizottság általában kétévenként tartja üléseit, felváltva Magyarországon és Hollandiában.
+
+A Szerződő Felek diplomáciai képviselőit meg kell hívni a vegyesbizottság üléseire. A vegyesbizottság tagjai az üléseken korlátozott számú szakértő segítségét is igénybe vehetik. Az üléseken annak az országnak az egyik vegyesbizottsági tagja elnököl, amely országban a vegyesbizottság ülésezik.
+
+*6. Cikk*
+
+A Holland Királyság tekintetében a jelen Egyezmény a Királyság európai területein kerül alkalmazásra.
+
+*7. Cikk*
+
+Az Egyezményt meg kell erősíteni, s a megerősítő okiratokat mielőbb ki kell cserélni Hágában.
+
+Az Egyezmény a megerősítő okiratok kicserélésének napján lép hatályba.
+
+*8. Cikk*
+
+A jelen Egyezmény öt évig marad hatályban. Abban az esetben, ha az Egyezményt hat hónappal a lejárta előtt nem mondták fel, azt hallgatólagosan továbbra is hatályban levőnek kell tekinteni. Bármelyik Szerződő Fél az Egyezményt bármikor felmondhatja oly módon, hogy erről a másik Szerződő Felet hat hónappal előbb értesíti.
+
+Ennek hiteléül a meghatalmazottak az Egyezményt aláírták és pecsétjükkel ellátták.
+
+Készült Budapesten, 1968. február 14-én két példányban angol nyelven.
+
+(Aláírások)”
+
+### 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2)[^1] E rendelet végrehajtásához szükséges intézkedésekről a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a szakképzési feladatok ellátása tekintetében a szakképzésért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter, a turisztikai feladatok ellátása tekintetében a turizmusért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 74. §-a szerint módosított szöveg.

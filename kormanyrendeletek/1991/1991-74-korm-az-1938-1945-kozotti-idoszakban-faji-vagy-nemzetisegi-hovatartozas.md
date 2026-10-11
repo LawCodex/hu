@@ -1,0 +1,97 @@
+---
+title: "74/1991. (VI. 10.) Korm. rendelet az 1938—1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről"
+identifier: "74/1991. (VI. 10.) Korm. rendelet"
+njt_id: "1991-74-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/74"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-06-10
+in_force_from: 2009-10-01
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-74-20-22"
+retrieved: 2026-10-12
+---
+
+# 74/1991. (VI. 10.) Korm. rendelet az 1938—1945 közötti időszakban faji vagy nemzetiségi hovatartozás, illetőleg a nácizmus elleni magatartásuk miatt deportált, munkaszolgálatot teljesített vagy egyéb személyes szabadság korlátozása alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről
+
+A Kormány az Országgyűléstől kapott felhatalmazás alapján a 34/1990. (III. 28.) OGY határozat társadalombiztosítási és munkajogi szempontból történő végrehajtása érdekében a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] Annak a személynek a nyugellátását, baleseti nyugellátását — ide nem értve a baleseti járadékot —, továbbá a nyugdíjfolyósító szerv által folyósított nyugdíjszerű rendszeres szociális ellátását, aki faji, nemzetiségi hovatartozás vagy a nácizmussal szembenállása miatt 1938 és 1945 között
+
+a) deportált volt, vagy
+
+b) munkaszolgálatot teljesített, vagy
+
+c) gettóba kényszerítették, vagy akit
+
+d) internáltak, illetve kitelepítettek, vagy
+
+e)[^2]
+
+az 1945 és 1963 között törvénysértő módon elítéltek, az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, valamint a korábbi nyugdíjcsökkentés megszüntetéséről, továbbá az egyes személyes szabadságot korlátozó intézkedések hatálya alatt állt személyek társadalombiztosítási és munkajogi helyzetének rendezéséről szóló 93/1990. (XI. 21.) Korm. rendelet (továbbiakban: R.) 1. § (3) bekezdésének, valamint a 2. §-ának és 2/A. §-ának megfelelő alkalmazásával fel kell emelni.
+
+(2)[^3]
+
+(3) Az (1) bekezdés és az R. alapján járó emelés együttes összegét valamennyi sérelmezett időtartamra az R. 1. §-a (3) bekezdésének alkalmazásával kell megállapítani.
+
+## 2. §
+
+Az 1. § megfelelő alkalmazásával megállapított összeg jár annak a személynek is, aki nyugellátásban, baleseti nyugellátásban, illetőleg a nyugdíjfolyósító szerv által folyósított nyugdíjszerű rendszeres szociális ellátásban nem részesül, azonban utána házastársának (élettársának) házastársi pótlékot vagy házastárs utáni jövedelempótlékot folyósítanak.
+
+## 3. §
+
+(1) Az 1. § (1) bekezdésben megjelölt személy halála esetén az őt megillető emelés felével kell a hozzátartozó nyugellátását, baleseti nyugellátását emelni.
+
+(2) A hozzátartozót az e rendelet szerinti emelés mind a saját jogán, mind a hozzátartozó jogán együttesen illeti meg.
+
+## 4. §
+
+(1) Annak, az e rendelet hatálya alá tartozó, az öregségi nyugdíjkorhatárt betöltött vagy rokkant személynek, aki nyugellátásban, baleseti nyugellátásban vagy a nyugdíjfolyósító szerv által folyósított nyugdíjszerű rendszeres szociális ellátásban nem részesül és utána házastársának (élettársának) sem folyósítanak házastársi pótlékot vagy házastárs után járó jövedelempótlékot, az 1. § alapján meghatározott összeget a lakóhelye szerinti önkormányzat folyósítja.
+
+(2) Az (1) bekezdésben megjelölt személy halála esetén az őt megillető összeg felét a házastárs (élettárs) részére kell folyósítani.
+
+## 5. §
+
+(1)[^4] A személyes szabadság korlátozásának tényleges időtartamát és az emelés összegét az érintett személy (hozzátartozója) kérelmére a kárpótlási hatóság állapítja meg. A kárpótlási hatóság a határozatát közli az 1. § szerinti ellátások megállapítására és folyósítására hatáskörrel és illetékességgel rendelkező szervvel. Amennyiben a jogosult olyan, a kárpótlási hatóság által kiadott hatósági bizonyítvánnyal rendelkezik, amelyben csak a szabadságelvonás ideje van megállapítva, a nyugdíjigény, illetve a nyugdíjkiegészítés iránti kérelem benyújtásakor azt is mellékelni kell. Ebben az esetben a hatósági bizonyítványban szereplő szabadságkorlátozás idejétől függően a kiegészítés összegét az 1. § szerinti ellátások megállapítására hatáskörrel és illetékességgel rendelkező szerv számolja ki.
+
+(2)[^5]
+
+## 6. §
+
+A személyes szabadságnak az 1. § (1) bekezdésben meghatározott okból történő korlátozása idejét társadalombiztosítási szempontból szolgálati időként, munkajogi szempontból munkaviszonyban töltött időként kell számításba venni.
+
+## 7. §[^6]
+
+Az R. és e rendelet szerinti emelést a kárpótlási hatóság által kiadott hatósági bizonyítvány alapján a társadalombiztosításról szóló 1975. évi II. törvény végrehajtása tárgyában kiadott 89/1990. (V. 1.) MT rendelet[^7] 251. §-ának megfelelő alkalmazásával a folyósító szervek hajtják végre.
+
+## 8. §
+
+(1) E rendelet 1991. július 1. napján lép hatályba.
+
+(2)[^8] Ha az érintett személy kérelmét a kárpótlási hatósághoz a hatályba lépést követő 30 napon belül benyújtja, az e rendelet alapján járó emelés legkorábban 1990. április 1-jétől illeti meg.
+
+(3) Az e rendelettel nem szabályozott kérdésekben az R.-ben foglaltakat kell megfelelően alkalmazni.
+
+(4)[^9]
+
+## 9. §[^10]
+
+E rendeletnek a totalitárius diktatúrák áldozatai társadalombiztosítási és munkajogi helyzetének rendezéséről szóló egyes kormányrendeletek módosításáról szóló 236/2017. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr.) hatályon kívül helyezett rendelkezéseit a Módr. hatálybalépésekor[^11] folyamatban lévő, társadalombiztosítási és munkajogi helyzet rendezésére irányuló eljárásokban sem kell alkalmazni.
+
+---
+
+[^1]: Az 1. § (1) bekezdés záró szövegrésze a 316/2014. (XII. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdésének e) pontját az 51/1992. (III. 18.) Korm. rendelet 5. §-ának (5) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdését az 51/1992. (III. 18.) Korm. rendelet 5. §-ának (5) bekezdése hatályon kívül helyezte.
+[^4]: Az 5. § (1) bekezdése a 349/2011. (XII. 30.) 2. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 6. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 22. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: Az 1975: II. törvényt az 1997: LXXX. törvény mellékletének a) pontja, a 89/1990. (V. 1.) MT rendeletet a 195/1997. (XI. 5.) Korm. rendelet 28. §-ának (1) bekezdése — a (2) bekezdésben foglalt eltéréssel — 1998. január 1. napjával, illetve 1997. december 13. napjával hatályon kívül helyezte.
+[^8]: A 8. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 22. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 8. § (4) bekezdését a 349/2011. (XII. 30.) 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 236/2017. (VIII. 18.) Korm. rendelet 2. § (2) bekezdése.
+[^10]: A 9. §-t a 236/2017. (VIII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^11]: A hatálybalépés időpontja 2017. augusztus 19.

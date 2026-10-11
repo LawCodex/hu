@@ -1,0 +1,509 @@
+---
+title: "213/1996. (XII. 23.) Korm. rendelet az utazásszervező és -közvetítő tevékenységről"
+identifier: "213/1996. (XII. 23.) Korm. rendelet"
+njt_id: "1996-213-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/213"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-12-23
+in_force_from: 2009-10-01
+last_amended: 2024-11-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-213-20-22"
+retrieved: 2026-10-12
+---
+
+# 213/1996. (XII. 23.) Korm. rendelet az utazásszervező és -közvetítő tevékenységről
+
+A Kormány a belkereskedelemről szóló, többször módosított 1978. évi I. törvény 40. §-a alapján a következőket rendeli el:
+
+## 1. §[^1]
+
+(1) E rendelet hatálya a Magyarország területén utazásszervezői vagy utazásközvetítői tevékenységet folytatókra, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedőkre (a továbbiakban együtt: utazási vállalkozó) terjed ki.
+
+(2) E rendelet alkalmazásában:
+
+a) *utazási csomag:* az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 6. pontjában meghatározott fogalom a 13. §-ban meghatározott kivétellel;
+
+b) *utazási szolgáltatásegyüttes:* az utazási szolgáltatásra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 10. pontjában meghatározott fogalom a 28. §-ban meghatározott kivétellel;
+
+c) *utazó:* a a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), 2. § 37. pontjában meghatározott személy.
+
+## 2. §[^2]
+
+(1)[^3] Utazásszervezői vagy utazásközvetítői tevékenységet Magyarországon csak az az utazási vállalkozó folytathat, aki a kereskedelemről szóló 2005. évi CLXIV. törvényben (a továbbiakban: Kertv.), valamint az e §-ban előírt feltételeknek megfelel, és e tevékenységét a kereskedelmi hatósági feladatkörében eljáró Budapest Főváros Kormányhivatalánál (a továbbiakban: Kormányhivatal) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) foglaltak szerint bejelentette.
+
+(2)[^4] A bejelentésnek a Szolgtv. 22. §-ában meghatározott adatokon túlmenően tartalmaznia kell
+
+a) a (7) bekezdés a)–d), f) és g) pontjában meghatározott adatokat,
+
+b)[^5] a Kertv. 6/F. § (2) bekezdés a) pontja szerinti felelős személyre (a továbbiakban: tevékenységért felelős személy) vonatkozóan előírt foglalkoztatási, képesítési és gyakorlati követelmények meglétét igazoló iratokat,
+
+c)[^6] utazásszervezői tevékenység esetén a 8. §-ban meghatározottaknak megfelelő vagyoni biztosíték meglétét igazoló iratokat, valamint az utazási vállalkozó nyilatkozatát arról, hogy a 8. § (3) bekezdés a)–c) pontjában meghatározott tevékenységekből az indulás évében milyen összegű árbevételt tervez.
+
+d)[^7] az utazási vállalkozó nyilatkozatát arra vonatkozóan, hogy az általa alkalmazott általános szerződési feltételek tartalmazzák az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 34/A. § (4) bekezdésében foglalt rendelkezéseket.
+
+(3)[^8]
+
+(4)[^9] A tevékenység végzésének feltétele, hogy a bejelentő az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősüljön. A köztartozás-mentességet a bejelentő – ha nem szerepel a köztartozásmentes adózói adatbázisban – harminc napnál nem régebben kiállított közokirattal igazolhatja.
+
+(5)[^10] A tevékenységért felelős személy feladatait – az egyéni vállalkozó saját vállalkozásának kivételével – gazdálkodó szervezet nem láthatja el.
+
+(6) A Kertv. 6/F. § (2) bekezdés c) pontja alkalmazásában eltiltás alatt a 2009. október 1-je előtt hivatalból történő törlést is érteni kell.
+
+(7)[^11] Az utazási vállalkozókról vezetett nyilvántartás a Szolgtv. 27. §-ában és 29. §-ában meghatározott adatokon túlmenően a következő adatokat tartalmazza:
+
+a)[^12] az utazási vállalkozás nevét, székhelyét, cégjegyzékszámát, telefonszámát, valamint – ha az utazási vállalkozó a tevékenységét az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatásokról szóló törvény szerinti elektronikus kereskedelmi szolgáltatás keretében végzi – e-mail címét,
+
+b) az utazási vállalkozás vezetőjének, illetve vezetőinek nevét, tisztségét, a megbízatásának lejártát,
+
+c) az utazási vállalkozásnak a cégnyilvántartásban szereplő vezető tisztségviselőjének, vezetőállású munkavállalójának nevét, tisztségét, a megbízatása lejártát,
+
+d)[^13] a tevékenységért felelős személy nevét, az 5. § (1) bekezdése szerinti képesítését, a képesítést igazoló okirat, az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet, valamint az utazási szerződésről szóló 281/2008. (XI. 28.) Korm. rendelet módosításáról szóló 140/2015. (VI. 9.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépése[^14] előtt megszerzett utazásszervezői szakmai minősítő vizsga igazolása esetében a vizsgabizonyítványának, valamint a nyelvvizsga-bizonyítványának vagy az azzal egyenértékű okirat számát,
+
+e) a vagyoni biztosíték szolgáltatására szerződő bank vagy biztosító nevét, azt az összeget, amelynek fedezetére a bank, illetve a biztosító kötelezettséget vállalt, a 8. § (4) bekezdésében meghatározott árbevételeket, a tervezett árbevétel összegét, a vagyoni biztosíték szolgáltatására kötött szerződés lejáratának dátumát,
+
+f)[^15] az utazási vállalkozó azon telephelyeinek címét, telefonszámát, ahol az utazásszervező, illetve utazásközvetítő tevékenységét folytatja,
+
+g) az utazási vállalkozó által végzett tevékenységek (utazásszervező, illetve utazásközvetítő) megjelölését, továbbá
+
+h)[^16] utazási vállalkozó nyilvántartásból történt törlésének és tevékenység megtiltásának tényét, az ezt elrendelő határozat számát, keltét és jogerőre emelkedésének dátumát.
+
+(8)[^17] A (7) bekezdés szerinti nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(9)[^18] Amennyiben a bejelentés azt nem tartalmazta, a Kormányhivatal a (7) bekezdés szerinti nyilvántartás b) és c), valamint f) és g) pontjában meghatározott adatokat a cégnyilvántartás megkeresésével szerzi be.
+
+## 2/A. §[^19]
+
+Utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenységet Magyarországon csak az folytathat, aki a Kertv., valamint az e rendeletben előírt feltételeknek megfelel, és e tevékenységét a Kormányhivatalnál bejelentette.
+
+## 3. §
+
+(1)–(2)[^20]
+
+(3)[^21] A Kormányhivatal az utazási vállalkozó nyilvántartását – az adatigénylő által meghatározott módon és rendszerességgel – statisztikai célokra a Központi Statisztikai Hivatal rendelkezésére bocsátja.
+
+(4)[^22] Az utazási vállalkozókról a Kormányhivatal által vezetett nyilvántartás következő adatai nyilvánosak:
+
+a)[^23] az utazási vállalkozó nyilvántartási száma,
+
+b) az utazási vállalkozó neve, székhelye, telefon- és faxszáma, e-mail címe,
+
+c)[^24] a telephelyei (utazási iroda, utazási ügynökség) címe, telefon- és faxszáma, e-mail címe,
+
+d) az utazási vállalkozó vagyoni biztosítékának mértéke százalék(ok)ban, valamint forintban,
+
+e) annak a hitelintézetnek, illetve biztosítónak a neve és a címe, amellyel az utazási vállalkozó a vagyoni biztosíték szolgáltatására szerződött,
+
+f)[^25] az utazási vállalkozó által végzett tevékenységek (utazásszervező, illetve utazásközvetítő),
+
+g)[^26] az utazási vállalkozó nyilvántartásból történt törlésének és tevékenység megtiltásának ténye.
+
+## 4. §[^27]
+
+(1)[^28] A 2. §-ban meghatározott adatok megváltozását és a tevékenység megszüntetését az utazási vállalkozó haladéktalanul köteles a Kormányhivatalnak bejelenteni.
+
+(2) Az utazásszervező tevékenységnek utazásközvetítő tevékenységre történő módosítását, illetve utazásközvetítő tevékenységgel történő kiegészítését az utazási vállalkozó a 2. § szerint bejelenti, és egyidejűleg nyilatkozik arról, hogy az utazásszervező tevékenységével összefüggésben a 11. § (1) bekezdés b)–f) pontja szerinti tevékenységtől eltiltás feltételei nem állnak fenn, ellene végrehajtási eljárás nem folyik. Az utazásszervező tevékenységnek utazásközvetítő tevékenységre történő módosítása esetén a 9. §-ban foglaltak az irányadók.
+
+(3) A (2) bekezdésben foglalt rendelkezést megfelelően kell alkalmazni akkor is, ha az utazásközvetítő tevékenységet kívánják utazásszervezésre módosítani, illetve kiegészíteni.
+
+## 5. §[^29]
+
+(1) A tevékenységért felelős személynek:
+
+a) turisztikai szervező, értékesítő szakképesítéssel,
+
+b) utazásügyintéző szakképesítéssel,
+
+c) utazásszervező menedzser szakképesítéssel,
+
+d) idegenforgalmi menedzser szakképesítéssel,
+
+e) idegenforgalmi technikus szakképesítéssel,
+
+f) idegenforgalmi ügyintéző szakképesítéssel,
+
+g) idegenforgalmi szakmenedzser szakképesítéssel,
+
+h) felsőfokú idegenforgalmi szakvizsgával,
+
+i)[^30]
+
+j) felsőfokú végzettséggel,
+
+k) turizmus-vendéglátás alapképzési szakon szerzett közgazdász szakképzettséggel,
+
+l) idegenforgalmi és szálloda főiskolai szintű alapképzési szakon szerzett közgazdász szakképzettséggel,
+
+m) idegenforgalmi-szállodai közgazdász főiskolai szintű alapképzési szakon szerzett közgazdász és idegenforgalmi szálloda szakos tanár szakképzettséggel,
+
+n) turizmus menedzsment mesterképzési szakon szerzett okleveles közgazdász szakképzettséggel,
+
+o) turizmus (idegenforgalmi) szakon egyetemi szakosító továbbképzésben szerzett szakképzettséggel vagy idegenforgalmi és szállodaipari szakon főiskolai szakosító továbbképzésben szerzett szakképzettséggel,
+
+p) idegenforgalmi és szálloda vállalkozási szakirányú továbbképzési szakon szerzett főiskolai szakközgazdász vagy idegenforgalmi és szálloda vállalkozási szakképzettséggel,
+
+q) turizmus szakközgazdász szakirányú továbbképzési szakon szerzett szakképzettséggel, vagy
+
+r) turizmus-szálloda vállalkozási szakirányú továbbképzési szakon szerzett szakképzettséggel
+
+kell rendelkeznie.
+
+(2) A tevékenységért felelős személynek legalább egy idegen nyelvből C1 típusú államilag elismert nyelvvizsgával vagy azzal egyenértékű okirattal és
+
+a) az (1) bekezdés a)–i) pontjaiban meghatározott képesítés esetén
+
+aa) legalább hét év utazásszervezői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői feladatok ellátásával eltöltött szakmai gyakorlattal, vagy
+
+ab) kizárólag utazásközvetítői tevékenységet folytató utazásközvetítő szolgáltató esetében legalább hét év utazásszervezői vagy utazásközvetítői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői vagy utazásközvetítői feladatok ellátásával eltöltött szakmai gyakorlattal,
+
+b) az (1) bekezdés j) pontjában meghatározott végzettség esetén
+
+ba) legalább öt év utazásszervezői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői feladatok ellátásával eltöltött szakmai gyakorlattal, vagy
+
+bb) kizárólag utazásközvetítői tevékenységet folytató utazásközvetítő szolgáltató esetében legalább öt év utazásszervezői vagy utazásközvetítői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői vagy utazásközvetítői feladatok ellátásával eltöltött szakmai gyakorlattal, vagy
+
+c) az (1) bekezdés k)–r) pontjaiban meghatározott szakképzettség esetén
+
+ca) legalább három év utazásszervezői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői feladatok ellátásával eltöltött szakmai gyakorlattal, vagy
+
+cb) kizárólag utazásközvetítői tevékenységet folytató utazásközvetítő szolgáltató esetében legalább három év utazásszervezői vagy utazásközvetítői munkakörben vagy foglalkoztatásra irányuló egyéb jogviszony alapján utazásszervezői vagy utazásközvetítői feladatok ellátásával eltöltött szakmai gyakorlattal
+
+kell rendelkeznie.
+
+(3) A (2) bekezdésben meghatározott szakmai gyakorlat időtartamának igazolására
+
+a) közhiteles nyilvántartásból származó igazolás,
+
+b) más közokirat, vagy
+
+c) a foglalkoztatási jogviszonyt, valamint annak időtartamát és a munkakört vagy az ellátott feladatokat egyértelműen meghatározó iratok együttese
+
+vehető figyelembe.
+
+(4) A tevékenységért felelős személy kizárólag egy utazási vállalkozónál láthatja el a tevékenységért felelős tisztséget.
+
+(5) Az utazási vállalkozó köteles a tevékenységért felelős személyt oly módon foglalkoztatni, hogy hetente legalább húsz órában a munkakörébe tartozó vagy a foglalkoztatásra irányuló egyéb jogviszony alapján meghatározott, az utazásszervezői, illetve utazásközvetítői tevékenységgel kapcsolatos feladatot lásson el.
+
+(6)[^31] A tevékenységért felelős személy köteles a Kormányhivatal e rendelet szerinti ellenőrzési és más hatósági eljárásaival összefüggésben az utazási vállalkozó vezető tisztségviselőjének akadályoztatása, vagy elérhetetlensége esetén az utazási vállalkozó utazásszervezői, illetve utazásközvetítői tevékenységével összefüggő naprakész adatokról a Kormányhivatalt teljes körűen tájékoztatni.
+
+(7)[^32] A Kormányhivatal törli a hatósági nyilvántartásból azt a tevékenységért felelős személyt, aki
+
+a) a (4) bekezdés szerinti feltételt megsérti, vagy
+
+b) a (6) bekezdéssel összefüggő kötelezettségét nem teljesíti.
+
+(8)[^33] Az a tevékenységért felelős személy, akit a Kormányhivatal a (7) bekezdés a) vagy b) pontjában meghatározott okok valamelyike miatt jogerősen törölt a hatósági nyilvántartásból, öt évig nem láthatja el utazási vállalkozásnál a tevékenységért felelős tisztséget.
+
+## 8. §[^36]
+
+(1) Vagyoni biztosíték lehet:
+
+a)[^37] hitelintézettel kötött garanciaszerződés,
+
+b) biztosítóval (biztosítókkal) kötött biztosítási szerződés, amely utaslétszámra (közvetlenül az utas javára) is megköthető,
+
+c) az utazási vállalkozó által hitelintézetnél lekötött, a 10. § (1) bekezdésében meghatározott célokra elkülönített és zárolt pénzösszeg (a továbbiakban: pénzbeli letét).
+
+(2)[^38] Az egyes vagyoni biztosítékformák külön-külön, illetőleg együttesen is alkalmazhatók. A biztosítékformák együttes alkalmazása esetén a vagyoni biztosíték szolgáltatására kötött szerződésekben rendelkezni kell a fizetési kötelezettség feltételeiről és a helytállás mértékéről.
+
+(3)[^39] A vagyoni biztosíték mértéke a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés megkötésének, illetőleg a pénzbeli letét elhelyezésének évében december 31-éig
+
+a) Magyarországon megkezdett Magyarország határának átlépésével nem járó és az utazásszervező által összeállított utazási csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel 3%-a, de legalább ötszázezer forint,
+
+b) az *a)* pont hatálya alá nem tartozó utazás vagy üdülés kapcsán az utazásszervező által összeállított utazási csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel
+
+ba) 12%-a, de legalább ötmillió Ft, amennyiben a vagyoni biztosíték által fedezett időszakban az összeállított utazási csomagnak nem képezi részét az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 9. pont a) alpontjában szereplő utazási szolgáltatás,
+
+bb) 12%-a, de legalább hétmillió Ft, amennyiben a vagyoni biztosíték által fedezett időszakban az összeállított utazási csomagnak az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 2. § 9. pont a) alpontjában szereplő utazási szolgáltatás is részét képezi és az közúti, vasúti illetve vízi személyszállítási eszközzel vagy menetrend szerinti repülőjárat vagy járatok útján teljesül, legalább,
+
+c) a belföldről külföldre, illetve külföldről külföldre irányuló utazás vagy üdülés kapcsán az utazásszervező által összeállított utazási csomag Magyarországon történt, utazó felé teljesülő értékesítéséből származó, a számvitelről szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel 20%-a, de legalábblegalább ötvenmillió Ft, amennyiben a vagyoni biztosíték által fedezett időszakban
+
+ca) az utazási csomag összeállításához nem menetrend szerinti járatú repülőgépen (charterjárat) férőhelyet vesz igénybe, függetlenül az út kiindulási állomásának helyétől,
+
+cb) a (11) bekezdés szerinti garantált szerződésből származó kötelezettségei az utazásszervezői tevékenységéből származó éves árbevétele 25%-át meghaladják.
+
+(4)[^40] Ha a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés megkötésének, illetőleg a pénzbeli letét elhelyezésének évében december 31-éig elszámolt értékesítési nettó árbevétel kevesebb, mint a megelőző évben vagy a (6) bekezdésben meghatározott következő évre tervezett nettó értékesítési árbevétel, akkor a vagyoni biztosíték megállapításánál a legnagyobb árbevételt kell alapul venni.
+
+(5)[^41] Ha az utazási vállalkozó a (3) bekezdés b) és c) pontokban meghatározott tevékenységekkel egyaránt foglalkozik, a vagyoni biztosíték összegénél a magasabb vagyoni biztosíték mértéket kell alapul venni. Ha az utazási vállalkozó a (3) bekezdés a) pontban meghatározott tevékenységet a *b)*, illetve *c)* pontban meghatározott tevékenységekkel együtt végzi, a vagyoni biztosíték összegét külön-külön kell számításba venni.
+
+(6)[^42] Az utazási vállalkozó köteles minden év október 31-éig a következő évre tervezett értékesítési nettó árbevételt, s minden év május 31-éig a megelőző évi tényleges értékesítési nettó árbevételt a Kormányhivatalnak bejelenteni.
+
+(7)[^43] Az utazási vállalkozó – szükség esetén – köteles minden év május 31-éig a vagyoni biztosítékot megemelni a hitelintézettel kötött garanciaszerződés, illetve a biztosítási szerződés megkötésének, illetőleg a pénzbeli letét elhelyezésének évében a számvitelről szóló 2000. évi C. törvény szerint elszámolt értékesítési nettó árbevétel alapján irányadó értékhez. Ennek megtörténtét az utazási vállalkozó köteles a Kormányhivatalnak ezen időpontig megfelelően igazolni. A (4) bekezdésben foglaltak ebben az esetben is irányadók.
+
+(8)[^44] Az utazási vállalkozó köteles minden év október 31-éig a Kormányhivatalnak igazolni, hogy rendelkezik az előírt mértékű – a hitelintézettel kötött garanciaszerződés, illetve a biztosítási szerződés megkötése, illetőleg a pénzbeli letét elhelyezése évét követő év december 31-éig terjedő időszakára szóló – vagyoni biztosítékkal. Ha az utazási vállalkozó a tevékenységét év közben kezdi, akkor azt kell igazolnia, hogy az indulás évére tervezett árbevételének megfelelő mértékű vagyoni biztosítékkal rendelkezik, ez azonban nem lehet kevesebb a (3) bekezdésben meghatározott minimum összegeknél.
+
+(9)[^45] A vagyoni biztosítéknak minden időszakban fedezetet kell nyújtania a 10. § (1) bekezdésében meghatározott költségekre, előlegekre, illetve díjakra. Ha az utazók által utazási csomagok, utazási szolgáltatásegyüttesek igénybevételére befizetett előlegek, részvételi díjak összege, amelyekre az utazási vállalkozó szolgáltatást még nem teljesített, legalább 10%-kal meghaladja az igazolt vagyoni biztosíték alapjául szolgáló árbevétel összegét, az utazási vállalkozó köteles hét napon belül a vagyoni biztosíték összegét az irányadó előlegek és részvételi díjak alapján megemelni és ennek megtörténtét a Kormányhivatalnak haladéktalanul igazolni. Ebben az esetben a vagyoni biztosíték összegének számítására a 8. § (3) bekezdésének rendelkezései az irányadóak azzal, hogy ahol a rendelkezés értékesítési nettó árbevételt említ, azon utazók által utazási csomagok, utazási szolgáltatásegyüttesek igénybevételére befizetett előlegek és részvételi díjak összegét kell érteni.
+
+(10)[^46] A biztosítási szerződést legalább egyévi időtartamra kell megkötni. A hitelintézettel kötött szerződésnek legalább tizennyolc hónapra kell szólnia. A szerződés hatályát az utazási vállalkozó köteles minden év október 31-éig (függetlenül a lejárat időpontjától) meghosszabbítani, és ennek megtörténtét a Kormányhivatalnak igazolni. Ha a felek a szerződést nem hosszabbítják meg, az utazási vállalkozónak október 31-éig azt kell igazolnia a Kormányhivatal részére, hogy más hitelintézettel vagy biztosítóval kötött szerződést. A vagyoni biztosítékra vonatkozó szerződés megkötését, valamint annak folyamatos hatályban tartását a biztosítási kötvény, illetőleg a hitelintézettel kötött szerződés tanúsítja.
+
+(11) E rendelet alkalmazása szempontjából garantált szerződés az, amelynek alapján a lekötött szolgáltatások nem mondhatók le, és ezáltal az utazási vállalkozónak időszakonként visszatérő, rendszeres fizetési kötelezettsége származik.
+
+(12)[^47] Az utazási vállalkozónak olyan, a 8. § (3) és (9) bekezdések szerinti kötelezettségekhez kapcsolódó nyilvántartással kell rendelkeznie, amely a 8. § (3) bekezdés szerinti jogcímenként tartalmazza az utazási csomagok, utazási szolgáltatásegyüttesek értékesítése kapcsán utazók által befizetett előlegek, részvételi díjak azon aktuális összegét, melyekre az utazási vállalkozó szolgáltatást még nem teljesített, az utazási csomagok, utazási szolgáltatásegyüttesek értékesítéséből származó, elszámolt nettó árbevételt és a teljesítési időpontokat. Az utazási vállalkozó köteles e nyilvántartásban szereplő adatokat öt évig megőrizni és hatósági ellenőrzés céljából a Kormányhivatal számára könnyen hozzáférhetővé tenni.
+
+## 9. §[^48]
+
+Az utazási vállalkozó a vagyoni biztosítékot csak az utazásszervező tevékenység megszűnését követően, az utazási szerződésekből eredő kötelezettségek teljesítése után, legkorábban azonban a tevékenység megszűnésétől számított hat hónap elteltével szüntetheti meg. Ugyanez alkalmazandó, ha a vagyoni biztosítékra vonatkozó szerződésben bármilyen változás következik be.
+
+## 9/A. §[^49]
+
+(1) Ha az utazási csomagnak, illetve az utazási szolgáltatásegyüttesnek az utazók szállítása is részét képezi, akkor az utazásszervező, illetve az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő köteles az utazási csomagra vonatkozó szerződés, illetve az utazási szolgáltatásegyüttesre vonatkozó szerződés megkötésekor a Kertv. 6/F. § (4) bekezdésében foglalt, az utazóra mint kedvezményezett részére megkötött kötelező biztosítással rendelkezni.
+
+(2) A kedvezményezett részére kötött biztosításnak fedezetet kell nyújtania az utazáskor, az utazási vállalkozó fizetésképtelensége miatt szükséghelyzetbe került utazók érdekében teendő intézkedések, így a hazaszállítás és a kényszerű kint tartózkodás költségeinek fedezésére.
+
+(3) Az (1) bekezdésben meghatározott biztosítási szerződés tartalmazza azt a kikötést, hogy a biztosítás fedezetének a kárenyhítést végző biztosító általi igénybevételéről a biztosító a Kormányhivatalt két munkanapon belül írásban tájékoztatni köteles.
+
+(4) Az (1) bekezdésben meghatározott biztosításra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha rendelkezik arról, hogy abban az esetben, ha az utazási vállalkozó nem gondoskodik a kedvezményezett hazautaztatásáról, illetve a kényszerű kint tartózkodás költségeinek fedezéséről, az ezekre vonatkozó szükséges intézkedéseket a vállalkozó helyett a biztosító megteszi. Ezen intézkedések megtétele érdekében az utazási vállalkozó köteles írásban vagy elektronikus úton a biztosító rendelkezésére bocsátani az intézkedéshez szükséges valamennyi adatot, különösen az érintett utazók azonosító adatait, az utazásukra, szálláshelyükre, elérhetőségükre vonatkozó adatokat. A kárenyhítés módjáról a biztosító dönt.
+
+(5) A biztosító az e §-ban foglalt szerződések esetében a (2) bekezdés szerint köteles fedezetet nyújtani azzal, hogy évente helytáll a 8. § (3) bekezdésében foglalt vagyoni biztosíték legalább 10%-ának, a nem menetrendszerinti repülőjárattal (charterjárattal) történő személyszállítás esetén, legalább 20%-ának megfelelő összegben.
+
+(6) Amennyiben az utazási vállalkozó a 10. § (3) bekezdés c) pontja szerint neki felróható okból nem bocsátja a biztosító rendelkezésére a kárenyhítéshez szükséges valamennyi adatot, a Kormányhivatal – a bírság alkalmazásának lehetőségére való figyelmeztetés mellett – 5 napos határidő megállapításával végzésben kötelezi az utazási vállalkozót a jogszabályban előírt adatszolgáltatás maradéktalan teljesítésére. A Kormányhivatal az érintett biztosítót valamennyi ilyen intézkedéséről, a külpolitikáért felelős minisztert pedig az utazók hazautaztatásával, kényszerű kint tartózkodásával kapcsolatos intézkedésekről tájékoztatja.
+
+(7) Az utazó az utazási vállalkozó kötelezettségeinek elmulasztásából eredő igényeit közvetlenül a biztosítóval szemben érvényesítheti. A biztosítási szerződésből eredő kifogásokat a biztosító az utazóval szemben nem érvényesítheti. Ha a biztosító az utazó számára teljesített, az utazónak az utazási vállalkozóval szemben fennálló jogai a teljesítés erejéig átszállnak a biztosítóra.
+
+## 10. §[^50]
+
+(1)[^51] Vagyoni biztosítékként csak olyan szerződés vehető figyelembe, amely szerint a vagyoni biztosíték terhére a biztosító, illetve a hitelintézet pénzügyi fedezetet nyújt
+
+a)[^52]
+
+b) az előleg, illetve részvételi díj visszafizetésére.
+
+(2)[^53] A vagyoni biztosíték igénybevételéhez a Kormányhivatal írásbeli előzetes hozzájárulása szükséges.
+
+(3)[^54] A vagyoni biztosítékra vonatkozó szerződés akkor felel meg e rendelet rendelkezéseinek, ha
+
+a)[^55] tartalmazza azt a kikötést, hogy a hitelintézet, illetve a biztosító a vagyoni biztosíték terhére kizárólag abban az esetben teljesít kifizetést, ha az utazási vállalkozó előzetesen bemutatja a Kormányhivatal (2) bekezdésben megjelölt hozzájárulását és a vagyoni biztosíték terhére teljesített kifizetés időpontját a hitelintézet, illetve a biztosító írásban közli a Kormányhivatallal, és
+
+b)[^56] rendelkezik arról, hogy a szerződésben meghatározott bármely megszűnési feltétel beállásáról a hitelintézet, illetve a biztosító a Kormányhivatalt haladéktalanul írásban tájékoztatja,
+
+c)[^57] rendelkezik arról, hogy abban az esetben, ha az előlegeket, illetve részvételi díjakat nem fizeti vissza, az ezekre vonatkozó szükséges intézkedéseket a vállalkozó helyett a biztosító, illetve a hitelintézet megteszi. Ezen intézkedések megtétele érdekében az utazási vállalkozó köteles írásban vagy elektronikus hozzáférés biztosításával a biztosító, illetve a hitelintézet rendelkezésére bocsátani a kárenyhítéshez szükséges valamennyi adatot, különösen az érintett utazók azonosító adatait, az utazásukra, a szálláshelyükre, elérhetőségükre vonatkozó adatokat, az általuk befizetett előlegeket és részvételi díjakat. A kárenyhítés módjáról a hitelintézet vagy a biztosító dönt.
+
+(4) Az utazási vállalkozó köteles a felhasznált vagyoni biztosítékot – amennyiben e tevékenységét továbbfolytatja – haladéktalanul, legkésőbb harminc napon belül pótolni.
+
+(5)[^58] Ha az utazási vállalkozó nem tesz eleget az előleg, illetve részvételi díj visszafizetésére vonatkozó kötelezettségének, a Kormányhivatal a 11. § (1) és (3) bekezdés szerinti jogkövetkezmények alkalmazása mellett a 10. § (2) bekezdése szerint intézkedik a hitelintézet, illetve a biztosító felé a vagyoni biztosíték igénybevétele felől. Amennyiben az utazási vállalkozó a 10. § (3) bekezdés c) pontja szerint neki felróható okból nem bocsátja a biztosító, illetve a hitelintézet rendelkezésére a kárenyhítéshez szükséges valamennyi adatot, a Kormányhivatal – a bírság alkalmazásának lehetőségére való figyelmeztetés mellett – 5 napos határidő megállapításával végzésben kötelezi az utazási vállalkozót a jogszabályban előírt adatszolgáltatás maradéktalan teljesítésére. A Kormányhivatal az érintett biztosítót, illetve hitelintézetet valamennyi ilyen intézkedéséről, tájékoztatja.
+
+(6)[^59] Az utazó az utazási vállalkozó kötelezettségeinek elmulasztásából eredő igényeit közvetlenül a hitelintézettel, illetve a biztosítóval szemben érvényesítheti.
+
+A hitelintézettel kötött garanciaszerződésből, illetve a biztosítási szerződésből eredő kifogásokat a hitelintézet, illetve a biztosító az utazóval szemben nem érvényesítheti. Az utazónak az utazási vállalkozóval szemben fennálló jogai átszállnak a hitelintézetre, illetve a biztosítóra.
+
+## 10/A. §[^60]
+
+Az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő vagyoni biztosítékának mértéke a hitelintézettel kötött garanciaszerződés, a biztosítási szerződés vagy pénzbeli letét formájában az utazási szolgáltatásegyüttes értékesítéséből származó éves nettó értékesítési árbevétel 10%-ának, de legalább ötmillió forintnak megfelelő összeg.
+
+## 11. §[^61]
+
+(1)[^62] A Kormányhivatal törli a nyilvántartásból azt az utazási vállalkozót, aki
+
+a) a tevékenység folytatásához szükséges, jogszabályban meghatározott feltételek valamelyikével nem rendelkezik,
+
+b)[^63] a vagyoni biztosíték tartására vonatkozó kötelezettségét nem megfelelően teljesíti, kivéve, ha a kötelezettségszegés kizárólag a 8. § (9) bekezdésében meghatározott időszakot megelőző évre vonatkozik, és az ezt követő időszakban nem kevesebb a szolgáltatott vagyoni biztosíték összege, mint amennyit a jogszabály előír,
+
+c)[^64] az utazót az utazási szerződésben meghatározott esedékességekor – a vis maior esetét kivéve – nem utaztatta el és a befizetett előleget, illetve részvételi díjat a külön jogszabályban foglaltak szerint nem fizette vissza,
+
+d)[^65] nem gondoskodik az utas hazautaztatásáról,
+
+e)[^66] a hatóság ellenőrzésekor azt nyilatkozza, hogy az utazók el-, illetve hazautaztatását nem tudja biztosítani, vagy nem tudja hitelt érdemlően igazolni, hogy képes az utazók el-, illetve hazautaztatására,
+
+f) ellen a bíróság felszámolási eljárást rendelt el,
+
+g)[^67] a Kormányhivatal számára valótlan tartalmú bejelentést tett,
+
+h) a hatósági ellenőrzést akadályozza,
+
+i) bejelentette a tevékenységének megszüntetését,
+
+j)[^68] a 8. § (6), (8), (9), (12) és (13) bekezdése szerinti igazolási, jelentéstételi és nyilvántartás vezetési kötelezettségének a Kormányhivatal felhívására sem tesz eleget, illetve a 8. § (12) és (13) bekezdése szerinti nyilvántartást nem, vagy nem megfelelően vezeti.
+
+(2)[^69] A Kormányhivatal az (1) bekezdés b)–e) pontja szerinti esetekben a nyilvántartásból való törléssel egyidejűleg egy évre határozatban tiltja meg az utazási vállalkozónak az adott szolgáltatási tevékenység folytatását.
+
+(3) Az (1) bekezdés g) pontja szempontjából nem minősül valótlan bejelentésnek a név- vagy számhiba és más hasonló elírás.
+
+(4) Az utazási vállalkozó a tevékenysége megszüntetése esetén nyilatkozik arról, hogy az utazásszervező vagy utazásközvetítő tevékenységével összefüggésben kötött valamennyi szerződésben vállalt kötelezettségét teljesítette és e szerződések nem vagy nem megfelelő teljesítése miatt kiegyenlítetlen tartozása nincs, valamint az (1) bekezdés b)–e) pontja szerinti tevékenység megtiltás feltételei nem állnak fenn.
+
+(5)[^70] A (4) bekezdés szerinti bejelentés esetén a Kormányhivatal 15 napon belül megvizsgálja, hogy nem állnak-e fenn a tevékenység megtiltásának feltételei.
+
+(6)[^71] A Kormányhivatal közli az utazási vállalkozó nyilvántartásból történt törléséről szóló döntését a fogyasztóvédelmi hatósággal és a turizmusért felelős miniszterrel.
+
+(7)[^72] Ha Kormányhivatal az utazási vállalkozót a nyilvántartásból törölte, a tevékenység folytatásának újabb bejelentéséig az utazási vállalkozó utazásokat nem szervezhet és nem bonyolíthat le, köteles azonban az úton lévő utazóit hazautaztatni, az elmaradt utazásokra befizetett előlegeket és részvételi díjakat a külön jogszabályban foglaltak szerint teljes összegben visszafizetni.
+
+## 11/A. §[^73]
+
+(1)[^74] Ha a Kormányhivatal ellenőrzése során megállapítja, hogy az utazási vállalkozó a Kertv., és az e rendeletben foglalt rendelkezéseket megsérti, – a jogsértés miatt nyilvántartásból való törlés esetének kivételével – bírságot szabhat ki.
+
+(2)[^75] Ha a 11. § (1) bekezdés b) pontja szerinti kivételként meghatározott esetben az utazási vállalkozót a Kormányhivatal nem törli a nyilvántartásából, a pénzbírság mértéke az utazási vállalkozó által a 8. § (8) bekezdésében meghatározott időszakot megelőző évre szolgáltatott vagyonibiztosíték-összeg és azon vagyonibiztosíték-összeg közötti különbözet legalább 5%-a, de legfeljebb 10%-a, amelyet erre az időszakra a jogszabály alapján ténylegesen szolgáltatnia kellett volna. Ismételt jogsértés esetén az utazási vállalkozót törölni kell a nyilvántartásból és a tevékenység folytatását egy évre meg kell tiltani.
+
+(3) A (2) bekezdésben nem szabályozott esetekben kiszabható bírság mértékéről, a bírság alkalmazásának részletes szabályairól és megfizetésének módjáról külön jogszabály rendelkezik.
+
+(4)[^76] Ha az utazási vállalkozó a 8. § (6), (8) és (9) bekezdése, valamint 8/A. §-a szerinti igazolási, jelentéstételi kötelezettségét utólag, de legkésőbb a határidőt követő 8 napon belül teljesíti, a Kormányhivatal végzésben figyelmezteti az utazási vállalkozót a jogkövető magatartás tanúsítására. Ha az utazási vállalkozó az ezt követő két éven belül ismételten elköveti a jogsértést, a Kormányhivatal a (3) bekezdés szerint megállapított bírságot szab ki.
+
+(5)[^77] Ha az utazási vállalkozó a 8. § (6), (8), (9) bekezdés, valamint 8/A. § szerinti igazolási, jelentéstételi kötelezettségét a határidőt követő 8 napon belül nem, vagy nem megfelelően teljesíti, a Kormányhivatal az utazási vállalkozót a kötelezettségének 8 napon belüli teljesítésére hívja fel és egyidejűleg a (4) bekezdés szerint megállapított bírságot szab ki. Amennyiben az utazási vállalkozó a kötelezettségének felhívásra sem tesz eleget, a Kormányhivatal a 11. § (1) bekezdés j) pontját alkalmazza.
+
+## 12. §[^78]
+
+(1)[^79] A Kormányhivatal a 3. § (4) bekezdésében megjelölt nyilvános adatokat és tényeket a honlapján folyamatosan közzéteszi.
+
+(2)[^80]
+
+(3)[^81] A fizetésképtelenséggel szembeni védelem terén zajló igazgatási együttműködés, valamint a különböző tagállamokban működő utazásszervezők és adott esetben utazásközvetítők felügyeletének megkönnyítése érdekében központi kapcsolattartó pont feladatait a Kormányhivatal látja el.
+
+(4)[^82] A Kormányhivatalnak rendelkezésére kell bocsátania az összes szükséges információt a fizetésképtelenséggel szemben nyújtott védelemre vonatkozó nemzeti követelmények vonatkozásában, valamint a Magyarországon letelepedett utazásszervezők számára a fizetésképtelenséggel szembeni védelem nyújtásáért felelős biztosítókat vagy hitelintézeteket illetően. A Kormányhivatal hozzáférést biztosít a többi tagállam illetékes hatóságai számára valamennyi olyan rendelkezésre álló jegyzékhez, amely azokat az utazásszervezőket tartalmazza, akik eleget tesznek a fizetésképtelenséggel szembeni védelemre vonatkozó kötelezettségeiknek. Ezen jegyzékeket nyilvánosan – így az interneten is – elérhetővé kell tenni.
+
+(5)[^83] A Kormányhivatal egy tagállamtól beérkező, valamely utazásszervezői tevékenységet végző fizetésképtelenségével szemben nyújtott védelemre vonatkozó megkeresést – a kérdés sürgősségének és összetettségének figyelembevételével – a lehető leghamarabb, de legkésőbb a kérelem kézhezvételétől számított tizenöt munkanapon belül megválaszolja.
+
+## 12/B. §[^85]
+
+A vagyoni biztosíték terhére kifizetett összeg visszaigénylésére újrafelvételi eljárás nem indítható.
+
+## 13. §[^86]
+
+E rendelet előírásai nem érintik az utazásszervező és -közvetítő tevékenység folytatásával kapcsolatos más jogszabályban meghatározott egyéb feltételeket.
+
+## 13/A. §[^87]
+
+Amennyiben a Ker.tv. 2. § 26. pontjában meghatározott utazó utazásközvetítői tevékenységet végzőnél vagy végzővel köt utazási szerződést, úgy az utazásközvetítői tevékenységet végző négy munkanapon belül köteles az utazási szolgáltatás előlegét, vagy a teljes díj további részletét vagy a teljes díjat az utazásszervezői tevékenységet végző részére megfizetni.
+
+## 14. §[^88]
+
+(1)[^89] E rendeletnek a Módr.-rel megállapított 5. § (1)–(3) bekezdése által meghatározott követelmények nem vonatkoznak arra a tevékenységért felelős személyre, aki a Módr. hatálybalépésekor[^90] a Kormányhivatal nyilvántartásában szerepel.
+
+(2)[^91] A Módr. hatálybalépésekor[^92] a Kormányhivatal nyilvántartásában szereplő utazási vállalkozóknak az 5. § (4) és (5) bekezdése szerinti feltételek teljesítéséről szóló bejelentést az 5. § (5) bekezdése szerinti – szükség esetén módosított – foglalkoztatási jogviszony fennállását igazoló dokumentum megküldésével 2015. december 31-ig kell teljesítenie.
+
+## 14/A. §[^93]
+
+(1) E rendelet az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet módosításáról szóló 79/2018. (IV. 20.) Korm. rendelet 2. §-ával megállapított 9/A. § (1) bekezdése szerinti, az utazóra mint kedvezményezettre kötött biztosításra vonatkozó rendelkezéseket a 2018. július 1. napján folyamatban lévő, és – ha a szerződés megkötésére 2018. július 1-je előtt került sor – 2018. július 1-jén, illetve 2018. július 1-jét követően megkezdett utazásokra is alkalmazni kell.
+
+(2) Az utazási vállalkozó – szükség esetén – az e rendeletnek az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet módosításáról szóló 473/2017. (XII. 28.) Korm. rendelet 3. §-ával módosított 8. § (3) bekezdése szerinti vagyoni biztosítékot 2018. július 1-jéig köteles megemelni a hitelintézettel kötött garanciaszerződés, illetve a biztosítási szerződés megkötésének, illetőleg a pénzbeli letét elhelyezésének évében a számvitelről szóló törvény szerint elszámolt értékesítési nettó árbevétel alapján irányadó értéknek megfelelően azzal, hogy a megemelt vagyoni biztosíték kiterjed azokra az utazásokra, amelyeket 2018. július 1-jén megkezdtek, vagy amelyek 2018. július 1-jén folyamatban vannak. A vagyoni biztosíték megemelésének megtörténtét az utazási vállalkozó köteles a Kormányhivatalnak 2018. augusztus 31-ig megfelelően igazolni.
+
+(3) A 8. § (10) bekezdésében megjelölt, e rendeletnek az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet módosításáról szóló 473/2017. (XII. 28.) Korm. rendelettel megállapított rendelkezéseivel összhangban álló biztosítéki szerződést a 2018. évben legfeljebb fél éves időtartamra kell megkötni.
+
+## 14/B. §[^94]
+
+Azok az utazásszervező vagy utazásközvetítő tevékenységet végző vállalkozások, amelyek a 2. § szerinti bejelentést az utazásszervező és -közvetítő tevékenységről szóló 213/1996. (XII. 23.) Korm. rendelet, valamint az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet módosításáról szóló 346/2024. (XI. 19.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépését[^95] megelőzően megtették, az e rendeletnek a Mód. rendelettel megállapított 2. § (2) bekezdés d) pontja szerinti nyilatkozatot kötelesek legkésőbb 2024. december 31. napjáig megküldeni a Kormányhivatal részére.
+
+## 15. §
+
+(1)[^96] Ez a rendelet 1997. január hó 1. napján lép hatályba.
+
+(2)[^97] Ez a rendelet a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 21. cikk b) pontjának való megfelelést szolgálja.
+
+(3)[^98] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(4)[^99]
+
+(5)[^100]
+
+(6)[^101] E rendelet 1. §, 2. §, 8. §, 9. §, 10. §, 11. §, 12. § rendelkezései az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 16. §[^102]
+
+A 9/A. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+## 1. számú melléklet a 213/1996. (XII. 23.) Korm. rendelethez[^103]
+
+## 2. számú melléklet a 213/1996. (XII. 23.) Korm. rendelethez[^104]
+
+---
+
+[^1]: Az 1. § a 473/2017. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 182/2009. (IX. 10.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^3]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 18. § a) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^5]: A 2. § (2) bekezdés b) pontja a 140/2015. (VI. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 18. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^7]: A 2. § (2) bekezdés d) pontját a 346/2024. (XI. 19.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^9]: A 2. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^10]: A 2. § (5) bekezdése a 140/2015. (VI. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: A 7. § nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 18. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 2. § (7) bekezdés a) pontja az 561/2023. (XII. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^13]: A 2. § (7) bekezdés d) pontja a 140/2015. (VI. 9.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: A hatálybalépés időpontja 2015. szeptember 2.
+[^15]: A 2. § (7) bekezdés f) pontja az 561/2023. (XII. 14.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^16]: A 2. § (7) bekezdés h) pontja a 441/2015. (XII. 28.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^17]: A 2. § (8) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 2. § (9) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 2. §-a iktatta be.
+[^19]: A 2/A. §-t a 473/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^20]: A 3. § (1)–(2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^21]: A 3. § (3) bekezdése a 20/2007. (II. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 97. §-a, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 3. § (4) bekezdését a 78/2005. (IV. 28.) Korm. rendelet 3. §-a iktatta be, nyitó szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 97. §-a, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 3. § (4) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 17. § (4) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^24]: A 3. § (4) bekezdésének c) pontja a 20/2007. (II. 20.) Korm. rendelet 3. § (2) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 96. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^25]: A 3. § (4) bekezdésének f) pontja a 182/2009. (IX. 10.) Korm. rendelet 96. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 3. § (4) bekezdés g) pontja a 441/2015. (XII. 28.) Korm. rendelet 17. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^27]: A 4. § a 441/2015. (XII. 28.) Korm. rendelet 17. § (6) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^28]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^29]: Az 5. §-t a 182/2009. (IX. 10.) Korm. rendelet 97. §-a hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^30]: Az 5. § (1) bekezdés i) pontját a 13/2020. (II. 7.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^31]: Az 5. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) és d) pontja szerint módosított szöveg.
+[^32]: Az 5. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^33]: Az 5. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^36]: A 8. § a 78/2005. (IV. 28.) Korm. rendelet 4. §-ával megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2005. május 13-án már működő, belföldről belföldre történő utazást szervező vállalkozóknak 2005. május 31-ig kell igazolniuk a Hivatal részére, hogy rendelkeznek a módosított feltételekkel.
+[^37]: A 8. § (1) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 2. § (1) bekezdés a) pontjával megállapított szöveg.
+[^38]: A 8. § (2) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2007. április 6. napja után indult vagy megismételt eljárásokra kell alkalmazni; a 14. § (2) bekezdése alapján a fenti időpontban már működő utazási vállalkozónak az új mértékű vagyoni biztosítékkal 2007. június 1-jétől kell rendelkeznie, amit 2007. május 31-ig kell a Hivatal részére igazolnia.
+[^39]: A 8. § (3) bekezdése a 473/2017. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^40]: A 8. § (4) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított, a 80/2014. (III. 14.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^41]: A 8. § (5) bekezdése a 79/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^42]: A 8. § (6) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^43]: A 8. § (7) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított, a 80/2014. (III. 14.) Korm. rendelet 2. § (1) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^44]: A 8. § (8) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított, a 80/2014. (III. 14.) Korm. rendelet 2. § (1) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^45]: A 8. § (9) bekezdése a 473/2017. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^46]: A 8. § (10) bekezdése a 20/2007. (II. 20.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
+[^47]: A 8. § (12) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 9. § a 20/2007. (II. 20.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2007. április 6. napja után indult vagy megismételt eljárásokra kell alkalmazni; a 14. § (2) bekezdése alapján a fenti időpontban már működő utazási vállalkozónak az új mértékű vagyoni biztosítékkal 2007. június 1-jétől kell rendelkeznie, amit 2007. május 31-ig kell a Hivatal részére igazolnia.
+[^49]: A 9/A. §-t a 79/2018. (IV. 20.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A vagyoni biztosítékra 2001. 12. 29. napját megelőzően megkötött szerződéseket a 265/2001. (XII. 21.) Korm. rendelet 5. §-ának (2) bekezdése alapján 2002. 01. 31-ig megfelelően módosítani kell, és ennek megtörténtét ezen határidőn belül köteles az utazási vállalkozó a Gazdasági Minisztérium Engedélyezési Közigazgatási Hivatalának igazolni. E módosító rendelet 5. §-ának (3) bekezdése alapján az utazási vállalkozás csak akkor működhet, ha igazolta, hogy a követelményeknek megfelel. Azt az utazási vállalkozót, aki az előírt határidőben az igazolási kötelezettségének nem tesz eleget, a GM EKH hivatalból törli a hatósági nyilvántartásból.
+[^51]: A 10. § (1) bekezdése a 265/2001. (XII. 21.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^52]: A 10. § (1) bekezdés a) pontját a 473/2017. (XII. 28.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^53]: A 10. § (2) bekezdése a 20/2007. (II. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 10. § (3) bekezdése a 265/2001. (XII. 21.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^55]: A 10. § (3) bekezdésének a) pontja a 20/2007. (II. 20.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) és e) pontja szerint módosított szöveg.
+[^56]: A 10. § (3) bekezdésének b) pontja a 37/2004. (III. 12.) Korm. rendelet 4. § (3) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^57]: A 10. § (3) bekezdés c) pontja a 473/2017. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^58]: A 10. § (5) bekezdése a 473/2017. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^59]: A 10. § (6) bekezdése a 234/2003. (XII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 80/2014. (III. 14.) Korm. rendelet 2. § (2) bekezdése, a 473/2017. (XII. 28.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^60]: A 10/A. §-t a 473/2017. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^61]: A 11. § a 441/2015. (XII. 28.) Korm. rendelet 17. § (7) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^62]: A 11. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^63]: A 11. § (1) bekezdés b) pontja a 473/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^64]: A 11. § (1) bekezdés c) pontja a 473/2017. (XII. 28.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^65]: [A 11. § (1) bekezdés d) pontjának a 473/2017. (XII. 28.) Korm. rendelet 18. § c) pontjával elrendelt módosítása, amely szerint az „utast” szövegrész helyébe az „utazó” szöveg lép, nem vezethető át.]
+[^66]: A 11. § (1) bekezdés e) pontja a 473/2017. (XII. 28.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^67]: A 11. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^68]: A 11. § (1) bekezdés j) pontját a 473/2017. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^69]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^70]: A 11. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 11. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^72]: A 11. § (7) bekezdése a 473/2017. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^73]: A 11/A. §-t a 20/2007. (II. 20.) Korm. rendelet 9. §-a iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 17. § (8) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^74]: A 11/A. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^75]: A 11/A. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^76]: A 11/A. § (4) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
+[^77]: A 11/A. § (5) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 13. §-a iktatta be.
+[^78]: A 12. § a 20/2007. (II. 20.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 14. § (1) bekezdése alapján a rendelkezést a 2007. április 6. napja után indult vagy megismételt eljárásokra kell alkalmazni.
+[^79]: A 12. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 97. §-a, a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^80]: A 12. § (2) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^81]: A 12. § (3) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^82]: A 12. § (4) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^83]: A 12. § (5) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^85]: A 12/B. §-t a 78/2005. (IV. 28.) Korm. rendelet 7. §-a iktatta be.
+[^86]: A 13. § a 441/2015. (XII. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^87]: A 13/A. §-t a 473/2017. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^88]: A 14. §-t a 281/2008. (XI. 28.) Korm. rendelet 19. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^89]: A 14. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^90]: A hatálybalépés időpontja 2015. szeptember 2.
+[^91]: A 14. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^92]: A hatálybalépés időpontja 2015. szeptember 2.
+[^93]: A 14/A. §-t a 79/2018. (IV. 20.) Korm. rendelet 3. §-a iktatta be.
+[^94]: A 14/B. §-t a 346/2024. (XI. 19.) Korm. rendelet 2. §-a iktatta be.
+[^95]: A hatálybalépés időpontja 2024. november 20.
+[^96]: A 15. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1359. pontja hatályon kívül helyezte.
+[^97]: A 15. § (2) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte, újonnan a 346/2024. (XI. 19.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^98]: A 15. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1359. pontja hatályon kívül helyezte, újonnan a 140/2015. (VI. 9.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^99]: A 15. § (4) bekezdését a 218/1999. ( XII.28.)Korm. rendelet 153.§-ának (3) bekezdése hatályon kívül helyezte.
+[^100]: A 15. § (5) bekezdését a 4/1997. (I. 22.) Korm. rendelet 28. §-ának (1) bekezdése hatályon kívül helyezte.
+[^101]: A 15. § (6) bekezdését a 473/2017. (XII. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 346/2024. (XI. 19.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^102]: A 16. §-t a 79/2018. (IV. 20.) Korm. rendelet 4. §-a iktatta be.
+[^103]: Az 1. számú mellékletet a 20/2007. (II. 20.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 281/2008. (XI. 28.) Korm. rendelet 19. § (1) bekezdés b) pontja.
+[^104]: A 2. számú mellékletet a 20/2007. (II. 20.) Korm. rendelet 14. § (1) bekezdése hatályon kívül helyezte.

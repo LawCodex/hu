@@ -1,0 +1,224 @@
+---
+title: "176/1996. (XI. 29.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Kijevben, 1995. május 24-én aláírt, az államhatáron megvalósuló vasúti forgalomról szóló egyezmény kihirdetéséről"
+identifier: "176/1996. (XI. 29.) Korm. rendelet"
+njt_id: "1996-176-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/176"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-11-29
+in_force_from: 1996-11-29
+last_amended: 1996-11-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-176-20-22"
+retrieved: 2026-10-12
+---
+
+# 176/1996. (XI. 29.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Kijevben, 1995. május 24-én aláírt, az államhatáron megvalósuló vasúti forgalomról szóló egyezmény kihirdetéséről[^1]
+
+*(A jóváhagyásról szóló jegyzékváltás 1996. év szeptember 5. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között Kijevben, 1995. május 19-én aláírt, az államhatáron megvalósuló vasúti forgalomról szóló egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya és Ukrajna Kormánya között az államhatáron keresztül megvalósuló vasúti forgalomról
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: Szerződő Felek),
+
+– a Magyar Köztársaság és Ukrajna között a jószomszédság és az együttműködés alapjairól Kijevben, 1991. december 6-án aláírt Szerződés 13. Cikkéből kiindulva,
+
+– a két állam közötti közvetlen vasúti közlekedés fejlesztésére törekedve, a személyszállítás és az árufuvarozás – beleértve a tranzitfuvarozást is – biztosítása érdekében
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek együttműködnek, kölcsönösen megadják egymásnak a szükséges segítséget a két ország közötti vasúti határforgalom továbbfejlesztése céljából, és megteszik a szükséges intézkedéseket a nemzetközi személyszállítás és árufuvarozás lebonyolításának korszerűsítésére.
+
+*2. Cikk*
+
+A jelen Egyezmény értelmében:
+
+1\. A Szerződő Felek vasútjai
+
+– magyar részről: a Magyar Államvasutak Részvénytársaság (MÁV Rt.),
+
+– ukrán részről: Ukrajna Vasúti Közlekedési Állami Hivatala (Ukrzaliznyica).
+
+2\. A Szerződő Felek szolgálati személyzete – a jelen Egyezményből eredő feladatokat közvetlenül ellátó vasúti személyzet.
+
+*3. Cikk*
+
+A Magyar Köztársaság és Ukrajna között a vasúti forgalom a határállomásokon, illetve a Záhony–Csap és Eperjeske–Batyevo állomások közötti vonalszakaszokon keresztül, továbbá a határforgalmi átrakó körzetek állomásain valósul meg.
+
+*4. Cikk*
+
+1\. Mindkét Szerződő Fél határállomásainak és határátszelő vonalszakaszainak biztosítania kell a vonatok akadálytalan átbocsátását a másik Szerződő Fél államának területén található határállomásig.
+
+2\. A határállomások között a vonatok csak műszaki okokból állhatnak meg. Emellett ki kell zárni a vonatra való fel-, illetve a vonatról való leszállás lehetőségét.
+
+3\. Az államhatáron keresztül közlekedő vonatok határállomásokon való állásidejét a műszaki és kereskedelmi műveletek, valamint a határőrségi, vámellenőrzési, állat-, növény-, járvány- és közegészségügyi vizsgálatok elvégzésének szükséglete határozza meg, és azt a Szerződő Felek vasútjai a határellenőrzésben résztvevő szervekkel való egyeztetés útján rögzítik.
+
+4\. A határállomások és határátszelő vonalszakaszok üzemeltetésének és fenntartásának rendjét – beleértve a vasúti Tisza-hidak karbantartásával kapcsolatos kérdések szabályozását – a Magyar Köztársaság területén – a Magyar Államvasutak Rt., Ukrajna területén Ukrajna Vasúti Közlekedési Állami Hivatala határozza meg.
+
+*5. Cikk*
+
+1\. A Szerződő Felek egyeztetés alapján kölcsönösen segítik egymást a vasúti forgalomban felmerült rendkívüli és előre nem látott akadályok elhárításában speciális járművek, berendezések, anyagok és a szolgálati személyzet rendelkezésre bocsátásával.
+
+2\. A Szerződő Felek vasútjai haladéktalanul tájékoztatják egymást a Szerződő Felek határállomásai közötti vasúti forgalom bármilyen akadályoztatásáról, valamint annak megszűnéséről.
+
+3\. A vasúti határállomásokon vagy a határátszelő vonalszakaszokon előforduló, a vasúti forgalmat akadályozó körülményt annak a Szerződő Félnek a vasútja köteles elhárítani, amelynek területén az felmerült.
+
+*6. Cikk*
+
+A Szerződő Felek vasútjai és hírközlési szervei az általuk egyeztetett díjazás ellenében biztosítják a vasúti közlekedés irányító szervei, valamint a határállomások között a távíró, a telefon és más távközlési kapcsolatokat.
+
+*7. Cikk*
+
+1\. A jelen Egyezményből eredő feladatok elvégzése céljából a Szerződő Felek vasútjai egymás határállomásaira és átrakó körzeteinek állomásaira szolgálati személyzetet irányítanak.
+
+2\. Az egyik Szerződő Fél szolgálati személyzete:
+
+*a)* akit a másik Szerződő Fél határállomására vagy határforgalmi átrakó körzeteinek állomásaira irányítottak, jogosult ezen állomások között közlekedő vonatok díjtalan igénybevételére;
+
+*b)* a másik Szerződő Fél államának területén feladatait saját előírásai, a nemzetközi szabályok, valamint az egyeztetett szolgálati előírások alapján végzi;
+
+*c)* a másik Szerződő Fél államának területére való be-, illetve kilépéskor, valamint az ott-tartózkodáskor köteles annak törvényeit és más jogszabályait betartani;
+
+*d)* a másik Szerződő Fél államának területén való tartózkodáskor jogosult egyenruháját és megkülönböztető jelvényét viselni.
+
+3\. A Szerződő Felek vasútjai felelősséggel tartoznak a másik Szerződő Fél államának területén tartózkodó szolgálati személyzetük tevékenységéért és ellenőrzik annak munkáját.
+
+4\. A Szerződő Felek vasútjai kölcsönös megállapodás alapján az általuk egyeztetett díjazás ellenében egymás szolgálati személyzetének munkavégzéséhez és pihenéséhez helyiségeket biztosítanak a határállomásokon.
+
+5\. A Szerződő Felek vasútjai az egymás szolgálati személyzetének rendelkezésére bocsátott munka- és pihenőhelyiségeket jogosultak államnyelvükön is feliratokkal ellátni.
+
+*8. Cikk*
+
+1\. A Szerződő Felek szolgálati személyzete a határállomásokon a két állam államnyelvét, valamint azon nemzetközi szervezetek egyik hivatalos munkanyelvét használja, amelyeknek a Szerződő Felek vasútjai részesei.
+
+2\. A Szerződő Felek törekednek arra, hogy szolgálati személyzetük ismerje mindkét Szerződő Fél államnyelvét.
+
+*9. Cikk*
+
+A Szerződő Felek az egyik Szerződő Félnek, a másik Szerződő Fél államának területén ideiglenesen tartózkodó és szolgálati kötelezettségét ellátó szolgálati személyzete részére heveny, sürgős, életveszélyes esetben a legszükségesebb mértékig biztosítják térítésmentesen az orvosi elsősegélyt.
+
+*10. Cikk*
+
+A Szerződő Felek vasútjainak szolgálati személyzete az államhatárt a jelen Egyezményből eredő feladatok ellátása céljából a Szerződő Felek államai közötti határon lévő kijelölt határátkelőhelyeken, a határátlépés rendjéről szóló hatályos rendelkezéseknek megfelelő dokumentumokkal lépi át.
+
+*11. Cikk*
+
+1\. A jelen Egyezménynek megfelelően a vasúton szállítandó áruk, poggyászok és személyek vámkezelését és vámellenőrzését a Szerződő Felek vámszervei végzik államuk belső jogszabályaival összhangban.
+
+2\. A Szerződő Felek vasútjai visszafogadnak minden olyan vasúti küldeményt, amelynek beléptetését az illetékes hatóság a fogadó vasút részére átadott, indokolt írásbeli megtagadással visszautasítja. A vasúti küldemények visszaszállítása a Szerződő Felek által alkalmazott nemzetközi egyezményekkel összhangban történik.
+
+3\. Mentesek a vámok, illetve díjak alól, és az államhatáron beviteli, illetve kiviteli engedély nélkül ki-, illetve bevihetők az *a)*, *b),* *c)* alpontokban felsoroltak azzal a feltétellel, hogy azokat a rendeltetés céljára használták fel, azonban vámvizsgálat-kötelesek:
+
+*a)* a közlekedés szolgálati eszközei, a vasutak javítási üzemi szükségleteinek kielégítésére vagy a vasúti közlekedés akadályoztatásának elhárítására szolgáló speciális járművek, berendezések, szükséges szerszámok és anyagok, valamint a dokumentálhatóan igazolt alkatrészek;
+
+*b)* a szolgálati helyiségek bútorzata és berendezései;
+
+*c)* a szolgálati személyzet felszerelései és személyes használatú tárgyai, amelyek a szomszédos ország területén a szolgálati kötelezettségek ellátásához és a mindennapi élethez szükségesek.
+
+A fel nem használt műszaki eszközöket, tárgyakat, anyagokat és alkatrészeket vissza kell szállítani.
+
+*12. Cikk*
+
+Az államhatáron át továbbított vasúti küldemények állat-, növény-, járvány- és közegészségügyi vizsgálatát a Szerződő Felek erre illetékes szervei végzik saját jogszabályaik és a nemzetközi előírásoknak megfelelően.
+
+*13. Cikk*
+
+A poggyász, expresszáruk, áruk, vasúti járművek, konténerek, rakodólapok és rakszerek átadását a Szerződő Felek vasútjai az e kérdésekről megkötött megállapodások szerint végzik.
+
+*14. Cikk*
+
+A postai küldemények átadása az államhatáron keresztül az Egyetemes Postaegyesület Alapokmánya, konvenciói és egyezményei, valamint a Szerződő Felek illetékes postai szervei között megkötött megállapodások alapján történik.
+
+*15. Cikk*
+
+1\. Az egyik Szerződő Fél vasúti szolgálati személyzetének a másik Szerződő Fél országa területén szolgálati kötelezettségének ellátása közben baleset eredményeként okozott nem vagyoni jellegű kárát és tulajdonát ért kárt azon Szerződő Fél vasútja köteles megtéríteni és annak a Szerződő Fél államának törvényei és más jogszabályai szerint, ahol a kárt szenvedett alkalmazásban áll.
+
+2\. A személy-, poggyász-, expresszáru- és árufuvarozási szerződésekből, valamint a vasúti járművek, rakszerek, konténerek és rakodólapok használatából eredő felelősség kérdésében a Szerződő Felek vasútjaira nézve kötelező nemzetközi egyezményekben foglaltak az irányadók.
+
+3\. Harmadik személyekkel szemben a határállomásokon vagy a közöttük lévő határátszelő vonalszakaszokon bekövetkezett baleset vagy havária során okozott kárért saját államának jogszabályai szerint annak a Szerződő Félnek a vasútja tartozik felelősséggel, amelynek területén a baleset vagy a havária bekövetkezett.
+
+4\. Az egyik Szerződő Fél vasútja saját hibájából a másik Szerződő Fél vasútjának okozott anyagi kárért felelősséggel tartozik.
+
+5\. A Szerződő Felek vasútjának kölcsönös anyagi felelősségére vonatkozó szabályok a következők:
+
+*a)* mindkét Szerződő Fél vasútja felelősséggel tartozik a saját személyzetének hibájából okozott kárért;
+
+*b)* a károkozásért mindkét Szerződő Fél vasútja felelős a közrehatásuk arányában; ha nem lehetséges a károkozásért felelős kilétének megállapítása, mindkét Szerződő Fél vasútja egyenlő arányban viseli a felelősséget;
+
+*c)* a pályák, vasúti építmények, létesítmények és mozdonyok nem kielégítő állapota miatt bekövetkezett károk esetében felelősséggel azon Szerződő Fél vasútja tartozik, amelynek kötelessége ezen mozdonyok, építmények, létesítmények és pályák karbantartása;
+
+*d)* a vasúti kocsik műszaki meghibásodása következtében felmerülő károkért felelősséggel azon Szerződő Fél vasútja tartozik, amely a vasúti kocsikat átvette;
+
+*e)* az elháríthatatlan okok miatti károk esetében az azt igazoló dokumentumok megléte esetén kártérítésnek nincs helye.
+
+6\. A Szerződő Felek közvetlen kártérítésre kötelezett vasútja viszontkeresetre tarthat igényt a másik Szerződő Fél vasútjával szemben. A Szerződő Felek vasútjai a viszontkereset bejelentését megelőzően megegyezhetnek a kártérítésről.
+
+*16. Cikk*
+
+Az elvégzett fuvarozásért és a nyújtott vasúti szolgáltatásokért esedékes fizetések és leszámolások, valamint az okozott anyagi kár megfizetése a Szerződő Felek vasútjai által megkötött két- és többoldalú megállapodások alapján történik.
+
+*17. Cikk*
+
+A jelen Egyezményből eredő műszaki, üzemeltetési, pénzügyi, leszámolási és egyéb vasúti kérdéseket a Szerződő Felek vasútjai által megkötött megállapodások szabályozzák.
+
+*18. Cikk*
+
+1\. A jelen Egyezmény teljesítésével és értelmezésével kapcsolatos kérdések vizsgálatára, illetve megoldására a Szerződő Felek Vasúti Határforgalmi Vegyesbizottságot hoznak létre, amely a Szerződő Felek illetékes szerveinek és vasútjainak képviselőiből áll.
+
+2\. A Vegyesbizottság munkájának rendjét az első ülésen elfogadott ügyrend határozza meg.
+
+*19. Cikk*
+
+Az Egyezmény alkalmazása során felmerülő vitás kérdéseket a Vegyesbizottságban tárgyalásokkal, ezek eredménytelensége esetén, diplomáciai úton kell rendezni.
+
+*20. Cikk*
+
+A Szerződő Felek államai közötti katonai vasúti szállítmányok átadását, átvételét és kísérését külön államközi szerződés szabályozza.
+
+*21. Cikk*
+
+Jelen Egyezmény a Szerződő Felek írásbeli egyetértésével diplomáciai jegyzékváltás útján módosítható és kiegészíthető.
+
+*22. Cikk*
+
+Jelen Egyezmény meghatározatlan időre szól és azt bármelyik Szerződő Fél bármikor felmondhatja. Az Egyezmény az egyik Szerződő Fél által diplomáciai úton írásban a másik Szerződő Félhez intézett, felmondásról szóló értesítés kézhezvételét követő hat hónap elteltével veszti hatályát.
+
+*23. Cikk*
+
+A jelen Egyezményt a Szerződő Felek államának jogszabályaival összhangban jóvá kell hagyni és az a jóváhagyásról szóló diplomáciai értesítések kézhezvételét követő 30. napon lép hatályba.
+
+*24. Cikk*
+
+A jelen Egyezmény hatálybalépésével
+
+– a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között a vasúti határforgalomról Budapesten, 1986. január 15-én aláírt Egyezmény – a 10. Cikk kivételével – hatályát veszti, és a Szerződő Felek között nem kerül alkalmazásra,
+
+– a Szerződő Felek a határforgalom ellenőrzésének kérdéseiről szóló egyezmény általuk történő aláírásáig a 10. Cikk rendelkezéseit magukra nézve kötelezőnek tartják.
+
+Készült Kijevben, 1995. május 19. napján, két eredeti példányban, mindkettő magyar, ukrán és orosz nyelven. Valamennyi szöveg egyaránt hiteles. Az Egyezmény Cikkeinek értelmezésével kapcsolatos viták felmerülése esetén az orosz nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya nevében
+
+Ukrajna Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1996. október 5-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1996. évi 108. számában közzétett helyesbítésnek megfelelő szöveg.

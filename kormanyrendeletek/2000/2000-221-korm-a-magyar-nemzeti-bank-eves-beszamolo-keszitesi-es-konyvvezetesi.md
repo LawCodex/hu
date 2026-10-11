@@ -1,0 +1,885 @@
+---
+title: "221/2000. (XII. 19.) Korm. rendelet a Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól"
+identifier: "221/2000. (XII. 19.) Korm. rendelet"
+njt_id: "2000-221-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/221"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-19
+in_force_from: 2009-01-01
+last_amended: 2025-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-221-20-22"
+retrieved: 2026-10-12
+---
+
+# 221/2000. (XII. 19.) Korm. rendelet a Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól
+
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján – a jegybanki funkció sajátosságaira tekintettel –, a Magyar Nemzeti Bank véleményének előzetes kikérésével, a Kormány a következőket rendeli el:
+
+## A RENDELET HATÁLYA
+
+### 1. §
+
+(1) A rendelet a Magyar Nemzeti Bankra (a továbbiakban: MNB) terjed ki.
+
+(2) Az MNB a Tv. előírásait az e rendeletben foglalt eltérésekkel köteles alkalmazni.
+
+## ÉRTELMEZŐ RENDELKEZÉSEK
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *jegybanki célú nemesfémkészlet:* törvényben megállapított jegybanki feladatok megvalósításához felhasznált nemesfémen túl az olyan nemesfémkészlet, amely likvid eszköznek tekinthető, a nemzetközi pénz- és tőkepiacokon forgalmazható, így különösen az arany, az ezüst, a platina;
+
+2\. *IMF tartalék kvóta:* a Nemzetközi Valuta Alapba SDR-ben (Special Drawing Right = különleges lehívási jog) befizetett IMF kvóta szabadon lehívható – még le nem hívott – hányada;
+
+3\. *repo-ügylet:* olyan ügylet, ahol a szerződés megkötésével egyidejűleg az egyik szerződő fél per-, igény- és tehermentesen eladja vagy fedezetül átadja értékpapírjait a másik szerződő félnek meghatározott összeg ellenében, meghatározott későbbi időpontban és feltételekkel történő visszavételi kötelezettség mellett;
+
+4\. *kamatozó deviza-swap (currency swap) ügylet:* olyan – általában közép, illetve hosszú lejáratra kötött – ügylet, amely különböző devizák cseréjét, a tőke utáni kamatfizetések sorozatát és az ügylet lezárásakor a tőkék törlesztését foglalja magában;
+
+5\. *deviza-swap ügylet:* olyan – általában rövid lejáratra kötött – ügylet, amely különböző devizák cseréjét és az ügylet lezárásakor a szerződésben – a keresztárfolyam és a devizák kamatrátája által – meghatározott áron történő visszacserélését foglalja magában;
+
+6.[^1]
+
+7\. *devizaeszközök és devizaforrások átértékelési különbözete:* az átértékelési körbe bevont devizaeszközök és devizaforrások könyv szerinti forint értékének – a forint külföldi pénznemhez viszonyított árfolyama módosulásából eredő – forintban kimutatott változása;
+
+8\. *devizaeszközök és devizaforrások értékelési különbözete:* az értékelési körbe bevont devizaeszközök és devizaforrások beszerzési devizaértékének és azonos tartalmú aktuális piaci devizaértékének különbsége;
+
+9.[^2] *piaci érték:* aktív piacon egy pénzügyi instrumentum értékesítése révén megszerezhető vagy megvétele során kifizetendő összeg, felhalmozott kamatok nélkül;
+
+10\. *piaci értékelésbe és elszámolásba bevont ügylet (mark to market ügylet):* olyan határidős ügylet, amelynél a vonatkozó szerződésben foglaltak alapján
+
+a) a futamidő alatt, a szerződésben meghatározott időszakonként a szerződő felek az ügyletet értékelik, a piaci ár és a kötési ár (vagy az előző értékelésnél alkalmazott ár) közötti különbözetet kölcsönösen elszámolják;
+
+b) a futamidő alatt az egyik fél kérésére az ügyletet értékelik és a szerződésben előzetesen rögzített feltételek mellett lezárják;
+
+11\. *az átértékelési körbe bevonandó eszközök és források:* a mérlegben kimutatott devizaeszközök és devizaforrások, továbbá ezen eszközökkel és forrásokkal kapcsolatos fedezeti ügyletek miatti, mérlegen kívüli követelések és tartozások;
+
+12.[^3] *nettó devizapozíció:* egy adott devizanem összes eszköz- és forrásszámláinak egyenlege, a fedezeti ügyletek miatti, mérlegen kívüli határidős deviza követeléseket és kötelezettségeket is figyelembe véve;
+
+13\. *értékpapírok beszerzésének piaci értékkülönbözete:* a kamatozó értékpapírok kamatot nem tartalmazó vételára (beszerzési értéke) és névértéke közötti különbözet;
+
+14.[^4] *monetáris célból tartott értékpapír:* a Magyar Nemzeti Bank monetáris politikájának megvalósítása céljából vásárolt értékpapír;
+
+15.[^5] *monetáris célból kötött swap ügylet:* belföldön, belföldi hitelintézetekkel, a monetáris politikai eszköztár részeként kötött swap ügylet;
+
+16.[^6]
+
+17\. *értékpapír:* a Tv. szerinti hitelviszonyt megtestesítő értékpapír és tulajdoni részesedést jelentő befektetés.
+
+18.[^7] *realizált deviza árfolyamnyereség, illetve -veszteség:* egy adott devizanemben fennálló nettó devizapozíció abszolút értékében vett csökkenése esetén az adott napi hivatalos árfolyam és az átlagos beszerzési árfolyam különbségéből eredő nyereség vagy veszteség.
+
+19.[^8] *pénzbevonási nyereség:* az MNB által forgalomból bevont, törvényes fizetőeszköznek már nem minősülő pénz kibocsátott és – a bevonás határnapjától számított, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. évi törvény (a továbbiakban: MNB tv.) 23. § (3) bekezdése szerinti időtartam alatt – forgalomban lévőre átváltott összegének különbsége.
+
+## BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖTELEZETTSÉG
+
+### 3. §
+
+(1) Az MNB kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2)[^9] Az MNB összevont (konszolidált) éves beszámoló készítésére nem kötelezett.
+
+(3)[^10] Az (1) bekezdés szerinti éves beszámoló az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a kiegészítő mellékletből áll.
+
+(4) Az MNB statisztikai és elemzési célokra a (3) bekezdésben foglaltaktól eltérő összetételű és tagolású beszámolót is készít, és tesz közzé.
+
+(5) A Tv. 3. §-a (3) bekezdésének 3. pontjában meghatározott értékhatár az MNB esetében a mérleg főösszegének 2%-a.
+
+(5a)[^11] Az (5) bekezdésben foglaltakon túlmenően jelentős összegű hibának minősül az is, ha a banküzem működési költségei és ráfordításai tekintetében a Tv. 3. § (3) bekezdés 3. pontjában meghatározott hibák és hibahatások meghaladják a banküzem működési költségei és ráfordításai 2%-át.
+
+(6) A mérleget legalább az 1. számú melléklet szerinti, az eredménykimutatást legalább a 2. számú melléklet szerinti tagolásban kell elkészíteni. A mérleg és az eredménykimutatás tartalmára vonatkozó Tv. szerinti előírásokat az e rendeletben foglaltak figyelembevételével kell alkalmazni.
+
+(7)[^12]
+
+## A MÉRLEG TAGOLÁSA, TÉTELEINEK TARTALMA
+
+## Eszközök – aktívák
+
+### 4. §
+
+(1) A forintban fennálló követeléseken belül kell kimutatni többek között a hitelintézetekkel és pénzügyi vállalkozásokkal kötött repo-ügyletekből származó követeléseket.
+
+(2)[^13]
+
+(3)[^14] Az egyéb követelések között úton levő tételként kell nyilvántartani – tartozik egyenleg esetén – a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységgel kapcsolatos, valamint a GIRO Elszámolásforgalmi Zártkörűen Működő Részvénytársaság (a továbbiakban: GIRO Zrt.) elszámolásával összefüggő tételeket. Az egyéb követelések között kell kimutatni többek között a felügyeleti és hatósági tevékenységből származó követeléseket (felügyeleti díjelőírásokat, kiszabott bírságokat, igazgatási szolgáltatási díjakat, megtérítendő eljárási és egyéb költségeket) és a dolgozói kölcsönöket.
+
+(4) Az arany- és devizatartalékok között kell kimutatni:
+
+a)[^15] a jegybanki célú aranykészletet, kivéve az érmeverésre szolgáló aranykészletet,
+
+b)[^16]
+
+c) az IMF tartalék kvótát, továbbá
+
+d) ,,rendben lévő'' minősítés esetén a konvertibilis és likvid devizaeszköznek minősülő
+
+1\. az MNB külföldi hitelintézetnél vezetett folyószámláinak, betéti és letéti számláinak állományát,
+
+2\. egyéb külföldi betételhelyezéseket, illetve repo-ügylet miatti követeléseket,
+
+3.[^17] devizatartalék kezelési céllal vásárolt külföldi értékpapírok állományát, beleértve az ilyen értékpapírok 13. § (3) bekezdés szerint kölcsönbeadott állományát is.
+
+(5) A központi költségvetéssel szembeni devizakövetelések között kell kimutatni az MNB és a központi költségvetés közötti adósságcsere során az MNB által devizában nyújtott hitelt és e hitel árfolyamkockázatára kötött fedezeti célú határidős ügyletekkel kapcsolatos átértékelési különbözetek ügylettípusonként összevont aktív egyenlegét is.
+
+(6) Az egyéb devizakövetelések között kell kimutatni többek között:
+
+a) a külföldi devizapozíciók árfolyamkockázatára kötött fedezeti célú határidős ügyletekkel kapcsolatos átértékelési különbözetek ügylettípusonként összevont aktív egyenlegét,
+
+b) a (4) bekezdés a) pontja és a 11. § (4) bekezdése alá nem tartozó jegybanki célú nemesfémkészletet,
+
+c) Magyarország forintban és SDR-ben befizetett – devizában nyilvántartott – IMF kvótájának a tartalék kvótával csökkentett részét,
+
+d) a devizatartaléknak nem minősülő, egyéb szervezetek által kibocsátott deviza-értékpapírok állományát,
+
+e) a konvertibilis devizában fennálló, nem ,,rendben lévő'' minősítésű értékpapírokat.
+
+f)[^18]
+
+(7)[^19] A banküzemi eszközök között egyéb eszközként kell kimutatni az értékpapír-forgalmazással kapcsolatos aktív elszámolásokat, a bankügyletekkel kapcsolatos egyéb elszámolások, a munkavállalókkal kapcsolatos elszámolási számlák, egyéb aktív jellegű elszámolások, követelések áruszállításból és szolgáltatásból számlák tartozik egyenlegeit, a költségvetési befizetési kötelezettségek, adóelszámolási számlák összevont tartozik egyenlegeit, a vegyes aktív elszámolások, a Nemzeti Adó- és Vámhivatal vámhatósági elszámolási számlák tartozik egyenlegeit, valamint az egyéb aktív elszámolási számlák tartozik egyenlegét.
+
+(8)[^20] Aktív időbeli elhatárolásként kell kimutatni a mérleg fordulónapjáig járó, a mérlegfordulónap és a mérlegkészítés időpontja között esedékes és pénzügyileg realizált kamatok és jutalékok összegét, valamint a mérleg fordulónapjáig időarányosan járó, de a mérlegkészítés időpontjáig nem esedékes kamatok összegét.
+
+## Források – passzívák
+
+### 5. §
+
+(1) A forintban fennálló kötelezettségeken belül kell kimutatni többek között a hitelintézetekkel és pénzügyi vállalkozásokkal kötött repo-ügyletekből származó kötelezettségeket.
+
+(2)[^21] A forintban fennálló egyéb betétek és kötelezettségek tételen belül kell nyilvántartani úton lévő tételként – követel egyenleg esetén – a Posta Elszámoló Központot működtető intézmény által végzett pénzforgalmi szolgáltatási tevékenységgel kapcsolatos, valamint a GIRO Zrt. elszámolásával összefüggő tételeket.
+
+(3) A központi költségvetéssel szembeni devizakötelezettségek között kell kimutatni az MNB és a központi költségvetés közötti adósságcsere során az MNB által devizában nyújtott hitel árfolyamkockázatára kötött fedezeti célú határidős ügyletekkel kapcsolatos átértékelési különbözetek ügylettípusonként összevont passzív egyenlegét.
+
+(4) Az egyéb devizakötelezettségek között kell kimutatni:
+
+a) a külföldi devizapozíció árfolyamkockázatára kötött, fedezeti célú, határidős ügyletekkel kapcsolatos átértékelési különbözetek ügylettípusonként összevont passzív egyenlegét,
+
+b) a Nemzetközi Valuta Alap által swap hitel formájában nyújtott devizahitelek forintellenértékét, az éven túli IMF kvóta forintfedezetét (együttesen az IMF forintkészlete) és a forintkészlet értékállandóságát biztosító évenkénti átértékelési különbözetek összegét.
+
+(5)[^22] A banküzem egyéb forrásai között kell kimutatni a központi költségvetéssel, a Nemzeti Egészségbiztosítási Alapkezelővel, az egészségbiztosítási feladatkörében eljáró fővárosi és vármegyei kormányhivatallal és az önkormányzatokkal szembeni rövid lejáratú kötelezettségeket, a munkavállalókkal kapcsolatos passzív elszámolásokat, az áruszállításból és szolgáltatásból eredő kötelezettségeket.
+
+(6)[^23] Az átértékelési körbe bevonandó eszközöknek és forrásoknak az MNB tv. 147. § (1) bekezdése szerinti értékeléséből adódó árfolyamnyereséget vagy árfolyamveszteséget a saját tőke részét képező, forint árfolyam kiegyenlítési tartalékába kell helyezni.
+
+(7)[^24] Passzív időbeli elhatárolásként kell kimutatni a mérleg fordulónapjáig felmerült, a mérlegfordulónap és a mérlegkészítés időpontja között esedékes és kifizetett kamatok és jutalékok összegét, a mérleg fordulónapjáig időarányosan a tárgyévet terhelő (fizetendő), de a mérlegkészítés időpontjáig nem esedékes kamatok összegét.
+
+(8)[^25] Az eredménytartalékba kell helyezni – a Tv. előírásain túlmenően – a jegyzett tőke szintje alatt lévő saját tőke rendezésére átutalt, a központi költségvetés által az MNB tv. 166. § (3) bekezdése szerint, közvetlenül az eredménytartalék javára megtérített összeget, valamint a részvényes által az eredménytartalék javára nyújtott tőkejuttatást.
+
+(9)[^26]
+
+(10)[^27]
+
+## A MÉRLEGTÉTELEK ÉRTÉKELÉSE
+
+## Az eszközök értékelése
+
+### 6. §
+
+(1)[^28] Az értékpapírokat – kivéve a (4) és (5) bekezdésben foglaltakat – beszerzési értéken – kamattal csökkentett vételáron – kell kimutatni a (7) bekezdésben meghatározott amortizáció figyelembevételével.
+
+(2)[^29] A devizában belföldön és külföldön fennálló követeléseket (hitelek, betétek, váltókövetelések, értékpapírok, fedezeti célú, határidős ügyletek miatt fennálló követelések), az MNB által közzétett, a tárgyévi mérleg fordulónapján érvényes hivatalos devizaárfolyamon kell értékelni.
+
+(3) A 11. § (4) bekezdése szerinti készletként kimutatott nemesfém kivételével a jegybanki célú nemesfémkészleteket a tárgyév utolsó naptári napjának világpiaci árfolyamán kell – devizaként – kimutatni.
+
+(4)[^30] A befektetési céllal vásárolt belföldi értékpapírokat beszerzési értéken, a külföldi pénznemben befektetett pénzügyi eszközöket (a továbbiakban együtt: MNB részesedések) az MNB által közzétett, az üzleti év mérleg fordulónapján érvényes hivatalos devizaárfolyamon kell értékelni.
+
+(5)[^31] A devizában fennálló, értékpapíron alapuló követeléseket, beleértve az ilyen értékpapírok kölcsönbeadott állományát és kivéve a visszavásárolt saját kibocsátású devizakötvényeket, piaci értéken kell kimutatni. Az MNB tv. 147. § (2) bekezdése szerinti értékelés alapján megállapított értékelési különbözetet a saját tőke részét képező deviza-értékpapírok kiegyenlítési tartalékába kell helyezni.
+
+(6)[^32] A monetáris céllal vásárolt állampapírok és a piaci értéken nyilvántartott követelések kivételével a veszteségek kockázatának mértékével arányos értékvesztést kell elszámolni a követelések és az értékpapírok után.
+
+(7)[^33] A kamatozó értékpapírok beszerzésének piaci értékkülönbözetét, valamint a diszkont értékpapírok névértéke és vételára közötti különbözetet amortizálni kell. Az amortizációt a lejáratig hátralévő futamidő alatt lineáris módszer alapján kell elszámolni.
+
+## A források értékelése
+
+### 7. §
+
+(1) A devizában fennálló belföldi és külföldi kötelezettségeket (hiteleket, betéteket, váltókötelezettségeket, értékpapíron alapuló kötelezettségeket, mérlegen kívül nyilvántartott, fedezeti célú határidős ügyletek miatti kötelezettségeket) az MNB által hivatalosan közzétett, a tárgyévi mérleg fordulónapján érvényes hivatalos devizaárfolyamon kell értékelni.
+
+(2) Jegybanki kötelezettség a forgalomban lévő bankjegy- és érmeállomány, amelyet a címlettel egyezően könyv szerinti értéken kell szerepeltetni.
+
+## AZ EREDMÉNYKIMUTATÁS TAGOLÁSA, TARTALMA
+
+## A bevételek tagolása
+
+### 8. §
+
+(1) A diszkont értékpapírok névértéke és vételára közötti különbözetként számított, a tárgyévre időarányosan jutó kamatjellegű hozamot kamatbevételként kell elszámolni.
+
+(2) A kamatbevételek között kell kimutatni többek között:
+
+a)[^34] az állam által kibocsátott értékpapírok kamatbevételét,
+
+b) a hitelintézetek és pénzügyi vállalkozások esetében a repo-ügylet és a viszontleszámítolt váltók után számított kamatbevételt,
+
+c) az MNB-nél vezetett folyószámlán jelentkező átmeneti tartozásállomány után kapott büntetőkamatok összegét,
+
+d) a hitelügyletekkel kapcsolatosan kapott különféle késedelmi és büntetőkamatokat,
+
+e)[^35] a folyósított dolgozói kölcsönök után kapott kamatok összegét,
+
+f) az egyéb szervezetek MNB-nél elhelyezett betéteihez kapcsolódó – bármely jogcímű – kamatbevételeket,
+
+g)[^36] az értékpapír kölcsön után kapott kölcsönzési díjat.
+
+(3) Kamatjellegű bevételek között – forintban, illetve devizában elszámolt részletezésben – kell nyilvántartásba venni:
+
+a)[^37] a kamatozó értékpapírok beszerzésének – nyereségjellegű – piaci értékkülönbözetéből a tárgyidőszakra jutó időarányos összeget,
+
+b) a egyéb célú határidős ügyletek esetében – a konverziós árfolyamnyereségként kimutatott összeg kivételével – a lejáratkor vagy lezáráskor elszámolt bevételek teljes összegét,
+
+c) a kamatozó deviza-swap ügyletek után elszámolt kamatbevételek – hivatalos deviza- árfolyamon számított – időarányos részét,
+
+d) a fedezeti célú határidős devizaügylet esetében a (két) devizának a határidős szerződés megkötése napján érvényes (kereszt)árfolyama és a határidős kötési árfolyam közötti, a deviza-swap ügylet esetében az azonnali (kereszt)árfolyam és a határidős kötési árfolyam közötti devizában fennálló árfolyamkülönbözet és a tőkeösszeg szorzataként megállapított bevétel – hivatalos devizaárfolyamon számított – időarányos összegét (termin és swap költség),
+
+e) kamat-swap ügylet esetén a kamatösszegek cseréjéből származó – bevétel jellegű – kamatkülönbözet tárgyidőszakra járó időarányos részét,
+
+f) a fedezeti célú határidős ügyletek határidő előtti lezárásakor a nyilvántartás szerinti érték (a kötési ár, árfolyam) és a pénzügyileg rendezett összeg közötti különbözet összegét nyereség esetén,
+
+g) az átsorolásból eredő értékelési módszer megváltoztatásakor az eddig fedezetinek minősített ügylet nyilvántartás szerinti értéke és a megváltozott minősítés szerinti értéke közötti különbözetet, nyereség esetén,
+
+h)[^38] az olyan alapügyletekhez kapcsolódóan kapott (járó) jutalék és díjbevételeket, amely ügyletek után kamat is felszámításra került.
+
+(4)[^39] A deviza-árfolyamváltozásból származó bevételek között kell kimutatni a konverziós árfolyamnyereség összegét, valamint a tárgyévi realizált deviza árfolyamnyereség 14. § (11) bekezdés szerint meghatározott összegét.
+
+(5) Konverziós árfolyamnyereségként kell kimutatni:
+
+a)[^40]
+
+b) az egyéb célú határidős devizaügyletek és az egyéb célú deviza-swapok lejáratakor, illetve lezárásakor végrehajtott devizacsere kötési árfolyama és a hivatalos devizaárfolyamok különbözetéből származó nyereséget,
+
+c) az eladott deviza opciók opciós díjbevételét, illetve a vásárolt vagy kiírt opciós jog érvényesítésekor végrehajtott devizacsere kötési árfolyama és a hivatalos devizaárfolyamok különbözetéből származó nyereséget.
+
+(6)[^41]
+
+(7)[^42] Az egyéb bevételek között kell kimutatni a Tv. szerinti egyéb bevételek közé tartozó bevételt és az MNB által folytatott minden olyan pénzügyi, illetve nem pénzügyi tevékenységből származó jutalék- és díjbevételt, amely nem tartozik a (2)–(5) bekezdés szerinti bevételek közé, így különösen:
+
+a) a forintban befolyt (járó) jutalékokat és forgalmi jutalékokat, postaforgalmi díjakat,
+
+b) a devizában befolyt (járó) jutalékokat és költségtérítéseket, megbízási díjakat,
+
+c)[^43] az MNB részesedésekből származó bevételeket, árfolyamnyereséget, kapott (járó) osztalékot,
+
+d) a bankszámlákkal kapcsolatos külön kezelési díjakat,
+
+e) az emissziós szolgáltatáshoz kapcsolódó (pénztári szolgálat, pénzszállítás, pénzfeldolgozás) bevételeket,
+
+f)[^44] a felügyeleti és hatósági tevékenységből származó
+
+fa) felügyeleti díjakat,
+
+fb) igazgatási szolgáltatási díjakat,
+
+fc) kiszabott bírságokat,
+
+fd) hatósági vizsgadíjakat,
+
+fe) megtérítendő eljárási és egyéb költségeket.
+
+(8)[^45] A pénzügyi műveletek realizált nyereségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamnyereségét, a kapott (járó) osztalékot, valamint a Tv. szerint a pénzügyi műveletek bevételeibe tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett bevételeket.
+
+## A ráfordítások tagolása
+
+### 9. §
+
+(1) A kamatráfordítások között kell kimutatni többek között:
+
+a)[^46] a Magyar Államkincstár kincstári egységes számláinak mindenkori egyenlege után fizetett kamatok összegét, valamint a központi költségvetés által elhelyezett egyéb betétek kamatait,
+
+b)[^47] a hitelintézetek kötelező jegybanki (forint- és deviza-) tartalékai, valamint betétei után fizetendő és az MNB által visszavásárlási kötelezettséggel eladott értékpapírok után fizetett (fizetendő) kamatokat,
+
+c)[^48] az MNB-vel munkaviszonyban álló munkavállalók fizetési számlái után fizetett kamatok összegét,
+
+d) az egyéb szervezetek MNB-nél elhelyezett betéteihez kapcsolódó – bármely jogcímű – kamatráfordításokat,
+
+e) az MNB által kibocsátott kötvény után fizetett (fizetendő) kamatot, illetve kamatjellegű árfolyamkülönbözetet,
+
+f)[^49]
+
+g)[^50]
+
+h)[^51] az értékpapír kölcsön után fizetett kölcsönzési díjat.
+
+(2) Kamatjellegű ráfordítások között – forintban, illetve devizában elszámolt részletezésben – kell nyilvántartásba venni:
+
+a)[^52] a kamatozó értékpapírok beszerzésének – veszteségjellegű – piaci értékkülönbözetéből a tárgyidőszakra jutó időarányos összeget,
+
+b) a egyéb célú határidős ügyletek esetében – a konverziós árfolyamveszteségként kimutatott összeg kivételével – a lejáratkor vagy lezáráskor elszámolt ráfordítások teljes összegét,
+
+c) a kamatozó deviza-swap ügyletek után elszámolt kamatráfordítások – hivatalos deviza- árfolyamon számított – időarányos részét,
+
+d) a fedezeti célú határidős devizaügylet esetében a (két) devizának a határidős szerződés megkötése napján érvényes (kereszt)árfolyama és a határidős kötési árfolyam közötti, a deviza-swap ügylet esetében az azonnali (kereszt)árfolyama és a határidős kötési árfolyam közötti devizában fennálló árfolyamkülönbözet és a tőkeösszeg szorzataként megállapított ráfordítás – hivatalos devizaárfolyamon számított – időarányos összegét (termin és swap költség),
+
+e) kamat-swap ügylet esetén a kamatösszegek cseréjéből származó – ráfordítás jellegű – kamatkülönbözet tárgyidőszakot terhelő időarányos részét,
+
+f) a fedezeti célú határidős ügyletek határidő előtti lezárásakor a nyilvántartás szerinti érték (a kötési ár, árfolyam) és a pénzügyileg rendezett összeg közötti különbözet összegét veszteség esetén,
+
+g) az átsorolásból eredő értékelési módszer megváltoztatásakor az eddig fedezetinek minősített ügylet nyilvántartás szerinti értéke és a megváltozott minősítés szerinti értéke közötti különbözetet, veszteség esetén,
+
+h)[^53] az olyan alapügyletekhez kapcsolódóan fizetett (fizetendő) jutalék és díjráfordításokat, amely ügyletek után kamat is felszámításra került.
+
+(3)[^54] A deviza-árfolyamváltozásból származó ráfordítások között kell kimutatni a konverziós árfolyamveszteség összegét, valamint a tárgyévi realizált deviza árfolyamveszteség 14. § (11) bekezdése szerint meghatározott összegét.
+
+(4) Konverziós árfolyamveszteségként kell kimutatni:
+
+a)[^55]
+
+b) az egyéb célú határidős devizaügyletek és az egyéb célú deviza-swapok lejáratakor, illetve lezárásakor végrehajtott devizacsere kötési árfolyama és a hivatalos devizaárfolyamok különbözetéből származó veszteséget,
+
+c) a vásárolt deviza opciók opciós díj ráfordítását, illetve az eladott opciós jog érvényesítésekor végrehajtott devizacsere kötési árfolyama és a hivatalos devizaárfolyamok különbözetéből származó veszteséget.
+
+(5)[^56] Az eredménykimutatásban elkülönítetten kell bemutatni a bankjegy- és érmegyártás költségeit.
+
+(6)[^57] Az egyéb ráfordítások között kell kimutatni Tv. szerinti egyéb ráfordítások közé tartozó ráfordítást és az MNB által folytatott minden olyan pénzügyi, illetve nem pénzügyi tevékenységből származó jutalék- és díjráfordítást, amely nem tartozik az (1)–(5) bekezdés szerinti ráfordítások közé, így különösen:
+
+a) a forintban elszámolt jutalékokat és költségeket, az értékpapírokkal kapcsolatos szolgáltatási ráfordításokat (ide nem értve az értékpapír értékesítés árfolyamveszteségét),
+
+b) a devizában elszámolt jutalékokat és költségeket [a Nemzetközi Valuta Alappal, a Világbankkal és a SWIFT-tel (Nemzetközi Bankközi Pénzügyi Távközlési Társaság) stb. kapcsolatos költségek],
+
+c) a pénzcserével összefüggő ráfordításokat,
+
+d) a fizetési forgalommal közvetlenül összefüggő ráfordításokat,
+
+e)[^58] az MNB részesedésekből származó ráfordításokat, árfolyamveszteséget.
+
+f)[^59] a felügyeleti és hatósági tevékenységből származó ráfordításokat (eljárási költségeket, követeléskezelés kapcsán felmerült díjakat és költségeket, valamint tárgyévet megelőzően keletkezett követeléseket érintő esetleges visszafizetéseket, megszüntetéseket).
+
+(7) A banküzem működési költségei és ráfordításai között kell kimutatni az MNB gazdálkodásával kapcsolatban, a tárgyévben felmerült és elszámolt összes költséget és ráfordítást.
+
+(8)[^60] A pénzügyi műveletek realizált veszteségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamveszteségét, valamint a Tv. szerint a pénzügyi műveletek ráfordításaiba tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett ráfordításokat.
+
+## Az osztalék elszámolása
+
+### 10. §[^61]
+
+(1)[^62] Az MNB az MNB tv. 166. § (1) és (1a) bekezdése szerint meghatározott osztalékot a tárgyévi eredménnyel kiegészített eredménytartalék pozitív összegének erejéig – legfeljebb a saját tőke jegyzett tőkét meghaladó tárgyév végére vonatkozó összegéig – eredménytartalék csökkentő tételként számolja el a rövid lejáratú kötelezettségekkel szemben.
+
+(2) Az MNB az osztalékfizetési kötelezettség központi költségvetéssel történő elszámolása során, a befizetést millió forintra kerekítve számolja el.
+
+## KÖNYVVEZETÉSI ÉS EGYÉB ELŐÍRÁSOK
+
+## A forint-, a deviza- és a nemesfémkészletek elszámolása
+
+### 11. §
+
+(1) Az MNB forintpénzkészlete – mint forgalomba nem került pénz – a bank eszközei között értékben nem mutatható ki.
+
+(2) A forgalomban lévő forint készpénzállományt havonta a források között nyilvántartott bankjegy- és érmeállomány, valamint a pénztárban lévő készpénz különbözeteként meg kell állapítani, és a források között elkülönítetten – mint rövid lejáratú kötelezettséget – kell kimutatni.
+
+(3) A vám és forgalmi típusú adók megfizetése nélkül beszerzett jegybanki célú nemesfémkészletek kereskedelmi célú nemesfémkészletté átminősítése során az MNB a vámot és a forgalmi típusú adókat a kereskedelmi készletre vételkor tartozik bevallani és megfizetni. Belföldön csak kereskedelmi célú nemesfém értékesíthető.
+
+(4) A nem jegybanki célú (kereskedelmi célú), valamint az érmeverésre szolgáló jegybanki célú nemesfémeket készletként kell kimutatni.
+
+(5) Az MNB a bankjegy- és érme-előállításhoz, -kibocsátáshoz közvetlenül kapcsolódó valamennyi költségét – ideértve a tervezés, a forgalomból kivont bankjegy és érme esetében a megsemmisítés költségeit is – ráfordításai között számolja el.
+
+(6) A törvényes fizetési eszköznek minősülő nemesfémérméket a pénzeszközök között – névértéken – kell nyilvántartásba venni. Az érmék értékesítésekor az eladási ár és a névérték különbözetét az érmekibocsátás árfolyam-különbözeteként kell az egyéb bevételek, illetve az egyéb ráfordítások között elszámolni. Törvényes fizetőeszköznek minősülő nemesfémérmék vásárlásakor a vételár és a névérték különbözetét az érmekibocsátás árfolyam-különbözeteként kell az egyéb ráfordítások, illetve az egyéb bevételek között elszámolni.
+
+(7)[^63]
+
+(8)[^64] A 2. § 19. pontja szerinti pénzbevonási nyereséget az egyéb bevételek között kell elszámolni.
+
+## A repo-ügyletek elszámolása
+
+### 12. §[^65]
+
+A deviza-külföldiekkel nemzetközi szerződés alapján kötött repóügyleteket a Tv. 3. §-a (8) bekezdésének 11. a) pontjában meghatározott, a valódi penziós ügyletekre vonatkozó szabályok szerint, a devizabelföldi hitelintézetekkel és pénzügyi vállalkozásokkal kötött repóügyleteket a Tv. általános előírásai szerint kell elszámolni.
+
+## Az értékpapírok elszámolása
+
+### 13. §
+
+(1) A kamatozó értékpapírok vételárában megfizetett kamatot kamatbevételt csökkentő tételként, az értékesítéskor az eladási árban realizált kamatot kamatbevételként kell elszámolni.
+
+(2)[^66] A 6. § (5) bekezdés szerinti értékelési különbözet meghatározásakor az értékpapír piaci devizaértékét az értékpapír beszerzési – a 6. § (7) bekezdése alapján amortizált – devizaértékéhez kell viszonyítani.
+
+(3)[^67] Az MNB a tőkepiacról szóló 2001. évi CXX. törvényben meghatározott előírásoktól eltérő feltételekkel megkötött nemzetközi szerződéseken alapuló értékpapír kölcsönügyleteket – a Tv. előírásaitól eltérően – mérlegen kívüli tételként számolja el. Az ilyen szerződések alapján kölcsönbeadott értékpapírokat nem vezeti ki a könyvekből, azok mérlegfordulónapi állományát a mérlegen kívüli követelések között mutatja ki és a kiegészítő mellékletben szerepelteti.
+
+(4)[^68] A (3) bekezdés szerinti értékpapír kölcsönügyletek esetében
+
+a) a kapott kölcsönzési díjat, továbbá, ha a felek megállapodása alapján a kölcsönadott értékpapír után a kölcsön futamideje alatt járó hozam a kölcsönbeadót illeti meg, akkor azok összegét a kamatbevételek között kell elszámolni;
+
+b) az MNB nevére megnyitott számlára befolyt pénzben kapott biztosítékot (fedezetet) az MNB köteles a hitelintézetekkel szembeni – betétszámla miatti – követelés növekedéseként elszámolni a kötelezettségekkel szemben;
+
+c) a *b)* pont szerinti, pénzben kapott biztosíték felhasználásával eszközölt befektetéseket, valamint a pénztől eltérő eszközben kapott (az MNB rendelkezésére bocsátott) biztosítékot a 0. Nyilvántartási számlák számlaosztályban kell kimutatni, egyidejűleg a *b)* pont szerinti kötelezettséget és követelést a pénzbeli biztosíték felhasználásának mértékében meg kell szüntetni;
+
+d) a *c)* pont szerinti befektetések és pénztől eltérő eszközben kapott biztosítékok után az MNB számlájára befolyt hozamok összegét a *b)* pont szerint kell nyilvántartásba venni, amíg az a szerződés szerint átutalásra nem kerül a jogosult részére;
+
+e) ha a szerződés szerint a pénzbeli vagy más eszköz formájában meglévő biztosítékot nem az MNB kapja meg (az nem folyik be az MNB számlájára, nem bocsátják rendelkezésére), hanem azt közvetlenül az ügynök vagy harmadik fél számlájára utalják, rendelkezésére bocsátják (kezelés céljából), akkor az ilyen biztosítékok értékét az MNB a 0. Nyilvántartási számlák számlaosztályban mutatja ki az ügynöktől vagy a harmadik féltől kapott bizonylatok alapján és annak hozamai nem számolhatók el a főkönyvi számlákon;
+
+f) ha a szerződés értelmében, az MNB az értékpapír kölcsönügylet szerinti *c)* és *e)* pontnak megfelelő biztosíték értékével összefüggésben kötelezettséget vállal, akkor azt a 15. § (2) bekezdése szerinti függő kötelezettségként kell nyilvántartani a 0. Nyilvántartási számlák számlaosztályban és indokolt esetben céltartalékot kell utána képezni.
+
+## Egyéb sajátosságok
+
+### 14. §
+
+(1)[^69] Az MNB a befektetett eszközök között elkülönítetten – bekerülési értéken – mutatja ki a muzeális intézmény gyűjteményét. A gyűjteménybe tartozó kulturális javak után terv szerinti értékcsökkenés nem számolható el.
+
+(2) Az MNB a követeléseit és a mérlegen kívül nyilvántartott vállalt kötelezettségeit azok értékelése során a ,,rendben levő'', a ,,külön figyelendő'' és a ,,kockázatos'' kategóriák egyikébe sorolja be.
+
+(3)[^70] A befektetett eszközök, a követelések, az értékpapírok és a jövőbeni kötelezettségek minősítésének rendjéről, valamint a céltartalék képzésének, az értékvesztés elszámolásának és visszaírásának, továbbá a piaci érték meghatározásának rendjéről – a sajátosságok figyelembevételével – az MNB belső szabályzatot készít.
+
+(4) A befektetett eszközöket, az értékpapírokat, a készleteket és a követeléseket az értékvesztéssel csökkentett, a visszaírt értékvesztéssel növelt könyv szerinti értéken kell a mérlegben kimutatni.
+
+(5) A mérlegen kívüli függő és jövőbeni kötelezettségek után képzett céltartalék állományát a mérlegben a források között kell kimutatni.
+
+(6) A 9. § (7) bekezdésben megjelölt költségeket, ráfordításokat költségnemenkénti, továbbá ráfordításonkénti bontásban kell kimutatni a kiegészítő mellékletben.
+
+(7)[^71]
+
+(8)[^72] A monetáris célból, illetve a központi költségvetéssel kötött swap ügyleteket a fedezeti ügyletekkel azonos módon kell elszámolni.
+
+(9) Az MNB a számviteli politikájában rögzített módon, minden negyedév utolsó napjára vonatkozóan – a tulajdonos részére történő adatszolgáltatás alátámasztása céljából – köteles eszköz- és forrásszámláit, valamint költség- és eredményszámláit lezárni, azok egyenlegét megállapítani, továbbá főkönyvi kivonatot készíteni. A nyilvántartások zárásakor biztosítani kell, hogy a tárgynegyedévi eredmény és a tárgyévben a tárgynegyedév végéig (halmozottan) keletkezett eredmény megállapítható legyen.
+
+(10)[^73] Az MNB a 2. § 11. pontja szerinti átértékelési körbe bevonandó eszközeit és forrásait naponta átértékeli a tárgynapi hivatalos árfolyamon. Az MNB a napi átértékelési különbözeteket egy – az egyéb követelések között megnyitott – elszámolási számlán számolja el a megfelelő eszköz és forrás számlákkal szemben.
+
+(11)[^74] Az MNB a mérleg fordulónapjával – a számviteli politikában rögzített, könyvvizsgáló által elfogadott módszerrel meghatározott – realizált deviza árfolyamnyereséget, illetve -veszteséget a tárgyévi eredményt érintő tételként számolja el.
+
+(12)[^75] Az MNB a forintpénzkészlet – Tv. 69. §-a szerinti – leltározását a lezárt kezelési egységek szintjén biztosítja, oly módon, hogy minden lezárt kezelési egység tartalmát három éven belül mennyiségi felvétellel leltározza.
+
+## Mérlegen kívüli tételek
+
+### 15. §
+
+(1) Mérlegen kívüli tételnek minősülnek a (2)–(5) bekezdésben meghatározott tételek.
+
+(2) Függő kötelezettségek és követelések az olyan, általában harmadik személyekkel szemben vállalt kötelezettségek vagy kimutatott követelések, amelyek a mérleg fordulónapján fennállnak, de a mérleg fordulónapján mérlegtételkénti szerepeltetésük jövőbeni eseményektől függ.
+
+(3) Jövőbeni kötelezettségek az olyan visszavonhatatlan kötelezettségek, amelyek a mérleg fordulónapján már fennállnak, de a szerződés teljesítése még nem történt meg, ezért mérlegtételként nem szerepeltethetők.
+
+(4) Függő követelések közé tartoznak az olyan követelések is, amelyeket az MNB korábban hitelezési veszteségként leírt, de nem engedett el.
+
+(5) Mérlegen kívüli tételnek minősül a 16–18. §-ban meghatározott ügyleteknek az a része, amely jövőbeni kötelezettségnek, illetve követelésnek minősül.
+
+(6) A (2)–(5) bekezdésben felsorolt, mérlegen kívüli tételeket – azok szerződés szerinti értékén – a 0. Nyilvántartási számlák számlaosztályban kell nyilvántartani.
+
+## A határidős ügyletek elszámolása
+
+### 16. §
+
+(1) A határidős követeléseket és kötelezettségeket – ideértve az opciós jogokat és kötelezettségeket – mérlegen kívüli tételként a szerződésben rögzített határidős áron, árfolyamon (a továbbiakban: kötési áron) bruttó módon kell nyilvántartani, amíg a szerződés szerinti határidő be nem következik, vagy az ügyletet le nem zárják.
+
+(2) Ha a szerződés szerinti határidő bekövetkezik, akkor a határidős ügylettel, a swap ügylet határidős ügyletrészével, valamint az érvényesített opciókkal összefüggő bevételeket és ráfordításokat a 8. és 9. § szerint kell elszámolni.
+
+(3) A határidős ügyleteket azok keletkezésekor pontos egyedi megnevezéssel a következő csoportokba kell besorolni:
+
+a) fedezeti jelleggel,
+
+b) egyéb céllal
+
+kötött határidős ügyletek.
+
+(4) Ha az ügylet keletkezését követően bekövetkező gazdasági események indokolják, a pénzügyi instrumentum első besorolását követően a pénzügyi instrumentumot át kell sorolni, az értékelést meg kell változtatni és az értékelés alapjának változásából származó nyereséget vagy veszteséget az átsorolás időszakában kell az eredményben elszámolni.
+
+(5) Az opciós díjat annak az időszaknak az eredményében kell figyelembe venni, amelyben az opciót érvényesítik (az ügyletet lezárják). Amennyiben az opció tárgyát befektetett eszközként hasznosítják, akkor az opciós díj a beszerzési ár részét képezi.
+
+(6)[^76] A CDS (Credit Default Swap) ügylet induláskori, felhalmozott kamat nélküli ellenértékét annak az időszaknak az eredményében kell figyelembe venni, amelyben a CDS ügyletet lezárják. Az ügylethez kapcsolódó, negyedévente pénzügyileg rendezett díjat az adott időszak eredményében kell elszámolni.
+
+## Fedezeti céllal kötött ügyletek
+
+### 17. §
+
+(1)[^77] Fedezeti ügyletként kell elszámolni azokat az ügyleteket, amelyek az alábbi feltételeknek egyidejűleg megfelelnek:
+
+a) a fedezeti ügyletet egyértelműen hozzárendelték valamely nyitott pozícióhoz, amely az MNB-t deviza-, kamatláb-, és egyéb piaci kockázatnak teszi ki,
+
+b) az ügyletet indításkor kifejezetten fedezeti ügyletként jelölték meg,
+
+c) a fedezet kizárja vagy lényegesen csökkenti a fedezendő pozícióból eredő adott típusú, fedezni kívánt kockázatot azáltal, hogy a fedezeti ügylet és a fedezett pozíció értékében – adott kockázatra vonatkozóan – bekövetkezett változások (átértékelési és értékelési különbözetek) egymáshoz viszonyított aránya 80 és 125 százalék közötti sávban van.
+
+(2) A mérlegkészítés időpontjában a még le nem zárt, mérlegen kívüli tételként nyilvántartott, a fedezeti ügyletekkel kapcsolatos követeléseket és kötelezettségeket, és az ebből származó eredményt (ügyletek értékét) a fedezett alapügylettel, pozícióval azonos módon kell értékelni és a fedezett alapügylethez, pozícióhoz igazodóan kell a mérlegben, illetve az eredménykimutatásban megjeleníteni.
+
+(3) A mérlegkészítés időpontjában a fedezeti ügylettel összefüggő kamat, kamatjellegű és deviza árfolyamváltozással összefüggő bevételeket és ráfordításokat a 8–9. §-ok szerint kell elszámolni.
+
+(4) Ha a fedezeti ügyletekhez kapcsolódóan a szerződésben rögzített határidő előtt pénzmozgással járó kifizetésre kerül sor az ügylet lezárása nélkül, akkor az így kifizetett összeget határidős ügylettel kapcsolatos követelésként, a befolyt összeget határidős ügylettel kapcsolatos kötelezettségként kell a mérlegben megjeleníteni.
+
+(5) Az MNB és a központi költségvetés között – a központi költségvetés devizapozíciójának kockázata miatt –, és az ezek miatt más partnerral kötött határidős ügyletek egymáshoz képest fedezeti ügyletnek minősülnek.
+
+## Egyéb céllal kötött határidős ügyletek
+
+### 18. §
+
+(1) Az egyéb céllal kötött határidős ügyletekkel kapcsolatos követeléseket és kötelezettségeket a nyilvántartásba vételt követően minden mérlegfordulónapon piaci értéken kell értékelni.
+
+(2) A mérleg fordulónapján a piaci érték meghatározásának alapja:
+
+a) tőzsdei ügyletek esetén az elszámolóház által megállapított, az adott határidőre szóló elszámolóár, árfolyam, kamatláb,
+
+b) a tőzsdén kívüli határidős devizaügyletek, deviza, kamatswap, opciós ügyletek esetén a piacon általánosan elfogadott modellekkel számított érték,
+
+c) egyéb tőzsdén kívüli ügyletek esetében a mérlegkészítéskor a piaci értékítéletet megfelelően jellemző ár.
+
+(3) Az egyéb céllal kötött határidős ügyleteknek a piaci érték változásából eredő nyereségét csak az ügylet lezárásakor lehet elszámolni.
+
+(4)[^78] A nyitott (le nem zárt) határidős ügyletnek a piaci érték változásaiból származó veszteségére az MNB belső szabályzatában meghatározott esetben céltartalékot kell képezni.
+
+## KIEGÉSZÍTŐ MELLÉKLET
+
+### 19. §[^79]
+
+(1) A kiegészítő mellékletnek a Tv. előírásain túlmenően tartalmaznia kell a következőket:
+
+1\. az MNB-nek a központi költségvetéssel, a belföldi hitelintézetekkel szembeni nettó pozíciójának és nettó kamategyenlegének alakulását, összetevőit, meghatározó tényezőit;
+
+2\. az MNB nettó deviza pozíciójának alakulását, összetevőit, meghatározó tényezőit;
+
+3\. a külföldi és belföldi hitelintézeti, az egyéb belföldi követelésekhez, a befektetésekhez, az értékpapírokhoz kapcsolódó értékvesztés elszámolást, illetve annak visszaírását, valamint a várható és jövőbeni kötelezettségekhez kapcsolódó céltartalékképzést, illetve -felhasználást, -felszabadítást;
+
+4\. az MNB részesedéseit és az abban bekövetkezett változások megjelölését, valamint a kapott osztalékot;
+
+5\. a saját tőke összetételét tőkeelemenként, azok változását;
+
+6\. a kiegyenlítési tartalék összetételét, elemeinek változását;
+
+7\. a követeléseknek és kötelezettségeknek az MNB számviteli politikájában meghatározott lejárat szerinti bontását;
+
+8\. a 13. § (3) bekezdése szerint kölcsönbeadott értékpapírok állományát;
+
+9.[^80] a pénzbevonási nyereség tárgyévi alakulását;
+
+10\. azokat az elemzéseket, amelyek bemutatják a makrogazdasági folyamatok hatását az MNB mérlegszerkezetére és eredményének alakulására.
+
+(2) A kiegészítő mellékletnek nem képezi részét a cash-flow kimutatás.
+
+## A KÖZZÉTÉTEL
+
+### 20. §[^81]
+
+Az MNB az éves beszámolót az igazgatóság határozatának megfelelően teszi közzé.
+
+## ZÁRÓ RENDELKEZÉSEK
+
+## Hatálybalépés
+
+### 21. §
+
+Ez a rendelet 2001. január 1-jén lép hatályba azzal, hogy rendelkezéseit előszőr a 2001. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+### 24. §[^84]
+
+E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 26. §-ával megállapított 2. §-a 14. pontját, 27. §-ával megállapított 6. §-a (6) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, azzal, hogy az a 2010. évben induló üzleti évről készített beszámolóra is alkalmazható.
+
+### 25. §[^85]
+
+(1) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 114/2012. (VI. 8.) Korm. rendelet 3. §-ával megállapított 5. § (6), (8) és (10) bekezdését, 7. §-ával megállapított 20. §-át, valamint 9. §-ával megállapított 6. § (5) bekezdését és 19. § (1) bekezdés 9. pontját először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 114/2012. (VI. 8.) Korm. rendelet 1. §-ával megállapított 2. § 19. pontját, 2. §-ával megállapított 4. § (3) bekezdését, 3. §-ával megállapított 5. § (2) bekezdését, 4. §-ával megállapított 6. § (1) és (6) bekezdését, 5. §-ával megállapított 11. § (8) bekezdését, valamint 6. §-ával megállapított 14. § (1), (8) és (12) bekezdését először a 2012. évben induló üzleti évről készített beszámolóra kell alkalmazni, azzal hogy azok az MNB döntése alapján a 2011. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(3) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 114/2012. (VI. 8.) Korm. rendelet 11. §-ával hatályon kívül helyezett 3. § (7) bekezdését először a 2012. évben induló üzleti évről készített beszámolóra nem kell alkalmazni, azzal, hogy az MNB döntése alapján már a 2011. évben induló üzleti évről készített beszámolóra sem kell alkalmazni.
+
+(4)[^86] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 382/2012. (XII. 19.) Korm. rendelet 12. §-ával megállapított 16. § (6) bekezdését, 13. §-ával megállapított 17. § (1) bekezdését először a 2013. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2012. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(5)[^87] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 382/2012. (XII. 19.) Korm. rendelet 15. §-ával hatályon kívül helyezett 2. § 6. pontját először a 2013. évben induló üzleti évről készített beszámolóra nem kell alkalmazni.
+
+(6)[^88] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 518/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított 4. § (3) bekezdését, 3. §-ával megállapított 5. § (8) bekezdését, 4. §-ával megállapított 8. § (2) bekezdés e) és (7) bekezdés f) pontját, 8. §-ával megállapított 2. számú mellékletét először a 2013. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(7)[^89] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 518/2013. (XII. 30.) Korm. rendelet 1. §-ával megállapított 3. § (5a) bekezdését, 6. §-ával megállapított 19. § (1) bekezdés 9. pontját először a 2014. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2013. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(8)[^90] Az eredménytartalékba kell helyezni az MNB tv. Átmeneti rendelkezései szerinti – a Pénzügyi Szervezetek Állami Felügyeletének megszűnésével kapcsolatban keletkező – eredménytartalékot növelő, illetve csökkentő tételeket.
+
+(9)[^91] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított 3. § (2) és (3) bekezdését, 8. §-ával megállapított 6. § (7) bekezdését, a 9. §-ával megállapított 9. § (1) bekezdés b) és c) pontját, 10. §-ával megállapított 13. § (2) bekezdését, 12. §-ával megállapított 2. § 15. pontját, 4. § (8) bekezdését, 5. § (7) bekezdését, 8. § (3) bekezdés a) pontját és 9. § (2) bekezdés a) pontját először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(10)[^92] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 8. §-ával megállapított 6. § (7) bekezdésének első alkalmazásakor a külföldi kamatozó értékpapírok esetében az átállás napjáig számított amortizáció teljes összegét a kamatjellegű eredménnyel szemben kell elszámolni.
+
+(11)[^93] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 8. §-ával megállapított 6. § (7) bekezdésének első alkalmazásakor a diszkont értékpapírok névértéke és vételára közötti különbözet, valamint a bekerülési értéken nyilvántartott értékpapírok beszerzésének piaci értékkülönbözete átállás napjáig időarányosan elszámolt összegét az időbeli elhatárolásból át kell vezetni a kapcsolódó bekerülési értékkülönbözet számlákra.
+
+(12)[^94] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 28. §-ával megállapított 10. § (1) bekezdését, 30. §-ával megállapított 5. § (8) bekezdését, 31. §-ával megállapított 1. és 2. számú mellékletet először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(13)[^95] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 32. §-ával hatályon kívül helyezett 5. § (9) bekezdését a 2016. évben induló üzleti évről készített beszámolóra nem kell először alkalmazni.
+
+(14)[^96] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 445/2017. (XII. 27.) Korm. rendelet 4. §-ával megállapított 6. § (1) és (4) bekezdését, 5. §-ával megállapított 8. § (7) bekezdés c) pontját, *f)* pont *fc)* alpontját, (8) bekezdését, 6. §-ával megállapított 9. § (6) bekezdés e) pontját, (8) bekezdését, 7. §-ával megállapított 13. § (2) bekezdését, 9. §-ával megállapított 5. § (8) bekezdését, 10. §-ával megállapított 14. § (12) bekezdését először a 2018. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2017. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+(15)[^97] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel megállapított 6. § (1) bekezdését, valamint 3. § (3) bekezdését először a 2020. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(16)[^98] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel megállapított 6. § (1) bekezdését, valamint 3. § (3) bekezdését a 2019. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(17)[^99] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel hatályon kívül helyezett 11. § (7) bekezdését először a 2019. évben induló üzleti évről készített beszámolóra nem kell alkalmazni.
+
+(18)[^100] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 14. § (1) bekezdését először a 2023. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(19)[^101] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 14. § (1) bekezdését a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(20)[^102] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 5. § (8) bekezdését és 10. § (1) bekezdését először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(21)[^103] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 5. § (8) bekezdését és 10. § (1) bekezdését a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+## 1. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^104]
+
+**A mérleg előírt tagolása**
+
+ESZKÖZÖK (Aktívák)
+
+**I. Követelések forintban**
+
+1\. Központi költségvetéssel szembeni követelések
+
+2\. Hitelintézetekkel szembeni követelések
+
+3\. Egyéb követelések
+
+**II. Követelések devizában**
+
+1\. Arany- és devizatartalék
+
+2\. Központi költségvetéssel szembeni devizakövetelések
+
+3\. Hitelintézetekkel szembeni devizakövetelések
+
+4\. Egyéb devizakövetelések
+
+**III. Banküzemi eszközök**
+
+Ebből: Befektetett eszközök
+
+**IV. Aktív időbeli elhatárolások**
+
+**V. Eszközök összesen**
+
+FORRÁSOK (Passzívák)
+
+**VI. Kötelezettségek forintban**
+
+1\. Központi költségvetés betétei
+
+2\. Hitelintézetek betétei
+
+3\. Forgalomban lévő bankjegy és érme
+
+4\. Egyéb betétek és kötelezettségek
+
+**VII. Kötelezettségek devizában**
+
+1\. Központi költségvetés betétei
+
+2\. Hitelintézetek betétei
+
+3\. Egyéb kötelezettségek devizában
+
+**VIII. Céltartalék**
+
+**IX. Banküzem egyéb forrásai[^105]**
+
+**X. Passzív időbeli elhatárolások**
+
+XI.[^106] Saját tőke
+
+1\. Jegyzett tőke
+
+2\. Eredménytartalék
+
+3\. Értékelési tartalék
+
+4\. Forint árfolyam kiegyenlítési tartaléka
+
+5\. Deviza-értékpapírok kiegyenlítési tartaléka
+
+6.[^107] Tárgyévi eredmény
+
+**XII. Források összesen**
+
+## 2. számú melléklet a 221/2000. (XII. 19.) Korm. rendelethez[^108]
+
+**Az eredménykimutatás előírt tagolása**
+
+BEVÉTELEK
+
+**I. Forintban elszámolt kamat- és kamatjellegű bevételek**
+
+1\. Központi költségvetéssel szembeni követelések kamatbevételei
+
+2\. Hitelintézetekkel szembeni követelések kamatbevételei
+
+3\. Egyéb követelések kamatbevételei
+
+4\. Forintban elszámolt kamatjellegű bevételek
+
+**II. Devizában elszámolt kamat- és kamatjellegű bevételek**
+
+1\. Devizatartalékok utáni kamatbevételek
+
+2\. Központi költségvetéssel szembeni követelések kamatbevételei
+
+3\. Hitelintézetekkel szembeni követelések kamatbevételei
+
+4\. Egyéb követelések kamatbevételei
+
+5\. Devizában elszámolt kamatjellegű bevételek
+
+**III. Deviza árfolyamváltozásból származó bevételek**
+
+**IV. Pénzügyi műveletek realizált nyeresége**
+
+**V. Egyéb bevételek**
+
+1\. Jutalék bevételek
+
+2\. Jutaléktól eltérő egyéb bevételek
+
+3.[^109] Felügyeleti és hatósági tevékenységből származó bevételek
+
+**VI. Céltartalék felhasználás**
+
+**VII. Értékvesztés visszaírás**
+
+**VIII. Banküzem bevételei**
+
+**IX. Bevételek összesen**
+
+RÁFORDÍTÁSOK
+
+**X. Forintban elszámolt kamat- és kamatjellegű ráfordítások**
+
+1\. Központi költségvetés betéteinek kamatráfordításai
+
+2\. Hitelintézeti betétek kamatráfordításai
+
+3\. Egyéb betétek kamatráfordításai
+
+4\. Forintban elszámolt kamatjellegű ráfordítások
+
+**XI. Devizában elszámolt kamat- és kamatjellegű ráfordítások**
+
+1\. Központi költségvetés betéteinek kamatráfordításai
+
+2\. Hitelintézeti betétek kamatráfordításai
+
+3\. Egyéb kötelezettségek kamatráfordításai
+
+4\. Devizában elszámolt kamatjellegű ráfordítások
+
+**XII. Deviza árfolyamváltozásból származó ráfordítások**
+
+**XIII. Bankjegy és érmegyártás költsége**
+
+**XIV. Pénzügyi műveletek realizált vesztesége**
+
+**XV. Egyéb ráfordítások**
+
+1\. Jutalék ráfordítások
+
+2\. Jutaléktól eltérő egyéb ráfordítások
+
+3.[^110] Felügyeleti és hatósági tevékenységből származó ráfordítások
+
+**XVI. Céltartalékképzés**
+
+**XVII. Értékvesztés**
+
+**XVIII. Banküzem működési költségei és ráfordításai**
+
+**XIX. Ráfordítások összesen**
+
+**XX. Tárgyévi eredmény**
+
+XXI–XXIII.[^111]
+
+---
+
+[^1]: A 2. § 6. pontját a 382/2012. (XII. 19.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^2]: A 2. § 9. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^3]: A 2. § 12. pontja a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, a meghatározást e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^4]: A 2. § 14. pontja a 345/2010. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: A 2. § 15. pontja az 518/2013. (XII. 30.) Korm. rendelet 10. §-a, a 362/2014. (XII. 30.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^6]: A 2. § 16. pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^7]: A 2. § 18. pontját a 236/2001. (XII. 10.) Korm. rendelet 1. §-ának (3) bekezdése iktatta be, szövege a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^8]: A 2. § 19. pontját a 114/2012. (VI. 8.) Korm. rendelet 1. §-a iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^10]: A 3. § (3) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 343/2019. (XII. 23.) Korm. rendelet 3. § 1. pontja szerint módosított szöveg.
+[^11]: A 3. § (5a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 3. § (7) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^13]: A 4. § (2) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 10. §-ának (3) bekezdése hatályon kívül helyezte.
+[^14]: A 4. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított, a 441/2025. (XII. 23.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (4) bekezdésének a) pontja a 242/2003. (XII. 17.) Korm. rendelet 1. §-ának (2) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^16]: A 4. § (4) bekezdés b) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte.
+[^17]: A 4. § (4) bekezdés d) pontjának 3. alpontja a 242/2003. (XII. 17.) Korm. rendelet 1. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^18]: A 4. § (6) bekezdés f) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte.
+[^19]: A 4. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 90. §-a szerint módosított szöveg.
+[^20]: A 4. § (8) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 1. §-ának (4) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 2. pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 44. §-a, a 379/2016. (XII. 2.) Korm. rendelet 40. §-a, a 616/2022. (XII. 29.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^23]: Az 5. § (6) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (2) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^24]: Az 5. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^25]: Az 5. § (8) bekezdése az 547/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított, a 642/2023. (XII. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^26]: Az 5. § (9) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 32. §-a hatályon kívül helyezte.
+[^27]: Az 5. § (10) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 2. §-ának (4) bekezdése iktatta be, az 547/2022. (XII. 22.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^28]: A 6. § (1) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 343/2019. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^29]: A 6. § (2) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^30]: A 6. § (4) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^31]: A 6. § (5) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 3. §-ával megállapított, az 518/2013. (XII. 30.) Korm. rendelet 9. § 3. pontja szerint módosított szöveg.
+[^32]: A 6. § (6) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^33]: A 6. § (7) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^34]: A 8. § (2) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 210. §-a szerint módosított szöveg.
+[^35]: A 8. § (2) bekezdés e) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte, újonnan az 518/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^36]: A 8. § (2) bekezdésének g) pontját a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (1) bekezdése iktatta be, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^37]: A 8. § (3) bekezdésének a) pontja a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
+[^38]: A 8. § (3) bekezdésének h) pontját a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (3) bekezdése iktatta be, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^39]: A 8. § (4) bekezdése a 236/2001. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^40]: A 8. § (5) bekezdésének a) pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^41]: A 8. § (6) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 10. §-ának (3) bekezdése hatályon kívül helyezte.
+[^42]: A 8. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^43]: A 8. § (7) bekezdés c) pontja a 445/2017. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^44]: A 8. § (7) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 441/2025. (XII. 23.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^45]: A 8. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^46]: A 9. § (1) bekezdés a) pontja a 441/2025. (XII. 23.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^47]: A 9. § (1) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^48]: A 9. § (1) bekezdés c) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte, újonnan a 362/2014. (XII. 30.) Korm. rendelet 9. §-a iktatta be.
+[^49]: A 9. § (1) bekezdésének f) pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^50]: A 9. § (1) bekezdés g) pontját a 331/2008. (XII. 30.) Korm. rendelet 38. § (6) bekezdése hatályon kívül helyezte.
+[^51]: A 9. § (1) bekezdésének h) pontját a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (1) bekezdése iktatta be, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^52]: A 9. § (2) bekezdésének a) pontja a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
+[^53]: A 9. § (2) bekezdésének h) pontját a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (3) bekezdése iktatta be, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^54]: A 9. § (3) bekezdése a 236/2001. (XII. 10.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^55]: A 9. § (4) bekezdésének a) pontját a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^56]: A 9. § (5) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^57]: A 9. § (6) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^58]: A 9. § (6) bekezdés e) pontját a 445/2017. (XII. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^59]: A 9. § (6) bekezdés f) pontját a 441/2025. (XII. 23.) Korm. rendelet 20. §-a iktatta be.
+[^60]: A 9. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 5. §-ának (5) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^61]: A 10. § a 236/2001. (XII. 10.) Korm. rendelet 6. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^62]: A 10. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 28. §-ával megállapított, a 642/2023. (XII. 28.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^63]: A 11. § (7) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 3. § 2. pontja hatályon kívül helyezte.
+[^64]: A 11. § (8) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 5. §-a iktatta be.
+[^65]: A 12. § a 242/2003. (XII. 17.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^66]: A 13. § (2) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^67]: A 13. § (3) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 7. §-a iktatta be, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^68]: A 13. § (4) bekezdését a 331/2008. (XII. 30.) Korm. rendelet 19. §-a iktatta be. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^69]: A 14. § (1) bekezdése a 603/2022. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^70]: A 14. § (3) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^71]: A 14. § (7) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^72]: A 14. § (8) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^73]: A 14. § (10) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^74]: A 14. § (11) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 7. §-a iktatta a szövegbe, rendelkezéseit e módosító rendelet 10. §-ának b) pontja alapján először a 2002. évben induló üzleti évben készített beszámolóra kell alkalmazni.
+[^75]: A 14. § (12) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^76]: A 16. § (6) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 12. §-a iktatta be.
+[^77]: A 17. § (1) bekezdése a 382/2012. (XII. 19.) Korm. rendelet 13. §-ával megálalpított szöveg.
+[^78]: A 18. § (4) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^79]: A 19. § a 242/2003. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^80]: A 18. § (1) bekezdés 9. pontja az 518/2013. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^81]: A 20. § a 114/2012. (VI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^84]: A 24. §-t a 345/2010. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
+[^85]: A 25. §-t a 114/2012. (VI. 8.) Korm. rendelet 8. §-a iktatta be.
+[^86]: A 25. § (4) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
+[^87]: A 25. § (5) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
+[^88]: A 25. § (6) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^89]: A 25. § (7) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^90]: A 25. § (8) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^91]: A 25. § (9) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^92]: A 25. § (10) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^93]: A 25. § (11) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^94]: A 25. § (12) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 29. §-a iktatta be.
+[^95]: A 25. § (13) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 29. §-a iktatta be.
+[^96]: A 25. § (14) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
+[^97]: A 25. § (15) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^98]: A 25. § (16) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 25. § (17) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^100]: A 25. § (18) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^101]: A 25. § (19) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^102]: A 25. § (20) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^103]: A 25. § (21) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^104]: Az 1. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^105]: A 236/2001. (XII. 10.) Korm. rendelet 11. §-ának (1) bekezdése alapján az MNB 2001. évi mérlegében a banküzem egyéb forrásai között kimutatott kiegyenlítési tartalékok összegét 2002. január 1–jei nyitó rendező tételként –jellegétől függően– a saját tőkén belül a forint árfolyam kiegyenlítési tartalékába és a deviza-értékpapírok kiegyenlítési tartalékába kell átvezetni.
+[^106]: Az 1. számú mellékletben a XI. mérlegfőcsoport és annak tételei a 236/2001. (XII. 10.) Korm. rendelet 9. §-ával megállapított szöveg, e módosító rendelet 10. § b) pontja alapján először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^107]: Az 1. számú melléklet „XI. Saját tőke” pont 6. alpontja a 484/2015. (XII. 29.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^108]: A 2. számú melléklet a 242/2003. (XII. 17.) Korm. rendelet 9. §-a szerint módosított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^109]: A 2. számú melléklet „BEVÉTELEK” alcím „V. Egyéb bevételek” pont 3. alpontját az 518/2013. (XII. 30.) Korm. rendelet 8. §-a iktatta be, szövege a 441/2025. (XII. 23.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^110]: A 2. számú melléklet „RÁFORDÍTÁSOK” alcím „XV. Egyéb ráfordítások” pont 3. alpontját a 441/2025. (XII. 23.) Korm. rendelet 22. §-a iktatta be.
+[^111]: A 2. számú melléklet XXI–XXIII. pontját a 484/2015. (XII. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.

@@ -1,0 +1,137 @@
+---
+title: "304/2009. (XII. 22.) Korm. rendelet a közúti közlekedési nyilvántartásba bejegyzett jármű tulajdonjogának, illetve üzembentartó személyének változását igazoló teljes bizonyító erejű magánokiratnak a közlekedési igazgatási eljárásban történő felhasználhatóságához szükséges kötelező tartalmi elemekről"
+identifier: "304/2009. (XII. 22.) Korm. rendelet"
+njt_id: "2009-304-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/304"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-22
+in_force_from: 2010-01-01
+last_amended: 2025-06-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-304-20-22"
+retrieved: 2026-10-12
+---
+
+# 304/2009. (XII. 22.) Korm. rendelet a közúti közlekedési nyilvántartásba bejegyzett jármű tulajdonjogának, illetve üzembentartó személyének változását igazoló teljes bizonyító erejű magánokiratnak a közlekedési igazgatási eljárásban történő felhasználhatóságához szükséges kötelező tartalmi elemekről
+
+A közúti közlekedési nyilvántartásról szóló 1999. LXXXIV. törvény 41/A. § b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában:
+
+a) *teljes bizonyító erejű magánokirat:* a polgári perrendtartásról szóló törvényben meghatározott feltételeknek megfelelően kiállított okirat;
+
+b)[^1] *eladás bejelentése:* a járműnyilvántartásba bejegyzett jármű nyilvántartás szerinti tulajdonosa és nyilvántartás szerinti, a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33. § (1) bekezdés b) pontjában foglalt kötelezettségét elmulasztó új tulajdonos által tett bejelentés a jármű elidegenítése tárgyában;
+
+c) *tulajdonjog változás bejegyzése:* a járműnyilvántartásba bejegyzett jármű elidegenítését követően a jármű új tulajdonosa által kezdeményezett közlekedési igazgatási eljárás, amely az új tulajdonos adatait tartalmazó törzskönyv kiadására irányul;
+
+d) *üzembentartó személyének változása:* a járműnyilvántartásba bejegyzett jármű tulajdonosa vagy a képviseletében eljáró személy által kezdeményezett közlekedési igazgatási eljárás, amely az üzembentartó adatait tartalmazó forgalmi engedély kiadására irányul;
+
+e) *nyilvántartás:* a közúti közlekedési nyilvántartás járműnyilvántartása.
+
+## 2. §[^2]
+
+(1)[^3] A jármű tulajdonjogában bekövetkezett változást az átruházó a változástól számított tizenöt napon belül bejelenti a közlekedési igazgatási hatóságnak. A kérelmező a bejelentéskor igazolja, hogy a tulajdonjog átruházására a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33. § (6) bekezdésében foglaltaknak megfelelően került sor.
+
+(2) A közlekedési igazgatási hatóság a bejelentés tényét és időpontját a nyilvántartásba három napon belül bejegyzi.
+
+(3) A bejegyzés során a közlekedési igazgatási hatóság az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és személyesen történő benyújtás esetén az automatikus döntéshozatali eljárás szabályai szerint jár el.
+
+(4) A tulajdonjog-átruházás ténye és időpontja, valamint bejelentésének időpontja a járműnyilvántartásba nem jegyezhető be, ha a bejelentés tárgyát képező járművön érvényes forgalmazási korlátozás szerepel a nyilvántartásban. Ez esetben a közlekedési igazgatási hatóság a bejelentésben szereplő adatok járműnyilvántartásba történő bejegyzését elutasítja.
+
+(5) Ha a magánokirat nem felel meg az e rendeletben meghatározott tartalmi követelményeknek, azt a közlekedési igazgatási eljárásban történő felhasználás céljából joghatás kiváltására alkalmatlannak kell tekinteni. Ez esetben a változás bejelentésére irányuló közlekedési igazgatási eljárásban az eljáró hatóság a nyilvántartásba történő bejegyzést elutasítja, egyben felszólítja az ügyfelet az e rendeletben meghatározott tartalmi követelményeknek megfelelő teljes bizonyító erejű magánokirat benyújtására, valamint felhívja az ügyfél figyelmét a késedelmes bejelentés jogkövetkezményeire.
+
+## 3. §[^4]
+
+A közúti közlekedési nyilvántartás járműnyilvántartásba bejegyzett jármű tulajdonjog változásáról szóló teljes bizonyító erejű magánokirat kötelező tartalmi elemei a következők:
+
+a)[^5] a jogügylet jogcíme;
+
+b) a jogügylet tárgyát képező jármű azonosító (rendszám, alvázszám) és gyártmány adatai;
+
+c)[^6] a felek természetes személyazonosító adatai (családi és utóneve; születési helye és ideje; anyja születési családi és utóneve), állampolgársága (hontalansága), a személyazonosságát igazoló okmány típusa, sorszáma, lakcíme; nem természetes személy megnevezése, képviselőjének neve, székhelyének (telephelyének) címe, cégjegyzék-, illetőleg nyilvántartási száma;
+
+d)[^7] a járműhöz tartozó okmányok (forgalmi engedély és törzskönyv) sorszáma vagy az okmány hiányának oka;
+
+e)[^8] a járműnek a vevő birtokába kerülési időpontja, valamint a birtokba vételkor a kilométerszámláló műszer által jelzett érték (km-óra állás);
+
+f)[^9] a tulajdonjog változás hatálybalépésének napja;
+
+g) a felek nyilatkozata, mely szerint mindkét fél teljesíti bejelentési kötelezettségét a közlekedési igazgatási hatóságnál a tulajdonjog változás hatálybalépését követő, jogszabályban meghatározott határidőn belül;
+
+h) a felek nyilatkozata arról, hogy ismerik a bejelentés nyilvántartásba történő bejegyzéséhez fűződő joghatásokat, valamint a bejelentés elmaradásának, illetve bejelentési kötelezettség késedelmes teljesítésének jogkövetkezményeit;
+
+i)[^10] a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog ténye.
+
+## 4. §[^11]
+
+A közúti közlekedési nyilvántartás járműnyilvántartásba bejegyzett jármű üzembentartó személyének változásáról szóló teljes bizonyító erejű magánokirat kötelező tartalmi elemei a következők:
+
+a) a jogügylet ingyenes vagy visszterhes jellegére történő utalás;
+
+b) a jogügylet tárgyát képező jármű azonosító (rendszám, alvázszám) és gyártmány adatai;
+
+c)[^12] a tulajdonos, az üzembentartó, valamint az új üzembentartó természetes személyazonosító adatai (családi és utóneve; születési helye és ideje; anyja születési családi és utóneve), a személyazonosságát igazoló okmány sorszám adata, valamint lakcím adata, nem természetes személy megnevezése, képviselőjének neve, székhelyének (telephelyének) címe, cégjegyzék-, illetőleg nyilvántartási száma;
+
+d)[^13] a járműhöz tartozó forgalmi engedély sorszáma vagy a forgalmi engedély hiányának oka;
+
+e)[^14] a járműnek az üzemben tartó birtokába kerülési időpontja, valamint a birtokba vételkor a kilométerszámláló műszer által jelzett érték (km-óra állás);
+
+f) a jogügylet hatálybalépésének napja;
+
+g) a jármű tulajdonosának nyilatkozata, mely szerint a külön jogszabályban előírt bejelentési kötelezettségének a közlekedési igazgatási hatóság előtt a jogügylet hatálybalépését követő 15 napon belül eleget tesz;
+
+h) a felek nyilatkozata, melyben kijelentik, hogy ismerik a bejelentés alapján a nyilvántartásba történő bejegyzéséhez fűződő joghatásokat, valamint a bejelentés elmaradásának, illetve bejelentési kötelezettség késedelmes teljesítésének jogkövetkezményeit;
+
+i)[^15] a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog ténye.
+
+## 4/A. §[^16]
+
+(1) A teljes bizonyító erejű magánokiratot a (2)–(4) bekezdésben meghatározottak kivételével mindkét fél aláírásával el kell látni.
+
+(2) Kizárólag a tulajdonjogot szerző fél aláírásával kell ellátni a teljes bizonyító erejű magánokiratot, ha a tulajdonszerzés alapjául szolgáló jogügylet jogcímeként vételi jog, vagy visszavásárlási jog érvényesítésével létrejött adásvétel kerül megjelölésre, és a vételi jogot vagy a visszavásárlási jogot a tulajdonjogot szerző fél vagy annak jogelődje javára a járműnyilvántartás tartalmazza.
+
+(3) Kizárólag a tulajdonjogot átruházó aláírásával kell ellátni a teljes bizonyító erejű magánokiratot, ha
+
+a) azt pénzügyi lízing lízingbeadója állítja ki, vagy
+
+b) a tulajdonszerzés alapjául szolgáló jogügylet jogcímeként eladási jog érvényesítésével létrejött adásvétel kerül megjelölésre, és az eladási jogot a tulajdonjogot átruházó fél vagy annak jogelődje javára a járműnyilvántartás tartalmazza.
+
+(4) A tulajdonjog átruházójának aláírása helyett a zálogjogosult aláírásával is ellátható a teljes bizonyító erejű magánokirat, ha a tulajdonjog átruházásának jogcímeként zálogjog érvényesítésével létrejött adásvétel kerül megjelölésre, és a zálogjogot az okiratot aláíró személy vagy annak jogelődje javára a járműnyilvántartás tartalmazza.
+
+## 5. §[^17]
+
+(1) A 4. §-ban meghatározott okirat helyett elfogadható a pénzügyi lízingszerződés kivonata is.
+
+(2) Ha az (1) bekezdés szerinti kivonat nem tartalmaz minden, a 4. § szerinti kötelező tartalmi elemet, szükséges a hiányzó tartalmi elemeket tartalmazó, a tulajdonos és a lízingbevevő teljes bizonyító erejű magánokiratba foglalt nyilatkozatát is csatolni a kivonathoz.
+
+## 6. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2010. január 1-jén lép hatályba.
+
+(2) E rendelet 5. §-a 2010. július 1-jén lép hatályba.
+
+(3) E rendeletet a hatálybalépését követően létrejött jogügyletek tekintetében kell alkalmazni.
+
+---
+
+[^1]: Az 1. § b) pontja az 572/2020. (XII. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^2]: A 2. § a 457/2017. (XII. 28.) Korm. rendelet 279. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: A 2. § (1) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^4]: A 3. § nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 280. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 3. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 280. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 3. § c) pontja az 5/2013. (I. 16.) Korm. rendelet 4. §-ával megállapított, a 375/221. (VI. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 281. § a) potjaj, a 164/2025. (VI. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § e) pontja a 138/2011. (VII. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^9]: A 3. § f) pontja a 138/2011. (VII. 19.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^10]: A 3. § i) pontját az 53/2014. (III. 3.) Korm. rendelet 24. § (1) bekezdése iktatta be.
+[^11]: A 4. § nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 280. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 4. § c) pontja a 138/2011. (VII. 19.) Korm. rendelet 11. §-a, a 375/221. (VI. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^13]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 281. § b) pontja, a 164/2025. (VI. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^14]: A 4. § e) pontja a 138/2011. (VII. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^15]: A 4. § i) pontját az 53/2014. (III. 3.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^16]: A 4/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 279. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: Az 5. §-t a 457/2017. (XII. 28.) Korm. rendelet 281. § c) pontja hatályon kívül helyezte, újonnan a 612/2023. (XII. 22.) Korm. rendelet 24. §-a iktatta be.

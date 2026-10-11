@@ -1,0 +1,213 @@
+---
+title: "221/2008. (VIII. 30.) Korm. rendelet a parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól"
+identifier: "221/2008. (VIII. 30.) Korm. rendelet"
+njt_id: "2008-221-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/221"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-08-30
+in_force_from: 2009-10-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-221-20-22"
+retrieved: 2026-10-12
+---
+
+# 221/2008. (VIII. 30.) Korm. rendelet a parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól
+
+A Kormány az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés f) és g) pontjában, valamint az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. § (2) bekezdésében foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva a következőket rendeli:
+
+## A parlagfű elleni közérdekű védekezés végrehajtásának szabályai
+
+### 1. §
+
+(1) Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Tv.) 17. § (4) bekezdésében előírt parlagfű elleni védekezés elmulasztása esetén
+
+a)[^1] külterületen a terület fekvése szerint illetékes növény- és talajvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: növény- és talajvédelmi hatóság)
+
+b)[^2] belterületen – a (2) bekezdésben meghatározott kivétellel – a települési (fővárosban kerületi) önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban: jegyző)
+
+rendeli el a közérdekű védekezést.
+
+(2)[^3] Ha belterületi ingatlan esetében a települési (fővárosban kerületi, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat nem tesz eleget a Tv. 17. § (4) bekezdésében előírt parlagfű elleni védekezési kötelezettségének, a növény- és talajvédelmi hatóság rendeli el a közérdekű védekezést.
+
+### 2. §
+
+(1) A közérdekű védekezés elrendelésére jogosult hatóság a közérdekű védekezés elvégzésével általa minden év május 31. napjáig kiválasztott gazdálkodó szervezetet bízhat meg.
+
+(2) A közérdekű védekezést célirányosan, költségtakarékosan, hatékonyan és a lehető legkisebb környezeti károsodással járó eljárással kell elvégezni.
+
+(3)[^4] A közérdekű védekezés költségeként a növény- és talajvédelmi hatóságnál, illetve a jegyzőnél felmerült vállalkozói díj számolható el.
+
+(4)[^5] E rendelet alkalmazásában gazdálkodó szervezeten a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezetet kell érteni.
+
+### 3. §
+
+(1)[^6] Helyszíni ellenőrzést – a Tv. 17. § (4) bekezdésében foglaltak betartásának ellenőrzése érdekében – saját kezdeményezésre vagy bejelentés alapján külterületen az ingatlanügyi hatóság, belterületen a jegyző végez. Az ingatlanügyi hatóság a helyszíni ellenőrzést saját kezdeményezésre a 4. §-ban meghatározott területeken folytatja le.
+
+(2)[^7] A helyszíni ellenőrzés során – amennyiben bizonyítást nyer, hogy a földhasználó nem tett eleget a Tv. 17. § (4) bekezdésében foglalt kötelezettségének – külterületen a fertőzött területet főbb töréspontjainak koordinátái meghatározásával, belterületen a helyrajzi szám alapján be kell azonosítani. Az ingatlanügyi hatóság az azonosító adatokat, a terület helyrajzi számát, a földhasználati nyilvántartásba bejegyzett földhasználó adatait és a rendelkezésére álló bizonyítási eszközöket további intézkedésre megküldi a közérdekű védekezés elrendelésére jogosult hatóságnak. Amennyiben az ingatlanügyi hatóság a növényvédelmi tevékenységről szóló jogszabályban meghatározott más allergén gyomnövény jelenlétét észleli, arról szintén tájékoztatja a közérdekű védekezés elrendelésére jogosult hatóságot.
+
+(3) Amennyiben az (1) bekezdésben foglaltakon kívül a közérdekű védekezés elrendelésére jogosult hatóság észleli a Tv. 17. § (4) bekezdésében foglalt kötelezettség megszegését, megkeresi az ingatlanügyi hatóságot a közérdekű védekezés elrendeléséhez szükséges adatok beszerzése érdekében.
+
+(4) A (3) bekezdés szerinti megkeresésben a közérdekű védekezés elrendelésére jogosult hatóság az ingatlanügyi hatóságnak megküldi külterület esetén a parlagfűvel fertőzött terület főbb töréspontjainak koordinátáit, belterület esetén a helyrajzi számot.
+
+(5)[^8] Az (1) és (3) bekezdés szerinti helyszíni ellenőrzés során az ingatlanügyi hatóság és a jegyző az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által az 1. számú melléklet szerinti adattartalommal rendszeresített, a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján és a Földhivatali Portálon közzétett formanyomtatvány felhasználásával jegyzőkönyvet vesz fel.
+
+(6)[^9] A parlagfű felületi borítottságot és a kultúrnövény tőszámát a 2. számú mellékletben foglaltak alapján kell megállapítani. Kultúrnövény esetén a parlagfű felületi borítottságot négyzetméterenként kell számítani. Az agronómiailag indokolt tőszám viszonyítási mértékegysége darab/folyóméter. Kultúrnövény hiányában a teljes fertőzött területre vonatkozó átlagos parlagfűvel való felületi borítottságot kell megadni.
+
+(7) A parlagfű elleni közérdekű védekezést elrendelő határozatban a (2) bekezdés szerinti töréspontokkal, valamint a helyrajzi számmal meg kell határozni azt a területet, amelyre a hatósági védekezés kiterjed.
+
+(8)[^10] A határozatot közölni kell a Magyar Államkincstárral is.
+
+### 4. §
+
+(1)[^11] Az ingatlanügyi hatóság a 3. § (1) bekezdése szerint saját kezdeményezésre helyszíni ellenőrzést
+
+a) a (2) bekezdésében meghatározott parlagfű-veszélyeztetett területeken,
+
+b) a tevékenységével összefüggésben szerzett információi alapján parlagfűvel fertőzött területeken
+
+végez.
+
+(2) Parlagfű-veszélyeztetett területnek (a továbbiakban: veszélyeztetett terület) azon külterületi fekvésű területek minősülnek, amelyeken az űrfelvételek távérzékeléses kiértékelése és a korábbi helyszíni ellenőrzések tapasztalatai alapján a tárgyévi parlagfű-fertőzöttség valószínűsíthető.
+
+(3)[^12] A veszélyeztetett területeket a földmérési és térinformatikai államigazgatási szerv megfigyelő rendszerben azonosítja, és azokról veszélyeztetettségi térképet készít.
+
+(4)[^13] A földmérési és térinformatikai államigazgatási szerv a korábbi év adatai alapján készített veszélyeztetettségi térképet minden év június 15-ig elektronikus úton megküldi az ingatlanügyi hatóságnak. A földmérési és térinformatikai államigazgatási szervI minden év június 30-tól a vegetációs időszak végéig a veszélyeztetettségi térképet – a tárgyévi helyszíni ellenőrzési adatok és űrfelvételek távérzékeléses kiértékelése alapján – kéthetente frissíti.
+
+(5)[^14] A földmérési és térinformatikai államigazgatási szerv azon területeket, amelyekre az előző évben közérdekű védekezést hajtottak végre, illetve rendeltek el, térinformatikai rendszerben ábrázolja, és tájékoztató jelleggel vármegyei, valamint településhatáros bontásban a honlapján közzéteszi.
+
+(6)[^15] A (3)–(5) bekezdésben foglaltak teljesítése érdekében az ingatlanügyi hatóság a helyszíni ellenőrzéssel, illetve a növény- és talajvédelmi hatóság az elvégzett közérdekű védekezéssel érintett területek adatait folyamatosan, de legkésőbb az ellenőrzés lefolytatását, illetve a közérdekű védekezés elvégzését követő nyolc napon belül megküldi a földmérési és térinformatikai államigazgatási szervnek.
+
+## Az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének szabályai
+
+### 5. §
+
+(1)[^16] A Tv. 49. §-a szerinti állami védekezés végrehajtásának fedezetét a költségvetési törvényben az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium) előirányzatából kell biztosítani.
+
+(2) A Tv. 50. §-a szerinti közérdekű védekezés végrehajtásának fedezetét a költségvetési törvényben a Minisztérium meghatározott előirányzatából kell biztosítani.
+
+(3)[^17]
+
+(4)[^18]
+
+### 6. §[^19]
+
+A földmérési és térinformatikai államigazgatási szerv a parlagfű elleni közérdekű védekezés végrehajtásának részletes szabályairól szóló jogszabályban meghatározott feladata ellátásával kapcsolatos költségeit – a miniszter előzetes jóváhagyása alapján – az előirányzatból kell biztosítani. A földmérési és térinformatikai államigazgatási szerv az elvégzett feladatokról és felhasznált forrásokról a tárgyév december 31. napjáig szakmai beszámolót és tételes pénzügyi elszámolást nyújt be a miniszternek.
+
+### 7. §
+
+(1)[^20] A közérdekű védekezéssel kapcsolatos költségek előlegezését a jegyző a védekezést elrendelő határozat meghozatala után igényelheti a növény- és talajvédelmi hatóságtól. Amennyiben a földhasználó a közérdekű védekezés elrendelését követően tesz eleget védekezési kötelezettségének, az okafogyottá vált kiszállással felmerült költségeket lehet érvényesíteni.
+
+(2)[^21] A növény- és talajvédelmi hatóság a közérdekű védekezéssel kapcsolatos költségeket a hozzá érkezett igény szerint a jegyző részére az előirányzat terhére megelőlegezi, az igénylés beérkezését követő nyolc napon belül.
+
+### 8. §
+
+(1)[^22]
+
+(2)[^23] A közérdekű védekezést elrendelő hatóság a földhasználó által befizetett, illetve az adóhatóság által behajtott és a közérdekű védekezést elrendelő hatóságnak továbbított összeget a beérkezéstől számított nyolc napon belül visszatéríti az előirányzatba. A jegyző a befizetett, illetve továbbított összeget a növény- és talajvédelmi hatóságon keresztül téríti vissza az előirányzatba.
+
+### 9. §
+
+(1) Ez a rendelet 2008. szeptember 1-jén lép hatályba azzal, hogy rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2)[^24]
+
+## 1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^25]
+
+**A helyszíni ellenőrzés során készített jegyzőkönyv, vagy feljegyzés tartalmi elemei[^26]**
+
+A helyszíni ellenőrzés során készített jegyzőkönyv, vagy feljegyzés tartalmi elemei:[^27]
+
+1.[^28] az általános közigazgatási rendtartásról szóló törvény szerinti kötelező tartalmi elemek;
+
+2\. az arra való utalás, hogy a helyszíni ellenőrzés az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 17. § (4) bekezdése szerinti kötelezettség ellenőrzésére irányul;
+
+3\. a helyszíni ellenőrzést végző személy neve és beosztása;
+
+4\. annak megjelölése, hogy a helyszíni ellenőrzésre bejelentés alapján vagy egyébként hivatalból került sor;
+
+5\. annak megjelölése, hogy a helyszíni ellenőrzésre lezárt terület felnyitásával került-e sor;
+
+6\. a hatóságnak a helyszíni ellenőrzés során arra vonatkozóan tett megállapítása, mely szerint az ellenőrzéssel érintett földterület használója az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 17. § (4) bekezdésében foglalt kötelezettségének eleget tett-e, és hogy a földterület parlagfűvel fertőzött-e;
+
+7\. a parlagfű fenológiai állapota: csíranövény; száras-leveles, de még nem virágbimbós növény; újrasarjadó növény; virágbimbós állapot; virágzó növény; terméses növény; érett termésű növény; elszáradt kóró;
+
+8\. a parlagfű növény hozzávetőleges átlagos magassága (cm);
+
+9\. más allergén gyomnövény faja;
+
+10\. a fertőzött terület főbb töréspontjainak koordinátái vagy a mérési fájl(ok) neve, illetve a helyrajzi szám;
+
+11\. Az ellenőrzött terület jellemzőinek leírása:
+
+a) nem mezőgazdasági (művelés alól kivett) terület /mezőgazdasági terület,
+
+b) ha mezőgazdasági terület: művelt/nem művelt (parlag),
+
+c) ha művelt mezőgazdasági terület: kultúrnövénnyel fedett/tarló/kaszált/egyéb;
+
+12\. annak megállapítása, hogy a közérdekű védekezés kultúrnövény károsodása nélkül elvégezhető-e;
+
+13\. a kultúrnövény faja;
+
+14.[^29] a parlagfű felületi borítottságának és a kultúrnövény tőszámának megállapításához felvett egyes főbb töréspontok koordinátái, valamint e töréspontok környezetében kijelölt kvadrátok parlagfű borítottságának %-os mértéke, illetve a leszámolt tőszám;
+
+15\. a parlagfűvel való felületi borítottság (%);
+
+16\. a kultúrnövény tőszámának számított átlaga (db);
+
+17\. a helyszíni ellenőrzésről készült képfelvétel azonosítója, illetve a képfelvétel helyének koordinátái vagy a mérési fájl neve, illetve a helyrajzi szám;
+
+18.[^30] a jegyzőkönyv, vagy feljegyzés mellékleteinek megnevezése.
+
+## 2. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez
+
+**Kultúrnövényben megállapított parlagfű-fertőzés esetén a felületi borítottság és a kultúrnövény tőszámának megállapítása**[^31]
+
+I.
+
+*A parlagfű folt felületi borítottságának megállapítása*
+
+A parlagfű folt borításának megállapítását, 10 hektárt meg nem haladó parlagfűvel fertőzött területen 5 fő töréspont, 10 hektárt meghaladó parlagfűvel fertőzött terület felett 10 fő töréspont környezetében kijelölt 2 x 2 m-es területen (a továbbiakban: kvadrát) becsléssel, százalékban kifejezve kell elvégezni. A kvadrátokat úgy kell kijelölni, hogy az adatok a fertőzött területet reprezentálják. A parlagfű folt borítottságát a becsült százalékos értékek átlagaként kell rögzíteni.
+
+II.
+
+*A kultúrnövény tőszámának megállapítása*
+
+Az agronómiailag indokolt tőszám megállapításához a számlálást a parlagfű folt borítottságának megállapítására kijelölt kvadrátokon belül 5-5 folyóméteren kell elvégezni. A parlagfű folton belül a kultúrnövény tőszámának megállapítása a kapott értékek átlagolásával történik.
+
+---
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 64. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 95. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 255/2013. (VII. 5.) Korm. rendelet 24. § (1) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 220. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 24. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 125. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 120. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (4) bekezdését az 57/2014. (III. 4.) Korm. rendelet 8. §-a iktatta be.
+[^6]: A 3. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^7]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a, a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (6) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a, a 240/2017. (VIII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 640. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 4. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 640. §-a, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 4. § (5) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 95. §-a szerint módosított szöveg.
+[^15]: A 4. § (6) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 220. § (4) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 125. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^16]: Az 5. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^17]: Az 5. § (3) bekezdését a 189/2013. (VI. 7.) Korm. rendelet 6. § (6) bekezdése hatályon kívül helyezte.
+[^18]: Az 5. § (4) bekezdését a 189/2013. (VI. 7.) Korm. rendelet 6. § (6) bekezdése hatályon kívül helyezte.
+[^19]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 640. §-a, a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés a) és c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés c) pontja és (5) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 7. § (1) bekezdése a 189/2013. (VI. 7.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 7. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (107) bekezdése, a 351/2010. (XII. 30.) Korm. rendelet 220. § (6) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 36. § (2) bekezdése, a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 120. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^22]: A 8. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 120. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^23]: A 8. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 120. § (3) bekezdésével megállapított szöveg.
+[^24]: A 9. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 641. §-a hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 639. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: Az 1. számú melléklet nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 227. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: Az 1. számú melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 227. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^28]: Az 1. számú melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 227. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: Az 1. számú melléklet 14. pontja a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^30]: Az 1. számú melléklet 18. pontja a 457/2017. (XII. 28.) Korm. rendelet 227. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: A 2. számú melléklet címe a 189/2013. (VI. 7.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.

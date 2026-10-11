@@ -1,0 +1,60 @@
+---
+title: "95/2000. (VI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással  1994. szeptember 9-én létrejött megállapodás módosításáról szóló Megállapodás kihirdetéséről"
+identifier: "95/2000. (VI. 22.) Korm. rendelet"
+njt_id: "2000-95-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/95"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-06-22
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-95-20-22"
+retrieved: 2026-10-12
+---
+
+# 95/2000. (VI. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással 1994. szeptember 9-én létrejött megállapodás módosításáról szóló Megállapodás kihirdetéséről[^1]
+
+*(A Megállapodás módosításáról szóló jegyzékváltás 2000. február 24-én megtörtént.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya e rendelettel kihirdeti a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással 1994. szeptember 9-én létrejött megállapodás módosításáról szóló Megállapodást.
+
+## 2. §
+
+A jegyzékváltás szövegének hivatalos magyar nyelvű fordítása a következő:
+
+,,
+
+Szingapúr, 2000. február 24.
+
+A Szingapúri Köztársaság Külügyminisztériumának
+
+A Magyar Köztársaság Szingapúri Nagykövetsége üdvözletét küldi a Szingapúri Köztársaság Külügyminisztériumának és megtiszteltetésnek tartja, hogy elismerheti a nagyra becsült Külügyminisztérium MFA/CON/00239/2000. számú Jegyzékének kézhezvételét, ami így hangzott:
+
+»A Szingapúri Köztársaság Külügyminisztériuma üdvözletét küldi a Magyar Köztársaság Külügyminisztériumának, és abban a megtiszteltetésben részesült, hogy a két ország között 1994. szeptember 9-én létrejött Vízummentességi Megállapodás módosítását javasolja, 2000. március 24-i hatállyal:
+
+a Megállapodás 1. pontja:
+
+a tizennégy (14) nap kifejezés módosuljon harminc (30) napra.
+
+A Szingapúri Köztársaság Külügyminisztériuma megragadja ezt az alkalmat, hogy biztosíthassa a Magyar Köztársaság Külügyminisztériumát őszinte nagyrabecsüléséről.«
+
+A Magyar Köztársaság Szingapúri Nagykövetsége abban a megtiszteltetésben részesült, hogy tájékoztathatja a nagyrabecsült Minisztériumot, hogy Magyarország Kormánya elfogadja a fenti javaslatot és egyetért azzal, hogy a Szingapúri Köztársaság fent említett Jegyzéke és a jelen Válaszjegyzék képezzék a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya közötti, a vízumkötelezettség kölcsönös megszüntetéséről szóló, 1994. szeptember 9-én, diplomáciai jegyzékváltással létrejött megállapodás módosításáról szóló Megállapodást.
+
+Ez a Megállapodás 2000. március 24-én lép hatályba.
+
+A Magyar Köztársaság Szingapúri Nagykövetsége megragadja az alkalmat, hogy biztosíthassa a Szingapúri Köztársaság Külügyminisztériumát legmagasabb fokú nagyrabecsüléséről.''
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, a Megállapodás rendelkezéseit azonban 2000. március 24. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Az 1994. szeptember 9-i megállapodást a 174/1994. (XII. 24.) Korm. rendelet hirdette ki.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 124. pontja szerint módosított szöveg.

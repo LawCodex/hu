@@ -1,0 +1,834 @@
+---
+title: "67/1995. (VI. 13.) Korm. rendelet az ózonréteget lebontó anyagokról szóló, Montreálban, 1987. szeptember 16. napján aláírt Jegyzőkönyv módosításainak kihirdetéséről"
+identifier: "67/1995. (VI. 13.) Korm. rendelet"
+njt_id: "1995-67-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/67"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-06-13
+in_force_from: 1995-06-21
+last_amended: 1995-06-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-67-20-22"
+retrieved: 2026-10-12
+---
+
+# 67/1995. (VI. 13.) Korm. rendelet az ózonréteget lebontó anyagokról szóló, Montreálban, 1987. szeptember 16. napján aláírt Jegyzőkönyv módosításainak kihirdetéséről
+
+[A Magyar Köztársaság vonatkozásában\
+az ózonréteget lebontó anyagokról szóló, Montreálban 1987. szeptember 16. napján aláírt — a 35/1990. (II. 28.) MT rendelettel kihirdetett — Jegyzőkönyv\
+— Londoni Módosítása 1994. február 7. napján,\
+— Koppenhágai Módosítása 1994. augusztus 15. napján,\
+— Koppenhágai kiegészítése 1993. szeptember 22. napján
+
+hatályba lépett.]
+
+## 1. §
+
+A Kormány ,,Az ózonréteget lebontó anyagokról'' szóló, Montreálban, 1987. szeptember 16. napján aláírt Jegyzőkönyvnek
+
+a) a részes államok 1990. júniusi, Londonban tartott konferenciáján elfogadott módosítását,
+
+b) a részes államok Koppenhágában, 1992 novemberében tartott konferenciáján elfogadott módosítását,
+
+c) a részes államok Koppenhágában, 1992 novemberében tartott konferenciáján elfogadott kiegészítését
+
+jelen rendelettel kihirdeti.
+
+## 2. §
+
+(1) A Londoni Módosítás magyar nyelvű szövege a következő:
+
+,,Módosítások\
+az ózonréteget lebontó anyagokról szóló\
+Montreáli Jegyzőkönyvhöz
+
+*1. Cikk: Módosítás*
+
+*A) Bevezető bekezdések*
+
+1\. A Jegyzőkönyv 6. bevezető bekezdését a következő váltja fel:
+
+*Eltökélve arra,* hogy megvédik az ózonréteget, a lebontó anyagok globális összkibocsátását méltányosan szabályozó, megelőző intézkedések meghozatalával, a tudományos ismeretek fejlődésével végső célul teljes kiküszöbölésüket kitűzve, számításba véve a műszaki és gazdasági körülményeket, és figyelemmel kísérve a fejlődő országok fejlődésének igényeit,
+
+2\. A Jegyzőkönyv 7. bevezető bekezdését a következő váltja fel:
+
+*Elismerve,* hogy különleges intézkedést igényel a fejlődő országok igényeinek kielégítése, beleértve a kiegészítő pénzügyi forrásokról és a szükséges technológiák hozzáférhetőségéről való gondoskodást, szem előtt tartva, hogy az anyagi eszközök szükséges nagysága előrelátható, és hogy az anyagi eszközök várhatóan jelentősen járulnak hozzá ahhoz, hogy a világ hogyan képes megoldani az ózonlebontás és káros hatásai tudományosan megállapított problémáját,
+
+3\. A Jegyzőkönyv 9. bevezető bekezdését a következő váltja fel:
+
+*Megfontolva* az ózonréteget lebontó anyagok kibocsátásainak korlátozásával és csökkentésével kapcsolatos alternatív technológiák kutatása, fejlesztése és átadása terén a nemzetközi együttműködés elősegítésének a fontosságát, különös figyelemmel a fejlődő országok igényeire.
+
+*B) 1. Cikk: Meghatározások*
+
+1\. A Jegyzőkönyv 1. Cikkének 4. bekezdését a következő bekezdés váltja fel:
+
+4\. ,,Szabályozott anyag'': a Jegyzőkönyv ,,A'' vagy ,,B'' függelékében felsorolt anyagot jelenti akár önmagában, akár egy keverékben fordul elő. Ide tartozik bármely ilyen anyag izomerje, kivéve, ha az a vonatkozó függelékben másképpen áll, kivételt képez azonban bármely szabályozott anyag vagy keverék, amennyiben egy olyan feldolgozott termékben van, amely nem ilyen anyag szállítására vagy tárolására használt tartály.
+
+2\. A Jegyzőkönyv 1. Cikkének 5. bekezdését a következő bekezdés váltja fel:
+
+5\. ,,Termelés'': a szabályozott anyagok előállított mennyisége, levonva ebből a Felek által elfogadásra kerülő technológiákkal ártalmatlanított mennyiséget és a más vegyi anyagok előállításához teljes mértékben alapanyagként felhasznált mennyiséget. Az újrafeldolgozott és újrahasznosított mennyiség nem tekinthető ,,termelésnek''.
+
+3\. A Jegyzőkönyv 1. Cikkéhez a következő bekezdés adandó:
+
+9\. ,,Átmeneti anyag'': a Jegyzőkönyv ,,C'' függelékében felsorolt anyagot jelenti, akár önmagában, akár egy keverékben fordul elő. Ide tartozik bármely ilyen anyag izomerje, kivéve, ha az a ,,C'' függelékben másképpen áll, kivételt képez azonban bármely átmeneti anyag vagy keverék, amennyiben egy olyan feldolgozott termékben van, amely nem az ilyen anyag szállítására vagy tárolására használt tartály.
+
+*C) 2. Cikk 5. bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 5. bekezdését a következő bekezdés váltja fel:
+
+5\. Bármely Fél átadhatja egy másiknak a 2A.—2E. Cikkekben szereplő anyagok számított termelési szintjének bármely hányadát, egy vagy több szabályozási időszakban, amennyiben az érintett Felek termelése kombinált összegének számított szintje a szabályozott anyagok egyik csoportjában sem lépi túl az azon Cikkekben arra a csoportra megállapított termelési határértéket. A termelés ilyen átadását minden érintett Félnek be kell jelentenie a Titkárságnak, közölve az ilyen átadás feltételeit és a vonatkozó időszakot.
+
+*D) 2. Cikk 6. bekezdés*
+
+A 2. Cikk 6. bekezdésébe a ,,szabályozott anyagok'' első előfordulása elé a következő szavak kerülnek:
+
+,,A'' vagy ,,B'' függelék
+
+*E) 2. Cikk 8.a) bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 8. *a)* bekezdésében az ,,ezen Cikk'' minden előfordulása után betoldandók a következő szavak:
+
+és a 2A.—2E. Cikkek
+
+*F) 2. Cikk 9. a) (i) bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 9. *a)* *(i)* bekezdésében az ,,A'' függelék után betoldandó:
+
+és/vagy a ,,B'' függelékben
+
+*G) 2. Cikk 9. a) (ii) bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 9. *a)* *(ii)* bekezdéséből törlendők a következők szavak:
+
+1986\. évi szintjeihez képest
+
+*H) 2. Cikk 9.c) bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 9. *c)* bekezdéséből törlendők a következők szavak:
+
+ha ezek képviselik a Felek szabályozott anyag összfelhasználásának legalább ötven százalékát
+
+és helyébe kerül:
+
+ha ezek az 5. Cikk 1. bekezdése szerint működő, jelenlévő és szavazó Felek többségét és a nem úgy működő jelenlévő és szavazó Felek többségét képviselik
+
+*I) 2. Cikk 10.b) bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 10. *b)* bekezdése törlendő, így a 2. Cikk 10. *a)* bekezdése 10. bekezdéssé válik.
+
+*J) 2. Cikk 11. bekezdés*
+
+A Jegyzőkönyv 2. Cikkének 11. bekezdésében az ,,ezen Cikk'' minden előfordulása után betolandók a következők szavak:
+
+és a 2A.—2E. Cikkek
+
+*K) 2C. Cikk: más telített CFC-k*
+
+A Jegyzőkönyvbe 2C. Cikként a következő bekezdések kerülnek:
+
+*2C. Cikk: más telített CFC-k*
+
+1\. Minden Fél biztosítja, hogy az 1993. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjének a nyolcvan százalékát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a nyolcvan százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1997. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a tizenöt százalékát. Egy vagy több ilyen anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a tizenöt százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+3\. Minden Fél biztosítja, hogy a 2000. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt.
+
+*L) 2D. Cikk: Szén-tetraklorid*
+
+A Jegyzőkönyvhöz 2D. Cikként a következő bekezdések adandók:
+
+*2D. Cikk: Szén-tetraklorid*
+
+1\. Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék II. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a tizenöt százalékát. Az anyagot előállító minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl az 1989. évi termelés számított szintjének a tizenöt százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy a 2000. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék II. csoportjában szabályozott anyag felhasználásának a számított szintje nem lépi túl a nullát. Az anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt.
+
+*M) 2E. Cikk: 1,1,1-triklór-etán (metil kloroform)*
+
+A Jegyzőkönyvhöz 2E. Cikként a következő bekezdések adandók:
+
+*2E. Cikk: 1,1,1-triklór-etán (metil kloroform)*
+
+1\. Minden Fél biztosítja, hogy az 1993. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjét. Az anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjét. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a hetven százalékát. Az anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a hetven százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+3\. Minden Fél biztosítja, hogy az 2000. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a harminc százalékát. Az anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a harminc százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+4\. Minden Fél biztosítja, hogy az 2005. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje nem lépi túl a nullát. Az anyagot termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt.
+
+5\. 1992-ben a Felek áttekintik az ezen Cikkben szereplő csökkentések gyorsabb ütemezésének a kivitelezhetőségét.
+
+*N) 3. Cikk: A szabályozási szintek számítása*
+
+1\. A Jegyzőkönyv 3. Cikkében a ,,2.'' Cikk után a következő toldandó be:
+
+2A.—2E.
+
+2\. A Jegyzőkönyv 3. Cikkében az ,,A'' függelék minden előfordulása után betoldandók a következők szavak:
+
+vagy ,,B'' függelék
+
+*O) 4. Cikk: A nem Felekkel való kereskedelem szabályozása*
+
+1\. A 4. Cikk 1—5. bekezdéseit a következő bekezdések váltják fel:
+
+1\. 1990. január 1-jétől minden Fél megtiltja az ,,A'' függelékben szabályozott anyagok importját minden olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+1\. *bis.* Ezen bekezdés hatálybalépésének az időpontjától számított egy éven belül minden Fél megtiltja a ,,B'' függelékben szabályozott anyagok importját minden olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+2\. 1993. január 1-jétől minden Fél megtiltja bármilyen szabályozott anyag exportját bármely olyan államba, amely nem részese a Jegyzőkönyvnek.
+
+2\. *bis.* Ezen bekezdés hatálybalépésének az időpontjától számított egy év múltán minden Fél megtiltja a ,,B'' függelékben szabályozott anyagok exportját bármely olyan országba, amely nem részese a Jegyzőkönyvnek.
+
+3\. 1992. január 1-jéig a Felek kidolgozzák egy függelékként az ,,A'' függelékben szabályozott anyagokat tartalmazó termékek listáját, az Egyezmény 10. Cikke szerinti eljárást követve. Azon Felek, amelyek az eljárás rendjének megfelelően nem utasították el a függeléket, a függelék hatálybalépését követő egy éven belül megtiltják az ilyen termékek importját minden olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+3\. *bis.* Ezen bekezdés hatálybalépését követő három éven belül a Felek kidolgozzák a ,,B'' függelékben szabályozott anyagokat tartalmazó termékek listáját, az Egyezmény 10. Cikke szerinti eljárást követve. Azon Felek, amelyek az eljárás rendjének megfelelően nem utasították el a függeléket, a függelék hatálybalépését követően egy éven belül megtiltják az ilyen termékek importját minden olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+4\. 1994. január 1-jéig a Felek meghatározzák a Jegyzőkönyvben nem részes államokból történő minden olyan termék importja megtiltásának vagy korlátozásának a lehetőségét, amelyek nem tartalmaznak az ,,A'' függelékben szabályozott anyagot, de amelyet ennek segítségével termeltek. Amennyiben ezt célravezetőnek ítélik, a Felek az Egyezmény 10. Cikkében leírt eljárást követve egy függelékben kidolgozzák az ilyen termékek listáját. Azon Felek, amelyek az eljárás rendjének megfelelően nem utasították el a függeléket, a függelék hatálybalépését követően egy éven belül megtiltják az ilyen termékek importját minden olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+4\. *bis.* Ezen bekezdés hatálybalépését követő öt éven belül a Felek meghatározzák a Jegyzőkönyvben nem részes államokból történő minden olyan termék importja megtiltásának vagy korlátozásának a lehetőségét, amelyek nem tartalmaznak a ,,B'' függelékben szabályozott anyagot, de amelyet ennek segítségével termeltek. Amennyiben ezt célravezetőnek ítélik, a Felek az Egyezmény 10. Cikkében leírt eljárást követve egy függelékben kidolgozzák az ilyen termékek listáját. Azon Felek, amelyek az eljárás rendjének megfelelően nem utasították el a függeléket, a függelék hatálybalépését követő egy éven belül megtiltják vagy korlátozzák az ilyen termékek importját bármely olyan államból, amely nem részese a Jegyzőkönyvnek.
+
+5\. Minden Fél igyekszik a lehető legnagyobb mértékben ellenösztönzést alkalmazni a szabályozott anyagokat előállító vagy hasznosító technológiák exportjára, minden olyan államba, amely nem részese a Jegyzőkönyvnek.
+
+2\. A Jegyzőkönyv 4. Cikkének 8. bekezdését a következő bekezdés váltja fel:
+
+8\. Ezen Cikkel szemben az 1., 1. *bis.*, 3., 3. *bis*. és 4., 4. *bis.* bekezdésekben hivatkozott import, valamint a 2., 2. *bis.* bekezdésekben hivatkozott export megengedhető a Jegyzőkönyvben nem részes államokból, illetve államokba, amennyiben a Felek egy értekezlete azt az államot a 2., 2A.—2E. és ezen Cikknek teljesen megfelelőnek ítéli, valamint erre vonatkozólag a 7. Cikk előírásai szerint adatokat szolgáltat.
+
+3\. A Jegyzőkönyv 4. Cikkéhez 9. bekezdésként a következő bekezdés járul:
+
+9\. Ezen Cikk értelmezésében a ,,jegyzőkönyvben nem részes állam'' kifejezés magában foglalja egy bizonyos szabályozott anyag vonatkozásában azt az országot vagy regionális gazdasági integrációs szervezetet, amely nem vállalta az illető anyagra érvényben lévő korlátozási intézkedések kötelezettségét.
+
+*P) 5. Cikk: A fejlődő országok különleges helyzete*
+
+A Jegyzőkönyv 5. Cikkét a következő váltja fel:
+
+1\. Bármely Fél, amely fejlődő ország és az ,,A'' függelékben szabályozott anyag felhasználásának éves szintje kevesebb, mint 0,3 kg/fő, a Jegyzőkönyv számára történő hatálybalépésekor vagy bármely időben azt követően 1991. január 1-jéig, jogosult alapvető hazai igényeinek a kielégítése érdekében a 2A.—2E. Cikkekben foglalt szabályozó intézkedések vállalásának tíz évvel történő elhalasztására.
+
+2\. Azonban az ezen Cikk 1. bekezdése szerint működő bármely Fél szabályozott anyag felhasználásának éves viszonylatban számított szintje nem lépheti túl az ,,A'' függelék vonatozásában a 0,3 kg/fő, a ,,B'' függelék vonatkozásában pedig a 0,2 kg/fő határt.
+
+3\. A 2A.—2E. Cikkekben kifejtett szabályozó intézkedések végrehajtása során az ezen Cikk 1. bekezdése szerint működő Fél jogosult a következők használatára:
+
+*a)* az ,,A'' függelékben szabályozott anyagokra: vagy az 1995—1997-ig bezárólag terjedő időszak éves számított szintjeinek a középértéke, vagy a 0,3 kg/fő számított felhasználási szint — amelyik alacsonyabb ezek közül — szolgáljon alapul a szabályozó intézkedések betartásának meghatározásához;
+
+*b)* a ,,B'' függelékben szabályozott anyagokra: vagy az 1998-tól 2000-ig bezárólag terjedő időszak éves számított felhasználási szintjeinek a középértéke, vagy a 0,2 kg/fő számított felhasználási szint — amelyik ezek közül alacsonyabb — szolgáljon alapul a szabályozó intézkedések betartásának meghatározásához.
+
+4\. Amennyiben egy ezen Cikk 1. bekezdése szerint működő Fél bármely időben a 2A.—2E. Cikkek szabályozó intézkedései alkalmazásának számára történő kötelezővé válása előtt úgy találja, hogy képtelen hozzájutni a megfelelő mennyiségű szabályozott anyaghoz, azt jelentheti a Titkárságnak. A Titkárság az ilyen értesítés egy példányát haladéktalanul megküldi a Feleknek, amelyek a következő értekezletükön megvizsgálják az ügyet, és döntenek a megfelelő intézkedésről.
+
+5\. Az ezen Cikk 1. bekezdése szerint működő Felek kötelezettségteljesítési kapacitásának a fejlesztése, mely a 2A.—2E. Cikkekben foglalt szabályozó intézkedések betartására és ezen intézkedések ugyanazon Felek általi végrehajtására irányul, függni fog a 10. Cikkben meghatározott pénzügyi együttműködés és a 10A. Cikkben meghatározott technológiaátadás hatékony végrehajtásától.
+
+6\. Az ezen Cikk 1. bekezdése szerint működő bármely Fél bármikor írásban értesítheti a Titkárságot, hogy minden lehetséges lépés megtétele után képtelen végrehajtani a 2A.—2E. Cikkekben lefektetett kötelezettségek bármelyikét vagy mindegyikét, a 10. és a 10A. Cikkek nem kielégítő végrehajtása miatt. A Titkárság az értesítés egy példányát haladéktalanul megküldi a Feleknek, amelyek a következő értekezletükön megvitatják az ügyet, és ezen Cikk 5. bekezdésének a megfelelő figyelembevételével döntenek a megfelelő intézkedésről.
+
+7\. Az értesítés és a Felek ülése — amelyen a 6. bekezdésben hivatkozott szükséges teendőket meghatározzák — közötti időszakban, vagy ha a Felek értekezlete úgy dönt, egy további időszakban, a 8. Cikkben szereplő összeférhetetlenségi eljárások nem kezdeményezhetők az értesítést tevő Féllel szemben.
+
+8\. A Felek értekezlete legkésőbb 1995-ben áttekinti az ezen Cikk 1. bekezdése szerint működő Felek helyzetét beleértve a pénzügyi együttműködés és a részükre történő technológiaátadás hatékony megvalósulását, és olyan változtatásokat fogad el, amelyek szükségesnek tűnhetnek az azon Felekre vonatkozó szabályozó intézkedések ütemezése szempontjából.
+
+9\. Az ezen Cikk 4., 6. és 7. bekezdéseiben hivatkozott Felek döntéseinél a 10. Cikk szerinti döntéshozatallal azonos eljárást kell alkalmazni.
+
+Q) 6. Cikk: A szabályozó intézkedések vizsgálata\
+és áttekintése
+
+A Jegyzőkönyv 6. Cikkében a ,,2. Cikk'' után betoldandók a következő szavak:
+
+a 2A.—2E. Cikkek, valamint a ,,C'' függelék I. csoportjában szereplő átmeneti anyagok termelésének, importjának és exportjának a helyzete.
+
+*R) 7. Cikk: Adatszolgáltatás*
+
+1\. A Jegyzőkönyv 7. Cikkét a következő váltja fel:
+
+1\. Minden Fél a csatlakozását követő három hónapon belül statisztikai adatokat — vagy ahol tényleges adatok nem állnak rendelkezésre, akkor ezek lehetséges legjobb becsléseit — szolgáltat a Titkárságnak az ,,A'' függelékben szabályozott anyagok mindegyikének 1986. évi termelésére, importjaira és exportjaira vonatkozóan.
+
+2\. Minden Fél statisztikai adatokat — vagy ahol tényleges adatok nem állnak rendelkezésre, akkor ezek lehetséges legjobb becsléseit — szolgáltat a Titkárságnak a ,,B'' függelékben szabályozott anyagok, valamint a ,,C'' függelék I. csoportjában szabályozott átmeneti anyagok mindegyikének az 1989. évi termelésére, importjaira és exportjaira vonatkozóan, legkésőbb három hónappal azt követően, hogy a Jegyzőkönyv előírásai a ,,B'' függelék anyagaira vonatkozóan az illető Fél számára hatályba lépnek.
+
+3\. Minden Fél statisztikai adatokat szolgáltat a Titkárságnak a saját évi termeléséről (az 1. Cikk 5. bekezdésében meghatározott módon), valamint külön
+
+— az intermedierként használt mennyiségekről,
+
+— a Felek által jóváhagyott technológiákkal ártalmatlanított mennyiségekről,
+
+— a Felek és nem Felek részére történt importokról és exportokról,
+
+az ,,A'' és ,,B'' függelékekben felsorolt szabályozott anyagok mindegyikére, csakúgy, mint a ,,C'' függelék I. csoportjában lévő átmeneti anyagokra arra az évre vonatkozóan, amelynek folyamán a ,,B'' függelék anyagaira vonatkozó előírások az illető Fél számára hatályba lépnek, majd azt követően minden évben. Az adatokat legkésőbb a tárgyévet követő kilenc hónapon belül kell megküldeni.
+
+4\. A 2. Cikk 8. *a)* bekezdésének előírásai szerint működő Felek ezen Cikk 1., 2. és 3. bekezdésének az importokkal és exportokkal kapcsolatos adatszolgáltatásra vonatkozó követelményeit kielégítik, ha az érintett regionális gazdasági integrációs szervezet adatokat szolgáltat az importokról és exportokról a szervezet és azon országok között, amelyek nem tagjai azon szervezetnek.
+
+S) 9. Cikk: Kutatás, fejlesztés, társadalmi tudatosság\
+és információcsere
+
+A Jegyzőkönyv 9. Cikkének 1. *a)* bekezdését a következő váltja fel:
+
+*a)* Legjobb technológiák a szabályozott és átmeneti anyagok tárolásának, visszanyerésének, újrahasznosításának vagy ártalmatlanításának a tökéletesítésére, vagy emisszióik egyéb módon való csökkentésére.
+
+*T) 10. Cikk: Pénzügyi mechanizmus*
+
+A Jegyzőkönyv 10. Cikkét a következő váltja fel:
+
+1\. A Felek egy mechanizmust hoznak létre a pénzügyi és műszaki együttműködés biztosításának céljából, beleértve a technológiaátadást, az ezen Jegyzőkönyv 5. Cikk 1. bekezdése szerint működő Feleknek, hogy ezek megfelelhessenek a Jegyzőkönyv 2A.—2E. Cikkeiben lefektetett szabályozó intézkedéseknek. A mechanizmus, hozzájárulások, amelyeknek kiegészítéseként még más pénzügyi transzferek is történnek azon bekezdés szerint működő Felek részére, fedezi az ilyen Felek minden megállapított bekerülési költségét a célból, hogy lehetővé tegye megfelelésüket a Jegyzőkönyv szabályozó intézkedéseinek. A bekerülési költség kategóriák tájékoztató jegyzékét a Felek értekezlete határozza meg.
+
+2\. Az 1. bekezdés szerint létrehozott mechanizmus egy multilaterális alapot foglal magában. Egyéb multilaterális, regionális és bilaterális együttműködési eszközöket is magában foglalhat.
+
+3\. A Multilaterális Alap:
+
+*a)* Adomány vagy koncessziós alapon, ahogy megfelelőbb, és a Felek által meghatározandó kritériumokkal összhangban biztosítja a megállapított bekerülési költségeket.
+
+*b)* Kliring-intézet funkciókat finanszíroz:
+
+*(i)* az 5. Cikk 1. bekezdés szerint működő Feleknek történő segítségnyújtás érdekében országspecifikus vizsgálatokon és más műszaki együttműködésen keresztül, hogy együttműködési igényeiket meghatározhassák;
+
+*(ii)* a műszaki együttműködés elősegítésére, hogy ezeket a meghatározott igényeket kielégíthessék;
+
+*(iii)* információk és vonatkozó anyagok terjesztésére, amint azt a 9. Cikk előirányozza, illetve munkatalálkozók, tanfolyamok és más hasonló tevékenységek tartására, azon Felek hasznára, melyek fejlődő országok;
+
+*(iv)* azon Felek számára, melyek fejlődő országok igénybe vehető egyéb sokoldalú, regionális és kétoldalú együttműködések elősegítésére és ellenőrzésére.
+
+*c)* Finanszírozza a Multilaterális Alap titkársági szolgáltatásait és a vonatkozó ellátási költségeket.
+
+4\. A Multilaterális Alap a Felek felügyelete alatt működik, amelyek döntenek az Alap általános politikájáról.
+
+5\. A Felek egy Végrehajtó Bizottságot hoznak létre a specifikus működési koncepciók, irányelvek és az adminisztratív ügyvitel fejlesztésére és ellenőrzésére, beleértve a források elosztását, a Multilaterális Alap céljainak az elérése érdekében. A Végrehajtó Bizottság feladatait és felelősségi körét a Felek által megállapított hatásköri leírás szerint látja el, a Nemzetközi Újjáépítési és Fejlesztési Bank (IBRD), az Egyesült Nemzetek Környezeti Programja (UNEP), az Egyesült Nemzetek Fejlesztési Programja (UNDP), vagy más illetékes szervezetek együttműködésével és segítségével ezek vonatkozó szakterületeitől függően. A Végrehajtó Bizottság tagjait, akiket az 5. Cikk 1. bekezdése szerint működő, illetve a nem így működő Felek a kiegyensúlyozott képviselet alapján választanak ki, a Felek hagyják jóvá.
+
+6\. A Multilaterális Alap forrása azon Felek hozzájárulása konvertibilis valutában vagy bizonyos körülmények között természetben és/vagy nemzeti valutában, az ENSZ hozzájárulási ráta alapján, amelyek nem az 5. Cikk 1. bekezdése szerint működnek. Más Felek hozzájárulásai bátorítandók. A Multilaterális Alaphoz való hozzájárulásnak tekinthetők kétoldalú és különös esetekben a Felek egyetértő döntése alapján, regionális együttműködések is bizonyos százalékig és a Felek által meghatározandó kritériumoknak megfelelően, feltéve, hogy az együttműködés legalábbis:
+
+*a)* szorosan kapcsolódik ezen Jegyzőkönyv előírásainak a teljesítéséhez;
+
+*b)* kiegészítő forrásokat biztosít; és
+
+*c)* biztosítja az elfogadott bekerülési költségeket.
+
+7\. A Felek döntenek a Multilaterális Alap program-költségvetéséről az egyes pénzügyi időszakokra, valamint az egyes Felek hozzájárulásának a százalékáról.
+
+8\. A Multilaterális Alap forrásait a kedvezményezett Felek versenyeztetésével kell elosztani.
+
+9\. A Felek ezen Cikkel kapcsolatos döntéseiket, amikor csak lehetséges, konszenzussal alakítják ki. Amennyiben a konszenzus elérésére irányuló minden törekvés kimerült, és egyetértés nem jött létre, a döntéseket a jelenlévő és szavazó Felek kétharmados szavazattöbbségével kell elfogadni, amely képviseli az 5. Cikk 1. bekezdése szerint működő és a nem így működő, jelenlevő és szavazó Felek többségét.
+
+10\. Az e Cikkben kifejtett pénzügyi mechanizmus nincs jogfenntartással bármilyen jövőbeli megoldásokkal kapcsolatosan, amelyek más környezetvédelmi témákkal összefüggésben kerülhetnek kifejlesztésre.
+
+*U) 10A. Cikk: Technológiaátadás*
+
+A Jegyzőkönyvhöz 10A. Cikként a következő Cikk adandó:
+
+*10A. Cikk: Technológiaátadás*
+
+Minden Fél megtesz minden gyakorlati lépést a pénzügyi mechanizmus által támogatott programokkal összhangban, annak biztosítására, hogy
+
+*a)* a rendelkezésre álló legjobb, környezetileg biztonságos helyettesítő anyagokat és kapcsolódó technológiákat adják át rövid úton az 5. Cikk 1. bekezdése szerint működő Feleknek; és
+
+*b)* az *a)* alpont alatt hivatkozott átadások méltányos és a legkedvezőbb feltételek mellett történjenek.
+
+*V) 11. Cikk: A Felek értekezletei*
+
+A Jegyzőkönyv 11. Cikkének 4. *g)* bekezdését a következő váltja fel:
+
+*g)* vizsgálják meg a 6. Cikkel összhangban az átmeneti anyagokra vonatkozó szabályozó intézkedéseket és helyzetet;
+
+*W) 17. Cikk: A hatálybalépést követően csatlakozó Felek*
+
+A 17. Cikkben a ,,csakúgy mint'' után betoldandók a következő szavak:
+
+a 2A.—2E. Cikkekben és a
+
+*X) 19. Cikk: Felmondás*
+
+A Jegyzőkönyv 19. Cikkét a következő bekezdés váltja fel:
+
+Bármely Fél négy évvel a 2A. Cikk 1. bekezdésében meghatározott kötelezettségek elvállalását követően bármikor felmondhatja a Jegyzőkönyvet a letéteményeshez intézett írásbeli jegyzékkel. A felmondás egy évvel az után válik hatályossá, hogy a letéteményes a felmondást kézhez vette, vagy abban a későbbi időpontban, amelyet a felmondásról szóló értesítés meghatároz.
+
+*Y) Függelékek*
+
+A következő függelékeket kell a Jegyzőkönyvhöz toldani:
+
+*,,B'' függelék*
+
+**Szabályozott anyagok**
+
+| Csoport | Anyag | Ózonlebontó potenciál |
+|---|---|---|
+| I. csoport |  |  |
+| CF<sub>3</sub>Cl | (CFC–13) | 1.0 |
+| C<sub>2</sub>FCl<sub>5</sub> | (CFC–111) | 1.0 |
+| C<sub>2</sub>F<sub>2</sub>Cl<sub>4</sub> | (CFC–112) | 1.0 |
+| C<sub>3</sub>FCl<sub>7</sub> | (CFC–211) | 1.0 |
+| C<sub>3</sub>F<sub>2</sub>Cl<sub>6</sub> | (CFC–212) | 1.0 |
+| C<sub>3</sub>F<sub>3</sub>Cl<sub>5</sub> | (CFC–213) | 1.0 |
+| C<sub>3</sub>F<sub>4</sub>Cl<sub>4</sub> | (CFC–214) | 1.0 |
+| C<sub>3</sub>F<sub>5</sub>Cl<sub>3</sub> | (CFC–215) | 1.0 |
+| C<sub>3</sub>F<sub>6</sub>Cl<sub>2</sub> | (CFC–216) | 1.0 |
+| C<sub>3</sub>F<sub>7</sub>Cl | (CFC–217) | 1.0 |
+| II. csoport |  |  |
+| CCl<sub>4</sub> | szén tetraklorid | 1.1 |
+| III. csoport |  |  |
+| C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub>* | 1,1,1–trikloretán (metil kloroform) | 0.1 |
+
+____
+
+*Ez a képlet nem vonatkozik az 1,1,2-triklóretánra.
+
+II. csoport
+
+CCl<sub>4</sub> szén tetraklorid 1.1
+
+III. csoport
+
+C<sub>2</sub>H<sub>3</sub>Cl<sub>3</sub>* 1,1,1—trikloretán\
+(metil kloroform) 0.1
+
+____
+
+\* Ez a képlet nem vonatkozik az 1,1,2-triklóretánra.
+
+*,,C'' függelék*
+
+**Átmeneti anyagok**
+
+| Csoport | Anyag |
+|---|---|
+| I. csoport |  |
+| CHFCl<sub>2</sub> | (HCFC–21) |
+| CHF<sub>2</sub>Cl | (HCFC–22) |
+| CH<sub>2</sub>FCl | (HCFC–31) |
+| C<sub>2</sub>HFCl<sub>4</sub> | (HCFC–121) |
+| C<sub>2</sub>HF<sub>2</sub>Cl<sub>3</sub> | (HCFC–122) |
+| C<sub>2</sub>HF<sub>3</sub>Cl<sub>2</sub> | (HCFC–123) |
+| C<sub>2</sub>HF<sub>4</sub>Cl | (HCFC–124) |
+| C<sub>2</sub>H<sub>2</sub>FCl<sub>3</sub> | (HCFC–131) |
+| C<sub>2</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>2</sub> | (HCFC–132) |
+| C<sub>2</sub>H<sub>2</sub>F<sub>3</sub>Cl | (HCFC–133) |
+| C<sub>2</sub>H<sub>3</sub>FCl<sub>2</sub> | (HCFC–141) |
+| C<sub>2</sub>H<sub>3</sub>F<sub>2</sub>Cl | (HCFC–142) |
+| C<sub>2</sub>H<sub>4</sub>FCl | (HCFC–151) |
+| C<sub>3</sub>HFCl<sub>6</sub> | (HCFC–221) |
+| C<sub>3</sub>HF<sub>2</sub>Cl<sub>5</sub> | (HCFC–222) |
+| C<sub>3</sub>HF<sub>3</sub>Cl<sub>4</sub> | (HCFC–223) |
+| C<sub>3</sub>HF<sub>4</sub>Cl<sub>3</sub> | (HCFC–224) |
+| C<sub>3</sub>HF<sub>5</sub>Cl<sub>2</sub> | (HCFC–225) |
+| C<sub>3</sub>HF<sub>6</sub>Cl | (HCFC–226) |
+| C<sub>3</sub>H<sub>2</sub>FCl<sub>5</sub> | (HCFC–231) |
+| C<sub>3</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>4</sub> | (HCFC–232) |
+| C<sub>3</sub>H<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub> | (HCFC–233) |
+| C<sub>3</sub>H<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub> | (HCFC–234) |
+| C<sub>3</sub>H<sub>2</sub>F<sub>5</sub>Cl | (HCFC–235) |
+| C<sub>3</sub>H<sub>3</sub>FCl<sub>4</sub> | (HCFC–241) |
+| C<sub>3</sub>H<sub>3</sub>F<sub>2</sub>Cl<sub>3</sub> | (HCFC–242) |
+| C<sub>3</sub>H<sub>3</sub>F<sub>3</sub>Cl<sub>2</sub> | (HCFC–243) |
+| C<sub>3</sub>H<sub>3</sub>F<sub>4</sub>Cl | (HCFC–244) |
+| C<sub>3</sub>H<sub>4</sub>FCl<sub>3</sub> | (HCFC–251) |
+| C<sub>3</sub>H<sub>4</sub>F<sub>2</sub>Cl<sub>2</sub> | (HCFC–252) |
+| C<sub>3</sub>H<sub>4</sub>F<sub>3</sub>Cl | (HCFC–253) |
+| C<sub>3</sub>H<sub>5</sub>FCl<sub>2</sub> | (HCFC–261) |
+| C<sub>3</sub>H<sub>5</sub>F<sub>2</sub>Cl | (HCFC–262) |
+| C<sub>3</sub>H<sub>6</sub>FCl | (HCFC–271) |
+
+*2. Cikk: Hatálybalépés*
+
+1\. Ez a módosítás 1992. január 1-jén lép hatályba, feltéve, hogy legalább húsz, a módosításra vonatkozó megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratot helyeztek letétbe olyan államok vagy regionális gazdasági integrációs szervezetek, amelyek részes Felei ,,az ózonréteget lebontó anyagokról szóló'' Montreáli Jegyzőkönyvnek. Amennyiben ez a feltétel a fenti időpontig nem teljesül, a Módosítás az attól a naptól számított kilencvenedik napon lép hatályba, amikor a feltétel teljesül.
+
+2\. Az 1. bekezdés vonatkozásában egy regionális gazdasági integrációs szervezet által letétbe helyezett bármilyen okiratot nem számítják hozzá az ilyen szervezet tagállamai által letétbe helyezett okiratokhoz.
+
+3\. Ezen Módosítás 1. bekezdés szerinti hatálybalépését követően, a Jegyzőkönyv minden más Fele számára a megerősítési, elfogadási és jóváhagyási okiratuknak a letétbe helyezését követő kilencvenedik napon lép hatályba.''
+
+(2) A Koppenhágai Módosítás magyar nyelvű szövege a következő:
+
+,,Az ózonréteget lebontó anyagokról szóló\
+Montreáli Jegyzőkönyv módosítása
+
+*1. Cikk: Módosítások*
+
+*A) 1. Cikk 4. bekezdés*
+
+A Jegyzőkönyv 1. Cikk 4. bekezdésében a ,,vagy B függelékben'' helyett ,,B függelék, C függelék vagy E függelék'' írandó.
+
+*B) 1. Cikk 9. bekezdés*
+
+A Jegyzőkönyv 1. Cikk 9. bekezdése törlendő.
+
+*C) 2. Cikk 5. bekezdés*
+
+A Jegyzőkönyv 2. Cikk 5. bekezdésében a ,,2A.-tól 2E. Cikkek'' után betoldandó ,,és 2H. Cikk''.
+
+*D) 2. Cikk 5 bis bekezdés*
+
+A Jegyzőkönyv 2. Cikk 5. bekezdése után betoldandó a következő bekezdés:
+
+5 bis. Nem az 5. Cikk 1. bekezdése szerint működő bármely Fél egy vagy több szabályozási időszakra átadhatja egy másik ilyen Félnek a 2F. Cikkben kifejtett felhasználása számított szintjének egy részét, amennyiben a számított szintjéből részt átadó Fél felhasználásának a számított szintje az ,,A'' függelék I. csoportjában szabályozott anyagokat illetően 1989-ben nem lépte túl a 0,25 kg/főt és az érdekelt Felek együttes felhasználásának az összegzett számított szintje nem lépi túl a 2F. Cikkben rögzített felhasználási határokat. A felhasználás ilyen átengedését minden érdekelt Fél írásban kell közölje a Titkársággal, kifejtve az átadás feltételeit, és hogy az mely időszakra vonatkozik.
+
+*E) 2. Cikk 8. a) és 11. bekezdések*
+
+A Jegyzőkönyv 2. Cikk 8. *a)* és 11. bekezdéseiben a ,,2A.-tól 2E. Cikkek'' helyett mindenütt ,,2A.-tól 2H. Cikkek'' kerül.
+
+*F) 2. Cikk 9. a) (i) bekezdés*
+
+A Jegyzőkönyv 2. Cikk 9. *a)* *(i)* bekezdésében az ,,és/vagy B függelék'' helyett ,,B függelék, C függelék és/vagy E függelék'' kerül.
+
+*G) 2F. Cikk: HCFC-k (telítetlen freonok)*
+
+A Jegyzőkönyv 2E. Cikke után betoldandó a következő Cikk:
+
+*2F. Cikk: HCFC-k (telítetlen freonok)*
+
+1\. Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az alábbiak összegét:
+
+*a)* az ,,A'' függelék I. csoportjában szabályozott 1989. évi felhasználása számított szintjének a három egész egytized százaléka, valamint
+
+*b)* a ,,C'' függelék I. csoportjában szabályozott anyagok 1989. évi felhasználásának a számított szintje.
+
+2\. Minden Fél biztosítja, hogy a 2004. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az ezen Cikk 1. bekezdése szerinti mennyiség hatvanöt százalékát.
+
+3\. Minden Fél biztosítja, hogy a 2010. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az ezen Cikk 1. bekezdése szerinti mennyiség harmincöt százalékát.
+
+4\. Minden Fél biztosítja, hogy a 2015. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az ezen Cikk 1. bekezdése szerinti mennyiség tíz százalékát.
+
+5\. Minden Fél biztosítja, hogy a 2020. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az ezen Cikk 1. bekezdése szerinti mennyiség nulla egész öt tized százalékát.
+
+6\. Minden Fél biztosítja, hogy a 2030. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát.
+
+7\. 1996. január 1-jétől minden Fél biztosítja, hogy:
+
+*a)* a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználását olyan alkalmazásokra korlátozza, ahol környezetvédelmi szempontból kedvezőbb más alternatív anyag vagy technológia nem áll rendelkezésre,
+
+*b)* a ,,C'' függelék I. csoportjában szabályozott anyagok használata nem történik olyan alkalmazási területeken kívül, amelyekhez jelenleg ,,A'', ,,B'' vagy ,,C'' függelékekben szabályozott anyagot használnak, kivéve az emberi élet és egészség védelmének a ritka eseteit; valamint
+
+*c)* a ,,C'' függelék I. csoportjában szabályozott anyagokat az alkalmazást illetően úgy választják meg, hogy az az ózon lebomlást minimalizálja, egyéb környezetvédelmi, biztonsági és gazdasági megfontolásokon túlmenően.
+
+*H) 2G. Cikk: HBFC-k (telítetlen halonok)*
+
+A Jegyzőkönyv 2F. Cikke után betoldandó a következő Cikk:
+
+*2G. Cikk: HBFC-k (telítetlen halonok)*
+
+Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,C'' függelék II. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát. Ilyen anyagot termelő minden Fél biztosítja ugyanezen időszakokon, hogy az anyagok termelésének a számított szintje nem lépi túl a nullát. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.
+
+*I) 2H. Cikk: metil-bromid*
+
+A Jegyzőkönyv 2G. Cikke után betoldandó a következő Cikk:
+
+*2H. Cikk: metil-bromid*
+
+Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,E'' függelékben szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1991. évi felhasználás számított szintjét. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1991. évi termelés számított szintjének legfeljebb tíz százalékkal meghaladhatja ezt a határt. Jelen Cikkben a felhasználás és termelés számított szintje nem foglalja magába a Felek részéről a karantén és szállítás előtti alkalmazások mennyiségét.
+
+*J) 3. Cikk*
+
+A Jegyzőkönyv 3. Cikkében, bárhol előfordul, a ,,2A.-tól 2E.'' helyett ,,2A.-tól 2H.'' és a ,,vagy B függelék'' helyett ,,B, C vagy E függelék'' kerül.
+
+*K) 4. Cikk 1 ter bekezdés*
+
+A Jegyzőkönyv 4. Cikk 1 bis bekezdése után betoldandó a következő bekezdés:
+
+1 ter. Ezen bekezdés hatálybalépését követő egy éven belül minden Fél megtiltja a ,,C'' függelék II. csoportjában szabályozott bármely anyag importját minden olyan országból, amely nem csatlakozott ehhez a Jegyzőkönyvhöz.
+
+*L) 4. Cikk 2 ter bekezdés*
+
+A Jegyzőkönyv 4. Cikk 2 bis bekezdése után betoldandó a következő bekezdés:
+
+2 ter. Ezen bekezdés hatálybalépését követő egy éven belül minden Fél megtiltja a ,,C'' függelék II. csoportjában szabályozott minden anyag exportját olyan államokba, amelyek nem csatlakoztak ehhez a Jegyzőkönyvhöz.
+
+*M) 4. Cikk 3 ter bekezdés*
+
+A Jegyzőkönyv 4. Cikk 3 bis bekezdése után betoldandó a következő bekezdés:
+
+3 ter. Ezen bekezdés hatálybalépését követő három éven belül a Felek, az Egyezmény 10. Cikkének az eljárását követve egy függelékként kidolgozzák az olyan termékek listáját, amelyek ,,C'' függelék II. csoportjában szabályozott anyagot tartalmaznak. A függeléket nem visszautasító Felek az eljárásnak megfelelően a függelék hatálybalépését követő egy éven belül megtiltják minden ilyen termék importját olyan államokból, amelyek nem csatlakoztak a Jegyzőkönyvhöz.
+
+*N) 4. Cikk 4 ter bekezdés*
+
+A Jegyzőkönyv 4. Cikk 4 bis bekezdése után betoldandó a következő bekezdés:
+
+4 ter. Ezen bekezdés hatálybalépését követő öt éven belül a Felek meghatározzák a ,,C'' függelék II. csoportjában szabályozott anyagokkal gyártott, de olyant nem tartalmazó termékek nem részes államokból történő importja korlátozásának vagy tiltásának a várható eredményességét. Amennyiben eredményesnek ítélik, akkor a Felek az Egyezmény 10. Cikkének az eljárását követve egy függelékben kidolgozzák az ilyen termékek listáját. A függelék elfogadását nem ellenző Felek ezen eljárásnak megfelelően megtiltják vagy korlátozzák a függelék hatálybalépését követő egy éven belül ezen termékek importját olyan államokból, amelyek nem csatlakoztak a Jegyzőkönyvhöz.
+
+*O) 4. Cikk 5., 6. és 7. bekezdések*
+
+A Jegyzőkönyv 4. Cikk 5., 6. és 7. bekezdéseiben a ,,szabályozott anyagok'' helyett az ,,A, B és a C függelék II. csoportjában szabályozott anyagok'' kerül.
+
+*P) 4. Cikk 8. bekezdés*
+
+A Jegyzőkönyv 4. Cikk 8. bekezdésében a ,,hivatkozással az 1., 1 bis, 3., 3 bis, 4. és 4 bis bekezdésekre'' helyett ,,és ezen Cikk 1-től 4 ter bekezdéseiben hivatkozott exportok''; továbbá a ,,2A.-tól 2E. Cikkek'' után a ,,2G. Cikk'' kerül.
+
+*Q) 4. Cikk 10. bekezdés*
+
+A Jegyzőkönyv 9. bekezdése után betoldandó a következő bekezdés:
+
+10\. A Felek 1996. január 1-jéig megvizsgálják, hogy módosítsák-e a Jegyzőkönyvet olyan tekintetben, hogy kiterjesszék az ezen Cikk intézkedéseit a ,,C'' függelék I. csoportjában és az ,,E'' függelékben szabályozott anyagok kereskedelmére a nem részes államokból.
+
+*R) 5. Cikk 1. bekezdés*
+
+A Jegyzőkönyv 5. Cikk első bekezdésének a vége kiegészül a következőkkel:
+
+,,feltételezve, hogy a Felek második értekezlete Londonban, 1990. június 29-én elfogadottakon túl a kiigazításokat vagy kiegészítéseket, illetve egyéb módosítások is vonatkoznak majd a bekezdés szerint működő Felekre, ezen Cikk 8. bekezdésében előirányzott áttekintést követően és annak végkövetkeztetései alapján.''
+
+*S) 5. Cikk 1 bis bekezdés*
+
+A Jegyzőkönyv 5. Cikk 1. bekezdését követően betoldandó:
+
+1 bis. A Felek, figyelembe véve ezen Cikk 8. bekezdésében hivatkozott áttekintést, a 6. Cikk értelmében készült felméréseket és minden egyéb vonatkozó információt, 1996. január 1-jéig döntést hoznak a 2. Cikk 9. bekezdésben kifejtett eljárás keretében:
+
+*a)* a 2F. Cikk 1—6. bekezdéseit illetően, hogy a ,,C'' függelék I. csoportjában szabályozott anyagok felhasználására milyen bázisév, kezdeti szint, szabályozási ütemezés és kiváltási határidő alkalmazható az ezen Cikk 1. bekezdése szerint;
+
+*b)* a 2G. Cikket illetően, hogy a ,,C'' függelék II. csoportjában szabályozott anyagok termelésére és felhasználására vonatkozóan milyen kiváltási határidő alkalmazható az ezen Cikk 1. bekezdése szerint működő Felekre;
+
+*c)* a 2H. Cikket illetően, hogy az ,,E'' függelékben szabályozott anyag felhasználására és termelésére vonatkozóan milyen bázisév, kezdeti szint és korlátozási ütemezés alkalmazható az ezen Cikk 1. bekezdése szerint működő Felekre.
+
+*T) 5. Cikk 4. bekezdés*
+
+A Jegyzőkönyv 5. Cikk 4. bekezdésében a ,,2A.—2E. Cikkek'' helyett ,,2A.—2H. Cikkek'' írandó.
+
+*U) 5. Cikk 5. bekezdés*
+
+A Jegyzőkönyv 5. Cikk 5. bekezdésében a ,,2A.—2H. Cikkekben kifejtve'' után betoldandó. ,,valamint a 2F.-től 2H.-ig terjedő Cikkekben levő bármilyen korlátozó intézkedés, amelyről ezen Cikk 1 bis bekezdése értelmében döntöttek,''
+
+*V) 5. Cikk 6. bekezdés*
+
+A Jegyzőkönyv 5. Cikk 6. bekezdésében a ,,2A.—2H. Cikkekben lefektetett kötelezettségek'' után betoldandó ,,vagy a 2F.—2H. Cikkek valamely vagy minden kötelezettsége, amelyről ezen Cikk 1 bis bekezdése értelmében döntöttek,''
+
+*W) 6. Cikk*
+
+A Jegyzőkönyv 6. Cikkében a következő szöveg törlendő:
+
+,,2A.—2E. Cikkek és a ,,C'' függelék I. csoportjában felsorolt átmeneti anyagok termelésének, importjának és exportjának a helyzete'', és helyébe lép: ,,2A.—2H. Cikkek''
+
+*X) 7. Cikk 2. és 3. bekezdés*
+
+A Jegyzőkönyv 7. Cikk 2. és 3. bekezdése helyébe a következők kerülnek:
+
+2\. Minden Fél statisztikai adatokat szolgáltat a Titkárságnak minden egyes szabályozott anyagot illető termeléséről, importjáról és exportjáról
+
+— a ,,B'' és ,,C'' függelékben levőkre 1989. évre,
+
+— az ,,E'' függelékben levőre 1991. évre,
+
+vagy az ezekre vonatkozó lehetséges legjobb becsült adatokat, ahol tényleges adatok nem állnak rendelkezésre, legkésőbb 3 hónappal azt követően, hogy a Jegyzőkönyvben kifejtett elvárások a B, C és E függelékekben levő anyagokra vonatkozóan az illető Fél számára hatályba lépnek.
+
+3\. Minden Fél statisztikai adatokat szolgáltat a Titkárságnak az A, B, C és E függelékekben levő minden anyagot illető éves termeléséről (amint azt az 1. Cikk 5. bekezdése meghatározza), továbbá külön, minden anyagra
+
+— az intermedierként használt mennyiséget,
+
+— a Felek által jóváhagyott technológiákkal ártalmatlanított mennyiséget, és
+
+— a Felekkel és nem Felekkel lebonyolított importokat és exportokat,
+
+arra az évre vonatkozóan, amelynek folyamán az illető Fél számára az A, B, C és E függelékek anyagaira vonatkozó előírások hatályba léptek, és minden azt követő évre.
+
+*Y) 7. Cikk 3 bis bekezdés*
+
+A Jegyzőkönyv 7. Cikk 3. bekezdése után betoldandó:
+
+3 bis. Minden Fél statisztikai adatokat szolgáltat a Titkárságnak az ,,A'' függelék II. csoportjában és a ,,C'' függelék I. csoportjában felsorolt minden visszanyert szabályozott anyag éves importjáról és exportjáról.
+
+*Z) 7. Cikk 4. bekezdés*
+
+A Jegyzőkönyv 7. Cikk 4. bekezdésében az ,,1., 2. és 3. bekezdésekben'' helyett ,,1., 2., 3. és 3 bis bekezdésekben'' írandó.
+
+*AA) 9. Cikk 1.a) bekezdés*
+
+A Jegyzőkönyv 9. Cikk 1. *a)* bekezdésében törlendő: ,,és átmeneti''
+
+*BB) 10. Cikk 1. bekezdés*
+
+A Jegyzőkönyv 10. Cikk 1. bekezdésében a ,,2A.—2E. Cikkek'' után betoldandó: '', és a 2F.—2H. Cikkekben levő bármely korlátozó intézkedés, amelyről az 5. Cikk 1 bis bekezdése értelmében döntöttek.
+
+*CC) 11. Cikk 4.g) bekezdés*
+
+A Jegyzőkönyv 11. Cikk 4. *g)* bekezdésében törlendő a következő:
+
+,,és az átmeneti anyagokkal kapcsolatos helyzet''
+
+*DD) 17. Cikk*
+
+A Jegyzőkönyv 17. Cikkében a ,,2A.—2E. Cikkek'' helyett ,,2A.—2H. Cikkek'' lép.
+
+*EE. Függelékek*
+
+*1. C függelék*
+
+A Jegyzőkönyv ,,C'' függelékét a következő váltja fel:
+
+*C függelék*
+
+**Szabályozott anyagok**
+
+| Csoport | Anyag | Izomerek száma | Ózonlebontó potenciál (ODP)* |
+|---|---|---|---|
+| I. csoport |  |  |  |
+| CHFCl<sub>2</sub> | (HCFC–21)** | 1 | 0.04 |
+| CHF<sub>2</sub>Cl | (HCFC–22)** | 1 | 0.055 |
+| CH<sub>2</sub>FCl | (HCFC–31) | 1 | 0.02 |
+| C<sub>2</sub>HFCl<sub>4</sub> | (HCFC–121) | 2 | 0.01–0.04 |
+| C<sub>2</sub>HF<sub>2</sub>Cl<sub>3</sub> | (HCFC–122) | 3 | 0.02–0.08 |
+| C<sub>2</sub>HF<sub>3</sub>Cl<sub>2</sub> | (HCFC–123) | 3 | 0.02–0.06 |
+| CHCl<sub>2</sub>CF<sub>3</sub> | (HCFC–123)** | – | 0.02 |
+| C<sub>2</sub>HF<sub>4</sub>Cl | (HCFC–124) | 2 | 0.02–0.04 |
+| CHFClCF<sub>3</sub> | (HCFC–124)** | – | 0.022 |
+| C<sub>2</sub>H<sub>2</sub>FCl<sub>3</sub> | (HCFC–131) | 3 | 0.007–0.05 |
+| C<sub>2</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>2</sub> | (HCFC–132) | 4 | 0.008–0.05 |
+| C<sub>2</sub>H<sub>2</sub>F<sub>3</sub>Cl | (HCFC–133) | 3 | 0.02–0.06 |
+| C<sub>2</sub>H<sub>3</sub>FCl<sub>2</sub> | (HCFC–141) | 3 | 0.005–0.07 |
+| CH<sub>3</sub>CFCl<sub>2</sub> | (HCFC–141b)** | – | 0.11 |
+| C<sub>2</sub>H<sub>3</sub>F<sub>2</sub>Cl | (HCFC–142) | 3 | 0.008–0.07 |
+| CH<sub>3</sub>CF<sub>2</sub>Cl | (HCFC–142b)** | – | 0.065 |
+| C<sub>2</sub>H<sub>4</sub>FCl | (HCFC–151) | 2 | 0.003–0.005 |
+| C<sub>3</sub>HFCl<sub>6</sub> | (HCFC–221) | 5 | 0.015–0.07 |
+| C<sub>3</sub>HF<sub>2</sub>Cl<sub>5</sub> | (HCFC–222) | 9 | 0.01–0.09 |
+| C<sub>3</sub>HF<sub>3</sub>Cl<sub>4</sub> | (HCFC–223) | 12 | 0.01–0.08 |
+| C<sub>3</sub>HF<sub>4</sub>Cl<sub>3</sub> | (HCFC–224) | 12 | 0.01–0.09 |
+| C<sub>3</sub>HF<sub>5</sub>Cl<sub>2</sub> | (HCFC–225) | 9 | 0.02–0.07 |
+| CF<sub>3</sub>CF<sub>2</sub>CHCl<sub>2</sub> | (HCFC–225ca)** | – | 0.025 |
+| CF<sub>2</sub>ClCF<sub>2</sub>CHClF | (HCFC–225cb)** | – | 0.033 |
+| C<sub>3</sub>HF<sub>6</sub>Cl | (HCFC–226) | 5 | 0.02–0.10 |
+| C<sub>3</sub>H<sub>2</sub>FCl<sub>5</sub> | (HCFC–231) | 9 | 0.05–0.09 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>2</sub>Cl<sub>4</sub> | (HCFC–232) | 16 | 0.008–0.10 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>3</sub>Cl<sub>3</sub> | (HCFC–233) | 18 | 0.007–0.23 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>4</sub>Cl<sub>2</sub> | (HCFC–234) | 16 | 0.01–0.28 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>5</sub>Cl | (HCFC–235) | 9 | 0.03–0.52 |
+| C<sub>3</sub>H<sub>3</sub>FCl<sub>4</sub> | (HCFC–241) | 12 | 0.004–0.09 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>2</sub>Cl<sub>3</sub> | (HCFC–242) | 18 | 0.005–0.13 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>3</sub>Cl<sub>2</sub> | (HCFC–243) | 18 | 0.007–0.12 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>4</sub>Cl | (HCFC–244) | 12 | 0.009–0.14 |
+| C<sub>3</sub>H<sub>4</sub>FCl<sub>3</sub> | (HCFC–251) | 12 | 0.001–0.01 |
+| C<sub>3</sub>H<sub>4</sub>F<sub>2</sub>Cl<sub>2</sub> | (HCFC–252) | 16 | 0.005–0.04 |
+| C<sub>3</sub>H<sub>4</sub>F<sub>3</sub>Cl | (HCFC–253) | 12 | 0.003–0.03 |
+| C<sub>3</sub>H<sub>5</sub>FCl<sub>2</sub> | (HCFC–261) | 9 | 0.002–0.02 |
+| C<sub>3</sub>H<sub>5</sub>F<sub>2</sub>Cl | (HCFC–262) | 9 | 0.002–0.02 |
+| C<sub>3</sub>H<sub>6</sub>FCl | (HCFC–271) | 5 | 0.001–0.03 |
+| II. csoport |  |  |  |
+| CHFBr<sub>2</sub> |  | 1 | 1.00 |
+| CHF<sub>2</sub>Br | (HBFC–22B1) | 1 | 0.74 |
+| CH<sub>2</sub>FBr |  | 1 | 0.73 |
+| C<sub>2</sub>HFBr<sub>4</sub> |  | 2 | 0.3–0.8 |
+| C<sub>2</sub>HF<sub>2</sub>Br<sub>3</sub> |  | 3 | 0.5–1.8 |
+| C<sub>2</sub>HF<sub>3</sub>Br<sub>2</sub> |  | 3 | 0.4–1.6 |
+| C<sub>2</sub>HF<sub>4</sub>Br |  | 2 | 0.7–1.2 |
+| C<sub>2</sub>H<sub>2</sub>FBr<sub>3</sub> |  | 3 | 0.1–1.1 |
+| C<sub>2</sub>H<sub>2</sub>F<sub>2</sub>Br<sub>2</sub> |  | 4 | 0.2–1.5 |
+| C<sub>2</sub>H<sub>2</sub>F<sub>3</sub>Br |  | 3 | 0.7–1.6 |
+| C<sub>2</sub>H<sub>3</sub>FBr<sub>2</sub> |  | 3 | 0.1–1.7 |
+| C<sub>2</sub>H<sub>3</sub>F<sub>2</sub>Br |  | 3 | 0.2–1.1 |
+| C<sub>2</sub>H<sub>4</sub>FBr |  | 2 | 0.07–0.1 |
+| C<sub>3</sub>HFBr<sub>6</sub> |  | 5 | 0.3–1.5 |
+| C<sub>3</sub>HF<sub>2</sub>Br<sub>5</sub> |  | 9 | 0.2–1.9 |
+| C<sub>3</sub>HF<sub>3</sub>Br<sub>4</sub> |  | 12 | 0.3–1.8 |
+| C<sub>3</sub>HF<sub>4</sub>Br<sub>3</sub> |  | 12 | 0.5–2.2 |
+| C<sub>3</sub>HF<sub>5</sub>Br<sub>2</sub> |  | 9 | 0.9–2.0 |
+| C<sub>3</sub>HF<sub>6</sub>Br |  | 5 | 0.7–3.3 |
+| C<sub>3</sub>H<sub>2</sub>FBr<sub>5</sub> |  | 9 | 0.1–1.9 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>2</sub>Br<sub>4</sub> |  | 16 | 0.2–2.1 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>3</sub>Br<sub>3</sub> |  | 18 | 0.2–5.6 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> |  | 16 | 0.3–7.5 |
+| C<sub>3</sub>H<sub>2</sub>F<sub>5</sub>Br |  | 8 | 0.9–14 |
+| C<sub>3</sub>H<sub>3</sub>FBr<sub>4</sub> |  | 12 | 0.08–1.9 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>2</sub>Br<sub>3</sub> |  | 18 | 0.1–3.1 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>3</sub>Br<sub>2</sub> |  | 18 | 0.1–2.5 |
+| C<sub>3</sub>H<sub>3</sub>F<sub>4</sub>Br |  | 12 | 0.3–4.4 |
+| C<sub>3</sub>H<sub>4</sub>FBr<sub>3</sub> |  | 12 | 0.03–0.3 |
+| C<sub>3</sub>H<sub>4</sub>F<sub>2</sub>Br<sub>2</sub> |  | 16 | 0.1–1.0 |
+| C<sub>3</sub>H<sub>4</sub>F<sub>3</sub>Br |  | 12 | 0.07–0.8 |
+| C<sub>3</sub>H<sub>5</sub>FBr<sub>2</sub> |  | 9 | 0.04–0.4 |
+| C<sub>3</sub>H<sub>5</sub>F<sub>2</sub>Br |  | 9 | 0.07–0.8 |
+| C<sub>3</sub>H<sub>6</sub>FBr |  | 5 | 0.02–0.7 |
+
+____
+
+*Ahol az ODP tartománnyal jellemzett, ott a Jegyzőkönyv céljára a felső határt kell alkalmazni. Az egy értékkel jellemzett ODP-ket laboratóriumi méréseken alapuló számításokkal határozták meg. A tartománnyal jellemzettek becsültek és bizonytalanabbak. A tartomány az izomer csoportot fedi le. A felső érték a legmagasabb ODP-jű, az alsó a legalacsonyabb ODP-jű izomer ODP-jének a becsült értéke.
+
+**A kereskedelmi forgalomba kerülő fontosabb anyagok a Jegyzőkönyv céljára alkalmazható ODP értékeikkel.
+
+*2. E függelék*
+
+A Jegyzőkönyvhöz csatolandó a következő függelék:
+
+*E függelék*
+
+**Szabályozott anyagok**
+
+--------------------------------
+
+Csoport Anyag Ózonlebontó
+
+potenciál (ODP)*
+
+--------------------------------
+
+I. csoport
+
+CH<sub>3</sub>Br metil-bromid 0.7
+
+*2. Cikk: Kapcsolat az 1990. évi módosításokhoz*
+
+Egy állam vagy regionális gazdasági integrációs szervezet sem helyezhet el megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratot ehhez a módosításhoz, ha azt megelőzően vagy egyidejűleg nem helyezett, illetve helyez el ilyen okiratot a Felek második ülésen, Londonban 1990. június 29-én elfogadott módosításokra vonatkozóan.
+
+*3. Cikk: Hatálybalépés*
+
+1\. Ez a módosítás 1994. január 1-jén lép hatályba, feltételezve, hogy addig legalább húsz, a módosításra vonatkozó megerősítő, elfogadási, jóváhagyási vagy csatlakozási okiratot helyeztek letétbe olyan államok vagy regionális gazdasági integrációs szervezetek, amelyek Felei az ózonréteget lebontó anyagokról szóló Montreáli Jegyzőkönyvnek. Amennyiben az a feltétel a fenti időpontig nem teljesül, a módosítás az attól a naptól számított kilencvenedik napon lép hatályba, amikor a feltétel teljesül.
+
+2\. Az 1. bekezdés vonatkozásában egy regionális integráció gazdasági szervezet által letétbe helyezett bármely ilyen okiratot nem számítják hozzá az ilyen szervezet tagállamai által letétbe helyezett okirathoz.
+
+3\. Ezen módosítás 1. bekezdés szerinti hatálybalépését követően a Jegyzőkönyv minden más Fele számára a megerősítési, elfogadási vagy jóváhagyási okiratuknak a letétbe helyezését követő kilencvenedik napon lép hatályba.''
+
+(3) A Koppenhágai Kiegészítés magyar nyelvű szövege a következő:
+
+,,Kiigazítások\
+az ózonréteget lebontó anyagokról szóló\
+Montreáli Jegyzőkönyv 2A. és 2B. Cikkeihez
+
+Az ózonlebontó anyagokról szóló Montreáli Jegyzőkönyv aláíróinak a negyedik értekezlete elhatározza a Jegyzőkönyv 6. Cikke értelmében végzett vizsgálatok alapján, hogy a Jegyzőkönyv ,,A'' függelékében szabályozott anyagok termelésére és felhasználására kiigazításokat és csökkentéseket fogad el a következők szerint:
+
+*A) 2A. Cikk: CFC-k*
+
+A Jegyzőkönyv 2A. Cikkének 3—6. bekezdéseit a következő bekezdések váltják fel, 3. és 4. bekezdésként számozva:
+
+3\. Minden Fél biztosítja, hogy az 1994. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjének a huszonöt százalékát. Ezeket az anyagokat termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1986. évi termelés számított szintjének a huszonöt százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+4\. Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl a nullát. Ezeket az anyagokat termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl a nullát. Az 5. Cikk 1. bekezdés szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb 15 százalékával meghaladhatja ezt a határt. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.
+
+*B) 2B. Cikk: halonok*
+
+A Jegyzőkönyv 2B. Cikkének 2—4. bekezdését a következő bekezdés váltja fel, a 2B. Cikk 2. bekezdéseként számozva:
+
+2\. Minden Fél biztosítja, hogy az 1994. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék II. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát. Ezeket az anyagokat termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyagok termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.
+
+**Kiigazítások az ózonréteget lebontó anyagokról szóló Montreáli Jegyzőkönyv 2C., 2D. és 2E. Cikkeihez**
+
+Az ózonlebontó anyagokról szóló Montreáli Jegyzőkönyv aláíróinak a negyedik értekezlete elhatározza a Jegyzőkönyv 6. Cikke értelmében végzett vizsgálatok alapján, hogy a Jegyzőkönyv ,,B'' függelékében szabályozott anyagok termelésére és felhasználására kiigazításokat és csökkentéseket fogad el a következők szerint:
+
+*A) 2C. Cikk: egyéb telített CFC-k*
+
+A Jegyzőkönyv 2C. Cikkét a következő Cikk váltja fel:
+
+*2C. Cikk: egyéb telített CFC-k*
+
+1\. Minden Fél biztosítja, hogy az 1993. január 1-jét követő tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a nyolcvan százalékát. Ezek az anyagok közül egyet vagy többet termelő minden Fél biztosítja ugyanezen időszakokra, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a nyolcvan százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelési számított szintjének legfeljebb tíz százalékával haladhatja meg ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1994. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a huszonöt százalékát. Ezen anyagok közül egyet vagy többet termelő minden Fél biztosítja ezen időszakokra, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a huszonöt százalékát. Az 5. Cikk *d)* bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+3\. Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék I. csoportjában szabályozott anyagok számított szintje nem lépi túl a nullát. Ezekből az anyagokból egyet vagy többet termelő minden Fél biztosítja ugyanezen időszakokon, hogy az anyagok termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.
+
+*B) 2D. Cikk: szén-tetraklorid*
+
+A Jegyzőkönyv 2D. Cikkét a következő Cikk váltja fel:
+
+*2D. Cikk: szén-tetraklorid*
+
+1\. Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban a ,,B'' függelék II. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének a tizenöt százalékát. Ezt az anyagot termelő minden Fél biztosítja ezen időszakra, hogy az anyag termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjének a tizenöt százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék II. csoportjában szabályozott anyag felhasználásának a számított szintje nem lépi túl a nullát. Ezt az anyagot termelő minden Fél biztosítja ezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.
+
+*C) 2E. Cikk: 1,1,1 triklór-etán (metil-kloroform)*
+
+A Jegyzőkönyv 2E. Cikkét a következő Cikk váltja fel:
+
+*2E. Cikk: 1,1,1 triklór-etán (metil-kloroform)*
+
+1\. Minden Fél biztosítja, hogy az 1993. január 1-jét követő tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjét. Ezt az anyagot termelő minden Fél biztosítja ezen időszakra, hogy az anyag termelésének a számított szintje éves viszonylatban nem lépi túl az 1989. évi termelés számított szintjét. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1994. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1989. évi felhasználás számított szintjének az ötven százalékát. Ezt az anyagot termelő minden Fél biztosítja ezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl az 1989. évi termelés számított szintjének az ötven százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+3\. Minden Fél biztosítja, hogy az 1996. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban a ,,B'' függelék III. csoportjában szabályozott anyag felhasználásának a számított szintje nem lépi túl a nullát. Ezt az anyagot termelő minden Fél biztosítja ezen időszakokra, hogy az anyag termelésének a számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1989. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt. Ezen bekezdés alkalmazása fenntartja annak a lehetőségét, hogy a Felek döntsenek a termelés és felhasználás olyan szintjének a megengedéséről, amely az általuk szükségesnek elfogadott alkalmazások kielégítéséhez kell.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban a 2. § (1) bekezdése tekintetében 1994. február 7. napjától, a 2. § (2) bekezdése tekintetében 1994. augusztus 15. napjától, a 2. § (3) bekezdése tekintetében pedig 1993. szeptember 22. napjától kell alkalmazni.
+
+(2) E rendelet végrehajtásáról az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben a környezetvédelmi és területfejlesztési miniszter[^1], a pénzügyminiszter és a Központi Statisztikai Hivatal elnöke gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének e) pontját.

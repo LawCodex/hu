@@ -1,0 +1,281 @@
+---
+title: "143/2001. (VIII. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a nemzetközi gépjárműközlekedésről szóló Egyezmény kihirdetéséről"
+identifier: "143/2001. (VIII. 8.) Korm. rendelet"
+njt_id: "2001-143-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/143"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-08-08
+in_force_from: 2001-08-08
+last_amended: 2001-08-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-143-20-22"
+retrieved: 2026-10-12
+---
+
+# 143/2001. (VIII. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a nemzetközi gépjárműközlekedésről szóló Egyezmény kihirdetéséről
+
+## (A jóváhagyásról szóló jegyzékváltás 2001. év május hó 10. napján megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között Budapesten, 2001. február 2-án aláírt, a nemzetközi gépjárműközlekedésről szóló Egyezményt e rendelettel kihirdeti.
+
+### 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a nemzetközi gépjárműközlekedésről
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya, a továbbiakban ,,Szerződő Felek''
+
+a Magyar Köztársaság és az Oroszországi Szovjet Szövetségi Szocialista Köztársaság között a baráti kapcsolatokról és együttműködésről szóló, Moszkvában, 1991. december 6-án aláírt Szerződés rendelkezései által vezérelve,
+
+a kölcsönösség alapján a két állam közötti, illetve területeiken tranzitban áthaladó közúti személyszállítás és árufuvarozás fejlesztését, valamint elősegítését óhajtva,
+
+törekedve a nemzetközi kombinált fuvarozásban a közúti fuvarozási mód széles körű alkalmazására,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+A jelen Egyezmény értelmében végezhető a Magyar Köztársaságban vagy az Oroszországi Föderációban bejegyzett gépjárművel a két állam közötti, területükön tranzitban áthaladó, továbbá harmadik államba irányuló vagy harmadik államból kiinduló nemzetközi közúti személyszállítás és árufuvarozás.
+
+*2. Cikk*
+
+A jelen Egyezményben használt fogalmak a következő jelentéssel bírnak:
+
+,,*fuvarozó'':* a Szerződő Felek egyike államának területén bejegyzett bármely természetes vagy jogi személy, aki a hatályban lévő nemzeti törvényekkel és más jogszabályokkal összhangban díj ellenében vagy saját számlára nemzetközi közúti fuvarozás végzésére jogosult;
+
+,,*gépjármű'':*
+
+személyszállítás esetén: autóbusz – személyszállításra szolgáló gépi meghajtású közúti jármű, amely – a vezető ülését is beleértve – kilencnél több ülőhellyel rendelkezik, és kiegészülhet a személyi poggyász szállítására szolgáló pótkocsival is;
+
+árufuvarozás esetén: árufuvarozásra szolgáló gépi meghajtású közúti jármű, beleértve az ahhoz kapcsolt pótkocsit és félpótkocsit;
+
+,,*menetrend szerinti autóbusszal történő személyszállítás'':* gépjárművel, előre egyeztetett menetrend, díjszabás és útvonal szerint, a kiinduló és végpont, illetve a megállóhelyek megjelölésével végzett személyszállítás;
+
+,,*nem menetrend szerinti autóbusszal történő személyszállítás'':* személyszállítás, ami nem tartozik a ,,menetrend szerinti személyszállítás'' kategóriájába.
+
+*3. Cikk*
+
+(1) A jelen Egyezmény értelmében az autóbusszal végzett menetrend szerinti személyszállítás a Szerződő Felek illetékes hatóságai által – kölcsönös megegyezés alapján – kiadott engedély alapján történik.
+
+A Szerződő Felek illetékes hatóságai saját államuk területén történő menetrend szerinti személyszállítás végzésére adnak ki engedélyeket.
+
+A Szerződő Felek illetékes hatóságai kölcsönös megegyezéssel határozzák meg az engedélyezés feltételeit.
+
+(2) Az autóbusszal történő menetrend szerinti személyszállítás engedélyezése iránti kérelmet a Szerződő Felek illetékes hatóságai útján kell egymásnak megküldeni. A kérelemnek tartalmaznia kell a fuvarozó (cég) megnevezésére, az útvonalra, a menetrendre és a díjszabásra, valamint a járat beindításának előirányzott időpontjára vonatkozó adatokat.
+
+*4. Cikk*
+
+Az autóbusszal történő nem menetrend szerinti személyszállítás végzéséhez – kivéve a jelen Egyezmény 5. Cikkében felsorolt szállításokat – szükséges a másik Szerződő Fél illetékes hatóságának engedélye, amelyet azok a Magyar Köztársaság és az Oroszországi Föderáció területén a nemzeti jogszabályuknak megfelelően adnak ki.
+
+*5. Cikk*
+
+(1) Nincs szükség engedélyre az autóbusszal végzett nem menetrend szerinti személyszállítás esetén:
+
+*a)* ha az azonos személyi összetételű csoportot ugyanazzal az autóbusszal szállítják az egész utazás során, melynek kezdő és végpontja az autóbuszt bejegyző Szerződő Fél államának területén van;
+
+*b)* ha az azonos személyi összetételű csoportot ugyanazzal az autóbusszal szállítják az utazás során egy irányban az autóbuszt bejegyző Szerződő Fél államának területéről a másik Szerződő Fél államának területére, feltéve, hogy az autóbusz a szállítás után üresen tér vissza;
+
+*c)* a nem menetrend szerinti járatok tranzitforgalma esetén.
+
+(2) Nincs szükség engedélyre azon üres autóbusz belépéséhez, amely ugyanazon fuvarozó által korábban odaszállított utasokat szállít el a másik Szerződő Fél államának területéről.
+
+(3) Nincs szükség engedélyre a meghibásodott autóbusz másikkal történő kicseréléséhez.
+
+(4) A jelen Cikk (1) és (2) bekezdésében említett szállítások végzésénél az autóbusz vezetője köteles magánál tartani az utaslistát. Az utaslista formáját kölcsönös megegyezés alapján állapítják meg.
+
+*6. Cikk*
+
+(1) A Szerződő Felek államainak területe közötti vagy területükön tranzitban áthaladó árufuvarozás – a 7. Cikkben felsorolt esetek kivételével – a Szerződő Felek illetékes hatóságai által kiadott engedélyek alapján történik.
+
+(2) Minden gépjárműre külön engedélyt kell kiadni, amely egy oda- és visszaútra jogosít. Az engedélykötelezettség az egyik Szerződő Fél államának területére üresen belépő gépjárművekre is vonatkozik. Járműszerelvénnyel végzett árufuvarozás esetén engedély csak a vontatóra szükséges.
+
+(3) A Szerződő Felek illetékes hatóságai évente, a jelen Egyezmény 22. Cikke szerint létrehozandó Vegyesbizottság ülésén határozzák meg a kölcsönösen kiadandó – a jelen Cikk (1) bekezdésében és a 12. Cikk (2) bekezdésében hivatkozott – engedélyek számát.
+
+(4) A Szerződő Felek illetékes hatóságai egyeztetett mennyiségű árufuvarozásra érvényes engedélyűrlapot adnak át egymásnak. Az űrlapokat az engedélyt kiadó illetékes hatóság pecsétjével kell ellátni és azokat az arra kijelölt személynek alá kell írnia.
+
+(5) Az árufuvarozási engedélyt az adott Szerződő Fél illetékes hatósága adja ki saját fuvarozója részére és az más személyre nem ruházható át.
+
+(6) A másik Szerződő Fél államának területén végzett fuvarozás során az engedélyeket a gépjárművön kell tartani és a Szerződő Felek illetékes ellenőrző hatóságainak felszólítás esetén fel kell mutatni.
+
+(7) Az engedély egy naptári évre és az azt követő év január hó 31-ig érvényes.
+
+*7. Cikk*
+
+(1) Nincs szükség a jelen Egyezmény 6. Cikkében említett engedélyre a következő fuvarozások esetében:
+
+*a)* vásári és kiállítási tárgyak, berendezések és anyagok fuvarozása;
+
+*b)* sportrendezvényeket szolgáló közlekedési eszközök, állatok, illetve eszközök és ingóságok fuvarozása;
+
+*c)* színházi díszletek és kellékek, hangszerek, filmfelvételek, rádió- és televíziós közvetítések, cirkuszi előadások célját szolgáló berendezések és felszerelések fuvarozása;
+
+*d)* az elhunytak földi maradványainak fuvarozása;
+
+*e)* postai küldemények fuvarozása;
+
+*f)* sérült gépjárművek fuvarozása;
+
+*g)* áttelepülési ingóságok fuvarozása;
+
+*h)* humanitárius segélyszállítmányok fuvarozása elemi csapás, szerencsétlenség vagy katasztrófa esetén, amennyiben a szállítás célját hitelesen igazolják;
+
+*i)* olyan tehergépjárművel végzett fuvarozás, amelynek megengedett össztömege – beleértve a pótkocsit is – nem haladja meg a 6 tonnát vagy hasznos teherbírása – a pótkocsit is beleértve – a 3,5 tonnát.
+
+(2) Nincs szükség engedélyre a meghibásodott gépjárművek javítását, illetve vontatását ellátó, technikai segítséget nyújtó gépjárművek tekintetében.
+
+(3) A jelen Cikk (1) bekezdésének *a)*, *b)*, és *c)* alpontjaiban említett kivételek csak abban az esetben alkalmazhatók, ha az árut visszaszállítják a gépjárművet bejegyző államba vagy harmadik állam területére fuvarozzák.
+
+*8. Cikk*
+
+A jelen Egyezmény nem érinti a Szerződő Felek azon más nemzetközi szerződésekből eredő jogait vagy kötelezettségeit, amelyeknek mind a Magyar Köztársaság, mind az Oroszországi Föderáció a részese.
+
+*9. Cikk*
+
+(1) Ha az üres vagy rakott gépjármű méretei vagy súlya, illetve tengelyterhelése meghaladja a másik Szerződő Fél államának területén meghatározott értékeket, a fuvarozás csak a másik Szerződő Fél államának illetékes hatóságától kapott speciális engedély alapján végezhető.
+
+(2) Ha a jelen Cikk (1) bekezdésében előírt engedély a gépjármű közlekedését meghatározott útvonalra korlátozza, a fuvarozás csak ezen az útvonalon végezhető.
+
+*10. Cikk*
+
+(1) Veszélyes áru – ideértve a veszélyes hulladékot – fuvarozása esetén a Szerződő Felek biztosítják azon nemzetközi szerződések rendelkezéseinek betartását, amelyeknek mind a Magyar Köztársaság, mind az Oroszországi Föderáció a részese, illetve azon nemzeti jogszabályokét, amelyek a fent említett szerződések alapján szabályozzák ezeket a fuvarozásokat.
+
+(2) Veszélyes áru – jelen Cikk alapján végzett – fuvarozására egyedi engedély szükséges lehet. Ha az említett engedély a gépjármű közlekedését meghatározott útvonalra korlátozza, a fuvarozás csak ezen az útvonalon végezhető.
+
+*11. Cikk*
+
+(1) A jelen Egyezménnyel előirányzott fuvarozásokat csak azon fuvarozók végezhetik, akik a Magyar Köztársaság és az Oroszországi Föderáció jogszabályainak megfelelően nemzetközi fuvarozás végzésére jogosultak.
+
+(2) A nemzetközi fuvarozást végző gépjárműveknek rendelkezniük kell rendszámmal és saját államuk jelzésével.
+
+*12. Cikk*
+
+(1) A fuvarozó nem végezhet személyszállítást és árufuvarozást a másik Szerződő Fél államának területén lévő két pont között.
+
+(2) A fuvarozó a másik Szerződő Fél államának területéről harmadik állam területére, valamint harmadik állam területéről a másik Szerződő Fél államának területére a másik Szerződő Fél illetékes hatóságának külön engedélyével végezhet fuvarozást.
+
+*13. Cikk*
+
+(1) Az autóbusz vagy tehergépjármű vezetőjének rendelkeznie kell az általa vezetett gépjármű kategóriájának megfelelő nemzeti vagy nemzetközi vezetői engedéllyel, illetve a gépjárműre vonatkozó nemzeti forgalmi engedéllyel.
+
+(2) A nemzeti vagy nemzetközi vezetői engedélynek és a forgalmi engedélynek az 1968. november 8-i, a közúti közlekedésről szóló nemzetközi Bécsi Konvencióban foglalt előírásoknak kell megfelelniük.
+
+(3) Az engedélyt és egyéb – nemzetközileg elfogadott formátumú – iratokat azon a gépjárművön kell tartani, amelyre vonatkoznak, és az illetékes ellenőrző hatóságoknak felszólítás esetén fel kell mutatni.
+
+*14. Cikk*
+
+(1) A másik Szerződő Fél államának területén árufuvarozást, valamint személyszállítást végző fuvarozók a viszonosság alapján mentesülnek a közúti illetékek (adók) alól. A fentiek nem érintik azokat a fizetendő összegeket, amelyeket a díjas közutakon és a műtárgyakon való áthaladás esetén rónak ki; feltéve, hogy létezik olyan alternatív útvonal, amelyen nem szednek díjat.
+
+(2) A Szerződő Felek illetékes hatóságai a jelen Egyezmény 3., 4., 6. és 12. Cikkeiben rögzített engedélyeket díjtalanul adják át egymásnak.
+
+*15. Cikk*
+
+(1) A jelen Egyezményben előírt fuvarozások teljesítésekor kölcsönösen mentesülnek a másik Szerződő Fél államának területére való beszállítás esetén megállapított illetékek, vámok és adók megfizetése alól:
+
+*a)* a gépjármű üzemanyagellátó rendszeréhez műszakilag és szerkezetileg kapcsolódó, a gépjárműtípushoz tervezett, gyárilag beépített tartályban lévő üzemanyag; valamint a fűtő- és hűtőberendezések működéséhez szükséges, a pótkocsira és félpótkocsira gyárilag felszerelt tartályokban lévő üzemanyag;
+
+*b)* a fuvarozás ideje alatt felhasználandó kenőanyagok;
+
+*c)* a nemzetközi fuvarozást végző, az út során megsérült gépjármű javításához szükséges alkatrészek és eszközök, amelyeket a rendeltetés hitelt érdemlő igazolása mellett visznek be a másik Szerződő Fél államának területére.
+
+(2) A jelen Cikk (1) bekezdésében megjelölt eszközöket, valamint a fel nem használt és kicserélt alkatrészeket vissza kell szállítani, illetve a vám felügyelete mellett azokat meg kell semmisíteni, vagy az adott Szerződő Fél államának területén érvényben lévő vámjogszabályok szerint kell eljárni.
+
+*16. Cikk*
+
+A jelen Egyezmény szerint végzett személyszállítás és árufuvarozás a gépjármű tulajdonosa által harmadik félnek okozott kárért való kötelező felelősségbiztosítás alapján történik. A fuvarozó köteles az említett szállítást és fuvarozást végző gépjárműre a fuvarozás megkezdése előtt biztosítást kötni.
+
+*17. Cikk*
+
+A határ-, vám-, járvány-, állat- és növény-egészségügyi, valamint környezetvédelmi ellenőrzés tekintetében azon nemzetközi szerződések rendelkezéseit kell alkalmazni, amelyeknek mind a Magyar Köztársaság, mind az Oroszországi Föderáció a részese, a nemzetközi egyezmények által nem szabályozott kérdésekben pedig értelemszerűen a Szerződő Felek nemzeti jogszabályai az irányadók.
+
+*18. Cikk*
+
+A sürgős orvosi kezelésre szoruló személyek szállításánál, a menetrend szerinti autóbusszal történő személyszállításnál, valamint az élő állat és gyorsan romló áru fuvarozásánál a határ-, vám-, járvány-, állat- és növény-egészségügyi ellenőrzés soron kívül történik.
+
+*19. Cikk*
+
+A Szerződő Felek fuvarozói kötelesek azon állam közúti közlekedési szabályait és más jogszabályait betartani, amelynek területén a gépjármű tartózkodik.
+
+*20. Cikk*
+
+(1) A jelen Egyezmény rendelkezéseinek megsértése esetén azon Szerződő Fél illetékes hatóságainak kérésére, amely államának területén a szabálysértés történt, a másik Szerződő Fél illetékes hatóságai, amely államának területén a gépjárművet bejegyezték, kötelesek – saját államuk jogszabályaitól függetlenül – a következő intézkedések egyikét foganatosítani:
+
+*a)* a szabálysértő fuvarozó figyelmeztetése;
+
+*b)* a szabálysértő fuvarozó figyelmeztetése arra, hogy ismételt szabálysértés esetén a fuvarozási engedély meghatározott időre való visszavonásra vagy a jelen Cikk *c)* pontjának megfelelően megsemmisítésre kerül;
+
+*c)* a jelen Egyezmény alapján kiadott engedély meghatározott időre történő visszavonása vagy megsemmisítése.
+
+(2) A megtett intézkedésekről a másik Szerződő Fél illetékes hatóságait tájékoztatni kell.
+
+*21. Cikk*
+
+A jelen Egyezmény végrehajtására a Szerződő Felek illetékes hatóságai közvetlen kapcsolatot tartanak fenn egymással, megbeszélést folytatnak a személyszállítási és árufuvarozási engedélykiadási rendszerrel kapcsolatos kérdések megvitatása céljából, valamint információt és tapasztalatot cserélnek a kiadott engedélyek felhasználásáról.
+
+*22. Cikk*
+
+A jelen Egyezmény végrehajtására és a felmerülő vitás kérdések gyors rendezése érdekében a Szerződő Felek illetékes hatóságai Vegyesbizottságot hoznak létre. A Vegyesbizottság üléseit szükség szerint, a Szerződő Felek államai területén felváltva tartja.
+
+*23. Cikk*
+
+A jelen Egyezmény értelmezésével és alkalmazásával kapcsolatban felmerülő összes vitás kérdést a Szerződő Felek tárgyalások útján rendezik.
+
+*24. Cikk*
+
+A Szerződő Felek az Egyezménnyel egyidejűleg aláírják az Egyezmény alkalmazásáról szóló Jegyzőkönyvet, amely a jelen Egyezmény elválaszthatatlan részét képezi.
+
+*25. Cikk*
+
+(1) A jelen Egyezmény azon diplomáciai úton eljuttatott későbbi írásos értesítés keltének napjától számított 30. napon lép hatályba, amelyben a Szerződő Felek tájékoztatták egymást a hatálybalépéshez szükséges, belső jogrendjük által előírt eljárás lefolytatásáról.
+
+(2) A Szerződő Felek a jelen Egyezményt határozatlan időre kötik és az hatályban marad attól a naptól számított 90 napig, amikor az egyik Szerződő Fél diplomáciai úton az Egyezmény felmondására irányuló szándékáról értesíti a másik Szerződő Felet.
+
+(3) A jelen Egyezmény hatálybalépésével hatályát veszti a Magyar Köztársaság és az Oroszországi Föderáció viszonylatában a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetsége Kormánya között a nemzetközi gépjárműközlekedés tárgyában Budapesten, 1966. március 19-én aláírt Egyezmény.
+
+Készült Budapesten, 2001. február hó 2. napján, két eredeti példányban, magyar és orosz nyelven, mindkét szöveg egyaránt hiteles.
+
+*Dr. Fónagy János* s. k.,\
+a Magyar Köztársaság\
+Kormánya nevében
+
+*Sz. O. Frank* s. k.,\
+az Oroszországi Föderáció\
+Kormánya nevében
+
+Jegyzőkönyv\
+a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a nemzetközi gépjárműközlekedésről szóló Egyezmény alkalmazásáról
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a nemzetközi gépjárműközlekedésről Budapesten, 2001. február hó 2. napján aláírt Egyezmény alkalmazása tekintetében az alábbi megállapodás született:
+
+1\. Az Egyezmény alkalmazásában az illetékes hatóság magyar részről a Magyar Köztársaság Közlekedési és Vízügyi Minisztériuma; orosz részről az Oroszországi Föderáció Közlekedési Minisztériuma és az Egyezmény 9. Cikke, 13. Cikke (3) bekezdése és 10. Cikke tekintetében az Oroszországi Föderáció Belügyminisztériuma is.
+
+2\. Az Egyezmény 2. Cikkében megjelölt fuvarozó fogalma alatt a Magyar Köztársaság területén bejegyzett, jogi személyiséggel nem rendelkező gazdasági társaság is értendő.
+
+3\. Az Egyezményben foglaltak nem mentesítik a fuvarozót és árutulajdonost attól, hogy a szükséges vámeljárásoknak a Szerződő Felek nemzeti jogszabályai alapján eleget tegyenek.
+
+4\. Az Egyezmény 11. Cikk (2) bekezdése tekintetében a pótkocsik és félpótkocsik rendelkezhetnek más állam rendszámával és állam-jelzésével, feltéve, hogy a tehergépjármű vagy a vontató a Magyar Köztársaság vagy az Oroszországi Föderáció rendszámát és állam-jelzését viseli.
+
+5\. Az Egyezmény 14. Cikk (1) bekezdésében megjelöltek a Magyar Köztársaság vonatkozásában a gépjárműadó alóli mentességet jelentik, amely lényegében a Magyar Köztársaságban való tartózkodás vagy a Magyar Köztársaság útjainak gépjárművekkel való igénybevételéért fizetendő adó; az Oroszországi Föderáció esetén az utak használatáért szedett útilleték alóli mentességet jelentik.
+
+Jelen Jegyzőkönyv, amely az Egyezmény elválaszthatatlan részét képezi, készült Budapesten, 2001. február hó 2. napján, két eredeti példányban, magyar és orosz nyelven, mindkét szöveg egyaránt hiteles.
+
+*Dr. Fónagy János* s. k.,\
+a Magyar Köztársaság\
+Kormánya nevében
+
+*Sz. O. Frank* s. k.,\
+az Oroszországi Föderáció\
+Kormánya nevében''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2001. június 9-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi miniszter gondoskodik.

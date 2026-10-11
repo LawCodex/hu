@@ -1,0 +1,512 @@
+---
+title: "178/2008. (VII. 3.) Korm. rendelet a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről"
+identifier: "178/2008. (VII. 3.) Korm. rendelet"
+njt_id: "2008-178-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/178"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-07-03
+in_force_from: 2009-10-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-178-20-22"
+retrieved: 2026-10-12
+---
+
+# 178/2008. (VII. 3.) Korm. rendelet a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről
+
+A Kormány a kisajátításról szóló 2007. évi CXXIII. törvény 41. §-a (3) bekezdésének a) és b) pontjában kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## Általános rendelkezések[^1]
+
+### 1. §[^2]
+
+E rendelet alkalmazásában kisajátítást kérő: a kisajátítási terv elkészültét követően a kisajátításról szóló 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) 24. § (2) bekezdése alapján a kisajátítási eljárást kezdeményezni jogosult személy.
+
+### 1/A. §[^3]
+
+E rendelet kizárólag papíralapú ügyintézés esetén értelmezhető előírásai elektronikus ügyintézés esetén nem alkalmazhatók. Elektronikus ügyintézés esetén ezen előírások helyett a Kstv.-t, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényt, valamint az elektronikus ügyintézésre vonatkozó egyéb szabályokat kell alkalmazni.
+
+### 2. §[^4]
+
+(1) Kisajátítási terv készítésével kapcsolatos földmérési munka csak a kisajátítást kérő írásbeli megbízása alapján és a földmérési és térképészeti tevékenységről szóló jogszabályok rendelkezése szerint földmérésre jogosult (a továbbiakban: földmérő) által végezhető.
+
+(2) Az e rendeletben szabályozott egyéb eljárásokban a földmérő a kisajátítást kérő nevében a kisajátítást kérő megbízása alapján járhat el.
+
+## A kisajátítási terv elemei
+
+### 3. §[^5]
+
+(1) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményező kisajátítás esetén a kisajátítási terv elemei a következők:
+
+a) kisajátítási változási vázrajz (a továbbiakban: kisajátítási vázrajz) és a hozzá tartozó területkimutatás,
+
+b) – ha a kisajátítási cél megvalósítása több ingatlant érint – a kisajátítási átnézeti térkép, és
+
+c) a kisajátítással érintett ingatlannal kapcsolatban az alábbi adatokat tartalmazó dokumentum (a továbbiakban: jogosultak listája):
+
+ca) a tulajdonos neve, lakcíme (székhelye), tulajdoni hányada, a tulajdonszerzés jogcíme, valamint az ingatlanon fennálló egyéb jog jogosultjának neve, lakcíme (székhelye), a jog megszerzésének jogcíme – az ingatlan-nyilvántartásban széljegyzett jogosultak adatait is ideértve –,
+
+cb) az ingatlan felett a kisajátítást követően tulajdonosi jogokat gyakorló szervezet neve és címe (székhelye), ha az állam vagy az önkormányzat tulajdonszerzésének ingatlan-nyilvántartásba történő bejegyzéséhez – jogszabály alapján – a tulajdonosi joggyakorló egyidejű bejegyzése is szükséges.
+
+(2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező, egész ingatlanra vonatkozó és építmény létesítésére irányuló kisajátítás esetén a kisajátítási terv elemei a következők:
+
+a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott, hiteles ingatlan-nyilvántartási térkép vagy – ha a kisajátítási cél megvalósítása több ingatlant érint – a kisajátítási átnézeti térkép, és
+
+b) a jogosultak listája.
+
+(3) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező, egész ingatlanra vonatkozó és építmény létesítésére nem irányuló kisajátítás esetén a kisajátítási terv elemei a következők:
+
+a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott, hiteles ingatlan-nyilvántartási térkép és
+
+b) a jogosultak listája.
+
+(4)[^6] Ha a kisajátítási hatósági feladatkörében eljáró fővárosi és vármegyei kormányhivatalhoz (a továbbiakban: kisajátítási hatóság) benyújtott kisajátítási terv nem tartalmazza a (3) bekezdés a) pontja szerinti térképet, azt a kisajátítási hatóság – a Kstv. 24. § (7) bekezdés alapján – hivatalból szerzi be.
+
+(5)[^7]
+
+(6) A (2) és (3) bekezdés alkalmazásában egész ingatlan kisajátításának kell tekinteni az olyan egész ingatlan kisajátítását is, melynek a kisajátítást kérő is tulajdonosa.
+
+(7) A kisajátítási tervet ingatlanonként kell elkészíteni.
+
+## Adatgyűjtés, adatszolgáltatás
+
+### 4. §[^8]
+
+A záradékoló hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) – a földmérő kérelmére – a kisajátítási terv elkészítéséhez szükséges adatokat az 1. számú melléklet II/1. pontja szerinti módon és adattartalommal szolgáltatja.
+
+## A kisajátítási terv készítése, záradékolása
+
+### 5. §[^9]
+
+(1)[^10] A kisajátítási vázrajz és a hozzá tartozó területkimutatás elkészítésére, valamint ingatlan-nyilvántartási és földmérési (a továbbiakban együtt: ingatlanügyi) szempontú vizsgálatára és záradékolására az e rendeletben foglalt eltérésekkel az ingatlan-nyilvántartási és földmérési jogszabályok az irányadók.
+
+(2)[^11] A kisajátítási vázrajzot a 2. számú melléklet szerinti tartalommal, a földügyi szakigazgatás hivatalos honlapján (a továbbiakban: honlap) közzétett formában kell elkészíteni. A kisajátítási vázrajzhoz tartozó területkimutatást a vázrajztól elkülönülten, a 3. számú melléklet szerint kell elkészíteni.
+
+(3)[^12] Az ingatlan-nyilvántartási térkép tartalmának áttekinthetőnek és olvashatónak kell lennie.
+
+(4) A kisajátítási átnézeti térkép a kisajátítási cél megvalósításával érintett ingatlanokat és azok közvetlen környezetét ábrázoló, az ingatlan-nyilvántartási térkép alapján készített rajzi munkarész, amely nyomvonalas építmény esetén annak nyomvonalát is tartalmazza. A kisajátítási átnézeti térképet az 1. számú melléklet szerinti tartalommal, a honlapon közzétett formában kell elkészíteni.
+
+(5)[^13] A kisajátítási vázrajz és a kisajátítási átnézeti térkép tartalmának áttekinthetőnek és olvashatónak kell lennie. A méretarány-tényezőt a rajzokon fel kell tüntetni.
+
+### 5/A. §[^14]
+
+(1) A kisajátítási tervet
+
+a) a 3. § (1) bekezdése szerinti esetben ingatlanügyi és építésügyi szempontú vizsgálat alapján kell záradékkal ellátni (a továbbiakban: kettős vizsgálatú kisajátítási terv),
+
+b)[^15] a 3. § (2) bekezdése szerinti esetben építésügyi szempontú vizsgálat alapján kell záradékkal ellátni (a továbbiakban: egyszeri vizsgálatú kisajátítási terv), kivéve, ha az adott ingatlanra vonatkozóan a kisajátítást kérő rendelkezésére áll a kisajátítás céljára megadott véglegessé vált építési engedély,
+
+c) a 3. § (3) bekezdése szerinti esetben záradékkal nem kell ellátni.
+
+(2) Kettős vizsgálatú kisajátítási terv esetében, ha a kisajátítási terv az ingatlanügyi szempontú feltételeknek nem felel meg, az építésügyi szempontú vizsgálatot már nem kell elvégezni.
+
+### 6. §[^16]
+
+(1) A záradékolásra irányuló eljárást a kormányhivatal folytatja le.
+
+(2) Kettős vizsgálatú kisajátítási tervet négy példányban, egyszeri vizsgálatú kisajátítási tervet két példányban kell benyújtani záradékolásra. Ez a rendelkezés nem zárja ki, hogy a kérelmező ennél több példány záradékolását is kérje. A záradékolás iránti kérelemben meg kell jelölni a kisajátítás tervezett célját. A záradékolás során ugyanazon hiány vagy hiba esetében hiánypótlásnak legfeljebb kétszer van helye.
+
+(3) Az ügyintézési határidő
+
+a) kettős vizsgálatú kisajátítási terv esetében 20 nap,
+
+b) egyszeri vizsgálatú kisajátítási terv esetében 15 nap.
+
+### 7. §[^17]
+
+(1) A kettős vizsgálatú kisajátítási tervhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység szabályait tartalmazó miniszteri rendeletben (a továbbiakban: földmérési rendelet) meghatározott megosztási változási vázrajzra vonatkozó előírások szerinti munkarészeket kell becsatolni, a földmérési rendelet területkimutatásra vonatkozó előírásait ide nem értve.
+
+(2)[^18] Az ingatlanügyi szempontú vizsgálat során a kormányhivatal az 1. számú melléklet II/7. pontja szerint jár el. Ha a kisajátítás mező-, erdőgazdasági művelés alatt álló földnek minősülő területet érint, akkor az ingatlanügyi szempontú vizsgálat során a kisajátítási vázrajzot a művelési ágak, a minőségi osztályok és a földminősítési mintaterek feltüntetése, valamint a földminősítési adatok számítása és ábrázolása helyességére vonatkozó mezőgazdászi szempontok szerint is vizsgálni kell. A kettős vizsgálatú kisajátítási terv záradéka egy évig hatályos. Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet 1. mellékletében szereplő projektek esetén a kettős vizsgálatú kisajátítási terv záradéka, valamint az újrazáradékolás 2 évig hatályos.
+
+(3) Az ingatlanügyi szempontból megfelelőnek talált kisajátítási vázrajzot és területkimutatást „A helyrajzi számozás és a területszámítás helyes.” záradékszöveggel kell ellátni. A mezőgazdászi szempontoknak is megfelelő kisajátítási vázrajzot az „A művelési ágak, minőségi osztályok és a földminősítési mintaterek feltüntetése, valamint a földminősítési adatok számítása és ábrázolása helyes.” záradékszöveggel kell ellátni.
+
+### 8. §[^19]
+
+(1) Az építésügyi szempontú vizsgálat kiterjed arra, hogy
+
+a) a záradékolási kérelemben megjelölt kisajátítási cél összhangban van-e a területfelhasználásra vonatkozó építésjogi követelményekkel,
+
+b) – olyan beruházás esetében, melynek helyét törvény, kormányrendelet vagy miniszteri rendelet egyértelműen beazonosítható módon megjelöli – a kisajátítandó ingatlan helye ennek megfelel-e,
+
+c) részleges kisajátítás esetén a visszamaradó ingatlan nagysága megfelel-e a telekalakításra vonatkozó építésjogi követelményeknek.
+
+(2)[^20] Az (1) bekezdés c) pontja szerinti feltétel teljesülését nem kell vizsgálni, ha az ingatlan beépítésre nem szánt területen helyezkedik el, vagy beépítésre szánt területen az ingatlan nagysága már eredetileg sem éri el a megengedett legkisebb teleknagyságot. A kormányhivatal e tényt az e rendelkezéssel érintett ingatlanok helyrajzi számának megjelölésével a záradékszöveg mellett külön feltünteti.
+
+(3) Ha a kisajátítási terv építésügyi szempontból megfelelő,
+
+a) a 3. § (1) bekezdése szerinti esetben a kisajátítási vázrajzot,
+
+b) a 3. § (2) bekezdés szerinti esetben az ingatlan-nyilvántartási térképet vagy a kisajátítási átnézeti térképet
+
+„A területfelhasználási követelményekkel nem ellentétes, az építésjogi követelményeknek megfelel, a záradék kisajátítási eljárás céljára lett kiadva” záradékszöveggel kell ellátni.
+
+(4)[^21] Ha a 3. § (2) bekezdés alapján kisajátítási átnézeti térkép csatolása szükséges, záradékszöveg külön okiratban is megszövegezhető. Ebben az esetben a kormányhivatal a záradékolásról szóló döntésben megjelöli, hogy mely kisajátítási átnézeti térkép alapján mely ingatlan vonatkozásában adta ki a záradékot.
+
+(5)[^22] Ha a 3. § (2) bekezdés alapján kisajátítási átnézeti térkép csatolása szükséges, és ugyanazon kisajátítási cél kapcsán a záradékolási kérelem több – a kormányhivatal illetékességi területén fekvő – ingatlant is érint, kérelemre a záradékszövegeket – az érintett ingatlanok megjelölésével – ugyanazon kisajátítási átnézeti térképen kell elhelyezni. Ebben az esetben az összes érintett ingatlan vonatkozásában elegendő egy kisajátítási átnézeti térképet benyújtani záradékolásra, és az egyes ingatlanokra készült kisajátítási tervekbe elegendő ezen záradékszöveggel ellátott kisajátítási átnézeti térkép kormányhivatal által hitelesített másolatát becsatolni. Ha a kormányhivatal a záradékszövegeket külön okiratban szövegezi meg, e bekezdés rendelkezései megfelelően alkalmazandóak azzal, hogy a kisajátítási tervekbe a záradékszövegeket is tartalmazó döntés kormányhivatal által hitelesített másolatát, valamint a döntés alapjául szolgáló kisajátítási átnézeti térkép másolatát elegendő becsatolni.
+
+(6)[^23] A kormányhivatal a záradékolás lefolytatása mellett tájékoztatást ad a kisajátítást kérő részére továbbá arról, hogy a visszamaradó ingatlan a telekalakítás általános követelményeinek – a telekméretet ide nem értve – megfelel-e.
+
+(7)[^24] A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az 5/A. § (1) bekezdés a) és b) pontjait úgy kell alkalmazni, hogy abban az esetben is el kell látni záradékkal a kisajátítási tervet, ha a kormányhivatal az eljárása során megállapítja a 8. § (1) bekezdés a) pontja szerinti egyezőség hiányát, azonban a kérelem a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/D. §-a szerinti kormányrendeletben meghatározott közlekedési infrastruktúra-beruházás megvalósításához szükséges területsávnak vagy nyomvonalnak, és a záradékolás egyéb feltételeinek megfelel.
+
+(8)[^25] A záradékolás során az (1) bekezdés a) pontja szerinti feltétel teljesülését nem kell vizsgálni, ha az adott kisajátítás esetében a területfelhasználásra vonatkozó építésjogi követelményeknek való megfelelést jogszabály rendelkezése alapján nem kell vizsgálni vagy nem kell figyelembe venni.
+
+### 9. §[^26]
+
+(1) Abban az esetben, ha a kisajátítási tervet a Kstv. alapján a kisajátítási hatóság küldi meg újrazáradékolás érdekében, az eljárásra a továbbiakban az e rendeletben foglalt szabályokat kell megfelelően alkalmazni azzal, hogy
+
+a)[^27] a kormányhivatal az e rendelet szerinti eljárásában hozott döntéseiről a kisajátítási hatóságot is értesíti,
+
+b) az eljárás végén a záradékkal ellátott kisajátítási tervet – a kisajátítást kérő értesítése mellett – a kisajátítási hatóság részére kell megküldeni.
+
+(2) Ha az újrazáradékolás helyett új kisajátítási terv készítése válik szükségessé, annak elkészítése a kisajátítást kérő feladata.
+
+### 10. §[^28]
+
+Ha a kisajátítási cél megvalósítása az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást eredményez, a beruházás befejezését követően a kisajátítást kérő gondoskodni köteles a több ingatlanból álló kisajátított terület helyrajzi számainak ingatlan-nyilvántartásban történő összevonásáról.
+
+### 10/A. §[^29]
+
+(1)–(2)[^30]
+
+(3)[^31] A kisajátítás terv kisajátítási hatósághoz történő benyújtásának időpontjában a záradék hatályossági idejéből nem lehet hátra három hónapnál rövidebb időtartam.
+
+## Csereingatlannal történő kártalanítás esetén az értékkülönbözet megfizetése tekintetében adható fizetési kedvezmény szabályai
+
+### 11. §
+
+(1)[^32] A kisajátítási hatóság a csereingatlannal történő kártalanítás esetében a kisajátított ingatlan és a csereingatlan közötti értékkülönbözet megfizetésére kötelezett magánszemély részére a részletfizetés engedélyezésekor irányadó jegybanki alapkamattal terhelten legfeljebb tízévi részletfizetést engedélyezhet, a havi részlet összege azonban ötezer forintnál kevesebb nem lehet.
+
+(2)[^33] A részletfizetés engedélyezése mellett a kisajátítási hatóság a részletfizetés megkezdésére – a (4) bekezdésben meghatározott feltétel fennállása esetén – legfeljebb tizenkét hónapig terjedő halasztást is engedélyezhet.
+
+(3) Az értékkülönbözet és kamata megfizetésére részletfizetés akkor engedélyezhető, ha
+
+a)[^34] a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének négyszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
+
+b)[^35] a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének ötszörösét nem haladja meg.
+
+(4) Az értékkülönbözet és kamata megfizetésére halasztás akkor engedélyezhető, ha
+
+a)[^36] a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének kétszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
+
+b)[^37] a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme havonta, egy főre számítva a szociális vetítési alap összegének háromszorosát nem haladja meg.
+
+(5) Harmadik személy kisajátítást kérő esetén az (1) és (2) bekezdés szerinti halasztás, illetőleg részletfizetés csak a kisajátítást kérő hozzájárulásával engedélyezhető.
+
+(6) A (3) és (4) bekezdés alkalmazásában a tulajdonossal együtt élő személy az, akinek bejelentett lakóhelye vagy tartózkodási helye – a kérelem benyújtását megelőző legalább hat hónapja – a tulajdonos lakóhelyével azonos.
+
+(7) Havi jövedelmen a személyi jövedelemadóról szóló törvény szerinti adóköteles jövedelmet kell érteni.
+
+### 12. §
+
+(1)[^38] Halasztás, illetőleg részletfizetés esetében az értékkülönbözet és kamata erejéig a kártalanításul adott ingatlanra – a kisajátítási hatóság megkeresésére a kisajátítást kérő javára jelzálogjogot kell az ingatlan-nyilvántartásba bejegyezni.
+
+(2) A fizetés megkezdésének felszólítás ellenére történő elmulasztása, illetve két részlet megfizetésének elmaradása esetében – eredménytelen felszólítás után – a fennmaradó értékkülönbözet és kamata egy összegben esedékessé válik.
+
+(3) A fennálló tartozást a kisajátítást kérő tartja nyilván és a fizetés elmaradása esetén követelését a polgári jog általános szabályainak megfelelően érvényesíti.
+
+### 13. §[^39]
+
+A kisajátítási hatóság – amennyiben halasztás, illetőleg részletfizetés engedélyezésére nem került sor, a harmadik személy kisajátítást kérő hozzájárulásával – mentesítheti a 11. § (4) bekezdése szerinti feltételekkel rendelkező kötelezettet a harmadik személynek járó értékkülönbözet utáni kamat alól.
+
+## Záró rendelkezések
+
+### 15. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba. Rendelkezéseit – a (2)–(4) bekezdésben foglalt eltéréssel – a hatálybalépését követően benyújtott kisajátítási kérelemhez csatolandó kisajátítási tervre kell alkalmazni. A 11–13. § rendelkezéseit a folyamatban lévő, első fokú határozattal még le nem zárt kisajátítási eljárásokban is alkalmazni kell.
+
+(2)[^41]
+
+(3) A rendelet hatálybalépésekor folyamatban lévő záradékolási eljárást az R. szerint kell lefolytatni.
+
+(4) E rendelet hatálybalépését megelőzően az R. alapján, illetve a (3) bekezdés szerint záradékolt kisajátítási terv a záradék érvényességi idején belül csatolható a kisajátítási kérelemhez.
+
+(5)–(6)[^42]
+
+### 16. §[^43]
+
+E rendeletnek a kisajátítással összefüggő egyes kormányrendeletek módosításáról szóló 154/2013. (V. 24.) Korm. rendelet (a továbbiakban: Módr.) 6. §-ával megállapított 7. § (3) bekezdését az e rendelkezés hatálybalépésekor[^44] folyamatban lévő ügyekben is alkalmazni kell.
+
+### 17. §[^45]
+
+(1) E rendeletnek a Módr.-rel megállapított rendelkezéseit – a (2) és (3) bekezdésben foglalt eltéréssel – a 2013. július 1-jén és azt követően a kisajátítási hatóság részére benyújtott kisajátítási kérelemhez csatolt kisajátítási tervre kell alkalmazni.
+
+(2)[^46] A 2014. június 30-áig benyújtott kisajátítási kérelemhez a 2013. június 30-án hatályos szabályok szerinti kisajátítási terv is csatolható. Ez esetben a 2013. június 30-án hatályos rendelkezések szerint elkészített kisajátítási terv záradékolására és kisajátítási hatósághoz történő benyújtására a 2013. június 30-án hatályos szabályokat kell alkalmazni azzal, hogy a kisajátítási tervet a kisajátítási hatóság részére öt példányban kell benyújtani.
+
+(3) Ha 2013. július 1-jét követően indult kisajátítási eljárásban a kisajátítási hatóság 2013. július 1-jét megelőzően hatályos rendelkezések szerint készített kisajátítási tervet küld meg újrazáradékolás érdekében, az eljárásra – a 9. §-tól eltérően – a továbbiakban a 2013. június 30. napján hatályos szabályokat kell megfelelően alkalmazni azzal, hogy
+
+a)[^47] a kormányhivatal az e rendelet szerinti eljárásában hozott döntéseiről a kisajátítási hatóságot is értesíti,
+
+b) az eljárás végén a záradékkal ellátott kisajátítási tervet – a kisajátítást kérő értesítése mellett – a kisajátítási hatóság részére kell megküldeni.
+
+### 18. §[^48]
+
+E rendeletnek az egyes magánjogi tárgyú kormányrendeleteknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 68/2014. (III. 13.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 10/A. § (1) bekezdés a) pontját a 2014. március 15-én folyamatban lévő ügyekben is alkalmazni kell. E rendeletnek a Módr2. által hatályon kívül helyezett 3. § (5) bekezdését a 2014. március 15-én folyamatban lévő ügyekben sem kell alkalmazni.
+
+### 19. §[^49]
+
+E rendeletnek a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításával összefüggésében egyes kormányrendeletek módosításáról szóló 142/2018. (VII. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 8. § (8) bekezdését a Módr3. hatálybalépésekor[^50] folyamatban lévő eljárásokban is alkalmazni kell.
+
+### 19/A. §[^51]
+
+(1) E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 1/A. §-át, 5. § (3) és (5) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában a kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(2) 2018. január 1-jétől az elektronikus kapcsolattartásra a Kstv. 40/G. §-ában foglaltak irányadók, a Kstv. 47. §-ában foglaltak szerint.
+
+### 20. §[^52]
+
+2021\. július 1-jétől az elektronikus kapcsolattartásra a Kstv. 40/G. §-ában foglaltak irányadók, a Kstv. 50. §-ában foglaltak szerint.
+
+## 1. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez
+
+**A kisajátítási terv elkészítésének és a kisajátítás földmérési munkáira vonatkozó előírások**
+
+**I. ***Általános szabályok*****
+
+1\. A kisajátítás földmérési munkáit az Egységes Országos Vetületi rendszerben, numerikusan kell elvégezni.
+
+2.[^53] A földmérési munkarészeket a földmérési rendeletben meghatározott formában kell leadni a kormányhivatalnak.
+
+3.[^54] A kisajátítási vázrajzot olyan adatformátumban kell elkészíteni, amilyen adatformátumban a kormányhivatal a térképi adatokat szolgáltatta.
+
+**II. ***A kisajátítási terv elkészítésének és a kisajátítás földmérési munkáinak részletes szabályai*****
+
+1\. *Adatgyűjtés*
+
+1.1.[^55] A földmérő megkeresésére a kisajátítással érintett ingatlanokról a kormányhivatal elektronikus formában, írásvédett (tovább nem írható) adathordozón
+
+a) az ingatlan-nyilvántartási térképi adatbázisból kivágatot készít;
+
+b) szerkeszthető formátumban, jogszabályban meghatározott földkönyvet szolgáltat.
+
+A digitális térképi állománynak az előzetes változásokat is tartalmaznia kell.
+
+1.2. Ha a kisajátítással érintett területről új állami földmérési alaptérkép készül (és az állami átvételi vizsgálat már megkezdődött), úgy az adatokat a kétféle állapotnak megfelelően kell szolgáltatni.
+
+1.3.[^56] Az 1.1. szerinti adatok átadása kísérő bizonylattal történik, amely tartalmazza a kiadás helyét és időpontját (dátumát), az adathordozó azonosítóját, az 1.1 alpont *a)* pontja szerinti adatállomány byte-ban meghatározott méretét, az 1.4. alpont szerinti hitelesítési záradékot, továbbá a kiadmányozásra jogosult adatszolgáltató nevét (nyomtatott betűvel) és aláírását, valamint az adatszolgáltató szerv körbélyegzőjét. A kísérő bizonylat egy példányát a kormányhivatalnak 10 évig meg kell őriznie. Igény esetén – költségtérítés ellenében – az adathordozót a kormányhivatal biztosítja.
+
+1.4.[^57] Az 1.1. alpont szerint átadott adatok tekintetében a kormányhivatal az 1.3. alpont szerinti kísérőbizonylaton a következő hitelesítési záradékkal tanúsítja az adatok megfelelőségét: „Az átadott adatok az ingatlan-nyilvántartás, illetve az ingatlan-nyilvántartási térképi adatbázis adataival a kiadását megelőző napig megegyeznek.
+
+2\. *A kisajátításra kerülő terület elhatárolása és töréspontjának megjelölése*
+
+2.1.[^58] A záradékolt kisajátítási vázrajz kisajátítási határvonalát az érintett tulajdonos kérésére ki kell tűzni. A határvonal főbb töréspontjait véglegesen a beruházás megvalósulásakor kell megjelölni a 2.2. pont szerint.
+
+2.2.[^59] A beruházás megkezdésekor a kisajátításra kerülő terület határvonalának főbb töréspontjait
+
+a) külterületen 15 Ű 15 cm oldalélű, négyzet keresztmetszetű, tetején sima, vagy 15 cm oldalhosszúságú egyenlő oldalú háromszög keresztmetszetű, letompított élű, mindkét fajtánál 60 cm hosszú és a földből kiálló részén olajfestékkel fehérre mázolt vagy meszelt vasbeton oszloppal,
+
+b) belterületen a városmérések telekelhatárolási munkáinál előírt csappal, szeggel, esetleg festéssel, illetve az *a)* pontban meghatározott háromszög keresztmetszetű vasbeton oszloppal,
+
+c) a MÁV részére végzett kisajátításnál „MÁV” feliratú, közút részére végzett kisajátításnál „ÚT” feliratú, a vízügyi szervek részére végzett kisajátításnál „VÍZ” feliratú, szabványos vasbeton oszloppal
+
+kell véglegesen megjelölni.
+
+2.3. A határvonal kővel megjelölt szomszédos pontjai között a legnagyobb távolság 200 m lehet; ennek megfelelően hosszú egyenes szakaszokon a töréspontok közé kellő számú pontot kell az egyenesbe kitűzni, kővel megjelölni, és birtokhatár-pontként meghatározni. Ha a kisajátítási határvonal vonalas létesítmény határvonalát metszi, a metszéspontokat az előzőek szerint kell megjelölni.
+
+2.4.[^60]
+
+3.[^61] *Helyszínelés*
+
+A földmérő az ingatlan-nyilvántartási térképi adatbázis állami alapadat-tartalmának a természetbeni állapottal történő egyezőségét köteles ellenőrizni. Ha a természetbeni állapot a földmérési rendeletben meghatározott hibahatáron belül nem egyezik, akkor a földmérési rendelet kitűzésre vonatkozó előírásait kell figyelembe venni.
+
+4.[^62] *Térképezés*
+
+4.1. A kitűzés eredményét mérési vázlaton kell ábrázolni.
+
+4.2. Az ingatlan határvonalát a földmérési rendeletben meghatározottak szerint kell megállapítani.
+
+4.3. Amennyiben az adatszolgáltatás az 1.2. pontban említett kétféle állapot szerint történt, úgy a kisajátítási terv földmérési munkarészeit mindkét állapot szerint el kell készíteni.
+
+4.4. A kisajátítási határvonal megállapítása során – az építésügyi szempontokon túlmenően – a Kstv. 6. § (3) és (4) bekezdése szerinti szempontokra tekintettel kell eljárni.
+
+4.5. A kisajátításra kerülő terület határvonalának töréspontjait (a határpontokat), valamint a határvonalat a kisajátítási terv földmérési munkarészein megkülönböztetett módon, jól azonosíthatóan kell ábrázolni, illetve megjeleníteni (pl. 0,5 mm-es fekete vonallal; külön objektumként stb.). A kisajátítási vázrajzon a kisajátítással érintett földrészletek helyrajzi számai mellett az átnézeti térképen szereplő sorszámot is fel kell tüntetni.
+
+4.6. A kisajátítási átnézeti térképet településenként, azon belül fekvésenként kell elkészíteni. A kisajátítási átnézeti térkép legfeljebb A0-ás méretű részekre bontva nyomtatható ki.
+
+4.7. A kisajátítási átnézeti térképen a kisajátítási cél megvalósítása érdekében kisajátítani tervezett összes ingatlant egytől kezdődő arab számmal meg kell jelölni (a továbbiakban: kisajátítási sorszám).
+
+4.8. A kisajátítási átnézeti térképnek tartalmaznia kell:
+
+a) a kisajátítási cél megvalósításával érintett összes ingatlant,
+
+b) a kisajátítási cél megvalósítása érdekében kisajátítani tervezett összes ingatlan vonatkozásában a teljes ingatlan-nyilvántartási térképi adatbázis tartalmát,
+
+c) a kisajátítási határvonalat,
+
+d) a kisajátítási sorszámot,
+
+e) a település és fekvés megnevezését és a méretarány tényezőt,
+
+f) a készítő nevét és a készítés dátumát.
+
+5\. *Helyrajzi számozás*
+
+5.1. A kisajátításra kerülő és visszamaradó földrészletek helyrajzi számozását az önálló ingatlanok helyrajzi számozásáról és az alrészletek megjelöléséről szóló 44/2006. (VI. 13.) FVM rendelet előírásai szerint kell elvégezni.
+
+5.2. Ha az összefüggő kisajátított terület rendeltetésszerű felhasználása annak több földrészletre való felosztását teszi szükségessé (pl. telekalakítás), a kisajátítási eljárás során a terület belső felosztása is megtervezhető.
+
+6\. *Területszámítás*
+
+A kisajátítás földmérési munkái során a területszámítást numerikusan kell elvégezni.
+
+7\. *A munkarészek vizsgálata és záradékolása*
+
+7.1. A vizsgálat során ellenőrizni kell, hogy
+
+a) a munkát jogosult személy végezte-e;
+
+b) igazolta-e az adatszolgáltatás igazgatási szolgáltatási díj és a vizsgálati díj befizetését;
+
+c) ha a munka bejelentési kötelezettség alá tartozik, a bejelentés megtörtént-e, és a készítő figyelembe vette-e a visszaigazolásban előírtakat;
+
+d)[^63] az előírt mellékleteket csatolták-e;
+
+e) a belső vizsgálatot és a minőség tanúsítását arra jogosult személy végezte-e;
+
+f) az alappont-sűrítést a vonatkozó előírások szerint készítették-e;
+
+g)[^64] a kisajátítási vázrajz megfelel-e az előírt alaki és tartalmi követelményeknek;
+
+h) a változási vázrajz területkimutatásának változás előtti oldala egyezik-e az érvényben lévő ingatlan-nyilvántartási állapottal, illetve az érvényes záradékkal rendelkező, előzetesen nyilvántartásba vett állapottal. Kettős munkarész készítése esetén az új alaptérkép szerinti állapot változás előtti oldala egyezik-e az adatszolgáltatás szerinti állapottal;
+
+i) a helyrajzi számozás megfelel-e a külön jogszabályban foglalt előírásoknak;
+
+j) a területszámítás helyesen történt-e.
+
+7.2. Digitális térkép esetén a területszámítást a vizsgálat során az eredeti területszámításban megadott koordinátákból meg kell ismételni.
+
+7.3.[^65] A változási munkarészek esetenkénti helyszíni vizsgálatának módját és mértékét a kormányhivatal a munka jellegétől és nagyságától függően állapítja meg. Az eseti helyszíni vizsgálat során szúrópróbaszerűen mintavételes eljárással arról kell meggyőződni, hogy a földmérési munkarészekben feltüntetett állapot a megengedett tűréshatáron belül megegyezik-e a természetben található állapottal.
+
+7.4. A változással érintett terület határpontjainak azonosságát (beilleszthetőség) a digitális állományban vizsgálni kell.
+
+7.5.[^66]
+
+7.6.[^67]
+
+## 2. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^68]
+
+**A kisajátítás során készítendő változási vázrajz tartalma**
+
+1\. A fejlécnek az alábbiakat kell tartalmaznia:
+
+a) a készítő földmérő, vagy földmérési vállalkozás megnevezése, székhelye és a munkaszáma;
+
+b) a változással érintett település és annak fekvése,
+
+c) a földmérési célú adatszolgáltatás iktatószáma,
+
+d) a „KISAJÁTÍTÁSI VÁZRAJZ” felirat,
+
+e) a kisajátítással érintett ingatlan helyrajzi száma,
+
+f) a vázrajz méretaránya,
+
+g) a kisajátítás sorszáma.
+
+2\. A változással érintett térkép kivágatnak az alábbiakat kell tartalmaznia:
+
+a) a változással érintett helyrajzi számok térképmásolata,
+
+b) a megszűnő helyrajzi számok és alrészletek, művelési ágak áthúzással, az újonnan keletkező helyrajzi számok és alrészlet betűjelek és művelési ágak vastag kiemeléssel,
+
+c) az újonnan keletkező fekvéshatár vastag vonallal, melyen szerepelnie kell az új határvonal jelkulcsi elemének,
+
+d) a megszűnő földrészlet és alrészlet határvonalak dupla megszüntető vonallal.
+
+3\. A lábrésznek az alábbi adatokat kell tartalmaznia:
+
+a)[^69] a 7. § (3) bekezdése szerinti záradékszövegek;
+
+b) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktató számára történő hivatkozás;
+
+c)[^70] a kormányhivatal székhelye és az ingatlanügyi szempontú vizsgálat lezárásának dátuma,;
+
+d)[^71] az ingatlanügyi szempontú vizsgálatot végző aláírása és ingatlanrendező földmérői minősítésének száma;
+
+e) a készítő olvasható aláírása és kék színű bélyegző lenyomata, földmérő igazolványának száma, vagy ha van, ingatlanrendező földmérői minősítésének száma;
+
+f)[^72] ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségtanúsító aláírása, kékszínű bélyegző lenyomata és az ingatlanrendezői földmérői minősítésének száma;
+
+g) a készítés dátuma.
+
+## 3. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^73]
+
+**A kisajátítási változás vázrajzhoz tartozó területkimutatás**
+
+<table><tbody><tr><td rowspan="4">Sorszám</td><td colspan="7">**Kisajátítás elötti állapot**</td><td colspan="9">**Kisajátítás utáni állapot**</td><td rowspan="4">Megjegyzés</td></tr><tr><td rowspan="3">Helyrajzi szám</td><td rowspan="3">Szolgalmi és egyéb használati jogok</td><td colspan="2" rowspan="2">Alrészlet</td><td colspan="2" rowspan="2">Terület</td><td rowspan="2">Kat. jöv.</td><td colspan="4">Kisajátítás utáni</td><td colspan="2">**Kisajátított**</td><td colspan="2">Visszamaradt</td><td rowspan="3">Szolgalmi és egyéb használati jogok</td></tr><tr><td rowspan="2">Helyrajzi szám</td><td colspan="3">alrészlet</td><td>terület</td><td>Kat. jöv.</td><td>terület</td><td>Kat. jöv.</td></tr><tr><td>betüjelzés</td><td>műv.ága</td><td>min. oszt.</td><td>ha.m<sup>2</sup></td><td>AK.fillér</td><td>betüjelzés</td><td>műv.ága</td><td>min. oszt.</td><td>ha.m<sup>2</sup></td><td>AK.fillér</td><td>ha.m<sup>2</sup></td><td>AK.fillér</td></tr><tr><td>**1**</td><td>**2**</td><td>**3**</td><td colspan="2">**4**</td><td colspan="2">**5**</td><td>**6**</td><td>**7**</td><td colspan="3">**8**</td><td>**9**</td><td>**10**</td><td>**11**</td><td>**12**</td><td>**13**</td><td>**14**</td></tr><tr><td rowspan="34"></td><td rowspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="2"></td><td rowspan="26"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="5"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="5"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="5"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="5"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="3"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="3"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="4"></td><td rowspan="8"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan="4"></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+---
+
+[^1]: Az 1. §-t megelőző alcím a 154/2013. (V. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. §-t a 182/2009. (IX. 10.) Korm. rendelet 627. §-a hatályon kívül helyezte, újonan a 154/2013. (V. 24.) Korm. rendelet 2. §-a iktatta be.
+[^3]: Az 1/A. §-t újonnan a 668/2020. (XII. 28.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^4]: A 2. § a 154/2013. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 3. § a 154/2013. (V. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^6]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 93. §-a szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdését a 68/2014. (III. 13.) Korm. rendelet 5. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^8]: A 4. § a 70/2015. (III. 30.) Korm. rendelet 122. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 93. §-a szerint módosított szöveg.
+[^9]: Az 5. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^10]: Az 5. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 115. §-a szerint módosított szöveg.
+[^12]: Az 5. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 43. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 5/A. §-t a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdése iktatta be.
+[^15]: Az 5/A. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 223. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 6. § a 360/2019. (XII. 30.) Korm. rendelet 62. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 7. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^18]: A 7. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^19]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^20]: A 8. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^21]: A 8. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^22]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 8. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 8. § (7) bekezdését a 413/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^25]: A 8. § (8) bekezdése a 142/2018. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 9. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^27]: A 9. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 10. § a 154/2013. (V. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^29]: A 10/A. §-t a 154/2013. (V. 24.) Korm. rendelet 7. §-a iktatta be.
+[^30]: A 10/A. § (1)–(2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 224. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^31]: A 10/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés d) pontja, a 289/2018. (XII. 21.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^32]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
+[^33]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
+[^34]: A 11. § (3) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^36]: A 11. § (4) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^37]: A 11. § (4) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^38]: A 12. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (5) bekezdésével megállapított szöveg.
+[^39]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 122. § (6) bekezdésével megállapított szöveg.
+[^41]: A 15. § (2) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^42]: A 15. § (5)–(6) bekezdését a 154/2013. (V. 24.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^43]: A 16. §-t a 154/2013. (V. 24.) Korm. rendelet 8. §-a iktatta be.
+[^44]: A hatálybalépés időpontja 2013. május 25.
+[^45]: A 17. §-t a 154/2013. (V. 24.) Korm. rendelet 9. §-a iktatta be.
+[^46]: A 17. § (2) bekezdése a 490/2013. (XII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^47]: A 17. § (3) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^48]: A 18. §-t a 68/2014. (III. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^49]: A 19. §-t újonnan a 142/2018. (VII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A hatálybalépés időpontja 2018. augusztus 4.
+[^51]: Az újabb 19. §-t a 477/2016. (XII. 27.) Korm. rendelet 43. § (4) bekezdése iktatta be. Számozását a 668/2020. (XII. 28.) Korm. rendelet 21. § (3) bekezdése 19/A. §-ra változtatta, szövege a 21. § (3) bekezdésével megállapított szöveg.
+[^52]: A 20. §-t a 668/2020. (XII. 28.) Korm. rendelet 21. § (3) bekezdése iktatta be.
+[^53]: Az 1. számú melléklet I/2. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^54]: Az 1. számú melléklet I/3. pontja a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^55]: Az 1. számú melléklet II/1. pont 1.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^56]: Az 1. számú melléklet II/1. pont 1.3. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) és g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: Az 1. számú melléklet II/1. pont 1.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^58]: Az 1. számú melléklet II/2. pont 2.1. alpontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^59]: Az 1. számú melléklet II/2. pont 2.2. alpont nyitó szövegrésze a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^60]: Az 1. számú melléklet II/2. pont 2.4. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^61]: Az 1. számú melléklet II/3. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 1. számú melléklet II/4. pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^63]: Az 1. számú melléklet II/7. pont 7.1. alpont d) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^64]: Az 1. számú melléklet II/7. pont 7.1. alpont g) pontja a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^65]: Az 1. számú melléklet II/7. pont 7.3. alpontja a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^66]: Az 1. számú melléklet II/7. pont 7.5. alpontját a 70/2015. (III. 30.) Korm. rendelet 122. § (8) bekezdése hatályon kívül helyezte.
+[^67]: Az 1. számú melléklet II/2. pont 7.6. alpontját a 154/2013. (V. 24.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^68]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^69]: A 2. számú melléklet 3. pont a) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés g) pontja szerint módosított szöveg.
+[^70]: A 2. számú melléklet 3. pont c) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés h) pontjával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^71]: A 2. számú melléklet 3. pont d) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés i) pontja szerint módosított szöveg.
+[^72]: A 2. számú melléklet 3. pont f) alpontja a 373/2014. (XII. 31.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^73]: A 3. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

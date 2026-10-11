@@ -1,0 +1,1289 @@
+---
+title: "93/2002. (V. 5.) Korm. rendelet a könyvviteli szolgáltatást végzők nyilvántartásba vételéről"
+identifier: "93/2002. (V. 5.) Korm. rendelet"
+njt_id: "2002-93-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/93"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-05-05
+in_force_from: 2010-01-01
+last_amended: 2025-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-93-20-22"
+retrieved: 2026-10-12
+---
+
+# 93/2002. (V. 5.) Korm. rendelet a könyvviteli szolgáltatást végzők nyilvántartásba vételéről
+
+A számviteli törvény 151. §-ának (4) bekezdésében, valamint a 178. §-a (1) bekezdésének d) pontjában kapott felhatalmazás alapján a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezet kijelölésére, a nyilvántartásba vételre, illetve a nyilvántartásból való törlésre, a nyilvántartás vezetésének részletes szabályaira, a kötelező szakmai továbbképzésre, valamint a jogorvoslati lehetőségekre vonatkozóan a Kormány a következőket rendeli el:[^1]
+
+### 1. §
+
+(1) A rendelet hatálya kiterjed:
+
+a)[^2] a könyvviteli szolgáltatást végzők nyilvántartásba vételét végző szervezetre,
+
+b)[^3] a könyvviteli szolgáltatás végzésére jogosító engedélyt kérelmező és az engedély alapján nyilvántartásba vett, valamint a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 152/B. §-a szerinti tevékenységét bejelentő és a bejelentés alapján nyilvántartásba vett természetes személyekre,
+
+c)[^4] a könyvviteli szolgáltatást végzők szakmai továbbképzésének szervezésére és lebonyolítására jelentkező és a továbbképzésre jogosult akkreditációval rendelkező szervezetekre,
+
+d)[^5] a könyvviteli szolgáltatást végzők kreditrendszerű továbbképzéséhez kapcsolódóan szakmai szervezeti minősítési eljárást kezdeményező és szakmai szervezetnek minősített szervezetekre,
+
+e)[^6]
+
+(2)[^7] E rendelet hatálya nem terjed ki a könyvviteli szolgáltatást végző aktív és a tagságukat szüneteltető kamarai tag könyvvizsgálókra, akiknek a nyilvántartását a Magyar Könyvvizsgálói Kamara vezeti.
+
+### 2. §[^8]
+
+A számviteli törvény 150. §-ának (2) bekezdése szerinti könyvviteli szolgáltatás végzésére jogosult az a természetes személy, aki okleveles könyvvizsgálói szakképesítéssel, illetve mérlegképes könyvelői szakképesítéssel rendelkezik.
+
+### 3. §[^9]
+
+(1)[^10] Egy szakképesítést igazoló oklevél alapján egy szakterületi megjelölés kérelmezhető. Ha a szakképesítést tanúsító oklevél vagy bizonyítvány
+
+a) ipari, mezőgazdasági, erdőgazdasági, állami gazdasági, termelőszövetkezeti, kereskedelmi (áruforgalmi), közlekedési, építőipari szakon megszerzett mérlegképes könyvelői szakképesítést igazol, akkor vállalkozási szakterületet,
+
+b) államháztartási szakon megszerzett mérlegképes könyvelői szakképesítést, felsőfokú államháztartási szakképesítést, illetve felsőfokú költségvetési szakképesítést igazol, akkor államháztartási szakterületet,
+
+c) biztosítási, értékpapír-forgalmazási, pénzintézeti, vagy pénzügyi szervezeti szakon megszerzett mérlegképes könyvelői szakképesítést igazol, akkor pénzügyi szakterületet,
+
+d) egyéb szervezeti (nonprofit), vagy egyéb szervezeti szakon megszerzett mérlegképes könyvelői szakképesítést igazol, akkor egyéb szervezeti (nonprofit) szakterületet,
+
+e) Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)] (a továbbiakban: IFRS) szakon megszerzett mérlegképes könyvelői szakképesítést igazol, akkor IFRS szakterületet
+
+kell a nyilvántartásban megjelölni.
+
+(2)[^11]
+
+(3)[^12]
+
+(4)[^13]
+
+(5)[^14]
+
+(6)[^15]
+
+(7)[^16]
+
+(8)[^17]
+
+(9)[^18]
+
+(9a)[^19]
+
+(9b)[^20]
+
+(9c)[^21]
+
+(10)[^22]
+
+(10a)[^23]
+
+(11)[^24]
+
+(12)[^25] Az okleveles könyvvizsgálói szakképesítéssel rendelkezők esetében a nyilvántartásban a vállalkozási szakterületet kell megjelölni. Vállalkozási szakterülettől eltérő más szakterület nyilvántartásban való megjelölésére abban az esetben van lehetőség, amennyiben az okleveles könyvvizsgálói szakképesítéssel rendelkező személy a kérelmezett egyéb szakterületen legalább hároméves szakmai gyakorlatot igazol.
+
+(13)[^26] Az engedély iránti kérelem elbírálásához szükséges dokumentumokat a kérelemmel egyidejűleg kell benyújtani.
+
+### 5. §[^28]
+
+(1)[^29] A könyvviteli szolgáltatás végzésére jogosító engedélyt kérelme esetén meg kell adni minden olyan természetes személynek, aki megfelel a számviteli törvény 151. §-a (5) bekezdésének b) pontja szerinti feltételeknek.
+
+(2)[^30] Az engedély iránti kérelmet az 1. számú mellékletben meghatározott adattartalommal a 10/C. §-ban meghatározottak szerint kell megküldeni a nyilvántartásba vételt végző szervezet részére. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy
+
+a) megfelel a számviteli törvény 151. § (5) bekezdés b) pont ba)–bd) alpontjában előírt feltételeknek, valamint
+
+b) az igazgatási szolgáltatási díjat megfizette.
+
+(2a)[^31] Az engedély iránti kérelemmel egyidejűleg a kérelmezőnek a 8. § (1a) bekezdés szerinti igazolvány kiállításához egy 6 hónapnál nem régebbi igazolványképet kell benyújtania.
+
+(3)[^32]
+
+(4)[^33]
+
+(5)[^34] A nyilvántartásba vételt végző szervezet jogosult a kérelmező adatait – a nyilvántartásba vétel előtt – ellenőrizni, a kérelmező pedig külön kérésre köteles az adatok hitelességét az azt alátámasztó eredeti dokumentumokkal a felhívásban meghatározott időpontig igazolni.
+
+(6)[^35] Amennyiben az engedély visszavonására okot adó körülmény merült fel, az engedély jogosultja vagy annak törvényes képviselője köteles azt – az ok bekövetkeztét követő – 30 napon belül bejelenteni a nyilvántartásba vételt végző szervezetnek. Az engedély visszavonása iránti kérelmet az 1. számú mellékletben meghatározott adattartalommal kell benyújtani a 10/C. §-ban meghatározottak szerint. A kérelem benyújtásakor a (2) bekezdés b) pontjában foglaltak igazolása mellett a 8. § (1a) bekezdése szerinti igazolványt is meg kell küldeni.
+
+(7)[^36] A számviteli törvény 151. § (6) bekezdés a)–d) és f)–i) pontjában meghatározott esetekben a nyilvántartásba vételt végző szervezet hivatalból indított eljárásban intézkedik az engedély visszavonásáról és ezzel egyidejűleg a nyilvántartásból való törlésről. A nyilvántartásból törölt személy vagy törvényes képviselője a 8. § (1a) bekezdése szerinti igazolványt a törlésről szóló határozat kézhezvételétől számított 8 napon belül köteles a nyilvántartásba vételt végző szervezetnek visszaszolgáltatni.
+
+(8)[^37]
+
+(9)[^38] Az engedély alapján nyilvántartásba vett személy a nyilvántartásban szereplő adatokban bekövetkezett változást – amennyiben az nem érinti a 8. § (1a) bekezdése szerinti igazolványon szereplő adatokat – az adatváltozás, valamint a (2) bekezdés b) pontjában foglaltak igazolása mellett az adatváltozást követő 30 napon belül köteles bejelenteni az 1. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnek a 10/C. §-ban meghatározottak szerint.
+
+(10)[^39] Ha az adatváltozás érinti a 8. § (1a) bekezdése szerinti igazolványon szereplő adatokat is, akkor – a (9) bekezdésben foglaltakon túlmenően – a (2a) bekezdés szerinti igazolványképet és a korábban kiállított igazolványt is meg kell küldeni. A beküldött igazolványt a nyilvántartásba vételt végző szervezet az adatváltozás átvezetését követően haladéktalanul megsemmisíti.
+
+(10a)[^40] Amennyiben a (9), illetve a (10) bekezdés szerinti adatváltozás bejelentésének elmulasztása a nyilvántartásba vételt végző szervezet tudomására jut, a nyilvántartásba vett személyt felszólítja az adatváltozás bejelentésének 8 napon belüli pótlására.
+
+(11)[^41] Ha a 8. § (1a) bekezdése szerinti igazolvány elveszett, ellopták, megsemmisült, illetve megrongálódott, a nyilvántartásba vett személy 30 napon belül köteles ezt az 1. számú mellékletben meghatározott adattartalommal bejelenteni a nyilvántartásba vételt végző szervezetnek a 10/C. §-ban meghatározottak szerint, a (2a) bekezdés szerinti igazolványkép megküldésével a (2) bekezdés b) pontjában foglaltak igazolása mellett. Megrongálódás esetén a fentieken túlmenően a megrongálódott igazolványt is meg kell küldeni, amelyet a nyilvántartásba vételt végző szervezet haladéktalanul megsemmisít.
+
+### 6. §[^42]
+
+(1)[^43] A könyvviteli szolgáltatás végzésére jogosító engedély – ha jogszabály másként nem rendelkezik – az engedélyben, illetve az igazolványban és a nyilvántartásban megjelölt szakterületen szerzett szakképesítéstől függetlenül bármely szakterületen jogosít a könyvviteli szolgáltatás végzésére.
+
+(2)[^44] Azoknál a kérelmeknél, amelyeknél az oklevél, bizonyítvány vagy mérlegképes könyvelői igazolás alapján a szakképesítés szakterülete nem állapítható meg, a könyvviteli szolgáltatás végzését vállalkozási szakterületen, vagy a kérelmező kérelme alapján szakmai gyakorlatának megfelelően kell a 3. § (1) bekezdés szerinti szakterületek egyikének megjelölésével engedélyezni. Vállalkozási szakterülettől eltérő más szakterület nyilvántartásban való megjelölésére abban az esetben van lehetőség, amennyiben a kérelmező a kérelmezett egyéb szakterületen legalább hároméves szakmai gyakorlatot igazol.
+
+(3)[^45] Ha a nyilvántartásba vett személy a nyilvántartásban korábban megjelölt szakképesítési szakterületétől eltérő további szakterület nyilvántartásba vételét és a szakterület megjelölését is tartalmazó új igazolvány kiállítását kérelmezi, akkor a kérelem benyújtásával egyidejűleg igazolnia kell a kérelmezett szakterület szakképesítésének megszerzését, valamint ezen szakképesítés megszerzését követően, a kérelem benyújtását megelőző 12 hónapban a kérelmezett szakterületre előírt 10/B. § (4) bekezdése szerinti továbbképzés teljesítését.
+
+(4)[^46] Ha a nyilvántartásban szereplő személy engedélyében (az igazolványon és a nyilvántartásban) korábban megjelölt több szakképesítési szakterülete közül a számviteli törvény 151. § (7a) bekezdés b) pontja alapján valamely szakterületének (szakterületeinek) törlésére kerül sor, akkor a nyilvántartásba vételt végző szervezet hivatalból új igazolványt állít ki a nyilvántartásban maradó szakterület(ek) feltüntetésével. A nyilvántartásba vételt végző szervezet a szakterület(ek) törléséről szóló határozat megküldésével egyidejűleg a nyilvántartásban szereplő személyt felszólítja
+
+a) a korábban kiállított eredeti igazolvány visszaszolgáltatására, amelyet a nyilvántartásba vételt végző szervezet az adatváltozás átvezetését követően haladéktalanul megsemmisít, valamint
+
+b)[^47] az új igazolvány kiállításához szükséges, 5. § (2a) bekezdés szerinti igazolványkép benyújtására.
+
+(5)[^48] A (4) bekezdés szerinti dokumentumok benyújtására a nyilvántartásban szereplő személynek 30 nap áll rendelkezésére.
+
+(6)[^49] A nyilvántartásban szereplő személy a (4) bekezdés szerinti szakterület-törlést követően a törölt szakterület ismételt nyilvántartásba vételét és ezen szakterület megjelölését is tartalmazó új igazolvány kiállítását kérelmezheti az 5. § (2a) bekezdése szerinti igazolványkép megküldésével, valamint az 5. § (2) bekezdés b) pontjában foglaltak és a kérelem benyújtását megelőző 12 hónapban a kérelmezett szakterületre előírt 10/B. § (4) bekezdése szerinti továbbképzés teljesítésének igazolása mellett.
+
+### 7. §
+
+(1)[^50]
+
+(2)[^51]
+
+(3)[^52]
+
+(4)[^53]
+
+(5)[^54]
+
+### 8. §[^55]
+
+(1)[^56] A kérelmező adatait, ha a kérelmező a számviteli törvényben és az e rendeletben előírt követelményeknek megfelel, és az adatok a szükséges dokumentumokkal alátámasztottak, a nyilvántartásba vételt végző szervezet az engedély megadásával egyidejűleg a nyilvántartásba felveszi.
+
+(1a)[^57] A nyilvántartásba vételt végző szervezet a nyilvántartásba vételt követően 30 napon belül gondoskodik a kérelmező részére a 3. számú melléklet szerinti adattartalmú igazolvány elkészíttetéséről, és a nyilvántartásba vett személy részére történő megküldéséről.
+
+(2)[^58]
+
+(3)[^59] Amennyiben a kérelem adatai hiányosak, nem megfelelően igazoltak, akkor a kérelmezőt a kérelem előterjesztésétől számított tizenöt napon belül hiánypótlásra kell felhívni 30 napos hiánypótlási határidő megadásával.
+
+(4)[^60] Az (1)–(3) bekezdés előírásait kell megfelelően alkalmazni a nyilvántartásba bejegyzett adatok módosítására, az igazolvány cseréjére, pótlására, az engedély visszavonására, valamint a továbbképzés alóli kimentésre irányuló eljárásban is.
+
+### 8/A. §[^61]
+
+(1)[^62] A 8. § (1a) bekezdése szerinti igazolvány igazolja a könyvviteli szolgáltatás végzésére való jogosultságot, az engedély megadásának idejét és időbeli hatályát.
+
+(2)[^63] A nyilvántartásba vételt végző szervezet a 8. § (1a) bekezdése szerinti igazolványt kizárólag magyar nyelven állítja ki.
+
+### 8/B. §[^64]
+
+(1)[^65] A számviteli törvény 152/B. §-a szerinti, határon átnyúló könyvviteli szolgáltatást végző természetes személy (a továbbiakban: szolgáltatásnyújtó) bejelentésére és nyilvántartásba vételére az elismerési törvény, továbbá a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóság kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet (a továbbiakban: elismerési kormányrendelet) előírásait az e §-ban foglaltak figyelembevételével kell alkalmazni.
+
+(2)[^66] A szolgáltatásnyújtó a tevékenység folytatására irányuló szándékát írásbeli nyilatkozatban jelenti be a nyilvántartásba vételt végző szervezetnek. A bejelentésnek tartalmaznia kell:
+
+a) a számviteli törvény 151. § (5) bekezdés a) pont *aa)–ad)* és *af)* alpontjában szereplő adatokat,
+
+b) az elismerési kormányrendelet 3. §-a szerinti adatokat.
+
+(3)[^67] A bejelentéssel egyidejűleg igazolni kell az elismerési kormányrendeletben előírtakon túlmenően az igazgatási szolgáltatási díj megfizetését.
+
+(4)[^68] A határon átnyúló könyvviteli szolgáltatást végzők nyilvántartása tartalmazza a (2) bekezdésben, valamint – a szolgáltatásnyújtó önkéntes adatszolgáltatása esetén – a számviteli törvény 151. §-ának (9) bekezdésében meghatározott adatokat.
+
+(5)[^69] A szolgáltatásnyújtót a szakképesítését, illetve végzettségét igazoló dokumentumban szereplő szaknak és szakiránynak megfelelően, a 3. § (1), (2) és (12) bekezdésében meghatározott szakterületek valamelyikének megjelölésével kell bejelentése alapján a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásába felvenni.
+
+(6)[^70] A szolgáltatásnyújtó vagy törvényes képviselője 30 napon belül köteles bejelenteni az 1. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnek, amennyiben a számviteli törvény 151. §-a (6) bekezdésének b)–d) vagy f)–i) pontja szerinti körülmény merült fel. A bejelentés alapján a nyilvántartásba vételt végző szervezet a nyilvántartásból való törlésről intézkedik.
+
+(7)[^71] A bejelentés alapján könyvviteli szolgáltatást végzők nyilvántartásba vételére megfelelően alkalmazni kell a 8. § (3) bekezdésében foglalt rendelkezéseket. A nyilvántartásba vételt végző szervezet a bejelentés alapján a szolgáltatásnyújtónak a tevékenység folytatására való jogosultságát haladéktalanul ellenőrzi.
+
+(8)[^72] Ha ellenőrzése során megállapítja, hogy a szolgáltatásnyújtó a határon átnyúló szolgáltatásnyújtás jogával nem rendelkezik, vagy ha a számviteli törvény 151. §-a (6) bekezdésének b)–d), f) vagy i) pontjában meghatározott körülmények bekövetkeznek, a nyilvántartásba vételt végző szervezet hivatalból megtiltja a szolgáltatásnyújtónak a könyvviteli szolgáltatás nyújtását, és törli a szolgáltatásnyújtót a nyilvántartásból.
+
+### 9/A. §[^74]
+
+(1) A számviteli törvény 152. § (1) bekezdése szerinti szakmai továbbképzési kötelezettség alóli kimentési kérelem (a továbbiakban: kimentési kérelem) akkor fogadható el, ha a kérelmező nyilatkozik arról, hogy
+
+a)[^75] minden tőle elvárható lépést megtett a szakmai továbbképzési kötelezettség teljesítése érdekében és igazolja a kimentésre okot adó körülményt, továbbá
+
+b) a kérelmével érintett továbbképzési időszakban, a kimentésre okot adó körülmény felmerülését követően nem végezte a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését és nem nyújtott éves beszámoló, egyszerűsített éves beszámoló vagy összevont (konszolidált) éves beszámoló elkészítésére irányuló szolgáltatást.
+
+(2)[^76] A kimentési kérelmet a kérelemmel érintett továbbképzési évet követő évben, március 31-éig lehet előterjeszteni a nyilvántartásba vételt végző szervezetnél az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címen.
+
+(3) Egymást követő két továbbképzési évben kimentési kérelem nem fogadható el.
+
+(4) Egy kimentési kérelem alapján legfeljebb egy továbbképzési évre lehet felmentést adni.
+
+### 10. §[^77]
+
+(1)[^78] A számviteli törvény 152. § (1) bekezdése szerinti szakmai továbbképzési kötelezettség a könyvviteli szolgáltatás végzésére engedéllyel rendelkező személyt a nyilvántartásba vételét követő továbbképzési évtől kezdődően terheli. A továbbképzési év január 1-jétől december 31-éig tart.
+
+(1a)[^79] A könyvviteli szolgáltatást végző személy (1) bekezdés szerinti éves továbbképzési kötelezettsége a nyilvántartásban szereplő szakterületének év közbeni változásától függetlenül fennáll.
+
+(1b)[^80] Ha a könyvviteli szolgáltatást végző személy az adott továbbképzési évben további szakterület nyilvántartásba vételét kérelmezi (szakterület-kiegészítés), az újonnan nyilvántartásba vett szakterületre vonatkozó továbbképzési kötelezettsége ezen szakterület nyilvántartásba vételének évét követően terheli, kivéve, ha az adott továbbképzési évben a korábban nyilvántartásba vett szakterületének törlésére került sor.
+
+(2)[^81]
+
+(3)[^82] A nyilvántartásba vett személyek szakmai továbbképzésének szervezésére és lebonyolítására jelentkező szervezetek 10/A. § (1) bekezdése szerinti akkreditációs eljárásával, valamint a kreditpont-minősítési eljárással kapcsolatos tájékoztatót a nyilvántartásba vételt végző szervezet közzéteszi az egységes Kormányzati Portálon.
+
+(4)[^83] Az (1) bekezdés szerinti továbbképzési kötelezettség teljesítése szempontjából – a 10/B. § (7) bekezdésében foglaltakon túlmenően – az olyan továbbképző szervezet által folytatott, kreditpont-minősítési eljárás során minősített képzésen való részvétel fogadható el, amely szervezet megfelel a 10/A. §-ban meghatározott akkreditációs feltételeknek. Az akkreditált szervezetek nyilvános adatait a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon, a 10/A. § (1) bekezdés szerinti akkreditációs eljárás befejezését követő hónap végéig közzéteszi.
+
+(5)[^84]
+
+### 10/A. §[^85]
+
+(1)[^86] A könyvviteli szolgáltatást végzők továbbképzésére irányuló képzések szervezését és lebonyolítását az a szervezet végezheti, amely a felnőttképzési törvény szerinti felnőttképző, és megfelel a (4) bekezdésben foglalt feltételeknek (a továbbiakban: szervezet).
+
+(2)[^87] A szervezet az (1) bekezdés szerinti képzések szervezésére és lebonyolítására irányuló bejelentést a 4. számú mellékletben meghatározott tartalommal és az (5) bekezdés szerinti feltételek igazolásával kell a nyilvántartásba vételt végző szervezetnek benyújtani.
+
+(3)[^88] A nyilvántartásba vételt végző szervezet az akkreditációs eljárás során, a bejelentést követően ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívás közlésétől számított nyolc napig van lehetősége.
+
+(4)[^89] Az (1) bekezdés szerinti képzések szervezését és lebonyolítását az a szervezet végezheti, amely megfelel az alábbi feltételeknek:
+
+a)[^90] rendelkezik – a bejelentést megelőző öt évben szerzett – legalább 3 éves, pénzügyi, számviteli területen szerzett oktatásszervezési vagy továbbképzési gyakorlattal,
+
+b)[^91] rendelkezik a tervezett számú továbbképzéshez szükséges (vállalt szakterületenként legalább 2 fő), – a bejelentést megelőző öt évben szerzett – legalább 3 éves pénzügyi, számviteli vagy adózási területen folytatott szakmai és oktatási gyakorlattal és az oktatott témának megfelelő szakirányú felsőfokú végzettséggel rendelkező oktatói kapacitással,
+
+c)[^92] rendelkezik a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételekkel, ideértve az oktatással kapcsolatos nyilvántartási rendszert is,
+
+d)[^93] rendelkezik minőségpolitikával, minőségirányítási rendszerrel, minőségcélokkal, önértékelési rendszerrel,
+
+e)[^94] megfelel a számviteli törvény 152. § (2a) és (2b) bekezdésében meghatározott követelménynek,
+
+f)[^95] az akkreditációs eljárás megkezdése előtt, az igazgatási szolgáltatási díjat megfizette,
+
+g)[^96] a bejelentés időpontjában az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.
+
+(5)[^97] A szervezetnek a 4. számú mellékletben meghatározott tartalmú akkreditáció iránti kérelem benyújtásakor igazolnia kell, hogy
+
+a) a (4) bekezdés b) pontja szerinti, a szervezettel munkavégzésre irányuló jogviszonyban álló oktatók
+
+aa) szakirányú felsőfokú végzettséggel, valamint releváns szakképesítéssel rendelkeznek,
+
+ab) a szakterületnek megfelelő – a kérelem benyújtását megelőző 5 évben megszerzett – legalább 3 éves pénzügyi, számviteli vagy adózási területen folytatott szakmai és oktatási gyakorlattal rendelkeznek,
+
+ac) a kérelemben feltüntetett adataiknak – az akkreditációs feltételek fennállásának ellenőrzése érdekében – a szervezet és a nyilvántartásba vételt végző szervezet által történő kezeléséhez hozzájárulnak, valamint
+
+ad) a szervezetnél oktatást vállalnak, továbbá
+
+b) a (4) bekezdés e)–g) pontjában meghatározott feltételeknek megfelel.
+
+(6)[^98]
+
+(7)[^99]
+
+(8)[^100]
+
+(8a)[^101] A továbbképzésben való közreműködésre felkért, eseti megbízással foglalkoztatott oktatók esetében az oktatók szakirányú felsőfokú végzettségét igazoló oklevél másolatát és részletes szakmai önéletrajzát, továbbá az oktatók nyilatkozatát, hogy a szervezetnél oktatást vállalnak, a szervezetnek az oktatók foglalkoztatását megelőzően be kell kérnie és az oktató utolsó eseti megbízásától számított 8 évig meg kell őriznie.
+
+(9)[^102] Az akkreditációval rendelkező szervezeteket a nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szervezetként nyilvántartásba veszi. A nyilvántartás tartalmazza:
+
+a) a szervezet által az akkreditáció iránti kérelmében megadott adatait,
+
+b) a szervezet nyilvántartásba vételi sorszámát (akkreditációs sorszámát),
+
+c) a szervezet nyilvántartásba vételének (akkreditációjának) időpontját,
+
+d) a szervezet továbbképzési tevékenységével összefüggésben a nyilvántartásba vételt végző szervezet által lefolytatott ellenőrzések eredményét (ide értve a (11a) bekezdés szerinti figyelmeztetést, felfüggesztést, akkreditáció visszavonását),
+
+e) a szervezet nyilvántartásból való törlésének (akkreditáció visszavonásának) időpontját és indokát.
+
+f)[^103] a szervezet felnőttképzők nyilvántartásába történő felvétele során képzett, nyilvántartásba vételi számát.
+
+(9a)[^104] Az akkreditációval rendelkező szervezet az akkreditáció alapjául szolgáló feltételeket érintő változásokat 8 napon belül köteles bejelenteni a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
+
+(10)[^105] Az akkreditációval rendelkező szervezet a nyilvántartásban szereplő adataiban bekövetkezett változásokat 60 napon belül köteles bejelenteni a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
+
+(11)[^106] A kreditpont-minősítési kérelem elfogadása esetén a lebonyolításra kerülő továbbképzési program megvalósítását, az akkreditált szervezet kérelmében vállalt feltételeknek való megfelelését, valamint a továbbképzés szervezésével és lebonyolításával kapcsolatos tevékenységét a nyilvántartásba vételt végző szervezet folyamatosan ellenőrzi.
+
+(11a)[^107] Amennyiben az ellenőrzés során megállapítást nyer, hogy az akkreditált szervezet továbbképzési tevékenységét nem az e rendeletben előírt feltételek, valamint az akkreditációs és a kreditpont-minősítési kérelemben foglaltak szerint végzi,
+
+a)[^108] első alkalommal tapasztalt szabálytalanság esetén a nyilvántartásba vételt végző szervezet – határidő kitűzésével – felhívja a szervezetet a szabálytalanság megszüntetésére,
+
+b)[^109] ugyanazon továbbképzési évben második alkalommal tapasztalt szabálytalanság esetén a nyilvántartásba vételt végző szervezet az ellenőrzés eredményéről szóló döntés kézhezvételét követő naptól kezdődően két hónapra felfüggeszti a szervezet továbbképzés szervezésére való jogosultságát,
+
+c)[^110] ugyanazon továbbképzési évben harmadik alkalommal tapasztalt szabálytalanság esetén a nyilvántartásba vételt végző szervezet az ellenőrzés eredményéről szóló döntés kézhezvételét követő naptól kezdődően visszavonja az akkreditációt.
+
+(11b)[^111] A (11) bekezdés szerinti ellenőrzésre a nyilvántartásba vételt végző szervezet által megbízólevéllel erre feljogosított személy jogosult. A megbízólevél tartalmazza az ellenőrzést végző személy nevét, továbbá, hogy mely szervezetnél, mely időszakban, mely kötelezettségek ellenőrzésére jogosult. Az ellenőrzés eredményéről a nyilvántartásba vételt végző szervezet jegyzőkönyv megküldésével értesíti az akkreditációval rendelkező szervezetet, amelyre az akkreditációval rendelkező szervezet 8 napon belül észrevétellel élhet. A nyilvántartásba vételt végző szervezet a jegyzőkönyv és az akkreditációval rendelkező szervezet észrevétele alapján hoz döntést az ellenőrzés eredményéről.
+
+(11c)[^112]
+
+(12)[^113] A nyilvántartásba vételt végző szervezet visszavonja továbbá az akkreditációt akkor, ha
+
+a) a szervezet két egymást követő továbbképzési évben könyvviteli szolgáltatást végzők továbbképzésére irányuló tevékenységet nem végez,
+
+b) megállapítást nyer, hogy a szervezet a 10/A. §-ban foglalt feltételeknek az akkreditációs eljárás időpontjában nem felelt meg, vagy ezen feltételek az eljárás lefolytatását követően már nem állnak fenn,
+
+c) a szervezet azt maga kérelmezi,
+
+d) a szervezet jogutód nélkül megszűnik,
+
+e)[^114] a szervezet a (9a) bekezdés szerinti adatváltozás-bejelentési kötelezettségét elmulasztja,
+
+f)[^115] a szervezet a (10) bekezdés szerinti adatváltozás-bejelentési kötelezettségének a nyilvántartásba vételt végző szervezet felszólítását követően sem tesz eleget.
+
+(13)[^116] Az akkreditáció a visszavonásig hatályos. Az akkreditáció nem adható újra a jogosultság (11a) bekezdés c) pontja, valamint (12) bekezdés b) pontja szerinti visszavonásától számított 2 éven belül. A jogosultság visszavonásának tényét a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon közzéteszi.
+
+(14)[^117] Az akkreditációs eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni a számviteli törvényben és az e rendeletben foglaltak figyelembevételével.
+
+(15)[^118]
+
+### 10/B. §[^119]
+
+(1) A szakmai továbbképzésre kötelezett könyvviteli szolgáltatást végző személy (a továbbiakban: továbbképzésre kötelezett) a 10. § (1) bekezdése szerinti szakmai továbbképzési kötelezettségét az e rendelet szerinti kreditpont-minősítési eljárás keretében megállapított kreditpontok megszerzésével teljesíti.
+
+(2)[^120] A továbbképzésre kötelezettnek minden egyes továbbképzési évben összesen legalább 16 kreditpontot kell megszereznie. Az adott továbbképzési évben a 16 kreditponton felül megszerzett többlet-kreditpontok nem vehetők figyelembe a következő évek továbbképzési kötelezettsége teljesítése szempontjából. Ugyanazon minősített továbbképzési program – ide értve annak elektronikus változatát – csak egyszer jogosít kreditpontra.
+
+(2a)[^121] A 10/D. § (3b) bekezdése szerinti államháztartási szakterületre minősített egységes tematikájú továbbképzési program teljesítése – ideértve annak elektronikus változatát is – továbbképzési évenként csak egyszer jogosít kreditpontra.
+
+(3) A 16 kreditpontból legalább 8 kreditpontot számvitel témakörben minősített szakmai továbbképzésen kell teljesíteni.
+
+(4) A továbbképzésre kötelezettnek a (2) bekezdés szerinti kreditpont értékből minden szakterületen, amelyen regisztrációval rendelkezik, legalább 4 kreditpontot a szakterületeire minősített speciális továbbképzéseken kell megszereznie.
+
+(5)[^122] A (3) és (4) bekezdés szerinti kötelezettségek teljesítésébe nem számít be a (7) bekezdésnek megfelelően megszerzett kreditpontok értéke.
+
+(6)[^123]
+
+(7) Továbbképzési évenként legfeljebb 2 kreditpont számítható be a továbbképzés teljesítésébe, ha a továbbképzésre kötelezett a továbbképzési év során – a (8) bekezdés szerinti szakmai szervezet tagjaként – jogosult a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken részt venni.
+
+(8)[^124] A (7) bekezdés alkalmazásában szakmai szervezetnek minősül a honos joga alapján létrejött azon egyesület, köztestület, amely megfelel az alábbi feltételeknek:
+
+a) az adott továbbképzési év kezdetét megelőzően legalább 2 évvel megkezdte tevékenységét, amelynek során a pénzügyi ágazatba tartozó témakörökben szakmai konzultációk, képzések, szakmai rendezvények szervezését is végzi tagjai számára,
+
+b) nyilatkozik arról, hogy az általa szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken évente legalább 200 különböző, könyvviteli szolgáltatást végző személy jogosult részt venni tagként,
+
+c) évente legalább 5 olyan szakmai konzultációt, képzést, szakmai rendezvényt szervez, amely lehetőséget biztosít a könyvviteli szolgáltatást végző tagok számára a tevékenységük gyakorlása során felmerült kérdések megvitatására.
+
+(8a)[^125] A (7) bekezdés alkalmazásában szakmai szervezetnek minősül a honos joga alapján létrejött gazdálkodó által működtetett szakmai szerveződés is, amennyiben az alábbi feltételek teljesülnek:
+
+a) az adott továbbképzési év kezdetét megelőzően a gazdálkodó legalább 2 éve megkezdte a szakmai szerveződés működtetését, amelynek keretében a pénzügyi ágazatba tartozó témakörökben szakmai konzultációk, képzések, szakmai rendezvények szervezését is végzi,
+
+b) a gazdálkodó nyilatkozik arról, hogy az általa működtetett szakmai szerveződés által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken évente legalább 200 különböző, könyvviteli szolgáltatást végző személy, mint a szakmai szerveződés tagja jogosult részt venni,
+
+c) a gazdálkodó évente legalább 5 olyan szakmai konzultációt, képzést, szakmai rendezvényt szervez a szakmai szerveződés keretében, amely lehetőséget biztosít a könyvviteli szolgáltatást végzők, mint a szakmai szerveződés tagjai számára a tevékenységük gyakorlása során felmerült kérdések megvitatására.
+
+(8b)[^126] Szakmai szerveződés tagja az a természetes személy, aki a gazdálkodó által működtetett szakmai szerveződés létrehozásáról és működtetéséről szóló dokumentumban meghatározott feltételeknek megfelel és a tagokról vezetett nyilvántartásban szerepel.
+
+(8c)[^127] A (8a) bekezdés szerinti szakmai szerveződés tekintetében a (9) és (10) bekezdés szerinti kötelezettséget a működtető gazdálkodó teljesíti.
+
+(9)[^128] A (7) bekezdés szerinti kreditpont elismerésének feltétele, hogy a (8) bekezdés szerinti szervezet kérje a szakmai szervezetként történő elismerését, valamint a (8a) bekezdés szerinti gazdálkodó kérje a szakmai szerveződés szakmai szervezetként történő elismerését a nyilvántartásba vételt végző szervezettől (a továbbiakban: szakmai szervezeti minősítési eljárás). Szakmai szervezeti minősítési eljárás iránti kérelmet
+
+a) a (8) bekezdés szerinti szervezet a (8) bekezdés a)–c) pontjában,
+
+b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
+
+foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazolásával, a 12. számú mellékletben meghatározott adattartalommal nyújthatja be a nyilvántartásba vételt végző szervezetnek.
+
+(9a)[^129] A szakmai szervezetként minősített szervezetet a nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szakmai szervezetként veszi nyilvántartásba.
+
+(10)[^130] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
+
+(11) A (7)–(8) bekezdés alkalmazásában szakmai szervezet tagja az a természetes személy, aki a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek. A szakmai szervezet tagjának minősül az a természetes személy is, akinek foglalkoztatója a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napján tagja a szakmai szervezetnek, feltéve, hogy foglalkoztatója nevében a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken jogosult részt venni.
+
+(12)[^131] A (9a) bekezdés szerint nyilvántartásba vett szakmai szervezet a szakmai szervezeti minősítés feltételeit érintő változásokat azok bekövetkezését követő 8 napon belül, a nyilvántartásban szereplő adataiban bekövetkezett változásokat azok bekövetkezését követő 60 napon belül köteles bejelenteni a 12. számú mellékletben meghatározott adattartalommal és az adatváltozást igazoló dokumentum csatolásával a nyilvántartásba vételt végző szervezetnél.
+
+(13)[^132] A (9a) bekezdés szerinti szakmai szervezeti minősítés annak visszavonásáig hatályos. A minősítés visszavonását és ezzel együtt a nyilvántartásból való törlés tényét a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon közzéteszi.
+
+(13a)[^133] A nyilvántartásba vételt végző szervezet visszavonja a minősítést, és törli a szervezetet a szakmai szervezetek nyilvántartásából, ha
+
+a) a szervezet két egymást követő továbbképzési évben (10) bekezdés szerinti bejelentést nem tesz,
+
+b) megállapítást nyer, hogy a szervezet a (8)–(8b) bekezdésben foglalt feltételeknek a minősítési eljárás időpontjában nem felelt meg, vagy ezen feltételek már nem állnak fenn,
+
+c) azt a szervezet maga kérelmezi,
+
+d) a szervezet jogutód nélkül szűnt meg,
+
+e) a szervezet a (12) bekezdés szerinti, a minősítés feltételeit érintő változások bejelentési kötelezettségét elmulasztja, vagy
+
+f) a szervezet a (12) bekezdés szerinti adatváltozás-bejelentési kötelezettségét elmulasztja, és e kötelezettségének a nyilvántartásba vételt végző szervezet felszólítását követően sem tesz eleget.
+
+(13b)[^134] A szakmai szervezeti minősítési eljárás során az Ákr. rendelkezéseit kell alkalmazni a számviteli törvényben és az e rendeletben foglaltak figyelembevételével.
+
+(14)[^135] A számviteli törvény 151. § (5) bekezdés b) pont bd) alpontja szerinti szakmai továbbképzési kötelezettség teljesítésére a (7)–(11) bekezdés, valamint a 9/A. § előírásai nem alkalmazhatóak.
+
+### 10/C. §[^136]
+
+(1)[^137] Az 1., 4., 10. és 12. számú mellékletben meghatározott tartalmú, kötelezően használatos, a hatóság által rendszeresített nyomtatványokat és a benyújtásukra vonatkozó tájékoztatót a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon teszi közzé.
+
+(2)[^138]
+
+(3)[^139]
+
+(4)[^140]
+
+(5)[^141]
+
+### 10/D. §[^142]
+
+(1) Kreditpont-minősítési eljárás keretében az akkreditált szervezet továbbképzési programját – minősítésre – a 10. számú mellékletben meghatározott adattartalmú kérelemmel nyújthatja be a nyilvántartásba vételt végző szervezetnek.
+
+(2)[^143] A szabályszerűen benyújtott (1) bekezdés szerinti kérelem alapján a program szakmai tartalmára, aktualitására, időtartamára, a tartalom és az időkeret, a tartalom és a cím összhangjára, valamint a program elméleti és gyakorlati jellegére figyelemmel kell a továbbképzési program kreditpont-értékét meghatározni.
+
+(2a)[^144] Az (1) bekezdés szerinti kérelem benyújtásával egyidejűleg igazolni kell, hogy
+
+a) a kérelemben megjelölt oktatók
+
+aa) szakirányú felsőfokú végzettséggel, valamint releváns szakképesítéssel rendelkeznek,
+
+ab) a szakterületnek megfelelő – a kérelem benyújtását megelőző 5 évben megszerzett – legalább 3 éves pénzügyi, számviteli vagy adózási területen folytatott szakmai és oktatási gyakorlattal rendelkeznek,
+
+ac) a kérelemben feltüntetett adataiknak a szervezet és a nyilvántartásba vételt végző szervezet által történő kezeléséhez hozzájárulnak, valamint
+
+ad) a szervezetnél oktatást vállalnak, továbbá
+
+b) a szervezet az eljárás igazgatási szolgáltatási díját megfizette.
+
+(2b)[^145] A (2a) bekezdés a) pontja szerinti feltételeket az adott továbbképzési évben első alkalommal megküldött kérelem benyújtása során kell igazolni, amennyiben azok adattartalma az adott továbbképzési év során nem változott, és erről az akkreditált szervezet a továbbképzési év során benyújtott további kreditpont-minősítési kérelemben nyilatkozatot tesz.
+
+(3)[^146]
+
+(3a)[^147] Ha a kreditpont-minősítési kérelem elektronikus képzési formában megvalósuló továbbképzési program minősítésére irányul, a kérelemben fel kell tüntetni a továbbképzés oktatási programját, az elektronikus képzés programjához való hozzáférési azonosítót, valamint a továbbképző szervezet nyilatkozatát arról, hogy az elektronikus képzési rendszere megfelel a 10/E. § (4) bekezdésében foglalt elektronikus továbbképzés feltételeinek, ideértve az igazolás kiállítását, a résztvevők nyilvántartását és az ellenőrzés módszerét is.
+
+(3b)[^148] A kreditpont-minősítési eljárás során államháztartási szakterületre csak a nyilvántartásba vételt végző szervezet által az egységes Kormányzati Portálon közzétett egységes tematikájú továbbképzési program minősíthető.
+
+(4)[^149] A nyilvántartásba vételt végző szervezet az (1) bekezdés szerinti kérelmek elbírálása során ellenőrzi, hogy a benyújtott dokumentumok megfelelnek-e az e rendeletben és a továbbképzési programokra vonatkozóan meghatározott követelményeknek, és szükség esetén hiánypótlásra hívja fel a szervezetet. A szervezetnek a hiánypótlásra a hiánypótlási felhívásról való tudomásszerzéstől számított nyolc napon belül van lehetősége.
+
+(5)[^150] A nyilvántartásba vételt végző szervezet a minősített továbbképzési programok adatait a kreditpont-minősítési eljárás befejezését követő hónap 15-éig közzéteszi az egységes Kormányzati Portálon, a program szakterületi besorolásával, témakör szerinti besorolásával, kreditpont-értékével és oktathatósági időszakával (a továbbiakban: elszámolhatósági időszak) együtt.
+
+(6)[^151] A minősített továbbképzési program minősítése az elszámolhatósági időszak alatt, visszavonás esetén a visszavonásig hatályos.
+
+(7)[^152]
+
+(8)[^153] A kreditpont-minősítési eljárás során az Ákr. rendelkezéseit kell alkalmazni az e rendeletben foglaltak figyelembevételével.
+
+### 10/E. §[^154]
+
+(1) A továbbképzési programok megvalósíthatók kontakt vagy elektronikus képzés formájában.
+
+(2) Kontakt képzésnek minősül az a továbbképzés, amelynek teljes időtartama alatt a képzés helyszínén a résztvevő személyesen jelen van.
+
+(3) Elektronikus képzésnek minősül minden olyan képzés, továbbképzés, amelynek tananyaga elektronikus közvetítő felületen keresztül jut el a képzésben részt vevőhöz, akinek a képzésben való részvétele során kifejtett tevékenysége ezen elektronikus közvetítő felületen keresztül valósul meg. Az elektronikus képzés formája e-learning vagy online képzés lehet.
+
+(3a)[^155] E § alkalmazásában
+
+a) *e-learning képzés:* olyan elektronikus képzés, amelyet a résztvevő az oktató előadásáról előre rögzített, kép- és hanganyagot tartalmazó felvétel vagy egyéb előre rögzített szöveges tananyag megtekintésével teljesít, hangot és képet továbbító elektronikus felületen keresztül, a rendelkezésére álló, a (4) bekezdés b) pont bd) alpontja szerinti időkereten belül saját időbeosztásában;
+
+b) *online képzés:* olyan elektronikus képzés, amelyet a résztvevő valós időben zajló, élő előadás közvetítésének megtekintésével teljesít, hangot és képet továbbító elektronikus felületen keresztül, az élő előadás teljes időtartamában és azzal azonos időben.
+
+(4) Az akkreditált szervezet a továbbképzési programot akkor szervezheti és bonyolíthatja elektronikus képzési formában, valamint az elektronikus továbbképzési program akkor minősíthető kreditpontra, ha az akkreditált szervezet
+
+a) elektronikus képzési rendszere által biztosított a résztvevő által teljesített továbbképzési program kezdeti és befejezési időpontjának perc pontosságú rögzítése, valamint a képzésben való folyamatos jelenlétének ellenőrzése,
+
+b) az akkreditált szervezet elektronikus képzési rendszerének elektronikus naplójában rögzíthető, valamint a továbbképzésen való részvételkor és azt követő 8 évig ellenőrizhető, hogy a továbbképzésre kötelezett személy,
+
+ba) az elektronikus felületre bejelentkezve a továbbképzési programot – több oktatási egység, modul esetén az egyes egységeket, modulokat – megkezdte és a továbbképzési program – több oktatási egység, modul esetén az egyes egységek, modulok – befejezéséig a képzésben kijelentkezés nélkül részt vett,
+
+bb) a továbbképzés oktatási programjának kreditpont-minősítési kérelemben megadott teljes időtartama alatt jelen volt, ezáltal a továbbképzés oktatási programjának egészét, annak valamennyi oktatási egységét, modulját teljesítette,
+
+bc)[^156] egy adott továbbképzési program megkezdését követően, annak befejezéséig újabb továbbképzési programot nem kezdett meg,
+
+bd) a megkezdett továbbképzési programot legkésőbb a kezdéstől számított 60 napon belül teljesítette, legkésőbb az adott továbbképzési év utolsó napjáig,
+
+c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolást a továbbképzési program teljes egészének teljesítése esetén, a teljesítés *b)* pontban foglalt feltételeinek ellenőrzését követően, legkésőbb 10 napon belül kiállítja.
+
+(5) A megvalósított elektronikus képzésért az akkreditált szervezet a továbbképzésben részt vevő személy számára csak akkor állíthat ki kreditpont-igazolást, ha a továbbképzés teljesítése a (4) bekezdés b) pontjában foglalt feltételeknek megfelel.
+
+(6) A továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe csak akkor számítható be az elektronikus képzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést a (4) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
+
+### 10/G. §[^158]
+
+Az akkreditált szervezet köteles:
+
+a)[^159] a továbbképzéseket az e rendelet, valamint a kreditpont-minősítési kérelemben rögzített tematika szerint, a kérelemben foglalt időtartamban, oktatásra alkalmas körülmények között, szakirányú felsőfokú végzettséggel és – az adott továbbképzési évet megelőző öt évben megszerzett – legalább 3 éves oktatói gyakorlattal rendelkező oktatókkal, a saját neve alatt szervezni és lebonyolítani,
+
+b)[^160] legalább a továbbképzés időpontját – elektronikus képzés esetén az elektronikus képzési tevékenység megkezdését – megelőző 11. napon bejelenteni az egységes Kormányzati Portálon erre a célra rendszeresített internetes felületen keresztül a tervezett továbbképzések kreditpont-minősítési kérelem szerinti adatait, biztosítani a bejelentett továbbképzések ellenőrizhetőségét;
+
+c)[^161] a kreditpont-minősítési kérelemben megjelölt oktató személyében bekövetkezett változást a *b)* pont szerinti felületen keresztül haladéktalanul, de legkésőbb a képzés megkezdése előtt bejelenteni, valamint annak igazolását, hogy a bejelentett új oktató a 10/D. § (2a) bekezdés a) pontja szerinti feltételeknek megfelel, az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címre megküldeni,
+
+d) elektronikus képzés esetén ellenőrzés céljából folyamatos hozzáférést biztosítani az elektronikus képzés továbbképzési programjához a nyilvántartásba vételt végző szervezet számára,
+
+e)[^162] ha azt a kreditpont-minősítési kérelemben vállalta, a továbbképzés megkezdésekor valamennyi résztvevő számára térítésmentesen biztosítani információs anyagot,
+
+f) a továbbképzéseken a részvétel igazolására jelenléti ívet vezetni a 6. számú mellékletben meghatározott adattartalommal; elektronikus képzés esetén elektronikus naplózással nyilvántartani az elektronikus képzési programot teljesítőket,
+
+g)[^163] kontakt képzés esetén a jelenléti ív(ek)et a továbbképzés lebonyolítását követően lezárni, és legkésőbb 5 munkanapon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon megjelenő tájékoztatóban közzétett címre,
+
+h)[^164] a nyilvántartásba vételt végző szervezet részére bejelenteni a továbbképzésen részt vevők adatait – a továbbképzésen való részvételi kötelezettség teljesítésének igazolása céljából – a számviteli törvény 152. § (4) bekezdésében meghatározott adattartalommal az egységes Kormányzati Portálon erre a célra rendszeresített internetes felületen keresztül, kontakt képzés esetén a jelenléti íveken feltüntetett adatok alapján , valamint online képzés esetén az elektronikus naplózás alapján legkésőbb a továbbképzés lebonyolítását követő 30 napon belül, e-learning képzés esetén az elektronikus naplózás alapján a továbbképzési program befejezését követő 60 napon belül, de legkésőbb az elektronikus továbbképzési program elszámolhatósági időszakának végétől számított 30 napon belül,
+
+i)[^165] az elszámolhatóság időszakában lebonyolított továbbképzések vonatkozásában a továbbképzésen való részvételről, a továbbképzés időpontjáról és a megszerzett kreditpontokról igazolást kiadni a képzés befejezését követő 30 napon belül a továbbképzés teljes időtartamán részt vevők részére a 11. számú mellékletben meghatározott adattartalommal, elektronikus képzés esetén az elektronikus továbbképzést a 10/E. § (4) bekezdés b) pontjában foglalt szabályok szerint teljesítő résztvevők részére az elektronikus képzési rendszeren keresztül, utólag nem szerkeszthető formátumban,
+
+j) a továbbképzésekről a számviteli törvény 152. § (4) bekezdésében meghatározott adattartalommal nyilvántartást vezetni, amelyből egyértelműen nyomon követhető, hogy a továbbképzésen részt vevő személy mely továbbképzésen, mennyi kreditpontról kapott igazolást,
+
+k)[^166] az általa vezetett nyilvántartásokat (ideértve a jelenléti íveket és valamennyi továbbképzéssel összefüggő dokumentációt is) legalább 8 évig megőrizni.
+
+l)[^167] kontakt képzés esetén a *b)* pont szerint bejelentett időpontban és helyszínen a továbbképzés teljes időtartama alatt az akkreditált szervezet képviseletére legalább 1 fő részvételét biztosítani a továbbképzés adminisztratív teendőinek ellátására, valamint a továbbképzés szabályoknak megfelelő lebonyolítása érdekében,
+
+m)[^168] a Kormányzati Portálon közzétett, a továbbképzések szervezésének és lebonyolításának szabályairól szóló tájékoztatóban foglaltakat betartani.
+
+n)[^169] online továbbképzés esetén a 10/E. § (4) bekezdése szerinti elektronikus naplózást legkésőbb 5 napon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon közzétett tájékoztatóban megjelölt címre;
+
+o)[^170] e-learning továbbképzés esetén a 10/E. § (4) bekezdése szerinti elektronikus naplózást legkésőbb az elszámolhatósági időszak végét követő 5 napon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon közzétett tájékoztatóban megjelölt címre.
+
+### 10/H. §[^171]
+
+A 10/G. § b) pontjában foglalt bejelentési kötelezettség elmulasztása esetén a továbbképző a továbbképzési programot kreditpontos képzésként nem tarthatja meg, nem állíthat ki kreditpont-igazolást a résztvevőnek, és a továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe a továbbképzési program minősítésekor megállapított kreditpont nem számítható be.
+
+## Záró és átmeneti rendelkezések
+
+### 11. §
+
+(1) Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+(2)[^172]
+
+### 11/A. §[^173]
+
+(1)[^174]
+
+(2)[^175]
+
+(3)[^176]
+
+(4)[^177]
+
+(5)[^178]
+
+(6)[^179]
+
+(7)[^180]
+
+(8)[^181] Ha a 2017. december 31-e előtt hatályos előírások szerint a mérlegképes könyvelői szakképesítéssel – az engedélyezés szempontjából – egyenértékűnek minősített oklevél alapján nyilvántartásba vett személy könyvviteli szolgáltatás végzésére jogosító engedélyének visszavonására kerül sor, a számviteli törvény 151. § (7) bekezdése alapján benyújtott újbóli nyilvántartásba vételi kérelem esetén a korábbi nyilvántartásba vételi eljárás során egyenértékűnek minősített oklevél az új eljárásban is egyenértékűnek minősül.
+
+(9)[^182] E rendelet 2018. január 1-jét megelőzően hatályos 3. §-ának (3)–(11) bekezdése, valamint 2. számú melléklete alapján nyilvántartásba vett személyek 2018. január 1-jét követően továbbra is jogosultak a könyvviteli szolgáltatási tevékenység végzésére, amennyiben a számviteli törvényben és az e rendeletben foglalt feltételeknek megfelelnek.
+
+(10)[^183] A könyvviteli szolgáltatást végzők továbbképzésére 2020. december 31-én akkreditációval rendelkező szervezetek a 10/A. § (1) bekezdésében meghatározott feltételeknek legkésőbb 2021. március 31-ig kötelesek eleget tenni. Egyebekben e szervezetekre ugyanazon jogok és kötelezettségek vonatkoznak, mint a 10/A. § alapján 2021. január 1-jét követően akkreditált szervezetekre.
+
+## Az Európai Unió jogának való megfelelés[^184]
+
+### 12. §[^185]
+
+(1)[^186] Ez a rendelet az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének való megfelelést szolgálja.
+
+(2)[^187] Ez a rendelet a belső piaci szolgáltatásokról szóló 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 9. cikk (1) bekezdésének és 17. cikk (6) bekezdésének, valamint kizárólag a továbbképzésre irányuló szolgáltatás tekintetében a 16. cikkének való megfelelést szolgálja.
+
+## 1. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^188]
+
+**ADATLAP**
+
+**a könyvviteli szolgáltatási tevékenység végzésére jogosító nyilvántartásba való felvételhez**
+
+**(az igazolvány kiadásához), az igazolvány pótlásához, cseréjéhez, az adatváltozás bejelentéséhez, valamint a nyilvántartásból való törléshez**[^1.]
+
+Az adatlap kötelező tartalmi elemeit az 1–2. és 4–6. pontok foglalják magukba.
+
+1\. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Korm. rendelet) alapján a könyvviteli szolgáltatási tevékenység végzésére jogosító
+
+– nyilvántartásba történő felvételét (az igazolvány kiadását)[^2.]
+
+– igazolványa pótlását (elveszett, ellopott, megsemmisült igazolvány esetén)<sup>3</sup>
+
+– igazolványa cseréjét<sup>3</sup>
+
+= megrongálódás miatt, illetve
+
+= adatváltozás esetén, (amennyiben a változás érinti az igazolványon szereplő adatokat)
+
+• névváltozás,
+
+• szakterület-kiegészítés,
+
+• szakterület-törlés,
+
+– a nyilvántartásban szereplő egyéb adataiban történt változás(ok) átvezetését[^3.]
+
+– nyilvántartásból való törlését[^4.]
+
+kéri.
+
+2\. Az adatlapnak tartalmaznia kell a következő adatokat:
+
+a) családi és utónév,
+
+b) születési családi és utónév,
+
+c) születési hely,
+
+d) születési idő,
+
+e) anyja születési családi és utóneve,
+
+f) lakcím (irányítószám, helység, utca, házszám),
+
+g) levelezési cím (irányítószám, helység, utca, házszám), telefonszám, elektronikus elérhetőség,
+
+h) regisztrálási szám,[^5.]
+
+i) szakmai képesítés megnevezése (mérlegképes oklevél száma, kiállító intézmény neve, kiállítás kelte, oklevél szerinti szak/szakirány megnevezése, okleveles könyvvizsgálói oklevél száma, kiállító intézmény neve, kiállítás kelte),
+
+j) a számviteli törvényben meghatározott idejű számviteli, pénzügyi vagy ellenőrzési szakmai gyakorlat ismertetése fordított időrendi sorrendben [gyakorlat megszerzésének helye, végzett tevékenység(ek), gyakorlat időtartama: év, hónap, naptól – év, hónap, napig],
+
+k) a szakterület, amelyre a felvételét kéri
+
+l)
+
+3\. Nem kötelező, a kérelmező önkéntes adatszolgáltatása alapján (amennyiben azokat az adatlapon feltünteti) kerülnek a nyilvántartásba a következő adatok:
+
+a)
+
+b)
+
+c) egyéb szakmai képesítés megnevezése (oklevél, bizonyítvány száma, kiállító intézmény neve, kiállítás kelte),
+
+d) nyelvvizsga (nyelv, típus, fokozat).
+
+4\. Nyilatkozatok:
+
+a) „Büntetőjogi felelősségem tudatában kijelentem, hogy a fenti adatlapon szereplő adatok a valóságnak megfelelnek, nincs tudomásom olyan körülményről, amely a Korm. rendelet szerinti
+
+– nyilvántartásba történő felvételemet (az igazolvány kiadását),
+
+– igazolvány pótlását, cseréjét
+
+kizárná.”
+
+b) „Tudomásul veszem, hogy a nyilvántartásban szereplő regisztrálási szám, regisztrálási szakterület, igazolványszám, név, születési név, anyja születési neve, valamint hozzájárulásom esetén a c) pontban megjelölt egyéb adataim külön rendelkezés nélkül, a számviteli törvény 151. §-ának (10) bekezdése szerint nyilvánosak.”
+
+c) „Hozzájárulok az alábbi – az adatlapon feltüntetett – személyes adataim Korm. rendelet szerinti nyilvánosságra hozatalához:[^6.]
+
+– lakcím,
+
+– levelezési cím,
+
+– születési hely, idő,
+
+– telefonszám,
+
+– elektronikus elérhetőség,
+
+– szakképesítés adatai,
+
+– egyéb szakképesítés,
+
+– nyelvvizsga,
+
+– szakmai gyakorlat.”
+
+d) „A számviteli törvény 151. § (5) bekezdés b) pont bc) alpontjában előírt feltételeknek való megfelelés igazolásának beszerzését az eljáró hatóságtól kérem. ”
+
+e)
+
+5\. Dátum[^8.]
+
+6\. A kérelmező aláírása<sup>8</sup>
+
+## 2. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^189]
+
+## 3. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^190]
+
+**Könyvviteli szolgáltatást végzők igazolványának tartalmi követelményei**
+
+A könyvviteli szolgáltatást végzők igazolványa az alábbi adatokat tartalmazza:
+
+1.[^191] Kibocsátó szervezet megnevezése: „Nemzetgazdasági Minisztérium”;
+
+2\. Igazolvány megnevezése: „Könyvviteli szolgáltatást végzők igazolványa”;
+
+3\. Regisztrálási szám;
+
+4\. Személyi azonosító adatok:
+
+4.1. Név,
+
+4.2. Születési hely, idő,
+
+4.3. Anyja születési neve;
+
+5\. Igazolványszám;
+
+6\. Regisztrálási szakterület megnevezése;
+
+7\. Fénykép;
+
+8.[^192] „A nemzetgazdasági miniszter ................................-t a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet alapján könyvviteli szolgáltatás végzése céljából ..................... számon nyilvántartásba vette, aki így könyvviteli szolgáltatási tevékenység folytatására jogosult.”
+
+9\. Igazolvány érvényességi ideje;
+
+10\. Az igazolvány kiállításának dátuma;
+
+11\. Kibocsátó aláírása, bélyegző lenyomata.
+
+## 4. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^193]
+
+**ADATLAP**
+
+**a szakmai továbbképzés szervezésére**\
+**és lebonyolítására jelentkező szervezetek (a továbbiakban: szervezet) akkreditáció iránti kérelméhez, valamint az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelméhez**[^194]
+
+Az adatlap kötelező tartalmi elemei a következők:
+
+1\. Az akkreditációhoz az adatlapon kötelezően szükséges megadni a következő adatokat:
+
+*a)* szervezet neve,
+
+*b)* szervezet hivatalosan rövidített neve,
+
+*c)* szervezet székhelye,
+
+*d)* szervezet levelezési címe,
+
+*e)* szervezet telefonszáma, faxszáma, elektronikus címe, honlapjának címe,
+
+*f)* szervezet felelős vezetőjének neve,
+
+*g)* szervezet felelős vezetőjének elérhetősége (telefonszám, elektronikus elérhetőség),
+
+*h)*[^195] a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, elérhetősége,
+
+*i)*[^196] a szervezet által vállalt továbbképzés szervezése (szakok megnevezése, azon belül csoportok száma),
+
+*j)*[^197] a szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírása,
+
+*k)*[^198] a szervezet legalább 3 éves – a bejelentést megelőző öt évben pénzügyi, számviteli területen folytatott – oktatásszervezési vagy továbbképzési tevékenységének rövid bemutatása,
+
+*l)*[^199] a szervezet oktatói (vállalt továbbképzéseknek megfelelő) létszáma,
+
+*m)*[^200] a szervezet oktatóinak név szerinti felsorolása, valamint szakmai és oktatói tevékenységének bemutatása,
+
+*n)*[^201] az oktatás lebonyolításához szükséges tárgyi, technikai feltételek részletes bemutatása,
+
+*o)*[^202] a tervezett továbbképzés paramétereinek részletes bemutatása (ár, helyszín, egyéb szolgáltatás stb.),
+
+*p)*[^203] a továbbképzés tervezett vagy meglévő nyilvántartási rendszerének bemutatása,
+
+*q)*[^204] szervezet cégjegyzékszáma, a szervezet adószáma
+
+*r)*[^205] tervezett elektronikus képzés esetén a szervezet elektronikus továbbképzési rendszerének bemutatása (technikai háttér, a képzés elérésének helye, megvalósításának módja, a naplózás, ellenőrzés módszere, igazolás kiállítása, a nyilvántartásba vételt végző szervezet tájékoztatásának módja stb.)
+
+*s)*[^206] a szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
+
+2\. Nyilatkozatok:
+
+*a)*[^207] „Kijelentem, hogy a fenti kérelemben feltüntetett, valamint a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti feltételeket igazoló adatok a valóságnak megfelelnek.”
+
+*b)*[^208] „Kijelentem, hogy a szervezet – a kérelem benyújtásának időpontjában – az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.”
+
+*c)*[^209] „Kijelentem, hogy a szervezet a felnőttképzési törvény szerinti felnőttképző.”
+
+*d)* „Kijelentem, hogy a szervezet megfelel a számvitelről szóló 2000. évi C. törvény 152. § (2a) és (2b) bekezdésében meghatározott követelménynek.”
+
+3\. Az akkreditációs nyilvántartás adataiban történt változás átvezetésének kérelme esetén a következő adatok és nyilatkozat megadása kötelező:
+
+*a)* az akkreditációval rendelkező szervezet neve,
+
+*b)* az akkreditációval rendelkező szervezet akkreditációs száma,
+
+*c)* az akkreditációval rendelkező szervezet adataiban bekövetkezett változás ismertetése,
+
+*d)* nyilatkozat:
+
+„Kijelentem, hogy a fenti adatváltozás az akkreditáció feltételeit nem érinti.”
+
+*e)*[^210] az akkreditációval rendelkező szervezet felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
+
+4\. Dátum[^211]
+
+5\. Bélyegző[^212]
+
+6\. Cégszerű aláírás[^213]
+
+## 5. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^214]
+
+## 6. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^215]
+
+**JELENLÉTI ÍV**
+
+1\. A jelenléti ív tartalma a továbbképzés kezdetén:
+
+A továbbképző szervezet akkreditációs sorszáma:
+
+A továbbképző szervezet neve, címe:
+
+A továbbképzés helye (pontos címe):
+
+A továbbképzési program címe:
+
+A továbbképzési program kreditpont-minősítési határozatának száma:
+
+A továbbképzési program témaköre: □ számvitel □ nem számvitel
+
+A továbbképzési program szakterülete: □ vállalkozási □ államháztartási □ pénzügyi □ egyéb szervezeti (nonprofit) □ IFRS
+
+Előadó(k), oktató(k) neve:
+
+RÉSZTVEVŐK:
+
+<table><tbody><tr><td colspan="4">Kezdési idő (év, hónap, nap, óra, perc)</td></tr><tr><td>Sorszám</td><td>Regisztrálási szám</td><td>Résztvevő neve</td><td>Aláírás</td></tr></tbody></table>
+
+Dátum (jelenléti ív lezárásának időpontja):
+
+Bélyegző
+
+Cégszerű aláírás
+
+2\. A jelenléti ív tartalma a továbbképzés befejezésekor:
+
+A továbbképző szervezet akkreditációs sorszáma:
+
+A továbbképző szervezet neve, címe:
+
+A továbbképzés helye (pontos címe):
+
+A továbbképzési program címe:
+
+A továbbképzési program kreditpont-minősítési határozatának száma:
+
+A továbbképzési program témaköre: □ számvitel □ nem számvitel
+
+A továbbképzési program szakterülete: □ vállalkozási □ államháztartási □ pénzügyi □ egyéb szervezeti (nonprofit) □ IFRS
+
+Előadó(k), oktató(k) neve:
+
+RÉSZTVEVŐK:
+
+<table><tbody><tr><td colspan="4">Befejezési idő (év, hónap, nap, óra, perc)</td></tr><tr><td>Sorszám</td><td>Regisztrálási szám</td><td>Résztvevő neve</td><td>Aláírás</td></tr></tbody></table>
+
+Dátum (jelenléti ív lezárásának időpontja):
+
+Bélyegző
+
+Cégszerű aláírás
+
+## 7. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^216]
+
+## 8. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^217]
+
+## 9. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^218]
+
+## 10. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^219]
+
+**ADATLAP**\
+**a könyvviteli szolgáltatást végzők továbbképzésének szervezésére és lebonyolítására akkreditált szervezetek részére a továbbképzési programok kreditpont-minősítési eljárása iránti kérelemhez**\
+Az adatlap kötelező tartalmi elemei a következők:
+
+1\. Az akkreditált szervezet
+
+a) neve,
+
+b) székhelye,
+
+c) levelezési címe,
+
+d) akkreditációs száma,
+
+e) cégjegyzékszáma, adószáma,
+
+f) honlapjának címe,
+
+g) hivatalos képviselőjének neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
+
+h) által a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége.
+
+i) felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma.
+
+2\. Az akkreditált szervezet által minősítésre benyújtott továbbképzési program
+
+a) címe,
+
+b) szakterülete [vállalkozási, államháztartási, pénzügyi, egyéb szervezeti (nonprofit), IFRS],
+
+c) témaköre (számvitel, nem számvitel),
+
+d) továbbképzési formája (előadás, e-learning, online),
+
+e) időtartama (percben, szünetek nélkül),
+
+f) elszámolhatóságának kérelmezett időszaka,
+
+g) jellege (gyakorlati, elméleti),
+
+h) kapcsolódó információs segédanyagának bemutatása (amennyiben az akkreditált szervezet vállalja ilyen információs anyag biztosítását a továbbképzésen),
+
+i) oktatóinak név szerinti felsorolása,
+
+j) szakmai tartalmának, tematikájának bemutatása (legalább 2000, legfeljebb 12 000 karakter terjedelemben),
+
+k) elektronikus képzés esetén a technikai hátteret bemutató leírás (ideértve a képzés elektronikus rendszerének bemutatását, elérésének helyét, megvalósításának módját, a naplózást, ellenőrzés módszerét, igazolás kiállítását, a nyilvántartásba vételt végző szervezet tájékoztatásának módját stb.).
+
+3\. Nyilatkozatok:
+
+a) „Hozzájárulok ahhoz, hogy a nyilvántartásba vételt végző szervezet a kérelemben foglalt adatokat a hatályos jogszabályoknak megfelelően kezelje és az egységes Kormányzati Portálon közzétegye.”
+
+b) „Vállalom, hogy akkreditált szervezetünk
+
+– a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet
+
+(a továbbiakban: Rendelet) 10/G. §-ában előírt továbbképzéssel kapcsolatos kötelezettségeit teljesíti,
+
+– kizárólag a kreditpontra minősített, a 2. pontban (a továbbképzési program bemutatása) foglaltak szerint lebonyolított továbbképzési program teljesítése esetén adja ki a nyilvántartásba vételt végző szervezet által meghatározott kreditpontról szóló igazolást a továbbképzésben részt vevőknek,
+
+– amennyiben a fenti kérelem tartalmában változás következik be, vagy ha akkreditált szervezetünk a továbbiakban nem felel meg a Rendeletben meghatározott követelményeknek, azt haladéktalanul bejelenti a nyilvántartásba vételt végző szervezetnek.”
+
+c) „Kijelentem, hogy akkreditált szervezetünk
+
+– a felnőttképzési törvény szerinti felnőttképző,
+
+– teljeskörűen megfelel a Rendeletben foglalt továbbképzéssel kapcsolatos követelményeknek,
+
+– által a fenti kérelemben feltüntetett, valamint a Rendelet szerinti feltételeket igazoló adatok megfelelnek a valóságnak,
+
+– nem áll csőd-, felszámolási, kényszertörlési eljárás vagy végelszámolás alatt,
+
+– jelen nyilatkozattétel időpontjában köztartozásmentes adózónak minősül az adózás rendjéről szóló törvény szerint,
+
+– megfelel a számvitelről szóló 2000. évi C. törvény 152. § (2a) és (2b) bekezdésében meghatározott követelményeknek, valamint
+
+– Rendelet alapján nyilvántartott adataiban az akkreditációs eljárás befejezése, illetve a legutóbb bejelentett adatváltozás óta nem történt változás.”
+
+d) „Kijelentem, hogy akkreditált szervezetünk a Rendelet 10/D. § (2a) bekezdésében meghatározott feltételeket a ........................................................................................ című, ...... év .................... hónap ...... napján benyújtott kreditpont-minősítési kérelem benyújtása során igazolta, azok tartalma a benyújtás óta nem változott.”
+
+e) „Kijelentem, hogy akkreditált szervezetünk elektronikus továbbképzési rendszere – a továbbképzési program elektronikus továbbképzési formában tervezett megvalósítása esetén – teljeskörűen megfelel a Rendelet 10/E. § (4) bekezdésében foglalt feltételeknek.”
+
+4\. Dátum
+
+5\. Bélyegző
+
+6\. Cégszerű aláírás
+
+## 11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^220]
+
+**IGAZOLÁS**
+
+**a könyvviteli szolgáltatást végzők kötelező szakmai továbbképzésének teljesítéséről és a továbbképzésbe számítandó kreditpontok megszerzéséről**\
+Az igazolás kötelező tartalmi elemei a következők:
+
+1\. Igazolás sorszáma
+
+2\. Továbbképzésre kötelezett neve
+
+3\. Regisztrálási száma
+
+4\. Regisztrálási számmal nem rendelkezők esetében a továbbképzésre kötelezett
+
+a) születési neve
+
+b) születési helye, ideje
+
+c) anyja neve
+
+5\. Igazolást kibocsátó akkreditált szervezet
+
+a) neve
+
+b) székhelye
+
+c) akkreditációs száma
+
+d)[^221] felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi száma
+
+6.[^222] A továbbképzés
+
+a) formája (előadás, e-learning, online)
+
+b) időtartama (perc, szünetek nélkül)
+
+c) szakterülete (vállalkozási, pénzügyi, egyéb szervezeti, államháztartási, IFRS)
+
+d) témaköre (számvitel, nem számvitel)
+
+e) helyszíne (ha nem elektronikus a képzés)
+
+f) időpontja (év, hónap, nap)
+
+g)[^223] kezdeti és befejezési időpontja kontakt képzés esetén (óra, perc)
+
+h)[^224] elektronikus naplózás szerinti megtekintési időpontjai e-learning és online képzés esetén (óra, perc)
+
+7.[^225] A teljesített továbbképzési program
+
+a) címe
+
+b) kreditpont-minősítési határozatának száma
+
+c)[^226]
+
+d) kreditpont-értéke a megjelölt szakterületen
+
+8\. Az igazolt kreditpontok száma
+
+9\. Az igazolást aláíró személy neve, beosztása
+
+10\. Dátum
+
+11\. Cégszerű aláírás, bélyegző
+
+## 12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^227]
+
+**ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez**
+
+Az adatlap kötelező tartalmi elemei a következők:
+
+1\. A szakmai szervezeti minősítéshez az adatlapon kötelezően szükséges megadni a következő adatokat:
+
+a) szakmai szervezet neve,
+
+b) szakmai szervezet hivatalos rövidített neve,
+
+c) szakmai szervezet székhelye,
+
+d) szakmai szervezet levelezési címe,
+
+e) szakmai szervezet telefonszáma, faxszáma, elektronikus címe, honlapjának címe,
+
+f) szakmai szervezet felelős vezetőjének neve,
+
+g) szakmai szervezet felelős vezetőjének elérhetősége (telefonszám, elektronikus elérhetőség),
+
+h) a szakmai szervezet által szervezett szakmai konzultációkon, képzéseken, szakmai rendezvényeken részt vevők évi átlagos létszáma,
+
+i) szakmai szervezet által évente szervezett szakmai rendezvények bemutatása,
+
+j) szakmai szervezet által biztosított szakmai konzultációs fórum leírása,
+
+k) bejelentő gazdálkodó neve,<sup>1</sup>
+
+l) bejelentő gazdálkodó székhelye,<sup>1</sup>
+
+m) bejelentő gazdálkodó levelezési címe,<sup>1</sup>
+
+n) bejelentő gazdálkodó felelős vezetőjének neve.[^1.]
+
+2\. Nyilatkozatok:
+
+a) „Kijelentem, hogy szakmai szervezetünk által a fenti kérelemben feltüntetett adatok a valóságnak megfelelnek.”
+
+b) „Kijelentem, hogy a szakmai szervezetünk megfelel a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet (a továbbiakban: Rendelet) 10/B. § (8), illetve (8a) bekezdésében foglalt feltételeknek.”
+
+c) „Kijelentem, hogy szakmai szervezetünk minden továbbképzési év tekintetében a nyilvántartásba vételt végző szervezet részére az érintettek kifejezett hozzájárulása esetén megküldi azon továbbképzésre kötelezett személyek Rendeletben meghatározott adatait, akik a továbbképzési évben 3 hónapot meghaladóan, és a továbbképzési év utolsó napjáig a szervezet tagjaként jogosultak voltak szervezetünk szervezésében szakmai konzultáción, képzésen vagy egyéb szakmai rendezvényen részt venni.”
+
+3\. Dátum
+
+4\. Bélyegző
+
+5\. Cégszerű aláírás
+
+## 13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^228]
+
+---
+
+[^1]: A rendelet bevezető része a 349/2004. (XII. 22.) Korm. rendelet 1. §-ával megállapított és a 357/2006. (XII. 27.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdésének a) pontja a 357/2006. (XII. 27.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdésének b) pontja a 182/2009. (IX. 10.) Korm. rendelet 270. § (1) bekezdésével megállapított, a 307/2009. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdésének c) pontja a 74/2009. (IV. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés d) pontját a 357/2012. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^6]: Az 1. § (1) bekezdés e) pontját a 357/2012. (XII. 13.) Korm. rendelet 3. §-a iktatta be, a 642/2023. (XII. 28.) Korm. rendelet 28. § 1. pontja hatályon kívül helyezte.
+[^7]: Az 1. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 270. § (2) bekezdésével megállapított, a 307/2009. (XII. 28.) Korm. rendelet 10. §-a, a 357/2012. (XII. 13.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (3) bekezdésével megállapított, a 307/2009. (XII. 28.) Korm. rendelet 10. §-a, a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés a) pontja, a 480/2016. (XII. 28.) Korm. rendelet 86. § 1. pontja szerint módosított szöveg.
+[^9]: A 3. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 3. § (1) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (2) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 2. pontja hatályon kívül helyezte.
+[^12]: A 3. § (3) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^13]: A 3. § (4) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^14]: A 3. § (5) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^15]: A 3. § (6) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^16]: A 3. § (7) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^17]: A 3. § (8) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^18]: A 3. § (9) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 3. pontja hatályon kívül helyezte.
+[^19]: A 3. § (9a) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 75. § (2) bekezdése iktatta be, a 85. § 4. pontja hatályon kívül helyezte.
+[^20]: A 3. § (9b) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 75. § (2) bekezdése iktatta be, a 85. § 4. pontja hatályon kívül helyezte.
+[^21]: A 3. § (9c) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 75. § (2) bekezdése iktatta be, a 85. § 4. pontja hatályon kívül helyezte.
+[^22]: A 3. § (10) bekezdését a 480/2016. (XII. 28.) Korm. rendelet a 85. § 4. pontja hatályon kívül helyezte.
+[^23]: A 3. § (10a) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 75. § (3) bekezdése iktatta be, a 85. § 4. pontja hatályon kívül helyezte.
+[^24]: A 3. § (11) bekezdését a 480/2016. (XII. 28.) Korm. rendelet a 85. § 4. pontja hatályon kívül helyezte.
+[^25]: A 3. § (12) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 75. § (4) bekezdésével megállapított szöveg.
+[^26]: A 3. § (13) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 75. § (4) bekezdésével megállapított, a 86. § 5. pontja szerint módosított szöveg.
+[^28]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
+[^29]: Az 5. § (1) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: Az 5. § (2) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (2a) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^32]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 16. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: Az 5. § (4) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 25. § 1. pontja hatályon kívül helyezte.
+[^34]: Az 5. § (5) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^35]: Az 5. § (6) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^36]: Az 5. § (7) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^37]: Az 5. § (8) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 86. § 6. pontja hatályon kívül helyezte.
+[^38]: Az 5. § (9) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^39]: Az 5. § (10) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^40]: Az 5. § (10a) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 85. § 3. pontja szerint módosított szöveg. [Az 5. § (10a) bekezdésének a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontjával elrendelt módosítása, amely szerint a „8. § (1)” szövegrész helyébe a „8. § (1a)” szöveg lép, nem vezethető át.]
+[^41]: Az 5. § (11) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^42]: A 6. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
+[^43]: A 6. § (1) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 10. §-a, a 357/2012. (XII. 13.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^44]: A 6. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^45]: A 6. § (3) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^46]: A 6. § (4) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^47]: A 6. § (4) bekezdés b) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
+[^48]: A 6. § (5) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 41. § (2) bekezdése iktatta be.
+[^49]: A 6. § (6) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^50]: A 7. § (1) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^51]: A 7. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 271. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 7. § (3) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^53]: A 7. § (4) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^54]: A 7. § (5) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^55]: A 8. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (8) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
+[^56]: A 8. § (1) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja, a 484/2015. (XII. 29.) Korm. rendelet 86. § 1. pontja szerint módosított szöveg.
+[^57]: A 8. § (1a) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 81. §-a iktatta be, szövege a 131/2018. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^58]: A 8. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 44. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 8. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (33) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 43. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^60]: A 8. § (4) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 52. § 5. pontja szerint módosított szöveg.
+[^61]: A 8/A. §-t a 234/2005. (X. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 270. § (8) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
+[^62]: A 8/A. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
+[^63]: A 8/A. § (2) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja, a 484/2015. (XII. 29.) Korm. rendelet 84. § 1. pontja szerint módosított szöveg.
+[^64]: A 8/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (8) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
+[^65]: A 8/B. § (1) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 7. §-ával megállapított, a 480/2016. (XII. 28.) Korm. rendelet 85. § 5. pontja szerint módosított szöveg.
+[^66]: A 8/B. § (2) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^67]: A 8/B. § (3) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^68]: A 8/B. § (4) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^69]: A 8/B. § (5) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 3. §-ával megállapított, a 480/2016. (XII. 28.) Korm. rendelet 85. § 6. pontja szerint módosított szöveg. [A 480/2016. (XII. 28.) Korm. rendelet 85. § 7. pontjában foglalt módosítás, mely szerint a „3. § (1), (2) és (13) bekezdésében” szövegrész helyébe a „3. § (1) és (12) bekezdésében” szöveg lép, nem vezethető át.]
+[^70]: A 8/B. § (6) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 3. §-ával megállapított, a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) és h) pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 3. pontja szerint módosított szöveg.
+[^71]: A 8/B. § (7) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja, a 441/2015. (XII. 28.) Korm. rendelet 44. § b) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^72]: A 8/B. § (8) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 10. §-a, a 357/2012. (XII. 13.) Korm. rendelet 16. § (1) bekezdés g) pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 4. pontja szerint módosított szöveg.
+[^74]: A 9/A. §-t a 357/2012. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^75]: A 9/A. § (1) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 5. pontja szerint módosított szöveg.
+[^76]: A 9/A. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 85. § 8. pontja szerint módosított szöveg.
+[^77]: A 10. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^78]: A 10. § (1) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^79]: A 10. § (1a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be.
+[^80]: A 10. § (1b) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 46. §-a iktatta be.
+[^81]: A 10. § (2) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § d) pontja hatályon kívül helyezte.
+[^82]: A 10. § (3) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^83]: A 10. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 9. § (3) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 86. § 2. pontja, a 642/2023. (XII. 28.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
+[^84]: A 10. § (5) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^85]: A 10/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^86]: A 10/A. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 48. § 1. pontja, a 616/2020. (XII. 21.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^87]: A 10/A. § (2) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 480/2016. (XII. 28.) Korm. rendelet 85. § 9. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 6. pontja, a 616/2020. (XII. 21.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^88]: A 10/A. § (3) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^89]: A 10/A. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze a 616/2020. (XII. 21.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^90]: A 10/A. § (4) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.
+[^91]: A 10/A. § (4) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 48. § 2. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 8. pontja szerint módosított szöveg.
+[^92]: A 10/A. § (4) bekezdés c) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^93]: A 10/A. § (4) bekezdés d) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^94]: A 10/A. § (4) bekezdés e) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (3) bekezdése iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 50. § 1. pontja szerint módosított szöveg.
+[^95]: A 10/A. § (4) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
+[^96]: A 10/A. § (4) bekezdés g) pontját a 362/2014. (XII. 30.) Korm. rendelet 42. § (1) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 24. § 9. pontja szerint módosított szöveg.
+[^97]: A 10/A. § (5) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^98]: A 10/A. § (6) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 86. § 4. pontja hatályon kívül helyezte.
+[^99]: A 10/A. § (7) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 50. § 2. pontja hatályon kívül helyezte.
+[^100]: A 10/A. § (8) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte.
+[^101]: A 10/A. § (8a) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be, a 480/2016. (XII. 28.) Korm. rendelet 85. § 10. pontja szerint módosított szöveg.
+[^102]: A 10/A. § (9) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
+[^103]: A 10/A. § (9) bekezdés f) pontját a 616/2020. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^104]: A 10/A. § (9a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 47. § (6) bekezdése iktatta be, szövege a 719/2021. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^105]: A 10/A. § (10) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 52. § 6. pontja, a 719/2021. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^106]: A 10/A. § (11) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^107]: A 10/A. § (11a) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be, nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 85. § 11. pontja szerint módosított szöveg.
+[^108]: A 10/A. § (11a) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 10. pontja szerint módosított szöveg.
+[^109]: A 10/A. § (11a) bekezdés b) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 11. pontja szerint módosított szöveg.
+[^110]: A 10/A. § (11a) bekezdés c) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 11. pontja szerint módosított szöveg.
+[^111]: A 10/A. § (11b) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 42. § (3) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 12. pontja szerint módosított szöveg.
+[^112]: A 10/A. § (11c) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be, a 445/2017. (XII. 27.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^113]: A 10/A. § (12) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^114]: A 10/A. § (10) bekezdés e) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (7) bekezdése iktatta be.
+[^115]: A 10/A. § (10) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (7) bekezdése iktatta be.
+[^116]: A 10/A. § (13) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^117]: A 10/A. § (14) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 24. § 13. pontja szerint módosított szöveg.
+[^118]: A 10/A. § (15) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 50. § 3. pontja hatályon kívül helyezte.
+[^119]: A 10/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be, szövege a 357/2012. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^120]: A 10/B. § (2) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^121]: A 10/B. § (2a) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 22. §-a iktatta be.
+[^122]: A 10/B. § (5) bekezdése a 642/2023. (XII. 28.) Korm. rendelet 28. § 3. pontja szerint módosított szöveg.
+[^123]: A 10/B. § (6) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 86. § 5. pontja hatályon kívül helyezte.
+[^124]: A 10/B. § (8) bekezdés nyitó szövegrésze a 226/2013. (VI. 24.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^125]: A 10/B. § (8a) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^126]: A 10/B. § (8b) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^127]: A 10/B. § (8c) bekezdését a 226/2013. (VI. 24.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^128]: A 10/B. § (9) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított, záró szövegrésze a 445/2017. (XII. 27.) Korm. rendelet 24. § 14. pontja szerint módosított szöveg.
+[^129]: A 10/B. § (9a) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^130]: A 10/B. § (10) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^131]: A 10/B. § (12) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 28. § 4. pontja hatályon kívül helyezte, újonnan a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^132]: A 10/B. § (13) bekezdését újonnan a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^133]: A 10/B. § (13a) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^134]: A 10/B. § (13b) bekezdését a 441/2025. (XII. 23.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^135]: A 10/B. § (14) bekezdését a 719/2021. (XII. 20.) Korm. rendelet 3. §-a iktatta be, szövege a 642/2023. (XII. 28.) Korm. rendelet 27. § 1. pontja szerint módosított szöveg.
+[^136]: A 10/C. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^137]: A 10/C. § (1) bekezdése a 642/2023. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^138]: A 10/C. § (2) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 25. § 6. pontja hatályon kívül helyezte.
+[^139]: A 10/C. § (3) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 28. § 5. pontja hatályon kívül helyezte.
+[^140]: A 10/C. § (4) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 86. § 8. pontja hatályon kívül helyezte.
+[^141]: A 10/C. § (5) bekezdését a 307/2009. (XII. 28.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § j) pontja.
+[^142]: A 10/D. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^143]: A 10/D. § (2) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^144]: A 10/D. § (2a) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 44. §-a iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^145]: A 10/D. § (2b) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 44. §-a iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 79. § (1) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 17. pontja szerint módosított szöveg.
+[^146]: A 10/D. § (3) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 25. § 8. pontja hatályon kívül helyezte.
+[^147]: A 10/D. § (3a) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 79. § (2) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 24. § 18. pontja szerint módosított szöveg.
+[^148]: A 10/D. § (3b) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^149]: A 10/D. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 44. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^150]: A 10/D. § (5) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 11. § b) pontja, a 642/2023. (XII. 28.) Korm. rendelet 28. § 6. pontja szerint módosított szöveg.
+[^151]: A 10/D. § (6) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^152]: A 10/D. § (7) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 25. § 9. pontja hatályon kívül helyezte.
+[^153]: A 10/D. § (8) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 24. § 19. pontja szerint módosított szöveg.
+[^154]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^155]: A 10/E. § (3a) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 24. §-a iktatta be.
+[^156]: A 10/E. § (4) bekezdés b) pont bc) alpontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 20. pontja szerint módosított szöveg.
+[^158]: A 10/G. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 83. §-ával megállapított, nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 86. § 8. pontja szerint módosított szöveg.
+[^159]: A 10/G. § a) pontja a 480/2016. (XII. 28.) Korm. rendelet 82. § (1) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 22. pontja szerint módosított szöveg.
+[^160]: A 10/G. § b) pontja a 480/2016. (XII. 28.) Korm. rendelet 85. § 16. pontja szerint módosított szöveg.
+[^161]: A 10/G. § c) pontja a 445/2017. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^162]: A 10/G. § e) pontja a 480/2016. (XII. 28.) Korm. rendelet 85. § 17. pontja szerint módosított szöveg.
+[^163]: A 10/G. § g) pontja a 642/2023. (XII. 28.) Korm. rendelet 27. § 2. pontja szerint módosított szöveg.
+[^164]: A 10/G. § h) pontja a 480/2016. (XII. 28.) Korm. rendelet 82. § (2) bekezdésével megállapított, a 642/2023. (XII. 28.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
+[^165]: A 10/G. § i) pontja a 480/2016. (XII. 28.) Korm. rendelet 82. § (2) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 23. pontja szerint módosított szöveg.
+[^166]: A 10/G. § k) pontját a 480/2016. (XII. 28.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^167]: A 10/G. § l) pontját a 480/2016. (XII. 28.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^168]: A 10/F. § m) pontját a 480/2016. (XII. 28.) Korm. rendelet 82. § (3) bekezdésével megállapított szöveg.
+[^169]: A 10/G. § n) pontját a 642/2023. (XII. 28.) Korm. rendelet 25. §-a iktatta be.
+[^170]: A 10/G. § o) pontját a 642/2023. (XII. 28.) Korm. rendelet 25. §-a iktatta be.
+[^171]: A 10/H. §-t újonnan a 423/2024. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
+[^172]: A 11. § (2) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^173]: A 11/A. §-t a 357/2012. (XII. 13.) Korm. rendelet 13. § (1) bekezdése iktatta be, szövege ugyanezen § (2) bekezdésével megállapított szöveg.
+[^174]: A 11/A. § (1) bekezdését a 445/2017. (XII. 27.) Korm. rendelet 25. § 10. pontja hatályon kívül helyezte.
+[^175]: A 11/A. § (2) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 53. § 5. pontja hatályon kívül helyezte. [A 357/2012. (XII. 13.) Korm. rendelet 17. § g) pontjával elrendelet módosítás, amely szerint a 11/A. § (2) bekezdése hatályát veszti, nem vezethető át.]
+[^176]: A 11/A. § (3) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § h) pontja hatályon kívül helyezte.
+[^177]: A 11/A. § (4) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § i) pontja hatályon kívül helyezte.
+[^178]: A 11/A. § (5) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § i) pontja hatályon kívül helyezte.
+[^179]: A 11/A. § (6) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 17. § g) pontja hatályon kívül helyezte.
+[^180]: A 11/A. § (7) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 616/2020. (XII. 21.) Korm. rendelet 16. § 2. pontja.
+[^181]: A 11/A. § (8) bekezését a 480/2016. (XII. 28.) Korm. rendelet 83. § (2) bekezdése iktatta be.
+[^182]: A 11/A. § (9) bekezését a 480/2016. (XII. 28.) Korm. rendelet 83. § (2) bekezdése iktatta be.
+[^183]: A 11/A. § (10) bekezdését a 616/2020. (XII. 21.) Korm. rendelet 13. §-a iktatta be.
+[^184]: A 12. §-t megelőző alcímet a 115/2007. (V. 24.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^185]: A 12. §-t a 115/2007. (V. 24.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^186]: A 12. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 329/2008. (XII. 31.) Korm. rendelet 7. §-a.
+[^187]: A 12. § (2) bekezdését a 329/2008. (XII. 30.) Korm. rendelet 7. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. A 12. § (2) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^188]: Az 1. számú melléklet a 357/2012. (XII. 13.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 226/2013. (VI. 24.) Korm. rendelet 8. § (1) bekezdése és 10. § a) pontja, az 518/2013. (XII. 30.) Korm. rendelet 51. § (1) bekezdése, a 362/2014. (XII. 30.) Korm. rendelet 49. § (1) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 44. § d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni. Az 1. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 85. § (1) bekezdése, a 480/2016. (XII. 28.) Korm. rendelet 84. § 1. pontja és a 86. § 10–13. pontja, a 445/2017. (XII. 27.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^1.]: Az adatlap letölthető az egységes Kormányzati Portálról.
+[^2.]: Nyilvántartásba történő felvétel kérelmezése esetén – a 3. pontban foglaltak kivétel – az adatlap valamennyi adatát kötelező megadni. A 3. pontban szereplő adatok önkéntes adatszolgáltatás alapján kerülnek a nyilvántartásba.
+[^3.]: Igazolvány pótlás, csere vagy adatváltozás bejelentése esetén a 2. pont a), b) és h) alpontja szerinti adatok megadásán túlmenően csak azoknak az adatoknak a megadása kötelező, amelyek az igazolvány-kiadási eljárás során bejelentettekhez képest megváltoztak, illetve bővültek.
+[^4.]: A nyilvántartásból való törlés kérelmezésének esetén a 2. pont a), b) és h) alpontja szerinti adatok megadása kötelező az adatok azonosításához.
+[^5.]: Akkor kötelező megadni, amennyiben a kérelmező a nyilvántartásban már szerepel/szerepelt.
+[^6.]: Hozzájárulás esetén a megfelelő személyes adatok külön-külön egyértelműen megjelölendők.
+[^8.]: Akkor kötelező kitölteni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^189]: A 2. számú mellékletet a 480/2016. (XII. 28.) Korm. rendelet a 85. § 14. pontja hatályon kívül helyezte.
+[^190]: A 3. számú melléklet a 131/2018. (VII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^191]: A 3. számú melléklet 1. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^192]: A 3. számú melléklet 8. pontja a 78/2025. (IV. 17.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^193]: A 4. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (2) bekezdése szerint módosított szöveg.
+[^194]: Az adatlap letölthető: www.pm.gov.hu, www.magyarorszag.hu
+[^195]: A 4. számú melléklet 1. pont h) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^196]: A 4. számú melléklet 1. pont i) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^197]: A 4. számú melléklet 1. pont j) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^198]: A 4. számú melléklet 1. pont k) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított, a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^199]: A 4. számú melléklet 1. pont l) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^200]: A 4. számú melléklet 1. pont m) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^201]: A 4. számú melléklet 1. pont n) alpontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdésével megállapított szöveg.
+[^202]: A 4. számú melléklet 1. pont o) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^203]: A 4. számú melléklet 1. pont p) alpontját a 362/2014. (XII. 30.) Korm. rendelet 49. § (3) bekezdése iktatta be.
+[^204]: A 4. számú melléklet 1. pont q) alpontját a 484/2015. (XII. 29.) Korm. rendelet 85. § (2) bekezdése iktatta be.
+[^205]: A 4. számú melléklet 1. pont r) alpontját a 480/2016. (XII. 28.) Korm. rendelet 84. § 3. pontja iktatta be.
+[^206]: A 4. számú melléklet 1. pont s) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
+[^207]: A 4. számú melléklet 2. pont a) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^208]: A 4. számú melléklet 2. pont b) alpontja a 445/2017. (XII. 27.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.
+[^209]: A 4. számú melléklet 2. pont c) alpontja a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^210]: A 4. számú melléklet 3. pont e) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 1. pontja iktatta be.
+[^211]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^212]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^213]: Akkor kötelező kitölteni, illetve feltüntetni, amennyiben a kérelmet papír alapon nyújtja be a kérelmező.
+[^214]: Az 5. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 86. § 9. pontja.
+[^215]: A 6. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 84. § 4. pontjával megállapított szöveg.
+[^216]: A 7. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § k) pontja.
+[^217]: A 8. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése és a 182/2009. (IX. 10.) Korm. rendelet 273. § (2) bekezdésének c) pontja szerint módosított 7. számú melléklete iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § l) pontja.
+[^218]: A 9. számú mellékletet a 74/2009. (IV. 8.) Korm. rendelet 7. § (3) bekezdése iktatta be, hatályon kívül helyezte a 357/2012. (XII. 13.) Korm. rendelet 17. § m) pontja.
+[^219]: A 10. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 23. § 3. pontjával megállapított, a 616/2020. (XII. 21.) Korm. rendelet 14. § 2. pontja szerint módosított szöveg.
+[^220]: A 11. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 51. § (5) bekezdésével megállapított szöveg.
+[^221]: A 11. számú melléklet 5. pont d) alpontját a 616/2020. (XII. 21.) Korm. rendelet 14. § 3. pontja iktatta be.
+[^222]: A 11. számú melléklet 6. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^223]: A 11. számú melléklet 6. pont g) alpontja a 642/2023. (XII. 28.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^224]: A 11. számú melléklet 6. pont h) alpontját a 642/2023. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^225]: A 11. számú melléklet 7. pontja a 362/2014. (XII. 30.) Korm. rendelet 49. § (7) bekezdésével megállapított szöveg.
+[^226]: A 11. számú melléklet 7. pont c) alpontját a 719/2021. (XII. 20.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^227]: A 12. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 226/2013. (VI. 24.) Korm. rendelet 8. § (4) bekezdésével megállapított, a 484/2015. (XII. 29.) Korm. rendelet 85. § (4) bekezdése, a 445/2017. (XII. 27.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
+[^1.]: A Rendelet 10/B. § (8a) bekezdése szerinti szakmai szervezeti minősítési eljárás esetén alkalmazandó.
+[^228]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, a 642/2023. (XII. 28.) Korm. rendelet 28. § 8. pontja hatályon kívül helyezte.

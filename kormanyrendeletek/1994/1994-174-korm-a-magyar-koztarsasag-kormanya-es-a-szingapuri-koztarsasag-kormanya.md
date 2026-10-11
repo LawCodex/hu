@@ -1,0 +1,73 @@
+---
+title: "174/1994. (XII. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással létrejött megállapodás kihirdetéséről"
+identifier: "174/1994. (XII. 24.) Korm. rendelet"
+njt_id: "1994-174-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/174"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-12-24
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-174-20-22"
+retrieved: 2026-10-12
+---
+
+# 174/1994. (XII. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről jegyzékváltással létrejött megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, 1994. szeptember 9-én jegyzékváltással létrehozott megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,Excellenciás Uram!
+
+Van szerencsém tájékoztatni, hogy állampolgárainknak a másik országba való beutazása további könnyítése céljából a Magyar Köztársaság Kormánya kész a vízumkötelezettség kölcsönös megszüntetéséről Megállapodást kötni a Szingapúri Köztársaság Kormányával az alábbi feltételek szerint:
+
+1\. A Szerződő Felek azon állampolgárai, akik országuk illetékes hatóságai által kiadott érvényes útlevéllel rendelkeznek, a másik Fél államterületére vízum nélkül utazhatnak be, és legfeljebb tizennégy napig tartózkodhatnak ott, amennyiben a beutazás nem bevándorlás, illetőleg munkavállalás, bármely jövedelemszerző tevékenység, hivatás vagy önálló foglalkozás gyakorlása céljából történik.
+
+A fenti tartózkodási időtartamot az érintett ország illetékes hatóságai az ország jogszabályai szerint meghosszabbíthatják.
+
+2\. Azok az érvényes magyar vagy szingapúri diplomata vagy szolgálati útlevéllel rendelkező magyar, illetőleg szingapúri állampolgárok, akik az egyik Szerződő Félnek a másik Szerződő Fél területére akkreditált diplomáciai vagy konzuli képviseletének tagjai, szolgálatuk időtartama alatt vízum vagy tartózkodási engedély nélkül utazhatnak be a másik Szerződő Fél államterületére.
+
+E fenti rendelkezés alkalmazandó ezen személyek családtagjaira is, amennyiben ők maguk is diplomata vagy szolgálati útlevéllel rendelkeznek.
+
+3\. Azoknak a magyar, illetőleg szingapúri állampolgároknak, akik munkavállalás vagy bármely jövedelemszerző tevékenység, hivatás vagy önálló foglalkozás gyakorlása, illetőleg bevándorlás céljából kívánnak a Szingapúri Köztársaságba vagy a Magyar Köztársaságba utazni, be kell szerezniük előre az érintett ország illetékes hatóságainak megfelelő engedélyét és vízumát.
+
+4\. A magyar, illetve a szingapúri állampolgárok a másik ország államhatárát a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken léphetik át.
+
+5\. A vízumkötelezettség megszüntetése által kedvezményezett személyeknek be kell tartaniuk magyarországi vagy szingapúri tartózkodásuk során a tartózkodási helyük szerinti ország jogszabályait, különös tekintettel a külföldiek beutazására, tartózkodására, bevándorlására, illetve munkavállalására vonatkozó rendelkezésekre.
+
+6\. A Szerződő Felek fenntartják a jogot arra, hogy megtagadják a beutazást vagy a tartózkodást a másik Fél nemkívánatosnak minősülő vagy olyan állampolgárától, aki nem tesz eleget a külföldiek beutazására, illetve tartózkodására vonatkozó rendelkezéseknek.
+
+7\. Mindkét Szerződő Fél vállalja, hogy állampolgárát formalitások nélkül visszafogadja saját államterületére.
+
+8\. A Megállapodás alkalmazását a 7. pont kivételével bármelyik Szerződő Fél részben vagy egészben, átmenetileg felfüggesztheti. Ezen intézkedés bevezetéséről, valamint megszüntetéséről a másik Szerződő Felet diplomáciai úton, írásban haladéktalanul tájékoztatni kell.
+
+9\. *a)* A Szerződő Felek mielőbb, de legkésőbb a hatálybalépést tizenöt nappal megelőzően diplomáciai úton megküldik egymásnak az érvényben lévő úti okmányaik mintapéldányait.
+
+*b)* Ha a Szerződő Felek egyike a Megállapodás hatálybalépése után érvényben lévő úti okmányait megváltoztatja vagy új típusú úti okmányt vezet be, érvénybe lépésük előtt legalább harminc nappal diplomáciai úton, a minták csatolásával értesíti a másik Szerződő Felet.
+
+10\. A Szerződő Felek hatvan nappal korábban, a másik Félhez diplomáciai úton, írásban intézett értesítéssel felmondhatják ezt a Megállapodást.
+
+11\. Ez a Megállapodás a Megállapodást létrehozó jegyzékváltást követő harmincadik napon lép hatályba.
+
+Amennyiben a fenti javaslatok a Szingapúri Köztársaság Kormánya számára elfogadhatóak, van szerencsém javasolni, hogy ez a Jegyzék és Őexellenciája válaszjegyzéke Kormányaink között e tárgyban Megállapodást képezzen, mely a válaszjegyzék kézhezvételét követő harmincadik napon lép hatályba.
+
+Megragadom az alkalmat, hogy Őexellenciáját őszinte nagyrabecsülésemről biztosítsam.
+
+*Dr. Somogyi Ferenc*''
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 3. napon lép hatályba. Rendelkezéseit 1994. október 9-től kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 47. pontja szerint módosított szöveg.

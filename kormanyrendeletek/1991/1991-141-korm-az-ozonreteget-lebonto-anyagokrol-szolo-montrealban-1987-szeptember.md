@@ -1,0 +1,73 @@
+---
+title: "141/1991. (XI. 2.) Korm. rendelet az ózonréteget lebontó anyagokról szóló, Montreálban 1987. szeptember 16. napján aláírt Jegyzőkönyv kiegészítésének kihirdetéséről"
+identifier: "141/1991. (XI. 2.) Korm. rendelet"
+njt_id: "1991-141-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/141"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-11-02
+in_force_from: 1991-11-02
+last_amended: 1991-11-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-141-20-22"
+retrieved: 2026-10-12
+---
+
+# 141/1991. (XI. 2.) Korm. rendelet az ózonréteget lebontó anyagokról szóló, Montreálban 1987. szeptember 16. napján aláírt Jegyzőkönyv kiegészítésének kihirdetéséről
+
+*[Az ózonréteget lebontó anyagokról szóló, Montreálban 1987. szeptember 16. napján aláírt — a 35/1990. (II. 28.) MT rendelettel kihirdetett — Jegyzőkönyv kiegészítése a Magyar Köztársaság vonatkozásában 1991. március 7. napján lépett hatályba.]*
+
+## 1. §
+
+A Kormány ,,Az ózonréteget lebontó anyagokról'' szóló, Montreálban 1987. szeptember 16. napján aláírt Jegyzőkönyvnek a részes államok 1990. júniusi, Londonban tartott konferenciáján elfogadott kiegészítését a rendelettel kihirdeti.
+
+## 2. §
+
+A kiegészítés magyar nyelvű szövege a következő:
+
+,,Kiegészítések az ózonréteget lebontó anyagokról szóló Montreáli Jegyzőkönyvhöz
+
+Az ózonréteget lebontó anyagokról szóló Montreáli Jegyzőkönyv Feleinek második értekezlete elhatározza, hogy a Jegyzőkönyv 6. Cikke szerinti felmérések alapján kiegészítéseket és a Jegyzőkönyv ,,A'' függelékében szabályozott anyagok termelésére és felhasználására vonatkozó csökkentéseket fogad el, a következők szerint, annak megértésével, hogy:
+
+*a)* a 2. Cikkben az ,,ezen Cikkre'', valamint az egész Jegyzőkönyvben a ,,2. Cikkre'' történő hivatkozásokat a 2., 2/*A)* és 2/*B)* Cikkekre való hivatkozásként kell venni;
+
+*b)* az egész Jegyzőkönyvben a ,,2. Cikk 1—4. bekezdései''-re való hivatkozások a 2/*A)* és 2/*B)* Cikkekre történő hivatkozásként értelmezendők; és
+
+*c)* a 2. Cikk 5. bekezdésében az ,,1., 3. és 4. bekezdések''-re való hivatkozás a 2/*A)* Cikkre történő hivatkozásként értelmezendő.
+
+*A) 2/A) Cikk: CFC-k*
+
+A Jegyzőkönyv 2. Cikkének 1. bekezdése, a 2/*A)* Cikk — amelynek címe ,,2/*A)* Cikk: CFC-k'' — 1. bekezdése lesz. A 2. Cikk 3. és 4. bekezdéseit az alábbi bekezdések váltják fel, ezeket a 2/*A)* Cikk 2—6. bekezdéseiként számozva.
+
+2\. Minden Fél biztosítja, hogy az 1991. július 1-jétől 1992. december 31-ig terjedő időszakban az ,,A'' függelék I. csoportjában felsorolt szabályozott anyagok felhasználásának és termelésének számított szintjei nem lépik túl ezen anyagok felhasználásának és termelésének az 1986. évi számított szintjeinek a 150 százalákát. 1993. január 1-jétől hatályosan ezen szabályozott anyagok tizenkét hónapos szabályozási időszakai minden évben január 1-jétől december 31-éig számítandók.
+
+3\. Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban és minden azt követő tizenkét hónapos időszakban az ,,A'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjének az ötven százalékát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1986. évi termelés számított szintjének ötven százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tíz százalékával meghaladja ezt a határt.
+
+4\. Minden Fél biztosítja, hogy az 1997. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjének a tizenöt százalékát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1986. évi termelés számított szintjének a tizenöt százalékát. A 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tíz százalákával meghaladhatja ezt a határt.
+
+5\. Minden Fél biztosítja, hogy a 2000. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék I. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt.
+
+6\. 1992-ben a Felek áttekintik a helyzetet a csökkentések ütemezése felgyorsításának céljából.
+
+*B) 2/B) Cikk: Halonok*
+
+A Jegyzőkönyv 2. Cikkének 2. bekezdését az alábbi bekezdések váltják föl, ezeket a 2/*B)* Cikk 1—4. bekezdéseiként számozva:
+
+1\. Minden Fél biztosítja, hogy az 1992. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék II. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjét. Egy vagy több ilyen anyagot termelő minden fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1986. évi termelés számított szintjét. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt.
+
+2\. Minden Fél biztosítja, hogy az 1995. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék II. csoportjában szabályozott anyagok felhasználásának a számított szintje éves viszonylatban nem lépi túl az 1986. évi felhasználás számított szintjének az ötven százalékát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének a számított szintje éves viszonylatban nem lépi túl az 1986. évi termelés számított szintjének az ötven százalékát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tíz százalékával meghaladhatja ezt a határt. Ez a bekezdés alkalmazandó kivéve azt a mértéket, amelyet a Felek megállapítanak, olyan termelési vagy felhasználási szint megengedésére, amely olyan alapvető felhasználások kielégítéséhez szükséges, amelyekre nem állnak rendelkezésre megfelelő minőségű alternatívák.
+
+3\. Minden Fél biztosítja, hogy a 2000. január 1-jét követő tizenkét hónapos időszakban és azt követően minden tizenkét hónapos időszakban az ,,A'' függelék II. csoportjában szabályozott anyagok felhasználásának a számított szintje nem lépi túl a nullát. Egy vagy több ilyen anyagot termelő minden Fél ugyanezen időszakokra biztosítja, hogy az anyagok termelésének számított szintje nem lépi túl a nullát. Az 5. Cikk 1. bekezdése szerint működő Felek alapvető hazai igényeinek a kielégítésére azonban a termelés számított szintje az 1986. évi termelés számított szintjének legfeljebb tizenöt százalékával meghaladhatja ezt a határt. Ez a bekezdés alkalmazandó, kivéve azt a mértéket, amelyet a Felek megállapítanak olyan termelési vagy felhasználási szint megengedésére, amely olyan alapvető felhasználások kielégítéséhez szükségesek, amelyekre nem állnak rendelkezésre megfelelő alternatívák.
+
+4\. A Felek 1993. január 1-jéig döntésre kell jussanak az alapvető felhasználások — amennyiben ilyenek egyáltalán vannak — meghatározását illetően, ezen Cikk 2. és 3. bekezdéseinek alkalmazása céljából. Az ilyen döntést a Felek a soronlevő értkezleteiken áttekintik.''
+
+## 3. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1991. március 7. napjától kell alkalmazni.
+
+(2) E rendelet végrehajtásáról az érdekelt miniszterekkel és országos hatáskörű szervek vezetőivel egyetértésben a környezetvédelmi miniszter[^1], a pénzügyminiszter, valamint a Központi Statisztikai Hivatal elnöke gondoskodik.
+
+---
+
+[^1]: Lásd az 1998: XXXVI. törvény 2. §-a (1) bekezdésének e) pontját.

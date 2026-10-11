@@ -1,0 +1,244 @@
+---
+title: "227/1997. (XII. 10.) Korm. rendelet az atomkárfelelősségre vonatkozó biztosítási vagy más pénzügyi fedezet jellegéről, feltételeiről és összegéről"
+identifier: "227/1997. (XII. 10.) Korm. rendelet"
+njt_id: "1997-227-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/227"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-12-10
+in_force_from: 2003-08-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-227-20-22"
+retrieved: 2026-10-12
+---
+
+# 227/1997. (XII. 10.) Korm. rendelet az atomkárfelelősségre vonatkozó biztosítási vagy más pénzügyi fedezet jellegéről, feltételeiről és összegéről
+
+A Kormány az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: At.) 67. §-ának *g)* pontjában írt felhatalmazás alapján – az atomkárokért való polgári jogi felelősségről Bécsben, 1963. május 21-én kelt nemzetközi egyezmény kihirdetéséről intézkedő 24/1990. (II. 7.) MT rendeletre is figyelemmel – az alábbiakat rendeli el:
+
+## 1. §
+
+(1)[^1] A nukleáris létesítmény engedélyese köteles az At. 48. §-án alapuló, harmadik személy vonatkozásában fennálló atomkár-felelősségből eredő atomkár megtérítésére vonatkozó kötelezettségét biztosításra (felelősségbiztosításra), illetve más pénzügyi fedezetre irányuló szerződéssel rendezni.
+
+(2) Az (1) bekezdésben meghatározott kötelezettség kiterjed a nukleáris létesítményben keletkezett vagy létesítményből származó, abból kiszállított, illetőleg oda küldött nukleáris anyag révén a szállítás során bekövetkezett atomkárra is.
+
+(3) Nukleáris anyagnak a (2) bekezdés szerinti belföldről külföldre vagy külföldről belföldre történő szállítása során bekövetkezett atomkár esetében e rendelet előírásait azon körülmény figyelembevételével kell alkalmazni, mely szerint a felek a szállítási szerződésben meghatározzák – az At. 48. §-a (2) bekezdése alapján – a felelősség átszállásának helyét.
+
+(4) Engedélyes és munkavállalója közötti jogviszonyban e rendeletben foglaltak nem alkalmazhatók.
+
+(5) Költségvetési intézmények esetében e rendelet 7. §-ának (2)–(3) bekezdésében írt szabályok az irányadók.
+
+## 2. §
+
+(1)[^2] Atomkárra kötött felelősségbiztosítás esetében a biztosítóintézet – a szerződésben megállapított mértékben – mentesíti az engedélyest (biztosítottat) olyan atomkár megtérítése alól, amelyért jogszabály szerint felelősséggel tartozik, illetve a hitelintézet pénzügyi fedezet vállalásával atomkár esetére a kártérítésre kötelezettséget vállal.
+
+(2)[^3] Az engedélyes jogosult egy időben több biztosítóval felelősségbiztosításra, illetve több hitelintézettel pénzügyi fedezet vállalására irányuló szerződést kötni. Az egy időben hatályos szerződéseknek mindenkor fedezniük kell az engedélyesnek az At. 52. §-a (1) bekezdésében írt atomkár teljes megtérítésére vonatkozó felelősségét.
+
+(3) Az engedélyes jogosult több biztosítóintézetet magában foglaló nukleáris biztosító érdekszövetséggel is felelősségbiztosítást, illetőleg hitelintézet-csoporttal pénzügyi fedezet vállalására irányuló szerződést kötni.
+
+## 3. §
+
+(1) Az engedélyes köteles
+
+a)[^4] az atomerőmű, az atomfűtőmű, valamint a nukleáris üzemanyagot előállító, tároló, illetve feldolgozó létesítmény esetében nukleáris balesetenként az At. 52. § (1) bekezdésében meghatározott baleset esetére meghatározott összegre,
+
+b)[^5] egyéb nukleáris létesítményben, továbbá nukleáris anyag szállítása, illetve tárolása során bekövetkezett nukleáris balesetenként az At. 52. § (1) bekezdésében meghatározott baleset esetére meghatározott összegre
+
+felelősségbiztosítást, vagy hitelintézettel pénzügyi fedezet vállalására irányuló szerződést kötni.
+
+(2)[^6] A biztosításnak, illetőleg a hitelintézet pénzügyi fedezet vállalásának ki kell terjednie az At. 2. §-ának 23. pontjában megjelölt mindennemű atomkárra, ide nem értve az At. V. fejezetében írt kivételeket.
+
+(3) A (2) bekezdésben szabályozott szerződés megkötését, annak módosítását vagy megszüntetését az engedélyes az irat megküldésével köteles bejelenteni az Országos Atomenergia Hivatalnak (a továbbiakban: OAH) a szerződés vagy egyéb jognyilatkozat keletkezésétől számított nyolc napon belül.
+
+## 4. §
+
+(1) A biztosító a felelősségbiztosítás fedezetének megléte érdekében viszontbiztosítást, illetve a hitelintézet pénzügyi fedezetének megléte érdekében más pénzügyi biztosíték rendelkezésre tartására irányuló szerződést jogosult kötni.
+
+(2) A biztosító a felelősségbiztosítás fedezetének szavatolása érdekében jogosult hazai vagy nemzetközi nukleáris biztosítási érdekszövetségbe tagként belépni és együttbiztosítási megállapodást kötni.
+
+(3) Az atomkár fedezetét garantáló, a (2) bekezdésben írt együttbiztosítási megállapodás mentes a tisztességtelen piaci magatartás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában foglalt tilalom alól az említett törvény 96. §-ában rögzítettek alapján.
+
+## 5. §[^7]
+
+A biztosítási szerződésben vállalt biztosítási összeg, valamint a hitelintézetnek a pénzügyi fedezetül szolgáló összege csak az atomkár megtérítésére használható fel, és a szerződés érvényességi idején belül mindenkor rendelkezésre kell állnia, figyelemmel az At. 57. §-ában rögzített elévülési szabályokra.
+
+## 6. §
+
+(1) A felelősségbiztosításra vagy más pénzügyi fedezetre irányuló szerződésből eredő költségeket az engedélyes viseli.
+
+(2)[^8] Nukleáris létesítménynek minősülő költségvetési intézmény esetében a központi költségvetés az At. 54. §-ának (1) bekezdésében írt kötelezettségének úgy tesz eleget, hogy a Kormány áll helyt az atomkár bekövetkeztekor az atomkár megtérítéséért az At. 52. §-ának (1)–(2) bekezdésében írt összeghatárokon belül.
+
+(3) Nukleáris létesítménynek minősülő költségvetési intézménnyel összefüggő, e rendelet 1. §-ának (2)–(3) bekezdése szerinti szállítás esetén az 1. § (1) bekezdés szerinti kötelezettség a szállítót terheli.
+
+## 7. §
+
+(1) A felelősségbiztosítást vagy más pénzügyi fedezetet vállaló szervezet nem szüntetheti meg, illetve nem függesztheti fel az erre irányuló szerződést, kivéve, ha a megszüntetést vagy a felfüggesztést legalább két hónappal korábban az engedélyesnek és az OAH-nak írásban bejelentette.
+
+(2) Ha a biztosítás vagy más pénzügyi fedezet nukleáris anyag szállítására vonatkozik, a szállítás időtartama alatt a biztosítás vagy más pénzügyi fedezet nem szüntethető meg, és nem függeszthető fel.
+
+(3)[^9] A biztosító vagy a más pénzügyi fedezetet vállaló hitelintézet köteles gondoskodni arról, hogy a mindenkori atomkár-esemény esetére megfelelő pénzügyi garanciával rendelkezzen. Amennyiben a felelősségbiztosításra vagy más pénzügyi fedezetre irányuló szerződésben meghatározott összeghatárra a pénzügyi garancia nem áll a biztosító vagy a pénzügyi intézmény rendelkezésére, vagy az bármely ok folytán a szerződésben meghatározott értékhatár alá csökken, akkor ezt a biztosító vagy a hitelintézet azonnal köteles írásban az engedélyesnek és az OAH-nak bejelenteni.
+
+(4) A biztosító vagy a más pénzügyi fedezetet vállaló hitelintézet az At. 54. §-ának (2) bekezdésben írt időtartamig akkor is köteles az engedélyessel fennálló szerződés szerint helytállni, ha az engedélyes – bármely ok folytán – már nem rendelkezik üzemeltetési engedéllyel.
+
+## 8. §
+
+(1) A felelősségbiztosítás vagy más pénzügyi fedezet mindenkori meglétét és annak jogszabályban előírt feltételeinek fennállását az OAH ellenőrizheti az engedélyesnél.
+
+(2) Az ellenőrzés során felmerült hiányosságok esetében az OAH a más jogszabályban meghatározott szankciókat alkalmazza, valamint a nukleáris létesítmény üzemeltetési engedélyét felfüggesztheti.
+
+## 9. §
+
+Nukleáris anyagnak az 1. § (2) bekezdés szerinti szállítása esetén a szállítási okmányokhoz csatolni kell e rendelet *melléklete* szerinti igazolásokat.
+
+## 10. §
+
+(1)[^10] Az atomkár megtérítése iránti igény érvényesítése során az engedélyes felelősségét biztosító szervezet a biztosítási összeghatáron belül, illetve az engedélyesért más pénzügyi fedezetet vállaló szervezet a pénzügyi fedezet összegén belül minden atomkárt szenvedett károsult részére a teljes atomkárt köteles megtéríteni.
+
+(2)[^11] Ha az engedélyes több biztosítóval, biztosítócsoporttal köt biztosítási szerződést, illetőleg több hitelintézettel, hitelintézet-csoporttal köt pénzügyi fedezet vállalására irányuló szerződést, akkor a felek többoldalú megállapodásban egymás között rögzítik, hogy az atomkár miatt mely szervezet(ek), milyen arányban és mennyi időn belül köteles(ek) az atomkárt megtéríteni.
+
+(3)[^12] Ha az At. 52. § (2) bekezdésében meghatározott maximális összeg valószínűsíthetően nem elegendő valamennyi atomkár megtérítésére jogosult megtérítési igényének fedezésére, akkor az energiapolitikáért felelős miniszter és az államháztartásért felelős miniszter javaslatára a Kormány dönt arról, hogy további intézkedésig az atomkár megtérítésének fedezetéül szolgáló összegnek mekkora hányada használható fel az atomkár megtérítésére jogosultak megtérítési igényeinek a bekövetkezett atomkár mértékével arányos kielégítésére.
+
+(4)[^13] Az atomkár-felelősséget biztosító szervezet, vagy azért más pénzügyi fedezetet vállaló pénzügyi intézmény – figyelemmel a (2) bekezdésben foglaltakra is – az atomkárt szenvedettek az atomkár megtérítése iránti igényeit a az atomkár bejelentés időrendi sorrendjében köteles kielégíteni. Az emberélet elvesztéséből, a személyek testi épsége és egészsége megsértése folytán keletkezett atomkárból eredő követeléseket a dologi károk megtérítése előtt előnyben kell részesíteni.
+
+(5)[^14]
+
+(6)[^15] Az atomkár megtérítésére vonatkozó összeggel kapcsolatos kamatokra és egyéb költségekre az At. 56. §-ának (1) bekezdésében írt szabály az irányadó.
+
+## 11. §[^16]
+
+E rendeletben meghatározott összeghatárok feletti – és az At. 52. §-ának (2) bekezdésében maximált – atomkár megtérítése iránti igények kielégítéséről az energiapolitikáért felelős miniszternek és az államháztartásért felelős miniszternek a javaslatára a Kormány dönt. A döntés végrehajtásáról az államháztartásért felelős miniszter gondoskodik.
+
+## 12. §
+
+(1)[^17] Az atomkár megtérítése magyar hivatalos fizetőeszközben történik, az At.-ben SDR-ben meghatározott összeg átszámítása alapján. Az átszámításnál a Magyar Nemzeti Bank által megállapított – a nukleáris baleset bekövetkezésének időpontjában érvényes – SDR középárfolyamot kell figyelembe venni.
+
+(2)[^18] Külföldi állampolgár az atomkár megtérítésére vonatkozó összeget az állampolgársága vagy a lakóhelye szerinti állam hivatalos fizetőeszközében jogosult felvenni.
+
+## 13. §
+
+E rendelet a kihirdetése napját követő 30. napon lép hatályba.
+
+## Melléklet a 227/1997. (XII. 10.) Korm. rendelethez
+
+**Igazolás a nukleáris anyagok szállításának biztosításáról, illetve más pénzügyi fedezetéről**
+
+I.
+
+1\. Az igazolás száma: .........
+
+2\. Az engedélyes neve és címe
+
+Név: ........................
+
+Cím: ........................
+
+3\. A biztosítás, illetve más pénzügyi fedezet (a továbbiakban: biztosítás) összege
+
+...............................
+
+...............................
+
+4\. A biztosítás típusa
+
+...............................
+
+...............................
+
+5\. A biztosítás időtartama
+
+...............................
+
+...............................
+
+6\. A biztosított nukleáris anyagok megnevezése
+
+...............................
+
+...............................
+
+7\. A szállítás, amelyre a biztosítás vonatkozik
+
+...............................
+
+...............................
+
+8\. A biztosítást nyújtó biztosító(k), illetve hitelintézet(ek) neve és címe
+
+Név: ........................
+
+Cím: ........................
+
+Dátum: ........................
+
+………………………………………
+
+aláíró neve és beosztása
+
+II.
+
+Az Országos Atomenergia Hivatal igazolja, hogy az I. 2. pontban jelzett jogi személy nukleáris létesítmény engedélyese.
+
+Dátum: ........................
+
+...............................
+
+...............................
+
+………………………………………
+
+aláíró neve és beosztása
+
+III.
+
+Az engedélyes .................
+
+...............................
+
+amelynek székhelye ..........
+
+.............................
+
+igazolja, hogy a nukleáris anyagok következőkben leírt szállítása a megbízásából történik, és erre a szállításra az I. részben leírt biztosítás vonatkozik.
+
+A biztosított nukleáris anyagok megnevezése
+
+...............................
+
+...............................
+
+A szállítás, amelyre a biztosítás vonatkozik
+
+...............................
+
+...............................
+
+...............................
+
+Dátum: ........................
+
+………………………………………
+
+aláíró neve és beosztása
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^7]: Az 5. § az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^9]: A 7. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^10]: A 10. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^11]: A 10. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^12]: A 10. § (3) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 767/2021. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 10. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^14]: A 10. § (5) bekezdését az 53/2014. (III. 3.) Korm. rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^15]: A 10. § (6) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^16]: A 11. § a 114/2003. (VII. 29.) Korm. rendelet 22. §-ának (3) bekezdése, az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés n) pontja, a 767/2021. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^17]: A 12. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^18]: A 12. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 6. § (2) bekezdés o) pontja szerint módosított szöveg.

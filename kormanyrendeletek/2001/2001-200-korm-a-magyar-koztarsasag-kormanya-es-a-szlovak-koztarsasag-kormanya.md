@@ -1,0 +1,186 @@
+---
+title: "200/2001. (X. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a helyi önkormányzatok és közigazgatási szervek határon átívelő együttműködéséről szóló, Budapesten,  2001. április 23-án aláírt Egyezmény kihirdetéséről"
+identifier: "200/2001. (X. 20.) Korm. rendelet"
+njt_id: "2001-200-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/200"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-10-20
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-200-20-22"
+retrieved: 2026-10-12
+---
+
+# 200/2001. (X. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a helyi önkormányzatok és közigazgatási szervek határon átívelő együttműködéséről szóló, Budapesten, 2001. április 23-án aláírt Egyezmény kihirdetéséről
+
+(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 2001. év szeptember hó 28. napján megtörtént.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a helyi önkormányzatok és közigazgatási szervek határon átívelő együttműködéséről szóló, Budapesten, 2001. április 23-án aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„,,
+
+**EGYEZMÉNY**\
+**a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a helyi önkormányzatok és közigazgatási szervek határon átívelő együttműködéséről**
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+azzal a szándékkal, hogy elősegítsék a Magyar Köztársaság és a Szlovák Köztársaság között Párizsban, 1995. március 19-én aláírt, a jószomszédi kapcsolatokról és a baráti együttműködésről szóló Szerződésben meghatározott célkitűzések megvalósítását,
+
+tudatában annak, hogy szükséges a közép-európai országok közötti együttműködés megerősítése,
+
+meggyőződve arról, hogy a határokon átívelő együttműködés fejlesztése hozzájárul a Magyar Köztársaság és a Szlovák Köztársaság közötti jószomszédi kapcsolatok, a kölcsönös megértés erősítéséhez,
+
+kifejezve szándékukat, hogy kedvező feltételeket teremtsenek az egymással szomszédos határ menti területek, városok, községek és azok szövetségei együttműködésének fejlesztéséhez,
+
+tekintettel a határ menti térségek közös kulturális és természeti öröksége megőrzésének szükségességére,
+
+figyelemmel a Területi Önkormányzatok és Közigazgatási Szervek Határ Menti Együttműködéséről szóló, 1980. május 21-én, Madridban aláírt Európai Keretegyezményre,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A jelen Egyezményben használt fogalmak jelentése a következő:
+
+(1) ,,határon átívelő együttműködés'': minden olyan közös tevékenység, amely a helyi és területi önkormányzatok és közigazgatási szervek, valamint az ehhez kapcsolódó egyéb szervek közötti jószomszédi kapcsolatok erősítésére és továbbfejlesztésére irányul.
+
+(2) A helyi és területi önkormányzatok és közigazgatási szervek a következők:
+
+*a magyar Szerződő Fél részéről*
+
+*a)* helyi önkormányzatok:
+
+– a települési önkormányzatok: a község, a város, a főváros és a fővárosi kerületek önkormányzatai, ideértve a helyi, fővárosi és fővárosi kerületi kisebbségi önkormányzatot is,
+
+– a területi önkormányzatok: a megyei önkormányzat,
+
+*b)* közigazgatási szervek: a fővárosi, illetve a megyei közigazgatási hivatal;
+
+*a szlovák Szerződő Fél részéről:*
+
+*a)* helyi és területi önkormányzat: a települések és a magasabb területi egységek,
+
+*b)* a közigazgatás egyéb szervei: az államigazgatás helyi szervei és egyéb szervek, amelyek a belső jogszabályok alapján helyi és regionális szintű feladatokat látnak el (pl. járási és kerületi hivatalok).
+
+*2. Cikk*
+
+(1) A Szerződő Felek tájékoztatják a helyi és területi önkormányzatokat és a közigazgatás egyéb szerveit és résztvevőit (a továbbiakban: az együttműködés résztvevői) a határon átívelő együttműködési lehetőségekről és segítséget nyújtanak azok eredményes megvalósításához.
+
+(2) A Szerződő Felek támogatják és ösztönzik az együttműködés résztvevőinek mindazon kezdeményezését, amelyek a jelen Egyezményben meghatározott célok megvalósítását szolgálják.
+
+(3) A Szerződő Felek rendszeresen tájékoztatják egymást az együttműködés résztvevőivel kapcsolatos lényeges belső – főként szervezeti és hatáskörükben történt – jogszabályi változásokról.
+
+*3. Cikk*
+
+(1) A Szerződő Felek mindent megtesznek annak érdekében, hogy felszámolják az együttműködés kialakítását, fejlesztését, valamint megvalósítását hátráltató jogi, illetve technikai akadályokat. Ennek érdekében, bármelyik Szerződő Fél kezdeményezésére megbeszéléseket és találkozókat tartanak.
+
+(2) A Szerződő Felek kölcsönös egyeztetés útján arra törekednek, hogy a jelen Egyezmény végrehajtásához az együttműködés résztvevői számára a szükséges erőforrásokat biztosítsák.
+
+*4. Cikk*
+
+A Szerződő Felek törekednek arra, hogy az együttműködés résztvevői számára ugyanolyan feltételeket biztosítsanak, mint amelyekkel az országon belüli együttműködésük során rendelkeznek. A Szerződő Felek kiemelten támogatják az együttműködés résztvevőit a hazai és nemzetközi programokban és pályázatokban való részvételük során.
+
+*5. Cikk*
+
+(1) A határon átívelő együttműködés különösen az alábbi területekre terjed ki:
+
+*a)* település- és regionális fejlesztés, különösen az Európai Unió regionális politikájához való illeszkedés elősegítése; a regionális együttműködésben rejlő kölcsönös előnyök vizsgálata, ezen térségek, köztük a kistérségek és a határ menti települések összehangolt fejlesztésének elősegítése, a határ menti vállalkozási övezetek, ipari parkok, euro-régiók kialakítása, fejlesztésük támogatása;
+
+*b)* a határ menti térség természeti-tájvédelmi feltételeinek feltárása, értékelése, ökoturisztikai hasznosítás céljából;
+
+*c)* közlekedési infrastruktúra fejlesztése;
+
+*d)* a környezet és természet alakítása és védelme;
+
+*e)* gazdasági vállalkozások, beruházások, munkahelyteremtés elősegítése;
+
+*f)* mezőgazdasági fejlesztés, amely megfelel a környezet-, természet- és tájvédelmi követelményeknek;
+
+*g)* idegenforgalom, különös tekintettel a természetkímélő turizmus, az agroturizmus és a kultúrtörténeti emlékek látogatottságának fejlesztésére;
+
+*h)* a közszolgáltatások összehangolt fejlesztése, a meglévő szolgáltatások különbségeinek mérséklése, különösen az ivóvíz ellátás, a szennyvíz elvezetése és tisztítása, a hulladék elhelyezése;
+
+*i)* egészségügy, különösen az egészségügyi intézmények kihasználása a szomszédos térségben élő lakosság számára, összhangban az egészségügy területén lévő belső jogi előírásokkal;
+
+*j)* az oktatás és képzés, a művelődés, a kultúra, a szabadidő és sport terén;
+
+*k)* foglalkoztatáspolitika;
+
+*l)* a nemzeti kisebbségi nyelvű oktatás fejlesztése, kultúra ápolása, testvériskolák együttműködésének támogatása;
+
+*m)* partnerkapcsolat kialakítása azokkal a helyi és területi önkormányzatokkal, amelyek területén jelentős számban él magyar, illetve szlovák nemzeti kisebbség;
+
+*n)* kölcsönös együttműködés és információcsere katasztrófák és más balesetek esetén, illetve azok megelőzése érdekében;
+
+*o)* a bűnmegelőzés, a közrend és a közbiztonság érdekében.
+
+*6. Cikk*
+
+A Szerződő Felek a jelen Egyezményben meghatározott célok elérése érdekében különösen támogatják:
+
+*a)* az országos, helyi és területi önkormányzati érdekképviseleti szervek együttműködését,
+
+*b)* az alapítványokat és egyéb közhasznú tevékenységet végző jogi személyeket,
+
+*c)* a civil szervezeteket és non-profit szervezeteket,
+
+*d)* a gazdasági vállalkozásokat és a költségvetési intézményeket, figyelemmel ezen szervezetek működésére vonatkozó belső jogszabályokban foglaltakra.
+
+*7. Cikk*
+
+Az együttműködés résztvevői saját hatáskörükben önállóan tervezik és szervezik az együttműködésüket, és annak megvalósítása érdekében egymással közvetlen kapcsolatot építenek ki, tartanak fenn és megfelelő szerződéseket köthetnek.
+
+*8. Cikk*
+
+(1) A Szerződő Felek a jelen Egyezmény végrehajtása érdekében ,,Határon átívelő együttműködést szolgáló Magyar–Szlovák Kormányközi Vegyes Bizottságot'' (a továbbiakban: Vegyes Bizottság) hoznak létre.
+
+(2) A Vegyes Bizottság a Magyar Köztársaság Külügyminisztériuma és a Szlovák Köztársaság Külügyminisztériuma között, a Magyar Köztársaság és a Szlovák Köztársaság között Párizsban, 1995. március 19-én aláírt, a jószomszédi kapcsolatokról és a baráti együttműködésről szóló Szerződés teljesítésének elősegítését szolgáló mechanizmus létrehozásáról szóló, Pozsonyban, 1998. november 24-én aláírt Jegyzőkönyv alapján létrehozott mechanizmus részeként fejti ki tevékenységét.
+
+(3) A Vegyes Bizottságban a Szerződő Felek biztosítják az egyenlő képviseletet. A Vegyes Bizottságban az önkormányzatok képviselőiket érdekképviseleti szerveik útján jelölik.
+
+(4) A Vegyes Bizottság kidolgozza az alapszabályzatát és az ügyrendjét.
+
+*9. Cikk*
+
+A jelen Egyezmény értelmezéséből vagy alkalmazásából eredő vitákat a Szerződő Felek a Vegyes Bizottság útján rendezik, amennyiben a Vegyes Bizottságban nem állapodnak meg, a vitát diplomáciai úton rendezik.
+
+*10. Cikk*
+
+A jelen Egyezmény nem érinti a Szerződő Felek által kötött más nemzetközi szerződéseket és az ezekből eredő jogokat és kötelezettségeket.
+
+*11. Cikk*
+
+(1) A Szerződő Felek kölcsönösen értesítik egymást arról, hogy eleget tettek a jelen Egyezmény hatálybalépéséhez szükséges belső jogi előírásaiknak. Az Egyezmény az erről szóló későbbi diplomáciai jegyzék átvételét követő harmincadik (30) napon lép hatályba.
+
+(2) A Szerződő Felek a jelen Egyezményt határozatlan időre kötik, és azt bármelyik Szerződő Fél diplomáciai úton, írásban felmondhatja. Ez esetben a jelen Egyezmény a felmondásról szóló értesítés kézhezvételétől számított hat (6) hónap elteltével hatályát veszti.
+
+(3) A jelen Egyezmény hatálya alatt érvényesen vállalt kötelezettségek teljesítését az Egyezmény megszűnése nem érinti, a kötelezettségek teljesítéséig az Egyezményben foglaltak az irányadók.
+
+(4) A jelen Egyezményt a Szerződő Felek kölcsönös egyetértéssel, diplomáciai úton írásban módosíthatják vagy kiegészíthetik.
+
+Készült Budapesten, 2001. április hónap 23. napján, két eredeti példányban, magyar és szlovák nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Szlovák Köztársaság\
+Kormánya nevében''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2001. év október hó 28. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a helyi önkormányzatokért felelős miniszter és a közigazgatás-szervezésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 140. pontja szerint módosított szöveg.

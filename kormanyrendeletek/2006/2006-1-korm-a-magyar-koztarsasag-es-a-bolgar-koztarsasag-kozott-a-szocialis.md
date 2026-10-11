@@ -1,0 +1,245 @@
+---
+title: "1/2006. (I. 4.) Korm. rendelet a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény végrehajtására szolgáló igazgatási megállapodás kihirdetéséről"
+identifier: "1/2006. (I. 4.) Korm. rendelet"
+njt_id: "2006-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-01-04
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/2006. (I. 4.) Korm. rendelet a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény végrehajtására szolgáló igazgatási megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény kihirdetéséről szóló 2006. évi I. törvény 4. § (5) bekezdésében kapott felhatalmazás alapján a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény végrehajtására szolgáló, Szófiában, 2005. november 30-án aláírt igazgatási megállapodást (a továbbiakban: igazgatási megállapodás) e rendelettel kihirdeti.
+
+## 2. §[^1]
+
+Az igazgatási megállapodás hiteles magyar nyelvű szövege a következő:
+
+„
+
+Igazgatási megállapodás a Magyar Köztársaság\
+és a Bolgár Köztársaság között a szociális biztonságról szóló Egyezmény végrehajtására
+
+A Magyar Köztársaság és a Bolgár Köztársaság között, Szófiában, 2005. november 30-án aláírt, a szociális biztonságról szóló Egyezmény 32. cikk (1) bekezdése alapján a két fél illetékes hatóságai nevében az Egyezmény alkalmazása érdekében
+
+a Magyar Köztársaság részéről
+
+az egészségügyi miniszter,
+
+a Bolgár Köztársaság részéről
+
+a munkaügyi és szociálpolitikai miniszter, valamint
+
+az egészségügyi miniszter
+
+az alábbiakban állapodtak meg:
+
+I. Rész
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*1. cikk*
+
+*Fogalommeghatározások*
+
+A jelen Igazgatási Megállapodás – a továbbiakban „Megállapodás” – alkalmazásában
+
+1\. az „Egyezmény” a Magyar Köztársaság és a Bolgár Köztársaság közötti, a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezményt jelenti;
+
+2\. minden egyéb fogalom esetében az Egyezmény 1. cikkében foglaltakat kell figyelembe venni.
+
+*2. cikk*
+
+Illetékes teherviselők és összekötő\
+szervek
+
+(1) Az Egyezmény 1. cikk (1) bekezdésének 6. és 14. pontja szerinti illetékes teherviselők, illetve összekötő szervek az alábbiak:
+
+A Magyar Köztársaság részéről:
+
+– a nyugellátások tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság
+
+– a munkanélküli járadék tekintetében a Foglalkoztatási Hivatal
+
+– minden egyéb esetben az Országos Egészségbiztosítási Pénztár
+
+A Bolgár Köztársaság részéről:
+
+– az állami társadalombiztosítás pénzbeli ellátásai tekintetében a Nemzeti Biztosítási Intézet,
+
+– a kötelező egészségbiztosítás keretében járó egészségügyi ellátások tekintetében a Nemzeti Egészségbiztosítási Pénztár,
+
+– a sürgősségi egészségügyi ellátások tekintetében az Egészségügyi Minisztérium,
+
+– az Egyezmény 13. cikkének (3) bekezdésében felsorolt természetbeni ellátásokra – ide nem értve a kötelező egészségbiztosítás keretébe tartozó ellátásokat – a Fogyatékos Személyek Ügynöksége.
+
+(2) Az összekötő szervek megkönnyítik a Szerződő Felek intézményei közötti kommunikációt, és a Megállapodásban rögzített hatáskörrel rendelkeznek. Az összekötő szervek jelen Megállapodásban rögzített hatáskörüket kijelölt intézményekre átruházhatják, a másik Szerződő Fél összekötő szervének egyidejű értesítésével. Az Egyezmény végrehajtása érdekében az összekötő szervek közvetlenül kapcsolatba léphetnek egymással, továbbá az érdekelttel, vagy annak képviselőjével. Az összekötő szervek kölcsönösen támogatják egymást az Egyezmény végrehajtása érdekében.
+
+II. Rész
+
+*AZ ALKALMAZANDÓ JOG IGAZOLÁSA*
+
+*3. cikk*
+
+*Az alkalmazandó jogra vonatkozó nyomtatványok*
+
+(1) Az Egyezmény 7–9. cikkében előírt esetekben azokat a nyomtatványokat kell használni, amelyek igazolják, hogy melyik Szerződő Fél jogszabályait kell alkalmazni az adott biztosított személy tekintetében. Ezeket a nyomtatványokat a biztosított személy kérelmére
+
+– a Magyar Köztársaság tekintetében az Országos Egészségbiztosítási Pénztár,
+
+– a Bolgár Köztársaság tekintetében a Nemzeti Biztosítási Intézet
+
+állítja ki.
+
+(2) Az (1) bekezdés szerint kiadott nyomtatványt megküldik a biztosított személynek. A másik Szerződő Fél (1) bekezdésben megjelölt intézményét tájékoztatják a kibocsátott nyomtatványok számáról és tartalmáról.
+
+III. Rész
+
+*AZ ELLÁTÁSOKRA VONATKOZÓ KÜLÖNLEGES RENDELKEZÉSEK*
+
+*4. cikk*
+
+*Igénybejelentések*
+
+(1) Ha az egyik Szerződő Fél összekötő szervéhez vagy illetékes teherviselőjéhez a másik Szerződő Fél jogszabályai szerinti ellátás iránti igénybejelentés érkezik, akkor az előbbi késedelem nélkül eljuttatja az igénybejelentést a másik Szerződő Fél összekötő szervéhez vagy illetékes teherviselőjéhez, megjelölve az igénybejelentés dátumát.
+
+(2) Az igénybejelentéssel együtt az első Szerződő Fél összekötő szerve vagy illetékes teherviselője eljuttatja mindazokat a rendelkezésére álló dokumentumokat, amelyek szükségesek lehetnek a másik Szerződő Fél illetékes teherviselője számára a kérelmezőnek az ellátásra való jogosultsága megállapításához.
+
+(3) Amennyiben az első Szerződő Fél összekötő szerve vagy illetékes teherviselője igazolja, hogy az egyénre vonatkozó, az igénybejelentésben feltüntetett személyes adatokat dokumentumok támasztják alá, ilyen esetben az alátámasztó dokumentumok elküldése nem szükséges. Azokat az adatokat, amelyekre ez a bekezdés vonatkozik, a Szerződő Felek összekötő szervei közös megegyezéssel határozzák meg.
+
+(4) Az (1) és (2) bekezdésekben említett igénybejelentés és dokumentum mellett az első Szerződő Fél összekötő szerve vagy illetékes teherviselője eljuttatja a másik Szerződő Fél összekötő szervéhez vagy illetékes teherviselőjéhez azt az adatok közlésére szolgáló nyomtatványt, amely tartalmazza az első Szerződő Fél jogszabályai szerint beszámítandó biztosítási időszakokat.
+
+(5) Az illetékes teherviselő ezt követően elbírálja a kérelmező jogosultságát, és értesíti döntéséről a kérelmezőt, valamint a másik Szerződő Fél összekötő szervét vagy teherviselőjét, csatolva egyidejűleg az általa beszámított időszakokat tartalmazó nyomtatványt.
+
+*5. cikk*
+
+*Keresőképtelenségre vonatkozó nyomtatvány*
+
+Az egyik Szerződő Fél összekötő szerve vagy illetékes teherviselője a másik Szerződő Fél összekötő szerve, illetékes teherviselője vagy a kérelmező kérésére az érintett személy keresőképtelenségére vonatkozó nyomtatványt állít ki.
+
+*6. cikk*
+
+*Természetbeni ellátások nyújtása betegség és anyaság esetében*
+
+(1) Az a személy, aki az Egyezmény 13. cikk (1) bekezdésének 1. pontjában és 15. cikkében megjelölt természetbeni ellátásokban akar részesülni, köteles magát nyilvántartásba vetetni a lakóhelye szerinti illetékes teherviselőnél, bemutatva az illetékes teherviselő által kiállított nyomtatványt, amellyel igazolja, hogy e természetbeni ellátásokra jogosult. Ha az érintett személy nem mutatja be a megfelelő nyomtatványt, kérésére a lakóhely szerint illetékes teherviselő fordulhat az illetékes teherviselőhöz, annak beszerzése céljából. E nyomtatvány a rajta feltüntetett érvényességi idő utolsó napjáig, vagy addig érvényes, amíg a lakóhely szerint illetékes teherviselő nem kapja meg az érvényesség megszűnéséről szóló hivatalos írásbeli értesítést. A lakóhely szerint illetékes teherviselő tájékoztatja az illetékes teherviselőt az általa elvégzett összes nyilvántartásba-vételről.
+
+(2) Az Egyezmény 13. cikke (1) bekezdésének 2. pontjában megjelölt természetbeni ellátások igénybevétele esetén az ellátásokra való jogosultságot az illetékes teherviselő által kiállított nyomtatvánnyal kell igazolni. Amennyiben az ellátás nyújtásakor a kérelmező nem tudta bemutatni a nyomtatványt, a tartózkodási hely szerinti teherviselő az illetékes teherviselőhöz fordulhat a nyomtatvány utólagos beszerzése érdekében.
+
+(3) Az a személy, aki az Egyezmény 13. cikke (1) bekezdésének 3. pontjában megjelölt természetbeni ellátásokban akar részesülni, köteles a tartózkodási helye szerint illetékes teherviselőnél egy olyan nyomtatványt bemutatni, amely igazolja, hogy az illetékes teherviselő engedélyezte számára a szükséges gyógykezelés igénybevételét. Ez a nyomtatvány tartalmazza azt a maximális időtartamot, ameddig a természetbeni ellátások nyújthatók.
+
+(4) A jelen cikk rendelkezései a magyar jogszabályok szerint biztosított személy családtagjaira is vonatkoznak.
+
+*7. cikk*
+
+*Betegség és anyaság esetében nyújtott természetbeni ellátások költségeinek visszatérítése*
+
+(1) Az Egyezmény 13. és 15. és 16. cikkeiben említett személyeknek nyújtott ellátások költségeit a Szerződő Felek minden egyes összekötő szerve közli a másik összekötő szervvel negyedéves lebontásban. E költségek megtérítése iránti kérelmet az év minden egyes negyedévét követően, de legkésőbb 3 éven belül kell megküldeni és a kézhezvételtől számított 6 hónapon belül kerül sor az elintézésére.
+
+(2) Az Egyezmény 18. cikk (1) bekezdése szerinti felmerült költség a természetbeni ellátásokat nyújtó Szerződő Fél jogszabályai szerinti teljes költséget jelenti.
+
+(3) A Szerződő Felek teherviselői a természetbeni ellátások költségeit a saját nemzeti valutájukban fejezik ki. Ezen költségeket az illetékes teherviselő fizeti ki úgy, hogy a „Költségszámítás a természetbeni ellátásokhoz” nyomtatvány kiállításának napján érvényes hivatalos nemzeti banki árfolyamon euróra számolt összeget utal a nyomtatványt kiállító teherviselőnek.
+
+(4) A visszatérítési kérelem kifizetésének megtagadását a felek az (1) bekezdésben foglaltak szerinti egyeztetett fizetési határidő lejártáig közlik egymással.
+
+*8. cikk*
+
+*Nagyobb értékű segédeszközök és más jelentős értékű természetbeni ellátások nyújtása*
+
+(1) Az Egyezmény 13. cikkének (3) bekezdésében előírt nagyobb értékű segédeszközök és más jelentős értékű természetbeni ellátások azok, amelyek értéke a szolgáltatás nyújtásának időpontjában meghaladja az érvényes nemzeti banki árfolyam alapján számított 100 eurónak megfelelő nemzeti valutában kifejezett értéket.
+
+(2) Az (1) bekezdés szerinti ellátásokat az illetékes teherviselő jóváhagyása alapján nyújtják, a sürgősségi esetek kivételével.
+
+(3) Annak a Szerződő Félnek a teherviselője, amelynek területén az (1) bekezdés szerinti ellátásokat nyújtják, nyomtatványt küld annak az illetékes teherviselőnek, amely a felmerült költségek viselésére köteles.
+
+*9. cikk*
+
+*A pénzbeli ellátások kifizetése*
+
+(1) A Szerződő Felek illetékes teherviselői a pénzbeli ellátások kifizetését a jogosult részére teljesítik belső jogszabályaik szerint, az Egyezmény 5. cikkében foglaltak figyelembevételével.
+
+(2) A másik Szerződő Fél területén történő nyugdíjfolyósításhoz az szükséges, hogy a jogosultnak – az erre a célra jóváhagyott kétnyelvű formanyomtatványon – évente kétszer el kell küldenie az illetékes teherviselő számára egy életbenléti igazolást, amelyet személyesen ír alá, és amelyet a lakóhelye szerinti Szerződő Fél illetékes teherviselője, illetőleg a lakó-, tartózkodási helye szerint illetékes polgármester, jegyző igazol.
+
+*10. cikk*
+
+A biztosítási idők egybeszámítása\
+a munkanélküli ellátás megállapításához
+
+Az Egyezmény 24. cikk (2) bekezdésében foglalt rendelkezések végrehajtása és a munkanélküli ellátásra való jogosultság megállapítása érdekében a két Szerződő Fél jogszabályai szerinti biztosítási időket, valamint az igénybe vett munkanélküli ellátás folyósításának időtartamát az illetékes összekötő szerveknek nyomtatvánnyal kell igazolniuk. A nyomtatványt az érintett személynek be kell mutatnia az ellátást megállapító szervnek. Amennyiben az érintett személy nem nyújtja be a nyomtatványt, akkor a Szerződő Fél összekötő szerve kéri a nyomtatvány megküldését.
+
+*11. cikk*
+
+*Információk és statisztikai adatok cseréje*
+
+(1) A Szerződő Felek összekötő szervei évente rendszeresen kicserélik azokra a kifizetésekre vonatkozó statisztikai kimutatásaikat, amelyeket a Szerződő Felek illetékes teherviselői teljesítettek. E statisztikai kimutatásoknak tartalmazniuk kell a kedvezményezettek számára és a kifizetett ellátások összesített összegére vonatkozó adatokat, ellátástípusok szerinti bontásban.
+
+(2) A Szerződő Felek illetékes teherviselői tájékoztatják egymást valamennyi, az ellátással kapcsolatos fontos tényről, amennyiben az adott ellátásra mindkét Szerződő Fél jogszabályai szerint igényjogosultság áll fenn. Ez különösen az alábbi tényállásokra vonatkozik, amennyiben azok az illetékes teherviselő tudomására jutnak:
+
+1\. valamely ellátás megállapítása, felfüggesztése vagy megszüntetése,
+
+2\. új biztosítási idők igazolása,
+
+3\. a foglalkoztatás, az önálló tevékenység, vagy a tanulmányok megkezdése, folytatása, befejezése,
+
+4\. özvegy újbóli házasságkötése,
+
+5\. az ellátásra jogosult személy halála,
+
+6\. lakóhely, tartózkodási hely címének változása,
+
+7\. más állampolgárság felvétele.
+
+IV. Rész
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*12. cikk*
+
+*Nyomtatványok és eljárások*
+
+(1) A jelen Megállapodás alapján a Szerződő Felek összekötő szervei közösen állapodnak meg az Egyezmény alkalmazásához szükséges nyomtatványokról és eljárásokról.
+
+(2) Az egyik Szerződő Fél illetékes teherviselője, illetve összekötő szerve visszautasíthatja a másik Szerződő Fél jogszabályai szerinti ellátás megállapítása iránti igénybejelentési nyomtatvány átvételét, ha az igénybejelentés nem a kölcsönösen elfogadott nyomtatványokon történik.
+
+*13. cikk*
+
+*Hatálybalépés*
+
+(1) A Megállapodás azon a napon lép hatályba, amikor a Szerződő Felek értesítették egymást, hogy a hatálybalépéshez szükséges belső jogi feltételeknek eleget tettek.
+
+(2) A Megállapodás az Egyezmény hatálybalépésétől kezdve alkalmazandó, és az Egyezmény hatályának megszűnésével egyidejűleg hatályát veszti.
+
+Készült Szófiában, 2005. november 30-án, két eredeti példányban, magyar és bolgár nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+részéről:
+
+az egészségügyi miniszter
+
+A Bolgár Köztársaság\
+részéről:
+
+a munkaügyi és\
+szociálpolitikai miniszter,\
+az egészségügyi miniszter”
+
+## 3. §
+
+(1) Ez a rendelet a (2) bekezdésben meghatározott kivétellel a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény kihirdetéséről szóló 2006. évi I. törvény hatálybalépésének napján lép hatályba.
+
+(2) E rendelet 2. §-a a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény kihirdetéséről szóló 2006. évi I. törvény 2–3. §-a hatálybalépésének napján lép hatályba.
+
+(3)[^2]
+
+---
+
+[^1]: A 2. § e rendelet 3. § (2) bekezdése alapján a Magyar Köztársaság és a Bolgár Köztársaság között a szociális biztonságról szóló, Szófiában, 2005. november 30-án aláírt Egyezmény kihirdetéséről szóló 2006. évi I. törvény 2–3. §-a hatálybalépésének napján lép hatályba. A 8/2006. (IV. 20.) KüM határozat alapján a hatálybalépés napja 2006. július 1. napja.
+[^2]: A 3. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 388. pontja hatályon kívül helyezte.

@@ -1,0 +1,121 @@
+---
+title: "199/2001. (X. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Japán Kormány között a Debreceni Csokonai Színház videofelvevő és szerkesztő berendezéssel való ellátása tárgyában történő levélváltás kihirdetéséről"
+identifier: "199/2001. (X. 20.) Korm. rendelet"
+njt_id: "2001-199-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/199"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-10-20
+in_force_from: 2001-10-20
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-199-20-22"
+retrieved: 2026-10-12
+---
+
+# 199/2001. (X. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és a Japán Kormány között a Debreceni Csokonai Színház videofelvevő és szerkesztő berendezéssel való ellátása tárgyában történő levélváltás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Japán Kormány között a Debreceni Csokonai Színház videofelvevő és szerkesztő berendezéssel való ellátása tárgyában 2000. december hó 21. nap létrejött levélváltást e rendelet *mellékleteként* kihirdeti.
+
+## 2. §[^1]
+
+Ez a rendelet a kihirdetése napján lép hatályba, végrehajtásáról a kultúráért felelős miniszter gondoskodik.
+
+## Melléklet a 199/2001. (X. 20.) Korm. rendelethez
+
+A levélváltás magyar és angol nyelvű szövege a következő:
+
+,,
+
+Asszonyom,
+
+Tisztelettel hivatkozom a Japán Kormány és a Magyar Köztársaság Kormánya képviselői között a közelmúltban lezajlott megbeszélésre, amelynek tárgya a Debreceni Csokonai Színház videofelvevő és szerkesztő berendezéssel (a továbbiakban: ,,Felszerelés'') történő ellátása volt és Japán Kormánya nevében a következő intézkedéseket van szerencsém javasolni:
+
+1\. A Magyar Köztársaságban folyó színházi tevékenység elősegítése céljából Japán Kormánya, a Japánban hatályos törvényeknek és jogszabályoknak megfelelően, 41 900 000 yen (negyvenegymillió kilencszázezer yen) állami segélyt (a továbbiakban: ,,Segély'') nyújt a Magyar Köztársaság Kormányának.
+
+2\. (1) A Segélyt a Magyar Köztársaság Kormánya szigorúan és kizárólagosan a Japánban vagy a Magyar Köztársaságban készült Felszerelés beszerzésére, valamint a Felszerelés beszerzésével kapcsolatos szolgáltatásokra használja fel, beleértve a Felszerelésnek a Magyar Köztársaság valamely kikötőjébe történő szállítását.
+
+(2) Az (1) alpont rendelkezéseitől függetlenül, amennyiben a két Kormány úgy ítéli meg, a Segély keretében Japánon és a Magyar Köztársaságon kívül más országok termékei is beszerezhetők a Felszereléshez.
+
+3\. A Segély a jelen megállapodás hatálybalépése és 2001. március 31-e közötti időszakban használható fel, hacsak az időpont nem kerül meghosszabbításra a két kormány érdekelt hatóságai közötti kölcsönös megegyezés formájában.
+
+4\. (1) A Magyar Köztársaság Kormánya vagy kijelölt hatósága japán yenben köt szerződést a japán állami ellenőrzés alatt álló japán állampolgárokkal vagy japán jogi személyekkel a Felszerelés beszerzése, valamint a 2. pontban foglalt szolgáltatások igénybevétele céljából.
+
+Ez a szerződés a Japán Kormány által történt megerősítés után alkalmas a Segély felhasználására.
+
+(2) A Magyar Köztársaság Kormánya vagy kijelölt hatósága banki megállapodásokon keresztül egy számlát nyit, amely kizárólag a Segély megvalósításának céljára használható fel, a Magyar Köztársaság Kormányának nevében egy olyan japán bankban, amelyet a Magyar Köztársaság Kormánya vagy kijelölt hatósága megnevezett.
+
+(3) A Magyar Köztársaság Kormánya vagy kijelölt hatósága által bejelentett kötelezettségek kifizetéseit a Japán Kormány japán yenben fedezi, annak a szerződésben vállalt összegnek az erejéig, amelyet az (1) alpont állapít meg, arra a számlára, amelyet a (2) alpont rögzít és akkor, amikor a kérés a (2) alpontban meghatározott módon megérkezik a Japán Kormányhoz és azt felhatalmazza arra, hogy a Magyar Köztársaság Kormányának vagy kijelölt hatóságának ezt az összeget átutalja.
+
+5\. (1) A Magyar Köztársaság Kormánya megteszi a szükséges intézkedéseket:
+
+*a)* biztosítja a Felszerelés azonnali vámvizsgálatát és belső szállítását a Magyar Köztársaság területén;
+
+*b)* mentesíti a közreműködő japán állampolgárokat és japán állampolgárok által ellenőrzött japán illetőségű jogi személyeket, a Segély terhére szállítandó felszerelésekre és kapcsolódó szolgáltatásokra a Magyar Köztársaságban kiróható vám-, belső adófizetés és más pénzügyi kötelezettségek alól;
+
+*c)* biztosítja a Felszerelés megfelelő és hatékony karbantartását és felhasználását;
+
+*d)* visel minden, a Segély által fedezett kiadáson felüli költséget, amely szükséges a Segéllyel történő ellátás megvalósításához.
+
+(2) A Segély alapján beszerzett Felszerelés szállítmányozása és tengeri szállítási biztosítása tekintetében a Magyar Köztársaság Kormánya tartózkodik minden olyan korlátozás felvetésétől, amely megakadályozhatja a szállítási és tengeri szállítmánybiztosítási társaságok közötti méltányos és szabad verseny kialakulását.
+
+6\. A két Kormány konzultációt folytat egymással a jelen megállapodásból fakadó, vagy azzal kapcsolatos bármilyen felmerült kérdésben.
+
+A továbbiakban tisztelettel javaslom, hogy a jelen levelet, valamint az Önnek a Magyar Köztársaság Kormánya részéről a fenti megállapodásokat megerősítő válaszlevelét tekintsük a két Kormány közötti egyezménynek, amely egyezmény hatálybalépésének időpontja az Ön válasza.
+
+A magam részéről felhasználom az alkalmat, hogy legmélyebb tiszteletemről biztosítsam.
+
+*Kazuo Nukazava* s. k.,\
+Japán nagykövete
+
+Excellency,
+
+I have the honour to acknowledge the receipt of Your Excellency's Note of today's date, which reads as follows:
+
+I have the honour to refer to the recent discussions held between the representatives of the Government of Japan and of the Government of the Republic of Hungary concerning the supply of video-shooting and editing equipment (hereinafter referred to as ,,the Equipment'') to the Csokonai Theatre in Debrecen, and to propose on behalf of the Government of Japan the following arrangements:
+
+1\. For the purpose of contributing to the promotion of theatrical activities in the Republic of Hungary, the Government of Japan will extend to the Government of the Republic of Hungary, in accordance with the relevant laws and regulations of Japan, a grant up to forty-one million nine hundred thousand yen (Y 41 900 000) (hereinafter referred to as ,,the Grant'').
+
+2\. (1) The Grant will be used by the Government of the Republic of Hungary properly and exclusively for the purchase of the Equipment, which will be products of Japan or the Republic of Hungary, and of services relating to procurement of such products, including the transportation of the Equipment to ports in the Republic of Hungary.
+
+(2) Notwithstanding the provisions of sub-paragraph (1) above, when the two Governments deem it necessary, the Equipment which will be products of countries other than Japan or the Republic of Hungary may be purchased under the Grant.
+
+3\. The Grant will be made available during the period between the date of coming into force of the present arrangements and March 3l, 2001, unless the period is extended by mutual agreement between the authorities concerned of the two Governments.
+
+4\. (1) The Government of the Republic of Hungary or its designated authority will enter into contracts in Japanese yen with Japanese nationals or Japanese juridical persons controlled by Japanese nationals for the purchase of the Equipment and services referred to in paragraph 2. Such contracts shall be verified by the Government of Japan to be eligible for the Grant.
+
+(2) The Government of the Republic of Hungary or its designated authority will open through banking arrangements an account to be used only for the purpose of the implementation of the Grant, in the name of the Government of the Republic of Hungary in a bank of Japan designated by the Government of the Republic of Hungary or its designated authority.
+
+(3) The Government of Japan will make payments in Japanese yen to cover the obligations incurred by the Government of the Republic of Hungary or its designated authority under the verified contracts referred to in sub-paragraph (1) above to the account referred to in sub-paragraph (2) above, when payment requests are presented by the bank referred to in sub-paragraph (2) above to the Government of Japan under an authorization to pay issued by the Government of the Republic of Hungary or its designated authority.
+
+5\. (1) The Government of the Republic of Hungary will take necessary measures:
+
+*a)* to ensure prompt customs clearance and internal transportation of the Equipment in the Republic of Hungary;
+
+*b)* to exempt Japanese nationals or Japanese juridical persons controlled by Japanese nationals from customs duties, internal taxes and other fiscal levies which may be imposed in the Republic of Hungary with respect to the supply of the Equipment and services under the Grant;
+
+*c)* to ensure proper and effective maintenance and use of the Equipment; and
+
+*d)* to bear all the expenses, other than those covered by the Grant, necessary for the implementation of the Grant.
+
+(2) With regard to the shipping and marine insurance of the Equipment purchased under the Grant, the Government of the Republic of Hungary will refrain from imposing any restrictions that may hinder fair and free competition among the shipping and marine insurance companies.
+
+6\. The two Governments will consult with each other in respect of any matter that may arise from or in connection with the present arrangements.
+
+I have further the honour to propose that the present Note and Your Note in reply confirming on behalf of the Government of the Republic of Hungary the foregoing arrangements shall be regarded as constituting an agreement between the two Governments, which will enter into force on the date of Your reply.
+
+I avail myself of this opportunity to renew to You the assurance of my high consideration.
+
+I have further the honour to confirm on behalf of the Government of the Republic of Hungary the foregoing arrangements and to agree that Your Excellency's Note and this Note shall be regarded as constituting an agreement between the two Governments, which will enter into force on the date of this reply.
+
+I avail myself of this opportunity to extend to Your Excellency the assurance of my highest consideration.
+
+*Kazuo Nukazava* s. k.,\
+Japán nagykövete''
+
+---
+
+[^1]: A 2. § a 221/2014. (IX. 4.) Korm. rendelet 224. §-a szerint módosított szöveg.

@@ -1,0 +1,199 @@
+---
+title: "108/1999. (VII. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között nukleáris balesetek esetén való gyors értesítésről, a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Budapesten, 1997. november 12-én aláírt Megállapodás kihirdetéséről"
+identifier: "108/1999. (VII. 7.) Korm. rendelet"
+njt_id: "1999-108-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/108"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-07-07
+in_force_from: 1999-07-07
+last_amended: 1999-07-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-108-20-22"
+retrieved: 2026-10-12
+---
+
+# 108/1999. (VII. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között nukleáris balesetek esetén való gyors értesítésről, a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Budapesten, 1997. november 12-én aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás 1999. február 25-én hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Ukrajna Kormánya között nukleáris balesetek esetén való gyors értesítésről, a kölcsönös tájékoztatásról és együttműködésről a nukleáris biztonság és sugárvédelem területén Budapesten, 1997. november 12-én aláírt Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya (a továbbiakban: Szerződő Felek),
+
+hivatkozással a Nukleáris Balesetekről Adandó Gyors Értesítésről szóló 1986. szeptember 26-i Egyezményre (a továbbiakban: NAÜ Egyezmény),[^1]
+
+figyelembe véve az Európai Biztonsági és Együttműködési Értekezlet 1975. augusztus 1-jén kelt záródokumentumának rendelkezéseit,
+
+törekedve a nemzetközi együttműködés további erősítésére az atomenergia biztonságos felhasználásának területén,
+
+abban a meggyőződésben, hogy a két állam közötti átfogó együttműködés elősegíti az esetleges nukleáris balesetek kockázatának és következményeinek csökkentését,
+
+megállapodtak az alábbiakról:
+
+*Alkalmazási terület*
+
+*1. Cikk*
+
+A Megállapodást a NAÜ Egyezmény 1. és 3. Cikkében részletezett létesítményekre, tevékenységekre (a továbbiakban: nukleáris létesítmény és nukleáris tevékenység) és balesetekre kell alkalmazni.
+
+*Gyors értesítés*
+
+*2. Cikk*
+
+1\. Amennyiben az egyik Szerződő Fél területén található nukleáris létesítményt vagy ott folyó nukleáris tevékenységet érintő baleset történik, amely következtében radioaktív anyag kibocsátás keletkezik, illetve keletkezhet, és ez a kibocsátás a Szerződő Fél területén kívül a másik Szerződő Félre sugárbiztonsági jelentőségű lehet, a Szerződő Fél, amelynek területén a baleset történt, köteles haladéktalanul közvetlenül értesíteni a másik Szerződő Felet. Azonnal meg kell adnia a radiológiai következmények minimalizálásához felhasználható és rendelkezésre álló információt is a NAÜ Egyezmény 5.1. Cikkében foglaltak szerint.
+
+2\. A Megállapodás 2. Cikkének 1. pontjában hivatkozott információt a helyzet alakulásától függően további információkkal kell kiegészíteni mindaddig, ameddig azt a Szerződő Felek illetékes hatóságai szükségesnek tartják.
+
+3\. A Megállapodás 2. Cikke értelmében információt nyújtó Szerződő Fél azonnal válaszol a másik Szerződő Fél további információ, illetve konzultáció iránti kérésére.
+
+4\. Amennyiben az egyik Szerződő Fél sugárzás-ellenőrző rendszere az egyeztetett szint feletti sugárzást észlel, amelyet nem a saját területén lévő nukleáris létesítményből, illetve nukleáris tevékenységből származó kibocsátás okoz, azonnal értesíti a másik Szerződő Felet, és folyamatosan tájékoztatja a fejleményekről.
+
+5\. Mindkét Szerződő Fél köteles a Megállapodás hatálybalépését követően haladéktalanul, diplomáciai úton közölni a másik Szerződő Féllel a Megállapodás 2. Cikke szerinti értesítés és tájékoztatás átadásáért és fogadásáért felelős hatóságait és kapcsolattartási pontját.
+
+*Információcsere*
+
+*3. Cikk*
+
+1\. A Szerződő Felek illetékes hatóságai információkat cserélnek a területükön üzemelő, valamint tervezett vagy építés, üzembe helyezés, illetve leszerelés alatt álló vagy már leszerelt létesítményekre vonatkozó biztonsági kérdésekről, illetve a radioaktív anyagok normálistól eltérő kibocsátásának kockázatával kapcsolatos tevékenységekről (a Megállapodás mellékletének megfelelően). Ezek az információk évente pontosítandók, és tartalmazniuk kell mindazt, amiben az illetékes hatóságok a Megállapodás 5. Cikkében foglaltak szerint megegyeztek.
+
+2\. A Szerződő Felek illetékes hatóságainak amint lehet értesíteniük kell egymást a területükön lévő nukleáris létesítményekben, illetve az ott folyó nukleáris tevékenységekben végbement minden jelentős biztonsági vonatkozású változásról.
+
+3\. Az illetékes hatóságoknak haladéktalanul tájékoztatniuk kell egymást bármely, a területükön felfedett nukleáris anyagokkal, radioaktív forrásokkal és hulladékokkal kapcsolatos törvényellenes tevékenységről, amennyiben megalapozott a gyanú, hogy az a másik Szerződő Fél területéről származik vagy oda irányult.
+
+4\. A jelen Cikk alapján szolgáltatott információt fogadó Szerződő Fél jogosult konzultálni a másik Szerződő Féllel az ilyen jellegű információ további tisztázásáról.
+
+*Tudományos és műszaki együttműködés*
+
+*4. Cikk*
+
+1\. A Szerződő Felek segítik és támogatják a tudományos és műszaki együttműködés fejlesztését a Szerződő Felek érdekelt hatóságai és egyéb intézményei között a nukleáris biztonság és sugárvédelem területén, ideértve a radioaktív kibocsátások ellenőrzését, a baleset-elhárítást, valamint a kiégett fűtőelemek és a radioaktív hulladék kezelését. A radioaktív hulladékok kezelése magában foglal minden problémát a radioaktív hulladékok keletkezésétől végleges elhelyezésükig.
+
+2\. Kiemelt támogatásban kell részesíteni a nukleáris balesetek következményeinek korlátozását szolgáló baleset-elhárítási döntéstámogató rendszer fejlesztését és alkalmazását.
+
+*Illetékes hatóságok*
+
+*5. Cikk*
+
+1\. Az illetékes hatóságok képviselői szükség szerint, de évente legalább egyszer találkoznak, hogy megvitassák a Megállapodás alkalmazásának aktuális kérdéseit. E találkozók időpontjában, helyében és napirendjében előre megállapodnak.
+
+2\. A Megállapodás tekintetében ,,illetékes hatóságok'':
+
+Magyarországon: az Országos Atomenergia Hivatal,
+
+Ukrajnában: az Ukrán Környezetvédelmi és Nukleáris Biztonsági Minisztérium Nukleáris Biztonsági Hivatala.
+
+3\. Mindegyik Szerződő Fél diplomáciai csatornákon keresztül haladéktalanul tájékoztatja a másik Szerződő Felet az illetékes hatóságokat és a kapcsolattartási pontok adatait érintő bármely változásról.
+
+*Vegyes rendelkezések*
+
+*6. Cikk*
+
+A Megállapodás keretében folyó információcserével kapcsolatos költségek megtérítését egyik Szerződő Fél sem követelheti a másiktól.
+
+*7. Cikk*
+
+Amennyiben az információt szolgáltató Szerződő Fél elengedhetetlen követelménynek ítéli az információ titkosságát, ezt a másik Szerződő Félnek egyértelműen jelzi. Az így minősített információkat csak a Szerződő Felek nukleáris és sugárbiztonsági hatóságai és a Megállapodás alkalmazásában érintett egyéb kormányszervei használják fel. Harmadik félnek az így minősített információ csak a másik Szerződő Fél előzetes írásbeli hozzájárulásával adható át.
+
+*8. Cikk*
+
+A Megállapodás nem érinti a Szerződő Feleknek az előzőleg vállalt nemzetközi kötelezettségeit.
+
+*9. Cikk*
+
+1\. A Szerződő Felek között a Megállapodás értelmezéséből vagy alkalmazásából származó bármilyen vitát lehetőleg tárgyalások útján kell rendezni.
+
+2\. Ha a vitát nem lehet ily módon rendezni, azt bármelyik fél kérésére választottbíróság elé kell terjeszteni.
+
+3\. A választottbíróság összetétele a következő: a Szerződő Felek mindegyike kinevez egy-egy bírót, és ez a két bíró olyan elnököt választ, aki egy harmadik állam állampolgára. Mindkét fél választottbíróját a választottbírói eljárásra vonatkozó kérelmet követő hatvan (60) napon belül kell kinevezni, az elnököt pedig a második választottbíró kinevezését követő hatvan (60) napon belül kell megválasztani.
+
+4\. Ha az egyik Szerződő Fél nem nevezte ki választottbíróját és a meghatározott időn belül nem is intézkedett ez iránt, a másik Szerződő Fél felkérheti az Egyesült Nemzetek főtitkárát, hogy jelöljön ki egy választottbírót. Ha a két választottbíró nem tud meghatározott időn belül egy harmadik bírót megválasztani, bármelyik Szerződő Fél felkérheti az Egyesült Nemzetek főtitkárát, hogy jelölje ki a harmadik bírót.
+
+5\. A választottbíróság a döntések meghozatalánál a Szerződések jogáról szóló 1969. május 23-i Bécsi Egyezmény 31. és 32. szakaszának figyelembevételével jár el.
+
+6\. Más megegyezés hiányában a választottbíróság maga határozza meg az alkalmazandó anyagi jogot, az eljárásrendjét és a nyelvhasználatot.
+
+7\. A döntéshozatalhoz a választottbíróság tagjainak többsége szükséges, és minden döntést többségi szavazat alapján kell meghozni. Az így meghozott döntések véglegesek és a Szerződő Felekre nézve kötelező érvényűek.
+
+8\. Mindkét Szerződő Fél viseli az általa kijelölt választottbíró és saját képviseletének költségeit. Az elnök költségeit, valamint az egyéb költségeket a Szerződő Felek egyenlő arányban viselik.
+
+*10. Cikk*
+
+Mindkét Szerződő Fél jegyzékben értesíti a másik Szerződő Felet, hogy eleget tett a Megállapodás hatálybalépéséhez szükséges belső jogi követelményeknek, és a Megállapodás a később beérkező jegyzék kézhezvételét követő napon lép hatályba.
+
+*11. Cikk*
+
+1\. A Szerződő Felek a Megállapodást határozatlan időre kötik.
+
+2\. A Megállapodást mindkét Szerződő Fél írásban felmondhatja a másik Szerződő Félhez diplomáciai úton intézett értesítés útján. A Megállapodás a felmondásról szóló értesítés kézhezvételétől számított 12. hónapot követő első napon hatályát veszti.
+
+*12. Cikk*
+
+A Szerződő Felek megegyeznek, hogy a Megállapodást annak hatálybalépése előtt, az aláírás napjától alkalmazzák.
+
+Készült Budapesten, 1997. november 12-én, két eredeti példányban, mindegyik magyar, ukrán és angol nyelven, mindhárom nyelvű szöveg egyaránt hiteles. A szövegek eltérése esetén az angol nyelvű szöveg a mérvadó.
+
+A Magyar Köztársaság\
+Kormánya részéről:
+
+*Ördögh József* s. k.
+
+Ukrajna Kormánya\
+részéről:
+
+*Valerij Pusztovojtenko* s. k.
+
+Melléklet a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a nukleáris balesetek esetén való gyors értesítésről, a kölcsönös tájékoztatásról\
+és együttműködésről a nukleáris biztonság\
+és sugárvédelem területén kötött Megállapodáshoz
+
+A Megállapodás 3. Cikk 1. pontjának megfelelően a következő adatokat szolgáltatják:
+
+– a létesítmény típusa,
+
+– a létesítmény helye és posta címe,
+
+– a létesítmény megnevezése,
+
+– a létesítmény legfontosabb paraméterei,
+
+– a létesítmény jelenlegi helyzete,
+
+– működési adatok.
+
+Atomerőművek tekintetében az információk az alábbiakkal egészülnek ki:
+
+– a reaktor típusa,
+
+– teljesítménye,
+
+– a zóna adatai (pl. geometria, üzemanyag, berakás, dúsítás, kiégés mértéke, a teljesítmény eloszlás sűrűsége),
+
+– a reaktortartály típusa,
+
+– hűtőközeg típusa, hűtőkörök (primerkör, szekunderkör),
+
+– gőzgenerátor típusa,
+
+– a környezetbe kibocsátott anyagok mennyisége és jellemzői,
+
+– nukleáris biztonsági rendszerek.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. november 12-től kezdődően kell alkalmazni.
+
+(2) A rendelet végrehajtásáról az Országos Atomenergia Hivatal főigazgatója az érdekelt miniszterekkel egyetértésben gondoskodik.
+
+---
+
+[^1]: Lásd a 28/1987.(VIII. 9.) MT rendeletet.

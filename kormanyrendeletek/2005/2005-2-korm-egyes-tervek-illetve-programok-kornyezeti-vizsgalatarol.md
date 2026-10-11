@@ -1,0 +1,575 @@
+---
+title: "2/2005. (I. 11.) Korm. rendelet egyes tervek, illetve programok környezeti vizsgálatáról"
+identifier: "2/2005. (I. 11.) Korm. rendelet"
+njt_id: "2005-2-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/2"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-01-11
+in_force_from: 2009-10-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-2-20-22"
+retrieved: 2026-10-12
+---
+
+# 2/2005. (I. 11.) Korm. rendelet egyes tervek, illetve programok környezeti vizsgálatáról
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-ának (7) bekezdése q) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## I.
+
+### ÁLTALÁNOS RENDELKEZÉSEK
+
+### A rendelet hatálya
+
+#### 1. §
+
+(1) A rendelet hatálya a Kvt. 43. § (4) és (5) bekezdése szerinti tervre, illetve programra (a továbbiakban: terv, illetve program) terjed ki.
+
+(2) A környezeti vizsgálat [Kvt. 43. § (6) bekezdés] lefolytatása mindig kötelező – a (3) bekezdés a) és b) pontjában foglalt kivétellel – arra a tervre, illetve programra, amely
+
+a) az 1. számú mellékletben szerepel, továbbá
+
+b) az 1. számú mellékletben fel nem sorolt olyan terv, illetve program, amely
+
+ba) a mezőgazdaság, erdőgazdálkodás, halgazdálkodás, energetika, ipar, szállítás, közlekedés, hulladékgazdálkodás, vízgazdálkodás, elektronikus hírközlés, idegenforgalom, regionális fejlesztés számára készül, és keretet szab olyan tevékenységek vagy létesítmények jövőbeli hatósági engedélyezése számára, amelyek a környezeti hatásvizsgálatról szóló külön jogszabály mellékletében[^1] vannak felsorolva, azonban – e rendelet alkalmazása szempontjából – függetlenül az abban megadott küszöbértéktől és területi megkötéstől, vagy
+
+bb)[^2] jelentős káros hatással lehet
+
+*bba)* Natura 2000 területre vagy
+
+*bbb)* a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendelet alapján
+
+*bbba)* kijelölt víztestekre vagy
+
+*bbbb)* nyilvántartott védett területekre.
+
+(3) Várható környezeti hatásuk jelentőségének eseti meghatározása alapján dönthető el a környezeti vizsgálat szükségessége [Kvt. 43. § (5) bekezdés b) pontja]
+
+a) a település egy részére készülő szabályozási tervnél, illetve helyi építési szabályzatnál, továbbá olyan más, a (2) bekezdés b) pontjába tartozó tervnél, illetve programnál, amely helyi szinten kis terület használatát határozza meg;
+
+b) a (2) bekezdésbe tartozó terv, illetve program kisebb módosításánál;
+
+c) a (2) bekezdésbe nem tartozó olyan egyéb tervnél, illetve programnál, amely környezethasználatot jelentő tevékenységek vagy létesítmények jövőbeli hatósági engedélyezése számára keretet szab.
+
+(4) A (2) bekezdés *ba)* és a (3) bekezdés c) pontjában említett tevékenységek és létesítmények (a továbbiakban: tevékenységek) jövőbeli hatósági engedélyezése számára keretet szabó terven, illetve programon olyan terv, illetve program értendő, amely
+
+a) az engedélyezésben kötelezően alkalmazandó előírást, feltételt vagy mérlegelendő szempontot határoz meg, különösen e tevékenységek elhelyezésére, jellegére, méretére, működési feltételeire, természeti erőforrás közvetlen igénybevételére, terhelésére vagy más felhasználására;
+
+b) e tevékenységek valamelyikének megvalósítását előírja; illetőleg
+
+c) e tevékenységek megvalósulási lehetőségeit, különösen elhelyezésüket, jellegüket, méretüket, működési feltételeiket, természeti erőforrás felhasználásukat vagy igénybevételüket más módon befolyásolja (elősegíti, ösztönzi, illetőleg korlátozza).
+
+(5) Nem terjed ki e rendelet hatálya:
+
+a) a kizárólag pénzügyi vagy költségvetési tervre, illetve programra,
+
+b) a kizárólag a nemzetbiztonságot szolgáló, nem honvédelmi és nem polgári védelmi tervre, illetve programra,
+
+c) olyan honvédelmi vagy polgári védelmi tervre, illetve programra, amit külön jogszabályokban meghatározott különleges esemény, állapot vagy helyzet esetén szükséges rendkívüli intézkedések alkalmazásakor dolgoznak ki,
+
+d) tevékenységek hatósági engedélyezéséhez előírt tervre, illetve programra.
+
+### Értelmező rendelkezések
+
+#### 2. §
+
+(1) E rendelet alkalmazásában az érintett nyilvánosság az a természetes személy, jogi személy, illetőleg jogi személyiséggel nem rendelkező szervezet,
+
+a) amelyre a környezeti vizsgálat-köteles tervről, illetve programról való döntés – különösen környezeti hatásai miatt – kihat vagy kihathat, valamint
+
+b) amely a döntésben érdekelt, különösen az olyan környezetvédelmi vagy más civil szervezet, amelynek tevékenységi körét a környezeti vizsgálat-köteles tervről, illetve programról való döntés érinti, továbbá
+
+c) amelyet jogszabály vagy a terv, illetve program kidolgozása során a kidolgozó egyébként érintettnek minősít.
+
+(2) Az 1. § (2)–(4) bekezdés hatálya alá tartozó tervekben, illetve programokban szereplő adatok közérdekű adatok, amelyek nyilvánosságára a személyes adatok védelméről és a közérdekű adatok nyilvánosságáról szóló 1992. évi LXIII. törvény rendelkezéseit kell alkalmazni a 13. § rendelkezéseire is figyelemmel.
+
+#### 3. §
+
+A terv, illetve program kidolgozásának megkezdésekor a terv, illetve program kidolgozásáért felelős szerv (a továbbiakban: kidolgozó) állapítja meg, hogy a terv, illetve program beletartozik-e az 1. § (2) bekezdés szerint környezeti vizsgálatra vagy az 1. § (3) bekezdés szerint a környezeti vizsgálat szükségességének eseti eldöntésére kötelezett körbe.
+
+### A várható környezeti hatás jelentőségének eldöntése
+
+#### 4. §
+
+(1) Az 1. § (3) bekezdés szerinti terv, illetve program megvalósítása várható környezeti hatásának jelentőségét a 2. számú mellékletben foglalt szempontok és a (2) bekezdés, valamint az 5. § (1) bekezdésében foglalt rendelkezések figyelembevételével kell eldönteni.
+
+(2) A döntéshez a kidolgozó kikéri a 3. számú mellékletben meghatározott környezet védelméért felelős közigazgatási szervek (a továbbiakban: környezet védelméért felelős szervek) véleményét arról, hogy a hatáskörükbe tartozó környezet- vagy természetvédelmi szakterületet illetően várható-e jelentős környezeti hatás. E szervek véleményük kialakításában a 2. számú mellékletben foglaltak közül a hatáskörükbe tartozó és a szóban forgó terv, illetve program jellege alapján a tervre, illetve a programra vonatkoztatható szempontokat veszik figyelembe.
+
+(2a)[^3] Budapest Főváros Kormányhivatala a természetes gyógytényezőkre, gyógyhelyekre vonatkozó nyilvántartását a honlapján közzéteszi a gyógytényezők, gyógyhelyek érintettségének vizsgálata céljából. Ha a gyógytényezők, gyógyhelyek érintettsége nem áll fenn, a döntéshez Budapest Főváros Kormányhivatalának véleményét nem szükséges kikérni.
+
+(3) A kidolgozó a (2) bekezdés szerinti vélemény kérésekor, annak megalapozásához, legalább a következő tájékoztatást küldi meg:
+
+a) a tervezési feladat (terv, illetve program címe, típusa, tartalma, tervezési terület);
+
+b) a terv, illetve program célja;
+
+c) módosítás esetén a módosítás lényege és az eredeti tervhez, illetve programhoz mért jelentősége;
+
+d) a 2. számú mellékletben foglalt szempontok alkalmazásához a rendelkezésére álló és általa adható információ.
+
+(4)[^4] A kidolgozó a véleményt a tájékoztatáshoz szükséges információ rendelkezésére állásakor haladéktalanul kikéri, és a véleményadásra határidőt állapít meg, amely legfeljebb 15 nap.
+
+(5) A kidolgozó az (1) bekezdés szerinti döntéséhez az általa megadott határidőre beérkezett véleményeket veszi figyelembe.
+
+#### 5. §
+
+(1) Ha a kidolgozó véleménye a környezeti vizsgálat szükségességéről eltér a környezet védelméért felelős szervek 4. § szerint megkapott véleményétől, a kidolgozó végleges döntését megelőzően az indokok tisztázása érdekében megbeszélést tart az érintett szervekkel.
+
+(2) A kidolgozó hivatalos értesítőjében vagy más, a nyilvánosság tájékoztatására alkalmas egyéb módon, továbbá ha van honlapja, azon is nyilvánosságra hozza döntését és annak indokait, továbbá, ha a környezet védelméért felelős szervek 4. § szerint megkapott véleményétől eltérően úgy döntött, hogy a környezeti vizsgálat nem szükséges, az eltérés tényét is.
+
+(3) Döntéséről és indokairól a kidolgozó értesíti a várható környezeti hatások jelentőségének eldöntésébe bevont környezet védelméért felelős szerveket.
+
+(4) A környezeti hatás jelentőségének a 4. § és 5. § szerinti eldöntése összevonható a környezeti értékelés tartalmának 7. § szerinti meghatározásával. Ekkor a vélemények és észrevételek kikérésének időpontjára a 7. § (3) bekezdése az irányadó.
+
+## II.
+
+### A KÖRNYEZETI VIZSGÁLAT FOLYAMATA
+
+#### 6. §
+
+A környezeti vizsgálat a terv, illetve program kidolgozási, egyeztetési és elfogadási folyamatának része. A kidolgozást, egyeztetést és elfogadást az e rendeletben foglaltak figyelembevételével kell elvégezni.
+
+### A környezeti értékelés tartalmának meghatározása
+
+#### 7. §
+
+(1) A környezeti értékelés konkrét tartalmának és részletezettségének (a továbbiakban: tematika) megállapításához a kidolgozó kikéri a környezet védelméért felelős szervek szakmai véleményét.
+
+(2) A vélemények kikérésekor, azok megalapozásához a kidolgozó tájékoztatást ad a tervről, illetve programról. A tájékoztatás tartalma:
+
+a) a 4. § (3) bekezdés a)–c) pontjainak megfelelő tájékoztatás, ha a terv, illetve program az 1. § (2) bekezdés hatálya alá tartozik;
+
+b) helyzetismertetés, különösen a környezeti szempontból lényeges információk;
+
+c) a lehetséges fejlesztési irányok bemutatása;
+
+d) annak megállapítása, hogy előreláthatóan a terv, illetve program megvalósításából származhatnak-e országhatáron átterjedő jelentős, káros környezeti hatások.
+
+(3) A kidolgozó a véleményeket a tájékoztatáshoz szükséges információ rendelkezésre állásakor haladéktalanul kikéri, és a véleményadásra határidőt állapít meg, amely nem lehet kevesebb mint 30 nap. A kidolgozó az (1) bekezdés szerinti döntéséhez az általa megadott határidőre beérkezett véleményeket veszi figyelembe.
+
+(4) A tematika eldöntésekor a kidolgozó figyelembe veszi
+
+a) a környezeti értékelés 4. számú melléklet szerinti általános tartalmi követelményeit az adott terv, illetve program jellemzői és feltételezhető környezeti következményei alapján;
+
+b) az (1) bekezdés szerinti véleményeket.
+
+Ha a kidolgozó véleménye a tematikáról eltér a környezet védelméért felelős szervek (1) bekezdés szerint kapott véleményétől, a kidolgozó végleges döntését megelőzően az indokok tisztázása érdekében megbeszélést tart az érintett szervekkel.
+
+(5) A kidolgozó a környezeti értékelés (4) bekezdés szerint elkészített tematikáját, ütemezését, valamint a környezet védelméért felelős szervekkel való esetleges további konzultációkra vonatkozó javaslatát és a nyilvánosság tájékoztatásának, észrevételei kérésének tervezett módját a környezet védelméért felelős érintett szerveknek megküldi, és nyilvánosságra is hozza.
+
+(6) A nyilvánosság tájékoztatási módjának megtervezéséhez – az országhatáron várhatóan átterjedő jelentős káros környezeti hatásokra is figyelemmel – a kidolgozó meghatározza, hogy a nyilvánosság mely része lehet érintett.
+
+### A környezeti értékelés
+
+#### 8. §
+
+(1)[^5] A környezeti értékelés a terv-, illetve programdokumentáció önálló része, illetve munkarésze. A környezeti értékelés egyes részeit a 4. számú mellékletben meghatározott tartalmi követelményeknek megfelelő részszakterületeken – a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységről szóló jogszabály alapján – szakértői jogosultsággal rendelkező szakértő készíti el.
+
+(2)[^6] A környezeti értékelésnek azt az információt kell tartalmaznia, ami a Kvt. 43. § (7) bekezdésében foglaltak, valamint a 7. § (4) bekezdés szerinti tematika kielégítéséhez és a döntéshozatalhoz a jelenlegi ismeretek és vizsgálati módszerek, a terv, illetve program tartalmának és részletezettségének, a döntéshozatali folyamatban elfoglalt helyének figyelembevételével megkívánható, tekintettel a nyilvánosság észrevételeire is. A környezeti értékelés kidolgozásához felhasználható minden rendelkezésre álló, az adott terv, illetve program környezeti hatásaira vonatkozó korábbi vagy folyamatban lévő tervezési, illetve programalkotási munkákból származó, valamint más uniós jogi aktus végrehajtása során keletkezett információ is.
+
+(3)[^7] A környezeti értékelésnek és a terv, illetve program tervezetének Kvt. 43. § (6) bekezdés a) pontja szerinti véleményezéséhez a kidolgozó
+
+a) megküldi a terv, illetve program egyeztetési dokumentációját a környezeti értékeléssel a környezet védelméért felelős szerveknek és a Kvt. 44. § (2) bekezdés b) pontja szerint az Országos Környezetvédelmi Tanácsnak;
+
+b) nyilvánosságra hozza a következőket:
+
+ba) a terv, illetve program célja,
+
+bb) a terv, illetve program környezeti értékelést is tartalmazó egyeztetési dokumentációja hol és mikor tekinthető meg,
+
+bc) milyen módon és időpontig lehet észrevételeket tenni,
+
+bd) a terv, illetve program szempontjából releváns és rendelkezésre álló környezeti információk, valamint azok megismerhetősége.
+
+(3a)[^8] A vélemények és az észrevételek megadására a véleménykérés kézhezvétele vagy nyilvánosságra hozatala időpontjától számítva legalább 30 napos határidőt kell biztosítani. A kidolgozó az általa megadott határidőre beérkezett véleményeket és észrevételeket veszi figyelembe.
+
+(4) A (3) bekezdés a) pontjában említettek bevonása nem érinti a terv, illetve program egyeztetésébe a tervről, illetve programról rendelkező külön jogszabály vagy határozat szerinti egyéb szervek bevonását.
+
+(5) A nyilvánosságra hozatal, ha a terv, illetve program kidolgozását előíró jogszabály vagy határozat erről nem rendelkezik, legalább egy országos napi vagy helyi lapban való tájékoztatással történik. Ha az érintett nyilvánosság csak egy településrészre korlátozódik, ott elégséges a helyben szokásos nyilvánosságra hozatal is. Ha a kidolgozónak van honlapja, a tájékoztatást azon is nyilvánosságra kell hozni. Az érintett nyilvánosság észrevételeinek kikéréséhez a nyilvánosságra hozatalon kívül más tájékoztatási mód is alkalmazható.
+
+(6) Ha a környezet védelméért felelős szervek nem tartják megfelelőnek a környezeti értékelést vagy véleményük szerint a terv, illetve program nem egyeztethető össze a Nemzeti Környezetvédelmi Programmal [Kvt. 40. § (4) bekezdés], a kidolgozó megbeszélést tart a környezet védelméért felelős szervekkel a szükséges módosításokról. A fennmaradt véleményeltérést a 10. § szerint benyújtott tervezethez csatolva ismertetni kell.
+
+(7)[^9] A település egészére vagy egy részére készülő településrendezési tervnél, településszerkezeti tervnél, helyi építési szabályzatnál és szabályozási tervnél a környezeti értékelés tartalmát és egyeztetésének sajátos szabályait a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet határozza meg.
+
+### Országhatáron átterjedő környezeti hatások kezelése
+
+#### 9. §
+
+(1) Ha a környezeti értékelés alapján országhatáron átterjedő jelentős környezeti hatás várható [Kvt. 43. § (6) bekezdés a) pont] az Európai Unió tagállamában, továbbá olyan más ország területén, amellyel a tervek, illetve programok országhatáron átterjedő hatásainak környezeti vizsgálatára vonatkozóan nemzetközi szerződés alapján kölcsönösség áll fenn (a továbbiakban együtt: másik ország), illetőleg ha a másik ország azt kéri, a kidolgozó a terv, illetve program tervezetének hazai egyeztetésével egyidejűleg megküldi – eltérő megállapodás hiányában – a másik ország környezetvédelemért felelős minisztériumának
+
+a) a terv, illetve program egyeztetési dokumentációját a környezeti értékeléssel;
+
+b) a döntéshozatali folyamat ismertetését;
+
+c) arra vonatkozó kérést, hogy megadott határidőn belül a másik ország jelezze, kíván-e konzultálni a terv, illetve program megvalósításából származó országhatáron átterjedő jelentős környezeti hatásokról, továbbá ezeknek a hatásoknak a csökkentését vagy elkerülését szolgáló tervezett intézkedésekről.
+
+(2) Ha a másik ország jelzi a megadott határidőn belül, hogy konzultálni kíván, a kidolgozó megállapodik a másik országot képviselő szervvel a konzultációk időtartamáról és lefolytatásának módjáról, majd lefolytatja a konzultációkat. A konzultációk keretében a kidolgozó megállapodik a másik ország környezet védelméért felelős hatóságai, valamint érintett nyilvánossága tájékoztatásának módjáról is, továbbá arról, hogy miként fogják ésszerű határidőn belül biztosítani számukra a véleménynyilvánítást.
+
+(3) Ha a másik ország az (1) bekezdés c) pontja szerint megadott határidő lejártáig nem jelzi konzultációs szándékát, azt úgy kell tekinteni, hogy a konzultáció lehetőségével nem kíván élni.
+
+(4)[^10] Ha a másik ország értesítése alapján vagy egyéb módon felmerül, hogy egy másik ország kidolgozás alatt álló, a 2001/42/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó – nem EU tagállam esetén annak megfelelő – terve, illetve programja megvalósítása következtében Magyarországon jelentős káros környezeti hatás várható, a nemzetközi eljárással kapcsolatos koordinációs feladatokat a környezetvédelemért felelős miniszter az irányítása alá tartozó, kijelölt nemzeti kapcsolattartón (a továbbiakban: kapcsolattartó) keresztül látja el.
+
+(5) A (4) bekezdésben említett koordinációs feladatokon a másik országgal való kapcsolattartást, a konzultációs szándékról való döntést, a konzultációkon való részvételt, továbbá a környezet védelméért felelős érintett magyar szervek, valamint az érintett nyilvánosság tájékoztatásának és véleménynyilvánításának biztosításában való közreműködést kell érteni.
+
+(6)[^11] A kapcsolattartó a (2) bekezdés szerinti konzultálási szándékkal kapcsolatos döntés meghozásába bevonja a környezet védelméért felelős érintett szerveket.
+
+### A terv, illetve program elfogadása
+
+#### 10. §
+
+A kidolgozónak a terv, illetve program tervezetét a környezeti értékeléssel, valamint legalább a környezeti vizsgálat során kapott vélemények és észrevételek összegzésével együtt kell benyújtania az elfogadó közigazgatási szerv, illetőleg ha az elfogadó az Országgyűlés, akkor a Kormány elé. A terv, illetve program vagy az Országgyűlés elé terjesztendő javaslat elfogadásakor, illetőleg előterjesztésekor figyelembe kell venni a környezeti értékelést, valamint a környezeti vizsgálat során kapott véleményeket és észrevételeket [Kvt. 43. § (6) bekezdés b) pontja].
+
+### Tájékoztatás a döntésről
+
+#### 11. §
+
+A terv, illetve program elfogadása után az elfogadó közigazgatási szerv, illetőleg országgyűlési elfogadása esetén a terv, illetve program tervezetét a Kormány elé terjesztő közigazgatási szerv
+
+a) biztosítja a tervhez, illetve programhoz való nyilvános hozzáférést a 13. §-ban foglaltakat is figyelembe véve;
+
+b) összefoglaló ismertetőt készít a terv, illetve program elfogadásáról, az elfogadás indokairól, az indoklásban kitérve arra is, hogy a vizsgált más ésszerű terv-, illetve programváltozatokkal szemben miért ezt a változatot választották, továbbá a környezeti szempontok, a környezeti értékelés, a megkapott vélemények és észrevételek figyelembevételéről, a 12. § szerinti monitorozási intézkedésekről;
+
+c) az összefoglaló ismertetőt megküldi a környezeti vizsgálatba bevont környezet védelméért felelős szerveknek, a Kvt. 44. § (2) bekezdés b) pontja szerint az Országos Környezetvédelmi Tanácsnak és annak az országnak, amellyel a 9. § (2) bekezdés szerint konzultációt folytattak a terv, illetve program elfogadásáról, illetve nyilvánosságra hozza a 8. § (5) bekezdése szerinti valamely formában.
+
+## III.
+
+### VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
+
+### Monitorozás
+
+#### 12. §
+
+(1) A tervnek, illetve programnak tartalmaznia kell a megvalósításából eredő jelentős környezeti hatások monitorozására vonatkozó intézkedéseket.
+
+(2) A monitorozási intézkedések kiterjednek különösen
+
+a) a terv, illetve program kidolgozása során még előre nem látható káros hatások bekövetkezésének mielőbbi feltárására;
+
+b) a káros hatások bekövetkezése esetén szükséges teendők meghatározására;
+
+c)[^12] a monitorozás eredményeinek hozzáférhetővé tételére a környezet védelméért felelős szervek és a nyilvánosság számára.
+
+(3) A monitorozáshoz – ha ez szükséges – a meglévő észlelő-, mérő-, megfigyelőhálózat, rendszer felhasználható, a monitorozásra vonatkozó már előírt rendelkezés, továbbá a terv, illetve program felülvizsgálata alkalmazható.
+
+### Egyes adatok nyilvánosságra hozatalának korlátozása
+
+#### 13. §
+
+(1)[^13] A Magyar Honvédségre vonatkozó, illetve a Magyar Honvédséget érintő, valamint egyéb honvédelmi célt szolgáló, honvédelmi feladat végrehajtására vonatkozó vagy polgári védelmi terv, illetve program környezeti vizsgálati kötelezettségének eldöntésénél, illetve környezeti vizsgálatában a nyilvánosság és másik ország tájékoztatása, észrevételeinek kikérése során, az államtitkot vagy szolgálati titkot tartalmazó adat(ok) átadása, nyilvánosságra hozatala, valamint külföldre történő továbbítása tekintetében a minősített adat védelméről szóló 2009. évi CLV törvény vonatkozó rendelkezéseit kell alkalmazni.
+
+(2)[^14] Minősített adat kizárólag azon országok részére adható át, amelyekkel Magyarország információbiztonsági megállapodást kötött.
+
+### Záró rendelkezések
+
+#### 14. §
+
+(1)[^15] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) Ez a rendelet a Kvt.-vel együtt a bizonyos tervek és programok környezetre gyakorolt hatásainak vizsgálatáról szóló, 2001. június 27-i 2001/42/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2a)[^16] Ez a rendelet – a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet 10. §-ával és 11. §-ával együtt – a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 4. cikk (7)–(9) bekezdésének való megfelelést szolgálja.
+
+(3) A 2001/42/EK európai parlamenti és tanácsi irányelvben meghatározott, az Európai Bizottság számára teendő bejelentésekről és tájékoztatási kötelezettség végrehajtásáról a környezetvédelemért felelős miniszter gondoskodik.
+
+## 1. számú melléklet a 2/2005. (I. 11.) Korm. rendelethez
+
+**A környezeti vizsgálat lefolytatására e rendelet 1. § (2) bekezdés a) pontja szerint kötelezett tervek és programok köre**
+
+1.[^17] Területi tervek [2023. évi CII. törvény 14. § (1) bekezdés és 28. § (1) bekezdés]
+
+2.[^18] A település egészére készülő településterv [2023. évi C. törvény 79. §]
+
+3\. Nemzeti Fejlesztési Terv [1260/99/EK tanácsi rendelet 9. cikk b) pontja szerint]
+
+4\. A Nemzeti Fejlesztési Terv operatív programjai [1260/99/EK tanácsi rendelet 9. cikk f) pontja szerint]
+
+5.[^19] Országos, területi hulladékgazdálkodási terv (2012. évi CLXXXV. tv. 73–77. §)
+
+6\. Agrárpolitika középtávú terve (1997. évi CXIV. tv. 2. §)
+
+7\. Vízgazdálkodás országos koncepciója és a nemzeti programok (1995. évi LVII. tv. 2. §)
+
+8\. Vízgyűjtő gazdálkodási terv [1995. évi LIII. tv. 18. § (7) bekezdés]
+
+9\. Országos, helyi közúthálózat fejlesztési terv [30/1988. (IV. 21.) MT rend. 5. §]
+
+## 2. számú melléklet a 2/2005. (I. 11.) Korm. rendelethez
+
+**Szempontok a terv, illetve program megvalósítása következtében várható környezeti hatások jelentőségének meghatározásához**
+
+A meghatározáshoz különösen az alábbiakat kell mérlegelni.\
+Jelentős lehet a hatás a terv, illetve program vagy a hatások és a hatásterület jellemzői alapján az alábbi esetekben:
+
+1\. Attól függően, hogy a terv, illetve program milyen mértékben
+
+a) szab keretet tevékenységek későbbi megvalósítása lehetőségeinek a tevékenység telepítési helyére, jellegére, méretére, működési feltételeire vagy természeti erőforrás felhasználásának mértékére, helyére, elosztására vonatkozóan;
+
+b) befolyásol más tervet vagy programot – ideértve azt is, ha az a tervhierarchiában elfoglalt helyéből következik –, azokra vonatkozóan előírásokat, szempontokat tartalmaz, vagy bármilyen más módon hatással lehet másik terv, illetve program tartalmára, megvalósítására;
+
+c) fontos a környezeti megfontolások beillesztése szempontjából, különös tekintettel a fenntartható fejlődés elősegítésére;
+
+d) vonatkozik olyan területre vagy kérdéskörre, ahol környezeti problémák vannak;
+
+e)[^20] jelentős a környezettel kapcsolatos közösségi jogszabályok (mint pl. a hulladékgazdálkodással, vízgazdálkodással, vízgyűjtő-gazdálkodással összefüggő tervek, programok stb.) végrehajtása szempontjából.
+
+2\. A várható környezeti hatások
+
+a) időtartama, gyakorisága és bekövetkezésének valószínűsége, visszafordíthatósága alapján;
+
+b) összeadódhatnak vagy felerősíthetik egymást;
+
+c) az országhatáron átterjednek;
+
+d) olyan környezeti változásokat idézhetnek elő, amelyek az emberi egészségre, a környezetre kockázatot jelentenek (mint pl. a balesetek okozta változások stb.);
+
+e) nagyságrendje és területi kiterjedése alapján (földrajzilag, illetve az érintett lakosság számát tekintve);
+
+f) olyan területet érintenek, amelyek hazai (országos vagy helyi), közösségi vagy más nemzetközi szintű védettséget élveznek;
+
+g) feltételezhetően a 4. számú melléklet 3.5.2. és 3.6.2. pontjaiban felsorolt következményeket idézik elő;
+
+h)[^21] miatt a vízgyűjtő-gazdálkodás egyes szabályairól szóló kormányrendeletben a vizekre és a védett területekre meghatározott környezeti célkitűzések elérése, illetve megtartása meghiúsul, a vizek vagy a védett területek állapotromlása következik be.
+
+3\. A várhatóan érintett terület értékes, illetve sérülékeny, mert
+
+a) a környezeti elemek, rendszerek[^22] vagy a kulturális örökség szempontjából különleges;
+
+b) a területen a környezetvédelmi határértékeket [Kvt. 4. § s), t), u) pontjai] elérő vagy azt meghaladó igénybevétel, kibocsátás, illetve szennyezettség van;
+
+c) a terület hasznosítása, használata intenzív (mint pl. intenzív mezőgazdasági, erdőgazdasági termesztés, termelés, sűrűn beépített terület stb.).
+
+## 3. számú melléklet a 2/2005. (I. 11.) Korm. rendelethez[^23]
+
+**A környezet védelméért felelős szervek**
+
+*I. Országos hatáskörű szerv által kidolgozott terv, illetve program esetén*
+
+I.1. Mindig részt vesz:
+
+*a)* a környezet, a természet és a táj védelmére kiterjedően:
+
+az országos környezetvédelmi és természetvédelemi hatóság, levegőtisztaság-védelem vonatkozásában a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság bevonásával;
+
+*b)* környezet- és település-egészségügyre kiterjedően:
+
+az országos tisztifőorvos;
+
+*c)* erdővédelemre, talajvédelemre, a termőföld mennyiségi védelmére és az agrár-környezetvédelemre kiterjedően:
+
+az erdőgazdálkodásért, talajvédelemért, termőföld mennyiségi védelméért és agrár-környezetvédelemért felelős miniszter;
+
+*d)* a vizek védelmére kiterjedően:
+
+Pest Vármegyei Kormányhivatal mint vízügyi és vízvédelmi hatóság.
+
+e) a hulladékgazdálkodásra kiterjedően: az országos hulladékgazdálkodási hatóság.
+
+I.2. Érintettség esetén vesz részt:
+
+*a)* földtani és ásványvagyon védelemre kiterjedően:
+
+a bányászati ügyekért felelős miniszter;
+
+*b)* a természetes gyógytényezők, gyógyhelyek természeti adottságainak védelmére kiterjedően:
+
+Budapest Főváros Kormányhivatala;
+
+*c)* kulturális örökség (műemlékvédelem, régészet) védelmére kiterjedően:
+
+a kulturális örökség védelméért felelős minisztere;
+
+*d)* az épített környezet védelmére kiterjedően:
+
+az építésügyért felelős miniszter;
+
+*e)* a kémiai biztonságra kiterjedően:
+
+az országos tisztifőorvos;
+
+*f)* súlyos ipari balesetek megelőzésére kiterjedően:
+
+Budapest Főváros Kormányhivatala mint iparbiztonsági hatóság.
+
+g) területrendezésre és településtervezésre kiterjedően:
+
+a Balatoni főépítész.
+
+*II. Nem országos hatáskörű szerv által kidolgozott terv, illetve program esetén*
+
+II.1. Mindig részt vesz:
+
+*a)* a környezetvédelemre kiterjedően:
+
+a környezetvédelmi hatóság;
+
+*b)* természet- és tájvédelemre kiterjedően:
+
+a nemzeti park igazgatóság és a természetvédelmi hatóság;
+
+*c)* környezet- és település-egészségügyre kiterjedően:
+
+közegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal.
+
+*d)* a felszíni és a felszín alatti vizek minőségi és mennyiségi védelmére kiterjedően:
+
+a vízvédelmi és vízügyi hatóság.
+
+e) a hulladékgazdálkodásra kiterjedően: az illetékes hulladékgazdálkodási hatóság.
+
+II.2. Érintettség esetén vesz részt:
+
+*a)* helyi környezet- és természetvédelemre kiterjedően:
+
+a települési önkormányzat jegyzője;
+
+*b)* az épített környezet védelmére kiterjedően:
+
+az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal;
+
+*c)* erdővédelemre kiterjedően:
+
+erdészeti feladatkörében eljáró vármegyei kormányhivatal;
+
+*d)* talajvédelemre kiterjedően:
+
+talajvédelmi feladatkörében eljáró vármegyei kormányhivatal;
+
+*e)* a termőföld mennyiségi védelmére kiterjedően:
+
+a földvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
+
+*f)*[^24]
+
+*g)* a természetes gyógytényezők, gyógyhelyek természeti adottságainak védelmére kiterjedően:
+
+a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala;
+
+*h)* kulturális örökség (műemlékvédelem, régészet) védelmére kiterjedően:
+
+Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter;
+
+*i)* kémiai biztonságra kiterjedően:
+
+az országos tisztifőorvos;
+
+*j)* súlyos ipari balesetek megelőzésére kiterjedően:
+
+a fővárosi és vármegyei iparbiztonsági hatóság.
+
+## 4. számú melléklet a 2/2005. (I. 11.) Korm. rendelethez
+
+**A környezeti értékelés általános tartalmi követelményei**
+
+1\. A környezeti értékelés kidolgozási folyamatának ismertetése:
+
+1.1. előzmények, különösen a tematika tartalma;
+
+1.2. a tervezési folyamat más részeihez[^25] való kapcsolódása;
+
+1.3. a környezeti értékelés készítése során tett javaslatok hatása a terv, illetve program alakulására;
+
+1.4. a környezet védelméért felelős szervek és az érintett nyilvánosság bevonása, az általuk adott véleményeknek, szempontoknak a környezeti értékelés készítése során történő figyelembevétele, az indokok összefoglalása;
+
+1.5. a környezeti értékelés készítéséhez felhasznált adatok forrása, az alkalmazott módszer korlátai, nehézségek (mint pl. technikai hiányosságok, bizonyos ismeretek hiánya stb.), az előrejelzések érvényességi határai, a felmerült bizonytalanságok.
+
+2\. A terv, illetve program és a kidolgozásukkor vizsgált változatok (a továbbiakban: változatok) rövid ismertetése:
+
+2.1. a terv, illetve program céljainak, tartalmának összefoglaló ismertetése, kiemelve a környezeti értékelés készítése szempontjából fontos részeket;
+
+2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^26];
+
+2.3. a változatok közötti választás indokai, a választást alátámasztó vizsgálat rövid leírása.
+
+3\. A terv, illetve program, valamint a változatok megvalósítása környezeti hatásainak, következményeinek feltárása:
+
+3.1. a terv, illetve program céljainak összevetése a terv, illetve program szempontjából releváns nemzetközi, közösségi, országos vagy helyi szinten kitűzött környezet- és természetvédelmi célokkal;
+
+3.2. környezetvédelmi célok és szempontok megjelenése, illetve figyelembevétele a tervben, illetve programban;
+
+3.3. a terv, illetve program céljainak egymás közti, illetve a releváns tervek, illetve programok (2.2.) céljaival való konzisztenciája környezeti szempontból;
+
+3.4. a jelenlegi környezeti helyzet releváns, a tervvel, illetve programmal összefüggésben lévő elemeinek ismertetése;
+
+3.4.1. földrajzilag lehatárolt tervezési terület esetén, illetve, ha a hatásterület földrajzilag lehatárolható, a terület azon környezeti jellemzőinek azonosítása, amelyeket a terv, illetve program megvalósítása valószínűleg jelentősen befolyásol,
+
+3.4.2. a környezeti állapot egyéb jellemzőinek leírása (eltartóképesség, terhelhetőség),
+
+3.4.3. a fennálló környezeti konfliktusok, problémák leírása
+
+és mindezek várható alakulása, ha a terv, illetve program nem valósulna meg;
+
+3.5. a terv, illetve program megvalósulásával közvetlenül vagy közvetve környezeti hatást kiváltó tényezők, okok feltárása, különös tekintettel azokra a tervelemekre, tervezett intézkedésekre, amelyek:
+
+3.5.1. természeti erőforrás közvetlen igénybevételét vagy környezetterhelés közvetlen előidézését jelentik,
+
+3.5.2. olyan társadalmi, gazdasági folyamatokat váltanak ki, vagy ösztönöznek, amelyek közvetett módon környezeti következménnyel járhatnak (különösen azok, amelyek olyan befektetői, termelői vagy fogyasztói magatartást váltanak ki, vagy ösztönöznek, illetve egyéb olyan tendenciákat erősítenek, amelyek természeti erőforrás igénybevételéhez vagy környezetterheléshez vezethetnek, olyan fajta beruházásokat, fejlesztési irányokat részesítenek előnyben, amelyek további környezetterhelő vagy igénybevevő fejlesztéseket vonzanak, ösztönöznek vagy ha kumulatív hatások léphetnek fel);
+
+3.6. az előző pontok szerint meghatározott információkból kiindulva a terv, illetve program megvalósítása esetén várható, a környezetet érő hatások, környezeti következmények előrejelzése:
+
+3.6.1. jól azonosítható környezet igénybevétel vagy terhelés esetén különös tekintettel:
+
+3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^27]),
+
+3.6.1.2. a környezeti elemek rendszereire, folyamataira, szerkezetére, különösen a tájra, településre, klímára, természeti (ökológiai) rendszerre, a biodiverzitásra,
+
+3.6.1.3. a Natura 2000 területek állapotára, állagára és jellegére, valamint e területeken lévő élőhelyek és fajok kedvező természetvédelmi helyzete megmaradásának, fenntartásának, helyreállításának, fejlesztésének lehetőségeire, továbbá
+
+3.6.1.4. az előbbi hatások következtében az érintett emberek egészségi állapotában, valamint társadalmi, gazdasági helyzetében – különösen életminőségében, kulturális örökségében, területhasználata feltételeiben – várhatóan fellépő változásokra;
+
+3.6.2. a közvetett módon hatást kiváltó tényezők fellépése esetén különös tekintettel:
+
+3.6.2.1. új környezeti konfliktusok, problémák megjelenésére, meglévők felerősödésére,
+
+3.6.2.2. környezettudatos, környezetbarát magatartás, életmód lehetőségeinek, feltételeinek gyengítésére vagy korlátozására,
+
+3.6.2.3. a helyi adottságoknak megfelelő optimális térszerkezettől, területfelhasználási módtól való eltérés fenntartására vagy létrehozására,
+
+3.6.2.4. olyan helyi társadalmi-kulturális, gazdasági-gazdálkodási hagyományok gyengítésére, amelyek a táj eltartó képességéhez alkalmazkodtak,
+
+3.6.2.5. a természeti erőforrások megújulásának korlátozására,
+
+3.6.2.6. a nem helyi természeti erőforrások jelentős mértékű használatára vagy a helyi természeti erőforrások túlnyomóan más területen való hasznosítására;
+
+3.7. a környezeti következmények alapján a terv, illetve program és a változatok értékelése, a környezeti szempontból elfogadható változatok meghatározása.
+
+4\. A terv, illetve program megvalósítása következtében várhatóan fellépő környezetre káros hatások elkerülésére, csökkentésére vagy ellentételezésére vonatkozó, a tervben, illetve programban szereplő intézkedések környezeti hatékonyságának értékelése, javaslatok egyéb szükséges intézkedésekre.
+
+5\. Javaslat olyan környezeti szempontú intézkedésekre, előírásokra, feltételekre, szempontokra, amelyeket a terv, illetve program által befolyásolt más tervben, illetve programban figyelembe kell venni.
+
+6\. A terv, illetve program megvalósítása következtében várhatóan fellépő környezeti hatásokra vonatkozóan a tervben, illetve programban szereplő monitorozási javaslatok értékelése, javaslatok egyéb szükséges intézkedésekre.
+
+7.[^28] Az 1–6. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
+
+---
+
+[^1]: 20/2001. (II. 14.) Korm. rendelet 1. számú melléklete.
+[^2]: Az 1. § (2) bekezdés b) pont bb) alpontja a 100/2014. (III. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (2a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 35. § (1) bekezdése iktatta be.
+[^4]: A 4. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
+[^5]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 395. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^6]: A 8. § (2) bekezdése a 132/2010. (IV. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: A 8. § (3) bekezdése a 132/2010. (IV. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: A 8. § (3a) bekezdését a 132/2010. (IV. 21.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A 8. § (7) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 43. §-a iktatta be.
+[^10]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 12. § (2) bekezdés c) pontját a 132/2010. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 13. § (1) bekezdése a 90/2010. (III. 26.) Korm. rendelet 69. § (16) bekezdése szerint módosított szöveg.
+[^14]: A 13. § (2) bekezdés a 322/2011. (XII. 27.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^15]: A 14. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 574. pontja szerint módosított szöveg.
+[^16]: A 14. § (2a) bekezdését a 100/2014. (III. 25.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^17]: Az 1. számú melléklet 1. pontja a 285/2024. (IX. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^18]: Az 1. számú melléklet 2. pontja a 285/2024. (IX. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. számú melléklet 5. pontja a 441/2012. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^20]: A 2. számú melléklet 1. pont e) alpontja a 100/2014. (III. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet 2. pont h) alpontját a 100/2014. (III. 25.) Korm. rendelet 3. §-a iktatta be.
+[^22]: A 4. számú melléklet 3.6.1.1. és 3.6.1.2. pontjai szerint.
+[^23]: A 3. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 35. § (2) bekezdésével megállapított, a 26/2022. (I. 28.) Korm. rendelet 4. §-a, a 107/2023. (III. 30.) Korm. rendelet 1. §-a, az 590/2023. (XII. 20.) Korm. rendelet 1. §-a, az 591/2023. (XII. 20.) Korm. rendelet 3. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 5. §-a, a 285/2024. (IX. 30.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^24]: A 3. számú melléklet II. pont II.2. alpont f) pontját a 141/2024. (VI. 28.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^25]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
+[^26]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
+[^27]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
+[^28]: A 4. számú melléklet 7. pontja a 118/2015. (V. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

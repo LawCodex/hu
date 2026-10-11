@@ -1,0 +1,206 @@
+---
+title: "278/2007. (X. 20.) Korm. rendelet a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól"
+identifier: "278/2007. (X. 20.) Korm. rendelet"
+njt_id: "2007-278-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/278"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-10-20
+in_force_from: 2008-01-02
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-278-20-22"
+retrieved: 2026-10-12
+---
+
+# 278/2007. (X. 20.) Korm. rendelet a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól
+
+A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdésének 22. pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában foglalt feladatkörében a következőket rendeli el:
+
+## 1. §
+
+Szénipari szerkezetátalakítási támogatásra a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 171. §-ának (13) bekezdésében meghatározott bányavállalkozóként a Vértesi Erőmű Zrt. vagy annak jogutódja (a továbbiakban együtt: bányavállalkozó) jogosult.
+
+## 2. §
+
+Az e rendeletben használt fogalmakra a VET-ben, valamint a végrehajtására kiadott jogszabályokban szereplő fogalommeghatározások az irányadók.
+
+## 3. §
+
+(1)[^1] A bányavállalkozó a szénipari szerkezetátalakítási támogatás keretében
+
+a) a széntermelő egységekben indokolt folyó termelési veszteségek alapján számított, a 2010/787/EU tanácsi határozat 3. cikke szerinti üzembezárási támogatásra (a továbbiakban: üzembezárási támogatás) és
+
+b) a széntermelő egységek bezárásából származó, a folyó termeléshez nem kapcsolódó költségek és bevételek különbözete alapján számított, a 2010/787/EU tanácsi határozat 4. cikke szerinti rendkívüli költségek fedezésére nyújtott támogatásra (a továbbiakban: rendkívüli támogatás)
+
+jogosult.
+
+(1a)[^2] A szénipari szerkezetátalakítási támogatás mértékéről a Magyar Energia Hivatal (a továbbiakban: Hivatal) javaslata alapján az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) határozatban dönt.
+
+(2)[^3] Az (1) bekezdés *a)* pontja szerinti veszteséget a széntermelő egység indokolt ráfordításainak, valamint a széntermelő egység vonatkozásában – az erőművi egység tárgyévi széntermelésen alapuló villamos energia- és hőtermeléséből származó indokolt bevételének az erőművi egység és a széntermelő egység ráfordításainak arányában – megállapított árbevétel különbözete adja.
+
+(2a)[^4] Az erőművi egység tárgyévi széntermelésén alapuló villamos energia- és hőtermelésből származó indokolt bevétel az erőművi egység ténylegesen elért árbevétele és a piaci körülmények között elérhető árbevétel közül a nagyobbik érték. A piaci körülmények között elérhető árbevétel számszerűsítésénél a Hivatal az értékesítés időszakát és az értékesített termékek jellegzetességeit is figyelembe veszi.
+
+(3) Ha a bányavállalkozó a széntermeléssel, illetve a szén felhasználásával előállított villamos energia és hőenergia termeléssel összefüggésben – az ezen tevékenységéhez kapcsolódó kutatás, technológiafejlesztés, környezet és képzés tekintetében nyújtott állami támogatásokat kivéve – külön jogszabályban megállapított támogatásban is részesül, akkor az (1)–(2) bekezdések alapján adható támogatást a külön jogszabály szerinti támogatás mértékével csökkenteni kell.
+
+(4)[^5] Az üzembezárási támogatás mértéke a melléklet 1. pontjában foglalt táblázat szerinti, az elszámolás tárgyát képező naptári évre (a továbbiakban: tárgyév) vonatkozó összeget, és a rendkívüli támogatás 2011–2018. tárgyévekre megállapított mértéke a melléklet 2. pontjában foglalt táblázat szerinti összeget nem haladhatja meg.
+
+(5)[^6]
+
+## 4. §[^7]
+
+## 5. §[^8]
+
+(1) A Hivatal a tárgyévet megelőző év július 31. napjáig javaslatot tesz a miniszternek a szénipari szerkezetátalakítási támogatás mértékére.
+
+(2) Az (1) bekezdés szerinti javaslat előkészítése céljából a bányavállalkozó a tárgyévet megelőző év június 30. napjáig a bányabezárással összefüggő tárgyévi várható költségeiről tájékoztatja a Hivatalt.
+
+## 6. §
+
+(1)[^9] Az átviteli rendszerirányító a szénipari szerkezetátalakítási pénzeszköz kezelésére elkülönített számlát vezet (a továbbiakban: szénipari szerkezetátalakítási támogatás céljára elkülönített számla).
+
+(2) A szénipari szerkezetátalakítási támogatás céljára elkülönített számla terhére történő bármilyen kifizetés csak a miniszter határozata alapján történhet.
+
+## 7. §
+
+(1)[^10] A bányavállalkozó a tárgyévre vonatkozó támogatás iránti kérelmét a tárgyévet követő év március 31. napjáig nyújtja be a Hivatalhoz.
+
+(2)[^11] A kérelemben meg kell jelölni
+
+a) az érvényesíteni kívánt igény jogcímét és mértékét, és
+
+b) üzembezárási támogatás esetében
+
+ba) az erőművi egység tárgyévi széntermelésen alapuló villamos energia- és hőtermeléséből származó bevételének az erőművi egység és a széntermelő egység ráfordításainak arányában történő felosztása alapján számított széntermelő egység árbevételét,
+
+bb) a széntermelő egység ráfordításait,
+
+bc) az erőművi egység tárgyévi széntermelésen alapuló villamos energia- és hőtermeléséből származó bevételének az erőművi egység és a széntermelő egység ráfordításainak arányában történő felosztása alapján számított erőművi egység árbevételét, és
+
+bd) az erőművi egység ráfordításait.
+
+(3)[^12] A Hivatal a szénipari szerkezetátalakítási támogatásra vonatkozó kérelmet megvizsgálja, és a tárgyévet követő év április 30. napjáig javaslatot készít a miniszter részére a tárgyévhez kapcsolódó szénipari szerkezetátalakítási támogatás indokolt mértékére vonatkozóan. A Hivatal ezzel egyidejűleg a bányavállalkozót rendkívüli támogatás esetében tájékoztatja az általa támogatásra nem javasolt költségelemekről, üzembezárási támogatás esetében az indokolt folyó termelési veszteség megállapításának részleteiről.
+
+(4)[^13] A miniszter a tárgyévet követő év május 25. napjáig határozatban állapítja meg a bányavállalkozónak a tárgyévre vonatkozóan kifizetendő támogatás összegét.
+
+## 8. §[^14]
+
+(1) A miniszter a tárgyév során a bányavállalkozó kérelme alapján a Hivatal javaslatára az éves összeg terhére
+
+a) üzembezárási támogatás esetében előleg kifizetéséről,
+
+b) rendkívüli támogatás esetében – tényadatokon alapuló utólagos elszámolás alapján – részlet (a továbbiakban: részlet) kifizetéséről
+
+dönthet.
+
+(2) A bányavállalkozó (1) bekezdés szerinti előleg vagy részlet kifizetésére irányuló kérelmet évente összesen legfeljebb hat alkalommal nyújthat be a Hivatalhoz. A kérelemhez mellékelni kell
+
+a) előleg fizetésére irányuló kérelem esetében
+
+aa) külön-külön az erőművi egységben és a széntermelő egységben ténylegesen felmerült vagy tervezetten felmerülő ráfordításokra és bevételekre, valamint
+
+ab) az erőművi egység tárgyévi széntermelésén alapuló villamos energia- és hőtermeléséből származó bevételének az erőművi egység és a széntermelő egység ráfordításainak arányában történő felosztása alapján számított, az erőművi egységre és a széntermelő egységre vonatkozó árbevételi adatokat,
+
+b) részlet fizetésére irányuló kérelem esetében a széntermelő egységek bezárásából származó, a folyó termeléshez nem kapcsolódó, ténylegesen felmerült költségekre és bevételekre vonatkozó adatokat és a kapcsolódó számlákat.
+
+(3) Az (1) bekezdés szerinti előleg és részlet összege nem haladhatja meg a szénipari szerkezetátalakítási támogatás céljára elkülönített számlán rendelkezésre álló összeget.
+
+## 9. §[^15]
+
+A miniszternek a 7. § (4) bekezdése, illetve a 8. § (1) bekezdése szerinti döntését követően az átviteli rendszerirányító a szénipari szerkezetátalakítási támogatás céljára elkülönített számla terhére haladéktalanul gondoskodik a bányavállalkozót megillető összeg kifizetéséről.
+
+## 10. §[^16]
+
+(1) Ha a szénipari szerkezetátalakítás céljára elkülönített számlán rendelkezésre álló összeg nem éri el a tárgyévre vonatkozóan a bányavállalkozónak a 7. § (4) bekezdése alapján – a már folyósított előlegeken és részleteken túlmenően – kifizetendő támogatás összegét, a különbözetet a tárgyévet követő évben beszedett pénzeszköz összegéből kell a bányavállalkozó számára a tárgyévet követő év december 31. napjáig átutalni.
+
+(2) A bányavállalkozóval az (1) bekezdés szerint a tárgyévre vonatkozóan utólagosan elszámolt különbözetet a tárgyévre vonatkozó támogatásként kell kezelni.
+
+## 10/A. §[^17]
+
+(1)[^18] A 2010/787/EU tanácsi határozat 7. cikk (4) és (5) bekezdése szerinti adatszolgáltatási kötelezettséget az európai uniós források felhasználásáért felelős miniszter teljesíti az Európai Bizottság felé.
+
+(2)[^19] Az (1) bekezdés szerinti kötelezettség teljesítéséhez az európai uniós források felhasználásáért felelős miniszter számára a Hivatal
+
+a) a 2010/787/EU tanácsi határozat 7. cikk (4) bekezdésében foglaltak vonatkozásában minden tárgyévet megelőző év november 30. napjáig,
+
+b) a 2010/787/EU tanácsi határozat 7. cikk (5) bekezdésében foglaltak vonatkozásában minden tárgyévet követő év június 15. napjáig
+
+szolgáltat adatot.
+
+## 11. §
+
+Ez a rendelet 2008. január 1-jén lép hatályba.
+
+## 12. §[^20]
+
+(1) A Hivatal e rendeletnek a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló 278/2007. (X. 20.) Korm. rendelet módosításáról szóló 211/2011. (X. 12.) Korm. rendelettel (a továbbiakban: Módosító Korm. rendelet) megállapított 5. § (1) bekezdése szerinti javaslatát a miniszter részére a 2013. tárgyév vonatkozásában a Módosító Korm. rendelet hatálybalépését[^21] követő 30. napig teszi meg.
+
+(2) A bányavállalkozó e rendeletnek a Módosító Korm. rendelettel megállapított 5. § (2) bekezdése szerinti kötelezettségének a 2013. tárgyév vonatkozásában a Módosító Korm. rendelet hatálybalépését[^22] követő 15. napig tesz eleget.
+
+## 12/A. §[^23]
+
+(1) A bányavállalkozó e rendeletnek a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló 278/2007. (X. 20.) Korm. rendelet módosításáról szóló 13/2013. (I. 25.) Korm. rendelettel (a továbbiakban: Mód. rendelet) megállapított 7. § (1) bekezdése szerinti támogatás iránti kérelmét a 2011. tárgyévre vonatkozóan a Mód. rendelettel megállapított 7. § (1) bekezdésének hatálybalépését[^24] követő 15. napig nyújtja be a Hivatalhoz.
+
+(2) A Hivatal e rendeletnek a Mód. rendelettel megállapított 7. § (3) bekezdése szerinti javaslatát a 2011. tárgyévre vonatkozóan a Mód. rendelettel megállapított 7. § (3) bekezdésének hatálybalépését[^25] követő 45. napig készíti el és terjeszti elő a miniszter részére.
+
+(3) A miniszter e rendeletnek a Mód. rendelettel megállapított 7. § (4) bekezdése szerinti határozatát a 2011. tárgyévre vonatkozóan a Mód. rendelettel megállapított 7. § (4) bekezdésének hatálybalépését[^26] követő 75. napig hozza meg.
+
+(4) A Hivatal a 10/A. § (2) bekezdés *a)* pontja szerinti adatszolgáltatási kötelezettségét a 2011–2013. tárgyévek vonatkozásában 2013. március 15. napjáig teljesíti.
+
+## 13. §[^27]
+
+(1) E rendelet 10/A. §-a a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat 7. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2) E rendelet a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat hatálya alá tartozó támogatást tartalmaz.
+
+## Melléklet a 278/2007. (X. 20.) Korm. rendelethez[^28]
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Tárgyév | Az üzembezárási támogatás maximális összege (forint) |
+|  | 2. | 2011. | 6 462 992 991 |
+|  | 3. | 2012. | 6 493 176 924 |
+|  | 4. | 2013. | 4 847 244 743 |
+|  | 5. | 2014. | 4 847 244 743 |
+|  | 6. | 2015. | 0 |
+|  | 7. | 2016. | 0 |
+|  | 8. | 2017. | 0 |
+|  | 9. | 2018. | 0 |
+|  | 10. | 2011–2018. összesen | 22 650 659 401 |
+
+|  |  | A | B |
+|---|---|---|---|
+|  | 1. | Tárgyév | A rendkívüli támogatás maximális összege (forint) |
+|  | 2. | 2011–2018. összesen | 19 596 755 605 |
+
+---
+
+[^1]: A 3. § (1) bekezdése a 13/2013. (I. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § (1a) bekezdését a 13/2013. (I. 25.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 3. § (2) bekezdése a 13/2013. (I. 25.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (2a) bekezdését a 13/2013. (I. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 3. § (4) bekezdése a 211/2011. (X. 12.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^6]: A 3. § (5) bekezdését a 211/2011. (X. 12.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^7]: A 4. §-t a 211/2011. (X. 12.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^8]: Az 5. § a 211/2011. (X. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 6. § (1) bekezdése a 211/2011. (X. 12.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 7. § (1) bekezdése a 13/2013. (I. 25.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^11]: A 7. § (2) bekezdése a 13/2013. (I. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^12]: A 7. § (3) bekezdése a 13/2013. (I. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^13]: A 7. § (4) bekezdése a 13/2013. (I. 25.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § a 13/2013. (I. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 9. § a 211/2011. (X. 12.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^16]: A 10. § a 211/2011. (X. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 10/A. §-t a 211/2011. (X. 12.) Korm. rendelet 5. §-a iktatta be.
+[^18]: A 10/A. § (1) bekezdése az 550/2013. (XII. 30.) Korm. rendelet 31. §-a, a 221/2014. (IX. 4.) Korm. rendelet 403. §-a szerint módosított szöveg.
+[^19]: A 10/A. § (2) bekezdés nyitó szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 31. §-a, a 221/2014. (IX. 4.) Korm. rendelet 403. §-a szerint módosított szöveg.
+[^20]: A 12. § ugyanezen § rendelkezése alapján 2008. január 2-án hatályát vesztette. A 12. §-t újonnan a 27/2010. (II. 14.) Korm. rendelet iktatta be, szövege a 13/2013. (I. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A hatálybalépés napja: 2013. február 7.
+[^22]: A hatálybalépés napja: 2013. február 7.
+[^23]: A 12/A. §-t a 13/2013. (I. 25.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A hatálybalépés napja: 2013. február 7.
+[^25]: A hatálybalépés napja: 2013. február 7.
+[^26]: A hatálybalépés napja: 2013. február 7.
+[^27]: A 13. § a 211/2011. (X. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^28]: A melléklet a 13/2013. (I. 25.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,0 +1,233 @@
+---
+title: "354/2009. (XII. 30.) Korm. rendelet a munkabiztonsági szakértői tevékenységről"
+identifier: "354/2009. (XII. 30.) Korm. rendelet"
+njt_id: "2009-354-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/354"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-12-30
+in_force_from: 2010-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-354-20-22"
+retrieved: 2026-10-12
+---
+
+# 354/2009. (XII. 30.) Korm. rendelet a munkabiztonsági szakértői tevékenységről
+
+A Kormány a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés c) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. § (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következő rendeletet alkotja:
+
+## 1. §[^1]
+
+A munkabiztonsági szakértői tevékenység folytatását a Magyar Mérnöki Kamara (a továbbiakban: MMK) területi mérnöki kamarái (a továbbiakban: engedélyező szerv) engedélyezik. A munkabiztonsági szakértői szakterületeket az 1. melléklet tartalmazza.
+
+## 2. §[^2]
+
+(1) A kérelmező az engedély iránti kérelmet a lakóhelye szerint illetékes területi mérnöki kamaránál nyújtja be.
+
+(2) A kérelem tartalmazza
+
+a) a kérelmező nevét, címét, e-mail-címét, telefonszámát,
+
+b) a kérelmező születési helyét, idejét, anyja nevét,
+
+c) a kérelmező kamarai tagsági számát, ha van, és
+
+d) az engedélyezni kért szakterület megnevezését.
+
+(3) Az engedély iránti kérelemhez mellékelni kell
+
+a) a szakirányú felsőfokú végzettséget igazoló oklevél vagy bizonyítvány másolatát, külföldi felsőoktatási intézmény által kiállított oklevél esetén annak magyar fordítását, valamint a honosításáról szóló iratot,
+
+b) a kérelmezett szakterülettel összefüggő, az oklevél megszerzését követő szakirányú és munkabiztonsági gyakorlat feladatkörönként feltüntetett igazolását, amely tartalmazza a referenciamunkák intervallumát is, és
+
+c) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 83. § (2) bekezdésében előírtak igazolását.
+
+(4) Ha a kérelmező nem a felsőoktatási alapképzés műszaki, természettudományi vagy agrár szakán szerzett végzettséggel rendelkezik, akkor engedély iránti kérelmet az 1. melléklet 17. pontjában meghatározott szakterületre vonatkozóan nyújthat be.
+
+## 3. §[^3]
+
+(1) A kérelmezőnek
+
+a) a választott szakterületen felsőfokú végzettséggel és annak megszerzésétől számított legalább 5 éves, a kérelmezett szakterülettel összefüggő szakirányú gyakorlattal és
+
+b) a munkavédelmi szakmai képesítések fokáról szóló miniszteri rendeletben meghatározott, a munkabiztonsági szaktevékenység ellátása szempontjából felsőfokú munkavédelmi szakmai képesítéssel és annak megszerzésétől számított legalább 5 éves, a kérelmezett szakterülettel összefüggő munkabiztonsági gyakorlattal
+
+kell rendelkeznie.
+
+(2) A képesítési követelmény teljesítésének vizsgálata során, ha az oklevélből az (1) bekezdés a) pontjában megjelölt szakterület, illetve az (1) bekezdés b) pontja szerinti képesítési szint nem állapítható meg, akkor
+
+a) a kérelmező végzettségének megfelelő szakterületről, illetve
+
+b) a kérelmező számára adható jogosultságról – az igazolt szakképzettség és a teljesített kreditszámok figyelembevételével –
+
+az MMK által működtetett szakértői testület az első és másodfokú eljárás során szakértőként véleményt nyilvánít, amelyet a jogosultság megállapításakor a területi és az országos kamara figyelembe vesz.
+
+(3) A szakirányú szakmai képesítés vizsgálatának alapját az MMK szabályzata által meghatározott kreditek összege képezi. A tantárgycsoportok és azon belül a kreditértékekben meghatározott ismeretkörök vagy tantárgyak nevesítése kamarai hatáskörben, szabályzat formájában kerül meghatározásra a szükséges minimumkompetencia tartalmakkal együtt.
+
+## 3/A. §[^4]
+
+Az engedély kiadásának feltétele a 7/A. §-ban meghatározott jogosultsági vizsga sikeres teljesítése.
+
+## 4. §
+
+A szakértői engedélyt vissza kell vonni, ha
+
+a) az engedélyező szerv a szakértői tevékenység gyakorlásával összefüggő hatósági ellenőrzés során megállapítja, hogy az engedély kiadásának feltételei az engedély kiadásának időpontjában nem álltak fenn, illetve a szakértői tevékenység gyakorlása során nem állnak fenn,
+
+b) a szakértő a tevékenységét az engedélyében foglaltaktól eltérően vagy az e rendeletben előírt rendelkezések megsértésével folytatja, és a jogsértést az engedélyező szerv felszólítására sem szünteti meg.
+
+## 5. §
+
+(1)[^5]
+
+(2)[^6]
+
+(3) A munkabiztonsági szakértő köteles a nyilvántartott adatokban bekövetkezett változást az engedélyező szervnek haladéktalanul bejelenteni.
+
+## 6. §
+
+A szakértő az engedélyező szervnél kérheti szakértői tevékenységének szüneteltetését a kezdőnap és az időtartam megjelölésével. Visszamenőleges szüneteltetésnek nincs helye.
+
+## 7. §[^7]
+
+Az illetékes területi mérnöki kamara a 4. § szerinti szakértői engedély visszavonásáról, valamint a 6. § szerinti szüneteltetésről az igazságügyi szakértői névjegyzéket vezető hatóságot haladéktalanul, de legfeljebb az intézkedésének nyilvántartásba történő bejegyzésétől számított 3 munkanapon belül tájékoztatja, amennyiben az érintett szakértő az igazságügyi szakértői nyilvántartásban is szerepel.
+
+## 7/A. §[^8]
+
+(1) A jogosultsági vizsga lefolytatásával kapcsolatban az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló jogszabály rendelkezéseit az e §-ban meghatározott eltéréssel kell alkalmazni.
+
+(2) A jogosultsági vizsga általános és szakterületi részből áll.
+
+(3) A jogosultsági vizsga általános része a munkabiztonsági szakértők közös ismeretanyagát képező ismeretekre vonatkozik, és legalább az alábbi ismeretkörökből áll:
+
+a) a Polgári Törvénykönyvről szóló 2013. évi V. törvény a szerződés általános szabályaira vonatkozó rendelkezéseinek, az Mvt., valamint a munkavédelmi tárgyú jogszabályok és szabványok ismerete,
+
+b) a kamarai etikai-fegyelmi eljárás szabályok ismerete.
+
+(4) A jogosultsági vizsga szakterületi része a szakmagyakorlók speciális, szakterületi ismeretanyagát képező ismeretekre vonatkozik, és legalább az alábbi ismeretkörből áll:
+
+a) a kérelmezett vagy gyakorolt tevékenység végzésére vonatkozó szabályok ismerete,
+
+b) a kérelmezett vagy gyakorolt szakterületre vonatkozóan
+
+ba) a felelősségi, összeférhetetlenségi szabályok,
+
+bb) a munkabiztonsági szakértői tevékenység ellátására vonatkozó szerződés tartalmi követelményeire, díjszámítás szabályaira vonatkozó előírások,
+
+bc) a tevékenység végzésével összefüggő, ahhoz kapcsolódó egyéb szakmai területek és társszakértő bevonásának szabályai, és
+
+bd) a munkabiztonsági szakértői vélemény tartalmi követelményeinek
+
+ismerete.
+
+(5) A jogosultsági vizsga további szabályait, az ismeretkörök szakmai anyagát az MMK Jogosultsági és Beszámoló Vizsga Szakértői Testület szabályozza.
+
+(6) A munkabiztonsági szakértői tevékenység folytatására és a munkabiztonsági szakértők továbbképzésére az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló jogszabály előírásait kell alkalmazni.
+
+## 8. §
+
+(1)[^9] Ez a rendelet 2010. január 1-jén lép hatályba.
+
+(2)[^10]
+
+(3)[^11]
+
+(4)[^12]
+
+(5) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 8/A. §[^13]
+
+A munkavédelmi hatóság engedélye alapján munkabiztonsági szakértői tevékenységre jogosult munkabiztonsági szakértőt a lakóhelye szerinti, a magyar építészetről szóló törvényben meghatározott illetékes területi mérnöki kamara – e § hatálybalépését követő 30. napig a munkavédelmi hatóság által vezetett nyilvántartásból – felveszi a munkabiztonsági szakértők nyilvántartásába.
+
+## 8/B. §[^14]
+
+A 2026. január 1-je előtt kiadott szakértői engedélyekben szereplő szakterületek megfeleltetését a 2. melléklet tartalmazza.
+
+## 1. melléklet a 354/2009. (XII. 30.) Korm. rendelethez[^15]
+
+**Munkabiztonsági szakértői szakterületek**
+
+1\. Anyagmozgatás, szállítás, tárolás technológiája és eszközeinek biztonsága
+
+2\. Erdőgazdálkodás technológiája és eszközeinek biztonsága
+
+3\. Bányászati tevékenység technológiája és eszközeinek biztonsága
+
+4\. Egészségügyi tevékenység technológiája és eszközeinek biztonsága
+
+5\. Emelőgép technológiája és eszközeinek biztonsága
+
+6\. Energia előállítás, szállítás, tárolás technológiája és eszközeinek biztonsága, villamos biztonság
+
+7\. Állattenyésztés és növénytermesztés technológiája és eszközeinek biztonsága
+
+8\. Építőipari kivitelezés, üzemeltetés, ipari alpintechnika technológiája és eszközeinek biztonsága
+
+9\. Feldolgozóipari tevékenység technológiája és eszközeinek biztonsága
+
+10\. Hulladékkezelés víz- és szennyvíz gazdálkodás technológiája és eszközeinek biztonsága
+
+11\. Kereskedelmi és vendéglátó-ipari tevékenység technológiája és eszközeinek biztonsága
+
+12\. Munkahelyi levegőminőség biztosításának technológiája és eszközeinek biztonsága
+
+13\. Munkahelyi zaj és rezgés elleni védelem
+
+14\. Művészeti tevékenység, sport- és nem művészeti célú szórakoztatási tevékenység technológiája és eszközeinek biztonsága
+
+15\. Munkahelyi kémiai biztonság
+
+16\. Világítástechnika
+
+17\. Beruházásszervezés, munkavédelem gazdasági elemzése, üzem- és munkaszervezés
+
+## 2. melléklet a 354/2009. (XII. 30.) Korm. rendelethez[^16]
+
+**Megfeleltetési táblázat**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | **Munkabiztonsági szakértői terület megnevezése 2026. január 1-jétől** | **Korábbi szakterülettel ekvivalencia** |
+| **2.** | Anyagmozgatás, szállítás, tárolás technológiája és eszközeinek biztonsága | 1. Anyagmozgatás technológiája és eszközeinek biztonsága 2. Szállítás technológiája és eszközeinek biztonsága 3. Tárolás, raktározás technológiája és eszközeinek biztonsága |
+| **3.** | Erdőgazdálkodás technológiája és eszközeinek biztonsága | Erdőgazdálkodás technológiája és eszközeinek biztonsága |
+| **4.** | Bányászati tevékenység technológiája és eszközeinek biztonsága | Bányászati tevékenység technológiája és eszközeinek biztonsága |
+| **5.** | Egészségügyi tevékenység technológiája és eszközeinek biztonsága | Egészségügyi tevékenység technológiája és eszközeinek biztonsága |
+| **6.** | Emelőgép technológiája és eszközeinek biztonsága | Emelőgép technológiája és eszközeinek biztonsága |
+| **7.** | Energia előállítás, szállítás, tárolás technológiája és eszközeinek biztonsága, villamos biztonság | Energia előállítás, szállítás, tárolás technológiája és eszközeinek biztonsága |
+| **8.** | Állattenyésztés és növénytermesztés technológiája és eszközeinek biztonsága | 1. Állattenyésztés technológiája és eszközeinek biztonsága 2. Növénytermesztés technológiája és eszközeinek biztonsága |
+| **9.** | Építőipari kivitelezés, üzemeltetés, ipari alpintechnika technológiája és eszközeinek biztonsága | 1. Építőipari kivitelezés technológiája és eszközeinek biztonsága 2. Ipari alpintechnika technológiája és eszközeinek biztonsága |
+| **10.** | Feldolgozóipari tevékenység technológiája és eszközeinek biztonsága | Feldolgozóipari tevékenység technológiája és eszközeinek biztonsága |
+| **11.** | Hulladékkezelés víz- és szennyvíz gazdálkodás technológiája és eszközeinek biztonsága | 1. Hulladékkezelés technológiája és eszközeinek biztonsága 2. Vízgazdálkodás technológiája és eszközeinek biztonsága |
+| **12.** | Kereskedelmi és vendéglátó-ipari tevékenység technológiája és eszközeinek biztonsága | Kereskedelmi és vendéglátó-ipari tevékenység technológiája és eszközeinek biztonsága |
+| **13.** | Munkahelyi levegőminőség biztosításának technológiája és eszközeinek biztonsága | Fűtés, szellőzés technológiája és eszközeinek biztonsága |
+| **14.** | Munkahelyi zaj és rezgés elleni védelem | Munkahelyi zaj és rezgés elleni védelem |
+| **15.** | Művészeti tevékenység, sport- és nem művészeti célú szórakoztatási tevékenység technológiája és eszközeinek biztonsága | 1. Művészeti tevékenység technológiája és eszközeinek biztonsága 2. Sport- és nem művészeti célú szórakoztatási tevékenység technológiája és eszközeinek biztonsága |
+| **16.** | Munkahelyi kémiai biztonság | Új jogosultság |
+| **17.** | Világítástechnika | Világítástechnika |
+| **18.** | Beruházásszervezés munkavédelem gazdasági elemzése, üzem- és munkaszervezés | 1. Beruházásszervezés 2. Munkavédelem gazdasági elemzése 3. Üzem- és munkaszervezés |
+| **19.** | Megszűnt szakterület | Hírközlés és elektronika technológiája és eszközeinek biztonsága |
+
+## 3. számú melléklet a 354/2009. (XII. 30.) Korm. rendelethez[^17]
+
+---
+
+[^1]: Az 1. § a 408/2025. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 408/2025. (XII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § a 408/2025. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 3/A. §-t a 408/2025. (XII. 19.) Korm. rendelet 4. §-a iktatta be.
+[^5]: Az 5. § (1) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^6]: Az 5. § (2) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
+[^7]: A 7. §-t a 356/2021. (VI. 24.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte, újonnan a 331/2024. (XI. 14.) Korm. rendelet 8. §-a iktatta be.
+[^8]: A 7/A. §-t a 408/2025. (XII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^9]: A 8. § (1) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^10]: A 8. § (2) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^11]: A 8. § (3) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^12]: A 8. § (4) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^13]: A 8/A. §-t a 356/2021. (VI. 24.) Korm. rendelet 13. §-a iktatta be, szövege a 285/2024. (IX. 30.) Korm. rendelet 59. §-a szerint módosított szöveg.
+[^14]: A 8/B. §-t a 408/2025. (XII. 19.) Korm. rendelet 6. §-a iktatta be.
+[^15]: Az 1. melléklet a 408/2025. (XII. 19.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^16]: A 2. mellékletet a 356/2021. (VI. 24.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte, újonnan a 408/2025. (XII. 19.) Korm. rendelet 8. §-a iktatta be.
+[^17]: A 3. mellékletet a 356/2021. (VI. 24.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.

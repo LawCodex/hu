@@ -1,0 +1,88 @@
+---
+title: "90/2008. (IV. 23.) Korm. rendelet az önkormányzat által szervezett közcélú foglalkoztatás 2008. évi előirányzatából történő többlettámogatás igényléséről"
+identifier: "90/2008. (IV. 23.) Korm. rendelet"
+njt_id: "2008-90-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/90"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-04-23
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-90-20-22"
+retrieved: 2026-10-12
+---
+
+# 90/2008. (IV. 23.) Korm. rendelet az önkormányzat által szervezett közcélú foglalkoztatás 2008. évi előirányzatából történő többlettámogatás igényléséről
+
+A Kormány a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény 8. számú melléklete II/2. pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Magyar Államkincstár illetékes területi szerve (a továbbiakban: Igazgatóság) a települési önkormányzatok által a 2008. január–június hónapokra közcélú foglalkoztatáshoz az egyes pénzbeli szociális ellátások elszámolásának szabályairól szóló 62/2006. (III. 27.) Korm. rendelet (a továbbiakban: R.) szerint igényelt támogatásoknak az R. 6. számú melléklete 8. *b)* pontja szerinti összegeit összesíti (a továbbiakban: első féléves felhasználás), és az összesített adatokat az Önkormányzati és Területfejlesztési Minisztérium részére megyénként, településsoros bontásban – elektronikus úton – 2008. július 20-ig megküldi.
+
+(2) Az Önkormányzati és Területfejlesztési Minisztérium az összesített adatokat – öt munkanapon belül – a Szociális és Munkaügyi Minisztérium, valamint a Pénzügyminisztérium részére tájékoztatásul megküldi.
+
+## 2. §
+
+(1) Az Önkormányzati és Területfejlesztési Minisztérium a Magyar Köztársaság 2008. évi költségvetéséről szóló 2007. évi CLXIX. törvény (a továbbiakban: T.) 8. számú melléklete II/2. pontja szerint a települési önkormányzat számára megállapított, a közcélú foglalkoztatáshoz kapcsolódó éves keretösszeget az 1. § (1) bekezdése szerinti elszámolás alapján módosítja, és a T. 8. számú melléklete II/2. pontjában meghatározottak szerint a települési önkormányzat részére módosított éves előirányzatot állapít meg.
+
+(2) Az (1) bekezdés szerinti módosított éves előirányzatok, valamint a T. 8. számú melléklete II/2. pontjában meghatározottak szerint a T. IX. Helyi önkormányzatok támogatásai és átengedett személyi jövedelemadója fejezetének költségvetésében képződött tartalék (a továbbiakban: tartalék) összegéről az Önkormányzati és Területfejlesztési Minisztérium az Igazgatóságokon keresztül 2008. augusztus 1-jéig értesíti a települési önkormányzatokat.
+
+## 3. §
+
+(1) A tartalékból az a települési önkormányzat igényelhet közcélú foglalkoztatás céljára többlettámogatást, amelynél a módosított éves előirányzatnak és az előlegigénylések együttes összegének a különbsége kevesebb, mint az első félévi felhasználás egyhavi átlaga (a továbbiakban: többletigénylés). A települési önkormányzat többletigénylésének egyhavi összege nem lehet több mint az első félévi felhasználás egy havi átlaga.
+
+(2) A települési önkormányzat november, december hónapban többletigénylést nem nyújthat be.
+
+(3) A többletigénylésről (előirányzat-módosítás igénylése) a települési önkormányzat jegyzője a tárgyhónap – első alkalommal augusztus – 10-ig a *melléklet* szerinti adatlapon értesíti az Igazgatóságot.
+
+(4) Az Igazgatóság a beérkezett többletigényléseket összesíti, és az összesített adatokat az Önkormányzati és Területfejlesztési Minisztérium részére megyénként, településsoros bontásban – elektronikus úton – minden hónap 15-ig megküldi. Az Önkormányzati és Területfejlesztési Minisztérium az összesített adatokat – öt munkanapon belül – a Szociális és Munkaügyi Minisztérium részére tájékoztatásul megküldi.
+
+(5) A többletigénylések teljesítése – a havonta beérkezett igényeknek megfelelően – a tartalék erejéig történik. Ha a tartalék összege nem elegendő a havi igénylések teljes kielégítésére, annak a települési önkormányzatok közötti felosztása a még rendelkezésre álló tartalék és az adott havi igénylések összegének arányában történik.
+
+(6) Az Önkormányzati és Területfejlesztési Minisztérium az Igazgatóságon keresztül a tárgyhónap 30-ig értesíti a települési önkormányzatot a többletigénylés alapján biztosított támogatásról és a módosított éves előirányzatnak a többletigénylés alapján biztosított támogatás összegével történő további módosításáról.
+
+(7) A települési önkormányzat a (6) bekezdés szerinti, a többletigénylés alapján módosított előirányzat terhére támogatást az R.-ben foglaltak szerint igényelhet.
+
+(8) Azoknál a települési önkormányzatoknál, ahol év végén a tényleges felhasználás nem éri el a (6) bekezdés szerinti, a többletigénylés alapján módosított előirányzatot, az Önkormányzati és Területfejlesztési Minisztérium az éves tényleges felhasználás összege szerint határozza meg az éves módosított előirányzatot, és erről az Igazgatóságon keresztül 2009. február 20-ig tájékoztatja a települési önkormányzatokat.
+
+## 4. §
+
+(1) Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+(2) E rendelet hatálybalépésével egyidejűleg hatályát veszti az önkormányzat által szervezett közcélú foglalkoztatás 2007. évi előirányzatának módosítási rendjéről és a többlettámogatás igényléséről, továbbá a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosításáról szóló 102/2007. (V. 9.) Korm. rendelet.
+
+## Melléklet a 90/2008. (IV. 23.) Korm. rendelethez
+
+**ADATLAPa települési önkormányzat által szervezett közcélú foglalkoztatással összefüggő előirányzat-módosítás igényléséhez (többletigénylés)......... év .......................... tárgyhónap**
+
+1\. Megye megnevezése:
+
+2\. Önkormányzat megnevezése:
+
+3\. KSH kódja (2 számjegyű megyekód + 5 számjegyű településazonosító):
+
+| *a)* a tárgyévben foglalkoztatási támogatás címén igényelhető összeg (az éves módosított előirányzat összegét kell feltüntetni): | .............. Ft |
+|---|---|
+|  |  |
+| *b)* a tárgyhónappal bezárólag foglalkoztatási támogatás címén igényelt előlegek együttes összege: | .............. Ft |
+|  |  |
+| *c)* a tárgyévben még rendelkezésre álló keret [4. *a)* és 4. *b)* rovat különbsége]: | .............. Ft |
+|  |  |
+| 5. Foglalkoztatási támogatás címén igényelhető havi előirányzat-többlet (a tárgyév január–június hónapjaira igényelt támogatás egy havi átlagának megfelelő összeg): | ............... Ft |
+|  |  |
+| 6. Foglalkoztatási támogatás címén igényelhető éves előirányzat-többlet |  |
+|  |  |
+| *a)* az 5-ös rovatban szereplő összeg szorozva az igénylést követő hónaptól november hónappal bezárólag a hónapok számával: | ............... Ft |
+|  |  |
+| *b)* a tárgyévben még rendelkezésre álló keret [megegyezik a 4. *c)* rovat összegével]: | ...............Ft |
+|  |  |
+| *c)* foglalkoztatási támogatás címén igényelhető többlettámogatás összege [megegyezik a 6. *a)* és 6. *b)* rovat különbségével]: | ............... Ft |
+|  |  |
+| 7. Foglalkoztatási támogatás címén ténylegesen igényelt többlet-előirányzat éves összege [a 7-es rovat összege nem haladhatja meg a 6. *c)* rovat összegét]: | .............. Ft |
+
+| .......................................... | ............................................... |
+|---|---|
+| jegyző aláírása | polgármester aláírása |

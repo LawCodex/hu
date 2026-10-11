@@ -1,0 +1,311 @@
+---
+title: "151/1993. (X. 28.) Korm. rendelet a magyar—ír nemzetközi közúti személy- és árufuvarozási Egyezmény kihirdetéséről"
+identifier: "151/1993. (X. 28.) Korm. rendelet"
+njt_id: "1993-151-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1993/Korm/151"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1993-10-28
+in_force_from: 1993-11-12
+last_amended: 1993-11-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1993-151-20-22"
+retrieved: 2026-10-12
+---
+
+# 151/1993. (X. 28.) Korm. rendelet a magyar—ír nemzetközi közúti személy- és árufuvarozási Egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Írország Kormánya között Budapesten, 1992. június 29-én aláírt, a nemzetközi közúti személy- és árufuvarozás tárgyában kötött Egyezményt e rendelettel kihirdeti.
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 1993. május hó 12. napján megtörtént.)*
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,EGYEZMÉNY\
+a Magyar Köztársaság Kormánya\
+és Írország Kormánya között a nemzetközi közúti személy- és árufuvarozásról
+
+A Magyar Köztársaság Kormánya és Írország Kormánya (a továbbiakban: Szerződő Felek),
+
+attól az óhajtól vezérelve, hogy az országaik közötti és az országaikon áthaladó nemzetközi közúti személy- és árufuvarozást elősegítsék,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+*Fogalommeghatározások*
+
+A jelen Egyezményben:
+
+A ,,fuvarozó'' kifejezés olyan természetes vagy jogi személyt jelent, aki a Magyar Köztársaságban vagy Írországban közúti árufuvarozást vagy személyszállítást végez díj ellenében, vagy saját számlára a hatályban lévő nemzeti törvényekkel és jogszabályokkal összhangban.
+
+A ,,gépjármű'' kifejezés jelentése:
+
+*a)* személyszállításnál autóbusz, vagy bármilyen gépi meghajtású, személyszállításra szolgáló közúti jármű, amely a vezetőt is beleértve, kilencnél több személy szállítására alkalmas, valamint a személyi poggyász szállítására szolgáló pótkocsi;
+
+*b)* áruszállításnál bármilyen gépi meghajtású, árufuvarozásra szolgáló közúti jármű, beleértve bármely ahhoz kapcsolt pótkocsit vagy félpótkocsit, amely valamelyik Szerződő Fél területén kell hogy bejegyezve legyen.
+
+A ,,menetrend szerinti személyszállítás'' kifejezés a Szerződő Felek területein bejegyzett járművekkel, az előzetesen egyeztetett menetrend szerint és útvonalon történő szállítást jelenti (ahol az indulási és érkezési helyeket és a közbenső megállóhelyeket kijelölték), amelynek során előre meghatározott megállási pontokon utasok szállhatnak fel, illetve le.
+
+A ,,nem menetrend szerinti személyszállítás'' minden más személyszállítást jelent.
+
+*2. Cikk*
+
+*Az alkalmazás területe*
+
+1\. A jelen Egyezmény rendelkezései olyan nemzetközi közúti személy- és árufuvarozásra vonatkoznak, ahol a szállítás díj ellenében vagy saját számlára történik a Magyar Köztársaság és Írország között, tranzitként bármelyik Szerződő Fél területén áthaladva, továbbá harmadik országba, illetve harmadik országból.
+
+2\. Az Egyezmény rendelkezései nem érintik a két ország nemzetközi egyezményeiből, megállapodásaiból, jogszabályaiból eredő jogait és kötelezettségeit.
+
+*3. Cikk*
+
+*Személyszállítás*
+
+1\. Az autóbusszal történő menetrend szerinti személyszállításra a Szerződő Felek illetékes hatóságai közötti megegyezés jogosít.
+
+2\. Az ilyen szállítás engedélyezésére vonatkozó kérelmet a Szerződő Felek illetékes hatóságai megfelelő időn belül megküldik egymásnak.
+
+A kérelmeknek tartalmazniuk kell a fuvarozó (a cég) nevét, a választott útvonalat, menetrendet, a viteldíjakat, a megállóhelyeket, amelyek az utasok felvételére és lerakására szolgálnak, valamint a szállítás tervezett időszakát és gyakoriságát.
+
+*4. Cikk*
+
+1\. A két Szerződő Fél területei közötti vagy területükön keresztül tranzitban autóbusszal történő nem menetrend szerinti személyszállításhoz — kivéve a jelen Szerződés 5. Cikkében előirányzott szállításokat — a Szerződő Felek illetékes hatóságai által kiadott engedély szükséges.
+
+2\. A Szerződő Felek illetékes hatóságai engedélyeket a vonalnak arra a szakaszára adják ki, amely területükön áthalad.
+
+3\. Minden autóbusszal történő, nem menetrend szerinti személyszállításhoz külön engedélyt kell kiadni, amely egy oda- és visszaút megtételére jogosít, hacsak az engedélyben más kikötés nincs. A vezető utaslistával is kell hogy rendelkezzen.
+
+4\. A Szerződő Felek illetékes hatóságai évenként kölcsönösen egyeztetett számú engedélyűrlapot küldenek egymásnak a nem menetrend szerinti személyszállításhoz. Ezeken az űrlapokon szerepelnie kell az engedélyt kibocsátó illetékes hatóság bélyegzőjének és aláírásának.
+
+5\. A Szerződő Felek illetékes hatóságai megállapodnak egymás között az engedélyűrlapok kicserélésének módjáról.
+
+*5. Cikk*
+
+1\. Nem szükséges engedély a nem menetrend szerinti személyszállítás esetén az autóbuszok zártajtós üzemeltetéséhez, az utasok azonos csoportjának ugyanazon az autóbuszon történő szállításához
+
+*a)* ha az utazás kiindulási és végpontja azon Szerződő Fél területén van, ahol a járművet bejegyezték; vagy
+
+*b)* ha az utazás kiindulási pontja azon Szerződő Fél területén van, ahol a járművet bejegyezték, végpontja pedig a másik Szerződő Fél területén van, feltéve, hogy a jármű az utóbbi országot üresen hagyja el.
+
+2\. Nem szükséges engedély a meghibásodott autóbusz másik autóbusszal történő kicserélése esetén.
+
+*ÁRUFUVAROZÁS*
+
+*6. Cikk*
+
+*Engedélyek*
+
+1\. A jelen Egyezmény 9. Cikkében foglaltak kivételével az egyik Szerződő Fél fuvarozójának a másik Szerződő Fél illetékes hatóságának engedélyét kell kérnie ahhoz, hogy a két terület között nemzetközi közúti árufuvarozást végezhessen, beleértve a visszaútban történő árufuvarozást, és a másik Szerződő Fél területén keresztül történő áthaladást.
+
+2\. Az engedélyt csak az a személy használhatja, akinek a részére azt kiállították. Az engedély nem átruházható. Az engedély egy időben egyetlen járműre vagy járműpár-kombinációra (csuklós jármű vagy közúti vontatmány) érvényes.
+
+3\. Az engedély az alábbi szállításra használható:
+
+*a)* a két Szerződő Fél területei között;
+
+*b)* tranzitban a másik Szerződő Fél területén keresztül;
+
+*c)* a másik Szerződő Fél és egy harmadik ország területe között, amennyiben a harmadik ország törvényei és szabályozásai és bármilyen, a harmadik ország és valamelyik Szerződő Fél közötti megállapodás előírásai lehetővé teszik az ilyen szállításokat.
+
+4\. Az engedélyek háromféle típusúak lehetnek:
+
+*a)* egy útra érvényes fuvarozási engedélyek, ahol a be- és kiutazást egy útnak kell tekinteni (kétoldalú szállítás);
+
+*b)* egy útra érvényes fuvarozási engedélyek, ahol a be- és kiutazás egy útnak számít, és ahol akár a befelé irányuló, akár a kifelé irányuló szállítás harmadik országba vagy harmadik országból is történhet. Az ilyen engedélyek érvényességi időtartama nem haladhatja meg az egy évet (harmadik ország);
+
+*c)* a tartós engedély az engedély kibocsátási dátumától számított egy éven belül lebonyolított korlátlan számú fuvarozásra érvényes.
+
+5\. Nincs szükség engedélyre utánfutóknál és nyerges vontatóknál.
+
+6\. Kérésre minden illetékes hatóság megfelelő mennyiségű engedélyűrlapot küld a másik fél részére.
+
+7\. Az engedélyeket
+
+*a)* a Magyarországon bejegyzett járművekre a magyar fuvarozóknak Írország Idegenforgalmi, Közlekedési és Távközlési Minisztériuma adja meg, és azt saját belátása szerint a Magyar Köztársaság Közlekedési, Hírközlési és Vízügyi Minisztériuma osztja szét;
+
+*b)* az Írországban bejegyzett járművekre az ír fuvarozóknak a Magyar Köztársaság Közlekedési, Hírközlési és Vízügyi Minisztériuma adja meg, és azt saját belátása szerint Írország Idegenforgalmi, Közlekedési és Távközlési Minisztériuma vagy bármely, általa kijelölt hatóság osztja szét.
+
+*7. Cikk*
+
+*Rakomány nélküli szállítás*
+
+Az egyik Szerződő Fél fuvarozója rakomány nélküli járművet küldhet a másik Szerződő Fél területére áruk összegyűjtése céljából és ilyen esetekben a szállítási engedély rendelkezésre kell álljon a másik Szerződő Fél területére történő belépéskor.
+
+*8. Cikk*
+
+*Az engedélyek mennyisége*
+
+1\. Az illetékes hatóságok kölcsönös megállapodással rögzítik a szállítási engedélyek éves mennyiségét.
+
+2\. A mennyiség rögzítésre kerül a 15. Cikkben vázolt jegyzőkönyvben.
+
+3\. A vegyesbizottságnak jogában áll módosítani a mennyiséget, hogy az az aktuális forgalmi szint igényeivel összhangban legyen.
+
+*9. Cikk*
+
+*Mentességek*
+
+Nincs szükség engedélyre az alábbi esetekben:
+
+*a)* esetenkénti áruszállítás repülőterekre, vagy azokról, ha a légiszolgálatokra vonatkozóan másképpen nem rendelkeznek;
+
+*b)* poggyászszállítás utasfuvarozó járművekhez kapcsolat utánfutóban és poggyászfuvarozás bármilyen típusú járművekben repülőterekre és onnan;
+
+*c)* postai szállítás;
+
+*d)* meghibásodott vagy károsodott közúti szállítójárművek szállítása;
+
+*e)* méhek és apróhalak szállítása;
+
+*f)* elhunytak földi maradványainak szállítása;
+
+*g)* áruszállítás olyan járművekben, amelyek megengedett össztömege, beleértve az utánfutót, nem haladja meg a 6 tonnát, vagy amelynek a megengedett hasznos terhelése, beleértve az utánfutót, nem haladja meg a 3,5 tonnát;
+
+*h)* saját számlás fuvarozás motoros járművekben, az alábbi feltételek mellett:
+
+*(i)* a szállított áruknak a vállalkozás tulajdonában kell lennie, vagy a vállalkozás által eladottnak, vásároltnak, bérbe adottnak vagy bérbe vettnek, gyártottnak, kivontnak, feldolgozottnak, vagy javítottnak kell lennie,
+
+*(ii)* az utazás céljának az áruknak a vállalkozástól történő szállításának, vagy az áruk mozgatásának kell lennie, akár a vállalkozáson belül, akár azon kívül, a vállalkozás céljaira,
+
+*(iii)* az ilyen fuvarozásra használt motoros járművet a vállalkozás alkalmazottainak kell vezetniük,
+
+*(iv)* az árukat a fuvarozó járműveknek a vállalkozás tulajdonában, vagy a vállalkozás által részletfizetésre vásároltnak, vagy vezető nélkül béreltnek kell lenniük,
+
+*(v)* a szállítás a vállalkozás általános tevékenységeihez képest legfeljebb kiegészítő jellegű lehet;
+
+*i)* segélyszállítás szükséghelyzetben, különösen természeti katasztrófáknál;
+
+*j)* tartalékalkatrészek szállítása tengeri hajók és légijárművek részére;
+
+*k)* a sérült gépjármű elszállítására szolgáló gépjármű;
+
+*l)* kiállítási tárgyak és műtárgyak szállítása kereskedelmi célokra;
+
+*m)* reklám- és tájékoztatási célra tárgyak és anyagok eseti szállítása;
+
+*n)* színházi díszletek és kellékek, hangszerek, filmfelvételek vagy sporteseményeket, cirkuszi előadást, kiállításokat vagy vásárokat, rádiós és televíziós adásokat szolgáló berendezések szállítása, oda és vissza;
+
+*o)* szállításban részt nem vevő járművek szállítása; és
+
+*p)* áttelepülési ingóságok fuvarozása, e célra különleges személyzettel és felszereléssel rendelkező vállalkozók által végrehajtva.
+
+*ÁLTALÁNOS ELŐÍRÁSOK*
+
+*10. Cikk*
+
+*Kabotázs*
+
+A jelen Egyezmény nem egészíthető ki olyan rendelkezésekkel, amelyek megengedik az egyik Szerződő Fél fuvarozójának utasok vagy áruk felvételét a másik Szerződő Fél területének egyik helyén az illető terület bármely másik helyére történő szállítás céljából, kivéve, ha abban a Szerződő Felek illetékes hatóságai másképpen nem állapodtak meg.
+
+*11. Cikk*
+
+*A nemzeti törvények betartása*
+
+Bármelyik Szerződő Fél fuvarozója és járműveinek személyzete, a másik Szerződő Fél területén való tartózkodáskor köteles betartani az ezen Szerződő Fél területén hatályos törvényeket és jogszabályokat.
+
+*12. Cikk*
+
+*Dokumentumok átvizsgálása*
+
+A jelen Egyezmény által megkívánt engedélyeket és egyéb szükséges dokumentumokat azokon a járműveken kell tartani, amelyekre azok vonatkoznak, és kívánságra bármely Szerződő Fél bármilyen olyan hatóságának fel kell mutatni, amelyet erre jogszabály alapján felhatalmaztak.
+
+*13. Cikk*
+
+*Adókkal kapcsolatos előírások*
+
+1\. Azokat a járműveket
+
+*a)* amelyek az egyik országban be vannak jegyezve és ott folyamatosan adóznak; és
+
+*b)* amelyeket ideiglenesen a másik országba bevittek a forgalomban való részvétel céljából
+
+mentesíteni kell az ezen országban járművek közlekedésére vagy birtoklására, vagy utak használatára kivetett adók és terhek alól.
+
+2\. A következő tételeket mentesíteni kell vámok és vámilletékek alól:
+
+*a)* a másik Szerződő Fél területére bevitt járművek szabványos üzemanyagtankjaiban az importáláskor (ahogy a gyártó leszállította) levő üzemanyag;
+
+*b)* a vontatók és a nyerges vontatók tankjaiban lévő, a hűtőberendezések hűtőrendszereihez használt üzemanyag;
+
+*c)* kenőanyagok az utazás alatti használatra szükséges mennyiségekben;
+
+*d)* nemzetközi közúti szállítás alatt meghibásodott jármű javításához szükséges tartalékalkatrészek és szerszámok. A kicserélt tartalékalkatrészeket re-exportálni lehet, vagy meg lehet semmisíteni a másik Szerződő Fél illetékes vámhatóságának ellenőrzése mellett.
+
+3\. A jelen Cikkelyben lévő mentesítések nem érvényesek olyan illetékekre, amelyeket egyes utak, hidak vagy alagutak használatáért kell fizetni.
+
+*14. Cikk*
+
+*Vegyesbizottság*
+
+1\. Az illetékes hatóságok képviselői vegyesbizottságot hoznak létre az Egyezmény következetes végrehajtásának biztosítása és a forgalom növekedésével járó feladatok érdekében. A vegyesbizottság összehívható bármelyik illetékes hatóság kívánságára.
+
+2\. Mindegyik illetékes hatóság minden szükséges tájékoztatást megad a másik félnek az Egyezmény hatályába tartozó forgalom alakulására vonatkozóan.
+
+*15. Cikk*
+
+*Jegyzőkönyv*
+
+1\. A Szerződő Felek részletes szabályokat dolgoznak ki a jelen Egyezmény végrehajtására vonatkozóan, s azokat az Egyezménnyel egy időben aláírt jegyzőkönyvben ismertetik.
+
+2\. A 14. Cikk 1. pontja előírásaival összhangban létrehozott vegyesbizottság módosíthatja az említett jegyzőkönyvet annak érdekében, hogy az alkalmazkodjék a nemzetközi közúti árufuvarozási rendszer alakulásához és segítse annak fejlődését.
+
+*16. Cikk*
+
+*Szabálysértések*
+
+1\. Ha a jelen Egyezmény előírásait az egyik Szerződő Fél fuvarozója a másik Szerződő Fél területén való tartózkodás során komolyan vagy ismételten megsérti, akkor azon Szerződő Fél illetékes hatósága, ahol a szabálysértés vagy szabálysértések előfordultak, eldöntheti, hogy
+
+*a)* figyelmezteti a fuvarozót;
+
+*b)* figyelmezteti a fuvarozót megjegyezve, hogy bármilyen következő szabálysértés esetén
+
+*(i)* a részére kiadott engedély visszavonásra kerülhet,
+
+*(ii)* a tulajdonában lévő vagy általa üzemeltetett gépjárművek ideiglenes vagy állandó jellegű kitiltását eredményezheti annak a Szerződő Félnek a területéről, ahol a szabálysértések történtek;
+
+*c)* értesítést ad ilyen visszavonásról;
+
+és követelheti a másik Szerződő Fél illetékes hatóságától, hogy érvényesítse döntését a fuvarozóra, és — a *c)* alpontban vázolt esetben — függessze fel a részére kiadott engedélyeket meghatározott vagy meghatározatlan időre.
+
+2\. Azon Szerződő Fél illetékes hatósága, amely bármilyen ilyen kérést kap, annak a kézhezvételtől számított kilenc napon belül eleget kell tenni a felkérésnek, és az általa hozott intézkedésekről a másik Szerződő Fél illetékes hatóságát tájékoztatnia kell.
+
+3\. A jelen Cikk előírásai megkülönböztetés nélkül alkalmazandók minden olyan törvényes szankció tekintetében, amelyet annak a Szerződő Félnek az illetékes bírósága vagy hatósága hozhat, amelyben a szabálysértés előfordult.
+
+*17. Cikk*
+
+*A járművek súlya és méretei*
+
+1\. A járművek súlya és méretei tekintetében mindegyik Szerződő Fél kötelezi magát, hogy a másik Szerződő Fél területén bejegyzett járművekre nem alkalmaz szigorúbb előírásokat, mint a saját területén bejegyzett járművekre alkalmazott feltételek.
+
+2\. Ha a szállítást végző jármű vagy járműkombináció súlya vagy méretei meghaladják a másik országban megengedett legnagyobb értékeket, a fuvarozás megkezdése előtt külön engedélyt kell beszerezni az utóbbi Szerződő Fél illetékes hatóságától.
+
+3\. Amennyiben a jelen Cikk második pontjában foglaltak elvégzésére kiadott engedély előírja az útvonalat, úgy a szállítást csak ezen az útvonalon szabad végezni.
+
+*18. Cikk*
+
+*Hatálybalépés és időtartam*
+
+1\. A Szerződő Felek diplomáciai csatornákon keresztül értesítik egymást az Egyezmény hatálybalépését célzó intézkedések megtételéről. Az Egyezmény az ilyen értesítések közül a későbbi kézhezvételét követő harmincadik napon lép hatályba.
+
+2\. A Szerződés hatályban marad, amíg valamelyik Szerződő Fél diplomáciai csatornákon írásban, hat hónappal korábban nem ad értesítést annak felmondásáról.
+
+Készült Budapesten, 1992. június 29-én, két eredeti másolattal angol és magyar nyelven, és mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Írország
+
+Kormánya részéről Kormánya részéről''
+
+## 3. §
+
+(1) E rendelet a kihirdetést követő 15. napon lép hatályba, rendelkezéseit azonban 1993. június[^1] hó 12. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1993. évi 173. számában megjelent helyesbítésnek megfelelő szöveg.

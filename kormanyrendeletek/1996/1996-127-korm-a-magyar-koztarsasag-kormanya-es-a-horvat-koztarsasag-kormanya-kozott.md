@@ -1,0 +1,208 @@
+---
+title: "127/1996. (VII. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Pécsett, 1994. július 10-én aláírt, a vízgazdálkodási együttműködés kérdéseiről szóló egyezmény kihirdetéséről"
+identifier: "127/1996. (VII. 25.) Korm. rendelet"
+njt_id: "1996-127-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/127"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-07-25
+in_force_from: 1996-07-25
+last_amended: 1996-07-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-127-20-22"
+retrieved: 2026-10-12
+---
+
+# 127/1996. (VII. 25.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Pécsett, 1994. július 10-én aláírt, a vízgazdálkodási együttműködés kérdéseiről szóló egyezmény kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1995. február 2. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Pécsett, 1994. július 10-én aláírt, vízgazdálkodási együttműködési kérdésekről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény magyar nyelvű szövege a következő:
+
+„**,,Egyezmény**\
+**a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a vízgazdálkodási együttműködés kérdéseiben**
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Felek) elhatározták, hogy a közös határt képező, illetve a közös határ által metszett vízfolyások, vízgyűjtők, vízrendszerek rendezésénél a közös érdekű vízgazdálkodási kérdések megoldása érdekében, figyelembe véve
+
+– a Duna menti államok együttműködéséről, a Dunán való vízgazdálkodás és különösen a szennyezés elleni védelem kérdéseiben (Bukarestben, 1985 decemberében) elfogadott Nyilatkozatot,
+
+– a határokat átlépő vízfolyások és nemzetközi tavak védelméről és használatáról szóló Konvenciót (Helsinki, 1992. március),
+
+megkötik a jelen Egyezményt a vízgazdálkodási kérdések tárgyában.
+
+I. ÁLTALÁNOS RENDELKEZÉSEK
+
+*1. Cikk*
+
+*Az Egyezmény célja*
+
+Tekintettel a vízgazdálkodási viszonyok egységének fenntartására, és elismerve az ebből következő jogokat és kötelezettségeket, a Felek a jelen Egyezmény rendelkezései alapján megvizsgálják és egyeztetett módon megoldják mindazon vízgazdálkodási kérdéseket – beleértve a vizek mennyiségét, minőségét, környezeti állapotát befolyásoló munkálatokat vagy tevékenységet –, amelyek mindkét Fél érdekeit érintik, vagy az egyik Fél érdekében tesznek szükségessé a másik Féllel egyeztetett intézkedéseket.
+
+*2. Cikk*
+
+*Az Egyezmény hatálya*
+
+Az Egyezmény rendelkezései kiterjednek a közös határt képező és a közös határ által átmetszett vízfolyásokon és azok vízgyűjtő területén felmerülő összes gazdálkodási kérdésre, intézkedésre és munkálatra, amelyek vízgazdálkodási szempontból hatással lehetnek az érintett vizekre, azok használatát, védelmét és a vízkárok elhárítását szolgáló vízépítési művekre és létesítményekre, különösen
+
+*a)* a felszíni és felszín alatti vízkészletekre,
+
+*b)* a vízfolyások vízjárására, ezen belül a nagyvizekre és a kisvizekre,
+
+*c)* a vizek káros hatásai elleni védelemre és védekezésre,
+
+*d)* a vizek használatára és a vizek ésszerűtlen használat elleni védelmére,
+
+*e)* a vizek szennyezés elleni védelmére, a vizes élőhelyek megóvására,
+
+*f)* a vízépítési beavatkozások környezetre gyakorolt hatásának vizsgálatára,
+
+*g)* az a)–f) pontokkal összefüggő vélemény-, információ- és adatcserére, illetőleg kutatásra, tervezésre, kivitelezésre és megfigyelésekre.
+
+*3. Cikk*
+
+*Vízimunkák*
+
+A Felek, a jelen Egyezmény 2. Cikk e) és f) alpontja rendelkezéseinek figyelembevételével
+
+1\. saját illetékességük keretében és szükség szerint közösen jó karban tartják az Egyezmény hatálya alá tartozó folyók, vízfolyások, csatornák medrét, az ott található vízépítési műveket és létesítményeket,
+
+2\. összehangolva végzik a vízépítési művek és létesítmények kezelését és üzemeltetését,
+
+3\. egyetértésben végzik egyikük vagy másikuk területén a meglévő vízépítési művek és létesítmények megváltoztatását, illetve újak építését, valamint olyan munkálatok és intézkedések foganatosítását, amelyek hatással lehetnek a határt képező vagy a határ által metszett vízgyűjtők és vízfolyások rezsimjére,
+
+4\. a saját területükön megőrzik és fenntartják, szükség szerint kiegészítik és felújítják mindazon határ menti állandó magassági és vízszintes alappontokat, amelyek a vízgazdálkodási tevékenység céljait szolgálják. Mindkét Fél használhatja ezeket az alappontokat.
+
+*4. Cikk*
+
+*Vízhasználat és vízvédelem*
+
+A Felek törekedni fognak az Egyezmény hatálya alá tartozó vizek ésszerű, méltányos és környezetileg helytálló használatára, és megteszik a szükséges intézkedéseket és munkálatokat e vizek állapotát számottevő mértékben károsító pontszerű és nem pontszerű szennyezések és nem körültekintő vízhasználatok korlátozására.
+
+*5. Cikk*
+
+*Költségek*
+
+1\. A Felek egyetértésben állapítják meg a közös érdekű meglévő és jövőbeni művek és létesítmények fenntartási, üzemeltetési előkészítési, tervezési, építési költségeit, a költségek megosztását és a fizetés módját.
+
+2\. A Felek egyikének területén lévő és a másik Fél érdekeit szolgáló létesítmények, művek és berendezések építésével, fenntartásával és üzemeltetésével, valamint ezen munkálatok irányításával kapcsolatos költségek teljes egészében az érintett Felet terhelik.
+
+*6. Cikk*
+
+*Megfigyelések*
+
+A Felek
+
+1\. összehangolják a határvizek és az érintett vízgyűjtők viszonyainak mérésére és észlelésére vonatkozó tevékenységüket, beleértve a vízháztartást, a hidrometeorológiát, a vízrajzot, az árvizeket, a jégzajlást és a vízminőséget,
+
+2\. egyeztetik a mérések és észlelések körébe bevont hidrológiai és vízminőségi paramétereket és a rendszeres adatcserébe bevonandó állomások listáját,
+
+3\. rendszeresen értékelik a határvizek állapotát, és egyeztetik a szükségesnek mutatkozó intézkedéseket.
+
+*7. Cikk*
+
+*Értesítés és riasztás*
+
+A Felek illetékes szervei kölcsönösen és a lehető leggyorsabb módon értesítik egymást az árvíz- és jégveszélyekről, a rendkívüli vízszennyezésekről, valamint más, az Egyezmény hatálya alá tartozó vízfolyásokat és vízgyűjtőket fenyegető veszélyről.
+
+*8. Cikk*
+
+*Információcsere*
+
+Az Egyezmény hatálya alá tartozó vizek, vízgyűjtők, vízgazdálkodási és egyéb tevékenységek tekintetében, amelyek befolyásolhatják a vízjárást, a vizek és vizes élőhelyek állapotát, a Felek – kérés alapján – tájékoztatják egymást olyan nyíltan kezelt adatokról, mérési és értékelési eredményekről, illetve elemzésekről is, amelyek kívül esnek a 6. Cikk szerint egyeztetendők körén.
+
+*9. Cikk*
+
+*Konzultációk*
+
+Az egyik Fél kérésére a kölcsönösség, a jóhiszeműség és a jószomszédság alapján a Felek konzultációkat tartanak a jelen Egyezmény hatálya alá tartozó kérdésekkel kapcsolatban.
+
+*10. Cikk*
+
+*Az Állandó Magyar–Horvát Vízgazdálkodási Bizottság*
+
+1\. A jelen Egyezmény hatálya alá tartozó kérdések, intézkedések és munkálatok megtárgyalására a Felek létrehozzák az Állandó Magyar–Horvát Vízgazdálkodási Bizottságot (a továbbiakban: Bizottság).
+
+2\. A Bizottság 6 tagból áll. Mindegyik Fél három-három tagot nevez ki: vezető (elnök), helyettes és műszaki titkár. A vezetők (elnökök) a Bizottság munkájába szükség szerint szakértőket vonhatnak be.
+
+3\. A Bizottság illetékességét és működésének módját külön Szabályzat tartalmazza, melynek elfogadásáról a Felek jegyzőkönyvet írnak alá.
+
+4\. A Bizottság jogosult közös vízkárelhárítási, jégvédelmi, vízminőségi kárelhárítási – szükség esetén további – szabályzatokat alkotni.
+
+5\. A Bizottság üléseiről mindkét nyelven jegyzőkönyv készül, amelyet utólagos jóváhagyás céljából a Kormányok elé kell terjeszteni.
+
+*11. Cikk*
+
+*Határátlépés*
+
+1\. Az Egyezmény szerinti munkák, illetve tevékenység folytatása érdekében azok a személyek, akiket az egyik vagy másik Fél kijelölt, az államhatárnak azon helyein és abban az időben találkoznak, amelyekre vonatkozóan az illetékes szervek előzetesen megállapodnak.
+
+2\. Az 1. pontban írt személyek határátlépése a szolgálati célú határátlépésekhez szükséges okmányok egységesítéséről Budapesten, az 1975. évi november hó 27. napján aláírt egyezmény rendelkezései alapján történik, a Felek között e tárgyban a későbbiekben megkötendő új egyezmény hatálybalépéséig.
+
+*12. Cikk*
+
+*Különleges vámrendelkezések*
+
+1\. Az Egyezmény 2. és 3. Cikkében szereplő munkák kivitelezéséhez szükséges építőanyagok, egyéb fogyóeszközök, gépek és munkaeszközök, amelyeket az Egyezmény alapján az egyik Fél területéről a másik Fél területére szállítanak át, mentesek minden beviteli és kiviteli illeték alól, és nem esnek sem beviteli, sem kiviteli korlátozás alá.
+
+2\. Az 1. pont szerinti építőanyagok, egyéb fogyóeszközök, gépek és munkaeszközök be- és kiszállíthatók azzal a feltétellel, hogy ezeket be kell jelenteni a vámhatóságoknál azonosság megállapítása, továbbá avégett, hogy a beépítésre nem kerülő építőanyagok és fogyóeszközök a vámhatóságok által meghatározott időpontban visszaszállításra kerüljenek. Ez esetben nem szükséges a megfelelő biztosítékok letétbe helyezése. Azon eszközök után, amelyeket nem szállítanak vissza a meghatározott időpontig, megfelelő illetéket kell elszámolni, és megfizetni. A teljesen felhasznált és elhasználódás miatt már alkalmatlanná vált, ezért visszaszállításra nem kerülő eszközök vámmentességet élveznek.
+
+3\. A Felek kölcsönösen biztosítják az illetékmentesen átszállításra kerülő építőanyagok, fogyóeszközök, gépek és egyéb munkaeszközök vámkezelésének megkönnyítését.
+
+4\. Az 1. és 2. pontban szereplő építőanyagokat, fogyóeszközöket, gépeket és egyéb munkaeszközöket a Felek vámszervei ellenőrzik.
+
+II. ZÁRÓ RENDELKEZÉSEK
+
+*13. Cikk*
+
+*A viták rendezése*
+
+1\. Azon kérdésekről, amelyekben a Bizottság szintjén a 9. Cikk szerinti konzultáció keretében nem jött létre egyetértés, a két Fél magasabb szinten konzultál.
+
+2\. Amennyiben a jelen Egyezmény értelmezése és alkalmazása tekintetében a Felek a közöttük felmerülő vitás kérdésekben megállapodni nem tudnak, úgy a vita eldöntését a határokat átlépő vízfolyások és nemzetközi tavak védelméről és használatáról 1992. március 17-én, Helsinkiben elfogadott Konvenció 22. Cikk 2. bekezdése, illetőleg IV. melléklete szerinti döntőbíróság elé utalják.
+
+*14. Cikk*
+
+*Az Egyezmény és a Szabályzat módosítása*
+
+1\. Ha bármelyik Fél szükségesnek tartja az Egyezmény valamelyik rendelkezésének módosítását, arról értesíti a másik Szerződő Felet. Az egyeztetett módosítás a 15. Cikk 1. pontjában foglaltakkal megegyezően lép hatályba.
+
+2\. Amennyiben a vízgazdálkodással kapcsolatosan a Felek részesévé válnak valamely általános, sokoldalú egyezménynek, úgy a jelen Egyezményt – azzal összhangban – módosítják.
+
+3\. A 10. Cikk 3. bekezdésében említett Szabályzat módosítására a Bizottság illetékes.
+
+*15. Cikk*
+
+*Hatálybalépés*
+
+1\. A Felek diplomáciai úton értesítik egymást arról, hogy teljesültek az Egyezmény hatálybalépéséhez a belső törvényhozásuk által előírt követelmények.
+
+2\. Az Egyezmény az 1. bekezdésben említett utolsó értesítés kézhezvételétől számított harmincadik napon lép hatályba.
+
+*16. Cikk*
+
+*Érvényesség, felmondás*
+
+1\. A jelen Egyezmény meghatározatlan időre köttetik.
+
+2\. Bármelyik Fél a jelen Egyezményt a naptári év vége előtt legalább 6 hónappal, diplomáciai úton felmondhatja s ebben az esetben az adott év elteltével az Egyezmény hatályát veszti.
+
+Készült Pécsett, 1994. június hó 10. napján, magyar és horvát nyelven, két-két eredeti példányban. Mindkét szöveg egyaránt hiteles.
+
+*Rajkai Zsolt* s. k.,\
+a Magyar Köztársaság Kormánya nevében
+
+*Antun Seda* s. k.,\
+a Horvát Köztársaság Kormánya nevében''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. március 3-tól kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

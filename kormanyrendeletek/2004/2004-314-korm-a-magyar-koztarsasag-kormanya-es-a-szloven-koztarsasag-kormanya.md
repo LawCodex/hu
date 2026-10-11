@@ -1,0 +1,172 @@
+---
+title: "314/2004. (XI. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a kötelező kőolaj- és kőolajtermék-készletek tárolása terén való együttműködésről szóló megállapodás kihirdetéséről"
+identifier: "314/2004. (XI. 24.) Korm. rendelet"
+njt_id: "2004-314-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/314"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-11-24
+in_force_from: 2004-11-24
+last_amended: 2004-11-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-314-20-22"
+retrieved: 2026-10-12
+---
+
+# 314/2004. (XI. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a kötelező kőolaj- és kőolajtermék-készletek tárolása terén való együttműködésről szóló megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló diplomáciai jegyzékváltás 2004. április 27. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a kötelező kőolaj- és kőolajtermék-készletek tárolása terén való együttműködésről 2002. november 20-án Budapesten aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a kötelező kőolaj- és kőolajtermék-készletek tárolása terén való együttműködésről
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek), attól az óhajtól vezetve, hogy
+
+– a kormányok speciális energiaellátási felelősségére tekintettel megtegyenek minden szükséges intézkedést a kőolaj és kőolajtermék ellátási válsághelyzetben szükséges minimális kőolaj- és kőolajtermék-készletek biztosítására,
+
+– megteremtsék a biztonság összehangolt feltételeit a készletek létrehozása, tárolása, szállítása és megújítása számára,
+
+– biztosítsák országaikban a tároló létesítmények jobb kihasználását,
+
+– segítsék az energetika területén a kölcsönös előnyökön alapuló együttműködés előmozdítását,
+
+– megerősítve az Európai Unió célkitűzéseinek megvalósításához nyújtott támogatásukat és igyekezetüket a folyamatos és biztonságos energiaellátás fenntartására,
+
+– figyelembe véve a Szerződő Felek Európai Unióhoz való csatlakozása folyamatát és azt a kötelezettséget, hogy jogalkotásukat harmonizálják az acquis communaitaire-rel,
+
+– figyelembe véve az Európai Gazdasági Közösség Tanácsának az EGK tagállamainak minimális kőolaj és/vagy kőolajtermék-készletezési kötelezettsége előírásairól szóló 1968. december 20-i 68/414/EGK irányelvében és a Tanács 68/414/EGK irányelvét módosító 1998. december 14-i 98/93/EGK irányelvében foglaltakat
+
+az alábbi Megállapodást kötötték:
+
+*1. Cikk*
+
+1\. A Megállapodás szempontjából:
+
+*a)* „kőolaj- és kőolajtermék-készlet”-nek minősülnek a 98/93/EK tanácsi irányelvvel módosított 68/414/EGK irányelvvel összhangban az alábbiak:
+
+1\. kőolaj,
+
+2\. motorbenzin és repülőgép üzemanyag (repülőbenzin és benzin típusú jet üzemanyag),
+
+3\. gázolaj, dízel, kerozin és kerozin típusú jet üzemanyag,
+
+4\. fűtőolajok;
+
+*b)* „kötelező kőolaj- és kőolajtermék készleteknek” minősülnek az Európai Gazdasági Közösség Tanácsa 68/414/EGK és az azt módosító 98/93/EK irányelvében foglalt rendelkezések szerinti készletek.
+
+A Megállapodás hatálya nem terjed ki a félkész (végtermékké feldolgozható) keverőkomponensekre.
+
+2\. A Megállapodás rendelkezéseit azon kötelező kőolaj- és kőolajtermék-készletek vonatkozásában kell alkalmazni, melyekre a készletet létrehozó Szerződő Fél nemzeti készletezési kötelezettséget teljesítő ügynöksége (a továbbiakban: Ügynökség) a másik Szerződő Fél olyan vállalkozásával, szervével, jogi személyével (a továbbiakban: Szervezet) köt kötelező készletezésre vonatkozó kereskedelmi szerződéseket, melyre ezen Szerződő Fél joghatósága kiterjed, és tárolási tevékenység végzésére a Szerződő Fél országhatárain belül jogosult.
+
+3\. A Magyar Fél nemzeti készletezési kötelezettséget teljesítő ügynöksége a Kőolaj és Kőolajtermék Készletező Szövetség, a Szlovén Fél nemzeti készletezési kötelezettséget teljesítő ügynöksége a Zavod Republike Slovenije za obvezne rezerve nafte in njenih derivatov.
+
+4\. A készletet létrehozó Szerződő Fél kötelező készleteként számolhatók el:
+
+*a)* a másik Szerződő Fél területén tartott azon készletek, amelyek felett a készletet létrehozó Szerződő Fél Ügynöksége tulajdonosi, rész-tulajdonosi vagy más jogcím alapján rendelkezik,
+
+*b)* egyéb, a másik Szerződő Fél területén tárolt mennyiségek, melyek tulajdonosi, rész-tulajdonosi vagy más jogcím alapján jogszerűen Szervezet vagy a másik Szerződő Fél Ügynökségének tulajdonában vannak, és amelyekre vonatkozóan ezek a szervezetek írásbeli kötelezettséget vállaltak (kötelezettség vállalási nyilatkozatot tettek), miszerint az említett mennyiségeket a készletet létrehozó Szerződő Fél Ügynöksége számára készletként tárolják legalább egy naptári negyedévre szóló időszak erejéig.
+
+*2. Cikk*
+
+1\. A jelen Megállapodás alapján a Szerződő Felek lehetővé teszik egymás országaiban a kötelező kőolaj- és kőolajtermék-készleteiknek, illetve azok egy részének a kölcsönös tárolását az Európai Unió előírásainak megfelelően.
+
+2\. A kötelező készletet létrehozó Szerződő Fél havonta tájékoztatja a másik Szerződő Felet jelen Megállapodás hatálya alá tartozó szerződések megkötéséről. A bejelentés a következő adatokat tartalmazza:
+
+*a)* a tárolást megrendelő Ügynökség nevét és címét,
+
+*b)* a készletek tárolását végző Szervezet nevét és címét,
+
+*c)* a tárolt anyag fajtáját (kőolaj, termék-kategória) és a tárolt készlet mennyiségét,
+
+*d)* a telep címét, ahol a készlet található.
+
+3\. A Megállapodás keretében a másik Szerződő Fél területén tárolt készletek teljes egészében a készletet létrehozó Szerződő Fél, illetve az 1. Cikk 3. pontjában meghatározott, az illető Szerződő Fél biztonsági készletezési feladatainak teljesítésébe kötelezően bevont Ügynökség rendelkezésére állnak. A Szerződő Felek kötelezettséget vállalnak arra, hogy a tárolt biztonsági készletek a tulajdonosok, illetve a kötelezettségvállalási nyilatkozat kedvezményezettei rendelkezésére állnak annak nyilatkozatában megjelölt időpontban akkor is, ha kőolaj- vagy kőolajtermék-ellátási válsághelyzet merül fel. A Szerződő Feleknek kölcsönösen biztosítaniuk kell, hogy ilyen körülmények között is törvényes eszközeik legyenek a készletek kontrollálására, felügyeletére és a készletek feletti rendelkezési jog érvényesítésére, hogy az bármikor akadálytalanul a másik Szerződő Fél területére vihető legyen.
+
+4\. Kőolaj- és kőolajtermék-ellátási válsághelyzet esetén minden készletből történt kivételezést, melyet a készlet felett rendelkező Ügynökség végez, a készletet létrehozó Szerződő Fél a lehető leghamarabb jelent a másik Szerződő Félnek.
+
+5\. Minden más időpontban is a Megállapodást aláíró Szerződő Feleknek biztosítaniuk kell ezen készletek hozzáférhetőségét, ellenőrizhetőségét és felhasználhatóságát.
+
+6\. A Szerződő Felek jogosultak a területükön tárolt idegen készletek átvizsgálására, amelynek eredményéről a másik Szerződő Felet tájékoztatják.
+
+*3. Cikk*
+
+1\. A Megállapodás alapján a Szerződő Felek kölcsönösen gondoskodnak arról, hogy jogrendszerükben megfelelő garanciát nyújtsanak arra, hogy a tárolási megállapodás alapján külföldön létesített és/vagy tárolt készletet, a kőolaj- és kőolajtermék-készlet felett rendelkező Szerződő Fél az Európai Unió megfelelő előírásaival összhangban kötelező készletébe beszámítsa feltéve, hogy e tárgyban a két ország között kormányközi megállapodás van érvényben.
+
+2\. A jelen Megállapodás keretében a másik Szerződő Fél területén tárolt készletek a tárolást végző Szerződő Fél készletei közé nem számíthatók be és nem vehetők figyelembe.
+
+3\. Szerződő Felek kölcsönösen biztosítják, hogy
+
+*a)* jelen Megállapodás keretében az egyik Szerződő Félnek a másik Szerződő Fél területén tárolt készlete mentes minden vámteher fizetési és vámbiztosíték nyújtási kötelezettség alól,
+
+*b)* jelen Megállapodás hatálya alá tartozó kötelező kőolaj- és kőolajtermék-készletek mozgatása – akár a résztvevő országokon belül, akár a két ország között – kizárólag az adóraktárakra és – vámraktárban kialakított adóraktár esetén – a vámraktárakra érvényes szabályok szerint történik.
+
+*4. Cikk*
+
+1\. A Megállapodás hatálya alá tartozó termékek tárolásával kapcsolatos minden információ átadása a Szerződő Felek között közvetlenül, vagy erre meghatalmazott intézményen keresztül történhet. A Magyar Köztársaság Gazdasági Minisztériuma jelöli ki a Magyar Kormányt képviselő intézményt, míg a Szlovén Kormányt a Szlovén Köztársaság Gazdasági Minisztériuma képviseli.
+
+2\. Szerződő Felek együttműködnek a méltányos és diszkriminációmentes feltételek alkalmazásának biztosításában a készletezési követelmények teljesítése érdekében, különös tekintettel a jelen Megállapodásban rögzített adatszolgáltatási kötelezettségek határidőre történő teljesíthetőségének biztosítására.
+
+3\. A Szerződő Felek biztonsági készletezésért felelős Ügynökségei legkésőbb hat héttel minden naptári negyedév után közlik egymással a Megállapodás keretében területükön tárolt készletekre vonatkozó következő adatokat:
+
+*a)* a tárolást megrendelő Ügynökség nevét és címét,
+
+*b)* a készletet tároló Szervezet nevét és címét,
+
+*c)* a tárolt anyag fajtáját (kőolaj, termékkategória) és a készlet mennyiségét,
+
+*d)* a tárolási megállapodás időtartamát,
+
+*e)* a telep címét, ahol a készlet található.
+
+4\. A készletet létrehozó Szerződő Fél ellenőrzi az adatok helyességét és eltérés esetén közli a másik Szerződő Féllel bármely kifogását vagy megjegyzését.
+
+5\. A Megállapodás nem kívánja meg olyan információk közlését, amelyek átadását a Szerződő Felek vonatkozó egyezményei, saját nemzeti törvényei és rendeletei nem engedélyeznek. A Megállapodás keretében – a 2. és 4. cikkelyben meghatározott, az Európai Unió számára jogszabály által előírt jelentésben átadandó adatok kivételével – nem kerül sor korlátozott terjesztésű adatok átadására.
+
+*5. Cikk*
+
+1\. A Szerződő Felek, bármelyik Szerződő Fél kérésére konzultációt folytatnak a Megállapodás alkalmazását érintő további együttműködés fejlesztését illetően, vagy bármely felmerülő kérdésről, amely a kötelező készlet elhelyezését és felhasználását és egyéb vitás kérdést illeti. A két Szerződő Fél késedelem nélkül konzultációt tart kőolaj- és kőolajtermék-ellátási válsághelyzet esetén.
+
+2\. A jelen Megállapodás értelmezéséből és alkalmazásából felmerülő bármely szerződéses Szerződő Felek közötti jogi vitát – mindaddig, amíg ez ésszerűen lehetséges – tárgyalások útján kell rendezni.
+
+3\. Ha a vita ily módon a rendezésre átnyújtott írásbeli kérelem napjától számított három hónapon belül nem rendezhető, azt bármelyik Szerződő Fél kérésére ad hoc választott bíróság elé kell terjeszteni.
+
+4\. A választott bíróságot a következő módon kell megalakítani: a választott bírósági eljárás iránti kérelem átvételétől számított két hónapon belül mindkét Szerződő Fél kijelöli a bíróság egy-egy tagját. Ezen két tagnak azután egy harmadik ország állampolgárát kell kiválasztania, akit a Szerződő Felek jóváhagyása után a bíróság elnökévé kell kijelölni. A bíróság elnökét a két másik tag kijelölésének időpontjától számított két hónapon belül ki kell jelölni.
+
+5\. Amennyiben a jelen Cikk 4. bekezdésében meghatározott határidőkön belül a kijelölésekben nem egyeztek meg, bármelyik Szerződő Fél – három hónapon belül – felkérheti a Nemzetközi Bíróság elnökét a kijelölések megtételére. Abban az esetben, ha a Nemzetközi Bíróság elnöke valamelyik Szerződő Fél állampolgára, vagy valamely más ok akadályozza az említett tisztség ellátásában, az alelnököt kell felkérni a szükséges kijelölések megtételére. Ha az alelnök valamelyik Szerződő Fél állampolgára, vagy akadályozva van az említett tisztség ellátásában, a Nemzetközi Bíróságnak azt a rangidős tagját kell felkérni a kijelölések megtételére, aki egy Szerződő félnek sem állampolgára.
+
+6\. A választott bíróság döntését egyszerű szavazattöbbséggel hozza, és a döntése végleges és kötelező érvényű. Mindkét Szerződő Fél maga viseli az általa választott bírósági tagnak, valamint a bírósági eljárásban való képviseletének a költségeit. Az elnök költségeit és a fennmaradó költségeket a Szerződő Felek egyenlő arányban viselik. Eljárási szabályait a bíróság maga határozza meg.
+
+*6. Cikk*
+
+1\. Jelen Megállapodást a Szerződő Felek határozatlan időre kötik, és a Megállapodás mindaddig hatályban marad, amíg valamely Szerződő Fél nem jelzi felmondási szándékát diplomáciai úton, írásban legalább tizenkét (12) hónappal a felmondás előtt. A felmondási lehetőség a készletet létrehozó Szerződő Fél kőolaj- és kőolajtermék-ellátási válsághelyzete esetén a válsághelyzet megszűntéig nem érvényesíthető.
+
+2\. A jelen Megállapodás a hatálybalépéséhez szükséges belső jogi eljárás megtörténtéről szóló későbbi diplomáciai értesítés kézhezvételét követő 30. (harmincadik) napon lép hatályba.
+
+Készült Budapesten, 2002. november 20-án, két eredeti példányban, magyar, szlovén és angol nyelven, de tartalmilag egyezően. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében:
+
+*Réthy Imre* s. k.
+
+A Szlovén Köztársaság\
+Kormánya nevében:
+
+*Renate Vitez* s. k.”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, a Megállapodást azonban 6. Cikkének 2. pontja alapján 2004. május 27. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a gazdasági és közlekedési miniszter gondoskodik.

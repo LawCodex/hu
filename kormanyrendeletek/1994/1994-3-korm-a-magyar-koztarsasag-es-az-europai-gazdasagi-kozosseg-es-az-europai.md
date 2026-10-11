@@ -1,0 +1,170 @@
+---
+title: "3/1994. (I. 14.) Korm. rendelet a Magyar Köztársaság és az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti, a kereskedelemről és a kereskedelemmel kapcsolatos ügyekről szóló Ideiglenes Megállapodáshoz, valamint a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1993. december 22-én aláírt Kiegészítő Jegyzőkönyv kihirdetéséről"
+identifier: "3/1994. (I. 14.) Korm. rendelet"
+njt_id: "1994-3-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/3"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-01-14
+in_force_from: 1994-02-01
+last_amended: 1994-02-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-3-20-22"
+retrieved: 2026-10-12
+---
+
+# 3/1994. (I. 14.) Korm. rendelet a Magyar Köztársaság és az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti, a kereskedelemről és a kereskedelemmel kapcsolatos ügyekről szóló Ideiglenes Megállapodáshoz, valamint a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1993. december 22-én aláírt Kiegészítő Jegyzőkönyv kihirdetéséről
+
+## 1. §
+
+A Magyar Köztársaság Kormánya a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló törvény 4. § *b)* pontja alapján a Magyar Köztársaság és az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti, a kereskedelemről és a kereskedelemmel kapcsolatos ügyekről szóló Ideiglenes Megállapodáshoz, valamint a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Európai Megállapodáshoz kapcsolódó Kiegészítő Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv), amely 1994. február 1-jén lép hatályba, e rendelettel kihirdeti.
+
+## 2. §
+
+A Jegyzőkönyv magyar szövege a következő:
+
+Kiegészítő Jegyzőkönyv\
+a Magyar Köztársaság és az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti,\
+a kereskedelemről és a kereskedelemmel kapcsolatos ügyekről szóló Ideiglenes Megállapodáshoz, valamint\
+a Magyar Köztársaság és az Európai Közösségek\
+és azok tagállamai közötti Európai Megállapodáshoz
+
+Egyrészről a Magyar Köztársaság (a továbbiakban: Magyarország),
+
+Másrészről az Európai Közösség és az Európai Szén- és Acélközösség (a továbbiakban együtt: Közösség),
+
+Tekintettel arra, hogy Brüsszelben, 1991. december 16-án aláírták a Magyarország és az Európai Közösségek és azok tagállamai közötti, társulást létrehozó Európai Megállapodást (a továbbiakban: Európai Megállapodás), amely eddig még nem lépett hatályba,
+
+Tekintettel arra, hogy az Európai Megállapodás hatálybalépéséig annak a kereskedelemre és kereskedelemmel kapcsolatos ügyekre vonatkozó rendelkezéseit 1992. március 1-jén az egyrészről a Magyar Köztársaság, másrészről az Európai Gazdasági Közösség és az Európai Szén- és Acélközösség közötti, 1991. december 16-án, Brüsszelben aláírt, utoljára az 1992. december 17-i levélváltással módosított Ideiglenes Megállapodás (a továbbiakban: Ideiglenes Megállapodás) hatályba léptette,
+
+Felismerve a kereskedelem döntő fontosságát a piacgazdaságra való átmenet során,
+
+Tudatában annak, hogy a Közösség kész erőfeszítéseit fokozni, hogy a magyar származású áruk előtt piacait megnyissa,
+
+Tudatában az Európai Megállapodás céljainak, különösen az 1. Cikkében hivatkozottaknak,
+
+Figyelembe véve az Ideiglenes Megállapodást és különösen annak 1. Cikkét,
+
+Megállapodtak abban, hogy megkötik ezt a Jegyzőkönyvet és ebből a célból meghatalmazottaikká kinevezték:
+
+Az Európai Közösség:
+
+Philippe de SCHOUTHEETE de TERVARENT urat,
+
+rendkívüli és meghatalmazott nagykövetet,
+
+Belgium állandó képviselőjét,
+
+az Állandó Képviselők Bizottságának elnökét
+
+Az Európai Szén- és Acélközösség:
+
+Juan PRAT urat,
+
+az Európai Közösségek Bizottságának főigazgatóját,
+
+A Magyar Köztársaság:
+
+GRANASZTÓI György urat,
+
+rendkívüli és meghatalmazott nagykövetet,
+
+akik, jó és kellő alakban talált meghatalmazásaik kicserélése után a következőkben állapodtak meg:
+
+*1. Cikk*
+
+Az Ideiglenes Megállapodás 3. Cikke 2. bekezdése második albekezdése és az Európai Megállapodás 9. Cikke 2. bekezdése második albekezdése helyére a következő szöveg lép:
+
+,,Azokat az importvámokat, amelyeket a Közösségben a Magyarországról származó és a II. *b)* Mellékletben felsorolt termékekre alkalmaznak, a Megállapodás hatálybalépésekor az alapvám 20%-ával kell csökkenteni, majd egy évvel később az alapvám további 20%-ával. A Megállapodás hatálybalépése utáni második év végén a vámokat teljesen el kell törölni.''
+
+*2. Cikk*
+
+Az Ideiglenes Megállapodás 3. Cikke 3. bekezdése második mondata és az Európai Megállapodás 9. Cikke 3. bekezdése második mondata helyére a következő szöveg lép:
+
+,,Egyidejűleg az említett kontingenseket vagy plafonokat meghaladó importmennyiségekre alkalmazandó importvámokat fokozatosan csökkentik oly módon, hogy az legkésőbb a harmadik év végén az érintett termékekre vonatkozó importvámok teljes eltörlését eredményezze.''
+
+*3. Cikk*
+
+Az Ideiglenes Megállapodás III. Mellékletének és az Európai Megállapodás III. Mellékletének 3. lábjegyzete helyére a következő szöveg lép:
+
+,,3. Ezeket az összegeket növelni kell:
+
+— 15%-kal a Megállapodás hatálybalépésekor,
+
+— további 15%-kal 1993. január 1-jén,
+
+— további 10%-kal 1993. július 1-jén,
+
+— további 25%-kal 1994. január 1-jén.''
+
+*4. Cikk*
+
+Az Ideiglenes Megállapodás III. Mellékletének és az Európai Megállapodás III. Mellékletének 5. lábjegyzete helyére a következő szöveg lép:
+
+,,5. A jelen Melléklet szerinti vámkontingenseket és vámplafonokat meghaladó importra alkalmazott vámokat fokozatosan csökkentik:
+
+— az alapvám 90%-ára a Megállapodás hatálybalépésekor,
+
+— 80%-ára a hatálybalépés után egy évvel és
+
+— 70%-ára a hatálybalépés után két évvel.
+
+A harmadik év végén a megmaradó vámok megszűnnek.''
+
+*5. Cikk*
+
+1\. Az Ideiglenes Megállapodás X. *b)* Mellékletének és az Európai Megállapodás X. *b)* Mellékletének bevezető bekezdése helyére a következő szöveg lép:
+
+,,A Mellékletben szereplő KN vámtarifaszám alatt importált mennyiségekre, a 0104 és 0204 tarifaszám kivételével, 1992. március 1-jétől 20%, 1993. január 1-jétől 40% és 1993. július 1-jétől 60% vám- és lefölözéscsökkenés érvényesül.''
+
+2\. Az Ideiglenes Megállapodás X. *c)* Mellékletének és az Európai Megállapodás X. *c)* Mellékletének a bevezető része kiegészül a következőkkel:
+
+,,A 3. évre, 4. évre és 5. évre meghatározott vámok 1993. július 1-jétől, 1994. július 1-jétől, illetve 1995. július 1-jétől alkalmazandók.''
+
+3\. Az Ideiglenes Megállapodás VIII. *a)*, X. *b)* és X. *c)* Mellékletei, valamint az Európai Megállapodás VIII. *a)*, X. *b)* és X. *c)* Mellékletei kiegészülnek a következő második bevezető bekezdéssel:
+
+,,A 3. évre tonnákban meghatározott mennyiségek 1993. július 1-jétől 1994. június 30-ig alkalmazandók. A 2. évre meghatározott mennyiség 50%-át meghaladó, 1993. július 1. előtt importált mennyiségeket a 3. évre alkalmazandó mennyiségekből le kell vonni.
+
+A 4. és 5. évre meghatározott mennyiségeket 1994. július 1. és 1995. június 30. közötti, illetőleg 1995. július 1. és 1996. június 30. közötti időszakban kell alkalmazni.''
+
+*6. Cikk*
+
+1\. Az Ideiglenes Megállapodás textil- és ruházati termékekről szóló 1. sz. Jegyzőkönyve és az Európai Megállapodás textil- és ruházati termékekről szóló 1. sz. Jegyzőkönyve 2. Cikk 1. bekezdésének bevezető részében a ,,hatodik év végén a fennmaradó vámokat el kell törölni'' szöveg helyébe ,,az ötödik év végén a fennmaradó vámokat el kell törölni'' szöveg lép.
+
+2\. Az Ideiglenes Megállapodás textil- és ruházati termékekről szóló 1. sz. Jegyzőkönyve, valamint az Európai Megállapodás textil- és ruházati termékekről szóló 1. sz. Jegyzőkönyve 2. Cikk 1. bekezdésének utolsó két francia bekezdése helyébe a következő szöveg lép: ,,A hatodik év elején a fennmaradó vámokat el kell törölni.''
+
+*7. Cikk*
+
+Az Ideiglenes Megállapodásnak az Európai Szén- és Acélközösséget létrehozó Szerződés hatálya alá tartozó termékekről szóló 2. sz. Jegyzőkönyve, valamint az Európai Megállapodásnak az Európai Szén- és Acélközösséget létrehozó Szerződés hatálya alá tartozó termékekről szóló 2. sz. Jegyzőkönyve 2. Cikk 2. pontja helyére a következő szöveg lép:
+
+,,2. A Megállapodás hatálybalépését követő második, harmadik, negyedik és ötödik év elején a vámokat tovább kell megfelelően csökkenteni az alapvám 60%-ára, 40%-ára, 20%-ára, majd nullára.''
+
+*8. Cikk*
+
+Ez a Jegyzőkönyv az Ideiglenes Megállapodás és az Európai Megállapodás szerves részét képezi.
+
+*9. Cikk*
+
+Ez a Jegyzőkönyv annak a hónapnak az első napján lép hatályba, amely az után következik, hogy a Felek értesítették egymást arról, hogy az ehhez szükséges eljárásokat befejezték. Ezt a Jegyzőkönyvet — a 7. Cikke kivételével — 1993. július 1-jétől kezdve alkalmazni kell.
+
+*10. Cikk*
+
+Ez a Jegyzőkönyv négy példányban készült, magyar, valamint angol, dán, francia, görög, holland, német, olasz, portugál és spanyol nyelveken; e szövegek mindegyike egyaránt hiteles.
+
+FENTIEK HITELÉÜL, az arra meghatalmazottak aláírták a jelen Kiegészítő Jegyzőkönyvet.
+
+Készült Brüsszelben, az ezerkilencszázkilencvenharmadik év, december hó huszonkettedik napján.
+
+A Magyar Köztársaság nevében\
+*Granasztói György* s. k.,
+
+Az Európai Közösség és az Európai Szén- és Acélközösség nevében
+
+*Philippe de Schoutheete de Tervarent* s. k.,
+
+*Juan Prat* s. k.,
+
+## 3. §
+
+Ez a rendelet 1994. február 1-jén lép hatályba.

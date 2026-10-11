@@ -1,0 +1,154 @@
+---
+title: "209/2006. (X. 17.) Korm. rendelet a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításáról és folyósításáról"
+identifier: "209/2006. (X. 17.) Korm. rendelet"
+njt_id: "2006-209-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/209"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-10-17
+in_force_from: 2010-01-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-209-20-22"
+retrieved: 2026-10-12
+---
+
+# 209/2006. (X. 17.) Korm. rendelet a polgármester öregségi nyugdíja, valamint közszolgálati járadéka megállapításáról és folyósításáról
+
+A Kormány a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény (a továbbiakban: Pttv.) 19. §-ának (3) bekezdésében kapott felhatalmazás alapján a következőket rendeli el:
+
+## A polgármester közszolgálati járadéka igénylésének és megállapításának szabályai[^1]
+
+### 1. §
+
+(1)–(6)[^2]
+
+(7)[^3] A megállapított közszolgálati járadékot a nyugdíjfolyósító szerv folyósítja.
+
+## A közszolgálati járadék összege és folyósítása
+
+### 2. §
+
+(1)[^4]
+
+(2) A közszolgálati járadék összegét annak az öregségi nyugdíjnak a Pttv. 13/B. §-ának (2) bekezdése szerinti százalékos mértékében kell meghatározni, amely a polgármestert a jogosultság megnyílása időpontjában az öregségi nyugdíjra vonatkozó jogszabályok rendelkezései alkalmazásával megilletné.
+
+(3)[^5] A közszolgálati járadék összegét a megállapítás naptári évét követő minden év január 1-jétől a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 62. §-a alapján megvalósult tényleges nyugdíjemelés mértékének összegével együtt kell folyósítani.
+
+### 3. §
+
+(1)[^6] A nyugdíjfolyósító szerv a közszolgálati járadékot havonta, önállóan, vagy az általa folyósított és a polgármestert megillető egyéb ellátással együtt folyósítja. A közszolgálati járadékot az egyéb ellátástól elkülönítetten kell kezelni.
+
+(2)[^7]
+
+(3)[^8] A közszolgálati járadék folyósításának időtartama alatt a polgármester a munkavégzésre irányuló jogviszony létesítését köteles a nyugdíjfolyósító szervnek bejelenteni.
+
+### 4. §
+
+(1)[^9] A nyugdíjfolyósító szerv a bejelentést követően a munkavégzésre irányuló jogviszony kezdő időpontjától a közszolgálati járadék folyósítását megszünteti.
+
+(2) A közszolgálati járadék folyósítása a jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjával megszűnik.
+
+(3)[^10] Ha a közszolgálati járadék folyósítása alatt a polgármester kérelmére öregségi nyugdíjat állapítanak meg, a nyugdíjfolyósító szerv dönt a közszolgálati járadék folyósításának a Pttv. 13/B. § (4) bekezdésének *b)* pontja szerinti, a nyugdíj megállapításának időpontjától történő megszüntetéséről.
+
+### 5. §[^11]
+
+(1)[^12] Ha a polgármester a munkavégzésre irányuló jogviszonya megszűnését a központi nyugdíjbiztosítási szerv által e célra rendszeresített nyomtatványon vagy elektronikus űrlapon bejelenti a nyugdíjfolyósító szervnek, az dönt a megszüntetett közszolgálati járadék időközi emelésekkel növelt összegének újrafolyósításáról.
+
+(2) A közszolgálati járadék újrafolyósítása iránti kérelem tartalmazza a korábban közszolgálati járadékban részesült személy
+
+a) nevét és születési nevét,
+
+b) születési helyét, idejét és anyja nevét,
+
+c) lakcímét,
+
+d) nyugdíjfolyósítási törzsszámát és Társadalombiztosítási Azonosítási Jelét,
+
+e)[^13] munkavégzésre irányuló jogviszonya megszűnésének évét, hónapját és napját,
+
+f) aláírását és
+
+g) a kérelem kiállításának helyét, évét, hónapját és napját.
+
+## A polgármester közszolgálati járadékának a Nyugdíjbiztosítási Alap részére történő megtérítésének szabályai[^14]
+
+### 6. §
+
+(1)[^15] A polgármester közszolgálati járadékának megfelelő összeget a központi költségvetés a Nyugdíjbiztosítási Alap részére megtéríti. A megtérítésére, elszámolására, folyósítására a kincstári számlavezetés és finanszírozás, a feladatfinanszírozási körbe tartozó előirányzatok felhasználása, valamint egyes államháztartási adatszolgáltatások rendjéről szóló jogszabálynak a társadalombiztosítás pénzügyi alapjainak finanszírozási és elszámolási rendjére vonatkozó rendelkezéseit kell alkalmazni.
+
+(2)[^16]
+
+### 7. §
+
+(1)–(6)[^17]
+
+(7)[^18]
+
+## Értelmező és záró rendelkezések
+
+### 8. §
+
+E rendelet alkalmazásában
+
+a)[^19]
+
+b) *közszolgálati járadék:* a Pttv. 13/B. §-ában szabályozott feltételek esetén megállapított járadék;
+
+c) *munkavégzésre irányuló jogviszony:* a legalább három hónapot elérő, illetve azt meghaladó, a Pttv. 13/B. § (4) bekezdésének *a)* pontjában meghatározott, díjazással (jövedelemmel) járó tevékenység;
+
+d) *öregségi nyugdíj:* a Tny. 4. § (1) bekezdésének *b)* pontjában meghatározott nyugdíj;
+
+e)[^20] *polgármester:* az a foglalkoztatási jogviszonyban tisztségét ellátó polgármester, főpolgármester, megyei közgyűlés elnöke, alpolgármester, főpolgármester-helyettes, a megyei közgyűlés alelnöke, akinek a megbízatása a Pttv. 2. § (1) bekezdés a) vagy *c)* pontja, illetve (2) bekezdésének *a)* és *b)* pontja szerint szűnik meg;
+
+f)[^21]
+
+g)[^22]
+
+### 9. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba azzal, hogy rendelkezéseit első ízben a 2006. évi általános önkormányzati választásokon a mandátumát vesztett polgármester tekintetében kell alkalmazni.
+
+(2)[^23]
+
+(3)[^24] Az e rendeletben foglalt eltérésekkel a polgármester közszolgálati járadéka összegének megállapítására, folyósítására, a jogorvoslatra, a jogalap nélkül felvett közszolgálati járadék visszafizetésére, a követelés érvényesítésére (ideértve a tartozás mérséklését, elengedését, fizetési kedvezmény engedélyezését is), valamint a bejelentési és adatszolgáltatási kötelezettségre a Tny. és a végrehajtásáról szóló kormányrendelet öregségi nyugdíjra irányadó rendelkezéseit kell alkalmazni.
+
+## 1. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^25]
+
+## 2. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^26]
+
+## 3. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^27]
+
+## 4. melléklet a 209/2006. (X. 17.) Korm. rendelethez[^28]
+
+---
+
+[^1]: Az 1. §-t megelőző alcím a 333/2011. (XII. 29.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1)–(6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 78. § (2) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (7) bekezdését a 93/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 333/2011. (XII. 29.) Korm. rendelet 33. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 475. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^5]: A 2. § (3) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 13. § (4) bekezdésének c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 475. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^8]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 474–475. §-a, a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 474. §-a, a 333/2011. (XII. 29.) Korm. rendelet 33. § h) pontja, a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^11]: Az 5. § a 93/2010. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 33. § i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 78. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdés e) pontja a 333/2011. (XII. 29.) Korm. rendelet 33. § j) pontja szerint módosított szöveg.
+[^14]: A 6. §-t megelőző alcím a 333/2011. (XII. 29.) Korm. rendelet 33. § k) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdése a 93/2010. (III. 31.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 333/2011. (XII. 29.) Korm. rendelet 33. § l) pontja szerint módosított szöveg.
+[^16]: A 6. § (2) bekezdését a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^17]: A 7. § (1)–(6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 475. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^18]: A 7. § (7) bekezdését a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^19]: A 8. § a) pontját a 333/2011. (XII. 29.) Korm. rendelet 33. § m) pontja hatályon kívül helyezte.
+[^20]: A 8. § e) pontja a 93/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^21]: A 8. § f) pontját a 333/2011. (XII. 29.) Korm. rendelet 33. § m) pontja hatályon kívül helyezte.
+[^22]: A 8. § g) pontját a 333/2011. (XII. 29.) Korm. rendelet 33. § m) pontja hatályon kívül helyezte.
+[^23]: A 9. § (2) bekezdését a 333/2011. (XII. 29.) Korm. rendelet 33. § n) pontja hatályon kívül helyezte.
+[^24]: A 9. § (3) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 33. § o) pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletet a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^26]: A 2. mellékletet a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^27]: A 3. mellékletet a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^28]: A 4. mellékletet a 93/2010. (III. 31.) Korm. rendelet 2. §-a hatályon kívül helyezte.

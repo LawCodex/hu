@@ -1,0 +1,134 @@
+---
+title: "86/1999. (VI. 11.) Korm. rendelet a technológia-átadási megállapodások egyes csoportjainak a versenykorlátozás tilalma alól történő mentesítéséről"
+identifier: "86/1999. (VI. 11.) Korm. rendelet"
+njt_id: "1999-86-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/86"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-06-11
+in_force_from: 2001-02-01
+last_amended: 2018-12-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-86-20-22"
+retrieved: 2026-10-12
+---
+
+# 86/1999. (VI. 11.) Korm. rendelet a technológia-átadási megállapodások egyes csoportjainak a versenykorlátozás tilalma alól történő mentesítéséről
+
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 96. §-ában kapott felhatalmazás alapján a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet alapján – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel – a gazdasági versenyt korlátozó megállapodásokra vonatkozó tilalom (Tpvt. 11. §) alól technológia-átadási megállapodásként mentesül a szabadalmi licenciaszerződés, a know-how hasznosítására kötött szerződés, valamint az olyan szabadalmi licenciaszerződés (a továbbiakban: vegyes licenciaszerződés), amely egyben know-how hasznosítására is irányul.
+
+(2) Az (1) bekezdésben szabályozott mentesülés kiterjed arra a megállapodásra is, amely a szabadalmi licencián vagy know-how hasznosításán kívül más szellemi tulajdonjogokra vonatkozó járulékos kikötéseket is tartalmaz, feltéve, hogy azok a licencia tárgyát képező technológia céljának eléréséhez hozzájárulnak.
+
+(3) Az (1) bekezdésben szabályozott mentesülés kiterjed arra a megállapodásra is, amelyben a hasznosító ad harmadik személynek engedélyt a találmány vagy a know-how hasznosítására, feltéve, hogy ezt számára a szabadalmas vagy a know-how-val rendelkező vállalkozás (a továbbiakban együtt: jogosult) kifejezetten megengedte.
+
+(4) Az (1) bekezdésben szabályozott mentesülés kiterjed a szabadalom vagy a know-how – külön-külön vagy együttesen történő – átruházására is, ha az átruházó fél továbbra is viseli a hasznosítással együtt járó kockázatot, különösen abban az esetben, ha az átruházás ellenértéke a jogszerző által a szabadalom vagy a know-how hasznosításával előállított termékek forgalmától, az ilyen termékek mennyiségétől, illetve a szabadalom vagy a know-how szerinti technológia alkalmazásával végzett műveletek számától függ.
+
+(5) Az (1)–(4) bekezdés alkalmazhatóságát nem zárja ki, ha a megállapodásban a jogosult vagy a hasznosító jogait és kötelezettségeit a felekkel a Tpvt. 26. §-ának (3) bekezdése szerint kapcsolatban álló vállalkozások is elvállalják.
+
+(6) Az (1)–(4) bekezdés alkalmazhatóságát nem zárja ki, ha a jogosult kötelezettséget vállal arra, hogy a megállapodásban meghatározott területen
+
+a) a licencia tárgyát képező technológiát vagy terméket maga nem hasznosítja;
+
+b) a licencia tárgyát képező technológia vagy termék hasznosítására másnak nem ad engedélyt.
+
+(7) Az (1)–(4) bekezdés alkalmazhatóságát nem zárja ki továbbá, ha a hasznosító kötelezettséget vállal arra, hogy
+
+a) a megállapodásban meghatározott területen kívül nem hasznosítja a licencia tárgyát képező technológiát vagy terméket;
+
+b) kizárólag arra az alkalmazási területre korlátozza a licencia tárgyát képező technológia vagy termék hasznosítását, amelyen harmadik személy nem szerzett licenciát;
+
+c) a licencia tárgyát képező terméket a jogosult védjegyével vagy egyéb megkülönböztető jelével ellátva hozza forgalomba, feltéve, hogy a megállapodás nem zárja ki annak feltüntetését, hogy ő a termék előállítója;
+
+d) a licencia tárgyát képező terméket csak olyan mennyiségben állítja elő, amennyire a saját terméke előállításához szüksége van, és kizárólag saját terméke részeként, pótalkatrészeként vagy tartozékaként hozza forgalomba, feltéve, hogy ezeket a mennyiségeket szabadon határozhatja meg.
+
+(8) Az (1)–(4) bekezdés szerinti mentesülés hatálya a következő időtartamra terjed ki:
+
+a) szabadalmi licencia esetén a szabadalmi oltalom fennállásának idejére;
+
+b) know-how hasznosítása esetén attól az időponttól számított tíz évre, amikor a hasznosító első alkalommal forgalomba hozta a hasznosítás tárgyát képező terméket, de legfeljebb addig, amíg a know-how nem válik közkinccsé vagy egyébként nem veszti el vagyoni értékét.
+
+(9) Vegyes licenciaszerződés esetén az (1)–(4) bekezdés szerinti mentesülés hatálya a (8) bekezdés *a)* és *b)* pontjaiban meghatározott időtartamok közül a hosszabbikra terjed ki.
+
+(10) A megállapodás e rendelet alapján csak akkor mentesül, ha kizárólag egy jogosult, közös szabadalom esetén több jogosult és egy hasznosító között jön létre.
+
+## 2. §
+
+(1) Az 1. § (1)–(4) bekezdésébe foglalt rendelkezések alkalmazhatóságát nem zárja ki, ha a megállapodásban a hasznosító a versenyt egyébként nem korlátozó rendelkezésekkel kötelezettséget vállal arra, hogy a megállapodásban meghatározott
+
+a) legkisebb összegű licencdíjat fizeti;
+
+b) legkisebb mennyiséget állítja elő a licencia tárgyát képező termékből;
+
+c) legkisebb számú műveletet végzi el a licencia tárgyát képező technológia kihasználására.[^1]
+
+(2) Az 1. § (1)–(4) bekezdésébe foglalt rendelkezések alkalmazhatóságát nem zárja ki, ha a jogosult a megállapodás alapján megszüntetheti a hasznosítási engedély kizárólagosságát, illetve felhagyhat a licencia tárgyát képező technológia fejlesztéseire is kiterjedő hasznosítás engedélyezésével, amennyiben a hasznosító a jogosulttal, a vele a Tpvt. 26. §-ának (3) bekezdése szerint kapcsolatban álló vállalkozással vagy harmadik vállalkozással a licencia tárgyát képező terméket a Tpvt. 14. §-a szerint ésszerűen helyettesítő termékek kutatása és fejlesztése, termelése, használata vagy forgalmazása tekintetében versenybe lép.
+
+## 3. §
+
+Az 1. § (1)–(4) bekezdésébe foglalt rendelkezések nem alkalmazhatóak, ha
+
+a) a felek a megállapodás megkötése előtt a licencia tárgyát képező termék vagy a szabadalmazott eljárás tekintetében versenytárs gyártók voltak, és
+
+aa) a megállapodás bármelyiküket korlátozza abban, hogy azonos felhasználási területen vagy azonos termékpiacon milyen fogyasztókat szolgálhatnak ki, vagy
+
+ab) a licencia tárgyát képező termék érintett piacán a hasznosító piaci részesedése a harminc százalékot meghaladja;
+
+b) a megállapodás bármelyik felet korlátozza abban, hogy
+
+ba) a licencia tárgyát képező termék árát meghatározza, vagy
+
+bb) a másik féllel vagy harmadik vállalkozással versenyezzen a licencia tárgyát képező terméket helyettesítő termék kutatása és fejlesztése, előállítása, használata vagy forgalmazása tekintetében a megállapodásban megállapított területen;
+
+c) a hasznosító köteles a jogosultra részben vagy egészben átruházni a licencia tárgyát képező technológia fejlesztéséhez vagy új alkalmazásához fűződő jogokat;
+
+d) a hasznosító köteles olyan minőségi előírások vagy további licenciák elfogadására, illetve olyan áruk vagy szolgáltatások beszerzésére, amelyek nem szükségesek a licencia tárgyát képező technológia műszakilag kielégítő hasznosításához, illetve szükségtelenek annak biztosításához, hogy a hasznosító termelése megfeleljen a jogosult vagy harmadik személy által betartott minőségi követelményeknek.
+
+## 4. §
+
+E rendelet alkalmazásában
+
+a) *a licencia tárgyát képező technológia:* a megállapodás megkötésekor létező know-how, szükséges eljárási vagy termékszabadalom, továbbá a know-how vagy a szabadalom ezt követő továbbfejlesztése, függetlenül attól, hogy a felek vagy más hasznosítók hasznosították-e azokat, és ha igen, milyen mértékben;
+
+b) *a licencia tárgyát képező termék:* olyan áru vagy szolgáltatás, amelyet a licencia tárgyát képező technológiával állítanak elő, illetve teljesítenek;
+
+c)[^2] *know-how:* az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (2) bekezdése szerinti oltalom;
+
+d) *szabadalomnak minősül* a szabadalmi bejelentés, a használati mintaoltalom, a használati mintaoltalmi bejelentés, a mikroelektronikai félvezető termék topográfiájának oltalma és a topográfiaoltalmi bejelentés is;
+
+e) *szükséges szabadalom:* olyan szabadalom, amelyre vonatkozó licencia nélkül a megállapodás tárgyát képező technológia célszerű hasznosítása nem kezdhető meg;
+
+f) *a licencia tárgyát képező terméket helyettesítő terméknek* minősül az olyan termék, amelyet a sajátosságaira, árára és felhasználási céljára tekintettel a fogyasztók a licencia tárgyát képező termékkel felcserélhetőnek vagy azzal helyettesíthetőnek tekintenek.[^3]
+
+## 5. §
+
+(1) E rendelet hatálya nem terjed ki az olyan technológia-átadási megállapodásra, amely a franchise-megállapodások egyes csoportjainak a versenykorlátozás tilalma alól történő mentesítéséről szóló 246/1997. (XII. 20.) Korm. rendelet 1. §-ában meghatározott megállapodás részét képezi.
+
+(2) E rendelet hatálya nem terjed ki továbbá
+
+a) az olyan megállapodásra, amelynek értelmében az egyik fél a másik fél részére úgy ad szabadalmi, illetve know-how hasznosítási engedélyt, hogy annak ellenében a másik fél – külön megállapodásban vagy a Tpvt. 26. §-ának (3) bekezdése szerint kapcsolatban álló vállalkozás közvetítésével – szabadalomra, védjegyre vagy know-how-ra vonatkozó hasznosítási engedélyt vagy kizárólagos forgalmazási jogot biztosít az első félnek, ha a felek az utóbbi megállapodás tárgyát képező termékek tekintetében egymás versenytársai (keresztlicencia);
+
+b) a kizárólag kereskedelmi céllal létrejött megállapodásokra;
+
+c) a szabadalmi érdekszövetségek tagjai között létrejött megállapodásokra.
+
+## 5/A. §[^4]
+
+Az e rendelet alapján mentesülő megállapodások esetében a Gazdasági Versenyhivatal a Tpvt. 16/A. §-a alapján megállapíthatja, hogy az adott megállapodásra a csoportos mentesülés nem vonatkozik.
+
+## 6. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba, előírásait az ezt követően kötött megállapodásokra kell alkalmazni.
+
+(2) Ez a rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályával tartalmaz részben összeegyeztethető szabályozást: a Bizottság 240/96/EK rendelete a Római Szerződés 85. Cikke (3) bekezdésének a technológia-átadási megállapodások egyes csoportjaira való alkalmazásáról.
+
+---
+
+[^1]: A Magyar Közlöny 1999. 66. számában közzétett helyesbítésnek megfelelő szöveg.
+[^2]: A 4. § c) pontja a 220/2018. (XI. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A Magyar Közlöny 1999. 66. számában közzétett helyesbítésnek megfelelő szöveg.
+[^4]: Az 5/A. §-t a 246/2000. (XII. 24.) Korm. rendelet 1. §-ának (8) bekezdése iktatta a szövegbe.

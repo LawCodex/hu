@@ -1,0 +1,615 @@
+---
+title: "118/2001. (VI. 30.) Korm. rendelet a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről"
+identifier: "118/2001. (VI. 30.) Korm. rendelet"
+njt_id: "2001-118-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/118"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-06-30
+in_force_from: 2009-12-19
+last_amended: 2024-10-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-118-20-22"
+retrieved: 2026-10-12
+---
+
+# 118/2001. (VI. 30.) Korm. rendelet a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről
+
+A Kormány a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 6. §-ának (3) bekezdésében, valamint a Munka Törvénykönyvéről szóló 1992. évi XXII. törvény (a továbbiakban: Mt.) 203. § (2) bekezdésének d) pontjában kapott felhatalmazás alapján, a következőket rendeli el:
+
+## A rendelet alkalmazási köre
+
+### 1. §
+
+(1)[^1] E rendeletet kell alkalmazni a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység folytatására, az e tevékenységet folytatók nyilvántartásba vételének feltételeire, valamint az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) nyilvántartásba vétellel kapcsolatos eljárására.
+
+(2) Nem tartozik a rendelet alkalmazási körébe az a közvetítői tevékenység, amelynek keretében
+
+a)[^2]
+
+b) az oktatási intézmény a vele tanulói, hallgatói jogviszonyban állók részére, álláskeresés céljából a munkaadókkal találkozót szervez (állásbörze),
+
+c) színházi és művészeti ügynökség művészeket közvetít.
+
+(3)[^3] Az e rendeletben foglaltakat a tengerészekre vonatkozó munkaerő-kölcsönzési és magán-munkaközvetítői tevékenység folytatása tekintetében a tengerész munkaközvetítői és munkaerő-kölcsönzési tevékenység feltételeiről szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
+
+## Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+a)[^4] *magán-munkaközvetítés:* a kormányhivatal munkaközvetítői tevékenységén kívül végzett olyan szolgáltatások összessége, amely arra irányul, hogy elősegítse a munkát keresők és a munkát kínálók találkozását foglalkoztatásra irányuló jogviszony létesítése céljából, ideértve a magyar állampolgárok külföldre, az Európai Gazdasági Térség (a továbbiakban: EGT) megállapodásban részes államból érkező állampolgárok Magyarországra való közvetítését is;
+
+b) *külföldi:* aki nem magyar állampolgár;
+
+c) *a magán-munkaközvetítés szempontjából foglalkoztatásra irányuló jogviszony:* minden olyan jogviszony, amelyben a szolgáltatás tárgya természetes személy által ellenérték fejében végzett munka, ideértve a gyermeknevelő (au-pair) tevékenységet is;
+
+d) *gyermeknevelő (au-pair) tevékenység*: olyan foglalkoztatás, amelynek keretében a foglalkoztatott, magánszemélyeknél (családoknál) közreműködik a gyermekek ellátásában, nevelésében, gondozásában, és e tevékenységéért ellenszolgáltatásban (díjazás, szállás, étkezés, nyelvtanulás támogatása) részesül;
+
+e)[^5] *munkaerő-kölcsönzés:* a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: új Mt.) 214. § (1) bekezdés a) pontjában meghatározott tevékenység;
+
+f)[^6] *kölcsönbeadó:* az új Mt. 214. § (1) bekezdés b) pontjában meghatározott munkáltató;
+
+g)[^7] *kölcsönvevő:* az új Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
+
+h)[^8] *magán-munkaközvetítő:* az *a)* pontban meghatározott magán-munkaközvetítést e rendeletnek, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvénynek megfelelően végző szolgáltató;
+
+i)[^9]
+
+j)[^10] *közteher:*
+
+ja)[^11] a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő mindazon – kedvezményekkel csökkentett – közterhek, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles,
+
+jb) egyszerűsített foglalkoztatás esetén az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efotv.) által meghatározott, a kölcsönbeadót terhelő tételes összeg, vagy
+
+jc) az Efotv. 8. § (4) bekezdésében foglaltak alapján fizetendő összeg;
+
+k)[^12] *munkaerő-kölcsönzési díj:* a munkaerő-kölcsönzési szerződés alapján, a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető ellenérték általános forgalmi adó nélkül számított összege.
+
+(2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
+
+### 3. §
+
+(1) Magán-munkaközvetítést az Flt. 6. § (1) bekezdésében meghatározott magán-munkaközvetítő az e rendeletben foglalt feltételekkel folytathat.
+
+(2)[^13] Munkaerő-kölcsönzést (kölcsönzést) az új Mt. 215. § (1) bekezdésében meghatározott kölcsönbeadó az e rendeletben foglalt feltételekkel folytathat.
+
+## A kölcsönbeadói és a magán-munkaközvetítői tevékenység megkezdésére vonatkozó szabályok[^14]
+
+### 4. §
+
+(1)[^15] A kölcsönbeadói tevékenység folytatását a kölcsönbeadó székhelye szerint illetékes kormányhivatalhoz a tevékenység megkezdése előtt 30 nappal kell bejelenteni, ha
+
+a) a bejelentőt a cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba bejegyezték, és létesítő okirata a munkaerő-kölcsönzési tevékenység folytatását tartalmazza,
+
+b) a bejelentő vagy az általa – legalább heti húsz órában munkaviszony keretében – foglalkoztatott legalább egy személy az 1. számú mellékletben meghatározott végzettséggel vagy szakmai képesítéssel, gyakorlattal rendelkezik,
+
+c) a bejelentő a tevékenység gyakorlásához megfelelő irodahelyiséggel rendelkezik,
+
+d) a bejelentő a rendelet által előírt vagyoni biztosíték letétbe helyezését igazolja,
+
+e) a bejelentő szerepel az állami adóhatóság által vezetett, az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerinti köztartozásmentes adózói adatbázisban.
+
+(1a)[^16] Az (1) bekezdés b)–d) pontjában foglalt feltételek fennállását a bejelentő megfelelő módon igazolja.
+
+(2)[^17] Ha a bejelentő a tevékenységét több telephelyen folytatja, az (1) bekezdés b)–c) pontjában foglalt feltétellel valamennyi telephelyén rendelkeznie kell.
+
+### 4/A. §[^18]
+
+(1) A magán-munkaközvetítői tevékenység folytatásának feltétele, hogy
+
+a) a magán-munkaközvetítő vagy az általa – legalább heti húsz órában munkaviszony keretében – foglalkoztatott legalább egy személy az 1. számú mellékletben meghatározott végzettséggel vagy szakmai képesítéssel, gyakorlattal rendelkezik,
+
+b) a cégjegyzékbe vagy – ha a működés feltétele más bírósági vagy hatósági nyilvántartásba vétel – az előírt nyilvántartásba bejegyezték, és létesítő okirata a magán-munkaközvetítői tevékenység folytatását tartalmazza,
+
+c) a magán-munkaközvetítő a tevékenység gyakorlásához megfelelő irodahelyiséggel rendelkezik,
+
+d)[^19] a magán-munkaközvetítő az e rendelet által előírt, letétbe helyezett vagyoni biztosítékkal rendelkezik.
+
+(2) Az (1) bekezdés a), c) és d) pontjában foglalt feltételek fennállását a bejelentő igazolni köteles.
+
+(3) Ha a bejelentő a tevékenységét több telephelyen folytatja, az (1) bekezdés a) és c) pontjában foglalt feltételeknek valamennyi telephelye vonatkozásában meg kell felelnie.
+
+### 5. §[^20]
+
+(1)[^21] A kölcsönbeadó a munkaerő-kölcsönzési tevékenység végzésére irányuló szándékát a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint elektronikus úton a székhelye szerint illetékes kormányhivatalnak jelenti be. A bejelentés tartalmazza a bejelentő
+
+a) szervezet megnevezését, cégjegyzékszámát vagy – ha a működésének feltétele más bírósági vagy hatósági nyilvántartásba vétel – nyilvántartásba vételi számát,
+
+b) a képviseletére jogosult személy(ek) nevét, címét, egyéb elérhetőségét,
+
+c) szervezet nyilatkozatait a 4. § (1) bekezdés b)–d) pontjában foglaltak teljesítéséről.
+
+(1a)[^22] A magán-munkaközvetítő a tevékenység végzésére irányuló szándékát a Dáptv.-ben foglaltak szerint elektronikus úton, a székhelye szerint illetékes kormányhivatalnak jelenti be. A bejelentés tartalmazza a bejelentő
+
+a) megnevezését, cégjegyzékszámát vagy – ha a működésének feltétele más bírósági vagy hatósági nyilvántartásba vétel – nyilvántartásba vételi számát,
+
+b) a képviseletére jogosult személy(ek) nevét, címét, egyéb elérhetőségét,
+
+c) nyilatkozatát a tevékenység végzésének irányáról, amely
+
+ca) belföldre,
+
+cb) az EGT megállapodásban részes állam területére vagy
+
+cc) a ca) és cb) alpontban foglaltak közül több tevékenység végzésére együttesen
+
+irányul.
+
+(2)[^23] A 4. § (1) bekezdés c) pontjában és a 4/A. § (1) bekezdés c) pontjában meghatározott irodahelyiség akkor tekinthető megfelelőnek, ha a bejelentésben feltüntetett módon van berendezve, és a bejelentő az irodahelyiség használati jogát igazolni tudja.
+
+(3)[^24] A bejelentő köteles a végzettség vagy szakmai képesítés magyarországi elismerését igazolni, ha a 4. § (1) bekezdés b) pontjában és a 4/A. § (1) bekezdés a) pontjában foglalt feltétel vizsgálatához szükséges.
+
+(4) Az e rendelet által szabályozott eljárásokban
+
+a) a kormányhivatal döntése szóban nem közölhető,
+
+b) az iskolai végzettség, szakképzettség igazolása az ügyfél nyilatkozatával nem pótolható,
+
+c)[^25] az ügyintézési határidő kölcsönbeadók esetén 25 nap, magán-munkaközvetítők esetén pedig a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határidő.
+
+## Vagyoni biztosíték
+
+### 6. §
+
+(1)[^26] A magán-munkaközvetítői tevékenység és a kölcsönzési tevékenység vagyoni biztosíték letétbe helyezése esetén folytatható.
+
+(2)[^27] A vagyoni biztosíték mértéke
+
+a) magán-munkaközvetítői tevékenység folytatása esetén, amennyiben a közvetítés
+
+aa)[^28] belföldre vagy az EGT többi tagállamának területére irányul ötszázezer forint,
+
+ab)[^29] az EGT-ről szóló megállapodásban nem részes állam területére irányul egymillió forint,
+
+b)[^30] kölcsönzési tevékenység folytatása esetén tizenötmillió forint.
+
+(3)[^31] A vagyoni biztosíték a bejelentő által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézménynél) lekötött és elkülönítetten kezelt pénzbeli letét.
+
+(4)[^32] Vagyoni biztosítékként csak olyan határozatlan időre szóló letéti szerződés vehető figyelembe, amely az alábbi rendelkezéseket tartalmazza:
+
+a) a letét kizárólag a kölcsönzés, illetve a magán-munkaközvetítés során keletkezett, a munkavállaló vagy a munkát kereső részéről felmerülő kártérítési igény kielégítésére használható fel,
+
+b) a pénzügyi intézmény a letét terhére a munkavállaló vagy a munkát kereső részére az *a)* pont szerinti kártérítést a kölcsönbeadó, illetve a magán-munkaközvetítő kártérítési kötelezettségét megállapító jogerős bírói ítélet vagy a feleknek a kártérítésre irányuló egyezsége alapján fizet,
+
+c)[^33] a letét bármilyen okból való megszűnése esetén a kifizetés összegéről és időpontjáról a pénzügyi intézmény a kölcsönbeadót, illetve a magán-munkaközvetítőt nyilvántartó kormányhivatalt, továbbá a kölcsönbeadót, illetve magán-munkaközvetítőt a kifizetéstől számított három munkanapon belül írásban tájékoztatja.
+
+(5) Ha a magán-munkaközvetítő munkaerő-kölcsönzést is végez, a biztosítékok összegét külön kell letétbe helyezni. Az egyes tevékenységekhez kapcsolódó kártérítési igények kielégítése tekintetében kifizetés a kölcsönzés, illetve a magán-munkaközvetítés érdekében elhelyezett letét mértékéig, tevékenységenként külön-külön kell teljesíteni.
+
+### 7. §
+
+(1)[^34] A kölcsönbeadónak, illetve a magán-munkaközvetítőnek a felhasznált vagyoni biztosítékot a kifizetést követő harminc napon belül pótolnia kell. Ennek megtörténtét legkésőbb a pótlásra megállapított határidő utolsó napján a kormányhivatalban igazolnia kell.
+
+(2)[^35] Ha a kölcsönbeadót, illetve a magán-munkaközvetítőt a kormányhivatal a nyilvántartásból törli, illetve a tevékenységtől eltiltja, a letéti szerződés a törlést, eltiltást elrendelő határozat véglegessé válását követően legkorábban hat hónap elteltével szüntethető meg. Amennyiben a kölcsönzéssel vagy a magán-munkaközvetítéssel okozott kártérítés megállapítása iránt a kölcsönbeadó, illetve a magán-munkaközvetítő ellen a munkavállaló vagy a munkát kereső kérelmére indult bírósági eljárás van folyamatban, a letét megszüntetésére csak a bírósági eljárás jogerős befejezését követően kerülhet sor. A letét megszüntetésének a lehetőségéről a kormányhivatal a pénzügyi intézményt tájékoztatja.
+
+(3) Ha a magán-munkaközvetítő munkaerő-kölcsönzést is végez, bármelyik tevékenysége megszüntetése esetén csak az ennek érdekében elhelyezett letét szüntethető meg.
+
+## A kormányhivatal nyilvántartása[^36]
+
+### 8. §[^37]
+
+(1) A kormányhivatal a kölcsönbeadókról, illetve a magán-munkaközvetítőkről folyamatos sorszámmal ellátott külön nyilvántartást vezet.
+
+(2)[^38] Ha a kölcsönbeadó, illetve a magán-munkaközvetítő a tevékenységét több kormányhivatal illetékességi területén lévő telephelyein folytatja, a kölcsönbeadó, illetve a magán-munkaközvetítő nyilvántartásba vételére illetékes kormányhivatal a telephely szerint illetékes kormányhivatalt a nyilvántartásba vételről, a bejegyzett adatok változásáról, a nyilvántartásból való törlésről, valamint a tevékenységtől történő eltiltásról tájékoztatja.
+
+(3)[^39] Ha a 4. §-ban, illetve a 4/A. §-ban foglalt követelmények tekintetében a nyilvántartásba vételt vagy a bejelentést követően változás következik be, a kormányhivatal dönt a korábban bejegyzett adatok módosítása vagy a kölcsönbeadó, illetve magán-munkaközvetítő nyilvántartásból való törlése, illetve e tevékenységétől való eltiltása felől.
+
+(4)[^40] Ha a kölcsönbeadó vagy a magán-munkaközvetítő székhelyét más kormányhivatal illetékességi területére helyezi át, ezt a korábbi székhely szerint illetékes kormányhivatalnál 30 nappal korábban be kell jelenteni. A korábbi székhely szerint illetékes kormányhivatal a bejelentést a kölcsönbeadó vagy magán-munkaközvetítő irataival együtt átteszi az új székhely szerint illetékes kormányhivatalhoz. Az új székhely szerint illetékes kormányhivatal akkor veszi nyilvántartásba a kölcsönbeadót vagy a magán-munkaközvetítőt, ha az e rendeletben foglalt feltételeket teljesíti. Ha a kölcsönbeadó vagy a magán-munkaközvetítő bejelentésére őt az új székhely szerint illetékes kormányhivatal nem veszi nyilvántartásba, ennek tényéről tájékoztatja korábbi székhely szerint illetékes kormányhivatalt, a kölcsönbeadót vagy a magán-munkaközvetítőt. A tájékoztatás alapján a korábbi székhelye szerint illetékes kormányhivatal a kölcsönbeadót vagy a magán-munkaközvetítőt törli a nyilvántartásból.
+
+(5) A kormányhivatalnak a kölcsönbeadókról, illetve magán-munkaközvetítőkről vezetett nyilvántartása az alábbi adatokat tartalmazza:
+
+a) a nyilvántartásba vételt tartalmazó határozat számát, keltét,
+
+b)[^41] a kölcsönbeadó, illetve magán-munkaközvetítő nevét, szervezeti formáját, székhelyét, telephelyét, adószámát,
+
+c) a képviseletre jogosultak nevét, címét,
+
+d) a vagyoni biztosíték mértékét,
+
+e) a kölcsönzési tevékenység belföldre vagy külföldre irányultságát, illetve a magán-munkaközvetítői tevékenység az Európai Gazdasági Térségről szóló megállapodásban részes állam vagy ezen megállapodásban nem részes állam területére irányultságát,
+
+f) a nyilvántartásból való törlést, illetve a tevékenység folytatásától való eltiltást elrendelő határozat számát, keltét, a törlés, illetve eltiltás indokát.
+
+(6)[^42] A foglalkoztatáspolitikáért felelős miniszter a magán-munkaközvetítőkről, valamint a kölcsönbeadókról nyilvánosan hozzáférhető nyilvántartást (a továbbiakban: országos nyilvántartás) vezet a Nemzeti Foglalkoztatási Szolgálat honlapján az (5) bekezdésben meghatározott adattartalommal. A honlapot a miniszter által vezetett minisztérium működteti. A kormányhivatal gondoskodik az illetékességi területén nyilvántartásba vett kölcsönbeadók és magán-munkaközvetítők adatainak az országos nyilvántartásban való rögzítéséről.
+
+## A munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység gyakorlása[^43]
+
+### 9. §
+
+(1)[^44]
+
+(2)[^45] A kölcsönbeadó és a magán-munkaközvetítő a nyilvántartásba vételről rendelkező határozat számát az üzleti kapcsolataiban, hirdetéseiben, levelezésében köteles folyamatosan használni, a nyilvántartásba vételről kiállított határozatot az irodahelyiségben jól látható helyen kifüggeszteni.
+
+(3)[^46] A kölcsönbeadónak, valamint a magán-munkaközvetítőnek a kormányhivatal által nyilvántartott adatokban bekövetkezett bármely változást, továbbá a tevékenysége megszüntetését nyolc napon belül az őt nyilvántartásba vevő kormányhivatalnak be kell jelentenie.
+
+### 9/A. §[^47]
+
+(1) A kölcsönbevevő a kölcsönbeadó által nyújtott munkaerő-kölcsönzési szolgáltatásért a munkaerő-kölcsönzési szerződés alapján legalább a minimális kölcsönzési díjat köteles megfizetni.
+
+(2) A minimális kölcsönzési díjnál a kölcsönbeadó által nyújtott munkaerő-kölcsönzési szolgáltatásért fizetendő munkaerő-kölcsönzési díjat a kölcsönzött munkavállaló vonatkozásában kell vizsgálni. A minimális kölcsönzési díj egy munkavállaló vonatkozásában nem lehet kevesebb, mint a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló kormányrendeletben meghatározott minimálbér vagy garantált bérminimum, egyszerűsített foglalkoztatás esetén az egyszerűsített foglalkoztatásról szóló törvényben meghatározott minimális bér, valamint az ezeket terhelő közteher együttes összege.
+
+### 10. §
+
+(1) A magán-munkaközvetítés során tilos
+
+a) a munkát keresők között hátrányos megkülönböztetést tenni nemük, koruk, családi vagy fogyatékos állapotuk, nemzetiségük, fajuk, származásuk, vallásuk, politikai meggyőződésük, munkavállalói érdek-képviseleti szervezethez tartozásuk vagy ezzel összefüggő tevékenységük, továbbá minden egyéb, a foglalkozással össze nem függő körülmény miatt,
+
+b) a munkát keresőt jogszabály által meghatározott tilalomba ütköző munkavégzésre közvetíteni,
+
+c) a munkát keresőt nem létező állásba közvetíteni, valamint olyan állásba (illetve a munkáltató azon telephelyén lévő állásba), ahol sztrájk van, a sztrájkot megelőző egyeztetés kezdeményezésétől a sztrájk befejezéséig,
+
+d) olyan munkaerőigényt kielégíteni, amely jogszabálysértő feltételeket tartalmaz,
+
+e) olyan személyi adatokat rögzíteni, nyilvántartásba venni, felhasználni, amelyekre a munkát keresők alkalmasságának a megítéléséhez nincs szükség, illetve amelyek a keresett munkával nincsenek közvetlen összefüggésben.
+
+(2) Nem minősül hátrányos megkülönböztetésnek a munka jellegéből vagy természetéből egyértelműen következő megkülönböztetés.
+
+(3)[^48] A magán-munkaközvetítő a tevékenységéért a munkát keresővel szemben díjat, költséget semmilyen jogcímen nem számolhat fel.
+
+(4)[^49] Nem folytatható magán-munkaközvetítői tevékenység arra a munkavállalásra, amely nemzetközi szerződés hatálya alá tartozik, és amellyel kapcsolatos munkaközvetítői tevékenységre a nemzetközi szerződés alapján állami szerv jogosult.
+
+(5)[^50] Külföldre irányuló magán-munkaközvetítői tevékenység folytatása során be kell tartani annak az országnak – a magán-munkaközvetítői tevékenység folytatására vonatkozó – jogszabályait, amelyben történő munkavállalás elősegítésére a magán-munkaközvetítői tevékenység irányul.
+
+### 11. §
+
+(1) A magán-munkaközvetítőnek a munkát keresőt tájékoztatnia kell a felajánlott munkakör főbb sajátosságairól, így különösen a foglalkoztatáshoz szükséges képzettségről, gyakorlati időről, a foglalkoztatás helyéről, idejéről, az irányadó munkarendről, munkaidő-beosztásról, várható kereseti lehetőségről.
+
+(2) Ha a magán-munkaközvetítői tevékenység az Flt. 6. § (2) bekezdése szerinti külföldi munkavállalásra irányul, a magán-munkaközvetítőnek a fogadó ország jogszabályairól – különösen a foglalkoztatással, a külföldiek munkavállalásával, az idegenrendészettel kapcsolatos szabályokról – a közvetítést megelőzően a munkát keresőt írásban, hitelt érdemlően tájékoztatni kell. A tájékoztatás elmulasztásával vagy a téves tájékoztatással a magán-munkaközvetítő a munkát keresőnek okozott kárért felelősséggel tartozik.
+
+(3) Külföldi állampolgár magyarországi munkavégzésre csak a külföldiek magyarországi munkavállalásának engedélyezéséről szóló jogszabályok figyelembevételével közvetíthető.
+
+## Adatszolgáltatási kötelezettség
+
+### 12. §[^51]
+
+A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére telephelyenként, a minősített kölcsönbeadói nyilvántartásba vételről és tevékenységről szóló 226/2022. (VI. 28.) Korm. rendelet szerinti minősített kölcsönbeadónak valamennyi telephelye vonatkozásában Budapest Főváros Kormányhivatala részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+
+a) a munkaerő-kölcsönző cégre vonatkozó adatok:
+
+aa) alkalmazottak száma;
+
+ab) nettó árbevétel (millió forintban) állománycsoport szerint [a kölcsönzött munkavállalókra vetítve (külföld, belföld együtt)] és nemzetgazdasági ágazat szerint;
+
+ac) a kölcsönbevevők által átvett dolgozók száma;
+
+ad) az adatbázis nagysága;
+
+b) a kölcsönzés keretében foglalkoztatott munkavállalók száma a kölcsönzés céljából létesített munkaviszony határozatlan vagy határozott időtartama szerint, a foglalkoztatás irányának megadásával (belföld, külföld) a következő bontásban:
+
+ba)[^52] állománycsoportonként és nemenként, korcsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként, továbbá iskolai végzettség, állampolgárság szerint;
+
+bb)[^53]
+
+c) a *b)* pontban meghatározott szerkezetben a kölcsönzés keretében foglalkoztatott munkavállalók kölcsönzési eseteinek száma állománycsoportonként;
+
+d) a munkavállalók részére kifizetett keresettömeg és a foglalkoztatott munkavállalók által a kölcsönbevevőnél teljesített munkanapok száma (napi 8 órával számolva), valamint a teljes és részmunkaidőben foglalkoztatottak létszáma a *b)* pontban meghatározottak szerint állománycsoportonként;
+
+e) a belföldi és a külföldi kölcsönvevők száma ágazati bontásban;
+
+f) a külföldi kölcsönvevők száma, ágazata országonkénti bontásban.
+
+### 13. §[^54]
+
+(1)[^55] A magán-munkaközvetítőnek a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+
+a) a magán-munkaközvetítő cégre vonatkozó adatok:
+
+aa) alkalmazottak száma;
+
+ab) nettó árbevétel (millió forintban), állománycsoport (a közvetített munkavállalókra vetítve) és nemzetgazdasági ágazat szerint;
+
+ac) az adatbázis nagysága;
+
+b) a munkaközvetítések száma a magyar és külföldi állampolgárság szerinti csoportosításon belül a belföldre, illetve külföldre történt közvetítések leírásával, ezen belül a sikertelen közvetítések, a folyamatban lévő közvetítések és az eredményes közvetítések száma alapján nemzetgazdasági ágazat, foglalkozások, állománycsoport és nemek, korcsoport, iskolai végzettség, nemek és a foglalkoztatásra irányuló jogviszony típusa szerinti bontásban;
+
+c) a magyar állampolgárok külföldre történt sikeres közvetítéseinek száma a közvetítés országa szerint állománycsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként;
+
+d) a külföldi állampolgárok külföldre történt sikeres közvetítéseinek száma a közvetítés országa szerint állománycsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként;
+
+e) a külföldi állampolgárok belföldre történt sikeres közvetítéseinek száma a közvetített külföldi állampolgár állampolgársága szerint;
+
+f) a közvetítést megelőzően munkával rendelkezők és nem rendelkezők száma, állománycsoportonként, korcsoportonként, nemenként, iskolai végzettség szerint.
+
+(2) Az (1) bekezdés a)–c) pontjában felsorolt adatokat a következő bontásban kell megadni, az összes munkaközvetítésen belül:
+
+a) az eredményes közvetítések száma;
+
+b) a sikertelen közvetítések száma;
+
+c) a folyamatban lévő közvetítések száma;
+
+d) a foglalkoztatásra irányuló jogviszony típusai szerinti közvetítettek létszáma (fő);
+
+e) a közvetítettek száma foglalkozásonként, nemenként, állomány-, korcsoport, valamint nemzetgazdasági ágazat szerint;
+
+f) a közvetítést megelőzően munkával rendelkező és nem rendelkező munkanélküliek száma, állománycsoportonként, korcsoportonként, nemenként, iskolai végzettség, nemzetgazdasági ágazatok szerint.
+
+### 14. §[^56]
+
+A kormányhivatal a 12–13. §-ban foglalt összesített adatokat, valamint az általa a tárgyév december 31-én nyilvántartott munkaerő-kölcsönzők, magán-munkaközvetítők számát, szervezeti formáját, a tárgyévben nyilvántartásba vett és törölt munkaerő-kölcsönzők, magán-munkaközvetítők számát a tárgyévet követő március 31-éig továbbítja a foglalkoztatáspolitikáért felelős miniszter részére elemzés, feldolgozás és nyilvánosságra hozatal céljából.
+
+### 14/A. §[^57]
+
+(1) A kölcsönbeadó, valamint a magán-munkaközvetítő tevékenységéről negyedévente, a tárgyi negyedévet követő hónap utolsó napjáig telephelyenként adatot szolgáltat a munkaerő-piaci előrejelző rendszerbe a Nemzeti Szakképzési és Felnőttképzési Hivatal által működtetett felületen, egyénsoros, anonimizált formában, a következő adattartalommal:
+
+a) a kölcsönzés keretében foglalkoztatott munkavállalók, illetve az eredményesen közvetített foglalkoztatottak
+
+aa) munkakörének megnevezése és annak a Foglalkozások Egységes Osztályozási Rendszere szerinti négy számjegyű kódja;
+
+ab) munkavégzésének helye;
+
+b) a kölcsönbevevőnek, illetve a közvetített munkavállalót foglalkoztató vállalkozásnak a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. §-a szerinti besorolása.
+
+(2) A magán-munkaközvetítőnek az (1) bekezdésben foglaltakon túl a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét is át kell adnia elektronikus, szerkeszthető formában az (1) bekezdés szerinti felületen való feltöltéssel.
+
+## A kölcsönbeadó és a magán-munkaközvetítő tevékenységének ellenőrzése és a nyilvántartásból való törlése
+
+### 15. §[^58]
+
+A kölcsönbeadó, illetve a magán-munkaközvetítő székhelye, illetve telephelye szerint illetékes kormányhivatal a kölcsönzés, illetve a magán-munkaközvetítés e rendeletben foglalt feltételeinek fennállásával és a magán-munkaközvetítés tekintetében a tevékenység folytatásával kapcsolatban hatósági ellenőrzést végezhet.
+
+### 16. §[^59]
+
+(1) A kormányhivatal törli a nyilvántartásból a munkaerő-kölcsönzőt, valamint a magán-munkaközvetítőt, ha
+
+a) jogutód nélkül megszűnt,
+
+b) tevékenysége megszüntetését bejelentette.
+
+(2) A kormányhivatal a munkaerő-kölcsönzőt eltiltja a tevékenység folytatásától, és egyidejűleg törli a nyilvántartásból, ha
+
+a) az állami adóhatóság törölte a köztartozásmentes adózói adatbázisból,
+
+b) a 4. § (1) bekezdésében, valamint a 17/F. § (2) és (3) bekezdésében foglalt feltételekkel nem rendelkezik,
+
+c) a vagyoni biztosítékot az előírt határidőben nem pótolta,
+
+d) a 12. §-ban meghatározott adatszolgáltatási kötelezettségének felszólítás ellenére nem, vagy nem az előírt tartalommal tesz eleget, vagy
+
+e) az új Mt. vagy – a *b)–d)* pontban foglalt kivétellel – e rendelet szabályainak ismételt vagy együttes megszegésével folytatja tevékenységét.
+
+(3) A kormányhivatal a magán-munkaközvetítőt eltiltja a tevékenység folytatásától, és egyidejűleg törli a nyilvántartásból, ha
+
+a) a 4/A. §-ban foglalt feltételekkel nem rendelkezik,
+
+b) a vagyoni biztosítékot az előírt határidőben nem pótolta,
+
+c) a 13. §-ban meghatározott adatszolgáltatási kötelezettségének felszólítás ellenére nem, vagy nem az előírt tartalommal tesz eleget, vagy
+
+d) az új Mt. vagy – az *a)–c)* pontban foglalt kivétellel – e rendelet szabályainak ismételt vagy együttes megszegésével folytatja tevékenységét.
+
+(4) Ha a nyilvántartásból való törlésre a (2) bekezdés a) pontjában foglaltak alapján kerül sor, a munkaerő-kölcsönző legkorábban csak a törlést elrendelő határozat véglegessé válását követő egy év elteltével vehető újra nyilvántartásba.
+
+(4a)[^60] Nem kell alkalmazni a (4) bekezdést, amennyiben a nyilvántartásból a munkaerő-kölcsönzőt legfeljebb 1 millió forint tartozásra tekintettel törölték, és a törlést követő 2 hónapon belül a köztartozásmentes adózói adatbázisba újra bejegyzik.
+
+(5) Ha a nyilvántartásból való törlésre vagy a tevékenységtől eltiltásra a (2) bekezdés b)–e) pontjában vagy a (3) bekezdésben foglaltak alapján került sor, a munkaerő-kölcsönző vagy a magán-munkaközvetítő legkorábban csak a törlést és az eltiltást elrendelő határozat véglegessé válását követő három év elteltével vehető újra nyilvántartásba vagy folytathatja újra tevékenységét.
+
+(6) A törlésről, valamint az eltiltásról a kormányhivatal a kölcsönzési és a magán-munkaközvetítő tevékenységet folytató gazdasági társaságot bejegyző cégbíróságot, egyéb jogi személyt nyilvántartó bíróságot, a vállalkozói nyilvántartást vezető szervet, valamint a letétet kezelő pénzügyi intézményt értesíti. A tengerész munkaközvetítői tevékenységet folytató magán-munkaközvetítő vagy a tengerész munkaerő-kölcsönzési tevékenységet folytató munkaerő-kölcsönző törlése esetén a kormányhivatal a hajózási hatóságot is értesíti.
+
+### 17. §[^61]
+
+A kormányhivatal és a kölcsönbeadó, valamint a magán-munkaközvetítő tevékenységük során együttműködnek. Az együttműködés eszközei különösen
+
+a) a rendszeres szakmai kapcsolattartás,
+
+b) a munkaerőpiacra vonatkozó információk cseréje,
+
+c)[^62] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló Korm. rendeletben meghatározott közvetíthető álláshelyekre vonatkozó adatok cseréje,
+
+d) a munkatársak közös képzési lehetőségeinek biztosítása,
+
+e) megállapodások a munkaerőpiaci helyzet javítása érdekében.
+
+## A közfoglalkoztatásra irányuló munkaerő-kölcsönzésre vonatkozó sajátos szabályok[^63]
+
+## EGT-tagállamban bejegyzett vállalkozás munkaerő-kölcsönzési tevékenységére vonatkozó speciális szabályok[^68]
+
+### 17/E. §[^69]
+
+Az új Mt. 215. § (1) bekezdés a) pontjában meghatározott, EGT-tagállamban bejegyzett vállalkozás magyarországi munkaerő-kölcsönzési tevékenységére e rendelet szabályait a 17/F. §-ban foglalt eltérésekkel kell alkalmazni.
+
+### 17/F. §[^70]
+
+(1)[^71] A bejelentő nyilvántartására a Budapest Főváros Kormányhivatala rendelkezik kizárólagos illetékességgel.
+
+(2) A 4. § (1) bekezdés a) pontjában írt nyilvántartásba vételnek a vállalkozás székhelye szerinti EGT-tagállamban kell teljesülnie. A nyilvántartásba vétel további feltétele, hogy a vállalkozás székhelye szerinti EGT-tagállamban a rá irányadó jog szerint a vállalkozás jogosult legyen munkaerő-kölcsönzés folytatására.
+
+(3) A 4. § (1) bekezdés c) pontjában meghatározott irodahelyiség az ott meghatározott feltételeken túl akkor tekinthető megfelelőnek, ha Magyarország területén található.
+
+(4)[^72] A (2) bekezdésben foglaltakat a bejelentő a munkaerő-kölcsönzés folytatására vonatkozó jogosultságnak a székhelye szerinti EGT-tagállamban irányadó módon igazolja.
+
+(5)[^73] Ha a bejelentő székhelye szerinti EGT-tagállamban a munkaerő-kölcsönzési tevékenységre vonatkozóan nincs szükség engedélyezési vagy nyilvántartásba vételi eljárás lefolytatására, akkor a bejelentő erről a tényről nyilatkozik.
+
+(6) A vagyoni biztosítékra vonatkozó szabályokat a székhely szerinti állam által a kölcsönzési tevékenységre előírt vagyoni biztosítéktól függetlenül kell teljesíteni. Külföldi pénzügyi intézménynél devizában lekötött vagyoni biztosíték számításánál a Magyar Nemzeti Bank által közzétett, a letéti szerződés megkötésének napján érvényes középárfolyamot kell alapul venni.
+
+(7)[^74]
+
+(8)[^75] Az EGT-tagállamban bejegyzett kölcsönző esetén az EGT-tagállamban történő nyilvántartásba vételről és a kölcsönzési tevékenység végzéséről szóló irat az ügyfél nyilatkozatával nem pótolható.
+
+## Záró rendelkezések
+
+### 18. §
+
+(1)[^76] E rendelet 2001. július 1-jén lép hatályba.
+
+(1a)[^77]
+
+(1b)[^78]
+
+(1c)[^79]
+
+(1d)[^80]
+
+(1e)[^81]
+
+(1f)[^82]
+
+(1g)[^83]
+
+(2)[^84] E rendelet
+
+a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+b) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló, 2008. november 19-i 2008/104/EK európai és parlamenti tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(3)[^85] A 14/A. § szerinti adatszolgáltatásnak első alkalommal 2022. január 31. napjáig kell eleget tenni a 2021. év első, második, harmadik és negyedik negyedévére vonatkozóan.
+
+(4)[^86]
+
+(5)[^87]
+
+(6)[^88]
+
+## 1. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^89]
+
+A rendelet 4. § (1) bekezdés b) pontjában és 4/A. § (1) bekezdés a) pontjában foglalt szakképesítésként fogadható el:
+
+*a)*[^90] szakirányú felsőfokú végzettség, ennek keretében
+
+– egyetemek közgazdaságtudományi, gazdaságtudományi karán,
+
+– egyetemek állam- és jogtudományi karán,
+
+– egyetemek bölcsészettudományi karán pszichológia és szociológia szakon,
+
+– egyetemek és főiskolák államigazgatási, gazdasági, humánerőforrás-menedzseri, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói szakán
+
+szerzett oklevél, valamint
+
+– egyéb felsőoktatásban szerzett oklevéllel rendelkezők közül a felsőfokú személyügyi gazdálkodó szaktanfolyam elvégzését igazoló bizonyítvány, vagy
+
+*b)* felsőfokú iskolai végzettség és legalább kétéves, az alábbiakban felsorolt humánpolitikai területen eltöltött gyakorlat:
+
+– az emberi erőforrással való gazdálkodás tervezése,
+
+– munkaköri követelmények meghatározása,
+
+– a munkaerő-szükséglet minőségi és mennyiségi jellemzőinek tervezése,
+
+– munkaerő-kiválasztás,
+
+– munkaerő-közvetítés,
+
+– munkaerő-felvétel,
+
+– a belső utánpótlás tervezése,
+
+– a beilleszkedési folyamat megtervezése és végrehajtásának irányítása,
+
+– teljesítményösztönzési rendszerek kialakítása, ezen belül:
+
+= bérezési alapelvek kialakítása,
+
+= hatékony bérezési és ösztönzési rendszerek kialakítása, bevezetése,
+
+– teljesítményértékelési rendszerek kialakítása és bevezetése,
+
+– munkahelyi képzési és továbbképzési rendszerek kialakítása,
+
+– személyzeti és munkaügyi nyilvántartások rendszerezése, vezetése,
+
+– munkakörülmények vizsgálata; vagy
+
+*c)* középfokú iskolai végzettség és legalább ötéves, a *b)* pontban felsorolt humánpolitikai területen eltöltött gyakorlat; vagy
+
+*d)*[^91] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerőpiaci szolgáltatási ügyintéző szakképesítés, valamint munkaerőpiaci szervező, elemző szakképesítés, munkaerő piaci szolgáltató, ügyintéző rész-szakképesítés, továbbá személyügyi gazdálkodó és fejlesztő szakképesítés és személyügyi ügyintéző rész-szaképesítés, illetve bármely középfokú szakképesítés, amely az ebben a pontban felsorolt szakképesítések valamelyikének megfeleltethető.
+
+## 2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^92]
+
+## 3. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^93]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 81. §-a, a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 43. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés a) pontját a 171/2011. (VIII. 24.) Korm. rendelet 27. § (1) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdését a 383/2014. (XII. 31.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés a) pontja a 297/2024. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés f) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, a 356/2021. (VI. 24.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, a 356/2021. (VI. 24.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (1) bekezdés j) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^11]: A 2. § (1) bekezdés j) pont ja) alpontja a 337/2020. (VII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^12]: A 2. § (1) bekezdés k) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^13]: A 3. § (2) bekezdése a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés d) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 4. §-t megelőző alcím a 182/2009. (IX. 10.) Korm. rendelet 231. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^16]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 92. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^17]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 22. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^18]: A 4/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 231. § (2) bekezdése iktatta be, szövege a 356/2021. (VI. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^19]: A 4/A. § d) pontja a 356/2021. (VI. 24.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^20]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 92. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: Az 5. § (1) bekezdése a 297/2024. (X. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^22]: Az 5. § (1a) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 297/2024. (X. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (2) bekezdése a 273/2018. (XII. 20.) Korm. rendelet 12. § a) pontja, a 668/2020. (XII. 28.) Korm. rendelet 10. §-a, a 356/2021. (VI. 24.) Korm. rendelet 8. § a) és b) pontja szerint módosított szöveg.
+[^24]: Az 5. § (3) bekezdés nyitó szövegrésze a 356/2021. (VI. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^25]: Az 5. § (4) bekezdés c) pontja a 356/2021. (VI. 24.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^26]: A 6. § (1) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^27]: A 6. § (2) bekezdése a 285/2009. (XII. 11.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 5. § (3)–(4) bekezdését.
+[^28]: A 6. § (2) bekezdés a) pont aa) alpontja a 273/2018. (XII. 20.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^29]: A 6. § (2) bekezdés a) pont ab) alpontja a 273/2018. (XII. 20.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^30]: A 6. § (2) bekezdés b) pontja a 345/2017. (XI. 16.) Korm. rendelet 2. §-ával megállapított, a 273/2018. (XII. 20.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^31]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a, a 356/2021. (VI. 24.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^32]: A 6. § (4) bekezdés nyitó szövegrésze a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés c) pontja szerint módosított szöveg.
+[^33]: A 6. § (4) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés f) pontja szerint módosított szöveg.
+[^34]: A 7. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés g) pontja szerint módosított szöveg.
+[^35]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 232. §-a, a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 94. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^36]: A 8. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés d) pontja szerint módosított szöveg.
+[^37]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^38]: A 8. § (2) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^39]: A 8. § (3) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^40]: A 8. § (4) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^41]: A 8. § (5) bekezdés b) pontja a 345/2017. (XI. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^42]: A 8. § (6) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^43]: A 9. §-t megelőző alcím cím a 356/2021. (VI. 24.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^44]: A 9. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^45]: A 9. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 233. §-a, a 356/2021. (VI. 24.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^46]: A 9. § (3) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^47]: A 9/A. §-t a 273/2018. (XII. 20.) Korm. rendelet 8. §-a iktatta be.
+[^48]: A 10. § (3) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (1) bekezdése iktatta be, szövege a 356/2021. (VI. 24.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^49]: A 10. § (4) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (2) bekezdése iktatta a szövegbe.
+[^50]: A 10. § (5) bekezdését az 57/2003. (IV. 24.) Korm. rendelet 3. §-ának (3) bekezdése iktatta a szövegbe.
+[^51]: A 12. § a 335/2016. (XI. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított, a 688/2023. (XII. 29.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^52]: A 12. § b) pont ba) alpontja a 688/2023. (XII. 29.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^53]: A 12. § b) pont bb) alpontját a 356/2021. (VI. 24.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^54]: A 13. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^55]: A 13. § (1) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^56]: A 14. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított, a 318/2014. (XII. 13.) Korm. rendelet 4. §-a, a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés h) pontja szerint módosított szöveg.
+[^57]: A 14/A. §-t a 688/2021. (XII. 8.) Korm. rendelet 1. §-a iktatta be.
+[^58]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 94. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^59]: A 16. § a 356/2021. (VI. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^60]: A 16. § (4a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 7. §-a iktatta be.
+[^61]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 51. § (6) bekezdésével megállapított szöveg.
+[^62]: A 17. § c) pontját a 273/2018. (XII. 20.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 101/2021. (II. 27.) Korm. rendelet 1. §-a iktatta be.
+[^63]: A 17/A. §-t megelőző alcímet a 171/2011. (VIII. 24.) Korm. rendelet 4. §-a iktatta be.
+[^68]: A 17/E. §-t megelőző alcímet a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^69]: A 17/E. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^70]: A 17/F. §-t a 335/2016. (XI. 11.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^71]: A 17/F. § (1) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^72]: A 17/F. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 92. § (5) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^73]: A 17/F. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 92. § (5) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 8. § i) pontja szerint módosított szöveg.
+[^74]: A 17/F. § (7) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 9. § e) pontja hatályon kívül helyezte.
+[^75]: A 17/F. § (8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 92. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: A 18. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1063. pontja szerint módosított szöveg.
+[^77]: A 18. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 1. § (12) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^78]: A 18. § (1b) bekezdését a 345/2017. (XI. 16.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^79]: A 18. § (1c) bekezdését a 345/2017. (XI. 16.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^80]: A 18. § (1d) bekezdését a 345/2017. (XI. 16.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^81]: A 18. § (1e) bekezdését a 345/2017. (XI. 16.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^82]: A 18. § (1f) bekezdését a 345/2017. (XI. 16.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^83]: A 18. § (1g) bekezdését a 273/2018. (XII. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 22. § (4) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^84]: A 18. § (2) bekezdését újonnan a 285/2009. (XII. 11.) Korm. rendelet 4. §-a iktatta be, szövege a 273/2018. (XII. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^85]: A 18. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1063. pontja hatályon kívül helyezte, újonnan a 688/2021. (XII. 8.) Korm. rendelet 2. §-a iktatta be.
+[^86]: A 18. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1063. pontja hatályon kívül helyezte.
+[^87]: A 18. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1063. pontja hatályon kívül helyezte.
+[^88]: A 18. § (6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1063. pontja hatályon kívül helyezte.
+[^89]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 232. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^90]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^91]: Az 1. számú melléklet d) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (14) bekezdésével megállapított szöveg.
+[^92]: A 2. számú mellékletet a 273/2018. (XII. 20.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^93]: A 3. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 95. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

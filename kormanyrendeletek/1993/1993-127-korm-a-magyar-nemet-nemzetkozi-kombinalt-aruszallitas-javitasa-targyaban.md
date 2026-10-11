@@ -1,0 +1,165 @@
+---
+title: "127/1993. (IX. 23.) Korm. rendelet a magyar—német nemzetközi kombinált áruszállítás javítása tárgyában aláírt Megállapodás kihirdetéséről"
+identifier: "127/1993. (IX. 23.) Korm. rendelet"
+njt_id: "1993-127-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1993/Korm/127"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1993-09-23
+in_force_from: 1993-09-23
+last_amended: 1993-09-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1993-127-20-22"
+retrieved: 2026-10-12
+---
+
+# 127/1993. (IX. 23.) Korm. rendelet a magyar—német nemzetközi kombinált áruszállítás javítása tárgyában aláírt Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság közlekedési, hírközlési és vízügyi minisztere és a Német Szövetségi Köztársaság közlekedési minisztere között a nemzetközi kombinált áruszállítás javítása tárgyában Budapesten, illetőleg Bonnban 1993. február 17. napján aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,Megállapodás\
+a Magyar Köztársaság közlekedési, hírközlési és vízügyi minisztere és a Német Szövetségi Köztársaság közlekedési minisztere között\
+a nemzetközi kombinált áruszállítás javítása tárgyában
+
+A Magyar Köztársaság közlekedési, hírközlési és vízügyi minisztere és
+
+a Német Szövetségi Köztársaság közlekedési minisztere (a továbbiakban: Szerződő Felek),
+
+annak tudatában, hogy Európában az árucseréhez elengedhetetlen a teljesítőképes nemzetközi áruszállítás,
+
+felismerve, hogy ökológiai okokból és a közúti forgalom korlátozott kapacitása miatt vasúton és vízi úton korszerű szállítási rendszert kell kialakítani, a közúti áruforgalom gazdasági és ökológiai szempontból is elfogadható alternatíváinak megteremtése érdekében,
+
+abban a meggyőződésben, hogy a kombinált áruszállítás nagy lehetőség a nemzetközi áruforgalom gondjainak megoldásában,
+
+figyelembe véve, hogy mindenekelőtt a nem kísért kombinált áruszállítás rendkívüli előnyökkel rendelkezik, a nemzetközi áruforgalomról szóló Megállapodás alapján
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*Alkalmazási terület*
+
+(1) A Megállapodás kétoldalú közlekedési kapcsolatok területén Magyarország és Németország közötti nemzetközi kombinált áruszállítás során kerül alkalmazásra.
+
+(2) A Szerződő Felek együttműködése a kétoldalú kombinált áruszállítás elősegítését, a szükséges kísérő intézkedéseket és az információk cseréjét — a Szerződő Felek közlekedéspolitikájának e területen bekövetkező fejlődéséről — foglalja magában.
+
+*2. Cikk*
+
+*Kombinált áruszállítás / Definíció*
+
+(1) A nemzetközi kombinált áruszállítás minden olyan gépjárművel végzett konténer, csereszekrény, félpótkocsi és pótkocsi (rakományhordozó) továbbítása, amelyet az útszakasz egy részén közúton és az útszakasz másik részén vasúton vagy belvízi úton bonyolítanak le.
+
+(2) A kombinált áruszállítás keretében a közúti elő- és utánfuvarozást — a Szerződő Felek országában található — fel- vagy lerakóhely és a kombiterminál, illetve belvízi kikötő között a legrövidebb, szokásos, megengedett — útvonalon kell végrehajtani.
+
+*3. Cikk*
+
+*Közúti elő- és utánfuvarozás a nem kísért kombinált áruszállítás keretében*
+
+A Szerződő Felek külön engedélykontingensben állapodnak meg a közúti elő- és utánfuvarozásra, a fel- vagy lerakóhely és a kombiterminál vagy belvízi kikötő között végzett közúti elő- és utánfuvarozásra, amelyet az egyik Szerződő Fél területén a másik Szerződő Fél országában nemzetközi kombinált áruszállítás végzésére jogosult vállalkozó olyan gépjárművekkel vagy nyerges vontatókkal végez, amelyek a másik államban vannak bejegyezve, és amelyek a közúti elő- és utánfuvarozás során az államhatárt nem lépik át.
+
+A Szerződő Felek hatóságainak képviselői gondoskodnak a Megállapodás végrehajtásáról és a forgalomfejlesztés összehangolásáról.
+
+*4. Cikk*
+
+*Engedélyezés*
+
+Az engedély csak annak a vállalkozónak adható, aki a saját országában nemzetközi áruszállítási tevékenység végzésére jogosult.
+
+*5. Cikk*
+
+*Engedélyezési eljárás*
+
+(1) Az engedélyt járati engedélyként adják ki, amely egy oda- és egy visszaútra érvényes.
+
+(2) Az engedélyt a vállalkozónak egy meghatározott gépjárműre adják ki. Ez egyidejűleg az engedélyezett gépjármű által vontatott pótkocsira vagy félpótkocsira is érvényes, függetlenül a bejegyzés országától. Az engedély nem ruházható át.
+
+(3) Az engedélyt annak a Szerződő Fél illetékes hatóságai adják ki, amelynek területén a szállítások történnek, és azokat a másik Szerződő Fél hatóságai adják át ezen állam vállalkozói részére.
+
+(4) A vállalkozó és az utazó személyzet köteles betartani a másik Szerződő Fél országában hatályos rendelkezéseket.
+
+(5) A 3. Cikk szerinti engedélyt a Szerződő Fél országában történő minden szállításnál a járművön kell tartani és az illetékes ellenőrző hatóságok kérésére azt fel kell mutatni.
+
+*6. Cikk*
+
+*Rendelkezések megszegése*
+
+(1) Ha valamely vállalkozó vagy annak utazó személyzete megszegi a másik Szerződő Fél országában hatályos jogszabályokat és egyéb előírásokat vagy a jelen Megállapodás rendelkezéseit, akkor annak a Szerződő Fél illetékes hatóságai, ahol a jármű forgalmi engedélyét kiadták, azon Szerződő Fél illetékes hatóságainak kérésére, amelyben a jogsértés történt, az alábbi intézkedések egyikét hozhatják:
+
+*a)* az érintett vállalkozó felszólítása az érvényben levő előírások betartására;
+
+*b)* az érintett vállalkozó részére az engedélyek kiadásának leállítása, vagy a már kiadott engedély visszavonása arra az időszakra, amelyre a másik Szerződő Fél illetékes hatósága kizárta őt a forgalomból.
+
+(2) Az illetékes hatóságok értesítik egymást a hozott intézkedésekről.
+
+(3) Ez a Cikk nem érinti azon intézkedéseket, amelyeket annak a Szerződő Fél bíróságai vagy hatóságai hoznak, amelynek felségterületén a jogsértést elkövették.
+
+*7. Cikk*
+
+*A kombinált áruszállítás támogatása*
+
+(1) A Szerződő Felek eljárnak vasútigazgatóságaiknál, a kombitársaságoknál és a hajózási vállalatoknál annak érdekében, hogy gyors egyeztető intézkedésekben állapodjanak meg a kombinált áruszállítás segítése céljából.
+
+(2) A Szerződő Felek a kombinált áruszállítás kiépítésére — lehetőségeik szerint — támogatást nyújtanak saját vasútjaik részére az infrastrukturális beruházásokhoz (vasútvonalak, terminálok).
+
+(3) A Szerződő Felek odahatnak, hogy a kétoldalú kombinált áruszállításhoz kapcsolódó elő- és utánfuvarozás mentesüljön a vasár- és ünnepnapi tilalom alól.
+
+*8. Cikk*
+
+*Határkezelés*
+
+A Szerződő Felek törekednek arra, hogy a szállítás késedelmes lebonyolításának elkerülése érdekében a határon történő vámkezelési műveletek elvégzését még az 1992. évben helyezzék át a kombiterminálokra és a belvízi kikötőkbe.
+
+*9. Cikk*
+
+*Együttműködés*
+
+A Szerződő Felek kérik a vasutakat, hogy a kombinált áruszállításban részt vevő társaságokkal és hajózási vállalatokkal együttműködve dolgozzanak ki versenyképes ajánlatokat kombinált áruszállítás részére, különös tekintettel a szállítás minőségére, a szállítási idő és határidő csökkentésére és betartására, valamint a gazdaságilag indokolható tarifákra.
+
+*10. Cikk*
+
+*Válsághelyzet*
+
+(1) A Szerződő Felek kötelezik magukat arra, hogy a kombinált áruszállításban vis maior vagy műszaki zavarok miatt bekövetkező, tizenkét órát meghaladó üzemszünetek esetén külön intézkedéseket hoznak.
+
+(2) A kombinált áruszállítás keretében a feladott vagy a már előkészített küldemények részére — a kombinált áruszállítás előírása szerinti — a méretekre és tömegre vagy az éjszakai közúti közlekedési tilalomra vonatkozó kontingensek és engedélyek feloldását irányozzák elő, amennyiben azok átrakhatók. A vállalkozónak vagy az utazó személyzetnek a fuvarokmányt (könyvelési bizonylat) kell magánál tartania, és az illetékes ellenőrző hatóságok kérésére be kell mutatni.
+
+*11. Cikk*
+
+*Információcsere*
+
+(1) A Szerződő Felek igény szerint találkoznak a Megállapodás működésének biztosításához és lebonyolításához szükséges információk kicserélése céljából.
+
+(2) A Szerződő Felek a Megállapodást egyetértőleg módosítják, amennyiben ezt a közúti áruforgalom és a kombinált áruszállítás további fejlődése indokolttá teszi.
+
+*12. Cikk*
+
+*Hatálybalépés*
+
+A Megállapodás aláírása napján lép hatályba.
+
+*13. Cikk*
+
+*A szerződés hatálya*
+
+A Megállapodást a Szerződő Felek hároméves időtartamra kötik, és mindenkor további egy évvel meghosszabbodik, ha azt a Szerződő Felek egyike legkésőbb a határidő lejárta előtt három hónappal, írásban fel nem mondja.
+
+Készült Budapesten/Bonnban, 1993. február 17-én, két példányban, magyar és német nyelven, mindkét szöveg egyenlő jogi érvényű.
+
+*Siklós Csaba* s. k.,\
+a Magyar Köztársaság közlekedési, hírközlési és vízügyi minisztere
+
+*Günther Krause* s. k.,\
+a Német Szövetségi Köztársaság közlekedési minisztere''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1993. február 17. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

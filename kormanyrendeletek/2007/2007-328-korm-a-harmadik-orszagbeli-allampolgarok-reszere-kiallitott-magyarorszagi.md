@@ -1,0 +1,171 @@
+---
+title: "328/2007. (XII. 11.) Korm. rendelet a harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok meghatározásáról"
+identifier: "328/2007. (XII. 11.) Korm. rendelet"
+njt_id: "2007-328-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/328"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-12-11
+in_force_from: 2008-09-22
+last_amended: 2025-05-27
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-328-20-22"
+retrieved: 2026-10-12
+---
+
+# 328/2007. (XII. 11.) Korm. rendelet a harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok meghatározásáról
+
+A Kormány a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §[^1]
+
+Magyarország területére történő beutazás céljából elismert okmányok a következők:
+
+a) nemzetközi szerződésben meghatározott vagy nemzetközi kötelezettség alapján elismert úti okmányok,
+
+b) valamennyi harmadik ország által kiállított magán-, szolgálati, diplomata, különleges és hivatalos útlevél, az 1. mellékletben meghatározottak kivételével,
+
+c) az *a)* és *b)* pontja alá nem tartozó, az Európai Unió tagállamai, és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes államok által a harmadik országbeli állampolgárok számára kiállított úti okmányok, és
+
+d) a 2. mellékletben felsorolt okmányok.
+
+## 1/A. §[^2]
+
+Ha egy harmadik országbeli állampolgár tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával rendelkezik, úti okmányát az engedély érvényességi idejének lejártáig elismertnek kell tekinteni akkor is, ha az okmánytípus már nem elismert úti okmány.
+
+## 1/B. §[^3]
+
+Ez a rendelet
+
+a) a Közösségi Vízumkódex létrehozásáról szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet 48. cikk (1) bekezdés c) pontja,
+
+b) a külső határok átlépésére jogosító és vízummal ellátható úti okmányok listájáról, valamint az e lista összeállítására irányuló eljárás meghatározásáról szóló, 2011. október 25-i 1105/2011/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 2. §
+
+Ez a rendelet 2007. december 21-én lép hatályba.
+
+## 1. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^4]
+
+**A Magyarország által el nem ismert magán-, szolgálati és diplomata-útlevelek listája**
+
+1\. Szomália által kiállított magán-, szolgálati és diplomata és különleges útlevél
+
+2.[^5] Irak által kiállított magán-, szolgálati és diplomata-útlevél „M”, „N” és „S” sorozata
+
+3.[^6] Nigéria által kiállított, biometrikus adatot tartalmazó tároló elem nélküli útlevél
+
+4\. Csád által kiállított különleges útlevél
+
+5.[^7] Oroszország által kiállított magánútlevél,
+
+a) ha azt az Orosz Szövetségi Migrációs Szolgálat 90, 91 és 92 kóddal kezdődő irodái állították ki,
+
+b) ha az okmányt 2014. március 18. után állították ki a Krím és Szevasztopol lakosai számára, feltéve, hogy az okmány birtokosa az annexió előtt nem volt orosz állampolgár,
+
+c) ha az okmányt 2019. április 24. után állították ki Ukrajna Donyeck és Luhanszk régiójának nem kormányzati ellenőrzés alatt álló területeinek lakosai számára, feltéve, hogy az okmány birtokosa az említett időpont előtt nem volt orosz állampolgár.
+
+## 2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^8]
+
+**A Magyarország által elismert egyéb okmányok listája**
+
+1\. Amerikai Egyesült Államok
+
+a) az Amerikai Egyesült Államok Állampolgársági és Bevándorlási Szolgálata által kiállított úti okmányok (Travel Document Issued by US Citizenship and Immigration Services)
+
+b) menekültek számára kiállított úti okmányok (Refugee Travel Document)
+
+c) visszatérésre feljogosító engedély (Permit to Re-enter)
+
+d) úti okmány (Travel document)
+
+e) sürgősségi útlevél (Emergency passport)
+
+2\. Bahama-szigetek – gyakori utazó útlevél (Frequent Traveller Passport)
+
+3\. Dél-Korea – utazási igazolvány (Travel certificate)
+
+4\. Grúzia – státusz Semleges Úti Okmány (Status Neutral Tarvel Document)
+
+5\. Kanada
+
+a) sürgősségi úti okmány (Emergency travel document)
+
+b) ideiglenes úti okmány (Temporary passport)
+
+6\. Egyiptom – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
+
+7\. India – a tibeti emigráns közösség tagjai számára kiállított személyazonosító igazolvány (Special Entry Permit Tibet origins)
+
+8\. Izrael
+
+a) külföldiek úti okmánya (Travel document)
+
+b) Palesztin Hatóság által kiállított magánútlevél (Ordinary passport/Travel Document)
+
+c) Palesztin Hatóság által kiállított VIP útlevél (VIP passport/Travel Document)
+
+d)[^9] nemzeti útlevelet helyettesítő úti okmány (travel document in lieu of national passport)
+
+9\. Jordánia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
+
+10\. Kelet-Timor – különleges szolgálati útlevél (Special Service Passport)
+
+11\. Kínai Népköztársaság
+
+a) közszolgálati útlevél (Passport for Public affairs)
+
+b) Hong Kong Különleges Közigazgatási Régió útlevele (HKSAR passport)
+
+c) Hong Kong Különleges Közigazgatási Régió vízum beillesztésére szolgáló személyazonosságot igazoló okirat (HKSAR Document of identity for visa purposes)
+
+d) magánútlevél (Tajvan)
+
+e) Makaó Különleges Közigazgatási Régió útlevele (Macao Special Administrative Region passport)
+
+f) Makaó Különleges Közigazgatási Régió úti okmánya (Macao Special Administrative Region Travel permit)
+
+g) hajós útlevél (Seafarer's Passport)
+
+12\. Libanon – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
+
+13\. Líbia – úti okmány palesztin menekültek részére – (Travel document for Palestinian refugees)
+
+14\. Oroszország – hajós útlevél (Seaman's passport)
+
+15\. Szaúd-Arábia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
+
+16.[^10] Szíria – úti okmány palesztin menekült részére (Travel document for Palestinian refugees)
+
+17.[^11] Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
+
+18.[^12] Türkmenisztán – hajós útlevél (Seaman's passport)
+
+19.[^13] Új-Zéland
+
+a) sürgősségi úti okmány (Emergency travel document)
+
+b) sürgősségi útlevél (Emergency passport)
+
+20.[^14] A Vöröskereszt Nemzetközi Bizottság úti okmánya a Magyarország Kormánya külön döntésében meghatározott áttelepítési programban résztvevő harmadik országbeli állampolgárok magyarországi beutazása céljából.
+
+21.[^15] Japán – sürgősségi útlevél (Emergency Passport)
+
+---
+
+[^1]: Az 1. § a 447/2013. (XI. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1/A. §-t a 96/2010. (III. 31.) Korm. rendelet 26. §-a iktatta be, szövege a 166/2024. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^3]: Az 1/B. §-t a 447/2013. (XI. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^4]: Az 1. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés a) pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 2. pontja a 170/2014. (VII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 3. pontja a 304/2019. (XII. 12.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 5. pontját a 107/2022. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
+[^9]: A 2. melléklet 8. pont d) alpontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
+[^10]: A 2. melléklet 16. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2. melléklet 17. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. melléklet 18. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 2. melléklet 19. pontját a 170/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 2. melléklet 20. pontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
+[^15]: A 2. melléklet 21. pontját a 115/2025. (V. 26.) Korm. rendelet 1. §-a iktatta be.

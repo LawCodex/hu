@@ -1,0 +1,842 @@
+---
+title: "168/2004. (V. 25.) Korm. rendelet a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről"
+identifier: "168/2004. (V. 25.) Korm. rendelet"
+njt_id: "2004-168-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/168"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-05-25
+in_force_from: 2010-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-168-20-22"
+retrieved: 2026-10-12
+---
+
+# 168/2004. (V. 25.) Korm. rendelet a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről
+
+A Kormány a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 404. §-a (1) bekezdésének c) és d) pontjában kapott felhatalmazás alapján – az állami ráfordítások csökkentése, a költségvetési előirányzatok tervszerű felhasználása, valamint a központi beszerzési rendszerben rejlő előnyök közigazgatási célú hasznosítása érdekében – a következőket rendeli el:
+
+## I. Fejezet — BEVEZETŐ RENDELKEZÉSEK
+
+### A rendelet hatálya
+
+#### 1. §
+
+(1)[^1] A központosított közbeszerzési rendszer hatálya alá tartozó közbeszerzéseik és beszerzéseik (a továbbiakban együtt: közbeszerzéseik) megvalósítása során
+
+a) a minisztériumok,
+
+b) – a központi költségvetés I–VIII., XXX., XXXII–XXXIV. és XXXVI. fejezetéhez tartozó költségvetési szervek kivételével – a központi költségvetésben önálló fejezettel vagy fejezetet irányító szervi jogosultságokkal rendelkező egyéb költségvetési szervek,
+
+c) a társadalombiztosítás alapjait kezelő költségvetési szervek és
+
+d) – a nemzetbiztonsági szolgálatok, a külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter és a honvédelemért felelős miniszter irányítása alá tartozó külképviseletek kivételével – az a)–c) pontban meghatározott költségvetési szerv, illetve annak vezetője irányítási hatáskörébe tartozó költségvetési szervek
+
+az e rendelet előírásai szerint kötelesek eljárni.
+
+(1a)[^2] E rendelet hatálya nem terjed ki az egységes intézeti gyógyszertári szolgáltatásról szóló 33/2024. (II. 22.) Korm. rendelet 1. § (1) bekezdés c) pontja szerinti gyógyszerek beszerzésére.
+
+(2)[^3] E rendelet hatálya nem terjed ki a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény szerint a Kormány által alapított vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, gazdasági társaságokra, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre. Nem kell alkalmazni e rendelet előírásait az állami felsőoktatási intézmény nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 4a. pontja szerinti felsőoktatási kutatás-fejlesztési vállalkozási tevékenységének keretében megvalósított közbeszerzései tekintetében.
+
+(2a)[^4] Nem kell alkalmazni e rendelet előírásait a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet 13. § (1) bekezdése szerinti, valamint a Nemzeti Kommunikációs Hivatal működésével összefüggésben álló beszerzési eljárásokra.
+
+(2b)[^5] Nem kell alkalmazni e rendelet előírásait a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet) 13. § (1) bekezdés a) pontja szerinti beszerzések tekintetében.
+
+(2c)[^6] Nem kell alkalmazni e rendelet előírásait a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet (a továbbiakban: VBÜ rendelet) 10. § (1) bekezdés a) pontja szerinti eljárásokra.
+
+(2d)[^7] Az 1. számú melléklet 7. és 8. pontjában meghatározott eszközök és szolgáltatások beszerzése során központi beszerző szervezetként a Közbeszerzési és Ellátási Főigazgatóság jár el. Az 1. számú melléklet 7. pontjában meghatározott eszközök beszerzése során
+
+a) az Egészségbiztosítási Alapból finanszírozott, a Magyar Állam, költségvetési szerv, helyi önkormányzat vagy önkormányzati társulás fenntartása alá tartozó fekvő- és járóbeteg szakellátást nyújtó intézmények, az Országos Kórházi Főigazgatóság, az Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság, valamint a Magyar Állam többségi befolyása alatt álló, egészségügyi szolgáltatási tevékenységet végző gazdasági társaságok,
+
+b) a Magyar Állam többségi befolyása alatt álló laboratóriumi, mikrobiológiai, patológiai, képalkotó diagnosztikai tevékenységet végző gazdasági társaságok,
+
+c) a Szociális és Gyermekvédelmi Főigazgatóság, illetve az általa fenntartott, a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti szakosított ellátást nyújtó szociális intézmények, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti szakellátást nyújtó gyermekvédelmi intézmények, valamint a javítóintézetek és
+
+d) a központosított közbeszerzési rendszerbe önként csatlakozó, az a)–c) pont hatálya alá nem tartozó intézmények
+
+kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pont 8.1. és 8.2. alpontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátó intézmények kötelesek e rendelet szerint eljárni.
+
+(2e)[^8] Az intézmények nem kötelesek e rendelet szabályai szerint beszerezni azokat a gyógyszereket és orvostechnikai eszközöket, amelyeket az intézeti gyógyszertár közvetlen lakossági gyógyszerellátás keretében szolgáltat ki.
+
+(2f)[^9] A (2d) bekezdésben foglaltaktól eltérően a Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 8. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 8. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(2g)[^10] A Magyar Honvédség Egészségügyi Központ az 1. számú melléklet 7. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni a nem az Alapból finanszírozott ellátásokhoz történő beszerzéseire, de az 1. számú melléklet 7. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(2h)[^11] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet az 1. számú melléklet 9. pontja szerinti beszerzése során e rendeletet nem köteles alkalmazni, de az 1. számú melléklet 9. pontjában megjelölt szolgáltatások központosított közbeszerzéséhez a 4–6. §-ban foglaltak szerint önként csatlakozhat.
+
+(2i)[^12] A (2d) bekezdés a)–b) pontjában szereplő szervezetek beszerzési igényeit az Országos Kórházi Főigazgatóság hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
+
+(2j)[^13] az egyházi jogi személy által fenntartott egészségügyi szolgáltató beszerzési igényeit a fenntartó hagyja jóvá. Az igények bejelentését a 17. §-ban meghatározottak szerint kell teljesíteni.
+
+(2k)[^14] Nem alkalmazható ez a rendelet azon gyógyszerekre és orvostechnikai eszközökre, amelyek beszerzése során a gyógyszerek és orvostechnikai eszközök közbeszerzésének sajátos szabályairól szóló kormányrendelet szerint a Nemzeti Egészségbiztosítási Alapkezelő jár el.
+
+(2l)[^15] A Magyar Honvédség Egészségügyi Központ az Egészségbiztosítási Alapból finanszírozott, az 1. számú melléklet 7. és 8. pontja szerinti, valamint a központosított közbeszerzéshez önként csatlakozóként megfogalmazott beszerzési igényét a központi beszerző szervezet részére közvetlenül küldi meg.
+
+(2m)[^16] Az 1. számú melléklet 8. pont 8.3–8.5. alpontjában meghatározott szolgáltatások beszerzése során az állami, Egészségbiztosítási Alapból finanszírozott és az Országos Kórházi Főigazgatóság fenntartása alá tartozó, aktív fekvőbeteg-ellátást nyújtó fővárosi és vármegyei költségvetési intézmények e rendelet előírásai szerint kötelesek eljárni.
+
+(2n)[^17] Nem kell alkalmazni e rendelet előírásait a Földmegfigyelési Információs Rendszerről szóló törvény végrehajtásáról és a kereskedelmi űrfelvétel beszerzések központosított közbeszerzési rendszeréről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 769/2021. (XII. 23.) Korm. rendelet szerinti beszerzések tekintetében.
+
+(3)[^18] A központosított közbeszerzési rendszerhez önként csatlakozó, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: közbeszerzési törvény) hatálya alá tartozó szervezetek a csatlakozás által érintett közbeszerzéseik megvalósítása során e rendelet előírásai szerint kötelesek eljárni.
+
+(4)[^19] A központosított közbeszerzési rendszerbe regisztrált szervezetek jogaik gyakorlása, kötelezettségeik teljesítése során e rendelet előírásai szerint kötelesek eljárni.
+
+#### 2. §
+
+(1)[^20] A központosított közbeszerzések hatálya alá tartozó kiemelt termékek felsorolását az 1. számú melléklet tartalmazza.
+
+(2)[^21] Nincs helye az e rendelet szerinti beszerzésnek a DKÜ rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetében
+
+a) a DKÜ rendelet 9. §-a szerinti esetben a DKÜ rendelet 9. § (4) bekezdése szerinti „megfelelő” minősítés, illetve
+
+b) a DKÜ rendelet 10. §-a és 11. §-a szerinti esetben a DKÜ rendelet 12. § (4) bekezdés a) vagy b) pontja szerinti jóváhagyás
+
+hiányában.
+
+(3)[^22] Nincs helye az e rendelet szerinti beszerzésnek a VBÜ rendelet 10. § (1) bekezdés b) pontja szerinti beszerzések esetében
+
+a) a VBÜ rendelet 9. § (8) bekezdés a) pontjában meghatározott jóváhagyás, valamint
+
+b) a VBÜ rendelet 9. § (8) bekezdés b) pontjában meghatározott – a VBÜ rendelet 9. § (11) bekezdése szerinti beszámolót követő – feltételes jóváhagyás
+
+hiányában.
+
+#### 2/A. §[^23]
+
+E rendelet előírásait nem kell alkalmazni az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSZ) 346. cikke, és erre tekintettel külön jogszabály alapján beszerzésre kerülő szolgáltatás és áru beszerzésekor. Ilyen esetben – az 1. számú mellékletben meghatározott – kiemelt termékek beszerzésére az EUMSZ 346. cikke alkalmazhatóságáról rendelkező külön jogszabályban meghatározott egyedi kormánydöntés szerint kell eljárni.
+
+#### 2/B. §[^24]
+
+(1) A központi beszerző szervezet a gyógyszer beszerzésére irányuló közbeszerzési eljárások előkészítése és lefolytatása során az Országos Gyógyszerterápiás Tanáccsal (a továbbiakban: Tanács) együttműködik.
+
+(2) A gyógyszer beszerzésére irányuló közbeszerzési eljárás előkészítésekor a Tanács által kialakított, az intézmények által felhasznált készítmények alaplistája, amely hatóanyagot vagy hatóanyagcsoportot, gyógyszerformát és hatáserősséget tartalmaz (a továbbiakban: országos kórházi gyógyszer-alaplista) figyelembevételével történik a közbeszerzés tárgyának meghatározása. A központi beszerző szervezet a közbeszerzés tárgyának meghatározása során figyelembe veszi, hogy az országos kórházi gyógyszer-alaplistán szereplő mely hatóanyagok és az orvostechnikai eszközök országos alaplistáján szereplő mely generikus eszközcsoportok esetében valósítható meg az országos központi közbeszerzés az ellátásbiztonság garantálása mellett.
+
+(3) A Tanács az országos kórházi gyógyszer-alaplistát, az egészségügyi szakmai kollégiumnak az elnöke által kijelölt tagozatai az orvostechnikai eszközök országos alaplistáját évente legalább egyszer kötelesek felülvizsgálni és – ha szükséges – aktualizálni.
+
+### Értelmező rendelkezések
+
+#### 3. §
+
+E rendelet alkalmazásában
+
+a) *állami normatíva:* a kiemelt termékbeszerzések tekintetében a központi beszerző szervezet felügyeletét ellátó miniszter által meghatározott, a beszerzés szempontjából lényeges – a kiemelt termékre, az ajánlattevőre, valamint a szerződéses feltételekre vonatkozó – műszaki, gazdasági és minőségi követelményeknek a központi beszerző szervezet által alkalmazott osztályozási hierarchiához illeszkedő csoportja;
+
+b)[^26]
+
+c)[^27] *intézmény:* a központosított közbeszerzési rendszer hatálya alá tartozó, valamint a központosított közbeszerzési rendszerhez önként csatlakozó, kiemelt termékbeszerzést megvalósító szervezet, valamint a keretmegállapodás, keretszerződés és a dinamikus beszerzési rendszer második részének ajánlatkérője;
+
+d)[^28] *keretszerződés:* a közbeszerzési törvény 104–105. §-ában meghatározott olyan keretmegállapodás, amely az annak alapján adott közbeszerzési eljárás megvalósítására irányuló szerződés(ek) minden feltételét tartalmazza.
+
+e) *kiemelt termék:* az intézmény beszerzései között általánosan, illetve időszakosan visszatérő módon szereplő, azonos felhasználási célú és azonos műszaki, gazdasági vagy egyéb jellemzőkkel bíró termékeknek és szolgáltatásoknak a központi beszerző szervezet által alkalmazott osztályozási hierarchia meghatározott szintjén elhelyezkedő csoportja;
+
+f)[^29] *központosított közbeszerzési díj:* a központi beszerző szervezet részére a 11. § (3) bekezdése alapján ellátott tevékenységért az intézmények által fizetendő ellenérték;
+
+g)[^30] *központosított közbeszerzési portál és adatbázis:* a központosított közbeszerzési rendszer részét képező, a központi beszerző szervezet által a központi beszerzési rendszer működtetése érdekében kezelt adatokat tartalmazó adatbázis és az azt megjelenítő webes alkalmazások, amelyek elérési útvonala és címe: ; http://www.kozbeszerzes.gov.hu;
+
+h)[^31] *szállító:* az az ajánlattevő, aki a központosított közbeszerzési rendszer keretén belül lefolytatott eljárás eredményeképpen egyedi szerződést, keretszerződést, keretmegállapodást köt, vagy a központi beszerző szervezet által működtetett dinamikus beszerzési rendszerhez csatlakozik;
+
+i)[^32] *fertőtlenítőszer:* a biocid termékek forgalmazásáról és felhasználásáról szóló 2012. május 22-i 528/2012/EU európai parlamenti és tanácsi rendeletben meghatározott termékek;
+
+j)[^33] *gyógyszer:* az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 1. pontja szerinti anyag;
+
+k)[^34] *orvostechnikai eszköz:* az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz, valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott eszköz.
+
+### Önként csatlakozás
+
+#### 4. §[^35]
+
+(1) A központi beszerző szervezet által kezelt központosított közbeszerzési rendszerbe történő regisztrációt bármely, az 1. § (3) bekezdése szerinti szervezet kezdeményezheti a központi beszerző szervezetnél.
+
+(2) A regisztrációt a 16. § (1) bekezdésében meghatározott módon lehet megtenni.
+
+#### 5. §[^36]
+
+(1)[^37] A központosított közbeszerzési rendszer szolgáltatásaihoz történő csatlakozás a regisztráció központi beszerző szervezet által történt visszaigazolását követően elektronikusan lehetséges.
+
+(2)[^38] A regisztráció visszaigazolását követően az önként csatlakozott szervezet – a központi beszerző szervezet által jóváhagyott – igénybejelentése alapján jogosult a központosított közbeszerzési rendszer szolgáltatásainak igénybevételére.
+
+(3)[^39] Az önként csatlakozott szervezetek igénybejelentésének jóváhagyása során a központi beszerző szervezet köteles figyelemmel lenni arra, hogy a központosított közbeszerzésre kötelezett intézmények folyamatos ellátottsága a keretmegállapodások és keretszerződések alapján biztosított legyen. Ennek érdekében elutasíthatja a beszerzési igényt abban az esetben, ha az igénybejelentéssel érintett keretmegállapodásban vagy keretszerződésben meghatározott mennyiség nyolcvan százaléka teljesült, továbbá elutasíthatja, ha a bejelentett igény jóváhagyása veszélyeztetné az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek igényeinek kielégítését. A központi beszerző szervezet a bejelentett igény elutasítását indokolni köteles.
+
+(4)[^40] Az önként csatlakozott szervezetet – a központosított közbeszerzési rendszerben a csatlakozással érintett beszerzése esetén – megilletik mindazon jogosultságok és terhelik mindazon kötelezettségek – kivéve a 17. §-ban meghatározott kötelezettségeket –, amelyeket e rendelet határoz meg az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek részére.
+
+#### 6. §[^41]
+
+A központi beszerző szervezet az önkéntes csatlakozásokkal kapcsolatos kötelezettségek megfelelő teljesítése érdekében a központosított közbeszerzési portálon nyújt tájékoztatást.
+
+### A saját hatáskörben megvalósított beszerzés
+
+#### 7. §
+
+(1)[^42] Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek a kiemelt termékek közbeszerzését a közbeszerzési törvény szabályaival összhangban – a központi beszerző szervezet jóváhagyását követően – saját hatáskörben is megvalósíthatja, ha
+
+a)[^43] a működéshez, a fenntartáshoz szükséges kiemelt termékbeszerzés megvalósítása előre nem látható okból – amely nem eredhet a szervezet mulasztásából – rendkívül sürgőssé válik, és a hatályos keretszerződés, keretmegállapodás vagy dinamikus beszerzési rendszer igénybevételével a közbeszerzés határidőre nem lenne megvalósítható; vagy
+
+b)[^44] a kiemelt termékbeszerzés vonatkozásában nincs hatályos keretszerződés, keretmegállapodás vagy dinamikus beszerzési rendszer; vagy
+
+c)[^45] lehetősége van más intézmény készletének átvételére, és az megfelel az állami normatíváknak;
+
+d) a keretszerződésben meghatározott és az egyéb (pl. azonos szolgáltatási) feltételek tekintetében is mindenben megfelelő kiemelt terméket a keretszerződés szerinti árnál alacsonyabb áron tud beszerezni.
+
+(1a)[^46] Az 1. számú melléklet 5. pont 5.1. alpontja hatálya alá tartozó szállodai szállásszolgáltatás vagy személyszállításhoz kapcsolódó menetjegyek beszerzése esetén az 1. § (1) bekezdése szerinti szervezet a központi beszerző szervezet előzetes jóváhagyása nélkül jogosult e szolgáltatások saját hatáskörben történő beszerzésére, ha ezeket az igényeinek mindenben megfelelő feltételekkel a keretszerződés útján történő beszerzéshez képest alacsonyabb áron tudja beszerezni. A beszerzésről a beszerzést megvalósító szervezet a központi beszerző szervezetet a beszerzést követő tíz munkanapon belül tájékoztatja.
+
+(2) Az intézmények az (1) bekezdésben foglalt körülmények mérlegelésekor a legnagyobb gondossággal kötelesek eljárni. Az (1) bekezdés alkalmazása nem eredményezheti a központosított közbeszerzési rendszer keretén belül történő közbeszerzés indokolatlan mellőzését.
+
+(3)[^47] Az (1) bekezdés b) pontjában meghatározott saját hatáskörben történő beszerzés feltétele, hogy az intézmény a beszerzési igényét előzetesen, a 17. §-ban foglalt adatszolgáltatást teljesítve a központosított közbeszerzési portálon elektronikus úton bejelentette, valamint a központi beszerző szervezet a saját hatáskörű beszerzést a központosított közbeszerzési portálon jóváhagyta.
+
+(4)[^48] Az intézmény köteles a saját hatáskörben megvalósított beszerzés eredményeként megkötött szerződés alapadatait (szerződő felek megnevezését, a szerződés tárgyát, mennyiségét, az ellenszolgáltatás mértékét, a teljesítés határidejét, a szerződés tárgyára vonatkozó műszaki, minőségi feltételeket és a szerződéskötés idejét, a szerződés időtartamát), hivatkozva az előzetes beszerzési igényre és a saját hatáskörű beszerzést megalapozó körülményekre, valamint a szerződés teljesítésének dokumentumait a központosított közbeszerzési portálon elektronikus úton feltölteni.
+
+#### 8. §
+
+(1)[^49] Ha a saját hatáskörben megvalósítani kívánt közbeszerzés becsült értéke a közbeszerzési eljárás értékhatárát eléri, az intézmény a saját hatáskörben megvalósítani kívánt közbeszerzés körülményeiről a közbeszerzési eljárás megkezdése előtt nyolc munkanappal a központi beszerző szervezetet – a saját hatáskörben tervezett közbeszerzés eljárási hirdetményének vagy ajánlattételi felhívásának megküldésével – írásban tájékoztatni köteles.
+
+(2)[^50] Ha a saját hatáskörben megvalósítani kívánt közbeszerzés rendelet szerinti feltételeinek fennállása a bejelentésből nem állapítható meg, a központi beszerző szervezet a bejelentés kézhezvételétől számított nyolc munkanapon belül az intézményt további adatközlésre szólíthatja fel.
+
+(3)[^51] Az intézmény a saját hatáskörben megvalósítani kívánt közbeszerzés becsült értékének kiszámítása során köteles figyelembe venni a közbeszerzési törvény 16. § (3) bekezdésében és a 19. § (2) és (3) bekezdésében meghatározott feltételeket és a beszerzések értékét így megállapítani, függetlenül attól, hogy azokat a központosított közbeszerzési rendszer keretében vagy saját hatáskörben szerzi be.
+
+(4)[^52] A 7. § (1) bekezdésének b) pontjában szabályozott saját hatáskörben történő beszerzés során kötött szerződésben az intézmény szerződéses kötelezettséget kizárólag a központi beszerző szervezet által a kiemelt termék vonatkozásában megkötendő keretszerződés vagy keretmegállapodás hatálybalépésének időpontjáig vállalhat. Az intézménynek a szerződés időbeli hatályát erre tekintettel kell megállapítania.
+
+(5)[^53]
+
+#### 9. §
+
+Az állami normatívákat a saját hatáskörben megvalósított közbeszerzések során is érvényesítenie kell az intézményeknek.
+
+#### 10. §[^54]
+
+A 7–9. § megsértése esetén a központi beszerző szervezet – az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontjában meghatározott szervezetek vonatkozásában – a közbeszerzési törvény szerinti jogorvoslati eljárás kezdeményezésére jogosult.
+
+## II. Fejezet — A KÖZPONTOSÍTOTT KÖZBESZERZÉSI RENDSZER
+
+### A központi beszerző szervezet
+
+#### 11. §
+
+(1)[^55] Az általános hatáskörrel eljáró központi beszerző szervezet a Közbeszerzési és Ellátási Főigazgatóság.
+
+(2)[^56] A központi beszerző szervezet mint a keretmegállapodás, keretszerződés megkötésére és a dinamikus beszerzési rendszer működtetésére irányuló központosított közbeszerzési eljárás első részének ajánlatkérője ellátja a központosított közbeszerzési rendszer működtetésével kapcsolatos feladatokat, valamint lebonyolítja a központosított közbeszerzési rendszer keretén belül megvalósítandó közbeszerzéseket.
+
+(3)[^57] A központi beszerző szervezet a (2) bekezdés szerinti tevékenysége körében különösen az alábbi feladatokat látja el:
+
+a) a mindenkor hatályos állami normatíváknak megfelelő rendszerben az intézmények által elektronikusan, a központosított közbeszerzési portálon keresztül szolgáltatott adatok alapján összesíti és adatbázisba rendszerezi az igénybejelentéseket;
+
+b) az igénybejelentésekre vonatkozó adatbázist az állami normatíva-rendszer változásaival összhangban folyamatosan frissíti, ennek figyelembevételével megtervezi és előkészíti a központosított közbeszerzési rendszer keretén belül megvalósítandó közbeszerzéseket és a lefolytatandó közbeszerzési eljárásokat;
+
+c) előkészíti, karbantartja, koordinálja és a központosított közbeszerzési portálon közzéteszi a központosított közbeszerzési rendszer hatálya alá tartozó kiemelt termékekre vonatkozó állami normatívákat;
+
+d)[^58] a központosított közbeszerzési rendszer keretén belül lefolytatott közbeszerzési eljárások során – amennyiben rendelkezésre áll – érvényesíti az állami normatívákat, az állami normatíváktól való eltérést köteles jelezni az eljárást megindító hirdetményben;
+
+e) lefolytatja a központosított közbeszerzési rendszer hatálya alá tartozó kiemelt termékekre irányuló közbeszerzési eljárásokat;
+
+f) kezeli és frissíti a központosított közbeszerzési adatbázisból történő lekérdezéseket;
+
+g) működteti a központosított közbeszerzési portált, azon közzéteszi a központosított közbeszerzési rendszer használata során teljesítendő adatszolgáltatás adatlapjait és mintáit;
+
+h) a központosított közbeszerzési rendszert érintő, az adatszolgáltatási és egyéb kötelezettségek teljesítéséhez szükséges adatokat a központosított közbeszerzési portálon folyamatosan közzéteszi;
+
+i) együttműködik a központosított közbeszerzési rendszer keretében feladatot ellátó egyéb szervezetekkel, valamint a kötelezettségvállalásokat nyilvántartó államháztartási szervekkel;
+
+j) az intézményi adatszolgáltatás alapján figyelemmel kíséri a megrendelések teljesítését;
+
+k) szervezi a központosított közbeszerzési rendszerrel kapcsolatos oktatási feladatokat;
+
+l)[^59]
+
+m)[^60] a központosított közbeszerzési eljárások eredményeként létrejött keretszerződések és keretmegállapodások hatályos szövegét, valamint a dinamikus beszerzési rendszer adatait közzéteszi a központosított közbeszerzési portálon;
+
+n) ellátja mindazon egyéb feladatot, melyet jogszabály a központosított közbeszerzési rendszer működtetésével kapcsolatban a hatáskörébe utal;
+
+o)[^61] a központi beszerző szervezet e rendelet szerinti feladataival összefüggésben a közbeszerzésekért felelős miniszter tevékenységét segítő minisztérium (a továbbiakban: minisztérium) részére, erre irányuló kérelem alapján haladéktalanul adatot szolgáltat.
+
+#### 12. §
+
+A központi beszerző szervezet által a 11. § (3) bekezdésében ellátott feladatokért az intézmény a központi beszerző szervezet részére központosított közbeszerzési díjat köteles fizetni. A központosított közbeszerzési díj kizárólag a 11. § (3) bekezdése szerinti feladatok ellátásával kapcsolatban ténylegesen felmerült költségek mértékéig terjedhet. A központosított közbeszerzési díj mértéke a központosított közbeszerzések keretében megvalósított közbeszerzések áfa nélkül számított értékének legfeljebb 2%-a.
+
+#### 13. §
+
+(1)[^62] A központi beszerző szervezet a központosított közbeszerzési rendszer hatálya alá nem tartozó szervezetek részére, valamint a központosított közbeszerzési rendszer hatálya alá nem tartozó közbeszerzések tekintetében is jogosult a 11. § (3) bekezdése szerinti tevékenységek végzésére.
+
+(2) Az (1) bekezdés szerinti tevékenységet a központi beszerző szervezet a szolgáltatást igénybe vevő szervezettel kötött egyedi szerződés alapján végzi. A központi beszerző szervezetet e tevékenységéért a 12. §-ban meghatározott díj illeti meg.
+
+#### 14. §[^63]
+
+Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontjában, a 4. § (1) bekezdésében és a 13. § (1) bekezdésében meghatározott intézmény a központosított közbeszerzési díjat a központi beszerző szervezet részére közvetlenül vagy közvetve – a szállítón keresztül – fizeti meg.
+
+### A központi beszerzési rendszerhez történő kapcsolódás
+
+#### 15. §
+
+(1) Az intézmények a központosított közbeszerzési rendszer hatálya alá tartozó kiemelt termékbeszerzéseiket a jóváhagyott vagy módosított költségvetési támogatási, valamint egyéb bevételi előirányzataikkal, illetve azok teljesülésével összhangban valósítják meg.
+
+(2)[^64] Az intézmények a központosított közbeszerzési rendszer használata folyamán végig, de különösen az igényfelmérések, igénybejelentések és a megrendelések teljesítése kapcsán kötelesek adatszolgáltatási és egyéb kötelezettségeiket határidőben teljesíteni, annak érdekében, hogy a központosított közbeszerzési rendszer működtetésével elérni kívánt gazdasági célok megvalósuljanak.
+
+#### 16. §[^65]
+
+(1)[^66] Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek a központosított közbeszerzési portálon elektronikusan kötelesek a központosított közbeszerzési rendszerbe regisztrálni. A központi beszerző szervezet a regisztrációt nyolc munkanapon belül visszaigazolja.
+
+(2) Az intézmények a központosított közbeszerzési portálon elektronikusan nyilvántartott intézményi és felhasználói adataikban bekövetkezett változásokat öt munkanapon belül kötelesek az (1) bekezdésben meghatározott módon módosítani.
+
+(3)[^67] Az intézmények (2) bekezdés szerinti adataikat a tárgyév január 31. napjáig változás hiányában is kötelesek évente felülvizsgálni, és a változásokat a központosított közbeszerzési portálon rögzíteni.
+
+#### 17. §[^68]
+
+(1)[^69] Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek a központosított közbeszerzési rendszer hatálya alá tartozó kiemelt termékek közbeszerzésére vonatkozó beszerzési igényeiket – amennyiben a központi beszerző szervezet más határidőt nem állapít meg – háromhavonta előre, rendkívüli sürgősség esetén haladéktalanul, de legkésőbb a beszerzés megkezdésekor kötelesek bejelenteni a központosított közbeszerzési portálon. A beszerzési igényekben feltüntetett tervezett beszerzések vásárlási kötelezettséget nem keletkeztetnek.
+
+(2)[^70] Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek a beszerzési igényre vonatkozó adatok közlése mellett kötelesek a közbeszerzési törvény szerinti éves összesített közbeszerzési tervet a tárgyév május 15. napjáig a központi beszerző szervezet központosított közbeszerzési portálján elektronikusan rögzíteni.
+
+(3)[^71] Az 1. § (1) bekezdése és a (2d) bekezdés a)–c) pontja szerinti szervezetek az éves összesített közbeszerzési tervet a kiemelt termékek közbeszerzésének vonatkozásában a központi beszerző szervezet által közzétett formában, összhangban a központosított közbeszerzési portálon közzétett hierarchikus beszerzésosztályozási rendszerrel kötelesek elkészíteni. A közbeszerzési tervben bekövetkezett változásról az intézmény öt munkanapon belül köteles a központi beszerző szervezetet elektronikusan tájékoztatni, a központi beszerző szervezet által a központosított közbeszerzési portálon közzétett formában.
+
+#### 18. §[^72]
+
+Az intézmény köteles a megrendelések teljesítéséről, valamint annak pontos adatairól és minősítéséről a központi beszerző szervezetet a központosított közbeszerzési portálon keresztül tájékoztatni. Az intézmény köteles az adott beszerzésének státuszát a központosított közbeszerzési portálon folyamatosan figyelni és rögzíteni.
+
+#### 18/A. §[^73]
+
+A 15. § (2) bekezdése, valamint a 16–18. § szerinti kötelezettségek rendszeres vagy ismételt megsértése esetén a központi beszerző szervezet jelzése alapján a minisztérium a regisztrációért, az igénybejelentésért, valamint az adatszolgáltatásért felelős személy (személyek) munkajogi és kártérítési felelősségre vonását kezdeményezheti a munkáltatói jogkör gyakorlójánál.
+
+#### 19. §
+
+(1)[^74] Az ajánlattevők, valamint a szállítók a központosított közbeszerzési portálon elektronikusan kötelesek a központosított közbeszerzési rendszerbe regisztrálni. A központi beszerző szervezet a regisztrációt elektronikusan visszaigazolja.
+
+(2)[^75] Az ajánlattevők, illetőleg a szállítók a központosított közbeszerzési portálon nyilvántartott adataikban bekövetkezett változásokat öt munkanapon belül kötelesek a központi beszerző szervezet részére az (1) bekezdésben meghatározott módon bejelenteni.
+
+(3) A szállítók kötelesek a megrendelésekkel kapcsolatban a központi beszerző szervezet részére adatszolgáltatást teljesíteni, a központi beszerző szervezet által előírt módon.
+
+(4) A központi beszerző szervezet az e rendelet szerinti intézményi adatszolgáltatási kötelezettség ellenőrzése érdekében a teljesítésekkel érintett szállítóktól adatszolgáltatást kérhet.
+
+### A kiemelt termékek
+
+#### 20. §
+
+(1)[^76] A kiemelt termékek körére, valamint azoknak a központosított közbeszerzési rendszer keretében történő közbeszerzés elrendelésére az érintett ágazat szerint illetékes miniszter tehet javaslatot a központi beszerző szervezet felügyeletét ellátó miniszter részére.
+
+(2)[^77]
+
+(3)[^78] A központi beszerző szervezet felügyeletét ellátó miniszter az (1) bekezdésben foglaltak tekintetében önállóan is rendelkezik javaslattételi joggal, azonban az egészségügyért felelős termékkör vonatkozásában a javaslattételhez az egészségügyért felelős miniszter előzetes egyetértése szükséges.
+
+(4) Az (1)–(2) bekezdés szerinti javaslatok alapján a központi beszerző szervezet felügyeletét ellátó miniszter készít előterjesztést a Kormány részére a kiemelt termékek körét érintően.
+
+### Az állami normatívák
+
+#### 22. §
+
+(1)[^80] A kiemelt termékek közbeszerzésére vonatkozó állami normatívák tartalmának kialakítása során érvényesítendő kötelező elemeket és szempontokat – az állami normatívák elkészítésének, kialakításának és karbantartásának módszertanát – a központi beszerző szervezet felügyeletét ellátó miniszter normatív utasításban állapítja meg és teszi közzé a központosított közbeszerzési portálon.
+
+(2)[^81] Az állami normatíváknak egyértelmű megkülönböztetésre alkalmas módon tartalmazniuk kell az adott kiemelt termék közbeszerzésére vonatkozó alapvető funkcionális és műszaki paramétereket, továbbá a figyelembe veendő gazdasági és egyéb (pl. környezetvédelmi, üzemeltetési, támogatási) szempontokat, speciális előírásokat, valamint a lényeges szerződési feltételeket.
+
+(3) Az esélyegyenlőség és egyenlő elbánás, valamint a nemzeti elbánás alapelveinek az állami normatívák, valamint az ezek tartalma alapjául szolgáló kötelező elemek és szempontok meghatározása során is érvényesülniük kell. Az állami normatívák nem határozhatók meg olyan módon, hogy egyes ajánlattevőket az ajánlattétel lehetőségéből indokolatlanul kizárjanak, vagy más módon indokolatlanul hátrányos megkülönböztetésüket eredményezzék.
+
+(4)[^82] A kiemelt termékbeszerzésekre vonatkozó állami normatívákat a központi beszerző szervezet felügyeletét ellátó miniszter normatív utasításban állapítja meg és teszi közzé a központosított közbeszerzési portálon.
+
+### A központi beszerző szervezet által kezelt adatok köre
+
+#### 23. §
+
+(1)[^83] A központi beszerző szervezet a központosított közbeszerzési rendszer működtetése körében a központosított közbeszerzési rendszer elemeit adatbázisba foglalja, és azt folyamatosan karbantartja, különösen az alábbiakat:
+
+a)[^84] az intézmények adatait;
+
+b)[^85] a szállítók adatait;
+
+c)[^86] a keretszerződések, a keretmegállapodások, az egyedi szerződések, valamint a dinamikus beszerzési rendszer adatait;
+
+d) a szállítók időszaki adatközléséből keletkező adatokat;
+
+e) a szállítók eseti adatközléséből keletkező adatokat;
+
+f) egyéb, a központi beszerzési rendszer részét képező adatokat.
+
+(2)[^87]
+
+(3)[^88] A központosított közbeszerzési rendszert használó vagy ahhoz egyéb okból csatlakozó szervezetek az e rendelet szerinti adatszolgáltatási kötelezettségüket határidőben, a központi beszerző szervezet által előírt módon kötelesek teljesíteni.
+
+(4) A (3) bekezdés szerinti kötelezettség teljesítése érdekében a központi beszerző szervezet köteles az adatszolgáltatás határidejét és módját, valamint az annak során alkalmazandó mintákat kidolgozni és ezeket közzétenni.
+
+(5) A központi beszerző szervezet köteles a központosított közbeszerzési rendszerrel, különösen a keretszerződésekkel és a teljesítésekkel kapcsolatos adatokat közzétenni.
+
+### A keretszerződés, a keretmegállapodás és a szerződés
+
+#### 24. §[^89]
+
+(1) A központosított közbeszerzési eljárás eredményeképpen keretmegállapodás vagy keretszerződés [közbeszerzési törvény 104–105. §], a keretmegállapodás vagy keretszerződés alapján egyedi szerződés jön létre.
+
+(2)[^90] A keretmegállapodást vagy keretszerződést a központi beszerző szervezet köti a 26. § (1) bekezdése szerint lefolytatott közbeszerzési eljárás eredményeként.
+
+(3)[^91] A központosított közbeszerzési eljárás eredményeképpen keretszerződés vagy keretmegállapodás legfeljebb 4 évre köthető, kivéve a kellően – különösen a keretmegállapodás tárgyára tekintettel – indokolt kivételes eseteket.
+
+(4) A keretszerződésnek legalább a következőket kell tartalmaznia:
+
+a) a szerződő felek megnevezését,
+
+b) a keretszerződés előzményeinek (lefolytatott közbeszerzési eljárás), a közbeszerzés tárgyának, továbbá mennyiségének a közbeszerzési törvény 58. §-a szerinti meghatározását,
+
+c) a keretszerződés tárgyára vonatkozó minőségi követelményeket,
+
+d) a szerződés hatályát,
+
+e) az ellenszolgáltatás mértékét, valamint a központosított közbeszerzési díj mértékét (számításának és megfizetésének módját),
+
+f) arra vonatkozó kikötést, hogy a keretszerződés alapján az intézmény egyoldalú jognyilatkozattal (a továbbiakban: megrendeléssel) jogosult a közbeszerzést megvalósítani, illetve a közbeszerzési törvény 105. § (1) bekezdés b) pontja esetében az írásbeli konzultáció lehetőségére és feltételeire, vagy a 105. § (2) bekezdés b) pontja esetében a verseny újra megnyitásának lehetőségére és feltételeire való utalást,
+
+g) a megrendelések kezdeményezésével, ezek visszaigazolásával, valamint a teljesítésekkel kapcsolatos határidőt és a teljesítésekre vonatkozó (szállítási és pénzügyi) részletes feltételeket,
+
+h) a szerződésszegésért való felelősség szabályait,
+
+i)[^92] a keretszerződéssel és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket,
+
+j) annak rögzítését, hogy az intézmény előleget nem adhat.
+
+(5) A keretmegállapodásnak legalább a következőket kell tartalmaznia:
+
+a) a szerződő felek megnevezését,
+
+b) a keretmegállapodás előzményeinek, a közbeszerzés tárgyának, továbbá mennyiségének a közbeszerzési törvény 58. §-a szerinti meghatározását,
+
+c) a keretmegállapodás tárgyára vonatkozó minőségi követelményeket,
+
+d) a keretmegállapodás hatályát,
+
+e) az ellenszolgáltatás és a központosított közbeszerzési díj mértékét, számításának és megfizetésének módját,
+
+f) a szerződésszegésért való felelősség szabályait,
+
+g) a keretmegállapodáson alapuló egyedi szerződés megkötésére irányuló kiválasztási eljárás során alkalmazandó – a közbeszerzési törvény 105. § (4) bekezdése alapján meghatározott – értékelési szempontokat,
+
+h)[^93] a keretmegállapodással és annak teljesítésével kapcsolatos adatszolgáltatási kötelezettségre vonatkozó, valamint az ennek végrehajtási módját szabályozó rendelkezéseket.
+
+i)[^94] a termékcsere lehetőségét és szabályait, összhangban a közbeszerzési törvény 141. § (4) bekezdés a) pontjával.
+
+### Elektronikus eszközök alkalmazása
+
+## III. Fejezet[^96] — ELJÁRÁSI SZABÁLYOK
+
+### Általános szabályok[^97]
+
+#### 26. §[^98]
+
+(1)[^99] A központi beszerző szervezet által a központosított közbeszerzési rendszer keretén belül lefolytatott közbeszerzési eljárás nyílt, meghívásos, tárgyalásos, keretmegállapodásos eljárás vagy versenypárbeszéd lehet, a központi beszerző szervezet továbbá dinamikus beszerzési rendszert működtethet, illetve elektronikus árlejtést és elektronikus katalógust alkalmazhat. Tárgyalásos eljárás és versenypárbeszéd a közbeszerzési törvényben meghatározott feltételek fennállása esetén alkalmazható.
+
+(2)[^100] A központi beszerző szervezet által lefolytatott versenypárbeszédre a közbeszerzési törvény 90–94. §-a, a keretmegállapodásos eljárásra a közbeszerzési törvény 104. és 105. §-a szerinti szabályokat, valamint az e rendeletben foglaltakat a jelen fejezet szerinti eltérésekkel kell alkalmazni.
+
+(3)[^101] Amennyiben a központi beszerző szervezet dinamikus beszerzési rendszert alkalmaz, az eljárása eredményeképpen egy vagy több ajánlattevővel keretmegállapodás köthető olyan időtartamra, amely nem eredményezi a dinamikus beszerzési rendszerben a verseny aránytalan korlátozását.
+
+(4)[^102] Amennyiben a központi beszerző szervezet eljárása eredményeképpen egy vagy több ajánlattevővel olyan keretmegállapodás jön létre, amely az adott közbeszerzés megvalósítására irányuló visszterhes szerződés(ek) minden feltételét nem, vagy azokat nem kötelező erővel tartalmazza, annak alapján – a közbeszerzési törvény 105. § (1) bekezdés c) pontja szerinti konzultáció vagy a közbeszerzési törvény 105. § (2) bekezdés c) pontja szerinti verseny újranyitás eredményeként – olyan keretszerződés vagy egyedi szerződés is köthető, amely alapján az adott közbeszerzés közvetlen megrendelés(ek) útján is megvalósítható, feltéve, hogy e keretszerződés vagy egyedi szerződés a közvetlen megrendelés(ek) eredményeképpen létrejövő visszterhes szerződés(ek) minden feltételét kötelező erővel tartalmazza.
+
+(5)[^103] A központi beszerző szervezet a keretmegállapodás, keretszerződés megkötésére és a dinamikus beszerzési rendszer felállítására irányuló központosított közbeszerzési eljárás első részének a közbeszerzési törvény 28. §-a szerint meghatározott becsült értékét (keretösszegét) jogosult egyedi döntéssel magasabb értéken is meghatározni.
+
+### A keretmegállapodásos eljárás részletes szabályai[^105]
+
+#### 27/A. §[^106]
+
+A keretmegállapodásos eljárás első részét, a dinamikus beszerzési rendszer alkalmazására irányuló eljárás részvételi szakaszát a központi beszerző szervezet bonyolítja le. Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, a központi beszerző szervezet a minisztériummal, irányító hatósággal együttműködést alakíthat ki annak érdekében, hogy – a támogatások által érintett beszerzési tárgyakra lefolytatott – keretmegállapodásos eljárásban a közbeszerzési dokumentumok minőségellenőrzésére és a közbeszerzési eljárások ellenőrzésére az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló, tárgyidőszakban hatályos jogszabályokban meghatározott eljárásrendet alkalmazzák.
+
+#### 27/B. §[^107]
+
+A keretmegállapodásos eljárás második részét lebonyolíthatja
+
+a) a központi beszerző szervezet, vagy
+
+b)[^108] önállóan az igényt bejelentő intézmény.
+
+#### 27/C. §[^109]
+
+A 27/B. § a) pontja esetén a központi beszerző szervezet az intézmények összesített, konkrét igénye alapján a közbeszerzési törvény szabályaival összhangban a közbeszerzési törvény 105. § (1) bekezdés a), b) és c) pontja vagy a 105. § (2) bekezdés a), b) és c) pontja szerint meghatározott eljárással bonyolítja le a keretmegállapodásos eljárás második részét, melynek eredményeképpen keretszerződést köt. Az intézmények beszerzési igényeiket a második rész lezárásaként megkötött keretszerződés terhére kibocsátott megrendeléssel elégíthetik ki. A keretszerződés tartalmi elemeit a 24. § (4) bekezdése tartalmazza.
+
+#### 28. §[^110]
+
+(1)[^111] A keretmegállapodásos eljárás 27/B. § b) pontja szerinti második részében az intézmény egyedi közbeszerzési eljárását a közbeszerzési törvény 104. és 105. §-a szerinti rendelkezéseknek megfelelően, a (2) bekezdésben foglalt eltérésekkel bonyolíthatja le. Ha a közbeszerzést az Európai Unió költségvetéséből támogatják, az intézmény köteles a közbeszerzési eljárást megindító felhívásban megjelölni a projektre vagy programra vonatkozó adatokat. A központi beszerző szervezet a keretmegállapodások hatálya alatt a keretmegállapodásos eljárás második részében indított eljárásokról szóló tájékoztatót tartalmazó hirdetményt a vonatkozó szabályozásnak megfelelően teszi közzé.
+
+(2)[^112] Az intézménynek a közbeszerzési törvény szabályaival összhangban, az elektronikus közbeszerzési rendszeren keresztül közzé kell tennie a keretmegállapodásos eljárás második részéhez kapcsolódó, jogszabályban meghatározott adatokat, dokumentumokat.
+
+(3)[^113]
+
+(4)[^114] A keretmegállapodásos eljárás második részének lezárásaként, az eljárás eredményeként megkötött szerződésnek a 24. § (4) bekezdés a), b), d) és e) pontjaiban meghatározott adattartalmát vagy az eljárás eredménytelenségéről szóló értesítést az intézmény a szerződés megkötésétől, valamint az eljárás eredménytelenségéről szóló döntéstől számított öt munkanapon belül köteles megküldeni a központi beszerző szervezetnek a központosított közbeszerzési portálon elektronikus úton. Az intézmény ugyanígy köteles eljárni a szerződés módosítása, illetve a szerződés teljesítése esetén.
+
+### A keretszerződés[^115]
+
+#### 29. §[^116]
+
+(1)[^117] A központi beszerző szervezet az összesített intézményi igények alapján a 24. §-ban megjelölt központosított közbeszerzési eljárások eredményeképpen keretszerződést is köthet. Az intézmények a keretszerződések terhére kibocsátott megrendelésekkel szerezhetik be a kiemelt termékeket, a közbeszerzési törvény 105. § (1) bekezdés a) pontjával, valamint a közbeszerzési törvény 105. § (2) bekezdés a) pontjával összhangban.
+
+(2)[^118] A közbeszerzés megvalósítása során az intézmény köteles érvényesíteni a keretszerződés feltételeit. A megrendelés nem lehet ellentétes a keretszerződéssel.
+
+(3)[^119] Azon közbeszerzésekre, amelyek megvalósulását az Európai Unióból származó forrásból támogatják, a központi beszerző szervezet a minisztériummal együttműködést alakíthat ki annak érdekében, hogy – a támogatások által érintett beszerzési tárgyakra lefolytatott – keretmegállapodásos eljárásban a közbeszerzési dokumentumok minőségellenőrzésére és a közbeszerzési eljárások ellenőrzésére az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló, tárgyidőszakban hatályos jogszabályokban meghatározott eljárásrendet alkalmazzák.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### Hatálybalépés
+
+#### 30. §
+
+(1) E rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azokra a közbeszerzésekre kell alkalmazni, amelyek esetében a hatálybalépést követően kerül sor a közbeszerzés megkezdésére.
+
+(2) Az e rendeletben meghatározott kötelezettségeket első alkalommal a rendelet hatálybalépését követő 90 napon belül kell teljesíteni.
+
+(3)[^120] E rendeletnek a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet módosításáról szóló 33/2012. (III. 7.) Korm. rendelettel (a továbbiakban: módosító rendelet)
+
+a) megállapított 1. § (1) és (3) bekezdését, 2. § (1) bekezdését, 14. §-át, 22. § (1) és (4) bekezdését, 24. § (4) bekezdés g) pontját, 27/A. §-át, 28. § (1) és (2) bekezdését, 29. § (3) bekezdését a módosító rendelet hatálybalépése[^121] után megkezdett közbeszerzésekre kell alkalmazni,
+
+b) módosított 1. § (2) bekezdését, 3. § g) pontját, 4. § (1) bekezdését, 7. § (1) bekezdését, 8. § (3) bekezdését, 10. §-át, 11. § (1) bekezdését, 11. § (3) bekezdés m) pontját, 17. § (1)–(2) bekezdését, 23. § (1) bekezdés a) pontját, 24. § (2) bekezdés bevezető részét, 24. § (2) bekezdés b) pont bb) alpontját, 24. § (3) bekezdését, 24. § (4) bekezdés b) pontját, 24. § (6) bekezdését, 26. § (1)–(2) bekezdését, 27/C. §-át, 28. § (3) bekezdését, 32. §-át, 1. és 4. számú mellékletét a módosító rendelet hatálybalépése[^122] után megkezdett közbeszerzésekre kell alkalmazni,
+
+c) hatályon kívül helyezett 3. § i) pontját, 11. § (3) bekezdés l) pontját, 20. § (2) bekezdését, 21. §-át, 25. §-át, 26. § (3) és (4) bekezdését, 27. §-át, 3. számú mellékletét a módosító rendelet hatálybalépése[^123] után megkezdett közbeszerzésekre nem kell alkalmazni.
+
+(4)[^124] E rendeletnek a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet módosításáról szóló 140/2013. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 5. § (3) bekezdését a Mód. R. hatálybalépésekor[^125] hatályos keretmegállapodások és keretszerződések esetében is alkalmazni kell.
+
+(5)[^126] E rendeletnek az egyes közbeszerzési tárgyú rendeletek módosításáról szóló 238/2013. (VI. 30.) Korm. rendelet (a továbbiakban: MódR.) 7. §-ában megállapított rendelkezéseit a MódR. hatálybalépését[^127] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+(6)[^128] E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek módosításáról szóló 323/2015. (X. 30.) Korm. rendelettel megállapított rendelkezéseit a módosító rendelet hatálybalépését[^129] követően megkezdett közbeszerzési eljárások esetében kell alkalmazni.
+
+(7)[^130]
+
+#### 31. §[^131]
+
+(1) A kormányzati informatikai beszerzésekkel kapcsolatos egyes kormányrendeletek módosításáról szóló 257/2019. (X. 30.) Korm. rendelet (a továbbiakban: MódR2.) hatálybalépésének[^132] napjától 2019. október 31-ig hatályos (a továbbiakban: 2019. október 31-ig hatályos) 1. számú melléklet 1–3. pontja szerinti beszerzési igény vagy a DKÜ rendelet szerinti kormányzati informatikai beszerzési igény kielégítésére alkalmas, e rendelet szerinti keretmegállapodás vagy más keret jellegű szerződés létrejöttére irányuló központosított közbeszerzési eljárás a MódR2. hatálybalépésétől nem indítható.
+
+(2) A MódR2. hatálybalépésének[^133] napján hatályban lévő, valamint a MódR2. hatálybalépésének napján folyamatban lévő központosított közbeszerzési eljárások eredményeként létrejövő, a 2019. október 31-ig hatályos 1. számú melléklet 1–3. pontja szerinti beszerzési igény kielégítésére alkalmas keretmegállapodások vagy más keret jellegű szerződések tekintetében – a DKÜ rendelet 30/A. § (1) bekezdés rendelkezései szerint – a Közbeszerzési és Ellátási Főigazgatóság helyébe jogutódként a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: DKÜ) lép.
+
+(3) A Közbeszerzési és Ellátási Főigazgatóság
+
+a) a DKÜ rendelet 30/A. § (1) bekezdés a) pontja szerinti keretmegállapodások vagy más keret jellegű szerződések esetében 2019. november 1-jéig,
+
+b) a DKÜ rendelet 30/A. § (1) bekezdés b) pontja szerinti keretmegállapodások vagy más keret jellegű szerződések esetében azok létrejöttével egy időben
+
+teljesíti a jogutódlással együtt járó kötelezettségeit, így különösen gondoskodik a keretmegállapodások vagy más keret jellegű szerződések DKÜ részére történő átadásáról, valamint – a DKÜ által meghatározottak szerinti módon – az azok alkalmazásához kapcsolódó dokumentumok, adatbázisok, adatállományok, kimutatások, elszámolások, továbbá a szerződéses mellékkötelezettségek pénzügyi biztosítékai és az azok fölötti rendelkezési jog teljes körű átadásáról.
+
+(4) E rendelet 2019. október 31-ig hatályos rendelkezéseit a DKÜ rendelet 30/A. § (1) bekezdése szerinti keretmegállapodások vagy más keret jellegű szerződések alkalmazásakor a DKÜ rendeletben foglaltakkal összhangban kell alkalmazni.
+
+#### 31/A. §[^134]
+
+(1) Az Állami Egészségügyi Ellátó Központról szóló 27/2015. (II. 25.) Korm. rendelet (a továbbiakban: ÁEEK rendelet) 3. § c) pontja és a fekvőbeteg szakellátást nyújtó intézmények részére történő gyógyszer-, orvostechnikai eszköz és fertőtlenítőszer beszerzések országos központosított rendszeréről szóló 46/2012. (III. 28.) Korm. rendelet 3. §-a szerinti központi beszerző szervi feladatok ellátása érdekében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) által az 1. számú melléklet 7. pontjában meghatározott kiemelt termékek vonatkozásában kötött keretmegállapodások vagy más keret jellegű szerződések tekintetében az ÁEEK jogutódja a Közbeszerzési és Ellátási Főigazgatóság.
+
+(2) Az (1) bekezdés szerinti jogutódlás időpontja 2020. május 1. napja.
+
+(3) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések az e rendeletben foglaltakkal való összhang megteremtéséhez szükséges mértékben módosulnak, illetve módosíthatók, és esetükben a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet előírásait nem kell alkalmazni.
+
+(4) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések a 24. § (1) bekezdése alapján kötött keretmegállapodásnak vagy más keret jellegű szerződésnek minősülnek.
+
+(5) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodásokban vagy más keret jellegű szerződésekben hivatkozott központosított közbeszerzési rendszer alatt a keretmegállapodások vagy más keret jellegű szerződések alkalmazása során a 3. § g) pontja szerinti központosított közbeszerzési portált kell érteni.
+
+(6) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződésekkel kapcsolatos adatszolgáltatásra a 15. § (2) bekezdése, valamint a 19. § (3) és (4) bekezdése alkalmazásával kerül sor.
+
+(7) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések alkalmazása során a szerződéses mellékkötelezettségek teljesítésére, illetve az azok pénzügyi biztosítékának nyújtására – a jogutódlás bekövetkeztekor hatályos keretmegállapodások vagy más keret jellegű szerződések – előírásai szerint kerül sor, azzal, hogy az azokkal kapcsolatos jogok és kötelezettségek a központi beszerző szervezetet illetik, illetve terhelik.
+
+(8) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések tekintetében a központi beszerző szervezet gondoskodik a keretmegállapodások vagy más keret jellegű szerződések módosításáról, ha az az e rendeletben foglaltakkal való összhang megteremtéséhez szükséges.
+
+#### 31/B. §[^135]
+
+Az intézmények az 1. számú melléklet 9. pontjában megjelölt kiemelt termékek beszerzésére megindított vagy 2020-ban indítani tervezett közbeszerzéseiket a 7–10. § szerinti saját hatáskörű beszerzésként 2020. május 31-ig kötelesek bejelenteni a központi beszerző szervezetnek.
+
+#### 31/C. §[^136]
+
+(1) Az ÁEEK által az egyes, egészségügyi beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 648/2020. (XII. 23.) Korm. rendelet 1. számú melléklet 7. és 8. pontjában meghatározott kiemelt termékek és szolgáltatások vonatkozásában kötött keretmegállapodások vagy más keret jellegű szerződések tekintetében az ÁEEK jogutódja a Közbeszerzési és Ellátási Főigazgatóság.
+
+(2) Az (1) bekezdés szerinti jogutódlás időpontja 2021. január 1. napja.
+
+(3) Az ÁEEK által az egyes, egészségügyi beszerzésekkel kapcsolatos kormányrendeletek módosításáról szóló 648/2020. (XII. 23.) Korm. rendelet hatálybalépésének[^137] napján folyamatban lévő közbeszerzési eljárások eredményeként létrejövő keretmegállapodások vagy más keret jellegű szerződések tekintetében, annak létrejöttének napján az ÁEEK helyébe jogutódként – e rendelet szerinti központi közbeszerző szervként – a Közbeszerzési és Ellátási Főigazgatóság lép.
+
+(4) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések az e rendeletben foglaltakkal való összhang megteremtéséhez szükséges mértékben módosíthatók.
+
+(5) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések a 24. § (1) bekezdése alapján kötött keretmegállapodásnak vagy más keret jellegű szerződésnek minősülnek.
+
+(6) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodásokban vagy más keret jellegű szerződésekben hivatkozott központosított közbeszerzési rendszer alatt a keretmegállapodások vagy más keret jellegű szerződések alkalmazása során a 3. § g) pontja szerinti központosított közbeszerzési portált kell érteni.
+
+(7) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződésekkel kapcsolatos adatszolgáltatásra a 15. § (2) bekezdése, valamint a 19. § (3) és (4) bekezdése alkalmazásával kerül sor.
+
+(8) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések alkalmazása során a szerződéses mellékkötelezettségek teljesítésére, illetve az azok pénzügyi biztosítékának nyújtására – a jogutódlás bekövetkeztekor hatályos keretmegállapodások vagy más keret jellegű szerződések – előírásai szerint kerül sor, azzal, hogy az azokkal kapcsolatos jogok és kötelezettségek a központi beszerző szervezetet illetik, illetve terhelik.
+
+(9) A jogutódlást követően az (1) bekezdés szerinti keretmegállapodások vagy más keret jellegű szerződések tekintetében a központi beszerző szervezet gondoskodik a keretmegállapodások vagy más keret jellegű szerződések módosításáról, ha az az e rendeletben foglaltakkal való összhang megteremtéséhez szükséges.
+
+### Az Európai Unió Jogának való megfelelés[^138]
+
+#### 32. §[^139]
+
+Ez a rendelet – a közbeszerzési törvénnyel együtt –
+
+a) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló, 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelvnek,
+
+b) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló, 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+## 1. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^140]
+
+**Az országosan kiemelt termékek jegyzéke**
+
+A termék megnevezése
+
+1\. Bútor (Irodabútor, egészségügyi bútor, oktatási bútor, kültéri bútor)
+
+1.1. Asztalok
+
+1.2. Szekrények, tároló bútorok
+
+1.3. Ülőbútorok
+
+1.4. Fekvőbútorok
+
+1.5. Bútorokhoz kapcsolódó szolgáltatások
+
+2\. Papíripari termékek és irodaszerek
+
+2.1. Papírok
+
+2.2. Papírtermékek
+
+2.3. Számítógép-kiírópapírok
+
+2.4. Irodaszerek és írószerek
+
+2.5. Papíripari termékekhez kapcsolódó szolgáltatások
+
+2.6. Belföldi újság és folyóiratok
+
+3\. Gépjárművek
+
+3.1. Személyszállító gépjárművek
+
+3.2. Haszongépjárművek
+
+3.3. Gépjármű-flottaüzemeltetési szolgáltatások
+
+3.4. Új gépjárművekhez kapcsolódó szolgáltatások
+
+3.5. Elektromos üzemű gépjárművek töltésére szolgáló berendezések
+
+3.6.[^141] Tűzoltó és egyéb katasztrófavédelmi járművek és azok javításához, szervizeléséhez, karbantartásához kapcsolódó szolgáltatások
+
+3.7.[^142] Megkülönböztető jelzést használó közúti személygépjárművek, a haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet 1. melléklet VI. Fejezetébe sorolható szárazföldi járművek és részegységeik kivételével.
+
+3.8.[^143] Elektromos üzemű gépjárművek
+
+4\. Gépjármű-üzemanyagok
+
+4.1. Gépjármű-üzemanyag tankautós kiszállítással (nagykereskedelem)
+
+4.2. Gépjármű-üzemanyag és üzemanyagkártya töltőállomási kiszolgálással (kiskereskedelem)
+
+5\. Utazásszervezések
+
+5.1. Nemzetközi utazásszervezések
+
+5.2.[^144] Külföldi Nyelvtanulási Program utazásszervezései
+
+6\. Elektronikus közbeszerzési szolgáltatások
+
+6.1. Elektronikus árlejtés szolgáltatás
+
+7.[^145] Egészségügyi termékek
+
+7.1. Orvostechnikai eszközök és az ezekhez kapcsolódó szolgáltatások
+
+7.2. Gyógyszer
+
+7.3. Orvostechnikai fogyóeszközök és az ezekhez kapcsolódó szolgáltatások
+
+7.3.1. Kötésrögzítő kötszerek
+
+7.3.2. Műtéti kötszerek, műtéti izoláló szettek
+
+7.3.3. Primer sebfedők
+
+7.3.4. Orvosi kesztyűk
+
+7.3.5. Maszkok
+
+7.3.6. Műtéti ruházat, védőruha
+
+7.3.7. Infúziós és transzfúziós szerelékek
+
+7.3.8. Intravénás kanülök
+
+7.3.9. Műtéti leszívó rendszerek
+
+7.3.10. Egyszerhasználatos fecskendők
+
+7.3.11. Egyszerhasználatos injekciós tűk
+
+7.3.12. Zárt vérvételi rendszerek
+
+7.3.13. Higiéniai termékek, tisztítószerek
+
+7.3.14. Orvosi gipsztermékek
+
+7.3.15. Egyéb, gyógyszernek nem minősülő orvostechnikai fogyóeszközök
+
+7.3.16. Tisztító hatású eszköz- és felületfertőtlenítő szerek
+
+8.[^146] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
+
+8.1. Őrzés-védelemre irányuló szolgáltatás
+
+8.2. Takarítási és egyéb higiénés szolgáltatás
+
+8.3. Műszaki üzemeltetés, karbantartás és az ezekkel összefüggő épületfelújítás
+
+8.4. Biztonságtechnikai berendezések üzemeltetése
+
+8.5. Létesítménygazdálkodáshoz kapcsolódó egyéb szolgáltatások
+
+9\. Energia
+
+9.1. Villamos energia
+
+9.2. Földgáz
+
+10\. Közbiztonsági térfigyelő kamerák és kapcsolódó szolgáltatások önként csatlakozó önkormányzatok részére
+
+11.[^147]
+
+## 2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^148]
+
+## 3. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^149]
+
+## 4. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^150]
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 539/2023. (XII. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését újonnan a 33/2024. (II. 22.) Korm. rendelet 11. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdését újonnan a 473/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 41/2021. (II. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (2c) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^7]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^8]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: Az 1. § (2h) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 410/2022. (X. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^12]: Az 1. § (2i) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^13]: Az 1. § (2j) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^14]: Az 1. § (2k) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (2l) bekezdését a 648/2020. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: Az 1. § (2m) bekezdését újonnan a 83/2023. (III. 16.) Korm. rendelet 1. §-a iktatta be, szövege ugyanezen módosító rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^17]: Az 1. § (2n) bekezdését a 769/2021. (XII. 23.) Korm. rendelet 27. §-a iktatta be.
+[^18]: Az 1. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 41/2021. (II. 2.) Korm. rendelet 7. § a) pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. § a 10/2005. (I. 19.) Korm. rendelet 1. §-ával megállapított, a 196/2006. (IX. 27.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. A 2. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 338/2009. (XII. 29.) Korm. rendelet 2. §-a, szövege a 33/2012. (III. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 2. § (2) bekezdését a 338/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatva, hatályon kívül helyezte a 373/2010. (XII. 31.) Korm. rendelet 1. § (2) bekezdés a) pontja. A 2. § (2) bekezdését újonnan a 182/2019. (VII. 26. ) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^22]: A 2. § (3) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^23]: A 2/A. §-t a 202/2015. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 2/B. §-t a 648/2020. (XII. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^26]: A 3. § b) pontját a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^27]: A 3. § c) pontját újonnan a 323/2015. (X. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^28]: A 3. § d) pontja a 323/2015. (X. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^29]: A 3. § f) pontja a 196/2006. (IX. 27.) Korm. rendelet 20. § c) pontja szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^30]: A 3. § g) pontja a 196/2006. (IX. 27.) Korm. rendelet 1. §-ával megállapított, a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^31]: A 3. § h) pontja a 165/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^32]: A 3. § i) pontját újonnan a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^33]: A 3. § j) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^34]: A 3. § k) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 135/2022. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^35]: A 4. § a 165/2020. (IV. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^36]: Az 5. § a 196/2006. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^37]: Az 5. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 5. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^39]: Az 5. § (3) bekezdése a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése, a 140/2013. (V. 13.) Korm. rendelet 1. §-a, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 2. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^40]: Az 5. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 2. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^41]: A 6. § a 165/2020. (IV. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^42]: A 7. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított, nyitó szövegrésze a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 3. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^43]: A 7. § (1) bekezdés a) pontja a 771/2021. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^44]: A 7. § (1) bekezdés b) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^45]: A 7. § (1) bekezdés c) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^46]: A 7. § (1a) bekezdését újonnan a 330/2023. (VII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 7. § (3) bekezdését a 10/2005. (I. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 165/2020. (IV. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^48]: A 7. § (4) bekezdését a 10/2005. (I. 19.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 196/2006. (IX. 27.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^49]: A 8. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^50]: A 8. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^51]: A 8. § (3) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^52]: A 8. § (4) bekezdését a 196/2006. (IX. 27.) Korm. rendelet 4. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^53]: A 8. § (5) bekezdését a 332/2013. (IX. 16.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 165/2020. (IV. 30.) Korm. rendelet 23. § a) pontja.
+[^54]: A 10. § a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 4. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^55]: A 11. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése, a 375/2020. (VII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^56]: A 11. § (2) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^57]: A 11. § (3) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^58]: A 11. § (3) bekezdés d) pontja a 165/2020. (IV. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^59]: A 11. § (3) bekezdés l) pontját a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^60]: A 11. § (3) bekezdés m) pontja a 165/2020. (IV. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^61]: A 11. § (3) bekezdés o) pontját a 238/2013. (VI. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 267. § b) pontja, a 771/2021. (XII. 23.) Korm. rendelet 10. § e) pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^62]: A 13. § (1) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^63]: A 14. § a 323/2015. (X. 30.) Korm. rendelet 2. § (6) bekezdésével megállapított, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 5. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^64]: A 15. § (2) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^65]: A 16. § a 196/2006. (IX. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^66]: A 16. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 6. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^67]: A 16. § (3) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^68]: A 17. § a 196/2006. (IX. 27.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^69]: A 17. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (3) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 6. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^70]: A 17. § (2) bekezdése a 33/2012. (III. 7.) Korm. rendelet 10. § (1) bekezdése, a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 6. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^71]: A 17. § (3) bekezdése a 46/2012. (III. 28.) Korm. rendelet 13. § (1) bekezdése, a 648/2020. (XII. 23.) Korm. rendelet 1. § (9) bekezdés 6. pontja, a 330/2023. (VII. 19.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^72]: A 18. § a 165/2020. (IV. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^73]: A 18/A. §-t a 238/2013. (VI. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 165/2020. (IV. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^74]: A 19. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 12. §-ával megállapított, a 771/2021. (XII. 23.) Korm. rendelet 10. § h) pontja szerint módosított szöveg.
+[^75]: A 19. § (2) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^76]: A 20. § (1) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 8. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^77]: A 20. § (2) bekezdését a 33/2012. (III. 7.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^78]: A 20. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 267. § e) pontja szerint módosított szöveg.
+[^80]: A 22. § (1) bekezdése a 33/2012. (III. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^81]: A 22. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^82]: A 22. § (4) bekezdése a 33/2012. (III. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^83]: A 23. § (1) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 10. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^84]: A 23. § (1) bekezdés a) pontja a 33/2012. (III. 7.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^85]: A 23. § (1) bekezdés b) pontja a 165/2020. (IV. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^86]: A 23. § (1) bekezdés c) pontja a 165/2020. (IV. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^87]: A 23. § (2) bekezdését a 196/2006. (IX. 27.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
+[^88]: A 23. § (3) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 20. § d) pontja szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^89]: A 24. § a 323/2015. (X. 30.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^90]: A 24. § (2) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 771/2021. (XII. 23.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.
+[^91]: A 24. § (3) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^92]: A 24. § (4) bekezdés i) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^93]: A 24. § (5) bekezdés h) pontja a 165/2020. (IV. 30.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^94]: A 24. § (5) bekezdés i) pontját a 648/2020. (XII. 23.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^96]: A III. fejezet címe a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
+[^97]: A 26. §-t megelőző alcím a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapítottt szöveg.
+[^98]: A 26. § a 196/2006. (IX. 27.) Korm. rendelet 13. §-ával megállapított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^99]: A 26. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^100]: A 26. § (2) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^101]: A 26. § (3) bekezdését újonnan a 648/2020. (XII. 23.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^102]: A 26. § (4) bekezdését újonnan a 648/2020. (XII. 23.) Korm. rendelet 1. § (6) bekezdése iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^103]: A 26. § (5) bekezdését a 771/2021. (XII. 23.) Korm. rendelet 5. §-a iktatta be, szövege a 330/2023. (VII. 19.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^105]: A 27/A. §-t megelőző alcímet a 10/2005. (I. 19.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^106]: A 27/A. §-t újonnan a 33/2012. (III. 7.) Korm. rendelet 6. §-a iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^107]: A 27/B. §-t a 10/2005. (I. 19.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^108]: A 27/B. § b) pontja a 196/2006. (IX. 27.) Korm. rendelet 20. § g) pontja szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^109]: A 27/C. §-t a 10/2005. (I. 19.) Korm. rendelet 8. §-a iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 2. § (10) bekezdésével megállapított szöveg.
+[^110]: A 28. § a 258/2005. (XII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^111]: A 28. § (1) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^112]: A 28. § (2) bekezdése a 771/2021. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^113]: A 28. § (3) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 6. § (8) bekezdése hatályon kívül helyezte.
+[^114]: A 28. § (4) bekezdése a 165/2020. (IV. 30.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^115]: A 29. §-t megelőző alcímet a 10/2005. (I. 19.) Korm. rendelet 8. §-a iktatta a szövegbe.
+[^116]: A 29. § a 10/2005. (I. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^117]: A 29. § (1) bekezdése a 323/2015. (X. 30.) Korm. rendelet 2. § (12) bekezdésével megállapított, a 330/2023. (VII. 19.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^118]: A 29. § (2) bekezdése a 196/2006. (IX. 27.) Korm. rendelet 20. § i) pontja szerint módosított szöveg. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2006. október 5. napja után megkezdett közbeszerzésekre kell alkalmazni.
+[^119]: A 29. § (3) bekezdését a 33/2012. (III. 7.) Korm. rendelet 8. §-a iktatta be, szövege a 165/2020. (IV. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^120]: A 30. § (3) bekezdését a 33/2012. (III. 7.) Korm. rendelet 9. §-a iktatta be.
+[^121]: A hatálybalépés időpontja 2012. március 8.
+[^122]: A hatálybalépés időpontja 2012. március 8.
+[^123]: A hatálybalépés időpontja 2012. március 8.
+[^124]: A 30. § (4) bekezdését a 140/2013. (V.13.) Korm. rendelet 2. §-a iktatta be.
+[^125]: A hatálybalépés időpontja 2013. május 14.
+[^126]: A 30. § (5) bekezdését a 238/2013. (VI. 30.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^127]: A hatálybalépés időpontja 2013. július 1.
+[^128]: A 30. § (6) bekezdését a 323/2015. (X. 30.) Korm. rendelet 2. § (13) bekezdése iktatta be.
+[^129]: A hatálybalépés időpontja 2015. november 1.
+[^130]: A 30. § (7) bekezdését a 41/2021. (II. 2.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 771/2021. (XII. 23.) Korm. rendelet 11. § g) pontja.
+[^131]: A 31. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 678. pontja hatályon kívül helyezte. A 31. §-t a 298/2006. (XII. 23.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 257/2019. (X. 30.) Korm. rendelet 1. §-a iktatta be.
+[^132]: A hatálybalépés időpontja 2019. október 31.
+[^133]: A hatálybalépés időpontja 2019. október 31.
+[^134]: A 31/A. §-t a 165/2020. (IV. 30.) Korm. rendelet 20. §-a iktatta be.
+[^135]: A 31/B. §-t a 165/2020. (IV. 30.) Korm. rendelet 21. §-a iktatta be.
+[^136]: A 31/C. §-t a 648/2020. (XII. 23.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^137]: A hatálybalépés időpontja 2021. január 1.
+[^138]: A 32. §-t megelőző alcímet a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be.
+[^139]: A 32. §-t a 196/2006. (IX. 27.) Korm. rendelet 16. §-a iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^140]: Az 1. számú melléklet a 165/2020. (IV. 30.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^141]: Az 1. számú melléklet 3. pont 3.6. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^142]: Az 1. számú melléklet 3. pont 3.7. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^143]: Az 1. számú melléklet 3. pont 3.8. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^144]: Az 1. számú melléklet 5. pont 5.2. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^145]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^146]: Az 1. számú melléklet 8. pontja a 83/2023. (III. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^147]: Az 1. melléklet 11. pontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^148]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^149]: A 3. számú mellékletet a 33/2012. (III. 7.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^150]: A 4. számú melléklet a 165/2020. (IV. 30.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.

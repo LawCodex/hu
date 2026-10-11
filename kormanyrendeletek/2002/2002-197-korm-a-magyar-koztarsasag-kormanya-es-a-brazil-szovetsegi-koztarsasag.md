@@ -1,0 +1,141 @@
+---
+title: "197/2002. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, a növényvédelmi karantén és a növényvédelem területén való együttműködésről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodás kihirdetéséről"
+identifier: "197/2002. (IX. 10.) Korm. rendelet"
+njt_id: "2002-197-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/197"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-09-10
+in_force_from: 2002-09-10
+last_amended: 2002-09-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-197-20-22"
+retrieved: 2026-10-12
+---
+
+# 197/2002. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, a növényvédelmi karantén és a növényvédelem területén való együttműködésről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodás kihirdetéséről
+
+*(A diplomáciai jegyzékváltás 2002. július 5-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, a növényvédelmi karantén és a növényvédelem területén való együttműködésről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti együttműködésről\
+a növényvédelmi karantén és a növényvédelem területén
+
+A Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+a növényvédelmi együttműködés megerősítésének szándékától vezérelve, valamint, hogy megvédjék mindkét ország területét a növényi kártevők behurcolásától,
+
+a mezőgazdasági termékek kétoldalú kereskedelmének könnyítését és fejlesztését óhajtva, és
+
+a Szerződő Feleknek a WTO Állat- és Növényegészségügyi Intézkedések Alkalmazásáról szóló Megállapodásból (WTO/SPS) származó jogaira és kötelezettségeire, valamint a Nemzetközi Növényvédelmi Egyezményben (IPPC) való részvételükre és más, vonatkozó nemzetközi szervezetben vállalt kötelezettségeikre tekintettel,
+
+a következőkben állapodtak meg:
+
+*I. Cikk*
+
+A Szerződő Felek kötelezik magukat, hogy
+
+1\. megtesznek minden szükséges intézkedést, hogy meggátolják a karantén károsítók be- és kihurcolását egyik Szerződő Fél területéről a másik Szerződő Fél területére növények és növényi termékek behozatala, kivitele vagy átmenő forgalma alkalmával;
+
+2\. betartják az importáló ország növényegészségügyi előírásait;
+
+3\. a növények és növényi termékek behozatala és kivitele során különös figyelmet fordítanak azokra a károsítókra, amelyeket a Szerződő Felek a két ország karantén és veszélyes károsítók listájának megfelelően karantén jelentőségűnek tekintenek;
+
+4\. egymást évente, írásban kölcsönösen tájékoztatják a területükön újonnan megjelenő károsítókról, azok elterjedéséről és az ellenük való védekezésről;
+
+5\. kölcsönösen tájékoztatják egymást a növények és növényi termékek kivitelére, behozatalára és átmenő forgalmára vonatkozó hatályos jogszabályokról és más előírásokról, ideértve a növényegészségügyi vizsgálatokkal és tudományos kutatással kapcsolatos tájékoztatást is;
+
+6\. kölcsönösen biztosítják szakembereik cseréjét a növényvédelmi karantén és a növényvédelem területén elért tudományos kutatási és gyakorlati eredmények tanulmányozása céljából;
+
+7\. szükség esetén, egyeztető tárgyalást követően, kölcsönösen tudományos és műszaki támogatást nyújtanak egymásnak a növényvédelmi karantén és a növényvédelem területén.
+
+*II. Cikk*
+
+A Szerződő Feleknek a Megállapodásban foglaltak végrehajtásáért felelős illetékes szervei:
+
+*a)* a Magyar Köztársaság részéről: a Földművelésügyi és Vidékfejlesztési Minisztérium Növényvédelmi és Agrár-környezetgazdálkodási Főosztálya;
+
+*b)* a Brazil Szövetségi Köztársaság részéről: a Mezőgazdasági és Ellátási Minisztérium Mezőgazdasági és Állatvédelmi Titkársága.
+
+*III. Cikk*
+
+1\. Valamennyi növényt tartalmazó küldeményt el kell látni az exportáló ország illetékes hatóságai által kiállított növényegészségügyi bizonyítvánnyal, amely igazolja, hogy a küldeményt karantén károsítóktól mentesnek találták, és az megfelel az importáló ország növényegészségügyi követelményeinek.
+
+2\. Növények talajban, illetve földes gyökérzettel csak az importáló ország vonatkozó külön előírásainak megfelelően exportálhatók.
+
+3\. Az importáló országnak joga van a másik országból származó szállítmány megvizsgálására még akkor is, ha az el van látva növényegészségügyi bizonyítvánnyal, illetve joga van ahhoz, hogy megtegye a szükséges zárlati intézkedéseket, amennyiben az nem felel meg a belföldi és a nemzetközi előírásoknak.
+
+*IV. Cikk*
+
+A kivitel, a behozatal és az átmenő forgalom során a növényeket tartalmazó küldemény vizsgálatát a Szerződő Felek illetékes szerve által létesített növényvédelmi karantén szolgálatok a kikötőikben, határállomásaikon és a szükségesnek ítélt körzetekben végzik el.
+
+*V. Cikk*
+
+A Szerződő Felek diplomáciai, konzuli, kereskedelmi és más képviseletein keresztül érkező növényeket vagy növényi termékeket tartalmazó küldeményeket a Megállapodásban foglaltak szerint kell kezelni.
+
+*VI. Cikk*
+
+A kivitelre kerülő növények csomagolóanyagaként mohát, fűrészport, faforgácsot és ezekhez hasonló anyagokat szabad felhasználni. Szalma, levél és más mezőgazdasági, illetve erdészeti eredetű anyag csomagolóanyagként való felhasználását kerülni kell. Amennyiben ilyen anyagokat használnak fel, a Megállapodásban előírt karantén intézkedéseket vagy más hatásos kezelést kell végezni, és erről az exportáló ország karantén szolgálatának a kezelés módját feltüntető növényegészségügyi bizonyítványt kell kibocsátania.
+
+*VII. Cikk*
+
+A Szerződő Felek késedelem nélkül tájékoztatják egymást a károsító jegyzékeikben, valamint a növényegészségügyi követelményekben bekövetkező változásokról.
+
+*VIII. Cikk*
+
+1\. A Szerződő Felek megtesznek minden szükséges intézkedést annak érdekében, hogy megakadályozzák harmadik országból karantén károsítóknak a területükre való behurcolását.
+
+2\. A Szerződő Felek a növényeket és növényi termékeket tartalmazó küldemények átmenő forgalmát akkor engedélyezik, ha azokat ellátták növényegészségügyi bizonyítvánnyal és megfelelnek azon ország növényvédelmi előírásainak, amelynek területén a küldemény áthalad.
+
+*IX. Cikk*
+
+1\. A Megállapodás végrehajtása során felmerülő technikai problémák megoldása, munkatapasztalatok cseréje, valamint az együttműködés továbbfejlesztése érdekében a Szerződő Felek illetékes szervei előzetes megegyezés alapján országaikban felváltva értekezletet tartanak.
+
+2\. A megbeszélés helyét, idejét és a felmerülő költségeket a Szerződő Felek illetékes szervei egyeztetés útján határozzák meg.
+
+3\. A nemzetközi utazások költségeit, ha a Szerződő Felek ettől eltérően nem döntenek, a küldő Szerződő Fél fedezi.
+
+*X. Cikk*
+
+Amennyiben a Megállapodás értelmezése vagy végrehajtása tárgyában nincs egyetértés, a Szerződő Felek a véleményeltérést diplomáciai úton rendezik.
+
+*XI. Cikk*
+
+A Megállapodás rendelkezései nem érintik a Szerződő Feleknek más országokkal kötött egyezményekből vagy nemzetközi növényvédelmi szervezetekben való tagságából eredő jogait és kötelezettségeit.
+
+*XII. Cikk*
+
+Jelen Megállapodás a Szerződő Felek közötti tárgyalások alapján kiegészíthető és módosítható.
+
+*XIII. Cikk*
+
+1\. A Szerződő Felek írásban értesítik egymást, hogy a Megállapodás megfelel a hatálybalépéshez szükséges belső jogi előírásoknak, és az erről szóló második írásbeli jegyzék átadásának napján lép a Megállapodás hatályba.
+
+2\. Jelen Megállapodás 5 (öt) évig marad hatályban.
+
+3\. Amennyiben a Megállapodást, hatályának lejárta előtt 6 (hat) hónappal írásban egyik Fél sem mondja fel, a Megállapodás hatálya további 5 (öt) éves időszakra automatikusan meghosszabbodik.
+
+Készült Brazíliavárosban, 1999. november hó 10. napján, két eredeti példányban, magyar, portugál és angol nyelven. Mindhárom nyelvű szöveg egyaránt hiteles. Amennyiben a Megállapodás szövegének értelmezésében bármilyen vita merül fel, az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Brazil Szövetségi Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. A megállapodásban foglaltakat 2002. július 5. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.

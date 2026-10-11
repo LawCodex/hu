@@ -1,0 +1,199 @@
+---
+title: "4/1995. (I. 20.) Korm. rendelet a Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról"
+identifier: "4/1995. (I. 20.) Korm. rendelet"
+njt_id: "1995-4-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/4"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-01-20
+in_force_from: 2008-05-16
+last_amended: 2024-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-4-20-22"
+retrieved: 2026-10-12
+---
+
+# 4/1995. (I. 20.) Korm. rendelet a Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról
+
+A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény (a továbbiakban: Akt.) 27. §-ának (4) bekezdésében és 30. §-ának (2) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+A rendelet hatálya kiterjed
+
+a) a Magyar Tudományos Akadémia (a továbbiakban: Akadémia) hazai tagjára (a továbbiakban: akadémikus), a ,,Magyar Tudományos Akadémia Doktora'' címmel rendelkező magyar állampolgárra és nem magyar állampolgárra, ha letelepedési szándékkal jogszerűen tartózkodik Magyarország területén (a továbbiakban: Akadémia Doktora), valamint
+
+b)[^1] az a) pontban megjelölt, elhunyt akadémikus házastársára, élettársára, árváira, továbbá az e rendeletben és a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény, illetve a végrehajtására kiadott 168/1997. (X. 6.) Korm. rendeletben (a továbbiakban: társadalombiztosítási szabályok) feltüntetett feltételek fennállása esetén az elvált, illetve a különélő házastársra (a továbbiakban: hozzátartozó),
+
+c) az Akadémia titkársági szervezetére, mint elbíráló és folyósító szervre.
+
+## Az akadémikusokra vonatkozó rendelkezések
+
+### 2. §
+
+(1)[^2] Az akadémikusnak tudományos alkotómunkájára, tudományos teljesítményére tekintettel havonta tiszteletdíj jár. Ennek összege:
+
+Akadémia rendes tagja esetében 455 000 Ft/hó
+
+Akadémia levelező tagja esetében 353 900 Ft/hó
+
+(2) A tiszteletdíjat az Akadémia elnöke állapítja meg hivatalból.
+
+(3) A tiszteletdíjat 1995. január 1. napjától kell folyósítani, és a jelen rendelet hatálybalépése előtt megállapított ún. akadémikusi személyi alapbérek folyósítását 1994. december 31. napja időponttal meg kell szüntetni. A tiszteletdíj folyósítása nem érinti a munkáltatónak azt a kötelezettségét, hogy az akadémikus havi illetményét, munkabérét (illetménypótlékait) — a foglalkoztató munkáltatóra vonatkozó munkaügyi törvényben és annak végrehajtási rendeletében foglalt szabályok szerint — állapítsa meg. A központi költségvetésből biztosított béralap személyre szól, a munkáltató azt három évig, illetve az érintett személy 70. életévének betöltéséig más célra nem használhatja fel.
+
+(4) Az akadémikust az (1) bekezdésben megjelölt tiszteletdíj mellett a 13. § (1) bekezdésében meghatározott doktori tiszteletdíj nem illeti meg.
+
+## Hozzátartozói ellátások
+
+### 3. §
+
+(1) Az Akt. 30. §-ának (1) bekezdésén alapuló hozzátartozói ellátások: az ideiglenes özvegyi ellátás, az árvaellátás és a végkielégítés (a továbbiakban: akadémiai hozzátartozói ellátások).
+
+(2) Az akadémiai hozzátartozói ellátás az igényjogosult hozzátartozóknak a társadalombiztosítási jogszabályok alapján megállapított ellátásoktól függetlenül jár.
+
+### 4. §
+
+(1) Az akadémikus részére az Akadémia titkársági szervezete által folyósított tiszteletdíj után ideiglenes özvegyi ellátást kaphat, életkorra tekintet nélkül, az elhunyt akadémikus házastársa, elvált házastársa és élettársa.
+
+(2) Az ideiglenes özvegyi ellátás összege az akadémikus részére folyósított tiszteletdíj 25 százaléka.
+
+(3) Az ideiglenes özvegyi ellátást öt évig kell folyósítani.
+
+### 5. §
+
+Az ideiglenes özvegyi ellátás megállapítására, megosztására, folyósításának megszüntetésére és a végkielégítés megállapítására a társadalombiztosítási szabályokban meghatározott rendelkezéseket kell megfelelően alkalmazni.
+
+### 6. §
+
+(1) Árvaellátásra jogosult az elhunyt akadémikus gyermeke és mostoha gyermeke, illetve örökbe fogadott és nevelt gyermeke.
+
+(2) Az árvaellátás összege árvánként az ideiglenes özvegyi ellátás fele.
+
+### 7. §
+
+Az árvaellátás megállapítására és folyósítására a társadalombiztosítási szabályoknak az árvaellátásra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+### 8. §
+
+Akadémiai hozzátartozói ellátásra jogosultság szempontjából halálesetnek kell tekinteni a holtnak nyilvánítást, valamint a halál tényének bírósági megállapítását is, a bíróság jogerős határozata alapján.
+
+## A jogosultságot kizáró és korlátozó okok
+
+### 9. §
+
+(1) Nem állapítható meg akadémiai hozzátartozói ellátás annak, aki az ország területét állandó külföldi letelepedési szándékkal hagyta el.
+
+(2) Az (1) bekezdésben meghatározott személy részére, ha az ország területére állandó letelepedés szándékával visszatér, legkorábban a visszatérést követő hónap első napjától lehet akadémiai hozzátartozói ellátást megállapítani.
+
+(3) Nem állapítható meg akadémiai hozzátartozói ellátás az olyan külföldön elhunyt személy után, aki az ország területét külföldi letelepedés szándékával hagyta el.
+
+## Az igény érvényesítése
+
+### 10. §[^3]
+
+Az Akadémia titkársági szervezete az elhunyt akadémikus tiszteletdíja folyósításának beszüntetésével egyidejűleg köteles elküldeni a hozzátartozónak (hozzátartozóknak) az akadémiai ellátás (ellátások) megállapításához szükséges igénybejelentő lapot, és tájékoztatást adni az igény érvényesítésének szabályairól. Az ellátást írásbeli igénybejelentés alapján annak a hónapnak az első napjától – visszamenőleg legfeljebb hat hónapra – lehet megállapítani, amelyik hónapban a jogosultsághoz szükséges valamennyi feltétel teljesült.
+
+## Visszafizetési és megtérítési kötelezettség
+
+### 12. §
+
+(1)[^5] Az Akadémia titkársági szervezete pénzügyi főosztályának a jogalap nélkül felvett akadémiai hozzátartozói ellátások visszafizetésére és megtérítésére a társadalombiztosítási szabályok felelősségi szabályait kell megfelelően alkalmaznia.
+
+(2)[^6] Az ellátás jogalap nélküli felvétele miatt visszafizetési kötelezettségként előírt tartozás összegét — kérelemre — az Akadémia elnöke, kivételes esetekben méltányosságból, mérsékelheti, vagy elengedheti.
+
+## Az Akadémia Doktoraira vonatkozó rendelkezések
+
+### 13. §
+
+(1)[^7] Az Akadémia Doktori Tanácsa által – az akadémiai szabályozásban meghatározott feltételek szerint – odaítélt Akadémia Doktora címmel rendelkező személyek tudományos teljesítményét és köztestületi munkáját az Akadémia tiszteletdíj folyósításával is elismerheti. A tiszteletdíj ez esetben havonta 90 ezer forint, a (2)–(5) bekezdésben foglaltak figyelembevételével.
+
+(2) A tiszteletdíj folyósításáról az Akadémia Doktori Tanácsa elnöke gondoskodik.
+
+(3)[^8] A tiszteletdíjat folyósítani lehet a magyar állampolgárnak, ha Magyarországon van a lakóhelye, illetve folyósítható – kérelemre –, ha Magyarországon munkaviszonya, közalkalmazotti jogviszonya, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonya vagy lakóhelye nincs, de a hazai tudományos életben aktívan részt vesz. A tiszteletdíj nem magyar állampolgárnak – kérelmére – csak abban az esetben folyósítható, ha Magyarországon huzamos tartózkodási jogosultsággal rendelkezik, vagy itt huzamos tartózkodási szándékkal jogszerűen tartózkodik. A kérelmet az Akadémia elnöke bírálja el.
+
+(4)[^9] E rendelet hatálybalépésekor nyugellátásban részesülő Akadémia Doktorának a korábbi rendelkezések alapján csökkentett tiszteletdíját – az (5) bekezdésben foglaltak figyelembevételével – fel kell emelni az (1) bekezdésben meghatározott mértékig.
+
+(5) Az 1995. január 1. napja előtt nyugdíjba vonult Akadémia Doktorát a tiszteletdíj az (1) bekezdésben meghatározott mértéknél – a korábban megállapított nyugdíj-kiegészítésre tekintettel – 4000 Ft-tal alacsonyabb összegben illeti meg, tekintetükben eddig a mértékig kell gondoskodni a tiszteletdíj felemeléséről.[^10]
+
+### 14. §
+
+A visszafizetési kötelezettséggel kapcsolatos szabályokat (12. §) a jogalap nélkül felvett doktori tiszteletdíjak tekintetében is alkalmazni kell.
+
+## Vegyes és záró rendelkezések
+
+### 15. §[^11]
+
+A tiszteletdíjak megemelésével egyidejűleg arányosan emelni kell az akadémiai hozzátartozói ellátások mértékét is.
+
+### 16. §
+
+(1) A tiszteletdíjakat, valamint az akadémiai hozzátartozói ellátásokat az Akadémia titkársági szervezete folyósítja.
+
+(2)[^13] Az (1) bekezdésben említett tiszteletdíjak folyósítását egy évet meghaladó külföldi tartózkodás esetén — a külföldi tartózkodás időtartamára — az Akadémia elnöke felfüggesztheti.
+
+(3)[^14] Akadémiai vagy munkáltatói javaslat alapján az Akadémia elnöke engedélyezheti a tiszteletdíj teljes vagy részbeni folyósítását, ha az érintett személy a külföldi tartózkodás ideje alatt a hazai tudományos közélettel aktív kapcsolatot tart, illetve abban részt vesz.
+
+(4)[^15] Külföldön letelepedett magyar állampolgárnak csak abban az esetben folyósítható a tiszteletdíj részben vagy egészben, ha azt az Akadémia elnökétől írásban kéri, és a hazai tudományos közélettel aktív kapcsolatban áll, illetve abban részt vesz.
+
+(5)[^16] Az (1) bekezdés szerinti tiszteletdíj és hozzátartozói ellátás folyósítását az Akadémia elnöke felfüggesztheti, ha a jogosult bűncselekmény szándékos elkövetése miatt jogerős szabadságvesztés büntetés hatálya alatt áll. A felfüggesztés időtartama a jogerős ítélet alapján végrehajtott szabadságvesztés időtartamával azonos, amely az előzetes letartóztatásban eltöltött idővel meghosszabbodik. Ha az ítélet szerinti közügyektől eltiltás büntetés a szabadságvesztés időtartamát meghaladja, a tiszteletdíjat vagy a hozzátartozói ellátást a közügyektől eltiltás időtartamára kell felfüggeszteni.
+
+(6)[^17] A tiszteletdíj és a hozzátartozói ellátás folyósításának felfüggesztése az erről szóló döntésnek az érintettel való közlése hónapját követő hónaptól érvényes.
+
+### 17. §
+
+(1) A tiszteletdíj akadémikus esetén a taggáválasztást, az Akadémia Doktora esetén a cím odaítélését követő hónap 1. napjától jár.
+
+(2) E rendelet hatálybalépése előtt odaítélt ,,tudomány doktora'' fokozattal és a honosított külföldi tudományos fokozattal rendelkező személyek részére a tiszteletdíj az Akadémia Doktora címmel való egyenértékűség megállapítását követően folyósítható a 13. §-ban foglalt szabályok szerint.
+
+### 18. §
+
+E rendelet szerint megállapítható árvaellátás azt az árvát is megilleti, akinek akadémikus hozzátartozója e rendelet hatálybalépése előtt hunyt el.
+
+### 19. §
+
+A tiszteletdíjak összegéből az Akadémia titkársági szervezete, mint kifizető a magánszemélyek jövedelemadójáról szóló törvény szerint adóelőleget von.
+
+### 20. §
+
+(1)[^18] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2)–(3)[^19]
+
+### 21. §
+
+(1) Az R.1. 1. §-a alapján az 1987. május 1-jét megelőző időponttól nyugdíjas akadémikusoknak járó havi 6000 forintot, valamint az R.1. 3. §-ában jelzett összeget a hozzátartozónak a nyugdíjfolyósító szerv változatlanul tovább folyósítja. Az 1994. december 31-ét követő időponttól járó társadalombiztosítási hozzátartozói ellátások megállapításának alapjául továbbra is a 6000 Ft-tal felemelt nyugdíj szolgál.
+
+(2) Az R.2. rendelkezése alapján járó havi 4000 Ft a tudománynak azt a doktorát illeti meg ( vagy illeti meg továbbra is), akinek saját jogon járó nyugdíját 1995. január 1-je előtti időponttól állapították meg (állapítják) meg.
+
+(3) A (2) bekezdésben említett személy után járó özvegyi nyugdíjat akkor kell, illetőleg lehet a havi 2000 Ft-tal felemelni, ha a haláleset 1995. január 1-je előtt következett be.
+
+(4) Az (1)—(3) bekezdésekben megjelölt ellátásokat és azok 1994. december 31-ét követően is folyósítandó emelését a központi költségvetésből félévenként a Nyugdíjbiztosítási Alapnak meg kell téríteni.
+
+### 22. §[^20]
+
+A Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló 4/1995. (I. 20.) Korm. rendelet módosításáról szóló 76/2013. (III. 13.) Korm. rendelettel (a továbbiakban: Mód.R.) megállapított 16. § (5) és (6) bekezdését a Mód.R. hatálybalépésekor[^21] folyósított tiszteletdíj és hozzátartozói ellátás tekintetében is alkalmazni kell, azzal, hogy a folyósítás felfüggesztési időpontjának megállapítása során a 16. § (6) bekezdése szerinti közlés időpontjaként a Mód.R. hatálybalépését követő időpont vehető figyelembe.
+
+---
+
+[^1]: Az 1. § b) pontja a 19/2001. (II. 12.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 350/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést első ízben a 2007 januárjában esedékes tiszteletdíjakra kell alkalmazni.
+[^3]: A 10. § a 457/2017. (XII. 28.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 12. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 12. § (2) bekezdése a 76/2013. (III. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: A 13. § (1) bekezdése a 76/2013. (III. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 13. § (3) bekezdése a 76/2013. (III. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 217/2016. (VII. 22.) Korm. rendelet 4. §-a, a 35/2024. (II. 29.) Korm. rendelet 265. §-a szerint módosított szöveg.
+[^9]: A 13. § (4) és (5) bekezdése a 142/1998. ( VIII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 2005: CLIII. törvény 11. § (7) bekezdése alapján az 1995. január 1-je előtt nyugdíjba vonultak esetében – a korábban megállapított nyugdíj-kiegészítésre tekintettel – 97 100 forint.
+[^11]: A 15. § a 106/1996. ( VII.16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 16. § (2) bekezdése a 76/2013. (III. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 16. § (3) bekezdése a 76/2013. (III. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 16. § (4) bekezdése a 76/2013. (III. 13.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^16]: A 16. § (5) bekezdését a 76/2013. (III. 13.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 16. § (6) bekezdését a 76/2013. (III. 13.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 20. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1422. pontja szerint módosított szöveg.
+[^19]: A 20. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1422. pontja hatályon kívül helyezte.
+[^20]: A 22. §-t a 76/2013. (III. 13.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2013. március 14.

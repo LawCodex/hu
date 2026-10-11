@@ -1,0 +1,162 @@
+---
+title: "128/2005. (VII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló Közigazgatási Megállapodás kihirdetéséről"
+identifier: "128/2005. (VII. 1.) Korm. rendelet"
+njt_id: "2005-128-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/128"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-07-01
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-128-20-22"
+retrieved: 2026-10-12
+---
+
+# 128/2005. (VII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló Közigazgatási Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről szóló, Budapesten, 2005. március 17-én aláírt Közigazgatási Megállapodást e rendelettel kihirdeti.
+
+*[A Megállapodás hatálybalépéséhez szükséges belső jogi feltételek teljesüléséről szóló jegyzékváltás 2005. június hónap 21. napján megtörtént. A Megállapodás – annak 12. Cikk (3) bekezdése alapján – 2005. július hónap 21. napján lép hatályba.]*
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+„
+
+Közigazgatási Megállapodás\
+a Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány között az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletének alkalmazása érdekében történő együttműködésről
+
+A Magyar Köztársaság Kormánya és az Osztrák Szövetségi Kormány (a továbbiakban: Szerződő Felek) az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletének hatékony alkalmazása érdekében, annak 23. Cikkében foglaltaknak megfelelően, egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem vizsgálatáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról a következő Közigazgatási Megállapodást (a továbbiakban: Megállapodás) kötik.
+
+*1. Cikk*
+
+(1) A Szerződő Felek a jelen Megállapodásban az Európai Unió Tanácsa 2003. február 18-án kelt, 343/2003/EK rendeletében (a továbbiakban: Rendelet) alkalmazott fogalmakat használják, azoknak az ott rögzített jelentése szerint.
+
+(2) A jelen Megállapodást a Rendelet és a Bizottság 2003. szeptember 2-án kelt, 1560/2003/EK rendeletével (a továbbiakban: Végrehajtási Rendelet) összhangban kell alkalmazni.
+
+*2. Cikk*
+
+(1) A jelen Megállapodás alkalmazásában illetékes hatóságok:
+
+*a)* a Magyar Köztársaságban:
+
+Belügyminisztérium Bevándorlási és Állampolgársági Hivatal
+
+1093 Budapest, Budafoki út 60.
+
+Tel.: +36 (1) 463-4872
+
+Fax.:+36 (1) 463-4875
+
+(a továbbiakban: BM BÁH)
+
+A BM BÁH a jelen Megállapodással kapcsolatos tevékenységét a Menekültügyi Igazgatóságon keresztül látja el.
+
+*b)* az Osztrák Szövetségi Köztársaságban:
+
+a Bundesasylamt (Szövetségi Menekültügyi Hivatal)
+
+Landstraßer Hauptstraße 171
+
+1030 Bécs
+
+Tel: +43-1-53126-0
+
+Fax: +43-1-7108-650
+
+(a továbbiakban: Szövetségi Menekültügyi Hivatal)
+
+A Szövetségi Menekültügyi Hivatal a jelen Megállapodással kapcsolatos tevékenységét az első felvevőhelyeken (a továbbiakban: EFV) látja el vagy az Alapelvek és Dublini Osztály útján.
+
+(2) Az illetékes hatóságok az együttműködésükhöz szükséges adataikról és azok változásáról tájékoztatják egymást.
+
+*3. Cikk*
+
+(1) A magyar Szerződő Fél részéről a BM BÁH Menekültügyi Igazgatóság Dublini Koordinációs Osztálya folytatja le a dublini eljárást.
+
+(2) A visszavételi és átvételi kérelmek esetében az osztrák Szerződő Fél részéről a dublini eljárást a Szövetségi Menekültügyi Hivatal az EFV-k útján vagy az Alapelvek és Dublin Osztály útján folytatja le.
+
+(3) A BM BÁH Menekültügyi Igazgatóság Dublini Koordinációs Osztálya az EFV-kel a szükséges mértékben folytat egyeztetést, kivéve, ha az Alapelvek és Dublini Osztály írásban közli a BM BÁH Dublini Koordinációs Osztályával, hogy az adott kérelem esetében saját hatáskörben kíván eljárni.
+
+*4. Cikk*
+
+A Rendelet 17. Cikk (2) bekezdésében felsorolt sürgősségi eljárást igénylő megkeresések teljesítése érdekében a hatóságok egy kapcsolattartó személyt neveznek meg.
+
+*5. Cikk*
+
+(1) A Szerződő Felek a Rendelet 9. Cikkében meghatározott esetben az átvételre vonatkozó megkeresésére adott válasz megadásának határideje a megkeresés kézhezvételétől számított 30 (harminc) naptári nap.
+
+(2) Amennyiben a visszavétel iránti megkeresés az Eurodac rendszerből származó adatokon alapul, a tagállami hatóságok lehetőleg haladéktalanul, legkésőbb azonban 10 (tíz) naptári napon belül adnak választ.
+
+*6. Cikk*
+
+A Rendelet 21. Cikke (1)–(3) bekezdésében meghatározott információkra vonatkozó megkeresésre a hatóság a kézhezvételétől számított 30 (harminc) naptári napon belül ad választ.
+
+*7. Cikk*
+
+(1) A hatóságok a Végrehajtási Rendelet 15. Cikke szerint a DubliNeten keresztül tartják a kapcsolatot. Tartósan fennálló műszaki problémák esetén átmenetileg más olyan adatátviteli berendezést is alkalmazhatnak, amely biztosítja a kérelmek gyorsabb feldolgozását. Ebben az esetben elsősorban telefax útján tartják a kapcsolatot. A Szerződő Felek kötelesek haladéktalanul kezdeményezni a hibák kijavítását, ezzel egyidejűleg a hatóságok kötelesek egymást írásban értesíteni a DubliNet működési hibájáról.
+
+(2) A hatóságok együttműködésük során az angol nyelvet használják, ez vonatkozik valamennyi megkeresésre és az azokra adott válaszokra is.
+
+*8. Cikk*
+
+Ha a hatóságok felelősségüket azzal az indokolással kívánják elutasítani, hogy egy másik tagállam illetékes a menedékjog iránti kérelem elbírálására, úgy erre csak a következő előfeltételekkel kerülhet sor: a hatóságok illetékességüket csak olyan közvetlen és közvetett bizonyítékok haladéktalan bemutatásával tagadhatják meg, amelyek egy másik tagállam illetékességét egyértelműen és ellenőrizhetően alátámasztják.
+
+*9. Cikk*
+
+(1) A Szerződő Felek megállapodnak abban, hogy az átadás-átvételekre minden naptári héten egy bizonyos kijelölt időpontban, kijelölt helyen kerül sor. Ettől a hatóságok – kivételes esetben – előzetes egyeztetést követően eltérhetnek.
+
+(2) Amennyiben a hatóság, amelynél a kérelmet benyújtották, elismeri illetékességét, a kérelmező hatósággal egyetértésben és szoros együttműködésben haladéktalanul megállapodik a kérelmező átadásának időpontjáról és az átadás helyszínéről.
+
+(3) Az átadást kezdeményező hatóság minden esetben 2 (két) munkanappal az átadást megelőzően értesíti a tagállami hatóságot a kérelmező átadásának várható helyszínéről és időpontjáról. A kérelmező átvételekor a kérelmező hatóság köteles átadni a kérelmezőt átvevő hatóságnak a menedékkérő úti okmányát, annak hiányában a Rendelet 27. Cikk (2) bekezdésében elfogadott eljárásnak megfelelő minta szerinti laissez-passer másolatát. Ennek elmulasztása esetén az illetékes tagállam megtagadhatja az átadni kívánt menedékkérő átvételét.
+
+(4) Ha a hatóság a felelősség elismerésére vonatkozó megkeresés teljesítésére vonatkozó válaszadási kötelezettségét bizonyíthatóan elmulasztja, és ezért a megkereső hatóság az illetékesség elismerését vélelmezi, a kérelmezőt a soron következő, az (1) bekezdés alapján kijelölt időpontban – a (2)–(3) bekezdés megfelelő alkalmazásával – át kell venni, ha a tagállami hatóságok más időpontot nem jelölnek ki.
+
+*10. Cikk*
+
+(1) Az átadásra a Szerződő Felek államának közös államhatárán kerül sor. Kivételesen indokolt esetben a jelen Megállapodás 2. Cikkében szereplő illetékes hatóságok megállapodhatnak abban, hogy az átadásra a két állam nemzetközi repülőterein kerüljön sor.
+
+(2) Az átadásra az alábbi közúti határátkelőkön kerülhet sor:
+
+– Hegyeshalom–Nickelsdorf nemzetközi közúti autópálya határátkelőhely,
+
+– Rábafüzes–Heiligenkreutz nemzetközi közúti határátkelőhely.
+
+(3) Más nemzetközi közúti határátkelőhely használatáról – eseti jelleggel – az illetékes hatóságok megállapodhatnak.
+
+*11. Cikk*
+
+(1) A jelen Megállapodással kapcsolatos gyakorlati kérdések tisztázására, beleértve olyan kérdéseket is, amelyek a Rendeletből, továbbá a Végrehajtási Rendeletből, valamint a Tanács 2725/2000/EK rendeletéből és a Tanács 407/2002/EK rendeletéből erednek, munkacsoportot kell létrehozni a Szerződő Felek és a jelen Megállapodás végrehajtásában közreműködő hatóságok által kijelölt képviselők részvételével.
+
+(2) A Szerződő Felek megállapodnak abban, hogy az illetékesség vizsgálata során a Végrehajtási Rendelet II. mellékletében szereplő közvetlen és közvetett bizonyítékokat megfelelően figyelembe veszik. További hasonló jellegű közvetett bizonyítékok az (1) bekezdésben meghatározott munkacsoport keretében a gyakorlati kérdések tisztázása során határozhatók meg.
+
+*12. Cikk*
+
+(1) A jelen Megállapodás határozatlan időre szól, és azt bármelyik Szerződő Fél diplomáciai úton, írásban bármikor felmondhatja. A Megállapodás a felmondásáról szóló jegyzék kézhezvételét követő 3. (harmadik) hónap első napján hatályát veszti.
+
+(2) A Bizottságot a jelen Megállapodás aláírását követően a magyar Szerződő Fél tájékoztatja a jelen Megállapodás egyidejű megküldésével, figyelemmel a Rendelet 23. Cikk (2) bekezdésében foglaltakra.
+
+(3) A jelen Megállapodás az azt követő 30. (harmincadik) napon lép hatályba, amikor a Szerződő Felek kölcsönösen értesítették egymást arról, hogy eleget tettek a jelen Megállapodás hatálybalépéséhez szükséges belső jogi előírásaiknak.
+
+(4) A jelen Megállapodást a Szerződő Felek kölcsönös egyetértéssel módosíthatják. Ezt írásban, diplomáciai úton kezdeményezik.
+
+(5) A Rendeletnek, valamint a Végrehajtási Rendeletnek az Európai Unió Tanácsa, illetve az Európai Bizottság által történő módosítása esetén a jelen Megállapodást a Szerződő Felek megfelelően módosítják.
+
+Készült Budapesten, 2005. március 17. napján, két eredeti példányban, magyar és német nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+*(Aláírások)”*
+
+## 3. §
+
+(1) A jelen rendelet a kihirdetése napján lép hatályba.
+
+(2)[^1] A jelen rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 190. pontja szerint módosított szöveg.

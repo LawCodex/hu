@@ -1,0 +1,265 @@
+---
+title: "41/2001. (III. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában aláírt Egyezmény kihirdetéséről"
+identifier: "41/2001. (III. 14.) Korm. rendelet"
+njt_id: "2001-41-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/41"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-03-14
+in_force_from: 2001-03-14
+last_amended: 2001-03-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-41-20-22"
+retrieved: 2026-10-12
+---
+
+# 41/2001. (III. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában aláírt Egyezmény kihirdetéséről[^1]
+
+(A jóváhagyásról szóló jegyzékváltás 1995. április 27.\
+napján megtörtént.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában, Ljubljanában, 1994. október 21-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+szükségesnek tartva a közös határt képező és a közös a határ által átmetszett vízfolyásokkal és vízrendszerekkel kapcsolatos vízgazdálkodási kérdések szabályozását,
+
+alapul véve az ENSZ Európai Gazdasági Bizottságában kidolgozott, a határokat átlépő vízfolyások és nemzetközi tavak védelméről és használatáról, 1992. március 17-én, Helsinkiben elfogadott egyezményt,
+
+figyelemmel a Duna megóvására és fenntartható használatára irányuló együttműködésről szóló Konvencióra (Szófia, 1994. június),
+
+tekintetbe véve a vízgazdálkodási viszonyok egységes fenntartásának szükségességét, és elismerve az ezen egységből származó jogokat és kötelezettségeket,
+
+a következőkről állapodtak meg:
+
+*1. Cikk*
+
+*Az Egyezmény célja*
+
+1\. A Szerződő Felek a jelen Egyezmény rendelkezései alapján megbízott illetékes koordináló szerveik útján megvizsgálják és egyetértésben megoldják mindazokat a vízgazdálkodási kérdéseket – beleértve a vizek mennyiségét, minőségét, környezeti állapotát befolyásoló munkálatokat és intézkedéseket –, amelyek mindkét Szerződő Fél érdekeit érintik, vagy az egyik Szerződő Fél érdekében tesznek szükségessé a másik Féllel egyeztetett intézkedéseket.
+
+2\. A Szerződő Felek illetékes szerve a Magyar Köztársaság vonatkozásában a Közlekedési, Hírközlési és Vízügyi Minisztérium, a Szlovén Köztársaság vonatkozásában a Környezeti és Területi Minisztérium Környezetvédelmi és Vízgazdálkodási Igazgatósága.
+
+*2. Cikk*
+
+*Az Egyezmény hatálya*
+
+1\. Az Egyezmény rendelkezései kiterjednek a közös határt képező és a közös határ által átmetszett vízfolyásokon és azok vízgyűjtő területén felmerülő összes gazdálkodási kérdésre, intézkedésre és munkálatra, amelyek vízgazdálkodási szempontból hatással lehetnek az érintett vízfolyásokra és művekre.
+
+2\. Az Egyezmény rendelkezései kiterjednek:
+
+*a)* a felszíni és a felszín alatti vízkészletre,
+
+*b)* a vizek káros hatásai elleni védelemre és védekezésre,
+
+*c)* a vizek használatára,
+
+*d)* a határvizek minőségi vizsgálatára, a vizek szennyezés és ésszerűtlen használata elleni védelmére,
+
+*e)* a beavatkozások környezeti hatásainak vizsgálatára,
+
+*f)* az *a)–e)* pontokkal összefüggő kutatásra, tervezésre, kivitelezésre, megfigyelésekre, információ- és adatcserére.
+
+*3. Cikk*
+
+*Kötelezettségek*
+
+A Szerződő Felek kötelezik magukat, hogy
+
+1\. egyrészt a saját területükön, másrészt közösen jó karban tartják a közös határt képező és a határ által átmetszett vízfolyások, csatornák medrét és minden létesítményét,
+
+2\. érdekeikkel összhangban végzik a létesítmények és berendezések kezelését és üzemeltetését,
+
+3\. egyetértésben végzik az egyik vagy a másik Szerződő Fél területén a meglévő létesítmények megváltoztatását vagy újabbak építését, valamint mindazon új munkálatok és intézkedések foganatosítását, amelyek megváltoztathatják a közös határt képező és a közös határ által átmetszett vízfolyások és vízgyűjtők vízgazdálkodási viszonyait, beleértve a vizek minőségét és környezeti állapotát,
+
+4\. a saját területükön a határ menti állandó magassági és vízszintes alappontokat, amelyek a vízi munkálatok céljait szolgálják, megőrzik és fenntartják, szükség szerint kiegészítik és felújítják. Mindkét Szerződő Fél használhatja ezeket az alappontokat.
+
+*4. Cikk*
+
+*Tájékoztatás*
+
+A Szerződő Felek illetékes szervei kölcsönösen, a lehető leggyorsabb módon értesítik egymást az árvíz- és jégveszélyekről, rendkívüli vízszennyezésekről, valamint más, a közös határt képező és a közös határ által átmetszett vízfolyásokat és vízgyűjtőket fenyegető veszélyekről.
+
+*5. Cikk*
+
+*Költségek*
+
+1\. A Szerződő Felek, amennyiben a meglévő építmények és berendezések fenntartásában, üzemeltetésében, valamint a létesítendő építmények és berendezések tervezésében, építésében, fenntartásában, üzemeltetésében mindketten részt vesznek, a költségek megosztásának kérdését és fizetésének módját egyetértésben állapítják meg.
+
+2\. Azokat a költségeket, amelyek olyan építmények és berendezések építésével, fenntartásával és üzemeltetésével, valamint olyan intézkedésekkel és munkálatokkal kapcsolatosak, amelyek az egyik Szerződő Fél területén vannak, illetve azokat ott végzik, de kizárólag a másik Szerződő Fél érdekeit szolgálják, teljes egészében az érdekelt Szerződő Fél viseli.
+
+*6. Cikk*
+
+*Vámrendelkezések*
+
+1\. Azon építő- és üzemanyagok, amelyek ezen Egyezmény értelmében a közös határt képező vízfolyásokon és csatornákon, valamint a közös határ által átmetszett vízfolyások és csatornák határszelvényeinek térségében elvégzendő munkálatok kivitelezéséhez szükségesek és az egyik Szerződő Fél területéről a másik Szerződő Fél területére szállítanak, minden beviteli és kiviteli illetéktől mentesek.
+
+2\. E Cikk 1. pontja értelmében ideiglenes illetékmentességet élveznek a szükséges berendezések, gépek, szállítóeszközök, szerszámok és ehhez hasonlók (a továbbiakban: eszközök), azzal a feltétellel, hogy ezeket be kell jelenteni a vámhatóságoknál azonosság megállapítása, továbbá a vámhatóságok által meghatározott időpontig történő visszaszállítása végett. Ebben az esetben nem szükséges a megfelelő biztosítékok letétbe helyezése. Azon eszközök után, amelyeket nem küldenek vissza a meghatározott időpontig, vagy nem az Egyezmény céljaival összhangban használják, a megfelelő illeték fizetendő. Amennyiben az említett eszközök teljesen használhatatlanná válnak és ezért nem küldetnek vissza, vámmentességet élveznek.
+
+3\. Mindkét Szerződő Fél biztosítja azon építő- és üzemanyagok, eszközök vámkezelésének megkönnyítését, amelyek mentesek az illetékek alól.
+
+4\. A munkálatok kivitelezéséhez szükséges építő- és üzemanyagokat, valamint eszközöket a Szerződő Felek vámszervei ellenőrzik, a jelen Cikk 1. és 2. pontjában meghatározott feltételekre tekintettel.
+
+5\. Az Állandó Magyar–Szlovén Vízgazdálkodási Bizottság minden egyes esetben külön állapítja meg azokat a létesítményeket, munkálatokat, amelyekre a jelen Cikkben meghatározott kiváltságokat alkalmazza, továbbá ezek terjedelmét és feltételeit.
+
+*7. Cikk*
+
+*Az Állandó Magyar–Szlovén Vízgazdálkodási Bizottság*
+
+1\. Az Egyezmény rendelkezéseiből eredő kérdések megtárgyalása, továbbá intézkedések és munkálatok végrehajtása céljából a Szerződő Felek létrehozzák az Állandó Magyar–Szlovén Vízgazdálkodási Bizottságot (a továbbiakban: Bizottság). A Bizottság összetételét, hatáskörét, illetékességét és működésének módját a jelen Egyezmény szerves részét képező Alapszabályzat tartalmazza (Függelék).
+
+2\. A Bizottság közös árvízvédelmi, jégvédelmi és vízminőségvédelmi – szükség esetén további – szabályzatokat készít.
+
+3\. A Bizottság tárgyalásairól mindkét nyelven jegyzőkönyv készül, amelyet jóváhagyás céljából a kormányok elé kell terjeszteni.
+
+*8. Cikk*
+
+*Határátlépés*
+
+1\. A közös intézkedések megállapítása és a közös munkálatok végrehajtása érdekében azok a személyek, akiket a Szerződő Felek kijelölnek, az államhatárnak azokon a helyein és abban az időben találkoznak, amelyeket mindkét Szerződő Fél illetékes szervei adott esetben egyetértésben kijelölnek.
+
+2\. Az 1. pontban feltüntetett államhatár-átlépésekhez a Szerződő Felek, belső törvényhozásukkal összhangban, biztosítják a határátkelőkön kívül történő határátlépéshez szükséges okmányokat.
+
+*9. Cikk*
+
+*Módosítás*
+
+1\. Ha bármelyik Szerződő Fél szükségesnek tartja az Egyezmény bármelyik rendelkezésének módosítását, arról értesíti a másik Szerződő Felet. Az egyeztetett módosítás akkor lép hatályba, amikor a Szerződő Felek diplomáciai úton értesítik egymást, hogy eleget tettek a hatálybalépéshez szükséges belső jogi feltételeknek.
+
+2\. A 7. Cikk 1. pontjában említett Alapszabályzat módosításáról a Szerződő Felek közvetlenül állapodnak meg, az Állandó Magyar–Szlovén Vízgazdálkodási Bizottság útján.
+
+3\. Amennyiben a vízgazdálkodással kapcsolatosan mindkét Szerződő Fél részesévé válik valamely általános, sokoldalú megállapodásnak, úgy a jelen Egyezményt összhangba kell hozni az említett sokoldalú megállapodás rendelkezéseivel.
+
+*10. Cikk*
+
+*Viták rendezése*
+
+A Szerződő Felek a jelen Egyezmény értelmezése és alkalmazása tekintetében a közöttük felmerülő bármely vitás kérdést, amelyet közvetlenül tárgyalásokkal vagy diplomáciai úton nem tudtak rendezni, illetve, ha nem egyeztek meg valamely más megoldási módban, ,,A határokat átlépő vízfolyások és nemzetközi tavak védelméről és használatáról, 1992. március 17-én, Helsinkiben elfogadott egyezmény 22. Cikke (2. bekezdés), illetőleg IV. melléklete szerinti döntőbíróság elé utalják.
+
+*11. Cikk*
+
+*Záró rendelkezések*
+
+1\. A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy eleget tettek az Egyezmény hatálybalépéséhez a belső törvényhozásuk által előírt követelményeknek.
+
+2\. Az Egyezmény a jelen Cikk 1. pontjában említett értesítések másodikának kézhezvételétől számított harmincadik napon lép hatályba.
+
+3\. Az Egyezmény hatálybalépésével a Szerződő Felek között hatályát veszti a Magyar Népköztársaság Kormánya és a Jugoszláv Szövetségi Népköztársaság Kormánya között a vízgazdálkodási kérdések tárgyában, Belgrádban, 1955. augusztus 8-án kelt Egyezmény.
+
+4\. Az Egyezmény határozatlani időre köttetik.
+
+5\. A Szerződő Felek az Egyezményt bármely naptári év vége előtt legalább hat hónappal felmondhatják, s ebben az esetben az Egyezmény az adott év leteltével hatályát veszti.
+
+Készült Ljubljanában, az 1994. év október hó 21. napján, két példányban, magyar és szlovén nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Szlovén Köztársaság\
+Kormánya nevében
+
+*Függelék*
+
+**Állandó Magyar–Szlovén Vízgazdálkodási Bizottság Alapszabályzata**
+
+*1. Cikk*
+
+*A Bizottság hatásköre és illetékessége*
+
+1\. A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a vízgazdálkodási kérdések tárgyában megkötött Egyezmény (a továbbiakban: Egyezmény) 7. Cikkével létrehozott Állandó Magyar–Szlovén Vízgazdálkodási Bizottság (a továbbiakban: Bizottság) illetékes mindazon kérdések, intézkedések és munkálatok közös kezelésére, amelyre az Egyezmény hatálya kiterjed.
+
+2\. A Bizottság illetékességi körébe tartozik különösen:
+
+*a)* kölcsönös tájékoztatás a tervezett vízgazdálkodási beavatkozásokról és munkálatokról,
+
+*b)* közös intézkedések és munkák elhatározása és előkészítése, a tervek szakvéleményezése és kivitelezésük elrendelése,
+
+*c)* a közös intézkedések és munkák ellenőrzése, a közös költségek elszámolása,
+
+*d)* szemrevételezések és állapotfelmérések végrehajtása,
+
+*e)* kavics- és homokkitermelő helyek kijelölése nem vízépítési céllal,
+
+*f)* azon intézkedések és munkák megvitatása, amelyek csak az egyik fél érdekében hajtandók végre,
+
+*g)* a vízgyűjtő területen tervezett beavatkozások megvitatása, melyek hatással vannak a határvizekre,
+
+*h)* a közös árvíz-, jég- és vízminőség-védelemre, valamint egyéb veszélyek elhárítására vonatkozó kérdések tanulmányozása és ezzel kapcsolatban közös Szabályzatok elfogadása,
+
+*i)* javaslatok kidolgozása a közös érdekű vízgazdálkodási létesítmények és berendezések kezelésére és működésére,
+
+*j)* a vízgazdálkodási gyakorlati tapasztalatok, valamint a hidrológiai és hidrometeorológiai adatok kicserélése, továbbá a vízállás-, a jég- és egyéb adatok közlését célzó tájékoztató szolgálatok működésének összehangolása.
+
+*2. Cikk*
+
+*A Bizottság összetétele*
+
+1\. A Szerződő Felek a Bizottságba három-három tagot neveznek ki, és a tagok közül kinevezik a nemzeti tagozat vezetőjét és helyettesét.
+
+2\. A Szerződő Felek szakértőket is kijelölhetnek, akik részt vesznek a Bizottság munkájában.
+
+3\. Szükség szerint a Bizottság szakértői munkacsoportokat hozhat létre.
+
+*3. Cikk*
+
+*A Bizottság működése*
+
+1\. A Bizottság évente egyszer rendes ülést tart. A tagozatok vezetői rendkívüli ülés(ek) összehívásában is megegyezhetnek.
+
+2\. A tagozatok vezetői közvetlenül is tárgyalhatnak egymással.
+
+3\. A Bizottság felváltva ülésezik a két Szerződő Fél területén, ha előzőleg másban nem állapodtak meg. Az ülést – a másik Fél elnökével egyetértésben – azon Fél tagozatának vezetője hívja össze, amelynek a területén a soron következő ülés esedékes.
+
+4\. A napirendben a két tagozat vezetője előzetesen megállapodik. Az ülésszak alatt a napirend közös megegyezéssel kiegészíthető.
+
+5\. Az üléseken azon Szerződő Fél tagozatának vezetője elnököl, amelynek területén az ülés van.
+
+6\. A Bizottság tárgyalásai magyar és szlovén nyelven folynak.
+
+*4. Cikk*
+
+*Határozatok*
+
+1\. A Bizottság határozatait egyhangúlag hozza.
+
+2\. Amennyiben a Bizottság valamely kérdésben nem tud megegyezni, a vitás kérdést a kormányok elé kell terjeszteni.
+
+3\. Az ülésről mindkét nyelven, két példányban, jegyzőkönyv készül, amelyeket a tagozatok vezetői írnak alá.
+
+4\. A Bizottság határozatai nem hajthatók végre, amennyiben valamelyik kormány nem hagyja jóvá a jegyzőkönyvet.
+
+5\. Amennyiben a jegyzőkönyv aláírásától számított 60 napon belül egyik Fél sem emel kifogást a határozatok ellen, úgy azok érvénybe lépnek.
+
+*5. Cikk*
+
+*Költségek*
+
+Mindkét Szerződő Fél maga viseli saját delegációjának költségeit. Egyéb költségeket, amelyek a Bizottság munkája közben merülnek fel, a Szerződő Felek egyenlő arányban viselik, hacsak másképp nem állapodnak meg.
+
+*6. Cikk*
+
+*Egyebek*
+
+Ezen Alapszabályzat rendelkezései a szakértői munkacsoportokra is értelemszerűen vonatkoznak.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, az Egyezmény rendelkezéseit 1995. május 27. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A rendelet 3. §-ának (1) bekezdése alapján az Egyezmény rendelkezéseit 1995. május 27. napjától kell alkalmazni.

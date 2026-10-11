@@ -1,0 +1,82 @@
+---
+title: "121/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között Budapesten, 1999. szeptember 30-án aláírt állategészségügyi egyezmény jóváhagyásáról és kihirdetéséről"
+identifier: "121/2000. (VII. 11.) Korm. rendelet"
+njt_id: "2000-121-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/121"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-07-11
+in_force_from: 2000-07-11
+last_amended: 2000-07-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-121-20-22"
+retrieved: 2026-10-12
+---
+
+# 121/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között Budapesten, 1999. szeptember 30-án aláírt állategészségügyi egyezmény jóváhagyásáról és kihirdetéséről
+
+*(A diplomáciai jegyzékváltás 2000. március 31-én megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Orosz Föderáció Kormánya között Budapesten, 1999. szeptember 30-án aláírt állategészségügyi egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Állategészségügyi egyezmény\
+a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között
+
+A Magyar Köztársaság Kormánya, valamint az Oroszországi Föderáció Kormánya (a továbbiakban: Felek),
+
+az állagegészségügy területén megvalósítandó együttműködési óhajuktól vezérelve, az állatjárványok megelőzése és leküzdése, valamint azok széthurcolásának megakadályozása céljából,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Felek együttműködnek az állategészségügy területén és az állatok, állati eredetű termékek és nyersanyagok, a takarmányok szállítása során megteszik a szükséges intézkedéseket az állatjárványok egyik Fél országának területéről a másik Fél országának területére való behurcolásának megakadályozására.
+
+*2. Cikk*
+
+1\. Az állatjárványok megelőzése és leküzdése érdekében a Felek illetékes állategészségügyi hatóságai havonként megküldik egymásnak országaik állatjárvány-helyzetét ismertető kiadványokat, bulletineket.
+
+2\. Szükség esetén a Felek illetékes állategészségügyi szervei információcserét valósítanak meg az állatjárványok leküzdésével és megelőzésével kapcsolatos kérdésekben.
+
+*3. Cikk*
+
+Az állategészségügy tudományos és gyakorlati jelentőségű kérdéseinek tanulmányozása céljából a Felek közös megállapodás alapján, szemináriumok tartása és szakemberek kiküldetése révén, delegációcseréket szervezhetnek közös rendezvények megvalósítására.
+
+A jelen Egyezmény alapján megvalósuló delegációcserék utazási költségeinek elszámolása közös megállapodás alapján történik.
+
+*4. Cikk*
+
+A jelen Egyezményben foglaltak végrehajtásának illetékes szerveként a Magyar Fél a Magyar Köztársaság Földművelésügyi és Vidékfejlesztési Minisztériumát, az Orosz Fél pedig az Oroszországi Föderáció Mezőgazdasági és Élelmezésügyi Minisztériumát jelöli meg és hatalmazza fel.
+
+*5. Cikk*
+
+A jelen Egyezményben foglaltak értelmezésével kapcsolatban felmerülő vitás kérdéseket a Felek tárgyalások útján oldják meg.
+
+*6. Cikk*
+
+A jelen Egyezményt a Felek hatályos belső jogszabályainak megfelelően jóvá kell hagyni, és a jóváhagyásáról szóló diplomáciai jegyzékváltás napját követő 30. napon lép hatályba.
+
+A jelen Egyezményt ötéves időtartamra kötik és érvényessége automatikusan meghosszabbodik további öt-öt évvel, amennyiben a Szerződő Felek valamelyike, legkésőbb hat hónappal az Egyezmény lejárta előtt azt diplomáciai úton nem mondja fel.
+
+Készült Budapesten, 1999. szeptember 30-án, két eredeti példányban, magyar és orosz nyelven. Mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Az Oroszországi Föderáció\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. Az Egyezményben foglaltakat 2000. április 30. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.

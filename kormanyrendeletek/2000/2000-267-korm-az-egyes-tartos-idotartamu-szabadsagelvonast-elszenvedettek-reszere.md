@@ -1,0 +1,217 @@
+---
+title: "267/2000. (XII. 26.) Korm. rendelet az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról"
+identifier: "267/2000. (XII. 26.) Korm. rendelet"
+njt_id: "2000-267-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/267"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-26
+in_force_from: 2009-10-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-267-20-22"
+retrieved: 2026-10-12
+---
+
+# 267/2000. (XII. 26.) Korm. rendelet az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról
+
+A Kormány – az 1956-os forradalom és szabadságharc közelgő 45. évfordulójára tekintettel – az 1945 és 1963 között törvénysértő módon elítélt, valamint az 1956-os forradalommal és szabadságharccal összefüggésben elítéltek, továbbá az egyes, személyes szabadságot tartósan korlátozó intézkedések hatálya alatt állt személyek részére járó juttatásról a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] Juttatásra jogosult az a magyarországi lakóhellyel rendelkező magyar állampolgár, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte vagy rokkant, ha
+
+a) elítélése az 1956-os népfelkeléssel összefüggő elítélések orvoslásáról rendelkező 1989. évi XXXVI. törvény, vagy az 1945 és 1963 közötti törvénysértő elítélések orvoslásáról rendelkező 1990. évi XXVI. törvény alapján semmis,
+
+b) Magyarországon 1945. január 1. és 1953. december 31. között rendőrhatósági őrizet mellett munkatáborban fogva tartott volt, vagy
+
+c) 1944. október 1-jét követően a Szovjetunióba kényszermunkára elhurcolták
+
+és egy évet elérő, illetőleg azt meghaladó szabadságvesztést vagy szabadságkorlátozást szenvedett el.
+
+(1a)[^2] E rendelet alkalmazása során rokkant az a személy,
+
+a) aki legalább 67%-os munkaképesség-csökkenést szenvedett,
+
+b) aki legalább 50%-os egészségkárosodást szenvedett, vagy
+
+c) akinek egészségi állapota a rehabilitációs hatóság komplex minősítése alapján legfeljebb 50%-os mértékű.
+
+(2)[^3] Ha a személyes szabadság megvonására, illetve korlátozására több alkalommal vagy különböző jogcímen került sor, valamennyi – az (1) és (3) bekezdésben meghatározott – időtartamot egybe kell számítani.
+
+(3)[^4] Az időtartam számításakor az (1) bekezdés *a)–c)* pontjaiban meghatározott időtartamhoz hozzá kell számítani azt az időtartamot is, amely alatt a juttatásra jogosult személyt
+
+a)[^5] az (1) bekezdés *a)–c)* pontjaiban meghatározott célból őrizetbe vették, akkor is, ha szabadságelvonásra nem került sor,
+
+b) az 1956. évi 31. törvényerejű rendelet alapján közbiztonsági őrizetben tartották.
+
+## 2. §
+
+(1) Az 1. § (2) bekezdésének alkalmazása során nem lehet figyelembe venni a szabadságvesztésnek, illetve szabadságkorlátozásnak az *a)–c)* pontok szerinti időtartamát annál a személynél, akit
+
+a) háborús és népellenes bűncselekmény miatt ítéltek el és a büntetett előélethez fűződő hátrányok alól nem mentesült,
+
+b) azért internáltak, mert a 3820/1945. ME rendeletben említett hitlerista (volksbundista, fasiszta, nyilas stb.) szervezetben vezető szerepet töltött be,
+
+c) egyes köztörvényi bűncselekmények elkövetése miatt internáltak.
+
+(2) Az (1) bekezdés *c)* pontjának alkalmazásánál köztörvényi bűncselekményeken a Hatályos Anyagi Büntetőjogi Szabályok Hivatalos Összeállításának 230., 231., 260., 302., 422., 438., 439., 440., 442., 447., 455., 459., 474. és 479. pontjában, valamint az 1950. évi 30. törvényerejű rendelet 57., 59–60. §-ában meghatározott bűncselekményeket kell érteni.
+
+(3) Nem jogosult juttatásra az a személy, aki
+
+a) az államvédelmi szerveknek hivatásos állományú tagja volt,
+
+b) karhatalmista volt,
+
+c) az 1956-os forradalom és szabadságharc leverésében való részvétel miatt kitüntetésben részesült,
+
+d) az 1956-os forradalom és szabadságharc leverésében önként vett részt.
+
+e)[^6]
+
+(4) Az (1)–(3) bekezdés kizáró rendelkezéseit a 4. §-ban meghatározott személyek esetében is alkalmazni kell.
+
+## 3. §
+
+(1)[^7] Ha az 1. §-ban meghatározott időtartam
+
+a)[^8] az egy évet elérte, de a három évet nem érte el, a juttatás havi összege 22 500 forint,
+
+b)[^9] a három évet elérte, de az öt évet nem érte el, a juttatás havi összege 40 000 forint,
+
+c)[^10] az öt évet elérte, de a tíz évet nem érte el, a juttatás havi összege 60 000 forint,
+
+d)[^11] a tíz évet elérte vagy azt meghaladta a juttatás havi összege 80 000 forint.
+
+(2) Az (1) bekezdésben meghatározott időtartam számítása során 365 napot kell egy évnek tekinteni.
+
+(3)[^12] Az, akire törvénysértő, vagy semmissé nyilvánított ítéletben halálbüntetést szabtak ki, de azt nem hajtották végre, a tényleges szabadságvesztés vagy szabadságkorlátozás időtartamától függetlenül havi 100 000 forint juttatásra jogosult.
+
+## 4. §
+
+(1)[^13] Ha az 1. § alapján juttatásra jogosult személy elhunyt, a túlélő házastársa az (1a) vagy az (1b) bekezdésben meghatározott összegű juttatásra jogosult, amennyiben az elhunyt jogosult esetében az 1. § szerinti időtartam a három évet elérte vagy meghaladta.
+
+(1a)[^14] A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerint özvegyi nyugdíjra nem jogosult túlélő házastársat megillető juttatás havi összege
+
+a)[^15] 20 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam a három évet elérte, de az öt évet nem érte el,
+
+b)[^16] 30 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam az öt évet elérte, de a tíz évet nem érte el,
+
+c)[^17] 40 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam a tíz évet elérte,
+
+d)[^18] 50 000 forint a tényleges szabadságvesztés vagy szabadságkorlátozás időtartamától függetlenül, ha az elhunyt jogosultra törvénysértő vagy semmissé nyilvánított ítéletben halálbüntetést szabtak ki, de azt nem hajtották végre.
+
+(1b)[^19] A Tny. szerint özvegyi nyugdíjra jogosult túlélő házastársat megillető juttatás havi összege
+
+a)[^20] 12 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam a három évet elérte, de az öt évet nem érte el,
+
+b)[^21] 18 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam az öt évet elérte, de a tíz évet nem érte el,
+
+c)[^22] 24 000 forint, ha az elhunyt jogosult esetében az 1. § (2) bekezdése szerinti időtartam a tíz évet elérte,
+
+d)[^23] 30 000 forint a tényleges szabadságvesztés vagy szabadságkorlátozás időtartamától függetlenül, ha az elhunyt jogosultra törvénysértő vagy semmissé nyilvánított ítéletben halálbüntetést szabtak ki, de azt nem hajtották végre.
+
+(2)[^24] Túlélő házastársnak minősül az a magyarországi lakóhellyel rendelkező magyar állampolgár, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte vagy rokkant és az 1. § (1) bekezdésében meghatározott
+
+a) sérelmet szenvedett meghalt személlyel a szabadságelvonásának tartama alatt és annak halálakor is házasságban élt, vagy
+
+b)[^25] a sérelmet szenvedett személlyel a szabadságelvonás megszűnését követően házasságot kötött és a sérelmet szenvedett halálakor vele házasságban élt, amennyiben a házasság megkötésére e rendelet hatálybalépését megelőzően került sor.
+
+(3) Amennyiben a túlélő házastárs újabb házasságot köt vagy kötött, a juttatásra túlélő házastársként nem jogosult.
+
+(4) Az e rendelet hatálybalépése előtt meghalt személy túlélő házastársa részére akkor jár a juttatás, ha a meghalt személy – életben léte esetén – jogosult lenne a juttatásra.
+
+(5) A túlélő házastársat a juttatás, amennyiben annak feltételei fennállnak saját jogán és az elhunyt házastársa jogán egyaránt megilleti.
+
+## 4/A. §[^26]
+
+A folyósított juttatás összegét 2022. január 1-jétől a Tny. 62. §-ában foglaltak szerint kell emelni, a juttatást 2021. december 31-ét követő időponttól a Tny. 62. §-a szerinti időközi nyugdíjemelésekkel növelt, 3. § vagy 4. § szerinti összegben kell megállapítani.
+
+## 5. §
+
+(1) A juttatás a naptári hónap első napjától teljes összegben jár arra a naptári hónapra is, amelyben a jogosultsági feltételek beállnak.
+
+(2) A juttatás a jogosultat a részére járó nyugellátások, nyugdíjszerű rendszeres szociális ellátások összegére tekintet nélkül megilleti, más ellátásra való jogosultságát nem érinti, továbbá azt az említett ellátások megállapításánál és folyósításánál irányadó összeghatárok szempontjából figyelmen kívül kell hagyni.
+
+## 6. §
+
+(1)[^27] A juttatás megállapítása és folyósítása iránti kérelmet a nyugdíjfolyósító szervnél (a továbbiakban: folyósító szerv) kell benyújtani, és ezzel egyidejűleg a jogosultság elbírálásához, valamint a kérelmező azonosításához szükséges, a folyósító szerv által a Tny. alapján kezelt adatokat és igazolásokat is elő kell terjeszteni, továbbá nyilatkozni kell arról, hogy a kérelmező nem esik a 2. § (3) bekezdésében megfogalmazott kizáró feltételek hatálya alá.
+
+(2)[^28] A jogosult az 1. §-ban meghatározott feltételek fennállását az állampolgárságot igazoló okirattal, a szabadságelvonás tekintetében kárpótlási hatóság által hozott véglegessé vált vagy jogerős személyi kárpótlási határozattal, vagy társadalombiztosítási és munkajogi helyzetének rendezéséről szóló hatósági bizonyítvánnyal, igazolással is bizonyíthatja, az elítélés semmisségét és a szabadságvesztés tényleges időtartamát az első fokon eljárt bíróság igazolása igazolja. A folyósító szerv a juttatást megállapító határozatának meghozatala előtt, amennyiben a jogosult az előzőekben részletezett, kárpótlási hatóság által kibocsátott döntésekkel nem rendelkezik, és az előterjesztett igazolásokból a jogosultság ténye vagy a szabadságkorlátozás időtartama egyértelműen nem állapítható meg, az ügyfél által becsatolt dokumentumok alapján az adatok pontosítása miatt megkeresheti a kárpótlási hatóságot.
+
+(3)[^29] Amennyiben a kérelmező a munkaképesség-csökkenésre vagy az egészségkárosodás mértékére vonatkozó hatályos szakvéleménnyel, szakhatósági állásfoglalással nem rendelkezik, kérelmére az egészségkárosodás mértékét a rehabilitációs szakértői szerv igazolja.
+
+(4) A juttatásban részesülő a jogosultság feltételeit érintő tények, körülmények megváltozásáról a változás bekövetkeztétől számított 15 napon belül a folyósító szervet köteles írásban értesíteni.
+
+## 7. §
+
+(1)[^30] A juttatás iránti igény érvényesítésére, a kiegészítés folyósítására, a jogalap nélkül felvett juttatás visszafizetésére és a jogorvoslatra a Tny., valamint a végrehajtására kiadott 168/1997. (X. 6.) Korm. rendelet rendelkezéseit kell alkalmazni.
+
+(2) A juttatást, az annak összegére történő végrehajtás (levonás), valamint a személyi jövedelemadó szempontjából nyugdíjnak kell tekinteni.
+
+(3) A juttatást folyósító szerv az esedékesség hónapjában a nyugellátással, illetőleg a folyósító szerv által folyósított rendszeres szociális ellátással együtt – ezek hiányában önállóan – folyósítja. A folyósító szerv a juttatást a nyugellátástól, illetve a rendszeres szociális ellátástól elkülönítetten kezeli.
+
+(4)[^31] A juttatást a jogosultság megszűnését követő hónap első napjától kell megszüntetni, kivéve, ha a jogosultság a juttatásban részesülő halála miatt szűnt meg.
+
+## 8. §
+
+A juttatás fedezetét és a végrehajtás költségeit a központi költségvetés a Nyugdíjbiztosítási Alapnak megtéríti.
+
+## 9. §
+
+(1) Ez a rendelet 2001. január 1. napján lép hatályba.
+
+(2)[^32] Amennyiben az érintett a juttatás iránti kérelmét 2001. július 31. napjáig benyújtja, a juttatás – a jogosultsági feltételek megléte esetén – 2001. január 1. napjától jár. A 2001. július 31. napját követően benyújtott kérelem esetén a juttatást a kérelem benyújtását megelőző hatodik hónap első napjától kell megállapítani.
+
+## 10. §[^33]
+
+Az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet módosításáról szóló 63/2013. (III. 4.) Korm. rendelet (a továbbiakban: Módr.) 2. §-ával megállapított 3. § (1) és (3) bekezdése, valamint 3. §-ával megállapított 4. § (1a) és (1b) bekezdése szerinti emelt összegű juttatás a jogosultakat 2013. január 1. napjával kezdődő hatállyal illeti meg. A visszamenőlegesen járó különbözetet a havi juttatás – a Módr. hatálybalépését[^34] követő első – folyósításával egyidejűleg, egy összegben kell folyósítani.
+
+## 11. §[^35]
+
+Azok, akik e rendeletnek az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet módosításáról szóló 102/2013. (III. 29.) Korm. rendelet 3. §-ával módosított 4. § (2) bekezdés *b)* pontja alapján minősülnek túlélő házastársnak, az e rendelet szerint őket megillető juttatást 2013. január 1-jére visszamenőleg kérelmezhetik, kivéve, ha ennél későbbi időpontban váltak az elhunyt házastárs jogán jogosulttá.
+
+## 12. §[^36]
+
+E rendeletnek az egyes, tartós időtartamú szabadságelvonást elszenvedettek részére járó juttatásról szóló 267/2000. (XII. 26.) Korm. rendelet módosításáról szóló 116/2013. (IV. 19.) Korm. rendelet (a továbbiakban: Módr2.)\
+1\. § (2) bekezdésével megállapított 3. § (1) bekezdés *a)* pontja szerinti juttatás a jogosultakat 2013. január 1. napjával kezdődő hatállyal illeti meg.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 116/2013. (IV. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1a) bekezdését a 63/2013. (III. 4.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (2) bekezdése a 314/2001. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg, rendelkezéseit e módosító rendelet 4. §-ának (2) bekezdése alapján a folyamatban lévő, valamint a határozattal már elbírált ügyekben is alkalmazni kell.
+[^4]: Az 1. § (3) bekezdése a 314/2001. (XII. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 267/2002. (XII. 20.) Korm. rendelet 2. §-ával megállapított, a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdés a) pontja a 267/2002. (XII. 20.) Korm. rendelet 2. §-ával megállapított, a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdésének e) pontját a 10/2003. (IV. 3.) AB határozat 2. pontja 2000. december 26. napjára visszamenő hatállyal megsemmisítette.
+[^7]: A 3. § (1) bekezdése a 116/2013. (IV. 19.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (1) bekezdés a) pontja a 116/2013. (IV. 19.) Korm. rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés b) pontja a 116/2013. (IV. 19.) Korm. rendelet 1. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés c) pontja a 116/2013. (IV. 19.) Korm. rendelet 1. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés d) pontja a 116/2013. (IV. 19.) Korm. rendelet 1. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdése a 63/2013. (III. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 5. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdése a 63/2013. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 116/2013. (IV. 19.) Korm. rendelet 1. § (4) bekezdése szerint módosított szöveg.
+[^14]: A 4. § (1a) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 692/2021. (XII. 9.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (1a) bekezdés a) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^16]: A 4. § (1a) bekezdés b) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^17]: A 4. § (1a) bekezdés c) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^18]: A 4. § (1a) bekezdés d) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^19]: A 4. § (1b) bekezdését a 63/2013. (III. 4.) Korm. rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 692/2021. (XII. 9.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^20]: A 4. § (1b) bekezdés a) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^21]: A 4. § (1b) bekezdés b) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^22]: A 4. § (1b) bekezdés c) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^23]: A 4. § (1b) bekezdés d) pontja a 63/2013. (III. 4.) Korm. rendelet 5. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^24]: A 4. § (2) bekezdés nyitó szövegrésze a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^25]: A 4. § (2) bekezdés b) pontja a 102/2013. (III. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^26]: A 4/A. §-t a 692/2021. (XII. 9.) Korm. rendelet 10. §-a iktatta be.
+[^27]: A 6. § (1) bekezdése a 349/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 63/2013. (III. 4.) Korm. rendelet 5. § (1) bekezdés c) pontja, a 692/2021. (XII. 9.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^28]: A 6. § (2) bekezdése a 102/2013. (III. 29.) Korm. rendelet 1. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 89. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^29]: A 6. § (3) bekezdése a 95/2012. (V. 15.) Korm. rendelet 32. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^30]: A 7. § (1) bekezdése a 692/2021. (XII. 9.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^31]: A 7. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 220. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^32]: A 314/2001. (XII. 28.) Korm. rendelet 4. §-ának (2) bekezdése alapján a Nyugdíjfolyósító Igazgatóság hivatalból jár el, ha a 9. § (2) bekezdése szerinti kérelmet 2001. 12. 28. napja előtt elutasították, azonban a 314/2001. (XII. 28.) Korm. rendelet rendelkezései alapján a kérelmező jutattásra jogosult. E módosító rendelet 4. §-ának (3) bekezdése szerint a 2001. 12. 28. napját követően benyújtott kérelmek esetén a juttatás megállapítására e rendelet 9. §-ának (2) bekezdésének rendelkezéseit kell alkalmazni.
+[^33]: A 10. §-t a 63/2013. (III. 4.) Korm. rendelet 4. §-a iktatta be.
+[^34]: A hatálybalépés időpontja 2013. március 9.
+[^35]: A 11. §-t a 102/2013. (III. 29.) Korm. rendelet 2. §-a iktatta be.
+[^36]: A 12. §-t a 116/2013. (IV. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be.

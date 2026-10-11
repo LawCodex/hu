@@ -1,0 +1,139 @@
+---
+title: "130/2008. (V. 9.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya között Dar Es Salaamban, 1966. február 15-én aláírt „Műszaki és Tudományos Együttműködési és Kölcsönös Segítségnyújtási Megállapodás” kihirdetéséről"
+identifier: "130/2008. (V. 9.) Korm. rendelet"
+njt_id: "2008-130-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/130"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-05-09
+in_force_from: 2008-05-10
+last_amended: 2008-05-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-130-20-22"
+retrieved: 2026-10-12
+---
+
+# 130/2008. (V. 9.) Korm. rendelet a Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya között Dar Es Salaamban, 1966. február 15-én aláírt „Műszaki és Tudományos Együttműködési és Kölcsönös Segítségnyújtási Megállapodás” kihirdetéséről
+
+## (A Megállapodás a Magyar Köztársaság vonatkozásában 1967. február 23-án nemzetközi jogilag hatályba lépett.)
+
+### 1. §
+
+A Kormány a Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya között Dar Es Salaamban 1966. február 15-én aláírt „Műszaki és Tudományos Együttműködési és Kölcsönös Segítségnyújtási Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+**„Agreement on Technical and Scientific Cooperation and Mutual Assistance between the Government of the Hungarian People's Republic and the Government of the United Republic of Tanzania**
+
+The Government of the Hungarian People's Republic and the Government of the United Republic of Tanzania hereinafter referred to as the „Contracting Parties” being desirous of strengthening the friendly relations between their countries and their economic cooperation by the exchange of the latest achievements in science and technology and by mutual assistance in this field have agreed as follows:
+
+*Article 1*
+
+The Contracting Parties shall cooperate and render each other mutual assistance, within the limits of their resources, in scientific and technical matters, on the basis of equal partnership, with a view to the most effective utilization of the latest achievements in science and technology for furthering the economic development of both countries.
+
+*Article 2*
+
+Scientific and technical cooperation between the Contracting Parties shall consist in particular of the following:
+
+*a)* exchange of experts and advisers, and the provision of consultancy services for specific purposes;
+
+*b)* provision of educational and training facilities;
+
+*c)* exchange of scientific materials and information.
+
+*Article 3*
+
+The extent and conditions of the technical and scientific cooperation and mutual assistance will be stipulated in specific contracts to be concluded between the appropriate Hungarian organization and the Government of the United Republic of Tanzania or any organizations approved by the Government of the United Republic of Tanzania for the purposes of this Agreement.
+
+*Article 4*
+
+Each Contracting Party shall insofar as the laws of the country of such Party may permit, grant within its territory to the nationals of the other Contracting Party all the facilities necessary for the successful fulfilment of tasks under the present Agreement.
+
+*Article 5*
+
+All persons performing their duties within its territory of the other Contracting Party under the contracts concluded under the Agreement shall in their activities comply with the conditions specified in each particular contract and shall refrain from interference in any other matters.
+
+*Article 6*
+
+Each Contracting Party undertakers to insure that special knowledge acquired in the course of the implementation of this Agreement shall not be disclosed to a third party without the prior consent of the other Contracting Party.
+
+*Article 7*
+
+The Agreement does not apply to services provided in connection with commercial contracts.
+
+*Article 8*
+
+This Agreement shall come into operation on the day of exchange of notes confirming that the same has been ratified in accordance with the respecting laws of the Contracting Parties and shall remain in force until terminated by either Contracting Party by giving to the other a notice in writing expiring on the last day of the sixth month following the month in which such notice is received by such other Contracting Party.
+
+*Article 9*
+
+In the event of the termination of this Agreement as hereinbefore provided all arrangements and contracts separately entered in accordance with the provisions of this Agreement prior to such termination shall continue to remain in force notwithstanding such termination unless such contracts and agreements expire or are terminated as may therein be provided.
+
+Done at Dar es Salaam on the 15<sup>th</sup> of February, 1966 in two originals in the English language, both being equally authentic.
+
+For the Government\
+of the United Republic\
+of Tanzania
+
+For the Government\
+of the Hungarian People's\
+Republic
+
+**Műszaki és Tudományos Együttműködési és Kölcsönös Segítségnyújtási Megállapodás a Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya között**
+
+A Magyar Népköztársaság Kormánya és a Tanzániai Egyesült Köztársaság Kormánya, a továbbiakban „Szerződő Felek” attól az óhajtól vezérelve, hogy országaik baráti kapcsolatait és gazdasági együttműködését – a tudomány és technika legkorszerűbb vívmányainak kicserélése és e téren való kölcsönös segítségnyújtás útján – megerősítsék, az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek együttműködést valósítanak meg, és kölcsönösen segítik egymást, lehetőségeik határain belül, a tudományos és műszaki kérdések tekintetében, egyenlő társként, azzal a céllal, hogy elősegítsék mindkét ország gazdasági fejlődése érdekében a tudomány és technika legújabb vívmányainak leghatékonyabb alkalmazását.
+
+*2. Cikk*
+
+A Szerződő Felek közötti tudományos és műszaki együttműködés különösképpen az alábbiakra terjed ki:
+
+*a)* szakértők és tanácsadók cseréje, speciális célokra konzultáns szolgálat biztosítása;
+
+*b)* oktatási és kiképzési lehetőségek biztosítása;
+
+*c)* tudományos anyagok és tájékoztatás cseréje.
+
+*3. Cikk*
+
+A műszaki és tudományos együttműködés és kölcsönös segítségnyújtás területe és feltételei az illetékes magyar szerv és a Tanzániai Egyesült Köztársaság Kormánya vagy ezen Egyezmény céljainak megfelelően a Tanzániai Egyesült Köztársaság Kormánya által jóváhagyott bármely szervek között megkötendő külön szerződések keretében kerülnek rögzítésre.
+
+*4. Cikk*
+
+A Szerződő Felek mindegyike kész a továbbiakban, az illető ország törvényeinek megfelelően, biztosítani a saját területén a másik Szerződő Fél állampolgárainak minden, a jelen Egyezmény keretében végrehajtandó feladat eredményes teljesítéséhez szükséges segítséget.
+
+*5. Cikk*
+
+Mindazok a személyek, akik munkájukat a másik Szerződő Fél területén a jelen Egyezmény keretében kötött szerződések alapján végzik, tevékenységük során a külön szerződésben foglalt feltételekhez kell igazodjanak, és tartózkodniok kell minden más ügybe való beavatkozástól.
+
+*6. Cikk*
+
+A Szerződő Felek kötelezik magukat arra, hogy a jelen Egyezmény alkalmazása következtében szerzett speciális ismereteket, a másik Szerződő Fél előzetes hozzájárulása nélkül nem bocsátják egy harmadik személy rendelkezésére.
+
+*7. Cikk*
+
+Jelen Egyezmény nem terjed ki a kereskedelmi szerződésekkel kapcsolatos szolgáltatásokra.
+
+*8. Cikk*
+
+Jelen Egyezmény a Szerződő Felek törvényeinek megfelelő ratifikálás megtörténtét igazoló jegyzékek kicserélése napján lép életbe, és mindaddig életben marad, amíg a Szerződő Felek valamelyike azt írásban fel nem mondja, s ezután is egészen az egyik Szerződő Fél által megkapott írásbeli felmondás hónapjától számított 6. hónap utolsó napjáig.
+
+*9. Cikk*
+
+A jelen Egyezmény fentiek szerinti lejárata esetén jelen Egyezmény keretében kötött, a lejárat előtt kelt külön egyezmények és szerződések továbbra is érvényben maradnak, függetlenül az egyezmény lejáratától, kivéve, ha az ilyen szerződések és egyezmények a bennük foglalt feltételek szerint lejárnak vagy befejeződnek.
+
+Készült Dar Es Salaamban, 1966. február 15-én, két eredeti példányban, angol nyelven, mindkét példány egyaránt hiteles.
+
+(Aláírások)”
+
+### 3. §
+
+(1) E rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a tudománypolitika koordinációjáért felelős miniszter gondoskodik.

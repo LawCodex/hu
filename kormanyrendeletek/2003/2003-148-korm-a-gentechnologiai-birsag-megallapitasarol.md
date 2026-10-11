@@ -1,0 +1,82 @@
+---
+title: "148/2003. (IX. 22.) Korm. rendelet a géntechnológiai bírság megállapításáról"
+identifier: "148/2003. (IX. 22.) Korm. rendelet"
+njt_id: "2003-148-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/148"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-09-22
+in_force_from: 2007-08-05
+last_amended: 2007-08-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-148-20-22"
+retrieved: 2026-10-12
+---
+
+# 148/2003. (IX. 22.) Korm. rendelet a géntechnológiai bírság megállapításáról
+
+A géntechnológiai tevékenységéről szóló 1998. évi XXVII. törvény (a továbbiakban: Tv.) 34. §-a (1) bekezdésének e) pontjában foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet alkalmazásában az ismételt alkalommal történő jogszabálysértés alatt a korábbi jogszabálysértés megállapításától számított 5 éven belül elkövetett újabb jogszabálysértést kell érteni.
+
+## 2. §
+
+A géntechnológiai bírságot kiszabó ellenőrzésre jogosult hatóság a bírság mértékének megállapítása során köteles mérlegelni, és a bírság összegénél figyelembe venni a jogellenes magatartás súlyát, következményeinek a környezetre és az emberi egészségre való veszélyességét, továbbá első ízben történő vagy ismételt megállapítását, illetve véletlenszerű bekövetkeztét.
+
+## 3. §
+
+(1)[^2] A géntechnológiai bírság mértéke első alkalommal 300 ezer forinttól 10 millió forintig, ismételt alkalommal 1 millió forinttól 20 millió forintig terjedhet a következő esetekben:
+
+a) a természetes szervezet engedély nélküli vagy az abban előírtaktól eltérő módosítása,
+
+b) géntechnológiával módosított szervezet, illetve az abból előállított termék zárt rendszerben történő engedély nélküli vagy az abban előírtaktól eltérő felhasználása,
+
+c) géntechnológiával módosított szervezetből álló, illetve ilyen szervezetet a külön jogszabályokban meghatározott határérték felett tartalmazó termék csomagolásán a kötelező jelölés elmulasztása,
+
+d) a géntechnológiával módosított szervezet, illetve az abból előállított vagy azt tartalmazó termék engedély nélküli vagy az abban előírtaktól eltérő környezetbe való kibocsátása, illetve forgalomba hozatala,
+
+e) géntechnológiával módosított szervezetnek, illetve az abból előállított vagy azt tartalmazó terméknek az ország területére való engedély nélküli vagy az abban előírtaktól eltérő behozatala, illetve az ország területéről való kivitele,
+
+f) géntechnológiai létesítmény engedély nélküli vagy az abban előírtaktól eltérő létesítése,
+
+g) a géntechnológiával módosított szervezet, illetve az abból előállított vagy azt tartalmazó termék engedély nélküli, vagy az abban előírtaktól eltérő szállítása,
+
+h) a géntechnológiai hatóságok által előírt hatástanulmány elkészítésének elmulasztása, illetve be nem tartása,
+
+i) géntechnológiai felügyelő foglalkoztatásának elmulasztása,
+
+j) a hatóságokkal szembeni tájékoztatási kötelezettség elmulasztása súlyos kockázat vagy baleset esetén, valamint a baleseti tervben foglaltak elmulasztása, továbbá adatok eltitkolása, meghamisítása,
+
+k) géntechnológiával módosított szervezet, illetve az abból előállított vagy azt tartalmazó termék engedély nélküli vagy az előírt feltételeknek meg nem felelő ártalmatlanítása.
+
+(2)[^3] A Tv. 21/D. §-ának (3) bekezdése és 21/E. §-ának (5) bekezdése szerinti esetben a bírság mértéke első alkalommal 300 000 forinttól 1 millió forintig, ismételt alkalommal 1 millió forinttól 10 millió forintig terjedhet.
+
+## 4. §[^4]
+
+(1) Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) a Tanács 90/219/EGK (1990. április 23.) irányelve a géntechnológiával módosított mikroorganizmusok zárt rendszerben történő használatáról, 17. cikk,
+
+b) az Európai Parlament és a Tanács 2001/18/EK irányelve (2001. március 12.) a géntechnológiával módosított szervezetek környezetbe történő szándékos kibocsátásáról és a Tanács 90/220/EGK irányelvének hatályon kívül helyezéséről, 33. cikk és 34. cikk 1. bekezdése.
+
+(2) Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
+
+a) az Európai Parlament és a Tanács 1829/2003/EK (2003. szeptember 22.) rendelete a géntechnológiával módosított élelmiszerekről és takarmányokról, 45. cikk,
+
+b) az Európai Parlament és a Tanács 1830/2003/EK (2003. szeptember 22.) rendelete a géntechnológiával módosított szervezetek nyomon követhetőségéről és címkézéséről, és a géntechnológiával módosított szervezetekből előállított élelmiszer- és takarmánytermékek nyomon követhetőségéről, valamint a 2001/18/EK irányelv módosításáról, 11. cikk,
+
+c) az Európai Parlament és a Tanács 1946/2003/EK (2003. július 15.) rendelete a géntechnológiával módosított szervezetek országhatárokon történő átviteléről, 18. cikk.
+
+## 5. §
+
+Ez a rendelet 2004. május 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. § a 141/2007. (VI. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^2]: A 3. § eredeti szövegének jelölését a 141/2007. (VI. 20.) Korm. rendelet 6. §-a (1) bekezdésre változtatta.
+[^3]: A 3. § (2) bekezdését a 141/2007. (VI. 20.) Korm. rendelet 6. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva.
+[^4]: A 4. § a 141/2007. (VI. 20.) Korm. rendelet 7. §-ával megállapított szöveg.

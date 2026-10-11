@@ -1,0 +1,387 @@
+---
+title: "332/2007. (XII. 13.) Korm. rendelet a határátkelőhely és az ideiglenes határátkelőhely megnyitásáról és működtetéséről, valamint a határátlépési pontról"
+identifier: "332/2007. (XII. 13.) Korm. rendelet"
+njt_id: "2007-332-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/332"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-12-13
+in_force_from: 2009-03-02
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-332-20-22"
+retrieved: 2026-10-12
+---
+
+# 332/2007. (XII. 13.) Korm. rendelet a határátkelőhely és az ideiglenes határátkelőhely megnyitásáról és működtetéséről, valamint a határátlépési pontról
+
+A Kormány az államhatárról szóló 2007. évi LXXXIX. törvény 16. §-a (4) bekezdésének a) és b) pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## Határátkelőhely megnyitása és működtetése
+
+### 1. §
+
+(1) Új határátkelőhelyet a határforgalom számára megnyitni akkor lehet, ha a határátkelőhely az e rendeletben meghatározott, a forgalom jellegének és a határátkelőhelyen folytatott, az államhatáron történő átléptetésre vonatkozó hatósági tevékenységek ellátásához szükséges feltételeknek megfelel. A határátkelőhely a határellenőrzés megkezdésével nyílik meg.
+
+(2) Államhatárt érintő határátkelőhelyre e rendelet rendelkezéseit akkor kell alkalmazni, ha az annak létesítéséről szóló nemzetközi szerződés másként nem rendelkezik.
+
+### 2. §
+
+(1) A határátkelőhely működéséhez szükséges feltételeket a forgalom jellegének, illetve a határátkelőhelyen folytatott tevékenységeknek megfelelően az üzemeltető e rendeletben meghatározottak szerint köteles biztosítani.
+
+(2) Az üzemeltető a határátkelőhely működése során köteles folyamatosan gondoskodni a személy- és áruforgalom zavartalan és kulturált határellenőrzésének feltételeiről.
+
+(3) A határátkelőhely üzemeltetője a határátkelőhelyen az ellenőrző hatóságok elhelyezését térítés nélkül biztosítja. Az üzemeltetési költségeket a hatóságok az üzemeltetőnek – külön megállapodás szerint – megtérítik.
+
+### 3. §[^1]
+
+(1) Személyforgalmat lebonyolító közúti határátkelőhelyen biztosítani kell
+
+a) a be- és kilépő forgalom fizikai szétválasztását,
+
+b) autóbusz forgalom esetén külön buszsávot, amely alkalomszerűen a személygépkocsik közlekedésére is megnyitható,
+
+c) a határátkelőhely közúti közlekedésének rendjét előjelző táblákat, útburkolati jeleket, forgalomirányításra szolgáló piros-zöld fényű jelzőlámpákat, sorompókat,
+
+d) a határátkelőhely bekerítését,
+
+e) a határátkelőhely és közvetlen környékének kivilágítását,
+
+f) az elkülönített helyen történő ellenőrzés, illetve tételes vámvizsgálat végrehajtása céljából a folyamatos forgalmat nem akadályozó vizsgáló területet,
+
+g) forgalmi sávonként a sávok mellett okmány-kezelő fülkét,
+
+h) a hatósági feladatok ellátására szolgáló hivatali helyiségeket, beleértve a szociális helyiségeket, vízvételi helyiséget, illemhelyiséget és az előállító helyiséget,
+
+i) az arra kijelölt határátkelőhelyeken a közegészségügyi vizsgálatokhoz szükséges helyiségeket.
+
+(2) Személyforgalmat lebonyolító közúti határátkelőhelyen – ha a határátkelőhely működéséhez szükséges és a létesítés feltételei biztosítottak – biztosítani kell
+
+a) forgalmi irányonként a személyek ki- és beutazási feltételek szerinti szétválasztását lehetővé tevő sávok kialakítását,
+
+b) gépjárművizsgáló csarnokot vagy vizsgáló helyet.
+
+### 4. §
+
+Áruforgalmat is lebonyolító közúti határátkelőhelyen biztosítani kell
+
+a) a személy- és áruforgalom fizikai szétválaszthatóságát,
+
+b) a várható forgalom nagyságának megfelelően kamionparkolót (terminált),
+
+c) vizsgáló csarnokot a tehergépjárművek vizsgálatára,
+
+d) radioaktív anyagok ellenőrzését biztosító technikai eszközök telepítésének lehetőségét,
+
+e) tengely és összsúly mérleget,
+
+f) raktárakat,
+
+g) az árufuvarozás lebonyolításában közreműködők részére irodákat,
+
+h) az arra kijelölt határátkelőhelyeken az állat- és növény-egészségügyi vizsgálatokhoz szükséges, valamint élő állat elhelyezésére alkalmas létesítményeket,
+
+i)[^2] a veszélyes szállítmányok ellenőrzéséhez szükséges elkülönített, védőtöltéssel ellátott területet (ADR parkolók) abban az esetben, ha a határátkelőhelyen a veszélyes árut szállító járművek közlekedése megengedett,
+
+j) fertőtlenítésre, illetve megsemmisítésre alkalmas létesítményeket,
+
+k)[^3] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
+
+### 5. §
+
+Légi határátkelőhelyen biztosítani kell
+
+a) a személy- és áruforgalom határátkelőhelyen belüli fizikai szétválaszthatóságát,
+
+b) a be- és kilépő forgalom szétválaszthatóságát,
+
+c) a schengeni belső, illetve a külső légi járatok utasainak fizikai szétválasztását lehetővé tevő folyosók kialakítását,
+
+d) a személyek ki- és beutazási feltételek szerinti szétválasztását lehetővé tevő – legalább három – folyosó kialakítását,
+
+e) a be nem léptethető utasok elhelyezésére szolgáló helyiséget a tranzitterületen,
+
+f) tranzitutasok ellenőrzésének feltételeit, ha ilyen típusú forgalmat engedélyeztek,
+
+g) vizsgáló csarnokot az áru vizsgálatára,
+
+h)[^4] a 3. § (1) bekezdés *d)* és *h)*, valamint a 4. § d), f) és g) pontjában előírt feltételeket,
+
+i) szükség esetén a 4. § h) és j) alpontjaiban előírt feltételeket,
+
+j) az ellenőrzéshez szükséges biztonsági feltételeket,
+
+k)[^5] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
+
+### 6. §
+
+Vasúti határátkelőhelyen biztosítani kell
+
+a) az ellenőrzési, elhelyezési és biztonsági feltételeket (különösen: kivilágítás, szolgálati fülkék),
+
+b) a kutatáshoz, térfigyeléshez szükséges építményeket,
+
+c) a be nem léptethető utasok elhelyezésére szolgáló helyiséget,
+
+d) elkülönített helyen történő ellenőrzés, illetve tételes vámvizsgálat végrehajtása céljából vizsgáló területet (tároló vágányt),
+
+e) szükség esetén a 4. § d), h) és j) pontjaiban előírt feltételeket,
+
+f) hatósági feladatok ellátásához szükséges hivatali helyiségeket, beleértve szociális helyiségeket és az előállító helyiséget,
+
+g)[^6] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
+
+### 7. §
+
+Vízi határátkelőhelyen biztosítani kell
+
+a) a személy- és teherhajók elkülönített helyen történő ellenőrizhetőségét,
+
+b) a be- és kilépő utasok szétválaszthatóságát,
+
+c) a határellenőrzéshez szükséges eszközöket és létesítményeket,
+
+d) az ellenőrzéshez szükséges biztonsági feltételeket (különösen: kivilágítás, bekerített ellenőrzési hely),
+
+e) a be nem léptethető utasok elhelyezésére szolgáló helyiséget,
+
+f)[^7] szükség esetén a 3. § (1) bekezdés *h)* és a 4. § *d)*, *h),* *j)* alpontjaiban előírt feltételeket,
+
+g)[^8] a 3. § (1) bekezdés i) pontjában előírt feltételeket.
+
+### 8. §
+
+(1) A közúti határátkelőhelyet tájékoztató táblákkal meg kell jelölni, ennek megfelelően
+
+a)[^9] a belépő forgalom számára jól látható módon el kell helyezni Magyarország állami zászlójának megfelelő színű táblát, amelyen fel kell tüntetni Magyarország állami címerét, továbbá külön táblán a „Magyarország” feliratot,”
+
+b) a belépő forgalom számára jól láthatóan el kell helyezni az Európai Unió hivatalos jelképét ábrázoló táblát,
+
+c) kiegészítő táblákon kell feltüntetni a határátkelőhely megnevezését magyar nyelven és a közös határral érintett szomszéd állam hivatalos nyelvén, valamint a határátkelőhely nyitvatartási idejét és az igénybevételére vonatkozó korlátozásokat angol és német nyelven is.
+
+(2) A határátkelőhely nyitvatartási idejére és az igénybevételre vonatkozó korlátozások kiegészítő táblával történő megjelölése a légi, a vasúti és a vízi határátkelőhelyen is kötelező.
+
+### 9. §
+
+(1)[^10] Korlátozott nyitvatartási időben működő határátkelőhely nyitvatartási időn kívüli igénybevételét, illetve korlátozott forgalmú határátkelőhelynek a forgalmi jellegtől eltérő eseti igénybevételét a megyei rendőr-főkapitányság kérelemre engedélyezheti annak részére, aki igazolja, hogy ahhoz jogos érdeke fűződik. Az államhatárt érintő határátkelőhely esetén a szomszédos állam határforgalom-ellenőrző hatóságának hozzájárulását az engedélyező hatóság kérelmezi.
+
+(2)[^11]
+
+(3) A kérelemnek tartalmaznia kell
+
+a) a kérelmező nevét, lakóhelyét vagy tartózkodási helyét (jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén annak megnevezését, székhelyét vagy telephelyét),
+
+b) a határátkelőhely megnevezését,
+
+c) a határátkelőhely igénybevételének tervezett időpontját (naptári nap és óra meghatározásával), és
+
+d) forgalmi jellegtől eltérő eseti igénybevétel esetén a forgalom bővítésének tárgyát és az arra vonatkozó adatokat (útlevélszám, jármű típusa, rendszáma, lajstromszáma),
+
+e) a kérelem indokait.
+
+### 9/A. §[^12]
+
+A határátlépés ellenőrzését végző szerv a határátkelőhelyen kérelemre soron kívül hajtja végre a határátlépés ellenőrzését, ha a határátlépés ellenőrzésének soron kívüliségéhez jelentős gazdasági, társadalmi, egészségügyi vagy kulturális érdek fűződik.
+
+## A határátkelőhely rendje[^13]
+
+### 9/B. §[^14]
+
+(1) A határátkelőhely rendjét a határrendészeti kirendeltség, illetve ennek hiányában a rendőrkapitányság állapítja meg, amelyet írásban kell rögzíteni, és az illetékes rendőrfőkapitány hagyja jóvá. A Repülőtéri Rendőr Igazgatóság tekintetében a határellenőrzésért felelős szervezeti elem állapítja meg a határátkelőhely rendjét, és az igazgató hagyja jóvá.
+
+(2) A határátkelőhely rendje tartalmazza:
+
+a) a személyek és a járművek ellenőrzése és áthaladása biztosításának rendjét,
+
+b) az ellenőrzésre kijelölt helyeket,
+
+c) az át nem léptethető személyek és járművek visszairányításának módját,
+
+d) a személyek és a járművek mozgására, tartózkodására kijelölt helyeket,
+
+e) a veszélyes szállítmányok ellenőrzésére szolgáló helyeket,
+
+f) a szállítmányok fertőtlenítésére, illetve megsemmisítésére kijelölt helyeket,
+
+g) a baleset-elhárítási szabályokat,
+
+h) visszairányítás esetén a visszairányított személy határátkelőhelyen való tartózkodási helyét,
+
+i) az előállított, elfogott személy határátkelőhelyen történő biztonságos őrzésére kijelölt helyet,
+
+j) a soron kívüli határforgalom-ellenőrzés rendjét,
+
+k) nemzetközi szerződésben foglalt feladatok végrehajtásának szabályait,
+
+l) a határforgalom-ellenőrzésében részt vevő szervek folyamatos együttműködésének szabályait.
+
+(3) A határátkelőhely rendjének az utasforgalomra vonatkozó rendelkezéseit a határátkelőhelyen, magyar és angol nyelven, valamint a szomszéd állam hivatalos nyelvén, jól látható helyen kell elhelyezni.
+
+## Ideiglenes határátkelőhely megnyitása és működtetése
+
+### 10. §
+
+(1)[^15] Az államhatár ideiglenes megnyitására (a továbbiakban: ideiglenes határátkelőhely) – a (3) bekezdésben meghatározott kivétellel – engedéllyel kerülhet sor. Az ideiglenes határátkelőhely megnyitására irányuló kérelemnek tartalmaznia kell
+
+a) a kérelmező nevét, lakóhelyét vagy tartózkodási helyét (jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén annak megnevezését, székhelyét vagy telephelyét),
+
+b) az ideiglenes határátkelőhely helyét, működésének időtartamát, nyitvatartási idejét, a határforgalom jellegét,
+
+c) az ideiglenes átkelőhelyen várható határforgalom nagyságát,
+
+d) – a 15/A. §-ban foglalt eset kivételével – a kérelmező nyilatkozatát, amelyben kötelezettséget vállal arra, hogy biztosítja az ideiglenes határátkelőhely működtetéséhez szükséges tárgyi, technikai és pénzügyi feltételeket, valamint vállalja a Mellékletben meghatározott, az ideiglenes határnyitással felmerülő költségek megtérítését,
+
+e) a kérelem indokait.
+
+(2) Az ideiglenes határátkelőhely repülőtéren történő megnyitására irányuló kérelemnek az (1) bekezdésben meghatározottakon túl tartalmaznia kell
+
+a) a légi jármű típusát, felségjelzését, lajstromjelét,
+
+b) az érkező légi jármű érkezésének tervezett időpontját és helyét, valamint az indulási állomást, illetve az induló légi jármű indulásának tervezett időpontját és helyét, valamint a célállomást.
+
+(3)[^16] A Kormány dönthet az (1) bekezdésben meghatározott kérelem hiányában is ideiglenes határátkelőhely megnyitásáról, ha ahhoz jelentős társadalmi érdek kapcsolódik.
+
+### 11. §
+
+(1)[^17] Ideiglenes határátkelőhely megnyitása
+
+a) sport, turisztikai, kulturális, vallásos, önkormányzati és más hasonló rendezvény, nemzetközi kötelezettség teljesítése céljából vagy gazdasági célból engedélyezhető, valamint
+
+b) a 10. § (3) bekezdésében meghatározott társadalmi érdekre figyelemmel a Kormány döntése alapján lehetséges.
+
+(2)[^18] Az államhatárt érintő ideiglenes határátkelőhely esetén az engedély megadásának feltétele, hogy a szomszédos állam az ideiglenes határátkelőhely megnyitásához hozzájárul. A szomszédos állam illetékes határforgalom-ellenőrző szerveinek hozzájárulását a megyei rendőr-főkapitányság kérelmezi.
+
+(3) Az ideiglenes határátkelőhely megnyitása iránti kérelmet el kell utasítani, ha
+
+a) azt nem az (1) bekezdésben meghatározott okból nyújtották be,
+
+b) a szomszéd állam illetékes hatósága az ideiglenes határátkelőhely megnyitásához nem járul hozzá.
+
+### 11/A. §[^19]
+
+A 10. § (3) bekezdésében meghatározott esetben a magyar és a szomszédos ország illetékes szerve jegyzékváltás útján rendezi az ideiglenes határátkelőhely
+
+a) működésének időtartamát,
+
+b) nyitvatartási idejét és
+
+c) határforgalmának jellegét.
+
+### 12. §
+
+(1)[^20] Az ideiglenes határátkelőhely megnyitásának engedélyezésére irányuló eljárásban hatóságként – a (2) bekezdésben meghatározott kivétellel – az ideiglenes határátkelőhely fekvése szerint illetékes megyei rendőr-főkapitányság jár el.
+
+(2)[^21] A Repülőtéri Rendőr Igazgatóság jár el az ideiglenes légi határátkelőhely megnyitására irányuló eljárásban Budapest és Pest megye területén.
+
+(3)[^22]
+
+(4)[^23] Az ideiglenes határátkelőhely repülőtéren történő megnyitására irányuló kérelmet öt napon belül kell elbírálni.
+
+### 13. §
+
+(1) Az ideiglenes határátkelőhely megnyitását engedélyező határozatnak tartalmaznia kell
+
+a) a megnyitásnak célját,
+
+b) a megnyitás helyét, időpontját,
+
+c) az ideiglenes határátkelőhely működésének időtartamát, nyitvatartási idejét, valamint
+
+d) a forgalom jellegét.
+
+(2) Az eljáró hatóság határozathozatal helyett a kérelmezővel hatósági szerződést köthet.
+
+### 14. §
+
+Az ideiglenes határátkelőhelyet az engedélyben meghatározott helyen, időpontban és – az ideiglenes határátkelőhely megnyitásának céljához igazodó – időtartamra lehet a forgalom számára megnyitni, feltéve, hogy az ideiglenes határátkelőhely államhatáron történő átléptetésre vonatkozó hatósági tevékenységek ellátásának feltételei biztosítottak. Az ideiglenes határátkelőhely a határellenőrzés megkezdésével nyílik meg.
+
+### 15. §
+
+(1) Az ideiglenes határátkelőhelyen a hatósági tevékenységet be kell szüntetni, ha
+
+a) az ideiglenes határátkelőhely a célját betöltötte,
+
+b) az államhatárt érintő ideiglenes határátkelőhelyen a szomszédos állam illetékes hatósága az ideiglenes határátkelőhely működését megszüntette,
+
+c) az engedélyes a működés feltételeit felhívásra sem biztosította.
+
+(2) Az ideiglenes határátkelőhely a hatósági tevékenység megszüntetésével megszűnik.
+
+### 15/A. §[^24]
+
+(1) Mentesül a 10. § (1) bekezdés d) pontjában meghatározott, az ideiglenes határnyitással felmerülő költségek megtérítésének kötelezettsége alól
+
+a) a légiközlekedésről szóló 1995. évi XCVII. törvény 71. § 2. pontjában meghatározott magyar állami légijármű,
+
+b) viszonosság alapján az Európai Unió, valamint az Észak-atlanti Szerződés Szervezete tagállamának állami légijárműve,
+
+c) az Egyesült Nemzetek Szervezete, az Európai Unió vagy az Észak-atlanti Szerződés Szervezete műveleti irányítása alatt álló katonai vagy rendvédelmi célú légijármű.
+
+(2) Az (1) bekezdés b) pontjában hivatkozott viszonosság és a műveleti irányítás fennállta tekintetében a honvédelmi miniszter állásfoglalása irányadó.
+
+(3)[^25] A 10. § (3) bekezdésében meghatározott esetben az ideiglenes határnyitással felmerülő költségeket a pénzforgalmi teljesítés évében, az adott évi központi költségvetésről szóló törvény előirányzatai terhére kell biztosítani.
+
+## Határátlépési pont
+
+### 16. §
+
+Határátlépési pontot határterületnek minősülő településen lehet létesíteni.
+
+## Záró rendelkezések
+
+### 17. §
+
+(1) Ez a rendelet – a (2) bekezdés kivételével – 2008. január 1-jén lép hatályba.
+
+(2) A rendelet 3. §-ának k) pontja, 4. §-ának k) pontja, 5. §-ának k) pontja, 6. §-ának g) pontja, valamint 7. §-ának g) pontja 2012. június 15-én lép hatályba.
+
+(3)[^26] E rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## Melléklet a 332/2007. (XII. 13.) Korm. rendelethez
+
+**A** 10. § (1) bekezdés d) pontjában\
+**meghatározott, az ideiglenes határnyitással**\
+**felmerülő költségek számítása**
+
+A végzett határforgalom-ellenőrző szolgálat, illetve vámszolgálat fizetendő díj mértéke az ellenőrzést végzők száma szerint fejenként és óránként:
+
+*a)*[^27] munkanapokon 8.00–16.00 óráig 6 000 forint,
+
+*b)*[^28] munkanapokon, az *a)* pontban meghatározott időszakon kívül 9 000 forint,
+
+*c)*[^29] munkaszüneti és ünnepnapokon 12 000 forint.
+
+Az *a)–c)* pontban meghatározott összegen túl meg kell téríteni továbbá a szolgálatot ellátó személyek helyszínre történő szállítását, és egyéb esetlegesen felmerülő, számlával igazolt költségeket.
+
+---
+
+[^1]: A 3. § a 247/2013. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § i) pontja a 247/2013. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § k) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § h) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^5]: Az 5. § k) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § g) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § f) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^8]: A 7. § g) pontja a 247/2013. (VII. 2.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^9]: A 8. § (1) bekezdés a) pontja a 276/2011. (XII. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^10]: A 9. § (1) bekezdése a 237/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 3. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 9/A. §-t a 43/2012. (III. 20.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 9/B. §-t megelőző alcímet a 247/2013. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^14]: A 9/B. §-t a 247/2013. (VII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A 10. § (1) bekezdése az 55/2017. (III. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: A 10. § (3) bekezdését az 55/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 11. § (1) bekezdése az 55/2017. (III. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 11. § (2) bekezdése a 237/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^19]: A 11/A. §-t az 55/2017. (III. 20.) Korm. rendelet 3. §-a iktatta be.
+[^20]: A 12. § (1) bekezdése a 237/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^21]: A 12. § (2) bekezdése a 30/2009. (II. 19.) Korm. rendelet 9. §-ával megállapított, a 237/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^22]: A 12. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 3. pontja hatályon kívül helyezte, e módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^23]: A 12. § (4) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (98) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^24]: A 15/A. §-t a 64/2011. (IV. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^25]: A 15/A. § (3) bekezdését az 55/2017. (III. 20.) Korm. rendelet 4. §-a iktatta be.
+[^26]: A 17. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 19. pontja hatályon kívül helyezte, újonnan a 247/2013. (VII. 2.) Korm. rendelet 4. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^27]: A Melléklet a) pontja a 409/2024. (XII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^28]: A Melléklet b) pontja a 409/2024. (XII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^29]: A Melléklet c) pontja a 409/2024. (XII. 20.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.

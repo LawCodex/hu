@@ -1,0 +1,1465 @@
+---
+title: "63/2006. (III. 27.) Korm. rendelet a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól"
+identifier: "63/2006. (III. 27.) Korm. rendelet"
+njt_id: "2006-63-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/63"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-03-27
+in_force_from: 2010-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-63-20-22"
+retrieved: 2026-10-12
+---
+
+# 63/2006. (III. 27.) Korm. rendelet a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól
+
+A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 132. §-a (1) bekezdésének b) és d) pontjában, a helyi önkormányzatokról szóló 1990. évi LXV. törvény 7. §-ának (1) bekezdésében, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. §-a (2) bekezdésének a) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS ELJÁRÁSI SZABÁLYOK
+
+#### 1. §
+
+(1)[^1] A pénzbeli és természetbeni szociális ellátások megállapítása iránti kérelem tartalmazza
+
+a)[^2] az ellátást igénylő személynek és az ellátás megállapítása során az Szt. vagy a települési önkormányzat rendelete alapján figyelembe vett személynek az Szt. 18. § a) pontjában vagy 18/A. § a) pontjában szereplő adatait,
+
+b)[^3] az ellátást igénylő személy állampolgárságát, huzamos tartózkodási jogosultságát, menekült, oltalmazott vagy hontalan jogállását,
+
+c) az igényelt szociális ellátás jogosultsági feltételeire vonatkozó adatokat, nyilatkozatokat.
+
+(2)[^4] Ha az ellátást hajléktalan személy igényli, a kérelmében nyilatkoznia kell arról, hogy az ellátás folyósítását milyen címre (fizetési számlára) kéri.
+
+(3)[^5] A járási hivatal hatáskörébe tartozó szociális rászorultságtól függő pénzbeli vagy természetbeni szociális ellátás iránti kérelmet a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon (a továbbiakban: kérelemnyomtatvány) kell benyújtani. A kérelemnyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+#### 1/A. §[^6]
+
+(1) A szociális rászorultságtól függő pénzbeli és természetbeni ellátások iránti kérelmet
+
+a)[^7] elektronikus úton, vagy
+
+b)[^8] a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) hatáskörébe tartozó ellátás esetén a kérelmező lakcíme szerint illetékes járási hivatalnál, a kérelmező lakcíme szerint illetékes települési önkormányzat polgármesteri hivatalánál vagy közös önkormányzati hivatalánál, valamint a kormányablaknál
+
+lehet benyújtani.
+
+(2)[^9]
+
+(3)[^10] Az aktív korúak ellátása iránti kérelem a kérelmezőt álláskeresőként nyilvántartó állami foglalkoztatási szervnél is benyújtható.
+
+#### 2. §[^11]
+
+(1)[^12] A lakcím megállapítása szempontjából a személyiadat- és lakcímnyilvántartás adatai irányadóak.
+
+(2)[^13] Az Szt. 4. §-a (1) bekezdésének l) pontja alkalmazásában a házastársak akkor tekinthetők különélőnek, ha a lakcímük különböző.
+
+(3)[^14] Ha a szociális rászorultságtól függő pénzbeli és természetbeni ellátásokat kérelmező lakóhelyeként a polgárok személyi adatainak és lakcímének nyilvántartásában a bejelentett település neve (a fővárosban a kerület megjelölése) szerepel (a továbbiakban: településszintű lakóhellyel rendelkező személy), a kérelmezett ellátás igénylésére szolgáló formanyomtatványon nyilatkozatot tesz a vele életvitelszerűen együtt élő családtagjainak adatairól.
+
+#### 3. §
+
+(1)[^15] A jövedelemtől függő szociális ellátások esetében – az (1a) bekezdés szerinti kivétellel – a jövedelemről tett nyilatkozathoz másolatban mellékelni kell a jövedelem típusának megfelelő igazolást.
+
+(1a)[^16] Az ellátást megállapító szerv az ellátást igénylő, illetve az ellátás megállapítása során az Szt. rendelkezései vagy a települési önkormányzat rendelete alapján figyelembe vett személy részére folyósított családtámogatási ellátásra vagy fogyatékossági támogatásra vonatkozó adatot a családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/B. § (1) bekezdése szerinti szociális nyilvántartásból közvetlen lekérdezéssel veszi át.
+
+(2)[^17] Ha az ellátást megállapító szerv az Szt. 10. § (6) bekezdésében foglalt jogkörében a jövedelmet vélelmezi, a havi vélelmezett jövedelem nem haladhatja meg a család (háztartás) által lakott lakás és a tulajdonában álló vagyontárgyak együttes havi fenntartási költségének háromszorosát.
+
+(3)[^18]
+
+(4)[^19] A (2) bekezdés szerinti fenntartási költségnek minősülnek a közszolgáltatási díjak, a lakbér, a közös költség, a telefondíj, a kötelező és önkéntes biztosítás díjai, az adó- és adójellegű befizetések, valamint a hiteltörlesztés.
+
+(5)[^20] A pénzbeli és természetbeni szociális ellátások megállapítására irányuló eljárásokban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
+#### 4. §[^21]
+
+(1)[^22] Az Szt. 4. §-a (1) bekezdésének b) pontja alkalmazásában azt az ingatlant kell a személy által lakottnak tekinteni, amelyben a személy lakóhelyként vagy tartózkodási helyként életvitelszerűen tartózkodik. A vagyoni helyzet vizsgálatakor egy ingatlant lehet lakottként figyelembe venni.
+
+(2)[^23] Az Szt. 4. § (1) bekezdés b) pontja alkalmazásában mozgáskorlátozottságra tekintettel fenntartott a gépjármű, ha
+
+a) a kérelmező vagy háztartásának tagja a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló kormányrendelet szerint mozgáskorlátozottnak, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerint mozgásszervi fogyatékosnak minősül, és a gépjárművet rendeltetésszerűen személyszállításra használják, vagy
+
+b) a kérelmező vagy háztartásának tagja a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló kormányrendelet szerint egyéb fogyatékosnak minősül, és a gépjárművet szerzési támogatás felhasználásával vásárolták.
+
+(3)[^24] A vagyoni helyzet vizsgálatakor háztartásonként egy, a (2) bekezdésben foglaltaknak megfelelő személygépjárművet lehet mozgáskorlátozottságra tekintettel fenntartott gépjárműnek tekinteni.
+
+(4)[^25] A vagyoni helyzet vizsgálatakor nem kell figyelembe venni az Szt. 4. § (1a) bekezdés 11. pont szerinti – az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékeként a fizetési számlára befizetett – összeget.
+
+(5)[^26] A vagyoni helyzet vizsgálata során tett nyilatkozat (a továbbiakban: vagyonnyilatkozat) tartalmazza
+
+a) az 1. § (1) bekezdés a) pontja szerinti adatokat,
+
+b)[^27] a nyilatkozatot a kérelmező vagy jogosult, továbbá a vele együtt élő közeli hozzátartozó ingatlanvagyonával, járműve értékével, vagyoni értékű jogával és a pénzforgalmi szolgáltatónál fennálló fizetési számlán kezelt pénzösszegével kapcsolatosan.
+
+(6)[^28] A vagyonnyilatkozatot a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+#### 5. §
+
+(1)[^29] Ha az ellátást megállapító szerv a vagyonnyilatkozatban foglaltakat vitatja,
+
+a)[^30] ingatlan esetén a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) ingatlan fekvése szerint illetékes vármegyei (fővárosi) adó- és vámigazgatósága vagy az ingatlan fekvése szerinti önkormányzati adóhatóság megkeresésével,
+
+b)[^31] vagyoni értékű jog esetén a NAV illetékes vármegyei (fővárosi) adó- és vámigazgatósága megkeresésével,
+
+c)[^32] gépjármű esetén a NAV vámszerve, egyéb vagyontárgyak vonatkozásában maga állapíthatja meg a forgalmi értéket.
+
+állapítja meg a forgalmi értéket.
+
+(2)[^33] A vagyoni helyzet vizsgálata során a lízingelt dolgon fennálló használati jogot meghatározott időre szóló vagyoni értékű jogként kell figyelembe venni. A meghatározott időre szóló vagyoni értékű jog értékének meghatározására az illetékekről szóló 1990. évi XCIII. törvény 72. §-ának (2) bekezdése az irányadó.
+
+#### 5/A. §[^34]
+
+Az Szt. 18/B. §-ában meghatározott országos nyilvántartásba rögzítendő, az Szt. 18/B. § (1) bekezdésében meghatározott ellátásokról hozott döntésnek tartalmaznia kell az ügy elbírálási azonosítóját is.
+
+#### 6. §
+
+(1)[^35] A megállapított pénzbeli és természetbeni szociális ellátások folyósításáról – a (2) bekezdésben meghatározott kivétellel – a települési, a fővárosban a fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző) gondoskodik.
+
+(2)[^36] Az időskorúak járadéka, a foglalkoztatást helyettesítő támogatás, az egészségkárosodási és gyermekfelügyeleti támogatás, a gyermekek otthongondozási díja, valamint az ápolási díj folyósításáról a fővárosi és vármegyei kormányhivatal gondoskodik. Ha arra a fővárosi és vármegyei kormányhivatalban lehetőség van, hajléktalan személyek esetében a folyósítás a kormányhivatal házipénztára útján is történhet.
+
+(2a)[^37]
+
+(2b)[^38]
+
+(3)[^39] Az időskorúak járadékát, az egészségkárosodási és gyermekfelügyeleti támogatást, a gyermekek otthongondozási díját, az ápolási díjat (a továbbiakban együtt: havi rendszeres szociális ellátás), a foglalkoztatást helyettesítő támogatást, valamint – a települési önkormányzat rendeletének eltérő szabályozása hiányában – a havi rendszerességgel adott települési támogatást utólag, minden hónap 5-éig kell folyósítani azzal, hogy a december hónapra tekintettel járó havi rendszeres szociális ellátást és foglalkoztatást helyettesítő támogatást december 30-áig kell folyósítani.
+
+(4)[^40] Ha a havi rendszeres szociális ellátás, a foglalkoztatást helyettesítő támogatás és a havi rendszerességgel adott települési támogatás nem a teljes hónapra jár, az ellátás összege az ellátás havi összege harmincad részének és az ellátási napok számának szorzata.
+
+(5)[^41]
+
+(6)[^42]
+
+#### 6/A. §[^43]
+
+(1)[^44] A kormány szociális hatóságként az Szt.
+
+a)[^45] 4/A. § (1) bekezdés d) pontja alkalmazása során a szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatalt,
+
+b)[^46]
+
+c)[^47]
+
+jelöli ki.
+
+(2)[^48] A szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal ellátja az Szt. szerinti szociális feladatkörében eljáró járási hivatal szakmai irányítását, felügyeletét és ellenőrzését.
+
+(3) Az Szt.
+
+a)[^49] 10. §-a (7) bekezdésének alkalmazásában állami adóhatóság a NAV illetékes vármegyei (fővárosi) adó- és vámigazgatósága,
+
+b)[^50] 10. § (8) és (9) bekezdésének alkalmazásában kijelölt szerv a családtámogatási feladatkörében eljáró Budapest Főváros Kormányhivatala,
+
+c)[^51] 19. § (3) bekezdése, 33. § (1) bekezdés f) és g) pontja, 35. § (3) bekezdése, 36. § (2) bekezdés a)–c) pontja, valamint 37/C. § (5) bekezdése alkalmazásában állami foglalkoztatási szerv a munkaerő-piaci feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
+
+d)[^52]
+
+e)[^53]
+
+f)[^54] 50/C. § (1) bekezdése, valamint 50/D. §-a alkalmazásában egészségbiztosítási szerv az egészségbiztosítási feladatkörében eljáró vármegyei kormányhivatal, a fővárosban, valamint Pest vármegye tekintetében Budapest Főváros Kormányhivatala (a továbbiakban együtt: a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal),
+
+g)[^55] 50/C. §-a (2) és (5) bekezdésének, 50/E. §-a (1)–(2) bekezdésének, 51. §-a (2)–(3) bekezdésének és 52. §-a (2) bekezdésének alkalmazásában egészségbiztosítási szerv a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK),
+
+h)[^56]
+
+(4)[^57] Azoknak a hajléktalan személyeknek az aktív korúak ellátásával összefüggő ügyeiben, akik az Szt. 6. §-a szerint tartózkodási helyként Budapest közigazgatási területét jelölték meg, Budapest Főváros Kormányhivatala IX. Kerületi Hivatalának illetékessége Budapest Főváros egész területére kiterjed.
+
+(5)[^58] A szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal e rendelet szerinti hatósági ügyeiben a felügyeleti szerv a szociálpolitikáért felelős miniszter.
+
+(6)[^59] A fővárosi és vármegyei kormányhivatal e rendelet szerinti szociális feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociálpolitikáért felelős miniszter gyakorolja.
+
+#### 7. §
+
+(1)[^60] A szociális vetítési alap összege havonta 28 500 forint.
+
+(2)[^61] A havi rendszeres szociális ellátás összegének változásáról nem kell határozatot hozni, ha
+
+a)[^62] az időskorúak járadéka, illetve a családi jövedelemszámításnál figyelembe veendő közeli hozzátartozó nélküli személy számára folyósított egészségkárosodási és gyermekfelügyeleti támogatás összege kizárólag a szociális vetítési alap összegének emelkedése miatt változik és az ellátásban részesülő személynek egyéb jövedelme nincs,
+
+b)[^63] az ápolási díj összege kizárólag a központi költségvetésről szóló törvényben meghatározott alapösszeg emelkedése vagy az ápolási díj alapösszeghez viszonyított arányának emelkedése miatt változik és a jogosultat az ápolási díj teljes összegben illeti meg,
+
+c)[^64] a gyermekek otthongondozási díjának összege kizárólag a központi költségvetésről szóló törvényben meghatározott összeg emelkedése miatt változik, és a jogosultat a gyermekek otthongondozási díja teljes összegben illeti meg,
+
+d)[^65] az időskorúak járadékának összege kizárólag az időskorúak járadékának jogszabály által meghatározott emelkedése miatt változik.
+
+(3)[^66] Az Szt. 25. § (4) bekezdése szerinti felülvizsgálatot – kivéve, ha annak lefolytatására az Szt. 25. § (13) bekezdése alapján az aktív korúak ellátása szünetelésének megszűnését követően kerül sor –
+
+a)[^67] az Szt. 25. § (4) bekezdés a) pontja szerinti esetben első felülvizsgálatkor az ellátásra való jogosultságot megállapító határozat véglegessé válásától, további felülvizsgálatok esetén a legutóbbi felülvizsgálatot lezáró döntés véglegessé válásától számított két éven belül,
+
+b)[^68] az Szt. 25. § (4) bekezdés c) pontja szerinti esetben első felülvizsgálatkor az ellátásra való jogosultságot megállapító határozat véglegessé válásától számított egy éven belül, további felülvizsgálatok esetén a legutóbbi felülvizsgálat során vizsgált időszak utolsó napját követő egy éven belül
+
+kell megindítani.
+
+(3a)[^69] A (3) bekezdés b) pontja szerinti esetben a felülvizsgált időszak az első felülvizsgálat esetén az ellátásra való jogosultságot megállapító határozat véglegessé válásától számított egy év, a további felülvizsgálatok esetén a legutóbbi felülvizsgálat során vizsgált időszak utolsó napját követő egy év.
+
+(3b)[^70] Az Szt. 25. § (13) bekezdése alapján a szünetelés megszűnését követően lefolytatott felülvizsgálat esetében a felülvizsgált időszak a felülvizsgálati eljárás megindításának napját megelőző egy naptári év.
+
+(4)[^71] A havi rendszeres szociális ellátás Szt. 25. §-ának (5) bekezdése szerinti felülvizsgálata esetén csak a támogatás összegének meghatározásához szükséges jövedelmi adatok kérhetőek be.
+
+(5)[^72] Ha az ellátásra jogosult személy a havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek felülvizsgálatára irányuló, az Szt. 25. § (4)–(6) bekezdése szerinti eljárást akadályozza, az Szt. 25. § (10) bekezdése alkalmazásában az ellátásra való jogosultság megszüntetésének dátuma a felülvizsgálati eljárás során a dokumentumok megküldésére szabott határidő eredménytelen elteltét követő nap, illetve a személyes megjelenésre adott határnap elmulasztását követő nap.
+
+#### 9. §[^74]
+
+(1)[^75] Ha az időskorúak járadékára, a gyermekek otthongondozási díjára vagy az ápolási díjra jogosult személy lakcíme az eljáró hatóság illetékességét érintően az ellátás folyósításának időtartama alatt megváltozik, a lakcímváltozás ügyfél általi bejelentése vagy az új lakcím alapján illetékes hatóság megkeresése alapján a korábban eljáró hatóság intézkedik az ügy áttétele iránt. A változás hónapjára járó ellátást a korábban folyósító szerv teljes összegben folyósítja.
+
+(2)[^76] Az (1) bekezdés szerinti lakcímváltozás esetén az ügyben keletkezett iratokat a korábban eljáró hatóság haladéktalanul, de legkésőbb a bejelentést, illetve hatósági megkeresést követő nyolc napon belül megküldi a jogosult új lakcíme szerint illetékes hatóságnak. A változás hónapját követő időszakra járó ellátás folyósítása iránt – a jogosultsági feltételek fennállása esetén – az új lakcím szerint illetékes hatóság gondoskodik.
+
+(3)[^77]
+
+(4)[^78] Az (1) és (2) bekezdésben foglaltakat az aktív korúak ellátására jogosult személy lakcímének megváltozása esetén megfelelően alkalmazni kell.
+
+(5)[^79]
+
+(6)[^80]
+
+(7)[^81] A havi rendszeres szociális ellátásra és a foglalkoztatást helyettesítő támogatásra jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs vagy élettárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben veheti fel a halál hónapját követő hónap utolsó napjáig.
+
+(8)[^82]
+
+#### 12. §
+
+(1)[^85] Ha a szociális ellátásra való jogosultság elbírálásához az Szt. 10. §-ának (8) bekezdése szerinti eljárás lefolytatására van szükség, az eljáró hatóság megkeresi Budapest Főváros Kormányhivatala VIII. Kerületi Hivatalát. A megkeresés idegen nyelvű fordításáról, valamint a beszerzett igazolás magyar nyelvre történő fordításáról Budapest Főváros Kormányhivatala VIII. Kerületi Hivatala gondoskodik.
+
+(2)[^86]
+
+#### 13. §[^87]
+
+(1) Ha a jövedelemszámításnál a nem forintban megszerzett jövedelmet is figyelembe kell venni, az átszámítás a kérelem benyújtásának napján érvényes – a Magyar Nemzeti Bank által közzétett – hivatalos devizaárfolyamon történik.
+
+(2) Ha a szociális ellátás összegének megállapítása során az Szt. 4. § (1) bekezdés i) pontja szerinti, külföldi szerv által folyósított rendszeres pénzellátást is figyelembe kell venni, annak a kérelem benyújtásának, illetve a felülvizsgálati eljárás megindítása napján érvényes – a Magyar Nemzeti Bank által közzétett – hivatalos devizaárfolyamon történő átszámításával kell a szociális ellátás (különbözeti) összegét meghatározni. Ha a felülvizsgálat eredményeként a szociális ellátás összege változik, a felülvizsgálat során megállapított összeget a felülvizsgálati eljárást lezáró döntés meghozatalát követő hónap első napjától kell folyósítani.
+
+(3) Az Szt. 17. § (1) és (1a) bekezdésében foglalt esetekben az ellátás visszafizettetése során a külföldi szerv által folyósított rendszeres pénzellátás összegének a felülvizsgálati eljárás megindítása napján érvényes – Magyar Nemzeti Bank által közzétett – hivatalos devizaárfolyamon történő átszámításával kell a visszafizetendő összeget meghatározni.
+
+## II. Fejezet — EGYES ELLÁTÁSOKRA VONATKOZÓ RÉSZLETES SZABÁLYOK
+
+### Időskorúak járadéka
+
+#### 14. §
+
+(1)[^88] Az időskorúak járadékának megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza az Szt. 18/A. § a)–c) pontja szerinti adatokat, valamint a kérelmező és a vele azonos lakcímen élő házastárs, élettárs jövedelmére vonatkozó adatot.
+
+(2)[^89] Amennyiben az időskorúak járadékának megállapítására irányuló eljárás az Szt. 32/B. § (2) bekezdése szerint hivatalból indul, az eljárás megindításáról szóló értesítéssel egyidejűleg a hatóság az ügyfél számára megküldi az arra rendszeresített kérelemnyomtatványt. Az ügyfél természetes személyazonosító adatait, lakcímét, valamint Társadalombiztosítási Azonosító Jelét – az aktív korúak ellátására való jogosultság megszüntetéséről szóló határozat alapján – a hatóság rögzíti a kérelemnyomtatványon. Amennyiben az ügyfél a kérelemnyomtatványt a kézbesítéstől számított 15 napos jogvesztő határidőn belül nem küldi vissza, az eljárást meg kell szüntetni.
+
+(3)[^90] Ha a kérelmet vagy adatlapot a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
+
+(4)[^91] A 2025. december 31-ét követő kezdő időponttól megállapított időskorúak járadékára való jogosultság esetén az Szt.
+
+a) 32/B. § (1) bekezdés a) pontjában meghatározott jövedelemhatár 37 165 Ft,
+
+b) 32/B. § (1) bekezdés b) pontjában meghatározott jövedelemhatár 43 700 Ft,
+
+c) 32/B. § (1) bekezdés c) pontjában meghatározott jövedelemhatár 58 990 Ft.
+
+(5)[^92] 2026. január 1-jétől az időskorúak járadékának havi összege
+
+a) jövedelemmel nem rendelkező, az Szt.
+
+aa) 32/B. § (1) bekezdés a) pontja szerinti jogosult esetén 37 165 Ft,
+
+ab) 32/B. § (1) bekezdés b) pontja szerinti jogosult esetén 43 700 Ft,
+
+ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 58 990 Ft,
+
+b) jövedelemmel rendelkező jogosult esetén az a) pont szerinti összegnek és a jogosult havi jövedelmének a különbözete.
+
+### Aktív korúak ellátása[^93]
+
+#### 15. §
+
+(1)[^94] Az aktív korúak ellátása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemhez mellékelni kell a vagyonnyilatkozatot.
+
+(1a)[^95] A kérelemnyomtatvány tartalmazza
+
+a) az Szt. 18/A. § a)–c) pontja szerinti adatokat,
+
+b) a kérelmező, a vele azonos lakcímen élő házastárs, élettárs és a velük egy háztartásban élő gyermek jövedelmére vonatkozó adatot,
+
+c) az aktív korúak ellátására jogosító feltételek fennállására vonatkozó adatot,
+
+d) nyilatkozatot arról, hogy a kérelmező keresőtevékenységet nem folytat,
+
+e) a kérelmező nyilatkozatát arról, hogy részére más rendszeres pénzellátás megállapítása iránti eljárás van-e folyamatban,
+
+f) a kérelmező nyilatkozatát arról, hogy gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy megváltozott munkaképességű személyek ellátásában nem részesül,
+
+g) a kérelmező nyilatkozatát arról, hogy köznevelési, illetve felsőoktatási intézményben nappali oktatás munkarendje szerinti tanulmányokat nem folytat,
+
+h) a kérelmező nyilatkozatát arról, hogy az állami foglalkoztatási szervnél történő nyilvántartásba vételt és az állami foglalkoztatási szervvel való együttműködést vállalja, és
+
+i) a kérelmező nyilatkozatát arról, hogy a köznevelési intézményben tanulmányokat folytató, 14 éven aluli gyermekének napközbeni ellátása biztosított-e.
+
+(2)[^96] Ha az egészségkárosodott személy a kérelemhez nem csatolta a rehabilitációs szakértői szervnek vagy jogelődjének a munkaképesség-csökkenés, az egészségkárosodás vagy az egészségi állapot minősítését tartalmazó, érvényes és hatályos határozatát, szakhatósági állásfoglalását vagy szakvéleményét, az Szt. 33. § (1b) bekezdésében meghatározott szakkérdést a járási hivatal a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 5. alcímében foglaltak szerint vizsgálja.
+
+(2a)[^97]
+
+(2b)[^98] Ha az egészségkárosodott személy a kérelemhez csatolta a rehabilitációs szakértői szervnek vagy jogelődjének a munkaképesség-csökkenés, az egészségkárosodás vagy az egészségi állapot minősítését tartalmazó, érvényes és hatályos határozatát, szakhatósági állásfoglalását vagy szakvéleményét, azonban annak alapján az Szt. 33. § (1) bekezdés a) pontjára alapozva az ellátásra való jogosultság nem állapítható meg, az Szt. 33. § (1b) bekezdése szerinti szakkérdés vizsgálatát akkor kell elvégezni, ha
+
+a) a határozat, szakhatósági állásfoglalás vagy szakvélemény kiállítása óta 12 hónap eltelt, vagy
+
+b) a határozat, szakhatósági állásfoglalás vagy szakvélemény kiállítása óta kevesebb, mint 12 hónap telt el, de a kezelőorvos igazolja, hogy az igénylő állapota az irat kiállítása óta rosszabbodott.
+
+(2c)[^99] Ha a járási hivatal az aktív korúak ellátására való jogosultságot arra tekintettel utasította el, hogy az Szt. 33. § (1) bekezdés a) pontja szerinti jogosultsági feltétel nem áll fenn, az elutasító döntés véglegessé válását követő 12 hónapon belül benyújtott kérelem alapján az Szt. 33. § (1b) bekezdése szerinti szakkérdés vizsgálatát csak akkor kell elvégezni, ha a kezelőorvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott.
+
+(3)[^100] Az Szt. 33. § (1) bekezdés b)–g) pontjában meghatározott személy esetében – az (1) bekezdésben foglaltakon túlmenően – a kérelem elbírálásához szükséges
+
+a)[^101] a családtámogatási feladatkörében eljáró fővárosi és vármegyei kormányhivatal igazolása arról, hogy a kérelmező vakok személyi járadékában vagy fogyatékossági támogatásban részesül,
+
+b)[^102] az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal vagy az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban együtt: állami foglalkoztatási szerv) igazolása a munkanélküli járadék, illetve az álláskeresési járadék, álláskeresési segély, vállalkozói járadék (a továbbiakban együtt: álláskeresési támogatás) folyósítása időtartamának lejártáról, valamint arról, hogy a kérelmező álláskeresést ösztönző juttatásban nem részesül, vagy
+
+c) az Szt. 33. § (1) bekezdés e) pontja szerinti esetben az állami foglalkoztatási szerv igazolása arról, hogy a kérelmező álláskeresési támogatásra való jogosultsága nem áll fenn, továbbá a munkaviszonyban töltött azon napjainak számáról, amelyeket a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) szerint az álláskeresési támogatás megállapításánál figyelembe kell venni,
+
+d)[^103] az Szt. 33. § (1) bekezdés f) és g) pontja szerinti együttműködés (a továbbiakban: megelőző együttműködés) esetén az állami foglalkoztatási szerv vagy a rehabilitációs hatóság igazolása annak teljesítéséről,
+
+e) az Szt. 33. § (1) bekezdés g) pontjában meghatározott ellátások megszüntetéséről szóló határozat.
+
+(4)[^104] Ha a kérelmező úgy nyilatkozik, hogy 14 éven aluli gyermekének napközbeni ellátása nem biztosított, köznevelési intézményben tanulmányokat folytató gyermek esetén csatolni kell az intézmény igazolását arról, hogy a gyermek napközbeni ellátását nem tudja biztosítani, egyéb esetben a járási hivatal hivatalból vizsgálja a gyermek napközbeni ellátást biztosító intézményben történő elhelyezésének lehetőségét.
+
+(5)[^105] A kérelmezővel azonos lakcímen élő
+
+a) gyermek tartósan beteg állapotának fennállása a magasabb összegű családi pótlék, a rokkantsági járadék, a rokkantsági ellátás, rehabilitációs ellátás, rehabilitációs járadék vagy a megváltozott munkaképesség miatt megállapított hozzátartozói nyugellátás folyósítását igazoló irattal,
+
+b) gyermek fogyatékosságának fennállása a magasabb összegű családi pótlék, a vakok személyi járadéka vagy a fogyatékossági támogatás folyósítását igazoló irattal,
+
+c) tanköteles kort betöltött gyermek tanulói, hallgatói jogviszonyának fennállása a tanuló vagy hallgató számára az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány másolatával vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatával
+
+igazolható.
+
+(6)[^106] Ha az aktív korúak ellátására jogosult egészségkárosodott személy esetében a (2) bekezdés szerinti határozat, szakvélemény vagy szakhatósági állásfoglalás időbeli hatálya lejárt és az egészségi állapotot az időbeli hatály lejárta előtt újabb határozat, szakhatósági állásfoglalás vagy szakvélemény nem állapította meg, a járási hivatal az Szt. 33. § (1b) bekezdése szerinti szakkérdést ismételten megvizsgálja.
+
+(7)[^107] Az állami foglalkoztatási szerv honlapján közzéteszi az aktív korúak ellátása igénylésére szolgáló kérelemnyomtatványt és a vagyonnyilatkozatot. Az állami foglalkoztatási szerv emellett tájékoztatást nyújt az álláskeresési támogatást kimerítő ügyfelek számára az aktív korúak ellátásának jogosultsági feltételeiről.
+
+#### 16. §[^108]
+
+(1)[^109] A megelőző együttműködésen
+
+a) az Flt. szerinti együttműködést – ideértve azokat az eseteket, amikor az álláskeresőként való nyilvántartás az Flt. 54. § (14a) bekezdés a) pontja szerinti képzésben, vagy az Flt. 54. § (14a) bekezdés c) pontja szerinti közfoglalkoztatásban való részvétel miatt szünetel –, és
+
+b) a rehabilitációs hatósággal történő együttműködést
+
+kell érteni.
+
+(2)[^110]
+
+(3)[^111] A megelőző együttműködés teljesítéséről kiadott igazolásnak tartalmaznia kell az együttműködés kezdő és befejező időpontját.
+
+#### 17. §[^112]
+
+(1)[^113] Az aktív korúak ellátásának megállapításáról szóló határozatban rendelkezni kell
+
+a) arról, hogy az igénylő foglalkoztatást helyettesítő támogatásra vagy egészségkárosodási és gyermekfelügyeleti támogatásra jogosult,
+
+b) a pénzbeli ellátás összegéről, folyósításának feltételeiről,
+
+c)[^114] a foglalkoztatást helyettesítő támogatásra jogosult személy esetében az Szt. 35. § (3) bekezdése szerinti kötelezettségekről, arról, hogy a jogosult mikor köteles az állami foglalkoztatási szervet felkeresni, továbbá az együttműködés hiányának az Szt. szerinti jogkövetkezményeiről.
+
+d)[^115]
+
+(2)[^116]
+
+(3)[^117] Az Szt. 18/B. §-a szerinti országos nyilvántartást vezető hatóság az Szt. 19. § (3) bekezdésében meghatározott feladatának teljesítése érdekében az adatokat az Flt. szerinti Foglalkoztatási és Közfoglalkoztatási Adatbázisban rögzíti.
+
+(4)[^118]
+
+(5)[^119]
+
+(6)[^120]
+
+(7)[^121] Az állami foglalkoztatási szerv a Foglalkoztatási és Közfoglalkoztatási Adatbázisban történő adatrögzítés útján tájékoztatja a járási hivatalt, ha az aktív korúak ellátására jogosult személynek az Flt. 57/B. § (1) bekezdés 1. pont ca)–ce) vagy cg) alpontja szerinti jogviszonyt létesít, valamint a program, foglalkoztatás vagy képzés kezdő időpontjáról és annak várható időtartamáról, továbbá az állami foglalkoztatási szerv szolgáltatásai igénybevételének kezdő időpontjáról és várható időtartamáról.
+
+(8)[^122] Az álláskeresőként történő nyilvántartásba vétellel kapcsolatos kérelem elutasításának napjától, illetve az álláskeresők nyilvántartásából történő törlés napjától szünetel az együttműködési kötelezettsége annak a foglalkoztatást helyettesítő támogatásra jogosult személynek, akinek álláskeresőként történő nyilvántartásba vételét az állami foglalkoztatási szerv azért utasította el vagy aki az álláskeresők nyilvántartásából azért került törlésre, mert a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján nem tekinthető aktív munkahelykeresőnek, és ez neki nem felróható. Az együttműködési kötelezettség szünetelésére okot adó körülmény fennállását az Szt. 25. § (4) bekezdés c) pontja szerinti felülvizsgálat során vizsgálni kell, és ha a felülvizsgálat során megállapítást nyer, hogy az együttműködési kötelezettség szünetelésére okot adó körülmény már nem áll fenn, az Szt. 35. § (3) bekezdése szerinti együttműködési kötelezettség teljesítését vizsgálni kell.
+
+(9)[^123] A foglalkoztatást helyettesítő támogatásra jogosult személy a jogosultságot megállapító döntés véglegessé válásától vagy a szünetelés megszűnésétől számított 15 napon belül köteles az állami foglalkoztatási szervet felkeresni.
+
+(10)[^124] Az Szt. 36. § (2) bekezdés a) pontjának alkalmazásában jogellenes a közfoglalkoztatási jogviszony megszüntetése, ha a jogosult
+
+a) a közfoglalkoztatási jogviszonyát nem a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 64. § (1) bekezdésében meghatározott módon szüntette meg,
+
+b) felmondása nem felel meg az Mt. 67. § (2) bekezdésében foglalt feltételeknek, vagy
+
+c) azonnali hatályú felmondása nem felel meg az Mt. 78. §-ában foglalt feltételeknek.
+
+(11)[^125]
+
+(12)[^126]
+
+(13)[^127]
+
+(14)[^128]
+
+(15)[^129]
+
+(16)[^130]
+
+#### 17/B. §[^132]
+
+(1)[^133] Amennyiben az együttműködési kötelezettség megszegése miatt az Szt. 34. § (2) bekezdés b), d) vagy e) pontja alapján az aktív korúak ellátására való jogosultságot a járási hivatal megszünteti, az ellátásra való jogosultság az Szt. 34. § (3) bekezdése alapján csak akkor állapítható meg, ha a kérelmező a jogosultság megszüntetésének időpontját követően ismételten teljesíti az Szt. 33. § (1) bekezdése szerinti feltételek valamelyikét. A jogosultság megszüntetését megelőzően teljesített együttműködés a megelőző együttműködés időtartamának számításánál nem vehető figyelembe.
+
+(1a)[^134] Az (1) bekezdésben foglaltaktól eltérően a jogosultság megszüntetését megelőzően teljesített együttműködés is figyelembe vehető a megelőző együttműködés számításánál abban az esetben, ha a közfoglalkoztatási jogviszony azonnali felmondással történő megszüntetésére a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény (a továbbiakban: Kftv.) 1. § (4e) bekezdése alapján, a Kftv. 1. § (4a) bekezdés a) pontjában foglalt okból került sor.
+
+(2)[^135]
+
+(3)[^136]
+
+#### 18. §[^137]
+
+(1) Az Szt. 36. § (2) bekezdés e) pontjában előírt kötelezettség teljesítésének vizsgálata során
+
+a) az egyszerűsített foglalkoztatás a munkaszerződéssel, írásbeli munkaszerződés hiányában a munkáltató által kiállított bizonylattal,
+
+b) a háztartási munka a foglalkoztató által kiadott, a munkavégzéssel töltött időtartamot is tartalmazó igazolással,
+
+c) a közérdekű önkéntes tevékenység a fogadó szervezet és az önkéntes között megkötött önkéntes szerződéssel vagy – írásbeli szerződés hiányában – a fogadó szervezet által az önkéntesekről vezetett nyilvántartás alapján a fogadó szervezet vezetője által kiállított igazolással
+
+igazolható.
+
+(1a)[^138] Nem fogadható el a háztartási munka igazolása, ha azt foglalkoztatóként a foglalkoztatást helyettesítő támogatásban részesülő személy hozzátartozója [Ptk. 8:1. § (1) bekezdés 2. pont], illetve a foglalkoztatást helyettesítő támogatásra jogosult személlyel egy lakcímen élő személy adja ki.
+
+(2) A közérdekű önkéntes tevékenységről kiállított igazolás tartalmazza az elvégzett önkéntes tevékenység megnevezését és időtartamát, valamint a fogadó szervezet nyilvántartásba vételéről hozott határozat számát.
+
+(3)[^139] A keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló 102/1995. (VIII. 25.) Korm. rendelet 2. §-a szerint igazolt keresőképtelenségre tekintettel az Szt. 36. § (2a) bekezdése alapján meghosszabbított határidő a felülvizsgálati eljárás során hozott, a határidő meghosszabbításáról rendelkező határozat közlését követő napon kezdődik. Ha a foglalkoztatást helyettesítő támogatásra jogosult személy a hatvannapos határidő lejártát követő öt napon belül az Szt. 36. § (2) bekezdés e) pontja szerinti kötelezettség teljesítését nem igazolja, a járási hivatal az aktív korúak ellátására való jogosultságot – a kötelezettség teljesítésére rendelkezésre álló határidő utolsó napjával – megszünteti. Ha a foglalkoztatást helyettesítő támogatásra jogosult személy a kötelezettség teljesítését igazolja és az egyéb jogosultsági feltételek fennállnak, a járási hivatal a foglalkoztatást helyettesítő támogatás továbbfolyósításáról dönt. A továbbfolyósításról hozott döntés esetén a 7. § (3) bekezdés b) pontja szerint következő felülvizsgálati időszak a kötelezettség teljesítésére rendelkezésre álló határidő lejártát követő naptól kezdődik.
+
+(4)[^140] Ha a foglalkoztatást helyettesítő támogatásra jogosult személy nem teljesíti az Szt. 36. § (2) bekezdés e) pontja szerinti kötelezettséget, az Szt. 25. § (10) bekezdésének alkalmazásában az ellátásra való jogosultság megszüntetésének dátuma a 7. § (3a) bekezdése szerint felülvizsgált időszak utolsó napját követő nap.
+
+#### 19. §[^141]
+
+Az aktív korúak ellátására való jogosultság kérelemre történő megszüntetése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján történik.
+
+### Gyermekek otthongondozási díja[^142]
+
+#### 20. §
+
+(1) A gyermekek otthongondozási díja iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
+
+a) az Szt. 18/A. § a)–c) és h) pontja szerinti adatokat,
+
+b) az ápolást végző személy és az ápolt gyermek közti rokoni kapcsolatra vonatkozó adatot,
+
+c) arra vonatkozó nyilatkozatot, hogy az ellátást az önellátásra képtelen ápolt gyermek súlyos fogyatékosságára, vagy tartós betegségére figyelemmel igénylik-e,
+
+d) nyilatkozatot az önellátásra való képesség megállapítására irányuló vizsgálat elvégzése szükségességének tudomásulvételéről, a keresőtevékenység folytatásáról, a kérelmező tanulói vagy hallgatói jogviszonyának fennállásáról,
+
+e) nyilatkozatot arról, hogy a kérelmező részesül-e más rendszeres pénzellátásban, és hogy ilyen ellátás részére történő megállapítása iránti eljárás van-e folyamatban,
+
+f) nyilatkozatot arról, hogy azon gyermek után, akire tekintettel gyermekek otthongondozási díját igényli, csecsemőgondozási díjban, gyermekgondozási díjban vagy a gyermekgondozási támogatások valamelyikében részesül-e,
+
+g) nyilatkozatot arról, hogy az ápolási tevékenységet a saját vagy az ápolt személy lakcímén végzi-e,
+
+h) az ápolt gyermek köznevelési intézményben, illetve bentlakásos szociális vagy gyermekvédelmi intézményi elhelyezésével kapcsolatos adatot,
+
+i)[^143] ha a gyermekek otthongondozási díjára való jogosultságot nem szülő kérelmezi, az arra vonatkozó adatot, hogy a kérelmező a jogosultságát mely tény fennállására alapozza,
+
+j) az ápolt gyermek, illetve törvényes képviselője nyilatkozatát annak egyetértő tudomásulvételéről, hogy az otthoni ápolási, gondozási tevékenységet végző személy a gyermekek otthongondozási díjára való jogosultság megállapítása iránt kérelmet nyújtott be.
+
+k)[^144] az Szt. 39. § (1) bekezdés c) pont ca) és cb) alpontja esetén
+
+ka) a gyermek ápolása révén korábban az ellátásban részesült szülőt azonosító adatot vagy
+
+kb) az Szt. 39. § (1b) bekezdésének alkalmazása esetén az arra vonatkozó adatot, hogy az ápolt gyermek a 18. életévének betöltése előtt került a hozzátartozó gondozásába.
+
+(2) Ha a kérelmet az ápolt gyermek, illetve törvényes képviselője nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
+
+(3) A gyermekek otthongondozási díja iránti kérelemhez mellékelni kell
+
+a) hat év alatti ápolt gyermek esetén a 21. § (8) bekezdése szerinti szakorvosi véleményt az ápolt gyermek súlyosan fogyatékos vagy tartósan beteg állapotáról, illetve önellátási képességének mértékéről,
+
+b)[^145] hatodik életévét betöltött ápolt gyermek esetén a háziorvos vagy házi gyermekorvos (a továbbiakban együtt: háziorvos) igazolását arról, hogy az ápolt gyermek súlyosan fogyatékos vagy tartósan beteg,
+
+c)[^146] az Szt. 39/B. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének igazolását és
+
+d)[^147] az (1) bekezdés k) pont kb) alpontja esetén az ápolt gyermek befogadása, elhelyezése vagy ideiglenes hatályú elhelyezése, valamint a gyámrendelés tárgyában hozott bírósági, illetve gyámhatósági döntést.
+
+(3a)[^148] Az Szt. 39. § (1b) bekezdése esetén a gyermekek otthongondozási díját megállapító szerv, ha nem áll rendelkezésre, beszerzi a gyámrendelő határozat másolatát vagy a gyámhatósági nyilvántartásban a gyámrendelés tényéről megtalálható adatot.
+
+(4) A háziorvos a (3) bekezdés b) pontjában foglalt igazolást
+
+a) a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata,
+
+b) a szakmailag illetékes szakfelügyelő főorvos igazolása,
+
+c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetékes szakrendelő intézet szakorvosa által kiadott zárójelentés, igazolás, vagy
+
+d) a sajátos nevelési igény tényét megállapító, pedagógiai szakszolgálatként működő tanulási képességet vizsgáló szakértői és rehabilitációs bizottság, illetve az országos szakértői és rehabilitációs tevékenységet végző bizottság szakértői véleménye
+
+alapján állítja ki.
+
+(5)[^149] A (3) bekezdés b) pontja szerinti háziorvosi igazolást a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. A háziorvosi igazolás tartalmazza az ápolt gyermek azonosítására szolgáló adatot, az ápolt gyermek súlyos fogyatékossága vagy tartós betegsége fennállásának kérdésében kialakított véleményt, a súlyos fogyatékos állapot esetében annak típusát, az igazolás kiállítása során felhasznált hivatalos irat adatait és a háziorvos azonosítására szolgáló adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(6) Nem kell mellékelni a kérelemhez a háziorvos (3) bekezdés b) pontja szerinti igazolását, ha az ápolt gyermeknek
+
+a) fogyatékossági támogatásra,
+
+b) vakok személyi járadékára vagy
+
+c) rokkantsági járadékra
+
+való jogosultsága áll fenn.
+
+(7)[^150] Az intézmény vezetőjének a (3) bekezdés c) pontja szerinti igazolását a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. Az igazolás tartalmazza az ápolt gyermek, illetve személy azonosítására szolgáló adatot, az általa igénybe vett intézményi ellátás típusát, az intézmény azonosító adatait, az intézmény látogatásának időtartamára és az intézményi ellátás igénybe vételéhez a szülő, illetve az ápolást végző személy részéről szükséges személyes közreműködés mértékére vonatkozó adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(8)[^151] A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.
+
+#### 21. §
+
+(1) A gyermekek otthongondozási díja iránti kérelem alapján indult eljárásban a gyermek önellátási képességét vizsgálni kell. A (8) bekezdésben foglaltak kivételével az önellátási képesség mértékének megállapítására irányuló vizsgálatot legalább középfokú iskolai végzettséggel, valamint egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy végezheti el.
+
+(2) Az Szt. 38. § (1) bekezdés a) és b) pontjának alkalmazásában önellátásra képtelen a gyermek, ha
+
+a) az (1) bekezdésben foglalt feltételeknek megfelelő szakértő szakmai véleménye, vagy
+
+b) a (8) bekezdés szerinti szakorvosi szakmai vélemény
+
+ezt igazolja.
+
+(3) Az (1) bekezdés szerinti vizsgálatot végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább öt nappal megelőzően értesíti.
+
+(4)[^152] Az (1) bekezdés szerinti vizsgálatot végző személy az önellátásra való képesség hiányának tényét az ápolás helyszínén végzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg és az erről szóló szakmai véleményét a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
+
+(5) A (4) bekezdés szerinti szakmai vélemény tartalmazza
+
+a) az ápolt gyermek azonosítására szolgáló adatot,
+
+b) hat év alatti ápolt gyermek esetén annak igazolását, hogy az ápolt gyermek a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 1. számú melléklete szerinti, az ott meghatározott súlyosságú betegségek vagy fogyatékosságok valamelyikében szenved,
+
+c) hat év alatti ápolt gyermek esetén a szakmai vélemény szerinti diagnózist és annak BNO kódját,
+
+d) hat év alatti ápolt gyermek esetén az ápolt gyermek súlyos fogyatékossága vagy tartós betegsége fennállásának kérdésében kialakított véleményt, a súlyos fogyatékos állapot esetében annak típusát,
+
+e) a szakmai vélemény kiállítása során felhasznált hivatalos irat adatait, a helyszíni vizsgálat adatait, a helyszíni vizsgálatot végző személy azonosítására szolgáló adatot,
+
+f) az 1. mellékletben meghatározott szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait, pontszámait és az értékelést, továbbá a vizsgálattal kapcsolatos megjegyzéseket,
+
+g) az arra vonatkozóan tett megállapítást, hogy a szakmai vélemény alapján az ápolt gyermek tekintetében a súlyos fogyatékosságból vagy tartós betegségből adódó önellátásra való képtelenség fennáll-e és milyen indokok alapján,
+
+h) a szakmai vélemény érvényességi idejére vonatkozó adatot és
+
+i) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
+
+(6)[^153] A (4) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, vagy határozatlan idejű abban az esetben, ha a súlyosan fogyatékos ápolt gyermek állapota végleges, és abban változás nem várható. Határozatlan érvényességi idejű szakmai vélemény csak abban az esetben állítható ki, ha az orvostudomány jelenlegi állása szerint az önellátási képességben javulás sem műtéttel, sem gyógykezeléssel, sem rehabilitációval nem érhető el, és abban a gyermek életkorából adódó változás sem várható.
+
+(6a)[^154] A gyermekek otthongondozási díját megállapító szerv a (4) bekezdés szerinti szakvélemény hatálya alatt kezdeményezheti a gyermekek otthongondozási díjára való jogosultság felülvizsgálatát, ha olyan tényről vagy körülményről szerez tudomást, amely valószínűsíti, hogy a korábbi szakmai véleményben megállapított körülmény nem áll fent. A felülvizsgálati eljárás során új szakértőt kell kirendelni. A szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
+
+(7) A (4) bekezdés szerinti szakmai vélemény hatálya alatt a háziorvosi igazolást is hatályosnak kell tekinteni.
+
+(8) Hat év alatti ápolt gyermek esetében az önellátási képesség mértékét és az önellátásra való képtelenség tényét a magasabb összegű családi pótlékra jogosító betegségek és fogyatékosságok igazolására miniszteri rendelet alapján jogosult szakorvos igazolja az (5) bekezdésben meghatározott adattartalommal rendelkező formanyomtatványon. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
+
+(8a)[^155] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
+
+(8b)[^156] A gyermekek otthongondozási díját megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
+
+(8c)[^157] A (8a) bekezdéstől eltérően a szakmai vélemény határozatlan érvényességi idővel is kiállítható, ha a súlyosan fogyatékos ápolt gyermek állapota végleges, és abban változás nem várható. Határozatlan érvényességi idejű szakmai vélemény csak abban az esetben állítható ki, ha az orvostudomány jelenlegi állása szerint az önellátási képességben javulás sem műtéttel, sem gyógykezeléssel, sem rehabilitációval nem érhető el, és abban a gyermek életkorából adódó változás sem várható.
+
+(9)[^158] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+
+(10)[^159] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók szakfelügyeletéről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+
+#### 22. §
+
+(1) A házi segítségnyújtás keretében az ápolást végző szülőnek segítség nyújtható, illetve az ápolt gyermek átmenetileg, de egybefüggően legfeljebb egy hónapos időtartamban ellátható, ha
+
+a) az ápolt gyermek egészségi állapota ezt indokolja,
+
+b) akadályoztatása miatt a szülő az ápolási, gondozási tevékenységet nem tudja ellátni.
+
+(2) Az Szt. 39/B. § (2) bekezdés b) pontja alkalmazásában az ápolási kötelezettség nem teljesítésének minősül, ha az ápolást végző szülő több egymást követő napon – ide nem értve az (1) bekezdés szerinti esetet, továbbá ha az ápolást végző személy az állami foglalkoztatási szerv által felajánlott képzés során az Flt. 14. § (4) bekezdés b) pontja szerinti képzési támogatásban részesül – nem gondoskodik az ápolt személy alapvető gondozási, ápolási igényének kielégítéséről, az ellátott és lakókörnyezete megfelelő higiénés körülményének biztosításáról, az esetleges vészhelyzet kialakulásának megelőzéséről.
+
+#### 23. §
+
+(1) Az Szt. 39. § (1) és (2) bekezdése vonatkozásában a szülőt az ápolási tevékenység ellátásában egészségi állapota miatt akadályozottnak kell tekinteni, ha a legalább három hónap időtartamban fennálló akadályozottság tényét a háziorvos szakmai vélemény kiállításával igazolja. A szakmai vélemény érvényességi ideje legfeljebb egy év.
+
+(2)[^160] A háziorvos az (1) bekezdés szerinti szakmai véleményt a területileg illetékes szakrendelő intézet szakorvosa által kiadott zárójelentés vagy igazolás alapján állítja ki. A szakmai véleményt a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. A szakmai vélemény tartalmazza az akadályozottság tényének megállapítását kérő szülő és az ápolt gyermek azonosítására szolgáló adatokat, annak megállapítását, hogy a szakmai vélemény alapján a szülő az ápolt gyermek állandó és tartós gondozásában a saját egészségi állapotára figyelemmel legalább három hónap időtartamban akadályozottá vált-e, a szakértői véleményhez felhasznált hivatalos irat adatait, valamint a szakmai vélemény érvényességi idejét. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(3) Az (1) bekezdésben foglaltakon túl a szülőt az ápolási tevékenység ellátásában egészségi állapota miatt akadályozottnak kell tekinteni, ha a komplex minősítése alapján a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdés b) pont bd) alpontja szerinti minősítési kategóriába sorolják be.
+
+(4)[^161] A szülőn kívüli más hozzátartozó a gyermekek otthongondozási díja megállapítása iránti kérelmet az Szt. 39. § (1) bekezdés c) pontja szerinti körülmények – ide nem értve az Szt. 39. § (1) bekezdés c) pont cc) alpontja és 39. § (1b) bekezdése szerinti esetet – bekövetkezésétől számított három hónapon belül nyújthatja be.
+
+#### 24. §
+
+(1)[^162]
+
+(2)[^163] A közigazgatási per során
+
+a) a gyermek önellátási képességének mértékére vonatkozó, a 21. § (1) bekezdése szerinti állapot fennállására vonatkozó, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait a 21. § (5) bekezdésében meghatározott,
+
+b) a 21. § (8) bekezdése szerinti, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait a 21. § (5) bekezdésében meghatározott, és
+
+c) a szülő egészségi állapot miatti akadályozottságára vonatkozó, a 23. § (1) bekezdés szerinti vizsgálat megállapításait a 23. § (2) bekezdése szerinti szakmai véleményre meghatározott
+
+adattartalomnak megfelelően kell elkészíteni.
+
+(3)[^164]
+
+(4)[^165]
+
+(5)[^166]
+
+### Ápolási díj
+
+#### 25. §[^167]
+
+(1)[^168] Az ápolási díj megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
+
+a) az Szt. 18/A. § a)–c) és h) pontja szerinti adatokat,
+
+b) az ápolást végző személy és az ápolt személy közti rokoni kapcsolatra vonatkozó adatot,
+
+c) arra vonatkozó nyilatkozatot, hogy az ápolási díj megállapítását milyen jogcímen és milyen feltételek fennállására figyelemmel igénylik,
+
+d) nyilatkozatot az önkiszolgáló képesség megállapítására irányuló vizsgálat elvégzése szükségességének tudomásulvételéről, a keresőtevékenység folytatásáról, a kérelmező tanulói vagy hallgatói jogviszonyának fennállásáról,
+
+e) nyilatkozatot arról, hogy a kérelmező részesül-e más rendszeres pénzellátásban, és hogy ilyen ellátás részére történő megállapítása iránti eljárás van-e folyamatban,
+
+f) nyilatkozatot arról, hogy az ápolási tevékenységet a saját vagy az ápolt személy lakcímén végzi-e,
+
+g) az ápolt személy köznevelési intézményben, illetve bentlakásos szociális vagy gyermekvédelmi intézményi elhelyezésével kapcsolatos adatot,
+
+h) nyilatkozatot arról, hogy gyermekek otthongondozási díjára való jogosultsága az ápolt személyre tekintettel sem a kérelmezőnek, sem hozzátartozójának nem áll fenn,
+
+i) arra vonatkozó adatot, hogy az ápolt személy a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakvéleményével, szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával rendelkezik-e,
+
+j) az ápolt személy, illetve törvényes képviselője nyilatkozatát annak egyetértő tudomásulvételéről, hogy az ápolást végző személy az ápolási díjra való jogosultság megállapítása iránt kérelmet nyújtott be.
+
+(1a)[^169] A kérelemhez mellékelni kell
+
+a) az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével a háziorvosnak a 20. § (5) bekezdésében meghatározott adattartalommal rendelkező igazolását arról, hogy az ápolt személy súlyosan fogyatékos vagy tartósan beteg,
+
+b) az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén az intézmény vezetőjének a 20. § (7) bekezdésében meghatározott adattartalommal rendelkező igazolását.
+
+(2)[^170] A háziorvos az (1a) bekezdés a) pontjában foglalt igazolást
+
+a) a rehabilitációs hatóság súlyos fogyatékosság minősítését tartalmazó, érvényes és hatályos szakhatósági állásfoglalása vagy szakvéleménye, illetve a fogyatékossági támogatással összefüggő feladatkörében eljáró hatóság határozata,
+
+b) a szakmailag illetékes szakfelügyelő főorvos igazolása,
+
+c) a fekvőbeteg-szakellátást nyújtó intézmény vagy területileg illetékes szakrendelő intézet szakorvosa által kiadott zárójelentés, igazolás, vagy
+
+d) a sajátos nevelési igény tényét megállapító, pedagógiai szakszolgálatként működő tanulási képességet vizsgáló szakértői és rehabilitációs bizottság, illetve az országos szakértői és rehabilitációs tevékenységet végző bizottság szakértői véleménye
+
+alapján állítja ki.
+
+(3)[^171] Nem kell csatolni a kérelemhez a háziorvos (1a) bekezdés a) pontja szerinti igazolását, ha az ápolt személynek
+
+a) fogyatékossági támogatásra vagy
+
+b) vakok személyi járadékára
+
+való jogosultsága áll fenn.
+
+(4)[^172]
+
+(4a)[^173]
+
+(4b)[^174]
+
+(5)[^175] Ha a kérelmet az ápolt személy, illetve törvényes képviselője nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
+
+#### 25/A. §[^176]
+
+(1) Ha az ápolási díj megállapítását kiemelt ápolást igénylő személy gondozására tekintettel kérik, az ápolási díj iránti kérelemhez csatolni kell
+
+a)[^177] az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén a 25. § (1a) bekezdés b) pontja szerinti igazolást, és
+
+b) az Szt. 43. § b) pontja szerinti esetben a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló szakorvosi igazolást.
+
+(2)[^178] Ha az Szt. 43. § a) pontja szerinti esetben az ápolt személy komplex minősítésének eredményét a rehabilitációs hatóság érvényes és hatályos határozata, szakhatósági állásfoglalása vagy bizottsági állásfoglalása nem igazolja, az ápolási díj iránti kérelmet benyújtó személy a rehabilitációs hatóságtól kérheti az ápolt személy komplex minősítésének elvégzését azzal, hogy ha az ápolt személy a komplex minősítés megkezdését megelőzően a rá irányadó nyugdíjkorhatárt betöltötte, a komplex minősítése keretében a rehabilitálhatóság vizsgálatát nem kell elvégezni. A komplex minősítés eredményéről szóló hatósági bizonyítványt a rehabilitációs hatóság az ápolási díj iránti kérelmet elbíráló hatóság részére is megküldi.
+
+(3) Az (1) bekezdés b) pontja szerinti igazolást a magasabb összegű családi pótlékra jogosító betegségek és fogyatékosságok igazolására miniszteri rendelet alapján jogosult szakorvos az ott meghatározottak szerinti formanyomtatványon állítja ki, ha az ápolt személy – miniszteri rendeletben foglaltak szerint – magasabb összegű családi pótlékra jogosító betegségben vagy fogyatékosságban szenved, és a (4) bekezdésben foglaltak szerinti kiemelt ápolási szükséglete áll fenn.
+
+(4) A (3) bekezdés alkalmazása során annak az ápolt személynek áll fenn kiemelt ápolási szükséglete, aki tartós betegségéből, fogyatékosságából eredően
+
+a) más személyes segítsége nélkül nem képes az illemhelyet használni,
+
+b) más személyes segítsége nélkül segédeszköz igénybevételével sem képes lakáson belül közlekedni, és
+
+c) más személyes segítsége nélkül nem képes az étkezéssel, a tisztálkodással vagy az öltözködéssel kapcsolatos tevékenységcsoportok közül legalább kettőt ellátni.
+
+(5) Az (1) bekezdés b) pontja szerinti igazolás érvényességi ideje legfeljebb a magasabb összegű családi pótlékra jogosító állapot – miniszteri rendeletben foglaltak szerint – esedékes felülvizsgálatának időpontjáig tart. Ha az állapot véglegessége folytán – miniszteri rendeletben foglaltak szerint – az ápolt személy állapotának felülvizsgálata nem szükséges, az (1) bekezdés b) pontja szerinti igazolás legfeljebb az ápolt személy 18. életévének betöltéséig érvényes.
+
+(6) Ha az ápolt személy a 18. életévét betöltötte, de az általa folytatott tanulmányokra tekintettel utána továbbra is magasabb összegű családi pótlékot folyósítanak, rá való tekintettel a kiemelt ápolási díjra való jogosultság – az egyéb jogosultsági feltételek fennállása esetén – a 18. életévének betöltésekor érvényes, az (1) bekezdés b) pontja szerint kiállított igazolás alapján a tanulmányok folytatására tekintettel, a magasabb összegben folyósított családi pótlékra való jogosultság fennállásának időtartama alatt újabb igazolás csatolása nélkül is megállapítható, illetve a korábban megállapított kiemelt ápolási díj tovább folyósítható.
+
+(7) Ha az ügyfél a kérelmében a kiemelt ápolási díjra való jogosultság megállapítását nem kéri, a hatóságnak a kiemelt ápolási díjra való jogosultság kérdésében bizonyítást nem kell lefolytatnia.
+
+#### 25/B. §[^179]
+
+(1) Az ápolási díj megállapítása iránti eljárásban – az Szt. 43. §-a szerinti kiemelt ápolási díj iránti kérelem kivételével – az ápolt személy ápolási, gondozási szükségletét vizsgálni kell.
+
+(2) Az Szt. 41. § (1) bekezdése, valamint 43/A. §-a szerinti ápolási, gondozási szükségletet a 26. § (1) bekezdésében foglalt feltételeknek megfelelő személy szakvéleménye igazolja.
+
+#### 26. §[^180]
+
+(1)[^181] A 25/B. § szerinti vizsgálatot legalább középfokú iskolai végzettséggel, valamint egészségügyi szakképesítéssel rendelkező, az egészségügyi ágazatban vagy személyes gondoskodást nyújtó szociális intézményi ellátáshoz kapcsolódóan legalább öt év szakmai tapasztalattal rendelkező személy végezheti el.
+
+(2)[^182] Az (1) bekezdés szerinti vizsgálatot végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább öt nappal megelőzően értesíti.
+
+(3)[^183] A vizsgálatot végző személy az állandó és tartós ápolási, gondozási szükséglet fennállásának, illetve a fokozott ápolást igénylő súlyosan fogyatékos állapot fennállásának tényét az ápolás helyszínén az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg. A vizsgálatot végző személy a szakmai véleményét a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(4)[^184] A (3) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év. A szakmai vélemény hatálya alatt a háziorvosi igazolást is hatályosnak kell tekinteni.
+
+(4a)[^185] Az ápolási díj iránti eljárásban a gyermekek otthongondozási díja vagy ápolási díj megállapítása iránti eljárásban kiállított szakvélemény is felhasználható, amennyiben az az ápolási díj megállapítására irányuló eljárás megindításának időpontjától számított legalább további egy évig hatályos.
+
+(4b)[^186] Amennyiben az ápolási díj iránti eljárásban a gyermekek otthongondozási díja iránti eljárásban kiállított szakvélemény kerül felhasználásra, a gyermekek otthongondozási díja iránti eljárásban kiállított szakvélemény szerinti pontértéket az ápolási díjra való jogosultság tekintetében meghatározott minősítésnek megfeleltetve kell figyelembe venni.
+
+(5)[^187] A (3) bekezdés szerinti szakmai vélemény tartalmazza
+
+a) az ápolt személy azonosítására szolgáló adatot,
+
+b) a szakmai vélemény kiállítása során felhasznált hivatalos irat adatait, a helyszíni vizsgálat adatait, a helyszíni vizsgálatot végző személy azonosítására szolgáló adatot,
+
+c) az 1. mellékletben meghatározott szempont- és pontozási rendszer alapján elvégzett vizsgálat megállapításait, pontszámait és az értékelést, továbbá a vizsgálattal kapcsolatos megjegyzéseket,
+
+d) az arra vonatkozóan tett megállapítást, hogy a szakmai vélemény alapján az ápolt személy tekintetében az állandó és tartós ápolási, gondozási igény vagy a fokozott ápolási igény fennáll-e és milyen indokok alapján,
+
+e) a szakmai vélemény érvényességi idejére vonatkozó adatot, és
+
+f) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
+
+#### 27. §
+
+(1) Az ápolást végző személynek a házi segítségnyújtás keretében segítség nyújtható, illetve az ápolt személy átmenetileg, de egybefüggően legfeljebb egy hónapos időtartamban ellátható, ha
+
+a) az ápolt személy egészségi állapota ezt indokolja,
+
+b) az ápolást végző személy akadályoztatása miatt az ápolási tevékenységet nem tudja ellátni.
+
+(2)[^188] Az Szt. 42. § (2) bekezdés b) pontja alkalmazásában az ápolási kötelezettség nem teljesítésének minősül, ha az ápolást végző személy több egymást követő napon – ide nem értve az (1) bekezdés szerinti esetet, továbbá ha az ápolást végző személy az állami foglalkoztatási szerv által felajánlott képzés során az Flt. 14. § (4) bekezdés b) pontja szerinti képzési támogatásban részesül – nem gondoskodik az ápolt személy alapvető gondozási, ápolási igényének kielégítéséről, az ellátott és lakókörnyezete megfelelő higiénés körülményének biztosításáról, az esetleges vészhelyzet kialakulásának megelőzéséről.
+
+#### 29. §[^190]
+
+(1)[^191]
+
+(2)[^192] A közigazgatási per során a 25/B. § szerinti állapot fennállására vonatkozó vizsgálat megállapításait a 26. § (5) bekezdésében meghatározott adattartalomnak megfelelően, az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elkészíteni.
+
+(3)[^193]
+
+### Köztemetés
+
+#### 34. §
+
+(1) A halálesetről való tudomásszerzést követően az eljáró szerv megvizsgálja, hogy van-e, illetőleg fellelhető-e az elhunyt személy eltemettetésére köteles személy [1999. évi XLIII. törvény 20. § (1) bek.].
+
+(2) Amennyiben az (1) bekezdésben megjelölt személy fellelhető, határidő tűzésével fel kell szólítani, hogy gondoskodjék az elhunyt személy eltemettetéséről.
+
+(3) A köztemetés költsége magában foglalja az egészségügyi intézményben végzett halottkezelési tevékenység és a halottszállítás díját is.
+
+### Közgyógyellátás
+
+#### 35. §[^198]
+
+(1)[^199] A közgyógyellátásra való jogosultság megállapítása iránti kérelmet – a (7) bekezdésben foglalt kivétellel – az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
+
+a) az Szt. 18/A. § a)–c) pontja szerinti adatokat,
+
+b) nyilatkozatot arról, hogy a kérelmező egyedül élő-e,
+
+c) az ellátást kérelmezővel azonos lakcímen élő közeli hozzátartozók számára vonatkozó, valamint az azonosításukat szolgáló és a jövedelmükre vonatkozó adatot,
+
+d) nyilatkozatot arról, hogy az ellátást milyen jogcímen igénylik, továbbá az alanyi jogosultság megállapítását megalapozó körülményekről és ellátásokról,
+
+e) a kérelmezőnek a közgyógyellátási igazolvány átvételének módjára vonatkozó nyilatkozatát,
+
+f) alanyi jogcímen megállapított ellátás esetében a kérelmező nyilatkozatát arról, hogy kéri-e egyéni gyógyszerkeret megállapítását.
+
+(2)[^200] A kérelem benyújtásakor igazolni kell
+
+a) a háziorvos által megállapított havi rendszeres gyógyító ellátási szükségletet,
+
+b) alanyi közgyógyellátás megállapítása iránti kérelem esetén az Szt. 50. § (1) bekezdés c)–h) pontjában foglaltak fennállását, és
+
+c) normatív közgyógyellátás megállapítása iránti kérelem esetén a jövedelem-nyilatkozatban foglaltak megalapozottságát.
+
+(2a)[^201] A közgyógyellátásra való jogosultság megállapítása iránti eljárásban – a (3) bekezdés b) pontja szerinti kivétellel – csatolni kell a háziorvos igazolását. Az igazolást a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+(2b)[^202] A háziorvosi igazolás tartalmazza
+
+a) a kérelmező azonosítására szolgáló adatot,
+
+b) az arra vonatkozó adatot, hogy az igazolás kiállítására a közgyógyellátásra való jogosultság megállapítása, vagy egyéni gyógyszerkeret felülvizsgálata céljából kerül sor,
+
+c) a gyógyító ellátási szükségletre vonatkozó adatok körében a havi rendszerességgel rendelt gyógyszerre, valamint a gyógyászati segédeszközök és orvosi rehabilitáció céljából havonta rendszeresen rendelt gyógyító ellátásokra vonatkozó adatokat,
+
+d) a háziorvos azonosítására szolgáló adatot,
+
+e) a háziorvos nyilatkozatát arról, hogy az igazolásban feltüntetett gyógyító ellátásra vonatkozó szükséglet kizárólag az azt megalapozó orvosi dokumentáció alapján került megállapításra.
+
+(3)[^203] Ha a közgyógyellátásra való jogosultság megállapítását alanyi jogcímen kérik,
+
+a) a háziorvosnak az igazoláson csak az Szt. 49. §-a (2) bekezdésének a) pontja szerinti gyógyító ellátást kell feltüntetnie,
+
+b) nem kell csatolni a háziorvos igazolását, ha a kérelmező nyilatkozik arról, hogy egyéni gyógyszerkeret megállapítására nem tart igényt.
+
+(4) A háziorvosi igazoláson kizárólag a kérelmező személyes szükségletének kielégítéséhez szükséges gyógyító ellátást lehet feltüntetni.
+
+(5)[^204] A háziorvosi igazoláson meg kell jelölni a külön jogszabályban meghatározottak szerint csak szakorvos által rendelhető (SZ jelzésű), és az első ízben csak szakorvos által rendelhető (J jelzésű) gyógyszereket. A háziorvosi igazoláson fel kell tüntetni azokat a szakorvos által havonta rendszeresen rendelt gyógyító ellátásokat is, melyekről a szakorvos tájékoztatta a háziorvost.
+
+(6)[^205] A háziorvosi igazolást – a beteg szignóját követően – zárt borítékban a kérelmező nevének és Társadalombiztosítási Azonosító Jelének feltüntetésével kell csatolni a kérelemhez. A borítékon a „háziorvosi igazolás közgyógyellátás igénybevételéhez” szövegrészen túl fel kell tüntetni a háziorvos nevét és bélyegzőszámát is.
+
+(7)[^206] Az Szt. 50. §-a (1) bekezdésének a) pontja szerinti nevelésbe vett kiskorú esetében a nevelésbe vételt elrendelő hatóság hivatalból kezdeményezi a gondozás helye szerint illetékes járási hivatalnál a közgyógyellátásra való jogosultság megállapítását. Ebben az esetben a hatóság gondoskodik a háziorvosi igazolás beszerzéséről és azt a nevelésbe vételt elrendelő végleges határozattal együtt továbbítja az illetékes járási hivatalnak.
+
+(8)[^207] Ha a nevelésbe vett kiskorú közgyógyellátásra való jogosultsága a hivatalból történő megállapítást követően lejár, a közgyógyellátás iránti kérelem benyújtására a gyám jogosult. A közgyógyellátás iránti kérelem benyújtására egyebekben az (1)–(6) bekezdés rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárást a gyermek gondozási helye szerint illetékes járási hivatal folytatja le.
+
+(9)[^208] Ha a közgyógyellátásra való jogosultság megállapítása iránti kérelmet elutasító döntés véglegessé vált, és a hat hónapon belül benyújtott új kérelem a havi rendszeres gyógyító ellátás költségének a gyógykezelést szolgáló terápia, illetőleg a gyógyszerek térítési díjának változása következtében történt emelkedésén alapul, akkor az újabb kérelemhez nem kell mellékelni háziorvos nyilatkozatát.
+
+(10)[^209]
+
+(11)[^210]
+
+#### 35/B. §[^212]
+
+A járási hivatalnak a közgyógyellátás megállapítása iránt előtte folyamatban lévő eljárásban az alanyi és normatív jogcímen megállapítható közgyógyellátás jogosultsági feltételeinek fennállását egyaránt vizsgálnia kell. Normatív jogcímen közgyógyellátás akkor állapítható meg, ha az ügyfél alanyi közgyógyellátásra nem jogosult.
+
+#### 36. §[^213]
+
+(1)[^214] A normatív közgyógyellátás megállapítása iránti kérelem esetén a járási hivatal megvizsgálja, hogy a kérelmező esetében fennállnak-e az Szt.-ben előírt jövedelmi feltételek. Ha ennek eredményeként az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek
+
+a)[^215] teljesülnek, akkor a háziorvos igazolása alapján elvégzi a rendszeres gyógyító ellátások havi költsége szakkérdésének vizsgálatát,
+
+b)[^216] nem teljesülnek, akkor a kérelmet elutasítja.
+
+(2)[^217] Az eljáró hatóság az (1) bekezdés b) pontja szerinti esetben az elutasító határozat közlésével egyidejűleg a zárt borítékban lévő háziorvosi igazolást felbontatlanul visszaküldi a kérelmezőnek.
+
+(3)[^218] Ha az (1) bekezdés szerinti vizsgálat során az eljáró hatóság azt állapítja meg, hogy a jövedelmi feltételek nem teljesülnek, és az ügyfél a kérelméhez a háziorvosi igazolást nem csatolta, az eljáró hatóság a kérelmet a háziorvosi igazolásra vonatkozó hiánypótlás nélkül visszautasítja.
+
+#### 37. §[^219]
+
+(1) Az Szt. 50/A. § (4) bekezdése szerinti szakkérdés vizsgálata során meg kell állapítani a kérelmező esetében elismert havi rendszeres gyógyító ellátás térítési díját, külön megjelölve a gyógyszerek térítési díját.
+
+(2) Az alanyi közgyógyellátás megállapítása iránti kérelem esetén – az (1) bekezdésben foglaltaktól eltérően – csak az elismert havi rendszeres gyógyszerköltséget [Szt. 50/A. § (7) bek.] kell megállapítani.
+
+(3) A szakkérdés vizsgálatával kapcsolatos iratokat a járási hivatal öt évig megőrzi.
+
+(4)[^220]
+
+#### 38. §[^221]
+
+(1)[^222] A közgyógyellátásra való jogosultság tárgyában hozott végleges vagy egyébként végrehajtható határozatot – a 36. § (1) bekezdés b) pontja szerinti eset kivételével – elektronikus levél útján vagy egyéb elektronikus úton közölni kell a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatallal.
+
+(2) Ha a jogosult az igazolvány kézbesítését nem postai úton kérte, ezt a határozatban jelezni kell.
+
+#### 39. §[^223]
+
+(1)[^224] Az egyéni gyógyszerkeret Szt. 50/B. §-ának (2) bekezdése szerinti felülvizsgálatára irányuló kérelemhez mellékelni kell a háziorvos 35. § (2a) bekezdése szerinti igazolásán túl a háziorvos nyilatkozatát arról, hogy a közgyógyellátásra jogosult személy által havonta rendszeresen használt gyógyszerek térítési díjának a jogosultság megállapítása óta eltelt időszakban történt emelkedése meghaladja a havi 1000 forintot.
+
+(2) A módosított gyógyszerkeretet a közgyógyellátásra való jogosultság lejártáig terjedő időszakra kell megállapítani.
+
+(3) A gyógyszerkeret módosítására vonatkozóan a 37. § rendelkezéseit megfelelően alkalmazni kell.
+
+(4)[^225] A 0 forintban megállapított egyéni gyógyszerkeret felülvizsgálata során az Szt. 50/B. § (2) bekezdése alkalmazásában a gyógyszerkeret megállapításakor figyelembe vett gyógyszerköltségként az egyéni gyógyszerkeret összegét kell figyelembe venni.
+
+#### 40. §[^226]
+
+(1)[^227] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal a közgyógyellátásra jogosultak számára az (1a) bekezdés szerinti adattartalommal közgyógyellátási igazolványt (a továbbiakban: igazolvány) állít ki. A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolványt a jogosultságot megállapító határozat meghozatalát követő 15 napon belül kézbesíti a jogosult részére.
+
+(1a)[^228] A chip és mágnescsík nélküli, az ISO 7810 szabványnak megfelelő, ID-1 méretű, melegen laminált műanyag kártya formátumban kiállított igazolvány
+
+a) első oldalán szereplő adat
+
+aa) a nyomtatott nagybetűkkel szedett „KÖZGYÓGYELLÁTÁSI IGAZOLVÁNY” szöveg,
+
+ab) az igazolvány KGYSZ száma,
+
+ac) a jogosult neve,
+
+ad) a jogosult születési ideje,
+
+ae) a jogosult Társadalombiztosítási Azonosító Jele,
+
+af) a jogosultság kezdetének és lejártának időpontja;
+
+b) hátoldalán szereplő adat
+
+ba) annak megjelenítése, hogy „A közgyógyellátásra jogosult személy térítésmentesen jogosult a társadalombiztosítási támogatásba befogadott
+
+a) járóbeteg-ellátás keretében rendelhető gyógyszerekre,
+
+b) egyes gyógyászati segédeszközökre,
+
+c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátásokra.”
+
+bb) annak megjelenítése, hogy „Az *a)* pontban foglalt esetben a jogosult gyógyszerkerete összegéig, a *b)–c)* pontban foglalt esetben pedig a közfinanszírozás alapjául elfogadott ár erejéig vehető térítésmentesen igénybe a gyógyító ellátás.”,
+
+bc) a műanyag kártya sorszáma,
+
+bd) a jogosult aláírásának helye.
+
+(2)[^229] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal havonta, a tárgyhónapot követő hónap 10. napjáig tájékoztatja a közgyógyellátásra való jogosultságot megállapító járási hivatalt a kiadott igazolványok sorszámáról.
+
+(3)[^230] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolvány kiadásával egyidejűleg a hatósági nyilvántartás vezetése céljából tájékoztatja a NEAK-ot a jogosultnak az Szt. 50/C. § (2) bekezdése szerinti adatairól.
+
+(4)[^231] A gyógyszerkeret év közbeni módosítása esetén új igazolvány kiadására nem kerül sor, az igazolvány hatályának lejártáig használható.
+
+#### 41. §[^232]
+
+(1)[^233] Közgyógyellátás keretében gyógyító ellátás csak hatályos igazolvánnyal vehető igénybe.
+
+(2) A közgyógyellátás keretében
+
+a) gyógyszert a jogosult részére
+
+aa) a háziorvosa, illetve azon gyógyszerek esetében, melyeket a vonatkozó jogszabályok alapján csak szakorvos írhat fel, a kezelést végző szakorvos,
+
+ab) sürgős szükség esetén a tartózkodási hely szerint illetékes kezelőorvos statim jelzéssel legfeljebb egy, eredeti legkisebb gyári csomagolásban,
+
+ac) a fekvőbeteg-gyógyintézet orvosa a beteg elbocsátásakor legfeljebb egy, eredeti legkisebb gyári csomagolásban,
+
+ad) a járóbeteg-szakellátás szakorvosa vizsgálatra, kezelésre megjelent betegnek legfeljebb egy, eredeti legkisebb gyári csomagolásban,
+
+b) gyógyászati segédeszközt a kezelőorvos,
+
+c) az orvosi rehabilitáció céljából igénybe vehető gyógyászati ellátásokat a kezelőorvos
+
+rendelhet.
+
+(3) A (2) bekezdés alkalmazásában kezelőorvos alatt az egészségügyről szóló 1997. évi CLIV. törvény 3. §-ának b) pontja szerinti orvost kell érteni.
+
+(4)[^234] A (2) bekezdésben foglaltakon túl a személyes gondoskodást nyújtó bentlakásos szociális vagy gyermekvédelmi intézményben elhelyezett, továbbá a büntetés-végrehajtási intézetben fogvatartott közgyógyellátásra jogosult személy részére gyógyító ellátást az Szt. 50/A. § (2) bekezdésben meghatározottak szerinti orvos is rendelhet.
+
+(5)[^235] Közgyógyellátás jogcímen történő gyógyító ellátások rendelésekor az orvosnak egyeztetnie kell a rendelkezésre álló dokumentációban és az igazolványon szereplő adatokat, továbbá ellenőriznie kell az igazolvány lejáratának időpontját. A vényen a közgyógyellátási jogcímet megjelölni csak hatályos igazolvány bemutatásakor lehet.
+
+#### 42. §[^236]
+
+(1)[^237] Közgyógyellátás keretében az Szt. 49. §-a (2) bekezdésének b)–c) pontja szerinti gyógyító ellátások akkor szolgáltathatók ki, ha az orvos a vényen feltüntette a jogosult igazolványának a számát és a jogosult vagy a gyógyító ellátást kiváltó személy az igazolványt bemutatja. Ebben az esetben a szolgáltatást nyújtó ellenőrzi a vényen és az igazolványon lévő személyes adatok egyezőségét, valamint az igazolvány hatályát.
+
+(2) Ha az ellenőrzés eredményeként a közgyógyellátásra való jogosultság nem bizonyítható, akkor a gyógyító ellátást közgyógyellátás keretében nem, hanem csak általános társadalombiztosítási támogatással lehet biztosítani.
+
+(3)[^238]
+
+(4) Közgyógyellátás keretében térítésmentesen az Szt. 49. §-a (2) bekezdésének b)–c) pontja szerinti gyógyító ellátások a közfinanszírozás alapjául elfogadott ár mértékéig szolgáltathatók ki. Ha a gyógyító ellátásért fizetendő térítési díj magasabb összegű, mint a közfinanszírozás alapjául elfogadott ár alapján számított térítési díj, akkor a különbözetet a jogosultnak kell megfizetnie.
+
+(5)[^239] Közgyógyellátás keretében – a (6)–(8) bekezdés szerinti kivétellel – csak a NEAK által vezetett hatósági nyilvántartásban (a továbbiakban: nyilvántartás) az elektronikus adatkapcsolat útján rögzített gyógyszerkiszolgáltatás számolható el.
+
+(6)[^240] Ha a gyógyszertár – a közgyógyellátás keretében történő gyógyszerkiadáskor a 43. § (1) bekezdése szerinti elektronikus adatkapcsolatnak a gyógyszertár felelősségi körén kívüli okból eredő üzemzavara miatt – nem tudja a nyilvántartásban ellenőrizni a közgyógyellátási jogosultságot és a rendelkezésre álló gyógyszerkeret összegét, akkor a gyógyszert térítésmentesen kiadhatja. A hiba elhárítását követően a gyógyszer kiadását a gyógyszertár a szolgálati idő végéig, de legkésőbb egy héten belül elektronikus adatkapcsolaton keresztül jelzi a nyilvántartásnak a NEAK által meghatározott, a NEAK internetes honlapján közzétett formátumban.
+
+(7)[^241] A gyógyszertár felelősségi körén kívüli okból eredő üzemzavar alatt a NEAK informatikai rendszere, illetve az adatkapcsolat létesítéséhez igénybe vett, nem a gyógyszertár ellenőrzése alatt álló távközlési rendszer üzemzavarát kell érteni.
+
+(8)[^242] A NEAK a (6) bekezdés szerinti tájékoztatásban foglaltakat megvizsgálja, és ha azt állapítja meg, hogy az üzemzavar a (7) bekezdés szerinti okból történt, a kiszolgáltatott gyógyszert közgyógyellátás keretében elszámolja.
+
+#### 43. §[^243]
+
+(1)[^244] A NEAK folyamatos elektronikus adatkapcsolat keretében biztosítja a gyógyszertár számára a közgyógyellátásra való jogosultság és a rendelkezésre álló gyógyszerkeret megállapítása céljából a nyilvántartásba történő betekintést.
+
+(2)[^245]
+
+(3)[^246] Az (1) bekezdés szerinti folyamatos elektronikus adatkapcsolat zavartalan gyógyszertári működéséhez szükséges feltételek teljesítését a NEAK hatósági ellenőrzés keretében megvizsgálja és igazolja. A közgyógyellátás keretében gyógyszer kiszolgáltatásra való jogosultságot tanúsító iratot a gyógyszertárban jól látható helyre ki kell függeszteni. Az ellenőrzés elősegítése érdekében a NEAK a Magyar Gyógyszerészi Kamarával közös ajánlást dolgoz ki, amelyet a NEAK, illetve a Magyar Gyógyszerészi Kamara a honlapján közzétesz.
+
+(4)[^247] A közgyógyellátás keretében a kézigyógyszertárban történő gyógyszer kiszolgáltatást külön jogszabály határozza meg.
+
+#### 44. §[^248]
+
+(1)[^249] Az igazolvány a megállapított jogosultsági időtartam lejárta előtt hatályát veszti, ha
+
+a) a közgyógyellátásra való jogosultságot megszüntették, vagy
+
+b)[^250] az igazolványt a közgyógyellátásra való jogosultság igazolására alkalmatlanná nyilvánították, visszavonták, vagy
+
+c) a jogosult meghalt.
+
+(2) Meg kell szüntetni a közgyógyellátásra való jogosultságot, ha
+
+a) az igazolvány kiállítására jogosultság hiányában került sor, vagy
+
+b) a jogosultság az igazolvány kiállítását követően megszűnt, vagy
+
+c) a jogosult az igazolványt rosszhiszeműen, a jogszabályokkal ellentétesen használta fel.
+
+(3)[^251] A közgyógyellátásra való jogosultság megszüntetéséről szóló végleges határozatot haladéktalanul közölni kell a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatallal.
+
+(4)[^252] A közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal a közgyógyellátásra való jogosultság igazolására alkalmatlanná nyilvánítja az igazolványt, ha az
+
+a) elveszett, vagy
+
+b) megsemmisült, vagy
+
+c) a jogosultság igazolására alkalmatlanná vált.
+
+(5)[^253] Ha a közgyógyellátásra való jogosultság az igazolványon feltüntetett lejárati időpontot megelőzően megszűnik, a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolványt visszavonja, valamint a NEAK törli a jogosultságot a nyilvántartásból.
+
+(6)[^254] A NEAK az igazolványon feltüntetett lejárati időpontot megelőzően hatályát vesztett igazolványok számát, a kártya sorszámát és a hatályvesztés időpontját a honlapján közzéteszi.
+
+(7)[^255] Ha az igazolvány hatályát veszti, és a közgyógyellátásra való jogosultság továbbra is fennáll, akkor a jogosult részére a bejelentést követő tizenöt napon belül új igazolványt kell kiállítani. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
+
+(8)[^256] A közgyógyellátási igazolvány elvesztéséről vagy megrongálódásáról szóló bejelentés, valamint a közgyógyellátási igazolvány cseréje iránti kérelem elektronikus úton is benyújtható.
+
+#### 45. §[^257]
+
+(1)[^258] A közgyógyellátásra jogosult személynek a közgyógyellátásra való jogosultságot megállapító hatóságnál be kell jelentenie
+
+a) a közgyógyellátásra való jogosultságát,
+
+b)[^259] a személyes adatait
+
+érintő változást.
+
+(2)[^260] Ha a jogosultnak az igazolványon szereplő személyes adataiban változás következik be, akkor a hatóság kezdeményezésére a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal az igazolvány bevonásával egyidejűleg új igazolványt állít ki a jogosult részére. Az új igazolvány hatályának időtartama megegyezik a közgyógyellátásra való jogosultság időtartamával.
+
+(3)[^261]
+
+(4)[^262]
+
+#### 46. §[^263]
+
+(1)[^264] Ha a közgyógyellátásra való jogosultságot megállapító hatóság a közgyógyellátásra való jogosultságot jogosulatlan és rosszhiszemű igénybevétel miatt szüntette meg, akkor intézkedik közgyógyellátás keretében igénybe vett ellátás megtérítéséről.
+
+(2)[^265] Megtérítés címén a jogosulatlan és rosszhiszemű igénybevétel időpontjától felhasznált gyógyszerkeret összegének visszafizetését kell elrendelni. A megtérítés összegét az egészségbiztosítási feladatkörében eljáró fővárosi és vármegyei kormányhivatal költségvetési elszámolási számlájának javára kell teljesíteni.
+
+(3)[^266] A megtérítést elrendelő végleges határozatot a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatallal is közölni kell.
+
+(4) A megtérítést nem lehet elrendelni, ha az igénybe vevőt a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény alapján megtérítésre már írásban kötelezték.
+
+#### 47. §[^267]
+
+(1)[^268] Az Szt. 52. § (2) bekezdése szerinti egyeztetés érdekében a NEAK a nyilvántartása szerinti, megelőző év december 31-ei állapotnak megfelelő adatokat – ide nem értve a jogosult betegségének BNO kódját – a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatalon keresztül a tárgyév január 31-éig megküldi a közgyógyellátásra való jogosultságot megállapító járási hivatal részére. A NEAK által megküldött adatok között külön meg kell jelölni a tárgyévet megelőző évben kiadott és megszűnt hatályú közgyógyellátási igazolványokat.
+
+(2)[^269] A közgyógyellátásra való jogosultságot megállapító járási hivatal a NEAK által megküldött adatokat a tárgyév március 31-éig egyezteti a saját nyilvántartása szerinti adatokkal. Ha az adatok között eltérés van, szükség esetén a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatalon keresztül további egyeztetést folytat a NEAK-kal és gondoskodik az adatok helyesbítéséről.
+
+#### 49. §[^271]
+
+Az igazolványok előállításának feltételeiről, valamint a háziorvosok 35. § (2a) bekezdése szerinti nyomtatvánnyal történő ellátásáról a közgyógyellátási igazolvánnyal kapcsolatos ügyintézésre kijelölt kormányhivatal gondoskodik.
+
+### Egészségügyi szolgáltatásra való jogosultság
+
+#### 50. §
+
+(1)[^272] A szociális rászorultságnak az egészségügyi szolgáltatás igénybevétele céljából történő megállapítása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemhez mellékelni kell a vagyonnyilatkozatot.
+
+(1a)[^273] Az (1) bekezdés szerinti kérelemnyomtatvány tartalmazza
+
+a) az Szt. 18/A. § a)–c) pontja szerinti adatokat,
+
+b) az ellátást kérelmezővel azonos lakcímen élő közeli hozzátartozók számára vonatkozó, valamint az azonosításukat szolgáló és a jövedelmükre vonatkozó adatot,
+
+c) a kérelmezőnek a szociális rászorultság igazolásáról szóló hatósági bizonyítvány átvételének módjára vonatkozó nyilatkozatát,
+
+d) a kérelmező nyilatkozatát arról, hogy más jogcímen egészségügyi szolgáltatásra nem jogosult.
+
+(2) A kérelem elbírálása során meg kell vizsgálni, hogy a kérelmező az egészségügyi szolgáltatás igénybevételére más jogcímen valóban nem jogosult.
+
+(3)[^274] Ha a kérelmező nem rendelkezik Társadalombiztosítási Azonosító Jellel, a bizonyítványban a „Társadalombiztosítási Azonosító Jellel nem rendelkezik” szöveget kell feltüntetni.
+
+(4)[^275] A szociális rászorultság egészségügyi szolgáltatás igénybevétele céljából történő megállapítása iránti ismételt kérelem a korábbi jogosultságot igazoló hatósági bizonyítvány érvényességi idejének lejártát megelőző 30 napon belül is benyújtható. Ebben az esetben az új jogosultságot legkorábban a korábbi jogosultság megszűnését követő naptól lehet megállapítani.
+
+### ZÁRÓ RENDELKEZÉSEK
+
+#### 57. §
+
+(1) Ez a rendelet – a (2)–(4) bekezdés szerinti eltéréssel – 2006. április 1-jén lép hatályba.
+
+(2) E rendelet 60. §-ának (2) bekezdése 2006. március 31-én lép hatályba.
+
+(3) E rendelet 19. §-a, 22. §-a, 23. §-ának (2) bekezdése, 35–49. §-a, 51. §-a (2) bekezdésének f) pontja, 54. §-a, 61–62. §-a és 9–13. számú melléklete 2006. július 1-jén lép hatályba.
+
+(4) E rendelet 15. §-ának (4) bekezdése és 18. §-a 2007. január 1-jén lép hatályba.
+
+#### 58. §[^282]
+
+A házastársi pótlékot és a házastárs után járó jövedelempótlékot 2018. január 1-jétől a társadalombiztosítási nyugellátásról szóló törvénynek a nyugellátások évenkénti rendszeres emelésére vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell.
+
+#### 65. §[^289]
+
+Az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 353/2014. (XII. 29.) Korm. rendelettel megállapított 39. § (4) bekezdésének rendelkezéseit a 2014. december 31-ét követően kezdeményezett felülvizsgálat során kell alkalmazni.
+
+#### 66. §[^290]
+
+(1)[^291]
+
+(2)[^292]
+
+(3)[^293]
+
+(4) A 2015. március 1-jétől a járási hivatal hatáskörébe kerülő ellátással összefüggésben 2015. február 28-án folyamatban lévő, az Szt. 17. §-a szerinti visszafizetési kötelezettséggel kapcsolatos ügyben a jegyző jár el. A jegyző által 2015. március 1-jéig, valamint a 2015. február 28-án folyamatban lévő ügyben elrendelt visszafizetés, illetve engedélyezett fizetési könnyítés esetén a visszafizetési kötelezettséget a jegyző felé kell teljesíteni.
+
+(5) A 18. életévét betöltött tartósan beteg hozzátartozójának ápolását, gondozását végző személy részére megállapított települési támogatás – ideértve az Szt. 2015. február 28-án hatályos 43/B. §-a alapján 2015. március 1-jét megelőző kezdő időponttal megállapított, és 2015. március 1-jétől települési támogatásként nyújtott méltányossági ápolási díjat is – a társadalombiztosítási tárgyú jogszabályok alkalmazásában ápolási díjnak minősül, ha az ellátás önkormányzati rendeletben szabályozott havi összege eléri az Szt. 2015. február 28-án hatályos 44. § (1) bekezdés d) pontja szerinti mértéket.
+
+(6)[^294] Az Szt. 134/A. § (3) bekezdése alkalmazása során az ápolási díjra való jogosultságnak vagy az ápolási díj összegének a felülvizsgálatához kapcsolódó illetékességváltozás a felülvizsgálat tárgyában hozott döntés véglegessé válását követő napon következik be. A döntés véglegessé válásának hónapjára járó ellátást a döntést hozó járási hivatal illetékessége szerinti fővárosi és megyei kormányhivatal folyósítja.
+
+#### 68. §[^295]
+
+A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+
+#### 69. §[^296]
+
+A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosításáról szóló 171/2019. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. számú mellékletet az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra a Módr. hatálybalépésekor[^297] folyamatban lévő ügyekben is alkalmazni kell, ha az ügyben eljáró szakértő a Módr. hatálybalépésének időpontjában a szakvéleményét még nem állította ki.
+
+#### 70. §[^298]
+
+A szociális pénzbeli ellátásokkal kapcsolatos egyes kormányrendeletek módosításáról szóló 313/2019. (XII. 18.) Korm. rendelettel módosított 18. § (1a) bekezdésében foglaltakat az Szt. 25. § (4) bekezdés b) pontja szerinti esetben indult azon felülvizsgálati eljárásokban kell alkalmazni, amelyeknél a 7. § (3a) bekezdése szerinti felülvizsgálati időszak első napja 2019. december 31-ét követő napra esik.
+
+## 1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^299]
+
+**Az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra irányuló eljárásban elvégzendő szakértői vizsgálat szempontjai és pontozási rendszere**
+
+1\. Értékelési szempont- és pontozási rendszer. [A 2., 3., 6., 7., 8., valamint a 11. sor minden esetben kitöltendő!
+
+Főszabály szerint a 4. és a 9. sor töltendő ki, az alábbi esetek kivételével.
+
+Ha az ápolt személy I-es típusú diabétesz diagnózissal rendelkezik, és állapota fenntartásához rendszeres
+
+inzulinterápiára van szüksége, az 5. sort kell kitölteni azzal, hogy az 5. sor köznevelési intézménybe járó gyermek
+
+esetén csak akkor tölthető, ha a gyermek inzulinterápiájának követéséhez a szülő közreműködése a köznevelési
+
+intézményben nélkülözhetetlen.
+
+Ha az ápolt személy autizmus diagnózissal rendelkezik (BNO F84.0-F84.9 besorolású betegség), akkor a 10. sort kell
+
+tölteni.
+
+Egyidejűleg nem tölthető ki diabétesz diagnózis esetén a 4. és az 5. pont, autizmus diagnózis esetén a 9. és a 10. pont!]
+
+|  |  | A | B | C |
+|---|---|---|---|---|
+|  | 1. | Tevékenység, funkció | Értékeljen 0 és 4 pont között (a pontérték a szükséges segítség mértékével emelkedik) | Pontszám |
+|  | 2. | Étkezés | 0: önmagát kiszolgálja, önállóan étkezik 1: felszolgálást igényel, de önállóan étkezik 2: felszolgálást és evőeszköz tisztításához segítséget igényel 3: felszolgálás és elfogyasztáshoz részbeni segítséget igényel 4: teljes segítséget igényel az étel elfogyasztásához vagy segítséget igényel az étkezés kapcsán az I-es típusú diabétesz diagnózis alapján történő inzulinadagoláshoz |  |
+|  | 3. | Öltözködés | 0: nem igényel segítséget 1: önállóan végzi, de a megfelelő ruhaneműk kiválasztásához segítséget igényel 2: egyes ruhadarabok felvételében igényel segítséget 3: jelentős segítséget igényel az öltözködésben, megfelelő öltözet kiválasztásában, illetve 14 éves kor alatti gyermek esetén inzulinpumpa rendszeres viselése szükséges 4: öltöztetés, vetkőzés minden szakaszában segítségre szorul |  |
+|  | 4. | Tisztálkodás (személyi higiéné biztosítása) | 0: szükségleteit felmérve önállóan végzi 1: szükségleteit felismeri, bizonyos feladatokhoz segítséget igényel 2: szükségleteit felismeri, tisztálkodni csak segítséggel tud 3: részlegesen ismeri fel szükségleteit, segítséget igényel 4: nem ismeri fel szükségleteit, tisztálkodni önállóan nem képes |  |
+|  | 5. | Rendszeres steril eszközhasználat | 0: inzulinterápia szükséges több mint 2 éve fennálló, inzulinterápiát igénylő diabétesz esetén, 7. életévét betöltött gyermek esetében 1: inzulinterápia szükséges kevesebb, mint 2, de több mint 1 éve fennálló, inzulinterápiát igénylő diabétesz esetén, a gyermek 7. életévének betöltésétől a 14. életév betöltéséig 2: inzulinterápia szükséges kevesebb, mint 1 éve fennálló, inzulinterápiát igénylő diabétesz esetén, a gyermek 10. életévének betöltésétől a 14. életév betöltéséig 3: inzulinterápia szükséges kevesebb, mint 1 éve fennálló, inzulinterápiát igénylő diabétesz esetén, a gyermek 7. életévének betöltésétől a 10. életév betöltéséig 4: inzulinterápia szükséges 7. életévét be nem töltött gyermek esetében, a diabétesz tartamától függetlenül |  |
+|  | 6. | WC használat | 0: önálló a WC használatban, öltözködésben, higiénés feladatait ellátja 1: önállóan használja a WC-t, de öltözködésben, illetve higiénés feladatokban ellenőrizni kell 2: önállóan használja a WC-t, de öltözködésben, illetve higiénés feladatokban segíteni kell 3: segítséget igényel a WC használatban, öltözködésben, higiénés feladatok elvégzéséhez 4: segítséggel sem képes a WC használatra, öltözködésre, higiénés feladatok elvégzésére |  |
+|  | 7. | Kontinencia | 0: vizeletét, székletét tartani képes 1: önállóan pelenkát cserél, elvégzi a higiénés feladatait 2: pelenkacserében, öltözködésben, illetve higiénés feladatokban alkalmanként segítséget igényel 3: rendszeres segítséget igényel pelenkacserében, öltözködésben, higiénés feladatok elvégzésében 4: teljes ellátásra szorul |  |
+|  | 8. | Köznevelési vagy szakképző intézmény, nappali ellátást nyújtó szociális intézmény látogatása | 0: önállóan 1: közlekedésben kíséretet igényel 2: intézménylátogatás esetenkénti felügyeletet igényel 3: intézménylátogatás csak folyamatos felügyelettel biztosítható 4: nem képes |  |
+|  | 9. | Lakáson belüli közlekedés | 0: önállóan 1: segédeszköz önálló használatával 2: segédeszköz használatával, segítséget esetenként igényel 3: segédeszköz használatával, gyakran csak segítséggel 4: nem képes |  |
+|  | 10. | Kihívást jelentő viselkedés | 0: viselkedését az adott szociális környezethez megfelelően alakítja; feszültségeit megfogalmazni képes 1: csökkent indulati fékek vagy túlérzékenység; viselkedését a szociális környezet elvárásainak megfelelően alakítani nehezére esik 2: a környezet számára nehezen érthető vagy gyakori ellenkezés, esetleg verbális agresszió; gyakori feszültség, de ezt megfogalmazni kevéssé képes 3: feszültségei nagyon gyakoriak, vagy visszatérők a dührohamok, esetleg destruktív és fizikai agresszió (tárgyak, önmaga, mások ellen irányuló) formájában nyilvánulnak meg 4: viselkedése miatt időszakosan vagy állandó jelleggel teljesen elszigetelődik szűkebb vagy tágabb szociális környezetétől |  |
+|  | 11. | Összesen |  |  |
+
+2.1. Szempontok az értékeléshez:
+
+2.1.1. A fenti tevékenységek ellátására való képesség értékelése során az ápolt személynek vagy ápolt gyermeknek csakis a betegségéből, fogyatékosságából eredő funkcióvesztés értékelhető, az életkorból adódó funkcióhiány nem.
+
+2.1.2. Gyermekek otthongondozási díjával összefüggésben végzett vizsgálat esetén az ápolt gyermek önellátásra képtelensége akkor áll fenn, ha az ápolt gyermek legalább 8 pontot kap.
+
+2.1.3. Ápolási díjjal összefüggésben végzett vizsgálat esetén
+
+2.1.3.1. gondozási szükséglet nem áll fenn, ha az ápolt személy a legfeljebb 5 pontot kap,
+
+2.1.3.2. alap gondozási szükséglet akkor áll fenn, ha az ápolt személy legalább 6, de legfeljebb 9 pontot kap,
+
+2.1.3.3. fokozott ápolási szükséglet akkor áll fenn, ha az ápolt személy legalább 10 pontot kap.
+
+3\. A vizsgálatot végző megjegyzése:
+
+4\. A szakértői véleményhez felhasznált hivatalos irat
+
+4.1. pontos megnevezése
+
+4.2. kelte
+
+4.3. megállapításai.
+
+## 2. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^300]
+
+## 2/A. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^301]
+
+## 3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^302]
+
+## 4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^303]
+
+## 5. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^304]
+
+## 6. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^305]
+
+## 7. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^306]
+
+## 8. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^307]
+
+## 9. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^308]
+
+## 10. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^309]
+
+## 11. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^310]
+
+## 12. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^311]
+
+## 12/a. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^312]
+
+## 13. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^313]
+
+## 14. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^314]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés a) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 35/2024. (II. 29.) Korm. rendelet 280. §-a szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdése a 323/2009. (XII. 29.) Korm. rendelet 14. § (3) bekezdés a) pont aa) alpontja szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdését újonnan a 303/2018. (XII. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 668/2020. (XII. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja, a 179/2025. (VI. 30.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^6]: Az 1/A. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^7]: Az 1/A. § (1) bekezdés a) pontját a 457/2017. (XII. 28.) Korm. rendelet 168. § b) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^8]: Az 1/A. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^9]: Az 1/A. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^10]: Az 1/A. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 166. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^11]: A 2. § a 326/2006. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. § eredeti szövegének jelölését a 395/2007. (XII. 27.) Korm. rendelet 1. §-a (1) bekezdésre változtatta.
+[^13]: A 2. § (2) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. Alkalmazására lásd e módosító rendelet 20. § (2) bekezdését.
+[^14]: A 2. § (3) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 12. §-a iktatta be.
+[^15]: A 3. § (1) bekezdése a 95/2013. (III. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^16]: A 3. § (1a) bekezdését a 95/2013. (III. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^17]: A 3. § (2) bekezdése a 24/2015. (II. 20.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. § (3) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
+[^19]: A 3. § (4) bekezdése a 69/2014. (III. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 165. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 4. § második mondatát a 341/2008. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^22]: A 4. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 1. §-a.
+[^23]: A 4. § (2) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta. A 4. § (2) bekezdése a 95/2013. (III. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^24]: A 4. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
+[^25]: A 4. § (4) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 17. §-a iktatta be, szövege a 235/2017. (VIII. 18.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^26]: A 4. § (5) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^27]: A 4. § (5) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^28]: A 4. § (6) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^29]: Az 5. § eredeti szövegének jelölését a 326/2006. (XII. 23.) Korm. rendelet 2. §-a (1) bekezdésre változtatta, szövege a 479/2013. (XII. 17.) Korm. rendelet 19. §-ával megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^30]: Az 5. § (1) bekezdés a) pontja a 486/2015. (XII. 29.) Korm. rendelet 15. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^31]: Az 5. § (1) bekezdés b) pontja a 486/2015. (XII. 29.) Korm. rendelet 15. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^32]: Az 5. § (1) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 165. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^33]: Az 5. § (2) bekezdését a 326/2006. (XII. 23.) Korm. rendelet 2. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatta.
+[^34]: Az 5/A. §-t a 392/2013. (XI. 12.) Korm. rendelet 10. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^35]: A 6. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 17. § (2) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés b), a 60/2017. (III. 20.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^36]: A 6. § (2) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
+[^37]: A 6. § (2a) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 440/2016. (XII. 16.) Korm. rendelet 10. § a) pontja.
+[^38]: A 6. § (2b) bekezdését a 352/2012. (XII. 13.) Korm. rendelet 3. § (3) bekezdése iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § b) pontja.
+[^39]: A 6. § (3) bekezdése a 24/2015. (II. 20.) Korm. rendelet 17. §-ával megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^40]: A 6. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 3. pontja, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés c) pontja, a 197/2013. (VI. 13.) Korm. rendelet 1. § (1) bekezdés a) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^41]: A 6. § (5) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^42]: A 6. § (6) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^43]: A 6/A. §-t a 326/2006. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^44]: A 6/A. § (1) bekezdése a 235/2017. (VIII. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^45]: A 6/A. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^46]: A 6/A. § (1) bekezdés b) pontját a 311/2017. (X. 31.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^47]: A 6/A. § (1) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^48]: A 6/A. § (2) bekezdése a 360/2019. (XII. 301.) Korm. rendelet 42. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^49]: A 6/A. § (3) bekezdés a) pontja a 273/2010. (XII. 9.) Korm. rendelet 110. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 15. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^50]: A 6/A. § (3) bekezdés b) pontja a 360/2019. (XII. 301.) Korm. rendelet 42. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^51]: A 6/A. § (3) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 18. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^52]: A 6/A. § (3) bekezdés d) pontját újból hatályon kívül helyezte a 440/2016. (XII. 16.) Korm. rendelet 10. § b) pontja.
+[^53]: A 6/A. § (3) bekezdés e) pontját az 509/2013. (XII. 29.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
+[^54]: A 6/A. § (3) bekezdés f) pontja a 360/2019. (XII. 301.) Korm. rendelet 42. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) és c) pontja szerint módosított szöveg.
+[^55]: A 6/A. § (3) bekezdés g) pontja a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^56]: A 6/A. § (3) bekezdés h) pontját a 24/2015. (II. 20.) Korm. rendelet 28. § d) pontja hatályon kívül helyezte.
+[^57]: A 6/A. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 182/2009. (IX. 10.) Korm. rendelet 454. §-a. Újonnan a 24/2015. (II. 20.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^58]: A 6/A. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^59]: A 6/A. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 102/2019. (V. 6.) Korm. rendelet 6. §-a, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^60]: A 7. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 23. §-a iktatta be.
+[^61]: A 7. § (2) bekezdése az 509/2013. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^62]: A 7. § (2) bekezdés a) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés e) pontja, a 629/2022. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^63]: A 7. § (2) bekezdés b) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^64]: A 7. § (2) bekezdés c) pontját a 303/2018. (XII. 27.) Korm. rendelet 7. §-a iktatta be.
+[^65]: A 7. § (2) bekezdés d) pontját a 313/2019. (XII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^66]: A 7. § új (3) bekezdését a 341/2008. (XII. 30.) Korm. rendelet 9. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatta. A 7. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be.
+[^67]: A 7. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 167. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^68]: A 7. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 167. § c) pontja, a 194/2024. (VII. 8.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^69]: A 7. § (3a) bekezdését a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 167. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^70]: A 7. § (3b) bekezdését a 95/2013. (III. 29.) Korm. rendelet 14. §-a iktatta be.
+[^71]: A 7. § (3) bekezdése az 53/2007. (III. 28.) Korm. rendelet 19. § (1) bekezdése a) pontjának ad) alpontja, a 395/2007. (XII. 27.) Korm. rendelet 21. § (1) bekezdésének a) pontja szerint módosított szöveg. A 7. § eredeti (3) bekezdésének számozását a 341/2008. (XII. 30.) Korm. rendelet 9. §-a (4) bekezdésre változtatta.
+[^72]: A 7. § (5) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 23. §-a iktatta be.
+[^74]: A 9. § a 341/2008. (XII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^75]: A 9. § (1) bekezdése a 104/2024. (V. 9.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^76]: A 9. § (2) bekezdése a 104/2024. (V. 9.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^77]: A 9. § (3) bekezdését a 104/2024. (V. 9.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^78]: A 9. § (4) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 9. §-ával megállapított, a 104/2024. (V. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^79]: A 9. § (5) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^80]: A 9. § (6) bekezdését a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés g) pont gb) alpontja hatályon kívül helyezte.
+[^81]: A 9. § (7) bekezdése a 24/2015. (II. 20.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^82]: A 9. § (8) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 8. §-a iktatta be, a 629/2022. (XII. 30.) Korm. rendelet 28. §-a hatályon kívül helyezte.
+[^85]: A 12. § (1) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 5. §-ával megállapított, a 113/2011. (VII. 7.) Korm. rendelet 33. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 4. pontja szerint módosított szöveg.
+[^86]: A 12. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^87]: A 13. § a 629/2022. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^88]: A 14. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^89]: A 14. § (2) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § g) pontja és 167. § d) pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
+[^90]: A 14. § (3) bekezdése a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^91]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 410/2025. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^92]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 410/2025. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^93]: A 15. §-t megelőző alcím a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont ba) alpontjával megállapított szöveg.
+[^94]: A 15. § (1) bekezdése a 104/2024. (V. 9.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^95]: A 15. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^96]: A 15. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 65. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 5. pontja szerint módosított szöveg.
+[^97]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (3) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^98]: A 15. § (2b) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 18. §-a iktatta be.
+[^99]: A 15. § (2c) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 18. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 167. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^100]: A 15. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 76. § (4) bekezdésével megállapított szöveg.
+[^101]: A 15. § (3) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^102]: A 15. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^103]: A 15. § (3) bekezdés d) pontja a 116/2016. (VI. 6.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^104]: A 15. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 12. §-ával megállapított, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^105]: A 15. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § h) pontja hatályon kívül helyezte, újonnan a 313/2019. (XII. 18.) Korm. rendelet 4. §-a iktatta be, szövege a 104/2024. (V. 9.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^106]: A 15. § (6) bekezdését újonnan a 140/2010. (IV. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 76. § (5) bekezdésével megállapított, a 116/2016. (VI. 6.) Korm. rendelet 24. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^107]: A 15. § (7) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés g) pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
+[^108]: A 16. § a 75/2009. (IV. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^109]: A 16. § (1) bekezdése a 116/2016. (VI. 6.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^110]: A 16. § (2) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^111]: A 16. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 15. § c) pontja, a 303/2018. (XII. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^112]: A 17. § a 341/2008. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^113]: A 17. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^114]: A 17. § (1) bekezdés c) pontja a 116/2016. (VI. 6.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^115]: A 17. § (1) bekezdés d) pontját a 116/2016. (VI. 6.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^116]: A 17. § (2) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^117]: A 17. § (3) bekezdése a 392/2013. (XI. 12.) Korm. rendelet 11. §-ával megállapított, a 337/2020. (VII. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^118]: A 17. § (4) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^119]: A 17. § (5) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^120]: A 17. § (6) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^121]: A 17. § új (7) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (7)–(14) bekezdés számozását (9)–(16) bekezdésre változtatta. A 17. § (7) bekezdése a 24/2015. (II. 20.) Korm. rendelet 21. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés i) pontja, a 116/2016. (VI. 6.) Korm. rendelet 24. § c) pontja, a 337/2020. (VII. 9.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^122]: A 17. § új (8) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 2. §-a iktatta be, egyidejűleg az eredeti (7)–(14) bekezdés számozását (9)–(16) bekezdésre változtatta. A 17. § (8) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte, újonnan a 235/2017. (VIII. 18.) Korm. rendelet 14. §-a iktatta be, szövege a 303/2018. (XII. 27.) Korm. rendelet 21. § i) pontja, az 534/2022. (XII. 21.) Korm. rendelet 3. §-a, a 194/2024. (VII. 8.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^123]: A 17. § eredeti (7) bekezdésének számozását (9) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 2. §-a. A 17. § (9) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 171/2011. (VIII. 24.) Korm. rendelet 26. § (3) bekezdés d) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés h) pontja, a 116/2016. (VI. 6.) Korm. rendelet 24. § d) pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^124]: A 17. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 2. §-a. A 17. § (10) bekezdését a 358/2010. (XII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte, újonnan a 95/2013. (III. 29.) Korm. rendelet 17. §-a iktatta be.
+[^125]: A 17. § (11) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^126]: A 17. § (12) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^127]: A 17. § (13) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^128]: A 17. § (14) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^129]: A 17. § (15) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^130]: A 17. § (16) bekezdését a 24/2015. (II. 20.) Korm. rendelet 28. § g) pontja hatályon kívül helyezte.
+[^132]: A 17/B. §-t a 326/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, szövege a 358/2010. (XII. 30.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^133]: A 17/B. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^134]: A 17/B. § (1a) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 20. §-a iktatta be.
+[^135]: A 17/B. § (2) bekezdését a 349/2023. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^136]: A 17/B. § (3) bekezdését a 331/2011. (XII. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, a 349/2023. (VII. 27.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^137]: A 18. §-t újonnan a 95/2013. (III. 29.) Korm. rendelet 19. §-a iktatta be.
+[^138]: A 18. § (1a) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 313/2019. (XII. 18.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^139]: A 18. § (3) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 21. §-a iktatta be.
+[^140]: A 18. § (4) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 24. §-a iktatta be.
+[^141]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 165. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^142]: A Gyermekek otthongondozási díja alcímet (20–24. §-t) a 303/2018. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^143]: A 20. § (1) bekezdés i) pontja a 179/2025. (VI. 30.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^144]: A 20. § (1) bekezdés k) pontját a 179/2025. (VI. 30.) Korm. rendelet 17. § (1) bekezdése iktatta be.
+[^145]: A 20. § (3) bekezdés b) pontja a 179/2025. (VI. 30.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^146]: A 20. § (3) bekezdés c) pontja a 179/2025. (VI. 30.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^147]: A 20. § (3) bekezdés d) pontját a 179/2025. (VI. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^148]: A 20. § (3a) bekezdését a 179/2025. (VI. 30.) Korm. rendelet 17. § (3) bekezdése iktatta be.
+[^149]: A 20. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^150]: A 20. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^151]: A 20. § (8) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 5. §-a iktatta be.
+[^152]: A 21. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^153]: A 21. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^154]: A 21. § (6a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^155]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^156]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^157]: A 21. § (8c) bekezdését a 104/2024. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^158]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^159]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 179/2025. (VI. 30.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^160]: A 23. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^161]: A 23. § (4) bekezdése a 179/2025. (VI. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^162]: A 24. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^163]: A 24. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés c) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^164]: A 24. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^165]: A 24. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^166]: A 24. § (5) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^167]: A 25. § az 509/2013. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^168]: A 25. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^169]: A 25. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^170]: A 25. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^171]: A 25. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^172]: A 25. § (4) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja hatályon kívül helyezte.
+[^173]: A 25. § (4a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^174]: A 25. § (4b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 74. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § c) pontja.
+[^175]: A 25. § (5) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § j) pontja szerint módosított szöveg.
+[^176]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 165. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^177]: A 25/A. § (1) bekezdés a) pontja a 303/2018. (XII. 27.) Korm. rendelet 21. § k) pontja szerint módosított szöveg.
+[^178]: A 25/A. § (2) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^179]: A 25/B. §-t a 303/2018. (XII. 27.) Korm. rendelet 13. §-a iktatta be.
+[^180]: A 26. § a 457/2017. (XII. 28.) Korm. rendelet 165. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^181]: A 26. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^182]: A 26. § (2) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § l) pontja szerint módosított szöveg.
+[^183]: A 26. § (3) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^184]: A 26. § (4) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^185]: A 26. § (4a) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^186]: A 26. § (4b) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 6. §-a iktatta be.
+[^187]: A 26. § (5) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^188]: A 27. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 1. §-ával megállapított, a 303/2018. (XII. 27.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
+[^190]: A 29. § a 303/2018. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^191]: A 29. § (1) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^192]: A 29. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^193]: A 29. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^198]: A 35. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^199]: A 35. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^200]: A 35. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 165. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^201]: A 35. § (2a) bekezdését újonnan a 303/2018. (XII. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^202]: A 35. § (2b) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^203]: A 35. § (3) bekezdés nyitó szövegrésze a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^204]: A 35. § (5) bekezdése a 326/2006. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napját követően indult ügyekben kell alkalmazni.
+[^205]: A 35. § (6) bekezdése a 326/2006. (XII. 23.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 331/2011. (XII. 29.) Korm. rendelet 17. § d) pontja, a 447/2012. (XII. 29.) Korm. rendelet 66. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^206]: A 35. § (7) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés i) pontja, az 509/2013. (XII. 29.) Korm. rendelet 13. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^207]: A 35. § (8) bekezdésének első mondata a 395/2007. (XII. 27.) Korm. rendelet 21. § (1) bekezdésének d) pontja, a 174/2012. (VII. 28.) Korm. rendelet 38. § (7) bekezdés e) pontja, az 509/2013. (XII. 29.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^208]: A 35. § (9) bekezdését a 326/2006. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 167. § i) pontja, a 104/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^209]: A 35. § (10) bekezdését újonnan az 509/2013. (XII. 29.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § e) pontja.
+[^210]: A 35. § (11) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (8) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 168. § i) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^212]: A 35/B. §-t a 352/2012. (XII. 13.) Korm. rendelet 3. § (6) bekezdése iktatta be, szövege a 24/2015. (II. 20.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^213]: A 36. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^214]: A 36. § (1) bekezdése a 24/2015. (II. 20.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^215]: A 36. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 76. § (9) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^216]: A 36. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 168. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^217]: A 36. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés k) pontja szerint módosított szöveg.
+[^218]: A 36. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés a) pontja hatályon kívül helyezte, újonnan az 573/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^219]: A 37. § a 70/2015. (III. 30.) Korm. rendelet 76. § (10) bekezdésével megállapított szöveg.
+[^220]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 67. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^221]: A 38. § a 70/2015. (III. 30.) Korm. rendelet 76. § (10) bekezdésével megállapított szöveg.
+[^222]: A 38. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 8. pontja, a 60/2017. (III. 20.) Korm. rendelet 13. §-a, a 457/2017. (XII. 28.) Korm. rendelet 167. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^223]: A 39. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^224]: A 39. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 21. § n) pontja szerint módosított szöveg.
+[^225]: A 39. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 35. §-a iktatta be.
+[^226]: A 40. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^227]: A 40. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (7) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 9. pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § o) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés e) pontja, a 179/2025. (VI. 30.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
+[^228]: A 40. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^229]: A 40. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 74. § (6) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^230]: A 40. § (3) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^231]: A 40. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^232]: A 41. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^233]: A 41. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^234]: A 40. § (4) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^235]: A 41. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^236]: A 42. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^237]: A 42. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^238]: A 42. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ad) alpontja hatályon kívül helyezte.
+[^239]: A 42. § (5) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^240]: A 42. § (6) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^241]: A 42. § (7) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^242]: A 42. § (8) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^243]: A 43. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^244]: A 43. § (1) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^245]: A 43. § (2) bekezdését a 659/2023. (XII. 28.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^246]: A 43. § (3) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^247]: A 43. § (4) bekezdése a 83/2006. (IV. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^248]: A 44. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^249]: A 44. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 453–454. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^250]: A 44. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^251]: A 44. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (8) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 14. pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^252]: A 44. § (4) bekezdés nyitó szövegrésze a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 15. pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^253]: A 44. § (5) bekezdése a 395/2007. (XII. 27.) Korm. rendelet 12. §-ával megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^254]: A 44. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (9) bekezdésével megállapított, a 473/2016. (XII. 27.) Korm. rendelet 2. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^255]: A 44. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 452. § (9) bekezdésével megállapított, a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^256]: A 44. § (8) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (5) bekezdése iktatta be.
+[^257]: A 45. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^258]: A 45. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés p) pontja szerint módosított szöveg.
+[^259]: A 45. § (1) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^260]: A 45. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 17. pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^261]: A 45. § (3) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
+[^262]: A 45. § (4) bekezdését a 395/2007. (XII. 27.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § p) pontja.
+[^263]: A 46. § e rendelet 57. § (3) bekezdése alapján 2006. július 1-jén lépett hatályba.
+[^264]: A 46. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (7) bekezdés q) pontja szerint módosított szöveg.
+[^265]: A 46. § (2) bekezdése a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 70/2015. (III. 30.) Korm rendelet 76. § (13) bekezdés q) pontja, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^266]: A 46. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 38. § (6) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 14. pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^267]: A 47. § a 473/2016. (XII. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^268]: A 47. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^269]: A 47. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^271]: A 49. § a 358/2010. (XII. 30.) Korm. rendelet 14. § (1) bekezdés 14. pontja, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 17. pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § n) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (4) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^272]: Az 50. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^273]: Az 50. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^274]: Az 50. § (3) bekezdését a 392/2013. (XI. 12.) Korm. rendelet 12. §-a iktatta be.
+[^275]: Az 50. § (4) bekezdését a 24/2015. (II. 20.) Korm. rendelet 24. §-a iktatta be.
+[^282]: Az 58. §-t a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 359/2017. (XI. 30.) Korm. rendelet 10. §-a iktatta be.
+[^289]: A 65. §-t a 353/2014. (XII. 29.) Korm. rendelet 36. §-a iktatta be.
+[^290]: A 66. §-t a 24/2015. (II. 20.) Korm. rendelet 25. §-a iktatta be.
+[^291]: A 66. § (1) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^292]: A 66. § (2) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^293]: A 66. § (3) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^294]: A 66. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 167. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^295]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
+[^296]: A 69. §-t a 171/2019. (VII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^297]: A hatálybalépés időpontja 2019. július 15.
+[^298]: A 70. §-t a 313/2019. (XII. 18.) Korm. rendelet 7. §-a iktatta be.
+[^299]: Az 1. számú melléklet a 303/2018. (XII. 27.) Korm. rendelet 20. §-ával megállapított, a 171/2019. (VII. 12.) Korm. rendelet 4. §-a, a 313/2019. (XII. 18.) Korm. rendelet 8. §-a, a 179/2025. (VI. 30.) Korm. rendelet 20. § c) pontja szerint módosított szöveg.
+[^300]: A 2. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^301]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, hatályon kívül helyezet a 457/2017. (XII. 28.) Korm. rendelet 168. § k) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^302]: A 3. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^303]: A 4. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^304]: Az 5. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^305]: A 6. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^306]: A 7. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^307]: A 8. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^308]: A 9. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^309]: A 10. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^310]: A 11. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 76. § (14) bekezdés b) pontja hatályon kívül helyezte.
+[^311]: A 12. számú mellékletet a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja hatályon kívül helyezte, újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § a) pontja iktatta be, hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § u) pontja.
+[^312]: A 12/a. számú mellékletet a 133/2006. (VI. 15.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés a) pont ae) alpontja. Újonnan a 331/2011. (XII. 29.) Korm. rendelet 16. § b) pontja iktatta be. Újból hatályon kívül helyezte a 24/2015. (II. 20.) Korm. rendelet 28. § v) pontja.
+[^313]: A 13. számú mellékletet a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^314]: A 14. számú mellékletet újonnan a 116/2016. (VI. 6.) Korm. rendelet 23. § (3) bekezdése iktatta be, hatályon kívül helyezte a 303/2018. (XII. 27.) Korm. rendelet 22. § g) pontja.

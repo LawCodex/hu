@@ -1,0 +1,249 @@
+---
+title: "339/2008. (XII. 30.) Korm. rendelet a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák köréről, a nyilvánosságra hozatal módjáról és helyéről, továbbá az ellenőrzés módjáról"
+identifier: "339/2008. (XII. 30.) Korm. rendelet"
+njt_id: "2008-339-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/339"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-12-30
+in_force_from: 2009-01-01
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-339-20-22"
+retrieved: 2026-10-12
+---
+
+# 339/2008. (XII. 30.) Korm. rendelet a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák köréről, a nyilvánosságra hozatal módjáról és helyéről, továbbá az ellenőrzés módjáról
+
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés p) pontjában kapott felhatalmazás alapján – az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva – a Kormány a következőket rendeli:
+
+## 1. §[^1]
+
+Az egészségügyről szóló 1997. évi CLIV. törvény 166. § (1) bekezdés a)–d) és f) pontja szerinti, emberi reprodukcióra irányuló különleges eljárást (a továbbiakban: reprodukciós eljárás) végző egészségügyi szolgáltató az egyes reprodukciós eljárásokról vezetett, külön jogszabály szerinti programdokumentáció alapján a kötelező egészségbiztosítás terhére igénybe vett és finanszírozott, valamint a nem finanszírozott reprodukciós eljárás során elvégzett beavatkozásról az 1. számú mellékletben meghatározott adatokat elektronikus formában jelenti az Országos Kórházi Főigazgatóság (a továbbiakban OKFŐ) részére. A jelentés elküldése az Elektronikus Egészségügyi Szolgáltatási Tér felületén keresztül elérhető strukturált űrlapon történik.
+
+## 2. §[^2]
+
+(1)[^3] Az OKFŐ az 1. §-ban meghatározott adatok kezelése és a kapcsolati kód képzése tekintetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 18. §-ában meghatározottak szerint jár el.
+
+(2)[^4] Az OKFŐ működteti a Nemzeti Szülészeti, Perinatális és Humán Reprodukciós Regisztert (a továbbiakban: Regiszter), amelybe az ellátást nyújtó egészségügyi szolgáltatók kötelezően adatokat rögzítenek. A működtetés keretében az OKFŐ az 1. § szerint beküldött jelentéseket egészségügyi szolgáltatónkénti bontásban dolgozza fel, és teljesítményértékelési feladatai körében elemzi azt.
+
+(3)[^5] Az OKFŐ a Regiszter alapján évente elkészíti a reprodukciós eljárások statisztikai összesítését országos és az egyes egészségügyi szolgáltatók szerinti bontásban a nemzetközi adatszolgáltatásnak is megfelelő módon (a továbbiakban: éves jelentés). Az OKFŐ az éves jelentést a tárgyévet követő második év február 20-áig megküldi a Humán Reprodukciós Bizottság elnöke részére. Az OKFŐ a statisztikai összesítés adatait a tárgyévet követő második év február 20-áig a honlapján teszi közzé.
+
+## 3. §[^6]
+
+(1)[^7] A Regiszter működésének szükségességéről és céljáról a kérelmezőt a reprodukciós eljárás megkezdését megelőzően a beavatkozást végző egészségügyi szolgáltató tájékoztatja.
+
+(2)[^8] Az egészségügyi szolgáltató az adott reprodukciós eljárás befejezésének hónapjára vonatkozó teljesítményjelentésével egyidejűleg, a reprodukciós eljárás befejezését követő hónap 10. napjáig, külön állományban megküldi a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére a kérelmező TAJ számát.
+
+(3)[^9] A NEAK az OKFŐ részére a reprodukciós eljárásban részt vettek tekintetében a szülészeti esemény tényére vonatkozóan adatot szolgáltat a szülészeti esemény hónapját követő második hónap 15. napjáig. Az OKFŐ ezen adatok kezelése és a kapcsolati kód képzése tekintetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 18. §-ában meghatározottak szerint jár el.
+
+## 4. §[^10]
+
+Az éves jelentésnek tartalmaznia kell az adott egészségügyi szolgáltató által végzett reprodukciós beavatkozások számát, típusát, eredményességi mutatóit korcsoport szerinti bontásban.
+
+## 5. §[^11]
+
+Az országos szakfelügyelő évente vizsgálatot tart az egészségügyi szolgáltatóknál a 3. § szerinti kötelezettségek teljesítése tekintetében és közreműködik az éves jelentés elkészítésében.
+
+## 6. §
+
+Ez a rendelet 2009. január 1-jén lép hatályba, rendelkezéseit a folyamatban levő reprodukciós eljárások vonatkozásában is alkalmazni kell.
+
+## 7. §[^12]
+
+A 2023. évre vonatkozó éves jelentés elkészítése és közzététele érdekében az országos tisztifőorvos a rendelkezésére álló, a Reprodukciós Eljárások Adatbázisa szerinti adatokat 2023. december 31-éig megküldi az OKFŐ részére. Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek humánreprodukciós eljárásokkal összefüggő módosításáról szóló 532/2023. (XII. 5.) Korm. rendelet hatálybalépését[^13] követő 9 hónapig az NNGYK fenntartja a Reprodukciós Eljárások Adatbázisát működtető informatikai rendszert.
+
+## 1. számú melléklet a 339/2008. (XII. 30.) Korm. rendelethez[^14]
+
+**Adatszolgáltatás reprodukciós eljárás során elvégzett beavatkozásról**
+
+Az adatszolgáltatás során az alábbi adatok kerülnek továbbításra:
+
+1\. Asszisztált Reprodukciós Centrum neve
+
+2\. Kezelőorvos neve
+
+3\. Kezelőorvos pecsétszáma
+
+4\. TAJ
+
+5\. Születési dátum
+
+6\. Tartózkodási hely irányítószáma
+
+7\. Diagnózis
+
+8\. Állampolgárság
+
+9\. Testmagasság
+
+10\. Testsúly
+
+11\. Infertilitás időtartama
+
+12\. Graviditás
+
+13\. Paritás
+
+14\. Korábbi mesterséges ondóbevitelek száma
+
+15\. Korábbi embrióelőállítás céljából elindított stimulációk száma
+
+16\. Korábbi friss embriótranszferek száma
+
+17\. Korábbi krioprezervációt követő embriótranszferek száma
+
+18\. Kezelésben részt vevő egyedülálló-e
+
+19\. Férj/partner születési dátum
+
+20\. Férj/partner TAJ
+
+21\. Kezelés javallatai
+
+22\. A kötelező egészségbiztosítás által finanszírozott-e a kezelés
+
+23\. 6 hónapon belüli AMH-vizsgálat eredménye
+
+24\. Stimuláció elindításának dátuma
+
+25\. Kezelés kórházi törzsszáma
+
+26\. Stimulációs protokoll
+
+27\. Kezelés célja
+
+28\. Kiváltás napján 14 mm-nél nagyobb átlagolt átmérőjű tüszők száma
+
+29\. Petesejtleszívás dátuma
+
+30\. Kinyert petesejtek száma
+
+31\. Beavatkozás típusa
+
+32\. Leszívott és adományozott petesejtek száma
+
+33\. Petesejtek adományozásának dátuma
+
+34\. Befogadott petesejtek száma
+
+35\. Ivarsejt/embrió felolvasztásának dátuma
+
+36\. Felolvasztott ivarsejtek/embriók/tárolóegységek száma
+
+37\. Felolvasztás dátuma
+
+38\. Korábbi kezelés törzsszáma, amiből a petesejtek/embriók származnak
+
+39\. A kezelés során feldolgozott és/vagy felhasznált spermiumok eredete
+
+40\. Krioprezervált minta típusa
+
+41\. Krioprezervált ivarsejtek/embriók/tárolóegységek száma
+
+42\. Krioprezervációs azonosító
+
+43\. Krioprezerváció dátuma
+
+44\. Ivarsejt/embrió donor kódja
+
+45\. Termékenyítésre kiválasztott petesejtek száma
+
+46\. Érett petesejtek száma
+
+47\. Termékenyítésre felhasznált petesejtek száma
+
+48\. 2 pronukleusszal termékenyült embriók száma
+
+49\. 1 pronukleusszal termékenyült embriók száma
+
+50\. 3≤ pronukleusszal termékenyült embriók száma
+
+51\. Érett, nem termékenyült petesejtek száma
+
+52\. Elpusztult petesejtek száma
+
+53\. Éretlen/abnormális petesejtek száma
+
+54\. Adott fejlődési napon beavatkozás történt-e
+
+55\. Beavatkozás típusa
+
+56\. Sikeres biopszián átesett embriók száma
+
+57\. Sikeresen fixált / csőbe helyezett mintával rendelkező embriók száma
+
+58\. PGT-vizsgálat módszere
+
+59\. PGT-vizsgálati minta típusa
+
+60\. A sikeresen fixált / csőbe helyezett minták közül hány embrió esetében lehetett genetikai eredményt/diagnózist felállítani
+
+61\. Ezek közül embrióbeültetésre a vizsgált szempontok alapján alkalmas embriók száma
+
+62\. Ezek közül embrióbeültetésre a vizsgált szempontok alapján nem alkalmas embriók száma
+
+63\. Ezek közül a beültetésre való alkalmasság szempontjából nem egyértelműen eldönthető embriók száma
+
+64\. Embrióbeültetés dátuma
+
+65\. Beültetett embriók száma
+
+66\. A beültetett embrión PGT-vizsgálat történt-e
+
+67\. PGT-vizsgálat eredménye
+
+68\. Leszívás történt-e
+
+69\. A kezelés saját vagy donor embrióval történik
+
+70\. Embrió-felolvasztás történt-e
+
+71\. Embrió sorsa
+
+72\. Ovulációindukció történt-e
+
+73\. Ovulációindukció dátuma
+
+74\. Ondóminta-feldolgozás történt-e
+
+75\. Inszemináció dátuma
+
+76\. Ovulációindukció dátuma
+
+77\. Freeze all kezelés elsődleges oka
+
+78\. Kezelés leállításának oka
+
+79\. Beültetés elmaradásának elsődleges oka
+
+80\. „Late-onset” OHSS kialakult-e
+
+81\. Klinikai terhesség kialakult-e
+
+82\. Klinikai terhesség helye
+
+83\. Ultrahanggal igazolt petezsákok száma
+
+84\. Ultrahanggal igazolt életfunkcióval rendelkező embriók száma
+
+## 2. számú melléklet a 339/2008. (XII. 30.) Korm. rendelethez[^15]
+
+---
+
+[^1]: Az 1. § a 447/2012. (XII. 29.) Korm. rendelet 72. § (1) bekezdésével megállapított, a 30/2015. (II. 25.) Korm. rendelet 38. §-a, az 532/2023. (XII. 5.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 447/2012. (XII. 29.) Korm. rendelet 72. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése az 532/2023. (XII. 5.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése az 532/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított, az 532/2023. (XII. 5.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése az 532/2023. (XII. 5.) Korm. rendelet 8. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 3. § a 447/2012. (XII. 29.) Korm. rendelet 72. § (3) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdése az 532/2023. (XII. 5.) Korm. rendelet 8. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 125. § d) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 125. § e) pontja, az 532/2023. (XII. 5.) Korm. rendelet 8. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^10]: A 4. § az 532/2023. (XII. 5.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: Az 5. § a 136/2013. (V. 10.) Korm. rendelet 5. §-ával megállapított, a 190/2019. (VII. 30.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
+[^12]: A 7. §-t az 532/2023. (XII. 5.) Korm. rendelet 6. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2024. január 1.
+[^14]: Az 1. számú melléklet az 532/2023. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^15]: A 2. számú mellékletet a 447/2012. (XII. 29.) Korm. rendelet 72. § (5) bekezdése hatályon kívül helyezte.

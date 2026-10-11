@@ -1,0 +1,64 @@
+---
+title: "237/2001. (XII. 10.) Korm. rendelet a nemzeti gyászról"
+identifier: "237/2001. (XII. 10.) Korm. rendelet"
+njt_id: "2001-237-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/237"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-10
+in_force_from: 2008-05-16
+last_amended: 2018-06-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-237-20-22"
+retrieved: 2026-10-12
+---
+
+# 237/2001. (XII. 10.) Korm. rendelet a nemzeti gyászról
+
+A Kormány a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 41. §-a (1) bekezdésének *f)* és *h)* pontjában kapott felhatalmazás alapján a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+*nemzeti gyász:* a társadalom egészét, illetve annak jelentős részét érintő – a nemzet érdekében végzett munkássága, közéleti tevékenysége okán kiemelkedő személy halála miatt vagy a társadalmat mélyen megrázó katasztrófában elhunytak iránt érzett – megrendülés és az ezt kifejező kegyeleti megemlékezés.
+
+## 2. §
+
+(1) A nemzeti gyász lehet eseti vagy visszatérő jellegű.
+
+(2)[^1] A Kormány október 6-át és november 4-ét nemzeti gyásznappá nyilvánítja.
+
+(3) A nemzeti gyászt a Kormány rendeletben hirdeti ki. Kivételesen indokolt esetben a nemzeti gyász több naptári napot is felölelhet.
+
+## 3. §
+
+Nemzeti gyász meghirdetése esetén:
+
+a)[^2] a Magyarország lobogóját ünnepélyes keretek között, katonai tiszteletadással az Országház előtt fel kell vonni, majd félárbocra kell ereszteni,
+
+b)[^3] a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 7. § (1) bekezdésében meghatározott középületekre zászlóhasználat esetén gyászlobogót kell kifüggeszteni, lobogóhasználat esetén a Magyarország lobogóját és az európai lobogót félárbocra kell ereszteni,
+
+c)[^4] az iskolákban [a nemzeti köznevelésről szóló 2011. évi CXC. törvény 7. § (1) bekezdés *b)–f)* pontja] tanóra, vagy külön diákrendezvény keretében méltó módon megemlékezést kell tartani,
+
+d) a nyilvános szórakozóhelyeken a zene- és műsorszolgáltatás – a nemzeti gyászt kihirdető rendeletben foglaltak szerint – korlátozható.
+
+## 4. §[^5]
+
+Ha a nemzeti gyászhoz temetés vagy egyéb nyilvános szertartás kapcsolódik, a Kormány a szervezés és a lebonyolítás céljából a nemzetpolitikáért felelős miniszter vezetésével eseti bizottságot hozhat létre. A bizottságban biztosítani kell a Nemzeti Kegyeleti Bizottság és az Állami Protokoll képviseletét.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+## 6–9. §[^6]
+
+---
+
+[^1]: A 2. § (2) bekezdése a 491/2013. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § a) pontja a 308/2004. (XI. 13.) Korm. rendelet 4. §-ának (2) bekezdése, a 491/2013. (XII. 18.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § b) pontja a 308/2004. (XI. 13.) Korm. rendelet 4. §-ának (2) bekezdése, a 491/2013. (XII. 18.) Korm. rendelet 2. § a)–b) pontja szerint módosított szöveg.
+[^4]: A 3. § c) pontja a 491/2013. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^5]: A 4. § a 101/2018. (VI. 11.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^6]: A 6–9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1024. pontja hatályon kívül helyezte.

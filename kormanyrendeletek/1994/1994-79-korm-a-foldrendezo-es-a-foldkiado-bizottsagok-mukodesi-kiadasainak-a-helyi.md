@@ -1,0 +1,195 @@
+---
+title: "79/1994. (V. 19.) Korm. rendelet a földrendező és a földkiadó bizottságok működési kiadásainak a helyi önkormányzatok részére történő megtérítése mértékéről és módjáról"
+identifier: "79/1994. (V. 19.) Korm. rendelet"
+njt_id: "1994-79-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/79"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-05-19
+in_force_from: 2007-12-20
+last_amended: 2015-04-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-79-20-22"
+retrieved: 2026-10-12
+---
+
+# 79/1994. (V. 19.) Korm. rendelet a földrendező és a földkiadó bizottságok működési kiadásainak a helyi önkormányzatok részére történő megtérítése mértékéről és módjáról
+
+A Magyar Köztársaság 1994. évi költségvetéséről szóló 1993. évi CXI. törvény 44. §-ának (2) bekezdésében foglalt felhatalmazás alapján a kárpótlási jegy termőföldtulajdon megszerzésére történő felhasználásának egyes kérdéseiről szóló 1992. évi IL. törvénynek az 1993. évi II. törvény 13. §-ának (7) bekezdése 1. pontjával kiegészített 4. §-ának (1) bekezdése, a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 4. § (2) bekezdése, valamint az e törvényt kiegészítő 1994. évi XXVII. törvény 3. §-ának (5) bekezdése végrehajtása tárgyában — a földrendező és a földkiadó bizottságok működési költségei mértékének az elvégzendő feladat nagyságához való igazítása céljából — a Kormány az alábbiakat rendeli el:
+
+## 1. §
+
+(1)[^1] A földrendező, valamint a földkiadó bizottságok (a továbbiakban együtt: bizottság) úgy alakítsák munkarendjüket, hogy működési költségeik ne haladják meg
+
+— a földrendező bizottságok esetében az illetékességükbe adott földterület minden hektárja után számított 35 forintot;
+
+— a földkiadó bizottságok esetében az érintett valamennyi részarány-tulajdonos után számított 250 forintot.
+
+(2) A helyi önkormányzatok (a továbbiakban: önkormányzat) a működési feltételek biztosításánál legyenek figyelemmel az (1) bekezdésben meghatározott átalány-összegekre és e rendelet egyéb rendelkezéseire.
+
+(3) A Központi Kárrendezési Iroda[^2] (a továbbiakban: KKI) a központi költségvetés vonatkozó előirányzata terhére, a felmerülésük ütemében térítse meg az önkormányzatok által a bizottságok működéséhez megelőlegezett bizonylattal igazolt és a 4. §-ban előírt módon hitelesített költségeket, az 1. § (1) bekezdésében és a 3. §-ban meghatározott értékhatárig.
+
+## 2. §
+
+(1) Az egyes kiadási tételek szükségességéről a bizottság elnöke dönt, a (2) és (3) bekezdésben foglaltak figyelembevételével.
+
+(2) Nem számolható el a bizottság működési kiadásaként:
+
+a) a teljes munkaidőben foglalkoztatott (főállású) személyek munkabére és annak járulékai, kivéve, ha foglalkoztatásuk közhasznú munkavégzés keretében történik;
+
+b) az ötezer forint egyedi értéket meghaladó berendezések, irodatechnikai, illetve számítástechnikai eszközök vételára;
+
+c) a reprezentációs költség;
+
+d) a földkimérés költségei.
+
+(3)[^3] Szakértői díj a bizottság működési kiadásaként akkor számolható el, ha az illetékes fővárosi és megyei kormányhivatal ingatlanügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala, illetve földművelésügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) nyilatkozatával igazolja, hogy a szükséges adatot vagy információt, illetve ez irányú szakértői munkát nem állt módjában a bizottság rendelkezésére bocsátani.
+
+## 3. §
+
+Megtéríthető az 1. § (1) bekezdése szerinti átalányösszegeket legfeljebb 20%-kal meghaladó indokolt kiadás, ha
+
+— a földrendező bizottság illetékességébe vont földterület nagysága nem haladja meg az ezer hektárt;
+
+— a földkiadó bizottság illetékessége által érintett részarány-tulajdonosok száma nem haladja meg az ötszáz főt.
+
+## 4. §
+
+A bizottságok működésével kapcsolatos kiadások megtérítése negyedévenként történik, az alábbiak szerint:
+
+a) az önkormányzat minden negyedévet követő második hónap utolsó napjáig beérkezően bizottságonként elkülönítve terjesztheti fel igényeit a KKI-hoz a jelen rendelet mellékleteiben foglalt költségelszámoló lapok felhasználásával. A felmerült költségek valódiságát a bizottság elnöke, a polgármester és az önkormányzat jegyzője együttesen, aláírásukkal igazolják;
+
+b) a költségelszámoló lapok másodpéldányát, valamint a kiadási tételeket igazoló bizonylatokat az önkormányzat öt éven át köteles megőrizni és ellenőrzés esetén bemutatni;
+
+c) a beérkezett igényeket a KKI a jelen rendelet rendelkezései szempontjából felülvizsgálja, és a következő negyedév 10. napjáig kielégíti;
+
+d) a hibásan vagy hiányosan beérkezett igényléseket a KKI javításra, illetve hiánypótlásra visszaküldi;
+
+e) az első ízben — 1994. május 31-ig — beküldendő költségelszámoló lapon valamennyi addig felmerült és a jelen rendelet szerint elszámolható kiadást fel kell tüntetni;
+
+f) az első — 1994. július 10-ig kiutalandó — térítés összegét csökkenteni kell a már kiutalt előleg összegével.
+
+## 5. §[^4]
+
+Amennyiben az 1994. évi XXVII. törvény alapján a földkiadó bizottság feladatkörét a megyei kormányhivatal veszi át:
+
+a)[^5] az átvételt követően az adott földkiadó bizottság illetékessége szerint számított költségátalány még fel nem használt részét a feladatot ellátó megyei kormányhivatal költségvetésébe kell átcsoportosítani a hivatkozott törvény 3. §-ának (5) bekezdésében foglalt rendelkezésnek megfelelően;
+
+b)[^6] az így átcsoportosított előirányzat felhasználásáról a megyei kormányhivatal költségvetési beszámolás keretében köteles számot adni. A földművelésügyi igazgatóság tevékenységére a 2. §-ban foglalt korlátozások nem vonatkoznak;
+
+c)[^7] a megyei kormányhivatal felelős azért, hogy az *a)* pont szerinti összegekkel megnövelt kiadási előirányzat fedezze a felmerülő költségeket. Az esetleges túllépés fedezetéről a Kormány dönt.
+
+## 6. §
+
+Ez a rendelet a kihirdetéstől számított 8. napon lép hatályba.
+
+## 1. számú melléklet a 79/1994. (V. 19.) Korm. rendelethez[^8]
+
+**KÖLTSÉGELSZÁMOLÓ LAP**
+
+a ……………………………… településen illetékes, megalakított\
+Földrendező bizottság működési költségeiről
+
+A költségeket megelőlegező helyi önkormányzat neve:
+
+és címe:
+
+1\. A Földrendező bizottság működési körébe vont terület mértéke (hektárban): ……………………………
+
+2\. A költségek elszámolásának időszaka: 199… ………………………… hó ……… napjától,
+
+199… ………………………… hó ……… napjáig.
+
+3\. A 79/1994. (V. 19.) Korm. rendeletben meghatározott, bizonylatokkal dokumentált költségek részletezése:
+
+a kiadás jogcíme: összege:
+
+4\. Pénzforgalmi adatok:
+
+Helyi önkormányzat által megnyitott pénzintézeti számla megnevezése:
+
+és száma:
+
+Számlavezető OTP fiók vagy más pénzintézet neve, székhelye:
+
+és jelzőszáma:
+
+Kijelentjük, hogy a fenti költségigény a valóságnak megfelel, nem tartalmaz olyan tételt, amely a 79/1994. (V. 19.) Korm. rendelet 2. §-a értelmében nem számolható el, és a korábbi térítésekkel együttesen sem haladja meg az ugyanazon Korm. rendelet 1. § (1) bekezdésben, illetve a 3. §-ban meghatározott költségátalány összegét.
+
+Kelt: ………………………………, 199… …………………………………… hó ……… nap.
+
+………………………………………… ………………………………………… …………………………………………
+
+Földrendező bizottság elnöke polgármester jegyző
+
+## 2. számú melléklet a 79/1994. (V. 19.) Korm. rendelethez
+
+**KÖLTSÉGELSZÁMOLÓ LAP**
+
+a …………………………………………-i(székhely, település) ………………………………………… (mezőgazd. nagyüzem)területén illetékes, megválasztott
+
+Földkiadó bizottság költségeiről
+
+A költségeket megelőlegező helyi önkormányzat neve:
+
+és címe:
+
+1\. A Földkiadó bizottság működési körébe vont részarány-földtulajdonosok száma: …………………………… fő.
+
+2\. A költségek elszámolásának időszaka: 199… ………………………… hó ……… napjától,
+
+199… ………………………… hó ……… napjáig.
+
+3\. A 79/1994. (V. 19.) Korm. rendeletben meghatározott, bizonylatokkal dokumentált költségek részletezése:
+
+a kiadás jogcíme: összege:
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+................. .....Ft
+
+Összesen: .....Ft
+
+4\. Pénzforgalmi adatok:
+
+Helyi önkormányzat által megnyitott pénzintézeti számla megnevezése:
+
+és száma:
+
+Számlavezető OTP fiók vagy más pénzintézet neve, székhelye:
+
+és jelzőszáma:
+
+Kijelentjük, hogy a fenti költségigény a valóságnak megfelel, nem tartalmaz olyan tételt, amely a 79/1994. (V. 19.) Korm. rendelet 2. §-a értelmében nem számolható el, és a korábbi térítésekkel együttesen sem haladja meg az ugyanazon Korm. rendelet 1. § (1) bekezdésben, illetve a 3. §-ban meghatározott költségátalány összegét.
+
+Kelt: ………………………………, 199… …………………………………… hó ……… nap.
+
+………………………………………… ………………………………………… …………………………………………
+
+Földkiadó bizottság elnöke polgármester jegyző
+
+---
+
+[^1]: Az 1. § (1) bekezdésének „a törvény által kiszabott feladatuk elvégzésének teljes időtartamára számított” mondatrészét a 49/1997. (X. 6.) AB határozat azt hatálybalépésének napjára 1997. május 27-re visszamenő hatállyal megsemmisítette.
+[^2]: A 42/1998. (III. 6.) Korm. rendelet 5. § (2) bekezdése értelmében ahol a jogszabály az Országos Kárrendezési és Kárpótlási Hivatalról vagy a megyei (fővárosi) kárrendezési hivatalokról tesz említést, ott a Központi Kárrendezési Irodát kell érteni.
+[^3]: A 2. § (3) bekezdése a 296/2012. (X. 17.) Korm. rendelet 4. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 11. § a) és b) pontja szerint módosított szöveg.
+[^4]: Az 5. § nyitó szövegrésze a 296/2012. (X. 17.) Korm. rendelet 4. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^5]: Az 5. § a) pontja a 296/2012. (X. 17.) Korm. rendelet 4. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^6]: Az 5. § b) pontja a 296/2012. (X. 17.) Korm. rendelet 4. § b) és d) pontja, a 70/2015. (III. 30.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^7]: Az 5. § c) pontja a 296/2012. (X. 17.) Korm. rendelet 4. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^8]: A Magyar Közlöny 1994. évi 57. számában megjelent helyesbítésnek megfelelő szöveg.

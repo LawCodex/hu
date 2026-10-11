@@ -1,0 +1,263 @@
+---
+title: "139/1991. (X. 29.) Korm. rendelet a közúti járművezetők utánképzéséről"
+identifier: "139/1991. (X. 29.) Korm. rendelet"
+njt_id: "1991-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1991/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1991-10-29
+in_force_from: 2009-10-01
+last_amended: 2024-08-30
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1991-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/1991. (X. 29.) Korm. rendelet a közúti járművezetők utánképzéséről
+
+A közúti közlekedésről szóló 1988. évi I. törvény 48. §-ának (2) bekezdésében kapott felhatalmazás alapján — a törvény 18. §-ának (4) bekezdésében foglaltakra figyelemmel — a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+(1)[^2] A járművezetők utánképzésére jogosító engedélyt a közlekedési hatóság adja ki.
+
+(2)[^3] Az utánképzés folytatására az kaphat az illetékes közlekedési hatóságtól engedélyt, valamint a vizsgaközponttól a programok megtartására megbízást, aki az adott programhoz az 1. számú mellékletben előírt személyi és tárgyi feltételeket teljesíti.
+
+(3)[^4] Az utánképzést végzők tevékenységét a közlekedési hatóság rendszeresen ellenőrzi, és e tevékenység tekintetében ellátja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait. A hatóság bármely feltétel hiánya vagy nem kielégítő szakmai színvonal esetében az engedélyt visszavonja.
+
+(3a)[^5] Az utánképzést végzők tevékenységét – különösen a tevékenység végzéséhez meghatározott feltételek és előírások megtartását – a vizsgaközpont rendszeresen ellenőrzi, amelyet az ellenőrzés alá vont szervezet, személy tűrni köteles, azt nem akadályozhatja. Ha a vizsgaközpont – az általa végzett ellenőrzés során feltárt – bármely, jogszabályban vagy az engedélyben előírt feltétel hiányát vagy az utánképzés nem kielégítő szakmai színvonalát állapítja meg, erről tájékoztatja a közlekedési hatóságot.
+
+(4)[^6] Az utánképzés során a foglalkozásokat az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított, utánképzés-foglalkozásvezetői névjegyzékben (a továbbiakban: névjegyzék) szereplő utánképzés-foglalkozásvezető (a továbbiakban: foglalkozásvezető) tartja.
+
+(5)[^7] A közlekedési hatóság az utánképzés-foglalkozásvezetői tevékenységet a névjegyzékbe vétellel engedélyezi azok számára, akik
+
+a) érvényes vezetői engedéllyel rendelkeznek,
+
+b) utánképzés foglalkozásvezetői képesítéssel rendelkeznek,
+
+c) a névjegyzékbe vételi eljárás díját befizették, és
+
+d) az engedélyezési kérelem benyújtását megelőző két éven belül a kötelező továbbképzésen részt vettek.
+
+## 2. §
+
+(1)[^8] Az utánképzésre kötelezett az utánképzésre a vizsgaközpont bármelyik szervénél jelentkezhet, ahol az utánképzés programjának egyéniesített meghatározása céljából feltáró foglalkozáson vesz részt. A jelentkező bemutatja a rendelkezésére álló, a kötelezés okát tartalmazó hatósági értesítést, illetve a vizsgaközpont a feltáráshoz szükséges adatokat az engedély nyilvántartási rendszerből és a közúti közlekedési előéleti pont nyilvántartásból lekérdezi. A feltárás során alkalmazható módszereket a 3. számú melléklet tartalmazza.
+
+(2)[^9] A feltáró foglalkozás eredményétől függően a vizsgaközpont az utánképzésre kötelezett számára azt a programot jelöli ki, amely a feltárt hiányosságok megszüntetésére a legmegfelelőbb. Az utánképzés programját, az egyes programok tartalmát, időtartamát és a módszereket az 1. számú melléklet tartalmazza.
+
+(3)[^10] A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény 9. § (1) bekezdése alapján a járművezető nyilvántartott pontjainak számát utánképzésen való önkéntes részvétellel csökkentheti, amely keretében a járművezető feltáró foglalkozáson való részvétel nélkül, az 1. számú mellékletben meghatározott III. programon történő részvételre kerül besorolásra.
+
+(4)[^11] Az utánképzésre kötelezett a számára kijelölt programra a vizsgaközpont feltárást végző szervénél jelentkezik. A vizsgaközpont a jelentkezők adatait átadja az engedéllyel rendelkező képző szervnek.
+
+(5)[^12] A programon való részvételről a képző szerv tájékoztatja a vizsgaközpontot.
+
+## 3. §
+
+(1) Ha az utánképzésben a kötelezett közlekedési képzettségének hiányosságát kellett megszüntetni (1. számú melléklet I. és II. program) az utánképzés a programnak megfelelően elméleti vagy gyakorlati vizsgával zárul. A vizsga tartalmát, módszereit és időtartamát, valamint személyi és tárgyi feltételeit a 4. számú melléklet tartalmazza.
+
+(2)[^13] A közúti közlekedési szabályok kisebb fokú megsértése vagy szabálytalan parkolás miatt – két éven belül legalább három alkalommal – szabálysértési eljárás során határozatban kiszabott bírsággal sújtott kötelezettet – a feltáró foglalkozás mellőzésével – az I. számú programra kell beosztani.
+
+(3)[^14] Sikertelen vizsga esetében az utánképzett pótvizsgát tehet. A járművezetési gyakorlati vizsgán értelemszerűen alkalmazni kell a közúti járművezetők pályaalkalmassági vizsgálatáról szóló rendelet rendelkezéseit.
+
+## 4. §
+
+(1)[^15] Az utánképzés teljesítéséről és a 3. § szerinti vizsga sikeres letételéről a vizsgaközpont igazolást ad ki, amely tartalmazza
+
+a) az utánképzésen részt vevő nevét, születési helyét és idejét, továbbá anyja nevét,
+
+b) az utánképzés teljesítésének igazolását,
+
+c) a teljesített utánképzést elrendelő határozat számát és az elrendelés okát,
+
+d) a kiállítás dátumát,
+
+e)[^16]
+
+(2) Nem adható ki az igazolás, illetőleg a bizonyítvány annak, aki valamely foglalkozáson nem vett részt, vagy azon járművezetésre alkalmatlan állapotban jelent meg.
+
+(3)[^17]
+
+## 4/A. §[^18]
+
+E rendeletnek a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelettel megállapított 1. § (5) bekezdés b) pontjában foglaltaktól eltérően 2025. december 31. napjáig az is kérheti az utánképzés-foglalkozásvezetői tevékenység névjegyzékbe való felvételével történő engedélyezését, aki igazolja, hogy az engedélyezés iránti kérelem benyújtását megelőző 5 évben legalább 5 utánképzési programban foglalkozásvezetőként tevékenykedett.
+
+## 5. §
+
+Ez a rendelet 1992. január 1-jén lép hatályba.
+
+## 6. §[^19]
+
+Ez a rendelet – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvénnyel együtt – a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^20]
+
+1\. **Az egyes** **utánképzési** **programok tartalma, időtartama, módszerei, végzésének személyi és tárgyi feltételei**
+
+Az utánképzés programja az utánképzésre kötelezés alapjául szolgáló cselekmény(ek)től és az utánképzésre kötelezett közlekedési képzettségében, kultúrájában, valamint közlekedési magatartásában feltárt hiányosságoktól, valamint attól függ, hogy a kötelezett korábban már részt vett-e utánképzésben.
+
+1.1. **A közlekedési képzettség hiányosságainak megszüntetésére irányuló elméleti foglalkozás** **– I. program**
+
+1.1.1. A program tartalma: a foglalkozások során a résztvevők utánképzésre való kötelezésének alapjául szolgáló cselekmények, valamint a feltáró foglalkozás során megoldott feladatlapon, valamint a vezetési próbán elkövetett, az adott csoportra nézve tipikus hibák közlekedésszakmai (jogi, vezetéselméleti, közlekedéserkölcsi, járműműszaki stb.) elemzésével, a szükséges kapcsolódó ismeretek közlésével kell a képzettségi hiányosságokat csökkenteni, és a pedagógia (andragógia) módszereivel kell a helyes közlekedési magatartásra nevelni, a kívánatos közlekedési beállítódásokat kialakítani.
+
+1.1.2. A program időtartama: 6 óra, amelyet két foglalkozásra elosztva kell megtartani.
+
+1.1.3. A csoportlétszám felső határa 20 fő, alsó határa 8 fő.
+
+1.1.4. A program megtartására feljogosított, névjegyzékben szereplő foglalkozásvezető jogosult.
+
+1.1.5. Tárgyi feltételek:
+
+a) a közlekedési hatóság által e tevékenységre alkalmasnak minősített helyiség, a csoportlétszámnál legalább kettővel több, jegyzetelésre is lehetőséget nyújtó ülőhely;
+
+b) keretezett diaképek kivetítésére alkalmas diavetítő, vetítővászon vagy egyéb, ezzel egyenértékű berendezés;
+
+c) videólejátszó, megfelelő méretű, illetve elegendő számú monitor;
+
+d) falitábla, kréta vagy más, ezzel egyenértékű demonstrációs eszköz.
+
+1.2. **A közlekedési képzettség, kultúra és magatartás hiányosságainak és hibáinak megszüntetését célzó járművezetési gyakorlati foglalkozás – II. program**
+
+1.2.1. A program tartalma: a felderített és a gyakorlatok közben felmerülő – a járművezetési készségek, jártasságok és képzettség terén mutatkozó – hiányosságokat meg kell szüntetni. A rossz beállítódásokat, szokásokat le kell építeni. A helyes magatartás kialakítása a pedagógia (andragógia) módszereivel történik.
+
+1.2.2. A program időtartama: 7 óra, továbbá 1 tanóra forgalmi vizsga, amelyet négy foglalkozásra elosztva kell megtartani. Egy foglalkozásvezető egyidejűleg egy kötelezettel foglalkozhat.
+
+1.2.3. A foglalkozások a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályairól szóló miniszteri rendelet szerinti gyakorlati oktatásnak minősülnek. A foglalkozások során a jármű felelős vezetője a foglalkozásvezető.
+
+1.2.4. A programot feljogosított, névjegyzékben szereplő foglalkozásvezető tarthatja meg.
+
+1.2.5. A programhoz szükséges tárgyi feltételek azonosak a megfelelő járműkategóriájú járművezető-képző tanfolyamok járművezetési gyakorlati foglalkozásaival.
+
+1.3. **A közlekedési szabályok megtartását célzó foglalkozás – III. program**
+
+1.3.1. A program tartalma: pedagógiai, csoportdinamikai módszerek alkalmazásával lefolytatott problémaelemzések, helyzetgyakorlatok (kommunikációs, önismereti, helyzetfelmérési, anticipációs, decentrálási, konszenzus stb.) segítségével a csoport tagjainál előforduló hibás magatartások feltárása, korrekciója, attitűdbefolyásolás.
+
+1.3.2. A program időtartama: 12 óra, amelyet két foglalkozásra elosztva kell megtartani.
+
+1.3.3. A foglalkozás kettős vezetésű. Azonos az I. programnál feltüntetettekkel, azzal, hogy a kettős vezetés akként valósul meg, hogy az egyik foglalkozásvezetőnek pszichológusi vagy pszichoterapeutai képesítéssel kell rendelkeznie.
+
+1.3.4. A csoportlétszám alsó határa 8, felső határa 15 fő.
+
+1.3.5. A programhoz szükséges tárgyi feltételek azonosak az I. programnál meghatározott feltételekkel, azzal a kiegészítéssel, hogy az ülőhelyek mobilitása tegye lehetővé a csoportfoglalkozáshoz szükséges elrendezést.
+
+1.4. **Magatartásformálás – IV. program**
+
+1.4.1. A program tartalma: dinamikus orientált csoportterápia (értelmezés, szembesítés, tanácsadás, lelkesítés), valamint szupportív (támogató) csoportterápia [redaptáció, szorongás oldása (konfrontáció – átélés), az életképesebb magatartás begyakorlása].
+
+1.4.2. A program időtartama: 25 óra, amelyet 5 foglalkozásra elosztva kell megtartani.
+
+1.4.3. A program az I. vagy a II. kiegészítő programmal együtt is meghatározható a kötelezett számára.
+
+1.4.4. A foglalkozás kettős vezetésű. A program megtartására a feljogosított, névjegyzékben szereplő foglalkozásvezetők jogosultak, azzal a kiegészítéssel, hogy a kettős vezetés akként valósul meg, hogy az egyik foglalkozásvezetőnek pszichológusi vagy pszichoterapeutai képesítéssel kell rendelkeznie.
+
+1.4.5. A csoportlétszám alsó határa 8, felső határa 15 fő.
+
+1.4.6. A programhoz szükséges tárgyi feltételek azonosak a III. programnál meghatározott feltételekkel.
+
+1.5. **Az „enyhén ittas vezetők’’ foglalkozása – V. program**
+
+1.5.1. A program tartalma: jogi és egészségügyi ismeretközlés, valamint csoportos témacentrikus beszélgetés, pszichológiai-behavior (viselkedés) terápiás elemek. Alkalmazásának célja: célra irányuló részleges módosítás.
+
+1.5.2. A program csak az I., a II. vagy a III. programmal együtt, annak kiegészítéseként határozható meg a kötelezett számára.
+
+1.5.3. A program időtartama: 7 óra.
+
+1.5.4. A csoportlétszám felső határa 15 fő, alsó határa 8 fő.
+
+1.5.5. A program megtartására feljogosított, névjegyzékben szereplő foglalkozásvezető jogosult.
+
+1.5.6. A program megtartásához a III. programnál meghatározott tárgyi feltételek szükségesek.
+
+1.6. **A „közepesen ittas vezetők’’ foglalkozása – VI. program**
+
+1.6.1. A program tartalma: ismeretátadás, egyéni motivációk feltárása, ezek csoportdinamikai felhasználása, tréningmódszerek, korrektív-behavior (viselkedés) terápia az ivás és vezetés területeinek szétválasztására. Célja a hamis tétel megváltoztatása, önismeret-növelés, önkontroll módszerekkel (negáció – tagadás, averzió – elkerülés).
+
+1.6.2. A program időtartama: 15 óra, amelyet 3 foglalkozásra elosztva kell megtartani.
+
+1.6.3. A program az I. vagy a II. kiegészítő programmal együtt is meghatározható a kötelezett számára.
+
+1.6.4. A foglalkozás kettős vezetésű, a program megtartására feljogosított, névjegyzékben szereplő foglalkozásvezető jogosult.
+
+1.6.5. A csoportlétszám alsó határa 8, felső határa 15 fő.
+
+1.6.6. A program a III. programnál meghatározott tárgyi feltételekkel tartható meg.
+
+1.7. **A „súlyosan ittas vagy visszatérő ittas vezetők’’ foglalkozása – VII. program**
+
+1.7.1. A program tartalma: a hibás magatartást motiváló személyiségtulajdonságok feltárása és konfrontáltatása a csoportdinamika felhasználásával, a változtatás lehetőségének felvázolása. Exploratív (feltáró) dinamikusan orientált terápia (a fókusz definiálása 1. a késztetés szintjén, 2. az elhárítási mechanizmusok szintjén), analitikusan orientált csoportterápia (a személyiség struktúrájának befolyásolása).
+
+1.7.2. A program időtartama: 25 óra, amelyet 5 foglalkozásra elosztva kell megtartani.
+
+1.7.3. A program az I. vagy a II. kiegészítő programmal együtt is meghatározható a kötelezett számára.
+
+1.7.4. A foglalkozás kettős vezetésű, a program megtartására feljogosított, névjegyzékben szereplő foglalkozásvezető jogosult.
+
+1.7.5. A csoportlétszám alsó határa 8, felső határa 15 fő.
+
+1.7.6. A program a III. programnál meghatározott tárgyi feltételekkel tartható meg.
+
+## 2. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^21]
+
+## 3. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^22]
+
+1\. **A feltárás során alkalmazható módszerek**
+
+1.1. A feltárást a vizsgaközpont által működtetett feltáró csoport (explorációs team) végzi, amely legalább háromtagú, vezetőjét a vizsgaközpont bízza meg a foglalkozásvezetői jogosultsággal rendelkező személyek közül. A csoportot úgy kell összeállítani, hogy abban valamennyi program végzésére legyen minősített szakember. A feltárást végző szakember az általa vizsgált személynél – annak utánképzése során – foglalkozásvezető nem lehet.
+
+1.2. A közlekedési ismeretekben, képzettségben meglévő hiányosságok feltárása a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a miniszteri rendeletben meghatározottak szerint történik. A feladat megoldására a kötelezett 50 percet fordíthat.
+
+1.3. A közlekedési képzettség, kultúra és magatartás hiányosságainak és hibáinak a feltárása vezetési próbán történik. A vezetési próba időtartama legfeljebb 55 perc. Amennyiben az utánképzésre kötelezett „B”, „C” vagy „D” kategóriájú jármű vezetése során követte el az utánképzésre kötelezés alapjául szolgáló cselekményt (cselekményeket), a vezetési próba csak a járművezetési gyakorlat oktatásához jogszabályban meghatározott felszerelésű gépkocsin tartható. Ez esetben – ha az utánképzésre kötelezett vezetői engedélyét bevonták – a jármű felelős vezetője a vezetési próba levezetője.
+
+1.4. Amennyiben az utánképzésre kötelezett egyéb kategóriába tartozó jármű vezetése során követte el az utánképzésre kötelezés alapjául szolgáló cselekményt (cselekményeket), a vezetési próbát ilyen járművel, a kategória járművezetési gyakorlati vizsgájára vonatkozó előírások figyelembevételével kell végezni.
+
+1.5. A pszichológiai feltárás során a pszichológus első explorációja információszerzés jellegű, a második explorációs szakasz az összerendező átgondolás.
+
+1.6. Az utánképzésre kötelezés alapjául szolgáló cselekmény (cselekmények), valamint a feltárás eredményeinek összevetése és elemzése után a feltáró csoport az utánképzési programok közül a domináns probléma megoldását várhatóan leghatékonyabban szolgálóra irányítja az utánképzésre kötelezettet.
+
+## 4. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^23]
+
+1\. **A vizsgák tartalma, módszerei, időtartama, személyi és tárgyi feltételei**
+
+1.1. **Az I. programot követő vizsga**
+
+1.1.1. A vizsgázónak a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a miniszteri rendeletben meghatározott, a közúti járművezetők vizsgáztatására vonatkozó elméleti vizsgát kell tennie.
+
+1.1.2. A vizsga követelményszintjét a közlekedésért felelős miniszter állapítja meg. A vizsga teljesítésére 55 perc áll a vizsgázó rendelkezésére.
+
+1.2. **A II. programot követő vizsga**
+
+1.2.1. A járművezetési gyakorlati vizsgát a jogszabály szerint a közúti járművezetők vizsgáztatására jogosult, gyakorlati vizsga tartására feljogosított vizsgabiztos vezeti le.
+
+1.2.2. A vizsga lebonyolítására, követelményszintjére, személyi és tárgyi feltételeire a megfelelő járműkategória járművezetési gyakorlati vizsgájának szabályait kell alkalmazni.
+
+## 5. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^24]
+
+## 6. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^25]
+
+---
+
+[^1]: Az 1. § a 182/2009. (IX. 10.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: Az 1. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdése a 248/2019. (X. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^5]: Az 1. § (3a) bekezdését a 248/2019. (X. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (5) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdése a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^11]: A 2. § (4) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 2. § (5) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 26. pontja szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdése a 248/2019. (X. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 4. § (1) bekezdés e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^17]: A 4. § (3) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
+[^18]: A 4/A. §-t a 251/2024. (VIII. 22.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A 6. §-t a 251/2024. (VIII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^20]: Az 1. számú melléklet a 251/2024. (VIII. 22.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^21]: A 2. számú mellékletet a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^22]: A 3. számú melléklet a 251/2024. (VIII. 22.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
+[^23]: A 4. számú melléklet a 251/2024. (VIII. 22.) Korm. rendelet 5. § c) pontjával megállapított szöveg.
+[^24]: Az 5. számú mellékletet a 248/2019. (X. 24.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^25]: A 6. mellékletet a 410/2023. (VIII. 30.) Korm. rendelet 1. § b) pontja hatályon kívül helyezte.

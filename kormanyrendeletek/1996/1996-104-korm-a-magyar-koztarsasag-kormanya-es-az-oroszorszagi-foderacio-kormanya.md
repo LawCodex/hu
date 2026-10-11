@@ -1,0 +1,162 @@
+---
+title: "104/1996. (VII. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Moszkvában, 1995. március 6-án aláírt Megállapodás kihirdetéséről"
+identifier: "104/1996. (VII. 16.) Korm. rendelet"
+njt_id: "1996-104-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/104"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-07-16
+in_force_from: 1996-07-24
+last_amended: 1996-07-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-104-20-22"
+retrieved: 2026-10-12
+---
+
+# 104/1996. (VII. 16.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Moszkvában, 1995. március 6-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás hatálybalépéséről szóló diplomáciai jegyzékváltás 1996. évi július hó 4.[^1] napján megtörtént.)*
+
+## 1. §
+
+A Kormány e rendelettel a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Moszkvában, 1995. március 6-án aláírt Megállapodást kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,Megállapodás\
+a Magyar Köztársaság Kormánya és az\
+Oroszországi Föderáció Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi helyzetéről
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya (a továbbiakban: Felek)
+
+attól az elvtől vezérelve, miszerint a katonáknak, a hadifoglyoknak és más személyeknek, akik az I. és II. világháborúban, valamint a háborút követő időszakban elestek, vagy meghaltak, joguk van méltó sírhelyre, amelyek kialakítását és gondozását – a háború áldozatainak védelmére vonatkozó, Genfben, 1949. augusztus 12-én kötött Egyezmények és azok 1977. évi kiegészítő Jegyzőkönyvei alapján, valamint más nemzetközi emberi jogi normák szerint – megfelelő módon kell biztosítani,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A jelen Megállapodás alkalmazásában az alábbi fogalmak jelentése a következő:
+
+*a)* ,,elesett orosz katonák és polgári áldozatok'' (a továbbiakban: ,,elesett orosz katonák''):
+
+Oroszország és a volt Szovjetunió állampolgárai, akik az orosz és a volt szovjet Fegyveres Erők állományába tartoztak és a Magyar Köztársaság területén a háborúk következtében és a háború utáni időszakban elestek, vagy meghaltak;
+
+Oroszország és a volt Szovjetunió állampolgárai, akik hadifogságban vagy annak következtében a Magyar Köztársaság területén meghaltak;
+
+a volt Szovjetunió állampolgárai, akiket 1941. és 1945. között erőszakkal kényszermunkára a Magyar Köztársaság területére hurcoltak, vagy akaratuk ellenére ott tartózkodtak, és ez idő alatt meghaltak;
+
+*b)* ,,orosz katonák és polgári áldozatok temetkezési helyei'' (a továbbiakban. ,,orosz katonák temetkezési helyei''):
+
+az elesett orosz katonák Magyar Köztársaság területén található temetkezési helyei, beleértve a temetőket, temetőparcellákat, valamint emlékműveket és más kegyeleti létesítményeket;
+
+*c)* ,,elesett magyar katonák és polgári áldozatok'' (a továbbiakban: ,,elesett magyar katonák''):
+
+azok a magyar állampolgárok, akik a magyar Fegyveres Erők állományába tartoztak és a háborúk következtében, valamint a háborúkat követő időszakban az Oroszországi Föderáció területén elestek, vagy meghaltak;
+
+azok a magyar állampolgárok, akik hadifogságban vagy annak következtében az Oroszországi Föderáció területén meghaltak;
+
+azok a magyar állampolgárok, akiket 1944. és 1947. között erőszakkal kényszermunkára az Oroszországi Föderáció területére hurcoltak, vagy akaratuk ellenére ott tartózkodtak, és ez idő alatt meghaltak;
+
+*d)* ,,magyar katonák és polgári áldozatok temetkezési helyei'' (a továbbiakban: ,,magyar katonák temetkezési helyei''):
+
+az elesett magyar katonáknak az Oroszországi Föderáció területén található temetkezési helyei, beleértve a temetőket, temetőparcellákat, valamint emlékműveket és más kegyeleti létesítményeket;
+
+*e)* ,,az *a)*, *b)*, *c)* és *d)* pontokban megfogalmazott személyek temetkezési helyeinek fenntartása és ápolása'' (a továbbiakban: ,,katonai temetkezési helyek fenntartása és ápolása''):
+
+a katonai temetkezési helyek megőrzésének biztosítása, megfelelő állapotban való fenntartása és zölddel történő ellátása;
+
+*f)* ,,a katonai temetkezési helyek létesítése'':
+
+a katonai temetkezési helyek határainak kijelölése, emléktáblák, sírkövek, emlékművek vagy más kegyeleti létesítmények felállítása és egyéb szükséges intézkedések megtétele.
+
+*2. Cikk*
+
+1\. A Felek a Magyar Köztársaság területén található orosz katonai temetkezési helyek és az Oroszországi Föderáció területén található magyar katonai temetkezési helyek feltárásával, nyilvántartásával, létesítésével és fenntartásával, valamint az elesett katonák földi maradványainak exhumálásával, illetve újratemetésével kapcsolatos kérdések rendezése során a jelen Megállapodást, valamint azon ország jogrendjét tartják irányadónak, amely területén a temetkezési helyek fellelhetők.
+
+A Felek tiszteletben tartják Magyarország és Oroszország népeinek nemzeti, vallási és egyéb hagyományait, beleértve, a sírok, az emlékművek és a kegyeleti létesítmények feliratozását.
+
+2\. A Felek az általuk felhatalmazott szervek útján értesítik egymást a Magyar Köztársaság területén levő orosz katonai temetkezési helyek és az Oroszországi Föderáció területén található magyar katonai temetkezési helyek meglétéről, helyéről és diplomáciai úton kicserélik azok jegyzékét.
+
+Az újonnan feltárt temetkezési helyeknek a fent említett jegyzékbe történő felvételét a Felek közösen egyeztetve végzik el.
+
+3\. A Felek kicserélik adataikat a harcokban elesett, a hadifogságban elhalálozott katonákról, valamint az erőszakkal kényszermunkára elhurcolt személyekről, illetve országaik területén található elhantolási helyeikről.
+
+4\. A Felek biztosítják a Magyar Köztársaság és az Oroszországi Föderáció területén levő, orosz, illetve magyar katonai temetkezési helyek, beleértve az emlékművek és más kegyeleti létesítmények védelmét és korlátlan időre szóló megőrzésük jogát.
+
+5\. Mindegyik Fél biztosítja a diplomáciai testület tagjainak, az elesett orosz és magyar katonák rokonainak, valamint más egyéneknek és szervezett csoportoknak a katonai temetkezési helyek meglátogatásának lehetőségét, a kegyelet lerovásának céljából.
+
+*3. Cikk*
+
+1\. A Felek térítésmentesen egymás használatára bocsátják a katonai temetkezési helyek és kegyeleti létesítmények által elfoglalt földterületeket arra az időre, amíg azok ilyen célt szolgálnak.
+
+2\. Amennyiben a jelen Cikk 1. pontjának megfelelően rendelkezésre bocsátott földterületet fontos állami érdek miatt más célra kívánják hasznosítani, úgy az érdekelt Fél új – a jelen Cikk 1. pontja feltételeinek megfelelő – helyet biztosít a másik Fél számára, és vállalja az elesett katonák földi maradványainak a kegyeleti létesítmények áthelyezésével és az új katonai temetkezési helyek kialakításával járó költségeket.
+
+3\. Az új földterület kiválasztását és az újratemetést a Felek kölcsönös megegyezése alapján kell megvalósítani.
+
+Ilyen megegyezés hiányában az érdekelt Fél, a másik Fél hivatalos megkeresésétől számított 2 év elteltével, a katonai temetkezési helyek áthelyezésére saját törvényeinek és rendelkezéseinek megfelelő intézkedéseket hozhat.
+
+*4. Cikk*
+
+Az Oroszországi Föderáció területén található magyar és a Magyar Köztársaság területén lévő orosz katonai temetkezési helyek lakott területen kívül, az elesettek emlékének méltó helyen létesítendők. A Felek az ezzel kapcsolatos kérdések megoldása érdekében kiegészítő jegyzőkönyveket készítenek.
+
+*5. Cikk*
+
+1\. Az elesett katonák földi maradványainak a szülőhelyen való újratemetés céljából történő exhumálása kizárólag az érdekelt Fél kérésére és a másik Fél beleegyezésével történik.
+
+2\. Az orosz katonák a Magyar Köztársaság területén lévő és a magyar katonák az Oroszországi Föderáció területén lévő földi maradványai temetkezési helyének áthelyezése csak kivételes esetben, annak a Félnek a döntése alapján történhet, amely országának a területén az adott temetkezési hely van. Ez esetben a másik Felet a temetkezési hely tervezett áthelyezéséről megfelelő időben tájékoztatni kell.
+
+3\. A földi maradványok áthelyezése és újratemetése céljából elvégzendő exhumáláson jelen lehet azon ország képviselője, amely katonáinak földi maradványait kihantolják.
+
+*6. Cikk*
+
+1\. Mindegyik Fél saját költségére biztosítja az országa területén található, a másik Fél részére felállított, katonai temetkezési helyek, beleértve az emlékművek és más kegyeleti létesítmények fenntartását és ápolását.
+
+2\. Az elesett katonák földi maradványainak exhumálási, áthelyezési és katonai temetkezési helyek, többek között az újonnan feltártak kialakítási költségei azt a Felet terhelik, amelynek kérésére vagy döntése alapján ezekre a munkálatokra sor kerül.
+
+3\. A katonai temetkezési helyek létesítésének módját, valamint a Felek közötti ezzel kapcsolatos kölcsönös elszámolásokat külön jegyzőkönyvekben határozzák meg.
+
+*7. Cikk*
+
+A Felek elősegítik az elesettek emlékének megőrzésén munkálkodó magyarországi és oroszországi egyesületek, alapítványok és társadalmi szervezetek erőfeszítéseit és együttműködését, beleértve a konkrét intézkedések megvalósítását szolgáló megállapodásokat a jelen Megállapodás keretén belül.
+
+*8. Cikk*
+
+1\. A katonai temetkezési helyek kialakítására és a temetők és emlékművek gondozására szolgáló berendezések és szállító eszközök, illetve anyagok és kellékek a Magyar Köztársaság, illetve az Oroszországi Föderáció területére történő bevitelük során mentesülnek a kölcsönös vámkötelezettség alól.
+
+2\. Az 1. pontban jelzett berendezések, szállító eszközök, anyagok és kellékek határokon keresztül történő áthaladását a vámszervek a Felek vámszabályai szerint ellenőrzik.
+
+*9. Cikk*
+
+A Felek a jelen Megállapodás megvalósítása, valamint a közös döntést igénylő kérdések és problémák rendezése érdekében kormányközi vegyesbizottságot hoznak létre.
+
+*10. Cikk*
+
+Mindegyik Fél kijelöli a jelen Megállapodásban foglaltak végrehajtásáért felelős meghatalmazott szervet, és erről diplomáciai úton tájékoztatja a másik Felet.
+
+A jelen Megállapodás nem érinti a Feleknek azon egyéb nemzetközi szerződésekben vállalt jogait és kötelezettségeit, melynek a Felek részesei.
+
+*12. Cikk*
+
+1\. Jelen Megállapodás azon a napon lép hatályba, amikor a Felek kölcsönösen értesítik egymást, hogy eleget tettek a Megállapodás hatálybalépéséhez szükséges, a belső törvényhozásuk által előírt követelményeknek.
+
+2\. Jelen Megállapodás addig marad érvényben, amíg hat hónap el nem telik attól az időponttól kezdve, amikor az egyik Fél írásban értesíti a másik Felet a Megállapodás felmondásának szándékáról.
+
+Készült Moszkvában, 1995. március 6-án, két eredeti példányban, mindkettő magyar és orosz nyelven, mindkét szöveg azonos érvényű.
+
+A Magyar Köztársaság Kormánya megbízásából
+
+Az Oroszországi Föderáció Kormánya megbízásából
+
+*Kovács László* s. k. *Andrej Kozirjev* s. k.''
+
+## 3. §
+
+E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1996. július 4-től[^2] kell alkalmazni. Végrehajtásáról a honvédelmi miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1996. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: A Magyar Közlöny 1996. évi 64. számában megjelent helyesbítésnek megfelelő szöveg.

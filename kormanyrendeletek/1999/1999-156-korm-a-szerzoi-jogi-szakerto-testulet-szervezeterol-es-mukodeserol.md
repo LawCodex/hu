@@ -1,0 +1,184 @@
+---
+title: "156/1999. (XI. 3.) Korm. rendelet a Szerzői Jogi Szakértő Testület szervezetéről és működéséről"
+identifier: "156/1999. (XI. 3.) Korm. rendelet"
+njt_id: "1999-156-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/156"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-11-03
+in_force_from: 2008-05-16
+last_amended: 2025-01-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-156-20-22"
+retrieved: 2026-10-12
+---
+
+# 156/1999. (XI. 3.) Korm. rendelet a Szerzői Jogi Szakértő Testület szervezetéről és működéséről
+
+A Kormány a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 112. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
+
+## A Szakértő Testület feladatai
+
+### 1. §
+
+(1)[^1] A Szerzői Jogi Szakértő Testület (a továbbiakban: SZJSZT) az Szjt. 101. §-ának (1) és (3) bekezdésében megjelölt ügyekben szakértői véleményt ad bírósági vagy hatósági megkeresés, vagy megbízás alapján.
+
+(2)[^2] E rendelet alkalmazásában szerzői jogi jogvitás ügy az Szjt.-ben szabályozott szerzői, szomszédos és adatbázis-előállítói jogok érvényesítésével összefüggő bármely jogvita.
+
+(3)[^3] E rendelet alkalmazásában a szerzői jog gyakorlásával kapcsolatos kérdésnek számít az Szjt.-ben szabályozott jogok gyakorlásával kapcsolatos kérdés.
+
+## Az SZJSZT tagjai és tisztségviselői[^4]
+
+### 2. §
+
+(1)[^5] Az SZJSZT tagjainak kinevezésére a Szellemi Tulajdon Nemzeti Hivatalának (a továbbiakban: SZTNH) elnöke tesz javaslatot az igazságügyért felelős miniszternek. A javaslat összeállításához véleményt kér az érintett szakmai és érdekképviseleti szervezetektől, valamint a közös jogkezelő szervezetektől.
+
+(2)[^6] Az SZJSZT tagjának szerzői jogi szakértelemmel vagy az Szjt.-ben szabályozott alkotói, előadóművészi és egyéb tevékenységi területeken szakismerettel rendelkező személy jelölhető.
+
+(3)[^7] Az SZJSZT létszáma legfeljebb kétszáz fő lehet.
+
+(4)[^8] Az SZTNH elnöke – ha az az SZJSZT működőképességének megőrzéséhez szükséges – az Szjt. 101. §-ának (1) bekezdésében előírt ötéves időtartam lejártát megelőzően is javasolhatja újabb testületi tagok kinevezését. Az (1)–(3) bekezdés rendelkezéseit ilyen esetben is alkalmazni kell.
+
+### 3. §
+
+(1)[^9] Az SZJSZT elnökét és elnökségét az igazságügyért felelős miniszter – a kultúráért felelős miniszterrel egyetértésben – az SZTNH elnökének javaslatára nevezi ki az SZJSZT tagjai közül. Az elnök és az elnökség kinevezése ötéves időtartamra szól.
+
+(2)[^10] Az elnökség tizenöt tagból áll; az SZJSZT elnöke hivatalból tagja az elnökségnek.
+
+(3)[^11] Az SZJSZT titkárát az SZTNH elnöke bízza meg az SZJSZT elnökével egyetértésben.
+
+### 4. §
+
+(1)[^12] Az SZJSZT-t az elnök irányítja és képviseli. Távolléte vagy akadályoztatása esetén az elnökség általa kijelölt tagja helyettesíti. Az elnökség tagjai – az elnökségben végzett munkájukkal összefüggésben – nem részesülnek díjazásban. Az elnök díjazásban részesülhet, amelynek összegét az elnökség javaslatára az SZTNH elnöke állapítja meg.
+
+(2)[^13] Az SZJSZT-t az elnökön kívül az egyes ügyekben az eljáró tanács elnöke is képviselheti.
+
+(3)[^14] Az elnökség figyelemmel kíséri és értékeli az SZJSZT működését. Üléseit szükség szerint, de legalább évente egyszer az SZJSZT elnöke hívja össze.
+
+(4)[^15] A titkár feladata az SZJSZT ügyvitelének ellátása. Díjazását az SZJSZT elnökének javaslatára az SZTNH elnöke állapítja meg.
+
+## Az SZJSZT működése[^16]
+
+### 5. §
+
+(1)[^17] Az SZJSZT az elnökség által megállapított és az SZTNH elnöke által jóváhagyott ügyrend szerint működik.
+
+(2)[^18] Az SZJSZT-nek saját bevétele nincs; működésének feltételeiről és az ahhoz szükséges pénzügyi intézkedések megtételéről az SZTNH gondoskodik és köti meg az SZJSZT működéséhez szükséges szerződéseket.
+
+(3)[^19] Az SZJSZT elnöke – az elnökség jóváhagyásával és az SZTNH elnökével egyetértésben – évente beszámol az SZJSZT tevékenységéről az igazságügyért felelős miniszternek. A beszámolót tájékoztatásul a kultúráért felelős miniszternek is meg kell küldeni.
+
+(4)[^20] Az SZJSZT tagjainak névsorát, az ügyrendet és az éves beszámolót az SZTNH hivatalos lapjában kell közzétenni. A szakértői véleményt – ha annak közzétételét az eljáró tanács elnöke javasolja és az SZTNH elnöke azzal egyetért – az SZTNH által kiadott szakfolyóiratban kell közzétenni.
+
+(5)[^21] Az SZJSZT pecsétje Magyarország címere ,,Szerzői Jogi Szakértő Testület'' körirattal.
+
+## Az SZJSZT eljárása[^22]
+
+### 6. §
+
+(1)[^23] Az SZJSZT nevében a szakértői véleményt – a (2) bekezdésben foglalt kivétellel – az SZJSZT elnöke által az ügy természetének megfelelően kijelölt tagokból álló, három- vagy öttagú szakértői tanács (eljáró tanács) alakítja ki szótöbbséggel. Az ügy előadóját és – a jogi szakvizsgával vagy az állam- és jogtudomány területén tudományos fokozattal rendelkező testületi tagok közül – az eljáró tanács elnökét szintén az SZJSZT elnöke jelöli ki.
+
+(1a)[^24] Az SZJSZT nevében a szakértői véleményt a Szakértő Testület elnöke által, az ügy természetének megfelelően kijelölt szakértő (a továbbiakban egyesszakértő) is kialakíthatja. Egyesszakértő jelölhető ki különösen, ha az ügy megítélése egyszerű, és a kirendelésben vagy megbízásban feltett kérdések megválaszolásához a Szakértő Testület egyetlen tagja teljes körben megfelelő szakértelemmel rendelkezik. Az egyesszakértő eljárására az eljáró tanácsra vonatkozó szabályokat kell alkalmazni az (1) bekezdés kivételével.
+
+(2)[^25] Ha a szakértői vélemény kialakításához olyan különleges szakismeretre is szükség van, amellyel az SZJSZT tagjai nem rendelkeznek, tanácskozási joggal külső szakértő közreműködése is igénybe vehető.
+
+(3)[^26] Az SZJSZT véleményének kialakításában nem vehet részt olyan személy, akivel szemben a polgári perrendtartásról szóló 2016. évi CXXX. törvény 301. § (1) bekezdés a) pontjában meghatározott kizáró ok áll fenn. Az SZJSZT elnöke hivatalból biztosítja, hogy kizárt szakértő ne vegyen részt a szakértői vélemény kialakításában.
+
+### 7. §
+
+(1)[^27] Az SZJSZT-hez érkező bírósági vagy hatósági megkereséseket, illetve megbízásokat – a titkár által történő előkészítést követően – az SZJSZT elnöke fogadja el és igazolja vissza.
+
+(2)[^28] Bíróság vagy hatóság megkeresése esetén a szakértői vélemény elkészítéséért alapdíj, és ha az ügyben egynél több tanácsülés tartása szükséges, további ülésenként pótdíj számítható fel. E rendelet *melléklete* határozza meg az alapdíj és a pótdíj mértékét. A külső szakértő közreműködésének díja megegyezik az eljáró tanács előadó tagjának díjával.
+
+(3)[^29] A (2) bekezdés szerint meghatározott díjat az SZJSZT elnöke legfeljebb 50%-kal megemelheti, ha azt az ügy bonyolultsága indokolja.
+
+(4)[^30] Az SZJSZT-nek adott bírósági vagy hatósági megkeresés visszaigazolásában meg kell jelölni a díjnak az eset körülményeinek figyelembevételével meghatározott összegét, amelyet az SZJSZT nevében eljáró tanács által elkészített szakértői vélemény megküldése után kell megfizetni.
+
+(5)[^31] Az SZJSZT-nek adott megbízás visszaigazolásában meg kell jelölni a díjnak az eset körülményeinek figyelembevételével meghatározott összegét, amelynek megfizetését követően az SZJSZT nevében az eljáró tanács elkészíti a szakértői véleményt.
+
+(6)[^32] A díjak számlázásánál az általános forgalmi adóról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+
+### 8. §
+
+(1)[^33] Az SZJSZT nevében az eljáró tanács a feltett kérdések és a benyújtott iratok alapján alakítja ki a szakértői véleményt, a tények megállapítására nem végez külön bizonyítást, nem tart helyszíni szemlét és nem idézhető. Szükség esetén azonban további adatok szolgáltatását kérheti a megkereső bíróságtól vagy hatóságtól, illetve a megbízótól.
+
+(2)[^34] Az eljáró tanács zárt ülésen alakítja ki a szakértői véleményt. A szakértői véleménynek külön tartalmaznia kell a szerzői jog gyakorlásával kapcsolatos kérdésekben tett – kivonatolt – megállapításokat is. Az ülésről jegyzőkönyv készül, amelyet a jegyzőkönyvvezető és az eljáró tanács elnöke ír alá.
+
+(3)[^35] Az eljáró tanács elnökének felterjesztésére az SZJSZT írásba foglalt szakértői véleményét és a rendelkezésre bocsátott iratokat az SZJSZT elnöke megküldi a megkereső bíróságnak vagy hatóságnak, illetve a megbízónak.
+
+(4)[^36] Az eljáró tanács tagjai független szakértőként járnak el. A szakértői vélemény tartalmát illetően nem kérhetnek és nem fogadhatnak el utasításokat sem az SZJSZT elnökétől, elnökségétől, sem más személytől. Ha azonban az SZJSZT elnöke megállapítja, hogy az eljáró tanács nem válaszolt a megkereső bíróság vagy más hatóság, illetve a megbízó által feltett bármely olyan kérdésre, amelyre vonatkozóan a szakértői vélemény megadása az SZJSZT hatáskörébe tartozik, a szakértői vélemény kiegészítésére kérheti az eljáró tanácsot.
+
+### 9. §[^37]
+
+(1)[^38] A szakértői vélemény elkészítéséért az eljáró tanács tagjait, az egyesszakértőt és a 6. § (3) bekezdése szerint igénybe vett külső szakértőt díjazás illeti meg, amelyet a 7. § (2)–(4) bekezdései alapján befolyt díjból az SZTNH fizet ki az eljáró tanács tagjainak, az egyesszakértőnek, illetve a külső szakértőnek.
+
+(2)[^39] A befolyt díj felosztásának módját az SZJSZT ügyrendjében kell meghatározni.
+
+## Záró rendelkezések
+
+### 10. §
+
+(1)[^40] Ez a rendelet a kihirdetését követő 8. napon lép hatályba; rendelkezéseit azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek a hatálybalépést követően érkeznek az SZJSZT-hez.
+
+(2)–(3)[^41]
+
+## Melléklet a 156/1999. (XI. 3.) Korm. rendelethez[^42]
+
+1\. A szakértői vélemény alapdíja:
+
+1.1. egyesszakértő esetén 148 500 forint;
+
+1.2. háromtagú tanács esetén 243 000 forint;
+
+1.3. öttagú tanács esetén 384 500 forint.
+
+2\. A további ülések pótdíja:
+
+2.1. háromtagú tanács esetén 141 500 forint;
+
+2.2. öttagú tanács esetén 216 000 forint.
+
+---
+
+[^1]: Az 1. § (1) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 270/2002. (XII. 20.) Korm. rendelet 10. § (3) bekezdésének a) pontjával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése az 548/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az „Az SZJSZT tagjai és tisztségviselői” alcím címe az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 9. § (1) bekezdése, a 221/2014. (IX. 4.) Korm. rendelet 198. § a) pontja, az 587/2023. (XII. 20.) Korm. rendelet 1. § b)-c) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (4) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § d)-e) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 198. § b) pontja, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) és e)-f) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 9. § (3) bekezdése, az 587/2023. (XII. 20.) Korm. rendelet 1. § e) és g) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdése a 202/2005. (IX. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § f) és h) pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+[^14]: A 4. § (3) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § i) pontja szerint módosított szöveg.
+[^15]: A 4. § (4) bekezdésének második mondata a 202/2005. (IX. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § f) és i) pontja szerint módosított szöveg.
+[^16]: Az „Az SZJSZT működése” alcím címe az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 9. § (3) bekezdése, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) és f) pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdése a 202/2005. (IX. 28.) Korm. rendelet 2. §-ával megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § e)-f) és j) pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 198. § c) pontja, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) és e)-f) pontja szerint módosított szöveg.
+[^20]: Az 5. § (4) bekezdése az 548/2022. (XII. 22.) Korm. rendelet 2. §-ával megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) és k) pontja szerint módosított szöveg.
+[^21]: Az 5. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 198. § d) pontja, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^22]: Az „Az SZJSZT eljárása” alcím címe az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 6. § (1) bekezdése a 764/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) és i) pontja szerint módosított szöveg.
+[^24]: A 6. § (1a) bekezdését a 307/2011. (XII. 23.) Korm. rendelet 27. § (1) bekezdése iktatta be, szövege az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: A 6. § (2) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^26]: A 6. § (3) bekezdése a 764/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.
+[^27]: A 7. § (1) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § e) és m) pontja szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdésének harmadik mondatát a 202/2005. (IX. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be. E módosító rendelet 8. §-a alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek a Szerzői Jogi Szakértő Testülethez.
+[^29]: A 7. § (3) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^30]: A 7. § (4) bekezdése a 202/2005. (IX. 28.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § e) és j) pontja szerint módosított szöveg.
+[^31]: A 7. § (5) bekezdését a 202/2005. (IX. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 587/2023. (XII. 20.) Korm. rendelet 1. § e) és j) pontja szerint módosított szöveg.
+[^32]: A 7. § (6) bekezdését a 202/2005. (IX. 28.) Korm. rendelet 4. § (3) bekezdése iktatta be. E módosító rendelet 8. §-a alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek a Szerzői Jogi Szakértő Testülethez.
+[^33]: A 8. § (1) bekezdésének első mondata a 202/2005. (IX. 28.) Korm. rendelet 5. § (1) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^34]: A 8. § (2) bekezdése az 548/2022. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^35]: A 8. § (3) bekezdése a 202/2005. (IX. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § i) pontja szerint módosított szöveg.
+[^36]: A 8. § (4) bekezdését a 202/2005. (IX. 28.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege az 587/2023. (XII. 20.) Korm. rendelet 1. § i) pontja szerint módosított szöveg.
+[^37]: A 9. § a 202/2005. (IX. 28.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a rendelkezést azokra a megkeresésekre és megbízásokra kell alkalmazni, amelyek 2005. október 6. napját követően érkeznek a Szerzői Jogi Szakértő Testülethez.
+[^38]: A 9. § (1) bekezdése a 307/2011. (XII. 23.) Korm. rendelet 27. § (2) bekezdésével megállapított, az 587/2023. (XII. 20.) Korm. rendelet 1. § f) pontja szerint módosított szöveg.
+[^39]: A 9. § (2) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
+[^40]: A 10. § (1) bekezdése az 587/2023. (XII. 20.) Korm. rendelet 1. § n) pontja szerint módosított szöveg.
+[^41]: A 10. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1215. pontja hatályon kívül helyezte.
+[^42]: A Melléklet a 409/2024. (XII. 20.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,0 +1,397 @@
+---
+title: "162/1996. (XI. 12.) Korm. rendelet a Közép-Európai Szabadkereskedelmi Megállapodás 2. számú Kiegészítő Jegyzőkönyvének kihirdetéséről"
+identifier: "162/1996. (XI. 12.) Korm. rendelet"
+njt_id: "1996-162-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/162"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-11-12
+in_force_from: 1996-11-20
+last_amended: 1996-11-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-162-20-22"
+retrieved: 2026-10-12
+---
+
+# 162/1996. (XI. 12.) Korm. rendelet a Közép-Európai Szabadkereskedelmi Megállapodás 2. számú Kiegészítő Jegyzőkönyvének kihirdetéséről
+
+A Cseh Köztársaság, a Lengyel Köztársaság, a Magyar Köztársaság és a Szlovák Köztársaság közötti Közép-Európai Szabadkereskedelmi Megállapodás kihirdetéséről szóló 1995. évi XIII. törvény 3. §-ában kapott felhatalmazás alapján, a Kormány a következőket rendeli el:
+
+## 1. §
+
+A Kormány a Közép-Európai Szabadkereskedelmi Megállapodás 2. számú Kiegészítő Jegyzőkönyvét (a továbbiakban: 2. számú Kiegészítő Jegyzőkönyv), amely 1996. július 16-án hatályba lépett, e rendelettel kihirdeti.
+
+## 2. §
+
+A 2. számú Kiegészítő Jegyzőkönyv magyar nyelvű szövege a következő:
+
+,,2. sz. Kiegészítő Jegyzőkönyv\
+a Közép-Európai Szabadkereskedelmi Megállapodáshoz
+
+A Cseh Köztársaság, a Magyar Köztársaság, a Lengyel Köztársaság és a Szlovák Köztársaság képviselői,
+
+tekintettel a miniszterelnökök 1994. november 25-i Poznani Nyilatkozatára,
+
+ismételten megerősítve a kapcsolataik alapját képező piacgazdasági elvek iránti elkötelezettségüket,
+
+határozott meggyőződésük lévén, hogy a jelen Kiegészítő Jegyzőkönyv előmozdítja a kölcsönösen előnyös kereskedelmi kapcsolataik intenzifikálását, és hozzájárul az európai integráció folyamatához,
+
+a Közép-Európai Szabadkereskedelmi Megállapodás 34., 35., 37. és 39. Cikke rendelkezéseinek megfelelően
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+1\. A Közép-Európai Szabadkereskedelmi Megállapodás 1–3. sz. Jegyzőkönyvei, amelyeket az 1994. április 29-én Budapesten aláírt Kiegészítő Jegyzőkönyv szerint alkalmaztak, hatályukat vesztik, és helyükbe 1996. január 1-jétől a jelen Kiegészítő Jegyzőkönyv elválaszthatatlan részét képező 1–3. sz. új Jegyzőkönyvek lépnek.
+
+2\. A Közép-Európai Szabadkereskedelmi Megállapodás 1–3. sz. Jegyzőkönyvének mellékletei nem változnak.
+
+*2. Cikk*
+
+A jelen Kiegészítő Jegyzőkönyv a Közép-Európai Szabadkereskedelmi Megállapodás elválaszthatatlan részét képezi.
+
+*3. Cikk*
+
+1\. A jelen Kiegészítő Jegyzőkönyv azon a napon lép hatályba, amikor a Letéteményes kézhez kapja az utolsó értesítést a Közép-Európai Szabadkereskedelmi Megállapodás Szerződő Feleitől az e célból szükséges eljárások lefolytatásának befejezéséről.
+
+2\. A Letéteményes valamennyi Felet értesíti a jelen Kiegészítő Jegyzőkönyv hatálybalépéséhez szükséges eljárások lefolytatásának befejezéséről.
+
+3\. Ha a Felek 1995. december 31-ig nem kapnak értesítést a jelen Cikk 2. pontja szerint, akkor a jelen Kiegészítő Jegyzőkönyv 1996. január 1-jétől ideiglenesen alkalmazásra kerül.
+
+A fentiek hiteléül alulírott Meghatalmazottak a kellő felhatalmazás birtokában aláírták a jelen Kiegészítő Jegyzőkönyvet.
+
+Készült Varsóban, 1995. augusztus 18-án, egy angol nyelvű hiteles példányban, amelyet Lengyelország Kormánya helyez letétbe. A Letéteményes valamennyi Félhez eljuttatja a hitelesített másolatot.
+
+A Cseh Köztársaság részéről,\
+*Vladimir DLOUHY* s. k.
+
+A Magyar Köztársaság részéről,\
+*DUNAI Imre* s. k.
+
+A Lengyel Köztársaság részéről,\
+*Jacek BUCHACZ* s. k.
+
+A Szlovák Köztársaság részéről,\
+*Jan DUCKY* s. k.
+
+**1. sz. Jegyzőkönyv**
+
+(ld. a hivatkozást a 3. Cikk 2. bekezdésében)
+
+A vámok lebontásáról\
+egyrészt a Cseh Köztársaság és a Szlovák Köztársaság, másrészt a Magyar Köztársaság között
+
+1\. Azon termékeket, amelyek a Magyar Köztársaságból származnak, és amelyekre vonatkozóan a Cseh Köztársaságban és a Szlovák Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,A'' Melléklete tartalmazza.
+
+2\. Azon termékeket, amelyek a Magyar Köztársaságból származnak, és amelyekre vonatkozóan a Cseh Köztársaságban és a Szlovák Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,B'' és ,,C'' Melléklete tartalmazza.
+
+3\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Magyar Köztársaságból származó, és a jelen Jegyzőkönyv ,,D'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+4\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,E'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+5\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,F'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+6\. Azon termékeket, amelyek a Cseh Köztársaságból vagy a Szlovák Köztársaságból származnak, és amelyekre vonatkozóan a Magyar Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,G'' Melléklete tartalmazza.
+
+7\. Azokat a termékeket, amelyek a Cseh Köztársaságból vagy a Szlovák Köztársaságból származnak, és amelyekre vonatkozóan a Magyar Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,H'' és ,,J'' Melléklete tartalmazza.
+
+8\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Cseh Köztársaságból vagy a Szlovák Köztársaságból származó és a jelen Jegyzőkönyv ,,K'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+9\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Cseh Köztársaságból vagy a Szlovák Köztársaságból származó és a jelen Jegyzőkönyv ,,L'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+10\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Cseh Köztársaságból és a Szlovák Köztársaságból származó és a jelen Jegyzőkönyv ,,M'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+**2. sz. Jegyzőkönyv**
+
+(ld. a hivatkozást a 3. Cikk 2. bekezdésében)
+
+A vámok lebontásáról\
+egyrészt a Cseh Köztársaság és a Szlovák Köztársaság, másrészt a Lengyel Köztársaság között
+
+1\. Azon termékeket, amelyek a Lengyel Köztársaságból származnak, és amelyekre vonatkozóan a Cseh Köztársaságban és a Szlovák Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,A'' Melléklete tartalmazza.
+
+2\. Azon termékeket, amelyek a Lengyel Köztársaságból származnak, és amelyekre vonatkozóan a Cseh Köztársaságban és a Szlovák Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,B'' és ,,C'' Melléklete tartalmazza.
+
+3\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,D'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+4\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,E'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+5\. Azokat az importvámtételeket, amelyeket a Cseh Köztársaságban és a Szlovák Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,F'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – az alapvám 15%-ára,
+
+– 2001. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+6\. Azon termékeket, amelyek a Cseh Köztársaságból vagy a Szlovák Köztársaságból származnak, és amelyekre vonatkozóan a Lengyel Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,G'' Melléklete tartalmazza.
+
+7\. Azokat a termékeket, amelyek a Cseh Köztársaságból vagy a Szlovák Köztársaságból származnak, és amelyekre vonatkozóan a Lengyel Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,H'' és ,,J'' Melléklete tartalmazza.
+
+8\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Cseh Köztársaságból vagy a Szlovák Köztársaságból származó és a jelen Jegyzőkönyv ,,K'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+9\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Cseh Köztársaságból vagy a Szlovák Köztársaságból származó, és a jelen Jegyzőkönyv ,,L'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+10\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Cseh Köztársaságból és a Szlovák Köztársaságból származó és a jelen Jegyzőkönyv ,,M'' és ,,N'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 5/7-ére,
+
+– 1998. január 1-jén – az alapvám 4/7-ére,
+
+– 1999. január 1-jén – az alapvám 3/7-ére,
+
+– 2000. január 1-jén – az alapvám 2/7-ére,
+
+– 2001. január 1-jén – az alapvám 1/7-ére,
+
+– 2002. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+**3. sz. Jegyzőkönyv**
+
+(ld. a hivatkozást a 3. Cikk 2. bekezdésében)
+
+A vámok lebontásáról\
+egyrészt a Magyar Köztársaság, másrészt a Lengyel Köztársaság között
+
+1\. Azon termékeket, amelyek a Lengyel Köztársaságból származnak, és amelyekre vonatkozóan a Magyar Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,A'' Melléklete tartalmazza.
+
+2\. Azon termékeket, amelyek a Lengyel Köztársaságból származnak, és amelyekre vonatkozóan a Magyar Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,B'' és ,,C'' Melléklete tartalmazza.
+
+3\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,D'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+4\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,E'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+5\. Azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,F'' Mellékletében felsorolt termékekre alkalmaznak – az alábbiakban felsorolt kivételekkel – a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+A kivételek vámtarifaszámai:
+
+480252016
+
+480253
+
+480260
+
+480411
+
+480419
+
+480421
+
+480429
+
+480431
+
+480439
+
+480441
+
+480442
+
+480449
+
+480522
+
+480523
+
+480529
+
+480530
+
+480570994
+
+480580038
+
+480580995
+
+480810
+
+480820
+
+480830
+
+481011027
+
+481012011
+
+481012996
+
+481091
+
+481099
+
+481620
+
+481710
+
+481720
+
+481730
+
+481810
+
+481820
+
+481830
+
+481910
+
+481920
+
+481930
+
+481940
+
+481960
+
+482010
+
+482020
+
+482030
+
+482090
+
+870321
+
+870322
+
+870323
+
+870324
+
+870331
+
+870332
+
+870333
+
+870422
+
+870423
+
+870432
+
+870490
+
+870530
+
+871200022
+
+871200998
+
+A kivételek esetében azokat az importvámtételeket, amelyeket a Magyar Köztársaságban a Lengyel Köztársaságból származó termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – az alapvám 15%-ára,
+
+– 2001. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+6\. Mindaddig, amíg a Magyar Köztársaságban a Lengyel Köztársaságból származó és a jelen Jegyzőkönyv ,,G'' Mellékletében felsorolt termékekre alkalmazott importvámtételeket teljesen fel nem számolják, a Magyar Köztársaság a Megállapodás hatálybalépésétől kezdve minden évre vámmentes kvótákat nyit a vonatkozó Mellékletben meghatározott plafonokig.
+
+7\. Azon termékeket, amelyek a Magyar Köztársaságból származnak, és amelyekre vonatkozóan a Lengyel Köztársaságban erga omnes alapon nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,H'' Melléklete tartalmazza.
+
+8\. Azon termékeket, amelyek a Magyar Köztársaságból származnak, és amelyekre a Lengyel Köztársaságban nulla vámtételeket alkalmaznak, a jelen Jegyzőkönyv ,,J'' és ,,K'' Melléklete tartalmazza.
+
+9\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,L'' Mellékletében felsorolt termékekre alkalmaznak, 1996. január 1-jén eltörlik.
+
+10\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,M'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 50%-ára,
+
+– 1997. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+11\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,N'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 75%-ára,
+
+– 1997. január 1-jén – az alapvám 60%-ára,
+
+– 1998. január 1-jén – az alapvám 45%-ára,
+
+– 1999. január 1-jén – az alapvám 30%-ára,
+
+– 2000. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+12\. Azokat az importvámtételeket, amelyeket a Lengyel Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,O'' és ,,P'' Mellékletében felsorolt termékekre alkalmaznak, a következő menetrend szerint fokozatosan csökkenteni kell:
+
+– 1996. január 1-jén – az alapvám 5/7-ére,
+
+– 1998. január 1-jén – az alapvám 4/7-ére,
+
+– 1999. január 1-jén – az alapvám 3/7-ére,
+
+– 2000. január 1-jén – az alapvám 2/7-ére,
+
+– 2001. január 1-jén – az alapvám 1/7-ére,
+
+– 2002. január 1-jén – a fennmaradó vámokat megszüntetik.
+
+13\. Mindaddig, amíg a Lengyel Köztársaságban a Magyar Köztársaságból származó és a jelen Jegyzőkönyv ,,Q'' Mellékletében felsorolt termékekre alkalmazott importvámtételeket teljesen fel nem számolják, a Lengyel Köztársaság a Megállapodás hatálybalépésétől kezdve minden évre vámmentes kvótákat nyit a vonatkozó Mellékletben meghatározott plafonokig.''
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba.

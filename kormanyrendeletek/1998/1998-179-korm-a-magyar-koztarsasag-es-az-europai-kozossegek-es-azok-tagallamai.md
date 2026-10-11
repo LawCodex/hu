@@ -1,0 +1,146 @@
+---
+title: "179/1998. (XI. 6.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanácsnak a Magyar Köztársaságnak a közegészségügy és a szociálpolitika területein megvalósuló közösségi programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott 1/98. számú határozata kihirdetéséről"
+identifier: "179/1998. (XI. 6.) Korm. rendelet"
+njt_id: "1998-179-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/179"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-11-06
+in_force_from: 1998-11-01
+last_amended: 1998-11-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-179-20-22"
+retrieved: 2026-10-12
+---
+
+# 179/1998. (XI. 6.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanácsnak a Magyar Köztársaságnak a közegészségügy és a szociálpolitika területein megvalósuló közösségi programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott 1/98. számú határozata kihirdetéséről
+
+## 1. §
+
+A Kormány – a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 4. §-ának *c)* pontjában kapott felhatalmazás alapján – e rendelettel kihirdeti a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanács 1/98. számú, a Magyar Köztársaságnak a közegészségügy és a szociálpolitika területein megvalósuló közösségi programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozatát (a továbbiakban: határozat).
+
+## 2. §
+
+A határozat magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság és az Európai Közösségek\
+és azok tagállamai közötti Társulási Tanács\
+1/98. számú határozata
+
+a Magyar Köztársaságnak a közegészségügy\
+és a szociálpolitika területein megvalósuló közösségi programokban történő részvétele módozatainak\
+és feltételeinek elfogadásáról
+
+A Társulási Tanács
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodást,[^1]
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodás Kiegészítő Jegyzőkönyvét Magyarország közösségi programokban történő részvételéről, különösen annak 1. és 2. Cikkét,[^2]
+
+tekintettel arra, hogy az említett Kiegészítő Jegyzőkönyv 1. Cikkének megfelelően Magyarország részt vehet a közösségi keretprogramokban, egyedi programokban, projektumokban és más közösségi akciókban, nevezetesen a közegészségügy és a szociálpolitika területein,
+
+tekintettel az említett Kiegészítő Jegyzőkönyv 2. Cikkére, amelynek értelmében Magyarországnak az 1. Cikkben foglalt tevékenységekben való részvétele módozatait és feltételeit a Társulási Tanács határozza meg,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+Magyarország részt vesz az Európai Közösség Egészségmegőrzés, Rák elleni küzdelem, AIDS és egyéb fertőző betegségek megelőzése, Drogfüggőség megelőzése, valamint Férfiak és nők esélyegyenlősége programjaiban az I. és II. Mellékletben meghatározott módozatok és feltételek szerint, amelyek jelen határozat elválaszthatatlan részét képezik.
+
+*2. Cikk*
+
+Jelen határozat 2000. december 31-ig marad hatályban.
+
+*3. Cikk*
+
+Jelen határozat az elfogadását követő hónap első napján lép hatályba.
+
+*I. Melléklet*
+
+A Magyar Köztársaság részvételének módozatai\
+és feltételei az Egészségmegőrzés, a Rák elleni küzdelem, az AIDS és egyéb fertőző betegségek megelőzése, a Drogfüggőség megelőzése, valamint\
+a Férfiak és nők esélyegyenlősége programokban
+
+1\. Magyarország részt vesz az Egészségmegőrzés, a Rák elleni küzdelem, az AIDS és egyéb fertőző betegségek megelőzése, a Drogfüggőség megelőzése, valamint a Férfiak és nők esélyegyenlősége programok (a továbbiakban: programok) valamennyi akciójában, összhangban – amennyiben e határozat másként nem rendelkezik – az Európai Parlament és a Tanács által 1996. március 29-én elfogadott 645/96/EK számú, a közegészségügyi akció keretén belül az egészségmegőrzés, tájékoztatás, oktatás és képzés közösségi akcióprogramjára (1996–2000)[^3] vonatkozó határozattal; különösen annak 6(2) Cikkével; az Európai Parlament és a Tanács által 1996. március 29-én elfogadott 646/96/EK számú, a közegészségügyi akció keretén belül a rák elleni küzdelem akciótervére (1996–2000)[^4] vonatkozó határozattal, különösen annak 6(2) Cikkével; az Európai Parlament és a Tanács által 1996. március 29-én elfogadott 647/96/EK számú közegészségügyi akció keretén belül az AIDS és egyéb fertőző betegségek megelőzését célzó közösségi akcióprogramra (1996–2000)[^5] vonatkozó határozatával, különösen annak 6(2) Cikkével; illetve az Európai Parlament és a Tanács által 1996. december 16-án elfogadott 102/97/EK számú, a közegészségügyi akció keretén belül a drogfüggőség megelőzésének közösségi akcióprogramjára (1996–2000)[^6] vonatkozó határozatával, különösen annak 6(2) Cikkével; és a Tanács 1995. december 22-i, 95/593/EK számú, a férfiak és nők esélyegyenlőségét célzó középtávú közösségi akcióprogramra (1996–2000)[^7] vonatkozó határozatával, különösen annak 6(1) Cikkével, a határozatokban feltüntetett célokkal, feltételekkel, eljárásokkal és határidőkkel.
+
+2\. A jogosult magyar intézmények, szervezetek és természetes személyek pályázata benyújtásának, értékelésének és kiválasztásának szabályai és feltételei a lehetséges mértékig megegyeznek a Közösség tagállamaiban érvényes szabályokkal és feltételekkel.
+
+3\. A programok közösségi jellegének biztosítása érdekében a Magyarország által javasolt nemzetközi projektumok és tevékenységek megvalósításához minimális számú, a Közösség tagállamaiból érkező partner részvétele szükséges. E minimális szám a programok megvalósítása során kerül meghatározásra, figyelembe véve a különböző tevékenységek jellegét, az adott projektumokban részt vevő partnerek és a programokban részt vevő országok számát.
+
+4\. Magyarország minden évben hozzájárulást fizet az Európai Közösségek általános költségvetéséhez a programokban való részvételéből adódó költségek fedezésére (ld. II. Melléklet). A Társulási Bizottság jogosult a hozzájárulást szükség esetén módosítani.
+
+5\. A Közösség tagállamai és Magyarország – a hatályban lévő rendelkezések keretei között – mindent megtesznek Magyarország és a Közösség tagállamai között a határozat alá tartozó tevékenységben való részvétel céljából utazó jogosult személyek szabad mozgásának és tartózkodásának megkönnyítése érdekében.
+
+6\. Az Egészségmegőrzés, a Rák elleni küzdelem, az AIDS és egyéb fertőző betegségek megelőzése, a Drogfüggőség megelőzése, valamint a Férfiak és nők közötti esélyegyenlőség programokra vonatkozó határozatok (7., 7., 7., 7. illetve 11. Cikke) alapján – nem érintve a Bizottságnak és az Európai Közösség Számvevőszékének a programok felügyeletével és értékelésével kapcsolatos felelősségét – Magyarország részvételét a programokban Magyarország és az Európai Közösségek Bizottsága közösen, a partnerség alapján, folyamatosan figyelemmel kíséri. Ennek keretében Magyarország a Bizottság elé terjeszti a szükséges jelentéseket, és részt vesz a Közösség más, e célt szolgáló sajátos tevékenységeiben.
+
+7\. Nem érintve az Egészségmegőrzés programról szóló határozat 5. Cikkében, a Rák elleni küzdelem programról szóló határozat 5. Cikkében, az AIDS és egyéb fertőző betegségek programról szóló határozat 5. Cikkében, a Drogfüggőség megelőzése programról szóló határozat 5. Cikkében, valamint a Férfiak és nők esélyegyenlősége programról szóló határozat 9. Cikkében foglalt eljárásokat, Magyarország meghívást kap minden, a bizottságok rendes üléseit megelőző, a határozat végrehajtásával kapcsolatos kérdésekről folytatandó egyeztető ülésre. E rendes ülések eredményeiről a Bizottság tájékoztatja Magyarországot.
+
+8\. A pályázati eljárás, a szerződések, a beterjesztendő jelentések és a programokkal kapcsolatos egyéb adminisztratív rendelkezések vonatkozásában használt nyelv a Közösség valamelyik hivatalos nyelve.
+
+*II. Melléklet*
+
+A Magyar Köztársaság pénzügyi hozzájárulása\
+az Egészségmegőrzés, a Rák elleni küzdelem,\
+az AIDS és egyéb fertőző betegségek megelőzése,\
+a Drogfüggőség megelőzése, valamint a Férfiak és nők közötti esélyegyenlőség programokhoz
+
+1\. Magyarország pénzügyi hozzájárulása fedezi:
+
+– a programokból a magyar résztvevők számára nyújtott támogatásokat,
+
+– a Magyarország részvételéből eredő igazgatási jellegű többletköltségeket, amelyek a Bizottságnál a programok igazgatása során jelentkeznek.
+
+2\. A programokból a magyar kedvezményezettek számára nyújtott támogatások és valamennyi egyéb pénzügyi támogatás együttes összege az igazgatási többletköltségek elvonását követően, költségvetési évenként nem haladhatja meg a Magyarország által befizetett hozzájárulás mértékét.
+
+Amennyiben a Magyarország által az Európai Közösségek általános költségvetésébe befizetett hozzájárulás az igazgatási többletköltségek levonását követően meghaladja a magyar kedvezményezetteknek nyújtott támogatások és az egyéb pénzügyi támogatás együttes összegét, a Bizottság a különbséget a következő költségvetési időszakra átvezeti, majd levonja a következő évben esedékes hozzájárulásból. A programok zárómérlegében jelentkező maradványösszeget visszafizetik Magyarországnak.
+
+3\. Egészségmegőrzés
+
+1998-tól Magyarország éves hozzájárulása 96 621 ECU. Ebből az összegből 6321 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+4\. Rák elleni küzdelem
+
+1998-tól Magyarország éves hozzájárulása 167 476 ECU. Ebből az összegből 10 956 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+5\. AIDS és egyéb fertőző betegségek megelőzése
+
+1998-tól Magyarország éves hozzájárulása 128 828 ECU. Ebből az összegből 8429 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+6\. Drogfüggőség megelőzése
+
+1998-tól Magyarország éves hozzájárulása 64 414 ECU. Ebből az összegből 4214 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+7\. Férfiak és nők esélyegyenlősége
+
+1998-tól Magyarország éves hozzájárulása 109 170 ECU. Ebből az összegből 7 142 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során jelentkeznek.
+
+8\. Magyarország hozzájárulásának kezelésére a Közösség általános költségvetésére vonatkozó pénzügyi szabályok érvényesek.
+
+A Bizottság e határozat hatálybalépésekor és azt követően minden év elején felhívást intéz Magyarországhoz a jelen határozat szerint rá eső pénzügyi befizetés teljesítésére. A hozzájárulást ECU-ben kell meghatározni, és a Bizottság ECU-ben vezetett bankszámlájára kell átutalni.
+
+Magyarország az e határozat szerinti éves költségvetési hozzájárulását a befizetési felhívásnak megfelelően, de legkésőbb a felhívás megküldését követő három hónapon belül teljesíti. A hozzájárulás késedelmes teljesítése esetén a késedelem időpontjától kamatfizetési kötelezettség terheli Magyarországot, a még be nem fizetett összegre vonatkozólag. A kamat mértéke az Európai Pénzügyi Együttműködési Alap által ECU-ben végrehajtott műveletek esetén a késedelem hónapjában érvényes kamatláb 1,5%-ponttal emelt értéke.
+
+9\. Magyarország a 3., 4., 5., 6. és 7. bekezdésekben említett igazgatási többletköltségeket a nemzeti költségvetéséből fedezi.
+
+10\. Magyarország a programokban való részvételből fennmaradó költségek 50%-át a nemzeti költségvetéséből fedezi.
+
+A PHARE-programokra érvényes szabályos eljárásoknak megfelelően, a fennmaradó 50%-ot Magyarország éves PHARE forrása fedezi.''
+
+## 3. §
+
+Ez a rendelet 1998. november 1-jén lép hatályba. Végrehajtásáról az egészségügyi miniszter, a szociális és családügyi miniszter, valamint a PHARE-program koordinációjáért felelős tárca nélküli miniszter – a külügyminiszterrel egyetértésben – gondoskodik.
+
+Budapest, 1998. október 29.
+
+---
+
+[^1]: Lásd az 1994: I. törvényt.
+[^2]: Lásd a 13/1996. (I. 26.) Korm. rendeletet.
+[^3]: Európai Közösségek Hivatalos Lapja, 1996. 04. 16., L95. sz., 1. oldal.
+[^4]: Európai Közösségek Hivatalos Lapja, 1996. 04. 16., L95. sz., 9. oldal.
+[^5]: Európai Közösségek Hivatalos Lapja, 1996. 04. 16., L95. sz., 16. oldal.
+[^6]: Európai Közösségek Hivatalos Lapja, 1997. 01. 22., L19. sz., 25. oldal.
+[^7]: Európai Közösségek Hivatalos Lapja, 1995. 12. 30., L335. sz., 37. oldal.

@@ -1,0 +1,117 @@
+---
+title: "18/2008. (II. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Szlovák Köztársaság államterületén található földterületeknek az Ipoly határfolyón, Ipolytölgyes és Malé Kosihy települések térségében felépítésre kerülő hallépcső létesítése és üzemeltetése céljából történő ideiglenes igénybevételéről szóló, jegyzékváltás útján létrejött Megállapodás kihirdetéséről"
+identifier: "18/2008. (II. 1.) Korm. rendelet"
+njt_id: "2008-18-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/18"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-02-01
+in_force_from: 2008-02-02
+last_amended: 2008-02-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-18-20-22"
+retrieved: 2026-10-12
+---
+
+# 18/2008. (II. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Szlovák Köztársaság államterületén található földterületeknek az Ipoly határfolyón, Ipolytölgyes és Malé Kosihy települések térségében felépítésre kerülő hallépcső létesítése és üzemeltetése céljából történő ideiglenes igénybevételéről szóló, jegyzékváltás útján létrejött Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Szlovák Köztársaság államterületén található földterületeknek az Ipoly határfolyón, Ipolytölgyes és Malé Kosihy települések térségében felépítésre kerülő hallépcső létesítése és üzemeltetése céljából történő ideiglenes igénybevételéről szóló, jegyzékváltás útján létrejött Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+**„SZÓBELI JEGYZÉK**
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Szlovák Köztársaság Külügyminisztériumának és van szerencséje tájékoztatni, hogy az Ipolytölgyes magyar és a Malé Kosihy szlovák település térségében, a III.12/14 MO számú és a III.12/17 S számú határjel között, az Ipoly határfolyón, valamint annak közvetlen közelében szlovák és magyar államterületen a hallépcső létesítése és üzemeltetése érdekében a Magyar Köztársaság Kormánya készen áll megkötni a Szlovák Köztársaság Kormányával az alábbi szövegű Megállapodást:
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Szlovák Köztársaság államterületén található földterületeknek az Ipoly határfolyón, Ipolytölgyes és Malé Kosihy települések térségében felépítésre kerülő hallépcső létesítése és üzemeltetése céljából történő ideiglenes igénybevételéről
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban: „Szerződő Felek”)
+
+a Magyar Köztársaság és a Szlovák Köztársaság között a jószomszédi kapcsolatokról és a baráti együttműködésről szóló 1995. március 19-én, Párizsban aláírt Szerződésben foglaltak szellemében,
+
+az Ipoly folyó és vízgyűjtőjének az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról (EU Víz Keretirányelv) szellemében megvalósítandó környezet- és természetvédelme érdekében,
+
+kiindulva a Magyarország – Szlovákia – Ukrajna Szomszédsági Együttműködési Program 2004–2006-ból (INTERREG III/A),
+
+az Ipolytölgyes magyar és Malé Kosihy szlovák települések mellett található duzzasztómű térségében létesítendő hallépcső megépítése és üzemeltetése céljából,
+
+kiindulva a közös államhatárnak az Ipoly határfolyón elvégzett vízgazdálkodási intézkedésekkel összefüggésben szükségessé vált módosítása, valamint a leválasztott államterületek cseréje előkészítésének állásából,
+
+a Magyar Köztársaság és a Csehszlovák Köztársaság között az államhatár rendjének szabályozása tárgyában 1956. évi október hó 13. napján, Prágában aláírt Szerződés (a továbbiakban: Határszerződés) 14. és 19. cikkében foglalt rendelkezéseknek megfelelően
+
+az alábbiakban állapodnak meg:
+
+*1. cikk*
+
+(1) A Szerződő Felek tudomásul veszik, hogy az Ipolytölgyes magyar és a Malé Kosihy szlovák település térségében, a III.12/14 MO számú és a III.12/17 S számú határjel között, az Ipoly határfolyón, valamint annak közvetlen közelében szlovák és magyar államterületen hallépcső létesül, amelynek beruházója a magyar Közép-Duna-völgyi Környezetvédelmi és Vízügyi Igazgatóság (a továbbiakban: „a beruházó”).
+
+(2) A Szlovák Köztársaság Kormánya egyetért azzal, hogy a hallépcső részeként megvalósuló elkerülő csatorna és más járulékos műtárgyak megépítése és üzemeltetése céljából felhasználásra kerüljön a Szlovák Köztársaság érintett, 42 472 m<sup>2</sup> nagyságú államterülete. Az érintett Malé Kosihy közigazgatási területén belül elhelyezkedő 1893/1, 1902/1, 1936, 1937, 1938 hrsz.-ú ingatlanok a Szlovák Köztársaság tulajdonát képezik, kezelőjük a Szlovák Vízgazdálkodási Vállalat, Állami Vállalat – Banská Štiavnica.
+
+*2. cikk*
+
+(1) A Magyar Fél kötelezettséget vállal arra, hogy a beruházás megvalósulásához szükséges vízjogi és egyéb, még le nem folytatott engedélyeztetési eljárásokat mindkét Szerződő Fél jogszabályai szerint lefolytatja.
+
+(2) A Szlovák Fél kötelezettséget vállal arra, hogy a Szlovák Fél részéről szükséges vízjogi és egyéb, ezekkel összefüggő engedélyeztetési eljárásokat a belső jogszabályok szerint lefolytatja.
+
+(3) A Magyar Fél kötelezettséget vállal arra, hogy a magyar beruházó a jelen Megállapodás 1. cikkében megjelölt szlovák állami területet csak a jelen Megállapodásban foglalt építési és a befejezett létesítmény üzemeltetési céljaira fogja felhasználni.
+
+(4) A Magyar Fél kötelezettséget vállal arra, hogy a magyar beruházó fizetésképtelensége esetén a hallépcső létesítésével és üzemeltetésével összefüggésben okozott kárt a károsultaknak megtéríti.
+
+*3. cikk*
+
+A Szerződő Felek megállapodtak abban, hogy a hallépcső elkészült létesítményeit a jelen Megállapodás 4. cikkének (2) bekezdésében foglalt szerződés hatálybalépéséig az illetékes vízgazdálkodási szervek és szervezetek útján a hallépcső üzemeltetési szabályzatában foglaltak szerint közösen fogják üzemeltetni és használni.
+
+*4. cikk*
+
+(1) Tekintettel a Határszerződés 3. cikke (1) bekezdésének második mondatára, valamint a 3. cikke (5) bekezdésére, a Szerződő Felek abban állapodtak meg, hogy az építkezéssel érintett térségben az államhatár nem változik. Az államhatár vonala a hatályos határokmányoknak megfelelően az építkezés kezdete napjának állapota szerint változatlan marad egészen a (2) bekezdés szerinti, az államhatár előkészítés alatt lévő módosításának hatálybalépéséig, valamint az ezzel kapcsolatos leválasztott államterületek cseréjének végrehajtásáig.
+
+(2) A Szerződő Felek tudomásul vették, hogy az Ipoly folyó mederváltozása következtében az elvégzett vízgazdálkodási munkálatokkal kapcsolatosan a Megállapodás 1. cikkében megjelölt határszakaszon az államhatár módosítására kerül sor, amelynek előkészítésére az illetékes állami szervek felhatalmazást kaptak és amelyet külön nemzetközi szerződés rendezi majd.
+
+*5. cikk*
+
+(1) A beruházó, valamint a Magyar Köztársaság illetékes vízgazdálkodási szervei személyzetének tagjai az építési munkák elvégzése, valamint a hallépcső üzemeltetése céljából jogosultak a jelen Megállapodás 1. cikkében meghatározott építési terület térségében az államhatárt átlépni és ebbe a térségbe az építkezéshez szükséges építőanyagot és építőipari berendezéseket szállítani.
+
+(2) Az (1) bekezdésben megnevezett személyeknek az államhatár átlépésekor és a Szlovák Köztársaság területén való tartózkodáskor személyazonosságukat igazoló okmánnyal kell rendelkezniük.
+
+*6. cikk*
+
+A jelen Megállapodás értelmezésével vagy végrehajtásával összefüggő vitákat a Szerződő Felek közvetlen tárgyalások útján – a Magyar Köztársaság környezetvédelmi és vízügyi miniszterén és a Szlovák Köztársaság környezetvédelmi miniszterén keresztül rendezik. Amennyiben nem tudnak megállapodásra jutni, úgy a vitás kérdések eldöntését kormányaik elé terjesztik.
+
+*7. cikk*
+
+A jelen Megállapodást módosítani vagy kiegészíteni csak a két Szerződő Fél kölcsönös egyetértésével, írásos formában lehet.
+
+*8. cikk*
+
+A Szerződő Felek jelen Megállapodást határozott időre – a Magyar Köztársaság és a Szlovák Köztársaság közötti, az államhatár szóban forgó szakaszának módosítását, illetve a jelen Megállapodás 1. cikkében megjelölt térségben végrehajtandó területcserét tartalmazó szerződés hatálybalépéséig – legfeljebb azonban ezen Megállapodás hatálybalépésétől számított öt (5) évre kötik.
+
+A Magyar Köztársaság Külügyminisztériumának van szerencséje javasolni, hogy amennyiben a Szlovák Köztársaság Kormánya a fenti javaslattal egyetért, jelen szóbeli jegyzék és a válaszjegyzék képezze a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Szlovák Köztársaság államterületén található földterületeknek az Ipoly határfolyón, Ipolytölgyes és Malé Kosihy települések térségében felépítésre kerülő hallépcső létesítése és üzemeltetése céljából történő ideiglenes igénybevételéről szóló, jegyzékváltás útján létrejött Megállapodást, amely a válaszjegyzék kézhezvételének napján lép hatályba.
+
+A Magyar Köztársaság Külügyminisztériuma ezúton is megragadja az alkalmat, hogy a Szlovák Köztársaság Külügyminisztériumát őszinte nagyrabecsüléséről biztosítsa.”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 8. cikkében szereplő válaszjegyzék kézhezvételének napján lép hatályba.[^3]
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a környezetvédelmi és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 8. cikkében szereplő válaszjegyzék kézhezvételének napján lép hatályba. A 2/2009. (I. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. december 23.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a Megállapodás 8. cikkében szereplő válaszjegyzék kézhezvételének napján lép hatályba. A 2/2009. (I. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. december 23.
+[^3]: A 2/2009. (I. 9.) KüM határozat alapján a hatálybalépés időpontja 2008. december 23.
+[^4]: Lásd a 2/2009. (I. 9.) KüM határozatot.

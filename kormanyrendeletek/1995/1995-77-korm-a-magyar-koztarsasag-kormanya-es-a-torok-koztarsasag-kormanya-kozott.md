@@ -1,0 +1,61 @@
+---
+title: "77/1995. (VI. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a török állampolgárok átutazását megkönnyítő jegyzékváltással létrejött Megállapodás kihirdetéséről"
+identifier: "77/1995. (VI. 27.) Korm. rendelet"
+njt_id: "1995-77-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/77"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-06-27
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-77-20-22"
+retrieved: 2026-10-12
+---
+
+# 77/1995. (VI. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a török állampolgárok átutazását megkönnyítő jegyzékváltással létrejött Megállapodás kihirdetéséről
+
+## (A Megállapodás 1995. április 20. napján lépett hatályba.)
+
+### 1. §
+
+A Kormány a Török Köztársaság Kormányával a török állampolgárok átutazását megkönnyítő, 1995. április 5-én jegyzékváltással létrejött Megállapodást e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+**,,SZÓBELI JEGYZÉK**
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Török Köztársaság budapesti Nagykövetségének, és hivatkozással az európai országokban dolgozó török állampolgárok magyarországi átutazásával kapcsolatos korábbi tárgyalásokra, az 1992. március 25—26-i szakértői konzultációról készült munkaokmányban foglalt eljárást a külföldiek beutazásáról, magyarországi tartózkodásáról és bevándorlásáról szóló 1994. május 1-jén hatályba lépett 1993. évi LXXXVI. törvénnyel összhangban továbbfejlesztve, a török állampolgárok átutazása megkönnyítése érdekében van szerencséje az alábbiakat javasolni.
+
+1\. Azon érvényes magánútlevéllel rendelkező török állampolgárok számára, akik az Európai Unió valamely tagállama, továbbá a Norvég Királyság vagy Svájc illetékes hatósága által kiállított, a vízumkérelem benyújtásától számított legalább hat hónapig érvényes, huzamos tartózkodásra jogosító engedéllyel rendelkeznek, a Magyar Köztársaság e jegyzék 3. és 4. pont szerinti vízumkiadó hatóságai egyszerűsített eljárás alapján, a lehetséges legrövidebb idő alatt adnak ki átutazó vízumot. A Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a diplomata, szolgálati és speciális útlevelek vízummentességéről 1990. március 2-án jegyzékváltással létrejött, és az 1992. május 21-i jegyzékváltással módosított Megállapodás rendelkezéseit a jelen Megállapodás hatálya nem érinti.
+
+2\. Az 1. pontban meghatározott feltételekkel rendelkező török állampolgárok az átutazó vízumot a vízumkiadásra feljogosított határforgalmi-kirendeltségeken személyesen, a Magyar Köztársaság illetékes diplomáciai vagy konzuli képviseletein személyesen, illetve meghatalmazott útján, illetve postai úton, a be- és kiutazó lap kitöltésével, arcfénykép, érvényes útlevél és az előírt díj csatolásával kérelmezhetik.
+
+3\. Az 1. és 3. pontban meghatározott könnyítés kiterjed a kedvezményezett 16 éven aluli, török állampolgárságú, érvényes török útlevéllel nem rendelkező gyermekére, amennyiben azzal a szülőjével együtt utazik, akinek útlevelében szerepel, valamint az önálló, érvényes török útlevéllel rendelkező gyermekére, ha a vízumkérelemhez csatolja az illetékes idegenrendészeti hatóság igazolását arról, hogy a gyermek vagy szülője az 1. pont szerinti huzamos tartózkodási engedéllyel rendelkezik.
+
+4\. Az egyszerűsített eljárás alapján az átutazó vízum kiadására a Török Köztársaságban vagy a huzamos tartózkodási engedélyt kiállító hatóság államában működő magyar diplomáciai vagy konzuli képviseletek, továbbá a vízumkiadásra feljogosított határforgalmi-kirendeltségek jogosultak, figyelemmel az 5. pontban meghatározottakra.
+
+5\. Az 1. pontban meghatározottakkal összhangban, a magyar diplomáciai vagy konzuli képviseleten kiállított vízummal rendelkező török állampolgárok a nemzetközi utasforgalom számára megnyitott valamennyi határátkelőhelyen beléphetnek a Magyar Köztársaság területére, és ott átutazás céljából legfeljebb 48 órát tartózkodhatnak, egyéb esetekben a belépésre csak a vízumkiadásra feljogosított határforgalmi-kirendeltségnél működő közúti határátkelőn, illetőleg a Ferihegyi repülőtéren kerülhet sor.
+
+6\. Ez a Megállapodás nem zárja ki a nemkívánatos személyek beutazásának megtagadását.
+
+7\. Ez a Megállapodás nem mentesíti a török állampolgárokat azon kötelezettség alól, hogy a magyarországi tartózkodásuk ideje alatt a hatályos magyar jogszabályokat, különösen pedig a külföldiek beutazására, magyarországi tartózkodására és bevándorlására, továbbá munkavállalására és egyéb vagyon- és jövedelemszerzésére vonatkozó rendelkezéseket, valamint a vám-, adó- és devizajogszabályokat betartsák.
+
+8\. A Megállapodás rendelkezéseinek alkalmazását közrendi, közbiztonsági vagy közegészségügyi okból bármelyik Szerződő Fél átmeneti jelleggel felfüggesztheti. A felfüggesztésről és annak feloldásáról diplomáciai úton írásban, az intézkedés bevezetése előtt legkésőbb 3 nappal tájékoztatni kell a másik Szerződő Felet.
+
+9\. A jelen Megállapodást bármelyik Szerződő Fél felmondhatja a másik Szerződő Félhez 30 nappal korábban diplomáciai úton, írásban intézett értesítés útján.
+
+Amennyiben a fenti javaslatok a Török Köztársaság Kormánya számára elfogadhatóak, a Külügyminisztérium javasolja, hogy a jelen jegyzék és a Tisztelt Nagykövetség egyetértő tartalmú válaszjegyzéke Megállapodást képezzen a Magyar Köztársaság Kormánya és a Török Köztársaság Kormánya között a török állampolgárok utazása könnyítésével kapcsolatos egyes kérdések szabályozása tárgyában, mely a Török Köztársaság Kormánya egyetértését kifejező válaszjegyzék keltét követő 15. napon lép hatályba.''
+
+### 3. §
+
+(1) E rendelet a kihirdetését követő 15. napon lép hatályba. Rendelkezéseit 1995. április 20-tól kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter, valamint a külpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 51. pontja szerint módosított szöveg.

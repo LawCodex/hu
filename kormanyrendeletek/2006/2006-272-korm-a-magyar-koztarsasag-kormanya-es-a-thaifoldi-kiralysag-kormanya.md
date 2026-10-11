@@ -1,0 +1,287 @@
+---
+title: "272/2006. (XII. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és a Thaiföldi Királyság Kormánya között a gazdasági együttműködési megállapodás kihirdetéséről"
+identifier: "272/2006. (XII. 23.) Korm. rendelet"
+njt_id: "2006-272-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/272"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-12-23
+in_force_from: 2006-12-24
+last_amended: 2006-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-272-20-22"
+retrieved: 2026-10-12
+---
+
+# 272/2006. (XII. 23.) Korm. rendelet a Magyar Köztársaság Kormánya és a Thaiföldi Királyság Kormánya között a gazdasági együttműködési megállapodás kihirdetéséről
+
+## (A megállapodás 2004. június 9-én hatályba lépett.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Thaiföldi Királyság Kormánya közötti gazdasági együttműködési megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„
+
+Agreement\
+on economic co-operation between\
+the Government of the Republic of Hungary\
+and the Government of the Kingdom of Thailand
+
+The Government of the Republic of Hungary and the Government of the Kingdom of Thailand, hereinafter referred to as „the Contracting Parties”,
+
+desiring to enhance the long-standing relationship between their countries;
+
+wishing to continue and reinforce their existing traditional economic relations;
+
+intending to develop and intensify their economic, industrial, technical and technological co-operation on the basis of mutual benefit;
+
+being convinced that the deepening of the contractual framework establishes favourable conditions and suitable basis for further co-operation, within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations;
+
+have agreed as follows:
+
+*Article 1*
+
+The Contracting Parties shall promote, within the framework of their respective legislation in force, the expansion and diversification of mutually advantageous economic co-operation in all fields relevant to economic and social development.
+
+*Article 2*
+
+The Contracting Parties, considering the current state and perspectives of economic relations, agree to enhance co-operation, inter alia, in the following areas:
+
+*a)* Energy;
+
+*b)* Electronic and electro-technical industry;
+
+*c)* Electrical equipment and appliances;
+
+*d)* Transportation;
+
+*e)* Vehicle industry and auto components;
+
+*f)* Information and communication technology;
+
+*g)* Exploration, production, preparation, treatment and further processing as well as marketing of mineral raw materials and mining products;
+
+*h)* Water management, natural resources and environmental issues;
+
+*i)* Industrial machinery and machine tools;
+
+*j)* Fashion industry;
+
+*k)* Agriculture and food processing industry;
+
+*l)* Science and technology;
+
+*m)* Bio-technology;
+
+*n)* Chemical and petrochemical industry;
+
+*o)* Health care, medical technology, medical and pharmaceutical industry;
+
+*p)* Tourism;
+
+*q)* Education.
+
+*Article 3*
+
+The Contracting Parties shall endeavour to broaden and intensify their co-operation through appropriate means, such as:
+
+*a)* Promoting the links and strengthening the co-operation between the economic policy-makers, governmental institutions, professional organizations, business federations, chambers, regional and local entities, encouraging the exchange of economic information of mutual interest, as well as the visits of their representatives and other economic and technical delegations;
+
+*b)* Exchanging information on development priorities and facilitating the participation of business operators in development projects;
+
+*c)* Expediting the establishment of new contacts and broadening the existing ones between the business circles of the two countries, encouraging the visits, meetings and other interactions between individuals and enterprises;
+
+*d)* Exchanging business information, encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences;
+
+*e)* Promoting co-operation between their respective small and medium-sized enterprises in areas referred to in Article 2;
+
+*f)* Encouraging the co-operation in providing consulting, marketing, advisory and expert services in the areas of mutual interest;
+
+*g)* Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their co-operation respectively;
+
+*h)* Encouraging investment activities and the promotion of joint ventures, company representations and branch offices; and
+
+*i)* Promotion of inter-regional co-operation and co-operation on international level in issues of mutual interest.
+
+*Article 4*
+
+1\. A Joint Commission on Economic Co-operation, co-chaired by the high level representatives of the Ministries of Foreign Affairs of the Republic of Hungary and the Kingdom of Thailand, is hereby established by the Contracting Parties to accomplish the objectives of this Agreement.
+
+2\. The meetings of the Commission shall be convened by mutual consent upon request by each Contracting Party alternately in Hungary and Thailand.
+
+3\. The duties of the Joint Commission shall comprise, in particular, the followings:
+
+*a)* Discussion of the development of bilateral economic relations;
+
+*b)* Identifying new possibilities for the further development of future economic co-operation;
+
+*c)* Drawing up suggestions for the improvement of terms for the economic co-operation between enterprises of both countries; and
+
+*d)* Making recommendations for the implementation of this Agreement.
+
+4\. The Joint Commission may set up subcommittees or working groups and may invite representatives of relevant organisations and institutions as well as high ranking business representatives of the Contracting Parties.
+
+5\. For each Contracting Party the following Coordinating Agency shall coordinate and oversee the implementation of this Agreement:
+
+*a)* In case of the Republic of Hungary, the Coordinating Agency shall be represented by the Ministry of Foreign Affairs; and
+
+*b)* In case of the Kingdom of Thailand, the Coordinating Agency shall be represented by the Ministry of Foreign Affairs.
+
+*Article 5*
+
+Nothing in this Agreement shall prejudice or affect the rights and obligations of either Contracting Party under international agreements to which either of them is member or party.
+
+In the case of Hungary this Agreement may not be interpreted in such a way as to invalidate or otherwise affect the obligations arising from her membership in the European Union.
+
+*Article 6*
+
+This Agreement shall enter into force on the date of signature, and shall remain in force for a period of three years, thereafter it shall be extended for successive one year periods unless either Contracting Party notifies the other, in writing, of its intention to terminate it three months prior to its expiry.
+
+This Agreement may be amended at any time by written agreement of the Contracting Parties.
+
+The amendment or termination of this Agreement shall not affect the validity of arrangements and contracts already concluded under this Agreement.
+
+Done and signed in Budapest, on 9<sup>th</sup> of June 2004, in two originals in the English language.
+
+For the Government\
+of the Republic of Hungary
+
+For the Government\
+of the Kingdom of Thailand
+
+Gazdasági együttműködési megállapodás\
+a Magyar Köztársaság Kormánya és a Thaiföldi Királyság Kormánya között
+
+A Magyar Köztársaság Kormánya és a Thaiföldi Királyság Kormánya (a továbbiakban: a Szerződő Felek),
+
+attól az óhajtól vezérelve, hogy elmélyítsék az országaik között fennálló kapcsolatokat,
+
+kifejezve törekvésüket, hogy fenntartsák és erősítsék tradicionális gazdasági kapcsolataikat,
+
+azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék és intenzívebbé tegyék gazdasági, ipari, műszaki és technológiai együttműködésüket,
+
+azzal a meggyőződéssel, hogy a szerződéses keretek bővítése a további együttműködéshez megfelelő feltételeket és kedvező alapot teremt, a két országban hatályban lévő törvények keretei között és nemzetközi kötelezettségeikkel teljes összhangban,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+A Szerződő Felek hatályban levő törvényeik keretein belül a gazdasági és társadalmi fejlődés minden fontos területén elősegítik a kölcsönösen előnyös gazdasági együttműködés bővítését és diverzifikálását.
+
+*2. Cikk*
+
+Figyelembe véve a gazdasági kapcsolatok jelenlegi helyzetét és perspektíváit a Szerződő Felek egyetértenek abban, hogy az együttműködéshez kedvezőek a feltételek többek között a következő területeken:
+
+*a)* energia szektor,
+
+*b)* elektronikai és villamos-gépészeti ipar,
+
+*c)* elektromos berendezések és készülékek,
+
+*d)* közlekedés,
+
+*e)* jármű- és autóalkatrész-ipar,
+
+*f)* információs és kommunikációs technológia,
+
+*g)* ásványi nyersanyagok és bányászati termékek kutatása, kitermelése, kezelése, további feldolgozása, valamint értékesítése,
+
+*h)* vízgazdálkodás, természeti erőforrások és környezetvédelmi kérdések,
+
+*i)* ipari berendezések és szerszámgépek,
+
+*j)* divatáru ipar,
+
+*k)* mezőgazdasági és élelmiszer-feldolgozó ipar,
+
+*l)* műszaki és tudományos kérdések,
+
+*m)* biotechnológia,
+
+*n)* vegyipar és kőolaj-feldolgozás,
+
+*o)* egészségügy, gyógyászati technológia, gyógyászati berendezések és gyógyszeripar,
+
+*p)* idegenforgalom,
+
+*q)* oktatás.
+
+*3. Cikk*
+
+A Szerződő Felek törekednek arra, hogy megfelelő, az alább felsorolt eszközökkel szélesítsék és tegyék intenzívebbé együttműködésüket:
+
+*a)* elősegítik a kapcsolatok építését és erősítik az együttműködést a gazdasági döntéshozók, kormányzati intézmények, szakmai és üzleti szövetségek, kamarák, regionális és helyi szervek között, bátorítják a kölcsönös érdeklődésre számot tartó gazdasági információk cseréjét, valamint saját képviselőik és más gazdasági-műszaki delegációk látogatásait,
+
+*b)* információkat cserélnek a fejlesztési prioritásokról és megkönnyítik az üzleti szereplők részvételét a fejlesztési projektekben,
+
+*c)* szorgalmazzák a két ország üzleti körei közötti új kapcsolatok létesítését és a meglévők szélesítését, elősegítik az egyének és vállalkozások között a látogatásokat, összejöveteleket,
+
+*d)* üzleti információkat cserélnek, bátorítják a vásárokon és kiállításokon történő részvételt, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezését,
+
+*e)* elősegítik a két ország kis- és középvállalkozásai közti kooperációt a 2. cikkben felsorolt területeken,
+
+*f)* konzultációs, marketing, tanácsadói és szakértői szolgáltatások nyújtásával bátorítják az együttműködést a kölcsönös érdeklődésre számot tartó területeken,
+
+*g)* arra bátorítják pénzügyi szervezeteiket és bankszektorukat, hogy szorosabb kapcsolatokat létesítsenek és erősítsék együttműködésüket,
+
+*h)* bátorítják a beruházási tevékenységet, vegyes vállalatok alapítását, vállalati képviseletek és fiókirodák létesítését,
+
+*i)* elősegítik a régiók közötti együttműködést és a nemzetközi szintű együttműködést a kölcsönös érdeklődésre számot tartó kérdésekben.
+
+*4. Cikk*
+
+1\. A Szerződő Felek a jelen Megállapodás megkötésével egy Vegyes Bizottságot hoznak létre, melynek élén társelnökként a Magyar Köztársaság és a Thaiföldi Királyság Külügyminisztériumának egy-egy magas rangú képviselője áll. A Vegyes Bizottság feladata a jelen Megállapodás célkitűzéseinek megvalósítása.
+
+2\. A Vegyes Bizottság ülése közös megegyezéssel kerül összehívásra a Szerződő Felek bármelyikének kérésére, felváltva Magyarországon és Thaiföldön.
+
+3\. A Vegyes Bizottság feladatai különösen az alábbiakat foglalják magukban:
+
+*a)* a kétoldalú gazdasági kapcsolatok fejlesztésének megvitatása,
+
+*b)* új lehetőségek feltárása a jövőbeli gazdasági együttműködés további fejlesztéséhez,
+
+*c)* javaslatok kidolgozása a gazdasági együttműködés feltételeinek javítására a két ország vállalatai között,
+
+*d)* javaslatok tétele a jelen Megállapodás alkalmazására.
+
+4\. A Vegyes Bizottság létrehozhat albizottságokat vagy munkabizottságokat és üléseire meghívhatja az érintett szervezetek és intézmények képviselőit, valamint a Szerződő Felek magas rangú üzleti képviselőit.
+
+5\. Mindkét Szerződő Fél oldalán Koordinációs Szervezet ellenőrzi és koordinálja a jelen Megállapodás végrehajtását az alábbiak szerint:
+
+*a)* A Magyar Köztársaság esetében a Koordinációs Szervezet feladatát a Külügyminisztérium látja el.
+
+*b)* A Thaiföldi Királyság esetében a Koordinációs Szervezet feladatát a Külügyminisztérium látja el.
+
+*5. Cikk*
+
+A jelen Megállapodás egyetlen pontja sem sértheti, vagy befolyásolhatja bármelyik Szerződő Fél azon jogait és kötelezettségeit, melyeket olyan nemzetközi megállapodások keletkeztetnek, melyeknek bármelyikük tagja vagy szerződő fele.
+
+Magyarország esetében a jelen Megállapodás nem értelmezhető úgy, hogy érvényteleníti vagy másképpen befolyásolja az Európai Uniós tagságából származó kötelezettségeket.
+
+*6. Cikk*
+
+A jelen Megállapodás az aláírás napján lép hatályba és hároméves időszakra marad érvényben, ezután egy-egy további évvel folyamatosan meghosszabbodik a hatálya mindaddig, amíg az egyik Szerződő Fél a megszüntetésére irányuló szándékáról három hónappal a lejárat előtt a másik Szerződő Felet írásban nem értesíti.
+
+Jelen Megállapodás bármikor módosítható a Szerződő Felek írásos egyetértése alapján.
+
+A jelen Megállapodás módosítása vagy megszüntetése nem befolyásolja azon egyezmények és szerződések érvényességét, amelyek korábban jelen Megállapodás hatálya alatt jöttek létre.
+
+Készült és aláírásra került Budapesten, 2004. június 9-én, két eredeti példányban, angol nyelven.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Thaiföldi Királyság\
+Kormánya részéről”
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.

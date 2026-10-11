@@ -1,0 +1,115 @@
+---
+title: "50/1999. (III. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és a Panamai Köztársaság Kormánya között a magánútlevelekre vonatkozó vízumkötelezettség kölcsönös megszüntetéséről szóló Megállapodás, valamint a két ország diplomata, konzuli, hivatalos, speciális és szolgálati útlevéllel rendelkező állampolgáraira vonatkozó vízumkötelezettség megszüntetéséről szóló Megállapodás kihirdetéséről"
+identifier: "50/1999. (III. 31.) Korm. rendelet"
+njt_id: "1999-50-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/50"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-03-31
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-50-20-22"
+retrieved: 2026-10-12
+---
+
+# 50/1999. (III. 31.) Korm. rendelet a Magyar Köztársaság Kormánya és a Panamai Köztársaság Kormánya között a magánútlevelekre vonatkozó vízumkötelezettség kölcsönös megszüntetéséről szóló Megállapodás, valamint a két ország diplomata, konzuli, hivatalos, speciális és szolgálati útlevéllel rendelkező állampolgáraira vonatkozó vízumkötelezettség megszüntetéséről szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Panamai Köztársaság Kormánya között a magánútlevelekre vonatkozó vízumkötelezettség kölcsönös megszüntetéséről szóló, 1998. év november hó 30. napján, levélváltás útján létrejött Megállapodást, valamint a két ország diplomata, konzuli, hivatalos, speciális és szolgálati útlevéllel rendelkező állampolgáraira vonatkozó vízumkötelezettség megszüntetéséről szóló, 1993. év január hó 22. napján, levélváltás útján létrejött Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magánútlevelekre vonatkozó vízumkötelezettség kölcsönös megszüntetéséről szóló levélváltás magyar nyelvű szövege a következő:
+
+,,
+
+Nagykövet Úr!
+
+Van szerencsém tudomására hozni, hogy a Magyar Köztársaság Kormánya – attól a szándéktól vezérelve, hogy megkönnyítse a Magyar Köztársaság és a Panamai Köztársaság közötti utazásokat – javaslatot tesz a Panamai Köztársaság Kormányának egy, a magánútlevelekre vonatkozó vízumkényszer eltörléséről szóló Megállapodás létrehozására az alábbi feltételek mellett:
+
+1\. Az érvényes magánútlevéllel rendelkező magyar és panamai állampolgárok vízum nélkül léphetnek be a másik Szerződő Fél országának területére és ott legfeljebb 90 napig tartózkodhatnak, valamint kiléphetnek onnan.
+
+2\. A magyar és a panamai állampolgárok a másik ország államhatárát a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken léphetik át.
+
+3\. Jelen Megállapodás nem mentesíti a két Szerződő Fél állampolgárait az alól a kötelezettség alól, hogy betartsák a Magyar Köztársaságban, illetve a Panamai Köztársaságban a külföldiek beutazására, kiutazására és tartózkodására vonatkozó hatályos jogszabályokat.
+
+4\. Azok a magyar állampolgárok, akik a Panamai Köztársaságba, illetve azok a panamai állampolgárok, akik a Magyar Köztársaságba érvényes magánútlevéllel vízummentesen beutaznak, ott nem folytathatnak jövedelemszerző tevékenységet, illetve nem vállalhatnak munkát.
+
+Azok a magyar és panamai állampolgárok, akik munkát kívánnak vállalni, vagy jövedelemszerző tevékenységet kívánnak folytatni a másik Szerződő Fél államában, az utazás megkezdése előtt be kell szerezniük az illetékes diplomáciai vagy konzuli képviselettől a fenti tevékenység ellátásához szükséges vízumot.
+
+5\. A Szerződő Felek fenntartják maguknak a jogot, hogy megtagadják a belépést az államuk területére az általuk nem kívánatosnak tartott személyektől.
+
+6\. A Szerződő Felek bármelyike – közrendi, közbiztonsági vagy közegészségügyi okból – részben vagy egészben időlegesen felfüggesztheti a jelen Megállapodás alkalmazását. A felfüggesztésről, illetve annak megszüntetéséről diplomáciai úton, haladéktalanul, de legfeljebb három napon belül értesíteni kell a másik Szerződő Felet.
+
+7\. A Szerződő Felek illetékes szervei diplomáciai úton kölcsönösen egymás rendelkezésére bocsátják a Szerződő Felek úti okmányainak mintapéldányait. Új magánútlevél kiadását vagy az érvényes magánútlevél módosítását legkevesebb harminc nappal a bevezetés előtt közölni kell a másik Szerződő Féllel, és át kell adni azok mintapéldányait.
+
+8\. Jelen Megállapodást bármelyik Szerződő Fél felmondhatja, amit harminc nappal előbb, diplomáciai úton, írásban kell a másik Szerződő Fél tudomására hozni.
+
+9\. Jelen Megállapodás nem érinti a Szerződő Felek Kormányai között Panamavárosban, 1993. január 22-én létrejött, a diplomata és szolgálati útlevelekre vonatkozó vízumkényszer eltörléséről szóló Megállapodás hatályát.
+
+Abban az esetben, ha a Panamai Köztársaság Kormánya kész elfogadni a fentiekben írt javaslatot, úgy jelen levél és a Panamai Köztársaság Kormányának egyetértését kifejező válaszlevele Kormányaink között Megállapodást képez, amely a levélváltást követő harmincadik napon lép hatályba.
+
+Kérem Excellenciás Uram, fogadja legőszintébb tiszteletemet!''
+
+A Panamai Fél 1998. év november hó 30. napján megküldött visszaigazolásának szövege megegyezik a Magyar Fél kezdeményező levelének szövegével.
+
+## 3. §
+
+A két ország diplomata, konzuli, hivatalos, speciális és szolgálati útlevéllel rendelkező állampolgáraira vonatkozó vízumkötelezettség megszüntetéséről szóló levélváltás magyar nyelvű szövege a következő:
+
+,,
+
+Excellenciás Uram!
+
+Van szerencsém tájékoztatni Őexcellenciáját arról, hogy a Magyar Köztársaság Kormánya javasolja a Panamai Köztársaság Nagyrabecsült Kormányának Megállapodás kötését a két ország diplomata, konzuli, hivatalos, speciális és szolgálati útlevéllel rendelkező állampolgáraira vonatkozó vízumkötelezettség megszüntetéséről az alábbi feltételekkel:
+
+*1. Cikk*
+
+Az egyik Szerződő Félnek a másik Szerződő Fél országában működő diplomáciai vagy konzuli képviselete diplomata, konzuli, hivatalos és szolgálati útlevéllel rendelkező tagjai ez utóbbi területére küldetésük ideje alatt vízum nélkül utazhatnak be, és ott lejárati dátumhoz kötött engedély nélkül tartózkodhatnak. Ugyanilyen jogokat élveznek az ilyen személyekkel közös háztartásban élő családtagok, amennyiben ez utóbbiak is diplomata, konzuli, hivatalos vagy szolgálati útlevéllel rendelkeznek.
+
+*2. Cikk*
+
+Az egyik Szerződő Félnek diplomata, konzuli, hivatalos és szolgálati útlevéllel rendelkező állampolgárai, akik nincsenek akkreditálva a másik Szerződő Fél országában, vízum nélkül léphetnek be a másik Szerződő Fél területére átutazás céljából, mely tartózkodás az illetékes nagykövetség kérése alapján szükség szerint meghosszabbítható.
+
+*3. Cikk*
+
+A jelen Megállapodás könnyítései nem mentesítik a Megállapodás kedvezményezettjeit az alól a kötelezettség alól, hogy betartsák mindkét országnak a külföldiek belépésére, tartózkodására és kiutazására vonatkozó törvényeit és rendelkezéseit.
+
+*4. Cikk*
+
+A Szerződő Felek bármelyike felfüggesztheti ideiglenes jelleggel, súlyos oknál fogva, egészben vagy részben a Megállapodás alkalmazását. A felfüggesztésről, illetve annak feloldásairól a másik Szerződő Felet diplomáciai úton haladéktalanul értesíteni kell.
+
+*5. Cikk*
+
+A Megállapodást bármelyik Szerződő Fél felmondhatja írásban tett közlés útján: ez esetben a felmondás a közlés dátumát követő 90 (kilencven) nappal lép hatályba.
+
+Abban az esetben, ha a Panamai Köztársaság Kormánya egyetért a fentiekben leírt javaslatokkal, a jelen Jegyzék és Őexcellenciájának válaszjegyzéke a Kormányaink közötti Megállapodást fog alkotni, amely jegyzékváltás napjától számított 30 (harminc) napot követően lép hatályba.
+
+Felhasználom az alkalmat, hogy legnagyobb nagyrabecsülésemről biztosítsam Őexcellenciáját.''
+
+A Panamai Fél által, 1993. év január hó 22. napján küldött spanyol nyelvű levél magyar nyelvű fordítása a következő:
+
+,,
+
+Államtitkár-helyettes Úr!
+
+Van szerencsém hivatkozni a mai napon kelt levelére, amelyben vízummentességi megállapodást javasol a Magyar Köztársaság és a Panamai Köztársaság Kormányai által kiadott diplomata, konzuli, hivatalos, különleges és szolgálati útlevelekre az alábbiak szerint:
+
+(A visszaigazolás szövege megegyezik a Magyar Fél kezdeményező levelének szövegével.)
+
+Ezzel kapcsolatban van szerencsém közölni, hogy a Panamai Köztársaság Kormánya egyetért a fenti levél tartalmával, hogy Excellenciád levele és ez a levél Kormányaink között megállapodást képez, amely jelen levél keltének napjától számított 30. napon lép hatályba.
+
+Megragadom az alkalmat, hogy Excellenciádnak ismételten a legnagyobb tiszteletemet fejezzem ki.''
+
+## 4. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, a 2. § rendelkezéseit azonban 1998. év december hó 30. napjától, a 3. § rendelkezéseit pedig 1993. év február hó 22. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 4. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 105. pontja szerint módosított szöveg.

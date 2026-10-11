@@ -1,0 +1,148 @@
+---
+title: "147/1997. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Prágában, 1996. november 11. napján aláírt Megállapodás kihirdetéséről"
+identifier: "147/1997. (IX. 10.) Korm. rendelet"
+njt_id: "1997-147-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/147"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-09-10
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-147-20-22"
+retrieved: 2026-10-12
+---
+
+# 147/1997. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Prágában, 1996. november 11. napján aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1997. február 19-én megtörtént.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, Prágában, 1996. november 11. napján aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+„**,,Megállapodás**\
+**a Magyar Köztársaság Kormánya**\
+**és a Cseh Köztársaság Kormánya között**\
+**a vízumkötelezettség kölcsönös megszüntetéséről**
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya (a továbbiakban: Szerződő Felek) attól az óhajtól vezérelve, hogy megkönnyítsék a két állam polgárainak kölcsönös utazását és ily módon is segítsék a két állam közötti kapcsolatok fejlesztését, az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+Az egyik Szerződő Fél államának polgárai, akik ezen Megállapodás *mellékletében* felsorolt érvényes úti okmánnyal rendelkeznek, olyan tartózkodás céljából, amely nem munkavállalással vagy egyéb jövedelemszerző tevékenységgel függ össze, vízum nélkül utazhatnak be a másik Szerződő Fél állama területére és ott legfeljebb 90 napig tartózkodhatnak.
+
+*2. Cikk*
+
+Az egyik Szerződő Fél államának polgárai, akik a másik Szerződő Fél állama területére munkavállalás vagy egyéb jövedelemszerző tevékenység céljából kívánnak utazni, vagy 90 napnál hosszabb ideig akarnak ott-tartózkodni, ezen állam vízumával kell rendelkezniük.
+
+*3. Cikk*
+
+1\. A Cseh Köztársaság állampolgárai, akik a másik Szerződő Fél állama területén elveszítik az érvényes úti okmányukat, a tartózkodási állam területéről az illetékes diplomáciai vagy konzuli képviselet által kiállított új érvényes úti okmánnyal utazhatnak ki, mely tartalmazni fogja a tartózkodási állam illetékes hatóságának kiutazási engedélyét.
+
+2\. A Magyar Köztársaság állampolgárai, akik a másik Szerződő Fél állama területén elveszítik az érvényes úti okmányukat, a tartózkodási állam területéről az illetékes diplomáciai, vagy konzuli képviselet által kiállított új érvényes úti okmánnyal utazhatnak ki, mely tartalmazni fogja a tartózkodási állam illetékes hatóságának vízumát.
+
+*4. Cikk*
+
+1\. Mindkét Szerződő Fél államának polgárai, akik érvényes diplomata vagy szolgálati útlevéllel rendelkeznek és a másik Szerződő Fél állama területén működő diplomáciai vagy konzuli képviselet tagjai, a szolgálatuk időtartama alatt vízum nélkül tartózkodhatnak a másik Szerződő Fél állama területén.
+
+2\. Azonos jogosultság illeti meg az (1) bekezdésben meghatározott személyekkel közös háztartásban élő családtagokat is, amennyiben ők is érvényes diplomata vagy szolgálati útlevéllel rendelkeznek.
+
+*5. Cikk*
+
+Az egyik Szerződő Fél államának polgárai a másik Szerződő Fél államhatárát csak a nemzetközi forgalomra kijelölt határátkelőhelyeken léphetik át.
+
+*6. Cikk*
+
+Az egyik Szerződő Fél államának polgárai a másik Szerződő Fél állama területén történő tartózkodás során kötelesek annak jogszabályait betartani.
+
+*7. Cikk*
+
+A Szerződő Felek diplomáciai úton, haladéktalanul, kölcsönösen tájékoztatják egymást a beutazásra, a tartózkodásra és a kiutazásra vonatkozó jogszabályaik megváltoztatásáról.
+
+*8. Cikk*
+
+1\. Mindkét Szerződő Fél fenntartja magának a jogot, hogy megtagadja a nemkívánatos személyek saját állama területére való belépését vagy ott-tartózkodását.
+
+2\. A Szerződő Felek kötelezik magukat arra, hogy akadályok nélkül átveszik államuk területére a saját állampolgáraikat.
+
+*9. Cikk*
+
+Mindkét Szerződő Fél fenntartja magának a jogot, hogy megtagadja a másik Szerződő Fél állama olyan állampolgárainak beléptetését vagy tartózkodását, akik veszélyeztetnék az államuk biztonságát vagy közrendjét, vagy akik nem rendelkeznek megfelelő eszközökkel a saját tartózkodásuk biztosítása céljából.
+
+*10. Cikk*
+
+1\. Bármelyik Szerződő Fél ideiglenesen, egészében vagy részben felfüggesztheti ezen Megállapodás alkalmazását biztonsági, közrendi, közegészségügyi okból, a 8. Cikk 2. bekezdésében foglaltak kivételével.
+
+2\. Mindkét Szerződő Fél ezen intézkedések bevezetéséről, valamint megszüntetéséről diplomáciai úton, haladéktalanul értesíti a másik Szerződő Felet.
+
+*11. Cikk*
+
+1\. A Szerződő Felek a Megállapodás aláírását követő 30 napon belül diplomáciai úton megküldik egymásnak az ezen Megállapodás mellékletében felsorolt érvényben lévő úti okmányaik mintapéldányait. Ezen Megállapodás melléklete a Szerződő Felek írásbeli egyetértése alapján egészíthető ki és változtatható meg.
+
+2\. Ha az egyik Szerződő Fél az érvényben lévő úti okmányait megváltoztatja, vagy új fajta úti okmányt vezet be, az érvénybe lépésük előtt legalább 30 nappal diplomáciai úton, a minták csatolásával és a felhasználásukra vonatkozó információk közlésével értesíti a másik Szerződő Felet.
+
+*12. Cikk*
+
+1\. Ez a Megállapodás a Szerződő Felek belső jogi előírásaival összhangban jóváhagyásra szorul, és az ennek megtörténtéről szóló későbbi diplomáciai jegyzék kézhezvételét követő 90. napon lép hatályba.
+
+2\. Ezen Megállapodás hatálybalépésének napján a Magyar Népköztársaság Kormánya, valamint a Csehszlovák Szocialista Köztársaság Kormánya között létrejött, 1963. december 11-én, Prágában aláírt, a két ország közötti utasforgalomról szóló Egyezmény érvényét veszti.
+
+*13. Cikk*
+
+Ezt a Megállapodást határozatlan időre kötik, és azt bármelyik Szerződő Fél felmondhatja. A Megállapodás az egyik Szerződő Fél által a másik Szerződő Félhez diplomáciai úton, írásban intézett felmondás kézhezvételét követő 90. napon hatályát veszti.
+
+Készült Prágában, 1996. év november hó 11. napján, két eredeti példányban, magyar és cseh nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Cseh Köztársaság\
+Kormánya nevében
+
+*Melléklet*
+
+**A Magyar Köztársaság Kormánya**\
+**és a Cseh Köztársaság Kormánya között**\
+**a vízumkötelezettség kölcsönös megszüntetéséről szóló Megállapodáshoz**
+
+Ezen Megállapodás értelmében érvényes úti okmányoknak tekintendők
+
+1\. a Magyar Köztársaság állampolgárai számára:
+
+*a)* diplomata útlevél,
+
+*b)* külügyi szolgálati útlevél,
+
+*c)* magánútlevél,
+
+*d)* hajós szolgálati útlevél,
+
+*e)* hazatérési igazolvány;
+
+2\. a Cseh Köztársaság állampolgárai számára:
+
+*a)* diplomata útlevél,
+
+*b)* szolgálati útlevél,
+
+*c)* turista útlevél,
+
+*d)* hajós útlevél,
+
+*e)* utazási igazolvány.''”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1997. május hó 20. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 72. pontja szerint módosított szöveg.

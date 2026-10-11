@@ -1,0 +1,347 @@
+---
+title: "41/1996. (III. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Ukrán Köztársaság Kormánya között a növényegészségügyi és a növényvédelmi együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "41/1996. (III. 20.) Korm. rendelet"
+njt_id: "1996-41-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/41"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-03-20
+in_force_from: 1996-03-20
+last_amended: 1996-03-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-41-20-22"
+retrieved: 2026-10-12
+---
+
+# 41/1996. (III. 20.) Korm. rendelet a Magyar Köztársaság Kormánya és az Ukrán Köztársaság Kormánya között a növényegészségügyi és a növényvédelmi együttműködésről szóló egyezmény kihirdetéséről
+
+## (A diplomáciai jegyzékváltás 1995. november 9-én megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Ukrán Köztársaság Kormánya között Kijevben, 1995. május 19-én aláírt, a növényegészségügyi és a növényvédelmi együttműködésről szóló egyezményt e rendelettel kihirdeti.
+
+### 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,Egyezmény\
+a Magyar Köztársaság Kormánya\
+és Ukrajna Kormánya között a növényegészségügyi\
+és a növényvédelmi együttműködésről
+
+A Magyar Köztársaság Kormánya és Ukrajna Kormánya, attól a szándéktól vezérelve, hogy
+
+kölcsönösen megtegyék a szükséges intézkedéseket a növények és növényi termékek kártevői, kórokozói, valamint a gyomnövények határon keresztül országaik területére történő behurcolásának megelőzésére,
+
+a növények és növényi termékek forgalma, illetve átmenő forgalma érdekében megteremtsék a növényegészségügyi biztonság összehangolt feltételeit,
+
+szükség esetén közös összefogással, hatékony növényvédelmi eljárásokkal megakadályozzák a kártevők, a kórokozók és a gyomnövények országaikban történő elterjedését,
+
+elmélyítsék a tudományos együttműködést a növényvédelem terén,
+
+elősegítsék a kereskedelmi kapcsolatok bővítését,
+
+az alábbiakról állapodtak meg:
+
+*1. Cikk*
+
+*a)* Növények és növényi eredetű termékeken élő növényeket, azok részeit és mindazon növényi eredetű termékek összességét kell érteni, amelyek a Megállapodó Felek országainak érvényes szabályai szerint a behozatal, a kivitel és az átmenő forgalom során növényegészségügyi vizsgálati kötelezettség alá tartoznak.
+
+*b)* Károsítókon olyan növényi betegségek kórokozóit és olyan növényi kártevőket, valamint olyan gyomnövénymagvakat kell érteni, amelyek nem terjedtek el, vagy nem széleskörűen terjedtek el a Megállapodó Felek országaiban, és elterjedésük, tömeges elszaporodásuk kárt okozhat a növényekben és növényi termékekben, továbbá jelenlétük pedig ártalmas lehet az emberek és az állatok egészségére.
+
+*c)* Növényegészségügyi bizonyítvány a FAO 1979. évi rendelkezésével módosított, 1951. december 6-án, Rómában elfogadott Nemzetközi Növényvédelmi Egyezmény alapján egységes iratmintával igazolt, növényvédelmi hatósági nyilatkozat.
+
+*2. Cikk*
+
+A Megállapodó Felek illetékes szervei
+
+*a)* kölcsönösen tájékoztatják egymást a növények és növényi termékek exportjára, importjára és átmenő forgalmára vonatkozó növényegészségügyi követelményekről;
+
+*b)* a 2. Cikk *a)* szakaszában említett követelmények érvényesítése során gondoskodnak a növények és növényi termékek küldeményeinek az Egyezmény *mellékletében* felsorolt károsítóktól való mentessége szakszerű ellenőrzéséről, és a vizsgálat megtörténtét, illetőleg az importáló ország előírásainak való megfelelést növényegészségügyi bizonyítvány kiállításával igazolják. Az egymás országán keresztül történő szállítás során is betartják a behozatali küldeményekre vonatkozó feltételeket. A küldemények vizsgálatát a Megállapodó Felek saját országukban rendszeresített módszerekkel végzik;
+
+*c)* haladéktalanul tájékoztatják egymást az Egyezmény mellékletében feltüntetett károsítók jegyzékében, illetve a növényegészségügyi követelményekben bekövetkezett változásokról;
+
+*d)* tájékoztatják egymást az új károsítók felbukkanásáról;
+
+*e)* segítik egymást a károsítók országba történő behurcolásának, illetve elterjedésének megelőzésében, kölcsönös segítséget nyújtanak a különösen veszélyes károsítók elterjedésének meggátolásában;
+
+*f)* a nagy gazdasági veszteségek veszélyét magukban hordozó károsítók határmenti övezetben történő tömeges felbukkanása esetén a Megállapodó Felek illetékes szervei figyelmeztető felhívást tesznek közzé, és szükség esetén együttműködnek a veszély elhárításában.
+
+*3. Cikk*
+
+A szállítmányhoz csatolt érvényes növényegészségügyi bizonyítvány nem zárja ki az importáló fél azon jogát, hogy más országból származó szállítmányt növényegészségügyi szempontból ellenőrizze, és amennyiben a szállítmány nem felel meg a növényegészségügyi előírásoknak, a szükséges védelmi intézkedéseket megtegye. Vitás esetben a Megállapodó Felek vizsgáló közegei az országukban rendszeresített módszerrel együttesen lefolytatott, párhuzamos vizsgálat eredménye alapján döntenek a szállítmány fertőzöttségének tényéről.
+
+*4. Cikk*
+
+1\. Növényi eredetű küldeményeknél olyan csomagolást alkalmaznak, amellyel a károsítók terjedése csak kivételes esetben fordulhat elő.
+
+2\. Szállításhoz a károsítók behurcolására alkalmas szennyezésektől megtisztított, szükség esetén fertőtlenített szállító eszközt használnak.
+
+3\. Talaj, illetve termő közeg szállítása a Megállapodó Felek növényegészségügyi követelményeinek megfelelően történik.
+
+*5. Cikk*
+
+1\. Növények és növényi termékek növényegészségügyi ellenőrzését a Megállapodó Felek vizsgáló közegei a közös határállomásokon, az illetékes szervek által engedélyezett esetekben belföldön közösen végzik el.
+
+2\. A közös határállomásokon a növényegészségügyi kirendeltségek létesítése, működtetése, illetve bezárása a Felek megállapodása szerint történik.
+
+3\. A szállítmányok növényegészségügyi vizsgálata a Megállapodó Felek illetékes szerve által szabályszerűen feljogosított és szakképesített személyzet (felügyelők) által, vagy annak ellenőrzése alatt történik.
+
+4\. A diplomáciai testületnek szánt vagy rajta keresztül ajándékként, illetve csere céljából érkező növényküldeményeket az Egyezményben foglaltaknak megfelelően kell kezelni.
+
+*6. Cikk*
+
+A Megállapodó Felek megtesznek minden szükséges intézkedést annak érdekében, hogy megakadályozzák a károsítók harmadik országból történő behurcolását.
+
+A növényeket, növényi termékeket tartalmazó küldemények átmenő forgalmát akkor engedélyezik, ha azok növényegészségügyi bizonyítvánnyal rendelkeznek – kivéve, ha ettől eltérően jogszabály vagy illetékes szerv intézkedik –, és megfelelnek azon ország növényegészségügyi követelményeinek, amelynek területén a küldemény majd áthalad.
+
+*7. Cikk*
+
+A Megállapodó Felek módosíthatják a jelen Egyezmény mellékletében feltüntetett kártevők, kórokozók és gyomnövények jegyzékét, valamint a növényegészségügyi követelményeket. A módosítást diplomáciai jegyzékváltás útján kell megerősíteni, amely a kézhezvételtől számított 30 nap elteltével lép hatályba.
+
+*8. Cikk*
+
+1\. A Megállapodó Felek támogatják az illetékes szervek műszaki-tudományos együttműködését, mindenekelőtt:
+
+*a)* a növényvédelmi ismeretek és tapasztalatok cseréjében a kutatás és a védekezési gyakorlat módszerei területén,
+
+*b)* a növények, növényi termékek idegen eredetű, egészségre káros anyag tartalmának megelőzésében,
+
+*c)* a szerzői jogokba nem ütköző, térítésmentes szakmai információcsere területén;
+
+*d)* a szakemberek kiküldetése kérdésében.
+
+2\. Az Egyezmény teljesítése során felmerülő szakmai problémák megoldása, valamint a tapasztalatcsere és az együttműködés elmélyítése érdekében a Megállapodó Felek illetékes szervei szükség esetén közös tanácskozásokat tartanak. A tanácskozások megrendezésére a két országban felváltva kerül sor.
+
+3\. A küldöttség utazási költségeit a küldő Fél, az országban való tartózkodásának (szállás, étkezés), valamint a belföldi közlekedésének költségeit – kölcsönösségi alapon – a fogadó Fél, illetőleg az előzetesen történt egyeztetés szerint a küldő Fél viseli. A tanácskozás helyét és idejét egyeztetés alapján határozzák meg.
+
+*9. Cikk*
+
+1\. A jelen Egyezmény megvalósítását célzó intézkedéseket a Magyar Köztársaság részéről a Földművelésügyi Minisztérium[^1], Ukrajna részéről a Mezőgazdasági és Élelmezésügyi Minisztérium egyezteti.
+
+2\. Amennyiben az Egyezmény végrehajtása vagy értelmezése tárgyában nincs egyetértés, a Megállapodó Felek a vita eldöntésére – megállapodás alapján – közös bizottságot alakítanak. Ha a közös bizottság nem jut megállapodásra, a véleményeltérést diplomáciai úton rendezik.
+
+*10. Cikk*
+
+Az Egyezmény rendelkezései nem érintik a Megállapodó Felek egyéb kétoldalú vagy nemzetközi egyezményekből származó jogait és kötelezettségeit.
+
+*11. Cikk*
+
+A jelen Egyezményt a Megállapodó Felek országai belső jogszabályainak megfelelően jóvá kell hagyni, és az a jóváhagyásról szóló jegyzékváltást követő 30. napon lép hatályba. A Megállapodó Felek a jelen Egyezményt ötéves időtartamra kötik, és érvényessége automatikusan meghosszabbodik további öt-öt évvel, amennyiben a Megállapodó Felek valamelyike, legkésőbb hat hónappal az Egyezmény lejárta előtt, írásban nem mondja fel.
+
+Készült Kijevben, 1995. május 19-én, két eredeti példányban magyar és ukrán nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság Kormánya nevében
+
+Ukrajna Kormánya nevében
+
+*Melléklet*
+
+Ukrajna karantén kártevőinek, kórokozóinak\
+és gyomnövényeinek jegyzéke
+
+I. Ukrajna területén nem előforduló karantén károsítók
+
+*A) Növénykártevők*
+
+1\. Jcerya purchasi Mask
+
+2\. Spdoptera litura
+
+3\. Liriomyza trifolii Burgess
+
+4\. Caryedon gonagra F
+
+5\. Pantomorus leucoloma Boh
+
+6\. Zabrotes subfasciatus Boh
+
+7\. Numonia pyrivorella Mats
+
+8\. Bruchidius incarnatus Boh
+
+9\. Spodoptera littoralis Bisd
+
+10\. Cerplastes rusci L
+
+11\. Trogederma granarium EW
+
+12\. Sinoxylon coniderum Gerst
+
+13\. Callosobruchus chinensis L
+
+14\. Rhizoecus kondonis Kuw
+
+15\. Chionaspis furfure Fitch
+
+16\. Dinoderus bifoveolatus Wol
+
+17\. Paralipsa gularis Zell (Aph)
+
+18\. Carposina niponensis Wisghw
+
+19\. Epichoristodes acerbella L
+
+20\. Caratitis capitata Wied
+
+21\. Dacus dorzalis Hend
+
+22\. Trogoderma angustum Solier
+
+23\. Trogoderma sternale Jayne
+
+24\. Pseudaulacaspis pentagona Targ
+
+25\. Callosobruchus makulatus
+
+26\. Caulophilus latinasus Say
+
+27\. Agrilus mali Mata
+
+28\. Popillia japonica Newm
+
+29\. Ceroplastes japonicus Green
+
+30\. Dysmisoccus wistariae
+
+31\. Rhagoletis pomonella Gr
+
+*B) Növények kórokozói*
+
+*Gombák*
+
+1\. Tilletia (Neovossis) indica Mur
+
+2\. Phymatotrichum omnivorum Schear Duggar
+
+*Baktériumok*
+
+3\. Bakterium stervarti Bergey
+
+4\. Ervinia amylora (Burill) Com; S A
+
+5\. Pseudomonas caryaphylei Starr
+
+6\. Corynebacterium tritici Bunh
+
+7\. Xanthomonas campestris pv. (hyacint) Burnh
+
+8\. Xanthomonas citri (Hassl) Dowson
+
+*Vírusok*
+
+9\. Andean potato latent virus
+
+10\. Potato vein yellowing virus
+
+11\. Potato yelloy dwarf virus
+
+*C) Fonálférgek*
+
+1\. Globodera pallida Stone
+
+2\. Hetorodera glycines Ychin
+
+*D) Gyomnövények*
+
+1\. Acanthospermum hispidum D. C.
+
+2\. Diodia teres Walt
+
+3\. Emex australis Steinh
+
+4\. Emex spinosa L
+
+5\. Aeschinomene virginica B. S. P.
+
+6\. Cassia tora
+
+7\. Cassia occidentalis L
+
+8\. Croton caitatus Michx
+
+9\. Solanum carolinensis L
+
+10\. Solanum elaegnifolium
+
+11\. Solanum triflorum L
+
+12\. Artermisia biennis L
+
+13\. Paspalum sp. sp.
+
+14\. Striga sp. sp.
+
+15\. Helianthus sp. sp.
+
+16\. Physalis angulata L
+
+17\. Cenchrus sp. sp.
+
+II. Ukrajna területén korlátozott előfordulású karantén károsítók
+
+*A) Növények kártevői*
+
+1\. Hyphantria cunea Drury
+
+2\. Viteus vitifolii Fitch
+
+3\. Quadraspidiotus perniciosus
+
+4\. Phthorimaea operculella Zell
+
+5\. Grapholitha molesta Busck
+
+6\. Dialeurodes citri Riley et How
+
+7\. Pseudococcus comstocki Kuw
+
+8\. Leucaspis japonica Ckll
+
+*B) Növények kórokozói*
+
+*Gombák*
+
+1\. Helminthosporium maydis Nisicado
+
+2\. Mycosphaerella linorum
+
+3\. Sychytrium endobioticum Perc
+
+4\. Diaporthe helianthi
+
+*Vírusok*
+
+5\. Plum pox virus
+
+*C) Fonálférgek*
+
+6\. Globodera rostochiensis Woll M
+
+*D) Gyomnövények*
+
+1\. Ambrosia pxilostachya Ds
+
+2\. Ambrosia artemisiifolia L
+
+3\. Ambrosia tritida
+
+4\. Acroptilon repens DS
+
+5\. Ipomoea hederacea L
+
+6\. Solanum rostratum Dun
+
+7\. Cuscuta campestratis G''
+
+### 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1995. december 9-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének d) pontját.

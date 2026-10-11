@@ -1,0 +1,88 @@
+---
+title: "122/1997. (VII. 17.) Korm. rendelet a készülék üzemben tartási díj beszedésének részletes szabályairól"
+identifier: "122/1997. (VII. 17.) Korm. rendelet"
+njt_id: "1997-122-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/122"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-07-17
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-122-20-22"
+retrieved: 2026-10-12
+---
+
+# 122/1997. (VII. 17.) Korm. rendelet a készülék üzemben tartási díj beszedésének részletes szabályairól
+
+A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: médiatörvény) 148. §-ának (1) bekezdésében kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya a médiatörvény alapján televízió műsor vételére alkalmas készülék (a továbbiakban: televízió készülék) üzemben tartási díj fizetésére kötelezett természetes személyre, jogi személyre, jogi személynek nem minősülő gazdasági társaságra, a díjbeszedéssel megbízott szervezetre terjed ki.
+
+## Üzemben tartási díj esedékessége, pótdíj
+
+### 2. §
+
+Az üzemben tartási díj havonként utólagosan esedékes és a fizetési kötelezettség a díjbeszedő által meghatározott határnapig teljesítendő. A díjbeszedő jogosult a fizetési kötelezettség határnapját úgy meghatározni, hogy a teljesítésre kéthavonta összevontan kerüljön sor.
+
+### 3. §
+
+Ha az üzemben tartó a fizetésre vonatkozó kötelezettségének nem tesz eleget, a hátralékos díj és az azzal összefüggő pótdíj a díjbeszedő felszólítását követő hónapban egy összegben esedékes.
+
+## Bejelentési kötelezettség
+
+### 4. §
+
+(1)[^1]
+
+(2) A díjbeszedő az általa kialakított formanyomtatvány (a továbbiakban: bejelentőlap) kézbesítésével köteles felhívni a lehetséges üzemben tartókat – az (5) bekezdésben megjelölteket kivéve – a bejelentési kötelezettség teljesítésére.
+
+(3) Az üzemben tartót bejelentési kötelezettségének a bejelentőlap kitöltésével és a díjbeszedő részére történő megküldésével tesz eleget.
+
+(4)–(5)[^2]
+
+### 5. §
+
+A rendelet hatálybalépését követően
+
+a) az üzemben tartó az üzembe helyezett televízió készüléket az üzembe helyezés megkezdését követő,
+
+b) a médiatörvény 80. § (2) bekezdésében meghatározott üzemben tartó az üzemeltetett készülékek számának változását, a változást követő
+
+nyolc napon belül köteles a díjbeszedő részére meghatározott formanyomtatványon bejelenteni.
+
+### 6. §
+
+(1) A médiatörvény 81. §-ában meghatározott mentességre jogosult személy külön nyomtatványon megtett bejelentését követő hónap első napjától mentesül a díjfizetési kötelezettség alól, ha a mentességet a szükséges dokumentumokkal igazolta.
+
+(2) A díjfizetési kötelezettség megszűnését az erre a célra szolgáló nyomtatvány kitöltésével és díjbeszedő részére történő megküldésével be kell jelenteni a fizetési kötelezettség megszűnésétől számított 8 napon belül.
+
+### 7. §
+
+A díjbeszedő köteles a hátralékos díjak és pótdíjak beszedése érdekében szükséges valamennyi intézkedés megtételére, ideértve a peres és végrehajtási eljárással kapcsolatos intézkedéseket is.
+
+### 8. §
+
+A díjbeszedő tevékenységéért utólagos elszámolással, a ténylegesen befolyt üzemben tartási díjjal arányos, a díjbeszedésre vonatkozó szerződésben meghatározott beszedési díjra jogosult.
+
+### 9. §[^3]
+
+## Záró rendelkezések
+
+### 10. §
+
+(1)[^4] Ez a rendelet – a (2) bekezdésben foglaltak kivételével – a kihirdetését követő 15. napon lép hatályba.
+
+(2) A 8. § 1998. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 4. § (1) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1329. pontja hatályon kívül helyezte.
+[^2]: A 4. § (4)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1329. pontja hatályon kívül helyezte.
+[^3]: A 9. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1329. pontja hatályon kívül helyezte.
+[^4]: A 10. § (1) bekezdés második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1329. pontja hatályon kívül helyezte.

@@ -1,0 +1,71 @@
+---
+title: "67/1990. (X. 12.) Korm. rendelet a Magyar Köztársaság Kormánya és a Dán Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről"
+identifier: "67/1990. (X. 12.) Korm. rendelet"
+njt_id: "1990-67-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1990/Korm/67"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1990-10-12
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1990-67-20-22"
+retrieved: 2026-10-12
+---
+
+# 67/1990. (X. 12.) Korm. rendelet a Magyar Köztársaság Kormánya és a Dán Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó megállapodás kihirdetéséről
+
+(A megállapodás megkötésére 1990. június 5-én külügyminiszteri levélváltás formájában került sor.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Dán Királyság Kormánya között a vízumkényszer megszüntetésére vonatkozó 1990. június 5-én kelt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A magyar külügyminiszternek az 1. §-ban említett megállapodást tartalmazó, a dán külügyminiszterhez intézett angol nyelvű válaszlevele hivatalos magyar nyelvű fordítása a következő:
+
+,,A Magyar Köztársaság külügyminisztere a Dán Királyság külügyminiszterének.
+
+Van szerencsém a mai napon kelt jegyzékének kézhezvételét igazolni, amely a következőképpen hangzik:
+
+Excellenciás Uram!
+
+Van szerencsém tájékoztatni arról, hogy Dánia Kormánya, mindkét állam polgárainak érdekében és avégből, hogy az országaink közötti kapcsolatokat a Helsinki folyamat által lefektetett elvekre figyelemmel javítsa, valamint azon célból, hogy megkönnyítse állampolgárainak utazásait, kész a Magyar Köztársaság Kormányával egyezményre lépni a vízumkényszer alábbi feltételek melletti eltörlése kérdésében:
+
+1\. Érvényes dán útlevéllel rendelkező dán állampolgárok bármely engedélyezett határátkelőhelyen szabadon beléphetnek Magyarország területére és ott tartózkodhatnak egy kilencven napot meg nem haladó időszakon át anélkül, hogy ehhez vízumot kellene kiváltaniok.
+
+2\. Érvényes magyar útlevéllel rendelkező magyar állampolgárok bármely engedélyezett határátkelőhelyen szabadon beléphetnek Dánia területére és ott tartózkodhatnak egy kilencvennapot meg nem haladó időszakon át anélkül, hogy ehhez vízumot kellene váltaniok. Ezt a kilencven napos időtartamot azon naptól kell számítani, amikor a magyar állampolgár valamelyik olyan Skandináv Állam területére lépett, amely részese az útlevélvizsgálatnak a skandináviai államok közötti határokon történő mellőzéséről kötött 1957. július 12-ei Egyezménynek. Ha a magyar állampolgár ezen Államok bármelyikében bármennyi időt töltött is azon hat hónap folyamán, amely egy nem skandináviai államból ezen Államok bármelyikébe történt belépését megelőzte, úgy azt az időt a fenti kilenven napos időtartamba be kell számítani.
+
+3\. Megállapodnak a felek, hogy a vízumkényszer eltörlése nem mentesít egyetlen, a jelen megállapodás előnyeit élvező személyt sem attól, hogy a kérdéses országban az országba való belépésre, (időleges vagy tartós) ott-tartózkodásra és munkavállalásra vonatkozó törvényeknek és egyéb hatályos szabályozásoknak eleget tegyen.
+
+4\. Az egyik Szerződő Fél diplomácai vagy konzúli testületének a másik Szerződő Fél területén akkreditált olyan tagjai, úgyszintén ezek családtagjai jogosultak a másik Szerződő Fél területén teljesítendő szolgálat teljes idejére a szükséges tartózkodási engedélyre. Kirendelésükről a másik Szerződő Felet még lehetőleg megérkezésüket megelőzően szóbeli jegyzék útján kell tájékoztatni.
+
+5\. Mindkét ország hatóságai fenntartják maguknak a jogot, hogy a másik ország nem kívánatosnak tekintett polgáraitól az országba való belépésre és ott-tartózkodásra vonatkozó engedélyt megtagadják.
+
+6\. Mindkét ország kötelezi magát, hogy minden külön alakiság nélkül ismét beengedi országába saját állampolgárait.
+
+7\. Az előző pontokba foglalt rendelkezések hatályát — a 6. pont kivételével — bármelyik Kormány, közrendészeti okokból időlegesen részben vagy egészben felfüggesztheti. E felfüggesztésről diplomáciai csatornákon haladéktalanul tájékoztatni kell a másik Kormányt.
+
+8\. Jelen Egyezmény 1990. június 15-én lép hatályba. Az Egyezményt bármelyik Kormány írásbeli értesítéssel felmondhatja; az Egyezmény harminc nappal az értesítés napját követően veszti hatályát.
+
+9\. Jelen Egyezmény hatályba lépésével egyidejűleg a Szerződő Felek között a diplomáciai és szolgálati útlevéllel utazók vízumkényszerének megszüntetéséről Koppenhágában 1989. december 18-án létrejött Egyezmény hatályát veszti.
+
+Ha a fenti javaslatok a Magyar Köztársaság Kormánya számára elfogadhatóak, úgy tisztelettel azt a javaslatot teszem, hogy jelen levelem és Excellenciád válasza a kérdésben a két Kormány közötti Egyezménynek minősüljön.
+
+Kérem Excellenciádat, fogadja legmélyebb tiszteletem és nagyrabecsülésem kifejezését.
+
+Van szerencsém közölni Önnel, hogy Kormányom az Ön jegyzékében foglalt javaslatokkal egyetért. Az Ön jegyzéke, valamint ez a válaszjegyzék a Magyar Köztársaság és a Dán Királyság Kormánya között megállapodást képez a vízumkötelezettség megszüntetéséről a magyar és dán állampolgárok számára, amely 1990. június 15-én lép hatályba.
+
+Engedje meg Excellenciád, hogy legkiválóbb nagyrabecsülésemről biztosítsam.''
+
+## 3. §
+
+(1) Ez a rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban 1990. június 15. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 12. pontja szerint módosított szöveg.

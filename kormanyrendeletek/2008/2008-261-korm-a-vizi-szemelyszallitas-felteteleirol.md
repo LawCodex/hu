@@ -1,0 +1,407 @@
+---
+title: "261/2008. (XI. 3.) Korm. rendelet a vízi személyszállítás feltételeiről"
+identifier: "261/2008. (XI. 3.) Korm. rendelet"
+njt_id: "2008-261-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/261"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-11-03
+in_force_from: 2009-10-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-261-20-22"
+retrieved: 2026-10-12
+---
+
+# 261/2008. (XI. 3.) Korm. rendelet a vízi személyszállítás feltételeiről
+
+A vízi közlekedésről szóló 2000. évi XLII. törvény (a továbbiakban: Vkt.) 88. §-a (1) bekezdésének d) pontjában és az egyes jogszabályok és jogszabályi rendelkezések hatályon kívül helyezéséről szóló 2007. évi LXXXII. törvény 6. §-ának (2) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) A rendelet hatálya a vízi személyszállítást – beleértve a komp- és révátkelést – végző hajózási vállalkozásokra, valamint a vízi személyszállítást igénybe vevőkre terjed ki.
+
+(2) A vízi személyszállításra kötött szerződésekre a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a szerződés általános szabályaira, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit az e rendeletben foglalt kiegészítésekkel kell alkalmazni.
+
+(3) Abban az esetben, ha a személyszállítás országhatáron túlra vagy országhatáron túlról történik, e rendelet rendelkezéseit csak annyiban lehet alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+
+## Értelmező rendelkezések
+
+### 2. §
+
+(1) Az e rendeletben használt egyes fogalmakat – a (2) bekezdésben foglalt kiegészítésekkel – a Vkt. 87. §-a szerint kell értelmezni.
+
+(2) E rendelet alkalmazásában:
+
+a) *hajóállomás:* az a hely, ahol a személyek hajóra, illetve hajóról partra jutását egy vagy több úszóművön (pontonon), más hajón keresztül, komp rámpáján vagy közvetlenül a partfalhoz kikötve biztosítják;
+
+b) *hajózási vállalkozás:* gazdasági célú hajózási tevékenységet folytató gazdálkodó szervezet;
+
+c) *járódeszka:* a partfal és a hajó közötti közlekedésre szolgáló, szintkülönbséget és távolságot áthidaló könnyű kivitelű fa- vagy fémhíd;
+
+d) *különjárat:* menetrenden kívül külön megállapodás alapján indított járat;
+
+e) *személyszállítás:* díj ellenében menetrend alapján végzett vízi személyszállítás (a továbbiakban: menetrend szerinti személyszállítás), valamint a menetrenden kívül közlekedtetett vízi járművel végzett személyszállítás (a továbbiakban: különjárat);
+
+f) *személyszállításhoz kapcsolódó egyéb szolgáltatás:* útipoggyász-szállítás, poggyászmegőrzés, kereskedelmi, vendéglátó és egyéb utaskiszolgáló létesítmények üzemeltetése, valamint a vízi személyszállításhoz kapcsolódó idegenforgalmi közvetítői tevékenység;
+
+g) *utas:* a vízi járművön utazó minden olyan személy, aki nem tagja a személyzetnek és akit egyéb jogviszony alapján a hajón nem foglalkoztatnak.
+
+## Üzletszabályzat
+
+### 3. §
+
+(1) A hajózási vállalkozás a közforgalmú vízi személyszállítási szerződések – jogszabályban nem szabályozott – részletes feltételeit kiegészítő feltételekben határozza meg.
+
+(2) A kiegészítő feltételekre a Ptk.-nak az általános szerződési feltételekre vonatkozó előírásai az irányadók.
+
+(3) A hajózási vállalkozás által végzett szolgáltatások díját, a díj megállapításának módját és feltételeit – az ármegállapításról szóló jogszabályokban foglaltak figyelembevételével – a díjszabás tartalmazza.
+
+(4) A hajózási vállalkozás a kiegészítő feltételeket üzletszabályzatba foglalja. Az üzletszabályzat és a díjszabás összevonható. Az üzletszabályzatba, illetve díjszabásba a vízi személyszállítási szerződésekre vonatkozó jogszabályokat is fel kell venni és azokat eltérő szedéssel kell megjelölni. A hajózási vállalkozás az üzletszabályzatot, illetve a díjszabást az utasok részére betekintésre rendelkezésre bocsátja.
+
+## Menetrend szerinti közforgalmú személyszállítás
+
+### 4. §
+
+(1) A hajózási vállalkozás a közforgalmú személyszállítás körében a menetrendben meghatározott vonalakon az általa meghirdetett járatokat közlekedteti.
+
+(2) A forgalom lebonyolításához és az utazási igények kiszolgálásához a hajóállomásokon megfelelő, a kikötő üzemben tartója által biztosított kikötőhelyről a hajózási vállalkozás gondoskodik.
+
+(3) A hajózási vállalkozás a hajóállomásokon a balesetmentes utaskiszolgálás érdekében gondoskodik
+
+a) írásos utastájékoztatásról,
+
+b) a vízi járművek megközelítését segítő építmények (kikötőponton, kikötőhíd) biztosításáról.
+
+(4) A közforgalmú személyszállítás körében a hajózási vállalkozás köteles a személyszállítást elvállalni, ha
+
+a) az utas az üzletszabályzat, illetve díjszabás feltételeit elfogadja, megtartja, és
+
+b) a személyszállítási szolgáltatás a menetrendben meghirdetett személyszállító vízi járművekkel lehetséges.
+
+(5) A személyszállítási szolgáltatás korlátozásáról, felfüggesztéséről szóló tájékoztatást a hajóállomásokon ki kell függeszteni.
+
+## Menetrend
+
+### 5. §
+
+(1) A hajózási vállalkozás menetrendet köteles készíteni, amely tartalmazza a közforgalmú személyszállítás legfontosabb tájékoztató adatait, így különösen:
+
+a) a vízi járművek útvonalát, az induló és végállomást, továbbá azokat a hajóállomásokat (kikötőket), ahol a vízi jármű megáll;
+
+b) az indulási és érkezési időpontokat, a napi első és utolsó vízi jármű indulási időpontjának feltüntetésével;
+
+c) a hajózási vállalkozás más járataihoz való csatlakozási lehetőségeket;
+
+d) a legfontosabb kiegészítő szolgáltatásokat, valamint azt, ha valamely vízi jármű útipoggyászt, kerékpárt továbbít;
+
+e) a menetrendi időszak kezdetének és végének időpontját.
+
+(2) A menetrend tartalmazza az egyes járatok közlekedésének időszakát, a nem mindennap közlekedő járatoknál a közlekedési napokat, továbbá a szolgáltatás különböző korlátozásait.
+
+(3) A hajózási vállalkozás a menetrendet, továbbá a különjárat megrendelésének lehetőségét a hajóállomásokon jól látható helyen kifüggeszti.
+
+(4) A járat szünetelését vagy korábbi időpontban történő közlekedtetését – az időjárási és vízállási körülményektől, valamint hajózási zárlattól függőek kivételével – legalább 14 nappal, új járat beállítását, illetve a meghirdetettnél későbbi időpontban történő közlekedését legalább 7 nappal a változás előtt a hajóállomáson kifüggesztett hirdetménnyel az utazóközönség tudomására kell hozni.
+
+## Utazásból kizárt vagy feltételesen szállítható személyek
+
+### 6. §
+
+(1) A személyszállítási szolgáltatást 14 éven aluli gyermek csak kísérővel veheti igénybe.
+
+(2) A hajózási vállalkozás a személyszállítást megtagadhatja, illetve az utast a személyszállításból kizárhatja, ha az utas
+
+a) ittas vagy bódult állapotban van, botrányosan viselkedik, vagy más módon a többi utast magatartásával zavarja;
+
+b) magatartásával sérti vagy veszélyezteti a közlekedés biztonságát, saját vagy utastársai testi épségét, egészségét, a vízi jármű vagy berendezéseinek az épségét sérti vagy veszélyezteti;
+
+c) érvénytelen jeggyel vagy menetjegy nélkül utazik, és menetjegyet az ellenőrzéskor sem vált;
+
+d) menetjegyét, illetve kedvezmény igénybevételére jogosító igazolványát – felhívás ellenére – nem mutatja fel;
+
+e) ruházatával, poggyászával vagy más módon a járművet, utastársai ruházatát vagy az utasok poggyászát beszennyezheti;
+
+f) a vízi járműre kézipoggyászként be nem vihető tárgyat visz fel;
+
+g) a menetdíj megfizetését megtagadja;
+
+h) a vízi járművön a beszállt utasok száma elérte az engedélyezett utaslétszámot.
+
+(3) A hajózási vállalkozást abban az esetben is megilleti a már megtett útra járó menetdíj, ha az utast – a (2) bekezdésben foglaltak alapján – az utazásból kizárta.
+
+(4) Az útközben megbetegedett személyt a hajózási vállalkozás legalább a legközelebbi megfelelő hajóállomásig – ahol a szükséges egészségügyi ellátásban részesülhet – köteles továbbszállítani.
+
+(5) A vízi járműről a neki felróható rendellenes magatartása miatt leszállított utas nem követelheti vissza a kifizetett menetdíjat vagy egyéb díjat, például a kerékpárszállítás díját, és feladott útipoggyásza kiszolgáltatását is – ha annak kiszolgáltatása a vízi járműnek a hajóállomáson való menetrend szerinti tartózkodási ideje alatt nem lehetséges – csak az eredeti célállomáson kérheti.
+
+## Menetjegy, járműszállítási díj
+
+### 7. §
+
+(1) Az utasnak – kivéve a (7) bekezdésben foglalt esetet – az utazás megkezdésekor érvényes menetjeggyel vagy utazásra jogosító igazolvánnyal (a továbbiakban együtt: menetjegy) kell rendelkeznie.
+
+(2) A menetjegyen fel kell tüntetni:
+
+a) az indulási állomás nevét,
+
+b) a célállomás nevét,
+
+c) a fizetett menetdíj összegét és annak adótartalmát,
+
+d) az elszámolásnál alkalmazott kedvezmény mértékét,
+
+e) kabinos hajónál a kabin osztályát,
+
+f) a menetjegy érvényességének első napját,
+
+g) a menetjegy érvényességének tartamát vagy az érvényesség utolsó napját,
+
+h) a több személy részére kiadott menetjegynél az utasok számát,
+
+i) a többszöri utazásra kiadott menetjegynél az utazási lehetőségek jellegét, számát vagy időtartamát,
+
+j) a felhasználás különleges szabályait.
+
+(3) Az egyszeri vagy többszöri utazásra kiadott menetjegy (pl. havijegy, félhavijegy, füzetjegy, menetjegyváltásra vagy utazásra jogosító igazolvány, okmány) csak arra a viszonylatra, kabinosztályra és időtartamra érvényes, amelyre kiadták, illetve érvényesítették. Az utazási igazolványra a (2) bekezdés a)–e) és i)–j) pontjaiban foglalt előírásokat nem kell alkalmazni.
+
+(4) A meghatározott járatra érvényesített menetjegy csak a rajta feltüntetett járatra érvényes.
+
+(5) Ha a menetjegy nem meghatározott járatra szól, az utas az utazást a menetjegy érvényességének tartama alatt bármikor megkezdheti, a már megkezdett utazást megszakíthatja és később folytathatja. Az útmegszakítást a hajózási vállalkozással igazoltatni kell, az azonban a menetjegy érvényességi idejét nem hosszabbítja meg. Ha a menetjegyre az útmegszakítás tényét nem vezetik rá, a további utazásra érvényét veszti.
+
+(6) A menetjegyek és a járműszállítási jegyek árusítását a hajóállomás jegypénztára legalább 30 perccel a vízi jármű menetrend szerinti indulási ideje előtt köteles megkezdeni.
+
+(7) Ha a hajózási vállalkozás a beszállási hajóállomáson a meghatározott időszakban vagy egyáltalán nem szolgáltat ki menetjegyet, erről az utazóközönséget tájékoztatni köteles. Ilyen esetben a vízi járművön a menetjegyet pótdíj nélkül kell kiszolgáltatni.
+
+(8) A menetjegyet az utasnak az utazás egész tartama alatt meg kell őriznie, a hajózási vállalkozás menetjegyet ellenőrző alkalmazottainak – a kedvezményes jegyváltásra jogosító igazolvánnyal együtt – fel kell mutatnia, kérésre át kell adnia.
+
+(9) A névre szóló menetjeggyel csak az arra jogosult utazhat. A nem névre szóló menetjegy mindaddig másra átruházható, ameddig azzal az utazást nem kezdték meg vagy útipoggyászt nem adtak fel.
+
+(10) Kompon a menetjegy a közúti jármű szállítási díját nem foglalja magában. A közúti jármű szállítási díján felül a jármű vezetőjének és az utasoknak külön menetjeggyel kell rendelkezniük.
+
+## Utastájékoztatás
+
+### 8. §
+
+(1) A hajózási vállalkozás az utasok megfelelő tájékoztatását szolgáló berendezéseket üzemeltet.
+
+(2) A hajózási vállalkozás az utastájékoztatást kiadványokkal, jól látható hirdetményekkel, szükség szerint szóbeli tájékoztatással és információs berendezésekkel látja el.
+
+(3) A hajózási vállalkozás köteles az utasokat jogaikról, kötelezettségeikről, az igénybe vehető szolgáltatásokról és az esetleges forgalmi zavarokról tájékoztatni. Ennek érdekében a hajóállomásokon, illetve – amennyiben lehetséges – a vízi járművön is jól látható helyen ki kell függesztenie az utazási feltételeket és a menetrend szerinti járatokat. A hajózási vállalkozás köteles a járatok érkezési, indulási idejéről, továbbá a járatok kimaradásáról és késéséről a kiszolgáló személyzet, illetve a hajóállomási tájékoztatási rendszer útján folyamatos tájékoztatást nyújtani.
+
+(4)[^1] Közforgalmú személyszállítási szolgáltatás nyújtása esetén a hajózási vállalkozás a szolgáltatás keretében igénybe vett valamennyi kikötőben köteles közzétenni
+
+a) nevét, jogi formáját, székhelyét (telephelyét), rendszeres kapcsolattartásra szolgáló levelezési címét vagy egyéb elérhetőségét (elektronikus levelezési cím, internetes cím, telefon- vagy telefaxszám),
+
+b) a hajózási engedély számát,
+
+c) az általa nyújtott szolgáltatások típusait,
+
+d) az egyes szolgáltatástípusokra vonatkozó díjszabást,
+
+e) a szolgáltatás keretében igénybe vehető kikötőket,
+
+f) a szolgáltatás igénybevételének idejét,
+
+g) a szolgáltatás megrendelésének módjait, valamint
+
+h) menetrend szerinti közforgalmú személyszállítási szolgáltatás nyújtása esetén a menetrendet.
+
+## Különjárat
+
+### 9. §
+
+Különjáratra a hajózási vállalkozás és a megrendelő (hajóbérlő) közötti szerződés, illetve a Ptk.-nak a vállalkozási szerződésre vonatkozó rendelkezéseit kell alkalmazni. A különjárat adott útvonalra vagy meghatározott időtartamra szóló lehet.
+
+## A hajózási vállalkozás jogai és kötelezettségei
+
+### 10. §
+
+(1) A hajózási vállalkozás köteles a menetrendben meghirdetett, illetve a különjáratról szóló szerződésben meghatározott helyen és időben a vízi járművet hajózásra alkalmas állapotban kiállítani.
+
+(2) A hajózási vállalkozás köteles az utast a menetrendben, illetve a különjáratról szóló szerződésben foglalt feltételek szerint biztonságosan a célállomásra szállítani.
+
+(3) A vízi jármű vezetője köteles gondoskodni arról, hogy a hajóállomásra érkezéskor az utasok a hajóállomás nevéről, az átszállási (csatlakozási) lehetőségekről, valamint a 10 percnél hosszabb idejű tartózkodásról tájékoztatást kapjanak. A tájékoztatást olyan időben kell adni, hogy az utasok a kiszálláshoz kellő időben felkészülhessenek.
+
+(4) A hajózási vállalkozás köteles gondoskodni arról, hogy hajóállomásain (kikötőiben) a hajóállomás (kikötő) nevét jól látható módon feltüntessék.
+
+## Az utas jogai és kötelezettségei
+
+### 11. §
+
+(1) Az utas jogosult a vízi járművön utazni, a kiszolgáló létesítményeket, berendezéseket használni és a személyszállításhoz kapcsolódó szolgáltatásokat igénybe venni.
+
+(2) A hajóállomáson az utasok csak a részükre megnyitott területre léphetnek be, a hajóállomás (kikötő) területére a szállításból kizárt tárgyakat bevinni nem szabad.
+
+(3) Az utas az úszóműről a vízi járműre vezető kikötőhídra, illetve a közvetlenül a parthoz kikötött vízi jármű járódeszkájára és komp rámpájára csak akkor léphet, ha azt a vízi jármű személyzete megnyitotta.
+
+(4) Az utasok csak a vízi jármű részükre megnyitott területére léphetnek be, menetjeggyel nem rendelkező kísérőnek – a beteg és mozgáskorlátozott személy kísérőjének kivételével – tilos a vízi járműbe beszállni.
+
+(5) A balesetek megelőzése érdekében a vízi jármű korlátjának, habvédjének ajtaját, valamint a vízi jármű ablakát önhatalmúlag kinyitni, a vízi jármű korlátjára, habvédjére ülni tilos.
+
+(6)[^2] Víziközlekedési baleset vagy víziközlekedési esemény esetében az utas köteles a vízi jármű személyzetének utasításait követni.
+
+## Kézipoggyász
+
+### 12. §
+
+(1) Kézipoggyászként olyan tárgy szállítható, amelynek átmérője egyik irányban sem haladja meg a 70 cm-t és összsúlya a 35 kg-ot, gyermekjeggyel utazónál a 15 kg-ot. E rendelkezéshez képest az üzletszabályzat, illetve díjszabás egyéb korlátozást is megállapíthat.
+
+(2) Az utas az (1) bekezdésben foglalt méretkorlátozástól függetlenül vihet magával kézipoggyászként gyermekkocsit, sétapálcát, ernyőt és kézi hangszert.
+
+(3) Kézipoggyászként az utas egyéb tárgyat, valamint háziállatot az üzletszabályzat, illetve díjszabás rendelkezései szerint vihet magával.
+
+(4)[^3] A vízi járműbe bevitt kistestű (legfeljebb 10 kg tömegű) kutyáért a díjszabás legfeljebb a teljes árú menetjegy 50%-ának, nagytestű (10 kg feletti tömegű) kutyáért a díjszabás a teljes árú menetjegy 100%-ának megfelelő összegű viteldíj fizetését írhatja elő, egyéb kézipoggyász fuvarozásáért a hajózási vállalkozás díjat nem követelhet. A segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályairól szóló miniszteri rendelet szerinti segítő kutya, valamint a rendvédelmi, a nemzetbiztonsági, a honvédelmi és a hatósági feladatokat ellátó szolgálati kutya, továbbá a mindezen célból kiképzés alatt álló kutya díjmentesen, zárt szállító eszköz mellőzésével szállítható, azzal, hogy a kiképzés alatt álló kutya csak kiképzővel utazhat, valamint egy kiképzővel egy kiképzés alatt álló kutya utazhat. A szájkosár, póráz és zárt szállítóeszköz mellőzhető a segítő kutya segítségnyújtása esetén.
+
+(5) A kézipoggyászt úgy kell – a háziállatok kivételével – csomagolni és a vízi járművön elhelyezni, hogy az – beleértve a háziállatokat – a vízi járművön a közlekedést ne akadályozza, a személyzet munkáját és az utasokat ne zavarja.
+
+(6) A vízi járműbe bevitt kézipoggyász őrzése az utas feladata.
+
+## Útipoggyász
+
+### 13. §
+
+(1) Útipoggyászként, ha az üzletszabályzat, illetve a díjszabás eltérően nem rendelkezik, legfeljebb 200 kg tömegű áru – a (2) bekezdésben foglalt kivétellel – kizárólag csomagolt állapotban adható fel.
+
+(2) Útipoggyászként – ha az üzletszabályzat, illetve díjszabás eltérően nem rendelkezik – csomagolás nélkül is feladható:
+
+a) összecsukott fekhely,
+
+b) gyermekkocsi,
+
+c) kerékpár, segédmotoros kerékpár és motorkerékpár,
+
+d) hordozható hangszer,
+
+e) sporteszközök.
+
+(3) Az útipoggyásznak a vízi járműbe való berakása és onnan való kirakása – ellenkező megállapodás hiányában – az utas feladata. Az útipoggyászt a vízi járművön belül a hajózási vállalkozás helyezi el.
+
+(4) Az útipoggyász fuvarozásáért a hajózási vállalkozás viteldíjat számít fel, amelyet a menetdíjnál alkalmazott módon ki kell hirdetni.
+
+(5) A feladó útipoggyászt csak a fuvarozás útvonalára érvényes menetjegy birtokában vagy annak egyidejű megváltása mellett, az útipoggyászon nevét, lakcímét és rendeltetési hajóállomást feltüntetve adhat fel.
+
+(6) Az útipoggyász viteldíját a feladáskor előre kell megfizetni.
+
+(7) Az útipoggyász felvétele során a hajózási vállalkozás az utasnak poggyászvevényt köteles átadni, amely a következő adatokat tartalmazza:
+
+a) a feladó nevét és címét,
+
+b) a feladási és rendeltetési hajóállomás nevét,
+
+c) a feladás napját és azt a vízi járművet, amellyel az útipoggyászt továbbítani kell,
+
+d) a poggyászdarabok számát, tömegét, jelölését, csomagolásának módját, a poggyász tartalmát,
+
+e) a viteldíjat és az egyéb költségeket,
+
+f) feladó kívánsága esetén a poggyász bevallott értékének összegét.
+
+(8) Az útipoggyász csomagolására, szállításra való felvételére, valamint a hajózási vállalkozásnak az útipoggyász szállításáért fennálló felelősségére a vízi árufuvarozásról szóló jogszabályok rendelkezései az irányadók.
+
+(9) Ha az üzletszabályzat, illetve a díjszabás eltérően nem rendelkezik, az útipoggyászt a hajózási vállalkozás azzal a vízi járművel köteles továbbítani, amelyikkel az utas utazik, az utas és a hajózási vállalkozás ettől eltérően is megállapodhat.
+
+### 14. §
+
+(1) A hajózási vállalkozás az útipoggyászt az azt szállító vízi jármű megérkezése után, a kiszolgáltatás előkészítéséhez, illetve a külön jogszabályban megállapított hatósági kezeléshez szükséges idő elteltét követően a poggyászkiadó helyen a poggyászvevény felmutatójának szolgáltatja ki. A hajózási vállalkozás köteles az utast tájékoztatni a kiszolgáltatás várható időpontjáról.
+
+(2) A hajózási vállalkozás az útipoggyászt a még ki nem fizetett költségek megfizetése és a poggyászvevény átadása ellenében szolgáltatja ki. A hajózási vállalkozás a poggyászvevény felmutatójának átvételi jogosultságát nem köteles vizsgálni.
+
+(3) Az utas az útipoggyász átvétele során – a poggyászvevénybe foglalt adatokkal egybevetve – azonosítja az útipoggyászt, továbbá ellenőrzi annak, illetőleg csomagolásának külső állapotát, mennyiségét (az együvé tartozó árudarabok számát és tömegét), valamint az útipoggyászon található megjelöléseket és azok épségét.
+
+(4) Amennyiben az utas az útipoggyász sérülését, hiányát, a csomagolás hiányosságát vagy más rendellenességét észleli, fenntartását a poggyászvevényre feljegyzi. Fenntartással akkor is élhet, ha a (3) bekezdésben meghatározott vizsgálatot az átvételkor nem állt módjában elvégezni.
+
+(5) Ha a hajózási vállalkozás a kiszolgáltatás előtt az útipoggyász sérülését, részleges elveszését fedezi fel vagy gyanítja, továbbá a poggyászvevény birtokosának fenntartása esetén, a (3) bekezdés szerinti vizsgálatot köteles elvégezni és a megállapításokat – így az esetleges károsodás keletkezésének idejét és okát – jegyzőkönyvben rögzíteni, amelynek másolatát a poggyászvevény birtokosának köteles átadni.
+
+(6) Ha a hajózási vállalkozás a vizsgálatot a fenntartás ellenére nem végzi el, a fenntartás tényének bejegyzését nem teszi lehetővé, illetve jegyzőkönyvet nem vesz fel vagy annak másolatát a poggyászvevény birtokosának nem adja át, az útipoggyász átvételét az utas megtagadhatja.
+
+(7)[^4] Ha az utas a poggyászvevény elvesztését, eltulajdonítását vagy megsemmisülését haladéktalanul bejelenti a hajózási vállalkozásnak, az az útipoggyászt csak a tartalom megfelelő azonosítása esetén szolgáltathatja ki. Amennyiben a kiszolgáltatással kapcsolatban az utas és a hajózási vállalkozás között vita keletkezik, a hajózási vállalkozás köteles a poggyászt a megbízás nélküli ügyvitel szabályai szerint tárolni és megőrizni.
+
+(8)[^5] Ha az utas az útipoggyászt a vízi jármű megérkezését követő 24 órán belül nem veszi át, a hajózási vállalkozás köteles azt a megbízás nélküli ügyvitel szabályai szerint tárolni, és megőrizni. Késedelmes átvétel esetében az utas az útipoggyász tárolásáért, őrzéséért köteles a díjszabásban meghatározott összeget megfizetni.
+
+(9) Az át nem vett útipoggyászt a hajózási vállalkozás értékesítheti, ha
+
+a) a tartós tárolás az útipoggyász tartalmának károsodásával (megromlásával) járna,
+
+b) a vízi jármű megérkezésétől számítva 30 nap eltelt.
+
+(10) Az értékesítést megelőzően annak tényéről a feladót a hajózási vállalkozásnak értesítenie kell és a befolyt vételárral legkésőbb az értékesítést követő 30 napon belül el kell számolnia.
+
+## Szállításból kizárt tárgyak
+
+### 15. §
+
+Vízi járművel sem kézi-, sem útipoggyászként nem szállítható
+
+a) olyan tárgy, amely az utasok és a hajó személyzetének egészségében, testi épségében, öltözékében, a vízi járműben és annak berendezésében, továbbá a vízi járművön tartózkodó más személy tulajdonában lévő tárgyban, más útipoggyászban vagy a vízi járművön szállított más áruban kárt okozhat,
+
+b) olyan tárgy, amelynek szállítását jogszabály vagy hatósági rendelkezés tiltja,
+
+c) robbanó, tűzveszélyes, öngyúló, mérgező, radioaktív, maró, undort keltő vagy fertőzés előidézésére alkalmas anyag,
+
+d) töltött lőfegyver – a fegyveres testületek szolgálatot teljesítő tagjai fegyverei kivételével – és jogszabályban megjelölt, a közbiztonságra különösen veszélyes eszköz.
+
+## Utazási akadály
+
+### 16. §
+
+(1) Ha a vízi jármű az útját a célállomásig folytatni nem tudja, az utas – kivéve, ha az utazási akadályt a hajózási vállalkozás tevékenységi körén kívül eső elháríthatatlan ok idézte elő – a meg nem tett útra eső menetdíj visszatérítését, vagy a kiindulási állomásra való visszaszállítását és a teljes menetdíj visszatérítését követelheti.
+
+(2) Utazási akadály miatt a hajózási vállalkozással szemben az (1) bekezdésben említetteken felül igényt érvényesíteni nem lehet.
+
+(3) Az (1) bekezdés rendelkezéseit kell értelemszerűen alkalmazni akkor is, ha a menetrendszerű vízi jármű késése miatt csatlakozás-mulasztás áll elő vagy a csatlakozó járat marad el.
+
+## Elállás az utazástól
+
+### 17. §
+
+(1) Az utas az utazástól a menetjegy visszaváltásával a vízi járműnek az indulási állomásról való elindulásáig indokolás nélkül elállhat és menetjegye visszaváltását követelheti.
+
+(2) A visszaváltás feltételeit a hajózási vállalkozás az üzletszabályzatban foglalt kiegészítő feltételekben állapítja meg. A hajózási vállalkozás által bármilyen jogcímen (pl. kezelési költség) levonható összeg nem haladhatja meg a menetjegy árának 20%-át.
+
+## A felelősség kizárása
+
+### 18. §
+
+A hajózási vállalkozás nem felel az utassal szemben azért a kárért, amely azáltal keletkezik, hogy az utas a vám- vagy egyéb jogszabályokban megállapított kötelezettségének nem tesz eleget.
+
+## A menetrend szerint vagy üdülési céllal közlekedő személyhajók utasaira vonatkozó különleges szabályok[^6]
+
+### 18/A. §[^7]
+
+(1) A menetrend szerint vagy üdülési céllal közlekedő személyhajók utasainak, fogyatékossággal élő és a csökkent mozgásképességű utasainak e rendeletben nem szabályozott jogaira, valamint az üdülési célú hajójáratok késésére és törlésére vonatkozó további részletes szabályokat az 1177/2010/EU európai parlamenti és tanácsi rendelet tartalmazza.
+
+(2) Az 1177/2010/EU európai parlamenti és tanácsi rendelet 25. cikk (1) bekezdése alapján kijelölt szerv
+
+a) a hajók üzemképessége és a hajózási létesítmények engedélyezésének feltételeként meghatározott akadálymentesítés ellenőrzése tekintetében a hajózási hatóság,
+
+b) az 1177/2010/EU európai parlamenti és tanácsi rendeletben szabályozott, *a)* pontba nem tartozó kötelezettség ellenőrzése tekintetében a fogyasztóvédelmi hatóság.
+
+(3) Az 1177/2010/EU európai parlamenti és tanácsi rendeletben szabályozott, a hajók üzemképessége és a hajózási létesítmények engedélyezésének feltételeként meghatározott akadálymentesítéssel össze nem függő kötelezettség a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezés.
+
+(4) A hajók és hajózási létesítmények akadálymentesítésével összefüggő panaszokat az utasok a hajózási hatóságnak nyújtják be. Amennyiben a hajózási hatóság megállapítja, hogy az akadálymentesítéssel összefüggő kötelezettségeit az üzemben tartó nem teljesítette, a belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló jogszabály, a tengeri személyhajókra vonatkozó biztonsági követelményekről szóló jogszabály, valamint a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítéséről, használatbavételéről, üzemben tartásáról és megszüntetéséről szóló jogszabály alapján megteszi a szükséges intézkedéseket.
+
+## Záró rendelkezések
+
+### 19. §
+
+(1) Ez a rendelet 2009. január 1-jén lép hatályba.
+
+(2)[^8]
+
+### 20. §[^9]
+
+Ez a rendelet a tengeri és belvízi közlekedést igénybe vevő utasok jogairól, valamint a 2006/2004/EK rendelet módosításáról szóló, 2010. november 24-i 1177/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+---
+
+[^1]: A 8. § (4) bekezdését a 122/2012. (VI. 26.) Korm. rendelet 11. §-a iktatta be.
+[^2]: A 11. § (6) bekezdése a 122/2012. (VI. 26.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^3]: A 12. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 12. §-ával megállapított, a 24/2025. (II. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 14. § (7) bekezdése az 53/2014. (III. 3.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^5]: A 14. § (8) bekezdése az 53/2014. (III. 3.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 18/A. §-t megelőző alcímet a 122/2012. (VI. 26.) Korm. rendelet 12. §-a iktatta be.
+[^7]: A 18/A. §-t a 122/2012. (VI. 26.) Korm. rendelet 12. §-a iktatta be.
+[^8]: A 19. § (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 645. §-a hatályon kívül helyezte.
+[^9]: A 20. §-t a 122/2012. (VI. 26.) Korm. rendelet 13. §-a iktatta be.

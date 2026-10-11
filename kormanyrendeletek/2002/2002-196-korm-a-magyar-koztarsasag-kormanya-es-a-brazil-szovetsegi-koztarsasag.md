@@ -1,0 +1,119 @@
+---
+title: "196/2002. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, az állatorvoslás és az állategészségügy területén megvalósuló technikai együttműködésről és a szakmai eljárási rendről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodás kihirdetéséről"
+identifier: "196/2002. (IX. 10.) Korm. rendelet"
+njt_id: "2002-196-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/196"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-09-10
+in_force_from: 2002-09-10
+last_amended: 2002-09-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-196-20-22"
+retrieved: 2026-10-12
+---
+
+# 196/2002. (IX. 10.) Korm. rendelet a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, az állatorvoslás és az állategészségügy területén megvalósuló technikai együttműködésről és a szakmai eljárási rendről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodás kihirdetéséről
+
+*(A diplomáciai jegyzékváltás 2002. július 23-án megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya közötti, az állatorvoslás és az állategészségügy területén megvalósuló technikai együttműködésről és a szakmai eljárási rendről szóló, Brazíliavárosban, 1999. november 10-én aláírt megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás a Magyar Köztársaság Kormánya\
+és a Brazil Szövetségi Köztársaság Kormánya közötti,\
+az állatorvoslás és az állategészségügy területén megvalósuló technikai együttműködésről és a szakmai eljárási rendről
+
+A Magyar Köztársaság Kormánya és a Brazil Szövetségi Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+azon elhatározástól vezérelve, hogy együttműködjenek az állatorvoslás és az állategészségügy területén, különös tekintettel az emberi élet és egészség védelmére, valamint a fertőző állatbetegségek elterjedésének ellenőrzésére,
+
+felismerve a két ország közötti, az élő állatok és állati termékek kereskedelme kölcsönös előnyök alapján történő élénkítésének, növelésének és bővítésének fontosságát,
+
+felismerve továbbá az állatorvosi és állategészségügyi területet érintő szakmai együttműködés erősítéséből származó kölcsönös előnyöket,
+
+figyelemmel mindkét Szerződő Félnek a WTO Állat- és Növényegészségügyi Intézkedések Alkalmazásáról szóló Megállapodásból, valamint meghatározó nemzetközi szervezetek, többek között a Codex Alimentarius és a Nemzetközi Járványügyi Hivatal (OIE) tagságából és azok működésében való részvételből eredő jogaira és kötelezettségeire,
+
+az alábbiakban állapodnak meg:
+
+*I. Cikk*
+
+Jelen Megállapodás végrehajtásában részt vevő illetékes állategészségügyi hatóságok:
+
+*a)* a Magyar Köztársaság részéről: a Földművelésügyi és Vidékfejlesztési Minisztérium Állategészségügyi és Élelmiszer-ellenőrzési Főosztálya,
+
+*b)* a Brazil Szövetségi Köztársaság részéről: a Mezőgazdasági és Ellátási Minisztérium Mezőgazdasági és Állatvédelmi Titkárság.
+
+*II. Cikk*
+
+A Szerződő Felek annak érdekében, hogy megakadályozzák járványos vagy fertőző állatbetegségek, valamint az állatok egészségére ártalmas állati eredetű termékek országaik területére való behurcolását, vállalják, hogy együttműködnek az élő állatok, az állati eredetű termékek és más, esetleg kórokozó anyagot hordozó tárgyak exportjának és importjának területén.
+
+*III. Cikk*
+
+1\. A Szerződő Felek vállalják, hogy
+
+*a)* késedelem nélkül értesítik egymást, amennyiben olyan állatbetegséget állapítanak meg, amely a Nemzetközi Járványügyi Hivatal (OIE) Nemzetközi Állategészségügyi Szabályzatának ,,A'' listáján szerepel;
+
+*b)* ennek a tájékoztatásnak, amelyet a betegség teljes felszámolásáig kell megküldeni, tartalmaznia kell a megbetegedett állatok faját és létszámát, a betegség helyszínét, megállapítását és annak diagnosztikai módszerét, valamint az ellenőrző intézkedéseket. Száj- és körömfájás betegség esetén az izolált vírus típusát is meg kell jelölni;
+
+*c)* külön kérésre, tájékoztatják egymást a Nemzetközi Járványügyi Hivatal (OIE) Nemzetközi Állategészségügyi Szabályzatának ,,B'' listáján szereplő fertőző betegségek megjelenéséről.
+
+2\. Amennyiben az 1. bekezdés *a)* pontjában hivatkozott betegségek egyike előfordul a Szerződő Felek valamelyikének területén, kölcsönösen segíteni fogják egymást a kóroktani felderítésben, és külön kérésre egymás rendelkezésére bocsátják az izolált kórokozó tenyészetét.
+
+3\. A Szerződő Felek illetékes hatóságai rendszeresen elküldik egymásnak havi jelentéseiket az országaik területét érintő fertőző állatbetegségek helyzetéről.
+
+*IV. Cikk*
+
+Az állatállomány egészségének megőrzése érdekében a Szerződő Felek illetékes hatóságai kötelesek egymást értesíteni a legújabb állatorvosi ismeretek gyakorlati alkalmazásáról, hogy ezzel biztosítsák a fertőző, parazitás és egyéb állatbetegségek megelőzését.
+
+*V. Cikk*
+
+A Szerződő Felek az állategészségügy területén való együttműködés fejlesztését, valamint a két ország tudományos kutatása hatékonyságának növelését szem előtt tartva vállalják, hogy
+
+*a)* elősegítik az állatorvostudományi kutató- és a diagnosztikai intézetek közötti együttműködést;
+
+*b)* előmozdítják a szakmai lapok és más, állatorvosi érdeklődésre számot tartó kiadványok cseréjét;
+
+*c)* kicserélik az állategészségügyi igazgatás szervezeti felépítésében bekövetkezett változásokra vonatkozó információkat és a vonatkozó állategészségügyi jogszabályokat és rendelkezéseket;
+
+*d)* kölcsönösen értesítik egymást a szakmai rendezvényekről és programokról, valamint segítséget nyújtanak mindkét Szerződő Fél szakembereinek, hogy részt vegyenek azokban.
+
+*VI. Cikk*
+
+A jelen Megállapodás előírásainak végrehajtásából adódó vitás kérdéseket diplomáciai úton kell rendezni.
+
+*VII. Cikk*
+
+A jelen Megállapodásban meghatározott tevékenységek elvégzésében részt vevő küldöttségek vagy személyek költségeit, ideértve a nemzetközi és belföldi utazási, valamint a tartózkodási költségeket, a küldő Szerződő Félnek kell fedeznie.
+
+*VIII. Cikk*
+
+A jelen Megállapodást a Szerződő Felek közös egyetértésével írásban lehet módosítani.
+
+*IX. Cikk*
+
+1\. A jelen Megállapodás 30 (harminc) nappal azután lép hatályba, hogy megérkezik a második értesítés arról, hogy a jelen Megállapodás érvényességéhez szükséges belső jogi eljárások megtörténtek, és a Megállapodás ezt követően 5 (öt) évig lesz hatályban.
+
+2\. Jelen Megállapodást diplomáciai úton fel lehet mondani. A felmondás a vonatkozó írásbeli értesítéstől számított 6 (hat) hónap elteltével lép hatályba.
+
+Készült Brazíliavárosban, 1999. november 10-én, két példányban, magyar, portugál és angol nyelven, mindhárom nyelvű szöveg egyaránt hiteles. Abban az esetben, ha a Szerződő Felek a Megállapodás szövegét egymástól eltérő módon értelmezik, az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Brazil Szövetségi Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. A megállapodásban foglaltakat 2002. augusztus 22. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi és vidékfejlesztési miniszter gondoskodik.

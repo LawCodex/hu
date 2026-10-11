@@ -1,0 +1,188 @@
+---
+title: "181/1997. (X. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a bűnözés, különösen a szervezett bűnözés elleni harcban történő együttműködésről szóló, Moszkvában, 1997. április 7-én aláírt Megállapodás kihirdetéséről"
+identifier: "181/1997. (X. 17.) Korm. rendelet"
+njt_id: "1997-181-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/181"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-10-17
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-181-20-22"
+retrieved: 2026-10-12
+---
+
+# 181/1997. (X. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a bűnözés, különösen a szervezett bűnözés elleni harcban történő együttműködésről szóló, Moszkvában, 1997. április 7-én aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1997. augusztus hó 28. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a bűnözés, különösen a szervezett bűnözés elleni harcban történő együttműködésről szóló, Moszkvában, 1997. április 7-én aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás szövege a következő:
+
+,,Megállapodás\
+a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a bűnözés, különösen a szervezett bűnözés elleni harcban történő együttműködésről
+
+A Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya (a továbbiakban: Felek)
+
+kifejezve aggodalmukat a bűncselekmények és különösen azok szervezett formában történő elkövetése növekedése miatt,
+
+elismerve a bűnözés elleni harcban való együttműködés erősítésének és fejlesztésének fontosságát,
+
+figyelembe véve azokban a nemzetközi szerződésekben, amelyeknek részesei, valamint az Egyesült Nemzetek Szervezete és annak szakosított intézményei határozataiban a bűncselekmények elleni harc területén megfogalmazott célokat és elveket,
+
+törekedve arra, hogy a két ország között a baráti kapcsolatokról és együttműködésről Moszkvában, 1991. december 6-án aláírt Szerződésben foglaltak alapján hozzájáruljanak a kétoldalú kapcsolatok fejlesztéséhez,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+(1) A Felek országaik jogszabályainak és a jelen Megállapodásnak megfelelően, együttműködnek a bűnözés, különösen annak szervezett formái elleni harcban, azokban az esetekben, amikor a bűncselekmények megelőzése, felderítése, továbbá bűncselekmények elkövetésének vagy megkezdett bűncselekmény befejezésének megakadályozása a két ország illetékes szerveinek közös intézkedését igényli.
+
+(2) A Felek együttműködése különösen az alábbi bűnözési területekre terjed ki:
+
+– terrorizmus,
+
+– a kábítószerek és pszichotróp anyagok tiltott forgalmazása,
+
+– a csempészet,
+
+– a bűncselekményekből származó jövedelem legalizálása (pénzmosás),
+
+– a fegyverek, lőszerek, nukleáris és hasadóanyagok, robbanó- és mérgező anyagok tiltott forgalmazása,
+
+– az illegális migráció, az emberkereskedelem, a kitartottság, a kerítés,
+
+– a gazdasági és pénzügyi, köztük az adószabályok megszegésével elkövetett bűncselekmények,
+
+– a gépjárműlopással kapcsolatos bűncselekmények,
+
+– a kulturális értékek jogellenes forgalmazása.
+
+(3) A Felek együttműködése magában foglalja az információcserét és egyéb intézkedéseket, amelyek megfelelnek jelen Megállapodás céljainak és a Felek közötti egyéb nemzetközi szerződésekben vállalt kötelezettségeknek.
+
+(4) A jelen Megállapodás nem érinti a bűnügyi jogsegély és a kiadatás rendelkezéseit.
+
+*2. Cikk*
+
+(1) A jelen Megállapodás végrehajtása az alábbi illetékes szervek között valósul meg:
+
+*a)* a magyar Fél részéről:
+
+– a Magyar Köztársaság Belügyminisztériuma,
+
+– a Magyar Köztársaság polgári nemzetbiztonsági szolgálatokat irányító tárca nélküli miniszterének Hivatala,
+
+– a Magyar Köztársaság Nemzetbiztonsági Hivatala,
+
+– a Magyar Köztársaság Információs Hivatala,
+
+– a Magyar Köztársaság Legfelsőbb Ügyészsége,
+
+– a Magyar Köztársaság Országos Rendőr-főkapitánysága,
+
+– a Magyar Köztársaság Határőrségének Országos Parancsnoksága, és
+
+– a Magyar Köztársaság Vám- és Pénzügyőrségének Országos Parancsnoksága;
+
+*b)* az orosz Fél részéről:
+
+– az Oroszországi Föderáció Legfelsőbb Ügyészsége,
+
+– az Oroszországi Föderáció Belügyminisztériuma,
+
+– az Oroszországi Föderáció Szövetségi Biztonsági Szolgálata,
+
+– az Oroszországi Föderáció Külső Hírszerző Szolgálata,
+
+– az Oroszországi Föderáció Állami Vámbizottsága,
+
+– az Oroszországi Föderáció Szövetségi Határőrizeti Szolgálata, és
+
+– az Oroszországi Föderáció Szövetségi Adórendőrségi Szolgálata.
+
+(2) A Felek illetékes szervei közös munkacsoportokat hozhatnak létre, szakértői találkozókat tarthatnak, és a jelen Megállapodásban foglaltak megvalósítása érdekében végrehajtási megállapodásokat köthetnek.
+
+*3. Cikk*
+
+(1) Információ átadására vagy intézkedés megtételére a jelen Megállapodásban meghatározott megkeresést a Felek illetékes szervei írásban, közvetlenül küldik meg egymásnak. Halasztást nem tűrő esetekben a megkeresést szóban is továbbítani lehet, azonban azt haladéktalanul írásban meg kell erősíteni.
+
+(2) Információ átadására vagy intézkedés megtételére irányuló megkereséseket a Felek illetékes szervei a lehető legrövidebb idő alatt teljesítik. A megkeresett szerv – amennyiben ez a megkeresés teljesítéséhez szükséges – kiegészítő adatokat kérhet.
+
+(3) A megkeresés teljesítésével kapcsolatban felmerült költségeket a megkeresett Fél illetékes szervei viselik.
+
+*4. Cikk*
+
+Amennyiben az információ átadására vagy intézkedés megtételére irányuló megkeresés nem tartozik a megkeresett szerv hatáskörébe, ez a szerv köteles haladéktalanul továbbítani azt a megfelelő illetékes szervnek, és erről értesíti a megkereső illetékes szervet.
+
+*5. Cikk*
+
+(1) Információ átadására vagy valamely cselekmény megtételére megkeresés teljesítése megtagadható, ha a megkeresett Fél illetékes szerve úgy ítéli meg, hogy az sértheti országa szuverenitását, biztonságát vagy egyéb fontos érdekét, illetve ellentétes országának jogrendjével.
+
+(2) A megkeresés elutasítás indokairól tájékoztatni kell a megkereső Fél illetékes szervét.
+
+*6. Cikk*
+
+A jelen Megállapodás keretében átadott személyes adatok védelmére a Felek illetékes szervei országuk hatályos jogszabályainak figyelembevételével az alábbiakat alkalmazzák:
+
+(1) A személyes adatot fogadó Fél illetékes szerve az átadott adatokat kizárólag az átadó Fél illetékes szerve által meghatározott célra és az általa közölt feltételekkel használhatja fel.
+
+(2) Az átadó Fél illetékes szerve kérésére a fogadó Fél illetékes szerve tájékoztatást nyújt az átadott adatok felhasználásáról.
+
+(3) A személyes adatokat kizárólag a bűnüldöző szerveknek szabad átadni. Az adatok továbbadása más szerveknek csak az átadó Fél illetékes szerve előzetes engedélyével történhet.
+
+(4) Az átadó Fél illetékes szerve köteles az átadandó adatok helyességéről meggyőződni. Abban az esetben, ha téves vagy át nem adható adatok is átadásra kerültek, úgy erről a fogadó Felek haladéktalanul értesíteni kell. A fogadó Fél illetékes szerve köteles a megfelelő helyesbítést átvezetni, a téves vagy át nem adható adatokat azonnal megsemmisíteni.
+
+(5) A jogosult személy számára, kérésére, a megkereső Fél illetékes szerve felvilágosítást köteles adni a személyéről vezetett adatokról és azok tervezett felhasználásáról. Jogszabály által meghatározott esetekben ez megtagadható.
+
+(6) Az átadott személyes adatokat az átadó Fél illetékes szerve kérésére, a szükségesség elmúltával, valamint a jelen Megállapodás hatályának megszűnésekor meg kell semmisíteni, és erről haladéktalanul értesíteni kell az átadó Fél illetékes szervét.
+
+(7) A Felek illetékes szervei kötelesek nyilvántartást vezetni a személyes adatok átadásáról, átvételéről és törléséről.
+
+*7. Cikk*
+
+A jelen Megállapodás keretében átvett információk, dokumentumok és anyagok a megkeresett Fél illetékes szerve írásbeli engedélye nélkül nem használhatók fel más célokra, mint amelyek a megkeresésben szerepelnek, és amelyekre vonatkozóan a megkeresett Fél illetékes szerve egyetértését adta.
+
+*8. Cikk*
+
+A Felek – hatályos jogszabályaiban foglaltak szerint – biztosítják a másik Fél illetékes szervétől tájékozódásra, illetve cselekmények végzésére vonatkozó megkeresések bizalmas kezelését, és olyan védelemben részesítik azokat, amilyenben az átadó Fél illetékes szervei országában részesülnek.
+
+*9. Cikk*
+
+A Felek illetékes szerveinek együttműködése tapasztalatcserére, szakértők cseréjére, jogi információk és az országuk bűnügyi helyzetére, a bűnözés tendenciáira vonatkozó adatok átadására is kiterjed. Az ilyen együttműködés pénzügyi feltételeit kölcsönös megállapodás alapján a Felek illetékes szervei határozzák meg.
+
+*10. Cikk*
+
+A Felek illetékes szervei szükség esetén konzultációt folytatnak jelen Megállapodás végrehajtásának értékeléséről.
+
+*11. Cikk*
+
+(1) A jelen Megállapodást a Felek kölcsönös egyetértéssel, diplomáciai jegyzékváltás útján módosíthatják.
+
+(2) A jelen Megállapodás a hatálybalépéséhez szükséges belső jogi előírások teljesítéséről szóló diplomáciai jegyzékváltást követő tizenötödik napon lép hatályba.
+
+(3) Jelen Megállapodás hatályban marad az attól a naptól számított hat hónapig, amelyen bármelyik Fél írásban, diplomáciai úton közli a hatályának megszüntetésére irányuló szándékát.
+
+Készült Moszkvában, az 1997. évi április hó 7. napján, két eredeti példányban, magyar és orosz nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Az Orosz Föderáció\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1997. szeptember hó 12. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a rendészetért felelős miniszter és a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 81. pontja szerint módosított szöveg.

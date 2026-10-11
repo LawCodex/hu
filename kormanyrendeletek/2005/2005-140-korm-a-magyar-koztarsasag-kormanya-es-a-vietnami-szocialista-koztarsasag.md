@@ -1,0 +1,193 @@
+---
+title: "140/2005. (VII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti tudományos és technológiai együttműködési Megállapodás kihirdetéséről"
+identifier: "140/2005. (VII. 27.) Korm. rendelet"
+njt_id: "2005-140-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/140"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-07-27
+in_force_from: 2005-07-28
+last_amended: 2015-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-140-20-22"
+retrieved: 2026-10-12
+---
+
+# 140/2005. (VII. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti tudományos és technológiai együttműködési Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya közötti tudományos és technológiai együttműködési Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+„
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és\
+a Vietnami Szocialista Köztársaság Kormánya\
+között a tudományos és technológiai együttműködésről
+
+A Magyar Köztársaság Kormánya és a Vietnami Szocialista Köztársaság Kormánya (a továbbiakban: Felek)
+
+abban a meggyőződésben, hogy a tudományos és technológiai együttműködés erősíti a népeik közötti barátság és megértés kötelékeit,
+
+értékelve a két ország között az elmúlt évtizedekben megvalósult sikeres tudományos és technológiai együttműködés eredményeit,
+
+mérlegelve a tudomány és technológia jelentőségét országaik nemzetgazdaságának fejlődésében, valamint arra irányuló törekvésüket, hogy megfeleljenek a tudományos és technológiai kihívásoknak és a tudásalapú társadalom támasztotta követelményeknek,
+
+attól a szándéktól vezérelve, hogy elősegítsék és támogassák együttműködésüket a tudományos kutatás és a technológiai fejlesztés területein az egyenlőség és a kölcsönös előnyök alapján,
+
+a következőkben állapodtak meg:
+
+*Első Cikk*
+
+1\. A Felek – nemzeti törvényeikkel és jogszabályaikkal összhangban – az egyenlőség elve alapján és mindkét ország javára fejlesztik, támogatják és előmozdítják a két ország együttműködő szervezetei közti tudományos és technológiai együttműködést.
+
+2\. Együttműködő szervezeteken kutató intézetek, egyetemek, kormányintézmények, vállalatok valamint tudományos és technológiai fejlesztő tevékenységet kifejtő egyéb jogi személyek értendők.
+
+3\. Amennyiben szükségesnek mutatkozik, az együttműködő szervezetek külön megállapodásokat köthetnek, szabályozva együttműködési tevékenységüket, különös tekintettel a szellemi tulajdonjogok védelmére, továbbá az átadott dokumentumok, információk és adatok titkosságára.
+
+*Második Cikk*
+
+1\. A jelen Megállapodás keretében, valamint a pénzügyi és egyéb eszközök elérhetőségétől függően, a kétoldalú együttműködési tevékenység a következő formákban valósulhat meg:
+
+*a)* közös tudományos és technológia fejlesztési programok és projektek,
+
+*b)* tanulmányok és kutatások kölcsönösen meghatározott területeken,
+
+*c)* tudósok és szakértők cseréje,
+
+*d)* tudományos és technológiai információk és dokumentációk cseréje az együttműködési tevékenységekkel összefüggésben,
+
+*e)* tudományos workshop-ok, konferenciák, szimpóziumok,
+
+*f)* kutatóképzés,
+
+*g)* a tudományos és technológiai együttműködés egyéb formái, amelyekről a Vegyes Bizottság a Kilencedik Cikk szerint döntést hoz.
+
+2\. A Felek elősegítik országaik vállalatai, valamint kutató és technológia fejlesztő egységei közti technológia átadást.
+
+*Harmadik Cikk*
+
+A Felek elősegítik és támogatják az együttműködést és a közös részvételt többoldalú, nemzetközi tudományos és technológia fejlesztési programokban és projektekben, különös tekintettel az Európai Unió programjaira.
+
+*Negyedik Cikk*
+
+1\. Jelen Megállapodás keretében a Felek együttműködésüket vonatkozó nemzeti törvényeikkel és jogszabályaikkal, valamint azon nemzetközi szerződések előírásaival összhangban végzik, amelyeknek aláírói, továbbá a személyi és pénzügyi források rendelkezésre állásának függvényében.
+
+2\. A jelen Megállapodás semmilyen módon nem érinti a Feleknek más kétoldalú vagy többoldalú egyezményekből folyó jogait és kötelezettségeit.
+
+*Ötödik Cikk*
+
+A jelen Megállapodás keretében folyó együttműködési tevékenység vonatkozásában a Felek, összhangban nemzeti törvényeikkel és jogszabályaikkal, megkönnyítik
+
+*a)* az érintett tudósok és szakértők gyors és hatékony be- és kiutazását területükön,
+
+*b)* a belföldi utazást és munkavégzést a jelen Megállapodás végrehajtásában részt vevő személyek részére; az azzal kapcsolatos földrajzi célterületekre való belépést,
+
+*c)* a jelen Megállapodás keretében folyó közös tevékenység végrehajtásával összefüggő felszerelések, műszerek, anyagok, minták és dokumentáció gyors és hatékony be- és kiszállítását,
+
+*d)* a jelen Megállapodás végrehajtásához szükséges adatok, anyagok, intézmények és személyek biztosítását, illetve hozzáférhetőségét.
+
+*Hatodik Cikk*
+
+Harmadik Fél tudósai, szakértői és szervezetei a Felek egyetértésével meghívhatók, hogy – ha a Felek másképp nem állapodnak meg – saját költségükön vegyenek részt a jelen Megállapodás keretében végzett tevékenységekben.
+
+*Hetedik Cikk*
+
+1\. Felek biztosítják a jelen Megállapodás végrehajtása kapcsán keletkező minden szellemi tulajdon vagy más, tulajdon tárgyát képező jog megfelelő védelmét, összhangban azoknak a nemzetközi egyezményeknek a szabályaival, amelyeknek mindkét Fél aláírója.
+
+2\. Az együttműködési tevékenység során keletkező szellemi tulajdon védelmét az együttműködő szervezetek által az Első Cikk 3. bekezdése szerint kötött végrehajtási megállapodásokban kell meghatározni, amelyeknek megfelelő és hatékony védelmet kell biztosítaniuk.
+
+3\. Minden olyan tudományos és technológiai információ, amely a jelen Megállapodás keretében folyó együttműködési tevékenységből származik, az együttműködő partnerek közös tulajdona. Ezek az információk Harmadik Félnek csak az említett információt szolgáltató Fél előzetes írásos hozzájárulásával adhatók át.
+
+4\. A szellemi tulajdon védelmét a Felek nemzeti törvényeikkel és jogszabályaikkal összhangban biztosítják. A Felek megfelelő időben értesítik egymást nemzeti joganyagukban bekövetkező minden olyan változásról, amely érinti a jelen Megállapodás keretében létrejövő szellemi tulajdont, különös tekintettel a találmányokra, ipari mintákra, új növényfajtákra és a szerzői jogvédelem alá eső alkotásokra.
+
+*Nyolcadik Cikk*
+
+A jelen Megállapodás keretében folytatott tevékenységet koordináló és végrehajtó nemzeti intézmény magyar részről a Nemzeti Kutatási és Technológiai Hivatal, vietnami részről a Tudományos és Technológiai Minisztérium.
+
+*Kilencedik Cikk*
+
+1\. Jelen Megállapodás végrehajtása céljából a Felek Tudományos és Technológiai Vegyes Bizottságot (a továbbiakban: Vegyes Bizottság) hoznak létre a két Fél által kijelölt kormányzati képviselőkből és szakértőkből. A nemzeti delegációk vezetője általában (minisztériumi) főosztályvezetői/igazgatói szintű személy.
+
+2\. A Vegyes Bizottság
+
+*a)* meghatározza saját eljárási rendjét és működési szabályait,
+
+*b)* tervezi és koordinálja a tudományos és technológiai együttműködést,
+
+*c)* munkaterveket dolgoz ki, beleértve a támogatandó közös projektek kiválasztását,
+
+*d)* meghatározza az együttműködési programok és projektek végrehajtásának eljárási szabályait,
+
+*e)* áttekinti az együttműködés előrehaladását és az eredmények hasznosítását,
+
+*f)* kedvező körülményeket teremt jelen Megállapodás végrehajtásához,
+
+*g)* kölcsönös egyetértés alapján és a Felek nemzeti prioritásaival összhangban meghatározza, illetve felülvizsgálja az együttműködési programok tematikai prioritásait,
+
+*h)* magas szintű találkozókat készít elő a szükségleteknek megfelelően.
+
+3\. A Vegyes Bizottságnak a közös projektek 2. *c)* pont szerinti kiválasztására vonatkozó döntése vietnami részről saját hivatalos, utólagos jóváhagyási eljárásának függvénye.
+
+4\. A Vegyes Bizottság a projektek kiválasztásának időpontjában tartja ülését, de legalább kétévente egyszer, vagy bármelyik Fél kívánságára, felváltva a Magyar Köztársaságban és a Vietnami Szocialista Köztársaságban.
+
+5\. Amennyiben a Felek szükségesnek tartják, időleges munkacsoportok hozhatók létre valamely specifikus tudományos és technológiai szakterület vagy probléma tanulmányozására vagy ajánlások kidolgozására.
+
+*Tizedik Cikk*
+
+A jelen Megállapodás végrehajtása során a tudósok és szakértők a Második Cikk 1. pontja szerinti cseréjével kapcsolatban felmerülő költségeket a Felek más megállapodás híján a következőképpen fedezik:
+
+*a)* a küldő Fél fedezi az együttműködésben részt vevő tudósok és szakértők kiutazásával kapcsolatos valamennyi költségtételt: az utazás, a biztosítás, a szállás és az étkezések költségét,
+
+*b)* a fogadó Fél viseli az együttműködési tevékenység megvalósításához szükséges, országán belüli utazás költségeit, és
+
+*c)* a Vegyes Bizottság időszakonként felülvizsgálja az együttműködés végrehajtásának pénzügyi feltételeit és szükség esetén módosításokat vezet be.
+
+*Tizenegyedik Cikk*
+
+1\. Jelen Megállapodás csak a Felek írásos egyetértésével változtatható vagy módosítható. A Megállapodás minden változtatása vagy módosítása annak szerves részét alkotja, és jegyzékek cseréje útján válik hatályossá a Tizenkettedik Cikk 1. pontja szerint.
+
+2\. A jelen Megállapodás értelmezésével vagy alkalmazásával kapcsolatos bármely nézetkülönbséget vagy vitát a Felek egymás között egyezséggel, konzultáció útján rendeznek.
+
+*Tizenkettedik Cikk*
+
+1\. Jelen Megállapodás jegyzékváltással lép hatályba, amellyel a Felek megerősítik, hogy a jelen Megállapodás hatálybalépéséhez országukban szükséges jogi eljárás teljesült. A hatálybalépés dátuma az utolsó értesítés napja.
+
+2\. A jelen Megállapodás öt évig marad hatályban, és egymást követő öt éves időszakokra automatikusan meghosszabbodik, hacsak valamelyik Szerződő Fél hat hónappal az ötéves periódus lejárta előtt írásban nem értesíti a másik Felet felmondási szándékáról.
+
+3\. Jelen Megállapodás megszűnése nem érinti olyan, a Megállapodás szerint kivitelezett programok és projektek befejezését, amelyeket a Megállapodás megszűnésének időpontjában még nem zártak le.
+
+Fentiek tanúsításaként alulírottak, Kormányaik felhatalmazásának birtokában, aláírták a Megállapodást.
+
+Készült Hanoiban, 2005 július 20. napján, két-két eredeti példányban, magyar, vietnami és angol nyelven; mindhárom nyelvű szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Vietnami Szocialista\
+Köztársaság Kormánya\
+nevében”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a Megállapodás 12.1. Cikkében meghatározott időpontban lép hatályba.
+
+(3) A Megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+(4)[^1] E rendelet végrehajtásához szükséges intézkedésekről a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke gondoskodik.
+
+---
+
+[^1]: A 4. § (4) bekezdése a 381/2014. (XII. 31.) Korm. rendelet 10. §-a szerint módosított szöveg.

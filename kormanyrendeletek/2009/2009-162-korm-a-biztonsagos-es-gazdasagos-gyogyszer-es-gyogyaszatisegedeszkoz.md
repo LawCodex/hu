@@ -1,0 +1,74 @@
+---
+title: "162/2009. (VIII. 3.) Korm. rendelet a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti kutatásfejlesztési tevékenység után igénybe vehető engedményekre vonatkozó részletes szabályokról"
+identifier: "162/2009. (VIII. 3.) Korm. rendelet"
+njt_id: "2009-162-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/162"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-08-03
+in_force_from: 2009-08-04
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-162-20-22"
+retrieved: 2026-10-12
+---
+
+# 162/2009. (VIII. 3.) Korm. rendelet a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény szerinti kutatásfejlesztési tevékenység után igénybe vehető engedményekre vonatkozó részletes szabályokról
+
+A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 77. § (1) bekezdés *e)* pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés *b)* pontjában megállapított feladatkörében eljárva a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) szerinti kutatásfejlesztési tevékenység után igénybe vehető engedmény (a továbbiakban: engedmény) összege a tárgyévet megelőző évben megkezdett üzleti évben felmerült, a Gyftv. 36. § (10) bekezdése szerinti gyógyszer forgalomba hozatali engedély jogosultja (atovábbiakban: befizetésre kötelezett forgalomba hozatali engedély jogosultja), valamint annak konszolidációba bevont érintett vállalkozása – a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti – éves beszámolójában kimutatott, a (3) bekezdés szerinti – az egészségügyi ágazatot érintő – kutatási és fejlesztési ráfordítások összege, de legfeljebb a tárgyévet megelőző naptári évre vonatkozóan előírt befizetési kötelezettségnek a Gyftv. 36. § (10) bekezdése szerinti mértéke. A konszolidációba bevont érintett vállalkozás kutatási és fejlesztési ráfordításainak ugyanazon összege után igénybe vehető engedmény csak egy befizetésre kötelezettnél érvényesíthető.
+
+(2) Az (1) bekezdés alkalmazásában a befizetésre kötelezett forgalombahozatali engedély jogosultjának konszolidációba bevont érintett vállalkozása az Szt. 3. § (2) bekezdés 6. pontja szerinti olyan anyavállalat, leányvállalat, közös vezetésű vállalat, amely a befizetésre kötelezett forgalomba hozatali engedély jogosultjával együtt, azonos konszolidált éves beszámolóba kerül bevonásra, és az Szt. szerinti éves beszámoló készítésére kötelezett.
+
+(3) Az engedmény meghatározásakor kutatási és fejlesztési ráfordításként az Szt. 3. § (4) bekezdés 2., 3. és 4. pontja szerinti alapkutatással, alkalmazott kutatással és kísérleti fejlesztéssel összefüggésben felmerült alábbi költségek vehetők figyelembe:
+
+a) a kutatással, kísérleti fejlesztéssel összefüggésben közvetlenül felmerült – Szt. szerinti – személyi jellegű ráfordítások, ideértve a kutatókhoz, fejlesztőkhöz, technikusokhoz és egyéb kisegítő személyzethez kapcsolódóan felmerült személyi jellegű ráfordításokat a konkrét kutatási, fejlesztési tevékenység során való foglalkoztatásuk arányában;
+
+b) a kutatással, kísérleti fejlesztéssel összefüggésben közvetlenül felmerült – Szt. szerinti – anyagjellegű ráfordítások, ideértve
+
+ba) az anyagköltséget,
+
+bb) az igénybevett szolgáltatásokat (beleértve a szerződéses kutatás-fejlesztés költségét, valamint a tanácsadás és hasonló szolgáltatások igénybevétele, valamint épület- és földhasználattal összefüggésben igénybevett szolgáltatások miatti költségeket),
+
+bc) egyéb szolgáltatásokat;
+
+c) a kutatási, kísérleti fejlesztési tevékenységgel összefüggésben használt épület és más tárgyi eszközök, immateriális javak – Szt. szerinti – értékcsökkenési leírásának a konkrét kutatási, fejlesztési tevékenység céljára való használat mértékében meghatározott összege;
+
+d) az általános költségeknek a kutatási, kísérleti fejlesztési tevékenységhez a konkrét kutatási, fejlesztési tevékenységet megfelelően jellemző vetítési alap arányában, a számviteli politikában meghatározott módon, közvetetten hozzárendelt összege.
+
+## 2. §[^2]
+
+(1) A Gyftv. 36. § (10) bekezdése szerinti engedményt az 1. § (1) bekezdése szerinti éves beszámoló közzététele hónapjában benyújtott – a 3. § (1)–(3) bekezdése szerinti – bevallásnál, de legkorábban a tárgyév negyedik hónapjára vonatkozó befizetési kötelezettség bevallásánál lehet érvényesíteni. Az engedményt ezt követően mindig a soron következő befizetési kötelezettség bevallásánál lehet a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni addig, amíg a befizetési kötelezettségből az engedmény 1. § (1) bekezdése szerinti összegének teljes mértékben történő érvényesítésére nem került sor. A befizetési kötelezettséget az engedménnyel csökkentett (nettó) összegben kell teljesíteni.
+
+(2) Azoknál a befizetésre kötelezett forgalomba hozatali engedély jogosultaknál, akiknél az 1. § (1) bekezdése szerinti éves beszámoló csak a tárgyévet követő évben kerül közzétételre, ott a közzététel hónapjában benyújtott – a 3. § (1)–(3) bekezdése szerinti – bevallásnál lehet az engedményt a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni. Az engedményt ezt követően mindig a soron következő befizetési kötelezettség bevallásánál lehet a tárgyévre vonatkozó engedmény szabályai szerint érvényesíteni addig, amíg a befizetési kötelezettségből az engedmény 1. § (1) bekezdése szerinti összegének teljes mértékben történő érvényesítésére nem került sor. A befizetési kötelezettséget az engedménnyel csökkentett (nettó) összegben kell teljesíteni.
+
+## 3. §
+
+(1)[^3] A Gyftv. 36. § (10) bekezdése szerinti, e rendeletben meghatározott engedménynek és az annak megállapításához figyelembe vett kutatási és fejlesztési ráfordítások összegének a Gyftv. 36. § (1) bekezdése szerinti befizetési kötelezettségre jutó arányos részét – saját ráfordítások és konszolidációba bevont érintett vállalkozás ráfordításai bontásban – a befizetésre kötelezett forgalomba hozatali engedély jogosultja a Gyftv. 37. § (2) bekezdésében meghatározott módon az állami adóhatóság felé benyújtott bevallásban szerepelteti. A kutatási és fejlesztési ráfordításoknál fel kell tüntetni, hogy azok melyik évben megkezdett üzleti évre vonatkoznak.
+
+(2)[^4] A Gyftv. 36. § (10) bekezdése szerinti, e rendeletben meghatározott engedménynek és az annak megállapításához figyelembe vett kutatási és fejlesztési ráfordítások összegének a Gyftv. 36. § (4) és (4a) bekezdése szerinti befizetési kötelezettségre jutó arányos részét – saját ráfordítások és konszolidációba bevont érintett vállalkozás ráfordításai bontásban – a befizetésre kötelezett forgalomba hozatali engedély jogosultja a Gyftv. 37. § (4) bekezdésében meghatározott módon az állami adóhatóság felé benyújtott bevallásban szerepelteti. A kutatási és fejlesztési ráfordításoknál fel kell tüntetni, hogy azok melyik évben megkezdett üzleti évre vonatkoznak.
+
+(3)[^5] A Gyftv. 36. § (10) bekezdése szerinti, e rendeletben meghatározott engedménynek és az annak megállapításához figyelembe vett kutatási és fejlesztési ráfordítások összegének a Gyftv. 40/A. § (1) bekezdése szerinti befizetési kötelezettségre jutó arányos részét – saját ráfordítások és konszolidációba bevont érintett vállalkozás ráfordításai bontásban – a befizetésre kötelezett forgalomba hozatali engedély jogosultja a Gyftv. 40/A. § (7) bekezdésében meghatározott módon az állami adóhatóság felé benyújtott bevallásban szerepelteti. A kutatási és fejlesztési ráfordításoknál fel kell tüntetni, hogy azok melyik évben megkezdett üzleti évre vonatkoznak.
+
+## 4. §[^6]
+
+A Gyftv. 36. § (1), (4), és (4a) bekezdése, valamint 40/A. § (1) bekezdése szerinti fizetési kötelezettségek és a Gyftv. 36. § (10) bekezdése szerint érvényesített engedmények összesített összegéről, valamint a befizetés teljesítéséről az állami adóhatóság havonta, a tárgyhónapot követő harmadik hónap utolsó munkanapjáig adatszolgáltatást teljesít a Nemzeti Egészségbiztosítási Alapkezelő és az államháztartásért felelős miniszter által vezetett minisztérium részére.
+
+## 5. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) Az e rendelet szerinti engedmény először a 2009. évi befizetési kötelezettségek teljesítése után, 2010. évben érvényesíthető.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 139/2011. (VII. 21.) Korm. rendelet 25. § a) pontja, a 92/2012. (IV. 27.) Korm. rendelet 29. § a) pontja, a 447/2012. (XII. 29.) Korm. rendelet 76. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 447/2012. (XII. 29.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 92/2012. (IV. 27.) Korm. rendelet 29. § b) pontja, a 447/2012. (XII. 29.) Korm. rendelet 76. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte, újonnan a 447/2012. (XII. 29.) Korm. rendelet 75. § (2) bekezdése iktatta be.
+[^6]: A 4. § a 351/2010. (XII. 30.) Korm. rendelet 249. §-a, a 92/2012. (IV. 27.) Korm. rendelet 29. § b) pontja, a 447/2012. (XII. 29.) Korm. rendelet 76. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 139. §-a szerint módosított szöveg.

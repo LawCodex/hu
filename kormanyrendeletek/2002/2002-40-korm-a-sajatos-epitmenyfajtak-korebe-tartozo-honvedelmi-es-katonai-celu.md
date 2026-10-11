@@ -1,0 +1,250 @@
+---
+title: "40/2002. (III. 21.) Korm. rendelet a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól"
+identifier: "40/2002. (III. 21.) Korm. rendelet"
+njt_id: "2002-40-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/40"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-03-21
+in_force_from: 2009-10-01
+last_amended: 2026-01-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-40-20-22"
+retrieved: 2026-10-12
+---
+
+# 40/2002. (III. 21.) Korm. rendelet a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól
+
+Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-a (1) bekezdésének m) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+(1)[^2] E rendeletet
+
+a) a honvédelmi és katonai célú építmények,
+
+b)[^3] a honvédelmi és katonai célú ingatlanon álló, vagy oda tervezett építmények (a villamosenergia-ipari, távhőellátási és a bányafelügyelet hatáskörébe tartozó sajátos építmény kivételével),
+
+c) az állami repülések céljára szolgáló repülőterek, valamint a közös felhasználású katonai és polgári repülőtérré fejleszthető állami repülések céljára szolgáló repülőterek
+
+d)[^4] a nemzetbiztonsági célú, illetve rendeltetésű építmények,
+
+e)[^5] a BSL3 és BSL4 minősítésű Nemzeti Biztonsági Laboratórium komplexum építményei
+
+[az a)–e) pont a továbbiakban együtt: építmény] építésügyi hatósági eljárásaiban kell alkalmazni.
+
+(2) E rendeletet a honvédelmi és katonai célú ingatlant érintő telekalakítási eljárásokban kell alkalmazni.
+
+## 2. §[^6]
+
+E rendelet alkalmazásában
+
+1\. *eljárás:* az 1. § (1) és (2) bekezdésében meghatározott eljárások,
+
+2\. *honvédelmi és katonai célú építmény:* az az építmény, építményrész, építmény-együttes, és annak rendeltetésszerű működéséhez szükséges vonalas és nem vonalas műtárgyak, amelyek létrehozása során a honvédelmi és katonai rendeltetés – ideértve a nemzetközi katonai szerződésekből eredő kötelezettséget is – sajátosságából adódóan különös funkcionális, építészeti-műszaki, technológiai, valamint minősítettadat-védelmi és információvédelmi követelmények megállapítására és teljesítésére, illetve az építmény használata során ezek fenntartására van szükség,
+
+3\. *honvédelmi és katonai célú ingatlan:* az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet,
+
+4\. *honvédelmi és katonai célú ingatlant érintő telekalakítási eljárás:* olyan telekalakítási engedélyezési eljárás, amelyben a telekcsoport újraosztása, a telekfelosztás, a telekegyesítés vagy a telek-határrendezés honvédelmi és katonai célú ingatlan telekhatárának megváltozásával jár.
+
+## 3. §
+
+(1)[^7] A Kormány az 1. § (1) bekezdése hatálya alá tartozó eljárásokban az építésügyi hatósági jogkör, valamint az 1. § (2) bekezdése hatálya alá tartozó eljárásokban a telekalakítási hatósági jogkör gyakorlójaként, országos illetékességgel a honvédelemért felelős minisztert (a továbbiakban: katonai építésügyi hatóság) jelöli ki.
+
+(2) A katonai építésügyi hatóság hatósági jogkörének gyakorlása során csak a jogszabályoknak van alárendelve, a hatósági ügyekben hozandó döntésében nem utasítható.
+
+## 4. §
+
+(1)[^8]
+
+(1a)[^9] Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság hat hónapig felhasználható előzetes szakhatósági állásfoglalást ad ki.
+
+(2)[^10]
+
+(3)[^11]
+
+(4)[^12] A szakhatósági közreműködés során a minősített adat védelméhez szükséges fizikai biztonsági feltételek hiányában a minősített adatok feldolgozása a katonai építésügyi hatóság hivatalos helyiségében történik.
+
+## 5. §[^13]
+
+Az eljárásban – ide nem értve az 1. § (1) bekezdés d) pontja szerinti építményekkel kapcsolatos eljárásokat – a munkavédelmi, a tűzvédelmi, a közegészségügyi, a járványügyi, a sugárvédelmi, valamint az állami légügyi szakkérdések elbírálása vonatkozásában a honvédelemért felelős miniszter jár el.
+
+## 6. §
+
+(1)[^14] A katonai építésügyi hatóság
+
+a) építési engedélyezési,
+
+b) fennmaradási engedélyezési,
+
+c) használatbavételi engedélyezési,
+
+d) bontási engedélyezési,
+
+e) engedély hatályának meghosszabbítása iránti engedélyezési,
+
+f) az országos építési követelményektől való eltérés engedélyezési,
+
+g) telekalakítási,
+
+h) jogutódlás tudomásulvételi,
+
+i) használatbavétel tudomásulvételi,
+
+j) kötelezési,
+
+k) végrehajtási,
+
+l) szakhatósági,
+
+m) hatósági bizonyítvány kiállítása iránti,
+
+n) veszélyhelyzet esetén szükségessé váló építési tevékenység tudomásulvételi,
+
+o) az államhatárról szóló törvény szerint szükségessé váló építési tevékenység tudomásulvételi, és
+
+p) a menedékjogról szóló törvény szerint szükségessé váló építési tevékenység tudomásulvételi
+
+eljárásokat folytat.
+
+(2)[^15]
+
+(3)[^16] A katonai építésügyi hatóság közhírré teszi – tekintet nélkül a határozat véglegessé válására – azon határozatáról, valamint a szakhatósági állásfoglalásról szóló közleményt, amit olyan eljárásban hozott, amelyben a szakhatóságként eljáró környezetvédelmi hatóság a tevékenység következtében várható környezeti hatások jelentőségét vizsgálta.
+
+(4)[^17] A katonai építésügyi hatóság hatósági bizonyítványt ad ki
+
+a) az ügyfél kérelmére a honvédelmi és katonai célú ingatlan használatával kapcsolatos tény, állapot vagy egyéb adat igazolására;
+
+b)[^18] a Nemzeti Földalap kezeléséért felelős szerv, a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság, vagy az ingatlanügyi hatóság kérelmére, az ingatlan-nyilvántartásban honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet környezetvédelmi, vegyvédelmi, illetve tűzszerészeti mentesítése elvégzésének szükségessége, vagy megtörténte vonatkozásában.
+
+(5)[^19] A (4) bekezdés b) pontja szerinti hatósági bizonyítványt a kérelem előterjesztésétől számított harminc napon belül kell kiadni.
+
+## 7. §
+
+(1)[^20] Az építésügyi hatósági engedély iránti kérelmet a katonai építésügyi hatóság részére a 2. számú melléklet szerinti tartalommal és a (2) bekezdés szerinti mellékletekkel együtt a sajátos építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszeren kell előterjeszteni, azzal, hogy a jogszabályban meghatározott minősített adatot tartalmazó tervdokumentációt és műszaki leírást nem kell feltölteni, azokat a szükséges példányban papír alapon kell a katonai építésügyi hatóság részére előterjeszteni.
+
+(1a)[^21] Az (1) bekezdés szerinti kérelem kormányablaknál nem terjeszthető elő.
+
+(2) Az engedély iránti kérelemhez mellékelni kell:
+
+a)[^22] a vagyonkezelő hozzájárulását, ha az építtető nem a vagyonkezelői jogokat gyakorló katonai szervezet,
+
+b)[^23] a tervezett építési munka külön jogszabályban meghatározott tartalmú építészeti-műszaki dokumentációját 2 példányban, illetőleg az érintett szakhatóságok számától függően további 1-1 példányban,
+
+c)–d)[^24]
+
+e) környezeti hatásvizsgálat-köteles építmény és tevékenység esetén a környezetvédelmi engedélyt,
+
+f)[^25] új veszélyes katonai objektum építményei építésére vonatkozó kérelem esetében a veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló kormányrendeletben meghatározott tartalmú biztonsági dokumentációt,
+
+g)[^26] ha az engedélyezési eljárás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet (a továbbiakban: Khvr.) 3. számú mellékletében meghatározott olyan tevékenység megkezdését vagy folytatását szolgálja, amely a Khvr.-ben meghatározott küszöbértéket nem éri el vagy a tevékenységre a Khvr.-ben megállapított feltétel nem teljesül, a kérelemhez mellékelni kell a Khvr. mellékletében meghatározott, a környezeti hatások jelentőségének vizsgálatára szolgáló adatlapot,
+
+h)[^27] új épület építése vagy meglévő épület – épületfeltüntetési adatát érintő – bővítése esetén a használatbavételi vagy a fennmaradási engedély iránti kérelem, illetve meglévő épület bontása esetén a bontás megtörténte bejelentésének előterjesztésével egy időben a változás ingatlan-nyilvántartási átvezetéséhez jogszabályban előírt tartalmi és formai követelményeknek megfelelő változási vázrajzot, két példányban,
+
+i)[^28] új sugárveszélyes munkahely létesítésére vonatkozó kérelem esetében az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendeletben meghatározott tartalmú Sugárvédelmi Leírást.
+
+(2a)[^29] Ha a kérelem vagy a hozzá csatolt mellékletek az (1) és (2) bekezdés, valamint a 2. számú melléklet szerinti követelményeknek nem felelnek meg, vagy a tényállás tisztázása során felmerült új adatra tekintettel az szükséges, a katonai építésügyi hatóság legfeljebb két ízben hiánypótlásra hívhatja fel a kérelmezőt.
+
+(3)[^30] A katonai építésügyi hatóság a (2) bekezdés h) pontja szerinti változási vázrajzot a hatósági engedély véglegessé válását, illetve a bontás megtörténte bejelentésének előterjesztését követő 15 napon belül a honvédelmi és katonai célú ingatlanok nyilvántartását vezető katonai szervezet részére átvezetés céljából megküldi. Az Országos Építésügyi Nyilvántartásba a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő telkek épületfeltüntetési vázrajzát nem kell feltölteni.
+
+(4)[^31] A honvédelmi és katonai célú, valamint a nemzetbiztonsági célú és rendeltetésű építmények tekintetében nincs helye az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerinti építészeti tervtanácsi, továbbá településképi véleményezési eljárásnak.
+
+## 8. §[^32]
+
+A tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények
+
+a) építésügyi hatósági engedélyezése során, ha az építésügyi hatóság helyszíni szemle megtartását rendeli el, a helyszíni szemlét három napon belül kell lefolytatni, és a helyszíni szemlén részt vevő szakhatóság állásfoglalását a helyszíni szemle keretében adja meg,
+
+b) jogszerűtlen építésével kapcsolatban az építésügyi hatósági eljárásokról és ellenőrzésekről szóló kormányrendeletnek a jogszerűtlen építési tevékenység tudomásulvételi eljárására vonatkozó szabályai alkalmazhatók.
+
+## 9. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba. Rendelkezéseit a hatálybalépését követően indult ügyekben kell alkalmazni.
+
+## 10. §[^33]
+
+E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított rendelkezéseit a Mód. Kr. hatálybalépését követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+
+## 10/A. §[^34]
+
+E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 7. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az építésügyi hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az építésügyi hatóság vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## 11. §[^35]
+
+Ez a rendelet
+
+a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 2. és 4. cikkének, II. és IV. mellékletének, valamint
+
+b) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló 2011/92/EU irányelv módosításáról szóló, 2014. április 16-i 2014/52/EU európai parlamenti és tanácsi irányelv 1. cikkének
+
+való megfelelést szolgálja.
+
+## 1. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^36]
+
+## 2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^37]
+
+**Az építésügyi hatósági engedély iránti kérelem adattartalma**
+
+1\. Az építtető adatai: megnevezése, címe, a kapcsolattartó neve és elérhetősége.
+
+2\. A kérelemmel érintett építmény adatai: megnevezése, rendeltetése és azonosítója.
+
+3\. Az építési helyszín adatai: címe, helyrajzi száma.
+
+4\. A használó (katonai) szervezet adatai: megnevezése, címe, kapcsolattartó neve és elérhetősége.
+
+5\. A kérelmezett engedély fajtája.
+
+6\. A kérelem tárgya és annak rövid leírása.
+
+7.[^38] A kérelem tárgyával összefüggésben korábban keletkezett hatósági határozatok megnevezése, száma, kelte, véglegessé válásának napja.
+
+8\. A közreműködő tervező vagy tervezők neve, címe, jogosultsága.
+
+9\. A benyújtott mellékletek felsorolása és mennyisége.
+
+10\. Az építtető kérelme.
+
+11\. Keltezés, az építtető cégszerű aláírása.
+
+---
+
+[^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés záró szövegrésze a 237/2024. (VIII. 8.) Korm. rendelet 14. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 12. § (1) bekezdését.
+[^3]: Az 1. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 114. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: Az 1. § (1) bekezdés d) pontját a 237/2024. (VIII. 8.) Korm. rendelet 13. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 12. § (1) bekezdését.
+[^5]: Az 1. § (1) bekezdés e) pontját a 237/2024. (VIII. 8.) Korm. rendelet 13. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 12. § (1) bekezdését.
+[^6]: A 2. § a 379/2016. (XII. 2.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdése a 330/2019. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 114. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: A 4. § (1a) bekezdését a 402/2012. (XII. 28.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 114. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^10]: A 4. § (2) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 52. § (14) bekezdés a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^12]: A 4. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 36. § (4) bekezdése, a 290/2011. (XII. 22.) Korm. rendelet 92. § (1) és (2) bekezdése szerint módosított szöveg.
+[^13]: Az 5. § a 457/2017. (XII. 28.) Korm. rendelet 112. § (1) bekezdésével megállapított, a 237/2024. (VIII. 8.) Korm. rendelet 14. § b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 12. § (1) bekezdését.
+[^14]: A 6. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 52. § (6) bekezdésével megállapított szöveg.
+[^15]: A 6. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^16]: A 6. § (3) bekezdését a 82/2011. (V. 18.) Korm. rendelet 8. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 112. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^17]: A 6. § (4) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be, nyitó szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
+[^18]: A 6. § (4) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 52. § (13) bekezdése, a 107/2024. (V. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 6. § (5) bekezdését a 406/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^20]: A 7. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 7. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 112. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^22]: A 7. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 52. § (7) bekezdésével megállapított szöveg.
+[^23]: A 7. § (2) bekezdés b) pontja a 182/2009. (IX. 10.) Korm. rendelet 269. §-a, a 284/2024. (IX. 30.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdés c)–d) pontját a 379/2016. (XII. 2.) Korm. rendelet 52. § (14) bekezdés b) pontja hatályon kívül helyezte.
+[^25]: A 7. § (2) bekezdésének f) pontját a 182/2009. (IX. 10.) Korm. rendelet 268. § (3) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 7. § (2) bekezdés g) pontját a 82/2011. (V. 18.) Korm. rendelet 9. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 114. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^27]: A 7. § (2) bekezdés h) pontját a 379/2016. (XII. 2.) Korm. rendelet 52. § (8) bekezdése iktatta be.
+[^28]: A 7. § (2) bekezdés i) pontját a 457/2017. (XII. 28.) Korm. rendelet 112. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 7. § (2a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 112. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^30]: A 7. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 52. § (9) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 113. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^31]: A 7. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 52. § (10) bekezdése iktatta be, szövege a 237/2024. (VIII. 8.) Korm. rendelet 14. § c) pontja, a 284/2024. (IX. 30.) Korm. rendelet 1. § b) pontja szerint módosított szöveg. Alkalmazására lásd a 237/2024. (VIII. 8.) Korm. rendelet 12. § (1) bekezdését.
+[^32]: A 8. §-t a 379/2016. (XII. 2.) Korm. rendelet 52. § (14) bekezdés c) pontja hatályon kívül helyezte, újonnan a 237/2024. (VIII. 8.) Korm. rendelet 13. § (2) bekezdése iktatta be, alkalmazására lásd ez utóbbi módosító rendelet 12. § (1) bekezdését.
+[^33]: A 10. §-t a 82/2011. (V. 18.) Korm. rendelet 10. §-a iktatta be.
+[^34]: A 10/A. §-t a 477/2016. (XII. 27.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^35]: A 11. §-t a 82/2011. (V. 18.) Korm. rendelet 10. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 52. § (11) bekezdésével megállapított szöveg.
+[^36]: Az 1. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 114. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 268. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: A 2. számú melléklet 7. pontja a 457/2017. (XII. 28.) Korm. rendelet 113. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

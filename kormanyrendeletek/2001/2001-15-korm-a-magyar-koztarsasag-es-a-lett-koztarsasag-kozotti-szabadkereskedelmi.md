@@ -1,0 +1,213 @@
+---
+title: "15/2001. (II. 6.) Korm. rendelet a Magyar Köztársaság és a Lett Köztársaság közötti Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyvének módosítását tartalmazó Kiegészítő Jegyzőkönyv kihirdetéséről"
+identifier: "15/2001. (II. 6.) Korm. rendelet"
+njt_id: "2001-15-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/15"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-02-06
+in_force_from: 2001-02-06
+last_amended: 2001-02-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-15-20-22"
+retrieved: 2026-10-12
+---
+
+# 15/2001. (II. 6.) Korm. rendelet a Magyar Köztársaság és a Lett Köztársaság közötti Szabadkereskedelmi Megállapodás 3. számú, a származási szabályokról szóló Jegyzőkönyvének módosítását tartalmazó Kiegészítő Jegyzőkönyv kihirdetéséről
+
+*(A Kiegészítő Jegyzőkönyv a 2. Cikkében előírt eljárásnak megfelelően 2001. február 1-jén lép hatályba.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és a Lett Köztársaság között 1999. június 10-én, Budapesten aláírt Szabadkereskedelmi Megállapodás[^1] 3. számú, a származási szabályokról szóló Jegyzőkönyvének módosítására vonatkozó Kiegészítő Jegyzőkönyvet e rendelettel kihirdeti.
+
+## 2. §
+
+A Kiegészítő Jegyzőkönyv magyar nyelvű szövege a következő:
+
+,,
+
+Kiegészítő Jegyzőkönyv\
+a Magyar Köztársaság és a Lett Köztársaság közötti Szabadkereskedelmi Megállapodás 3. számú,\
+a származási szabályokról szóló Jegyzőkönyvének módosításáról
+
+A Magyar Köztársaság (a továbbiakban: Magyarország) és a Lett Köztársaság (a továbbiakban: Lettország)
+
+figyelembe véve a Magyarország és Lettország között 1999. június 10-én, Budapesten aláírt Szabadkereskedelmi Megállapodást, és annak 3. számú Jegyzőkönyvét ,,a származó termék forgalmának meghatározásáról és az adminisztratív együttműködés módszereiről'',
+
+tekintettel arra, hogy
+
+(1) néhány technikai jellegű korrekció szükséges a különböző nyelvű szövegekben lévő eltérések kijavítása céljából,
+
+(2) módosítani szükséges a nem elegendő mértékű megmunkálások és feldolgozások listáját a megfelelően értelmezés érdekében, és számításba kell venni néhány olyan megmunkálást, amelyet korábban nem tartalmazott ez a lista,
+
+(3) az átalánydíj ideiglenes használatára vonatkozó rendelkezések 2001. december 31-ig történő meghosszabbítása szükséges, ahol a visszatérítés nem megengedett vagy a vámfizetés alóli mentesség biztosított,
+
+(4) szükségessé vált a származó és nem származó anyagok könyvelés szerinti elkülönítési rendszerének bevezetése vámhatósági engedélyezéssel,
+
+(5) az euróban kifejezett összegekre vonatkozó rendelkezések módosítása szükséges, hogy egyértelművé tegye az eljárást, és nagyobb stabilitást biztosítson az összegek nemzeti valutában kifejezett szintjének,
+
+(6) változtatások bevezetése szükséges a nem származó termékek származóvá válásának megmunkálási és feldolgozási követelményeit tartalmazó listát illetően, figyelembe véve bizonyos anyagok előállításának hiányát az érintett országokban,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+A ,,származó termék'' fogalmának meghatározásáról és az adminisztratív együttműködés módszereiről szóló 3. számú Jegyzőkönyv ezennel a következők szerint módosul:
+
+1\. Az 1. Cikk *(i)* pontja helyébe a következő rendelkezés lép:
+
+,,*(i)* a ,,hozzáadott érték'' a gyártelepi ár és nem a 3. és 4. Cikkekben említett országokból származó, valamennyi beépített anyag vámértékének különbözetét jelenti, vagy ha a vámérték nem ismert vagy nem állapítható meg, akkor a Magyarországon vagy Lettországban a termékért fizetett első igazolható árat jelenti.''
+
+2\. A 7. Cikk helyébe a következő rendelkezés lép:
+
+,,
+
+*7. Cikk*
+
+*Nem kielégítő megmunkálás vagy feldolgozás*
+
+1\. A 2. bekezdésben foglaltak fenntartásával a származó termék helyzet megszerzéséhez az alábbi műveleteket nem kielégítő megmunkálásnak vagy feldolgozásnak kell tekinteni, függetlenül attól, hogy a 6. Cikk követelményei teljesültek-e vagy sem:
+
+*a)* a fuvarozás és tárolás során az áru jó állapotban való megőrzését biztosító műveletek;
+
+*b)* csomagok felosztása és összeállítása;
+
+*c)* mosás, tisztítás, por, oxidáció, olaj, festék vagy más bevonat eltávolítása;
+
+*d)* textíliák vasalása vagy simítása;
+
+*e)* egyszerű festési és fényezési műveletek;
+
+*f)* gabonafélék és rizs hántolása, részbeni vagy teljes fehérítése fényezése és glazúrozása;
+
+*g)* cukor színezését vagy formázását szolgáló műveletek;
+
+*h)* gyümölcs, diófélék és zöldség hámozása, magozása és feltörése, kifejtése;
+
+*i)* élezés, egyszerű őrlés vagy vágás;
+
+*j)* rostálás, szitálás, válogatás, osztályozás, minősítés, összeállítás (beleértve a készletek összeállítását);
+
+*k)* egyszerű palackozás, üvegbe, kannába, zsákba, ládába, dobozba helyezés, kartonon vagy raklapon való rögzítés és minden más egyszerű csomagolási művelet;
+
+*l)* a termékekre vagy csomagolásukra jelzés, címke, logo vagy más megkülönböztető jel felerősítése vagy rányomtatása;
+
+*m)* termékek egyszerű vegyítése, fajtájukra való tekintet nélkül;
+
+*n)* áruk alkatrészeinek egyszerű összeszerelése, hogy azok egy teljes árucikket képezzenek vagy termékek szétszedése alkatrészekre;
+
+*o)* az *a)*–*n)* alpontokban meghatározott két vagy több művelet kombinációja;
+
+*p)* állatok levágása.
+
+2\. Minden műveletet, amelyet egy adott terméken Magyarországon vagy Lettországban elvégeztek, együttesen kell figyelembe venni annak megállapításakor, hogy a terméken elvégzett megmunkálást vagy feldolgozást az 1. bekezdés alapján nem kielégítőnek kell-e tekinteni.''
+
+3\. A 15. Cikk 6. bekezdésének utolsó mondata helyébe a következő rendelkezés lép:
+
+,,E bekezdés rendelkezései 2001. december 31-ig alkalmazandók.''
+
+4\. A 20. Cikk után a következő Cikket kell beilleszteni és e Cikkről a hivatkozást a tartalomjegyzékbe besorolni:
+
+,,
+
+*20a. Cikk*
+
+*Könyvelés szerinti elkülönítés*
+
+1\. Amennyiben azonos és egymással felcserélhető, származó és nemszármazó anyagok készleteinek elkülönítése jelentős költséggel vagy anyagi nehézséggel járna, a vámhatóság, az érintett írásbeli kérelmére, engedélyezheti az úgynevezett ,,könyvelés szerinti elkülönítés'' módszerét az ilyen készletek nyilvántartására.
+
+2\. A módszernek biztosítania kell, hogy egy adott hivatkozási időszak alatt, a beszerzett ,,származó''-nak tekintett termékek mennyisége ugyanannyi legyen, mintha a készleteket fizikailag elkülönítették volna.
+
+3\. A vámhatóság a módszer alkalmazásának engedélyezését az általa megfelelőnek tartott feltételekhez kötheti.
+
+4\. A módszer alkalmazásakor és a nyilvántartások vezetésekor a terméket gyártó országban alkalmazott általános könyvviteli szabályokat kell figyelembe venni.
+
+5\. E könnyítés kedvezményezettje – az esettől függően – származást igazoló okmányt bocsáthat ki, vagy kérelmezheti annak kibocsátását a származónak tekinthető termékmennyiségre. A vámhatóság felszólítására a kedvezményezettnek nyilatkoznia kell a kérdéses termékmennyiség nyilvántartásának módjáról.
+
+6\. A vámhatóság ellenőrzi az engedély felhasználását, és azt bármikor visszavonhatja, amennyiben a kedvezményezett az előírtaktól eltérő módon használja fel az engedélyt, vagy a jelen Jegyzőkönyvben foglalt bármely más feltételt nem teljesíti.''
+
+5\. A 22. Cikk 1. bekezdésének első mondatában szereplő ,,exportőr'' szó után a következő szövegrészt kell beilleszteni:
+
+,,(a továbbiakban: elfogadott exportőr)''
+
+6\. A 30. Cikk helyébe a következő rendelkezés lép:
+
+,,
+
+*30. Cikk*
+
+*Euróban kifejezett összegek*
+
+1\. A 21. Cikk 1. bekezdésének *b)* pontjában és a 26. Cikk 3. bekezdésében foglaltak alkalmazására, azokban az esetekben, ahol a termékeket az eurótól eltérő valutában számlázták le, a 3. és 4. Cikkben hivatkozott országok nemzeti valutájának az euróban kifejezett összegekkel megegyező egyenértékét évente határozza meg minden érintett ország.
+
+2\. Egy szállítmányra vonatkozóan a 21. Cikk 1. bekezdésének *b)* pontjában vagy a 26. Cikk 3. bekezdésében foglalt könnyítések az érintett ország által meghatározott összegnek megfelelően alkalmazhatók, hivatkozással arra a valutanemre, amelyben a számlát kiállították.
+
+3\. Bármely nemzeti valutában felhasználandó összeg megegyezik az euróban kifejezett összegnek az adott nemzeti valuta október első munkanapján érvényes árfolyamon számított egyenértékével. Az összegeket október 15-ig közlik az Európai Bizottsággal, és azokat a következő év január 1-jétől kell alkalmazni. Az Európai Bizottság minden érintett országot értesít a vonatkozó összegekről.
+
+4\. Egy ország felfelé vagy lefelé kerekítheti az euróban kifejezett összeg nemzeti valutájára történő átváltása során kialakult összeget. A kerekített összeg nem térhet el 5%-nál nagyobb mértékben az átváltás során kiszámított összegtől.
+
+Egy ország változatlanul tarthatja az euróban kifejezett összegre vonatkozó nemzeti valutájának egyenértékét, ha – a 3. bekezdésben biztosított évenkénti kiigazítás idején – az összegnek az átváltása – még bármiféle kerekítést megelőzően – azt eredményezi, hogy a növekedés a nemzeti valuta egyenértékében nem nagyobb, mint 15%. A nemzeti valuta egyenértéke változatlan maradhat, ha az átváltás az egyenérték csökkenését eredményezné.
+
+5\. Az euróban kifejezett összegeket a Vegyes Bizottság bármelyik fél kérésére felülvizsgálja. E felülvizsgálat során a Vegyes Bizottság figyelembe veszi, hogy célszerű az érintett értékhatárok hatásának reális feltételek közötti fenntartása. E célból úgy határozhat, hogy módosítja az euróban kifejezett összegeket.''
+
+7\. A II. sz. Melléklet a következők szerint módosul:
+
+A HR 5309–5311 vámtarifaszámokra vonatkozó előírások helyébe a következők lépnek:
+
+,,
+
+5309–5311
+
+(2): Szövet más növényi rostból; szövet papírfonalból:
+
+– Gumifonalat tartalmazó
+
+(3): Előállítás egyágú fonalból<sup>1</sup>
+
+– Más
+
+(3): Előállítás<sup>1</sup>
+
+– kókuszrost fonalból,
+
+– juta fonalból,
+
+– természetes szálakból,
+
+– nem kártolt vagy nem fésült, vagy fonásra más módon elő nem készített műszálból
+
+– vegyi anyagokból vagy textilpépből, vagy
+
+– papírból vagy a nyomtatáshoz legalább két előkészítő vagy befejező művelet társul (pl. mosás,, fehérítés,, mercerizálás,, mángolás,, gyűrtelenítés,, kikészítés,, avatás,, impregnálás,, kivarrás és a csomók eltávolítása),, ahol a felhasznált nem nyomott szövet értéke nem haladja meg a termék gyártelepi árának 47,5%-át
+
+_______
+
+<sup>1</sup> A kevert textilanyagokból készült termékekkel kapcsolatos speciális feltételeket az 5. számú Bevezető megjegyzés tartalmazza.''
+
+*2. Cikk*
+
+1\. Ez a Kiegészítő Jegyzőkönyv 2001. február 1-jén lép hatályba, amennyiben a Felek ezt megelőzően kölcsönösen, diplomáciai értesítés útján tájékoztatják egymást a megerősítéshez szükséges belső jogi eljárásaik megtörténtéről.
+
+2\. Amennyiben ez a Kiegészítő Jegyzőkönyv nem lép ezen Cikk 1. bekezdésének megfelelően hatályba, úgy a Felek szükséges belső jogi eljárásainak megtörténtét megerősítő utóbbi diplomáciai értesítés kézhez vételét követő hónap első napján lép hatályba.
+
+Készült Budapesten, 2000. december 19-én, két eredeti, angol nyelvű példányban, mindkét szöveg azonos érvényű.
+
+*Balás Péter* s. k.,
+
+a Magyar Köztársaság\
+képviselője
+
+*Kaspars Gerhards* s. k.,
+
+a Lett Köztársaság\
+képviselője''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba.
+
+---
+
+[^1]: Kihirdette a 2000. évi XXVIII. törvény.

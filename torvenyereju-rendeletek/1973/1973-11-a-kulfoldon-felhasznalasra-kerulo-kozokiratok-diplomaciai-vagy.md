@@ -1,0 +1,261 @@
+---
+title: "1973. évi 11. törvényerejű rendelet a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről"
+identifier: "1973. évi 11. törvényerejű rendelet"
+njt_id: "1973-11-10-00"
+eli: "https://njt.jog.gov.hu/eli/TVR/1973/11"
+type: law-decree
+jurisdiction: hu
+language: hu
+date: 1973-05-08
+in_force_from: 2008-09-01
+last_amended: 2026-01-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1973-11-10-00"
+retrieved: 2026-10-12
+---
+
+# 1973. évi 11. törvényerejű rendelet a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. október 5. napján kelt egyezmény kihirdetéséről[^1]
+
+*(A Magyar Népköztársaság csatlakozásáról szóló okirat letétbe helyezése 1972. április hó 18-án megtörtént; az egyezmény a Magyar Népköztársaság*[^2] *tekintetében 1973. január 18-án hatályba lépett.)*
+
+## 1. §
+
+A Népköztársaság Elnöki Tanácsa[^3] a külföldön felhasználásra kerülő közokiratok diplomáciai vagy konzuli hitelesítésének (felülhitelesítésének) mellőzéséről Hágában, az 1961. évi október hó 5. napján kelt egyezményt e törvényerejű rendelettel kihirdeti.
+
+## 2. §
+
+Az egyezmény hivatalos magyar fordítása a következő:
+
+„ **EGYEZMÉNY**
+
+**a külföldön felhasználásra kerülő közokiratok**\
+**diplomáciai vagy konzuli hitelesítésének**\
+**(felülhitelesítésének) mellőzéséről**
+
+Az Egyezményt aláíró Államok
+
+attól az óhajtól vezetve, hogy a külföldi közokiratokat mentesítsék a diplomáciai vagy konzuli felülhitelesítés alól,
+
+elhatározták, hogy e célból Egyezményt kötnek és a következő rendelkezésekben állapodtak meg:
+
+*1. cikk*
+
+Ezt az Egyezményt azokra a közokiratokra kell alkalmazni, amelyeket az egyik Szerződő Állam területén készítettek és amelyeket egy másik Szerződő Állam területén használnak fel.
+
+Az Egyezmény szempontjából közokiratnak kell tekinteni:
+
+*a)* az igazságügyi hatóság vagy igazságügyi tisztviselő által kiállított okiratokat, ideértve azokat az okiratokat is, amelyeket az ügyészség, a bírósági tisztviselő, vagy a bírósági végrehajtó állított ki,
+
+*b)* az államigazgatási okiratokat,
+
+*c)* a közjegyzői okiratokat,
+
+*d)* a magánokiratokon levő igazolásokat, mint például nyilvántartásbavétel igazolása, meghatározott időpont tanúsítása és aláírások hitelesítése.
+
+Az Egyezmény azonban nem alkalmazható
+
+*a)* a diplomáciai vagy konzuli tisztviselő által kiállított okiratokra,
+
+*b)* azokra az államigazgatási okiratokra, amelyek közvetlenül a kereskedelmi forgalomra vagy a vámeljárásra vonatkoznak.
+
+*2. cikk*
+
+Mindegyik Szerződő Állam mentesíti a felülhitelesítés kötelezettsége alól a területén felhasználásra kerülő olyan okiratokat, amelyek az Egyezmény hatálya alá esnek. Felülhitelesítésen az Egyezmény alkalmazása szempontjából csupán azt az alakiságot kell érteni, amellyel az okirat felhasználása szerinti ország diplomáciai vagy konzuli tisztviselője igazolja, hogy az aláírás valódi, hogy az aláíró személy milyen minőségben járt el, és – adott esetben –, hogy az okiraton levő pecsét vagy bélyegzőlenyomat valódi.
+
+*3. cikk*
+
+Annak igazolására, hogy az aláírás valódi, hogy az aláíró személy milyen minőségben járt el, és – adott esetben –, hogy az okiraton levő pecsét vagy bélyegzőlenyomat valódi, alakiságként csak azt lehet megkövetelni, hogy az okirat származása szerinti illetékes hatóság kiállítsa a tanúsítványt.
+
+Az előző bekezdésben említett alakiságot azonban nem lehet megkívánni, ha akár az okirat felhasználása szerinti Állam törvényei vagy más jogszabályai vagy az ottani gyakorlat, akár két vagy több Szerződő Állam közötti megállapodás ezt az alakiságot nem kívánják meg, azt egyszerűsítik vagy az okirat felülhitelesítésétől eltekintenek.
+
+*4. cikk*
+
+A 3. cikk első bekezdésében említett tanúsítványt magán az okiraton vagy a túloldalán kell kiállítani; a tanúsítványnak olyannak kell lennie, mint az Egyezményhez csatolt minta.
+
+A tanúsítványt azonban a kiállító hatóság hivatalos nyelvén is meg lehet szövegezni. Az állandó részeket más nyelven is el lehet készíteni. A címet „Apostille (Convention de la Haye du 5 octobre 1961)” francia nyelven kell feltüntetni.
+
+*5. cikk*
+
+A tanúsítvány kiállítását az okirat aláírója vagy birtokosa kérheti.
+
+Ha a tanúsítvány szabályszerűen ki van töltve, bizonyítja az aláírás valódiságát, azt hogy az okiratot aláíró személy milyen minőségben járt el és adott esetben azt, hogy az okiraton levő pecsét vagy bélyegzőlenyomat valódi.
+
+A tanúsítványon levő aláírás és pecsét vagy bélyegzőlenyomat hitelességét nem kell külön igazolni.
+
+*6. cikk*
+
+Mindegyik Szerződő Állam kijelöli azokat a hatóságokat, amelyek a 3. cikk első bekezdése szerinti tanúsítvány kiállítására illetékesek.
+
+A Szerződő Államok a kijelölésről a megerősítő vagy csatlakozási okirat letétbehelyezésekor, illetőleg az Egyezmény hatályának kiterjesztéséről szóló nyilatkozat megtételekor értesítik Hollandia Külügyminisztériumát. A Szerződő Államok Hollandia Külügyminisztériumát arról is értesítik, ha az illetékes hatóságok kijelölésében változás következik be.
+
+*7. cikk*
+
+A 6. cikk szerint kijelölt hatóságok lajstromot vagy kartoték-nyilvántartást vezetnek, s ebben feljegyzik a tanúsítványok kiállítását, különösen
+
+*a)* a tanúsítvány nyilvántartási számát és kiállításának időpontját,
+
+*b)* a közokiratot aláíró személy nevét és azt, hogy milyen minőségben járt el, illetőleg az aláírás nélküli okiratoknál azt a hatóságot, amely az okiratot pecséttel vagy bélyegzőlenyomattal látta el.
+
+A tanúsítványt kiállító hatóság bármely érdekelt kérelmére igazolja, hogy a tanúsítvány adatai megegyeznek a lajstromban, vagy a kartotéknyilvántartásban foglalt adatokkal.
+
+*8. cikk*
+
+Ha két vagy több Szerződő Állam között olyan szerződés, egyezmény vagy megállapodás áll fenn, amely szerint az aláírás, pecsét vagy bélyegzőlenyomat hitelességének igazolásához bizonyos alakszerűségek szükségesek, e rendelkezéseket ez az Egyezmény csak abban az esetben módosítja, ha ezek az alakszerűségek szigorúbbak a 3. és 4. cikkben előírtaknál.
+
+*9. cikk*
+
+Mindegyik Szerződő Állam megteszi a szükséges intézkedéseket annak elkerülése érdekében, hogy a diplomáciai vagy konzuli képviselete olyan esetekben is végezzen felülhitelesítéseket, amelyekben ez az Egyezmény a felülhitelesítés alól mentességet ad.
+
+*10. cikk*
+
+Ez az Egyezmény aláírásra nyitva áll a Hágai Nemzetközi Magánjogi Konferencia kilencedik ülésszakán képviselt államok, valamint Izland, Írország, Liechtenstein és Törökország számára.
+
+Az Egyezményt meg kell erősíteni és a megerősítő okiratokat Hollandia Külügyminisztériumánál letétbe kell helyezni.
+
+*11. cikk*
+
+Ez az Egyezmény a harmadik megerősítő okiratnak a 10. cikk második bekezdésében foglaltak szerinti letétbe helyezésétől számított hatvanadik napon lép hatályba.
+
+Olyan aláíró Államok tekintetében, amelyek az Egyezményt ezt követően erősítik meg, az Egyezmény a megerősítő okiratuk letétbe helyezésétől számított hatvanadik napon lép hatályba.
+
+*12. cikk*
+
+Miután az Egyezmény a 11. cikk első bekezdésének megfelelően hatályba lépett, ahhoz a 10. cikkben nem említett bármelyik Állam csatlakozhat. A csatlakozásról szóló okiratot Hollandia Külügyminisztériumánál letétbe kell helyezni.
+
+A csatlakozás csak a csatlakozó Állam és azok között az Államok között hatályos, amelyek a 15. cikk *d)* pontja szerint kapott értesítéstől számított hat hónapon belül a csatlakozás ellen nem emeltek kifogást. A kifogást Hollandia Külügyminisztériumánál kell bejelenteni.
+
+Az Egyezmény a csatlakozó Állam és a csatlakozás ellen kifogást nem tett Államok között az előző bekezdésben említett hat hónapi határidő elteltével lép hatályba.
+
+*13. cikk*
+
+Bármelyik Állam az aláírás, a megerősítés vagy a csatlakozás alkalmával kijelentheti, hogy az Egyezmény hatályát kiterjeszti azokra a területekre vagy azok egy részére, amelyeknek a nemzetközi kapcsolataikért felelős. E nyilatkozat akkor válik hatályossá, amikor az Egyezmény a nyilatkozatot tevő Államra nézve hatályba lép.
+
+A későbbiek során az ilyen kiterjesztésekről értesíteni kell Hollandia Külügyminisztériumát.
+
+Ha a kiterjesztésről szóló nyilatkozatot olyan Állam tette, amelyik az Egyezményt aláírta és megerősítette, az Egyezmény a szóban forgó területekre a 11. cikknek megfelelően lép hatályba. Ha a kiterjesztésről szóló nyilatkozatot olyan Állam tette, amelyik az Egyezményhez csatlakozott, az Egyezmény a szóban forgó területekre a 12. cikknek megfelelően lép hatályba.
+
+*14. cikk*
+
+Az Egyezmény a 11. cikk első bekezdésének megfelelően történt hatálybalépésétől számított öt évig marad hatályban, mégpedig olyan államok tekintetében is, amelyek az Egyezményt később erősítették meg, vagy ahhoz később csatlakoztak.
+
+Az Egyezmény hatálya hallgatólagosan mindig további öt évre meghosszabbodik, ha felmondás nem történt.
+
+A felmondást legkésőbb hat hónappal az ötéves időtartam lejárta előtt közölni kell Hollandia Külügyminisztériumával.
+
+A felmondást korlátozni lehet olyan meghatározott területekre, amelyekre az Egyezmény hatálya kiterjed.
+
+A felmondás csak arra az Államra vonatkozóan hatályos, amely erről nyilatkozatot tett. Az Egyezmény a többi szerződő Állam tekintetében hatályban marad.
+
+*15. cikk*
+
+A 10. cikkben említett Államokat, valamint a 12. cikk szerint csatlakozott Államokat Hollandia Külügyminisztériuma tájékoztatja a következőkről:
+
+*a)* a 6. cikk második bekezdése szerinti értesítésekről;
+
+*b)* a 10. cikkben említett aláírásokról és megerősítésekről;
+
+*c)* arról a napról, amelyen ez az Egyezmény a 11. cikk első bekezdésének megfelelően hatályba lép;
+
+*d)* a 12. cikk szerinti csatlakozásokról és kifogásokról, valamint arról a napról, amelyen a csatlakozások érvénybe lépnek;
+
+*e)* a 13. cikk szerinti kiterjesztésekről és arról a napról, amelyen ezek érvénybe lépnek;
+
+*f)* a 14. cikk harmadik bekezdésének megfelelő felmondásokról.
+
+Ennek hiteléül a kellően meghatalmazottak ezt az Egyezményt aláírták.
+
+Készült Hágában az 1961. évi október hó 5. napján francia és angol nyelven – eltérés esetén a francia szöveg az irányadó – egyetlen példányban, amelyet Hollandia Kormányánál letétbe helyeznek és amelyről diplomáciai úton hiteles másolatot küldenek a Hágai Nemzetközi Magánjogi Konferencia Kilencedik Ülésszakán képviselt valamennyi Államnak, valamint Izlandnak, Írországnak, Liechtensteinnek és Törökországnak.
+
+*Az Egyezmény melléklete*
+
+A tanúsítvány mintája.
+
+A tanúsítvány négyzet alakú, oldalainak hossza legalább 9 cm.
+
+--------------------------
+
+APOSTILLE
+
+(Convention de la Haye du 5 octobre 1961.)
+
+1\. Ország ...........
+
+Ezt a közokiratot
+
+2\. .................. írta alá
+
+3\. .................. minőségben eljárva
+
+4\. Az okirat ............ pecsétjével (bélyegzőlenyomatával) van ellátva.
+
+Tanúsítja:
+
+5\. ............
+
+(helység)
+
+6\. ............
+
+(időpont)
+
+7\. ............
+
+(kiállító)
+
+8\. ............
+
+(ügyszám)
+
+9\. Pecsét, bélyegzőlenyomat:
+
+................
+
+10\. Aláírás
+
+................”
+
+## 3. §[^4]
+
+(1) Az egyezmény 3. cikkében előírt tanúsítványt (a továbbiakban: tanúsítvány) a (2) bekezdésben foglalt kivétellel
+
+a) az igazságügyért felelős miniszter által vezetett minisztérium, az igazságügyért felelős miniszter felügyelete alatt álló igazságügyi szakértői intézmények, a bíróságok által kiállított okiratok, továbbá az ezekről készített hiteles fordítások tekintetében az igazságügyért felelős miniszter,
+
+b)[^5] a közjegyzők által készített vagy hitelesített okiratok, valamint a közjegyzői levéltáros által kiadott hiteles másolatok, továbbá az ezekről készített hiteles fordítások tekintetében a Magyar Országos Közjegyzői Kamara,
+
+c) más szervek által kiállított okiratok, továbbá az ezekről készített hiteles fordítások tekintetében a külpolitikáért felelős miniszter
+
+állítja ki és erről nyilvántartást vezet.
+
+(2) A konzuli tisztviselő által készített hiteles fordítások tekintetében a tanúsítványt a külpolitikáért felelős miniszter állítja ki.
+
+(3) A tanúsítvánnyal az igazságügyért felelős miniszter az (1) bekezdés a) pontja esetében az igazságügyért felelős miniszter által vezetett minisztérium, az igazságügyért felelős miniszter felügyelete alatt álló igazságügyi szakértői intézmény vezetői, valamint a bíróságok elnökei vagy elnökhelyettesei aláírásának és pecsétjének (bélyegzőlenyomatának) a hitelességét igazolja.
+
+(4) A tanúsítvány az (1) bekezdés a)–c) pontjában meghatározott okiratokról készített hiteles fordítások esetében azt igazolja, hogy a hiteles fordításért felelős szerv vagy személy pecsétje (bélyegzőlenyomata) és a hiteles fordításért felelős személynek vagy szerv vezetőjének az aláírása valódi, továbbá hogy az okiratot aláíró személy milyen minőségben járt el.
+
+(5)[^6] A közjegyzők által készített vagy hitelesített okiratok, valamint a közjegyzői levéltáros által kiadott hiteles másolatok, továbbá az ezekről készített hiteles fordítások felülhitelesítési díja tizenötezer forint, amely a Magyar Országos Közjegyzői Kamarát illeti meg.
+
+(6)[^7] Az egyezmény 7. cikke szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+
+## 4. §
+
+(1) E törvényerejű rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban az 1973. évi január hó 18. napjától kezdve kell alkalmazni.
+
+(2)[^8] E törvényerejű rendelet végrehajtásáról az igazságügyért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
+
+(3)[^9] Felhatalmazást kap a Kormány, hogy a tanúsítvány kiállításának, illetve az egyezményben nem részes államokban felhasználni kívánt közokiratok hitelesítésének a rendjét rendeletben szabályozza.[^10]
+
+(4)[^11] Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben szabályozza a Magyar Országos Közjegyzői Kamara által kiadott tanúsítvány kiadásáért járó igazgatási szolgáltatási díj megfizetését.
+
+---
+
+[^1]: A kihirdetés napja: 1973. május 8.
+[^2]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^3]: Az 1989: XXXI. törvény 38. §-ának (2) bekezdése a Népköztársaság Elnöki Tanácsát megszüntette.
+[^4]: A 3. § a 2008: VIII. törvény 1. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdés b) pontja a 2011: LXVII. törvény 34. §-a szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdése a 2025. évi XCII. törvény 1. §-a szerint módosított szöveg.
+[^7]: A 3. § (6) bekezdését a 2013: LXXXIV. törvény 1. §-a iktatta be.
+[^8]: A 4. § (2) bekezdése a 2006: CIX. törvény 161. § (4) bekezdésének e) pontja, a 2017: L. törvény 3. §-a szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdését a 2008: VIII. törvény 2. §-a iktatta be, szövege a 2017: L. törvény 2. §-ával megállapított szöveg.
+[^10]: Lásd a 468/2017. (XII. 28.) Korm. rendeletet.
+[^11]: A 4. § (4) bekezdését a 2008: VIII. törvény 2. §-a iktatta be, szövege a 2017: L. törvény 2. §-ával megállapított szöveg.

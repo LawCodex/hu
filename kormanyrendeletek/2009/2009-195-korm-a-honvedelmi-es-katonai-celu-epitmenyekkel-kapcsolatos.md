@@ -1,0 +1,341 @@
+---
+title: "195/2009. (IX. 15.) Korm. rendelet a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről"
+identifier: "195/2009. (IX. 15.) Korm. rendelet"
+njt_id: "2009-195-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/195"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-09-15
+in_force_from: 2009-10-01
+last_amended: 2026-01-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-195-20-22"
+retrieved: 2026-10-12
+---
+
+# 195/2009. (IX. 15.) Korm. rendelet a honvédelmi és katonai célú építményekkel kapcsolatos építésfelügyeleti tevékenységről
+
+A Kormány az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés l) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §[^1]
+
+E rendeletet alkalmazni kell a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló kormányrendeletben meghatározott, valamint a nemzetbiztonsági célú és rendeltetésű építmények körében, az építőipari kivitelezési tevékenység
+
+a) megkezdésére irányuló bejelentési eljárásra,
+
+b) végzésének ellenőrzésére,
+
+c) résztvevőinek ellenőrzésére, és
+
+d) végzésével kapcsolatban megindult építésfelügyeleti hatósági eljárások lefolytatására.
+
+### 1/A. §[^2]
+
+E kormányrendelet alkalmazásában saját célú építőipari kivitelezési tevékenység: kiképzés vagy szakfeladat-végrehajtás keretében, honvédelmi és katonai célú ingatlanon rendszeresített technikai eszközzel és állománnyal végrehajtott honvédelmi és katonai célú építmény létrehozására irányuló építési tevékenység.
+
+## A katonai építésfelügyeleti hatóság kijelölése
+
+### 2. §
+
+(1)[^3] A Kormány az e rendelet hatálya alá tartozó építmények tekintetében az építőipari kivitelezési tevékenységgel kapcsolatos építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel első fokon a honvédelemért felelős minisztert (a továbbiakban: katonai építésfelügyeleti hatóság) jelöli ki.
+
+(2) A katonai építésfelügyeleti hatóság a hatósági jogkörének gyakorlása során csak a jogszabályoknak van alárendelve, a közigazgatási hatósági eljárás során, valamint a közigazgatási hatósági ügyben hozandó döntésében nem utasítható.
+
+## Építésfelügyeleti ellenőrzés
+
+### 3. §[^4]
+
+Az építésfelügyeleti ellenőrzés célja a kivitelezési tevékenység során felhasznált építési célú termékek, építési módszerek, eljárások használatának, valamint az építésügyi hatósági engedélyben, a magyar építészetről szóló törvényben, a településrendezési és építési követelményekről szóló kormányrendeletben, a helyi építési szabályzatban és szabályozási tervben, továbbá a NATO szabványokban, illetve egyéb jogszabályokban megfogalmazott követelmények teljesülésének ellenőrzése.
+
+### 4. §
+
+(1)[^5] A katonai építésfelügyeleti hatóság évente február 15-ig ellenőrzési tervet ad ki, amelyben
+
+a) meghatározza
+
+aa) az építésfelügyeleti célvizsgálatok szempontrendszerét,
+
+ab) azokat a honvédelmi és katonai célú beruházásokat és építőipari kivitelezési tevékenységeket, amelyeknél – a 6. § szerinti közreműködők bevonásával – összevont építésfelügyeleti ellenőrzést kell tartani, valamint
+
+b) utóvizsgálati ellenőrzést ír elő azoknál a még folyamatban lévő építőipari kivitelezési tevékenységeknél, amelyeknél a katonai építésfelügyeleti hatóság az építésfelügyeleti ellenőrzés során szabálytalanságot állapított meg.
+
+(2)[^6]
+
+### 5. §
+
+(1) Az építőipari kivitelezési tevékenység helyszíni ellenőrzését a katonai építésfelügyeleti hatóság két építésfelügyelője egyidejűleg végzi.
+
+(2)[^7] Az építésfelügyelő az ellenőrzési jogosultságát a helyszíni ellenőrzés megkezdésekor építésfelügyelői igazolvány felmutatásával köteles igazolni.
+
+(3)[^8] A katonai építésfelügyeleti igazolványt a Magyar Honvédség központi nyilvántartó szerve állítja ki. A katonai építésfelügyeleti igazolványok kezelésére, illetve kiadására a honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló miniszteri rendelet szabályait kell megfelelően alkalmazni.
+
+### 6. §
+
+(1) A katonai építésfelügyeleti hatóság szükség esetén más – ellenőrzésre jogosult – hatósággal vagy szervezettel közös ellenőrzést kezdeményez.
+
+(2) A katonai építésfelügyeleti hatóság hatósági eljárása során építésügyi műszaki szakértőt, illetve minőségellenőrző szervet rendelhet ki szakértőként.
+
+### 7. §
+
+A katonai építésfelügyeleti hatóság ellenőrzi, hogy
+
+a) az építtető – a jogszabályban meghatározott esetekben és módon – bejelentette-e az építőipari kivitelezési tevékenység megkezdését, illetve az építőipari kivitelezési tevékenység végzését a katonai építésfelügyeleti hatóság nem tiltotta-e meg,
+
+b) az építőipari kivitelezési tevékenység résztvevői a kivitelezési tevékenység során közreműködnek-e, és a kivitelezési tevékenység jellegének megfelelő képesítéssel, jogosultsággal rendelkeznek-e,
+
+c) az építés helyszínén az építési napló a jogszabályban meghatározottak szerint rendelkezésre áll-e, azt a jogszabályoknak megfelelő módon és tartalommal vezetik-e,
+
+d) az építőipari kivitelezési tevékenység az építési engedélyezési és kivitelezési dokumentáció alapján, a kivitelezésre vonatkozó jogszabályokban, illetve a szakmai és biztonsági előírásokban foglaltak megtartásával történik-e, ennek keretében különösen az építmény szerkezetére, a kivitelezés módszerére és technológiájára, valamint az építési és bontási hulladék elhelyezésére vonatkozó követelményeket betartották-e,
+
+e) az építményekre, építési termékek (anyagok, szerkezetek, berendezések) módszerek és eljárások műszaki követelményeire és alkalmazására vonatkozó jogszabályokat, NATO-szabványokat, előírásokat és engedélyekben foglalt követelményeket az építési munka végzése során megtartották-e,
+
+f) a felhasznált építési termékek rendelkeznek-e érvényes megfelelőség igazolással, a megfelelőség igazolást az arra jogosult szervezet állította-e ki, és teljesíti-e a külön jogszabály előírásait,
+
+g) az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint az építési szerződésre és a tervezési szerződésre vonatkozó előírások teljesültek-e.
+
+### 8. §
+
+(1)[^9] A katonai építésfelügyeleti hatóság helyszíni ellenőrzéséről felvett jegyzőkönyv, az általános közigazgatási rendtartásról szóló törvényben meghatározottakon kívül tartalmazza
+
+a) az építési engedély számát, keltét,
+
+b) a kivitelezés bejelentési kötelezettségének teljesítését,
+
+c) az építési tevékenység építési engedélynek történő megfelelőségére és az építési napló vezetésének jogszabálynak történő megfelelőségére vonatkozó megállapítást,
+
+d) az építési munka készültségi fokát,
+
+e) a fényképfelvételek darabszámát,
+
+f) az ellenőrzés megállapításai alapján kezdeményezett intézkedést.
+
+(2)[^10] A katonai építésfelügyeleti hatóság a jegyzőkönyv egy példányát az építési naplóhoz csatolja, a másik példány a hatósági ügyirat része.
+
+(3)[^11] Az elektronikus építési naplóba a minősített adatot tartalmazó tervdokumentációt és műszaki leírást nem kell feltölteni, azokat papír alapon kell a helyszíni ellenőrzés során a katonai építésfelügyeleti hatóság rendelkezésére bocsátani.
+
+## Az építőipari kivitelezési tevékenység megkezdésére irányuló bejelentés
+
+### 9. §[^12]
+
+(1) A katonai építtető a kivitelezés megkezdése előtt tizenöt nappal a katonai építésfelügyeleti hatóságnál köteles bejelenteni a katonai elektronikus építési napló készenlétbe helyezésével
+
+a) az építési engedélyhez kötött,
+
+b) az építési szerződés szerinti nettó 10 millió forintot meghaladó és
+
+c) a saját célú
+
+építőipari kivitelezési tevékenység megkezdését.
+
+(2) A saját célú építőipari kivitelezési tevékenység az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározott kivitelezési dokumentáció alapján végezhető.
+
+## Építésfelügyeleti intézkedések
+
+### 11. §
+
+(1)[^14] Az építésfelügyeleti ellenőrzés lefolytatása során feltárt, a katonai építésfelügyeleti hatóság hatáskörébe nem tartozó szabálytalanságokat is építési naplóban kell rögzíteni. A katonai építésügyi hatóság a bejegyzés másolatának és az egyéb bizonyítékok megküldésével kezdeményezi a hatáskörrel és illetékességgel rendelkező hatóság eljárását.
+
+(2)[^15] A katonai építésfelügyeleti hatóság a 7. § szerinti ellenőrzést az építmény használatbavételi engedélyének véglegessé válásáig indíthat.
+
+(3)[^16]
+
+### 12. §
+
+(1) Az építésfelügyeleti hatósági eljárásban a tervező, a tervellenőr, a felelős műszaki vezető, az építési műszaki ellenőr, a beruházáslebonyolító és a vállalkozó (alvállalkozó) kivitelező ügyfélnek minősül, ha a katonai építésfelügyeleti hatóság döntését ezen személyek feladat- és felelősségi körébe tartozó tevékenység alapozta meg.
+
+(2)[^17] Az engedélyhez vagy bejelentéshez kötött tevékenységet végző személy kötelezésekor és bírságolásakor a katonai építésfelügyeleti hatóság a végleges és végrehajtható döntése egyidejű megküldésével az engedélyező, illetve a bejelentés alapján vezetett névjegyzéket vezető szervnél a külön jogszabály szerinti eljárást kezdeményezi.
+
+(3)[^18] Ha a kivitelezési dokumentáció tervezőjének nyilatkozata hiányzik, illetve nem felel meg az építőipari kivitelezési tevékenységről szóló kormányrendeletben foglaltaknak, vagy tartalma valótlan, illetve ha a tervező által készített kivitelezési dokumentáció szakszerűtlen vagy tartalma valótlan, akkor a katonai építésfelügyeleti hatóság eljárást kezdeményez a tervezői jogosultságról névjegyzéket vezető szervnél.
+
+## Nemzetbiztonsági és titokvédelmi követelmények
+
+### 13. §
+
+(1)[^19]
+
+(2) A 6. § (1) és (2) bekezdés szerinti közreműködés során a minősített dokumentáció védelméhez szükséges fizikai biztonsági feltételek hiányában a dokumentumokba történő betekintésre és tervegyeztetésre a katonai építésfelügyeleti hatóság hivatalos helyiségében kerülhet sor.
+
+## Az építésfelügyeleti hatósági nyilvántartások
+
+### 14. §
+
+(1) A katonai építésfelügyeleti hatósági nyilvántartások vezetésének szabályaira a honvédelmi és katonai célú építmények építésügyi hatósági nyilvántartásaira vonatkozó szabályok az irányadók.
+
+(2) A katonai építésfelügyeleti hatóság nyilvántartást vezet
+
+a)[^20]
+
+b) a 3. melléklet szerinti adattartalommal az építésfelügyeleti hatósági ellenőrzésekről,
+
+c) a 4. melléklet szerinti adattartalommal a kiszabott építésfelügyeleti bírságokról és azok behajtásáról.
+
+## Működési feltételek
+
+### 15. §
+
+(1)[^21] A katonai építésfelügyeleti hatósághoz tartozó – kormánytisztviselői, hivatásos és szerződéses katonai – létszámot úgy kell meghatározni, hogy a hatósági tevékenység folyamatos végzése biztosított legyen.
+
+(2)[^22] A katonai építésfelügyeleti ellenőrzési tevékenységet, az építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó építésfelügyelő foglalkoztatási feltétele
+
+a)[^23] kormánytisztviselő esetén az építésügyi hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben foglalt alkalmazási feltételek teljesítése,
+
+b) hivatásos és szerződéses állományú katona esetén
+
+ba) a Magyar Honvédség egyes beosztásaihoz kapcsolódó munkaköri követelményekről szóló miniszteri rendeletben foglaltak, valamint
+
+bb) három év szakmai gyakorlat teljesítése.
+
+(3) A katonai építésfelügyeleti hatóság hivatásos és szerződéses állományú tagjának a szakmai gyakorlati idejeként az
+
+a) építési műszaki ellenőri,
+
+b) felelős műszaki vezetői,
+
+c) építőipari kivitelezési,
+
+d) építésügyi hatósági,
+
+e) építésfelügyeleti,
+
+f) beruházói-műszaki (projekt menedzseri),
+
+g) felsőoktatási intézményben építészeti-műszaki szaktárgy-oktatói,
+
+h) építészeti-műszaki tervezési,
+
+i) építésügyi műszaki szakértői,
+
+j) katonai elhelyezési vagy ingatlankezelési
+
+tevékenység folytatásának időtartamát kell figyelembe venni.
+
+### 16. §
+
+A katonai építésfelügyeleti hatósági tevékenység minimális technikai feltételeit az 5. melléklet határozza meg.
+
+## Záró rendelkezések
+
+### 17. §
+
+(1) Ez a rendelet 2009. október 1-jén lép hatályba.
+
+(2) E rendelet rendelkezéseit – az építőipari kivitelezési tevékenység megkezdésének bejelentési kötelezettsége kivételével – a rendelet hatálybalépése idején már folyamatban lévő építőipari kivitelezési tevékenységek esetében is alkalmazni kell.
+
+## 1. melléklet a 195/2009. (IX. 15.) Korm. rendelethez[^24]
+
+## 2. melléklet a 195/2009. (IX. 15.) Korm. rendelethez[^25]
+
+## 3. melléklet a 195/2009. (IX. 15.) Korm. rendelethez
+
+**Az építésfelügyeleti hatósági ellenőrzések nyilvántartásának adattartalma**
+
+1\. Az építmény rendeltetése és azonosítója,
+
+2\. az építési helyszín adatai (címe, helyrajzi száma, a használó katonai szervezet megnevezése),
+
+3\. az építtető adatai (megnevezése, címe),
+
+4.[^26] az építésügyi hatósági engedély száma, kelte, véglegessé válása, ennek hiányában e tény rögzítése,
+
+5.[^27]
+
+6.[^28]
+
+7.[^29]
+
+8.[^30]
+
+9\. az építésügyi hatósági engedély tárgya (rövid leírás).
+
+## 4. melléklet a 195/2009. (IX. 15.) Korm. rendelethez
+
+**Az építésfelügyeleti bírság nyilvántartásának adattartalma**
+
+1\. Az építmény rendeltetése és azonosítója,
+
+2\. az építési helyszín adatai (címe, helyrajzi száma, a használó katonai szervezet megnevezése),
+
+3\. az építtető adatai (megnevezése, címe),
+
+4.[^31] az építésügyi hatósági engedély száma, kelte, véglegessé válása, ennek hiányában e tény rögzítése,
+
+5\. a megbírságolt neve (megnevezése), a kivitelezési tevékenységben vállalt szerepe (építtető, kiviteli terv készítője, kivitelező, felelős műszaki vezető, építési műszaki ellenőr), címe,
+
+6.[^32] a bírságot kiszabó első fokú határozat száma, kelte, végleges és végrehajthatóvá válás kelte, a bírság összege, befizetés határideje,
+
+7\. a másodfokon eljárt hatóság megnevezése, másodfokú határozat száma, kelte, eredménye,
+
+8\. a bírósági felülvizsgálat esetén a határozat száma, kelte, eredménye,
+
+9\. az egyösszegű befizetési határidőt módosító végzés száma, kelte, új befizetési határidő,
+
+10\. a befizetés kelte,
+
+11\. végrehajtás elrendelése (végzés száma, kelte),
+
+12\. behajtás kelte,
+
+13\. a végrehajtási eljárás megszüntetés végzés száma, kelte, oka (elévülés, felszámolás, kötelezett jogutód nélküli megszűnése, behajthatatlanság, egyéb).
+
+## 5. melléklet a 195/2009. (IX. 15.) Korm. rendelethez
+
+**A katonai építésfelügyeleti hatóság tevékenységének minimális technikai feltételei**
+
+1\. A kor színvonalának megfelelő mobil számítógép konfiguráció (hordozható személyi számítógép, hordozható nyomtató, 12V/220V inverter, elektronikus jogtár) – 2 építésfelügyelőnként 1 db,
+
+2\. kézi GPS navigációs rendszer – 2 építésfelügyelőnként 1 db,
+
+3\. a kor színvonalának megfelelő irodai számítógép konfiguráció (minimum 17” színes LCD monitor, lézernyomtató, elektronikus jogtár) – építésfelügyelőnként 1 db,
+
+4\. nagyteljesítményű irodai fénymásoló – 1 db,
+
+5\. színes nyomtató – 1 db,
+
+6\. digitális fényképezőgép – 2 építésfelügyelőnként 1 db,
+
+7\. mérőszalag – építésfelügyelőnként 1 db,
+
+8\. szintezőműszer – 1 db,
+
+9\. kézi lézertávmérő – 2 építésfelügyelőnként 1 db,
+
+10\. gépkocsi – 2 db,
+
+11\. a munkavégzéshez szükséges (külön jogszabály szerinti) egyéni védőeszköz – építésfelügyelőnként 1 klt.
+
+---
+
+[^1]: Az 1. § nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 330/2019. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § (1) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^4]: A 3. § a 409/2022. (X. 24.) Korm. rendelet 7. §-a, a 285/2024. (IX. 30.) Korm. rendelet 56. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés nyitó szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 78. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (2) bekezdését a 330/2019. (XII. 20.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 261. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: Az 5. § (3) bekezdése a 313/2024. (XI. 4.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 8. § (1) bekezdése a 330/2019. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 8. § (2) bekezdése a 330/2019. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 8. § (3) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 46. §-a iktatta be.
+[^12]: A 9. § a 330/2019. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 260. § a) pontja, a 330/2019. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^15]: A 11. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 11. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 261. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 12. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 260. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 12. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 261. § d)–e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 13. § (1) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^20]: A 14. § (2) bekezdés a) pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^21]: A 15. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 15. § (2) bekezdés nyitó szövegrésze a 436/2025. (XII. 23.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^23]: A 15. § (2) bekezdés a) pontja a 290/2011. (XII. 22.) Korm. rendelet 89. § (4) bekezdése, a 285/2024. (IX. 30.) Korm. rendelet 57. §-a szerint módosított szöveg.
+[^24]: Az 1. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 261. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A 2. mellékletet a 330/2019. (XII. 20.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^26]: A 3. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: A 3. mellékle 5. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^28]: A 3. mellékle 6. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^29]: A 3. mellékle 7. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^30]: A 3. mellékle 8. pontját a 330/2019. (XII. 20.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^31]: A 4. melléklet 4. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^32]: A 4. melléklet 6. pontja a 457/2017. (XII. 28.) Korm. rendelet 260. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

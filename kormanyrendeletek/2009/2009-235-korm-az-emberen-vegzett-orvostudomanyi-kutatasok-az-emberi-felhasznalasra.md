@@ -1,0 +1,1236 @@
+---
+title: "235/2009. (X. 20.) Korm. rendelet az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól"
+identifier: "235/2009. (X. 20.) Korm. rendelet"
+njt_id: "2009-235-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2009/Korm/235"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2009-10-20
+in_force_from: 2009-10-22
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2009-235-20-22"
+retrieved: 2026-10-12
+---
+
+# 235/2009. (X. 20.) Korm. rendelet az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól
+
+Az egészségügyről szóló 1997. évi CLIV. törvény 246. § b) pontjában és 247. § (1) bekezdés u) pontjában, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában foglalt feladatkörében eljárva, az egészségügyi államigazgatási szerv kijelölése tekintetében az Alkotmány 35. § (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (3) bekezdésében foglalt feladatkörében eljárva, valamint az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdésében foglalt felhatalmazás alapján a Kormány a következőket rendeli el:
+
+##### 1. §
+
+(1)[^1] E rendelet előírásait kell alkalmazni minden, az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 157. §-a szerinti emberen végzett orvostudományi kutatás (a továbbiakban: kutatás) engedélyezésére, illetve bejelentésére.
+
+(2) Az 1. cím rendelkezései irányadóak valamennyi, a (3) bekezdésen kívüli orvostudományi kutatás engedélyezésére.
+
+(3)[^2] Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálat engedélyezésére a 2. cím, az orvostechnikai eszközökkel kapcsolatos klinikai vizsgálatokra, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokra a 3. cím rendelkezései irányadóak.
+
+##### 1/A. §[^3]
+
+E rendelet alkalmazásában az intézményi kutatásetikai bizottság (a továbbiakban: IKEB) olyan független bizottság, amelyet minden olyan egészségügyi intézményben létre kell hozni, ahol e rendelet hatálya alá tartozó kutatást végeznek, és amely jogosult annak figyelemmel kísérésére, hogy az engedélyezett és etikai szempontból elfogadott kutatás megvalósítása során biztosítottak-e a személyi és tárgyi feltételek, és betartják-e a kutatási tervben foglalt előírásokat, etikai követelményeket, különös tekintettel a kutatásba bevontak védelmére. Ha a kutatást végző egészségügyi szolgáltató nem fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, az adott kutatás tekintetében a vizsgálatot végző egészségügyi szolgáltató székhelye szerint illetékes IKEB-et a Regionális Kutatásetikai Bizottság jelöli ki a kutatás vezetőjének bejelentése alapján.
+
+## 1. CÍM — AZ EMBEREN VÉGZETT ORVOSTUDOMÁNYI KUTATÁSOK ENGEDÉLYEZÉSE, ILLETVE BEJELENTÉSE[^4]
+
+##### 2. §
+
+Ezen cím alkalmazásában
+
+a) *több központban végzett kutatás:* azonos kutatási terv alapján, de egynél több kutatási helyszínen végzett kutatás;
+
+b) *résztvevő:* az a személy, aki a kutatás alanyaként részt vesz a kutatásban, ideértve a kontrollcsoport tagját is;
+
+c) *kutatásvezető:* a kutatás szakmai irányítását végző személy;
+
+d)[^5] *megbízó:* bármely természetes vagy jogi személy, aki vagy amely a kutatást kezdeményezi, vezeti, illetve finanszírozza, azzal, hogy a kutatásvezető és a megbízó lehet ugyanaz a személy is;
+
+e)[^6] *etikai bizottság:* az Egészségügyi Tudományos Tanács Tudományos és Kutatásetikai Bizottsága (a továbbiakban: ETT TUKEB), valamint az Egészségügyi Tudományos Tanács Humánreprodukciós Bizottsága (a továbbiakban: ETT HRB);
+
+f) *regionális etikai bizottság:* az Eütv. 159. § (6) bekezdésében foglaltak szerint összeállított, külön jogszabályban meghatározott egészségügyi intézményekben működő Regionális Kutatásetikai Bizottság (RKEB);
+
+g)[^7]
+
+#### A kutatás engedélyezése
+
+##### 3. §
+
+(1)[^8] A kutatást az országos tisztifőorvos (ezen alcím alkalmazásában a továbbiakban: engedélyező) az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben meghatározottak szerinti – a közigazgatási hatósági eljárásokban közreműködő szakhatóságok kijelölését meghatározó jogszabály szerinti feladatmegosztásnak megfelelő – etikai bizottság szakhatósági állásfoglalása vagy a 6. § szerinti regionális etikai bizottság szakvéleménye alapján engedélyezi. A kiadott engedélyekről, az engedélyezett kutatásokról és kutatási helyekről az engedélyező nyilvántartást vezet.
+
+(2)[^9]
+
+(3)[^10] A kutatási engedély iránti kérelmet a kutató, a kutatásvezető vagy a megbízó (e cím alkalmazásában a továbbiakban együtt: kérelmező) az elektronikus ügyintézési felületen keresztül köteles benyújtani.
+
+(4)[^11] Több központban végzett kutatásra egy engedélyt kell kiadni.
+
+##### 3/A. §[^12]
+
+(1) A kutatási engedély iránti kérelemnek tartalmaznia kell
+
+a) a kutatás megnevezését,
+
+b) a megbízó nevét, székhelyét, magyarországi képviselőjét, annak címét,
+
+c) a kutatásban részt vevő egészségügyi szolgáltató(k) nevét, székhelyét,
+
+d) a kutatás vezetőjének és a kutatásban közreműködő munkatársak nevét, munkakörét,
+
+e) a kutatás célját,
+
+f) a kutatás kezdetének időpontját és várható időtartamát,
+
+g) annak megjelölését, hogy egy vagy több központban végzett kutatást terveznek, több központban végzett kutatás esetén a tervezett kutatási helyszínek felsorolását.
+
+h)[^13] nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezésére irányuló kérelem esetén – az a)–g) pontban foglaltakon túl – azokat a kutatási célokat, illetve várt eredményeket, amelyek alapján a kérelmező az Eütv. 3/A. § g) pontja szerinti kutatásként történő engedélyezést kéri,
+
+i)[^14] nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezésére irányuló kérelem esetén – az a)–h) pontban foglaltakon túl – a kérelmező
+
+ia) elektronikus információs rendszer biztonságáért felelős személy kijelölésére,
+
+ib) információbiztonsági szabályzat elkészítésére, valamint
+
+ic) az adatátadásban és adatkezelésben érintett elektronikus információs rendszerek biztonsági osztályhoz kapcsolódó védelmi intézkedésekre
+
+vonatkozó nyilatkozatát.
+
+(2)[^15] A kérelemhez az elektronikus ügyintézői felületen keresztül csatolni kell
+
+a) a kutatási tervet,
+
+b) a kutatás vezetőjének szakmai önéletrajzát,
+
+c) a kutatásban részt vevők számára az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben meghatározott tartalmú írásos tájékoztató tervezetét,
+
+d) a kutatásban részt vevő személyek beleegyező nyilatkozatának tervezetét,
+
+e) a kutatással összefüggésben felmerülő többletköltségekre vonatkozó költségbecslést,
+
+f) a kutatást végző intézménynek az Eütv. 164. § (2) bekezdése szerinti felelősségbiztosítási szerződéséről szóló, a biztosító által kibocsátott igazolást,
+
+g) az egyedi adatlap tervezetét, amelyen minden olyan adatot, tényt, eseményt fel kell tüntetni, ami a kutatással összefügg, illetve a kutatás kimenetelét befolyásolhatja,
+
+h) nyilatkozatot a kutatás vezetőjének és a kutatásban közreműködők díjazásáról.
+
+(3) A kutatási terv tartalmazza
+
+a)[^16] a kutatás céljának, indokoltságának, illetve a várt eredménynek a részletes leírását – nemzetstratégiai jelentőségű orvostudományi kutatásként engedélyezni kívánt kutatás esetében annak bemutatását is, hogy a kutatás célja és várt eredményei miként felelnek meg az Eütv. 3/A. § g) pontjában foglalt feltételeknek –,
+
+b) a kutatás tudományos megalapozottságát, indokoltságát alátámasztó irodalmi hivatkozások megjelölését,
+
+c) a részt vevők toborzásának, beválasztásának, kizárásának kritériumrendszerét,
+
+d) a kutatásba bevonni kívánt résztvevők számát (összesen és kutatóhelyenként), nemét, életkorát,
+
+e) a kutatás módszerének, az alkalmazott beavatkozásoknak ismertetését,
+
+f) a kedvezőtlen események és a súlyos nemkívánatos események leírását, a bekövetkezésük esetén követendő eljárást,
+
+g) a résztvevők személyes és egészségügyi adatainak kezelésével kapcsolatos intézkedéseket,
+
+h) a kutatás során nyert adatok statisztikai feldolgozásának módszerét,
+
+i) a kutatás vezetőjének nyilatkozatát arról, hogy a kutatási terv összeállítása a hatályos jogszabályokban és az Orvosok Világszövetsége által elfogadott Helsinki Nyilatkozatában foglaltaknak megfelelően történt.
+
+(4) A (3) bekezdés a)–h) pontjában szereplő adatok közérdekű adatnak minősülnek. A kutatási terv engedélyezésénél és elfogadhatóságának véleményezésénél nem minősül közérdekű adatnak a kutatási tervre vonatkozó tudományos munkahipotézis, és különösen a gyógyszerkutatás esetén a preklinikai vizsgálatok eredménye. Ezek az adatok kizárólag a hatóság, illetve etikai bizottság számára hozzáférhetőek.
+
+##### 4. §
+
+Az engedélyező a kérelmet és a benyújtott dokumentációt értékeli. Ennek során – az adott kutatás jellegének megfelelően – dönt
+
+a) a kutatást végző személyi és tárgyi feltételeinek megfelelőségéről,
+
+b) a külön jogszabály szerinti felelősségbiztosítás megfelelőségéről,
+
+c) arról, hogy a kutatásban résztvevők személyes adatainak kezelése, valamint az azok megismerésére jogosultak köre megfelel-e a kutatás követelményeinek,
+
+d)[^17] nemzetstratégiai jelentőségű orvostudományi kutatás engedélyezésére irányuló kérelem esetén az Eütv. 3/A. § g) pontjában és 158/A. § (7) bekezdésében foglaltakról, továbbá
+
+e)[^18] arról, hogy a tervezett kutatás az Eütv.-ben meghatározott feltételeknek megfelel-e.
+
+##### 5. §[^19]
+
+(1) Az engedélyező abban a kérdésben, hogy
+
+a) a kérelem szerinti kutatási tevékenység az Eütv. 3/A. § g) pontjában foglalt nemzetstratégiai jelentőségű orvostudományi kutatásnak minősül-e, az egészségügyért felelős miniszter útján a tudománypolitika koordinációjáért felelős miniszter véleményét,
+
+b) az Eütv. 158/A. § (7) bekezdés b) pontja szerinti szerv véleményét az ott meghatározott kérdésben és
+
+c) az Eütv. 158/A. § (7) bekezdés c) pontja szerinti szerv szakhatósági állásfoglalását
+
+kikéri.
+
+(2) Az (1) bekezdés c) pontja szerinti kérdésben a szakhatóság a kutatási engedély kérelmezőjének nyilatkozata alapján értékeli a Magyarország kiberbiztonságáról szóló törvényben meghatározott,
+
+a) elektronikus információs rendszer biztonságáért felelős személy kijelölésére és
+
+b) információbiztonsági szabályzat elkészítésére
+
+vonatkozó kötelezettséget, valamint
+
+c) az adatátadásban és adatkezelésben érintett elektronikus információs rendszerek biztonsági osztályhoz kapcsolódó védelmi intézkedéseket.
+
+(3) Ha az (1) bekezdés a) pontja szerint megkeresett szerv határidőn belül nem tesz eleget a megkeresésnek, úgy kell tekinteni, hogy a kérelem szerinti tevékenységgel és adatkezeléssel kapcsolatban nem tesz észrevételt.
+
+(4) Nincs helye az (1) bekezdés b) és c) pontja szerinti szerv, valamint az illetékes etikai bizottság megkeresésének, ha az (1) bekezdés a) pontja szerinti szerv véleménye szerint a kérelem szerinti kutatási tevékenység nem minősül az Eütv. 3/A. § g) pontjában foglalt, nemzetstratégiai jelentőségű orvostudományi kutatási tevékenységnek.
+
+(5) Ha az (1) bekezdés c) pontja szerinti szerv szakhatósági állásfoglalása szerint az adatátadás és adatkezelés a kiberbiztonsági követelményekkel nem áll összhangban, a nemzetstratégiai jelentőségű orvostudományi kutatásra engedély nem adható.
+
+##### 6. §
+
+Azon kutatások esetében, ahol az engedélyezés során nem az ETT TUKEB, illetve az ETT HRB jár el szakhatóságként, az engedélyező az illetékes regionális etikai bizottság véleményének figyelembevételével dönt. A regionális etikai bizottságok illetékességi területét az emberen végzett orvostudományi kutatásokról szóló külön jogszabály tartalmazza.
+
+##### 7. §
+
+Az etikai bizottság szakhatósági állásfoglalásában állást foglal a kutatási engedély iránti kérelemben megjelölt kutatás jellegének megfelelően
+
+a) a kutatás indokoltságáról, tudományos megalapozottságáról,
+
+b) a kutatás etikai megfelelőségéről, illetve meg nem feleléséről,
+
+c) arról, hogy a kutatási terv alapján a résztvevők mindegyike megkapja-e az egészségi állapota által indokolt egészségügyi ellátást,
+
+d) a várható előnyök és kockázatok előzetes becslésének megfelelőségéről, a résztvevőket fenyegető kockázatok és a kutatás várható eredményének arányosságáról,
+
+e)[^20] a kutatás vezetőjének szakmai alkalmasságáról és etikai megfelelőségéről,
+
+f) az írásos tájékoztató megfelelőségéről, teljeskörűségéről,
+
+g) a beleegyező nyilatkozat megfelelőségéről,
+
+h) az esetleges placebo csoport alkalmazásának indokoltságáról,
+
+i) a kutatásban résztvevők számára fizetendő költségtérítés megfelelőségéről,
+
+j) a kutatásban résztvevők toborzásának és beválasztásának módjáról és feltételeiről, a toborzás szükségességének indokolásáról, a felhívás tervezett szövegéről, illetve mindezek megfelelőségéről,
+
+k) a kutatás során nyert adatok statisztikai feldolgozási módszerének megfelelőségéről,
+
+l)[^21] ha a kutatást állapotos, szabadságában korlátozott (Eütv. 161. §), korlátozottan cselekvőképes kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott nagykorú vagy cselekvőképtelen személyen is végzik, ezek bevonásának indokoltságáról és érdekeik védelmének megfelelőségéről,
+
+m) a kutatás vezetőjének és a kutatásban közreműködők díjazásának megfelelőségéről,
+
+n) arról, hogy a várható kockázatot a várható terápiás előny meghaladja-e.
+
+##### 8. §
+
+A 6. § szerinti kutatás engedélyezési eljárása során a regionális etikai bizottság véleményét a 7. §-ban foglalt szempontokra figyelemmel alakítja ki.
+
+##### 9. §
+
+(1) Az engedélyező határozata – a kutatás jellegének megfelelően – a következőket tartalmazza:
+
+a) a kutatás azonosító adatait, a kutatás címét, számát,
+
+b) a kutatás anyagi fedezetét biztosító megbízó megnevezését, székhelyét, magyarországi képviselőjének nevét, címét,
+
+c) a kutatásban résztvevő intézmény (intézmények) nevét, székhelyét (telephelyét), típusát,
+
+d) a kutatásvezető nevét,
+
+e) a kutatás várható időtartamát,
+
+f) a kutatásba bevonni tervezett résztvevők számát, nemét, életkorát, több központban végzett kutatás esetén összesen és kutatóhelyenként külön-külön is.
+
+(2)[^22] Az engedélyező határozatát elektronikus úton megküldi
+
+a) a kérelmező biztonságos kézbesítési szolgáltatásnak minősülő tárhelyére,
+
+b) az eljáró etikai, illetve regionális etikai bizottság hivatalos elektronikus elérhetőségére,
+
+c) az egészségbiztosítási szerv hivatalos elektronikus elérhetőségére.
+
+d)[^23] nemzetstratégiai jelentőségű orvostudományi kutatás esetén az Eütv. 158/A. (7) bekezdés a)–c) pontjában meghatározott véleményezők és szakhatóság hivatalos elektronikus elérhetőségére.
+
+(3) A kérelmező a határozatról értesíti az illetékes IKEB-et, a kutatást végző intézmény vezetőjét és – amennyiben a kérelmező nem azonos a kutatásvezetővel – a kutatásvezetőt.
+
+#### Stratégiai Kutatási Bizottság[^24]
+
+##### 9/A. §
+
+(1) Az Eütv. 158/B. §-a szerinti Stratégiai Kutatási Bizottság (a továbbiakban: Bizottság) tagjai
+
+a) a tudománypolitika koordinációjáért felelős miniszter,
+
+b) az egészségügyért felelős miniszter, valamint
+
+c) az informatikáért felelős miniszter.
+
+(2) A Bizottság elnöke a tudománypolitika koordinációjáért felelős miniszter. A Bizottság elnökét távollétében vagy akadályoztatása esetén teljes jogkörrel a vezetése alatt álló minisztérium állományába tartozó, általa kijelölt személy helyettesíti. A Bizottság más tagját távollétében vagy akadályoztatása esetén teljes jogkörrel a tag által a vezetése alatt álló minisztérium személyi állományába tartozó személyek közül kijelölt személy helyettesíti.
+
+(3) A Bizottság a nemzetstratégiai jelentőségű orvostudományi kutatási engedély iránti kérelemmel kapcsolatos véleménye kialakítása során azt vizsgálja, hogy
+
+a) a kérelemben foglalt nemzetstratégiai jelentőségű orvostudományi kutatási tevékenység, valamint az azzal összefüggő adatkezelés és adattovábbítás összhangban áll-e a nemzeti adatvagyon hatékony és eredményes hasznosítását célzó kormányzati adatpolitika célkitűzéseivel,
+
+b) a kérelmező adatkezelése esetében adottak-e azok a garanciák és feltételek, amelyek kizárják az adatokhoz való jogosulatlan hozzáférést, az adatok illetéktelen személyek általi megismerését, jogellenes megsemmisítését, megváltoztatását, elvesztését és jogosulatlan nyilvánosságra hozatalát, valamint
+
+c) a kutatás össztársadalmi szinten támogatja-e a tudományos kutatások eredményességének előmozdítására irányuló nemzeti egészségügyi adatvagyon-hasznosítási célokat.
+
+(4) A Bizottság ülésein állandó meghívottként részt vesz a miniszterelnök nemzetbiztonsági főtanácsadója, aki véleményt nyilvánít arról, hogy a kérelmező az adatkezelése során nem tud-e olyan következtetést levonni, amely Magyarország nemzetbiztonsági érdekeit sérti, illetve veszélyezteti. A miniszterelnök nemzetbiztonsági főtanácsadóját távollétében vagy akadályoztatása esetén teljes jogkörrel a miniszterelnök nemzetbiztonsági főtanácsadója által – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 13/B. § (5) bekezdése szerinti szervezeti egység személyi állományába tartozó személyek közül – kijelölt személy helyettesíti.
+
+(5) A Bizottság a (3) bekezdés szerinti véleménye kialakítása során tájékoztatást kérhet adatvagyon-hasznosítást érintő kérdésekben a Nemzeti Adatvagyon Ügynökségtől.
+
+(6) A Bizottság az ügyrendjét maga határozza meg.
+
+(7) A Bizottság szükség szerint, de legkésőbb az engedélyező megkeresését követő 30 napon belül tart ülést. Kivételes és sürgős esetben a Bizottság tagjai a kérelmet elektronikus úton tárgyalják meg.
+
+(8) A Bizottság titkársági feladatait a tudománypolitika koordinációjáért felelős miniszter hivatali szervezete látja el.
+
+#### Jogorvoslat
+
+#### Az engedély módosítása
+
+##### 11. §
+
+(1)[^26] A kutatási engedély véglegessé válását követően a kérelmező a kutatási tervet módosíthatja. A kutatási tervben történő módosítást – a (2)–(5) bekezdésben foglalt kivétellel – a kérelmező az elektronikus ügyintézői felületen keresztül bejelenti az engedélyezőnek.
+
+(2)[^27] A kutatási terv (3) bekezdés szerinti lényeges módosítása esetén a kérelmezőnek az engedély módosítását kell kérelmeznie az engedélyező által erre rendszeresített elektronikus ügyintézési felületen keresztül. A kérelemben a módosítások indokait és pontos tartalmát meg kell jelölni. Ha a módosítás hatással lehet a résztvevők biztonságára, a kérelemhez a módosított betegtájékoztató és beleegyezési nyilatkozat tervezetét is csatolni kell, a dokumentumok feltöltésével.
+
+(3) A kutatási terv lényeges módosításának minősül különösen, ha
+
+a) a módosítás hatással lehet a kutatásban résztvevők biztonságára,
+
+b) a módosítás megváltoztathatja a kutatás elvégzését alátámasztó tudományos dokumentumok értelmezését,
+
+c)[^28] a módosítás a kutatók részére készített ismertetőt érinti,
+
+d) az addigi kutatási eredmények az írásos tájékoztató módosítását teszik szükségessé,
+
+e)[^29] a kutatásba új kutatási helyszín kerül bevonásra, vagy
+
+f)[^30] a kutatás vezetőjének személye változik.
+
+g)[^31] a kérelem a kutatás nemzetstratégiai jelentőségű orvostudományi kutatássá minősítésére irányul.
+
+(3a)[^32] Ha a kutatási terv lényeges módosítása a 7. §-ban felsoroltakat is érinti, az etikai bizottság a módosított vizsgálati terv tekintetében is külön szakhatósági állásfoglalást ad ki.
+
+(4) Ha az engedélyező a módosítást engedélyezi, a kérelmező a módosított kutatási terv betartásával folytatja a kutatást. Az engedélyező a módosítás elfogadását a kutatással, illetve a 4. § szerinti szempontokkal összefüggő szakmai feltételhez kötheti. Ebben az esetben a kérelmező vagy az engedélyező által megjelölt feltételeknek megfelelően folytatja a kutatást, vagy amennyiben az engedélyező által megjelölt feltételeknek nem kíván eleget tenni, a kutatást az eredeti kutatási tervnek megfelelően folytatja, és erről az engedélyezőt értesíti. A kérelmező a kérelem elutasítása esetén az eredeti kutatási tervnek megfelelően folytatja a vizsgálatot. Több módosítás esetén az engedélyező a kérelemben foglalt módosításokról külön rendelkezik.
+
+(5) Egyebekben a módosítás iránti kérelemre az engedélyezésre vonatkozó rendelkezéseket kell értelemszerűen alkalmazni.
+
+##### 11/A. §[^33]
+
+(1) Ha a hatályos kutatási engedély jogosultja az engedélynek a 3/A. § (1) bekezdés h) pontja szerinti tartalommal történő módosítását kérelmezi, az engedély módosítására irányuló kérelemhez csatolni kell
+
+a) a 3/A. § (1) bekezdése h)–i) pontja szerinti azon dokumentumokat, amelyek a kutatás nemzetstratégiai jelentőségű orvostudományi kutatásnak minősülése megállapításához szükségesek,
+
+b) a módosított betegtájékoztatót és
+
+c) a módosított beleegyező nyilatkozatot.
+
+(2) Az engedélyező az engedély 3/A. § (1) bekezdés h) pontja szerinti tartalommal történő módosítása esetén az illetékes etikai bizottság, valamint az Eütv. 158/A. § (7) bekezdése szerinti szakkérdésekben az ott meghatározott véleményezők és szakhatóságok véleményét, illetve szakhatósági állásfoglalását kikéri.
+
+#### A kutatás ellenőrzése
+
+##### 12. §
+
+(1)[^34] Az engedélyező a kutatás időtartama alatt ellenőrzi, hogy a kutatást a szakmai szabályoknak, valamint az engedélyben és a kutatási tervben foglaltaknak megfelelően végzik-e. Az engedélyező – a feladatkörüket érintő szakkérdés felmerülése esetén – bevonja az etikai bizottságot vagy az IKEB-et az ellenőrzés lefolytatásába. Az etikai bizottság és az IKEB az engedélyezési eljárás tekintetében rá irányadó jogszabály szerint közreműködik az ellenőrzés lefolytatásában.
+
+(2)[^35] A szakhatóságként eljáró etikai bizottság és az IKEB a kutatás alatt figyelemmel kíséri, hogy
+
+a) a kutatást az engedélyben és a kutatási tervben előírtaknak megfelelően folytatják-e,
+
+b) a résztvevő tájékoztatása és beleegyező nyilatkozata megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglalt követelményeknek,
+
+c) a vizsgálatban részt vevők kiválasztásának módja az engedélynek megfelel-e,
+
+d) a résztvevők személyes adatai kezelésénél jogszerűen járnak-e el,
+
+e) a cselekvőképtelen vagy korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott személy bevonásával végzett klinikai vizsgálat esetében az Eütv. 159. § (4) és (5) bekezdésében, valamint az e rendeletben előírtak maradéktalanul megvalósulnak-e.
+
+(3)[^36]
+
+(4) Az engedélyezett kutatással kapcsolatban a kutatási alanyok és a nyilatkozattételre jogosult személyek, a kutatók, a szakhatóságként eljárt etikai bizottság, illetve – amennyiben a kutatás engedélyezésében részt vett – a regionális kutatásetikai bizottság, a kutatást végző szolgáltató vezetője és az IKEB jelzéssel élhetnek az engedélyező felé, ha megítélésük szerint a kutatást az engedélyben, illetve a kutatási tervben előírtaktól eltérően folytatják.
+
+#### A kutatás felfüggesztése, megszüntetése
+
+##### 13. §[^37]
+
+(1) Ha a kutatás ellenőrzése során az engedélyező olyan körülményről szerez tudomást, amely alapján megállapítja, hogy
+
+a) a kutatás engedélyezésének feltételei már nem állnak fenn,
+
+b) a kutatásban résztvevő alanyok biztonságát a kutatás folytatása veszélyezteti, vagy
+
+c) a kutatás tudományos megalapozottsága kétséges,
+
+a kutatás folytatását határozatával feltételhez kötheti, és a feltétel teljesítésére adott határidő meghatározásával a kutatást felfüggeszti.
+
+(2) Ha a kutatás felfüggesztése esetén a kérelmező az (1) bekezdésben meghatározott határidőben a határozatban foglaltaknak nem tesz eleget, és nem kéri a határidő meghosszabbítását sem, az engedélyező a kutatást megszünteti.
+
+(3) Az engedélyező az (1) és (2) bekezdés szerinti, a kutatást felfüggesztő, illetve megszüntető határozatáról és annak indokairól haladéktalanul értesíti a szakhatóságként eljáró etikai bizottságot, illetve a 6. § szerinti regionális etikai bizottságot, és – megszüntetés esetén – a kutatást a nyilvántartásból törli.
+
+(4) Ha a kérelmező a felfüggesztésről szóló határozatban foglaltaknak eleget tesz, az engedélyező dönt a kutatás felfüggesztésének megszüntetéséről. A felfüggesztés megszüntetéséről szóló döntés meghozatalához az engedélyező beszerzi az illetékes etikai bizottság szakhatósági állásfoglalását, illetve a 6. § szerinti regionális etikai bizottság szakértői véleményét.
+
+##### 14. §
+
+(1)[^38] Ha a kérelmező kívánja a kutatást annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg értesíti az engedélyezőt, az etikai bizottságot, és több központban végzett kutatás esetén valamennyi érintett magyarországi kutatóhelyet. A kérelmező kutatást felfüggesztő vagy megszüntető bejelentése alapján az engedélyező a kutatást a nyilvántartásban felfüggesztett vagy megszüntetett státusszal tünteti fel.
+
+(2) A kutató a kutatást köteles haladéktalanul felfüggeszteni és a kutatásvezetőt értesíteni, ha azt tapasztalja, hogy a kutatás folytatása a résztvevő alanyok életét vagy egészségét sérti vagy veszélyezteti. A kutatásvezető erről értesíti a kérelmezőt és az engedélyezőt annak érdekében, hogy szükség esetén az engedélyező a 13. § (1)–(2) bekezdésében foglaltak alapján járjon el.
+
+#### Beavatkozással nem járó vizsgálatok, valamint egyes teljesítőképesség-vizsgálatok engedélyezési, illetve bejelentési szabályai[^39]
+
+##### 15. §[^40]
+
+A 16. § szerinti beavatkozással nem járó vizsgálat, valamint az Eütv. 164/A. § (10) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezése, illetve bejelentése esetében a 16–21/A. §-ban és az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet és az orvostechnikai eszközök klinikai vizsgálatáról szóló miniszteri rendeletben foglaltak szerint kell eljárni.
+
+##### 16. §[^41]
+
+Beavatkozással nem járó vizsgálat (non-interventional trial): a 2. és 3. cím szerinti klinikai vizsgálatnak nem minősülő vizsgálat, amely
+
+a) nem minősül a b)–c) pontban leírtaknak megfelelő orvostudományi kutatásnak, és amely kutatás során végzett eljárás nem tér el a megszokott egészségügyi ellátástól,
+
+b)[^42] orvostechnikai eszközzel végzett, az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 74. cikk (1) bekezdése és 82. cikke szerinti vizsgálat,
+
+c)[^43] gyógyszer esetén az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás.
+
+##### 17. §[^44]
+
+(1) Beavatkozással nem járó vizsgálatot végezni
+
+a)[^45] a 16. § a) pontjában említett vizsgálatok és kutatások esetében – figyelemmel az (1c) bekezdésre –
+
+aa) az embriókkal, illetve ivarsejtekkel, őssejtekkel végezhető, beavatkozással nem járó vizsgálat esetében az ETT HRB szakmai etikai szakhatósági állásfoglalása alapján az országos tisztifőorvos engedélyének,
+
+ab) ha az egészségügyért felelős miniszter emberen végzett orvostudományi kutatásokról szóló rendelete szerinti nem kereskedelmi vizsgálat kizárólag egy RKEB-nek az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerinti illetékességi területén található egy központban végzett vizsgálat, vagy ugyanannak az RKEB-nek az illetékességi területén található több központban végzett vizsgálat, akkor az RKEB szakmai-etikai engedélyének,
+
+ac) minden más esetben az ETT TUKEB szakmai-etikai engedélyének
+
+birtokában lehet;
+
+b)[^46] a 16. § c) pontjában említett vizsgálat esetében
+
+ba)[^47] amennyiben a vizsgálat nem a bb) alpontban említett vizsgálat, akkor a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) engedélyének birtokában lehet,
+
+bb)[^48] amennyiben engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végzésére hatósági határozat teljesítése érdekében van szükség és az más EGT-tagállamot is érint, a Gytv. 1. § 31. pontjában említett farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) által kiadott jóváhagyó levél és az ETT TUKEB etikai engedélyének birtokában lehet, azzal, hogy a vizsgálatot legkésőbb annak megkezdéséig be kell jelenteni az NNGYK részére.
+
+c)[^49] a 16. § b) pontjában említett vizsgálatok esetében az NNGYK részére történt bejelentést követően lehet.
+
+(1a)[^50] A 16. § (1) bekezdés a) pontja, valamint az (1) bekezdés b) pont bb) alpontja szerinti, beavatkozással nem járó vizsgálat esetén a kérelemhez mellékelni kell az egészségügyi szolgáltató vezetőjének befogadó nyilatkozatát arról, hogy az egészségügyi szolgáltatónál végezhető a beavatkozással nem járó vizsgálat. Az (1) bekezdés b) pont ba) alpontja szerinti vizsgálat esetén a kérelemhez mellékelni kell a koordináló vizsgálatvezető nyilatkozatát arról, hogy a vizsgálatvezetők a vizsgálatról az egészségügyért felelős miniszter emberen végzett orvostudományi kutatásokról szóló rendelete szerinti bejelentést megtették a vizsgálatot végző egészségügyi szolgáltatók vezetőinek.
+
+(1b)[^51] Az (1) bekezdés a) pont ab) alpontja alkalmazásában, ha a vizsgálóhely az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló kormányrendelet szerint egy egészségügyi szolgáltató telephelye, akkor az RKEB illetékességének megállapításakor az egészségügyi szolgáltató székhelyét kell figyelembe venni.
+
+(1c)[^52] Az adatbázisokon végzett, beavatkozással nem járó vizsgálatok közül az RKEB engedélyezési hatáskörébe tartozik az a nem kereskedelmi vizsgálat, amelyet ugyanannak az RKEB-nek az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerinti illetékességi területén található egy vagy több vizsgálóhely adatbázisán végeznek. Az ETT TUKEB engedélyezési hatáskörébe tartozik az a vizsgálat, amelyet több RKEB-nek az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerinti illetékességi területén található vizsgálóhelyek adatbázisain végeznek vagy amelyet országos adatbázison végeznek.
+
+(2)[^53] Kiskorúakon tervezett, beavatkozással nem járó vizsgálat esetén az ETT TUKEB vagy az RKEB gyermekgyógyász szakorvos véleményének birtokában hoz döntést.
+
+(3)[^54] Amennyiben a fellebbezést törvény nem zárja ki, az ETT TUKEB vagy az RKEB engedélyezési eljárása esetén a másodfokú eljárást az ETT Elnöksége folytatja le.
+
+(4) Az (1) bekezdés b) pont bb) alpontja szerinti bejelentés keretében az alábbi dokumentumokat kell megküldeni:
+
+a) a PRAC által kiadott jóváhagyó levelet,
+
+b) a PRAC által jóváhagyott vizsgálati tervet,
+
+c) az ETT-TUKEB etikai engedélyének másolatát,
+
+d) a vizsgálat lefolytatása során alkalmazott valamennyi dokumentum eredeti és magyar nyelvű változatát.
+
+##### 17/A. §[^55]
+
+(1)[^56] A 16. § a) és c) pontja szerinti vizsgálat engedélyezése iránti kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetést, és a kérelemben be kell mutatni
+
+a) a vizsgálati tervet,
+
+b)[^57] a koordináló vizsgálatvezető, illetve vizsgáló szakmai önéletrajzát,
+
+c) a vizsgálati alanyok számára készített tájékoztató tervezetét (a retrospektív vizsgálatok kivételével),
+
+d) a vizsgálati alanyok beleegyező nyilatkozatának tervezetét (a retrospektív vizsgálatok kivételével),
+
+e) toborzás esetén a toborzásra vonatkozó tervezetet,
+
+f) – ha a beavatkozással nem járó vizsgálat egészségügyi szolgáltatónál zajlik – a kérelmező nyilatkozatát arra vonatkozólag, hogy az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerinti bejelentést megtette.
+
+(2)[^58] A kérelem tartalmazza a vizsgálatvezető vagy a koordináló vizsgálatvezető, illetve vizsgáló szándéknyilatkozatát, amelyben vállalja, hogy a vizsgálat engedélyezése esetén az általa megismert vizsgálati tervet annak előírásai és az engedélyező határozatban foglaltak szerint hajtja végre.
+
+(3) Az (1) bekezdés a) pontja szerinti vizsgálati terv tartalmazza
+
+a) a vizsgálat célját, elrendezését, módszertanát, megszervezését, publikációs elveket,
+
+b) a vizsgálati alanyok bevonási és kizárási kritériumait, a toborzás módját,
+
+c) a vizsgálatba bevonni kívánt vizsgálati alanyok számát, illetve körét, nemét, életkorát,
+
+d) a vizsgálat során nyert adatok statisztikai feldolgozásának módszerét,
+
+e) a vizsgálat tervezett idejét és vizsgálat helyét,
+
+f) a kutatás anyagi fedezetének forrását,
+
+g) a kérelmező nevét, székhelyét.
+
+(4) Ha a beavatkozással nem járó vizsgálat egészségügyi szolgáltatónál zajlik, a (3) bekezdés e) pontja szerinti vizsgálati helyként az egészségügyi szolgáltató nevét és székhelyét kell az (1) bekezdés a) pontja szerinti vizsgálati tervben feltüntetni.
+
+(5) A 17. § (1) bekezdés b) pont bb) alpontja esetében a vizsgálati terv tervezetét engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat esetében a Gytv. 1. § 31. pontjában megjelölt farmakovigilancia kockázatértékelési bizottság (a továbbiakban: PRAC) részére kell benyújtani.
+
+(6) Az engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat esetében a vizsgálati tervnek a 726/2004/EK európai parlamenti és tanácsi rendeletben és a 2001/83/EK európai parlamenti és tanácsi irányelvben előírt farmakovigilanciai tevékenységek végrehajtásáról szóló, 2012. június 19-i 520/2012/EU bizottsági végrehajtási rendeletnek kell megfelelnie.
+
+(7) Ha a megbízó az engedélyezés utáni beavatkozással nem járó gyógyszerbiztonsági vizsgálat végleges vizsgálati eredménye benyújtásának elhalasztását kéri, az (1) bekezdésben felsorolt adatok mellett a halasztás indokait is ismertetni kell.
+
+(8) E rendelet alkalmazásában a PRAC nem minősül engedélyező hatóságnak.
+
+##### 17/B. §[^59]
+
+Az orvostechnikai eszközökkel kapcsolatos, a 16. § b) pontja szerinti beavatkozással nem járó vizsgálatokra vonatkozó bejelentést az MDR 73. cikke szerinti elektronikus rendszerben kell megtenni az MDR XV. Melléklet II. Fejezetében meghatározott adattartalommal, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT TUKEB MDR 62. cikk (4) bekezdés b) pontja szerinti etikai véleményét is. Az NNGYK a bejelentés alapján a vizsgálatot nyilvántartásba veszi és a bejelentés megtörténtéről hatósági bizonyítványt állít ki. A vizsgálat a hatósági bizonyítvány véglegessé válását követően kezdhető meg.
+
+##### 18. §[^60]
+
+(1)[^61] A 16. § a) pontjában említett vizsgálatok és kutatások esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be a 17. § (1) bekezdés a) pont aa) alpontja szerinti esetben az országos tisztifőorvoshoz, a 17. § (1) bekezdés a) pont ab) alpontja szerinti esetben az emberen végzett orvostudományi kutatásokról szóló miniszteri rendelet szerint illetékes RKEB-hez, a 17. § (1) bekezdés a) pont ac) alpontja szerinti esetben az ETT TUKEB-hez.
+
+(1a)[^62] A 17. § (1) bekezdés a) pont aa) alpontjában említett vizsgálatok és kutatások esetében az engedély iránti kérelem elbírálása során az országos tisztifőorvos értékeli, hogy a beadott kérelem tárgyául szolgáló vizsgálat valóban beavatkozással nem járó vizsgálat-e.
+
+(1b)[^63] Az (1a) bekezdés alapján benyújtott kérelem elbírálásakor az országos tisztifőorvos az ETT HRB szakhatósági állásfoglalását kéri a következő kérdésekben:
+
+a) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tartalmaz-e és módszerei alkalmasak-e ezek megválaszolására,
+
+b) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak.
+
+(2)[^64] A 17. § (1) bekezdés a) pont ab) alpontjában említett vizsgálatok és kutatások esetében az RKEB, az ac) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB az engedély iránti kérelem elbírálása során értékeli, hogy
+
+a) a beadott kérelem tárgyául szolgáló vizsgálat valóban beavatkozással nem járó vizsgálat-e,
+
+b) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tartalmaz-e, és módszerei alkalmasak-e ezek megválaszolására,
+
+c) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak.
+
+(2a)[^65]
+
+(2b)[^66]
+
+(2c)[^67]
+
+(3)[^68] A 16. § c) pontjában említett vizsgálat esetében a megbízó
+
+a)[^69] a 17. § (1) bekezdés b) pont ba) alpontja esetében az engedélyt az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint az NNGYK-tól,
+
+b) a 17. § (1) bekezdés b) pont bb) alpontja esetében az etikai engedélyt az ETT TUKEB-től
+
+kéri meg.
+
+(4)[^70] Az NNGYK a 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az engedélyezési eljárás során értékeli, hogy
+
+a) a vizsgálat lefolytatása nem ösztönöz-e gyógyszerhasználatra,
+
+b) a vizsgálat kialakítása teljesíti-e a vizsgálat célkitűzéseit,
+
+c) a vizsgálat nem minősül-e klinikai vizsgálatnak,
+
+d)[^71]
+
+(5)[^72] A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az NNGYK megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
+
+(6) A 17. § (1) bekezdés b) pont bb) alpontjában említett vizsgálat esetében az ETT TUKEB értékeli, hogy
+
+a) a betegtájékoztató, a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak,
+
+b) a vizsgálat a vizsgálat alá vont személy életét vagy testi, lelki épségét nem veszélyezteti-e,
+
+c) a vizsgálat a vizsgálat alá vont személy jogait nem sérti-e,
+
+d) a vizsgálat tudományosan megalapozott-e.
+
+##### 19. §
+
+(1)[^73] A beavatkozással nem járó vizsgálat engedélyének, illetve bejelentésének tárgyában kiállított hatósági bizonyítvány véglegessé válását követően a megbízó a vizsgálatot módosíthatja. A vizsgálat lényeges módosítása esetén a megbízónak – a módosítások indokainak és pontos tartalmának megjelölésével –
+
+a) a 16. § a) pontjában meghatározott vizsgálatok és kutatások esetében az engedély módosítását kell kérelmeznie az engedélyezőnél,
+
+b)[^74] a 17. § (1) bekezdés b) pont ba) alpontjában meghatározott vizsgálat esetében az engedély módosítását kell kérelmeznie az NNGYK-nál,
+
+c)[^75] a 17. § (1) bekezdés b) pont bb) alpontjában meghatározott vizsgálatnál a PRAC-tól a módosítás jóváhagyását és az ETT TUKEB etikai engedélyét kell kérnie. Ha a PRAC jóváhagyta és az ETT TUKEB engedélyezte a módosítást, akkor azt legkésőbb a módosítás foganatosításáig be kell jelenteni az NNGYK részére,
+
+d)[^76] a 16. § b) pontjában meghatározott esetekben a jelentős módosítást az MDR 75. cikke szerinti esetekben elektronikusan be kell jelentenie az MDR 73. cikke szerinti elektronikus rendszerben.
+
+(1a)[^77] A vizsgálat – ide nem értve a 16. § b) pontja szerinti beavatkozással nem járó vizsgálatot – nem lényeges módosítását a kérelmező, illetve a bejelentő bejelenti az engedélyezőnek, illetve az NNGYK-nak.
+
+(1b)[^78] Az (1) bekezdés d) pontja szerinti bejelentést az MDR XV. Melléklet II. Fejezetében meghatározott adattartalommal, a vizsgálat bejelentéséhez képest eszközölt változások megjelölésével kell megtenni, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT-TUKEB az MDR 75. cikk (3) bekezdés b) pontja szerinti etikai véleményét is.
+
+(2)[^79] A vizsgálat lényeges módosításának minősül különösen, ha
+
+a) a módosítás hatással lehet a vizsgálati alanyok biztonságára,
+
+b) a módosítás megváltoztathatja a beavatkozással nem járó vizsgálat elvégzését alátámasztó tudományos dokumentumok értelmezését,
+
+c) a módosítás a vizsgálók részére készített ismertetőt érinti,
+
+d) az addigi vizsgálati eredmények az írásos tájékoztató módosítását teszik szükségessé.
+
+(3)[^80] Az NNGYK a módosítás engedélyezésére irányuló eljárása során az ETT TUKEB szakhatósági állásfoglalását kéri a 18. § (6) bekezdés a)–c) pontjában foglaltak megvizsgálása érdekében.
+
+(4)[^81] Az (1) bekezdés b) pont bb) alpontja szerinti bejelentés keretében az alábbi dokumentumokat kell megküldeni:
+
+a) a PRAC által kiadott, a módosítás jóváhagyásáról szóló dokumentumot,
+
+b) a PRAC által jóváhagyott módosított vizsgálati tervet, megjelölve annak megváltoztatott részeit,
+
+c) az ETT-TUKEB etikai engedélyének másolatát,
+
+d) a vizsgálat lefolytatása során alkalmazott megváltoztatott valamennyi dokumentum eredeti és magyar nyelvű változatát.
+
+(5)[^82]
+
+##### 20. §[^83]
+
+A 17. § (1) bekezdés a) pont aa) alpontjában említett vizsgálatok és kutatások esetében az országos tisztifőorvos, a 17. § (1) bekezdés a) pont ab) alpontjában említett vizsgálatok és kutatások esetében az RKEB, a 17. § (1) bekezdés a) pont ac) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB, a 16. § b) és c) pontjában említett vizsgálat esetében az NNGYK a vizsgálat időtartama alatt ellenőrizheti, hogy a beavatkozással nem járó vizsgálatot az Európai Unió közvetlen hatályú jogi aktusainak, a jogszabályoknak és a szakmai szabályoknak megfelelően, az engedélyben, illetve a bejelentésben és a vizsgálati tervben foglaltaknak megfelelően végzik-e.
+
+##### 21. §[^84]
+
+(1)[^85] Ha az ellenőrzés során megállapítást nyer, hogy a beavatkozással nem járó vizsgálat folytatása nem felel meg az engedélyben, illetve a bejelentésben, a vizsgálati tervben, illetve az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglalt feltételeknek, a 17. § (1) bekezdés a) pont aa) alpontjában említett vizsgálatok és kutatások esetében az országos tisztifőorvos, a 17. § (1) bekezdés a) pont ab) alpontjában említett vizsgálatok és kutatások esetében az RKEB, a 17. § (1) bekezdés a) pont ac) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB, a 16. § b) és c) pontjában említett vizsgálat esetében az NNGYK a beavatkozással nem járó vizsgálatot haladéktalanul felfüggeszti vagy megszünteti.
+
+(2)[^86] A felfüggesztést követően, a megszüntető határozat meghozatala előtt az országos tisztifőorvos, az RKEB, az ETT TUKEB vagy az NNGYK hétnapos határidő tűzésével kikéri a kérelmező, illetve a bejelentő, a vizsgálatvezető, orvostechnikai eszközzel végzett beavatkozással nem járó vizsgálat esetén a vizsgáló, illetve a beavatkozással nem járó vizsgálatban közreműködők véleményét, továbbá felhívja az érintetteket a hiányosságok megszüntetésére, és javaslatot tesz arra, hogy a hiányosság milyen módon küszöbölhető ki. Amennyiben határidőn belül nem érkezik vélemény, vagy a hiányosságot az e bekezdés szerint meghatározott határidőn belül nem szüntetik meg, az országos tisztifőorvos, az RKEB, az ETT TUKEB vagy az NNGYK a beavatkozással nem járó vizsgálatot határozatával megszünteti.
+
+(3)[^87] Ha a kérelmező kívánja a beavatkozással nem járó vizsgálatot annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg értesíti az engedélyezőt. A kérelmező beavatkozással nem járó vizsgálatot megszüntető döntése alapján az engedélyező törli a beavatkozással nem járó vizsgálatot a a nyilvántartásból. E rendelkezést az orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén is megfelelően alkalmazni kell azzal, hogy az értesítést a megbízó az MDR 73. cikke szerinti elektronikus rendszerben teszi meg.
+
+##### 21/A. §[^88]
+
+(1)[^89] Az Eütv. 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatot végezni a vizsgálat NNGYK részére történő bejelentését követően lehet.
+
+(2) Az (1) bekezdés szerinti bejelentést az in vitro diagnosztikai orvostechnikai eszközzel az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 69. cikke szerinti elektronikus rendszerben kell megtenni, a vizsgálat jellegétől függően az IVDR 58. vagy 70. cikkében meghatározott adattartalommal, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
+
+(3)[^90] Az (1) bekezdés szerinti bejelentéshez csatolni kell az ETT TUKEB IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleményét is. Az NNGYK a bejelentés alapján a vizsgálatot nyilvántartásba veszi és a bejelentés megtörténtéről hatósági bizonyítványt állít ki. A vizsgálat a hatósági bizonyítvány véglegessé válását követően kezdhető meg.
+
+(4) Az (1) bekezdés szerinti bejelentés tárgyában kiállított hatósági bizonyítvány véglegessé válását követően a megbízó a vizsgálati tervet módosíthatja. A vizsgálati terv az IVDR 71. cikke szerinti lényeges módosítását a megbízónak – a módosítások indokainak és pontos tartalmának megjelölésével – be kell jelentenie az IVDR 69. cikke szerinti elektronikus rendszerbe.
+
+(5) A (4) bekezdés szerinti bejelentést az IVDR 71. cikke szerinti adattartalommal, a vizsgálat bejelentéséhez képest eszközölt változások megjelölésével kell megtenni, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT TUKEB – az IVDR 71. cikk (3) bekezdés b) pontja szerint kiadott – etikai véleményét is.
+
+(6)[^91] Az (1) bekezdés szerinti teljesítőképesség-vizsgálat időtartama alatt az NNGYK ellenőrizheti, hogy a vizsgálatot az IVDR-nek, a jogszabályoknak és a szakmai szabályoknak megfelelően, a bejelentésben és a vizsgálati tervben foglaltaknak megfelelően végzik-e.
+
+(7)[^92] Ha a (6) bekezdés szerinti ellenőrzés során megállapítást nyer, hogy a vizsgálat folytatása nem felel meg az IVDR-ben, a bejelentésben, a vizsgálati tervben, illetve az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben foglalt feltételeknek, az NNGYK az IVDR 72. cikkében foglaltak szerint jár el.
+
+(8) Az IVDR 73. cikke szerinti értesítéseket, valamint a vizsgálati jelentést a megbízó az IVDR 69. cikke szerinti elektronikus rendszerben küldi meg.
+
+## 2. CÍM[^93] — VIZSGÁLATI GYÓGYSZEREK KLINIKAI VIZSGÁLATÁNAK ENGEDÉLYEZÉSE
+
+##### 22. §
+
+(1) Ezen cím előírásait az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontja szerinti klinikai vizsgálat esetében kell alkalmazni.
+
+(2) Ezen cím alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 11. pontja szerinti etikai bizottságként az Egészségügyi Tudományos Tanács Klinikai Farmakológiai Etikai Bizottsága jár el.
+
+(3) Az e címben használt fogalmak értelmezésére, valamint az e címben nem szabályozott kérdésekre az 536/2014/EU európai parlamenti és tanácsi rendeletet és az 536/2014/EU európai parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendeletet [a továbbiakban: (EU) 2017/556 bizottsági végrehajtási rendelet] kell alkalmazni.
+
+##### 22/A. §[^94]
+
+Ha az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló miniszteri rendelet az engedély iránti kérelem tárgyát képező klinikai vizsgálat tekintetében a vizsgálati alanyok részére betegkártya kiállítását írja elő, a megbízó a kérelemhez az 536/2014/EU európai parlamenti és tanácsi rendelet I. Melléklete szerinti dokumentációban a tájékoztatáson alapuló beleegyező nyilatkozat mellékleteként a betegkártya tervezetét is benyújtja.
+
+#### A klinikai vizsgálat engedélyezése
+
+##### 23. §
+
+(1) A klinikai vizsgálatot engedélyező határozatban megállapított feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a klinikai vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
+
+(2) Az engedélyezési eljárás során az engedélyező elvégzi a kérelemnek az 536/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdésében és 7. cikk (1) bekezdés g) pontjában meghatározott szempontok szerinti értékelését, ennek keretében értékeli az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott szempontokon túl az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 3. § (4) bekezdése szerinti felelősségbiztosítás megfelelőségét is.
+
+##### 24. §
+
+(1) Az etikai bizottság véleményének kialakítása érdekében az 536/2014/EU európai parlamenti és tanácsi rendelet 80. cikke szerinti portálhoz hozzáféréssel rendelkezik és az 536/2014/EU európai parlamenti és tanácsi rendeletben foglaltak szerint vesz részt a kérelmek értékelésében a (4) bekezdésben foglalt szakkérdések tekintetében.
+
+(2) Az etikai bizottság véleményét az Egészségügyi Tudományos Tanácsról szóló miniszteri rendeletben meghatározott összetételben alakítja ki az alábbi ügyekben:
+
+a) vizsgálati terv lényeges módosításával kapcsolatos szakkérdések,
+
+b) az a) pont hatálya alá nem tartozó esetekben, ha azt az etikai bizottság elnöke az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott eljárási határidők betartása érdekében szükségesnek tartja.
+
+(3) Cselekvőképtelen, illetve korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott személy bevonásával tervezett klinikai vizsgálat esetében az etikai bizottság véleményének kialakítása során megvizsgálja, hogy az 536/2014/EU európai parlamenti és tanácsi rendelet 31. cikkében és az Eütv. 159. § (4) és (5) bekezdésében előírtak maradéktalanul megvalósulnak-e, azzal, hogy cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen, illetve teljesen korlátozott nagykorúak, valamint a Polgári Törvénykönyvről szóló 2013. évi V. törvény 2:9. §-a szerint cselekvőképtelen nagykorúak esetében a kérdéses betegségnek és az érintett betegcsoportnak megfelelő szakvizsgával rendelkező, kiskorúakon végzett klinikai vizsgálat esetében pedig csecsemő- és gyermekgyógyász szakvizsgával rendelkező szakértőt, továbbá szükség esetén pedagógust vagy pszichiátert vesz igénybe.
+
+(4) Az etikai bizottság véleményében nyilatkozik a klinikai vizsgálat szakmai-etikai megfelelőségéről, illetve a megfeleléshez szükséges további feltételekről. Az etikai bizottság véleményét az 536/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés b) és e) pontjában, valamint 7. cikk (1) bekezdésében foglalt szempontok értékelése alapján állítja ki.
+
+(4a)[^95] Ha az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló miniszteri rendelet a kérelmezett klinikai vizsgálatnál a vizsgálati alanyok részére betegkártya kiállítását írja elő, az etikai bizottság a betegkártya tervezetét is értékeli.
+
+(5) Az etikai bizottság szükség esetén megkeresheti a vizsgálóhelyként szereplő egészségügyi szolgáltató 1/A. §-a szerint illetékes IKEB-jét, hogy az nyilatkozzon a vizsgálóhelyként szereplő egészségügyi szolgáltatóra vonatkozóan a tárgyi feltételek teljesüléséről és szükség esetén a személyi feltételek teljesüléséről.
+
+##### 25. §
+
+(1) A klinikai vizsgálat engedélyezése tárgyában hozott határozatban a klinikai vizsgálat Magyarország területére történő engedélyezése esetén az 536/2014/EU európai parlamenti és tanácsi rendeletben foglalt tartalmi elemek mellett a következő adatokat kell szerepeltetni:
+
+a) a klinikai vizsgálat azonosító adatait, a vizsgálat címét, számát, fázisát,
+
+b) a vizsgálati alanyok tervezett számát, nemét, életkor-határait,
+
+c) a megbízó nevét, székhelyét, és – ha van ilyen – képviselőjének nevét, címét,
+
+d) a magyarországi vizsgálóhelyként szereplő egészségügyi szolgáltatók nevét, székhelyét,
+
+e) a klinikai vizsgálat vezetőjének nevét,
+
+f) a klinikai vizsgálat várható időtartamát.
+
+(2) Az engedélyező a határozatát közli:
+
+a) a megbízóval vagy annak képviselőjével,
+
+b) az eljáró etikai bizottsággal,
+
+c) a Nemzeti Egészségbiztosítási Alapkezelővel.
+
+(3) Az engedélyező a határozatával együtt az etikai bizottság véleményét is közli a megbízóval vagy képviselőjével.
+
+##### 26. §[^96]
+
+I. fázisú klinikai vizsgálatot kizárólag NNGYK által minősített klinikai farmakológiai vizsgálóhelyen lehet végezni. A minősítési eljárást a szolgáltató vezetőjének kérelmére kell lefolytatni. A minősítési eljárást háromévenként ismételten el kell elvégezni.
+
+##### 27. §[^97]
+
+A megbízó az NNGYK engedélyezés tárgyában hozott határozatáról értesíti a klinikai vizsgálatot Magyarországon végző egészségügyi szolgáltató vezetőjét, valamint a vizsgálatvezetőt, és a vizsgálat megkezdését megelőzően megküldi az NNGYK határozatát és a vizsgálati terv magyar nyelvű összefoglalóját az illetékes IKEB-nek.
+
+#### Az engedély módosítása
+
+##### 28. §
+
+(1) A megbízó a kérelem elutasítása esetén az eredeti vizsgálati tervnek megfelelően folytatja a vizsgálatot.
+
+(2) A klinikai vizsgálat lényeges módosításának engedélyezése iránti kérelemre a 23–27. §-ban foglalt rendelkezéseket kell alkalmazni.
+
+#### A vizsgálat ellenőrzése és a klinikai vizsgálatokra vonatkozó szabályok megsértése esetén alkalmazható jogkövetkezmények
+
+##### 29. §
+
+(1) Az engedélyező az 536/2014/EU európai parlamenti és tanácsi rendelet 78. cikk (6) bekezdése szerinti jelentést ez irányú megkeresés esetén az etikai bizottság rendelkezésére bocsátja.
+
+(2) Amennyiben az ellenőrzés során megállapítást nyer, hogy a klinikai vizsgálat folytatása nem felel meg az engedélyben, az 536/2014/EU európai parlamenti és tanácsi rendeletben, vagy a jogszabályokban foglalt feltételeknek, vagy a klinikai vizsgálat súlyosan veszélyezteti a vizsgálati alanyok életét vagy egészségi állapotát, az engedélyező haladéktalanul megküldi a jegyzőkönyvet a megbízónak és az etikai bizottságnak.
+
+(3) Amennyiben az ellenőrzés során észlelt hiányosságok súlyosabb jogkövetkezmény alkalmazását nem indokolják, és a vizsgálati alanyok biztonságát nem veszélyeztetik, az engedélyező az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 101. § (1) bekezdés a) pontja alapján hivatalból eljárást indít és figyelmeztetést alkalmaz, felhívja az érintetteket a hiányosságok megszüntetésére, valamint javaslatot tesz arra, hogy a hiányosság milyen módon küszöbölhető ki, és erről értesíti a megbízót és a vizsgálatvezetőt. Ha a hiányosságok megszüntetése érdekében ez szükséges, az engedélyező az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (1) bekezdés c) pontja szerinti jogkövetkezményt is alkalmazza, a 77. cikk (2) bekezdésében foglaltak figyelembevételével.
+
+##### 29/A. §
+
+(1) Ha az engedélyező részéről megállapításra kerül, hogy a klinikai vizsgálat folytatása nem felel meg az engedélyben, az 536/2014/EU európai parlamenti és tanácsi rendeletben vagy a jogszabályokban foglalt feltételeknek, vagy a klinikai vizsgálat súlyosan veszélyezteti a vizsgálati alanyok életét vagy egészségi állapotát, az engedélyező hivatalból eljárást indít és – azonnali intézkedést igénylő esetben az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (2) bekezdése szerinti egyeztetés mellőzésével – az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (1) bekezdés b) pontja alapján felfüggeszti a klinikai vizsgálatot.
+
+(2) A felfüggesztést követően az engedélyező az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (2) bekezdése szerinti véleménykéréssel egyidejűleg felhívja a megbízót, illetve vizsgálót a hiányosságok megszüntetésére, és javaslatot tesz arra, hogy a hiányosság milyen módon küszöbölhető ki. Ha a megbízó, illetve a vizsgáló határidőn belül nem ad véleményt, vagy a hiányosságot az engedélyező által meghatározott határidőn belül nem szünteti meg, az engedélyező az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (1) bekezdés a) pontja alapján a klinikai vizsgálat engedélyét visszavonja.
+
+(3) A vizsgálati alanyok egészségét vagy életét közvetlenül fenyegető veszély esetén a (2) bekezdéstől eltérően a (2) bekezdés szerinti jogkövetkezmény a 77. cikk (2) bekezdése szerinti véleménykérés és a hiányosságok kiküszöbölésére biztosított határidő tűzése nélkül is alkalmazható.
+
+(4) Az 536/2014/EU európai parlamenti és tanácsi rendelet 77. cikk (1) bekezdése, valamint az (1) és (2) bekezdés szerinti jogkövetkezmények mellett az engedélyező a Gytv. 20. § (3) és (4) bekezdése szerinti jogkövetkezményeket és a Gytv. 20. § (12) bekezdése szerinti ideiglenes intézkedéseket is alkalmazhatja.
+
+## 3. CÍM — AZ ORVOSTECHNIKAI ESZKÖZÖKKEL KAPCSOLATOS KLINIKAI VIZSGÁLATOK, VALAMINT AZ IN VITRO DIAGNOSZTIKAI ORVOSTECHNIKAI ESZKÖZÖKKEL VÉGZETT TELJESTŐKÉPESSÉG-VIZSGÁLATOK ENGEDÉLYEZÉSE[^98]
+
+##### 30. §[^99]
+
+(1) E cím előírásait – a (2) bekezdésben foglaltak kivételével – a Magyarország területén elvégezni kívánt, orvostechnikai eszközökkel folytatott, az MDR 62. cikke szerinti klinikai vizsgálatok, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett, az IVDR 58. cikk (1) bekezdése szerinti, az IVDR 58. cikk (2) bekezdése szerinti kapcsolt diagnosztikumnak nem maradványminták felhasználásával végzett vizsgálata, és az IVDR 70. cikk (2) bekezdése szerinti teljesítőképesség-vizsgálatok esetében kell alkalmazni.
+
+(2) E cím előírásai nem vonatkoznak a 16. § b) pontjában és a 21/A. §-ban említett vizsgálatokra.
+
+##### 31. §[^100]
+
+E cím tekintetében az MDR 2. cikke és az IVDR 2. cikke szerinti fogalommeghatározásokat kell alkalmazni.
+
+#### A klinikai vizsgálat és a teljesítőképesség-vizsgálat engedélyezése[^101]
+
+##### 32. §[^102]
+
+(1)[^103] A vizsgálatot az NNGYK (e cím alkalmazásában a továbbiakban: engedélyező) engedélyezi és veszi nyilvántartásba.
+
+(2)[^104] Az orvostechnikai eszközzel végzett klinikai vizsgálat engedélyezése iránti kérelem benyújtására és elbírálására az MDR előírásai alkalmazandók. A kérelmet az MDR 70. cikkében előírtak szerint az engedélyező részére az MDR 73. cikke szerinti elektronikus rendszerben kell benyújtani, a kérelemhez mellékelni kell az ETT TUKEB-nek az MDR 62. cikk (4) bekezdés b) pontja szerinti véleményét. A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
+
+(2a)[^105] Az in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat engedélyezése iránti kérelem benyújtására és elbírálására az IVDR előírásai alkalmazandók. A kérelmet az IVDR 66. cikkében előírtak szerint az IVDR 69. cikke szerinti elektronikus rendszerben kell benyújtani, és a kérelemhez mellékelni kell az ETT TUKEB-nek az IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleményét. A kérelem benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
+
+(3)[^106] A klinikai vizsgálatok, valamint a teljesítőképesség-vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában a megbízó és a klinikai vizsgálatot, vagy a teljesítőképesség-vizsgálatot végző egészségügyi szolgáltató a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződést köt, melyet az engedélyezési eljárás során az engedélyezőnek bemutat.
+
+(4)[^107]
+
+##### 33. §[^108]
+
+(1) Az engedélyező határozatának tartalmaznia kell
+
+a)[^109] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat azonosító adatait, a vizsgálat címét, számát,
+
+b) a vizsgálati alanyok tervezett számát, nemét, életkor-határait,
+
+c) a vizsgálati helyként szereplő egészségügyi szolgáltatók nevét, székhelyét és a klinikai vizsgálóhely külön jogszabály szerinti típusát,
+
+d)[^110] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat vezetőjének nevét és beosztását,
+
+e)[^111] a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat várható időtartamát, valamint
+
+f) a vizsgálat nyilvántartási számát.
+
+(2) Az engedélyező a határozatát megküldi
+
+a) a kérelmezőnek és
+
+b) a Nemzeti Egészségbiztosítási Alapkezelőnek.
+
+(3)[^112]
+
+##### 34. §[^113]
+
+Orvostechnikai eszköz klinikai vizsgálata, valamint in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálata az engedély véglegessé válását követően kezdhető meg.
+
+#### Az engedély módosítása
+
+##### 35. §[^114]
+
+(1)[^115] Az engedély módosítására az MDR 75. cikkében vagy az IVDR 71. cikkében foglaltakat kell alkalmazni azzal, hogy a vizsgálat jelentős vagy lényeges módosításának minősül, ha
+
+a) a módosítás az eszköz alkalmazási céljára, körülményeire vagy hatásmechanizmusára vonatkozik,
+
+b) a módosítás megváltoztathatja a vizsgálat elvégzését alátámasztó tudományos dokumentumok értelmezését,
+
+c) a módosítás a vizsgálók részére készített ismertetőt érinti,
+
+d) az addigi vizsgálati eredmények az írásos tájékoztató módosítását teszik szükségessé, vagy
+
+e) a módosítás hatással lehet a vizsgálati alanyok biztonságára, egészségére vagy jogaira.
+
+(2) Az engedély módosítása iránti kérelmet a kérelmező az engedélyező részére elektronikus úton küldi meg.
+
+(3) Az engedély módosítására irányuló kérelemre a 32. és 33. §-ban foglaltakat is megfelelően alkalmazni kell.
+
+#### A vizsgálat ellenőrzése
+
+##### 36. §
+
+(1) Az engedélyező ellenőrzést végezhet a vizsgálatok megkezdése előtt, azok folyamata alatt, illetve azokat követően a vizsgálati engedélyben foglaltak tekintetében. Az engedélyező az ellenőrzésekről nyilvántartást vezet.
+
+(2) Az engedélyező ellenőre a személyére szóló, az engedélyező ellenőrzésre vonatkozó megbízólevelével rendelkező személy lehet. Az ellenőrzés megkezdése előtt az ellenőr az engedélyező által kiadott, az ellenőrzésre jogosító megbízólevelet bemutatja.
+
+(3)[^116] Az engedélyező ellenőrizheti:
+
+a) a vizsgálatra szánt eszköz rendeltetésszerű alkalmazását,
+
+b) a vizsgálat során az adatok előírásoknak megfelelő dokumentálását,
+
+c) az eszközre vonatkozó biztonsági előírások betartását, valamint
+
+d)[^117] a vizsgálatnak az MDR-ben, az IVDR-ben, a jogszabályban, az engedélyben és a vizsgálati tervben előírtak szerinti folytatását.
+
+(4)[^118] Az engedélyező a (3) bekezdés szerinti ellenőrzésről jegyzőkönyvet vesz fel, amelynek másolati példányát elküldi a kérelmezőnek. Az engedélyező kérelem esetén a jegyzőkönyvet az EGT-megállapodásban részes államok hatóságainak rendelkezésére bocsáthatja.
+
+(5)[^119] Az engedélyezett vizsgálattal kapcsolatban a vizsgálati alanyok és a nyilatkozattételre jogosult személyek, a vizsgálók, az IKEB, a vizsgálatot végző szolgáltató vezetője jelzéssel élhetnek az engedélyező felé, ha megítélésük szerint a vizsgálatot az engedélyben, illetve a vizsgálati tervben előírtaktól eltérően folytatják.
+
+(6) Amennyiben az ellenőrzés során észlelt hiányosságok csekély súlyúak, az engedélyező felszólítja a kérelmezőt a hiányosságok megszüntetésére.
+
+#### A klinikai vizsgálat felfüggesztése és megszüntetése
+
+##### 37. §[^120]
+
+(1)[^121] Ha megállapítást nyer, hogy
+
+a)[^122] a vizsgálat folytatása nem felel meg az engedélyben, a vizsgálati tervben, az IVDR-ben, az MDR-ben, e címben és a jogszabályokban foglalt feltételeknek,
+
+b) a vizsgálat veszélyezteti a vizsgálati alanyok vagy a személyzet életét, egészségi állapotát vagy biztonságát,
+
+c) a vizsgálat közrendi vagy közegészségügyi követelményekbe ütközik, vagy
+
+d) a kérelmező a 36. § (6) bekezdése szerinti felszólításban foglaltaknak nem tett eleget,
+
+az engedélyező az MDR 76. cikk (1) bekezdése vagy az IVDR 72. cikk (1) bekezdése szerinti döntést hozhat.
+
+(2)[^123] Az engedélyező az (1) bekezdés szerinti döntéséről és annak indokairól az MDR 76. cikk (3) és (4) bekezdése, illetve az IVDR 72. cikk (3) és (4) bekezdése szerinti tájékoztatás mellett haladéktalanul értesíti az ETT TUKEB-et.
+
+(3)[^124] Ha a kérelmező kívánja a vizsgálatot annak befejezése előtt felfüggeszteni vagy megszüntetni, erről az indokok felsorolásával legkésőbb a felfüggesztéssel vagy megszüntetéssel egyidejűleg az MDR 77. cikkében, illetve az IVDR 73. cikkében foglaltak alkalmazásával az MDR 73. cikke, illetve az IVDR 69. cikke szerinti elektronikus rendszerben értesíti az engedélyezőt, továbbá tájékoztatja az ETT TUKEB-et és valamennyi érintett magyarországi vizsgálóhelyet. A kérelmező vizsgálatot megszüntető döntése alapján az engedélyező törli a vizsgálatot a nyilvántartásból.
+
+(4) A vizsgáló a vizsgálatot köteles haladéktalanul felfüggeszteni, ha azt tapasztalja, hogy annak folytatása a vizsgálati alanyok életét vagy egészségét sérti vagy veszélyezteti. A vizsgáló erről értesíti a kérelmezőt és az engedélyezőt annak érdekében, hogy szükség esetén az engedélyező az (1) és (2) bekezdésben foglaltak alapján járjon el.
+
+### 3/A.[^126] CÍM
+
+#### IONIZÁLÓ SUGÁRZÁS ALKALMAZÁSÁVAL JÁRÓ KUTATÁS ENGEDÉLYEZÉSE
+
+##### 37/B. §
+
+(1) E cím előírásait az emberen végzett, ionizáló sugárzás alkalmazásával járó orvostudományi kutatásra, az ionizáló sugárzást kibocsátó, emberi felhasználásra kerülő vizsgálati gyógyszerek klinikai vizsgálatára, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt, ionizáló sugárzást alkalmazó orvostechnikai eszközök klinikai vizsgálatára kell alkalmazni.
+
+(2) E cím alkalmazásában gondozók és segítők azok a személyek, akik tudatosan és szándékosan ionizáló sugárzásnak teszik ki magukat, miközben az orvosi sugárterhelésben részesülő vagy korábban orvosi sugárterhelésben részesített személyek gondozásában és támogatásában munkaköri kötelezettségeiken kívül segítséget nyújtanak.
+
+(3) E cím alkalmazásában kutatásban közreműködők a kutatást végző egészségügyi szolgáltatónál foglalkoztatott, a kutatásban részt vevő azon személyek, akik tekintetében az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet alapján foglalkozási sugárterhelésre vonatkozó dózismegszorítást kell megállapítani.
+
+(4) Egyéb fogalmak esetében az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet 4. § (1) bekezdésében meghatározottakat kell figyelembe venni.
+
+##### 37/C. §
+
+(1)[^127]
+
+(2) Valamennyi, a 37/B. § (1) bekezdése szerinti kutatás és vizsgálat engedélyezésére irányuló kérelem mellékleteként sugáregészségügyi dokumentációt kell benyújtani a következő tartalommal:
+
+a) a kutatás alanyai tekintetében az egyénre szabott dózisszint megállapítása,
+
+b) dózismegszorítás meghatározása a gondozók és segítők, valamint a kutatásban közreműködők tekintetében,
+
+c) a kutatás alanyainak sugárvédelme szempontjából kiemelten fontos információk:
+
+ca) a nemük,
+
+cb) a koruk,
+
+cc) terhességük, illetve fogamzóképességük ténye,
+
+cd) a sugárterhelésük optimálására hozott intézkedések,
+
+ce) annak ténye, hogy részt vettek korábbi sugárterheléssel járó kutatási programokban,
+
+d) a kutatást végzőkre és a kutatást végző egészségügyi szolgáltatóra vonatkozó információk:
+
+da) ha az atomenergia alkalmazására engedéllyel rendelkező végez kutatást, a radioaktív anyag alkalmazására, illetve ionizáló sugárzást létrehozó, de radioaktív anyagot nem tartalmazó berendezés üzemeltetésére kiadott engedély másolata, valamint a munkahelyi sugárvédelmi szabályzat és a munkahely sugárvédelmi leírása,
+
+db) a vizsgálatvezető irányításával a kutatás során a besugárzást tervezők, jóváhagyók és kivitelezők szakmai és sugárvédelemmel összefüggő szakképesítésére vonatkozó követelmények,
+
+e) a kutatás során az ionizáló sugárzásnak kitett kutatási alanyok, a kutatásban közreműködők, a gondozók és segítők, valamint a lakosság várható sugárterhelésének becslését leíró kockázatelemzés.
+
+### 3/B. [^128] CÍM AZ MDR ÉS AZ IVDR SZERINTI ETIKAI VÉLEMÉNY KIADÁSÁRA IRÁNYULÓ ELJÁRÁS
+
+##### 37/D. §
+
+E cím rendelkezéseit az MDR 62. cikk (4) bekezdés b) pontja, 75. cikk (3) bekezdés b) pontja, valamint az IVDR 58. cikk (5) bekezdés b) pontja és 71. cikk (3) bekezdés b) pontja szerinti etikai vélemény kiadására irányuló eljárásra kell alkalmazni.
+
+##### 37/E. §
+
+(1) Az MDR 62. cikk (4) bekezdés b) pontja, 75. cikk (3) bekezdés b) pontja, valamint az IVDR 58. cikk (5) bekezdés b) pontja és 71. cikk (3) bekezdés b) pontja szerinti etikai vélemény kiadására irányuló eljárásban etikai bizottságként országos illetékességgel az ETT TUKEB jár el.
+
+(2) Az ETT TUKEB eljárása során az Eütv. 159. § (6) bekezdés a) pontja szerinti összetételben jár el.
+
+(3) Az ETT TUKEB eljárásának nyelve a magyar.
+
+(4) Az ETT TUKEB e cím szerinti etikai eljárását hatáskörét rendeltetésszerűen gyakorolva folytatja le. Ennek keretében az ETT TUKEB:
+
+a) a szakszerűség, az egyszerűség, az együttműködés és a jóhiszeműség követelményeinek megfelelően,
+
+b) a törvény előtti egyenlőség és az egyenlő bánásmód követelményét megtartva, indokolatlan megkülönböztetés és részrehajlás nélkül,
+
+c) e rendeletben meghatározott határidőn belül
+
+jár el.
+
+(5) Az ETT TUKEB a hatékonyság érdekében úgy szervezi meg a tevékenységét, hogy az az eljárás valamennyi résztvevőjének a legkevesebb költséget okozza.
+
+(6) Az etikai eljárás valamennyi résztvevője köteles jóhiszeműen eljárni és a többi résztvevővel együttműködni.
+
+(7) Az ETT TUKEB eljárására, határozatképességre, a titoktartásra, az összeférhetetlenségre, az ülések összehívására az Egészségügyi Tudományos Tanácsról szóló miniszteri rendelet előírásai vonatkoznak.
+
+(8) Az ETT TUKEB részletes eljárásrendjét ügyrendben határozza meg.
+
+##### 37/F. §
+
+(1) Az ETT TUKEB eljárását a megbízó kérelmére indítja el. A kérelmet az ETT TUKEB részére kell benyújtani. A kérelemnek tartalmaznia kell:
+
+a) a 16. § b) pontja szerinti orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálatok esetén az adott vizsgálat jellegétől függően az MDR XV. Melléklet II. Fejezetében meghatározott adatokat,
+
+b) a 16. § b) pontja szerinti az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálatok jelentős módosítása esetén a vizsgálat jellegétől függően az MDR XV. Melléklet II. Fejezetében meghatározott adatokat és a vizsgálat bejelentéséhez képest a változások megjelölését,
+
+c) a 21/A. § (1) bekezdése szerinti teljesítőképesség-vizsgálatok esetében a vizsgálat jellegétől függően az IVDR 58. vagy 70. cikkében meghatározott adatokat,
+
+d) a 21/A. § (1) bekezdése szerinti teljesítőképesség-vizsgálatok esetében a vizsgálati terv IVDR 71. cikke szerinti lényeges módosítása esetén a módosítások indokainak és pontos tartalmának megjelölésével az IVDR 71. cikke szerinti adattartalommal, a vizsgálat bejelentéséhez képest a változások megjelölését,
+
+e) a 32. § (2) bekezdése szerinti, orvostechnikai eszközökkel végzett klinikai vizsgálatok esetén az adott vizsgálat jellegétől függően az MDR 70. cikkében előírtakat,
+
+f) a 32. § (2) bekezdése szerinti, orvostechnikai eszközzel végzett klinikai vizsgálatok jelentős módosítása esetén az adott vizsgálat jellegétől függően az MDR 75. cikkében előírtakat a módosítások indokainak és pontos tartalmának megjelölésével,
+
+g) a 32. § (2a) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok esetén az adott vizsgálat jellegétől függően az IVDR 66. cikkében előírtakat,
+
+h) a 32. § (2a) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok lényeges módosítása esetén az adott vizsgálat jellegétől függően az IVDR 71. cikkében előírtakat a módosítások indokainak és pontos tartalmának megjelölésével.
+
+(2) A kérelemben a megbízó megjelöli, hogy az etikai véleményt
+
+a) új vizsgálatra vagy vizsgálat módosítására,
+
+b) az MDR vagy az IVDR alapján,
+
+c) bejelentéshez vagy engedélyezéshez
+
+kérelmezi.
+
+(3) Az etikai vélemény kiállításának költségét, valamint a számlaszámot, amelyre a költséget be kell fizetni az ETT TUKEB a honlapján közzéteszi. A kérelmező a kérelem benyújtásával egyidejűleg igazolja, hogy megfizette az etikai vélemény kiállításának költségét. Az igazolás hiányában az etikai bizottsági eljárás nem indul el.
+
+(4) Az ETT TUKEB az (1) bekezdés szerinti kérelem beérkezését követő naptól számított 60 napon belül adja ki az etikai véleményt.
+
+(5) Az MDR és az IVDR szerinti nem kedvezőtlen etikai vélemény az MDR szerinti klinikai vizsgálat, illetve az IVDR szerinti teljesítőképesség vizsgálat engedélyezésének, MDR szerinti jelentős módosítása, az IVDR szerinti lényeges módosítása engedélyezésének, illetve bejelentésének az előfeltétele.
+
+(6) Az ETT TUKEB megvizsgálja a benyújtott kérelmet és szükség esetén további adatszolgáltatásra hívhatja fel a kérelmezőt. A kért adatszolgáltatás beérkezéséig az eljárás nyugszik.
+
+(7) Az ETT TUKEB szükség esetén felvilágosítást, illetve információt kérhet a vizsgálóhelyként megjelölt egészségügyi szolgáltató illetékes IKEB-étől, hogy az nyilatkozzon a vizsgálóhelyként megjelölt egészségügyi szolgáltatóra vonatkozóan a tárgyi feltételek, szükség esetén a személyi feltételek teljesüléséről.
+
+(8)[^129] Az ETT TUKEB szükség esetén megkeresheti az NNGYK-t, hogy a kérelemmel összefüggésben információt kérjen.
+
+(9) A kérelmező az eljárás során kérelmével összefüggésben írásban nyilatkozatot, észrevételt tehet, kérelmét kiegészítheti.
+
+##### 37/G. §
+
+(1) Az ETT TUKEB véleményében a kérelem szerinti vizsgálatot etikai szempontból
+
+a) megfelelőnek vagy
+
+b) nem megfelelőnek
+
+minősíti.
+
+(2) A 16. § b) pontja szerinti orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat, illetve a vizsgálat jelentős módosítása esetén az ETT TUKEB MDR 62. cikk (4) bekezdés b) pontja szerinti, illetve az MDR 75. cikk (3) bekezdés b) pontja szerint véleménye legalább az alábbi kérdésekre terjed ki:
+
+a) a tervezett vizsgálat érdemi, szakmai-tudományos kérdésfelvetéseket tartalmaz-e, és módszerei alkalmasak-e ezek megválaszolására,
+
+b) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak, valamint
+
+c) a vizsgálat lefolytatása nem ösztönöz-e az orvostechnikai eszköz használatára.
+
+(3) A 21/A. § (1) bekezdése szerinti teljesítőképesség-vizsgálat, illetve a vizsgálati terv lényeges módosítása esetén az ETT TUKEB IVDR 58. cikk (5) bekezdés b) pontja, illetve az IVDR 71. cikk (3) bekezdés b) pontja szerinti etikai véleménye legalább az alábbi kérdésekre terjed ki:
+
+a) a tervezett vizsgálat érdemi, szakmai-tudományos kérdésfelvetéseket tartalmaz-e, és módszerei alkalmasak-e ezek megválaszolására,
+
+b) a tájékoztatáson alapuló beleegyező nyilatkozat, valamint a toborzási felhívás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak, valamint
+
+c) a vizsgálat lefolytatása nem ösztönöz-e az in vitro diagnosztikai orvostechnikai eszköz használatára.
+
+(4) A 30. § (1) bekezdése szerinti vizsgálatok esetében ETT TUKEB MDR 62. cikk (4) bekezdés b) pontja, illetve az IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleménye az alábbi szakkérdésekre terjed ki:
+
+a) a klinikai vizsgálat vagy a teljesítőképesség-vizsgálat és a vizsgálati terv tudományosan megalapozott, indokolt-e,
+
+b) a tervezett vizsgálat érdemi, szakmai-tudományos kérdésfelvetéseket tartalmaz-e, és módszerei alkalmasak-e ezek megválaszolására,
+
+c) a tájékoztatáson alapuló beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e orvostechnikai eszközzel végzett klinikai vizsgálat esetében az MDR 63. cikkében és XV. Mellékletében, in vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat esetében az IVDR 59. cikkében és XIV. Mellékletében meghatározott követelményeknek,
+
+d) a beleegyező nyilatkozat adására nem képes személyek bevonásával végzett vizsgálat indokolt-e, és feltételei fennállnak-e,
+
+e) a vizsgálók szakmai alkalmassága és az egyéb személyi feltételek megfelelőek-e,
+
+f) a vizsgáló részére készített, az MDR XV. melléklete vagy az IVDR XIV. melléklete szerinti ismertető szakmai-tudományos tartalma megfelelő-e,
+
+g) a vizsgáló és a vizsgálati alanyok közötti esetleges függőség megfelel-e a vizsgálat szakmai-etikai követelményeinek, valamint
+
+h) a vizsgálati alanyok személyes adatai kezelésének módja, az azok megismerésére jogosultak köre megfelel-e a vizsgálat szakmai-etikai követelményeinek.
+
+(5) A 30. § (1) bekezdése szerinti vizsgálatok esetében az engedély módosítására az MDR 75. cikkében vagy az IVDR 71. cikkében foglaltakat kell alkalmazni. A vizsgálat jelentős vagy lényeges módosítása esetén az ETT TUKEB az MDR 75. cikk (3) bekezdés b) pontja szerint vagy az IVDR 71. cikk (3) bekezdés b) pontja szerint, az adott módosítási kérelemre vonatkozóan alakítja ki etikai véleményét. A módosítási kérelem elbírálására a (4) bekezdésben foglaltakat is megfelelően alkalmazni kell.
+
+(6) Az ETT TUKEB etikai véleménye tartalmazza az etikai bizottság, a megbízó, valamint az eljárás azonosításához szükséges minden adatot, az indokolást, az etikai vélemény kiállításának költségét, valamint a jogorvoslat igénybevételével kapcsolatos tájékoztatást. Az ETT TUKEB az etikai véleményt külön okiratban szövegezi meg.
+
+(7) Az ETT TUKEB etikai véleményét a kérelmező részére megküldi.
+
+(8) Az ETT TUKEB etikai véleményével szemben a kézhezvételtől számított 15 napon belül az ETT Elnökségéhez címzett fellebbezésnek van helye. Fellebbezni az etikai véleményre vonatkozóan, tartalmilag azzal közvetlenül összefüggő okból lehet. A fellebbezést indokolni kell.
+
+(9) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról lemondhat. A fellebbezési jogról történő lemondás nem vonható vissza, arra egyebekben a kérelemre vonatkozó szabályok az irányadóak.
+
+(10) A fellebbezést az ETT TUKEB-nek kell benyújtani. A fellebbezést az ETT Elnöksége az ETT TUKEB-hez történő benyújtás napját követő naptól számított 60 napon belül bírálja el az etikai eljárásra vonatkozó jelen cím szerinti rendelkezések szerint.
+
+(11) Az ETT Elnöksége az etikai véleményt helybenhagyja, illetve a fellebbezésben hivatkozott érdeksérelem vagy jogszabálysértés esetén azt megváltoztatja vagy megsemmisíti.
+
+(12) Ha a vélemény kialakításához nincs elég adat, vagy ha egyébként szükséges, az ETT Elnöksége tisztázza a tényállást és kialakítja etikai véleményét.
+
+(13) Az ETT TUKEB etikai véleményét kijavítja, ha az etikai véleményében elírás, illetve számítási hiba van, és az nem hat ki az ügy érdemére. Az etikai vélemény kijavítással érintett része ellen ugyanolyan jogorvoslatnak van helye, mint az eredeti etikai vélemény ellen volt.
+
+(14) Az ETT TUKEB az etikai véleményt kiegészíti, ha az etikai véleményből jogszabály által előírt kötelező tartalmi elem hiányzik. Az etikai vélemény kiegészítésének nincs helye, ha az etikai vélemény kézhezvételétől számított egy év eltelt. Az ETT TUKEB a kiegészítést egységes etikai véleménybe foglalva, lehetőleg az etikai vélemény kicserélésével közli. A kiegészítés ellen ugyanolyan jogorvoslatnak van helye, mint az eredeti etikai vélemény ellen volt. Az ETT TUKEB a kiegészítést közli azzal, akivel az eredeti etikai véleményt közölte.
+
+(15) Ha az ETT TUKEB megállapítja, hogy az ETT Elnöksége vagy a bíróság által el nem bírált etikai véleménye jogszabályt sért, az etikai véleményt annak közlésétől számított egy éven belül, legfeljebb egy ízben módosítja vagy visszavonja.
+
+(16) Az etikai vélemény végleges, ha azt az etikai bizottság már nem változtathatja meg. A vélemény véglegessé válik, ha
+
+a) ellene nem fellebbeztek, és a fellebbezési határidő letelt,
+
+b) a fellebbezésről lemondtak vagy a fellebbezést visszavonták, vagy
+
+c) az ETT Elnöksége az ETT TUKEB véleményét helybenhagyta, annak közlésével.
+
+## 4. CÍM — AZ ÁLLAMI NÉPEGÉSZSÉGÜGYI ÉS TISZTIORVOSI SZOLGÁLATRÓL ÉS A GYÓGYSZERÉSZETI ÁLLAMIGAZGATÁSI SZERV KIJELÖLÉSÉRŐL SZÓLÓ 362/2006. (XII. 28.) KORM. RENDELET, VALAMINT AZ EGÉSZSÉGÜGYI ENGEDÉLYEZÉSI ÉS KÖZIGAZGATÁSI HIVATALRÓL SZÓLÓ 295/2004. (X. 28.) KORM. RENDELET MÓDOSÍTÁSA
+
+##### 40. §
+
+(1) E rendeletet a gyermekgyógyászati felhasználásra szánt gyógyszerkészítményekről, valamint az 1768/92/EGK rendelet, a 2001/20/EK irányelv, a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2006. december 12-i 1901/2006/EK európai parlamenti és tanácsi rendelet, továbbá a fejlett terápiás gyógyszerkészítményekről, valamint a 2001/83/EK irányelv és a 726/2004/EK rendelet módosításáról szóló, 2007. november 13-i 1394/2007/EK európai parlamenti és tanácsi rendelet figyelembevételével kell alkalmazni.
+
+(2)[^132] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló, 1990. június 20-i 90/385/EGK tanácsi irányelv,
+
+b) az orvostechnikai eszközökről szóló, 1993. június 14-i 93/42/EGK európai parlamenti és tanács irányelv,
+
+c) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról szóló, 2007. szeptember 5-i 2007/47/EK európai parlamenti és tanácsi irányelv,
+
+d)[^133] az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv,
+
+e)[^134] az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/EURATOM tanácsi irányelv.
+
+(3)[^135] Ez a rendelet az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010. április 19-i 2010/227/EU számú bizottsági határozat végrehajtásához szükséges intézkedéseket állapítja meg.
+
+(4)[^136] Ez a rendelet
+
+a) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet,
+
+b)[^137] az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 62–82. cikke, valamint XV. Melléklete,
+
+c)[^138] az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet 57–73., 76. cikke, valamint XIII. és XIV. Melléklete,
+
+d)[^139] az 536/2014/EU európai parlamenti és tanácsi rendelet szerinti helyes klinikai gyakorlatnak megfelelő inspekciós eljárásokkal kapcsolatos részletes szabályokról szóló, 2017. március 24-i (EU) 2017/556 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+##### 41. §
+
+(1) Ez a rendelet – a (2) bekezdésében foglaltak kivételével – a kihirdetését követő napon lép hatályba azzal, hogy a hatálybalépését megelőzően benyújtott, de el nem bírált kérelmek esetén az e rendeletben foglaltakat kell alkalmazni.
+
+(2) A 40. § (2) bekezdése 2010. március 21-én lép hatályba.
+
+(3) A 38–39. § az e rendelet hatálybalépését követő napon hatályát veszti.
+
+##### 42. §[^140]
+
+(1)[^141] Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 364/2014. (XII. 30.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 2. § g) pontjában, 3. § (1) és (4) bekezdésében, 10. §-ban, 12. § (1) bekezdésében, 14. § (1) bekezdésében, valamint 2. mellékletben foglaltakat a 2015. március 1-jét megelőzően már benyújtott, de el nem bírált kérelmek esetében is alkalmazni kell.
+
+(2)[^142]
+
+(3)[^143]
+
+##### 43. §[^144]
+
+(1) E rendeletnek az egyes kormányrendeleteknek a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokra vonatkozó, jogharmonizációs célú módosításáról szóló 724/2021. (XII. 20.) Korm. rendelettel módosított 2. címét – a (2) bekezdés b) pontjában meghatározott kivételekkel – azon klinikai vizsgálatokra kell alkalmazni, amelyek engedélyezése iránt a kérelmet 2022. január 30-át követően nyújtották be.
+
+(2) E rendeletnek a 2022. január 30-án hatályos 2. címét kell alkalmazni 2025. január 30-ig azon klinikai vizsgálatokra, amelyek engedélyezése iránt a kérelmet
+
+a) 2022. január 31-ét megelőzően, vagy
+
+b) 2023. január 30-ig – az 536/2014/EU európai parlamenti és tanácsi rendelet 98. cikk (2) bekezdésére figyelemmel – e rendeletnek a 2022. január 30-án hatályos rendelkezései alapján
+
+nyújtották be.
+
+##### 44. §[^145]
+
+(1)[^146] Az MDR 73. cikke és az IVDR 69. cikke szerinti elektronikus rendszer működőképessé válásáig az MDR és az IVDR alapján e rendszer használatával teljesítendő kötelezettségeknek az ügyfél és az NNGYK az elektronikus ügyintézés szabályainak alkalmazásával tesz eleget.
+
+(2)[^147] Az MDR 73. cikke és az IVDR 69. cikke szerinti elektronikus rendszer működőképessé válásáig az MDR alapján e rendszer használatával az Európai Gazdasági Térségben részes államok és az Európai Bizottság felé teljesítendő, a III. cím hatálya alá tartozó, orvostechnikai eszközök klinikai vizsgálatára vonatkozó tájékoztatási kötelezettségeinek az NNGYK az orvostechnikai eszközök európai adatbankjáról (Eudamed) szóló, 2010. április 19-i 2010/227/EU bizottsági határozat szerinti Eudamed-be történő adatszolgáltatással tesz eleget.
+
+(3)[^148] Az MDR 73. cikke és az IVDR 69. cikke szerinti elektronikus rendszer működőképessé válásának naptári napjáról az NNGYK honlapján közleményt tesz közzé.
+
+## Melléklet a 235/2009. (X. 20.) Korm. rendelethez[^149]
+
+## 2. melléklet a 235/2009. (X. 20.) Korm. rendelethez[^150]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 724/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^3]: Az 1/A. §-t a 724/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2022. (IV. 7.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
+[^4]: Az 1. cím címe a 164/2020. (IV. 30.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § d) pontja a 46/2014. (II. 26.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^6]: A 2. § e) pontja a 457/2017. (XII. 28.) Korm. rendelet 268. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 2. § g) pontját a 724/2021. (XII. 20.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^8]: A 3. § (1) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 46. § a) pontja hatályon kívül helyezte. [Nem vezethető át a 286/2023. (VI. 30.) Korm. rendelet 32. §-ában foglalt azon módosítás, amely szerint a 3. § (2) bekezdése újraszabályozásra kerül.]
+[^10]: A 3. § (3) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^11]: A 3. § (4) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 76. § (2) bekezdése iktatta be.
+[^12]: A 3/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 3/A. § (1) bekezdés h) pontját a 96/2025. (V. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^14]: A 3/A. § (1) bekezdés i) pontját a 96/2025. (V. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A 3/A. § (2) bekezdés nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^16]: A 3/A. § (3) bekezdés a) pontja a 96/2025. (V. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § d) pontja a 96/2025. (V. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § e) pontját a 96/2025. (V. 12.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 5. §-t a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 96/2025. (V. 12.) Korm. rendelet 3. §-a iktatta be.
+[^20]: A 7. § e) pontja a 364/2014. (XII. 30.) Korm. rendelet 83. §-a szerint módosított szöveg.
+[^21]: A 7. § l) pontja a 46/2014. (II. 26.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^22]: A 9. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^23]: A 9. § (2) bekezdés d) pontját a 96/2025. (V. 12.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A „Stratégiai Kutatási Bizottság” alcímet (9/A. §-t) a 96/2025. (V. 12.) Korm. rendelet 5. §-a iktatta be.
+[^26]: A 11. § (1) bekezdése a 250/2017. (IX. 5.) Korm. rendelet 34. §-a, a 286/2023. (VI. 30.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^27]: A 11. § (2) bekezdése a 286/2023. (VI. 30.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^28]: A 11. § (3) bekezdés c) pontja a 364/2014. (XII. 30.) Korm. rendelet 84. § a) pontja szerint módosított szöveg.
+[^29]: A 11. § (3) bekezdés e) pontját a 364/2014. (XII. 30.) Korm. rendelet 78. §-a iktatta be.
+[^30]: A 11. § (3) bekezdés f) pontját a 364/2014. (XII. 30.) Korm. rendelet 78. §-a iktatta be.
+[^31]: A 11. § (3) bekezdés g) pontját a 96/2025. (V. 12.) Korm. rendelet 6. §-a iktatta be.
+[^32]: A 11. § (3a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 34. §-a iktatta be.
+[^33]: A 11/A. §-t a 96/2025. (V. 12.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 12. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^35]: A 12. § (2) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 84. § b) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 268. § (3) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^36]: A 12. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 84. § b) pontja hatályon kívül helyezte.
+[^37]: A 13. § a 192/2015. (VII. 21.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^38]: A 14. § (1) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 80. §-ával megállapított, a 192/2015. (VII. 21.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
+[^39]: A 15. §-t megelőző alcím címe a 164/2020. (IV. 30.) Korm. rendelet 13. § c) pontja, a 135/2022. (IV. 7.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^40]: A 15. § a 135/2022.(IV. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^41]: A 16. § a 308/2012. (XI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^42]: A 16. § b) pontja a 164/2020. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: A 16. § c) pontja a 724/2021. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^44]: A 17. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^45]: A 17. § (1) bekezdés a) pontja a 155/2025. (VI. 23.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^46]: A 17. § (1) bekezdés b) pontja a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^47]: A 17. § (1) bekezdés b) pont ba) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^48]: A 17. § (1) bekezdés b) pont bb) alpontja a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^49]: A 17. § (1) bekezdés c) pontját a 164/2020. (IV. 30.) Korm. rendelet 2. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 4. pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^50]: A 17. § (1a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^51]: A 17. § (1b) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^52]: A 17. § (1c) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^53]: A 17. § (2) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^54]: A 17. § (3) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^55]: A 17/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: A 17/A. § (1) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^57]: A 17/A. § (1) bekezdés b) pontja a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^58]: A 17/A. § (2) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^59]: A 17/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 268. § (4) bekezdése iktatta be, szövege a 135/2022.(IV. 7.) Korm. rendelet 3. §-ával megállapított, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^60]: A 18. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^61]: A 18. § (1) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (5) bekezdésével megállapított szöveg.
+[^62]: A 18. § (1a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 36. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 18. § (1b) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 36. § (2) bekezdése iktatta be, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 145. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^64]: A 18. § (2) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.
+[^65]: A 18. § (2a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 164/2020. (IV. 30.) Korm. rendelet 14. § a) pontja.
+[^66]: A 18. § (2b) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^67]: A 18. § (2c) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, a 135/2022. (IV. 7.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^68]: A 18. § (3) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^69]: A 18. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 41. § g) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^70]: A 18. § (4) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^71]: A 18. § (4) bekezdés d) pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^72]: A 18. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^73]: A 19. § (1) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 135/2022. (IV. 7.) Korm. rendelet 13. § 5. pontja, a 128/2024. (VI. 17.) Korm. rendelet 7. § a) és b) pontja szerint módosított szöveg.
+[^74]: A 19. § (1) bekezdés b) pontja a 334/2023. (VII. 20.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^75]: A 19. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^76]: A 19. § (1) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, nyitó szövegrésze a 135/2022. (IV. 7.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
+[^77]: A 19. § (1a) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 59. §-a iktatta be, szövege a 164/2020. (IV. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 7. pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § e) pontja, a 128/2024. (VI. 17.) Korm. rendelet 7. § b) és c) pontja szerint módosított szöveg.
+[^78]: A 19. § (1b) bekezdését a 164/2020. (IV. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 135/2022. (IV. 7.) Korm. rendelet 13. § 8. pontja szerint módosított szöveg.
+[^79]: A 19. § (2) bekezdés nyitó szövegrésze a 128/2024. (VI. 17.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^80]: A 19. § (3) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 56. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja, a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^81]: A 19. § (4) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^82]: A 19. § (5) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 164/2020. (IV. 30.) Korm. rendelet 14. § b) pontja.
+[^83]: A 20. § a 155/2025. (VI. 23.) Korm. rendelet 9. § (7) bekezdésével megállapított szöveg.
+[^84]: A 21. § a 137/2012. (VI. 29.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^85]: A 21. § (1) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^86]: A 21. § (2) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 9. § (8) bekezdésével megállapított szöveg.
+[^87]: A 21. § (3) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 164/2020. (IV. 30.) Korm. rendelet 13. § j) pontja, a 135/2022. (IV. 7.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
+[^88]: A 21/A. §-t a 135/2022.(IV. 7.) Korm. rendelet 4. §-a iktatta be.
+[^89]: A 21/A. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^90]: A 21/A. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^91]: A 21/A. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^92]: A 21/A. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^93]: A 2. cím (22–29/A. §) a 724/2021. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^94]: A 22/A. §-t a 463/2024. (XII. 30.) Korm. rendelet 39. §-a iktatta be.
+[^95]: A 24. § (4a) bekezdését a 463/2024. (XII. 30.) Korm. rendelet 40. §-a iktatta be.
+[^96]: A 26. § a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^97]: A 27. § a 334/2023. (VII. 20.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
+[^98]: A 3. cím címe a 308/2012. (XI. 6.) Korm. rendelet 8. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.
+[^99]: A 30. § a 135/2022.(IV. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^100]: A 31. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított, a 135/2022. (IV. 7.) Korm. rendelet 13. § 12. pontja szerint módosított szöveg.
+[^101]: A 32. §-t megelőző alcím címe a 135/2022. (IV. 7.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
+[^102]: A 32. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^103]: A 32. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^104]: A 32. § (2) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^105]: A 32. § (2a) bekezdését a 135/2022.(IV. 7.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^106]: A 32. § (3) bekezdése a 135/2022. (IV. 7.) Korm. rendelet 13. § 14. pontja szerint módosított szöveg.
+[^107]: A 32. § (4) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^108]: A 33. § a 164/2020. (IV. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^109]: A 33. § (1) bekezdés a) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^110]: A 33. § (1) bekezdés d) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^111]: A 33. § (1) bekezdés e) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 15. pontja szerint módosított szöveg.
+[^112]: A 33. § (3) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^113]: A 34. §-t a 164/2020. (IV. 30.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte, újonnan a 135/2022.(IV. 7.) Korm. rendelet 7. §-a iktatta be.
+[^114]: A 35. § a 164/2020. (IV. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^115]: A 35. § (1) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^116]: A 36. § (3) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^117]: A 36. § (3) bekezdés d) pontja a 135/2022. (IV. 7.) Korm. rendelet 13. § 16. pontja szerint módosított szöveg.
+[^118]: A 36. § (4) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § k) és 14. § f) pontja szerint módosított szöveg.
+[^119]: A 36. § (5) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 13. § l) pontja, a 135/2022. (IV. 7.) Korm. rendelet 13. § 17. pontja szerint módosított szöveg.
+[^120]: A 37. § a 164/2020. (IV. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^121]: A 37. § (1) bekezdés záró szövegrésze a 135/2022. (IV. 7.) Korm. rendelet 13. § 18. pontja szerint módosított szöveg.
+[^122]: A 37. § (1) bekezdés a) pontja a 135/2022.(IV. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^123]: A 37. § (2) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^124]: A 37. § (3) bekezdése a 135/2022.(IV. 7.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^126]: A 3/A. címet (37/B–37/C. §) a 250/2017. (IX. 5.) Korm. rendelet 32. §-a iktatta be, szövege a 724/2021. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^127]: A 37/C. § (1) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^128]: A 3/B. címet (37/D–37/G. §) a 135/2022. (IV. 7.) Korm. rendelet 10. §-a iktatta be.
+[^129]: A 37/F. § (8) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § g) pontja szerint módosított szöveg.
+[^132]: A 40. § (2) bekezdése a 41. § (2) bekezdése alapján 2010. március 21-én lép hatályba.
+[^133]: A 40. § (2) bekezdés d) pontját a 137/2012. (VI. 29.) Korm. rendelet 59. §-a iktatta be.
+[^134]: A 40. § (2) bekezdés e) pontját a 250/2017. (IX. 5.) Korm. rendelet 33. §-a iktatta be.
+[^135]: A 40. § (3) bekezdését a 73/2011. (IV. 29.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^136]: A 40. § (4) bekezdését a 164/2020. (IV. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 724/2021. (XII. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^137]: A 40. § (4) bekezdés b) pontja a 135/2022. (IV. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^138]: A 40. § (4) bekezdés c) pontja a 135/2022. (IV. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^139]: A 40. § (4) bekezdés d) pontját a 135/2022. (IV. 7.) Korm. rendelet 11. §-a iktatta be.
+[^140]: A 42. §-t újonnan a 364/2014. (XII. 30.) Korm. rendelet 81. §-a iktatta be.
+[^141]: A 42. § (1) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 46. § c) pontja szerint módosított szöveg.
+[^142]: A 42. § (2) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 46. § d) pontja hatályon kívül helyezte.
+[^143]: A 42. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 145. § (2) bekezdés d) pontja hatályon kívül helyezte.
+[^144]: A 43. §-t a 724/2021. (XII. 20.) Korm. rendelet 7. §-a iktatta be.
+[^145]: A 44. §-t a 135/2022. (IV. 7.) Korm. rendelet 12. §-a iktatta be.
+[^146]: A 44. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^147]: A 44. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^148]: A 44. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^149]: A mellékletet a 164/2020. (IV. 30.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
+[^150]: A 2. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 259. § (2) bekezdése iktatta be, hatályon kívül helyezte a 70/2015. (III. 30.) Korm. rendelet 144. § (2) bekezdése.

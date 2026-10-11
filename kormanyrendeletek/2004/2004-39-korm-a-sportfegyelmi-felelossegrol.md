@@ -1,0 +1,267 @@
+---
+title: "39/2004. (III. 12.) Korm. rendelet a sportfegyelmi felelősségről"
+identifier: "39/2004. (III. 12.) Korm. rendelet"
+njt_id: "2004-39-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/39"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-03-12
+in_force_from: 2008-05-16
+last_amended: 2021-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-39-20-22"
+retrieved: 2026-10-12
+---
+
+# 39/2004. (III. 12.) Korm. rendelet a sportfegyelmi felelősségről
+
+A sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 79. §-a (1) bekezdésének *b)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §[^1]
+
+E rendelet alkalmazásában sportszervezet: a sportról szóló 2004. évi I. törvény 15. § (1) bekezdésében meghatározott szervezet.
+
+## 2. §
+
+(1) A sportfegyelmi eljárást a sportszövetség, illetve – ha a sportszövetség sportfegyelmi szabályzata lehetővé teszi – első fokon a sportszövetség területi szervezeti egysége vagy tagozata (a továbbiakban együtt: eljáró szerv) folytatja le.
+
+(2) Az eljáró szerv az első fokú eljárás lefolytatására sportfegyelmi bizottságot, továbbá a sportszövetség a másodfokú eljárás lefolytatására sportfegyelmi szabályzatában meghatározott fellebbviteli szervet (a továbbiakban: sportszövetség fellebbviteli szerve) köteles működtetni.
+
+(3) A sportfegyelmi bizottság legalább három tagból áll.
+
+(4) A sportszövetség sportfegyelmi szabályzatának eltérő rendelkezése hiányában a sportfegyelmi bizottság:
+
+a) tagjai közül elnököt választ;
+
+b) működési rendjét maga állapítja meg.
+
+## 3. §
+
+(1) A sportfegyelmi bizottság eljárásában és döntéshozatalában elnökként, tagként nem vehet részt, illetve jegyzőkönyvvezetőként nem működhet közre:
+
+a)[^2] az eljárás alá vont versenyző, sportszakember Polgári Törvénykönyvben meghatározott hozzátartozója;
+
+b) akit az eljárás során tanúként vagy szakértőként hallgattak meg;
+
+c) akinek a sportfegyelmi büntetés megállapításához vagy annak elmaradásához érdeke fűződik;
+
+d) akitől egyébként az ügy elfogulatlan elbírálása nem várható el;
+
+e) a másodfokú eljárásban, aki az első fokú eljárásban a sportfegyelmi bizottság elnöke, tagja volt.
+
+(2) Az elnök, a tag, illetve a jegyzőkönyvvezető az összeférhetetlenséget köteles a sportfegyelmi bizottságnak bejelenteni, és tevékenységét az eljárásban egyidejűleg megszüntetni. Az elnök, a tag, illetve a jegyzőkönyvvezető összeférhetetlenségét az eljárás alá vont is – az annak alapjául szolgáló tényről való tudomásszerzést követően haladéktalanul – bejelentheti. Összeférhetetlenség megállapítása esetén a sportfegyelmi bizottság az elnököt, a tagot, illetve a jegyzőkönyvvezetőt az eljárásból kizárja, és az eljárást az elnök, a tag, illetve a jegyzőkönyvvezető tevékenységével érintett részében megismétli.
+
+(3) Az összeférhetetlenségi eljárásra vonatkozó részletes előírásokat a sportszövetség sportfegyelmi szabályzata állapítja meg.
+
+## 4. §
+
+(1)[^3] Kötelezettségszegés megalapozott gyanúja esetén a sportfegyelmi bizottság elnöke sportfegyelmi eljárást indít. Az (1c) bekezdésben meghatározott kivétellel nem indítható sportfegyelmi eljárás, ha a kötelezettségszegés elkövetése óta a sportszövetség sportfegyelmi szabályzatában meghatározott határidő (a továbbiakban: elévülési határidő) eltelt. Külföldön elkövetett kötelezettségszegés esetén az elévülési határidőt az eljárás alá vont személy belföldre történő visszaérkezésétől kell számítani.
+
+(1a)[^4] A sportszövetség a sportfegyelmi szabályzatában az elévülési határidőt úgy állapíthatja meg, hogy az elévülési határidő
+
+a) igazodjon a kötelezettségszegés tárgyi súlyához és
+
+b) a kötelezettségszegéstől számított legalább 1 év, legfeljebb 10 év legyen.
+
+(1b)[^5] Ha a sportszövetség sportfegyelmi szabályzata az elévülési határidőről nem rendelkezik, akkor az elévülési határidő a kötelezettségszegéstől számított egy év.
+
+(1c)[^6] A verseny, mérkőzés vagy versenyrendszer (bajnokság) eredményének jogellenes befolyásolása esetén a sportfegyelmi eljárás megindításának joga nem évül el.
+
+(2)[^7] A sportfegyelmi bizottság elnöke nyolc napon belül elektronikus úton értesíti az eljárás alá vont személyt, illetve a sportszervezetet a sportfegyelmi eljárás megindításáról, kivéve, ha az eljárás alá vont személy, illetve sportszervezet az elektronikus úton történő értesítést kifejezetten kizárta. Az elektronikus úton történő értesítés kizárása esetén az értesítés írásban, a postai szolgáltatásokról szóló törvény szerinti hivatalos iratként, tértivevény többletszolgáltatással feladott postai küldemény megküldésével kerül teljesítésre.
+
+(3) Az értesítésben meg kell jelölni:
+
+a) a sportfegyelmi eljárás tárgyát és megindításának jogalapját;
+
+b) a sportfegyelmi eljárás alapjául szolgáló cselekményt;
+
+c)[^8] ha tárgyalás megtartására kerül sor, annak helyét és időpontját;
+
+d)[^9] tárgyalás tartása esetén az arra való felhívást, hogy az eljárás alá vont kérésére a tárgyalás elektronikus hírközlő hálózat útján kerül megtartásra.
+
+(4) Az értesítéshez egyidejűleg csatolni kell a sportfegyelmi eljárás elrendelésének alapjául szolgáló, az eljárás során bizonyítékként felhasználható iratok másolatát is.
+
+(5)[^10] Tárgyalás tartása esetén a tárgyalást úgy kell kitűzni, hogy arról a felek az értesítést a tárgyalás előtt legalább három munkanappal korábban megkapják.
+
+(6) Ha a sportfegyelmi eljárás alá vont személy kiskorú, az eljárás megindításáról törvényes képviselőjét kell értesíteni, aki köteles részt venni a sportfegyelmi eljárásban. Amennyiben a törvényes képviselő ennek nem tesz eleget, a kiskorú képviseletét az ágazatban működő munkavállalói, illetve szakmai érdek-képviseleti szerv köteles ellátni.
+
+(7)[^11] Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy az értesítést nem veszi át, az értesítést a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
+
+(8)[^12] Ha az értesítés a sportfegyelmi bizottsághoz „nem kereste” jelzéssel érkezik vissza, az értesítést a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon – az ellenkező bizonyításig – kézbesítettnek kell tekinteni.
+
+(9)[^13] A kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított 8 napon belül, de legkésőbb a kézbesítési vélelem beálltától számított 15 napos jogvesztő határidőn belül terjeszthet elő. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják vagy a címzett önhibájának hiányát valószínűsítik.
+
+(10)[^14] A (9) bekezdés szerinti kérelmet az a sportfegyelmi bizottság bírálja el, amelyik a kézbesítés tárgyát képező értesítést kiadmányozta. A kérelem előterjesztésének a sportfegyelmi eljárás megindítására halasztó hatálya van. Ha a sportfegyelmi bizottság a kérelemnek helyt ad, a sportfegyelmi eljárás megtartására az (5) bekezdésben és az 5. § (1) bekezdésében meghatározott határidőkre figyelemmel új határidőt tűz ki, amellyel szemben igazolási kérelem ismételt előterjesztésének nincs helye.
+
+(11)[^15] Az elektronikus kézbesítés
+
+a) versenyző esetén a versenyengedély iránti kérelem benyújtásával egyidejűleg a versenyző által;
+
+b) sportszakember esetén a munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létesítésekor a sportszakember által;
+
+c) a sportszövetség versenyrendszerében részt vevő sportszervezet esetén a sportszervezet által a versenyrendszerben (bajnokság) szervezett első verseny (mérkőzés) megrendezését megelőzően legalább 15 nappal
+
+megjelölt elektronikus elérhetőségre (e-mail) történik.
+
+(12)[^16] Ha az értesítés a (11) bekezdésben meghatározott elektronikus elérhetőségre történik, az értesítést akkor kell kézbesítettnek tekinteni, ha a címzett által elektronikusan visszaigazolásra kerül az értesítés kézbesítése. Ha a címzett az elküldést követő 3 napon belül nem igazolja vissza a kézbesítés megtörténtét, a (2) bekezdés szerinti postai úton kell az értesítést megküldeni.
+
+(13)[^17] Az eljárás alá vont személy – a sportszövetség vonatkozó szabályzatában meghatározott részletes szabályok alapján – kezdeményezheti az elektronikus kézbesítés teljesítésére megjelölt elektronikus elérhetősége módosítását.
+
+## 5. §
+
+(1)[^18] A sportszövetség a sportfegyelmi szabályzatában határozza meg, hogy milyen körülmények fennállása esetén szükséges az első fokú sportfegyelmi eljárás során tárgyalást tartani, azzal, hogy ha a sportfegyelmi szabályzat szerint tárgyalás megtartása szükséges, azt legkésőbb az eljárás megindításáról szóló értesítés kézhezvételétől számított tizenöt napon belül meg kell tartani.
+
+(1a)[^19] Az eljárás alá vont kérésére a tárgyalást elektronikus hírközlő hálózat útján kell megtartani.
+
+(2) Ha valamelyik fél vagy jogi képviselője a tárgyaláson nem jelenik meg, tárgyalást tartani és az ügyet érdemben elbírálni csak akkor lehet, ha az eljárás alá vontat vagy jogi képviselőjét szabályszerűen értesítették. Az értesítés akkor szabályszerű, ha az értesítésnek a 4. § (3) bekezdés szerinti tartalmi elemeit, valamint az értesítéssel kapcsolatos határidőket a sportfegyelmi bizottság megtartotta és ezt az eljárás irataiból igazolni tudja.
+
+(3) Az eljárás lefolytatható akkor is, ha az eljárás alá vont vagy jogi képviselője írásban bejelentette, hogy a tárgyaláson nem kíván részt venni.
+
+(4) Az eljárás alá vont vagy jogi képviselője a tárgyalásról szóló értesítés kézhezvétele és a tárgyalás napját megelőző nap közötti időtartamban írásban jelezheti a sportfegyelmi bizottság elnöke felé, hogy a tárgyaláson önhibáján kívüli okból nem tud részt venni. Ebben az esetben a sportfegyelemi bizottság elnöke új tárgyalást tűz ki.
+
+## 6. §
+
+(1) A sportfegyelmi bizottság elnöke a tárgyalás megnyitását követően ismerteti az eljárás alá vonttal az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait. Az eljárás alá vont az ügy iratait megtekintheti, az elhangzottakra észrevételt tehet és további bizonyítást javasolhat.
+
+(2) A tárgyaláson a tényállás tisztázása érdekében bizonyítást kell lefolytatni, amely során a sportfegyelmi bizottság tanút, szakértőt hallgathat meg, valamint tárgyi bizonyítékként iratokat, fénykép-, hang- és filmfelvételt szerezhet be, továbbá szemlét tarthat.
+
+(3) A tárgyalásról és az egyes eljárási cselekményekről jegyzőkönyvet kell felvenni. A jegyzőkönyvet az ügy irataival együtt kell kezelni.
+
+(4) Az eljárás alá vont az eljárás során meghatalmazás alapján jogi képviselőt vehet igénybe. A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. A jogi képviselő köteles írásbeli meghatalmazásának eredeti példányát vagy annak hitelesített másolatát a sportfegyelmi bizottságnak legkésőbb a tárgyalás megkezdésekor bemutatni. A meghatalmazás visszavonására, felmondására és ezek bejelentésére a meghatalmazásra vonatkozó rendelkezéseket megfelelően alkalmazni kell. Az eljárás alá vont kérelmére az eljárás során az ágazatban működő munkavállalói, illetve szakmai érdekképviseleti szerv részvételét, illetve képviseleti jogának gyakorlását lehetővé kell tenni.
+
+(5)[^20] Ha a sportfegyelmi eljárás során tárgyalás tartására nem kerül sor, vagy az eljárás alá vont meghallgatására tartós akadályoztatása miatt az eljárás időtartama alatt nem kerülhet sor, az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait vele írásban kell közölni, és fel kell szólítani, hogy védekezését a kézhezvételtől számított nyolcnapos határidőn belül terjessze elő.
+
+(6)[^21] Az első fokú eljárást a megindításától számított legfeljebb harminc napon belül határozathozatallal be kell fejezni. Az ügy bonyolultsága esetén a sportfegyelmi bizottság elnöke az eljárást egy alkalommal tizenöt nappal meghosszabbíthatja. Ha tárgyalás tartása esetén az ügy a tárgyaláson nem volt tisztázható, a tárgyalást követő nyolc napon belül újabb tárgyalást kell tartani.
+
+(7) A sportfegyelmi bizottság határozatában
+
+a) a kötelezettségszegést megállapítja és büntetést szab ki, vagy
+
+b) megállapítja, hogy az eljárás alá vont a kötelezettségszegést nem követte el, vagy
+
+c) az eljárást megszünteti.
+
+## 7. §
+
+(1) A sportfegyelmi bizottság elnökének javaslatára a sportfegyelmi bizottság az eljárást felfüggesztheti:
+
+a) legfeljebb az akadály megszűnéséig, ha az eljárás alá vont önhibáján kívül védekezését a 6. § (5) bekezdésében meghatározottak szerint nem tudja előterjeszteni, illetve
+
+b) legfeljebb a büntető- vagy szabálysértési eljárás jogerős befejezéséig, ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult, feltéve, hogy a jogerős határozat nélkül a tényállás nem tisztázható.
+
+(2) A felfüggesztés időtartama a 6. § (6) bekezdés szerinti határidőbe nem számít be.
+
+## 8. §[^22]
+
+Meg kell szüntetni a sportfegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy elhalálozik vagy az eljárás alá vont sportszervezet megszűnik.
+
+## 9. §
+
+Ha az eljárás alá vont személy jogviszonya a sportfegyelmi büntetés letöltése előtt megszűnik, a büntetést vagy annak hátralévő részét annak az Stv. hatálya alá tartozó sportszövetségnek kell foganatosítania, amellyel az eljárás alá vont személy jogviszonyba kerül.
+
+## 10. §
+
+(1) A sportfegyelmi bizottság elnöke az eljárás befejezésétől számított nyolc napon belül köteles a sportfegyelmi bizottság határozatát írásba foglalni, és az eljárás alá vonttal kézbesítés útján közölni.
+
+(2) A sportfegyelmi határozatnak tartalmaznia kell:
+
+a) az eljáró sportfegyelmi bizottság megnevezését, a bizottság elnökének és tagjainak, valamint az eljárás alá vont azonosítására szolgáló adatokat, az ügy iktatószámának és tárgyának megjelölését;
+
+b) a rendelkező részben az érdemi döntést, a kiszabott büntetés fajtáját, mértékét, időtartamát, a sportfegyelmi határozattal szembeni jogorvoslat lehetőségéről szóló tájékoztatást, az eljárással kapcsolatban felmerült költségek viseléséről való döntést;
+
+c) az indokolásban az eljárás alapjául szolgáló kötelességszegés leírását, a bizonyítási eljárás eredményeképpen a sportfegyelmi bizottság által elfogadott vagy mellőzött bizonyítékokat, a határozat alapjául szolgáló jogszabályi rendelkezéseket, a sportszövetség sportfegyelmi szabályzata vonatkozó rendelkezéseinek megjelölését;
+
+d) a határozat meghozatalának helyét és időpontját, valamint a határozat kiadmányozójának nevét.
+
+(3)[^23]
+
+(3a)[^24] Labdarúgás és kézilabda sportágban működő országos sportági szakszövetség – a sportág nemzetközi sportszövetségének szabályzatára figyelemmel – sportfegyelmi szabályzatában rendelkezhet úgy, hogy a versenyző, a sportszakember vagy a sportszervezet által a sportrendezvény ideje alatt, a versenyszabályzat vagy a sportfegyelmi szabályzat megszegésével elkövetett sportfegyelmi vétség esetén a 4. § (2)–(13) bekezdése, illetve a 6. § (5) bekezdése alkalmazásának és tárgyalás tartásának mellőzésével hozható határozat. A 4. § (2)–(13) bekezdése, illetve a 6. § (5) bekezdése alkalmazásának mellőzése esetén az eljárással érintett az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait megismerheti, továbbá védekezését előterjesztheti.
+
+(4) Ha az eljárás alá vont a sportfegyelmi büntetés hatálya alatt újabb sportfegyelmi eljárás megindítására alapul szolgáló kötelezettségszegést követ el, ugyanaz a sportfegyelmi büntetés ismételten kiszabható.
+
+## 11. §
+
+(1)[^25] Az első fokú sportfegyelmi határozat ellen az eljárás alá vont személy, illetve sportszervezet, valamint az, akinek jogát vagy jogos érdekét a határozat érinti, a kézbesítéstől számított tizenöt napon belül jogorvoslati kérelmet terjeszthet elő. A jogorvoslati kérelmet az első fokú határozatot hozó sportfegyelmi bizottság elnökénél kell benyújtani, aki azt a kérelem kézhezvételétől számított tizenöt napon belül az eljárás során keletkezett iratokkal együtt továbbítja a sportszövetség fellebbviteli szerve vezetőjének.
+
+(2) A másodfokú eljárás során a sportszövetség fellebbviteli szerve az első fokú határozatot megsemmisíti és az első fokon eljárt sportfegyelmi bizottságot új eljárásra utasítja, az első fokú határozatot megváltoztatja, vagy helybenhagyja.
+
+(3)[^26] A sportszövetség fellebbviteli szervének szervezetére, eljárására, a határidők számítására az első fokú eljárásra előírt rendelkezéseket megfelelően kell alkalmazni azzal, hogy a másodfokú eljárás során minden esetben tárgyalást kell tartani, valamint a határidőket a 11. § (1) bekezdésben szereplő iratoknak a sportszövetség fellebbviteli szervének vezetőjéhez érkezésétől kell számítani.
+
+## 12. §
+
+(1) A sportfegyelmi eljárás lefolytatásával összefüggő költségeket – a (2) bekezdésben meghatározott kivétellel – az eljáró szerv viseli.
+
+(2) Ha az eljárás alá vont sportfegyelmi felelősségét jogerősen megállapították, az eljárás alá vont köteles megtéríteni az általa indítványozott eljárási cselekmények, illetve a részéről igénybe vett jogi képviselő költségeit.
+
+## 13. §
+
+(1) A sportfegyelmi eljárás során jeltomács közreműködését kell biztosítani, amennyiben az eljárás alá vont személy hallássérült.
+
+(2) Az eljárás alá vont látássérült személy kérésére a jegyzőkönyvet és a határozatot Braille-írásban is el kell készíteni.
+
+## 14. §
+
+(1) Ez a rendelet 2004. március 13-án lép hatályba azzal, hogy a rendelkezéseit csak a hatálybalépését követően indított fegyelmi eljárások tekintetében kell alkalmazni.
+
+(2)[^27]
+
+## 15. §[^28]
+
+(1) E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet, valamint a doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet módosításáról szóló 436/2013. (XI. 19.) Korm. rendelettel (a továbbiakban: módosító rendelet) megállapított 4. § (1)–(1c) bekezdését a módosító rendelet hatálybalépése[^29] után elkövetett kötelezettségszegésekre, külföldön elkövetett kötelezettségszegés esetén a módosító rendelet hatálybalépését[^30] követően belföldre történő visszaérkezés esetében kell alkalmazni.
+
+(2) A 8. § módosító rendelettel történt módosítása a módosító rendelet hatálybalépésekor[^31] folyamatban lévő sportfegyelmi eljárásokat nem érinti.
+
+(3)[^32] Az egyes egészségügyi és sport tárgyú kormányrendeleteknek az új Polgári Törvénykönyv hatálybalépésével összefüggő módosításáról szóló 46/2014. (II. 26.) Korm. rendelettel (a továbbiakban: módosító rendelet2.) megállapított 3. § (1) bekezdés *a)* pontját a módosító rendelet2. hatálybalépésekor[^33] folyamatban lévő sportfegyelmi eljárásokra is alkalmazni kell.
+
+(4)[^34] A sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosításáról szóló 33/2016. (II. 25.) Korm. rendelettel (a továbbiakban: módosító rendelet3.) megállapított 10. § (3) bekezdését a módosító rendelet3. hatálybalépését[^35] követően indított sportfegyelmi eljárások tekintetében kell alkalmazni.
+
+(5)[^36] E rendeletnek a sport tárgyú kormányrendeletek módosításáról szóló 279/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: módosító rendelet4.) megállapított 10. § (3a) bekezdését a módosító rendelet4. hatálybalépését[^37] követően elkövetett sportfegyelmi vétség esetén kell alkalmazni.
+
+(6)[^38] E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosításáról szóló 245/2021. (V. 13.) Korm. rendelettel (a továbbiakban: módosító rendelet5.) megállapított 4. § (2) bekezdését, 4. § (3) bekezdés *c)* és *d)* pontját, 4. § (5) bekezdését, 5. § (1) és (1a) bekezdését, 6. § (5) és (6) bekezdését és 11. § (3) bekezdését a módosító rendelet5. hatálybalépését[^39] követően indított sportfegyelmi eljárások tekintetében kell alkalmazni.
+
+(7)[^40] E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosításáról szóló 722/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: módosító rendelet6.) megállapított 10. § (3a) bekezdését a módosító rendelet6. hatálybalépését[^41] követően indított sportfegyelmi eljárások tekintetében kell alkalmazni.
+
+---
+
+[^1]: Az 1. § a 475/2016. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés a) pontja a 46/2014. (II. 26.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 436/2013. (XI. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 4. § (1a) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 4. § (1b) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: A 4. § (1c) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 4. § (2) bekezdése a 245/2021. (V. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 4. § (3) bekezdés c) pontja a 245/2021. (V. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (3) bekezdés d) pontját a 245/2021. (V. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 4. § (5) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (7) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^12]: A 4. § (8) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 137/2014. (IV. 24.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^13]: A 4. § (9) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^14]: A 4. § (10) bekezdését a 436/2013. (XI. 19.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^15]: A 4. § (11) bekezdését a 137/2014. (IV. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^16]: A 4. § (12) bekezdését a 137/2014. (IV. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^17]: A 4. § (13) bekezdését a 137/2014. (IV. 24.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^18]: Az 5. § (1) bekezdése a 245/2021. (V. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^19]: Az 5. § (1a) bekezdését a 245/2021. (V. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^20]: A 6. § (5) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (6) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^22]: A 8. § a 436/2013. (XI. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 10. § (3) bekezdését a 245/2021. (V. 13.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^24]: A 10. § (3a) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 722/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^25]: A 11. § (1) bekezdése a 436/2013. (XI. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 11. § (3) bekezdése a 245/2021. (V. 13.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^27]: A 14. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 741. pontja hatályon kívül helyezte.
+[^28]: A 15. §-t a 436/2013. (XI. 19.) Korm. rendelet 4. §-a iktatta be.
+[^29]: A hatálybalépés napja: 2013. november 27.
+[^30]: A hatálybalépés napja: 2013. november 27.
+[^31]: A hatálybalépés napja: 2013. november 27.
+[^32]: A 15. § (3) bekezdését a 46/2014. (II. 26.) Korm. rendelet 7. §-a iktatta be.
+[^33]: A hatálybalépés időpontja 2014. március 15.
+[^34]: A 15. § (4) bekezdését a 33/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.
+[^35]: A hatálybalépés időpontja 2016. február 26.
+[^36]: A 15. § (5) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A hatálybalépés napja 2018. december 22.
+[^38]: A 15. § (6) bekezdését a 245/2021. (V. 13.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2021. május 16.
+[^40]: A 15. § (7) bekezdését a 722/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2021. december 23.

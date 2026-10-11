@@ -1,0 +1,353 @@
+---
+title: "28/2002. (II. 27.) Korm. rendelet a Védelmi Programban résztvevők, valamint reájuk tekintettel más személyek támogatásáról és az egyes támogatási formákról, továbbá a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet módosításáról"
+identifier: "28/2002. (II. 27.) Korm. rendelet"
+njt_id: "2002-28-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2002/Korm/28"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2002-02-27
+in_force_from: 2008-05-16
+last_amended: 2018-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2002-28-20-22"
+retrieved: 2026-10-12
+---
+
+# 28/2002. (II. 27.) Korm. rendelet a Védelmi Programban résztvevők, valamint reájuk tekintettel más személyek támogatásáról és az egyes támogatási formákról, továbbá a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtásának szabályairól szóló 34/1999. (II. 26.) Korm. rendelet módosításáról
+
+A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény (a továbbiakban: Tvdt.) 40. §-ának (1) bekezdésében írt felhatalmazás alapján a Kormány a következő rendeletet alkotja:
+
+### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### Értelmező rendelkezések
+
+##### 1. §[^1]
+
+#### A rendelet hatálya
+
+##### 2. §
+
+(1)[^2] E rendelet hatálya a Tvdt. szerint folytatott Védelmi Programban (a továbbiakban: Program) érintettek számára a rendőrségen belül a Védelmi Program ellátására létrehozott szervezeti egység (a továbbiakban: Szolgálat) által biztosított jogi segítségnyújtásra, továbbá az érintett szociális, gazdasági, humán, egészségügyi és mentális ellátásának, támogatásának (a továbbiakban együtt: támogatás) olyan formáira terjed ki, amelyekre az érintett külön jogszabály szerint nem jogosult.
+
+(2)–(3)[^3]
+
+#### A támogatás formái
+
+##### 3. §
+
+(1) A Szolgálat a támogatás keretében az alábbi támogatási formákat nyújthatja:
+
+a) személyes gondoskodás körébe tartozó támogatási formák;
+
+b) pénzbeli kiegészítő támogatási formák.
+
+(2) A személyes gondoskodás körébe tartozó támogatási formák:
+
+a)[^4] a fenyegetett helyzetben lévő személy Tvdtv. 16. § (1) bekezdés *a)* pontja szerinti biztonságos helyen való elhelyezése (a továbbiakban: biztonságba helyezés) esetén az alapvető szükségletek kielégítését szolgáló, természetben nyújtott támogatás (a továbbiakban: biztonságba helyezés keretében nyújtott természetbeni támogatás);
+
+b) az egészségügyi és mentálhigiénés ellátás;
+
+c) nevelés, oktatás, nevelési-oktatási és gyermekintézményi elhelyezés;
+
+d) magyar nyelvi oktatás;
+
+e) a jogi segítségnyújtás.
+
+(3) A pénzbeli kiegészítő támogatási formák:
+
+a) a rendszeres létfenntartási hozzájárulás;
+
+b) külföldi érintettek esetében az okmányok fordítási költségének megtérítése;
+
+c) az otthonteremtési támogatás;
+
+d) a lakhatási támogatás;
+
+e)[^5] egyszeri támogatás a személyazonosság megváltoztatása esetén.
+
+(4) A Tvdt. 13. § (1) bekezdésének alkalmazásában a pénzbeli kiegészítő támogatási formák minősülnek jövedelempótló támogatásnak.
+
+##### 4. §[^6]
+
+Ha az érintett jogszabály alapján egyéb ellátásban, támogatásban részesül, vagy ilyen ellátás, támogatás igénybevételére egyébként jogosult lenne, azonban a Programban való részvétele folytán az ellátás, a támogatás igénybevételében akadályoztatva van, a Szolgálat segítséget nyújt azok érvényesítésében.
+
+### II. Fejezet — AZ EGYES TÁMOGATÁSI FORMÁK, VALAMINT IGÉNYBEVÉTELÜK FELTÉTELEI
+
+## 1. CÍM — A SZEMÉLYES GONDOSKODÁS KÖRÉBE TARTOZÓ TÁMOGATÁSI FORMÁK
+
+#### Biztonságba helyezés keretében nyújtott természetbeni támogatás[^7]
+
+##### 5. §[^8]
+
+(1) A Szolgálat a fenyegetett helyzetben lévő személy biztonságba helyezése esetén gondoskodik az alapvető szükségletek kielégítéséről, amelynek keretében szükség szerint biztosítja az étkezést, valamint az alapvető személyes szükségleteket kielégítő egyéb szolgáltatásokat, eszközöket azzal, hogy ha az a védelem érdekeit nem veszélyezteti, a biztonságba helyezés keretében nyújtott természetbeni támogatás készpénz vagy étkezési utalvány formájában is nyújtható.
+
+(2) Biztonságba helyezés esetén a Szolgálat addig köteles a biztonságba helyezés keretében nyújtott természetbeni támogatást biztosítani, amíg az érintett
+
+a) biztonságba helyezését meg nem szünteti,
+
+b) a Programra tekintettel nem képes a saját, illetve a rá tekintettel a Programban résztvevő, eltartásra vagy gondozásra jogosult más személy alapvető szükségleteinek kielégítéséről önállóan gondoskodni.
+
+(3) A biztonságba helyezés keretében nyújtott természetbeni támogatás költsége a Szolgálatot terheli.
+
+##### 6–7. §[^9]
+
+#### Egészségügyi és mentálhigiénés ellátás
+
+##### 8. §
+
+(1) Ha az érintett nem áll társadalombiztosítási jogviszonyban, betegsége esetén az alábbi egészségügyi szolgáltatásokat a Szolgálat téríti:
+
+a) az egészségügyi alapellátásba tartozó vizsgálatok és gyógykezelés;
+
+b) a sürgős szükség esetén igénybe vett járóbeteg-szakellátás keretében történő vizsgálat, gyógykezelés – ideértve a sürgősségi fogászati ellátást is –, továbbá az ilyen ellátáshoz szükséges, az ellátás során felhasznált gyógyszer és kötszer szolgáltatása;
+
+c) a sürgős szükség esetén igénybe vett fekvőbeteg-gyógyintézeti ellátás, és ennek keretében az orvos előírása szerinti gyógykezelés – ideértve a műtéti beavatkozásokat és az annak során felhasznált gyógyászati anyagok, protetikai eszközök szolgáltatását is –, valamint gyógyászati ellátás és a gyógykezeléshez szükséges gyógyszer, kötszer szolgáltatása, az étkezés;
+
+d) a *b)–c)* pontban foglalt ellátást követően, a járóbeteg-szakellátást vagy a fekvőbeteg-gyógyintézeti kezelését követően betegsége gyógyulásáig, illetve állapota stabilizálódásáig
+
+da) a szükséges vizsgálatok és gyógykezelés,
+
+db) az *f)* pontban foglalt gyógyszerek közé nem tartozó, mással nem helyettesíthető gyógyszer biztosítása;
+
+e) terhesgondozás és szülészeti ellátás;
+
+f) külön jogszabály szerint a ,,közgyógyellátásra jogosultak'' részére térítésmentesen vagy ,,egészségügyi rendelkezés'' alapján 90%-os vagy 100%-os társadalombiztosítási támogatással rendelhető gyógyszer biztosítása;
+
+g) a *b)–e)* pontok szerinti ellátások esetében betegszállítás, ha egészségügyi állapota miatt a szállítás másként nem oldható meg.
+
+(2)[^10]
+
+(3) Az érintett az (1) bekezdésben meghatározott egészségügyi ellátásokon túl jogosult az orvosilag indokolt esetben és szükséges mértékben gyógyászati segédeszközre, illetve annak javítására a ,,közgyógyellátásra jogosultakra'' vonatkozó feltételek szerint.
+
+(4) A felsoroltakat meghaladó ellátás térítési díjához a Szolgálat nem nyújt támogatást.
+
+(5)[^11] A térítés részletes szabályait a Szolgálat és a Nemzeti Egészségbiztosítási Alapkezelő által kötött együttműködési megállapodás tartalmazza.
+
+##### 9. §
+
+A Szolgálat gondoskodik az érintett részére olyan szakemberek, illetve intézmények segítségéről, akik vagy amelyek az érintett lelki szükségleteinek kielégítésére speciális segítő-támogató tevékenységet végeznek, és közreműködnek a mentális válsághelyzetek feloldásában.
+
+##### 10. §[^12]
+
+Ha az érintett a Programban való részvétele folytán a társadalombiztosítási ellátórendszer szolgáltatásainak önálló igénybevételében akadályoztatva van, vagy – a Szolgálat megítélése szerint – annak önálló igénybevétele a védelem érdekeit súlyosan veszélyeztetné, az érintett a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal egészségügyi és mentálhigiénés intézményeinek ellátását veheti igénybe. Ennek költségei a Szolgálatot terhelik.
+
+#### Nevelés, oktatás, nevelési-oktatási és gyermekintézményi elhelyezés
+
+##### 11. §
+
+Az érintett, az ügyvivő, kiskorú érintett esetén a törvényes képviselő kérelmére az érintett óvodai nevelésével, általános iskolai, gimnáziumi, szakközépiskolai, szakmunkásképző, szakiskolai oktatásával, diákotthoni, kollégiumi és gyermekvédelmi intézményben történő elhelyezésével kapcsolatos étkezési, tanfelszerelési, utazási (bérlet) költséget a Szolgálat részben vagy egészben megtérítheti, feltéve, ha a Programban való részvétele miatt, vagy rajta kívül álló okból addigi tanulmányait a korábbi keretek között nem folytathatja.
+
+##### 12. §
+
+(1) Az érintett kérelmére a Szolgálat – legfeljebb a képzettség megszerzéséhez előírt időtartamra – átvállalhatja az érintett felsőfokú oktatásának tandíját, költségtérítését, egyéb díját, feltéve, hogy ez a védelem érdekeit nem veszélyezteti. A kérelemhez csatolni kell a felvételről szóló igazolást. Különösen indokolt esetben a Szolgálat egyéb, a felsőoktatásban való részvételt lehetővé tevő támogatást is nyújthat.
+
+(2) A megállapított támogatás folyósításának feltétele, hogy az érintett minden év szeptemberének, illetőleg februárjának utolsó napjáig igazolja, hogy a felsőoktatási intézménybe beiratkozott.
+
+(3) A Szolgálat a 11–12. §-okban felsorolt támogatásokat készpénzben vagy banki átutalás útján folyósítja az érintett, kiskorú érintett esetén törvényes képviselője részére. Az érintettet, illetve a törvényes képviselőt ezekre nézve elszámolási kötelezettség terheli.
+
+#### Magyar nyelvi oktatás
+
+##### 13. §
+
+(1) A magyar állampolgársággal nem rendelkező és magyarul nem tudó érintett a Szolgálat által nyújtott vagy a Szolgálat által megjelölt intézményben szervezett egyéni vagy csoportos magyar nyelvi oktatáson (alapfokú nyelvoktatás, felzárkóztató nyelvi képzés) való részvételének költségei – feltéve, hogy arról törvény vagy nemzetközi kötelezettségvállalás másként nem rendelkezik – a Szolgálatot terhelik.
+
+(2) Amennyiben az oktatást nem a Szolgálat nyújtja, az oktatás költségeit a Szolgálat elszámolási kötelezettség mellett, készpénzben vagy banki átutalás útján folyósítja az érintett, kiskorú érintett esetén a törvényes képviselő részére.
+
+#### Jogi segítségnyújtás
+
+##### 14. §
+
+A Szolgálat:
+
+a) az érintett részére ingyenes jogi tanácsadást nyújthat,
+
+b) meghatalmazás alapján képviselheti az érintettet azokban a jogügyletekben, ahol ezt a jogszabályok megengedik és az ügyvivő (Tvdt. 1. § 13. pont, 14. §) közreműködése a védelem érdekeit sértené vagy veszélyeztetné;
+
+c)[^13] elősegíti azt, hogy az érintett ügyvéd segítségét vehesse igénybe.
+
+## 2. CÍM — PÉNZBELI KIEGÉSZÍTŐ TÁMOGATÁSI FORMÁK
+
+#### A pénzbeli kiegészítő támogatások alapja; a rászorultság
+
+##### 15. §
+
+(1) Pénzbeli kiegészítő támogatásra akkor kerülhet sor, ha arra az érintett a jövedelmi és vagyoni viszonyai alapján rászorul.
+
+(2) Jövedelmi viszonyai alapján rászorultnak kell tekinteni azt az érintettet, akinek jövedelme (közös háztartásban élők esetében az egy főre jutó jövedelem) a mindenkori kötelező legkisebb munkabér (a teljes munkaidőben foglalkoztatott munkavállaló munkabérének havibér alkalmazása esetére megadott kötelező legkisebb összege, a továbbiakban: minimálbér) munkavállalói járulékkal, személyi jövedelemadóval, egészségbiztosítási és nyugdíjjárulékkal, valamint a személyi jövedelemadóról szóló törvényben elismert költségekkel csökkentett részének kétszeresét nem haladja meg.
+
+(3) A (2) bekezdés alkalmazásában jövedelem a személyi jövedelemadóról szóló törvényben jövedelemként meghatározott vagyoni érték (bevétel) munkavállalói járulékkal, személyi jövedelemadóval, egészségbiztosítási és nyugdíjjárulékkal, valamint a személyi jövedelemadóról szóló törvényben elismert költségekkel csökkentett része, függetlenül attól, hogy adómentesnek vagy adókötelesnek minősül. Jövedelemnek kell tekinteni továbbá – a személyi jövedelemadóról szóló törvény rendelkezéseitől függetlenül – minden olyan, az állami vagy önkormányzati szociális vagy társadalombiztosítási rendszer keretében nyújtott rendszeres ellátást, amelynek célja a jogosult jövedelemszerű ellátásának (megélhetésének) biztosítása.
+
+##### 16. §
+
+(1) Vagyoni viszonyai alapján rászorultnak kell tekinteni az érintettet, ha vagyonának:
+
+a) külön-külön számított forgalmi értéke, illetve összege a minimálbér háromszorosát, a (2) bekezdés alapján vagyonnak minősülő gépjármű esetében a minimálbér tizenötszörösét,
+
+b) együttes forgalmi értéke a minimálbér negyvenszeresét
+
+nem haladja meg.
+
+(2) Az (1) bekezdés alkalmazásában vagyonnak minősül:
+
+a) az ingatlan, kivéve azt az ingatlant, amelyben az érintett lakik, feltéve, hogy az érintett által lakott ingatlan nem haladja meg jelentősen az érintett méltányolható lakásigényének külön jogszabályban meghatározott mértékét;
+
+b) az ingóság, kivéve azt az ingóságot, amely a bírósági végrehajtásról szóló 1994. évi LIII. törvény 90–91. §-a értelmében a végrehajtás alól mentes vagyontárgynak minősül;
+
+c) a vagyoni értékű jog.
+
+(3) Ha a Programba való felvétellel összefüggésben az érintett vagyontárgya elpusztult, megrongálódott, és ennek értékét a biztosító megtéríti, a kártérítés összegét a vagyontárgy helyébe lépett vagyonként kell figyelembe venni.
+
+##### 17. §
+
+Amennyiben az érintett a Programban való részvétele okán akadályoztatva van a vagyon vagy jövedelem feletti rendelkezési joga gyakorlásában, az akadályoztatás megszűnéséig akkor is jogosult pénzbeli támogatásra, ha jövedelme vagy vagyona alapján nem tekinthető rászorultnak.
+
+## 3. CÍM — AZ EGYES PÉNZBELI KIEGÉSZÍTŐ TÁMOGATÁSI FORMÁK
+
+#### Rendszeres létfenntartási hozzájárulás
+
+##### 18. §
+
+(1) Az érintett rendszeres létfenntartási hozzájárulásra jogosult a Programba való felvételétől kezdve addig, amíg – biztonságának veszélyeztetése nélkül – részben képes csupán önállóan gondoskodni létfenntartásáról, alapvető szükségleteinek kielégítéséről.
+
+(2) A rendszeres létfenntartási hozzájárulás havi összegét úgy kell megállapítani, hogy az a mindenkori minimálbér legalább 50, legfeljebb 100%-a legyen: ennek során tekintetbe kell venni az érintett egyéb, a 15–16. §-okban meghatározott szintet el nem érő jövedelmét, vagyonát.
+
+(3) A rendszeres létfenntartási hozzájárulás mértékét a Szolgálat állapítja meg, és azt havonta, készpénzben vagy banki átutalással folyósítja az érintett, kiskorú érintett esetén a törvényes képviselő részére.
+
+(4) Az (1) bekezdés alkalmazásában a 15–16. §-okban meghatározott szintet el nem érő jövedelem, vagyon esetén a Szolgálat jogosult annak megállapítására, hogy az érintett képes-e biztonságának veszélyeztetése nélkül gondoskodni létfenntartásáról, alapvető szükségleteinek kielégítéséről.
+
+#### Okmányok fordítási költségeinek megtérítése
+
+##### 19. §
+
+A Szolgálat a külföldi érintett hivatalos okmányai magyar nyelvre történő fordításának költségeit megtéríti a fordítást végző részére.
+
+#### Otthonteremtési támogatás
+
+##### 20. §
+
+(1) A nagykorú érintett részére, kérelmére, a Programba való felvétele után egy alkalommal otthonteremtési támogatás adható, amennyiben a kérelem tárgyát képező ingatlan nem haladja meg a lakáscélú támogatásokról szóló jogszabályban meghatározott méltányolható lakásigény mértékét.
+
+(2) Az otthonteremtési támogatás felhasználható:
+
+a) lakás, családi ház, építési telek vásárlására;
+
+b) lakás, családi ház építésére;
+
+c) a saját tulajdonú lakás, családi ház felújítására, bővítésére.
+
+(3) A támogatás kamatmentes kölcsön formájában történik. A kölcsön folyósításához kapcsolódó kezelési költség a Szolgálatot terheli.
+
+(4) A támogatás összege az érintettet és a vele egy háztartásban, életvitelszerűen együttlakó a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdésének *d)* pontjában meghatározott közeli hozzátartozókat (a továbbiakban: közeli hozzátartozó) számításba vett öt- vagy annál többtagú család esetében 2 millió, négytagú család esetében 1 millió 600 ezer, háromtagú család esetében 1 millió 200 ezer, kéttagú család esetében 1 millió, egyedülálló esetében 800 ezer forintig terjedhet, de nem haladhatja meg a vételár, építés, felújítás és bővítés költségének 70%-át.
+
+(5) A támogatás mértékét a Szolgálat állapítja meg, és pénz- vagy hitelintézet útján gondoskodik annak az érintett részére való folyósításáról. A támogatás összegének megállapítása során tekintetbe kell venni az érintettnek a 15–16. §-okban meghatározott szintet el nem érő jövedelmét, vagyonát.
+
+##### 21. §
+
+(1) A kölcsön 1–15 évi időtartamra nyújtható. A visszafizetést a kölcsön folyósítását követő hónap első napján kell megkezdeni. A visszafizetés megkezdésére az érintett kérelmére legfeljebb 1 évig terjedő türelmi idő állapítható meg. Különös méltánylást érdemlő esetben (különösen az érintett önhibáján kívüli súlyos és tartós egészségromlása, munkanélkülivé válása) az érintett kérelmére a visszafizetés legfeljebb öt évig terjedő időtartamra felfüggeszthető, illetőleg a kamatmentes kölcsön még nem törlesztett része vissza nem térítendő támogatásra változtatható.
+
+(2) A támogatás visszafizetési feltételeinek megállapításánál figyelembe kell venni az érintett és közeli hozzátartozója jövedelmét, vagyonát, rendszeres pénzellátásra szóló jogosultságát, kereső tevékenységét, továbbá az igénybe vett központi, illetve önkormányzati forrásból finanszírozott kedvezményeket és támogatásokat, családi körülményeit (pl. fogyatékos családtagról történő gondoskodás).
+
+(3) Ha a kölcsönt több személy közösen kapta, annak törlesztéséért, illetőleg visszafizetéséért egyetemlegesen felelősek.
+
+##### 22. §
+
+(1) A kölcsön biztosítására annak visszafizetéséig arra az ingatlanra, amelyre a támogatást igénybe vették, elidegenítési és terhelési tilalmat, valamint jelzálogjogot kell bejegyeztetni.
+
+(2) Az elidegenítési és terhelési tilalom fennállása alatt az ingatlant csak a Szolgálat írásbeli hozzájárulásával lehet elidegeníteni vagy megterhelni. A hozzájárulás akkor adható meg, ha az érintett:
+
+a) az ingatlan elidegenítésével egyidejűleg vállalja a még fennálló kölcsöntörlesztés egyösszegű visszafizetését, vagy
+
+b) a támogatással megszerzett ingatlant a tulajdonába kerülő másik ingatlanra úgy cseréli el, illetőleg újabb ingatlant úgy szerez, hogy a jelzálogjog, valamint az elidegenítési és terhelési tilalom az újabb ingatlanra átjegyezhető;
+
+c) még a Program hatálya alatt áll, és az elidegenítés vagy megterhelés a védelem érdekeit nem sérti.
+
+(3)[^14] Egy összegben kell visszafizetni a támogatást, ha a támogatásban részesített véglegesen külföldre távozik, ide nem értve azt az esetet, amikor az érintett védelmére nemzetközi együttműködés alapján külföldön kerül sor.
+
+#### Lakhatási támogatás
+
+##### 23. §
+
+(1) E rendelet alkalmazásában lakhatási támogatás olyan pénzbeli kiegészítő támogatási forma, amelyet a Szolgálat az érintett részére lakbérének, albérleti díjának, szállásköltségének megfizetéséhez nyújthat.
+
+(2) A lakhatási támogatás az érintett kérelmére nyújtható. A kérelem nem teljesíthető, ha – a Szolgálat megítélése szerint – az érintett a biztonságos védelem ellátásához nem szükséges minőségű vagy felszerelésű, illetve alapterületű lakás, lakrész, szálláshely díjának fedezésére kívánja fordítani.
+
+(3) A támogatás 1 évre állapítható meg. Kérelemre a támogatás időtartamát a Szolgálat legfeljebb két ízben, további 1–1 évre meghosszabbíthatja.
+
+(4) A támogatás összege a bérbeadó által igazolt lakbér, albérleti díj, szállásköltség 50, kivételesen indokolt esetben 70%-áig terjedhet. A támogatás összegének megállapításakor az érintettnek a 15–16. §-okban meghatározott szintet el nem érő jövedelmét, vagyonát tekintetbe kell venni.
+
+(5) A támogatás összegét a Szolgálat készpénzben vagy banki átutalás útján havonta folyósítja az érintett, kiskorú érintett esetén a törvényes képviselő részére.
+
+#### Egyszeri támogatás az új személyazonossággal rendelkező érintett számára
+
+##### 24. §
+
+(1)[^15] A Tvdt. 27. § (2) bekezdése alapján, ha az érintett személyazonosságának megváltoztatására (Tvdt. 24–33. §) került sor a Szolgálat az érintettet társadalmi beilleszkedését segítő egyszeri támogatásban részesítheti. A Szolgálat e jogosultságát nem érinti az a körülmény, hogy a rászorult érintett korábban pénzbeli kiegészítő ellátásban részesült. Ezt követően azonban az érintett jogosultsága a jelen rendelet alapján nyújtható egyéb ellátásokra és támogatásokra megszűnik.
+
+(2) Az egyszeri támogatás összege:
+
+a) ha az érintett korábban rendszeres létfenntartási hozzájárulásban részesült, az utoljára folyósított támogatás egy évre vetített összege;
+
+b) ha az érintett korábban rendszeres létfenntartási hozzájárulásban nem részesült, a rászoruló érintett részére nyújtható legkisebb rendszeres létfenntartási támogatás egy évre vetített összege.
+
+### III. Fejezet — A SZOLGÁLAT EGYÉB FELADATAI, SZOLGÁLTATÓ IGÉNYBEVÉTELE
+
+#### A Szolgálat közreműködése az érintett kötelezettségeinek teljesítésében
+
+##### 25. §
+
+(1) A Tvdt. 11. § (4) bekezdése alapján, az ott írt feltételek teljesülése esetén a Szolgálat a jogosultat támogatásban részesíti. A támogatás az érintett kötelezettségének mértékéig terjedhet, és lehetőleg abban a formában kell teljesíteni, mint amilyenben azt az érintett is teljesítette.
+
+(2) Ha az (1) bekezdés szerinti tartás, illetve gondozás a Szolgálat részéről az érintett biztonságának veszélyeztetése nélkül nem teljesíthető, a Szolgálat a tartás, illetve gondozás értékét pénzben téríti meg a jogosult részére.
+
+(3) Az (1)–(2) bekezdésekben foglaltak szerint biztosítandó a jogosult tartása, gondozása, ha arra a Tvdt. 11. § (3) bekezdése alapján kerül sor.
+
+#### Szolgáltató igénybevétele
+
+##### 26. §
+
+(1)[^16] A Szolgálat társadalmi szervezettel, helyi önkormányzattal, egyházi jogi személlyel, egyesülettel, alapítvánnyal, ezek intézményével, gazdasági társasággal vagy más jogi személlyel (a továbbiakban együtt: szolgáltató) megállapodást köthet az e rendelet alapján teljesítendő, személyes gondoskodás körébe tartozó támogatási formák, valamint a 25. § alapján biztosított támogatás nyújtása során történő közreműködésről. A szolgáltató közreműködése a védelem érdekeit nem veszélyeztetheti.
+
+(2) A megállapodást írásban kell megkötni. A megállapodásnak tartalmaznia kell:
+
+a) a megállapodás tárgyát képező ellátások, feladatok teljesítésének módját és ellenértékét;
+
+b) az ellátások, feladatok nyilvántartására, valamint teljesítésük ellenértékének elszámolására és átutalására vonatkozó kikötéseket;
+
+c) a Szolgálatnak a megállapodás teljesülésére irányuló ellenőrzési jogosultságát, az ellenőrzés módját;
+
+d) a megállapodás felmondásának módját, hónapokban meghatározott idejét, valamint az esetleges jogviták rendezésére vonatkozó kikötéseket.
+
+(3) A megállapodáshoz csatolni kell a szolgáltató jogállására vonatkozó bírósági végzés, illetőleg hatósági engedély másolatát.
+
+### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK[^17]
+
+##### 27–41. §[^18]
+
+##### 42. §[^19]
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivételekkel – 2002. április 1-jén lép hatályba.
+
+(2) A 27. § (1) bekezdése és (2) bekezdésében a ,,valamint a büntetés-végrehajtási szervezet tagja'' szövegrész, illetve a 38. §-ban a ,,valamint a büntetés-végrehajtási szervezet tagja'' szövegrész 2003. január 1-jén lép hatályba.
+
+---
+
+[^1]: Az 1. §-t a 77/2018. (IV. 20.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (2)–(3) bekezdését a 77/2018. (IV. 20.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § (2) bekezdés a) pontja a 77/2018. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § (3) bekezdés e) pontja a 77/2018. (IV. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § a 77/2018. (IV. 20.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: Az 5. §-t megelőző alcím a 77/2018. (IV. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § a 77/2018. (IV. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 6–7. §-t a 77/2018. (IV. 20.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^10]: A 8. § (2) bekezdését a 77/2018. (IV. 20.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^11]: A 8. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^12]: A 10. § a 273/2010. (XII. 9.) Korm. rendelet 96. §-a szerint módosított szöveg.
+[^13]: A 14. § c) pontja a 393/2017. (XII. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^14]: A 22. § (3) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^15]: A 24. § (1) bekezdése a 77/2018. (IV. 20.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^16]: A 26. § (1) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^17]: A IV. Fejezet címe a 118/2008. (V. 8.) Korm. rendelet 1. § 978. pontja szerint módosított szöveg.
+[^18]: A 27–41. §-t és a 27. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 978. pontja hatályon kívül helyezte.
+[^19]: A 42. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 978. pontja hatályon kívül helyezte.

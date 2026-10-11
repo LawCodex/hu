@@ -1,0 +1,253 @@
+---
+title: "89/1993. (VI. 8.) Korm. rendelet a magyar—horvát nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről"
+identifier: "89/1993. (VI. 8.) Korm. rendelet"
+njt_id: "1993-89-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1993/Korm/89"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1993-06-08
+in_force_from: 1993-06-08
+last_amended: 1993-06-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1993-89-20-22"
+retrieved: 2026-10-12
+---
+
+# 89/1993. (VI. 8.) Korm. rendelet a magyar—horvát nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről
+
+*[A Megállapodás jóváhagyásáról szóló jegyzékváltás 1993. február hó 15. napján megtörtént.]*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között Budapesten, 1992. november 18-án aláírt, a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hivatalos magyar nyelvű szövege a következő:
+
+,,MEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya között\
+a nemzetközi közúti személyszállításról\
+és árufuvarozásról
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+ATTÓL AZ ÓHAJTÓL VEZÉRELVE, hogy fejlesszék az országaik közötti közúti személyszállítást és árufuvarozást,
+
+SZEM ELŐTT TARTVA, hogy közös érdek a határátkelőkhöz vezető megfelelő közúti kapcsolatok fejlesztése, kellő figyelmet szentelve a környezetvédelmi és forgalombiztonsági követelményeknek,
+
+ATTÓL AZ ÓHAJTÓL VEZÉRELVE, hogy segítsék a területükön áthaladó forgalmat,
+
+FIGYELEMBE VÉVE az áruk és szolgáltatások szabad mozgását lehetővé tevő európai liberalizációs törekvéseket és felismerve ezen folyamatok elterjesztésének szükségességét a két ország közötti közúti fuvarozásoknál,
+
+a liberalizáció és a viszonosság elvét követve,
+
+az alábbiakról állapodtak meg:
+
+I. RÉSZ
+
+*1. Cikk*
+
+*Fogalommeghatározások*
+
+A Megállapodás szempontjából
+
+*a)* *fuvarozó* minden természetes és jogi személy, aki a Magyar Köztársaságban vagy a Horvát Köztársaságban saját számlára vagy díj ellenében a vonatkozó hazai jogszabályokkal és rendelkezésekkel összhangban közforgalmú közúti fuvarozást végez;
+
+*b)* a *gépjármű*
+
+*(i)* személyszállítás esetén autóbusz vagy bármely gépi meghajtású közúti jármű, amelyet a műszaki követelményeknek megfelelően személyszállításra gyártottak vagy alakítottak ki, és amely a vezetőt is beleértve több mint kilenc személy szállítására alkalmas, valamint a poggyász fuvarozására szolgáló pótkocsi, és amelyet bármely Szerződő Fél területén tartanak nyilván,
+
+*(ii)* árufuvarozás esetén bármely gépi meghajtású közúti jármű, amelyet a műszaki követelményeknek megfelelően áruszállításra alakítottak ki, beleértve bármely kapcsolt pótkocsit vagy félpótkocsit, és amelyet valamelyik Szerződő Fél területén tartanak nyilván;
+
+*c)* *menetrendszerű személyszállítás* — a Szerződő Felek területén bejegyzett autóbusszal előre megállapodott és közzétett menetrend, útvonal és díjszabás szerint végzett olyan személyszállítás, ahol utasok felvétele és lerakása céljából kiindulási és végpontokat, valamint bármely közbenső megállási pontot jelöltek ki;
+
+*d)* *különjárati személyszállítás* — a Szerződő Felek területén bejegyzett autóbusszal végzett olyan személyszállítás, amelynek során ugyanaz az autóbusz szállítja az utasok ugyanazon csoportját az egész útvonalon és visszaszállítja őket az autóbuszt nyilvántartó Szerződő Fél területén lévő kiindulási pontra, vagy a végpontra utasokat szállít és üresen tér vissza a kiindulási pontra;
+
+*e)* *ingajárati személyszállítás* — a Szerződő Felek területén bejegyzett autóbusszal végzett olyan személyszállítás, amelynek során az utasok előre kialakított csoportját ismétlődő oda- és visszaút során, az autóbuszt nyilvántartó Szerződő Fél területén lévő ugyanazon kiindulási pontról a másik Szerződő Fél területén lévő ugyanazon végpontra szállítják, feltéve, hogy az első út során az autóbusz üresen tér vissza és az utolsó út során az autóbusz üresen lép be a másik Szerződő Fél területére;
+
+*f)* *cabotage* — az egyik Szerződő Fél fuvarozója által a másik Szerződő Fél területén lévő kiindulási és végpont között végzett személy- és árufuvarozást jelent.
+
+*2. Cikk*
+
+*A Megállapodás hatálya*
+
+1\. E Megállapodás rendelkezései a díj ellenében vagy saját számlára bármely Szerződő Fél területén bejegyzett gépjárművel végzett, a Szerződő Felek területe között, az azokon áthaladó, valamint a harmadik országba irányuló vagy onnan kiinduló nemzetközi közúti személy- és árufuvarozásokra vonatkoznak.
+
+2\. E Megállapodás rendelkezései nem érintik a Szerződő Felek azon jogait és kötelezettségeit, amelyeket az általuk már elfogadott egyezmények, megállapodások és jogszabályok rögzítenek.
+
+*3. Cikk*
+
+*Vegyesbizottság*
+
+1\. E Megállapodás alkalmazásának ellenőrzése és a vitás kérdések rendezése érdekében a Szerződő Felek Vegyesbizottságot hoznak létre, amely a Szerződő Felek illetékes hatóságainak képviselőiből áll.
+
+2\. Az illetékes hatóság a Magyar Köztársaság esetében a Közlekedési, Hírközlési és Vízügyi Minisztérium, a Horvát Köztársaság esetében a Tengerészeti, Közlekedési és Hírközlési Minisztérium.
+
+II. RÉSZ
+
+*SZEMÉLYSZÁLLÍTÁS*
+
+*4. Cikk*
+
+*Menetrendszerű személyszállítás*
+
+1\. Az 1. Cikk *c)* bekezdésében meghatározott menetrendszerű személyszállítás a Szerződő Felek illetékes hatóságai közötti megállapodás alapján bonyolódik. A fuvarozók menetrendszerű személyszállítást csak a mindkét Szerződő Fél által jóváhagyott engedély, illetőleg koncesszió alapján végezhetnek.
+
+2\. A Szerződő Felek illetékes hatósága az általa jóváhagyott kérelmet két példányban megküldi a másik Szerződő Fél illetékes hatóságának a lehető legrövidebb időn belüli elbírálás céljából.
+
+A kérelemnek tartalmaznia kell az üzemeltető
+
+— nevét és címét,
+
+— a választott útvonalat és távolságokat,
+
+— menetrendet,
+
+— a viteldíjakat,
+
+— az utasok felvételére és lerakására szolgáló megállási pontokat,
+
+— a szállítás tervezett gyakoriságát és időszakát.
+
+A Szerződő Felek illetékes hatósága az általa szükségesnek ítélt egyéb adatokat is kérhet.
+
+3\. A Szerződő Felek illetékes hatósága a menetrendszerű személyszállításra jogosító engedélyeket saját területükre díj és ellenszolgáltatás nélkül adják ki.
+
+Ezen engedélyek érvényességi időtartamáról a Szerződő Felek illetékes hatóságai állapodnak meg.
+
+*5. Cikk*
+
+*Nem menetrendszerű személyszállítás*
+
+A Szerződő Felek területei között végzett nem menetrendszerű személyszállítás esetén nem szükséges engedély ugyanazon utasoknak ugyanazon autóbusszal végzett
+
+*a)* az 1. Cikk *d)* bekezdésében meghatározott különjárati személyszállításra;
+
+*b)* ha az autóbuszt meghibásodása miatt másik autóbusszal kell helyettesíteni.
+
+2\. A másik Szerződő Fél illetékes hatósága által kibocsátott engedély szükséges
+
+*a)* az 1. Cikk *e)* bekezdésében meghatározott ingajárati személyszállításra;
+
+*b)* a másik Szerződő Fél területén bejegyzett üres autóbusz belépésére;
+
+*c)* az egyéb nem menetrendszerű személyszállításokra.
+
+3\. E Cikk 1. és 2. pontjaiban jelzett személyszállítás esetén az autóbusz vezetőjének utaslistát tartalmazó menetlevéllel vagy üzemeltetői nyilatkozattal kell rendelkeznie, amelyet az üzemeltető és az autóbusz vezetője aláír és a határállomáson lévő illetékes vámszervek lepecsételnek.
+
+III. RÉSZ
+
+*ÁRUFUVAROZÁS*
+
+*6. Cikk*
+
+*Árufuvarozási feltételek*
+
+1\. A Szerződő Felek nem korlátozzák a területükön bejegyzett gépjárművel végzett,
+
+— a Szerződő Felek területe közötti,
+
+— a másik Szerződő Fél területén áthaladó, valamint
+
+— a harmadik országokba irányuló és az onnan kiinduló
+
+árufuvarozások számát.
+
+2\. Az 1. pontban megjelölt árufuvarozások engedély nélkül végezhetők.
+
+*7. Cikk*
+
+*Különleges áruk fuvarozása*
+
+A Szerződő Felek a lehetőségek szerint megkönnyítik a veszélyes árukat, gyorsan romló élelmiszereket és élő állatot fuvarozó gépjárművek közúti határátlépését. A Szerződő Felek illetékes szervei területükön útvonalat jelölhetnek ki a veszélyes áruk fuvarozására.
+
+*8. Cikk*
+
+*Gépjárművek tömege, méretei és műszaki követelményei*
+
+1\. A gépjárművek tömege, méretei és műszaki követelményei vonatkozásában mindegyik Szerződő Fél kötelezi magát arra, hogy a másik Szerződő Fél területén bejegyzett gépjárművek esetében a saját területükön bejegyzett gépjárművekre alkalmazott előírásoknál szigorúbbat nem foganatosítanak.
+
+2\. Ha a gépjármű vagy a gépjárműszerelvény tömege és méretei meghaladják a másik Szerződő Fél területén engedélyezett mértéket, a fuvarozás megkezdése előtt külön engedélyt kell beszerezni az utóbbi Szerződő Fél illetékes szervétől.
+
+3\. Ha a 2. pontban meghatározott műveletek céljából kiadott engedély útvonalat ír elő, úgy a fuvarozást csak azon az útvonalon lehet elvégezni.
+
+IV. RÉSZ
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*9. Cikk*
+
+*Cabotage*
+
+A cabotage általában nem engedélyezett, kivéve, ha a másik Szerződő Fél illetékes hatósága a cabotage végzésére jogosító különleges engedélyt bocsát ki.
+
+*10. Cikk*
+
+*Pénzügyi rendelkezések*
+
+1\. A Megállapodás rendelkezéseivel összhangban a Magyar Köztársaságban a gépjárműadó, a Horvát Köztársaságban az úthasználati díj alól mentes a másik Szerződő Fél területén végzett valamennyi árufuvarozás. Mentes a gépjárműadó, illetőleg úthasználati díj alól naptári évenként 60 napig, a Megállapodás rendelkezései alapján, a másik Szerződő Fél területén személyt szállító gépjármű.
+
+2\. A gépjármű gyártója által szabvány szerint beépített üzemanyagtartályban lévő üzemanyag-mennyiség mentes a vámilleték alól.
+
+*11. Cikk*
+
+*A Megállapodás megszegése*
+
+1\. Ha az egyik Szerződő Fél fuvarozója a másik Szerződő Fél területén történő tartózkodása alatt súlyosan vagy ismételten megszegi a Megállapodás rendelkezéseit, az a Szerződő Fél, amelynek területén a Megállapodást megszegték, úgy dönthet, hogy
+
+*a)* figyelmeztetésben részesíti a fuvarozót;
+
+*b)* a figyelmeztetéssel együtt közleményt ad ki, hogy bármilyen hasonló megszegés
+
+*(i)* a fuvarozónak kiadott engedély vagy engedélyek visszavonásához,
+
+*(ii)* ha engedélyt nem írnak elő, a fuvarozó tulajdonában lévő, vagy általa üzemeltetett gépjárműnek, annak a Szerződő Félnek a területéről, ahol a megszegést elkövették, az ideiglenes vagy állandó kitiltáshoz
+
+vezethet;
+
+*c)* a visszavonásról vagy kitiltásról közleményt ad ki,
+
+és felkérheti a másik Szerződő Fél illetékes hatóságát arra, hogy közölje döntését a fuvarozóval és az e Cikk 1. *c)* bekezdésében rögzített esetben határozott vagy határozatlan időtartamra függessze fel részére az engedélyek kiadását.
+
+2\. E Cikk rendelkezései nem befolyásolják azokat a törvényes intézkedéseket, amelyeket annak a Szerződő Félnek a bíróságai vagy illetékes hatóságai alkalmaznak, ahol a megszegés történt.
+
+V. RÉSZ
+
+*ZÁRÓ RENDELKEZÉSEK*
+
+*12. Cikk*
+
+*Jegyzőkönyv*
+
+1\. A Szerződő Felek a Megállapodás alkalmazásának részletes szabályait Jegyzőkönyvben rögzítik. A Jegyzőkönyvet és a Megállapodást egyidőben írják alá.
+
+2\. E Megállapodás 3. Cikkével összhangban létrehozott Vegyesbizottság jogosult a Jegyzőkönyvet kiegészíteni vagy módosítani annak érdekében, hogy az alkalmazkodjék a nemzetközi közúti fuvarozások alakulásához és elősegítse annak fejlődését.
+
+*13. Cikk*
+
+*Hatálybalépés és felmondás*
+
+1\. A Szerződő Felek diplomáciai úton értesítik egymást arról, hogy eleget tettek a Megállapodás hatálybalépésére vonatkozó alkotmányos előírásaiknak.
+
+2\. A Megállapodás az e Cikk 1. pontjában említett későbbi értesítés kézhezvételétől számított 30. napon lép hatályba, a Megállapodás 4., 6. és 10. Cikkeinek rendelkezéseit azonban az aláírás napjától alkalmazzák.
+
+3\. A Megállapodást a Szerződő Felek meghatározatlan időre kötik.
+
+4\. A Szerződő Felek a Megállapodást bármely naptári év vége előtt legalább hat hónappal felmondhatják, s ebben az esetben a Megállapodás az adott év leteltével hatályát veszti.
+
+Készült Budapesten, az 1992. év november havának 18. napján, két példányban, magyar és horvát nyelven, mindkét szöveg egyenlő jogi érvényű.
+
+A Magyar Köztársaság Kormánya nevében\
+*Siklósi Csaba* s. k.,
+
+A Horvát Köztársaság Kormánya nevében\
+*Ivica Mudrinic* s. k.,''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit 1993. március 15. napjától, a 4., 6. és 10. Cikkeket pedig a 13. Cikkben meghatározott időponttól (1992. november 18-tól) kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.

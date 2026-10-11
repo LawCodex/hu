@@ -1,0 +1,839 @@
+---
+title: "113/1994. (VIII. 31.) Korm. rendelet a hadigondozásról szóló 1994. évi XLV. törvény végrehajtásáról"
+identifier: "113/1994. (VIII. 31.) Korm. rendelet"
+njt_id: "1994-113-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/113"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-08-31
+in_force_from: 2009-10-01
+last_amended: 2021-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-113-20-22"
+retrieved: 2026-10-12
+---
+
+# 113/1994. (VIII. 31.) Korm. rendelet a hadigondozásról szóló 1994. évi XLV. törvény végrehajtásáról
+
+A hadigondozásról szóló 1994. évi XLV. törvény (a továbbiakban: Hdt.) 28. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## (A Hdt. 1—2. §-aihoz)
+
+### 1. §
+
+(1) A hadigondozási igényjogosultság megállapítása iránti eljárás kérelemre indul. Ennek során a kérelmezőnek kell bizonyítani a fogyatkozás, illetve a halál hadi eredetét.
+
+(2) A fogyatkozás, illetve a halál hadi eredetének megállapításánál kizárólag a Hdt. 2. §-ában felsorolt események vehetők figyelembe.
+
+(3)[^1] Az (1) bekezdés szerinti kérelem benyújtásának feltétele – a Hdt. 1. § (1a) bekezdésében meghatározott eset kivételével – a magyar állampolgárság igazolása.
+
+## (A Hdt. 3. §-ához)
+
+### 2. §[^2]
+
+(1)[^3]
+
+(2)[^4] Azt a kérelmezőt, aki hadirokkantként kéri nyilvántartásba vételét, vagy azt a hadirokkantat, aki magasabb járadékosztályba történő besorolását kéri, a hadigondozási hatóság a 2. melléklet szerinti nyomtatvány felhasználásával a rehabilitációs szakértői szerv elé utalja vizsgálat céljából.
+
+(3)[^5] A Magyarországon lakóhellyel vagy tartózkodási hellyel rendelkező kérelmező esetében a vizsgálat helyéről és idejéről a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább nyolc nappal írásban értesíti a kérelmezőt. A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező kérelmező esetén a rehabilitációs szakértői szerv a vizsgálatot megelőzően legalább harminc nappal írásban értesíti a kérelmezőt.
+
+(4)[^6] A rehabilitációs szakértő szerv a 3. melléklet szerinti szakvéleményt kiállítja és a hadigondozási hatóság részére megküldi.
+
+(5) A (4) bekezdés szerinti szakvélemény közokirat, amely tartalmazza a hadieredetű fogyatkozást és az általa okozott járadék osztályba sorolás alapját képező egészségkárosodás százalékos mértékét.
+
+(6) A vizsgálatok díját a Hadigondozottak Közalapítványa (a továbbiakban: Közalapítvány) – külön megállapodás szerint – a rehabilitációs szakértői szerv részére megtéríti.
+
+## (A Hdt. 8. §-ához)
+
+### 4. §
+
+(1)[^8] Új hadigondozás iránti kérelem esetén a kérelmező a 4. mellékletben foglalt formanyomtatványon vagy annak tartalmáról más hitelt érdemlő módon nyilatkozik.
+
+(2)[^9] Ha a hadigondozási hatóság nemzeti gondozott személyt vesz hadigondozási nyilvántartásba, az erről szóló határozat egy példányát megküldi a kárpótlási hatóságnak.
+
+(3) Az esetlegesen túlfolyósított nemzeti gondozotti pénzellátást a megállapított hadigondozotti pénzellátásban a különbözet folyósítása útján kell a nyugdíjfolyósító szervnek elszámolni.
+
+(4) A hadigondozásba vételről szóló határozat tartalmazza a Hdt. 8. § (4) bekezdésében meghatározott bejelentési kötelezettségre történő figyelmeztetést is.
+
+## (A Hdt. 10. §-ához)
+
+### 5. §
+
+(1)[^10] Az egyösszegű térítés megállapításáról a hadigondozási hatóság dönt. Az egyösszegű térítés iránti kérelem formanyomtatványát az 5. számú melléklet tartalmazza.
+
+(2)[^11] A hadirokkantat megillető egyösszegű térítés összegét a Hdt. 3. §-ának (2) bekezdésében foglaltakra tekintettel a kérelmező jelenlegi hadieredetű fogyatkozása által okozott egészségkárosodás százalékos mértékének figyelembevételével kell meghatározni.
+
+(3)[^12]
+
+(4)[^13]
+
+(5)[^14] A Hdt. 10. § (1) bekezdése szerinti bizonyítékok felkutatásának és szolgáltatásának költségeit a nyugdíjfolyósító szerv részére előzetes megállapodás alapján a Közalapítvány megtéríti.
+
+(6)[^15]
+
+### 6. §
+
+(1)[^16] Ha az egyösszegű térítést a hadigondozott, illetve a volt hadiárva, a volt hadigyámolt és a volt hadigondozott családtag rosszhiszeműségének következményeként jogosulatlanul fizették ki, a felvett összeget a jogosulatlan és rosszhiszemű igénybe vevő a folyósító szerv részére köteles visszafizetni.
+
+(2)[^17] Az (1) bekezdés szerinti visszafizetési kötelezettséget a hadigondozási hatóság az egyösszegű térítés kifizetéséről való tudomásszerzéstől számított három hónapon belül rendelheti el. Nem lehet a visszafizetést elrendelni, ha az összeg felvételétől egy év már eltelt.
+
+## (A Hdt. 11—15. §-aihoz)
+
+### 7. §
+
+(1)[^18]
+
+(2)[^19] Új kérelmező részére a Hdt. 11. § (3) és a 13. § (2) bekezdésében meghatározott járadékösszeg növelését abban az esetben lehet megállapítani, ha a kérelmező nem rendelkezik a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. § (1) bekezdés a) és i) pontjaiban meghatározott jövedelemmel, illetve rendszeres pénzellátással. A növelésről a hadigondozási hatóság dönt.
+
+(3)[^20] Az ápolási pótlék megállapításához szükséges szakvélemény kiadására a 2. §-ban foglaltak az irányadók azzal, hogy a szakvélemény kiadásánál a kérelmező általános egészségi állapotát kell figyelembe venni.
+
+(4)[^21] A volt hadiárva, a volt hadigondozott családtag és a volt hadigyámolt járadéka iránti kérelem az 5/A., az 5/B. vagy az 5/C. melléklet szerinti formanyomtatványon terjeszthető elő.
+
+## (A Hdt. 16. §-ához)
+
+### 8. §
+
+(1)[^22] A temetési hozzájárulást az elhunyt hadirokkant lakóhelye vagy tartózkodási helye szerint illetékes hadigondozási hatóság állapítja meg.
+
+(2)[^23] Az (1) bekezdés szerinti számlára az (1) bekezdés szerinti hadigondozási hatóság a kifizetett összeget rávezeti.
+
+## (A Hdt. 17. §-ához)
+
+### 9. §
+
+(1)[^24] A szociális intézményi ellátás keretében a hadirokkantat az Szt. 59–85. §-ában meghatározott ellátás illeti meg.
+
+(2) Az (1) bekezdés szerinti ellátás ellenértékét a Közalapítvány megtéríti az ellátást nyújtó szervnek, illetve fenntartójának.
+
+(3) Térítési díjként az intézményi térítési díj számolható el.
+
+## (A Hdt. 18. §-ához)
+
+### 10. §[^25]
+
+A Hdt. 18. § (1) bekezdés a) pontja szerinti gyógyászati segédeszköz (a továbbiakban: segédeszköz) ellátásra, az e rendeletben foglalt eltérésekkel, a segédeszközök társadalombiztosítási támogatásának összegéről, rendeléséről, elszámolásáról szóló jogszabályok rendelkezései az irányadók azzal, hogy a hadirokkantak részére a szükség szerinti mennyiségben kell biztosítani a segédeszközt.
+
+### 11. §[^26]
+
+(1)[^27] A hadirokkant térítésmentes segédeszközzel való ellátását – a hadigondozási hatóság által megküldött határozat és a rehabilitációs szakértői szerv szakvéleménye alapján – a Közalapítvány Hadirokkant Irodája (a továbbiakban: Iroda) végzi.
+
+(2) Az Iroda csak a hadieredetű fogyatkozás alapján utalhat ki segédeszközt.
+
+(3) A Hdt. 18. § c) pontja szerinti eszközök köréről és a támogatás mértékéről a Közalapítvány Kuratóriuma évente dönt.
+
+### 12. §
+
+(1)[^28]
+
+(2)[^29]
+
+(3)[^30]
+
+(4)[^31] A hadigondozási hatóság határozatának nyilvántartásba vételét követően az Iroda – e rendelkezés szempontjából – orvosi vénynek minősülő és azzal azonos tartalmú megrendelő lapot állít ki.
+
+(5)[^32] A hadirokkantnak újabb segédeszköz iránti kérelméhez (pl. kihordási idő letelte, a kiutalt segédeszköz meghibásodása) orvosi javaslatot akkor kell csatolnia, ha állapotának rosszabbodása más jellegű segédeszköz igénybevételét teszi szükségessé.
+
+(6)[^33]
+
+(7)[^34] A hadirokkant a segédeszközt a GYSGY REHA Orvostechnikai Eszközöket Előállító és Forgalmazó Kft.-től (a továbbiakban: GYSGY) közvetlenül, vagy a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK) szerződéses viszonyban lévő más forgalmazótól is beszerezheti. Ha a hadirokkant a segédeszközt nem a GYSGY-től szerzi be, az Iroda a hadirokkant kérését, valamint a segédeszköz árát figyelembe véve a NEAK-kal szerződéses viszonyban álló forgalmazónak vagy gyártónak küldi meg a megrendelő lapot.
+
+(8)[^35] A segédeszköz javítását számla alapján a Közalapítvány megtéríti a javítást végző részére. A javításokat előzetes árajánlat alapján az Iroda rendeli meg.
+
+### 13. §
+
+(1)[^36] A Közalapítvány a segédeszköz-ellátás költségeit a Nemzeti Egészségbiztosítási Alapkezelő részére külön megállapodás alapján megtéríti.
+
+(2)[^37]
+
+### 13/A. §[^38]
+
+(1) Ha a hadigondozott részére a jogerős határozattal megállapított egyösszegű térítést haláláig nem folyósították, ennek összege az örökösöket illeti meg.
+
+(2) A Közalapítvány a természetbeni ellátások és kedvezmények költségeként az igénybe vevő személy részére megállapítható térítési összeget fizeti a szolgáltató részére.
+
+(3)[^39] A Közalapítvány a Kuratórium döntése alapján
+
+a) a hadirokkant egyedi segédeszköz igényeinek,
+
+b) a hadirokkant egészségi állapota vagy egészségkárosodása miatt szükséges és az életvitel, munkaképesség helyreállítását vagy javítását célzó – segédeszköznek nem minősülő – eszközöknek, valamint
+
+c) a vak hadirokkant kísérőjének
+
+a költségeit is megtérítheti.
+
+(4) A Hdt. 17. §-ának (1) bekezdésében felsorolt és jogszabállyal térítéshez kötött természetbeni ellátások térítési összegét a Közalapítvány a szolgáltatást nyújtónak téríti meg.
+
+## (A Hdt. 26. §-ához)
+
+### 14. §
+
+(1)[^40] A hadigondozotti ügyekben hadigondozási hatóság a fővárosi és megyei kormányhivatal hadigondozott lakóhelye vagy tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatala.
+
+(2)[^41] Az (1) bekezdésben foglaltaktól eltérően a külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár kérelmező esetében, illetve a Hdt. 1. § (1a) bekezdésében meghatározott esetben a hadigondozási hatóság Budapest Főváros Kormányhivatala.
+
+### 14/A. §[^42]
+
+(1) A hadigondozási igény visszamenőlegesen nem érvényesíthető.
+
+(2)[^43] A hadigondozási igazolvány a 6. melléklet szerinti, nyomdailag sorszámozott, szigorú számadású nyomtatvány. Az igazolványt a hadigondozásba vétellel egy időben kell kiadni. Az igazolvány adatainak aktualizálását a hadigondozási hatóság végzi. Az igazolványt a hadigondozási hatóság a Közalapítványtól ingyenesen igényelheti.
+
+(3)[^44] A hadigondozási hatóság megszünteti a hadigondozási igényjogosultságot, ha a Hdt. 8. § (3) bekezdésében meghatározott megszüntető okokról tudomást szerez.
+
+(4)[^45] A hadigondozási hatóság a hadigondozott halála esetén a pénzellátás megszüntetéséről nem hoz döntést. A hadigondozási hatóság a halál tényét és az ellátásra jogosultság megszűnését átvezeti a hatósági nyilvántartáson.
+
+### 15. §
+
+(1)[^46] A halál hadi eredetét elsősorban hivatalos hatósági értesítéssel, hatósági bizonyítvánnyal vagy holttányilvánító bírósági végzéssel kell igazolni.
+
+(2)[^47] Az (1) bekezdés szerinti iratok felkutatása elsősorban annál a területileg illetékes polgármesteri hivatalnál kezdeményezhető, ahol az elhunyt utolsó lakóhelye vagy tartózkodási helye volt. A halál hadieredetével kapcsolatos iratok a Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum Központi Irattárából is beszerezhetők. Az iratkutatás ellenértékét a Közalapítvány előzetes megállapodás alapján téríti meg az iratot szolgáltató részére.
+
+(3)[^48]
+
+(4)[^49] Ha a tanú lakóhelye vagy tartózkodási helye máshol van, a hadigondozási hatóság megkeresésére a tanú
+
+a) a lakóhelye vagy tartózkodási helye szerinti járási hivatal, vagy
+
+b) külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező tanú esetén a 16. § szerinti szerv
+
+előtt is tehet nyilatkozatot.
+
+### 16. §[^50]
+
+(1)[^51] A külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező kérelmező a hadigondozás iránti kérelmét a lakóhelye vagy tartózkodási helye szerinti államban működő magyar diplomáciai vagy hivatásos konzuli képviseleten (a továbbiakban: diplomáciai és konzuli képviselet) is benyújthatja, kizárólag személyes megjelenés útján.
+
+(2)[^52] A kérelmet, valamint a 15. § (4) bekezdés b) pontja szerinti nyilatkozatot a diplomáciai és konzuli képviselet az átvételtől számított első diplomáciai postával megküldi a 14. § (2) bekezdése szerinti hadigondozási hatóság részére.
+
+(3)[^53]
+
+(4)[^54] A kérelemhez a külföldi okiratot eltérő nemzetközi szerződés vagy viszonossági gyakorlat hiányában – kivéve, ha ennek beszerzése aránytalan érdeksérelmet okozna – diplomáciai felülhitelesítéssel ellátva kell csatolni.
+
+(5)[^55]
+
+### 16/A. §[^56]
+
+A tárgyévben megállapított járadék alapjának – a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (5) vagy (6) bekezdése alapján végrehajtott évközi nyugdíjintézkedésre tekintettel történő – megemelését a nyugdíjfolyósító szerv úgy hajtja végre, hogy
+
+a) a járadék összegét a tárgyévet követő év január 1-jétől – a járadéknak a Tny. 62. § (1) bekezdése szerinti emelését megelőzően – emeli meg, és
+
+b) a tárgyévre eső különbözetet a tárgyévet követő év januárjában folyósítja.
+
+### 17. §
+
+(1)[^57] A hadigondozás állami irányítása a honvédelemért felelős miniszter feladata.
+
+(2) E feladatkörében
+
+a) koordinálja a minisztériumok hadigondozással kapcsolatos tevékenységét;
+
+b)[^58] szakmai irányító miniszterként gyakorolja a fővárosi és megyei kormányhivatal hadigondozással kapcsolatos feladatainak ellátásával összefüggésben a központi államigazgatási szervekről, valamint, a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket;
+
+c) segíti a hadigondozottak érdekképviseleti szerveinek munkáját;
+
+d) ellátja a hadigondozással kapcsolatos nemzetközi feladatokat.
+
+### 18. §
+
+(1) Ez a rendelet 1994. szeptember 1-jén lép hatályba.
+
+(2)[^59]
+
+### 19. §[^60]
+
+Az egyes társadalombiztosítási és családpolitikai tárgyú kormányrendeletek módosításáról szóló 310/2019. (XII. 18.) Korm. rendelettel megállapított 16/A. §-t a nyugellátások és egyes más ellátások 2019. novemberi kiegészítéséről szóló 238/2019. (X. 16.) Korm. rendelettel megállapított egyösszegű kifizetés vonatkozásában is alkalmazni kell.
+
+## 1. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^61]
+
+## 2. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^62]
+
+**Hadirokkantként történő nyilvántartásba vételhez, valamint hadirokkant magasabb járadékosztályba történő besorolásához szükséges vizsgálat formanyomtatványa**
+
+A hadigondozási hatóság megnevezése
+
+| Szám: | Tárgy: | Hadieredetű fogyatkozás vizsgálata |
+|---|---|---|
+|  | Hiv. sz.: |  |
+|  | Mell.: |  |
+
+A rehabilitációs szakértői szerv vezetőjének
+
+A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bekezdése alapján kérem .................... nevű személy vizsgálatát.
+
+Szül. ideje:....
+
+Személyi igazolvány száma:.....
+
+Anyja leánykori neve:.....
+
+Lakóhelye/Tartózkodási helye:.....
+
+Hadieredetű fogyatkozás miatti munkaképesség-csökkenés legutóbb megállapított mértéke:.....%
+
+Hadieredetű fogyatkozása:.....
+
+Kérem véleményének közlését arról, hogy nevezett
+
+*a)* jelenlegi hadieredetű fogyatkozása miatti egészségkárosodás milyen mértékű?
+
+*b)* mások rendszeres ápolására szorul-e?
+
+*c)* utazásnál kísérőre szorul-e?
+
+*d)* gyógyászati segédeszköz használatára szorul-e, ha igen, milyenre?
+
+Kelt:.....
+
+P. H.
+
+hatóság vezetőjének aláírása
+
+## 3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^63]
+
+A rehabilitációs szakértői szerv vezetője
+
+**…………………………**
+
+Szám:………………… Tárgy: Szakhatósági állásfoglalás/Szakvélemény hadieredetű
+
+fogyatkozásról és az általa okozott egészségkárosodás mértékéről
+
+Hiv. sz.:
+
+Mell.:
+
+………………………… úr, (nő)
+
+Hadigondozási hatóság
+
+…………………………
+
+Megkeresésére értesítem, hogy .........................
+
+(szül. év:) ...........................................
+
+alatti lakos
+
+a) hadieredetű fogyatkozás miatti egészségkárosodás jelenlegi mértéke ...........................%
+
+b) mások rendszeres ápolására: szorul — nem szorul
+
+c) utazáshoz kísérőre: szorul — nem szorul
+
+d) gyógyászati segédeszköz használatára: rászorul — nem szorul, a szükséges gyógyászati segédeszköz megnevezése:
+
+.................................................
+
+.................................................
+
+.................................................
+
+.................................................
+
+.................................................
+
+A szakvélemény alapjául szolgáló indokok:
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+Vizsgálati adatok
+
+Kórelőzmény:
+
+Jelen állapot (a működési zavarok pontos feltüntetésével):
+
+Egyéb vizsgálatok eredményei:
+
+Diagnózis:
+
+Kelt: ………………… …… év ……………… hó …… nap
+
+P. H.
+
+…………………………… ……………………………
+
+(rehabilitációs szakértői szerv vezetője)
+
+## 4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^64]
+
+**A HADIGONDOZÁSI HATÓSÁG RÉSZÉRE**
+
+Családi és utóneve: ............................\
+Lakóhelye/Tartózkodási helye: .....................................\
+Anyja leánykori neve: ..........................\
+Születési hely, idő: ...........................
+
+1\. Kijelentem, hogy hadigondozásba vételem időpontjában ugyanazon sérelem alapján a nemzeti gondozásról szóló 1992. évi LII. törvény alapján nem részesülök pénzellátásban.*
+
+2\. Tudomásul veszem, hogy a számomra nemzeti gondozás címén eddig folyósított pénzellátásom a hadigondozásba vétel időpontjával, illetve a hadigondozotti pénzellátás folyósításának kezdetével megszűnik.*
+
+3\. Büntetőjogi felelősségem tudatában kijelentem, hogy az általam közölt adatok a valóságnak megfelelnek, más hatóság előtt sem a jelenleg igényelt, sem más hadigondozási ellátás iránti kérelmet nem terjesztettem elő.
+
+4\. Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+
+………………………… …… év …………… hó …… nap
+
+……………………………
+
+hadigondozott aláírása
+
+-------
+
+*Figyelem:*
+
+Minden újonnan hadigondozásba vett személy esetén kitöltendő!
+
+\* A nem kívánt szövegrész törlendő!
+
+## 5. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^65]
+
+**A HADIGONDOZÁSI HATÓSÁG RÉSZÉRE**
+
+**Igénybejelentés**\
+**az egyösszegű térítés megállapításához**
+
+Az igénylő családi és utóneve: .........................
+
+Leánykori név: .........................................
+
+Lakóhelye/Tartózkodási helye: .............................................
+
+Anyja leánykori neve: ..................................
+
+Születési hely, idő: ...................................
+
+Kérem szíveskedjék részemre megállapítani a hadigondozásról szóló 1994. évi XLV. törvény 10. §-ában meghatározott egyösszegű térítést.
+
+Az egyösszegű térítést mint
+
+\- hadirokkant,
+
+\- hadiözvegy,
+
+\- volt hadiárva,
+
+\- volt hadigyámolt,
+
+\- volt hadigondozott családtag
+
+igényelem.*
+
+………………………… ……… év …………… hó …… nap.
+
+…………………………
+
+igénylő
+
+-------
+
+\* A megfelelő szövegrész aláhúzandó!
+
+## 5/A. melléket a 113/1994. (VIII. 31.) Korm. rendelethez[^66]
+
+**IGÉNYBEJELENTÉS A VOLT HADIÁRVA, A VOLT HADIGONDOZOTT CSALÁDTAG ÉS VOLT HADIGYÁMOLT RENDSZERES HAVI JÁRADÉKÁNAK MEGÁLLAPÍTÁSÁHOZ**
+
+Az igénylő
+
+családi és utóneve:
+
+születési neve:
+
+TAJ száma:
+
+anyja születési neve:
+
+születési helye, ideje: ..............................................., ............... év .............................. hó ................... nap
+
+lakóhelye: .................................................. ország .................................................. helység, ............................................... utca\
+............. hsz. .................... em. .......... ajtó .................. ir.sz.
+
+tartózkodási helye: .................................................. ország ...................................................... helység ..................................... ut\
+............. hsz ..................... em. .......... ajtó .................. ir.sz.
+
+nyugdíjfolyósító törzsszáma:
+
+telefonszáma, levelezési címe (ha eltérő):
+
+A szülő (volt hadigondozott családtag esetén unoka, gyermek vagy testvér) neve, akinek jogán a volt hadiárva, volt hadigyámolt, volt hadigondozott családtag a havi rendszeres járadékot igényli:
+
+Az elesett, eltűnt, hadifogságban elhunyt személy elhalálozásának ideje, helye, utolsó ismert lakóhelye:
+
+Kérem, szíveskedjék részemre megállapítani a Hdt. 14/A. §-ában vagy 15/A. §-ában meghatározott havi rendszeres járadékot.
+
+A havi rendszeres járadékot mint:
+
+– volt hadiárva
+
+– volt hadigyámolt
+
+– volt hadigondozott családtag
+
+igényelem. *
+
+(* A megfelelő rész aláhúzandó.)
+
+Az eljárás megindításáról kérelmére értesítjük.
+
+Kelt: ...................................., .............. év ......................... hó .......... nap
+
+.........................................................................\
+igénylő
+
+## 5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^67]
+
+**KÉRELEM**
+
+**Igénybejelentés külföldön élő, Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező magyar állampolgár esetében, a volt hadiárva, a volt hadigondozott családtag és volt hadigyámolt rendszeres havi járadékának megállapításához**
+
+**Az igénylő:**
+
+családi és utóneve: ______________________________________________________
+
+születési neve: _________________________________________________________
+
+születési helye, ideje: ____________________ ____ év ___________ hó ________ nap
+
+lakóhelye: ____________ ország ____________________ helység _____________ utca
+
+_____ hsz. _____ em. ______ ajtó ______ ir.sz.
+
+tartózkodási helye: ______________ ország ________________ helység
+
+__________________ utca _____ hsz. _____ em. ______ ajtó ______ ir.sz.
+
+anyja születési neve és házassági neve: _______________________________________
+
+anyja születési ideje, születési helye: _________________________________________
+
+anyja utolsó ismert lakcíme: _______________________________________________
+
+telefonszáma, levelezési címe (ha eltérő): ___________________________________
+
+**Az elesett, hadifogságban elhunyt szülő (volt hadigondozott családtag esetén unoka, gyermek vagy testvér, továbbá volt hadigyámolt esetén a veszteséget szenvedett szülő) neve, akinek jogán a volt hadiárva, volt hadigyámolt, volt hadigondozott családtag a havi rendszeres járadékot igényli:**
+
+**_______________________________________________________________________**
+
+**Az elesett, eltűnt, hadifogságban elhunyt személy elhalálozásának (volt hadigyámolt esetén a szülő által elszenvedett veszteség) ideje, helye, ezen személy utolsó ismert lakóhelye vagy tartózkodási helye:**
+
+(elhalálozás hadi eredetének igazolása szükséges)
+
+**_______________________________________________________________________**
+
+**Az elesett, eltűnt, hadifogságban elhunyt személy (volt hadigyámolt esetén a veszteséget szenvedett szülő) adatai:**
+
+Neve: .................................................................................................
+
+Születési helye, ideje: .......................................................................
+
+Anyja neve: .......................................................................................
+
+**Kérem, szíveskedjék részemre megállapítani a hadigondozásról szóló** 1994. évi XLV. törvény 14/A. §-ában **vagy** 15/A. §-ában **meghatározott havi rendszeres járadékot.**
+
+A havi rendszeres járadékot mint:
+
+a) volt hadiárva,
+
+b) volt hadigyámolt,
+
+c) volt hadigondozott családtag
+
+igénylem.*
+
+(*A megfelelő rész aláhúzandó.)
+
+Az eljárás megindításáról kérelmére értesítjük.
+
+**Nyilatkozatok:** (Kérjük, húzza alá a megfelelő részt!)
+
+**1. Nyilatkozom, hogy magyar állampolgársággal rendelkezem.**
+
+**2. Nyilatkozom, hogy igényem 1949. január 1-je előtt bekövetkezett veszteségen alapul, de**
+
+a) pénzellátásomat a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § h) és i) pontja alapján megszüntették,
+
+b) pénzellátásomat politikai okból megszüntették vagy szüneteltették,
+
+c) pénzellátás iránti kérelmemet politikai okból elutasították,
+
+d) ez irányú kérelmet politikai okból elő sem terjesztettem.
+
+**3. A 2. pontban tett nyilatkozatom igazolására**
+
+a) csatolom a rendelkezésemre álló iratokat,
+
+b) iratokkal nem rendelkezem.
+
+**4. Folyósítási adatok:**
+
+(Akkor kell kitölteni, ha a nyugdíjfolyósító szervtől ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a nyugdíjfolyósító szerv más címen is folyósít ellátást az Ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
+
+***Kérem, hogy a megállapított járadékot részemre az alábbi pénzintézetnél vezetett számlaszámra szíveskedjenek folyósítani.***
+
+Pénzforgalmi szolgáltató neve és pontos címe:
+
+_____________________________________________________
+
+A pénzforgalmi szolgáltató SWIFT azonosítója/(BIC) kódja:
+
+_____________________________________________________
+
+Nemzetközi bankszámlaszám (IBAN):
+
+_____________________________________________________
+
+A megjelölt fizetési számla feletti rendelkezési joga önálló? Igen Nem
+
+Ha nem, társtulajdonosként rendelkezik a számla felett? Igen Nem
+
+Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+
+Kelt: ____________________ _________ év _________________ hó _______ nap
+
+_____________________________\
+igénylő
+
+## 5/C. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^68]
+
+**KÉRELEM**
+
+**Igénybejelentés a hadigondozásról szóló** 1994. évi XLV. törvény 1. § (1a) bekezdésében **foglalt esetben a volt hadiárva, a volt hadigondozott családtag és a volt hadigyámolt rendszeres havi járadékának megállapításához**
+
+Az igénylő:
+
+állampolgársága: ..........................................................................................................................
+
+családi és utóneve: .......................................................................................................................
+
+születési neve: ..............................................................................................................................
+
+születési helye, ideje: ................................................, ............ év .............................. hó ........ nap
+
+lakóhelye: ............................. ország .................................... helység .................................... utca .................. hsz. .............. em. .............. ajtó ........... ir.sz.
+
+tartózkodási helye: ................................. ország ............................ helység ........................... utca .................. hsz. .............. em. .............. ajtó ........... ir.sz.
+
+anyja születési neve és házassági neve: ...........................................................................
+
+anyja születési ideje, születési helye: ..............................................................................
+
+anyja utolsó ismert lakcíme: ............................................................................................
+
+telefonszáma, levelezési címe (ha eltérő): ..................................................................................
+
+Az elesett, hadifogságban elhunyt szülő (volt hadigondozott családtag esetén unoka, gyermek vagy testvér, továbbá volt hadigyámolt esetén a veszteséget szenvedett szülő) neve, akinek jogán a volt hadiárva, volt hadigyámolt, volt hadigondozott családtag a havi rendszeres járadékot igényli:
+
+.......................................................................................................................................................
+
+Az elesett, eltűnt, hadifogságban elhunyt személy elhalálozásának (volt hadigyámolt esetén a szülő által elszenvedett veszteség) ideje, helye, ezen személy utolsó ismert lakóhelye vagy tartózkodási helye:
+
+(elhalálozás hadi eredetének igazolása szükséges)
+
+.......................................................................................................................................................
+
+Az elesett, eltűnt, hadifogságban elhunyt személy (volt hadigyámolt esetén a veszteséget szenvedett szülő) adatai:
+
+neve: .................................................................................................................
+
+születési helye, ideje: .......................................................................................
+
+anyja neve: .......................................................................................................
+
+Kérem, szíveskedjék részemre megállapítani a hadigondozásról szóló 1994. évi XLV. törvény 14/A. §-ában vagy 15/A. §-ában meghatározott havi rendszeres járadékot. A havi rendszeres járadékot mint:
+
+a) volt hadiárva,
+
+b) volt hadigyámolt,
+
+c) volt hadigondozott családtag
+
+igénylem.*
+
+(* A megfelelő rész aláhúzandó.)
+
+Az eljárás megindításáról kérelmére értesítjük.
+
+Nyilatkozatok: (Kérjük, húzza alá a megfelelő részt!)
+
+1\. Nyilatkozom, hogy igényem 1949. január 1-je előtt bekövetkezett veszteségen alapul, de
+
+a) pénzellátásomat a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § h) és i) pontja alapján megszüntették,
+
+b) pénzellátásomat politikai okból megszüntették vagy szüneteltették,
+
+c) pénzellátás iránti kérelmemet politikai okból elutasították,
+
+d) ez irányú kérelmet politikai okból elő sem terjesztettem.
+
+2\. Az 1. pontban tett nyilatkozatom igazolására
+
+a) csatolom a rendelkezésemre álló iratokat,
+
+b) iratokkal nem rendelkezem.
+
+3\. Folyósítási adatok: (Akkor kell kitölteni, ha a nyugdíjfolyósító szervtől ellátásban nem részesül. Tájékoztatjuk, hogy a hadigondozotti ellátást folyósító szerv kizárólag olyan számlára teljesíthet utalást, mely felett Önnek rendelkezési joga van. Amennyiben a nyugdíjfolyósító szerv más címen is folyósít ellátást az Ön részére, a hadigondozási ellátást csak az egyéb ellátásával együtt, a már bejelentett lakcímre, illetve bankszámlára tudja folyósítani.)
+
+Kérem, hogy a megállapított járadékot részemre az alábbi pénzintézetnél vezetett számlaszámra szíveskedjenek folyósítani.
+
+Pénzforgalmi szolgáltató neve és pontos címe:
+
+...........................................................................................
+
+A pénzforgalmi szolgáltató SWIFT azonosítója/(BIC) kódja:
+
+...........................................................................................
+
+Nemzetközi bankszámlaszám (IBAN):
+
+...........................................................................................
+
+A megjelölt fizetési számla feletti rendelkezési joga önálló? Igen Nem
+
+Ha nem, társtulajdonosként rendelkezik a számla felett? Igen Nem
+
+Hozzájárulok, hogy személyes adataimat kizárólag a hadigondozás céljából a hadigondozási hatóság kezelje.
+
+Kelt: ................................., ........... év ........................... hó ........ nap
+
+...............................................................\
+igénylő aláírása
+
+## 6. számú melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^69]
+
+Igazolvány száma: nyomdai szám\
+1—100 000-ig
+
+**[A HADIGONDOZÁSI HATÓSÁG MEGNEVEZÉSE]**
+
+**HADIGONDOZOTTI IGAZOLVÁNY**
+
+..........................................
+
+hadi ...............................részére
+
+(2. oldalra)
+
+*SZEMÉLYI ADATOK*
+
+Név: ...............................................
+
+Szül. hely: ...................................... év ...................hó ...... nap
+
+Anyja neve: ...................................
+
+Lakóhelye/Tartózkodási helye: .......................................
+
+Hadigondozotti minősége: ......... %-os
+
+hadi..........................
+
+Állandó kísérőre szorul: igen—nem*
+
+………………………… …… év …………… hó …… nap.
+
+P. H.
+
+…………………………
+
+HATÓSÁG VEZETŐJÉNEK ALÁÍRÁSA
+
+-------
+
+\* A megfelelő válasz aláhúzandó!
+
+(3., illetve 4. oldalra)
+
+A hadigondozottat a hadigondozásról szóló 1994. évi XLV. törvény alapján a következő kedvezmények illetik meg, amelyeket ezen igazolvány felmutatásával vehet igénybe:
+
+22\. § (1) A hadirokkant és hadiözvegy térítésmentesen veheti igénybe a helyi tömegközlekedési és a helyközi (távolsági) tömegközlekedési (vonat, autóbusz, hajó, komp stb.) eszközöket.
+
+(2) Ha a hadirokkant bármely fogyatkozása miatt az orvosszakértői szerv szakvéleménye alapján kísérőre szorul, a kísérőt is megilleti a térítésmentes utazási kedvezmény.
+
+(3) A mozgáskorlátozott személyeket megillető támogatások megállapítása során — az azonos feltételek fennállása esetén — a hadirokkantat előnyben kell részesíteni.
+
+24\. § A hadirokkant és hadiözvegy a vásárcsarnokokban és a piacokon a helypénz megfizetése nélkül árusíthatja saját kisipari és mezőgazdasági termékeit, illetve terményeit.
+
+*Figyelmeztetés:*
+
+1\. Ezt az igazolványt a hatóságokhoz benyújtandó kérelemhez (beadványhoz) csatolni nem szabad.
+
+2\. Csak személyazonossági igazolvánnyal együtt érvényes.
+
+3\. Az igazolvány elvesztését a tulajdonos a kiállító hatósággal 8 napon belül köteles közölni.
+
+---
+
+[^1]: Az R. 1. § (3) bekezdését a 479/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 489/2016. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az R. 2. §-a a 259/2016. (VIII. 31.) Korm. rendelet 102. §-ával megállapított szöveg.
+[^3]: Az R. 2. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: Az R. 2. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: Az R. 2. § (3) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^6]: Az R. 2. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^8]: Az R. 4. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^9]: Az R. 4. § (2) bekezdése az 58/2008. (III. 26.) Korm. rendelet 2. §-ával megállapított, a 479/2015. (XII. 29.) Korm. rendelet 6. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 12. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^10]: Az R. 5. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^11]: Az R. 5. § (2) bekezdése az 58/2008. (III. 26.) Korm. rendelet 3. §-ával megállapított szöveg. E módosító rendelet 5. § (5) bekezdése alapján a rendelkezés a 2008. április 3. napja előtt megállapított járadékosztályba sorolást nem érinti.
+[^12]: Az R. 5. § (3) bekezdését az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.
+[^13]: Az R. 5. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^14]: Az R. 5. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: Az R. 5. § (6) bekezdését a 200/2015. (VII. 23.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^16]: A 6. § (1) bekezdése a 226/1998. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: Az R. 6. § (2) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 6. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^18]: Az R. 7. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: Az R. 7. § (2) bekezdése az 58/2008. (III. 26.) Korm. rendelet 5. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § a) pontja és 7. §-a, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^20]: Az R. 7. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 332/2010. (XII. 27.) Korm. rendelet 4. § f) pontja, a 70/2015. (III. 30.) Korm. rendelet 12. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^21]: Az R. 7. § (4) bekezdését a 200/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 489/2016. (XII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^22]: Az R. 8. § (1) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 6. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 19. § d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^23]: Az R. 8. § (2) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 6. § d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^24]: Az R. 9. §-ának (1) bekezdése a 154/2003. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-a alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+[^25]: Az R. 10. §-a a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 489/2016. (XII. 28.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^26]: Az R. 11. §-a a 489/2016. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^27]: Az R. 11. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: Az R. 12. §-ának (1)–(3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^29]: Az R. 12. §-ának (1)–(3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^30]: Az R. 12. §-ának (1)–(3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^31]: Az R. 12. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a, a 479/2015. (XII. 29.) Korm. rendelet 6. § f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: Az R. 12. §-ának (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58–59. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^33]: Az R. 12. §-ának (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: Az R. 12. § (7) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg. [A 379/2016. (XII. 2.) Korm. rendelet 12. § b) pontjával elrendelt módosítás, amely szerint az „az Egészségbiztosítási Alappal” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelővel” szöveg, az „az Országos Egészségbiztosítási Pénztárral” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelővel” szöveg lép, nem vezethető át.]
+[^35]: Az R. 12. § (8) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^36]: Az R. 13. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 12. § c) pontja, a 489/2016. (XII. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg. [Ez utóbbi módosító rendelet 10. § (1) bekezdés c) pontjával elrendelt módosítás, amely szerint az „az Egészségbiztosítási Alap” szövegrész helyébe az „a NEAK” szöveg lép, nem vezethető át.]
+[^37]: Az R. 13. §-ának (2) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^38]: Az R. 13/A.-t az 58/1997. (IV. 10.) Korm. rendelet 3.§–a iktatta a szövegbe.
+[^39]: Az R. 13/A. § (3) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: Az R. 14. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^41]: Az R. 14. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^42]: Az R. 14/A. §-át a 489/2016. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^43]: Az R. 14/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^44]: Az R. 14/A. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^45]: Az R. 14/A. § (4) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^46]: Az R. 15. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 13. § (4) bekezdése szerint módosított szöveg.
+[^47]: Az R. 15. § (2) bekezdése az 58/2008. (III. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 479/2015. (XII. 29.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^48]: Az R. 15. §-ának (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 59. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: Az R. 15. § (4) bekezdése a 479/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^50]: Az R. 16. §-át az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte, újonnan a 200/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^51]: Az R. 16. § (1) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^52]: Az R. 16. § (2) bekezdése a 489/2016. (XII. 28.) Korm. rendelet 8. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 5. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^53]: Az R. 16. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: Az R. 16. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 17. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^55]: Az R. 16. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 19. § e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^56]: Az R. 16/A. §-át a 310/2019. (XII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^57]: Az R. 17. §-ának (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 58. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: Az R. 17. § (2) bekezdés b) pontját újonnan a 278/2015. (IX. 22.) Korm. rendelet 1. §-a iktatta be, szövge a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^59]: Az R. 18. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1428. pontja hatályon kívül helyezte.
+[^60]: Az R. 19. §-át a 310/2019. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^61]: Az R. 1. számú mellékletét az 58/2008. (III. 26.) Korm. rendelet 5. § (6) bekezdése hatályon kívül helyezte.
+[^62]: Az R. 2. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^63]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.
+[^64]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^65]: Az R. 5. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^66]: Az R. 5/A. mellékletét a 200/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^67]: Az R. 5/B. mellékletét a 479/2015. (XII. 29.) Korm. rendelet 5. § (5) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § a) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^68]: Az R. 5/C. mellékletét a 489/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 18. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^69]: Az R. 6. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (6) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 5. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

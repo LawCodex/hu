@@ -1,0 +1,277 @@
+---
+title: "243/2000. (XII. 24.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a szociális biztonságról szóló, 1999. március 31-én, Budapesten aláírt Egyezmény végrehajtásáról szóló Megállapodás kihirdetéséről"
+identifier: "243/2000. (XII. 24.) Korm. rendelet"
+njt_id: "2000-243-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/243"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-24
+in_force_from: 2001-01-01
+last_amended: 2001-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-243-20-22"
+retrieved: 2026-10-12
+---
+
+# 243/2000. (XII. 24.) Korm. rendelet a Magyar Köztársaság és az Osztrák Köztársaság között a szociális biztonságról szóló, 1999. március 31-én, Budapesten aláírt Egyezmény végrehajtásáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság és az Osztrák Köztársaság között a szociális biztonságról szóló, 1999. március 31-én, Budapesten aláírt Egyezményhez kapcsolódó Végrehajtási Megállapodást (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+az Osztrák Köztársaság és a Magyar Köztársaság közötti szociális biztonságról szóló Egyezmény végrehajtásáról
+
+Az Osztrák Köztársaság és a Magyar Köztársaság között a szociális biztonságról, 1999. március 31-én aláírt Egyezmény (a továbbiakban: Egyezmény) 26. Cikkely 1. bekezdése értelmében az illetékes hatóságok az Egyezmény végrehajtására az alábbiakban állapodtak meg:
+
+I. Szakasz
+
+ÁLTALÁNOS RENDELKEZÉSEK
+
+*1. Cikkely*
+
+*Fogalommeghatározások*
+
+Jelen Megállapodásban az Egyezmény 1. Cikkelyében rögzített fogalmak ugyanolyan jelentésben használatosak, mint amelyeket az említett Cikkelyben adnak nekik.
+
+*2. Cikkely*
+
+*Összekötő szervek*
+
+Az Egyezmény 27. Cikkelye szerinti összekötő szervek
+
+Ausztriában
+
+– a beteg-, baleset- és a nyugdíjbiztosítás tekintetében:
+
+Osztrák Társadalombiztosítási Teherviselők Főszövetsége,
+
+– a munkanélküli biztosítottak járadéka tekintetében:
+
+Munkaerőpiaci Szolgálat Burgenlandi Tartományi Irodája;
+
+Magyarországon
+
+– az egészségbiztosítás tekintetében:
+
+Országos Egészségbiztosítási Pénztár,
+
+– a nyugdíjbiztosítás tekintetében:
+
+Országos Nyugdíjbiztosítási Főigazgatóság,
+
+– a munkanélküli járadék tekintetében:
+
+Országos Munkaügyi és Módszertani Központ.[^1]
+
+*3. Cikkely*
+
+*Az összekötő szervek feladatai*
+
+(1) A jelen Megállapodásban megfogalmazott feladatok végrehajtása az összekötő szervek feladatkörébe tartozik. Az Egyezmény végrehajtása során az összekötő szerveknek támogatniuk kell egymást, és kapcsolatba léphetnek egymással, valamint az érintett személyekkel vagy az általuk megbízott személyekkel.
+
+(2) A jelen Megállapodás végrehajtása céljából szükséges formanyomtatványokat az összekötő szerveknek kell meghatározniuk.
+
+II. Szakasz
+
+RENDELKEZÉSEK AZ ALKALMAZANDÓ JOGSZABÁLYOKRÓL
+
+*4. Cikkely*
+
+Kiküldetés, a kiküldő állam jogszabályainak\
+választása
+
+(1) Az Egyezmény 7. és 8. Cikkelye szerinti esetekben azon szerződő állam teherviselője, amelynek a jogszabályai alkalmazandók, kérelem alapján egy megfelelő igazolást állít ki.
+
+(2) Ezen (1) bekezdés szerinti igazolásokat
+
+– az osztrák jogszabályok alkalmazásánál az illetékes betegbiztosítási teherviselő,
+
+– a magyar jogszabályok alkalmazásánál az illetékes egészségbiztosítási teherviselő
+
+állítja ki.
+
+III. Szakasz
+
+KÜLÖNLEGES RENDELKEZÉSEK
+
+1\. Fejezet
+
+*BETEGSÉG ÉS ANYASÁG*
+
+*5. Cikkely*
+
+*Biztosítási idők egybeszámítása*
+
+(1) Az Egyezmény 10. Cikkelyének az egyik szerződő állam által történő alkalmazásánál az érintett személynek igazolást kell bemutatnia a másik szerződő állam jogszabályai szerint szerzett biztosítási időkről. Amennyiben az érintett személy nem mutatja be az igazolást, akkor az illetékes teherviselő a másik szerződő állam teherviselőjét kérheti az igazolás kiállítására és elküldésére.
+
+(2) Az (1) bekezdés szerinti igazolást
+
+– Ausztriában a betegbiztosítás teherviselője,
+
+– Magyarországon az egészségbiztosítás teherviselője
+
+állítja ki.
+
+*6. Cikkely*
+
+*Természetbeni ellátások nyújtása*
+
+(1) Az Egyezmény 11. Cikkelye alkalmazásánál az érintett személynek az igényjogosultság bizonyítására be kell mutatnia az Egyezmény 14. Cikkelye szerint illetékes teherviselő részére az illetékes terherviselő igazolását. Amennyiben az érintett személy az igazolást nem mutatja be, akkor az illetékes teherviselőnek a kisegítő teherviselő kérésére az Egyezmény 11. Cikkely (1) bekezdésének *a)* és *b)* pontja szerinti esetekben utólag kell egy ilyen igazolást kiállítania.
+
+(2) A tartózkodási vagy a lakóhely szerinti teherviselőnek úgy kell végrehajtania a betegellenőrzést, mintha a saját biztosítottjáról lenne szó, az illetékes teherviselőt az ellenőrzés eredményéről tájékoztatni kell.
+
+(3) Amennyiben kórházi ápolás történik, akkor az Egyezmény 14. Cikkelye szerint illetékes teherviselőnek, miután erről tudomást szerzett, haladéktalanul közölnie kell az illetékes teherviselővel a kórházba való felvétel napját és a tartózkodás várható tartamát, továbbá az elbocsátás napját.
+
+(4) Az Egyezmény 11. Cikkelyének (2) bekezdése szempontjából ellátásnak minősülnek:
+
+1\. A testrész-protézisek, ortopédiai készülékek és fűzők, beleértve a szövetbevonatú fűzőket is, a kiegészítő részeikkel, tartozékokkal és szerszámokkal együtt.
+
+2\. A méretes ortopéd cipő, adott esetben az ahhoz tartozó normál (nem ortopéd) cipő.
+
+3\. Az állkapocs- és arcplasztikák, parókák.
+
+4\. A mintanyomatok (különböző testrészek lenyomatai), amelyeket arra használnak, hogy az 1. és 3. pontokban megnevezett eszközöket megfelelően hozzáigazítsák.
+
+5\. A műszemek, kontaktlencsék, nagyító szemüvegek és távcső-szemüvegek.
+
+6\. A hallókészülékek.
+
+7\. A (fix és kivehető) fogpótlás és a szájüreg elzárására szolgáló protézisek.
+
+8\. A betegjárművek, tolókocsik, illetve egyéb mechanikus közlekedési eszközök.
+
+9 Az 1–8. pontokban felsorolt tárgyak felújítása.
+
+10\. A vakvezető kutyák.
+
+11\. A szanatóriumokban, üdülőkben vagy gyógyintézményekben való orvosi kezelés és kúrák.
+
+12\. Az orvosi és szakmai rehabilitációs programok.
+
+13\. Minden egyéb olyan gyógyászati eszköz, segédeszköz és ehhez hasonlók, amelynek a beszerzési ára Ausztriában a 2000 schillinget, Magyarországon a 35 000 forintot meghaladja.
+
+Amennyiben ilyen ellátásokat a feltétlen sürgősség okán nyújtottak, akkor az Egyezmény 14. Cikkelyében megjelölt teherviselőnek azt haladéktalanul közölnie kell az illetékes teherviselővel.
+
+*7. Cikkely*
+
+A természetbeni ellátások megtérítése az előírt eljárás\
+be nem tartása esetén
+
+A felmerült ráfordításokat az érintett személy kérésére az illetékes teherviselőnek az Egyezmény 14. Cikkelyében megjelölt teherviselőre vonatkozó tarifák szerint kell megtérítenie, amennyiben az előírt eljárási szabályokat nem lehetett betartani. Az Egyezmény 14. Cikkelyében megjelölt teherviselőnek az illetékes teherviselő felé annak kérésére meg kell adni a szükséges tájékoztatást.
+
+*8. Cikkely*
+
+*Pénzbeli ellátások nyújtása*
+
+A pénzbeli ellátásokat az illetékes teherviselőnek közvetlenül a jogosultak részére kell fizetnie; a 6. Cikkely (2) bekezdése értelemszerűen érvényes.
+
+*9. Cikkely*
+
+*A természetbeni ellátások nyújtása nyugdíjasok részére*
+
+Az Egyezmény 13. Cikkely (1) bekezdés második mondata alkalmazása érdekében a nyugdíjjogosultság bizonyítása céljából be kell mutatni az illetékes teherviselő igazolását az Egyezmény 14. Cikkelye szerint illetékes teherviselő részére.
+
+2\. Fejezet
+
+*ÜZEMI BALESETEK ÉS FOGLALKOZÁSI BETEGSÉGEK*
+
+*10. Cikkely*
+
+*Természetbeni ellátások nyújtása*
+
+Az Egyezmény 16. Cikkely (1) bekezdése szerinti esetekben a 6. és 7. Cikkely megfelelően alkalmazandó.
+
+*11. Cikkely*
+
+*Pénzbeli ellátások nyújtása*
+
+A járadékokat és egyéb pénzbeli ellátásokat az illetékes teherviselők közvetlenül az igényjogosultak részére fizetik ki.
+
+*12. Cikkely*
+
+*Statisztikák*
+
+Az illetékes teherviselők megküldik a számukra illetékes összekötő szerv részére a másik szerződő államban a 11. Cikkely alapján kifizetett járadékokról évente összeállítandó statisztikákat. Ezek a statisztikák az összekötő szervek között kicserélendők.
+
+3\. Fejezet
+
+*ÖREGSÉG, ROKKANTSÁG ÉS ELHALÁLOZÁS (NYUGELLÁTÁSOK)*
+
+*13. Cikkely*
+
+*Az ellátási kérelmek feldolgozása*
+
+(1) Az illetékes teherviselők haladéktalanul tájékoztatják egymást az ellátás iránti olyan kérelmekről, amelyekre az Egyezmény III. Szakasz 3. Fejezete és ezzel összefüggésben a 30. Cikkely 2. bekezdése alkalmazandó.
+
+(2) Az illetékes teherviselők ezt követően egymással az egyéb, az ellátás megállapítása szempontjából lényeges tényeket is közlik, adott esetben orvosi szakvélemények csatolásával.
+
+(3) Az illetékes teherviselők értesítik egymást a megállapítási ügyekben hozott döntésekről.
+
+*14. Cikkely*
+
+*Nyugdíjak folyósítása*
+
+A nyugdíjakat és egyéb pénzbeli ellátásokat az illetékes teherviselők közvetlenül az igényjogosultak részére fizetik ki.
+
+*15. Cikkely*
+
+*Statisztikák*
+
+A nyugdíjakra a 12. Cikkelyt megfelelően alkalmazni kell.
+
+4\. Fejezet
+
+*MUNKANÉLKÜLISÉG*
+
+*16. Cikkely*
+
+*Eljárás*
+
+Az Egyezmény 25. és 26. Cikkelye szerinti esetekben az érintett személynek az egyik szerződő állam illetékes teherviselője felé be kell mutatnia a másik szerződő állam illetékes teherviselőjének igazolását, amelyből kiderülnek azon biztosítási idők, amelyeket a másik szerződő állam jogszabályai alapján szerzett, és azok az idők, amelyek alatt a másik államtól munkanélküli segélyt kapott, valamint a munkanélkülivé válását megelőző hat hónapon keresztül általa betöltött munkakör. Amennyiben az érintett személy nem nyújtja be az igazolást, akkor az egyik szerződő állam összekötő szerve kérheti a másik szerződő állam összekötő szervétől egy ilyen igazolás megküldését.
+
+IV. Szakasz
+
+PÉNZÜGYI RENDELKEZÉSEK
+
+*17. Cikkely*
+
+*Költségtérítés*
+
+Az Egyezmény 15. Cikkelye és 16. Cikkelye (3) bekezdése végrehajtása során a természetbeni ellátások költségeinek megtérítésére való jogosultság az ellátási eset lezárultát követően vagy negyedévenként érvényesítendő és a követelés beérkeztét követő két hónapon belül kell teljesíteni.
+
+V. Szakasz
+
+ZÁRÓ RENDELKEZÉSEK
+
+*18. Cikkely*
+
+*Időbeli hatály*
+
+Jelen Megállapodás az Egyezménnyel egyidejűleg lép hatályba, időbeli hatálya megegyezik az Egyezményével.
+
+Készült Budapesten, 1999. március 31-én, két eredeti példányban, német és magyar nyelven, mindkét szöveg egyaránt hiteles.
+
+Az Osztrák Köztársaság\
+szövetségi munka-, egészség-\
+és szociálisügyi minisztere
+
+A Magyar Köztársaság\
+egészségügyi\
+minisztere''[^2]
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő 8. napon lép hatályba azzal, hogy a Megállapodásban foglaltakat 2001. január 1-jétől kell alkalmazni.
+
+---
+
+[^1]: Az 1999: CXXII. törvény 59. §-ának (3) bekezdése szerint Országos Munkaügyi Kutató- és Módszertani Központ, a 2001: XXIV. törvény 19. §-ának (3) bekezdése értelmében, Foglalkoztatási Hivatal.
+[^2]: Az időközi szervezeti változások következtében szociális- és családügyi miniszter.

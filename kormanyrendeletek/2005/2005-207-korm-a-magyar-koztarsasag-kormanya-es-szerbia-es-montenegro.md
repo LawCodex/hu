@@ -1,0 +1,185 @@
+---
+title: "207/2005. (X. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról szóló Jegyzőkönyv kihirdetéséről"
+identifier: "207/2005. (X. 5.) Korm. rendelet"
+njt_id: "2005-207-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/207"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-10-05
+in_force_from: 2005-10-06
+last_amended: 2005-10-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-207-20-22"
+retrieved: 2026-10-12
+---
+
+# 207/2005. (X. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról szóló Jegyzőkönyv kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról szóló Jegyzőkönyvet e rendelettel kihirdeti.
+
+## 2. §
+
+A Jegyzőkönyv hiteles magyar nyelvű szövege a következő:
+
+„
+
+Jegyzőkönyv\
+a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról
+
+A Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa (a továbbiakban: Felek)
+
+– a széles körű baráti és a jószomszédi kapcsolatrendszer további fejlesztése, valamint a két ország stratégiai partnerségi viszonyának elmélyítése érdekében,
+
+– az együttműködés hatékonyságának fokozására a kölcsönös érdekeken alapuló politikai, gazdasági, kulturális, állampolgári és egyéb kapcsolatok terén,
+
+– a két Fél és államaik között megkötött szerződések szellemével és rendelkezéseivel összhangban,
+
+a különböző szinteken és szakmai fórumokon megvalósuló intenzív kapcsolattartás közös kereteinek biztosítása céljával a következőkben állapodtak meg:
+
+*1. cikk*
+
+A Felek létrehozzák a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Együttműködési Vegyes Bizottságot (a továbbiakban: Vegyes Bizottság).
+
+*2. cikk*
+
+A Vegyes Bizottság társelnökei a Magyar Köztársaság Külügyminisztériumának politikai államtitkára, illetve Szerbia és Montenegró külügyminiszterének első helyettese.
+
+*3. cikk*
+
+Összhangban a két állam belső jogrendjével a Vegyes Bizottság feladat- és hatásköre:
+
+– koordinálja a Magyar Köztársaság és Szerbia és Montenegró közötti kapcsolatrendszer fejlesztését célzó tevékenységeket,
+
+– figyelemmel kíséri a kétoldalú szerződések végrehajtását, és értékeli a végrehajtás módját,
+
+– összehangolja és ösztönzi a két Fél között hatályban lévő szerződések alapján létesült, valamint a jelen Jegyzőkönyv 4. cikkével összhangban szükség szerint megalakított vegyes szakbizottságok munkáját,
+
+– javaslatokat és ajánlásokat tesz a két ország együttműködése fejlesztésének további irányaira,
+
+– javaslatokat tesz az együttműködés jogi és intézményi kereteinek folyamatos javításához,
+
+– javaslatokat és ajánlásokat tesz a miniszterelnöki találkozók napirendjére, és koordinálja az elfogadott határozatok végrehajtását,
+
+– támogatja a két ország intézményei, kormány- és társadalmi szervezetei, gazdasági alanyai, tudományos és kulturális személyiségei közötti közvetlen kapcsolatok és együttműködés fejlesztését.
+
+*4. cikk*
+
+A Vegyes Bizottság jogosult eljárni minden olyan kétoldalú szakmai kérdésben, amelyre a már meglévő, a két Fél és államaik között megkötött szerződések alapján létrejött vegyes szakbizottságok hatásköre nem terjed ki.
+
+A Vegyes Bizottság – a szakbizottságokra támaszkodva, illetve az azokban folyó tevékenységet koordinálva – az alábbi főbb területekkel foglalkozik:
+
+– a kül- és biztonságpolitika kérdéseivel, az euroatlanti integráció stratégiájával, valamint az európai biztonság és regionális együttműködés kérdéskörével;
+
+– a gazdasági-kereskedelmi kapcsolatok feltételeivel és fejlesztési irányaival;
+
+– az ipari, energetikai, befektetési és idegenforgalmi együttműködéssel;
+
+– a mezőgazdasági-élelmiszeripari együttműködéssel;
+
+– a természeti és civilizációs katasztrófák elleni védelem és mentés területén történő együttműködéssel;
+
+– a pénzügyi és hitelkapcsolatok kérdéseivel;
+
+– a közlekedési infrastruktúra fejlesztésével;
+
+– a határátkelőhelyek modernizálásával, valamint a kétoldalú személyforgalomhoz tartozó kérdésekkel;
+
+– a határon átnyúló együttműködés fejlesztésével, az önkormányzatok közötti kapcsolatok fejlesztésével;
+
+– a belügyi együttműködéssel, az idegenrendészet és migráció kérdéseivel;
+
+– az oktatási, kulturális, műemlékvédelmi és tudományos együttműködés kérdéseivel, valamint
+
+– a tájékoztatási tevékenység koordinálásával;
+
+– a környezet- és természetvédelem és vízgazdálkodás kérdéseivel;
+
+– a szerződéses kapcsolatok áttekintésével és azok folyamatos aktualizálásával.
+
+A Felek a Vegyes Bizottság keretén belül szükség szerint további szakbizottságokat hoznak létre az együttműködés meghatározott területein.
+
+*5. cikk*
+
+A Vegyes Bizottság és annak szakbizottságai a Működési Szabályzat alapján fejtik ki tevékenységüket, amely a jelen Jegyzőkönyv mellékletét képezi és annak integráns, elválaszthatatlan része.
+
+*6. cikk*
+
+Jelen Jegyzőkönyvet a Felek határozatlan időtartamra kötik. A Jegyzőkönyv az aláírás napján lép hatályba.
+
+Jelen Jegyzőkönyv a Felek írásbeli egyetértésével módosítható vagy kiegészíthető. A Jegyzőkönyv módosítása és kiegészítése az aláírás vagy jegyzékváltás napján lép hatályba.
+
+Jelen Jegyzőkönyvet a Felek bármelyike a másik Félhez eljuttatott írásbeli közlésben felmondhatja. A Jegyzőkönyv a felmondás kézhezvételét követő 6 hónap lejárta után hatályát veszti.
+
+Készült Belgrádban, 2005. május 26-án, két eredeti példányban, mindkettő magyar és szerb nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Szerbia és Montenegró\
+Minisztertanácsa nevében
+
+A Magyar Köztársaság és Szerbia és Montenegró\
+közötti Kormányközi Együttműködési Vegyes Bizottság Működési Szabályzata
+
+A Felek a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság létrehozásáról, a Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa között aláírt Jegyzőkönyvnek (a továbbiakban: Jegyzőkönyv) megfelelően a következő Működési Szabályzatot fogadták el:
+
+*1. cikk*
+
+A Magyar Köztársaság Kormánya és Szerbia és Montenegró Minisztertanácsa közötti Kormányközi Együttműködési Vegyes Bizottság (a továbbiakban: Vegyes Bizottság) feladatkörét a Jegyzőkönyv 3. cikke írja elő.
+
+*2. cikk*
+
+A Vegyes Bizottság a Felek által kinevezett elnökökből és titkárokból, valamint a jelen Jegyzőkönyv 4. cikkében foglaltakkal összhangban megalakított szakbizottságok elnökeiből, illetve azok meghatalmazott képviselőiből, valamint egyéb szakminisztériumok képviselőiből áll.
+
+*3. cikk*
+
+A Vegyes Bizottság évente legalább egyszer, felváltva a Magyar Köztársaság, illetve Szerbia és Montenegró területén ülésezik. Az üléseket a vendéglátó Fél Vegyes Bizottsági társelnöke vezeti.
+
+A Vegyes Bizottság társelnökei megállapodhatnak rendkívüli ülésszakok összehívásáról is.
+
+A Vegyes Bizottság ülésszakának időpontjáról és napirendjéről elvben az előző ülésszak jegyzőkönyvében állapodnak meg, és legkevesebb 30 nappal az ülés kezdete előtt pontosítják a Vegyes Bizottság társelnökei által előterjesztett javaslatok alapján.
+
+A Vegyes Bizottság ülésszakai és a szakbizottságok ülései közötti időszakban a működésükkel kapcsolatos folyamatos ügyintézést a Vegyes Bizottság társelnökei által kapcsolattartásra kinevezett személyek végzik.
+
+*4. cikk*
+
+A két Fél legkevesebb 10 nappal az ülés kezdete előtt közli küldöttségének összetételét.
+
+A Vegyes Bizottság ülésszakain – szükség szerint – részt vehetnek a két ország szakértői is.
+
+*5. cikk*
+
+A Jegyzőkönyv 4. cikkében előirányzott szakbizottságok szükség szerint évente legalább egyszer összeülnek munkaülésre, felváltva a Magyar Köztársaság, illetve Szerbia és Montenegró területén, saját, egymás között egyeztetett napirend szerint.
+
+A jelen Szabályzat 3. cikkében foglalt előírások alkalmazandók az előző bekezdésben említett bizottságok munkaüléseire.
+
+A Vegyes Bizottság ülésén áttekintik a szakbizottságok tevékenységét.
+
+*6. cikk*
+
+A Vegyes Bizottság üléseinek eredményeit az ülések jegyzőkönyveiben és az ülések határozataiban rögzítik. A jóváhagyást igénylő ügyeket a két ország kormányai elé terjesztik. A Felek a Vegyes Bizottság működéséről rendszeresen tájékoztatják a közvéleményt.
+
+*7. cikk*
+
+A Vegyes Bizottság üléseinek és a szakbizottságok munkaüléseinek hivatalos nyelve a magyar és a szerb nyelv. A Vegyes Bizottság üléseinek, illetve a szakbizottságok munkaüléseinek megállapodásait, jegyzőkönyveit és egyéb dokumentumait két-két példányban szerkesztik, mindkettőt magyar és szerb nyelven, mindkét szöveg egyaránt hiteles.
+
+*8. cikk*
+
+A Vegyes Bizottság ülései és a szakbizottságok munkaülései megszervezésével és lebonyolításával kapcsolatos költségeket a vendéglátó Fél viseli.
+
+A küldő Felet terhelik a saját küldöttségének az utazási, szállás- és étkezési költsége.
+
+Az egyes költségek esetleges átvállalásáról a Felek külön megegyezhetnek.
+
+*9. cikk*
+
+A jelen Szabályzat a Vegyes Bizottság társelnökeinek írásos egyetértésével módosítható vagy kiegészíthető. A Szabályzat módosításai vagy kiegészítései a Jegyzőkönyv 6. cikke előírásainak megfelelően lépnek hatályba.”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba, a Jegyzőkönyv rendelkezéseit azonban 2005. május 26-ától kell alkalmazni.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a külügyminiszter gondoskodik.

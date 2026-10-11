@@ -1,0 +1,229 @@
+---
+title: "139/1992. (X. 15.) Korm. rendelet a magyar—holland belvízi hajózási Egyezmény kihirdetéséről"
+identifier: "139/1992. (X. 15.) Korm. rendelet"
+njt_id: "1992-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1992/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1992-10-15
+in_force_from: 1992-10-20
+last_amended: 1992-10-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1992-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/1992. (X. 15.) Korm. rendelet a magyar—holland belvízi hajózási Egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Holland Királyság Kormánya között a belvízi hajózási forgalomról aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+**,,EGYEZMÉNY**
+
+a Magyar Köztársaság Kormánya\
+és a Holland Királyság Kormánya között\
+a belvízi hajózási forgalomról
+
+A Magyar Köztársaság Kormánya és a Holland Királyság Kormánya
+
+a Magyar Köztársaság Kormánya és a Holland Királyság Kormánya közötti ipari, gazdasági és műszaki együttműködésről szóló Egyezménynek a szellemében,
+
+elismerve azt, hogy a két Fél fennálló sokoldalú szerződésekből adódó jogainak és kötelezettségeinek sértetlenül kell maradniuk,
+
+attól az óhajtól vezérelve, hogy a személyek és áruk belvízi hajókkal való szállítását szabályozzák,
+
+arra törekedve, hogy a kétoldalú belvízi hajózási forgalmat továbbfejlesszék, és
+
+azon fáradozva, hogy figyelembe vegyék ennek keretében a Duna—Majna csatorna megnyitása utáni kölcsönös érdekeket,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+(1) A jelen Megállapodás értelmében
+
+*a)* *holland hajók:* a holland belvízi hajónyilvántartásba hivatalosan bejegyzett belvízi hajók, amelyekre a rajnai hajózáshoz tartozás okmányát kiállították;
+
+*b)* *magyar hajók:* a magyar belvízi hajónyilvántartásba hivatalosan bejegyzett belvízi hajók, amelyekre a Dunára használatos hajózási okiratot kiállították;
+
+*c)* *holland hajózási vállalatok:* hajózást végző vállalatok vagy vállalkozók, amelyek hajói holland belvízi hajózási jegyzékbe vannak bejegyezve, és amelyekre a rajnai hajózáshoz tartozás okmányát kiállították;
+
+*d)* *magyar hajózási vállalatok:* hajózást végző olyan vállalatok vagy vállalkozók, amelyek állandó cég- vagy székhelye a Magyar Köztársaság felségterületén van;
+
+*e)* *illetékes hatóságok:* a Magyar Köztársaságban a Közlekedési és Hírközlési Minisztérium, a Holland Királyság esetében a Közlekedési és Közmunkaügyi Minisztérium, amennyiben azok nem közlik egymással más hatóságok vagy intézmények illetékességét;
+
+*f)* *kikötők:* a tengeri és belvízi kikötők, a be- és kirakodóhelyek, valamint a személyhajózás kikötési helyei.
+
+(2) A jelen Megállapodás értelmében
+
+*a)* *tranzitforgalom:* az a forgalom, amelynél az egyik Fél hajóin személyeket, illetve árukat szállítanak a másik Fél területén keresztül, amelynek keretében személyek, illetve áruk sem felvételre, sem kirakásra nem kerülnek;
+
+*b)* *kétoldalú forgalom:* a két Fél kikötői közötti forgalom a két Fél hajóival, amelynek során személyeket, illetve árukat vesznek fel, illetve rakodnak ki;
+
+*c)* *harmadik állam forgalma:* a két Fél kikötői közötti forgalom harmadik ország hajóival, amelynek során személyeket, illetve árukat vesznek fel, illetve rakodnak ki;
+
+*d)* *harmadik országos forgalom:* az egyik Fél hajóival való forgalom a másik Fél kikötői és egy harmadik ország kikötői között, amelynek során személyeket és árukat vesznek fel, illetve rakodnak ki;
+
+*e)* *cabotage:* a másik Fél két kikötője közötti forgalom, amelynek során személyeket, illetve árukat vesznek fel, illetve rakodnak ki.
+
+*2. Cikk*
+
+A magyar hajók a holland víziutakon és a holland hajók a magyar víziutakon a 3—7. Cikk iránymutatása szerinti szállításokkal összefüggésben közlekedhetnek és a kikötőket és a kikötőhelyeket használhatják. Ez megfelelően érvényes az úszóberendezések és úszótestek szállítására és az új hajók átszállítására is.
+
+*3. Cikk*
+
+A magyar és a holland hajók a másik Fél területén keresztül a tranzitforgalomban utasokat és árukat szállíthatnak.
+
+*4. Cikk*
+
+(1) Magyar és holland hajók a kétoldalú forgalomban szállíthatnak személyeket és árukat a két Fél kikötői között.
+
+(2) A kétoldalú forgalomban a két Fél hajózási vállalatai megosztás nélkül részesednek a rakomány mennyiségéből.
+
+(3) Bármelyik Fél illetékes hatóságának kérésére a vegyesbizottság javaslatára meg kell állapodni a kétoldalú forgalomban végzett szállítási szolgáltatásokért fizetendő, gazdasági szempontból elfogadható irányárakban és járulékos feltételekben.
+
+*5. Cikk*
+
+A harmadik állam forgalma csak azokban az esetekben engedhető meg, amelyekben az illetékes hatóságok a vegyesbizottság javaslatára megállapodnak.
+
+*6. Cikk*
+
+A harmadik országos forgalom csak azokban az esetekben engedhető meg, amelyekben az illetékes hatóságok a vegyesbizottság javaslatára megállapodnak.
+
+*7. Cikk*
+
+A másik Fél kikötői között személyek és/vagy áruk szállítása csak az illetékes hatóság különleges engedélye alapján engedhető meg.
+
+*8. Cikk*
+
+A hajókra, személyzetre, utasaikra és a rakományukra annak a Félnek a jogi előírásai érvényesek, amelynek belvízi útjain azok közlekednek.
+
+Ezzel kapcsolatban a felek a következőkben állapodnak meg:
+
+*a)* Amennyiben az egyik Fél felségterületén a hajóra, rakományra és személyzetre vonatkozóan kiadott okmányok és igazolások megfelelnek a másik Fél felségterületén érvényes előírásoknak, akkor a másik Fél illetékes hatóságai az ezen Fél okmányainak és igazolásainak bemutatása ellenében kiállítja a saját okmányait és igazolásait.
+
+*b)* A hajó vezetőjére vonatkozó okmányokat és igazolásokat csak akkor állítják ki, ha egy közös vizsgabizottság kiegészítő igazolást ad ki a víziutak és az ott érvényes rendszabályok ismeretéről. A közös vizsgabizottságot a vegyesbizottság jelöli ki.
+
+*c)* Hajók csak akkor szállíthatnak veszélyes árukat, ha azok rendelkeznek a mindenkori víziutakra előírt érvényes engedélyezési bizonyítvánnyal.
+
+*9. Cikk*
+
+A két Fél a saját és a másik Fél hajóit a 2—7. Cikkek alapján biztosított közlekedési jogok igénybevételénél azonos módon kezeli. Ez különösen vonatkozik:
+
+*a)* zsilipek, kikötői berendezések és kikötőhelyek használatánál;
+
+*b)* hajózási és kikötői illetékek kivetésénél;
+
+*c)* az illetékes hatóságok kezeléseinél;
+
+*d)* az üzemanyag- és a kenőanyag-ellátásnál.
+
+*10. Cikk*
+
+Mindkét Fél a saját és a másik Fél hajóit azonos módon kezeli a fedélzeten szállított élelmezési és hajózási raktárkészletek vámkezelésénél. Ugyanez vonatkozik a hajókon felhasználásra vagy használatra szolgáló üzem- és kenőanyagokra.
+
+*11. Cikk*
+
+(1) A két Fél hajózási vállalatai a másik Fél területén annak belső jogszabályainak figyelembevételével csak olyan mértékben létesíthetnek képviseleteket és folytathatnak fuvarszerző tevékenységet, amilyen mértékben a kölcsönösség alapján a másik Fél felségterületén ez engedélyezett.
+
+(2) A hajózási vállalatok a szállításaik gazdaságosságának elősegítése érdekében megállapodhatnak egymással az üzemeltetési műszaki és kereskedelmi együttműködésben.
+
+*12. Cikk*
+
+(1) Mindkét Fél biztosítja a másik Fél hajózási vállalatainak annak a jogát, hogy bevételeiket szabadon átutalhassák a saját területükre.
+
+(2) Az átutalás a hivatalos árfolyamon szokásos határidőn belül megy végbe. Amennyiben mindkét állam pénzneme szabadon konvertálható, akkor az ilyen átutalásokat az érvényes devizapiaci árfolyamokon hajtják végre a folyamatban lévő kifizetéseknél; ezekre kizárólagosan a hasonló körülményekkel rendelkező többi országra érvényes devizarendelkezések vonatkoznak. A pénzátutalásokra csak az ilyen pénzügyi műveleteknél szokásos bankilletékeket vetik ki.
+
+*13. Cikk*
+
+(1) A két Fél hajóin a személyzet tagjainak a határ átlépéséhez utazási okmánnyal, és amennyiben szükséges, tartózkodási engedéllyel kell rendelkezniük.
+
+(2) A személy- és az áruszállító hajókon a személyzet tagjaival együtt be- és kiutazhatnak azok házastársai és gyermekei, amennyiben az (1) bekezdésben említett okmányok birtokában vannak. A 15 év alatti gyermekek bármelyik szülő útiokmányába bejegyezhetők.
+
+(3) Valamennyi, az (1) és (2) bekezdésekben felsorolt, fedélzeten lévő személyt be kell jegyezni a személyzeti jegyzékbe.
+
+(4) A két Fél az (1) bekezdésben megjelölt okmányok mintáját kicseréli egymás között.
+
+*14. Cikk*
+
+Baleset, katasztrófa, a fedélzeten lévő személy súlyos betegsége esetén, vagy egyéb okoknál fogva, mint jégzajlás, amelyek a továbbutazást vagy hazautazást lehetetlenné teszik, az illetékes hatóságok megteremtik annak lehetőségét, hogy a másik Fél ilyen eseményben részes hajójának megfelelő segítséget lehessen nyújtani.
+
+*15. Cikk*
+
+(1) A jelen Egyezmény teljesítéséhez és alkalmazásának felügyeletére vegyesbizottság áll fel, amely legalább évente egyszer, váltakozóan, az egyik Fél országában összeül. A vegyesbizottságba az illetékes hatóságok három tagot jelölnek ki. A vegyesbizottság tanácskozásaiba szakértők is bevonhatók. A vegyesbizottság ügyrendet határoz meg. A két Fél illetékes hatóságai mindkét Fél esetében felváltva látják el a vegyesbizottság elnöki teendőit.
+
+(2) A vegyesbizottság kiemelt feladata:
+
+*a)* a két Fél hajói forgalmának statisztikai meghatározása;
+
+*b)* javaslatok tétele az illetékes hatóságok számára a kétoldalú forgalomban alkalmazandó, a szállítási szolgáltatásokért fizetendő irányárakról és járulékos feltételekről [4. Cikk (3) bekezdés];
+
+*c)* javaslatok tétele az illetékes hatóságok számára a harmadik állam forgalmáról (5. Cikk), valamint a harmadik országos forgalomról (6. Cikk);
+
+*d)* a közös vizsgabizottság kijelölése [8. Cikk *b)* bekezdése].
+
+(3) A jelen Cikk (2) bekezdése szerinti javaslatok alapján előirányzott megállapodások olyan módon jönnek létre, hogy az illetékes hatóságok vegyesbizottság által részükre előterjesztett javaslatokkal kapcsolatban kölcsönösen két héten belül egyetértésüket közlik.
+
+(4) Amennyiben a vegyesbizottságban nem jön létre egyezség, akkor bármelyik Fél kezdeményezésére az illetékes hatóságok képviselői négy héten belül tanácskozásra összeülnek.
+
+(5) A vegyesbizottság feladata továbbá, hogy mindkét Félnek javaslatokat terjesszen elő a jelen Egyezménynek a belvízi hajózási forgalom fejleményeihez való alkalmazkodáshoz, valamint minden olyan kérdés megoldásához, amely a jelen Egyezmény alkalmazásából adódik.
+
+*16. Cikk*
+
+Az illetékes hatóságok a vegyesbizottságnak megküldik kérésére mindazokat az okmányokat, amelyekre a 15. Cikk (2) bekezdése szerinti feladataik teljesítéséhez szüksége van.
+
+*17. Cikk*
+
+A jelen Egyezmény értelmezésében vagy alkalmazásában fellépő véleménykülönbségeket az illetékes hatóságok közvetlen tárgyalások útján tisztázzák. Amennyiben nem hozható létre egyetértés, akkor a véleménykülönbségeket diplomáciai úton szüntetik meg.
+
+*18. Cikk*
+
+A jelen Egyezmény rendelkezései a Holland Királyság csak európai felségterületére érvényesek.
+
+*19. Cikk*
+
+(1) A jelen Egyezményt határozatlan időre kötik meg.
+
+(2) Ez az Egyezmény azon nap utáni második hónap első napján lép hatályba, amelyen a két szerződő Fél arról értesítette egymást, hogy a hatálybalépéshez szükséges belső előírásoknak eleget tettek.
+
+(3) A jelen Egyezményt bármelyik szerződő Fél tizenkét hónapos határidővel, írásban, diplomáciai úton felmondhatja. Ebben az esetben az Egyezmény a felmondási határidő elteltével hatályát veszti.
+
+Készült Hágában, 1991. február 6-án, két-két eredeti példányban, magyar, holland és német nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén a német szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya részéről\
+*Siklós Csaba* s. k.
+
+A Holland Királyság Kormánya részéről\
+*J. R. H. Maij-Weggen* s. k.''
+
+**Aláírási jegyzőkönyv**
+
+A Magyar Köztársaság és a Holland Királyság Kormányai között a belvízi hajózási Egyezmény aláírása alkalmából a két Szerződő Fél meghatalmazott képviselője megállapodott a következő, az Egyezményt kiegészítő rendelkezésekben:
+
+(1) A preambulumban említett multilaterális szerződések alatt elsősorban a Felülvizsgált Rajnai Hajózási Akta és a Közös Piac Szerződése, valamint a Belgrádi Konvenció értendő.
+
+(2) A 8. Cikk *b)* bekezdésében említett vizsgabizottság mindkét Félnél három tagból áll, és feladata a kiképzési programok összeállítása, ezen programok végrehajtásának koordinálása és ellenőrzése, a kiképzett hajóskapitányok vizsgáztatásának végrehajtása és az igazolások kiállítása.
+
+Készült Hágában, 1991. február 6-án, két-két eredeti példányban, magyar, holland és német nyelven, mindegyik szöveg egyaránt hiteles. Eltérő értelmezés esetén a német szöveg az irányadó.
+
+A Magyar Köztársaság Kormánya részéről\
+*Siklós Csaba* s. k.
+
+A Holland Királyság Kormánya részéről\
+*J. R. H. Maij-Weggen* s. k.''
+
+## 3. §
+
+(1) E rendelet 1992. október 20-án lép hatályba, rendelkezéseit 1992. október 1-jétől kezdődően kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési és vízügyi[^1] miniszter gondoskodik.
+
+---
+
+[^1]: Az időközi szervezeti változásoknak megfelelő szöveg.

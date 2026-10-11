@@ -1,0 +1,92 @@
+---
+title: "154/2005. (VIII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról rendelkező, Pozsonyban, 2003. október 9. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodás kihirdetéséről"
+identifier: "154/2005. (VIII. 5.) Korm. rendelet"
+njt_id: "2005-154-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2005/Korm/154"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2005-08-05
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2005-154-20-22"
+retrieved: 2026-10-12
+---
+
+# 154/2005. (VIII. 5.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról rendelkező, Pozsonyban, 2003. október 9. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról rendelkező, Pozsonyban, 2003. október 9. napján aláírt Megállapodás módosításáról szóló, jegyzékváltás útján létrejött Megállapodás (a továbbiakban: jegyzékváltás útján létrejött Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a jegyzékváltás útján létrejött Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A magyar szóbeli jegyzék Szlovák Félnek átadott szövege:
+
+„
+
+*Szóbeli Jegyzék*
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Szlovák Köztársaság Külügyminisztériumának, és hivatkozással a Szlovák Félnek a hatályos határforgalmi megállapodás módosítására tett javaslatára, a Magyar Köztársaság Külügyminisztériumának van szerencséje javasolni, hogy a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között létrejött, a Magyar Köztársaság és a Szlovák Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló, Pozsonyban, 2003. október 9. napján aláírt Megállapodás az alábbiak szerint kerüljön módosításra:
+
+1\. A Megállapodás 2. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei, beleértve az autóbusz-forgalmat is.”
+
+2\. A Megállapodás 4. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai gyalogos és kerékpáros személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei.”
+
+3\. A Megállapodás 6. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei.”
+
+4\. A Megállapodás 10. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei, valamint az Európai Gazdasági Térségről szóló megállapodás valamely szerződő állama területén bejegyzett gépjárművek által végzett áruforgalomra 3,5 tonna össztömegsúlyig.”
+
+5\. A Megállapodás 13. Cikk (2) és (3) bekezdése az alábbiak szerint módosul:
+
+„(2) A nyitvatartási idő 06.00–22.00 óráig került meghatározásra.
+
+(3) A határforgalom ellenőrző szolgálati hely használata kiterjed az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei, valamint az Európai Gazdasági Térségről szóló megállapodás valamely szerződő állama területén bejegyzett gépjárművek által végzett áruforgalomra 7,5 tonna össztömegsúlyig.”
+
+6\. A Megállapodás 17. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed:
+
+*a)* az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei, a kilenc főnél több személyt szállító autóbusz-forgalom kivételével;
+
+*b)* a világ valamennyi országa állampolgárára, akik az autópályáról letiltott járművel közlekednek, és a gyalogos- és a kerékpáros forgalomra.”
+
+7\. A Megállapodás 17. Cikk (4) bekezdése elhagyásra kerül, és ennek megfelelően a 17. Cikk bekezdései átszámozásra kerülnek, és az (5) bekezdés lesz a (4) bekezdés.
+
+8\. A Megállapodás 21. Cikk (3) bekezdése az alábbiak szerint módosul:
+
+„(3) A határforgalom ellenőrző szolgálati hely használata kiterjed a nemzetközi áruforgalomra, és az Európai Unió tagállamainak, az Európai Gazdasági Térségről szóló megállapodás szerződő államainak és a Svájci Államközösség állampolgárai, illetve ezen személyek azon családtagjai személyforgalmára, akik nem állampolgárai egyik említett államnak sem, azonban az Európai Unió polgárainak szabad mozgásáról szóló közösségi jog rendelkezéseinek kedvezményezettjei.”
+
+A Magyar Köztársaság Külügyminisztériuma tisztelettel javasolja, hogy amennyiben a Szlovák Köztársaság Kormánya ezt a javaslatot elfogadja, úgy ez a jegyzék és a Szlovák Köztársaság Külügyminisztériumának azonos tartalmú válaszjegyzéke Megállapodást képezzen a két ország Kormánya között, amely a válaszjegyzék kézhezvételének napjától számított 15. (tizenötödik) napon lép hatályba.
+
+A Magyar Köztársaság Külügyminisztériuma ezúttal is őszinte nagyrabecsülését fejezi ki a Szlovák Köztársaság Külügyminisztériumának.”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2. és 3. §-a a jegyzékváltás útján létrejött Megállapodás záró rendelkezéseiben meghatározott időpontban lép hatályba.
+
+(3) A jegyzékváltás útján létrejött Megállapodás, illetve a jelen rendelet 2. és 3. §-a hatálybalépésének naptári napját, annak ismertté válását követően, a külügyminiszter a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
+
+(4)[^4] E rendelet végrehajtásáról a határrendészetért felelős miniszter és a közlekedésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: E rendelet 4. §-ának (2) bekezdése alapján a 2. § a jegyzékváltás útján létrejött Megállapodás záró rendelkezéseiben meghatározott időpontban lép hatályba. A 14/2006. (VI. 30.) KüM határozat alapján a hatálybalépés időpontja 2006. június 21. napja.
+[^2]: E rendelet 4. §-ának (2) bekezdése alapján a 3. § a jegyzékváltás útján létrejött Megállapodás záró rendelkezéseiben meghatározott időpontban lép hatályba. A 14/2006. (VI. 30.) KüM határozat alapján a hatálybalépés időpontja 2006. június 21. napja.
+[^3]: Lásd a 14/2006. (VI. 30.) KüM határozatot.
+[^4]: A 4. § (4) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 191. pontja szerint módosított szöveg.

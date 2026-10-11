@@ -1,0 +1,266 @@
+---
+title: "139/1994. (X. 29.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás VIII. a), IX. b) és X. b) Mellékleteinek módosításáról szóló, a Magyar Köztársaság és az Európai Közösség között 1994. október 25-én levélváltás formájában aláírt Megállapodás kihirdetéséről"
+identifier: "139/1994. (X. 29.) Korm. rendelet"
+njt_id: "1994-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-10-29
+in_force_from: 1994-11-01
+last_amended: 1994-11-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/1994. (X. 29.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás VIII. a), IX. b) és X. b) Mellékleteinek módosításáról szóló, a Magyar Köztársaság és az Európai Közösség között 1994. október 25-én levélváltás formájában aláírt Megállapodás kihirdetéséről[^1]
+
+## 1. §
+
+A Magyar Köztársaság Kormánya, a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás VIII. *a)*, IX. *b)* és X. *b)* Mellékleteinek módosításáról szóló, a Magyar Köztársaság és az Európai Közösség között, 1994. október 25-én levélváltás formájában aláírt Megállapodást, amely 1994. november 1-jén lép hatályba, e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás magyar nyelvű szövege a következő:
+
+Megállapodás levélváltás formájában\
+a Magyar Köztársaság és az Európai Közösség között\
+a Magyar Köztársaság és az Európai Közösségek\
+és azok tagállamai között, Brüsszelben,\
+1991\. december 16-án aláírt Európai Megállapodás\
+VIII. *a)*, IX. *b)* és X. *b)* Mellékleteinek módosításáról
+
+*A)* Az Európai Közösség levele:
+
+A Magyar Köztársaság és az Európai Közösség között megállapodás jött létre arról, hogy a VIII. *a)*, a IX. *b)* és a X. *b)* Mellékletek az alábbiak szerint módosításra kerülnek:
+
+I. A VIII. *a)* Mellékletet illetően:
+
+1\. Az Európai Megállapodás VIII. *a)* Mellékletének bevezető bekezdése helyére a következő szöveg lép:
+
+,,*A 20. Cikk (2) bekezdésében hivatkozott termékek jegyzéke (1)*
+
+Ebben a Mellékletben feltüntetett termékekre 60% lefölözéscsökkentés érvényesül.''
+
+2\. A 1602 49 15 és 1602 49 19 KN-kódszámú termékek ,,Megnevezés''-e oszlopban szereplő szöveg helyére a következő szöveg lép:
+
+,,Egyéb sertéshús készítmények és konzervek''
+
+3\. A ,,KN-kódok'' oszlopban, az ,,Egyéb sertéshús készítmények és konzervek'' megnevezés alá tartozó termékek listája a következő KN-kódokkal kiegészítésre kerül:
+
+KN 1602 41 10
+
+KN 1602 42 10
+
+KN 1602 49 11
+
+KN 1602 49 13
+
+KN 1602 49 30
+
+KN 1602 49 50
+
+II. A IX. *b)* Mellékletet illetően:
+
+A IX. *b)* Mellékletben szereplő táblázat kiegészül a következőkkel:
+
+_____________________________________
+
+HS-kód Megnevezés
+
+3\. év 4. év 5. év (tonna)
+
+_____________________________________
+
+Sertéshús sózva, szárítva füstölve vagy sós lében tartósítva:
+
+ex 02 10 11 007 Serrano típusú sonka, lapocka és ezekből vágott részek csonttal
+
+ex 02 10 19 001 Serrano típusú sonka, lapocka és ezekből vágott részek csont nélkül
+
+20 25 30
+
+III. A X. *b)* Mellékletet illetően:
+
+4\. Az ex 0406 90 89 KN-kódhoz tartozó ,,Megnevezés'' oszlop a következő sajtféleségekkel egészül ki:
+
+Bakony, Bácskai, Bán, Moson Csemege, Pelso Csemege, Goya, Sonka sajt, Karaván, Lajta, Parenyica, Séd, Tihany
+
+5\. A 1001 90 99 KN-kódszámú étkezési búzához tartozó oszlopok kiegészülnek a 1001 10 00 KN-kóddal és a durumbúza megnevezéssel.
+
+6\. A vágott csirke, egész, csontos csirkemell, csontos csirkecomb és kicsontozott csirkehús részek megnevezésekhez tartozó kontingensek a következő módon alakulnak:
+
+KN-kód Megnevezés tonna
+
+____________________________
+
+vágott csirke, egész 3. év: 19100 4. év :20220 5. év: 21340
+
+0207 10 15
+
+0207 21 10
+
+0207 10 19
+
+0207 21 90
+
+__________
+
+csontos csirkemell
+
+0207 39 21
+
+0207 41 41
+
+__________
+
+csontos csirkecomb
+
+0207 39 23
+
+0207 41 51
+
+__________
+
+kicsontozott csirkehús részek 3. év: 7000 4. év: 7700 5. év: 8400
+
+0207 39 11
+
+0207 41 10
+
+A jelen levélváltás formájában történő Megállapodás a Szerződő Felek saját eljárásaival összhangban kerül jóváhagyásra.
+
+A Megállapodás 1994. július 1-jén lép hatályba, vagy ha a szükséges eljárások a Felek részéről nem fejeződnek be eddig az időpontig, akkor annak a hónapnak az első napján, amely az után következik, hogy a Felek értesítették egymást ezek befejezéséről.
+
+Köszönettel venném, ha megerősítené a Magyar Köztársaság egyetértését e levél tartalmával.
+
+Kérem, Uram, fogadja mély nagyrabecsülésem kifejezését.
+
+*A Közösség nevében*
+
+B) A Magyar Köztársaság levele:
+
+Uram,
+
+Van szerencsém igazolni a mai napon kelt, alábbi szövegű levelét:
+
+,,A Magyar Köztársaság és az Európai Közösség között megállapodás jött létre arról, hogy a VIII. *a)*, a IX. *b)* és a X. *b)* Mellékletek az alábbiak szerint módosításra kerülnek:
+
+I. A VIII. *a)* Mellékletet illetően:
+
+1\. Az Európai Megállapodás VIII. *a)* Mellékletének bevezető bekezdése helyére a következő szöveg lép:
+
+,,*A 20. Cikk (2) bekezdésében hivatkozott termékek jegyzéke (1)*
+
+Ebben a Mellékletben feltüntetett termékekre 60% lefölözéscsökkentés érvényesül.''
+
+2\. A 1602 49 15 és 1602 49 19 KN-kódszámú termékek ,,Megnevezés''-e oszlopban szereplő szöveg helyére a következő szöveg lép:
+
+,,Egyéb sertéshús készítmények és konzervek''
+
+3\. A ,,KN-kódok'' oszlopban, ,,az ,,Egyéb sertéshús készítmények és konzervek'' megnevezés alá tartozó termékek listája a következő KN-kódokkal kiegészítésre kerül:
+
+KN 1602 41 10
+
+KN 1602 42 10
+
+KN 1602 49 11
+
+KN 1602 49 13
+
+KN 1602 49 30
+
+KN 1602 49 50
+
+II. A IX. *b)* Mellékletet illetően:
+
+_____________________________________
+
+HS-kód Megnevezés
+
+3\. év 4. év 5. év (tonna)
+
+_____________________________________
+
+Sertéshús sózva, szárítva füstölve vagy sós lében tartósítva:
+
+ex 02 10 11 007 Serrano típusú sonka, lapocka és ezekből vágott részek csonttal
+
+ex 02 10 19 001 Serrano típusú sonka, lapocka és ezekből vágott részek csont nélkül
+
+20 25 30
+
+A IX. *b)* Mellékletben szereplő táblázat kiegészül a következőkkel:
+
+III. A X. *b)* Mellékletet illetően:
+
+4\. Az ex 0406 90 89 KN-kódhoz tartozó ,,Megnevezés'' oszlop a következő sajtféleségekkel egészül ki:
+
+Bakony, Bácskai, Bán, Moson Csemege, Pelso Csemege, Goya, Sonka sajt, Karaván, Lajta, Parenyica, Séd, Tihany
+
+5\. A 1001 90 99 KN-kódszámú étkezési búzához tartozó oszlopok kiegészülnek a 1001 10 00 KN-kóddal és a durumbúza megnevezéssel.
+
+6\. A vágott csirke, egész, csontos csirkemell, csontos csirkecomb és kicsontozott csirkehús részek megnevezésekhez tartozó kontingensek a következő módon alakulnak:
+
+KN-kód Megnevezés tonna
+
+____________________________
+
+vágott csirke, egész 3. év: 19100 4. év :20220 5. év: 21340
+
+0207 10 15
+
+0207 21 10
+
+0207 10 19
+
+0207 21 90
+
+__________
+
+csontos csirkemell
+
+0207 39 21
+
+0207 41 41
+
+__________
+
+csontos csirkecomb
+
+0207 39 23
+
+0207 41 51
+
+__________
+
+kicsontozott csirkehús részek 3. év: 7000 4. év: 7700 5. év: 8400
+
+0207 39 11
+
+0207 41 10
+
+A jelen levélváltás formájában történő Megállapodás a Szerződő Felek saját eljárásaival összhangban kerül jóváhagyásra.
+
+A Megállapodás 1994. július 1-jén lép hatályba, vagy ha a szükséges eljárások a Felek részéről nem fejeződnek be eddig az időpontig, akkor annak a hónapnak az első napján, amely az után következik, hogy a Felek értesítették egymást ezek befejezéséről.
+
+Köszönettel venném, ha megerősítené a Magyar Köztársaság egyetértését e levél tartalmával.
+
+Kérem, Uram, fogadja mély nagyrabecsülésem kifejezését.
+
+*A Közösség nevében''*
+
+Van szerencsém megerősíteni, hogy a Magyar Köztársaság egyetért e levél tartalmával.
+
+Kérem, Uram, fogadja mély nagyrabecsülésem kifejezését.
+
+*A Magyar Köztársaság nevében*
+
+## 3. §
+
+Ez a rendelet 1994. november 1-jén lép hatályba.
+
+---
+
+[^1]: Az „Európai Megállapodás”-t az 1994. I. törvény hirdette ki.

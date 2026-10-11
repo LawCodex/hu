@@ -1,0 +1,250 @@
+---
+title: "256/2006. (XII. 15.) Korm. rendelet a Magyar Köztársaság és Románia között, a szociális biztonságról szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás kihirdetéséről"
+identifier: "256/2006. (XII. 15.) Korm. rendelet"
+njt_id: "2006-256-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2006/Korm/256"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2006-12-15
+in_force_from: 2006-12-16
+last_amended: 2006-12-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2006-256-20-22"
+retrieved: 2026-10-12
+---
+
+# 256/2006. (XII. 15.) Korm. rendelet a Magyar Köztársaság és Románia között, a szociális biztonságról szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság és Románia között, a szociális biztonságról szóló Egyezmény végrehajtására szolgáló Igazgatási Megállapodás (a továbbiakban: Igazgatási Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Igazgatási Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Igazgatási Megállapodás hivatalos magyar nyelvű szövege a következő:
+
+„
+
+Igazgatási Megállapodás\
+a Magyar Köztársaság és Románia között, a szociális biztonságról szóló Egyezmény végrehajtására
+
+A Magyar Köztársaság és Románia között, 2005. október 20-án a szociális biztonság tárgyában aláírt egyezmény 33. Cikke (1) bekezdésének rendelkezése szerint az illetékes hatóságok nevében:
+
+Magyarország részéről
+
+az egészségügyi miniszter,
+
+Románia részéről
+
+a munkaügyi, társadalmi szolidaritási és családügyi miniszter
+
+az alábbiakban állapodtak meg:
+
+I. RÉSZ
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*1. Cikk*
+
+*Meghatározások*
+
+A jelen Igazgatási Megállapodás alkalmazásában
+
+1\. az „Egyezmény” a Magyar Köztársaság és Románia között a szociális biztonság tárgyában 2005. október 20-án aláírt egyezményt jelenti;
+
+2\. minden egyéb fogalom esetében az Egyezmény 1. Cikkében foglaltakat kell figyelembe venni.
+
+*2. Cikk*
+
+*Összekötő szervek*
+
+(1) Az Egyezmény 33. Cikk (2) bekezdése szerinti összekötő szervek az alábbiak:
+
+A Magyar Köztársaság részéről:
+
+*a)* a nyugellátások tekintetében az Országos Nyugdíjbiztosítási Főigazgatóság,
+
+*b)* a munkanélküli járadék tekintetében a Foglalkoztatási Hivatal,
+
+*c)* minden egyéb kérdésben az Országos Egészségbiztosítási Pénztár.
+
+Románia részéről:
+
+*a)* a nyugdíjak, a munkahelyi baleset és foglalkozási betegségek esetén járó pénzbeli és természetbeni juttatások tekintetében a Nyugdíj és Egyéb Társadalombiztosítási Jogok Országos Pénztára,
+
+*b)* a munkanélküli segélyek tekintetében az Országos Foglalkoztatási Hivatal,
+
+*c)* a munkahelyen kívüli baleset vagy megbetegedés által okozott időleges munkaképtelenségért járó segélyek, anyasági segélyek, a betegség és anyaság esetén járó természetbeni juttatások esetében az Országos Egészségbiztosítási Pénztár.
+
+(2) Az összekötő szervek megkönnyítik a Szerződő Felek intézményei közötti kommunikációt és az Igazgatási Megállapodásban rögzített hatáskörrel rendelkeznek. Az összekötő szervek jelen Igazgatási Megállapodásban rögzített hatáskörüket kijelölt intézményekre átruházhatják és erről kölcsönösen tájékoztatják egymást.
+
+(3) Az Egyezmény végrehajtása érdekében az összekötő szervek kölcsönösen tájékoztatják egymást, továbbá az érdekeltet vagy annak képviselőjét. Az összekötő szervek kölcsönösen támogatják egymást az Egyezmény végrehajtása érdekében.
+
+II. RÉSZ
+
+*AZ ALKALMAZANDÓ JOGRA VONATKOZÓ RENDELKEZÉSEK*
+
+*3. Cikk*
+
+*Az alkalmazandó jogra vonatkozó igazolások (formanyomtatványok)*
+
+Az Egyezmény 8–10. Cikkében előírt esetekben azt az igazolást (formanyomtatványt), amely tanúsítja, hogy valamely foglalkoztatott vagy önálló vállalkozó az egyik Szerződő Fél jogszabályainak hatálya alatt marad, a foglalkoztató vagy az önálló vállalkozó kérelmére adják ki az alábbiak szerint:
+
+*a)* Magyarországon az Országos Egészségbiztosítási Pénztár,
+
+*b)* Romániában a Nyugdíj és Egyéb Társadalombiztosítási Jogok Országos Pénztára.
+
+A kiadott igazolást (formanyomtatványt) megküldik az érintett személynek. A Szerződő Fél jelen cikkben megjelölt intézményét tájékoztatják a kibocsátott igazolások (formanyomtatványok) számáról és tartalmáról.
+
+III. RÉSZ
+
+*AZ ELLÁTÁSOKRA VONATKOZÓ RENDELKEZÉSEK*
+
+*4. Cikk*
+
+*Igénybejelentések*
+
+(1) Ha az egyik Szerződő Fél összekötő szervéhez vagy kijelölt intézményéhez a másik Szerződő Fél jogszabályai szerinti ellátás iránti igénybejelentés érkezik, akkor az előbbi késedelem nélkül eljuttatja az igénybejelentést a másik Szerződő Fél összekötő szervéhez vagy illetékes intézményéhez, megjelölve az igénybejelentés beérkezésének dátumát.
+
+(2) Az igénybejelentéssel együtt az első Szerződő Fél összekötő szerve vagy kijelölt intézménye eljuttatja mindazokat a rendelkezésére álló dokumentumokat, amelyek szükségesek lehetnek a másik Szerződő Fél illetékes intézménye számára a kérelmezőnek az ellátásra való jogosultsága megállapításához.
+
+(3) Amennyiben az első Szerződő Fél összekötő szerve vagy kijelölt intézménye igazolja és tanúsítja, hogy az egyénre vonatkozó, az igénybejelentésben feltüntetett személyes adatokat dokumentumok támasztják alá, abban az esetben az alátámasztó dokumentumok elküldése nem szükséges. Azokat az információtípusokat, amelyekre ez a bekezdés vonatkozik, a Szerződő Felek összekötő szervei közös megegyezéssel határozzák meg.
+
+(4) Az (1) és (2) bekezdésekben említett igénybejelentés és dokumentum mellett az első Szerződő Fél összekötő szerve vagy kijelölt intézménye eljuttatja a másik Szerződő Fél összekötő szervéhez vagy illetékes intézményéhez azt az adatok közlésére szolgáló igazolást (formanyomtatványt), amely tartalmazza az első Szerződő Fél jogszabályai szerint beszámítandó biztosítási időszakokat.
+
+(5) A másik Szerződő Fél illetékes intézménye ezt követően elbírálja a kérelmező jogosultságát, és összekötő szervén vagy kijelölt intézményén keresztül értesíti döntéséről a kérelmezőt és az első Szerződő Fél összekötő szervét vagy kijelölt intézményét, csatolva egyidejűleg az általa beszámított időszakokat tartalmazó igazolást (formanyomtatványt).
+
+*5. Cikk*
+
+*Keresőképtelenségre vonatkozó információ*
+
+Az egyik Szerződő Fél összekötő szerve vagy kijelölt intézménye a másik Szerződő Fél összekötő szerve, illetékes intézménye vagy a kérelmező kérésére az érintett személy keresőképtelenségére vonatkozó igazolást (formanyomtatványt) állít ki.
+
+*6. Cikk*
+
+*Természetbeni ellátások nyújtása*
+
+(1) Az a személy, aki az Egyezmény 12. Cikk (1) bekezdésében és 14. Cikkében megjelölt természetbeni ellátásokban akar részesülni, köteles magát, valamint családtagjait is nyilvántartásba vetetni a lakóhelye szerinti illetékes intézménynél, bemutatva az illetékes intézmény által kiállított igazolást (formanyomtatványt), amellyel tanúsítja, hogy e természetbeni ellátásokra jogosult mind saját maga, mind pedig családjának tagjai.
+
+Ha az érintett személy nem mutatja be a megfelelő igazolást (formanyomtatványt) kérelmére a lakóhely szerinti intézmény fordul az illetékes intézményhez, annak beszerzése céljából.
+
+Ezen igazolás (formanyomtatvány) a rajta feltüntetett érvényességi idő utolsó napjáig, vagy addig érvényes, amíg a lakóhely szerint illetékes intézmény nem kapja meg az érvényesség megszűnéséről szóló hivatalos írásbeli értesítést.
+
+A lakóhely szerinti illetékes intézmény tájékoztatja az illetékes intézményt az általa elvégzett összes nyilvántartásba vételről, az e bekezdésben foglalt előírásoknak megfelelően.
+
+(2) Az Egyezmény 12. Cikk (2) bekezdésében megjelölt természetbeni ellátások igénybevétele esetén az ellátásokra való jogosultságot az illetékes intézmény által kiállított nyomtatvánnyal kell igazolni.
+
+Amennyiben az ellátás nyújtásakor nem tudta bemutatni az igazolást (formanyomtatványt) a kérelmező, a szolgáltató vagy a tartózkodási hely szerinti intézmény az illetékes intézményhez fordulhat az igazolás (formanyomtatvány) utólagos beszerzése érdekében.
+
+(3) Az a személy, aki az Egyezmény 12. Cikk (5) bekezdésében megjelölt természetbeni ellátásokban akar részesülni, köteles a romániai lakhely szerint illetékes intézménynél egy olyan igazolást (formanyomtatványt) bemutatni, amely tanúsítja, hogy az illetékes magyarországi intézmény engedélyezte számára az állapotának megfelelő gyógykezelés Románia területén történő igénybevételét. Ez az illetékes intézmény által kiállított tanúsítvány tartalmazza azt a maximális időtartamot, ameddig a természetbeni ellátások nyújthatóak.
+
+*7. Cikk*
+
+*A természetbeni ellátások költségeinek visszatérítése*
+
+(1) Az Egyezmény 12., 14. és 17. Cikkeiben említett személyeknek nyújtott ellátások költségeit a Szerződő Felek minden egyes összekötő szerve negyedéves lebontásban közli a másik összekötő szervvel.
+
+(2) E költségek megtérítése iránti kérelmet az év minden egyes negyedévét követően, de legkésőbb 3 éven belül kell megküldeni és a kézhezvételtől számított 6 hónapon belül kerül sor az elintézésére.
+
+(3) A költségek megtérítése az egyes összekötő szervek által történik, a költségek teljes kifizetésével.
+
+(4) A Szerződő Felek összekötő szervei a természetbeni ellátások költségeit a saját nemzeti valutájukban fejezik ki. Ezen költségek kifizetése úgy történik, hogy az elszámolási igazolás (formanyomtatvány) kiállításának napján érvényes hivatalos árfolyamon euróra számolt összeget utalnak egymásnak.
+
+(5) A visszatérítési kérelem kifizetésének megtagadását a Felek az egyeztetett fizetési határidő lejártáig közlik egymással.
+
+*8. Cikk*
+
+*Nagyobb értékű gyógyászati segédeszközök és egyéb nagy értékű természetbeni ellátások nyújtása*
+
+(1) Az Egyezmény 12. Cikkének (3) bekezdésében előírt szolgáltatások alatt azokat a szolgáltatásokat értjük, amelyek értéke a szolgáltatás nyújtásának időpontjában meghaladja az érvényes hivatalos árfolyam alapján számított, 100 eurónak megfelelő nemzeti valutában kifejezett értéket.
+
+(2) Az értékes gyógyászati segédeszközöket és egyéb nagy értékű természetbeni ellátásokat az illetékes intézmény jóváhagyása alapján nyújtják, a sürgősségi esetek kivételével.
+
+(3) Annak a Szerződő Félnek az intézménye, amelynek területén az ellátásokat nyújtják, ebből a célból igazolást (formanyomtatványt) küld annak az illetékes intézménynek, amely a nyújtott szolgáltatások költségeit viseli.
+
+*9. Cikk*
+
+*A pénzbeli ellátások kifizetése*
+
+(1) A Szerződő Fél illetékes intézményei a pénzbeli ellátások kifizetését közvetlenül a jogosult részére teljesítik belső jogszabályaik szerint.
+
+(2) A Szerződő Felek illetékes intézményei az Egyezmény szerinti ellátásokat adminisztrációs költségek levonása nélkül fizetik ki.
+
+*10. Cikk*
+
+*A biztosítási idők egybeszámítása a munkanélküli járadék megállapításához*
+
+Az Egyezmény 25. Cikk (1) bekezdésében foglalt rendelkezések végrehajtása, a munkanélküli járadékra való jogosultság megállapítása érdekében a két Szerződő Fél jogszabályai szerinti biztosítási időket, valamint az igénybe vett munkanélküli járadék folyósításának időtartamát az illetékes intézményeknek igazolással (formanyomtatvánnyal) kell igazolniuk, amelyet az érintett személynek be kell mutatnia a járadékot megállapító szervnek.
+
+Amennyiben az érintett személy nem nyújtja be a igazolást (formanyomtatványt), akkor kérelmére a Szerződő Fél összekötő szerve kéri az igazolás (formanyomtatvány) megküldését.
+
+*11. Cikk*
+
+*Információk és statisztikai adatok cseréje*
+
+(1) A Szerződő Felek összekötő szervei évi rendszerességgel kicserélik azokra a kifizetésekre vonatkozó statisztikai kimutatásaikat, amelyeket a Szerződő Felek illetékes intézményei az Egyezmény értelmében teljesítettek. E statisztikai kimutatásoknak tartalmazniuk kell a kedvezményezettek létszámára és a kifizetett ellátások összesített összegére vonatkozó adatokat, ellátástípusok szerinti bontásban.
+
+(2) A Szerződő Felek illetékes intézményei tájékoztatják egymást valamennyi, az ellátással kapcsolatos fontos tényről, amennyiben az adott ellátásra mindkét Szerződő Fél jogszabályai szerint igényjogosultság áll fenn, ez különösen az alábbi tényállásokra vonatkozik, amennyiben azok a tudomására jutnak:
+
+*a)* valamely ellátás megállapítása, felfüggesztése vagy megszüntetése,
+
+*b)* új biztosítási idők igazolása,
+
+*c)* egy adott foglalkoztatás, vagy önálló tevékenység megkezdése vagy folytatása,
+
+*d)* özvegy újbóli házasságkötése,
+
+*e)* az ellátásra jogosult személy halála,
+
+*f)* lakóhely, tartózkodási hely változása,
+
+*g)* más állampolgárság felvétele.
+
+IV. RÉSZ
+
+*VEGYES RENDELKEZÉSEK*
+
+*12. Cikk*
+
+*Igazolások (formanyomtatványok) és eljárások*
+
+(1) A jelen Igazgatási Megállapodás alapján a Szerződő Felek összekötő szervei megállapodnak az Egyezmény alkalmazásához szükséges igazolásokról (formanyomtatványokról) és eljárásokról.
+
+(2) Az egyik Szerződő Fél illetékes intézménye, illetve összekötő szerve a rá irányadó jogszabályok szerint visszautasíthatja a másik Szerződő Fél jogszabályai szerinti ellátás megállapítása iránti igénybejelentési nyomtatvány átvételét, ha az igénybejelentés nem a kölcsönösen elfogadott nyomtatványokon történik.
+
+*13. Cikk*
+
+*Hatálybalépés*
+
+(1) Az illetékes hatóságok értesítésben tájékoztatják egymást arról, hogy az Igazgatási Megállapodás hatálybalépéséhez szükséges belső feltételek teljesültek. Az Igazgatási Megállapodás a diplomáciai úton megküldött utolsó hivatalos értesítés kézhezvételét követő napon lép hatályba.
+
+(2) Az Igazgatási Megállapodás az Egyezmény hatálybalépésétől kezdve alkalmazandó és az Egyezmény hatályának megszűnésével egyidejűleg hatályát veszti.
+
+Készült két-két példányban, Bukarestben 2006. október 19. napján, magyar és román nyelven, mindegyik szöveg egyformán hiteles.
+
+A Magyar Köztársaság\
+illetékes hatóságai nevében
+
+Románia illetékes\
+hatóságai nevében”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a az Igazgatási Megállapodás 13. cikkében meghatározott időpontban lép hatályba.
+
+(3) Az Igazgatási Megállapodás, illetve e rendelet 2–3. §-a a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben közzétett egyedi határozatával állapítja meg.[^3]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről az egészségügyi miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján az Igazgatási Megállapodás 13. cikkében meghatározott időpontban lép hatályba. A 16/2007. (V. 21.) KüM határozat alapján a hatálybalépés időpontja 2007. május 10.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján az Igazgatási Megállapodás 13. cikkében meghatározott időpontban lép hatályba. A 16/2007. (V. 21.) KüM határozat alapján a hatálybalépés időpontja 2007. május 10.
+[^3]: Lásd a 16/2007. (V. 21.) KüM határozatot.

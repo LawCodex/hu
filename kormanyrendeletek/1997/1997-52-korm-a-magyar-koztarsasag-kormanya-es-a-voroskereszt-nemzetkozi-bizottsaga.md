@@ -1,0 +1,234 @@
+---
+title: "52/1997. (III. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vöröskereszt Nemzetközi Bizottsága között a Vöröskereszt Nemzetközi Bizottsága budapesti Regionális Küldöttségének jogállásáról szóló Budapesten, 1997. március 24-én aláírt Székhely-megállapodás kihirdetéséről"
+identifier: "52/1997. (III. 26.) Korm. rendelet"
+njt_id: "1997-52-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/52"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-03-26
+in_force_from: 1997-03-26
+last_amended: 1997-03-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-52-20-22"
+retrieved: 2026-10-12
+---
+
+# 52/1997. (III. 26.) Korm. rendelet a Magyar Köztársaság Kormánya és a Vöröskereszt Nemzetközi Bizottsága között a Vöröskereszt Nemzetközi Bizottsága budapesti Regionális Küldöttségének jogállásáról szóló Budapesten, 1997. március 24-én aláírt Székhely-megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Vöröskereszt Nemzetközi Bizottsága között a Vöröskereszt Nemzetközi Bizottsága budapesti Regionális Küldöttségének jogállásáról szóló, 1997. március 24-én aláírt Székhely-megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+**,,Székhely-megállapodás a Magyar Köztársaság Kormánya és a Vöröskereszt Nemzetközi Bizottsága között**
+
+A Magyar Köztársaság Kormánya (a továbbiakban: Kormány) és a Vöröskereszt Nemzetközi Bizottsága (a továbbiakban: VKNB),
+
+figyelemmel a VKNB-nak a segítségnyújtásban és az emberi szenvedés enyhítésében kifejtett tevékenységére, valamint arra a hozzájárulására, amellyel támogatja a békét a világon,
+
+emlékeztetve arra, hogy a Magyar Köztársaság Kormánya kész fogadni a VKNB Küldöttségét, és a VKNB Küldöttséget kíván létesíteni az 1949. évi Genfi Egyezményekben és az 1977. évi Kiegészítő Jegyzőkönyvekben, valamint a Vöröskereszt és a Vörös Félhold Mozgalom statútumaiban – amelyeknek a Magyar Köztársaság is részese – ráruházott feladatok gyakorlása céljából,
+
+üdvözölve a VKNB Regionális Küldöttségének felállítását (a továbbiakban: Küldöttség) Budapesten, azon célból többek között, hogy a Közép- és Délkelet-európai térségben folytatott tevékenységét koordinálja,
+
+üdvözölve továbbá a VKNB azon törekvését, hogy mandátumával összhangban erősítse a Magyar Vöröskereszt Szervezetnek nyújtott támogatását és a vele folytatott együttműködését,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+*A Küldöttség státusa*
+
+A Küldöttséget egy kormányközi szervezet regionális hivatalának kell tekinteni.
+
+*2. Cikk*
+
+*Jogi személyisége*
+
+A VKNB Magyarország területén jogi személyiséggel bír. A Kormány elismeri, VKNB teljes jogkörrel rendelkezik ahhoz, hogy szerződéseket kössön és jogi eljárásokat kezdeményezzen, valamint ingó és ingatlan tulajdont szerezzen, és azokról rendelkezzen.
+
+*3. Cikk*
+
+*A VKNB és a tulajdonának, valamint pénzeszközeinek mentessége*
+
+A VKNB, valamint bárhol található és bárki által birtokolt tulajdona és pénzeszközei mentesek minden jogi és közigazgatási eljárás alól, azon egyedi esetek kivételével, amelyekben a VKNB kifejezetten lemondott a mentességéről.
+
+*4. Cikk*
+
+*A VKNB helyiségeinek, tulajdonának és pénzeszközeinek sérthetetlensége*
+
+A VKNB helyiségei sérthetetlenek. A VKNB bárhol található és bárki által birtokolt tulajdona és pénzeszközei mentesek a házkutatás, az igénybevétel, az elkobzás, a kisajátítás és a beavatkozás bármely formája alól, legyen az végrehajtói, bírósági, közigazgatási vagy törvényhozói eljárás.
+
+*5. Cikk*
+
+*A VKNB irattárainak sérthetetlensége*
+
+A VKNB irattárai és általában, minden odatartozó vagy ott található okmány, bárhol is legyen az, sérthetetlen.
+
+*6. Cikk*
+
+*Hírközlés*
+
+1\. A VKNB, a vonatkozó magyar törvényekkel és rendelkezésekkel összhangban, hivatali célra szabadon és beavatkozástól mentesen használhatja az általa legcélszerűbbnek vélt hírközlési eszközöket a kapcsolattartás érdekében, nevezetesen a VKNB genfi központjával, más, érintett nemzetközi intézményekkel, kormányzati hivatalokkal és jogi vagy magánszemélyekkel.
+
+2\. A VKNB hivatalos kapcsolattartásának vonatkozásában legalább olyan kedvező bánásmódban részesül, mint amilyenben a Kormány a Magyar Köztársaság területén képviselettel vagy küldöttséggel rendelkező bármely más kormányközi szervezetet részesíti az elsődlegességet, illetékeket és költségeket illetően a postai, távirati, telefotó, telefonok, táviratok, telexek, telefaxok és más hírközlési eszközök vonatkozásában.
+
+3\. A VKNB-nak különösen joga van saját helyiségeiben rádiós hírközlő berendezés felállítására és működtetésére, valamint mozgó berendezés használatára az ország területén, a Magyar Köztársaság törvényeinek és rendelkezéseinek megfelelően, továbbá a VKNB használhatja a magyar hatóságok által e célból kijelölt hullámsávokat összhangban a Nemzetközi Rádiós Szabályzattal [Nemzetközi Távközlési Egyesület (ITU) által kiadott Nemzetközi Rádiószabályzat (Radio Regulation) 10. sz. határozata].
+
+4\. A Képviseletnek joga van levelezését futárszolgálat vagy csomagok útján továbbítani, ugyanolyan mentességekkel és kiváltságokkal, mint amelyek a diplomáciai futárokat és küldeményeket megilletik, feltéve, hogy ezeket a küldeményeket a rájuk utaló látható külső jellel látták el, és azok csak hivatalos célra szolgáló iratokat és tárgyakat tartalmaznak.
+
+*7. Cikk*
+
+*A VKNB pénzügyi forrásai*
+
+1\. A VKNB-nek jogában áll nemzeti vagy külföldi valutát és más pénzügyi eszközt tartani, illetve bármilyen pénznemben számlát tartani, anélkül, hogy a devizaszabályozás és az azzal kapcsolatos ügyekben irányadó törvények és rendelkezések hatálya alá esne.
+
+2\. A VKNB jogosult alapjait szabadon átutalni nemzeti valutában vagy más pénznemben az országba, annak határain belül vagy azon kívülre, illetve ilyen pénzeszközeit szabadon átváltani más pénznemekbe.
+
+*8. Cikk*
+
+*Adómentesség*
+
+1\. A VKNB és pénzeszközei, bevétele és tulajdona valamennyi egyenes adó alól mentesülnek, kivéve, ha a nevezett adók a közszolgáltatások díját képezik.
+
+2\. A VKNB jogosult a hivatali vásárlásokat, illetve a VKNB-nak az országon belül vagy más országban megvalósuló segélyprogramjaiban felhasználásra kerülő cikkek és szolgáltatások vételárát terhelő általános forgalmi adó (áfa) visszatérítésére a magyar törvényeknek és rendelkezéseknek megfelelően.
+
+*9. Cikk*
+
+*Vámmentesség*
+
+1\. A VKNB mentes a vámok vagy bármilyen azzal egyenértékű költség fizetésének kötelezettsége, valamint a behozatali, kiviteli, illetve a Magyar Köztársaság területén keresztül történő szállítási korlátozás és tilalom alól hivatalos felhasználásra kerülő vámárui vonatkozásában, illetve, amelyeket a VKNB-nak a Magyar Köztársaságba vagy más országokba irányuló segélyprogramjaira szántak.
+
+2\. A VKNB számára engedélyezett a légi közlekedés és mentesül az átrepülési, illetve leszállási illeték alól a humanitárius segélyszállítmányoknak a Magyar Köztársaságba történő szállításakor vagy azok áthaladásakor.
+
+*10. Cikk*
+
+*A Regionális Küldöttség tagjai*
+
+A Regionális Küldöttség tagjai:
+
+– a VKNB által kijelölt Küldöttség vezetője és annak helyettese,
+
+– a VKNB által kijelölt tagok,
+
+– adminisztratív és technikai személyzet, legyen az akár a VKNB által kijelölt vagy a Küldöttség által helyi alkalmazott személyzet.
+
+*11. Cikk*
+
+*A Küldöttség vezetőjének státusa*
+
+A 12. Cikkben felsorolt kiváltságokon és mentességeken felül a Küldöttség vezetője, helyettese, ezek házastársai és eltartott családtagjai az 1961. április 10-én, a Diplomáciai Kapcsolatokról, Bécsben aláírt Egyezmény alapján a Magyar Köztársaságba akkreditált diplomáciai képviseletek vezetőinek státusát élvezik.
+
+*12. Cikk*
+
+*A Küldöttség tagjainak kiváltságai és mentességei*
+
+A Küldöttség külföldi állampolgárságú tagjait, házastársaikat, valamint eltartott családtagjaikat a nemzetközi jognak a nemzetközi szervezetek tisztviselőire vonatkozó alapelveivel összhangban az alábbi kiváltságok és mentességek illetik meg:
+
+*a)* mentességet élveznek a hivatalos minőségükben szóban és írásban tett nyilatkozataikkal és összes egyéb hivatalos tevékenységükkel kapcsolatos valamennyi jogi eljárás alól, még megbízatásukat követően is;
+
+*b)* hivatalos csomagjaik, dokumentumaik és kézirataik sérthetetlen;
+
+*c)* a Küldöttség külföldi állampolgárságú tagjai, valamint családjaik mentesek valamennyi bevándorlást korlátozó szabály, a külföldiek bejelentésére és az állampolgári szolgálatra vonatkozó kötelezettségek alól;
+
+*d)* hivataluk elfoglalásakor a Küldöttség külföldi állampolgárságú tagjai vámmentesen hozhatják be személyes ingóságaikat. A Küldöttség valamennyi ezen tagjának joga van vám- és egyéb költségektől mentesen személygépkocsit személyes használatra behozni a Magyarországon alkalmazott szabályoknak megfelelően. Ezeket a kiváltságokat hazatérésükkor is élvezik;
+
+*e)* nemzetközi összeütközés vagy belső válság esetén a Küldöttség külföldi állampolgárságú tagjait, házastársaikat és eltartottjaikat hazatérési könnyítések illetik meg, amennyiben arra igényt tartanak;
+
+*f)* a Küldöttség külföldi állampolgárságú tagjait a diplomáciai képviseletek tagjaival azonos devizaátváltási kedvezmények illetik meg;
+
+*g)* a Küldöttség külföldi állampolgárságú tagjainak a VKNB-től, valamint általában a Magyar Köztársaságon kívülről kapott fizetése és egyéb járandóságaik mentesek az ezeket terhelő valamennyi adó alól;
+
+*h)* a Küldöttség külföldi állampolgárságú tagjainak, valamint a VKNB ideiglenes kiküldetésben lévő képviselőinek vízumigényléseit (amennyiben szükséges) a lehető leggyorsabb módon kell intézni. Lehetőség szerint többszöri belépésre jogosító vízummal látják el őket;
+
+*i)* a Küldöttség tagjai kötelezik magukat, hogy megérkezésüktől fogva tiszteletben tartják a Magyar Köztársaság hatályos törvényeit és rendelkezéseit, és élvezhetik az azok biztosította védelmet.
+
+*13. Cikk*
+
+A Küldöttség egyéb tagjainak kiváltságai és\
+mentességei
+
+A Küldöttség azon tagjai, akik a Magyar Köztársaság állampolgárai vagy állandó lakosok az országban nem részesülnek a 12. Cikkben felsorolt kiváltságokban és mentességekben, kivéve a fent megnevezett Cikk *a)* pontjában biztosítottakat.
+
+*14. Cikk*
+
+*A VKNB ideiglenes küldetésben lévő képviselői*
+
+A VKNB-nak a Magyar Köztársaságban ideiglenes küldetésben lévő képviselői, kivéve azokat, akik a Magyar Köztársaság állampolgárai vagy állandó lakosok az országban, a 12. Cikkben meghatározott kiváltságokban és mentességekben részesülnek.
+
+*15. Cikk*
+
+*Személyi igazolvány és megbízatás*
+
+1\. A Képviselet külföldi állampolgárságú tagjait és a VKNB ideiglenes küldetésben lévő képviselőit ,,Személyazonossági igazolvány és megbízatás'' megnevezésű igazolvánnyal látják el, amely igazolja viselőjének személyazonosságát és a VKNB alkalmazottjaként betöltött státuszát.
+
+2\. A Küldöttség vezetője hivataluk elfoglalása után azonnal bejelenti a Magyar Köztársaság Külügyminisztériumában a Küldöttség tagjainak nevét. Az értesítés kézhezvétele után a Magyar Köztársaság Külügyminisztériuma kiállítja a megfelelő személyazonossági igazolványt a Küldöttség érintett tagjainak.
+
+*16. Cikk*
+
+*Együttműködés a fogadó országgal*
+
+1\. A Magyar Köztársaságban a VKNB és annak Küldöttsége az ország törvényeivel és rendelkezéseivel összhangban tevékenykedik. A Megállapodás által biztosított kiváltságokkal, mentességekkel, illetve könnyítésekkel bármilyen formában történő visszaélés megelőzésére a VKNB mindenkor együttműködik a hatóságokkal.
+
+2\. A VKNB, érdekeinek sérelme nélkül, bármely olyan esetben lemondhat a Képviselet tagjának mentességéről, amennyiben a mentesség akadályozná az igazságszolgáltatás menetét.
+
+*17. Cikk*
+
+*A Megállapodás értelmezése*
+
+A jelen Megállapodást elsődleges céljainak fényében kell értelmezni, azaz, hogy a VKNB teljesíthesse kötelezettségeit, elláthassa feladatait, maradéktalanul és hatékonyan végrehajthassa programjait.
+
+*18. Cikk*
+
+*A viták tárgyalásos rendezése*
+
+1\. A Felek tárgyalás útján rendezik a jelen Megállapodás értelmezése vagy alkalmazása során közöttük felmerülő vitákat.
+
+2\. A VKNB tevékenységével összefüggésben a jövőben a felek tekintettel lesznek mind a Magyar Köztársaság nemzeti érdekeire, mind a VKNB érdekeire. Mindent megtesznek annak érdekében, hogy a vitákat jóhiszeműen, méltányosan és a felek közötti további jó viszonyhoz szükséges belátással rendezzék.
+
+*19. Cikk*
+
+*A jelen Megállapodás módosítása*
+
+A Felek közötti egyetértés alapján a jelen Megállapodás rendelkezései bármikor módosíthatók.
+
+*20. Cikk*
+
+*Kiegészítő megállapodások*
+
+A Kormány és a VKNB megegyezhet egymással kiegészítő megállapodások megkötésében.
+
+*21. Cikk*
+
+*A Megállapodás hatálybalépése*
+
+Jelen Megállapodás aláírásával hatályba lép.
+
+*22. Cikk*
+
+*A Megállapodás megszűnése*
+
+A Magyar Köztársaság Kormánya és a VKNB, amennyiben a másik felet szándékáról legalább hat hónappal korábban írásban értesítette, jelen Megállapodást felmondhatja, amely azt követően hatályát veszti.
+
+*23. Cikk*
+
+*A Megállapodás eredeti példányai, a Megállapodás letétbe helyezése*
+
+Jelen Megállapodás egy-egy angol, illetve egy-egy magyar nyelvű eredeti példányból áll, melyekből egy-egy példányt a Kormánynál, illetve a VKNB-nál helyeznek letétbe.
+
+A fentiek hiteléül a felek ezennel aláírták a jelen Megállapodást;
+
+Készült Budapesten, 1997. év március havának 24. napján.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Vöröskereszt Nemzetközi\
+Bizottsága nevében''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. március 24-től kell alkalmazni.

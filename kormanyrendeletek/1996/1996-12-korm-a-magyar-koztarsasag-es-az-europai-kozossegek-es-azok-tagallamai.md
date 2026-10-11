@@ -1,0 +1,153 @@
+---
+title: "12/1996. (I. 26.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1995. július 13. napján aláírt Kiegészítő Jegyzőkönyv kihirdetéséről"
+identifier: "12/1996. (I. 26.) Korm. rendelet"
+njt_id: "1996-12-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/12"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-01-26
+in_force_from: 1996-02-01
+last_amended: 1996-02-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-12-20-22"
+retrieved: 2026-10-12
+---
+
+# 12/1996. (I. 26.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1995. július 13. napján aláírt Kiegészítő Jegyzőkönyv kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 1995. december 21-én megtörtént.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya, a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodáshoz kapcsolódó, Brüsszelben, 1995. július 13. napján aláírt Kiegészítő Jegyzőkönyvet és az aláíráskor tett Nyilatkozatot e rendelettel kihirdeti.
+
+## 2. §
+
+A Kiegészítő Jegyzőkönyv és a Nyilatkozat magyar nyelvű szövege a következő:
+
+,,A Magyar Köztársaság (a továbbiakban: Magyarország)
+
+egyrészről és
+
+az Európai Közösség és az Európai Atomenergia Közösség (a továbbiakban: Közösség),
+
+másrészről,
+
+tekintettel arra, hogy Brüsszelben, 1991. december 16-án aláírták, egyrészről a Magyar Köztársaság, másrészről az Európai Közösségek és tagállamai között társulást létesítő Európai Megállapodást (a továbbiakban: Európai Megállapodás);
+
+tekintettel arra, hogy az Európai Megállapodás 1. Cikkében foglalt célok magukban foglalják a Magyarországnak a Közösséghez történő fokozatos integrációját elősegítő megfelelő keret létrehozását;
+
+tekintettel arra, hogy Magyarország és a Közösség az Európai Megállapodás VI. és VII. Címében megállapodott a gazdasági és kulturális együttműködés előmozdításában;
+
+tekintettel arra, hogy az Európai Tanács az 1993. június 21–22-i koppenhágai ülésén üdvözölte a társult országoknak felkínált azt a lehetőséget, hogy a Közösség programjaiban az európai megállapodások szerint részt vegyenek;
+
+tekintettel arra, hogy az Európai Tanács Elnökségének az Európai Tanács 1993. június 21–22-i üléséről elfogadott következtetései szerint a társult országokkal történő jövőbeli együttműködésnek a taggá válás célkitűzését kell szolgálnia, miután az most már elfogadást nyert, és ennek az együttműködésnek – az integráció előmozdítása céljából – magában kell foglalnia a társult országoknak a közösségi programokban való részvételét;
+
+elhatározta ennek a Jegyzőkönyvnek a létrehozását, és e célból kijelölte meghatalmazottait:
+
+A Magyar Köztársaság Kormánya:
+
+Juhász Endre urat, nagykövetet,
+
+a Magyar Köztársaság Európai Közösségek melletti Missziójának vezetőjét;
+
+Az Európai Közösség:
+
+Francisco Javier Elorza Cavengt urat, nagykövetet,
+
+a Spanyol Királyság állandó képviselőjét, az Állandó Képviselők Bizottságának elnökét;
+
+Az Európai Atomenergia Közösség:
+
+Günter Burghardt urat,
+
+az Európai Közösségek Bizottsága Külpolitikai Kapcsolatok Főigazgatósága főigazgatóját;
+
+akik, miután jónak és megfelelőnek tartott meghatalmazásaikat kicserélték, a következőkben állapodtak meg:
+
+*1. Cikk*
+
+Magyarország részt vehet a közösségi keretprogramokban, különleges programokban, projektumokban vagy egyéb akciókban az alábbi területeken:
+
+– kutatás és technológiai fejlesztés,
+
+– információs szolgáltatások,
+
+– a környezet,
+
+– oktatás-, képzés és ifjúságügy,
+
+– szociálpolitika és egészségügy,
+
+– fogyasztóvédelem,
+
+– kis- és közepes méretű vállalkozások,
+
+– idegenforgalom,
+
+– kultúra,
+
+– az audiovizuális szektor,
+
+– polgári védelem,
+
+– a kereskedelmi forgalom megkönnyítése,
+
+– energia,
+
+– közlekedés és
+
+– a kábítószer-kereskedelem és kábítószer-élvezet elleni küzdelem.
+
+A Felek megállapodhatnak abban, hogy újabb területekkel bővítik a fenti listát ott, ahol úgy látják, hogy ez kölcsönösen érdekükben áll, vagy hozzájárulhat az Európai Megállapodás céljainak megvalósításához.
+
+*2. Cikk*
+
+Az 1. Cikkben felsorolt tevékenységekben már folyamatban lévő magyar részvételt nem érintve, az Európai Megállapodás által létrehozott Társulási Tanács határozza meg az 1. Cikkben felsorolt tevékenységekben történő magyar részvétel módozatait és feltételeit.
+
+*3. Cikk*
+
+Az 1. Cikkben felsorolt tevékenységekhez való magyar pénzügyi hozzájárulás azon az elven alapul, hogy Magyarország viseli saját részvételének költségeit.
+
+Ha szükséges, a Közösség eseti alapon, az Európai Közösségek általános költségvetésére vonatkozó szabályoknak megfelelően határozhat a magyar hozzájárulás kiegészítéséről.
+
+A Felek megállapodhatnak abban, hogy az Európai Megállapodás pénzügyi együttműködésről szóló VIII. Címének megfelelő rendelkezéseit alkalmazzák.
+
+*4. Cikk*
+
+A Jegyzőkönyv azon időpontot követő második hónap első napján lép hatályba, amikor a Felek értesítik egymást az e célból szükséges eljárások befejezéséről.
+
+*5. Cikk*
+
+Ez a Jegyzőkönyv kiegészítésül szolgál Magyarország és a Közösség között létrejött Európai Megállapodáshoz. Ennek megfelelően annak összes általános, intézményi és záró rendelkezése e Jegyzőkönyv hatálybalépését követően alkalmazásra kerül.
+
+*6. Cikk*
+
+Ez a Jegyzőkönyv két eredeti példányban készült magyar, angol, dán, finn, francia, görög, holland, német, olasz, portugál, spanyol és svéd nyelven; e szövegek mindegyike egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+*Juhász Endre*s. k.
+
+Az Európai Közösség nevében
+
+Francisco Javier\
+Elorza Cavengt s. k.
+
+Az Európai Atomenergia Közösség nevében
+
+*Günter Burghardt* s. k.
+
+Készült Brüsszelben, az ezerkilencszázkilencvenötödik év július hó tizenharmadik napján.''
+
+,,
+
+*A Magyar Köztársaság Kormányának Nyilatkozata*
+
+E Jegyzőkönyv 2. és 3. Cikkében foglaltak végrehajtásakor kiemelkedő figyelmet kell fordítani az Európai Gazdasági Térről szóló Megállapodás 31. és 32. Jegyzőkönyvében lefektetett szabályok és elvek megfelelő alkalmazására.''
+
+## 3. §
+
+Ez a rendelet 1996. február 1. napján lép hatályba.

@@ -1,0 +1,71 @@
+---
+title: "79/2000. (VI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és Új-Zéland Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, jegyzékváltás útján létrejött megállapodás kihirdetéséről"
+identifier: "79/2000. (VI. 8.) Korm. rendelet"
+njt_id: "2000-79-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/79"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-06-08
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-79-20-22"
+retrieved: 2026-10-12
+---
+
+# 79/2000. (VI. 8.) Korm. rendelet a Magyar Köztársaság Kormánya és Új-Zéland Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, jegyzékváltás útján létrejött megállapodás kihirdetéséről
+
+*(A jegyzékváltás 2000. március 7-én megtörtént.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya e rendelettel kihirdeti a Magyar Köztársaság Kormánya és Új-Zéland Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, jegyzékváltás útján létrejött megállapodást.
+
+## 2. §
+
+A jegyzékváltás magyar nyelvű szövege a következő:
+
+,,
+
+**SZÓBELI JEGYZÉK**
+
+A Külügyi és Kereskedelmi Minisztérium üdvözletét küldi a Magyar Köztársaság Nagykövetségének és abban a megtiszteltetésben részesült, hogy tájékoztathatja a Nagykövetséget, hogy Új-Zéland Kormánya a közelmúltban számos változtatást jelentett be bevándorlási politikáját illetően. Ezek közé tartozott a három hónapnál rövidebb időre Új-Zélandot felkereső magyar állampolgárokkal szemben a vízumkötelezettség eltörléséről szóló határozat. A vízumkötelezettség eltörlése 2000. március 1-jén lép hatályba. Mellékeljük a Bevándorlási Miniszter, Tuariki John Delamere által kibocsátott vonatkozó sajtóközleményt.
+
+A Minisztérium tájékoztatni kívánja a Nagykövetséget arról is, hogy a három hónapnál hosszabb időre Új-Zélandot meglátogatni vagy ott tanulmányokat folytatni kívánó magyar állampolgároknak a továbbiakban is szükségük lesz vízumra. Az Új-Zélandon munkát vállalni vagy oda bevándorolni kívánó magyaroknak is be kell szerezniük a vízumot.
+
+A Külügyi és Kereskedelmi Minisztérium megragadja ezt az alkalmat, hogy biztosíthassa a Magyar Köztársaság Nagykövetségét őszinte nagyrabecsüléséről.
+
+Külügyi és Kereskedelmi Minisztérium
+
+Wellington
+
+1999\. november 19.''
+
+,,A Magyar Köztársaság berlini Nagykövetsége nagyrabecsülését fejezi ki Új-Zéland Nagykövetségének, és van szerencséje visszaigazolni Új-Zéland Külügyminisztériumának 58/343/1. számú, 1999. november 19-én kelt szóbeli jegyzékét.
+
+A Magyar Köztársaság berlini Nagykövetsége tájékoztatja a tisztelt Nagykövetséget, hogy a Magyar Köztársaság Kormánya örömmel nyugtázza az új-zélandi fél döntését, amellyel lehetővé teszi, hogy a Magyar Köztársaság állampolgárai 2000. március 1-jétől legfeljebb három hónapos tartózkodás időtartamára vízum nélkül léphetnek be és tartózkodhatnak Új-Zélandon.
+
+A Magyar Köztársaság és Új-Zéland közötti állampolgári kapcsolatok szélesítésének óhajától vezérelve, valamint viszonozva az új-zélandi félnek a magyar állampolgárok számára nyújtott beutazási és tartózkodási kedvezményét, a Magyar Köztársaság Kormánya 2000. március 15-től az új-zélandi állampolgárok számára biztosítja a vízummentes beutazás és tartózkodás jogát az alábbi feltételekkel.
+
+A Magyar Köztársaság idegenrendészeti jogszabályaiban foglaltak teljesítése mellett, az érvényes útlevéllel rendelkező új-zélandi állampolgárok 2000. március 15-től vízum nélkül léphetnek be a Magyar Köztársaság területére, a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken.
+
+Az új-zélandi állampolgárok látogatás, turizmus, valamint nem munkavállalás vagy jövedelemszerző tevékenység folytatását célzó beutazás esetén legfeljebb 90 napig, vízum nélkül tartózkodhatnak a Magyar Köztársaság területén.
+
+A 90 napot meghaladó beutazási és tartózkodási szándék esetén, valamint ha az új-zélandi állampolgár munkát kíván vállalni, vagy jövedelemszerző tevékenységet kíván folytatni, illetve be kíván vándorolni, vízumkérelmet kell benyújtania a Magyar Köztársaság konzuli vagy diplomáciai képviseletén.
+
+A Magyar Köztársaság berlini Nagykövetsége megállapítja, hogy a jelen szóbeli jegyzékkel és Új-Zéland Külügyminisztériumának 58/343/3. számú, 1999. november 19-én kelt szóbeli jegyzékével a két ország állampolgárainak vízummentes beutazását és tartózkodását szabályozó rendszer jött létre, amelyet a magyar fél kész az új-zélandi féllel azonos ideig fenntartani.
+
+A Magyar Köztársaság berlini Nagykövetsége ezen alkalmat is megragadva, Új-Zéland berlini Nagykövetségét kiváló nagyrabecsüléséről biztosítja.
+
+Berlin, 2000. március 7.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a megállapodás rendelkezéseit azonban 2000. március 15. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 123. pontja szerint módosított szöveg.

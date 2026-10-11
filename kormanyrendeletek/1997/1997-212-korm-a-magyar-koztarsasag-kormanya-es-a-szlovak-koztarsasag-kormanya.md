@@ -1,0 +1,292 @@
+---
+title: "212/1997. (XII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezmény kihirdetéséről"
+identifier: "212/1997. (XII. 1.) Korm. rendelet"
+njt_id: "1997-212-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/212"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-12-01
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-212-20-22"
+retrieved: 2026-10-12
+---
+
+# 212/1997. (XII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló Egyezmény kihirdetéséről
+
+(Az Egyezmény jóváhagyásáról szóló jegyzékváltás\
+1997\. szeptember 22. napján megtörtént.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról szóló, Pozsonyban, 1997. április 21-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között katasztrófák esetén történő együttműködésről és kölcsönös segítségnyújtásról
+
+A Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+meggyőződve a két állam közötti együttműködés szükségességéről, attól az óhajtól vezérelve, hogy megkönnyítsék katasztrófák esetén az önkéntes kölcsönös segítségnyújtást, a következőkben állapodtak meg:
+
+*1. Cikk*
+
+*A fogalmak meghatározása*
+
+Ezen Egyezményben szereplő fogalmak jelentése a következő:
+
+*a) ,,Katasztrófa''* – természeti katasztrófa vagy előre nem látott technológiai vagy egyéb események által keletkezett helyzet, mely rendkívüli terjedelme következtében már az életet, egészséget és anyagi javakat veszélyezteti, vagy már közvetlenül fenyeget ilyen veszélyeztetettséggel.
+
+*b) ,,Segítséget kérő Szerződő Fél''* – azon Szerződő Fél, amelynek szervei segítséget kérnek.
+
+*c) ,,Segítséget nyújtó Szerződő Fél''* – azon Szerződő Fél, amelynek szervei eleget tettek a másik Szerződő Fél kérésének és megadják a segítséget.
+
+*d) ,,Mentés és segítségnyújtás''* – segélycsapatok vagy segítők tevékenysége, melynek célja a katasztrófa közvetlen és közvetett következményeinek az elhárítása.
+
+*e) ,,Segélycsapatok vagy segítők''* – azon Szerződő Fél országa segítségnyújtásra kijelölt szakembereinek csoportjai, vagy személyek, akik el vannak látva a szükséges felszereléssel.
+
+*f) ,,Felszerelés''* – anyagok, műszaki, közlekedési eszközök és felszerelés a bevetés céljára, valamint a segélycsapatok vagy segítők személyes szükségleteire szolgáló tárgyak.
+
+*g) ,,Segélyszállítmányok''* – mindazon eszközök és tárgyak, melyek a segítséget kérő Szerződő Fél országa területén a károsult lakosság részére díjmentesen átadásra kerülnek a katasztrófák káros következményeinek csökkentése vagy veszélyük elhárítása céljából.
+
+*2. Cikk*
+
+*Segítségnyújtás*
+
+(1) Segítséget kérelem alapján nyújtanak.
+
+(2) Segítséget kérő illetékes szervek:
+
+a Magyar Köztársaság nevében: a Magyar Köztársaság belügyminisztere;
+
+a Szlovák Köztársaság nevében: a Szlovák Köztársaság belügyminisztere.
+
+(3) Azon Szerződő Fél, amely országának területén a katasztrófa bekövetkezett, a másik Szerződő Féltől – szükség esetén – segítséget kérhet, amely vonatkozhat a segélycsapatok vagy segítők, felszerelés és segélyszállítmányok küldésére.
+
+(4) A segítségkérésnek a jelen Egyezmény 6. Cikkének (1) bekezdésében meghatározott információkat kell tartalmaznia, továbbá a kért segítségnyújtás módját, mértékét, közvetítésének lehetőségeit és a kapcsolatfelvételre kijelölt személyekre, valamint szervezetekre vonatkozó információkat. A segítségkérés folyamatosan pontosítható és kiegészíthető.
+
+(5) Az (1) bekezdés szerinti kérelmet a Szerződő Fél írásban, illetve szóban nyújtja be a Szerződő Felek országának hivatalos nyelvén vagy angol nyelven. A szóbeli kérelmeket utólag írásban meg kell erősíteni.
+
+(6) A segítségnyújtás a Szerződő Felek országainak saját jogrendjével összhangban történik, a 8. Cikkben meghatározott esetek kivételével.
+
+*3. Cikk*
+
+*Az együttműködés kiterjedése*
+
+(1) A segítségnyújtás és együttműködés kiterjed:
+
+*a)* a megelőző intézkedések közös megszervezésére és végrehajtására, együttműködési tervek készítésére;
+
+*b)* a katasztrófák általi veszélyeztetettségről, illetve ezek bekövetkezéséről történő kölcsönös tájékoztatásra;
+
+*c)* a katasztrófák során való segítségnyújtásra;
+
+*d)* polgári védelmi, tűzoltó és egyéb szakemberek kiképzésére;
+
+*e)* a tudományos és műszaki információcserékre, valamint közös kutatási programok végzésére, az ezen Egyezmény tárgyával összefüggő gyártás és fejlesztés területére;
+
+*f)* a közös védelmi és mentési gyakorlatok megszervezésére és végrehajtására.
+
+(2) Az együttműködés és információcsere a Szerződő Felek országainak saját jogszabályaival összhangban történik. A 14. Cikk alapján létrehozott Állandó Vegyes Bizottság vezetői kicserélik a humanitárius segítségnyújtásra vonatkozó jogi előírásaikról szóló információkat.
+
+*4. Cikk*
+
+*Szakmai felkészítés és továbbképzés*
+
+A Szerződő Felek rendszeressé teszik a kölcsönös együttműködést a mentésben részt vevő segélycsapatok vagy segítők szakmai felkészítésében és továbbképzésében közvetlen kapcsolatokat alakítanak ki a szakmai felkészítés és képzés szervei között, elősegítik a kiképzők, előadók és szakértők cseréjét, együttműködnek a szakmai felkészítés és kiképzés anyagi finanszírozásában, viszonosság alapján elősegítik a szükséges tananyagok és eszközök, valamint a védelem és a mentés tapasztalatainak kölcsönös cseréjét.
+
+*5. Cikk*
+
+*A humanitárius szervezetek együttműködése*
+
+A Szerződő Felek elősegítik és megteremtik a megfelelő feltételeket a humanitárius szervezetek közötti együttműködésre a katasztrófák elleni védelemben.
+
+*6. Cikk*
+
+*A veszély jelzése*
+
+(1) A Szerződő Felek kölcsönösen értesítik egymást katasztrófák lehetőségéről, a bekövetkezett katasztrófákról, amelyek a másik Szerződő Fél számára fenyegetettséget jelenthetnek. Az információnak tartalmaznia kell a veszély keletkezésének helyét, idejét, jellemzését, terjedelmét, következményeit és a végrehajtott intézkedéseket. A Szerződő Felek egymás rendelkezésére bocsátják a mentőerőkről és eszközökről szóló azon információkat, amelyek átadhatók a másik Szerződő Fél részére a segítségnyújtás lehetőségeiről, módjairól.
+
+(2) Az információkat a Szerződő Fél nyújtja be szóban és írásban a Szerződő Felek országai hivatalos nyelvén vagy angolul. A szóbeli információkat írásban meg kell erősíteni.
+
+(3) Az (1) bekezdés szerinti információk átadására, átvételére jogosultak:
+
+– a Magyar Köztársaság területén: a Belügyminisztérium,
+
+– a Szlovák Köztársaság területén: a Belügyminisztérium.
+
+*7. Cikk*
+
+*Az országhatár átlépése*
+
+(1) A segélycsapatok vagy segítők az államhatárt a Magyar Köztársaság és a Szlovák Köztársaság között a közös államhatár rendjéről és az együttműködésről szóló Szerződés rendelkezéseivel összhangban léphetik át.
+
+(2) Amennyiben a határátkelőhelyen kívül történő határátlépés szükséges, ezt a tényt előzetesen az illetékes határőrizeti és vámszervnek be kell jelenteni.
+
+(3) Az államhatárt átlépő segélycsapat tagjainak vagy segítőinek szerepelnie kell az illetékes segélycsapat vezetője által aláírt névjegyzékben. A vezetőnek személyi igazolvánnyal és illetékes felhatalmazással kell igazolnia magát.
+
+(4) A segélycsapatoknak vagy segítőknek joguk van arra, hogy a segítséget kérő Szerződő Fél országában egyenruhát viseljenek abban az esetben, ha ez a szokásos felszereléshez tartozik.
+
+(5) A fent felsorolt határátlépési könnyítések azokra a személyekre is érvényesek, akiket ki kell telepíteni (kimenekíteni).
+
+(6) A segítséget nyújtó csoportok tagjaira vagy a segítőkre a segítséget kérő Szerződő Fél országa területén az egész tartózkodásuk folyamán az ezen Szerződő Fél országának saját jogszabályai vonatkoznak.
+
+*8. Cikk*
+
+A felszerelések és segélyszállítmányok behozatala\
+és kivitele
+
+(1) A Szerződő Felek megkönnyítik a felszerelés és a segélyszállítmányok behozatalát és kivitelét. A segélycsapat vezetőjének vagy a segítőknek határátlépéskor mindkét Szerződő Fél országa vámszervei részére külön jegyzékeket kell átnyújtania a felszerelésekről és segélyszállítmányokról két példányban. Amennyiben különösen sürgős esetekben a határátlépés a határátkelőhelyen kívül történik, ezeket a jegyzékeket haladéktalanul az illetékes vámszervnek kell átadni.
+
+(2) A segélycsapatok vagy a segítők csak a felszerelést és a segélyszállítmányokat hozhatják be, és vihetik ki.
+
+(3) Ezen Egyezmény végrehajtása során a felszerelésekre és a segélyszállítmányok szállítására nem érvényesek a behozatali és kiviteli áruforgalomra vonatkozó tilalmak és korlátozások. A segélyszállítmányok a másik Szerződő Fél államába vámmentesen vihetők be. Ha ezeket a felszerelési tárgyakat céljuknak megfelelően felhasználták, mentesek minden vám-, adók és egyéb pénzügyi terhek alól. Ha a felszerelés nem került végleges felhasználásra, úgy vissza kell vinni. Amennyiben a felszerelés segélyszállítmányként marad vissza, akkor ennek fajtáját, mennyiségét, helyét közölni kell a Szerződő Fél országa illetékes hatóságával, amely erről értesíti a vámhatóságot.
+
+(4) A segítséget kérő Szerződő Fél lehetővé teszi a segélycsapatok vagy a segítők felszerelésének vegyi és sugármentesítését. Abban az esetben, ha a mentesítést nem lehet elvégezni, akkor a felszerelést a segítséget kérő Szerződő Fél országa területén hagyják.
+
+(5) A (3) bekezdés rendelkezései alkalmazandók a kábító- és bódítószereket tartalmazó gyógyszerek vonatkozásában is. Ez az áruforgalom a kábító- és bódítószerekre vonatkozó nemzetközi megállapodások szerint nem minősül ki- és bevitelnek. Kábító- és bódítószereket tartalmazó gyógyszereket csak sürgős orvosi szükséglet szerinti mennyiségben vihetnek magukkal, és csak szakképzett egészségügyi személyzet alkalmazhatja, annak az államnak a jogszabályi rendelkezései szerint, amelyhez a Szerződő Fél országa segélycsapata vagy a segítők tartoznak.
+
+(6) Tilos bármiféle lőfegyver és lőszer behozatala az ipari robbantószereken kívül a segítséget kérő Szerződő Fél országa területére.
+
+*9. Cikk*
+
+*A segélycsapatok szállítása és a légijárművek felhasználása*
+
+(1) A segélycsapatok tagjainak vagy a segítőknek a felszerelésük és a segélyszállítmányok szállítása közúton, vasúton, levegőben vagy vízi úton történik.
+
+(2) Mindkét Szerződő Fél megengedi, hogy azok a légijárművek, amelyek a másik Szerződő Fél államának felségterületéről kerülnek bevetésre, átrepüljenek országa felségterületén, kijelölt helyen fel- és leszállhassanak vám- és útlevélellenőrzéssel ellátott repülőtér igénybevételének kényszere nélkül és az engedélyezett leszállóhelyeken kívül.
+
+(3) Légijárművek felhasználását haladéktalanul be kell jelenteni a segítséget kérő Szerződő Fél országa illetékes szervének és a légi irányítás szerveinek a légijármű adatainak, fajtájának, típusának és megjelölésének felsorolásával, valamint a személyzet, szállítmány, repülési idő, feltételezett útvonal és leszállási hely megjelölésével.
+
+(4) A repülések a Szerződő Felek országai azon légiforgalmi szabályaival összhangban történnek, melyek rendezik a légijárművek felhasználását és navigálását a területükön történő átrepülések esetén.
+
+(5) A 7. Cikk rendelkezései vonatkoznak a légijármű személyzetére, valamint a szállított segélycsapatokra és segítőkre is.
+
+(6) A 8. Cikk rendelkezései vonatkoznak a légijárművekre és az azon szállított felszerelésre és segélyszállítmányokra.
+
+*10. Cikk*
+
+*Irányítás és koordináció*
+
+(1) Ezen Egyezmény végrehajtása keretében a munkák irányítására és koordinálására jogosult illetékes szervek a következők:
+
+– a Magyar Köztársaságban: a Belügyminisztérium,
+
+– a Szlovák Köztársaságban: a Belügyminisztérium.
+
+(2) A segítséget kérő Szerződő Fél országa területén végzett összes munkát ezen Szerződő Fél országa illetékes szerve irányítja.
+
+(3) A segítséget nyújtó Szerződő Fél országa segítségnyújtó csoportjainak vagy segítőinek az utasításokat kizárólag ezen csoportok vezetőihez lehet címezni, akik utasítást adnak a kivitelezés módjára.
+
+(4) A segítséget kérő Szerződő Fél szervei a segítséget nyújtó csoportoknak vagy segítőknek védelmet, szükség esetén térítésmentes orvosi ellátást nyújtanak, valamint megszervezik a szükséges együttműködést. Elősegítik a biztonságos munka végzését a segítséget nyújtó csoportoknak vagy segítőknek, és szükség esetén biztosítják ellátásukat.
+
+(5) A Szerződő Felek haladéktalanul diplomáciai úton bejelentik az (1) bekezdésben szereplő illetékes szervekre vonatkozó változásokat.
+
+*11. Cikk*
+
+*Távközlési és rádió-összeköttetés*
+
+A segítségnyújtás során a Szerződő Felek közös intézkedéseket fogadnak el a szükséges távközlési és rádiókapcsolatok biztosítására.
+
+*12. Cikk*
+
+*A segítségnyújtási költségek*
+
+(1) A segítséget nyújtó Szerződő Fél a segítségnyújtás költségeinek megtérítésére nem tarthat igényt. Ez vonatkozik azokra a költségekre is, amelyek az anyagok felhasználásából, károsodásából vagy eltűnéséből erednek.
+
+(2) A segítségnyújtás költségeinek egészben vagy részben történő megtérülése esetén az (1) bekezdés nem alkalmazható. Ebben az esetben a segítséget nyújtó Szerződő Fél költségeit térítik meg.
+
+(3) A segítségnyújtás költségei – amelyeket természetes vagy jogi személyek nyújtanak, a segítséget nyújtó Szerződő Fél közvetítésével, a másik Szerződő Fél kérésére – a segítséget kérő Szerződő Felet terhelik.
+
+(4) A segítséget kérő Szerződő Fél országa területéről kitelepített (kimenekített) személyek a segítséget nyújtó Szerződő Fél országa területére a visszaérésük idejéig megkapják a szükséges ellátást. A segítséget kérő Szerződő Fél a segítséget nyújtó Szerződő Félnek megtéríti ezen ellátással és a személyek visszatérésével összefüggő költségeket.
+
+*13. Cikk*
+
+*Kártérítés*
+
+(1) A Szerződő Felek lemondanak minden kártérítési igényről a vagyonban bekövetkezett kár esetében a másik Szerződő Féllel szemben, ha a kárt az Egyezménnyel összefüggő munkák végrehajtása közben a mentésben résztvevő nem szándékosan vagy nem súlyos gondatlanságból okozta.
+
+(2) A Szerződő Felek lemondanak minden kártérítési igényről a másik Szerződő Féllel szemben segélycsapat tagja vagy segítő sérülése, egészségkárosodása vagy halála esetén, ha a sérülés, az egészségkárosodás vagy a halál a jelen Egyezmény feladatainak végrehajtása során következett be, kivéve, ha ezt szándékosan vagy súlyos gondatlanságból okozták.
+
+(3) Az (1) és (2) bekezdésben meghatározott kártérítési felelősség a segítséget kérő Szerződő Fél államának államhatára átlépésének időpontjától a segítséget kérő Szerződő Fél állama területének elhagyása időpontjáig tart.
+
+(4) Ha a feladatvégzés közben a segélycsapat vagy segítők által okozott kár keletkezett a Szerződő Fél területén egy harmadik személy sérelmére, a felelősség a segítséget kérő Szerződő Felet terheli úgy, mintha ezt a kárt a Szerződő Fél saját segélycsapatai vagy segítői okozták volna.
+
+*14. Cikk*
+
+*Állandó Vegyes Bizottság*
+
+(1) A Szerződő Felek az Egyezmény végrehajtására Állandó Vegyes Bizottságot hoznak létre, amely Magyar és Szlovák tagozatból áll. A bizottság tagozatonként azonos létszámú, de legalább 3-3 fő. Az Állandó Vegyes Bizottság tagozatai elnökei személyének kinevezéséről a Szerződő Felek diplomáciai úton tájékoztatják egymást.
+
+(2) Az Állandó Vegyes Bizottság feladata:
+
+*a)* ezen Egyezmény végrehajtásával összefüggő tevékenység szervezése, és az ebből eredő konkrét szervezési és technikai problémák megoldása,
+
+*b)* a kölcsönös kapcsolattartás és értesítés szabályainak (formáinak) meghatározása, a katasztrófa vagy annak veszélye esetén,
+
+*c)* ügyrendjének elkészítése, melynek módosítása jegyzékváltás formájában történik.
+
+(3) Az Állandó Vegyes Bizottság szükség esetén megfelelő albizottságot hoz létre és az együttműködés egyes feladatainak kidolgozására szakértőket vehet igénybe.
+
+(4) Az Állandó Vegyes Bizottság évente legalább egy alkalommal tanácskozik a Magyar Köztársaság, illetve a Szlovák Köztársaság területén felváltva. Rendkívüli találkozót bármelyik Szerződő Fél kezdeményezhet.
+
+*15. Cikk*
+
+*Személyes adatok védelme*
+
+A Szerződő Felek az Egyezmény alkalmazása során felmerülő személyes adatok kezelését a Magyar Köztársaság és a Szlovák Köztársaság között a terrorizmus, a kábítószer tiltott forgalma és az egyéb szervezett bűnözés elleni harcban való együttműködésről szóló Megállapodás erre vonatkozó rendelkezéseivel összhangban végzik.
+
+*16. Cikk*
+
+*Információk védelme*
+
+Jelen Egyezmény végrehajtása során kapott adatokat a Szerződő Felek – ha ettől eltérően írásban nem állapodtak meg – az adatokat átadó Szerződő Fél országában meghatározott védelemben részesítik.
+
+*17. Cikk*
+
+*A viták rendezése*
+
+(1) Az Egyezmény alkalmazásával kapcsolatos vitás kérdéseket az Állandó Vegyes Bizottság oldja meg.
+
+(2) Amennyiben a vitatott kérdésekben az Állandó Vegyes Bizottság nem tud dönteni, azokat diplomáciai úton kell megoldani.
+
+*18. Cikk*
+
+*Átmeneti rendelkezések*
+
+Ezen Egyezmény nem érinti a Szerződő Felek által kötött két- vagy többoldalú nemzetközi szerződéseket, s a Szerződő Felek ebből eredő kötelezettségeit.
+
+*19. Cikk*
+
+*Záró rendelkezések*
+
+(1) Ezt az Egyezményt a Szerződő Felek országai belső jogszabályainak megfelelően jóvá kell hagyni, és az a jóváhagyásról szóló utólagos jegyzékváltást követő 30. napon lép hatályba.
+
+(2) Jelen Egyezményt határozatlan időre kötik. Az Egyezményt bármelyik Szerződő Fél bármikor felmondhatja írásban. Az Egyezmény attól az időtől számított három hónap elteltével veszti hatályát, amikor a felmondás a másik Szerződő Félhez megérkezett.
+
+(3) Az Egyezmény hatályának megszűnése nem érinti az Egyezmény érvényességének napján még fennálló, a végrehajtásából eredő tevékenységeket és kötelezettségeket.
+
+Készült Pozsonyban, az 1997. év április hónap 21. napján, két eredeti példányban, magyar és szlovák nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Szlovák Köztársaság\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a rendelkezéseit azonban 1997. október 22. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról a katasztrófák elleni védekezésért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 82. pontja szerint módosított szöveg.

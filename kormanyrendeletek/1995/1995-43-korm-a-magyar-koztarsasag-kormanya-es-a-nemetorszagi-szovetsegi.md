@@ -1,0 +1,165 @@
+---
+title: "43/1995. (IV. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a Magyar Köztársaságban lévő német háborús sírokról és a Németországi Szövetségi Köztársaságban lévő magyar háborús sírokról szóló, Bonnban, 1993. november 16-án aláírt Megállapodás kihirdetéséről"
+identifier: "43/1995. (IV. 24.) Korm. rendelet"
+njt_id: "1995-43-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1995/Korm/43"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1995-04-24
+in_force_from: 1995-05-02
+last_amended: 1995-05-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1995-43-20-22"
+retrieved: 2026-10-12
+---
+
+# 43/1995. (IV. 24.) Korm. rendelet a Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a Magyar Köztársaságban lévő német háborús sírokról és a Németországi Szövetségi Köztársaságban lévő magyar háborús sírokról szóló, Bonnban, 1993. november 16-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás 12. Cikkének megfelelő jegyzékváltásra 1994. december 23-án került sor.)*
+
+## 1. §
+
+A Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya között a Magyar Köztársaságban lévő német háborús sírokról és a Német Szövetségi Köztársaságban lévő magyar háborús sírokról szóló, Bonnban, 1993. november 16-án aláírt Megállapodást a Magyar Köztársaság Kormánya kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,MEGÁLLAPODÁS\
+a Magyar Köztársaság Kormánya\
+és a Németországi Szövetségi Köztársaság Kormánya között a Magyar Köztársaságban lévő német háborús sírokról és a Németországi Szövetségi Köztársaságban lévő magyar háborús sírokról
+
+A Magyar Köztársaság Kormánya és a Németországi Szövetségi Köztársaság Kormánya
+
+attól a kívánságtól vezérelve, hogy az 1914—1918-as és az 1939—1945-ös háborúból származó, a Magyar Köztársaságban lévő német és a Németországi Szövetségi Köztársaságban lévő magyar háborús sírok ügyét véglegesen rendezzék,
+
+arra törekedve, hogy ezen sírok fenntartását és gondozását a nemzetközi humanitárius jog hatályos rendelkezéseinek megfelelően méltóképpen biztosítsák,
+
+a Magyar Köztársaság és a Németországi Szövetségi Köztársaság között a baráti együttműködésről és az európai partnerségről Budapesten, 1992. február 6-án kelt szerződés 29. Cikkében foglaltak megvalósítása érdekében
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+E Megállapodás a Szerződő Feleknek a másik Fél államában lévő háborús sírjai fenntartását és gondozását szabályozza.
+
+*2. Cikk*
+
+E Megállapodás értelmében az alábbi fogalmak jelentése a következő:
+
+(1) *a)* *német háborús halottak:*
+
+— a német fegyveres erők tagjai,
+
+— a velük a német jog szerint azonos jogállású személyek,
+
+— azok a német állampolgárságú személyek, akik az 1914—1918-as vagy az 1939—1945-ös háború eseményeivel összefüggésben haltak meg Magyarországon, amennyiben haláluk időpontjában a nemzetközi humanitárius jog védelme alatt állottak;
+
+*b)* *német háborús sírok:*
+
+a német háborús halottaknak a Magyar Köztársaság felségterületén lévő sírjai;
+
+*c)* *német háborús sírhelyek:*
+
+a Magyar Köztársaság felségterületén meglévő vagy újonnan létesítendő olyan temetők vagy temetőrészek, amelyekben német háborús halottak vannak eltemetve.
+
+(2) *a)* *magyar háborús halottak:*
+
+— a magyar fegyveres erők tagjai,
+
+— azok a magyar állampolgárságú személyek, akik az 1939—1945-ös háború eseményeivel összefüggésben Németországban haltak meg, amennyiben haláluk időpontjában a nemzetközi humanitárius jog védelme alatt állottak,
+
+— azok a magyar állampolgárok, akik a nemzetiszocialista erőszakintézkedések következtében Németországban haláloztak el, vagy azok közvetlen következményeként német földön meghaltak;
+
+*b)* *magyar háborús sírok:*
+
+a magyar háborús halottaknak a Németországi Szövetségi Köztársaság felségterületén lévő sírjai.
+
+*3. Cikk*
+
+(1) A Magyar Köztársaság Kormánya biztosítja a német háborús sírok védelmét és a német háborús halottak számára a tartós háborítatlansághoz való jogot, és törekszik arra, hogy a német háborús sírhelyek környezetétől minden olyan létesítményt távol tartson, amely ezen helyek méltóságával nem egyeztethető össze.
+
+(2) A Magyar Köztársaság Kormánya, nem érintve a nemzetközi jog vonatkozó rendelkezései alapján a felségterületén található háborús sírok fenntartására és gondozására vonatkozó felelősségét, e Megállapodással hozzájárul ahhoz, hogy a Németországi Szövetségi Köztársaság Kormánya a Magyar Köztársaságban található német háborús sírokat és háborús sírhelyeket saját költségén kialakítsa és gondozza. A Németországi Szövetségi Köztársaság Kormánya vagy az általa ezen Megállapodás 7. Cikkének (1) bekezdése szerint megbízott intézmény az ehhez szükséges intézkedéseket össze fogja hangolni a Magyar Köztársaság Kormányával vagy az általa, a 7. Cikk (2) bekezdése szerint megbízott intézménnyel.
+
+(3) A Németországi Szövetségi Köztársaság felségterületén lévő magyar háborús sírok fenntartását és gondozását saját költségére biztosítja.
+
+*4. Cikk*
+
+(1) A Magyar Köztársaság Kormánya a múltra és a jövőre nézve ingyenesen és korlátlan időtartamra a Németországi Szövetségi Köztársaság Kormányának német háborús sírokként és német háborús sírhelyekként szolgáló területek használatát engedi át háborús halottai tartós nyughelyeként. A tulajdoni jogokat ez a Megállapodás egyebekben nem érinti.
+
+(2) A háborús sírhelyek által használt terület határainak minden szükségesnek ítélt megváltoztatásáról a Szerződő Felek vagy az általuk kijelölt szervek kölcsönös egyetértéssel határoznak. Ha a Szerződő Felek közös egyetértésben megállapítják, hogy valamely területet részben vagy egészében már nem az előirányzott célra használnak, ezzel a Németországi Szövetségi Köztársaságnak e területre vonatkozó használati joga megszűnik.
+
+(3) Amennyiben egy területet, amelyen német háborús sírok találhatók, elkerülhetetlen közérdekből más célra kell igénybe venni, a Magyar Köztársaság Kormánya — a 7. Cikk (1) bekezdése szerint megbízott intézménnyel való konzultációt követően — másik alkalmas területet bocsát a Németországi Szövetségi Köztársaság Kormányának rendelkezésére, és átvállalja a halottak újratemetésének és az új sírok kialakításának a költségeit. Az újratemetések lebonyolítása, valamint az új területek kialakítása kölcsönös egyetértésben történik.
+
+(4) Amennyiben a Magyar Köztársaság felségterületén lévő német háborús sírok nem a magyar állam tulajdonában lévő területen fekszenek, akkor az ezen Megállapodás 7. Cikkének (1) bekezdése szerint megbízott intézmény olyan megegyezést köt a területtel a magyar jogszabályok értelmében rendelkezni jogosulttal, mely megfelel ezen Cikk (1) bekezdésének. Amennyiben megfelelő időn belül nem jutnak ilyen eredményre, akkor a Magyar Köztársaság Kormánya közvetíteni fog a 7. Cikk (1) bekezdésében megbízott intézmény és a jogosult között, valamint, amennyiben szükséges, más intézkedéseket tesz az ezen Cikk (1) bekezdésének megfelelő eredmény létrejöttének érdekében.
+
+*5. Cikk*
+
+(1) A Magyar Köztársaság Kormánya anélkül, hogy ebből költségek hárulnának reá, és azt követően, hogy előzetes hozzájárulása céljából a tervet bemutatták, a Németországi Szövetségi Köztársaság Kormányának engedélyezi, hogy a német háborús halottakat, amelyek újratemetését a Németországi Szövetségi Köztársaság Kormánya szükségesnek tekinti, közös sírban helyezze el.
+
+(2) Minden egyes háborús halott újratemetéséről jegyzőkönyv készül. A jegyzőkönyv egy példányát az ennek a megállapodásnak a végrehajtásával megbízott magyar hatósághoz kell eljuttatni.
+
+*6. Cikk*
+
+(1) A német háborús halottaknak a Magyar Köztársaság felségterületéről a Németországi Szövetségi Köztársaságba történő átszállításához a Németországi Szövetségi Köztársaság Kormányának előzetes hozzájárulása szükséges. A Magyar Köztársaság Kormánya az átszállítást csak ezen hozzájárulás bemutatása esetén engedélyezi.
+
+(2) A Magyar Köztársaság Kormánya német háborús halottaknak harmadik országba történő szállítását ugyancsak a Németországi Szövetségi Köztársaság Kormányának hozzájárulásával engedélyezi.
+
+(3) A kihantolás és az átszállítás minden költsége és illetéke a kérelmezőt terheli.
+
+(4) A háborús halottak átszállítás céljából történő kihantolását a Német Fél által megnevezett szakemberek végzik. A kihantolásnál jelen lehetnek a magyar hatóságok képviselői.
+
+*7. Cikk*
+
+(1) A jelen Megállapodásból a Német Fél számára adódó minden magyarországi feladat technikai végrehajtásával a Németországi Szövetségi Köztársaság Kormánya a ,,Német Háborús Sírokat Gondozó Népi Szövetség Bejegyzett Egyesületet'' (a továbbiakban: Népi Szövetség) bízza meg.
+
+(2) A Magyar Köztársaság Kormánya az ezen Megállapodásból ráháruló feladatok végrehajtásával a Honvédelmi Minisztériumot bízza meg. A Honvédelmi Minisztérium ezzel más intézményt is megbízhat.
+
+*8. Cikk*
+
+A Magyar Köztársaság Kormánya a vonatkozó magyar jogszabályokkal összhangban minden lehetséges könnyítést megad a Népi Szövetségnek, különösen ahhoz, hogy hozzájusson a német háborús sírokra vonatkozó, magyar hatóságoknál és egyéb szerveknél meglévő dokumentumokhoz.
+
+*9. Cikk*
+
+(1) A jelen Megállapodásból adódó feladatai végrehajtására a Népi Szövetség képviselőket, szakembereket és egyéb személyeket küldhet a Magyar Köztársaságba, avagy feladatait a Magyar Köztársaság Kormánya által megnevezett más intézményekkel együttműködve hajthatja végre.
+
+(2) A Népi Szövetség ezen feladatai végrehajtása során lehetőség szerint helyi munkaerőt és anyagokat vesz igénybe a szabad verseny szokásos feltételei szerint.
+
+(3) A Népi Szövetség a Németországi Szövetségi Köztársaságból vagy az Európai Közösség valamely más tagállamából is behozhat ezen államokból származó, vagy a Közösségen belül szabadon forgalomban lévő eszközöket, szállítóeszközöket, anyagokat és tartozékokat, amelyek az ebben a Megállapodásban említett munkák elvégzéséhez szükségesek.
+
+(4) Ezen áruk vámkezelésére az alábbiak vonatkoznak:
+
+*a)* az ideiglenesen behozott eszközöket és szállítóeszközöket a Magyar Köztársaságba való behozatalukkor a be- és kiviteli vámjegyzéken azzal a kitétellel vámkezelik, hogy a fent nevezett eszközöket és szállítóeszközöket a munkák elvégzése után ismét kiviszik az országból;
+
+*b)* a sírok, emlékhelyek és temetők létrehozásához, díszítéséhez vagy gondozásához szükséges anyagok és tartozékok ugyancsak mentesek a behozatali vám alól, amennyiben a vámhatóság számára a szokásos behozatali vámáru-nyilatkozaton kívül benyújtják
+
+— a behozott áruk pontos listáját,
+
+— az erre felhatalmazott személy által aláírt kötelezvényt arra nézve, hogy a megjelölt árukat csak a Megállapodásban meghatározott célra használják fel.
+
+*10. Cikk*
+
+(1) A német háborús sírok helyéül szolgáló területeknek a 4. Cikk (1) bekezdése szerinti használatba adása feljogosítja a Népi Szövetséget arra, hogy az idevágó magyar jogszabályok keretében ezen területeken minden kialakítási és szépítési munkát, valamint a látogatók részére megfelelő bekötőutak, helyiségek és más létesítmények építését közvetlenül elvégezze.
+
+(2) A Népi Szövetség gondoskodik arról, hogy az építési munkák során valamennyi, a magyar törvényekben előirányzott, egészségügyi követelményeket tartalmazó jogszabályt figyelembe vegyenek, és a temetők rendjére vonatkozó minden magyar jogszabályt és hatósági rendelkezést betartsanak.
+
+*11. Cikk*
+
+E Megállapodás szakmai és technikai végrehajtásában a Népi Szövetség és az illetékes magyar hatóság, illetve a Magyar Köztársaság Kormánya által az ezen Megállapodásból következő kötelezettségeinek teljesítésével megbízott más intézmény közvetlenül együttműködik.
+
+*12. Cikk*
+
+E Megállapodás akkor lép hatályba, ha a Szerződő Felek értesítették egymást arról, hogy eleget tettek a Megállapodás hatálybalépéséhez szükséges saját belső jogi feltételeiknek. A Megállapodás az utolsó értesítés kézhezvételének napján lép hatályba.
+
+Készült Bonnban, 1993. november 16-án, két eredeti példányban, magyar és német nyelven, mindkettő egyaránt hiteles.
+
+A Magyar Köztársaság A Németországi Szövetségi Kormánya nevében
+
+A Németországi Szövetségi Köztársaság Kormánya nevében''
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1994. december 23. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a honvédelmi miniszter gondoskodik.

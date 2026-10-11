@@ -1,0 +1,124 @@
+---
+title: "253/2008. (X. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között  – közös helyen történő határforgalom ellenőrzése céljából – Letenye–Goričan (Muracsány) II. személyforgalmi autópálya-határátkelőhely létesítéséről készült Plitvice-ben, 2005. július 8-án aláírt Megállapodás kihirdetéséről"
+identifier: "253/2008. (X. 14.) Korm. rendelet"
+njt_id: "2008-253-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/253"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-10-14
+in_force_from: 2008-10-22
+last_amended: 2008-10-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-253-20-22"
+retrieved: 2026-10-12
+---
+
+# 253/2008. (X. 14.) Korm. rendelet a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között – közös helyen történő határforgalom ellenőrzése céljából – Letenye–Goričan (Muracsány) II. személyforgalmi autópálya-határátkelőhely létesítéséről készült Plitvice-ben, 2005. július 8-án aláírt Megállapodás kihirdetéséről
+
+*(A Megállapodás 2006. március 10-én lépett hatályba.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között közös helyen történő határforgalom ellenőrzése céljából Letenye–Goričan (Muracsány) II. személyforgalmi autópálya-határátkelőhely létesítéséről készült, Plitvice-ben, 2005. július 8-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás hiteles magyar nyelvű szövege a következő:
+
+„Megállapodás\
+a Magyar Köztársaság Kormánya\
+és a Horvát Köztársaság Kormánya között\
+Letenye–Goričan (Muracsány) II. személyforgalmi autópálya-határátkelőhely létesítéséről, közös helyen történő határforgalom ellenőrzése céljából
+
+A Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya (a továbbiakban: Szerződő Felek)
+
+azon igyekezettől vezérelve, hogy fejlesszék a jószomszédi kapcsolatokat, valamint bővítsék az együttműködést az idegenforgalom és a nemzetközi személyforgalom területén,
+
+figyelembe véve a Horvát Köztársaság Kormánya és a Magyar Köztársaság Kormánya között a Letenye–Goričan autópálya-kapcsolat létesítéséről szóló Budapesten, 2001. március 2-án kötött Egyezmény (a továbbiakban: Autópálya kapcsolatról szóló Egyezmény) 4. Cikkében foglaltakat,
+
+tekintettel a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vízi és a vasúti határforgalom ellenőrzéséről szóló Budapesten, 2003. szeptember 29-én aláírt Egyezményben (a továbbiakban: Határforgalom ellenőrzéséről szóló Egyezmény), valamint a Magyar Köztársaság Kormánya és a Horvát Köztársaság Kormánya között a Magyar Köztársaság és a Horvát Köztársaság között a közúti, a vasúti és a vízi határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról szóló Budapesten, 2003. szeptember 29-én aláírt Megállapodás (a továbbiakban: Határforgalmi Végrehajtási Megállapodás) 7. Cikk (3) bekezdésében foglaltakra,
+
+az alábbiakban állapodtak meg.
+
+*1. Cikk*
+
+(1) A Szerződő Felek a Magyar Köztársaság államterületén V/B. európai közúti közlekedési folyosón a B 57 és B 58 határjelek között létesülő Mura-hídhoz kapcsolódva, a Magyar Köztársaság államterületén fekvő Letenye és a Horvát Köztársaság államterületén fekvő Goričan települések között a határforgalom közös helyen történő ellenőrzése céljából Letenye–Goričan (Muracsány) II. (a továbbiakban: határátkelőhely) elnevezéssel autópálya határátkelőhelyet létesítenek.
+
+(2) A határátkelőhelyen a Magyar Köztársaság államterületén horvát határforgalom-ellenőrző szolgálati hely létesül, ahol a horvát hivatalos személyek ellenőrzést végeznek.
+
+(3) A határátkelőhely használatának rendjét és nyitvatartási idejét a Határforgalmi Végrehajtási Megállapodás 7. Cikke tartalmazza.
+
+(4) A határátkelőhely megnyitását követően a közös államhatáron jelenleg működő Letenye–Goričan (Muracsány) I. közúti határátkelőhely a Határforgalmi Végrehajtási Megállapodás 6. Cikkében foglaltak szerinti forgalom számára az ott meghatározott módon és nyitva tartással működik.
+
+*2. Cikk*
+
+(1) A határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Határforgalom ellenőrzéséről szóló Egyezmény és a Határforgalmi Végrehajtási Megállapodás rendelkezései alapján történik.
+
+(2) A nemzetközi személyforgalomban részt vevő közlekedési eszközöknek meg kell felelniük a Szerződő Felek hatályos jogszabályaiban foglaltaknak és be kell tartaniuk az autópályán történő közlekedés szabályait.
+
+*3. Cikk*
+
+(1) A határátkelőhelyet a magyar Szerződő Fél építi meg, saját költségén és beruházásában, mely a Magyar Állam kizárólagos tulajdonát képezi.
+
+(2) A magyar Szerződő Fél kötelezettséget vállal arra, hogy a határátkelőhely építését a Mura-híd forgalomba helyezésével egyidejűleg befejezi és a határátkelőhelyen mindkét Szerződő Fél illetékes szolgálati személyei részére biztosítja a határforgalom ellenőrzésének feltételeit.
+
+(3) A magyar Szerződő Fél a határátkelőhely tervezési eljárása során biztosítja a horvát Szerződő Fél illetékes hatóságai számára, hogy az átkelőhely terveit megismerje és javaslatait kifejthesse.
+
+(4) Az átkelőhely tervezésének és kivitelezésének idejére, a közös feladatok végrehajtásának elősegítésére a Szerződő Felek szakértőikből közös Technikai Munkabizottságot hoznak létre.
+
+*4. Cikk*
+
+(1) A magyar Szerződő Fél a határátkelőhelyen biztosítja a horvát Szerződő Fél szolgálati személyei számára, valamint a szolgáltatást végzők részére – a Határforgalom ellenőrzéséről szóló Egyezményben foglaltakkal összhangban – a határforgalom ellenőrzéséhez, az ezzel összefüggő tevékenységhez szükséges működési területet és szolgálati célú helyiségeket.
+
+(2) A horvát szolgálati személyek számára a működési terület a határforgalom ellenőrző szolgálati helyen kiterjed:
+
+– a kijelölt hivatali helyiségekre,
+
+– az ellenőrző forgalmi sávokra és a kezelő fülkére,
+
+– a szociális helyiségekre,
+
+– a parkolóra,
+
+– az államhatártól az új Mura-hídon át a szolgálati helyig vezető autópálya szakaszra, valamint a Letenye–Goričan (Muracsány) I. közúti határátkelőhelyen át a kijelölt csatlakozó (kollektor) útra szolgálatba járás céljából.
+
+(3) Az (1) bekezdésben szereplő határátkelőhelyen a szolgáltatást végzők a számukra kijelölt vagy telepített szolgálati helyiségeket használják, továbbá a (2) bekezdésben feltüntetett útszakaszokat szolgálatba járás céljából.
+
+(4) A Szerződő Felek határforgalom ellenőrző szerveinek kijelölt vezetők írásban meghatározzák a határátkelőhely közös használatának szabályait.
+
+*5. Cikk*
+
+(1) A horvát Szerződő Fél illetékes szervei, szolgálati személyei és szolgáltatást végzői által kizárólag, valamint a magyar szolgálati személyekkel közösen használt létesítmények használatáról, fenntartásáról, az üzemeltető által nyújtandó szolgáltatásokról, valamint a határátkelőhely üzemeltetési feltételeiről, a használat és a szolgáltatások díjáról, mértékéről és a fizetés módjáról – a Határforgalom ellenőrzéséről szóló egyezmény 18. Cikk (1) bekezdésében foglaltakra figyelemmel – a Szerződő Felek kijelölt illetékes szervei magánjogi szerződésben állapodnak meg.
+
+(2) Az (1) bekezdésben szereplő illetékes szervek a következők:
+
+*a)* a magyar Szerződő Fél részéről: a Vám és Pénzügyőrség,
+
+*b)* a horvát Szerződő Fél részéről: a Pénzügyminisztérium.
+
+*6. Cikk*
+
+A jelen Megállapodás végrehajtása során felmerült vitákat a Szerződő Felek a jelen Megállapodás 3. Cikk (4) bekezdésében szereplő közös Technikai Munkabizottság keretében tárgyalások útján, ennek eredménytelensége esetén, diplomáciai úton rendezik.
+
+*7. Cikk*
+
+(1) A jelen Megállapodás azon későbbi írásos diplomáciai értesítés kézhezvételét követő 30. (harmincadik) napon lét hatályba, amelyben a Szerződő Felek értesítik egymást a hatálybalépéshez szükséges belső jogi követelmények teljesüléséről.
+
+(2) A jelen Megállapodás határozatlan időre szól. A jelen Megállapodást bármelyik Szerződő Fél diplomáciai úton, írásban felmondhatja. A jelen Megállapodás a felmondásról szóló értesítés kézhezvételét követő 6. (hatodik) hónap elteltével hatályát veszti.
+
+(3) A jelen Megállapodás a Szerződő Felek kölcsönös egyetértésével írásban kiegészíthető és módosítható. A kiegészítés és a módosítás az (1) bekezdésben meghatározottak szerint lép hatályba.
+
+Készült: Plitvice-n, 2005. július 8. napján, két eredeti példányban magyar és horvát nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Horvát Köztársaság\
+Kormánya nevében”
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a pénzügyminiszter gondoskodik.

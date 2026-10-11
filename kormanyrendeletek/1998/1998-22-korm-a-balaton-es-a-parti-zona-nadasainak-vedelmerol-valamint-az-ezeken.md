@@ -1,0 +1,214 @@
+---
+title: "22/1998. (II. 13.) Korm. rendelet a Balaton és a parti zóna nádasainak védelméről, valamint az ezeken folytatott nádgazdálkodás szabályairól"
+identifier: "22/1998. (II. 13.) Korm. rendelet"
+njt_id: "1998-22-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/22"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-02-13
+in_force_from: 2009-10-01
+last_amended: 2017-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-22-20-22"
+retrieved: 2026-10-12
+---
+
+# 22/1998. (II. 13.) Korm. rendelet a Balaton és a parti zóna nádasainak védelméről, valamint az ezeken folytatott nádgazdálkodás szabályairól
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 36. §-ában foglalt felhatalmazás alapján a következőket rendeli el:
+
+## Általános rendelkezések
+
+### 1. §
+
+(1) A rendelet célja biztosítani, hogy a Balaton medrében, továbbá a parti zónában a biológiai sokféleség megőrzését és a tó vízminőségének védelmét is szolgáló nádgazdálkodás történjen.
+
+(2) Az (1) bekezdésben foglalt célok érdekében a rendelet hatálybalépésekor meglévő nádasok fenntartásáról, rekonstrukciójáról és lehetőség szerint új nádasterületek kialakításáról kell gondoskodni.
+
+### 2. §
+
+(1) A rendelet hatálya kiterjed:
+
+a) a Balaton medrében, a jogi partvonalon belül található nádasokra;
+
+b) a Balaton jogi partvonala, valamint a Balatont körülvevő vasúti töltés – Badacsonytördemic és Balatonederics között a 71-es számú, valamint Keszthely és Balatonberény között a 71-es és a 7119-es számú közút (az ún. parti út), Balatonkenese és Siófok között a 70-es és 71-es műutak – által határolt földterületek nádasaira.
+
+(2) E rendelet alkalmazásában
+
+a) *jogi partvonal:* a siófoki vízmérce 0 pontjához képest plusz 1 m azaz, 104,41 mBf vízszint által kimetszett szintvonal,
+
+b) *nádas:* az ingatlan-nyilvántartásban szereplő művelési ágra tekintet nélkül minden földterület, amelyen nád-, sás-, káka-, valamint kísérőfajokból álló olyan növényzet található, amelynek meghatározó fajai időszakosan vagy állandó jelleggel a vízzel borított területen találhatóak, beleértve az e területekhez szervesen kapcsolódó száraz területek fenti fajokkal borított részét is.
+
+### 3. §
+
+(1) A rendelet hatálya alá tartozó nádasok fenntartását, kezelését, hasznosítását (a továbbiakban együtt: nádgazdálkodást) úgy kell folytatni, hogy az egyidejűleg biztosítsa a környezet-, természet-, valamint vízminőség-védelmi követelményeket.
+
+(2)[^1] A nádas művelési ágban nyilvántartott termőföldeken a művelési ágnak megfelelő gazdálkodást kell folytatni, a művelési ág megváltoztatására a természetvédelmi hatóság engedélye alapján akkor van lehetőség, ha a nádas helyreállítása nem lehetséges.
+
+(3) Ha a nádas kipusztulása a tulajdonos (vagyonkezelő, használó) jogellenes mulasztásának vagy tevékenységének az eredménye, az eredeti állapot helyreállítására kell kötelezni.
+
+(4)[^2] A (3) bekezdés szerinti kötelezést a természetvédelmi hatóság rendeli el, a tulajdonos költségére.
+
+(5)[^3] Aki a rendelet hatálya alá tartozó nádast károsítja, az köteles az érintett területen a nádasrehabilitációt – szakértői útmutatás és ellenőrzés mellett – elvégezni. Ha e kötelezettségét nem teljesíti a nádas-rehabilitációra a természetvédelmi hatóság kötelezi.
+
+### 4. §
+
+Az e rendelet szerinti nádgazdálkodásról az ingatlan tulajdonosa, kincstári tulajdon esetében a vagyonkezelő köteles gondoskodni.
+
+## A nádasok minősítése és osztályozása
+
+### 5. §
+
+(1)[^4] A (2) bekezdésben meghatározott nádasokat környezet-, természet- és vízminőség-védelmi szempontból ötévenként, a partvonal-szabályozási és vízpart-rehabilitációs tervek felülvizsgálatát megelőzően minősíteni kell.
+
+(2) A minősítést az alábbi nádascsoportonként kell elkészíteni:
+
+a) *állandóan vízben álló nádas:* a Balaton jogi partvonalán belüli nádasok,
+
+b) *időszakosan vízben álló nádasok:* a Balaton jogi partvonalán belül, valamint a 2. § (1) bekezdés *b)* pontjában meghatározott területen, továbbá magas vízállás esetén víz borította területen található nádasok, melyek jellemzően sásos, gyékényes nádas, elnádasodó magas sás, láp és mocsárrét növénytársulásokból állnak,
+
+c) *természeti területen lévő egyéb nádasok:* bokorfüzes nádasok, nádas ligetek, berki nádasok.
+
+(3) A minősítés tartalmazza:
+
+a) a nádas helyének a megjelölését (településhatár, helyrajzi szám), térképi ábrázolását és területének nagyságát,
+
+b) a nádas típusát, az élőhely jellegének a leírását, valamint a kísérőfajok összetételének, fajgazdagságának bemutatását,
+
+c) a nádas állomány minőségét meghatározó adatokat, a minőségi változások értékelését, valamint okainak feltárását,
+
+d) a javasolt nádgazdálkodási módokat.
+
+(4) E rendelet alapján végzett első minősítéskor az alábbiakat is el kell végezni, melyeket a továbbiakban szükség szerint, de minimálisan 10 évenként felül kell vizsgálni:
+
+a) a nádas környezet-, természet- és vízminőség-védelmi, továbbá gazdasági értékének meghatározását,
+
+b) a vízmennyiségre és vízminőségre vonatkozó adatokat, valamint a talaj- és üledékviszonyok bemutatását.
+
+(5)[^5] Az (1) bekezdésben meghatározott minősítést, a (2)–(4) bekezdésben foglalt egységes szempontok szerint – a működési területével érintett nemzeti park igazgatóság, valamint a működési területével érintett vízügyi igazgatóság közreműködésével – az illetékes területi természetvédelmi hatóság végzi el.
+
+### 6. §
+
+(1) A minősítés alapján a nádas fogalmára való tekintettel, valamint a gazdasági és az ökológiai szempontokat figyelembe véve, az 5. § (2) bekezdése szerinti nádasokat az e rendelet *melléklete* szerinti minőségi osztályokba kell sorolni.
+
+(2)[^6] A minőségi osztályba sorolásról a területi természetvédelmi hatóság dönt.
+
+(3)[^7] A minősítések részletes leírását, továbbá a nádasok 1:10 000 méretarányú térképlapon történt ábrázolását a területi természetvédelmi hatóság okirattárában kell elhelyezni.
+
+(4) Az egyes nádasok minősítésének alapjául szolgáló leírás, a minősítés, továbbá 1:10 000 méretarányú térképlapon történő ábrázolása hatósági nyilvántartásnak minősül.
+
+(5) A minőségi osztályba sorolás eredményét – a minőségi osztály és az ebből fakadó kötelezettségek megjelölésével – a minősítést végző hatóság határozatban közli a nádgazdálkodásra kötelezettel.
+
+(6)[^8]
+
+## A nádgazdálkodás szabályai
+
+### 7. §
+
+(1) Nád telepítését, felújítását, nádas rekonstrukcióját a Balaton vízgyűjtőjéről származó szaporítóanyaggal kell végezni.
+
+(2)[^9] A nádas osztályba sorolásától függetlenül, a vegetációs időszakon kívül – ha a jégviszonyok lehetővé teszik – minden évben a nádasterületet vagy annak meghatározott részét le kell aratni, az aratás a természetvédelmi hatóság engedélyével történik.
+
+(3) A learatott nád a nádas területén kívül, az arra kijelölt helyen tárolható (náddepó). A náddepóból a nádat és a hulladékot az adott év május 15. napjáig el kell szállítani.
+
+(4)[^10] A nádas és más vízinövényzet égetése csak kivételesen, így különösen növény-egészségügyi és természetvédelmi okból – a biztonsági, környezet- és természetvédelmi rendszabályok betartásával – engedélyezhető.
+
+(5)[^11] Nádas és más vízinövények égetését a természetvédelmi hatóság engedélyezi.
+
+(6) A IV. és V. osztályú nádasok megtartásáról, illetve ahol ez lehetséges a helyreállításáról gondoskodni kell.
+
+### 8. §
+
+(1) Védett természeti területeken a 7. §-ban foglaltakat jogszabályban, illetőleg a védett természeti terület kezelési tervében foglalt eltéréssel, továbbá a természetvédelmi hatóság engedélyével kell folytatni.
+
+(2)[^12] Természeti területen a nádgazdálkodással kapcsolatos, valamint egyéb tevékenység – a nádas minőségétől függetlenül – csak a természetvédelmi hatóság engedélyével végezhető, kivéve ha a tevékenység olyan engedélyhez kötött, amelyhez a természetvédelmi hatóság szakhatósági hozzájárulása szükséges vagy az engedélyezési eljárásban természetvédelmi szakkérdés vizsgálata van előírva.
+
+(3) A védett természeti területen végzett munkához csak a természetvédelmi hatóság által kijelölt útvonalat szabad használni.
+
+(4) A védett természeti területnek azokon a helyein, ahol védett (fokozottan védett) növények találhatók, a gépi nádaratás, közlekedés tilos. A természetvédelmi hatóság a gépi nádaratást, közlekedést kivételesen engedélyezheti, ha az a természetvédelmi érdekekkel nem ellentétes.
+
+(5) Természetvédelmi indokból – a természetvédelmi hatóság helykijelölése szerint – megfelelő nagyságú, 1–3 éves (avas) nádasokat kell hagyni, amelyek csak vágásforgószerűen arathatók.
+
+### 9. §[^13]
+
+## Záró rendelkezések
+
+### 10. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
+
+(2)[^14]
+
+(3)[^15] E rendelet alkalmazásában természetvédelmi hatóság helyi jelentőségű védett természeti terület esetén a települési önkormányzat jegyzője.
+
+(4)[^16]
+
+(5)[^17]
+
+### 11. §[^18]
+
+## Melléklet a 22/1998. (II. 13.) Korm. rendelethez
+
+**A nádasok minőségi osztálya**
+
+*a) I. osztály*
+
+*aa)* Egészséges, fejlődési ciklusuk érett és juvenilis fázisában lévő, zárt, homogén állományok, amelyekben az egyéb fajok szám- és tömegaránya 10% alatti, illetve egyes szubdomináns fajok (keskeny- és széleslevelű gyékény, telelősás, káka) nem, vagy alig fordulnak elő (I. A.).
+
+*ab)* Olyan nádas-magassás, nádas-láprét és nádas-mocsárrét állományok, melyek természetes fajgazdagsága nagy, nem gyomosodottak, bennük a nád tömegaránya a 20% alatti (I. B.).
+
+Ennek megfelelően gazdasági értékük kiváló; továbbá a környezetre és a vízminőségre védőhatást gyakorolnak, természetvédelmi értékük kiváló.
+
+*b) II. osztály*
+
+*ba)* Egészséges nádtömbök, amelyekben az érett fejlődési fázisú állományrészek mellett az elöregedés jelei kismértékű felritkulásban, juvenilis szegélyek hiányában mutatkoznak. Egyes szubdomináns fajok gyakrabban előfordulnak, de nem veszik át az állományalkotó, meghatározó szerepet (II. A.).
+
+*bb)* A termőhelyi viszonyok kedvezőtlen változásaira az eredeti társulásszerkezet megbomlásával, elgyomosodás kezdeti tüneteivel reagáló nádas-magassás, nádas-láprét és nádas-mocsárrét állományok (II. B.).
+
+Gazdasági értékük jó; illetve természet- és környezetvédelmi értékük jó.
+
+*c) III. osztály*
+
+*ca)* Egyrészt többé-kevésbé homogén és zárt, többségében elöregedő állományok, amelyekben az egyéb fajok aránya 20–25%, szórványosan szubdomináns fajok állományai, fűzbokrok, létesítmények nehezítik a nádaratást, a detrituszfelhalmozódás övezetében gyomosodnak (III. A.).
+
+*cb)* Olyan nádas-magassás, nádas-láprét és nádas-mocsárrét állományok, amelyek kiszáradás, bolygatás hatására gyomosodnak (III. B.).
+
+Gazdasági értékük közepes; környezetvédelmi szerepük változó, esetleg környezetterhelők; természetvédelmi értékük változó, rekettyefűz és védett lágyszárú fajokkal kiemelkedő, egyedileg meghatározandó.
+
+*d) IV. osztály*
+
+*da)* Jelentős vízfelületekkel tagolt, elöregedő, szubdomináns fajokkal nagy területen és tömegarányban berakódott nádasok (IV. A.).
+
+*db)* Valamint a kiszáradást, tápanyagdúsulást és bolygatást jelző gyomfajok uralta nádas-magassás, nádas-mocsárrét állományok (IV. B.).
+
+Gazdasági értékük gyenge, kivéve, ha gyékény- vagy sásaratás a cél; vízminőség- és környezetvédelmi szerepük korlátozott, gyakran elhalt szervesanyag-törmelék és hulladék felhalmozódási zugai; illetve gyomfajok és kártevők, kórokozók gócai. Ösvények, utak, pallók, vízi állások sűrűn tagolják, elfüzesedés előrehaladott állapotában lehetnek.
+
+*e) V. osztály*
+
+*ea)* Elöregedett, pusztuló nádasok, a megújulás jelei nélkül, ahol a vízfelület aránya többszörösen meghaladja a növényzetét, vagy nád helyett gyékény, káka, vagy szárazulattá válás folyamán sás uralkodik (V. A.).
+
+*eb)* A gyomnövényzet a környezetre kifejezetten veszélyes módon dominál, az eredeti társulásszerkezetek tönkrementek, az eredeti fajgazdagság megszűnt (V. B.).
+
+Előrehaladott ligetesedés, cserjésedés figyelhető meg. Gazdasági értékük nincs, sőt szanálásuk, rekonstrukciójuk ráfordítást igényel, természetvédelmi értékük változó, általában alacsony.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 136. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^2]: A 3. § (4) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (1) bekezdésével megállapított, az 527/2013. (XII. 30.) Korm. rendelet 8. §-a, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^3]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 137. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^4]: Az 5. § (1) bekezdése a 376/2010. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 5. § (5) bekezdése a 376/2010. (XII. 31.) Korm. rendelet 2. §-ával megállapított, a 300/2011. (XII. 22.) Korm. rendelet 30. § l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^6]: A 6. § (2) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdése a 340/2004. (XII. 22.) Korm. rendelet 10. §-ának (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^8]: A 6. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 137. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^9]: A 7. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 136. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^10]: A 7. § (4) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 40. §-ával megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^11]: A 7. § (5) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 40. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 136. §-a, a 70/2015. (III. 30.) Korm. rendelet 30. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^13]: A 9. §-t a 152/2007. (VI. 26.) Korm. rendelet 12. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^14]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1293. pontja hatályon kívül helyezte.
+[^15]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^16]: A 10. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 137. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^17]: A 10. § (5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1293. pontja hatályon kívül helyezte.
+[^18]: A 11. §-t a 376/2010. (XII. 31.) Korm. rendelet 3. §-a iktatta be, hatályát vesztette a (2) bekezdés alapján.

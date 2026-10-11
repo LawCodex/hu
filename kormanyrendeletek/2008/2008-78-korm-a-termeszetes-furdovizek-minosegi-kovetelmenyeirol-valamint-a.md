@@ -1,0 +1,853 @@
+---
+title: "78/2008. (IV. 3.) Korm. rendelet a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről"
+identifier: "78/2008. (IV. 3.) Korm. rendelet"
+njt_id: "2008-78-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/78"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-04-03
+in_force_from: 2009-10-01
+last_amended: 2025-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-78-20-22"
+retrieved: 2026-10-12
+---
+
+# 78/2008. (IV. 3.) Korm. rendelet a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről
+
+A vízgazdálkodásról szóló 1995. évi LVII. törvény 45. §-a (7) bekezdésének b) és k) pontjaiban, valamint a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § a) pontjában foglalt felhatalmazás alapján – az Alkotmány 35. § (1) bekezdésének b) pontjában foglalt feladatkörében eljárva – a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya – a (2) bekezdésben foglalt kivétellel – a természetes fürdővizekre terjed ki.
+
+(2) E rendelet hatálya nem terjed ki a külön jogszabály szerinti medencés közfürdőre, a gyógyfürdőre, valamint olyan mesterségesen létesített vízterekre, amelyek nincsenek összeköttetésben sem felszíni, sem felszín alatti vizekkel.
+
+## Fogalommeghatározások
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a)[^1] *természetes fürdővíz:* a felszíni vizek minden olyan eleme, amelyek használatát a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) fürdési célra engedélyezte (a továbbiakban: fürdővíz), és amelyre nem áll fenn a fürdés állandó hatósági tilalma;
+
+b) *természetes fürdőhely:* fürdési célra engedélyezett víz és a hozzá tartozó vízparti terület (a továbbiakban: fürdőhely);
+
+c) *fürdőhely üzemeltetője:* a fürdőhely tulajdonosa vagy akire a tulajdonos az e rendeletben meghatározott kötelezettségek teljesítését írásbeli megállapodásban átruházta;
+
+d) *védőterület:* a fürdőhely területét övező, a víz minőségének megóvása érdekében meghatározott szárazföldi terület és vízfelszín;
+
+e)[^2] *fürdési idény:*
+
+ea) a kormányhivatal határozatában megállapított, az év azon két napja közötti legalább 8 hétig tartó egybefüggő időszak, amikor napi átlagban legalább 100 fő fürdőzőre lehet számítani, vagy
+
+eb) üzemeltetett fürdőhely esetében az átlagos napi fürdőzőszámra tekintet nélkül a fürdőhely üzemeltetője által kérelmezett és a kormányhivatal határozatában megállapított időszak;
+
+f) *szennyezés:* az 1. melléklet „A” oszlopában meghatározott mikrobiológiai szennyező anyag vagy más olyan élőlény vagy hulladék jelenléte, amely kihat a fürdővizek minőségére és veszélyezteti a fürdőzők egészségét;
+
+g) *rövid távú szennyezés:* az 1. melléklet „A” oszlopában meghatározott mikrobiológiai szennyezés, amelynek egyértelműen azonosítható okai vannak és amely a fürdővíz minőségét a szennyezés bekövetkeztétől számított legfeljebb 72 óránál tovább nem befolyásolja, valamint amelynek az előrejelzésére és kezelésére a 2. mellékletben meghatározott eljárások vonatkoznak;
+
+h)[^3] *rendkívüli helyzet:* olyan, átlagosan négyévenként egynél többször nem várható esemény vagy események kombinációja, amelyek az adott helyen károsan hatnak ki a fürdővíz minőségére;
+
+i) *fürdővízprofil:* a fürdővíz olyan jellemzése, amely a fürdővízzel kapcsolatos egészségkárosító hatást előidézhető szennyezési forrásokra és szennyezési okokra, valamint ezek értékelésére terjed ki;
+
+j) *fürdővíz-minőségi adatsor:* az 1. mellékletnek és a 6. mellékletnek megfelelően beszerzett adatok;
+
+k) *a fürdővíz-minőség értékelése:* a fürdővizek minőségének a 2. mellékletben meghatározott értékelési eljárás útján történő kiértékelése;
+
+l) *cianobaktérium burjánzás:* a cianobaktériumok vízvirágzása vízszíneződés vagy hab formájában való felszaporodása;
+
+m) *makrofiton:* magasabbrendű vízinövények;
+
+n) *fitoplankton:* vízben lebegő alacsonyrendű növényi szervezetek összessége.
+
+## A fürdővíz használatának engedélyezése
+
+### 3. §
+
+(1)[^4] Ha a kormányhivatal illetékességi területéhez tartozó felszíni vizekben a fürdőzők számának napi átlaga legalább 8 egybefüggő naptári héten várhatóan meghaladja a 100 főt, valamint megvannak a fürdőzés e rendelet szerint szükséges közegészségügyi követelményei, a kormányhivatal – hivatalból indított eljárásban – minden év május 1. napjáig
+
+a) dönt a fürdővíz fürdési célú használatának (a továbbiakban: fürdővíz használat) engedélyezéséről,
+
+b) megjelöli a fürdési idény tartamát,
+
+c) meghatározza a fürdővíz minőségének ellenőrzését szolgáló mintavételeknek a 7. § (2) bekezdése alapján kialakított ütemtervét,
+
+d) kijelöli a 3. melléklet szerinti védőterületet.
+
+(2)[^5] Ha a fürdőzésnek az e rendelet szerint szükséges közegészségügyi követelményei hiányoznak, a kormányhivatal elrendeli a fürdőzés tartós tilalmát, amely egy teljes fürdési idény időtartamára érvényes.
+
+(3)[^6] Az engedélyezett fürdővízben a fürdővizek minőségének ellenőrzésére szolgáló mintavételi ütemtervet a kormányhivatal akkor is meghatározza, ha a vízminőséggel összefüggésben tartós fürdési tilalmat rendel el.
+
+(4)[^7] A kormányhivatal illetékességi területéhez tartozó azon természetes fürdőhelyek esetén, amelyeknél a fürdési idény tartama a naptári évvel egyező, továbbá a fürdőzők számának napi átlaga legalább 8 egybefüggő naptári héten várhatóan meghaladja a 100 főt, valamint megvannak a fürdőzés e rendelet szerint szükséges közegészségügyi követelményei, a kormányhivatal – hivatalból indított eljárásban –
+
+a) dönt a fürdővízhasználat engedélyezéséről,
+
+b) kijelöli a 3. melléklet szerinti védőterületet.
+
+(4a)[^8] A fürdővíz minőségének ellenőrzését szolgáló mintavételek ütemterve évente kerül a kormányhivatal által jóváhagyásra, melyet a tárgyév január 1-ig szükséges benyújtani a kormányhivatalhoz.
+
+(5) A kijelölt védőterület határait jól látható figyelmeztető táblákkal kell megjelölni és ott a külön jogszabályban meghatározott korlátozásokat be kell tartani.
+
+(6)[^9] Folyóvizeknél – a fürdőhely folyásirány szerinti felső határa feletti szakaszán, a fürdési idényben előforduló legkisebb vízhozam mellett – a 3. mellékletben foglalt ajánlott szennyvíz-bevezetési távolságokat indokolt esetben az illetékes vízvédelmi hatóság kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján módosíthatja.
+
+(7)[^10]
+
+### 3/A. §[^11]
+
+A 3. § (4) bekezdése szerinti fürdőhelyek fürdővízhasználatra vonatkozó engedélye határozatlan időre szól. Új eljárást kell lefolytatni, ha a fürdőhely területe, üzemeltetője vagy üzemvitele módosul.
+
+## A fürdőhely kijelölése
+
+### 4. §
+
+(1)[^12] A vízparti terület tulajdonosának kérelmére a kormányhivatal fürdőhely kijelölési eljárást folytat le, melynek keretében dönt az üzemeltetni kívánt fürdőhely kijelöléséről és a 3. § (1) bekezdésének b)–d) pontjaiban foglaltakról. A kérelmet a fürdőhely üzemeltetésének tervezett megindítása előtt legalább 30 nappal kell benyújtani a kormányhivatalnak.
+
+(2) A fürdőhely kijelölésének nem szükséges feltétele a napi átlagban legalább 100 fő fürdőzőszám várható teljesülése bármely fürdésre kedvező időszakban.
+
+(3)[^13]
+
+(4)[^14] A kijelölés folyóvízen és állóvízen egyaránt visszavonásig hatályos. Folyóvízen kérelemre új eljárást kell lefolytatni, ha a kijelölt fürdőhely területe, üzemeltetője, vagy üzemvitele módosul.
+
+(5) A tartós fürdési tilalom elrendeléséhez a 3. § (2)–(3) bekezdésében foglaltak megfelelően irányadók.
+
+## A fürdővíz használata engedélyezésének, illetve a fürdőhely kijelölésének eljárási szabályai
+
+### 5. §
+
+(1)[^15] A fürdőhely kijelölését megelőzően a kormányhivatal helyszíni szemlét tart a szakhatóságok, a fürdőhely fekvése szerint illetékes települési önkormányzat jegyzője (a továbbiakban: jegyző) és a fürdőhely kijelölését kérelmező részvételével. A fürdővíz használatának engedélyezését megelőzően a kormányhivatal helyszíni szemlét tart a szakhatóságok és a fürdővíz fekvése szerint illetékes jegyző részvételével. A szakhatóságok az állásfoglalásukat a helyszíni szemle keretében vagy az azt követő tizenöt napon belül adják meg.
+
+(2) A helyszíni szemle során vizsgálni kell a fürdővíz és a hozzá tartozó terület alkalmasságát, beleértve a fürdővíz korábbi minősítések szerinti, illetve új fürdővíz esetén legalább a 9. § (5) bekezdésének b) pontja szerinti minőségét, és annak megfelelősége esetén meg kell állapítani
+
+a) a fürdővíz, illetve fürdőhely határait, valamint a megjelölésükre szolgáló eszközök számát és elhelyezésük módját,
+
+b) a minőségellenőrzés céljára szolgáló, a 7. § (4) bekezdéssel összhangban levő mintavételi pontot,
+
+c) a mély víz megjelölésére szolgáló eszközök számát,
+
+d) azt a vízállástartományt, amelynél a fürdőhely üzemeltethető.
+
+(3)[^16] A kormányhivatal a fürdővíz használatát akkor engedélyezi, illetve a fürdőhelyet akkor jelöli ki, ha a fürdővíz minősége – a 9. §-ban foglaltak szerint – legalább „tűrhető”. Fürdőhelyet a kormányhivatal akkor jelöl ki, ha ezen túlmenően a fürdőhely az üzemeltetésre vonatkozó közegészségügyi előírásoknak megfelel. A fürdőhelyek üzemeltetésére vonatkozó részletes szabályokat a 7. melléklet tartalmazza.
+
+(4) A fürdőhely üzemeltetője a 4. § (1) bekezdése szerinti kérelemmel egyidejűleg benyújtja a 7. melléklet alapján elkészített üzemeltetési szabályzatot. Az üzemeltetési szabályzatnak a fürdőhely szakszerű és biztonságos üzemeltetésével kapcsolatos részletes műszaki, technológiai, biztonságtechnikai, környezetvédelmi és egészségügyi előírásokat kell tartalmaznia.
+
+(5) A védőterületen az ott keletkezett szennyvizet kizárólag közcsatornára kötött vagy zárt rendszerű szennyvízgyűjtőben szabad elhelyezni.
+
+(6)[^17] A védőterületen előforduló szennyeződés vagy annak veszélye esetén az üzemeltető haladéktalanul bejelentést tesz a területileg illetékes vízvédelmi hatóságnál, amely erről haladéktalanul tájékoztatja a kormányhivatalt.
+
+(7) A fürdővíz, illetve a fürdőhely megjelölésére szolgáló eszközök leírását a 4. melléklet tartalmazza.
+
+## Fürdővízprofil
+
+### 6. §
+
+(1)[^18] A kormányhivatal – hivatalból indított eljárásban – minden fürdővíz profilját megállapítja az 5. mellékletben foglalt előírásoknak megfelelően. Egy fürdővízprofil vonatkozhat egy vagy több összefüggő fürdővízre.
+
+(2) A fürdővízprofilokat az 5. mellékletben előírtaknak megfelelően rendszeresen felül kell vizsgálni és frissíteni kell.
+
+(3) A fürdővízprofilok elkészítése, felülvizsgálata és frissítése során fel kell használni az adott felszíni vízre vonatkozó, egyéb jogszabályok rendelkezései szerint végzett ellenőrzések és értékelések e jogszabály teljesítése szempontjából érdemi adatait is.
+
+(4)[^19] Ha a fürdővízprofil a vízminőség hosszabb távú romlási trendjét vagy cianobaktériumok, illetve makroalgák elszaporodási tendenciáját mutatja, a kormányhivatal – szükség szerint – megteszi az alábbi intézkedéseket:
+
+a) meghatározza a felmerülő egészségkockázatot és az elfogadhatóságot,
+
+b) feltárja és megszünteti az okokat, valamint
+
+c) tájékoztatja a nyilvánosságot.
+
+Az eljárás során a kormányhivatal a helyi viszonyok megismerése érdekében a jegyzőt szakértőként igénybe veheti.
+
+## Mintavétel és laboratóriumi vizsgálat
+
+### 7. §
+
+(1)[^20] A fürdővíz minőségellenőrzését szolgáló mintavételi ütemtervhez tartozó mintavételek és laboratóriumi vizsgálatok elvégzéséről a kormányhivatal gondoskodik, üzemeltetett fürdőhely esetében erről – a (7) bekezdésben foglalt eltéréssel – a fürdőhely üzemeltetője saját költségére gondoskodik.
+
+(2)[^21] A fürdővíz-mintavételeket a kormányhivatal által a 3. § (1) és (4) bekezdése, valamint a 4. § (1) bekezdése szerint meghatározott minőségellenőrzési ütemterv szerint kell elvégezni. Az egyes mintavételeket legkésőbb az ütemtervben meghatározott időpontot követő 4 napon belül kell elvégezni. Az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd további, legalább 3 mintát kell venni a fürdési idény folyamán, azzal, hogy az egyes mintavételek között nem telhet el egy hónapnál hosszabb idő.
+
+(2a)[^22] A (2) bekezdésben foglaltaktól eltérően olyan fürdővíz esetében, amelynél a fürdési idény tartama a naptári évvel egyezik meg, az első mintavételre legfeljebb 3 héttel a fürdési idény kezdete előtt sort kell keríteni, majd ezt követően havonta legalább egy alkalommal szükséges mintát venni.
+
+(3) Olyan fürdővíz esetében, amelynél a fürdési idény nem hosszabb 8 hétnél, elegendő összesen 3 mintát venni.
+
+(4) A mintákat az átlagosan legnagyobb fürdési forgalom helyén vagy a 6. § szerinti fürdővízprofil alapján várható legnagyobb szennyezési veszély helyén, legalább 1 méteres vízmélységnél, a vízfelület alatt 30 cm-rel kell venni. A minták vizsgálatának legalább az 1. mellékletben megjelölt 1. és 2. paraméterekre kell kiterjednie.
+
+(5) A rövid távú szennyezések fennállása alatt vett minták figyelmen kívül hagyhatók. Ilyen esetben további mintát kell venni annak megerősítésére, hogy az esemény lezajlott. Ez a minta nem képezi részét a fürdővíz minőségi adatsorának. Ha a figyelmen kívül hagyott minta helyett egy másikra van szükség, pótmintát kell venni 7 nappal a rövid távú szennyezés befejeződését követően.
+
+(6) Rendkívüli helyzet fennállása alatt a minőségellenőrzési ütemterv végrehajtása felfüggeszthető. A minőségellenőrzési ütemterv végrehajtását a rendkívüli helyzet megszűnését követő legrövidebb időn belül folytatni kell. A rendkívüli helyzet miatt hiányzó minták pótlására, annak megszűnését követő legrövidebb időn belül új mintát kell venni.
+
+(7)[^23] Az (5)–(6) bekezdések esetében az előre lefektetett minőségellenőrzési ütemterven kívül vett minták és paraméterek vizsgálatáról a kormányhivatal gondoskodik a költségvetési kerete terhére.
+
+### 8. §
+
+(1) Az e rendelet szerinti minőség-ellenőrzés célját szolgáló akkreditált mintavétel helyszíni szemlével egybekötve történik, amelynek ki kell terjednie a kátránymaradék, üveg, műanyag, gumi vagy egyéb hulladék előfordulásának, valamint fitoplanktonok és makrofiták burjánzásának megállapítására is. A szemle eredményét a vizsgálati jegyzőkönyvben rögzíteni kell.
+
+(2) Ha a korábbi tapasztalatok, vagy a fürdővíz-profil cianobaktérium burjánzás lehetőségét jelzi, a helyszíni szemle kiterjed a cianobaktérium burjánzás helyszíni vizsgálatára is. A helyszíni szemle során a cianobaktérium kockázat értékelését az 1. mellékletben megadottak szerint kell elvégezni.
+
+(3)[^24] Ha a helyszíni szemle alapján a cianobaktérium burjánzással összefüggésben egészségügyi kockázat megállapítható vagy valószínűsíthető, a kormányhivatal hivatalból vagy a fürdőhely üzemeltetőjének bejelentésére haladéktalanul intézkedik a további a cianobaktérium burjánzással összefüggő egészségügyi kockázatot feltáró vizsgálatokra (fitoplankton analízis, cianobaktérium sejtszám meghatározás, klorofill kimutatás) irányuló mintavétel és vizsgálat megszervezése céljából. A mintát ilyen vizsgálatokra akkreditált laboratóriumba kell eljuttatni azzal, hogy a vizsgálatra legkésőbb 36 órán belül sor kerüljön.
+
+(4) Ha a (3) bekezdés szerint elrendelt vizsgálatok eredménye a cianobaktérium burjánzással összefüggő egészségügyi kockázat megerősítését (az 1. melléklet 3. és 4. paraméterének a 2. melléklet szerinti értékelés alapján egyaránt kifogásolt vízminőséget) eredményezi, és a cianobaktérium fajösszetétele alapján a microcystin termelés valószínűsíthető, a mintából el kell végeztetni a cianobaktérium toxin analízis (1. melléklet 5. paraméter) vizsgálatát is.
+
+(4a)[^25] Az (1) bekezdésben felsorolt vízszennyező anyagok jelenlétének észlelése esetén a kormányhivatal az ezt rögzítő jegyzőkönyv kézhezvételét követően azonnal megteszi a megfelelő intézkedéseket, beleértve a jegyző és a nyilvánosság tájékoztatását.
+
+(5)[^26] A fürdővíz minőségére vonatkozó minták kezelése és vizsgálata az 1. mellékletben megjelölt módszerekkel, a 6. mellékletben megjelölt szabályok szerint történik. Ezektől eltérő módszerek is alkalmazhatók, amennyiben az így nyert eredmények egyenértékűek az 1. mellékletben meghatározott módszerekkel, illetve a 6. mellékletben megjelölt szabályok alkalmazásával kapott eredményekkel. Az eltérő módszer alkalmazását a Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) szakvéleménye alapján a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) engedélyezi és az engedélyt a honlapján közzéteszi.
+
+(6)[^27] Ha valamely helyszíni szemle vagy laboratóriumi vizsgálat eredménye alapján a fürdővíz jelentős vagy tartós minőségromlása vagy ennek lehetősége megállapítható, a kormányhivatal kezdeményezi további vizsgálat elvégzését.
+
+## Fürdővízminőség értékelése és a fürdővizek osztályozása
+
+### 9. §
+
+(1)[^28] A 7–8. § szerint elvégzett fürdővíz vizsgálatok eredményeit a kormányhivatal az NNGYK szakmai javaslatát figyelembe véve minden fürdővízre, minden fürdési idényt követően értékeli
+
+a) a 2. mellékletben részletezett eljárással,
+
+b) az 1. melléklet „A” oszlopa szerinti 1. és 2. paramétereknek az aktuális, és a három megelőző fürdési idény során elvégzett vizsgálatán alapuló fürdővíz minőségi adatsor felhasználásával.
+
+(2) A fürdővíz minőségének értékelése külön kitér a cianobaktérium burjánzással összefüggő egészségügyi kockázatnak az utolsó fürdési idény során észlelt mértékére.
+
+(3) A fürdővizek minőségének értékeléséhez használt adatsoroknak legalább 16 mintára, illetve a 7. § (3) bekezdése szerinti fürdővizek esetében legalább 12 mintára kell kiterjedniük.
+
+(4) Négynél kevesebb fürdési idény vizsgálati adatsorával is elfogadható olyan fürdővíz minőségének értékelése, amelyre a (3) bekezdés követelménye teljesül vagy, ha a fürdési idény nem haladja meg a 8 hetet, és legalább 8 mintára kiterjedő adatsor áll rendelkezésre, amennyiben:
+
+a) a fürdővizet újonnan azonosították, vagy
+
+b) olyan változások következtek be, amelyek valószínűsíthetően befolyásolják a fürdővíz 2. melléklet szerinti osztályba sorolását, ez esetben az értékelést csak a változásokat követően vett mintákra vonatkozó fürdővíz-minőségi adatsorokból kell elvégezni.
+
+(5)[^29] A fürdővizeket minőségüknek megfelelően – az (1)–(4) bekezdések szerinti értékelés eredményeként és az NNGYK a 15. § (11) bekezdése alapján az Európai Bizottsággal egyeztetett fürdővizekre vonatkozó szakmai javaslata alapján – a kormányhivatal az alábbi osztályokba sorolja be:
+
+a) kifogásolt,
+
+b) tűrhető,
+
+c) jó,
+
+d) kiváló.
+
+(6) Ha a 8. § (2) bekezdésében előírtak alapján nem merült fel az emelkedett cianobaktérium burjánzással összefüggő egészségügyi kockázat, a fürdővíz ebből a szempontból kiváló minősítést kap. Egyéb esetben a kockázat értékelésének alapját az 1. melléklet 3. paraméter értékeinek a táblázatban megadott határértékekhez viszonyított nagysága képezi.
+
+(7)[^30] A kormányhivatal a vízminőségi értékelés alapján
+
+a) a fürdővizeket hivatalból, illetve a kijelölt fürdőhelyeket az üzemeltető kérelmére feloszthatja, vagy
+
+b) az egymással szomszédos, összefüggő fürdővizeket hivatalból, illetve az egymással szomszédos, összefüggő kijelölt fürdőhelyeket az üzemeltető kérelmére összevonhatja, ha
+
+ba) az (5) bekezdés szerinti értékelésük az azt megelőző 4 évben azonos eredményre vezetett, és
+
+bb) a fürdővízprofiljuk közös kockázati tényezőket vagy azok közös hiányát mutatja.
+
+### 10. §
+
+(1)[^31] A fürdővízminőség-értékelés alapján a „kifogásolt” osztályba tartozó fürdővíz esetében – ideértve az ideiglenesen „kifogásolt” minőségűnek osztályozott fürdővizeket is –, az ilyen osztályozást követő első fürdési idénytől kezdődően a kormányhivatal az alábbi intézkedéseket teszi:
+
+a) a fürdőzés tilalmát rendeli el, melyről tájékoztatja a fürdőhely üzemeltetőjét és kötelezi arra, hogy
+
+aa) egyértelmű és egyszerű figyelmeztető jelzéssel felhívja a nyilvánosság figyelmét a nem megfelelő vízminőségre,
+
+ab) tájékoztassa a nyilvánosságot a szennyezés okairól és az intézkedések megtételének elrendeléséről,
+
+b) a helyi viszonyok megismerése érdekében a jegyző szükség szerinti szakértőként történő igénybevételével megállapítja a „kifogásolt” minőségi állapotra vezető okokat, valamint megteszi a szennyezés okainak megelőzését, csökkentését, vagy megszüntetését célzó, hatáskörébe tartozó intézkedéseket.
+
+(2)[^32] Az (1) bekezdésben felsorolt intézkedéseket azonnal meg kell tenni, amennyiben a kormányhivatal olyan rendkívüli eseményről szerez tudomást, amely a fürdőzők egészségét, illetve a fürdővizek minőségét ténylegesen vagy várhatóan veszélyezteti.
+
+(3)[^33] A kormányhivatal a fürdőhely üzemeltetőjét és a nyilvánosságot – a 11. § (2) bekezdése szerinti tájékoztatáson túl – közérthető módon tájékoztatja az emelkedett cianobaktérium burjánzással összefüggő egészségügyi kockázatra utaló vizsgálati eredményekről és a kockázattal kapcsolatban javasolt intézkedésekről, különös tekintettel a cianobaktériumra különösen érzékeny személyek ajánlott magatartására.
+
+(4) A 9. § (1) bekezdése szerinti értékelés alapján több évre visszamenőleg a „kifogásolt” osztályba sorolt fürdővízre legkésőbb az első ilyen besorolást követő öt év elteltével állandó fürdési tilalmat kell bevezetni. Az állandó fürdési tilalom az ötéves időszak letelte előtt is bevezethető, ha nem biztosítható a legalább „tűrhető” vízminőség vagy annak költségei aránytalanul nagyok.
+
+(5)[^34] A kormányhivatal dönt a fürdőzés (4) bekezdés szerinti állandó tilalmáról.
+
+(6)[^35] Ha – a 7. § (5) bekezdése szerint figyelmen kívül hagyható mintákat kivéve – bármely fürdővízmintában
+
+a) a fekális enterococcusok száma meghaladja az 500/100 ml-t, vagy
+
+b) az Escherichia coli száma meghaladja az 1500/100 ml-t, vagy
+
+c)[^36] az 1. melléklet 3–5. paramétereinek értékei egyaránt meghaladják a tűrhető vízminőségre előírt határértékeket,
+
+a járási népegészségügyi intézet a fürdőhely üzemeltetésének szüneteltetését haladéktalanul elrendeli.
+
+(7) A (6) bekezdésben foglalt intézkedés irányadó akkor is, ha a fürdőhely üzemeltetése nem felel meg az e rendeletben foglalt feltételeknek.
+
+(8)[^37] A vízminőség helyreállításához szükséges intézkedések eredménytelensége esetén a kormányhivatal a fürdővíz-használati engedélyt visszavonja.
+
+(9) A fürdőhely üzemeltetésének a 9. § (1) bekezdése szerinti értékelésen alapuló, vízminőségi okokból elrendelt tilalmát csak akkor lehet feloldani, illetve új fürdőhelyen a fürdőzést csak akkor lehet engedélyezni, ha két egymást követő vizsgálat legfeljebb 330/100 ml fekális enterococcus-számot és 900/100 ml Escherichia coli számot eredményez, illetve, ha az emelkedett cianobaktérium kockázatnak a 8. § (2) bekezdése vagy (3) bekezdése szerinti vizsgálattal megállapítható jelei nem állnak fenn.
+
+(10) A 9. § (1) bekezdése szerinti értékelésen alapuló, vízminőségi okokból elrendelt fürdési tilalom feloldásához szükséges vizsgálatok – amennyiben a minőségellenőrzési ütemtervben meghatározottól eltérő időpontban vett mintákból történnek – nem képezik részét a fürdővízminőség értékelésére szolgáló adatsornak.
+
+## Nyilvánosság tájékoztatása
+
+### 11. §
+
+(1)[^38] A helyszíni szemle és a vizsgálatok eredményét az azokat végző laboratórium haladéktalanul, de legkésőbb a vizsgálatok befejezését követő 24 órán belül – a hét utolsó munkanapján kapott eredményeket a következő hét első munkanapján – megküldi a fürdőhely üzemeltetőjének, a megyei kormányhivatalnak, valamint az NNGYK-nak értékelés és a nyilvánosság tájékoztatása céljából.
+
+(2)[^39] A fürdővíz minőségére vonatkozó adatok közérdekűek. A nyilvánosság fürdővizekkel kapcsolatos tájékoztatását a (3)–(9) bekezdések alapján kell biztosítani. A víz minőségéről és annak az egészségre gyakorolt hatásáról – kérelemre – a megyei kormányhivatal felvilágosítást ad.
+
+(3)[^40] A kormányhivatal elrendeli a fürdési tilalom alá eső fürdővizek fürdést tiltó táblával történő megjelölését.
+
+(4) A jegyző a helyben szokásos módon minden évben tájékoztatja a lakosságot
+
+a) az engedélyezett fürdővizekről,
+
+b) a kijelölt fürdőhelyekről,
+
+c) a fürdési tilalom elrendeléséről,
+
+d) a fürdési tilalom feloldásáról.
+
+(5)[^41] A fürdést tiltó tábla elhelyezéséről, karbantartásáról és eltávolításáról engedélyezett fürdővíz esetében a kormányhivatal gondoskodik, kijelölt fürdőhely esetében az üzemeltető, ennek elmulasztása esetén a kormányhivatal – az üzemeltető költségére – intézkedik.
+
+(6) A fürdőhely üzemeltetője a 3. mellékletben foglaltak szerint köteles a védőterület határait megjelölni.
+
+(7)[^42] Minden fürdővízre vonatkozóan évente, amint az információ rendelkezésre áll, és a fürdési idény teljes időtartama alatt, a fürdővizek 300 méteres körzetén belül, a fürdőzők számára jól megközelíthető és látható módon, engedélyezett fürdővíz esetében a kormányhivatal, kijelölt fürdőhely esetében az üzemeltető hozzáférhetővé teszi:
+
+a) a fürdővíz aktuálisan érvényes osztályba sorolását,
+
+b) az esetleges fürdőzési tilalmat világos és egyszerű jelzés vagy jelkép segítségével,
+
+c) a fürdővíz általános, műszaki szakkifejezésektől mentes leírását az 5. melléklet szerint elkészített fürdővízprofil alapján,
+
+d) a rövid távú szennyezésnek kitett fürdővizek esetében
+
+da) tájékoztatást arról, hogy a fürdővíz rövid távú szennyezésnek van kitéve,
+
+db) azon napok számának megjelölését, amelyeken az előző fürdési idény alatt, a rövid távú szennyezés miatt a fürdőzés meg volt tiltva,
+
+dc) az ilyen szennyezés valószínűsíthető vagy ténylegesen bekövetkezésére vonatkozó figyelmeztetést,
+
+e) rendkívüli helyzet előfordulása esetén tájékoztatást annak jellegéről és várható időtartamáról,
+
+f) a fürdőzés megtiltása esetén a fürdőzők erről szóló tájékoztatását az indokok megjelölésével,
+
+g) állandó fürdőzési tilalom bevezetése esetén annak szerepeltetését, hogy az érintett terület többé nem minősül fürdővíznek, a visszaminősítés indokainak megjelölésével,
+
+h) a fürdővízzel kapcsolatos teljes körű információ hozzáférésének módját (pl. honlap megjelölése).
+
+(8) A (7) bekezdés a)–g) pontjaiban foglalt információt az üzemeltető kérésére a 13. §-ban megjelölt Bizottság az üzemeltető rendelkezésére bocsátja.
+
+(9)[^43] A megyei kormányhivatal a megfelelő helyi médiában, valamint a honlapján – indokolt esetben több nyelven is – minden évben, amint az rendelkezésre áll, közzéteszi az illetékességi területét érintően:
+
+a) a nyilvántartott fürdővizek listáját,
+
+b) minden egyes fürdővíz elmúlt három évre vonatkozó osztályozását és fürdővíz-profilját, ideértve az utolsó osztályozást követően végzett minőségellenőrzés eredményeit,
+
+c) a „kifogásolt” osztályba sorolt fürdővizek esetén a szennyezés okainak megszüntetésére és a fürdőzők szennyezés expozíciójának megakadályozására, valamint a szennyezés elhárítására tett – a 10. § (1) bekezdésében foglalt – intézkedéseket,
+
+d) rövid távú szennyezésnek kitett fürdővizek esetén általános tájékoztatást:
+
+da) azokról a körülményekről, amelyek feltehetőleg rövid távú szennyezéshez vezetnek,
+
+db) a szennyezés előfordulásának valószínűségéről és valószínűsíthető időtartamáról,
+
+dc) a szennyezés okairól,
+
+dd) a szennyezés okainak elhárítására és a fürdőzők expozíciójának megakadályozására tett intézkedésekről.
+
+(10)[^44] A megyei kormányhivatal a (9) bekezdés b)–d) pontjaiban foglalt információt amint az rendelkezésre áll, de legkésőbb minden év december 15-éig teszi közzé.
+
+(11)[^45] Az országos tisztifőorvos a nyilvántartott fürdővizek és kijelölt fürdőhelyek, valamint a tartós fürdési tilalom alá eső fürdővizek listáját minden fürdési idény kezdete előtt, amint az rendelkezésre áll, de legkésőbb június 15-ig a honlapján közzéteszi.
+
+(12)[^46] A megyei kormányhivatal és az országos tisztifőorvos a honlapján keresztül közérthető módon tájékoztatja a nyilvánosságot
+
+a) az emelkedett cianobaktérium-burjánzással összefüggő egészségügyi kockázatról és a cianobaktériumra különösen érzékeny személyek magatartására vonatkozó ajánlásokról,
+
+b) a makroalgák elszaporodásának tendenciájáról és az ezzel összefüggő egészségügyi kockázatról.
+
+### 11/A. §[^47]
+
+(1)[^48] A kormányhivatal a nyilvánosság számára lehetőséget biztosít az e rendelet végrehajtásában való részvételre – különösen a fürdővizek listájának megállapítására, felülvizsgálatára és frissítésére vonatkozóan – javaslatok, észrevételek és panaszok megtétele útján. A kormányhivatal a nyilvánosság észrevételeinek, javaslatainak fogadását minden elérhetőségén keresztül – beleértve a személyes konzultáció lehetőségét is – biztosítja.
+
+(2)[^49] A kormányhivatal e rendelet végrehajtásakor köteles a nyilvánosságtól megszerzett információt megfelelően figyelembe venni.
+
+(3)[^50] A kormányhivatal a honlapján és a helyi médiában tájékoztatja a nyilvánosságot arról, hogy az e rendelet végrehajtásában milyen módon vehet részt.
+
+(4)[^51]
+
+(5)[^52] A megyei kormányhivatal minden év november 15-éig összesített jelentést küld az országos tisztifőorvosnak a nyilvánosság tájékoztatásával és bevonásával kapcsolatos tapasztalatairól és intézkedéseiről.
+
+## Fürdővízminőség felügyelet
+
+### 12. §
+
+(1) A fürdővízminőség felügyelet a fürdővizekkel kapcsolatos alábbi intézkedések összessége:
+
+a) a fürdővízprofilok elkészítése és karbantartása,
+
+b) minőségellenőrzési ütemterv készítése,
+
+c) a fürdővizek minőségének ellenőrzése,
+
+d) a fürdővíz-minőségi adatok gyűjtése, továbbítása és kezelése,
+
+e) a fürdővizek minőségének értékelése,
+
+f) a fürdővizek osztályozása,
+
+g) azon szennyező források meghatározása és értékelése, amelyek hátrányosan befolyásolhatják a fürdővizeket és veszélyeztethetik a fürdőzők egészségét,
+
+h) a nyilvánosság tájékoztatása,
+
+i) a fürdőzők szennyezésnek való kitettségének megelőzését szolgáló lépések megtétele,
+
+j) a szennyezés kockázatának csökkentését szolgáló tevékenység.
+
+(2) A fürdővízminőség felügyelettel kapcsolatos feladatok végrehajtásáért az országos tisztifőorvos felel.
+
+(3)[^53]
+
+(4)[^54] Az országos tisztifőorvos:
+
+a) rendszeresen értékeli a fürdővíz biztonsági helyzetet,
+
+b) javaslatot tesz a fürdővíz biztonság megőrzéséhez, illetve helyreállításához szükséges teendőkre,
+
+c) szakmai ajánlásokat dolgoz ki annak érdekében, hogy a 2015. évi fürdési idény végéig az összes magyarországi fürdővíz elérje legalább a „tűrhető” minősítést és a lehetőségek szerinti mértékben nőjön a „jó” és „kiváló” osztályba tartozó fürdővizek aránya.
+
+(5)[^55] A fürdővizek minőségét érintő határon átnyúló hatások tekintetében az érintett tagállamokkal, illetve az Európai Unió tagjai közé nem tartozó érintett szomszédos államokkal történő együttműködés során a két- és többoldalú vízügyi keretegyezmények jelentik a megfelelő információcsere és az ilyen hatások ellenőrzése érdekében szükséges együttes fellépés keretrendszerét.
+
+(6)[^56] Az országos tisztifőorvos kidolgozza a nyilvánosság fürdővízminőség-felügyeleti feladatok végrehajtásába történő bevonására vonatkozó szakmai ajánlását, különös tekintettel:
+
+a) a nyilvánosság által megfogalmazott észrevételek, javaslatok vagy panaszok fogadásának, nyilvántartásának és megválaszolásának rendjére,
+
+b) az *a)* pont szerinti információ elemzésének és hasznosításának módjára,
+
+c) az *a)* pontban foglaltak megválaszolásának formai és tartalmi követelményeire (beleértve ezek határidejét is).
+
+(7)[^57] Az országos tisztifőorvos kidolgozza a cianobaktérium kockázat esetén javasolt tevékenységekre, illetve intézkedésekre vonatkozó szakmai ajánlásait.
+
+(8)[^58] Az országos tisztifőorvos szakmai ajánlásait és közérdekű tájékoztatásait közzéteszi az ÁNTSZ honlapján.
+
+### 13. §[^59]
+
+(1) A fürdővizek és fürdőhelyek minőségfelügyeleti feladatait a fővárosi és megyei kormányhivatal látja el.
+
+(2)[^60] Az (1) bekezdés szerinti feladat végrehajtását ad hoc regionális fürdővíz-minőségügyi bizottság (a továbbiakban: Bizottság) támogatja. A Bizottság tagjai a fővárosi és megyei kormányhivatal 1-1 népegészségügyi, környezetvédelmi feladatokat ellátó képviselője, a működési terület szerinti vízügyi igazgatóság igazgatója, a területileg illetékes vízvédelmi hatóság vezetője, valamint a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság képviselője, illetve az általuk kijelölt szakértő.
+
+(3) A Bizottság a tárgyalt ügyektől függően tanácskozási joggal a megyei önkormányzat, az általános rendőrségi feladatok ellátására létrehozott szerv és a Nemzetgazdasági Minisztérium által regisztrált turisztikai szervezet képviselőjét és további résztvevőket hívhat meg az ülésére.
+
+### 14. §
+
+(1)[^61] A kormányhivatal minden fürdési idény kezdete előtt, de legkésőbb május 10-éig tájékoztatja az országos tisztifőorvost
+
+a) az illetékességi területükhöz tartozó
+
+aa) engedélyezett fürdővizek,
+
+ab) a kijelölt fürdőhelyek,
+
+ac) tartós fürdési tilalom alá eső fürdővizek
+
+listájáról,
+
+b) minden egyes fürdőhelyre magállapított fürdési idény első és utolsó napjáról,
+
+c) minden egyes fürdővíz mintavételi ütemtervéről,
+
+d) a fürdővíz mintavételre és vízminőség vizsgálatra szerződött laboratóriumok listájáról,
+
+e) a rövid távú szennyezés kockázatának kitett fürdőhelyek listájáról.
+
+(2)[^62] A kormányhivatal a fürdési idény folyamán gondoskodik arról, hogy
+
+a) a fürdővíz jelentős vagy tartós minőségromlására vagy ennek lehetőségére, különösen a fürdőzők egészségi kockázatának növekedésével kapcsolatos bármely rendkívüli helyzetre vonatkozó információ az erről való tudomásszerzést követő 3 órán belül,
+
+b) a 7. § (5) bekezdése szerinti rövid távú szennyezés miatt figyelmen kívül hagyható mintákról szükséges tájékoztatás az erre vonatkozó döntést követő 24 órán belül
+
+az NNGYK-hoz eljusson.
+
+(2a)[^63] A rövid távú szennyezések e rendeletben előírt kezelése érdekében a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság gondoskodik az ilyen szennyezésnek kitett vizeket érintő jelentősebb csapadékesemények lehetőség szerinti előjelzéséről és a legalább 15 mm-es csapadékesemények bekövetkezésének visszaigazolásáról. Az Országos Meteorológiai Szolgálat az előrejelzést és az utólagos tájékoztatást a kormányhivatalnak küldi meg. A rövid távú szennyezési veszélynek kitett fürdővizek listájáról a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaságot az országos tisztifőorvos tájékoztatja.
+
+(2b)[^64] A kormányhivatal intézkedik arról, hogy a rövid távú szennyezésnek kitett fürdőhelyek üzemeltetőihez eljusson az Országos Meteorológiai Szolgálat előrejelzése annak érdekében, hogy az üzemeltetők a fürdőzők tájékoztatására irányuló kötelezettségüknek eleget tehessenek.
+
+(3)[^65] A kormányhivatal
+
+a)[^66] a fürdővízhez tartozó partszakasz tulajdonosaival és a területileg illetékes vízvédelmi hatósággal, valamint szükség esetén más szervezetekkel történt egyeztetés alapján, a felmerülés esedékessége szerint, intézkedik a rövid távú szennyezések előrejelzésének megszervezése érdekében,
+
+b) gondoskodik a figyelmen kívül hagyott minták pótlásáról,
+
+c) meghozza a fürdővizek jelentős vagy tartós minőségromlásával vagy ennek lehetőségével, különösen a fürdőzők egészségi kockázatának növekedésével kapcsolatos bármely rendkívüli helyzet kezeléséhez szükséges intézkedéseket,
+
+d) biztosítja a rendkívüli helyszíni szemlék, mintavételek és vizsgálatok megszervezését és a kialakult helyzet kezeléséhez szükséges egyéb intézmények és érdekelt szervezetek tájékoztatását és bevonását,
+
+e) kedvező vagy kedvezőtlen vízminőség-vizsgálati adatsor alapján a területileg illetékes vízvédelmi hatósággal történt egyeztetést követően felülvizsgálhatja a 3. mellékletben megállapított védőtávolságokat.
+
+## Átmeneti és záró rendelkezések
+
+### 15. §
+
+(1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+(2) A fürdővízprofilokról első alkalommal 2011. március 1-jéig kell határozatot hozni.
+
+(3)[^67] Az e rendelet előírásainak teljesítésével kapcsolatos mintavételeket és laboratóriumi vizsgálatokat akkreditált eljárás keretében 2009. március 24-ét követően kizárólag olyan laboratórium végezheti, amely az NNGYK által szervezett jártassági körvizsgálatokban megfelelő eredményekkel részt vett és teljesíti a 11. § (1) bekezdésében foglaltakat, valamint a Kormányhivatal erre feljogosította. A feljogosítást – kérelemre – a Kormányhivatal adja ki. A feljogosított laboratóriumok listáját a Kormányhivatal közzéteszi. A feljogosítás visszavonásig érvényes. Az e rendeletben foglalt előírások nem teljesítése esetén a visszavonást az engedélyes, az NNGYK vagy a Kormányhivatal kezdeményezheti.
+
+(4)[^68]
+
+(5) A 11. § (7) bekezdésében foglaltakat első alkalommal legkésőbb 2012. március 1-jéig kell hozzáférhetővé tenni.
+
+(6) A 11. § (9) bekezdésében foglaltakat első alkalommal legkésőbb a 2011. évi fürdési idényben kell közzétenni.
+
+(7) A 12. § (6) bekezdésében foglaltakat első alkalommal legkésőbb 2010. március 1-jéig kell közzétenni.
+
+(8)[^69]
+
+(9) A 9. §-ban foglalt fürdővíz-minőség értékelést első alkalommal legkorábban a 2011. évi fürdési idényt követően, de legkésőbb a 2015. évi fürdési idény végéig kell elvégezni.
+
+(10)[^70]
+
+(11)[^71] Az országos tisztifőorvos a 2008. évtől kezdődően tájékoztatja az Európai Bizottságot
+
+a) minden fürdési idény kezdete előtt a fürdővízként azonosított felszíni vizekről és az előző évhez képest bekövetkezett változásokról, valamint azok okairól,
+
+b) minden fürdési idényt követően legkésőbb december 31-éig
+
+ba) minden egyes fürdővíz minőségének értékeléséről,
+
+bb) a vízminőség felügyelet terén hozott jelentősebb intézkedésekről,
+
+bc) a vízminőség ellenőrzési ütemterv felfüggesztéséről a felfüggesztés indokainak megjelölésével.
+
+(12)[^72] Az országos tisztifőorvos a 8. § (5) bekezdése szerint kiadott eltérési engedélyekről a kiadást követő 30 napon belül tájékoztatja az Európai Bizottságot.
+
+(13)[^73]
+
+(14) Ez a rendelet a fürdővizek minőségéről és a 76/160/EGK irányelv hatályon kívül helyezéséről szóló 2006. február 15-i 2006/7/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(15)[^74] E rendeletnek a járási (fővárosi kerületi) hivatalok további megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 171/2017. (VI. 29.) Korm. rendelettel megállapított 6. § (1) és (4) bekezdésének hatálybalépése[^75] előtt megkezdett és a hatálybalépése időpontjában folyamatban lévő eljárásokat a 2017. június 30. napján hatályos rendelkezések szerint kell befejezni.
+
+## 1. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A természetes fürdővíz vízminőségi követelményei**
+
+|  | A | B | C | D | E |
+|---|---|---|---|---|---|
+|  | Paraméter | Kiváló minőség | Jó minőség | Tűrhető minőség | Elemzési referencia- módszerek |
+| **1.** | Fekális Enterococcus (100 ml-ben) | 200* | 400* | 330** | ISO 7899-1 vagy ISO 7899-2 |
+| **2.** | Escherichia coli (100 ml-ben) | 500* | 1000* | 900** | ISO 9308-3 vagy ISO 9308-1 |
+| **3.** | Klorofill-a (μg/l) cianobaktérium dominancia esetén | 10 | 25 | 50 | MSZ ISO 10260:1993 |
+| **4.** | Cianobaktérium sejtszám | 20 000 sejt/ml | 50 000 sejt/ml | 100 000 sejt/ml | MSZ EN 15204:2006 |
+| **5.** | Microcystin LR ekvivalens toxin tartalom | 4 μg/l | 10 μg/l | 20 μg/l | ISO 20179:2003 |
+
+\* 95-percentilis értékelés alapján. Lásd a 2. számú mellékletet.
+
+** 90-percentilis értékelés alapján. Lásd a 2. számú mellékletet.
+
+A cianobaktérium kockázat értékelésre szolgáló jelek ill. vizsgálati módszerek
+
+Átlátszóság csökkenése: az MSZ 12750-4:1971, 1.2 pont szerint értékelve;
+
+a szokásostól eltérő szín észlelése;
+
+zöld színű hab megjelenése a víz felszínén.
+
+## 2. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A fürdővizek értékelése és osztályozása**
+
+*I. Kifogásolt minőség*
+
+A fürdővizeket a „kifogásolt” osztályba kell sorolni, ha a fürdővizek értékelési időszakára vonatkozó minőségi adatsorában az 1. melléklet 1. vagy 2. paraméterére vonatkozó meghatározások percentilis értékei<sup>a</sup>, illetve, ha a cianobaktérium-burjánzás feltételezett egészségügyi kockázata miatt vizsgálták, a 3., 4. és 5. paraméterek mért értékei egyaránt meghaladták a „tűrhető minőség” „D” oszlopa szerinti értékeit.
+
+*II. Tűrhető minőség*
+
+A fürdővizeket a „tűrhető” osztályba kell sorolni, ha:
+
+1\. a fürdővíz értékelési időszakára vonatkozó minőségi adatsorában az 1. melléklet 1. és 2. paraméterére vonatkozó meghatározások percentilis értékei<sup>a</sup>, illetve, ha a cianobaktérium-burjánzás feltételezett egészségügyi kockázata miatt vizsgálták, a 3., 4. és 5. paraméterek mért értékei megfelelnek a „D” oszlopban „a tűrhető minőségre” megadott értékeknek vagy kisebbek azoknál; és
+
+2\. ha a fürdővíz ki van téve rövid távú szennyezésnek, azzal a feltétellel, hogy:
+
+*a)* megfelelő intézkedések történtek, ideértve a felügyeletet, a korai előrejelző rendszert és a minőség-ellenőrzést, annak érdekében, hogy a fürdőzők a figyelmeztetés, illetve szükség esetén a tiltás révén ne legyenek a szennyezésnek kitéve;
+
+*b)* megfelelő intézkedések vannak folyamatban a szennyezés okainak megelőzése, csökkentése vagy megszüntetése érdekében; és
+
+*c)* az értékelési időszakban a rövid távú szennyezés miatt a 7. § (5) bekezdése szerint figyelmen kívül hagyott minták száma nem haladja meg az erre az időszakra kidolgozott ellenőrzési ütemterv szerinti összes mintaszám 15%-a, vagy a fürdési idényenkénti egy minta közül a nagyobb számértékét.
+
+*III. Jó minőség*
+
+A fürdővizeket a „jó „ osztályba kell sorolni, ha:
+
+1\. a fürdővizek értékelési időszakára vonatkozó minőségi adatsorában, az 1. melléklet 1. és 2. paraméterére vonatkozó meghatározások percentilis értékei<sup>a</sup>, illetve, ha a cianobaktérium-burjánzás feltételezett egészségügyi kockázata miatt vizsgálták, a 3., 4. és 5. paraméterek mért értékei megfelelnek a „C” oszlopban a „jó minőségre” megadott értékeknek, vagy kisebbek azoknál; és
+
+2\. ha a fürdővíz ki van téve rövid távú szennyezésnek, azzal a feltétellel, hogy:
+
+*a)* megfelelő intézkedések történtek, ideértve a felügyeletet, a korai előrejelző rendszert és a minőség-ellenőrzést, annak érdekében, hogy a fürdőzők a figyelmeztetés, illetve szükség esetén a tiltás révén ne legyenek a szennyezésnek kitéve;
+
+*b)* megfelelő intézkedések vannak folyamatban a szennyezés okainak megelőzése, csökkentése vagy megszüntetése érdekében; és
+
+*c)* az értékelési időszakban a rövid távú szennyezés miatt a 7. § (5) bekezdése szerint figyelmen kívül hagyott minták száma nem haladja meg az erre az időszakra kidolgozott ellenőrzési ütemterv szerinti összes mintaszám 15%-a, vagy a fürdési idényenként egy minta közül a nagyobb számértékét.
+
+*IV. Kiváló minőség*
+
+A fürdővizeket a „kiváló” osztályba kell sorolni:
+
+1\. ha az értékelési időszakra vonatkozó fürdővíz minőségi adatsorban az 1. melléklet 1. és 2. paraméterére vonatkozó meghatározások percentilis értékei<sup>a</sup>, illetve, ha a cianobaktérium-burjánzás feltételezett egészségügyi kockázata miatt vizsgálták, a 3., 4. és 5. paraméterek mért értékei megfelelnek a „B” oszlopban megadott „kiváló minőség” értékeinek; és
+
+2\. ha a fürdővíz ki van téve rövid távú szennyezésnek, azzal a feltétellel, hogy:
+
+*a)* megfelelő intézkedések történtek, ideértve a felügyeletet, a korai előrejelző rendszert és a minőség-ellenőrzést, annak érdekében, hogy a fürdőzők a figyelmeztetés, illetve szükség esetén a tiltás révén ne legyenek a szennyezésnek kitéve;
+
+*b)* megfelelő intézkedések vannak folyamatban a szennyezés okainak megelőzése, csökkentése vagy megszüntetése érdekében; és
+
+*c)* az értékelési időszakban a rövid távú szennyezés miatt a 7. § (5) bekezdése szerint figyelmen kívül hagyott minták száma nem haladja meg az erre az időszakra kidolgozott ellenőrzési ütemterv szerinti összes mintaszám 15%-a, vagy a fürdési idényenként egy minta közül a nagyobbat.
+
+*Megjegyzések*
+
+<sup>a</sup> Az adott fürdővízből nyert mikrobiológiai adatok log<sub>10</sub> normális eloszlás sűrűségfüggvényének percentilis értékelése alapján a percentilis értéke az alábbi módon nyerhető:
+
+1\. Az értékelendő adatsor összes baktériumszámának log<sub>10</sub> értékét vesszük. (Nulla helyett a módszer kimutatási határának log<sub>10</sub> értékét használjuk.)
+
+2\. Számítsuk ki a log<sub>10</sub> értékek számtani középértékét (μ).
+
+3\. Számítsuk ki a log<sub>10</sub> értékek szórását (σ).
+
+Az adatok valószínűségi sűrűségfüggvényének felső 90 percentilis pontja az alábbi egyenlettel kapható meg: felső 90 percentilis = antilog (μ + 1,282 σ).
+
+Az adatok valószínűségi sűrűségfüggvényének felső 95 percentilis pontja az alábbi egyenlettel nyerhető: felső 95 percentilis = antilog (μ + 1,65 σ).
+
+## 3. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A természetes fürdővíz és fürdőhely védőterülete**
+
+1\. Tavakban és holtágakban a fürdőhely területének határától a vízfelületen minden irányban 100–100 m kiterjedésű, a vízparton pedig – az igénybe vett területen kívül – legalább 10 m szélességű védőterületet kell kijelölni.
+
+2\. A Duna, a Tisza és a Dráva folyóknál az 1. pont szerinti védőterületet csak a fürdőhellyel azonos oldali folyóparton kell kijelölni.
+
+3\. A 2. pontban fel nem sorolt folyóvizek partján létesített fürdőhelynél a vízfolyás irányával ellenkező irányban (felső folyószakasz) a folyó mindkét partján 100 m hosszúságú, a vízfolyás irányába (alsó folyószakasz) 10 m hosszúságú, a vízparton pedig – az igénybe vett területen kívül – legalább 10 m szélességű védőterületet kell kijelölni.
+
+4\. Folyóvizeknél – a fürdőhely folyásirány szerinti felső határa feletti szakaszán, a fürdési idényben előforduló legkisebb vízhozam mellett – ajánlott szennyvíz-bevezetési távolságok:
+
+a) 500-szorosnál nagyobb hígulás esetén a fürdőhely feletti folyószakaszon legalább 5 km,
+
+b) 200–500-szoros hígulás esetén a fürdő feletti folyószakaszon legalább 15 km,
+
+c) 200-szoros hígulás esetén a fürdő feletti folyószakaszon legalább 25 km.
+
+5\. Fokozottan veszélyes szennyvízbevezetés (különösen fertőzőbeteg-ellátó intézmény, elhullott állati terméket feldolgozó üzem, radioaktív szennyvizet kibocsátó létesítmény esetében) 25 km-es távolságon túl is csak abban az esetben fordulhat elő, ha a megfelelő vízminőséget a kijelölni kívánt fürdőhelynél 5 év vízminőség-ellenőrzési adatsora alátámasztja, és a vízminőséget kedvezőtlenül befolyásoló rendkívüli esemény nem fordult elő.
+
+## 4. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A fürdővíz és fürdőhely határainak megjelölésére szolgáló eszközök**
+
+1\. A fürdővíz, illetve fürdőhely határát a parton 60x30 cm méretű, fehér alapú, kék hullámzó vízen fekete felsőtestet ábrázoló táblával, a vízen vörös-fehér függőlegesen csíkozott, henger alakú, legalább 50x50 cm-es bójákkal kell megjelölni.
+
+2\. A fürdővíz, illetve fürdőhely határát jelző táblán kék mezőben fehér nyíllal és a távolság (méter, kilométer) feltüntetésével kell a fürdőhely hosszát jelölni. A 120 cm-nél mélyebb víz határát tavakon és állandó vízszintű vízterületeken „120 cm” feliratú, folyókon „mély víz” feliratú táblával kell jelölni.
+
+## 5. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A fürdővizek profilja**
+
+1\. A fürdővíz-profil az alábbiakat tartalmazza:
+
+a) a fürdővíz, továbbá az érintett fürdővíz vízgyűjtő területére eső egyéb felszíni vizek olyan fizikai, földrajzi és hidrológiai jellemzőinek leírása, amelyek esetleges szennyezés forrását képezhetik, és amelyek e rendelet, valamint a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló 2000/60/EK európai parlamenti és tanácsi irányelvben meghatározottak szerint lényegesnek minősülnek;
+
+b) azon szennyezési okok meghatározása és értékelése, amelyek a fürdővizekre hatással lehetnek és károsíthatják a fürdőzők egészségét;
+
+c) a cianobaktériumok szaporodási potenciáljának értékelése;
+
+d) a makrofiton és/vagy fitoplankton szaporodási potenciáljának értékelése;
+
+e) ha a *b)* pont szerinti értékelés azt mutatja ki, hogy rövid távú szennyezés veszélye áll fenn, az alábbi információt:
+
+– a rövid távú szennyezés előrelátható természetét, gyakoriságát és lefolyásának időtartamát,
+
+– a fennmaradó bármely szennyezési ok részletezését, beleértve a foganatosított ellenintézkedéseket és a felszámolásukra vonatkozó ütemtervet,
+
+– a rövid távú szennyezési esemény alatt foganatosított minőségfelügyeleti intézkedéseket, és az ilyen tevékenységekért felelős testületeknek az azonosító és részletes kapcsolatfelvételi adatait;
+
+f) az ellenőrzési pont elhelyezkedését.
+
+|  | A fürdővizek osztályozása | „Jó” | „Tűrhető” | „Kifogásolt” |  |
+|---|---|---|---|---|---|
+|  | Felülvizsgálatokat kell tartani legalább | 4 évente | 3 évente | 2 évente |  |
+|  | A felülvizsgálandó szempontok (az 1. pont és alpontjai) | *a)*–*f)* | *a)*–*f)* | *a)*–*f)* |  |
+
+Abban az esetben, ha a fürdővizet előzetesen a „kiváló” osztályba sorolták, a fürdővíz profilját csak akkor kell felülvizsgálni, és ha szükséges, frissíteni, ha az osztályozás „jó”, „tűrhető” vagy „kifogásolt” minősítésre változik. A felülvizsgáltnak le kell fednie az 1. pontban említett összes szempontot.
+
+3\. Abban az esetben, ha a fürdővíz területén vagy annak közelében jelentős építési munka folyik, vagy az infrastruktúra jelentősen megváltozik, a fürdővíz profilját frissíteni kell a következő fürdési idény kezdete előtt.
+
+4\. Adott esetben az 1. pont *a)* és *b)* alpontjaiban említett információt részletes térképen megjelenítve kell rendelkezésre bocsátani.
+
+5\. Az összeállításban részt vevő szervezet döntése szerint egyéb fontos információ is csatolható vagy belefoglalható a leírásba.
+
+## 6. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A mikrobiológiai elemzésre szánt minták kezelési szabályai**
+
+1\. *Mintavételi hely*
+
+Ahol lehetséges, a mintát a víz felszíne alatt 30 cm mélyről kell venni, olyan vízben, amely legalább 1 méter mély.
+
+2\. *A mintavételi palack sterilizálása*
+
+A mintavételi palackokat:
+
+– autoklávban kell sterilizálni legalább 15 percig 121 °C-on; vagy
+
+– szárazon kell sterilizálni legalább 1 óra hosszat 160 °C és 170 °C között; vagy
+
+– besugárzott mintavevő tartályokat kell beszerezni közvetlenül a gyártótól.
+
+3\. *Mintavétel*
+
+A mintavevő palack/tartály űrtartalma függ attól, hogy mennyi vízmintára van szükség az egyes paraméterek vizsgálatához. A minimális űrtartalom általában 250 ml.
+
+A mintavevő tartályoknak színtelen és átlátszó anyagból kell készülniük (üveg, polietilén vagy polipropilén).
+
+A minta véletlen elfertőződésének megelőzése céljából a mintavételhez aszeptikus technikát kell alkalmazni a mintavevő palackok sterilitásának megőrzése érdekében. Ennek megfelelő elvégzése esetén nincs szükség további steril berendezésre (mint például steril sebészeti kesztyűre, mintavevő nyelvekre vagy rúdra).
+
+A mintát kitörölhetetlen tintával, világos azonosító jellel kell ellátni a mintán és a mintakísérő íven egyaránt.
+
+4\. *A minták tárolása és szállítása elemzés előtt*
+
+A vízmintákat fénytől, különösen a közvetlen napfénytől védeni kell a szállítás minden fázisában.
+
+A mintát a laboratóriumba érkezéséig kb. 4 °C hőmérsékleten kell tárolni, hűtődobozban vagy hűtőszekrényben (az éghajlattól függően). Ha a szállítás a laboratóriumig várhatóan 4 óránál tovább tart, a szállítást hűtőszekrényben kell elvégezni.
+
+A mintavétel és az elemzés között eltelt időt a lehető legrövidebbre kell fogni. Ajánlatos a mintákat még ugyanazon a munkanapon elemezni. Ha erre gyakorlati okok miatt nincs lehetőség, a mintákat legfeljebb 24 órán belül kell feldolgozni. A feldolgozásig a mintákat sötét helyen, 4 °C±3 °C-os hőmérsékleten kell tárolni.
+
+## 7. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
+
+**A fürdőhely üzemeltetésének szabályai**
+
+1\. Fürdőhelynél a várható legnagyobb vendégszámra vonatkozóan egy főre számítva 10 m<sup>2</sup> pihenést szolgáló területet kell biztosítani. A terület egy részét füvesíteni, parkosítani kell, fák, bokrok ültetésével árnyas pihenőrészt kell kialakítani. A 6 éven aluli gyermekek részére célszerű külön fürdőhelyet biztosítani.
+
+2\. A gépjárművek számára – a külön jogszabályban meghatározott – megfelelő nagyságú és kiképzésű parkolóhelyet kell létrehozni.
+
+3\. A sportolási lehetőség elősegítésére (pl. a labdajátékokra) alkalmas területrészt biztosítani kell úgy, hogy az a vendégek nyugalmát ne zavarja és ne legyen balesetveszélyes. A vízi sporteszközök tárolására a fürdőhely elkülönített területén vagy annak közelében alkalmas területet kell kijelölni.
+
+4\. A pihenő-, sport- és egyéb területet állandóan tisztán és rendben kell tartani. A terület nagyságához és a vendégek számához viszonyítva megfelelő számú, méretű és elhelyezésű hulladékgyűjtő edényről kell gondoskodni. A hulladékgyűjtőket naponta, illetve szükség szerint üríteni kell, és a hulladékot zárt szállító járművel engedélyezett ártalmatlanító helyre kell elszállítani.
+
+5\. Naponta gondoskodni kell a fürdésre igénybe vett vízfelület, a vízpart tisztán tartásáról. Az építményeket – szükség szerint – a fürdési idény kezdete előtt kell felújítani, valamint folyamatosan karbantartani. Az építmények helyiségeit naponta, illetve szükség szerint nagyobb gyakorisággal takarítani és az üzemeltetési szabályzatban rögzített módon fertőtleníteni kell. Gondoskodni kell a helyiségek és a terület rovar- és rágcsálóirtásáról.
+
+6.[^76] Gondoskodni kell megfelelő számú öltözési (vetkőzési) lehetőségről. A várható legnagyobb vendégszám figyelembevételével nemenként elkülönített, kézmosási lehetőséggel felszerelt, azon kijelölt természetes fürdőhelyek esetében, ahol a belépés belépődíj ellenében lehetséges, díjmentesen igénybe vehető, a vízparttól 100 m távolságon belül elhelyezett illemhelyet a külön jogszabály előírásai szerint kell létesíteni. Ha a szennyvíz elvezetése közcsatornába nem lehetséges, akkor az illemhelyekhez csak zárt rendszerű szennyvízgyűjtőt szabad telepíteni. A zárt rendszerű szennyvízgyűjtőben összegyűlt szennyvíz elszállításáról vagy ártalommentes elhelyezéséről az üzemeltetőnek kell gondoskodnia.
+
+7.[^77] Állatot a fürdőhely területére bevinni – a kormányhivatal által engedélyezett őrkutyás biztonsági szolgálat, illetve a vakvezető kutya kivételével – tilos. A fürdőhely területén a fürdési szezonban horgászni nem szabad.
+
+8\. Gondoskodni kell a fürdőközönség számára zuhanyozási lehetőségről. 1000 főnél nagyobb vendégszám esetén 200 fő/1 db, de legkevesebb 4 db zuhanyállást kell biztosítani.
+
+9\. A gondoskodni kell fürdőhely területén megfelelő minőségű ivóvíz ingyenes hozzáférhetőségéről vagy ennek hiányában a folyadékpótlásra alkalmas egyéb lehetőségről.
+
+10\. A fürdőzőket írásos formában (lehetőség szerint hangjelzéssel is) tájékoztatni kell:
+
+a) a víz minőségéről és annak megőrzésével kapcsolatos használati szabályokról,
+
+b) a levegő és a víz aktuális hőmérsékletéről, a víz mélységéről,
+
+c) a fürdő rendeltetésszerű használatával összefüggő kötelezettségekről,
+
+d)[^78] a határértéket meghaladó, napi UV sugárzási szint mértékéről, és a védelem nélküli napon tartózkodás ajánlott időtartamáról,
+
+e)[^79] egyéb közérdekű információkról.
+
+11\. A fürdőhely üzemeltetője köteles elsősegélynyújtó felszerelést és kötszereket tartani a helyszínen bármikor elérhető helyen, és gondoskodni a felszerelések, gyógy- és kötszerek pótlásáról.
+
+12\. A fürdési idényben 500 főt elérő vagy meghaladó átlagos napi vendéglétszámot meghaladó fürdőhely üzemeltetője köteles
+
+a) a nyitva tartás időtartama alatt biztosítani:
+
+*aa)* vízi mentésben jártas úszómesteri ügyeletet,
+
+*ab)* 1000 fő/nap átlagos vendégszám esetén elsősegélynyújtó helyet, és legalább egy, mentőtiszti szakképesítéssel rendelkező személy vagy olyan orvos jelenlétét, aki az Országos Mentőszolgálat által szervezett oxyologiai tanfolyamot elvégezte, tanfolyamzáró vizsgát tett, és az előírt gyakorlatokat teljesítette;
+
+b) és az ügyeleti helyet feltűnő jelzéssel a fürdőzők tudomására hozni;
+
+c) üzemeltetési naplót vezetni a vendégforgalom napi adatairól, balesetekről, a vízminőséggel összefüggő változásokról és egyéb rendkívüli eseményekről.
+
+13\. A 12. pont alatt felsorolt kötelezettségek a fürdési idényre eső munkaszüneti- és ünnepnapokra korlátozva vonatkoznak a fürdőhely üzemeltetőjére, amennyiben a fürdőzők átlagos létszáma az ilyen napokon eléri vagy meghaladja az 1000 főt.
+
+14\. Az üzemeltető a balesetek megelőzése céljából vizsgálni köteles kötél, lánc végighúzásával a meder víz alatti részét az első üzembe helyezés előtt, minden évben a fürdési szezon előtt, valamint balesetveszély gyanúja esetén. A vizsgálat eredményét az üzemeltetési naplóban fel kell jegyezni.
+
+15\. Úszómesterként (mentőőrként) alkalmazni kizárólag azt a személyt lehet, aki a vízi mentésben való jártasságáról érvényes igazolással rendelkezik és egészségügyi alkalmasságát az orvos igazolja.
+
+16.[^80] A mentőőrt el kell látni a segélykéréshez szükséges hírközlő eszközzel, továbbá a közlekedésért felelős miniszternek a vízi közlekedés rendjéről szóló rendeletben foglalt előírásoknak megfelelő és a szerint felszerelt mentőcsónakkal. A csónakban kizárólag mentőőri szolgálatot ellátó személy tartózkodhat, és az csak mentési feladatok ellátásához használható.
+
+17\. A mentőőr szolgálati ideje alatt köteles a csónakban vagy a csónak 50 méteres körzetében tartózkodni, olyan helyen, ahonnan a fürdésre kijelölt vízfelület belátható.
+
+18\. Olyan fürdőhelyeken, ahol gyermekek csoportosan vagy tömegesen fordulnak elő (pl. gyermek- és ifjúsági tábor, vízparti üdülő), az üzemeltetőnek a balesetek megelőzése érdekében – a gyermekcsoport ott tartózkodási ideje alatt – külön mentőőrt kell biztosítani a csoport felügyeletére.
+
+## 8. melléklet a 78/2008. (IV. 3.) Korm. rendelethez[^81]
+
+---
+
+[^1]: A 2. § a) pontja a 360/2019. (XII. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 2. § e) pontja a 360/2019. (XII. 30.) Korm. rendelet 61. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^3]: A 2. § h) pontja a 148/2011. (VIII. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 3. § (4) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 618. §-a hatályon kívül helyezte, újonnan a 155/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^8]: A 3. § (4a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^9]: A 3. § (6) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, az 527/2013. (XII. 30.) Korm. rendelet 62. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte, újonnan a 351/2010. (XII. 30.) Korm. rendelet 211. §-a iktatta be, újból hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 92. § (2) bekezdése.
+[^11]: A 3/A. §-t a 155/2025. (VI. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^12]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 618. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a)–b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^13]: A 4. § (3) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^14]: A 4. § (4) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^15]: Az 5. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, a 289/2010. (XII. 21.) Korm. rendelet 3. § (103) bekezdése, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^16]: Az 5. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^17]: Az 5. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, az 527/2013. (XII. 30.) Korm. rendelet 62. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^18]: A 6. § (1) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 1. pontja, a 171/2017. (VI. 29.) Korm. rendelet 11. § (3) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^19]: A 6. § (4) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 2. §-a iktatta be, szövege a 171/2017. (VI. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított, nyitó és záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^20]: A 7. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^21]: A 7. § (2) bekezdése a 155/2025. (VI. 23.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^22]: A 7. § (2a) bekezdését a 155/2025. (VI. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^23]: A 7. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 617. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^25]: A 8. § (4a) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 3. §-a iktatta be, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^26]: A 8. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés a) pontja, a 250/2017. (IX. 5.) Korm. rendelet 17. § a) pontja, a 162/2018. (IX. 10.) Korm. rendelet 10. § a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^27]: A 8. § (6) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^28]: A 9. § (1) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^29]: A 9. § (5) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja, a 659/2023. (XII. 28.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^30]: A 9. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^31]: A 10. § (1) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: A 10. § (2) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 4. §-ával megállapított, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^33]: A 10. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^34]: A 10. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 618. §-a, a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^35]: A 10. § (6) bekezdés záró szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 296/2012. (X. 17.) Korm. rendelet 35. §-a szerint módosított szöveg. [A 10. § (6) bekezdés záró szövegrészének a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés d) pontjával elrendelt módosítása, amely szerint a „járási hivatal” szövegrész helyébe a „kormányhivatal” szöveg lép, nem vezethető át.]
+[^36]: [A 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) pontjával elrendelt módosítás, mely szerint a 10. § (6) bekezdés c) pontjában a „járási népegészségügyi intézet” szövegrész helyébe a „járási hivatal” szöveg lép, nem vezethető át.]
+[^37]: A 10. § (8) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^38]: A 11. § (1) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés h) pontja, a 162/2018. (IX. 10.) Korm. rendelet 10. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (8) bekezdés a) pontja, a 334/2023. (VII. 20.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^39]: A 11. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (8) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^40]: A 11. § (3) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^41]: A 11. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^42]: A 11. § (7) bekezdés nyitó szövegrésze a 148/2011. (VIII. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^43]: A 11. § (9) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^44]: A 11. § (10) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^45]: A 11. § (11) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^46]: A 11. § (12) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 5. § (3) bekezdése iktatta be, nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés b) és j) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (8) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^47]: A 11/A. §-t a 148/2011. (VIII. 4.) Korm. rendelet 6. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
+[^48]: A 11/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^49]: A 11/A. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^50]: A 11/A. § (3) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^51]: A 11/A. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 61. § (8) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^52]: A 11/A. § (5) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 120. § (2) bekezdés l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés e) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (8) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^53]: A 12. § (3) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^54]: A 12. § (4) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^55]: A 12. § (5) bekezdése a 148/2011. (VIII. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^56]: A 12. § (6) bekezdés nyitó szövegrésze a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^57]: A 12. § (7) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^58]: A 12. § (8) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^59]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 120. § (1) bekezdésével megállapított szöveg.
+[^60]: A 13. § (2) bekezdése a 147/2015. (VI. 12.) Korm. rendelet 3. §-a, az 591/2023. (XII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^61]: A 14. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^62]: A 14. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (5) bekezdésével megállapított, záró szövegrésze a 334/2023. (VII. 20.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^63]: A 14. § (2a) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) és j) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés b) pontja, az 591/2023. (XII. 20.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^64]: A 14. § (2b) bekezdését a 148/2011. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^65]: A 14. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 61. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^66]: A 14. § (3) bekezdés a) pontja az 591/2023. (XII. 20.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^67]: A 15. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (1) bekezdésével megállapított, a 250/2017. (IX. 5.) Korm. rendelet 17. § b) pontja, a 162/2018. (IX. 10.) Korm. rendelet 10. § c) pontja, a 334/2023. (VII. 20.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^68]: A 15. § (4) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^69]: A 15. § (8) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^70]: A 15. § (10) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^71]: A 15. § (11) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^72]: A 15. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 113. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^73]: A 15. § (13) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1. pontja hatályon kívül helyezte.
+[^74]: A 15. § (15) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^75]: A hatálybalépés időpontja 2017. július 1.
+[^76]: A 7. melléklet 6. pontja a 172/2016. (VII. 1.) Korm. rendelet 78. §-a szerint módosított szöveg.
+[^77]: A 7. melléklet 7. pontja a 148/2011. (VIII. 4.) Korm. rendelet 9. §-a, a 174/2012. (VII. 26.) Korm. rendelet 51. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 61. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^78]: A 7. melléklet 10. pont d) pontja a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdésével megállapított szöveg.
+[^79]: A 7. melléklet 10. pont e) pontját a 137/2012. (VI. 29.) Korm. rendelet 92. § (1) bekezdése iktatta be.
+[^80]: A 7. melléklet 16. pontja a 155/2025. (VI. 23.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^81]: A 8. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 212. §-a iktatta be, hatályon kívül helyezte a 325/2011. (XII. 28.) Korm. rendelet 106. §-a.

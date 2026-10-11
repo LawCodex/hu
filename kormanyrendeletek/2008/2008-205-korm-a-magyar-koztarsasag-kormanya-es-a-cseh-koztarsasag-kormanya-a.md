@@ -1,0 +1,623 @@
+---
+title: "205/2008. (VIII. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás,  valamint a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás módosításának egységes szerkezetbe foglalt kihirdetéséről"
+identifier: "205/2008. (VIII. 22.) Korm. rendelet"
+njt_id: "2008-205-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2008/Korm/205"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2008-08-22
+in_force_from: 2008-08-23
+last_amended: 2008-08-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2008-205-20-22"
+retrieved: 2026-10-12
+---
+
+# 205/2008. (VIII. 22.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás, valamint a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás módosításának egységes szerkezetbe foglalt kihirdetéséről
+
+*(A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás 2002. szeptember 4-én, a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás módosításáról szóló Megállapodás a 2005. október 13-án Magyar Köztársaság vonatkozásában nemzetközi jogilag hatályba lépett.)*
+
+## 1. §
+
+(1) A Kormány a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodást, valamint Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya, valamint a Szlovák Köztársaság Kormánya között a Nemzetközi Visegrádi Alap létrehozásáról szóló Megállapodás módosításáról szóló Megállapodás egységes szerkezetbe foglalt szövegét (a továbbiakban: Megállapodás) e rendelettel kihirdeti.
+
+(2) A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
+
+„AGREEMENT\
+CONCERNING THE ESTABLISHMENT OF THE INTERNATIONAL VISEGRAD FUND
+
+*(New Revised Text)*
+
+The Government of the Czech Republic, the Government of the Republic of Hungary, the Government of the Republic of Poland and the Government of the Slovak Republic (hereinafter referred to as the Contracting Parties) guided by the provisions of the Visegrad Joint Statement signed on May 14, 1999 in Bratislava,
+
+hereby agree as follows:
+
+*Article 1*
+
+The International Visegrad Fund (hereinafter referred to as the Fund) with its seat in Bratislava is hereby established.
+
+*Article 2*
+
+The Statute of the Fund is hereby adopted and shall constitute an annex hereto.
+
+*Article 3*
+
+This Agreement shall be adopted pursuant to the relevant national legislation of the States of each Contracting Party and shall enter into force as of the day on which the last instrument certifying adoption hereof is deposited with the Government of the Slovak Republic, acting as the Depositary.
+
+*Article 4*
+
+This Agreement shall apply provisionally from the date of its signing until the date of its entry into force in accordance with relevant national legislation of the States of the Contracting Parties.
+
+*Article 5*
+
+The Government of the Slovak Republic, acting as the Depositary, shall notify all Contracting Parties of the deposit of all instruments certifying adoption, the entry into force hereof, as well as of any other facts connected with this Agreement.
+
+*Article 6*
+
+The withdrawal of any Contracting Party from the Fund or the dissolution of the Fund in accordance with the Fund Statute shall constitute the withdrawal of that Party from this Agreement or termination of this Agreement in its relations with all other Contracting Parties.
+
+Done at Stirín on the ninth day of June in the year two thousand in a single original in the English
+
+language to be deposited with the Government of the Slovak Republic.
+
+The Depositary shall provide all Contracting Parties with certified copies hereof.
+
+STATUTE OF THE INTERNATIONAL VISEGRAD FUND
+
+CHAPTER ONE
+
+*PURPOSE AND OBJECTIVES*
+
+*Article 1*
+
+The purpose of the Fund shall be to promote:
+
+– the development of closer cooperation between the Contracting Parties;
+
+– the strengthening of ties between the States of the Contracting Parties;
+
+– common presentation of the States of the Contracting Parties in third countries.
+
+*Article 2*
+
+The objectives of the Fund shall be pursued through financial support of activities, in particular in
+
+the following areas:
+
+– promotion and development of cultural cooperation;
+
+– promotion and development of scientific exchanges, research and cooperation in the field of education between the Contracting Parties;
+
+– promotion and development of exchanges between young people;
+
+– promotion and development of cross-border cooperation;
+
+– promotion and development of tourism of the Contracting Parties.
+
+Cooperation between the Contracting Parties in these fields regulated under other international treaties shall not be affected.
+
+*Article 3*
+
+The Fund can support projects originating in countries other than the Contracting Parties, provided that they shall have at least two (2) co-organizing partners from the Contracting Parties and that the topic of the projects shall be related to the Visegrad Group region.
+
+CHAPTER TWO
+
+*SEAT AND MEMBERSHIP*
+
+*Article 4*
+
+The Contracting Parties to the present Agreement shall be the founding Members of the Fund. The seat of the Fund shall be in Bratislava, Slovak Republic.
+
+CHAPTER THREE
+
+*ORGANISATIONAL STRUCTURE*
+
+*Article 5*
+
+The governing bodies of the Fund shall be:
+
+the Conference of Ministers of Foreign Affairs;
+
+the Council of Ambassadors.
+
+The executive body of the Fund shall be the Executive Director. The Executive Director shall have his/her Deputy Executive Director.
+
+The administrative body of the Fund shall be the Secretariat.
+
+CHAPTER FOUR
+
+*CONFERENCE OF MINISTERS OF FOREIGN AFFAIRS*
+
+*Article 6*
+
+The Conference of Ministers of Foreign Affairs shall be the supreme body of the Fund.
+
+*Article 7*
+
+The Conference of Ministers of Foreign Affairs shall be composed of the Ministers of Foreign Affairs of the Contracting Parties or their duly authorised representatives.
+
+*Article 8*
+
+The Conference of Ministers of Foreign Affairs shall designate from among its members its President, with the Presidency rotating in the English alphabetical order of the names of the States of the Contracting Parties.
+
+*Article 9*
+
+The term of office of the President of the Conference of Ministers of Foreign Affairs shall be one year and not renewable.
+
+*Article 10*
+
+The Conference of Ministers of Foreign Affairs shall determine the amounts of annual contributions and their due dates for each Contracting Party.
+
+*Article 11*
+
+The Conference of Ministers of Foreign Affairs shall approve the annual and long term plans regarding activities of the Fund.
+
+*Article 12*
+
+The Conference of Ministers of Foreign Affairs shall approve budget of the Fund, annual statements and clearance of budget presented by the Council of Ambassadors.
+
+*Article 13*
+
+The Conference of Ministers of Foreign Affairs shall approve the Rules of Procedure of the Secretariat and may decide on amendments thereto.
+
+*Article 14*
+
+The Conference of Ministers of Foreign Affairs shall adopt resolutions unanimously.
+
+*Article 15*
+
+The Conference of Ministers of Foreign Affairs shall meet at least once a year in order to estimate the implementation of the tasks set forth in the present Statute. The President of the Conference of Ministers of Foreign Affairs shall schedule the place and date of its session.
+
+CHAPTER FIVE
+
+*COUNCIL OF AMBASSADORS*
+
+*Article 16*
+
+The Council of Ambassadors shall consist of:
+
+– ambassadors of the Contracting Parties accredited to the Head of the State whose plenipotentiary currently holds the post of President of the Conference of Ministers of Foreign Affairs, or of chargé d affairs a.i;
+
+– and the plenipotentiary of the Contracting Party whose representative holds the post of President of the Conference of Ministers of Foreign Affairs.
+
+*Article 17*
+
+Sessions of the Council of Ambassadors shall be chaired by the plenipotentiary of the Contracting Party whose representative holds the post of President of the Conference of Ministers of Foreign Affairs.
+
+*Article 18*
+
+The Council of Ambassadors shall prepare programmes of activities of the Fund and reports on their implementation in the preceding year and submit them for approval to the Conference of Ministers of Foreign Affairs.
+
+*Article 19*
+
+The Council of Ambassadors shall prepare draft budgets of the Fund and reports on their utilisation in the preceding year and submit them for approval to the Conference of Ministers of Foreign Affairs.
+
+*Article 20*
+
+The Council of Ambassadors shall lay down binding guidelines for the activities of the Executive Director and rules governing the preparation, acceptance and implementation of projects submitted to the Fund, taking into account the rules regulating the rights and duties of the Executive Director set forth by the Conference of Ministers of Foreign Affairs.
+
+*Article 21*
+
+The Council of Ambassadors shall draft programmes and documents for sessions of the Conference of Ministers of Foreign Affairs.
+
+*Article 22*
+
+The Council of Ambassadors shall adopt resolutions unanimously.
+
+*Article 23*
+
+The Council of Ambassadors shall meet at least once every six months and in between these periods whenever it shall deem it appropriate for the implementation of the objectives defined in Chapter One. The Chairperson of the Council of Ambassadors shall schedule the place and date of its session.
+
+*Article 24*
+
+The Council of Ambassadors shall adopt its Rules of Procedure, which shall be subject to approval by the Conference of Ministers of Foreign Affairs.
+
+*Article 25*
+
+The Council of Ambassadors may propose to the Conference of Ministers of Foreign Affairs amendments to the Rules of Procedure of the Secretariat, to be approved in pursuant to Article 13.
+
+CHAPTER SIX
+
+*EXECUTIVE DIRECTOR, DEPUTY EXECUTIVE DIRECTOR AND THE SECRETARIAT*
+
+*Article 26*
+
+1\. The Executive Director shall be responsible for the implementation of the objectives of the Fund and its smooth performance.
+
+The Executive director shall be empowered to make representations on behalf of the Fund. On behalf of the Fund the Executive Director shall be empowered by the Conference of Ministers of Foreign Affairs to sign The Agreement between the Slovak Republic and the International VisegradFund.
+
+2\. The Executive Director shall head the Secretariat.
+
+3\. The Deputy Executive Director shall perform the duties specified in the Rules governing rights and duties of the Executive Director and the Deputy Executive Director.
+
+*Article 27*
+
+Each Contracting Party of the Present Agreement has the right to nominate its own candidate for the position of the Executive Director and the Deputy Executive Director. The Executive Director and the Deputy Executive Director shall be appointed by the Conference of Ministers of Foreign Affairs. The term of the office of the Executive Director and the Deputy Executive Director shall be three years and may be renewed for one additional term.
+
+*Article 28*
+
+The Conference of Ministers of Foreign Affairs shall lay down rules regulating the rights and duties of the Executive Director and the Deputy Executive Director, the manner in which they are to be performed as well as the terms of office of the Executive Director and the Deputy Executive Director.
+
+*Article 29*
+
+The Executive Director shall participate in sessions of the Council of Ambassadors in an advisory
+
+capacity.
+
+*Article 30*
+
+The Executive Director shall be responsible for the functioning of the Secretariat and, in conformity with the legislation of the State in the territory of which the Fund has its seat, shall determine the terms and conditions of employment for the staff of the Secretariat pursuant to the rules adopted by the Conference of Ministers of Foreign Affairs.
+
+*Article 31*
+
+The Executive Director shall regularly inform the Chairperson of the Council of Ambassadors on the manner in which the programme of activities of the Fund is implemented, prepare annual statements and clearance of the budget of the Fund.
+
+*Article 32*
+
+The Secretariat shall be responsible for services provided during sessions of the Council of Ambassadors and services provided in connection with the sessions of the Conference of Ministers of Foreign Affairs as well as other services related to the functioning of the Fund.
+
+*Article 33*
+
+The responsibilities of the Executive Director shall be of an exclusively international character. In the performance of his duties the Executive Director shall follow the rules defined by the Conference of Ministers of Foreign Affairs and shall not receive instructions from the third parties.
+
+*Article 34*
+
+The official language of the Fund shall be the English.
+
+CHAPTER SEVEN
+
+*LEGAL STATUS OF THE FUND*
+
+*Article 35*
+
+The Fund has full legal personality necessary for the fulfilment of the aims associated with its activities.
+
+CHAPTER EIGHT
+
+*FINANCES*
+
+*Article 36*
+
+Activities of the Fund shall be financed from contributions made by the Contracting Parties and financial contributions from other resources approved by the Council of Ambassadors.
+
+*Article 37*
+
+Each Contracting Party shall undertake to provide an annual contribution to the Fund by the due date specified by the Conference of Ministers of Foreign Affairs. The first annual contribution to the Fund shall be one million euro to be paid by the Contracting Parties in equal shares. The amount of further annual contribution shall be determined by the Conference of Ministers of Foreign Affairs.
+
+*Article 38*
+
+The rules governing the use of the financial means of the Fund shall be determined by the Conference of Ministers of Foreign Affairs.
+
+*Article 39*
+
+The Fund shall open its bank account in the State providing the seat of the Fund. Financial means of the Fund shall be kept in this bank account. The funds shall be administered by the Executive Director.
+
+CHAPTER NINE
+
+*TERMINATION OF MEMBERSHIP*
+
+*Article 40*
+
+Each Contracting Party may at any time withdraw from the Fund by giving an instrument of denouncement to the Depository Government. Its membership shall be terminated twelve months following the receipt of such instrument by the Depository Government.
+
+*Article 41*
+
+When a Contracting Party withdraws from the Fund, a final settlement shall be made between such Contracting Party and the Fund on the basis of mutual agreement at the earliest session of the Conference of Ministers of Foreign Affairs.
+
+CHAPTER TEN
+
+*DISSOLUTION OF THE FUND*
+
+*Article 42*
+
+The Fund may be dissolved exclusively by an unanimous decision of the Conference of Ministers of Foreign Affairs, subject to a prior consent of the Contracting Parties.
+
+*Article 43*
+
+Following a decision under Article 42 of the present Statute, the Executive Director shall forthwith terminate any and all activities except for activities related to the due collection and liquidation of assets and payment of liabilities.
+
+*Article 44*
+
+Within the disbursement of assets, the liabilities of the Fund shall have priority over the refund of the contributions.
+
+MEGÁLLAPODÁS\
+A NEMZETKÖZI VISEGRÁDI ALAP LÉTREHOZÁSÁRÓL
+
+*(új, módosított szöveg)*
+
+A Magyar Köztársaság Kormánya, Cseh Köztársaság Kormánya, a Lengyel Köztársaság Kormánya és a Szlovák Köztársaság Kormánya, a továbbiakban a Szerződő Felek, az 1999. május 14-én Pozsonyban aláírt Visegrádi Közös Nyilatkozat rendelkezéseinek alapján,
+
+a következőkben állapodnak meg:
+
+*1. Cikk*
+
+A Nemzetközi Visegrádi Alap (a továbbiakban: az Alap) Pozsony székhellyel ezennel létrejött.
+
+*2. Cikk*
+
+Az Alap Alapszabályát ezennel elfogadták, az a jelen dokumentum mellékletét képezi.
+
+*3. Cikk*
+
+Jelen Megállapodás a Szerződő Felek nemzeti jogrendjével összhangban kerül elfogadásra, a jóváhagyást igazoló utolsó okiratnak a Szlovák Köztársaság Kormányánál, mint Letéteményesnél történő letétbehelyezése napján lép hatályba.
+
+*4. Cikk*
+
+Jelen Megállapodás rendelkezéseit az aláírástól a hatálybalépésig a Szerződő Felek nemzeti jogának megfelelően ideiglenesen alkalmazzák.
+
+*5. Cikk*
+
+A Szlovák Köztársaság Kormánya, mint Letéteményes, értesíti a Szerződő Feleket valamennyi jóváhagyást igazoló okirat letétbehelyezéséről, a hatálybalépés időpontjáról, valamint jelen Megállapodással kapcsolatos bármilyen egyéb eseményről.
+
+*6. Cikk*
+
+Valamely Szerződő Félnek az Alapból történő kilépése, vagy az Alapnak az Alapszabállyal összhangban történő felosztása a Szerződő Fél jelen Megállapodásból történő kilépését, vagy jelen Megállapodás felmondását jelenti az összes többi Szerződő Fél felé.
+
+Készült 2000. június 9-én hiteles angol nyelven, az egyetlen eredeti példány a Szlovák Köztársaság Kormányánál kerül letétbe helyezésre.
+
+A Letéteményes gondoskodik a hitelesített példányok Szerződő Felekhez történő megküldéséről.
+
+A NEMZETKÖZI VISEGRÁDI ALAP ALAPSZABÁLYA
+
+1\. Fejezet
+
+*CÉLOK ÉS FELADATOK*
+
+*1. Cikk*
+
+Az Alap célja a következők elősegítése:
+
+a Szerződő Felek közötti szorosabb együttműködés,
+
+a Szerződő Felek Államai közötti kötelék erősítése,
+
+a Szerződő Felek Államainak harmadik államokban történő közös megjelenítése.
+
+*2. Cikk*
+
+Az Alap céljait különösen a következő területeken folyó tevékenységek pénzügyi támogatásán keresztül kívánja megvalósítani:
+
+– kulturális együttműködés elősegítése és fejlesztése;
+
+– az oktatás területén a tudományos cserék, kutatás és együttműködés elősegítése és fejlesztése a Szerződő Felek államai között;
+
+– fiatalok csereprogramjainak elősegítése és fejlesztése;
+
+– határon átnyúló együttműködés elősegítése és fejlesztése;
+
+– a Szerződő Felek turizmusának elősegítése és fejlesztése.
+
+A Szerződő Felek együttműködése ezeken a területeken nem érinti a tárgyban kötött más nemzetközi szerződésekben foglalt rendelkezéseket.
+
+*3. Cikk*
+
+Az Alap támogathat a Szerződő Felek államain kívüli más államokban létesülő programot, feltéve, hogy legalább kettő (2) társszervező a Szerződő Felek közül való és a program tárgya a Visegrádi Csoport területére irányul.
+
+2\. Fejezet
+
+*SZÉKHELY ÉS TAGSÁG*
+
+*4. Cikk*
+
+Jelen Megállapodás Szerződő Felei az Alap Alapító Tagjai. Az Alap székhelye Pozsony, Szlovák Köztársaság.
+
+3\. Fejezet
+
+*SZERVEZETI FELÉPÍTÉS*
+
+*5. Cikk*
+
+Az Alap irányító szervei:
+
+a Külügyminiszterek Konferenciája;
+
+a Nagykövetek Tanácsa.
+
+Az Alap végrehajtó szerve az Ügyvezető Igazgató. Az Ügyvezető Igazgató helyettese az Ügyvezető Igazgatóhelyettes.
+
+Az Alap adminisztratív szerve a Titkárság.
+
+4\. Fejezet
+
+*A KÜLÜGYMINISZTEREK KONFERENCIÁJA*
+
+*6. Cikk*
+
+A Külügyminiszterek Konferenciája az Alap legfelsőbb szerve.
+
+*7. Cikk*
+
+A Külügyminiszterek Konferenciáján a Szerződő Felek külügyminiszterei, vagy azok teljes képviseleti jogkörrel felhatalmazott képviselői vesznek részt.
+
+*8. Cikk*
+
+A Külügyminiszterek Konferenciája tagjai közül jelöli ki elnökét. Az elnökség a Szerződő Felek Államainak angol megnevezése alapján alfabetikus sorrendben rotálódik.
+
+*9. Cikk*
+
+A Külügyminiszterek Konferenciájának elnöke egy évig tölti be tisztségét, mely nem hosszabbítható meg.
+
+*10. Cikk*
+
+A Külügyminiszterek Konferenciája határozza meg a Szerződő Felek éves hozzájárulásának összegét és befizetésének esedékes időpontját.
+
+*11. Cikk*
+
+A Külügyminiszterek Konferenciája hagyja jóvá az Alap tevékenységére vonatkozó éves és hosszabb távú terveket.
+
+*12. Cikk*
+
+A Külügyminiszterek Konferenciája hagyja jóvá az Alap tevékenységére vonatkozó, a Nagykövetek Tanácsa által előterjesztett éves költségvetést, éves beszámolókat és a költségvetés zárszámadását.
+
+*13. Cikk*
+
+A Külügyminiszterek Konferenciája dönt a Titkárság Működési Szabályzatának elfogadásáról, és hagyja jóvá ennek módosításait.
+
+*14. Cikk*
+
+A Külügyminiszterek Konferenciája egyhangúlag hozza meg határozatait.
+
+*15. Cikk*
+
+A Külügyminiszterek Konferenciája legalább évenként ülésezik jelen Alapszabályban meghatározott feladatok végrehajtásának értékelése céljából. A Külügyminiszterek Konferenciájának elnöke határozza meg az ülések helyét és idejét.
+
+5\. Fejezet
+
+*A NAGYKÖVETEK TANÁCSA*
+
+*16. Cikk*
+
+A Nagykövetek Tanácsának tagjai:
+
+– a Szerződő Felek azon Állam államfőjéhez akkreditált nagykövetei, amelynek meghatalmazottja a Külügyminiszterek Konferenciájának elnöki pozícióját tölti be, vagy ideiglenesen nagyköveti teendőket ellátó személy;
+
+– azon Szerződő Fél teljes körű meghatalmazottja, akinek képviselője a Külügyminiszterek Konferenciájának elnöki pozícióját tölti be.
+
+*17. Cikk*
+
+A Nagykövetek Tanácsának ülésein azon Szerződő Fél teljes körű meghatalmazottja elnököl, akinek képviselője a Külügyminiszterek Konferenciájának elnöki pozícióját tölti be.
+
+*18. Cikk*
+
+A Nagykövetek Tanácsa készíti elő az Alap tevékenységének programjait és készíti el az előző év programjainak megvalósításáról szóló jelentést, valamint jóváhagyásra benyújtja ezeket a Külügyminiszterek Konferenciájához.
+
+*19. Cikk*
+
+A Nagykövetek Tanácsa készíti el az Alap költségvetésének tervezetét, jelentést készít annak előző évi megvalósításáról, és jóváhagyásra benyújtja ezeket a Külügyminiszterek Konferenciájához.
+
+*20. Cikk*
+
+A Nagykövetek Tanácsa meghatározza az Ügyvezető Igazgató tevékenységére vonatkozó kötelező irányelveket, valamint az Alaphoz benyújtott projektek előkészítésének, elfogadásának, megvalósításának szabályait, összhangban a Külügyminiszterek Konferenciája által az Ügyvezető Igazgató feladat és hatáskörére vonatkozóan meghatározott szabályokkal.
+
+*21. Cikk*
+
+A Nagykövetek Tanácsa előkészíti a program- és dokumentumtervezeteket a Külügyminiszterek Tanácsának üléseire.
+
+*22. Cikk*
+
+A Nagykövetek Tanácsa egyhangúlag hozza meg határozatait.
+
+*23. Cikk*
+
+A Nagykövetek Tanácsa legalább félévente, és ezen időszakon belül szükség szerint ülésezik az 1. Fejezetben meghatározott célok megvalósítása érdekében. A Nagykövetek Tanácsának Elnöke határozza meg az ülések helyét és idejét.
+
+*24. Cikk*
+
+A Nagykövetek Tanácsa elfogadja Szervezeti és Működési Szabályzatát, melyet a Külügyminiszterek Konferenciája hagy jóvá.
+
+*25. Cikk*
+
+A Nagykövetek Tanácsa javaslatot tehet a Külügyminiszterek Konferenciájának a Titkárság Működési Szabályzata módosítására, amelyet a 12. cikkel összhangban hagynak jóvá.
+
+6\. Fejezet
+
+*AZ ÜGYVEZETŐ IGAZGATÓ, AZ ÜGYVEZETŐ IGAZGATÓHELYETTES ÉS A TITKÁRSÁG*
+
+*26. Cikk*
+
+1\. Az Ügyvezető Igazgató az Alap céljainak megvalósításáért és folyamatos végrehajtásáért felelős. Az Ügyvezető Igazgató az Alap képviseletére feljogosított személy. Az Ügyvezető Igazgatót az Alap nevében a Külügyminiszterek Konferenciája feljogosítja a Megállapodás aláírására a Szlovák Köztársaság és a Nemzetközi Visegrádi Alap között.
+
+2\. Az Ügyvezető Igazgató vezeti a Titkárságot.
+
+3\. Az Ügyvezető Igazgatóhelyettes ellátja az Ügyvezető Igazgató és az Ügyvezető Igazgatóhelyettes jog- és hatásköri Szabályzatában részletezett kötelezettségeit.
+
+*27. Cikk*
+
+Jelen Megállapodás valamennyi Szerződő Fele jogosult saját jelöltet állítani az Ügyvezető Igazgató és Ügyvezető Igazgatóhelyettes posztjára.
+
+Az Ügyvezető Igazgatót és az Ügyvezető Igazgatóhelyettest a Külügyminiszterek Konferenciája nevezi ki. A megbízatás három évre szól, egy alkalommal újabb három évre meghosszabbítható.
+
+*28. Cikk*
+
+A Külügyminiszterek Konferenciája határozza meg az Ügyvezető Igazgató és az Ügyvezető Igazgatóhelyettes feladat és hatáskörére, ezek ellátásának módjára, valamint az Ügyvezető Igazgató és az Ügyvezető Igazgatóhelyettes hivatalviselési idejére vonatkozó szabályokat.
+
+*29. Cikk*
+
+Az Ügyvezető Igazgató tanácskozási jogkörrel részt vesz a Nagykövetek Tanácsának ülésein.
+
+*30. Cikk*
+
+Az Ügyvezető Igazgató felelős a Titkárság működéséért, és az Alap székhely szerinti államának belső jogával összhangban határozza meg a Titkárság személyzetének munkafeltételeit, a Külügyminiszterek Konferenciája által megállapított szabályoknak megfelelően.
+
+*31. Cikk*
+
+Az Ügyvezető Igazgató rendszeresen tájékoztatja a Nagykövetek Tanácsának Elnökét az Alap tevékenységére vonatkozó programok megvalósításáról, előkészíti az Alap éves beszámolóit és zárszámadását.
+
+*32. Cikk*
+
+A Titkárság felelős a Nagykövetek Tanácsának ülésein a szolgáltatásokért, a Külügyminiszterek Konferenciájával kapcsolatos szolgáltatásokért, továbbá az Alap működésével kapcsolatos egyéb szolgáltatásokért.
+
+*33. Cikk*
+
+Az Ügyvezető Igazgató munkaköre kizárólag nemzetközi jellegű. Tevékenységének kifejtése során az Ügyvezető Igazgató a Külügyminiszterek Konferenciája által meghatározott szabályok alapján jár el, harmadik féltől nem fogad el utasításokat.
+
+*34. Cikk*
+
+Az Alap hivatalos nyelve az angol.
+
+7\. Fejezet
+
+*AZ ALAP JOGÁLLÁSA*
+
+*35. Cikk*
+
+Az Alap jogi személy a tevékenységével kapcsolatos célok elérése tekintetében.
+
+8\. Fejezet
+
+*Pénzügyek*
+
+*36. Cikk*
+
+Az Alap tevékenységét a Szerződő Felek hozzájárulásaiból, és a Nagykövetek Tanácsa által elfogadott egyéb vagyoni hozzájárulásokból fedezik.
+
+*37. Cikk*
+
+Minden Szerződő Fél vállalja, hogy évenként hozzájárulást nyújt az Alap vagyonához, a Külügyminiszterek Konferenciája által meghatározott időpontig.
+
+Az első éves hozzájárulás összege a Szerződő Felek egyenlő mértékű hozzájárulása alapján egy millió euro.
+
+A további éves hozzájárulások összegét a Külügyminiszterek Konferenciája határozza meg.
+
+*38. Cikk*
+
+Az Alap vagyonának felhasználására vonatkozó szabályokat a Külügyminiszterek Konferenciája határozza meg.
+
+*39. Cikk*
+
+Az Alap a székhelye szerinti állam területén bankszámlát nyit, melyen az Alap vagyonát tartja. Az Alap adminisztratív ügyeit az Ügyvezető Igazgató intézi.
+
+9\. Fejezet
+
+*A TAGSÁG FELMONDÁSA*
+
+*40. Cikk*
+
+Bármely Szerződő Fél kiléphet az Alapból felmondási okiratának a Letéteményes Kormányhoz történő átadásával. A Szerződő Fél tagsága az okiratnak a Letéteményes Kormány általi kézhezvételtől számított 12 hónap múlva szűnik meg.
+
+*41. Cikk*
+
+A Szerződő Félnek az Alapból történő kiválása esetén, a Szerződő Fél és az Alap között a soron következő Külügyminiszteri Konferencia által jóváhagyott kölcsönös megállapodás rendezi a vagyoni viszonyokat.
+
+10\. Fejezet
+
+*AZ ALAP FELOSZLATÁSA*
+
+*42. Cikk*
+
+Az Alap kizárólag a Szerződő Felek előzetes egyetértése alapján, a Külügyminiszterek Konferenciájának egyhangú döntése által oszlatható fel.
+
+*43. Cikk*
+
+A Jelen Alapszabály 41. Cikke szerinti döntés alkalmával, az Ügyvezető Igazgató haladéktalanul megszüntet minden tevékenységet, kivéve a végelszámolással, pénzügyi követelések behajtásával és kötelezettségek teljesítésével kapcsolatos tevékenységeket.
+
+*44. Cikk*
+
+A vagyon felosztásánál, az Alap kötelezettségeinek teljesítése elsőbbséget élvez a hozzájárulások visszafizetésével szemben.”
+
+## 2. §
+
+(1) Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.

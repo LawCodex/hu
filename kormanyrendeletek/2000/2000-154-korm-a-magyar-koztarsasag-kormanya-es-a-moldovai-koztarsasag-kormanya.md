@@ -1,0 +1,157 @@
+---
+title: "154/2000. (IX. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Kisinyovban, 1998. március 2-án aláírt Megállapodás kihirdetéséről"
+identifier: "154/2000. (IX. 13.) Korm. rendelet"
+njt_id: "2000-154-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/154"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-09-13
+in_force_from: 2000-09-13
+last_amended: 2000-09-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-154-20-22"
+retrieved: 2026-10-12
+---
+
+# 154/2000. (IX. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Kisinyovban, 1998. március 2-án aláírt Megállapodás kihirdetéséről
+
+## (A Megállapodás hatálybalépéséről szóló diplomáciai jegyzékváltás 1999. április 9-én megtörtént.)
+
+### 1. §
+
+A Kormány e rendelettel a Magyar Köztársaság és a Moldovai Köztársaság Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről szóló, Kisinyovban, 1998. március 2-án aláírt Megállapodást kihirdeti.
+
+### 2. §
+
+A Megállapodás hivatalos magyar nyelvű szövege a következő:
+
+,,
+
+**Megállapodás**
+
+**a Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya között a háborúkban elesett katonák és polgári áldozatok emlékhelyeinek megőrzéséről és megörökítéséről, valamint sírjaik jogi helyzetéről**
+
+A Magyar Köztársaság Kormánya és a Moldovai Köztársaság Kormánya (a továbbiakban: Felek)
+
+a Magyar Köztársaság és a Moldovai Köztársaság közötti baráti kapcsolatok és együttműködés alapjairól szóló, 1995. április 19-én, Budapesten aláírt Szerződés rendelkezéseiből kiindulva,
+
+kifejezve mindkét nép azon akaratát – tekintettel a közös történelmi múltra –, hogy a katonáknak, a hadifoglyoknak és más személyeknek, akik a Magyar Köztársaság és a Moldovai Köztársaság területén a háborúk következtében, valamint kényszermunkára történt elhurcolás, illetve nemzeti hovatartozásuk miatt deportálás következtében elestek vagy meghaltak, joguk van méltó sírhelyre, amely kialakítását és gondozását – a háborúk áldozatainak védelméről szóló 1949-es Genfi Egyezmények és az azokat kiegészítő Jegyzőkönyvekben foglaltak szerint megfelelő módon kell biztosítani,[^1]
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Felek a jelen Megállapodásban a következő meghatározásokat alkalmazzák:
+
+*a)* ,,elesett moldovai nemzetiségű katonák és a háborúk polgári áldozatai'' (a továbbiakban: katonák)
+
+a volt Orosz Birodalom, a volt Román Királyság, valamint a volt Szovjetunió azon állampolgárai, akik a Moldovai Köztársaság területén belül éltek, és akik a volt Orosz Birodalom, a volt Román Királyság vagy a volt Szovjetunió fegyveres erői állományába tartoztak, és a háborúkban, hadifogságban vagy a háborúkat követő időszakban a háborúk vagy a fogság következtében a Magyar Köztársaság területén elestek, vagy meghaltak;
+
+a volt Orosz Birodalom, a volt Román Királyság, valamint a volt Szovjetunió azon állampolgárai, akik a mai Moldovai Köztársaság területén éltek, és akiket a háborúk idején erőszakkal kényszermunkára a Magyar Köztársaság területére hurcoltak, és akik ott ez idő alatt meghaltak;
+
+*b)* ,,moldovai nemzetiségű katonák és a háborúk polgári áldozatainak temetkezési helyei''
+
+az *a)* pontban meghatározott, elesett és meghalt katonák, polgári személyek Magyarország területén meglévő és fellelhető temetői, temetőparcellái, sírjai;
+
+*c)* ,,elesett magyar katonák, a háborúk polgári áldozatai'' (a továbbiakban: katonák)
+
+azok a magyar állampolgárok, akik a magyar fegyveres erők állományába tartoztak, és a háborúkban, hadifogságban vagy a háborúkat követő időszakokban a háborúk vagy a fogság következtében a Moldovai Köztársaság mai területén elestek vagy meghaltak;
+
+azok a magyar állampolgárok, akiket a háborúk következtében erőszakkal kényszermunkára a Moldovai Köztársaság mai területére hurcoltak, és akik ott ez idő alatt meghaltak;
+
+*d)* ,,a magyar katonák és a polgári áldozatok temetkezési helyei'' a *c)* pontban megjelölt magyar személyek a Moldovai Köztársaság mai területén meglévő és fellelhető temetői, temetőparcellái és sírjai;
+
+*e)* ,,katonai temetkezési helyek fenntartása és gondozása'' a katonai temetkezési helyek megőrzésének biztosítása, azok temetői növényzettel történő ellátása és megfelelő állapotban való fenntartása;
+
+*f)* ,,katonai temetkezési helyek létesítése és felszerelése'' a katonai temetkezési helyek határainak kijelölése, emléktáblák, sírkövek, emlékművek és más emlékhely-létesítmények felállítása.
+
+*2. Cikk*
+
+1\. A katonák temetkezési helyeinek a Magyar Köztársaság és a Moldovai Köztársaság területén történő megjelölésével, bejegyzésével, létesítésével, felszerelésével, illetve ápolásával, valamint a földi maradványok exhumálásával és újratemetésével kapcsolatos kérdések rendezése során a Felek a jelen Megállapodás rendelkezéseit, valamint azon állam jogszabályait alkalmazzák, amely területén a temetkezési helyek megtalálhatók.
+
+Mindkét Fél tiszteletben tartja államaik nemzeti és vallási hagyományait, a sírok, az emlékművek, valamint az emlékhely-létesítmények feliratozása, illetve létesítése, felszerelése ügyében.
+
+2\. A Felek az általuk felhatalmazott szervek útján kölcsönösen tájékoztatják egymást a katonák temetkezési helyeinek meglétéről, újabbak számáról, nagyságáról, feltárásáról mindkét állam területén, valamint az elesettek és elhunytak személyi adatairól, továbbá ezeket a személyeket érintő és a jelen Megállapodásban foglaltak megvalósításával összefüggő egyéb kérdésekről. Az említett információ alapján hivatalos jegyzéket állítanak össze a katonák temetkezési helyeiről, amelyeket diplomáciai úton adnak át egymásnak.
+
+3\. A Felek biztosítják a katonák temetkezési helyeinek, többek között az emlékművek, más emlékhely-létesítmények védelmét, valamint korlátlan időre történő megőrzését mindkét állam területén.
+
+4\. A Felek a jelen Megállapodásból származó jogok és kötelezettségek érvényesítése során tiszteletben tartják más államok elesett katonáinak földi maradványait, sírjait, temetkezés helyeit, a nemzetközi jogi normáknak megfelelően.
+
+5\. Mindegyik Fél biztosítja a másik Fél állampolgárai számára – saját állama jogrendjének és az érvényes kétoldalú megállapodásoknak megfelelően – a háborúk következtében elhunyt katonák sírjai, temetkezési helyei szabad meglátogatásának lehetőségét.
+
+6\. A Felek kölcsönösen elősegítik az elesettek emlékének megőrzésén munkálkodó egyesületek, alapítványok és más társadalmi szervezetek erőfeszítéseit és együttműködését.
+
+*3. Cikk*
+
+1\. A Felek viszonossági alapon, térítésmentesen egymás használatára bocsátják a katonák temetkezési helyei, emlékhely-létesítményei által elfoglalt földterületeket arra az időre, amíg azok ilyen célt szolgálnak.
+
+2\. Amennyiben a jelen Cikk 1. pontjának megfelelően rendelkezésre bocsátott földterületet kivételes állami érdek miatt más célra kívánják hasznosítani, úgy az érdekelt Fél a jelen Cikk 1. pontjának feltételei mellett új földterületet biztosít és vállalja az elesett katonák földi maradványainak újratemetésével, az emlékhely-létesítmények áthelyezésével és új temetkezési helyek létesítésével, felszerelésével járó költségeket.
+
+3\. A katonák új temetkezési helyéül szolgáló földterület kiválasztása és az újratemetés a Felek kölcsönös megegyezésével, az illetékes szervek döntése alapján történik.
+
+4\. A katonák földi maradványainak a szülőhelyen történő újratemetése céljából történő exhumálás az érdekelt Fél kérésére, a másik Fél és a hozzátartozók egyetértésével történhet.
+
+5\. A földi maradványok újratemetése céljából elvégzendő exhumáláson jogosult jelen lenni azon Fél képviselője, amely katonájának földi maradványait exhumálják.
+
+*4. Cikk*
+
+A katonák temetkezési helyeinek létesítése, felszerelése mindkét állam területén településen kívül, az elesettek emlékének méltó helyen, a Felek kölcsönös megegyezése alapján történik.
+
+*5. Cikk*
+
+1\. Mindegyik Fél saját költségére biztosítja állama területén a másik Fél elesett katonái temetkezési helyeinek, valamint emlékhely-létesítményeinek fenntartását és gondozását.
+
+2\. Az elesett katonák exhumálásával, földi maradványainak áthelyezésével, valamint a katonák újonnan feltárt temetkezési helyeinek létesítésével, felszerelésével kapcsolatos költségeket az a Fél vállalja, amely kérésére vagy döntésére végzik el ezeket a munkákat.
+
+*6. Cikk*
+
+Jelen Megállapodásból fakadó feladatok végrehajtására a Felek képviselőket, szakértőket küldhetnek egymás országába, együttműködnek a helyi szervekkel és igénybe vehetnek helyi anyagokat és munkaerőt.
+
+*7. Cikk*
+
+1\. A Felek bevihetik egymás országába a jelen Megállapodásban megjelölt munkák elvégzéséhez szükséges eszközöket, szállítóeszközöket, anyagokat és tartozékokat.
+
+2\. Ezen Cikk 1. pontjában megjelölt eszközök és anyagok vámkezelésére az alábbiak vonatkoznak:
+
+*a)* az ideiglenesen behozott eszközöket és szállítóeszközöket a Felek hatályos vámszabályai szerint kezelik azzal a kitétellel, hogy a fent nevezett eszközöket és szállítóeszközöket a jelen Megállapodásban megjelölt munkák elvégzése után az országból ismét kiviszik. Ezek az eszközök mentesek a vámbiztosíték nyújtásának kötelezettsége alól;
+
+*b)* a katonai temetők létrehozásához, fenntartásához, gondozásához, díszítéséhez, felújításához, áthelyezéséhez, valamint megszüntetéséhez szükséges anyagok és tartozékok behozatala mentes a vámok, adók és mindenfajta illetékek megfizetése alól, amennyiben a vámhatóság részére a vámáru-nyilatkozathoz csatolják:
+
+– a behozott cikkek pontos listáját,
+
+– az erre felhatalmazott személy által aláírt kötelezvényt, miszerint a megjelölt cikkeket csak a Megállapodásban meghatározott célokra használják.
+
+*8. Cikk*
+
+Mindkét Fél a jelen Megállapodásban foglaltak végrehajtásáért felelős megbízott szervről diplomáciai úton, írásban tájékoztatja egymást.
+
+*9. Cikk*
+
+A Felek kölcsönös megegyezése alapján a jelen Megállapodás módosítható és kiegészíthető.
+
+*10. Cikk*
+
+1\. A jelen Megállapodás határozatlan időre szól és az azt követő 30. nap elteltével lép hatályba, amikor a két Fél diplomáciai úton, írásban kölcsönösen értesíti egymást arról, hogy eleget tett a Megállapodás hatálybalépéséhez szükséges belső jogszabályainak.
+
+2\. A Felek bármelyike felmondhatja a jelen Megállapodást, amennyiben a Megállapodás felmondására irányuló szándékáról írásban értesíti a másik Felet. Ez esetben a Megállapodás a felmondásról szóló értesítés kézhezvételétől számított 6 hónap elteltével hatályát veszti.
+
+Készült Kisinyovban, 1998. március 2-án, két eredeti példányban, magyar és moldáv nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Moldovai Köztársaság\
+Kormánya nevében''
+
+### 3. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetése napján lép hatályba.
+
+(2) A rendelet 2. §-a a Megállapodás 10. Cikkének (1) bekezdésében meghatározott időpontban lép hatályba.
+
+(3) A rendelet végrehajtásáról a honvédelmi miniszter gondoskodik.
+
+---
+
+[^1]: Lásd az 1954: 32. törvényerejű rendeletet, az 1989: 20. törvényerejű rendeletet, valamint a 17/2000. (XI. 16.) KüM, a 18/2000. (XI. 16.) KüM, a 19/2000. (XI. 16.) KüM és a 20/2000. (XI. 16.)küM közleményeket.

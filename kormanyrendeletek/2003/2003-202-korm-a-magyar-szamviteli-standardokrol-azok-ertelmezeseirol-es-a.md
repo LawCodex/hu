@@ -1,0 +1,141 @@
+---
+title: "202/2003. (XII. 10.) Korm. rendelet a magyar számviteli standardokról, azok értelmezéseiről és a kapcsolódó eljárási rendről"
+identifier: "202/2003. (XII. 10.) Korm. rendelet"
+njt_id: "2003-202-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/202"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-12-10
+in_force_from: 2008-05-16
+last_amended: 2014-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-202-20-22"
+retrieved: 2026-10-12
+---
+
+# 202/2003. (XII. 10.) Korm. rendelet a magyar számviteli standardokról, azok értelmezéseiről és a kapcsolódó eljárási rendről
+
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 178. §-a (1) bekezdésének e) pontjában kapott felhatalmazás alapján – a számviteli törvény 176. §-ában foglaltak figyelembevételével – a nemzeti számviteli standardok készítésének, kidolgozásának feltételeire, a standardok elfogadásának, bevezetésének, hatályba léptetésének követelményeire vonatkozóan Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+A rendelet hatálya kiterjed a Magyar Számviteli Standard Testületre, a Standard Előkészítő Testületre, a Standard Értelmező Testületre (a továbbiakban együttesen: standard testületek) és az Országos Számviteli Bizottságra.
+
+## Értelmező rendelkezések
+
+a) [^1] *Magyar számviteli standardok:* olyan, az e rendeletben szabályozott eljárási rend szerint kialakított és számviteli szabályozásért felelős miniszter (a továbbiakban: miniszter) rendeleteként kihirdetett, a számviteli törvény 176. §-ában foglaltak figyelembevételével megalkotott részletes szabályok, módszerek, eljárások, amelyek – a számviteli törvény és a számviteli törvényben kapott felhatalmazás alapján kiadott kormányrendeletek előírásaival összhangban, azokkal együtt, azokat kiegészítve – meghatározzák a beszámolókészítés, a könyvvezetés szabályait.
+
+b) *A magyar számviteli standardok értelmezései:* egyes magyar számviteli standardok alkalmazásáról az e rendeletben szabályozott eljárási rend szerint kialakított és közzétett szakmai állásfoglalások.
+
+c) [^2] *Magyar Számviteli Standard Testület:* az Országos Számviteli Bizottság 21 tagjából és a miniszter által az e rendeletben meghatározottak szerint kinevezett további 11 természetes személyből álló 32 tagú testület, amely az e rendeletben foglalt eljárási rend szerint meghatározza azon témaköröket, amelyekről magyar számviteli standardot indokolt alkotni, meghatározza azon magyar számviteli standardokat, amelyekkel kapcsolatban értelmezést indokolt közzétenni, valamint javaslatot tesz a miniszternek a magyar számviteli standardok kihirdetésére (a továbbiakban: standard-javaslat) és jóváhagyja a magyar számviteli standardok értelmezéseit.
+
+d) *Standard Előkészítő Testület:* az Országos Számviteli Bizottság 11 tagjából álló testület, amely az e rendeletben foglalt eljárási rend szerint összeállítja az egyes magyar számviteli standardok szövegére vonatkozó javaslatot, valamint véleményt nyilvánít az egyes magyar számviteli standardok értelmezésének szükségességéről.
+
+e) *Standard Értelmező Testület:* az Országos Számviteli Bizottság 5 tagjából álló testület, amely az e rendeletben foglalt eljárási rend szerint összeállítja az egyes magyar számviteli standardok értelmezésének tervezeteit.
+
+f) Országos Számviteli Bizottság alatt a számviteli törvény 171. §-ának (1) bekezdése alapján létrehozott testületet kell érteni.
+
+## A magyar számviteli standardok és azok értelmezései megalkotásának célja
+
+### 3. §
+
+(1) A magyar számviteli standardok (a továbbiakban: standardok) megalkotásának célja a magyar számviteli jogszabályok, az Európai Közösségek számviteli előírásai és a Nemzetközi Pénzügyi Beszámolási Standardok közötti összhang megteremtésével a magyar számviteli előírások egységes végrehajtásának, az egységes számviteli gyakorlatnak az elősegítése.
+
+(2) A standardok megfelelő alkalmazását a standardok értelmezései segítik.
+
+## A standard testületek feladatai, a standardok és azok értelmezései megalkotásának rendje
+
+### 4. §
+
+(1) A Magyar Számviteli Standard Testület
+
+a) az Országos Számviteli Bizottság javaslata alapján kialakítja működési rendjét,
+
+b) az Országos Számviteli Bizottság javaslata alapján – az e rendeletben foglaltak figyelembevételével – meghatározza a standard-javaslatok és a standardok értelmezései kialakításának részletes eljárási rendjét,
+
+c) a Standard Előkészítő Testület javaslata alapján dönt a megalkotni indokolt standardok témaköréről és a standard-javaslatok időbeli ütemezéséről,
+
+d)[^3] a Standard Előkészítő Testület javaslata alapján dönt a standard-javaslatokról, és jóváhagyás esetén kezdeményezi a miniszternél a standardok kihirdetését, egyéb esetben felkéri a Standard Előkészítő Testületet azok további egyeztetésére,
+
+e) a Standard Értelmező Testület javaslata alapján dönt a megalkotandó standard-értelmezések témaköréről,
+
+f)[^4] a Standard Értelmező Testület javaslata alapján dönt a standard-értelmezésekről, jóváhagyás esetén kezdeményezi a miniszternél közzétételüket, egyéb esetben felkéri a Standard Értelmező Testületet azok további egyeztetésére.
+
+(2) A Standard Előkészítő Testület
+
+a) az Országos Számviteli Bizottság közreműködésével meghatározza működési rendjét,
+
+b) javaslatot tesz a Magyar Számviteli Standard Testületnek a megalkotandó standardok témakörére és a standard-javaslatok időbeli ütemezésére,
+
+c) összeállítja az egyes standard-javaslatok részletes szakmai koncepcióját és azokról széles körű egyeztetéseket, nyilvános vitát folytat,
+
+d)[^5] a minisztérium bevonásával – a c) pont szerint egyeztetett részletes szakmai koncepció alapján – gondoskodik az egyes standardok szövegére vonatkozó javaslat elkészítéséről,
+
+e) jóváhagyás céljából benyújtja az egyes standard-javaslatokat a Magyar Számviteli Standard Testületnek,
+
+f) véleményezi a Standard Értelmező Testületnek a megalkotandó standard-értelmezések témakörére tett javaslatát.
+
+(3) A Standard Értelmező Testület
+
+a) az Országos Számviteli Bizottság közreműködésével meghatározza működési rendjét,
+
+b) javaslatot tesz a Magyar Számviteli Standard Testületnek a megalkotandó standard-értelmezések témakörére a Standard Előkészítő Testület előzetes véleményének kikérésével,
+
+c) elkészíti az egyes standard-értelmezések szövegét és benyújtja a Magyar Számviteli Standard Testületnek jóváhagyás céljából.
+
+(4)[^6] A Standard Előkészítő Testület a (2) bekezdés c) pontjában foglalt feladatok végrehajtásának elősegítésére tagjaiból és szükség esetén további felkért szakértőkből standard-javaslatonként – legfeljebb összesen 5 fős – munkacsoportot hoz létre, amelyben legalább egy fő a minisztérium képviselője.
+
+(5) A Standard Értelmező Testület a (3) bekezdésben foglalt feladatok végrehajtásának elősegítésére – szükség esetén – további szakértőket kérhet fel.
+
+(6) A hatályos standardok módosításának kezdeményezése során a standard-javaslatok megalkotására vonatkozó, az (1)–(2) és (4) bekezdésekben foglalt eljárási rendet kell értelemszerűen alkalmazni.
+
+(7) A standardok közzétett értelmezéseinek módosítása során a standardok értelmezéseinek megalkotására vonatkozó, az (1)–(3) és (5) bekezdésekben foglalt eljárási rendet kell értelemszerűen alkalmazni.
+
+### 5. §
+
+(1)[^7] A Magyar Számviteli Standard Testület tagjait a miniszter nevezi ki, illetve menti fel. A Magyar Számviteli Standard Testület azon tagjait, akik nem tagjai az Országos Számviteli Bizottságnak, a miniszter az érintett szakmai, társadalmi, érdekképviseleti, felsőoktatási szervezetek javaslatainak figyelembevételével nevezi ki, illetve menti fel.
+
+(2)[^8] A Magyar Számviteli Standard Testület személyi összetételét azon tagok vonatkozásában, akik nem tagjai az Országos Számviteli Bizottságnak, a miniszter minden év március 1-jéig – az adott évre ütemezett standard-javaslatok témakörének, és az azok alapján érintett (1) bekezdés szerinti szervezetek javaslatainak figyelembevételével – felülvizsgálhatja.
+
+(3) A Standard Előkészítő Testület és a Standard Értelmező Testület tagjait az Országos Számviteli Bizottság jelöli ki a saját tagjai közül azzal, hogy egy személy egyidejűleg csak az egyik testület tagja lehet.
+
+### 6. §
+
+(1)[^9] A miniszter a Magyar Számviteli Standard Testület standard-javaslatai alapján gondoskodik a standardok miniszteri rendeleti formában történő kihirdetésének előfeltételét jelentő – külön jogszabályban meghatározott – jogszabály-előkészítési eljárás lefolytatásáról.
+
+(2)[^10] A miniszter az e rendeletben foglalt eljárási szabályok szerint kezdeményezett standardokat az (1) bekezdés szerinti jogszabály-előkészítési eljárás eredményes lefolytatását követően rendeletben kihirdeti.
+
+(3)[^11] A miniszter a Magyar Számviteli Standard Testület kezdeményezésére – a kezdeményezést követő 30 napon belül, nem jogszabályi formában – a Magyar Közlöny mellékletében és a minisztérium hivatalos lapjában közzéteszi a standardokhoz kapcsolódóan az e rendeletben foglalt eljárási szabályok alapján megalkotott és jóváhagyott értelmezéseket.
+
+### 7. §[^12]
+
+A Magyar Számviteli Standard Testület tevékenységét titkárság segíti. A titkársági feladatok ellátásának feltételeit a miniszter biztosítja.
+
+## Záró rendelkezések
+
+### 8. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2004. január 1-jén lép hatályba.
+
+(2) E rendelet 4. §-a (1) bekezdésének d) és f) pontja, (6)–(7) bekezdése, valamint 6. §-a 2005. január 1-jén lép hatályba.
+
+(3)[^13]
+
+---
+
+[^1]: A 2. § a) pontja az 518/2013. (XII. 30.) Korm. rendelet 55. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § a) pontja az 518/2013. (XII. 30.) Korm. rendelet 55. § 2–3. pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés d) pontja az 518/2013. (XII. 30.) Korm. rendelet 55. § 4. pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdés f) pontja az 518/2013. (XII. 30.) Korm. rendelet 55. § 4. pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés d) pontja az 518/2013. (XII. 30.) Korm. rendelet 55. § 5. pontja szerint módosított szöveg.
+[^6]: A 4. § (4) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 6. pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 2. pontja szerint módosított szöveg.
+[^8]: Az 5. § (2) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 2. pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 2. és 7. pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 2. pontja szerint módosított szöveg.
+[^11]: A 6. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 55. § 2. és 8. pontja szerint módosított szöveg.
+[^12]: A 7. § az 518/2013. (XII. 30.) Korm. rendelet 54. §-ával megállapított szöveg.
+[^13]: A 8. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 814. pontja hatályon kívül helyezte.

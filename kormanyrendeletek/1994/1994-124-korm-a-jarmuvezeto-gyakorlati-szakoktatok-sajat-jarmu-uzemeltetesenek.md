@@ -1,0 +1,54 @@
+---
+title: "124/1994. (IX. 15.) Korm. rendelet a járművezető gyakorlati szakoktatók saját jármű üzemeltetésének költségtérítéséről"
+identifier: "124/1994. (IX. 15.) Korm. rendelet"
+njt_id: "1994-124-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/124"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-09-15
+in_force_from: 2004-11-21
+last_amended: 2004-11-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-124-20-22"
+retrieved: 2026-10-12
+---
+
+# 124/1994. (IX. 15.) Korm. rendelet a járművezető gyakorlati szakoktatók saját jármű üzemeltetésének költségtérítéséről
+
+A magánszemélyek jövedelemadójáról szóló 1991. évi XC. törvény (a továbbiakban: Szja. törvény)[^1] 56. § *-ának c)* pontjában[^2] kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. §
+
+(1) A járművezető-képző tevékenységet folytató munkáltató, valamint a járművezető-képző tevékenységet folytató társaság (a továbbiakban együtt: munkáltató) a járművezető-képzésben közreműködő — vele munkaviszonyban, illetőleg tagsági viszonyban álló — szakoktatójának a saját tulajdonú járműve gyakorlati oktatási célú használatáért az e rendeletben meghatározott költségtérítést fizetheti.
+
+(2) Az (1) bekezdés szerinti költségtérítést a munkáltató abban az esetben igazolhatja a magánszemély Szja. törvény 30. §-a (2) bekezdésének *a)* pontja szerinti bevételeként, ha a szakoktatónak a költségtérítéssel összefüggő tevékenységéért olyan munkabért fizet, amely után — a társadalombiztosításról szóló törvény rendelkezései szerint — társadalombiztosítási járulékfizetési kötelezettség terheli.
+
+(3) Az az egyéni vállalkozó, aki a saját tulajdonú járművével gyakorlati oktatást végez, a jármű használatáért költséget az e rendeletben meghatározott költségtérítés összegéig számolhatja el.
+
+## 2. §[^3]
+
+| Kategória | Futásteljesítmény (km/tanóra) | Egyéb költség (Ft/tanóra) |
+|---|---|---|
+| *a)* segédmotoros kerékpár (M kat.) | 16 km | 146 Ft |
+| *b)* motorkerékpár 150 cm<sup>3</sup>-ig (A1 kat.) | 18 km | 255 Ft |
+| *c)* motorkerékpár 200 cm<sup>3</sup>-től (A kat.) | 18 km | 330 Ft |
+| *d)* személygépkocsi (B kat.) | 21 km | 323 Ft |
+| *e)* személygépkocsi-pótkocsi (B+E kat.) | 21 km | 404 Ft |
+| *f)* tehergépkocsi (C, C1 kat.) | 18 km | 836 Ft |
+| *g)* tehergépkocsi + pótkocsi (C+E, C1+E kat.) | 18 km | 1046 Ft |
+| *h)* autóbusz (D, D1 kat.) | 18 km | 1046 Ft |
+
+(2) A magánszemély önálló tevékenységével kapcsolatos költségelszámolásnál az (1) bekezdés szerinti futásteljesítményre jutó összes költséget (ideértve – a futásteljesítményre jutó üzemanyagköltség kivételével – a jármű fenntartási, javítási, felújítási költséget, valamint az értékcsökkenési leírást) elszámoltnak kell tekinteni.
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, a költségtérítés azonban visszamenőlegesen a gyakorlati oktatás céljára használt jármű után 1994. január 1-jétől számolható el.
+
+(2) A költségtérítés elszámolásához használható nyomtatvány — a közúti járművezetők képzéséről, vizsgáztatásáról és szakképesítéséről szóló 20/1992. (VII. 21.) KHVM rendeletben meghatározott — hatóságilag nyilvántartott, hitelesített vezetési karton.
+
+---
+
+[^1]: A törvényt az 1995: CXVII. törvény hatályon kívül helyezte és a tárgykört újra szabályozta.
+[^2]: A Magyar Közlöny 1994. évi 95. számában közzétett helyesbítésnek megfelelő szöveg.
+[^3]: A 2. § a 311/2004. (XI. 13.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 2. §-a alapján a költségtérítés visszamenőlegesen a gyakorlati oktatás céljára használt jármű után 2004. január 1-jétől számolható el.

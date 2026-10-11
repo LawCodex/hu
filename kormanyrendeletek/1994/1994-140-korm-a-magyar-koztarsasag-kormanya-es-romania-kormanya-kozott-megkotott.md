@@ -1,0 +1,124 @@
+---
+title: "140/1994. (XI. 2.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között megkötött Állategészségügyi Egyezmény kihirdetéséről"
+identifier: "140/1994. (XI. 2.) Korm. rendelet"
+njt_id: "1994-140-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/140"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-11-02
+in_force_from: 1994-11-10
+last_amended: 1994-11-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-140-20-22"
+retrieved: 2026-10-12
+---
+
+# 140/1994. (XI. 2.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között megkötött Állategészségügyi Egyezmény kihirdetéséről
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás 1994. május 6. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya közötti Nagyváradon, 1992. október 19-én aláírt Állategészségügyi Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+„**,,ÁLLATEGÉSZSÉGÜGYI EGYEZMÉNY**
+
+**a Magyar Köztársaság Kormánya**\
+**és Románia Kormánya között**
+
+A Magyar Köztársaság Kormánya és Románia Kormánya állategészségügyi szolgálataik együttműködésének és baráti kapcsolataik továbbfejlesztése, államaik területének állatjárványoktól, parazitás megbetegedésektől és zoonózisoktól való megvédése, az élő állatok és állami eredetű termékek forgalmának megkönnyítése érdekében az alábbiakban állapodnak meg:
+
+1\. Fejezet
+
+A Szerződő Felek a fertőző betegségek ragályanyagának államaik területére történő behurcolása megakadályozása érdekében elhatározták, hogy az állatok, állati termékek, az ezekből előállított készítmények, valamint a ragályanyagokat közvetíthető tárgyak kivitele, behozatala vagy átvitele terén együttműködnek.
+
+2\. Fejezet
+
+A Szerződő Felek illetékes hatóságai közösen elkészítik a szükséges megállapodásokat az állategészségügyi ellenőrzés alá eső állatok és áruk behozatalára, kivitelére és átvitelére vonatkozó állategészségügyi feltételekről és az ehhez szükséges belépő állomási pontok meghatározásáról.
+
+3\. Fejezet
+
+(1) A Szerződő Felek illetékesi hatóságai
+
+*a)* nyomban értesítik egymást olyan állatbetegség megállapításáról, amely a Nemzetközi Járványügyi Hivatal (O. I. E.) ,,A'' listáján szerepel, illetve olyan állatbetegség megállapításáról, amely eddig még állama területén megállapításra nem került, vagy pedig már évek óta nem lépett fel az állam területén. Ezen információknak tartalmazniuk kell a megbetegedett állatok faját és darabszámát, a betegség kitörésének helyét, a kórmegállapítás módját, a ragadós száj- és körömfájás esetében a megállapított vírus típusát, valamint a járvány leküzdése érdekében foganatosított rendszabályokat;
+
+*b)* az értesítéseket megküldik mindaddig, amíg a betegséget teljesen fel nem számolták;
+
+*c)* a Szerződő Felek megküldik egymásnak a bejelentési kötelezettség alá tartozó fertőző állatbetegségek helyére vonatkozó hivatalos jelentéseiket.
+
+(2) Ha valamely Szerződő Fél területén az (1) bekezdés a) pontjában megjelölt valamelyik állatbetegség kerül megállapításra, akkor ez a Szerződő Fél átadja a másik félnek kérésére a megállapításra került betegség törzseit.
+
+A Szerződő Felek felkérésre támogatják egymást a diagnózis elkészítésében abban az esetben, ha az (1) bekezdés a) pontjában meghatározott betegség vagy annak gyanúja lép fel.
+
+(3) A Szerződő Felek illetékes állategészségügyi hatóságai nyomban értesítik egymást azokról a hatályba léptetett megelőző rendszabályokról, amelyek valamely szomszédos állam területén fellépett, az (1) bekezdés a) pontja alá tartozó állatbetegségek ragályanyagának a behurcolását tartoznak megakadályozni.
+
+4\. Fejezet
+
+A Szerződő Felek illetékes állategészségügyi hatóságai tájékoztatják egymást különböző állategészségügyi ismeretek alkalmazásáról, állatállományaik fertőző állatbetegségektől, parazitózisoktól és más, az állatállományoknak egészségét veszélyeztető behatásoktól történő megvédése érdekében.
+
+5\. Fejezet
+
+A Szerződő Felek elősegítik az együttműködést alkalmazott állategészségügyi kutatás, valamint az állategészségügy fejlesztése terén, különösen az alábbiak útján:
+
+*a)* az állategészségügyi továbbképzés területén szerzett ismeretek és tapasztalatok;
+
+*b)* együttműködés az állategészségügyi intézmények között;
+
+*c)* az alkalmazott állategészségügyi szakfolyóiratainak és közleményeinek cseréje;
+
+*d)* az állategészségügy területén kibocsátott szervezési változások, jogszabályok és utasítások kölcsönös megküldése;
+
+*e)* tapasztalatcsere, munkalátogatások, kölcsönös tájékoztatás a szakemberek és kutatók között a 7. fejezet előírásai szerint.
+
+6\. Fejezet
+
+A Szerződő Felek illetékes állategészségügyi hatóságai közvetlen kapcsolatban állnak egymással mindazon kérdések terén, amelyeket jelen együttműködési megállapodás rendelkezései érintenek, ennek érdekében nevezettek szükség esetén közös tanácskozás, illetve tapasztalatcsere végett egymást kölcsönösen felkeresik.
+
+7\. Fejezet
+
+Jelen Egyezmény alkalmazásával felmerülő költségek viselése az alábbiak szerint alakul:
+
+*a)* szakfolyóiratok cseréjénél a költségeket a küldő ország viseli;
+
+*b)* ha a Szerződő Felek egyike a másik féltől kutató és szakemberek fogadását kéri, az összes költséget a küldő fél viseli; a két fél megállapodása szerint, szakemberek tanácskozása esetén az útiköltséget a küldő állam, a szállás, az ellátás és a fogadó államon belüli, a látogatással kapcsolatos költségeket a fogadó állam viseli;
+
+*c)* az 5. Fejezet e) pontjában foglaltak végrehajtásánál az útiköltséget a küldő állam, a szállás és ellátás költségeit a fogadó állam viseli.
+
+8\. Fejezet
+
+A jelen Egyezmény előírásainak alkalmazásával kapcsolatosan felmerülő vitás kérdéseket egy Vegyesbizottság vizsgálja ki. A Bizottság mindkét fél részéről 3—3 tagból áll: két állatorvos és egy jogász.
+
+A Bizottság az egyik fél felhívására 30 napon belül ül össze az indítványozó állam területén, az üléseket felváltva vezeti a küldöttségek egy-egy tagja.
+
+Ha a Bizottság a felmerült vitás kérdést nem tudja megoldani, úgy azt diplomáciai úton igyekeznek megoldani.
+
+9\. Fejezet
+
+Jelen Egyezményt ötéves időtartamra kötik. Hatálya további öt évre meghosszabbodik, hacsak a Szerződő Felek valamelyike, legkésőbb hat hónappal a lejárati idő előtt azt írásban, diplomáciai úton fel nem mondja.
+
+10\. Fejezet
+
+Jelen Egyezmény 60 nappal azon jegyzékek kicserélése után lép hatályba, amelyeken a Szerződő Felek egymást kölcsönösen értesítik, hogy az Egyezmény hatálybalépésének belföldi előfeltételei biztosítottak.
+
+Ennek tanúbizonysága jeléül a két Szerződő Fél meghatalmazottjai aláírták és pecsétjükkel látták el jelen Egyezményt.
+
+Jelen Egyezmény hatálytalanítja a Budapesten, 1967. november 22-én kötött Magyar—Román állategészségügyi Egyezményt.
+
+Készült két eredeti példányban, mindegyik román és magyar nyelven és mindkét szöveg egyaránt hiteles.
+
+*(Aláírások)''*”
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1994. július 4. napjától kezdődően kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a földművelésügyi miniszter[^1] gondoskodik.
+
+---
+
+[^1]: Lásd az 1998:XXXVI. tv. 2. §-a (1) bekezdésének d) pontját.

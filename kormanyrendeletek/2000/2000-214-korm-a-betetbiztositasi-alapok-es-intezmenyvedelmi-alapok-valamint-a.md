@@ -1,0 +1,1523 @@
+---
+title: "214/2000. (XII. 11.) Korm. rendelet a betétbiztosítási alapok és intézményvédelmi alapok, valamint a befektető-védelmi alap éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól"
+identifier: "214/2000. (XII. 11.) Korm. rendelet"
+njt_id: "2000-214-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/214"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-11
+in_force_from: 2008-05-16
+last_amended: 2024-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-214-20-22"
+retrieved: 2026-10-12
+---
+
+# 214/2000. (XII. 11.) Korm. rendelet a betétbiztosítási alapok és intézményvédelmi alapok, valamint a befektető-védelmi alap éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól
+
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének b) pontjában kapott felhatalmazás alapján – a Magyar Nemzeti Bank előzetes véleményének kikérésével – a Kormány a következőket rendeli el:
+
+### A rendelet hatálya
+
+#### 1. §[^1]
+
+(1) A rendelet hatálya kiterjed a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) alapján működő Országos Betétbiztosítási Alapra (a továbbiakban: OBA), az önkéntes betétbiztosítási alapokra és intézményvédelmi alapokra (a továbbiakban együtt: önkéntes alapok), a tőkepiacról szóló 2001. évi CXX. törvény alapján működő Befektető-védelmi Alapra (a továbbiakban: Befektető-védelmi Alap), a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény (a továbbiakban: Szanálási törvény) alapján működő Szanálási Alapra (a továbbiakban: Szanálási Alap), valamint a tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény alapján működő Kárrendezési Alapra (a továbbiakban: Kárrendezési Alap).
+
+(2) Az OBA, az önkéntes alapok, a Befektető-védelmi Alap, a Szanálási Alap és a Kárrendezési Alap a Tv. előírásait e rendeletben foglalt eltérésekkel köteles alkalmazni.
+
+## I. Fejezet — AZ ORSZÁGOS BETÉTBIZTOSÍTÁSI ALAP
+
+### Beszámolási és könyvvezetési kötelezettség
+
+#### 2. §
+
+(1) Az OBA az üzleti évről a kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az éves beszámoló az 1. számú melléklet szerinti mérleget, a 2. számú melléklet szerinti eredménykimutatást és a 7. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 8. § szerinti üzleti jelentést is el kell készíteni.
+
+### A mérleg tagolása, tételeinek tartalma
+
+#### 3. §
+
+(1) A mérleg előírt tagolását az 1. számú melléklet tartalmazza.
+
+(2) A készletek között kell kimutatni a tagintézet felszámolása esetén az OBA kezességvállalását fedező jogi biztosíték érvényesítése útján az OBA tulajdonába került vagyontárgyakat is, abban az esetben, ha az OBA nem saját tevékenysége céljára használja azokat, hanem értékesíteni fogja.
+
+(3) A tagintézetekkel szembeni követelések között elkülönítetten kell kimutatni:
+
+a) az egyszeri csatlakozási díj miatt fennálló követelések összegét;
+
+b) a rendszeres éves befizetés miatt fennálló követelések összegét;
+
+c) a rendkívüli éves befizetés miatt fennálló követelések összegét;
+
+d)[^2] az OBA által a befagyott betétek után a betétesek részére fizetett és fizetendő tőke és kamat összegében a tagintézetekkel szemben fennálló, de az OBA-ra átszállt követelések összegét;
+
+e) az OBA által a tagintézettel szemben felszámított kezességvállalási és más visszterhes anyagi kötelezettségvállalási díjakból a még fennálló követelések összegét.
+
+(4) A hitelintézetekkel szembeni egyéb követelések között kell kimutatni:
+
+a) a betéteseknek történő kifizetéssel megbízott hitelintézet részére az OBA által átutalt összeget;
+
+b) az OBA által vállalt kezesség és egyéb visszterhes anyagi kötelezettség beváltása miatt a tagintézettel szemben fennálló követelés összegét is.
+
+(5) A betétesekkel szembeni követelésként kell kimutatni:
+
+a) a tagintézet felszámolása során a betétesek megbízásából behajtandó követelések után az OBA által felszámított díjak miatt fennálló követelés összegét;
+
+b) a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási eljárásban való képviseletéért az OBA által felszámított díjak miatt fennálló követelés összegét.
+
+(6) Állammal szembeni követelésként kell kimutatni az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított lebonyolítási díjak, valamint az állam javára végzett nem betétbiztosítási célú megbízásokból eredő díjak miatt fennálló követelés összegét.
+
+(7) Egyéb követelések között kell kimutatni minden olyan követelést, amelyet az 1. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+(8) Az állampapírok között kell kimutatni az OBA pénzeszközeiből a – készpénzben, valamint likviditási tartalékként az OBA pénzforgalmi számláján tartott, továbbá a kifizetések lebonyolítására átutalt összegeken felüli – szabad pénzösszegeknek állampapír-vásárlásra fordított összegét.
+
+(9) Az egyéb értékpapírok között kell kimutatni a tagintézet felszámolása során az OBA kezességvállalását fedező jogi biztosíték érvényesítése útján az OBA tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét.
+
+#### 4. §
+
+(1)[^3] Az OBA saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+
+(2) Jegyzett tőkeként kell kimutatni az alaptőkét, amely a tagintézetek által az OBA-ba fizetendő egyszeri csatlakozási díjak összegéből áll.
+
+(3)[^4] A tartalékot módosítja az előző üzleti év eredménye.
+
+(4) A rövid lejáratú hitelek között kell kimutatni az OBA által a Magyar Nemzeti Banktól, illetve hitelintézettől felvett hitelek összegét.
+
+(5) A betétesekkel szembeni kötelezettségek között kell kimutatni a betétes megbízásából behajtott követelések betétesek részére járó összegét.
+
+(6) Állammal szembeni kötelezettségként kell kimutatni az állami garanciával biztosított betétek utáni kifizetésekre az OBA-nak már átutalt összegeket, amelyeket az OBA fog a betéteseknek kifizetni.
+
+(7) Az egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet az 1. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+### Mérlegtételekhez kapcsolódó egyéb előírások
+
+#### 5. §
+
+(1) A külföldi pénznemben elhelyezett, devizában biztosított betétek befagyása esetén az OBA-ra átszállt, forintban fennálló követelést a – devizaműveletek végzésére felhatalmazott – hitelintézettől vásárolt és a betéteseknek kifizetett deviza (valuta) összegének a hitelintézet által érvényesített deviza(valuta-)árfolyamon átszámított forintértékén kell kimutatni.
+
+(2) A tagintézet felszámolása esetén az OBA kezességvállalását fedező jogi biztosíték érvényesítése útján az OBA tulajdonába került vagyontárgyakat a vagyonfelosztási javaslatban meghatározott értéken kell a könyvekbe felvenni.
+
+### Az eredménykimutatás tartalma, tagolása
+
+#### 6. §
+
+(1) Az eredménykimutatás előírt tagolását a 2. számú melléklet tartalmazza.
+
+(2) A betétbiztosításból eredő bevételek között elkülönítetten kell kimutatni:
+
+a) a tagintézetek OBA-ba történő rendszeres éves és rendkívüli befizetésének elszámolt összegét;
+
+b) a betétesek megbízásából behajtandó követelések után a betéteseknek felszámított díjbevételek összegét;
+
+c) az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított díjbevétel összegét;
+
+d)[^5] a betétek kifizetésével kapcsolatban felmerült, hitelintézetekre, tagintézetekre vagy költségvetésre áthárított költségek miatti bevételek összegét.
+
+(3) A nem betétbiztosításból eredő bevételek között kell kimutatni:
+
+a) a tagintézetek hitelfelvétele utáni kezességvállalásért felszámított kezességvállalási díj összegét;
+
+b) a tagintézet javára történő egyéb visszterhes anyagi kötelezettségvállalásért felszámított díj összegét;
+
+c) a betétesek, más hitelezők egyezségi tárgyaláson, felszámolási eljárásban történő képviseletéért felszámított díjak összegét;
+
+d) az állam javára végzett nem betétbiztosítási célú megbízásokból eredő díjak összegét.
+
+(4) A betétbiztosításból eredő ráfordítások között elkülönítetten kell kimutatni:
+
+a) a befagyott betétek kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
+
+b) a betétek kifizetésével kapcsolatban felmerült, és a tagintézetekre továbbhárított költségek összegét;
+
+c) a követelések betétesek megbízásából történő behajtásával kapcsolatosan felmerült költségeknek a betétesekre áthárított összegét;
+
+d) az állami garanciával biztosított betétek megbízásból történő kifizetésének lebonyolításával kapcsolatban felmerült költségeknek a költségvetésre áthárított összegét;
+
+e) a tagintézetektől befolyt rendkívüli befizetések esetenként visszafizetett összegét az egyéb betétbiztosítási ráfordítások között;
+
+f) egyéb, a betétbiztosítási tevékenységgel kapcsolatban felmerült, továbbhárított költségek összegét az egyéb betétbiztosítási ráfordítások között.
+
+(5) A nem betétbiztosításból eredő ráfordítások között kell kimutatni a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási eljárásban való képviseletével kapcsolatosan felmerült ráfordítások összegét is.
+
+(6)[^6] A működési költségek között ráfordításonkénti bontásban kell kimutatni az OBA működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét. Ide tartoznak a betétek kifizetésével kapcsolatban felmerült költségeknek és a megelőzési költségeknek a tagintézetekre át nem hárított összegei is. A működési költségek tartalmazzák az OBA megbízásos ügyleteivel kapcsolatban felmerült, továbbszámlázott költségek összegét. A működési költségek nem tartalmazzák a betétbiztosításból és a nem betétbiztosításból eredő ráfordítások között kimutatott költségek összegét.
+
+(7)[^7] Az OBA tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+
+(8)[^8] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+(9)[^9]
+
+### Kiegészítő melléklet
+
+#### 7. §
+
+Az OBA éves beszámolójának kiegészítő mellékletében a Tv. előírásainak értelemszerű figyelembevételén túlmenően be kell mutatni:
+
+a) tagintézetenkénti bontásban a befagyott betétállomány teljes összegét, a befagyott betétek után az üzleti évben kifizetett tőke, valamint kamat összegét, a befagyott betétek után az előző év(ek)ben és az üzleti évben együttesen kifizetett összes tőke és kamat összegét, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között kifizetett összes tőke és összes kamat összegét, a befagyott betétek után még ki nem fizetett tőke és kamat összegét;
+
+b) tagintézetenkénti bontásban a betétesek megbízásából behajtandó követelések összegét;
+
+c) tagintézetenkénti bontásban az állami garanciával biztosított, befagyott betétek megbízásból történő kifizetésének megbízási szerződés szerint vállalt összegét;
+
+d) tagintézetenkénti bontásban a tagintézet hitelfelvétele után az OBA által vállalt kezesség összegét, valamint a kezesség érvényesítése kapcsán teljesített kifizetések összegét, továbbá az OBA által vállalt egyéb visszterhes kötelezettségek összegét, és azok érvényesítése kapcsán teljesített kifizetések összegét;
+
+e) az állampapíroknak a kezességvállalás fedezetére elkülönített összegét;
+
+f) a tagintézet felszámolása során az OBA kezességvállalását fedező jogi biztosíték érvényesítése útján az OBA tulajdonába került vagyontárgyak és értékpapírok vagyonfelosztási javaslat szerinti értékének összegét;
+
+g) a kizárt vagy kilépő tagintézetek további két évre, illetve a visszakövetelhetőségig biztosított állománya után a kizárt vagy kilépő tagintézetek által az OBA-ba üzleti évben befizetett összeget a tagintézetek megjelölésével;
+
+h) tagintézetenkénti bontásban az üzleti évben befizetett éves díjak és rendkívüli befizetések összegét;
+
+i) az OBA tárgyévi költségvetésének terv- és tényszámai közötti jelentős eltérések összegét és indoklását;
+
+j) az OBA által felvett hitelek feltételeit és indoklását;
+
+k) a befagyott betétek kifizetésével kapcsolatban felmerült ráfordításokat tagintézetenkénti megbontásban;
+
+l) egyéb, az OBA Szervezeti és Működési Szabályzatában rögzített, valamint – az Állami Számvevőszék által meghatározott és – a tagintézetek által szükségesnek tartott információs igényeket kielégítő adatokat;
+
+m) a tagintézetek éves díjának megállapításánál figyelembe vett fő szempontokat.
+
+### Üzleti jelentés
+
+#### 8. §
+
+(1) Az üzleti jelentés az éves beszámoló adatainak értékelésével mutatja be az OBA valós vagyoni, pénzügyi, jövedelmi helyzetét, és tájékoztat az igazgatótanács által meghatározott feladatok végrehajtásáról, továbbá az OBA jövőbeni célkitűzéseiről.
+
+(2) Az üzleti jelentésben ki kell térni:
+
+a) a mérleg fordulónapja után bekövetkezett lényeges eseményekre, különösen jelentős folyamatokra;
+
+b) az Igazgatótanács által meghatározott feladatok teljesítésére és azok értékelésére;
+
+c) az OBA következő évi költségvetésére;
+
+d) a nem betétbiztosítási tevékenységből eredő bevételek és ráfordítások jelentős nagysága esetén, azok jogcímenkénti bemutatására.
+
+### Könyvvizsgálat
+
+#### 9. §
+
+(1)[^10] Az OBA csak olyan könyvvizsgálót, könyvvizsgáló céget választhat éves beszámolójának felülvizsgálatára, aki megfelel a Hpt. előírásai szerint a könyvvizsgálóval szemben támasztott követelményeknek.
+
+(2) Az OBA által a tagintézethez kiküldött könyvvizsgáló a vizsgált tagintézetnek nem lehet könyvvizsgálója.
+
+### Az éves beszámoló jóváhagyása
+
+#### 10. §
+
+Az OBA éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – az Igazgatótanács hagyja jóvá.
+
+#### 11. §[^11]
+
+Az éves beszámolót és az üzleti jelentést legkésőbb az üzleti évet követő év május 30-áig kell elkészíteni és az OBA honlapján közzétenni.
+
+## II. Fejezet — ÖNKÉNTES ALAPOK
+
+### Beszámolási és könyvvezetési kötelezettség
+
+#### 12. §
+
+(1) Az önkéntes alap az üzleti évről kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az éves beszámoló az 1. számú melléklet szerinti mérleget, a 3. számú melléklet szerinti eredménykimutatást, a 17. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 18. § szerinti üzleti jelentést is el kell készíteni.
+
+### A mérleg tagolása, tételeinek tartalma
+
+#### 13. §
+
+(1) A mérleg előírt tagolását az 1. számú melléklet tartalmazza.
+
+(2) A készletek között kell kimutatni betétbiztosítási tevékenység esetén a tagintézet felszámolásakor az önkéntes alap kezességvállalását fedező jogi biztosíték érvényesítése útján az önkéntes alap tulajdonába került vagyontárgyakat is, abban az esetben, ha az önkéntes alap nem saját tevékenysége céljára használja azokat, hanem értékesíteni fogja.
+
+(3) A tagintézetekkel szembeni követelések között elkülönítetten kell kimutatni a jegyzett tőkéhez való pénzbeli hozzájárulás, a rendszeres éves befizetés, a rendkívüli befizetés összegében fennálló követelést – betétbiztosítási tevékenység esetén – az önkéntes alap által a befagyott betétek után a betétesek részére kifizetett tőke és kamat összegében a tagintézetekkel szemben fennálló, de az önkéntes alapra átszállt követelések összegét, valamint a visszafizetési kötelezettséggel nyújtott támogatásként fennálló követelések összegét, továbbá a tagintézetekkel szemben felszámított és pénzügyileg nem rendezett kezességvállalási és más visszterhes anyagi kötelezettségvállalási díjak miatt fennálló követelés összegét.
+
+(4) Hitelintézetekkel szembeni egyéb követelésként kell kimutatni a betéteseknek történő kifizetéssel megbízott hitelintézet részére az önkéntes alap által átutalt összeget, az önkéntes alap által vállalt kezesség és egyéb visszterhes anyagi kötelezettség beváltása miatt a tagintézettel szemben fennálló követelés összegét is.
+
+(5) A betétesekkel szembeni követelésként kell kimutatni betétbiztosítási tevékenység esetén, a tagintézet felszámolása során, a betétesek megbízásából behajtandó követelések után az önkéntes alap által felszámított díjak miatt fennálló követelés összegét, a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási eljárásban való képviseletéért az önkéntes alap által felszámított díjak miatt fennálló követelés összegét.
+
+(6) Állammal szembeni követelésként kell kimutatni az állam tagsága esetén a jegyzett tőkéhez való pénzbeli hozzájárulásként az állammal szemben fennálló követelés összegét, valamint betétbiztosítási tevékenység esetén az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított lebonyolítási díjak miatt fennálló követelés összegét.
+
+(7) Egyéb követelések között kell kimutatni minden olyan követelés összegét, amelyet az 1. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+(8) Az állampapírok között kell kimutatni az önkéntes alap szabad pénzeszközeinek állampapír-vásárlásra fordított összegét, valamint az állam tagsága esetén az állam jegyzett tőkéhez való pénzbeli hozzájárulásának konszolidációs államkötvény formájában történő teljesítését.
+
+(9) Az egyéb értékpapírok között kell kimutatni a tagintézet felszámolása során az önkéntes alap kezességvállalását fedező jogi biztosíték érvényesítése útján az önkéntes alap tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét.
+
+#### 14. §
+
+(1)[^12] Az önkéntes alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+
+(2) Jegyzett tőkeként kell kimutatni az alaptőkét, amely a tagintézetek – valamint az állami hozzájárulás esetén az állam – jegyzett tőkéhez teljesítendő pénzbeli hozzájárulásának összegéből áll.
+
+(3)[^13] A tartalékot módosítja az előző üzleti év eredménye.
+
+(4) Rövid lejáratú hitelek között kell kimutatni az önkéntes alap által hitelintézettől felvett rövid lejáratú hitelek összegét.
+
+(5) A betétesekkel szembeni kötelezettségek között kell kimutatni betétbiztosítási tevékenység esetén, a betétes megbízásából behajtott követelések betétesek részére járó összegét.
+
+(6) Egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet az 1. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+### A mérlegtételekhez kapcsolódó egyéb előírások
+
+#### 15. §
+
+(1) A külföldi pénznemben elhelyezett, devizában biztosított betétek befagyása esetén az önkéntes alapra átszállt, forintban fennálló követelést – a devizaműveletek végzésére felhatalmazott – hitelintézettől vásárolt és a betéteseknek kifizetett deviza (valuta) összegének a hitelintézet által érvényesített deviza-(valuta-)árfolyamon átszámított forintértékén kell kimutatni.
+
+(2) A tagintézet felszámolása esetén az önkéntes alap kezességvállalását fedező jogi biztosíték érvényesítése útján az alap tulajdonába került vagyontárgyakat a vagyonfelosztási javaslatban meghatározott értéken kell a könyvekbe felvenni.
+
+(3)[^14] Az önkéntes alapból a tagintézeteknek a Hpt. 256. § (1) bekezdés b) pontja szerint – véglegesen – nyújtott tőkejuttatások összegét a tartalék terhére kell elszámolni.
+
+### Az eredménykimutatás tartalma, tagolása
+
+#### 16. §
+
+(1) A betétbiztosítási és intézményvédelmi tevékenységet folytató önkéntes alap eredménykimutatásának előírt tagolását a 3. számú melléklet tartalmazza.
+
+(2) A betétbiztosítási és intézményvédelmi tevékenységet egyaránt folytató önkéntes alap a tagintézetek rendszeres éves befizetéseinek a létesítő okirat szerinti megállapításakor, külön-külön meg kell határozni a befizetendő összeg betétbiztosítási célra és intézményvédelmi célra szolgáló részét. A befizetett összeg intézményvédelmi célra szolgáló részét az intézményvédelmi bevételek között, a betétbiztosításra szolgáló részét a betétbiztosítási bevételek között kell kimutatni.
+
+(3) A betétbiztosításból eredő bevételek, illetve az intézményvédelmi bevételek között kell kimutatni – rendeltetésétől függően – a tagintézetek önkéntes alapba történő pótbefizetéseinek és rendkívüli befizetéseinek elszámolt összegét is.
+
+(4) A betétbiztosításból eredő bevételek között – a rendszeres és rendkívüli befizetések, valamint a pótbefizetések összegén túlmenően – elkülönítetten kell kimutatni a betétesek megbízásából behajtandó követelések után a betéteseknek felszámított díjbevételek összegét és az állami garanciával biztosított betétek megbízásból történő kifizetése után felszámított díjbevétel összegét is.
+
+(5) Egyéb bevételként kell kimutatni a tagok közé nem tartozó külföldi vagy belföldi jogi és természetes személyek pénzbeli hozzájárulását is.
+
+(6) A nem betétbiztosítási és intézményvédelmi bevételek között kell kimutatni a tagintézetek hitelfelvétele utáni kezességvállalásért felszámított kezességvállalási díj összegét, valamint a tagintézet javára történő egyéb visszterhes anyagi kötelezettségvállalásért felszámított díj összegét, a betétesek, más hitelezők egyezségi tárgyaláson, felszámolási eljárásban történő képviseletéért felszámított díjak összegét, és egyéb – a betétbiztosítási és az intézményvédelmi tevékenységek közé nem tartozó – tevékenységekkel, szolgáltatásokkal kapcsolatban keletkezett bevételek összegét.
+
+(7) A betétbiztosításból eredő ráfordítások között elkülönítetten kell kimutatni a befagyott betétek kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét, a betétek kifizetésével kapcsolatban felmerült és a tagintézetekre továbbhárított költségek összegét, a követelések betétesek megbízásából történő behajtásával kapcsolatosan felmerült költségeknek a betétesekre áthárított összegét, az állami garanciával biztosított betétek megbízásból történő kifizetésének lebonyolításával kapcsolatban felmerült költségeknek a költségvetésre áthárított összegét, a tagintézetektől befolyt rendkívüli befizetések esetenként visszafizetett összegét, egyéb, a betétbiztosítási tevékenységgel kapcsolatban felmerült, továbbhárított költségek összegét.
+
+(8) Intézményvédelmi ráfordításként kell kimutatni a tagintézetekre áthárított, és így a működési költségek közé nem tartozó, a válság megelőzésével, a tagintézetek gazdálkodásának ellenőrzésével és fejlesztésével kapcsolatban felmerült költségek összegét, továbbá az eredményrendezés céljából a tagintézeteknek nyújtott végleges támogatások összegét.
+
+(9) A nem betétbiztosítási és intézményvédelmi ráfordítások között kell kimutatni a betétesek és más hitelezők egyezségi tárgyaláson, felszámolási eljárásban való képviseletével kapcsolatosan felmerült ráfordítások összegét, valamint a betétbiztosítási és az intézményvédelmi tevékenységek közé nem tartozó egyéb tevékenységekkel és szolgáltatásokkal kapcsolatban felmerült ráfordítások összegét.
+
+(10) A működési költségek között ráfordításonkénti bontásban kell kimutatni az önkéntes alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét, továbbá a betétek kifizetésével kapcsolatban felmerült költségeknek a tagintézetekre át nem hárított összegét, és a válság megelőzésével, a tagintézetek gazdálkodásának ellenőrzésével és fejlesztésével kapcsolatban felmerült költségek tagintézetekre át nem hárított összegét. A működési költségek nem tartalmazzák a betétbiztosítási tevékenységgel összefüggő megbízásos ügyletekkel kapcsolatban felmerült, továbbszámlázott költségek összegét, a válság megelőzésével kapcsolatban felmerült intézményvédelmi ráfordítások összegét, és a nem betétbiztosítási és intézményvédelmi tevékenységből eredő ráfordítások összegét.
+
+(11)[^15] Tárgyévi eredményként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+
+(12)[^16] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+(13)[^17]
+
+### Kiegészítő melléklet
+
+#### 17. §
+
+Az önkéntes alap éves beszámolójának kiegészítő mellékletében a Tv. előírásainak értelemszerű figyelembevételén túlmenően be kell mutatni:
+
+1\. tagintézetenkénti bontásban a befagyott betétállomány teljes összegét, a befagyott betétek után az üzleti évben kifizetett tőke, valamint kamat összegét, a befagyott betétek után az üzleti évet megelőző év(ek)ben és az üzleti évben együttesen kifizetett összes tőke és kamat összegét, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között kifizetett összes tőke és összes kamat összegét, a befagyott betétek után még ki nem fizetett tőke és kamat összegét;
+
+2\. tagintézetenkénti bontásban a betétesek megbízásából behajtandó követelések összegét;
+
+3\. tagintézetenkénti bontásban az állami garanciával biztosított, befagyott betétek megbízásból történő kifizetésének megbízási szerződés szerint vállalt összegét;
+
+4\. tagintézetenkénti bontásban a tagintézet hitelfelvétele után az önkéntes alap által vállalt kezesség összegét, valamint a kezesség érvényesítése kapcsán teljesített kifizetések összegét, továbbá az önkéntes alap által vállalt egyéb visszterhes kötelezettségek összegét, és azok érvényesítése kapcsán teljesített kifizetések összegét;
+
+5\. az állampapíroknak a kezességvállalás fedezetére elkülönített összegét;
+
+6\. a tagintézet felszámolása során az önkéntes alap kezességvállalását fedező jogi biztosíték érvényesítése útján az önkéntes alap tulajdonába került vagyontárgyak és értékpapírok vagyonfelosztási javaslat szerinti értékének összegét;
+
+7\. a kizárt vagy kilépő tagintézeteknek a visszakövetelhetőségig biztosított betétállománya után, a kizárt vagy kilépő tagintézetek által az önkéntes alapba az üzleti évben befizetett összeget a tagintézetek megjelölésével;
+
+8\. az önkéntes alap az üzleti évi költségvetésének végrehajtását, terv- és tényszámai közötti jelentős eltérések összegét és indoklását;
+
+9\. a befagyott betétek kifizetésével kapcsolatban felmerült ráfordításokat tagintézetenkénti megbontásban;
+
+10\. tagintézetenkénti bontásban a befizetett alaptőkének, a rendszeres éves befizetésnek, pótbefizetésnek és a rendkívüli befizetéseknek a mérlegkészítés időpontjáig az üzleti évben és azt megelőző években együttesen teljesített összegét;
+
+11\. a tagok közé nem tartozó külföldi és belföldi jogi személyek és természetes személyek pénzbeli és nem pénzbeli hozzájárulásainak a mérlegkészítés időpontjáig teljesített összegét;
+
+12\. tagintézetenkénti bontásban az üzleti évben befolyt rendszeres éves befizetés, pótbefizetés és rendkívüli befizetés összegét;
+
+13\. tagintézetenkénti bontásban a tagintézeteknek külön-külön az előző év(ek)ben és az üzleti évben együttesen, valamint a mérleg fordulónapja és a mérlegkészítés időpontja között nyújtott végleges tőkejuttatás és eredményrendezés céljára nyújtott végleges támogatás összegét;
+
+14\. tagintézetenkénti bontásban a tagintézeteknek az üzleti évben nyújtott végleges tőkejuttatás és eredményrendezés céljára nyújtott végleges támogatás összegét;
+
+15\. tagintézetenkénti bontásban a tagintézeteknek az előző év(ek)ben és az üzleti évben, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között visszafizetési kötelezettség mellett nyújtott támogatás együttes összegét, és a befolyt törlesztés összegét;
+
+16\. tagintézetenkénti bontásban a tagintézeteknek az üzleti évben visszafizetési kötelezettség mellett nyújtott támogatás, és a befolyt törlesztések összegét és célját;
+
+17\. kilépett tagok megnevezését;
+
+18\. tagintézetenkénti bontásban a tag kilépése miatt azonnal esedékessé vált tartozások összegét, valamint az ingyenes juttatások, végleges támogatások kölcsöntartozássá átalakult összegét;
+
+19\. az önkéntes alap mindenkori törzsvagyonának összegét, és a törzsvagyonba az előző évben, továbbá az üzleti évben a mérleg fordulónapjáig és a mérlegkészítés időpontjáig teljesített tagintézeti befizetések, befektetési hozamok, konszolidációs állampapírok, nem tagok általi pénzbeli hozzájárulások együttes összegét;
+
+20\. az önkéntes alap által felvett hitelek feltételeit és indoklását;
+
+21\. a befektetett pénzügyi eszközök részletes bemutatását;
+
+22\. egyéb, az önkéntes alap belső szabályzatában rögzített, valamint a tagok által szükségesnek tartott információs igényeket kielégítő adatokat.
+
+### Üzleti jelentés
+
+#### 18. §
+
+Az üzleti jelentésben ki kell térni:
+
+a) a mérleg fordulónapja után bekövetkezett lényeges eseményekre, különösen jelentős folyamatokra;
+
+b) az önkéntes alap létesítő okiratában meghatározott irányító szerve által megállapított feladatok teljesítésére és azok értékelésére;
+
+c) az önkéntes alap következő évi költségvetésére;
+
+d) a nem betétbiztosítási és intézményvédelmi bevételek és ráfordítások jelentős nagysága esetén, azok jogcímenkénti bemutatására.
+
+### Könyvvizsgálat
+
+#### 19. §[^18]
+
+Az önkéntes alap csak olyan könyvvizsgálót, könyvvizsgáló céget választhat éves beszámolójának felülvizsgálatára, aki megfelel a Hpt. előírásai szerint a könyvvizsgálóval szemben támasztott követelményeknek.
+
+### Az éves beszámoló jóváhagyása
+
+#### 20. §
+
+(1) Az éves beszámolót és az üzleti jelentést – ennek részeként a következő évi költségvetést – az önkéntes alap közgyűlése hagyja jóvá.
+
+(2)[^19] Az éves beszámolót és az üzleti jelentést legkésőbb az üzleti évet követő év május 30-áig kell elkészíteni és benyújtani a tagintézetekhez, az állam tagsága esetén a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumhoz, az önkéntes alap elszámolási betétszámláját vezető hitelintézethez és a Magyar Nemzeti Bankhoz.
+
+## III. Fejezet — BEFEKTETŐ-VÉDELMI ALAP
+
+### Beszámolási és könyvvezetési kötelezettség
+
+#### 21. §
+
+(1) A Befektető-védelmi Alap az üzleti évről kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az éves beszámoló a 4. számú melléklet szerinti mérleget, a 5. számú melléklet szerinti eredménykimutatást és a 26. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 27. § szerinti üzleti jelentést is el kell készíteni.
+
+### A mérleg tagolása, tételeinek tartalma
+
+#### 22. §
+
+(1) A mérleg előírt tagolását a 4. számú melléklet tartalmazza.
+
+(2) A készletek között kell kimutatni a tag felszámolása esetén a Befektető-védelmi Alap taggal szembeni követelése (a kártalanítás és az annak kifizetésével kapcsolatos költségek stb. miatt) fejében kapott, a Befektető-védelmi Alap tulajdonába került vagyontárgyakat is, abban az esetben, ha a Befektető-védelmi Alap nem saját tevékenysége céljára használja azokat, hanem értékesíteni fogja.
+
+(3) A tagokkal szembeni követelések között elkülönítetten kell kimutatni:
+
+a) az egyszeri csatlakozási díj miatt fennálló követelések összegét;
+
+b) a rendszeres éves befizetés miatt fennálló követelések összegét;
+
+c) a rendkívüli éves befizetés miatt fennálló követelések összegét;
+
+d) a Befektető-védelmi Alap által a befagyott követelések után a befektetők részére kifizetett kártalanítás összegének a tagokkal szemben fennálló, de a Befektető-védelmi Alapra átszállt összegét, valamint azok kifizetésével kapcsolatos költségek tagra áthárított összegét.
+
+(4)[^20] A tagokkal szembeni egyéb követelések között kell kimutatni a befektetőknek történő kifizetéssel megbízott szervezet részére a Befektető-védelmi Alap által átutalt összeget.
+
+(5) A befektetőkkel szembeni követelésként kell kimutatni:
+
+a) a tag felszámolása során a befektetők megbízásából behajtandó követelések után a Befektető-védelmi Alap által felszámított díjak miatt fennálló követelés összegét;
+
+b) a befektetők egyezségi tárgyaláson, felszámolási eljárásban való képviseletéért a Befektető-védelmi Alap által felszámított díjak miatt fennálló követelés összegét.
+
+(6) Egyéb követelések között kell kimutatni minden olyan követelést, amelyet a 4. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+(7) Az állampapírok között kell kimutatni a Befektető-védelmi Alap pénzeszközeiből a – készpénzben, valamint a likviditási tartalékként a Befektető-védelmi Alap pénzforgalmi számláján tartott, továbbá a kifizetések lebonyolítására átutalt összegeken felüli – szabad pénzösszegeknek állampapír-vásárlásra fordított összegét.
+
+(8) Az egyéb értékpapírok között kell kimutatni a tag felszámolása során a Befektető-védelmi Alap taggal szembeni követelése fejében kapott, a Befektető-védelmi Alap tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét.
+
+#### 23. §
+
+(1)[^21] A Befektető-védelmi Alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+
+(2) Jegyzett tőkeként kell kimutatni az alaptőkét, amely a tagok által a Befektető-védelmi Alapba fizetendő egyszeri csatlakozási díjak összegéből áll.
+
+(3)[^22] A tartalékot módosítja az előző üzleti év eredménye.
+
+(4)[^23] A Befektető-védelmi Alap a Magyar Nemzeti Banktól, illetve hitelintézettől felvett éven belüli lejáratú hiteleket a rövid lejáratú hitelek között, az éven túli lejáratú hiteleket a hosszú lejáratú kötelezettségek között mutatja ki.
+
+(5) A befektetőkkel szembeni kötelezettségek között kell kimutatni a befektetők megbízásából behajtott követelések befektetők részére járó összegét.
+
+(6) Az egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet a 4. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+### Mérlegtételekhez kapcsolódó egyéb előírások
+
+#### 24. §
+
+A tag felszámolása esetén a Befektető-védelmi Alap taggal szembeni követelése fejében kapott, a Befektető-védelmi Alap tulajdonába került vagyontárgyakat a vagyonfelosztási javaslatban meghatározott értéken kell a könyvekbe felvenni.
+
+### Az eredménykimutatás tartalma, tagolása
+
+#### 25. §
+
+(1) Az eredménykimutatás előírt tagolását a 5. számú melléklet tartalmazza.
+
+(2) A befektetővédelmi bevételek között elkülönítetten kell kimutatni:
+
+a) a tagok Befektető-védelmi Alapba történő rendszeres éves és rendkívüli befizetésének elszámolt összegét;
+
+b) a befektetők megbízásából behajtandó követelések után a befektetőknek felszámított díjbevételek összegét.
+
+(3) A nem befektetővédelmi bevételek között kell kimutatni a befektető egyezségi tárgyaláson, felszámolási eljárásban történő képviseletéért felszámított díjak összegét.
+
+(4) A befektetővédelmi ráfordítások között elkülönítetten kell kimutatni:
+
+a) a befagyott követelések kifizetésével megbízott szervezetnek fizetett lebonyolítási díj összegét;
+
+b) a követelések kifizetésével kapcsolatban felmerült, és a tagokra továbbhárított költségek összegét;
+
+c) a követelések befektetők megbízásából történő behajtásával kapcsolatosan felmerült költségeknek a befektetőkre áthárított összegét;
+
+d) egyéb, a befektetővédelmi tevékenységgel kapcsolatban felmerült, továbbhárított költségek összegét.
+
+(5) A nem befektetővédelmi ráfordítások között kell kimutatni a befektetők egyezségi tárgyaláson, felszámolási eljárásban való képviseletével kapcsolatosan felmerült ráfordítások összegét is.
+
+(6) A működési költségek között ráfordításonkénti bontásban kell kimutatni a Befektető-védelmi Alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét. Idetartoznak a követelések kifizetésével kapcsolatban felmerült költségeknek és a megelőzési költségeknek a tagokra át nem hárított összegei is. A működési költségek nem tartalmazzák a Befektető-védelmi Alap megbízásos ügyleteivel kapcsolatban felmerült, továbbszámlázott költségek összegét, valamint a befektetővédelmi és a nem befektetővédelmi ráfordítások között kimutatott költségek összegét.
+
+(7)[^24] A Befektető-védelmi Alap tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+
+(8)[^25] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+(9)[^26]
+
+### Kiegészítő melléklet
+
+#### 26. §
+
+A Befektető-védelmi Alap éves beszámolójának a kiegészítő mellékletében a Tv. előírásainak értelemszerű figyelembevételén túlmenően be kell mutatni:
+
+a) tagonkénti bontásban a mérleg fordulónapján fennálló befagyott követelésállomány teljes összegét, a kártalanítási összeget, a befagyott követelések után az üzleti évben kifizetett kártalanítás összegét, a befagyott követelések után az előző év(ek)ben és az üzleti évben együttesen kifizetett összes kártalanítás összegét, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között kifizetett összes kártalanítás összegét, a befagyott követelések után fizetendő kártalanítási összeg még ki nem fizetett részét;
+
+b) tagonkénti bontásban a befektetők megbízásából behajtandó követelések összegét;
+
+c) a tag felszámolása során a Befektető-védelmi Alap taggal szembeni követelése fejében kapott, a Befektető-védelmi Alap tulajdonába került vagyontárgyak és értékpapírok vagyonfelosztási javaslat szerinti értékének összegét;
+
+d) tagonkénti bontásban az üzleti évben befizetett éves díjak és rendkívüli befizetések összegét;
+
+e) a Befektető-védelmi Alap üzleti évi költségvetésének terv- és tényszámai közötti jelentős eltérések összegét és indoklását;
+
+f) a Befektető-védelmi Alap által felvett hitelek feltételeit és indoklását;
+
+g) a befagyott követelések kifizetésével kapcsolatban felmerült ráfordításokat tagonkénti megbontásban;
+
+h) egyéb, a Befektető-védelmi Alap Szervezeti és Működési Szabályzatában rögzített adatokat.
+
+### Üzleti jelentés
+
+#### 27. §
+
+(1) Az üzleti jelentés az éves beszámoló adatainak értékelésével mutatja be a Befektető-védelmi Alap valós vagyoni, pénzügyi, jövedelmi helyzetét, és tájékoztat az igazgatóság által meghatározott feladatok végrehajtásáról, továbbá a Befektető-védelmi Alap jövőbeni célkitűzéseiről.
+
+(2) Az üzleti jelentésben ki kell térni:
+
+a) a mérleg fordulónapja után bekövetkezett lényeges eseményekre, különösen jelentős folyamatokra;
+
+b) az igazgatóság által meghatározott feladatok teljesítésére és azok értékelésére;
+
+c) a Befektető-védelmi Alap következő évi költségvetésére;
+
+d) a nem befektetővédelmi tevékenységből eredő bevételek és ráfordítások jelentős nagysága esetén, azok jogcímenkénti bemutatására.
+
+### Könyvvizsgálat
+
+#### 28. §
+
+(1)[^27] A Befektető-védelmi Alap csak olyan könyvvizsgálót, könyvvizsgáló céget választhat éves beszámolójának felülvizsgálatára, aki megfelel a Tv. 155. §-ának (6)–(7) és (10) bekezdése szerint a könyvvizsgálóval szemben támasztott követelményeknek.
+
+(2) A Befektető-védelmi Alap által a taghoz kiküldött könyvvizsgáló a vizsgált tagnak nem lehet könyvvizsgálója.
+
+### Az éves beszámoló jóváhagyása
+
+#### 29. §
+
+(1) A Befektető-védelmi Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – az Igazgatóság hagyja jóvá.
+
+(2)[^28] Az éves beszámolót és az üzleti jelentést legkésőbb az üzleti évet követő év május 30-áig kell elkészíteni és benyújtani a tagokhoz és a Magyar Nemzeti Bankhoz.
+
+## IV. Fejezet[^29] — SZANÁLÁSI ALAP
+
+### Beszámolási és könyvvezetési kötelezettség
+
+#### 29/A. §
+
+(1) A Szanálási Alap az üzleti évről kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az éves beszámoló a 6. számú melléklet szerinti mérleget, a 7. számú melléklet szerinti eredménykimutatást és a 29/E. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 29/F. § szerinti üzleti jelentést is el kell készíteni.
+
+### A mérleg tagolása, tételeinek tartalma
+
+#### 29/B. §
+
+(1) A mérleg előírt tagolását a 6. számú melléklet tartalmazza.
+
+(2) Az intézményekkel szembeni követelések között elkülönítetten kell kimutatni:
+
+a) a díjkövetelések soron a csatlakozási díjjal, a rendszeres éves befizetéssel és a rendkívüli befizetéssel összefüggésben fennálló követelések összegét;
+
+b) a követelések hitelnyújtásból soron a Szanálási Alap által az intézményeknek nyújtott hitelekből származó követelések összegét;
+
+c) az intézményekkel szembeni egyéb követelések között a díjkövetelésnek és a hitelnyújtásból származó követelésnek nem minősülő minden egyéb követelés összegét, amely az intézményekkel szemben áll fenn.
+
+(3) Egyéb követelések között kell kimutatni minden olyan követelést, amelyet a 6. számú melléklet szerinti mérlegben nem kell az intézményekkel szembeni követelések között külön tételként szerepeltetni.
+
+(4) Az állampapírok között kell kimutatni a Szanálási Alap szabad pénzeszközeinek állampapír vásárlására fordított összegét.
+
+(5) Az egyéb értékpapírok között kell kimutatni – egyebek mellett – az intézmény szanálása során a Szanálási Alap tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét, és az állam által a Szanálási Alap részére értékesített tagsági részesedések összegét.
+
+#### 29/C. §
+
+(1)[^30] A Szanálási Alap saját tőkéje a jegyzett tőkét, a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+
+(2) Jegyzett tőkeként kell kimutatni az alaptőkét, amely az intézmények által a Szanálási Alapba fizetendő csatlakozási díjak összegéből áll.
+
+(3)[^31] A tartalékot módosítja az előző üzleti év eredménye.
+
+(4) Az állammal szembeni kötelezettség soron kell kimutatni az állam által szanálási célra rendelkezésre bocsátott források összegét.
+
+(5) Tartozások kötvénykibocsátásból soron kell kimutatni a Szanálási Alap által céljai megvalósítása érdekében kibocsátott hitelviszonyt megtestesítő értékpapírokat.
+
+(6) Egyéb hosszú lejáratú kötelezettségek között kell kimutatni minden olyan hosszú lejáratú kötelezettséget, amelyet a tartozások kötvénykibocsátásból sor nem tartalmaz.
+
+(7) Szanálási tevékenységből származó kötelezettségek között elkülönítetten kell kimutatni:
+
+a) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény vagy szanálási vagyonkezelő eszközeivel, kötelezettségeivel kapcsolatban vállalt garancia beváltása,
+
+b) az OBA-nak, tulajdonosoknak és hitelezőknek fizetendő kártalanítás,
+
+c) egyéb szanálási tevékenységből származó költség, ráfordítás
+
+miatt felmerülő kötelezettséget.
+
+(8) Rövid lejáratú hitelek között kell kimutatni a Szanálási Alap által hitelintézettől felvett rövid lejáratú hitelek összegét.
+
+(9) Egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet a 6. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+### Az eredménykimutatás tartalma, tagolása
+
+#### 29/D. §
+
+(1) A Szanálási Alap eredménykimutatásának előírt tagolását a 7. számú melléklet tartalmazza.
+
+(2) A szanálási tevékenységgel összefüggésben az intézmények által befizetett rendszeres éves befizetés, rendkívüli befizetés és minden egyéb, intézményektől származó bevétel összegét a szanálási tevékenységgel kapcsolatos bevételek között kell elszámolni.
+
+(3) Szanálási tevékenységgel kapcsolatos ráfordítások között kell kimutatni
+
+a) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény vagy szanálási vagyonkezelő eszközeivel, kötelezettségeivel kapcsolatban vállalt garancia beváltása,
+
+b) a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény vagy szanálási vagyonkezelő részére nyújtott hitel miatti követelés hitelezési veszteségként történő leírása, illetve elengedése,
+
+c) a szanálás alatt álló intézmény megvásárolt eszközeivel kapcsolatos értékcsökkenés, értékvesztés,
+
+d) az OBA-nak, tulajdonosoknak és hitelezőknek fizetendő kártalanítás,
+
+e) az egyéb szanálási tevékenységből származó ráfordítás
+
+miatt felmerülő összeget.
+
+(4) A működési költségek között ráfordításonkénti bontásban kell kimutatni a Szanálási Alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét, továbbá a kifizetésekkel kapcsolatban felmerült költségeknek az intézményekre át nem hárított összegét, és a válság megelőzésével, az intézmények gazdálkodásának ellenőrzésével és fejlesztésével kapcsolatban felmerült költségek intézményekre át nem hárított összegét.
+
+(5)[^32] Tárgyévi eredményként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+
+(6)[^33] Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+(7)[^34]
+
+### Kiegészítő melléklet
+
+#### 29/E. §
+
+A Szanálási Alap éves beszámolójának kiegészítő mellékletében a Tv. előírásain túlmenően be kell mutatni:
+
+1\. a Szanálási Alap üzleti évi költségvetésének végrehajtását, terv- és tényszámai közötti jelentős eltérések összegét és indoklását;
+
+2\. a befizetett csatlakozási díjnak, a rendszeres éves befizetésnek és a rendkívüli befizetéseknek a mérlegkészítés időpontjáig az üzleti évben és azt megelőző években együttesen teljesített összegét;
+
+3\. intézményenkénti bontásban az üzleti évben befolyt csatlakozási díj, rendszeres éves befizetés és rendkívüli befizetés összegét;
+
+4\. szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény és szanálási vagyonkezelő bontásban és az ilyen típusú szervezeteknek szervezetenkénti bontásban az előző üzleti év(ek)ben és az üzleti évben együttesen, valamint a mérleg fordulónapja és a mérlegkészítés időpontja között nyújtott hitel, illetve a velük szemben vállalt garancia összegét;
+
+5\. a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény és szanálási vagyonkezelő bontásban és az ilyen típusú szervezeteknek szervezetenkénti bontásban az üzleti évben nyújtott hitel, illetve a velük szemben vállalt garancia összegét;
+
+6\. a szanálás során megvásárolt eszközök piaci értékét szanálás alatt álló intézményenként;
+
+7\. áthidaló intézménynek vagy szanálási vagyonkezelőnek az előző üzleti év(ek)ben és az üzleti évben együttesen, valamint a mérleg fordulónapja és a mérlegkészítés időpontja között nyújtott végleges tőkejuttatás és egyéb hozzájárulás összegét intézményenként és jogcím szerint;
+
+8\. áthidaló intézménynek vagy szanálási vagyonkezelőnek az üzleti évben nyújtott végleges tőkejuttatás és egyéb hozzájárulás összegét intézményenként és jogcím szerint;
+
+9\. az előző üzleti év(ek)ben és az üzleti évben együttesen, valamint a mérleg fordulónapja és a mérlegkészítés időpontja között fizetett, illetve fizetendő kártalanítás összegét jogosult személyek és szervezetek szerinti bontásban;
+
+10\. az üzleti évben fizetett, illetve fizetendő kártalanítás összegét jogosult személyek és szervezetek szerinti bontásban;
+
+11\. a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény és szanálási vagyonkezelő bontásban és az ilyen típusú szervezeteknek szervezetenkénti bontásban az előző üzleti év(ek)ben és az üzleti évben, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között visszafizetési kötelezettség mellett nyújtott támogatás együttes összegét és a befolyt törlesztések összegét;
+
+12\. a szanálás alatt álló intézmény, annak leányvállalatai, áthidaló intézmény és szanálási vagyonkezelő bontásban és az ilyen típusú szervezeteknek szervezetenkénti bontásban az üzleti évben visszafizetési kötelezettség mellett nyújtott támogatás és a befolyt törlesztések összegét és célját;
+
+13\. a Szanálási Alap mindenkori saját tőke összegét és annak változását, továbbá a befektetési hozamokat, valamint a nem tagok általi pénzbeli hozzájárulások és az állam által szanálási célra rendelkezésre bocsátott források együttes összegét;
+
+14\. a Szanálási Alap által felvett hitelek, illetve azok felhasználásának feltételeit és indoklását;
+
+15\. az állam által szanálási célra visszatérítési kötelezettséggel rendelkezésre bocsátott források összegét, jogcímeit, illetve a már visszafizetett és még fennálló tartozások összegét és azok jogcímeit, a fizetett kamatokat táblázatos formában;
+
+16\. az állam által a Szanálási Alap részére értékesített tagsági részesedések piaci értékét;
+
+17\. a befektetett pénzügyi eszközöket;
+
+18\. egyéb, a Szanálási Alap belső szabályzatában rögzített, valamint a tagok által szükségesnek tartott további információs igényeket kielégítő adatokat.
+
+### Üzleti jelentés
+
+#### 29/F. §
+
+(1) Az üzleti jelentés az éves beszámoló adatainak értékelésével mutatja be a Szanálási Alap valós vagyoni, pénzügyi, jövedelmi helyzetét, és tájékoztat az Igazgatótanács által meghatározott feladatok végrehajtásáról, továbbá a Szanálási Alap jövőbeni célkitűzéseiről.
+
+(2) Az üzleti jelentésben ki kell térni:
+
+a) a mérleg fordulónapja után bekövetkezett lényeges eseményekre, különösen jelentős folyamatokra;
+
+b) az Igazgatótanács által meghatározott feladatok teljesítésére és azok értékelésére;
+
+c) a Szanálási Alap következő évi költségvetésére.
+
+(3)[^35] A Szanálási Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – az Igazgatótanács hagyja jóvá.
+
+## V. Fejezet[^36] — KÁRRENDEZÉSI ALAP
+
+### Beszámolási és könyvvezetési kötelezettség
+
+#### 29/G. §
+
+(1) A Kárrendezési Alap az üzleti évről kettős könyvvitellel alátámasztott éves beszámolót köteles készíteni.
+
+(2) Az éves beszámoló a 8. számú melléklet szerinti mérleget, a 9. számú melléklet szerinti eredménykimutatást és a 29/K. § szerinti kiegészítő mellékletet foglalja magában. Az éves beszámolóval egyidejűleg a 29/L. § szerinti üzleti jelentést is el kell készíteni.
+
+### A mérleg tagolása, tételeinek tartalma
+
+#### 29/H. §
+
+(1) A mérleg előírt tagolását a 8. számú melléklet tartalmazza.
+
+(2) A készletek között kell kimutatni a Befektető-védelmi Alap tagjának felszámolása esetén a Kárrendezési Alap taggal szembeni követelése fejében kapott, a Kárrendezési Alap tulajdonába került vagyontárgyakat is, ha azokat a Kárrendezési Alap nem saját tevékenysége céljára használja, hanem értékesíteni fogja.
+
+(3) A Befektető-védelmi Alap taggal szembeni követeléseként kell kimutatni a Befektető-védelmi Alap tagjaitól igényelt éves befizetés összegét.
+
+(4) Alapra átszállt követelésként kell kimutatni a kárrendezésre jogosultak befektetési szolgáltatóval szemben fennálló azon követeléseit, amelyek ellenérték fejében törvény erejénél fogva a Kárrendezési Alapra átszálltak.
+
+(5) Egyéb követelésként kell kimutatni minden olyan követelést, amelyet a 8. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+(6) Az állampapírok között kell kimutatni a Kárrendezési Alap pénzeszközeiből a – készpénzben, a Kárrendezési Alap pénzforgalmi számláján tartott, továbbá a kifizetések lebonyolítására elkülönített összegeken felüli – szabad pénzösszegeknek állampapír-vásárlásra fordított összegét.
+
+(7) Az egyéb értékpapírok között kell kimutatni a Befektető-védelmi Alap tagjának felszámolása során a Kárrendezési Alap taggal szembeni követelése fejében kapott, a Kárrendezési Alap tulajdonába került kötvények, részvények és egyéb értékpapírok értékét.
+
+#### 29/I. §
+
+(1)[^37] A Kárrendezési Alap saját tőkéje a tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+
+(2)[^38]
+
+(3)[^39] Tartalékként kell kimutatni a 29/H. § (4) bekezdés szerinti követelések és a Kárrendezési Alap által a károsultak részére fizetendő kárrendezés miatti kötelezettségek összegének különbözetét. A tartalékot módosítja az előző üzleti év eredménye is.
+
+(4) A hosszú lejáratú kötelezettségek között külön kell kimutatni a Kárrendezési Alap által kibocsátott kötvények miatt fennálló kötelezettségek éven túli összegeit.
+
+(5) A rövid lejáratú kötelezettségek között külön kell kimutatni a Kárrendezési Alap által kibocsátott kötvények, a Magyar Nemzeti Banktól felvett áthidaló kölcsön és a Befektető-védelmi Alaptól a működési költségek átmeneti biztosítása érdekében kapott kölcsön éven belül lejáró összegét.
+
+(6)[^40] A károsult ügyfelekkel szembeni kötelezettségek között kell kimutatni a részükre fizetendő kárrendezés még ki nem fizetett összegét.
+
+(7) Az egyéb rövid lejáratú kötelezettségek között kell kimutatni minden olyan rövid lejáratú kötelezettséget, amelyet a 8. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
+
+### Az eredménykimutatás tartalma, tagolása
+
+#### 29/J. §
+
+(1) Az eredménykimutatás előírt tagolását a 9. számú melléklet tartalmazza.
+
+(2)[^41] A kárrendezésből származó bevételek között elkülönítetten kell kimutatni a Befektető-védelmi Alap tagjai által teljesítendő (a Befektető-védelmi Alap tagjaitól igényelt) éves befizetés összegét.
+
+(3)[^42] A kárrendezésből származó ráfordítások között elkülönítetten kell kimutatni:
+
+a)[^43] a kárrendezés kifizetésével megbízott hitelintézetnek fizetett lebonyolítási díj összegét;
+
+b)[^44] a kárrendezés kifizetésével kapcsolatban felmerült egyéb költségek összegét.
+
+(4) A tárgyévi költségeket a 9. számú melléklet szerinti bontásban kell kimutatni.
+
+(5) A Kárrendezési Alap tárgyévi eredményeként – előjelének megfelelően – kell kimutatni az üzleti év bevételeinek és az üzleti évi ráfordításainak (költségeinek) különbözeteként adódó nyereség vagy veszteség összegét.
+
+(6) Tartalékot módosító tételként kell elszámolni a tárgyévet követő üzleti évben a tárgyévi eredmény összegét.
+
+### Kiegészítő melléklet
+
+#### 29/K. §
+
+A Kárrendezési Alap éves beszámolójának kiegészítő mellékletében a Tv. előírásainak értelemszerű figyelembevételén túlmenően be kell mutatni:
+
+a)[^45] kárrendezésként az üzleti évben kifizetett összegeket, az előző év(ek)ben és az üzleti évben együttesen kifizetett összegeket, továbbá a mérleg fordulónapja és a mérlegkészítés időpontja között kifizetett összegeket, valamint a kárrendezésként még ki nem fizetett összegeket;
+
+b) a Kárrendezési Alap által kibocsátott kötvények, illetve felvett kölcsönök feltételeit és indoklását.
+
+### Üzleti jelentés
+
+#### 29/L. §
+
+(1) Az üzleti jelentés az éves beszámoló adatainak értékelésével bemutatja a Kárrendezési Alap valós vagyoni, pénzügyi, jövedelmi helyzetét, és tájékoztat a jogszabály, illetve az igazgatóság által meghatározott feladatok végrehajtásáról, továbbá a Kárrendezési Alap jövőbeni feladatairól.
+
+(2) Az üzleti jelentésben ki kell térni:
+
+a) a mérleg fordulónapja után bekövetkezett lényeges eseményekre, különösen jelentős folyamatokra;
+
+b) az igazgatóság által meghatározott feladatok teljesítésére és azok értékelésére;
+
+c) a Kárrendezési Alap következő évi költségvetésére;
+
+d)[^46] a nem kárrendezésből eredő bevételek és ráfordítások jelentős nagysága esetén azok jogcímenkénti bemutatására.
+
+### Könyvvizsgálat
+
+#### 29/M. §[^47]
+
+A Kárrendezési Alap éves beszámolójának felülvizsgálatára csak olyan kamarai tag könyvvizsgáló, könyvvizsgáló cég választható, aki/amely megfelel a Hpt. előírásai szerint a könyvvizsgálóval szemben támasztott követelményeknek.
+
+### Az éves beszámoló jóváhagyása
+
+#### 29/N. §
+
+(1) A Kárrendezési Alap éves beszámolóját és üzleti jelentését – ennek részeként a következő évi költségvetését – a Befektető-védelmi Alap igazgatósága hagyja jóvá.
+
+(2) Az éves beszámolót és az üzleti jelentést legkésőbb az üzleti évet követő év május 30-áig kell elkészíteni és megküldeni a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankhoz, az Állami Számvevőszékhez és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumhoz.
+
+### ZÁRÓ RENDELKEZÉSEK
+
+### Hatálybalépés
+
+#### 30. §
+
+Ez a rendelet 2001. január 1-jén lép hatályba azzal, hogy rendelkezéseit először a 2001. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+### Átmeneti rendelkezés
+
+#### 31. §
+
+E rendelet hatálybalépésével egyidejűleg a taggal szemben fennálló, a Befektető-védelmi Alapra átszállt követelések pénzügyileg nem rendezett összege után képzett céltartalékot fel kell használni az egyéb bevételekkel szemben, és ezzel egyidejűleg értékvesztést kell elszámolni a követelések után az egyéb bevételek csökkentéseként.
+
+#### 32. §[^48]
+
+A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 2. §-ával megállapított IV. Fejezetet, 4. § (1) bekezdésével megállapított 6. számú mellékletet, a 4. § (2) bekezdésével megállapított 7. számú mellékletet először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de azok már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
+
+#### 33. §[^49]
+
+(1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított 1. §-t, 5. §-ával megállapított 4. § (3) bekezdését, 6. §-ával megállapított 6. § (2) bekezdés d) pontját, 6. § (6) bekezdését, 6. § (8) bekezdését, 7. §-ával megállapított 14. § (3) bekezdését, 8. §-ával megállapított 16. § (12) bekezdését, 9. §-ával megállapított 23. § (3) bekezdését, 10. §-ával megállapított 25. § (8) bekezdését, 11. §-ával megállapított 29/C. § (3) bekezdését, 12. §-ával megállapított 29/D. § (6) bekezdését, 13. §-ával megállapított V. Fejezetet, 15. §-ával megállapított 3. § (3) bekezdés d) pontját, 4. § (1) és (3) bekezdését, 6. § (7) bekezdését, 14. § (1) bekezdését, 16. § (11) bekezdését, 23. § (1) és (3) bekezdését, 25. § (7) bekezdését, 29/C. § (1) bekezdését, 29/D. § (5) bekezdését, 16. §-ával megállapított 1–9. számú mellékletet először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított 1. §-t, 5. §-ával megállapított 4. § (3) bekezdését, 6. §-ával megállapított 6. § (2) bekezdés d) pontját, 6. § (6) bekezdését, 6. § (8) bekezdését, 7. §-ával megállapított 14. § (3) bekezdését, 8. §-ával megállapított 16. § (12) bekezdését, 9. §-ával megállapított 23. § (3) bekezdését, 10. §-ával megállapított 25. § (8) bekezdését, 11. §-ával megállapított 29/C. § (3) bekezdését, 12. §-ával megállapított 29/D. § (6) bekezdését, 15. §-ával megállapított 3. § (3) bekezdés d) pontját a 2015. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(3) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 17. §-ával hatályon kívül helyezett 6. § (9) bekezdését, 16. § (13) bekezdését, 25. § (9) bekezdését, 29/D. § (7) bekezdését a 2016. évben induló üzleti évről készített beszámolóra nem kell először alkalmazni.
+
+#### 34. §[^50]
+
+(1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 9. § 1. pontjával megállapított 8. számú mellékletét, 9. § 2. pontjával megállapított 9. számú mellékletét; 10. § 1. pontjával megállapított 29/I. § (3), (6) bekezdését, 29/J. § (3) bekezdés a)–b) pontját, 10. § 2. pontjával megállapított 29/J. § (2)–(3) bekezdését, 29/L. § (2) bekezdés d) pontját, 10. § 3. pontjával megállapított 29/K. § a) pontját először a 2017. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 9. § 1. pontjával megállapított 8. számú mellékletét, 9. § 2. pontjával megállapított 9. számú mellékletét; 10. § 1. pontjával megállapított 29/I. § (3), (6) bekezdését, 29/J. § (3) bekezdés a)–b) pontját, 10. § 2. pontjával megállapított 29/J. § (2)–(3) bekezdését, 29/L. § (2) bekezdés d) pontját, 10. § 3. pontjával megállapított 29/K. § a) pontját a 2016. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(3) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 11. §-ával hatályon kívül helyezett 29/I. § (1) és (2) bekezdését a 2017. évben induló üzleti évről készített beszámolóra nem kell először alkalmazni.
+
+#### 35. §[^51]
+
+(1) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 29/F. § (3) bekezdését és 11. §-át először a 2024. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2) E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 642/2023. (XII. 28.) Korm. rendelettel megállapított 29/F. § (3) bekezdését és 11. §-át a 2023. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+## 1. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
+
+**Az Országos Betétbiztosítási Alap és az önkéntes alapok mérlegének előírt tagolása**
+
+ESZKÖZÖK (AKTÍVÁK)
+
+A. Befektetett eszközök
+
+**I. Immateriális javak**
+
+1\. Alapítás, átszervezés aktivált értéke
+
+2\. Vagyoni értékű jogok
+
+3\. Szellemi termékek
+
+4\. Immateriális javakra adott előlegek
+
+5\. Immateriális javak értékhelyesbítése
+
+**II. Tárgyi eszközök**
+
+1\. Ingatlanok és kapcsolódó vagyoni értékű jogok
+
+2\. Berendezések, felszerelések, járművek
+
+3\. Beruházások
+
+4\. Beruházásokra adott előlegek
+
+5\. Tárgyi eszközök értékhelyesbítése
+
+**III. Befektetett pénzügyi eszközök**
+
+B. Forgóeszközök
+
+**I. Készletek**
+
+1\. Anyagok
+
+2\. Kereskedelmi áruk
+
+3\. Közvetített szolgáltatások
+
+4\. Készletekre adott előlegek
+
+**II. Követelések**
+
+1\. Tagintézetekkel szembeni követelések
+
+a) díjkövetelések
+
+b) Alapra átszállt követelések
+
+c) visszterhes kötelezettségvállalás utáni díjak
+
+d) egyéb követelések tagintézetekkel szemben
+
+2\. Hitelintézetekkel szembeni egyéb követelések
+
+3\. Betétesekkel szembeni követelések
+
+4\. Állammal szembeni követelések
+
+5\. Egyéb követelések
+
+**III. Értékpapírok**
+
+1\. Állampapírok
+
+2\. Egyéb értékpapírok
+
+**IV. Pénzeszközök**
+
+1\. Pénztár, csekkek
+
+2\. Bankbetétek
+
+C. Aktív időbeli elhatárolások
+
+FORRÁSOK (PASSZÍVÁK)
+
+D. Saját tőke
+
+**I. Jegyzett tőke**
+
+**II. Tartalék**
+
+**III. Értékelési tartalék**
+
+IV.[^52] Tárgyévi eredmény
+
+E. Céltartalék
+
+F. Kötelezettségek
+
+**I. Hosszú lejáratú kötelezettségek**
+
+**II. Rövid lejáratú kötelezettségek**
+
+1\. Tagintézetekkel szembeni kötelezettségek
+
+2\. Rövid lejáratú hitelek
+
+3\. Betétesekkel szembeni kötelezettségek
+
+4\. Állammal szembeni kötelezettségek
+
+5\. Egyéb rövid lejáratú kötelezettségek
+
+G. Passzív időbeli elhatárolások
+
+## 2. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^53]
+
+**Az Országos Betétbiztosítási Alap eredménykimutatásának előírt tagolása**
+
+01\. Tagintézetekkel szemben elszámolt díjbevételek
+
+02\. Betétesek megbízásából behajtott követelések utáni díjbevételek
+
+03\. Állami garanciával biztosított betétek kifizetése utáni jutalékbevételek
+
+04\. Betétek kifizetésével kapcsolatban felmerült, hitelintézetekre, tagintézetekre vagy költségvetésre áthárított költségek miatti bevételek
+
+05\. Egyéb betétbiztosítási bevételek
+
+**I. Betétbiztosításból eredő bevételek (01+02+03+04+05)**
+
+**II. Egyéb bevételek**
+
+**III. Nem betétbiztosításból eredő bevételek**
+
+**IV. Pénzügyi műveletek bevételei**
+
+06\. Befagyott betétek kifizetésével kapcsolatos ráfordítások
+
+07\. Betétesek megbízásából behajtott követelésekkel kapcsolatos ráfordítások
+
+08\. Állami garanciával biztosított betétek kifizetésével kapcsolatban felmerült ráfordítások
+
+09\. Egyéb betétbiztosítási ráfordítások
+
+**V. Betétbiztosításból eredő ráfordítások (06+07+08+09)**
+
+**VI. Egyéb ráfordítások**
+
+**VII. Nem betétbiztosításból eredő ráfordítások**
+
+**VIII. Pénzügyi műveletek ráfordításai**
+
+10\. Anyagjellegű ráfordítások
+
+11\. Személyi jellegű ráfordítások
+
+12\. Értékcsökkenési leírás
+
+**IX. Működési költségek (10+11+12)**
+
+A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
+
+## 3. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^54]
+
+**Az önkéntes betétbiztosítási és intézményvédelmi alap eredménykimutatásának előírt tagolása**
+
+01\. Tagintézetekkel szembeni díjbevétel betétbiztosítási célra
+
+02\. Betétesek megbízásából behajtott követelések utáni díjbevételek
+
+03\. Állami garanciával biztosított betétek kifizetése utáni jutalékbevétel
+
+04\. Egyéb betétbiztosítási bevételek
+
+**I. Betétbiztosításból eredő bevételek (01+02+03+04)**
+
+**II. Intézményvédelmi bevételek**
+
+**III. Egyéb bevételek**
+
+**IV. Nem betétbiztosítási és intézményvédelmi bevételek**
+
+**V. Pénzügyi műveletek bevételei**
+
+05\. Befagyott betétek kifizetésével kapcsolatos ráfordítások
+
+06\. Betétesek megbízásából behajtott követelésekkel kapcsolatos ráfordítások
+
+07\. Állami garanciával biztosított betétek kifizetésével kapcsolatban felmerült ráfordítások
+
+08\. Egyéb betétbiztosítási ráfordítások
+
+**VI. Betétbiztosításból eredő ráfordítások (05+06+07+08)**
+
+**VII. Intézményvédelmi ráfordítások**
+
+**VIII. Egyéb ráfordítások**
+
+**IX. Nem betétbiztosítási és intézményvédelmi ráfordítások**
+
+**X. Pénzügyi műveletek ráfordításai**
+
+09\. Anyagjellegű ráfordítások
+
+10\. Személyi jellegű ráfordítások
+
+11\. Értékcsökkenési leírás
+
+**XI. Működési költségek (09+10+11)**
+
+A. Tárgyévi eredmény (I+II+III+IV+V-VI-VII-VIII-IX-X-XI)
+
+## 4. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^55]
+
+**A Befektető-védelmi Alap mérlegének előírt tagolása**
+
+ESZKÖZÖK (AKTÍVÁK)
+
+A. Befektetett eszközök
+
+**I. Immateriális javak**
+
+1\. Alapítás, átszervezés aktivált értéke
+
+2\. Vagyoni értékű jogok
+
+3\. Szellemi termékek
+
+4\. Immateriális javakra adott előlegek
+
+5\. Immateriális javak értékhelyesbítése
+
+**II. Tárgyi eszközök**
+
+1\. Ingatlanok és kapcsolódó vagyoni értékű jogok
+
+2\. Berendezések, felszerelések, járművek
+
+3\. Beruházások
+
+4\. Beruházásokra adott előlegek
+
+5\. Tárgyi eszközök értékhelyesbítése
+
+**III. Befektetett pénzügyi eszközök**
+
+B. Forgóeszközök
+
+**I. Készletek**
+
+1\. Anyagok
+
+2\. Kereskedelmi áruk
+
+3\. Közvetített szolgáltatás
+
+4\. Készletekre adott előlegek
+
+**II. Követelések**
+
+1\. Tagokkal szembeni követelések
+
+a) díjkövetelések
+
+b) Alapra átszállt követelések
+
+c) egyéb követelések tagokkal szemben
+
+2\. Befektetőkkel szembeni követelések
+
+3\. Egyéb követelések
+
+**III. Értékpapírok**
+
+1\. Állampapírok
+
+2\. Egyéb értékpapírok
+
+**IV. Pénzeszközök**
+
+1\. Pénztár, csekkek
+
+2\. Bankbetétek
+
+C. Aktív időbeli elhatárolások
+
+FORRÁSOK (PASSZÍVÁK)
+
+D. Saját tőke
+
+**I. Jegyzett tőke**
+
+**II. Tartalék**
+
+**III. Értékelési tartalék**
+
+IV.[^56] Tárgyévi eredmény
+
+E. Céltartalék
+
+F. Kötelezettségek
+
+**I. Hosszú lejáratú kötelezettségek**
+
+1\. Hosszú lejáratú hitelek
+
+**II. Rövid lejáratú kötelezettségek**
+
+1\. Tagokkal szembeni kötelezettségek
+
+2\. Rövid lejáratú hitelek
+
+3\. Befektetőkkel szembeni kötelezettségek
+
+4\. Egyéb rövid lejáratú kötelezettségek
+
+G. Passzív időbeli elhatárolások
+
+## 5. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^57]
+
+**A Befektető-védelmi Alap eredménykimutatásának előírt tagolása**
+
+01\. Tagokkal szemben elszámolt díjbevételek
+
+02\. Befektetők megbízásából behajtott követelések utáni díjbevételek
+
+03\. Egyéb befektetővédelmi bevételek
+
+**I. Befektetővédelmi bevételek (01+02+03)**
+
+**II. Egyéb bevételek**
+
+**III. Nem befektetővédelmi bevételek**
+
+**IV. Pénzügyi műveletek bevételei**
+
+04\. Befagyott követelések kifizetésével kapcsolatos ráfordítások
+
+05\. Befektetők megbízásából behajtott követelésekkel kapcsolatos ráfordítások
+
+06\. Egyéb befektetővédelmi ráfordítások
+
+**V. Befektetővédelmi ráfordítások (04+05+06)**
+
+**VI. Egyéb ráfordítások**
+
+**VII. Nem befektetővédelmi ráfordítások**
+
+**VIII. Pénzügyi műveletek ráfordításai**
+
+07\. Anyagjellegű ráfordítások
+
+08\. Személyi jellegű ráfordítások
+
+09\. Értékcsökkenési leírás
+
+**IX. Működési költségek (07+08+09)**
+
+A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
+
+## 6. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^58]
+
+**A Szanálási Alap mérlegének előírt tagolása**
+
+ESZKÖZÖK (AKTÍVÁK)
+
+A. Befektetett eszközök
+
+**I. Immateriális javak**
+
+1\. Alapítás, átszervezés aktivált értéke
+
+2\. Vagyoni értékű jogok
+
+3\. Szellemi termékek
+
+4\. Immateriális javakra adott előlegek
+
+5\. Immateriális javak értékhelyesbítése
+
+**II. Tárgyi eszközök**
+
+1\. Ingatlanok és kapcsolódó vagyoni értékű jogok
+
+2\. Berendezések, felszerelések, járművek
+
+3\. Beruházások
+
+4\. Beruházásokra adott előlegek
+
+5\. Tárgyi eszközök értékhelyesbítése
+
+**III. Befektetett pénzügyi eszközök**
+
+B. Forgóeszközök
+
+**I. Készletek**
+
+1\. Anyagok
+
+2\. Kereskedelmi áruk
+
+3\. Közvetített szolgáltatások
+
+4\. Készletekre adott előlegek
+
+**II. Követelések**
+
+1\. Intézményekkel szembeni követelések
+
+a) díjkövetelések
+
+b) követelések hitelnyújtásból
+
+c) intézményekkel szembeni egyéb követelések
+
+2\. Egyéb követelések
+
+**III. Értékpapírok**
+
+1\. Állampapírok
+
+2\. Egyéb értékpapírok
+
+**IV. Pénzeszközök**
+
+1\. Pénztár, csekkek
+
+2\. Bankbetétek
+
+C. Aktív időbeli elhatárolások
+
+FORRÁSOK (PASSZÍVÁK)
+
+D. Saját tőke
+
+**I. Jegyzett tőke**
+
+**II. Tartalék**
+
+**III. Értékelési tartalék**
+
+**IV. Tárgyévi eredmény**
+
+E. Céltartalék
+
+F. Kötelezettségek
+
+**I. Hosszú lejáratú kötelezettségek**
+
+1\. Állammal szembeni kötelezettségek
+
+2\. Tartozások kötvénykibocsátásból
+
+3\. Egyéb hosszú lejáratú kötelezettségek
+
+**II. Rövid lejáratú kötelezettségek**
+
+1\. Szanálási tevékenységből származó kötelezettségek
+
+a) kötelezettségek vállalt garancia beváltásából
+
+b) fizetendő kártalanításból származó kötelezettségek
+
+c) egyéb szanálási tevékenységből származó költség, ráfordítás miatti kötelezettségek
+
+2\. Intézményekkel szembeni kötelezettségek
+
+3\. Rövid lejáratú hitelek
+
+4\. Egyéb rövid lejáratú kötelezettségek
+
+G. Passzív időbeli elhatárolások
+
+## 7. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^59]
+
+**A Szanálási Alap eredménykimutatásának előírt tagolása**
+
+**I. Szanálási tevékenységgel kapcsolatos bevételek**
+
+**II. Egyéb bevételek**
+
+**III. Pénzügyi műveletek bevételei**
+
+**IV. Szanálási tevékenységgel kapcsolatos ráfordítások**
+
+**V. Egyéb ráfordítások**
+
+**VI. Pénzügyi műveletek ráfordításai**
+
+01\. Anyagjellegű ráfordítások
+
+02\. Személyi jellegű ráfordítások
+
+03\. Értékcsökkenési leírás
+
+**VII. Működési költségek (01+02+03)**
+
+A. Tárgyévi eredmény (I+II+III-IV-V-VI-VII)
+
+## 8. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^60]
+
+**A Kárrendezési Alap mérlegének előírt tagolása**
+
+ESZKÖZÖK (AKTÍVÁK)
+
+A. Befektetett eszközök
+
+**I. Immateriális javak**
+
+1\. Alapítás, átszervezés aktivált értéke
+
+2\. Vagyoni értékű jogok
+
+3\. Szellemi termékek
+
+4\. Immateriális javakra adott előlegek
+
+5\. Immateriális javak értékhelyesbítése
+
+**II. Tárgyi eszközök**
+
+1\. Ingatlanok és kapcsolódó vagyoni értékű jogok
+
+2\. Berendezések, felszerelések, járművek
+
+3\. Beruházások
+
+4\. Beruházásokra adott előlegek
+
+5\. Tárgyi eszközök értékhelyesbítése
+
+**III. Befektetett pénzügyi eszközök**
+
+B. Forgóeszközök
+
+**I. Készletek**
+
+1\. Anyagok
+
+2\. Kereskedelmi áruk
+
+3\. Közvetített szolgáltatások
+
+4\. Készletekre adott előlegek
+
+**II. Követelések**
+
+1\. Befektető-védelmi Alap tagjaival szembeni követelések
+
+2\. Alapra átszállt követelések
+
+3\. Állammal szembeni követelések
+
+4\. Egyéb követelések
+
+**III. Értékpapírok**
+
+1\. Állampapírok
+
+2\. Egyéb értékpapírok
+
+**IV. Pénzeszközök**
+
+1\. Pénztár, csekkek
+
+2\. Bankbetétek
+
+C. Aktív időbeli elhatárolások
+
+FORRÁSOK (PASSZÍVÁK)
+
+D. Saját tőke
+
+**I. Tartalék**
+
+**II. Értékelési tartalék**
+
+**III. Tárgyévi eredmény**
+
+E. Céltartalék
+
+F. Kötelezettségek
+
+**I. Hosszú lejáratú kötelezettségek**
+
+1\. Kötvénykibocsátás miatti kötelezettségek
+
+2\. Egyéb hosszú lejáratú kötelezettségek
+
+**II. Rövid lejáratú kötelezettségek**
+
+1\. Kötvénykibocsátás miatti kötelezettségek
+
+2\. Rövid lejáratú kölcsönök
+
+3\. Károsult ügyfelekkel szembeni kötelezettségek
+
+4\. Állammal szembeni kötelezettségek
+
+5\. Egyéb rövid lejáratú kötelezettségek
+
+G. Passzív időbeli elhatárolások
+
+## 9. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^61]
+
+**A Kárrendezési Alap eredménykimutatásának előírt tagolása**
+
+01\. Befektető-védelmi Alap tagjaitól igényelt éves befizetések bevétele
+
+02\. Értékesített vagyontárgyak eladásából származó bevételek
+
+03\. Egyéb kárrendezési bevételek
+
+**I. Kárrendezésből származó bevételek (01+02+03)**
+
+**II. Egyéb bevételek**
+
+**III. Pénzügyi műveletek bevételei**
+
+04\. Kárrendezés kifizetésével kapcsolatos ráfordítások
+
+05\. Egyéb kárrendezési ráfordítások
+
+**IV. Kárrendezésből származó ráfordítások (04+05)**
+
+**V. Egyéb ráfordítások**
+
+**VI. Pénzügyi műveletek ráfordításai**
+
+06\. Anyagjellegű ráfordítások
+
+07\. Személyi jellegű ráfordítások
+
+08\. Értékcsökkenési leírás
+
+**VII. Tárgyévi költségek (06+07+08)**
+
+A. Tárgyévi eredmény (I+II+III–IV–V–VI–VII)
+
+---
+
+[^1]: Az 1. § a 484/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^2]: A 3. § (3) bekezdés d) pontja a 484/2015. (XII. 29.) Korm. rendelet 15. § 1. pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg. [E módosító rendelet 15. § 2. pontjával elrendelt módosítás, amely szerint a „mérleg szerinti” szövegrész helyébe a „tárgyévi” szöveg lép, nem vezethető át.]
+[^5]: A 6. § (2) bekezdés d) pontját a 345/2013. (IX. 30.) Korm. rendelet 11. §-a hatályon kívül helyezte, újonnan a 484/2015. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^6]: A 6. § (6) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 6. § (7) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^8]: A 6. § (8) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^9]: A 6. § (9) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.
+[^10]: A 9. § (1) bekezdése a 423/2024. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^11]: A 11. § a 345/2013. (IX. 30.) Korm. rendelet 8. §-ával megállapított, a 719/2021. (XII. 20.) Korm. rendelet 1. §-a , a 642/2023. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^12]: A 14. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^13]: A 14. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^14]: A 15. § (3) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^15]: A 16. § (11) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^16]: A 16. § (12) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: A 16. § (13) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
+[^18]: A 19. § a 423/2024. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^19]: A 20. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^20]: A 22. § (4) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 4. pontja szerint módosított szöveg.
+[^21]: A 23. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^22]: A 23. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg. [E módosító rendelet 15. § 2. pontjával elrendelt módosítás, amely szerint a „mérleg szerinti” szövegrész helyébe a „tárgyévi” szöveg lép, nem vezethető át.]
+[^23]: A 23. § (4) bekezdése a 288/2001. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^24]: A 25. § (7) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^25]: A 25. § (8) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^26]: A 25. § (9) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 3. pontja hatályon kívül helyezte.
+[^27]: A 28. § (1) bekezdése a 423/2024. (XII. 23.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^28]: A 29. § (2) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^29]: A IV. Fejezetet (29/A.–29/F.) a 362/2014. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 29/C. § (1) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^31]: A 29/C. § (3) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^32]: A 29/D. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
+[^33]: A 29/D. § (6) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^34]: A 29/D. § (7) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 17. § 4. pontja hatályon kívül helyezte.
+[^35]: A 29/F. § (3) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^36]: A V. fejezetet (29/G–29/N. §) a 484/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^37]: A 29/I. § (1) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
+[^38]: A 29/I. § (2) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^39]: A 29/I. § (3) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^40]: A 29/I. § (6) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^41]: A 29/J. § (2) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^42]: A 29/J. § (3) bekezdés nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^43]: A 29/J. § (3) bekezdés a) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^44]: A 29/J. § (3) bekezdés b) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^45]: A 29/K. § a) pontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 3. pontja szerint módosított szöveg.
+[^46]: A 29/L. § (2) bekezdés d) alpontja a 480/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^47]: A 29/M. § a 423/2024. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^48]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1130. pontja hatályon kívül helyezte, újonnan a 362/2014. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^49]: A 33. §-t a 484/2015. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^50]: A 34. §-t a 480/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^51]: A 35. §-t a 642/2023. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^52]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^53]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^54]: A 3. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^55]: A 4. számú melléklet a 288/2001. (XII. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^56]: A 4. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^57]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (5) bekezdésével megállapított szöveg.
+[^58]: A 6. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (1) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.
+[^59]: A 7. számú mellékletet a 362/2014. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 16. § (7) bekezdésével megállapított szöveg.
+[^60]: A 8. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (8) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^61]: A 9. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (9) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.

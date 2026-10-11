@@ -1,0 +1,134 @@
+---
+title: "194/1998. (XII. 4.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanácsnak 3/98. számú, a Magyar Köztársaságnak a közösségi kulturális programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozata kihirdetéséről"
+identifier: "194/1998. (XII. 4.) Korm. rendelet"
+njt_id: "1998-194-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/194"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-12-04
+in_force_from: 1998-12-04
+last_amended: 2014-12-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-194-20-22"
+retrieved: 2026-10-12
+---
+
+# 194/1998. (XII. 4.) Korm. rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanácsnak 3/98. számú, a Magyar Köztársaságnak a közösségi kulturális programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozata kihirdetéséről
+
+## 1. §
+
+A Kormány – a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás kihirdetéséről szóló 1994. évi I. törvény 4. §-ának *c)* pontjában kapott felhatalmazás alapján – e rendelettel kihirdeti a Magyar Köztársaság és az Európai Közösségek és azok tagállamai közötti Társulási Tanács 3/98. számú, a Magyar Köztársaságnak közösségi kulturális programokban történő részvétele módozatainak és feltételeinek elfogadása tárgyában hozott határozatát (a továbbiakban: határozat).
+
+## 2. §
+
+A határozat magyar nyelvű szövege a következő:
+
+,,
+
+A Magyar Köztársaság és az Európai Közösségek\
+és azok tagállamai közötti Társulási Tanács\
+1998\. november 23-i, 3/98. számú határozata\
+a Magyar Köztársaságnak a közösségi kulturális programokban történő részvétele módozatainak\
+és feltételeinek elfogadásáról
+
+A Társulási Tanács
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodást,[^1]
+
+figyelembe véve a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulást létesítő Európai Megállapodás Kiegészítő Jegyzőkönyvét[^2] Magyarországnak a közösségi programokban történő részvételéről, különösen annak 1. és 2. Cikkét,
+
+tekintettel arra, hogy az említett Kiegészítő Jegyzőkönyv 1. Cikkének megfelelően Magyarország részt vehet a közösségi keretprogramokban, egyedi programokban, projektumokban és más közösségi akciókban, nevezetesen a kultúra területén,
+
+tekintettel az említett Kiegészítő Jegyzőkönyv 2. Cikkére, amelynek értelmében Magyarország az 1. Cikkben foglalt tevékenységekben való részvétele módozatait és feltételeit a Társulási Tanács határozza meg,
+
+a következő határozatot hozta:
+
+*1. Cikk*
+
+Magyarország a jövőben részt vesz az Európai Közösségek Kaleidoscope, Ariane és Raphael nevű programjaiban a jelen határozat szerves részét képező *1.* és *2. számú mellékletben* meghatározott feltételeknek megfelelően.
+
+*2. Cikk*
+
+Jelen határozat hatálya az említett programok időtartamára terjed ki.
+
+*3. Cikk*
+
+Jelen határozat az elfogadást követő hónap 1. napján lép hatályba.
+
+*1. számú melléklet*
+
+A Magyar Köztársaság részvételének módozatai\
+és feltételei a Kaleidoscope, Ariane és Raphael programokban
+
+1\. Magyarország részt vesz a Kaleidoscope, Ariane és Raphael programok (a továbbiakban: Programok) valamennyi akciójában, összhangban – amennyiben jelen határozat másként nem rendelkezik – az Európai Parlament és a Tanács 1996. március 29-i 719/96/EK számú, az európai dimenziójú művészeti és kulturális tevékenységek terén támogatási program létrehozásáról szóló[^3] (a továbbiakban: Kaleidoscope), továbbá az Európai Parlament és a Tanács 1997. október 6-i 2085/97/EK számú, a könyv- és olvasáskultúra terén – beleértve a fordításokat is – támogatási program létrehozásáról rendelkező[^4] (a továbbiakban: Ariane), valamint az Európai Parlament és a Tanács 1997. október 13-i 2228/97/EK számú, a kulturális örökség terén[^5] (a továbbiakban: Raphael) közösségi akcióprogram létrehozásáról szóló határozataiban foglalt célokkal, feltételekkel, eljárásokkal és határidőkkel.
+
+2\. A jogosult magyar intézmények, szervezetek és magánszemélyek jelentkezése benyújtásának, értékelésének és kiválasztásának szabályai és feltételei ugyanazok, mint amelyek a jogosult közösségi intézményekre, szervezetekre és magánszemélyekre vonatkoznak.
+
+3\. A Programok közösségi dimenziójának érvényesítése érdekében, Magyarország az általa beterjesztett, több ország együttműködésével létrejövő projektek és tevékenységek megvalósításába a Közösség tagállamainak egy adott minimum számát köteles bevonni. A kötelező minimum a Programok tényleges megvalósítása során kerül meghatározásra, a különböző tevékenységek jellegének, az adott projektumba bekapcsolódó partnerek számának, valamint a Programokban részt vevő országok számának figyelembevételével.
+
+4\. Magyarország minden évben hozzájárulást fizet az Európai Közösségek általános költségvetéséhez a Programokban való részvételéből adódó költségek fedezésére (lásd. 2. számú melléklet). A Társulási Bizottság jogában áll, hogy szükség esetén módosítsa a hozzájárulás mértékét.
+
+5\. Magyarország és a Közösség tagállamai – a jelenleg érvényes rendelkezések keretén belül – mindent megtesznek azért, hogy megkönnyítsék mindazon, arra jogosult személyek szabad mozgását és tartózkodását, akik a Határozat hatálya alá tartozó tevékenységekben való részvétel céljából utaznak Magyarország és a Közösség tagállamai között.
+
+6\. Nem érintve a Bizottságnak és az Európai Közösségek Számvevőszékének a Kaleidoscope, Ariane és Raphael programra vonatkozó határozatok alapján keletkező (lásd a 8., 8. és 10. Cikkelyt a három programról szóló határozatban, e sorrendben), a Programok felügyeletével és értékelésével kapcsolatos felelősségét, Magyarország részvételét a Programokban Magyarország és az Európai Közösségek Bizottsága közösen, partneri alapon, folyamatosan figyelemmel kíséri. Magyarország a Bizottság elé terjeszti a szükséges jelentéseket, és részt vesz a Közösség más, e célt szolgáló sajátos tevékenységeiben.
+
+7\. Nem érintve a Kaleidoscope programról szóló határozat 5. Cikkében, az Ariane programról szóló határozat 5. Cikkében, valamint a Raphael programról szóló határozat 7. Cikkében említett eljárásokat, Magyarország meghívást kap a Program Irányító Bizottságok rendes üléseit megelőző, a határozat végrehajtásával kapcsolatos bármely kérdésről folytatandó egyeztető ülésre. E rendes ülések eredményeiről a Bizottság tájékoztatja Magyarországot.
+
+8\. A pályázati eljárás, a szerződések, a beterjesztendő jelentések, valamint a Programokkal kapcsolatos egyéb adminisztratív rendelkezések vonatkozásában használt nyelv a Közösség valamelyik hivatalos nyelve.
+
+*2. számú melléklet*
+
+Magyarország pénzügyi hozzájárulása\
+a Kaleidoscope, Ariane és Raphael programhoz
+
+1\. Magyarország pénzügyi hozzájárulása fedezi:
+
+– a Programokból a magyar résztvevők számára nyújtott támogatásokat;
+
+– a Magyarország részvételéből eredő igazgatási jellegű többletköltségeket, amelyek a Bizottságnál a programok igazgatása során jelentkeznek.
+
+2\. A Programokból a magyar kedvezményezettek számára nyújtott támogatások és minden egyéb pénzügyi támogatás összege, az igazgatási többletköltségek elvonását követően, költségvetési évenként nem haladhatja meg a Magyarország által befizetett hozzájárulás mértékét.
+
+Amennyiben a Magyarország által az Európai Közösségek általános költségvetésébe befizetett hozzájárulás az igazgatási többletköltségek levonását követően meghaladja a magyar kedvezményezetteknek nyújtott támogatások és az egyéb pénzügyi támogatás együttes összegét, a Bizottság a különbséget a következő költségvetési évre átvezeti, majd levonja a következő évben esedékes hozzájárulásból. A programok záró mérlegében jelentkező maradványösszeget visszafizetik Magyarországnak.
+
+3\. Kaleidoscope
+
+1998-tól Magyarország éves hozzájárulása 91 523 ECU. Ebből az összegből 5987 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során keletkeznek.
+
+4\. Ariane
+
+1998-tól Magyarország éves hozzájárulása 26 001 ECU. Ebből az összegből 1701 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során keletkeznek.
+
+5\. Raphael
+
+1998-tól Magyarország éves hozzájárulása 112 324 ECU. Ebből az összegből 7348 ECU fedezi a Magyarország részvételéből eredő igazgatási többletköltségeket, amelyek a Bizottságnál a program kezelése során keletkeznek.
+
+6\. Magyarország hozzájárulásának kezelésére a Közösség általános költségvetésére vonatkozó pénzügyi szabályok érvényesek.
+
+A Bizottság jelen határozat hatálybalépésekor és azt követően minden év elején felhívást intéz Magyarországhoz a jelen határozat szerint rá eső pénzügyi befizetés teljesítésére.
+
+A hozzájárulás összegét ECU-ben határozzák meg, és a Bizottság ECU-ben vezetett bankszámlájára kell átutalni.
+
+Magyarország a jelen határozat szerinti éves költségvetési hozzájárulását a befizetési felszólításnak megfelelően, de legkésőbb a felhívás megküldését követő három hónapon belül teljesíti. A hozzájárulás késedelmes teljesítése esetén a késedelem időpontjától kamatfizetési kötelezettség terheli Magyarországot a fennmaradó összegre. A kamat mértéke az Európai Pénzügyi Együttműködési Alap által ECU-ben végrehajtott műveletek esetén a késedelem hónapjában érvényes kamatláb 1,5%ponttal emelt értéke.
+
+7\. Magyarország a 3., 4. és 5. bekezdésben említett igazgatási többletköltségeket a nemzeti költségvetéséből fedezi.
+
+8\. A PHARE programokra érvényes eljárásoknak megfelelően, Magyarország 1998-ban a Kaleidoscope, Ariane és Raphael programokhoz való hozzájárulás fennmaradó költségeinek 50%-át nemzeti költségvetéséből fizeti, míg a másik 50%-ot a nemzeti PHARE programból fedezi.
+
+A PHARE programokra érvényes eljárásoknak megfelelően, Magyarország 1999-ben a Raphael programhoz való hozzájárulás fennmaradó költségeinek 50%-át nemzeti költségvetéséből fizeti, míg a másik 50%-ot a nemzeti PHARE programból fedezi.
+
+2000-ben, amennyiben Magyarországon és a Közösség oldalán a megfelelő költségvetési források rendelkezésre állnak, az 1999-ben érvényes megosztás kerül alkalmazásra a Raphael programban való magyar részvételt illetően.''
+
+## 3. §[^6]
+
+Ez a rendelet a kihirdetése napján lép hatályba, de rendelkezéseit 1998. december 1-jétől kell alkalmazni. Végrehajtásáról a kultúráért felelős miniszter az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben gondoskodik.
+
+---
+
+[^1]: Európai Közösségek Hivatalos Lapja 1993. 12. 31. L347 sz. 269. oldal.
+[^2]: Európai Közösségek Hivatalos Lapja 1995. 12. 30. L317. sz. 30. oldal.
+[^3]: Európai Közösségek Hivatalos Lapja 1996. 04. 20. L99 sz. 20. oldal.
+[^4]: Európai Közösségek Hivatalos Lapja 1997. 10. 24. L291 sz. 26. oldal.
+[^5]: Európai Közösségek Hivatalos Lapja 1997. 11. 8. L305 sz. 31. oldal.
+[^6]: A 3. § a 303/2014. (XII. 5.) Korm. rendelet 8. §-a szerint módosított szöveg.

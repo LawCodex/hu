@@ -1,0 +1,423 @@
+---
+title: "232/2003. (XII. 16.) Korm. rendelet az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól"
+identifier: "232/2003. (XII. 16.) Korm. rendelet"
+njt_id: "2003-232-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2003/Korm/232"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2003-12-16
+in_force_from: 2008-05-16
+last_amended: 2025-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2003-232-20-22"
+retrieved: 2026-10-12
+---
+
+# 232/2003. (XII. 16.) Korm. rendelet az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól
+
+A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Etv.) 26. § (4) bekezdésében foglalt felhatalmazás alapján a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §[^1]
+
+E rendelet hatálya a Magyar Export-Import Bank Részvénytársaság (a továbbiakban: Eximbank) által az Etv. 2. § (2) bekezdése szerinti kötött segélyhitelek nyújtására és azoknak az Etv. 3. § (2) bekezdésében foglaltak alapján a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság (a továbbiakban: Mehib Zrt.) által történő biztosítására terjed ki.
+
+### 2. §[^2]
+
+E rendelet alkalmazásában
+
+1\. *adományelem:* a kötött segélyhitel névértékének egy összegben elengedésre kerülő, a hitel tőketörlesztéseként vissza nem térítendő része;
+
+2\. *de minimis hitel:* olyan kötött segélyhitel, amelynek névértéke 2 millió SDR-nél kisebb, a hitel nem képezi részét kapcsolt finanszírozásnak, és formáját tekintve nem vegyes hitel;
+
+3.[^3] *forrásszerzési költség:* az Eximbank által a két éven túli finanszírozáshoz igénybe vett források USD devizanemre vonatkozó 6 havi CME Term SOFR, EUR devizanemre vonatkozó 6 havi EURIBOR átlagával megegyező báziskamatláb feletti felárának negyedévente, a tárgynegyedévet megelőző hónap 25-éig megállapított százalékos mértéke, ahol az átlagolásnál alkalmazott 6 havi CME Term SOFR a Bloomberg TSFR6M oldalán, a 6 havi EURIBOR a Reuters EURIBOR= oldalán naponta megjelenő fixingek átlaga a legközelebbi 1/16-ra felkerekítve;
+
+3a.[^4] *jelenérték különbözet:* a hitelbiztosítási díj részletben történő fizetése esetén a díjrészlet számla nominális és diszkontált értékének különbsége, amelynek számítása során a diszkontálást – a biztosítási szerződés megkötésekor hatályos, OECD által meghatározott díj-diszkont rátával – a hitelbiztosítási díj első folyósítása és a részlet díjszámla kiállítása között eltelt időszak vonatkozásában végzik el, és amely a költségvetés által átvállalt biztosítási díjtámogatásként, a 13. § (2) bekezdés szerinti adományelem részét képezi.
+
+4\. *kedvezményezettség mértéke:* a segélyhitel névértéke és a hitelfelvevő által a jövőben fizetendő adósságszolgálat diszkontált jelenértéke közötti különbség, a segélyhitel névértékének százalékában kifejezve;
+
+5\. *kötött segélyhitel:* közvetlen hitelnyújtás, valamint finanszírozás, refinanszírozás, kamattámogatás, garanciavállalás vagy biztosítás útján állami támogatásban részesülő, a támogatást nyújtó országból történő áruk és szolgáltatások beszerzéséhez kötött vegyes hitel;
+
+6\. *kötött segélyhitel névértéke:* a kötött segélyhitel keretében finanszírozott projekt teljes értéke a hitel-visszafizetés kockázati díjával együtt, kamatok nélkül;
+
+7\. *magas kedvezményezettségű hitel:* olyan kötött segélyhitel, amelyben a kedvezményezettséget tartalmazó elemek összességében 80%-ot meghaladó kedvezményezettségi szintet adnak;
+
+8\. *projekt:* az a legkisebb, fizikailag és műszakilag összefüggő egészet alkotó beruházási egység, amely teljes mértékben felhasználja a finanszírozást és a hozzá kapcsolódó pénzügyi kedvezményeket, azaz olyan részegységek és értéktöbbletet hordozó tevékenységek együttese, amely magasabb hozzáadott értékű végterméket eredményez;
+
+9\. *szubszuverén tagállami garancia:* az egyes hitelszerződések biztosítékaként kibocsátott készfizető kezességgel egyenértékű olyan kötelezettségvállalás, amely – saját önálló költségvetésének terhére – külföldi államszövetség tagállamát terheli;
+
+10\. *szubszuverén tagállami garanciát nyújtó:* a hiteladós fizetési kötelezettsége teljesítéséért, a külföldi államszövetség tagállamának nevében, annak belső jogrendje szerint szubszuverén tagállami garancia kibocsátására jogosult;
+
+11\. *szuverén garancia:* az egyes hitelszerződések biztosítékaként a külföldi állam által kibocsátott készfizető kezességgel egyenértékű kötelezettségvállalás;
+
+12\. *szuverén garanciát nyújtó:* a hiteladós fizetési kötelezettsége teljesítéséért, a külföldi állam nevében, annak belső jogrendje szerint szuverén garancia kibocsátására jogosult;
+
+13\. *vegyes hitel:* olyan kötött segélyhitel, melyben a kedvezményes kamatozású hitelelemek és adományelem összekapcsolása együttesen biztosítja a kedvezményezettség mértékét.
+
+### 3. §
+
+A kötött segélyhitelezés alanyai:
+
+a)[^5] a külgazdasági ügyekért felelős miniszter (a továbbiakban: miniszter) mint a kötött segélyhitelezési program működtetője és az állami támogatás finanszírozója,
+
+b)[^6] Kötött Segélyhitel Koordinációs Szakértői Munkacsoport, mint a kötött segélyhitelezéssel összefüggő döntések előkészítője,
+
+c) Eximbank, mint a kötött segélyhitel nyújtója,
+
+d)[^7] Mehib Zrt., mint a kötött segélyhitelek biztosítója,
+
+e)[^8] belföldi székhelyű, áru vagy szolgáltatás exportját végző gazdálkodó szervezet, amely cég Magyarországon bejegyzett fővállalkozóként, konzorcium vezetőjeként vagy a fogadó országban bejegyzett konzorcium vezetőjeként, vegyesvállalat tagjaként, vagy külföldi leányvállalata, fióktelepe által végzi a kötött segélyhitel tárgyát képező tevékenységet,
+
+f)[^9] külföldi hitelfelvevő, valamint
+
+g)[^10] szuverén garanciát nyújtó vagy szubszuverén tagállami garanciát nyújtó.
+
+## A kötött segélyhitel konstrukcióban megvalósuló ügyletek befogadása, a döntési mechanizmus
+
+### 4. §[^11]
+
+(1)[^12] A miniszter a kötött segélyhitelezéssel összefüggő döntések előkészítése céljából az államháztartásért felelős miniszter, a nemzetközi pénzügyi kapcsolatokért felelős miniszter, a külpolitikáért felelős miniszter, az agrárpolitikáért felelős miniszter, az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter az Eximbank és a Mehib Zrt. által delegált képviselők bevonásával Kötött Segélyhitel Koordinációs Szakértői Munkacsoportot (a továbbiakban: Szakértői Munkacsoport) hoz létre.
+
+(2) A Szakértői Munkacsoport elnökét a miniszter a Szakértői Munkacsoport tagjai közül jelöli ki.
+
+(3)[^13] A Szakértői Munkacsoport a kötött segélyhitelezési keretstratégiának, a külgazdasági és külügyi stratégiának, valamint a nemzetközi fejlesztési együttműködési politikának és stratégiának megfelelő segélyhitelezési gyakorlat érvényre juttatásával, a relációk és a segélyhitelre jogosult projektek kiválasztásával, a segélyhitelnyújtás feltételeire vonatkozó döntések előkészítésével kapcsolatos feladatokat lát el.
+
+(4) A Szakértői Munkacsoport ügyrendjét a miniszter hagyja jóvá.
+
+(5) A Szakértői Munkacsoport a javaslatairól egyszerű többséggel határoz, és tevékenységéről évente tájékoztatja a Nemzetközi Fejlesztési Együttműködési Kormánybizottságot.
+
+### 5. §[^14]
+
+(1)[^15] Kötött segélyhitel nyújtását a Szakértői Munkacsoport hatásvizsgálattal alátámasztott javaslata alapján a miniszter kezdeményezi. A hatásvizsgálat figyelembe veszi a kötött segélyhitel nyújtásának külpolitikai hatásai mellett annak a központi költségvetés és az államadósság alakulására gyakorolt hatására vonatkozó becslést is.
+
+(2) Kötött segélyhitel nyújtásában minden, a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) irányadó besorolása szerinti ország részesíthető az OECD által meghatározott korlátozások figyelembevételével.
+
+(3) A segélyhitel felajánlásához – a (4) bekezdésben meghatározott eset kivételével – a miniszter javaslata alapján a Kormány jóváhagyása szükséges. A Kormány az (1) bekezdés szerinti hatásvizsgálat adatainak figyelembevételével nyilvános, egyedi ügyben hozott határozatával dönt a segélyhitel felajánlásának jóváhagyásáról.
+
+(4) Ha a kötött segélyhitel felajánlása külföldi versenytárgyaláson történő ajánlattételhez szükséges, a támogatási ígérvény kiadására 20 millió EUR-nak megfelelő projekt összegig a miniszter a Szakértői Munkacsoport hatásvizsgálattal alátámasztott javaslatának figyelembevételével jogosult.
+
+### 6. §[^16]
+
+(1) Kötött segélyhitelek nyújtásáról a kedvezményezett országokkal nemzetközi szerződésekben kell megállapodni. A kötött segélyhitelek feltételeit rögzítő nemzetközi szerződések előkészítéséről és végrehajtásáról a miniszter gondoskodik.
+
+(2) A kötött segélyhitelek 5. § (1) és (3) bekezdése alapján történő felajánlásának, valamint a kötött segélyhitelek nyújtására vonatkozó nemzetközi szerződéseknek az OECD-nél és az Európai Uniónál az előírt adattartalommal és határidőben történő bejelentéséért a miniszter, az egyes hitelügyletek bejelentéséért pedig az Eximbank felelős.
+
+### 7. §[^17]
+
+(1) A segélyhitelhez kapcsolódó kedvezményezettség mértékét az OECD hivatalosan támogatott exporthitelek irányelveiről szóló megállapodása (a továbbiakban: OECD Megállapodás) szerinti kalkulációs módszereket alkalmazva az Eximbank és a Mehib Zrt. számítja ki, és arról a Szakértői Munkacsoportot, az OECD-t és az Európai Uniót tájékoztatja.
+
+(2) A kötött segélyhitelekre vonatkozó hitelszerződések a kedvezményezett országokkal létrejött hatályos nemzetközi szerződések alapján köthetők meg. A kötött segélyhitel folyósításáról szóló szerződést a kedvezményezett ország által arra felhatalmazott szervvel vagy hitelintézettel az Eximbank köti meg. Az OECD és az Európai Unió által előírt bejelentési, jóváhagyási és konzultációs eljárásokat minden egyes projekt esetében a Mehib Zrt.-vel együttműködve az Eximbank folytatja le.
+
+(3) Valamely államszövetség, tagállam esetében a szubszuverén tagállami garancia biztosítékként történő kivételes elfogadását a miniszter a Szakértői Munkacsoport javaslata alapján kezdeményezi a Kormánynál. A Szakértői Munkacsoport ügyrendje szerint a Szakértői Munkacsoport a makrogazdasági és külgazdasági prioritásokra tekintettel, az Eximbank és a Mehib Zrt. együttes szakmai döntés-előkészítő információinak figyelembevételével eseti elbírálás alapján készíti el javaslatát.
+
+(4) A miniszter a Szakértői Munkacsoport támogató előkészítő javaslata alapján előkészítő tárgyalásokat kezdeményezhet a 35%-osnál kötelezően magasabb minimális kedvezményezettség mértékkel rendelkező célországok kötött segélyhitelezésére.
+
+## A kötött segélyhitelnyújtás feltételei
+
+### 8. §
+
+A segélyhitelnyújtás feltételeinek meg kell felelniük az OECD Megállapodás szerződéskötés időpontjában hatályos rendelkezéseinek.
+
+### 9. §[^18]
+
+(1) Kötött segélyhitel nem nyújtható olyan állami vagy magánprojekthez, amely piaci vagy az OECD Megállapodásban foglalt feltételekkel finanszírozva, üzleti alapon megvalósítható. E rendelkezés nem vonatkozik
+
+a) a de minimis hitellel,
+
+b) az ENSZ által a világ legelmaradottabb államai körébe sorolt országok részére nyújtott kötött segélyhitellel, valamint
+
+c) a magas kedvezményezettségű hitellel
+
+finanszírozott projektre, amely esetén a projekt jogosultságának vizsgálatát nem kell elvégezni.
+
+(2) Kötött segélyhitelre csak az (1) bekezdésben és az 5. § (2) bekezdésében foglaltaknak megfelelő projekt jogosult, amely esetében az OECD Megállapodás aláírói az OECD Megállapodás jóváhagyási rendje szerint nem emeltek kifogást.
+
+(3) Kötött segélyhitel-konstrukcióban a kedvezményezett ország nemzeti fejlesztési programjaival, prioritást élvező célkitűzéseivel összhangban lévő projektek finanszírozhatók.
+
+(4) A kötött segélyhitelhez kapcsolódó kedvezményezettség mértékének el kell érnie
+
+a) az OECD Megállapodásban rögzített 35%-os, vagy az ENSZ által a világ legelmaradottabb államai körébe sorolt országok esetében 50%-os minimumok, vagy
+
+b) az OECD Fenntartható Hitelezés Elveiről Szóló Egyezményben előírt minimumok
+
+közül a szigorúbb küszöbértéket.
+
+(5)[^19] A segélyhitelügyletben részt vevőknek írásban nyilatkozniuk kell arról, hogy az OECD „Vesztegetésről és a hivatalosan támogatott exporthitelekről” szóló tanácsi ajánlásában foglaltak értelmében nem vettek részt az ügylettel kapcsolatos vesztegetésben és nincs tudomásuk korrupcióról.
+
+(6)[^20] E rendelet alapján segélyhitel abban az esetben folyósítható, ha az Eximbank által az OECD „Államilag támogatott exporthitelek közös környezetvédelmi szemléletéről” szóló tanácsi ajánlásának megfelelően előzetesen elvégzett környezeti célú átvilágítás és a környezeti hatástanulmány alapján a finanszírozott ügylet nem minősül a környezetre nézve károsnak.
+
+### 10. §[^21]
+
+Kötött segélyhitel konstrukcióban a Mehib Zrt. által nyújtott biztosítás feltételeire – beleértve az áruk és szolgáltatások származásával kapcsolatos előírásokra, az igazolás és ellenőrzés módjára – a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható, nem-piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet (a továbbiakban: Mehib rendelet) előírásait az e rendeletben foglalt eltérésekkel kell alkalmazni, azzal, hogy a Kormány a kormányközi megállapodást kihirdető kormányrendeletben a Mehib rendelet 7. § (1) bekezdésében, valamint a (3) bekezdésében foglaltaktól eltérő, magasabb magyar hányad mértéket határozhat meg. Amennyiben a kormányközi megállapodást kihirdető kormányrendelet nem határozza meg a magyar hányad mértéket, úgy a kötött segélyhitel konstrukcióban az áruk exportjához, illetve az építési, szerelési, technológiai szerelési, tervezési és az ezekhez közvetlenül kapcsolódó szolgáltatások elvégzésére vonatkozó szerződések esetén a magyar hányad mértéke a Mehib rendelet 7. § (1) és (3) bekezdésében foglalt mértéktől alacsonyabb nem lehet.
+
+### 11. §[^22]
+
+A kötött segélyhitelügyletek hitelszerződéseinek hatálybalépési feltételei között szerepelnie kell az alábbiaknak:
+
+a) amennyiben a külföldi hitelfelvevő nem szuverén vagy szubszuverén tagállami kockázatúnak minősül, a 2. § 9. és 11. pontjában foglaltak szerinti, a szuverén garanciát vagy szubszuverén tagállami garanciát nyújtó állam vagy tagállam belső jogrendje szerint érvényes garanciájának megléte, valamint
+
+b) az Eximbanknak a Mehib Zrt.-vel a segélyhitelre megkötött hitelbiztosítási szerződése.
+
+## A kötött segélyhitelek finanszírozása és támogatása
+
+### 12. §[^23]
+
+A kötött segélyhiteleket saját forrásaiból az Eximbank nyújtja. A kötött segélyhitelek nem piacképes kockázat elleni hitelbiztosítását a Mehib Zrt. végzi.
+
+### 13. §[^24]
+
+(1)[^25] A kötött segélyhitelekben a kapcsolódó állami támogatás a miniszter által vezetett minisztérium (a továbbiakban: KKM) költségvetési fejezetében szereplő „Kötött segélyhitelezés” megnevezésű előirányzatból nyújtott kamattámogatás és adományelem.
+
+(2) E rendelet alapján folyósított segélyhitelekhez kapcsolódó kedvezményezettség mértékének a 9. § (4) bekezdés szerinti mértékét vegyes hitelek esetén a kamattámogatás és az adományelem együttesen, de minimis hitelek esetén csak a kamattámogatás teljesíti. Az adományelem a hitelbiztosítási díjjal azonos vagy annál kisebb.
+
+(3) A kamattámogatás mértéke legfeljebb a forrásszerzési költség és a kedvezményes kamatszint különbsége alapján számított összeg.
+
+### 13/A. §[^26]
+
+Ha a Mehib Zrt. a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet 17. § (6) és (7) bekezdésében foglaltak szerint a kárt a biztosított kötött segélyhitel szerződés törlesztési ütemtervében meghatározott eredeti esedékességek szerint állapítja meg és fizeti meg, akkor az Eximbank a Mehib Zrt.-re átruházott követelés tekintetében is jogosult a kamattámogatás igénybevételére, azzal, hogy az érintett állományt és az arra jutó kamattámogatás összegét a fel nem mondott hitelektől elkülönítve kell megjeleníteni az 1–3. és 5. melléklet szerinti kimutatásokban.
+
+## Az Eximbank központi költségvetéssel történő, a segélyhitelezéssel összefüggő elszámolásának szabályai
+
+### 14. §[^27]
+
+Az Eximbank a kiajánlott, valamint a szerződött segélyhitelekről folyamatos nyilvántartást vezet. A kiajánlott segélyhitelek és a szerződött segélyhitelek tárgynegyedév végén fennálló állományairól az 1. melléklet szerinti formanyomtatvány alkalmazásával, a segélyhitelek lejáratáig számított 13. § szerinti támogatási igények várható forintösszegéről pedig a 2. melléklet szerinti formanyomtatvány alkalmazásával negyedévenként, a negyedévet követő hónap 15. napjáig devizanemenként összesítve, szerződésenkénti részletezettségben tájékoztatást készít a miniszter részére, melyet egyidejűleg az államháztartásért felelős miniszternek, valamint a Magyar Államkincstárnak is megküld papír alapon és elektronikus úton is. A tájékoztatást az Eximbank a tárgynegyedév utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamok alkalmazásával készíti el.
+
+### 15. §[^28]
+
+Az Eximbank a folyósított segélyhitelek alapján negyedévente a 3. melléklet szerinti formanyomtatvány alkalmazásával előrejelzést készít a következő negyedévben elszámolásra kerülő kamattámogatási igények, valamint a befizetési kötelezettségek várható forintösszegéről és azt hitelszerződésenkénti részletezettséggel a tárgynegyedév első hónapjának 15. napjáig papír alapon és elektronikus úton megküldi a miniszternek.
+
+### 16. §[^29]
+
+Az Eximbank a Mehib Zrt.-vel a segélyhitelre megkötött hitelbiztosítási szerződések vonatkozásában – a Mehib Zrt. előzetes biztosítási díjajánlatának birtokában – a következő negyedévben elszámolásra kerülő adományelemek várható forintösszegéről szerződésenkénti részletezettséggel a 4. melléklet szerinti formanyomtatvány alkalmazásával előrejelzést készít, és azt a tárgynegyedév első hónapjának 15. napjáig papír alapon és elektronikus úton megküldi a miniszternek.
+
+### 17. §[^30]
+
+Az Eximbank a jelen rendelet alapján folyósított kamattámogatásokkal kapcsolatosan naptári negyedévenként, utólagosan, az 18–20. §-okban foglaltak szerint számol el a miniszterrel.
+
+### 18. §[^31]
+
+(1) Az Eximbank a segélyhitel szerződésekre vonatkozóan szerződésenként megállapítja a segélyhitel-szerződés szerinti, fix kamatlábbal számított, a tárgynegyedévben időarányosan járó kamatokat, valamint a tárgynegyedévre vonatkozó forrásszerzési költsége alkalmazásával számított, azonos időszakra vonatkozó összeget. Amennyiben a forrásszerzési költség figyelembevételével számított összeg nagyobb az időarányosan járó kamatoknál, a különbözet a segélyhitel tárgynegyedévi kamattámogatási igénye, ellenkező esetben a kamatkülönbözet befizetési kötelezettsége.
+
+(2) Az Eximbank a 20. §-ban meghatározott jelentéssel egyidejűleg, a jelentésben szereplő ügyletek szakmai teljesítésre vonatkozóan nyilatkozatot tesz a miniszternek, amellyel igazolja, hogy a segélyhitelek folyósítására a vonatkozó jogszabályi előírásoknak megfelelően, a kormányközi kötött segélyhitel megállapodásokban, valamint az egyedi hitelszerződésekben foglaltak szerint került sor és a fennálló segélyhitel állomány a hiteladós közreműködésével ellenőrzött, illetve nyomon követett kereskedelmi vagy fővállalkozói szerződés szerinti, számlákkal igazolt teljesítés alapján keletkezett.
+
+### 19. §
+
+A hitelszerződésenként megállapított különbözeteket az Eximbank a tárgynegyedév utolsó munkanapján érvényes, hivatalosan közzétett MNB árfolyamok alkalmazásával forintra átszámítja, és azok összesítéseként kimutatott forintösszegeket a 20. § szerint rendezi a központi költségvetéssel.
+
+### 20. §[^32]
+
+(1) Az Eximbank a kamattámogatási igényről és kamatkülönbözet-befizetési kötelezettségről, a tárgynegyedévet követő hónap 15. napjáig, a vonatkozó szerződésszámok és az azokhoz kapcsolódó összegek feltüntetésével, az 5. melléklet szerinti formanyomtatvány alkalmazásával papír alapon és elektronikus úton jelentést nyújt be a miniszternek.
+
+(2) A miniszter a jelentés szerinti kamattámogatás a KKM 10032000-01220108-50000005 számú Kötött segélyhitelezés fejezeti kezelésű előirányzat-felhasználási keretszámlája terhére történő folyósításáról a jelentés papír alapon történő beérkezésétől számított 8 munkanapon belül intézkedik. Az elszámolás szerint mutatkozó kamatkülönbözet befizetési kötelezettség összegét az Eximbank a tárgynegyedévet követő hónap 20. napjáig átutalja a KKM 10032000-01220108-50000005 számú Kötött segélyhitelezés fejezeti kezelésű előirányzat-felhasználási keretszámlája javára.
+
+### 21. §[^33]
+
+(1) Az Eximbank a segélyhitelekre vonatkozóan megkötött hitelbiztosítási szerződések alapján a Mehib Zrt. által az Eximbanknak a 22. § szerint kiszámlázott hitelbiztosítási díjból a központi költségvetés által adományelemként átvállalásra kerülő részének esedékes részösszegéről és a kapcsolódó jelenérték különbözet összegéről, devizaneméről és fizetési esedékességének értéknapjáról a 6. melléklet szerinti formanyomtatvány alkalmazásával papír alapon és elektronikus úton értesíti a minisztert, és egyidejűleg – számlaszámának megjelölésével – kéri az összeg központi költségvetésből történő átutalását.
+
+(2) Az (1) bekezdés szerinti igény benyújtásával egyidejűleg az Eximbank a jelentésben szereplő ügyletek szakmai teljesítésére vonatkozóan nyilatkozatot tesz a miniszternek, amellyel igazolja, hogy a Mehib Zrt. által kiállított díjszámla a jogszabályi előírásoknak megfelelően, a kormányközi kötött segélyhitel megállapodások alapján, az egyedi hitelszerződésekre vonatkozó hitelbiztosítási szerződések alapján került kiállításra.
+
+(3) A miniszter az igénylés papír alapon történő beérkezésétől számított 10 munkanapon belül megküldi a Magyar Államkincstár részére az adományelem összegét tartalmazó utalványt. Az utalványon szereplő összeget a Magyar Államkincstár átutalja az Eximbank által megjelölt devizanemben, a megjelölt értéknapra és számla javára.
+
+### 22. §[^34]
+
+(1) Az Eximbank – a biztosítási szerződésben foglaltak szerint – a biztosítási szerződés megkötésekor a biztosítási díjról kiállított számla vagy a számviteli szabályoknak megfelelő bizonylat alapján az első hitelfolyósításig megfizeti a teljes hitelbiztosítási díjat, vagy részletekben történő díjfizetés esetén az első díjrészletet.
+
+(2)[^35] Részletekben történő díjfizetés esetén a hitelbiztosítási díj fennmaradó részét az Eximbank kötelezettségként, a Mehib Zrt. követelésként köteles kimutatni. Részletekben történő fizetés esetén a futamidő kezdetén teljes összegben elszámolt díjbevétel alapján a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló 312/2001. (XII. 28.) Korm. rendelet 12. §-a szerint képzett meg nem szolgált díjak tartaléka tekintetében a díjbevétellel szemben elszámolt követelés figyelembe vehető a tartalék eszközfedezetéül szolgáló befektetésként.
+
+### 23. §[^36]
+
+A segélyhitelre vonatkozóan megkötött hitelbiztosítási szerződések alapján járó díjvisszatérítés esetén az Eximbank a felmerülő díjvisszatérítést – a kedvezményezettet illető adományrész kivételével, a díjvisszatérítésnek a Mehib Zrt. általi visszafizetését követően – haladéktalanul átutalja a KKM 10032000-01220108-50000005 számú Kötött segélyhitelezés fejezeti kezelésű előirányzat-felhasználási keretszámla javára.
+
+### 24. §[^37]
+
+Ha a hiteladós nem tesz eleget a hitelszerződésben foglalt azon kötelezettségeinek, amelyek megszegése miatt kárveszély áll fenn, illetve átütemezés vagy 5 munkanapon túli nem fizetés esete következik be, az Eximbank haladéktalanul köteles írásban tájékoztatni a minisztert, a Mehib Zrt.-t és a Magyar Államkincstárt. Átütemezés esetén a Mehib Zrt.-t átütemezési díj a miniszternek a Szakértői Munkacsoport javaslata alapján meghozott döntése esetén illeti meg.
+
+## Záró rendelkezések
+
+### 25. §
+
+(1)[^38]
+
+(2)[^39] Az Eximbank a 2010. negyedik negyedévi időszakra vonatkozó elszámolásában az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosításáról szóló 299/2010. (XII. 23.) Korm. rendelet 9. §-ával és 10. §-ával megállapított 18. § és 20. §, valamint a 19. § szerint rendezi a költségvetéssel azt a kamattámogatási igényt vagy kamatkülönbözet-befizetési kötelezettséget, amely 2010. év második és harmadik negyedévében kamatfizetési esedékességű ügyletekhez kapcsolódik, és amit az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosításáról szóló 299/2010. (XII. 23.) Korm. rendelet hatálybalépését megelőző időszakra vonatkozó elszámolások alapján a költségvetéssel pénzügyileg nem rendezett.
+
+(2a)[^40] Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosításáról szóló 186/2013. (VI. 7.) Korm. rendelet (a továbbiakban: MódR.) 1. §-ával megállapított 2. § 3. pontja szerint számított forrásszerzési költségeket az Eximbank a MódR. hatálybalépését[^41] követő költségvetési elszámolások során az R. 17. §-ában előírt teljes elszámolási időszakra figyelembe veheti.
+
+(2b)[^42] Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosításáról szóló 287/2023. (VI. 30.) Korm. rendelet (a továbbiakban: MódR2.) 1. §-ával megállapított 2. § 3. pontja szerint számított forrásszerzési költségeket az Eximbank a MódR2. hatálybalépését[^43] követően első alkalommal a 2023. harmadik negyedévre vonatkozó költségvetési elszámolások során a jelen rendelet 17. §-ában előírt teljes elszámolási időszakra veszi figyelembe.
+
+(2c)[^44] Az Eximbank által folyósítható kötött segélyhitelek feltételeiről és a segélyhitelnyújtás részletes szabályairól szóló 232/2003. (XII. 16.) Korm. rendelet módosításáról szóló 173/2024. (VII. 7.) Korm. rendelettel (a továbbiakban: MódR3.) megállapított 13/A. §-t a MódR3. hatálybalépését[^45] megelőzően létrejött segélyhitel-szerződésekre is alkalmazni kell.
+
+(3) E rendelet a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségeknek a bizonyos iránymutatásoknak az állami exporthitel-támogatás területén való alkalmazásáról szóló, 1978. április 4-i határozat felváltásáról hozott 2000. december 22-i 2001/76/EK számú tanácsi határozatta, valamint a hitelbiztosítást, a hitelgaranciákat és a pénzügyi hiteleket érintő konzultációs és információs eljárásokról szóló 73/391/EGK tanácsi határozattal és az azt módosító 76/641/EGK határozattal részlegesen összeegyeztethető szabályozást tartalmaz.
+
+## 1. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^46]
+
+**Kiajánlott és szerződött segélyhitelek … negyedév végén fennálló állománya**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | Kormányközi megállapodás |  |
+| **2.** | Ország |  |
+| **3.** | Projekt |  |
+| **4.** | Összeg (devizában) |  |
+| **5.** | Jelenlegi helyzet |  |
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td></td><td>Projekt megnevezése (kormányközi megállapodás, hitelszerződés alapján)</td><td>Szerződésszám</td><td>Számlaszám</td><td>Ügyfél</td><td>Ország</td><td>Deviza</td><td>Összeg devizában</td><td>Összeg forintban</td></tr><tr><td>**1.**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>**2.**</td><td colspan="8">Összesen</td></tr><tr><td>**3.**</td><td colspan="7">Mindösszesen (Ft)</td><td></td></tr></tbody></table>
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td></td><td>Projekt megnevezése (kormányközi megállapodás, hitelszerződés alapján)</td><td>Szerződésszám</td><td>Számlaszám</td><td>Ügyfél</td><td>Ország</td><td>Deviza</td><td>Összeg devizában</td><td>Összeg forintban</td></tr><tr><td>**1.**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>**2.**</td><td colspan="8">Összesen</td></tr><tr><td>**3.**</td><td colspan="7">Mindösszesen (Ft)</td><td></td></tr></tbody></table>
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td></td><td>Projekt megnevezése (kormányközi megállapodás, hitelszerződés alapján)</td><td>Szerződésszám</td><td>Számlaszám</td><td>Ügyfél</td><td>Ország</td><td>Deviza</td><td>Összeg devizában</td><td>Összeg forintban</td></tr><tr><td>**1.**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>**2.**</td><td colspan="8">Összesen</td></tr><tr><td>**3.**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>**4.**</td><td colspan="8">Összesen</td></tr><tr><td>**5.**</td><td colspan="7">Mindösszesen (Ft)</td><td></td></tr></tbody></table>
+
+Készült: (év, hónap, nap)
+
+(cégszerű aláírás)
+
+## 2. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^47]
+
+1\. Kötött segélyhitelezési portfólió tervezett teljes támogatási igénye
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>1.</td><td rowspan="3"></td><td colspan="2">Megvalósult kormányközi megállapodások</td><td rowspan="2">Aláírt kormányközi megállapodások</td><td rowspan="3">Összes kormányközi megállapodás együttesen</td><td rowspan="2">Új felajánlás</td><td rowspan="2">Tervezett felajánlás</td><td rowspan="3">Összes új felajánlás együttesen</td></tr><tr><td>2.</td><td>törlesztés alatt</td><td>folyósítás alatt</td></tr><tr><td>3.</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td></tr><tr><td>4.</td><td>Év</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.</td><td>Összesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Készült: (év, hónap, nap)
+
+2\. Kötött segélyhitelezési portfólió tervezett kamattámogatási igénye
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>1.</td><td rowspan="3"></td><td colspan="2">Megvalósult kormányközi megállapodások</td><td rowspan="2">Aláírt kormányközi megállapodások</td><td rowspan="3">Összes kormányközi megállapodás együttesen</td><td rowspan="2">Új felajánlás</td><td rowspan="2">Tervezett felajánlás</td><td rowspan="3">Összes új felajánlás együttesen</td></tr><tr><td>2.</td><td>törlesztés alatt</td><td>folyósítás alatt</td></tr><tr><td>3.</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td></tr><tr><td>4.</td><td>Év</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.</td><td>Összesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Készült: (év, hónap, nap)
+
+3\. Kötött segélyhitelezési portfólió tervezett díjtámogatási igénye
+
+<table><tbody><tr><td></td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>1.</td><td rowspan="3"></td><td colspan="2">Megvalósult kormányközi megállapodások</td><td rowspan="2">Aláírt kormányközi megállapodások</td><td rowspan="3">Összes kormányközi megállapodás együttesen</td><td rowspan="2">Új felajánlás</td><td rowspan="2">Tervezett felajánlás</td><td rowspan="3">Összes új felajánlás együttesen</td></tr><tr><td>2.</td><td>törlesztés alatt</td><td>folyósítás alatt</td></tr><tr><td>3.</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td><td>Projekt megnevezése</td></tr><tr><td>4.</td><td>Év</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.</td><td>Összesen:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Készült: (év, hónap, nap)
+
+(cégszerű aláírás)
+
+## 3. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^48]
+
+**Negyedéves előrejelzés az Eximbank Zrt. által folyósított segélyhitelek várható kamattámogatási igényéről és befizetési kötelezettségéről**
+
+Vonatkozási időszak:
+
+Elszámolás időpontja:
+
+|  | **A** | **B** | **C** | **D** | **E** |
+|---|---|---|---|---|---|
+| **1.** |  | Sorszám | Szerződésszám | Számlaszám | Várható kamattámogatási igény (Ft) |
+| **2.** |  |  |  |  |  |
+| **3.** | Összesen (Ft) |  |  |  |  |
+
+Készült: (év, hónap, nap)
+
+(cégszerű aláírás)
+
+## 4. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^49]
+
+**Negyedéves előrejelzés a várható biztosítási díj támogatásának (adományelem) forint összegéről**
+
+Vonatkozási időszak:
+
+Elszámolás időpontja:
+
+|  | **A** | **B** | **C** | **D** | **E** | **F** |
+|---|---|---|---|---|---|---|
+| **1.** |  | Hitelszerződés száma | Kötvényszám | Adományelemként átvállalásra kerülő hitelbiztosítási díj esedékes összege (Pénzügyi értesítő, up front egyenérték) (Ft) | Jelenérték különbözet (Ft) | Díjtámogatás összesen (Ft) |
+| **2.** |  |  |  |  |  |  |
+| **3.** | Összesen (Ft) |  |  |  |  |  |
+
+Készült: (év, hónap, nap)
+
+(cégszerű aláírás)
+
+## 5. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^50]
+
+**A … év … negyedévi jelentés és elszámolás a segélyhitelekkel kapcsolatos kamattámogatási igényről és befizetési kötelezettségről**
+
+|  | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
+|---|---|---|---|---|---|---|---|
+| **1.** |  | Sorszám | Projekt megnevezése (kormányközi megállapodás, hitelszerződés alapján) | Szerződés- szám | Számlaszám | Kamat- támogatási igény (Ft) | Befizetési kötelezettség (Ft) |
+| **2.** |  |  |  |  |  |  |  |
+| **3.** | Összesen (Ft) |  |  |  |  |  |  |
+
+Készült: (év, hónap, nap)
+
+Melléklet:
+
+− kamattámogatási igény magyarázat táblázata
+
+(cégszerű aláírás)
+
+## 6. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^51]
+
+**A … év … negyedévi segélyhitelekkel kapcsolatos biztosítási díj támogatási igény lehívási kérelme**
+
+|  | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |
+|---|---|---|---|---|---|---|---|---|
+| **1.** |  | Hitel- szerződés száma | Projekt megnevezése (kormányközi megállapodás, hitelszerződés alapján) | Kötvényszám | Pénzügyi értesítő (up front egyenérték) (Ft) | Jelenérték különbözet (Ft) | Díjtámogatás összesen (Ft) | Fizetés esedékessége |
+| **2.** |  |  |  |  |  |  |  |  |
+| **3.** | Összesen (Ft) |  |  |  |  |  |  |  |
+
+Készült: (év, hónap, nap)
+
+Melléklet:
+
+− biztosítási díjtámogatási igény magyarázat táblázata
+
+− számla
+
+(cégszerű aláírás)
+
+---
+
+[^1]: Az 1. § a 299/2010. (XII. 23.) Korm. rendelet 14. § (5) bekezdése szerint módosított szöveg.
+[^2]: A 2. § a 299/2010. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § 3. pontja a 287/2023. (VI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 3a. pontját a 60/2018. (III. 27.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3. § a) pontja a 299/2010. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 93/2015. (IV. 9.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § b) pontját a 171/2010. (V. 13.) Korm. rendelet 1. § 9. pontja hatályon kívül helyezte, újonnan a 299/2010. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 3. § d) pontja a 299/2010. (XII. 23.) Korm. rendelet 14. § (6) bekezdése szerint módosított szöveg.
+[^8]: A 3. § e) pontja a 215/2015. (VII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § f) pontja a 299/2010. (XII. 23.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^10]: A 3. § g) pontja a 299/2010. (XII. 23.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^11]: A 4. §-t a 171/2010. (V. 13.) Korm. rendelet 1. § 9. pontja hatályon kívül helyezte, újonnan a 299/2010. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A 4. § (1) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 255. §-a, a 93/2015. (IV. 9.) Korm. rendelet 2. § b) pontja, a 101/2018. (VI. 11.) Korm. rendelet 5. §-a, a 441/2020. (IX. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 4. § (3) bekezdése a 93/2015. (IV. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 5. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^15]: Az 5. § (1) bekezdése a 441/2020. (IX. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^16]: A 6. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 7. § a 299/2010. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 9. § a 299/2010. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^19]: A 9. § (5) bekezdése a 60/2018. (III. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 9. § (6) bekezdését a 60/2018. (III. 27.) Korm. rendelet 2. §-a iktatta be.
+[^21]: A 10. § a 464/2025. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: A 11. § a 299/2010. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^23]: A 12. § a 299/2010. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^24]: A 13. § a 299/2010. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^25]: A 13. § (1) bekezdése a 93/2015. (IV. 9.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^26]: A 13/A. §-t a 173/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^27]: A 14. § a 60/2018. (III. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^28]: A 15. § a 60/2018. (III. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^29]: A 16. § a 60/2018. (III. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^30]: A 17. § a 299/2010. (XII. 23.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
+[^31]: A 18. § a 60/2018. (III. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^32]: A 20. § a 60/2018. (III. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^33]: A 21. § a 60/2018. (III. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 22. § az 5/2007. (I. 24.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 2. §-a alapján a rendelkezést a 2007. február 1. napja után megkötött segélyhitel megállapodásokra kell alkalmazni.
+[^35]: A 22. § (2) bekezdése a 299/2010. (XII. 23.) Korm. rendelet 14. § (6) bekezdése szerint módosított szöveg.
+[^36]: A 23. § a 464/2025. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 24. § a 299/2010. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^38]: A 25. § (1) bekezdését a 303/2005. (XII. 25.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^39]: A 25. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 796. pontja hatályon kívül helyezte, újonnan a 299/2010. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^40]: A 25. § (2a) bekezdését a 186/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A hatálybalépés napja: 2013. június 8.
+[^42]: A 25. § (2b) bekezdését a 287/2023. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^43]: A hatálybalépés időpontja 2023. július 1.
+[^44]: A 25. § (2c) bekezdését a 173/2024. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^45]: A hatálybalépés időpontja 2024. július 8.
+[^46]: Az 1. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^47]: A 2. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^48]: A 3. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^49]: A 4. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^50]: Az 5. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^51]: A 6. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.

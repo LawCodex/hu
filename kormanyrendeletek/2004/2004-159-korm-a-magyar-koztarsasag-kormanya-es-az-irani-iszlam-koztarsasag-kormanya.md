@@ -1,0 +1,206 @@
+---
+title: "159/2004. (V. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya között Budapesten, 1994. március 25-én aláírt közúti személyszállítási és árufuvarozási megállapodás kihirdetéséről"
+identifier: "159/2004. (V. 21.) Korm. rendelet"
+njt_id: "2004-159-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/159"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-05-21
+in_force_from: 2004-05-21
+last_amended: 2004-05-21
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-159-20-22"
+retrieved: 2026-10-12
+---
+
+# 159/2004. (V. 21.) Korm. rendelet a Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya között Budapesten, 1994. március 25-én aláírt közúti személyszállítási és árufuvarozási megállapodás kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 2003. november 19-én megtörtént, a Megállapodás 2003. december 19-én hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya között Budapesten, 1994. március 25-én aláírt közúti személyszállítási és árufuvarozási megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya között Budapesten, 1994. március 25-én aláírt közúti személyszállítási és árufuvarozási megállapodás hivatalos magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról
+
+*Bevezetés*
+
+A Magyar Köztársaság Kormánya és az Iráni Iszlám Köztársaság Kormánya (a továbbiakban: Szerződő Felek) attól az óhajtól vezettetve, hogy megkönnyítsék és elősegítsék a nemzetközi közúti személy- és árufuvarozást országaik között és a területükön átmenő forgalomban, az alábbiakban állapodtak meg:
+
+*1. cikk*
+
+*Meghatározások*
+
+A jelen Megállapodás szempontjából:
+
+1\. A ,,fuvarozó'' kifejezés minden olyan természetes vagy jogi személyt jelent, aki a Magyar Köztársaság, vagy az Iráni Iszlám Köztársaság állampolgára és annak területén él, valamint a vonatkozó nemzeti törvények és rendelkezések alapján nemzetközi közúti személy- vagy árufuvarozás végzésére jogosult.
+
+2\. A ,,gépjármű'' kifejezés bármely mechanikus önjáró közúti gépjárművet jelent, amely
+
+*a)* felépítése alapján a gépjárművezetővel együtt kilencnél több személy (személyszállító gépjármű), vagy áru (áruszállító gépjármű) szállítására szolgál,
+
+*b)* a Szerződő Felek bármelyikének területén van bejegyezve.
+
+Az áruszállító gépjármű esetében a ,,gépjármű'' kifejezés bármilyen külön gépjárműre, vagy a gépjármű és félpótkocsi vagy pótkocsi kombinációjára vonatkozik.
+
+*2. cikk*
+
+*A Megállapodás hatálya*
+
+A jelen Megállapodás rendelkezései feljogosítják a fuvarozókat, hogy gépjárművekkel közúton utasokat vagy árukat szállítsanak a Szerződő Felek területei között vagy azokon áthaladva vagy harmadik országokba/ból.
+
+*3. cikk*
+
+*Személyszállítás*
+
+Az egyik Szerződő Fél fuvarozójának a másik Szerződő Fél területén végzendő személyszállítási tevékenységéhez engedélyre van szüksége, amelyet az utóbbi Fél törvényeivel és rendelkezéseivel összangban kell beszerezni.
+
+*4. cikk*
+
+*Árufuvarozás*
+
+Az egyik Szerződő Fél fuvarozója közúti fuvarozási engedély birtokában ideiglenesen beléphet üres vagy rakott gépjárművel a másik Szerződő Fél területére, hogy árut fuvarozzon
+
+*a)* a két Szerződő Fél területe között, vagy
+
+*b)* a másik Szerződő Fél területén átmenő tranzitforgalomban,
+
+*c)* harmadik országból/ba.
+
+*5. cikk*
+
+*Engedélyek*
+
+1\. A Szerződő Felek évente 3000 db gépjárműadó-mentes loco/tranzit engedélyt cserélnek ki, mint alapkontingenst, hacsak a Szerződő Felek másképp nem állapodnak meg.
+
+2\. Amennyiben a fenti 1. bekezdésben említett engedélyek nem elegendőek, pótlólagos gépjárműadó-köteles engedélykontingensről állapodhatnak meg. A vegyesbizottság határozza meg a pótlólagos gépjárműadó-köteles engedélyek mennyiségét, továbbá az engedélyek érvényességét.
+
+3\. Az engedély át nem ruházható, egy oda- és visszaútra érvényes.
+
+*6. cikk*
+
+*Mentességek*
+
+A következő fuvarozásokra nem vonatkoznak a jelen Megállapodás 5. cikkének rendelkezései és ezek engedély- és gépjárműadó-fizetési kötelezettség nélkül végezhetők:
+
+*a)* esetenkénti árufuvarozás a repülőterekre vagy azokról, ha a légiközlekedési szolgáltatásokat másképpen diszponálják,
+
+*b)* poggyászfuvarozás a személyszállító gépjárművekhez kapcsolt utánfutókban, poggyászfuvarozás bármilyen típusú gépjárművel repülőterekre és onnan,
+
+*c)* postai küldemények,
+
+*d)* meghibásodott gépjárművek szállítása és az üzemképtelen gépjármű helyettesítésére és az áruk elszállítására küldött gépjármű üres futása, valamint a fuvarozás a helyettesítő gépjárművel történő folytatása, az üzemképtelenné vált gépjármű részére kiállított engedély alapján,
+
+*e)* művészeti alkotások, kiállítási tárgyak, valamint kiállításokra, vásárokra és cirkuszi rendezvényekre szánt anyagok és felszerelési tárgyak fuvarozása,
+
+*f)* kizárólagosan reklám és tájékoztatás céljára szánt anyagok és felszerelések fuvarozása,
+
+*g)* szakosított személyzetet és felszerelést használó fuvarozó által elvégzett háztartási tartozékok szállítmányozása,
+
+*h)* olyan árufuvarozás, ahol a gépjármű legnagyobb össztömege (az utánfutót is beleértve) 6 tonnát, vagy hasznos terhelése, beleértve az utánfutót is, a 3,5 tonnát nem haladja meg,
+
+*i)* veszélyhelyzetben, különösen természeti katasztrófáknál, történő segélynyújtáshoz orvosi ellátást szolgáló készletek és felszerelések fuvarozása,
+
+*j)* halottszállítás e célra kialakított gépjárművel,
+
+*k)* külkereskedelmi forgalomban vásárolt és/vagy eladott új tehergépjárművek, gépjárműszerelvények, autóbuszok önjáró szállítása (egyszeri üres menete) a gyártás helyétől az átvevő telephelyéig vagy vissza.
+
+*7. cikk*
+
+*A gépjárművek súlya és méretei*
+
+1\. A közúti gépjárművek súlya és méretei vontakozásában mindkét Szerződő Fél vállalja, hogy a másik Szerződő Fél területén bejegyzett gépjárművekre nem alkalmaz olyan feltételeket, melyek szigorúbbak, mint a saját területén bejegyzett járművekre alkalmazott feltételek.
+
+2\. Ha a gépjárműve súlya vagy méretei meghaladják valamelyik Szerződő Fél területén maximálisan engedélyezett határértékeket akkor a gépjárműhöz különleges engedélyt szükséges beszerezni az érintett Szerződő Fél illetékes hatóságától.
+
+Abban az esetben, ha az engedély kijelölt útvonalat ír elő, akkor a gépjárműnek ezt kell használnia és a fuvarozás kizárólag ezen az útvonalon megengedett.
+
+*8. cikk*
+
+*A belső szállítás tilalma*
+
+A jelen Megállapodás rendelkezései nem engedélyezik egyik Szerződő Fél fuvarozói számára sem, hogy utasokat, vagy árukat szállítsanak a másik Szerződő Fél területének egyik pontjáról a másikra.
+
+*9. cikk*
+
+*Vámeljárások*
+
+1\. A gépjárművek ideiglenes bevitelére a másik Szerződő Fél területére az adott Szerződő Fél nemzeti törvényei és rendelkezései vonatkoznak.
+
+2\. Az egyik Szerződő Fél országából másik Szerződő Fél területére ideiglenesen bevitt jármű szabványos tartályaiban levő üzemanyag mentesül a vámok és adók alól, nem kerül importtilalmak és -korlátozások alá, feltéve, hogy az üzemanyagtartályok megegyeznek a jármű gyártója által eredetileg felszereltekkel.
+
+3\. A már ideiglenesen belépett meghatározott gépjármű javításának céljára szolgáló pótalkatrészeket az ideiglenes behozatali vámoktól és adóktól mentesen, valamint beviteli tilalmak és korlátozások nélkül beengedik.
+
+A Szerződő Felek megkövetelhetik, hogy az ilyen alkatrészeket az ideiglenes behozatali engedélyben jegyezzék be. A kicserélt alkatrészt az illetékes vámhatóságok felügyelete alatt kell engedélyeztetni, visszaküldeni, illetőleg meg kell semmisíteni, vagy az említett hatóságok rendelkezésére kell bocsátani azon ország belső törvényei és rendelkezése alapján, ahova a fent említett alkatrészeket bevitték.
+
+4\. A közúti gépjárművek személyzetének engedélyezni kell, hogy ideiglenesen magukkal vigyék személyes használati tárgyaikat és szerelőszerszámaikat, melyeket általában a gépjárművön tartanak és amelyekre az utazás során szükség van.
+
+*10. cikk*
+
+*A nemzeti törvények alkalmazása*
+
+Minden olyan ügyben, amelyeket a jelen Megállapodás vagy más olyan nemzetközi megállapodás, amelynek mindkét ország részese, nem szabályoz, az egyik Szerződő Fél fuvarozói és gépjárművezetői kötelesek betartani a másik Szerződő Fél jogszabályait és rendelkezéseit, miközben az utóbbi területén haladnak.
+
+*11. cikk*
+
+*A rendelkezések megsértése*
+
+1\. A Szerződő Felek illetékes hatóságai ellenőrzik a jelen Megállapodás rendelkezéseinek betartását a fuvarozók részéről.
+
+2\. A gépjárművet nyilvántartó Szerződő Fél hatóságai járnak el abban az esetben, ha a fuvarozók vagy a járművek vezetői miközben a másik Szerződő Fél területén tartózkodnak megsértik a jelen Megállapodás rendelkezéseit és az adott területen érvényben lévő közlekedési és szállítási rendelkezéseket, amint és amikor ezt az utóbbi Szerződő Fél illetékes hatóságai igénylik, az alábbiak szerint:
+
+*a)* figyelmeztetés,
+
+*b)* a fuvarozás végzésére jogosító engedély felfüggesztése azon Szerződő Fél területén, ahol a jogsértés történt, vagy időlegesen vagy részlegesen vagy teljes mértékben.
+
+3\. Az előző Szerződő Fél illetékes hatóságai értesítik az utóbbi Szerződő Fél illetékes hatóságait a jelen cikk 2. bekezdésében foglaltak alapján eszközölt intézkedésekről.
+
+4\. Ezt a cikket minden olyan egyéb intézkedéstől függetlenül kell alkalmazni, amelyet azon Szerződő Fél bírósága, vagy végrehajtó hatósága törvényesen előírhat, amelynek területén a jogsértés történt.
+
+*12. cikk*
+
+*Illetékes hatóságok*
+
+A jelen Megállapodás alkalmazására kijelölt illetékes hatóságok a következők:
+
+a Magyar Köztársaság esetében a Közlekedési, Hírközlési és Vízügyi Minisztérium,
+
+az Iráni Iszlám Köztársaság esetében az Út- és Szállításügyi Minisztérium.
+
+*13. cikk*
+
+*Vegyesbizottság*
+
+1\. A Szerződő Felek illetékes hatóságai képviselőikből álló vegyesbizottságot hoznak létre, amely szabályozza a jelen Megállapodás végrehajtására és alkalmazására vonatkozó kérdéseket.
+
+2\. A vegyesbizottság bármelyik Szerződő Fél kérésére összeül.
+
+*14. cikk*
+
+*Hatálybalépés és az érvényesség időtartama*
+
+1\. A jelen Megállapodás harminc nappal azután lép hatályba, hogy a Szerződő Felek írásban, diplomáciai csatornákon keresztül értesítették egymást arról, hogy eleget tettek a jelen Megállapodás hatálybalépéséhez szükséges alkotmányos követelményeknek.
+
+2\. A jelen Megállapodás három éves időtartamra kötötték. Ezt követően is érvényben marad, ugyanakkor bármely Szerződő Félnek joga van hogy a másik Szerződő Felet bármikor írásban értesítse arról, hogy hat hónapos lejárattal a Megállapodást felmondja.
+
+Készült Budapesten, 1994. év március hó 25. napján, egy preambulummal és 14 cikkel két eredeti példányban, magyar, perzsa és angol nyelven, valamennyi szöveg azonos érvényű. Viták esetén az angol nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Az Iráni Iszlám Köztársaság\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba. A közúti személyszállítási és árufuvarozási megállapodásban foglaltakat 2003. december 19-től kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a gazdasági és közlekedési miniszter gondoskodik.

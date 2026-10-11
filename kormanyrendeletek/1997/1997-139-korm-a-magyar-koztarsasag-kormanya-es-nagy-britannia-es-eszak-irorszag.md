@@ -1,0 +1,174 @@
+---
+title: "139/1997. (VIII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a Pető Intézet Villányi út 67. szám alatti épületének kibővítéséről és felújításáról szóló Megállapodás kihirdetéséről"
+identifier: "139/1997. (VIII. 1.) Korm. rendelet"
+njt_id: "1997-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-08-01
+in_force_from: 1997-08-01
+last_amended: 1997-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/1997. (VIII. 1.) Korm. rendelet a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a Pető Intézet Villányi út 67. szám alatti épületének kibővítéséről és felújításáról szóló Megállapodás kihirdetéséről
+
+## (A Megállapodás aláírása 1997. március 25. napján megtörtént.)
+
+### 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya között a Pető Intézet Villányi út 67. szám alatti épületének kibővítéséről és felújításáról szóló Megállapodást e rendelettel kihirdeti.
+
+### 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+**,,Megállapodás**
+
+a Magyar Köztársaság Kormánya és Nagy-Britannia\
+és Észak-Írország Egyesült Királysága Kormánya között a Pető Intézet Villányi út 67. szám alatti épületének kibővítéséről és felújításáról
+
+A Magyar Köztársaság Kormánya (a továbbiakban: Magyarország Kormánya) és Nagy-Britannia és Észak-Írország Egyesült Királysága Kormánya (a továbbiakban: Egyesült Királyság Kormánya);
+
+óhajtva az együttműködés folytatását a Pető András konduktív nevelés (PKN) terén a két ország között, annak megerősítését és elősegítését az Egyesült Királyságban, s módszertanának oda irányuló további átadását és fejlesztését;
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+*a)* Magyarország Kormánya és az Egyesült Királyság Kormánya között 1991. február 12-én kelt megállapodás értelmében a Nemzetközi Pető András Közalapítvány (a továbbiakban: Közalapítvány) számlájára átutalt és fel nem használt egymillió hétszázötvezer font sterling (Ł 1 750 000) összeg az időközben felhalmozódott kamattal együtt az Alapítvány Villányi út 67. szám alatt lévő épületének a kibővítésére és felújítására fordítandó a jelen Megállapodás rendelkezéseinek megfelelően (a teljes összeg az időközben felhalmozódott kamattal együtt a továbbiakban: az Egyesült Királyság hozzájárulása).
+
+*b)* Magyarország Kormánya a Megállapodás aláírásától számított egy hónapon belül a Közalapítvány rendelkezésére bocsát hatvan millió forint (60 000 000 Ft) összeget, melyet kizárólag a Pető Intézet Villányi út 67. szám alatti épületének kibővítésére és felújítására lehet felhasználni. Ezen összeget a 16. Cikk alapján létrehozott bankszámlától külön, önálló bankszámlán kell tartani.
+
+*2. Cikk*
+
+Az Egyesült Királyság Kormányának joga van egy megbízottal rendelkezni a Közalapítvány Kuratóriumában, akinek kinevezésére Őfelségének a Magyar Köztársaságban akkreditált nagykövete jogosult, aki magát is jogosult megbízottnak kinevezni (a továbbiakban: Egyesült Királyság Megbízottja). Az Egyesült Királyság Megbízottja képviselő közreműködésével is tevékenykedhet, amennyiben annak nevét írásban közölték a Közalapítvánnyal, e meghatalmazás azonban nem vonatkozik a 16. *a)* Cikk alá eső fizetési meghatalmazásra.
+
+*3. Cikk*
+
+A Villányi út 67. szám alatti épület Közalapítvány általi kibővítése és felújítása a Közalapítvány és az Egyesült Királyság Kormányának Megbízottja közötti megállapodásnak megfelelően az 1997. március 10-én kelt építkezési ütemterv és építési terv szerint történik. Az építkezést 1998. júliusra kell befejezni, a kibővített és felújított épület 1998. szeptember 14-ével kerül teljesen működőképes állapotba, hogy konduktív nevelést, konduktorképzést, szállást és más szolgáltatásokat nyújtson a főszabályként az Egyesült Királyságban tartózkodó Egyesült Királyság lakosainak (a továbbiakban: Egyesült Királyság lakosai), az 5., 10., 11. és 12. Cikkekben az Egyesült Királyság lakosai számára megállapított férőhelyeknek és a 15. Cikkben megállapított követelményeknek megfelelően.
+
+*4. Cikk*
+
+A Pető András Konduktív Nevelőintézet (a továbbiakban: Intézet) a Közalapítvány irányítása alatt konduktív nevelést és konduktorképzést nyújt az Egyesült Királyság lakosainak, az Intézet által lefektetett normáknak megfelelően.
+
+*5. Cikk*
+
+1998\. szeptember 14-től folyamatosan mindenkor, az Intézet az Egyesült Királyság lakosainak, igény szerint és a jelen Megállapodás 8. Cikkének megfelelően a következőket biztosítja:
+
+*a)* minden tanévben tanítási naponként átlagosan tizenkét (12) helyet konduktív nevelésre, és
+
+*b)* húsz (20) helyet minden egyes angol nyelvű rövid képzési tanfolyamon. Továbbá az Intézet igény szerint és a jelen Megállapodás 9. Cikkének megfelelően 1998-ban tíz (10) helyet, 1999-ben és minden azt követő tanévben tizenhat (16) helyet biztosít az Intézet és a Keele Egyetem által közösen tartott konduktív nevelési/tanítóképzői tanfolyam harmadik évében lévő gyakornokoknak.
+
+*6. Cikk*
+
+Az Egyesült Királyság minden olyan lakosának, aki konduktív nevelésben részesül, az Intézet 1998. szeptember 14-től mindenkor a nem magyar személyek számára megállapított szokásos díjat számítja fel, az alábbi módosítások figyelembevételével:
+
+*a)* a nem magyar személyek számára megállapított szokásos díj X%-kal csökkentendő a foglalkozás 21. napjától, s további Y%-kal a foglalkozás 41. napjától bármely tanév hátralévő részében függetlenül attól, hogy a foglalkozás folyamatos volt-e;
+
+*b)* minden esetben, amikor két vagy több testvér egyidejűleg részesül konduktív nevelésben, az egyik gyermek ingyenes konduktív nevelésben részesül az egész időszakban, amely során párhuzamos konduktív nevelésben részesülnek, tanévenként legfeljebb 40 tanítási napig, függetlenül attól, hogy a foglalkozás folyamatos-e;
+
+*c)* amikor 60 napnál hosszabb időtartamra előre kifizetik a díjat – függetlenül attól, hogy a foglalkozás folyamatos-e vagy sem –, további Z%-kal csökkentendő a nem magyar személyek számára megállapított szokásos díj.
+
+Az X%, Y% és Z% mértékéről az Intézet igazgatója illetve a Közalapítvány kuratóriumának az elnöke (a továbbiakban: Elnök) és az Egyesült Királyság Kormányának Megbízottja minden év március 1-je előtt írásban állapodik meg, s a megállapodás a következő tanévben szeptember 1-jével lép érvénybe.
+
+*7. Cikk*
+
+A 22. Cikknek megfelelően az Egyesült Királyság lakosainak nyújtott, az 5. Cikk *b)* pontjában említett konduktorképzés éves tandíjaként 2001-ig az Intézet 3500 font sterlinget (Ł 3500) számít fel. Azt követően a díjról a Közalapítvány az Egyesült Királyság Megbízottjával, a Keele Egyetemmel és megfelelő, más brit intézetekkel konzultálva dönt.
+
+*8. Cikk*
+
+Az Egyesült Királyság lakosát az Intézet szakszemélyzete a konduktív nevelésnek megfelelő kritériumok szerinti értékeléstől függően fogadja konduktív nevelés céljára. Az Intézet gondoskodik az értékelés megszervezéséről az Egyesült Királyságban a Pető UK vagy más hasonló testület közreműködésével. Az értékelés az Egyesült Királyság lakosa számára az Egyesült Királyság minden részén nyilvános.
+
+*9. Cikk*
+
+Az Egyesült Királyság lakosának konduktorképzésre való felvétele az Intézet, a Keele Egyetem és megfelelő, más brit intézet által megállapított szabályozás szerint történik.
+
+*10. Cikk*
+
+Az Intézet – igény szerint – az Egyesült Királyság konduktív nevelésben részesülő lakosainak (amennyiben kérik családjukkal együtt), a Villányi út 67. szám alatti épületben lévő családi szállások 25%-át biztosítja.
+
+A szállásért a tényleges költséget kell felszámítani, mindennemű tőkebefektetési költséggel kapcsolatos elem kizárásával.
+
+*11. Cikk*
+
+Az Intézet az 5. Cikk *b)* pontjának megfelelően az Egyesült Királyság konduktorképzésben részesülő lakosai számára – igény szerint – annyi diákszállóhelyet biztosít, mint a magyar konduktorgyakornokoknak. Az elszállásolás tényleges költségtérítés alapján történik, mindennemű tőkebefektetési költségekkel kapcsolatos elem kizárásával. Esetleges további gyakornokoknak, akik az Egyesült Királyság lakosai, az Intézet ugyanolyan minőségű diákszálló elhelyezést biztosít, mint a többi magyar gyakornoknak.
+
+*12. Cikk*
+
+A jelen Megállapodás 5. Cikkének *a)* pontjában a konduktív nevelési férőhelyek tekintetében említett számadatok magukban foglalják azokat a helyeket is, amelyeket az Egyesült Királyság azon lakosai töltöttek be, akik konduktív nevelésben részesültek az Intézetben, közvetlenül az említett Cikk rendelkezéseinek érvénybe lépése előtt. Ezekre a helyekre a 6. Cikkben részletezett térítési díjtételeket kell alkalmazni, közvetlenül az előtt, hogy a fenti Cikk hatályba lép.
+
+*13. Cikk*
+
+Az Intézet továbbra is megtesz mindent a PKN megerősítése és elősegítése érdekében, és támogatja a PKN módszertannal kapcsolatos technikai információ Egyesült Királyságnak történő átadását és ottani továbbfejlesztését.
+
+*14. Cikk*
+
+Az Intézet éves kimutatást küld minden tanév végét megelőző két naptári hónapon belül az Egyesült Királyság Megbízottjának az Egyesült Királyság lakosai részére az előző tanévben nyújtott valamennyi szolgáltatás leírásával együtt, feltüntetve ebben a konduktív nevelésben részesülők számát, korát, lakóhelyét az Egyesült Királyságban, tartózkodásuk időtartamát tanítási napokban, a konduktorképzésben részesülők esetében pedig azok számát és lakóhelyét az Egyesült Királyságban, valamint a nyújtott szolgáltatások díjtételeit; mindezen információk átadása a nevek feltüntetése nélkül történik. Az Intézet továbbá minden évben az Egyesült Királyság Megbízottja rendelkezésére bocsátja éves könyvvizsgálói mérlegét, és amennyiben készül, az éves jelentést.
+
+*15. Cikk*
+
+Az Intézet térítésmentesen egy irodát biztosít a Villányi út 67. szám alatti épületében a Brit Nagykövetség konzuli kapcsolattartó tisztségviselőjének.
+
+*16. Cikk*
+
+*a)* A Közalapítvány az Egyesült Királyságnak a Közalapítvány Villányi út 67. szám alatti épületének kibővítése és felújítása céljára nyújtott hozzájárulását önálló bankszámlán tartja, külön kezelve azt a Közalapítványhoz érkező egyéb befizetésektől és adományoktól. Ezen Cikk *b)* és *c)* pontjai alapján ezen számláról történő kifizetés csak az Egyesült Királyság Kormánya Megbízottjának a jóváhagyásával történhet, s a műveletekhez a megbízott aláírása szükséges.
+
+*b)* Nem eszközölhető kifizetés mindaddig, amíg az Egyesült Királyság Megbízottja megerősítést nem kapott az Elnöktől arról, hogy a Magyar Köztársaság törvényei értelmében az építkezés megkezdéséhez szükséges valamennyi engedély beszerzése megtörtént.
+
+*c)* Csak akkor kerülhet sor kifizetésre, amikor az Egyesült Királyság Megbízottja meggyőződött arról, hogy kellő előrehaladás történt a Villányi út 67. szám alatti épület építési munkálataiban a jelen Megállapodás 3. Cikkében lefektetett építési ütemezésnek megfelelően, melynek céljából a Közalapítvány biztosítja az Egyesült Királyság Kormánya Megbízottjának és képviselőinek, hogy kellőképpen elérhessék az Elnököt, az Intézet igazgatóját, az Intézet más személyzetét vagy képviselőit, akik érintettek a kibővítésben és a felújításban, a kivitelezőt és az építkezés helyét, hogy az építkezés előrehaladásával kapcsolatos bárminemű dokumentumokat átadhassanak nekik.
+
+*d)* A kifizetések forintban történnek.
+
+*17. Cikk*
+
+A Brit Egészségügyi Szolgálat (NHS) képviselőinek, illetve a kérésükre felmerült minden ésszerű utazási, fenntartási, fordítási és más szolgáltatásokért a Magyar Köztársaságban kifizetendő költséget, amely a Villányi út 67. szám alatti épület kibővítést és felújítást érintő konzultációkból és ellenőrzésből adódik, függetlenül attól, hogy azok a jelen Megállapodás hatálybalépése előtt vagy után merültek fel, az Egyesült Királyság hozzájárulásából kell fedezni.
+
+*18. Cikk*
+
+Magyarország Kormánya azonnal visszatéríti a Közalapítvány 16. Cikk alapján létrehozott önálló bankszámlájára az Egyesült Királyság hozzájárulásából kifizetett összegek utáni ÁFA-t, ideértve az Egyesült Királyság hozzájárulásából kifizetett utolsó számla alapján visszajáró ÁFA-t is. Az így visszatérített összegeket ugyancsak a Villányi út 67. szám alatti épület kibővítésére, illetve felújítására kell felhasználni.
+
+*19. Cikk*
+
+A Közalapítvány az Egyesült Királyság Megbízottjainak hozzáférhetővé teszi minden naptári hónap utolsó napján a 16. Cikkben szereplő önálló bankszámla részletes kivonatait.
+
+*20. Cikk*
+
+*a)* Ha bármilyen okból kifolyólag – eltekintve olyanoktól, amelyek Magyarország Kormánya, a Közalapítvány, illetve az Intézet hatáskörén kívül esnek – nem sikerül:
+
+1\. a Villányi út 67. szám alatti épület kibővítését és felújítását a 3. Cikkben megállapodott rendelkezésekkel összhangban 1998. júliusig befejezni, illetve 1998. szeptember 14-ig teljesen működőképes állapotba hozni;
+
+2\. teljesíteni a jelen Megállapodás bármely más Cikkében lefektetett feltételek bármelyikét vagy összességét,
+
+az Egyesült Királyság Kormánya – figyelembe véve az Intézet által az Egyesült Királyság lakosainak nyújtott konduktív nevelés és konduktorképzés mértékét – igényt tarthat az Egyesült Királyság hozzájárulása egészének vagy egy részének a visszafizetésére, amely a fizetési felszólítás keltétől számított 7. napon esedékessé válik.
+
+*b)* Amennyiben a Közalapítvány nem tesz eleget a visszafizetésnek, Magyarország Kormányának a fizetési felszólítás keltétől számított 6 naptári hónapon belül helyre kell hoznia a mulasztást.
+
+*21. Cikk*
+
+Az Egyesült Királyság Kormányára semmiféle felelősség nem hárul a Villányi út 67. szám alatt kibővített és felújított épület működtetéséből.
+
+*22. Cikk*
+
+*a)* A jelen Megállapodás aláírásakor lép hatályba és 10 évig lesz érvényben.
+
+*b)* Magyarország Kormányának, az Egyesült Királyság Kormányának és az Elnöknek lehetőségük van arra, hogy írásban bármikor kérhessék a Megállapodás bármely rendelkezésének a módosítását. Magyarország Kormánya és az Egyesült Királyság Kormánya írásban állapodik meg a módosításról.
+
+Ezt tanúsítva az alulírottak, Kormányaik megfelelő felhatalmazásával rendelkezve, aláírták a jelen Megállapodást.
+
+Készült Budapesten, 1997. március 25-én, két példányban, magyar és angol nyelven, mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+Nagy-Britannia\
+és Észak-Írország\
+Egyesült Királysága\
+Kormánya részéről''
+
+### 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. március 25. napjától kell alkalmazni.

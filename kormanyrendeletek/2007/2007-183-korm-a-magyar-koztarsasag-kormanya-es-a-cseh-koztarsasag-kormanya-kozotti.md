@@ -1,0 +1,170 @@
+---
+title: "183/2007. (VII. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény kihirdetéséről"
+identifier: "183/2007. (VII. 13.) Korm. rendelet"
+njt_id: "2007-183-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/183"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-07-13
+in_force_from: 2007-07-14
+last_amended: 2020-02-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-183-20-22"
+retrieved: 2026-10-12
+---
+
+# 183/2007. (VII. 13.) Korm. rendelet a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya közötti, Budapesten, 2005. június 21-én aláírt Kulturális, Oktatási, Tudományos, Sport- és Ifjúsági Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány az Egyezményt e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+Az Egyezmény hiteles magyar nyelvű szövege a következő:
+
+„
+
+Egyezmény\
+a Magyar Köztársaság Kormánya\
+és a Cseh Köztársaság Kormánya közötti kulturális, oktatási, tudományos, sport- és ifjúsági együttműködésről
+
+A Magyar Köztársaság Kormánya és a Cseh Köztársaság Kormánya (a továbbiakban: a Felek)
+
+– a két ország és népei közötti baráti kapcsolatok megerősítésének és továbbfejlesztésének szándékával,
+
+– arra törekedve, hogy a két ország közötti kölcsönösen előnyös együttműködést a kulturális, az oktatási, a tudományos, az ifjúsági és a sport-kapcsolatok területén is elmélyítsék,
+
+– azzal a meggyőződéssel, hogy együttműködésükkel hozzájárulnak egymás kölcsönös megismeréséhez, megértéséhez és ezáltal a két ország közötti kapcsolatok gazdagításához és megerősítéséhez,
+
+– az Európai Biztonsági és Együttműködési Értekezletek záróokmányaiban, a párizsi „Új Európáért” Charta-ban, az Európai Kulturális Konvenció rendelkezéseiben, valamint az Európa Tanács ajánlásaiban foglalt alapelvek érvényre juttatása érdekében
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+A Felek az egyenjogúság, a kölcsönösség és a kétoldalú előnyök elvei alapján fejlesztik kulturális, oktatási, tudományos, sport- és ifjúsági együttműködésüket, s e célból támogatják az országaik kulturális, oktatási, tudományos, sport-, valamint ifjúsági intézményei és szervezetei közötti közvetlen kapcsolatokat. Az együttműködést különösen a sokoldalú programok, projektek és kezdeményezések keretében szorgalmazzák.
+
+*2. Cikk*
+
+A Felek kulturális és szellemi javaik terjesztésének és népszerűsítésének megkönnyítése érdekében biztosítják a másik Fél állampolgárai és jogi személyei szerzői és ezzel rokon jogainak védelmét a két Fél államában érvényes nemzetközi szerződésekből adódó kötelezettségek szerint.
+
+*3. Cikk*
+
+A kulturális együttműködés fejlesztése terén a Felek kiemelten támogatják:
+
+*a)* a kulturális intézményeik és szervezeteik közötti kapcsolatok elmélyítését;
+
+*b)* a szakértőik, alkotóik és művészeik közötti együttműködést, információ- és tapasztalatcserét a kultúra minden területén;
+
+*c)* a kulturális intézményeik és szervezeteik szervezésében megvalósuló rendezvények cseréjét;
+
+*d)* képviselőik részvételét a másik Fél államában szervezett nemzetközi kulturális rendezvényeken és szakmai találkozókon, illetve alkotóműhelyek munkájában;
+
+*e)* a kulturális örökség védelmével és megőrzésével kapcsolatos együttműködésük fejlesztését.
+
+*4. Cikk*
+
+Az oktatásügy és a tudományok területén a Felek kiemelten támogatják:
+
+*a)* az általános iskoláik, középiskoláik és felsőoktatási intézményeik (ideértve speciális közoktatási és szakképzési intézményeiket) közötti közvetlen együttműködést, továbbá a felnőttképzéssel kapcsolatos kezdeményezéseket;
+
+*b)* a rendszeres információcserét, valamint a pedagógiai, módszertani szakirodalmi művek és más tananyagok cseréjét;
+
+*c)* a cseh nyelv, irodalom és kultúra oktatását a Magyar Köztársaságban, illetve a magyar nyelv, irodalom és kultúra oktatását a Cseh Köztársaságban – vendégoktatók fogadása, tananyagcsere és a nyári egyetemi nyelvi kurzusokon folytatott tanulmányok révén;
+
+*d)* felsőoktatási intézményeik akkreditált „bachelor”, „master” és doktori tanulmányi programjaiban részt vevő hallgatók kölcsönös fogadását;
+
+*e)* a felsőoktatási intézményeikben dolgozó oktatók és az oktatáskutatással foglalkozó tudományos munkatársak kölcsönös fogadását.
+
+*5. Cikk*
+
+A Felek együttműködnek annak érdekében, hogy tankönyveik minél objektívebben ismertessék/mutassák be a másik ország történelmét, földrajzát és kultúráját, s ekképpen támogassák a két nép közötti kölcsönös megértés ügyét.
+
+*6. Cikk*
+
+A Felek támogatják a tudományok és a kutatás-fejlesztés területén folytatandó együttműködést.
+
+*7. Cikk*
+
+Ifjúsági és sport-együttműködésük, valamint cserekapcsolataik fejlesztése érdekében a Felek szorgalmazzák:
+
+*a)* fiataljaik és ifjúsági szervezeteik közvetlen – közös rendezvényeken és projektekben, az Európai Unió Ifjúság programjában (Youth Program), valamint a Felek államaiban rendezett konferenciákon és szemináriumokon való részvétele keretében folyó – együttműködését,
+
+*b)* a sportszervezeteik közötti együttműködést,
+
+*c)* sportolóik részvételét a másik Fél országa területén szervezett nemzetközi sportrendezvényeken, a sporttal kapcsolatos információ- és dokumentumcserét, valamint a sportszakembercserét.
+
+*8. Cikk*
+
+A Felek megkülönböztetett figyelmet fordítanak a Magyar Köztársaságban élő cseh kulturális közösség és a Cseh Köztársaságban élő magyar nemzeti kisebbség szellemi igényei – lehetőség szerint anyanyelven történő – kielégítésére, identitása, hagyományai és kulturális öröksége megőrzésére, illetőleg fejlesztésére.
+
+*9. Cikk*
+
+A Felek – államaik tagsági viszonyától függően – támogatják a nemzetközi kulturális, oktatási, tudományos szervezetek munkájában való szoros együttműködést és rendszeres tapasztalatcserét, ifjúsági és sportszervezeteik együttműködését, továbbá az Európai Unió programjai, a regionális programok, az Európa Tanács programjai, valamint az egyéb, adott területekre létesített programok keretei közötti együttműködést.
+
+*10. Cikk*
+
+A Felek támogatják a budapesti Cseh Centrum és a prágai Magyar Kulturális Központ tevékenységét, s arra törekszenek, hogy tevékenységükhöz minél kedvezőbb feltételeket teremtsenek.
+
+*11. Cikk*
+
+A Felek támogatják a két ország közötti kulturális kapcsolatok ápolását szolgáló civil szervezetek, valamint a nemzeti kisebbségek tagjait tömörítő szervezetek tevékenységét.
+
+*12. Cikk*
+
+1\. A jelen Egyezmény teljesítése érdekében a Felek illetékes szervei – megállapodás szerinti időtartamra érvényes – kulturális, oktatási, tudományos, sport- és ifjúsági együttműködési programokat vagy jegyzőkönyveket/munkaterveket írhatnak alá, amelyekben meghatározzák az adott együttműködés formáit és feltételeit.
+
+2\. A Felek illetékes szervei egyes közös rendezvényekről és lebonyolításuk formáiról diplomáciai úton állapodnak meg.
+
+*13. Cikk*
+
+A jelen Egyezmény nem zárja ki annak lehetőségét, hogy a céljainak és alapelveinek megfelelő egyéb területeken is együttműködés alakulhasson ki.
+
+*14. Cikk*
+
+A Felek kötelezik magukat a jelen Egyezmény összes rendelkezésének az államaikban hatályos jogszabályokkal és vállalt nemzetközi kötelezettségeikkel összhangban történő végrehajtására.
+
+*15. Cikk*
+
+1\. A jelen Egyezmény meghatározatlan időre szól, és az egyik szerződő Fél által írásban történt felmondása időpontját követően még hat hónapig marad hatályban. A jelen Egyezmény hatályának megszűnése nem befolyásolja a hatályosságából adódóan vállalt kötelezettségek teljesítését.
+
+2\. A jelen Egyezmény nem érinti a két Fél államában hatályos más nemzetközi szerződésekből adódó kötelezettségeket.
+
+*16. Cikk*
+
+A jelen Egyezmény hatálybalépésének napjával a Magyar Köztársaság és a Cseh Köztársaság viszonylatában hatályát veszti a Magyar Népköztársaság Kormánya és a Csehszlovák Szocialista Köztársaság Kormánya közötti kulturális és tudományos együttműködésről 1986. október 22-én Budapesten megkötött Egyezmény.
+
+*17. Cikk*
+
+A jelen Egyezmény mindkét Fél államában jóváhagyásra szorul, és a jóváhagyás megtörténtéről szóló diplomáciai jegyzékváltás napján lép hatályba, azzal a megkötéssel, hogy a Felek a hatálybalépés napjának a későbbi jegyzék átvételének időpontját tekintik.
+
+Kelt Budapesten, 2005. év június hó 21. napján, két eredeti példányban, mindkettő magyar és cseh nyelven. Mindkét nyelvű szöveg egyformán hiteles.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Cseh Köztársaság\
+Kormánya nevében”
+
+## 4. §
+
+(1) E rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a az Egyezmény 17. Cikkében meghatározott időpontban lép hatályba.
+
+(3) Az Egyezmény, illetve e rendelet 2–3. §-a hatálybalépésének napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^3]
+
+(4)[^4] E rendelet végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter, a szakképzésért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján az Egyezmény 17. cikkében meghatározott időpontban lép hatályba. A 33/2007. (XI. 9.) KüM határozat alapján a hatálybalépés időpontja 2007. augusztus 2.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján az Egyezmény 17. cikkében meghatározott időpontban lép hatályba. A 33/2007. (XI. 9.) KüM határozat alapján a hatálybalépés időpontja 2007. augusztus 2.
+[^3]: Lásd a 33/2007. (XI. 9.) KüM határozatot.
+[^4]: A 4. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 36. §-a szerint módosított szöveg. [Nem vezethető át a 238/2022. (VI. 30.) Korm. rendelet 57. §-ában foglalt módosítás, mely szerint az „az oktatásért felelős miniszter, a kultúráért felelős miniszter, valamint a sportpolitikáért felelős miniszter” szövegrész helyébe az „a köznevelési feladatok ellátása tekintetében a köznevelésért felelős miniszter, a felsőoktatási feladatok ellátása tekintetében a felsőoktatásért felelős miniszter, a kulturális feladatok ellátása tekintetében a kultúráért felelős miniszter, a sport feladatok ellátása tekintetében a sportpolitikáért felelős miniszter” szöveg lép.]

@@ -1,0 +1,696 @@
+---
+title: "30/2000. (III. 10.) Korm. rendelet a mezőgazdasági termelők kibontakozási hitelkonstrukciójáról és a gazdahitel programról"
+identifier: "30/2000. (III. 10.) Korm. rendelet"
+njt_id: "2000-30-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/30"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-03-10
+in_force_from: 2009-08-07
+last_amended: 2018-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-30-20-22"
+retrieved: 2026-10-12
+---
+
+# 30/2000. (III. 10.) Korm. rendelet a mezőgazdasági termelők kibontakozási hitelkonstrukciójáról és a gazdahitel programról
+
+A Magyar Köztársaság 2000. évi költségvetéséről szóló 1999. évi CXXV. törvény 91. §-a (1) bekezdésének *f)* pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## Kibontakozási hitelkonstrukció
+
+### 1. §
+
+Az agrártermelők eladósodottságának csökkentése, a kívánatos gazdálkodási és termelési szerkezet pénzügyi feltételeinek megteremtése érdekében e rendeletben meghatározott feltételekkel kibontakozási hitelkonstrukció kerül meghirdetésre.
+
+### 2. §
+
+A kibontakozási hitelkonstrukcióban az agrártámogatások igénybevételének általános feltételeiről szóló 273/1997. (XII. 22.) Korm. rendelet 3. §-ának (1) bekezdésében (a továbbiakban: R.) meghatározott azon igénylők (a továbbiakban: igénylők) vehetnek részt, akik/amelyek
+
+a) éves árbevételének 50%-ot meghaladó része mezőgazdasági tevékenységből származik,
+
+b) a mezőgazdasági termelők agrártámogatás igénybevételével összefüggő adatszolgáltatásáról és nyilvántartásba vételéről szóló 236/1998. (XII. 30.) Korm. rendelet előírásainak eleget tettek,
+
+c) 1999. december 31-én éven túli lejáratú forgóeszköz, illetve agrárfejlesztési célú hitelállománnyal rendelkeznek.
+
+### 3. §
+
+(1)[^1] Az igénylők a kibontakozási hitelkonstrukcióban az agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) által kiírt részletes pályázat alapján vehetnek részt. A pályázatnak tartalmaznia kell:
+
+a) kibontakozási tervet,
+
+b) az 1999. december 31-i hitelállomány összegét, megoszlását és az átalakításra javasolt hitelösszeget hitelszerződésenként (a továbbiakban: bevont hitel),
+
+c) a kibontakozási terv megvalósításához szükséges pótlólagos hitel nagyságát,
+
+d)[^2] a 2. § *a)* és *b)* pontjaiban előírt feltételek meglétét tanúsító földművelésügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) igazolását.
+
+(2) A kibontakozási tervnek tartalmaznia kell:
+
+a) a vállalkozás jelenlegi helyzetét jellemző információkat (termelési szerkezet, vagyon, tulajdonosi szerkezet, jövedelmezőség, kötelezettségek stb.),
+
+b) a termelési szerkezet változtatására vonatkozó programot,
+
+c) a megszüntetni vagy csökkenteni kívánt tevékenységek vagyoni helyzetre, illetve a pótlólagos tőkeforrásokra gyakorolt hatását,
+
+d) a termelési szerkezetváltás termékminőségre gyakorolt hatását, a termékek piaci helyzetével kapcsolatos információkat,
+
+e) a jövedelmezőség tervezett változását,
+
+f) a foglalkoztatásra gyakorolt hatást,
+
+g) a kapcsolódó likviditási tervet, a pótlólagos forrásigényt.
+
+(3)[^3]
+
+### 4. §
+
+(1)[^4] Elfogadott pályázat esetén az igénylő a hitelintézet által nyújtott hároméves futamidejű kibontakozási hitelhez differenciáltan 80%-ig terjedő mértékben állami készfizető kezességvállalást és a támogatás igénylésének időpontjában érvényes jegybanki alapkamat legfeljebb 50%-ának megfelelő kamattámogatást vehet igénybe. A kibontakozási hitelt az igénylő a kibontakozási hitelkonstrukcióba bevont hitel törlesztésére köteles fordítani.
+
+(2)[^5] A hitelintézet csak az esetben élhet az állami kezességvállalás lehetőségével, ha az igénylő kibontakozási tervének megvalósításához szükséges pótlólagos hitelforrást a program idejére biztosítja. A kezességvállalás és a kamattámogatás tényleges mértékére vonatkozó döntést a hitelintézet javaslata alapján a minisztérium hozza meg.
+
+(3) Az állami kezességvállalásért díjat fizetni nem kell.
+
+(4) A pályázatok elbírálása során a szövetkezetekről szóló 1992. évi II. törvény szerint átalakult szövetkezetek esetében kiemelt szempontként kell kezelni, hogy a külső üzletrész-tulajdonosok szövetkezettel szemben fennálló követeléseit pénzben, illetve természetben a pályázat beadásáig rendezték-e, vagy kötelezettséget vállalnak-e ezek 2000. év végéig történő rendezésére.
+
+(5)[^6] A pályázatban vállalt program teljesítése esetén az igénylő a hitelszerződésben meghatározott törlesztés ütemében évente a törlesztés éves összegének megfelelő támogatást vehet igénybe. A támogatás folyósítására először 2001-ben kerülhet sor.
+
+(6)[^7] A kibontakozási hitelhez nyújtott kamattámogatás összegét egyéb bevételként kell elszámolni, a kibontakozási hitelkonstrukció keretében visszafizetési kötelezettség nélkül kapott kibontakozási támogatás összegét tőketartalékba kell helyezni.
+
+## Gazdahitel program
+
+### 5. §[^8]
+
+A Kormány az életképes agrárvállalkozások megerősítésére, a családi és kisvállalkozások, valamint a termékek beszerzését, feldolgozását, értékesítését, szolgáltatást nyújtó szövetkezések tőkeellátásának hosszú lejáratú hitelen keresztül történő javítására, továbbá az agrárgazdasági vállalkozások reorganizációs célú kivásárlásának elősegítésére gazdahitel programot hirdet meg.
+
+### 6. §
+
+A gazdahitel programban a 2. § a) és b) pontjában[^9] előírt feltételek megléte esetén azok az igénylők vehetnek részt, akik megfelelnek az alábbi feltételeknek:
+
+a) az általuk használt szántóterület nem haladhatja meg a háromszáz hektárt, nettó éves árbevételük az ötven millió forintot, az általuk foglalkoztatottak létszáma a tíz főt,
+
+b) nem vesznek részt a kibontakozási programban,
+
+c) a pályázati felhívásban előírt feltételeknek megfelelő fiatal agrárvállalkozók és családi vállalkozások, vagy[^10]
+
+d) 1999-ben és 2000. évben alakult, de állami támogatásban korábban nem részesült zöldség-, gyümölcstermelői értékesítő szervezetek (TÉSZ) és termékek beszerzését, értékesítését, feldolgozását, szolgáltatást nyújtó szövetkezések, amennyiben legalább tizenöt taggal - a támogatás ideje alatt – folyamatosan rendelkeznek, erről évente nyilatkoznak, és[^11] vállalják, hogy működésüket legalább ötéves időtartamig fenntartják.
+
+### 7. §
+
+(1)[^12] Az igénylő az általa felvett legfeljebb tízéves lejáratú hitelre a teljes futamidőre 80%-os állami készfizető kezességvállalást és a támogatás igénylésekor érvényes jegybanki alapkamat 100%-áig terjedő kamattámogatást vehet igénybe.
+
+(2) Az állami kezességvállalásért díjat fizetni nem kell.
+
+(3)[^13] A gazdahitel program keretében felvett hitel első teljes negyedévre számított kamattámogatásának megfelelő összegű kamattámogatási előleg nyújtható – az éves kamatfizetési kötelezettség csökkenésével arányosan csökkenő mértékben – folyamatosan, a támogatás fennállásáig. A kamattámogatási előleg maradványértékével a kamattámogatás lejártakor a gazdálkodó köteles elszámolni az adóhatósággal.
+
+### 8. §
+
+(1) Az igénylők a gazdahitel programban a minisztérium által kiírt pályázat alapján vehetnek részt. A pályázatnak tartalmaznia kell:
+
+a) a vállalkozás üzleti tervét,
+
+b)[^14] a megyei kormányhivatal igazolását a 6. § *a)* és *b)* pontjaiban előírt feltételek meglétéről.
+
+(2) Az üzleti terv részeként a gazdahitel programnak kiemelten tartalmazni kell:
+
+a) működő vállalkozások esetén a fennálló kötelezettségeket, a jövedelmezőség javítása érdekében tervezett termelésszerkezeti és szervezeti változtatásokat,
+
+b) induló vállalkozás esetén a tervezett induló termelési szerkezetet,
+
+c) a vállalkozás piacait,
+
+d)[^15] az üzleti terv szerves részét képező ötéves likviditási tervet.
+
+(3)[^16]
+
+(4)[^17] A pályázatokat folyamatosan, de legkésőbb 2000. november 15-ig lehet benyújtani a finanszírozásban részt vevő hitelintézethez.[^18]
+
+(5)[^19] A kezességvállalás és a kamattámogatás tényleges mértékére vonatkozó döntést a hitelintézet javaslata alapján a minisztérium hozza meg.
+
+## Minőségi termelés segítése
+
+### 9. §[^20]
+
+(1) A minőségi termelés segítése és a talajerő-utánpótlás javítása céljából a Kormány támogatja a jó minőségű vetőmagok és műtrágyák termesztéstechológiai követelményeknek megfelelő felhasználását. E célok megvalósítása érdekében
+
+a) a vetőmagtermelők és -forgalmazók,
+
+b) a műtrágyagyártók,
+
+c) a 236/1998. (XII. 30.) Korm. rendeletben meghatározott feltételeknek megfelelő és 1,00–300,00 hektár szántóterületen gazdálkodó mezőgazdasági termelők (a továbbiakban: termelők), valamint
+
+d) a mezőgazdasági termékek beszerzését, értékesítését, feldolgozását, raktározását, illetve a mezőgazdasági termeléshez szükséges szolgáltatások nyújtását végző szövetkezetek
+
+legfeljebb tizenkét hónap lejáratra 80%-os állami készfizető kezességvállalás, valamint a hitelszerződés megkötésekor érvényes jegybanki alapkamat 100%-ának megfelelő mértékű kamattámogatás mellett hitelt vehetnek igénybe.
+
+(2)
+
+a) Az (1) bekezdés *a), b)* és *d)* pontban foglalt jogosultak számára a kedvezményes hitel igénybevételének feltétele, hogy a fémzárolt vetőmagot, illetve a foszfor és kálium hatóanyagú (PK) műtrágyát az (1) bekezdés *c)* pontjában meghatározott termelők részére legfeljebb tizenkét hónap lejáratra kamatmentes áruhitellel értékesítsék, amennyiben a termelők a kedvezményes hitelt közvetlenül nem vették igénybe.
+
+b) Az (1) bekezdés *d)* pontjában foglalt jogosultak számára a kedvezményes áruhitel igénybevételének további feltétele a vetőmag és műtrágya hazai termelőktől, gyártóktól történő beszerzése.
+
+(3) A kedvezményes áruhitel lehetősége kiterjed a 2001. évi tavaszi vetésű növények alá a 2000. év őszén alapműtrágyaként felhasználásra kerülő foszfor és kálium hatóanyagú (PK) műtrágyákra is.
+
+(4) A Kormány a kezességvállalási díj megfizetésétől eltekint.
+
+(5) A kedvezményes áruhitel, illetve az (1) bekezdés *c)* pontjában meghatározott termelők által felvett hitel összege vetőmag esetében hektáronként legfeljebb tizenötezer forint, műtrágya esetében legfeljebb tízezer forint lehet.
+
+(6) E § rendelkezéseinek hatálya kiterjed a foszfor és kálium hatóanyagú (PK) műtrágyát is forgalmazó vetőmagtermelőkre és -forgalmazókra is.
+
+## Eljárási rend, ellenőrzés
+
+### 10. §
+
+(1) Pályázatos eljárási rend esetén a pályázatot az igénylő a finanszírozó hitelintézethez nyújthatja be. A program hitelintézet által történő elfogadása esetén a pályázatot a benyújtást követően 30 napon belül kell elbírálni, és a kezességvállalásra, valamint a kamattámogatás mértékére vonatkozó javaslattal együtt a minisztériumhoz kell megküldeni.
+
+(2)[^21]
+
+(3)[^22]
+
+(4) A kibontakozási hitelkonstrukcióban való részvétel további feltétele a hitelszerződések megfelelő módosítása.
+
+### 11. §
+
+(1)[^23] A kibontakozási program és a gazdahitel program teljesítéséről az igénylő évente köteles jelentést készíteni, és azt a minisztériumnak legkésőbb a beszámolási évet követő május 31-ig megküldeni. Amennyiben a minisztérium a jelentés és saját ellenőrzése alapján a beszámolási évben a kibontakozási program teljesítését eredményesnek minősíti, akkor az igénylő részére a 4. § (5) bekezdése szerinti támogatás igénybevételére a minisztérium engedélyt ad ki. Az igénylő az engedély alapján a támogatást a lakóhely/telephely szerinti illetékes adóhatóságtól igényelheti.
+
+(2)[^24] Az igénylő a kibontakozási hitelkonstrukció és a gazdahitel program alapján igénybe vehető kamattámogatást – a 7. § (3) bekezdésében foglalt kamattámogatási előleg kivételével – folyamatosan, a kamatterhelésnek megfelelő gyakorisággal, a kamatbefizetésről szóló hitelintézeti igazolás alapján az illetékes adóhatóságtól igényelheti.
+
+(3) A kibontakozási program és a gazdahitel program végrehajtását, a vállalt kötelezettségek teljesítését a minisztérium az érintett hitelintézetekkel együttműködve köteles folyamatosan ellenőrizni. Az ellenőrzésre a minisztérium szakértőket bízhat meg, illetve a program ideje alatt állandó munkaszervezetet hozhat létre és működtethet.
+
+(4) Ha az igénylő a vállalt kötelezettséget nem teljesíti, vagy a hitelintézet a kihelyezett hitelt a hitelszerződés futamidejének lejárta előtt az igénylő hibájából felmondja, az addig igénybe vett támogatást a jegybanki alapkamat kétszeresével növelten kell visszafizetni.
+
+## A kibontakozási támogatás igénybevételi rendje[^25]
+
+### 11/A. §[^26]
+
+(1) A 4. § (5) bekezdésében meghatározott kibontakozási támogatás nyújtható azon igénylő részére, aki/amely
+
+a) a 3. §-a alapján meghirdetett kibontakozási hitelkonstrukciós pályázat keretében 2000. szeptember 30-ig a finanszírozó hitelintézethez pályázatot nyújtott be;
+
+b) a pályázatot a finanszírozó hitelintézet ígérvényével és támogatásával a minisztérium elfogadta, erről a pályázó részére igazolást adott ki;
+
+c) a kibontakozási hitelszerződést a hitelígérvényt kibocsátó finanszírozó hitelintézettel megkötötte;
+
+d) a minisztérium által meghatározott, illetve a pályázatban szereplő célkitűzéseket időarányosan megvalósítja, arról évente (a 2001., 2002., 2003. években) május 31-ig jelentést (önértékelést) készít – 2001-ben június 30-ig –, azt a kibontakozási hitelt nyújtó hitelintézetnek, valamint a minisztériumnak egyidejűleg megküldi, és az elfogadásra kerül.
+
+(2)[^27] A jogosultság további feltétele, hogy az igénylő
+
+a)[^28] az adózás rendjéről szóló törvény szerint – a pályázata benyújtásának időpontjában – köztartozásmentes adózónak minősül, és
+
+aa) ezt 30 napnál nem régebben kiállított közokirattal igazolja, vagy
+
+ab) szerepel a köztartozásmentes adózói adatbázisban;
+
+b) ne rendelkezzen az R. 4. § (5) bekezdés *a)–p)* pontja szerint lejárt határidejű befizetési kötelezettségek hátralékával;
+
+c) ne álljon egyéni vállalkozók és őstermelők esetében végrehajtás alatt;
+
+d) ha társasági formában működik, vállalkozása törzstőkéjének mértéke feleljen meg a jogszabályi előírásoknak.
+
+(3)[^29] A program évei alatt történő átalakulás esetében az igénylőnek a támogatásra való jogosultság fenntartása érdekében az átalakulás tényét be kell jelentenie a minisztériumnak. A jogutódnak az átalakulást követő 30 napon belül nyilatkoznia kell a program továbbviteléről és be kell mutatnia a kibontakozási hitelt nyújtó hitelintézet igazolását a program további finanszírozásáról.
+
+(4)[^30] A kibontakozási hitelt a hitelintézetek – a program éveiben – szerződés alapján más hitelintézetekre engedményezhetik. Az erről szóló szerződés másolatát az ügylet lebonyolítását követő 30 napon belül a minisztériumnak meg kell küldeni.
+
+(5)[^31] Ha a (4) bekezdés szerinti engedményezés nem jön létre és a kibontakozási hitelszerződést nyújtó hitelintézet helyébe – a kibontakozási programban részt vevő vállalkozás kezdeményezésére – a kibontakozási hitelszerződés futamideje alatt más hitelintézet lép, a minisztérium e rendelet 4. § (1) és (5) bekezdései szerinti támogatásra való jogfolytonosságot – a támogatási feltételek változatlanul hagyása mellett – a vállalkozás írásbeli kérelmére az eredeti támogatási igazolás módosításával fenntartja.
+
+(6)[^32] A 2045/2001. (III. 14.) Korm. határozat 5. pontjában felsorolt mezőgazdasági részvénytársaságok által benyújtott és elfogadott pályázatokat a 2000. évről szóló jelentéssel egyidejűleg a minisztérium – a kibontakozási hitelt nyújtó pénzintézet, az ÁPV Rt. és a Magyar Fejlesztési Bank Rt. bevonásával – felülvizsgálja és szükség szerint módosítja.
+
+### 11/B. §[^33]
+
+(1)[^34] Az igénylő a program egyes éveire a pályázatában vállalt, illetőleg részére a támogatási igazolásban előírt kötelezettségek teljesítéséről a naptári évre vonatkozóan készített jelentését minden év május 31-ig köteles megküldeni a kibontakozási hitelt finanszírozó hitelintézetnek és a minisztériumnak. 2001-ben a 2000. évről szóló jelentés elkészítésének és benyújtásának határideje június 30. A határidő túllépése vagy a beszámoló elkészítésének elmulasztása a programból történő kizárást vonja maga után. Ebben az esetben megszűnik az igénylőnek az állami kezességvállalásra, kamat- és kibontakozási támogatásra való jogosultsága. A megszűnés időpontjáig felvett kamattámogatást és kibontakozási támogatást az igénylő a jegybanki alapkamat kétszeresével számolt kamattal növelten köteles visszafizetni.
+
+(2)[^35] A program keretében az igénylőnek a jelentést első alkalommal 2001. június 30-ig kell elkészítenie a 2. számú melléklet szerinti tartalommal. A beszámolókat az (1) bekezdésben meghatározott szervek részére postán, ajánlott küldeményként egy-egy példányban, vagy elektronikus úton kell megküldeni. A benyújtás napjának igazolásául a felvevő posta által keletbélyegzővel ellátott feladóvevény szolgál. Azok az igénylők, akik/amelyek önhibájukon kívül a kibontakozási hitelszerződést 2001. június 30-ig nem kötik meg, jelentésüket a szerződés megkötését követő harmincadik napig kötelesek elkészíteni és az (1) bekezdésben meghatározott szervek részére megküldeni.
+
+(3) A jelentéshez mind a hitelintézet, mind a minisztérium egy-egy alkalommal kiegészítést kérhet. A kiegészítésre vonatkozó igényt 15 napon belül kell teljesíteni.
+
+### 11/C. §[^36]
+
+(1)[^37] Az igénylő által benyújtott jelentést a kibontakozási hitelt nyújtó hitelintézet a beérkezéstől számított harminc napon belül felülvizsgálja és az igénylő gazdálkodásának értékelésére, valamint az önértékelés elfogadására vagy elutasítására vonatkozó javaslatát a minisztériumnak megküldi. A hitelintézeti értékelésben tájékoztatást kell adni az igénylőnek a hitelszerződést kötött hitelintézetnél fennálló összes hitelre vonatkozóan a tőketörlesztési és kamatfizetési kötelezettségei teljesítéséről, illetőleg ezzel összefüggésben az igénylő fizetőképességének helyzetéről.
+
+(2) A minisztérium a jelentéseket – a hitelintézeti javaslat és az elvégzett ellenőrzések figyelembevételével – folyamatosan bírálja el, és azok elfogadásáról vagy elutasításáról az igénylőt, valamint a finanszírozó hitelintézetet a tőketörlesztési határidőt figyelembe véve, de legkésőbb október 31-ig értesíti. A döntés ellen fellebbezésnek helye nincs.
+
+(3) Amennyiben a kibontakozási hitelt nyújtó hitelintézet a jelentés elbírálásához pótlólagosan, kiegészítő adatokat kér az igénylőtől, a határidő számítása a kiegészítő adatok beérkezésétől kezdődik. Ha a támogatással kapcsolatos döntés, illetve az odaítélt esedékes támogatásnak az állami adóhatóság által történő kifizetése a hitelszerződés szerinti tőketörlesztési határidő után történik, a hitelintézet a kiegyenlítésig – a támogatásra való jogosultság sérelme nélkül – prolongálhatja a fizetési határidőt.
+
+### 11/D. §[^38]
+
+(1) Elfogadott jelentés alapján a kifizethető kibontakozási támogatás összege – a benyújtott kibontakozási hitelkonstrukciós pályázatban vállalt és jóváhagyott program, valamint a minisztérium által kiadott igazolásban előírt kötelezettségek időarányos teljesítése esetén – az 1. számú melléklet szerinti támogatási okiratban meghatározott kibontakozási hitelösszeg éves arányos előirányzatának felel meg.
+
+(2) A kibontakozási hitel a pályázati kiírás szerint a hitelszerződés megkötésétől számított háromszor háromszázhatvanöt napig állhat fenn. A jelentés – amelyet első ízben a 2000. évi gazdálkodásra vonatkozóan kell elkészíteni – minden esetben naptári évre vonatkozik. A beszámolót tájékoztató jelleggel ki kell egészíteni a beszámolási évet követő év – beszámoló elkészítéséig terjedő – eseményeinek, tevékenységének, folyamatainak bemutatásával.
+
+(3) Teljesítés esetén a kibontakozási támogatás igénybevételére jogosító igazolás kiadására, illetőleg a támogatás évente egy összegben történő kifizetésére a 2001., 2002. és 2003. években kerül sor, függetlenül attól, hogy a 2001. évben megkötött hitelszerződések esetében a hitelek lejárata – és így az utolsó tőketörlesztés is – a 2004. évben esedékes. A támogatásból történő tőketörlesztés legkésőbbi időpontja 2003. december 31. Az emiatt esetlegesen bekövetkező, a hitellejáratot megelőző teljesítés esetén az igénybe vett támogatások nem minősülnek jogosulatlan igénybevételnek és az igénylő mentesül az ezzel járó jogszabályi szankciók alól. Ebben az esetben a kibontakozási hitelhez kapcsolódó kamattámogatás csak a kibontakozási hitel utolsó tőketörlesztési időpontjáig vehető igénybe.
+
+(4) A támogatásra jogosult a kibontakozási támogatást – annak folyósítását követő 15 napon belül – a kibontakozási hitel évente esedékes egyösszegű törlesztésére köteles felhasználni. Ennek elmulasztása az igénylő programból való kizárását vonja maga után.
+
+(5) Az igénylő a vissza nem térítendő támogatást a minisztérium által kiadott 1. számú melléklet szerinti támogatási okirattal igényelheti az állami adóhatóság illetékes szervétől, a 10032000–01905609 számú Agrártermelési támogatások folyósítási számláról.
+
+### 11/E. §[^39]
+
+(1) A kibontakozási hitelszerződést kötött hitelintézet a program évei alatt minden év második és harmadik negyedévének végén ügyfelenkénti tájékoztatót küld a minisztériumnak, a tőketörlesztés teljesítéséről.
+
+(2) Az az igénylő, akinek/amelynek beszámolóját a minisztérium a program valamelyik évében nem fogadja el, a programban való részvételre vonatkozó további jogosultságát csak abban az esetben biztosíthatja, ha az esedékes éves tőketörlesztési kötelezettségének a hitelszerződés szerinti eredeti időpontig eleget tesz, és az önértékelés elkészítését megelőző (beszámolási évben) évben felvett kamattámogatást külön felszólítás nélkül, a tőketörlesztési kötelezettség határidejéig visszafizeti. A teljesítésekről szóló igazolásokat (pénzintézeti igazolás a tőketörlesztés teljesítéséről, az adóhatóság igazolása a kamattámogatás visszafizetéséről) a minisztérium részére meg kell küldeni. Nem teljesítés esetén az igénylő jogosulatlanná válik a kibontakozási támogatásra és a beszámolási évben felvett kamattámogatásra is, amelyet köteles visszafizetni. A kibontakozási támogatásra való jogosultság megszűnéséről a minisztérium értesíti az állami adóhatóságot és kezdeményezi a támogatás visszavonását.
+
+(3)[^40] Amennyiben a minisztérium a jelentést nem fogadja el és a pályázó esedékes tőketörlesztési kötelezettségét az eredeti szerződés szerinti éves határidőig nem teljesíti, az igénylő a programból kizárásra kerül. Az igénylő kibontakozási hitelszerződését a hitelintézet felmondhatja és az ezt követő 61. napon – a mindenkor érvényes eljárási rend szerint – kezdeményezheti az állami kezesség beváltását a területileg illetékes adóhatóságnál a 10032000-01907010 számú NAV Agrárgazdasági kezesség beváltás folyósítási számla ellenében.
+
+## Gazdahitel programok ellenőrzése[^41]
+
+### 11/F. §[^42]
+
+A 7. §-a alapján
+
+a) a mezőgazdasági termelők gazdahitel programjában;
+
+b) a fiatal agrárvállalkozók részére meghirdetett támogatási programban,
+
+c) az új típusú mezőgazdasági szervezetek támogatási programjában
+
+részt vevő igénylőnek, akinek/amelynek 2000. évben beadott pályázatát a minisztérium elfogadta, az általa felvett – legfeljebb tízéves lejáratú – hitel teljes futamidejére nyolcvan százalékos állami készfizető kezességvállalás és a támogatás igénylésekor érvényes jegybanki alapkamat száz százalékig terjedő kamattámogatás nyújtható.
+
+### 11/G. §[^43]
+
+(1) A 7. §-a alapján meghirdetett
+
+a) a mezőgazdasági termelők gazdahitel programjában részt vevő igénylő a számára a minisztérium által kiadott Támogatási Okirat III/1., 2., 3., 4., 5., 6. pontjában meghatározott,
+
+b) a fiatal agrárvállalkozók részére meghirdetett támogatási programban részt vevő igénylő a számára a minisztérium által kiadott Támogatási Szerződés 9. *a), b), c), d), e), f), g)* és *h)* pontjában meghatározott,
+
+c) az új típusú mezőgazdasági szervezetek támogatási programjában részt vevő igénylők a Pályázati felhívás 13. pontjában, valamint a minisztérium által kiadott Igazolás 4. pontjában meghatározott
+
+kötelezettségeket és feltételeket a kiadott dokumentumokban szereplő módon és határidőig tartoznak teljesíteni.
+
+(2)[^44] A kamattámogatást a hitel rendeltetéstől eltérő felhasználása esetén jogosulatlanul igénybe vett állami támogatásnak kell tekinteni, és teljes összegét vagy arányos részét minden esetben késedelmi kamattal növelve kell visszafizetni. A támogatás rendeltetéstől eltérő felhasználásának minősül, különösen ha a pályázó a pályázati felhívásban rögzített feltételektől és a pályázatban vállalt kötelezettségektől eltér, kivéve, ha az eltérést a minisztérium előzetesen engedélyezte, vagy jóváhagyta. A késedelmi kamat mértéke a visszafizetés elrendelésekor érvényes jegybanki alapkamat kétszerese. A támogatásra való jogosultság visszavonását a minisztérium kezdeményezi az állami adóhatóságnál.
+
+### 11/H. §[^45]
+
+(1) A 7. §-ban szereplő beszámolási kötelezettség részeként a pályázó a hitel felhasználásáról a fejlesztés megvalósulásáról szóló elszámolás benyújtását követő évig minden év május 31-ig köteles elkészíteni jelentését és azt postán ajánlott küldeményként
+
+a) a gazdahitel program, valamint
+
+b)[^46] a fiatal agrárvállalkozók részére meghirdetett támogatási program esetén a hitelt nyújtó hitelintézethez és a minisztériumnak;
+
+c)[^47] az új típusú mezőgazdasági szövetkezetek támogatási programja esetén a hitelt nyújtó hitelintézethez és a megyei kormányhivatalhoz megküldeni.
+
+(2)[^48]
+
+(3)[^49] A hitelt nyújtó hitelintézet, illetve a megyei kormányhivatal a beszámolót véleményével ellátva 30 napon belül megküldi a minisztériumnak. A jelentéshez mind a hitelintézet, mind a minisztérium egy-egy alkalommal kiegészítést kérhet. A kiegészítésre vonatkozó igényt tizenöt napon belül kell teljesíteni.
+
+(4) Amennyiben a gazdahitel keretében felhasználásra kerülő hitel más minisztérium által meghirdetett támogatási pályázathoz kapcsolódik, az elszámolás időpontja ezen támogatási okiratban szereplő határidőhöz igazodik.
+
+(5) Az éves jelentésre vonatkozó előírásokat
+
+a) a mezőgazdasági termelők gazdahitel programjára vonatkozóan a 3. számú melléklet,
+
+b) a fiatal agrárvállalkozók részére meghirdetett támogatási programban a 4. számú melléklet;,
+
+c) az új típusú mezőgazdasági szervezetek támogatási programjára vonatkozóan az 5. számú melléklet
+
+tartalmazza.
+
+(6)[^50] A minisztérium az éves jelentések, valamint a helyszíni ellenőrzések alapján javaslatot tehet a minisztérium részére a pályázó kedvezményének visszavonására, illetve a felvett támogatás 11/G. § (2) bekezdés szerinti visszafizetésére.
+
+### 12. §[^51]
+
+E rendeletben nem szabályozott kérdésekben az adózás rendjéről szóló 2017. évi CL. törvény és az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet rendelkezéseit kell alkalmazni.
+
+### 13. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba.
+
+(2)[^52]
+
+(3)[^53] A 4. és 7. §-okban meghatározott kamattámogatás – a 7. § (3) bekezdésében foglalt kamattámogatási előleg kivételével – negyedévente igényelhető az illetékes adóhatóságtól a 10032000–01905616 számú NAV Agrárfinanszírozás támogatása lebonyolítási számláról.
+
+## Átmeneti rendelkezések[^54]
+
+### 14. §[^55]
+
+E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 11/B. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+## 1. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^56]
+
+FÖLDMŰVELÉSÜGYI
+
+MINISZTÉRIUM
+
+Iktatószám: .............
+
+**Támogatási Okirat a 30/2000. (III. 10.) Korm. rendelet alapján a kibontakozási hitelkonstrukció keretében ..... évben igénybe vehető kibontakozási támogatás igénybevételéhez**
+
+Név: ..................................
+
+Cím/telephely: ........................
+
+Regisztrációs szám: ...................
+
+A konstrukció(k)ban történő részvételre jogosító igazolás száma: ...............
+
+Adóazonosító szám: ....................
+
+Értesítem, hogy a mezőgazdasági termelők kibontakozási hitelkonstrukciója keretében ...... év ...... hó ....-én beérkezett beszámolóját a .................. hitelintézet értékelése alapján elfogadtam. Ennek alapján ..... évben kibontakozási támogatást vehet igénybe az alábbiak szerint:
+
+1\. A kibontakozási hitelkonstrukcióba bevont hitel összege az FVM igazolása szerint:
+
+2\. Az igénylő részére a kibontakozási hitelszerződés szerint folyósított kibontakozási hitel összege:
+
+3\. A kibontakozási hitel éves, aktuális törlesztendő összege:
+
+4\. A kibontakozási hitelt folyósító hitelintézet:
+
+A fentiek alapján ...... évben .......... Ft összegű kibontakozási támogatás igénybevételére jogosult.
+
+A támogatás az illetékes adóhatóságtól igényelhető, és azt az .......... NAV .............. folyósítási számláról kell teljesíteni.
+
+Felhívom a figyelmét, hogy a kibontakozási támogatás folyósítását követő 15 napon belül eleget kell tennie a 3. pont szerinti hiteltörlesztési kötelezettségének. Ennek elmulasztása esetén a hitelintézet a kibontakozási hitelszerződést felmondhatja, melynek következtében a vizsgált évben folyósított támogatások jogtalan felhasználásnak minősülnek, azok visszavonásra kerülnek, a minisztérium a pályázót a kibontakozási hitelkonstrukciós programból kizárja, a beváltott kezesség állammal szembeni kötelezettséggé válik.
+
+Budapest, ..... év ..... hó ..... nap.
+
+....................
+
+Vidékfejlesztési Minisztérium
+
+## 2. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^57]
+
+**Segédlet a kibontakozási hitelkonstrukcióban részt vevő mezőgazdasági termelők éves jelentéséhez**
+
+1.[^58] *A vállalkozás azonosító adatai:*
+
+– megnevezés/név;
+
+– lakcím/székhely/telephely/megye;
+
+– postai cím/telefonszám;
+
+– nyilvántartási (regisztrációs) szám a támogatás igénylésének évében;
+
+– adószám (adóazonosító jel);
+
+– pénzforgalmi jelzőszám;
+
+– támogatási igazolás száma;
+
+– a folyószámlát vezető hitelintézet;
+
+– a kibontakozási hitelkonstrukciót (kibontakozási hitel, pótlólagos hitel) finanszírozó hitelintézet;
+
+– gazdálkodási forma (jogi személyiségű gazdasági társaság, jogi személyiséggel nem rendelkező szervezet, szövetkezet, főfoglalkozású egyéni vállalkozó, nem főfoglalkozású egyéni vállalkozó, főfoglalkozású őstermelő, nem főfoglalkozású őstermelő);
+
+– a vállalkozás – e rendelet hatálybalépéséig megvalósuló – átalakulása esetén (amennyiben az FVM által kiadott igazolás az átalakulás előtti cég névre került kiállításra, és erről adatszolgáltatás még nem történt) mellékelni kell
+
+= a jogutód vállalkozás cégbejegyzéséről szóló igazolást,
+
+= a megyei kormányhivatal igazolását az átalakult cég regisztrációjáról,
+
+= a hitelintézet igazolását az átalakulás elfogadásáról, illetve a hitelállomány továbbviteléről,
+
+= a jogutód cég nyilatkozatát a kibontakozási program vállalásáról.
+
+2\. *A kibontakozási program éves ütemének teljesítéséről készített jelentés tartalmi követelményei:*
+
+a) a pályázó részére az FVM által kiadott ,,igazolás'', a kibontakozási hitelszerződés, a pótlólagos hitelszerződés másolatainak bemutatása (ez utóbbi csak pótlólagos hitel igénybevétele esetén); e pontot csak az első önértékelés során, 2001-ben kell teljesíteni;
+
+b)[^59] a megyei kormányhivatal igazolása a pályázónak a jelentés készítésének évében történt regisztrációjáról, az éves árbevétel megoszlásáról, amennyiben a pályázót a beszámolás évében elemi kár érte, az erre vonatkozó bejelentés, illetve a megyei kormányhivatal által kiállított igazolás, a kapcsolódó támogatást tartalmazó igazolás;
+
+c) a beszámolási évről szóló éves mérlegbeszámoló, pénztárkönyv kimutatás, illetve a társasági adó, SZJA bevallás vonatkozó igazolólapjai;
+
+d)[^60] nyilatkozat az egyéb befizetési kötelezettségekről;
+
+e) a társasági formában működő vállalkozások esetében nyilatkozat arról, hogy a társaság törzstőkéjének mértéke a jogszabályi előírásoknak megfelel;
+
+f) a fennálló hiteleinek állománya a hitelt folyósító hitelintézetenkénti felsorolásban, a hitelekhez kapcsolódó kedvezmények, illetve támogatások jogcímei, mértékei, a beszámolás évében igénybe vett támogatások összegei;
+
+g) a kibontakozási program éves üteme szerinti feladatok teljesítésének és az elért eredményeknek az ismertetése,
+
+ennek keretében
+
+– a vállalkozás tevékenységének alakulása, változása, szerkezetmódosítása, termelési és termékfejlesztési tevékenysége,
+
+– a megvalósított beruházások, ezek forrásai, a tartós forgóeszköz növekmény,
+
+– a vállalkozás vagyoni, jövedelmezőségi és pénzügyi helyzetének, a kötelezettség állományának változása (nettó árbevétel, költségek, tőke, eredmény, tőke, eszközérték, az éven belüli és éven túli kötelezettségek). Ezen információkat 1999. évtől a beszámolás évéig terjedően a tényleges, illetve a vállalásban szereplő adatok egybevetésével, összehasonlításával kell bemutatni,
+
+– egyéb tájékoztató információk (pl. a programban szereplő beruházások, fejlesztések eltérő megvalósítása, ezek indoklása, amennyiben a kibontakozási hitel 6 hónapnál rövidebb ideig állt az igénylő rendelkezésére, a tervezett beruházások, fejlesztések megvalósítása érdekében a beszámolás időszakában tett intézkedések stb.);
+
+h) az igénylő értékelése a program várható teljesítéséről, gazdálkodási helyzetének várható alakulásáról a program következő éveiben;
+
+i)[^61] ha a pályázó nem szerepel a köztartozásmentes adózói adatbázisban, a *d)* pont szerinti nyilatkozathoz 30 napnál nem régebben kiállított közokirati igazolást kell mellékelni arról, hogy a pályázó – a pályázata benyújtásának időpontjában – az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül.
+
+3\. *A bemutatott jelentés alapján kérem .......... ezer forint kibontakozási támogatás megítélését.*
+
+Dátum: ..................
+
+................
+
+cégszerű aláírás
+
+## 3. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^62]
+
+**Beszámoló jelentés a mezőgazdasági termelők gazdahitel program keretében nyújtott támogatásból eredő kötelezettségeinek teljesítéséről**
+
+1\. *Azonosító adatok*
+
+A támogatásban részesült neve és címe:
+
+A támogatási okirat száma:
+
+A hitelszerződés megkötésének időpontja (év, hó, nap):
+
+Regisztrációs szám a beszámoló készítés évében:
+
+A vállalkozás adószáma (adóazonosító jel):
+
+Társaságok esetén a cégjegyzék száma:
+
+2\. *A támogatások és kötelezettségek részletezése*
+
+A beszámolási időszakban folyósított hitel összege (E Ft):
+
+Az összesen felvett hitel összege (E Ft):
+
+A hitelfelvétel időpontja(i) (év, hó, nap):
+
+A hitel futamideje (év):
+
+A beszámolási időszakban felvett kamattámogatás összege (E Ft):
+
+A tervezett fejlesztés ÁFA nélküli összege (E Ft):
+
+A fejlesztés tervezett befejezési határideje (év, hó):
+
+(A beszámolóhoz a 2001. évi beszámoló alkalmával mellékelni kell a hitelszerződés másolatát.)
+
+3\. *A pályázat alapját képező üzleti terv időarányos teljesítésének értékelése*
+
+A fejlesztések, vásárlások rövid ismertetése, azok megvalósításának állapota, költségei (számlamásolatok becsatolásával), készültségi foka %:
+
+Éves összes nettó árbevétel (E Ft):
+
+Éves mezőgazdasági árutermelési tevékenységből származó bevétel (E Ft):
+
+Adózott jövedelem (E Ft):
+
+4\. *Egyéb tájékoztató információk:*
+
+.......................
+
+.......................
+
+.......................
+
+Dátum: ....................
+
+....................
+
+cégszerű aláírás
+
+## 4. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^63]
+
+**Beszámoló jelentés a fiatal agrárvállalkozók részére a gazdahitel program keretében nyújtott támogatásból eredő kötelezettségek teljesítéséről**
+
+1\. *Azonosító adatok*
+
+A támogatásban részesült neve és címe:
+
+A támogatási szerződés száma:
+
+A támogatási szerződés megkötésének időpontja (év, hó, nap):
+
+Regisztrációs szám:
+
+Vállalkozói adószáma (adóazonosító jel):
+
+2\. *A támogatások és kötelezettségek részletezése*
+
+A hitel összege (E Ft):
+
+A hitelfelvétel időpontja (év, hó, nap):
+
+A hitel futamideje (év):
+
+A felvett vissza nem térítendő támogatás összege (E Ft):
+
+A felvett kamattámogatás összege (E Ft):
+
+A tervezett fejlesztés ÁFA nélküli összege (E Ft):
+
+A fejlesztés tervezett befejezési határideje (év, hó):
+
+(A beszámolóhoz a 2001. évi beszámoló alkalmával mellékelni kell a hitelszerződés másolatát.)
+
+3\. *A pályázat alapját képező üzleti terv időarányos teljesítésének értékelése*
+
+A fejlesztés készültségi foka %:
+
+(A megvalósított fejlesztés összegének és a tervezett fejlesztés összegének aránya.)
+
+Éves összes nettó bevétel (E Ft):
+
+Éves mezőgazdasági árutermelési, tevékenységből származó bevétel (E Ft):
+
+Adózott jövedelem (E Ft):
+
+4\. *A fejlesztés megvalósításának helyzetéről rövid szöveges beszámoló:*
+
+.......................
+
+.......................
+
+.......................
+
+Dátum: ....................
+
+az igénylő aláírása
+
+## 5. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^64]
+
+**Beszámoló jelentés az új típusú szövetkezetek, termelői értékesítő szervezetek (TÉSZ) részére a gazdahitel program keretében nyújtott támogatásból eredő kötelezettségek teljesítéséről**
+
+1\. *Azonosító adatok*
+
+A támogatásban részesült szervezet neve és címe:
+
+A támogatási igazolás száma és dátuma:
+
+A támogatásban részesült adószáma:
+
+Cégjegyzék száma:
+
+2\. *A támogatások és kötelezettségek részletezése*
+
+Az igazolásban szereplő hitel összege (E Ft):
+
+A hitelintézeti szerződésben szereplő hitel összege (E Ft):
+
+A hitelfelvétel időpontja (év, hó, nap):
+
+A hitel futamideje (év):
+
+A beszámolási időszakban folyósított forgóeszköz hitel összege (E Ft):
+
+A beszámolási időszakban folyósított beruházási hitel összege (E Ft):
+
+A felvett kamattámogatás összege (E Ft):
+
+3\. *A pályázat alapját képező üzleti terv időarányos teljesítésének értékelése*
+
+A beruházás készültségi foka % (a beszámolási időszak végén):
+
+Éves összes nettó árbevétel (E Ft):
+
+Az éves összes nettó árbevételen belül a tagoktól származó termékek utáni nettó árbevétel (E Ft):
+
+A taglétszám (fő):
+
+A taglétszám változása a beszámolás évében:
+
+4\. *Szöveges értékelés a szervezet működéséről és a hitelösszeg felhasználásáról:*
+
+.......................
+
+.......................
+
+.......................
+
+5\. *Nyilatkozat*
+
+Alulírott ............. szövetkezet (TÉSZ) elnöke nyilatkozom, hogy az általam vezetett szervezet a beszámolási időszakban a nyílt tagság elvét megtartotta, nonprofit jelleggel működött, és a tagság érdekeinek kifejeződéseként éves nettó árbevételének ......... %-a a tagság tevékenységével összefüggésben keletkezett.
+
+Dátum: ...................
+
+...................
+
+az igénylő aláírása
+
+A beszámolóhoz mellékelni kell:
+
+– a hitelintézeti szerződés másolatát (csak 2001-ben),
+
+– az a megyei kormányhivatal igazolását a szövetkezeti tagok regisztrációjáról a beszámolási évben,
+
+– a közgyűlés által elfogadott éves beszámoló másolatát.
+
+---
+
+[^1]: A 3. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 200. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 68. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
+[^4]: A lebonyolítási számla tekintetében lásd a 6/2004. (I. 22.) Korm. rendelet 13. §-ának (6) bekezdését.
+[^5]: A 4. § (2) bekezdése a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja szerint módosított szöveg.
+[^6]: A lebonyolítási számla tekintetében lásd a 6/2004. (I. 22.) Korm. rendelet 13. §-ának (6) bekezdését.
+[^7]: A 4. § (6) bekezdését a 131/2000. (VII. 14.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^8]: Az 5. § a 131/2000. (VII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A Magyar Közlöny 2000. évi 37. számában közzétett helyesbítésnek megfelelő szöveg.
+[^10]: A Magyar Közlöny 2000. évi 37. számában közzétett helyesbítésnek megfelelő szöveg.
+[^11]: A Magyar Közlöny 2000. évi 37. számában közzétett helyesbítésnek megfelelő szöveg.
+[^12]: A lebonyolítási számla tekintetében lásd a 6/2004. (I. 22.) Korm. rendelet 13. §-ának (6) bekezdését.
+[^13]: A 7. § (3) bekezdését a 268/2000. (XII. 26.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^14]: A 8. § (1) bekezdés b) pontja a 351/2010. (XII. 30.) Korm. rendelet 68. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (2) bekezdésének d) pontja a 32/2006. (II. 15.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 8. § (3) bekezdését a 32/2006. (II. 15.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^17]: A 8. § (4) bekezdése a 183/2000. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 8. § (4) bekezdésének rendelkezését a 183/2000. (XI. 8.) Korm. rendelet 2. §-a értelmében 2000. szeptember 30-tól kell alkalmazni.
+[^19]: A 8. § (5) bekezdése a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja szerint módosított szöveg.
+[^20]: A 9. § a 268/2000. (XII. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: A 10. § (2) bekezdését a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja hatályon kívül helyezte.
+[^22]: A 10. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
+[^23]: A 11. § (1) bekezdése a 268/2000. (XII. 26.) Korm. rendelet 5. §-ának (1) bekezdése, a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés a)–b) pontja szerint módosított szöveg.
+[^24]: A 11. § (2) bekezdése a 268/2000. (XII. 26.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
+[^25]: Az alcímet a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^26]: A 11/A. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^27]: A 11/A. § (2) bekezdése a 163/2009. (VIII. 6.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^28]: A 11/A. § (2) bekezdés a) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^29]: A 11/A. § (3) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 11/A. § (4) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^31]: A 11/A. § új (5) bekezdését a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése iktatta a szövegbe, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva.
+[^32]: A 11/A. § eredeti (5) bekezdésének számozását a 82/2002. (IV. 15.) Korm. rendelet 1. § (1) bekezdése (6) bekezdésre változtatta.
+[^33]: A 11/B. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^34]: A 11/B. § (1) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b)–c) pontja szerint módosított szöveg.
+[^35]: A 11/B. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 11/C. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^37]: A 11/C. § (1) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^38]: A 11/D. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^39]: A 11/E. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^40]: A 11/E. § (3) bekezdése a 82/2002. (IV. 15.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^41]: Az alcímet a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^42]: A 11/F. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^43]: A 11/G. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^44]: A 11/G. § (2) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^45]: A 11/H. §-t a 85/2001. (V. 30.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^46]: A 11/H. § (1) bekezdés b) pontja a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^47]: A 11/H. § (1) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 68. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^48]: A 11/H. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
+[^49]: A 11/H. § (3) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés b) pontja, a 351/2010. (XII. 30.) Korm. rendelet 68. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^50]: A 11/H. § (6) bekezdése a 171/2010. (V. 13.) Korm. rendelet 2. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^51]: A 12. § a 475/2017. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^52]: A 13. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1181. pontja hatályon kívül helyezte.
+[^53]: A 13. § (3) bekezdése a 85/2001. (V. 30.) Korm. rendelet 2. §-ával megállapított, a 486/2015. (XII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^54]: A 14. §-t megelőző alcímet a 477/2016. (XII. 27.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^55]: A 14. §-t a 477/2016. (XII. 27.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^56]: Az 1. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 171/2010. (V. 13.) Korm. rendelet 1. § 12. pontja, a 221/2014. (IX. 4.) Korm. rendelet 200. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^57]: A 2. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^58]: A 2. számú melléklet 1. pontja a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, az 57/2014. (III. 4.) Korm. rendelet 2. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
+[^59]: A 2. számú melléklet 2. pontjának b) alpontja a 337/2007. (XII. 13.) Korm. rendelet 8. § f) pontja, a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § d) pontja szerint módosított szöveg.
+[^60]: A 2. számú melléklet 2. pontjának d) alpontja a 163/2009. (VIII. 6.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^61]: A 2. számú melléklet 2. pont i) alpontját a 163/2009. (VIII. 6.) Korm. rendelet 34. § (3) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^62]: A 3. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^63]: A 4. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^64]: Az 5. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 69. §-a, a 70/2015. (III. 30.) Korm. rendelet 41. § e) pontja szerint módosított szöveg.

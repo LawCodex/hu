@@ -1,0 +1,493 @@
+---
+title: "232/1996. (XII. 26.) Korm. rendelet a vizek kártételei elleni védekezés szabályairól"
+identifier: "232/1996. (XII. 26.) Korm. rendelet"
+njt_id: "1996-232-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1996/Korm/232"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1996-12-26
+in_force_from: 2009-10-01
+last_amended: 2024-12-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1996-232-20-22"
+retrieved: 2026-10-12
+---
+
+# 232/1996. (XII. 26.) Korm. rendelet a vizek kártételei elleni védekezés szabályairól
+
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 17. §-ának (5) bekezdésében kapott felhatalmazás alapján, a vizek kártételei elleni védekezés feladatairól és a kormánybiztos jogköréről a következőket rendeli el:
+
+## Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában:
+
+1.[^1] *védekezés:* az élet- és vagyonbiztonság érdekében
+
+a) az árvíz és a belvíz kártételeinek, valamint
+
+b) a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti, a vizeket érintő, azonnali beavatkozást igénylő károsodás
+
+megelőzését, elhárítását, valamint mérséklését szolgáló műszaki és államigazgatási feladatok végrehajtása;
+
+2.[^2] *a védekezés műszaki feladatai:* az árvizek, a belvizek és a vízhiány időszakában – a védőműveken vagy azok mentén – a védőművek védő- és működőképességének megőrzése;
+
+3\. *a védekezés államigazgatási feladatai:* a védekezéssel összefüggő rendvédelmi, szociális és egészségügyi hatósági, továbbá a műszaki feladatok ellátásához szükséges munkaerő, eszköz, anyag, felszerelés rendelkezésre állása, valamint a vizek kártételei által fenyegetett területeken az élet- és vagyonbiztonság érdekében végzendő megelőző és operatív feladatok;
+
+4\. *helyi vízkárelhárítás:* az árvíz-, belvízvédekezés céljából kiépített védőművek hiányában a fellépő káros vizek elleni védekezés, továbbá az elöntések folytán a területen szétterült vizeknek a vízfolyásokba, csatornákba vezetése;
+
+5\. *nyílt ártér:* olyan terület, amelyet a folyók és patakok medréből kilépő víz – az árvíz – szabadon elönthet;
+
+6.[^3] *mentesített ártér:* olyan terület, amelyet épített védőművek védenek a folyók és patakok árvizeinek elöntésétől;
+
+7\. *védelmi szakasz:* az árvízvédelmi vonalaknak és a belvízrendszereknek a védekezés irányítására és végrehajtására meghatározott része;
+
+8\. *védekezési készültség:* a veszély mértéke szerint meghatározott, a biztonság érdekben szükséges intézkedések megtételének intézményes kerete;
+
+9\. *a védekezési készültség fokozatai:* I., II., III. és rendkívüli védekezési készültség;
+
+10.[^4] *károsan vízhiányos helyzet:* meghatározott területen a víz megfelelő mennyiségben, illetve minőségben való hozzáférhetőségének vagy állapotának – természeti folyamatok, esetleg emberi tevékenység hatására létrejövő – átmeneti zavara, ami a természeti értékekben vagy a gazdasági javakban kárt okozhat.
+
+## A védekezés műszaki feladatainak ellátása
+
+### 2. §[^5]
+
+A védekezés műszaki feladatait a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) 16. §-ában és a vízitársulatokról szóló 2009. évi CXLIV. törvény 4. §-ában megjelölt védekezésre kötelezettek látják el.
+
+## A védekezés országos irányítása
+
+### 3. §
+
+(1)[^6] A vízügyi igazgatási szervek irányításáért felelős miniszter határozza meg a védekezési felkészülés feladatait, irányítja a védekezési készültség időszakában a vízügyi igazgatási szervek árvíz- és belvízvédekezéssel kapcsolatos tevékenységét.
+
+(2)[^7]
+
+(3)[^8] A vízügyi igazgatási szervek irányításáért és a vízvédelemért felelős miniszter a védekezést szolgáló műszaki feladatok országos irányítását az Országos Vízügyi Irányító Törzs (a továbbiakban: Törzs) útján végzi.
+
+(3a)[^9] A Törzs a vízügyi igazgatási szervek irányításáért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter és az államháztartásért felelős miniszter által kinevezett, továbbá az Országos Vízügyi Főigazgatóság főigazgatója által kijelölt tagokból áll.
+
+(4)[^10] Az egyes tárcák a védekezéssel összefüggő saját szakmai és államigazgatási feladataikat a Törzs mellett a rendészetért felelős miniszter, a helyi önkormányzatokért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter, a földügyért felelős miniszter, a honvédelemért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter, az egészségügyért felelős miniszter és az államháztartásért felelős miniszter által kinevezett állandó tárcamegbízottak koordinációjával és közreműködésével végzik
+
+(5)[^11]
+
+(6)[^12] Ha a veszély leküzdése a helyi polgári erők mozgósításával nem biztosítható, a vízügyi igazgatási szervek irányításáért felelős miniszter kezdeményezi a katasztrófavédelemről, valamint a honvédelemről szóló törvény szerint – a honvédelemért felelős miniszter, a rendészetért felelős miniszter, a katasztrófák elleni védekezésért felelős miniszter útján – a honvédség, a rendvédelmi szervek hivatásos állománya és a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjai közreműködését.
+
+## A vízügyi igazgatási szervek irányításáért felelős miniszter feladata[^13]
+
+### 4. §[^14]
+
+(1) A rendkívüli védekezési készültség elrendeléséről és megszüntetéséről a vízügyi igazgatási szervek irányításáért felelős miniszter dönt.
+
+(2)[^15] A rendkívüli védekezési készültség időszakában, ha veszélyhelyzet kihirdetésére nem kerül sor, a vizek kártételei elleni védekezés országos irányítása a vízügyi igazgatási szervek irányításáért felelős miniszter feladatkörébe tartozik.
+
+(3) A veszélyhelyzet kihirdetésével nem járó rendkívüli védekezési készültség tartama alatt a vízügyi igazgatási szervek irányításáért felelős miniszter feladata:
+
+a) a rendkívüli terhelésnek kitett védművek azonnali felülvizsgálatának elrendelése, a kritikus védműszakaszok és a szükséges beavatkozások meghatározása,
+
+b) a megnövekedett vízügyi szakfeladathoz szükséges személyi létszám biztosítása,
+
+c) a mentesített ártérre kivezetett vizek elszigeteléséről, a kártételek lehető legszűkebb körre korlátozásáról, a víznek a mederbe történő visszavezetéséről és az ezekkel kapcsolatos munkák elvégzéséről való gondoskodás,
+
+d) intézkedés a védekezés során megrongálódott védőművek azonnali helyreállításáról.
+
+(4)[^16] A katasztrófavédelemről szóló törvényben meghatározott veszélyhelyzeti feltételek fennállása esetén
+
+a) a vízügyi igazgató (a továbbiakban: VIZIG igazgató) a Törzs útján,
+
+b)[^17] a területi védelmi bizottság (a továbbiakban: védelmi bizottság) elnöke,
+
+c) a főpolgármester, polgármester a védelmi bizottság útján
+
+javaslatot tesz a vízügyi igazgatási szervek irányításáért felelős miniszternek a veszélyhelyzet kihirdetésének kezdeményezésére.
+
+(5)[^18] Az elsőrendű árvízvédelmi vízilétesítménnyé nyilvánítás a vízügyi igazgatási szervek irányításáért felelős miniszter feladata.
+
+## A Kormány feladata az árvíz- és belvízvédekezés során[^19]
+
+### 5. §[^20]
+
+(1)[^21] Veszélyhelyzet kihirdetése esetén a vizek kártételei elleni védekezés országos irányítása a Kormány feladata.
+
+(2) Ha a Kormány az (1) bekezdés szerinti irányítási jogosítványai körébe tartozó döntésének meghozatalában átmenetileg akadályoztatva van, a vízügyi igazgatási szervek irányításáért felelős miniszter köteles megtenni azokat az azonnali intézkedéseket, amelyek hiánya a sikeres védekezést veszélyeztetné.
+
+(3) A vízügyi igazgatási szervek irányításáért felelős miniszter a (2) bekezdés szerinti intézkedéseiről haladéktalanul tájékoztatja a Kormányt.
+
+## A védekezés műszaki feladatainak helyi irányítása
+
+### 6. §
+
+(1)[^22] A védekezés műszaki feladatainak helyi irányítását:
+
+a) a Vgtv. 16. § (3) bekezdésében meghatározott védműveken
+
+aa) az I., II. és III. védekezési készültség tartama alatt a VIZIG igazgató,
+
+ab) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a VIZIG igazgató vagy a vízügyi igazgatási szervek irányításáért felelős miniszter által kirendelt megbízott,
+
+ac)[^23] a veszélyhelyzet időtartama alatt a vízügyi igazgatási szervek irányításáért felelős miniszter által kirendelt megbízott,
+
+b)[^24] a helyi önkormányzati tulajdonban lévő védőműveken
+
+ba) az I., II. és III. védekezési készültség tartama alatt a polgármester vagy a polgármester által kijelölt és a VIZIG igazgató által jóváhagyott védelemvezető,
+
+bb) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a polgármester vagy a vízügyi igazgatási szervek irányításáért felelős miniszter által kijelölt személy,
+
+bc) a veszélyhelyzet időtartama alatt a vízügyi igazgatási szervek irányításáért felelős miniszter által kijelölt személy,
+
+c)[^25] a vízitársulat üzemeltetésében lévő védőműveken, ha az nem tartozik a *b)* pontban foglaltak körébe
+
+ca) az I., II. és III. védekezési készültség tartama alatt a vízitársulat intéző bizottsága által kijelölt és a VIZIG igazgató által jóváhagyott személy,
+
+cb) a rendkívüli védekezési készültség tartama alatt, ha veszélyhelyzet kihirdetésére nem kerül sor, a vízügyi igazgatási szervek irányításáért felelős miniszter által kijelölt személy,
+
+cc) a veszélyhelyzet időtartama alatt a vízügyi igazgatási szervek irányításáért felelős miniszter által kijelölt személy
+
+látja el.
+
+(2)[^26] A védekezés műszaki feladatainak helyi irányítója
+
+a) a védekezés végrehajtására alkalmas védekezési szervezetet hoz létre, amelyet a magasabb védekezési fokozatban is alkalmazni kell,
+
+b)[^27] a vizek kártételei leküzdése érdekében kezdeményezheti a polgári védelmi szervezetek mozgósítását.
+
+(3) Az árvízvédelmi és belvízvédelmi szakaszokon a védekezés műszaki feladatainak irányításával szakasz-védelemvezetőt kell megbízni.
+
+(4)[^28] Összefüggő árvízvédelmi műveken és belvízvédelmi rendszerekben a különböző védekező szervek műszaki tevékenységének összehangolása a vízügyi igazgatóság (a továbbiakban: VIZIG) feladata.
+
+## A védelmi bizottság
+
+### 7. §
+
+(1)[^29] A vizek kártételei elleni védekezési területi bizottság feladat- és hatáskörét az illetékességi területén a védelmi bizottság látja el.
+
+(2)–(3)[^30]
+
+(4)[^31] A védelmi bizottság az illetékes vízügyi államigazgatási szerv vezetőjének javaslatára dönt a vizek kártételei elleni védekezés céljait szolgáló gazdasági és anyagi szolgáltatási kötelezettségek tervezéséről és igénybevételéről.
+
+(5) A védelmi bizottság a saját szervezeti, működési szabályai és tervei alapján, a saját munkaszervezetének bevonásával gondoskodik a védekezés területi szintű összehangolásáról.
+
+(6)[^32] A vizek kártételei elleni védekezéssel kapcsolatos ügyekben a védelmi bizottság tagja a működési terület szerinti VIZIG igazgató.
+
+(7)[^33] Ha a kialakult védelmi helyzet a vízügyi igazgatóság[^34] területén több vármegyét érint, a vízügyi igazgatóság[^35] gondoskodik arról, hogy az egyes védelmi bizottságokban intézkedésre jogosult képviselője legyen.
+
+(8)[^36] A védelmi bizottságnak a vizek kártételei elleni védekezéssel kapcsolatos operatív működését a VIZIG igazgató javaslatára a védelmi bizottság elnöke rendeli el és szünteti meg.
+
+## Felkészülés a védekezésre
+
+### 8. §
+
+(1) A védekezésre való felkészülés során a védekezésre kötelezettek feladatai:
+
+a) a védőművek, azok műtárgyai és tartozékai, valamint a védekezési berendezések, gépek, eszközök és felszerelések karbantartása;
+
+b) a védekezési tervek és nyilvántartások elkészítése, kiegészítése;
+
+c) a saját védelmi szervezetek megszervezése és felkészítése,
+
+d) az *a)*–*b)*–*c)* pont alatt felsoroltak rendszeres, évenkénti felülvizsgálata;
+
+e) védekezési gyakorlatok tartása.
+
+(2)[^37] A vízügyi igazgatóságok[^38] feladata az (1) bekezdésben foglaltakon túlmenően:
+
+a) az országos vízrajzi törzshálózatba illeszkedő észlelő- és figyelőhálózat kialakítása és működtetése;
+
+b) a védekezési tevékenységgel összefüggő műszaki és szervezési egyeztetések biztosítása a védekezésre kötelezettek számára;
+
+c) együttműködés a szomszédos államok illetékes szerveivel a közös védekezési (együttműködési) szabályzatok szerint;
+
+d) információs rendszer kialakítása és működtetése;
+
+e) különcélú védekezési távközlő hálózatok kialakítása és működtetése;
+
+f)[^39] az üzemeltetésébe tartozó vízkivételi művek, vízpótló és vízátvezetési útvonalak, tározók, műtárgyak, mérő és megfigyelő berendezések, eszközök és ezek tartozékainak rendszeres fenntartása (karbantartás, üzemeltetés);
+
+g)[^40] a vízháztartási állapot és a vízkészletek figyelemmel kísérése, vízhiányos állapotok előrejelzése,
+
+h)[^41] a szerződött vízhasználatok és az így lekötött vízmennyiségek nyilvántartása.
+
+(3) A védekezési terveket a védekezésre kötelezettnek minden év december 10-ig felül kell vizsgálnia és a változásokat a terveken át kell vezetnie.
+
+## A vízügyi igazgatóság[^42] műszaki és szervezési adatszolgáltatási kötelezettsége[^43]
+
+### 9. §
+
+(1)[^44] A vízügyi igazgatóság[^45] szolgáltatja:
+
+a) a védelmi bizottság elnöke útján
+
+1\. az erőforrás-igénybevételi tervek elkészítéséhez, védelmi szakaszok szerinti bontásban a szükséges munkaerő, a szivattyú-gépkezelők létszámát, továbbá a szállítóeszköz, földmunkagép szükséges mennyiségét;
+
+2\. a kitelepítési, kiürítési, mentési, befogadási és visszatelepítési tervek elkészítéséhez a lokalizációs tervek kivonatát, a műszaki leírást és átnézetes helyszínrajzot, amely tartalmazza az elöntéssel fenyegetett területeket, a kiürítés végrehajtására alkalmas utakat és vasútvonalakat;
+
+b) a helyi önkormányzatok és vízitársulatok saját védekezési terveinek elkészítéséhez a mértékadó, illetőleg jellemző vízszintek és vízhozamok, továbbá a befogadó és csatlakozó állami főművek műszaki alapadatait.
+
+(2)[^46] A VIZIG az (1) bekezdés a) pontjában felsorolt adatokban bekövetkezett változásokat – a hivatásos katasztrófavédelmi szerv területi szerve útján – évente január 31-ig közölni köteles az érintett polgármesterrel, főpolgármesterrel és a védelmi bizottság elnökével.
+
+(3)[^47] A VIZIG a Vgtv. 16. § (4) bekezdés d) pontja szerinti szakmai irányítási feladatkörében:
+
+a) jóváhagyja a települési vízkárelhárítási terveket,
+
+b) közreműködik a védekezési felkészülésben és a védőművek felülvizsgálatában,
+
+c) a polgármester részére nyújtott segítség keretében műszaki szakirányítást végez,
+
+d) a védelmi szakaszokhoz kapcsolódó magaspartokon és a folyók nyílt árterében lévő, árvízvédekezést folytató települések esetében kijelöli a védvonalakat, továbbá meghatározza az ideiglenes védművek kiépítési szintjeit.
+
+## Erőforrás szervezési közreműködési kötelezettség
+
+### 10. §
+
+(1)[^48] A 9. § (1) bekezdésének a)/1. pontjában meghatározott, védekezéshez szükséges erőforrásokat és a figyelőszolgálat működtetéséhez szükséges létszámot a vízügyi igazgatóság[^49] elsősorban előszerződések megkötésével biztosítja.
+
+(2) A szerződések előkészítésében és megkötésében a polgármesterek közreműködnek.
+
+## Tájékoztatás a védelmi felkészülésről
+
+### 11. §[^50]
+
+A vízügyi igazgatási szervek irányításáért felelős miniszter vagy az általa kijelölt személy az állandó tárcamegbízottakat, a vízügyi igazgatóság[^51] vezetője a védelmi bizottságot szükség szerint, de legalább évente egy alkalommal tájékoztatja a védelmi felkészülés helyzetéről, valamint a védekezéssel kapcsolatos várható feladatokról.
+
+## Ügyelet
+
+### 12. §[^52]
+
+Az Országos Vízügyi Főigazgatóság (a továbbiakban: OVF) és a VIZIG-ek állandó (éjjel-nappal) ügyeletet tartanak.
+
+## A védekezési készültség elrendelése
+
+### 13. §
+
+(1) Az I., II. és III. fokozatú védekezési készültséget a védekezésre kötelezett szervezet vezetője rendeli el, módosítja és szünteti meg.
+
+(2)[^53] A rendkívüli védekezési készültség elrendelésére a 4. § (1) bekezdésben foglaltak az irányadók.
+
+(3)[^54] A Földmegfigyelési Információs Rendszerből a vízügyi igazgatási szerv által belvízvédelmi feladatkörében lekért földmegfigyelési tematikus adatok csak a belvízvédekezési fokozatok elrendelésének vonatkozásában irányadók.
+
+## Tájékoztatás a védekezési készültség elrendeléséről
+
+### 14. §[^55]
+
+(1) A védekezési készültségi fokozatok elrendeléséről, módosításáról és megszüntetéséről
+
+a) a VIZIG-ek a Törzset, a védelmi bizottság elnökét és a katasztrófák elleni védekezésben résztvevő, ügyelettel rendelkező szerveket,
+
+b) a polgármester, főpolgármester a működési terület szerinti VIZIG ügyeletét, a hivatásos katasztrófavédelmi szerv területi szervét és a lakosságot,
+
+c) a vízitársulatok a működési terület szerinti VIZIG ügyeletét és az érintett települések polgármestereit
+
+haladéktalanul tájékoztatják.
+
+(2) A vízügyi igazgatási szervek irányításáért felelős minisztert a Törzs tájékoztatja a védekezési fokozatok elrendeléséről, módosításáról és megszüntetéséről.
+
+## A védelemvezető feladatai
+
+### 15. §
+
+(1) A védelemvezető (szakasz-védelemvezető) köteles a védekezés érdekében szükséges minden intézkedést megtenni, így különösen gondoskodni:
+
+a) a védőművek állapotának állandó megfigyeléséről, káros jelenségek esetén a szükséges beavatkozások megtételéről, a műtárgyak jegesedésének megakadályozásáról;
+
+b) a vizek lehetséges legkisebb kártétellel történő levezetéséhez szükséges műszaki intézkedés elrendeléséről, végrehajtásáról és ellenőrzéséről;
+
+c) a mentesített területre betört vizek elszigeteléséről, a víznek a mederbe történő visszavezetéséről és az ezzel összefüggő munkák elvégzéséről;
+
+d) a védekezéshez szükséges munkaerő mozgósításáról, anyag és felszerelés utánpótlásáról;
+
+e) a védekezésben résztvevők foglalkoztatásáról, munkájának irányításáról;
+
+f) a védekezési költségek elszámolásához szükséges adatok, elsősorban a védekezésnél dolgozók munkájának, a védekezéshez igénybe vett gépek, felszerelések és anyagok felhasználásának folyamatos nyilvántartásáról;
+
+g) tartós védekezés esetén legalább tíz naponkénti költségbecslés elkészítéséről és a védekezési költségfedezetének igényléséről.
+
+(2) A védekezés irányító- és őrszemélyzetét megkülönböztető jellel (karszalag, jelvény, kitűző), a járműveket ,,ÁRVÍZVÉDELEM'' és/vagy ,,BELVÍZVÉDELEM'' feliratú táblával (felirattal) kell ellátni.
+
+(3)[^56] Az (1) bekezdésben foglaltakon túl a vízügyi igazgató gondoskodik:
+
+a) a jég okozta árvízveszély elhárítása érdekében a folyókon a jégtorlaszok kialakulásának megelőzéséről, a jégrombolási munkák irányításáról, az ezzel kapcsolatos feladatok megszervezéséről és végrehajtásáról;
+
+b)[^57] a folyamatos kapcsolattartásról az érintett települések polgármestereivel, a vízitársulatokkal és a környezetvédelmi hatóságokkal;
+
+c) ha előreláthatóan védekezésre kerül sor – a helyi vízkárelhárítás kivételével –, továbbá a védekezés tartama alatt a rendelkezésére álló adatok alapján hidrometeorológiai tájékoztatók és előrejelzések kiadásáról.
+
+(4)[^58] A VIZIG igazgató a nagyobb kár elhárítása érdekében:
+
+a) a belvizek levezetésének sorrendjét meghatározhatja, befogadóba vezetését ideiglenesen korlátozhatja vagy szüneteltetheti;
+
+b)[^59] rendkívüli védekezési készültség időszakában, az indok alátámasztásával a vízkárelhárítási célú tározó igénybevételére – a védelmi bizottság elnökének egyetértésével – a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek javaslatot tehet, ha a tározó megnyitása műszakilag nem automatikusan történik, és a tározótérben magántulajdonú ingatlan van;
+
+c)[^60] rendkívüli védekezési készültség időszakában a vízügyi igazgatási szervek irányításáért felelős miniszter engedélyével az árvizet és a belvizet a *b)* pont szerinti vízkárelhárítási célú tározóba vezetheti;
+
+d)[^61] területi vízkorlátozás elrendelése esetén dönt a vízigények kielégítésének mértékéről, ütemezéséről, módjáról.
+
+(4a)[^62] A Törzs vezetője a 15. § (4) bekezdés b) pontja szerinti vízkárelhárítási célú tározó igénybevételét – a vízügyi igazgatási szervek irányításáért felelős miniszter és a védelmi bizottság egyidejű tájékoztatásával – a rendkívüli védekezési készültség időszakán kívül engedélyezheti, ha
+
+a) a védekezés során okszerűen lehet számolni a nagyobb vízkár bekövetkezésének valószínűségével,
+
+b) az *a)* pont szerinti vízkár közvetlenül veszélyezteti az emberi egészséget, környezetet, az élet- és vagyonbiztonságot, és
+
+c) az *a)* pont szerinti vízkár csak a 15. § (4) bekezdés b) pontja szerinti vízkárelhárítási célú tározó azonnali igénybevételével hárítható el.
+
+(4b)[^63] A Törzs vezetője a (4a) bekezdés szerinti intézkedéssel egyidejűleg kezdeményezi a rendkívüli védekezési készültség elrendelését a vízügyi igazgatási szervek irányításáért felelős miniszternél.
+
+(5)[^64] A polgármester, illetőleg az általa kijelölt védelemvezető a védekezés műszaki feladatait a vízügyi igazgatósággal[^65] együttműködve látja el. A védekezés felelős vezetői egymást kölcsönösen tájékoztatják.
+
+## Az irányítási rendszer
+
+### 16. §[^66]
+
+A védekezési készültségi fokozatokban, a műszaki irányítás feladatainak ellátása során:
+
+a) a VIZIG igazgató a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek,
+
+b)[^67] a polgármester vagy az általa kijelölt védelemvezető a helyi védelmi bizottság elnöke útján közvetlenül a védelmi bizottság vezetőjének,
+
+c) a VIZIG szakasz-védelemvezetője a vízügyi igazgatónak,
+
+d) a vízitársulat védelemvezetője a VIZIG szakasz-védelemvezetőjének,
+
+e) az önkormányzathoz kirendelt vízügyi műszaki irányító közvetlenül a vízügyi igazgatónak,
+
+f) rendkívüli védekezési készültség időszakában, ha veszélyhelyzet kihirdetésére nem kerül sor, a VIZIG igazgató vagy a vízügyi igazgatási szervek irányításáért felelős miniszter által kirendelt megbízott, továbbá a polgármester, főpolgármester vagy az általa kijelölt védelemvezető a Törzs útján a vízügyi igazgatási szervek irányításáért felelős miniszternek
+
+van alárendelve.
+
+## Védekezési ügyelet
+
+### 17. §
+
+(1) A védekezés ideje alatt a védekező szervezeteknél a szervezet központjában és a szakaszvédelmi központokban védekezési ügyeletet kell tartani.(2) Minden ügyeleten naplót kell vezetni. A naplóba be kell jegyezni a védekezés szempontjából minden jelentős eseményt, valamint a védekezéssel kapcsolatban adott vagy kapott utasítást és jelentést.
+
+## Jelentések, tájékoztatások
+
+### 18. §
+
+(1) Védekezési tevékenységükről a készültség ideje alatt naponta kötelesek:
+
+a)[^68] VIZIG-ek – a helyi önkormányzatok és a vízitársulatok védekezési tevékenységéről is – 9 óráig az OVF műszaki ügyeletének jelentést tenni,
+
+b)[^69] a polgármesterek az illetékes VIZIG, a budapesti főpolgármesteri hivatal műszaki ügyelete az OVF műszaki ügyeletére tájékoztatást adni,
+
+c)[^70] a vízitársulatok az illetékes vízügyi igazgatóság[^71] műszaki ügyeletére tájékoztatást adni.
+
+(2) A rendkívüli eseményekről haladéktalanul, az (1) bekezdésben meghatározottak szerint kell jelentést tenni, illetőleg tájékoztatást adni.
+
+## Kimenekítés, kiürítés
+
+### 19. §[^72]
+
+(1) Ha az árvízvédelmi védvonal átszakadásának veszélye fenyeget, vagy ha az elöntések emberi életet, létesítményeket és javakat veszélyeztetnek
+
+a) a VIZIG igazgató köteles a védelmi bizottság elnökének,
+
+b) a helyi önkormányzat szakasz-védelemvezetője a polgármesternek, főpolgármesternek
+
+a veszélyeztetett területekről a kitelepítés elrendelésére javaslatot tenni.
+
+(2) Az (1) bekezdés b) pontjában foglalt javaslatról és az ezzel kapcsolatban meghozott döntésről a polgármester, főpolgármester soron kívül tájékoztatja a hivatásos katasztrófavédelmi szervet.
+
+## A védekezés megszüntetését követő intézkedések
+
+### 20. §
+
+(1) A védelemvezető a készültség megszüntetése után haladéktalanul gondoskodik:
+
+a) a védekezéshez használt anyagok, eszközök és felszerelések összegyűjtéséről, kijavításáról és raktározásáról, az elhasználtaknak az előírt mennyiségre való kiegészítéséről;
+
+b) a védekezésben részt vett dolgozók járandóságainak elszámolásáról;
+
+c) más szervektől, valamint az állampolgároktól igénybe vett szolgáltatások, anyagok, eszközök és felszerelések elszámolásáról, illetőleg a meglevők visszaadásáról;
+
+d) a megrongálódott védőművek helyreállításáról.(2) A készültség megszüntetését követő 30 napon belül a védelemvezető a felülvizsgálatra jogosult szerv részére a védekezésről összefoglaló jelentést köteles készíteni és jóváhagyásra előterjeszteni.
+
+(3)[^73] Rendkívüli készültségben történt védekezésről a vízügyi igazgatási szervek irányításáért felelős miniszternek a Kormány részére a készültség megszüntetését követő 45 napon belül jelentést kell tennie.
+
+(4) A tartós III. fokú készültséggel járó védekezéseket a védekező szerv a felülvizsgálatra jogosult bevonásával értékelni köteles.
+
+## Záró rendelkezések
+
+### 21. §
+
+(1)[^74] Ez a rendelet 1997. január 1-jén lép hatályba.
+
+(2)[^75]
+
+---
+
+[^1]: Az 1. § 1. pontja az 576/2021. (X. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 6. pontja az 576/2021. (X. 12.) Korm. rendelet 1. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 10. pontját a 300/2011. (XII. 22.) Korm. rendelet 30. § m) pontja hatályon kívül helyezte, újonnan az 527/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^5]: A 2. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § m) pontja hatályon kívül helyezte.
+[^8]: A 3. § (3) bekezdése az 576/2021. (X. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 383/2024. (XII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 3. § (3a) bekezdését a 139/2018. (VII. 26.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 3. § (4) bekezdése a 179/1999. (XII. 10.) Korm. rendelet 20. § a) pontjával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 104. §-a, a 300/2011. (XII. 22.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^11]: A 3. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 105. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^12]: A 3. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 103. § (1) bekezdésével megállapított, a 273/2010. (XII. 9.) Korm. rendelet 84. §-a, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés a) és d) pontja, a 671/2020. (XII. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^13]: A 4. §-t megelőző alcím a 300/2011. (XII. 22.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^15]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^16]: A 4. § (4) bekezdése a 69/2013. (III. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 4. § (4) bekezdés b) pontja az 569/2022. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg. [A 4. § (4) bekezdés b) pontjában a 616/2022. (XII. 29.) Korm. rendelet 20. § a) pontjával elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe "vármegyei" szöveg lép, nem vezethető át.]
+[^18]: A 4. § (5) bekezdését az 527/2013. (XII. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^19]: Az 5. §-t megelőző alcímet a 300/2011. (XII. 22.) Korm. rendelet 25. § (5) bekezdése iktatta be, szövege a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 5. § a 69/2013. (III. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: Az 5. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^22]: A 6. § (1) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
+[^23]: A 6. § (1) bekezdés a) pont ac) alpontja a 69/2013. (III. 8.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^24]: A 6. § (1) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 6. § (6) bekezdésével megállapított szöveg.
+[^25]: A 6. § (1) bekezdés c) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (6) bekezdése iktatta be.
+[^26]: A 6. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (6) bekezdésével megállapított szöveg.
+[^27]: A 6. § (2) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^28]: A 6. § (4) bekezdése a 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés e) pontja szerint módosított szöveg.
+[^29]: A 7. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
+[^30]: A 7. § (2)–(3) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § m) pontja hatályon kívül helyezte.
+[^31]: A 7. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (9) bekezdésével megállapított szöveg.
+[^32]: A 7. § (6) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (10) bekezdésével megállapított szöveg.
+[^33]: A 7. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 20. § b) pontja szerint módosított szöveg. [A 7. § (7) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^34]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^35]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^36]: A 7. § (8) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^37]: [A 8. § (2) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-ek” szövegrész helyébe a „VIZIG-ek” szöveg lép, nem vezethető át.]
+[^38]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^39]: A 8. § (2) bekezdés f) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^40]: A 8. § (2) bekezdés g) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^41]: A 8. § (2) bekezdés h) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^42]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^43]: [A 9. §-t megelőző alcímnek a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^44]: [A 9. § (1) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^45]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^46]: A 9. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (8) bekezdésével megállapított szöveg.
+[^47]: A 9. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^48]: [A 10. § (1) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem átvezethető.]
+[^49]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^50]: A 11. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés d) pontja szerint módosított szöveg. [A 11. §-nak a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^51]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^52]: A 12. § a 39/2007. (III. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) és i) pontja szerint módosított szöveg.
+[^53]: A 13. § (2) bekezdése az 576/2021. (X. 12.) Korm. rendelet 1. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^54]: A 13. § (3) bekezdését a 769/2021. (XII. 23.) korm. rendelet 26. §-a iktatta be.
+[^55]: A 14. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (9) bekezdésével megállapított szöveg.
+[^56]: [A 15. § (3) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^57]: A 15. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^58]: A 15. § (4) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 25. § (10) bekezdésével megállapított szöveg.
+[^59]: A 15. § (4) bekezdés b) pontja az 576/2021. (X. 12.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^60]: A 15. § (4) bekezdés c) pontja a 69/2013. (III. 8.) Korm. rendelet 4. §-ával megállapított, az 576/2021. (X. 12.) Korm. rendelet 1. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^61]: A 15. § (4) bekezdés d) pontját az 527/2013. (XII. 30.) Korm. rendelet 6. § (14) bekezdése iktatta be.
+[^62]: A 15. § (4a) bekezdését az 576/2021. (X. 12.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^63]: A 15. § (4b) bekezdését az 576/2021. (X. 12.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^64]: [A 15. § (5) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés h) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG-gel” szövegrész helyébe a „VIZIG-gel” szöveg lép, nem vezethető át.]
+[^65]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^66]: A 16. § az 527/2013. (XII. 30.) Korm. rendelet 6. § (15) bekezdésével megállapított szöveg.
+[^67]: A 16. § b) pontja az 569/2022. (XII. 23.) Korm. rendelet 10. §-a szerint módosított szöveg. [ A 16. § b) pontban a 616/2022. (XII. 29.) Korm. rendelet 20. § c) pontja által elrendelt módosítás, amely szerint a "Megyei" szövegrész helyébe "Vármegyei" szöveg lép, nem vezethető át. ]
+[^68]: A 18. § (1) bekezdésének a) pontja a 39/2007. (III. 13.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés g) és j) pontja szerint módosított szöveg.
+[^69]: A 18. § (1) bekezdésének b) pontja a 39/2007. (III. 13.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) és j) pontja szerint módosított szöveg.
+[^70]: [A 18. § (1) bekezdés c) pontjának a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés f) pontjával elrendelt módosítása, mely szerint a „KÖVIZIG” szövegrészek helyébe a „VIZIG” szöveg lép, nem vezethető át.]
+[^71]: A 269/2003. (XII. 24.) Korm. rendelet 6. §-ának (4) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIG-et kell érteni.
+[^72]: A 19. § a 300/2011. (XII. 22.) Korm. rendelet 25. § (12) bekezdésével megállapított szöveg.
+[^73]: A 20. § (3) bekezdés a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg.
+[^74]: A 21. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1354. pontja szerint módosított szöveg.
+[^75]: A 21. § (2) bekezdését a 71/2006. (IV. 3.) Korm. rendelet 62. § c) pontja hatályon kívül helyezte.

@@ -1,0 +1,284 @@
+---
+title: "148/2004. (V. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság  és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezmény közúti forgalomban történő végrehajtásáról rendelkező, Ljubljanában, 2004. április 16-án aláírt Megállapodás kihirdetéséről"
+identifier: "148/2004. (V. 7.) Korm. rendelet"
+njt_id: "2004-148-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/148"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-05-07
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-148-20-22"
+retrieved: 2026-10-12
+---
+
+# 148/2004. (V. 7.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezmény közúti forgalomban történő végrehajtásáról rendelkező, Ljubljanában, 2004. április 16-án aláírt Megállapodás kihirdetéséről
+
+*[A Megállapodás – annak 11. Cikk (2) bekezdése alapján – 2004. június hó 1-jén lép hatályba, és 2004. május 1. napjától ideiglenesen alkalmazásra kerül.]*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezmény közúti forgalomban történő végrehajtásáról rendelkező, Ljubljanában, 2004. április 16-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a Magyar Köztársaság\
+és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló Egyezmény végrehajtásáról a közúti forgalomban
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek) a Magyar Köztársaság és a Szlovén Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Budapesten, 2000. október 12-én aláírt Egyezmény (a továbbiakban: Egyezmény) 2. Cikk (4) bekezdésben foglalt felhatalmazás alapján,
+
+– az Egyezmény végrehajtásának elősegítése céljából,
+
+– azzal a célkitűzéssel, hogy együttműködésük révén a közös államhatáron a határforgalom ellenőrzését a biztonság követelményeinek figyelembevételével gyorsítsák és egyszerűsítsék,
+
+– figyelembe véve az Európai Unió Tanácsa 15013/03 számú következtetésében foglaltakat a bővítés után, a közös szárazföldi határokon a személyek ellenőrzésére vonatkozó, az Európai Unió egyes tagállamai közötti kétoldalú együttműködési megállapodások elfogadásáról,
+
+az alábbiakban állapodtak meg:
+
+I. Rész
+
+*ÁLTALÁNOS RENDELKEZÉSEK*
+
+*1. Cikk*
+
+(1) A határforgalom ellenőrzésének szabályait, figyelemmel a jelen Megállapodásban foglaltakra, az Egyezmény tartalmazza.
+
+(2) A Szerződő Felek szolgálati személyei a határforgalom-ellenőrző szolgálati helyeken együttműködnek a határforgalom ellenőrzésében abból a célból, hogy a határforgalom ellenőrzését megkönnyítsék, és az ellenőrzés összehangolásával a közös államhatár átlépését egyszerűsítsék és gyorsítsák.
+
+(3) A fentiek érdekében a Szerződő Felek szolgálati személyei mind a kiléptetés, mind a beléptetés során a határforgalom ellenőrzését saját államuk és/vagy a másik Szerződő Fél államának területén közös helyen végzik oly módon, hogy a nemzetközi forgalomban részt vevő személyeknek csak egy alkalommal kell megállniuk.
+
+(4) A Szerződő Felek illetékes hatóságai a határátkelőhelyek azon fejlesztéséről, amelyek a másik Szerződő Felet is érintik, illetve az ideiglenes forgalomkorlátozásról, átirányításról és a szolgálati helyeket érintő munkálatokról, azok megkezdése előtt kellő időben, kölcsönösen tájékoztatják egymást.
+
+(5) Azokat az államhatáron átvezető utakat, ahol veszélyes áruk szállíthatók, a Szerződő Felek írásban határozzák meg és azt belső joguk szerint közzéteszik.
+
+(6) A jelen Megállapodás végrehajtása során a szolgálati személyek között a kapcsolattartás nyelve a magyar és a szlovén nyelv. A szolgálati személyek a kapcsolattartás során más nyelv használatában is megállapodhatnak.
+
+II. Rész
+
+*HATÁRÁTKELŐHELYEK A KÖZÖS HATÁRON*
+
+*2. Cikk*
+
+*Tornyiszentmiklós–Pince*
+
+(1) A Tornyiszentmiklós–Pince közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely nyitvatartási ideje naponta 06.00 órától 22.00 óráig tart.
+
+(3) A magyar szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+*3. Cikk*
+
+Tornyiszentmiklós–Pince\
+(létesítendő gyorsforgalmi közúti határátkelőhely)
+
+(1) A Tornyiszentmiklós–Pince létesítendő gyorsforgalmi nemzetközi közúti határátkelőhelyen a nemzetközi személyforgalom és az áruforgalomban részt vevő személyek ellenőrzése a Magyar Köztársaság államterületén közös helyen történik. Ebből a célból a Magyar Köztársaság államterületén szlovén határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely használata kiterjed a nemzetközi személy- és áruforgalomra.
+
+(3) A határátkelőhely nyitvatartási ideje naponta 00.00 órától 24.00 óráig tart.
+
+(4) A szlovén szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra és az azokhoz tartozó kezelő fülkékre;
+
+*d)* a parkolóra.
+
+(5) A határátkelőhely megnyitásának idejéről a Szerződő Felek diplomáciai úton, jegyzékváltással állapodnak meg.
+
+*4. Cikk*
+
+*Rédics–Dolga Vas (Hosszúfalu)*
+
+(1) A Rédics–Dolga Vas (Hosszúfalu) közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) Az (1) bekezdésben meghatározott közúti határátkelőhelyen a nemzetközi áruforgalomban részt vevő személyek ellenőrzése a Magyar Köztársaság államterületén közös helyen történik. Ebből a célból a Magyar Köztársaság államterületén szlovén határforgalom-ellenőrző szolgálati hely létesül.
+
+(3) A határátkelőhely használata kiterjed a nemzetközi személy- és áruforgalomra.
+
+(4) A határátkelőhely nyitvatartási ideje naponta 00.00 órától 24.00 óráig tart.
+
+(5) A magyar szolgálati személyek számára a működési terület a Szlovén Köztársaság államterületén lévő határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra és az azokhoz tartozó kezelő fülkére;
+
+*d)* a parkolóra.
+
+(6) A szlovén szolgálati személyek számára a működési terület a Magyar Köztársaság államterületén a (2) bekezdésben meghatározott szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre a kilépő terminálon;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra és az azokhoz tartozó kezelő fülkékre a ki- és belépő terminálon egyaránt;
+
+*d)* a parkolóra.
+
+*5. Cikk*
+
+*Nemesnép–Kobilje (Kebele)*
+
+(1) A Nemesnép–Kobilje (Kebele) közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely használata kiterjed a nemzetközi személyforgalomra, amelyben legfeljebb kilenc ülőhelyes személyszállító gépjárművek vehetnek részt.
+
+(3) A Szerződő Felek a szükséges infrastrukturális feltételek megteremtését követően engedélyezik a határátkelőhelyen az autóbusz-forgalmat, és erről diplomáciai úton értesítik egymást.
+
+(4) A határátkelőhely nyitvatartási ideje április 1-jétől október 31-ig naponta 07.00 órától 19.00 óráig, november 1-jétől március 31-ig naponta 08.00 órától 16.00 óráig tart.
+
+(5) A magyar szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+*6. Cikk*
+
+*Magyarszombatfa–Prosenjakovci (Pártosfalva)*
+
+(1) A Magyarszombatfa–Prosenjakovci (Pártosfalva) közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Magyar Köztársaság államterületén közös helyen történik. Ebből a célból a Magyar Köztársaság államterületén szlovén határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely használata kiterjed a nemzetközi személyforgalomra, amelyben legfeljebb kilenc ülőhelyes személyszállító gépjárművek vehetnek részt.
+
+(3) A Szerződő Felek a szükséges infrastrukturális feltételek megteremtését követően engedélyezik a határátkelőhelyen az autóbusz forgalmat, és erről diplomáciai úton értesítik egymást.
+
+(4) A határátkelőhely nyitvatartási ideje április 1-jétől október 31-ig naponta 07.00 órától 19.00 óráig, november 1-jétől március 31-ig naponta 08.00 órától 16.00 óráig tart.
+
+(5) A szlovén szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+*7. Cikk*
+
+*Bajánsenye–Hodoš (Hodos)*
+
+(1) A Bajánsenye–Hodoš (Hodos) közúti határátkelőhelyen a Magyar Köztársaság államterületéről kilépő és a Szlovén Köztársaság államterületére belépő nemzetközi személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését is – a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A Szlovén Köztársaság államterületéről kilépő és a Magyar Köztársaság államterületére belépő nemzetközi személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését is – a Magyar Köztársaság államterületén közös helyen történik. Ebből a célból a Magyar Köztársaság államterületén szlovén határforgalom-ellenőrző szolgálati hely létesül.
+
+(3) Az (1) bekezdésben meghatározott közúti határátkelőhelyen az éjszakai órákban, vagy ha azt a forgalom indokolja, a ki- és belépő nemzetközi személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését is – a szolgálati személyek megállapodása alapján az egyik Szerződő Fél államának területén közös helyen történhet.
+
+(4) A határátkelőhely használata kiterjed a nemzetközi személy- és a korlátozott áruforgalomra, 3,5 tonna össztömeg súlyhatárig.
+
+(5) A határátkelőhely nyitvatartási ideje naponta 00.00 órától 24.00 óráig tart.
+
+(6) A magyar szolgálati személyek számára a működési terület a Szlovén Köztársaság államterületén lévő határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+(7) A szlovén szolgálati személyek számára a működési terület a Magyar Köztársaság államterületén lévő határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+*8. Cikk*
+
+*Kétvölgy (Verica)–Cepinci (Kerkafő)*
+
+(1) A Kétvölgy (Verica)–Cepinci (Kerkafő) közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely nyitvatartási ideje naponta 08.00 órától 20.00 óráig tart.
+
+(3) A magyar szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az ellenőrző forgalmi sávokra;
+
+*c)* a parkolóra.
+
+*9. Cikk*
+
+*Felsőszölnök (Gornji Senik)–Martinje (Magasfok)*
+
+(1) A Felsőszölnök (Gorni Senjik)–Martinje (Magasfok) közúti határátkelőhelyen a nemzetközi személyforgalom ellenőrzése a Szlovén Köztársaság államterületén közös helyen történik. Ebből a célból a Szlovén Köztársaság államterületén magyar határforgalom-ellenőrző szolgálati hely létesül.
+
+(2) A határátkelőhely nyitvatartási ideje naponta 06.00 órától 22.00 óráig tart.
+
+(3) A magyar szolgálati személyek számára a működési terület a határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a parkolóra.
+
+III. Rész
+
+*ZÁRÓ RENDELKEZÉSEK*
+
+*10. Cikk*
+
+(1) A jelen Megállapodás értelmezéséből vagy alkalmazásából eredő vitákat a Szerződő Felek a Magyar–Szlovén Határforgalmi Vegyes Bizottság keretében tárgyalások útján, ennek eredménytelensége esetén pedig diplomáciai úton rendezik.
+
+(2) A jelen Megállapodás alkalmazását nemzetközi szerződésben vállalt vagy egyéb nemzetközi jogi kötelezettség teljesítése, illetve közrendi, közbiztonsági vagy közegészségügyi okból bármelyik Szerződő Fél részben vagy egészben, átmenetileg felfüggesztheti. Ilyen intézkedés bevezetéséről és visszavonásáról a másik Szerződő Felet diplomáciai úton haladéktalanul értesíteni kell. A felfüggesztés bevezetése, illetve visszavonása halaszthatatlan intézkedést igénylő esetekben a diplomáciai jegyzék kézhezvételével, egyéb esetekben a diplomáciai jegyzékben foglaltak szerint lép hatályba.
+
+*11. Cikk*
+
+(1) A Szerződő Felek a jelen Megállapodást határozatlan időre kötik.
+
+(2) A Szerződő Felek diplomáciai úton, írásban kölcsönösen értesítik egymást arról, hogy eleget tettek a jelen Megállapodás hatálybalépéséhez szükséges belső jogi előírásoknak. A Megállapodás a Magyar Köztársaságnak és a Szlovén Köztársaságnak az Európai Unióhoz történő csatlakozása napját követő 30. (harmincadik) napon lép hatályba, azonban a Szerződő Felek a Megállapodást 2004. május 1. napjától ideiglenesen alkalmazzák.
+
+(3) A jelen Megállapodást bármelyik Szerződő Fél diplomáciai úton, írásban felmondhatja. A Megállapodás a felmondásról szóló értesítés kézhezvételét követő 30. (harmincadik) napon hatályát veszti.
+
+(4) A (3) bekezdésben meghatározottaktól függetlenül, a jelen Megállapodás akkor is hatályát veszti, ha az Egyezmény megszűnik.
+
+Készült Ljubljanában, 2004. április hónap 16. napján, két eredeti példányban, magyar és szlovén nyelven, mindkét nyelvű szöveg egyaránt hiteles.
+
+*(Aláírások)''*
+
+## 3. §
+
+(1) E rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 2004. május 1. napjától kell alkalmazni.
+
+(2)[^1] A rendelet végrehajtásáról a határrendészetért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 180. pontja szerint módosított szöveg.

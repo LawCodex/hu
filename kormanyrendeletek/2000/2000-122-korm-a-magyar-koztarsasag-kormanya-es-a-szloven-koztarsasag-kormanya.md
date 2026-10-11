@@ -1,0 +1,139 @@
+---
+title: "122/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a bizonyítványok és oklevelek kölcsönös elismeréséről szóló Egyezmény kihirdetéséről"
+identifier: "122/2000. (VII. 11.) Korm. rendelet"
+njt_id: "2000-122-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/122"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-07-11
+in_force_from: 2000-07-11
+last_amended: 2000-07-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-122-20-22"
+retrieved: 2026-10-12
+---
+
+# 122/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a bizonyítványok és oklevelek kölcsönös elismeréséről szóló Egyezmény kihirdetéséről
+
+(Az Egyezmény jóváhagyásáról szóló jegyzékváltás\
+2000\. június 6-án megtörtént.)
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a bizonyítványok és oklevelek kölcsönös elismeréséről szóló, Ljubljanában, 1999. február 5-én aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar nyelvű szövege a következő:
+
+,,
+
+Egyezmény\
+a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya között a bizonyítványok\
+és oklevelek kölcsönös elismeréséről
+
+A Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya (a továbbiakban: Szerződő Felek),
+
+– a Budapesten, 1992. szeptember hó 2. napján aláírt, a Magyar Köztársaság és a Szlovén Köztársaság között kötött, a Kulturális, Oktatási és Tudományos Együttműködésről szóló Egyezmény 5. Cikke alapján,[^1]
+
+– a Ljubljanában, 1995. december hó 15. napján aláírt, a Magyar Köztársaság Kormánya és a Szlovén Köztársaság Kormánya közötti 1996–1998. évi Oktatási, Kulturális és Tudományos Együttműködési Program első fejezetének 3. Cikke értelmében,
+
+– azzal a szándékkal, hogy a baráti együttműködést a kultúra, a tudomány, az oktatás, valamint a mobilitás terén továbbfejlesszék,
+
+– figyelembe véve az 1997. április 11-i Egyezményt a Felsőoktatási Képesítések Elismeréséről az Európai Régióban,
+
+– és tekintettel a CEEPUS regionális programban, valamint az Európa Tanács és az UNESCO tagállamainak az oktatás terén a nemzetközi cserék harmonizációjában elért sikerére,
+
+az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+A Magyar Köztársaságban az általános iskola nyolcadik évfolyamának elvégzéséről kiállított bizonyítványt és a Szlovén Köztársaságban az általános iskola elvégzéséről kiállított bizonyítványt a Szerződő Felek kölcsönösen elismerik, és azok a további képzésbe való bekapcsolódásra jogosítanak a másik Szerződő Fél országában.
+
+*2. Cikk*
+
+A Magyar Köztársaságban kiállított érettségi bizonyítványt és a Szlovén Köztársaságban kiállított érettségi bizonyítványt a Szerződő Felek kölcsönösen elismerik, és azok a további képzésbe való bekapcsolódásra jogosítanak a Szerződő Felek jogszabályainak megfelelően.
+
+A Magyar Köztársaság elismeri a Szlovén Köztársaságban kiállított középiskolai végzettséget tanúsító záróvizsga bizonyítványt, amely továbbtanulásra jogosít felsőoktatási szakirányú intézményben, és a továbbtanulást tekintve ugyanolyan jogokat biztosít mint a Szlovén Köztársaság.
+
+*3. Cikk*
+
+A Magyar Köztársaságban kiállított szakképesítést igazoló bizonyítványt és a Szlovén Köztársaságban kiállított, alapfokú és középfokú szakképesítő bizonyítványt, a szakközépiskola eredményes elvégzését tanúsító záróvizsga bizonyítványt a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés időtartamát és tartalmát.
+
+A Magyar Köztársaságban kiállított mestervizsga-bizonyítványt és a Szlovén Köztársaságban kiállított, mestervizsga- és az ehhez hasonló vizsgabizonyítványokat (pl. művezetői és üzletvezetői vizsgabizonyítványokat) kölcsönösen elismerik.
+
+*4. Cikk*
+
+A Magyar Köztársaságban kiállított kétéves akkreditált felsőfokú szakképzésben szerzett bizonyítványt és a Szlovén Köztársaságban kiállított, államilag elismert kétéves, felsőfokú szakirányú alapképzésben szerzett oklevelet a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés tartalmát.
+
+*5. Cikk*
+
+A Magyar Köztársaságban kiállított, legalább hároméves főiskolai alapképzésben szerzett oklevelet és a Szlovén Köztársaságban kiállított, legalább hároméves, államilag elismert főiskolai szakirányú alapképzésben szerzett oklevelet a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés időtartamát és tartalmát.
+
+*6. Cikk*
+
+A Magyar Köztársaságban kiállított, legalább négyéves egyetemi alapképzésben szerzett oklevelet és a Szlovén Köztársaságban kiállított, legalább négyéves, államilag elismert egyetemi alapképzésben szerzett oklevelet a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés időtartamát és tartalmát.
+
+*7. Cikk*
+
+A Magyar Köztársaságban kiállított, legalább egyéves posztgraduális szakirányú továbbképzésben szerzett szakosító okleveleket és a Szlovén Köztársaságban kiállított, legalább egyéves, államilag elismert posztgraduális szakirányú továbbképzésben szerzett szakosító okleveleket a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés időtartamát és tartalmát.
+
+A Magyar Köztársaságban kiállított kétéves, államilag elismert egyetemi posztgraduális szakirányú továbbképzésben szerzett szakosító oklevelet és a Szlovén Köztársaságban kiállított kétéves, államilag elismert posztgraduális továbbképzésben szerzett magiszteri oklevelet a Szerződő Felek kölcsönösen elismerik, figyelembe véve a képzés tartalmát.
+
+*8. Cikk*
+
+A Magyar Köztársaságban szerzett doktori (PhD), illetve a művészetek terén megszerezhető mester (DLA) fokozatot tanúsító oklevelet és a Szlovén Köztársaságban államilag elismert posztgraduális továbbképzés során szerzett tudományok doktora fokozatot tanúsító oklevelet a Szerződő Felek kölcsönösen elismerik.
+
+*9. Cikk*
+
+A Szerződő Felek érvényes rendelkezéseinek megfelelően, azok a magyar és szlovén állampolgárok, akik megfelelnek mindazoknak a képesítési és egyéb követelményeknek, amelyek szükségesek a nevelői és az oktatói munkakör ellátására az egyik Szerződő Félnél, a megfelelő végzettséget tanúsító bizonyítványuk vagy oklevelük honosítása nélkül, vendégtanárként, meghatározott időre, részt vehetnek a képzésben, vagy részt vehetnek a nevelői és az oktatói munkában a másik Szerződő Fél közoktatásában és szakképzésében.
+
+*10. Cikk*
+
+Az Egyezmény rendelkezései azokra az iskolai végzettséget tanúsító bizonyítványokra és oklevelekre vonatkoznak, amelyeket a Magyar Köztársaságban és a Szlovén Köztársaságban az Egyezmény hatálybalépését követően állítottak ki.
+
+A Magyar Népköztársaságban és a Jugoszláv Szocialista Szövetségi Köztársaságban kiállított, iskolai végzettségeket tanúsító bizonyítványok, valamint oklevelek egyenértékűségének kölcsönös elismeréséről szóló, Budapesten, az 1980. évi március hó 7. napján aláírt megállapodást a Magyar Köztársaság és a Szlovén Köztársaság közötti kapcsolatok során alkalmazzák azokra a bizonyítványokra, oklevelekre, amelyeket a Szerződő Feleknél szereztek meg az Egyezmény hatálybalépését megelőzően.[^2]
+
+E Cikk második bekezdésében említett Egyezmény alapján, a Szerződő Felek a kibocsátás időpontjától függetlenül ismerik el
+
+– a Magyar Köztársaságban szerzett tudomány(ok) kandidátusa okleveleket, amelyek elnyerése céljából a disszertációt legkésőbb 1997. szeptember 1-jéig nyújtották be,
+
+– a Szlovén Köztársaságban kiállított, az 1995/96-os tanévig bezárólag az egyetemek által meghirdetett kétéves képzés alapján szerzett okleveleket.
+
+*11. Cikk*
+
+Az a bizonyítvány vagy oklevél, amelyet a jelen Egyezmény rendelkezéseinek megfelelően ismertek el, a Szerződő Felek országaiban továbbtanulásra, illetőleg foglalkozás gyakorlására jogosít, azok hatályos jogszabályainak megfelelően.
+
+A jelen Egyezmény hatálya alá tartozó bizonyítványok és oklevelek által tanúsított szakképesítés elismerése a Szerződő Felek hatályos jogszabályainak megfelelően történik.
+
+*12. Cikk*
+
+A Szerződő Felek az egymáshoz hasonlítható bizonyítványok és oklevelek elnevezését tartalmazó jegyzék elkészítésére, az eltérő képzési rendszerből fakadó kérdések megoldására, a jogszabályi változásokról való tájékoztatásra, valamint az esetleges kérdések megvitatására Vegyes Bizottságot hoznak létre, amely szükség szerint, de évente legalább egy alkalommal ülésezik.
+
+Az ülés helyét a Szerződő Felek diplomáciai úton egyeztetik.
+
+*13. Cikk*
+
+Az Egyezmény azon hónapot követő harmadik hónap első napján lép hatályba, amelyben a Szerződő Felek diplomáciai úton írásban közölték egymással, hogy a hatálybalépéshez a mindenkori honi követelményeket teljesítették.
+
+Az Egyezmény határozatlan időre szól. Bármely Szerződő Fél, bármely időpontban, diplomáciai úton, az egyéves felmondási idő betartásával, írásban felmondhatja.
+
+Kelt Ljubljanában, 1999. február 5-én, két eredeti példányban, magyar és szlovén nyelven, amelyből mindkét szöveg egyaránt hiteles.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Szlovén Köztársaság\
+Kormánya részéről''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 2000. szeptember 1. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról az oktatási miniszter gondoskodik.
+
+---
+
+[^1]: Lásd a 91/1994. (VI. 10.) Korm. rendeletet.
+[^2]: Lásd a 23/1981. (VIII. 10.) MT rendeletet.

@@ -1,0 +1,173 @@
+---
+title: "56/1994. (IV. 16.) Korm. rendelet az európai, nem menetrend szerinti légi járatok kereskedelmi jogairól szóló 1956. évi Egyezményhez történt csatlakozás kihirdetéséről"
+identifier: "56/1994. (IV. 16.) Korm. rendelet"
+njt_id: "1994-56-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/56"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-04-16
+in_force_from: 1994-04-16
+last_amended: 1994-04-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-56-20-22"
+retrieved: 2026-10-12
+---
+
+# 56/1994. (IV. 16.) Korm. rendelet az európai, nem menetrend szerinti légi járatok kereskedelmi jogairól szóló 1956. évi Egyezményhez történt csatlakozás kihirdetéséről
+
+*[A csatlakozás utólagos jóváhagyásáról szóló okiratot a Magyar Köztársaság külügyminisztere 1993. november 16-án a Nemzetközi Polgári Repülési Szervezet (ICAO) főtitkáránál letétbe helyezte.]*
+
+## 1. §
+
+A Kormány az európai, nem menetrend szerinti légi járatok kereskedelmi jogairól szóló 1956. évi Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény magyar fordítása a következő:
+
+,,
+
+Sokoldalú Megállapodás\
+az európai, nem menetrend szerinti légi közlekedés\
+kereskedelmi jogairól
+
+Az alulírott kormányok,
+
+*figyelembe véve,* hogy mindegyik Szerződő Államnak az a törekvése, hogy szabadon beengedje területére azokat az európai nem menetrend szerinti kereskedelmi repülésekhez alkalmazott légijárműveket, amelyek menetrendszerű légiforgalmi járataik érdekeit nem sértik, abból a célból, hogy forgalmat (utast, árut vagy postát) vegyenek fel vagy rakjanak ki, továbbá
+
+*tekintettel arra,* hogy a nemzetközi polgári repülésről, Chicagóban, 1944. december 7-én kötött Egyezmény (a továbbiakban: Egyezmény) 5. Cikkelyének 1. bekezdése rendelkezéseiben foglalt eljárás kielégítő (ez az eljárás a magán és kereskedelmi légijárművek olyan nemzetközi repüléseinél kerül alkalmazásra, amelyek a nem menetrend szerinti légi közlekedés körében repülnek be az ország területére, vagy leszállás nélkül átrepülnek az Egyezményben részes országok területén, és ugyanígy a szóban forgó területeken végzett nem kereskedelmi célú leszállásokra), és
+
+*attól a kívánságtól vezérelve,* hogy egy további megállapodáshoz jussanak el arra nézve, hogy kereskedelmi légijárműveiknek joga legyen az említett Egyezmény 5. Cikkelyének 2. bekezdésében szabályozott menetrendszerű nemzetközi légi járatokon kívül, utasokat, árut és postai küldeményeket felvenni vagy kirakni,
+
+*ebből a célból* a következő Megállapodást kötötték:
+
+*1. Cikk*
+
+Ez a Megállapodás bármely polgári légijárműre vonatkozik
+
+*a)* melyet az Európai Polgári Repülési Konferencia valamelyik tagállamában lajstromoztak, és
+
+*b)* melyet a Szerződő Államok egyikének olyan állampolgára üzemeltet, akit erre ennek az államnak az illetékes nemzeti hatósága felhatalmazott,
+
+amikor ez a légijármű a menetrend szerinti nemzetközi légi járatokon kívül kerül alkalmazásra bérleti vagy egyéb díj ellenében végzett nemzetközi repülésekhez a jelen Egyezmény 11. Cikke szerint meghatározott területeken.
+
+*2. Cikk*
+
+1\. A Szerződő Államok megállapodnak abban, hogy a jelen Megállapodás 1. Cikkében megnevezett légijárműveket szabadon beengedik területükre a forgalom felvétele vagy kirakása céljából, éspedig az Egyezmény 5. Cikk 2. bekezdésében foglalt ,,előírások, feltételek vagy korlátozások'' alkalmazása nélkül, amennyiben ezeket a légijárműveket a következő tevékenységek valamelyikére használják fel:
+
+*a)* szükséghelyzetben lévők megsegítésére szolgáló repülések;
+
+*b)* alkalmi jellegű és megrendelésre végzett légitaxi repülések, feltéve, hogy a légijármű kapacitása nem több, mint 6 férőhely és, hogy a rendeltetési helyet a bérlő vagy bérlők választják ki és, hogy a légijármű említett férőhelyeinek egy részét sem értékesítik a közönség részére;
+
+*c)* olyan repülések, amelyeknél a teljes kapacitást egyetlen személy — magánszemély, cég, társaság vagy intézmény — bérli személyzetének vagy áruinak szállítására, de azzal a feltétellel, hogy a kapacitás semmilyen részét sem értékesítik a közönség részére;
+
+*d)* olyan egyedi repülések, amelyeknél egyetlen vállalkozó vagy a vállalkozók egyetlen csoportja sincs ezen alpont szerint havonta egynél több repülésre feljogosítva a két azonos forgalmi központ között a rendelkezésére álló valamennyi légijárművel.
+
+2\. Ugyanez az eljárás érvényes azokra a légijárművekre, amelyeket a következő szállításfajták valamelyikéhez alkalmaznak:
+
+*a)* kizárólag légi árufuvarozásra,[^1]
+
+*b)* utasok szállítására olyan területek között, amelyeknek nincsen elegendő közvetlen összeköttetése menetrendszerű légi járatok útján,
+
+feltéve azonban, hogy mindegyik Szerződő Állam kérheti a jelen bekezdésben meghatározott szállításfajták, illetve szállításmódok leállítását, ha úgy értékeli, hogy ezek hátrányosan befolyásolják azon menetrendszerű légi járatainak érdekeit, amelyeket azokon a területeken üzemeltetnek, ahol az Egyezmény érvényes; mindegyik Szerződő Állam teljes körű tájékoztatást követelhet a szóban forgó szállítási módok mindegyikének jellegéről és terjedelméről, amelyeket végrehajtottak,
+
+továbbá a jelen bekezdés *b)* pontjában említett szállításfajta, illetve szállításmód tekintetében a Szerződő Állam szabadon megállapíthatja a területek terjedelmét (beleértve a repülőtér vagy légikikötő terjedelmét is), ezt a meghatározást bármikor módosíthatja, és azt is meghatározhatja, hogy az ilyen területek rendelkeznek-e elegendő közvetlen összeköttetéssel a menetrendszerű légi járatok útján.
+
+*3. Cikk*
+
+A Szerződő Államok megállapodnak továbbá abban, hogy a 2. Cikkben nem említett egyéb esetekre nézve, amelyeknél ők az Egyezmény 5. Cikk 2. bekezdésének megfelelően a nem menetrend szerinti repülésekre vonatkozó előírások, feltételek és korlátozások betartását kívánják, ezeket az előírásokat, feltételeket és korlátozásokat mindegyik Szerződő Állam nyilvános előírásban fogja rögzíteni, ami a következőket kell hogy tartalmazza:
+
+*a)* azt a határidőt, ameddig a szükséges adatokat be kell nyújtani (amennyiben szükséges egy, az előzetes engedélyezésre irányuló kérelemmel); ez a határidő nem tehet ki többet két teljes munkanapnál egy egyedi repülés esetében, vagy egy négy repülésnél nem többet magában foglaló sorozatnál; a nagyobb repüléssorozatok esetében hosszabb határidőt lehet meghatározni,
+
+*b)* a Szerződő Államnak azt a légügyi hatóságát, amelyhez ezeket az adatokat (és ha kell kérelmet) közvetlenül, diplomáciai út igénybevétele nélkül be lehet nyújtani,
+
+*c)* a benyújtandó adatoknak egyedi repülés vagy egy négynél nem hosszabb repüléssorozat esetén, csak a következőket kell tartalmazniuk:
+
+*(i)* az üzemeltető társaság neve
+
+*(ii)* a légijármű típusa és lajstromjele
+
+*(iii)* a Szerződő Állam területére történő megérkezés és az onnan történő elrepülés napja és előrelátható időpontja
+
+*(iv)* a légijármű repülési útvonala
+
+*(v)* a repülés célja, az utasok száma, a felvételre, illetve kirakásra kerülő rakomány jellege és mennyisége.
+
+*4. Cikk*
+
+1\. Amennyiben a Szerződő Államok között véleményeltérés adódik ennek a Megállapodásnak az értelmezése vagy alkalmazása tekintetében, akkor először arra kell törekedniük, hogy azt egymásközi tárgyalásokkal rendezzék.
+
+2\. *a)* Ha nem tudnak megegyezni, megállapodhatnak abban, hogy a véleményeltérést döntés végett egy választottbíróság vagy egy választottbíró elé terjesztik.
+
+*b)* Amennyiben a választottbírósági ítélettel történő rendezésről nem állapodnak meg egy hónapon belül azt követően, hogy az egyik ország közölte azt a szándékát a másik országgal, hogy választottbírósághoz fordul, vagy amennyiben a megállapodást követő további 3 hónap alatt a véleményeltérést nem terjesztik elő választottbírósági döntésre, illetve nem érnek el megegyezést a választottbíróság összetétele vagy a választottbíró személye tekintetében, akkor mindegyik Szerződő Állam jogosult a véleményeltérést döntés végett a Nemzetközi Polgári Repülési Szervezet Tanácsa elé terjeszteni.
+
+A Tanács egyik tagja sem szavazhat olyan véleményeltérésről a Tanács általi eljárás során, amelyikben ő félként szerepel. Ha a Tanács kijelenti, hogy nem hajlandó a véleményeltérés tisztázására, azt mindegyik állam a Nemzetközi Bíróság elé terjesztheti.
+
+3\. A Szerződő Államok kötelezettséget vállalnak arra, hogy a jelen Cikk 2. bekezdése szerint hozott valamennyi döntésnek eleget tesznek.
+
+4\. Amennyiben és amíg a Szerződő Államok valamelyike nem tesz eleget a jelen Cikk 2. bekezdése szerint hozott valamennyi döntésnek, a többi Szerződő Állam korlátozhatja, visszatarthatja vagy visszavonhatja a jelen Megállapodás alapján neki biztosított jogokat.
+
+*5. Cikk*
+
+1\. Ez a Megállapodás nyitva áll aláírásra az Európai Polgári Repülési Konferencia tagállamai számára.
+
+2\. A Megállapodáshoz szükséges az azt aláíró Államok ratifikálása.
+
+3\. A megerősítő okmányokat a Nemzetközi Polgári Repülési Szervezetnél kell letétbe helyezni.
+
+*6. Cikk*
+
+1\. Amint az aláíró Államok közül kettő letétbe helyezte a jelen Megállapodásra vonatkozó ratifikációs okmányait, közöttük a Megállapodás a második ratifikációs okmány letétbe helyezésétől számított 3 hónap múlva hatályba lép.
+
+2\. Amint ez a Megállapodás hatályba lép, a Nemzetközi Polgári Repülési Szervezet főtitkárának nyilvántartásba kell vétetnie azt az Egyesült Nemzeteknél.
+
+*7. Cikk*
+
+1\. Ez a Megállapodás a hatálybalépésétől számított 6 hónapon át nyitva marad aláírásra. Ezután továbbra is nyitva marad a csatlakozásra minden, az Egyezményt nem aláírt Állam számára, amely tagállama az Európai Polgári Repülési Konferenciának.
+
+2\. Bármely Állam csatlakozása egy csatlakozási okiratnak a Nemzetközi Polgári Repülési Szervezetnél való letétbe helyezésével történik, és a letétbe helyezés napját követő 3 hónap múlva válik hatályossá.
+
+*8. Cikk*
+
+1\. Mindegyik Szerződő Állam felmondhatja ezt az Egyezményt a felmondásnak az Európai Polgári Repülési Konferencia elnökéhez és a Nemzetközi Polgári Repülési Szervezethez történő eljuttatásával.
+
+2\. A felmondás 6 hónappal azt követően válik hatályossá, hogy a Nemzetközi Polgári Repülési Szervezet megkapta a felmondásról szóló értesítést.
+
+*9. Cikk*
+
+1\. A Nemzetközi Polgári Repülési Szervezet főtitkárának értesítenie kell az Európai Polgári Repülési Konferencia elnökét és valamennyi tagállamát:
+
+*a)* minden ratifikációs vagy csatlakozási okirat letétbe helyezéséről és annak dátumáról a letétbe helyezését követő 30 napon belül,
+
+*b)* a felmondás kézhezvételét és annak dátumát, a kézhezvételt követő 30 napon belül.
+
+2\. A Nemzetközi Polgári Repülési Szervezet főtitkárának értesítenie kell az Európai Polgári Repülési Konferencia elnökét és tagállamait a Megállapodás 6. Cikk 1. bekezdése szerinti hatálybalépés időpontjáról.
+
+*10. Cikk*
+
+1\. A Szerződő Államok legalább huszonöt (25) százaléka jogosult arra, hogy egy, a Nemzetközi Polgári Repülési Szervezethez intézett, de legkorábban tizenkettő (12) hónappal a Megállapodás hatálybalépése után benyújtott indítvánnyal a Szerződő Államok értekezletének összehívását javasolja olyan esetleges módosítások megvizsgálására, amiket ezen Szerződő Államok kívánnak előterjeszteni.
+
+Az ilyen értekezletet a Nemzetközi Polgári Repülési Szervezetnek az Európai Polgári Repülési Konferencia elnökével egyetértésben a Szerződő Államoknak legalább 3 hónappal előbb történő értesítésével kell összehívnia.
+
+2\. A Megállapodás bármely javasolt módosítását az említett értekezleten a Szerződő Államok többségének kell elfogadnia, ahol a Szerződő Államok kétharmada szükséges a határozatképesség eléréséhez.
+
+3\. A módosítás, azokkal az Államokkal szemben, amelyek az érintett módosítást ratifikálták, egy, az említett értekezlet által meghatározott számú Szerződő Állam részéről történt ratifikálást követően és az értekezlet által meghatározott időpontban lép hatályba.
+
+*11. Cikk*
+
+1\. Ez a Megállapodás a Szerződő Államok anyaországának valamennyi területére nézve alkalmazásra kerül, kivéve az Atlanti-óceánon lévő szigeteket és a félfüggetlenségi státussal rendelkező szigeteket, amelyekkel kapcsolatban bármelyik Szerződő Állam kijelentheti a ratifikációs vagy csatlakozási okirat letétbe helyezésének időpontjában, hogy a jelen Megállapodás érvénye azokra nem kerül alkalmazásra.
+
+Fentiek hiteléül a szabályszerűen meghatalmazott alulírottak kormányuk nevében aláírták ezt az okiratot.
+
+Kelt Párizsban, 1956. április 30-án két példányban, angol, francia és spanyol nyelven, melyek szövege egyformán hiteles. Ez az Egyezmény a Nemzetközi Polgári Repülési Szervezetnél kerül letétbe helyezésre, amely a Megállapodás hitelesített másolatait eljuttatja összes tagországának.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1994. február 14. napjától kell alkalmazni.
+
+(2) A rendelet végrehajtásáról a közlekedési, hírközlési és vízügyi miniszter gondoskodik.
+
+---
+
+[^1]: A Magyar Közlöny 1994. évi 47. számában megjelent helyesbítésnek megfelelő szöveg.

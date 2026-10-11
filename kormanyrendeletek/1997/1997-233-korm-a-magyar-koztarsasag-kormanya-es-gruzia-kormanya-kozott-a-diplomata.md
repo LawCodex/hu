@@ -1,0 +1,98 @@
+---
+title: "233/1997. (XII. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és Grúzia Kormánya között a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodás kihirdetéséről"
+identifier: "233/1997. (XII. 17.) Korm. rendelet"
+njt_id: "1997-233-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1997/Korm/233"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1997-12-17
+in_force_from: 1997-12-17
+last_amended: 1997-12-17
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1997-233-20-22"
+retrieved: 2026-10-12
+---
+
+# 233/1997. (XII. 17.) Korm. rendelet a Magyar Köztársaság Kormánya és Grúzia Kormánya között a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodás kihirdetéséről[^1]
+
+## 1. §
+
+A Kormány e rendelettel a Magyar Köztársaság Kormánya és Grúzia Kormánya között 1997. szeptember 30-án aláírt, a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló Megállapodást kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és Grúzia Kormánya között a diplomata- és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről
+
+A Magyar Köztársaság Kormánya és Grúzia Kormánya (a továbbiakban: Szerződő Felek)
+
+attól a szándéktól vezérelve, hogy elősegítsék a baráti kapcsolatok fejlődését, a gazdasági, kereskedelmi műszaki-tudományos, kulturális és más területekre kiterjedő együttműködés megszilárdítását,
+
+azzal a szándékkal, hogy elősegítsék a két ország diplomata- és szolgálati útlevéllel rendelkező állampolgárainak kölcsönös utazásait,
+
+az alábbiakról állapodtak meg:
+
+*1. Cikk*
+
+(1) Az egyik Szerződő Fél azon állampolgárai, akik érvényes diplomata- vagy szolgálati útlevéllel rendelkeznek, vízum nélkül léphetnek be és ki a nemzetközi személyforgalom számára kijelölt határátkelőhelyeken, tranzitutasként áthaladhatnak, illetve ideiglenesen a másik Szerződő Fél területén tartózkodhatnak a jelen Megállapodásban előirányzott feltételek mellett. A vízum nélkül tartózkodás határideje a Szerződő Felek területén nem haladhatja meg a belépéstől számított 30 napot.
+
+(2) Amennyiben az egyik Szerződő Fél állampolgárai harminc napnál hosszabb ideig kívánnak tartózkodni a másik Szerződő Fél területén, az állampolgárságuk szerinti állam diplomáciai vagy konzuli képviseletének írásos kérelmére a másik Szerződő Fél külügyminisztériuma – a Szerződő Felek országában hatályos jogszabályi rendelkezések szerint – meghosszabbíthatja az állampolgárok tartózkodási idejét a belépéstől számított legfeljebb 90 nap időtartamig.
+
+*2. Cikk*
+
+(1) Az egyik Szerződő Fél érvényes diplomata- vagy szolgálati útlevéllel rendelkező azon állampolgárai, akik a másik Szerződő Fél országa területén működő diplomáciai vagy konzuli képviseleten teljesítenek szolgálatot, a szolgálatuk teljes időtartama alatt vízum nélkül léphetnek a fogadó Szerződő Fél államának területére, és ott vízum nélkül tartózkodhatnak és vízum nélkül utazhatnak ki onnan.
+
+(2) Az (1) bekezdés szerinti jogosultságok vonatkoznak mindkét ország azon állampolgáraira is, akik az egyik Szerződő Fél államának képviselői olyan nemzetközi szervezetnél, amelynek székhelye a másik Szerződő Fél államának területén van, vagy ilyen nemzetközi szervezetben teljesítenek szolgálatot, ha e személyek érvényes diplomata- vagy szolgálati útlevéllel rendelkeznek.
+
+(3) Az (1) és (2) bekezdésben említett személyek szolgálatának időtartamára a velük közös háztartásban élő házastársukat és gyermeküket is megilletik az (1) bekezdés szerinti jogosultságok, ha ők maguk is érvényes magyar vagy grúz diplomata- vagy szolgálati útlevéllel rendelkeznek, illetőleg, ha a gyermek a szülő diplomata- vagy szolgálati útlevelébe van bejegyezve.
+
+*3. Cikk*
+
+(1) Az egyik Szerződő Fél állampolgárai a másik Szerződő Fél területén történő tartózkodásuk idején kötelesek ezen Fél jogszabályait betartani.
+
+(2) Az egyik Szerződő Félnek joga van a másik Szerződő Fél állampolgára beutazásának megtagadására vagy tartózkodási időtartamának csökkentésére. A Szerződő Fél e döntést indokolni nem köteles.
+
+(3) Jelen Megállapodás alkalmazását közrendi, közbiztonsági vagy közegészségügyi okból bármelyik Szerződő Fél egészében vagy részben átmenetileg felfüggesztheti. A felfüggesztésről és annak visszavonásáról a másik Szerződő Felet diplomáciai úton haladéktalanul, de 24 óránál nem később tájékoztatni kell.
+
+*4. Cikk*
+
+A Szerződő Felek külügyminisztériumai a Megállapodás aláírását követően diplomáciai úton haladéktalanul, de legkésőbb a hatálybalépést megelőzően tizenöt nappal megküldik egymásnak a Megállapodás hatálya alá tartozó útlevelek mintapéldányait, illetőleg új útlevelek bevezetése előtt legalább harminc nappal átadják egymásnak azok mintapéldányait.
+
+*5. Cikk*
+
+(1) Az egyik Szerződő Fél diplomata- vagy szolgálati útlevéllel rendelkező állampolgára úti okmányának a másik Szerződő Fél területén történő elvesztését vagy megrongálódását a másik Szerződő Fél külügyminisztériumánál köteles bejelenteni.
+
+(2) Az (1) bekezdésben említett elveszített vagy megrongálódott úti okmány helyett az állampolgárság szerinti állami diplomáciai vagy konzuli képviselete új úti okmányt állít ki. Az így kiadott úti okmánnyal a fogadó állam külügyminisztériuma által adott kiutazási engedély birtokában lehet kiutazni.
+
+*6. Cikk*
+
+A jelen Megállapodás során felmerülő vitákat és nézeteltéréseket a Szerződő Felek tárgyalások és konzultációk útján rendezik.
+
+*7. Cikk*
+
+(1) A Megállapodás az aláírását követő harmincadik napon lép hatályba.
+
+(2) Jelen Megállapodás határozatlan ideig érvényes, és mindaddig hatályban marad, amíg bármelyik Szerződő Fél írásban, diplomáciai úton fel nem mondja. A Megállapodás a felmondásról szóló értesítésnek a másik Szerződő Fél által történt kézhezvételétől számított hatvanadik napon veszti hatályát.
+
+(3) A jelen Megállapodás hatálybalépésétől kezdve a Szerződő Felek között a Magyar Népköztársaság Kormánya és a Szovjet Szocialista Köztársaságok Szövetségének Kormánya között 1978. november 24-én, Budapesten, az állampolgárok kölcsönös vízummentes utazásainak feltételeiről megkötött Egyezmény, valamint annak kiegészítő rendelkezései hatályukat vesztik.
+
+Kelt Tbilisziben, 1997. szeptember hó 30. napján, két eredeti példányban, mindkettő magyar, grúz és orosz nyelven, mindegyik szöveg egyaránt hiteles. A jelen Megállapodás rendelkezéseinek értelmezésével kapcsolatos nézeteltérések esetén az orosz nyelvű szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+Grúzia Kormánya\
+nevében''
+
+## 3. §
+
+E rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1997. október hó 30. napjától kell alkalmazni.
+
+---
+
+[^1]: A Korm. rendelet 1997. december 17-én lép hatályba, rendelkezéseit azonban 1997. november 30. napjától kell alkalmazni.

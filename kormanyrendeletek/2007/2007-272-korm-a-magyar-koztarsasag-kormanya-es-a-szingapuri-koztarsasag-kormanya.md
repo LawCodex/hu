@@ -1,0 +1,247 @@
+---
+title: "272/2007. (X. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről"
+identifier: "272/2007. (X. 19.) Korm. rendelet"
+njt_id: "2007-272-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2007/Korm/272"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2007-10-19
+in_force_from: 2007-10-20
+last_amended: 2007-10-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2007-272-20-22"
+retrieved: 2026-10-12
+---
+
+# 272/2007. (X. 19.) Korm. rendelet a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás kötelező hatályának elismerésére adott felhatalmazásról és kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a gazdasági együttműködésről szóló megállapodás (a továbbiakban: megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+A megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar fordítása a következő:
+
+„
+
+Agreement\
+between the Government of the Republic of Hungary and the Government of the Republic of Singapore\
+on economic co-operation
+
+The Government of the Republic of Hungary and the Government of the Republic of Singapore, hereinafter referred to as „the Contracting Parties”,
+
+– Desirous of enhancing the long-standing relationship between their countries,
+
+– Wishing to continue and reinforce their existing traditional economic relations,
+
+– With the intention of developing and intensifying their economic, industrial, technical and technological co-operation on the basis of mutual benefit,
+
+– With the conviction that the deepening of the contractual framework establishes favourable conditions and suitable basis for further co-operation,
+
+– Within the framework of the respective legislation in force in the two countries and in full conformity with their international obligations
+
+have agreed as follows:
+
+*Article 1*
+
+The main objective of this Agreement is to promote and develop bilateral economic co-operation.
+
+The Contracting Parties shall, within the framework of their respective legislation in force, make every effort to develop and strengthen economic co-operation, on a basis as broad as possible, in all fields deemed to be in their mutual interest and benefit.
+
+*Article 2*
+
+The Contracting Parties, considering the current state and perspectives of economic relations, agree that favourable conditions for long-term co-operation exist, in particular in the following areas:
+
+– Agriculture and food processing industry,
+
+– Energy,
+
+– Electrical and electronic equipment,
+
+– Chemical and petrochemical industry,
+
+– Infrastructure development,
+
+– Water management and forestry industry,
+
+– Health care, medical technology, medical and pharmaceutical industry,
+
+– Tourism,
+
+– Information Technology and Communications,
+
+– Transport,
+
+– Science and technology,
+
+– Co-operation in the markets of third countries.
+
+*Article 3*
+
+The Contracting Parties shall endeavour to broaden and intensify their co-operation through appropriate means, such as:
+
+– Promoting links and strengthening the co-operation between the government institutions, public and private sector organizations through the exchange of economic and business information of mutual interest, as well as the visits of their representatives and other economic and technical delegations,
+
+– Exchanging information on development priorities and encouraging the business circles of both countries to participate in development projects,
+
+– Encouraging the participation in fairs and exhibitions, organizing business events, seminars, symposia and conferences,
+
+– Promoting the stronger participation of small and medium-sized enterprises in bilateral economic relations,
+
+– Encouraging their financial institutions and banking sector to establish closer contacts and strengthen their co-operation respectively,
+
+– Encouraging investment activities, the foundation of joint ventures, establishment of company representations and branch offices,
+
+– Co-operation at the international level on economic issues of mutual interest.
+
+*Article 4*
+
+The Contracting Parties designate respectively the Singapore Ministry of Trade and Industry and the Hungarian Ministry of Economy and Transport, or any other agencies so designated by their respective Governments, as the contact points to promote and facilitate economic co-operation under this Agreement.
+
+The contact points will work with their respective relevant agencies in the implementation of this Agreement.
+
+*Article 5*
+
+Co-operation pursuant to this Agreement shall be carried out in accordance with the national laws and regulations of the Contracting Parties and without prejudice to the fulfillment of the obligation by the Contracting Parties under other bilateral, regional or multilateral agreements in which they are party to.
+
+Consequently the provisions of this Agreement may not be invoked or interpreted in such a way as to invalidate or otherwise affect those obligations, including the obligations of the Republic of Hungary deriving from the Treaties on which the European Union is based.
+
+*Article 6*
+
+Any dispute between the Contracting Parties relating to the interpretation or implementation of this Agreement shall be resolved without unreasonable delay, by friendly consultations and negotiations.
+
+Either Contracting Party may request in writing, amendments to this Agreement. Any amendments agreed to between the Contracting Parties shall come into force thirty (30) days after the Contracting Parties have notified each other of the completion of their respective constitutional and/or legal procedures which may be necessary for giving effect to such amendments.
+
+*Article 7*
+
+This Agreement shall enter into force on the date of exchanging notes indicating the completion of the constitutional and/or legal procedures of both countries. The Agreement shall be valid for a period of five (5) years, and shall be automatically renewed for successive periods of the same duration. Either Party may terminate this Agreement by giving at least six (6) months' notice in writing through diplomatic channels to the other Party of its intention to terminate this Agreement, or may notify the other Party through diplomatic channels that it does not wish to renew this Agreement, not less than six months prior to the date of renewal.
+
+Done and signed in Budapest, on 9<sup>th</sup> of October 2007, in two originals in the English language.
+
+For the Government of\
+the Republic of Hungary
+
+For the Government of\
+the Republic of Singapore
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya között a gazdasági együttműködésről
+
+A Magyar Köztársaság Kormánya és a Szingapúri Köztársaság Kormánya, a továbbiakban a „Szerződő Felek”,
+
+– azzal az óhajjal, hogy elmélyítsék az országaik közötti hosszú távú kapcsolatokat,
+
+– azzal a törekvéssel, hogy fenntartsák és erősítsék tradicionális gazdasági kapcsolataikat,
+
+– azzal a szándékkal, hogy a kölcsönös előnyök alapján fejlesszék, és intenzívebbé tegyék gazdasági, ipari, műszaki és technológiai együttműködésüket,
+
+– azzal a meggyőződéssel, hogy a szerződéses keretek erősítése a további együttműködéshez előnyös feltételeket és megfelelő alapot teremt,
+
+– a két ország hatályos jogrendjének keretei között, és nemzetközi kötelezettségeikkel teljes összhangban,
+
+a következőkben állapodtak meg:
+
+*1. Cikk*
+
+Jelen Megállapodás elsődleges célja a kétoldalú gazdasági együttműködés elősegítése és fejlesztése.
+
+A Szerződő Felek – hatályos jogrendjük keretein belül – mindent megtesznek annak érdekében, hogy a lehető legszélesebb alapokra helyezve fejlesszék és erősítsék a gazdasági együttműködést minden olyan területen, amely kölcsönös érdekeiket és előnyeiket szolgálja.
+
+*2. Cikk*
+
+Figyelembe véve a gazdasági kapcsolatok jelenlegi helyzetét és perspektíváit, a Szerződő Felek egyetértenek abban, hogy különösen a következő területeken kedvezőek a feltételek a hosszú távú együttműködésre:
+
+– mezőgazdaság és élelmiszer-feldolgozó ipar,
+
+– energetika,
+
+– elektromos és elektronikai berendezések,
+
+– vegyipar és petrolkémiai ipar,
+
+– infrastruktúrafejlesztés,
+
+– víz- és erdőgazdálkodás,
+
+– egészségügy, orvostechnológia, gyógyászati és gyógyszeripar,
+
+– turizmus,
+
+– informatika és távközlés,
+
+– közlekedés,
+
+– tudomány és technológia,
+
+– harmadik országok piacain való együttműködés.
+
+*3. Cikk*
+
+A Szerződő Felek törekednek arra, hogy a megfelelő eszközökkel szélesítsék és mélyítsék el együttműködésüket, úgymint:
+
+– a kapcsolatok építésének elősegítése és az együttműködés erősítése a kormányzati intézmények, az állami és a magánszektor szervezetei között a kölcsönös érdeklődésre számot tartó gazdasági és üzleti információk cseréje, valamint képviselőik és más gazdasági és szakmai delegációk látogatásai révén,
+
+– információcsere a fejlesztési prioritásokról és a két ország üzleti köreinek ösztönzése a fejlesztési projektekben való részvételre,
+
+– a vásárokon és kiállításokon történő részvétel bátorítása, üzleti események, szemináriumok, szimpóziumok és konferenciák szervezése,
+
+– kis- és középvállalkozásaik erőteljesebb részvételének ösztönzése a kétoldalú gazdasági kapcsolatokban,
+
+– pénzügyi intézményeik és bankszektoruk bátorítása a szorosabb kapcsolatok létesítésére és együttműködésük erősítésére,
+
+– a beruházási tevékenység, vegyes vállalatok alapításának, képviseletek és fiókvállalatok létesítésének ösztönzése,
+
+– nemzetközi szinten a kölcsönös érdeklődésre számot tartó gazdasági kérdésekben való együttműködés.
+
+*4. Cikk*
+
+A Szerződő Felek a jelen Megállapodás szerinti gazdasági együttműködés elősegítésére és ösztönzésére a szingapúri Kereskedelmi és Ipari Minisztériumot és a magyar Gazdasági és Közlekedési Minisztériumot, illetve a kormányaik által e célra kijelölt más szervezeteket jelölik meg kapcsolattartóként.
+
+A kapcsolattartók a jelen Megállapodás végrehajtása során a megfelelő illetékes szervezeteikkel együtt végzik munkájukat.
+
+*5. Cikk*
+
+A jelen Megállapodás szerinti együttműködést a Szerződő Felek nemzeti jogszabályaikkal összhangban hajtják végre, a Szerződő Felek által kötött más kétoldalú, regionális vagy többoldalú megállapodásból eredő kötelezettségek teljesítésének sérelme nélkül.
+
+Következésképpen a jelen Megállapodás rendelkezései nem idézhetők vagy értelmezhetők úgy, hogy azok érvénytelenítik, vagy másképpen befolyásolják ezeket a kötelezettségeket, beleértve a Magyar Köztársaságnak az Európai Uniót létrehozó szerződésekből eredő kötelezettségeit.
+
+*6. Cikk*
+
+A Szerződő Felek a jelen Megállapodás értelmezésével vagy végrehajtásával kapcsolatos minden vitás kérdést indokolatlan késedelem nélkül, békés konzultáció és tárgyalás útján rendeznek.
+
+Jelen Megállapodás módosítását bármely Szerződő Fél kérheti írásban. A Szerződő Felek megegyezése szerinti módosítások harminc (30) nappal azt követően lépnek hatályba, hogy a Szerződő Felek értesítették egymást az ilyen módosítások hatálybalépéséhez szükséges alkotmányos és/vagy jogi eljárások befejeződéséről.
+
+*7. Cikk*
+
+Jelen Megállapodás a két ország alkotmányos és/vagy jogi eljárásainak elvégzését igazoló jegyzékváltás napján lép hatályba. A Megállapodás öt (5) évig marad hatályban, ezután további, ezzel megegyező időtartamra automatikusan meghosszabbításra kerül. Jelen Megállapodást bármelyik Szerződő Fél felmondhatja, ha a másik Felet hat (6) hónappal előtte diplomáciai úton írásban értesíti a Megállapodás felmondására irányuló szándékáról, vagy a meghosszabbítás esedékessége előtt legkésőbb hat hónappal diplomáciai úton értesíti a másik Felet azon szándékáról, hogy nem kívánja a Megállapodást meghosszabbítani.
+
+Kelt és aláírásra került Budapesten, 2007. október 9. napján, két eredeti példányban, angol nyelven.
+
+A Magyar Köztársaság\
+Kormánya részéről
+
+A Szingapúri Köztársaság\
+Kormánya részéről”
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) E rendelet 2–3. §-a a megállapodás 7. Cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A megállapodás, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külügyminiszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
+
+(4) E rendelet végrehajtásához szükséges intézkedésekről a gazdasági és közlekedési miniszter gondoskodik.
+
+---
+
+[^1]: A 2. § e rendelet 4. § (2) bekezdése alapján a megállapodás 7. Cikkében meghatározott időpontban lép hatályba. A 40/2007. (XII. 19.) KüM határozat alapján a hatálybalépés időpontja 2007. december 7.
+[^2]: A 3. § e rendelet 4. § (2) bekezdése alapján a megállapodás 7. Cikkében meghatározott időpontban lép hatályba. A 40/2007. (XII. 19.) KüM határozat alapján a hatálybalépés időpontja 2007. december 7.
+[^3]: A hatálybalépés időpontja a 40/2007. (XII. 19.) KüM határozat alapján 2007. december 7.
+[^4]: Lásd a 40/2007. (XII. 19.) KüM határozatot.

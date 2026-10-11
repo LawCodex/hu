@@ -1,0 +1,202 @@
+---
+title: "137/1994. (X. 26.) Korm. rendelet a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárásról"
+identifier: "137/1994. (X. 26.) Korm. rendelet"
+njt_id: "1994-137-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/137"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-10-26
+in_force_from: 2008-01-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-137-20-22"
+retrieved: 2026-10-12
+---
+
+# 137/1994. (X. 26.) Korm. rendelet a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárásról
+
+A rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 100. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## Általános szabályok
+
+### 1. §
+
+(1) A rendőrség az egyes személyes javaknak — az Rtv. 26. §-ának (1) bekezdésében meghatározott célból foganatosított — rendőri intézkedés eszközéül történő igénybevétele, továbbá az igénybe vett eszköz visszaadása és az igénybevétel folytán károsult kártalanítása során az e rendeletben foglaltak szerint jár el [Rtv. 26. § (3) bek.].
+
+(2) E rendelet alkalmazásában
+
+a) *a személyes javak körébe tartozik:* a természetes személyek, valamint — a rendőrség kivételével — a jogi személyek és jogi személyiséggel nem rendelkező szervezetek tulajdonába tartozó ingó dolog, függetlenül attól, hogy az a tulajdonos vagy más személy birtokában, használatában áll (a továbbiakban együtt: birtokos);
+
+b) *eszköz:* az a személyes javak körébe tartozó dolog, amely az eljáró rendőr megítélése szerint — a konkrét körülmények között — a rendőri intézkedés elősegítésére alkalmas;
+
+c) *igénybevétel:* az eszköz használatára, illetőleg birtoklására vonatkozó jognak a birtokostól történő ideiglenes elvonására és a rendőrség részére történő átadására irányuló eljárás, továbbá az eszköznek a rendőrség által, az (1) bekezdés szerinti célból történő használata, illetve felhasználása.
+
+(3) Mentes az igénybevétel alól a nemzetközi szerződés alapján kiváltságot és mentességet élvező képviselet, valamint a képviselet — nem magyar állampolgár — személyzetének javai.
+
+## Az igénybevétel
+
+### 2. §
+
+(1) Az eszköz igénybevétele céljából a birtokost — az Rtv.-re történő hivatkozással — fel kell kérni arra, hogy a birtokában lévő eszközt a rendőri intézkedés elősegítése céljából, a rendőrség használatába haladéktalanul engedje át.
+
+(2) A felkéréssel egyidejűleg a birtokost tájékoztatni kell arról, hogy
+
+a) az eszköz használatának átengedése megtagadható, ha az eszköz sérült, beteg vagy egyéb okból magatehetetlen személy sürgős orvosi ellátásának [15/1972. (VIII. 5.) EüM r. 14. §] biztosításához — figyelemmel az intézkedés várható időtartamára is — nélkülözhetetlen, továbbá, ha az átadással a birtokos vagy a személyes segítségre szoruló más személy élete, egészsége vagy a testi épsége egyéb okból közvetlen veszélybe kerül;[^1]
+
+b) az átengedés alaptalan megtagadása esetén az igénybevétel kikényszeríthető;
+
+c) az igénybevétel alaptalan megtagadása vagy akadályozása — ha súlyosabb cselekmény nem valósul meg — szabálysértésnek minősül (Sztv. 98. §).
+
+### 3. §
+
+(1) Ha a birtokos a rendőr felkérésére a birtokában lévő eszköz átengedését a 2. § (2) bekezdésében meghatározott ok hiányában tagadja meg, az intézkedő rendőr az eszköz rendőrségi használatának biztosítása érdekében — a (2) bekezdésben foglalt kivétellel — kényszerítő eszközt alkalmazhat.
+
+(2) Nem alkalmazható kényszerítő eszköz a következő személyekkel és szervezetekkel szemben:
+
+a) külön jogszabályban meghatározott védett személy, valamint az állam működése szempontjából különösen fontos személy;
+
+b) nem magyar állampolgár;
+
+c)[^2] a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek, továbbá a sürgős orvosi ellátásban közreműködő szervezetek, illetve ezek szolgálatban lévő tagja, valamint a Nemzeti Adó- és Vámhivatal vámhatósági és nyomozóhatósági szervei, illetve a Nemzeti Adó- és Vámhivatal szolgálatban lévő, pénzügyőri munkakört betöltő foglalkoztatottja.
+
+### 4. §
+
+(1) Ha az igénybe vett eszköz használata során a birtokostól elkerül, az igénybevétellel egyidejűleg a birtokos részére az eszköz elvitelét igazoló elismervényt kell kiállítani. Az elismervénynek tartalmaznia kell
+
+a) a birtokos nevét, az igénybe vett eszköz megnevezését;
+
+b) az intézkedést foganatosító rendőri szerv nevét és székhelyét, valamint az eljáró rendőr nevét és rendfokozatát;
+
+c) a kiállítás helyét és időpontját.
+
+(2) Az igénybevétellel egy időben
+
+a) a birtokossal közölni kell az igénybevétel célját és várható időtartamát, valamint az igénybe vett eszköz visszaadásának helyét, továbbá fel kell venni a birtokosnak a visszaadáshoz szükséges személyazonosító és lakcím adatait;
+
+b) a birtokost tájékoztatni kell az igénybevétel elleni jogorvoslati lehetőségről, valamint az esetleges kártalanítási igényről és az érvényesítés lehetőségéről.
+
+(3) Az (1) és (2) bekezdésben foglaltak mellőzhetők, ha a tájékoztatás vagy az azzal járó késedelem az intézkedés eredményességét veszélyezteti.
+
+### 5. §
+
+(1) Ha az igénybe vett eszköz használatához szükséges szakértelemmel az intézkedő rendőr nem rendelkezik, vagy az eszköz általa történő személyes használatát más körülmény zárja ki, az eszköz használata a megfelelő szakértelemmel rendelkező más személy közreműködésével is megvalósítható, feltéve, hogy vele szemben kizáró körülmény nem áll fenn.
+
+(2) A közreműködő a segítségnyújtást az Rtv. 26. §-ának (1) bekezdésében foglalt feltételek fennállása esetén tagadhatja meg, a segítségnyújtás nem kényszeríthető ki.
+
+(3) A közreműködésre irányuló felkérésre — az értelemszerű eltérésekkel — a 2. § (1), valamint a (2) bekezdésének a) és c) pontjában foglaltakat kell alkalmazni.
+
+(4) Ha az igénybe vett eszköz használata során és az igénybevétel után a birtokosnál marad, az igénybevétel befejezésekor nyilatkoznia kell arról, hogy igényt tart-e kártalanításra vagy térítésre.
+
+### 6. §
+
+(1) A birtokos az igénybevétellel egyidejűleg köteles az intézkedő rendőrt tájékoztatni az eszköz rendeltetésszerű használatát korlátozó vagy akadályozó okokról, továbbá az eszköz károsodásmentes használatához szükséges feltételekről.
+
+(2) A tájékoztatás elmulasztásából eredő károkért kártalanítás nem jár, kivéve, ha a tájékoztatásra az igénybevétel során nem volt lehetőség, vagy ha az (1) bekezdésben meghatározott okokról a birtokosnak nem volt tudomása.
+
+## A visszaadás
+
+### 7. §
+
+(1) Ha az igénybevétel oka vagy az eszköz további használatának lehetősége megszűnt, az igénybe vett eszközt az intézkedés befejezte után a birtokosnak haladéktalanul vissza kell adni. A visszaadás helye:
+
+a) magánlakás [Rtv. 97. § (1) bek. c) pont] vagy közterületnek nem minősülő egyéb helyen (Rtv. 40. §) történt igénybevétel esetén az igénybevétel helye;
+
+b) a közterületen igénybe vett eszköz esetében — ha a birtokos nyilatkozatából vagy a körülményekből más nem következik — az igénybevétel helye szerint illetékes rendőrkapitányság;
+
+c) a birtokos kérésére a saját vagy a tulajdonos lakóhelye (székhelye, telephelye).
+
+(2) Ha a birtokos eltérően nem rendelkezik, nem kell visszaadni az igénybevétel során rendeltetésszerű használatra alkalmatlanná vált vagy felhasznált eszközt.
+
+(3) A birtokos a rendeltetésszerű használatra alkalmas eszközt az igénybevétel után a rendőrségtől köteles visszavenni.
+
+### 8. §
+
+(1) Az eszköz igénybevételt követő visszaadásáról jegyzőkönyvet kell felvenni. A jegyzőkönyvnek tartalmaznia kell
+
+a) az intézkedést elrendelő rendőri szerv megnevezését és székhelyét, továbbá az eljáró rendőr nevét, rendfokozatát;
+
+b) a birtokos nevét, lakcímét (székhelyét), az igénybe vett eszköz megnevezését és az azonosításához szükséges adatot, továbbá a kártalanításra jogosult nevét és lakcímét (székhelyét, telephelyét), ha nem azonos a birtokossal;
+
+c) az igénybevétel lényeges körülményeit, így különösen kezdetének és befejezésének időpontját, az igénybevétel foganatosításakor a rendőr tájékoztatási kötelezettségének teljesítését vagy elmaradását az ok megjelölésével, a birtokosnak a megtagadási okokkal, valamint az eszköz használatával kapcsolatos nyilatkozatát;
+
+d) a birtokosnak az eszköz visszaadását elismerő nyilatkozatát;
+
+e) a személyes javakban az igénybevétel következtében keletkezett kár leírását;
+
+f) a birtokosnak a kártalanítási és a térítési igényre vonatkozó nyilatkozatát;
+
+g) van-e az igénybevétellel érintett személyes javakra kiterjedő érvényes biztosítási szerződés.
+
+(2) A jegyzőkönyvet — az értelemszerű eltérések figyelembevételével — akkor is fel kell venni, ha az eszköz visszaadására azért nem kerül sor, mert
+
+a) az eszköz rendeltetésszerű használatra alkalmatlanná vált, azt felhasználták, megsemmisült vagy elveszett;
+
+b) az eszköz a rendőrségi célra történő használata során és az igénybevétel befejezése után a birtokosnál maradt;
+
+c) az eszközt a birtokos nem veszi át.
+
+(3) A jegyzőkönyv egy példányát a birtokosnak át kell adni, illetve meg kell küldeni.
+
+## Őrzés, értékesítés
+
+### 9. §
+
+(1) A birtokos által vissza nem vett eszköz megfelelő őrzéséről és tárolásáról — a rendőrség költségén — az igénybevételt foganatosító rendőri szerv gondoskodik.
+
+(2) A rendőrség az őrzés elrendelésétől számított kilencven nap eltelte után az eszközt értékesítheti, ha az őrzés, tárolás költsége aránytalanul magas, egy év elteltével azonban az eszköz e feltétel hiányában is értékesíthető. Az értékesítés időpontjáról a birtokost nyolc nappal előbb írásban értesíteni kell.
+
+(3) Az értékesítésről a birtokost értesíteni kell, és az értékesítésből befolyt vételárat részére ki kell fizetni.
+
+(4) A rendőrség az értékesítésből befolyt vételárat elkülönített számlán kezeli. A birtokos a vételárat — jogcíme megfelelő igazolása esetén — az őrzés elrendelésétől számított 10 éves jogvesztő határidőn belül, bármikor átveheti.
+
+## Kártalanítás, költségtérítés
+
+### 10. §
+
+(1) A rendőrség a kártalanításra jogosultat a személyes javak körébe tartozó eszközzel történt segítségnyújtás miatt elszenvedett károkért és szükséges kiadásokért az Rtv. 26. §-ának (3) bekezdése szerint kártalanítja, illetve költségtérítésben részesíti (a továbbiakban együtt: kártalanítás).
+
+(2) Kártalanítás jár akkor is, ha az igénybe vett eszköz használata a birtokos személyes közreműködésével valósul meg, és a kárt a birtokos közrehatása okozta.
+
+### 11. §
+
+(1) A rendőrség a jegyzőkönyv felvételét követően haladéktalanul intézkedik
+
+a) a birtokos vagyontárgyaiban keletkezett kár nagyságának szakértő útján történő megállapításáról;
+
+b) érvényes biztosítási szerződés esetén a biztosító biztosítási összegre vonatkozó nyilatkozatának beszerzéséről;
+
+c) a jegyzőkönyvben rögzített egyéb károk és felmerült költségek indokoltságának ellenőrzéséről.
+
+(2)[^3] A rendőrség a jegyzőkönyv felvételét követő naptól számított huszonegy napon belül indokolással ellátott határozatban dönt a kártalanítás összegéről, és azzal egyidejűleg intézkedik a kifizetéséről.
+
+## Jogorvoslatok
+
+### 12. §
+
+(1) A rendőri intézkedésekkel szembeni panasznak (Rtv. 93. §) van helye
+
+a) az igénybevétel ellen;
+
+b)[^4] az eszköz visszaadásának, illetőleg a jegyzőkönyv felvételének elmulasztása miatt, ha arra az igénybevétel napját követő öt napon belül nem kerül sor.
+
+(2) Az igénybevétel elleni panasznak az igénybevételre halasztó hatálya nincs.
+
+### 13. §
+
+(1) Ha a kártalanítás a felmerült károkra és kiadásokra nem nyújt fedezetet, a tulajdonos, illetőleg a birtokos a bíróságnál keresettel kérheti teljes kártalanítását. A keresetet az igénybevételt foganatosító rendőri szerv ellen kell megindítani.
+
+(2) Az (1) bekezdés szerinti kereset benyújtásának van helye akkor is, ha az érintett rendőri szerv kártalanítási és térítési kötelezettségének határidőn belül nem tesz eleget.
+
+## Záró rendelkezés
+
+### 14. §
+
+Ez a rendelet a kihirdetése napján lép hatályba.
+
+---
+
+[^1]: A hivatkozott 15/1972. (VIII. 5.) EüM rendelet 14. §-át a 27/1995. (VII. 25.) NM rendelet hatályon kívül helyezte. A sürgős orvosi ellátást azonban nem a 14. §, hanem a a 4. § szabályozza.
+[^2]: A 3. § (2) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 74. §-ával megállapított, a 671/2020. (XII. 28.) Korm. rendelet 2. §-a, a 24/2025. (II. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 11. § (2) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^4]: A 12. § (1) bekezdés b) pontja a 289/2010. (XII. 21.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.

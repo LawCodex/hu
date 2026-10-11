@@ -1,0 +1,291 @@
+---
+title: "25/1999. (II. 12.) Korm. rendelet a légi személyszállítás szabályairól"
+identifier: "25/1999. (II. 12.) Korm. rendelet"
+njt_id: "1999-25-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1999/Korm/25"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1999-02-12
+in_force_from: 2009-10-01
+last_amended: 2024-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1999-25-20-22"
+retrieved: 2026-10-12
+---
+
+# 25/1999. (II. 12.) Korm. rendelet a légi személyszállítás szabályairól
+
+A légiközlekedésről szóló 1995. évi XCVII. törvény 27. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## 1. RÉSZ — BEVEZETŐ RENDELKEZÉSEK
+
+#### A rendelet hatálya
+
+##### 1. §
+
+(1) Az utas és a légitársaság (a továbbiakban együtt: felek) által légi személyszállításra kötött szerződésre a Polgári Törvénykönyvnek (a továbbiakban: Ptk.) a szerződésekre vonatkozó általános, továbbá a vállalkozási szerződésre vonatkozó rendelkezéseit az e rendeletben foglalt kiegészítésekkel kell alkalmazni.
+
+(2) Abban az esetben, ha légi személyszállítás országhatáron túlra vagy országhatáron túlról történik (a továbbiakban: nemzetközi légi személyszállítás), e rendelet rendelkezéseit csak annyiban lehet alkalmazni, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
+
+(3) Ha a légitársaság a légi személyszállítási szerződést
+
+a) maga teljesíti: a légi személyszállítás valamennyi szakaszára,
+
+b) közúti, vasúti, vízi közlekedési szolgáltatóval együttesen teljesíti (összetett légi személyszállítás): a felek eltérő rendelkezésének hiányában a légitársaság által végzett légi személyszállításra
+
+e rendelet előírásait kell alkalmazni.
+
+#### A légi személyszállítási szerződés
+
+##### 2. §
+
+(1) A légi személyszállítási szerződés alapján a légitársaság az utast és poggyászát légijárművel az indulási repülőtérről az érkezési repülőtérre szállítja.
+
+(2) E rendelet alkalmazásában utas az a személy, akit a légitársaság a légi személyszállítási szerződés alapján a légijárművön szállít.
+
+#### Az üzletszabályzat
+
+##### 3. §
+
+(1) A légitársaság a légi személyszállítási szerződésnek a Ptk.-ban és az e rendeletben nem szabályozott részletes feltételeit üzletszabályzatban határozza meg. Az üzletszabályzatra a Ptk.-nak az általános szerződési feltételekre vonatkozó előírásai az irányadók.
+
+(2)[^1] Az üzletszabályzatnak tartalmaznia kell a légi személyszállítási szerződésre vonatkozó jogszabályok rendelkezéseit is, külön – eltérő szedéssel is – megjelölve annak ilyen jellegét. Ha az üzletszabályzat eltérést kíván tenni a jogszabály eltérést engedő szabályától, erre az üzletszabályzatnak a jogszabályi és az üzletszabályzati rendelkezés külön megjelölésével utalnia kell.
+
+(3) A légitársaság a nem menetrend alapján közlekedő járataira külön szabályzatot (a továbbiakban: charter szabályzat) készít. A charter szabályzat az üzletszabályzat részét képezi.
+
+(4)[^2] Az üzletszabályzatot, valamint módosításait a légiközlekedési hatóság hagyja jóvá. A fuvarozó a jóváhagyás után az üzletszabályzatot, valamint módosításait a honlapján az utasok számára hozzáférhetően közzéteszi, arról tájékoztatást ad, valamint az ügyfélszolgálatai helyein – az ott elhelyezett, erről szóló tájékoztatás mellett – lehetővé teszi annak magyar és angol nyelvű változata megismerését és megvásárlását egyaránt.
+
+#### A menetrend
+
+##### 4. §
+
+(1) A légitársaság a rendszeresen közlekedő személyszállító járatairól menetrendet készít, amelynek tartalmaznia kell:
+
+a) a légijáratok megjelölését, útvonalát, az indulási és érkezési repülőteret, a közbenső leszállóhelyeket, valamint az indulási és érkezési időpontokat, továbbá a szállítási osztályokat;
+
+b) a légitársaság által üzemeltetett légijárművek típusait;
+
+c) a légi személyszállításhoz kapcsolódó legfontosabb kiegészítő szolgáltatásokat;
+
+d) a légitársaság más járatához való csatlakozási lehetőségeket;
+
+e) a menetrendi időszak kezdetét és végét.
+
+(2) A légitársaság az ügyfélszolgálati és utaskiszolgáló helyein, légijárművein – az ott elhelyezett, erről szóló tájékoztatás mellett – lehetővé teszi a menetrend magyar és angol nyelvű változatának megismerését és megvásárlását egyaránt.
+
+## 2. RÉSZ — A SZEMÉLY- ÉS POGGYÁSZSZÁLLÍTÁS
+
+### I. Fejezet — A légi személyszállítási szerződés megkötése
+
+##### 5. §
+
+(1) A légi személyszállítási szerződés a szállítás elvállalásával jön létre.
+
+(2) A légitársaság a szerződést akkor vállalja el, amikor az utas a légi személyszállítás ellenértékét (a továbbiakban: viteldíj) megfizeti, és a légitársaság ezzel egyidejűleg az utas menetjegyét kiadja; a poggyászfuvarozást pedig akkor, amikor az utas jegyére a poggyászra vonatkozó darabszám- és súlyadatokat rávezeti.
+
+#### A menetjegy
+
+##### 6. §
+
+(1) Az utasnak a légi személyszállítás megkezdésekor menetjeggyel kell rendelkeznie. A menetjegy igazolja a légi személyszállítási szerződés megkötését, valamint a poggyász szállításra való átvételét. A menetjegy elvesztése, szabálytalan, sérült volta a légi személyszállítási szerződés érvényességét nem érinti.
+
+(2) A menetjegy fajtáira (ideértve a személyszállításnak az elektronikus eszköz felhasználásával történő elvállalása esetén kiadott igazolószelvényt is), tartalmára, kiállítására, érvényességére, felhasználására és pótlására vonatkozó részletes feltételeket a légitársaság az üzletszabályzatban állapítja meg.
+
+#### A menetjegy kiállítása
+
+##### 7. §
+
+(1)[^3] Magyarország területén légi személyszállításra menetjegyet abban az esetben lehet kiállítani, ha
+
+a)[^4] a légitársaság Magyarország területén képviseleti irodával rendelkezik;
+
+b)[^5] a légitársaságnak belföldi székhelyű polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettel értékesítési szerződése van.
+
+(2) Nemzetközi légi személyszállítás esetén a menetjegy kiállítása a Légiszállítók Nemzetközi Szövetsége (IATA) által meghatározott szabályok szerint történik.
+
+(3)[^6]
+
+#### Az utaslista
+
+##### 8. §
+
+(1) A légitársaság a légi személyszállítás megkezdése előtt a járatra felvett személyek nevével utaslistát készít, azt az adatvédelmi szabályoknak megfelelően kezeli, és a szállítás befejezésétől számított legalább 60 napig megőrzi.
+
+(2) A légiközlekedés ellenőrzésére jogosult hatóságok és a nemzetbiztonsági szolgálatok – hatáskörükön belül és az adatvédelmi szabályok betartásával – az utaslistát megtekinthetik.
+
+### II. Fejezet — A légi személyszállítás teljesítése
+
+#### Az utasszállítás teljesítése
+
+##### 9. §
+
+(1) Az utas a légi személyszállítás útirányát megválaszthatja, és útmegszakításokat köthet ki. Amennyiben az utas a menetjegy kiadásáig ilyen kívánságot nem nyilvánít, az útirányt a légitársaság választja meg.
+
+(2) A légitársaság az üzletszabályzatban határozza meg a légi személyszállítás során, valamint ahhoz kapcsolódóan az utasnak nyújtott szolgáltatásait, azok igénybevételének feltételeit, a légi személyszállítás során az utasra kötelező szabályokat, különösen az utas által a légijármű fedélzetén követendő magatartási szabályokat (fedélzeti rend) – beleértve a híradástechnikai készülékek fedélzeti használatára és a dohányzási szabályokra vonatkozó rendelkezéseket – és a szabályok megszegésének következményeit, továbbá az útmegszakítással, a légi személyszállítással, valamint gyermekek, betegek, mozgáskorlátozottak és más különleges gondoskodást igénylő utasok szállításával kapcsolatos egyéb feltételeket.
+
+##### 10. §
+
+(1) Nemzetközi légi személyszállítás esetén az utas köteles a szállítást megelőzően utasbiztonsági ellenőrzésnek alávetnie magát, és a szállítás során érintett államok által a határátlépéshez megkövetelt okmányait a légitársaság alkalmazottjának – felhívásra – bemutatni. Ha az utas az ellenőrzést megtagadja, annak nem veti alá magát, az okmányokkal nem rendelkezik vagy az okmányok szabálytalanok, a légitársaság a szerződés teljesítésének megkezdését, illetve folytatását az okmányok bemutatásáig megtagadhatja.
+
+(2) A légitársaság nem felel az utassal szemben azokért a károkért, amelyek abból keletkeztek, hogy az utas nem rendelkezett a szállítás során érintett államok által megkövetelt okmányokkal vagy azok nem voltak szabályosak.
+
+(3) Nemzetközi légi személyszállítás esetén az utas köteles a visszaszállítás és tartás költségeit megtéríteni a légitársaságnak, valamint azokat a károkat, amelyek abból keletkeztek, hogy a szükséges okmányok hiánya, szabálytalansága vagy a be- és kiutazásra vonatkozó rendelkezések megsértése miatt utas szállításának teljesítéséhez a szállítás során érintett állam hatóságai nem járultak hozzá.
+
+#### A poggyászszállítás teljesítése
+
+##### 11. §
+
+A légi személyszállítási szerződés alapján a légitársaság az utas poggyászát az indulási repülőtérről az érkezési repülőtérre szállítja.
+
+##### 12. §
+
+(1) A légitársaság az utas poggyászát feladott és kézipoggyászként szállítja. A feladott és a kézipoggyász tömeg- és mérethatárait a légitársaság az üzletszabályzatban állapítja meg.
+
+(2) A feladott poggyászt a légitársaság átveszi, a kézipoggyász a biztonsági ellenőrzést követően az utas őrizetében marad. Az utas kézipoggyászon kívül – az üzletszabályzatban meghatározott – személyes használatára szolgáló tárgyakat is vihet magával a légijármű fedélzetére.
+
+(3) A légitársaság az üzletszabályzatban meghatározott tömegű vagy méretű feladott és kézipoggyász szállításáért díjat nem számít fel. Az üzletszabályzatban meghatározott tömeget vagy méretet meghaladó feladott és kézipoggyászt a légitársaság túlsúlydíj ellenében szállítja el.
+
+##### 13. §
+
+A légitársaság az utazás megkezdése előtt a poggyász tömegét és darabszámát megállapítja, és a feladott poggyászra vonatkozó adatokat a menetjegyre rávezeti, és arról azonosító szelvényt ad ki.
+
+##### 14. §
+
+(1) A légitársaság a poggyászt általában azzal a légijárművel továbbítja, amellyel az utast szállítja; repülésbiztonsági okból azonban a légitársaság a feladott poggyászt előző vagy következő járattal vagy kerülő úton is továbbíthatja.
+
+(2) A légitársaság és az utas megállapodhat arról, hogy a légitársaság a poggyászt nem azzal a légijárművel továbbítja, amellyel az utas utazik; ebben az esetben a poggyász továbbítására a légi árufuvarozás szabályait kell alkalmazni, a poggyászt biztonsági ellenőrzés alá kell vonni, és ,,RUHS'' címkével kell ellátni.
+
+#### A poggyász tartalma és csomagolása
+
+##### 15. §
+
+(1) Az utas poggyásza nem tartalmazhat poggyásznak nem minősülő – jogszabályban meghatározott – tárgyat (anyagot), valamint olyan tárgyat (anyagot), amely mások életét, vagyonát vagy a repülés biztonságát veszélyezteti (a továbbiakban: szállításból kizárt tárgy). A légitársaság a szállításból kizárt tárgyak körét az üzletszabályzatban határozza meg.
+
+(2) A légitársaság az üzletszabályzatban meghatározhatja azon tárgyak (anyagok) körét, amelyeket az utas poggyásza csak az előírt feltételek teljesítése esetén tartalmazhat.
+
+(3) A légitársaság az utast felszólíthatja, hogy a poggyászából a szállításból kizárt tárgyat távolítsa el. Ennek elmaradása esetén a poggyász szállítását megtagadhatja.
+
+##### 16. §
+
+Az utas köteles a feladott és a kézipoggyászt úgy csomagolni, hogy azt a csomagolás megóvja, továbbá a poggyász mások személyét, vagyonát ne veszélyeztesse, azokban kárt ne tegyen. Ellenkező esetben a poggyász szállítását a légitársaság megtagadhatja.
+
+##### 17. §
+
+(1) A légitársaság az utas poggyászát az utas vagy hatósági személy jelenlétében – kivéve ha jogszabály eltérően rendelkezik – ellenőrizheti, ha alaposan feltételezhető, hogy az utas a poggyász tartalmára és csomagolására vonatkozó szabályokat nem teljesítette.
+
+(2) A poggyász ellenőrzéséről a légitársaság jegyzőkönyvet készít, abban a poggyász tömegét, esetleges sérülését, a vizsgálat körülményeit, a megtett intézkedéseket feltüntetni, és a jegyzőkönyv egy példányát az utasnak átadja.
+
+(3) A légitársaság az üzletszabályzatban határozza meg a poggyász átvizsgálásának feltételeit, módját és végrehajtását.
+
+#### A feladott poggyász kiadása
+
+##### 18. §
+
+(1) A légitársaság köteles a feladott poggyászt annak a járatnak érkezésekor kiadni, amelyen azt szállítania kellett.
+
+(2) A feladott poggyász kiadásának részletes feltételeit a légitársaság az üzletszabályzatban határozza meg.
+
+#### Az át nem vett poggyász őrzése és értékesítése
+
+##### 19. §
+
+(1)[^7] A légitársaság a tőle át nem vett feladott poggyászt, a légijárművön maradt kézipoggyászt és személyes használati tárgyat a megbízás nélküli ügyvitel szabályai szerint – a gyorsan romló dolog kivételével – legfeljebb 60 napig köteles megőrizni.
+
+(2) Az őrzési idő elteltével a légitársaság a poggyászt, a légijárművön maradt kézipoggyászt és a személyes használati tárgyat értékesítheti. A tervbe vett értékesítésről és az értékesítés megtörténtéről az utast értesíteni kell.
+
+#### A diplomáciai és konzuli poggyászszállítás
+
+##### 20. §
+
+A diplomáciai képviselők és a konzuli tisztviselők személyes poggyászának, valamint a diplomáciai és konzuli poggyász ellenőrzése az 1965. évi 22. törvényerejű rendelettel kihirdetett, a diplomáciai kapcsolatokról Bécsben, 1961. április 18-án aláírt nemzetközi szerződés, illetőleg az 1987. évi 13. törvényerejű rendelettel kihirdetett, a konzuli kapcsolatokról Bécsben, 1963. április 24-én aláírt nemzetközi szerződésben előírt esetekben, kizárólag az utas vagy az érintett diplomáciai, illetve konzuli képviselet tagjának a jelenlétében végezhető el, és – amennyiben lehetséges – a poggyász csak az utasnak adható ki. Az át nem vett poggyász nem értékesítető.
+
+##### 21. §
+
+(1)[^8] A Külügyminisztérium diplomáciai futárpostáját a kétoldalú nemzetközi légiközlekedési szerződésben kijelölt légitársaság köteles szállítani.
+
+(2) A diplomáciai és a konzuli futárposta továbbításának részletes feltételeiről a Külügyminisztérium és a kijelölt légitársaság szerződésben állapodik meg.
+
+### III. Fejezet — A légi személyszállítási szerződés módosítása
+
+##### 22. §
+
+(1)[^9] A légitársaság a légiközlekedéssel összefüggő elháríthatatlan ok esetében a menetjegyen vagy menetrendben feltüntetett útvonalat megváltoztathatja, közbenső leszállóhelyet kihagyhatja, illetve közbenső leszállóhelyet iktathat be.
+
+(2)–(3)[^10]
+
+#### A légi személyszállítási szerződés megszűnése
+
+##### 25. §
+
+(1) A légitársaság a légi személyszállítási szerződéstől – a viteldíj visszatérítése mellett – azonnali hatállyal elállhat, ha az utas
+
+a) betegsége vagy testi állapota miatt saját magára vagy a légijármű fedélzetén tartózkodó személyekre veszélyes lehet, továbbá szállításához a légitársaság olyan különleges támogatására lenne szükség, amelyet a légitársaság nem, vagy csak aránytalanul magas ráfordítással tudna megadni;
+
+b) a légitársaság által a menetjegyen feltüntetett vagy az üzletszabályzatban meghatározott megjelenési időpontban a repülőtéren utazásra nem jelentkezik;
+
+c) nemzetközi légi személyszállítás esetén a beszállásra való felhívásig a határ átlépésére nem kap hatósági engedélyt;
+
+d) kizárása a légi személyszállításból biztonsági, rendfenntartási, illetve a szállítás során érintett állam előírásai megsértésének elkerüléséhez szükséges;
+
+e) az útját előzetes kikötés nélkül megszakítja, vagy az üzletszabályzatban meghatározott egyéb, az utazással kapcsolatos bejelentési, tájékoztatási, visszaigazolási, megerősítési kötelezettségének nem tesz eleget;
+
+f) a repülőtéren vagy a légijármű fedélzetén olyan magatartást tanúsít, amely a repülés biztonságát vagy az utasok nyugalmát veszélyezteti;
+
+g) megtagadja, illetve nem hajlandó alávetni magát és kézipoggyászát a biztonsági ellenőrzésnek.
+
+(2) A légi személyszállítási szerződéstől az (1) bekezdés szerinti elállás esetén a légitársaság az üzletszabályzatban rendelkezik a visszatérítendő összegből levonandó – gazdaságossági szempontból indokolt, ésszerű mértékű – kezelési és egyéb költség megfizetéséről is.
+
+##### 26. §
+
+A szállítás megkezdése előtt az utas a légi személyszállítási szerződéstől az üzletszabályzatban meghatározott határidőn belül elállhat.
+
+### IV. Fejezet — Elégtelen helybiztosítás
+
+##### 27. §[^13]
+
+(1) Az elégtelen helybiztosításra vonatkozó szabályokat a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 261/2004/EK rendelet) tartalmazza.
+
+(2)[^14] A légi közlekedési hatóság a légitársaság, a területén levő repülőterekről induló légijáratok, valamint harmadik országból e repülőterekre induló járatok tekintetében felügyeli a 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseinek betartását.
+
+(3)[^15] A 261/2004/EK rendelet 16. cikk (2) bekezdése alapján a 261/2004/EK rendelet rendelkezéseinek a fogyasztóvédelemről szóló törvény szerinti fogyasztókkal szembeni megsértése miatti eljárások lefolytatására kijelölt szerv a fogyasztóvédelmi hatóság.
+
+(4)[^16] A fogyasztóvédelemről szóló törvény alkalmazása szempontjából a 261/2004/EK rendelet rendelkezéseinek megsértése a fogyasztóvédelmi rendelkezések megsértésének minősül.
+
+#### A kártérítési eljárás
+
+##### 28. §[^17]
+
+A légi személyszállítással összefüggő kártérítés és sérelemdíj szabályait – az Európai Parlament és a Tanács 889/2002/EK rendeletével módosított – a légifuvarozók baleset esetén fennálló felelősségéről szóló, a Tanács 2027/97/EK rendelete tartalmazza.
+
+## 3. RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+##### 29. §
+
+(1) Ez a rendelet 1999. május 1-jén lép hatályba, és rendelkezéseit a hatálybalépése után megkötött légi személyszállítási szerződésekre kell alkalmazni.
+
+(2)–(3)[^18]
+
+##### 30. §[^19]
+
+Ez a rendelet a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról, és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 3. § (2) bekezdése az 53/2014. (III. 3.) Korm. rendelet 8. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 3. § (4) bekezdése az 53/2014. (III. 3.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^3]: A 7. § (1) bekezdés nyitó szövegrésze a 304/2011. (XII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdés a) pontja a 304/2011. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 7. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 72. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 19. § (1) bekezdése az 53/2014. (III. 3.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 21. § (1) bekezdése a 88/2012. (IV. 26.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^9]: A 22. § (1) bekezdése a 33/2005. (II. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 22. § (2)–(3) bekezdését az 53/2014. (III. 3.) Korm. rendelet 8. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: A 27. § a 33/2005. (II. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 27. § (2) bekezdése a 425/2024. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^15]: A 27. § (3) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 27. § (4) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 28. § a 82/2004. (IV. 19.) Korm. rendelet 3. §-ának (3) bekezdésével megállapított, az 53/2014. (III. 3.) Korm. rendelet 8. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^18]: A 29. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1245. pontja hatályon kívül helyezte.
+[^19]: A 30. §-t a 268/2003. (XII. 24.) Korm. rendelet 6. §-a (2) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 425/2024. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

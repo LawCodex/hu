@@ -1,0 +1,990 @@
+---
+title: "101/1998. (V. 22.) Korm. rendelet a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról"
+identifier: "101/1998. (V. 22.) Korm. rendelet"
+njt_id: "1998-101-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1998/Korm/101"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1998-05-22
+in_force_from: 2009-10-01
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1998-101-20-22"
+retrieved: 2026-10-12
+---
+
+# 101/1998. (V. 22.) Korm. rendelet a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról
+
+A Kormány a külföldre utazásról szóló 1998. évi XII. törvény 41. §-ának (1) bekezdésében (a továbbiakban: Utv.) kapott felhatalmazás alapján az Utv. végrehajtásáról a következőket rendeli el:
+
+## ALAPVETŐ RENDELKEZÉSEK
+
+### 1. §
+
+Ez a rendelet határozza meg:
+
+a) az útlevél hatóságokat, feladat- és hatáskörüket, az úti okmánnyal összefüggő feladatok ellátásában közreműködő szervek feladatait;
+
+b) az útlevél kivételével az egyéb úti okmányok fajtáit;
+
+c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
+
+d)[^1] a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait,
+
+e)[^2] az adatkezelő szerv (a továbbiakban: útiokmány-nyilvántartó szerv) kijelölését.
+
+## Az úti okmányok fajtái
+
+### 2. §[^3]
+
+(1) E rendelet alkalmazásában az útlevél mellett az úti okmányok fajtái:
+
+a)[^4] az uniós ideiglenes úti okmány;
+
+b) a menekültként elismert személyek kétnyelvű úti okmánya;
+
+c)[^5] az oltalmazottként elismert személyek úti okmánya;
+
+d)[^6] a menedékesek úti okmánya;
+
+e)[^7] a huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya;
+
+f)[^8] az egyszeri utazásra jogosító úti okmány.
+
+(2) Ha nemzetközi szerződés másként nem rendelkezik a határátlépési igazolványra való jogosultságra, az okmány kiadása iránti kérelemre és az okmány birtokban tartására, e rendeletben meghatározott szabályokat kell alkalmazni.
+
+## ÚTLEVÉL HATÓSÁGOK ÉS HATÁSKÖRÜK
+
+### 3. §[^9]
+
+(1)[^10] A magánútlevéllel, a második magánútlevéllel, a szolgálati és a hajós szolgálati útlevéllel, valamint a határátlépési igazolvánnyal összefüggő hatósági ügyben elsőfokú útlevélhatóságként a Kormány a külföldre utazás szabályozásáért felelős minisztert (a továbbiakban: általános hatáskörű útlevélhatóság) jelöli ki.
+
+(2)[^11] A Kormány az (1) bekezdés szerinti úti okmányok, valamint a diplomata útlevelek, a külügyi szolgálati útlevelek és az ideiglenes magánútlevelek tekintetében útiokmány-nyilvántartó szervként – a (2a) bekezdésben meghatározott kivétellel – az általános hatáskörű útlevélhatóságot jelöli ki.
+
+(2a)[^12] A Kormány a (2) bekezdés szerinti úti okmány kiadására irányuló eljárás során keletkezett jogszabály szerinti papíralapú alapiratok tekintetében útiokmány-nyilvántartó szervként Budapest Főváros Kormányhivatalát, a külpolitikáért felelős minisztert, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban együtt: járási hivatal), a konzuli tisztviselőt, a külpolitikáért felelős miniszter által vezetett minisztériumot, illetve az általános hatáskörű útlevélhatóságot jelöli ki.
+
+(3)[^13] Az általános hatáskörű útlevélhatóság
+
+a)[^14] az úti okmányokkal és a külföldre utazásra felhasznált személyazonosító igazolványokkal összefüggő feladatok ellátásában közreműködő szervekkel való kapcsolattartásra ügyeleti szolgálatot működtet;
+
+b) az ideiglenes magánútlevelek kivételével végzi az útlevelek megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltését;
+
+c) ellátja a nemzeti dokumentum-aláíró hatósági és az országos aláíró hitelesítő hatósági feladatokat;
+
+d) ellátja az országos ellenőrzőhitelesítő hatósági, valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági feladatokat.
+
+(4) Az általános hatáskörű útlevélhatóság nemzeti dokumentum-aláíró hatóságként létrehozza a dokumentum-aláíró tanúsítványt és elhelyezi azt a tároló elemben.
+
+(5) Az általános hatáskörű útlevélhatóság aláíró hitelesítő hatóságként
+
+a) kiadja a (4) bekezdés szerinti tanúsítványt,
+
+b) létrehozza és kezeli – a biometrikus azonosítót tartalmazó tároló elemmel ellátott útlevelek és úti okmányok ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait és visszavonási listáit tartalmazó tanúsítvány- és visszavonási listatárat,
+
+c) az általa kibocsátott CSCA és CVCA tanúsítványokat, valamint az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában eljuttatja a többi ICAO tagország országos aláíró hitelesítő hatóságához,
+
+d) igazolja az úti okmányok hitelességét, működteti a magyar és külföldi útlevél ellenőrző szervek felé történő publikálás megvalósítására felállított Nemzeti Publikus Kulcs Adattárat, illetve ebben a feladatkörében kapcsolatot tart az ICAO Public Key Directory (PKD) központtal.
+
+(6) Az általános hatáskörű útlevélhatóság országos ellenőrzőhitelesítő hatóságként
+
+a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő hatóság számára,
+
+b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
+
+(7)[^15] Az általános hatáskörű útlevélhatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként (DV) biztosítja az útlevélben elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok, valamint az európai uniós és a schengeni megállapodásban részes tagállamok jogosult hatóságai számára a hozzáféréshez szükséges tanúsítványok kiállítását, továbbá az útlevél tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
+
+### 4. §[^16]
+
+(1)[^17] A Kormány az alábbi hatáskörök tekintetében útlevélhatóságként a külügyminisztert jelöli ki:
+
+a) a diplomata- és külügyi szolgálati útlevéllel összefüggő hatósági eljárás,
+
+b)[^18] a 10/C. § (2) bekezdésében foglalt esetben az uniós ideiglenes úti okmány magyar állampolgár részére történő kiállításához szükséges előzetes hozzájárulás megadása.
+
+(2)[^19] A konzuli tisztviselő hatáskörébe tartozik:
+
+a)[^20] az ideiglenes magánútlevéllel kapcsolatos hatósági eljárás első fokon,
+
+b)[^21] a 10/C. § (1) bekezdésében foglalt esetben az uniós ideiglenes úti okmány magyar állampolgár részére történő kiállításához szükséges előzetes hozzájárulás megadása,
+
+c)[^22] a menekültként elismert személy, az oltalmazottként elismert személy, a menedékes, a befogadott és a hontalan uniós ideiglenes úti okmányával kapcsolatos hatósági eljárás,
+
+d)[^23] a huzamos tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár egyszeri utazásra jogosító úti okmányával kapcsolatos hatósági eljárás.
+
+(3)[^24] A konzuli tisztviselő és a tiszteletbeli konzuli tisztviselő hatáskörébe is tartozik az Utv. 20. § (1) bekezdése alapján érvénytelenné vált úti okmány elvétele.
+
+### 5. §[^25]
+
+(1)[^26] A Kormány a huzamos tartózkodási jogosultsággal rendelkező személy és a hontalan úti okmányával kapcsolatos hatósági ügyben elsőfokú útlevélhatóságként az Országos Idegenrendészeti Főigazgatóságnak a kérelmező lakóhelye, hontalan esetén tartózkodási helye szerint illetékes területi szervét jelöli ki.
+
+(2) A Kormány az Országos Idegenrendészeti Főigazgatóságot jelöli ki elsőfokú útlevélhatóságként a menekültként elismert személyek kétnyelvű úti okmányával, az oltalmazottként elismert személyek úti okmányával, továbbá a menedékesek úti okmányával összefüggő hatósági ügyekben.
+
+(3)[^27] A Kormány az Országos Idegenrendészeti Főigazgatóságot jelöli ki kiállító hatóságként a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) 156. §-a szerinti egyszeri utazásra jogosító úti okmány tekintetében.
+
+### 6. §[^28]
+
+A Kormány az 5. § szerinti úti okmányok tekintetében útiokmány-nyilvántartó szervként az Országos Idegenrendészeti Főigazgatóságot jelöli ki.
+
+### 7. §[^29]
+
+(1)[^30] Az általános hatáskörű útlevélhatóság feladatainak ellátásában közreműködőként vesz részt
+
+a) a járási hivatal a magánútlevél, a második magánútlevél, a szolgálati útlevél és a hajós szolgálati útlevél,
+
+b) a konzuli tisztviselő a magánútlevél, a második magánútlevél,
+
+c)[^31]
+
+d) az úti okmányt megszemélyesítő szerv valamennyi útlevél
+
+tekintetében.
+
+(2) A külpolitikáért felelős miniszter diplomata- és külügyi szolgálati útlevéllel összefüggő feladatai ellátásában a konzuli tisztviselő közreműködőként vesz részt.
+
+(3)[^32] A járási hivatal közreműködői feladatai körében
+
+a) ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, a második magánútlevél, a szolgálati útlevél és a hajós szolgálati útlevél kiadására irányuló kérelmet,
+
+b) ellenőrzi a kérelmező családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adatok),
+
+c) szükség esetén hiánypótlásra hívja fel az ügyfelet,
+
+d) a kérelemnek megfelelő adattartalmú, elektronikus úton továbbítandó kérelmet állít elő,
+
+e) a kérelmet és mellékleteit elektronikus úton megküldi az általános hatáskörű útlevélhatóságnak,
+
+f) az új úti okmány személyes átvétele esetén, illetve ha a postai úton továbbított úti okmányt az ügyfél nem vette át, gondoskodik az úti okmány ügyfélnek történő átadásáról és e tény útiokmány-nyilvántartásban történő rögzítéséről,
+
+g) gondoskodik a postai úton továbbított és át nem vett úti okmányok megőrzéséről, majd az általános hatáskörű útlevélhatóságnak történő megküldéséről,
+
+h)[^33] gondoskodik az úti okmány érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről és az általános hatáskörű útlevélhatóság részére történő megküldéséről,
+
+i) jogszabályok keretei között gondoskodik az érvénytelenített okmányok visszaadásáról,
+
+j) erre irányuló kérelem esetén lehetővé teszi a tároló elem adattartalmának ellenőrzését,
+
+k) a járási hivatalnál történő bejelentés esetén rögzíti az úti okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
+
+l)[^34] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
+
+(4)[^35] A konzuli tisztviselő közreműködői feladatai körében:
+
+a) ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, második magánútlevél, a diplomata- és a külügyi szolgálati útlevél kiállítására irányuló kérelmet,
+
+b) ellenőrzi a kérelmező személyi adatait és magyar állampolgárságát,
+
+c) szükség esetén hiánypótlásra hívja fel az ügyfelet,
+
+d) a kérelemnek megfelelő adattartalmú, elektronikus úton továbbítandó kérelmet állít elő,
+
+e) a kérelmet és mellékleteit a magánútlevél és a második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, a diplomata- és a külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek küldi meg elektronikus úton,
+
+f) gondoskodik az úti okmánynak az ügyfél részére történő átadásáról, és az átadás tényéről elektronikus úton magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságot, a diplomata- és a külügyi szolgálati útlevél esetében a külpolitikáért felelős minisztert értesíti,
+
+g) gondoskodik az át nem vett úti okmányok megőrzéséről, majd magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, a diplomata- és a külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek történő megküldéséről,
+
+h)[^36] gondoskodik az úti okmány érvénytelenítéséről, selejtezésre és megsemmisítésre történő előkészítéséről, magánútlevél és második magánútlevél esetében az általános hatáskörű útlevélhatóságnak, diplomata és külügyi szolgálati útlevél esetében a külpolitikáért felelős miniszternek történő megküldéséről,
+
+i) jogszabályok keretei között gondoskodik az érvénytelenített okmányok visszaadásáról,
+
+j) az előtte tett bejelentés esetén rögzíti az okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
+
+k)[^37] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
+
+### 7/A. §[^38]
+
+(1) Az általános hatáskörű útlevélhatóság és a külpolitikáért felelős miniszter által kiadott útlevél kiállítójának Magyarország Kormányát kell tekinteni. Az útlevélen Magyarország Kormányának rövidítése: MK.
+
+(2) Az (1) bekezdés szerinti kiállító meghatározása nem érinti a hatáskör gyakorlójának személyét.
+
+## A HATÁRÁTLÉPÉSI IGAZOLVÁNY[^39]
+
+### 8. §[^40]
+
+(1)[^41] A határátlépési igazolvány határátlépésre feljogosító okmány, mely annak a magyar állampolgárnak adható, akinek nemzetközi szerződésből eredő feladata vagy szolgálata ellátása érdekében az államhatár rendszeres átlépése szükséges.
+
+(2)[^42]
+
+(3)[^43] A határátlépési igazolványra jogosultak körét és kiadásának feltételeit nemzetközi szerződés állapítja meg.
+
+(4)[^44] A határátlépési igazolvány érvényességének időtartama – amennyiben nemzetközi szerződés eltérően nem rendelkezik – öt év.
+
+(5)[^45] A határátlépési igazolványt vissza kell vonni a vonatkozó nemzetközi szerződésben foglaltak megszegése esetén.
+
+(6)[^46] A határátlépési igazolványt az útlevélhatóságnál tizenöt napon belül le kell adni, ha az okmányra való jogosultság megszűnt.
+
+## AZ EGYES ÚTI OKMÁNYOKRA VONATKOZÓ SZABÁLYOK[^49]
+
+## Az ideiglenes úti okmány (uniós ideiglenes úti okmány)[^50]
+
+### 10/A. §[^51]
+
+(1)[^52] A magyar állampolgár az elveszett, eltulajdonított, megrongálódott, illetve személyazonosság megállapítására más módon alkalmatlanná vált útlevele vagy úti okmánya helyett uniós ideiglenes úti okmányra jogosult, ha olyan ország területén tartózkodik, ahol nincs úti okmány kiállítására felhatalmazott konzuli tisztviselő.
+
+(2)[^53] Az uniós polgár és az őt kísérő uniós állampolgársággal nem rendelkező családtagja, a menekült, az oltalmazott, a menedékes, a befogadott, valamint a hontalanként elismert személy az elveszett, eltulajdonított, megrongálódott, illetve a személyazonosság megállapítására más módon alkalmatlanná vált útlevele vagy úti okmánya helyett uniós ideiglenes úti okmányra jogosult a jogállását szabályozó norma szerint.
+
+(3)[^54] Az uniós ideiglenes úti okmány Magyarországra történő beutazásra, az (1) és a (2) bekezdésben meghatározott személyi kör állandó lakóhelye szerinti országba történő visszautazásra vagy kivételesen más célállomásra történő egyszeri utazásra jogosít.
+
+### 10/B. §[^55]
+
+(1) Az uniós ideiglenes úti okmány kiállítására vonatkozó kérelmet – a 10/A. §-ban foglalt feltételek fennállása esetén – az Európai Unió valamely tagállamának diplomáciai vagy konzuli képviseletén (a továbbiakban: EU tagállam képviselete) kell benyújtani. A kérelmezőnek a kérelem benyújtásakor be kell mutatnia a rendelkezésére álló okmányait vagy ezek másolatait, esetlegesen a nemzeti nyilvántartási számát vagy a társadalombiztosítási azonosító jelét.
+
+(2) Az uniós ideiglenes úti okmány kiállításához a 10/C. §-ban meghatározott magyar hatóság előzetes hozzájárulása szükséges.
+
+### 10/C. §[^56]
+
+(1) Az uniós ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást – a (2) bekezdésben foglalt kivétellel – az a hivatásos konzuli tisztviselő adja meg az EU tagállam képviselete részére, akinél az előzetes hozzájárulást kérték.
+
+(2) Ha az EU tagállam képviselete az (1) bekezdésben meghatározott konzuli tisztviselőt eredménytelenül kereste meg, az uniós ideiglenes úti okmány kiállításához szükséges előzetes hozzájárulást a külpolitikáért felelős miniszter adja meg.
+
+(3) A konzuli tisztviselő, illetve a külpolitikáért felelős miniszter az EU tagállam képviselete által kiállított és megküldött, az uniós ideiglenes úti okmány fénymásolatát tartalmazó iratot az okmány kiállításától számított 180 napig megőrzi.
+
+### 10/D. §[^57]
+
+Az előzetes hozzájárulás megadásához a magyar állampolgár által megadott személyazonosító és útiokmány-adatokat az útiokmány-nyilvántartásban, illetőleg a polgárok személyi adatainak és lakcímének nyilvántartásában a konzuli tisztviselő, illetőleg a külügyminiszter közvetlen adathozzáféréssel vagy az általános hatáskörű útlevélhatóság útján ellenőrzi.
+
+### 10/E. §[^58]
+
+(1) A magyar állampolgár uniós ideiglenes úti okmányát úti céljára megérkezve valamely járási hivatalban vagy magyar külképviseleten, a menekültként elismert személy, az oltalmazottként elismert személy, a menedékes, a befogadott, valamint a hontalan az uniós ideiglenes úti okmányát a menekültügyi hatóság vagy az idegenrendészeti hatóság számára köteles leadni.
+
+(2) Az átvett uniós ideiglenes úti okmányt a járási hivatal, a menekültügyi hatóság, az idegenrendészeti hatóság és a konzuli tisztviselő a külpolitikáért felelős miniszternek küldi meg.
+
+### 10/F. §[^59]
+
+A menekültügyi hatóság és az idegenrendészeti hatóság az uniós ideiglenes úti okmány kiállítása érdekében lefolyatott konzultáció céljából két munkanapon belül eleget tesz adattovábbítási kötelezettségének a magyar külképviseletek felé.
+
+### 10/G. §[^60]
+
+(1) A külpolitikáért felelős miniszter megszervezi a következő mutatók változásának méréséhez szükséges adatok előállítását és gyűjtését, és évente megküldi a következő információkat az Európai Bizottságnak:
+
+a) a kibocsátott uniós ideiglenes úti okmányok száma és a kedvezményezettek állampolgársága a 10/A. § (1) és (2) bekezdésében meghatározott személyi körökre lebontva,
+
+b) az uniós ideiglenes úti okmányokkal való visszaélések és az utánzási esetek száma.
+
+(2) Az Európai Bizottság által készített értékelő jelentés összeállítása céljából a külpolitikáért felelős miniszter megküldi a szükséges információkat az Európai Bizottságnak.
+
+## Menedékesek úti okmánya[^61]
+
+### 11. §[^62]
+
+(1)[^63] Ha a menekültügyi hatóság által menedékesként elismert személy nem rendelkezik származási országa érvényes úti okmányával – kérelmére – hat hónapra érvényes úti okmánnyal kell ellátni.
+
+(2)[^64] Az úti okmány csak érvényességi idején belül használható fel utazásra és a Magyarország területére való visszatérésre.
+
+(3)[^65] Az úti okmány egyszeri kiutazásra és visszautazásra használható fel.
+
+(4)[^66] A menedékes úti okmánya tartalmazza:
+
+a) a kérelmező családi és utónevét, születési helyét, idejét, nemét, állampolgárságát vagy hontalanságát, arcképmását, saját kezű aláírását;
+
+b) a menedékes jogállást igazoló okmány számát, az okmányt kiállító hatóság megnevezését, továbbá a kérelmező jogállására vonatkozó bejegyzést;
+
+c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
+
+## A menekültként elismert személyek kétnyelvű úti okmánya és az oltalmazottként elismert személyek úti okmánya[^67]
+
+### 11/A. §[^68]
+
+(1) A menekültként elismert személyek kétnyelvű úti okmánya és az oltalmazottként elismert személyek úti okmánya egy évig érvényes.
+
+(2) Az oltalmazottként elismert személyek úti okmánya 32 számozott oldalt tartalmazó füzet.
+
+(3) Az oltalmazottként elismert személyek úti okmánya tartalmazza:
+
+a) a kérelmező családi és utónevét, születési helyét, idejét, nemét, állampolgárságát vagy hontalanságát, arcképmását, saját kezű aláírását;
+
+b) a kérelmező oltalmazott jogállására vonatkozó bejegyzést;
+
+c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
+
+## A harmadik országbeli állampolgár egyszeri utazásra jogosító úti okmánya[^69]
+
+### 11/B. §[^70]
+
+A Btátv. 156. §-a szerinti úti okmány tartalmazza
+
+a) a kérelmező családi és utónevét, születési helyét, idejét, állampolgárságát vagy hontalanságát, arcképmását, saját kezű aláírását,
+
+b) a kérelmező magyarországi tartózkodási jogosultságára vonatkozó bejegyzést, valamint
+
+c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
+
+## A huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya[^71]
+
+### 12. §[^72]
+
+A huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya tartalmazza:
+
+a) a kérelmező családi és utónevét, születési helyét, idejét, nemét, állampolgárságát vagy hontalanságát, arcképmását, saját kezű aláírását;
+
+b)[^73] a huzamos tartózkodási jogosultságot vagy hontalan jogállást igazoló okmány számát, az okmányt kiállító hatóság megnevezését, továbbá a kérelmező jogállására vonatkozó bejegyzést;
+
+c) az úti okmány megnevezését, számát, keltét, érvényességi idejét, a kiállító magyar útlevélhatóság megnevezését és bélyegzőlenyomatát.
+
+## AZ ELJÁRÁS RÉSZLETES SZABÁLYAI
+
+## A kérelem
+
+### 13. §[^74]
+
+(1)[^75] Az úti okmány kiadására irányuló eljárás – az Utv. 10. § (5) bekezdésében meghatározott kivétellel – kérelemre indul.
+
+(2)[^76] Az útlevél iránti kérelemről az általános hatáskörű útlevélhatóság, a külpolitikáért felelős miniszter, a járási hivatal vagy a konzuli tisztviselő a kérelemnek megfelelő adattartalmú, elektronikus kérelmet állít elő, amely tartalmazza
+
+a) a kérelmező személyi adatait, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét, valamint kapcsolattartási adatát,
+
+b)[^77] az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá – az egészségi állapot miatti meghatalmazotti eljárás, illetve ezen adat rendelkezésre bocsátásának átmeneti vagy végleges képtelensége kivételével – a második biometrikus adatát,
+
+c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
+
+d) kiskorú esetében a külföldre utazáshoz hozzájáruló nyilatkozat adatait, ha ezen nyilatkozat figyelembevételével került sor úti okmány kiállítására, valamint a szülői felügyeleti jog megszűnését, illetve szünetelését igazoló jogerős határozat tekintetében a bíróság vagy a hatóság megnevezését, valamint az ügyszámot,
+
+e) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, az útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímeit,
+
+f) a kérelmező birtokában lévő előző útlevél érvénytelenítésére, visszahagyására vonatkozó bejegyzést is.
+
+(2a)[^78]
+
+(2b)[^79] A nemzetiséghez tartozó polgár kérelme, illetve elektronikus adatlapja – a nemzetiségi név úti okmányban való feltüntetésére irányuló kérelem esetén – családi és utónevét az anyakönyvbe bejegyzett mindkét nyelven tartalmazza.
+
+(3) Az úti okmány iránti kérelem, illetve az új úti okmány átvételekor leadott úti okmány átvételéről elismervényt kell kiállítani. A leadott útlevelet, a menekültként elismert személy kétnyelvű úti okmányát, illetve az oltalmazottként elismert személy úti okmányát a kérelmező kérésére érvénytelenítve vissza kell adni. A vissza nem adott útlevél megsemmisítéséről az általános hatáskörű útlevélhatóság útján kell intézkedni, a menekültként elismert személy kétnyelvű úti okmányát, illetve az oltalmazottként elismert személy úti okmányát az Országos Idegenrendészeti Főigazgatóság megsemmisíti.
+
+(4) A járási hivatal az elektronikus kérelmet, valamint a csatolt mellékleteket elektronikus úton továbbítja az általános hatáskörű útlevélhatóságnak.
+
+(5) A konzuli tisztviselő
+
+a) az elektronikus kérelmet, valamint a csatolt mellékleteket továbbítja az általános hatáskörű útlevélhatóságnak,
+
+b) a diplomata- és külügyi szolgálati útlevél iránti kérelem formanyomtatványát és a kinyomtatott és aláírt kérelmet, valamint a csatolt mellékleteket megküldi a külpolitikáért felelős miniszternek, az elektronikus kérelmet elektronikus úton továbbítja a külpolitikáért felelős miniszternek.
+
+### 14. §
+
+(1)[^80] A kérelmező
+
+a)[^81] a magánútlevél és a második magánútlevél iránti kérelmet belföldön a járási hivatalnál vagy az általános hatáskörű útlevélhatóságnál, külföldön a konzuli tisztviselőnél,
+
+b)[^82] a szolgálati és hajós szolgálati útlevél iránti kérelmet a járási hivatalnál vagy az általános hatáskörű útlevélhatóságnál,
+
+c)[^83] a magánútlevél és a második magánútlevél soron kívüli, sürgősségi és azonnali kiállítására vonatkozó kérelmet a járási hivatalnál vagy az általános hatáskörű útlevélhatóságnál,
+
+d)[^84] a diplomata- és külügyi szolgálati útlevél iránti kérelmet a külügyminiszternél vagy a konzuli tisztviselőnél,
+
+e) az ideiglenes magánútlevél iránti kérelmet a konzuli tisztviselőnél,
+
+f)[^85] a menekültként elismert személy kétnyelvű úti okmánya, az oltalmazottként elismert személy úti okmánya, valamint a menedékes úti okmánya iránti kérelmet az Országos Idegenrendészeti Főigazgatóságnál,
+
+g)[^86] a huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya iránti kérelmet az Országos Idegenrendészeti Főigazgatóság kérelmező lakóhelye vagy – hontalan esetében – tartózkodási helye szerint illetékes területi szervénél,
+
+h)[^87] a menekültként elismert személy, az oltalmazottként elismert személy, a menedékes, a befogadott, valamint a hontalan az uniós ideiglenes úti okmánya iránti kérelmet a külképviseletnél,
+
+i)[^88] a huzamos tartózkodási jogosultsággal rendelkező személy egyszeri utazásra jogosító úti okmánya iránti kérelmet Magyarországra történő visszautazás céljából a külképviseletnél,
+
+j)[^89] a harmadik országbeli állampolgár az egyszeri utazásra jogosító úti okmány iránti kérelmét az állandó tartózkodási helye szerinti országba történő visszatérése céljából az Országos Idegenrendészeti Főigazgatóságnál
+
+nyújthatja be.
+
+(2)[^90] Az utazást elrendelő szervnek – a kérelmező nevében – a határátlépési igazolvány iránti kérelmet az általános hatáskörű útlevélhatóságnál kell benyújtania.
+
+### 15. §[^91]
+
+Kiskorú vagy gondnokság alatt álló kérelmét a törvényes képviselő nyújtja be.
+
+### 16. §[^92]
+
+(1) A kérelmező az eljárás során
+
+a)[^93] a magyar állampolgárságát – a (3) bekezdésben foglalt kivétellel – a magyar állampolgárságról szóló törvényben meghatározottak szerint igazolja, vagy
+
+b)[^94] kérheti, hogy az eljáró hatóság keresse meg a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartást vezető szervet, hogy a személyiadat- és lakcímnyilvántartásban a kérelmező magyar állampolgárként szerepel-e.
+
+(2)[^95] Ha a kérelmezőt a polgárok személyi adatainak és lakcímének nyilvántartása magyar állampolgárként nem tartalmazza és a kérelmező nem rendelkezik az állampolgárság igazolására alkalmas okmánnyal, eljáró útlevélhatóság, járási hivatal vagy konzuli tisztviselő az állampolgárság megállapítása érdekében megkeresi állampolgársági ügyekben eljáró szervet.
+
+(3)[^96] Ha a kérelmet a konzuli tisztviselőnél nyújtják be, azon külföldön született, a 6. életévét be nem töltött kérelmező magyar állampolgárságát, akit a polgárok személyi adatainak és lakcímének nyilvántartása magyar állampolgárként nem tartalmaz, és nem rendelkezik az állampolgárság igazolására alkalmas okmánnyal, a 17. § (7) bekezdésében meghatározott feltételek teljesülése esetén vélelmezni kell.
+
+(4)[^97] Az ideiglenes magánútlevél iránti kérelemben a kérelmezőnek meg kell jelölnie, hogy hazautazás vagy külföldön való további tartózkodás, illetve továbbutazás céljából igényli az ideiglenes magánútlevelet, továbbá meg kell jelölnie hazautazás esetén, hogy Magyarországra, illetve a szokásos tartózkodási helyére szeretne hazatérni, valamint hogy továbbutazás esetén mely ország az úticélja.
+
+### 17. §
+
+(1)[^98] Az úti okmány iránti kérelem előterjesztésekor a kérelmező a kérelmezett úti okmány adattartalmát képező személyes adatait, azok ellenőrzésére szolgáló okiratokat, lakcímét, kapcsolattartási adatát és kézbesítési címét, továbbá arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, köteles az eljáró útlevélhatóság rendelkezésére bocsátani. Az írásképtelen vagy írástudatlan, illetőleg a 12. életévét be nem töltött kérelmező útlevelének aláírás rovata bejegyzést nem tartalmaz. Az Utv. 7. § (4) bekezdésében foglalt kivétellel a kérelmező az útlevél kérelmezésekor köteles a második biometrikus adatot az útlevélhatóság rendelkezésére bocsátani.
+
+(2)[^99] Az úti okmány iránti kérelem benyújtásával egyidejűleg igazolni kell a kapcsolódó igazgatási szolgáltatási díj, illetve pótdíj megfizetését. Az ideiglenes magánútlevél kérelem benyújtásakor az igazgatási szolgáltatási díj és a konzuli díj megfizetését kell igazolni. A kérelmező birtokában lévő előző, le nem járt érvényességi idejű, valamint a visszahagyott úti okmányt az új úti okmány személyes átvételekor a 25. § (6) bekezdése szerint érvényteleníteni kell, illetve a 25. § (3) bekezdésében meghatározott esetben az új magánútlevél átvételekor a konzuli tisztviselőnél személyesen kell leadni vagy postai úton eljuttatni.
+
+(2a)[^100] Ha a kérelmező nem személyesen jár el, a kérelem tartalmát képezi a kérelmező arcképmása (igazolványképe) és a jogszabály által meghatározott esetekben aláírása is.
+
+(3)[^101] Kiskorú vagy gondnokság alatt álló személy kérelmének elbírálásakor vizsgálni kell a szülőknek (törvényes képviselőnek) az úti okmány kiadásához szükséges hozzájáruló nyilatkozat meglétét, vagy kiskorú személy esetén igazolni kell a szülői felügyelet megszűnését, megszüntetését, visszaállítását vagy szünetelését.
+
+(3a)[^102] Ha csak az egyik szülő van személyesen jelen a kérelem benyújtásakor, vizsgálni kell, hogy a másik szülő tett-e az úti okmány kiállításához hozzájáruló nyilatkozatot. A hozzájáruló nyilatkozat felhasználására a megtételétől számított 15 napon belül megindított eljárásban van lehetőség.
+
+(3b)[^103] A kérelemhez csatolni szükséges a papíralapú hozzájáruló nyilatkozatot, ha
+
+a) a szülői hozzájáruló nyilatkozat megtételére nem elektronikus úton került sor, illetve
+
+b) a kérelem diplomata vagy külügyi szolgálati útlevél kiállítására irányul.
+
+(4)[^104] Nem szükséges a szülők (törvényes képviselők) hozzájáruló nyilatkozata kiskorú vagy gondnokság alatt álló személy esetén az ideiglenes magánútlevél kiállítására irányuló kérelem elbírálása során, ha a kérelmező útlevele, illetve a külföldre utazáshoz felhasznált személyazonosító igazolványa a személyazonosság megállapítására alkalmatlanná vált, megrongálódott, elveszett vagy azt eltulajdonították. Ebben az esetben az ideiglenes magánútlevelet – az Utv. 10. § (1)–(2) bekezdésében meghatározott keretek között – legfeljebb a korábbi magánútlevéllel megegyező érvényességi idővel lehet kiállítani.
+
+(5)[^105] A szolgálati útlevél iránti kérelem az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában az országos hatáskörű szerv vagy hivatal vezetőjének az útlevél kiállítására irányuló, indokolt javaslata alapján bírálható el.
+
+(6)[^106] A hajós szolgálati útlevélre való jogosultságot a gazdálkodó szervezet hajózási engedély kivonatával, illetve a gazdálkodó szervezet által kiállított, a kérelmező hajón teljesítendő szolgálatát tanúsító okirat bemutatásával kell igazolni. A külföldön regisztrált gazdálkodó szervezet esetében a cégkivonat beszerzéséről – erre vonatkozó elektronikus nyilvántartás hiányában – az ügyfél gondoskodik.
+
+(6a)[^107] Ha a kérelmező a hajózási engedély kivonatát nem nyújtotta be, a gazdálkodó szervezet hajózási útlevélre vonatkozó jogosultságának igazolása céljából a cégkivonatát az általános hatáskörű útlevélhatóság, vagy amennyiben a kérelmet a járási hivatalhoz nyújtották be, a járási hivatal elektronikus úton, közvetlen lekérdezéssel szerzi be a cégnyilvántartásból.
+
+(7)[^108] A 16. § (3) bekezdésében meghatározott esetben a kérelem elbírálása során vizsgálni kell a kérelmező külföldön történt születését, valamint a magyar állampolgárságú törvényes képviselőnek a gyermek adataira és állampolgárságára, valamint a gyermek születésének hazai anyakönyvezésére irányuló kérelem benyújtására vonatkozó nyilatkozatát.
+
+### 18. §
+
+(1)[^109] A kérelmező személyi adatainak és úti okmányhoz való jogosultságának ellenőrzéséhez – az (5) bekezdésben foglalt kivétellel – az úti okmány iránti kérelem előterjesztésekor be kell mutatni
+
+a) a kérelmező személyazonosságának igazolására alkalmas érvényes – vagy magyar hatóság által kiállított egy éven belül lejárt – hatósági igazolványát, valamint – ha azzal rendelkezik – a személyi azonosítót és a lakcímet igazoló szóló hatósági igazolványát,
+
+b) a személyazonosságának igazolására alkalmas érvényes hatósági igazolvánnyal vagy magyar hatóság által kiállított egy éven belül lejárt hatósági igazolvánnyal nem rendelkező kérelmező születési, továbbá a névviselés megállapítására alkalmas házassági anyakönyvi kivonatát,
+
+c) kiskorú, valamint a gondnokság alatt álló kérelmező esetén a – *b)* pontban foglaltak mellett – a törvényes képviselő személyazonosságát igazoló érvényes hatósági igazolványát, a gondnok-, illetve gyámkirendelő határozatot vagy az intézeti gyám igazolását az intézeti gyámság fennállásáról,
+
+d) a külön törvényben meghatározott, magyar állampolgárságot igazoló okiratot, amennyiben a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel.
+
+(2)[^110] Ha a kérelmező az előző, le nem járt érvényességű úti okmányát nem tudja bemutatni, nyilatkoznia kell annak fellelhetőségéről, illetve eltulajdonításáról, elvesztéséről, megsemmisüléséről. Az eltulajdonításról tett nyilatkozat az úti okmány eltulajdonítása miatt tett feljelentésről készült jegyzőkönyv bemutatásával pótolható.
+
+(3)[^111] Az (1) bekezdés b) pontjában meghatározott esetben, ha a születési vagy a házassági anyakönyvi kivonat nem áll a kérelmező rendelkezésére, akkor az útlevélhatóság, járási hivatal vagy konzuli tisztviselő hivatalból intézkedik a személyazonosság megállapítása érdekében.
+
+(4)[^112] Amennyiben az úti okmány jogosultja bejelentésében úgy nyilatkozott, hogy úti okmánya megsemmisült, az eljárás során az okmányt elveszettként kell kezelni és az útiokmány-nyilvántartásba az elveszett (megsemmisült) érvénytelenségi okot kell bejegyezni.
+
+(5)[^113] A 16. § (3) bekezdésében meghatározott esetben a kérelmező – a 17. § (7) bekezdésében meghatározott feltételek teljesítése mellett – mentesül az (1) bekezdés b) pontja szerinti okiratok bemutatási kötelezettsége alól.
+
+(6)[^114] Ha a kérelmező a második biometrikus adatot véglegesen képtelen rendelkezésre bocsátani, ennek bizonyítása csak orvosi igazolással lehetséges. Nincs szükség orvosi igazolásra, ha a második biometrikus adat rendelkezésre bocsátására való végleges képtelenség igazolás nélkül is egyértelműen megállapítható.
+
+### 19. §
+
+(1)[^115] Az útlevél iránti kérelem előterjesztésekor a kérelmező jogosultságát és személyazonosságát ellenőrizni kell, amelynek keretében
+
+a) a kérelem adatait egyeztetni kell a személyazonosság igazolására bemutatott hatósági igazolvány, valamint a születési és házassági anyakönyvi kivonat adataival,
+
+b) vizsgálni kell, hogy a kérelem szerinti arcképmás adat személyazonosításra alkalmas-e, illetve a kérelmező azonos-e a bemutatott okmányon szereplő fényképen levő személlyel,
+
+c)[^116] a személyazonosítást jogszabályban meghatározott automatizált arcképmás összehasonlítással és – ha annak feltételei fennállnak – automatizált ujjnyomat összevetéssel is el kell végezni.
+
+d)[^117] a bűnügyi nyilvántartó szervvel kialakított adatkapcsolat útján vizsgálni kell a külföldre utazási korlátozás fennállását,
+
+e)[^118] vizsgálni kell a magyar állampolgárság fennállását.
+
+(2) Ha az úti okmány iránti kérelmet a 14. § (2) bekezdésében foglaltak szerint az utazást elrendelő szerv nyújtja be, a kérelmező személyazonosságát ez a szerv köteles ellenőrizni.
+
+(3)[^119] Ha az automatizált arcképmás összehasonlítás és az automatizált ujjnyomat összevetés nem lehetséges vagy eredménytelen, az eljáró útlevélhatóság, járási hivatal vagy konzuli tisztviselő az (1) bekezdés a) és b) pontja szerint végzi el a személyazonosság ellenőrzését.
+
+(4)[^120] Ha a kérelem felvételénél végrehajtott adategyeztetéskor a személyiadat- és lakcímnyilvántartás adatai nem egyeznek meg a bemutatott okmány vagy okirat adataival – a hazatérés céljából kiállított ideiglenes magánútlevél iránti kérelem kivételével – vizsgálni kell az eltérés okát, és indokolt esetben a személyiadat- és lakcímnyilvántartás adatait haladéktalanul helyesbíteni kell. A helyesbítést magyar állampolgár esetén kizárólag az elektronikus anyakönyvi nyilvántartás adatai alapján lehet elvégezni.
+
+(5)[^121] A személyazonosító igazolvány kiadása és az egységes arcképmás- és aláírás-felvételezés szabályairól szóló kormányrendelet szerinti egységes arcképmás- és aláírás-felvételezés szabályait az úti okmány kiadására irányuló hatósági eljárásban az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(6)[^122]
+
+(7)[^123] Az elveszett, eltulajdonított vagy megsemmisült érvényes magánútlevél helyett új útlevél kiadása esetén a kérelmezőnek magyar állampolgárságát nem kell igazolnia, ha az útlevélhatóság a magánútlevél visszavonására intézkedést nem tett.
+
+(8)[^124] Az eljáró hatóság két alkalommal hívhatja fel hiánypótlásra a kérelmezőt.
+
+## A diplomata- és a külügyi szolgálati útlevél[^126]
+
+### 20/A. §[^127]
+
+(1)[^128] Az Utv. 12. § (1) bekezdése és 13. § (1) bekezdése szerinti jogosultak a diplomata- és külügyi szolgálati útlevél iránti kérelmüket a külpolitikáért felelős miniszternél a jogosultságot megalapozó megbízatás vagy jogviszony igazolásával együtt nyújtják be.
+
+(2)[^129] Az (1) bekezdés szerinti igazolás tartalmazza:
+
+a) a jogosult családi és utónevét, természetes személyazonosító adatait,
+
+b) az útlevél kiállítására való jogosultságnak az Utv. 12. § (1) bekezdésben vagy 13. § (1) bekezdésében meghatározott jogszabályi alapját, valamint az Utv. 7. § (7) bekezdése szerinti diplomáciai rangot, egyéb tisztséget vagy jogcímet,
+
+c) a diplomata- és külügyi szolgálati útlevélre jogosult hozzátartozójának családi és utónevét, természetes személyazonosító adatait, továbbá a jogosult és a hozzátartozó közötti kapcsolat előzetes ellenőrzésének tényét (előzetes ellenőrzés hiányában a kérelmet előterjesztőnek a törvényes képviselői, illetve hozzátartozói jogállását igazolnia kell az eljáró útlevélhatóság előtt),
+
+d) második diplomata- és külügyi szolgálati útlevél kérelmezése esetén a kérelem előterjesztésének indokát.
+
+(3)[^130] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külpolitikáért felelős miniszter engedélyezési hatáskörébe tartozik, az erre irányuló javaslatot a külpolitikáért felelős miniszterhez kell előzetesen megküldeni. A diplomata- és külügyi szolgálati útlevél iránti kérelem a javaslat engedélyezéséről hozott döntést követően nyújtható be.
+
+(4)[^131] Az (3) bekezdés szerinti javaslatnak tartalmaznia kell:
+
+a) a kérelmet benyújtó természetes személyazonosító adatait,
+
+b) a javaslatot alátámasztó indokolást,
+
+c) második diplomata- vagy külügyi szolgálati útlevél kiadásának kérelmezése esetén, a második okmány igénylésének külön indokolását.
+
+(5)[^132]
+
+(6)[^133]
+
+(7)[^134] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor, vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a Külgazdasági és Külügyminisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
+
+### 20/B. §[^135]
+
+Ha az Utv. 7. § (4) bekezdése alapján kiadható útlevél iránti igény benyújtásakor az elektronikus kérelem előállítása technikai akadályba ütközik, az útlevélkérelmet jogszabályban előírt formanyomtatványon kell előterjeszteni.
+
+### 20/C. §[^136]
+
+(1)[^137]
+
+(2)[^138] Ha a kérelmet előterjesztő vagy a javaslatot tevő szerv birtokában korábban kiállított diplomata- vagy külügyi szolgálati útlevél van, és a diplomata vagy a külügyi szolgálati útlevél birtokosának a jogosultságot megalapozó megbízatása vagy jogviszonya megszűnt, akkor az okmányt megküldi a külpolitikáért felelős miniszternek. A diplomata vagy a külügyi szolgálati útlevél érvénytelenítéséről az útlevélhatóság gondoskodik.
+
+(3) A diplomata- és külügyi szolgálati útlevélre irányuló kérelmet a Külgazdasági és Külügyminisztérium az okmány kiadásával teljesíti; a kiállított útlevelet a megkereső szerv felhatalmazott képviselőjének vagy a jogosultnak adja át, aki az átvételt aláírásával igazolja.
+
+## Különleges eljárások[^139]
+
+### 21. §[^140]
+
+(1)[^141] A konzuli tisztviselő a külföldön élő vagy tartózkodó állampolgár részére az ideiglenes magánútlevelet haladéktalanul állítja ki, ha az ideiglenes magánútlevél kiállítására a konzuli védelemről szóló 2001. évi XLVI. törvény 5. §-a értelmében kerül sor.
+
+(2)[^142] Az útlevélhatóság a magánútlevelet és a második magánútlevelet soron kívüli eljárás keretében öt napon belül kiállítja.
+
+### 21/A. §[^143]
+
+Az útlevélhatóság a magánútlevelet, valamint a második magánútlevelet sürgősségi eljárás keretében a kérelem benyújtásától számított három napon belül kiállítja.
+
+### 21/B. §[^144]
+
+Az útlevélhatóság a magánútlevelet, valamint a második magánútlevelet azonnali eljárás keretében a kérelem benyújtásától számított huszonnégy órán belül kiállítja
+
+## A második magánútlevél kiadása[^145]
+
+### 22. §[^146]
+
+(1) A második magánútlevél kiadása szempontjából az útlevélhatóság különös méltánylást érdemlő körülményként értékeli, ha az utazás célja szerinti országba történő beutazás a meglévő magánútlevélben elhelyezett bejegyzés miatt meghiúsulhatna, vagy emiatt a kérelmezőt más joghátrány érhetné.
+
+(2) A beutazás megtagadásának vagy joghátrány okozásának lehetőségével kapcsolatban kétség esetén a külügyminiszter állásfoglalását kell kérni.
+
+## A HATÁROZAT
+
+### 23. §
+
+(1)[^147] Ha a kérelmező a személyiadat- és lakcímnyilvántartás hatálya alá tartozik, akkor az úti okmányt a személyiadat- és lakcímnyilvántartásból átvett személyes adatokkal kell kiállítani.
+
+(2)[^148] Az úti okmányt – a (2a)–(2c) bekezdésben meghatározott kivétellel – a kérelmező a kérelem benyújtásakor tett kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően veheti át
+
+a) személyesen, törvényes képviselője vagy meghatalmazottja útján a járási hivatalnál,
+
+b) külföldön a konzuli tisztviselőnél vagy a konzuli tisztviselő által – a könyvelt küldeményként történő kézbesítésre vonatkozó szabályoknak megfelelően – postára adott úti okmányt postai úton,
+
+c) az eljáró útlevélhatóságnál, vagy
+
+d) belföldön – a könyvelt küldeményként történő kézbesítésre vonatkozó szabályoknak megfelelően – postai úton, igazgatási szolgáltatási díj ellenében.
+
+(2a)[^149] A sürgősségi, valamint az azonnali kiállítású úti okmányt a kérelmező személyesen, törvényes képviselője vagy meghatalmazottja útján Budapest Főváros Kormányhivatalánál és az általános hatáskörű útlevélhatóságnál veheti át.
+
+(2b)[^150] A soron kívül kiállított úti okmányt a kérelmező személyesen, törvényes képviselője vagy meghatalmazottja útján a járási hivatalnál veheti át.
+
+(2c)[^151]
+
+(3)[^152] A kérelmező az okmány és a benne lévő tároló elem tartalmát a járási hivatalnál, a konzuli tisztviselőnél vagy az eljáró útlevélhatóságnál személyesen ellenőrizheti.
+
+(4)[^153]
+
+(5)[^154]
+
+(6)[^155] A megjelölt belföldi kézbesítési címre postai úton megküldött és át nem vett útlevelet a kérelmező személyesen, törvényes képviselője vagy meghatalmazottja útján veheti át a kézbesítési cím szerint illetékes járási hivatalnál.
+
+(7)[^156] Az át nem vett útlevelet – az átvételre való felhívást követően, annak meghiúsulása esetén – a járási hivatal, az eljáró útlevélhatóság az útlevél kiállításától számított 60 nap, a konzuli tisztviselő az útlevél kiállításától számított egy év elteltével érvényteleníti, és gondoskodik ezen ténynek az útiokmány-nyilvántartásban való feltüntetéséről, továbbá az okmány általános hatáskörű útlevélhatóság részére történő megküldéséről. Az általános hatáskörű útlevélhatóság az át nem vett, érvénytelenített útlevelet beérkezését követően selejtezi, megsemmisítésre előkészíti, és gondoskodik e ténynek az útiokmány-nyilvántartásban való feltüntetéséről.
+
+(8)[^157] Ha a kérelem benyújtásakor a 18. § (2) bekezdésében foglaltak szerint nem került sor az okmány eltulajdonítására, elvesztésére vagy megsemmisülésére vonatkozó nyilatkozat megtételére és az új okmány átvételekor a korábbi okmány nem kerül leadásra, akkor a korábbi okmányt elveszettként kell feltüntetni a nyilvántartásban.
+
+## AZ ÚTI OKMÁNY BIRTOKBAN TARTÁSÁRA VONATKOZÓ SZABÁLYOK
+
+### 24. §
+
+(1)[^158] Az úti okmány jogszerű birtokosa köteles az úti okmányát sértetlenül megőrizni, a hatóság felhívására bemutatni, visszavonás vagy visszatartás elrendelésekor az úti okmány átvételére jogosultnak átadni, illetőleg a jogosultság megszűnésekor az azt kiállító hatóságnak leadni.
+
+(2)[^159]
+
+(3)[^160] Az úti okmányt másra átruházni, letétbe helyezni vagy biztosítékul átadni, illetőleg átvenni, abba – az Utv. 7. § (8) bekezdésében meghatározott szervek kivételével – bejegyzést tenni nem szabad.
+
+(4)[^161] Akinek az úti okmányát eltulajdonították, megsemmisült, vagy elvesztette, köteles azt haladéktalanul, de legkésőbb a tudomásra jutástól számított három munkanapon belül az úti okmány iránti kérelem átvételére jogosult szervnél vagy az útlevélhatóságnál bejelenteni. Az úti okmány eltulajdonítása miatt a bejelentési kötelezettség a rendőrségnél tett feljelentéssel is teljesíthető.
+
+(5)[^162] Ha a bejelentési kötelezettséget a rendőrségnél teljesítették, a rendőrség elektronikus úton értesíti az általános hatáskörű útlevélhatóságot. A járási hivatal, a konzuli tisztviselő, illetve az általános hatáskörű útlevélhatóság haladéktalanul gondoskodik az úti okmány eltulajdonítása, megsemmisülése, elvesztése tényének útiokmány-nyilvántartásban történő átvezetéséről.
+
+(6)[^163] Az elveszettnek vélt és az erről szóló bejelentés után megtalált úti okmányról a megtalálástól számított három munkanapon belül értesíteni kell az úti okmány átvételére jogosult szervet, illetve az útlevélhatóságot.
+
+(7)[^164] A járási hivatal, a konzuli tisztviselő és az általános hatáskörű útlevélhatóság az előtte tett bejelentés esetén haladéktalanul gondoskodik a találás tényének a nyilvántartáson történő átvezetéséről.
+
+(8)[^165] Az elvesztés vagy eltulajdonítás miatt érvénytelenné vált, de később megtalált úti okmány, az ügyfél kérelmére, az okmány 25. § (6) bekezdése szerint végrehajtott érvénytelenítését követően és abban az esetben adható vissza, amennyiben az még valamely országban való tartózkodásra (belépésre, átutazásra, kiutazásra) jogosító érvényes engedélyt tartalmaz.
+
+## Az úti okmány leadása
+
+### 25. §
+
+(1)[^166] A(z)
+
+a)[^167] európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy annak házastársa, gyermeke diplomata-útlevelét az Országgyűlés Hivatalánál vagy külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél,
+
+b) Utv. 14. § (4) bekezdésében meghatározott személy szolgálati útlevelét a kiadásra javaslatot tevő szervnél,
+
+c) hajós szolgálati útlevelet a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezetnél,
+
+d)[^168] a)–c) pontban meghatározott hivatalos útlevelek kivételével a hivatalos útlevelet az utazást elrendelő szervnél, vagy külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél,
+
+e)[^169] *a)–d)* pontban meghatározott útlevelek kivételével egyéb okmányt az útlevélhatóságnál, a járási hivatalnál vagy a konzuli tisztviselőnél
+
+tizenöt napon belül le kell adni, ha megszűnt az arra való jogosultság.
+
+(2)[^170] Az európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy annak házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala, az Utv. 14. § (4) bekezdésben meghatározott személy szolgálati útlevele esetében a kiadásra javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet az Utv. 20. § (1) bekezdés e) pontja alapján érvénytelenné váló hivatalos útlevél jogosultját, a jogosultság megszűnését megelőző tizenöt nappal értesíti a jogosultság megszűnésének időpontjáról, a leadási kötelezettségről, annak határidejéről, valamint a leadás elmaradásának jogkövetkezményeiről.
+
+(2a)[^171] A (2) bekezdésben meghatározott hivatalos útlevelek kivételével az utazást elrendelő szerv, vagy a külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálat irányításáért felelős szervezeti egysége, az Utv. 20. § (1) bekezdés e) pontja alapján érvénytelenné váló hivatalos útlevél jogosultját, a jogosultság megszűnését megelőző tizenöt nappal értesíti a jogosultság megszűnésének időpontjáról, a leadási kötelezettségről, annak határidejéről, valamint a leadás elmaradásának jogkövetkezményeiről.
+
+(2b)[^172] Ha a hivatalos útlevél jogosultja az Utv. 20. § (1) bekezdés e) pontja szerint érvénytelenné vált hivatalos útlevelet a tizenöt napos határidőn belül nem adja le, akkor
+
+a) az európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy annak házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala,
+
+b) az Utv. 14. § (4) bekezdésében meghatározott személy szolgálati útlevele esetében a kiadásra javaslatot tevő szerv,
+
+c) az a) és b) pontban meghatározott hivatalos útlevelek kivételével az utazást elrendelő szerv
+
+a leadási határidő eredménytelen elteltét követő munkanapon értesíti az útlevélhatóságot a jogosultság, illetve a jogosultságot megalapozó megbízatás vagy jogviszony megszűnéséről és az útlevél leadási kötelezettségének elmulasztásáról.
+
+(2c)[^173] A külpolitikáért felelős miniszter érvényteleníti az útiokmány-nyilvántartásban azon személy diplomata- vagy külügyi szolgálati útlevelét, akinek az arra való jogosultsága megszűnt, de az útlevelet az (1) bekezdés szerint nem adta le.
+
+(3)[^174] A külföldön élő vagy tartózkodó magyar állampolgár előző, le nem járt érvényességi idejű magánútlevelét, második magánútlevelét, ideiglenes magánútlevelét, diplomata- vagy külügyi szolgálati útlevelét az új úti okmány átvételével egyidejűleg köteles a konzuli tisztviselőnél személyesen leadni vagy postai úton eljuttatni.
+
+(4)[^175] Az ideiglenes magánútlevelet az állampolgár a Magyarországra történő hazautazását követő öt munkanapon belül köteles a járási hivatalnál leadni, amely azt megküldi a külpolitikáért felelős miniszternek. Az ideiglenes magánútlevelet az állampolgár a szokásos tartózkodási helye szerinti országba történő visszautazását követő öt munkanapon belül köteles a konzuli tisztviselőnél leadni vagy részére postai úton eljuttatni.
+
+(5)[^176] A jogosultja halála esetén a még le nem járt érvényességi idejű úti okmányt hozzátartozója – vagy akinek a birtokába került – tizenöt munkanapon belül, továbbá, aki úti okmányt talál, három munkanapon belül köteles a járási hivatalhoz, a kiállító útlevélhatósághoz vagy külföldön a konzuli tisztviselőhöz személyesen vagy postai úton eljuttatni.
+
+(6)[^177] Az úti okmányt az adatoldal átlyukasztásával kell érvényteleníteni. Az érvénytelenített úti okmányt a konzuli tisztviselő, a járási hivatal, valamint az általános hatáskörű útlevélhatóság kérelemre – az elhunyt úti okmánya esetén a hozzátartozó ilyen irányú kérelmére – visszaadja.
+
+(7)[^178] A konzuli tisztviselő az érvénytelenített magánútlevelet és második magánútlevelet, a járási hivatal az érvénytelenített magánútlevelet, második magánútlevelet, szolgálati és hajós szolgálati útlevelet – a 24. § (8) bekezdésében és a 25. § (6) bekezdésében meghatározott kivétellel – az általános hatáskörű útlevélhatóságnak küldi meg megsemmisítés céljából.
+
+### 26. §[^179]
+
+A hivatalos útlevél rendeltetésszerű használatával összefüggésben az utazást elrendelő szerv – az európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala, az Utv. 14. § (4) bekezdésében meghatározott szolgálati útlevél esetében a javaslatot tevő szerv, hajós szolgálati útlevél esetében a hajón teljesítendő szolgálatot igazoló gazdálkodó szervezet – ellenőrzi, hogy a hivatalos útlevél
+
+a) jogszerűen került-e felhasználásra, valamint
+
+b) a jogszabályban meghatározott határidőn belül került-e leadásra.
+
+## Az úti okmány cseréje
+
+## HIVATALOS ÚTLEVELEK ÉS A HATÁRÁTLÉPÉSI IGAZOLVÁNY NYILVÁNTARTÁSA, KEZELÉSE
+
+### 29. §[^182]
+
+(1)[^183] A diplomata- – kivéve az európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy annak házastársa, gyermeke diplomata-útlevelét –, a külügyi szolgálati, a szolgálati – kivéve az Utv. 14. § (4) bekezdésében meghatározott személy szolgálati útlevelét – és a hajós szolgálati útlevél, valamint a határátlépési igazolvány esetén az utazást elrendelő szerv
+
+a) nyilvántartást vezet, amely tartalmazza az úti okmány adatait, az utazónak történő átadás és visszavétel időpontját,
+
+b) ellenőrzi a rendeltetésszerű – kizárólag hivatalos célú – felhasználást,
+
+c) gondoskodik a biztonságos őrzésről,
+
+d) az úti okmányt haladéktalanul megküldi az útlevélhatóságnak, ha az arra való jogosultság megszűnt.
+
+(2)[^184] Az európai parlamenti képviselő, az országgyűlési képviselő, a nemzetiségi szószóló, vagy annak házastársa, gyermeke diplomata-útlevele esetében az Országgyűlés Hivatala
+
+a) nyilvántartást vezet, amely tartalmazza az úti okmány adatait, az utazónak történő átadás és visszavétel időpontját,
+
+b) gondoskodik a biztonságos őrzésről,
+
+c) az úti okmányt haladéktalanul megküldi az útlevélhatóságnak, ha az arra való jogosultság megszűnt.
+
+(3) Az Utv. 14. § (4) bekezdésében meghatározott személy szolgálati útlevele esetében a kiadásra javaslatot tevő szerv
+
+a) nyilvántartást vezet, amely tartalmazza az úti okmány adatait, az utazónak történő átadás és visszavétel időpontját,
+
+b) ellenőrzi a rendeltetésszerű felhasználást,
+
+c) gondoskodik a biztonságos őrzésről,
+
+d) az úti okmányt haladéktalanul megküldi az útlevélhatóságnak, ha az arra való jogosultság megszűnt.
+
+(4) Az útlevélhatóság az utazást elrendelő szervtől az (1) bekezdés a)–d) pontjában, az Országgyűlés Hivatalától a (2) bekezdés a)–c) pontjában meghatározott, a kiadásra javaslatot tevő szervtől a (3) bekezdés a)–d) pontjában meghatározott adatokat kérhet.
+
+### 29/A. §[^185]
+
+(1)[^186] A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelek biztonságos megőrzéséről és azok naprakész nyilvántartásáról az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv gondoskodik.
+
+(2) A sorszámozott nyilvántartásnak tartalmaznia kell az útlevél birtokosa által megadott következő adatokat:
+
+a) családi és utónevét,
+
+b) elérhetőségeit,
+
+c) az útlevél számát,
+
+d) az útlevél felvételének és visszaadásának keltét,
+
+e) aláírását és
+
+f) az utazás célját (hivatalos vagy magán).
+
+(3) A nyilvántartást és az útleveleket számzáras lemezszekrényben kell őrizni.
+
+(4)[^187] A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelet a Magyarország területére történt visszatérést, illetve a tartós külszolgálat időtartamának lejártát követő három munkanapon belül kell az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv részére visszaadni.
+
+(5)[^188] A jogosultság megszűnését vagy az útlevél lejártát követően az útlevelet a nyilvántartó adatlap másolatával tizenöt napon belül meg kell küldeni a Külgazdasági és Külügyminisztérium részére, és az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv nyilvántartásából törölni kell.
+
+(6)[^189] Az útlevelek rendeltetésszerű használatát, őrzését és a vezetett nyilvántartást a külpolitikáért felelős miniszter ellenőrizheti.
+
+### 29/B. §[^190]
+
+(1)[^191] A diplomata- és a külügyi szolgálati útlevél – a (2) bekezdésben foglalt kivétellel – a hivatalos célú utazást megelőzően legkorábban három munkanappal vehető fel az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szervtől.
+
+(2)[^192] Ha a hivatalos célú utazáshoz vízum beszerzése szükséges, erről az utazás elrendelésekor az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv értesíti a Külgazdasági és Külügyminisztériumot, amely intézkedik a vízum beszerzése iránt. Ebben az esetben az útlevél az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szervnél legkorábban az utazás megkezdése előtt harminc nappal vehető fel. A megkeresésben közölni kell a vízumkérelem benyújtásához szükséges adatokat.
+
+(3) Az Utv. 11. § (2) bekezdésével összhangban magáncélú utazás esetén a diplomata útlevelet legkésőbb három nappal az utazás megkezdése előtt kell kikérni. A diplomata útlevél magáncélú utazásra való kiadása indokolt esetben megtagadható.
+
+(4)[^193] Az útlevél elvesztéséről, eltulajdonításáról, megsemmisüléséről, megrongálódásáról, illetve megtalálásáról haladéktalanul, de legkésőbb a tudomásszerzéstől számított három munkanapon belül a bejelentésről készült rendőrségi jegyzőkönyv csatolásával értesíteni kell a Külgazdasági és Külügyminisztériumot, illetve külföldön az illetékes diplomáciai vagy konzuli képviseletet.
+
+### 29/C. §[^194]
+
+(1) A diplomata- és külügyi szolgálati útlevelet csak a külpolitikáért felelős miniszter által vezetett minisztériumban lehet selejtezni.
+
+(2) A lejárt és selejtezett útlevelek adatoldalának jogszabályban meghatározott adatait a külpolitikáért felelős miniszter által vezetett minisztérium ötven évig nyilvántartja.
+
+(3) A külügyminiszter hatáskörébe tartozó diplomata- és külügyi szolgálati útlevelek kiadásával és adattartalmával kapcsolatos – a 29/A. § (2) bekezdése szerinti nyilvántartásból történő – adatszolgáltatást csak a Külgazdasági és Külügyminisztérium végezhet.
+
+## Adatszolgáltatás[^195]
+
+### 29/D. §
+
+(1) Az útiokmány-nyilvántartás adatait érintő adatszolgáltatás iránti kérelem az általános hatáskörű útlevélhatósághoz nyújtható be.
+
+(2) A kérelmező az adat igénylésekor azt a tényt vagy eseményt köteles megjelölni, amely az adatfelhasználási cél alapját képező – az érintett és közötte fennálló – kapcsolatot hitelt érdemlően igazolja.
+
+(3) A kérelmező az adat igénylésekor az adatfelhasználás jogalapját pontos jogszabályhely megjelölésével vagy a jogalapot igazoló dokumentum megküldésével igazolja.
+
+(4) Egyedileg azonosítandó személy adatainak igénylése esetén abban az esetben teljesíthető adatszolgáltatás, amennyiben a közölt ismérveknek csak egy személy adata felel meg.
+
+(5) A közvetlen hozzáféréssel történő adatigénylést engedélyező határozat alapján, annak véglegessé válásától számított legfeljebb 1 évig teljesíthető az adatszolgáltatás.
+
+(6) A nyilvántartásból közvetlen hozzáféréssel történő adatszolgáltatást igénybe vevő szervezet vagy személy – az adatszolgáltatás igénybevételéhez – az általános hatáskörű útlevélhatóság részére megadott adataiban bekövetkezett változásokról az adatváltozást követő három munkanapon belül értesíti az általános hatáskörű útlevélhatóságot.
+
+(7) Az általános hatáskörű útlevélhatóság a már engedélyezett közvetlen hozzáféréssel történő adatigénylés útján történő adatszolgáltatást megszünteti, és a kiadott engedélyt visszavonja, ha az adatigénylő részére történő adatszolgáltatás célja vagy jogalapja megszűnt.
+
+## ZÁRÓ RENDELKEZÉSEK
+
+### 30. §
+
+(1) Ez a rendelet 1998. szeptember 1-jén lép hatályba.
+
+(2)[^196] Az egy ideiglenes úti okmány létrehozásáról szóló, 1996. június 25-i 96/409/KKBP határozat I. mellékletében meghatározott ideiglenes úti okmány 2025. december 12-ig használható fel.
+
+(3)[^197]
+
+(4)[^198]
+
+### 30/A. §[^199]
+
+E rendeletnek a külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet módosításáról szóló 98/2010. (IV. 2.) Korm. rendelettel megállapított 7. § (3) bekezdését, 13. § (2), (4) és (5) bekezdését, 15. § (4) bekezdését, 18. § (1) bekezdés d) pontját, 19. § (6) bekezdését, valamint 23. § (1)–(3) bekezdését a magánútlevél iránti kérelem benyújtására és a közreműködői feladatok ellátására – a berlini székhelyű konzuli tisztviselő kivételével – 2010. december 1-jétől kell alkalmazni.
+
+### 30/B. §[^200]
+
+(1)[^201] A 23. § (2) bekezdés a) pontjában foglaltaktól eltérően, humánjárvány miatt kihirdetett veszélyhelyzet és a Kormány által elrendelt egészségügyi válsághelyzet esetén a nem különleges eljárásban kiállított útlevél – a (2) bekezdésben meghatározott kivétellel – kizárólag postai úton, hivatalos iratként kerül kézbesítésre az ügyfeleknek. Az át nem vett okmányokra a 7. § (3) bekezdés g) pontját kell alkalmazni.
+
+(2) Ha a kérelem benyújtását követően az ügyfél birtokában leadási kötelezettséggel érintett, visszahagyott útlevél marad, úgy postai úton történő kézbesítés nem lehetséges.
+
+### 31. §[^202]
+
+(1)[^203] E rendelet , 17. § (1) bekezdése és 23. § (1) bekezdése a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 4. cikke (1) bekezdésének végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(2)[^204] E rendelet az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) E rendelet 3. §-a (2) bekezdésének f) és g) pontja, valamint 3. §-ának (3) és (4) bekezdése a tagállamok által kiállított útlevelekben és úti okmányokban alkalmazott biztonsági jellemzők és biometria szabványaira vonatkozó műszaki előírások megállapításáról szóló 2005/II/28. bizottsági határozat melléklete 5.3. pontjának való megfelelést szolgálja.
+
+(4)[^205] E rendelet 2. § (1) bekezdés b) és c) pontja, valamint 11/A. §-a a harmadik országok állampolgárainak, illetve a hontalan személyeknek menekültként vagy a más okból nemzetközi védelemre jogosultként való elismerésének feltételeiről és az e státuszok tartalmára vonatkozó minimumszabályokról szóló, 2004. április 29-i 2004/83/EK tanácsi irányelv 25. cikkének való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § d) pontját a 317/2020. (VII. 1.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^2]: Az 1. § e) pontját a 317/2020. (VII. 1.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^3]: A 2. § a 197/2006. (IX. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdés a) pontja a 479/2024. (XII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdésének új c) pontját a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése iktatta be, egyidejűleg az eredeti c)–d) pont jelölését d)–e) pontra változtatva.
+[^6]: A 2. § (1) bekezdése eredeti c) pontjának jelölését a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése d) pontra változtatta.
+[^7]: A 2. § (1) bekezdése eredeti d) pontjának jelölését a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése e) pontra változtatta. A 2. § (1) bekezdés e) pontja a 479/2024. (XII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdésének f) pontját a 301/2007. (XI. 9.) Korm. rendelet 111. § (2) bekezdése iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 229/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^13]: A 3. § (3) bekezdés nyitó szövegrésze a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés a) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 3. § (7) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^16]: A 4. § a 197/2006. (IX. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^17]: A 4. § (1) bekezdésének felvezető szövege a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja szerint módosított szöveg.
+[^18]: A 4. § (1) bekezdés b) pontja a 479/2024. (XII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdésének bevezető szövegrésze a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 4. § (2) bekezdésének a) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdés b) pontja a 479/2024. (XII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^22]: A 4. § (2) bekezdésének c) pontját a 301/2007. (XI. 9.) Korm. rendelet 111. § (3) bekezdése iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 4. § (2) bekezdésének d) pontját a 117/2009. (VI. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 4. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^25]: Az 5. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^26]: Az 5. § (1) bekezdése a 35/2024. (II. 29.) Korm. rendelet 272. § c) pontja szerint módosított szöveg.
+[^27]: Az 5. § (3) bekezdését a 479/2024. (XII. 31.) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 6. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^29]: A 7. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^30]: A 7. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^31]: A 7. § (1) bekezdés c) pontját a 478/2024. (XII. 31.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
+[^32]: A 7. § (3) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^33]: A 7. § (3) bekezdés h) pontja a 184/2025. (VII. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^34]: A 7. § (3) bekezdés l) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^35]: A 7. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^36]: A 7. § (4) bekezdés h) pontja a 184/2025. (VII. 3.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^37]: A 7. § (4) bekezdés k) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^38]: A 7/A. §-t a 89/2025. (IV. 30.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A 8. §-t megelőző cím a 197/2006. (IX. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^40]: A 8. §-t megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^41]: A 8. § (1) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^42]: A 8. § (2) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 17. §-ának (2) bekezdése hatályon kívül helyezte.
+[^43]: A 8. § (3) bekezdése a 122/2004. (IV. 29.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
+[^44]: A 8. § (4) bekezdése a 122/2004. (IV. 29.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
+[^45]: A 8. § (5) bekezdése a 122/2004. (IV. 29.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított, valamint a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^46]: A 8. § (6) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^49]: A 10/A. §-t megelőző címet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
+[^50]: A 10/A. §-t megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, az alcím címe a 479/2024. (XII. 31.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^51]: A 10/A. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be.
+[^52]: A 10/A. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 479/2024. (XII. 31.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^53]: A 10/A. § (2) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^54]: A 10/A. § (3) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^55]: A 10/B. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^56]: A 10/C. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^57]: A 10/D. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés e) pontja szerint módosított szöveg.
+[^58]: A 10/E. §-t a 197/2006. (IX. 27.) Korm. rendelet 5. §-a iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^59]: A 10/F. §-t a 479/2024. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^60]: A 10/G. §-t a 479/2024. (XII. 31.) Korm. rendelet 9. §-a iktatta be.
+[^61]: A 11. §-t megelőző alcíme a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (1) bekezdésével megállapított szöveg.
+[^62]: A 11. § a 122/2004. (IV. 29.) Korm. rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^63]: A 11. § (1) bekezdése a 115/2007. (V. 24.) Korm. rendelet 7. § (2) bekezdésével megállapított, valamint a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
+[^64]: A 11. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^65]: A 11. § (3) bekezdése a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
+[^66]: A 11. § (4) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 111. § (4) bekezdése iktatta be.
+[^67]: A 11/A. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^68]: A 11/A. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be.
+[^69]: A 11/B. §-t megelőző alcímet a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be, az alcím címe a 479/2024. (XII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^70]: A 11/B. §-t a 301/2007. (XI. 9.) Korm. rendelet 111. § (5) bekezdése iktatta be, szövege a 479/2024. (XII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^71]: Az „A huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya” alcím címe a 35/2024. (II. 29.) Korm. rendelet 271. §-ával megállapított szöveg.
+[^72]: A 12. § a 115/2007. (V. 24.) Korm. rendelet 7. § (3) bekezdésével megállapított, nyitó szövegrésze a 35/2024. (II. 29.) Korm. rendelet 272. § d) pontja szerint módosított szöveg.
+[^73]: A 12. § b) pontja a 35/2024. (II. 29.) Korm. rendelet 272. § e) pontja szerint módosított szöveg.
+[^74]: A 13. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^75]: A 13. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 478/2024. (XII. 31.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^76]: A 13. § (2) bekezdés nyitó szövegrésze a 317/2020. (VII. 1.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^77]: A 13. § (2) bekezdés b) pontja a 317/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^78]: A 13. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be, a 478/2024. (XII. 31.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^79]: A 13. § (2b) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^80]: A 14. § (1) bekezdése a 360/2011. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^81]: A 14. § (1) bekezdés a) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^82]: A 14. § b) pontja a 375/2021. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^83]: A 14. § c) pontja a 375/2021. (VI. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^84]: A 14. § (1) bekezdés d) pontja a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése d) pontja szerint módosított szöveg.
+[^85]: A 14. § (1) bekezdés f) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^86]: A 14. § (1) bekezdés g) pontja a 126/2019. (V. 30.) Korm. rendelet 9. § b) pontja, a 35/2024. (II. 29.) Korm. rendelet 272. § f) pontja szerint módosított szöveg.
+[^87]: A 14. § (1) bekezdés h) pontja a 479/2024. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^88]: A 14. § (1) bekezdés i) pontját a 479/2024. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^89]: A 14. § (1) bekezdés j) pontját a 479/2024. (XII. 31.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^90]: A 14. § (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^91]: A 15. § a 477/2016. (XII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^92]: A 16. § a 409/2012. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^93]: A 16. § (1) bekezdés a) pontja a 203/2015. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^94]: A 16. § (1) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés h) pontja szerint módosított szöveg.
+[^95]: A 16. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés i) pontja, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés d) pontja szerint módosított szöveg.
+[^96]: A 16. § (3) bekezdését a 203/2015. (VII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^97]: A 16. § (4) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (7) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^98]: A 17. § (1) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 2. §-ával megállapított, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés e) pontja, a 317/2020. (VII. 1.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^99]: A 17. § (2) bekezdése a 478/2024. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^100]: A 17. § (2a) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^101]: A 17. § (3) bekezdése a 184/2025. (VII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^102]: A 17. § (3a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 6. § (6) bekezdésével megállapított, a 375/2021. (VI. 30.) Korm. rendelet 7. § a) pontja szerint módosítot szöveg.
+[^103]: A 17. § (3b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
+[^104]: A 17. § új (4) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva. A 17. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^105]: A 17. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 2. § (5) bekezdése. A 17. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^106]: A 17. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 395/2025. (XII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^107]: A 17. § (6a) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^108]: A 17. § (7) bekezdését a 203/2015. (VII. 23.) Korm. rendelet 2. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 58. § (2) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^109]: A 18. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^110]: A 18. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
+[^111]: A 18. § (3) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés f) pontja szerint módosított szöveg.
+[^112]: A 18. § (4) bekezdését a 15/2013. (I. 28.) Korm. rendelet 32. §-a iktatta be.
+[^113]: A 18. § (5) bekezdését a 203/2015. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^114]: A 18. § (6) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 6. § (7) bekezdésével megállapított szöveg.
+[^115]: A 19. § (1) bekezdése a 28/2020. (II. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^116]: A 19. § (1) bekezdés c) pontja a 28/2020. (II. 28.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^117]: A 19. § (1) bekezdés d) pontját a 375/2021. (VI. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^118]: A 19. § (1) bekezdés e) pontját a 375/2021. (VI. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^119]: A 19. § (3) bekezdése a 28/2020. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 16. § b) pontja szerint módosított szöveg.
+[^120]: A 19. § új (4) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 12. §-a iktatta a szövegbe, egyidejűleg az eredeti (4)–(5) bekezdés számozását (5)–(6) bekezdésre változtatva. A 19. § (4) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 409/2012. (XII. 28.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^121]: A 19. § eredeti (4) bekezdésének számozását a 122/2004. (IV. 29.) Korm. rendelet 12. §-a (5) bekezdésre változtatta. A 19. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 194/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 71. §-a szerint módosított szöveg.
+[^122]: A 19. § (6) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^123]: A 19. § (7) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
+[^124]: A 19. § (8) bekezdését újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (3) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^126]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
+[^127]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^128]: A 20/A. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^129]: A 20/A. § (2) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^130]: A 20/A. § (3) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^131]: A 20/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^132]: A 20/A. § (5) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^133]: A 20/A. § (6) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^134]: A 20/A. § (7) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^135]: A 20/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^136]: A 20/C. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^137]: A 20/C. § (1) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^138]: A 20/C. § (2) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^139]: A 21. §-t megelőző alcím a 360/2011. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^140]: A 21. § a 360/2011. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^141]: A 21. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése h) pontja, a 317/2020. (VII. 1.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^142]: A 21. § (2) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (8) bekezdésével megállapított szöveg.
+[^143]: A 21/A. §-t a 360/2011. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^144]: A 21/B. §-t a 360/2011. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^145]: A 22. §-t megelőző alcím a 117/2009. (VI. 4.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^146]: A 22. § a 117/2009. (VI. 4.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^147]: A 23. § (1) bekezdése a 98/2010. (IV. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^148]: A 23. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 478/2024. (XII. 31.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^149]: A 23. § (2a) bekezdését a 360/2011. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése i) pontja, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés j) pontja szerint módosított szöveg.
+[^150]: A 23. § (2b) bekezdését a 6/2020. (I. 31.) Korm. rendelet 2. §-a iktatta be.
+[^151]: A 23. § (2c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 15. §-a iktatta be, a 184/2025. (VII. 3.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^152]: A 23. § (3) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 98/2010. (IV. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése c) pontja szerint módosított szöveg.
+[^153]: A 23. § (4) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^154]: A 23. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^155]: A 23. § (6) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^156]: A 23. § (7) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 184/2025. (VII. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^157]: A 23. § (8) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^158]: A 24. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^159]: A 24. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
+[^160]: A 24. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^161]: A 24. § (4) bekezdése a 242/2007. (IX. 21.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^162]: A 24. § új (5) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 10. § (1) bekezdése iktatta be, egyidejűleg az eredeti (5) bekezdés számozását (6) bekezdésre változtatva. A 24. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 31. § (4) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 59. § c) pontja, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés h) pontja szerint módosított szöveg.
+[^163]: A 24. § eredeti (5) bekezdésének számozását a 197/2006. (IX. 27.) Korm. rendelet 10. § (1) bekezdése (6) bekezdésre változtatta. A 24. § (6) bekezdése a 242/2007. (IX. 21.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^164]: A 24. § (7) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 31. § (5) bekezdésével megállapított, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés i) pontja szerint módosított szöveg.
+[^165]: A 24. § (8) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 31. § (5) bekezdése iktatta be.
+[^166]: A 25. § (1) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^167]: A 25. § (1) bekezdés a) pontja a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése, a 628/2022. (XII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^168]: A 25. § (1) bekezdés d) pontja a 628/2022. (XII. 30.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^169]: A 25. § (1) bekezdés e) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés j) pontja szerint módosított szöveg.
+[^170]: A 25. § (2) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 360/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése k) pontja, a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése, a 628/2022. (XII. 30.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^171]: A 25. § (2a) bekezdését a 360/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése k) pontja, a 628/2022. (XII. 30.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^172]: A 25. § (2b) bekezdését a 360/2011. (XII. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^173]: A 25. § (2c) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^174]: A 25. § (3) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 409/2012. (XII. 28.) Korm. rendelet 10. § (1) bekezdése l) pontja, a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés k) pontja szerint módosított szöveg.
+[^175]: A 25. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (14) bekezdésével megállapított szöveg.
+[^176]: A 25. § (5) bekezdése a 122/2004. (IV. 29.) Korm. rendelet 17. §-ának (2) bekezdése, a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 174/2012. (VII. 26.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^177]: A 25. § (6) bekezdését a 122/2004. (IV. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^178]: A 25. § (7) bekezdésát a 134/2017. (VI. 9.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^179]: A 26. §-t a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte, újonnan a 360/2011. (XII. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 170/2014. (VII. 18.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^182]: A 29. §-t a 360/2011. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^183]: A 29. § (1) bekezdés nyitó szövegrésze a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^184]: A 29. § (2) bekezdés nyitó szövegrésze a 170/2014. (VII. 18.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^185]: A 29/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^186]: A 29/A. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^187]: A 29/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^188]: A 29/A. § (5) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^189]: A 29/A. § (6) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^190]: A 29/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^191]: A 29/B. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § i) pontja szerint módosított szöveg.
+[^192]: A 29/B. § (2) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § j) pontja szerint módosított szöveg.
+[^193]: A 29/B. § (4) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés l) pontja szerint módosított szöveg.
+[^194]: A 29/C. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^195]: Az „Adatszolgáltatás” alcímet (29/D. §-t) a 184/2025. (VII. 3.) Korm. rendelet 3. §-a iktatta be.
+[^196]: A 30. § (2) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 7. §-a hatályon kívül helyezte, újonnan a 479/2024. (XII. 31.) Korm. rendelet 12. §-a iktatta be.
+[^197]: A 30. § (3) bekezdését a 98/2010. (IV. 2.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^198]: A 30. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1278. pontja hatályon kívül helyezte.
+[^199]: A 30/A. §-t a 98/2010. (IV. 2.) Korm. rendelet 5. §-a iktatta be.
+[^200]: A 30/B. §-t a 284/2020. (VI. 17.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^201]: A 30/B. § (1) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 7. § b) pontja szerint módosítot szöveg.
+[^202]: A 31. §-t a 197/2006. (IX. 27.) Korm. rendelet 12. §-a iktatta be.
+[^203]: A 31. § (1) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése, a 317/2020. (VII. 1.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^204]: A 31. § (2) bekezdése a 479/2024. (XII. 31.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^205]: A 31. § (4) bekezdését a 301/2007. (XI. 9.) Korm. rendelet 111. § (8) bekezdése iktatta be.

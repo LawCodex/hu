@@ -1,0 +1,785 @@
+---
+title: "221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól"
+identifier: "221/2004. (VII. 21.) Korm. rendelet"
+njt_id: "2004-221-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2004/Korm/221"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2004-07-21
+in_force_from: 2009-10-01
+last_amended: 2023-01-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2004-221-20-22"
+retrieved: 2026-10-12
+---
+
+# 221/2004. (VII. 21.) Korm. rendelet a vízgyűjtő-gazdálkodás egyes szabályairól
+
+A Kormány a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 110. §-a (7) bekezdésének o) pontja alapján – figyelemmel a vízgazdálkodásról szóló 1995. évi LVII. törvény 2. §-a (1) bekezdésének a) és b) pontjára, valamint 14. és 15. §-ára – a következőket rendeli el:
+
+### ÁLTALÁNOS RENDELKEZÉSEK
+
+### A rendelet célja, hatálya
+
+#### 1. §
+
+(1)[^1] A rendelet célja, hogy a vizek külön jogszabályok[^2] meghatározott jó állapotának (a továbbiakban: jó állapot) elérése és fenntartása érdekében szükséges intézkedéseket, intézkedési programokat egységes keretbe foglalja és meghatározza az ezeket összefoglaló vízgyűjtő-gazdálkodási terv tartalmát, valamint a tervezés szabályait.
+
+(2) A rendelet hatálya a vízgyűjtő-gazdálkodási tervezésre és az abban meghatározott feladatokat végzőkre, valamint azokra terjed ki, akikre az intézkedési programok rendelkezéseket tartalmaznak.
+
+### Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában:
+
+a) *vízgyűjtő:* olyan földrajzilag lehatárolható terület, amelyről a felszíni vizek – vízfolyások, a felszínen lefolyó egyéb vizek vagy tavak összességén keresztül – egyetlen folyótorkolatban, folyódeltán keresztül a tengerbe jutnak;
+
+b) *vízgyűjtőkerület:* vízgyűjtő-gazdálkodás fő egysége, amely egy vagy több szomszédos vízgyűjtőből álló – az ahhoz tartozó felszín alatti vizeket is magában foglaló – terület;
+
+c)[^3] *részvízgyűjtő:* földrajzilag lehatárolt terület, amelyről a felszíni vizek – vízfolyások és a felszínen lefolyó egyéb vizek, illetőleg tavak összességén keresztül – egy vízfolyás egy pontjához jutnak; a magyarországi vízgyűjtő-gazdálkodási tervezés vonatkozásában a Duna közvetlen részvízgyűjtő, a Tisza részvízgyűjtő, a Dráva részvízgyűjtő és a Balaton részvízgyűjtő területe;
+
+d)[^4] *vízgyűjtő-gazdálkodási tervezési alegység:* a vízgyűjtő-gazdálkodási tervezési feladatok ellátásának az 1. mellékletben meghatározott legkisebb területi egysége;
+
+e) *intézkedési program:* a vizek jó állapotának eléréséhez és fenntartásához szükséges feladatok időarányos teljesítését szolgáló állami és egyéb intézkedések összessége, ideértve az ehhez kapcsolódó jogi szabályozást, továbbá a végrehajtással járó egyedi jogalkalmazást és hatósági ellenőrzést (a továbbiakban együtt: közigazgatási intézkedéseket) is;
+
+f)[^5] *felszíni víztest:* a felszíni vizek lehatárolt, különálló, jelentős eleme (így különösen a tó, tározó, folyó, patak, csatorna) vagy ezek egy része, szakasza;
+
+g)[^6] *felszín alatti víztest:* a felszín alatti vizek vizsgálatának egyes szabályairól szóló külön jogszabály[^7] szerint a felszín alatti víz térben lehatárolt része;
+
+h) *mesterséges víztest:* emberi tevékenység eredményeként létrejött felszíni víztest;
+
+i) *erősen módosított víztest:* olyan felszíni víztest, amely az emberi tevékenységből eredő fizikai hatások következtében jellegében lényegesen megváltozott, és amely így szerepel a vízgyűjtő-gazdálkodási tervben;
+
+j) *a víztestek állapota:* olyan általánosan jellemző állapot, amelyet a felszíni víztest esetében az ökológiai és kémiai állapot közül, felszín alatti víz esetében pedig a mennyiségi, valamint a fizikai és kémiai (együtt: minőségi) állapot közül a kevésbé jó jellemez;
+
+k) *a víztestek jó állapota:* olyan jellemző állapot, amelyben a felszíni víztest ökológiai és kémiai állapota, a felszín alatti víztest minőségi és mennyiségi állapota is – a külön jogszabályok szerint[^8] – legalább jó minősítésű;
+
+l) *ökológiai állapot:* a felszíni vizekhez kapcsolódó vízi ökoszisztémák szerkezetének és működése minőségének leírása, összhangban a külön jogszabályokban meghatározott osztályozással (a továbbiakban: osztályozás);
+
+m)[^9]
+
+n) *ökológiai potenciál:* erősen módosított, illetőleg mesterséges felszíni víztesten várhatóan kialakuló és állandóan fenntartható életközösség, valamint egy vagy több hasonló természetes vagy természeteshez közeli élőhelyre jellemző élőlény-együttes minőségi és mennyiségi jellegű összehasonlítása alapján meghatározható, továbbá osztályozható állapota;
+
+o) *jó ökológiai potenciál:* erősen módosított vagy mesterséges víztest külön jogszabályokban meghatározottak szerinti állapota;
+
+p) *környezeti célkitűzés:* adott víztest adott időpontig elérni kívánt állapota, figyelemmel a külön jogszabályokban, illetve az e rendelet 4. §-ában foglaltakra;
+
+q) *vízszolgáltatások:* azok a szolgáltatások, amelyek biztosítják a háztartások, a közintézmények és a gazdasági tevékenységek számára a felszíni vagy felszín alatti víz kivételét, duzzasztását, tárolását, kezelését, elosztását, a keletkező szennyvíz összegyűjtését és tisztítását, ezt követően a felszíni vizekbe vezetését;
+
+r)[^10] *vízhasználat:* a vízszolgáltatások, valamint egyéb emberi tevékenység, amely a vizek állapotára jelentős hatással van (a vízgazdálkodásról szóló 1995. évi LVII. törvény 1. számú melléklet);
+
+s) *védelem alatt álló terület (védett terület, védőövezet és védőterület):* jogszabályban vagy a hatóság határozatában kijelölt körülhatárolható földterület, amelyhez a jogszabályban meghatározott cél, különösen a környezeti elemek, természeti értékek, a felszíni és felszín alatti, illetőleg az emberi fogyasztásra, használatra szánt vizek (ivóvízbázisok és fürdővizek), valamint vízkivételi művek, továbbá a víztől függő élőhelyek, fajok megóvása érdekében különleges előírások és joghatások kapcsolódnak.
+
+t)[^11] *Duna közvetlen részvízgyűjtő:* Magyarország területén a Dunához tartozó részvízgyűjtő a Tisza, a Dráva és a Balaton részvízgyűjtőjének kivételével.
+
+u)[^12] *ivóvíz kivételi pont:* felszíni vagy felszín alatti vízkészletből emberi fogyasztásra szánt víz kivételi pontja;
+
+v)[^13] *ivóvíz kivételi pontok vízgyűjtő területe:* az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet alkalmazásában ivóvíznek szánt vízkészletet érő veszélyek és veszélyesemények, valamint kockázatok azonosítása és kezelése érdekében a 14/A. § (1) bekezdése alapján kijelölt terület;
+
+w)[^14] *ivóvízszolgáltató:* az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti ivóvízszolgáltató.
+
+## II.
+
+### A VÍZGYŰJTŐ-GAZDÁLKODÁS SZABÁLYAI
+
+### Vízgyűjtő-gazdálkodási terv
+
+#### 3. §[^15]
+
+(1) A vízgyűjtő-gazdálkodási terv tartalmazza a vízgyűjtők jellemzőinek, a környezeti célkitűzéseknek és a vizek jó állapotának elérése érdekében – a Nemzeti Környezetvédelmi Programmal összhangban – azokat a tevékenységeket, beavatkozásokat, amelyek hatással lehetnek a vizek mennyiségi, minőségi és ökológiai állapotára, valamint ezen hatások elemzését, továbbá a vizek jó állapotának elérése érdekében tett és teendő intézkedéseket, intézkedési programokat, a vizek állapotának jellemzéséhez szükséges monitoring programmal együtt.
+
+(2) A vízgyűjtő-gazdálkodási tervet az ország egész területére, ezen belül a Duna közvetlen, a Tisza, a Dráva, valamint a Balaton részvízgyűjtőre, továbbá ezeken belül összesen negyvenkét vízgyűjtő-gazdálkodási tervezési alegységre egységes módszertannal kell elkészíteni.
+
+(3)[^16] A vízgyűjtő-gazdálkodási terv elkészítéséről a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A miniszter irányításával
+
+a)[^17] a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott vízügyi igazgatóság,
+
+b)[^18] a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi hatáskörű vízgazdálkodási tanács jóváhagyásával a miniszter által kijelölt vízügyi igazgatóság,
+
+c)[^19] az országos szintű tervet az országos hatáskörű vízgazdálkodási tanács jóváhagyásával az Országos Vízügyi Főigazgatóság
+
+állítja össze.
+
+(4) A vízgyűjtő-gazdálkodási terv kidolgozója
+
+a) az országos vízgyűjtő-gazdálkodási tervet az Országos Vízgazdálkodási Tanácsnak,
+
+b) a részvízgyűjtőre vonatkozó vízgyűjtő-gazdálkodási tervet a Részvízgyűjtő Vízgazdálkodási Tanácsnak,
+
+c) a tervezési alegység vízgyűjtő-gazdálkodási tervet a Területi Vízgazdálkodási Tanácsnak küldi meg.
+
+(5)[^20]
+
+(6) A vízgyűjtő-gazdálkodási terv tartalmazza különösen:
+
+a) a vízszennyező anyagok kibocsátásának csökkentése és megelőzése érdekében a szennyvízbevezetéseknél a kibocsátási határértékeken, valamint elérhető legjobb technikán (BAT), nem pontszerű (diffúz) szennyezőforrások esetén a lehetséges legjobb környezeti gyakorlaton alapuló intézkedéseket;
+
+b)[^21] a védett területek, védőövezetek, védőterületek, valamint az ivóvíz kivételi pontok vízgyűjtő területei kijelölését és a nyilvántartással kapcsolatos tevékenységeket;
+
+c) a víz használatával összefüggő gazdasági elemzést, a vízszolgáltatások tekintetében a költség-visszatérülés elvének érvényesítését;
+
+d)[^22] a felszín alatti vizek védelméről szóló kormányrendelet szerint meghatározott küszöbértékeket és a meghatározásukra vonatkozó, e rendelet 2. számú mellékletének 11. pontjában felsorolt információkat, illetve annak okát, ha valamely előírt információ nem szerepel a vízgyűjtő-gazdálkodási tervben;
+
+e) a felszín alatti vizek kémiai állapotának meghatározásáról készült, e rendelet 2. számú melléklete szerint összeállított összefoglalót; beleértve a szennyezett területekről származó szennyezőanyag-csóvák hatásának értékelését is;
+
+f) a jelentős és tartósan romló tendenciák azonosításának és visszafordítása érdekében a felszín alatti vizek védelméről szóló külön jogszabály előírásainak megfelelően hozott intézkedések összefoglalóját;
+
+g) a felszín alatti vizek kémiai állapotának értékelését, beleértve annak magyarázatát, hogy a felszín alatti vizek minőségi előírásainak vagy küszöbértékeinek az egyes mintavételi pontokon mért túllépését a végső meghatározásnál milyen módon vették figyelembe.
+
+(7) A vízgyűjtő-gazdálkodási tervezés során figyelembe kell venni az ország, illetve az egyes térségek külön jogszabályokban meghatározott területhasználatának feltételeit, így különösen az ország kiemelt térségeire vonatkozó szerkezeti tervet, a fejlesztések gazdasági, műszaki és ökológiai feltételeit, a települési terület, valamint a mező- és erdőgazdálkodási térségek változásának hatásait.
+
+(8) A vízgyűjtő-gazdálkodási tervezést az egyes tervek, illetve programok környezeti vizsgálatáról szóló külön jogszabályban foglaltakkal összhangban kell elvégezni.
+
+(9) A vízgyűjtő-gazdálkodási terv e rendelet 2. számú melléklete szerinti tartalmi elemei kiegészíthetőek az egyes tervezési egységekre (ország, részvízgyűjtő, alegység), víztípusra, gazdasági vagy más ágazatra irányuló részletesebb programokkal, fejlesztési vagy gazdálkodási tervekkel, a sajátos vízgazdálkodási, így különösen vízigény-kielégítési és medreken belüli in-situ vízigénybevétellel járó problémák megoldása érdekében.
+
+(10) A vízgyűjtő-gazdálkodási terveket az egyéb szakterületi tervekkel – különös tekintettel a környezetvédelmi, természetvédelmi, tájhasználati és vidékfejlesztési tervekre – összhangban kell kialakítani.
+
+#### 4. §[^23]
+
+(1) A tervnek összhangban kell lennie a teljes Duna vízgyűjtőkerületre vonatkozó követelményekkel és feladatokkal, amelyeket a Duna Védelmére és Fenntartható Használatára irányuló Együttműködésről szóló Egyezmény Nemzetközi Bizottsága határoz meg, valamint meg kell felelni a 2008/56/EK európai parlamenti és tanácsi irányelv szerinti együttműködési struktúráknak.
+
+(2) A környezeti célkitűzéseket meghatározó követelmények, így különösen a felszín alatti vizek védelméről szóló külön jogszabály szerinti küszöbértékekre, és az intézkedési programok előkészítése során a határokkal osztott vizekre vonatkozóan együtt kell működni az Európai Unió (a továbbiakban: EU) szomszédos tagállamaival a környezetvédelmi, természetvédelmi és vízügyi kapcsolatokra vonatkozó két- és többoldalú nemzetközi szerződések, megállapodások szabályai szerint. A nem EU tagállamok esetében is törekedni kell a koordinációra, és a víztestek Magyarországra eső részén biztosítani kell e rendelet szabályainak alkalmazását.
+
+(3)[^24] Az (1) és (2) bekezdésekben foglaltaknak megfelelően biztosítani kell, hogy a határszelvényekben a vizek állapota hátrányosan ne változzon, továbbá, hogy a kölcsönös intézkedések eredményeként a vizek jó állapotára jellemző adottságok alakuljanak ki. Ha olyan probléma kerül feltárásra, amely Magyarország vízgazdálkodására is hatással van, de Magyarország nem tudja más tagállam közreműködése nélkül megoldani, akkor a miniszter tájékoztatja a Bizottságot és az érintett tagállamot, és javaslatot tesz a megoldásra.
+
+### Környezeti célkitűzések
+
+#### 5. §
+
+(1) A vízgyűjtő-gazdálkodással járó feladatok és intézkedések körében a vízgyűjtő-gazdálkodási tervnek tartalmaznia kell:
+
+a) a vizek állapota romlásának megelőzését, megakadályozását szolgáló intézkedéseket;
+
+b) a felszíni vizek esetében, a jó ökológiai és kémiai állapot elérését, illetve fenntartásának biztosítását szolgáló feladatokat;
+
+c) az erősen módosított és mesterséges víztestek esetében a jó ökológiai potenciál elérését, illetve fenntartásának biztosítását szolgáló feladatokat;
+
+d)[^25] a vizekre, vízi környezetre a külön jogszabályok[^26] szerint kockázatot jelentő anyagok (elsőbbségi anyagok, elsőbbségi veszélyes anyagok, és egyéb veszélyes anyagok) által okozott szennyezéssel kapcsolatos megállapításokat, intézkedéseket;
+
+e) felszín alatti vizek esetén a jó mennyiségi és kémiai állapot elérését, illetve fenntartásának biztosítását, valamint azokat a feladatokat, amelyek megelőzik, megakadályozzák, illetve korlátozzák a felszín alatti vizek állapotának romlását, a szennyező anyagoknak a felszín alatti vízbe történő bejutását;
+
+f) az emberi tevékenység hatására visszavezethető szennyező anyag kibocsátásának megszüntetését, valamint a szennyezéssel járó folyamat visszafordításához szükséges összetett igazgatási és egyéb intézkedéseket;
+
+g) az *a)–f)* pontokban említett feladatokkal és intézkedésekkel összefüggő határidőket és egyéb feltételeket.
+
+(2)[^27] Ha a környezeti célkitűzések megvalósítását előre nem látható, elháríthatatlan külső ok, vagy a fenntartható fejlesztéssel összefüggő tevékenység akadályozza, az e rendeletben és külön jogszabályokban meghatározott követelményeknek az adott körülményre figyelemmel történő érvényesítését szolgáló külön intézkedési programot kormányhatározatba kell foglalni.
+
+#### 6. §
+
+(1) A felszíni víztest mesterségessé vagy erősen módosítottá nyilvánítható, ha
+
+a) a víztest hidrológiai és hidromorfológiai jellemzőinek a jó ökológiai állapot elérése érdekében szükséges megváltoztatása jelentős mértékben hátrányos hatással lehet
+
+aa) a tágabb környezetre,
+
+ab) a hajózásra, ideértve a kikötői létesítményeket vagy az üdülőhelyekre,
+
+ac) az olyan tevékenységekre, melyek a víz tározását igénylik (így például az ivóvízellátást, energiatermelést, öntözést szolgáló tározás),
+
+ad) a folyószabályozásra, az árvízvédelemre, a területi vízrendezésre vagy az *aa)–ac)*-ben meghatározott hasonlóan jelentős, egyenértékű fenntartható emberi beavatkozásra (beleértve a jövőbeni fejlesztéseket is);
+
+b) a víztest mesterséges vagy megváltoztatott jellemzői által szolgált hasznos célkitűzések a műszaki megvalósíthatatlanság vagy az aránytalan költségek miatt nem érhetők el olyan más, ésszerű módon, amely a környezeti célkitűzések szempontjából jelentős mértékben jobb megoldás lenne.
+
+(2) A felszíni víztestek mesterségessé vagy jelentősen módosítottá nyilvánítását és annak okait a vízgyűjtő-gazdálkodási tervben ismertetni kell.
+
+#### 7. §
+
+(1) Ha a víztest állapotának javulása külön jogszabályokban a jó állapot elérésére megállapított határidőre a műszaki megvalósíthatóságra, az aránytalan költségekre vagy a rendkívüli természeti viszonyokra tekintettel ésszerű módon nem érhető el, a határidő – a (2)–(4) bekezdésekben írt feltételekkel, továbbá a Kvt. 110. § (3) bekezdésében foglalt eltéréssel – a víztestekkel kapcsolatos célkitűzések fokozatos elérése érdekében meghosszabbítható, amennyiben ezáltal az érintett víztest állapotában további romlás nem következik be.
+
+(2) A határidő (1) bekezdés szerinti meghosszabbítását és a szükségesség részletes indokolását a vízgyűjtő-gazdálkodási tervben fel kell tüntetni.
+
+(3) A határidő meghosszabbítása nem haladhatja meg a vízgyűjtő-gazdálkodási terv két további felülvizsgálatát, kivéve, ha a természeti viszonyok a célkitűzések elérését ezen az időtartamon belül nem teszik lehetővé.
+
+(4) A vízgyűjtő-gazdálkodási tervben meg kell adni a víztest kívánt állapotának a meghosszabbított határidőig történő fokozatos eléréséhez – a 18. §-nak megfelelően – előirányzott intézkedéseket; ezek végrehajtásának ütemtervét és a végrehajtást jelentősen késleltető okokat. Ezen intézkedések végrehajtását, valamint az esetleg szükséges módosításait, kiegészítését a vízgyűjtő-gazdálkodási terv felülvizsgálata során ismertetni kell.
+
+#### 8. §
+
+(1) A 3. § (5) bekezdés c) pontjában, valamint a 12. és 13. §-ban foglaltak szerinti emberi tevékenység vagy szélsőséges viszonyok (rendkívüli árvíz, aszály) által olyan mértékben befolyásolt víztestek, amelyeknél a környezeti célkitűzés nem teljesíthető, illetőleg elérése aránytalanul költséges, – a (2)–(5) bekezdésekben meghatározott feltételekkel – a jó állapot elérésére előírtnál kevésbé szigorú környezeti célokat is meg lehet határozni.
+
+(2) Kevésbé szigorú környezeti célkitűzések meghatározása megengedett, ha az (1) bekezdésben említett emberi tevékenység által szolgált környezeti és társadalmi-gazdasági igények kielégítése nem biztosítható a környezeti szempontból lényegesen jobb változatot jelentő, aránytalan költséggel nem járó módon.
+
+(3) A kevésbé szigorú környezeti célok meghatározása során biztosítani kell
+
+a) a felszíni vizek lehető legjobb ökológiai és kémiai állapotának elérését,
+
+b) a felszín alatti vizek állapotának a jó állapottól való lehető legkisebb eltérését,
+
+megengedve azokat a hatásokat, amelyek az emberi tevékenység vagy a szennyezés természete miatt ésszerű módon nem kerülhetők el.
+
+(4) A kevésbé szigorú környezeti célok meghatározása nem eredményezhet további romlást az érintett víztest állapotában.
+
+(5) A kevésbé szigorú környezeti célkitűzéseket és azok meghatározásának indokait a vízgyűjtő-gazdálkodási tervben részletesen ismertetni kell és a célkitűzéseket hat évente felül kell vizsgálni.
+
+#### 9. §
+
+(1) A víztestek állapotának időleges romlása – a (2)–(6) bekezdésekben meghatározott feltételekkel – nem minősül az állapotra vonatkozó rendelkezések megszegésének, amennyiben az kivételes vagy ésszerűen előre nem látható természetes ok (így például: szélsőséges árvíz vagy hosszú aszályos időszak) következménye, vagy ha ésszerűen előre nem látható, a vízért felelős érdekkörén kívül felmerült elháríthatatlan ok következtében áll be.
+
+(2) Az (1) bekezdés szerinti esetben minden megvalósítható lépést meg kell tenni az állapot további romlásának megelőzésére és annak érdekében, hogy olyan más víztesteken, amelyekre az előbbi körülmények nincsenek hatással, a jó állapot elérésére megfogalmazott célkitűzések teljesítése ne kerüljön veszélybe.
+
+(3) A vízgyűjtő-gazdálkodási terv tartalmazza a körülmények kivételessé vagy ésszerűen előre nem láthatóvá minősítésének feltételeit.
+
+(4) Az intézkedési programban meg kell határozni azokat a kivételes körülmények között teendő intézkedéseket, amelyek nem veszélyeztethetik a víztest állapotának a körülmények rendeződését követő helyreállását.
+
+(5) A kivételes, illetve ésszerűen előre nem látható körülmények hatásait évente számba kell venni, és – a 7. § (1) bekezdésében felsorolt okok alapján – minden lehetséges intézkedést meg kell tenni annak érdekében, hogy a víztest állapota a lehető legrövidebb időn belül elérje az (1) bekezdés szerinti körülmények előtti állapotot.
+
+(6) A vízgyűjtő-gazdálkodási terv felülvizsgálata alkalmával a tervben meg kell jeleníteni az említett körülmények hatásainak, valamint a (2) és (5) bekezdésekkel összhangban tett, illetőleg teendő intézkedések összefoglalását.
+
+#### 10. §
+
+(1) Nem minősül a külön jogszabályokban meghatározott célkitűzésekre vonatkozó előírások megszegésének, ha a (2)–(4) bekezdésekben meghatározott feltételek teljesülnek, és
+
+a) a felszín alatti víz jó állapotának, a felszíni víztest jó ökológiai állapotának vagy – ahol az alkalmazandó – jó ökológiai potenciáljának elérése, illetőleg egy víztest állapotromlásának megelőzése azért hiúsul meg, mert a felszíni víztest fizikai jellemzőiben, felszín alatti víztest vízszintjében kedvezőtlen változások következtek be, illetve
+
+b) új, fenntartható emberi fejlesztési tevékenységek következményei miatt nem lehet megelőzni, hogy egy felszíni víztest a jó állapotot meghaladó (kiváló) állapota jó állapotra csökkenjen.
+
+(2) Az (1) bekezdés szerinti esetben minden lehetséges intézkedést meg kell tenni a víztest állapotára gyakorolt kedvezőtlen hatás mérséklésére.
+
+(3) A vízgyűjtő-gazdálkodási tervben fel kell tüntetni az (1) bekezdés szerinti körülményeket, részletesen ismertetve azok indokait.
+
+(4) Az (1) bekezdés csak közérdekből, különösen a környezet és a társadalom számára a környezeti célkitűzések teljesítésével elérhető előnyöket meghaladó, az emberi egészség és biztonság megőrzésében, illetőleg a fenntartható fejlődésben jelentkező előnyök érdekében alkalmazható, feltéve, hogy ezek a célkitűzések a műszaki megvalósíthatatlanság, illetve az aránytalan költségek miatt nem érhetők el más, jelentős mértékben jobb környezeti változatot jelentő eszközökkel.
+
+#### 11. §
+
+A 3. § (2) bekezdése, valamint a 7–10. §-ok alkalmazása során biztosítani kell, hogy az
+
+a) ne zárja ki és ne veszélyeztesse állandó jelleggel a Duna-vízgyűjtőkerület más víztestjénél a környezeti célkitűzések teljesítését;
+
+b) összhangban legyen legalább a környezet védelmére vonatkozó európai közösségi jogi szabályozásnak megfelelést biztosító, külön jogszabályokban meghatározott védelmi szinttel.
+
+### A vízgyűjtő jellemzői és az emberi tevékenység környezeti hatásai
+
+#### 12. §[^28]
+
+(1) A vízgyűjtőre jellemző környezeti, vízgazdálkodási és ezzel összefüggő egyéb, a vízgyűjtő-gazdálkodási terv tartalma szempontjából lényeges adatok megismerése és elemzése körében meg kell határozni a felszíni és felszín alatti víztestek elhelyezkedését, határait, valamint meg kell adni azok jellemzését a (2) és (3) bekezdéseknek megfelelően.
+
+(2) A felszíni víztestekre vonatkozóan
+
+a) a felszíni víztesteket a felszíni vizek megjelenési formái szerint, a mesterséges és erősen módosított felszíni víztesteket külön megjelölve kell a tervben nyilvántartani;
+
+b) a felszíni víztesteket a felszíni vizek megjelenési formái szerint elkülönítve a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló külön jogszabály szerint meghatározott típusokba kell besorolni;
+
+c) a mesterséges és erősen módosított felszíni víztestek esetében a maximális ökológiai potenciált a hozzájuk leginkább hasonló típus kiváló ökológiai állapota jellemzőinek figyelembevételével, hasonló típus hiányában modellezéssel, szakértői becsléssel kell meghatározni;
+
+d) nyilvántartásba kell venni a felszíni víztestek azon hidromorfológiai, hidrológiai és fizikai, valamint kémiai jellemzőit, amelyek a víztesttípusra jellemző ökológiai állapotra nézve indikátornak tekintendők;
+
+e) a nyilvántartásnak tartalmaznia kell a kiváló ökológiai állapothoz, illetve a maximális ökológiai potenciálhoz tartozó értékekkel jellemezhető referencia-területeket;
+
+f) nyilvántartásba kell venni az olyan terhelésekre vonatkozó adatokat, amelyek a felszíni víztesteket egyenként és összességükben érintik, érinthetik;
+
+g) az f) pont alkalmazása során különösen a nem pontszerű (diffúz) szennyezőforrásokat, ipari, mezőgazdasági és más létesítményekből származó szennyezőanyag-kibocsátásokat, továbbá a jelentős vízkivételeket, illetőleg ezeknek a vízmérlegre gyakorolt hatását, és az azonosítható morfológiai változásokat kell figyelembe venni.
+
+(3) A felszín alatti víztestek első jellemzése során a felszín alatti vizek vizsgálatának egyes szabályairól szóló külön jogszabályban meghatározottak szerint értékelni kell az azok használatából eredő hatásokat, így különösen:
+
+a) a bizonyított és valószínűsíthető terheléseket és vízkivételeket; ezen belül
+
+aa) a nem pontszerű (diffúz) és a pontszerű szennyezőforrásokat,
+
+ab) a vízkitermelést és a mesterséges visszatáplálást, beleértve a szennyvíz-öntözést, illetve a szennyvíz-szikkasztást;
+
+b) a fedőréteg jellegét, figyelemmel a felszín alatti víz utánpótlását biztosító vízgyűjtőre;
+
+c) azon felszín alatti víztesteket, amelyektől a felszíni vízi vagy szárazföldi ökoszisztémák közvetlenül függenek;
+
+d) az első jellemzést követően a kockázatos és országhatárral osztott víztestek esetében további jellemzést kell készíteni a környezeti célkitűzések elérésére teendő intézkedések meghatározására.
+
+(4)[^29] Az ivóvíz kivételi pontok vízgyűjtő területeinek jellemzését, valamint a veszélyek és a veszélyesemények azonosítását a vízgyűjtő-gazdálkodási tervet összeállító vízügyi igazgatási szerv a (2) és (3) bekezdés szerinti jellemzés, valamint terhelés-hatás vizsgálatok alapján végzi, figyelemmel a vízgyűjtő területeken zajló területhasználatra, felszíni lefolyási és vízutánpótlódási folyamatokra.
+
+#### 13. §[^30]
+
+(1) A 12. § szerinti elemzéseket és vizsgálatokat hatévente felülvizsgálva, a felülvizsgálat eredményétől függően szükség szerint kell módosítani, illetve kiegészíteni.
+
+(2) A vízgyűjtő-gazdálkodási tervet összeállító vízügyi igazgatási szerv gondoskodik az ivóvíz kivételi pontok vízgyűjtő területeire vonatkozó, 12. § szerinti nyilvántartások létrehozásáról és vezetéséről, elemzések és vizsgálatok elvégzéséről, és annak eredményeit a vízszolgáltatók és a népegészségügyi, vízügyi és vízvédelmi hatóságok számára hozzáférhetővé teszi legkésőbb 2025. december 22-ig, majd azt követően hatévente felülvizsgálja.
+
+### Ivóvíz kivételre kijelölt víztestek, vízgyűjtő területek és megkülönböztetett védelem alatt álló területek[^31]
+
+#### 14. §
+
+(1)[^32] A környezeti elemek, természeti értékek védelme, továbbá a vizek hasznosítását, a vízigények kielégítését szolgáló követelmények érvényesítése szempontjából megkülönböztetett védelmet igénylő területekről, ideértve a 14/A. § (1) bekezdése szerint azonosított ivóvíz kivételi pontok vízgyűjtő területeit, a vonatkozó jogszabály figyelembevételével készült nyilvántartást a miniszter által kijelölt szerv naprakész állapotban tartja. A nyilvántartást az Európai Parlament és a Tanács 2000/60/EK irányelve (a továbbiakban: VKI) IV. mellékletében a védett területek jegyzékére meghatározott előírások szerint kell vezetni.
+
+(2) A védett területekkel kapcsolatos intézkedéseket a védelem alá helyezés célját és a területre irányadó előírásokat, tilalmakat meghatározó – a vízgyűjtő-gazdálkodási tervben is megjelölt – külön jogszabályok rendelkezéseire figyelemmel kell végrehajtani.
+
+#### 14/A. §[^33]
+
+(1) Az ivóvíz kivételi pontok vízgyűjtő területeinek kijelölése során
+
+a) az ivóvíz kivételi pontok vízgyűjtő területeinek magukban kell foglalniuk legalább a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerint meghatározott, kijelölt, kialakított, vagy fenntartott védőidomot és védőterületet;
+
+b) azonosítani kell az ivóvíz kivételi ponthoz dinamikusan kapcsolódó víztestet és közvetlen vízgyűjtőjét;
+
+c) geo-referencia adatokkal kell azonosítani az ivóvíz kivételi ponthoz tartozó vízgyűjtő területen található valamennyi ivóvíz kivételi pontot.
+
+(2) Az (1) bekezdés b) pontja szerinti azonosítás során a kijelölésbe be kell vonni az érintett ivóvízszolgáltatókat.
+
+(3) Az (1) bekezdés alapján kijelölt területek térképi megjelenítéséről a 14. § (1) bekezdése szerint kijelölt szervezet gondoskodik.
+
+(4) Az ivóvíz kivételi pontok közegészségügyi és közbiztonsági szempontból érzékeny geo-referencia adatainak védelmét biztosítani kell. Azokat kizárólag a népegészségügyi hatóság, a vízügyi és vízvédelmi hatóság, valamint a vízszolgáltató jogosult megismerni.
+
+### A felszíni és a felszín alatti vizek, valamint a védett területek állapotának monitoringja[^34]
+
+#### 15. §[^35]
+
+(1) A vizek, a vízgyűjtő területek és a védett területek állapotának figyelemmel kísérésére és rendszeres értékelésére jogszabályban meghatározott monitoring programot kell kidolgozni és végrehajtani.
+
+(2) A monitoring programot a VKI 21. cikkében meghatározott eljárásnak megfelelően kidolgozott műszaki előírások és szabványosított módszerek figyelembevételével kell megtervezni, kialakítani és működtetni úgy, hogy a vízgyűjtő-gazdálkodási tervezés ennek eredményeire alapozva hatékonyan, megbízhatóan és teljeskörűen történhessen.
+
+(3) A monitoring programon belül az ivóvízkivételi ponthoz tartozó vízgyűjtő monitoringját úgy kell kialakítani, hogy az alkalmas legyen a 12. § (4) bekezdése szerinti veszélyek és veszélyesemények azonosítására, továbbá az e rendelet, valamint az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti vízgyűjtő szintű kockázatértékelésre és kockázatkezelésre. A monitoringnak figyelembe kell vennie
+
+a) az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet mellékletében meghatározott határértékeket, valamint vízminőségi jellemzőket;
+
+b) a felszín alatti vízre vonatkozó minőségi előírásokban meghatározott anyagokat és azon anyagokat, amelyekre a szennyező anyagokra vonatkozó küszöbértékek kerültek meghatározásra;
+
+c) a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben meghatározott elsőbbségi anyagokat és egyéb szennyező anyagokat;
+
+d) a vízgyűjtő-gazdálkodási tervben meghatározott, vízgyűjtő-specifikus szennyező anyagokat;
+
+e) az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben foglaltaknak megfelelően azonosított veszélyek, veszélyesemények és kockázatok azonosítása alapján meghatározott szennyező anyagokat;
+
+f) azokat a természetesen előforduló anyagokat a felszíni vizekben és a felszín alatti vizekben, valamint a vízkivételi pontok vízgyűjtő területein vagy a nyersvízben, amelyek kockázatot jelenthetnek az emberi egészségre vagy az ivóvízbiztonságra, valamint
+
+g) az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet alapján összeállított megfigyelési listán szereplő anyagokat és vegyületeket.
+
+(4) Az ivóvíz kivételi pontok vízgyűjtő területeire a (3) bekezdés szerinti monitoring során ki kell választani azokat a paramétereket, anyagokat vagy szennyezőanyagokat, amelyek a 12. § (4) bekezdése szerinti veszélyek és veszélyesemények szempontjából vagy a vízszolgáltatók által az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerint benyújtott adatok alapján a monitorozás tekintetében lényegesek. A kiválasztás során figyelembe kell venni a közcélú ivóvízművek, valamint a közcélú szennyvízelvezető és -tisztító művek üzemeltetése során teljesítendő vízügyi és vízvédelmi szakmai követelményekről, vizsgálatok köréről, valamint adatszolgáltatás tartalmáról szóló miniszteri rendelet szerinti, felszíni és felszín alatti ivóvízkivételi művekre vonatkozó vízminőségi mérési előírásokat is.
+
+(5) A (4) bekezdés szerinti releváns paraméterek, anyagok vagy szennyező anyagok meghatározásáról az egészségügyért felelős miniszter gondoskodik a miniszter bevonásával.
+
+(6) Az ivóvíz kivételi pontok vízgyűjtő területein a 15. § (4) bekezdésében előírtak szerint végzett monitoring eredményeihez a vízszolgáltatók, valamint a népegészségügyi hatóság, a vízügyi és vízvédelmi hatóság hozzáférését először 2025. december 22-ig, azt követően folyamatosan biztosítani szükséges.
+
+#### 15/A. §[^36]
+
+Ha a vízszolgáltató számára megengedett egy paraméter monitorozási gyakoriságának csökkentése vagy egy paraméter törlése az ellenőrizendő paraméterek listájából, a 15. § (1) bekezdésében előírt monitoring program részeként biztosítani szükséges, hogy a vízkivételi pontok vízgyűjtő területeire vonatkozó kockázatértékelés és kockázatkezelés – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelettel összhangban – elvégzett felülvizsgálata során megtörténjen e paraméterek megfelelő monitorozása, legfeljebb hatévenkénti gyakorisággal.
+
+#### 15/B. §[^37]
+
+(1) A kockázatkezelési intézkedések részeként a felszíni vizekben és a felszín alatti vizekben, valamint a vízkivételi pontok vízgyűjtő területein vagy a nyersvízben azon paraméterek, anyagok vagy szennyező anyagok megfelelő monitoringját biztosítani kell, amelyek a vízfogyasztás révén kockázatot jelenthetnek az emberi egészségre, vagy az emberi fogyasztásra szánt víz minőségének elfogadhatatlan romlását okozhatják, és amelyek a 15. § (1) bekezdése szerint elvégzett monitoring program során nem kerültek figyelembevételre.
+
+(2) Az (1) bekezdés szerinti monitoring eredményei részét képezik a 15. § (1) bekezdése szerinti felülvizsgált monitoring programnak.
+
+### A vizek használatával kapcsolatos költségek viselése
+
+#### 16. §
+
+(1) A vizek védelmével, állapotuk javításával és megőrzésével összefüggő feladatok ellátása az állam, a helyi önkormányzat, valamint a vizek hasznosításával járó jogokat gyakorló, kötelezettségeket teljesítő, illetve a vizekbe bármilyen tevékenységgel közvetlenül vagy közvetve szennyvizet, vízszennyező anyagot kibocsátó kötelessége.
+
+(2) Az (1) bekezdésben említett feladatok ellátása érdekében a vizek használatával, a vízkészletek védelmével összefüggő társadalmi ráfordítások részleges vagy teljes megtérülése érdekében a külön jogszabályokban meghatározott esetekben járulékot, érdekeltségi hozzájárulást vagy díjat kell fizetni.
+
+(3) A vizek szennyezése esetén a külön jogszabályokban vagy a hatóság határozatában meghatározott vízszennyezési, illetve felszín alatti vízvédelmi bírságot kell fizetni.
+
+(4) A Kvt. 101. §-ában meghatározott költségek körében különösen a vízminőségi kárelhárítás és kármentesítés esetén felmerülő, a védekezés ellátásával, a környezeti károk elhárításával, valamint a szükségvízellátással kapcsolatos költségek azt terhelik, aki a vizek szennyezését előidézte.
+
+### A vízszolgáltatások költség-visszatérülése
+
+#### 17. §
+
+(1) A 16. §-ban meghatározott intézkedésekkel összefüggésben a 3. § (5) bekezdése c) pontja szerinti gazdasági elemzésnek tartalmaznia kell – a vízszolgáltatások fennálló költségviszonyainak és a ráfordítások költség-visszatérülési szintjének vizsgálatán túl – a környezeti célkitűzések elérése érdekében tett intézkedések végrehajtásához szükséges jövőbeli ráfordításokat is.
+
+(2) A gazdasági elemzést a hosszú távú vízkészlet- és vízigény előrejelzéseket figyelembe véve a vízszolgáltatások üzemelési mennyiségein, árain és költségein, valamint a szükséges beruházások becsült értékein alapulva kell elvégezni. Az elemzést hatévenként felülvizsgálva szükség szerint kell módosítani, illetve kiegészíteni.
+
+(3) A gazdasági elemzésnek tartalmaznia kell különösen:
+
+a) az egyes vízhasználatok gazdasági jellemzését;
+
+b) vízszolgáltatások költség-visszatérülési szintjét, a vízhasználatok hozzájárulásának arányát a vízszolgáltatások költségeinek megtérítéséhez, legalább ipari, háztartási és mezőgazdasági bontásban;
+
+c) a vízhasználatok várható alakulását, figyelembe véve a tervezett fejlesztések hatását is.
+
+(4) A gazdasági elemzésnek hozzá kell járulnia a vízgyűjtő-gazdálkodási terv költséghatékony intézkedési programjainak kidolgozásához, valamint az olyan víztestek azonosításához, ahol a jó állapot elérése gazdasági szempontból ésszerűtlenül költséges.
+
+(5) Olyan, a szolgáltatott víz értékének megfelelő, a vízkészletek hatékony használatára ösztönző, a vizekkel kapcsolatos árpolitikát kell alkalmazni, amely a vízszolgáltatás környezeti, valamint erőforrás költségeit is figyelembe vevő költség-visszatérülés elvén alapul.
+
+(6) Az (5) bekezdésben foglaltak teljesítése során figyelembe vehetők a költség-visszatérülés társadalmi, környezeti és gazdasági hatásai és az adott vízszolgáltatással érintett terület földrajzi és éghajlati adottságai.
+
+(7) Az (1)–(5) bekezdésekben foglaltak nem akadályozhatják a vizekre vonatkozó környezeti célkitűzések elérése érdekében tett megelőző vagy helyreállító intézkedések finanszírozását.
+
+(8) Nem kell alkalmazni a (4) és (5) bekezdést a vízhasználatra, ha ez nem veszélyezteti a környezeti célkitűzések teljesítését. A vízgyűjtő-gazdálkodási tervben azonban meg kell adni ennek indokolását.
+
+(9) A gazdasági elemzések elvégzéséről a miniszter gondoskodik.
+
+### Az intézkedési program
+
+#### 18. §
+
+(1)[^38] Az 5. § szerint megfogalmazott környezeti célkitűzések teljesítésére a vonatkozó külön jogszabályi rendelkezések figyelembevételével a vízgyűjtő-gazdálkodási tervnek külön intézkedési programot (a továbbiakban: program), ezen belül alapintézkedéseket, valamint – szükség szerint – kiegészítő intézkedéseket kell tartalmaznia.
+
+(2) Az alapintézkedések körében a programnak tartalmaznia kell:
+
+a) a vizek hatékony és fenntartható használatát előmozdító intézkedéseket;
+
+b) a vízszennyező anyagok kibocsátásának az elérhető legjobb technikán (BAT), illetőleg a környezet minőségi határértékeken alapuló szabályozását és megvalósítását;
+
+c)[^39] az előírt kibocsátási határértékeket vagy nem pontszerű (diffúz) hatások esetén a legmegfelelőbb megoldásokat, amelyek figyelembe veszik a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról, a felszíni vizek minősége védelmének szabályairól, a Nemzeti Települési Szennyvízelvezetési és -tisztítási Megvalósítási Programról, a vízszennyező anyagok kibocsátásaira vonatkozó határértékekről és alkalmazásuk egyes szabályairól, a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól, illetve a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló külön jogszabályok[^40] vonatkozó rendelkezéseit.
+
+(3) A programban ki kell térni az e rendelet 16. és 17. § szerinti azon követelmények teljesítésére, amelyek a szükséges elemzések, illetve a jogi szabályozás szerint biztosítják a vizek védelmével, hasznosítási lehetőségeik megőrzésével járó költségek visszatérülését.
+
+(4) Az ivóvíz kitermelésére használt vizek megóvása érdekében az ivóvízbázis védelmének keretei között a programnak elő kell mozdítania az ivóvíz-minőségű víz előállítása és szolgáltatása során az ehhez szükséges vízkezelés mértékének és az ezzel járó költség csökkentését.
+
+(4a)[^41] A program részeként a vízügyi igazgatási szerv összefoglalót készít az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet által előírt ivóvízbiztonsági tervekben szereplő – a vízkivételi pontok vízgyűjtő területeire vonatkozó – megelőző vagy kockázatcsökkentő intézkedésekről, ezen belül
+
+a) a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet alapján az előzetesen kijelölt vagy kijelölt vízbázis védőterületén belül, a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló miniszteri rendelet szerinti vízbázis biztonságba helyezését megalapozó dokumentációban és a védőterületet kijelölő hatósági határozatban foglalt intézkedésekről, valamint
+
+b) további, a vízkivételi pontok vízgyűjtő területeire a vízszolgáltató által – a vízügyi igazgatási szerv bevonásával – meghatározott intézkedésekről.
+
+(4b)[^42] A (4a) bekezdés szerinti összefoglalót a vízügyi igazgatási szervnek először 2027. március 22-ig kell elkészítenie, majd hatévente frissítenie.
+
+(5) A programnak tartalmaznia kell a vizek igénybevételével (kitermelésével) és tározásával járó beavatkozások, tevékenységek szabályozását, ideértve azok engedélyezését és a készletek nyilvántartását.
+
+(6)[^43] A programnak tartalmaznia kell a pontszerű és nem pontszerű (diffúz) lehetséges szennyezőforrások esetében a szennyező anyag vízbe jutását szabályozó (beleértve a megelőző, ösztönző, korlátozó vagy tiltó) intézkedéseket.
+
+(7) A programnak ki kell térnie azokra az intézkedésekre, amelyek biztosítják, hogy a felszíni víztestek hidromorfológiai viszonyai összhangban legyenek az elérendő ökológiai állapottal vagy – a mesterséges, illetőleg az erősen módosított víztestek esetén – a jó ökológiai potenciállal.
+
+(8) A (3)–(7) bekezdésben felsorolt intézkedéseket rendszeresen felül kell vizsgálni, és ha szükséges, megfelelően módosítani kell.
+
+(9) A programban egyebekben ki kell térni:
+
+a)[^44] a felszín alatti vizek (víztestek) mesterséges utánpótlásának – a felszín alatti vizek védelméről szóló külön jogszabály szerinti – engedélyezési körülményeire;
+
+b) azokra az intézkedésekre, amelyek a felszín alatti vízbe történő közvetlen szennyezőanyag-bevezetés általános tilalma mellett a kivételek meghatározását és annak feltételeit tartalmazzák;
+
+c)[^45] a jelentős kockázatot jelentő – a felszíni vizek minősége védelmének szabályairól szóló külön jogszabályban meghatározott – elsőbbségi anyagok, elsőbbségi veszélyes anyagok, és egyéb veszélyes anyagok által a felszíni vizekben okozott szennyezés megszüntetésére irányuló intézkedésekre, illetőleg ezek szükség szerinti megalapozására;
+
+d)[^46] a rendkívüli események (balesetek, természeti katasztrófák, havaria-szennyezések), továbbá a műszaki berendezésekből származó anyagok általi jelentős szennyezések hatásainak megelőzését vagy mérséklését szolgáló intézkedésekre, illetőleg azokra az észlelő rendszerekre, amelyek a nehezen előre jelezhető események esetén is biztosítják a vízi ökoszisztémák veszélyeztetésének, károsodásának megelőzését, illetve a kár mérséklését.
+
+(10) A programban az alapintézkedések kiegészítéseként a környezeti célkitűzések elérése érdekében – a VKI VI. Melléklete B. részében foglalt nem teljes körű felsorolásra is figyelemmel – kiegészítő intézkedéseket is meg lehet határozni.
+
+(11)[^47] Ha a megfigyelések vagy egyéb adatok jelzik, hogy a víztestekre az 5. §-ban meghatározott célkitűzések valószínűleg nem érhetők el,
+
+a) meg kell vizsgálni az esetleges sikertelenség okait,
+
+b) meg kell vizsgálni és ha szükséges, módosítani kell a vonatkozó hatósági engedélyeket,
+
+c) meg kell vizsgálni és ha szükséges, módosítani kell a monitoring programokat, és
+
+d) ha szükséges, kiegészítő intézkedéseket kell hozni a célkitűzések elérése érdekében, beleértve esetleges szigorúbb környezetminőségi előírásoknak a VKI V. mellékletében foglalt eljárás szerinti megállapítását is. El lehet tekinteni a kiegészítő intézkedések meghatározásától, amennyiben a célkitűzések megvalósítását kivételes és előre nem látható szélsőséges természeti körülmények akadályozzák (így különösen rendkívüli árvíz, aszály).
+
+(12)[^48] Az intézkedési program végrehajtásáról az érintett miniszterek gondoskodnak.
+
+### A nyilvánosság részvétele és konzultáció
+
+#### 19. §
+
+(1)[^49] A vízgyűjtő-gazdálkodási terv elkészítése és felülvizsgálata során tájékoztató és egyeztető fórumok szervezésével biztosítani kell, hogy a terv tartalmát a társadalom minél szélesebb köre – különösen a vízgyűjtő-gazdálkodási tervezési alegységenként érintett vízhasználók – megismerhessék és véleményezhessék.
+
+(2) Az (1) bekezdés alkalmazása során az érdekeltekkel meg kell ismertetni:
+
+a) a terv kidolgozásának munkaprogramját és ütemtervét – ideértve a tervezett konzultációs intézkedésekről szóló közleményt – legalább három évvel annak az időszaknak a kezdete előtt, amelyre a terv vonatkozik;
+
+b)[^50] figyelembe véve a természetvédelmi és környezetvédelmi szempontokat az érintett részvízgyűjtőre vonatkozóan feltárt jelentős vízgazdálkodási kérdések és megoldandó feladatok közbenső felülvizsgálatát legalább két évvel a tervben meghatározott időszakot megelőzően;
+
+c) a vízgyűjtő-gazdálkodási terv tervezetét legalább egy évvel annak az időszaknak a kezdete előtt, amelyre a terv vonatkozik.
+
+(3) A (2) bekezdésben foglaltakkal kapcsolatban – a Kvt. 97. §-ának (3) bekezdésére is figyelemmel – biztosítani kell a társadalmi konzultáció lehetőségét.
+
+(4)[^51] A (2) és (3) bekezdésekben megfogalmazottaknak a vízgazdálkodásért felelős miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a minisztérium honlapján való közzététellel tesz eleget.
+
+(5) A társadalmi részvétel és konzultáció eredményessége érdekében legalább hat hónapot kell biztosítani arra, hogy a terv alapját képező dokumentumok, adatok, valamint egyéb információk megismerhetőek és írásban véleményezhetőek legyenek.
+
+### Tájékoztatási és jelentéstételi kötelezettségek
+
+#### 20. §
+
+(1) A VKI-ban foglalt tájékoztatási és jelentéstételi kötelezettségek végrehajtásáról a miniszter gondoskodik.
+
+(2) Az (1) bekezdésben hivatkozott kötelezettségek teljesítése érdekében a miniszter
+
+a)[^52] bejelenti az Európai Bizottságnak (a továbbiakban: Bizottság) a vízgyűjtő-gazdálkodási terv végrehajtása szempontjából hatáskörrel rendelkező közigazgatási szerveket, azoknak a VKI 1. mellékletében meghatározott adatait, bejelenti továbbá a 2008/56/EK európai parlamenti és tanácsi irányelv 7. cikke alapján kijelölt közigazgatási szerveket, valamint az ezekben bekövetkező változásokat a változás bekövetkezésétől számított három hónapon belül;
+
+b) tájékoztatja a Bizottságot, valamint az Európai Uniónak a tervvel érintett többi tagállamát a vízgyűjtő-gazdálkodási tervről, illetőleg annak felülvizsgált változatairól a terv kihirdetésétől számított három hónapon belül;
+
+c) összefoglaló jelentést nyújt be a Bizottságnak és valamennyi érintett tagállamnak a vízgyűjtő-gazdálkodási terv céljára készült
+
+ca) a 12–13. és 17. §-ban meghatározott elemzésekről,
+
+cb) a 14. §-ban meghatározott nyilvántartásról, és
+
+cc) a 15. §-ban meghatározott monitoring programról
+
+az elkészítésüket követő három hónapon belül;
+
+d) közbenső jelentést terjeszt a Bizottság elé az intézkedési program teljesítésében elért előrehaladásról a vízgyűjtő-gazdálkodási terv és annak felülvizsgált változatai közzétételét követő három éven belül.
+
+(3)[^53] A rendelet végrehajtása során elkészülő nyilvántartások a statisztikáról szóló külön jogszabály szerint statisztikai célra egyedi adatazonosításra alkalmas módon – elektronikusan is – hozzáférhetőek.
+
+## III.
+
+### ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
+
+#### 21. §
+
+(1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba azzal, hogy rendelkezéseit az e rendeletben és külön jogszabályban megjelölt határidőkre figyelemmel a folyamatban lévő ügyekben, illetőleg a vizek jó állapotának biztosítására irányuló intézkedések előkészítése és végrehajtása során is alkalmazni kell.
+
+(2)[^54] A 3. §-ban meghatározott vízgyűjtő-gazdálkodási tervet első alkalommal 2009. december 22-ig elkészíteni, a minisztérium honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzétenni, majd ezt követően hatévenként korszerűsíteni kell.
+
+(3) Az emberi tevékenységek környezeti hatásainak a 12–13. §-okban meghatározott elemzését, valamint a víztestek kijelölését és jellemzését 2004. december 22-ig, az első felülvizsgálatot szükség szerint, de legkésőbb 2013. december 22-ig kell elvégezni.
+
+(4)–(5)[^55]
+
+(6)
+
+a) A 17. §-ban meghatározott gazdasági elemzést 2004. december 22-ig, az első felülvizsgálatot szükség szerint, de legkésőbb 2013. december 22-ig kell elvégezni.
+
+b) A 17. § (3) bekezdés b) pontjában és (5) bekezdésében szereplő költség-visszatérülés elvét, a (6) bekezdésében foglaltakra figyelemmel 2010-re kell érvényesíteni.
+
+(7)[^56] A 18. §-ban meghatározott intézkedési programot 2009. december 22-ig kell kidolgozni, és legkésőbb 2012. december 22-ig érvényre kell juttatni. Az intézkedési programot 2015. december 22-ig és azt követően hatévente felül kell vizsgálni és szükség esetén korszerűsíteni. Minden új, vagy felülvizsgált intézkedést, amely a korszerűsített program része, a programba illesztést követő 3 éven belül érvényre kell juttatni.
+
+(8)[^57]
+
+#### 21/A. §[^58]
+
+E rendeletnek az egyes ivóvízhasználattal összefüggő kormányrendeletek módosításáról szóló 6/2023. (I. 12.) Korm. rendelettel (a továbbiakban: Mód.Kr.5.) megállapított 2. § u)–w) pontját, 3. § (6) bekezdés b) pontját, 12. § (4) bekezdését, 13. §-át, 14. § (1) bekezdését, 14/A. §-át, 15. §-át, 15/A. §-át, 15/B. §-át, 18. § (4a) és (4b) bekezdését, valamint 2. számú mellékletét a Mód.Kr.5. hatálybalépését[^59] követően megismételt eljárásokban is alkalmazni kell.
+
+#### 22. §[^60]
+
+Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) az Európai Parlament és a Tanács 2000/60/EK (2000. október 23.) irányelve a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról;
+
+b) az Európai Parlament és a Tanács 2006/118/EK (2006. december 12.) irányelve a felszín alatti vizek szennyezés és állapotromlás elleni védelméről, 3. cikk (3), (4), (5) bekezdés, 4. cikk (4) bekezdés, 5. cikk (4), (5) bekezdés, 6. cikk (1) bekezdés, II. melléklet;
+
+c) az Európai Parlament és a Tanács 2008/56/EK (2008. június 17.) irányelve a tengeri környezetvédelmi politika területén a közösségi fellépés kereteinek meghatározásáról, 6., 7. és 26. cikk, II. melléklet;
+
+d)[^61] a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006/118/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2014. június 20-i 2014/80/EU bizottsági irányelv.
+
+e)[^62] az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelv.
+
+## 1. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^63]
+
+**A vízgyűjtő-gazdálkodási tervezési alegységek**
+
+<table><tbody><tr><td colspan="3">Részvízgyűjtő/alegység</td><td>Tervezet összeállító Vízügyi Igazgatóság</td></tr><tr><td colspan="3">1 Duna közvetlen részvízgyűjtő</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–1</td><td>Szigetköz</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–2</td><td>Rábca és a Fertő</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–3</td><td>Rába</td><td>NYUDUVIZIG, Szombathely</td></tr><tr><td></td><td>1–4</td><td>Marcal</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–5</td><td>Bakony-ér és Concó</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–6</td><td>Általér</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–7</td><td>Gerecse</td><td>ÉDUVIZIG, Győr</td></tr><tr><td></td><td>1–8</td><td>Ipoly</td><td>KDVVIZIG, Budapest</td></tr><tr><td></td><td>1–9</td><td>Közép-Duna</td><td>KDVVIZIG, Budapest</td></tr><tr><td></td><td>1–10</td><td>Duna-völgyi-főcsatorna</td><td>ADUVIZIG, Baja</td></tr><tr><td></td><td>1–11</td><td>Sió</td><td>KÖDUVIZIG, Székesfehérvár</td></tr><tr><td></td><td>1–12</td><td>Kapos</td><td>KÖDUVIZIG, Székesfehérvár</td></tr><tr><td></td><td>1–13</td><td>Észak-Mezőföld és Keleti-Bakony</td><td>KÖDUVIZIG, Székesfehérvár</td></tr><tr><td></td><td>1–14</td><td>Velencei-tó</td><td>KÖDUVIZIG, Székesfehérvár</td></tr><tr><td></td><td>1–15</td><td>Alsó-Duna jobb part</td><td>DÉDUVIZIG, Pécs</td></tr><tr><td></td><td>1–16</td><td>Felső-Bácska</td><td>ADUVIZIG, Baja</td></tr><tr><td colspan="3">2 Tisza részvízgyűjtő</td><td>KÖTIVIZIG, Szolnok</td></tr><tr><td></td><td>2–1</td><td>Felső-Tisza</td><td>FETIVIZIG, Nyíregyháza</td></tr><tr><td></td><td>2–2</td><td>Szamos–Kraszna</td><td>FETIVIZIG, Nyíregyháza</td></tr><tr><td></td><td>2–3</td><td>Lónyay-főcsatorna</td><td>FETIVIZIG, Nyíregyháza</td></tr><tr><td></td><td>2–4</td><td>Bodrogköz</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–5</td><td>Tokaj-hegyalja</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–6</td><td>Sajó a Bódvával</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–7</td><td>Hernád, Takta</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–8</td><td>Bükk és Borsodi-Mezőség</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–9</td><td>Hevesi-sík</td><td>KÖTIVIZIG, Szolnok</td></tr><tr><td></td><td>2–10</td><td>Zagyva</td><td>KÖTIVIZIG, Szolnok</td></tr><tr><td></td><td>2–11</td><td>Tarna</td><td>ÉVIZIG, Miskolc</td></tr><tr><td></td><td>2–12</td><td>Nagykőrösi-homokhát</td><td>KÖTIVIZIG, Szolnok</td></tr><tr><td></td><td>2–13</td><td>Kettős-Körös</td><td>KÖVIZIG, Gyula</td></tr><tr><td></td><td>2–14</td><td>Sebes-Körös</td><td>KÖVIZIG, Gyula</td></tr><tr><td></td><td>2–15</td><td>Berettyó</td><td>TIVIZIG, Debrecen</td></tr><tr><td></td><td>2–16</td><td>Hármas-Körös</td><td>KÖVIZIG, Gyula</td></tr><tr><td></td><td>2–17</td><td>Hortobágy-Berettyó</td><td>TIVIZIG, Debrecen</td></tr><tr><td></td><td>2–18</td><td>Nagykunság</td><td>KÖTIVIZIG, Szolnok</td></tr><tr><td></td><td>2–19</td><td>Kurca</td><td>ATIVIZIG, Szeged</td></tr><tr><td></td><td>2–20</td><td>Alsó-Tisza jobb part</td><td>ATIVIZIG, Szeged</td></tr><tr><td></td><td>2–21</td><td>Maros</td><td>ATIVIZIG, Szeged</td></tr><tr><td colspan="3">3 Dráva részvízgyűjtő</td><td>DÉDUVIZIG, Pécs</td></tr><tr><td></td><td>3–1</td><td>Mura</td><td>NYUDUVIZIG, Szombathely</td></tr><tr><td></td><td>3–2</td><td>Rinya-mente</td><td>DÉDUVIZIG, Pécs</td></tr><tr><td></td><td>3–3</td><td>Fekete-víz</td><td>DÉDUVIZIG, Pécs</td></tr><tr><td colspan="3">4 Balaton részvízgyűjtő</td><td>KÖDUVIZIG, Székesfehérvár</td></tr><tr><td></td><td>4–1</td><td>Zala</td><td>NYUDUVIZIG, Szombathely</td></tr><tr><td></td><td>4–2</td><td>Balaton közvetlen</td><td>KÖDUVIZIG, Székesfehérvár</td></tr></tbody></table>
+
+## 2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^64]
+
+**A vízgyűjtő-gazdálkodási terv**
+
+**I. *A vízgyűjtő-gazdálkodási terv tartalma***
+
+1\. A vízgyűjtő, részvízgyűjtő általános leírása
+
+1.1. felszíni vizek esetében:
+
+a) a víztestek elhelyezkedésének és határainak térképi ábrázolása,
+
+b) az al-ökorégiók és a felszíni víztest-típusok térképi ábrázolása,
+
+c) a felszíni víztest típusok referencia viszonyainak azonosítása;
+
+1.2. felszín alatti vizek esetében a felszín alatti víztestek elhelyezkedésének és határainak térképi ábrázolása.
+
+2\. az emberi tevékenység felszíni és a felszín alatti vizek állapotára gyakorolt jelentős terheléseinek és hatásainak összefoglalása a következő tartalommal:
+
+2.1. felszíni vizek esetében
+
+a) a pontszerű szennyezőforrások számbavétele,
+
+b) a nem pontszerű (diffúz) szennyezőforrások számbavétele a területhasználat összefoglalásával együtt,
+
+c) a víz mennyiségi állapotára ható környezethasználatok számbavétele a vízkivételekkel együtt,
+
+d) az emberi tevékenységből származó, a víz állapotára gyakorolt egyéb hatások elemzése;
+
+2.2. felszín alatti vizek esetében
+
+a) a pontszerű, a nem pontszerű szennyező források és a szennyezett területek számbavétele a területhasználat összefoglalásával,
+
+b) a víz mennyiségi állapotát befolyásoló környezethasználatok számbavétele a közvetlen és közvetett vízkivételekkel együtt,
+
+c) a víz hőmérsékleti viszonyait befolyásoló környezethasználatok számbavétele,
+
+d) a víz állapotának meghatározásáról szóló összefoglaló,
+
+e) a víz mennyiségi, kémiai és hőmérsékleti állapotában mutatkozó romló és javuló tendenciák bemutatása,
+
+f) a szennyezőforrásokhoz, szennyezett területekhez kapcsolódó szennyezettségi csóvák jellemzése, hatásának értékelése.
+
+3\. Az ivóvíz kivételre kijelölt területek és a védett területek e rendelet 14. §-a szerinti azonosítása és térképi ábrázolása.
+
+4\. a vizek állapotának megfigyelésére a 15. § szerint létesített monitoring hálózatok térképi ábrázolása:
+
+4.1. felszíni vizek esetében a megfigyelés kiterjed:
+
+a) a meder morfológiai viszonyaira, víztérfogatra és a vízszintre vagy a vízhozamra olyan mértékben, amennyire azt az ökológiai és a kémiai állapot, valamint az ökológiai potenciál megköveteli,
+
+b) az ökológiai és kémiai állapotra, valamint az ökológiai potenciálra;
+
+4.2. felszín alatti vizek esetében a megfigyelés kémiai, mennyiségi és fizikai állapotra terjed ki;
+
+4.3. a védett területek esetében a fenti megfigyeléseket ki kell egészíteni azoknak a jellemzőknek a megfigyelésével, amelyeket az egyes védett területek kijelöléséről szóló jogszabályok előírnak.
+
+5\. A felszín alatti vizek vizsgálatának egyes szabályairól, és a felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló külön jogszabály szerint kialakított monitoring programok eredményeinek bemutatása térképi formában a következőkről:
+
+5.1. a felszíni vizek állapota (ökológiai és kémiai);
+
+5.2. a felszín alatti vizek állapota (kémiai és mennyiségi);
+
+5.3. a védett területek állapota.
+
+6\. Az 1–5. pontokban előírt térképi ábrázolás térinformatikai rendszerben, digitális térképi adatbázisban, Egységes Országos Vetületi koordinátákkal meghatározva.
+
+7\. A felszíni és felszín alatti vizekre és a védett területekre a külön jogszabályokban e rendelet 5. §-a szerint megállapított környezeti célkitűzések listája.
+
+8\. Az eredeti célkitűzés teljesíthetetlenségével kapcsolatos információk 7–10. § szerinti részletezése.
+
+9\. Összefoglaló leírás a vízhasználatoknak a 16. és 17. §-ok szerinti gazdasági elemzéséről.
+
+10\. A 18. § szerint kidolgozott intézkedési programok összefoglalása, beleértve
+
+– azokat az intézkedéseket, amelyekkel az 5. § (1) bekezdésben megállapított célkitűzések teljesíthetők,
+
+– azoknak az intézkedéseknek az összefoglalását, amelyeket azokkal a víztestekkel kapcsolatban kell meghozni, amelyeknél az 5. § (1) bekezdésében és a külön jogszabályokban megfogalmazott célkitűzések nem teljesíthetők,
+
+– azon intézkedések összefoglalását, amelyeket az olyan víztestekkel kapcsolatban kell meghatározni, amelyek esetében valószínűtlen, hogy teljesülnek az 5. §-ban meghatározott célkitűzések;
+
+10.1. a vizek védelmére vonatkozó jogszabályok alkalmazásához szükséges intézkedések összefoglalása;
+
+10.2. a vízhasználatokkal, illetőleg a vizek védelmével kapcsolatos költségmegtérülés elvének érvényesülése és érvényesítése, figyelemmel az ezt célzó és szolgáló intézkedésekre;
+
+10.3. az ivóvízbázisok és az ivóvízkivételekre kijelölt felszíni víztestek védelmének érdekében tett intézkedések összefoglalása;
+
+10.4. a vízhasználatokhoz, vízkivételekhez és a használt vizek elvezetéséhez, valamint a vízimunkák elvégzéséhez szükséges hatósági (vízjogi, környezetvédelmi és természetvédelmi) engedélyezés rendszerére vonatkozó jogszabályok – ideértve a döntés alapjául szolgáló anyagi jogi rendelkezéseket – megjelölése;
+
+10.5. a felszín alatti vizek védelméről szóló külön jogszabályban meghatározott feltételekkel engedélyezett felszín alatti vízbe való közvetlen bevezetések felsorolása;
+
+10.6. a területhasználat megváltoztatását szabályozó jogszabályok megjelölése;
+
+10.7. a felszíni vizek minősége védelmének szabályairól szóló külön jogszabályban meghatározott elsőbbségi anyagok, elsőbbségi veszélyes anyagok, és egyéb veszélyes anyagok által a vizekben okozott szennyezés megszüntetésére tett intézkedések összefoglalása;
+
+10.8. a vizek állapotát befolyásoló környezeti károk megelőzésére és csökkentésére tett intézkedések összefoglalása;
+
+10.9. a balesetszerű szennyezések hatásainak megelőzésére és csökkentésére tett intézkedések összefoglalása;
+
+10.10. a környezeti célkitűzések teljesítése érdekében tett kiegészítő intézkedések összefoglalása.
+
+11\. Azon szennyező anyagokról és indikátoraikról biztosítandó információk, amelyekre küszöbértékeket határoztak meg, az alábbi adattartalommal:
+
+11.1. információk a kockázatosként jellemzett felszín alatti víztestek vagy felszín alatti víztestcsoportok mindegyikéről, beleértve az alábbiakat:
+
+a) a víztestek mérete,
+
+b) minden olyan szennyező anyag vagy szennyezési indikátor, amely a víztesteket kockázatosként jellemzi,
+
+c) azok a környezetminőségi célkitűzések, amelyekre a kockázat vonatkozik, beleértve a víztest tényleges vagy lehetséges jogszerű felhasználását vagy funkcióit, valamint a víztestek, az azokhoz kapcsolódó felszíni vizek és az azoktól közvetlenül függő szárazföldi ökoszisztémák közötti kapcsolat,
+
+d) a természetben előforduló anyagok esetében a felszín alatti víztestek természetes háttér-koncentrációi,
+
+e) a küszöbértékek túllépése esetén információk a túllépésekről;
+
+11.2.
+
+a) küszöbértékek, valamint az, hogy azokat nemzeti szinten, a vízgyűjtő kerület vagy a nemzetközi vízgyűjtő kerületnek a tagállam területére eső részének szintjén, illetve a felszín alatti víztest vagy víztestcsoport szintjén kell-e alkalmazni,
+
+b) az emberi tevékenység eredményeként a felszín alatti vízben kialakuló sósvíz-koncentrációk tekintetében annak indokolása, hogy a szulfátra és kloridra vagy a vezetőképességre vonatkozó küszöbértékek megállapítására került sor;
+
+11.3. a küszöbértékek és az alábbiak egyike közötti kapcsolat:
+
+a) háttér-koncentrációk a természetben előforduló anyagok esetében,
+
+b) kapcsolódó felszíni vizek és a közvetlenül függő szárazföldi ökoszisztémák,
+
+c) környezetminőségi célkitűzések és egyéb, nemzeti, uniós vagy nemzetközi szinten érvényben lévő vízvédelmi előírások,
+
+d) a szennyező anyagok toxikológiájára, ökotoxikológiájára, a környezetben való tartós megmaradására, bioakkumulációs képességére és diszperziós tendenciájára vonatkozó bármely információ;
+
+11.4. a háttér-koncentrációk meghatározásának a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv IV. melléklet A. rész 3. pontjában meghatározott elveken alapuló módszere;
+
+11.5. annak okai, hogy miért nem határoztak meg a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv IV. melléklet B. részében azonosított bármely szennyező anyagra és indikátorra vonatkozóan küszöbértéket;
+
+11.6. a felszín alatti vizek kémiai állapotértékelésének fő elemei, beleértve a megfigyelési eredmények összesítésének szintjét, módszerét és időszakát, az elfogadható mértékű túllépés definícióját és kiszámításának módszerét a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006. december 12-i 2006/118/EK irányelv 4. cikk (2) bekezdése c) pontjának i. alpontja és a III. melléklet 3. pontja szerint.
+
+12\. Az egyes részvízgyűjtőkre, azok részeire, egyes témakörökre vagy víztípusokra vonatkozó részletes programok és tervek jegyzéke, azok tartalmának összefoglalásával.
+
+13\. A közvélemény tájékoztatására és konzultációkra tett intézkedések összefoglalása azok eredményei és az eredményekből következően a tervben végrehajtott változtatások.
+
+14\. A közvélemény tájékoztatásához felhasznált dokumentumok, a 18. § (6) és (7) bekezdése szerint elfogadott szabályozások, intézkedések, valamint a 15. § és a külön jogszabályok szerinti monitoring hálózat adatainak hozzáférési helyei.
+
+15\. A hatáskörrel rendelkező hatóság megnevezése és adatai.
+
+16\. Mindazok a dokumentumok, amelyeket egyéb jogszabály a vízgyűjtő-gazdálkodási terv tartalmaként ír elő.
+
+**II. *A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő további tartalmi elemek***
+
+1\. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta végzett változtatások, korszerűsítések összefoglalása, beleértve a 7–10. § szerint végrehajtott felülvizsgálatok összefoglalást is.
+
+2\. A környezeti célkitűzések elérése irányában tett előrehaladás számbavétele, továbbá az előző terv időszakára vonatkozó monitoring eredményeinek térképi bemutatása és részletes indoklás minden olyan környezeti célkitűzéshez, amelyet nem lehetett elérni.
+
+3\. Előző vízgyűjtő-gazdálkodási tervben előirányzott, nem végrehajtott intézkedések összefoglalása és a végrehajtás elmaradásának indokolása.
+
+4\. A vízgyűjtő-gazdálkodási terv előző változatának közreadása óta elfogadott közbenső intézkedések összefoglalása.
+
+5\. A felszín alatti vizek védelméről szóló külön jogszabály szerint megállapított küszöbértékeket érintő változásokról szóló jelentés.
+
+6.[^65] Az ivóvíz kivételi pontok vízgyűjtő területeire az ivóvízbiztonsági tervek alapján a népegészségügyi szerv által jóváhagyott megelőző, illetve kockázatcsökkentő intézkedések összefoglalása.
+
+## 3. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^66]
+
+## 4. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^67]
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^2]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről, 220/2004. (VII. 21.) Korm. rendelet a felszíni vizek minősége védelmének szabályairól [A lábjegyzet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.]
+[^3]: A 2. § c) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § d) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § f) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § g) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: Lásd a 219/2004. (VII. 21.) Korm. rendeletet.
+[^8]: 219/2004. (VII. 21.) Korm. rendelet a felszín alatti vizek védelméről, 220/2004. (VII. 21.) Korm. rendelet a felszíni vizek minősége védelmének szabályairól [A lábjegyzet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.]
+[^9]: A 2. § m) pontját a 230/2010. (VIII. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^10]: A 2. § r) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^11]: A 2. § t) pontját a 314/2008. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A 2. § u) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.
+[^13]: A 2. § v) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.
+[^14]: A 2. § w) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.
+[^15]: A 3. § a 314/2008. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 3. § (3) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 3. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 3. § (3) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 3. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
+[^21]: A 3. § (6) bekezdés b) pontja a 6/2023. (I. 12.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^22]: A 3. § (6) bekezdés d) pontja a 248/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^23]: A 4. § a 314/2008. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 4. § (3) bekezdése a 170/2013. (V. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 5. § (1) bekezdés d) pontja a 314/2008. (XII. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: Lásd a 219/2004. (VII. 21.) Korm. rendeletet, a 220/2004. (VII. 21.) Korm. rendeletet. [A lábjegyzet a Magyar Közlöny 2004. évi 116. számában megjelent helyesbítésnek megfelelő szöveg.]
+[^27]: Az 5. § (2) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^28]: A 12. § a 314/2008. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: A 12. § (4) bekezdését a 6/2023. (I. 12.) Korm. rendelet 10. §-a iktatta be.
+[^30]: A 13. § a 6/2023. (I. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^31]: Az „Ivóvíz kivételre kijelölt víztestek, vízgyűjtő területek és megkülönböztetett védelem alatt álló területek” alcím cím a 6/2023. (I. 12.) Korm. rendelet 18. § b) pontjával megállapított szöveg.
+[^32]: A 14. § (1) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 6. §-ával megállapított, a 6/2023. (I. 12.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^33]: A 14/A. §-t a 6/2023. (I. 12.) Korm. rendelet 12. §-a iktatta be.
+[^34]: A 15. §-t megelőző alcím a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^35]: A 15. § a 6/2023. (I. 12.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^36]: A 15/A. §-t a 6/2023. (I. 12.) Korm. rendelet 14. §-a iktatta be.
+[^37]: A 15/B. §-t a 6/2023. (I. 12.) Korm. rendelet 14. §-a iktatta be.
+[^38]: A 18. § (1) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^39]: A 18. § (2) bekezdés c) pontja a 314/2008. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^40]: Lásd a 219/2004. (VII. 21.) Korm. rendeletet.
+[^41]: A 18. § (4a) bekezdését a 6/2023. (I. 12.) Korm. rendelet 15. §-a iktatta be.
+[^42]: A 18. § (4b) bekezdését a 6/2023. (I. 12.) Korm. rendelet 15. §-a iktatta be.
+[^43]: A 18. § (6) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^44]: A 18. § (9) bekezdés a) pontja a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^45]: A 18. § (9) bekezdés c) pontja a 314/2008. (XII. 22.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^46]: A 18. § (9) bekezdés d) pontja a 314/2008. (XII. 22.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^47]: A 18. § (11) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^48]: A 18. § (12) bekezdését a 314/2008. (XII. 22.) Korm. rendelet 7. § (5) bekezdése iktatta be.
+[^49]: A 19. § (1) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^50]: A 19. § (2) bekezdés b) pontja a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^51]: A 19. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 363. §-a, a 300/2011. (XII. 22.) Korm. rendelet 19. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^52]: A 20. § (2) bekezdés a) pontja a 314/2008. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^53]: A 20. § (3) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^54]: A 21. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 363. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalkmazni.
+[^55]: A 21. § (4)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 653. pontja hatályon kívül helyezte.
+[^56]: A 21. § (7) bekezdése a 314/2008. (XII. 22.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^57]: A 21. § (8) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 653. pontja hatályon kívül helyezte.
+[^58]: A 21/A. §-t a 6/2023. (I. 12.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^59]: A hatálybalépés időpontja 2023. január 12. 23 óra.
+[^60]: A 22. § a 314/2008. (XII. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^61]: A 22. § d) pontját a 248/2015. (IX. 8.) Korm. rendelet 10. §-a iktatta be.
+[^62]: A 22. § e) pontját a 6/2023. (I. 12.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^63]: Az 1. számú melléklet az 527/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg. [A 221/2014. (IX. 4.) Korm. rendelet 277. §-ával elrendelt módosítás, amely szerint az 1. számú mellékletben foglalt táblázatban a „Tervezet összeállító NeKI kirendeltség” szövegrész helyébe a „Tervezet összeállító vízügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^64]: A 2. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^65]: A 2. melléklet „II. A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő további tartalmi elemek” alcím 6. pontját a 6/2023. (I. 12.) Korm. rendelet 17. §-a iktatta be.
+[^66]: A 3. számú mellékletet a 147/2010. (IV. 29.) Korm. rendelet 82. § b) pontja hatályon kívül helyezte.
+[^67]: A 4. számú mellékletet a 314/2008. (XII. 22.) Korm. rendelet 12. § (2) bekezdése hatályon kívül helyezte.

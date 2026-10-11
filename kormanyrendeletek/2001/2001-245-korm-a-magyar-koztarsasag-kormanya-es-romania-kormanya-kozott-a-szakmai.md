@@ -1,0 +1,176 @@
+---
+title: "245/2001. (XII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között a szakmai gyakornokok cseréjéről szóló, Budapesten, 2000. május 9. napján aláírt Egyezmény jóváhagyásáról és kihirdetéséről"
+identifier: "245/2001. (XII. 15.) Korm. rendelet"
+njt_id: "2001-245-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/245"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-12-15
+in_force_from: 2001-12-15
+last_amended: 2001-12-15
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-245-20-22"
+retrieved: 2026-10-12
+---
+
+# 245/2001. (XII. 15.) Korm. rendelet a Magyar Köztársaság Kormánya és Románia Kormánya között a szakmai gyakornokok cseréjéről szóló, Budapesten, 2000. május 9. napján aláírt Egyezmény jóváhagyásáról és kihirdetéséről
+
+*(A jóváhagyásról szóló jegyzékváltás 2001. november 29. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és Románia Kormánya között a szakmai gyakornokok cseréjéről szóló, Budapesten, 2000. május hó 9. napján aláírt Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hiteles magyar szövege a következő:
+
+,,
+
+**Egyezmény**
+
+a Magyar Köztársaság Kormánya\
+és Románia Kormánya között\
+a gyakornokok cseréjéről
+
+A Magyar Köztársaság Kormánya és Románia Kormánya (a továbbiakban: Szerződő Felek) azon szándékuktól vezérelve, hogy a gazdasági és társadalmi élet minden területén együttműködést alakítsanak ki a két állam között, törekedve a fiatal munkavállalók szakképzettségének, nyelvi ismereteinek és kulturális értékeinek gazdagítására, az alábbiakban állapodnak meg:
+
+*1. Cikk*
+
+A jelen Egyezmény értelmében:
+
+1\. a végrehajtásért felelős szervek (a továbbiakban: Felelős Szervek):
+
+– a Magyar Köztársaság esetében: a Szociális és Családügyi Minisztérium,[^1]
+
+– Románia esetében: a Munkaügyi és Szociálisvédelmi Minisztérium;
+
+2\. a végrehajtással megbízott szervek (a továbbiakban: Megbízott Szervek):
+
+– a Magyar Köztársaság esetében: az Országos Munkaügyi Kutató és Módszertani Központ[^2] a megyei (fővárosi) munkaügyi központok közreműködésével,
+
+– Románia esetében: a Munkaügyi és Szociálisvédelmi Minisztérium Munkaerőpiaci Politika és Programok Főigazgatósága;
+
+3\. a gyakornok a Szerződő Felek egyikének 18–35 év közötti életkorú állampolgára, aki szakmai végzettségét minimum kétéves képzés keretében szerezte meg, és a másik Szerződő Fél országában munkaviszony keretében munkát vállal annak érdekében, hogy szakmai tudását bővítse, kulturális és nyelvi ismereteit fejlessze és javítsa.
+
+*2. Cikk*
+
+1\. A Szerződő Felek megállapodnak abban, hogy elősegítik a fiatal, szakképzettséggel rendelkező állampolgáraik időleges, gyakornokként történő foglalkoztatását a másik Szerződő Fél államának területén.
+
+2\. Jelen Egyezmény hatálya nem érinti a két állam között jelenleg hatályos, az egyes Szerződő Felek állampolgárainak a másik Szerződő Fél államának területére való beutazásáról, ott-tartózkodásáról, kiutazásáról és foglalkoztatásáról szóló kétoldalú megállapodások rendelkezéseit.
+
+*3. Cikk*
+
+1\. A gyakornokok a két Szerződő Fél hatályos jogszabályai által korlátozott területek kivételével, a gazdaság bármely területén vállalhatnak munkát.
+
+2\. A Szerződő Felek megfontolhatják, hogy a másik Szerződő Fél országából érkező gyakornokokat, a számukra fontos gazdasági szektor, foglalkoztatási kategóriák, illetve képzettségi területek felé orientálják.
+
+*4. Cikk*
+
+1\. A Szerződő Felek országainak területén a Megbízott Szervek naptári évenként legfeljebb 700 munkavállalási engedélyt adnak ki, a munkát vállaló gyakornokoknak.
+
+2\. Jelen Cikk 1. pontjában meghatározott munkavállalási engedélyszám módosításáról a Felelős Szervek levélváltás útján állapodnak meg.
+
+3\. A gyakornokok, akik a két Szerződő Fél valamelyikének állampolgárai, a fogadó Szerződő Fél országában maguk kötelesek munkahelyet keresni.
+
+4\. A Megbízott Szervek a jelen Cikk 1. bekezdésében meghatározott kvóta erejéig segíthetnek a jelentkezők számára állást keresni.
+
+5\. A Megbízott Szervek egymásnak és az országaikból származó gyakornokok részére általános tájékoztatást nyújtanak a fogadó országról (a Magyar Köztársaságban magyar, Romániában román nyelven), az alábbiakról:
+
+– jogszabályi és közigazgatási rendelkezések,
+
+– a fogadó országba való beutazással, a tartózkodással, a foglalkoztatással, a munkavállalással és a társadalombiztosítással kapcsolatos rendelkezések,
+
+– életkörülmények, illetve minden más olyan feltétel, amelyre a fogadó Szerződő Fél országában a gyakornokok számíthatnak,
+
+– konkrét információ a gyakornokok számára a munkaszerződésben szereplő feltételekről.
+
+*5. Cikk*
+
+A gyakornokok foglalkoztatása során azon Szerződő Fél államának jogszabályait kell alkalmazni, amely a területén a gyakornok tevékenységét kifejti.
+
+*6. Cikk*
+
+1\. A Megbízott Szervek a munkahelyek közvetítését díjmentesen végzik, illetve díjmentesen adják ki a szükséges munkavállalási engedélyt.
+
+2\. Minden egyéb okirat és engedély költségét és illetékét, amely a gyakornoknak a fogadó Szerződő Fél államának területén való tartózkodással kapcsolatos, valamint a nemzeti jogszabályok alapján kiadandó engedélyekhez kapcsolódó illetéket a gyakornok viseli.
+
+*7. Cikk*
+
+1\. A gyakornok foglalkoztatása legfeljebb 12 hónapra engedélyezhető. A munkavállalási engedély további 6 hónappal meghosszabbítható. Ezen időszak lejártával a gyakornoknak el kell hagynia a fogadó ország területét.
+
+2\. A gyakornok munkavállalási engedélyét fogadó ország Megbízott Szervei, a munkaerőpiac aktuális helyzetének vizsgálata nélkül – lehetőleg soron kívül – állítják ki a jelen Egyezmény 4. Cikkének 1. bekezdésében meghatározott létszámkereten belül.
+
+3\. A gyakornok azt a munkavállalási engedélyben meghatározott tevékenységet folytathatja, amelyre a munkavállalási engedélyt kiállították.
+
+4\. A munkavállalási engedély jelen Cikk 1. bekezdésében megjelölt meghosszabbítását nem kell beszámítani a jelen Egyezmény 4. Cikk 1. bekezdésében meghatározott létszámkeretbe.
+
+5\. Amennyiben a jelen Cikk 1. bekezdésében meghatározott időtartam alatt a gyakornok más munkáltatónál kíván dolgozni, számára új munkavállalási engedélyt kell kiadni.
+
+6\. Amennyiben egy munkaviszony a gyakornok szándéka ellenére a tervezettnél korábban ér véget, a Megbízott Szerv számára segítséget nyújt az új munkahely keresésében.
+
+7\. A gyakornok köteles tiszteletben tartani a fogadó ország jogszabályait, különösképpen azokat, amelyek a külföldiek beutazásáról, tartózkodásról, illetve kiutazásáról rendelkeznek.
+
+8\. A Szerződő Felek a külföldiek beutazására és tartózkodására vonatkozó nemzeti jogszabályok alkalmazásával lehetővé teszik a gyakornokok számára a megfelelő engedélyek, utazási okmányok vagy egyéb szükséges dokumentumok beszerzését.
+
+*8. Cikk*
+
+Jelen Egyezmény 1. Cikkében meghatározott gyakornokokra a szociális biztonságról szóló, a két Szerződő Fél között érvényben lévő kétoldalú egyezmény rendelkezései az irányadóak.
+
+*9. Cikk*
+
+1\. A gyakornok a fogadó Szerződő Fél munkavállalóival azonos bánásmódban részesül, a munkaviszonyra, a munkavédelemre, a járulékok fizetésére vonatkozó jogszabályokban meghatározott jogok gyakorlása és kötelezettségek teljesítése során, ideértve a személyes javak, jogok és érdekek jogi védelmét és a jogorvoslathoz való jogot.
+
+2\. Az azonos bánásmód, a kettős adózás elkerülésére vonatkozó kétoldalú megállapodás rendelkezéseinek betartása mellett érvényes.
+
+*10. Cikk*
+
+A gyakornok a fogadó Szerződő Fél államában folytatott tevékenységéből fakadó megtakarításait és javait a vonatkozó törvényekkel összhangban átutalhatja.
+
+*11. Cikk*
+
+1\. A Felelős Szervek a Megbízott Szervek bevonásával a jelen Egyezmény megvalósítására eljárásrendet dolgoznak ki.
+
+2\. A Megbízott Szervek együttműködnek azzal a céllal, hogy a gyakornokok foglalkoztatását befolyásoló formaságok egyszerűsödjenek.
+
+3\. Abban az esetben, ha a jelen Egyezmény 4. Cikkének 1. bekezdésében meghatározott kvótát valamelyik Szerződő Fél nem használja fel teljes mértékben, a másik Szerződő Fél keretét ezen az alapon nem korlátozhatja. Az adott naptári évben fel nem használt kvótarész a következő évre nem vihető át.
+
+*12. Cikk*
+
+1\. A Szerződő Felek képviselői rendszeresen találkoznak, az elért eredmények és a felmerült problémák elemzése, valamint olyan megoldások kimunkálása céljából, amelyek az Egyezmény alkalmazását hivatottak elősegíteni.
+
+2\. A Felelős Szervek kölcsönösen tájékoztatják egymást az Egyezmény célját szolgáló adminisztratív intézkedésekről, valamint a törvényi szabályozásról és annak módosításairól, amennyiben azok az Egyezményben foglaltak alkalmazását érintik.
+
+3\. A Szerződő Felek az Egyezményben foglaltak megvalósítása érdekében térítésmentes segítséget nyújtanak egymásnak.
+
+*13. Cikk*
+
+Jelen Egyezmény az érvényességéhez szükséges belső feltételek teljesítéséről küldött jegyzékváltás dátumát követő egy hónap eltelte után következő hónap első napján lép hatályba.
+
+*14. Cikk*
+
+1\. Jelen Egyezményt a Szerződő Felek három évre kötik és annak hatálya évente automatikusan meghosszabbodik, hacsak azt a Szerződő Felek valamelyike legalább hat hónappal az Egyezmény lejárta előtt írásban fel nem mondja.
+
+2\. Az Egyezmény felmondása esetén a már kiadott munkavállalói engedélyek érvényességük lejártáig, valamint az azok alapján már megszerzett és még megszerzendő jogok, a jelen Egyezmény rendelkezéseinek megfelelően érvényben maradnak.
+
+3\. Jelen Egyezmény módosítása, a munkavállalási engedélyek számának változtatását kivéve, a Szerződő Felek közötti egyeztetéssel történik, és a 13. Cikkben foglalt eljárás szerint lép hatályba.
+
+Jelen Egyezményt két, egyaránt hitelesnek tekintett példányban, magyar, román és angol nyelven, Budapest városban, 2000. május 9-én írták alá. Eltérő értelmezés esetén az angol nyelvű szöveg az irányadó.
+
+*Harrach Péter* s. k.,\
+a Magyar Köztársaság Kormánya\
+nevében
+
+*Smaranda Dobrescu* s. k.,\
+Románia Kormánya\
+nevében''
+
+## 3. §
+
+Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit 2002. január 1-jétől kell alkalmazni.
+
+---
+
+[^1]: A kormányzati munkamegosztás megváltoztatásával összefüggő egyes feladatok ellátásáról szóló 1051/2000. (VI. 28.) Korm. határozat 1. d) pontja alapján a Szociális és Családügyi Minisztérium helyett a Gazdasági Minisztérium.
+[^2]: A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosításáról intézkedő 2001. évi XXIV. törvény 19. §-ának (3)–(4) bekezdése alapján a Foglalkoztatási Hivatal.

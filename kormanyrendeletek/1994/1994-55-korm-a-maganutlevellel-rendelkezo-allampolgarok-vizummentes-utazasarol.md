@@ -1,0 +1,173 @@
+---
+title: "55/1994. (IV. 16.) Korm. rendelet a magánútlevéllel rendelkező állampolgárok vízummentes utazásáról szóló, a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között az 1993. évi november hó 12. napján létrejött megállapodás kihirdetéséről"
+identifier: "55/1994. (IV. 16.) Korm. rendelet"
+njt_id: "1994-55-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/1994/Korm/55"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1994-04-16
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1994-55-20-22"
+retrieved: 2026-10-12
+---
+
+# 55/1994. (IV. 16.) Korm. rendelet a magánútlevéllel rendelkező állampolgárok vízummentes utazásáról szóló, a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között az 1993. évi november hó 12. napján létrejött megállapodás kihirdetéséről
+
+*(A megállapodás jóváhagyásáról szóló jegyzékváltás az 1994. évi március hó 2. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a magánútlevéllel rendelkező állampolgárok vízummentes utazásáról szóló, a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között az 1993. évi november hó 12. napján létrejött megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A megállapodás angol nyelvű szövege és annak magyar fordítása a következő:
+
+„''His Excellency Mr. Shimon PERES
+
+Minister of Foreign Affairs
+
+of the State of Israel
+
+Budapest, 12 November, 1993.
+
+Your Excellency,
+
+I have the honour to refer to your Note of 18 October, 1993, proposing an Agreement between our Governments on the abolition of visas which reads as follows:
+
+'Your Excellency,
+
+I have the honour to inform you that, in order to facilitate the travel of the nationals of each of the two countries in the territory of the other, and further to the Agreement between Israel and Hungary of 8 and 12 May 1991 for the abolition of visas for holders of diplomatic and service passports, the Government of the State of Israel is prepared to conclude with the Government of the Republic of Hungary an Agreement on the following terms:
+
+*Article 1*
+
+Nationals of Israel and Hungary, holders of valid national passports, shall be exempt from the obligation of obtaining an entry visa for a stay in Hungary and Israel, respectively, not exceeding ninety days.
+
+*Article 2*
+
+Nationals of Israel and Hungary may each cross the border of the other country at the border points open for international passenger traffic.
+
+*Article 3*
+
+Nationals of Israel and Hungary, who wish to stay in Hungary or in Israel respectively, for a period exceeding ninety days, shall apply for the necessary authorisation from the competent authorities of the country concerned.
+
+*Article 4*
+
+1\. Subject to the foregoing provisions, persons benefiting under this Agreement shall, while in Hungary or in Israel, comply with the laws and regulations of the country of their stay with special regard to those applicable to foreigners in respect of entry and residence, temporary or permanent, and shall not take up any employment.
+
+2\. Nationals of Israel and Hungary who intend to enter Hungary or Israel, respectively, for the purpose of taking up employment, engaging in lucrative activities or immigration shall obtain the appropriate permit and visa issued by the competent authorities of the relevant country.
+
+*Article 5*
+
+The Contracting Parties reserve the right to refuse admission to persons considered undesirable, including those not possessing a valid passport or lacking adequate means of subsistence, or otherwise ineligible under the general policy of the respective Governments relating to the entry of aliens.
+
+*Article 6*
+
+Each Contracting Party undertakes to readmit without formalities into its territory any of its nationals.
+
+*Article 7*
+
+The Contracting Parties reserve the right to temporarily suspend the application of this Agreement, except Article 6 thereof, for reasons of public order, public health or national security, by giving the other Government immediate notice through diplomatic channels.
+
+*Article 8*
+
+1\. After the signature of the present Agreement the Contracting Parties shall, as soon as possible but not later than thirty days before its entry into force supply each other with the specimen of their valid travel documents.
+
+2\. Should any of the Contracting Parties introduce any change in its valid travel documents or introduce a new type of travel document it shall notify the other Contracting Party through diplomatic channels attaching the specimen thereof not later than thirty days before their introduction.
+
+*Article 9*
+
+This present Agreement shall be for an indefinite period and may be terminated by either of the Contracting Parties by giving ninety days written notice to the other Party, through the diplomatic channels, in which case the Agreement shall cease to be in force ninety days from the date of the Note of notification of termination.
+
+If the above proposals are acceptable to the Government of the Republic of Hungary I have the honour to propose that the present Note and your Excellency's Note in reply in that respect, shall constitute an Agreement between the two Governments in this matter, which shall enter into force on thirtieth day following a mutual notification of the completion of their necessary legal requirements to that effect.
+
+I avail myself of this opportunity to reiterate to Your Excellency, the assurances of my highest consideration.
+
+*Shimon Peres*'
+
+In reply, I have the honour to inform Your Excellency that the foregoing proposals are acceptable to my Government and that Your Excellency's Note and the present Note in reply shall constitute an Agreement between the Government of the Republic of Hungary and the Government of the State of Israel on the abolition of visas which shall enter into force on the thirtieth day following a mutual notification of the completion of the necessary legal requirements to that effect.
+
+Please accept, Your Excellency the renewed assurances of my highest consideration.
+
+*Géza Jeszenszky''*
+
+,,Őexcellenciája Shimon Peres Úr
+
+Izrael Állam
+
+Külügyminisztere
+
+Budapest, 1993. november 12.
+
+Excellenciás Uram!
+
+Van szerencsém 1993. október 18-án kelt, alábbi szövegű Jegyzékére hivatkozni, melyben a vízummentességről szóló Megállapodás létrehozását javasolja Kormányaink között:
+
+»Excellenciás Uram!
+
+Van szerencsém tájékoztatni arról, hogy országaink állampolgárainak a másik országba történő utazása megkönnyítése céljából, az Izrael és Magyarország között 1991. május 8-i és 12-i keltű levélváltással létrejött, a diplomata és a szolgálati útlevéllel rendelkezők vízummentességére vonatkozó Megállapodás mellett Izrael Állam Kormánya kész a Magyar Köztársaság Kormányával Megállapodás létrehozására az alábbi feltételekkel:
+
+*1. Cikk*
+
+Az érvényes nemzeti útlevéllel rendelkező izraeli, illetőleg magyar állampolgárok a legfeljebb kilencvennapi magyarországi vagy izraeli tartózkodás céljából történő beutazásuk során mentesek a beutazóvízum beszerzésének kötelezettsége alól.
+
+*2. Cikk*
+
+Az izraeli és a magyar állampolgárok a másik ország államhatárát a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken léphetik át.
+
+*3. Cikk*
+
+Azoknak az izraeli, illetőleg magyar állampolgároknak, akik kilencven napnál hosszabb ideig kívánnak Magyarországon, illetőleg Izraelben tartózkodni, az ehhez szükséges engedély iránt kérelmet kell benyújtaniuk az érintett ország illetékes hatóságaihoz.
+
+*4. Cikk*
+
+(1) Az előző rendelkezések fenntartásával, az e Megállapodás által kedvezményezett személyeknek magyarországi, illetőleg izraeli tartózkodásuk során be kell tartaniuk a tartózkodási helyük szerinti ország törvényeit és rendeleteit, különös tekintettel a külföldiek beutazására, ideiglenes tartózkodására vagy bevándorlására vonatkozó jogszabályokra, továbbá nem vállalhatnak munkát.
+
+(2) Azoknak az izraeli vagy magyar állampolgároknak, akik munkavállalás, jövedelemszerző tevékenység folytatása, illetőleg bevándorlás céljából kívánnak Magyarországra vagy Izraelbe utazni, be kell szerezniük az érintett ország illetékes hatóságai által kibocsátott megfelelő engedélyt és vízumot.
+
+*5. Cikk*
+
+A Szerződő Felek fenntartják a jogot arra, hogy megtagadják a nemkívánatos személyek beléptetését, beleértve azokat, akik nem rendelkeznek érvényes útlevéllel vagy a létfenntartásukhoz szükséges eszközökkel, vagy akik az érintett Félnek a külföldiek beutazására vonatkozó rendelkezéseinek nem felelnek meg.
+
+*6. Cikk*
+
+Mindkét Szerződő Fél vállalja, hogy bármely állampolgárát formaságok nélkül saját területére visszafogadja.
+
+*7. Cikk*
+
+A Szerződő Felek fenntartják a jogot arra, hogy a jelen Megállapodás alkalmazását, a 6. Cikk kivételével, közrendi, közegészségügyi vagy nemzetbiztonsági okból, a másik Kormányhoz diplomáciai úton intézett azonnali értesítéssel ideiglenesen felfüggesszék.
+
+*8. Cikk*
+
+(1) A Szerződő Felek a Megállapodás aláírását követően mielőbb, de legkésőbb a Megállapodás hatálybalépését harminc nappal megelőzően, megküldik egymásnak az érvényben lévő útiokmányaik mintapéldányát.
+
+(2) Ha a Szerződő Felek egyike a Megállapodás hatálybalépése után az érvényben lévő útiokmányait megváltoztatja, vagy új típusú útiokmányt vezet be, érvénybelépésük előtt legalább harminc nappal diplomáciai úton, a minták csatolásával értesíti a másik Szerződő Felet.
+
+*9. Cikk*
+
+A jelen Megállapodás meghatározatlan időre szól, és azt bármelyik Szerződő Fél felmondhatja a másik Félhez kilencven nappal korábban, diplomáciai úton intézett írásbeli értesítés útján, mely esetben a Megállapodás a felmondásról szóló értesítés keltétől számított kilencvenedik napon veszti hatályát.
+
+Amennyiben a fenti javaslatok elfogadhatóak a Magyar Köztársaság Kormánya számára, van szerencsém javasolni, hogy ez a Jegyzék és Excellenciád válasza Kormányaink között e tárgyban Megállapodást képezzen, mely az azt követő harmincadik napon lép hatályba, amikor az ehhez szükséges jogszabályi előírások teljesítéséről szóló kölcsönös értesítés megtörtént.
+
+Megragadom az alkalmat, hogy Őexcellenciáját őszinte nagyrabecsülésemről biztosítsam.
+
+*Shimon Peres«*
+
+Válaszul van szerencsém tájékoztatni Őexcellenciáját arról, hogy a fenti javaslatok Kormányom számára elfogadhatóak, Őexcellenciája jegyzéke és ez a válaszjegyzék a Magyar Köztársaság Kormánya és Izrael Állam Kormánya között a vízummentességről szóló Megállapodást képez, amely az azt követő harmincadik napon lép hatályba, amikor az ehhez szükséges jogszabályi előírások teljesítéséről szóló kölcsönös értesítés megtörtént.
+
+Kérem, fogadja Excellenciás Uram őszinte nagyrabecsülésemet.
+
+*Jeszenszky Géza''*”
+
+## 3. §
+
+(1) E rendelet kihirdetése napján lép hatályba, rendelkezéseit azonban az 1994. évi március hó 15. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 43. pontja szerint módosított szöveg.

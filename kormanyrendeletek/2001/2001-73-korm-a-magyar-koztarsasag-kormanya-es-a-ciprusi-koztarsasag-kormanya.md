@@ -1,0 +1,186 @@
+---
+title: "73/2001. (IV. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben való együttműködésről szóló, Budapesten, 1996. június 13-án aláírt Megállapodás kihirdetéséről"
+identifier: "73/2001. (IV. 27.) Korm. rendelet"
+njt_id: "2001-73-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2001/Korm/73"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2001-04-27
+in_force_from: 2008-05-16
+last_amended: 2008-05-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2001-73-20-22"
+retrieved: 2026-10-12
+---
+
+# 73/2001. (IV. 27.) Korm. rendelet a Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben való együttműködésről szóló, Budapesten, 1996. június 13-án aláírt Megállapodás kihirdetéséről[^1]
+
+*(A Megállapodás jóváhagyásáról szóló jegyzékváltás 1999. augusztus 3. napján megtörtént.)*
+
+## 1. §
+
+A Kormány a Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben való együttműködésről szóló, Budapesten, 1996. június 13-án aláírt Megállapodást e rendelettel kihirdeti.
+
+## 2. §
+
+A Megállapodás magyar nyelvű szövege a következő:
+
+,,
+
+Megállapodás\
+a Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya között a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben való együttműködésről
+
+A Magyar Köztársaság Kormánya és a Ciprusi Köztársaság Kormánya (a továbbiakban: Felek)
+
+a kétoldalú kapcsolataik fejlődése érdekében tett erőfeszítések által vezérelve,
+
+a bűnözés elleni küzdelem és megelőzés alapvető fontosságáról meggyőződve, különös tekintettel a szervezett bűnözésre, tiltott kábítószer-kereskedelemre és terrorizmusra,
+
+a terrorizmus és a tiltott kábítószer-kereskedelem elleni küzdelem terén tett közös erőfeszítéseik bővítésének céljával,
+
+a nemzetközi szervezett bűnözés elleni lépéseik összehangolásának kívánságával,
+
+figyelembe véve az érintett nemzetközi szerződéseket, amelyeknek mindkét Fél részese,
+
+az alábbiakban állapodtak meg:
+
+*1. Cikk*
+
+(1) Nemzeti jogrendszerüket figyelembe véve és azzal összhangban a Felek együttműködnek a terrorizmus, tiltott kábítószer-kereskedelem és szervezett bűnözés elleni küzdelemben, annak megelőzésében és üldözésében.
+
+(2) A Felek különösen azokban az esetekben működnek együtt, amikor a bűncselekmények vagy azok előkészítése valamelyik Fél területén történik, és a megszerzett adatok a másik Fél területére utalnak.
+
+*2. Cikk*
+
+A terrorizmus üldözése érdekében a Felek a nemzeti jogrendszerük alapján, valamint jelen Megállapodás előírásainak szem előtt tartásával
+
+(1) adatokat és információt cserélnek a tervezett és elkövetett terrorcselekményekről, az ilyen bűncselekményekben résztvevőkről, az elkövetés módszereiről és az alkalmazott eszközökről;
+
+(2) adatokat és információt cserélnek a terrorista csoportokról és ezek tagjairól, amelyek bűncselekményeket terveznek, elkövetnek vagy elkövettek az egyik Fél területén úgy, hogy az hátrányos következményekkel jár a másik Félre nézve, valamint olyan adatokat és információkat, amelyek szükségesek a terrorizmus elleni küzdelem és a közbiztonságot súlyosan veszélyeztető bűncselekmények elhárításához.
+
+*3. Cikk*
+
+A kábítószerek, pszichotróp anyagok és prekurzorok tiltott termesztésének, termelésének, előállításának, importjának, exportjának, átmenő forgalmának és kereskedelmének visszaszorítása érdekében a Felek nemzeti jogrendszerük alapján
+
+(1) tájékoztatják egymást a kábítószerek jogellenes előállításában és kereskedelmében részt vevő személyekről, e személyek rejtekhelyeivel, szállítóeszközeivel, munkamódszereivel, a kábítószerek és pszichotróp anyagok származási és rendeltetési helyével, valamint az ilyen jellegű bűncselekmények minden fontos részletével kapcsolatos adatokról, amennyiben ezek szükségesek ezen bűncselekmények visszaszorítása vagy megelőzése érdekében;
+
+(2) tájékoztatják egymást a tiltott nemzetközi kábítószer-kereskedelem szokásos módszereiről és egyéb jelentős tényekről;
+
+(3) kicserélik egymás közt a kábítószerekkel való visszaéléssel és azok kereskedelmével kapcsolatos kriminalisztikai és kriminológiai kutatásaik eredményét;
+
+(4) egymás rendelkezésére bocsátják a visszaélésre alkalmas természetes és mesterséges eredetű kábítószerek és pszichotróp anyagok mintáit;
+
+(5) kicserélik tapasztalataikat a kábítószerek, pszichotróp anyagok és prekurzorok jogszerű kereskedelmének ellenőrzése terén, különös tekintettel a lehetséges visszaélésekre;
+
+(6) a nemzeti jogszabályaik alapján, összehangolt rendőri intézkedéseket foganatosítanak a tiltott kábítószerek és pszichotróp anyagok jogellenes kereskedelmének és előállításának megelőzésére.
+
+*4. Cikk*
+
+A bűnözés, különösen a szervezett bűnözés felderítésében és visszaszorításában kifejtett együttműködésük során a Felek:
+
+(1) tájékoztatják egymást a szervezett bűnözésben részt vevő személyekről, az elkövetők kapcsolatairól, a bűnöző szervezetek és csoportok felépítéséről, az egyes elkövetői és csoportmagatartásról, az egyes esetek tényeiről, különösen az elkövetés ideje, helye és módja tekintetében, a megtámadott létesítményekkel, a megsértett jogszabályokkal, a hozott intézkedésekkel és minden más fontos részlettel kapcsolatos adatokról, amennyiben ez szükséges az ilyen bűncselekmények visszaszorításához és megelőzéséhez;
+
+(2) kérés esetén a felkért Fél nemzeti jogának megfelelően, rendőrségi intézkedéseket foganatosítanak;
+
+(3) a nyomozás során – jelen Megállapodás és nemzeti jogrendszerük előírásainak szem előtt tartásával, valamint a kiadatással és bűnügyi jogsegéllyel kapcsolatos, hatályos egyezményeknek megfelelően – együttműködnek egymással összehangolt rendőri intézkedésekkel, személyi, infrastrukturális és szervezeti támogatással;
+
+(4) adatokat és tapasztalatokat cserélnek a nemzetközi bűnözés elkövetési módszereiről és új formáiról;
+
+(5) kicserélik kriminalisztikai, kriminológiai és más, bűnügyi szempontból jelentős kutatásaik eredményeit; kölcsönösen tájékoztatják egymást a nyomozási technikákról, munkamódszereikről és eszközeik alkalmazásával kapcsolatos tapasztalataikról, azok továbbfejlesztése céljából;
+
+(6) kérelemre egymás rendelkezésére bocsátják a bűncselekményből eredő vagy azok elkövetése során használt tárgyak mintáit és az azokkal kapcsolatos információkat;
+
+(7) a szervezett bűnözés elleni harc elősegítése érdekében szakértőket küldenek egymás országaiba, közös vagy kölcsönös képzésre és továbbképzésre, magasabb szintű szakértelem megszerzése, valamint a bűnügyi technika legújabb eredményei, illetve a bűnüldözés során használt felszerelések és módszerek tanulmányozása céljából;
+
+(8) szükség esetén megbeszélést tartanak, hogy előkészítsék és elősegítsék az összehangolt intézkedéseket.
+
+*5. Cikk*
+
+A Felek közti együttműködés kiterjed továbbá:
+
+(1) a jelen Megállapodásban meghatározott bűncselekményeket érintő jogszabályi előírásokkal kapcsolatos információk kicserélésére;
+
+(2) a bűncselekményekből származó haszonnal kapcsolatos információk kicserélésére;
+
+(3) a külföldiekkel és be- és kivándorlással kapcsolatos tapasztalatok és jogszabályi előírások kicserélésére;
+
+(4) az embercsempészet és illegális munkaerő-kereskedelem elleni harchoz bármely Fél számára szükséges információ kicserélésére.
+
+*6. Cikk*
+
+(1) Jelen Megállapodás előírásainak megvalósítása érdekében a Felek illetékes hatóságai: a Magyar Köztársaság részéről a Belügyminisztérium, a Népjóléti Minisztérium, az Országos Rendőr-főkapitányság, a Vám- és Pénzügyőrség Országos Parancsnoksága és a Határőrség Országos Parancsnoksága, a Ciprusi Köztársaság részéről az Igazságügyi és Közrendi Minisztérium és a Rendőr-főkapitányság, illetékességi területükön és hatáskörükön belül egymással közvetlenül együttműködnek, és jegyzőkönyvben rögzíthetik együttműködésük egyes meghatározott területeit és a kapcsolattartás formáit.
+
+(2) Eltérő megállapodás hiányában az együttműködő hatóságok kommunikációjukban és információcseréjükben az angol nyelvet használják.
+
+*7. Cikk*
+
+Figyelembe véve mindkét Fél hatályos nemzeti jogrendszerét, az átadott személyes adatok védelme tekintetében a következő feltételek érvényesek:
+
+(1) Az átvevő Fél az adatokat kizárólag az átadó Fél által meghatározott célra és feltételekkel használhatja.
+
+(2) Az átadó Fél kérésére az átvevő Fél információt szolgáltat az adatok felhasználásáról és az így elért eredményekről.
+
+(3) Személyes adatok kizárólag a bűnüldöző hatóságoknak és a terrorizmus, illetve kábítószer és szervezett bűnözés elleni küzdelemmel foglalkozó egyéb hatóságoknak továbbíthatók. Más hatóságoknak adat csak az átadó hatóság előzetes engedélyével továbbítható.
+
+(4) Az átadó Fél köteles az átadandó adatok helyességéről meggyőződni, valamint arról, hogy az átadás szükségszerű-e, és arányban áll-e az átadás céljával.
+
+Az átvevő Fél nemzeti joga által meghatározott adatátadásra vonatkozó korlátozásokat szintén be kell tartani. Ha bizonyossá válik, hogy téves vagy át nem adható adat is átadásra került, az átvevő Felet haladéktalanul értesíteni kell. A fogadó Fél köteles a szükséges javításokat elvégezni, vagy az adatot azonnal megsemmisíteni.
+
+(5) Az arra jogosult személy kérelmére a kérelmezett Fél köteles információt szolgáltatni a fenti személy részére a róla szóló adatokról és azok tervezett felhasználásáról. Az információ szolgáltatásának fenti kötelezettsége nem érvényesül, ha az érintett Fél jogi előírásai azt nem teszik kötelezővé. A személyes adatokkal kapcsolatos információk szolgáltatása tekintetében az adatot szolgáltató Fél nemzeti jogának előírásai irányadóak.
+
+(6) Az adat átadásával az átadó Fél saját nemzeti jogának megfelelően megjelöli az adatok törlésének határidejét. Mindezeken felül a személyes adatokat törölni kell, amint szükségüket vesztik. Mindkét Fél haladéktalanul értesíti a másik Felet az átvett adatok törléséről és a törlés okáról. Az átvett adatokat meg kell semmisíteni jelen Megállapodás megszűnésekor.
+
+(7) Mindkét Fél köteles nyilvántartást vezetni a személyes adatok átadásáról, átvételéről és törléséről.
+
+(8) A Felek hatékony védelemben részesítik az átadott adatokat a jogosulatlan hozzáféréssel, változtatással és nyilvánosságra hozatallal szemben.
+
+*8. Cikk*
+
+(1) A Felek kötelesek a bármelyik Fél által bizalmasnak nyilvánított adatok titkosságát megőrizni az átadó Fél nemzeti jogrendszerének megfelelően, amennyiben ezt az átadó Fél nemzeti jogrendszere megkívánja.
+
+(2) A jelen Megállapodás értelmében átadott iratok, adatok és műszaki berendezések harmadik ország számára csak az átadó Fél illetékes hatóságának hozzájárulásával továbbíthatók.
+
+*9. Cikk*
+
+(1) A jelen Megállapodás értelmében létrejövő együttműködés elősegítése és felülvizsgálata érdekében a Felek egy vegyes bizottságot hoznak létre. A Felek az általuk a vegyes bizottságba küldött tagokról diplomáciai úton értesítik egymást.
+
+(2) A vegyes bizottság bármelyik Fél kezdeményezésére szükség szerint ülésezik. A bizottság üléseit felváltva a Magyar Köztársaság és a Ciprusi Köztársaság területén tartja.
+
+*10. Cikk*
+
+Bármelyik Fél részben vagy egészben megtagadhatja a segítségnyújtásra, illetve együttműködésre irányuló kérés teljesítését, ha az nemzeti szuverenitását korlátozza, biztonságát vagy alapvető érdekeit veszélyezteti, illetve nemzeti jogát vagy közrendjét sérti.
+
+*11. Cikk*
+
+Jelen Megállapodás nem érinti a Magyar Köztársaság és a Ciprusi Köztársaság által kötött két- vagy többoldalú szerződések előírásainak végrehajtását.
+
+*12. Cikk*
+
+(1) Jelen Megállapodás jóváhagyásra szorul, és a diplomáciai jegyzékváltástól számított harmincadik napon lép hatályba.
+
+(2) Jelen Megállapodás határozatlan ideig marad hatályban. Bármelyik fél diplomáciai úton felmondhatja jelen Megállapodást. A bármely Fél általi ilyen jellegű jegyzék kézhezvételétől számított hat hónap elteltével a Megállapodás hatályát veszti.
+
+(3) Jelen Megállapodás hatálybalépésével a Magyar Köztársaság Belügyminisztériuma és a Ciprusi Köztársaság Belügyminisztériuma között létrejött, 1991. szeptember 16-án, Nicosiában aláírt Megállapodás a Terrorizmus, Tiltott Kábítószer-kereskedelem és Szervezett Bűnözés Elleni Küzdelemben Való Együttműködésről hatályát veszti a két ország viszonyában.
+
+Kelt Budapesten, 1996. június hó 13. napján, két eredeti példányban, magyar, görög és angol nyelven, mindhárom nyelvű szöveg egyaránt hiteles. Eltérő értelmezés esetén az angol szöveg az irányadó.
+
+A Magyar Köztársaság\
+Kormánya nevében
+
+A Ciprusi Köztársaság\
+Kormánya nevében''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, rendelkezéseit azonban 1999. szeptember 1. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról a rendészetért felelős miniszter, az adópolitikáért felelős miniszter, az egészségügyért felelős miniszter, valamint a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter gondoskodik.
+
+(3)[^3]
+
+---
+
+[^1]: A Kormány a rendeletet 1997. március 27-én fogadta el.
+[^2]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 136. pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1082. pontja hatályon kívül helyezte.

@@ -1,0 +1,55 @@
+---
+title: "123/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és a Venezuelai Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló megállapodás kihirdetéséről"
+identifier: "123/2000. (VII. 11.) Korm. rendelet"
+njt_id: "2000-123-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/123"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-07-11
+in_force_from: 2008-05-01
+last_amended: 2008-05-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-123-20-22"
+retrieved: 2026-10-12
+---
+
+# 123/2000. (VII. 11.) Korm. rendelet a Magyar Köztársaság Kormánya és a Venezuelai Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel kihirdeti a Magyar Köztársaság Kormánya és a Venezuelai Köztársaság Kormánya között a vízumkötelezettség kölcsönös megszüntetéséről szóló, 2000. május 11-én jegyzékváltás útján létrejött megállapodást.
+
+## 2. §
+
+A jegyzékváltás magyar nyelvű szövege a következő:
+
+,,
+
+**Szóbeli jegyzék**
+
+A Magyar Köztársaság Külügyminisztériuma tiszteletét fejezi ki a Venezuelai Köztársaság budapesti Nagykövetségének és van szerencséje visszaigazolni a Tisztelt Nagykövetség DGSRCON/30. számú, 2000. február 16-án kelt szóbeli jegyzékét.
+
+A Magyar Köztársaság Külügyminisztériuma tájékoztatja a Tisztelt Nagykövetséget, hogy a Magyar Köztársaság Kormánya örömmel nyugtázza a venezuelai fél döntését, amellyel lehetővé teszi, hogy a Magyar Köztársaság magánútlevéllel rendelkező állampolgárai 2000. február 16-tól három hónapot meg nem haladó időtartamú turista célú beutazásaik esetén vízum nélkül léphetnek be és tartózkodhatnak a Venezuelai Köztársaság területén.
+
+A Magyar Köztársaság és a Venezuelai Köztársaság közötti állampolgári kapcsolatok szélesítésének óhajától vezérelve, valamint viszonozva a venezuelai félnek a magyar állampolgárok számára nyújtott beutazási és tartózkodási kedvezményt, a Magyar Köztársaság Kormánya 2000. június 1-jével a magánútlevéllel rendelkező venezuelai állampolgárok számára biztosítja a vízummentes beutazás és tartózkodás jogát.
+
+A Magyar Köztársaság idegenrendészeti jogszabályaiban foglaltak teljesítése mellett az érvényes magánútlevéllel rendelkező, turizmus céljából, legfeljebb 90 napi időtartamra beutazni szándékozó venezuelai állampolgárok 2000. június 1-jétől vízum nélkül léphetnek be a Magyar Köztársaság területére a nemzetközi utasforgalom számára megnyitott határátkelőhelyeken.
+
+A venezuelai állampolgárok turista célú beutazás esetén legfeljebb 90 napig vízum nélkül tartózkodhatnak a Magyar Köztársaság területén. Minden ettől eltérő, valamint a 90 napot meghaladó bármilyen célú beutazási és tartózkodási szándék esetén a venezuelai állampolgároknak előzetesen vízumkérelmet kell benyújtaniuk a Magyar Köztársaság konzuli vagy diplomáciai képviseletén.
+
+A Magyar Köztársaság Külügyminisztériuma megállapítja, hogy a jelen szóbeli jegyzékkel és a Tisztelt Nagykövetség DGSRCON/30. számú, 2000. február 16-án kelt szóbeli jegyzékével a két ország állampolgárainak vízummentes beutazását és tartózkodását szabályozó rendszer jött létre. Mindkét fél jogosult arra, hogy az e rendszer keretében egymás állampolgárainak biztosított kedvezményt egyoldalúan, szóbeli jegyzék útján visszavonja. A visszavonás az arról szóló szóbeli jegyzék keltétől számított 30. nap letelte után lép hatályba.
+
+A Magyar Köztársaság Külügyminisztériuma ezúttal is őszinte nagyrabecsülését fejezi ki a Venezuelai Köztársaság budapesti Nagykövetségének.
+
+Budapest, 2000. május 11.''
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba, a megállapodás rendelkezéseit azonban a magyar állampolgárok tekintetében 2000. február 16. napjától, a venezuelai állampolgárok tekintetében pedig 2000. június 1. napjától kell alkalmazni.
+
+(2)[^1] E rendelet végrehajtásáról az idegenrendészetért és menekültügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. §-ának 126. pontja szerint módosított szöveg.

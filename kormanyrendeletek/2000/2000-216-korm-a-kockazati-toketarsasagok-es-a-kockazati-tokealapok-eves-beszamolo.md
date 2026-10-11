@@ -1,0 +1,329 @@
+---
+title: "216/2000. (XII. 11.) Korm. rendelet a kockázati tőketársaságok és a kockázati tőkealapok éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól"
+identifier: "216/2000. (XII. 11.) Korm. rendelet"
+njt_id: "2000-216-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2000/Korm/216"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2000-12-11
+in_force_from: 2009-01-01
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2000-216-20-22"
+retrieved: 2026-10-12
+---
+
+# 216/2000. (XII. 11.) Korm. rendelet a kockázati tőketársaságok és a kockázati tőkealapok éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól
+
+A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Tv.) 178. §-a (1) bekezdésének c) pontjában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
+
+## A rendelet hatálya
+
+### 1. §
+
+(1)[^1] A rendelet hatálya kiterjed a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) szerint működő kockázati tőkealapra és magántőkealapra (a továbbiakban: kockázati tőkealap).
+
+## Beszámolási kötelezettség
+
+### 2. §
+
+(1)[^2]
+
+(2)[^3] A kockázati tőkealap az 1. számú melléklet szerinti mérlegből, a 2. számú melléklet szerinti eredménykimutatásból és a 8. § szerinti kiegészítő mellékletből álló éves beszámolót köteles készíteni. Az éves beszámolóval egyidejűleg a Tv. szerinti üzleti jelentést is el kell készíteni.
+
+## Számviteli politika
+
+### 3. §[^4]
+
+A kockázati tőkealap a számviteli politika keretében köteles elkészíteni a Tv. 14. §-ának (3)–(5) bekezdésében foglaltakon túlmenően:
+
+a) a kockázati tőkebefektetések értékelési elveit,
+
+b) az értékelés felülvizsgálatára (ellenőrzésére) vonatkozó szabályzatot,
+
+c) a befektetés elveit tartalmazó szabályzatot,
+
+d) a kölcsönnyújtásra és a fedezetek értékelésére vonatkozó szabályzatot,
+
+e)[^5] az alap nettó eszközértékének számítására vonatkozó szabályzatot.
+
+## A mérleg egyes tételeinek tartalma
+
+### 4. §
+
+(1)[^6] A kockázati tőkealap a mérlegben a befektetett eszközök között köteles kimutatni a kockázati tőkebefektetésnek minősülő tulajdoni részesedést jelentő befektetéseket.
+
+(2)[^7] A kockázati tőkealap a csőd- vagy felszámolási eljárás során, a követelés ellenében kapott és saját célra nem hasznosított vagyontárgyakat – az értékpapírok kivételével – a készletek között mutatja ki.
+
+(3)[^8] A kockázati tőkealap a forgóeszközökön belül az értékpapírok között mutatja ki az ideiglenesen szabad pénzeszközökből vásárolt állampapírok értékét, valamint a csőd-, illetve felszámolási eljárás során, a követelés ellenében kapott, eladásra szánt értékpapírok értékét.
+
+(4)[^9] A kockázati tőkealap
+
+a) jegyzett tőkeként köteles kimutatni a kibocsátott kockázati tőkealap-jegyek névértékének megfelelő összegű induló tőkéjét,
+
+b) jegyzett, de még be nem fizetett tőkeként – negatív előjellel – köteles kimutatni a kibocsátott kockázati tőkealap-jegyek névértékének még be nem fizetett összegét.
+
+(5)[^10] A kockázati tőkealap a saját tőkén belül, tartalékként (tartalékot növelő, illetve csökkentő tételként) köteles kimutatni a tárgyévet megelőző üzleti évek adózott eredményének összegét, továbbá a jogszabály alapján tőkejuttatásként véglegesen kapott, illetve átadott eszközök értékét és pénzeszközök összegét.
+
+## Eredménykimutatás egyes tételei
+
+### 5. §
+
+(1)[^11]
+
+(2)[^12] A kockázati tőkealap a kockázati tőkealap-jegy után fizetett (fizetendő) hozamot a pénzügyi műveletek ráfordításain belül kamatráfordításként köteles elszámolni.
+
+(3)[^13] A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére fizetett (fizetendő) díjakat az egyéb ráfordítások között kell elszámolni.
+
+(4) Az alapkezelő részére fizetett (fizetendő) alapkezelői díjat igénybe vett szolgáltatások értékeként kell elszámolni.
+
+## Értékelési előírások
+
+### 6. §
+
+(1) A kockázati tőkebefektetéseken belül elkülönítetten kell kimutatni és értékelni:
+
+a) a teljes egészében realizált befektetéseket,
+
+b) a részlegesen realizált befektetéseket,
+
+c) a még nem realizált befektetéseket.
+
+(2) A kockázati tőkebefektetéseket bekerülési értéken kell kimutatni, csökkentve azt a Tv. 54. §-ának (1) bekezdése szerint alkalmazott értékvesztéssel, növelve azt a Tv. 54. §-ának (3) bekezdése szerinti visszaírás összegével. A kockázati tőkebefektetések után elszámolt értékvesztés összegét negyedévenként felül kell vizsgálni, és annak összegét a minősítésnek megfelelően korrigálni kell.
+
+(3) A Tv. 57. §-ának (3) bekezdése szerinti piaci értékelést célszerű alkalmazni a kockázati tőkebefektetés értékelésére többek között akkor, ha
+
+a) a kockázati tőkebefektetés értéke megnő harmadik féllel kapcsolatos tranzakció miatt,
+
+b) a céltársaság – amelybe a kockázati tőkebefektetés irányult – társasági vagyonértéke – eszközeinek és kötelezettségeinek különbözete – folyamatosan nő, és reálisan mutatja a kockázati tőkebefektetés piaci értékének növekedését,
+
+c) a céltársaság jelentős és fenntartható nyereséget ér el, és a nyereségek diszkontált értéke (jelenértéke) jól mutatja a kockázati tőkebefektetés piaci értékének növekedését.
+
+(4)[^14] A (2) és (3) bekezdés alkalmazása helyett a kockázati tőkebefektetéseket a Tv. 3. §-a (9) bekezdésének 7. pontja szerinti, az értékesíthető pénzügyi eszközökre vonatkozó előírásai alkalmazásával – a Tv. 59/A. §-a (7) bekezdésének c) pontjában foglaltak figyelembevételével – valós értéken is lehet értékelni. A valós értéken történő értékelést ez esetben negyedévente végre kell hajtani, és annak során a (3) bekezdés a)–c) pontjaiban foglaltakat is figyelembe kell venni.
+
+### 6/A. §[^15]
+
+A kockázati tőkealapnak a követeléseit a Tv. 55. §-ának előírásai szerint negyedévente értékelnie kell, és arra a szükséges mértékben értékvesztést kell elszámolnia. A követelésekre elszámolt értékvesztés összegét negyedévenként felül kell vizsgálni, és annak összegét a minősítésnek megfelelően korrigálni kell.
+
+## Könyvvezetési kötelezettség
+
+### 7. §[^16]
+
+A kockázati tőkealap a Tv. szerinti kettős könyvvitelt köteles vezetni oly módon, hogy abból a Felügyelet információs igénye mindenkor kielégíthető, a jogszabály szerinti tájékoztatási kötelezettség teljesíthető legyen.
+
+## Kiegészítő melléklet
+
+### 8. §[^17]
+
+A kockázati tőkealap a kiegészítő mellékletben a Tv. előírásain túlmenően köteles bemutatni:
+
+a)[^18] a kockázati tőkealap tulajdonában lévő csőd- vagy felszámolási eljárás esetén a követelés ellenében kapott és készletként kimutatott vagyontárgyakat, külön kiemelve az ingatlanokat,
+
+b)[^19] a kockázati tőkebefektetéseket és azok tulajdoni részarányát a céltársaságokban, társaságonkénti bontásban,
+
+c) a kockázati tőkebefektetések alkalmazott értékelési elveit,
+
+d)[^20] a céltársaságoknak nyújtott kölcsönök összegét és lejáratát társaságonkénti bontásban,
+
+e) a kockázati tőkebefektetések után a tárgyévben elszámolt értékvesztés, illetve értékvesztés visszaírás összegét,
+
+f)[^21] a kockázati tőkebefektetésekhez kapcsolódóan a tárgyévben elszámolt, illetve megszüntetett értékelési különbözet összegét, amennyiben a 6. § (4) bekezdése szerint azokat valós értéken értékelték,
+
+g)[^22] a kockázati tőkealap megalakulásának időpontját és működési idejét,
+
+h)[^23] a külföldi kockázati tőkebefektetéseket földrajzilag elhatárolt piacok szerinti bontásban,
+
+i)[^24] a belföldi kockázati tőkebefektetéseket vármegyénkénti bontásban,
+
+j)[^25] a más alapokkal közös befektetések fajtáit, értékét, mértékét és az ahhoz kapcsolódó hozamfizetési feltételeket,
+
+k)[^26] a kibocsátott eltérő névértékű és eltérő jogokat biztosító kockázati tőkealap-jegyek fajtáit és névértékét, valamint az azokhoz kapcsolódó hozamfizetési feltételeket és jogosultságokat,
+
+l)[^27] annak tényét, ha bizonyos tőkealap-jegyekhez fűződő nem vagyoni jogok megszűntek,
+
+m)[^28] az egy kockázati tőkealap-jegyre jutó nettó eszközértéket a kockázati tőkealap-jegyek *k)* pont szerinti fajtánkénti részletezésében,
+
+n)[^29] a kockázati tőkealap tulajdonában lévő, a Tv. 54. §-ának (8) bekezdése szerinti befektetési célú, lejáratig tartott, hitelkockázati szempontból kockázatmentesnek minősített értékpapírok állományát,
+
+o)[^30] a kockázati tőkealap-kezelő nevét, címét és azt, hogy milyen más kockázati tőkealapokat kezel.
+
+## ZÁRÓ RENDELKEZÉSEK
+
+## Hatálybalépés
+
+### 9. §
+
+(1) Ez a rendelet 2001. január 1-jén lép hatályba azzal, hogy rendelkezéseit először a 2001. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(2)[^31]
+
+## Átmeneti rendelkezés
+
+### 10. §
+
+A kockázati tőkebefektetések minősítése alapján képzett céltartalék 2000. december 31-i állományát 2001. január 1-jével – a nyitó tételek könyvelését követően – az egyéb bevételekkel szemben ki kell vezetni, majd annak összegét a kockázati tőkebefektetések értékvesztéseként kell – egyedileg – elszámolni az egyéb bevételeket csökkentő tételként.
+
+### 11. §[^32]
+
+A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló a 484/2015. (XII. 29.) Korm. rendelet 22. §-ával megállapított 4. § (5) bekezdését, 23. §-ával megállapított 1. és 2. számú mellékletét először a 2016. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+### 12. §[^33]
+
+A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 445/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított 6/A. §-át először a 2018. évben induló üzleti évről készített beszámolóra kell alkalmazni, de az már a 2017. évben induló üzleti évről készített beszámolóra is alkalmazható.
+
+## 1. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^34]
+
+**A kockázati tőkealap mérlegének tagolása**
+
+ESZKÖZÖK
+
+A) Befektetett eszközök
+
+**I. Tartós részesedések, értékpapírok**
+
+1\. Részvények, egyéb részesedések (kockázati tőkebefektetések)
+
+2\. Állampapírok
+
+**II. Értékhelyesbítések**
+
+**III. Értékelési különbözet**
+
+**IV. Adott kölcsönök**
+
+B) Forgóeszközök
+
+**I. Készletek**
+
+**II. Követelések**
+
+**III. Követelések értékelési különbözete**
+
+**IV. Származékos ügyletek pozitív értékelési különbözete**
+
+**V. Értékpapírok**
+
+1\. Követelés fejében átvett értékpapírok
+
+2\. Állampapírok
+
+**VI. Értékpapírok értékelési különbözete**
+
+**VII. Pénzeszközök**
+
+C) Aktív időbeli elhatárolások
+
+FORRÁSOK
+
+D)[^35] Saját tőke
+
+**I. Jegyzett tőke**
+
+**II. Jegyzett, de még be nem fizetett tőke (–)**
+
+**III. Tartalék**
+
+**IV. Lekötött tartalék**
+
+**V. Értékelési tartalék**
+
+1\. Értékhelyesbítés értékelési tartaléka
+
+2\. Valós értékelés értékelési tartaléka
+
+VI.[^36] Adózott eredmény
+
+E) Céltartalékok
+
+F) Kötelezettségek
+
+**I. Hátrasorolt kötelezettségek**
+
+**II. Hosszú lejáratú kötelezettségek**
+
+**III. Rövid lejáratú kötelezettségek**
+
+**IV. Kötelezettségek értékelési különbözete**
+
+**V. Származékos ügyletek negatív értékelési különbözete**
+
+G) Passzív időbeli elhatárolások
+
+## 2. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^37]
+
+**A kockázati tőkealap eredménykimutatásának tagolása**
+
+01\. Értékesítés nettó árbevétele
+
+02\. Eladott áruk beszerzési értéke
+
+03\. Eladott (közvetített) szolgáltatások értéke
+
+04\. Működési költségek
+
+05\. Egyéb bevétel
+
+Ebből: visszaírt értékvesztés
+
+06\. Egyéb ráfordítások
+
+Ebből: értékvesztés
+
+07\. Pénzügyi műveletek bevételei
+
+Ebből: értékelési különbözet
+
+08\. Pénzügyi műveletek ráfordításai
+
+Ebből: értékvesztés
+
+értékelési különbözet
+
+09\. Adózás előtti eredmény
+
+(01-02-03-04+05-06+07-08)
+
+10\. Adófizetési kötelezettség
+
+11\. Adózott eredmény (09-10)
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdését a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 38. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^4]: A 3. § felvezető szövege a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^5]: A 3. § e) pontját a 334/2005. (XII. 29.) Korm. rendelet 33. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^6]: A 4. § (1) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^7]: A 4. § (2) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^8]: A 4. § (3) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^9]: A 4. § (4) bekezdése a 334/2005. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^10]: A 4. § (5) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^11]: Az 5. § (1) bekezdését a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése hatályon kívül helyezte.
+[^12]: Az 5. § (2) bekezdése a 331/2008. (XII. 30.) Korm. rendelet 25. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^13]: Az 5. § (3) bekezdése a 345/2013. (IX. 30.) Korm. rendelet 13. §-a, a 362/2014. (XII. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^14]: A 6. § (4) bekezdését a 239/2003. (XII. 17.) Korm. rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^15]: A 6/A. §-t a 445/2017. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A 7. § a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni. A 7. § a 345/2013. (IX. 30.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^17]: A 8. § felvezető szövege a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^18]: A 8. § a) pontja a 334/2005. (XII. 29.) Korm. rendelet 37. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^19]: A 8. § b) pontja a 334/2005. (XII. 29.) Korm. rendelet 37. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^20]: A 8. § d) pontja a 334/2005. (XII. 29.) Korm. rendelet 37. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^21]: A 8. § új f) pontját a 239/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, egyidejűleg az eredeti f)–h) pont jelölését g)–i) pontra változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^22]: A 8. § eredeti f) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a g) pontra változtatta, szövege a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^23]: A 8. § eredeti g) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a h) pontra változtatta.
+[^24]: A 8. § eredeti h) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a i) pontra változtatta. A 8. § i) pontja a 616/2022. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^25]: A 8. § j) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^26]: A 8. § k) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^27]: A 8. § l) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^28]: A 8. § m) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^29]: A 8. § n) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^30]: A 8. § o) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^31]: A 9. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1128. pontja hatályon kívül helyezte.
+[^32]: A 11. §-t a 484/2015. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^33]: A 12. §-t a 445/2017. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^34]: Az 1. számú melléklet a 239/2003. (XII. 17.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
+[^35]: Az 1. számú melléklet FORRÁSOK része D) tétele a 334/2005. (XII. 29.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^36]: Az 1. számú melléklet „D. Saját tőke” pont VI. alpontja a 484/2015. (XII. 29.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
