@@ -371,6 +371,8 @@ def convert(page, item, docid):
     date = parse_date_hu(first_note.split("kihirdetés napja:")[-1]) if "kihirdetés napja" in first_note else None
     if not date:
         date = label_date(label, year)
+    if not date:
+        date = parse_date_hu(fulltitle)
     consolidated = None
     if hataly:
         mm = re.match(r"(\d{4})\.(\d\d)\.(\d\d)", hataly)
