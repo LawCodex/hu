@@ -1,0 +1,275 @@
+---
+title: "277/2024. (IX. 26.) Korm. rendelet a rendészetért felelős miniszter irányítása alá tartozó rendvédelmi szervek nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről"
+identifier: "277/2024. (IX. 26.) Korm. rendelet"
+njt_id: "2024-277-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/277"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-09-26
+in_force_from: 2024-10-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-277-20-22"
+retrieved: 2026-10-12
+---
+
+# 277/2024. (IX. 26.) Korm. rendelet a rendészetért felelős miniszter irányítása alá tartozó rendvédelmi szervek nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről
+
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 59. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya a rendészetért felelős miniszter irányítása alá tartozó rendvédelmi szervekre (a továbbiakban: rendvédelmi szerv) terjed ki.
+
+### 2. §
+
+(1) E rendeletet az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 3. § (2) bekezdése szerinti, a rendvédelmi szerv nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra (a továbbiakban: nemzetbiztonsági célú beruházás) kell alkalmazni.
+
+(2) E rendelet alkalmazásában nemzetbiztonsági célú és rendeltetésű építmény a magyar építészetről szóló 2023. évi C. törvény 16. § 95. pontja szerinti építmény (a továbbiakban: nemzetbiztonsági célú építmény).
+
+(3) A nemzetbiztonsági célú beruházás tekintetében a rendvédelmi szerv az Ábtv. alapelveivel és céljaival összhangban, az e rendeletben meghatározottak figyelembevételével végzi az állami építési beruházásaival összefüggésben felmerülő, az előkészítéssel, a tervezéssel, a megvalósítással, a működtetéssel és az ezekhez kapcsolódó nyilvántartással, valamint beszámolási kötelezettséggel és adatszolgáltatással kapcsolatos feladatait.
+
+(4) A nemzetbiztonsági célú beruházás esetén az Ábtv. 26. § (3) és (4) bekezdésében foglaltaktól eltérően nem kell alkalmazni az állami beruházásokért felelős miniszter irányítása alatt álló önálló költségvetési fejezetre vonatkozó rendelkezéseket.
+
+### 3. §
+
+Az Ábtv. és a 2–4. alcím rendelkezéseit nem kell alkalmazni azon nemzeti vagy uniós közbeszerzési értékhatárt elérő vagy meghaladó nemzetbiztonsági célú beruházásra, amely
+
+a) a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet alapján valósítandó meg,
+
+b) az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 225/2016. (VII. 29.) Korm. rendelet alapján valósítandó meg,
+
+c) nem tartozik sem a közbeszerzésekről szóló 2015. évi CXLIII. törvény, sem a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá.
+
+## 2. A nemzetbiztonsági célú beruházásokra vonatkozó, az állami építési beruházásokkal kapcsolatos általános rendelkezésektől eltérő közös szabályok
+
+### 4. §
+
+(1) A nemzetbiztonsági célú beruházás megvalósításához szükséges közbeszerzési eljárásokat a rendvédelmi szerv saját hatáskörben folytatja le.
+
+(2) Az Ábtv. 1. § (3) bekezdésétől eltérően a társadalmi konszenzus érdekében a javaslat- és véleménynyilvánítás lehetőségét, továbbá az Ábtv. 1. § (4) bekezdésétől eltérően a végrehajtás során a nyilvánosság és a közösségi ellenőrzés lehetőségének biztosítását csak a nemzetbiztonsági célú beruházással közvetlenül érintettek számára kell biztosítani, oly módon, hogy az ne veszélyeztesse Magyarország nemzetbiztonsági érdekeit.
+
+(3) Az Ábtv. 1. § (4) bekezdésében meghatározott nyilvánosság és közösségi ellenőrzés lehetőségét a beruházási döntéseket megelőzően nem kell biztosítani.
+
+(4) A (2) bekezdés szerinti javaslat- és véleménynyilvánításhoz szükséges információk szolgáltatása az építtető kötelessége. Amennyiben az építtető által szolgáltatandó információk átadhatóságával kapcsolatban döntést igénylő kérdés merül fel, arról az építtető kezdeményezése alapján a rendészetért felelős miniszter előterjesztésére a Védelmi Tanács dönt.
+
+(5) A nemzetbiztonsági célú beruházás tekintetében nem kell alkalmazni az Ábtv. 14. §-ában foglaltakat.
+
+### 5. §
+
+A nemzetbiztonsági célú beruházást az Ábtv. 1. § (2) bekezdés a) pontja szerinti állami építési beruházási keretprogramon belül elkülönítve kell nyilvántartani.
+
+### 6. §
+
+A rendvédelmi szerv a nemzetbiztonsági célú beruházás tekintetében az Ábtv. 10. § (3) bekezdése szerinti költséginformációs rendszerben a feladatait a következő eltéréssel hajtja végre:
+
+a) a költséginformációs rendszerbe nemzetbiztonsági célú beruházásról minősített adatot tartalmazó információt nem tölt fel,
+
+b) a minősített adatot nem tartalmazó nemzetbiztonsági célú beruházás a költségeiről és műszaki adatairól kizárólag összesített és korlátozott tartalmú adatszolgáltatást nyújt.
+
+### 7. §
+
+Az Ábtv. 11. § (1) bekezdése szerinti állami építési beruházások monitoringja céljából kiépített egységes informatikai rendszer keretében működtetett központi informatikai rendszer és építményinformációs modell (BIM) alapú műszaki nyomonkövetési rendszerben a nemzetbiztonsági célú beruházással kapcsolatosan a költségekről és műszaki adatokról kizárólag összesített és korlátozott tartalmú adatok elkülönített módon, zárt rendszerben tarthatóak nyilván.
+
+### 8. §
+
+(1) Az Ábtv. 11. §-ától eltérően a nemzetbiztonsági célú beruházás monitoringja céljából, nettó 500 millió forint becsült értéket elérő vagy meghaladó nemzetbiztonsági célú beruházás esetén a rendvédelmi szervnél tanácsadói feladatot ellátó testületet (a továbbiakban: monitoring bizottság) hoz létre.
+
+(2) A monitoring bizottságra a következő rendelkezések alkalmazandóak:
+
+a) a monitoring bizottság elnöke a rendészetért felelős miniszter által kijelölt személy,
+
+b) a monitoring bizottság társelnök nélkül működik,
+
+c) a monitoring bizottság állandó tagja a rendvédelmi szerv vezetője által kijelölt személy,
+
+d) a monitoring bizottságba az államháztartásért felelős miniszter tagot nem delegál,
+
+e) a monitoring bizottság további tagjait a monitoring bizottság elnöke jelöli ki,
+
+f) a monitoring bizottság figyelemmel kíséri a monitoring bizottság elnökének feladatkörébe tartozó nemzetbiztonsági célú beruházás előkészítését és megvalósítását, különös tekintettel a rendvédelmi szerv számára biztosított központi költségvetési források felhasználására és a műszaki tartalomnak a szakpolitikai-ágazati beruházási koncepcióval és az ágazati beruházási tervvel való összhangjára,
+
+g) a monitoring bizottság információkat kérhet a rendvédelmi szerv nemzetbiztonsági célú beruházásairól, valamint ajánlásokat fogalmazhat meg a 11. § szerinti projektszervezet számára,
+
+h) a monitoring bizottság jogosult a feladatai ellátása céljából a hatáskörébe tartozó, a nemzetbiztonsági célú beruházásra vonatkozó adatok és dokumentumok megismerésére,
+
+i) a monitoring bizottság üléseit a monitoring bizottság elnöke vezeti,
+
+j) a monitoring bizottság döntéseit a monitoring bizottság elnöke – a rendvédelmi szerv vezetője egyetértésével – hozza meg,
+
+k) a monitoring bizottság dönt a koncepcióterv elfogadásáról, nyomon követi a kivitelezési munkák előrehaladását, és szükség esetén ajánlást tesz a rendészetért felelős miniszternek, különösen a szakpolitikai-ágazati beruházási koncepciókkal, az ágazati beruházási tervvel, a beruházás terveivel való összhang megtartása és a költségvetési szempontoknak való megfelelés érdekében.
+
+(3) A nemzetbiztonsági célú beruházások tekintetében az Ábtv. 11. § (2) bekezdése szerinti monitoring bizottság nem végez monitoring tevékenységet, a rendészetért felelős miniszter az e rendelet hatálya alá tartozó beruházások monitoringja céljából hathavonta jelentést készít az állami beruházásokért felelős miniszter számára az állami beruházásokért felelős miniszterrel egyeztetett tartalommal és módon.
+
+(4) A nemzetbiztonsági célú beruházás tervezőjének és kivitelezőjének kiválasztási folyamatában az építtető az állami beruházásokért felelős miniszter által delegált személy részvételének lehetőségét biztosítani köteles.
+
+### 9. §
+
+(1) A nemzetbiztonsági célú beruházással érintett ingatlan az Ábtv. 12. §-ában foglaltaktól eltérően
+
+a) a rendvédelmi szerv tulajdonosi joggyakorlásában vagy vagyonkezelésében marad,
+
+b) a beruházás keretében felépített új építmény és létrejövő új ingó vagyonelem is osztja a beruházással érintett ingatlan jogi sorsát.
+
+(2) A nemzetbiztonsági célú beruházással érintett ingatlan tulajdonosi joggyakorlója vagy vagyonkezelője kizárólagosan gyakorolja az állami építési beruházás megvalósításához szükséges építtetői tulajdonosi joggyakorlásra vonatkozó jogot, vagyonkezelő esetén az állami tulajdonú ingatlanok tulajdonosi joggyakorlója által adott meghatalmazás alapján.
+
+### 10. §
+
+A nemzetbiztonsági célú beruházásra az Ábtv. 13. §-ában meghatározott Állami Beruházási Érdekegyeztető Tanács hatásköre nem terjed ki.
+
+### 11. §
+
+Az Ábtv. 15. §-ában meghatározott projektszervezetre vonatkozó szabályokat a nemzetbiztonsági célú beruházás tekintetében a következő eltérésekkel kell alkalmazni:
+
+a) a rendvédelmi szerv projektszervezetet a nettó 500 millió forint becsült értéket elérő vagy meghaladó nemzetbiztonsági célú beruházás esetén hoz létre,
+
+b) a projektszervezetnek az Ábtv. 15. § (2) bekezdésében meghatározott tagokon felül az üzemeltető is a tagja,
+
+c) a projektszervezetnek az Ábtv. 15. § (2) bekezdés e) pontja szerinti tervellenőr vagy a tervek ellenőrzését végző más személy nem lehet a tagja,
+
+d) az Ábtv. 15. § (3) bekezdésében foglalt szabályoktól eltérően a projektszervezetben az üzemeltető, továbbá a szakminiszter vesz részt.
+
+### 12. §
+
+(1) Az Ábtv. 16. § (1) bekezdésében foglalt szabályoktól eltérően a nemzetbiztonsági célú beruházás építtetője minden esetben a rendvédelmi szerv, azzal, hogy a 11. § szerinti projektszervezet létrehozása esetén az Ábtv. 16. § (2) bekezdésének szabályait alkalmazni kell.
+
+(2) A nemzetbiztonsági célú beruházás előkészítése és megvalósítása keretében szükséges hatósági engedélyezési eljárásokban a rendvédelmi szerv kérelmét soron kívül kell elbírálni.
+
+### 13. §
+
+Az építtető – az Ábtv. 17. § (1) bekezdésében foglaltaktól eltérően – a következő szaktevékenységet ellátó szervezeti tagokat bízza, a d) pont szerinti tag esetében bízhatja meg:
+
+a) beruházás-lebonyolító,
+
+b) tervező,
+
+c) építési műszaki ellenőr,
+
+d) költségszakértő,
+
+e) kivitelező.
+
+### 14. §
+
+(1) A beruházás-lebonyolító és a projektvezető
+
+a) a rendvédelmi szervvel hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló vagy
+
+c) polgári jogi jogviszony keretében foglalkoztatott
+
+személy lehet.
+
+(2) Az (1) bekezdés szerinti személyek titoktartási nyilatkozatot tesznek.
+
+### 15. §
+
+(1) Az építési műszaki ellenőri feladatot
+
+a) a rendvédelmi szervvel hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló személy,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy vagy
+
+c) polgári jogi jogviszony keretében megbízott személy vagy gazdasági társaság
+
+végezhet.
+
+(2) Az építési műszaki ellenőr titoktartási nyilatkozatot tesz.
+
+### 16. §
+
+(1) A költségszakértő – amennyiben alkalmazására sor kerül –
+
+a) a rendvédelmi szervvel hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló személy,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy vagy
+
+c) polgári jogi jogviszony keretében foglalkoztatott személy
+
+lehet.
+
+(2) A költségszakértő titoktartási nyilatkozatot tesz.
+
+### 17. §
+
+(1) A nemzetbiztonsági célú beruházással megvalósuló építmény üzemeltetője a rendvédelmi szerv, amely az építmény tulajdonosi joggyakorlója vagy vagyonkezelője.
+
+(2) Az előkészítési szakaszba a 13. § szerinti személyeken kívül be kell vonni az (1) bekezdés szerinti üzemeltetőt is.
+
+### 18. §
+
+(1) Az Ábtv. 19. § (8) bekezdésétől eltérően a tervező közreműködését a rendvédelmi szerv vezetője értékeli.
+
+(2) Az Ábtv. 7. alcímét azzal az eltéréssel kell alkalmazni, hogy
+
+a) a miniszter számára meghatározott feladatokat a rendvédelmi szerv vezetője látja el,
+
+b) a miniszter számára meghatározott hatásköröket a rendvédelmi szerv vezetője gyakorolja.
+
+### 19. §
+
+(1) A nemzetbiztonsági célú beruházás tekintetében az Ábtv. 9. alcímében foglalt rendelkezéseket a (2)–(7) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A rendvédelmi szerv alaptevékenységének ellátásához szükséges képességeinek fejlesztése következtében szükségessé váló, előre nem látható építési beruházás esetén központi költségvetési forrás biztosítható a keretprogramban nem szereplő nemzetbiztonsági célú beruházásra.
+
+(3) A nemzetbiztonsági célú beruházás előkészítésének második üteméhez és megvalósításához biztosítandó központi költségvetési fedezetet a rendvédelmi szerv a saját költségvetésében tervezi meg és számolja el.
+
+(4) A nemzetbiztonsági célú beruházás esetén tanulmánytervet és megvalósíthatósági tanulmányt csak
+
+a) új építmény építésére irányuló beruházásnál kell készíteni, amennyiben annak földszinti bruttó alapterülete meghaladja az 1500 m<sup>2</sup>-t, és az épülethez csatlakozó rendezett terepszint alatti szintszám 1 szintnél több, vagy a terepszint feletti építmény beépítési magassága a 15 métert meghaladja, vagy
+
+b) a sajátos építményfajták körébe tartozó, telekommunikációs összeköttetésre irányuló nyomvonal jellegű állami építési beruházás esetén, amennyiben a nyomvonal jellegű állami építési beruházás elhagyja a rendvédelmi szerv vagyonkezelésében, illetve tulajdonosi joggyakorlásában lévő ingatlant.
+
+(5) Az Ábtv. 28. § (2) bekezdés a) pontja szerinti megvalósíthatósági tanulmány elkészítése során az Ábtv. 29. § (1) bekezdés a) és b) pontját nem kell alkalmazni a rendvédelmi szerv alapvető biztonsági érdekeire és speciális építési igényei biztosítására tekintettel.
+
+(6) Magyarország nemzetbiztonsági érdekeinek védelmében az Ábtv. 30. §-a szerinti tervezési program az Ábtv. 30. § j) pontjában foglaltakat azzal az eltéréssel tartalmazza, hogy abban csak
+
+a) a helyszín rövid bemutatására (település, övezeti besorolás),
+
+b) az összesített területi igényre,
+
+c) a közútkapcsolati, parkolási igényekre
+
+vonatkozó információk szerepelnek.
+
+(7) Az Ábtv. 30. § k) pontjától eltérően – a 17. § (1) bekezdésében foglaltakra tekintettel – a tervezési programnak az üzemeltetők körét nem kell tartalmaznia.
+
+## 3. A nemzetbiztonsági célú magasépítési beruházásra és a sajátos építményfajtákat érintő nemzetbiztonsági célú építési beruházásokra vonatkozó eltérő szabályok
+
+### 20. §
+
+Az Ábtv. III. és IV. Fejezetét azzal az eltéréssel kell alkalmazni – az Ábtv. 44. § (6) bekezdése, 51. § (3) bekezdése és 53. §-a kivételével –, hogy
+
+a) a miniszter számára meghatározott feladatokat a rendvédelmi szerv vezetője látja el,
+
+b) a miniszter számára meghatározott hatásköröket a rendvédelmi szerv vezetője gyakorolja.
+
+### 21. §
+
+(1) A nemzetbiztonsági célú építményeket érintő állami magasépítési beruházás (a továbbiakban: nemzetbiztonsági célú magasépítési beruházás) koncepciótervének megalkotása, valamint a kivitelezési dokumentáció elkészítése egy tervezési folyamatban valósul meg.
+
+(2) Az Ábtv. 35. §-ában foglaltaktól eltérően a nemzetbiztonsági célú magasépítési beruházás tervezőjének kiválasztására tervpályázatot nem kell kiírni.
+
+(3) A nemzetbiztonsági célú magasépítési beruházás esetén koncepciótervet csak új építmény építésére irányuló beruházásnál kell készíteni, amennyiben annak földszinti bruttó alapterülete meghaladja az 1500 m<sup>2</sup>-t, és az épülethez csatlakozó rendezett terepszint alatti szintszám 1 szintnél több, vagy a terepszint feletti építmény beépítési magassága a 15 métert meghaladja.
+
+### 22. §
+
+A nemzetbiztonsági célú magasépítési beruházás során a kivitelező kiválasztására irányuló közbeszerzési eljárásban az Ábtv. 44. § (2) és (5) bekezdésében foglaltak nem alkalmazandók.
+
+### 23. §
+
+(1) A nemzetbiztonsági célú beruházásra és a nemzetbiztonsági célú magasépítési beruházásra vonatkozó kivitelezési szerződéseket az építtető döntése alapján, az állami beruházásokért felelős miniszter által vezetett minisztérium honlapján közzétett szerződésminta vagy saját szerződésminta alkalmazásával kell megkötni.
+
+(2) Saját szerződésminta alkalmazása esetén annak tartalmát az Ábtv. 46. § (2) bekezdésében foglaltakra figyelemmel kell meghatározni.
+
+(3) Az Ábtv. 46. § (2) bekezdésében foglaltakon túl a kivitelezési szerződésnek tartalmaznia kell az állami magasépítési beruházás megvalósításával kapcsolatos, a rendvédelmi szerv sajátos biztonsági és titokvédelmi szabályait.
+
+## 4. Záró rendelkezések
+
+### 24. §
+
+Ez a rendelet 2024. október 1-jén lép hatályba.

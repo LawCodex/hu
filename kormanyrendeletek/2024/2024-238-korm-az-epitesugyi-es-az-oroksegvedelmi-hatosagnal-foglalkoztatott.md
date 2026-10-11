@@ -1,0 +1,315 @@
+---
+title: "238/2024. (VIII. 8.) Korm. rendelet az építésügyi és az örökségvédelmi hatóságnál foglalkoztatott kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról"
+identifier: "238/2024. (VIII. 8.) Korm. rendelet"
+njt_id: "2024-238-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/238"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-08-08
+in_force_from: 2024-10-01
+last_amended: 2026-01-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-238-20-22"
+retrieved: 2026-10-12
+---
+
+# 238/2024. (VIII. 8.) Korm. rendelet az építésügyi és az örökségvédelmi hatóságnál foglalkoztatott kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról
+
+A Kormány
+
+a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 13. pont e) alpontjában kapott felhatalmazás alapján,
+
+a 2. § (3) és (4) bekezdése tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 20. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) Az e rendelet szerinti
+
+a) építésügyi vizsga az építésügyi, az építésügyi és örökségvédelmi hatósági eljárások elektronikus lefolytatását támogató dokumentációs rendszer (a továbbiakban: ÉTDR), az elektronikus építési napló (a továbbiakban: építési napló) és az örökségvédelem,
+
+b) szakmai továbbképzés az örökségvédelem
+
+témakörből áll.
+
+(2) E rendeletben meghatározottak szerint – a fővárosi és vármegyei kormányhivatalt vezető főispán, a fővárosi és vármegyei kormányhivatal főigazgatója és igazgatója kivételével –
+
+a) építésügyi vizsgát tesz az 1. melléklet 1–3. pontjában meghatározott témakörökből az építésügyi hatóságok kijelöléséről és működési feltételeiről szóló 237/2024. (VIII. 8.) Korm. rendelet (a továbbiakban: Éhk.) 1. § (1) bekezdésében kijelölt építésügyi hatósági feladatot ellátó hatóság kormánytisztviselője és az Éhk. 5. § (4) bekezdése szerinti jogi támogatást nyújtó kormánytisztviselő,
+
+b)[^1] építésügyi vizsgát tesz az 1. melléklet 1–4. pontjában meghatározott témakörökből az örökségvédelmi hatóságnál műemlékvédelmi területen örökségvédelmi hatósági feladatot, valamint az Éhk. 1. § (2) bekezdése szerinti építésügyi hatósági feladatot ellátó kormánytisztviselő,
+
+c) szakmai továbbképzést teljesít az 1. melléklet 4. pontja szerinti örökségvédelem témakörből a b) pontban meghatározott kormánytisztviselő.
+
+(3) A (2) bekezdés szerinti kormánytisztviselő építésügyi vizsga teljesítési és szakmai továbbképzési kötelezettsége megszűnik, ha a rá irányadó öregségi nyugdíjkorhatár eléréséig öt évnél rövidebb idő van hátra.
+
+(4) Az építésügyi, az ÉTDR és az építési napló témakörök esetében az építésügyi vizsgáztatással kapcsolatos feladatok végrehajtásának szakmai irányítását és felügyeletét az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter látja el.
+
+(5) Az örökségvédelem témakör esetében az építésügyi vizsgáztatással és a szakmai továbbképzéssel kapcsolatos feladatok végrehajtásának szakmai irányítását és felügyeletét a kulturális örökség védelméért felelős miniszter látja el.
+
+(6) A (4) és (5) bekezdésben meghatározott feladatok informatikai támogatásáról a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság gondoskodik.
+
+## 2. Építésügyi vizsga
+
+### 2. §
+
+(1) Az építésügyi vizsga célja, hogy a vizsgázó bizonyítsa, hogy birtokában van
+
+a) az általános közigazgatási ismeretek mellett olyan speciális építésügyi és örökségvédelmi igazgatási ismereteknek, amelyek az építésügyi és örökségvédelmi hatósági feladatok ellátásához, a döntések jogszabályi előírásoknak megfelelő előkészítéséhez, meghozatalához, a hatósági ellenőrzések lefolytatásához, a végrehajtáshoz kapcsolódó feladatok ellátásához szükségesek, és
+
+b) a hatósági eljárások elektronikus formában történő ügyintézéséhez, az ÉTDR és az elektronikus építési napló alkalmazás használatához szükséges tudásnak.
+
+(2) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter az építésügyi vizsga építésügyi, ÉTDR és építési napló témakörei vonatkozásában, a kulturális örökség védelméért felelős miniszter az építésügyi vizsga örökségvédelem témaköre vonatkozásában gondoskodik arról, hogy a vizsga lebonyolításához egységes belső képzési program álljon rendelkezésre. A program tulajdonosa az arról gondoskodó miniszter, aki gondoskodik a nyilvántartásba vételének elvégzéséről is.
+
+(3) Az építésügyi vizsga 1. § (2) bekezdés a) pontja szerinti témaköreiből az eredményes vizsgát a kormánytisztviselő a próbaidő leteltét követő naptól – ha próbaidő nem került meghatározásra, akkor a kormányzati jogviszony létesítésének napjától – számított fél éven belül teljesíti, amely a közszolgálati tisztviselők továbbképzéséről szóló kormányrendeletben meghatározott 32 tanulmányi pontnak felel meg.
+
+(4) Az építésügyi vizsga 1. § (2) bekezdés b) pontja szerinti témaköreiből az eredményes vizsgát a kormánytisztviselő a foglalkoztatásának első napjától számított egy éven belül teljesíti, amely a közszolgálati tisztviselők továbbképzéséről szóló kormányrendeletben meghatározott 24 tanulmányi pontnak felel meg.
+
+(5) Az építésügyi vizsga építésügyi, ÉTDR és építési napló témaköreiből a vizsga letétele alól mentesül az a kormánytisztviselő, aki a foglalkoztatását megelőzően a miniszter építésügyi feladatellátásának keretében hatósági jellegű feladatok ellátásában legalább öt évet közreműködött.
+
+(6) Az építésügyi vizsga örökségvédelem témaköréből a vizsga letétele alól mentesül az a kormánytisztviselő, aki felsőfokú műemlékvédelmi szakmérnöki vagy szaktanácsadói végzettséggel rendelkezik.
+
+(7) Az építésügyi vizsgát
+
+a) az építésügyi, az ÉTDR és az építési napló témakör esetében az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter szakmai irányításával a fővárosi és vármegyei kormányhivatal,
+
+b) az örökségvédelem témakör esetében a kulturális örökség védelméért felelős miniszter
+
+(a továbbiakban együtt: vizsgaszervező) szervezi.
+
+### 3. §
+
+(1) A kormánytisztviselő az építésügyi vizsgát megelőzően a vizsgaszervező által biztosított felkészítő tanfolyamon vesz részt.
+
+(2) Az építésügyi vizsga tematikáját az 1. melléklet tartalmazza.
+
+(3) Az építésügyi vizsgára vonatkozóan az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint a kulturális örökség védelméért felelős miniszter együttesen gondoskodik
+
+a) az építésügyi vizsgaszabályzat elkészítéséről, felülvizsgálatáról,
+
+b) a vizsga lebonyolítását meghatározó módszertani útmutató elkészítéséről,
+
+c) az építésügyi vizsga követelményeihez igazodó felkészítő elektronikus tananyag és ellenőrző kérdések elkészítéséről, felülvizsgálatáról és közzétételéről,
+
+d) az elektronikus vizsgakérdések összeállításáról,
+
+e) a vizsgafelkészítők és vizsgák elektronikus meghirdetéséről,
+
+f) – a kormányhivatalok feladataira figyelemmel – a vizsgafelkészítők és vizsgák megvalósításáról,
+
+g) a vizsgafelkészítők és vizsgák eredményeinek vizsgaszervező rendszerben való elektronikus kezeléséről és
+
+h) a vizsgafelkészítő oktató biztosításáról.
+
+(4) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint a kulturális örökség védeleméért felelős miniszter által jóváhagyott
+
+a) (3) bekezdés a) pontja szerinti vizsgaszabályzatot és
+
+b) (3) bekezdés c) pontja szerinti tananyagot
+
+a tárgyévet megelőző év november 30-áig a miniszter által működtetett www.e-epites.hu honlapon közzé kell tenni.
+
+(5) A (4) bekezdés szerinti vizsgaszabályzatot és tananyagot minden év november 30-áig felül kell vizsgálni. A felülvizsgált vizsgaszabályzat és tananyag (4) bekezdés szerinti közzétételét követő 30. naptól már a felülvizsgált vizsgaszabályzatot és tananyagot kell alkalmazni.
+
+(6) A 2. § (7) bekezdés a) pontja szerinti vizsgaszervező az építésügyi vizsga teljesítésére a tárgyévre vonatkozóan éves vizsgatervet készít, amelyet az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter részére a tárgyévet megelőzően november 1-jéig megküld.
+
+(7) Minden év január 31-éig a tárgyévben vizsgára kötelezett azon kormánytisztviselők névsorát, akiknek a vizsgaszervező nem foglalkoztatója, a vizsgaszervező bekéri a kormánytisztviselőt foglalkoztató kormányhivataltól.
+
+### 4. §
+
+(1) Az építésügyi vizsgát 3 tagú építésügyi vizsgabizottság (a továbbiakban: bizottság) előtt kell tenni.
+
+(2) A bizottságnak
+
+a) az építésügyi, az ÉTDR és az építési napló témakörből álló építésügyi vizsga esetén
+
+aa) két tagja a vizsgaszervező képviselője vagy egy tagja a vizsgaszervező képviselője, és egy tagja az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által delegált személy – aki egyben a bizottság elnöke is –, és
+
+ab) egy tagja a vizsgaszervező által felkért, a (3) bekezdés a) pontja szerinti oktató;
+
+b) az örökségvédelem témakörből álló építésügyi vizsga esetén minden tagja a kulturális örökség védelméért felelős miniszter által kijelölt személy, a bizottság elnökét a kulturális örökség védelméért felelős miniszter jelöli ki.
+
+(3) Oktató
+
+a) az építésügyi, az ÉTDR és az építési napló témakörből szervezett vizsgafelkészítőn az lehet, aki rendelkezik
+
+aa) az oktatott témakör és a vizsgakövetelmény szerinti szakirányú felsőfokú végzettséggel és az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által szervezett, beszámolóval záruló felkészítő tanfolyam elvégzésének igazolásával és
+
+ab) az építésügyi témakör területen szerzett legalább 10 éves – ebből legalább 5 éves építésügyi vagy építésfelügyeleti hatósági feladatellátás területén szerzett – hatósági gyakorlattal vagy
+
+ac) az ÉTDR és az elektronikus építési napló témakör tekintetében az oktatott témakörrel és a vizsgakövetelménnyel összefüggő legalább 5 éves szakmai – ebből legalább 2 éves építésügyi vagy építésfelügyeleti hatósági feladatellátás területén szerzett hatósági – gyakorlattal,
+
+b) az örökségvédelem témakörből szervezett vizsgafelkészítőn az lehet, aki
+
+ba) szerepel a műemléki szakértői névjegyzékben,
+
+bb) felsőfokú műemléki szakmérnöki vagy szaktanácsadói végzettséggel és legalább 5 éves műemlékvédelmi közigazgatási gyakorlattal rendelkezik vagy
+
+bc) nem műemléki szakterületeken az oktatott témakör szerinti szakirányú felsőfokú végzettséggel és az oktatott témakörben 5 éves szakmai gyakorlattal rendelkezik.
+
+### 5. §
+
+(1) Az építésügyi vizsga formája elektronikus teszt.
+
+(2) Az építésügyi vizsga megoldására rendelkezésre álló időt az egyes témakörök vonatkozásában az 1. melléklet tartalmazza.
+
+(3) Az építésügyi vizsga eredményét témakörönként pontérték alapján, százalékban kell meghatározni, és azt megfelelt vagy eredménytelen minősítéssel kell ellátni, azzal, hogy a megfelelt minősítéshez valamennyi témakörben legalább 70%-os eredmény szükséges.
+
+(4) Az építésügyi vizsga a teljesítésére nyitva álló határidőn belül korlátlanul ismételhető.
+
+(5) Eredményes vizsga esetén a kormánytisztviselő részére teljesítést igazoló tanúsítványt kell kiállítani. A tanúsítvány alkalmazandó iratmintáját az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint a kulturális örökség védelméért felelős miniszter a www.e-epites.hu oldalon teszi közzé.
+
+(6) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter vagy a kulturális örökség védelméért felelős miniszter a szabályozási környezet vagy a szervezeti rendszer átalakítása esetén a kormánytisztviselőnek az 1. mellékletben foglalt témakörök változással érintett részeiből rendkívüli vizsgát is elrendelhet. A rendkívüli vizsgára egyebekben a vizsgára vonatkozó rendelkezések az irányadók.
+
+## 3. Szakmai továbbképzés
+
+### 6. §
+
+(1) Az 1. § (2) bekezdés c) pontja szerinti szakmai továbbképzés programtulajdonosa a kulturális örökség védelméért felelős miniszter, aki gondoskodik a program nyilvántartásba vételének elvégzéséről.
+
+(2) A szakmai továbbképzés első szakmai továbbképzési időszaka az 1. § (2) bekezdés b) pontja szerinti munkakörben történő foglalkoztatás első napjától kezdődik. A továbbképzési időszak első évét a vizsga alól mentességgel nem rendelkező kormánytisztviselő az építésügyi vizsgával teljesíti.
+
+(3) A szakmai továbbképzés célja a kormánytisztviselő szakmai felkészültségéhez, valamint az egységes jogalkalmazáshoz szükséges ismeretek biztosítása az adott továbbképzési időszak alatt bekövetkező jogszabályi változások figyelembevételével.
+
+(4) A kulturális örökség védelméért felelős miniszter gondoskodik arról, hogy a szakmai továbbképzés lebonyolításához egységes belső képzési program rendelkezésre álljon. Az örökségvédelmet érintő szabályozási környezet vagy a szervezeti rendszer átalakítása esetén a kulturális örökség védelméért felelős miniszter a szakmai továbbképzési programban nem szereplő szakmai továbbképzést is elrendelhet.
+
+(5) A szakmai továbbképzés tematikája az 1. melléklet 4. pontja szerinti örökségvédelem témaköre.
+
+(6) A továbbképzési programot évente a tematikában meghatározott témakörök alapján kell elkészíteni. A szakmai továbbképzés a közszolgálati tisztviselők továbbképzéséről szóló kormányrendeletben meghatározott továbbképzési időszak alatt 32 tanulmányi pontnak felel meg.
+
+(7) A szakmai továbbképzést a kulturális örökség védelméért felelős miniszter szervezi, kezdeményezi a közszolgálati tisztviselők továbbképzéséről szóló kormányrendelet szerinti továbbképzési tervbe való felvételét.
+
+(8) A szakmai továbbképzésen oktatatóra a 4. § (3) bekezdés b) pontjában meghatározott feltételek vonatkoznak.
+
+## 4. Záró rendelkezések
+
+### 7. §
+
+Ez a rendelet 2024. október 1-jén lép hatályba.
+
+### 8. §
+
+(1) Ha e rendelet hatálybalépéséig a kormánytisztviselő
+
+a) az építésügyi az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013. (XII. 17.) Korm. rendelet [a továbbiakban: 487/2013. (XII. 17.) Korm. rendelet] 2. melléklete szerinti A, B és C témakörből sikeres vizsgát tett, neki nem kell az e rendelet szerinti építésügyi, ÉTDR és építési napló témakörből vizsgát tennie,
+
+b) az építésügyi, építésfelügyeleti hatósági döntés-előkészítők, valamint döntéshozók építésügyi vizsgájáról és szakmai továbbképzéséről szóló 161/2008. (VI. 19.) Korm. rendelet alapján építésügyi vizsgát tett, az elektronikus építési naplóra vonatkozó ismeretekből vizsgát tett, valamint a 487/2013. (XII. 17.) Korm. rendelet 2. melléklete szerinti B témakörből vizsgát tett, neki nem kell az e rendelet szerinti építésügyi, ÉTDR és építési napló témakörből vizsgát tennie,
+
+c) a műemlékvédelmi témakörökből vizsgát tett, az örökségvédelem témaköréből nem kell vizsgát tennie,
+
+d) építési jogi szakokleveles mérnöki végzettséget szerzett vagy 2014. január 1-je előtt építésügyi vizsgát tett, mentesül az építésügyi vizsga építésügyi témaköre teljesítésének kötelezettsége alól.
+
+(2) E rendelet szerint építésügyi vizsgát 2025. január 1-jétől lehet tartani.
+
+## 1. melléklet a 238/2024. (VIII. 8.) Korm. rendelethez
+
+**AZ ÉPÍTÉSÜGYI VIZSGA TÉMAKÖREI**
+
+1\. ÉPÍTÉSÜGYI TÉMAKÖR (a vizsgán rendelkezésre álló idő: 120 perc)
+
+1.1. Az állam és az önkormányzatok építésügyi feladatai
+
+1.2. A sajátos építményfajták
+
+1.3. Az építésügyi hatósági rendszer, az építésügyi hatósági feladat- és hatáskör
+
+1.4. Az építésügyi eljárásokban a szakhatóságokra, szakkérdésre vonatkozó előírások
+
+1.5. Az építményekkel szemben támasztott követelmények, az általános településrendezési és építési követelmények alkalmazása
+
+1.6. A településrendezési eszközök alkalmazása az építésügyi hatósági eljárásokban
+
+1.7. Az építésügyi hatóság eljárásai és szabályai
+
+1.8. Az építésügyi hatósági ellenőrzés
+
+1.9. Szabálytalan építési tevékenység feltárása, építésügyi szankciórendszer alkalmazása
+
+1.10. Építésügyi bírság kiszabása
+
+1.11. Építésügyi hatósági döntések végrehajtása
+
+1.12. Az Országos Építésügyi Nyilvántartás használata az építésügyi hatósági eljárásokban és a hatósági ellenőrzések során
+
+1.13. Az önkormányzatok építésüggyel kapcsolatos feladatai
+
+1.14. Építési termékek építménybe történő betervezésére és beépítésére vonatkozó szabályok alkalmazása az építésügyi hatósági eljárásokban
+
+1.15. Az energetikai követelmények alkalmazása
+
+1.16. Az építésügyi szabványok
+
+1.17. Az építészeti értékek védelmének eszközei
+
+1.18. Tervtanácsi szervezetrendszer
+
+1.19. Építésügyi hatóság mint szakhatóság
+
+1.20. Az építőipari kivitelezésre vonatkozó előírások
+
+1.21. Az építési napló
+
+1.22. Az építési folyamat résztvevői
+
+2\. ÉTDR TÉMAKÖR (a vizsgán rendelkezésre álló idő: 60 perc)
+
+2.1. Az ÉTDR által használt adatok és iratok köre, típusa
+
+2.2. Ügyféloldali cselekmények
+
+2.3. Építésügyi hatósági eljárási cselekmények
+
+2.4. Hatósági eljárásokhoz kapcsolódó hatósági cselekmények
+
+2.5. Társhatóságok közreműködése: szakhatóság, településképi véleményezés, megkeresés
+
+3\. ELEKTRONIKUS ÉPÍTÉSI NAPLÓ TÉMAKÖR (a vizsgán rendelkezésre álló idő: 60 perc)
+
+3.1. Az e-építési napló által használt szerepkörök
+
+3.2. Az e-építési napló készenlétbe helyezésével kapcsolatos cselekmények
+
+3.3. Az e-építési napló rendszere
+
+3.4. Az e-építési napló vezetésével kapcsolatos vállalkozó kivitelezői cselekmények
+
+3.5. Az e-építési naplóhoz kapcsolódó hatósági cselekmények
+
+4\. ÖRÖKSÉGVÉDELEM TÉMAKÖR (a vizsgán rendelkezésre álló idő: 120 perc)
+
+4.1. Műemlékvédelem alapjai
+
+4.2. A műemlékvédelem mint hatósági tevékenység
+
+4.3. Műemlék-felügyeleti tevékenység ismeretei
+
+4.4. Műemlékvédelem sajátos tárgyai és helyszínei
+
+4.5. Műemlékek kutatása
+
+4.6. Műemlékek (és tartozékok, berendezések) helyreállítása, rekonstrukciója
+
+4.6.1. Műemléki restaurálás és konzerválás
+
+4.6.2. Épületdiagnosztika és épületkárosító tényezők
+
+4.6.3. Történeti építőanyagok alapismeretei
+
+4.6.4. Történeti épületszerkezetek védelme
+
+4.6.5. Műemlék-tartozékok, berendezések és felszerelések védelme
+
+4.7. Műemlékek fenntartása, megőrzése
+
+4.8. Műemlékek fejlesztése, korszerűsítése
+
+4.9. Esettanulmányok
+
+4.10. A hatósági munkát támogató egyéb ismeretek
+
+---
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 449/2025. (XII. 29.) Korm. rendelet 91. §-a szerint módosított szöveg.

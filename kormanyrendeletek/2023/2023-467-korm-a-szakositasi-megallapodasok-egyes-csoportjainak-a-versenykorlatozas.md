@@ -1,0 +1,173 @@
+---
+title: "467/2023. (X. 12.) Korm. rendelet a szakosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről"
+identifier: "467/2023. (X. 12.) Korm. rendelet"
+njt_id: "2023-467-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/467"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-10-12
+in_force_from: 2023-10-15
+last_amended: 2023-10-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-467-20-22"
+retrieved: 2026-10-12
+---
+
+# 467/2023. (X. 12.) Korm. rendelet a szakosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről
+
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 96. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+1\. *egyoldalú szakosítási megállapodás:* azonos érintett termékpiacon tevékenykedő vállalkozások közötti olyan megállapodás, amelynek értelmében a megállapodásban részt vevő egy vagy több vállalkozás vállalja, hogy részben vagy teljesen megszünteti egyes termékek előállítását, vagy tartózkodik ezen termékek előállításától, és ezeket a termékeket a megállapodásban részt vevő másik vállalkozástól vagy vállalkozásoktól szerzi be, amely utóbbi vállalkozás vállalja ezen termékek előállítását és szállítását;
+
+2\. *előállítás:* áru gyártása vagy szolgáltatás előkészítése, ideértve az alvállalkozás útján végzett előállítást is;
+
+3\. *érintett piac:* azon érintett termék- vagy földrajzi piac, amelyhez a szakosítási megállapodás keretében előállított termék tartozik, valamint ezen felül – ha a szakosítási megállapodás keretében előállított termék olyan közbenső termék, amelyet a megállapodásban részt vevő egy vagy több vállalkozás részben vagy egészében nyersanyagként használ fel továbbfeldolgozott termék előállításához – azon érintett termék- vagy földrajzi piac, amelyhez a továbbfeldolgozott termék tartozik;
+
+4\. *forgalmazás:* szakosítási megállapodás keretében előállított termék értékesítése és szállítása a vevők részére, ideértve ezen termék kereskedelmi hasznosítását is;
+
+5\. *kizárólagos beszerzési kötelezettség:* olyan kötelezettség, amely alapján a szakosítási megállapodás keretében előállított terméket csak a megállapodásban részt vevő vállalkozástól vagy vállalkozásoktól lehet megvásárolni;
+
+6\. *kizárólagos szállítási kötelezettség:* olyan kötelezettség, amely alapján a szakosítási megállapodás keretében előállított terméket a megállapodásban részt vevő vállalkozáson vagy vállalkozásokon kívül más versenytárs vállalkozásnak nem lehet szállítani;
+
+7\. *know-how:* a vállalkozás tapasztalataiból eredő és kipróbált, iparjogvédelmi oltalom alatt nem álló olyan gyakorlati ismeret vagy azok olyan együttese,
+
+a) amely széles körben nem ismert, illetve nehezen hozzáférhető,
+
+b) amely a szerződés szerinti termék előállításához vagy forgalmazásához jelentős és hasznos, továbbá
+
+c) amelyről az a) és b) alpontban foglalt ismérvek megállapítását lehetővé tevő, kellően átfogó ismertetés rendelkezésre áll;
+
+8\. *kölcsönös szakosítási megállapodás:* azonos érintett termékpiacon tevékenykedő vállalkozások közötti olyan megállapodás, amelynek értelmében a megállapodásban részt vevő legalább két vállalkozás kölcsönösen vállalja, hogy részben vagy teljesen megszünteti egyes, egymástól különböző termékek előállítását, vagy tartózkodik ezen termékek előállításától, és ezeket a termékeket valamely olyan, a megállapodásban részt vevő egy vagy több vállalkozástól szerzi be, amelyik vállalja ezen termékek előállítását és szállítását;
+
+9\. *közös előállítási megállapodás:* olyan megállapodás, amelynek értelmében a megállapodásban részt vevő két vagy több vállalkozás vállalja, hogy egyes termékeket közösen állít elő;
+
+10\. *közös forgalmazás:*
+
+a) a termék közös munkacsoport, szervezet vagy vállalkozás útján végzett forgalmazása, vagy
+
+b) a megállapodásban részt nem vevő, nem versenytárs forgalmazó megbízása közösen – akár kizárólagos, akár nem kizárólagos joggal – a termék forgalmazásával;
+
+11\. *lehetséges versenytárs:* olyan vállalkozás, amely a szakosítási megállapodás hiányában, valós alapokon és nem pusztán elméleti lehetőségként, valószínűsíthetően legfeljebb három éven belül vállalná az érintett piacra lépéshez szükséges további beruházásokat vagy más szükséges költségeket;
+
+12\. *megállapodás:* vállalkozások közötti megállapodás, összehangolt magatartás, vagy a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 11. § (1) bekezdése szerinti szervezetek döntése;
+
+13\. *megállapodásban részt vevő vállalkozás:* a szakosítási megállapodásban részt vevő vállalkozás, továbbá annak kapcsolt vállalkozása;
+
+14\. *szakosítási megállapodás:* az egyoldalú szakosítási megállapodás, a kölcsönös szakosítási megállapodás, továbbá a közös előállítási megállapodás;
+
+15\. *szellemi tulajdonjog:* az iparjogvédelmi jogok, a szerzői jog és a szerzői joggal szomszédos jogok, valamint a know-how;
+
+16\. *szolgáltatás előkészítése:* a vevők számára történő szolgáltatásnyújtást megelőzően végzett tevékenységek;
+
+17\. *termék:* áru vagy szolgáltatás, ideértve a közbenső termékeket vagy a részszolgáltatásokat, valamint a végtermékeket és a végső szolgáltatásokat, kivéve a forgalmazást és a bérleti szolgáltatásokat;
+
+18\. *tényleges versenytárs:* ugyanazon érintett piacon tevékenységet folytató vállalkozás;
+
+19\. *továbbfeldolgozott termék:* olyan termék, amelynek előállításához a megállapodásban részt vevő egy vagy több vállalkozás a szakosítási megállapodás keretében előállított terméket használ fel nyersanyagként, és amelyet ezen vállalkozás vagy vállalkozások a piacon értékesítenek;
+
+20\. *vállalkozás:* a Tpvt. 1. § (1) bekezdése szerinti vállalkozás;
+
+21\. *versenytárs:* a tényleges vagy lehetséges versenytárs.
+
+(2) Kapcsolt vállalkozásnak minősül az a vállalkozás,
+
+a) amelyben a szakosítási megállapodásban részt vevő vállalkozás közvetlenül vagy közvetve rendelkezik a következő jogok vagy hatáskörök közül eggyel vagy többel:
+
+aa) a szavazati jogok több mint felével rendelkezik,
+
+ab) jogosult a felügyelő, ellenőrző vagy irányító szerv vagy a vállalkozás képviseletére jogosult szerv tagjai több mint felének kinevezésére, vagy
+
+ac) jogosult a vállalkozás ügyeinek irányítására;
+
+b) amely a szakosítási megállapodásban részt vevő vállalkozások közül valamelyik tekintetében közvetlenül vagy közvetve az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+c) amely tekintetében a b) pontban említett vállalkozás közvetlenül vagy közvetve az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+d) amelyben a szakosítási megállapodásban részt vevő valamely vállalkozás az a), b) vagy c) pontban említett vállalkozások egyikével vagy közülük többel, illetve az utóbbi vállalkozások közül kettő vagy több együttesen az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+e) amelyben az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel együttesen rendelkeznek
+
+ea) a szakosítási megállapodásban részt vevő vállalkozások vagy azoknak az a)–d) pontban említett kapcsolt vállalkozásai, vagy
+
+eb) a szakosítási megállapodásban részt vevő egy vagy több vállalkozás vagy azoknak az a)–d) pontban említett egy vagy több kapcsolt vállalkozása, valamint egy vagy több harmadik fél.
+
+## 2. Mentesülés
+
+### 2. §
+
+(1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel, a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – a versenykorlátozást tartalmazó szakosítási megállapodás mentesül a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+(2) Az (1) bekezdés szerinti mentesülés kiterjed a szellemi tulajdonjogok egy vagy több, a megállapodásban részt vevő vállalkozás részére történő átruházására vagy hasznosításának engedélyezésére vonatkozó rendelkezést tartalmazó szakosítási megállapodásra is, feltéve, hogy az ilyen rendelkezés nem az érintett megállapodás elsődleges tárgyát képezi, valamint az érintett megállapodás végrehajtásához közvetlenül kapcsolódik, és ahhoz szükséges.
+
+(3) Az (1) bekezdés szerinti mentesülés kiterjed arra a szakosítási megállapodásra, amelynek révén a megállapodásban részt vevő vállalkozások
+
+a) kizárólagos beszerzési vagy szállítási kötelezettséget vállalnak, vagy
+
+b) nem egymástól függetlenül értékesítik a megállapodás keretében előállított termékeket, hanem közösen forgalmazzák azokat.
+
+## 3. A piaci részesedési küszöbre vonatkozó szabályok
+
+### 3. §
+
+A 2. § szerinti mentesülés akkor alkalmazható, ha a megállapodásban részt vevő vállalkozások együttes piaci részesedése azokon az érintett piacokon, amelyekhez a szakosított termékek tartoznak, nem haladja meg a 20%-ot.
+
+### 4. §
+
+Amennyiben a szakosítási megállapodás keretében előállított termékek olyan közbenső termékek, amelyeket a megállapodásban részt vevő egy vagy több vállalkozás részben vagy egészében nyersanyagként használ fel továbbfeldolgozott termékek előállításához, és ezeket értékesíti, a 2. § szerinti mentesülés csak akkor alkalmazandó, ha
+
+a) a megállapodásban részt vevő vállalkozások együttes piaci részesedése nem haladja meg a 20%-ot azon az érintett piacon, amelyhez a szakosítási megállapodás keretében előállított termék tartozik, és
+
+b) a megállapodásban részt vevő vállalkozások együttes piaci részesedése nem haladja meg a 20%-ot azon az érintett piacon, amelyhez a továbbfeldolgozott termék tartozik.
+
+### 5. §
+
+(1) A piaci részesedést a piaci eladások értékére vonatkozó adatok alapján kell kiszámítani. Ha a piaci eladási értékekre vonatkozó adat nem áll rendelkezésre, az érintett vállalkozás piaci részesedését más megbízható piaci információn – beleértve a piaci értékesítés mennyiségét – alapuló becslések alapján lehet meghatározni.
+
+(2) A piaci részesedést az előző naptári évre vonatkozó adatok alapján kell kiszámítani.
+
+(3) A (2) bekezdés nem alkalmazható, ha az előző naptári év nem reprezentatív a megállapodásban részt vevő vállalkozásoknak az érintett piacon elfoglalt pozíciójára nézve. Ebben az esetben a piaci részesedést a megállapodásban részt vevő vállalkozások előző három naptári évre vonatkozó piaci részesedéseinek átlagaként kell kiszámítani.
+
+### 6. §
+
+(1) Ha a megállapodásban részt vevő vállalkozások együttes piaci részesedése kezdetben kevesebb, mint 20%, de az később az érintett piacok legalább egyikén e fölé emelkedik, a 2. § szerinti mentesülést a 20%-os piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve utáni két egymást követő naptári évben továbbra is alkalmazni kell.
+
+(2) A piaci részesedési küszöb alkalmazása szempontjából az 1. § (2) bekezdés e) pontjában említett vállalkozások piaci részesedését az 1. § (2) bekezdés a) pontjában felsorolt jogok, illetve hatáskörök közül eggyel vagy többel rendelkező vállalkozások között egyenlő arányban kell felosztani.
+
+## 4. Különösen súlyos korlátozások miatt nem mentesülő megállapodások
+
+### 7. §
+
+A 2. § szerinti mentesülés nem alkalmazható arra a szakosítási megállapodásra, amelynek célja közvetlenül vagy közvetetten, önmagában vagy más, a megállapodásban részt vevő vállalkozások ellenőrzése alatt álló tényezőkkel együtt
+
+a) az árak rögzítése a szakosítási megállapodás keretében előállított termékeknek a megállapodásban nem részes vállalkozás részére történő értékesítése tekintetében, kivéve a közös forgalmazás keretében a közvetlen vevőkkel szembeni árakat;
+
+b) az előállítás vagy az értékesítés korlátozása, kivéve
+
+ba) az egyoldalú vagy kölcsönös szakosítási megállapodás keretében termékek megállapodás szerinti mennyiségére vonatkozó rendelkezéseket,
+
+bb) a kapacitás és az előállítási mennyiség közös előállítási megállapodás keretében történő megállapítását, valamint
+
+bc) a közös forgalmazás keretében az értékesítési célok meghatározását;
+
+c) a piac vagy a vevőkör felosztása.
+
+## 5. Záró rendelkezések
+
+### 8. §
+
+(1) Ez a rendelet 2023. október 15. napján lép hatályba.
+
+(2) A rendelet hatálybalépését megelőzően már hatályba lépett azon megállapodások, amelyek megfelelnek az e rendelet hatálybalépését megelőzően hatályos, a szakosítási megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló jogszabályi előírásoknak, a rendelet hatálybalépését követően két évig továbbra is mentesülnek a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+(3)[^1]
+
+---
+
+[^1]: A 8. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

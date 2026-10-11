@@ -1,0 +1,216 @@
+---
+title: "420/2020. (IX. 3.) Korm. rendelet a  Magyarország Kormánya és Románia Kormánya között a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás kihirdetéséről"
+identifier: "420/2020. (IX. 3.) Korm. rendelet"
+njt_id: "2020-420-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/420"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-09-03
+in_force_from: 2020-09-04
+last_amended: 2020-09-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-420-20-22"
+retrieved: 2026-10-12
+---
+
+# 420/2020. (IX. 3.) Korm. rendelet a Magyarország Kormánya és Románia Kormánya között a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás (a továbbiakban: Megállapodás) jegyzékváltással történő módosításáról szóló megállapodás (a továbbiakban: Módosító Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Módosító Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+(1) A Módosító Megállapodás hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
+
+(2) A Módosító Megállapodás hiteles román nyelvű szövegének hivatalos magyar fordítását a 2. melléklet tartalmazza.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. §, a 3. §, valamint az 1. és 2. melléklet a Módosító Megállapodás 7. cikk (2) bekezdésében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Módosító Megállapodás, valamint a 2. §, a 3. §, valamint az 1. és 2. melléklet hatálybalépésének naptári napját a külgazdasági és külügyminiszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+(1) Az e rendelet végrehajtásához szükséges intézkedésekről a határrendészetért felelős miniszter gondoskodik.
+
+(2) A Megállapodás módosításokkal egységes szerkezetbe foglalt, magyar nyelvű szövegének közzétételéről a Módosító Megállapodás hatálybalépését követően a határrendészetért felelős miniszter haladéktalanul gondoskodik.
+
+## 1. melléklet a 420/2020. (IX. 3.) Korm. rendelethez[^5]
+
+Köszönettel megkaptuk a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás (a továbbiakban: Megállapodás) módosítása kapcsán a román Külügyminisztérium G2/1635. számú szóbeli jegyzékét.
+
+Az említett jegyzékben a növény- és állategészségügyi szállítmányt, valamint a veszélyes árut szállító járművek kapcsán felvetetteket figyelembe véve, valamint tekintettel arra, hogy az 562/2006/EK európai parlamenti és tanácsi rendeletet az (EU) 2016/399 európai parlamenti és tanácsi rendelet váltotta fel, a Magyar Fél a Megállapodás módosítására az alábbi szövegjavaslatot teszi.
+
+**MEGÁLLAPODÁS JEGYZÉKVÁLTÁS FORMÁJÁBAN MAGYARORSZÁG KORMÁNYA ÉS ROMÁNIA KORMÁNYA KÖZÖTT**
+
+**a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról**
+
+Magyarország Kormánya és Románia Kormánya (a továbbiakban: Szerződő Felek),
+
+A Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény (a továbbiakban: Egyezmény) 3. cikke (4) bekezdésének *a)* pontja alapján, miszerint a Szerződő Államok kormányai külön megállapodással szabályozzák a határátkelőhelyek létesítését,
+
+Figyelembe véve a Magyar Köztársaság Kormánya és Románia Kormánya között a Szolnok–Nagykereki (H) és Santaul Mare (Nagyszántó) – Cluj Napoca (Kolozsvár) (RO) közötti autópálya-kapcsolat létesítéséről szóló Megállapodás előírásait,
+
+az alábbiakban állapodtak meg:
+
+1\. **cikk**
+
+A Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás (a továbbiakban: Megállapodás) preambulumában „az Európai Parlament és a Tanács 562/2006/EK rendeletével kiadott, a személyek határátlépésére irányadó szabályok közösségi kódexének (a továbbiakban: Schengeni Határellenőrzési Kódex)” szövegrész helyébe „a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet” szövegrész lép.
+
+2\. **cikk**
+
+A Megállapodás 1. cikkének (1) bekezdésében „a Schengeni Határellenőrzési Kódex 7. cikkében” szövegrész helyébe „a Schengeni határ-ellenőrzési kódex 8. cikkében” szövegrész lép.
+
+3\. **cikk**
+
+A Megállapodás az alábbi 9/A. cikkel egészül ki:
+
+**„9/A. cikk**
+
+**Nagykereki – Bors II (Bors II)**
+
+(1) Az autópálya határátkelőhely használata kiterjed a nemzetközi személyforgalomra, valamint a nemzetközi áruforgalomra.
+
+(2) A Nagykereki – Bors II (Bors II) autópálya határátkelőhelyen a Románia államterületéről kilépő és a Magyarország államterületére belépő, valamint a Magyarország államterületéről kilépő és a Románia államterületére belépő személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését is – Magyarország államterületén, közös helyen történik. Ebből a célból Magyarország államterületén román határforgalom-ellenőrző szolgálati hely létesül.
+
+(3) A határátkelőhely nyitvatartási ideje naponta 00.00–24.00 óráig tart.
+
+(4) A román szolgálati személyek számára a működési terület a Magyarország államterületén lévő határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a szolgálati parkolóra.
+
+(5) A megfelelő személyi, műszaki és infrastrukturális feltételek biztosítását követően a határátkelőhely megnyitásának időpontját a Szerződő Felek diplomáciai úton egyeztetik.”
+
+4\. **cikk**
+
+A Megállapodás 24. cikkének (3) bekezdésében „a Határőrség, a Vám- és Pénzügyőrség,” kifejezés helyébe a „Rendőrség, a Nemzeti Adó- és Vámhivatal,” kifejezés lép.
+
+5\. **cikk**
+
+A Megállapodás az alábbi 25/A. cikkel egészül ki:
+
+**„25/A. cikk**
+
+A Szerződő Felek minden egyes határátkelőhely esetében értékelik a módosító Megállapodás hatályba lépésétől számított 90 napos időszak határforgalmi adatait. Az adatok értékelésének eredményétől függően, a határátkelőhelyek kapacitásának optimális kihasználása érdekében a módosító Megállapodás hatályba lépésétől számított 6 hónapon belül bármelyik Szerződő Fél kezdeményezheti az egyes határátkelőhelyekre vonatkozó cikkek tartalmának módosítását.”
+
+6\. **cikk**
+
+A Megállapodás 26. cikke az alábbi (7) és (8) bekezdéssel egészül ki:
+
+„(7) E Megállapodást a Szerződő Felek diplomáciai úton, a Szerződő Felek közötti írásos egyetértéssel bármikor módosíthatják. E Megállapodás módosítását a Szerződő Felek belső jogszabályai értelmében jóvá kell hagyni, a jóváhagyás megtörténtéről a Szerződő Felek diplomáciai úton értesítik egymást.
+
+(8) Az e Megállapodás 24. cikkének (3) bekezdésében megjelölt, bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított szervekben bekövetkezett változásról a Szerződő Felek diplomáciai úton értesítik egymást. Az ilyen értesítés nem minősül a Megállapodás módosításának.”
+
+7\. **cikk**
+
+(1) Ez a módosító Megállapodás határozatlan időre szól, és a Megállapodás megszűnésével egyidejűleg hatályát veszti.
+
+(2) Ez a módosító Megállapodás azon utolsó diplomáciai jegyzék kézhezvételét követő napon lép hatályba, amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.
+
+(3) A Szerződő Felek e módosító Megállapodás 3. cikkét a Nagykereki – Bors II (Bors II) autópálya határátkelőhely megnyitásának időpontjától kezdve alkalmazzák.
+
+A Magyar Fél javaslatának tartalmi módosítása az újonnan megnyíló Nagykereki – Bors II (Bors II) autópálya határátkelőhelyen a nemzetközi személy- és teherforgalom ellenőrzésének lebonyolítását célozza. A módosításban szereplő technikai kiigazításokat a két ország európai uniós kötelezettségéből, valamint a nemzeti belső jogi szabályozásból fakadó kötelezettségek indokolják.
+
+A Megállapodásban szereplő, az egyes határátkelőhelyekre vonatkozó cikkek felülvizsgálatára vonatkozó rendelkezés célja, hogy a Felek az új autópálya határátkelőhely megnyitását követően, az egyes határátkelőhelyek kapacitását minél előnyösebben használják ki. A határforgalmi adatok megvizsgálását követően szükség esetén lehetőség nyílik a nemzetközi teherforgalomban közlekedő speciális járműkategóriákra vonatkozó megfelelő, várakozásmentes határforgalom-ellenőrzési technológia kialakítására, valamint a közúti határátkelőhelyek környező településeinek, úthálózatának tehermentesítésére.
+
+Ha a Román Fél egyetért a fentiekkel, jelen szóbeli jegyzék a Román Fél válaszjegyzékével együtt létrejön a Magyarország Kormánya és Románia Kormánya között, a Magyar Köztársaság Kormánya és Románia Kormánya között a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló Megállapodás módosításáról szóló Megállapodás.
+
+## 2. melléklet a 420/2020. (IX. 3.) Korm. rendelethez[^6]
+
+A Külügyminisztérium üdvözli Magyarország Romániai Nagykövetségét és a Nagykövetség 2020. augusztus 25-i, 2020/100-as számú szóbeli jegyzéke kapcsán, amely a Bors II – Nagykereki határátkelőhely létesítésére vonatkozott, a román illetékes hatóságokkal folytatott egyeztetéseket követően van szerencséje közölni, hogy a román fél beleegyezését adja az ebben a jegyzékben foglalt javaslatokhoz (a román nyelvű szövegben a szaknyelvi kifejezések változtatásával és az alternálási szabályok betartásával, de nem módosítva a szöveg jelentését).
+
+Következésképpen a román fél beleegyezését adja ahhoz, hogy a jelen szóbeli jegyzék, a magyar fél fent említett szóbeli jegyzékével együtt, képezzen megállapodást a Magyarország Kormánya és Románia Kormánya közötti a Magyar Köztársaság és Románia között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló, és 2006. december 21-én Bukarestben aláírt Megállapodás módosításáról a következő tartalommal:
+
+Románia Kormánya és Magyarország Kormánya (a továbbiakban: Szerződő Felek),
+
+Románia és a Magyar Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény (a továbbiakban: Egyezmény) 3. cikke (4) bekezdésének *a)* pontja alapján, miszerint a Szerződő Államok kormányai külön megállapodással szabályozzák a határátkelőhelyek létesítését,
+
+Figyelembe véve Románia Kormánya és a Magyar Köztársaság Kormánya között a Románia és Szolnok–Nagykereki (H) közötti autópálya-kapcsolat létesítéséről szóló 2011. július 5-én Budapesten aláírt Megállapodás előírásait,
+
+az alábbiakban állapodtak meg:
+
+1\. **cikk**
+
+A Románia Kormánya és a Magyar Köztársaság Kormánya között a Románia és a Magyar Köztársaság között a közúti és a vasúti határforgalom ellenőrzéséről szóló, Bukarestben, 2004. április hó 27. napján aláírt Egyezmény végrehajtásáról szóló, 2006. december 21-én Bukarestben aláírt Megállapodás (a továbbiakban: Megállapodás) preambulumában „az Európai Parlament és a Tanács 562/2006/EK rendeletével kiadott, a személyek határátlépésére irányadó szabályok közösségi kódexének (a továbbiakban: Schengeni Határellenőrzési Kódex)” szövegrész helyébe „a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet” szövegrész lép.
+
+2\. **cikk**
+
+A Megállapodás 1. cikkének (1) bekezdésében „a Schengeni Határellenőrzési Kódex 7. cikkében szövegrész helyébe „a Schengeni határ-ellenőrzési kódex 8. cikkében” szövegrész lép.
+
+3\. **cikk**
+
+A Megállapodás az alábbi 9/A. cikkel egészül ki:
+
+**„9/A. cikk**
+
+**Bors II – Nagykereki**
+
+(1) Az autópálya határátkelőhely használata kiterjed a nemzetközi személyforgalomra, valamint a nemzetközi áruforgalomra.
+
+(2) A Bors II – Nagykereki autópálya határátkelőhelyen a Románia államterületéről kilépő és a Magyarország államterületére belépő, valamint a Magyarország államterületéről kilépő és a Románia államterületére belépő személyforgalom ellenőrzése – beleértve a nemzetközi áruforgalomban részt vevő személyek ellenőrzését is – Magyarország államterületén, közös helyen történik. Ebből a célból Magyarország államterületén román határforgalom-ellenőrző szolgálati hely létesül.
+
+(3) A határátkelőhely nyitvatartási ideje naponta 00.00–24.00 óráig tart.
+
+(4) A román szolgálati személyek számára a működési terület a Magyarország államterületén lévő határforgalom-ellenőrző szolgálati helyen kiterjed:
+
+*a)* a kijelölt hivatali helyiségekre, közös helyiségekre;
+
+*b)* az államhatártól a szolgálati helyig vezető közútra;
+
+*c)* az ellenőrző forgalmi sávokra;
+
+*d)* a szolgálati parkolóra.
+
+(5) A megfelelő személyi, műszaki és infrastrukturális feltételek biztosítását követően a határátkelőhely megnyitásának időpontját a Szerződő Felek diplomáciai úton egyeztetik.”
+
+4\. **cikk**
+
+A Megállapodás 24. cikkének (3) bekezdésében „a Határőrség, a Vám- és Pénzügyőrség,” kifejezés helyébe a „Rendőrség, a Nemzeti Adó- és Vámhivatal,” kifejezés lép.
+
+5\. **cikk**
+
+A Megállapodás az alábbi 25/A. cikkel egészül ki:
+
+**„25/A. cikk**
+
+A Szerződő Felek minden egyes határátkelőhely esetében értékelik a módosító Megállapodás hatályba lépésétől számított 90 napos időszak határforgalmi adatait. Az adatok értékelésének eredményétől függően, a határátkelőhelyek kapacitásának optimális kihasználása érdekében a módosító Megállapodás hatályba lépésétől számított 6 hónapon belül bármelyik Szerződő Fél kezdeményezheti az egyes határátkelőhelyekre vonatkozó cikkek tartalmának módosítását.”
+
+6\. **cikk**
+
+A Megállapodás 26. cikke az alábbi (7) és (8) bekezdéssel egészül ki:
+
+„(7) E Megállapodást a Szerződő Felek diplomáciai úton, a Szerződő Felek közötti írásos egyetértéssel bármikor módosíthatják. E Megállapodás módosítását a Szerződő Felek belső jogszabályai értelmében jóvá kell hagyni, a jóváhagyás megtörténtéről a Szerződő Felek diplomáciai úton értesítik egymást.
+
+(8) Az e Megállapodás 24. cikkének (3) bekezdésében megjelölt, bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított szervekben bekövetkezett változásról a Szerződő Felek diplomáciai úton értesítik egymást. Az ilyen értesítés nem minősül a Megállapodás módosításának.”
+
+7\. **cikk**
+
+(1) Ez a módosító Megállapodás határozatlan időre szól, és a Megállapodás megszűnésével egyidejűleg hatályát veszti.
+
+(2) Ez a módosító Megállapodás azon utolsó diplomáciai jegyzék kézhezvételét követő napon lép hatályba, amelyben a Szerződő Felek írásban értesítik egymást arról, hogy eleget tettek a hatálybalépéshez szükséges belső jogi előírásaiknak.
+
+(3) A Szerződő Felek e módosító Megállapodás 3. cikkét a Bors II – Nagykereki autópálya határátkelőhely megnyitásának időpontjától kezdve alkalmazzák.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Módosító Megállapodás 7. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 46/2020. (IX. 30.) KKM közlemény alapján a hatálybalépés időpontja 2020. szeptember 8.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Módosító Megállapodás 7. cikk (2) bekezdésében meghatározott időpontban lép hatályba. A 46/2020. (IX. 30.) KKM közlemény alapján a hatálybalépés időpontja 2020. szeptember 8.
+[^3]: A 46/2020. (IX. 30.) KKM közlemény alapján a hatálybalépés időpontja 2020. szeptember 8.
+[^4]: Lásd a 46/2020. (IX. 30.) KKM közleményt.
+[^5]: Az 1. melléklet a 4. § (2) bekezdése alapján a Módosító Megállapodás 7. cikk (2) bekezdésében meghatározott időpontban lép hatályba.
+[^6]: A 2. melléklet a 4. § (2) bekezdése alapján a Módosító Megállapodás 7. cikk (2) bekezdésében meghatározott időpontban lép hatályba.

@@ -1,0 +1,236 @@
+---
+title: "237/2024. (VIII. 8.) Korm. rendelet az építésügyi hatóságok kijelöléséről és működési feltételeiről"
+identifier: "237/2024. (VIII. 8.) Korm. rendelet"
+njt_id: "2024-237-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/237"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-08-08
+in_force_from: 2024-10-01
+last_amended: 2026-01-14
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-237-20-22"
+retrieved: 2026-10-12
+---
+
+# 237/2024. (VIII. 8.) Korm. rendelet az építésügyi hatóságok kijelöléséről és működési feltételeiről
+
+A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 13. pont a)–d) alpontjában, valamint a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 22. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az építésügyi hatóság
+
+### 1. §
+
+(1) A Kormány
+
+a) a sajátos építményfajtákkal kapcsolatos,
+
+b) a repülőtér létesítésének, fejlesztésének, megszüntetésének, valamint a leszállóhely létesítésének és megszűnésének szabályairól szóló 85/2024. (IV. 17.) Korm. rendelet 1. mellékletében meghatározott építményekkel kapcsolatos, valamint
+
+c) a felszín alatti vasutak vasúti állomási épületeivel kapcsolatos
+
+építésügyi hatósági ügyek és a (2) bekezdésben foglaltak kivételével, az építményekkel és azok építési tevékenységeivel kapcsolatos építésügyi hatósági feladatok ellátására általános építésügyi hatóságként a fővárosi és vármegyei kormányhivatalt jelöli ki.
+
+(2) A Kormány építésügyi hatóságként jelöli ki az örökségvédelmi hatóságot a nemzeti emléknek minősülő műemlék építménnyel és telkével, valamint a nemzeti emléknek minősülő műemlék ingatlannal kapcsolatos építésügyi hatósági feladatok ellátására.
+
+### 2. §
+
+A Kormány azokban az ügyekben, amelyekben az 1. §-ban meghatározott építésügyi hatóságként eljáró fővárosi és vármegyei kormányhivatal az építtető vagy az építési tevékenységgel érintett telek, építmény, építményrész tulajdonosa, vagyonkezelője vagy használója, a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 2. mellékletében helyettesítő kormányhivatalként meghatározott kormányhivatalt jelöli ki építésügyi hatóságként.
+
+### 3. §
+
+Az építmény létesítési céljának megfelelő fő rendeltetése szerinti építésügyi hatóság jár el engedélyező hatóságként (a továbbiakban: építésügyi főhatóság) – az atomenergia alkalmazására szolgáló építmények kivételével –,
+
+a) ha többcélú felhasználás céljára új építmény épül, és az ezen építményben létesülő önálló rendeltetési egységek engedélyezésére több – nem építésügyi főhatóságnak minősülő – építésügyi hatóság is hatáskörrel rendelkezik, vagy
+
+b) ha a meglévő építmény többcélú felhasználása érdekében az építmény vagy annak részeként létesülő önálló rendeltetési egység építésének, kialakításának engedélyezésére több építésügyi hatóság is hatáskörrel rendelkezik.
+
+## 2. A szakmai irányító szerv
+
+### 4. §[^1]
+
+A fővárosi és vármegyei kormányhivatal építésügyi hatósági feladatköreinek gyakorlásával összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben a felügyeleti szervre ruházott hatásköröket, továbbá az államháztartásról szóló 2011. évi CXCV. törvény 9. § e)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként
+
+a) az 1. § (1) bekezdésében kijelölt hatóság vonatkozásában az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter (a továbbiakban: miniszter),
+
+b) az 1. § (2) bekezdésében kijelölt hatóság vonatkozásában a kulturális örökség védelméért felelős miniszter
+
+gyakorolja.
+
+## 3. Alkalmazási feltételek
+
+### 5. §
+
+(1) Az építésügyi hatóság létszámát úgy kell meghatározni, hogy a jogszabályban meghatározott feladatainak határidőben történő szakszerű ellátása, a hatósági tevékenység folyamatos és megfelelő minőségű végzése biztosított legyen.
+
+(2) Az építésügyi hatóságnál a (3) bekezdésben meghatározott alkalmazási feltételekkel rendelkező kormánytisztviselő végezheti az építésügyi hatósági ellenőrzési tevékenységet, az építésügyi hatósági ügyek intézését, döntésre való szakmai előkészítését, a döntés meghozatalát, valamint a végrehajtáshoz kapcsolódó feladatot (a továbbiakban: építésügyi hatósági feladat).
+
+(3) A fővárosi és vármegyei kormányhivatalt vezető főispán, a fővárosi és vármegyei kormányhivatal főigazgatója és igazgatója kivételével az építésügyi hatósági feladatot ellátó kormánytisztviselő alkalmazási feltételei:
+
+a) az 1. melléklet 1. pontjában meghatározott szakképzettség vagy a 2. mellékletben meghatározott képesítési követelményeknek való megfelelés és
+
+b) a szakterületnek megfelelő tartalmú építésügyi vizsga letételének
+
+igazolása.
+
+(4) Az építésügyi hatósági feladat jogi támogatását – az építésügyi hatósági feladathoz kapcsolódó döntéshozatali, végrehajtási folyamatok teljes körű jogi támogatását és az egyéb jogi tevékenységet igénylő feladatok végrehajtását – ellátó kormánytisztviselő alkalmazási feltételei:
+
+a) az 1. melléklet 2. pontjában meghatározott szakképzettség,
+
+b) a szakterületnek megfelelő tartalmú építésügyi vizsga letételének
+
+igazolása.
+
+(5) Az építésügyi hatóságnál vezetői megbízást, vezetői kinevezést csak az a kormánytisztviselő kaphat, aki az építésügyi hatósági feladatellátáshoz szükséges alkalmazási feltételeknek megfelel.
+
+### 6. §
+
+Az építésügyi hatósági feladatot ellátó kormánytisztviselő a kormányhivatalon belül más hatósági feladatkört – jogszabály kifejezett kijelölése hiányában – nem láthat el.
+
+### 7. §
+
+(1) Ha az építésügyi hatósági feladatellátáshoz a kormánytisztviselő szakképzettségét igazoló oklevélből a szakirányú végzettség e rendelet alapján nem állapítható meg, akkor az oklevél szakirányúságáról, egyenértékűségéről a Magyar Építész Kamara vagy a Magyar Mérnöki Kamara által létrehozott bizottság dönt.
+
+(2) A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek egyenértékűségének ellenőrzésekor az oklevél szakirányú kredittartalmát a 2. melléklet szerint kell megállapítani.
+
+(3) Az (1) bekezdés szerinti bizottsághoz az oklevél szakirányának, egyenértékűségének ellenőrzése céljából az Europass oklevélmelléklet-másolatot, ennek hiányában a leckekönyvmásolatot vagy az azt pótló hivatalos okiratot kell csatolni. A képzési és kimeneti követelménytől eltérő tantárgymegnevezések esetében tantárgyleírást is mellékelni kell.
+
+(4) Az (1) bekezdés szerinti oklevelek szakirányúsága egyenértékűségének vizsgálata alapján megállapított hiányzó ismeretek megszerzésére felsőoktatási intézményben szakirányú továbbképzés vagy hallgatói jogviszony keretében megszerezhető részismereti képzés keretében van lehetőség.
+
+(5) A miniszter a www.e-epites.hu honlapon évente közzéteszi az oklevelek szakirányúsága egyenértékűségének szempontjából már megvizsgált és elfogadásra került
+
+a) oklevelek megnevezését, kibocsátásának dátumát, a képzést folytató felsőoktatási intézmény megnevezését, valamint
+
+b) szakirányú továbbképzés körében kibocsátott szakirányú szakképzettségek megnevezését és a beszámítható kreditérték meghatározását.
+
+(6) Az (5) bekezdés szerint elfogadott oklevelek és szakirányú továbbképzés körében kibocsátott szakirányú szakképzettségek esetében további vizsgálatot nem kell lefolytatni, kivéve, ha a képesítési előírások megváltoznak.
+
+### 8. §
+
+(1) Az építésügyi hatóságnál építésügyi hatósági, jogi támogatási feladatot ellátó kormánytisztviselőnek az építésügyi és az örökségvédelmi hatóságnál foglalkoztatott kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló kormányrendeletben meghatározott építésügyi vizsgát kell teljesítenie. A kormánytisztviselő az építésügyi vizsga letételéig építésügyi hatósági, jogi támogatási feladatot önállóan nem végezhet.
+
+(2) Az építésügyi vizsga határidejének elmulasztása esetén – az építésügyi és az örökségvédelmi hatóságnál foglalkoztatott kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló kormányrendeletben meghatározott mentesítésre vonatkozó előírások kivételével – a kormánytisztviselő építésügyi hatósági feladat ellátására, jogi támogatás nyújtására nem foglalkoztatható tovább.
+
+## 4. Az építésügyi hatósági feladatellátás minimális technikai feltételei
+
+### 9. §
+
+Az építésügyi hatósági feladatellátás minimális technikai feltételeit a 3. melléklet határozza meg.
+
+## 5. Összeférhetetlenség
+
+### 10. §
+
+(1) Az építésügyi hatósági feladatellátás tekintetében pártatlan, befolyástól mentes tevékenységet veszélyeztető tevékenységnek minősül, és ezért nem végezhető
+
+a) építészeti-műszaki tervezési,
+
+b) építésügyi műszaki szakértői,
+
+c) felelős műszaki vezetői,
+
+d) beruházáslebonyolítói,
+
+e) építési műszaki ellenőri,
+
+f) építőipari kivitelezési,
+
+g) igazságügyi szakértői,
+
+h) településtervezési,
+
+i) településrendezési szakértői,
+
+j)[^2] energetikai tanúsítói,
+
+k)[^3] zöldfelületi tanúsítói vagy
+
+l)[^4] műemlékvédelmi szakértői
+
+tevékenység olyan építménnyel, telekkel összefüggésben, amely annak az építésügyi hatóságnak az illetékességi területén található, ahol a kormánytisztviselő építésügyi hatósági feladatot lát el.
+
+(2) Az építésügyi hatósági feladatot ellátó kormánytisztviselő – ideértve az építésügyi hatósági feladatot ellátó osztály vagy főosztály vezetőjét is – nem lehet a Magyar Építész Kamara vagy a Magyar Mérnöki Kamara tisztségviselője, bizottságának elnöke, szakmai tagozatának, szakmai kollégiumának vezetője, az építésügyi hatóság illetékességi területén működő területi építész vagy mérnöki kamara tisztségviselője, valamint az építésügyi hatóság illetékességi területén nem láthat el önkormányzati vagy állami főépítészi feladatot.
+
+## 6. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2024. október 1-jén lép hatályba.
+
+### 12. §
+
+(1) E rendelet rendelkezéseit a hatálybalépésekor az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet szerinti építésfelügyeleti hatóságnál folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) Az építésügyi hatóságnál jogszerűen tovább lehet foglalkoztatni
+
+a) azt az építésügyi hatósági feladatot ellátó kormánytisztviselőt, aki e rendelet hatálybalépésének napján az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet által a foglalkoztatási feltételekre meghatározott kedvezmények alapján látja el feladatait,
+
+b) azt a jogi támogatást nyújtó kormánytisztviselőt, aki e rendelet szerinti szakterületnek megfelelő tartalmú építésügyi vizsgával rendelkezik, vagy ha nem rendelkezik, az e rendelet hatálybalépésétől számított – ha próbaidőn van, akkor annak leteltét követő – hat hónapig, ha vállalja, hogy az építésügyi vizsgát ezen időtartam alatt leteszi, valamint
+
+c) azt az építésügyi hatóságnál kinevezett vagy megbízott vezetőt, aki e rendelet szerinti szakterületnek megfelelő tartalmú építésügyi vizsgával rendelkezik, és azt is, aki nem rendelkezik, de azt e rendelet hatálybalépésétől számított fél éven belül leteszi.
+
+(3) Az 5. § (3) bekezdésében foglaltakon felül építésügyi hatósági feladatot az a szakirányú középfokú végzettséggel rendelkező kormánytisztviselő is elláthat, akit e rendelet hatálybalépésekor a fővárosi és vármegyei kormányhivatal az építésügyi igazgatás területén foglalkoztat, és legalább 10 év közszolgálati jogviszonnyal rendelkezik az építésügyi igazgatás területén, azzal, hogy a szakterületnek megfelelő tartalmú építésügyi vizsga letételéig építésügyi hatósági feladatot nem végezhet.
+
+(4) A 2012. december 31. napjáig első fokú építésügyi hatósági hatáskört gyakorló jegyző gondoskodik a lezárt iratok őrzéséről az önkormányzati hivatalok egységes irattári tervének kiadásáról szóló miniszteri rendelet szerinti egységes irattári terv, valamint az önkormányzati hivatal iratkezelési szabályzata alapján. Az építésügyi hatóság kérésére a lezárt iratokat a jegyző köteles három napon belül átadni az építésügyi hatóságnak.
+
+(5) A 2013. január 1. és 2020. február 29. napja között első fokú építésügyi hatáskört gyakorló jegyző, fővárosi főjegyző gondoskodik a lezárt iratok őrzéséről az önkormányzati hivatalok egységes irattári tervének kiadásáról szóló miniszteri rendelet szerinti egységes irattári terv, valamint az önkormányzati hivatal iratkezelési szabályzata alapján. Az építésügyi hatóság kérésére a lezárt iratokat a jegyző, fővárosi főjegyző köteles három napon belül átadni az építésügyi hatóságnak.
+
+## 1. melléklet a 237/2024. (VIII. 8.) Korm. rendelethez
+
+1\. Az építésügyi hatósági feladatok ellátásához szükséges szakképzettségek
+
+1.1. Egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő mérnöki) szakképzettség, főiskolai szintű magasépítő üzemmérnöki vagy építészmérnöki, építőmérnöki (magasépítő mérnöki) vagy városgazdasági üzemmérnöki (településmérnöki, ezzel egyenértékű városgazdasági) szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség vagy
+
+1.2. alapképzésben szerzett építészmérnök, épületszerkezeti konstruktőr vagy magasépítési szakirányon szerzett szakképzettség, mesterfokozatú képzésben szerzett építész, tervező építészmérnöki, szerkezettervező építészmérnöki szakképzettség, osztatlan képzésben szerzett építészmérnök szakképzettség vagy ezekkel egyenértékűnek elismert szakképzettség.
+
+2\. Az építésügyi hatósági feladatok jogi támogatásához szükséges szakképzettség
+
+2.1. Jogász szakképzettség.
+
+## 2. melléklet a 237/2024. (VIII. 8.) Korm. rendelethez
+
+**A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek kredittartalmának megállapítása**
+
+**I. Ha az építésügyi hatósági feladat ellátásához a kormánytisztviselő szakképzettségét igazoló oklevélből a szakirányú kredittartalom, illetve az 1. melléklet szerinti szakképzettség nem állapítható meg, akkor a kormánytisztviselőnek a szakképzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a II. pont 1–4. alpontjában foglalt táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.**
+
+**II. Az építésügyi hatósági feladat ellátásához szükséges képesítési követelmény kredittartalma**
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr><tr><th>**1.**</th><th>**tantárgy / tevékenységi kör**</th><th>**témakörök, tantárgyak, kompetenciák**</th><th>**beszámítható kreditek száma**</th></tr></thead><tbody><tr><td>**2.**</td><td>1.1 Ábrázoló geometria</td><td></td><td>6</td></tr><tr><td>**3.**</td><td>1.2 Statika – szilárdságtan</td><td></td><td>14</td></tr><tr><td>**4.**</td><td>1.3 Épületfizika</td><td>Hőtechnika, páratechnika, akusztika.</td><td>2</td></tr><tr><td>**5.**</td><td>1.4 Épületenergetika</td><td>Az energiamérleg összetevői, követelmények, fajlagos hőigény, az energetikai méretezés és ellenőrzés módja és menete. A hőszigetelés gazdaságossága, energiatudatos építészet, passzív szoláris rendszerek.</td><td>2</td></tr><tr><td>**6.**</td><td colspan="2">A beszámítható kreditek száma természettudományos alapismeretekből összesen</td><td>24 kredit</td></tr></tbody></table>
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr><tr><th>**1.**</th><th>**tantárgy / tevékenységi kör**</th><th>**témakörök, tantárgyak, kompetenciák**</th><th>**beszámítható kreditek száma**</th></tr></thead><tbody><tr><td>**2.**</td><td>2.1 Építésgazdaságtan és menedzsment</td><td>Az építőiparral és az építési piaccal összefüggő gazdasági kérdések. Építési beruházások pénzügyi-gazdasági tervezése, az épületüzemeltetés gyakorlata.</td><td>2</td></tr><tr><td>**3.**</td><td>2.2 Építési jog</td><td>Építésjogi és igazgatási ismeretek: Építésügyi jogszabályok, hatósági eljárások ismerete, építésügyi bírság, (építésügyi) hatósági ellenőrzés, engedélyezési és kivitelezési dokumentáció, kivitelezési jogosultság.</td><td>2</td></tr><tr><td>**4.**</td><td>2.3 Építészettörténet, építészetelmélet</td><td>Építészettörténet és az építészeti elméletek, valamint a kapcsolódó művészetek, technológiák és tudományok ismerete.</td><td>4</td></tr><tr><td>**5.**</td><td>2.4 Szociológia építészeknek</td><td>Település- és városszociológia.</td><td>1</td></tr><tr><td>**6.**</td><td colspan="2">A beszámítható kreditek száma gazdasági és humán ismeretekből összesen</td><td>9 kredit</td></tr></tbody></table>
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr><tr><th>**1.**</th><th>**tantárgy / tevékenységi kör**</th><th>**témakörök, tantárgyak, kompetenciák**</th><th>**beszámítható kreditek száma**</th></tr></thead><tbody><tr><td>**2.**</td><td>3.1 Rajz</td><td>Szabadkézi rajz, építészeti ábrázolás, intuitív ábrázolás, építészeti grafika, építészeti formálás.</td><td>10</td></tr><tr><td>**3.**</td><td>3.2 Épületszerkezettan</td><td>Épületszerkezettani ismeretek (falszerkezetek, koszorúk, kiváltók, födémszerkezetek, kémény és szellőző-, valamint lépcsőszerkezetek, alapozások, tetőszerkezetek, szigetelések, homlokzatburkolatok).</td><td>14</td></tr><tr><td>**4.**</td><td>3.3 Építőanyagok</td><td>Építmények anyagainak rendszere, osztályozása, alkalmazási lehetősége. Az építőanyagok általános kémiai, fizikai, szilárdsági, alakváltozási tulajdonságai.</td><td>3</td></tr><tr><td>**5.**</td><td>3.4 Épületgépészet</td><td>Vízellátás-csatornázás, gázellátás, épületek villamos berendezései, fűtéstechnika, légtechnika.</td><td>4</td></tr><tr><td>**6.**</td><td>3.5 Tartószerkezetek-szerkezettervezés</td><td>Vasbeton tartószerkezetek, acél tartószerkezetek.</td><td>8</td></tr><tr><td>**7.**</td><td>3.6 Építéskivitelezés-szervezés</td><td>Építésszervezési alapismeretek, az épület kivitelezésének tervezése, előkészítése (organizáció alapjai térben és időben), a kivitelezés költségeinek összetevői, az építésgépesítés alapjai. Jellemző kivitelezési technológiák, a jellemző folyamatok szervezése (idő, tér, költség), a technológiai folyamatok ellenőrzésének és minőségbiztosításának alapvető módszerei.</td><td>6</td></tr><tr><td>**8.**</td><td>3.7 Épülettervezés</td><td>Építészet alapjai, lakóépület tervezés, középület tervezés.</td><td>8</td></tr><tr><td>**9.**</td><td>3.8 Városépítés</td><td></td><td>5</td></tr><tr><td>**10.**</td><td colspan="2">A beszámítható kreditek száma szakmai törzsanyagból összesen</td><td>58 kredit</td></tr></tbody></table>
+
+<table><thead><tr><th></th><th>**A**</th><th>**B**</th><th>**C**</th></tr><tr><th>**1.**</th><th>**tantárgy / tevékenységi kör**</th><th>**témakörök, tantárgyak**</th><th>**beszámítható kreditek száma**</th></tr></thead><tbody><tr><td>**2.**</td><td>4.1 Épületszerkezettan</td><td>Belső és homlokzati nyílászárók, kiegészítő szerkezetek. A belső felületek kialakításának szerkezetei. A korábban tanult szerkezetekből különféle tartószerkezetű és technológiájú épületek épületszerkezeteit komplexen, összefüggéseiben vizsgáló tervezés.</td><td>8</td></tr><tr><td>**3.**</td><td>4.2 Tartószerkezetek</td><td>Fa tartószerkezetek tervezése.</td><td>4</td></tr><tr><td>**4.**</td><td>4.3 Talajmechanika és alapozás</td><td></td><td>3</td></tr><tr><td>**5.**</td><td>4.4 Építéskivitelezés-szervezés</td><td>Szakipari munkák technológiái, az építési beruházástervezés alapjai, a technológia a költség-, idő- és térbeli tervezés összefüggése az építési beruházás kezdeményezésétől a létesítmény átadás-átvételig.</td><td>6</td></tr><tr><td>**6.**</td><td>4.5 Építőanyagok</td><td></td><td>3</td></tr><tr><td>**7.**</td><td>4.6 Lakóépület tervezés</td><td>Jellemző lakóépület-típusok tervezési feladatai (családi házak, csoportházak, többlakásos lakóépületek).</td><td>4</td></tr><tr><td>**8.**</td><td>4.7 Középület tervezés</td><td>Kisebb középület (cca. 600–1000 m<sup>2</sup> alapterülettel) megtervezése.</td><td>4</td></tr><tr><td>**9.**</td><td>4.8 Komplex tervezés</td><td>A korábbi tervezési, műszaki tárgyak ismereteinek összegzése egy épület tervezésén keresztül (engedélyezési terv, majd kiviteli terv szintű tervcsomag előállítása).</td><td>3</td></tr><tr><td>**10.**</td><td>4.9 Diplomatervezés</td><td>Önálló komplex tervezési feladat.</td><td>13</td></tr><tr><td>**11.**</td><td colspan="2">A beszámítható kreditek száma differenciált szakmai törzsanyagból összesen</td><td>48 kredit</td></tr></tbody></table>
+
+## 3. melléklet a 237/2024. (VIII. 8.) Korm. rendelethez
+
+**Az építésügyi hatósági feladat ellátásához biztosítandó eszközök**
+
+**I. Konfiguráció munkaállomásonként**
+
+Minimum Intel i5 14. generációs vagy ezzel egyenértékű, legalább 6 processzormaggal rendelkező, processzormagonként legalább 2.5 GHz órajelű processzor, minimum 32 GB RAM, 512 GB SSD; legalább 8 GB GDDR6 memória méretű dedikált videókártya, 2 db, minimum 24”-os színes LED monitor, billentyűzet, optikai vagy lézeres egér, pdf-szerkesztő és -olvasó, elektronikus jogtár, 64 Bites Operációs rendszer
+
+**II. Egyéb eszközök**
+
+1\. Összkerékmeghajtású személygépjármű – osztályonként 1 db
+
+2\. 360 fokos önbeálló lézeres szintező – osztályonként 1 db
+
+3\. 100 méter mérési tartományú kézi lézertávmérő – 2 kormánytisztviselőnként 1 db
+
+4\. Grafikaigényes alkalmazás használatára és digitális aláírásra alkalmas, mobilinternettel ellátott, minimum 11”-os táblagép – 2 kormánytisztviselőként 1 db
+
+5\. Digitális fényképezőgép legalább 21 Mp és 8×-os optikai zoomos – 2 kormánytisztviselőnként 1 db
+
+6\. Multifunkciós színes nyomtató (minimum 25 lap/perc) – osztályonként minimum 1 db
+
+**III. A fentieken felül a munkavédelemről szóló 1993. évi XCIII. törvény, valamint az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló 4/2002. (II. 20.) SzCsM–EüM együttes rendeletben előírt egyéni védőeszközt kell biztosítani a munkáltatónak (kormányhivatalnak) azon kormánytisztviselő részére, aki helyszíni szemlén vagy hatósági ellenőrzésen vesz részt.**
+
+---
+
+[^1]: A 4. § a 449/2025. (XII. 29.) Korm. rendelet 90. § (1) bekezdésével megállapított szöveg.
+[^2]: A 10. § (1) bekezdés j) pontja a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdésével megállapított szöveg.
+[^3]: A 10. § (1) bekezdés k) pontja a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdésével megállapított szöveg.
+[^4]: A 10. § (1) bekezdés l) pontját a 449/2025. (XII. 29.) Korm. rendelet 90. § (2) bekezdése iktatta be.

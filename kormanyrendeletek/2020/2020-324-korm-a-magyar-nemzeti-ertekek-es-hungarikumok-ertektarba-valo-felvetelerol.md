@@ -1,0 +1,334 @@
+---
+title: "324/2020. (VII. 1.) Korm. rendelet a magyar nemzeti értékek és hungarikumok értéktárba való felvételéről és az értéktár bizottságok munkájának szabályozásáról"
+identifier: "324/2020. (VII. 1.) Korm. rendelet"
+njt_id: "2020-324-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/324"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-07-01
+in_force_from: 2020-07-09
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-324-20-22"
+retrieved: 2026-10-12
+---
+
+# 324/2020. (VII. 1.) Korm. rendelet a magyar nemzeti értékek és hungarikumok értéktárba való felvételéről és az értéktár bizottságok munkájának szabályozásáról
+
+A Kormány a magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény 19. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A nemzeti értékek szakterületenkénti kategóriái
+
+### 1. §
+
+(1)[^1] A nemzeti értékek adatait a települési, tájegységi, vármegyei és ágazati értéktárakban, a Magyar Értéktárban, valamint a Hungarikumok Gyűjteményében a következő, szakterületenkénti kategóriák szerint kell azonosítani és rendszerezni:
+
+a) *agrár- és élelmiszergazdaság:* az agrárium szellemi termékei és tárgyi javai beleértve az erdészet, halászat, vadászat, az élelmiszerek és állategészségügy területét;
+
+b) *egészség és életmód:* a tudományos és népi megelőzés és gyógyászat, természetgyógyászat szellemi termékei és tárgyi javai;
+
+c) *épített környezet:* a környezettudatos építési munka eredményeként létrehozott, illetve elhatárolt épített része, amely elsődlegesen az egyéni és közösségi lét feltételeinek megteremtését szolgálja, valamint az embert körülvevő környezet fenntartásához kapcsolódó szellemi termékek;
+
+d) *ipari és műszaki megoldások:* az ipari termelés – beleértve a kézműipart, kézművességet is – szellemi termékei és tárgyi javai;
+
+e) *kulturális örökség:* a kulturális örökség szellemi és tárgyi javai;
+
+f) *nemzetiséghez kapcsolódó érték:* az adott nemzetiség identitásához kötődő jelen- vagy múltbeli nyelvi, folklór, öntevékeny, illetve hivatásos előadó-művészeti, hitéleti, alkotóművészeti hagyományainak összessége, valamint nemzetiség által épített és tárgyi örökség;
+
+g) *sport:* a fizikai erőnlét és a szellemi teljesítőképesség megtartását, fejlesztését szolgáló, a szabadidő eltöltéseként kötetlenül vagy szervezett formában, illetve versenyszerűen végzett testedzés vagy szellemi sportágban kifejtett tevékenység;
+
+h) *természeti környezet:* az ember természetes környezetének tárgyi javai, valamint az embert körülvevő környezet fenntartásához kapcsolódó szellemi termékek;
+
+i) *turizmus és vendéglátás:* a turizmus és a vendéglátás szellemi termékei és tárgyi javai.
+
+(2) A külhoni magyarság értéktára – az egységesség érdekében – alkalmazhatja az (1) bekezdés szerinti kategorizálást.
+
+## 2.[^2] A települési, tájegységi és vármegyei értéktárak létrehozása és gondozása
+
+### 2. §
+
+(1)[^3] Ha a települési önkormányzat nem hoz létre Települési, illetve Tájegységi Értéktár Bizottságot vagy nem bíz meg a magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény (a továbbiakban: Htv.) 3. § (4) bekezdése szerinti települési szervezetet, akkor a településhez, illetve tájegységhez kapcsolódó érték nemzeti értékként történő felvétele a Vármegyei Értéktár Bizottságnál kezdeményezhető.
+
+(2)[^4] A települési, a tájegységi értéktár létrehozására, valamint a Települési Értéktár Bizottság, illetve a Tájegységi Értéktár Bizottság megalakítására vagy a Htv. 3. § (4) bekezdése szerinti települési szervezetre vonatkozó döntésről a meghozatalát követő 30 napon belül a települési önkormányzat a Vármegyei Értéktár Bizottságot, a tájegységi értéktár székhelye szerinti önkormányzat a székhely szerinti Vármegyei Értéktár Bizottságot tájékoztatja.
+
+(3)[^5] A települési, a tájegységi értéktár adataiban bekövetkezett változást a települési önkormányzat vagy a tájegységi értéktár székhelye szerinti önkormányzat 30 napon belül bejelenti az illetékes Vármegyei Értéktár Bizottságnak.
+
+### 3. §
+
+(1)[^6] Ha a vármegyei önkormányzat nem hoz létre Vármegyei Értéktár Bizottságot vagy nem bíz meg a Htv. 4. § (3) bekezdése szerinti vármegyei szervezetet, akkor a településhez vagy vármegyéhez kapcsolódó érték vármegyei értékként történő felvétele a Hungarikum Bizottságnál (a továbbiakban: HB) kezdeményezhető.
+
+(2)[^7] A vármegyei értéktár létrehozására, a Megyei Értéktár Bizottság alakítására és a Htv. 4. § (3) bekezdése szerinti vármegyei szervezetre vonatkozó döntésről a meghozatalát követő 30 napon belül a vármegyei önkormányzat tájékoztatja a HB-t. A vármegyei értéktár adataiban bekövetkezett változást a vármegyei önkormányzat 30 napon belül bejelenti a HB-nak.
+
+## 3. A Települési, Tájegységi és Megyei Értéktár Bizottság működése
+
+### 4. §
+
+(1)[^8] A Települési Értéktár Bizottság működési szabályzatát a települési, a Vármegyei Értéktár Bizottság működési szabályzatát a vármegyei önkormányzat határozza meg.
+
+A Települési, valamint a Vármegyei Értéktár Bizottság
+
+a) legalább három tagból áll,
+
+b) munkájába bevonja az országos és területi közművelődési szakmai szolgáltatást biztosító szervezetet, továbbá bevonhatja az értékek gyűjtésével, megőrzésével, hasznosításával foglalkozó országosan és területi szinten működő szakmai, egyházi vagy civil szervezeteket, valamint egyéb szakértőket, és
+
+c) évente beszámol a tevékenységéről az alapító önkormányzatnak.
+
+(2) A Tájegységi Értéktár Bizottságot az alapító települési önkormányzatok megállapodása hozza létre, amelyben az önkormányzatok meghatározzák a Tájegységi Értéktár Bizottság finanszírozását, működési feltételeit és a tagok megbízásának, felmentésének rendjét. A Tájegységi Értéktár Bizottság meghatározza és elfogadja működési szabályzatát.
+
+A Tájegységi Értéktár Bizottság
+
+a) legalább három tagból áll,
+
+b) munkájába bevonja az érintett településeken működő közművelődési feladatellátás országos módszertani intézményét, továbbá az értékek gyűjtésével, megőrzésével, hasznosításával foglalkozó országos és területi illetékességű szakmai, egyházi vagy civil szervezeteket, valamint egyéb szakértőket, és
+
+c) évente beszámol a tevékenységéről az alapító települési önkormányzatoknak.
+
+## 4. A Külhoni Települési, a Külhoni Tájegységi és a Külhoni Nemzetrész Értéktár Bizottság működése
+
+### 5. §
+
+(1) A Külhoni Települési, a Külhoni Tájegységi, valamint a Külhoni Nemzetrész Értéktár Bizottság működési szabályzatát a külhoni szervezet határozhatja meg.
+
+(2) A HB a hivatalos honlapján közzéteszi az (1) bekezdésben szereplő értéktár bizottságok szervezeti és működési szabályzatáról szóló mintaszabályzatot.
+
+(3) A Külhoni Települési, a Külhoni Tájegységi, valamint a Külhoni Nemzetrész Értéktár Bizottság a munkájába bevonhatja az érintett településeken működő közművelődési feladatellátás országos módszertani intézményét, továbbá az értékek gyűjtésével, megőrzésével, hasznosításával foglalkozó országos és területi illetékességű szakmai, egyházi vagy civil szervezeteket.
+
+## 5. Ágazati értéktárak létrehozása és működése
+
+### 6. §
+
+Az egyes ágazatokért felelős miniszterek (a továbbiakban: miniszterek) az e rendelet hatálybalépésétől számított 30 napon belül létrehozzák az Ágazati Értéktár Bizottságot, és erről a létrehozást követő 10 munkanapon belül értesítik a HB elnökét.
+
+### 7. §
+
+(1) Az Ágazati Értéktár Bizottság
+
+a) munkájába bevonhatja az értékek gyűjtésével, megőrzésével, hasznosításával foglalkozó országos és területi illetékességű szakmai, egyházi vagy civil szervezeteket, valamint más szakértőket, és
+
+b) évente beszámol tevékenységéről az ágazatért felelős miniszternek.
+
+(2) Az Ágazati Értéktár Bizottság működéséhez és feladatainak ellátásához szükséges pénzügyi, tárgyi és ügyviteli feltételeket – az általa jóváhagyott éves munka- és pénzügyi tervre figyelemmel – az ágazatért felelős miniszter által vezetett minisztérium költségvetésében kell biztosítani.
+
+### 8. §
+
+(1) A miniszterek a feladatkörükbe tartozó szakterületeken meghatározzák az egyes ágazati értéktárba foglalható nemzeti értékek körét.
+
+(2) A miniszterek feladat- és hatáskörébe tartozó, egyéb – a magyar nemzeti értékekre és hungarikumokra vonatkozó szabályozástól eltérő – szabályozás szerint már önállóan nyilvántartott, a Htv. 1. § (1) bekezdés m) pontja alapján nemzeti értéknek minősíthető értékekről az ágazati értéktárak a következő adatokat tartják nyilván:
+
+a) a nemzeti érték neve,
+
+b) – ha jogszabály rendelkezik róla – a nemzeti érték nyilvántartásáról rendelkező jogszabály száma,
+
+c) a nemzeti értéket nyilvántartó adatbázis megnevezése, ha az adott nemzeti érték szerepel az adatbázisban.
+
+(3) Országosan jelentős, konkrét földrajzi területhez kevésbé köthető – a (2) bekezdésben foglaltakon kívüli – érték ágazati értéktárba történő felvételét bárki, az adott minisztérium honlapján közzétett nyomtatvány elektronikus vagy postai úton történő benyújtásával kezdeményezheti.
+
+(4) Az ágazati értéktárba történő felvételt kezdeményező javaslat az alábbi adatokat tartalmazza:
+
+a) a javaslattevő és a kapcsolattartó nyilatkozata az azonosító adatai kezeléséről,
+
+b) az értéktárba felvételre javasolt nemzeti érték megnevezése, fellelhetősége, szakterületi besorolása és a besorolás indokolása,
+
+c) az értéktárba felvételre javasolt a nemzeti értéket tartalmazó értéktár megnevezése, a nemzeti érték felvételének dátuma,
+
+d) az értéktárba felvételre javasolt a nemzeti érték rövid, szöveges bemutatása, egyedi jellemzőinek és történetének leírása,
+
+e) indokolás a jelölt értéktárba történő felvétel megalapozottságáról,
+
+f) az értéktárba felvételre javasolt nemzeti értékkel kapcsolatos információt megjelenítő források listája és – amennyiben rendelkezik vele – a nemzeti érték hivatalos weboldalának címe,
+
+g) az értéktárba felvételre javasolt nemzeti érték fénykép- vagy audiovizuális dokumentációja,
+
+h) a javaslattevő nyilatkozata a *g)* pontban szereplő saját készítésű dokumentumok, és a benyújtott teljes dokumentáció korlátlan felhasználásáról,
+
+i) nem saját készítésű dokumentumok javaslatba történő szerepeltetése esetén az adott dokumentum tulajdonosának hozzájáruló nyilatkozata a szabad felhasználásról,
+
+j) a Htv. 1. § (1) bekezdés m) pontjának való megfelelést alátámasztó további melléklet,
+
+k) szakértő, illetve szakmai, egyházi vagy civil szervezet támogató vagy ajánlólevele,
+
+l) a szakterület kategóriák közül a javaslatra leginkább jellemző kategória megjelölése és a megjelölés rövid indokolása,
+
+m) az értéktárba felvételre javasolt nemzeti érték értéktárba felvevő döntés másolata, és
+
+n) a nemzetiségi érték esetén a nemzetiséghez való kötődésének bemutatása.
+
+## 6.[^9] A felvételre javasolt értékek települési, tájegységi vagy vármegyei értéktárba történő felvétele
+
+### 9. §
+
+(1)[^10] A felvételre javasolt érték települési, tájegységi vagy vármegyei értéktárba történő felvételét bárki a HB hivatalos honlapján közzétett nyomtatvány elektronikus vagy postai úton történő benyújtásával kezdeményezheti.
+
+(2)[^11] A nemzeti érték vármegyei értéktárba történő felvétele kezdeményezését megelőzően a felvételre javasolt érték települési, tájegységi értéktárba való felvétele szükséges.
+
+(3) Az adott értéktárba történő felvételt kezdeményező javaslat a 8. § (4) bekezdésében meghatározott adatokat tartalmazza.
+
+(4)[^12] A települési értéktár létrehozásának lehetőségével élni nem kívánó települési önkormányzat a javaslatot köteles átvenni és haladéktalanul megküldeni a Vármegyei Értéktár Bizottság vagy a Htv. 4. § (3) bekezdése szerinti vármegyei szervezet részére, amely a 10. § (1)–(4) bekezdése alapján dönt a települési értékként történő felvételről, és felvétel esetén azt nyilvántartja települési értékként.
+
+(5)[^13] A vármegyei értéktár létrehozásának lehetőségével élni nem kívánó vármegyei önkormányzat a javaslatot köteles átvenni és haladéktalanul megküldeni a HB elnöke részére. A HB dönt a javaslat vármegyei értékként történő felvételéről, illetve felvétel esetén azt nyilvántartja vármegyei értékként.
+
+### 10. §
+
+(1)[^14] A Települési, a Tájegységi, a Vármegyei, az Ágazati Értéktár Bizottság, valamint a Htv. 3. § (4) bekezdése vagy a Htv. 4. § (3) bekezdése szerinti intézmény vagy szervezet (a továbbiakban együtt: Bizottság) – figyelemmel a Htv.-ben és az e rendeletben foglalt előírásokra – megvizsgálja a hozzá beérkezett javaslatot.
+
+(2) A Bizottság alaki vagy tartalmi hiányosság esetén a javaslattevőt egy alkalommal hiánypótlásra hívja fel. Ha a javaslattevő a hiánypótlásra való felhívásnak nem tesz eleget, vagy a hiányosság pótlásához szükséges idő figyelembevételével megállapított határidő meghosszabbítását sem kéri, a Bizottság a javaslatot érdemben nem tárgyalja meg, és erről a javaslattevőt értesíti.
+
+(3) A hiánypótlásra való felhívás teljesítésének elmulasztását követően a javaslattevő ugyanazon nemzeti érték értéktárba történő felvételét ismételten kezdeményezheti.
+
+(4)[^15] A javaslat szerinti nemzeti érték adatainak az ágazati, a vármegyei, a tájegységi és a települési értéktárak valamelyikébe való felvételéről a Bizottság, a javaslat benyújtását követő 90 napon belül dönt, és arról a javaslattevőt írásban értesíti. A döntésnek tartalmaznia kell legalább az értéktár nevét, az érték pontos megnevezését, kategóriáját, valamint az érték felvételének dátumát.
+
+(5)[^16] A települési, tájegységi, külhoni települési, külhoni tájegységi, vármegyei, külhoni nemzetrész értéktárak természetes vagy jogi személy részére, annak kérésére az illetékességi körükbe tartozó értékek vonatkozásában korábbi döntésükről kivonatot adhatnak ki.
+
+### 11. §
+
+(1)[^17] A 9. § (5) bekezdése szerinti esetben a nemzeti érték vármegyei értéktárba történő felvételét a HB hivatalos honlapján közzétett nyomtatványon elektronikus úton vagy postai út esetén elektronikus adathordozón mellékelve a HB titkársága részére történő benyújtással bárki kezdeményezheti.
+
+(2)[^18] A nemzeti érték vármegyei értéktárba történő felvétele kezdeményezését megelőzően, az adott nemzeti érték települési- vagy tájegységi értéktárba való felvétele szükséges.
+
+(3)[^19] A vármegyei értéktárba történő felvételt kezdeményező javaslat a 8. § (4) bekezdésében meghatározott adatokat tartalmazza.
+
+(4)[^20] A Htv. 16. § (1) bekezdése szerinti szakmai ágazati szakbizottság (a továbbiakban: ágazati szakbizottság) megvizsgálja a javaslat Htv.-ben és az e rendeletben foglalt feltételeknek való megfelelőségét, és az azoknak való megfelelés alapján javaslatot tesz a HB részére a javaslat szerinti nemzeti érték alkalmasságáról és a vármegyei értéktár elemeként történő nyilvántartásba vételéről.
+
+(5) Alaki vagy tartalmi hiányosságok esetén az ágazati szakbizottság a javaslattevőt hiánypótlására hívja fel. Ha a javaslattevő a hiánypótlásra való felhívásnak nem tesz eleget, vagy a hiányosság pótlásához szükséges idő figyelembevételével megállapított határidő meghosszabbítását sem kéri, az ágazati szakbizottság a javaslatot nem terjeszti a HB elé és erről a javaslattevőt értesíti.
+
+(6)[^21] A hiánypótlásra való felhívás teljesítésének elmulasztását követően a javaslattevő ugyanazon nemzeti értéknek a vármegyei értéktárba történő felvételét ismételten kezdeményezheti.
+
+(7)[^22] A HB dönt a javaslat szerinti nemzeti értéknek a vármegyei értéktárba való felvételéről, és arról a javaslattevőt értesíti.
+
+## 7. A Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értékek
+
+### 12. §
+
+(1) A Htv. 8. §-a alapján kezdeményezett javaslatot a HB hivatalos honlapján közzétett nyomtatványon elektronikus úton vagy postai út esetén elektronikus adathordozón mellékelve kell benyújtani a HB titkársága részére.
+
+(2) A Magyar Értéktárba történő felvételt kezdeményező javaslat a 8. § (4) bekezdés *a), c), d), f), h), i)* és *k)–n)* pontjaiban meghatározott adatokon és nyilatkozatokon kívül tartalmazza:
+
+a) a Magyar Értéktárba felvételre javasolt nemzeti érték megnevezését, szakterületi besorolását és a besorolás indokolását,
+
+b) az indokolást a Magyar Értéktárba történő felvétel megalapozottságáról, kitérve a nemzeti érték országos jelentőségének bemutatására,
+
+c) a Magyar Értéktárba felvételre javasolt nemzeti érték fényképét vagy audiovizuális dokumentációját, és
+
+d) a Htv. 1. § (1) bekezdés f) pontjának való megfelelést alátámasztó dokumentumokat.
+
+(3) A HB titkára a javaslatot a nemzeti érték 1. §-ban meghatározott kategóriájának megfelelő ágazati szakbizottsághoz utalja.
+
+(4) Az ágazati szakbizottság megvizsgálja a javaslat Htv.-ben és az e rendeletben foglalt feltételeknek való megfelelőségét, és az annak való megfelelés alapján javaslatot tesz a HB részére a javaslat szerinti nemzeti érték alkalmasságáról és a Magyar Értéktár elemeként történő nyilvántartásba vételéről.
+
+(5) Alaki vagy tartalmi hiányosságok esetén az ágazati szakbizottság titkára a javaslattevőt hiánypótlására hívja fel. Ha a javaslattevő a hiánypótlásra való felhívásnak nem tesz eleget, vagy a hiányosság pótlásához szükséges idő figyelembevételével megállapított határidő meghosszabbítását sem kéri, az ágazati szakbizottság a javaslatot nem terjeszti a HB elé, és erről a javaslattevőt értesíti.
+
+(6) Az ágazati szakbizottságok titkári feladatait a HB titkárságának munkatársai látják el.
+
+(7) Az ágazati szakbizottság javaslatára a HB titkára szakértőt kérhet fel egyes, speciális szaktudást igénylő javaslatok véleményezéséhez.
+
+(8) A felkért szakértő, illetve az ágazati szakbizottság titkári feladatait ellátó kormánytisztviselő díjazásban vagy személyi ösztönzési jellegű kifizetésben részesülhet.
+
+(9) A hiánypótlásra való felhívás teljesítésének elmulasztását követően a javaslattevő ugyanazon nemzeti értéknek a Magyar Értéktárba történő felvételét ismételten kezdeményezheti.
+
+(10) A javasolt nemzeti érték adatainak a Magyar Értéktárba való felvételéről, a javaslat módosításáról, kiegészítéséről vagy a javaslat elutasításáról a HB dönt, és arról a javaslattevőt írásban értesíti.
+
+### 13. §
+
+A nemzeti értékek köréből kiemelkedő nemzeti értékké minősített értékről a nemzeti érték gondozója, vagy az ilyen terméket előállító magánszemély vagy vállalkozás kérelmére a HB igazolást bocsát ki a Magyar Értéktárba történő felvételről.
+
+## 8. Nemzeti érték hungarikummá minősítése
+
+### 14. §
+
+(1) A Magyar Értéktárban nyilvántartott valamely kiemelkedő nemzeti érték hungarikummá minősítésére vonatkozó javaslatot a HB hivatalos honlapján közzétett nyomtatványon, elektronikus úton vagy postai út esetén elektronikus adathordozón mellékelve kell benyújtani.
+
+(2) A javaslat a 8. § (4) bekezdés *a), c), d), f), h), i)* és *k)–n)* pontjaiban meghatározott adatokon és nyilatkozatokon kívül tartalmazza:
+
+a) a Hungarikumok Gyűjteményébe felvételre javasolt nemzeti érték adatait, megnevezését, szakterületi besorolását és a besorolás indokolását,
+
+b) az indokolást a Hungarikumok Gyűjteményébe történő felvétel megalapozottságáról, kitérve a nemzeti érték hazai és nemzetközi jelentőségének bemutatására,
+
+c) a Hungarikumok Gyűjteményébe felvételre javasolt nemzeti érték fényképét vagy audiovizuális dokumentációját és
+
+d) a Htv. 1. § (1) bekezdés c) pontjának való megfelelést alátámasztó dokumentumokat.
+
+### 15. §
+
+(1) A HB titkára a javaslatot a nemzeti érték kategóriája szerinti ágazati szakbizottsághoz utalja.
+
+(2) Az ágazati szakbizottság megvizsgálja a javaslat Htv.-ben és az e rendeletben foglalt feltételeknek való megfelelőségét, és annak való megfelelés alapján javaslatot tesz a HB részére a javaslat szerinti nemzeti érték Hungarikumok Gyűjteményébe történő bekerülésre.
+
+(3) Alaki vagy tartalmi hiányosságok esetén az ágazati szakbizottság titkára a javaslattevőt a hiányok pótlására hívja fel. Ha a javaslattevő a hiánypótlásra való felhívásnak nem tesz eleget, vagy a hiányosság pótlásához szükséges idő figyelembevételével megállapított határidő meghosszabbítását sem kéri, az ágazati szakbizottság a javaslatot nem terjeszti a HB elé, és erről a javaslattevőt értesíti.
+
+(4) A szakbizottság javaslatára a HB titkára szakértőt kérhet fel egyes, speciális szaktudást igénylő javaslatok véleményezéséhez.
+
+(5) A felkért szakértő díjazásban vagy személyi ösztönzési jellegű kifizetésben részesülhet.
+
+(6) A hiánypótlásra való felhívás teljesítésének elmulasztását követően a javaslattevő ugyanazon kiemelkedő nemzeti értéknek a Hungarikumok Gyűjteményébe történő felvételét ismételten kezdeményezheti a kiegészített javaslat benyújtásával.
+
+(7) A HB jogosult az összetartozó, egymáshoz kapcsolható nemzeti értékek felvételére vonatkozó javaslatok egy javaslatba történő összevonására és a javaslat címének megváltoztatására.
+
+(8) A javasolt nemzeti érték adatainak a Hungarikumok Gyűjteményébe való felvételéről vagy a javaslat elutasításáról a HB dönt, és arról a javaslattevőt írásban értesíti.
+
+### 16. §
+
+A Magyar Értéktárból hungarikummá minősített értékekről a nemzeti érték gondozója, vagy az ilyen terméket előállító magánszemély vagy vállalkozás kérelmére a HB elismerő oklevelet bocsát ki.
+
+## 9. A nyilvántartás és a közzététel szabályai
+
+### 17. §
+
+(1) A nemzeti értékek 8. § (2) és (4) bekezdésében foglalt adatait az 1. §-ban foglalt szakterületenkénti kategóriák szerint
+
+a)[^23] az ágazati, a vármegyei, a tájegységi és a települési értéktárban, a Magyar Értéktárban, valamint a Hungarikumok Gyűjteményében kell,
+
+b) a külhoni települési, a külhoni tájegységi, valamint a külhoni nemzetrész értéktárban lehet
+
+nyilvántartani.
+
+(2) Az uniós oltalom alatt álló nemzeti értékek és a nemzetközi elismerésben részesített nemzeti értékek esetében a nemzeti érték nevét, a nemzeti érték nyilvántartásáról rendelkező jogszabály számát és a nemzeti értéket nyilvántartó adatbázis megnevezését kell az 1. §-ban foglalt szakterületenkénti kategóriák szerint nyilvántartani.
+
+### 18. §
+
+(1)[^24] A települési, a tájegységi, illetve a vármegyei értéktárban nyilvántartott nemzeti érték megnevezését a helyi önkormányzat az önkormányzat honlapján, a 10. § (4) bekezdése szerinti döntést követően, 8 napon belül közzéteszi.
+
+(2) A külhoni nemzetrész értéktárban nyilvántartott nemzeti értékek megnevezését az adott külhoni nemzetrész értéktár saját honlapján közzéteheti.
+
+(3) Az ágazati értéktárakban a 8. § (2) bekezdése szerint nyilvántartott, valamint az ágazati értéktárakba javaslat útján felvett nemzeti értékek megnevezését, a 10. § (4) bekezdése szerinti döntést követően az egyes ágazatokért felelős miniszterek az általuk vezetett minisztérium honlapján közzéteszik.
+
+### 19. §
+
+A Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értékek megnevezését a HB a nyilvántartásba vételt követő 8 napon belül a Htv. 17. § (1) bekezdés d) pontja szerinti honlapon közzéteszi.
+
+### 20. §
+
+A Hungarikumok Gyűjteményben a 18. § (1) bekezdése szerint nyilvántartott hungarikumok megnevezését a HB a nyilvántartásba vételét követő 8 napon belül, a Htv. 17. § (2) bekezdés d) pontja szerint honlapon közzéteszi.
+
+## 10. Záró rendelkezések
+
+### 21. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+---
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^2]: A 2. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § b), d) és e) pontja szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 304. § a) és c) pontja szerint módosított szöveg.
+[^9]: A 6. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^11]: A 9. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^12]: A 9. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) és b) pontja szerint módosított szöveg.
+[^13]: A 9. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § d) pontja szerint módosított szöveg.
+[^14]: A 10. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § b) pontja szerint módosított szöveg.
+[^15]: A 10. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^16]: A 10. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^17]: A 11. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^18]: A 11. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^19]: A 11. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^20]: A 11. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^21]: A 11. § (6) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^22]: A 11. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^23]: A 17. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.
+[^24]: A 18. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.

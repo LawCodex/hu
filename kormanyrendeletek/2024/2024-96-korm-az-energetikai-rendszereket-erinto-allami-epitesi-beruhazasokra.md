@@ -1,0 +1,141 @@
+---
+title: "96/2024. (V. 7.) Korm. rendelet az energetikai rendszereket érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről"
+identifier: "96/2024. (V. 7.) Korm. rendelet"
+njt_id: "2024-96-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/96"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-05-07
+in_force_from: 2024-05-08
+last_amended: 2024-10-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-96-20-22"
+retrieved: 2026-10-12
+---
+
+# 96/2024. (V. 7.) Korm. rendelet az energetikai rendszereket érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről
+
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 59. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet hatálya az energetikai rendszereket érintő állami építési beruházásokra terjed ki.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+1\. *állami építési beruházás:* az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) szerinti beruházás;
+
+2\. *energetikai rendszer:* valamennyi,
+
+a) a villamos energia, hőenergia és megújuló alapon előállított gázok termelését, elosztását, tárolását, átvitelét és a rendszerirányítást,
+
+b) a földgáz szállítását, tárolását, kitermelését, elosztását,
+
+c) a távhő termelését és szolgáltatását,
+
+d) a hidrogén előállítását, szállítását, elosztását és tárolását, valamint ezek kutatását,
+
+e) a geotermikus energia kutatását, kinyerését, hasznosítását, szállítását és elosztását
+
+biztosító berendezés, építmény vagy ezekhez kapcsolódó építési beruházás, beleértve a hozzájuk kapcsolódó elektronikus hírközlő hálózati elemeket érintő állami beruházásokat is;
+
+3.[^1] *építmény:* a magyar építészetről szóló törvény szerinti építmény.
+
+## 3. §
+
+(1) Az energetikai rendszereket érintő állami építési beruházások tekintetében
+
+a) az állami beruházásokért felelős miniszter és az energiapolitikáért felelős miniszter (a továbbiakban: miniszter), valamint az általuk vezetett minisztériumok építtetői és tulajdonosi jogokat nem gyakorolnak,
+
+b) a nem európai uniós finanszírozású beruházás kiadási előirányzatát a miniszter által irányított költségvetési fejezetben kell tervezni,
+
+c) az Ábtv. 15. §-a szerinti projektszervezetet nem kell létrehozni,
+
+d) az Ábtv. 17. §-a szerinti szereplőket az építtető gazdasági társaság jelöli ki.
+
+(2) Az Ábtv. rendelkezéseitől eltérően az energetikai rendszereket érintő állami építési beruházás a szakpolitikai-ágazati beruházási koncepciónak, ágazati beruházási tervnek és az ezeken alapuló állami építési beruházási keretprogramnak, valamint a költséginformációs rendszernek és a termék műszaki információs rendszernek nem része.
+
+(3) Az energetikai rendszereket érintő állami építési beruházás esetében az építtető az Ábtv. 6., 7. és 9. alcímének, valamint III. Fejezetének szabályaitól eltérően az ágazati jogszabályokban előírt követelmények alapján határozza meg
+
+a) a beruházás szakaszaira és szereplőire vonatkozó döntését,
+
+b) az ágazati jogszabályok szerint irányadó kormányzati döntéshozatali rendet,
+
+c) a tervező és a kivitelező kiválasztására irányuló eljárásrendet,
+
+d) a tervezés és a kivitelezés folyamatát és az azok alapján készülő dokumentációk tartalmát,
+
+e) a beszerzési eljárások feltételeit, az ajánlatok értékelésének szempontjait,
+
+f) a kivitelezési szerződés tartalmát, a tartalékkeret mértékét,
+
+g) a beruházás nyomon követését, ellenőrzését, értékelését, nem érintve a monitoring bizottság e rendelet szerinti feladatait,
+
+h) a beruházás minőségbiztosításával összefüggő feladatokat.
+
+(4) Az Ábtv. IV. Fejezetének rendelkezéseitől eltérően, ha az energetikai rendszereket érintő állami építési beruházásokra e rendelet eltérő szabályt állapít meg, az eltérő szabályokat kell elsődlegesen alkalmazni.
+
+## 4. §
+
+Az e rendelet hatálya alá tartozó beruházások tekintetében a költségszakértői feladatok ellátásáról, amennyiben költségszakértő alkalmazására sor kerül, az állami beruházásokért felelős miniszter által vezetett minisztérium az általa irányított költségvetési szerv vagy a tulajdonosi joggyakorlása alatt álló gazdasági társaság útján gondoskodik.
+
+## 5. §
+
+(1) Az energetikai rendszereket érintő állami építési beruházások monitoringja céljából a miniszter tanácsadói feladatot ellátó bizottságot hoz létre.
+
+(2) A monitoring bizottság hat tagból áll, elnöke a miniszter. Tagjai
+
+a) a miniszter által felkért 2 fő,
+
+b) az állami beruházásokért felelős miniszter által delegált személy,
+
+c) a pénzügyminiszter által delegált személy, valamint
+
+d) a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke által delegált személy.
+
+(3) A monitoring bizottság üléseit az elnök vezeti. A monitoring bizottság ügyrendjét maga állapítja meg.
+
+(4) A monitoring bizottság nyomon követi az energetikai rendszereket érintő állami építési beruházások előkészítését és megvalósítását, különös tekintettel a biztosított központi költségvetési források felhasználására és a beruházások műszaki tartalmának megvalósulására. A monitoring bizottság információkat kérhet az energetikai rendszereket érintő állami építési beruházásokról, valamint ajánlásokat fogalmazhat meg az építtető számára.
+
+(5) A monitoring bizottság jogosult feladatai ellátása céljából az energetikai rendszereket érintő állami építési beruházásra vonatkozó adatok és dokumentumok megismerésére. Ezeket a beruházó köteles a monitoring bizottság rendelkezésére bocsátani.
+
+(6) Az energetikai rendszereket érintő állami építési beruházás előkészítési dokumentációját a monitoring bizottság hagyja jóvá.
+
+(7) Az energetikai rendszereket érintő állami építési beruházás engedélyezési dokumentációja, valamint a kivitelezési dokumentáció az építtető által a monitoring bizottság részére bemutatásra kerül. A monitoring bizottság az engedélyezési dokumentáció, valamint a kivitelezési dokumentáció áttekintését követően dönt az energetikai rendszereket érintő állami építési beruházás továbbépítési engedélyezéséről.
+
+(8) A kivitelező kiválasztására irányuló közbeszerzési eljárást lezáró döntést megelőzően a monitoring bizottság áttekinti a bírálóbizottság írásbeli szakvéleményét és a döntési javaslatot.
+
+## 6. §
+
+(1) Az Ábtv. 1. § (3) bekezdése szerinti javaslat- és véleménynyilvánítás, az Ábtv. 1. § (4) bekezdése szerinti nyilvánosság és a közösségi ellenőrzés lehetőségét a (2) bekezdésben meghatározottak szerint kell biztosítani.
+
+(2) Az (1) bekezdés szerinti kötelezettség
+
+a) az energetikai rendszert érintő beruházással közvetlenül érintettek részére,
+
+b) a végrehajtás során biztosított lehetőség útján
+
+teljesül.
+
+(3) A (2) bekezdés szerinti információk szolgáltatása az építtető kötelessége.
+
+## 7. §
+
+Az energetikai rendszereket érintő beruházások esetében az Ábtv. 38. § (1) bekezdésének alkalmazása mindaddig nem kötelező, ameddig az építményinformációs modell (BIM) alapú műszaki megvalósítás rendszere használatának infrastrukturális feltétele az építtetőnél nem áll rendelkezésre.
+
+## 8. §
+
+A honvédelmi és katonai, továbbá nemzetbiztonsági célú és rendeltetésű építményeket érintő állami építési beruházásokra vonatkozó eltérő rendelkezéseket meghatározó kormányrendelet hatálya alá is tartozó energetikai rendszereket érintő állami építési beruházásokra e rendelet nem alkalmazható.
+
+## 9. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 10. § 2024. október 1-jén lép hatályba.
+
+---
+
+[^1]: A 2. § 3. pontja a 10. § szerint módosított szöveg.

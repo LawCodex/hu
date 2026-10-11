@@ -1,0 +1,565 @@
+---
+title: "273/2024. (IX. 19.) Korm. rendelet a létesítményi tűzoltóságokra vonatkozó részletes szabályokról"
+identifier: "273/2024. (IX. 19.) Korm. rendelet"
+njt_id: "2024-273-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/273"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-09-19
+in_force_from: 2024-10-01
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-273-20-22"
+retrieved: 2026-10-12
+---
+
+# 273/2024. (IX. 19.) Korm. rendelet a létesítményi tűzoltóságokra vonatkozó részletes szabályokról
+
+A Kormány a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény 47. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *alkalomszerűen igénybe vehető létesítményi tűzoltó:* a tűzoltói tevékenységét egyéb jogviszony alapján, szervezett szolgálatban végző, jogszabályban meghatározott tűzoltó szakmai képesítéssel rendelkező és jogszabályban meghatározott fokozottan baleseti veszélyekkel járó munkakörök, tevékenységek végrehajtásához szükséges orvosi vizsgálata alapján tűzoltói szolgálatra alkalmasnak minősített, 18. életévét betöltött személy;
+
+2\. *alkalomszerűen igénybe vehető létesítményi tűzoltóság:* alkalomszerűen igénybe vehető létesítményi tűzoltókból vagy főfoglalkozású és alkalomszerűen igénybe vehető létesítményi tűzoltókból álló létesítményi tűzoltóság, amelyben az egy időben készenléti jellegű szolgálatot ellátó főfoglalkozású tűzoltók létszáma kevesebb, mint négy fő;
+
+3\. *érintett műszaki megoldás:* jogszabály vagy a tűzvédelmi hatóság által előírt tűzvédelmi berendezés, rendszer, készülék, szerkezet, valamint az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelet (a továbbiakban: OTSZ) szerint felülvizsgálat tárgyát képező rendszer;
+
+4\. *fenntartó:* az a szervezet vagy szervezeti egység, amelyet az e rendelet alapján kockázat azonosításra jelölt ki az eljáró hatóság, és a létesítmény üzemeltetését végzi, vagy tervezi végezni;
+
+5\. *főfoglalkozású létesítményi tűzoltó:* a tűzoltói tevékenységét tűzoltó szakmai feladatok ellátására irányuló munkaviszony alapján, készenléti jellegű szolgálatban végző vagy a létesítményi tűzoltóság szakmai feladatellátását irányító, jogszabályban meghatározott, tűzoltó szakmai képesítéssel rendelkező és jogszabályban meghatározott, fokozottan baleseti veszélyekkel járó munkakörök, tevékenységek végrehajtásához szükséges egészségügyi követelményeknek megfelelt, 18. életévét betöltött személy;
+
+6\. *főfoglalkozású létesítményi tűzoltóság:* kizárólag főfoglalkozású tűzoltókból vagy főfoglalkozású és alkalomszerűen igénybe vehető létesítményi tűzoltókból álló létesítményi tűzoltóság, amelyben mindenkor legalább négy főfoglalkozású létesítményi tűzoltó lát el készenléti jellegű szolgálatot;
+
+7\. *készenléti szolgálat:* a tűzoltóság káresethez történő vonulásra kötelezettséget vállaló tűzoltójának olyan riasztható állapota, amikor sem tevékenysége, sem tartózkodási helye nem korlátozza a riasztási normaidőn belüli kivonulási kötelezettségének teljesítésében;
+
+8\. *készenléti jellegű szolgálat:* olyan munkakör, amelyben a tűzoltó 24 órás váltásos munkarendbe tartozó beosztásban, állandó készenléti helyzetben a szolgálatteljesítés helyén látja el a szolgálatát, és
+
+a) a munkakörbe tartozó feladatok jellegéből adódóan – hosszabb időszak alapulvételével – a rendes munkaidő legalább egyharmadában nincs munkavégzés, és a munkával nem töltött időt a munkavállaló pihenéssel töltheti, vagy
+
+b) a munkavégzés – különösen a munkakör sajátosságára, a munkavégzés feltételeire tekintettel – a munkavállaló számára az általánoshoz képest lényegesen alacsonyabb igénybevétellel jár;
+
+9\. *kockázat azonosítási jelentés:* a létesítmény tűzoltási és műszaki-mentési szempontú kockázatának vizsgálatáról szóló dokumentáció;
+
+10\. *létesítményi tűzoltó:* a főfoglalkozású létesítményi tűzoltóság vagy alkalomszerűen igénybe vehető létesítményi tűzoltóság szervezetében tűzoltói feladatot ellátó vagy a létesítményi tűzoltóság szakmai feladatellátását irányító személy, akit a hivatásos katasztrófavédelmi szerv központi szerve létesítményi tűzoltóként nyilvántart, és igazolvánnyal lát el;
+
+11\. *létesítményi tűzoltóság üzemeltetője:* az a szervezet vagy szervezeti egység, amely az arra kötelezett fenntartónál létesítményi tűzoltóságot üzemeltet;
+
+12\. *létesítményi tűzoltóság vonulási területe:* a létesítményi tűzoltóság fenntartására kötelezett szervezet létesítményének területe, valamint azon más létesítmények területe, amelyekre írásbeli szerződésben működési kötelezettséget vállal a létesítményi tűzoltóság.
+
+## 2. A létesítmények azonosítása
+
+### 2. §
+
+(1) A létesítmény tűzoltási és műszaki mentési szempontú kockázatának azonosítása érdekében a 4. § (1) bekezdés a), b) és d) pontja kivételével a fenntartó az 1. melléklet szerinti formában és módon kockázat azonosítási jelentést készít
+
+a) olyan beépített tűzoltó berendezés nélküli ipari, tárolási rendeltetésű épület létesítése esetén, amelynek alapterülete
+
+aa) 10 000 m<sup>2</sup> feletti, vagy
+
+ab) 3500 m<sup>2</sup> feletti, és az OTSZ alapján magas mértékadó kockázati osztályba tartozik;
+
+b) meglévő épület átalakítása vagy bővítése esetén, ha annak következtében az átalakított, bővített épület az a) pont aa) vagy ab) alpontja szerinti tulajdonságokkal rendelkezővé válik, vagy
+
+c) az eljáró hatóság erre irányuló felhívása esetén.
+
+(2) A fenntartó a kockázat azonosítási jelentést
+
+a) a létesítéshez, átalakításhoz, bővítéshez kapcsolódó építésügyi engedélyezési vagy bejelentési eljárás megindításával egyidejűleg vagy
+
+b) az építési engedélyt vagy bejelentést nem igénylő létesítés, átalakítás vagy bővítés esetén a létesítés, átalakítás, bővítés megkezdése előtt legalább 30 nappal
+
+benyújtja a hivatásos katasztrófavédelmi szerv területi szerve részére.
+
+(3) A kockázat azonosítási jelentést a tűzvédelmi tervezői tevékenység folytatásának szabályairól szóló kormányrendelet szerinti tűzvédelmi tervező vagy a tűzvédelmi szakértői tevékenység szabályairól szóló miniszteri rendelet szerinti építésügyi tűzvédelmi tervező vagy építész tűzvédelmi szakértő szakképesítéssel rendelkező személy készítheti.
+
+(4) Az eljáró hatóság a kockázat azonosítási jelentés benyújtását követően, a 4. § (5) bekezdése alapján a fenntartóval történt előzetes egyeztetést követően dönt a létesítményi tűzoltóság kötelező működtetésének feltételeiről vagy az eljárás megszüntetéséről.
+
+## 3. A létesítményi tűzoltóság feladata
+
+### 3. §
+
+(1) A létesítményi tűzoltóság tűzvédelmi tevékenysége során
+
+a) figyelemmel kíséri és segíti a létesítményi tűzoltóság vonulási területén a tűzvédelmi jogszabályokban, szabványokban és hatósági előírásokban foglaltak érvényesülését, különös tekintettel a tűzoltás alapvető feltételeit biztosító szabályokra,
+
+b) jelzi a tűzvédelmi szabálytalanságokat a létesítmény fenntartójának,
+
+c) közreműködik a munkavállalók tűzvédelmi felkészítésében, a tűzoltó eszközök és szakfelszerelések használatának ismertetésében,
+
+d) szükség szerint ellátja az alkalomszerű tűzveszélyes tevékenység végzésénél a tűzoltói felügyeletet, ha az nem veszélyezteti a (2) bekezdés d) pontjában rögzített feladatainak ellátását.
+
+(2) A létesítményi tűzoltóság tűzoltási és műszaki mentési tevékenysége érdekében
+
+a) munkaidőben gondoskodik a készenléti vagy készenléti jellegű szolgálat ellátásáról,
+
+b) munkaidőn kívül a létesítmény vezetője által meghatározottak szerint ügyeleti szolgálatot tart,
+
+c) gondoskodik a tűzoltás feltételeinek biztosításáról,
+
+d) a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvényben foglaltak szerint tűzoltási és műszaki mentési feladatokat lát el a létesítményi tűzoltóság vonulási területén,
+
+e) a káresemény felszámolását követően, a 15. § alapján köteles adatot szolgáltatni a hivatásos tűzoltóság részére,
+
+f) a Tűzoltási Műszaki Mentési Tervben a részére meghatározott feladatokat végrehajtja,
+
+g) az (5) bekezdés szerinti, jóváhagyott együttműködési megállapodás alapján a hivatásos katasztrófavédelmi szerv ügyeletének utasítására kivonul a létesítményi tűzoltóság vonulási területén kívül keletkezett eseményhez, ahol tűzoltási, műszaki-mentési feladatokat hajt végre, amennyiben az nem veszélyezteti a d) pontban rögzített feladatainak ellátását.
+
+(3) A repülőtéri létesítményi tűzoltóság fenntartója a létesítményi tűzoltóság készenléti vagy készenléti jellegű szolgálatát úgy határozza meg, hogy a repülési műveletek alatt és legalább az utolsó járat indulását követő 15. percig a tűzoltó járművek és eszközök maximális kapacitású üzemeltetéséhez elegendő számú és a szakmai képesítési követelményeknek megfelelő személyzet álljon rendelkezésre.
+
+(4) A létesítményi tűzoltóság üzemeltetője vagy annak fenntartója gondoskodik szakfelszereléseinek és egyéni védőeszközeinek karbantartásáról, felülvizsgálatáról.
+
+(5) A létesítményi tűzoltóság üzemeltetője és a működési terület szerinti hivatásos tűzoltóság – ha az nem veszélyezteti a létesítményi tűzoltóság elsődleges beavatkozási feladatainak ellátását – együttműködési megállapodást köthet a létesítményi tűzoltóság vonulási területén kívül keletkezett tűz oltására és műszaki mentésre. A költségek megtérítésének módját az együttműködési megállapodásban rögzíteni kell.
+
+(6) Az együttműködési megállapodás tervezetét a hivatásos tűzoltóság parancsnoka a hivatásos katasztrófavédelmi szerv illetékes területi szervéhez jóváhagyás céljából felterjeszti.
+
+(7) A létesítményi tűzoltóság jogszabályban meghatározottak szerint a folyamatos készenléti vagy készenléti jellegű vagy ügyeleti szolgálat biztosításával a hivatásos tűzoltóságok által végezhető szolgáltatások köréről, valamint a hivatásos tűzoltósági célokat szolgáló ingatlanok, felszerelések kapacitás kihasználását célzó hasznosításának szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szolgáltatást végezhet. A szolgáltatás végzése nem veszélyeztetheti a (2) bekezdés d) pontjában rögzített feladatainak ellátását.
+
+## 4. A létesítményi tűzoltóság működése
+
+### 4. §
+
+(1) Létesítményi tűzoltóságot kell működtetni
+
+a) az atomerőműben,
+
+b) a légiközlekedésről szóló törvény szerinti nemzetközi kereskedelmi repülőtereken,
+
+c) ott, ahol a létesítményben előállított, feldolgozott, használt, tárolt, keletkező anyag veszélyessége, a technológiai folyamat veszélyessége vagy egyéb helyi sajátosság miatt a 2. § (1) bekezdése szerint benyújtott kockázat azonosítási jelentés alapján az eljáró hatóság előírja,
+
+d) a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól szóló miniszteri rendeletben meghatározott esetekben.
+
+(2) Főfoglalkozású létesítményi tűzoltóságot kell működtetni
+
+a) az (1) bekezdés a) és b) pontja szerint létesítményben,
+
+b) ott, ahol az eljáró hatóság előírja,
+
+c) ott, ahol a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól szóló miniszteri rendelet azt előírja.
+
+(3) A létesítményi tűzoltóság kötelező működtetéséről vagy megszüntetéséről
+
+a) az (1) bekezdés a) és b) pontja szerinti létesítmény esetén a hivatásos katasztrófavédelmi szerv központi szerve,
+
+b) az (1) bekezdés c) pontja szerinti esetben
+
+ba) az alkalomszerűen igénybe vehető létesítményi tűzoltóságról a hivatásos katasztrófavédelmi szerv helyi szerve javaslatára a hivatásos katasztrófavédelmi szerv területi szerve,
+
+bb) a főfoglalkozású létesítményi tűzoltóságról a hivatásos katasztrófavédelmi szerv területi szerve javaslatára a hivatásos katasztrófavédelmi szerv központi szerve
+
+határozatban dönt.
+
+(4) Az önkéntesen létesülő létesítményi tűzoltóság működtetéséről vagy megszüntetéséről – a fenntartó által benyújtott kérelem alapján – a hivatásos katasztrófavédelmi szerv területi szerve határozatban dönt.
+
+(5) A létesítményi tűzoltóság működtetésére vonatkozó határozatban az eljáró hatóság megállapítja
+
+a) a létesítményi tűzoltóság működéséhez szükséges
+
+aa) napi vagy műszakonkénti legkisebb létszámot,
+
+ab) tűzoltó egyéni védőfelszereléseket és azok mennyiségét és
+
+ac) gépjárművek alapvető tűzoltástechnikai paramétereit, felszereléseket, oltó- és mentesítőanyagokat, tartalékokat és azok mennyiségét;
+
+b) a készenléti jellegű szolgálatot ellátó állomány, valamint a gépjárművek és felszerelések elhelyezési körülményeit; valamint
+
+c) azt, hogy az a) pont aa) alpontja szerinti létszámot vagy annak egy részét főfoglalkozású vagy alkalomszerűen igénybe vehető tűzoltókkal kell biztosítani.
+
+### 5. §
+
+(1) A létesítményi tűzoltóság működését folyamatosan biztosítani kell addig, ameddig a működtetésre vonatkozó határozatban figyelembe vett körülmények, jellemzők fennállnak, és az eljáró hatóság nem engedélyezte annak megszüntetését.
+
+(2) A körülmények, jellemzők megváltozása esetén a létesítmény fenntartója kérelmezheti a létesítményi tűzoltóság megszüntetését vagy a 4. § (5) bekezdésében meghatározottak módosítását.
+
+(3) A kérelmet az eljáró hatóság elutasítja, ha a megszüntetés feltételeinek teljesülését nem igazolták, vagy a 4. § (5) bekezdésében meghatározott minimális feltételek nem módosíthatók.
+
+(4) A kérelem tartalmazza
+
+a) a kérelmezett engedélyezési eljárás megjelölését,
+
+b) a létesítményi tűzoltóság megnevezését, a védett létesítmény címét, valamint
+
+c) az önkéntes vállalás alapján létesülő létesítményi tűzoltóság esetén a kérelem indokát.
+
+(5) A létesítmény fenntartója
+
+a) az önkéntesen létesülő létesítményi tűzoltóság esetén a kérelemhez a 2. melléklet szerinti,
+
+b) a körülmények, jellemzők megváltozása miatti módosítás esetén a kérelemhez a 3. melléklet szerinti,
+
+c) megszüntetési kérelem esetén a 4. melléklet szerinti
+
+dokumentációt csatolja.
+
+(6) A kérelem az eljáró hatósághoz a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározottak szerint elektronikusan nyújtható be. Ha a kérelem mellékletét képező dokumentáció mérete indokolja, a dokumentáció tartós adathordozón is benyújtható, melyről a kérelmező az elektronikus úton benyújtott kérelmében tájékoztatja az eljáró hatóságot. Tartós adathordozón történő benyújtás esetében a dokumentációt PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.
+
+(7) A létesítményi tűzoltóság megszüntetésének engedélyezése abban az esetben kérelmezhető, ha
+
+a) a létesítményi tűzoltóság létesítési kötelezettségét a megszüntetési engedély iránti kérelem benyújtásakor hatályban lévő jogszabályi rendelkezés nem írja elő,
+
+b) hatósági döntés alapján fenntartott létesítményi tűzoltóság esetén a létesítést megalapozó körülmény nem áll fenn, vagy önkéntesen létesítették, vagy
+
+c) a létesítményi tűzoltóság további fenntartását a létesítmény, a fennálló társadalmi és környezeti kockázat, az építményben, építményrészben tartózkodók biztonsága nem indokolja.
+
+### 6. §
+
+(1) Az alkalomszerűen igénybe vehető létesítményi tűzoltóság létszáma kiváltható főfoglalkozású létesítményi tűzoltókkal. A kiváltás akkor alkalmazható, ha a meghatározott minimum létszám legalább 8 fő. Ekkor az előírt létszámból 4 fő alkalomszerű, az e feletti létszám minden 2 főjét pedig 1 fő főfoglalkozású létesítményi tűzoltóval lehet kiváltani.
+
+(2) A főfoglalkozású létesítményi tűzoltó kiváltható alkalomszerűen igénybe vehető tűzoltóval. 1 fő főfoglalkozású létesítményi tűzoltót 2 fő alkalomszerűen igénybe vehető létesítményi tűzoltó válthat ki, de a főfoglalkozású létszám ez esetben nem lehet kevesebb 6 főnél.
+
+(3) Az 5. § (5) bekezdés b) pontja alapján benyújtott kérelemre a főfoglalkozású vagy alkalomszerűen igénybe vehető létszám és eszközállomány egy része kiváltható olyan műszaki megoldással, amely személyzet nélküli önálló beavatkozásra alkalmas, ennek során ön- vagy távirányítással történő üzemelésre képes. Az eljáró hatóság a kérelemben foglaltakat, továbbá a létesítményi tűzoltóság eszközeit és a kiváltásra alkalmazandó műszaki megoldást megvizsgálva dönt a csökkenthető létszám és eszközállomány mértékéről, azzal a feltétellel, hogy a főfoglalkozású létszám nem lehet 4 főnél kevesebb.
+
+(4) Az e rendelet alapján megállapított legkisebb készenléti létszámnak, gépjárműnek, oltóanyagnak és felszerelésnek folyamatosan rendelkezésre kell állnia mindaddig, amíg a 4. § (1) bekezdésében meghatározott feltételek fennállnak. Repülőterek esetében a 3. § (3) bekezdésében meghatározott ideig – kivéve a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló, 2014. február 12-i 139/2014/EU bizottsági rendelet által biztosított csökkent aktivitás várható időszakait – kell a legkisebb készenléti létszámnak, gépjárműnek, oltóanyagnak és felszerelésnek folyamatosan rendelkezésre állnia.
+
+(5) A létesítményi tűzoltóság összlétszámát úgy kell meghatározni, hogy abból a mindenkori legkisebb készenléti létszám akadálytalanul biztosítható legyen.
+
+(6) A készenléti létszámon belül mindig rendelkezésre kell állnia tűzoltás vezetésére jogosult – külön jogszabályban meghatározott, legalább középszintű tűzoltásvezetői végzettséggel rendelkező – személynek.
+
+(7) A főfoglalkozású létesítményi tűzoltóság esetén a legkisebb készenléti létszám biztosításánál a létesítményi tűzoltóparancsnokot nem lehet figyelembe venni.
+
+(8) A 4. § (1) bekezdés b) pontja szerinti repülőtér fenntartója annak felmérése érdekében, hogy a repülőtéren biztosítandó létesítményi tűzoltóság védelmi szintje megfelel-e a repülőtér mentési és tűzoltási kategóriájának, legalább évente előrejelzést készít a repülőtéren várhatóan üzemelő repülőgép-forgalomról a következő tizenkét hónapos időszakra vonatkozóan, és szükség esetén kezdeményezi a hivatásos katasztrófavédelmi szerv központi szerve által kiadott határozat felülvizsgálatát és módosítását.
+
+### 7. §
+
+(1) A létesítményi tűzoltóságot úgy kell megszervezni és felszerelni, hogy az képes legyen a létesítményben keletkezett tűz oltását vagy műszaki mentés felszámolását önállóan, az eljáró hatóság által előírt erőkkel, eszközökkel megkezdeni, és önállóan vagy a riasztható hivatásos tűzoltóságokkal együttesen a létesítményben várható legnagyobb veszélyhelyzetet megszüntetni.
+
+(2) A szükséges létszám és felszerelés megállapításánál a létesítmény védelmét szolgáló érintett műszaki megoldás, az eljáró hatóság által vizsgált közös fenntartásra vonatkozó megállapodás alapján biztosított egyéb erők, valamint a létesítmény azonnal igénybe vehető kárelhárító szerveinek felszerelése figyelembe vehető. Ha a létesítményben többféle, eltérő felszerelést és anyagokat igénylő veszélyhelyzet is lehetséges, akkor a létesítményi tűzoltóságnak – az eljáró hatóság által meghatározott – valamennyi veszélyhelyzet elhárítására fel kell készülnie.
+
+### 8. §
+
+(1) A több természetes vagy jogi személy, egyéb szervezet által közösen létrehozott és fenntartott létesítményi tűzoltóság esetén a működtetéssel kapcsolatos költségeket a megállapodásukban rögzítettek alapján közösen viselik.
+
+(2) Az (1) bekezdés alapján közös létesítményi tűzoltóságra vonatkozó kérelmet a fenntartók a 3. melléklet alapján terjesztik elő. Kivételt képez ez alól, ha az eljáró hatóság a 2. § (1) bekezdés c) pontja alapján adatszolgáltatásra szólította fel a fenntartót vagy fenntartókat.
+
+(3) A közös létesítményi tűzoltóságra az eljáró hatóság a 4. § (5) bekezdésében foglaltakon túl, a kérelemben, valamint a közös megállapodásban foglaltaknak megfelelően készíti el, vagy – a már működő létesítményi tűzoltóság esetén – módosítja a határozatát.
+
+(4) A fenntartó által bérbe adott létesítmény esetén, a létesítményi tűzoltósággal kapcsolatos követelmények betartására a bérbeadó kötelezett. E kötelesség teljesítését – írásbeli megállapodás alapján – a bérbeadótól a bérlő átvállalhatja. A megállapodásról szóló hivatalos dokumentumot a változást megelőző 15 nappal korábban a bérbeadó köteles bejelenteni az eljáró hatóságnál, tájékoztatás céljából.
+
+(5) A létesítményi tűzoltóság feladatainak ellátására megállapodás csak akkor köthető, ha az arra vállalkozó szervezet a 9. § (1) bekezdésében foglalt feltételeket saját feladatainak maradéktalan ellátása mellett tudja teljesíteni.
+
+(6) A létesítményi tűzoltói feladatok ellátására kötött megállapodás felmondása vagy a közösen működtetett létesítményi tűzoltóság megszűnése esetén a fenntartó köteles gondoskodni a 3. §-ban meghatározott feladatok maradéktalan ellátásáról, továbbá az 5. § (2) bekezdésében foglaltak teljesítéséről.
+
+(7) A fenntartó a létesítményi tűzoltóság feladatainak ellátására más létesítményi tűzoltósággal – a főfoglalkozású létesítményi tűzoltóság létrehozására kötelezett fenntartó esetén kizárólag főfoglalkozású létesítményi tűzoltósággal – megállapodhatnak a 3. §-ban meghatározott feladatok ellátására, ha a létesítményi tűzoltóság üzemeltetője állandó ügyelettel, továbbá a feladat ellátásához szükséges létszámú készenléti szolgálattal és felszereléssel rendelkezik.
+
+### 9. §
+
+(1) A repülőtéri létesítményi tűzoltóság kivételével a főfoglalkozású létesítményi tűzoltóságnak két percen belül, az alkalomszerűen igénybe vehető létesítményi tűzoltóságnak a riasztástól számított öt percen belül meg kell kezdenie a kivonulást, és állomáshelyéről – optimális esetben – a riasztástól számított tíz percen belül ki kell érkeznie a tűzeset vagy a műszaki mentés helyszínére.
+
+(2) A tűzoltóparancsnoknak vagy az általa megbízott, őt helyettesítő parancsnoki ügyeletesnek késedelem nélkül ki kell vonulni azon eseményekhez, melyekhez a hivatásos tűzoltóság egységei is vonulnak. Parancsnoki ügyeletes az lehet, aki legalább középszintű tűzoltásvezetői jogosultsággal rendelkezik.
+
+## 5. A létesítményi tűzoltóság szervezete, tagjainak képzése
+
+### 10. §
+
+(1) A létesítményi tűzoltóság létszámától és a helyi sajátosságoktól függően a tűzoltó állományból rajok, a rajokból egységek szervezhetők, amit a létesítményi tűzoltóság üzemeltetője köteles írásban szabályozni. A raj létszáma 4–6 fő, az egység 2 rajból áll. A főfoglalkozású létesítményi tűzoltóságok rajait a riasztási fokozat meghatározásánál figyelembe kell venni.
+
+(2) A főfoglalkozású létesítményi tűzoltóságnál alkalmazott beosztások megegyezhetnek a hivatásos tűzoltóságnál alkalmazott beosztásokkal, ha a beosztottak az ahhoz tartozó külön jogszabályban meghatározott végzettséggel rendelkeznek.
+
+(3) A főfoglalkozású létesítményi tűzoltóságnál a foglalkoztatásra vonatkozó egyéb előírások érvényre juttatása mellett a hivatásos tűzoltóságokkal megegyező szolgálati időbeosztás is alkalmazható.
+
+### 11. §
+
+(1) A létesítményi tűzoltóság minden tárgyévet megelőző év december 15. napjáig éves képzési tervet készít, és azt egyetértés céljából megküldi az eljáró hatóságnak. A képzési tervnek tartalmaznia kell elméleti és gyakorlati foglalkozásokat.
+
+(2) A képzési tervet a létesítményi tűzoltóság parancsnoka hagyja jóvá.
+
+(3) A létesítményi tűzoltóság parancsnoka oktatási naplót vezet.
+
+(4) Az oktatási naplónak tartalmaznia kell
+
+a) a képzés helyét, idejét,
+
+b) a képzés időtartamát,
+
+c) a képzés tárgyát,
+
+d) a foglalkozáson részt vett személyek nevét.
+
+### 12. §
+
+(1) A főfoglalkozású létesítményi tűzoltóság képzési tervében a létesítmény sajátosságaihoz igazodóan hetente 2 óra elméleti és 2 óra gyakorlati foglalkozást kell tervezni.
+
+(2) Alkalomszerűen igénybe vehető létesítményi tűzoltóság képzési tervében a létesítmény sajátosságaihoz igazodóan negyedévente 2 óra elméleti és 2 óra gyakorlati foglalkozást kell tervezni.
+
+(3) A főfoglalkozású és az alkalomszerűen igénybe vehető létesítményi tűzoltóság tagjainak évente legalább egy elméleti és egy gyakorlati felmérését a tárgyév december 31-ig végre kell hajtani, a végrehajtás tényét dokumentálni kell.
+
+(4) Az elméleti felmérésnek a létesítmény sajátosságaihoz igazodva tartalmaznia kell legalább
+
+a) 5 égéselmélettel,
+
+b) 5 oltóanyag-ismerettel,
+
+c) 5 építményekben bekövetkezett károk felszámolásával,
+
+d) 5 veszélyes anyag jelenlétében történő beavatkozással
+
+kapcsolatos kérdést.
+
+(5) A gyakorlati felmérésnek a létesítmény sajátosságaihoz igazodva tartalmaznia kell legalább
+
+a) 1 komplex szereléssel,
+
+b) 1 létraszereléssel,
+
+c) 1 szakfelszerelés kötéseivel
+
+kapcsolatos feladatot.
+
+## 6. A létesítményi tűzoltóság irányítása
+
+### 13. §
+
+A létesítményi tűzoltóság általános irányítását a tűzvédelmi szabályzatban vagy az üzemeltető alapító okiratában – közösen létesített létesítményi tűzoltóság esetében az erre vonatkozó megállapodásban – meghatározott egyszemélyi felelős vezető vagy testület látja el, ennek során
+
+a) figyelemmel kíséri a létesítményi tűzoltóság működését,
+
+b) beszámoltatja a létesítményi tűzoltóparancsnokot,
+
+c) kinevezi és felmenti a létesítményi tűzoltóság tagjait, felettük munkáltatói jogokat gyakorol,
+
+d) gondoskodik a létesítményi tűzoltóság tagjait megillető jogok és juttatások biztosításáról,
+
+e) biztosítja a kiképzés és a rendszeres továbbképzés feltételeit,
+
+f) a létesítményi tűzoltóság számára az alaptevékenységet nem akadályozó vagy veszélyeztető további feladatot határozhat meg,
+
+g) meghatározza az ügyeleti, készenléti vagy készenléti jellegű szolgálatellátás követelményeit és elveit, a szakmai követelményekre és helyi sajátosságokra figyelemmel.
+
+### 14. §
+
+A létesítményi tűzoltóság szakmai tevékenységét a tűzoltóparancsnok irányítja, ennek során
+
+a) gondoskodik a tűzoltóság részére előírt tervek elkészítéséről,
+
+b) meghatározza az irányítása alá tartozó szervezeti egység feladatait,
+
+c) gondoskodik az előírt képzések, gyakorlatok és foglalkozások megszervezéséről és megfelelő színvonalú megtartásáról,
+
+d) biztosítja a személyi állomány tagjainak az elrendelt képzéseken és továbbképzéseken, gyakorlatokon történő részvételt,
+
+e) kapcsolatot tart a hivatásos katasztrófavédelmi szerv helyi szervének vezetőivel,
+
+f) intézkedik a tűzoltási és műszaki mentési feladatok végrehajtásáról azokra történő felkészülésről,
+
+g) intézkedik a szolgálatszervezés elkészítéséről,
+
+h) intézkedik a szolgálati okmányok vezetéséről,
+
+i) intézkedik a 15. § (1) bekezdésében meghatározott adatszolgáltatás teljesítéséről,
+
+j) ellenőrzi a létesítményi tűzoltóság állományának tevékenységét, szolgálatellátását,
+
+k) javaslatot tesz a létesítményi tűzoltóság üzemeltetőjének, a tűzoltáshoz, műszaki mentéshez szükséges eszközök, felszerelések felülvizsgálatára, beszerzésére,
+
+l) meghatározza a riasztás rendjét, és biztosítja az ahhoz szükséges feltételeket,
+
+m) ha a fenntartó a tűzoltói állomány számára előírja a fizikai felmérőt, gondoskodik annak végrehajtásáról és ellenőrzéséről.
+
+## 7. A létesítményi tűzoltóságok kötelező adatszolgáltatása
+
+### 15. §
+
+(1) A létesítményi tűzoltóság – jogszabályban meghatározottak szerint – az általa vagy más által felszámolt és hozzá bejelentett tűzesetről, műszaki mentésről – beavatkozást igénylő esemény esetén annak felszámolását követően – haladéktalanul tájékoztatja a működési terület szerinti hivatásos tűzoltóságot. Ha a káresemény a Magyar Honvédség objektumában keletkezett, akkor a honvédelemért felelős miniszter által vezetett minisztériumot kell tájékoztatni.
+
+(2) A tájékoztatás megvalósulása érdekében a főfoglalkozású létesítményi tűzoltóság üzemeltetője köteles gondoskodni a hivatásos katasztrófavédelmi szerv által üzemeltetett Katasztrófavédelmi Adatszolgáltató Program (a továbbiakban: online KAP) alkalmazásáról, a (3) bekezdésben foglalt adatlapok – beavatkozást igénylő esemény esetén annak felszámolását követő – haladéktalan kitöltéséről.
+
+(3) Az online KAP alkalmazása során kötelezően kitöltendő adatlap
+
+a) a Tűzeseti és Műszaki Mentési Adatlap és
+
+b) a Szeradatlap.
+
+(4) Ha az online KAP használata ideiglenes műszaki hiba miatt nem lehetséges, az adatvesztés elkerülése érdekében az adatlapokat papír alapon kell kitölteni, a hiba megszűnését követően az adatlapok feltöltéséről haladéktalanul gondoskodni kell.
+
+(5) Az online KAP alkalmazásához a jóváhagyási jogosultságot, az új felhasználók rögzítését, illetve a meglévő felhasználók törlését, hozzáférési jogosultságuk módosítását a hivatásos katasztrófavédelmi szerv központi szerve kérelem alapján végzi. A kérelem formai követelményeit az 5. melléklet tartalmazza.
+
+## 8. A főfoglalkozású létesítményi tűzoltóságok kötelező okmányai, nyilvántartásai
+
+### 16. §
+
+A főfoglalkozású létesítményi tűzoltóságnak a következő okmányokkal és nyilvántartásokkal kell rendelkezni:
+
+a) szolgálati napló,
+
+b) eseménynapló,
+
+c) oltóanyag-nyilvántartás,
+
+d) káresetfelvételi lap és
+
+e) oktatási napló.
+
+## 9. Vegyes rendelkezések
+
+### 17. §
+
+(1) A létesítményi tűzoltóság köteles részt venni a hivatásos katasztrófavédelmi szerv által létesítményi tűzoltóság vonulási területén, valamint a 3. § (5) bekezdése szerint azon kívül szervezett gyakorlatokon.
+
+(2) A szabadidejében képzésre, gyakorlatra igénybe vett létesítményi tűzoltó részére a létesítményi tűzoltóság üzemeltetője a munkaszerződésben rögzített szabályok szerint köteles térítést biztosítani.
+
+(3) A létesítményi tűzoltók időszakos orvosi vizsgálatáról és annak költségfedezetéről a létesítményi tűzoltóság üzemeltetője köteles gondoskodni.
+
+(4) A létesítményi tűzoltóság üzemeltetője a tűzoltói állomány számára elrendelheti fizikai felmérőn és pszichológiai vizsgálaton való részvételt. Ebben az esetben a felméréssel és a vizsgálattal kapcsolatos költségfedezetről a létesítményi tűzoltóság üzemeltetője köteles gondoskodni.
+
+(5) Az eljáró hatóság nyilvántartja a létesítményi tűzoltóság vonulási területét, nevét, székhelyét, létrehozásának dátumát, létszámát, a tűzoltásba, műszaki mentésbe bevonható technikai eszközét, felszerelését, oltó- és mentesítő anyagait.
+
+### 18. §
+
+A létesítményi tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi eszközök, berendezések, tűzoltó szakfelszerelések kapacitás kihasználását célzó hasznosítása a tűzoltóság fenntartójának és üzemeltetőjének közös engedélyével és felelősségével történhet. A kapacitás kihasználását célzó hasznosítás nem veszélyeztetheti a létesítményi tűzoltóság működőképességét.
+
+## 10. Záró rendelkezések
+
+### 19. §
+
+Ez a rendelet 2024. október 1-jén lép hatályba.
+
+### 20. §
+
+Az eljáró hatóság 2025. október 1-ig felülvizsgálja az önkormányzati és létesítményi tűzoltóságokra, valamint a hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásra vonatkozó szabályokról szóló 239/2011. (XI. 18.) Korm. rendelet alapján létesítményi tűzoltóság működtetésére kötelező határozatait, és szükség esetén módosítja azt, vagy dönt a fenntartási kötelezettség megszűnéséről.
+
+### 21. §
+
+E rendelet hatálybalépésének időpontjában a 2. § (1) bekezdés a) pontja szerinti, meglévő épület üzemeltetője kockázati azonosítási jelentést készít, és az e rendelet hatálybalépését követő 90 napon belül benyújtja a hivatásos katasztrófavédelmi szerv területi szerve részére.
+
+## 1. melléklet a 273/2024. (IX. 19.) Korm. rendelethez
+
+**A kockázat azonosítási jelentés tartalma**
+
+1\. Leírás, amely tartalmazza a létesítmény
+
+1.1. megnevezését, címét, fenntartója nevét, székhelyét, levelezési címét, cégjegyzékszámát, képviselőjének nevét, elérhetőségét,
+
+1.2. tűzvédelmi jellemzőit, így különösen a rendeltetését, az építményben, építményrészben, szabad területen folytatott tevékenység és technológia jellemzőit, alapterületét, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benn tartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket,
+
+1.3. veszélyforrásainak megnevezését, utalással a beavatkozó tűzoltó egységek beavatkozási feltételeinek biztosítására, annak műszaki megoldásaira,
+
+1.4. jellemző veszélyforrásokra és az ott várható komplex beavatkozáshoz szükséges, fenntartó által javasolt minimális erő- és eszközszükségletet,
+
+1.5. közös vállalás esetén az erre vonatkozó megállapodásról szóló hiteles dokumentumot, amely tartalmazza a működtetéssel kapcsolatos kötelezettségeket és
+
+1.6. fenntartójának a kockázat azonosítás teljességére vonatkozó nyilatkozatát.
+
+2\. Rajzmelléklet, amely tartalmazza
+
+2.1. a jelmagyarázatot,
+
+2.2. a méretekkel ellátott, legalább M = 1:200 méretarányú alaprajzokat, amelyek tartalmazzák a helyiségek megnevezését és alapterületét, a tűz- és a füstszakaszhatárok nyomvonalát, veszélyforrásokat, valamennyi alaprajzon feltüntetve az építmény megnevezését, címét és
+
+2.3. a helyszínrajzot.
+
+3\. A fenntartónak a létesítményi tűzoltóság működéséhez kapcsolódó javaslatai, amelyek tartalmazzák
+
+3.1. a napi vagy műszakonkénti legkisebb létszámot, készenlétük idejét, helyét, valamint azt, hogy a létszámot vagy annak egy részét főfoglalkozású vagy alkalomszerűen igénybe vehető tűzoltókkal kívánják biztosítani,
+
+3.2. a tűzoltó egyéni védőfelszerelések típusát, mennyiségét,
+
+3.3. a gépjárműveket, felszereléseket, oltó- és mentesítő anyagokat, tartalékokat és azok mennyiségét és
+
+3.4. a készenléti jellegű szolgálatot ellátók, valamint a gépjárművek és felszerelések elhelyezési körülményeit.
+
+4\. A kockázat azonosítási jelentés készítőjének nevét és elérhetőségét, a készítő aláírását, a készítés dátumát, a készítő jogszabályban meghatározott tűzvédelmi szakmai képesítését igazoló dokumentumot kiállító intézmény nevét, a dokumentum számát, a szakmai képesítés megnevezését, a kiállítás dátumát.
+
+## 2. melléklet a 273/2024. (IX. 19.) Korm. rendelethez
+
+**Az önkéntes vállalás alapján létesítendő létesítményi tűzoltósághoz szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma**
+
+1\. Leírás, amely tartalmazza a létesítmény
+
+1.1. megnevezését, címét,
+
+1.2. az önként vállalás okát, célját,
+
+1.3. tűzvédelmi jellemzőit, így a rendeltetését, az építményben, építményrészben, szabad területen folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benn tartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket és
+
+1.4. érintett műszaki megoldásait.
+
+2\. Rajzmelléklet, amely tartalmazza
+
+2.1. a jelmagyarázatot,
+
+2.2. a méretekkel ellátott, legalább M = 1:200 méretarányú alaprajzokat, amelyek tartalmazzák a helyiségek megnevezését és alapterületét, a tűz- és a füstszakaszhatárok nyomvonalát, veszélyforrásokat, valamennyi alaprajzon feltüntetve az építmény megnevezését, címét és
+
+2.3. a helyszínrajzot.
+
+3\. A fenntartónak a létesítményi tűzoltóság működéséhez kapcsolódó javaslatai, amelyek tartalmazzák
+
+3.1. a napi vagy műszakonkénti legkisebb létszámot, készenlétük idejét, helyét, valamint azt, hogy a létszámot vagy annak egy részét főfoglalkozású vagy alkalomszerűen igénybe vehető tűzoltókkal kívánják biztosítani,
+
+3.2. a tűzoltó egyéni védőfelszerelések típusát, mennyiségét,
+
+3.3. a gépjárművek alapvető tűzoltástechnikai paramétereit, felszereléseket, oltó- és mentesítő anyagokat, tartalékokat és azok mennyiségét és
+
+3.4. a készenléti jellegű szolgálatot ellátók, valamint a gépjárművek és felszerelések elhelyezési körülményeit.
+
+## 3. melléklet a 273/2024. (IX. 19.) Korm. rendelethez
+
+**A létesítményi tűzoltóság fenntartására kötelezett létesítmény(ek) körülményeinek, jellemzőinek megváltozása vagy közösen vállalt fenntartás iránti kérelem mellékletét képező dokumentáció tartalma**
+
+1\. Leírás, amely tartalmazza a létesítmény
+
+1.1. körülményeit, jellemzőit vagy az abban bekövetkező változást,
+
+1.2. a tervezett vagy megváltozott tűzvédelmi jellemzőit, így a rendeltetését, az építményben, építményrészben, szabad területen folytatott tevékenység és technológia jellemzőit, az anyagok éghetőséggel, füstfejlesztéssel, olthatósággal kapcsolatos jellemzőit, a várható tűzjellemzőket, a benn tartózkodó személyek létszámát, elhelyezkedését és menekülési képességét, egyéb jellemzőket és
+
+1.3. érintett műszaki megoldásait.
+
+2\. A létesítményi tűzoltóság fenntartójának változása esetén az új fenntartó vagy fenntartók
+
+2.1. nevét, székhelyét és
+
+2.2. közös vállalás esetén az erre vonatkozó megállapodásról szóló hiteles dokumentumot, amely tartalmazza a működtetéssel kapcsolatos költségek megoszlását.
+
+3\. Rajzmelléklet, amely tartalmazza
+
+3.1. a jelmagyarázatot,
+
+3.2. a méretekkel ellátott, legalább M = 1:200 méretarányú alaprajzokat, amelyek tartalmazzák a helyiségek megnevezését és alapterületét, a tűz- és a füstszakaszhatárok nyomvonalát, valamennyi alaprajzon feltüntetve az építmény megnevezését, címét és
+
+3.3. a helyszínrajzot.
+
+4\. A fenntartónak a létesítményi tűzoltóság működéséhez kapcsolódó javaslatai, amelyek tartalmazzák
+
+4.1. a napi vagy műszakonkénti legkisebb létszámot, készenlétük idejét, helyét, valamint azt, hogy a létszámot vagy annak egy részét főfoglalkozású vagy alkalomszerűen igénybe vehető tűzoltókkal kívánják biztosítani,
+
+4.2. a tűzoltó egyéni védőfelszerelések típusát, mennyiségét,
+
+4.3. a gépjárművek alapvető tűzoltástechnikai paramétereit, felszereléseket, oltó- és mentesítő anyagokat, tartalékokat és azok mennyiségét és
+
+4.4. a készenléti jellegű szolgálatot ellátók, valamint a gépjárművek és felszerelések elhelyezési körülményeit.
+
+## 4. melléklet a 273/2024. (IX. 19.) Korm. rendelethez
+
+**A létesítményi tűzoltóság megszüntetéséhez szükséges engedély iránti kérelem melléklete**
+
+1\. A kérelem tartalmazza a fenntartó nyilatkozatát
+
+1.1. arról, hogy a létesítményi tűzoltóságot jogszabályi kötelezés, hatósági előírás vagy önkéntes vállalás alapján létesítették,
+
+1.2. a jogszabályi kötelezés alapján fenntartott létesítményi tűzoltóság esetén az általa védett létesítmény azon körülményeiről, jellemzőiről, amelyek miatt a létesítést a jogszabály előírta,
+
+1.3. a hatósági előírás alapján fenntartott létesítményi tűzoltóság esetén a hatósági előírást megalapozó körülmény mentő tűzvédelmi szempontú megváltozásáról, valamint
+
+1.4. arról, hogy tudomásul veszi a létesítményi tűzoltóság megszüntetésével kialakuló csökkent biztonsági szintet.
+
+## 5. melléklet a 273/2024. (IX. 19.) Korm. rendelethez
+
+**Az online KAP alkalmazásához jóváhagyási jogosultság iránti kérelem melléklete**
+
+1\. Az online KAP alkalmazásához való jogosultság jóváhagyása iránti kérelem tartalmazza
+
+1.1. az eljáró hatóság által kiadott kötelezés számát,
+
+1.2. a kiindulási adatokat, így különösen a létesítményi tűzoltóság
+
+1.2.1. megnevezését, címét,
+
+1.2.2. vonulási területén működési területtel rendelkező hivatásos tűzoltóság nevét,
+
+1.2.3. vonulási területének nyomvonalát határoló poligont,
+
+1.2.4. kapcsolattartójának adatait.

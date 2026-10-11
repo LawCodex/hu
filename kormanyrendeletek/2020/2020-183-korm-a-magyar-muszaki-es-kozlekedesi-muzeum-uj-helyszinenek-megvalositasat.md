@@ -1,0 +1,189 @@
+---
+title: "183/2020. (V. 6.) Korm. rendelet a Magyar Műszaki és Közlekedési Múzeum új helyszínének megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról"
+identifier: "183/2020. (V. 6.) Korm. rendelet"
+njt_id: "2020-183-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/183"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-05-06
+in_force_from: 2020-05-07
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-183-20-22"
+retrieved: 2026-10-12
+---
+
+# 183/2020. (V. 6.) Korm. rendelet a Magyar Műszaki és Közlekedési Múzeum új helyszínének megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), b), d) és f) pontjában kapott felhatalmazás alapján,
+
+a 3–5. § tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés b) és c) pontjában kapott felhatalmazás alapján,
+
+a 6. § és 7. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 27. pontjában kapott felhatalmazás alapján,
+
+a 10. § tekintetében az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti Budapest belterület 38920/9 helyrajzi számú ingatlanon, illetve ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló, a Magyar Műszaki és Közlekedési Múzeum építését és a Törekvés Művelődési Központ épülete felújítását célzó beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz kapcsolódó, az (1) bekezdés szerinti létesítmények megközelítését, működését és városképi illeszkedését segítő magasépítési, mélyépítési, közterület- és zöldfelület-rendezési, út- és vasútépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákkal kapcsolatosak.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
+
+## 2. §
+
+A Kormány
+
+a)[^1] az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt,
+
+b) az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát
+
+jelöli ki.
+
+## 3. §
+
+A Beruházással összefüggésben
+
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 5. §
+
+Az 1. § (1) bekezdése szerinti ingatlanon – az egyedileg védett műemlék építményrészek kivételével – bontási tevékenység bontási engedély nélkül végezhető azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.
+
+## 6. §
+
+(1) Az 1. § (1) bekezdése szerinti telekre a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+
+a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b)[^2] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) Az 1. § (1) bekezdése szerinti telken művelődési, kereskedelmi, szolgáltató, oktatási, igazgatási és egyéb közösségi szórakoztató épület, irodaépület, a kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telek beépítési módja szabadon álló;
+
+b) a kialakítható telek legkisebb telekterülete 10 000 m<sup>2</sup>;
+
+c) a beépítettség megengedett legnagyobb mértéke 60%;
+
+d) a terepszint alatti beépítés megengedett legnagyobb mértéke 65%;
+
+e) a szintterületi mutató megengedett legnagyobb értéke 2,00 m<sup>2</sup>/m<sup>2</sup>;
+
+f) a zöldfelület megengedett legkisebb mértéke 20%;
+
+g) az épületmagasság megengedett legnagyobb mértéke 21,0 méter;
+
+h) az épületmagasság legkisebb mértéke 0,0 méter;
+
+i) a terepszint feletti és alatti építési hely az érintett ingatlanok teljes területe.
+
+(3) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az OTÉK-ban foglalt, e rendelet hatálybalépésekor hatályos követelmények szerint kell számítani.
+
+(4) A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+## 7. §
+
+(1) Az 1. § (1) bekezdése szerinti telek területén a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározott személygépkocsik számának legalább 35%-a elhelyezését kell biztosítani.
+
+(2) Az (1) bekezdésben megjelölt személygépkocsi-parkolóhelyek részben vagy egészben az 1. § (1) bekezdése szerinti telekhatártól számított 500 méteres távolságon belül parkolóban, parkolóházban vagy a közterületek közlekedésre szánt területei egy részének, illetve a közforgalom céljára átadott magánút egy részének felhasználásával biztosíthatók.
+
+## 8. §
+
+(1) Az 1. § (1) bekezdése szerinti hatósági ügyekben – a (2) bekezdésben foglaltak figyelembevételével – az 1. § (1) bekezdése szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telek helyi építési szabályzat szerinti kialakítása és a telkek összevonása még nem történt meg.
+
+(2) A Beruházás keretében megvalósuló építmények használatbavételi engedélye kiadásának feltétele az (1) bekezdés szerinti ingatlanok tekintetében a helyi építési szabályzatban előírt telekhatár-rendezés végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.
+
+(3) A Beruházás esetén egy épületre vonatkozóan az építési engedély akkor is megadható, ha a létesítendő épület helyszínéül szolgáló terület több telekből áll, továbbá az épületek építési teleknek nem minősülő területen is elhelyezhetők.
+
+## 9. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg, továbbá az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás kivételével – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+## 10. §
+
+A Beruházással összefüggésben a Magyar Műszaki és Közlekedési Múzeumot gazdasági szervezettel rendelkező költségvetési szervnek kell tekinteni.
+
+## 11. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 12. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 183/2020. (V. 6.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. környezetvédelmi hatósági eljárások,
+
+11\. természetvédelmi hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. telekalakításra irányuló hatósági eljárások,
+
+16\. földmérési hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. területrendezési hatósági eljárások,
+
+21.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+22\. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+23\. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § a) pontja az 546/2022. (XII. 22.) Korm. rendelet 240. § a)-b) pontja szerint módosított szöveg.
+[^2]: A 6. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 108. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 309. §-a szerint módosított szöveg.

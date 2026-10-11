@@ -1,0 +1,129 @@
+---
+title: "245/2024. (VIII. 8.) Korm. rendelet a nevelési-oktatási intézményekben a tiltott és a használatában korlátozott tárgyak köréről, valamint a tárgyakra vonatkozó eljárásrend részletes szabályairól"
+identifier: "245/2024. (VIII. 8.) Korm. rendelet"
+njt_id: "2024-245-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/245"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-08-08
+in_force_from: 2024-09-01
+last_amended: 2024-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-245-20-22"
+retrieved: 2026-10-12
+---
+
+# 245/2024. (VIII. 8.) Korm. rendelet a nevelési-oktatási intézményekben a tiltott és a használatában korlátozott tárgyak köréről, valamint a tárgyakra vonatkozó eljárásrend részletes szabályairól
+
+A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés t) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Tiltott tárgyak köre
+
+### 1. §
+
+A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (1) bekezdés b)–j) pontja szerinti nevelési-oktatási intézménybe a tanuló által nem vihető be
+
+a) a közbiztonságra különösen veszélyes eszközökről szóló 175/2003. (X. 28.) Korm. rendelet szerinti közbiztonságra különösen veszélyes eszköz,
+
+b) azon tárgy, amelynek birtoklása
+
+ba) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvényben vagy
+
+bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben
+
+foglaltak szerint büntetendő, vagy
+
+c) a tizennyolcadik életévét be nem töltött személy részére nem értékesíthető termék.
+
+## 2. Használatában korlátozott tárgyak köre
+
+### 2. §
+
+Használatában korlátozott tárgynak minősül
+
+a) a tanítási nap folyamán
+
+aa) az általános iskola 1–8. évfolyamán,
+
+ab) a gimnázium 5–12. évfolyamán,
+
+ac) a szakgimnázium 9–13. évfolyamán,
+
+b) a foglalkozások ideje alatt a kollégiumban,
+
+c) a foglalkozások, tanórák ideje alatt – ideértve az intézményben töltött időt is – az alapfokú művészeti iskola minden évfolyamán vagy
+
+d) a tanórák, a szakmai oktatás, illetve a szakképesítésre felkészítő szakmai képzés szerinti foglalkozások ideje alatt – ideértve az intézményben töltött időt is – a szakiskola minden évfolyamán
+
+a telekommunikációs eszközök – különösen a mobiltelefonok –, a kép- vagy hangrögzítésre alkalmas eszközök és az internetelérésre alkalmas okoseszközök.
+
+## 3. A tiltott és használatában korlátozott tárgyak átvételének és visszaadásának szabályai
+
+### 3. §
+
+(1) A használatában korlátozott tárgy a 2. § szerinti nevelési-oktatási intézménybe bevihető, azzal, hogy a tanuló a használatában korlátozott tárgyat a tanítási nap kezdetén, a tanítási órák megkezdése előtt – kollégiumban a foglalkozás megkezdése előtt – az intézmény házirendjében meghatározottak szerint leadja – a kollégium kivételével – a tanítási nap időtartamára, és azt a házirendben meghatározottak szerint visszakapja.
+
+(2) A használatában korlátozott tárgyat az átvételt követően a nevelési-oktatási intézmény által a házirendben meghatározott elzárt helyen kell tárolni.
+
+(3) Az 1. § a) és c) pontja szerinti tiltott tárgyat a házirendben meghatározott személy veszi át és tárolja visszaadásáig.
+
+(4) Az 1. § a) és c) pontja szerinti tiltott tárgyat – ha annak birtoklását jogszabály nem zárja ki – az a) és b) pontban foglaltak kivételével a tanuló szülőjének,
+
+a) ha a tanuló a 18. életévét betöltötte, a tanulónak, vagy
+
+b) ha kétséget kizáróan megállapítható, hogy a tiltott tárgy tulajdonosa harmadik személy, a harmadik személynek
+
+kell visszaadni.
+
+(5) Az átvett tárgyat az átvétel időpontja szerinti állapotban kell visszaadni az (1) és (4) bekezdés szerinti személy részére.
+
+## 4. A tiltott és használatában korlátozott tárgyakra vonatkozó előírások betartásának ellenőrzése
+
+### 4. §
+
+(1) Ha arra utaló információ merül fel, hogy a tanuló az Nkt. 7. § (1) bekezdés b)–j) pontja szerinti nevelési-oktatási intézmény területén az 1. § b) pontja szerinti tiltott tárgyat tart birtokában, akkor a szabályok betartását a pedagógus, valamint a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott alkalmazott (e § alkalmazásában a továbbiakban együtt: pedagógus) jogosult ellenőrizni, azzal, hogy
+
+a) felszólítja a tanulót annak igazolására, hogy a tiltott tárgy nincs a birtokában, és ezzel egyidejűleg
+
+b) értesíti
+
+ba) a nevelési-oktatási intézmény rendjének fenntartásában közreműködő személyt,
+
+bb) az általános rendőri szervet és
+
+bc) a tanuló szülőjét.
+
+(2) Ha arra utaló információ merül fel, hogy a tanuló az Nkt. 7. § (1) bekezdés b)–j) pontja szerinti nevelési-oktatási intézmény területén
+
+a) az 1. § a) és c) pontja szerinti tiltott tárgyat vagy
+
+b) használatában korlátozott tárgyat engedély nélkül
+
+tart birtokában, akkor a szabályok betartását a pedagógus jogosult ellenőrizni, azzal, hogy elsősorban felszólítja a tanulót a tárgy átadására, amennyiben felszólítás ellenére a tárgyat nem adja át, felszólítja a tanulót annak igazolására, hogy a tiltott vagy használatában korlátozott tárgy nincs a birtokában.
+
+(3) Ha a tanuló
+
+a) az 1. § a) és c) pontja szerinti tiltott tárgyat vagy
+
+b) a használatában korlátozott tárgyat engedély nélkül
+
+birtokában tartja a tanítás vagy a kollégiumi foglalkozás időtartama alatt, azt a tanulótól a pedagógus átveszi.
+
+## 5. A tanuló részére a birtoklás és használat igazgató, valamint pedagógus általi engedélyezése
+
+### 5. §
+
+Az Nkt. 24. § (4) bekezdés b) pontja szerinti esetben a birtoklásra és használatra vonatkozó engedélyezést az igazgató vagy a pedagógus végzi a tanulmányi rendszerben, azzal, hogy rögzíti
+
+a) a birtoklás és a használat célját,
+
+b) az engedély érvényességének időtartamát (tanóra, foglalkozás, tanítási év), továbbá
+
+c) a birtokolható tárgyat.
+
+## 6. Záró rendelkezések
+
+### 6. §
+
+Ez a rendelet 2024. szeptember 1-jén lép hatályba.

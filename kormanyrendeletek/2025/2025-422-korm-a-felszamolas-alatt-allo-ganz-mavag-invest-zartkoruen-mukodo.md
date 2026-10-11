@@ -1,0 +1,179 @@
+---
+title: "422/2025. (XII. 23.) Korm. rendelet a felszámolás alatt álló Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság és kapcsolt vállalkozásai károsultjainak rendkívüli állami kárrendezéséről"
+identifier: "422/2025. (XII. 23.) Korm. rendelet"
+njt_id: "2025-422-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/422"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-12-23
+in_force_from: 2025-12-24
+last_amended: 2025-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-422-20-22"
+retrieved: 2026-10-12
+---
+
+# 422/2025. (XII. 23.) Korm. rendelet a felszámolás alatt álló Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság és kapcsolt vállalkozásai károsultjainak rendkívüli állami kárrendezéséről
+
+[1] A Kormány kiemelt célja, hogy megvédje a nemzetgazdaság stabilitását, valamint a hazai vállalkozásokat és munkahelyeket.
+
+[2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság „felszámolás alatt”, valamint a Magyar Vagon Dunakeszi Járműgyártó, Javító és Karbantartó Korlátolt Felelősségű Társaság „f.a.” és a Ganz-MaVag International Korlátolt Felelősségű Társaság „f.a.” mint a Ganz-MaVag Invest Zártkörűen Működő Részvénytársaság „felszámolás alatt” kapcsolt vállalkozásai (a továbbiakban együtt: Ganz-MaVag Csoport) fizetésképtelensége miatt kárt szenvedett, KKV-nak minősülő vállalkozást (a továbbiakban: károsult) megillető ellenszolgáltatás méltányosságon alapuló, mielőbbi megtérítése érdekében a Magyar Állam rendkívüli állami kárrendezést (a továbbiakban: állami kárrendezés) nyújt az e rendeletben foglaltak szerint.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+1\. *egy és ugyanazon vállalkozás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 5a. pontja szerinti vállalkozás,
+
+2\. *csekély összegű támogatás:* az Atr. 2. § 1. pont a)–e) alpontja szerinti csekély összegű támogatás,
+
+3\. *KKV-nak minősülő vállalkozás:* a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti vállalkozás,
+
+4\. *támogatás:* az Atr. 2. § 1. pontja szerinti támogatás,
+
+5\. *támogatástartalom:* az Atr. 2. § 19. pontja szerinti érték.
+
+## 3. §
+
+(1) Állami kárrendezés keretében támogatásra jogosult az a károsult, amely
+
+a) a Ganz-MaVag Csoport valamely tagjával a felszámolási eljárás megindulását megelőzően kötelmi jogviszonyban állt, és
+
+b) az a) pontban meghatározott jogviszonyából fakadóan a részére ki nem fizetett ellenszolgáltatást illetően e rendelet hatálybalépése napján a Ganz-MaVag Csoport tagjával szemben
+
+ba) a felszámolási eljárásban nyilvántartásba vett követelése van,
+
+bb) a büntetőeljárásban bejelentett polgári jogi igénye van, vagy
+
+bc) olyan követelése áll fenn, amelynek érvényesítése iránt polgári eljárás van folyamatban
+
+[a továbbiakban a ba)–bc) alpont együtt: követelés].
+
+(2) Nem jogosult állami kárrendezés keretében támogatásra
+
+a) a Ganz-MaVag Csoport valamely tagjának a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozása,
+
+b) a hitelintézet és
+
+c) a pénzforgalmi szolgáltató.
+
+(3) Amennyiben a támogatásra jogosult károsult megszűnt, a támogatásra jogosult jogállása annak jogutódját illeti meg.
+
+## 4. §
+
+(1) Az 1. § szerinti állami kárrendezés a 2023/2831 EU bizottsági rendelet hatálya alá tartozó állami támogatásnak minősül.
+
+(2) Az egy és ugyanazon vállalkozás részére a 2023/2831 EU bizottsági rendelet hatálya alá tartozó, bármely három évből álló időszakban Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve a 6. § (2) bekezdés e) pontja szerinti nyilatkozat szerinti támogatást, valamint a 2023/2831 EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(3) A támogatás – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i 2023/2832 EU bizottsági rendelet alapján nyújtott támogatás kivételével – más csekély összegű támogatással a (2) bekezdésben meghatározott felső határig halmozható.
+
+(4) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+## 5. §
+
+(1) Az állami kárrendezés iránti igény elbírálása során a Pest Vármegyei Kormányhivatal (a továbbiakban: kormányhivatal) országos illetékességgel jár el.
+
+(2) Az állami kárrendezés iránti igény az e rendelet hatálybalépését követő 120 napon belül jelenthető be a kormányhivatalnál. A határidő jogvesztő.
+
+## 6. §
+
+(1) A károsult az állami kárrendezés iránti igénybejelentéshez csatolja a rendelkezésére álló, a követelését alátámasztó dokumentumokat, különösen
+
+a) a 3. § (1) bekezdés a) pontja szerinti jogviszonya fennállására,
+
+b) a 3. § (1) bekezdés a) pontja szerinti jogviszonya alapján a Ganz-MaVag Csoport tagja részére teljesített, a Polgári Törvénykönyv szerinti szolgáltatásra, valamint
+
+c) a követelése felszámolási eljárásban, büntetőeljárásban vagy polgári eljárásban történő érvényesítésére
+
+vonatkozó dokumentumokat.
+
+(2) A károsult az igénybejelentéssel egyidejűleg, büntetőjogi felelőssége tudatában tett teljes bizonyító erejű magánokiratban
+
+a) nyilatkozik arról, hogy a szerződésben foglalt kötelezettségeit szerződésszerűen teljesítette, illetve részleges teljesítés esetén mekkora a teljesítés aránya,
+
+b) nyilatkozik arról, hogy a Ganz-MaVag Csoport tagja a szerződésben foglalt ellenszolgáltatást nem teljesítette, illetve részleges teljesítés esetén mennyi a teljesített ellenszolgáltatás összege,
+
+c) hozzájárul ahhoz, hogy személyes adatait a kormányhivatal, a Magyar Államkincstár (a továbbiakban: kincstár) és az állami adóhatóság az e rendeletben meghatározott feladatai ellátása érdekében kezelje,
+
+d) hozzájárul ahhoz, hogy a kormányhivatal, a kincstár és az állami adóhatóság az igénybejelentésben foglaltakat vizsgálja,
+
+e) nyilatkozik arról, hogy a 2023/2831 EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – az igénybejelentés napját megelőző három évben részére, valamint a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére nyújtott csekély összegű támogatásoknak mekkora a támogatástartalma,
+
+f) hozzájárul ahhoz, hogy a jogosulatlanul igénybe vett támogatás Polgári Törvénykönyv szerinti késedelmi kamattal növelt összege vele szemben – önkéntes teljesítés hiányában – végrehajtásra kerüljön,
+
+g) nyilatkozik arról, hogy sor került-e a követelés engedményezésére, engedményezés esetén mekkora a követelés engedményezéséért kapott összeg, továbbá
+
+h) nyilatkozik arról, hogy megfelel az e rendeletben foglalt egyéb jogosultsági feltételeknek.
+
+(3) A károsult az igénybejelentésben – az állami kárrendezés kifizetése érdekében – adatot szolgáltat a pénzforgalmi fizetési számlaszámáról.
+
+## 7. §
+
+(1) A kormányhivatal a hiányos igénybejelentés kiegészítésére, az egyes adatok és nyilatkozatok közötti ellentmondások tisztázására és további adatok szolgáltatására vagy nyilatkozattételre hívhatja fel a károsultat.
+
+(2) A 6. §-nak megfelelő, hiánytalan igénybejelentés benyújtásától vagy a kormányhivatal felhívása esetén annak hiánytalan teljesítésétől számított 8 napon belül a kormányhivatal az állami kárrendezésről támogatói okiratot bocsát ki. A támogatói okirat tartalmazza a károsult adatait és az állami kárrendezés összegét. A támogatói okiratot a kormányhivatal megküldi kifizetés céljából a kincstár, az ellenőrzés érdekében az állami adóhatóság, továbbá – a 6. § (1) bekezdésében megjelölt, a károsult által a kormányhivatalnak benyújtott iratokkal együtt – az állami vagyon felügyeletéért felelős miniszter részére.
+
+(3) Ha a kormányhivatal megállapítja, hogy az igénylő nem jogosult kárrendezésre, vagy az igénybejelentés a felhívás ellenére nem felel meg a 6. §-ban foglaltaknak, a kárrendezési igényt elutasítja.
+
+(4) A kincstár a támogatói okirat kézhezvételét követően haladéktalanul gondoskodik az állami kárrendezés összegének károsult részére átutalással történő kifizetéséről.
+
+(5) A károsultat megillető követelés a támogatói okiratban meghatározott állami kárrendezési összeg és járulékai erejéig e rendelet alapján a Magyar Államra száll át. A támogatói okiratban meghatározott állami kárrendezési összeget meghaladó hitelezői igény felszámolási eljárásban való érvényesítésére a károsult jogosult.
+
+(6) A kincstár a károsult feltüntetésével a kifizetés megtörténtét igazoló iratokat az állami vagyon felügyeletéért felelős miniszter részére haladéktalanul megküldi.
+
+(7) Az állami vagyon felügyeletéért felelős miniszter felel a károsulttól a Magyar Államra szállt követelések és azok járulékai Ganz-MaVag Csoporttal szemben történő érvényesítéséért, valamint gyakorolja a károsultat az átszállást megelőzően megillető követelések érvényesítéséhez szükséges jogokat.
+
+(8) A kormányhivatal, az állami adóhatóság vagy a kincstár megkeresésére a Ganz-MaVag Csoport tagjának felszámolója köteles az állami kárrendezés megállapításával, kifizetésével kapcsolatban, továbbá az állami kárrendezésre való jogosultság hatósági ellenőrzéséhez a megkeresés beérkezésétől számított 8 napon belül adatot szolgáltatni vagy nyilatkozatot tenni.
+
+## 8. §
+
+(1) Az állami adóhatóság az állami kárrendezés igénylésekor tett nyilatkozatok valóságtartalmát valamennyi támogatottnál hatósági ellenőrzés keretében vizsgálja.
+
+(2) Ha az állami adóhatóság a hatósági ellenőrzés során megállapítja, hogy
+
+a) a Magyar Állam által kifizetett állami kárrendezés összege arra jogosulatlan részére került kifizetésre, vagy
+
+b) a Magyar Állam által a jogosult részére kifizetett állami kárrendezés összege magasabb, mint amekkora összeg a követelése alapján megillette volna,
+
+az állami kárrendezésben részesült az állami adóhatóság felszólítására köteles a jogosulatlanul igénybe vett állami kárrendezés összegét a Magyar Állam részére visszatéríteni.
+
+(3) A visszatérítést az állami adóhatóság felszólításában megjelölt kincstári számlára átutalással kell teljesíteni. A visszatérítés mértéke
+
+a) jogosulatlan részére történt kifizetés esetén az állami kárrendezés késedelmi kamattal növelt összege,
+
+b) a követelés alapján a jogosultat megilletőnél magasabb összegű kifizetés esetén a jogosultat jogszerűen megillető és az igénybe vett állami kárrendezés különbözetének késedelmi kamattal növelt összege.
+
+(4) Önkéntes teljesítés hiányában az állami adóhatóság gondoskodik a jogosulatlanul igénybe vett állami kárrendezés késedelmi kamattal növelt összegének érvényesítéséről.
+
+## 9. §
+
+A kincstár az állami kárrendezés összegének euróra történő átváltásánál e kormányrendelet kihirdetését megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott forint/euró devizaárfolyamot alkalmazza.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 11. §
+
+(1) A felszámoló e rendelet hatálybalépését követő 15 napon belül a nyilvántartásba vett követelés károsultjait vagy azok jogutódját az állami kárrendezés iránti igény bejelentésének lehetőségéről írásban tájékoztatja.
+
+(2) Az (1) bekezdés szerinti felszámolói tájékoztató (a továbbiakban: felszámolói tájékoztató) tartalmazza:
+
+a) az arra vonatkozó tájékoztatást, hogy a károsult állami kárrendezés keretében támogatásra jogosult,
+
+b) az állami kárrendezés iránti igény bejelentésének jogvesztő határidejét,
+
+c) az állami kárrendezés iránti igény elbírálását végző szerv megjelölését,
+
+d) az igénybejelentéshez szükséges dokumentumok felsorolását.
+
+(3) A felszámolói tájékoztató nem tartalmazza a károsult nyilvántartásba vett követelésének összegét.
+
+## 12. §
+
+Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatásokkal kapcsolatos szabályokat tartalmaz.

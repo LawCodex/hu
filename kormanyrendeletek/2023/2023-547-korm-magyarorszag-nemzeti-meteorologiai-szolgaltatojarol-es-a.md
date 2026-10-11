@@ -1,0 +1,284 @@
+---
+title: "547/2023. (XII. 12.) Korm. rendelet Magyarország nemzeti meteorológiai szolgáltatójáról és a meteorológiai tevékenységről"
+identifier: "547/2023. (XII. 12.) Korm. rendelet"
+njt_id: "2023-547-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/547"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-12-12
+in_force_from: 2023-12-13
+last_amended: 2025-10-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-547-20-22"
+retrieved: 2026-10-12
+---
+
+# 547/2023. (XII. 12.) Korm. rendelet Magyarország nemzeti meteorológiai szolgáltatójáról és a meteorológiai tevékenységről
+
+A Kormány
+
+a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 37. és 38. pontjában, valamint 110/A. § a) pont af) alpontjában kapott felhatalmazás alapján,
+
+az 5. és a 9. alcím, illetve a 13. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 7. alcím tekintetében a légiközlekedésről szóló 1995. évi XCVII. törvény 73. § (2) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya a Magyarország területén meteorológiai tevékenységet folytató természetes és jogi személyekre, állami szervekre, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezetekre terjed ki.
+
+(2) Nemzetközi szerződés eltérő rendelkezése hiányában e rendelet hatálya kiterjed a nemzetközi szerződésekből adódó meteorológiai feladatok ellátására.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *hiteles meteorológiai adat:* minőségirányítási rendszerrel rendelkező szervezet által működtetett kalibráló laboratóriumban rendszeresen ellenőrzött és kalibrált meteorológiai mérőeszközzel mért vagy abból származtatott meteorológiai adat, ha biztosított a mérőeszköz nemzeti és nemzetközi etalonokra történő visszavezetettsége, és ha a mérőeszköz, valamint telepítési körülményei megfelelnek az (EU) 2017/373 bizottsági végrehajtási rendeletben és a Meteorológiai Világszervezet (a továbbiakban: WMO) és a Nemzetközi Polgári Repülési Egyesület (ICAO) szakmai ajánlásaiban megfogalmazott előírásoknak;
+
+b) *hivatalos meteorológiai információ:* a nemzeti meteorológiai adatbázisból származó hiteles meteorológiai adat és meteorológiai információ;
+
+c) *meteorológiai adat:* minden olyan, a meteorológiai tevékenység végzése során megfigyelt, mért, valamint az ezekből származtatott, mennyiségileg meghatározott adat, amelynek tárgya a légkör, a levegő, valamint a természetes felszín és a talaj legfelsőbb rétegeinek a légkörre és a levegőre hatással lévő eleme és az ezek közti kölcsönhatások állapota;
+
+d) *meteorológiai előrejelzés:* meghatározott jövőbeli időszakra vagy időpontra vonatkozó, a várható meteorológiai viszonyokat leíró információ;
+
+e) *meteorológiai információ:* meteorológiai adat felhasználásával készített következtetés az időjárás, az éghajlat és a levegőkörnyezet múltbeli, fennálló vagy várható állapotára vonatkozóan;
+
+f) *meteorológiai infrastruktúra:* a meteorológiai adat és információ előállítására alkalmas mérő, megfigyelő, infokommunikációs, adatfeldolgozó, megjelenítő, archiváló és szolgáltató rendszer;
+
+g) *meteorológiai mérőeszköz:* valamely meteorológiai adat mérésére alkalmas mérőeszköz;
+
+h) *meteorológiai szolgáltatási tevékenység:* bármely önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett, meteorológiai tevékenységre irányuló gazdasági tevékenység;
+
+i) *meteorológiai szolgáltató:* Magyarország területén meteorológiai szolgáltatási tevékenységet folytató természetes vagy jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet, továbbá állami szerv;
+
+j) *meteorológiai veszélyjelzés:* élet- és vagyonbiztonságot veszélyeztető időjárási jelenségre vonatkozó meteorológiai információ;
+
+k) *nemzeti meteorológiai adatbázis:* az állam tulajdonát képező, meteorológiai adatokat, információkat tartalmazó, ellenőrzött adatbázis.
+
+## 3. Meteorológiai tevékenységek
+
+### 3. §
+
+(1) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 36/A. §-ában meghatározott meteorológiai tevékenység célja, hogy a légkörben lezajló folyamatok és jelenségek feltárásával a légkör múltbeli, fennálló és várható jövőbeni állapotáról hiteles, szakszerű és széles körű tájékoztatást nyújtson.
+
+(2) Meteorológiai tevékenységnek minősül
+
+a) a meteorológiai adatok előállítására alkalmas rendszerek üzemeltetése, meteorológiai adatok begyűjtése, szűrése, feldolgozása, nemzetközi meteorológiai adatok és meteorológiai információk cseréje, beszerzése;
+
+b) a meteorológiai adatok rendszerezése, adatbázisba rendezése, archiválása, meteorológiai adatok és meteorológiai információk minőség-ellenőrzése, kutató és fejlesztő tevékenység folytatása; valamint
+
+c) a meteorológiai információk előállítása, kutató és fejlesztő tevékenység folytatása.
+
+## 4. Az állami meteorológiai tevékenység
+
+### 4. §
+
+Az állami meteorológiai tevékenység körében ellátandó feladatok a Kvt. 38/A. §-ában meghatározottak mellett a következők:
+
+a) a nemzeti meteorológiai adatbázisra támaszkodó elemző, értékelő és előrejelző rendszer működtetése, meteorológiai adatok és meteorológiai információk előállítása;
+
+b) a meteorológiai tevékenység során előállított hiteles meteorológiai adatok és meteorológiai információk közzététele;
+
+c) a polgári és állami célú repülések végrehajtásához szükséges speciális meteorológiai adatok és meteorológiai információk előállítása;
+
+d) az állami rendezvények és programok meteorológiai támogatása; továbbá
+
+e) az állami vízgazdálkodási közfeladatok ellátásához meteorológiai adatok és meteorológiai előrejelzések biztosítása.
+
+## 5. A nemzeti meteorológiai szolgáltató
+
+### 5. §
+
+(1) A 4. §-ban foglalt feladatokat nemzeti meteorológiai szolgáltatóként az állam 100%-os tulajdonában álló nonprofit zártkörűen működő részvénytársasági formában működő egyszemélyes gazdasági társaság (a továbbiakban: Társaság) látja el.
+
+(2) A Társaság társadalmi közszükségletet kielégítő, rendeltetése folytán vasárnap és munkaszüneti napon is működő munkáltató.
+
+## 6. A Társaság feladat- és hatásköre
+
+### 6. §
+
+(1) A Társaság
+
+a) a nemzetközi kötelezettségekkel összhangban földfelszíni, magaslégköri és távérzékelési – általános és szakirányú – meteorológiai mérő-, észlelő-, távközlési és adatfeldolgozó rendszert üzemeltet, tart fenn és fejleszt;
+
+b) a mérések és észlelések alapján meteorológiai és levegőkörnyezeti adatokat gyűjt, feldolgoz, valamint nemzetközi megállapodásai alapján mért, megfigyelt és származtatott adatokat nemzetközi szervezeteknek átad, azoktól átvesz, cserél;
+
+c) meteorológiai információkat állít elő, meteorológiai előrejelzéseket készít, és ezeket nemzetközi megállapodások alapján nemzetközi szervezeteknek átadja, azoktól meteorológiai információkat, meteorológiai előrejelzéseket vesz át;
+
+d) a meteorológiai adatokat és meteorológiai információkat rendszerezve, a nemzeti meteorológiai adatbázisban tárolja és archiválja;
+
+e) a számítások és elemzések alapján a meteorológiai folyamatokról, a szélsőséges időjárási helyzetekről, a főbb éghajlati tényezőkről évente, a tárgyévet követő év március 31-ig a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) részére jelentést készít;
+
+f) hivatalból és haladéktalanul meteorológiai adatokat, meteorológiai információkat és meteorológiai előrejelzéseket szolgáltat, továbbá számításokat és elemzéseket végez a lakosság és az alábbi feladatokat ellátó állami szervek részére:
+
+fa) az élet-, egészség- és vagyonvédelmi,
+
+fb) a katasztrófavédelmi,
+
+fc) a honvédelmi,
+
+fd) a mezőgazdaságot, valamint
+
+fe) a vízgazdálkodást, a vízkárelhárítást érintő
+
+intézkedések meghozatalához a szélsőséges meteorológiai jelenség, folyamat okozta veszély, környezeti katasztrófa, valamint az ipari, nukleáris baleset megelőzése, elhárítása, bekövetkezésük esetén azok megszüntetése, felszámolása érdekében;
+
+g) a közvélemény tájékoztatása érdekében internetes honlapot üzemeltet, melyen meteorológiai adatokat és meteorológiai információkat tesz közzé;
+
+h) előkészíti a nemzetközi szerződésekből eredő jelentéstételi kötelezettségek teljesítése érdekében a környezeti levegő minőségének állapotára vonatkozó adatokat, valamint az ilyen jellegű kötelezettségek teljesítése érdekében az üvegházhatású gázokra és a légszennyező anyagokra vonatkozó emissziós leltárt készít és vezet; továbbá
+
+i) a megújuló energiatermelést támogató meteorológiai szolgáltatásokat fejleszt, a szél- és napenergia termelés előrejelzés hatékonyságát javító előrejelzéseket állít elő.
+
+(2) A Társaság az (1) bekezdésben foglalt feladatainak magas színvonalú ellátása érdekében kutató-fejlesztő tevékenységet folytat.
+
+(3) A Társaság látja el a Levegőtisztaság-védelmi Referencia Központ feladatait.
+
+(4) A Társaság látja el a Nemzeti Alkalmazkodási Térinformatikai Rendszer üzemeltetési feladatait.
+
+(5) A Társaság ellátja a jogszabály által a hatáskörébe utalt környezetvédelmi feladatokat.
+
+## 7. Repülésmeteorológia
+
+### 7. §
+
+(1)[^1] A Kormány az (EU) 2024/2803 európai parlamenti és tanácsi rendelet 10. cikke szerinti meteorológiai szolgáltatóként a polgári célú meteorológiai megfigyelő állomás (MWO), a repülőtéri meteorológiai iroda (AMO) és a légiforgalmi meteorológiai állomás (AMS) funkciók ellátására Magyarország légterében a Társaságot jelöli ki.
+
+(2) A Magyar Honvédség meteorológiai egységei a honvédelmi célú speciális meteorológiai feladatok ellátását, a honvédelmi célú repülések meteorológiai kiszolgálását a Társaság meteorológiai infrastruktúrájához, hivatalos meteorológiai információihoz történő, együttműködési megállapodásban rögzített hozzáférés biztosításával végzik.
+
+(3) A Társaság a repülésmeteorológiai szolgáltatás rendjéről szóló szabályzat kiadásáról szóló rendelet szerint repülésmeteorológiai szolgáltatást végez, továbbá együttműködik a Magyar Honvédséggel a meteorológiai adatok és információk kölcsönös rendelkezésre bocsátása, a kölcsönös tájékoztatás és a 6. § (1) bekezdés f) pontja szerinti események megelőzése és felszámolása érdekében.
+
+## 8. Nemzetközi együttműködés
+
+### 8. §
+
+(1) A Társaság Magyarország tagsága alapján a nemzetközi együttműködésekből származó kötelezettségek ellátása érdekében részt vesz
+
+a) a WMO;
+
+b) a Középtávú Időjárás Előrejelzések Európai Központja (ECMWF) és
+
+c) a Meteorológiai Műholdak Hasznosításának Európai Szervezete (EUMETSAT)
+
+munkájában, ellátja Magyarország képviseletét a nemzetközi megállapodások szerinti nemzetközi szervezetekben, továbbá gondoskodik a nemzetközi szervezetek Magyarországot érintő határozatainak végrehajtásáról.
+
+(2) A Társaság vezetője a Társaságra vonatkozóan – nemzetközi szerződésnek nem minősülő – nemzetközi megállapodásokat köt.
+
+(3) A miniszter – a központi költségvetés tervezése során – gondoskodik Magyarország nemzetközi meteorológiai együttműködésekben való kötelezettségeiből adódó tagsági díjak biztosításáról.
+
+## 9. A meteorológiai szolgáltatási tevékenységre vonatkozó szabályok
+
+### 9. §
+
+Meteorológiai szolgáltatási tevékenységet folytathat
+
+a) az a természetes személy, aki okleveles meteorológus végzettséggel rendelkezik; továbbá
+
+b) az a jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely a tevékenysége végzése céljából okleveles meteorológus végzettséggel rendelkező személyt munkaviszony keretében foglalkoztat, vagy ilyen személlyel munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll.
+
+## 10. A nemzeti meteorológiai adatbázis
+
+### 10. §
+
+(1) A nemzeti meteorológiai adatbázis adatgazda feladatait a Társaság látja el.
+
+(2) Aki Magyarország területén meteorológiai tevékenységet folytat, az általa mért meteorológiai adatokat és előállított meteorológiai információkat a nemzeti meteorológiai adatbázisba, hiteles meteorológiai adatok esetében a hiteles nemzeti meteorológiai adatbázisba juttathatja el. Az adatok adatbázisba juttatásának, kezelésének és további felhasználhatóságának módját az érintettek megállapodásban rögzítik.
+
+(3) A nemzeti meteorológiai adatbázis hiteles meteorológiai adatokat tartalmazó része, a hiteles meteorológiai adatbázis a nemzeti adatvagyon részét képezi.
+
+(4) A Társaság a nemzeti meteorológiai adatbázisból meteorológiai adatokat, meteorológiai információkat szolgáltat.
+
+(5) A Társaság a nemzeti meteorológiai adatbázisban lévő meteorológiai adatokat, információkat elektronikus közzététellel, a meteorológiai közadat portálon nyilvánossá teszi.
+
+(6) Az az állami szerv, amely a feladatai ellátásához állami támogatással létrehozott és fenntartott meteorológiai mérőhálózattal – különösen a hidrometeorológiai és radiológiai mérőhálózattal – rendelkezik, az általa mért meteorológiai adatokat a Társaság által fenntartott nemzeti meteorológiai adatbázisba, hiteles meteorológiai adatok esetében a hiteles nemzeti meteorológiai adatbázisba eljuttatja, kivéve, ha az nemzetbiztonsági vagy honvédelmi érdeket sértene. Az adatok adatbázisba juttatásának, kezelésének és további felhasználhatóságának módját az érintettek megállapodásban rögzítik.
+
+(7) Állami szerv és az állami tulajdonú gazdálkodó szervezet feladatai ellátásához a nemzeti meteorológiai adatbázisból, valamint a hiteles nemzeti meteorológiai adatbázisból származó meteorológiai adatokat és meteorológiai információkat veheti igénybe.
+
+(8) A Társaság az általa gyűjtött adatokat egyedi azonosításra alkalmas módon a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-a szerint a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen átadja, és az átadott adatokat a Központi Statisztikai Hivatal által statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodás rögzíti.
+
+(9) A meteorológiai közadat portálon nyilvánossá tett meteorológiai adatok és meteorológiai információk ingyenesen felhasználhatók. Amennyiben állami szerv, állami tulajdonú gazdálkodó szervezet vagy a 11. §-ban meghatározott követelményeknek megfelelő meteorológiai szolgáltatási tevékenységet folytató személy a meteorológiai közadat portálról származó adatok felhasználásával egyedi, hozzáadott értéket tartalmazó szolgáltatást végez, a hozzáadott érték előállításának költségét jogosult a felhasználótól igényelni.
+
+## 11. A nyilvánosság tájékoztatása
+
+### 11. §
+
+(1) A nyilvánosság meteorológiai tájékoztatása során a meteorológiai szolgáltató feladata a gyors, pontos tájékoztatás nyújtása a felhasznált meteorológiai adatok és információk forrásának megjelölésével.
+
+(2) A nyilvánosság meteorológiai tájékoztatására irányuló tevékenység során, a természetes és jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet a meteorológiai adatokat – amennyiben azok nem felelnek meg a hiteles meteorológiai adat követelményeinek – az adatok minőségét a „nem hiteles adat” kifejezés használatával megjelölve teszi elérhetővé és szolgáltatja.
+
+(3) Magyarország területére meteorológiai veszélyjelzést a Társaság adhat ki. A meteorológiai veszélyjelzés kiadásának és visszavonásainak feltételrendszerét a WMO ajánlásainak figyelembevételével a Társaság vezetője belső utasításban szabályozza. Kivételt képeznek ez alól az egyéb állami szervek saját felhasználású meteorológiai veszélyjelzései.
+
+(4) Veszélyhelyzet vagy kiterjedt káresemény időszakában a meteorológiai adatokra és meteorológiai információkra vonatkozó, élet- és vagyonvédelmet érintő lakossági tájékoztatás kiadása a Társaság feladata, együttműködve a veszélyhelyzet vagy a kiterjedt káresemény leküzdésében részt vevő állami szervekkel.
+
+## 12. Záró rendelkezések
+
+### 12. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–11. alcím, a 13. § (2)–(8) bekezdése és a 15. § 2024. január 1-jén lép hatályba.
+
+### 13. §
+
+(1) Az Országos Meteorológiai Szolgálat mint a környezetvédelemért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv 2023. december 31-én jogutód nélkül megszűnik, az általa ellátott feladatokat a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság veszi át 2024. január 1. naptól. Az Országos Meteorológiai Szolgálat e rendelet szerinti feladatellátással összefüggő jogosultságai és kötelezettségei 2024. január 1-jétől a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaságot jogosítják, illetve kötelezik (e § alkalmazásában a továbbiakban együtt: jogutódlás).
+
+(2) Az (1) bekezdés szerinti jogutódlás kiterjed az Országos Meteorológiai Szolgálat által ellátott feladatokkal összefüggő valamennyi jogviszonyra, így különösen
+
+a) az Országos Meteorológiai Szolgálat közfeladata ellátásához kapcsolódó vagyoni jogra és kötelezettségre;
+
+b) az Országos Meteorológiai Szolgálat által kötött szerződésekből eredő jogokra, befejezetlen beruházásokra, készletekre, követelésekre, támogatásokra és kötelezettségekre.
+
+(3) Az (1) bekezdés szerinti jogutódlás az Országos Meteorológiai Szolgálattal szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt, kártérítési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(4) A folyamatban lévő közbeszerzési és beszerzési eljárásokba 2024. január 1. napján az Országos Meteorológiai Szolgálat helyébe a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság lép.
+
+(5) Az Országos Meteorológiai Szolgálatnál 2023. december 31-én foglalkoztatott kormánytisztviselők kormánytisztviselői kormányzati szolgálati jogviszonya a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-a alapján 2024. január 1-jén munkaviszonnyá alakul át, a munkavállaló munkáltatója a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
+
+(6) A Pest Vármegyei Kormányhivatalnál, a Csongrád-Csanád Vármegyei Kormányhivatalnál, a Győr-Moson-Sopron Vármegyei Kormányhivatalnál, a Fejér Vármegyei Kormányhivatalnál, a Baranya Vármegyei Kormányhivatalnál, a Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalnál és a Hajdú-Bihar Vármegyei Kormányhivatalnál az Országos Légszennyezettségi Mérőhálózat üzemeltetéséhez kapcsolódó álláshelyeken 2024. június 30-án foglalkoztatott, az Országos Légszennyezettségi Mérőhálózat üzemeltetéséhez kapcsolódó feladatokat ellátó kormánytisztviselők kormányzati szolgálati jogviszonya a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-a alapján 2024. július 1-jén munkaviszonnyá alakul át, a munkavállaló munkáltatója a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
+
+(7) A Herman Ottó Intézet Nonprofit Kft. által végzett környezetvédelemmel kapcsolatos közfeladatok, szakmai projektek, az azokhoz kötődő magánjogi jogok és kötelezettségek, valamint a feladatok ellátásához szükséges foglalkoztatotti állomány és eszközök, továbbá az átkerülő feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében a Herman Ottó Intézet Nonprofit Kft. jogutódja a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság. A jogutódlás napja 2024. január 1.
+
+(8) Az (5) és a (6) bekezdés szerinti munkavállaló munkabérét a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság úgy állapítja meg, hogy az nem lehet kevesebb, mint amekkora összegre az érintett – kormányzati szolgálati jogviszonyban illetményként – a kinevezési okirat alapján az (5) bekezdés szerinti esetben 2023. december 31-én, a (6) bekezdés szerinti esetben 2024. június 30-án jogosult volt.
+
+(9) A repülésmeteorológiai tevékenységének folyamatosságának biztosítása érdekében a feladatátadás szerinti jogelőd, Országos Meteorológiai Szolgálat részére kiadott léginavigációs szolgáltató tanúsítvány vonatkozásában a feladatátadás szerinti jogutód HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság e bekezdés hatálybalépését követően haladéktalanul, de legkésőbb 2023. december 20. napjáig bejelenti a légiközlekedési hatóságnak a tanúsítványt érintő, az (1) bekezdés szerinti feladat jogutódlást, egyúttal igazolja, hogy az a tanúsítvány kiadásához szükséges feltételek, így különösen a biztonságos, hatékony, folyamatos és fenntartható módon történő szolgáltatás ellátás, valamint a megfelelő technikai és működési kapacitás és szakértelem tekintetében – a 2023. november 30-i állapotot alapul véve – nem eredményez változást, valamint rendelkezik felelős vezetővel.
+
+(10) A (9) bekezdésben foglalt feltételek teljesülése esetén a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság feladat jogutódként 2024. március 31. napjáig végezheti a tevékenységet, azzal, hogy 2024. január 15. napjáig új léginavigációs szolgáltató tanúsítvány kiadását kérelmezi.
+
+### 14. §
+
+(1) Ez a rendelet
+
+a) a közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvnek,
+
+b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek,
+
+c) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról szóló, 2007. március 14-i 2007/2/EK európai parlamenti és tanácsi irányelvnek,
+
+d) a nyílt hozzáférésű adatokról és a közszféra információinak további felhasználásáról szóló, 2019. június 20-i (EU) 2019/1024 európai parlamenti és tanácsi irányelvnek,
+
+e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) Ez a rendelet
+
+a)[^2] az egységes európai égbolt végrehajtásáról szóló, 2024. október 23-i (EU) 2024/2803 európai parlamenti és tanácsi rendelet;
+
+b) az európai Föld-megfigyelési programról (GMES) szóló 911/2010/EU európai parlamenti és tanácsi rendeletnek a GMES-felhasználókra vonatkozó nyilvántartásba vételi és engedélyezési feltételek és a különös GMES-adatokhoz és a GMES-szolgáltatásokból származó információkhoz való hozzáférés korlátozására vonatkozó kritériumok meghatározása révén történő kiegészítéséről szóló, 2013. július 12-i 1159/2013/EU felhatalmazáson alapuló bizottsági rendelet;
+
+c) a Kopernikusz-program létrehozásáról és a 911/2010/EU rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 377/2014/EU európai parlamenti és tanácsi rendelet;
+
+d) a légiforgalmi szolgáltatást/légi navigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 7. § (1) bekezdése a 310/2025. (X. 9.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^2]: A 14. § (2) bekezdés a) pontja a 310/2025. (X. 9.) Korm. rendelet 11. §-ával megállapított szöveg.

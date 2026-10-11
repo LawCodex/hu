@@ -1,0 +1,203 @@
+---
+title: "577/2023. (XII. 18.) Korm. rendelet a Károli Gáspár Református Egyetem beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "577/2023. (XII. 18.) Korm. rendelet"
+njt_id: "2023-577-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/577"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-12-18
+in_force_from: 2023-12-19
+last_amended: 2025-12-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-577-20-22"
+retrieved: 2026-10-12
+---
+
+# 577/2023. (XII. 18.) Korm. rendelet a Károli Gáspár Református Egyetem beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–e) és g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű beruházássá nyilvánítja a Károli Gáspár Református Egyetem részére új, átfogó egyetemi campus létrehozásához szükséges, a Budapest IX. kerület belterület 36840/7, 36840/8 és a 36847 helyrajzi számú ingatlanokon megvalósuló beruházást (a továbbiakban: Beruházás), és kiemelt jelentőségű üggyé nyilvánítja a Beruházással összefüggő, 1. mellékletben felsorolt hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez, üzemeltetésének beindításához közvetlenül kapcsolódó tömegközlekedéssel kapcsolatos védvonalakra, infrastruktúrára, útépítési, létesítmény megközelítését, működését és városképi illeszkedését segítő – közterület- és zöldfelület-rendezési, közlekedésfejlesztési, közműcsatlakozási és -fejlesztési – munkákra vonatkoznak,
+
+c) az (1) bekezdésben a Beruházás megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
+
+## 2. §
+
+A Beruházás során
+
+a)[^2] az építési tevékenységgel érintett telek közvetlen környezetébe tartozik a Budapest IX. kerület 36850/1, 36807/1, 36839 helyrajzi számú ingatlan,
+
+b) az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartama 2024. január 1. – 2028. december 31.
+
+## 3. §
+
+(1) A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+(2)[^3] A Kormány az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány az adott beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 5. §
+
+A Beruházással összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni,
+
+b) településképi bejelentési eljárásnak nincs helye,
+
+c) településkép-védelmi tájékoztatást és szakmai konzultációt nem kell lefolytatni,
+
+d) a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 55. §-a szerinti közterület-alakítási terv készítésének és alkalmazásának nincs helye.
+
+## 6. §
+
+A Beruházás esetében az egységes elektronikus közműnyilvántartásról szóló kormányrendeletet azzal kell alkalmazni, hogy a közműegyeztetés során a közművezeték-üzemeltetőnek öt napon belül nyilatkoznia kell az érintettségéről. Amennyiben a közművezeték-üzemeltető úgy nyilatkozik, hogy érintett, a további kérdésekről további tizenöt napon belül kell nyilatkoznia, az adott szakágra vonatkozó előírások szerint.
+
+## 7. §
+
+(1)[^4] A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, a természetvédelmi hatósági eljárás, a vízügyi és vízvédelmi, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása, a vízügyi és vízvédelmi, valamint iparbiztonsági szakhatósági eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+## 8. §
+
+A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett a magántulajdonban álló ingatlanokon lévő fás szárú növények vonatkozásában is a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása a földrészlet adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, kivágással érintett ingatlan vagyonkezelője vagyonkezelésében álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+## 9. §
+
+(1) A Beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+
+a) a hatályos településrendezési terv vagy az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
+
+b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2)[^5] A Beruházással érintett, Budapest IX. kerület belterület 36840/8 helyrajzi számú ingatlanra vonatkozó sajátos építés szabályok és egyedi építési követelmények:
+
+a) a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 50%-ának elhelyezését kell biztosítani,
+
+b) a zöldfelület a Beruházással érintett telkeken belül korlátozás nélkül bárhol kialakítható,
+
+c) a Beruházással érintett telkeken a zöldfelület megengedett legkisebb mértéke 3%,
+
+d) a Beruházással érintett telkeken az egybefüggő, legalább 10 m<sup>2</sup>-t elérő tetőkerteknél, 21–40 cm termőréteg, egyszintes növényállományú, félintenzív zöldtető kialakítása esetén a tetőkert összterületéből 100% beszámítható zöldfelületként,
+
+e) a Beruházással érintett telkeken a beépítettség megengedett legnagyobb mértéke terepszint felett 100%.
+
+## 9/A. §[^6]
+
+(1) A Beruházás esetében az 1. § (1) bekezdésében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra a beépítés és a telekalakítás egyedi szabályait, valamint az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+
+a) a hatályos településrendezési terv és az OTÉK, illetve a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2)–(5) bekezdésben foglalt eltéréssel kell alkalmazni, és
+
+b) ha a hatályos településrendezési terv vagy az OTÉK, illetve a TÉKA a beépítés (2)–(5) bekezdésben meghatározott sajátos szabályával ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot, illetve a TÉKA-t nem lehet alkalmazni.
+
+(2) A Beruházás esetében az 1. § (1) bekezdésében megjelölt ingatlanokra és az azokból telekalakítással kialakításra kerülő ingatlanokra vonatkozóan a beépítés és a telekalakítás egyedi szabályai, valamint az egyedi építési követelmények a következők:
+
+1\. új épület építése esetén a meglévő szomszédos épület, illetve épületek párkánymagasságához ± 3,0 méteres eltéréssel kell csatlakozni,
+
+2\. a meglévő épületek szintmagasságaihoz igazított tanterem vagy foglalkoztató belmagassága kevesebb is lehet, mint 3,0 méter, abban az esetben, ha a helyiség mesterséges szellőzéssel ellátott, de a belmagasságnak ebben az esetben is el kell érnie a 2,7 métert,
+
+3\. a TÉKA 5. melléklete szerint meghatározott kerékpár és motorkerékpár várakozóhelyek legalább 50%-ának elhelyezését kell biztosítani,
+
+4\. a TÉKA 85. § (8) bekezdése szerint kell az ajtó beépítését tervezni és megvalósítani, azzal, hogy az ajtó nyitásirányába eső használati szabad terület mérete minimum 1,60 × 1,60 méter,
+
+5\. a TÉKA 87. § (6) bekezdését úgy kell alkalmazni, hogy a kiürítési útvonalba eső lépcsők közül összesen egy darab lépcsőnek kell alkalmasnak lennie akadálymentes használatra 1,50 méter szabad karszélességgel.
+
+(3) A Budapest IX. kerület, belterület 36840/7 és 36840/8 helyrajzi számú ingatlanokból telekösszevonással kialakult, 36840/8 helyrajzi számú ingatlan legnagyobb általános szintterülete, illetve legnagyobb parkolóterülete nem lépheti túl az e rendelkezés hatálybalépésekor hatályos szabályok szerint biztosított – a meglévő épület átépítése, emeletráépítés, bővítés és az új épület létesítése esetén alkalmazandó tényleges értékek összevonásával kialakított, egységes – mértéket, mely
+
+a) a legnagyobb általános szintterület esetében 5,0 m<sup>2</sup> / telek m<sup>2</sup>,
+
+b) a legnagyobb parkolóterület esetében 3,0 m<sup>2</sup> / telek m<sup>2</sup>.
+
+(4) A Beruházás esetében a közterület alá történő benyúlás mértéke maximum 3,0 méter lehet, ha a tervdokumentációval igazolható, hogy az nem veszélyezteti a közműszolgáltatók közműveinek műszaki állapotát, biztonságát, üzemeltetését, rendeltetésszerű használatát és karbantarthatóságát, valamint lehetővé teszi esetleges áthelyezésüket, és biztosítja a közútkezelő érvényes előírásait, érdekeit.
+
+(5) A 36847 helyrajzi számon elhelyezkedő Markusovszky tér
+
+a) területének zöldfelületi minimumértéke nem lehet alacsonyabb az e rendelkezés hatálybalépésekor fennálló, tényleges állapot értékénél, amely alapján a területet minimum 50%-os zöldfelülettel szükséges kialakítani és fenntartani,
+
+b) fejlesztése során a számított zöldtérfogat egyenértékűségnek a Beruházás megvalósulása után a műszaki átadás-átvétel időpontjától számított tizedik évben kell megfelelnie a védendő és a telepített növényzet telepítéstől továbbfejlődött zöldtérfogatának.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 11. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 12. §[^7]
+
+(1) E rendeletnek a Károli Gáspár Református Egyetem beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 577/2023. (XII. 18.) Korm. rendelet módosításáról szóló 381/2025. (XII. 5.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 9/A. §-át, továbbá módosított 1. § (1) bekezdését, 3. § (2) bekezdését és 9. § (2) bekezdését a Módr1. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+(2) A Beruházás esetében a 2025. július 1. napját megelőzően indult építési engedélyezési eljárások (e § alkalmazásában a továbbiakban: alapeljárások) alapján 2025. június 30. napját követően kiadott és véglegessé vált építési engedély módosítására irányuló építésügyi hatósági engedélyezési eljárásokban az alapeljárásokra vonatkozó, azokban alkalmazandó településrendezési és építési követelmények – a 9/A. §-ban foglalt eltérésekkel – az irányadóak.
+
+## 1. melléklet az 577/2023. (XII. 18.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+6\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+9\. hírközlési hatósági eljárások,
+
+10\. környezetvédelmi hatósági eljárások,
+
+11\. természetvédelmi hatósági eljárások,
+
+12\. útügyi hatósági eljárások,
+
+13\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+14\. telekalakításra irányuló hatósági eljárások,
+
+15\. földmérési hatósági eljárások,
+
+16\. közegészségügyi hatósági eljárások,
+
+17\. területrendezési hatósági eljárások,
+
+18.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+19\. erdészeti hatósági eljárások,
+
+20\. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+21\. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 381/2025. (XII. 5.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a) pontja a 381/2025. (XII. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 381/2025. (XII. 5.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 361. §-a szerint módosított szöveg.
+[^5]: A 9. § (2) bekezdés nyitó szövegrésze a 381/2025. (XII. 5.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^6]: A 9/A. §-t a 381/2025. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 12. §-t a 381/2025. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2025. december 6.
+[^9]: Az 1. melléklet 18. pontja a 257/2024. (VIII. 29.) Korm. rendelet 361. §-a szerint módosított szöveg.

@@ -1,0 +1,523 @@
+---
+title: "516/2020. (XI. 25.) Korm. rendelet az Országos Kórházi Főigazgatóság feladatairól"
+identifier: "516/2020. (XI. 25.) Korm. rendelet"
+njt_id: "2020-516-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/516"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-11-25
+in_force_from: 2020-11-26
+last_amended: 2025-06-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-516-20-22"
+retrieved: 2026-10-12
+---
+
+# 516/2020. (XI. 25.) Korm. rendelet az Országos Kórházi Főigazgatóság feladatairól
+
+A Kormány
+
+az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 7. § (1), (7)–(9) és (11) bekezdése tekintetében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 7. § (2) és (3) bekezdése tekintetében az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdés a), d) és e) pontjában kapott felhatalmazás alapján,
+
+a 7. § (4)–(6) bekezdése tekintetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 38. § (3) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+a 11. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 12. § tekintetében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 38. § (3) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 13. § tekintetében az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 16. § (14) bekezdés a), d) és e) pontjában kapott felhatalmazás alapján,
+
+a 14. § tekintetében az önálló orvosi tevékenységről szóló 2000. évi II. törvény 3. § (9) bekezdés a) pontjában kapott felhatalmazás alapján,
+
+a 15. § tekintetében a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (2) bekezdés d) pontjában kapott felhatalmazás alapján,
+
+a 16. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+a 17. § tekintetében létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény 14. § a) pontjában kapott felhatalmazás alapján,
+
+a 18. § tekintetében az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés y) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Ez a rendelet az Országos Kórházi Főigazgatóságról szóló 506/2020. (XI. 17.) Korm. rendelet alapján létrehozott Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) feladatait határozza meg.
+
+(2) E rendelet alkalmazása során az egészségügyi intézmények irányításáról szóló jogszabályok szerinti fogalommeghatározásokat kell figyelembe venni.
+
+## 2. §
+
+(1)[^1] Az OKFŐ – a (2) és (3) bekezdés szerinti egészségügyi szolgáltatók kivételével – ellátja
+
+a)[^2] az országos gyógyintézetek, az országos társgyógyintézetek és a Nemzeti Dialízis Központ, valamint
+
+b) az állam fenntartásában, illetve tulajdonában lévő – az *a)* pont alá nem tartozó – egészségügyi intézmények
+
+tekintetében az országos kórház-főigazgató számára az e rendeletben és a Kormány által külön rendeletben meghatározott fenntartói és irányítási jogok, a gazdasági társaságok tekintetében a tagsági jogok, valamint az alapítványok esetében az alapítói jogok gyakorlásával kapcsolatos feladatokat.
+
+(2) Az OKFŐ ellátja az orvos- és egészségtudományi felsőoktatási intézmények klinikai központjai tekintetében az országos kórház-főigazgató számára a Kormány által külön rendeletben meghatározott feladatokat.
+
+(3) Az OKFŐ ellátja
+
+a) a honvédelmi miniszter által irányított egészségügyi szolgáltató, valamint
+
+b) az *a)* pont szerinti szolgáltató irányítása alá tartozó egészségügyi szolgáltató
+
+tekintetében az országos kórház-főigazgató számára a Kormány külön rendeletében meghatározott feladatokat.
+
+(4) Az OKFŐ ellátja az egészségügyi intézmények vezetői és foglalkoztatottjai tekintetében az országos kórház-főigazgató számára külön jogszabályban meghatározott munkáltatói jogok gyakorlásával kapcsolatos feladatokat.
+
+(5) Az OKFŐ – az (1)–(5) bekezdésben foglaltakon túl – középirányító szervként közreműködik az egészségügyért felelős miniszternek (a továbbiakban: miniszter) az egészségügyi intézmények fenntartásával és irányításával kapcsolatos feladatai, valamint – a miniszter erre irányuló utasítása esetén – az ágazati szakmai irányítási feladatok ellátásában.
+
+(5a)[^3] Az OKFŐ gyakorolja a 2. § (1) bekezdés a) és b) pontja szerinti egészségügyi szolgáltatók felett az államháztartásról szóló 2011. évi CXCV. törvény 9. § b) és g)–i) pontja szerinti irányítási hatásköröket.
+
+(6) Az OKFŐ – az (1)–(6) bekezdésben foglaltakon túl – ellátja az OKFŐ, illetve az országos kórház-főigazgató számára jogszabályban meghatározott egyéb feladatokat.
+
+## 3. §
+
+(1) Az OKFŐ a 2. § (1) bekezdése szerinti feladatkörében eljárva
+
+a) érvényesíti, illetve – módszertani segítséget is nyújtva – érvényesítteti a közfeladatok ellátására vonatkozó követelményeket, és az erőforrásokkal – így az előirányzatokkal, a létszámokkal és a vagyonnal – való szabályszerű és hatékony gazdálkodás követelményeit, továbbá számon kéri, ellenőrzi e követelmények érvényre juttatását,
+
+b) javaslatot tesz az egészségügyi intézmény éves költségvetésére, és azt megküldi a miniszternek,
+
+c) meghatározza az egészségügyi intézmények gazdálkodásának részletes rendjét,
+
+d) meghatározza az egészségügyi intézmények előirányzatainak felhasználására vonatkozó irányelveket,
+
+e) szervezi, irányítja és ellenőrzi a szakmai feladatok végrehajtásához szükséges pénzügyi feltételeket,
+
+f) előkészíti és jóváhagyásra a miniszternek megküldi az egészségügyi szolgáltatókat érintő éves és az európai uniós tervezési ciklusokhoz igazodó többéves fejlesztési tervet, jelentős igényeltérés esetén kezdeményezi annak módosítását,
+
+g) előkészíti és jóváhagyásra a miniszternek megküldi az egészségügyi szolgáltatók szakellátási kapacitásait és ellátási területeit érintő – a legalább az adott egészségügyi szolgáltató lekötött kapacitásának 10%-át elérő mértékű, vagy az adott szolgáltatónál szakmacsoport közfinanszírozásának megszűnését eredményező – módosításokat, feladatátadásokat, átcsoportosításokat bemutató éves tervet és annak módosítását,
+
+h) előkészíti és jóváhagyásra a miniszternek megküldi az egészségügyi szolgáltató lekötött kapacitásának 10%-át elérő vagy azt meghaladó tervezett funkcióváltást,
+
+i) összegyűjti, ellenőrzi az intézmények gazdálkodására vonatkozó kötelező, rendszeres és ad hoc jellegű adatszolgáltatásokat, szükség szerint összesítve továbbítja azokat a miniszter által vezetett minisztérium részére,
+
+j) előkészíti és jóváhagyás céljából megküldi a miniszternek a miniszter által vezetett minisztérium költségvetési fejezetének a gyógyító-megelőző ellátás szakintézményeire vonatkozó címén belül az előirányzat- és létszám-átcsoportosításokat.
+
+(2) Az OKFŐ a 2. § (1) bekezdése szerinti egészségügyi intézmények vonatkozásában
+
+a) a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendeletben meghatározott körben gondoskodik az egészségügyi központosított közbeszerzési igények kontrolljáról, – indokolt esetben – jóváhagyásáról,
+
+b) ellátja az egészségpolitika kialakításához és a döntés-előkészítéshez szükséges, valamint a hazai és egyéb támogatási forrásokból megvalósuló fejlesztések, egyes európai uniós alapokból, az EGT, a Norvég Alap és a Svájci–Magyar Együttműködési Program kezdeményezések és programok tervezésével és lebonyolításával kapcsolatos feladatokat, kiemelten ezek projektmenedzsment feladatait. Részt vesz továbbá az egészségügyi ellátórendszer és az ellátó kapacitások fejlesztését célzó innovációs projektek, valamint társulási és együttműködési programok kialakításában és végrehajtásában.
+
+c)[^4] központi fogyóeszközkészletet működtet.
+
+(3)[^5] A 2. § (1) bekezdése szerinti egészségügyi intézmény és a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse közötti, a szolgáltatás nyújtásával összefüggő peres és nemperes eljárásban (ideértve a peren kívüli megállapodással kapcsolatos eljárást is) az intézmény jogi képviseletét olyan személy láthatja el, akihez az OKFŐ hozzájárult.
+
+## 4. §[^6]
+
+Az OKFŐ az irányító vármegyei intézmény fenntartásában lévő egészségügyi intézmények tekintetében
+
+a)[^7] az irányító vármegyei intézmény kezdeményezése alapján javaslatot tesz az irányító vármegyei intézmény fenntartásában lévő intézmény létesítésére, átszervezésére, megszüntetésére, nevének megállapítására irányuló döntés meghozatalára a miniszter részére,
+
+b) országos szinten közreműködik a területi egészségügyi feladatellátás megszervezése irányainak meghatározásában,
+
+c)[^8] koordinálja a támogatási forrásokból megvalósuló fejlesztések, európai uniós programok tervezésével és lebonyolításával kapcsolatos feladatokat, gondoskodik az irányító vármegyei intézmények pályázati és projekttevékenységének összehangolásáról,
+
+d)[^9] ellátja az irányító vármegyei intézmény és a fenntartásában lévő egészségügyi intézmények vonatkozásában az informatikai rendszerek fejlesztéséhez kapcsolódó feladatokat,
+
+e)[^10] gondoskodik az irányító vármegyei intézmények fenntartói tevékenységének szakmai, stratégiai összehangolásáról,
+
+f)[^11] biztosítja az irányító vármegyei intézmények fenntartásában lévő intézmények fejlesztéseinek országos és térségi szinten összehangolt megvalósítását,
+
+g)[^12] szakmai támogatást biztosít az irányító vármegyei intézmények fenntartásában lévő intézmények fejlesztési terveinek kidolgozásához és megvalósításához,
+
+h)[^13] hazai és európai uniós forrásból finanszírozott fejlesztést valósít meg az irányító vármegyei intézmények fenntartásában lévő intézmények együttműködésével,
+
+i)[^14] jóváhagyja az irányító vármegyei intézmények által elkészített fejlesztési terveket,
+
+j)[^15] az irányító vármegyei intézmények által fenntartott intézmények kérelmére, az irányító vármegyei intézmények véleményének kikérésével dönt az irányító vármegyei intézmény és az általa fenntartott intézmény közti betegellátást érintő vitás kérdésekben.
+
+## 4/A. §[^16]
+
+(1) Az OKFŐ működteti a külön jogszabály szerinti központi kórházi integrált gazdálkodási rendszer (a továbbiakban: KKIGR) központi elemeit, továbbá ehhez kapcsolódóan – az érintett egészségügyi szolgáltató fenntartójának bevonásával – gondoskodik
+
+a) az egységesített számlatükör és kontrolling kézikönyv,
+
+b) az egységesített gyógyszercikktörzs,
+
+c) az egységesített műszer-, eszköz- és anyagnyilvántartási módszertan,
+
+d) a műtéti anyagfelhasználás egységesített módszertana, továbbá
+
+e) a központi szerződéstár vezetéséhez kapcsolódó egységes módszertan
+
+előkészítéséről, folyamatos karbantartásáról és azoknak a honlapján történő közzétételéről.
+
+(2) Az OKFŐ a KKIGR rendszer központi szerződéstár alkalmazása tekintetében a 2. § (1) bekezdése szerinti intézmények adatfeldolgozójaként jár el.
+
+(3)[^17] A 7. § (4) bekezdése szerinti feladata ellátása során, a digitális járóbeteg-irányítás eredményességének monitorozása érdekében az OKFŐ a KKIGR útján veszi át az Elektronikus Egészségügyi Szolgáltatási Térből (a továbbiakban: EESZT) – személyes adatok nélkül – a 2. melléklet szerinti adatokat.
+
+## 4/B. §[^18]
+
+Az OKFŐ koordinálja – az állami fenntartású, irányítói jogkört gyakorló vármegyei egészségügyi intézmények bevonásával – a közfinanszírozott, állami fenntartású fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben az orvoslaboratóriumi diagnosztikai tevékenységet.
+
+## 4/C. §[^19]
+
+(1) Az OKFŐ gondoskodik – az orvosokkal, fogorvosokkal, továbbá az egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozókkal szembeni etikai eljárás szabályairól szóló 318/2023. (VII. 17.) Korm. rendelet 5. § (3) bekezdése szerinti vármegyék kivételével – az Egészségügyi Tudományos Tanács (a továbbiakban: ETT) által lefolytatott etikai eljárásokkal kapcsolatos személyi és tárgyi feltételek biztosításáról.
+
+(2) Az OKFŐ lebonyolítja az ETT által működtetett Vármegyei és Központi Etikai Bizottságok tagjainak a miniszter rendeletében meghatározott választását. A választáshoz szükséges infrastruktúrát, továbbá a személyi és tárgyi feltételeket az OKFŐ biztosítja.
+
+(3) Az (1) és a (2) bekezdés szerinti személyi és tárgyi feltételeket az OKFŐ az állami fenntartású egészségügyi intézmények irányításának egyes szabályairól szóló Korm. rendeletben kijelölt irányító vármegyei intézmények, valamint a Budapesten és Pest vármegyében működő, irányító jogkört gyakorló egészségügyi intézmények útján biztosítja.
+
+## 5. §
+
+(1)[^20] Az OKFŐ ellátja a 2. § (1)–(3) bekezdése szerinti egészségügyi intézmények, illetve erre irányuló megállapodás alapján más egészségügyi intézmények vonatkozásában is
+
+a) az informatikai, infrastrukturális és elemzési kapacitásokhoz szükséges fejlesztésekhez kapcsolódó koordinációs és végrehajtási feladatokat és
+
+b) az egészségügyi intézmények belső minőségügyi rendszerének összehangolását, egységes szakmai minőségértékelési rendszer működtetését.
+
+(2) Az OKFŐ jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez.
+
+(3) Az OKFŐ Kormány által meghatározott szakkérdésben szakértőként jár el.
+
+(4) Az OKFŐ ellátja az Állami Egészségügyi Tartalékkal való gazdálkodás feladatait.
+
+(5) Az OKFŐ közreműködik az egészségügyi felsőfokú szakirányú szakképzésekkel és az egészségügyi szakdolgozók képzésével összefüggésben.
+
+(6) Az OKFŐ egyes, jogszabályban meghatározott egészségügyi tevékenység végzésére jogosító bizonyítványok és oklevelek (a továbbiakban együtt: oklevelek) tekintetében – a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény alapján –
+
+a) végzi az oklevelek elismerését,
+
+b) hatósági bizonyítványt állít ki, és
+
+c) jogszabályban meghatározott esetekben a határon átnyúló szolgáltatásnyújtás bejelentésével kapcsolatos feladatokat lát el.
+
+(7) Az OKFŐ működteti az egészségügyi ágazati humánerőforrás-monitoringrendszert.
+
+(8) Az OKFŐ végzi a külföldön felhasználni kívánt orvosi igazolás hitelesítését.
+
+(9) Az OKFŐ közreműködik a jogszabályokon és nemzetközi megállapodásokon alapuló adatgyűjtésben, összegyűjti és elemzi az egészségügyi ágazatban dolgozók bér- és létszámstatisztikai adatait, valamint az egészségügyi ellátórendszerrel összefüggésben az ágazati döntéshozatalt elősegítő rendszerelemzési feladatokat lát el.
+
+(10) Az OKFŐ részt vesz az egészségügyi ellátásokra vonatkozó minőségügyi standardok továbbfejlesztésében.
+
+(11) Az OKFŐ az adatkezelése alá tartozó egészségügyi dokumentációból – az előírt megőrzési időn belül – az érintett kérelmére vagy jogszabályban feljogosított szerv vagy személy indítványa alapján betekintést engedélyez, adatot szolgáltat, másolatot ad ki.
+
+(12) Az OKFŐ gondoskodik arról, hogy a kezelésében lévő, illetve általa feldolgozott dokumentáció olvashatósága a törvényben előírtak szerint fennmaradjon.
+
+(13) Az OKFŐ közreműködik a belső piaci információs rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatok ellátásában.
+
+## 5/A. §[^21]
+
+Az OKFŐ jogszabályban meghatározott feladatkörében, a törvényben meghatározott, általa kezelhető és az EESZT-ben rendelkezésre álló adatot az EESZT-ből is igényelheti, amelyet az EESZT működtetője biztosít.
+
+## 6. §
+
+(1) Az állami vérellátó szolgálat által megkötött nemzetközi magánjogi egyezmény vagy megállapodás keretében a Magyarország területére érkező, az egyezményben vagy megállapodásban részes államban egészségügyi tevékenység végzésére jogosult személy egészségügyi tevékenységvégzését az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (10a) bekezdésében foglaltak alapján legkésőbb az egészségügyi tevékenység befejezésének napján, az 1. mellékletben foglalt tartalmú adatlap (a továbbiakban: Adatlap) kitöltésével kell bejelenteni az OKFŐ-nek.
+
+(2) Az OKFŐ az Eütv. 110. § (10a) bekezdése alapján egészségügyi tevékenységet végzett személyekről az Adatlap I. pontjában szereplő adattartalommal nyilvántartást vezet.
+
+(3) A bejelentés kizárólag szervkivételre irányuló, valamint ezzel közvetlenül összefüggő egészségügyi tevékenységvégzésre jogosít.
+
+(4) Az Adatlap kitöltéséért az egészségügyi tevékenységet végző személy, valamint a szervkivétel során közreműködő, az állami vérellátó szolgálattal foglalkoztatásra irányuló jogviszonyban álló, az állami vérellátó szolgálat nevében eljáró személy tartozik felelősséggel.
+
+(5) Az Adatlap I. pontjában foglaltak tartalmáért az egészségügyi tevékenységet végző személy, az Adatlap II. pontjában foglaltak tartalmáért az állami vérellátó szolgálat tartozik felelősséggel.
+
+(6) Az (1) bekezdés szerint megtett bejelentés alapján egészségügyi tevékenység egy alkalommal végezhető azzal, hogy egy donorból történő több szerv eltávolítása egy alkalomnak minősül.
+
+(7) Az Adatlap kitöltése angol vagy magyar nyelven egyaránt történhet.
+
+(8) Ha az Adatlap I. pont 5. vagy 6. alpontját érintően az Adatlap kitöltésekor valamely adat nem áll rendelkezésre, a hiányzó adatot a bejelentő 8 napon belül elektronikus úton megküldi az OKFŐ részére, továbbá az Adatlap I. pont 7. vagy 8. alpontját érintő, nem kötelezően kitöltendő adat ilyen módon megküldhető az OKFŐ részére. Az utólagosan beérkezett adatokról az OKFŐ tájékoztatja az állami vérellátó szolgálatot.
+
+(9) Az Adatlapot legalább négy eredeti példányban kell kitölteni. Az Adatlap egy példánya a donor egészségügyi dokumentációjának részét képezi, egy példány az állami vérellátó szolgálatot illeti. Az Adatlap további egy-egy példányát az állami vérellátó szolgálat egy munkanapon belül megküldi az OKFŐ részére. További egy eredeti vagy másolati példány a bejelentő személyt illeti meg.
+
+(10) A bejelentés alapján az egészségügyi tevékenység végzése a jogszabályok, a szakmai szabályok és irányelvek, valamint az egészségügyi dolgozókra irányadó etikai szabályok megtartásával történik, amelyek betartatásáért az az egészségügyi szolgáltató felelős, amely a szervkivételre működési engedéllyel rendelkezik.
+
+## 7. §
+
+(1) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az Eütv. 148. § (4) bekezdése szerinti feladatok ellátására.
+
+(2) A Kormány jóváhagyásra jogosult szervként az OKFŐ-t jelöli ki az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 2. § (6) bekezdése szerinti feladat ellátására.
+
+(3) A Kormány eljárásra jogosult szervként az OKFŐ-t jelöli ki az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény
+
+a) 1/A. § (7) bekezdése,
+
+b) 1/B. § (4) bekezdése,
+
+c) 1/C. § (2) bekezdése,
+
+d) 1/E. § (2)–(4) bekezdése,
+
+e) 1/F. § (3) bekezdése,
+
+f) 1/G. § (2) bekezdése,
+
+g) 1/H. § (3) és (7) bekezdése,
+
+h) 1/I. § (3), (6) és (7) bekezdése
+
+szerinti feladatok ellátására.
+
+(4)[^22] A Kormány a térségi betegút-szervezésért felelős szervként – országos illetékességgel – az OKFŐ-t jelöli ki.
+
+(5)[^23]
+
+(6)[^24]
+
+(6a)[^25]
+
+(7) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az önálló orvosi tevékenységről szóló 2000. évi II. törvény 1. § (2) bekezdés c) pontja, 2. § (5) bekezdése, 2/A. § (2) bekezdése, 2/B. § (8) bekezdése, 3. § (5a) bekezdése szerinti feladatok ellátására.
+
+(8) A Kormány az OKFŐ-t jelöli ki az Eütv. szerint
+
+a) az alapnyilvántartást vezető egészségügyi államigazgatási szervként,
+
+b) a működési nyilvántartást vezető államigazgatási szervként,
+
+c) a szakorvos képzés intézményi akkreditációját végző egészségügyi államigazgatási szervként,
+
+d) az egységes egészségügyi ágazati humánerőforrás-monitoring rendszert működtető egészségügyi államigazgatási szervként,
+
+e) a szakorvosok, szakfogorvosok, szakgyógyszerészek, szakpszichológusok és – az általa szervezett továbbképzések kivételével – az egészségügyi szakdolgozók szabadon választható elméleti továbbképzéseinek pontértékét megállapító egészségügyi államigazgatási szervként.
+
+(9) A Kormány egészségügyi államigazgatási szervként, illetve hatóságként az OKFŐ-t jelöli ki az Eütv.
+
+a) 110. § (4a) bekezdése,
+
+b) 110. § (10) bekezdése,
+
+c) 110. § (17) és (19)–(22) bekezdése, valamint
+
+d) 110/A. § (1) és (4) bekezdése
+
+szerinti feladatok ellátására.
+
+(10) A Kormány az OKFŐ-t jelöli ki az egészségügyért felelős miniszter ágazatába tartozó, a szakképzésről szóló 2019. évi LXXX. törvény szerinti ágazatért felelős miniszter számára meghatározott szakképesítési feladatok ellátására.
+
+(11) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
+
+(12)[^26]
+
+## 8. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 1–7. § és a 10–18. § és az 1. melléklet 2021. január 1-jén lép hatályba.
+
+## 9. §
+
+Az Állami Egészségügyi Ellátó Központ az Országos Kórházi Főigazgatóságba történő beolvadással 2020. december 31-én megszűnik.
+
+## 10. §[^27]
+
+A 9. § szerinti beolvadást megelőzően az Állami Egészségügyi Ellátó Központnál kezdeményezett működési nyilvántartás iránti eljárásokban a működési nyilvántartási igazolvány az Állami Egészségügyi Ellátó Központnál rendszeresített okmány megszemélyesítésével is kibocsátható.
+
+## 11. §[^28]
+
+Ez a rendelet a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről szóló, 2011. március 9-i 2011/24/EU európai parlamenti és tanácsi irányelv 6. cikkének való megfelelést szolgálja.
+
+## 11. §[^29]
+
+Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet módosításáról szóló 632/2021. (XI. 17.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (3) bekezdésében foglaltakat a Módr. hatálybalépésekor[^30] folyamatban levő ügyek esetében is alkalmazni kell, azzal, hogy az egészségügyi intézmény a Módr. hatálybalépését követő 15 napon belül kéri az OKFŐ hozzájárulását. Az OKFŐ a hozzájárulással kapcsolatos válaszát a megkereséstől számított 15 napon belül adja meg.
+
+## 1. melléklet az 516/2020. (XI. 25.) Korm. rendelethez
+
+**ADATLAP EUROTRANSPLANT MEGÁLLAPODÁS KERETÉBEN VÉGZETT EGÉSZSÉGÜGYI TEVÉKENYSÉGRŐL**
+
+**I. A tevékenységet végző személy által kitöltendő**
+
+1\. Tevékenységet végző személy neve:
+
+2\. Születési hely, idő:
+
+3\. Anyja neve:
+
+4\. Lakcím:
+
+5\. Személyazonosításra alkalmas igazolványának száma, típusa:
+
+6\. Külföldi szerv, szolgáltató neve, címe, amelynek nevében és javára történik a tevékenység végzése:
+
+7\. Egészségügyi tevékenység végzésére jogosító nyilvántartási száma (ha ilyen van, kitöltése opcionális):
+
+8\. Szakorvosi bizonyítvány, oklevél kiállítója, száma (ha ismert, kitöltése opcionális):
+
+9\. Tevékenységet végző nyilatkozata:
+
+Ezennel nyilatkozom, hogy a tevékenység elvégzésére a szervátültetés helye szerinti küldő államban jogosult vagyok, nem állok az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, büntetőjogi intézkedés vagy egyéb szankció hatálya alatt, és megfelelek a tevékenység végzéséhez a szervátültetés szerinti küldő állam vonatkozó hatályos jogszabálya(i) szerint előírt egészségügyi alkalmassági feltételeknek.
+
+A donorszerv(ek) eltávolítása kizárólag transzplantációs céllal történik az Eurotransplant International Foundation által megkötött megállapodás keretein belül.
+
+Tudomásul veszem, hogy a szervkivétel során az egészségügyi tevékenység végzésére Magyarországon irányadó jogszabályok, a szakmai szabályok és irányelvek, valamint az egészségügyi dolgozókra irányadó etikai szabályok hatálya alatt állok.
+
+Hozzájárulok személyes adataim kezeléséhez a donor egészségügyi dokumentációja keretében, valamint ahhoz, hogy személyes adataimat az általam elvégzett egészségügyi tevékenységről nyilvántartást vezető állami szervek kezeljék és nyilvántartsák.
+
+A szervkivétel során az alábbi szerv/szervek eltávolítására vagyok jogosult:
+
+Hely, dátum
+
+Az egészségügyi tevékenységet végző személy aláírása
+
+neve (nyomtatott betűvel)
+
+**II. Az állami vérellátó szolgálattal jogviszonyban álló, nevében eljáró személy által kitöltendő**
+
+1\. Riadó azonosító kód:
+
+2\. Tevékenység végzésének pontos ideje:
+
+3\. Egészségügyi szolgáltató neve, címe, ahol a tevékenység végzésére sor kerül:
+
+4\. Más tagállamból érkező, transzplantációs célú szerveltávolítást végző orvos(csoport) által eltávolított szerv(ek):
+
+Hely, dátum
+
+Az állami vérellátó szolgálat nevében eljáró személy aláírása
+
+neve (nyomtatott betűvel)
+
+**INFORMATION FORM**
+
+**ON THE HEALTH CARE ACTIVITY PERFORMED IN THE FRAME OF THE EUROTRANSPLANT AGREEMENT**
+
+**I. To be filled by the person performing the activity**
+
+1\. Name of the person performing the activity:
+
+2\. Place and date of birth:
+
+3\. Mother's name:
+
+4\. Address of residence:
+
+5\. Number and type of certificate eligible for personal identification:
+
+6\. Name and address of the foreign organisation, provider, the activity is performed on behalf or for its benefit:
+
+7\. Registration number of the health care activity license certificate (if any, filling in is optional):
+
+8\. Name of the institution issuing the specialty qualification certificate, diploma (if it is recognised, filling in is optional):
+
+9\. Declaration made by the person performing the activity:
+
+I hereby declare that I am licensed/entitled to perform the activity in the sending state of the place of organ transplantation, and I am not subject to any measure, penalty, penalty law measure or other sanctions excluding or limiting my practice of health care activity, and I possess all necessary health aptitude required by legal regulations in force of the sending state of the place of transplantation to carry out such activity.
+
+The removal of donor organ(s) is(are) exclusively performed for transplantation purposes, in the frame of the Agreement with the Eurotransplant International Foundation.
+
+I acknowledge that in the course of the organ removal, Hungarian legislation in force, professional rules and guidelines as well as ethical rules for health professionals are applicable for my activity.
+
+I hereby concede to the handling of my personal data within the framework of the donor's medical documentation, as well as to handle and register my personal data by state organisations responsible for the registration of health care activity carried out by myself.
+
+In the course of organ removal I am entitled to remove the following organ(s):
+
+Place, date
+
+Signature
+
+Name (in capital letters)
+
+of the person performing the health care activity
+
+**II. To be filled in by the person being in a legal relationship with and acting on behalf of the Hungarian**
+
+National Blood Transfusion Service
+
+1\. Alert identification code:
+
+2\. Exact time/date of the performed activity:
+
+3\. Name and address of the health care provider where the activity is performed:
+
+4\. Organ(s) removed by medical doctor(s groups) arriving from other Member State, performing the organ removal for transplantation.
+
+Place, date
+
+Signature
+
+Name (in capital letters)
+
+of the person acting on behalf of the Hungarian National Blood Transfusion Service
+
+## 2. melléklet az 516/2020. (XI. 25.) Korm. rendelethez[^38]
+
+****Az EESZT működtetője által az OKFŐ számára átadandó adatok****
+
+1\. Az időpontfoglalással érintett egészségügyi szolgáltató működési engedélyében szereplő 6 jegyű azonosító kódja
+
+2\. Az időpontfoglalással érintett egészségügyi szolgáltató megnevezése
+
+3\. Az időpontfoglalással érintett egészségügyi szolgáltató működési engedélyében szereplő, a szervezeti egységeket megjelölő 9 jegyű azonosító kódja
+
+4\. Az időpontfoglalással érintett egészségügyi szolgáltató szervezeti egységének megnevezése
+
+5\. Az időpontfoglalással érintett egészségügyi szolgáltatás szakmakódja
+
+6\. A foglalt időpont
+
+7\. Az ellátás tervezett időtartama (perc)
+
+8\. Időpontfoglalás egyedi azonosítója
+
+9\. Az időpontfoglalás EESZT-ben történő rögzítésének időpontja
+
+10\. A tényleges ellátást végző egészségügyi szolgáltató működési engedélyében szereplő 6 jegyű azonosító kódja
+
+11\. A tényleges ellátást végző egészségügyi szolgáltató megnevezése
+
+12\. A tényleges ellátást végző egészségügyi szolgáltató működési engedélyében szereplő, a szervezeti egységeket megjelölő 9 jegyű azonosító kódja
+
+13\. A tényleges ellátást végző egészségügyi szolgáltató szervezeti egységének megnevezése
+
+14\. Naplósorszám
+
+15\. Ellátó orvos vagy – amennyiben nem az orvos végezte az ellátást – a szakdolgozó vagy terapeuta kódja
+
+16\. Eseménykatalógus ellátási esemény típusa
+
+17\. Az időpontfoglalással érintett beteg érkeztetésének egészségügyi szolgáltató által rögzített időpontja
+
+18\. A beteg ellátásra érkeztetése regisztrálásának módja
+
+19\. A beteg rendelőbe elektronikus behívórendszeren keresztül történő behívásának időpontja
+
+20\. A beteg rendelőbe történő behívásának módja
+
+21\. Ellátás megkezdésének egészségügyi szolgáltató által rögzített időpontja
+
+22\. Ellátás befejezésének egészségügyi szolgáltató által rögzített időpontja
+
+Az időpontok minden esetben a dátumon túl az óra- és percadatokat is tartalmazzák.
+
+---
+
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze az 588/2020. (XII. 17.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés a) pontja a 66/2025. (IV. 4.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. § (5a) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^4]: A 3. § (2) bekezdés c) pontját a 110/2025. (V. 26.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 3. § (3) bekezdését a 632/2021. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 4. § nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § a) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § d) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § e) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § f) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^12]: A 4. § g) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § h) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § i) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § j) pontja a 616/2022. (XII. 29.) Korm. rendelet 308. § b) pontja szerint módosított szöveg.
+[^16]: A 4/A. §-t az 588/2020. (XII. 17.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^17]: A 4/A. § (3) bekezdését a 42/2024. (II. 29.) Korm. rendelet 5. §-a iktatta be.
+[^18]: A 4/B. §-t a 605/2023. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^19]: A 4/C. §-t a 261/2024. (VIII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^20]: Az 5. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^21]: Az 5/A. §-t a 463/2024. (XII. 30.) Korm. rendelet 78. §-a iktatta be.
+[^22]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 58. §-a iktatta be.
+[^23]: A 7. § (5) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^24]: A 7. § (6) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^25]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^26]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^27]: A 10. §-t újonnan a 70/2021. (II. 19.) Korm. rendelet 17. §-a iktatta be.
+[^28]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 600/2021. (X. 29.) Korm. rendelet 3. §-a iktatta be.
+[^29]: Az újabb 11. §-t a 632/2021. (XI. 17.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2021. november 18.
+[^38]: A 2. mellékletet a 42/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.

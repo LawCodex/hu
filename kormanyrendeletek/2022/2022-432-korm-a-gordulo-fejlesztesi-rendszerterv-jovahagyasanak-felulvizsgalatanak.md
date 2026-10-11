@@ -1,0 +1,78 @@
+---
+title: "432/2022. (X. 30.) Korm. rendelet a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályairól"
+identifier: "432/2022. (X. 30.) Korm. rendelet"
+njt_id: "2022-432-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/432"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-10-30
+in_force_from: 2022-10-31
+last_amended: 2023-12-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-432-20-22"
+retrieved: 2026-10-12
+---
+
+# 432/2022. (X. 30.) Korm. rendelet a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályairól
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 46. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezés
+
+### 1. §
+
+E rendelet alkalmazásában a gördülő fejlesztési rendszerterv a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 53/K. § (1) bekezdése szerinti terv.
+
+## 2. A gördülő fejlesztési rendszerterv jóváhagyása
+
+### 2. §
+
+(1)[^1] A hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) a koncessziós társaság által benyújtott gördülő fejlesztési rendszertervet a benyújtást követő 7 napon belül véleményezésre megküldi a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
+
+(2) A Hivatal a gördülő fejlesztési rendszertervben foglaltakra vonatkozó véleményét a beérkezést követő naptól számított 15 napon belül megküldi a miniszter részére.
+
+(3)[^2] A Hivatal a gördülő fejlesztési rendszertervben szereplő beruházásokat és beszerzéseket (a továbbiakban együtt: fejlesztések) a koncessziós társaság és a koncesszori alvállalkozók indokolt költségeinek meghatározásával, a Ht. 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésére, valamint az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszközök használatáért járó díj meghatározására vonatkozó feladataival összefüggésben vizsgálja, mely vizsgálat kiterjed a Ht. 53/K. § (3) bekezdés b) pontja szerinti költségarányosságra is.
+
+(4)[^3]
+
+(5) A miniszter a döntését a Ht. 53/K. § (2) bekezdése szerinti határidőben részletes indokolással ellátva megküldi a koncessziós társaságnak, amelyben a gördülő fejlesztési rendszerterv vagy egyes részeinek elutasítása esetén határidő tűzésével megjelöli azokat a tételeket vagy elemeket, amelyeket a jóváhagyás megtagadása érint, részletezi azokat az indokokat, amelyek megalapozzák a jóváhagyás megtagadását, továbbá javaslatot tesz a jóváhagyáshoz szükséges, a koncessziós társaság által végrehajtandó intézkedésekre.
+
+(6) Ha a koncessziós társaság a jóváhagyás megtagadására vonatkozó miniszteri döntést vitatja, a szakmai eltérések feltárásával kapcsolatos egyeztetést kezdeményez a miniszterrel a jóváhagyás megtagadására vonatkozó döntés kézhezvételét követő 15 munkanapon belül. A gördülő fejlesztési rendszerterv tartalmát az első egyeztetés napjától számított 45 napon belül véglegesíteni kell.
+
+(7) A gördülő fejlesztési rendszerterv jóváhagyás megtagadásával nem érintett részei megvalósítását a koncessziós társaság korlátozás nélkül megkezdheti.
+
+(8) A koncessziós társaság a gördülő fejlesztési rendszerterv tartalmát a miniszter jóváhagyást megtagadó döntésének kézhezvételét követő 60 napon belül módosítja, és a véglegesített gördülő fejlesztési rendszertervet jóváhagyásra ismételten benyújtja a miniszter részére.
+
+(9) A (8) bekezdés szerint benyújtott véglegesített gördülő fejlesztési rendszertervnek megfelelően a miniszter az (5) bekezdés szerinti döntését a módosított gördülő fejlesztési rendszerterv benyújtását követő 15 napon belül egységes döntésbe foglalva kiegészíti.
+
+(10) A koncessziós társaság – a tervezési időszakban előre nem látható körülmények miatt, haladéktalanul – évente legfeljebb egy alkalommal írásban kezdeményezheti a miniszternél a jóváhagyott gördülő fejlesztési rendszerterv módosítását, amennyiben abban nem szereplő felújítás és pótlás, beszerzés vagy beruházás elvégzése válik szükségessé.
+
+(11) A (10) bekezdés alapján benyújtott módosított gördülő fejlesztési rendszerterv elbírálása során e § rendelkezéseit kell megfelelően alkalmazni.
+
+(12) Amennyiben a koncessziós időszak utolsó napjáig már kevesebb mint 10 év van hátra, a gördülő fejlesztési rendszertervet a koncessziós társaság a koncessziós időszak utolsó napjáig tartó időtartamra köteles évenként felülvizsgálni.
+
+(13)[^4]
+
+## 3. A gördülő fejlesztési rendszerterv végrehajtásának ellenőrzése
+
+### 3. §
+
+(1) A miniszter a jóváhagyott gördülő fejlesztési rendszertervben foglaltak végrehajtását ellenőrzi. Az ellenőrzés a koncessziós társaság által benyújtott, a Ht. 53/J. § (2) bekezdése és a Ht. 53/K. § (4) bekezdése szerinti beszámoló vizsgálatával történik.
+
+(2) A koncessziós társaság a Ht. 53/J. § (2) bekezdése szerint benyújtott beszámolóban tájékoztatja a minisztert a koncessziós szerződésben a hulladékáramokra meghatározott célérték és részcélérték teljesítéséről.
+
+## 4. Záró rendelkezések
+
+### 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) Az 5. § 2023. január 1-jén lép hatályba.
+
+---
+
+[^1]: A 2. § (1) bekezdése az 5. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 2. § (3) bekezdése az 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdését az 5. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § (13) bekezdését a 675/2023. (XII. 29.) Korm. rendelet 24. §-a hatályon kívül helyezte.

@@ -1,0 +1,165 @@
+---
+title: "226/2025. (VII. 28.) Korm. rendelet a nyugellátásokban és egyes más ellátásokban részesülő személyek részére juttatandó nyugdíjas élelmiszer-utalvány különös szabályairól"
+identifier: "226/2025. (VII. 28.) Korm. rendelet"
+njt_id: "2025-226-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/226"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-07-28
+in_force_from: 2025-07-29
+last_amended: 2026-08-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-226-20-22"
+retrieved: 2026-10-12
+---
+
+# 226/2025. (VII. 28.) Korm. rendelet a nyugellátásokban és egyes más ellátásokban részesülő személyek részére juttatandó nyugdíjas élelmiszer-utalvány különös szabályairól
+
+[1] A Magyar Kormány gazdasági programjának egyik alapvető célja, hogy az elért eredményekhez ne csak az aktív munkavállalók, hanem a nyugellátásban és egyes más ellátásokban részesülő magyar állampolgárok is hozzáférjenek.
+
+[2] A Magyar Kormány elkötelezett amellett, hogy megfékezze az elszabadult élelmiszerárakat, amely elsősorban a nyugdíjasokat terheli meg leginkább.
+
+[3] A Magyar Kormány minden eszközzel fellép az indokolatlan áremelések ellen, ezért a nyugdíjasok számára külön támogatást biztosít nyugdíjas élelmiszer-utalvány formájában. A nyugdíjas élelmiszer-utalványt a Magyar Államkincstár bocsátja ki, amelyet a lehető legszélesebb körben, hideg élelmiszer vásárlására tudnak felhasználni.
+
+[4] A Kormány a Magyarország 2026. évi központi költségvetésének megalapozásáról szóló 2025. évi LI. törvény 146. § (1) és (2) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *élelmiszer-utalványra jogosult:* az a Magyarországon élő és tartózkodó személy, akinek 2025 júliusában
+
+1.1. öregségi nyugdíjat,
+
+1.2. özvegyi nyugdíjat,
+
+1.3. szülői nyugdíjat,
+
+1.4. árvaellátást,
+
+1.5. baleseti hozzátartozói nyugellátást,
+
+1.6. mezőgazdasági szövetkezeti öregségi, munkaképtelenségi, özvegyi járadékot,
+
+1.7. mezőgazdasági szakszövetkezeti tagok növelt összegű öregségi, munkaképtelenségi, özvegyi járadékát,
+
+1.8. korhatár előtti ellátást,
+
+1.9. szolgálati járandóságot,
+
+1.10. átmeneti bányászjáradékot,
+
+1.11. táncművészeti életjáradékot,
+
+1.12. rokkantsági ellátást,
+
+1.13. rehabilitációs ellátást,
+
+1.14. baleseti járadékot,
+
+1.15. rokkantsági járadékot,
+
+1.16. bányászok egészségkárosodási járadékát,
+
+1.17. fogyatékossági támogatást,
+
+1.18. vakok személyi járadékát,
+
+1.19. a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást,
+
+1.20. polgármesterek közszolgálati járadékát,
+
+1.21. a hadigondozásról szóló törvény alapján a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint megemelendő rendszeres pénzbeli ellátást,
+
+1.22. nemzeti helytállásért elnevezésű pótlékot,
+
+1.23. nemzeti gondozási díjat,
+
+1.24. házastársi pótlékot vagy
+
+1.25. házastársi jövedelempótlékot
+
+folyósítottak (a továbbiakban együtt: jogosult);
+
+2\. *élelmiszert árusító:* a hideg élelmiszert
+
+a) – a vendéglátás kivételével – a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenységet főtevékenységként vagy értékesítési helyén elsődleges tevékenységként
+
+aa) a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszerében (a továbbiakban: TEÁOR) „4711 – Élelmiszer jellegű vegyes kiskereskedelem”, TEÁOR „4721 – Zöldség, gyümölcs kiskereskedelme”, TEÁOR „4722 – Hús, húskészítmény kiskereskedelme”, TEÁOR „4724 – Kenyér-, pékáru-, édesség kiskereskedelem” vagy TEÁOR „4727 – Egyéb élelmiszer kiskereskedelem” alatt,
+
+ab) az Önálló vállalkozók tevékenységi jegyzékében (a továbbiakban: ÖVTJ) „4711 – Élelmiszer jellegű vegyes kiskereskedelem”, ÖVTJ „4721 – Zöldség, gyümölcs kiskereskedelme”, ÖVTJ „4722 – Hús, húskészítmény kiskereskedelme”, ÖVTJ „4724 – Kenyér-, pékáru-, édesség-kiskereskedelem” vagy ÖVTJ „4727 – Egyéb élelmiszer-kiskereskedelem” alatt
+
+árusító kereskedő, továbbá
+
+b) a családi gazdaságokról szóló törvény szerint saját gazdaságban őstermelői tevékenységgel őstermelőként előállító kereskedő.
+
+## 2. §
+
+(1) A nyugdíjas élelmiszer-utalványt az 1. mellékletben foglalt tartalmi és formai feltételeknek megfelelően kell előállítani.
+
+(2) A nyugdíjas élelmiszer-utalvány kialakításában, előállításában, kézbesítésre történő előkészítésében és az egyetemes postai szolgáltatón keresztül annak kézbesítésében – a Magyar Államkincstár (a továbbiakban: kincstár) megbízásának megfelelően – a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság közreműködik, amelynek részleteiről a felek együttműködési és adatfeldolgozási megállapodást kötnek.
+
+(3) Az 1. § 1. pontjában meghatározott jogosultakat személyenként 3 darab 5000 forint, 3 darab 3000 forint, 2 darab 2000 forint, 2 darab 1000 forint címletű, összesen 30 000 forint értékű nyugdíjas élelmiszer-utalvány illeti meg, amelyeket 2025. október 15-ig kell a részükre kézbesíteni, vagy a kézbesítést megkísérelni.
+
+(4) A nyugdíjas élelmiszer-utalvány 2025. december 31-éig használható fel.
+
+## 3. §
+
+(1) A kincstár a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság bevonásával, a (2) és (3) bekezdésben foglaltak szerint intézkedik a nyugdíjas élelmiszer-utalványnak a jogosultak részére történő megküldéséről.
+
+(2) A nyugdíjas élelmiszer-utalványt tartalmazó küldemény jogosultak részére történő kézbesítését az egyetemes postai szolgáltató végzi.
+
+(3) Az egyetemes postai szolgáltató a kézbesítést kizárólag egyszer kísérli meg. A postai kézbesítés eredménytelensége esetén az ismételt kiküldés iránti kérelmet – a kincstár honlapján közzétett módon – a nyugdíjfolyósító szervnél kell előterjeszteni. A kérelem benyújtásának jogvesztő határideje 2025. november 14.
+
+(4) A már kiküldött, de a címzett halála miatt részére nem kézbesíthető nyugdíjas élelmiszer-utalványt más személy nem veheti át. A gondnok vagy gyám részére címzett küldemények a gondnokolt, gyámolt személy halálát követően nem kézbesíthetők.
+
+## 4. §
+
+(1) A nyugdíjas élelmiszer-utalvány felhasználásakor az élelmiszert árusító ellenőrzi a nyugdíjas élelmiszer-utalvány 1. melléklet szerinti tartalmi és formai elemeit, és csak az azoknak megfelelő nyugdíjas élelmiszer-utalványt fogadja el.
+
+(2) Az élelmiszert árusító a felhasználás során átadott nyugdíjas élelmiszer-utalvány felhasználásának tényét a nyugdíjas élelmiszer-utalványon rögzíti.
+
+## 5. §
+
+(1) Az élelmiszert árusító a nyugdíjas élelmiszer-utalványt 2026. február 28-ig válthatja be a pénzforgalmi számláját vezető banknál, amennyiben nem rendelkezik pénzforgalmi számlával, úgy bármely banknál.
+
+(2) A bank a beváltáskor a nyugdíjas élelmiszer-utalvány eredetiségének ellenőrzését elvégzi az utalvány sorszámának és az utalvány biztonsági elemeinek ellenőrzésével, a beváltott nyugdíjas élelmiszer-utalvány ellenértékét, névértékben számlapénz vagy készpénz formájában biztosítja a beváltó élelmiszert árusító részére, ha a bank ellenőrzése alapján az élelmiszert árusító erre jogosult. A beváltás módjára vonatkozó tájékoztatót a bank a honlapján közzéteszi.
+
+(3) A bank részére az élelmiszert árusító által beváltott nyugdíjas élelmiszer-utalvány ellenértékét a kincstár által közzétett tájékoztatóban meghatározott adatszolgáltatás alapján, utólagosan, heti elszámolás keretében a kincstár téríti meg. Az adatszolgáltatásban a bank közli az elszámolási időszak alatt nála beváltott utalvány darabszámát, névértékét, valamint a beváltott utalvány sorszámát.
+
+(4) A nyugdíjas élelmiszer-utalvánnyal történő, (3) bekezdés szerinti elszámolás során a bank az élelmiszert árusító által beváltott nyugdíjas élelmiszer-utalványt a kincstár által közzétett tájékoztatóban meghatározottak szerinti elszámolási összesítővel havonta eljuttatja a kincstár számára. A kincstár az átvett nyugdíjas élelmiszer-utalványt a vonatkozó kincstári eljárásrendjében meghatározott határidő leteltét követően megsemmisíti.
+
+(5) A nyugdíjas élelmiszer-utalvány tekintetében a bank és a kincstár közötti végső elszámolás határideje 2026. május 15.
+
+(6)[^1] Az (1) bekezdés szerinti határidő elmulasztása esetén az élelmiszert árusító a nyugdíjas élelmiszer-utalványt 2026. szeptember 30-áig válthatja be a kincstárnál. A kincstár a beváltáskor a nyugdíjas élelmiszer-utalvány eredetiségének ellenőrzését az utalvány sorszámának és az utalvány biztonsági elemeinek ellenőrzésével végzi. A kincstár a beváltott nyugdíjas élelmiszer-utalvány ellenértékét névértékben, pénzforgalmi számlával nem rendelkező élelmiszert árusító esetén készpénz formájában, egyéb esetben számlapénz formájában biztosítja az ellenőrzés alapján erre jogosult élelmiszert árusító részére. A beváltás módjára vonatkozó tájékoztatót a kincstár a honlapján közzéteszi. A kincstár az átvett nyugdíjas élelmiszer-utalványt a vonatkozó kincstári eljárásrendjében meghatározott határidő leteltét követően megsemmisíti.
+
+## 6. §
+
+A Kormány a nyugdíjas élelmiszer-utalvány felhasználásával kapcsolatos rendelkezések betartását ellenőrző hatóságként, ha a jogsértés a fogyasztóvédelemről szóló törvény szerinti fogyasztót érint, a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendelet szerinti általános fogyasztóvédelmi hatóságot jelöli ki.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 226/2025. (VII. 28.) Korm. rendelethez
+
+**A nyugdíjas élelmiszer-utalvány tartalmi és formai feltételei**
+
+A nyugdíjas élelmiszer-utalvány
+
+1\. 3 darab 5000, 3 darab 3000, 2 darab 2000, 2 darab 1000 forintos címletértékű,
+
+2\. sorszámozott és vonalkóddal ellátott,
+
+3\. egyedi vízjelet tartalmaz,
+
+4\. tartalmazza a kibocsátó megnevezését,
+
+5\. tartalmazza az érvényességi idejét,
+
+6\. a kincstár által meghatározott és a honlapján nyilvánosságra hozott biztonsági elemekkel rendelkezik.
+
+---
+
+[^1]: Az 5. § (6) bekezdését a 120/2026. (VIII. 7.) Korm. rendelet 1. §-a iktatta be.

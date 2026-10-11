@@ -1,0 +1,211 @@
+---
+title: "762/2021. (XII. 23.) Korm. rendelet a bíróság által kijelölt szerkezetátalakítási szakértőkről"
+identifier: "762/2021. (XII. 23.) Korm. rendelet"
+njt_id: "2021-762-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/762"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-12-23
+in_force_from: 2022-07-01
+last_amended: 2022-07-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-762-20-22"
+retrieved: 2026-10-12
+---
+
+# 762/2021. (XII. 23.) Korm. rendelet a bíróság által kijelölt szerkezetátalakítási szakértőkről
+
+A Kormány\
+a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény 66. § (1) bekezdésében kapott felhatalmazás alapján,\
+a 17. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — A BÍRÓSÁG ÁLTAL KIJELÖLT SZERKEZETÁTALAKÍTÁSI SZAKÉRTŐ RÉSZLETES FELADATAI, JOGAI ÉS KÖTELEZETTSÉGEI
+
+### 1. A szerkezetátalakítási szakértői tevékenység gyakorlásával összefüggő általános feladatok
+
+#### 1. §
+
+(1) E rendelet alkalmazásában
+
+1\. *szerkezetátalakítási eljárás:* a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvényben (a továbbiakban: Szát.) I–VII. fejezetében szabályozott eljárás;
+
+2\. *szerkezetátalakítási szakértő személy:* a szerkezetátalakítási szakértő által foglalkoztatott vagy a szerkezetátalakítási szakértő szervezetben tagsági jogviszonnyal rendelkező olyan természetes személy (a továbbiakban együtt: foglalkoztatott), aki
+
+a) rendelkezik felszámolói és vagyonfelügyelői szakképzettséggel – ide értve azokat is, akiket a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 83/B. §-a alapján kell felszámolói és vagyonfelügyelői szakképzettséggel rendelkezőnek tekinteni –,
+
+b) teljesítette a jogszabályban meghatározott továbbképzési és szakmai továbbképzési (a továbbiakban együtt: szakmai továbbképzési) kötelezettséget,
+
+c) a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 27/C. § (4) bekezdés *f)* pontja alapján szerepel a felszámolók névjegyzékében vagy a Cstv. 66. § (6) bekezdése alapján vezetett hatósági nyilvántartásban felszámolóbiztosként be van jegyezve, és
+
+d) a szerkezetátalakítási szakértő kijelölése alapján a megbízólevélben meghatározott szerkezetátalakítási eljárásokban ellátja a szerkezetátalakítási szakértő feladatait.
+
+(2) Ha e rendelet valamely kötelezettség haladéktalan teljesítését írja elő, ennek a kötelezettségnek legkésőbb 5 napon belül kell eleget tenni.
+
+#### 2. §
+
+(1) A felszámoló szervezet a Szát. 24. §-a szerinti nyilvántartó szervezet, a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) részére történő bejelentéskor csatolja azokat a dokumentumokat, amelyekkel igazolja, hogy a felszámoló szervezet és az általa felsorolt foglalkoztatottak megfelelnek a szerkezetátalakítási szakértőkre vonatkozó törvényi követelményeknek, és kötelezettséget vállal arra, hogy az adatok változását haladéktalanul bejelenti, továbbá igazolja, hogy rendelkezik a Szát. 23. § (6) bekezdésében előírt felelősségbiztosítással, amely felelősségbiztosítási szerződést magyarországi székhelyű vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban letelepedett biztosítóval kötött.
+
+(2) A szerkezetátalakítási szakértő elkészíti az általa foglalkoztatott szerkezetátalakítási szakértő személyek szakmai továbbképzési tervét, nyilvántartja és ellenőrzi a szakmai továbbképzési kötelezettség teljesítését, és az ezzel összefüggő adatokat, dokumentumokat a Hatóság számára a hatósági ellenőrzés során bemutatja, vagy a Hatóság részére történő adatszolgáltatáskor megküldi.
+
+#### 3. §
+
+(1) A szerkezetátalakítási szakértő a honlapján tájékoztatást ad a szerkezetátalakítási szakértők listájára történő felvételéről és a listáról történő törléséről. A honlapon tájékoztatást kell adni arról is, hogy mely vállalkozásoknál lát el nyilvános szerkezetátalakítási eljárásban szerkezetátalakítási szakértői feladatokat a bíróság kijelölése alapján.
+
+(2) A szerkezetátalakítási szakértő nyilvántartást vezet azokról a nyilvános és nem nyilvános szerkezetátalakítási ügyekről, amelyekben szerkezetátalakítási szakértői feladatokat lát el.
+
+(3) A (2) bekezdés szerinti nyilvántartásnak tartalmaznia kell
+
+a) a szerkezetátalakítási eljárás típusát (nem nyilvános, illetve nyilvános szerkezetátalakítási eljárás),
+
+b) a szerkezetátalakítási eljárás megindítására és befejezésére vonatkozó adatokat:
+
+ba) a szerkezetátalakítási eljárás jogerős megindításának és befejezésének napja, a szerkezetátalakítási eljárás bírósági ügyszáma,
+
+bb) a szerkezetátalakítás meghiúsulása és annak a Szát. 8. §-a szerinti oka,
+
+bc) a szerkezetátalakítási terv jogerős bírósági határozattal történt jóváhagyása,
+
+bd) azok az egyéb adatok, amelyekről történő adatszolgáltatást az Európai Bizottság részére uniós jogforrás írja elő, és az adatról a szerkezetátalakítási szakértőnek hitelt érdemlő tudomása van,
+
+c) a szerkezetátalakítási szakértőként történő kijelölésre, illetve kirendelésre vonatkozó adatokat,
+
+d) a szerkezetátalakítási szakértő által kijelölt, általa foglalkoztatott szerkezetátalakítási szakértő személy azonosítására vonatkozó adatokat,
+
+e) a szerkezetátalakítási eljárásban a bíróság határozata alapján ellátandó feladatok felsorolását, ide értve a Szát. 60. §-a szerinti bírósági végzésben történő kirendeléseket is,
+
+f) a szerkezetátalakítási ügyekben tett bejelentéseket, panaszokat és az azok alapján megtett intézkedéseket, valamint
+
+g) a szerkezetátalakítási szakértővel szemben a kötelezettségei elmulasztása, hiányos vagy késedelmes teljesítése miatt a bíróság által alkalmazott intézkedéseket.
+
+(4) A szerkezetátalakítási szakértő a (3) bekezdés *b)* pontja szerinti adatok alapján évente szakmai beszámolót készít a Hatóság részére.
+
+(5) A Hatóság a szakmai beszámoló adatait a szerkezetátalakítási szakértő hatósági ellenőrzése és jogszabályban meghatározott feladatainak ellátása, továbbá hatásvizsgálatok készítése érdekében ismerheti meg és kezelheti.
+
+#### 4. §
+
+(1) A szerkezetátalakítási szakértő a szerkezetátalakítási szakértői listába történő felvételétől számított 15 napon belül ügyfélszolgálati és panaszkezelési szabályzatot alkot, és azt közzéteszi a honlapján.
+
+(2) A szerkezetátalakítási szakértő a honlapján tájékoztatást ad az adóssal és a szerkezetátalakítási eljárásban érintett felekkel történő kapcsolattartásra és a bejelentések megtételére vonatkozó tudnivalókról, valamint a panaszok, bejelentések nyilvántartásba vételére, megvizsgálására és a szükséges intézkedések megtételére vonatkozó eljárásrendről. A tájékoztatást a szerkezetátalakítási szakértők listájára történő felvételről szóló értesítést követő 5 napon belül kell közzétenni.
+
+### 2. Az egyes szerkezetátalakítási ügyek lefolytatásával összefüggő szakmai feladatok
+
+#### 5. §
+
+(1) A szerkezetátalakítási szakértő az általa foglalkoztatott szerkezetátalakítási szakértő személy kiválasztásakor figyelembe veszi az adott ügy ellátásához szükséges szakmai tapasztalatot és szakismereteket.
+
+(2) A megbízólevél akkor adható ki, ha a szerkezetátalakítási szakértő személy írásban nyilatkozik arról, hogy személyében nem áll fenn kizáró vagy az adott ügyben összeférhetetlenséget eredményező ok.
+
+(3) A megbízólevél átvételekor a szerkezetátalakítási szakértő személy kötelezettséget vállal arra, hogy ha az eljárás alatt keletkezik a személyében kizárási vagy összeférhetetlenségi ok, azt haladéktalanul írásban bejelenti a szerkezetátalakítási szakértő vezető tisztségviselőjének. A bejelentés alapján a szerkezetátalakítási szakértő a kijelölést haladéktalanul visszavonja, és egyidejűleg másik szerkezetátalakítási szakértő személy kijelöléséről gondoskodik, valamint ezt a változást bejelenti a bíróságnak és a feleknek.
+
+(4) A szerkezetátalakítási szakértő személy nevét, az azonosításához szükséges adatokat és a hivatalos elérhetőségét a szerkezetátalakítási szakértő haladéktalanul közli a bírósággal és a felekkel.
+
+#### 6. §
+
+(1) A szerkezetátalakítási szakértő személy a tevékenység megkezdésekor az adós vezető tisztségviselője előtt írásban jognyilatkozatot tesz az adóst érintő üzleti és magántitok megtartására, és az adóssal együttműködve meghatározza, hogy az érintett felekkel történő tárgyalások során mely adatokra vonatkozóan kell kérni azok bizalmas kezelését, illetve titoktartási nyilatkozat megtételét.
+
+(2) Az érintett felekkel lefolytatott tárgyalások során a szerkezetátalakítási szakértő személy írásban kötelezettségvállaló nyilatkozatot tesz az érintett felek üzleti titkait érintő információk bizalmas kezelésére, és arra, hogy ezeket az adatokat csak a jogszabályban meghatározott feladatai ellátása érdekében ismeri meg, jogosulatlanok számára nem továbbítja, és nem teszi hozzáférhetővé.
+
+(3) Az (1) és (2) bekezdés szerinti nyilatkozatot kötelesek tenni a szerkezetátalakítási szakértővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott azon személyek is, akiknek az adott szerkezetátalakítási eljárással összefüggő munkafeladatai ellátásához az üzleti vagy magántitkot képező dokumentumok megismerése szükséges.
+
+#### 7. §
+
+(1) A szerkezetátalakítási szakértő személy a Szát. 25. § (1)–(3) bekezdésével összefüggő feladatainak ellátása során a szerkezetátalakítási terv előkészítéséhez, a hitelezőkkel történő egyeztetések megszervezéséhez ajánlásokat adhat az adós működőképességének és fizetőképességének megóvására, illetve helyreállítására vonatkozó intézkedésekre vonatkozóan.
+
+(2) A szerkezetátalakítási szakértő személy áttekinti az adóssal szemben fennálló követeléseket, valamint az adós vállalkozás kinnlevőségeit és az ezekre vonatkozó szerződéseket.
+
+(3) A szerkezetátalakítási szakértő személy közreműködik a hitelezői igények számbavételében és minősítésében, valamint a szerkezetátalakítási eljárással érintett hitelezők követeléseinek hitelezői osztályokba sorolásában. A szerkezetátalakítási szakértő személy részt vesz a szerkezetátalakítási terv hitelezőkkel és más érintett felekkel történő egyeztetésében, szakmai segítséget nyújt az adós számára a szerkezetátalakítási terv megszavaztatásához és egyéb előkészítő és lebonyolító feladatok ellátásához.
+
+(4) Ha az adós nem veszi figyelembe a szerkezetátalakítási szakértőnek a Szát. 41. § (1) bekezdése alapján tett észrevételeit, a szerkezetátalakítási szakértő személy ezt a tényt és a fennmaradt észrevételeit a hitelezői osztályba sorolás Szát. 41. § (4) bekezdése szerinti aláírásakor írásban rögzíti.
+
+(5) A szerkezetátalakítási szakértő személy dokumentálja, hogy az adósnál a hitelezők követeléseivel összefüggésben milyen iratokat, szerződéseket, számlakivonatokat, jogügyleteket tekintett át, milyen felhívásokat intézett az adós vezetőihez és az érintett felekhez, továbbá hogyan kerültek lefolytatásra a munkavállalók tájékoztatására vonatkozó intézkedések.
+
+(6) Ha a Szát. 41. § (4) bekezdésében foglaltak szerint a szerkezetátalakítási szakértőnek is alá kellett írnia a hitelező követelések osztályba sorolását, az érintett felek a szerkezetátalakítási szakértőtől is felvilágosítást kérhetnek a Szát. 44. §-a szerinti eljárás során annak érdekében, hogy valamely érintett hitelezői követelésre vonatkozóan milyen dokumentumokat vettek figyelembe a hitelezői követelés jogalapjának és összegszerűségének megállapításakor.
+
+#### 8. §
+
+(1) Ha a szerkezetátalakítási szakértő az adós gazdálkodásának felügyeletét is ellátja, a szerkezetátalakítási szakértő személy folyamatosan nyilvántartást vezet a Szát. 26. § (2) bekezdése alapján lefolytatott vizsgálatairól, a megtett intézkedéseiről és azok eredményéről, valamint az adós vezetői számára tett felhívásokról és azok teljesítéséről.
+
+(2) Az (1) bekezdés szerinti intézkedésekről az érintett felek tájékoztatást kérhetnek, amelyet a szerkezetátalakítási szakértő írásban teljesít.
+
+#### 9. §
+
+(1) A szerkezetátalakítással érintett hitelezők nyilvántartásba vételéről és követeléseik besorolásáról szóló dokumentumokat a szerkezetátalakítási szakértő személy a követelések jogalapjául szolgáló okiratok, számviteli nyilvántartások áttekintésével vizsgálja meg, szükség szerint a felektől kiegészítő információkat és okiratokat kérhet, és ezek alapján a követelés-nyilvántartás számszaki helyessége, valamint annak jogszerűsége érdekében, továbbá a beszámítási jog és a nettósítási igények helytállóságára vonatkozóan írásban észrevételt tehet, amelyet az érintett hitelezőnek is megküld.
+
+(2) A hitelezők osztályba sorolását és a szavazatszámot megállapító dokumentum aláírásakor a szerkezetátalakítási szakértő személy nyilatkozik arról, hogy az adós vezetője az érintett hitelezői igények teljességéről jognyilatkozatot tett, továbbá a dokumentum az általa ismert adatok és iratok szerint megfelel-e a jogszabályoknak.
+
+#### 10. §
+
+Az érintett felekkel lefolytatott tárgyalásokról és a szerkezetátalakítási tervről történő szavazásról készített jegyzőkönyv aláírásakor a szerkezetátalakítási szakértő személy nyilatkozik arról is, hogy a hitelezői gyűlés összehívása, lefolytatása, továbbá határozathozatala a jogszabályoknak megfelelő eljárásrendben történt-e, és a jegyzőkönyv minden olyan adatot tartalmaz, amelyből a szavazás eredménye és jogszerűsége megállapítható.
+
+#### 11. §
+
+(1) A szerkezetátalakítási terv bírósági jóváhagyásához a szerkezetátalakítási szakértő személy az általa készített közgazdasági és jogi elemzéseket az adós vezető tisztségviselőjének – a bírósághoz történő benyújtás előtt legalább 5 nappal – észrevételezésre bemutatja.
+
+(2) Ha szerkezetátalakítási terv jóváhagyására vonatkozó bírósági eljárásban elleniratot nyújtanak be, a szerkezetátalakítási szakértő személy az elleniratra vonatkozó álláspontjáról írásban tájékoztatja az adós vállalkozást is.
+
+#### 12. §
+
+Ha a bíróság a Szát. 61. § (1) bekezdése alapján az adóst a szerkezetátalakítási terv hiányosságainak kiküszöbölésére vagy ismételt megszavazására hívja fel, a szerkezetátalakítási szakértő személy ehhez az adós számára szakmai segítséget nyújt, és aláírja a bíróságnak ismételten benyújtandó szerkezetátalakítási tervet, illetve a határozathozatalról készített jegyzőkönyvet.
+
+## II. Fejezet — A BÍRÓSÁG ÁLTAL KIRENDELT SZERKEZETÁTALAKÍTÁSI SZAKÉRTŐ DÍJAZÁSÁNAK MEGÁLLAPÍTÁSA
+
+### 3. Csökkentett mértékű díjazás megállapítása a szerkezetátalakítási szakértő kirendelésének az eljárás befejezése előtti megszüntetése esetén
+
+#### 13. §
+
+(1) A bíróság a szerkezetátalakítási szakértő díjazását a Szát. 30. § (1) bekezdésében meghatározott mértéknél alacsonyabb összegben állapítja meg, ha a szerkezetátalakítási szakértő kijelölését a Szát. 31. §-ában foglalt okból szünteti meg. A díjcsökkentés mértékénél a bíróság figyelembe veszi az adott ügyben a szerkezetátalakítási szakértő közreműködésének időtartamát, adminisztratív teendőit, munkaterhét, a kirendelés megszüntetésére alapot adó körülményeket, továbbá ezen körülmények bekövetkezésében a szerkezetátalakítási szakértő valószínűsíthető közrehatását.
+
+(2) A Szát. 31. § (1) bekezdés *c)* pontja szerinti esetben a bíróság mérlegeli továbbá a szerkezetátalakítási szakértő kötelezettségszegéseinek, mulasztásainak jellegét, súlyosságát, a kötelezettségszegéssel, mulasztással az adós vállalkozásnak és a hitelezőknek okozott hátrányt vagy többletköltségeket, azt, hogy az okozott hátrány csökkentésére van-e még lehetőség, a mulasztás, késedelem időtartamát, ismétlődését, más személyek közrehatását, valamint a szerkezetátalakítási szakértő együttműködését az általa okozott hátrányok csökkentésében.
+
+### 4. Csökkentett mértékű díjazás megállapítása a szerkezetátalakítási ügy sajátosságai alapján
+
+#### 14. §
+
+(1) A bíróság a szerkezetátalakítási szakértő díjazását a Szát. 30. § (1) bekezdésében meghatározott mértéknél alacsonyabb összegben állapítja meg, ha
+
+a) a szerkezetátalakítási eljárással érintett, nyilvántartásba vett és besorolt hitelezői követelések száma kevesebb, mint 15,
+
+b) a szerkezetátalakítási eljárásban nem került sor moratórium elrendelésére vagy szerkezetátalakítási terv bírósághoz történő benyújtására,
+
+c) a szerkezetátalakítási szakértő feladata nem terjedt ki a Szát. 25. § (1) bekezdése szerinti feladatokra vagy az adós gazdálkodásának felügyeletére,
+
+d) a Szát. 30. § (1) bekezdése szerinti díjmérték az adott szerkezetátalakítási eljárás időtartamára, a szerkezetátalakítási szakértő adminisztratív teendőire, munkaterhére és az eljárással összefüggő ráfordításaira tekintettel aránytalanul magas lenne, vagy
+
+e) a szerkezetátalakítási szakértő kijelölésének megszüntetésére került sor a Szát. 31. § (1) bekezdés *c)* pontja szerinti okból.
+
+(2) Az (1) bekezdés *a)* pontja szerinti esetekben a díjcsökkentés mértéke 20%, ha a szerkezetátalakítási eljárással érintett, nyilvántartásba vett és besorolt hitelezői követelések száma kevesebb, mint 5.
+
+(3) Az (1) bekezdés b) vagy *c)* pontjában meghatározott esetekben a Szát. 30. § (1) bekezdésében meghatározott díjmértéket további 10-10%-kal csökkenti a bíróság.
+
+(4) Az (1) bekezdés *a)–d)* pontja szerinti csökkentett mértékű díjat úgy kell megállapítani, hogy annak összege legalább 10%-kal meghaladja a szerkezetátalakítási szakértőnek az adott eljárásban igazolt ráfordításai összegét.
+
+(5) Az (1) bekezdésben meghatározott esetekben a Szát. 30. § (4) bekezdése szerinti díjpótlékot a bíróság által e rendelet alapján csökkentett alapdíj figyelembevételével kell kiszámítani és megállapítani.
+
+## III. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 5. Hatályba léptető rendelkezések
+
+#### 15. §
+
+Ez a rendelet 2022. július 1-jén lép hatályba.
+
+### 6. Jogharmonizációs záradék
+
+#### 16. §
+
+(1) Ez a rendelet a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv I. és IV. címének való megfelelést szolgálja.
+
+(2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 7. Módosító rendelkezések
+
+#### 17. §[^1]
+
+#### 18. §[^2]
+
+---
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

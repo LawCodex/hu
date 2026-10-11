@@ -1,0 +1,164 @@
+---
+title: "298/2020. (VI. 24.) Korm. rendelet a Magyarország Kormánya és az Ukrajna Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló Jegyzőkönyv kihirdetéséről"
+identifier: "298/2020. (VI. 24.) Korm. rendelet"
+njt_id: "2020-298-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/298"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-06-24
+in_force_from: 2020-06-25
+last_amended: 2020-06-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-298-20-22"
+retrieved: 2026-10-12
+---
+
+# 298/2020. (VI. 24.) Korm. rendelet a Magyarország Kormánya és az Ukrajna Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló Jegyzőkönyv kihirdetéséről
+
+*(A Jegyzőkönyv 2020. június 1-jén nemzetközi jogi szempontból hatályba lépett.)*
+
+## 1. §
+
+A Kormány a Magyarország Kormánya és az Ukrajna Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló Jegyzőkönyvet (a továbbiakban: Jegyzőkönyv) e rendelettel kihirdeti.
+
+## 2. §
+
+(1) A Jegyzőkönyv hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
+
+(2) A Jegyzőkönyv hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 4. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+## 1. melléklet a 298/2020. (VI. 24.) Korm. rendelethez
+
+JEGYZŐKÖNYV\
+Magyarország Kormánya és Ukrajna Kormánya között\
+a Magyarország Kormánya és Ukrajna Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról
+
+Magyarország Kormánya és Ukrajna Kormánya (a továbbiakban: Szerződő Felek), a két ország kormánya közötti gazdasági együttműködés folytatása érdekében, a Budapesten, 2016. november 24. napján aláírt, a Magyarország Kormánya és Ukrajna Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Megállapodás) 9. cikk *e)* pontjára figyelemmel a következőkben állapodnak meg.
+
+**1. cikk**
+
+A Megállapodás 1. cikk (meghatározások) *f)* pontja a következők szerint módosul:
+
+„*f)* a hitel kezdőnapja: az OECD Megállapodás XIV. sz. melléklete *q)* pontjának definíciós listája szerint meghatározandó;”
+
+**2. cikk**
+
+A Megállapodás 3. cikk (3) bekezdésének első és második mondata a következők szerint módosul:
+
+„A kötött segélyhitelkeretből folyósított hitelek futamideje nem haladhatja meg a huszonnégy és fél (24,5) évet, amely időtartam három (3) év türelmi időt és huszonegy és fél (21,5) év törlesztési időszakot foglal magába. Az első törlesztőrészlet az OECD Megállapodás feltételeivel összhangban a hitel kezdőnapját követő negyvenkettő (42) hónap múlva esedékes.”
+
+**3. cikk**
+
+A Megállapodás 9. cikk *b)* pontja a következők szerint módosul:
+
+„Jelen Megállapodás a hatálybalépésétől számított négy (4) évig hatályos és automatikusan egy (1) évvel meghosszabbodik, hacsak az egyik fél a lejárat előtt legalább három (3) hónappal korábban nem értesíti írásban a másik felet arról, hogy a Megállapodás felmondásáról döntött.”
+
+**4. cikk**
+
+A Megállapodás 1. számú Melléklete a Jegyzőkönyv 1. számú Mellékletében foglaltak szerint módosul.
+
+**5. cikk**
+
+A Jegyzőkönyv a Megállapodás elválaszthatatlan részét képezi és érvényes marad mindaddig, ameddig a Megállapodás érvényben van.
+
+A Szerződő Felek diplomáciai úton, írásban értesítik egymást arról, hogy a jelen Jegyzőkönyv hatálybalépéséhez szükséges belső jogi követelményeknek eleget tettek. A jelen Jegyzőkönyv 2020. június 1. napján lép hatályba.
+
+Készült Budapest, 2020 év május hónap 29. napján, magyar, ukrán és angol nyelven, két eredeti példányban, mindegyik szöveg egyformán hiteles. Az esetleges eltérő értelmezésből fakadó viták rendezése esetén az angol nyelvű változat az irányadó.
+
+................................
+
+Magyarország Kormánya részéről
+
+................................
+
+Ukrajna Kormánya részéről
+
+*1. számú Melléklet*
+
+**A FINANSZÍROZÁS KIEMELT TERÜLETEI A MAGYARORSZÁG KORMÁNYA ÉS UKRAJNA KORMÁNYA KÖZÖTTI PÉNZÜGYI EGYÜTTMŰKÖDÉSI KERETPROGRAM KIALAKÍTÁSÁRÓL SZÓLÓ MEGÁLLAPODÁS VÉGREHAJTÁSA SORÁN**
+
+Jelen Megállapodás keretében az alábbi kiemelt fejlesztések kerülnek finanszírozásra:
+
+1\. Elkerülő út Beregszász és Asztély településeken „Luzsanka” határátkelőhelyig (építés, valamint az építési munkák felügyeletéhez kapcsolódó tanácsadás)
+
+2\. Az M-24-es út Velyka Dobron – Munkács – Beregszász – „Luzsanka” határátkelőhely közötti szakasza (útfelújítás, valamint az építési munkák felügyeletéhez kapcsolódó tanácsadás)
+
+A jelen Megállapodásban meghatározott kötött segélyhitel rendelkezésre állásának függvényében a Szerződő Felek elfogadhatnak további projekteket is, többek között az alábbiakat:
+
+– Az M-23-as út Beregszász – Nagyszőlős – Velyka Kopania közötti szakasza (útfelújítás, valamint az építési munkák felügyeletéhez kapcsolódó tanácsadás)
+
+– Az M-26-os út „Vilok” határátkelőhely – Tiszaújlak – Nevetlenfalu – „Dyakovo” határátkelőhely közötti szakasza (útfelújítás, valamint az építési munkák felügyeletéhez kapcsolódó tanácsadás)
+
+– Az M-08 elkerülő út Ungvár – „Ungvár” határátkelőhely közötti szakasza (útfelújítás, valamint az építési munkák felügyeletéhez kapcsolódó tanácsadás).
+
+## 2. melléklet a 298/2020. (VI. 24.) Korm. rendelethez
+
+**PROTOCOL between the Government of Hungary and the Government of Ukraine on the amendment to the Framework Agreement between the Government of Hungary and the Government of Ukraine on providing a tied aid credit**
+
+The Government of Hungary and the Government of Ukraine (hereinafter referred to as: ‘the Contracting Parties'), with a view to continue economic cooperation between both Governments, in accordance with point e) of Article 9 of the Framework Agreement between the Government of Hungary and the Government of Ukraine on providing a tied aid credit (hereinafter referred to as: ‘the Agreement'), done at Budapest on 24 November 2016, have agreed as follows.
+
+**Article 1**
+
+Point f) of Article 1 (Definitions) of the Agreement is amended as follows:
+
+‘f) starting point of credit: to be determined according to the list of definitions set out in point q) of Annex XV of the OECD Arrangement.'
+
+**Article 2**
+
+The first and second sentences of paragraph 3 of Article 3 of the Agreement are amended as follows:
+
+‘Tenor of the credit disbursed under the tied aid credit line shall not exceed twenty-four and a half (24.5) years, which includes three (3) years grace period and twenty-one and a half (21.5) years repayment period. The first repayment is due forty-two (42) months from the starting point of credit as defined in the OECD Arrangement.'
+
+**Article 3**
+
+Point b) of Article 9 of the Agreement is amended as follows:
+
+‘This Agreement shall be valid for a period of four (4) years from the date of its coming into force, and shall be automatically renewed for a period of one (1) year, unless one Party informs the other of its decision to terminate it, by means of a written notification at least three (3) months prior to expiry.'
+
+**Article 4**
+
+Appendix 1 to the Agreement is amended in accordance with Appendix 1 to the Protocol.
+
+**Article 5**
+
+The Protocol is an integral part of the Agreement and remains valid as long as the Agreement.
+
+The Contracting Parties shall notify each other in writing through diplomatic channels that they have fulfilled the internal legal procedures necessary for the coming into force of this Protocol. The present Protocol shall come into force on 1 June 2020.
+
+Done in Budapest on the 29 day of May, in 2020 in two identical originals, in Hungarian, Ukrainian and English languages, all texts being equally authentic. In case of any divergences in interpretation of the provisions of this Protocol, the English text shall prevail.
+
+................................
+
+on behalf of the Government of Hungary
+
+................................
+
+on behalf of the Government of Ukraine
+
+*Appendix 1*
+
+LIST OF PRIORITY AREAS OF\
+FINANCING FOR REALISATION UNDER THE FRAMEWORK AGREEMENT BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF UKRAINE ON PROVIDING A TIED AID CREDIT
+
+Priority projects to be financed in the framework of this Agreement:
+
+1\. Berehove City and Astey Village to Check Point ‘Luzhanka' bypass (Construction and consultancy services for the supervision over the execution of works)
+
+2\. M-24 Road Velyka Dobron – Mukachevo – Berehove – Check Point ‘Luzhanka' (Capital repair and consultancy services for the supervision over the execution of works)
+
+Additional projects, such as the ones listed below, can be approved by the Contracting Parties based on the availability of tied aid credit in the framework of this Agreement:
+
+– M-23 Road Berehove – Vynohradiv – Velyka Kopania (Capital repair, consultancy services for the supervision over the execution of works)
+
+– M-26 Road Check Point ‘Vylok' – Vylok – Nevetlenfoly – Check Point ‘Dyakovo' (Capital repair, consultancy services for the supervision over the execution of works)
+
+– M-08 Road Uzhhorod Bypass – Check Point 'Uzhhorod' (Capital repair, consultancy services for the supervision over the execution of works).

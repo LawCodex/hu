@@ -1,0 +1,270 @@
+---
+title: "399/2022. (X. 21.) Korm. rendelet a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás, valamint a Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokról"
+identifier: "399/2022. (X. 21.) Korm. rendelet"
+njt_id: "2022-399-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/399"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-10-21
+in_force_from: 2022-11-01
+last_amended: 2024-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-399-20-22"
+retrieved: 2026-10-12
+---
+
+# 399/2022. (X. 21.) Korm. rendelet a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás, valamint a Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokról
+
+A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 8. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) 5. § 18. pontja, valamint 49. § (1) bekezdése szerinti szervezetekre terjed ki.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1\. *ágazati* *felelős* *szerv:* a Nemzeti Intézkedési Rendszer (a továbbiakban: NIR) keretében alkalmazandó, valamely ágazat feladat- és hatáskörébe tartozó válságreagálási intézkedés kidolgozásáért és végrehajtásáért felelős, e rendelet hatálya alá tartozó központi államigazgatási szerv, amelyet a Nemzeti Intézkedések Gyűjteménye ágazati felelős szervként határoz meg,
+
+2\. *együttműködő* *szerv:* az e rendelet hatálya alá tartozó, a Nemzeti Intézkedések Gyűjteményében együttműködőként meghatározott, az intézkedések végrehajtásában és a NIR működtetésének támogatásában részt vevő szerv,
+
+3\. *NATO* *válságreagálási* *intézkedés:* az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) Válságreagálási Rendszerében előre kidolgozott és egyeztetett rendelkezés, amely tartalmazza a NATO és a nemzeti azonosító jelölést, az intézkedés tárgyát, célját, a felelőst, az együttműködőt, a háttérjogszabály megjelölését, a bevezetésre jogosultság szintjét, a szövetségesi, valamint a nemzeti feladatot,
+
+4\. *Nemzeti* *Intézkedések* *Gyűjteménye:* a NIR működtetéséhez szükséges, a NATO válságreagálási és az azzal összhangban álló nemzeti intézkedést összefoglalóan tartalmazó segédlet,
+
+5\. *Nemzeti* *Intézkedési* *Rendszer:* Magyarország válságkezelési döntéshozatali és végrehajtási rendszere, amely magában foglalja a NATO válságreagálási intézkedési rendszerének elemeit,
+
+6\. *NIR* *alkalmazási* *időszak:* a Vbö. 77. § (2) bekezdése szerinti esetben hozott intézkedés időszaka,
+
+7\. *NIR* *nemzeti* *koordinációjáért* *felelős* *szerv:* a védelmi és biztonsági igazgatás központi szerve,
+
+8\. *nemzeti* *válságkezelést* *koordináló* *operatív* *szerv:* a honvédelemért felelős miniszter által kijelölt szerv vagy szervezet, amely a NATO válságkezelési tevékenységével összefüggésben összehangolja a NIR végrehajtási feladatait, folyamatosan biztosítja a NATO-val való kapcsolattartást,
+
+9\. *nemzeti* *válságreagálási* *intézkedés:* a nemzeti válságkezelési rendszerben kidolgozott rendelkezés, amely tartalmazza a nemzeti azonosító jelölést, az intézkedés tárgyát, célját, a felelőst, az együttműködőt, a háttérjogszabály megjelölését, a bevezetésre jogosultság szintjét, valamint a kapcsolódó nemzeti feladatot.
+
+## 3. A NIR rendeltetése
+
+### 3. §
+
+A NIR rendeltetése a védelmi és biztonsági tevékenységek összehangolt működésének biztosítása, amelynek keretében biztosítja
+
+a) a NIR alkalmazási időszakban a NATO válságreagálási intézkedés bevezetésének és végrehajtásának nemzeti szintű koordinációját,
+
+b) a NATO válságreagálási intézkedés szövetségi szintű bevezetése kezdeményezésének koordinációját,
+
+c) a NATO válságreagálási intézkedésben a tagállamoktól kért feladat nemzeti szintű önálló végrehajtását és azokról a NATO, valamint tagállamai tájékoztatását,
+
+d) a NATO válságreagálási intézkedés bevezetésével, módosításával és visszavonásával kapcsolatos döntés előkészítéséhez, a döntés végrehajtásához szükséges eljárási rend kialakítását, továbbá
+
+e) a Nemzeti Intézkedések Gyűjteménye kiadása révén a NATO válságreagálási intézkedés és a nemzeti válságreagálási intézkedés alkalmazásával a válságreagálási feladatra történő felkészülést és a feladatok végrehajtását.
+
+### 4. §
+
+(1) A NIR keretében a NATO Válságreagálási Rendszer szerinti NATO válságreagálási intézkedés abban az esetben vezethető be, ha az összhangban áll a magyar jogszabályokkal és közjogi szervezetszabályozó eszközökkel.
+
+(2) A NIR keretében a NATO Válságreagálási Rendszer szerinti NATO válságreagálási intézkedésen kívüli egyéb nemzeti válságreagálási intézkedés is bevezethető.
+
+### 5. §[^1]
+
+A NIR nemzeti koordinációjáért felelős szerv a miniszterelnök nemzetbiztonsági főtanácsadója útján kezdeményezheti a Védelmi Tanácsnál a NIR gyakorlás céljából történő alkalmazását. Az ágazati felelős szerv a felkészülési feladatot az együttműködő szerv bevonásával a saját feladat- és hatáskörében önállóan hajtja végre.
+
+## 4. A NIR elemei
+
+### 6. §
+
+A NIR elemei
+
+a) a NIR működtetésében részt vevő szervek, amelyek
+
+aa) a NIR nemzeti koordinációjáért felelős szerv,
+
+ab) a nemzeti válságkezelést koordináló operatív szerv,
+
+ac) az ágazati felelős szerv,
+
+ad) az együttműködő szerv;
+
+b) a támogató infrastruktúra;
+
+c) a Nemzeti Intézkedések Gyűjteménye.
+
+## 5. A NIR nemzeti koordinációja
+
+### 7. §
+
+(1) A NIR nemzeti koordinációjáért felelős szerv feladatkörében eljárva
+
+a) a honvédelemért felelős miniszter által vezetett minisztérium adatszolgáltatása alapján, szakmai együttműködés keretében figyelemmel kíséri a NATO Válságreagálási Rendszerében, illetve válságreagálási intézkedésében történt változást, javaslatot tesz a Kormány részére a NIR ezzel történő összehangolására, a nemzeti feladat végrehajtására,
+
+b) koordinálja az ágazati felelős szervek részéről a NIR szakértők és kapcsolattartók tevékenységét,
+
+c) koordinálja a NIR-rel kapcsolatos felkészítési feladatok végrehajtását,
+
+d)[^2] a nemzeti válságkezelést koordináló operatív szerv, valamint az ágazati felelős szervek bevonásával évente december 31-ig elvégzi a Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálatát, amelynek eredményéről, a NIR működésének tapasztalatairól, valamint az ágazati felelős szerv által tett, a Nemzeti Intézkedések Gyűjteményében foglalt intézkedés módosítására, kiegészítésére, visszavonásra vonatkozó javaslatról a következő év február 15-ig a miniszterelnök nemzetbiztonsági főtanácsadója útján tájékoztatja a Kormányt,
+
+e) összehangolja a NIR működtetési feltételeinek folyamatos biztosításához kapcsolódó tevékenységet,
+
+f) felügyeli a NIR működését biztosító infrastruktúra kialakítását és fejlesztését.
+
+(2) A nemzeti válságkezelést koordináló operatív szerv a válsághelyzet kezelése érdekében
+
+a) tájékoztatja a Kormányt vagy a nemzeti válságreagálási intézkedés bevezetésére jogosult szervet a válságreagálási intézkedések tagállami bevezetésére vonatkozó NATO kezdeményezésről,
+
+b) szükség esetén a feladat- és hatáskörében érintett ágazati felelős szerv egyetértésével javaslatot tesz a Kormány számára a Nemzeti Intézkedések Gyűjteményében rögzített intézkedés soron kívüli bevezetésére, annak felfüggesztésére vagy visszavonására, kivéve, ha a bevezetés, a felfüggesztés vagy a visszavonás ágazati hatáskörbe tartozik,
+
+c) kezdeményezi a Kormánynál vagy a nemzeti intézkedés bevezetésére jogosult szervnél a Nemzeti Intézkedések Gyűjteményében rögzítetten túl további intézkedés bevezetését és a felelős szerv bevonását,
+
+d) az ágazati felelős szervnél kezdeményezi a Nemzeti Intézkedések Gyűjteményében rögzített, a feladat- és hatáskörébe tartozó intézkedés bevezetését, végrehajtását, felfüggesztését vagy visszavonását,
+
+e) tájékoztatja a NATO szervét az általa kezdeményezett válságreagálási intézkedéssel kapcsolatos nemzeti álláspontról és a bevezetett nemzeti intézkedésről,
+
+f) javaslatot fogalmaz meg a Kormány részére a NATO válságreagálási intézkedés bevezetésének kezdeményezésére, vagy az abban foglalt, a tagállamtól kért feladat önálló nemzeti végrehajtására.
+
+## 6. Az ágazati válságreagálási intézkedések bevezetése és végrehajtása
+
+### 8. §
+
+(1) Az ágazati felelős szerv vezetője a (2) bekezdésben foglalt feladatait más ágazattal együttműködve, és a Nemzeti Intézkedések Gyűjteményében kijelölt együttműködő szerv bevonásával hajtja végre.
+
+(2) Az ágazati felelős szerv vezetője a feladat- és hatáskörében eljárva
+
+a) a NATO kezdeményezésére, vagy szükség esetén önállóan, a nemzeti válságkezelést koordináló operatív szerv egyidejű tájékoztatása mellett intézkedik a Nemzeti Intézkedések Gyűjteményében rögzített, feladat- és hatáskörébe tartozó válságreagálási intézkedés bevezetésére, annak felfüggesztésére vagy visszavonására,
+
+b)[^3] irányítja az elrendelt nemzeti válságreagálási intézkedés és NATO válságreagálási intézkedés ágazati feladatának végrehajtását, koordinálja a végrehajtásban együttműködő szervek tevékenységét, valamint végzi rendszeres felkészítésüket,
+
+c) a nemzeti válságkezelést koordináló operatív szerv útján javaslatot tesz a NIR a NATO Válságreagálási Rendszertől független, önálló nemzeti alkalmazására,
+
+d) meghatározza az irányítása, vezetése, felügyelete alatt működő szervnél a Nemzeti Intézkedések Gyűjteményében feladatkörébe utalt válságreagálási intézkedés ágazati végrehajtásának rendjét, azonosítja a végrehajtásban együttműködő szervet,
+
+e) az ágazati felelős szerv egyidejű tájékoztatása mellett kezdeményezi a feladat- és hatáskörével összefüggő, de más ágazati felelős szerv feladat- és hatáskörébe tartozó, a Nemzeti Intézkedések Gyűjteményében szereplő intézkedés bevezetését, felfüggesztését vagy visszavonását az ágazati felelős szervnél,
+
+f) a NIR nemzeti koordinációjáért felelős szerv előzetes egyetértésével a nemzeti válságkezelést koordináló operatív szerv útján indokolással ellátott döntési javaslatot tesz, ha a feladat- és hatáskörét érintő nemzeti válságreagálási intézkedés bevezetése a Kormány döntését igényli,
+
+g) indokolással ellátott javaslatot tesz a nemzeti válságkezelést koordináló operatív szervnél a NATO Válságreagálási Intézkedések szövetségi szintű alkalmazásának kezdeményezésére,
+
+h) kijelöli a NIR ágazati kapcsolattartót és helyettesét, elérhetőségi adataikat naprakészen tartja, és megküldi a NIR nemzeti koordinációjáért felelős szerv részére,
+
+i) irányítja a NIR működtetésével kapcsolatos feladatra történő ágazati felkészülést,
+
+j) saját költségvetésében tervezi a NIR ágazati alkalmazásához szükséges költséget, és szakterületén biztosítja a NIR ágazati működtetéséhez és fejlesztéséhez szükséges személyi és tárgyi feltételt,
+
+k) indokolással ellátott javaslatot tesz a NIR nemzeti koordinációjáért felelős szervnél a Nemzeti Intézkedések Gyűjteményében foglalt intézkedés módosítására, kiegészítésére, hatályon kívül helyezésére,
+
+l) irányítja a NIR működtetését biztosító ágazati infrastruktúra kialakítását, fenntartását és fejlesztését.
+
+## 7. Az együttműködő szerv
+
+### 9. §
+
+Az együttműködő szerv vezetője
+
+a) feladat- és hatáskörében intézkedik a Nemzeti Intézkedések Gyűjteményében rögzített együttműködési feladat végrehajtására, annak felfüggesztésére vagy befejezésére,
+
+b)[^4] az irányítása, vezetése, felügyelete alá tartozó szervezet vonatkozásában irányítja a bevezetett nemzeti válságreagálási intézkedés szerinti együttműködési feladat végrehajtását,
+
+c) tájékoztatja az ágazati felelős szervet a nemzeti válságreagálási intézkedéssel kapcsolatos együttműködési feladat végrehajtásáról, annak felfüggesztéséről vagy befejezéséről,
+
+d) javaslatot tesz az ágazati felelős szervnek a Nemzeti Intézkedések Gyűjteményében rögzített, de más együttműködő szerv vagy ágazati felelős szerv feladat- és hatáskörébe tartozó válságreagálási intézkedés végrehajtásának, annak felfüggesztésének vagy befejezésének kezdeményezésére,
+
+e) végrehajtja a nemzeti válságreagálási intézkedéssel kapcsolatos, feladat- és hatáskörébe tartozó felkészítési feladatot.
+
+## 8. A NIR működtetését támogató infrastruktúra
+
+### 10. §
+
+A NIR működtetését támogató infrastruktúra elemeit
+
+a) a működtetés során igénybe vett központi kormányzati és ágazati létesítmény (a továbbiakban: NIR létesítmény), valamint
+
+b) az ágazati felelős szerv által alkalmazott kormányzati célú nyílt és minősített elektronikus hírközlési és informatikai rendszer és eszköz
+
+alkotják.
+
+### 11. §
+
+(1) A NIR létesítmény biztosítja a NIR alkalmazásának időszakában a Kormány, a NIR működtetésében részt vevő szerv, és az irányítása, vezetése, felügyelete alá tartozó szervezet részére a megfelelő és biztonságos munkakörülményt, valamint a döntés előkészítéséhez és meghozatalához, a vezetéshez és az irányításhoz szükséges technikai eszköz működéséhez szükséges feltételt.
+
+(2) A NIR létesítménye különösen:
+
+a) a Kormány speciális működési feltételeit biztosító létesítmény, valamint
+
+b) az ágazati felelős szerv vezetőjének irányítása, vezetése, felügyelete alá tartozó szervezet, valamint a Magyar Honvédség kijelölt létesítménye.
+
+### 12. §
+
+(1) A NIR működtetését támogató elektronikus hírközlési és informatikai rendszer és eszköz a NATO szerve és a NIR működtetésében részt vevő szerv közötti folyamatos, megbízható információáramlást és adattovábbítást, valamint a NIR működtetésében részt vevő szerv riasztását biztosítja.
+
+(2) A NIR működtetésében részt vevő szerv riasztása, valamint a NIR működtetése során a Nemzeti Intézkedések Gyűjteményében meghatározott, minősített adatnak nem minősülő válságreagálási intézkedésre vonatkozó információ továbbítására a Magyarországon üzemeltetett vezetékes és mobil rádiótelefon-hálózat, valamint a feladatra kijelölt személyes kiértesítő szolgálat is alkalmazható.
+
+(3) A NIR működtetését támogató kormányzati elektronikus hírközlési és informatikai rendszer és eszköz NIR-rel kapcsolatos alkalmazását a NIR nemzeti koordinációjáért felelős szerv felügyeli.
+
+## 9. A Nemzeti Intézkedések Gyűjteménye
+
+### 13. §
+
+(1) A Nemzeti Intézkedések Gyűjteménye intézkedés- és előírásmintát tartalmaz a NATO Válságreagálási Rendszerben meghatározott intézkedéssel összhangban álló nemzeti válságreagálási intézkedés bevezetéséhez, a nemzeti válságreagálási intézkedés bevezetéséért és végrehajtásáért felelős ágazati felelős szerv, az együttműködő szerv, illetve az információvédelmi szempontból minősített, különleges eljárásrend meghatározásával.
+
+(2) A Nemzeti Intézkedések Gyűjteménye a NATO Válságreagálási Rendszerben meghatározott intézkedéstől függetlenül alkalmazandó nemzeti válságkezelési intézkedést önálló fejezetben jeleníti meg.
+
+### 14. §
+
+A Nemzeti Intézkedések Gyűjteményében foglalt intézkedés- és előírásminta időszakonkénti felülvizsgálatát és módosítását a NIR nemzeti koordinációjáért felelős szerv a nemzeti válságkezelést koordináló operatív szerv, az ágazati felelős szerv és az együttműködő szerv bevonásával végzi.
+
+## 10. A kapcsolattartás és az együttműködés rendje
+
+### 15. §
+
+(1) A NATO Válságreagálási Rendszere alkalmazása során az Észak-atlanti Tanáccsal és bizottságaival a honvédelemért felelős miniszter a külpolitikáért felelős miniszterrel együttműködve, a NATO-hoz delegált nemzeti képviseleten keresztül, a NATO más szervével a NATO kommunikációs eszközén keresztül tartja a kapcsolatot.
+
+(2) A NIR alkalmazása során a nemzeti válságkezelést koordináló operatív szerv az ágazati felelős szervvel a kijelölt ágazati kapcsolattartó útján, az együttműködő szervvel az ágazati felelős szerven keresztül, illetve közvetlenül a NIR működtetését támogató elektronikus hírközlési és informatikai rendszeren és eszközön keresztül tartja a kapcsolatot.
+
+(3) A NIR alkalmazása során a nemzeti válságkezelést koordináló operatív szerv közvetlen kapcsolatot is létesíthet az ágazati együttműködő szervvel az ágazati felelős egyidejű értesítésével.
+
+(4) A bevezetett nemzeti intézkedés végrehajtása során az együttműködő szervek közötti koordinációt az érintett ágazati felelős szervek szervezik meg.
+
+(5) A NIR működtetését támogató elektronikus hírközlési és informatikai rendszer és eszköz működési zavara esetén annak elhárításáig a NIR működtetésében közreműködő szervek futárszolgálat útján tartják a kapcsolatot.
+
+## 11. Értesítési és riasztási rend
+
+### 16. §
+
+(1) Ha a NATO feladat- és hatáskörrel rendelkező szerve a tagállamnál válságreagálási intézkedés bevezetését kezdeményezi, és a kezdeményezés nem a nemzeti válságkezelést koordináló operatív szervhez érkezik, a kezdeményezés fogadója a NIR nemzeti koordinációjáért felelős szervet tájékoztatja. A NIR nemzeti koordinációjáért felelős szerv ezt követően a nemzeti válságkezelést koordináló operatív szervet, valamint az ágazati felelős szervet haladéktalanul tájékoztatja.
+
+(2) Ha a NATO feladat- és hatáskörrel rendelkező szerve által kezdeményezett valamely válságreagálási intézkedés bevezetéséhez a Kormány döntése szükséges, a NIR nemzeti koordinációjáért felelős szerv erről haladéktalanul előterjesztést készít.
+
+(3) A NATO feladat- és hatáskörrel rendelkező szerve által kezdeményezett válságreagálási intézkedéssel összhangban álló nemzeti válságreagálási intézkedés Magyarország általi bevezetéséről vagy visszavonásáról a nemzeti válságkezelést koordináló operatív szerv a NIR nemzeti koordinációjáért felelős szerv tájékoztatása mellett haladéktalanul tájékoztatja a NATO feladat- és hatáskörrel rendelkező szervét.
+
+### 17. §
+
+A NIR működtetésében részt vevő szerv riasztását a nemzeti válságkezelést koordináló operatív szerv
+
+a) a kormányügyelet,
+
+b) az ágazati felelős szerv által megadott ügyeleten keresztül a NIR működtetését támogató elektronikus hírközlési és informatikai rendszer és eszköz vagy
+
+c) futárszolgálat
+
+útján végzi.
+
+### 18. §
+
+A 8. § (2) bekezdés g) pontja szerinti kezdeményezés alapján született kormányzati döntést a nemzeti válságkezelést koordináló operatív szerv haladéktalanul, a külpolitikáért felelős miniszterrel együttműködve, a NATO-hoz delegált nemzeti képviseleten keresztül juttatja el a NATO feladat- és hatáskörrel rendelkező szervéhez.
+
+## 12. Záró rendelkezések
+
+### 19. §
+
+Ez a rendelet 2022. november 1-jén lép hatályba.
+
+---
+
+[^1]: Az 5. § a 217/2024. (VII. 31.) Korm. rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^2]: A 7. § (1) bekezdés d) pontja a 217/2024. (VII. 31.) Korm. rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 8. § (2) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 19. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^4]: A 9. § b) pontja a 217/2024. (VII. 31.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.

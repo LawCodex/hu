@@ -1,0 +1,247 @@
+---
+title: "338/2022. (IX. 7.) Korm. rendelet az országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokról"
+identifier: "338/2022. (IX. 7.) Korm. rendelet"
+njt_id: "2022-338-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/338"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-09-07
+in_force_from: 2022-09-08
+last_amended: 2023-08-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-338-20-22"
+retrieved: 2026-10-12
+---
+
+# 338/2022. (IX. 7.) Korm. rendelet az országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokról
+
+A Kormány az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés a), b) és d) pontjában, valamint (1b) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 12. § (3a) bekezdése szerinti országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a koncessziós jog részeként megillető működtetési joggal összefüggő jogviszonyra, az abban részt vevő személyekre és szervezetekre, valamint a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési joggal érintett átengedett állami vagyonra terjed ki.
+
+(2) E rendelet hatálya alá tartozó, a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési joggal érintett átengedett állami vagyon tekintetében az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendeletben foglalt rendelkezések nem alkalmazhatóak.
+
+(3) E rendelet alkalmazásában
+
+1\. *átengedett állami vagyon:* a kizárólagos gazdasági tevékenység időleges átengedésével összefüggő jogviszonyban a kizárólagos gazdasági tevékenység gyakorlására jogosult személy vagy szervezet részére a kizárólagos gazdasági tevékenység végzése céljából átadott állami tulajdonú vagyontárgy, valamint a jogviszony alapján általa létrehozott, az állam tulajdonába kerülő vagyontárgy;
+
+2\. *kizárólagos gazdasági tevékenység:* az Nvtv. 12. § (1) bekezdés i) pontja szerinti országos közutak és műtárgyaik létrehozására és működtetésére irányuló gazdasági tevékenység;
+
+3\. *kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés:* az Nvtv. 12. § (3) bekezdése szerinti koncessziós szerződés;
+
+4\. *közútkezelő gazdasági társaság:* a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 48. § (3) bekezdés a) pont 52. alpontjának felhatalmazása alapján kiadott kormányrendeletben kijelölt állami tulajdonú gazdasági társaság;
+
+5\. *közútfejlesztési gazdasági társaság:* a Kkt. 48. § (3) bekezdés a) pont 51. alpontjának felhatalmazása alapján kiadott kormányrendeletben kijelölt állami tulajdonú gazdasági társaság;
+
+6\. *működtetési jog:* az Nvtv. 12. § (3a) bekezdése alapján a kizárólagos tevékenység végzése céljából átengedett állami vagyon tekintetében létrejövő jog;
+
+7\. *működtetési jog jogosultja:* a kizárólagos gazdasági tevékenység gyakorlására jogosult személy vagy szervezet;
+
+8\. *vagyonkezelő:* az Nvtv.-ben vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság, valamint annak jogelődje vagy a tulajdonosi joggyakorló vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl;
+
+9\. *vagyontárgy:* a működtetési jog jogosultja részére átengedett állami vagyoni körbe tartozó ingó és ingatlan vagyonelem.
+
+## 2. §
+
+(1) A vagyontárgy működtetetési jog jogosultja részére történő átadása során az államot – a (2)–(5) és a (11) bekezdés szerinti kivétellel – a vagyontárgy vagyonkezelője képviseli. Ha nem a közútfejlesztési vagy a közútkezelő gazdasági társaság a vagyonkezelő, akkor – a (10) bekezdés szerinti kivétellel – a tulajdonosi joggyakorló felhívja az átadásra kerülő vagyontárgy vagyonkezelőjét, hogy járjon el a vagyontárgy átadása során az állam képviseletében.
+
+(2) Ha a vagyontárgynak nincs vagyonkezelője, de a vagyontárgyat – az országos közút részeként, alkotórészeként, műtárgyaként vagy tartozékaként – a közútkezelő gazdasági társaság kezeli, a vagyontárgy működtetetési jog jogosultja részére történő átadása során az államot a közútkezelő gazdasági társaság képviseli.
+
+(3) Ha a vagyontárgynak nincs vagyonkezelője, de a vagyontárgyat a közútfejlesztési gazdasági társaság jogosult a beruházás céljára felhasználni, a vagyontárgy működtetetési jog jogosultja részére történő átadása során az államot a közútfejlesztési gazdasági társaság képviseli.
+
+(4) Ha a vagyontárgynak nincs vagyonkezelője, és a vagyontárgyat a közútkezelő vagy a közútfejlesztési gazdasági társaság sem kezeli, valamint annak beruházás céljára történő felhasználására a közútfejlesztési gazdasági társaság nem jogosult, akkor a vagyontárgy működtetetési jog jogosultja részére történő átadása során az államot a tulajdonosi joggyakorló képviseli.
+
+(5) Ha a vagyontárgyat hordozó ingatlan a közútkezelő gazdasági társaságtól eltérő személy vagy szervezet vagyonkezelésében áll, és a hordozó ingatlan működtetetési jog jogosultja részére történő átadása nem szükséges, a vagyontárgy átadása során az államot a közútkezelő gazdasági társaság képviseli.
+
+(6) A kizárólagos gazdasági tevékenység gyakorlásához szükséges, a kisajátításról szóló 2007. évi CXXIII. törvény 40/H. §-a szerinti országos közút által érintett ingatlant (a továbbiakban: közút által érintett ingatlan) a közút műszaki határán belüli, állami tulajdonban álló ingatlanok (1) bekezdés szerinti átadásakor a közútkezelő gazdasági társaság adja a működtetési jog jogosultja birtokába, birtokátruházási jegyzőkönyv egyidejű felvétele mellett.
+
+(7) A közút által érintett ingatlan állami tulajdonba kerülésekor az Nvtv. 12. § (3c) bekezdése szerinti átadás-átvételi eljárást az (1)–(4) vagy (5) bekezdésnek megfelelően haladéktalanul le kell folytatni.
+
+(8) Ha a kizárólagos gazdasági tevékenység gyakorlásához szükséges ingatlan tekintetében az állami tulajdonszerzésre irányuló eljárás a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződésben, illetve jogszabályban az ingatlan átadására meghatározott időpontban még folyamatban van, és a közútfejlesztési gazdasági társaság rendelkezik az ingatlan tekintetében a beruházás megvalósításához szükséges, az ingatlan használatát biztosító jogcímmel, az ingatlant a közútfejlesztési gazdasági társaság adja a kizárólagos gazdasági tevékenység gyakorlására jogosult személy vagy szervezet birtokába, birtokátruházási jegyzőkönyv egyidejű felvétele mellett.
+
+(9) A (8) bekezdés szerinti ingatlan állami tulajdonba kerülésekor az Nvtv. 12. § (3c) bekezdése szerinti átadás-átvételi eljárást az (1)–(4) vagy (5) bekezdésnek megfelelően haladéktalanul le kell folytatni.
+
+(10) Azoknak a kizárólagos gazdasági tevékenység gyakorlásához szükséges, állami tulajdonban álló ingatlanoknak az esetében, ahol a közútfejlesztési gazdasági társaság beszerezte a vagyonkezelőtől az érintett ingatlan vagy ingatlanrész beruházás céljára történő igénybevételére vonatkozó engedélyt, de az átadásig a Kkt. 29. § (1f) bekezdése szerinti vagyonkezelői jog változás ingatlan-nyilvántartásba történő bejegyzésére nem került sor, a közútfejlesztési gazdasági társaság jogosult az ingatlant a működtetési jog jogosultja részére az állam képviseletében átadni.
+
+(11) Ha az átadásig a Kkt. 29. § (3e) bekezdése alapján az elszámolási kimutatás elkészítésére még nem került sor, akkor a közútfejlesztési gazdasági társaság és a közútkezelő gazdasági társaság együttesen jár el az átadás során az állam képviseletében.
+
+## 3. §
+
+(1) Az átengedett állami vagyon átadás-átvétele során az állam képviseletében a 2. § alapján eljáró személy vagy szervezet (a továbbiakban: átadó) gondoskodik az Nvtv. 12. § (3c) bekezdése szerinti átadás-átvételi jegyzőkönyv elkészítéséről, valamint a számviteli nyilvántartás rendezéséhez szükséges adatszolgáltatás teljesítéséről, azzal, hogy a számviteli nyilvántartás rendezéséhez szükséges korrekciót az átadó a 4. § (2) bekezdése szerint végzi el.
+
+(2) Az átadó a jegyzőkönyv aláírásával egyidejűleg a működtetési jog jogosultja rendelkezésére bocsátja azon vagyontárgyakhoz kapcsolódó jogviszonyok, szerződések, továbbá a folyamatban lévő peres és nemperes eljárások jegyzékét, amelyekbe a működtetési jog jogosultja jogutódként belép, valamint az ezekkel kapcsolatban rendelkezésre álló dokumentumokat.
+
+(3) Ha a vagyontárgyakhoz kapcsolódóan a folyamatban lévő peres és nemperes eljárásban a tulajdonosi joggyakorló jár el, és az 5. § (1) bekezdése szerint a működtetési jog jogosultja az eljárásba jogutódként belép, a tulajdonosi joggyakorló adja át az eljárással kapcsolatban rendelkezésre álló dokumentumokat.
+
+(4) A Kkt. 32/B. § (1) bekezdése szerinti állami vagyon tekintetében a vagyonkezelő a forgalomba helyezési engedély iránti kérelem benyújtásával egyidejűleg gondoskodik a működtetési jog ingatlan-nyilvántartási bejegyzéséhez szükséges átadás-átvételi jegyzőkönyv elkészítéséről. Az átadás-átvételi jegyzőkönyv a végleges vagy ennek hiányában az ideiglenes forgalomba helyezés engedélyezéséről szóló határozat véglegessé válásának napját követően nyújtható be az ingatlanügyi hatósághoz.
+
+## 4. §
+
+(1) Az átadó a 3. § (1) és (4) bekezdése szerinti jegyzőkönyvhöz csatolja a vagyontárgyaknak az átadónál nyilvántartott előzetes tájékoztató érték adatait a működtetési jog jogosultja részére.
+
+(2) Az átadó a 3. § (1) bekezdése szerinti jegyzőkönyv aláírását követő hatvan napon, valamint a 3. § (4) bekezdése szerinti jegyzőkönyv aláírását követő hat hónapon belül – a vagyontárgyak mennyiségét, tényleges fekvési vagy fellelési helyét, a jegyzőkönyv aláírásának napján érvényes bruttó értéket, elszámolt terv szerinti és terven felüli értékcsökkenést, az elszámolt értékvesztést, továbbá a kapcsolódó értékhelyesbítést is tartalmazó, a tulajdonosi joggyakorló által előírt formában és adattartalommal a tulajdonosi joggyakorló részérére megküldésre kerülő migrációs tábla kitöltésével együtt – kimutatást készít abból a célból, hogy a vagyontárgyat a jegyzőkönyv aláírásának napján nyilvántartott könyv szerinti értéken a könyveiből kivezesse, és a tulajdonosi joggyakorló nyilvántartását rendezze.
+
+(3) A tulajdonosi joggyakorló az átadó (2) bekezdés szerinti kimutatásának kézhezvételét követő 30 napon belül átadja a működtetési jog jogosultja által vezetett nyilvántartáshoz szükséges érték adatokat tartalmazó kimutatását a működtetési jog jogosultja részére abból a célból, hogy a működtetési jog jogosultja a könyveiben azokat nyilvántartásba vegye a 7. § (2) bekezdésére tekintettel.
+
+## 5. §
+
+(1) A vagyonkezelői jognak az Nvtv. 12. § (3b) bekezdése szerinti megszűnése napján a vagyontárgyak tekintetében az átadás napján fennálló jogviszonyokba – a tulajdonjog állam javára történő megszerzésével, valamint a tulajdonjog átruházásával kapcsolatos jogviszonyok kivételével – és szerződésekbe, valamint a folyamatban lévő peres és nemperes eljárásokba a működtetési jog jogosultja jogutódként belép.
+
+(2) A működtetési jog jogosultja a jogutódlásról annak beálltát követő tizenöt napon belül írásban értesíti a jogviszonyban érintett harmadik személyt, valamint a folyamatban lévő peres és nemperes eljárásban érintett szereplőket. A jogutódlással érintett jogviszonyban érintett harmadik személy az értesítés kézhezvételét követően hatvan napon belül gyakorolhatja a felmondás jogát.
+
+## 6. §
+
+(1) A működtetési jog jogosultja köteles az átengedett állami vagyon – így különösen az országos közutak és műtárgyaik, továbbá az azokat hordozó ingatlanok, valamint az országos közutak és műtárgyaik kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződésnek és a jogszabályoknak megfelelő létesítéséhez vagy működtetéséhez szükséges, állami tulajdonban lévő egyéb ingatlanok – állagának megóvásáról, jó karbantartásáról, működtetéséről és értékének megőrzéséről a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés szerint gondoskodni, valamint a szerződésben előírt további kötelezettségeket teljesíteni, a vagyontárgyakat a jogszabályokban, valamint a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződésben meghatározott célnak megfelelően használni.
+
+(2) A működtetési jog jogosultja
+
+a) a vagyontárgyat nem idegenítheti el, valamint – az ingatlanra közérdekből, külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelheti meg;
+
+b) a vagyontárgyat biztosítékul nem adhatja;
+
+c) a vagyontárgyon osztott tulajdont nem létesíthet;
+
+d) a vagyontárgyra vonatkozó polgári jogi igényt megalapító, polgári jogi igényt eldöntő tulajdonosi hozzájárulást hatósági és bírósági eljárásban sem adhat, kivéve a jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati joghoz, vezetékjoghoz vagy ugyanezen okból alapított szolgalomhoz, továbbá a helyi önkormányzat javára alapított vezetékjoghoz történő hozzájárulást.
+
+(3) A működtetési jog jogosultja a működtetési jogot harmadik személyre nem ruházhatja át és nem terhelheti meg, továbbá nem pénzbeli vagyoni hozzájárulásként gazdasági társaság rendelkezésére nem bocsáthatja.
+
+(4) A működtetési jog jogosultja a működtetési jog gyakorlása során jogosult és köteles az átengedett állami vagyon működtetésével összefüggésben felmerülő valamennyi, a tulajdonjog változással nem járó jognyilatkozatot megtenni, ideértve a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés rendelkezéseivel és a jogszabályokkal összhangban végzett beruházás megvalósításához szükséges, harmadik személy részére tett jognyilatkozatot is, azzal, hogy az osztatlan közös tulajdon létrejöttét nem eredményezheti, valamint osztott tulajdon létrejöttének elismeréséhez sem vezethet. Az állami beruházásokhoz történő hozzájárulás megadását a működtetési jog jogosultja nem tagadhatja meg.
+
+(5) A működtetési jog jogosultja a kizárólagos gazdasági tevékenység gyakorlása során – azzal összefüggésben – az állam képviseletében eljárva megteheti az érintett vagyontárgy állami tulajdonba kerüléséhez szükséges jognyilatkozatokat.
+
+(6) A működtetési jog jogosultja a (4) bekezdés szerint megtett jognyilatkozatokról, valamint a kiadott jognyilatkozatok alapján az átengedett állami vagyont érintően elvégzett beruházások eredményéről évente, a tárgyévet követő év január 31. napjáig a tulajdonosi joggyakorló által meghatározott módon és tartalommal adatot szolgáltat a tulajdonosi joggyakorló részére.
+
+(7) A működtetési jog jogosultja a működtetési joggal kapcsolatos jogok gyakorlása és kötelezettségek teljesítése során – a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés előírásainak megfelelően – közreműködőt vehet igénybe.
+
+## 7. §
+
+(1) Az átengedett állami vagyont a tulajdonosi joggyakorló az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) alapján tartja nyilván.
+
+(2) A működtetési jog jogosultja az átengedett állami vagyonról az Áhsz. 14. számú mellékletének megfelelő adattartalommal, a tulajdonosi joggyakorló által meghatározott módon adatot szolgáltat a tulajdonosi joggyakorló részére.
+
+(3) A működtetési jog jogosultja
+
+a) a tulajdonosi joggyakorló által meghatározott formában a 4. § (3) bekezdése szerinti kimutatás működtetési jog jogosultja részére történő átadását követően, negyedévente, a tárgynegyedévet követő hónap utolsó napjáig – az érintett vagyontárgy megjelölésével – tételes, könyvvizsgálói nyilatkozattal alátámasztott adatot szolgáltat a tulajdonosi joggyakorló részére az átengedett állami vagyonon a tárgynegyedévben üzembe helyezett értéknövelő beruházásokról, felújításokról, egyéb vagyonváltozásokról, amely adatszolgáltatás tartalmazza a létrehozott és az állam tulajdonába kerülő vagyontárgyak, valamint az egyéb vagyonváltozás mennyiségét, tényleges előfordulásának helyét és a bruttó értékét;
+
+b) az a) pont szerinti adatszolgáltatással egyidejűleg adatot szolgáltat az átengedett állami vagyon után elszámolt terven felüli értékcsökkenésről; és
+
+c) amennyiben értékhelyesbítéssel élt, akkor az Áhsz. 30/A. § f) pontja szerinti mérlegkészítés időpontját megelőző 30 napon belül adatot szolgáltat a tulajdonosi joggyakorló részére az átengedett állami vagyon tekintetében érvényesített értékhelyesbítésről.
+
+(4) A működtetési jog jogosultja külön térítés és díjazás nélkül, évente elvégzi az átengedett állami vagyon tételes mennyiségi és értékbeli leltározását a számviteli törvény, valamint az Áhsz. előírásai alapján. A működtetési jog jogosultja a tárgyévet követő év május 31. napjáig megküldi a hiteles leltárjegyzőkönyvet és leltárnyilatkozatot a tulajdonosi joggyakorló részére.
+
+(5) A tulajdonosi joggyakorló az átengedett állami vagyon jellemzőit és értékét a működtetési jog jogosultja által elkészített és hitelesített leltárral támasztja alá.
+
+(6) Az átengedett állami vagyon bekerülési értéke a tulajdonosi joggyakorlónál megegyezik a (3) bekezdés szerinti adatszolgáltatásban rögzített bruttó értékkel.
+
+## 8. §
+
+(1) A működtetési jog jogosultja az átengedett állami vagyon működtetésével összefüggésben jogosult a bontással járó munkálatok elvégzésére és a működtetési jog jogosultjának mindenkor hatályos selejtezési szabályzata alapján az átengedett állami vagyon selejtezésére. A működtetési jog jogosultja a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezésből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
+
+(2) A működtetési jog jogosultja a kizárólagos gazdasági tevékenység végzésével összefüggésben keletkezett, állami tulajdonú vissznyereményi anyagokat nyilvántartja, és arról a tulajdonosi joggyakorló részére a 7. § (3) bekezdése szerint adatot szolgáltat.
+
+(3) A működtetési jog jogosultja a (2) bekezdés szerinti vissznyereményi anyagot (így különösen bontott út-, híd- és vízépítési anyagok, táblák, úttartozékok, faanyag) az átengedett állami vagyon felújítása vagy az átengedett állami vagyonnal kapcsolatos beruházásai során felhasználhatja, beépítheti.
+
+(4) Ha a (2) bekezdés szerinti vissznyereményi anyagokat a működtetési jog jogosultja a (3) bekezdés szerint nem használja fel, nem építi be, akkor jogosult ezen vissznyereményi anyagokat a tulajdonosi joggyakorló részére – a tulajdonosi joggyakorlóval kötött eseti megállapodásban rögzített módon – átadni, azzal, hogy az eseti megállapodás megkötése a vissznyereményi anyagok tulajdonosi joggyakorló részére történő átadásának előfeltétele.
+
+## 9. §
+
+(1) A működtetési jog megszűnése esetén az átengedett állami vagyon átadás-átvételével és a működtetési jog ingatlan-nyilvántartásból való törlésével kapcsolatos eljárásban az állam nevében a tulajdonosi joggyakorló jár el.
+
+(2) A működtetési jog jogosultja a működtetési jog megszűnésekor a részére átengedett állami vagyon tekintetében köteles a tulajdonosi joggyakorló által előírt formában és adattartalommal – a vagyontárgyak mennyiségét és fekvési vagy fellelési helyét is tartalmazó – migrációs tábla kitöltésére. A működtetési jog megszűnését követő harminc napon belül a működtetési jog jogosultja kimutatást készít és a vagyontárgyakat az állam nevében eljáró tulajdonosi joggyakorló részére átadja.
+
+(3) A kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződés megszűnésekor a működtetési jog fennállása alatt keletkezett vissznyereményi anyagokkal a működtetési jog jogosultja elszámol, és a fel nem használt vissznyereményi anyagokat a tulajdonosi joggyakorló részére átadja.
+
+## 10. §
+
+(1) Ha a működtetési jog jogosultja megállapítja, hogy valamely vagyontárgy a kizárólagos gazdasági tevékenység végzéséhez nem szükséges, megkereséssel fordul a koncesszióba adóhoz az érintett vagyontárgy tulajdonosi joggyakorló részére történő átadásához való hozzájárulás érdekében. A koncesszióba adó egyetértése esetén a működtetési jog jogosultja – a (3) bekezdésben foglalt esetek kivételével – a tulajdonosi joggyakorlónál írásban kezdeményezheti az érintett vagyontárgy átadás-átvételét és egyidejűleg – tételes adatszolgáltatás keretében, a tulajdonosi joggyakorló által meghatározott formában – tájékoztatja a tulajdonosi joggyakorlót az érintett vagyontárgyak mennyiségéről és fekvési vagy fellelési helyéről.
+
+(2) A tulajdonosi joggyakorló – a (4) bekezdés szerinti eset kivételével – a működtetési jog jogosultja értesítésének és adatszolgáltatásának maradéktalan beérkezését követő kilencven napon belül lefolytatja a működtetési jog jogosultjával az érintett vagyontárgyak átadás-átvételét.
+
+(3) A működtetési jog jogosultja nem jogosult az érintett vagyontárgy átadására, ha
+
+a) a vagyontárgy jogcím nélküli használattal érintett, annak fennállásáig;
+
+b) a vagyontárgy környezeti kárral, hulladékkal érintett, a környezeti kármentesítés vagy a hulladék eltávolításának időpontjáig;
+
+c) a vagyontárgy tekintetében rekultiváció szükséges, annak lefolytatásáig;
+
+d) az érintett vagyontárgyhoz a működtetési jog jogosultja tevékenységéből fakadó fizetési kötelezettség kapcsolódik, a fizetési kötelezettség rendezéséig.
+
+(4) Ingó vagyontárgy esetén, ha a tulajdonosi joggyakorló nem rendelkezik annak tárolásához szükséges tárolási kapacitással, az átvételt legfeljebb hat hónapig megtagadhatja. Az átvétel megtagadása esetén az érintett vagyontárgy tárolásáról az átadásig a működtetési jog jogosultja gondoskodik, és viseli az ezzel kapcsolatban felmerült valamennyi költséget.
+
+(5) A tulajdonosi joggyakorló részére átadásra kerülő vagyontárgyak átadás-átvétele a tulajdonosi joggyakorló és a működtetési jog jogosultja által is aláírt átadás-átvételi jegyzőkönyv felvételével történik. Az átadás-átvételi jegyzőkönyv aláírásának időpontjában a működtetési jog jogosultja az adott vagyontárgyhoz kapcsolódó, rendelkezésére álló dokumentumot átadja a tulajdonosi joggyakorló részére, továbbá rendelkezésére bocsájtja a működtetési jog ingatlan-nyilvántartásból történő törléséhez szükséges nyilatkozatot. Az átadás-átvétel napjával az érintett vagyontárgyak tekintetében a működtetési jog megszűnik.
+
+(6) A működtetési jog jogosultját a vagyontárgyak tulajdonosi joggyakorló részére történő átadásáig terhelik a működtetési jogból fakadó kötelezettségek.
+
+## 11. §
+
+(1) A működtetési jog gyakorlását, annak szabályszerűségét, a kötelezettségek teljesítését a tulajdonosi joggyakorló a koncesszióba adó bevonásával rendszeresen ellenőrzi. A működtetési jog jogosultjára a tulajdonosi joggyakorló mindenkor hatályos ellenőrzési eljárásrendjének működtetési jogra vonatkozó rendelkezéseit alkalmazni kell.
+
+(2) A tulajdonosi ellenőrzés célja az állami vagyonnal való gazdálkodás vizsgálata, ennek keretében a kizárólagos gazdasági tevékenység átengedésének alapjául szolgáló szerződésbe ütköző, rendeltetésellenes, jogszerűtlen vagy a tulajdonos érdekeit sértő vagyongazdálkodási intézkedések feltárása és a jogszerű állapot helyreállítása, továbbá a vagyonnyilvántartás hitelességének, teljességének és helyességének biztosítása.
+
+## 12. §
+
+(1) A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy jogosult
+
+a) az ellenőrzött működtetési jog gyakorlásával összefüggő helyiségeibe, ingatlanaiba belépni;
+
+b) az ellenőrzés tárgyához kapcsolódó iratokba és más dokumentumokba, elektronikus adathordozón tárolt adatokba – a külön jogszabályokban meghatározott adat- és titokvédelmi előírások betartásával – betekinteni, azokról másolatot, kivonatot, illetve tanúsítványt készíttetni;
+
+c) az ellenőrzött ellenőrzés tárgyával összefüggő kérdésben érintett vezetőjétől és alkalmazottjától írásban vagy szóban felvilágosítást, tájékoztatást, információt, nyilatkozatot kérni;
+
+d) indokolt esetben az ellenőrzött vizsgálatát előzetes értesítés nélkül is – a megbízólevele bemutatásával – megkezdeni.
+
+(2) A tulajdonosi joggyakorló megbízásából tulajdonosi ellenőrzést végző személy köteles
+
+a) jogait oly módon gyakorolni, hogy az ellenőrzés az ellenőrzött szervezetnek a működtetési joggal kapcsolatos tevékenységére terjedjen ki és az ellenőrzött szervezet működtetési joggal kapcsolatos tevékenységét és működését a lehető legkisebb mértékben zavarja;
+
+b) tevékenységének megkezdéséről – az (1) bekezdés d) pontjában foglalt kivétellel – az ellenőrzöttnek az ellenőrzés tárgyával összefüggő kérdéssel érintett vezetőjét az ellenőrzés megkezdése előtt legalább nyolc nappal tájékoztatni, és megbízólevelét az ellenőrzés megkezdésekor bemutatni; valamint
+
+c) megállapításait tárgyszerűen, a valóságnak megfelelően ellenőrzési jelentésbe foglalni, és a jelentéstervezetet, valamint a végleges – az el nem fogadott észrevételek indokait is tartalmazó – jelentést az ellenőrzött vezetőjének megküldeni.
+
+## 13. §
+
+(1) Az ellenőrzött szervezet vezetője, illetve alkalmazottja jogosult
+
+a) az ellenőr személyazonosságának bizonyítására alkalmas okiratot, illetve megbízólevelének bemutatását kérni, ennek hiányában az együttműködést megtagadni;
+
+b) az ellenőrzési cselekményeknél jelen lenni és
+
+c) az ellenőrzés megállapításait megismerni, a jelentéstervezetre – a megküldéstől számított tizenöt napon belül – észrevételt tenni.
+
+(2) Az ellenőrzött szervezet vezetője, illetve alkalmazottja köteles
+
+a) az ellenőrzés végrehajtását elősegíteni, abban együttműködni;
+
+b) az ellenőrzést végző részére szóban vagy – az ellenőrzést végző kérésére – írásban a kért tájékoztatást, felvilágosítást, nyilatkozatot megadni, a dokumentációkba a betekintést biztosítani;
+
+c) az ellenőrzést végző kérésére a rendelkezésre bocsátott dokumentáció (iratok, okmányok, adatok) teljességéről nyilatkozni;
+
+d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni; valamint
+
+e) az ellenőrzés megállapításai, javaslatai alapján tett intézkedéseiről a tulajdonosi joggyakorlót tájékoztatni.
+
+(3) A (2) bekezdés e) pontja szerinti intézkedések végrehajtását, az ellenőrzés során tett megállapítások, javaslatok hasznosulását a tulajdonosi joggyakorló szükség esetén utóellenőrzés keretében megvizsgálja.
+
+## 14. §
+
+A tulajdonosi ellenőrzés megállapításaira tekintettel a tulajdonosi joggyakorló – a koncesszióba adó egyetértésével – kezdeményezheti az ingatlan-nyilvántartási vagy vagyon-nyilvántartási állapot rendezését, illetve más intézkedés megtételét. A tulajdonosi joggyakorló az ellenőrzés megállapításait tartalmazó jelentést, továbbá a kezdeményezett intézkedések iratait és az utóellenőrzésről szóló dokumentumokat a koncesszióba adó részére is egyidejűleg megküldi.
+
+## 15. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 16. §[^1]
+
+(1) A vagyongazdálkodással összefüggő kormányrendeletek módosításáról szóló 386/2023. (VIII. 14.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésének[^2] napjával a működtetési jog jogosultja az Nvtv. 12. § (3a) bekezdése szerinti működtetési joggal érintett vagyontárgyak tekintetében fennálló jogviszonyokba és szerződésekbe – a tulajdonjog állam javára történő megszerzésével, valamint a tulajdonjog átruházásával kapcsolatos jogviszonyok kivételével –, valamint a folyamatban lévő peres és nemperes eljárásokba a tulajdonosi joggyakorló helyébe jogutódként belép azon vagyontárgyak esetében, amelyekre vonatkozóan a működtetési jog a Módr. hatálybalépését megelőzően jött létre. A jogutódlásról szóló értesítésre és felmondásra az 5. § (2) bekezdése szerinti szabályokat, a peres és nemperes eljárásban az eljárással kapcsolatban rendelkezésre álló dokumentumok átadására a 3. § (3) bekezdése szerinti szabályokat kell alkalmazni.
+
+(2) Az (1) bekezdés szerinti vagyontárgyak tekintetében a működtetési jog létrejötte és a Módr. hatálybalépése[^3] közötti időszakban fennálló jogviszonyokból származó követelések a működtetési jog jogosultját illetik meg, azokat a működtetési jog jogosultja jogosult érvényesíteni és saját nevében számlázni. Amennyiben a követeléseket a tulajdonosi joggyakorló érvényesítette, az ebből származó bevételekkel a tulajdonosi joggyakorló és a működtetési jog jogosultja a Módr. hatálybalépését követő 90 napon belül egymással elszámol. Az elszámolásról szóló megállapodás létrejöttétől számított 30 napon belül történő teljesítés esetén a tulajdonosi joggyakorlót kamatfizetési kötelezettség nem terheli.
+
+---
+
+[^1]: A 16. §-t a 386/2023. (VIII. 14.) Korm. rendelet 8. §-a iktatta be.
+[^2]: A hatálybalépés időpontja 2023. augusztus 22.
+[^3]: A hatálybalépés időpontja 2023. augusztus 22.

@@ -1,0 +1,293 @@
+---
+title: "306/2022. (VIII. 11.) Korm. rendelet a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről"
+identifier: "306/2022. (VIII. 11.) Korm. rendelet"
+njt_id: "2022-306-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/306"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-08-11
+in_force_from: 2022-09-01
+last_amended: 2022-09-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-306-20-22"
+retrieved: 2026-10-12
+---
+
+# 306/2022. (VIII. 11.) Korm. rendelet a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről
+
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 96. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+1\. *érintett vállalkozás:* a vertikális megállapodásban részt vevő vállalkozás, továbbá a vertikális megállapodásban részt vevő vállalkozás kapcsolt vállalkozásai;
+
+2\. *kizárólagos forgalmazási rendszer:* olyan forgalmazási rendszer, amelyben a szállító egy területet vagy vevőcsoportot kizárólagosan magához vagy legfeljebb öt vevőhöz rendel, és az összes többi vevőt korlátozza abban, hogy aktívan értékesítsenek a kizárólagos területen vagy a kizárólagos vevőcsoport részére;
+
+3\. *know-how:* a szállító tapasztalataiból eredő és kipróbált, iparjogvédelmi oltalom alatt nem álló olyan gyakorlati ismeret vagy azok olyan együttese,
+
+a) amely nem közismert vagy nehezen hozzáférhető,
+
+b) amely a vevő számára a szerződés szerinti termék vagy szolgáltatás felhasználásához, eladásához vagy viszonteladásához jelentős és hasznos, továbbá
+
+c) amelyről az *a)* és *b)* alpontban foglalt ismérvek megállapítását lehetővé tevő, kellően átfogó ismertetés rendelkezésre áll;
+
+4\. *online közvetítő szolgáltatás:* az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 2. § *f)* pontja szerinti, az információs társadalommal összefüggő szolgáltatás, amely lehetővé teszi az érintett vállalkozások számára, hogy termékeket vagy szolgáltatásokat kínáljanak
+
+a) más vállalkozások vagy végső felhasználók számára az ilyen vállalkozások közötti közvetlen ügyletek megkönnyítése céljából, vagy
+
+b) végső felhasználók számára azzal a céllal, hogy megkönnyítsék a közvetlen ügyleteket az ilyen vállalkozások és a végső felhasználók között
+
+függetlenül attól, hogy az ügyleteket végül megkötötték-e és hogy hol kötötték meg;
+
+5\. *passzív értékesítés:* az egyéni vevők általi kéretlen megkeresés nyomán történő értékesítés, különösen
+
+a) a termékek vagy szolgáltatások ilyen vevőknek történő szállítása anélkül, hogy az értékesítést az adott vevőt, vevőcsoportot vagy területet aktívan megcélzó reklámmal kezdeményezték volna, vagy
+
+b) a közbeszerzésben való részvételből vagy a magán ajánlattételi felhívásra való jelentkezésből eredő értékesítések;
+
+6\. *potenciális versenytárs:* olyan vállalkozás, amely a vertikális megállapodás hiányában, valós alapokon és nem pusztán elméleti lehetőségként, valószínűsíthetően rövid időn belül elvégezné az érintett piacra lépéshez szükséges további beruházásokat vagy vállalná a más, szükséges váltási költségeket;
+
+7\. *szállító:* a vertikális megállapodásban részt vevő szállító és annak kapcsolt vállalkozásai, ahol a szállító fogalma kiterjed az online közvetítő szolgáltatásokat nyújtó érintett vállalkozásra is;
+
+8\. *szelektív forgalmazási rendszer:* olyan forgalmazási rendszer, amelyben a szállító vállalja, hogy a szerződés szerinti terméket vagy szolgáltatást akár közvetlenül, akár közvetve, csak meghatározott kritériumok alapján kiválasztott forgalmazóknak adja el, és ezek a forgalmazók vállalják, hogy az ilyen termékeket vagy szolgáltatásokat nem szerződéses forgalmazók számára nem értékesítik a szállító által e rendszer működtetésére meghatározott területen;
+
+9\. *szellemi tulajdonjog:* az iparjogvédelmi jogok, a szerzői jog és a szerzői joggal szomszédos jogok, valamint a know-how;
+
+10\. *tényleges versenytárs:* ugyanazon érintett piacon tevékenységet folytató vállalkozás;
+
+11\. *vállalkozás:* a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 1. § (1) bekezdése szerinti vállalkozás;
+
+12\. *versenytárs:* a tényleges vagy a potenciális versenytárs;
+
+13\. *versenytilalmi kötelezettség:* olyan közvetlen vagy közvetett kötelezettség, amelynek értelmében a vevő nem gyárt, vásárol, ad el vagy értékesít viszonteladás keretében a szerződés szerinti termékkel vagy szolgáltatással versengő terméket vagy szolgáltatást, illetve a vevőt terhelő olyan közvetlen vagy közvetett kötelezettség, amelynek értelmében az érintett piacon a szerződés szerinti termék vagy szolgáltatás, valamint annak helyettesítői tekintetében – az előző naptári évi beszerzései értéke, vagy ahol ez az adott gazdasági ágazatban bevett gyakorlat, mennyisége alapján számítva – a vevő összes beszerzésének több, mint 80%-a a szállítótól vagy a szállító által megjelölt másik vállalkozástól kell, hogy származzon;
+
+14\. *vertikális korlátozás:* a verseny korlátozása a Tpvt. 11. §-ának hatálya alá tartozó vertikális megállapodásban;
+
+15\. *vertikális megállapodás:* olyan megállapodás vagy összehangolt magatartás, amely a termelési vagy értékesítési lánc eltérő szintjén működő vállalkozások között jön létre, és egyes termékek vagy szolgáltatások az érintett vállalkozások által történő beszerzésének, értékesítésének vagy viszonteladásának feltételeire vonatkozik;
+
+16\. *vevő ügyfele:* olyan, a vertikális megállapodásban részt nem vevő vállalkozás, amely a vevőtől vásárol szerződés szerinti terméket vagy szolgáltatást;
+
+17\. *vevő:* a vertikális megállapodásban részt vevő vevő és annak kapcsolt vállalkozásai, ahol vevőn azt a vállalkozást is érteni kell, amely a Tpvt. 11. §-ának hatálya alá eső megállapodás alapján más vállalkozás nevében értékesít terméket vagy szolgáltatást.
+
+(2) E rendelet alkalmazásában kapcsolt vállalkozás az olyan vállalkozás,
+
+a) amelyben az érintett vállalkozás közvetlenül vagy közvetve
+
+aa) rendelkezik a szavazati jogok több mint felével,
+
+ab) jogosult a felügyelő, ellenőrző vagy irányító szerv vagy a vállalkozás képviseletére jogosult szerv tagjai több mint felének kinevezésére, vagy
+
+ac) jogosult a vállalkozás ügyeinek irányítására;
+
+b) amely az érintett vállalkozások közül valamelyik tekintetében közvetlenül vagy közvetve az *a)* pontban felsorolt jogokkal vagy hatáskörökkel rendelkezik;
+
+c) amely tekintetében a *b)* pontban említett vállalkozás közvetlenül vagy közvetve az *a)* pontban felsorolt jogokkal vagy hatáskörökkel rendelkezik;
+
+d) amelyben valamely érintett vállalkozás az *a), b)* vagy *c)* pontban említett vállalkozások egyikével vagy közülük többel, illetve az utóbbi vállalkozások közül kettő vagy több együttesen az *a)* pontban felsorolt jogokkal vagy hatáskörökkel rendelkezik; vagy
+
+e) amelyben az *a)* pontban felsorolt jogokkal vagy hatáskörökkel együttesen rendelkeznek
+
+ea) az érintett vállalkozások vagy azoknak az *a)–d)* pontban említett kapcsolt vállalkozásai vagy
+
+eb) az egy vagy több érintett vállalkozás vagy azoknak az *a)–d)* pontban említett egy vagy több kapcsolt vállalkozása, valamint egy vagy több harmadik fél.
+
+(3) E rendelet alkalmazásában aktív értékesítés az ügyfelek aktív megcélzása
+
+a) látogatással,
+
+b) levéllel,
+
+c) e-maillel,
+
+d) közvetlen kommunikációs eszközzel, különösen telefonhívással vagy
+
+e) offline vagy online célzott reklámozással és promócióval, különösen nyomtatott vagy digitális média útján, különösen
+
+ea) az online médiát,
+
+eb) az ár-összehasonlító szolgáltatásokat,
+
+ec) a keresőmotorok felhasználásával, adott területen található vevőket vagy vevőcsoportokat célzó hirdetéseket,
+
+ed) olyan weboldal üzemeltetését, amely meghatározott területekhez kapcsolódóan legfelső szintű domainnel rendelkezik, vagy
+
+ee) egy weboldal olyan nyelven való kínálását, amelyet bizonyos területeken általánosan használnak, amennyiben ez a nyelv eltér a vevő székhelye vagy telephelye szerinti területen általánosan használt nyelvtől.
+
+## 2. Mentesülés
+
+### 2. §
+
+(1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel, a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – a vertikális korlátozást tartalmazó vertikális megállapodás mentesül a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+(2) Az (1) bekezdés szerinti mentesülés a vállalkozások társulása és annak tagjai között létrejött, vagy az ilyen társulás és annak szállítói között létrejött vertikális megállapodásokra akkor terjed ki, ha a tagok mindegyike termékeket értékesítő kiskereskedő, és a társulás egyetlen tagjának saját kapcsolt vállalkozásaival együtt elért teljes éves nettó árbevétele sem haladja meg az 50 millió eurónak megfelelő forintösszeget. Az ilyen társulások által kötött vertikális megállapodások (1) bekezdés szerinti mentesülése nem érinti a Tpvt. 11. §-ának a társulás tagjai között létrejött horizontális megállapodásokra és a társulás által elfogadott döntésekre való alkalmazását.
+
+(3) Az (1) bekezdés szerinti mentesülés kiterjed a szellemi tulajdonjogoknak a vevőre történő átruházására vagy a szellemi tulajdonjogi oltalom tárgyának vevő általi hasznosítására vonatkozó rendelkezést tartalmazó vertikális megállapodásra, feltéve, hogy az ilyen rendelkezés
+
+a) nem az érintett megállapodás elsődleges tárgyát képezi,
+
+b) közvetlenül a termékeknek vagy a szolgáltatásoknak a vevő vagy annak ügyfelei által történő felhasználásához, eladásához vagy viszonteladásához kapcsolódik, valamint
+
+c) a szerződés szerinti termék vagy szolgáltatás tekintetében nem tartalmaz az e rendelet alapján nem mentesülő korlátozással azonos célú versenykorlátozást.
+
+(4) A versenytárs vállalkozások között létrejött vertikális megállapodásra az (1) bekezdés szerinti mentesülés csak akkor alkalmazható, ha a megállapodás nem kölcsönös vertikális megállapodás, és
+
+a) a szállító a beszerzési piacon gyártóként, importőrként vagy nagykereskedőként, az értékesítési piacon pedig termékek importőreként, nagykereskedőjeként vagy kiskereskedőjeként tevékenykedik, a vevő pedig az értékesítési piacon importőr, nagykereskedő vagy kiskereskedő, de a beszerzési piacon, ahol a szerződés szerinti termékeket vásárolja, nem minősül versenytárs vállalkozásnak, vagy
+
+b) a szállító a szolgáltatási vertikum több szintjén nyújt szolgáltatásokat, a vevő pedig kiskereskedelmi szinten nyújt szolgáltatást, miközben ő maga nem versenytársa a másik vállalkozásnak a szolgáltatási vertikum azon szintjén, amelyen a szerződés szerinti szolgáltatásokat vásárolja.
+
+(5) A (4) bekezdés nem alkalmazandó a szállító és a vevő közötti olyan információcserére, amely
+
+a) nem kapcsolódik közvetlenül a vertikális megállapodás végrehajtásához,
+
+b) nem szükséges a szerződés szerinti termékek vagy szolgáltatások előállításának vagy forgalmazásának javításához, vagy
+
+c) az *a)* és *b)* pont egyikének sem felel meg.
+
+(6) A (4) bekezdés nem alkalmazandó az online közvetítő szolgáltatás nyújtásával kapcsolatos vertikális megállapodásra abban az esetben, ha az online közvetítő szolgáltatás nyújtója versenytárs vállalkozás a közvetített termékek vagy szolgáltatások értékesítésének érintett piacán.
+
+(7) Ez a rendelet nem alkalmazható más, a Tpvt. 16. §-a szerinti rendelet hatálya alá tartozó megállapodásokra.
+
+## 3. A piaci részesedési küszöbre vonatkozó szabályok
+
+### 3. §
+
+(1) A 2. § szerinti mentesülés akkor alkalmazható, ha a szállító piaci részesedése nem haladja meg a 30%-ot azon az érintett piacon, ahol eladja a szerződés szerinti terméket vagy szolgáltatást, és a vevő piaci részesedése nem haladja meg a 30%-ot azon az érintett piacon, ahol a szerződés szerinti terméket vagy szolgáltatást vásárolja.
+
+(2) Ha egy többoldalú megállapodásban részt vevő érintett vállalkozás a szerződés szerinti terméket vagy szolgáltatást valamely érintett vállalkozástól veszi meg, majd azt valamely másik érintett vállalkozásnak adja el, a megállapodásra a 2. § szerinti mentesülés csak akkor alkalmazható, ha az érintett vállalkozás piaci részesedése az (1) bekezdésben meghatározott piaci részesedési küszöböt sem vevőként, sem szállítóként nem haladja meg.
+
+### 4. §
+
+(1) A szállító piaci részesedését a piaci eladások értékére vonatkozó adatok alapján, a vevő piaci részesedését a piaci beszerzések értékére vonatkozó adatok alapján kell kiszámítani. Ha a piaci eladási vagy beszerzési értékekre vonatkozó adat nem áll rendelkezésre, az érintett vállalkozás piaci részesedését más megbízható piaci információn – beleértve a piaci értékesítés és beszerzés mennyiségét – alapuló becslések alapján kell meghatározni.
+
+(2) A piaci részesedést az előző naptári évre vonatkozó adatok alapján kell kiszámítani.
+
+(3) A szállító piaci részesedésének megállapításánál valamennyi, a szállítóval vertikálisan integrált forgalmazó számára értékesítés céljából szállított terméket és szolgáltatást figyelembe kell venni.
+
+### 5. §
+
+(1) Ha egy kezdetben nem több, mint 30%-os piaci részesedéssel rendelkező érintett vállalkozás piaci részesedése később 30% fölé emelkedik, a 2. § szerinti mentesülés a 30%-os piaci részesedési küszöbérték első alkalommal történő átlépésének naptári éve után két egymást követő naptári évben továbbra is alkalmazható.
+
+(2) A piaci részesedési küszöb alkalmazása szempontjából az 1. § (2) bekezdés *e)* pontjában említett vállalkozás piaci részesedését az 1. § (2) bekezdés *a)* pontjában felsorolt jogokkal vagy felhatalmazással rendelkező vállalkozások között egyenlő arányban kell megosztani.
+
+## 4. A forgalmi küszöb számítására vonatkozó szabályok
+
+### 6. §
+
+(1) A 2. § (2) bekezdése szerinti teljes éves nettó árbevétel értékének meghatározásához az érintett vállalkozás által a megelőző üzleti év során valamennyi termék és szolgáltatás tekintetében elért, adók és az egyéb közterhek nélkül számított árbevételt össze kell számítani. E célból nem lehet figyelembe venni az e rendelkezés alkalmazásában érintett vállalkozásnak minősülő vállalkozás és kapcsolt vállalkozásai közötti ügyleteket, illetve a kapcsolt vállalkozások egymás közötti ügyleteit.
+
+(2) Az euróban meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank (a továbbiakban: MNB) által közétett, az üzleti év utolsó napján érvényes deviza középárfolyamot kell alkalmazni. Újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján érvényes MNB által megállapított deviza középárfolyamot kell alkalmazni.
+
+(3) Ha a teljes éves nettó árbevétel két egymást követő pénzügyi év során a 2. § (3) bekezdésében meghatározott küszöbértéket legfeljebb 10%-kal haladja meg, a 2. § szerinti mentesülést továbbra is alkalmazni kell.
+
+## 5. Különösen súlyos korlátozások miatt nem mentesülő megállapodások
+
+### 7. §
+
+(1) A 2. § szerinti mentesülés nem alkalmazható arra a vertikális megállapodásra, amelynek célja közvetlenül vagy közvetetten, önmagában vagy más, az érintett vállalkozások ellenőrzése alatt álló tényezőkkel együtt
+
+a) a vevő lehetőségeinek korlátozása az általa alkalmazott eladási ár meghatározásában, ide nem értve a szállító lehetőségét legnagyobb vagy ajánlott eladási ár meghatározására, feltéve, hogy az nem eredményez – az érintett vállalkozások bármelyike általi nyomásgyakorlás vagy ösztönzés következményeként – rögzített vagy legkisebb eladási árat;
+
+b) – amennyiben a szállító kizárólagos forgalmazási rendszert működtet – annak a területnek vagy azoknak vevőknek a korlátozása, ahol vagy akiknek a kizárólagos forgalmazó a szerződés szerinti termékeket vagy szolgáltatásokat aktívan vagy passzívan értékesítheti, kivéve
+
+ba) a szállító számára fenntartott vagy a szállító által legfeljebb öt másik kizárólagos forgalmazó számára kijelölt területen vagy vevőcsoport számára történő, a kizárólagos forgalmazó és közvetlen vevői általi aktív értékesítés korlátozását,
+
+bb) a kizárólagos forgalmazó és ügyfelei aktív vagy passzív értékesítésének korlátozását olyan területen található nem engedélyezett forgalmazók számára, ahol a szállító szelektív forgalmazási rendszert működtet a szerződés szerinti termékek vagy szolgáltatások tekintetében,
+
+bc) a kizárólagos forgalmazó székhelyének vagy telephelyének korlátozását,
+
+bd) a végső felhasználók részére történő aktív vagy passzív értékesítésnek a nagykereskedőként működő kizárólagos forgalmazó általi korlátozását, vagy
+
+be) a kizárólagos forgalmazó azon képességének korlátozását, hogy beépítés céljára szállított összetevők aktív vagy passzív értékesítését végezze olyan ügyfelek számára, amelyek azokat a szállító által előállított termékekkel azonos típusú termékek gyártásához használnák fel;
+
+c) – amennyiben a szállító szelektív forgalmazási rendszert működtet –
+
+ca) annak korlátozása, hogy a szelektív forgalmazási rendszer tagjai milyen területen, illetve milyen vevők számára értékesíthetik a szerződéses termékeket vagy szolgáltatásokat,
+
+cb) a szelektív forgalmazási rendszeren belül végrehajtott keresztszállítások korlátozása a kereskedelem azonos vagy különböző szintjein működő forgalmazók között, vagy
+
+cc) a kiskereskedelmi szinten működő szelektív forgalmazási rendszer tagjai által a végső felhasználóknak történő aktív vagy passzív értékesítés korlátozása;
+
+d) – amennyiben a szállító sem kizárólagos forgalmazási rendszert, sem pedig szelektív forgalmazási rendszert nem működtet – annak a területnek vagy azoknak a vevőknek a korlátozása, ahol vagy akiknek a vevő a szerződés szerinti termékeket vagy szolgáltatásokat aktívan vagy passzívan értékesítheti, kivéve
+
+da) a szállító számára fenntartott vagy a szállító által legfeljebb öt kizárólagos forgalmazó számára kijelölt területre vagy vevőcsoportra irányuló, a vevő és közvetlen vevői általi aktív értékesítés korlátozását,
+
+db) a vevő és ügyfelei aktív vagy passzív értékesítésének korlátozását olyan területen található nem engedélyezett forgalmazók számára, ahol a szállító szelektív forgalmazási rendszert működtet a szerződés szerinti termékek vagy szolgáltatások tekintetében,
+
+dc) a vevő székhelyének vagy telephelyének korlátozását,
+
+dd) a nagykereskedőként működő vevő általi aktív és passzív értékesítések korlátozását a végső felhasználók számára, vagy
+
+de) a vevő azon képességének korlátozását, hogy beépítés céljára szállított összetevők aktív vagy passzív értékesítését végezze olyan ügyfelek számára, amelyek azokat a szállító által előállított termékekkel azonos típusú termékek gyártásához használnák fel;
+
+e) annak megakadályozása, hogy a vevő vagy ügyfelei hatékonyan használják az internetet a szerződés szerinti termékek vagy szolgáltatások értékesítése céljából, amennyiben ez korlátozza azt a területet vagy a vevők azon körét, ahol vagy akiknek a szerződés szerinti termékeket vagy szolgáltatásokat a *b)–d)* pont értelmében értékesíthetik, azon lehetőség sérelme nélkül, hogy a vevőt kötelezzék
+
+ea) az online értékesítésre vonatkozó más korlátozások bevezetésére, vagy
+
+eb) az online hirdetésekre vonatkozó olyan korlátozások bevezetésére, amelyeknek nem az a célja, hogy megakadályozzák egy teljes online hirdetési csatorna használatát; vagy
+
+f) olyan korlátozás bevezetése, amelyben a részegység szállítója és az ilyen részegységet beépítő vevő állapodott meg, és amely abban korlátozza a szállítót, hogy a részegységet pótalkatrészként értékesítse a végső felhasználóknak, javítóműhelyeknek, nagykereskedőknek vagy más olyan szolgáltatóknak, amelyeket a vevő nem hatalmazott fel termékeinek javításával vagy karbantartásával.
+
+(2) Nem minősül az (1) bekezdés *c)* pont *ca)* alpontja szerinti különösen súlyos korlátozásnak
+
+a) a szállító számára fenntartott vagy a szállító által legfeljebb öt kizárólagos forgalmazónak kiosztott területre vagy ügyfélcsoportra irányuló, a szelektív forgalmazási rendszer tagjai és közvetlen vevői általi aktív eladások korlátozása,
+
+b) a szelektív forgalmazási rendszer működési területén található, nem engedélyezett forgalmazóknak történő aktív vagy passzív értékesítés korlátozása a szelektív forgalmazási rendszer tagjai és ügyfeleik számára,
+
+c) a szelektív forgalmazási rendszer tagjai székhelyének vagy telephelyének korlátozása,
+
+d) egy szelektív forgalmazási rendszer nagykereskedőként működő tagjai által a végső felhasználók részére történő aktív vagy passzív értékesítések korlátozása, vagy
+
+e) azon képesség korlátozása, hogy a szelektív forgalmazási rendszer tagja beépítés céljára szállított összetevőket értékesítsen olyan ügyfelek számára, amelyek azokat a szállító által előállított termékekkel azonos típusú termékek gyártásához használnák fel.
+
+(3) Nem minősül az (1) bekezdés *c)* pont *cc)* alpontja szerinti különösen súlyos korlátozásnak
+
+a) a szállító számára fenntartott vagy a szállító által legfeljebb öt kizárólagos forgalmazónak kiosztott területre vagy ügyfélcsoportra irányuló, a szelektív forgalmazási rendszer tagjai és közvetlen vevői általi aktív eladások korlátozása, vagy
+
+b) a szelektív forgalmazási rendszer tagjai székhelyének vagy telephelyének korlátozása.
+
+## 6. Nem mentesülő korlátozások
+
+### 8. §
+
+(1) A 2. § szerinti mentesülés nem alkalmazható az olyan, vertikális megállapodásban szereplő
+
+a) közvetlen vagy közvetett versenytilalmi kötelezettségre, amely határozatlan időre vagy öt évet meghaladó időtartamra szól;
+
+b) közvetlen vagy közvetett kötelezettségre, amelynek értelmében a vevő a megállapodás megszűnése után nem gyárt, nem vásárol, nem ad el, vagy viszonteladás keretében nem értékesít valamely terméket vagy szolgáltatást, kivéve, ha az ilyen kötelezettség
+
+ba) a szerződés szerinti termékkel vagy szolgáltatással versengő termékre vagy szolgáltatásra vonatkozik,
+
+bb) azokra a helyiségekre és területekre korlátozódik, ahol a vevő a megállapodás időtartama alatt működik,
+
+bc) a szállító által a vevőre átruházott know-how védelméhez elengedhetetlen, és
+
+bd) időtartama a megállapodás megszűnésétől számított egyéves időtartamra korlátozódik;
+
+c) közvetlen vagy közvetett kötelezettségre, amelynek értelmében a szelektív forgalmazási rendszer tagjai meghatározott versenytárs szállítók márkáit nem értékesíthetik; vagy
+
+d) közvetlen vagy közvetett kötelezettségre, amelynek értelmében az online közvetítő szolgáltatást igénybe vevő vevő nem kínál, nem ad el vagy viszonteladás keretében nem értékesít termékeket vagy szolgáltatásokat a végső felhasználók részére kedvezményesebb feltételek mellett, versenytárs online közvetítő szolgáltatók révén.
+
+(2) Az (1) bekezdés *a)* pontja szerinti ötéves időkorlátozás nem alkalmazható abban az esetben, ha a szerződés szerinti terméket vagy szolgáltatást a vevő a szállító tulajdonában lévő vagy a szállító által a vevővel kapcsolatban nem álló harmadik személytől bérelt helyiségből vagy területről értékesíti, feltéve, hogy a versenytilalmi kötelezettség időtartama nem haladja meg a helyiségnek vagy területnek a vevő általi birtoklásának időtartamát.
+
+(3) Az (1) bekezdés *b)* pontjában foglaltak nem érintik a közkinccsé még nem vált know-how felhasználására és hozzáférhetővé tételére vonatkozó határozatlan időtartamú korlátozás lehetőségét.
+
+## 7. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2022. szeptember 1-jén lép hatályba.
+
+### 10. §
+
+E rendelet hatálybalépését megelőzően már hatályba lépett azon megállapodások, amelyek megfelelnek az e rendelet hatálybalépését megelőzően hatályos, a vertikális megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló jogszabályi előírásoknak, 2023. május 31. napjáig továbbra is mentesülnek a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+### 11. §[^1]
+
+---
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

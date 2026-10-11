@@ -1,0 +1,669 @@
+---
+title: "450/2023. (X. 4.) Korm. rendelet a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól"
+identifier: "450/2023. (X. 4.) Korm. rendelet"
+njt_id: "2023-450-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/450"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-10-04
+in_force_from: 2023-11-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-450-20-22"
+retrieved: 2026-10-12
+---
+
+# 450/2023. (X. 4.) Korm. rendelet a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól
+
+A Kormány
+
+a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 9., 37., 38. és 39. pontjában kapott felhatalmazás alapján,
+
+a 43–45. § tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 37. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya a belföldön forgalomba hozott visszaváltási díjas termékekre és e termékekkel kapcsolatos, e rendelet szerinti tevékenységekre terjed ki.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+(1) E rendelet alkalmazásában
+
+a)[^1] *csekély mennyiségű kibocsátó:* az a gyártó, amely által forgalomba hozott műanyag, fém vagy üveg alapanyagú, palack vagy doboz formájú, 0,1–3 literig terjedő űrtartalmú fogyasztói csomagolású, fogyasztásra kész vagy koncentrátum italtermék – ide nem értve a tej és tejtartalmú italterméket – száma a tárgyévet megelőző évben nem haladta meg az 5000 darabot;
+
+b) *élelmiszert értékesítő üzlet:* olyan üzlet, amely forgalmának döntő hányadát élelmiszer árusítása teszi ki;
+
+c) *forgalmazás:* az egyes egyszer használatos, valamint egyes egyéb műanyagtermékek forgalomba hozatalának korlátozásáról szóló kormányrendelet szerinti forgalmazás;
+
+d) *forgalmazó:* visszaváltási díjas terméket a fogyasztónak átadó, értékesítő gazdálkodó szervezet, amely e rendelet alapján visszaváltási helyet működtet;
+
+e)[^2] *kötelezően visszaváltási díjas termék:* a tej és tejtartalmú italtermék kivételével a fogyasztásra kész vagy koncentrátum italtermék fogyasztói, közvetlen, műanyag, fém vagy üveg alapanyagú, palack vagy doboz formájú, nem újrahasználható vagy újrahasználható csomagolása, amely 0,1–3 literig terjedő űrtartalommal bír, ide nem értve a csekély mennyiségű kibocsátó által forgalomba hozott italtermék csomagolását;
+
+f) *önkéntesen visszaváltási díjas termék:* kötelezően visszaváltási díjas terméknek nem minősülő, a gyártó által önkéntesen „visszaváltható” megjelöléssel gyártott, illetve forgalomba hozott,
+
+fa) az állami hulladékgazdálkodási közfeladat körébe tartozó hulladékká váló újrahasználható termék vagy újrahasználható csomagolás, továbbá
+
+fb) az állami hulladékgazdálkodási közfeladat körébe nem tartozó hulladékká váló termék,
+
+amelynek e megjelöléssel történő gyártását, illetve forgalomba hozatalát az országos hulladékgazdálkodási hatóságnak bejelentették;
+
+g)[^3] *tej és tejtartalmú italtermék:* a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet XVI. részében felsorolt tej, illetve a tejet vagy tejterméket tartalmazó italtermék;
+
+h) *visszaváltási díjas termék:* a kötelezően visszaváltási díjas termék és az önkéntesen visszaváltási díjas termék.
+
+(2) Az e rendeletben nem meghatározott fogalmakat a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.), a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben és a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletben meghatározottak szerint kell alkalmazni.
+
+(3)[^4] A visszaváltási díjas, körforgásos termék esetében a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott szabályokat – az e rendeletben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+
+## 3. A visszaváltási díj
+
+### 3. §
+
+(1)[^5] A kötelezően visszaváltási díjas, nem újrahasználható termék után darabonként 50 forint visszaváltási díj fizetendő. A kötelezően visszaváltási díjas, újrahasználható termék darabonként fizetendő visszaváltási díját a gyártó határozza meg, azzal, hogy kiskereskedelmi forgalomba kizárólag olyan termék hozható, amelynek általános forgalmi adóval növelt visszaváltási díja kerekítés alkalmazása nélkül készpénzben kifizethető, egész számmal meghatározott forintösszeg.
+
+(2) A gyártó visszaváltási díjfizetési kötelezettsége a kötelezően visszaváltási díjas, nem újrahasználható termék első belföldi forgalomba hozatalakor a számlán vagy számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb okiraton feltüntetett teljesítés napján, ezek hiányában az ügylet teljesítésének napján keletkezik.
+
+(3) A gyártó a visszaváltási díjat a tárgyhónapban forgalomba hozott, kötelezően visszaváltási díjas, nem újrahasználható termék után havonta, a tárgyhónapot követő hónap utolsó napjáig fizeti meg a koncessziós társaság részére.
+
+(4) A kötelezően visszaváltási díjas termék csomagolású italtermék az (1) bekezdés szerinti mértékű visszaváltási díjjal megnövelt vételáron hozható forgalomba, illetve forgalmazható, kivéve, ha fogyasztónak történő értékesítés esetén az italtermékkel együtt annak csomagolása nem kerül átadásra a fogyasztó részére.
+
+(5) A kötelezően visszaváltási díjas, újrahasználható termék visszaváltási díjának változásáról a gyártó a változás időpontja megjelölésével, legalább 30 nappal a változás bevezetése előtt tájékoztatja a forgalmazót.
+
+### 4. §
+
+(1) Az önkéntesen visszaváltási díjas termék darabonként fizetendő visszaváltási díját a gyártó határozza meg.
+
+(2) Az önkéntesen visszaváltási díjas termék visszaváltási díjának változásáról a gyártó a változás időpontja megjelölésével, legalább 30 nappal a változás bevezetése előtt tájékoztatja a forgalmazót.
+
+### 5. §[^6]
+
+(1) A visszaváltási díj összegét a visszaváltási díjas termék eladási árával, egységárával azonos módon kell feltüntetni.
+
+(2) A visszaváltási díj összegét a számlán vagy a nyugtán a termék árától elkülönítve kell feltüntetni.
+
+## 4. A gyártó jogai és kötelezettségei
+
+### 6. §
+
+(1) A gyártó a forgalomba hozatal időpontját megelőzően legalább 45 nappal a koncessziós társaság által biztosított elektronikus felületen kezdeményezi a kötelezően visszaváltási díjas termék regisztrációját. Amennyiben a regisztráció során megadott bármely jellemző megváltozik, a gyártó újra kezdeményezi a termék regisztrációját. Ha a gyártó a kötelezően visszaváltási díjas terméket nem forgalmazza tovább, ezt a tényt bejelenti az elektronikus felületen.
+
+(2) A gyártó a regisztrálni kívánt termék mintáit megküldi a regisztrációhoz a koncessziós társaságnak, amely megvizsgálja, hogy a minták megfelelnek-e a regisztráció során megadott paramétereknek, valamint ellenőrzi a csomagoláson lévő jelölés automata visszaváltó berendezéssel történő olvashatóságát. A koncessziós társaság a regisztrációt megtagadja, ha a terméken lévő jelölés nem felel meg az 1. mellékletben foglalt követelményeknek.
+
+(3) A regisztrációra vonatkozó részletes követelményeket a koncessziós társaság határozza meg és a honlapján közzéteszi. A regisztrációra vonatkozó követelmények változásáról a koncessziós társaság a változás bevezetésének időpontja megjelölésével, legalább 30 nappal a változás bevezetése előtt a honlapján tájékoztatást tesz közzé.
+
+(4) Ha a gyártó az (1) bekezdés szerinti regisztrációs kötelezettségének nem tesz eleget, vagy ha a koncessziós társaság a regisztrációt megtagadja, a termék nem hozható forgalomba.
+
+(5) Ha az (1) bekezdés szerinti regisztráció során a koncessziós társaság megállapítja, hogy a termék speciális jellemzői miatt automata visszaváltó berendezéssel nem visszaváltható, akkor arra e rendelet kötelezően visszaváltási díjas termékekre vonatkozó szabályai e §-ban foglaltak kivételével nem alkalmazandók.
+
+(6)[^7] Azon kötelezően visszaváltási díjas termék esetében, amelynél
+
+a) az üres vagy kiürült palack regisztrációs célú beszerzése nem vezetett eredményre,
+
+b) a beszerzés körülményeire figyelemmel a palack a benne lévő italterméktől az állag sérelme nélkül nem választható el, és
+
+c) a végső fogyasztói csomagolással ellátott italtermék számvitelről szóló törvény szerinti bekerülési értéke eléri vagy meghaladja az e rendelet szerinti kötelezően visszaváltási díjas, nem újrahasználható termék után fizetendő visszaváltási díj ötszázszorosát,
+
+az e rendelet kötelezően visszaváltási díjas termékre vonatkozó szabályai nem alkalmazandók.
+
+(7)[^8] A (6) bekezdésben foglalt feltételek fennállásáról a gyártó a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a szerinti adatszolgáltatási kötelezettségének teljesítésével egyidejűleg nyilatkozik.
+
+### 7. §
+
+(1) A gyártó gondoskodik a kötelezően visszaváltási díjas terméken az 1. melléklet szerinti jelölés jól látható helyen, tartósan megmaradó és jól olvasható feltüntetéséről.
+
+(2) Kötelezően visszaváltási díjas termék csak az (1) bekezdésben meghatározott jelöléssel ellátva kerülhet forgalomba.
+
+(3) A kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltási díjának változása esetén a változást követően forgalomba hozott termék 1. melléklet 1.1. pontja szerinti jelölése nem egyezhet meg a változás előtt forgalomba hozott termék jelölésével.
+
+### 8. §
+
+(1)[^9] A gyártó a kötelezően visszaváltási díjas, újrahasználható terméket annak újrahasználata érdekében a forgalmazótól, valamint a fogyasztótól visszaveszi, és a visszaváltási díjat részére visszafizeti. A gyártó a fogyasztótól történő visszaváltást közvetlenül vagy a forgalmazó közreműködésével biztosítja.
+
+(2) Ha a gyártó felhagy a kötelezően visszaváltási díjas, újrahasználható termék gyártásával, a forgalmazótól és a fogyasztótól a terméket a gyártás megszüntetésétől számított legalább négy hónapig visszaváltja.
+
+### 9. §
+
+A gyártó a kötelezően visszaváltási díjas, újrahasználható termék forgalomba hozatala után csatlakozási és szolgáltatási díjat, a kötelezően visszaváltási díjas, nem újrahasználható termék esetén csatlakozási, szolgáltatási és visszaváltási díjat fizet a koncessziós társaság részére.
+
+### 10. §
+
+(1) A gyártó a forgalmazóval kötött megállapodás alapján a kötelezően visszaváltási díjas terméknek nem minősülő terméket vagy csomagolást – meghatározott helyre történő visszajuttatásának ösztönzése érdekében – önkéntesen visszaváltási díjas termékké minősítheti.
+
+(2) A gyártó gondoskodik az önkéntesen visszaváltási díjas termék esetén a terméken a „visszaváltható” megjelölés jól látható helyen, tartósan megmaradó és jól olvasható feltüntetéséről.
+
+(3)[^10] A gyártó az önkéntesen visszaváltási díjas terméket, amely után a fogyasztó visszaváltási díjat fizetett, a forgalmazótól, a fogyasztótól visszaveszi, és a visszaváltási díjat részére visszafizeti. A gyártó a fogyasztótól történő visszaváltást közvetlenül vagy a forgalmazó közreműködésével biztosítja.
+
+(4) A gyártó a forgalmazóval kötött megállapodásban meghatározza az önkéntesen visszaváltási díjas terméke visszaváltáskori állapotára vonatkozó követelményeket, amelyek nem zárhatják ki a rendeltetésszerű használatból eredő változások esetén a termék visszaváltását.
+
+(5) Az önkéntesen visszaváltási díjas termék visszaváltása feltételeinek változásáról – ide nem értve a díj változását – a gyártó a változások bevezetésének időpontja megjelölésével, legalább három hónappal a változás bevezetése előtt tájékoztatja a forgalmazót.
+
+(6) Ha a gyártó felhagy az önkéntesen visszaváltási díjas termék gyártásával, a forgalmazótól és a fogyasztótól a terméket a gyártás megszüntetésétől számított legalább négy hónapig visszaváltja.
+
+## 5. A forgalmazó jogai és kötelezettségei
+
+### 11. §
+
+(1) A forgalmazó a kötelezően visszaváltási díjas termék visszaváltását az e rendeletben foglaltak szerint biztosítja.
+
+(2) A kötelezően visszaváltási díjas, nem újrahasználható termék fogyasztótól való visszaváltásának biztosítása érdekében a forgalmazó a 21. § (5) bekezdésében foglaltak szerinti szerződést köt a koncessziós társasággal.
+
+(3) A forgalmazó a kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltását a (2) bekezdés szerinti szerződés alapján végzi.
+
+(4)[^11] A forgalmazó az általa forgalmazottal jellegében és funkciójában azonos kötelezően visszaváltási díjas, újrahasználható termék visszaváltását a gyártóval kötött megállapodás alapján, az abban foglaltak szerint biztosítja.
+
+### 12. §[^12]
+
+A kötelezően visszaváltási díjas termék visszaváltásakor – ha az automata visszaváltó berendezéssel nem kerül sor a visszaváltási díj közvetlen visszatérítésére – a forgalmazó a terméket, illetve hulladékát visszaváltó részére visszafizeti a visszaváltási díj összegét, vagy a fogyasztó kérésére újabb termékvásárlás esetén azt a vételárba utalvány formájában beszámítja. Az utalvány érvényességi ideje 6 hónap. A forgalmazó az utalvány érvényességi idejét az utalványon feltünteti.
+
+### 13. §
+
+(1) A forgalmazó a kötelezően visszaváltási díjas termék fogyasztótól való visszaváltását teljes nyitvatartási időben biztosítja a visszaváltási helyen.
+
+(2) A 400 m<sup>2</sup>-nél nagyobb eladótérrel rendelkező, élelmiszert értékesítő üzletben a forgalmazó automata visszaváltó berendezéssel történő visszaváltási lehetőséget biztosít a kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltására, az automata visszaváltó berendezés meghibásodásának esetére alkalmazott kézi átvétel mellett.
+
+### 14. §
+
+(1) A forgalmazó a kötelezően visszaváltási díjas termék visszaváltása érdekében az automata visszaváltó berendezéseket működteti, valamint a működtetésükhöz szükséges technikai feltételeket biztosítja. Az automata visszaváltó berendezések elhelyezése érdekében szükséges engedélyek megszerzése a forgalmazó kötelezettsége.
+
+(2) A forgalmazó a kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltásával kapcsolatos, (1) bekezdésben szereplő feladatai ellátása során felmerült indokolt költségeinek biztosítására a koncessziós társaság kezelési díjat fizet a forgalmazó részére.
+
+(3) A forgalmazó az automata visszaváltó berendezés karbantartási feladatainak elvégzéséhez szükséges feltételeket a koncessziós társaság számára előzetesen egyeztetett időpontban biztosítja.
+
+### 15. §
+
+(1) A forgalmazóra a 11. §-ban, a 12. §-ban, a 13. § (1) bekezdésében, a 14. §-ban, valamint a 17. §-ban meghatározott rendelkezések a 21. § szerinti visszaváltási helyet üzemeltetőre is alkalmazandók.
+
+(2) A forgalmazónak nem minősülő, automata visszaváltó berendezéssel rendelkező 21. § szerinti visszaváltásihely-üzemeltető esetén a 12. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy a visszaváltási díj visszatérítésére az automata visszaváltó berendezéssel közvetlenül kerül sor.
+
+(3)[^13] Az automata visszaváltó berendezéssel rendelkező 21. § szerinti visszaváltásihely-üzemeltető az automata visszaváltó berendezés meghibásodása esetén kézi átvétellel biztosítja a visszaváltási lehetőséget.
+
+### 16. §
+
+(1) A forgalmazó a gyártóval kötött megállapodás alapján az általa forgalmazottal azonos jellemzőkkel bíró, azonos rendeltetésű, egy terméktípusba tartozó önkéntesen visszaváltási díjas terméket visszaváltási díj ellenében visszaveszi.
+
+(2) A forgalmazó az önkéntesen visszaváltási díjas termék fogyasztótól való visszaváltását a termék forgalmazásának feltételeivel azonos módon, folyamatosan és teljes nyitvatartási időben biztosítja a termék forgalmazásának helyén, illetve az erre kijelölt helyen. A legalább 200 m<sup>2</sup> alapterületű üzlettel rendelkező forgalmazó a forgalmazás helyén biztosítja az önkéntesen visszaváltási díjas termék visszaváltását.
+
+(3) Ha az önkéntesen visszaváltási díjas termék visszaváltására kijelölt hely nem azonos a forgalmazás helyével, a visszaváltásra kijelölt hely nyitvatartási idejére
+
+a) egy forgalmazó által kijelölt hely esetén az önkéntesen visszaváltási díjas terméket forgalmazó üzlet nyitvatartási ideje szerinti,
+
+b) több forgalmazó által kijelölt hely esetén az önkéntesen visszaváltási díjas terméket forgalmazó üzletek nyitvatartási idején belül, munkanapokon legalább 6 óra
+
+időtartamot kell biztosítani oly módon, hogy helyének felkeresése se okozzon jelentős nehézséget a fogyasztók számára.
+
+(4) Az önkéntesen visszaváltási díjas termék visszaváltásakor a forgalmazó a termék visszaváltójának visszafizeti a visszaváltási díj összegét, vagy a fogyasztó kérésére újabb termékvásárlás esetén azt a vételárba beszámítja.
+
+### 17. §
+
+(1) A fogyasztó tájékoztatása érdekében a forgalmazó a visszaváltási díjas termék forgalmazásának helyén, valamint – a b) pont kivételével – a visszaváltásra kijelölt helyen közzéteszi
+
+a) a visszaváltási díj visszafizetéséhez szükséges, a termék állapotára vonatkozó,
+
+aa) kötelezően visszaváltási díjas, nem újrahasználható termék esetén a koncessziós társaság,
+
+ab) kötelezően visszaváltási díjas, újrahasználható termék, valamint önkéntesen visszaváltási díjas termék esetén a termék gyártója
+
+által meghatározott, a forgalmazó részére megküldött követelményeket, és
+
+b) ha a visszaváltás nem a forgalmazás helyén történik, a visszaváltásra kijelölt hely (helyek) nevét, címét és nyitvatartási idejét.
+
+(2) A visszaváltás feltételeinek változásáról kötelezően visszaváltási díjas, nem újrahasználható termék esetén a koncessziós társaság, kötelezően visszaváltási díjas, újrahasználható termék, valamint önkéntesen visszaváltási díjas termék esetén a gyártó által adott tájékoztatást a forgalmazó az (1) bekezdésben meghatározott helyen haladéktalanul közzéteszi.
+
+(3)[^14] A forgalmazó a visszaváltási helyen, az üzlet vásárlók által használható bejáratánál tájékoztatja a fogyasztókat arról, hogy visszaváltási helyet működtet.
+
+## 6. A fogyasztó jogai és kötelezettségei
+
+### 18. §
+
+(1) A fogyasztó visszaváltási díjas termék vásárlása esetén a forgalmazó részére megfizetett visszaváltási díj visszatérítésére abban az esetben jogosult, ha a terméket a visszaváltás helyén átadja.
+
+(2) A kötelezően visszaváltási díjas termék esetén a visszaváltás feltétele, hogy a termék az e rendelet szerinti azonosítására szolgáló, sérülésmentes és leolvasásra alkalmas jelöléssel kerüljön átadásra.
+
+(3) Az önkéntesen visszaváltási díjas termék esetén a visszaváltás feltétele, hogy a termék a gyártó által kiadott tájékoztatás szerint visszaváltásra alkalmas legyen és az azonosítására szolgáló, felismerhető jelöléssel kerüljön átadásra.
+
+## 7. A koncessziós társaság jogai és kötelezettségei
+
+### 19. §
+
+(1) A koncessziós társaság biztosítja és működteti a gyártó 6. § (1) bekezdése szerinti regisztrálásához szükséges informatikai felületet.
+
+(2) A koncessziós társaság a regisztráció gyártó általi kezdeményezésétől számított 45 napon belül elvégzi a kötelezően visszaváltási díjas termék regisztrációját és kapcsolódó adatainak [gyártó, italtermék megnevezése, globális kereskedelmi áruazonosító száma (a továbbiakban: GTIN szám), csomagolás anyaga, színe, űrtartalma, tömege, fizikai méretei, jelölés felhelyezésének módja, újrahasználható termék esetén a visszaváltási díj mértéke] informatikai adatbázisban való rögzítését.
+
+(3)[^15] Ha a kötelezően visszaváltási díjas termék regisztrációja során a 6. § (2) bekezdése szerinti ellenőrzés nem a kötelezően visszaváltási díjas termék végleges mintájával történik, akkor az ellenőrzés sikerességéről kapott értesítést követően a gyártó által megküldött végleges minta kézhezvételétől számított 3 munkanapon belül a koncessziós társaság értesíti a gyártót a regisztráció eredményéről.
+
+### 20. §
+
+A koncessziós társaság a kötelezően visszaváltási díjas termékkel kapcsolatban:
+
+a) a hulladék átvételét biztosító automata visszaváltó berendezéseket beszerzi, telepíti, karbantartja és szükség szerint megújítja, fejleszti,
+
+b) a hulladék átvételét, elszállítását, előkezelését, hasznosítás céljából történő átadását biztosítja,
+
+c) a feladatkörébe tartozóan gondoskodik a hulladékgazdálkodási létesítmények fenntartásáról és üzemeltetéséről, és
+
+d) biztosítja az újrahasználható csomagolást átvevő automata visszaváltó berendezések megfelelő működtetését.
+
+### 21. §
+
+(1) A koncessziós társaság a kötelezően visszaváltási díjas termék visszaváltása érdekében országos lefedettséggel visszaváltásihely-hálózatot alakít ki.
+
+(2)[^16] A koncessziós társaság a visszaváltási helyen automata visszaváltó berendezéssel, illetve kézi átvétellel történő visszaváltási lehetőséget biztosít.
+
+(3) A kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltása érdekében a koncessziós társaság legalább
+
+a) minden 400 m<sup>2</sup>-nél nagyobb eladótérrel rendelkező, élelmiszert értékesítő üzletben a forgalmazó részére automata visszaváltó berendezést biztosít, és
+
+b) minden 1000 főnél nagyobb népességű településen visszaváltási hely kialakítását teszi lehetővé a forgalmazó részére vagy annak hiányában egyéb visszaváltási helyet biztosít, amennyiben az a) pont alapján nem kerül sor visszaváltási hely kialakítására.
+
+(4) A (3) bekezdésben meghatározottakon túlmenően, kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltása érdekében visszaváltási hely önkéntes kialakítására a koncessziós társaság az egyenlő bánásmód követelményeire, valamint a visszaváltási hely kialakításához szükséges feltételekre figyelemmel pályázatot ír ki. A pályázati felhívásban a koncessziós társaság a kötelező visszaváltási díjas rendszerbe bevonható visszaváltási helyet üzemeltetők számát meghatározhatja, amelynél figyelembe veszi a rendelkezésére álló automata visszaváltó berendezések számát, illetve a visszaváltási helyek országosan kiegyensúlyozott mértékű elhelyezkedését és indokoltságát.
+
+(5) A koncessziós társaság a visszaváltási helyet üzemeltetővel legalább a 2. melléklet szerinti adattartalommal köt szerződést. A koncessziós társaság jogosult a visszaváltással kapcsolatos, jogszabályon alapuló követelményeket a szerződésben meghatározni.
+
+### 22. §
+
+(1) A kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltáskori állapotára vonatkozó követelményeket a koncessziós társaság honlapján közzéteszi.
+
+(2) A kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltása feltételeinek változásáról – ide nem értve a díj változását – a koncessziós társaság a változások bevezetésének időpontja megjelölésével, legalább három hónappal a változás bevezetése előtt honlapján tájékoztatást tesz közzé.
+
+### 23. §
+
+A koncessziós társaság a visszaváltási helyen gyűjtött, kötelezően visszaváltási díjas, nem újrahasználható termék hulladékának elszállítását oly módon és rendszerességgel látja el, hogy az a visszaváltásihely-üzemeltető kötelezettségeinek teljesítését és működését ne akadályozza. A koncessziós társaság az elszállítást hatékonyan és biztonságosan megszervezi a fogyasztótól átvett mennyiséghez igazodva. A koncessziós társaság a gyűjtési gyakoriságot a közegészségügyi követelmények és a hulladék tárolásához szükséges műszaki szempontok figyelembevételével úgy határozza meg, hogy a visszaváltott termék hulladékának rendszeres elszállítása, a kötelező visszaváltási díjas rendszer zökkenőmentes, gördülékeny és folyamatos működése biztosított legyen.
+
+### 24. §
+
+(1) A koncessziós társaság a fogyasztó által visszagyűjtés céljára átadott kötelezően visszaváltási díjas, nem újrahasználható termék visszaváltási díját a fogyasztó részére megfizeti.
+
+(2)[^17] A koncessziós társaság az (1) bekezdés szerinti kötelezettségének az automata visszaváltó berendezéseken keresztül a visszaváltási díj fogyasztó vagy a fogyasztó által meghatározott személy vagy szervezet részére történő közvetlen megfizetésével, vagy a fogyasztónak a visszaváltásihely-üzemeltető által kifizetett visszaváltási díj visszaváltásihely-üzemeltető részére történő megfizetésével tesz eleget.
+
+(3)[^18] A koncessziós társaság olyan visszaváltásidíj-visszatérítési rendszert épít ki és üzemeltet, amelyben a forgalmazónál elhelyezett automata visszaváltó berendezések által kiadott, az adott visszaváltási helyen levásárolható vagy készpénzre beváltható utalvány mellett minimum egy további módon biztosítja a visszaváltási díj megtérítését a fogyasztó vagy a fogyasztó által meghatározott személy vagy szervezet részére. Azokon a visszaváltási helyeken, ahol nincs készpénzforgalom, az utalvány készpénzre beváltását nem kell biztosítani.
+
+(4) A koncessziós társaság nyilvántartja és havonta, a tárgyhónapot követő hónap utolsó napjáig kifizeti a visszaváltási helyet üzemeltető részére a kötelezően visszaváltási díjas, nem újrahasználható termék kézi visszaváltása során a fogyasztó részére kifizetett visszaváltási díjat, és az automata visszaváltó berendezés által a tárgyhónapban kibocsátott utalvány szerinti ellenértéket, valamint a visszaváltás biztosításának indokolt költségeit ellentételező kezelési díjat.
+
+### 25. §
+
+(1) A koncessziós társaság olyan informatikai rendszert üzemeltet, amely képes a visszaváltási díj gyártói befizetését és a fogyasztó, vagy kézi átvétel esetén a visszaváltási helyet üzemeltető részére történő megtérítését megbízható és követhető módon kezelni.
+
+(2) A koncessziós társaság olyan informatikai rendszert üzemeltet, amely képes az automata visszaváltó berendezések és a kézi átvétel forgalmát és a visszaváltott, tárolt, kötelezően visszaváltási díjas termékek mennyiségét legalább csomagolóeszköz-típusok és -fajták szerint pontosan nyomon követni.
+
+(3) A koncessziós társaság az (1) bekezdés szerinti rendszerre támaszkodva biztosítja
+
+a) jelentéstételi rendszer rendelkezésre állását a kötelezően visszaváltási díjas termékek, és az azokból származó hulladékok mennyiségi, valamint gyűjtésre és kezelésre vonatkozó adatainak tekintetében, és
+
+b) az informatikai rendszerben rendelkezésre álló adatok alapján a visszaváltási módokra, szokásokra vonatkozó adatok elérhetőségét elemzési, korrekciós és további szakpolitikai intézkedések megalapozása céljából.
+
+### 26. §
+
+(1) A koncessziós társaság olyan pénzügyi-számviteli nyilvántartási rendszert működtet, amely lehetővé teszi a kötelező visszaváltási díjas rendszer költséghatékony és átlátható működtetését, a gyártói befizetések és a kötelező visszaváltási díjas rendszer működtetése során felmerülő költségek valós, átlátható, visszakövethető és ellenőrzött adatok alapján való igazolhatóságát, a gyártókkal és a forgalmazókkal történő pénzügyi tranzakciók elszámolását.
+
+(2) A koncessziós társaság végzi a kötelező visszaváltási díjas rendszer működtetéséhez szükséges informatikai rendszerek telepítését és működtetését.
+
+(3)[^19] A koncessziós társaság a gyártó által megfizetett szolgáltatási díjat és a fogyasztó által vissza nem váltott, kötelezően visszaváltási díjas, nem újrahasználható termék visszafizetésre nem kerülő visszaváltási díját a kötelezően visszaváltási díjas termékekkel kapcsolatos, a koncessziós társaság által végzett tevékenységekre és a kötelező visszaváltási díjas rendszer működtetésére – ideértve a szükséges beruházásokat is – fordítja.
+
+### 27. §
+
+A koncessziós társaság belső, független auditor által auditált önellenőrzési rendszert működtet a pénzügyi gazdálkodás, valamint a tevékenysége során gyűjtött adatok ellenőrizhetősége érdekében.
+
+### 28. §
+
+(1) A koncessziós társaság
+
+a) gondoskodik a fogyasztók és a hulladékbirtokosok tájékoztatásáról a hulladékképződés megelőzésére irányuló intézkedésekkel, a visszaváltási lehetőségekkel és megoldásokkal, a hulladékelhagyás megelőzésével kapcsolatban,
+
+b) szemléletformáló és edukációs tevékenységet folytat a fogyasztók és a hulladékbirtokosok felelősségvállalásának erősítése érdekében a kötelezően visszaváltási díjas termékek minél nagyobb arányú visszaváltása érdekében,
+
+c) tájékoztatja a fogyasztókat a visszaváltási helyekről, és
+
+d) a nyilvánosság számára hozzáférhetővé teszi a gyártók által a forgalomba hozott termékek mennyisége alapján fizetett csatlakozási díjakat és szolgáltatási díjakat, valamint a kötelezően visszaváltási díjas termékek hulladékaival kapcsolatosan a hulladékgazdálkodásban részt vevők kiválasztási eljárását.
+
+(2) Az (1) bekezdés d) pontja alapján a koncessziós társaság nem tehet a nyilvánosság számára hozzáférhetővé üzleti titoknak minősülő, valamint a gyártói és termékszintű értékesítési volumenekre vonatkozó adatokat. A nyilvánosságra hozott adatok nem lehetnek alkalmasak arra, hogy azok alapján a gyártók üzleti titkaira vonatkozó következtetés legyen levonható.
+
+## 8. A csatlakozási díj és a szolgáltatási díj
+
+### 29. §
+
+A gyártó csatlakozási és szolgáltatási díjfizetési kötelezettsége a kötelezően visszaváltási díjas termék gyártó általi forgalomba hozatalával keletkezik. A gyártó csatlakozási díjfizetési kötelezettsége a kötelező visszaváltási díjas rendszer országos bevezetését követő 5. év végéig áll fenn.
+
+### 30. §
+
+(1) A csatlakozási díj és szolgáltatási díj egy egységre vetített mértékét a 3. mellékletben meghatározott díjkód szerinti bontásban a kötelezően visszaváltási díjas termékekre nézve a hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) rendeletben határozza meg a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) javaslata alapján. Amennyiben a tárgyévre vonatkozó rendelet kihirdetésére nem kerül sor a tárgyévet megelőző év november 30. napjáig, akkor a tárgyévet megelőző évre meghatározott csatlakozási díj és szolgáltatási díj – a Magyar Nemzeti Bank által publikált, a fogyasztói árindexre készített, a díjmegállapítás évére vonatkozó előrejelzésének megfelelően – indexált mértéke alkalmazandó.
+
+(2)[^20] Az egységnyi csatlakozási és szolgáltatási díjakra a Hivatal a Ht. rendelkezéseinek figyelembevételével, a 3. mellékletben meghatározott díjkód szerinti bontásban, a tárgyévet megelőző év szeptember 15. napjáig tesz javaslatot. A javaslat elkészítése során a Hivatal figyelembe veszi a fogyasztó által vissza nem váltott, kötelezően visszaváltási díjas, nem újrahasználható termék visszafizetésre nem kerülő visszaváltási díjából a koncessziós társaság tárgyévben várható bevételét, továbbá a tárgyévet két évvel megelőző naptári évben az (1) bekezdés szerinti díjakból származó és a fogyasztó által vissza nem váltott kötelezően visszaváltási díjas, nem újrahasználható termék visszafizetésre nem került visszaváltási díjából származó bevétel, valamint az ugyanezen időszakban a koncessziós társaságnál a kötelező visszaváltási díjas termékekkel kapcsolatban felmerült indokolt költségek különbözetét.
+
+(3) A csatlakozási díjat úgy kell megállapítani, hogy az a Ht. rendelkezéseivel összhangban fedezze a koncessziós társaságnak a kötelező visszaváltási díjas rendszer bevezetéséhez szükséges beruházásokkal összefüggésben felmerült indokolt költségeit.
+
+(4) A szolgáltatási díjat úgy kell megállapítani, hogy az a Ht. rendelkezéseivel összhangban fedezze a koncessziós társaságnak a kötelezően visszaváltási díjas termékek hulladékaival és a kötelező visszaváltási díjas rendszer működtetésével – különösen a fenntartásával, fejlesztésével és szükség esetén a bővítésével – kapcsolatosan felmerült indokolt költségeit.
+
+### 31. §
+
+(1) A gyártó által fizetendő csatlakozási díj mértéke a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő kötelezően visszaváltási díjas termékmennyiség és a 30. § (1) bekezdése szerint az adott terméktípusra megállapított egységnyi díjtétel szorzata.
+
+(2) A gyártó által fizetendő szolgáltatási díj mértéke a gyártó által forgalomba hozott, a tárgynegyedévre vonatkozó adatszolgáltatásában szereplő kötelezően visszaváltási díjas termékmennyiség és a 30. § (1) bekezdése szerint az adott terméktípusra megállapított egységnyi díjtétel szorzata.
+
+(3) A gyártó az (1) bekezdés szerint meghatározott csatlakozási díjat és a (2) bekezdés szerint meghatározott szolgáltatási díjat negyedévente, a koncessziós társaság által kiállított számla alapján, a számla kézhezvételétől számított 15 napon belül fizeti meg a koncessziós társaság részére.
+
+(3a)[^21] A (3) bekezdésben foglaltaktól eltérően, ha az (1) bekezdés szerint meghatározott csatlakozási díjról vagy a (2) bekezdés szerint meghatározott szolgáltatási díjról kiállítandó számla általános forgalmi adó nélkül számított összege nem érné el az 1000 forintot, arról a koncessziós társaság nem negyedévente állít ki számlát.
+
+(3b)[^22] A (3a) bekezdés szerinti esetben a koncessziós társaság a csatlakozási díjról vagy a szolgáltatási díjról szóló számlát akkor állítja ki a gyártó részére, amikor a megelőző negyedévekre megállapított, de még ki nem számlázott csatlakozási díjak vagy szolgáltatási díjak általános forgalmi adó nélkül számított összege göngyölítetten eléri az 1000 forintot. A gyártó a csatlakozási díjat vagy a szolgáltatási díjat a koncessziós társaság által így kiállított számla alapján, a számla kézhezvételétől számított 15 napon belül fizeti meg a koncessziós társaság részére.
+
+(3c)[^23] A (3a) bekezdés szerinti esetben a koncessziós társaság tájékoztatja a gyártót a megállapított csatlakozási díj vagy szolgáltatási díj mértékéről, a (3b) bekezdésben foglaltakról, továbbá arról, hogy a számla kiállítására nem negyedévente kerül sor.
+
+(3d)[^24] A (3b) bekezdéstől eltérően a (3a) bekezdés szerinti esetben a koncessziós társaság a tárgyév negyedik negyedévét követően a csatlakozási díjról vagy a szolgáltatási díjról szóló számlát akkor is kiállítja a gyártó részére, ha a megelőző időszakokra megállapított, de még ki nem számlázott csatlakozási díjak vagy szolgáltatási díjak általános forgalmi adó nélkül számított összege göngyölítetten nem éri el az 1000 forintot. A gyártó a csatlakozási díjat vagy a szolgáltatási díjat a koncessziós társaság által így kiállított számla alapján, a számla kézhezvételétől számított 15 napon belül fizeti meg a koncessziós társaság részére.
+
+(4) A gyártótól a csatlakozási és szolgáltatási díjat a koncessziós társaság szedi be, és kezeli az e díjakkal kapcsolatban felmerülő kintlévőségeket.
+
+### 31/A. §[^25]
+
+Nem kell a csatlakozási és szolgáltatási díjat megfizetni a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 22. § (1) bekezdése, valamint 22/C. §-a szerinti esetben. Nem kell a kötelezően visszaváltási díjas termék után visszaváltási díjat fizetni a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 22. § (1) bekezdése szerinti esetben.
+
+## 9. Nyilvántartásba vétel
+
+### 32. §
+
+(1) Az önkéntesen visszaváltási díjas termék gyártója a forgalomba hozatalt megelőzően kéri nyilvántartásba vételét az országos hulladékgazdálkodási hatóságnak benyújtott kérelmében.
+
+(2) Az (1) bekezdés szerinti kérelem a következő adatokat tartalmazza:
+
+a) a gyártó nevét, székhelyét, adószámát,
+
+b) a visszaváltási díjas termék megnevezését,
+
+c) amennyiben a visszaváltási díjas termék azonosító számmal vagy GTIN számmal rendelkezik, a termék azonosító számát, illetve GTIN számát,
+
+d) a csomagolás kivételével a visszaváltási díjas termék Kombinált Nómenklatúra szerinti, tárgyév első napján hatályos vámtarifaszámát és
+
+e) a visszaváltási díj összegét.
+
+(3) Az országos hulladékgazdálkodási hatóság a gyártó által a (2) bekezdés szerint közölt adatokat a kérelem beérkezésétől számított 15 napon belül nyilvántartásba veszi, ha a kérelem megfelel a (2) bekezdésben foglaltaknak.
+
+### 33. §
+
+(1) A 32. § (2) bekezdése szerinti adatokról az országos hulladékgazdálkodási hatóság nyilvántartást vezet.
+
+(2) A gyártó a nyilvántartásban szereplő adataiban bekövetkezett változásokat – a változás bekövetkezését követő 15 napon belül – az országos hulladékgazdálkodási hatóságnak az adatváltozás tényét igazoló elektronikus dokumentum egyidejű csatolásával bejelenti, és kéri a változás átvezetését. A bejelentés alapján a változást az országos hulladékgazdálkodási hatóság a nyilvántartásban a bejelentés beérkezésétől számított 8 napon belül átvezeti.
+
+(3) A gyártó az önkéntesen visszaváltási díjas termék gyártásának megszüntetését az országos hulladékgazdálkodási hatóságnak a megszüntetéstől számított 15 napon belül bejelenti, és kéri az adatok nyilvántartásból való törlését. A bejelentést követően az országos hulladékgazdálkodási hatóság az adatokat a nyilvántartásból törli.
+
+(4) Az országos hulladékgazdálkodási hatóság a honlapján nyilvánosan, bárki számára hozzáférhető módon, naprakészen közzéteszi az (1) bekezdés szerinti nyilvántartást.
+
+(5)[^26] A nyilvántartás a 32. § (2) bekezdés b)–e) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+## 10. A kötelező visszaváltási díjas rendszer konzultációs testületei
+
+### 34. §
+
+A Ht. 30/B. § (6) bekezdése szerinti rendszeres párbeszéd biztosítása érdekében működő országos konzultatív testület a Kötelező Visszaváltási Díjas Rendszer Fóruma (a továbbiakban: Visszaváltási Fórum) és a Kötelező Visszaváltási Díjas Rendszer Díjtanácsa (a továbbiakban: Visszaváltási Díjtanács).
+
+### 35. §
+
+(1) A Visszaváltási Fórum tagjai
+
+a) az országos hulladékgazdálkodási hatóság által nyilvántartásba vett, kötelezően visszaváltási díjas terméket gyártóknak, illetve a gyártókat képviselő szakmai érdekképviseleti szervezeteknek az általuk meghatározott módon választott képviselője,
+
+b) a kötelezően visszaváltási díjas terméket forgalmazóknak, illetve a forgalmazókat képviselő szakmai érdekképviseleti szervezeteknek az általuk meghatározott módon választott képviselője,
+
+c) a hulladékhasznosítóknak, illetve a hulladékhasznosítókat képviselő szakmai érdekképviseleti szervezeteknek az általuk meghatározott módon választott képviselője,
+
+d) a koncessziós társaság képviselője,
+
+e) a Hivatal képviselője,
+
+f) az országos hulladékgazdálkodási hatóság képviselője és
+
+g) a miniszter által kijelölt személy.
+
+(2) A Visszaváltási Fórum hétfős testület, amelynek elnöke az (1) bekezdés g) pontja alapján a miniszter által kijelölt személy.
+
+(3) A Visszaváltási Fórum ülésein részt vehetnek a Visszaváltási Fórum elnöke által meghívottak is, akik tanácskozási joggal rendelkeznek.
+
+(4) A Visszaváltási Fórum feladata a kötelező visszaváltási díjas rendszer működésével kapcsolatos kérdések megvitatása.
+
+### 35/A. §[^27]
+
+(1) A Visszaváltási Fórum a miniszter konzultációs szerve, amely önálló döntési jogkörrel nem rendelkezik.
+
+(2) A Visszaváltási Fórum a jelen lévő tagok egyszerű többségével nem kötelező erejű ajánlásokat fogalmazhat meg a miniszter számára. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3) A Visszaváltási Fórum évente legalább egy alkalommal tart ülést.
+
+(4) A Visszaváltási Fórum ülését a miniszter hívja össze. A szervezési feladatokat a miniszter hivatali szervezete útján látja el.
+
+(5) A Visszaváltási Fórum ülését a tagok egyharmadának kezdeményezésére a miniszter 15 napon belül összehívja.
+
+(6) A Visszaváltási Fórum ügyrendjét maga állapítja meg, amelyet a miniszter hagy jóvá.
+
+### 36. §
+
+(1) A Visszaváltási Díjtanács tagjai
+
+a)[^28] az országos hulladékgazdálkodási hatóság által nyilvántartásba vett, kötelezően visszaváltási díjas terméket gyártóknak, illetve gyártókat képviselő szakmai érdekképviseleti szervezeteknek az általuk meghatározott módon választott képviselője,
+
+b) a hulladékhasznosítóknak, illetve a hulladékhasznosítókat képviselő szakmai érdekképviseleti szervezeteknek az általuk meghatározott módon választott képviselője,
+
+c) a koncessziós társaság képviselője,
+
+d) a Hivatal elnöke vagy az általa kijelölt személy és
+
+e) a miniszter által kijelölt személy.
+
+(2) A Visszaváltási Díjtanács ötfős testület, amelynek elnöke a Hivatal elnöke vagy az általa kijelölt személy.
+
+(3)[^29] A Visszaváltási Díjtanács feladata a Hivatal csatlakozási és szolgáltatási díjjal kapcsolatos díjelőkészítő tevékenységének szakmai támogatása, beleértve a Ht. 30/A. § (3) bekezdés b) pontja szerinti díjmoduláció szempontjaira történő javaslattételt is.
+
+### 37. §
+
+(1)[^30] A Visszaváltási Díjtanács a Hivatal elnökének konzultációs szerve, amely önálló döntési jogkörrel nem rendelkezik.
+
+(2)[^31] A Visszaváltási Díjtanács a jelen lévő tagok egyszerű többségével nem kötelező erejű ajánlásokat fogalmazhat meg a Hivatal számára. Szavazategyenlőség esetén az elnök szavazata dönt.
+
+(3)[^32] A Visszaváltási Díjtanács évente legalább egy alkalommal tart ülést. A Visszaváltási Díjtanács ülését olyan időpontban kell megszervezni, hogy a Visszaváltási Díjtanács (2) bekezdés szerinti ajánlásait a Hivatal a csatlakozási és szolgáltatási díj előkészítési tevékenysége során figyelembe vehesse.
+
+(4)[^33] A Visszaváltási Díjtanács ülését a Hivatal elnöke hívja össze. A szervezési feladatokat a Hivatal látja el.
+
+(5)[^34] A Visszaváltási Díjtanács ülését a tagok egyharmadának kezdeményezésére a Hivatal elnöke 15 napon belül összehívja.
+
+(6)[^35] A Visszaváltási Díjtanács ügyrendjét maga állapítja meg, amelyet a Hivatal elnöke hagy jóvá.
+
+## 11. Eljáró hatóságok
+
+### 38. §
+
+(1) E rendeletnek a visszaváltási díjas termékek jelölésére, fogyasztótól történő visszaváltására és a fogyasztó tájékoztatására vonatkozó rendelkezéseinek megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § 10. pontja értelmében vett fogyasztót érint.
+
+(2) Az (1) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(3) A gyártó 9. alcím szerinti kötelezettségeinek teljesítését az országos hulladékgazdálkodási hatóság; a gyártó, a koncessziós társaság és a koncesszori alvállalkozók e rendelet szerinti, az (1) és (2) bekezdés hatálya alá nem tartozó, egyéb tevékenységét a tevékenység tekintetében hatáskörrel és illetékességgel rendelkező hulladékgazdálkodási hatóság ellenőrzi.
+
+## 12. Jogkövetkezmények
+
+### 39. §
+
+(1) Az e rendeletben foglalt, a 38. § (1) és (2) bekezdésének hatálya alá nem tartozó előírások megsértésének szankcionálása tekintetében e jogszabály a hulladékképződés megelőzésével kapcsolatos jogszabálynak minősül.
+
+(2) Ha a gyártó a 7. § szerinti kötelezettségét nem teljesíti, az országos hulladékgazdálkodási hatóság elrendeli a termék visszahívását.
+
+## 13. Záró rendelkezések
+
+### 40. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2023. november 1-jén lép hatályba.
+
+(2)[^36] A 3. alcím, a 6. § (4) bekezdése, a 7–9. §, a 10. § (2)–(6) bekezdése, az 5. alcím, a 6. alcím, a 20–28. §, a 8. alcím, a 11. alcím, a 39. § (2) bekezdése, a 43–47. § és a 2–5. melléklet 2024. január 1-jén lép hatályba.
+
+### 41. §
+
+(1)[^37]
+
+(2) Az a termék, amely e rendelet alapján kötelezően visszaváltási díjas terméknek minősülne, 2024. június 30. napjáig az e rendelet hatálybalépése előtt hatályos rendelkezések alapján forgalomba hozható. A 2024. június 30. napjáig forgalomba hozott termék, amely e rendelet alapján kötelezően visszaváltási díjas terméknek minősülne, az e rendelet hatálybalépése előtt hatályos rendelkezések alapján forgalmazható.
+
+(2a)[^38] A (2) bekezdés szerinti forgalomba hozatalnak minősül a (2) bekezdés szerinti termék jövedéki adóról szóló törvény szerinti szabadforgalomba bocsátása – ide nem értve a szabálytalanság esetét –, az Európai Unió másik tagállamában szabadforgalomba bocsátott, kereskedelmi céllal belföldre feladott termék átvétele, valamint a kisüzemi bortermelő esetében a termék borászati üzemből történő kiszállítása is.
+
+(2b)[^39] 2024. január 1-jét követően a piacra újonnan bevezetett azon termékek esetében, amelyeket a (2) bekezdésre figyelemmel hoztak forgalomba, az 1. melléklet 1. pont 1.1. alpontját akként kell alkalmazni, hogy a kötelezően visszaváltási díjasként forgalomba hozott termék GTIN száma és vonalkódja nem lehet egyező a (2) bekezdés szerint forgalomba hozott termékével.
+
+(2c)[^40] Az e rendelet alapján kötelezően visszaváltási díjas terméknek minősülő, de a (2) bekezdés alapján forgalomba nem hozott, 2024. július 1. napján készleten lévő termék tulajdonjogának karitatív tevékenységet folytató közhasznú szervezet részére történő ingyenes átruházása esetén e rendelet szabályai nem alkalmazandók.
+
+(3)[^41] Nem kell megfizetni a szolgáltatási díjat az után a kötelezően visszaváltási díjas, újrahasználható termék után, amelynek a korábbi forgási ciklusa során a gyártó a kiterjesztett gyártói felelősségi díjat igazoltan megfizette.
+
+(4) A kötelező visszaváltási díjas rendszer országos bevezetése előtt a koncessziós társaság a kötelező visszaváltási díj alkalmazására kötelezően visszaváltási díjas, nem újrahasználható termékekre nézve zárt rendszerű tesztüzemet hajt végre, és a tapasztalatok alapján készíti elő a rendszer éles indítását.
+
+### 41/A. §[^42]
+
+A 41. § (2) bekezdésében foglaltaktól eltérően a Nemzeti Élelmiszerlánc-biztonsági Hivatal által legkésőbb 2024. június 30-ig kiadott forgalomba hozatali azonosítóval rendelkező borászati termék csomagolása, amely kötelezően visszaváltási díjas terméknek minősülne, a forgalomba hozatali azonosító érvényességi ideje alatt az e rendelet hatálybalépése előtt hatályos rendelkezések alapján forgalomba hozható és forgalmazható, ha a borászati terméket 2024. június 30. napjáig közvetlen fogyasztói csomagolással ellátták.
+
+### 41/B. §[^43]
+
+E rendeletnek a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet módosításáról szóló 368/2024. (XI. 28.) Korm. rendelettel módosított 3. § (1) bekezdésének hatálybalépését[^44] megelőzően kiskereskedelmi forgalomba hozott azon termékek esetében, amelyek visszaváltási díját a gyártó nem egész számra kerekítve határozta meg, a visszaváltási díj elszámolása során az egész számra való kerekítés általános szabályai termékenként alkalmazandók.
+
+### 41/B. §[^45]
+
+E rendeletnek a hulladékgazdálkodással kapcsolatos egyes kormányrendeletek módosításáról szóló 465/2024. (XII. 30.) Korm. rendelettel megállapított 31. § (3a)–(3c) bekezdését a 2024. december 31-ét követő időszakról teljesített adatszolgáltatás alapján meghatározott díj tekintetében kell alkalmazni.
+
+### 42. §
+
+(1) Ez a rendelet
+
+a) a csomagolásról és a csomagolási hulladékról szóló 94/62/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/852 európai parlamenti és tanácsi irányelvnek,
+
+b) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i (EU) 2019/904 európai parlamenti és tanácsi irányelvnek és
+
+c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+(2) E rendeletnek
+
+a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése,
+
+b) a csomagolásról és a csomagolási hulladékról szóló, 1994. december 20-i 94/62/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (2) bekezdése szerinti előzetes bejelentése és
+
+c) a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5. cikk (1) bekezdése szerinti előzetes bejelentése
+
+megtörtént.
+
+## 1. melléklet a 450/2023. (X. 4.) Korm. rendelethez
+
+**A kötelezően visszaváltási díjas termék jelölése**
+
+A kötelezően visszaváltási díjas termék esetén az alábbi jelölést kell a terméken vagy annak címkéjén elhelyezni:
+
+1\. Nem újrahasználható kötelezően visszaváltási díjas termék esetén alkalmazandó jelölés:
+
+1.1. Termék GTIN száma és vonalkódja, amely nem lehet egyező a 2024. január 1. napját megelőzően forgalomba hozott termékével.
+
+1.2. Az alábbi ábra (legkisebb megengedett méreteivel feltüntetve):
+
+![](https://njt.jog.gov.hu/picture/1c/1cf2EJR_4299379-3X07858A.jpg)
+
+Az ábra pozitív vagy negatív formában (a fekete háttér a szemléltetést szolgálja, nem része az ábrának) kerül alkalmazásra, a lehető legnagyobb kontrasztban a háttérszínnel.
+
+Minimális védelmi tér:
+
+![](https://njt.jog.gov.hu/picture/f8/f828EJR_4299380-3X07858B.jpg)
+
+2\. Újrahasználható kötelezően visszaváltási díjas termék esetén alkalmazandó jelölés:
+
+2.1. Termék GTIN száma és vonalkódja.
+
+2.2. Az alábbi ábra (legkisebb megengedett méreteivel feltüntetve):
+
+![](https://njt.jog.gov.hu/picture/41/41b4EJR_4299382-3X07858C.jpg)
+
+Az ábra pozitív vagy negatív formában (a fekete háttér a szemléltetést szolgálja, nem része az ábrának) kerül alkalmazásra, a lehető legnagyobb kontrasztban a háttérszínnel. Az ábrán feltüntetett összeg csak mintaként szolgál, a gyártó által meghatározott, adott termékre vonatkozó visszaváltási díj összege alkalmazandó.
+
+Minimális védelmi tér:
+
+![](https://njt.jog.gov.hu/picture/df/dfd2EJR_4299383-3X07859A.jpg)
+
+Az 1.2. és a 2.2. alpontban lévő ábra eps formátumban letölthető a koncessziós társaság hivatalos weboldaláról.
+
+## 2. melléklet a 450/2023. (X. 4.) Korm. rendelethez
+
+**A koncessziós társaság visszaváltásihely-üzemeltetővel kötött szerződésének részletes tartalmi elemei**
+
+1\. a visszaváltásihely-üzemeltető neve, székhelye, adószáma, cégjegyzékszáma, egyéni vállalkozó esetén nyilvántartási száma,
+
+2\. az automata visszaváltó berendezések telepítésével, működtetésével, karbantartásával kapcsolatos feladatok,
+
+3\. az átvett visszaváltási díjas termék, illetve annak hulladéka elszállításának rendje,
+
+4\. az informatikai rendszer telepítésével, üzemeltetésével, igénybevételével kapcsolatos feladatok,
+
+5\. a koncessziós társaság és a visszaváltásihely-üzemeltető közötti pénzügyi elszámolás rendje,
+
+6\. a szerződésszegéssel és a szerződés megszűnésével, megszüntetésével összefüggő jogok és kötelezettségek.
+
+## 3. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^51]
+
+****A kötelezően visszaváltási díjas termékek díjkódjai****
+
+|  | **A** | **B** |
+|---|---|---|
+| **1** | **Anyagáram** | **Díjkód** |
+| **2** | nem újrahasználható műanyag | M51 |
+| **3** | nem újrahasználható fém | V51 |
+| **4** | nem újrahasználható üveg, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 20/B. §-a szerinti díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével | U51 |
+| **5** | a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 20/B. §-a szerinti díjátalány-fizetéssel érintett borászati termék üveg csomagolása a pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor üveg csomagolása kivételével | U61 |
+| **6** | a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 20/B. §-a szerinti díjátalány-fizetéssel érintett pezsgő, minőségi pezsgő, illatos minőségi pezsgő, szén-dioxid hozzáadásával készült habzóbor üveg csomagolása | U71 |
+| **7** | újrahasználható, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 20/B. §-a szerinti díjátalány-fizetéssel érintett borászati termék üveg csomagolása kivételével[^52] | X71 |
+
+## 4. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^53]
+
+## 5. melléklet a 450/2023. (X. 4.) Korm. rendelethez[^54]
+
+---
+
+[^1]: A 2. § (1) bekezdés a) pontja a 674/2023. (XII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés e) pontja a 674/2023. (XII. 29.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés g) pontja a 674/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^4]: A 2. § (3) bekezdését a 368/2024. (XI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3. § (1) bekezdése a 368/2024. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § a 203/2025. (VII. 17.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^7]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 124/2024. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § (7) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 8. § (1) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^10]: A 10. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^11]: A 11. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^12]: A 12. § a 674/2023. (XII. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^13]: A 15. § (3) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 46. §-a iktatta be.
+[^14]: A 17. § (3) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 47. §-a iktatta be.
+[^15]: A 19. § (3) bekezdését a 368/2024. (XI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^16]: A 21. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § b) pontja szerint módosított szöveg.
+[^17]: A 24. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § c) pontja szerint módosított szöveg.
+[^18]: A 24. § (3) bekezdése a 674/2023. (XII. 29.) Korm. rendelet 30. §-ával megállapított, a 465/2024. (XII. 30.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^19]: A 26. § (3) bekezdése a 260/2025. (VIII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 30. § (2) bekezdése a 260/2025. (VIII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: A 31. § (3a) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 48. §-a iktatta be, szövege a 203/2025. (VII. 17.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^22]: A 31. § (3b) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 48. §-a iktatta be, szövege a 203/2025. (VII. 17.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
+[^23]: A 31. § (3c) bekezdését a 465/2024. (XII. 30.) Korm. rendelet 48. §-a iktatta be, szövege a 203/2025. (VII. 17.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^24]: A 31. § (3d) bekezdését a 203/2025. (VII. 17.) Korm. rendelet 35. §-a iktatta be.
+[^25]: A 31/A. §-t a 674/2023. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^26]: A 33. § (5) bekezdését a 342/2025. (X. 31.) Korm. rendelet 57. §-a iktatta be.
+[^27]: A 35/A. §-t a 465/2024. (XII. 30.) Korm. rendelet 49. §-a iktatta be.
+[^28]: A 36. § (1) bekezdés a) pontja a 674/2023. (XII. 29.) Korm. rendelet 35. § b) pontja szerint módosított szöveg.
+[^29]: A 36. § (3) bekezdése a 674/2023. (XII. 29.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^30]: A 37. § (1) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^31]: A 37. § (2) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
+[^32]: A 37. § (3) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 53. § b) pontja szerint módosított szöveg.
+[^33]: A 37. § (4) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^34]: A 37. § (5) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § e) pontja és 53. § c) pontja szerint módosított szöveg.
+[^35]: A 37. § (6) bekezdése a 465/2024. (XII. 30.) Korm. rendelet 52. § f) pontja és 53. § d) pontja szerint módosított szöveg.
+[^36]: A 40. § (2) bekezdése a 484/2023. (X. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^37]: A 41. § (1) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 36. §-a hatályon kívül helyezte.
+[^38]: A 41. § (2a) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^39]: A 41. § (2b) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^40]: A 41. § (2c) bekezdését a 368/2024. (XI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A 41. § (3) bekezdése a 674/2023. (XII. 29.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^42]: A 41/A. §-t a 674/2023. (XII. 29.) Korm. rendelet 33. §-a iktatta be, szövege a 124/2024. (VI. 14.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^43]: A 41/B. §-t a 368/2024. (XI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A hatálybalépés időpontja 2025. május 27.
+[^45]: A második 41/B. §-t a 465/2024. (XII. 30.) Korm. rendelet 51. §-a iktatta be.
+[^51]: A 3. melléklet a 674/2023. (XII. 29.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^52]: A 3. mellékletben foglalt táblázat A:7 mezője a 465/2024. (XII. 30.) Korm. rendelet 52. § g) pontjával megállapított szöveg.
+[^53]: A 4. melléklet a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.
+[^54]: Az 5. melléklet a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.

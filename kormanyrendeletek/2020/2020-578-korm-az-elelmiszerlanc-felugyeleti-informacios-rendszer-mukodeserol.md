@@ -1,0 +1,324 @@
+---
+title: "578/2020. (XII. 14.) Korm. rendelet az élelmiszerlánc-felügyeleti információs rendszer működéséről"
+identifier: "578/2020. (XII. 14.) Korm. rendelet"
+njt_id: "2020-578-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/578"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-14
+in_force_from: 2021-04-01
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-578-20-22"
+retrieved: 2026-10-12
+---
+
+# 578/2020. (XII. 14.) Korm. rendelet az élelmiszerlánc-felügyeleti információs rendszer működéséről
+
+A Kormány az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (1) bekezdés j) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+a) *eljáró szerv:* a FELIR azonosító köteles tevékenységre vonatkozó jogszabály (a továbbiakban: tevékenységre vonatkozó jogszabály) szerinti, élelmiszerlánc-felügyeleti, állattenyésztési, növénytermesztési, talajvédelmi, vadászati, halgazdálkodási, erdészeti vagy mezőgazdasági igazgatási feladatokat ellátó szerv;
+
+b) *FELIR azonosító köteles tevékenység:* az 1. mellékletben felsorolt, nyilvántartásba vételi vagy engedélyezési kötelezettség alá tartozó tevékenység.
+
+(2) Az élelmiszerlánc-felügyeleti információs rendszert (a továbbiakban: FELIR) a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) működteti.
+
+(3) A FELIR azonosító köteles tevékenységet végző természetes és jogi személynek e tevékenység végzéséhez FELIR azonosítóval kell rendelkeznie.
+
+## 2. A FELIR-ben történő nyilvántartásba vétellel és a FELIR azonosító kiadásával kapcsolatos hatósági eljárás
+
+### 2. §
+
+(1) A FELIR azonosító köteles tevékenységet végző természetes és jogi személynek a FELIR-ben történő nyilvántartásba vétel (a továbbiakban: FELIR nyilvántartásba vétel) iránti bejelentésben (a továbbiakban: bejelentés) meg kell adnia a 2. mellékletben meghatározott adatokat.
+
+(2) A bejelentést
+
+a) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 9. § (1) bekezdésében meghatározott ügyfelek az Eüsztv. rendelkezései szerint,
+
+b) természetes személyek személyesen vagy elektronikus úton
+
+tehetik meg.
+
+(3) A bejelentést elektronikus úton, a NÉBIH honlapján rendszeresített Ügyfélprofil Rendszeren keresztül kell benyújtani, a Központi Azonosítási Ügynök rendszeren keresztül történő azonosítást követően.
+
+(4) Természetes személyek személyes ügyintézés esetén a bejelentést megtehetik az adott tevékenység nyilvántartásba vételéért vagy engedélyezéséért felelős eljáró szervnél vagy a NÉBIH-nél.
+
+(5) A FELIR nyilvántartásba vételi eljárással egyidejűleg teljesíthető a (3) bekezdésben meghatározott módon, a szükséges adatok megadásával
+
+a) a tevékenységre vonatkozó jogszabályban előírt, a tevékenység megkezdésével kapcsolatos bejelentési kötelezettség,
+
+b) az engedélyköteles tevékenységnek a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 400. § (1) bekezdése szerinti ellenőrzött bejelentése (a továbbiakban: ellenőrzött bejelentés).
+
+(6) Engedélyköteles tevékenység esetén az ügyfélnek a (3) bekezdésben meghatározott módon történő FELIR nyilvántartásba vételi eljárást követő 6 hónapon belül meg kell indítania a tevékenységengedélyezési eljárást, ha
+
+a) az ügyfél az ellenőrzött bejelentés helyett a tevékenységét engedély alapján kívánja folytatni,
+
+b) az engedélyköteles tevékenység nem végezhető ellenőrzött bejelentés alapján.
+
+(7) Ha az ügyfél már rendelkezik FELIR azonosítóval, és új tevékenységet kíván folytatni, a bejelentés megtételére a (2)–(6) bekezdésben foglaltak irányadóak.
+
+### 3. §
+
+(1) A 2. § (5) bekezdésében meghatározott esetekben a FELIR nyilvántartásba vétel és a FELIR azonosító kiadása a tevékenység nyilvántartásba vételével egyidejűleg történik meg.
+
+(2) Ha az ügyfél által megadott vagy más adatkezelő szervtől átvett adat és a hatósági ellenőrzésen megállapított vagy közhiteles nyilvántartásban szereplő adat között eltérés van, a NÉBIH a hatósági ellenőrzésen megállapított vagy a közhiteles nyilvántartásban szereplő adatot átvezeti a FELIR-ben.
+
+## 3. Az eljáró szerv feladatai
+
+### 4. §
+
+(1) Az eljáró szerv a FELIR nyilvántartásba vételi eljárás során, személyes ügyintézés esetén
+
+a) ellenőrzi a kérelmezőnek a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 4. § (4) bekezdése szerinti természetes személyazonosító adatait (a továbbiakban: természetes személyazonosító adatok),
+
+b) a FELIR nyilvántartásba vételhez szükséges adatok rögzítésével elindítja a FELIR nyilvántartásba vétellel és FELIR azonosítóval kapcsolatos elektronikus ügyintézési folyamatot.
+
+(2) Az eljáró szerv az alkalmazásában álló, a FELIR-t feladatai ellátásához használó személyek természetes személyazonosító adatait FELIR felhasználóként rögzíti a FELIR-ben.
+
+(3) Az eljáró szerv az általa nyilvántartásba vett vagy engedélyezett tevékenység adatait rögzíti a FELIR-ben. Ha az ügyfél nem rendelkezik FELIR azonosítóval, az (1) bekezdésben foglaltak szerint közreműködik annak kiadásában.
+
+(4) Az eljáró szerv rögzíti a FELIR-ben, ha
+
+a) az ügyfélnek a tevékenység végzését megtiltja,
+
+b) visszavonja az ügyfél engedélyét, vagy kezdeményezi annak visszavonását,
+
+c) a tevékenységre vonatkozó jogszabályok szerinti nyilvántartásból törli az ügyfelet, vagy
+
+d) az ügyfél bejelenti tevékenységének megszüntetését.
+
+(5) Ha az eljáró szerv hatósági eljárása során megállapítja, hogy a tevékenység adatai eltérnek az engedélyezett vagy bejelentett tevékenység FELIR-ben nyilvántartásba vett adataitól, vagy az ügyfél az eljáró szervnél bejelenti adatainak változását, az eljáró szerv módosítja a FELIR-ben szereplő adatokat.
+
+## 4. A FELIR azonosító, a NÉBIH tevékenység-azonosító és a NÉBIH létesítmény-azonosító
+
+### 5. §
+
+(1) A FELIR azonosító két betűből és hét arab számjegyből áll. Az első hat számjegyet folyósorszámozás módszerével kell képezni, a hetedik számjegy automatikusan generált ellenőrző szám.
+
+(2) Az ügyfél részére a tevékenységei számától függetlenül egy FELIR azonosító kerül megállapításra.
+
+(3) A már egyszer kiadott FELIR azonosító ismételten nem adható ki.
+
+(4) A NÉBIH a FELIR-ben rögzített adatok alapján automatizáltan, a FELIR által generálva egyedi NÉBIH tevékenység-azonosítót, illetve NÉBIH létesítmény-azonosítót állapít meg.
+
+(5) Az eljáró szerv a tevékenység nyilvántartásba vételi vagy engedélyezési eljárása során hozott döntésének tartalmaznia kell
+
+a) az ügyfél FELIR azonosítóját,
+
+b) a NÉBIH tevékenység-azonosítót, illetve
+
+c) a NÉBIH létesítmény-azonosítót.
+
+## 5. A FELIR azonosító felfüggesztése, visszavonása
+
+### 6. §
+
+(1) A NÉBIH a FELIR azonosítót felfüggeszti, ha
+
+a) az eljáró szerv rögzíti a tevékenység végzésének megtiltására, engedély visszavonására, nyilvántartásból történő törlésre irányuló hatósági intézkedést a FELIR-ben, és az intézkedés az ügyfél valamennyi tevékenységét érinti,
+
+b) az ügyfél bejelentése alapján az eljáró szerv rögzíti a FELIR-ben az ügyfél tevékenységének megszüntetését, és a bejelentés az ügyfél valamennyi tevékenységét érinti,
+
+c) az ügyfél elektronikus úton kezdeményezte a FELIR nyilvántartásba vételt, de 6 hónapon belül nem kezdeményezte a kérelmezett tevékenység engedélyezési eljárását az eljáró szervtől,
+
+d) az ügyfél tevékenysége tekintetében a FELIR-ben nem történik adatforgalom egy naptári éven belül, és a NÉBIH felszólítása ellenére az ügyfél nem nyilatkozik 30 napon belül tevékenysége aktív állapotával kapcsolatban.
+
+(2)[^1] A NÉBIH a FELIR azonosító felfüggesztését megszünteti, és az azonosítót hivatalból visszaállítja, ha az ügyfél
+
+a) a hatóság hozzájárulásával a tevékenység folytatására ismét jogosulttá válik, és ezt az eljáró szerv rögzíti a FELIR-ben,
+
+b) bejelenti szüneteltetett, megszüntetett tevékenysége újrakezdését, és azt az eljáró szerv rögzíti a FELIR-ben,
+
+c) új tevékenység megkezdését jelenti be, mely tevékenység végzése FELIR azonosító köteles, és azt az eljáró szerv rögzíti a FELIR-ben.
+
+(3)[^2] A NÉBIH a FELIR azonosító felfüggesztését megszünteti, és az azonosítót az ügyfél kérelmére visszaállítja, ha az ügyfél az (1) bekezdés d) pontja szerinti felfüggesztés esetén ezt kérelmezi, és nem áll fenn a FELIR azonosító felfüggesztésének az (1) bekezdés a)–c) pontjában meghatározott egyik esete sem.
+
+### 7. §
+
+(1) A NÉBIH a FELIR azonosítót visszavonja, ha bejelentés vagy közhiteles nyilvántartás adatai alapján megállapítja, hogy a FELIR azonosítóval rendelkező
+
+a) jogi személy megszűnt, vagy
+
+b) természetes személy elhalálozott.
+
+(2) A visszavont FELIR azonosító nem állítható vissza és nem adható ki más ügyfélnek.
+
+## 6. Záró rendelkezések
+
+### 8. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2021. április 1-jén lép hatályba.
+
+(2) A 2. § (5) bekezdés b) pontja 2022. január 1-jén lép hatályba.
+
+### 9. §
+
+Ha az eljáró szerv megállapítja, hogy az ügyfél szerepel a FELIR nyilvántartásban, de e rendelet hatálybalépését megelőzően számára nem került FELIR azonosító megállapításra, haladéktalanul gondoskodik annak kiadásáról, a 4. § (1) bekezdésében foglaltak szerint.
+
+### 10. §[^3]
+
+Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+## 1. melléklet az 578/2020. (XII. 14.) Korm. rendelethez
+
+**FELIR azonosító köteles tevékenységek**
+
+A következő tevékenységek kizárólag FELIR azonosító megléte esetén végezhetőek:
+
+1\. élelmiszer-termelési, tenyésztési, kísérleti célból tartott állatok forgalomba hozatala;
+
+2\. élelmiszer-, takarmánytermelési célból termesztett növény, növényi termék forgalomba hozatala;
+
+3\. a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény 11. § (1) bekezdése szerint adatszolgáltatási kötelezettség alá tartozó tevékenységek;
+
+4\. szaporítóanyag előállítása, tárolása, forgalomba hozatala;
+
+5\. az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában, valamint az élelmiszerláncról és hatósági felügyeletről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) végrehajtására kiadott jogszabályban meghatározott esetekben engedélyezett vagy nyilvántartott élelmiszer- vagy takarmánylétesítmény működtetése, élelmiszer- vagy takarmányvállalkozási tevékenység folytatása;
+
+6\. az Éltv. végrehajtására kiadott jogszabály szerint nyilvántartott vagy engedélyezett laboratórium működtetése;
+
+7\. élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak előállítása, első magyarországi forgalomba hozatala;
+
+8\. élelmiszerláncban felhasználható fertőtlenítőszer előállítása;
+
+9\. gombaszakellenőri tevékenység;
+
+10\. az Éltv. szerinti engedélyköteles termék, valamint EK-műtrágya előállítása vagy forgalomba hozatala;
+
+11\. állatgyógyászati készítmény, valamint állatgyógyászati készítménynek nem minősülő állatgyógyászati termék előállítása, forgalomba hozatala;
+
+12\. állati vérkészítmény előállítása;
+
+13\. az állatok jelölésére szolgáló eszköz forgalomba hozatala;
+
+14\. állati eredetű melléktermék kezelése, felhasználása, további feldolgozása, szállítása vagy az ezekből származó termék forgalomba hozatala;
+
+15\. élőállat-szállítás, élőállat-szállító járművek mosását és fertőtlenítését végző hely, az idegen állományból származó állatok fogadására kiválasztott elkülönítő (karantén), állatrakodó, gyűjtőállomás, kereskedői telep, etető-itató állomás, pihentetőállomás működtetése;
+
+16\. állatkísérő tevékenység;
+
+17\. állatvásár, állatpiac, állatkiállítási hely működtetése;
+
+18\. állatkert működtetése;
+
+19\. cirkuszi menazséria működtetése;
+
+20\. állatmenhely, ebrendészeti telep működtetése;
+
+21\. állatpanzió működtetése;
+
+22\. állatklinika, állatkórház, állatorvosi rendelő működtetése;
+
+23\. állatkozmetika működtetése;
+
+24\. kedvtelésből tartott állatok kereskedelmi tevékenység keretében történő forgalmazása;
+
+25\. állatkísérleti létesítmény működtetése;
+
+26\. veszélyes eb tartása;
+
+27\. állatorvosként, növényorvosként, segédszemélyzetként folytatott tevékenység;
+
+28\. növényvédelmi munkavégzőként folytatott tevékenység;
+
+29\. növényvédelmi szolgáltatási tevékenység;
+
+30\. növényvédő szer légi kijuttatása;
+
+31\. talajvédelmi szakértői tevékenység;
+
+32\. hígtrágya termőföldön történő felhasználása;
+
+33\. nem veszélyes hulladék termőföldön történő felhasználása;
+
+34\. szennyvíz, szennyvíziszap, szennyvíziszapkomposzt termőföldön történő felhasználása;
+
+35\. elismert tenyésztőszervezeti tevékenység;
+
+36\. művi szaporítólétesítmény, spermagyűjtő, spermatároló működtetése;
+
+37\. méhtartás, méhanyanevelő telep működtetése;
+
+38\. vágóállat-minősítés, minősítőhely működtetése, minősítőszervezeti tevékenység;
+
+39\. apróvad-gazdálkodás, vadaspark, vadaskert, vadfarm üzemeltetése;
+
+40\. vadászatra jogosultként folytatott tevékenység;
+
+41\. hivatásos vadászi tevékenység;
+
+42\. halgazdálkodási jog jogosultjaként folytatott tevékenység;
+
+43\. halászat, horgászat;
+
+44\. halőri tevékenység;
+
+45\. faanyag-kereskedelmi lánchoz tartozó tevékenység;
+
+46.[^4] a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok termeléséhez kapcsolódó gazdasági tevékenység.
+
+## 2. melléklet az 578/2020. (XII. 14.) Korm. rendelethez
+
+**A FELIR nyilvántartásba vételi eljáráshoz szükséges adatok**
+
+1\. Az ügyfél azonosítására szolgáló adatok
+
+1.1. természetes személy:
+
+1.1.1. természetes személyazonosító adatok,
+
+1.1.2. lakcím, egyéni vállalkozó esetén székhely,
+
+1.1.3. adóazonosító jel, őstermelő és egyéni vállalkozó esetén adószám,
+
+1.1.4. elektronikus levelezési cím,
+
+1.2. jogi személy:
+
+1.2.1. (cég) neve,
+
+1.2.2. amennyiben van, rövid neve,
+
+1.2.3. adóazonosító száma,
+
+1.2.4. székhelye,
+
+1.2.5. cégállapota.
+
+2\. A lakcím, székhely címét az alábbi bontásban kell bejelenteni:
+
+2.1. országnév, a település neve, postai irányítószám, valamint
+
+2.1.1. a közterület neve és jellege, házszám vagy
+
+2.1.2. a helyrajzi szám és a fekvés (belterület/külterület/zártkert),
+
+2.2. amennyiben rendelkezésre áll, az egyéb térinformatikai grafikus, numerikus és leíró adatok, címkoordináták.
+
+3\. Az ügyfél által végzett vagy végezni kívánt tevékenység, és amennyiben az adott tevékenység vonatkozásában értelmezhető, tevékenységenként a tevékenység végzésének helye.
+
+4\. A tevékenység végzésének helyét az alábbi bontásban kell bejelenteni:
+
+4.1. a település neve, postai irányítószám, valamint
+
+4.1.1. a közterület neve és jellege, házszám vagy
+
+4.1.2. a helyrajzi szám és a fekvés (belterület/külterület/zártkert) vagy
+
+4.1.3. MePAR azonosító,
+
+4.2. amennyiben rendelkezésre áll, az egyéb térinformatikai grafikus, numerikus és leíró adatok, címkoordináták.
+
+---
+
+[^1]: A 6. § (2) bekezdése az 596/2023. (XII. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^2]: A 6. § (3) bekezdését az 596/2023. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
+[^3]: A 10. §-t a 824/2021. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^4]: Az 1. melléklet 46. pontja a 824/2021. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.

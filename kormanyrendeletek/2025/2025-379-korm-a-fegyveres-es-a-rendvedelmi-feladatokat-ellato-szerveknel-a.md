@@ -1,0 +1,283 @@
+---
+title: "379/2025. (XII. 2.) Korm. rendelet a fegyveres és a rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálat elismerése céljából megállapított 2026. évi szolgálati juttatásról"
+identifier: "379/2025. (XII. 2.) Korm. rendelet"
+njt_id: "2025-379-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/379"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-12-02
+in_force_from: 2026-01-01
+last_amended: 2026-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-379-20-22"
+retrieved: 2026-10-12
+---
+
+# 379/2025. (XII. 2.) Korm. rendelet a fegyveres és a rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálat elismerése céljából megállapított 2026. évi szolgálati juttatásról
+
+[1] A hivatásos esküben vállalt kockázatvállalásra és többletkötelezettségekre tekintettel az inflációkövető béremelések mellett a Kormány célja, hogy a rendőrök, a katonák és az összes fegyveres testület tagjai a 2026. évben újra megkapják a fegyverpénzt.
+
+[2] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya
+
+a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálya alá tartozó hivatásos állomány tagjára és szerződéses határvadászra (a továbbiakban együtt: rendvédelmi állomány tagja),
+
+b) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény (a továbbiakban: Nszjtv.) hatálya alá tartozó, pénzügyőri munkakört betöltő pénzügyőri státuszú foglalkoztatottra, ideértve a nyugdíj előtti rendelkezési állományban lévő pénzügyőri státuszú foglalkoztatottat is, ha a nyugdíj előtti rendelkezési állományba helyezésére pénzügyőri munkakörből került sor (a továbbiakban együtt: pénzügyőr),
+
+c) a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Hjkr.) hatálya alá tartozó hivatásos és szerződéses állomány tagjára, ideértve a honvéd tisztjelöltet is (a továbbiakban együtt: katona),
+
+d) a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény (a továbbiakban: Pnbjt.) hatálya alá tartozó hivatásos állomány tagjára (a továbbiakban: nemzetbiztonsági állomány tagja), valamint
+
+e) a Hszt. szerinti rendvédelmi tisztjelöltre és az Nszjtv. szerinti pénzügyőr tisztjelöltre
+
+[az a)–e) pont szerinti személyek a továbbiakban együtt: hivatásos szolgálatot ellátó személy] terjed ki.
+
+### 2. §
+
+(1) E rendelet alkalmazásában hivatásos szolgálati jogviszony
+
+a) a Hszt. szerinti hivatásos szolgálati jogviszony,
+
+b) a Hszt. szerinti szerződéses határvadász jogviszony,
+
+c) a pénzügyőr Nszjtv. szerinti adó- és vámhatósági szolgálati jogviszonya,
+
+d) a katona Hjkr. szerinti szolgálati viszonya,
+
+e) a Pnbjt. szerinti nemzetbiztonsági szolgálati jogviszony,
+
+f) a Hszt. szerinti tisztjelölti szerződéses jogviszony,
+
+g) az Nszjtv. szerinti tisztjelölti szerződéses jogviszony.
+
+(2) A katona esetében
+
+a) a munkáltatói jogkör gyakorlóján a döntésre jogosult elöljárót,
+
+b) a munkáltatói intézkedésen a jognyilatkozatot
+
+kell érteni.
+
+## 2. A szolgálati juttatás és a szolgálati juttatásra jogosultak köre
+
+### 3. §
+
+(1) A hivatásos szolgálatot ellátó személyek Magyarország biztonsága érdekében végzett munkájuk elismeréseként – az e rendeletben meghatározottak szerint – egyszeri szolgálati juttatásban (a továbbiakban: szolgálati juttatás) részesülnek.
+
+(2) A szolgálati juttatás nem képezi részét a hivatásos szolgálatot ellátó személy illetményének, azonban a szolgálati juttatás elszámolására és kifizetésére – az e rendeletben meghatározott eltérésekkel – a hivatásos szolgálatot ellátó személy illetményének elszámolására és kifizetésére vonatkozó szabályokat kell alkalmazni.
+
+(3) A szolgálati juttatásra jogosultságról és annak összegéről a munkáltatói jogkör gyakorlója munkáltatói intézkedést ad ki.
+
+(4) A munkáltatói jogkör gyakorlója a (3) bekezdés szerinti munkáltatói intézkedésben az érintetteket a visszafizetési kötelezettség 4. alcímben foglalt szabályairól tájékoztatja.
+
+(5) A szolgálati juttatást az e rendeletben foglalt kivételekkel 2026. február 16. napjáig kell kifizetni.
+
+### 4. §
+
+A szolgálati juttatásra jogosult – az 5. § szerinti kivétellel –
+
+a) a 2025. december 31. napján hivatásos szolgálatot ellátó személy,
+
+b) az a személy, akinek 2025. január 1. napja és 2025. december 31. napja között
+
+ba) szolgálatellátása során vagy azzal összefüggésben szerzett sérülése miatt szűnt vagy szűnik meg a hivatásos szolgálati jogviszonya, vagy
+
+bb) szolgálati kötelmekkel összefüggésben bekövetkezett megbetegedése miatt szűnt vagy szűnik meg a hivatásos szolgálati jogviszonya,
+
+c) a 2025. december 31. napján nyugdíj előtti rendelkezési állományban lévő személy.
+
+### 5. §
+
+(1) Nem jogosult a szolgálati juttatásra
+
+a) az a hivatásos szolgálatot ellátó személy, aki 2025. december 31. napján lemondási idejét tölti,
+
+b) az a hivatásos szolgálatot ellátó személy, aki 2025. december 31. napján felmentési idejét tölti, ha
+
+ba) a felmentési idő megkezdését megelőző napon nem rendelkezett – az adott jogviszonyra érvényes számítás alapján – három év folyamatos hivatásos szolgálati jogviszonnyal, vagy
+
+bb) a felmentésére neki felróható okból került sor,
+
+c) az a hivatásos szolgálatot ellátó személy, akinek 2025. december 31. napján a hivatásos szolgálati jogviszonya szünetel,
+
+d) az a hivatásos szolgálatot ellátó személy, aki 2025. december 31. napján mérlegelési jogkörben engedélyezett illetmény nélküli szabadságát vagy mérlegelési jogkörben engedélyezett illetmény nélküli szolgálatmentességét tölti,
+
+e) az, aki 2025. december 31. napján a Hszt. 320. §-a szerinti szenior állományban teljesít szolgálatot,
+
+f) az a szerződéses állományú katona, aki egyoldalú szerződésbontása esetén 2025. december 31. napján a lemondási idejét tölti, valamint
+
+g) az a katona, aki 2025. december 31. napján a teljesítményértékelése miatt rendelkezési állományba tartozik.
+
+(2) E § alkalmazásában felróható okból következik be a felmentés, ha
+
+a) a katona nemzetbiztonsági szempontból alkalmatlanná válik,
+
+b) a rendvédelmi állomány tagjának felmentésére
+
+ba) alkalmatlanság vagy méltatlanság miatt kerül sor, ide nem értve az egészségi, illetve pszichológiai alkalmatlanság esetét, vagy
+
+bb) a szolgálati beosztás felajánlásának kötelezettsége esetén a részére felajánlott szolgálati beosztás el nem fogadása miatt kerül sor,
+
+c) a pénzügyőr felmentésére
+
+ca) alkalmatlanság, kifogásolható életvitel megállapítása vagy méltatlanság miatt kerül sor, ide nem értve az egészségi, illetve pszichológiai alkalmatlanság esetét, vagy
+
+cb) a munkakör felajánlásának kötelezettsége esetén a részére felajánlott munkakör el nem fogadása miatt kerül sor,
+
+d) a nemzetbiztonság állomány tagjának felmentésére
+
+da) azért kerül sor, mert a nemzetbiztonsági állomány tagja által betöltött szolgálati beosztásra meghatározott feladatokban olyan változás következik be, amelynek hatékony ellátására a nemzetbiztonsági állomány tagja iskolai végzettsége, szakképzettsége, szakképesítése, szakmai tapasztalata nem megfelelő, és a nemzetbiztonsági állomány tagja az adott iskolai végzettség, szakképzettség, szakképesítés oktatási intézmény által biztosított határidőn belüli megszerzését nem vállalta,
+
+db) érdemtelenség miatt került sor,
+
+dc) alkalmatlanság miatt került sor, ide nem értve az egészségi, illetve pszichológiai alkalmatlanság esetét, vagy
+
+dd) a szolgálati beosztás felajánlásának kötelezettsége esetén a részére felajánlott szolgálati beosztás el nem fogadása miatt kerül sor,
+
+e) a rendvédelmi tisztjelölt szerződésének felbontására a Hszt. 285/A. § (2) bekezdése alapján kerül sor, ide nem értve az egészségi, illetve pszichológiai alkalmatlanság esetét,
+
+f) a pénzügyőr tisztjelölt szerződésének felmondására az Nszjtv. 242. § (2) bekezdése alapján kerül sor, ide nem értve az egészségi, illetve pszichológiai alkalmatlanság esetét.
+
+### 6. §
+
+(1) Az a hivatásos szolgálatot ellátó személy,
+
+a) aki 2025. december 31. napján a próbaidejét tölti,
+
+b) aki 2025. december 31. napján fegyelmi büntetés, fenyítés, szolgálati beosztásból vagy pénzügyőr esetén állásából felfüggesztés hatálya alatt áll,
+
+c) akivel szemben 2025. december 31. napján büntetőeljárás – ide nem értve a magánvádas eljárást vagy azt a pótmagánvádas eljárást, amelyet munkáltatói intézkedéssel összefüggésben indítottak meg –, fegyelmi eljárás, méltatlansági vagy érdemtelenségi eljárás van folyamatban, annak jogerős befejezéséig,
+
+d) aki 2025. december 31. napján kifogástalan életvitel ellenőrzés alatt áll,
+
+[az a)–d) pont a továbbiakban együtt: korlátozó ok] jogosult a szolgálati juttatásra, de részére a szolgálati juttatás kifizetésére csak a korlátozó ok megszűnését követően – a (2)–(4) bekezdésben meghatározottak szerint – kerül sor.
+
+(2) Az (1) bekezdés a) pontja szerint próbaidőt töltő hivatásos szolgálatot ellátó személy esetében a szolgálati juttatást a próbaidő lejártát követően, abban az esetben kell kifizetni, ha a hivatásos szolgálati jogviszonya nem szűnt meg. Ebben az esetben a szolgálati juttatást a próbaidő lejártát követő hónapra járó illetménnyel együtt kell kifizetni, és a szolgálati juttatás alapját a 2025. december 31. napján érvényes illetményből, a 7. §-ban foglaltak alapján kell számítani.
+
+(3) Az (1) bekezdés b) és c) pontja esetén a szolgálati juttatást abban az esetben kell kifizetni, ha a büntetőeljárás – ide nem értve a magánvádas eljárást vagy azt a pótmagánvádas eljárást, amelyet munkáltatói intézkedéssel összefüggésben indítottak meg –, a fegyelmi eljárás, a méltatlansági eljárás vagy az érdemtelenségi eljárás nem a hivatásos szolgálatot ellátó személy hivatásos szolgálati jogviszonyának megszűnésével, illetve hivatalvesztéssel zárult, azzal, hogy a kifizetésre akkor kerülhet sor, ha a hivatásos szolgálatot ellátó személy nem áll fegyelmi büntetés vagy fenyítés hatálya alatt. Ebben az esetben a szolgálati juttatást a korlátozó ok megszűnését követő hónapra járó illetménnyel együtt kell kifizetni, és a szolgálati juttatás alapját a 2025. december 31. napján érvényes illetményből, a 7. §-ban foglaltak alapján kell számítani.
+
+(4) Az (1) bekezdés d) pontja esetén a szolgálati juttatást abban az esetben kell kifizetni, ha a hivatásos szolgálatot ellátó személy életvitele kifogástalan. Ebben az esetben a szolgálati juttatást az eljárás megszűnését követő hónapra járó illetménnyel együtt kell kifizetni, és a szolgálati juttatás alapját a 2025. december 31. napján érvényes illetményből, a 7. §-ban foglaltak alapján kell számítani.
+
+## 3. A szolgálati juttatás számításának alapja és mértéke
+
+### 7. §
+
+A szolgálati juttatás alapja – az ezen alcím szerinti kivétellel –
+
+a) a rendvédelmi állomány tagja és a pénzügyőr vonatkozásában a részére megállapított illetményből számított távolléti díj egyhavi összege,
+
+b) a Hjkr. hatálya alá tartozó hivatásos és szerződéses állomány vonatkozásában az alapilletmény, az egészségügyi beosztású katonák szolgálati viszonyával kapcsolatos sajátos szabályokról szóló 18/2024. (IX. 2.) HM rendelet 5. §-a szerinti illetmény vagy a Hjkr. 24. § (4) bekezdése szerinti, a miniszter által megállapított illetmény egyhavi összege,
+
+c) a nemzetbiztonság állomány tagja vonatkozásában a részére megállapított illetmény egyhavi összege,
+
+d) a rendvédelmi tisztjelölt, a pénzügyőr tisztjelölt és a honvéd tisztjelölt vonatkozásában az egyhavi illetmény összege,
+
+amely a hivatásos szolgálatot ellátó személyt 2025. december 31. napján megilleti.
+
+### 8. §
+
+(1) A nyugdíj előtti rendelkezési állományban lévő hivatásos szolgálatot ellátó személy esetében a 7. §-t azzal az eltéréssel kell alkalmazni, hogy a szolgálati juttatás alapja a nyugdíj előtti rendelkezési állományban, 2025. december 31. napján járó illetmény összege.
+
+(2) A nem mérlegelési jogkörben megállapított illetmény nélküli szabadságot vagy illetmény nélküli szolgálatmentességet igénybe vevő hivatásos szolgálatot ellátó személy esetében a 7. §-t azzal az eltéréssel kell alkalmazni, hogy a szolgálati juttatás alapját az illetmény nélküli szabadságon vagy illetmény nélküli szolgálatmentességen tartózkodó utolsó rendelkezésre álló, megállapított illetményének alapulvételével kell kiszámítani.
+
+(3) A katona vezénylése esetén – ideértve a más szervhez vezénylést is – a 7. §-t azzal az eltéréssel kell alkalmazni, hogy a szolgálati juttatás alapja a Hjkr.-ben meghatározott besorolásnak megfelelően nyilvántartott alapilletmény. A más szervhez vezényelt katona esetében nem lehet figyelembe venni a más szerv foglalkoztatottjaira vonatkozó illetményszabályokat, egyedi illetménymegállapítást, valamint a javadalmazásra vonatkozó egyéb rendelkezéseket.
+
+(4) A 7. §-tól eltérően – a (6) bekezdésben foglalt kivétellel – a Hszt. 37. alcíme alapján munkakör vagy meghatározott feladat ellátására a rendvédelmi állomány más szervhez vezényelt tagja esetében a szolgálati juttatás alapja a szolgálati idő figyelembevételével
+
+a) tiszti besorolás esetén a Hszt. 6. mellékletében foglalt táblázat szerinti „E” besorolási kategória és 520%-os mértékű hivatásos pótlék vagy
+
+b) tiszthelyettesi besorolás esetén a Hszt. 5. mellékletében foglalt táblázat szerinti „D” besorolási kategória és 570%-os mértékű hivatásos pótlék
+
+és a részére megállapított címpótlék, szolgálatiidő-pótlék, idegennyelv-tudási pótlék és kiegészítő juttatás együttes összegével kalkulált illetmény.
+
+(5) A 4. § b) pontja szerinti esetben a juttatás alapja,
+
+a) ha a hivatásos szolgálati jogviszony 2025. december 31. napját megelőzően szűnt meg, a jogosultat a hivatásos szolgálati jogviszony megszűnését megelőző napon,
+
+b) ha a hivatásos szolgálati jogviszony 2025. december 31. napján vagy ezt követően szűnt meg, a jogosultat 2025. december 31. napján
+
+megillető illetményből a 7. § figyelembevételével számított összeg.
+
+(6) A 7. §-tól és a (4) bekezdésben foglaltaktól eltérően, ha a hivatásos szolgálatot ellátó személy vezénylésére a rendvédelmi szerv és polgári nemzetbiztonsági szolgálat vagy polgári nemzetbiztonsági szolgálat és másik polgári nemzetbiztonsági szolgálat között került sor, akkor a szolgálati juttatás alapja a vezényelt részére a fogadó szervnél megállapított illetmény.
+
+(7) A 7. §-tól eltérően a Pnbjt. 36. § (2) bekezdés f)–h) pontja szerinti vezényeltek esetében – ide nem értve a (6) bekezdésben meghatározott vezényelteket – a szolgálati juttatás alapja
+
+a) a nemzetbiztonsági állomány tagja részére a Pnbjt. alapján megállapított illetmény,
+
+b) – ha az a) pont szerinti illetmény megállapítására nem került sor – a nemzetbiztonsági állomány tagja részére 2025. március 1-jét megelőzően a Hszt. szerint megállapított személyi illetmény vagy
+
+c) – ha az a) és b) pont szerinti illetmény megállapítására nem került sor –
+
+ca) tiszt, főtiszt vagy tábornok esetében az I. besorolási osztály C besorolási kategóriába tartozó nemzetbiztonsági állomány átlagilletménye,
+
+cb) altiszt vagy zászlós esetében a II. besorolási osztály zászlósi rendfokozati állománycsoportba sorolt besorolási kategóriába tartozó nemzetbiztonsági állomány átlagilletménye.
+
+(8) A 7. §-tól eltérően az Nszjtv.
+
+a) 54–58. §-a szerinti vezényeltek esetében a szolgálati juttatás alapja a pénzügyőr részére a vezénylés helye szerint megállapított illetmény,
+
+b) 60–62. §-a alapján vezényeltek esetében a szolgálati juttatás alapja
+
+ba) az Nszjtv. alapján megállapított alapilletmény, időpótlék és munkaköri pótlék összege, ha az illetményt a Nemzeti Adó- és Vámhivatal folyósítja,
+
+bb) a vezénylést közvetlenül megelőző napon hatályos illetmény, ha a vezénylés tartamára a Nemzeti Adó- és Vámhivatal illetményt nem folyósít.
+
+### 9. §
+
+(1) A szolgálati juttatás mértéke a 7. és 8. § szerint számított összeg hatszorosa.
+
+(2) A vezényelt hivatásos szolgálatot ellátó személy esetében a szolgálati juttatást – a (3) és (4) bekezdésben foglalt kivétellel – a vezénylő szerv fizeti.
+
+(3) A 8. § (6) bekezdése szerinti vezényelt hivatásos szolgálatot ellátó személy esetében a szolgálati juttatást a fogadó szerv fizeti.
+
+(4) A 8. § (8) bekezdés a) pontja szerinti, más szervhez vezénylés esetében a polgári nemzetbiztonsági szolgálathoz vezényelt részére a szolgálati juttatást a fogadó szerv fizeti.
+
+## 4. A visszatérítési kötelezettség
+
+### 10. §
+
+(1) A szolgálati juttatás teljes összegének visszatérítésére köteles – a (2)–(4) bekezdés szerinti kivétellel – az a hivatásos szolgálatot ellátó személy, aki 2025. december 31. napján nem rendelkezett három év folyamatos hivatásos szolgálati jogviszonnyal, és hivatásos szolgálati jogviszonya a létesítéstől számított három év folyamatos hivatásos szolgálati jogviszony elérését megelőzően megszűnik.
+
+(2) Az (1) bekezdéstől eltérően időarányos visszatérítési kötelezettség terheli azt a hivatásos szolgálatot ellátó személyt, aki 2025. december 31. napján nem rendelkezett három év folyamatos hivatásos szolgálati jogviszonnyal, és hivatásos szolgálati jogviszonya a három év folyamatos szolgálati jogviszony elérését megelőzően
+
+a) azonnali hatályú lemondással vagy
+
+b) fizikai alkalmatlanság megállapítása miatt
+
+szűnik meg.
+
+(3) Az (1) bekezdéstől eltérően időarányos visszatérítési kötelezettség terheli azt a pénzügyőrt, aki 2025. december 31. napján nem rendelkezett három év folyamatos hivatásos szolgálati jogviszonnyal, és a három év folyamatos hivatásos szolgálati jogviszony elérését megelőzően, kérelmére, tisztviselői munkakörbe kerül kinevezésre.
+
+(4) Az (1)–(3) bekezdéstől eltérően mentesül a visszatérítési kötelezettség alól az a hivatásos szolgálatot ellátó személy, aki 2025. december 31. napján nem rendelkezett három év folyamatos hivatásos szolgálati jogviszonnyal, és a hivatásos szolgálati jogviszonya a három év folyamatos hivatásos szolgálati jogviszony megszerzését megelőzően
+
+a) a hivatásos szolgálatot ellátó személy halálával szűnik meg,
+
+b) egészségügyi, pszichológiai vagy pszichikai alkalmatlanság megállapítása miatt felmentéssel szűnik meg,
+
+c) úgy szűnik meg, hogy szolgálati beosztás vagy – pénzügyőr esetén – munkakör felajánlásának kötelezettsége esetén részére a jogszabályban szereplő előírásoknak megfelelő szolgálati beosztás vagy – pénzügyőr esetén – munkakör felajánlására nincs lehetőség, és ezen okból őt felmentik,
+
+d) úgy szűnik meg, hogy a hivatásos szolgálatot ellátó személy hivatásos szolgálati jogviszonya, folytatólagosan időbeli megszakítás nélkül jogszabály alapján kormányzati szolgálati jogviszonnyá, közszolgálati jogviszonnyá, közalkalmazotti jogviszonnyá, rendvédelmi igazgatási alkalmazotti jogviszonnyá, honvédelmi alkalmazotti jogviszonnyá, nemzetbiztonsági alkalmazotti jogviszonnyá, igazságügyi alkalmazotti jogviszonnyá vagy politikai szolgálati jogviszonnyá alakul át vagy ilyen jogviszonyba történő áthelyezésére kerül sor,
+
+e) az Nszjtv., a Hszt., a Hjkr. vagy a Pnbjt. szerinti egészségkárosodási ellátásra való jogosultságra figyelemmel szűnik meg, vagy
+
+f) azért szűnik meg, mert a Hszt. 79/A. §-a szerinti hatósági vezénylés időtartamának lejárta előtt megszüntetésre kerülő hatósági vezénylésre figyelemmel a Hszt. 79/A. § (15) bekezdése szerinti szolgálati beosztás felajánlására nincs lehetőség.
+
+(5) A szolgálati juttatásra való jogosultság szempontjából
+
+a) a hivatásos szolgálatot ellátó személy hivatásos szolgálati jogviszonyát folyamatosnak kell tekinteni, ha a jogosultsági idő alatt a Hszt., a Hjkr., az Nszjtv. vagy a Pnbjt. hatálya alá tartozó hivatásos szolgálati jogviszonyok közötti áthelyezésre kerül sor,
+
+b) a nemzetbiztonsági állomány tagja esetén a három év folyamatos hivatásos szolgálati jogviszony fennállását úgy kell megállapítani, hogy a 2025. március 1-jét megelőzően fennálló, a Hszt. szerinti hivatásos szolgálati jogviszonyt is figyelembe kell venni, valamint
+
+c) a rendvédelmi tisztjelölt és a pénzügyőr tisztjelölt hivatásos szolgálati jogviszonyát folyamatosnak kell tekinteni, ha a tisztjelölti szerződéses jogviszony a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel, a Hszt. 285/B. § (1) bekezdése alapján vagy az Nszjtv. 242/A. § (1) bekezdése alapján szűnik meg.
+
+## 5. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2026. január 1-jén lép hatályba.

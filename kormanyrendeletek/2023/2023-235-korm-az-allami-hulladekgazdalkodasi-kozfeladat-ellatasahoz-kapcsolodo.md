@@ -1,0 +1,83 @@
+---
+title: "235/2023. (VI. 16.) Korm. rendelet az állami hulladékgazdálkodási közfeladat ellátásához kapcsolódó tevékenységek számviteli szétválasztására vonatkozó részletes szabályokról"
+identifier: "235/2023. (VI. 16.) Korm. rendelet"
+njt_id: "2023-235-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/235"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-06-16
+in_force_from: 2023-07-01
+last_amended: 2023-07-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-235-20-22"
+retrieved: 2026-10-12
+---
+
+# 235/2023. (VI. 16.) Korm. rendelet az állami hulladékgazdálkodási közfeladat ellátásához kapcsolódó tevékenységek számviteli szétválasztására vonatkozó részletes szabályokról
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 24. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 50. § (1) bekezdése szerinti kötelezett (a továbbiakban: kötelezett) a tevékenységek számviteli szétválasztása során a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti alapelvek alkalmazása mellett az alábbi követelmények figyelembevételével jár el:
+
+a) *egységesség elve:* a számviteli szétválasztás során alkalmazott szabályrendszer megváltoztatásáról a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: Hivatal) a kötelezett tájékoztatja, valamint a szabályrendszer megváltoztatását a kötelezett számviteli szétválasztási szabályzatában rögzíti, és az éves beszámoló kiegészítő mellékletében bemutatja;
+
+b) *teljes körű tevékenységhez rendelés elve:* a tevékenységek számviteli szétválasztása során – közvetlen hozzárendelés vagy más felosztási módszer alapján – minden eszköz, forrás, bevétel, költség és ráfordítás felosztásra kerül a tevékenységek között, a felosztás után nem marad tevékenységre fel nem osztott tétel.
+
+## 2. §
+
+(1) Az eszközöket, forrásokat, bevételeket, költségeket és ráfordításokat elsődlegesen közvetlenül kell felosztani. Ha az eszközök, források, bevételek, költségek és ráfordítások az egyes tevékenységekhez nem rendelhetők hozzá közvetlenül, akkor a kötelezett a számviteli szétválasztási szabályzatában meghatározott módszerek és vetítési alapok alapján végzi el a felosztást. Az eszközökhöz és forrásokhoz kapcsolódó bevételek, költségek és ráfordítások egymással összhangban kerülnek a tevékenységek között felosztásra.
+
+(2) A koncessziós társaság a Ht. 50. § (2) bekezdése szerinti számviteli szétválasztási szabályzatában meghatározott módon, vetítési alapok alkalmazásával osztja fel az eszközeit, a forrásait, a bevételeit, a költségeit és a ráfordításait a Ht. 50. § (3) bekezdés a) pontja szerinti tevékenységek között.
+
+(3) A koncesszori alvállalkozó a szétválasztást a Ht. 50. § (2) bekezdése szerinti számviteli szétválasztási szabályzatában meghatározott módon, az eszközeit, a forrásait, a bevételeit, a költségeit és a ráfordításait azok felmerülésének elsődleges helye szerinti bontásban, a Ht. 50. § (3) bekezdés a) pontja szerinti tevékenységek között felosztva készíti el.
+
+(4) A B3 alkategóriájú hulladéklerakó, valamint a Ht. 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője a Ht. 50. § (3) bekezdés b) pontjában meghatározott tevékenysége szerinti felosztást az eszközök, a források, a bevételek, a költségek és a ráfordítások felmerülésének elsődleges helye szerinti bontásban készíti el.
+
+## 3. §
+
+(1) A számviteli szétválasztási kötelezettséggel érintett eszközöket, forrásokat, bevételeket, költségeket és ráfordításokat tevékenységenként úgy kell nyilvántartani, hogy az egyes tevékenységeken belül a kötelezett az egyes termékeknek és e termékekből származó hulladéknak az átvételére, gyűjtésére, elszállítására, előkezelésére, kereskedelmére és kezelésre történő átadására – ideértve az ezek által érintett hulladékgazdálkodási létesítmények fenntartását és üzemeltetését – vonatkozó elkülönített adatokat tudjon szolgáltatni a Hivatal részére.
+
+(2) A tevékenységek számviteli szétválasztása során alkalmazott, az adott tevékenységgel érintett eszközök, források, bevételek, költségek és ráfordítások körét meghatározó módszereket és vetítési alapokat a kötelezett a számviteli szétválasztási szabályzatában rögzíti.
+
+(3) A számviteli szétválasztási szabályzat tartalmazza
+
+a) a közvetlenül az adott tevékenységhez hozzárendelhető és
+
+b) a közvetlenül az adott tevékenységhez hozzá nem rendelhető, de vetítési alapok alapján egyértelműen felosztható,
+
+a számviteli szétválasztási kötelezettséggel érintett tevékenység érdekében felmerülő eszközök, források, bevételek, költségek és ráfordítások körét, továbbá az alkalmazandó felosztási szabályokat.
+
+(4) Az éves beszámoló kiegészítő mellékletében a számviteli szétválasztási szabályzat vonatkozó előírásaira hivatkozni kell.
+
+(5) A kötelezett tárgyévi beszámolójának kiegészítő melléklete a hulladékgazdálkodási feladatok ellátásához kapcsolódó tevékenységek beszámolási időszak alatti megszűnése esetén is tartalmazza az egyes tevékenységekhez kapcsolódóan elkészített mérlegeket és eredménykimutatásokat.
+
+(6) A kötelezett a tevékenységi beszámolót az Szt. 1. számú mellékletében meghatározott „A” változatú mérleg és az Szt. 2. számú mellékletében szereplő, összköltségeljárással készített eredménykimutatás szerinti tagolásban készíti el, amely tartalmazza a mérleg és az eredménykimutatás értelmezéséhez szükséges kiegészítéseket is.
+
+(7) A számviteli szétválasztási szabályzatnak a Ht. 50. §-ában és az e rendeletben foglaltaknak megfelelőségét a Hivatal ellenőrizheti.
+
+## 4. §
+
+(1) A kötelezett az éves beszámoló Szt. szerinti könyvvizsgálatát az e rendeletben meghatározott eltéréseknek megfelelően végezteti el.
+
+(2) A kötelezett könyvvizsgálója az éves beszámolóra vonatkozó könyvvizsgálói jelentésében
+
+a) nyilatkozik arról, hogy
+
+aa) a kötelezett által kidolgozott és alkalmazott számviteli szétválasztási szabályok a jogszabályi előírásoknak megfelelnek, és
+
+ab) az alkalmazott számviteli szétválasztási szabályok és az egyes tevékenységek közötti tranzakciók árazása biztosítja a hulladékgazdálkodási feladatok ellátásához kapcsolódó tevékenységek és a kötelezett további tevékenységei közötti keresztfinanszírozás-mentességet, továbbá
+
+b) külön véleményt fogalmaz meg arról, hogy az éves beszámoló kiegészítő mellékletében bemutatott, tevékenységenként szétválasztott mérlegeket és eredménykimutatásokat az Szt. előírásaival, valamint a kötelezett számviteli szétválasztási szabályzatában foglaltakkal összhangban állították-e össze.
+
+## 5. §
+
+Ez a rendelet 2023. július 1-jén lép hatályba.
+
+## 6. §
+
+(1) E rendelet szabályait a beszámolási és könyvvezetési kötelezettségre, a beszámoló összeállítására, a könyvek vezetésére vonatkozóan 2023. július 1. napjától kell alkalmazni.
+
+(2) A 2023. július 1. napjától 2023. december 31. napjáig terjedő időszakra vonatkozó tevékenységi beszámolóban előző évre vonatkozóan nyitó adatokat nem kell szerepeltetni.

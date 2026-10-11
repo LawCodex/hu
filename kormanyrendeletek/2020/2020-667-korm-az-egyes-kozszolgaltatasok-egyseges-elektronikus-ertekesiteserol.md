@@ -1,0 +1,467 @@
+---
+title: "667/2020. (XII. 28.) Korm. rendelet az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló törvény végrehajtásáról"
+identifier: "667/2020. (XII. 28.) Korm. rendelet"
+njt_id: "2020-667-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/667"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-28
+in_force_from: 2021-01-01
+last_amended: 2021-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-667-20-22"
+retrieved: 2026-10-12
+---
+
+# 667/2020. (XII. 28.) Korm. rendelet az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló törvény végrehajtásáról
+
+A Kormány az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló 2020. évi CXLV. törvény 7. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. Értelmező rendelkezések
+
+#### 1. §
+
+E rendelet alkalmazásában:
+
+a) *elektronikus közúti közlekedési célú szolgáltatás:* a használati díj, valamint az útdíj ellenében viszonylati jeggyel igénybe vehető, egységes rendszeren keresztül elérhető, közúti közlekedési célú szolgáltatás,
+
+b) *elektronikus parkolási szolgáltatás:* a közúti közlekedésről szóló törvény szerinti, az egységes rendszeren keresztül elérhető várakozási (parkolási) közszolgáltatás,
+
+c) *elektronikus személyszállítási szolgáltatás:* az állam vagy a helyi önkormányzat többségi befolyása alatt álló szolgáltató által, közszolgáltatásként nyújtott, az egységes rendszeren keresztül elérhető személyszállítási szolgáltatás,
+
+d) *szolgáltatói jutalék:* a szolgáltató által a működtető részére a termék egységes rendszeren keresztül történő értékesítéséért és a támogatási szolgáltatásokért fizetendő ellenérték,
+
+e) *szolgáltatói szerződés:* a szolgáltató és a működtető között létrejött szerződés, amely alapján a működtető megvásárolja a terméket a szolgáltatótól,
+
+f) *szolgáltatói üzletszabályzat:* a működtető szolgáltatókra vonatkozó általános szerződési feltételei,
+
+g) *ügyfélrendelkezés:* a végfelhasználó által a termék megvásárlására, a viszonteladón keresztül tett jognyilatkozat,
+
+h) *viszonteladói jutalék:* a működtető által a viszonteladó részére a továbbértékesítésért fizetett díj,
+
+i) *viszonteladói szerződés:* a viszonteladó és a működtető között létrejött szerződés, amely alapján a viszonteladó a terméket egységes rendszeren keresztül megvásárolja és a végfelhasználók részére elektronikus úton továbbértékesíti,
+
+j) *viszonteladói üzletszabályzat:* a működtető viszonteladókra vonatkozó általános szerződési feltételei.
+
+### 2. A működtetőre és az egységes rendszerre vonatkozó általános rendelkezések
+
+#### 2. §
+
+(1) A működtető koncessziós pályázat alapján kiválasztott személy, amely az egyes közszolgáltatások egységes elektronikus értékesítéséről szóló törvényben (a továbbiakban: Törvény) meghatározottak szerint az egységes rendszert működteti.
+
+(2) A működtető a szolgáltatótól megvásárolja a terméket és továbbértékesíti a viszonteladónak, a viszonteladó pedig a végfelhasználónak.
+
+(3) A működtető a viszonteladókon keresztül valamennyi végfelhasználó számára biztosítja Magyarország egész területén a termékek megvásárlásának lehetőségét.
+
+#### 3. §
+
+(1) A működtető a szolgáltatókkal és a viszonteladókkal szerződést köt, mely egyedi szerződésből és üzletszabályzatból áll.
+
+(2) A működtető az üzletszabályzatokat
+
+a) az ügyfélszolgálatán és honlapjának nyitóoldalán könnyen elérhető módon, keresésre alkalmas formában elektronikus úton tárolható, megjeleníthető, valamint nyomtatható formában, előzetes regisztrációt nem igénylő módon, ingyenesen közzéteszi, és
+
+b) kérésre tartós adathordozón vagy elektronikus levélben térítésmentesen, valamint – az előállítás tényleges költségeit meg nem haladó költségtérítés ellenében – nyomtatott formában rendelkezésre bocsátja.
+
+#### 4. §
+
+A működtető biztosítja, hogy a vele szerződéses jogviszonyban álló személy a forgalmazási és számlázási adatok törléséig díjmentesen megismerhesse a fizetendő díjak és költségek számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
+
+#### 5. §
+
+A végfelhasználó a viszonteladón keresztül az üzletszabályzatban meghatározott módon kezdeményezi a termék megvásárlását.
+
+#### 6. §
+
+(1) A működtető a viszonteladón keresztül beérkezett ügyfélrendelkezés formai vizsgálatát haladéktalanul elvégzi, és ha az a Törvényben, e rendeletben és az üzletszabályzatában meghatározott feltételeknek
+
+a) nem felel meg, a szabályszerű ügyfélrendelkezés követelményeire való hivatkozást tartalmazó hibaüzenetet küld a viszonteladónak, vagy
+
+b) megfelel, az ügyfélrendelkezésnek megfelelően jár el.
+
+(2) Az (1) bekezdés *b)* pontja szerinti esetben a működtető az ügyfélrendelkezés teljesítéséről vagy annak sikertelenségéről haladéktalanul visszaigazolást küld a viszonteladónak. Ha az adott termék igénybevételéhez egyedi azonosítóra van szükség, azt a működtető igényli meg a szolgáltatótól, és a visszaigazolásban közli a viszonteladón keresztül a végfelhasználóval.
+
+(3) Ha az ügyfélrendelkezés sikerességét a működtető nem igazolja vissza, a termék vásárlása sikertelen, a szolgáltató, a viszonteladó, valamint a működtető jutalékra, díjra nem jogosult.
+
+#### 7. §
+
+(1) A rendszer rendelkezésre állásának mértéke a koncessziós szerződésben kerül meghatározásra azzal, hogy az egységes rendszernek a szolgáltató felé legalább az e §-ban meghatározott szinten rendelkezésre kell állnia.
+
+(2) A terméknek a végfelhasználók számára az egységes rendszeren keresztül havi szinten legalább 98,5%-ban elérhetőnek kell lennie. A termék akkor minősül elérhetőnek, ha az egységes rendszer a viszonteladói csatornán képes az adott termékre vonatkozó ügyfélrendelkezések fogadására és feldolgozására.
+
+(3) Az egységes rendszernek az ellenőrzések informatikai támogatásához havi szinten legalább 98,5%-ban elérhetőnek kell lennie.
+
+(4) Az egységes rendszer rendelkezésre állása akkor állapítható meg, ha a (2) és (3) bekezdésben rögzített szinteket a rendszer teljesíti. Ha a teljesítés a (2) és (3) bekezdésben rögzített elvárt szint alatt marad, a működtető és a szolgáltató írásban egyeztetik a rendelkezésre nem állás okát.
+
+(5) Ha a rendelkezésre állás nem teljesítése a működtető érdekkörén kívül következik be, a működtetőt felelősség nem terheli. A működtető érdekkörén kívül eső oknak minősül a szolgáltatási szintek nem teljesítése, ha az a közreműködő elektronikus hírközlési szolgáltató szolgáltatási paraméterei, vagy az elektronikus hírközlési szolgáltatás rendelkezésre állásának a hiánya miatt következett be. Minden más esetben a működtető és a szolgáltató egyeztetni kötelesek a rendelkezésre nem állás okát, és vita esetén kötelesek eltérő álláspontjukat jegyzőkönyvben rögzíteni.
+
+(6) A működtető köteles a szolgáltatásminőségi követelményeknek megfelelő minőségű, folyamatos szolgáltatás nyújtásához szükséges eszközállomány és tartalékeszközök rendelkezésre állásáról gondoskodni. A működtető a szolgáltatások ellátásához szükséges eszközök, valamint a szolgáltatások nyújtásához szükséges szoftverlicenc jogok biztosításáról saját költségen gondoskodik.
+
+(7) A működtető jogosult a rendeltetésszerű működtetéshez külön jóváhagyás kérése nélkül karbantartást végezni.
+
+(8) A szolgáltatók és a viszonteladók rendszerelérését zavaró leállások vagy egyéb munkálatok időpontját a működtető köteles úgy meghatározni, hogy az összességében minél kisebb fennakadást okozzon az egységes rendszer szolgáltatásaiban. A működtető a leállásokról vagy egyéb munkálatokról az érintett szolgáltatókat és viszonteladókat a leállás előtt legalább 3 munkanappal értesíti, amelyek indokolt esetben a leállás előtt 1 munkanappal kifogásolhatják a működtető által meghatározott időpontot.
+
+(9) A működtető a szolgáltatás műszaki feltételeinek olyan módosításáról, amely a szolgáltatók vagy viszonteladók részéről további intézkedéseket igényelnek köteles olyan észszerű időben előre értesíteni az érintett szolgáltatókat és viszonteladókat, hogy azok a módosításra felkészülhessenek, így különösen a módosítás kapcsán szükséges fejlesztési feladatokat és egyéb intézkedéseket a módosítás üzembe állítását megelőzően végrehajthassák.
+
+#### 8. §
+
+(1) A végfelhasználó kérheti az őt megillető mentességre vagy kedvezményre vonatkozó adatainak rögzítését a működtető nyilvántartásában.
+
+(2) A végfelhasználó mentességre vagy kedvezményre való jogosultságára vonatkozó adatokat a működtető akkor veheti nyilvántartásba, ha a végfelhasználó
+
+a) az annak a jogcímét megalapozó iratot a szolgáltató ügyfélszolgálatán vagy a működtető által biztosított elektronikus ügyintézési felületen keresztül elektronikus ügyintézés keretében bemutatja,
+
+b) az *a)* pont szerinti irat hiteles másolatát a szolgáltatón keresztül a működtető számára eljuttatja, vagy
+
+c) a kedvezményre való jogosultság ellenőrzéséhez szükséges adatokat a szolgáltatón keresztül a működtető rendelkezésére bocsátja.
+
+(3) A végfelhasználó írásbeli nyilatkozatban vállalja, hogy a (2) bekezdés szerinti mentességre vagy kedvezményre vonatkozó adataiban bekövetkezett változásokat 8 napon belül írásban vagy a viszonteladó ügyfélszolgálatán keresztül személyesen bejelenti a működtetőnek.
+
+## II. Fejezet — A SZOLGÁLTATÓI SZERZŐDÉS
+
+### 3. A szolgáltatói jogviszony
+
+#### 9. §
+
+(1) A szolgáltató a terméket kizárólag az egységes rendszeren keresztül jogosult elektronikusan értékesíteni.
+
+(2) Kormányrendelet eltérő rendelkezése hiányában a végfelhasználó által a termék díjaként fizetendő díj megegyezik azzal a díjjal, amelyet a végfelhasználó akkor fizetne, ha az adott terméket nem az egységes rendszeren keresztül vásárolná meg. A szolgáltató a szolgáltatás egységes rendszeren keresztül történő megvásárlását üzletpolitikai kedvezménnyel ösztönözheti.
+
+(3) A szolgáltató a szolgáltatói szerződés alapján, a szolgáltatói jutalék ellenében jogosult az egységes rendszer szolgáltatásainak igénybevételére.
+
+#### 10. §
+
+(1) A szolgáltatói szerződés megkötését a működtető köteles kezdeményezni a szolgáltatónál, ennek keretében a szolgáltatói szerződés megkötéséhez szükséges információk közlésére hívhatja fel a szolgáltatót, a teljesítéshez szükséges észszerű határidő megállapításával.
+
+(2) Az (1) bekezdés szerinti információk szolgáltatását követő 30 napon belül a működtető szolgáltatás-bevezetési javaslatot tesz a szolgáltató részére, amelyben meghatározza
+
+a) a termék egységes rendszeren keresztül történő értékesítésének első napját,
+
+b) az egységes rendszerhez való csatlakozás műszaki feltételeit, valamint
+
+c) az ügyfelek tájékoztatásával kapcsolatos teendőket a termék bevezetésével összefüggésben.
+
+(3) A szolgáltató a szolgáltatás-bevezetési javaslat kézhezvételétől számított 15 napon belül írásban észrevételt tehet. A szolgáltatói szerződés a szolgáltatás-bevezetési javaslat szolgáltató általi elfogadását követően írásban jön létre.
+
+(4) A szolgáltatói szerződés megkötésével és a továbbértékesítés kiépítésével kapcsolatos költségeket a szolgáltató, illetve a működtető maga viseli azzal, hogy a működtető által létrehozott értékesítési és ellenőrzési interfészek szolgáltató oldali implementálásának költségei a szolgáltatót terhelik.
+
+(5) A működtető biztosítja és elérhetővé teszi a szolgáltatók számára az egységes rendszerhez történő kapcsolódást biztosító interfészek leírását.
+
+#### 11. §
+
+(1) A működtető a szolgáltató felé a 7. § szerint biztosítja az egységes rendszer rendelkezésre állását. Ha az egységes rendszer egy naptári hónapban nem teljesíti az e rendeletben, illetve a koncessziós szerződésben meghatározott rendelkezésre állási szintet, a működtető kötbér fizetésére köteles a szolgáltató részére.
+
+(2) A kötbér mértéke a koncessziós szerződésben kerül meghatározásra, de az legalább a (3) bekezdés szerinti kötbéralap
+
+a) 10%-a, ha az egységes rendszer rendelkezésre állása nem éri el a 7. § (2) vagy (3) bekezdésében rögzített szolgáltatási szintet, de a 97%-os szintet meghaladja,
+
+b) 15%-a, ha az egységes rendszer rendelkezésre állása legfeljebb 97%, de a 95%-os szintet meghaladja, vagy
+
+c) 20%-a, ha az egységes rendszer rendelkezésre állása 95%-os vagy az alatti.
+
+(3) A kötbér alapja a tárgyidőszakot megelőző 6 hónap, vagy ha a szolgáltatói szerződés hatálybalépése miatt a szolgáltatás tényleges nyújtása ennél rövidebb, a szolgáltatás nyújtásának idejére a működtető részére járó havi nettó jutalék összeg átlaga.
+
+(4) A kötbér a tárgyhavi elszámolást követő elszámoláskor esedékes.
+
+#### 12. §
+
+(1) A szolgáltatói szerződés egyedi szolgáltatói szerződésből és szolgáltatói üzletszabályzatból áll.
+
+(2) Az egyedi szolgáltatói szerződésben rögzíteni kell
+
+a) a működtető és a szolgáltató cégnevét és székhelyét, a szerződéskötés szempontjából lényeges adatokat,
+
+b) a terméket és annak ellenértékét,
+
+c) az üzletszabályzat elérhetőségét, valamint
+
+d) a szolgáltatás nyújtásának kezdő időpontját.
+
+(3) A szolgáltatói szerződésben a működtető és a szolgáltató közös megegyezéssel eltérhetnek az e rendeletben meghatározott feltételektől, ha az a működtető által nyújtott szolgáltatást nem veszélyezteti, és nem eredményez a szolgáltatók közötti indokolatlan vagy aránytalan mértékű különbségtételt.
+
+#### 13. §
+
+A szolgáltatói üzletszabályzat a Törvénnyel és e rendelettel összhangban – közérthetően, ellentmondásmentesen és áttekinthetően, az adott szolgáltatásra értelmezhetően – legalább a következőket rögzíti:
+
+a) a működtető megnevezését, elérhetőségét,
+
+b) a működtető ügyfélszolgálatának elérhetőségeit és nyitvatartási rendjét,
+
+c) a szerződéskötés módját,
+
+d) a szolgáltatói jogviszony részletes tartalmát, a szolgáltatások minőségére vonatkozó feltételeket,
+
+e) az egységes elektronikus értékesítésű közszolgáltatás díja megfizetésének kötelezettsége alóli mentesség, az arra vonatkozó kedvezmény és az alapjául szolgáló körülmények igazolására és az ezekre vonatkozó adatok kezelésére vonatkozó részletes szabályokat,
+
+f) a hibaelhárítás és a szolgáltatás korlátozása és szünetelése esetén irányadó szabályokat,
+
+g) az ügyfélszolgálat, ügyfélpanaszok kezelésének a rendjét, a jogviták kezelésének a módját, tájékoztatást az ügyfél által igénybe vehető jogorvoslati lehetőségekről,
+
+h) a működtető által alkalmazott díjak és továbbhárított költségek megnevezését és mértékét, a fizetés és a számlázás módját,
+
+i) a működtető által alkalmazható biztosítékok, illetve a fizetési módok korlátozása alkalmazásának feltételeit,
+
+j) a szolgáltatói jutalék elszámolásának és kifizetésének részletes szabályait,
+
+k) a kötbér megállapításának és megfizetésének módját, valamint
+
+l) a szerződés módosításának, megszűnésének feltételeit.
+
+### 4. A szolgáltatás tárgya
+
+#### 14. §
+
+(1) Elektronikus parkolási szolgáltatás nyújtásakor a működtető:
+
+a) beazonosítja a viszonteladót, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+
+b) GPS-alapú helymeghatározáson alapuló zónaválasztást és térkép megjelenítést biztosít,
+
+c) zóna- és tarifálási információkat biztosít,
+
+d) előkészíti, elindítja és leállítja a parkolási szolgáltatást,
+
+e) notifikációs és allokációs szolgáltatást biztosít,
+
+f) megállapítja a tényleges parkolási időt és parkolási díjat,
+
+g) ellenőrzési felületet és ellenőrzési interfészt biztosít a szolgáltató számára,
+
+h) biztosítja a szolgáltató és a viszonteladó közötti központi elszámolást, valamint
+
+i) a szolgáltatói üzletszabályzatban rögzítettek szerint kezeli a szolgáltató szolgáltatásával kapcsolatos viszonteladói ügyfélpanaszokat.
+
+(2) A szolgáltatóval kötött megállapodás alapján a működtető jogosult olyan támogatási szolgáltatás nyújtására, amelynek keretében a szolgáltató javára elvégzi a közszolgáltatás díja megfizetésének kötelezettsége alóli mentességre vagy kedvezményre való jogosultság ellenőrzésével és igazolásával kapcsolatos egyes feladatokat.
+
+(3) Elektronikus parkolási szolgáltatás nyújtásakor a szolgáltató köteles a jegykiadó automatáin vagy a közterületi parkolással kapcsolatos tájékoztató tábláin az egységes rendszer használatával kapcsolatos információkat megjelenítő feliratot elhelyezni, és azon feltüntetni:
+
+a) a várakozási terület zónakódját,
+
+b) a működtető internetes oldalának címét, valamint
+
+c) valamennyi viszonteladóra vonatkozóan a vásárlással kapcsolatos információkat.
+
+(4) A (3) bekezdés szerinti feliratok egységes formáját és adattartalmát a működtető határozza meg. A működtető évente egy alkalommal gondoskodik a feliratok előállításáról és a szolgáltató számára történő eljuttatásról azzal, hogy a kihelyezés a szolgáltató feladata. A működtető viseli az ezzel összefüggő költségeket azzal, hogy a viszonteladó megtéríti a feliratok cseréjének indokolt költségét a működtető részére, ha a feliratok cseréje a viszonteladónak felróható ok miatt szükséges.
+
+#### 15. §
+
+Az elektronikus közúti közlekedési célú szolgáltatás nyújtásakor a működtető:
+
+a) beazonosítja a viszonteladót, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+
+b) tarifálási információkat biztosít,
+
+c) viszonylati jegy vásárlásához tervezési és tarifálási információkat biztosít,
+
+d) végrehajtja a vásárlási tranzakciót,
+
+e) adatot szolgáltat a szolgáltató nyilvántartásához és ellenőrzéshez,
+
+f) lekérdezési szolgáltatást biztosít a viszonteladó számára,
+
+g) biztosítja a szolgáltató és a viszonteladó közötti központi elszámolást, valamint
+
+h) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat.
+
+#### 16. §
+
+(1) Az elektronikus személyszállítási szolgáltatás nyújtásakor a működtető:
+
+a) beazonosítja a végfelhasználót, és megvizsgálja a szolgáltatás igénybevételének jogosultságát,
+
+b) megállapítja a végfelhasználó által fizetendő jegyárat,
+
+c) viszonylati jegy vásárlásához tervezési és tarifálási információkat biztosít,
+
+d) notifikációs és allokációs szolgáltatást biztosít,
+
+e) biztosítja a szolgáltató és a viszonteladó közötti központi elszámolást,
+
+f) technológiai támogatást nyújt és adatot szolgáltat a szolgáltató által végzett ellenőrzéshez,
+
+g) kezeli a szolgáltató szolgáltatásával szemben felmerülő ügyfélpanaszokat és informatikai támogatást nyújt az ellenőrzéshez, valamint
+
+h) statisztikai adatokat szolgáltat a szolgáltatónak.
+
+(2) A szolgáltatóval kötött megállapodás alapján a működtető jogosult olyan támogatási szolgáltatás nyújtására, amelynek keretében a szolgáltató javára elvégzi a mentességre vagy kedvezményre való jogosultság ellenőrzésével és igazolásával kapcsolatos egyes feladatokat.
+
+### 5. A szolgáltatói jutalék és az elszámolás feltételei
+
+#### 17. §
+
+A szolgáltatói jutalék alapja a végfelhasználó által a 9. § (2) bekezdése szerint fizetendő díj általános forgalmi adó nélkül számított összege. A működtetőnek járó szolgáltatói jutalék mértéke a koncessziós szerződés szerinti mértékben kerül meghatározásra.
+
+#### 18. §
+
+(1) A működtető havonta, a tárgyhónapot követő hónap 5. napján elszámolási összesítőt küld a szolgáltató részére a tárgyhónapban értékesített termék mennyiségéről és értékéről.
+
+(2) Az elszámolási összesítőben a szolgáltató által kifogásolt tételekről a működtető és a szolgáltató az elszámolási összesítő megküldését követő 8 napon belül egyeztet, és ennek eredménye alapján a működtető a tárgyhónapot követő 15. napig teljesítésigazolást állít ki. A fennmaradt vitás tételekre vonatkozóan a működtető és a szolgáltató – egyeztetést követően – a tárgyhónapot követő hónapra vonatkozó díjak elszámolásával egyidejűleg számolnak el. Ha a működtető és a szolgáltató nem tudnak megegyezni a vitás tételekről, a tényállás rövid leírását tartalmazó jegyzőkönyvet vesznek fel.
+
+(3) Az elszámolási időszakban a működtető által értékesített, a teljesítésigazolásban igazolt termék után a szolgáltatót megillető díj a tárgyhónapot követő 30. napig, a szolgáltató nevében a működtető által kiállított számla alapján esedékes.
+
+### 6. A szolgáltatói szerződés módosítása, megszűnése
+
+#### 19. §
+
+(1) A szolgáltató észszerű időn belül tájékoztatja a működtetőt minden olyan változásáról, amely kihatással van a szolgáltatói szerződésre, és szükség esetén kezdeményezi annak módosítását.
+
+(2) A szolgáltatói szerződés szerződési feltételeit csak akkor lehet egyoldalúan a szolgáltató számára kedvezőtlenül módosítani, ha a szolgáltatói szerződés ezt a működtető számára egyértelműen meghatározott feltételek vagy körülmények esetére lehetővé teszi.
+
+(3) A működtető a szolgáltatót az (1) bekezdésben meghatározott módosításról legkésőbb a módosítás hatálybalépését megelőző 60. napig a szolgáltatói üzletszabályzatban meghatározott módon értesíti.
+
+(4) Ha a szolgáltató a szerződés (1) bekezdés szerinti módosítását nem tudja teljesíteni, köteles arról a működtetőt haladéktalanul írásban értesíteni, az akadályok részletes ismertetése mellett. A működtető és a szolgáltató kötelesek a lehető legrövidebb időn belül egyeztetni, és szolgáltató csak alapos okkal tagadhatja meg a módosítás végrehajtását. Alapos oknak minősül különösen, ha a módosítás végrehajtásának technikai feltételei nem állnak fenn, és annak időigénye vagy költsége miatt a módosítás végrehajtása nem lehetséges, vagy ha a módosítás végrehajtása jogszabályba ütközne.
+
+(5) Ha a szolgáltató a (3) bekezdésben rögzített értesítés kézhezvételétől számított 15 napon belül a módosítással kapcsolatban kifogást a működtetővel nem közöl, az a szerződésmódosítás elfogadásának minősül. A szolgáltató figyelmét a jelen bekezdésben rögzítettekre köteles a működtető felhívni.
+
+#### 20. §
+
+(1) A szolgáltatói szerződés megszűnik, ha a Törvény szerinti szerződéskötési kötelezettség már nem áll fenn.
+
+(2) A működtető és a szolgáltató a szolgáltatói szerződés megszűnését követő 30. napig egymással elszámolnak.
+
+## III. Fejezet — A VISZONTELADÓI SZERZŐDÉS
+
+### 7. A viszonteladói jogviszony
+
+#### 21. §
+
+(1) A viszonteladói szerződés keretében a viszonteladó megvásárolja a terméket a működtetőtől, és azt a viszonteladói üzletszabályzatban előírt követelmények betartása mellett, saját szerződési feltételei alkalmazásával továbbértékesíti a vele szerződéses jogviszonyban álló végfelhasználó számára.
+
+(2) A viszonteladó jogosult az egységes rendszer szolgáltatásainak igénybevételére.
+
+(3) A viszonteladói szerződés megkötésével, a viszonteladás kiépítésével és üzemeltetésével kapcsolatos költségeket a viszonteladó, illetve a működtető maga viseli.
+
+(4) A működtető a viszonteladói csatlakozást köteles mindenki számára lehetővé tenni, és a viszonteladók csatlakozását egységesen biztosítani.
+
+#### 22. §
+
+(1) A működtetőt a viszonteladó irányába szerződéskötési kötelezettség terheli kivéve, ha:
+
+a) a viszonteladó a működtetővel fennálló jogviszonyból eredő fizetési kötelezettségének nem tesz eleget,
+
+b) a viszonteladónak a működtetővel fennálló korábbi jogviszonya az egységes rendszer jogszabályellenes használata vagy a jogviszonyból eredő jogaival való visszaélése miatt szűnt meg, vagy
+
+c) a viszonteladóval szemben csődeljárás vagy végelszámolás van folyamatban, illetve a bíróság a viszonteladóval szemben jogerős határozatában a felszámolási eljárást elrendelte, vagy a viszonteladó kényszertörlési eljárás alatt áll.
+
+(2) A működtető jogosult az üzletszabályzatban rögzítettek szerint biztosítékot kérni a viszonteladótól a továbbértékesített termék díja fedezetének biztosítására.
+
+#### 23. §
+
+(1) A viszonteladói szerződés egyedi viszonteladói szerződésből és viszonteladói üzletszabályzatból áll. A viszonteladói szerződést írásba kell foglalni.
+
+(2) A viszonteladói szerződés kötelező tartalmai elemeire a 12. és 13. §-ban foglaltakat megfelelően alkalmazni kell azzal, hogy a szolgáltató alatt a viszonteladót kell érteni.
+
+### 8. A viszonteladói szolgáltatás tárgya
+
+#### 24. §
+
+(1) A viszonteladó és a végfelhasználó közötti, az ügyfélrendelkezéssel kapcsolatos kommunikáció bonyolítása, valamint az ügyfélrendelkezésnek a működtetőhöz történő továbbítása a viszonteladó feladata.
+
+(2) A viszonteladó köteles tájékoztatni a végfelhasználót, hogy a termék megvásárlása a működtető üzemeltetésében lévő egységes rendszeren keresztül történik.
+
+(3) A viszonteladó nem köteles minden terméket továbbértékesíteni, de a terméktípuson belül értékesítésre kerülő termék vonatkozásában köteles a teljes, országos lefedettséget biztosítani. A viszonteladó jogosult a termékek végfelhasználók általi megvásárlását vásárlási limittel vagy más, megkülönböztetésmentesen alkalmazott feltétellel korlátozni.
+
+(4) A működtető a viszonteladón keresztül biztosíthat adatot a végfelhasználó által megvásárolt termékről.
+
+(5) A viszonteladó köteles önálló ügyfélszolgálatot és az ügyfelek számára panaszkezelést biztosítani.
+
+#### 25. §
+
+A működtető általi panaszkezelés érdekében az ügyfélrendelkezés továbbítása és feldolgozása során
+
+a) a viszonteladó és a működtető egyedi és közös tranzakció-azonosítót hoznak létre, és
+
+b) a viszonteladó az ügyfélrendelkezés teljesítéséhez szükséges azonosítón túl a viszonteladó által létrehozott és a végfelhasználó által is ismert egyedi tranzakció-azonosítót is közli a működtetővel.
+
+### 9. A viszonteladói jutalék és az elszámolás
+
+#### 26. §
+
+A működtető a termék viszonteladó általi továbbértékesítése esetén a koncessziós szerződésben meghatározott mértékű jutalékot fizet a viszonteladó részére.
+
+#### 27. §
+
+(1) A termék díjáról a működtető havonta összesítő számlát készít, amelyet a viszonteladó a tárgyhónapot követő hónap 30. napjáig fizet meg a működtetőnek. A viszonteladó és a működtető rövidebb elszámolási időszakban is megállapodhatnak.
+
+(2) Az elszámolás szabályaira egyebekben az 5. alcím rendelkezései megfelelően alkalmazandóak azzal, hogy a szolgáltató alatt a viszonteladó értendő.
+
+### 10. A viszonteladói jogok korlátozása
+
+#### 28. §
+
+(1) A működtető a viszonteladó egyidejű írásbeli értesítése mellett a viszonteladó vonatkozásában a szolgáltatás igénybevételét korlátozhatja, ha
+
+a) tudomást szerez arról, hogy a viszonteladónak a működtető által kezelt, az elszámolás szempontjából vagy a szolgáltatás nyújtása szempontjából fontos adatai megváltoztak, az adatok bejelentéséig, szükség esetén igazolásáig,
+
+b) tudomást szerez arról, hogy a viszonteladó jogszabályellenesen vagy a jogviszonyból fakadó jogaival visszaélve használja az egységes rendszert, a jogellenes vagy visszaélésszerű magatartás megszüntetéséig, de legfeljebb 15 napig,
+
+c) a viszonteladó a működtetővel szemben fennálló és esedékessé vált, elismert vagy nem vitatott bármely fizetési kötelezettségének nem tesz eleget, a felszólítás megküldésével egyidejűleg, vagy
+
+d) tudomást szerez arról, hogy a viszonteladót az egységes rendszeren keresztül biztosított szolgáltatásával összefüggésben felügyeleti eljárásban elmarasztalták.
+
+(2) A működtető a korlátozást feloldja, ha a korlátozásra okot adó, (1) bekezdésben meghatározott körülmény megszűnt.
+
+### 11. A viszonteladói szerződés módosítása, megszűnése
+
+#### 29. §
+
+A viszonteladó észszerű időn belül tájékoztatja a működtetőt minden olyan változásáról, amely kihatással van a viszonteladói szerződésre, és szükség esetén kezdeményezi annak módosítását.
+
+#### 30. §
+
+(1) A működtető a viszonteladói szerződések szerződési feltételeit akkor módosíthatja egyoldalúan a viszonteladó számára kedvezőtlenül, ha a viszonteladói szerződés ezt egyértelműen meghatározott feltételek vagy körülmények esetére lehetővé teszi. Ilyen esetnek minősül különösen a termékeket nyújtó szolgáltatók szolgáltatási vagy műszaki feltételeinek jelentős módosulása.
+
+(2) A működtető jogosult a saját rendszerét a szolgáltatás folyamatos biztosítása mellett továbbfejleszteni, módosítani, mind a kiszolgálói-oldalon, mind az adatbázis-oldalon. A működtető köteles a műszaki paraméterek megváltoztatása előtt előre tájékoztatni a viszonteladót minden olyan műszaki módosításról, amely a szolgáltatások nyújtására, igénybevételére vagy egyébként a viszonteladói szerződés teljesítésére befolyással lesz.
+
+(3) A működtető a viszonteladót az (1) és (2) bekezdésben meghatározott módosításról legkésőbb a módosítás hatálybalépését megelőző 60. napig a viszonteladói üzletszabályzatban meghatározott módon értesíti.
+
+(4) Ha a viszonteladó a viszonteladói szerződést az értesítés kézhezvételétől számított 15 napon belül nem mondja fel, a szerződésmódosítás elfogadottnak minősül. A viszonteladó a szerződést 30 napos felmondási idő mellett jogosult felmondani. A működtető köteles a viszonteladó figyelmét a jelen bekezdésben rögzítettekre felhívni.
+
+#### 31. §
+
+(1) A viszonteladói szerződés megszűnik:
+
+a) a viszonteladó és a működtető közös megegyezése alapján,
+
+b) a viszonteladó rendes felmondásával 60 napos felmondási idővel indokolás nélkül, vagy
+
+c) a viszonteladó vagy a működtető rendkívüli felmondása esetén a (2) bekezdésben és a 32. §-ban rögzítettek szerint.
+
+(2) A működtető a viszonteladói szerződést 8 napos felmondási határidővel, indokolás mellett, felmondással felmondhatja, ha
+
+a) a viszonteladó a működtetővel szemben fennálló és esedékessé vált, elismert vagy nem vitatott bármely fizetési kötelezettségének az erre vonatkozó felszólítás kézhezvételétől számított 15 napon belül sem tesz eleget,
+
+b) a viszonteladó az egységes rendszert jogszabályellenes módon használja, vagy a jogviszonyból eredő jogaival visszaél, vagy
+
+c) a viszonteladóval szemben csődeljárás vagy végelszámolás van folyamatban, vagy a bíróság a viszonteladóval szemben jogerős határozatában a felszámolási eljárást elrendelte, vagy a viszonteladó kényszertörlési eljárás alatt áll.
+
+#### 32. §
+
+A viszonteladó a viszonteladói szerződést 8 napos felmondási határidővel, indokolás mellett felmondhatja, ha a működtető a jogviszonyból eredő kötelezettségeit vétkesen megszegi, vagy a jogviszonyból eredő jogaival visszaél.
+
+#### 33. §
+
+A viszonteladó és a működtető a viszonteladói szerződés megszűnését követő 30. napig egymással elszámolnak.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 34. §
+
+Ez a rendelet 2021. január 1-jén lép hatályba.
+
+#### 35. §
+
+Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+#### 36. §
+
+A 24. § (5) bekezdésének a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+#### 37. §[^1]
+
+---
+
+[^1]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

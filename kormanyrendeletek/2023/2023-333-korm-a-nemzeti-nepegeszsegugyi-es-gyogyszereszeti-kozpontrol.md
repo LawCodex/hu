@@ -1,0 +1,342 @@
+---
+title: "333/2023. (VII. 20.) Korm. rendelet a Nemzeti Népegészségügyi és Gyógyszerészeti Központról"
+identifier: "333/2023. (VII. 20.) Korm. rendelet"
+njt_id: "2023-333-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/333"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-07-20
+in_force_from: 2023-08-01
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-333-20-22"
+retrieved: 2026-10-12
+---
+
+# 333/2023. (VII. 20.) Korm. rendelet a Nemzeti Népegészségügyi és Gyógyszerészeti Központról
+
+A Kormány
+
+az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az 5. alcím tekintetében az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdés d) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Nemzeti Népegészségügyi és Gyógyszerészeti Központ jogállása
+
+### 1. §
+
+A Nemzeti Népegészségügyi és Gyógyszerészeti Központ (a továbbiakban: NNGYK) az egészségügyért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+
+## 2. Az NNGYK szervezete
+
+### 2. §[^1]
+
+(1) Az NNGYK-t az országos tisztifőorvos vezeti.
+
+(2) Az országos tisztifőorvos általános helyettese a rendvédelmi tisztifőorvos. Egészségügyi válsághelyzet elrendelése esetén az országos tisztifőorvos feladatait a rendvédelmi tisztifőorvos látja el.
+
+(3) Az NNGYK-ban az országos tisztifőorvos helyettesítését a (2) bekezdés szerinti általános helyettesen túl az NNGYK szervezeti és működési szabályzatában meghatározott szakmai helyettesek látják el.
+
+(4) Az országos tisztifőorvos szakmai helyetteseit a miniszter nevezi ki és menti fel, felettük az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja.
+
+(5) Az országos tisztifőorvos általános helyettesét a rendészetért felelős miniszter nevezi ki és menti fel, felette az egyéb munkáltatói jogokat az országos tisztifőorvos gyakorolja. Az általános helyettes távolléte vagy akadályoztatása, illetve a tisztség betöltetlensége esetén az általános helyettes személyét a rendészetért felelős miniszter jelöli ki.
+
+## 3. Az NNGYK feladat- és hatásköre
+
+### 3. §
+
+Az NNGYK a feladatait az ország egész területére kiterjedő illetékességgel látja el.
+
+### 4. §
+
+(1) Az NNGYK részt vesz az országos népegészségügyi programok kidolgozásában és irányítja, szervezi, koordinálja a programok végrehajtásának területi és helyi feladatait.
+
+(2) Az NNGYK ellátja a jogszabályban hatáskörébe utalt, egészségügyi ellátás feletti szakfelügyeleti feladatokat.
+
+(3) Az NNGYK ellátja az alapító okiratában, illetve jogszabályokban számára meghatározott feladatokat
+
+a) a közegészségügy (környezet- és település-egészségügy – ideértve a gyógyfürdőügyet is –, élelmezés-egészségügy, táplálkozás-egészségügy, sugáregészségügy, kozmetikai termékek egészségügyi megfelelősége, kémiai biztonság, gyermek- és ifjúságügy),
+
+b) a járványügy (fertőzőjárvány-ügy),
+
+c) az egészségfejlesztés (egészségvédelem, egészségnevelés és egészségmegőrzés, népegészségügyi szűrések szervezése és koordinálása, egészségmonitorozás, beleértve a nem fertőző betegségek epidemiológiáját, az egészséghatás-értékelést),
+
+d) az egészségügyi igazgatás és koordináció és
+
+e) a munkaegészségügy (munkahigiéné és foglalkozás-egészségügy)
+
+területén.
+
+(4) Az NNGYK jár el a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) vagy a kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) hatáskörébe tartozó azon, az egészségügyi igazgatás körébe tartozó ügyekben, amelyekben minősített adat kerül felhasználásra.
+
+### 5. §
+
+(1) Az NNGYK jogszabályban meghatározott munkahigiénés és foglalkozás-egészségügyi kutatással összefüggő feladatkörében eljárva
+
+a) ellátja a munkahigiénés és foglalkozás-egészségügyi szervnek az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 15/A. § (2) és (3) bekezdésében meghatározott feladatait,
+
+b) ellátja a túlnyomásos munkahelyen foglalkoztatottak orvosi alkalmassági vizsgálatával kapcsolatosan jogszabály által hatáskörébe utalt feladatokat,
+
+c) ellátja a kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági vizsgálatával kapcsolatosan jogszabály által hatáskörébe utalt feladatokat,
+
+d)[^2] az egyes rendvédelmi szervek hivatásos állományú tagjainak, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjainak foglalkozási betegsége, fokozott expozíciós esete szolgálattal összefüggő jellegének megállapításához, minősítéséhez jogszabály alapján véleményt ad,
+
+e) működteti a hajózási egészségi alkalmasság másodfokú vizsgálatát végző bizottságot,
+
+f) ellátja a munkaköri, szakmai és személyi higiénés alkalmasság orvosi vizsgálatával és véleményezésével kapcsolatosan a jogszabály által hatáskörébe utalt feladatokat,
+
+g) biztosítja a foglalkozási megbetegedésben szenvedők szakvizsgálatait, és elbírálja a megbetegedések foglalkozási eredetét.
+
+(2) Az NNGYK munkahigiénés – ennek körében munkakörnyezeti műszeres és biológiai expozíciós – vizsgálatokat végez.
+
+(3) Az NNGYK egyes meghatározott tevékenységekre akkreditált laboratóriumokat működtet és tart fenn.
+
+(4) Az NNGYK részt vesz az európai uniós forrásból finanszírozott projektekkel kapcsolatos feladatok ellátásában és a fenntartási kötelezettséggel érintett projektek fenntartásában.
+
+(5) Az NNGYK ellátja az egészségügyi alapellátás és egészségfejlesztés – ennek részeként a szervezett lakossági szűrések – területi szintű tervezési, monitoring, koordinációs és szervezési feladatait, melynek keretében biztosítja a lakosság egyenlő hozzáférését az ellátásokhoz és egészségfejlesztő szolgáltatásokhoz.
+
+(6) Az NNGYK ellátja az egészségfejlesztési irodák szakmai irányítását és koordinálását.
+
+(7) Az NNGYK üzemelteti és fejleszti a kormányhivatal és a járási hivatal, valamint az NNGYK népegészségügyi feladatainak ellátásához szükséges szakmai informatikai rendszereket.
+
+(8) Az NNGYK beszerzi a hazai éves oltóanyagot, az általa beszerzett oltóanyagot nyilvántartja, és a kormányhivatalok, valamint járási hivatalok részére elosztja és kiszállítja.
+
+### 6. §
+
+Az NNGYK drogpolitikai feladatai körében
+
+a) adatgyűjtéssel, elemzések végzésével elősegíti a drogpolitikai stratégiai döntések megalapozását, közreműködik irányelvek és standardok kifejlesztésében a Nemzeti Drogellenes Stratégia végrehajtásához,
+
+b) közreműködik a Nemzeti Drogellenes Stratégia végrehajtásában, biztosítja a megvalósítás szakmai támogatását,
+
+c) koordinálja a megelőző-felvilágosító szolgáltatások rendszerének működését, ennek keretében kapcsolatot tart az elterelésben érintett szolgáltatókkal,
+
+d) ellátja a Kábítószerügyi Egyeztető Fórumokkal kapcsolatos feladatok koordinációját,
+
+e) igazolja, hogy a szenvedélybetegek közösségi alapellátását, alacsonyküszöbű ellátását, nappali ellátását vagy számukra megelőző-felvilágosító szolgáltatást végző szociális szolgáltatók, intézmények, fenntartók szenvedélybetegség megelőzése érdekében végzett célzott prevenciós programjai megfelelnek-e a Nemzeti Drogellenes Stratégiában foglalt céloknak, és összhangban állnak-e a célzott prevenciós célú hazai pályázatokkal.
+
+### 7. §
+
+Az NNGYK ellátja a nemzeti egészségügyi telefonos ügyfélszolgálati és online információs központ Egészségvonal szolgáltatásának működtetését, és ennek keretében
+
+a) az ügyfelek részére a hét minden napján 0–24 órában országos általános egészségügyi tájékoztatást nyújt a honlapján megjelölt kérdéskörök vonatkozásában,
+
+b) szolgáltatását telefonon, Magyarországról az 1812 rövidített hívószámon, valamint elektronikus levél útján és a www.egeszsegvonal.gov.hu honlapon keresztül, vagy az ügyfelek részére más felületeken közzétett további hívószámokon biztosítja,
+
+c) közvetlen kétoldalú telefonos kapcsolatot tart fenn az 1818-as hívószámú országos telefonos ügyfélszolgálattal és a 112-es hívószámú egységes európai telefonos segélyhívóval,
+
+d) szolgáltatásainak biztosítása és fejlesztése érdekében megállapodhat a miniszter irányítása és felügyelete vagy tulajdonosi joggyakorlása alá tartozó szervekkel és szervezetekkel, valamint a szolgáltatáshoz kapcsolódó tevékenységet végző más szervekkel, szolgáltatókkal,
+
+e) szolgáltatásával kapcsolatos tájékoztatását a honlapján és a www.NNGYK.gov.hu honlapon teszi közzé.
+
+### 7/A. §[^3]
+
+(1) A Kormány a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 20/B. §-a szerinti egységes telefonos időpontfoglalási központ (a továbbiakban: telefonos időpontfoglalási központ) működtetőjeként az NNGYK-t jelöli ki. Az NNGYK a telefonos időpontfoglalási központot az Egészségvonal szolgáltatása keretében működteti.
+
+(2) Az NNGYK a telefonos időpontfoglalási központ szolgáltatást a hét minden napján 6 óra és 22 óra között országos elérhetőséggel végzi.
+
+(3) Az NNGYK a telefonos időpontfoglalási központ szolgáltatással kapcsolatos tájékoztatását a honlapján teszi közzé.
+
+### 8. §
+
+(1) Az NNGYK gyógyszerészeti, orvostechnikai, élelmezés-egészségügyi feladatkörében
+
+1\. ellátja a gyógyszerészeti hatósági és ellenőrzési tevékenységeket,
+
+2\. ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, illetve kábítószer-prekurzorokkal kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra,
+
+3\. kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek a miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani,
+
+4\. az egészségügyi szolgáltatók orvostechnikai, -technológiai beruházásaival, az orvostechnika és -technológia üzemeltetésével kapcsolatosan szakértői tevékenységet és szakmai támogatást nyújt,
+
+5\. egészségtechnológia-értékelési feladatokat lát el, technológiaértékeléssel, finanszírozási protokollokkal kapcsolatos kutatásokat végez a támogatáspolitika területén,
+
+6\. kormányrendeletben meghatározott szakkérdésben szakértőként jár el,
+
+7\. ellátja a jogszabály által feladatkörébe utalt élelmezés-egészségügyi hatósági és egyéb feladatokat, az étrend-kiegészítők és bizonyos specifikus csoportoknak szánt élelmiszerek tekintetében közegészségügyi kockázatértékelést végez,
+
+8\. ellátja a kozmetikai termékekkel kapcsolatosan a kozmetikai termékekről szóló, 2009. november 30-i 1223/2009/EK európai parlamenti és tanácsi rendelet 34. cikke szerinti nemzeti hatósági feladatokat,
+
+9\. a Kormány által meghatározott élelmezés- és táplálkozás-egészségügy szakkérdésekben szakvéleményt ad,
+
+10\. az élelmezés- és táplálkozás-egészségügy szakterületén szakmai-módszertani, tudományos kutatási, képzési, továbbképzési, nyilvántartási, koordinálási, szakmai felügyeleti feladatokat lát el,
+
+11\. jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez,
+
+12\. ellátja a jogszabályban, az alapító okiratában vagy hatósági határozatban meghatározott egyéb feladatokat,
+
+13\. ellátja
+
+a) a klinikai vizsgálatok tekintetében az emberi felhasználásra kerülő gyógyszerek klinikai vizsgálatáról és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i (EU) 536/2014 európai parlamenti és tanácsi rendelet szerinti, az illetékes hatóság feladatkörébe tartozó feladatokat,
+
+b) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR), valamint az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) szerinti, az illetékes hatóság hatáskörébe tartozó feladatokat,
+
+c) az orvostechnikai eszközök klinikai vizsgálatának, valamint az in vitro diagnosztikai orvostechnikai eszközök teljesítőképesség-vizsgálatának bejelentésével, engedélyezésével és felügyeletével kapcsolatos hatósági hatásköröket,
+
+d) az orvostechnikai eszközök, az in vitro diagnosztikai orvostechnikai eszközök és az ápolástechnikai eszközök forgalmazóinak, valamint a rendelésre készült eszközök nyilvántartásával kapcsolatos hatósági hatásköröket,
+
+e) az MDR 60. cikke, valamint az IVDR 55. cikke szerinti igazolások kiadásával kapcsolatos hatásköröket,
+
+f) a felhasználóknál felmerülő váratlan eseményekkel kapcsolatos adatbázis kezelésével kapcsolatos feladatokat,
+
+g) az egyes eszköztípusok időszakos felülvizsgálatára jogosult gazdasági szereplők kijelölésével kapcsolatos hatásköröket,
+
+h) az MDR 5. cikk (5) bekezdése szerinti orvostechnikai eszközök és az IVDR 5. cikk (2) bekezdése szerinti in vitro diagnosztikai orvostechnikai eszközök gyártásának és használatba adásának hatósági felügyeletét,
+
+i) az IVDR 100. cikke szerinti európai uniós referencialaboratóriummá történő kijelöléssel kapcsolatos, az IVDR-ben és az (EU) 2017/746 európai parlamenti és tanácsi rendeletnek az in vitro diagnosztikai orvostechnikai eszközökkel foglalkozó európai uniós referencialaboratóriumok feladatai és a rájuk vonatkozó kritériumok tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. június 17-i (EU) 2022/944 bizottsági végrehajtási rendeletben meghatározott tagállami feladatokat,
+
+14\. lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat, és vezeti az ezzel összefüggő nyilvántartásokat,
+
+15\. ellátja a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendeletben meghatározott nemzeti hatósági feladatokat,
+
+16\. ellátja az orvostechnikai eszközök és az in vitro diagnosztikai orvostechnikai eszközök megfelelőségértékelésére jogosult szervek kijelölésével és felügyeletével kapcsolatos hatásköröket,
+
+17\. szakértőként jár el abban a kérdésben, hogy egy vizsgálat klinikai vizsgálatnak, beavatkozással nem járó vizsgálatnak vagy egyéb orvostudományi kutatásnak minősül-e.
+
+(2) Az NNGYK feladatköreivel összefüggésben minőségirányítási rendszert hoz létre és alkalmaz, és folyamatos felülvizsgálat útján gondoskodik annak az Európai Unió jogi aktusaival, valamint a jogszabályokkal való összhangjáról.
+
+(3) A Kormány a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 3. § (1) bekezdése szerinti kijelölő hatósági feladatok ellátására az orvostechnikai eszközök és in vitro diagnosztikai orvostechnikai eszközök megfelelőségértékelésére jogosult szervek tekintetében az NNGYK-t jelöli ki.
+
+### 9. §
+
+(1) Az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölés és a kijelölés megújítása iránti kérelmet (a továbbiakban: kérelem) az NNGYK-hoz mint az MDR 35. cikke és az IVDR 31. cikke szerinti illetékes hatósághoz kell benyújtani.
+
+(2) Az MDR 38. cikke, illetve az IVDR 34. cikke alapján a kérelemben meg kell határozni az MDR és az IVDR szerinti megfelelőségértékelési tevékenységeket, valamint azokat az eszköztípusokat, amelyekre vonatkozóan a szervezet a kijelölést kérelmezi.
+
+(3) A kérelmezőnek igazolnia kell az MDR és az IVDR VII. mellékletének való megfelelést.
+
+### 10. §
+
+(1) Az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel kapcsolatos megfelelőségértékelő szervezetként történő kijelölési feltételek teljesülését a kijelöléskor hatályos előírások szerint az NNGYK legalább évente ellenőrzi.
+
+(2) Az orvostechnikai eszközök és az in vitro diagnosztikai eszközök (1) bekezdés szerinti ellenőrzése során a kijelölő hatóság vizsgálja, hogy
+
+a) a kijelölt szervezet a kijelölt megfelelőségértékelési területen folytatott tevékenysége során betartja-e a minőségirányítási kézikönyvében, valamint a működési és eljárási szabályzatában foglaltakat,
+
+b) az előző ellenőrzés óta a szakmai és adminisztratív felkészültség terén történt esetleges változás befolyásolja-e a kijelölt szervezet alkalmasságát a megfelelőségértékelő tevékenységre,
+
+c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamint a működési és eljárási szabályzatban történt esetleges változtatások befolyásolják-e a kijelölt szervezet alkalmasságát a megfelelőségértékelő tevékenységre,
+
+d) a kijelölt szervezet megfelelőségértékelési tevékenységével kapcsolatos panaszok kivizsgálása megfelelő volt-e.
+
+### 11. §
+
+Az NNGYK az étrend-kiegészítőkben és élelmiszerekben alkalmazni kívánt egyéb, táplálkozási és élettani hatással rendelkező anyagok, elsősorban gyógynövények közegészségügyi szempontból történő értékelése érdekében tudományos tanácsadó testületet működtet. A testület létrehozza és folyamatosan naprakészen tartja az élelmiszerekben – ideértve az étrend-kiegészítőket – alkalmazásra nem javasolt növények listáját, amelyet az NNGYK saját honlapján tesz közzé a 8. § (1) bekezdés 7. pontja szerinti hatáskörei ellátása keretében.
+
+### 12. §
+
+Az NNGYK közreműködik a belső piaci információs rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatok ellátásában.
+
+## 4. Az országos tisztifőorvos feladat- és hatásköre
+
+### 13. §
+
+(1) Az országos tisztifőorvos a fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal népegészségügyi feladatai ellátásáról, továbbá az egészségügyi államigazgatási szerv kijelöléséről szóló 385/2016. (XII. 2.) Korm. rendelet 1. § (1) bekezdése szerinti jogkörében eljárva
+
+a) tájékoztatást, adatot, egyéb információt kérhet minden olyan, a kormányhivatal feladatkörébe tartozó népegészségügyi kérdésben, amely a lakosságot érinti vagy érintheti,
+
+b) megkeresésre szakmai kérdésekben állást foglal, véleményt nyilvánít,
+
+c) felhívást intézhet közegészségügyi-járványügyi, egészségfejlesztési, valamint egészségügyi igazgatási intézkedések megtételére, ha azok a lakosság érdekében szükségesek,
+
+d) évente legalább egyszer, illetve szükség esetén beszámolót kér a népegészségügyi tevékenységről, illetve helyzetről.
+
+(2) Az (1) bekezdés c) pontja szerinti intézkedések elmaradása esetén az országos tisztifőorvos a miniszter útján intézkedés céljából megkeresi az arra feladatkörrel rendelkező minisztert.
+
+### 14. §
+
+(1)[^4] Az országos tisztifőorvos ellátja a Magyar Honvédség, a polgári nemzetbiztonsági szolgálatok és a rendvédelmi szervek közegészségügyi-járványügyi feladatainak ellátására kijelölt szerve egészségügyi feladatainak szakmai felügyeletét.
+
+(2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért felelős miniszter egyetértése szükséges.
+
+## 5. A gyógyszerészeti államigazgatási szerv kijelölése
+
+### 15. §
+
+A Kormány gyógyszerészeti államigazgatási szervként az NNGYK-t jelöli ki.
+
+## 6. Záró rendelkezések
+
+### 16. §
+
+Ez a rendelet 2023. augusztus 1-jén lép hatályba.
+
+### 17. §
+
+Az e rendelet hatálybalépését megelőzően a Nemzeti Népegészségügyi Központ, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet részére az elektronikus aláíráshoz, továbbá az elektronikus bélyegzőhöz kiadott, az elektronikus ügyintézés keretében alkalmazott tanúsítványok 2023. december 31. napjáig, a Nemzeti Népegészségügyi és Gyógyszerészeti Központ eljárása során továbbra is érvényesek.
+
+### 18. §
+
+A Nemzeti Népegészségügyi Központ elnevezése 2023. augusztus 1. napjától Nemzeti Népegészségügyi és Gyógyszerészeti Központra változik.
+
+### 19. §
+
+(1) Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) 2023. augusztus 1. napjával – az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3) bekezdése alapján – a Nemzeti Népegészségügyi és Gyógyszerészeti Központba történő beolvadás útján jogutódlással megszűnik.
+
+(2) Az OGYÉI általános jogutódja a Nemzeti Népegészségügyi és Gyógyszerészeti Központ.
+
+(3) A Nemzeti Népegészségügyi és Gyógyszerészeti Központ az (1) bekezdés szerinti beolvadás napjától ellátja az (1) bekezdés szerinti beolvadás napját megelőző napon az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetről szóló 28/2015. (II. 25.) Korm. rendeletben és más jogszabályban meghatározott feladatokat, gyakorolja a kijelölt gyógyszerészeti államigazgatási szerv és egészségügyi államigazgatási szerv számára megállapított és más kijelölésből adódó hatásköröket és hatósági jogköröket.
+
+(4) A jogutódlás kiterjed
+
+a) a vagyoni jogokra és kötelezettségekre,
+
+b) a hazai, európai uniós és egyéb nemzetközi forrásból finanszírozott projektek megvalósításával, a fenntartási kötelezettséggel érintett projektek fenntartásával és ezen projektek menedzsmentjével kapcsolatos feladatokra,
+
+c) a feladatok ellátásához rendelkezésre álló ingó és ingatlan eszközállományra,
+
+d) a feladatokat ellátó kormánytisztviselők, illetve munkavállalók feletti munkáltatói jogok, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottakkal kapcsolatos jogok gyakorlására és kötelezettségek teljesítésére, valamint a kormányzati szolgálati jogviszonyukra, munkaviszonyukra és munkavégzésre irányuló egyéb jogviszonyukra,
+
+e) a feladatokhoz kapcsolódó központi költségvetési, valamint egyéb költségvetési források felhasználására.
+
+(5) A jogutódlás kiterjed az átvételre kerülő, (2) bekezdés szerinti feladat- és hatáskörök tekintetében az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre, továbbá valamennyi, az átvételre kerülő feladat ellátását szolgáló jogviszonyra és a feladat ellátása során keletkezett iratanyagra.
+
+(6) A (4) bekezdés szerinti jogviszonyok vonatkozásában az NNGYK mint jogutód jogosult
+
+a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott összegek beszedése érdekében,
+
+b) belépni a folyamatban lévő peres és nemperes eljárásokba.
+
+### 20. §
+
+Ez a rendelet
+
+a) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 1985. június 27-i 85/337/EGK tanácsi irányelv 2. és 4. cikkének, valamint II. és III. mellékletének,
+
+b) a környezettel kapcsolatos egyes tervek és programok kidolgozásánál a nyilvánosság részvételéről, valamint a nyilvánosság részvétele és az igazságszolgáltatáshoz való jog tekintetében a 85/337/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. május 26-i 2003/35/EK európai parlamenti és tanácsi irányelv 3. cikkének
+
+való megfelelést szolgálja.
+
+### 21. §
+
+Ez a rendelet az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról szóló 1272/2008/EK európai parlamenti és tanácsi rendeletnek egy, az egészséget érintő vészhelyzetre való reagálással kapcsolatos harmonizált információkról szóló melléklet hozzáadásával történő módosításáról szóló, 2017. március 22-i (EU) 2017/542 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 22. §
+
+(1) Ez a rendelet
+
+a) az emberi felhasználásra kerülő gyógyszerek klinikai vizsgálatáról és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i (EU) 536/2014 európai parlamenti és tanácsi rendelet,
+
+b) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet,
+
+c) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet,
+
+d) az (EU) 2017/746 európai parlamenti és tanácsi rendeletnek az in vitro diagnosztikai orvostechnikai eszközökkel foglalkozó európai uniós referencialaboratóriumok feladatai és a rájuk vonatkozó kritériumok tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. június 17-i (EU) 2022/944 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) Ez a rendelet a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelvnek való megfelelést szolgálja.
+
+### 23. §
+
+Ez a rendelet a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendelet végrehajtásához szükséges intézkedéseket állapít meg.
+
+---
+
+[^1]: A 2. § a 659/2023. (XII. 28.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^2]: Az 5. § (1) bekezdés d) pontja a 24/2025. (II. 27.) Korm. rendelet 99. §-a szerint módosított szöveg.
+[^3]: A 7/A. §-t a 135/2024. (VI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A 14. § (1) bekezdése a 24/2025. (II. 27.) Korm. rendelet 98. §-ával megállapított szöveg.

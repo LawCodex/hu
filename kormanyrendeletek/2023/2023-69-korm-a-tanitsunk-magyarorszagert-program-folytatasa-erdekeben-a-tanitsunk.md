@@ -1,0 +1,81 @@
+---
+title: "69/2023. (III. 10.) Korm. rendelet a Tanítsunk Magyarországért Program folytatása érdekében a Tanítsunk Magyarországért Alapítvány, valamint a Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság kijelöléséről és feladatairól"
+identifier: "69/2023. (III. 10.) Korm. rendelet"
+njt_id: "2023-69-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/69"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-03-10
+in_force_from: 2023-03-11
+last_amended: 2023-03-12
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-69-20-22"
+retrieved: 2026-10-12
+---
+
+# 69/2023. (III. 10.) Korm. rendelet a Tanítsunk Magyarországért Program folytatása érdekében a Tanítsunk Magyarországért Alapítvány, valamint a Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság kijelöléséről és feladatairól
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány a Tanítsunk Magyarországért Programmal (a továbbiakban: Program) kapcsolatos feladatok megvalósítására a Tanítsunk Magyarországért Alapítványt (a továbbiakban: TMA) és a Nemzeti Tehetség Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: NTK) jelöli ki.
+
+(2) Az (1) bekezdés szerinti feladat ellátása magában foglalja a TMA vonatkozásában az alábbi feladatokat:
+
+a) a Program céljaira és szakmai tartalmára vonatkozó javaslattétel megküldése az NTK felé,
+
+b) javaslattétel az NTK-nak a Programban részt vevő partnerek, úgymint egyetemek és mentorok, középiskolák, általános iskolák és mentoráltak, szakképzési centrumok és vállalati partnerek bevonására,
+
+c) az NTK-val együttműködve a tananyag, a kurzusok és a mentori programok megalkotása, azok magas szintű minőségének biztosítása,
+
+d) az NTK-val együttműködve szakmai segítségnyújtás az egyetemeknek a mentorok toborzásához,
+
+e) a Program megfelelő népszerűsítése, az NTK javaslata alapján,
+
+f) javaslattétel a Program éves költségvetésének összeállítására, valamint
+
+g) a Program megvalósításához kapcsolódó elemzések, kutatások, értékelések és hatásvizsgálatok elkészítése és az NTK felé ezek rendelkezésre bocsátása.
+
+(3) Az (1) bekezdés szerinti feladat ellátása magában foglalja az NTK vonatkozásában az alábbi feladatokat:
+
+a) a Program céljainak és szakmai tartalmának meghatározása,
+
+b) együttműködések lebonyolítása magyarországi partnerekkel, úgymint egyetemekkel, középiskolákkal, általános iskolákkal, szakképzési centrumokkal és vállalati partnerekkel,
+
+c) általános és középiskolai mentorprogram lebonyolítása,
+
+d) a Program éves költségvetésének összeállítása, a TMA és a 2. § szerinti kormánybiztos bevonásával és javaslatainak figyelembevételével,
+
+e) utazási támogatás nyújtása a Program résztvevői számára,
+
+f) ösztöndíjak juttatása a Programban részt vevők számára,
+
+g) a Program céljainak eléréséhez szükséges toborzási és kommunikációs, ismeretterjesztő tevékenységek végzése, rendezvények, események szervezése és támogatása, kiadványok megjelentetése,
+
+h) az NTK többi szakmai programjával való együttműködési lehetőségek kialakítása a TMA bevonásával,
+
+i) a Program megvalósításához kapcsolódó szakmai beszámolók elkészítése,
+
+j) vállalati mentorprogram szervezése, amely során a vállalatok megnyitják üzemeiket a diákok előtt, betekintést engedve az ott zajló munkába.
+
+## 2. §
+
+(1) Az 1. § szerinti feladatokat a kormánybiztos kinevezéséről és feladatairól szóló 1589/2022. (XI. 30.) Korm. határozattal kinevezett, a Tanítsunk Magyarországért Program koordinációjáért felelős kormánybiztossal együttműködve látják el a megvalósításért felelős szervezetek.
+
+(2) Az NTK és a TMA a tárgyév január 31-éig évente megállapodnak az adott évi programterv alapján a költségvetési források mértékéről és felhasználásának rendjéről.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 4. §
+
+(1) Az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: IFKA) a Program megvalósítása során a tulajdonába került és a Program megvalósításához szükséges eszközöket és szellemi alkotásokat, védjegyeket, szellemi termékeket és a kapcsolódó tulajdonjogokat, használati jogokat, amelyekre az NTK igényt tart, és a feladat szakmai megvalósításához feltétlenül szükséges, ingyenesen átadja az e rendelet hatálybalépését követő 30. napig.
+
+(2) Az IFKA a Program 2023. évi megvalósításához biztosított forrást több ütemben utalja át az NTK részére. Az IFKA a Program elszámolással érintett részösszegére vonatkozó elszámolást az e rendelet hatálybalépését követő 30. napig benyújtja a Nemzeti Szakképzési és Felnőttképzési Hivatal részére, amely intézkedik az elszámolás legkésőbb 2023. május 31-éig történő elfogadása érdekében. Az IFKA az elszámolás elfogadását követően 5 munkanapon belül a forrás fennmaradó részét átadja az NTK részére. Az IFKA a Program elszámolással nem érintett részösszegét az e rendelet hatálybalépését követő 30. napig átutalja az NTK részére.
+
+(3) Az e rendelet hatálybalépését megelőzően megkötött, a Programhoz kapcsolódó feladatok korábbi ellátásából adódó, átadásra nem kerülő szerződések elszámolási kötelezettségeit az IFKA a továbbiakban is teljesíti.
+
+(4) A 2023. évre vonatkozó, 2. § (2) bekezdése szerinti megállapodásnak legkésőbb az e rendelet hatálybalépését követő 30. napig kell megtörténnie.

@@ -1,0 +1,265 @@
+---
+title: "456/2023. (X. 5.) Korm. rendelet a kutatási és fejlesztési megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről"
+identifier: "456/2023. (X. 5.) Korm. rendelet"
+njt_id: "2023-456-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/456"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-10-05
+in_force_from: 2023-10-15
+last_amended: 2023-10-16
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-456-20-22"
+retrieved: 2026-10-12
+---
+
+# 456/2023. (X. 5.) Korm. rendelet a kutatási és fejlesztési megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről
+
+A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 96. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+(1) E rendelet alkalmazásában
+
+1\. *aktív értékesítés:* az értékesítés minden formája a passzív értékesítés kivételével;
+
+2\. *eredmények hasznosítása:* a szerződés szerinti termék előállítása vagy forgalmazása, a szerződés szerinti technológia alkalmazása, valamint az ezekhez szükséges szellemi tulajdonjogok átruházása vagy a szellemi tulajdonjogi oltalom tárgya hasznosításának engedélyezése, vagy az ezekhez szükséges know-how átadása;
+
+3\. *érintett technológiapiac:* a szerződés szerinti technológiákkal továbbfejleszthető, helyettesíthető vagy felváltható technológiák vagy eljárások érintett piaca;
+
+4\. *érintett termékpiac:* a szerződés szerinti termékkel továbbfejleszthető, helyettesíthető vagy felváltható termékek érintett piaca;
+
+5\. *finanszírozó vállalkozás:* olyan vállalkozás, amely a fizetett kutatás és fejlesztés finanszírozását végzi, de maga nem végez kutatási és fejlesztési tevékenységet;
+
+6\. *fizetett kutatás és fejlesztés:* az egyik vállalkozás által végzett és a finanszírozó vállalkozás által finanszírozott kutatás és fejlesztés;
+
+7\. *hasznosítás céljából történő szakosítás:* az eredmények hasznosítása tekintetében elkülönülő feladatok – így különösen az előállítás vagy a forgalmazás – felosztása a megállapodásban részt vevő vállalkozások között, vagy e tekintetben korlátozás előírása egymással szemben meghatározott földrajzi terület, vevőkör vagy felhasználási terület vonatkozásában, ideértve azt az esetet is, ha kizárólag egyetlen, a megállapodásban részt vevő vállalkozás állítja elő és forgalmazza a szerződés szerinti terméket, vagy alkalmazza a szerződés szerinti technológiát a többi vállalkozás által biztosított kizárólagos hasznosítási engedély alapján;
+
+8\. *know-how:* a vállalkozás tapasztalataiból eredő és kipróbált, iparjogvédelmi oltalom alatt nem álló olyan gyakorlati ismeret vagy azok olyan együttese,
+
+a) amely széles körben nem ismert, illetve nehezen hozzáférhető,
+
+b) amely a szerződés szerinti termék előállításához, illetve a szerződés szerinti technológia alkalmazásához jelentős és hasznos, továbbá
+
+c) amelyről az a) és b) pontban foglalt ismérvek megállapítását lehetővé tevő kellően átfogó ismertetés rendelkezésre áll;
+
+9\. *közös tevékenység:* a kutatási és fejlesztési megállapodás alapján
+
+a) közös munkacsoport, szervezet vagy vállalkozás által,
+
+b) a megállapodásban részt vevő vállalkozások által közösen megbízott, a megállapodásban részt nem vevő vállalkozás által vagy
+
+c) a megállapodásban részt vevő vállalkozások által kutatási és fejlesztési szakosítás vagy hasznosítás céljából történő szakosítás alapján egymás között megosztva
+
+végzett tevékenység;
+
+10\. *kutatás és fejlesztés:* termékre, technológiára vagy eljárásra vonatkozó know-how megszerzése, elméleti elemzés, megfigyelés, kísérlet végzése – beleértve a kísérleti és demonstrációs előállítást és a termék vagy eljárás műszaki vizsgálatát –, a szükséges demonstrációs gépek és berendezések létrehozása, valamint a kutatás eredményének hasznosítása érdekében szellemi tulajdonjogok megszerzése;
+
+11\. *kutatási és fejlesztési szakosítás:* a megállapodásban részt vevő valamennyi vállalkozásnak a kutatási és fejlesztési megállapodás tárgyát képező kutatásban és fejlesztésben való részvétele mellett, a kutatási és fejlesztési tevékenységnek a megállapodásban részt vevő vállalkozások között az általuk célszerűnek tartott módon való megosztása, ide nem értve a fizetett kutatást és fejlesztést;
+
+12\. *lehetséges versenytárs:* olyan vállalkozás, amely a kutatási és fejlesztési megállapodás hiányában, valós alapokon és nem pusztán elméleti lehetőségként, valószínűsíthetően legfeljebb három éven belül vállalná az olyan termék, technológia vagy eljárás kínálásához szükséges további beruházásokat vagy költségeket, amely a szerződés szerinti termékkel vagy technológiával továbbfejleszthető, helyettesíthető vagy felváltható az érintett földrajzi piacon;
+
+13\. *megállapodás:* vállalkozások közötti megállapodás, összehangolt magatartás vagy a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 11. § (1) bekezdése szerinti szervezeteknek a döntése;
+
+14\. *megállapodásban részt vevő vállalkozás:* a kutatási és fejlesztési megállapodásban részt vevő vállalkozás, továbbá a kutatási és fejlesztési megállapodásban részt vevő vállalkozás kapcsolt vállalkozása;
+
+15\. *passzív értékesítés:* egyéni vevők általi kéretlen megkeresés nyomán történő értékesítés, beleértve a termékek ilyen vevőknek történő szállítását anélkül, hogy az értékesítést az adott vevőt, vevőcsoportot vagy területet aktívan megcélzó reklámmal kezdeményezték volna, valamint ideértve a közbeszerzésben való részvételből vagy a magán ajánlattételi felhívásra való jelentkezésből eredő értékesítéseket;
+
+16\. *szellemi tulajdonjog:* az iparjogvédelmi jogok, a szerzői jog és a szerzői joggal szomszédos jogok;
+
+17\. *szerződés szerinti technológia:* a közös vagy fizetett kutatás és fejlesztés eredményeként előálló technológia vagy eljárás;
+
+18\. *szerződés szerinti termék:* a közös vagy fizetett kutatás és fejlesztés eredményeként előálló, illetve a szerződés szerinti technológia alkalmazásával előállított termék;
+
+19\. *termék:* áru vagy szolgáltatás, ideértve a közbenső termékeket vagy a részszolgáltatásokat, valamint a végtermékeket vagy a végső szolgáltatásokat;
+
+20\. *tényleges versenytárs:* az érintett földrajzi piacon a szerződés szerinti termék vagy technológia által továbbfejleszthető, helyettesíthető vagy felváltható terméket, technológiát vagy eljárást kínáló vállalkozás;
+
+21\. *vállalkozás:* a Tpvt. 1. § (1) bekezdése szerinti vállalkozás;
+
+22\. *versenytárs:* a tényleges vagy lehetséges versenytárs.
+
+(2) Kapcsolt vállalkozásnak minősül az a vállalkozás,
+
+a) amelyben a kutatási és fejlesztési megállapodásban részt vevő vállalkozás közvetlenül vagy közvetve rendelkezik a következő jogok vagy hatáskörök közül eggyel vagy többel:
+
+aa) a szavazati jogok több mint felével rendelkezik,
+
+ab) jogosult a felügyelő, ellenőrző vagy irányító szerv vagy a vállalkozás képviseletére jogosult szerv tagjai több mint felének kinevezésére, vagy
+
+ac) jogosult a vállalkozás ügyeinek irányítására;
+
+b) amely a kutatás és fejlesztési megállapodásban részt vevő vállalkozások közül valamelyik tekintetében közvetlenül vagy közvetve az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+c) amely tekintetében a b) pontban említett vállalkozás közvetlenül vagy közvetve az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+d) amelyben a kutatás és fejlesztési megállapodásban részt vevő valamely vállalkozás az a), b) vagy c) pontban említett vállalkozások egyikével vagy közülük többel, illetve az utóbbi vállalkozások közül kettő vagy több együttesen az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel rendelkezik;
+
+e) amelyben az a) pontban felsorolt jogok vagy hatáskörök közül eggyel vagy többel együttesen rendelkeznek
+
+ea) a kutatás és fejlesztési megállapodásban részt vevő vállalkozások vagy azoknak az a)–d) pontban említett kapcsolt vállalkozásai vagy
+
+eb) a kutatás és fejlesztési megállapodásban részt vevő egy vagy több vállalkozás vagy azoknak az a)–d) pontban említett egy vagy több kapcsolt vállalkozása, valamint egy vagy több harmadik fél.
+
+(3) Kutatási és fejlesztési megállapodás a két vagy több vállalkozás között létrejött olyan megállapodás, amelyben a résztvevő vállalkozások a következő feltételek bármelyikéről állapodnak meg:
+
+a) a szerződés szerinti termékre vagy technológiára vonatkozó közös kutatás és fejlesztés, amely
+
+aa) nem foglalja magában az adott kutatás és fejlesztés eredményeinek közös hasznosítását, vagy
+
+ab) magában foglalja az adott kutatás és fejlesztés eredményeinek közös hasznosítását;
+
+b) a szerződés szerinti termékre vagy technológiára vonatkozó fizetett kutatás és fejlesztés, amely
+
+ba) nem foglalja magában az adott kutatás és fejlesztés eredményeinek közös hasznosítását, vagy
+
+bb) magában foglalja az adott kutatás és fejlesztés eredményeinek közös hasznosítását;
+
+c) az ugyanazon vállalkozások közötti, az a) pont hatálya alá tartozó korábbi megállapodás alapján végzett, szerződés szerinti termékre vagy technológiára vonatkozó kutatás és fejlesztés eredményeinek közös hasznosítása,
+
+d) az ugyanazon vállalkozások közötti, a b) pont hatálya alá tartozó korábbi megállapodás alapján végzett, szerződés szerinti termékre vagy technológiára vonatkozó kutatás és fejlesztés eredményeinek közös hasznosítása.
+
+## 2. Mentesülés
+
+### 2. §
+
+(1) Az e rendeletben meghatározott feltételek szerint – a Tpvt. 17. §-ában meghatározott szempontokra figyelemmel, a Tpvt. 16/A. § (1) bekezdésében meghatározott fenntartással – a versenykorlátozást tartalmazó kutatási és fejlesztési megállapodás mentesül a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.
+
+(2) Az (1) bekezdés szerinti mentesülés kiterjed arra a kutatási és fejlesztési megállapodásra is, amely a szellemi tulajdonjog egy vagy több, a megállapodásban részt vevő vállalkozás részére, vagy egy, a megállapodásban részt vevő vállalkozások által közös kutatás és fejlesztés, fizetett kutatás és fejlesztés vagy közös hasznosítás céljából létrehozott szervezetre történő átruházására vagy annak részére szellemi tulajdonjogi oltalom tárgya hasznosításának engedélyezésére vonatkozó rendelkezést tartalmaz, feltéve, hogy az ilyen rendelkezés nem az érintett megállapodás elsődleges tárgyát képezi, valamint az érintett megállapodás végrehajtásához közvetlenül kapcsolódik, és ahhoz szükséges.
+
+(3) Az (1) és (2) bekezdés szerinti mentesülés feltétele, hogy a kutatási és fejlesztési megállapodás megfeleljen a 3. §-ban meghatározott feltételeknek.
+
+## 3. A mentesség különös feltételei
+
+### 3. §
+
+(1) Az e rendelet szerinti kutatási és fejlesztési megállapodásban rendelkezni kell arról, hogy a megállapodásban részt vevő valamennyi vállalkozás teljes mértékben jogosult hozzáférni a közös kutatás és fejlesztés vagy fizetett kutatás és fejlesztés végeredményeihez.
+
+(2) Az (1) bekezdésben előírt hozzáférésnek magába kell foglalnia
+
+a) a kutatás és fejlesztésből eredő szellemi tulajdonjogokat és know-how-t és
+
+b) a kutatás és fejlesztés eredményeit, amint azok rendelkezésre állnak.
+
+(3) A kutatási és fejlesztési megállapodás előírhatja, hogy a megállapodásban részt vevő vállalkozások az eredményekhez további kutatás és fejlesztés vagy hasznosítás céljából történő hozzáférés biztosításáért megfelelő, a hozzáférést ténylegesen nem akadályozó mértékű ellenszolgáltatást kötelesek nyújtani egymásnak.
+
+(4) Kereskedelmi szolgáltatásként kutatást és fejlesztést végző olyan kutatóintézetek, tudományos testületek vagy vállalkozások, amelyek az eredmények hasznosítására irányuló tevékenységet rendszerint nem folytatnak, kötelezettséget vállalhatnak arra, hogy az eredményeket kizárólag a további kutatás és fejlesztés céljára használják fel.
+
+(5) Az eredményekhez hasznosítás céljából történő hozzáférés annyiban korlátozható, amennyiben a megállapodásban részt vevő vállalkozások a hasznosításhoz fűződő jogaikat az e rendeletben foglaltak szerint, így különösen hasznosítás céljából történő szakosítás keretében korlátozzák.
+
+(6) Ha a kutatási és fejlesztési megállapodás nem foglalja magába az eredmények közös hasznosítását, a 2. § szerinti mentesülés tekintetében a (7) és (8) bekezdésben meghatározott feltételek is irányadóak.
+
+(7) A kutatási és fejlesztési megállapodásban rendelkezni kell arról, hogy a megállapodásban részt vevő valamennyi vállalkozás teljes mértékben jogosult hozzáférni a többi vállalkozás már meglévő saját azon know-how-jához, amely az eredmények hasznosításához elengedhetetlenül szükséges.
+
+(8) A (7) bekezdésben meghatározott esetben a kutatási és fejlesztési megállapodás előírhatja, hogy a megállapodásban részt vevő vállalkozások a már meglévő saját know-how-hoz való hozzáférés biztosításáért megfelelő, a hozzáférést ténylegesen nem akadályozó mértékű ellenszolgáltatást kötelesek nyújtani egymásnak.
+
+(9) Ha a kutatási és fejlesztési megállapodás magába foglalja az eredmények közös hasznosítását, a 2. § szerinti mentesülés azzal a feltétellel alkalmazható, hogy a közös hasznosítás csak olyan eredményekre vonatkozik, amelyek
+
+a) nélkülözhetetlenek a szerződés szerinti termékek előállításához vagy a szerződés szerinti technológiák alkalmazásához, és
+
+b) szellemi tulajdonjogi oltalom alatt állnak vagy know-how-nak minősülnek.
+
+(10) Ha a hasznosítás vonatkozásában történő szakosítás alapján egy vagy több vállalkozás feladata a szerződés szerinti termék előállítása, a 2. § szerinti mentesülést azzal a feltétellel kell alkalmazni, hogy ezen vállalkozások kötelesek teljesíteni a szerződés szerinti termék beszerzésére vonatkozó, a többi vállalkozástól származó megrendeléseket, kivéve, ha
+
+a) a kutatási és fejlesztési megállapodás rendelkezik a közös munkacsoport, szervezet vagy vállalkozás vagy a megállapodásban részt vevő vállalkozások által közösen megbízott harmadik fél általi forgalmazásról is, vagy
+
+b) a megállapodásban részt vevő vállalkozások megállapodtak abban, hogy a szerződés szerinti terméket kizárólag az azokat előállító vállalkozás forgalmazhatja.
+
+## 4. A mentesülés időtartama és a piaci részesedési küszöbre vonatkozó szabályok
+
+### 4. §
+
+(1) Ha a megállapodásban részt vevő vállalkozások közül kettő vagy több egymás versenytársának minősül, akkor a 2. § szerinti mentesülés a kutatás és fejlesztés teljes időtartamára kiterjed, amennyiben a kutatási és fejlesztési megállapodás megkötésének időpontjában
+
+a) az 1. § (3) bekezdés a) és c) pontja szerinti kutatási és fejlesztési megállapodások esetében a kutatási és fejlesztési megállapodásban részt vevő vállalkozások együttes piaci részesedése nem haladja meg a 25%-ot az érintett termék- és technológiapiacokon, vagy
+
+b) az 1. § (3) bekezdés b) és d) pontja szerinti kutatási és fejlesztési megállapodások esetében a finanszírozó vállalkozás és mindazon vállalkozások együttes piaci részesedése, amelyekkel a finanszírozó vállalkozás azonos szerződés szerinti termékre vagy technológiára vonatkozó kutatási és fejlesztési megállapodást kötött, nem haladja meg a 25%-ot az érintett termék- és technológiapiacokon.
+
+(2) Ha a megállapodásban részt vevő vállalkozások nem versenytársak, a 2. § szerinti mentesülés a kutatás és fejlesztés teljes időtartamára kiterjed.
+
+(3) Az olyan kutatási és fejlesztési megállapodások esetében, ahol az eredményeket közösen hasznosítják, a megállapodás a szerződés szerinti terméknek vagy technológiának Magyarország területén történő első forgalomba hozatalától számított hét évig továbbra is mentesül, amennyiben az 1. § (3) bekezdés a) vagy b) pontja alá tartozó megállapodás megkötésének időpontjában teljesülnek az (1) vagy (2) bekezdésben előírt feltételek. Ahhoz, hogy az 1. § (3) bekezdés c) és d) pontjában említett megállapodás ilyen folytatólagos mentesülésben részesüljön, az (1) és (2) bekezdésben előírt feltételeknek teljesülniük kell az 1. § (3) bekezdés a) vagy b) pontja szerinti korábbi megállapodás megkötésének időpontjában.
+
+(4) A (3) bekezdés szerinti hétéves időszak lejártát követően a 2. § szerinti mentesülés továbbra is alkalmazandó, ha
+
+a) az 1. § (3) bekezdés a) és c) pontja szerinti kutatási és fejlesztési megállapodások esetében a megállapodásban részes vállalkozások együttes piaci részesedése nem haladja meg a 25%-ot azon a piacon, amelyhez az érintett termékek vagy technológiák tartoznak, vagy
+
+b) az 1. § (3) bekezdés b) és d) pontja szerinti kutatási és fejlesztési megállapodások esetében a finanszírozó vállalkozás és mindazon vállalkozások együttes piaci részesedése, amelyekkel a finanszírozó vállalkozás azonos szerződés szerinti termékek vagy technológiák vonatkozásában kutatási és fejlesztési megállapodást kötött, nem haladja meg a 25%-ot azon a piacon, amelyhez az érintett termékek vagy technológiák tartoznak.
+
+(5) Ha az érintett vállalkozások együttes piaci részesedése a (3) bekezdésben említett hétéves időszak végén nem haladja meg a (4) bekezdésben említett vonatkozó küszöbértékeket, de ezt követően a küszöbérték fölé emelkedik, a 2. § szerinti mentesülést továbbra is alkalmazni kell az attól az évtől számított két egymást követő naptári éven keresztül, amelyben a vonatkozó piaci részesedési küszöbértékeket először túllépték.
+
+### 5. §
+
+(1) A piaci részesedést a piaci eladások értékére vonatkozó adatok alapján kell kiszámítani. Ha a piaci eladási értékekre vonatkozó adat nem áll rendelkezésre, az érintett vállalkozás piaci részesedését a piaci értékesítés mennyisége alapján lehet meghatározni. Ha ez utóbbiról sem áll rendelkezésre adat, más megbízható piaci információn – különösen a kutatásra és fejlesztésre fordított kiadásokon vagy a kutatási és fejlesztési képességeken – alapuló becsléseket lehet felhasználni.
+
+(2) A piaci részesedést az előző naptári évre vonatkozó adatok alapján kell kiszámítani.
+
+(3) A (2) bekezdés nem alkalmazható, ha az előző naptári év nem reprezentatív a vállalkozásoknak az érintett piacon elfoglalt pozíciójára nézve. Ebben az esetben a piaci részesedést a vállalkozások előző három naptári évre vonatkozó piaci részesedéseinek átlagaként kell kiszámítani.
+
+(4) A piaci részesedési küszöb alkalmazása szempontjából az 1. § (2) bekezdés e) pontja szerinti vállalkozások piaci részesedését az 1. § (2) bekezdés a) pontjában felsorolt jogokkal, illetve hatáskörökkel rendelkező vállalkozások között egyenlő arányban kell felosztani.
+
+## 5. Különösen súlyos korlátozások miatt nem mentesülő megállapodások
+
+### 6. §
+
+A 2. § szerinti mentesülés nem alkalmazható arra a kutatási és fejlesztési megállapodásra, amelynek célja közvetlenül vagy közvetetten, önmagában vagy más, a megállapodásban részt vevő vállalkozások ellenőrzése alatt álló tényezőkkel együtt
+
+a) a megállapodásban részt vevő vállalkozások szabadságának korlátozása abban, hogy önállóan vagy a megállapodásban részt nem vevő vállalkozással együttműködve kutatást és fejlesztést végezzenek;
+
+aa) a kutatási és fejlesztési megállapodás tárgyához nem kapcsolódó területen, vagy
+
+ab) a közös vagy a fizetett kutatás és fejlesztés befejeztével ugyanazon vagy más, ahhoz kapcsolódó területen;
+
+b) az előállítás vagy értékesítés korlátozása, kivéve
+
+ba) az előállítási célok kitűzését, ha az eredmények közös hasznosítása magában foglalja a szerződés szerinti termékek közös előállítását,
+
+bb) az értékesítési célok kitűzését, ha az eredmények közös hasznosítása magában foglalja a szerződés szerinti termékek közös forgalmazását vagy a szerződés szerinti technológiák közös hasznosítására engedély adását az 1. § (1) bekezdés 9. pont a) vagy b) alpontja szerint,
+
+bc) a hasznosítás céljából történő szakosításnak minősülő gyakorlatokat, illetve
+
+bd) a megállapodásban részt vevő vállalkozások szabadságának korlátozását abban, hogy a szerződés szerinti termékkel vagy technológiával versengő terméket, technológiát vagy eljárást állítsanak elő, értékesítsenek, ruházzanak át vagy hasznosítását engedélyezzék az eredmények közös hasznosítására a megállapodásban részt vevő vállalkozások által megállapított időtartamon belül;
+
+c) az árak rögzítése a szerződés szerinti terméknek a megállapodásban nem részes vállalkozás részére történő értékesítése vagy a szerződés szerinti technológia hasznosítására a megállapodásban nem részes vállalkozás részére történő engedélyezése tekintetében, kivéve a közvetlen üzletfelek esetében alkalmazott árak vagy a hasznosítási engedély közvetlen jogosultjai esetében alkalmazott hasznosítási díj rögzítését, amennyiben az eredmények közös hasznosítása magában foglalja
+
+ca) a szerződés szerinti termékek közös forgalmazását vagy
+
+cb) a szerződés szerinti technológia közös hasznosítására engedély adását
+
+az 1. § (1) bekezdés 9. pont a) vagy b) alpontja szerint;
+
+d) a szerződés szerinti termék passzív értékesítésének vagy a szerződés szerinti technológia hasznosítására engedély adásának kizárása meghatározott terület vagy üzletfél vonatkozásában, kivéve az eredményekre vonatkozóan a megállapodásban nem részes vállalkozás részére kizárólagos hasznosítási engedély adására vonatkozó követelményt;
+
+e) a szerződés szerinti termék vagy technológia aktív értékesítésének kizárása vagy korlátozása a megállapodásban részt vevő valamely vállalkozáshoz hasznosítás céljából történő szakosítás keretében kizárólagosan hozzá nem rendelt területen vagy üzletfél vonatkozásában;
+
+f) annak előírása, hogy a megállapodásban részt vevő vállalkozások tagadják meg a saját területükön lévő, illetve hasznosítás céljából történő szakosítás alapján a megállapodásban részt vevő vállalkozások között bármely más formában megosztott azon üzletfelek igényeinek kielégítését, amelyek a szerződés szerinti termékeket Magyarország területén belül más területeken forgalmaznák;
+
+g) annak előírása, hogy a megállapodásban részes vállalkozások nehezítsék meg a felhasználók vagy viszonteladók számára a szerződés szerinti termékeknek Magyarország területén más viszonteladóktól történő beszerzését.
+
+## 6. Nem mentesülő korlátozások
+
+### 7. §
+
+(1) A 2. § szerinti mentesülés nem alkalmazható a kutatási és fejlesztési megállapodásokban szereplő azon kötelezettség esetén, amely alapján kizárt
+
+a) a kutatás és fejlesztés befejeztével eljárás kezdeményezése a Magyarország területén oltalomban részesülő, a kutatás és fejlesztés szempontjából jelentős azon szellemi tulajdonjog megsemmisítése iránt, amelynek a megállapodásban részt vevő vállalkozások a jogosultjai, vagy
+
+b) a kutatási és fejlesztési megállapodás hatálytalanná válását követően eljárás kezdeményezése a Magyarország területén oltalomban részesülő, a kutatás és fejlesztés eredményeit védő azon szellemi tulajdonjog megsemmisítése iránt, amelynek a megállapodásban részt vevő vállalkozások a jogosultjai;
+
+c) a szerződés szerinti termék előállítására, illetve a szerződés szerinti technológia alkalmazására vonatkozóan a megállapodásban részt nem vevő vállalkozásnak hasznosítási engedély adása, kivéve, ha a megállapodás a közös vagy fizetett kutatás és fejlesztés eredményeinek a megállapodásban részt vevő legalább egy vállalkozás által történő hasznosításáról rendelkezik, és ilyen hasznosításra Magyarország területén a megállapodásban részt nem vevő vállalkozás tekintetében sor kerül.
+
+(2) Az (1) bekezdés a) és b) pontja nem alkalmazandó abban az esetben, ha a kutatási és fejlesztési megállapodás felmondásra kerül, mert valamelyik megállapodásban részt vevő vállalkozás megtámadja az (1) bekezdés a) és b) pontjában említett szellemi tulajdonjogok érvényességét.
+
+(3) Amennyiben a kutatási és fejlesztési megállapodás tartalmazza az (1) bekezdésben említett kizárt korlátozások valamelyikét, a 2. § szerinti mentesülés továbbra is alkalmazandó a kutatási és fejlesztési megállapodás fennmaradó részére, feltéve, hogy a kizárt korlátozások elválaszthatóak a fennmaradó résztől, és e rendelet egyéb feltételei teljesülnek.
+
+## 7. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet 2023. október 15. napján lép hatályba.
+
+### 9. §
+
+A rendelet hatálybalépését megelőzően már hatályba lépett azon megállapodások, amelyek megfelelnek az e rendelet hatálybalépését megelőzően hatályos, a kutatási és fejlesztési megállapodások egyes csoportjainak a versenykorlátozás tilalma alóli mentesítéséről szóló jogszabályi előírásoknak, az e rendelet hatálybalépését követően két évig továbbra is mentesülnek a gazdasági versenyt korlátozó megállapodásokra vonatkozó, a Tpvt. 11. §-ában meghatározott tilalom alól.

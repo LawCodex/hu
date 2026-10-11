@@ -1,0 +1,151 @@
+---
+title: "259/2025. (VIII. 11.) Korm. rendelet a magyarországi turizmus és vendéglátóipar fejlesztése érdekében kialakított finanszírozási konstrukciókhoz kapcsolódó egyes intézkedésekről"
+identifier: "259/2025. (VIII. 11.) Korm. rendelet"
+njt_id: "2025-259-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/259"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-08-11
+in_force_from: 2025-08-12
+last_amended: 2025-11-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-259-20-22"
+retrieved: 2026-10-12
+---
+
+# 259/2025. (VIII. 11.) Korm. rendelet a magyarországi turizmus és vendéglátóipar fejlesztése érdekében kialakított finanszírozási konstrukciókhoz kapcsolódó egyes intézkedésekről
+
+[1] E rendelet célja a magyarországi turizmus nemzetgazdaságban betöltött kiemelkedő szerepére figyelemmel, a turizmus és vendéglátóipari ágazat hosszú távú, stabil bővülése érdekében a Kisfaludy Turisztikai Hitelközpont Zártkörűen Működő Részvénytársaság által a magyarországi turizmus és vendéglátóipari szektor finanszírozása céljából igénybe vett hitelekből és felvett kölcsönökből eredő fizetési kötelezettségeinek teljesítéséért az állam által vállalt készfizető kezességvállalás részletszabályainak és a Kisfaludy Turisztikai Hitelközpont Zártkörűen Működő Részvénytársaság által nyújtott finanszírozási konstrukcióknak, valamint az ezekhez kapcsolódó kamattámogatásnak a megállapítása.
+
+[2] A Kormány a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény 10. § o) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás;
+
+2\. *átlátható formában nyújtott támogatás:* olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom;
+
+3\. *bruttó támogatási egyenérték:* a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (a továbbiakban: 651/2014/EU bizottsági rendelet) 2. cikk 22. pontja szerinti támogatási összeg;
+
+4\. *csekély összegű támogatás:*
+
+a) az (EU) 2023/2831 bizottsági rendelet szerinti támogatás,
+
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti támogatás, valamint
+
+c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás;
+
+5\. *csoportmentességi rendeletek:* a 651/2014/EU bizottsági rendelet, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló (EU) 2022/2472 bizottsági rendelet, az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló (EU) 2022/2473 bizottsági rendelet;
+
+6\. *egy és ugyanazon vállalkozás:* az Atr. 2. § 5a. pontja szerinti vállalkozás;
+
+7\. *elszámolható költség:* az Atr. 2. § 6. pontja szerinti költség;
+
+8\. *támogatástartalom:* az Atr. 2. § 19. pontja szerinti tartalom.
+
+## 2. §
+
+(1) A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus törvény) 9/M. § (2) bekezdése alapján nyújtott hitelek és pénzkölcsönök (a továbbiakban együtt: KTH Turisztikai Hitelkonstrukciók) a turizmus és vendéglátóipari ágazatban az alábbi célokra vehetők igénybe:
+
+a) ingatlanfejlesztés és -bővítés,
+
+b) eszközfejlesztés és -bővítés,
+
+c) fenntarthatóság fejlesztése,
+
+d) munkaerő-problémák kezelése,
+
+e) készletfenntartás,
+
+f) értékesítés javítása,
+
+g) digitalizáció elősegítése.
+
+(2) A KTH Turisztikai Hitelkonstrukciókat azon – a KTH Turisztikai Hitelkonstrukciók Üzletszabályzatában rögzített igénybevételi feltételeknek megfelelő – természetes és nem természetes személyek, valamint jogi személyiséggel nem rendelkező szervezetek vehetik igénybe, amelyek
+
+a) szálláshely-szolgáltatással,
+
+b) vendéglátóüzlet-üzemeltetéssel,
+
+c) turisztikaiattrakció-üzemeltetéssel
+
+foglalkoznak.
+
+(3) A KTH Turisztikai Hitelkonstrukciók keretében nyújtott hitel vagy pénzkölcsön forintalapú, annak összege nem haladhatja meg
+
+a) a KTH Start Hitelprogramok esetében a 10 000 000 forintot,
+
+b) a KTH Midi Hitelprogramok esetében a 25 000 000 forintot,
+
+c) a KTH Plusz Hitelprogramok esetében a 100 000 000 forintot.
+
+(4) A KTH Turisztikai Hitelkonstrukciók keretében nyújtott hitel vagy pénzkölcsön futamideje nem haladhatja meg az 5 évet.
+
+(5) A KTH Turisztikai Hitelkonstrukciók keretében nyújtott hitel- és pénzkölcsön-konstrukciók részletes feltételeit a KTH Turisztikai Hitelkonstrukciók turizmusért felelős miniszter által jóváhagyott Üzletszabályzata tartalmazza.
+
+## 3. §
+
+(1) A KTH Turisztikai Hitelkonstrukciók keretében a 2. § szerint nyújtott hitel vagy pénzkölcsön felvevője a központi költségvetés terhére az e rendeletben meghatározott kamattámogatásban részesül.
+
+(2)[^1] A KTH Turisztikai Hitelkonstrukciók keretében nyújtott hitel vagy pénzkölcsön felvevője által fizetendő kamat mértéke – a teljes futamidő alatt – legfeljebb évi 3,00%.
+
+(3) A kamattámogatás mértéke a Kisfaludy Turisztikai Hitelközpont Zártkörűen Működő Részvénytársaság (a továbbiakban: KTH Zrt.) – KTH Turisztikai Hitelkonstrukciókra jutó – forrásköltségének és működési költségeinek a (2) bekezdés alapján meg nem térülő összege.
+
+(4) A kamattámogatás számításának módjáról, nyújtásának részletszabályairól a turizmusért felelős miniszter szerződésben állapodik meg a KTH Zrt.-vel.
+
+## 4. §
+
+(1) A Turizmus törvény 9/M. §-a szerinti állami készfizető kezességvállalás (a továbbiakban: állami kezességvállalás) a KTH Turisztikai Hitelkonstrukciók 25 000 000 forintot meg nem haladó mértékű igényelhető hitelösszeget tartalmazó hitelprogramjai finanszírozását szolgáló hitelekből és kölcsönökből eredő fizetési kötelezettségekhez kapcsolódik.
+
+(2) Az állami kezességvállalás adatairól a KTH Zrt. folyamatos nyilvántartást vezet, amelyben rögzíti az általa igénybe vett hitelek és felvett kölcsönök állományát, az azokhoz kapcsolódó esedékes fizetési kötelezettségeket, továbbá az ezen források terhére az (1) bekezdés szerint nyújtott hitelek és pénzkölcsönök állományát. A nyilvántartásnak tartalmaznia kell az állami kezességvállalás állományát, amely a KTH Zrt. (1) bekezdés szerint nyújtott hitelek és pénzkölcsönök állományát finanszírozó adósságot terhelő fizetési kötelezettsége 80%-ának felel meg.
+
+(3) A KTH Zrt. a (2) bekezdés szerinti adatokról és az állami kezesség beváltásának valószínűségéről negyedévente – elektronikus úton – tájékoztatja az államháztartásért felelős minisztert és a turizmusért felelős minisztert.
+
+(4) A (3) bekezdés szerinti miniszterek által vezetett minisztériumok jogosultak a (3) bekezdés szerinti tájékoztatás ellenőrzésére, amelynek lefolytatásához szakértőt is igénybe vehetnek. A KTH Zrt. köteles az ellenőrzés során együttműködni.
+
+(5) Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet [a továbbiakban: 110/2006. (V. 5.) Korm. rendelet] 8. § (1) bekezdése szerinti adatszolgáltatást a KTH Zrt. teljesíti.
+
+(6) Az állami kezességvállalásért a KTH Zrt. által fizetendő kezességvállalási díj mértéke évi 2,0%.
+
+(7) A KTH Zrt. által évente fizetendő kezességvállalási díj alapja az állami kezességvállalás (2) bekezdés szerint számított állományának minősülő hitelek és kölcsönök 365 napi záróállománya átlagos összegének 80%-a.
+
+(8) A KTH Zrt. a kezességvállalási díjat a tárgyévet követő év március 31-ig az 10032000-01034004-00000000 számú Különleges bevételek számlára történő átutalás útján köteles megfizetni. Az átutalásnál szükséges feltüntetni, hogy a befizetés a Turizmus törvény 9/M. §-a szerinti állami kezességvállalás díja.
+
+## 5. §
+
+Az állami kezességvállalás érvényesítésére a 110/2006. (V. 5.) Korm. rendelet 8/E. §-ának a hitel- és kölcsönszerződésekre vonatkozó rendelkezéseit kell alkalmazni, azzal, hogy az érvényesítéssel érintett ügylet a Turizmus törvény 9/M. § (1) bekezdésében foglaltaknak felel meg.
+
+## 6. §
+
+(1) Az e rendelet 3. §-a alapján nyújtott kamattámogatás az EUMSZ 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és az (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatásként nyújtható.
+
+(2) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (e § alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+
+(3) Az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+
+(4) A kedvezményezettnek az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével − az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon − nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
+
+(5) A támogatást nyújtó a kedvezményezett részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről, bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
+
+(6) A támogatás, az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével, más csekély összegű támogatásokról szóló rendeletek alapján nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott értékhatárig halmozható.
+
+(7) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(8) Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetén halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
+
+(9) Az egy projekthez több forrásból igénybe vett összes állami támogatás mértéke – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – nem haladhatja meg az irányadó európai uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 8. §
+
+E rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+
+---
+
+[^1]: A 3. § (2) bekezdése a 345/2025. (XI. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.

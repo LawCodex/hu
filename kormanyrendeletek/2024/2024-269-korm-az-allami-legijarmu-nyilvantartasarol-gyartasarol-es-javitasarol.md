@@ -1,0 +1,1219 @@
+---
+title: "269/2024. (IX. 17.) Korm. rendelet az állami légijármű nyilvántartásáról, gyártásáról és javításáról, valamint annak típus- és légialkalmasságáról"
+identifier: "269/2024. (IX. 17.) Korm. rendelet"
+njt_id: "2024-269-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/269"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-09-17
+in_force_from: 2024-10-17
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-269-20-22"
+retrieved: 2026-10-12
+---
+
+# 269/2024. (IX. 17.) Korm. rendelet az állami légijármű nyilvántartásáról, gyártásáról és javításáról, valamint annak típus- és légialkalmasságáról
+
+A Kormány
+
+a légiközlekedésről szóló 1995. évi XCVII. törvény 73/B. § h) pontjában kapott felhatalmazás alapján,
+
+a 67. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés a) pont ac) alpontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+E rendelet hatálya
+
+a) az állami légijármű üzemeltetőjére, üzembentartójára, fenntartójára,
+
+b) az állami légijármű üzemeltetéséért és az üzembentartásáért felelős szolgálati és szakmai szervezetekre, valamint
+
+c) az állami célú légiközlekedésben tevékenységet folytató vagy folytatni kívánó természetes vagy jogi személyekre
+
+terjed ki.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában
+
+1\. *alkatrész:* a légijármű üzemeltetéséhez elválaszthatatlanul szükséges alkotóelem;
+
+2\. *berendezés:* alkatrésznek nem minősülő olyan összetett alkotóelem, amely a légijármű rendeltetésszerű használatához hozzátartozik, azt elősegíti;
+
+3\. *Európai Katonai Légialkalmassági Követelményrendszer:* az Európai Védelmi Ügynökség légijárművek légialkalmassági követelményeinek egységesítésére kidolgozott eljárásrendje (European Military Airworthiness Requirements – EMAR);
+
+4\. *fedélzeti azonosító jel:* az állami légijárművön feltüntetett, betűkből, számokból, kötőjelből vagy ezek kombinációjából álló, a légijármű egyedi azonosítására szolgáló jelzés;
+
+5\. *fenntartó:* az állami légijármű üzembentartásának feltételeit meghatározó, továbbá az üzemeltetés és üzembentartás feltételeit biztosító szakmai szervezet;
+
+6\. *folyamatos légialkalmasság fenntartása:* minden olyan folyamat, amely biztosítja, hogy a légijármű élettartama alatt folyamatosan megfeleljen a hatályos légialkalmassági követelményeknek, és biztonságos üzemeltetésre alkalmas legyen (Continuing Airworthiness Management – CAM);
+
+7\. *folyamatos légialkalmasság fenntartó szervezet:* a légijármű légialkalmassági bizonyítványban rögzített konfigurációnak való megfelelését, valamint az érvényes, a gyártó által kiadott légijármű karbantartási utasítás szerinti feladatok megfelelő időben és tartalommal történő elvégzését biztosító szervezet (Continuing Airworthiness Management Organization – CAMO);
+
+8\. *Fő Minimális Berendezés Lista:* egy adott légijármű-típusra vonatkozó, a gyártó szervezet által összeállított és a Hatóság által jóváhagyott lista, amely azonosítja azokat a berendezéseket, amelyek üzemképtelensége a repülés biztonságos végrehajtására nincs hatással (Master Minimum Equipment List – MMEL);
+
+9\. *javítás:* a gyártó általi üzembe helyezést követően végzett, bármely légijármű, alkatrész vagy berendezés károsodásának megszüntetésére és légialkalmasságának helyreállítására irányuló tevékenység;
+
+10\. *jelentős módosítás:* a légijárművön, az alkatrészen, a berendezésen vagy a légijármű üzembentartási rendszerén végrehajtott, a kisebb módosítást meghaladó, a légijármű típus- vagy légialkalmasságát befolyásoló változtatás (major modification);
+
+11\. *Katonai Légialkalmassági Bizonyítvány:* egy adott, a Hatóság által már tanúsított légijármű típushoz tartozó légijármű egyedi megfelelőségét és biztonságos légiközlekedésre való alkalmasságát igazoló okmány (Military Certificate of Airworthiness – MCoA);
+
+12\. *Katonai Légialkalmassági Felülvizsgálati Bizonyítvány:* a légialkalmassági bizonyítvánnyal rendelkező és az időszakos légialkalmassági felülvizsgálat során is légialkalmasnak minősített légijármű légialkalmasságát igazoló okmány (Military Airworthiness Review Certificate – MARC);
+
+13\. *Katonai Nyilvántartásba Vételi Bizonyítvány:* az adott légijármű nyilvántartásba vételét igazoló okmány (Military Certificate of Registration – MCoR);
+
+14\. *Katonai Típusalkalmassági Bizonyítvány:* az állami légijármű vagy a légijármű komponens légialkalmassági követelményeknek és repülőipari szabványoknak való megfelelését igazoló okmány (Military Type Certificate – MTC);
+
+15\. *Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet:* az a szervezet, amely a hatóság által az adott típusú légijárműre vonatkozó Katonai Típusalkalmassági Bizonyítványt a légijármű gyártójaként, fenntartójaként vagy azok nevében, de önálló szervezetként birtokolja (Military Type Certificate Holder Organisation – MTCHO);
+
+16\. *Katonai Zajbizonyítvány:* az adott légijármű típus Nemzetközi Polgári Repülési Egyezmény (Chicagói Egyezmény) 16. függelék 1. kötete szerinti zaj előírásoknak való megfelelőségét igazoló bizonyítvány (Military Noise Certificate – MNC);
+
+17\. *Kiegészítő Katonai Típusalkalmassági Bizonyítvány:* a típustervben az eredeti tervező szervezettől különböző – tevékenységi engedéllyel rendelkező – szervezet által elvégzett jelentős változtatást igazoló, Hatóság által kiadott dokumentum (Military Supplemental Type Certificate – MSTC);
+
+18\. *kisebb módosítás:* olyan módosítás, amelynek nincs észlelhető hatása a repülési tulajdonságra, a tömegre, az egyensúlyra, a szerkezeti szilárdságra, a megbízhatóságra, az üzemeltetési jellemzőkre, a zajszintre, a tüzelőanyag-kieresztésre, az égéstermék kibocsátásra vagy a termék légialkalmasságát befolyásoló egyéb tulajdonságára (minor modification);
+
+19\. *közlöny*: a gyártó vagy a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet által kiadott, a légijármű szerkezetének, üzemeltetésének, üzembentartásának módosítását előíró közlemény (bulletin);
+
+20\. *légialkalmasság:* egy légijármű vagy légijármű komponens azon képessége, hogy repülés közben és a földön anélkül működjön, hogy veszélyt jelentene a légijármű személyzetére, a földi személyzetre, az utasokra vagy más személyekre;
+
+21\. *légijármű kategória:* a pilóta nélküli légijármű kategóriák kivételével az Európai Katonai Légialkalmassági Követelményrendszer szerinti légijármű és légijármű komponens kategória, beleértve a nem személyzeti mentőernyőként funkcionáló állami célú ejtőernyőket és a nem teher kijuttatására szolgáló állami célú ejtőernyőket;
+
+22\. *légijármű üzemi napló:* a gyártó által kiadott hiteles kísérő dokumentum, amely a légijármű és főbb komponensei üzemidejének, valamint a rajtuk végzett műszaki munkák, javítások, berendezéscserék nyilvántartására, továbbá hivatalos bejegyzésekre szolgál azok teljes élettartama alatt (logbook);
+
+23\. *Minimális Berendezés Lista:* az üzembentartó által elkészített és a Hatóság által jóváhagyott olyan lista, amely meghatározott feltételekhez kötve, a Fő Minimális Berendezési Listával összhangban vagy annál szigorúbb előírás szerint tartalmazza azon egyedi berendezések jegyzékét, amelyek üzemképtelensége esetén a repülés még biztonságosan végrehajtható (Minimum Equipment List – MEL);
+
+24\. *módosítás:* egy légijármű, alkatrész vagy berendezés jóváhagyott típusterve vagy üzembentartási rendszere engedélyezett konfigurációjának megváltoztatása;
+
+25\. *nagyjavítás:* a légijármű vagy berendezés részleges vagy teljes szétszerelésével járó, az alkatrészek tisztítását, a hiba felvételezését, a hibás, elhasználódott elemek, egységek cseréjét vagy felújítását, továbbá összeszerelés után a részegységek, illetve rendszerek üzemképességének ellenőrzését magában foglaló tevékenység;
+
+26\. *nyilvántartás:* a légiközlekedésről szóló 1995. évi XCVII. törvény 12. § (2) bekezdése alapján vezetett Magyar Állami Légijármű Nyilvántartás;
+
+27\. *RAL színskála:* az Európában használt, különböző színek megjelenítésére szolgáló színegyeztető rendszer;
+
+28\. *üzemeltetés:* az állami légijármű légiközlekedésre történő előkészítése és használata, valamint a Katonai Típusalkalmassági Bizonyítványban érvényesnek elismert karbantartási utasításokban és a bevezetett közlönyökben előírt, a légijármű üzemeltetése során időszakonként vagy meghibásodás esetén végzett ellenőrzési, karbantartási és javítási feladatok összessége;
+
+29\. *üzemeltető:* az állami légijárművel repüléseket végrehajtó szervezet;
+
+30\. *üzemképességi tanúsítvány:* a légijármű előírásoknak megfelelő, tevékenységi engedéllyel rendelkező karbantartó szervezet által elvégzett karbantartását és a légijármű üzemképességét igazoló, az engedélyes szervezet által felhatalmazott személy által kiadott nyilatkozat (Certificate of Release to Service – CRS).
+
+## II. Fejezet — A NYILVÁNTARTÁSBA VÉTELLEL ÉS AZ ABBÓL TÖRTÉNŐ TÖRLÉSSEL KAPCSOLATOS ELJÁRÁSOK
+
+### 3. Nyilvántartásba vétel
+
+#### 3. §
+
+(1) Az állami légijármű – jogszabályban előírt feltételek mellett – a légiközlekedésben akkor vehet részt, ha a katonai légügyi hatóság (a továbbiakban: Hatóság) nyilvántartásba vette.
+
+(2) A Hatóság a Katonai Típusalkalmassági Bizonyítvánnyal rendelkező típushoz tartozó, a légialkalmassági követelményeknek – ideértve a légijármű jelzéseire vonatkozó követelményeket is – megfelelő, más hatóság vagy szervezet nyilvántartásában nem szereplő légijárművet veszi nyilvántartásba.
+
+(3)[^1]
+
+(4) A nyilvántartás nem nyilvános.
+
+#### 4. §
+
+A nyilvántartásba vételre irányuló eljárást kezdeményező kérelem tartalmazza
+
+a) a légijármű típusát,
+
+b) a hajtómű vagy a motor és a légcsavar típusát,
+
+c) a légijármű gyártója nevét,
+
+d) a légijármű gyári számát,
+
+e) a légijármű gyártási idejét, helyét,
+
+f) a légijármű rendeltetését,
+
+g) a légijármű tervezett fedélzeti azonosító jelét,
+
+h) a légijármű tulajdonosa nevét,
+
+i) a légijármű fenntartója nevét, címét,
+
+j) a légijármű üzembentartója nevét, címét,
+
+k) a légijármű üzemeltetője nevét, címét,
+
+l) a légialkalmassági bizonyítványt, amennyiben a légijármű érvényes, más hatóság által kiállított légialkalmassági bizonyítvánnyal rendelkezik, és
+
+m) amennyiben a légijármű más hatóság vagy szervezet nyilvántartásában már szerepelt, a légijármű nyilvántartásból való törléséről szóló, a légijárművet korábban nyilvántartó hatóság vagy szervezet által kiállított törlési nyilatkozatot vagy igazolást.
+
+#### 5. §
+
+(1) A Hatóság a légijárművet a fenntartó kérelmére a légijármű első légialkalmassági bizonyítványának kiadásával egyidejűleg nyilvántartásba veszi, és kiállítja a (3) bekezdés szerinti bizonyítványt.
+
+(2) A Hatóság a fenntartó által megjelölt helyszínen folytatja le az üzemképes állapotban lévő légijármű
+
+a) nyilvántartásba vételére,
+
+b) ideiglenes nyilvántartásba vételére vagy
+
+c) az első egyedi légialkalmassági bizonyítványa kiadására
+
+irányuló eljárás keretében végrehajtott szemlét.
+
+(3) A Hatóság a légijármű nyilvántartásba történő felvételéről két példányban, magyar és angol nyelvű szöveggel katonai nyilvántartásba vételi bizonyítványt állít ki. A bizonyítvány első példányát a fenntartó, második példányát a Hatóság őrzi.
+
+(4) A (3) bekezdés szerinti bizonyítvány tartalmazza
+
+a) a légijármű fedélzeti azonosítójelét,
+
+b) a légijármű típusát,
+
+c) a hajtómű típusát vagy a motor és a légcsavar típusát,
+
+d) a légijármű gyártója nevét,
+
+e) a légijármű gyári számát,
+
+f) a légijármű gyártási évét,
+
+g) a légijármű rendeltetését,
+
+h) a légijármű tulajdonosa nevét,
+
+i) a légijármű fenntartója nevét és címét,
+
+j) a légijármű üzembentartója nevét és címét,
+
+k) a légijármű üzemeltetője nevét és címét, valamint
+
+l) a légijármű egyedi légialkalmassági bizonyítványa számát.
+
+(5) A Hatóság a (3) bekezdés szerinti bizonyítványt annak megsemmisülése vagy elvesztése esetén a fenntartó bejelentése alapján visszavonja.
+
+(6) A fenntartó a (4) bekezdés szerinti adatokban bekövetkezett változást a változás bekövetkeztétől számított tizenöt napon belül bejelenti a Hatóságnak. A bejelentés alapján a Hatóság a bizonyítványt visszavonja, és új bizonyítványt állít ki.
+
+#### 6. §
+
+Az új típusú légijármű üzembe helyezését megelőzően lefolytatott légialkalmassági vizsgálat a nyilvántartásba-vételi eljárással egyidejűleg kerül lefolytatásra.
+
+### 4. Ideiglenes nyilvántartásba vétel
+
+#### 7. §
+
+(1) A fenntartó vagy a tervezett fenntartó egyetértése esetén a légijármű gyártója kérelmére a Hatóság a légijárművet a légialkalmassági követelményeknek való korlátozott megfelelése esetén ideiglenesen nyilvántartásba veszi
+
+a) kísérleti légijármű repülés céljából,
+
+b) új légijármű berepülése céljából,
+
+c) tesztprogramnak megfelelő ellenőrző repülés végrehajtása céljából,
+
+d) a gyártó létesítményei közötti repülés végrehajtása céljából, vagy
+
+e) az e rendelet szerinti típus- és légialkalmassági vizsgálati eljárás időtartamára.
+
+(2) A légijármű az (1) bekezdésben foglalt cél eléréséig, de legfeljebb 1 évig tartható ideiglenes nyilvántartásban.
+
+(3) Az ideiglenes nyilvántartásba vételre a nyilvántartásba vételi eljárás szabályai irányadók.
+
+(4) Ideiglenes nyilvántartásba vétel esetén a Katonai Nyilvántartásba Vételi Bizonyítvány az 5. § (4) bekezdésében foglaltakon túl tartalmazza a nyilvántartásba vétel időbeli hatályát is.
+
+### 5. A nyilvántartásból való törlés
+
+#### 8. §
+
+(1) Az állami légijármű üzemeltetésből történő végleges kivonásakor a fenntartó a kivonást – az általa készített kivonási jegyzőkönyv, a légialkalmassági bizonyítvány és a nyilvántartásba vételt tanúsító bizonyítvány csatolásával – tizenöt napon belül bejelenti a Hatóságnak. A bejelentés alapján a Hatóság a légijárművet a nyilvántartásból törli és a nyilvántartásba vételt tanúsító bizonyítványt visszavonja.
+
+(2) A Hatóság az állami légijárművet törli az ideiglenes nyilvántartásból a 7. § (1) bekezdésében meghatározott feltétel bekövetkezése, a 7. § (2) bekezdésében meghatározott határidő eltelte, a légijármű légialkalmasságának hatósági elutasítása, valamint a légijármű más nyilvántartásba vagy lajstromba történő átsorolása esetén.
+
+(3) A fenntartó által kezdeményezett törlés esetén a kivonási jegyzőkönyv tartalmazza
+
+a) a légijármű típusát,
+
+b) a légijármű gyári számát,
+
+c) a légijármű fedélzeti azonosító jelét,
+
+d) a légijármű üzembe helyezésének kezdetétől számított üzemidejét és
+
+e) a kivonás okát.
+
+(4) A Hatóság a légiközlekedési baleset közigazgatási hatósági vizsgálatát lezáró döntése alapján hivatalból indult eljárásban törli a nyilvántartásból a légiközlekedési baleset következtében megsemmisült légijárművet, és erről a fenntartót, az üzembentartót és az üzemeltetőt értesíti.
+
+### 6. Az állami légijármű jelzései
+
+#### 9. §
+
+(1) A merev- és forgószárnyú állami légijárművet felségjellel és fedélzeti azonosító jellel kell ellátni.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően a gyári kísérleti repülést, vagy a típusalkalmassági vizsgálathoz szükséges próbarepülést végző prototípuson az első repülés előtt a gyártási engedélyben kijelölt ideiglenes fedélzeti azonosító jelet kell feltüntetni.
+
+(3) Az ejtőernyőn vagy az ejtőernyő rendszer alkotóelemén fel kell tüntetni az ejtőernyő vagy az ejtőernyő rendszer alkotóelem típusát és gyári számát.
+
+(4) A légijármű üzembentartása során biztosítani kell a jelzések tartósságát, felismerhetőségét és a légijármű folyamatos azonosíthatóságát.
+
+(5) A merev- és forgószárnyú állami légijármű jelzéseinek elhelyezését a fenntartó kérelmére a Hatóság külön döntésben engedélyezi.
+
+(6) A kérelemnek tartalmaznia kell a légijármű háromnézeti rajzát, amely a fedélzeti azonosító jel és a felségjel mellett tartalmazza a légijárművön alkalmazni kívánt összes jelölést, különösen a légijármű üzemeltetésére és karbantartására vonatkozó és a nemzetközi légiközlekedés biztonsági előírásainak megfelelő jelöléseket.
+
+(7) A légijármű fedélzeti azonosító jel és felségjel mellett alkalmazott, a légijármű karbantartására, üzemeltetésére és a nemzetközi légiközlekedés biztonsági előírásainak megfelelő jelöléseit a vonatkozó, az állami légijárművekkel kapcsolatosan alkalmazott hazai és nemzetközi előírásoknak megfelelően kell feltüntetni.
+
+#### 10. §
+
+(1) A felségjel egyenlő szárú, fehér szegéllyel keretezett háromszög, amelynek magassága a háromszög alapjának kétszerese. A befogók mentén piros és fehér sáv húzódik, amelyek szélessége az alap egyhatod része. A háromszög maradék területe zöld színű.
+
+(2) Az alacsony láthatóságú felségjel alkalmazása esetén a láthatóság feltételeinek biztosítása mellett piros és zöld helyett sötétszürke, fehér helyett világosszürke szín használható.
+
+(3) A felségjel színeinek RAL színskála szerinti kódjai:
+
+a) piros: RAL 3000
+
+b) fehér: RAL 9003
+
+c) zöld: RAL 6002
+
+d) piros helyett alkalmazott sötétszürke: RAL 7045
+
+e) fehér helyett alkalmazott világosszürke: RAL 7047
+
+f) zöld helyett alkalmazott sötétszürke: RAL 7046.
+
+(4) A felségjelet úgy kell elhelyezni, hogy a háromszög csúcsa a repülési irányba nézzen, tengelye a hossztengellyel párhuzamos legyen.
+
+(5) A felségjelet
+
+a) merevszárnyú légijármű esetén a függőleges vezérsík vagy a törzs mindkét oldalán, valamint a szárnyak alsó és felső felületén,
+
+b) forgószárnyú légijármű esetén a légijármű szerkezeti kialakításától függően a függőleges vezérsík vagy a törzs mindkét oldalán, valamint a törzs alsó részén
+
+kell feltüntetni.
+
+(6) Forgószárnyú légijármű esetén a törzs felső felületén is elhelyezhető a légijármű oldalán, illetve a törzs alsó részén elhelyezett felségjellel azonos méretű felségjel.
+
+#### 11. §
+
+(1) A fedélzeti azonosító jel betűkből, számokból, kötőjelből vagy ezek kombinációjából áll, amelynek használatát a Hatóság engedélyezi.
+
+(2) A fedélzeti azonosító jelnek biztosítania kell az adott állami légijármű egyértelmű azonosíthatóságát.
+
+(3) A fedélzeti azonosító jel álló helyzetű, díszítés nélküli, tömör vonalakkal képzett, azonos magasságú betűkből és számokból áll.
+
+(4) A fedélzeti azonosító jelhez használt
+
+a) betűk és számok magassága a légijármű fizikai méreteitől függően, a légijármű levegőben történő azonosíthatósága érdekében az alábbiak szerint választható
+
+aa) az I. méretben 250 mm,
+
+ab) a II. méretben 500 mm,
+
+ac) a III. méretben 750 mm,
+
+b) betűk és számok szélessége az „I” betű és az „1” szám kivételével a magasság legfeljebb kétharmad része,
+
+c) betűk, számok és a kötőjel egymástól való távolsága a betű és a szám magasságának legfeljebb egyötöd része,
+
+d) a betűk és számok vonalvastagsága a magasság legfeljebb egyhatod része,
+
+e) a kötőjel hossza 1 betű szélességének felel meg.
+
+(5) Az egyedi kialakítású állami légijárművek esetén a fedélzeti jel a (4) bekezdés b)–e) pontjában rögzített arányok megtartása mellett a (4) bekezdés a) pontja szerinti méretektől eltérő méretben is feltüntethető.
+
+#### 12. §
+
+(1) A merev- és forgószárnyú állami légijárművön feltüntethető a légijármű gyártójára, a fenntartójára, az üzembentartójára és az üzemeltetőjére vonatkozó felirat, a légijármű típus jelölése, valamint az üzemeltető betűjele és emblémája.
+
+(2) A légijármű szerkezetének festése a fedélzeti azonosító jel olvashatóságát, valamint a felségjel felismerését nem zavarhatja.
+
+(3) Az üzembentartó meghatározhatja a jelzések feltüntetésének és a festés kivitelezésének e rendeletben nem szabályozott feltételeit.
+
+## III. Fejezet — LÉGIJÁRMŰ TERVEZŐ, GYÁRTÓ, JAVÍTÓ, KARBANTARTÓ SZERVEZET TEVÉKENYSÉGÉNEK ENGEDÉLYEZÉSE
+
+### 7. Állami légijárművet tervező, gyártó, javító, karbantartó szervezet tevékenységének engedélyezése, a működési engedély kiadása
+
+#### 13. §
+
+(1) Állami légijármű vagy légijármű komponens tervezését, gyártását, javítását, karbantartását a Hatóság engedélyével rendelkező jogi személy végezheti.
+
+(2) A működési engedéllyel rendelkező jogi személy (a továbbiakban: engedélyes) a légijármű és a légijármű komponensei üzemidejét – ideértve a naptári, működési korlátozásokat – saját vagy más, erre jogosult szervezet üzemeltetési, javítási tapasztalatai alapján, továbbá a típusra elfogadott műszaki dokumentumok figyelembevételével megállapítja, és azokat a Hatóság és a fenntartó által az adott légijármű típushoz előírt módon rögzíti a légijármű karbantartási rendszerében és dokumentációjában.
+
+(3) Az engedélyes a légijármű üzemi naplók és a törzskönyvek vezetését a gyártói előírásnak, valamint a fenntartó által meghatározottaknak megfelelően végzi.
+
+(4) Az engedélyes karbantartó szervezet képviselője a karbantartási feladat végrehajtását követően a légijármű ismételt üzembeállítása érdekében üzemképességi tanúsítványt állít ki, amely tartalmazza az elvégzett karbantartás részleteit, befejezésének időpontját és a tanúsítványt kiállító személy személyazonosító adatait.
+
+(5) A javító- és karbantartó tevékenység, valamint a légijármű festése a gyártó előírásainak megfelelően végezhető.
+
+#### 14. §
+
+(1) A Hatósághoz benyújtott működési engedély iránti kérelemben fel kell tüntetni
+
+a) a kérelem tárgyát, az engedélyezéssel érintett tevékenység megnevezését,
+
+b) a gyakorolni kívánt tevékenységgel érintett légijármű, légijármű komponens típusát és
+
+c) a hatósági szemle lefolytatására alkalmas időtartam kezdő időpontját.
+
+(2) Az (1) bekezdés szerinti kérelemhez csatolni kell a kérelmező szervezet szervezeti kézikönyvét és a kérelmezett tevékenységgel érintett típusokra vonatkozó, a tevékenység folytatásához szükséges iratokat.
+
+(3) A kérelmező szervezet a Szervezeti Kézikönyvét a kérelmezett tevékenységre vonatkozó Európai Katonai Légialkalmassági Követelményrendszerben meghatározott szerkezetben és tartalommal állítja össze.
+
+#### 15. §
+
+(1) A légijármű vagy légijármű komponens tervezésére, gyártására, javítására, karbantartására jogosító engedély akkor adható ki, ha
+
+a) a tervezésre, gyártásra, javításra, karbantartásra tervezett légijármű, légijármű komponens tervezési, gyártási, javítási és karbantartási dokumentációja rendelkezésre áll,
+
+b) rendelkezésre áll a kérelmezett tevékenységre vonatkozó előírások szerint szükséges választékú és minőségű gépi berendezés, valamint a szerszámok vagy az egyes alkatrészek tervezése, gyártása, javítása, karbantartása az arra szerződéssel rendelkező közreműködők útján biztosított,
+
+c) az anyagkezelési rendszer működik,
+
+d) az anyagvizsgálatokat vagy azok elvégeztetését a kérelmező biztosítja,
+
+e) a tevékenység folytatásához, az előírt mérésekhez szükséges mérő- és ellenőrző berendezések rendelkezésre állnak, vagy azokat a kérelmező az arra szerződéssel rendelkező közreműködő útján biztosítja,
+
+f) a tevékenység folytatásához szükséges műhelyek kialakítása megfelel a tisztasági és klímakövetelményeknek,
+
+g) a kérelmező szervezetnél minőségirányítási rendszer működik, amelyet a felelős vezetőnek közvetlenül alárendelt minőségirányítási vezető vezet,
+
+h) a légiellenőrzés vagy a működőképesség ellenőrzésének végrehajtásához szükséges feltételeket a kérelmező önállóan, vagy az arra szerződéssel rendelkező közreműködők útján biztosítja, és
+
+i) a kérelmező rendelkezik a kérelmezett tevékenység végzéséhez és tanúsításához szükséges összetételű, képzettségű és létszámú szakszemélyzettel.
+
+(2) A Hatóság által kiadott működési engedély időbeli hatálya három év.
+
+#### 16. §
+
+Az engedélyes kérelmezheti a már meglévő működési engedélyében foglalt tevékenység kiterjesztését. A kiterjesztésre irányuló eljárást a Hatóság a működési engedély kiadására irányuló eljárás szabályai szerint folytatja le.
+
+#### 17. §
+
+A Hatóság a kérelmező szervezet tevékenységét a kérelemben megjelölt tevékenységet érintő alvállalkozói tevékenységgel egy eljárásban engedélyezi, ha a kérelmezett tevékenység folytatása alvállalkozók bevonásával valósul meg.
+
+#### 18. §
+
+Az illetékes légügyi hatóságok közötti elfogadásra irányuló eljárás eredményes végrehajtását követően az illetékes hatóság általi tanúsításról szóló dokumentumokat a Hatóság az elfogadásra irányuló megállapodásban rögzítettek alapján külön engedélyezési eljárás nélkül is elfogadhatja, és azt egyenértékűnek tekintheti az általa meghozott döntéssel.
+
+#### 19. §
+
+A Hatóság az engedélyköteles tevékenységet folytató szervezet tevékenységének hatósági felügyelete során határidő megállapításával javító intézkedések megtételét írhatja elő.
+
+### 8. A Szervezeti Kézikönyv
+
+#### 20. §
+
+(1) A tervező, gyártó, javító, karbantartó szervezet Szervezeti Kézikönyve tartalmazza
+
+a) a szervezet által kijelölt felelős vezető nyilatkozatát arról, hogy a szervezet a jogszabályok által előírt követelményrendszernek megfelel,
+
+b) a szervezet felelős vezetőinek felsorolását, alá- és fölérendeltségét, a felelősségi körük meghatározását, a Hatósággal való kapcsolattartásra jogosultak kijelölését,
+
+c) a szervezet szervezeti ábráját és működésének leírását,
+
+d) a szervezet humánerőforrás kapacitásának általános leírását,
+
+e) a szervezet telephelyeinek általános leírását,
+
+f) a szervezet vezető beosztásainak munkaköri leírását és az aláírásra jogosult személyek körét,
+
+g) a szervezet szervezeti rendszerében bekövetkezett változások Hatósághoz történő bejelentésének eljárásrendjét,
+
+h) a kézikönyv módosításának eljárásrendjét,
+
+i) a szervezet működését és tevékenységi körét,
+
+j) a minőségirányítási rendszer leírását, beleértve a belső képzési rendszert is,
+
+k) a szervezet tevékenységi köreire tekintettel a szervezet beszállítóinak és alvállalkozóinak felsorolását és
+
+l) a szervezetben alkalmazott dokumentációk iratmintáit.
+
+(2) A Szervezeti Kézikönyv módosítását a szervezet a Hatóság részére – a változások megküldésével – harminc napon belül bejelenti.
+
+### 9. A minőségirányítás
+
+#### 21. §
+
+A minőségirányítási rendszer biztosítja
+
+a) a dokumentumok kiállításának, elfogadásának, módosításának rendjét,
+
+b) a szerződéses partnerek, alvállalkozók ellenőrzésének rendjét, auditját,
+
+c) annak igazolását, hogy az újonnan gyártott vagy használtan átvett légijármű, légijármű komponens azonos az elfogadott tervrajzokkal,
+
+d) a légijármű, légijármű komponens azonosíthatóságát biztosító adatokat és a nyomonkövethetőségük rendjét,
+
+e) a gyártási folyamatok, a kalibráló eszközök és tesztberendezések megfelelőségét,
+
+f) az ellenőrzések és tesztprogramok leírását, a minőségirányítási szempontból nem megfelelő légijármű komponens ellenőrzésének, kiszűrésének rendjét,
+
+g) a nyilvántartások megfelelő eljárásrendben történő vezetését,
+
+h) az alkalmazottak szakmai végzettségét és kompetencia követelményeinek megfelelőségét,
+
+i) a légijármű komponens kezelésének, tárolásának, csomagolásának rendjét,
+
+j) a belső ellenőrzés és feltárt hiányosságok megszüntetésének a rendjét,
+
+k) a gyártó auditált telephelyén kívüli üzemben az auditált gyártási tevékenység megfelelőségét,
+
+l) a légijármű gyártási tevékenységének befejezésétől, a megrendelő részére történő leszállításig a légijármű komponens biztonságos üzemeltetési feltételeinek megfelelőségét és
+
+m) a helyiségek technológiai, munkavédelmi és környezetvédelmi követelményeknek való megfelelését.
+
+### 10. A működési engedély visszavonása
+
+#### 22. §
+
+A Hatóság a működési engedélyt visszavonja, ha az engedélyes az engedélyben foglalt tevékenységét megszünteti.
+
+## IV. Fejezet — AZ ÁLLAMI LÉGIJÁRMŰ TÍPUSALKALMASSÁGA
+
+### 11. A katonai típusalkalmassági vizsgálati eljárás
+
+#### 23. §
+
+(1) A katonai típusalkalmassági vizsgálati eljárás célja annak megállapítása, hogy a vizsgált légijármű vagy légijármű komponens típusa megfelel-e
+
+a) a nemzeti vagy a Hatóság által a típusalkalmassági vizsgálati eljárás során meghatározott nemzetközi, az adott légijárműre vonatkozó tervezési, gyártási és üzemeltetési előírásoknak és szabványoknak, és
+
+b) a biztonságos légiközlekedésre való alkalmasság feltételeinek.
+
+(2) A katonai típusalkalmassági eljárásban korlátozott típusalkalmassági bizonyítvány kiállításának van helye olyan légijármű esetében, amely repülésbiztonsági szempontból légiközlekedésre alkalmas, azonban repülési jellemzőire vagy a környezetvédelmi követelményekre tekintettel korlátozások alkalmazása szükséges.
+
+#### 24. §
+
+(1) Állami légijármű csak abban az esetben tartható üzemben, ha olyan típushoz tartozik, amelyre a Hatóság az elvégzett típusalkalmassági vizsgálat alapján Katonai Típusalkalmassági Bizonyítványt adott ki.
+
+(2) Amennyiben a légijármű komponens biztonságos légiközlekedésre való alkalmasságát egyedileg igazolni szükséges, a Hatóság lefolytatja a légijármű komponens típusalkalmassági vizsgálatát.
+
+#### 25. §
+
+(1) A katonai típusalkalmassági vizsgálati eljárás a légijármű vagy a légijármű komponens gyártója, vagy a fenntartó Hatósághoz benyújtott kérelmére indul. A katonai típusalkalmassági vizsgálati eljárás kezdeményezésekor – ha az rendelkezésére áll – a kérelmező bemutatja a gyártó állam illetékes légiközlekedési hatósága által kiállított típusalkalmassági bizonyítványt.
+
+(2) A kérelmező a kérelemhez mellékeli a légijármű fedélzetére telepített kommunikációs és elektromágneses kisugárzó berendezés alkalmazhatóságára vonatkozó, hazai vagy külföldi frekvenciagazdálkodási hatóság által kibocsátott engedélyt, a légijármű gyártójának tanúsítványát az adott rádióberendezésnek a légijármű fedélzetén való alkalmazhatóságáról, valamint annak rendelkezésre állása esetén a légijármű típus vonatkozásában a gyártó állam illetékes hatósága által kiadott zajbizonyítványt.
+
+#### 26. §
+
+Ha a légijármű nem rendelkezik más hatóság által kiadott típusalkalmassági bizonyítvánnyal, a 4. § szerinti kérelem benyújtásával egyidejűleg a gyártó vagy a fenntartó kezdeményezi a légijármű típusalkalmassági vizsgálatát.
+
+#### 27. §
+
+(1) A Hatóság a katonai típusalkalmassági vizsgálati eljárás során típusalkalmassági vizsgálatot végez, a típusalkalmasság igazolására irányuló eljárást folytat le, vagy a típusazonosság igazolására irányuló vizsgálatot végez.
+
+(2) A Hatóság katonai típusalkalmassági vizsgálatot végez minden Magyarországon gyártott, új vagy kísérleti légijármű magyarországi üzembe helyezését megelőzően.
+
+(3) A Hatóság a (4) bekezdés szerinti feltételek fennállása esetén döntést hoz a külföldön gyártott és a külföldi hatóság által tanúsított légijármű típusalkalmasságának elfogadásáról, és kiállíthatja a Katonai Típusalkalmassági Bizonyítványt.
+
+(4) A Hatóság a külföldön gyártott légijármű típusalkalmassági vizsgálata során elfogadja a gyártó állam illetékes hatóságának igazolását arról, hogy a típus a vonatkozó nemzetközi előírásoknak megfelel, és biztonságos repülésre alkalmas, ha a vizsgált légijármű típusazonos a gyártó állam által tanúsítottal, valamint a gyártó állam illetékes hatósága és a Hatóság között a 18. § szerinti elfogadási eljárás lezárult.
+
+(5) A Hatóság a típusazonosság igazolásáról dönt a típusalkalmassági bizonyítvánnyal rendelkező, jelentősen módosított légijármű hazai üzembe helyezését megelőzően, ha az adott típusú légijárművet több változatban szerzik be, és a változatok felhasználási célja, teljesítménye, a repülési jellemzők eltérőek a különböző változatok esetében.
+
+### 12. A katonai típusalkalmasság feltételei és a katonai típusalkalmassági vizsgálat rendje
+
+#### 28. §
+
+(1) A Hatóság a katonai típusalkalmassági vizsgálat során a gyártó légijármű típusra vonatkozó előírásai figyelembevételével határozza meg a légijármű azon üzembe helyezési és üzembentartási feltételeit, amelyek szerint a légijármű biztonságosan üzemeltethető és üzemben tartható.
+
+(2) A Hatóság a gyártó előírásaitól eltérő korlátozást csak a repülésbiztonság követelményeire tekintettel állapíthat meg.
+
+#### 29. §
+
+(1) A Hatóság a katonai típusalkalmassági vizsgálati eljárás során a gyártóval egyeztetve megállapítja azoknak a gyári vagy üzemi vizsgálatoknak a körét és tartalmát, amelyeket részben vagy egészben vizsgálata alapjául elfogad, és amelyek a Katonai Típusalkalmassági Bizonyítvány kiadásához szükségesek, így különösen:
+
+a) az anyagvizsgálatot,
+
+b) a fárasztási, szilárdsági és merevségi vizsgálatot,
+
+c) a tömeg- és tömegközéppont mérést és
+
+d) a gyári ellenőrző repülést.
+
+(2) A Hatóság az (1) bekezdés szerinti eljárása során figyelembe veszi a gyári ellenőrzések és tesztek hivatalos jegyzőkönyvét.
+
+#### 30. §
+
+A külföldi hatóság általi tanúsításról szóló dokumentumok 18. § szerinti elfogadására irányuló eljárás befejezését követően a Hatóság kiadja a Katonai Típusalkalmassági Bizonyítványt.
+
+#### 31. §
+
+A Hatóság a típusalkalmassági bizonyítvány kiadása érdekében a típustervek, a vizsgálatok és a repülési tesztek vonatkozásában ellenőrzi
+
+a) a kérelmező által a légijárművel kapcsolatban a típusalkalmassági és a környezetvédelmi követelmények teljesítése érdekében elvégzett vizsgálatokat és teszteket,
+
+b) a légijármű tervrajzát, specifikációját, a légijármű tervezett felépítésének és leírásának összhangját, valamint a tervezési jellemzők jóváhagyott típustervnek és a környezetvédelmi követelményeknek való megfelelését,
+
+c) a légijármű komponenseit, a gyártási eljárását, valamint a légijármű repülésre való alkalmasságának megteremtése szempontjából az összeszerelési módot és technológiát,
+
+d) a tesztelésre és mérésre használt berendezések megfelelőségét, és kalibráltságuk pontosságát,
+
+e) a légialkalmasság megállapításához szükséges összehasonlítást biztosító adatok – így különösen zajterhelés, üzemanyag kibocsátás, károsanyag-kibocsátás – meglétét,
+
+f) a repülési tesztek előzetes, Hatóság általi jóváhagyásának meglétét és
+
+g) a légijármű komponenseinek működőképességéről kiállított gyártói igazolást.
+
+#### 32. §
+
+A Hatóság a típusalkalmassági eljárás megkezdésekor típusvizsgálati tervet, majd az eljárás lezárása után típusvizsgálati vizsgálati jelentést készít, amely tartalmazza
+
+a) a légijármű leírását;
+
+b) a vizsgálati programnak megfelelően végrehajtott vizsgálatok és próbák eredményeit, a vizsgálat esetleges mellőzése esetén a mellőzés okait;
+
+c) a légialkalmassági vizsgálatkor végrehajtandó ellenőrzések felsorolását;
+
+d) az üzembeállításra, kiszolgálásra, karbantartásra, az üzemidők vezetésére vonatkozó követelményeket;
+
+e) a jóváhagyott műszaki okmányok jegyzékét és
+
+f) a típusalkalmasság vagy a légialkalmasság megállapítására vagy elutasítására vonatkozó javaslatot.
+
+### 13. Katonai Típusalkalmassági Bizonyítvány
+
+#### 33. §
+
+(1) A Katonai Típusalkalmassági Bizonyítvány igazolja, hogy az állami légijármű vagy a légijármű komponens megfelel a vonatkozó légialkalmassági követelményeknek.
+
+(2) A Hatóság által kiadott Katonai Típusalkalmassági Bizonyítvány tartalmazza
+
+a) az állami légijármű típusát,
+
+b) a hajtóművek, a motorok és a légcsavar típusát,
+
+c) az állami légijármű rendeltetésének megjelölését,
+
+d) a légijármű kategóriába sorolását,
+
+e) a légijármű gyártójának megnevezését,
+
+f) az arra való utalást, hogy a légijárműre vonatkozó részletes műszaki és teljesítményadatokat a bizonyítványhoz csatolt „Adatlap” tartalmazza, és
+
+g) a légijárműre vonatkozó, Hatóság által érvényesnek elismert karbantartási és üzemeltetési dokumentációk felsorolását.
+
+(3) Az Adatlap tartalmazza a légijármű főbb technikai jellemzőit, üzemeltetési korlátozásait, teljesítményadatait, valamint a légiüzemeltetésével és karbantartásával kapcsolatos dokumentációk megnevezését és felsorolását.
+
+(4) A 27. § (4) bekezdése szerinti, elfogadásra irányuló eljárás befejezését követően a Hatóság az Európai Katonai Légialkalmassági Követelményrendszer szerinti eljárást alkalmazó állam illetékes hatóságának működési engedélyével rendelkező gyártó kérelmére elfogadja a bemutatott típusalkalmassági bizonyítványt, ha a légijármű vagy a légijármű komponens
+
+a) az Európai Katonai Légialkalmassági Követelményrendszernek megfelel,
+
+b) repülésbiztonsági szempontból légiközlekedésre alkalmas, és
+
+c) a légialkalmassági követelményeknek meg nem felelő légijármű komponens azonos biztonsági szintet nyújtó más légijármű komponenssel kerül helyettesítésre.
+
+(5) A Hatóság a korlátozás okának megjelölését tartalmazó korlátozott Katonai Típusalkalmassági Bizonyítványt ad ki, amennyiben a típusalkalmassági vizsgálati eljárás során megállapításra kerül a légijármű a 23. § (2) bekezdése szerinti korlátozott típusmegfelelése.
+
+(6) A Katonai Típusalkalmassági Bizonyítvány egy példányát a katonai típusalkalmassági vizsgálati eljárást kérelmező szervezet, mint Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet kapja, másik példányát a Hatóság őrzi.
+
+(7) Amennyiben a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet a légijármű vagy a légijármű komponens gyártója, a Hatóság a Katonai Típusalkalmassági Bizonyítvány másolatát megküldi a fenntartó részére.
+
+(8) A Katonai Típusalkalmassági Bizonyítvány kiadásával egyidejűleg a Hatóság kiadhatja az adott légijármű típusra vonatkozó Katonai Zajbizonyítványt, amennyiben a kiadáshoz szükséges műszaki adatok vagy a műszaki adatokat tartalmazó, más illetékesnek elismert légügyi hatóság által kiadott Zajbizonyítvány rendelkezésre áll. A Katonai Zajbizonyítvány egy példányát a katonai típusalkalmassági vizsgálati eljárást kérelmező szervezet kapja, másik példányát a Hatóság őrzi.
+
+(9) Amennyiben a Katonai Zajbizonyítvány Birtokos Szervezet a légijármű vagy a légijármű komponens gyártója, a Hatóság a Katonai Zajbizonyítvány másolatát megküldi a fenntartó részére.
+
+#### 34. §
+
+(1) A Hatóság a Katonai Típusalkalmassági Bizonyítványt és a Katonai Zajbizonyítványt visszavonja, ha a légijármű típust a Hatóság biztonságos légiüzemeltetésre alkalmatlannak minősíti.
+
+(2) A Katonai Típusalkalmassági Bizonyítvány visszavonása esetén annak birtokosa köteles a Hatóság részére a bizonyítványt a hatósági döntés kézhezvételétől számított 15 napon belül visszaszolgáltatni.
+
+### 14. Módosítás az állami légijárművön
+
+#### 35. §
+
+(1) A légijárművön, a légijármű komponensen vagy a légijármű üzembentartási rendszerén végrehajtott módosítás kisebb módosításnak vagy jelentős módosításnak minősülhet.
+
+(2) Jelentős módosítása esetén a légijármű akkor tartható üzemben, ha a tervezett módosításokat a Hatóság jóváhagyta.
+
+(3) A módosítás bevezetése előtti engedélyezésére irányuló kérelem Hatósághoz történő benyújtására jogosult a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet, valamint a fenntartó.
+
+(4) A módosítás minősítésére jogosult szervezet a módosítás tényéről, módjáról, eljárásáról szóló kérelmet legalább 30 nappal a módosításra irányuló tevékenység megkezdését megelőzően megküldi a Hatóság részére.
+
+(5) A fenntartó vagy a gyártó szervezet jelentős módosításra vagy kisebb módosításra irányuló minősítését a Hatóság repülésbiztonsági okok alapján módosíthatja.
+
+#### 36. §
+
+Az állami légijármű módosítása alapulhat
+
+a) a gyártó vagy a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet által előírt módosítás esetén az illetékes szervezetek által kibocsátott közlöny előírásain, vagy
+
+b) a fenntartó által kezdeményezett, az üzemeltetési, üzembentartási és repülésbiztonságot érintő tapasztalatokon, felhasználási igényeken alapuló javaslaton.
+
+#### 37. §
+
+(1) A gyártó vagy a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet által kibocsátott közlöny alapján szükséges jelentős módosítás esetén a fenntartó
+
+a) bejelenti a Hatóság felé a közlöny érkezését, számát, tárgyát,
+
+b) tájékoztatja a Hatóságot a közlönyben előírtak végrehajtási tervezetéről és
+
+c) kéri a Hatóságtól a módosítás jóváhagyását.
+
+(2) A gyártó vagy a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet által kibocsátott közlöny alapján szükséges kisebb módosítás esetén a fenntartó
+
+a) bejelenti a Hatóság felé a közlöny érkezését, számát, tárgyát, és
+
+b) tájékoztatja a Hatóságot a közlönyben előírtak végrehajtási tervezetéről.
+
+(3) A légijármű fenntartó az általa kezdeményezett jelentős módosítás esetén
+
+a) bejelenti a Hatóságnak a módosítást kiváltó okot és az azzal elérendő célt,
+
+b) tájékoztatja a Hatóságot a módosítás tartalmáról, tervezett bevezetési rendjéről, a módosítás légijármű üzembentartását érintő hatásairól,
+
+c) a Hatóság rendelkezésére bocsátja az összes, a tárgyban kiállított okmányt, valamint biztosítja a szükségessé váló hatósági ellenőrzés, és szemle végrehajtásának feltételeit és
+
+d) kéri a Hatóságtól a módosítás jóváhagyását.
+
+(4) A fenntartó az általa kezdeményezett kisebb módosítás esetén
+
+a) bejelenti a Hatóságnak a módosítást kiváltó okot és az azzal elérendő célt,
+
+b) tájékoztatja a Hatóságot a módosítás tartalmáról, tervezett bevezetési rendjéről és a módosítás légijármű üzembentartását érintő hatásairól.
+
+#### 38. §
+
+(1) Amennyiben a jelentős módosítás jóváhagyásához szükséges a Hatóság által kiadott Katonai Típusalkalmassági Bizonyítvány módosítása is, a Hatóság a módosítás jóváhagyásával egyidejűleg módosíthatja a kiadott Katonai Típusalkalmassági Bizonyítványt vagy Kiegészítő Katonai Típusalkalmassági Bizonyítványt állíthat ki az eredeti tervező szervezettől eltérő, de a Hatóság által jóváhagyott szervezet által a típustervben végrehajtott jelentős módosításról.
+
+(2) A módosított Katonai Típusalkalmassági Bizonyítvány vagy a Kiegészítő Katonai Típusalkalmassági Bizonyítvány egy-egy példányát a jelentős módosítás jóváhagyását kérelmező szervezet, valamint a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet kapja, további egy példányát a Hatóság őrzi.
+
+(3) Amennyiben a Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet a légijármű vagy a légijármű komponens gyártója, a Hatóság a módosított Katonai Típusalkalmassági Bizonyítvány vagy a Kiegészítő Katonai Típusalkalmassági Bizonyítvány másolatát megküldi a fenntartó részére.
+
+#### 39. §
+
+A módosítás jóváhagyására irányuló eljárása során a Hatóság az illetékes légügyi hatóságok közötti elfogadásra tekintettel figyelembe veszi a más hatóság módosítás jóváhagyására irányuló döntését.
+
+#### 40. §
+
+A fenntartó a módosítások bejelentésére vonatkozó bejelentési kötelezettségét utólag, a módosításokat követően, de legkésőbb 30 napon belül teljesítheti, ha
+
+a) a gyártó vagy Katonai Típusalkalmassági Bizonyítvány Birtokos Szervezet azonnali hatállyal végrehajtandó módosításokat ír elő, vagy
+
+b) az üzembentartási, üzemeltetési tapasztalatok alapján a repülés biztonsága érdekében azonnali beavatkozásra van szükség.
+
+#### 41. §
+
+(1) A gyártó által felszerelt berendezéseken kívül a légijárművön csak olyan felszerelés, berendezés használható, amelynek a repülésnél történő alkalmazását, illetve az ejtőernyős ugrás közben az adott ejtőernyő típus hevederzetéhez, illetve tok-hevederrendszeréhez történő rögzítését a Hatóság engedélyezte.
+
+(2) Az állami légijármű módosítása során a légijárműre kizárólag üzemképes berendezés építhető be, amelynek tényét a berendezés beépítése előtt az üzemeltetőnek ellenőriznie kell.
+
+(3) Állami légijármű fedélzeti rádiótechnikai berendezéseinek módosítása, cseréje vagy kiegészítése esetén az adott rádiótechnikai berendezésnek rendelkeznie kell a frekvenciagazdálkodási hatóság által kiadott engedéllyel.
+
+(4) A légijármű gyártója által meghatározottól eltérő típusú személyzeti mentőernyő és teher kijuttatására szolgáló ejtőernyő a légijárművön abban az esetben alkalmazható, ha azt a Hatóság a fenntartó kérelmére indult eljárásban engedélyezte.
+
+(5) A Hatóság a (4) bekezdés szerinti eljárása során a légijármű, a személyzeti mentőernyő és a teher kijuttatására szolgáló ejtőernyő egyedi sajátosságainak figyelembevételével, az azonosított repülésbiztonsági veszélyforrások okozta kockázatok elemzése után dönt az eljárás során végrehajtandó vizsgálatok részletes előírásairól, beleértve a repülés közben végrehajtandó ejtőernyős ugrásokat és ejtőernyő dobásokat is.
+
+## V. Fejezet — A LÉGIALKALMASSÁGI VIZSGÁLATI ELJÁRÁS
+
+### 15. Állami légijármű légialkalmasságának feltételei
+
+#### 42. §
+
+(1) A légialkalmassági vizsgálat célja az adott típusú légijármű egy egyedi példányának a típusalkalmassági bizonyítványban és a hozzá tartozó adatlapon felsorolt adatoknak való megfelelésének, valamint az adott légijármű biztonságos légiközlekedésre való alkalmasságának megállapítása.
+
+(2) A légiközlekedésben az a légijármű vehet részt, amely a Hatóság által kiállított, hatályos Katonai Légialkalmassági Bizonyítvánnyal és hatályos Katonai Légialkalmassági Felülvizsgálati Bizonyítvánnyal rendelkezik.
+
+(3) A (2) bekezdésben foglalt feltételek alól kivételt képez az a légijármű, amelyet a hatóság külön döntése alapján légialkalmassági bizonyítvány kiadása érdekében berepülnek, ejtőernyő esetén beugranak.
+
+(4) A légijárművet a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatálya alatt úgy kell üzemeltetni, üzembentartani, hogy az megfeleljen a folyamatos légialkalmasság fenntartási követelményeknek.
+
+#### 43. §
+
+A Katonai Típusalkalmassági Bizonyítvánnyal rendelkező, és nyilvántartásba vett légijármű légialkalmassági vizsgálatát el kell végezni
+
+a) a légijármű első üzembe helyezése előtt,
+
+b) az üzemeltetés során évente,
+
+c) a légijármű jelentős módosítása után, és
+
+d) ha a Hatóság a légijárművön olyan rendellenességet vagy változást észlel, amely a repülés biztonságát veszélyezteti.
+
+#### 44. §
+
+(1) A légijármű első üzembe helyezése előtti légialkalmassági vizsgálatot a Hatóság végzi el.
+
+(2) Az üzemeltetés során évente végrehajtandó időszakos légialkalmassági felülvizsgálatot a Hatóság vagy az általa a 64. § szerinti jogosítással felhatalmazott folyamatos légialkalmasság fenntartó szervezet végzi el, és az eredményes felülvizsgálatot követően a Hatósághoz felterjesztett ajánlás alapján a Hatóság kibocsátja a Katonai Légialkalmassági Felülvizsgálati Bizonyítványt, vagy annak időbeli hatályát meghosszabbítja.
+
+#### 45. §
+
+(1) Ha a gyártó az egyes légijármű komponensre – különösen az üzemidő, a naptári idő és a ciklusszám vonatkozásában – műszaki nyilvántartás-, illetve törzskönyv vagy törzslap vezetését írja elő, ezen légijármű komponensek repülésben, ejtőernyős ugrásban történő használata az alkalmasságot igazoló okmányok alapján történik.
+
+(2) A Hatóság elfogadja a tervezésre, gyártásra, javításra vagy karbantartásra jogosított szervezet által kiadott igazolást a légijármű olyan berendezésére, amelyre e rendelet az alkalmasság tervező, gyártó, javító vagy karbantartó szervezet igazolását írja elő.
+
+### 16. A légialkalmassági vizsgálat lefolytatása
+
+#### 46. §
+
+(1) A légialkalmassági vizsgálat a légijármű első üzembe helyezése vagy jelentős módosítása esetén a gyártó, a fenntartó vagy üzembentartó, időszakos légialkalmassági felülvizsgálata esetén az üzemeltető Hatósághoz benyújtott kérelmére indul. A kérelmet legalább 15 nappal a kért vizsgálat előtt kell benyújtani a Hatósághoz.
+
+(2) A légialkalmassági vizsgálat a fenntartó, üzembentartó vagy időszakos légialkalmassági felülvizsgálat esetén az üzemeltető által üzemképesnek minősített légijárműre kérhető.
+
+(3) A légialkalmassági vizsgálat az üzemeltető telephelyén vagy a fenntartó, üzembentartó, üzemeltető által megjelölt, a vizsgálat lefolytatására alkalmas helyszínen és légtérben kerül lefolytatásra.
+
+#### 47. §
+
+(1) A légijármű első légialkalmassági vizsgálatát megelőzően a gyártó, a fenntartó, az üzembentartó, a légijármű időszakos légialkalmassági felülvizsgálatát megelőzően pedig az üzemeltető
+
+a) ellenőrzi a légijármű üzemképességét,
+
+b) előkészíti a légijármű üzembentartási okmányait,
+
+c) kijelöli megbízottját, aki elkészíti a szükséges kimutatásokat, és a vizsgálat idején a Hatóságot feladatai végrehajtásában segíti, valamint
+
+d) biztosítja a vizsgálathoz szükséges egyéb feltételeket.
+
+(2) Állami légijármű légialkalmassági vizsgálata a légijármű első üzembe helyezése előtt vagy a Hatóság által végzett időszakos légialkalmassági felülvizsgálat esetén kiterjed
+
+a) a légijármű általános műszaki állapotának szemrevételezéssel történő ellenőrzésére ezen belül,
+
+aa) a légijármű külső állapotának – így különösen a repülőgép törzs, a légijármű vezető kabin és utastér, repülőgép törzs-borítás, szárny, vezérsíkok, kormányfelületek és leszálló berendezés épségének,
+
+ab) a repülőgép törzs külső részén elhelyezkedő érzékelők, antennák rögzítettségének és sérülésmentességének, ablakok épségének,
+
+ac) a karbantartó nyílások, borítólemezek és rögzítő elemeinek épségének,
+
+ad) a fedélzeti vész- és mentőberendezések épségének, továbbá
+
+ae) a katapultüléssel felszerelt légijárműveknél a katapult rendszer földi biztosítékai állapotának
+
+ellenőrzésére;
+
+b) a légijármű 9–12. § szerinti jelzéseinek ellenőrzésére,
+
+c) a légijármű üzembentartási, karbantartási állapotának és az ehhez kapcsolódó dokumentációk ellenőrzésére,
+
+d) a légijármű légialkalmasságának berepüléssel, illetve beugrással való ellenőrzésére és
+
+e) a berepülést követően az objektív kontrolleszköz adatainak és a berepülés tapasztalatainak elemzésére és értékelésére.
+
+(3) A folyamatos légialkalmasság fenntartó szervezet állami légijármű időszakos légialkalmassági vizsgálata kiterjed
+
+a) a légijármű általános műszaki állapotának szemrevételezéssel történő ellenőrzésére ezen belül,
+
+aa) a légijármű külső állapotának – így különösen a repülőgép törzs, a légijármű vezető kabin és utastér, repülőgép törzs-borítás, szárny, vezérsíkok, kormányfelületek és leszálló berendezés épségének,
+
+ab) a repülőgép törzs külső részén elhelyezkedő érzékelők, antennák rögzítettségének és sérülésmentességének, ablakok épségének, valamint
+
+ac) a karbantartó nyílások, borítólemezek és rögzítő elemeinek épségének
+
+ellenőrzésére,
+
+b) a légijármű 9–12. § szerinti jelzéseinek ellenőrzésére, továbbá
+
+c) a légijármű üzembentartási, karbantartási állapotának és az ehhez kapcsolódó dokumentációk ellenőrzésére.
+
+(4) A légialkalmassági vizsgálat során a Hatóság ellenőrzi és megállapítja, az időszakos légialkalmassági felülvizsgálat során a folyamatos légialkalmasság fenntartó szervezet megvizsgálja, hogy
+
+a) a légijármű, a légijármű komponensei az általános és az adott légijármű típusra érvényes előírásoknak megfelelnek-e,
+
+b) az esedékes karbantartási munkákat hiánytalanul és megfelelő minőségben végezték-e el és dokumentálták-e, különös tekintettel
+
+ba) a légijármű karbantartási naplóira, a vizsgálat időpontját megelőző 3 hónapra visszamenőleg a légijármű repülési lapjára,
+
+bb) a vizsgálatot megelőző 3 hónapban előfordult meghibásodások jegyzékére, és a hibák kijavítására tett intézkedésekre,
+
+bc) a légijármű egyes berendezéseinek okmányain lévő gyártói azonosító számok és a légijármű karbantartási naplójában szereplő, valamint a légijárműre ténylegesen felépített berendezések gyári számának azonosságára,
+
+bd) a légijárműbe feltöltött üzemi- és kenőanyagok, munkafolyadékok bevizsgálási lapjaira,
+
+be) a légijármű üzemeltetéséhez kapcsolódó üzemeltetői adatbázisokra és nyilvántartásra;
+
+c) a légijármű üzembentartása és üzemeltetése a Hatóság által jóváhagyott üzembentartási és üzemeltetési rend szerint történik-e, különös tekintettel
+
+ca) az előző vizsgálat óta a légijárművön végrehajtott, az adott légijármű üzembentartását érintő gyártói közlönyök és a fenntartó által kiadott szakintézkedések jegyzékére és végrehajtottságára,
+
+cb) az előző légialkalmassági vizsgálat óta a légijárművön végrehajtott változtatások jegyzékére;
+
+d) az egyes berendezések üzemképtelensége esetén a légijármű megfelel-e a Fő Minimális Berendezés Lista vagy a Minimális Berendezés Lista szerinti követelményeknek.
+
+(5) A légialkalmassági vizsgálat időtartama alatt az azzal összefüggésbe nem hozható, vagy azt akadályozó kiszolgálási, karbantartási vagy javítási munka a légijárművön nem végezhető.
+
+(6) A légialkalmassági vizsgálat időtartama alatt a légijárművel más repülési, illetve ejtőernyő esetén ugrási feladat nem hajtható végre, a légijárművet, illetve az ejtőernyőt a fenntartó, az üzembentartó vagy az üzemeltető a vizsgálat alól önkényesen nem vonhatja ki.
+
+#### 48. §
+
+(1) A légijármű légialkalmassági vizsgálatát üzemképes légijárművön a fenntartó, az üzembentartó és az üzemeltető képviselőjének jelenlétében kell elvégezni.
+
+(2) Amennyiben a Hatóság vagy a folyamatos légialkalmasság fenntartó szervezet a légialkalmassági felülvizsgálat során a légijárművön vagy annak valamely légijármű komponens karbantartási rendellenességet vagy hibát tár fel, felszólítja az üzemeltetőt a rendellenesség vagy a hiba megszűntetésére.
+
+(3) A Hatóság, vagy a folyamatos légialkalmasság fenntartó szervezet a légialkalmassági felülvizsgálat során a légijármű ellenőrzésének eredményét a hibafelvételi lapon rögzíti.
+
+(4) A légialkalmassági vizsgálat során feltárt hibák kijavításáról a Hatóság, a légialkalmassági felülvizsgálat során feltárt hibák kijavításáról a folyamatos légialkalmasság fenntartó szervezet az okmányok és visszaellenőrzés alapján győződik meg.
+
+#### 49. §
+
+(1) A légijármű hajtóműpróbáját abban az esetben kell végrehajtani, ha
+
+a) annak végrehajtási rendjét a légijármű légi üzemeltetési utasítása a berepülés végrehajtásával összefüggésben tartalmazza vagy
+
+b) azt a Hatóság előírja.
+
+(2) Az (1) bekezdés b) pontja szerinti hajtóműpróba programját a Hatóság az adott légijármű típus üzemeltetési sajátosságainak és korlátozásainak figyelembevételével határozza meg.
+
+(3) A hajtóműpróbát a Hatóság által kijelölt vagy a folyamatos légialkalmasság fenntartó szervezet által felkért személyzet hajtja végre.
+
+(4) A Hatóság vagy a folyamatos légialkalmasság fenntartó szervezet a hajtóműpróba végrehajtásába bevonhat az állományába nem tartozó, a feladat végrehajtási feltételeinek megfelelő személyt is.
+
+(5) A hajtóműpróba csak akkor kezdhető meg, ha a 46–48. §-ban előírt ellenőrzések során felmerült valamennyi hiányosságot megszüntették.
+
+(6) A hajtóműpróba eredményét a légiközlekedési és repülőműszaki földi szakszemélyzet a hajtóműpróba vizsgálati lapon rögzíti, melynek adattartalmát a hajtóműpróba programjának figyelembevételével a Hatóság határozza meg.
+
+(7) Ha a légijármű személyzete a hajtóműpróba során az előírt paraméterektől meg nem engedett mértékű eltérést tapasztal, a hibák kijavítása után az adott vizsgálati elemet megismétli.
+
+(8) Az ismételt hajtóműpróba szükségességéről a Hatóság vagy a folyamatos légialkalmasság fenntartó szervezet képviselője dönt.
+
+(9) A Hatóság vagy a folyamatos légialkalmasság fenntartó szervezet képviselője a feltárt hibák kijavítása után a javításról szóló dokumentumok alapján meggyőződik a légijármű további vizsgálatra való alkalmasságáról.
+
+### 17. Állami légijármű légialkalmassági berepülésének és beugrásának rendje
+
+#### 50. §
+
+(1) A légijármű légialkalmassága berepüléssel kerül megállapításra a légijármű első üzembe helyezése előtt és a Hatóság által végzett időszakos légialkalmassági felülvizsgálat esetén.
+
+(2) Az ejtőernyő légialkalmassága beugrással kerül megállapításra az ejtőernyő első üzembe helyezése előtt és az időszakos légialkalmassági vizsgálat esetén.
+
+(3) A berepülés és a beugrás célja a légijármű, illetve az ejtőernyő biztonságos légiközlekedésre való alkalmasságának megállapítása.
+
+(4) A berepülés és a beugrás programját a Hatóság légijármű típusonként, az adott légijármű típus üzemeltetési sajátosságainak és korlátozásainak figyelembevételével határozza meg.
+
+(5) A légijármű légialkalmassági berepülését, illetve az ejtőernyő beugrását kizárólag a Hatóság által kijelölt szakszemélyzet hajthatja végre.
+
+(6) A Hatóság a légialkalmassági berepülés és beugrás végrehajtására kijelölhet az állományába nem tartozó, a feladat végrehajtási feltételeinek megfelelő személyt is.
+
+#### 51. §
+
+A légijármű légialkalmassági berepülése és beugrása csak akkor kezdhető meg, ha a 46–48. §-ban előírt ellenőrzések során valamennyi hiányosságot megszüntették.
+
+#### 52. §
+
+(1) A berepülés és beugrás eredményét a légijármű személyzete berepülés esetén légialkalmassági berepülési jegyzőkönyvben, ejtőernyő esetében beugrási vizsgálati lapon rögzíti, amelyek adattartalmát a berepülés, vagy a beugrás programjának figyelembevételével a Hatóság határozza meg.
+
+(2) A berepülés során az érintett légijármű fedélzetén kizárólag a légijármű személyzete, a Hatóság képviselői, valamint a Hatóság által a vizsgálatba bevont személyek tartózkodhatnak.
+
+(3) Ha a légijármű parancsnoka, ejtőernyő esetében annak beugrója a berepülés vagy a beugrás során az előírt paraméterektől meg nem engedett mértékű eltérést tapasztal, a hibák kijavítása után az adott feladatot megismétli.
+
+(4) A Hatóság a feltárt hibák kijavítása után a javításról szóló dokumentumok és az üzemeltető üzemképességi nyilatkozata alapján dönt a légijármű ismételt vizsgálatra való alkalmasságáról.
+
+### 18. A légialkalmassági vizsgálat dokumentumai
+
+#### 53. §
+
+(1) A légialkalmassági vizsgálat során a Hatóság vizsgálati jegyzőkönyvet, az időszakos légialkalmassági felülvizsgálat esetén a folyamatos légialkalmasság fenntartó szervezet légialkalmassági felülvizsgálati jegyzőkönyvet vesz fel.
+
+(2) Az (1) bekezdés szerinti hatósági légialkalmassági vizsgálati jegyzőkönyv tartalmazza
+
+a) a vizsgálatot kérelmező nevét,
+
+b) a vizsgálat célját és
+
+c) a légijármű
+
+ca) üzemeltetője nevét,
+
+cb) típusát,
+
+cc) gyári számát,
+
+cd) gyártási idejét,
+
+ce) összes fel- vagy leszállásának számát, illetve ejtőernyő esetén az összes végrehajtott ejtőernyő ugrások számát,
+
+cf) összes üzemidejét, a hátralévő üzemidejét, valamint
+
+cg) nagyjavításainak időpontját, a nagyjavítás óta eltelt üzemidőt, vagy az utolsó nagyjavítás óta végrehajtott ugrások számát,
+
+d) a készítés helyét és idejét,
+
+e) az aláírásokat.
+
+(3) A légialkalmassági felülvizsgálati jegyzőkönyvhöz mellékelni kell
+
+a) az üzemeltető által készített, az előző felülvizsgálat óta kiadott, a típusra vonatkozó gyári közlönyök jegyzékét, a végrehajtás idejével, vagy a végrehajtás elmaradásának indoklásával,
+
+b) az első felülvizsgálat óta a légijárművön, annak üzembentartási rendszerén bekövetkezett változások jegyzékét,
+
+c) a hibafelvételi lapot,
+
+d) hajtóműpróba végrehajtása esetén a hajtóműpróba vizsgálati lapot és
+
+e) a légialkalmassági berepülési jegyzőkönyvet, ejtőernyő esetében a beugrási vizsgálati lapot.
+
+(4) Amennyiben az időszakos légialkalmassági felülvizsgálatot a 64. § szerint jogosított folyamatos légialkalmasság fenntartó szervezet végzi, a légialkalmassági felülvizsgálati bizonyítvány érvényességi idejének meghosszabbítására vonatkozó javaslatát tartalmazó légialkalmassági vizsgálati jegyzőkönyvet megküldi a Hatóságnak a vizsgálatot követő 3 munkanapon belül. A Hatóság a jegyzőkönyv kézhezvételét követően 3 munkanapon belül megállapítja a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatályát.
+
+### 19. Légialkalmassági minősítés
+
+#### 54. §
+
+(1) A Hatóság, vagy időszakos légialkalmassági felülvizsgálat esetén a folyamatos légialkalmasság fenntartó szervezet a 47. §-ban meghatározottak végrehajtását követően a jegyzőkönyvben minősíti a légijármű légialkalmassági állapotát.
+
+(2) A minősítés tartalmazza a légijármű légialkalmassági megfelelőségét vagy azt, hogy az milyen korlátozásokkal alkalmas a légiközlekedésben való részvételre.
+
+(3) A Hatóság az első eredményes minősítés alapján kibocsátja a légijármű Katonai Légialkalmassági Bizonyítványát és a Katonai Légialkalmassági Felülvizsgálati Bizonyítványát.
+
+(4) A Hatóság időszakos légialkalmassági felülvizsgálat esetén a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatályát legfeljebb egymást követő 2 alkalommal meghosszabbíthatja a folyamatos légialkalmasság fenntartó szervezet felülvizsgálati jegyzőkönyvének figyelembevételével.
+
+(5) A Hatóság a (4) bekezdés szerinti időszakos felülvizsgálati eljárás kivételével a légijármű időszakos légialkalmassági felülvizsgálatát a folyamatos légialkalmasság fenntartó szervezet bevonása mellett végzi.
+
+#### 55. §
+
+A Hatóság vagy a folyamatos légialkalmasság fenntartó szervezet a légialkalmassági felülvizsgálatot eredménytelennek minősíti, ha
+
+a) a légijármű üzemképtelen,
+
+b) a légijármű vizsgálatra való előkészítettsége, karbantartottsága nem megfelelő,
+
+c) az üzemeltető a légijármű karbantartási dokumentációját nem készítette elő a vizsgálatra,
+
+d) az üzemeltető képviselője a légialkalmassági vizsgálattal kapcsolatos, 47. § (1) bekezdése szerinti feladatainak nem tesz eleget,
+
+e) a légijárművön a vizsgálattal össze nem függő munkát végeznek, vagy
+
+f) a légijármű berepülése vagy beugrása során bármilyen, a légialkalmasságot vagy a berepülés vagy beugrás eredményességét, biztonságát befolyásoló meghibásodás lép fel.
+
+### 20. Katonai Légialkalmassági Bizonyítvány és a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány
+
+#### 56. §
+
+(1) A Katonai Légialkalmassági Bizonyítvány – a légijármű típusalkalmassági bizonyítványának mellékleteiben megállapított feltételek mellett – igazolja az adott légijármű biztonságos légiközlekedésre való alkalmasságát.
+
+(2) A Hatóság a Katonai Légialkalmassági Bizonyítványt a földi és légi üzemképesség ellenőrzésének eredményét összegző légialkalmassági vizsgálati jegyzőkönyv megállapításai alapján adja ki.
+
+(3) Korlátozott légialkalmasság esetén a Katonai Légialkalmassági Bizonyítvány tartalmazza azokat a feltételeket, korlátozásokat, amelyeket a Hatóság a légijármű használatára vonatkozóan előírt.
+
+(4) A Katonai Légialkalmassági Bizonyítvány merev- és forgószárnyú légijárművek esetén visszavonásig érvényes. A Katonai Légialkalmassági Bizonyítvány időbeli hatálya ejtőernyő esetén legfeljebb öt év, azonban repülésbiztonsági okokra tekintettel a Hatóság meghatározhat ennél rövidebb időbeli hatályt.
+
+#### 57. §
+
+(1) A Katonai Légialkalmassági Bizonyítvány kiadását a fenntartó kérelmezheti a Hatóságtól.
+
+(2) A Hatóság a Katonai Légialkalmassági Bizonyítványt 3 példányban, magyar és angol nyelvű szöveggel állítja ki, és annak 1. példányát a fenntartónak, 2. példányát az üzemeltetőnek megküldi, 3. példányát a Hatóság tárolja. Az üzemeltető a bizonyítványt vagy annak hiteles másolati példányát a légijármű fedélzetén tartja.
+
+(3) A Katonai Légialkalmassági Bizonyítvány tartalmazza az állami légijármű
+
+a) fedélzeti azonosító jelét,
+
+b) típusát,
+
+c) hajtóművének, vagy a motorjának és a légcsavarjának típusát,
+
+d) gyártási számát,
+
+e) gyártási évét,
+
+f) gyártójának megnevezését,
+
+g) fenntartója nevét és címét,
+
+h) a légijármű üzembentartója nevét, címét,
+
+i) üzemeltetője nevét és címét és
+
+j) az engedélyezett felszereléseit, valamint az állami légijárműre vonatkozó egyéb korlátozásokat.
+
+(4) Az ejtőernyő Katonai Légialkalmassági Bizonyítványa tartalmazza az ejtőernyő
+
+a) rendeltetését,
+
+b) típusát,
+
+c) gyártási számát,
+
+d) gyártási évét,
+
+e) készletezését,
+
+f) gyártója megnevezését,
+
+g) fenntartója nevét és címét,
+
+h) az ejtőernyő üzembentartója nevét, címét,
+
+i) üzemeltetője nevét és címét és
+
+j) az engedélyezett felszereléseit, valamint az ejtőernyőre vonatkozó egyéb korlátozásokat.
+
+(5) A Hatóság a Katonai Légialkalmassági Felülvizsgálati Bizonyítványt a légijármű légialkalmassági ellenőrzésének eredményét összegző légialkalmassági vizsgálati jegyzőkönyv megállapításai alapján adja ki, vagy meghosszabbítja az időbeli hatályát. Az üzemeltető a bizonyítvány egy példányát eredeti, vagy másolati formában a légijármű fedélzetén tartja.
+
+(6) A Katonai Légialkalmassági Felülvizsgálati Bizonyítvány tartalmazza
+
+a) a légijármű
+
+aa) típusát,
+
+ab) fedélzeti azonosító jelét,
+
+ac) gyártási számát,
+
+ad) gyártási évét, valamint
+
+ae) repült idejét a vizsgálat megkezdéséig,
+
+b) a légialkalmassági felülvizsgálati bizonyítványt kiadó szervezet
+
+ba) megnevezését, és
+
+bb) a bizonyítványt kiállító személy nevét, aláírását és bélyegzőlenyomatát, továbbá
+
+c) a légialkalmassági felülvizsgálati bizonyítvány
+
+ca) sorszámát,
+
+cb) kiállításának dátumát és
+
+cc) lejáratának dátumát.
+
+(7) A Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatálya merev- és forgószárnyú légijárművek esetén legfeljebb 1 év.
+
+#### 58. §
+
+(1) A Hatóság a Katonai Légialkalmassági Felülvizsgálati Bizonyítványt visszavonja, ha az állami légijármű a Katonai Típusalkalmassági Bizonyítványban vagy közlönyben meghatározott követelményeknek nem felel meg, vagy megállapítható, hogy a biztonságos légiközlekedésre nem alkalmas.
+
+(2) Ha az üzemeltetőnek, az üzembentartónak vagy a fenntartónak tudomására jut olyan körülmény, amely az állami légijármű légialkalmasságát vagy a repülés biztonságát hátrányosan érinti, arról haladéktalanul tájékoztatja a Hatóságot.
+
+(3) Az állami légijármű légialkalmasságának helyreállítását követően az üzembentartó kérheti a Hatóságtól a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány ismételt kiadását.
+
+(4) Ha a Hatóság a Katonai Légialkalmassági Felülvizsgálati Bizonyítványt az hatályossági ideje alatt visszavonta, az üzembentartó a hatály megújítása iránti kérelemben igazolja
+
+a) a légialkalmasság helyreállítására tett intézkedéseket, az elvégzett javítási, karbantartási tevékenységeket és
+
+b) a légijármű üzemképességét.
+
+### 21. Eseti repülésekre érvényes engedély
+
+#### 59. §
+
+(1) A Hatóság eseti repülésekre adhat engedélyt a fenntartó által benyújtott kérelemben megjelölt légijárműre, ha az e rendeletben foglalt légialkalmassági követelményeknek a légijármű maradéktalanul nem felel meg, azonban a repülésbiztonsági és a légiközlekedési szabályok betartásával alkalmas
+
+a) kísérleti légijárművel történő repülés,
+
+b) új légijármű berepülése, tesztprogramnak megfelelő ellenőrzése céljából történő repülés,
+
+c) a javításközi üzemidő lejárta után a gyártó, javító, karbantartó szervezet, illetve az üzemeltető telephelyei között történő repülés,
+
+d) a 35. § (3) bekezdése szerinti szervezet általi módosítások ellenőrzése céljából történő repülés,
+
+e) javítás vagy karbantartás ellenőrzése céljából történő repülés vagy
+
+f) a lejárt légialkalmassági bizonyítvánnyal rendelkező légijárművel a bázisrepülőtérre vagy a javító, karbantartó bázisra történő repülés
+
+végrehajtására.
+
+(2) A fenntartó az eseti repülésre szóló engedély iránti kérelmet típusalkalmassági bizonyítvánnyal még nem rendelkező légijárművel végrehajtott kísérleti repülés és nyilvántartásba még nem vett légijármű berepülése esetén legkésőbb 21 nappal a tervezett repülés végrehajtása előtt, egyéb esetben legkésőbb 3 munkanappal a tervezett repülés végrehajtása előtt nyújthatja be a Hatósághoz. Az eseti repülés engedélyezése iránti kérelem tartalmazza
+
+a) a kérelmező nevét, címét,
+
+b) a légijármű típusát, gyári számát, fedélzeti azonosító jelét,
+
+c) az (1) bekezdés szerinti cél megjelölését,
+
+d) a repülés tervezett útvonalát,
+
+e) a légiközlekedési szakszemélyzet tagjainak nevét, a repülés alatt betöltött beosztásukat,
+
+f) a légijármű üzemeltetésére vonatkozó érvényben lévő korlátozást,
+
+g) a kérelmező nyilatkozatát arról, hogy a légijármű üzemképes és a repülési feltételek alkalmazásával a biztonságos repülésre alkalmas,
+
+h) tesztrepülés esetén a repülési tesztprogramot és a repülésre vonatkozó biztonsági elemzést, amely tartalmazza a repülés során várható veszélyeket és az alkalmazandó kockázatcsökkentő intézkedéseket, valamint
+
+i) a javítás, karbantartás után végrehajtásra kerülő repülés esetén a javító, karbantartó szervezet nyilatkozatát a légijármű üzemképességéről.
+
+(3) A Hatóság a kérelmező számára a repülési feltételek teljesítése érdekében további ellenőrzési kötelezettséget írhat elő.
+
+(4) Az eseti repülésre szóló engedély tartalmazza a biztonságos repülés végrehajtásához szükséges valamennyi feltételt és korlátozást.
+
+(5) Az eseti repülésre szóló engedély meghatározott légijárműre, feladatra, személyzetre, indulási-érkezési repülőtérre és útvonalra vonatkozik.
+
+(6) A Hatóság az eseti repülésre vonatkozó engedélyt visszavonja az engedélyben foglalt feltételek megváltozása esetén.
+
+## VI. Fejezet — FOLYAMATOS LÉGIALKALMASSÁG FENNTARTÁSA
+
+### 22. A folyamatos légialkalmasság fenntartásának szakmai feltételei
+
+#### 60. §
+
+(1) Az állami légijármű folyamatos légialkalmasságának fenntartása tevékenység a Hatóság engedélyével folytatható.
+
+(2) A folyamatos légialkalmasság fenntartó szervezet biztosítja, hogy a légijármű megfelel a légialkalmassági bizonyítványban rögzített konfigurációnak, valamint azt, hogy az összes karbantartási feladat megfelelő időben, az érvényes gyártói utasítások szerint kerüljön végrehajtásra.
+
+#### 61. §
+
+A folyamatos légialkalmasság fenntartására jogosító működési engedély akkor adható ki, ha
+
+a) a tevékenységet végző szervezetnél az adott típusú légijármű folyamatos légialkalmasságának fenntartására vonatkozó légijármű tervezői, gyártói és karbantartási dokumentációi teljes egészében rendelkezésre áll,
+
+b) a szervezet rendelkezik a tevékenység folytatásához szükséges létszámú, repülőműszaki alapképzettséggel és legalább kétéves, az adott kategóriájú légijárművön szerzett üzemeltetési tapasztalattal rendelkező személyi állománnyal és
+
+c) a folyamatos légialkalmasság fenntartó szervezet szakmai irányítását felsőfokú repülőműszaki végzettséggel és megszakítás nélkül legalább ötéves repülőműszaki felügyeleti munkakörben eltöltött tapasztalattal rendelkező személy végzi.
+
+### 23. A folyamatos légialkalmasság fenntartó szervezet működési engedélye kiadásának rendje
+
+#### 62. §
+
+(1) Az állami légijármű folyamatos légialkalmasságának fenntartását végző szervezet tevékenységének engedélyezése kérelemre indul.
+
+(2) Az állami légijármű folyamatos légialkalmasságának fenntartását végző szervezet tevékenységének engedélyezése iránti kérelem tartalmazza
+
+a) a folyamatos légialkalmasság fenntartással érintett légijármű típus megjelölését,
+
+b) a kérelmező és az érintett légijármű üzemeltetője, karbantartója, üzembentartója, valamint fenntartója közötti jogviszony megjelölését,
+
+c) amennyiben a légijármű fenntartója más szervezetet bíz meg a légijármű folyamatos légialkalmasságának fenntartásával, akkor az erre vonatkozó szerződésre történő utalást és
+
+d) a folyamatos légialkalmasság fenntartó szervezet Szervezeti Kézikönyvét.
+
+(3) A Hatóság
+
+a) az eljárás során a benyújtott kérelem elbírálása, illetve a szervezeti ismertető felülvizsgálatát követően vizsgálati tervet készít, majd helyszíni szemlét hajt végre a kérelmező telephelyén;
+
+b) a szemle alatt ellenőrzi a 61. § szerinti feltételek teljesítését, a szemle megállapításairól, eredményeiről jegyzőkönyvet készít, és
+
+c) a szemle megállapításai alapján dönt a tevékenység engedélyezéséről.
+
+(4) A folyamatos légialkalmasság fenntartó szervezet működési engedélye visszavonásig hatályos.
+
+(5) A Hatóság a folyamatos légialkalmasság fenntartó szervezet működési engedélyét más légijármű típusok folyamatos légialkalmassága fenntartására terjesztheti ki az e §-ban meghatározottak szerint benyújtott kérelem alapján indult, az e § szerint lefolytatott engedélyezési eljárás során.
+
+### 24. A folyamatos légialkalmasság fenntartó szervezet tevékenysége és a tevékenység végzésének hatósági felügyelete
+
+#### 63. §
+
+(1) A folyamatos légialkalmasság fenntartó szervezet
+
+a) a tevékenységi körébe vont állami légijárművekre vonatkozóan a légijárművek karbantartási programját elkészíti és a Hatóság részére jóváhagyás céljából felterjeszti;
+
+b) kiadja a karbantartási programnak megfelelő karbantartási feladatokat az üzemeltető, és a karbantartó szervezet részére végrehajtás céljából;
+
+c) a feladatok végrehajtását, a karbantartás megfelelőségét rendszeresen és dokumentáltan ellenőrzi;
+
+d) a légijármű gyártó, tervező szervezet, vagy illetékes hatóság által előírt, kötelező érvényű műszaki technikai előírásokat, módosításokat, intézkedéseket nyomon követi, intézkedik azok bevezetése érdekében, és a légijármű karbantartási programot annak megfelelően módosítja;
+
+e) nyilvántartást vezet a tevékenységi körébe vont légijárművek teljes műszaki-technikai és karbantartási adatairól, különös tekintettel az előírt karbantartási üzemidővel rendelkező berendezésekre.
+
+(2) A karbantartási program tartalmazza a folyamatos légialkalmasság fenntartó szervezet felelősségi körébe tartozó egyedi légijárművekre, és egy meghatározott időszakra vonatkozó, a légijárműveket üzemeltető szervezet által előzetesen tervezett igénybevételének megfelelő, kötelezően végrehajtandó karbantartási munkákat és ellenőrzéseket.
+
+#### 64. §
+
+(1) Amennyiben a folyamatos légialkalmasság fenntartó szervezet az adott légijármű típusra vonatkozó légialkalmasság fenntartási tevékenységet megszakítás nélkül végezte a kérelem benyújtását megelőző 12 hónapban, és ezen időszak alatt a végrehajtott éves hatósági ellenőrzések során a Hatóság a szervezet működése vonatkozásában nem tárt fel jelentős meg nem felelőséget, akkor a Hatóság a szervezetet, annak külön kérelmére, a felügyeleti körébe vont légijárművek vonatkozásában az időszakos légialkalmassági vizsgálatok végrehajtására jogosítja fel.
+
+(2) Az (1) bekezdés szerinti feltételnek megfelelően feljogosított folyamatos légialkalmasság fenntartó szervezet a vizsgálat végrehajtását követő 8 napon belül megküldi a Hatóság részére az elvégzett időszakos légialkalmassági vizsgálatokról készült Légialkalmassági Felülvizsgálati Jegyzőkönyvet a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatályának meghosszabbítására vonatkozó ajánlással. A Hatóság a légialkalmassági vizsgálatokról készült Légialkalmassági Felülvizsgálati Jegyzőkönyv alapján dönt a Katonai Légialkalmassági Felülvizsgálati Bizonyítvány időbeli hatályának meghosszabbításáról.
+
+#### 65. §
+
+A Hatóság a folyamatos légialkalmasság fenntartására irányuló tevékenység végzésére vonatkozó engedélyt visszavonja, amennyiben az engedélyes a tevékenységét nem folytatja.
+
+## VII. Fejezet
+
+### 25. Záró rendelkezések
+
+#### 66. §
+
+Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
+
+---
+
+[^1]: A 3. § (3) bekezdését a 342/2025. (X. 31.) Korm. rendelet 59. §-a hatályon kívül helyezte.

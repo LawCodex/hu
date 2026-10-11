@@ -1,0 +1,99 @@
+---
+title: "87/2025. (IV. 24.) Korm. rendelet a Magyar Export-Import Bank Részvénytársaság tőkekiegyenlítési rendszeréről"
+identifier: "87/2025. (IV. 24.) Korm. rendelet"
+njt_id: "2025-87-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/87"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-04-24
+in_force_from: 2025-04-25
+last_amended: 2025-04-25
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-87-20-22"
+retrieved: 2026-10-12
+---
+
+# 87/2025. (IV. 24.) Korm. rendelet a Magyar Export-Import Bank Részvénytársaság tőkekiegyenlítési rendszeréről
+
+[1] A Kormány célja, hogy tőkekiegyenlítés útján ösztönözze a magyarországi vállalkozásoknak a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság általi tőkeági finanszírozását.
+
+[2] A Kormány a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 26. § (1) bekezdés g) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet hatálya a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény (a továbbiakban: Exim törvény) 6/A. § c) pontjában meghatározott alapokra (a továbbiakban együtt: alap) terjed ki.
+
+## 2. §
+
+(1) Az állam az Exim törvény 6/A. § c) pontja szerinti tőkekiegyenlítésként (a továbbiakban: tőkekiegyenlítés) megtéríti a Magyar Export-Import Bank Részvénytársaság (a továbbiakban: Eximbank) számára a (2)–(6) bekezdés szerinti összegeket.
+
+(2) A (4) bekezdésben foglalt eltéréssel, amennyiben az Eximbank tulajdonában lévő, az Exim törvény 2. § (1a)–(1d) bekezdése szerinti alapok által kibocsátott, azon ideiglenes befektetési jegyek, befektetési jegyek vagy más instrumentumok (a továbbiakban együtt: befektetési jegyek) tekintetében az Eximbank által az alap részére teljesített, az adott alap devizájában nyilvántartott vagyoni hozzájárulás összege nagyobb az alap zárásáig vagy a befektetési jegyek bármely jogcímen történő elidegenítésekor az alap vagy harmadik személy által teljesített összegnél (a továbbiakban együtt: Záró összeg), az állam megtéríti a különbözet összegét.
+
+(3) Amennyiben az Eximbank adásvétel jogcímen vagy más visszterhes jogügylet keretében szerez befektetési jegyet, úgy a vagyoni hozzájárulás összege helyett a (2) bekezdés szerinti elszámolás során a vételárat vagy más jogcímen megfizetett ellenértéket kell figyelembe venni.
+
+(4) Amennyiben azon befektetési jegyek vonatkozásában, amelyek tekintetében az Eximbank 2024. december 31. napjáig teljesítette a vagyoni hozzájárulást, a 2024. december 31. napján az Eximbank pénzügyi nyilvántartásaiban szereplő adott alap devizanemében nyilvántartott könyv szerinti érték nagyobb a Záró összegnél, az állam legfeljebb az Eximbank által teljesített vagyoni hozzájárulás és a Záró összeg különbözetét téríti meg az Eximbank számára, azzal, hogy amennyiben a könyv szerinti érték alacsonyabb a teljesített vagyoni hozzájárulás összegénél, úgy az állam a könyv szerinti érték és a Záró összeg különbözetét téríti meg.
+
+(5) Az (1)–(4) bekezdésben foglaltakat a befektetési jegyek bármely jogcímen történő részleges vagy teljes elidegenítése esetén az elidegenített befektetési jegyek vonatkozásában kell alkalmazni.
+
+(6) Devizában nyilvántartott alap esetében az állam térítési kötelezettségét a devizában számított Záró összeg elszámolásának napján érvényes MNB árfolyamon átszámított forintösszeg jelenti.
+
+(7) Amennyiben a Záró összeg meghaladja az alap kezelési szabályzatában meghatározott, elvárt, piaci mértékű hozamot, az Eximbank az elvárt hozam feletti hozam összegét befizeti a központi költségvetés javára.
+
+## 3. §
+
+(1) A tőkekiegyenlítés során az állam nevében a nemzeti pénzügyi szolgáltatásokért felelős miniszter (a továbbiakban: miniszter) jár el.
+
+(2) Az Eximbank negyedévente beszámolót készít a miniszter számára az alapokról, amely beszámoló tartalmazza az alapok jegyzett tőkéjét, az Eximbank által vállalt vagyoni hozzájárulás mértékét – teljesített – még nem teljesített bontásban –, az alapok futamidejét, az alapok elvárt hozamát, az adott időszak bekerülési értékét és nettó eszközértékét.
+
+(3) Az Eximbank a (2) bekezdés szerinti beszámolót a negyedévet követő hónap 25-éig elektronikus úton küldi meg a miniszter részére.
+
+## 4. §
+
+(1) Az Eximbank a tőkekiegyenlítésről az alap zárását, illetve az alap befektetési jegyeinek elidegenítését követően számol el a költségvetéssel.
+
+(2) Az Eximbank az e rendelet szerinti elszámolás céljából az alap zárása esetén a Magyar Nemzeti Banknak mint felügyeleti hatóságnak az alap törlésére vonatkozó határozatának keltétől, illetve az alap befektetési jegyeinek elidegenítése esetén az elidegenítésre vonatkozó szerződés aláírásától számított 90 napon belül küldi meg az 1. melléklet szerinti elszámoló lapot a miniszter részére.
+
+(3) Az elszámoló lapnak a miniszter részére történt benyújtását követő 15 munkanapon belül
+
+a) az Eximbank intézkedik a befizetési kötelezettsége teljesítéséről a miniszter által meghatározott számlaszámra,
+
+b) a miniszter intézkedik a tőkekiegyenlítés összegének az Eximbank részére történő folyósításáról az elszámoló lapon meghatározott számlaszámra.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 87/2025. (IV. 24.) Korm. rendelethez
+
+**Elszámoló űrlap a tőkekiegyenlítés elszámolásához**
+
+A tőkeigény felmerülésének oka szempontjából az 1. vagy a 2. pont szerinti tartalommal benyújtandó:
+
+1\. Alap zárása esetén csatolandó dokumentumok:
+
+1.1. Alapkezelői kimutatás (amennyiben készül, úgy a befektetőknek járó hozamszámítás külső fél általi megerősítésével);
+
+1.2. Az Eximbank nyilatkozata a következő tartalommal:
+
+1.2.1. Az Alap pénzügyi zárásáig az Eximbankhoz befolyt összeg és az Eximbank által realizált hozam bemutatása,
+
+1.2.2. Az Exim törvényben meghatározott viszonyítási alaphoz képest a befizetendő vagy lehívásra kerülő összeg,
+
+1.2.3. Az Eximbank cégszerű aláírása,
+
+1.2.4. Az Eximbank számlaszáma.
+
+2\. Az alap befektetési jegyeinek elidegenítése esetén csatolandó dokumentumok:
+
+2.1. Az elidegenítésre vonatkozó szerződés másolata;
+
+2.2. Az Eximbank nyilatkozata a következő tartalommal:
+
+2.2.1. Elidegenítés során az Eximbankhoz befolyt összeg,
+
+2.2.2. Az Exim törvényben meghatározott viszonyítási alaphoz képest az elidegenítési érték alapján szükséges befizetendő vagy lehívásra kerülő összeg,
+
+2.2.3. Az Eximbank cégszerű aláírása,
+
+2.2.4. Az Eximbank számlaszáma.

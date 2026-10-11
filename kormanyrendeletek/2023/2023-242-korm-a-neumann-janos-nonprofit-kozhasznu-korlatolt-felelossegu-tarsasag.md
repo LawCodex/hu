@@ -1,0 +1,115 @@
+---
+title: "242/2023. (VI. 20.) Korm. rendelet a Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság által ellátott közfeladatokról"
+identifier: "242/2023. (VI. 20.) Korm. rendelet"
+njt_id: "2023-242-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/242"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-06-20
+in_force_from: 2023-06-21
+last_amended: 2024-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-242-20-22"
+retrieved: 2026-10-12
+---
+
+# 242/2023. (VI. 20.) Korm. rendelet a Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság által ellátott közfeladatokról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság (a továbbiakban: Neumann Nkft.) közfeladatként látja el a következő feladatokat:
+
+a) részt vesz az iparügyekért és vállalkozásfejlesztésért felelős miniszternek a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 111/C. §-a és 111/E. §-a szerinti feladatainak, valamint
+
+b) az e rendeletben meghatározott esetekben az érintett miniszterrel kötött megállapodás alapján közreműködik az a) pontban foglalt ágazati feladatoktól eltérő, egyéb technológiai fejlesztési, stratégiaalkotási, valamint azokkal összefüggő feladatok
+
+előkészítésében és megvalósításában.
+
+(2) A Neumann Nkft. az e rendeletben nevesített feladatait alapvetően a technológia, gazdaság- és vállalkozás-fejlesztés közpolitikai céljainak megvalósítása érdekében fejti ki, a Neumann Nkft.-nek nem feladata a kormányzati informatikai és az ehhez kapcsolódó – különösen a „Digitális Megújulás Operatív Program Plusz” keretében megvalósuló vagy megvalósítani tervezett – digitális fejlesztések, beruházások végrehajtása.
+
+## 2. §
+
+(1) A Neumann Nkft. az 1. § (1) bekezdés a) pontja szerinti közfeladatai körében
+
+a) végrehajtja az 5G, drón, blockchain, mesterséges intelligencia technológiák, fintech ökoszisztéma építésével, az ezekkel összefüggő stratégiákkal kapcsolatos kormányzati feladatokat, ennek keretében gondoskodik különösen
+
+aa) a Magyarországi 5G Koalíció,
+
+ab) a Mesterséges Intelligencia Koalíció,
+
+ac) a Blockchain Koalíció és
+
+ad) a Magyarországi Drón Koalíció
+
+működtetéséről és programirodai feladatainak ellátásáról;
+
+b) közreműködik a hazai költségvetési forrásból finanszírozott ipar- és technológiafejlesztéssel kapcsolatos feladatok, ideértve különösen az Irinyi Terv iparstratégiai és az Ipar 4.0 programban megfogalmazott feladatok megvalósításában;
+
+c) közreműködik az IPAR 4.0 Nemzeti Technológiai Platform szakmai feladatainak ellátásában;
+
+d) a technológiai ökoszisztéma hazai és nemzetközi megerősítése és fejlesztése érdekében működteti a Neumann Technológiai Platformot (a továbbiakban: Platform), gondoskodik a Platform működéséhez szükséges kormányzati koordináció kereteinek biztosításáról;
+
+e) közreműködik a kiskereskedelmi ellátásbiztonság javítására fókuszáló korszerű kereskedelmi és logisztikai fejlesztésekkel és azok bevezetésével kapcsolatos feladatok ellátásában;
+
+f) közreműködik a hazai mikro-, kis- és középvállalkozások emelt szintű, Ipar. 4.0 fejlesztéseinek támogatását szolgáló intézkedések, kiemelt programok megvalósításában;
+
+g) ellátja a Nemzetközi Technológiai Transzferrel kapcsolatos feladatokat, valamint ennek keretében gondoskodik a programirodai feladatok ellátásáról és a kapcsolódó stratégia végrehajtásához szükséges kormányzati koordináció kereteinek biztosításáról;
+
+h) közreműködik az agrár- és élelmiszer-technológiával kapcsolatos tudásmegosztási rendszer működtetésével, támogatásával és fejlesztésével kapcsolatos feladatok ellátásában;
+
+i) a GINOP 3.1.3-15-2016-00001 számú, „IKT startup cégek nemzetközi piacra lépését segítő szakértői, mentori hálózat kialakítása” elnevezésű program keretében működteti a kezdő technológiai vállalkozások nemzetközi piacra lépését segítő szakértői, mentori hálózatot, valamint részt vesz a startup-ökoszisztéma fejlesztését szolgáló kormányzati kezdeményezések végrehajtásában;
+
+j) közreműködik az ipar-, illetve gyártástechnológiai fejlesztések iparvállalatoknál, kis- és középvállalkozásoknál, valamint logisztikai vagy ipari parkoknál történő adaptációját célzó programok tervezésében és megvalósításában;
+
+k) közreműködik különösen az Ipar 4.0 technológián alapuló új kezdeményezések piacképes termékké és szolgáltatássá való fejlesztését célzó programok tervezésében és végrehajtásában;
+
+l) közreműködik a hazai csúcstechnológiás, különösen Ipar 4.0 termékek és szolgáltatások technológia-transzferét elősegítő programok tervezésében és végrehajtásában;
+
+m) közreműködik az egyes térségi komplex gazdaságtechnológiai-fejlesztési programok kidolgozásában és megvalósításában;
+
+n) közreműködik a hálózattudományi fejlesztések és programok, így különösen az egyes iparági hálózati működési, gyártástechnológia-diagnosztikai és üzemszervezés-diagnosztikai fejlesztések és programok kidolgozásában és megvalósításában.
+
+o)[^1] közreműködik űriparfejlesztési feladatok megvalósításában, különösen
+
+oa) a nemzetközi szervezetekben történő magyar szakértői képviselet biztosításának támogatásában,
+
+ob) a hazai beszállítói hálózat komplex – finanszírozási és tanácsadási programokon – keresztül történő fejlesztésében,
+
+oc) hazai űripari ökoszisztéma külpiaci megjelenésének támogatásában.
+
+(2) A Neumann Nkft. az 1. § (1) bekezdés b) pontja szerinti közfeladatai körében
+
+a) közreműködik a technológiai szakember-utánpótlást elősegítő feladatok szervezésében és megvalósításában;
+
+b) közreműködik a Neumann János életművének gondozásával kapcsolatos feladatok ellátásában;
+
+c) közreműködik az új technológiák használatát kis- és középvállalkozásoknál elősegítő képzésekhez kapcsolódó oktatástechnológiai fejlesztések tervezésével és megvalósításával összefüggő feladatok ellátásában;
+
+d) közreműködik az okos város, illetve okos település- és térségfejlesztési programok tervezésében és megvalósításában;
+
+e) közreműködik a hulladékkezeléssel összefüggő szakmai vizsgálatok és tervezési folyamatok feltárásában, környezeti kockázatnyilvántartó és -elemző technológia kialakításának előkészítésében;
+
+f) az egészségipar, elektromobilitás stratégiai területein közreműködik az új technológiák bevezetéséhez kapcsolódó, valamint a karbonelnyelést és karbonsemlegességet elősegítő vállalkozásfejlesztési és ökoszisztéma-építési feladatok ellátásában;
+
+g) közreműködik a technológia-intenzív közvetlen európai uniós források elérését lehetővé tevő pályázati tevékenység szervezésében, megvalósításában, minőségbiztosításában;
+
+h) közreműködik az Élelmiszeripari Beszállító-fejlesztési Program végrehajtásában;
+
+i) gondozza és továbbfejleszti az egyes fejlett technológiák – így a fintech, a blockchain – alkalmazását támogató állami védjegyeket, ennek keretében gondoskodik a korábbi Digitális Jólét Pénzügyi védjegy fintech védjeggyé történő átalakításáról;
+
+j) a Kormány gyermekvédelmi stratégiáihoz és programjaihoz kapcsolódva – ideértve különösen a Magyarország Digitális Gyermekvédelmi Stratégiájában meghatározott feladatokat – közreműködik a gyermek- és fogyasztóvédelmi, továbbá korszerű tudásátadási és -megosztási technológiák és megoldások kidolgozásában, alkalmazásában és elterjesztésében.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 4. §
+
+E rendelettel a Digitális Jólét Nonprofit Korlátolt Felelősségű Társaságtól (a továbbiakban: Digitális Jólét Nkft.) a Neumann Nkft.-hez átkerült, a 2. § (1) bekezdés a), g) és h) pontjában, valamint a 2. § (2) bekezdés h) és i) pontjában meghatározott feladatok tekintetében az e rendelet hatálybalépése előtt megkötött közszolgáltatási, illetve támogatási szerződésekben a Digitális Jólét Nkft. helyébe jogutódként a Neumann Nkft. lép.
+
+---
+
+[^1]: A 2. § (1) bekezdés o) pontját a 217/2024. (VII. 31.) Korm. rendelet 26. §-a iktatta be.

@@ -1,0 +1,69 @@
+---
+title: "105/2022. (III. 12.) Korm. rendelet az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos szabályairól"
+identifier: "105/2022. (III. 12.) Korm. rendelet"
+njt_id: "2022-105-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/105"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-03-12
+in_force_from: 2022-03-13
+last_amended: 2022-03-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-105-20-22"
+retrieved: 2026-10-12
+---
+
+# 105/2022. (III. 12.) Korm. rendelet az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos szabályairól
+
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerint ajánlatkérőnek minősülő szervezet az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő beszerzés (a továbbiakban: beszerzés) megvalósítása során az e rendelet szerinti sajátos beszerzési szabályokat alkalmazza.
+
+(2) E rendelet alkalmazásában beszerzésnek minősül
+
+a) a menedékjogról szóló törvény szerinti ideiglenes védelemre jogosult személy, valamint
+
+b) az ukrajnai háborús események kapcsán 2022. február 24-én vagy azt követően Magyarországra érkezett, Ukrajnában állandó lakóhellyel rendelkező magyar állampolgár
+
+elhelyezésével, ellátásával, illetve a velük kapcsolatos egyéb körülmény kezelésével közvetlenül összefüggő vagy a velük kapcsolatos egyéb körülmények kezelését irányító állami szerv e rendelet szerinti hatékony feladatellátását szolgáló beszerzés.
+
+(3) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, az állam 100%-os tulajdonában álló gazdasági társaság vagy ezen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság ajánlatkérő a beszerzésre vonatkozó igényt, valamint a (2) bekezdés szerinti célra irányuló, már megkötött szerződés módosítására vonatkozó igényt – az irányító miniszter vagy a tulajdonosi joggyakorló útján – előzetesen köteles benyújtani a miniszterelnök általi állásfoglalás érdekében. A miniszterelnök vagy az általa erre a feladatra kijelölt személy – indokoltsági és költségvetési szempontok alapján – soron kívül állást foglal a beszerzés megvalósíthatóságáról.
+
+(4) A Kbt. 15. § (1) bekezdés *b)* pontjában meghatározott értékhatár elérése vagy meghaladása esetén, ha a beszerzés becsült értéke nem éri el a Kbt. 15. § (1) bekezdés *a)* pontjában foglalt értékhatárt vagy építési beruházás esetén a háromszázmillió forintot, az ajánlatkérő a beszerzést legalább három ajánlat bekérésével valósíthatja meg. Az ajánlatkérő a beszerzés megkezdése előtt legalább három nappal az Elektronikus Közbeszerzési Rendszerben – rendszerhasználati díj fizetésének kötelezettsége nélkül – tájékoztatást tesz közzé, amelyben feltünteti a beszerzés tárgyát, tervezett mennyiségét, a teljesítés helyét és határidejét. Nem szükséges három ajánlat bekérése és az e bekezdés szerinti tájékoztatás előzetes közzététele akkor, ha rendkívüli sürgősség miatt arra nincs lehetőség, vagy ha objektív indokok alapján csak meghatározott gazdasági szereplővel vagy szereplőkkel köthető szerződés. Az ajánlatkérő az e bekezdés szerinti beszerzéseket a Kbt. Harmadik Részében foglalt eljárási szabályok alkalmazásával is megvalósíthatja, amely esetben a Kbt. szabályai a (6) és (7) bekezdés szerinti eltérésekkel alkalmazandók.
+
+(5) A Kbt. 15. § (1) bekezdés *a)* pontjában foglalt értékhatár elérése, építési beruházás esetén háromszázmillió forint becsült érték elérése esetén a Kbt. szabályai az e rendeletben foglalt eltérésekkel alkalmazandóak.
+
+(6) Ha rendkívüli sürgősség miatt a Kbt. szerinti – adott esetben gyorsított eljárásra irányadó – nyílt, meghívásos vagy tárgyalásos eljárásra előírt határidők nem lennének betarthatóak, a Kbt. 98. § (2) bekezdés *e)* pontja szerinti közbeszerzés szabályai azzal az eltéréssel alkalmazhatóak, hogy
+
+a) a Kbt. 41. § (3) bekezdése mindig alkalmazható;
+
+b) a Kbt. 103. § (6) bekezdése nem alkalmazandó.
+
+(7) Bármely közbeszerzési eljárásfajta alkalmazásakor
+
+a) az ajánlatkérő nem köteles megindokolni, ha nem ír elő műszaki és szakmai alkalmasságra vonatkozó alkalmassági feltételt;
+
+b) az ajánlatkérő minden beszerzési tárgy esetében korlátozás nélkül alkalmazhatja a legalacsonyabb ár értékelési szempontját.
+
+(8) A Közbeszerzési Hatóság részére a hirdetmények ellenőrzéséért, valamint a hirdetmény nélküli tárgyalásos eljárás alkalmazásának ellenőrzéséért csak a Kbt. 5. § (1) bekezdés *a)–c)* pontja szerinti ajánlatkérőket terheli igazgatási szolgáltatási díj fizetésének kötelezettsége.
+
+(9) Ha a Kbt. végrehajtási rendelete a beszerzési igény tekintetében kötelezővé teszi az ajánlatkérő számára a valamely központi beszerző vagy ellátó szerv útján történő beszerzést, az ajánlatkérő köteles előzetesen megvizsgálni, hogy a beszerzési igény központosított közbeszerzési eljárás eredményeképpen megkötött keretmegállapodás vagy más keretjellegű szerződés vagy dinamikus beszerzési rendszer alkalmazásával kielégíthető-e. Amennyiben a beszerzési igény nem elégíthető ki hatályos keretmegállapodás vagy más keretjellegű szerződés vagy dinamikus beszerzési rendszer alkalmazásával, abban az esetben a beszerzést az ajánlatkérő saját hatáskörben is megvalósíthatja a (3)–(8) bekezdés szükség szerinti alkalmazásával, és az ajánlatkérő a központi beszerző vagy ellátó szerv felé történő igénybejelentési kötelezettségét utólag teljesíti.
+
+(10) A központi beszerző szerv útján történő beszerzés esetén a központi beszerző szerv részére fizetendő díjelőleg megfizetése alól az ajánlatkérő mentesül, és a díjat utólag, a beszerzési igény kielégítésére irányuló szerződés megkötését követő 90 napon belül fizeti meg.
+
+(11) Az ajánlatkérő eltérhet a közétkeztetés tárgyú közbeszerzések tekintetében alkalmazandó eljárások sajátos szabályairól szóló 676/2020. (XII. 28.) Korm. rendelet rendelkezéseitől.
+
+(12) A (3) bekezdés szerinti állásfoglalás a Kbt. 53. § (5) bekezdése és 135. § (12) bekezdése szerinti feltételként is előírható a közbeszerzési eljárásban.
+
+(13) A részben vagy egészben európai uniós forrásból megvalósított közbeszerzési eljárások, valamint az ezek eredményeképpen megkötött szerződések módosítása esetében az érintett európai uniós alap felhasználására vonatkozó jogszabályok és a támogatásra vonatkozó egyéb szabályok előírásait akként kell alkalmazni, hogy a közbeszerzési eljárással, valamint a szerződésmódosítással összefüggésben csak utólagos ellenőrzés vagy utóellenőrzés szükséges.
+
+## 2. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 3. §
+
+Az 1. § (4) bekezdése szerinti tájékoztatás közzétételére az ajánlatkérő honlapján is sor kerülhet az Elektronikus Közbeszerzési Rendszer közzétételt szolgáló funkciójának elérhetővé válásáig.

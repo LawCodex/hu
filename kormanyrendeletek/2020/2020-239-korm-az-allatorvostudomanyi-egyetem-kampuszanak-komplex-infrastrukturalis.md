@@ -1,0 +1,219 @@
+---
+title: "239/2020. (V. 26.) Korm. rendelet az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről"
+identifier: "239/2020. (V. 26.) Korm. rendelet"
+njt_id: "2020-239-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/239"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-05-26
+in_force_from: 2020-05-27
+last_amended: 2023-06-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-239-20-22"
+retrieved: 2026-10-12
+---
+
+# 239/2020. (V. 26.) Korm. rendelet az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+a 3. § (1) bekezdés a) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 3. § (1) bekezdés b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 3. § (2) bekezdése tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (7) bekezdés 27. pontjában,
+
+a 4. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 1. és 9. pontjában,
+
+az 5. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5., 6. és 27. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az Állatorvostudományi Egyetem komplex infrastrukturális fejlesztése során az ingatlan-nyilvántartás szerinti, Budapest VII. kerület belterület 33824, 33298 és 33299 helyrajzi számú, valamint a Budapest XIV. kerület belterület 31905/8 és 32429 helyrajzi számú ingatlanokon, illetve az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+## 1/A. §[^2]
+
+A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, amelynek helyszíne és közvetlen környezete az 1. § (1) bekezdése szerinti ingatlanok területe.
+
+## 2. §[^3]
+
+A Kormány
+
+a)[^4] az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt,
+
+b)[^5] az 1. melléklet 21. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként a Pest Vármegyei Kormányhivatalt
+
+jelöli ki.
+
+## 3. §
+
+(1) A Beruházással összefüggésben
+
+a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,
+
+b) településképi véleményezési eljárásnak nincs helye,
+
+c) településképi bejelentési eljárást nem kell lefolytatni.
+
+(2) A Beruházással érintett földrészleteken lévő fás szárú növények kivágása esetén azok pótlásáról 2025. december 31. napjáig kell gondoskodni, azzal, hogy a kivágott fák és cserjék pótlásának várható időpontját a kérelemben fel kell tüntetni.
+
+## 4. §
+
+(1) A Beruházás esetében az előzetes régészeti dokumentáció elkészítésében és a feltárási projekttervben foglalt régészeti feladatok ellátásában a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság jár el.
+
+(2) A Beruházás esetén az előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet alkalmazni, ha a beruházó rendelkezésére állnak az annak elvégzéséhez szükséges földrészletek. A földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
+
+## 5. §
+
+(1) Az 1. § (1) bekezdése szerinti ingatlanok telkére a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+
+a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b)[^6] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2)[^7] Az 1. § (1) bekezdése szerinti, Budapest VII. kerület belterület 33298 helyrajzi számú ingatlan esetén
+
+1\. a meglévő épületeket meglévő épületként kell figyelembe venni az épületszerkezetek hőtechnikai, energetikai és a tűzvédelmi követelmények szempontjából,
+
+2\. az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 25%-ának elhelyezését kell biztosítani,
+
+3\. a beépítettség megengedett legnagyobb mértéke 45%,
+
+4\. a zöldfelület megengedett legkisebb mértéke 20%,
+
+5\. a legnagyobb terepszint feletti szintszám alapértéke 7 darab,
+
+6\. a legnagyobb terepszint alatti legmagasabb szintszám alapértéke 4 darab,
+
+7\. a meglévő épületekhez csatlakozó épületrészeknél zártsorú beépítési módot kell alkalmazni,
+
+8\. az épület legnagyobb épületmagasságát a meglévő épületekhez csatlakozó épületrészeknél a kialakuló új épülettömegre vonatkozóan kell alkalmazni,
+
+9\. az épületmagasság megengedett legnagyobb értéke 29,0 méter,
+
+10\. kijelölt építési helyen kívül is létesíthető terepszint alatti beépítés, illetve az épület működését szolgáló épületrész, különösen hő- és füstelvezető kürtő, gépészeti felépítménye, az épület megközelítését szolgáló, illetve menekítő lépcső,
+
+11\. az első pinceszint alatti funkcióktól eltérő funkciók is létesíthetők földszint alatti szinteken, és azoknak mesterséges világítás biztosítása elegendő,
+
+12\. a kialakuló lapostető-felületen tetőkertet nem kell kialakítani,
+
+13\. több gépkocsibehajtó esetén a gépkocsibejáratok nyílásainak összegzett szélessége maximum 34 méter lehet,
+
+14\. a szomszédos építési telken lévő épületek közötti telepítési távolság legkisebb mértéke 14 méter lehet,
+
+15\. az udvari homlokzat és annak külső oldalán csatlakozó telekhatár csatlakozásától mérve szögtől függetlenül legalább 1,0 méter távolságra létesíthető nyílászáró,
+
+16\. elő- és oldalkertet nem kell biztosítani.
+
+(3) A Beruházással érintett ingatlanokon egészségügyi, oktatási, iroda, sport, labor, állatház, kollégium és apartman funkciójú épületek is elhelyezhetők, továbbá a meglévő épületek rendeltetése az előbbiekben felsorolt funkciókra megváltoztatható.
+
+(4)[^8] A Beruházással érintett ingatlanokon a Beruházással összefüggő felvonulási építmény, valamint ingatlanonként legfeljebb bruttó 450 m<sup>2</sup> alapterületű, ideiglenes ideig fennálló építmény az OTÉK alapvető előírásainak figyelembevételével és építési engedély nélkül építhető, azzal, hogy ezen építmények lebontása kártalanítási igény nélkül legkésőbb 2025. december 31. napjáig kötelező.
+
+(5)[^9] A Beruházással érintett Budapest VII. kerület belterület 33299 helyrajzi számú ingatlanon létesítendő ideiglenes ideig fennálló építmény megvalósítása érdekében az ingatlanon található meglévő építmények bontási engedély nélkül, elektronikus építési napló vezetésével elbonthatók.
+
+(6)[^10] A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a magántulajdonban álló ingatlanokon lévő fás szárú növények vonatkozásában is a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Pest Vármegyei Kormányhivatal által kijelölt, az Állatorvostudományi Egyetem tulajdonában álló, másik ingatlanon kell teljesíteni, valamint az értékes növények tekintetében azok áttelepítése kötelező ugyanazon ingatlanra, amelyen az értékes növények megtalálhatók. Az áttelepítésről az engedélyes az engedélyt követő 2 éven belül köteles gondoskodni.
+
+## 5/A. §[^11]
+
+A Beruházás előkészítésére és megvalósítására irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban Korm. rendelet) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+
+## 6. §
+
+A Beruházás esetében a használatbavételi engedély ideiglenesen adható ki, amennyiben
+
+a) a rendeltetésszerű használathoz – az 5. § (2) bekezdés 3. pontja figyelembevételével – előírt, a személygépkocsik elhelyezésének biztosítása vagy
+
+b) az építési, illetve a használatbavételi engedélyben meghatározott zöldfelület kialakítása
+
+még nem történt meg.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 8. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+## 9. §[^12]
+
+E rendeletnek az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet, továbbá a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 621/2021. (XI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését, 1/A. §-át, 2. §-át, 5. § (2) és (4)–(6) bekezdését, 5/A. §-át a Módr. hatálybalépésekor[^13] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 10. §[^14]
+
+E rendeletnek a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet és az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet módosításáról szóló 219/2023. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr.2) módosított 1. § (1) bekezdését és a Módr.2-vel megállapított 5. § (2) bekezdését a Módr.2 hatálybalépésekor[^15] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 239/2020. (V. 26.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+11\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+12\. telekalakításra irányuló hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+15\. hírközlési hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. tűzvédelmi hatósági eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. területrendezési hatósági eljárások,
+
+21\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+22\. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+23\. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 621/2021. (XI. 8.) Korm. rendelet 1. §-ával megállapított, az 546/2022. (XII. 22.) Korm. rendelet 244. § a) pontja, a 219/2023. (VI. 1.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 621/2021. (XI. 8.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 2. § a 621/2021. (XI. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 2. § a) pontja az 546/2022. (XII. 22.) Korm. rendelet 243. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § b) pontja az 546/2022. (XII. 22.) Korm. rendelet 243. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 110. §-a szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdését az 546/2022. (XII. 22.) Korm. rendelet 244. § b) pontja hatályon kívül helyezte, újonnan a 219/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
+[^8]: Az 5. § (4) bekezdése a 621/2021. (XI. 8.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (5) bekezdését a 621/2021. (XI. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^10]: Az 5. § (6) bekezdését a 621/2021. (XI. 8.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 243. § b) pontja szerint módosított szöveg.
+[^11]: Az 5/A. §-t a 621/2021. (XI. 8.) Korm. rendelet 5. §-a ikktatta be.
+[^12]: A 9. §-t a 621/2021. (XI. 8.) Korm. rendelet 6. §-a ikktatta be.
+[^13]: A hatálybalépés időpontja 2021. november 9.
+[^14]: A 10. §-t a 219/2023. (VI. 1.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2023. június 2.

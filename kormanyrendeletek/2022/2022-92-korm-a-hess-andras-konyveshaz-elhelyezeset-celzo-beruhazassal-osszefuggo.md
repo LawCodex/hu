@@ -1,0 +1,136 @@
+---
+title: "92/2022. (III. 8.) Korm. rendelet a Hess András Könyvesház elhelyezését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "92/2022. (III. 8.) Korm. rendelet"
+njt_id: "2022-92-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/92"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-03-08
+in_force_from: 2022-03-09
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-92-20-22"
+retrieved: 2026-10-12
+---
+
+# 92/2022. (III. 8.) Korm. rendelet a Hess András Könyvesház elhelyezését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a) és d) pontjában,
+
+a 3. § a) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+a 3. § b) és c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § tekintetében a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 93. § (1) bekezdés 1., 9. és 11. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a Budapest belterület 24189/2 helyrajzi számú, természetben a Budapest V. kerület Kossuth Lajos utca 3., Szép utca 1. szám alatti ingatlan (a továbbiakban: Ingatlan) rekonstrukcióját, valamint a Hess András Könyvesház elhelyezését célzó beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó, az Ingatlan megközelítését, működését és városképi illeszkedését segítő – közterület- és zöldfelület-rendezési, útépítési, közműcsatlakozási és -fejlesztési, valamint az azokkal közvetlenül összefüggő – munkákkal kapcsolatosak.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+A Beruházással összefüggésben
+
+a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 5. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekben az ügyintézési határidő – amennyiben jogszabály rövidebb határidőt nem állapít meg – tizenöt nap.
+
+(2) Amennyiben az 1. § (2) bekezdés b) pontja szerinti közigazgatási hatósági ügyben szakhatóság közreműködése szükséges, a szakhatóság a szakhatósági állásfoglalást haladéktalanul, de – amennyiben jogszabály rövidebb határidőt nem állapít meg – legfeljebb nyolc napon belül köteles kiadni.
+
+(3) A Beruházással érintett közmű- és energiaszolgáltató, valamint közútkezelő a benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt napon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, közútkezelő öt napon belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 92/2022. (III. 8.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi és építésfelügyeleti hatósági eljárások,
+
+2\. kulturális örökségvédelmi hatósági eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. közegészségügyi hatósági eljárások,
+
+6\. élelmiszerlánc-felügyeleti eljárások,
+
+7\. tűzvédelmi hatósági eljárások,
+
+8.[^2] iparbiztonsági eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
+
+10\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+11\. magánvezeték létesítésével, bővítésével és megszüntetésével kapcsolatos eljárások,
+
+12\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+13\. földmérési hatósági eljárások,
+
+14\. ingatlan-nyilvántartással és az ingatlan-nyilvántartási térképi adatbázis változásával összefüggő hatósági eljárások,
+
+15\. telekalakítási eljárások,
+
+16\. távhővezetékekkel kapcsolatos hatósági eljárások,
+
+17\. hírközlési hatósági eljárások,
+
+18\. útügyi hatósági eljárások,
+
+19\. vízügyi és vízvédelmi hatósági eljárások,
+
+20\. bányahatósági eljárások,
+
+21\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+22\. területrendezési hatósági eljárások,
+
+23\. hulladékgazdálkodási hatósági eljárás,
+
+24\. kapcsolódó villamosenergia-, gáz- és egyéb közművek engedélyeztetésére irányuló hatósági eljárások,
+
+25\. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+26\. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 290. § a)-b) pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 346. §-a szerint módosított szöveg.

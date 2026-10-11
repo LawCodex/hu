@@ -1,0 +1,294 @@
+---
+title: "690/2021. (XII. 8.) Korm. rendelet a Stipendium Hungaricum Sport Ösztöndíjprogramról, valamint a Stipendium Hungaricum Sport Ösztöndíjprogram működésével összefüggő egyes kormányrendeletek módosításáról"
+identifier: "690/2021. (XII. 8.) Korm. rendelet"
+njt_id: "2021-690-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/690"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-12-08
+in_force_from: 2021-12-09
+last_amended: 2025-10-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-690-20-22"
+retrieved: 2026-10-12
+---
+
+# 690/2021. (XII. 8.) Korm. rendelet a Stipendium Hungaricum Sport Ösztöndíjprogramról, valamint a Stipendium Hungaricum Sport Ösztöndíjprogram működésével összefüggő egyes kormányrendeletek módosításáról
+
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében foglalt feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Stipendium Hungaricum Sport Ösztöndíjprogram
+
+### 1. §
+
+(1) A Stipendium Hungaricum Sport Ösztöndíjprogram (a továbbiakban: Ösztöndíjprogram) célja a nemzetközi szinten elismert sportteljesítménnyel rendelkező, a 7. § (3) bekezdés a) pontja szerinti külföldi állampolgárságú hallgatók magyar felsőoktatási intézményben (a továbbiakban: felsőoktatási intézmény) folytatandó tanulmányainak – ideértve a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 80. § (2) bekezdés d) pontja szerinti előkészítő tanulmányok lehetőségét is – és a magyar felsőoktatási és felsőoktatáson kívüli versenysportban történő részvételének kiemelt támogatása, továbbá a hazai felsőoktatási sportélet fejlesztése.
+
+(2) Az Ösztöndíjprogram végrehajtása során
+
+a) az Ösztöndíjprogram szakmai irányítását a külpolitikáért felelős miniszter (a továbbiakban: miniszter) látja el, érvényesítve hazánk közép- és hosszú távú külpolitikai és sportdiplomáciai célkitűzéseit,
+
+b)[^1] a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 30/A. § (1) bekezdés a) pontjában meghatározott nemzetközi sportszövetség vagy nemzeti olimpiai bizottságok tagságával rendelkező nemzetközi szervezetként működő regionális sportszövetség (a továbbiakban együtt: nemzetközi sportszövetség), mellyel a miniszter a 2. § (1) bekezdése szerinti megállapodást köt, közreműködik az Ösztöndíjprogram nemzetközi promóciójában, javaslatot tesz az Ösztöndíjprogramban részt vevők körére, valamint sportszakmai humánerőforrás támogatást nyújt az országos sportági szakszövetség és az ösztöndíjast fogadó, az Stv. 15. § (1) bekezdésében meghatározott magyar sportszervezet (a továbbiakban: sportszervezet) számára,
+
+c) a felsőoktatási intézmény gondoskodik a nemzetközi sportszövetség által az Ösztöndíjprogramban részvételre jelölt, illetve a hallgatói pályázatra jelentkező személy (a továbbiakban: pályázó) állampolgársága szerinti ország szakági sportszövetsége (a továbbiakban: nemzeti sportszövetség) által sportszakmai szempontból alkalmasnak minősített személy felsőoktatási felvételi eljárásának lefolytatásáról, a hallgatói jogviszony létrehozásáról és a felsőoktatási versenysportban történő részvétel biztosításáról,
+
+d) az országos sportági szakszövetség sportszakmai támogatást nyújt az Ösztöndíjprogramban részt vevők kiválasztásához, megteremti az ösztöndíjas edzésének, magyar versenysportban történő szereplésének lehetőségét, ideértve az ehhez szükséges humán feltételek és szervezeti struktúra biztosítását, valamint ehhez tartozó szolgáltatások, így különösen csapatorvos, csapat fizioterapeuta, pszichológus biztosítását, és – az érintett felsőoktatási intézménnyel, a Hallgatói Önkormányzatok Országos Konferenciájával és a Tempus Közalapítvánnyal (a továbbiakban: Közalapítvány) együttműködve – elősegíti az ösztöndíjas sportközösségbe történő beilleszkedését,
+
+e) a Magyar Egyetemi-Főiskolai Sportszövetség megteremti az ösztöndíjas szereplésének lehetőségét a Magyar Egyetemi-Főiskolai Országos Bajnokságon.
+
+### 2. §
+
+(1) Az Ösztöndíjprogramban való részvétel feltétele az e rendeletben meghatározott hallgatói pályázat (a továbbiakban: hallgatói pályázat) és
+
+a) a miniszter nemzetközi sportszövetséggel kötött megállapodása (a továbbiakban: Megállapodás) alapján a nemzetközi sportszövetség jelölése vagy
+
+b) a nemzeti sportszövetségnek a pályázó – pályázati felhívásban előírt – sportszakmai alkalmasságáról szóló nyilatkozata.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben a nemzetközi sportszövetség a pályázók közül kiválasztja az Ösztöndíjprogramban részvételre jelölteket, és erről tájékoztatja a Közalapítványt.
+
+(3) Az (1) bekezdés szerinti esetben a Közalapítvány megvizsgálja az előzetes felmérés alapján
+
+a) az országos sportági szakszövetséggel egyeztetve a pályázó sportszakmai alkalmasságát, a pályázó edzésének lehetőségeit, a pályázót fogadó lehetséges magyar sportszervezetek körét és
+
+b) a pályázó felsőoktatási felvételi eljárásának lefolytatását vállaló és a pályázó sporttevékenységét lehetővé tevő felsőoktatási sportélettel rendelkező felsőoktatási intézmények körét.
+
+## 2. Az Ösztöndíjprogram végrehajtása és működése
+
+### 3. §
+
+(1) Az Ösztöndíjprogram végrehajtását e rendelet és a Megállapodás, valamint az Ösztöndíjprogram működési szabályzata szabályozza.
+
+(2) A Megállapodás a célok meghatározása mellett rögzíti az Ösztöndíjprogram egyes eljárási és finanszírozási kérdéseit – ideértve azt a lehetőséget is, hogy a nemzetközi sportszövetség részt vállaljon az Ösztöndíjprogram sportszakmai feladatainak finanszírozásában –, a miniszter és a nemzetközi sportszövetség által vállalt kötelezettségeket, és meghatározza együttműködésük további irányait.
+
+(3) Az Ösztöndíjprogram működési szabályzata tartalmazza
+
+a) az ösztöndíjasok képzésének, előmenetelének monitorozására vonatkozó előírásokat,
+
+b) az ösztöndíjasok havi megélhetési támogatásának (a továbbiakban: ösztöndíj) mértékét és megítélésének rendszerét,
+
+c) az ösztöndíjas szerződés megkötéséhez felhasználható szerződésminta kötelező elemeit,
+
+d) a hallgatói pályázat, valamint a kiválasztás alapelveit, beleértve a pályázók körét,
+
+e) az ösztöndíjas számára nyújtandó hallgatói szolgáltatások körét,
+
+f) az ösztöndíjasok jogait és kötelezettségeit,
+
+g) a felsőoktatási intézmények jogait és kötelezettségeit,
+
+h) a miniszteri jelölés rendjét,
+
+i) az ösztöndíjas jogviszony megszűnésének és megszüntetésének eseteit,
+
+j) a kiválasztási eljárásban közreműködő testület működési rendjét,
+
+k) a pályázók személyes adatainak kezelésére vonatkozó hozzájáruláshoz szükséges mintanyilatkozat szövegét,
+
+l) a sportágspecifikus szabályokat.
+
+### 4. §
+
+(1)[^2] Az Ösztöndíjprogram működtetéséért a miniszter felel. A felsőoktatásért felelős miniszter és a sportpolitikáért felelős miniszter közreműködik az Ösztöndíjprogramra vonatkozó stratégia kialakításában és végrehajtásában az oktatáspolitikai és a sportpolitikai szempontok érvényesítése révén. A sportpolitikáért felelős miniszter koordinálja az Ösztöndíjprogram sportszakmai végrehajtását, ideértve az országos sportági szakszövetségek részvételét az Ösztöndíjprogramban, továbbá a sportszakmai végrehajtás ellenőrzését.
+
+(2) Az Ösztöndíjprogram lebonyolítását a Közalapítvány látja el.
+
+(3) A miniszter a kiválasztási eljárásban közreműködő testületet hozhat létre.
+
+(4)[^3] Az Ösztöndíjprogram végrehajtásának költségét a központi költségvetés fedezi. Az ösztöndíjak és az Ösztöndíjprogram működtetésének pénzügyi fedezetét a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) költségvetési fejezetében kell tervezni. A minisztérium a költségvetési fejezet terhére a felsőoktatási intézmény rendelkezésére bocsátja támogatói okirat vagy fejezetek közötti megállapodás formájában az ösztöndíjak, a lakhatási támogatás, a külföldi hallgatói helyek önköltsége, valamint a szervezési átalány és a magyar nyelvi képzési átalány, egészségügyi hozzájárulás összegét, illetve biztosítja az Ösztöndíjprogram működtetésének költségeit a Közalapítvány számára, továbbá biztosítja a minisztérium által közvetlenül ellátandó feladatok végrehajtását, valamint biztosítja az országos sportági szakszövetségek számára az Ösztöndíjprogramhoz kapcsolódó költségeket.
+
+(5)[^4] A felsőoktatási intézmény a részére az e rendelet alapján megállapított és rendelkezésre bocsátott támogatás rendeltetésszerű felhasználásáról – az Ösztöndíjprogram megvalósításához kapcsolódó költségeket igazoló számviteli bizonylatok benyújtása nélkül – a költségvetési évre vonatkozó jogosult hallgatói létszám alapján számol be a támogatói okiratban vagy fejezetek közötti megállapodásban meghatározott tartalommal és határidőben.
+
+(6)[^5] Az e rendelet alapján nyújtott költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 93. § (1a) bekezdését és (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az Ösztöndíjprogram megvalósításához kapcsolódó költségekről készített összesítő kötelező tartalmi elemeit a támogatói okiratban vagy fejezetek közötti megállapodásban kell meghatározni.
+
+### 5. §
+
+(1) A miniszter
+
+a) jóváhagyja az Ösztöndíjprogram működési szabályzatát,
+
+b) jóváhagyja az Ösztöndíjprogram végrehajtásával kapcsolatos éves beszámolót,
+
+c) ellátja az Ösztöndíjprogram szakmai irányításával és pénzügyi tervezésével kapcsolatos feladatokat,
+
+d) az Ösztöndíjprogram vonatkozásában ellátja – a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság útján – a magyar nyelvi képzések nyújtásával összefüggő egyes feladatokat.
+
+(2) A Közalapítvány kuratóriuma
+
+a) dönt az ösztöndíj odaítéléséhez szükséges hallgatói pályázat eredményéről,
+
+b) jóváhagyja az Ösztöndíjprogram végrehajtási útmutatóját, a hallgatói pályázati felhívást,
+
+c) elfogadja az Ösztöndíjprogram működési szabályzatát.
+
+(3) Az ösztöndíjat a miniszter megbízásából a Közalapítvány adományozza azzal a feltétellel, hogy az ösztöndíjasnak aktív hallgatói jogviszonyt kell létesítenie.
+
+### 6. §
+
+Az Ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
+
+a) a miniszterrel előzetesen egyeztetett iránymutatások alapján kidolgozza a hallgatói pályázati felhívást, az Ösztöndíjprogram működési szabályzatát, az Ösztöndíjprogram végrehajtási útmutatóját, valamint – az érintett országos sportági szakszövetség bevonásával – azok sportágspecifikus részeit,
+
+b) a honlapján közzéteszi a hallgatói pályázati felhívást, az Ösztöndíjprogram működési szabályzatát és végrehajtási útmutatóját,
+
+c) lefolytatja a hallgatói pályázati eljárásokat,
+
+d) gondoskodik az Ösztöndíjprogram részét képező egyéb programok megszervezéséről és lebonyolításáról, ideértve a mentor- és az alumni hálózat működtetését és a végzett hallgatók pályakövetését,
+
+e) kapcsolatot tart a felsőoktatási intézményekkel.
+
+### 7. §
+
+(1) A Közalapítvány a Stipendium Hungaricum programban részt vevő, a 8. §-ban foglaltaknak megfelelő felsőoktatási intézményekkel kötött keretmegállapodások alapján hallgatói pályázatot hirdet meg önköltséges helyre.
+
+(2) A hallgatói pályázati felhívás tartalmazza
+
+a) a hallgatói pályázati feltételeket,
+
+b) a pályázat benyújtásának határidejét,
+
+c) az értékelés szempontrendszerét,
+
+d) a hallgatóknak biztosított ösztöndíj és juttatások aktuális mértékét és
+
+e) a tanulmányi előmenetellel összefüggő követelményeket.
+
+(3) A pályázati eljárásban az a pályázó vehet részt, aki
+
+a) külföldi állampolgár, ide nem értve az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam állampolgárát, továbbá az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személyt,
+
+b) nemzetközi sportszövetség által elismert szintű sportteljesítménnyel rendelkezik olyan sportágban, amely az ösztöndíjas szerződés megkötésének időpontjában azt közvetlenül megelőzően legalább három egymást követő olimpián szerepelt,
+
+c) a nemzetközi sportszövetség jelölésével vagy a nemzeti sportszövetség sportszakmai alkalmasságáról szóló nyilatkozatával vagy a miniszter – az Ösztöndíjprogram működési szabályzatában meghatározott eljárás szerint kiadott – egyedi hozzájárulásával rendelkezik,
+
+d) vállalja, hogy az ösztöndíj elnyerését követően ösztöndíjszerződést köt,
+
+e) vállalja, hogy hallgatói jogviszonyának időtartama alatt a pályázati felhívásban meghatározott időtartamra az Stv. 1. § (3) bekezdésében meghatározott versenyzőként segíti a magyar sport fejlődését,
+
+f) korábban ugyanazon vagy magasabb képzési szinten nem vett részt az Ösztöndíjprogramban, és
+
+g) megfelel a magyar sportegészségügyi előírásoknak.
+
+(4) A pályázat benyújtásakor a pályázónak nyilatkoznia kell arra vonatkozóan, hogy hozzájárul személyes adatainak a pályázati eljárás során és az Ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez.
+
+(5) Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket.
+
+(6) Az ösztöndíjassal a fogadó felsőoktatási intézmény ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
+
+### 8. §
+
+(1) Az Ösztöndíjprogramban kizárólag azon felsőoktatási intézmények és képzések vehetnek részt, amelyek
+
+a) érvényes keretmegállapodással rendelkeznek a Közalapítvánnyal a Stipendium Hungaricum programban, és
+
+b) vállalják az ösztöndíjas magyar nyelvi képzését és a felsőoktatási versenysportban történő részvételét az ösztöndíjas felsőoktatási tanulmányai alatt, valamint az Ösztöndíjprogram működési szabályzatában meghatározott feltételek teljesítését.
+
+(2) A felsőoktatási intézmények az Ösztöndíjprogramban kötött keretmegállapodásban, valamint az Ösztöndíjprogram működési szabályzatában és végrehajtási útmutatójában meghatározott feltételek szerint vehetnek részt a programban.
+
+(3) Magyar nyelvi képzés nyújtásáért a felsőoktatási intézmény jogosult a képzési költségén felül a magyar nyelvi képzési átalánytámogatásra.
+
+(4) A felsőoktatási intézmény az Nftv. 3. melléklet I/B. fejezet 1. pont h) alpontja szerinti, az ösztöndíjjal kapcsolatos adatszolgáltatási kötelezettségének a felsőoktatási információs rendszer útján tesz eleget.
+
+## 3. Az ösztöndíjast megillető juttatások
+
+### 9. §
+
+(1) Az ösztöndíjast az ösztöndíjszerződés időtartamára a következő juttatások illetik meg:
+
+a) mentesség az oktatás önköltségének megtérítése alól,
+
+b) az Nftv. 81. § (1) bekezdése szerinti díjmentes szolgáltatások és (2) bekezdése szerinti mentesség,
+
+c) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont id) alpontjában meghatározott egészségügyi szolgáltatás.
+
+(2) Az ösztöndíjas a következő juttatásokban részesül az Ösztöndíjprogram működési szabályzata alapján:
+
+a) ösztöndíj, melynek mértékét és feltételeit a miniszter határozza meg, és az Ösztöndíjprogram működési szabályzatában teszi közzé,
+
+b) kollégiumban történő elhelyezés vagy lakhatási támogatás,
+
+c) egészségügyi hozzájárulás,
+
+d) egyéb, az ösztöndíjas sportversenyekre való felkészülését, valamint felsőoktatási előmenetelét segítő szolgáltatások.
+
+(3) Nemzetközi sportszövetség, országos sportági szakszövetség és magyar sportszervezet az e rendeletben meghatározott juttatásokon kívül egyéb támogatást vagy szolgáltatást nyújthat az ösztöndíjas részére.
+
+### 10. §
+
+(1) Az ösztöndíj és a lakhatási támogatás a hallgatói jogviszonyban álló ösztöndíjas részére a tanulmányai során folyósítható, ha az adott tanulmányi időszakban aktív hallgatói jogviszonnyal rendelkezik.
+
+(2) Annak az ösztöndíjasnak, aki az Ösztöndíjprogram keretében oklevelet szerez a tavaszi félév végén, és az adott évi új pályázati eljárásban magasabb képzési szinten ösztöndíjat nyer, az oklevélszerzés félévében hatályos ösztöndíjas szerződése az adott év augusztus 31-ig meghosszabbodik, és megilletik az ösztöndíjas juttatások.
+
+(3) Az ösztöndíjast a fogadó felsőoktatási intézmény hallgatói követelményrendszerében, valamint az Ösztöndíjprogram működési szabályzatában, az Ösztöndíjprogram végrehajtási útmutatójában, az ösztöndíjas szerződésben, a vonatkozó jogszabályokban és a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában rögzített jogok és kötelezettségek illetik meg, illetve terhelik.
+
+## 4. Az ösztöndíjas szerződés
+
+### 11. §
+
+(1) Ösztöndíjas szerződés azzal köthető, aki
+
+a) sportszakmai alkalmasságát a nemzetközi sportszövetség vagy a nemzeti sportszövetség igazolta,
+
+b) megfelel a magyar sportorvosi alkalmassági előírásoknak,
+
+c) a választott tanulmányok elvégzéséhez megfelelő szintű nyelvismerettel rendelkezik,
+
+d) felsőoktatási intézménybe felvételt nyert, valamint
+
+e) az Stv. 19. § (3) bekezdés a), b) és d) pontjában meghatározott sportszövetség által kiállított versenyengedéllyel (a továbbiakban: versenyengedély) rendelkezik.
+
+(2) Az ösztöndíjas szerződésnek tartalmaznia kell
+
+a) az adott szakra vonatkozó képzési és kimeneti követelményben meghatározott képzési időt, illetve az Nftv. 80. § (2) bekezdés d) pontja szerinti előkészítő tanulmányok időtartamát;
+
+b) az ösztöndíjnak az Ösztöndíjprogram működési szabályzatában meghatározott havi összegét és annak kifizetése időpontját, módját;
+
+c) a más felsőoktatási intézménybe történő átvétel rendjét;
+
+d) az adatkezeléshez való hozzájárulást;
+
+e) azt a feltételt, hogy az ösztöndíjas szerződés abban az időpontban lép hatályba, amikor az ösztöndíjas hallgatói jogviszonyt létesít;
+
+f) az ösztöndíjas jogviszony, valamint a felsőoktatási tanulmányok szüneteltetésének és megszűnésének rendjét;
+
+g) a magyar nyelv tanulásának kötelezettségét;
+
+h) a versenyengedély azonosító számát;
+
+i) az országos sportági szakszövetség megnevezését, amely gondoskodik az ösztöndíjas nyilvántartásáról, igazolásáról, átigazolásáról.
+
+(3) Az ösztöndíjas szerződés – az (5) bekezdésben, a 10. § (2) bekezdésében, valamint az Nftv. 59. § (1) bekezdés a) pontjában foglalt kivétellel – megszűnik, ha az ösztöndíjas hallgatói jogviszonya megszűnik.
+
+(4) Az ösztöndíjas szerződést a Közalapítvány felmondhatja, ha az ösztöndíjas nem tesz eleget az ösztöndíjas szerződésben foglalt feltételeknek, valamint az edzéssel kapcsolatos és a versenyzésre vonatkozó edzői utasításoknak, illetve egyéb, a sportolással összefüggő kötelezettségeinek.
+
+(5) Doktori képzésben abszolutóriumot szerzett, de doktori fokozatot még nem szerzett ösztöndíjasnak az ösztöndíjas szerződése a doktori fokozat megszerzéséig, de legfeljebb 1 évig szünetel, azzal, hogy a doktori fokozat megszerzése hiányában 1 év után megszűnik. Ha az ösztöndíjas az erre vonatkozó külön pályázati eljárásban ösztöndíjat nyer, az abszolutórium megszerzését követően legfeljebb 12 hónapra szóló ösztöndíjban részesíthető.
+
+(6) Az ösztöndíjas szerződés a felek egyetértésével módosítható.
+
+### 12. §
+
+(1) Az ösztöndíjas az ösztöndíjas szerződésben foglaltak szerint köteles a felvételi vagy átvételi határozatban érintett felsőoktatási intézménnyel hallgatói jogviszonyt létesíteni; és – összhangban az Stv. 3. § (1) bekezdés második mondatában biztosított lehetőséggel – a fogadó sportszervezetnél és a felsőoktatási intézmény sportszervezeténél a versenyengedélyét az ösztöndíjszerződés alatt megfelelő időtartamban fenntartani.
+
+(2) Ha az ösztöndíjas hallgatói jogviszonya megszűnik, részére a továbbiakban – a 10. § (2) bekezdésében és a 11. § (5) bekezdésében foglalt kivétellel – az ösztöndíj nem folyósítható. Ha az ösztöndíjas a hallgatói jogviszonyát szünetelteti, a szüneteltetés ideje alatt részére az ösztöndíj nem folyósítható.
+
+## 5. Záró rendelkezések
+
+### 13. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 14. §
+
+Az Ösztöndíjprogram első alkalommal a 2022/2023-as tanévben indul.
+
+### 15. §[^6]
+
+E rendeletnek a Stipendium Hungaricum Sport Ösztöndíjprogramról, valamint a Stipendium Hungaricum Sport Ösztöndíjprogram működésével összefüggő egyes kormányrendeletek módosításáról szóló 690/2021. (XII. 8.) Korm. rendelet módosításáról szóló 305/2025. (X. 9.) Korm. rendelettel módosított 1. § (2) bekezdés b) pontja alapján első alkalommal a 2026/2027. tanévre létesíthető ösztöndíjas jogviszony.
+
+---
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 305/2025. (X. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 305/2025. (X. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (4) bekezdése az 549/2023. (XII. 12.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdése az 549/2023. (XII. 12.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (6) bekezdése az 549/2023. (XII. 12.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 305/2025. (X. 9.) Korm. rendelet 2. §-a iktatta be.

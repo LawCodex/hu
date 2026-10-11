@@ -1,0 +1,245 @@
+---
+title: "2/2020. (I. 13.) Korm. rendelet az olajfogyasztó technológiai rendszerek és ipari gáztárolók műszaki-biztonsági hatósági felügyeletéről"
+identifier: "2/2020. (I. 13.) Korm. rendelet"
+njt_id: "2020-2-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/2"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-01-13
+in_force_from: 2020-03-13
+last_amended: 2020-03-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-2-20-22"
+retrieved: 2026-10-12
+---
+
+# 2/2020. (I. 13.) Korm. rendelet az olajfogyasztó technológiai rendszerek és ipari gáztárolók műszaki-biztonsági hatósági felügyeletéről
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya kiterjed a 30 kg/h feletti tüzelőanyag-fogyasztású olaj- és egyéb cseppfolyós tüzelőanyag-fogyasztó technológiai rendszerek (a továbbiakban: olajfogyasztó technológiai rendszerek), az 5 m<sup>3</sup> vagy annál nagyobb névleges térfogatú, éghető gázok tárolására szolgáló, nyomástartó berendezésnek nem minősülő, ipari, mezőgazdasági vagy szolgáltatási célú tartályos gáztárolók tervezőire, kivitelezőire, tulajdonosaira, üzemeltetőire, felhasználóira, műszaki biztonságára és hatósági felügyeletére.
+
+(2) E rendeletet nem kell alkalmazni:
+
+a) a bányafelügyelet alá tartozó olajfogyasztó berendezésekre, technológiai rendszerekre,
+
+b) a földi alatti gáztárolókra, valamint
+
+c) a berendezés telepítési helyén a szándékolt üzemeltetési körülmények között 0,5 barnál nagyobb túlnyomás alatt álló gáztárolókra.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *átalakítás:* olyan beavatkozás, amely az olajfogyasztó technológiai rendszerberendezés, a gáztároló eredeti funkciójának, műszaki kialakításának, technológiai paramétereinek a megváltoztatását eredményezi;
+
+2\. *egyenértékű műszaki biztonsági szint:* a kor műszaki színvonalának megfelelő, a harmonizált szabványok, honosított harmonizált szabványok, nemzeti szabványok szerinti vagy a tervező által igazolt, eltérő műszaki biztonsági paraméterek, eljárások vagy műszaki megoldások alkalmazásával elért műszaki biztonsági szint;
+
+3\. *ellenőrző vizsgálat:* a gáztároló állapotának
+
+a) szerkezeti vizsgálata: a gáztároló állapotának időszakos vagy soron kívüli ellenőrzése az üzemeltetési igénybevételeknek való megfelelés megállapítása céljából vagy
+
+b) tömörségvizsgálata: az üzemi nyomáson és hőmérsékleten végzett szivárgás-ellenőrző vizsgálat, amelynek célja annak kimutatása, hogy a gáztároló az ellenőrzési nyomáson tömör;
+
+4\. *gáztároló:* ipari, mezőgazdasági vagy szolgáltatási célú, nyomástartó edénynek, egyszerű nyomástartó edénynek nem minősülő, éghető töltet befogadására és tárolására tervezett és gyártott berendezés, beleértve a működéshez szükséges berendezések, szerelvények és tartozékaik, valamint csővezetékek összességét;
+
+5\. *műszaki biztonsági szabályzat:* a csatlakozóvezetékekre, a felhasználói berendezésekre, a telephelyi vezetékekre, az olajfogyasztó technológiai rendszerekre és a gáztárolókra vonatkozó műszaki biztonsági előírásokról szóló miniszteri rendeletnek az olajfogyasztó technológiák és gáztárolók műszaki biztonsági szabályzatát tartalmazó melléklete szerinti műszaki biztonsági szabályzat;
+
+6\. *olajfogyasztó technológiai rendszer:* ipari, mezőgazdasági vagy szolgáltatási eljárásokra tervezett berendezés a tüzelőanyag- és égéslevegő-ellátó rendszerrel, a tűztér-munkatérrel, az égéstermék-elvezetéssel és az irányítástechnikai tartozékokkal együtt, amelyben ipari vagy mezőgazdasági nyersanyag vagy félkész termék, folyékony tüzelőanyag – szénhidrogén-származékok, kőolaj párlatai (fűtőolaj, tüzelőolaj), megújuló energiaforrásból előállított olaj, növényi és állati eredetű zsírok, élelmiszeripari és gyógyszeripari melléktermékek és hulladékok – eltüzeléséből keletkezett hőenergia, védőgáz hatásának van kitéve.
+
+## 3. Az olajfogyasztó technológiai rendszerek és a gáztárolók létesítése és üzemeltetése
+
+### 3. §
+
+(1) Az e rendelet hatálya alá tartozó olajfogyasztó technológiai rendszerek, gáztárolók létesítése, üzemeltetése a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 13. § (1) bekezdésében kijelölt műszaki biztonsági hatóság (a továbbiakban: Hatóság) felügyelete alá tartozik.
+
+(2) A Hatóság a műszaki biztonsági felügyelete keretében
+
+a) kérelemre jóváhagyja az olajfogyasztó technológiai rendszerek, valamint a gáztárolók használatbavételét, átalakítás utáni ismételt használatbavételét, vagy dönt az üzemeltetés megtiltásáról,
+
+b) ellenőrzi a rendelet hatálya alá tartozó olajfogyasztó technológiai rendszerek, gáztárolók létesítésére és üzemeltetésére vonatkozó műszaki biztonsági előírások betartását,
+
+c) kivizsgálja a rendelet hatálya alá tartozó olajfogyasztó technológiai rendszerekkel, gáztárolókkal kapcsolatos rendkívüli események bekövetkezésének körülményeit, és a hasonló esetek megelőzése érdekében intézkedik.
+
+(3) A Hatóság a (2) bekezdés *b)* pontja szerinti ellenőrzés gyakoriságát az olajfogyasztó technológiai rendszer vagy tevékenység vagy a gáztároló veszélyessége alapján határozza meg, és ellenőrzi, hogy a rendelet hatálya alá tartozó olajfogyasztó technológiai rendszerek, gáztárolók és azok üzemeltetése megfelel-e az e rendelet szerint meghozott hatósági döntésben foglaltaknak, valamint a műszaki biztonsági követelményeknek.
+
+(4) Ha a Hatóság az ellenőrzés során az olajfogyasztó technológiai rendszer, a gáztároló további üzemelésre való alkalmatlanságát állapítja meg, vagy az olajfogyasztó technológiai rendszer, gáztároló üzemen kívül helyezésére annak további üzemelésre való alkalmatlansága miatt kerül sor, a Hatóság a használatbavételi jóváhagyást visszavonja, és a berendezés használatát megtiltja.
+
+### 4. §
+
+Az olajfogyasztó technológiai rendszer, a gáztároló kiviteli tervét az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben megállapított, a műszaki biztonsági szabályzatban meghatározott szakterületre tervezési jogosultsággal rendelkező olyan tervező készítheti, aki a Magyar Mérnöki Kamara közhiteles hatósági nyilvántartásában szerepel.
+
+### 5. §
+
+(1) Az olajfogyasztó technológiai rendszer műszaki biztonsági használatbavételének és átalakítás utáni ismételt használatbavételének jóváhagyásáról a Hatóság a felhasználó kérelmére dönt, ha a műszaki biztonsági szabályzatban meghatározott követelmények teljesülnek, és a biztonságos üzemelés feltételei fennállnak.
+
+(2) A Hatóság a biztonságos üzemelés feltételeinek meglétét az olajfogyasztó technológiai rendszer kiviteli tervében, valamint a 14. §-ban meghatározott adattartalmú tervezői nyilatkozatban foglaltak alapján vizsgálja.
+
+(3) A Hatóság jóváhagyja az olajfogyasztó technológiai rendszer használatbavételét, ha az (1) és (2) bekezdésben meghatározottak alapján meggyőződött a műszaki biztonsági szabályzatban meghatározott követelmények teljesüléséről és a biztonságos üzemelésre való alkalmasságáról. A Hatóság megtiltja az üzemeltetést, ha a műszaki biztonsági szabályzatban meghatározott követelmények teljesülésében hiányosságot állapít meg, és az olajfogyasztó technológiai rendszer a biztonságos üzemelésre nem alkalmas.
+
+(4) A felhasználó a használatbavétellel kapcsolatban keletkezett dokumentációt, beleértve az időszakos műszaki biztonsági felülvizsgálatok jegyzőkönyveit is, az olajfogyasztó technológiai rendszer egész élettartama alatt megőrzi, és az időszakos műszaki biztonsági felülvizsgálatok során a Hatóság kérésére bemutatja.
+
+### 6. §
+
+A felhasználó az olajfogyasztó technológiai rendszer üzemen kívül helyezését, megszüntetését – annak megtörténtétől számított 30 napon belül – bejelenti a Hatóságnak a következő adattartalommal:
+
+1\. üzemeltető neve, címe,
+
+2\. üzemelés helye,
+
+3\. a bejelentés oka,
+
+4\. az olajfogyasztó technológiai rendszer
+
+a) fajtája;
+
+b) rendeltetése;
+
+c) típusa vagy azonosító jele;
+
+d) gyártási éve;
+
+e) gyári száma;
+
+f) legnagyobb hőteljesítménye [kW];
+
+g) égőinek száma [db];
+
+h) gyártója;
+
+i) megfelelőségét igazoló dokumentum kiállítója, azonosító jele, száma;
+
+j) égőinek műszaki adatai [mennyiség; gyártó; típus; gyári szám; gyártási év; megengedett legnagyobb hőterhelés];
+
+k) égői által használt tüzelőanyag,
+
+5\. a felhasználó képviseletében bejelentést tevő neve, elérhetősége.
+
+### 7. §
+
+(1) A gáztároló műszaki biztonsági használatbavételének és átalakítás utáni ismételt használatbavételének jóváhagyásáról a Hatóság a felhasználó kérelmére dönt, ha a műszaki biztonsági szabályzatban meghatározott követelmények teljesülnek, és a biztonságos üzemelés feltételei fennállnak.
+
+(2) A Hatóság a biztonságos üzemelés feltételeinek meglétét a gáztároló kiviteli tervében, valamint a 14. § szerinti adattartalmú tervezői nyilatkozatban foglaltak alapján vizsgálja.
+
+(3) A Hatóság jóváhagyja a gáztároló használatbavételét, ha az (1) és (2) bekezdésben meghatározottak alapján meggyőződött a műszaki biztonsági szabályzatban meghatározott követelmények teljesüléséről és a biztonságos üzemelésre való alkalmasságáról. A Hatóság megtiltja az üzemeltetést, ha a műszaki biztonsági szabályzatban meghatározott követelmények teljesülésében hiányosságot állapít meg, és a gáztároló a biztonságos üzemelésre nem alkalmas.
+
+(4) A felhasználó a használatbavételi jóváhagyással kapcsolatban keletkezett dokumentációt, beleértve az időszakos műszaki biztonsági felülvizsgálatok jegyzőkönyveit is, a gáztároló egész élettartama alatt megőrzi, és ellenőrzés során a Hatóság kérésére bemutatja.
+
+### 8. §
+
+A felhasználó a gáztároló üzemen kívül helyezését, megszüntetését – annak megtörténtétől számított 30 napon belül – bejelenti a Hatóságnak a következő adattartalommal:
+
+1\. üzemeltető neve, címe,
+
+2\. üzemelés helye,
+
+3\. a bejelentés oka,
+
+4\. a gáztároló
+
+a) fajtája;
+
+b) rendeltetése;
+
+c) típusa vagy azonosító jele;
+
+d) gyártási éve;
+
+e) gyári száma;
+
+f) legnagyobb térfogata [m<sup>3</sup>],
+
+5\. a tárolt gáz fajtája,
+
+6\. a gáztároló megfelelőségét igazoló dokumentum kiállítója, azonosító jele, száma,
+
+7\. a felhasználó képviseletében bejelentést tevő neve, elérhetősége.
+
+### 9. §
+
+A felhasználó az e rendelet hatálya alá tartozó olajfogyasztó technológiai rendszert, gáztárolót rendeltetésszerű állapotban tartja, rendeltetésszerűen üzemelteti, a szükséges ellenőrzéseket és karbantartásokat a gyártói előírások alapján rendszeresen elvégezteti, a műszaki biztonsági előírásokat betartatja, valamint a Hatóság ellenőrzése során az ellenőrzés feltételeit biztosítja.
+
+### 10. §
+
+(1) A gáztároló biztonságos üzemeltetését lehetővé tevő kezelők létszámát a helyi adottságok figyelembevételével a felhasználó határozza meg és biztosítja.
+
+(2) A gáztárolót üzemeltető felhasználó a gyártó előírásait figyelembe véve üzemeltetési utasítást készít, mely tartalmazza a gáztároló normál üzemmódjára, leállítására, vészleállítására vonatkozó eljárásokat és az esetleg bekövetkező rendkívüli események esetében szükséges teendőket.
+
+(3) A gáztárolóknál időszakos ellenőrző vizsgálatot kell tartani, amely ciklusonként elvégzett belső tisztításból, külső-belső szerkezeti vizsgálatból, valamint tömörségvizsgálatból áll. Az időszakos ellenőrző vizsgálatok ciklusideje – a (5) bekezdésben meghatározott eltérésekkel – belső tisztítás, szerkezeti vizsgálat esetében tíz év, tömörségvizsgálat esetében öt év.
+
+(4) A gáztároló időszakos ellenőrző vizsgálatát az üzemeltető elvégezteti.
+
+(5) A felhasználó a használatbavétellel kapcsolatban keletkezett dokumentációt, beleértve az időszakos műszaki biztonsági felülvizsgálatok jegyzőkönyveit is, a gázfelhasználó technológiai rendszer élettartama alatt megőrzi és a Hatóság kérésére bemutatja.
+
+### 11. §
+
+(1) Az olajfogyasztó technológiai rendszer biztonságos üzemeltetését lehetővé tevő kezelők létszámát a helyi adottságok figyelembevételével a felhasználónak kell meghatároznia és biztosítania.
+
+(2) Az olajfogyasztó technológiai rendszer üzemeltetőjének a gyártó előírásait figyelembe véve üzemeltetési utasítást kell készítenie, mely tartalmazza az olajfogyasztó technológiai rendszer indítására, normál üzemmódjára, leállítására, vészleállítására vonatkozó eljárásokat és az esetleg bekövetkező rendkívüli események esetében szükséges teendőket.
+
+### 12. §
+
+(1) A felhasználó az olajfogyasztó technológiai rendszer berendezésének műszaki biztonsági felülvizsgálatát az üzembe helyezés évét követő első évben és ezt követően ötévente elvégezteti.
+
+(2) A műszaki biztonsági felülvizsgálat során az üzembe helyezéskor hatályos műszaki biztonsági szabályoknak való megfelelést, továbbá a biztonságos üzemeltetést befolyásoló feltételeket kell ellenőrizni.
+
+(3) A műszaki,biztonsági felülvizsgálatról a felülvizsgálatot végző jegyzőkönyvet készít, és annak egy példányát a felhasználónak igazolható módon átadja, egy példányát pedig a Hatóság részére 8 napon belül megküldi. A jegyzőkönyvet a felhasználó a következő felülvizsgálatot követő 30 napig megőrzi.
+
+### 13. §
+
+Az olajfogyasztó technológiai rendszerek és a gáztárolók tekintetében meghatározott műszaki biztonsági követelményektől a tervező eltérhet, ha az általa alkalmazott műszaki megoldás biztosítja az egyenértékű műszaki biztonsági szint elérését.
+
+## 4. A tervezői nyilatkozat adattartalma
+
+### 14. §
+
+Az 5. § (2) bekezdése, a 7. § (2) bekezdése, valamint a 16. § (3) bekezdés *c)* pontja szerinti tervezői nyilatkozat a következőket tartalmazza:
+
+a) a tervező neve;
+
+b) a tervező elérhetősége;
+
+c) a tervezett vagy megszüntetendő létesítmény megnevezése és címe;
+
+d) a nyilatkozat tárgya szerinti munkához tartozó dokumentáció rajzszáma;
+
+e) a tervezésre vonatkozó jogosultsághoz tartozó névjegyzéki (nyilvántartási) szám;
+
+f) nyilatkozat arról, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak, továbbá a műszaki biztonsági szabályzatban foglaltaknak, és a tervezett műszaki megoldás biztosítja az élet, az egészség, a környezet és a kulturális örökség védelmét;
+
+g) a műszaki biztonsági szabályzatban foglaltaktól való eltérés esetén nyilatkozat arról, hogy az alkalmazott megoldás biztonsági szintje egyenértékű biztonsági szintnek minősül;
+
+h) a szabvány szerinti műszaki megoldástól való eltérés esetén nyilatkozat arról, hogy az alkalmazott megoldás egyenértékű biztonsági szintűnek minősül;
+
+i) aláírás, keltezés.
+
+## 5. Záró rendelkezések
+
+### 15. §
+
+Ez a rendelet a kihirdetését követő 60. napon lép hatályba.
+
+### 16. §
+
+(1) E rendelet hatálybalépése előtt létesített és üzembe helyezett olajfogyasztó technológiai rendszert a felhasználó az e rendelet hatálybalépésétől számított hat hónapon belül bejelenti a Hatóságnak a 6. §-ban meghatározott adattartalommal.
+
+(2) A rendelet hatálybalépése előtt létesített és üzembe helyezett gáztárolót a felhasználó az e rendelet hatálybalépésétől számított hat hónapon belül bejelenti a Hatóságnak a 8. §-ban meghatározott adattartalommal.
+
+(3) A Hatóság az e rendelet hatálybalépése előtt létesített és üzembe helyezett olajfogyasztó technológiai rendszer, gáztároló esetében a biztonságos üzemelés feltételeinek meglétét a következő dokumentumokban foglaltak alapján vizsgálhatja:
+
+a) műszaki leírás,
+
+b) megvalósulási terv, valamint
+
+c) a 14. §-ban meghatározott adattartalmú tervezői nyilatkozat.
+
+### 17. §
+
+Az e rendelet hatálybalépését követően létesült gáztároló esetén az időszakos ellenőrző vizsgálatok ciklusidejét a Hatóság a tárolt közeg tulajdonságaitól és az alkalmazott üzemi állapotfelügyeleti rendszertől függően határozza meg a használatbavételi jóváhagyásban. A ciklusidő nem lehet hosszabb, mint 20 év az első periódusban, 15 év a második periódusban, és 10 év az utánuk következő periódusokban.

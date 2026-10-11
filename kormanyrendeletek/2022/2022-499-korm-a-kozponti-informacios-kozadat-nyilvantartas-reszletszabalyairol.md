@@ -1,0 +1,236 @@
+---
+title: "499/2022. (XII. 8.) Korm. rendelet a Központi Információs Közadat-nyilvántartás részletszabályairól"
+identifier: "499/2022. (XII. 8.) Korm. rendelet"
+njt_id: "2022-499-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/499"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-12-08
+in_force_from: 2022-12-09
+last_amended: 2026-08-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-499-20-22"
+retrieved: 2026-10-12
+---
+
+# 499/2022. (XII. 8.) Korm. rendelet a Központi Információs Közadat-nyilvántartás részletszabályairól
+
+A Kormány az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 72. § (1) bekezdés f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Központi Információs Közadat-nyilvántartás üzemeltetője, az adatszolgáltatás és a közzététel
+
+### 1. §
+
+(1) A Kormány a Központi Információs Közadat-nyilvántartás elektronikus felülete (a továbbiakban: Felület) üzemeltetőjeként a Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki.
+
+(2) Az Üzemeltető nyílt hálózaton működő webes felületen gondoskodik a Felület kialakításáról és a közzétételi kötelezettséggel érintett adatszolgáltatások Felületen történő rögzítéséről, valamint azok közzétételéről.
+
+### 2. §
+
+(1) Az Üzemeltető a közzétételi kötelezettség teljesítése érdekében, a Felületen közzétételre kötelezett szerv (a továbbiakban: Felületen közzétételre kötelezett) számára Felhasználói Szabályzatot készít, amely közérthető formában tartalmazza
+
+a) az adatszolgáltatáshoz szükséges, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 37/C. § (2) bekezdése szerinti rögzítésre szolgáló adatlapot (a továbbiakban: Adatlap), amelynek tartalmi elemeit az 1. melléklet tartalmazza,
+
+b) az Adatlap kitöltését segítő útmutatót és
+
+c) a Felület használatához és az Adatlap benyújtásához szükséges útmutatót.
+
+(2) Az Üzemeltető a Felhasználói Szabályzatot a Felületen közzéteszi, illetve ezt követően folyamatosan gondoskodik annak – szükség szerinti – frissítéséről.
+
+(3) Az Üzemeltető a Felhasználói Szabályzat naprakész változatának elérhetőségét a Felület működtetésének ideje alatt folyamatosan biztosítja.
+
+### 3. §
+
+(1) Az Üzemeltető a Felhasználói Szabályzatban bekövetkező változásra vonatkozó információt a változást megelőző legalább tizenöt nappal a Felületen megjeleníti.
+
+(2) Az (1) bekezdés szerinti közzétételt követően, az Infotv. 37/C. § (1) bekezdésében meghatározott módon a Felületen közzétételre kötelezett a változás időpontjától kezdődően annak megfelelően gondoskodik az Adatlap kitöltéséről és az adatszolgáltatás teljesítéséről.
+
+### 4. §
+
+A Felületen közzétételre kötelezett gondoskodik az Adatlap Infotv. 37/C. §-ában és e rendeletben, valamint a Felhasználói Szabályzatban foglaltaknak megfelelő kitöltéséről.
+
+### 5. §
+
+(1) Az Üzemeltető az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti személyre szabott ügyintézési felületen (a továbbiakban: SZÜF) az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti elektronikus űrlapot tesz közzé.
+
+(2)[^1] A Felületen közzétételre kötelezett az adatszolgáltatást a SZÜF-ön található elektronikus űrlap (a továbbiakban: elektronikus űrlap) kitöltésével, a kitöltött Adatlap egyidejű csatolásával, továbbá ezeknek az Üzemeltető hivatali tárhelyére történő beküldésével teljesíti, azzal, hogy a kötelezett nevére, illetve adószámára vonatkozó adatot az elektronikus űrlapon kell kitölteni.
+
+(3) A Felületen közzétételre kötelezett az Üzemeltető hivatali tárhelyére történő beküldéssel kezdeményezi a kitöltött Adatlap Felületen történő közzétételét.
+
+(4) Az Üzemeltető a kitöltött Adatlapon szereplő adatokat az Adatlap beérkezését követő munkanapon a Felületen közzéteszi.
+
+## 2. Az adatszolgáltatásért való felelősség
+
+### 6. §
+
+(1) Az Üzemeltető a Felületen közzétételre kötelezett által közzétételre küldött Adatlapot tartalmi szempontból nem ellenőrzi. A Felületen közzétételre kötelezett felelős az adatszolgáltatás rendszerességéért, teljességéért, pontosságáért, hitelességéért és annak valóságtartalmáért.
+
+(2) Az Üzemeltető gondoskodik a Felületen közzétételre kötelezett által kitöltött Adatlap közzétételéről.
+
+(3) Az üzemeltetés során biztosítani kell a közzétett Adatlap – Infotv. 37/C. § (1) bekezdésében meghatározott ideig való – megőrzését és biztonságos kezelését.
+
+## 3. Üzemszünet és üzemzavar
+
+### 7. §
+
+(1) Az Üzemeltető a folyamatos működtetés biztosítása érdekében
+
+a) haladéktalanul gondoskodik a biztonsági kockázatot jelentő üzemeltetési hibák kijavításáról,
+
+b) felméri az üzemeltetési hibákból adódó károkat, és
+
+c) gondoskodik a működéshez szükséges állapot helyreállításáról.
+
+(2) A Felületen közzétételre kötelezett a Felület működését érintő tervezett karbantartások vagy nem tervezett szolgáltatáskiesés (a továbbiakban: üzemzavar) esetén – ideértve a távközlési hálózat vagy a tápellátási rendszer hibáját is – az adatszolgáltatást az üzemszünet és üzemzavar elhárulását követően haladéktalanul teljesíti.
+
+### 8. §
+
+Az Üzemeltető a Felület üzemszerű karbantartási idejéről előzetesen, valamint az esetleges üzemzavarról – a karbantartás ideje alatt – tájékoztatást ad. Ezekről az eseményekről az Üzemeltető elektronikus eseménynaplót vezet, amely tartalmazza az esemény leírását, időpontját, időtartamát és a megtett intézkedéseket.
+
+## 4. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 10. §
+
+(1) A Felület létrehozására és a 2. §-ban meghatározottak Felületen történő közzétételére az Üzemeltető legkésőbb 2022. december 31-ig köteles.
+
+(2) A Felületen közzétételre kötelezettek által első alkalommal teljesítendő adatszolgáltatásokat az Üzemeltető – az 5. § (4) bekezdésétől eltérően – legkésőbb 2023. február 28. napjáig köteles a Felületen közzétenni.
+
+## 1. melléklet a 499/2022. (XII. 8.) Korm. rendelethez[^2]
+
+**Az Adatlap tartalmi elemei**
+
+**I. Alapadatok**
+
+1\. A Felületen közzétételre kötelezett neve, adószáma
+
+2\. A szerződés megnevezése (típusa)
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat [a 37/C. § (2) bekezdés a)–c) pontjában meghatározott jogalap, illetve forma].
+
+3\. A szerződő fél megnevezése
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a (2) bekezdés a) és c) pontja esetén a szerződő fél alatt kedvezményezettet kell érteni.
+
+4\. A szerződő fél természetes személynek minősül-e
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a (2) bekezdés a) és c) pontja esetén a szerződő fél alatt kedvezményezettet kell érteni.
+
+5\. A szerződő fél székhelye (ha nem természetes személy)
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a (2) bekezdés a) és c) pontja esetén a szerződő fél alatt kedvezményezettet kell érteni.
+
+6\. A szerződő fél adószáma (ha rendelkezik adószámmal)
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a (2) bekezdés a) és c) pontja esetén a szerződő fél alatt kedvezményezettet kell érteni.
+
+7\. A szerződés, illetve támogatás tárgya
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat.
+
+8\. A szerződéssel elérendő cél
+
+Az Infotv. 37/C. § (2) bekezdés b) pontjában szereplő esetben kötelező adat.
+
+9\. A szerződés keretében teljesítendő feladat
+
+Az Infotv. 37/C. § (2) bekezdés b) pontjában szereplő esetben kötelező adat.
+
+10\. A szerződés teljesítésének helye, illetve a támogatási program megvalósítási helye
+
+Az Infotv. 37/C. § (2) bekezdés a)–c) pontjában szereplő esetekben kötelező adat.
+
+11\. A szerződés teljesítésének, illetve a támogatási program megvalósításának kezdő időpontja
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat.
+
+12\. A szerződés teljesítésének, illetve a támogatási program megvalósításának záró időpontja
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a 37/C. § (2) bekezdés b) pontja esetén az adat megadása határozott időtartamú szerződések vonatkozásában szükséges.
+
+13\. A szerződés (nettó) értéke és pénzneme
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a 37/C. § (2) bekezdés a) és c) pontja szerinti esetekben a szerződés értéke alatt a támogatás összegét kell érteni.
+
+14\. A kifizetés időpontja
+
+Az Infotv. 37/C. § (2) bekezdés a) és c) pontja szerinti esetekben kötelező adat.
+
+15\. Európai uniós forrás %-os aránya
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat.
+
+16\. Hazai forrás %-os aránya
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat.
+
+17\. Szerződés kelte (az aláírás dátuma)
+
+Az Infotv. 37/C. § (2) bekezdésében szereplő valamennyi esetben kötelező adat, azzal, hogy a (2) bekezdés a) és c) pontja esetén a szerződés alatt támogatást kell érteni.
+
+**II. Amennyiben a szerződést beszerzési vagy közbeszerzési eljárás eredményeképpen kötötték**
+
+1\. A beszerzési eljárás típusa (beszerzési vagy közbeszerzési eljárás)
+
+2\. Közbeszerzési eljárás fajtája
+
+3\. A beszerzési, illetve közbeszerzési eljárás megindításának időpontja
+
+4\. Az ajánlattevő (ajánlattevők) neve
+
+5\. Az ajánlattevő (ajánlattevők) adószáma
+
+6\. A beérkezett ajánlat (ajánlatok) száma
+
+7\. A beszerzés, illetve közbeszerzés (nettó) becsült értéke
+
+8\. Becsült érték pénzneme
+
+9\. A beszerzési, illetve közbeszerzési dokumentumok – beszerzési eljárás esetén az ajánlatkérő által előzetesen közzétett dokumentumok – felsorolása
+
+10\. Az eljárás EKR azonosítója
+
+11\. EKR szerződésazonosító (amennyiben az rendelkezésre áll) vagy a szerződés iktatószáma
+
+Az Infotv. 37/C. § (2) bekezdés b) pontja szerinti esetekben kötelező adat.
+
+12\. Az eljárás részletes adatainak ekr.gov.hu weboldalon található pontos elérhetősége (link)
+
+13\. Az alvállalkozók teljesítésének tervezett aránya
+
+14\. Amennyiben alvállalkozót vettek igénybe a szerződés teljesítéséhez,
+
+a) a nevesített alvállalkozó (alvállalkozók) és a teljesítésben közvetlenül közreműködő más beszállító (beszállítók) vagy kapacitásszolgáltató (kapacitásszolgáltatók) neve és adószáma,
+
+b) amennyiben az a) alpont szerinti szereplő vállalkozási díja meghatározott, annak (nettó) összege és
+
+c) az alvállalkozók teljesítésének megvalósult aránya.
+
+**III. Az** Infotv. 2. melléklet**ében meghatározott, az Európai** **Unió kötelező** **jogi aktusa hatálya alá tartozó állami támogatások esetén**
+
+1\. A kedvezményezett besorolása a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3–5. §-a alapján
+
+2\. A kedvezményezett azon tevékenységének szakágazati besorolása (TEÁOR-szám, ennek hiányában ÖVTJ-kód), amely keretében a támogatást felhasználja (ha nem azonosítható ilyen tevékenység, akkor a kedvezményezett főtevékenységének szakágazati besorolása)
+
+3\. A támogatás formájának megjelölése
+
+4\. A támogatás odaítélésének napja (adókedvezmény vagy adómentesség esetén a bevallás esedékességének napja)
+
+5\. A támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. melléklete szerinti kategóriája
+
+6\. A támogatás európai bizottsági hivatkozási száma
+
+**IV. Amennyiben további információk megadása szükséges**
+
+1\. Megjegyzés
+
+Egyéb kiegészítő adatok és információk megadására szolgál.
+
+---
+
+[^1]: Az 5. § (2) bekezdése a 128/2026. (VIII. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 128/2026. (VIII. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

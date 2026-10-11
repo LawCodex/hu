@@ -1,0 +1,165 @@
+---
+title: "126/2025. (VI. 4.) Korm. rendelet a Rákosrendező állomás területének vegyes célú ingatlanfejlesztésével összefüggő építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "126/2025. (VI. 4.) Korm. rendelet"
+njt_id: "2025-126-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/126"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-06-04
+in_force_from: 2025-06-05
+last_amended: 2025-06-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-126-20-22"
+retrieved: 2026-10-12
+---
+
+# 126/2025. (VI. 4.) Korm. rendelet a Rákosrendező állomás területének vegyes célú ingatlanfejlesztésével összefüggő építési beruházások kiemelt beruházássá és a kiemelt beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról
+
+[1] A Kormány célja a Rákosrendező állomás területén megvalósuló állami közmű- és infrastruktúra-fejlesztések, valamint nem állami beruházás keretében megvalósuló vegyes célú ingatlanfejlesztésének támogatása, így indokolt a fejlesztés kiemelt beruházássá nyilvánítása, valamint a beruházással érintett ingatlannal összefüggésben sajátos beépítési szabályok és egyedi építési követelmények meghatározása.
+
+[2] A Kormány
+
+a magyar építészetről szóló 2023. évi C. törvény 225. § (2) bekezdés a), c), d) és f) pontjában,
+
+a 4. § (5) bekezdése tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+az 5. § tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 9. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány a 2024. évi XXI. törvénnyel kihirdetett, a Magyarország Kormánya és az Egyesült Arab Emírségek Kormánya közötti gazdasági együttműködésről szóló megállapodás 3. cikkében megállapított, Rákosrendező állomás területén megvalósítandó vegyes célú ingatlanfejlesztés érdekében a (2) bekezdésben foglalt ingatlanokon a fejlesztés megvalósításához szükséges, illetve azzal összefüggő, azt kiszolgáló beruházások összességét – ideértve a közterületi, infrastruktúra- és közműberuházásokat is – (a továbbiakban együtt: Beruházás) kiemelt beruházássá, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánítja.
+
+(2) A Beruházás helyszíne a Budapest XIV. kerület, belterület 29834/10, 29834/13, 29841, 29972, 29973/182, 29862 és a Budapest XIII. kerület, belterület 26084/3 helyrajzi számú ingatlanok, valamint ezen ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok.
+
+(3) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetéséhez szükségesek, vagy
+
+b) a Beruházáshoz közvetlenül kapcsolódó, a (2) bekezdés szerinti ingatlanok megközelítését, működését és városképi illeszkedését segítő – magasépítési, mélyépítési, közterület- és zöldfelület-rendezési, útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő – munkákkal kapcsolatosak.
+
+(4) A (2) bekezdés szerinti ingatlanok tekintetében településrendezési feladatok megvalósítása, végrehajtása érdekében építési, telekalakítási és -változtatási tilalom nem alkalmazható.
+
+(5) A (2) bekezdés szerinti ingatlanok, azok egyes elemei, illetve az azokon álló épületek vonatkozásában újonnan helyi védelmet megállapítani nem lehet.
+
+(6) A (2) bekezdés szerinti ingatlanok tekintetében a magyar építészetről szóló 2023. évi C. törvény 76. § (7) bekezdése szerinti szabályokat nem kell alkalmazni.
+
+## 2. §
+
+(1) Az 1. § (2) bekezdése szerinti ingatlanok beépítési szabályait és építési követelményeit a (2)–(4) bekezdés állapítja meg, azzal, hogy
+
+a) a hatályos településrendezési tervek és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK), valamint a településrendezési és építési követelmények alapszabályzatáról szóló 280/2024. (IX. 30.) Korm. rendelet (a továbbiakban: TÉKA) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+
+b) ha a hatályos településrendezési terv és az OTÉK vagy a TÉKA a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot vagy a TÉKA-t nem lehet alkalmazni.
+
+(2) A Budapest XIV. kerület 29834/10, 29834/13, 29841, 29972, 29973/182 helyrajzi számú ingatlanokra vonatkozó sajátos beépítési szabályok és építési követelmények:
+
+a) az épület legmagasabb pontja, valamint az OTÉK szerinti beépítési magasság és a TÉKA szerinti párkánymagasság legfeljebb 90 méter,
+
+b) a legkisebb kialakítható telek mérete 1000 m<sup>2</sup>,
+
+c) az építési hely az érintett ingatlanok teljes területe,
+
+d) a felülépített területen a többszintű területhasználat megengedett,
+
+e) a szintterületi mutatók értéke nem korlátozott,
+
+f) a beépítési sűrűség nem korlátozott,
+
+g) a telkek terepszint alatti és terepszint feletti legnagyobb beépítettsége 100%,
+
+h) a területen elhelyezhető lakó, iroda, igazgatási, kereskedelmi, szolgáltató, vendéglátó, szállás jellegű, egészségügyi, szociális, óvoda, bölcsőde, oktatási, nevelési, kulturális, közösségi szórakoztató, sport, szabadidő, rekreációs, hitéleti, kézműipari, nem üzemi technológiájú kutatás-fejlesztés, parkolóház, közösségi közlekedést kiszolgáló, a terület működéséhez és működtetéséhez szükséges egyéb rendeltetések, önálló rendeltetési egységek, infrastrukturális épületek, geotermikus erőmű.
+
+(3) Az 1. § (2) bekezdésében meghatározott ingatlanok tekintetében
+
+a) a Beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani,
+
+b) az építmények a telekhatárokon is csatlakozhatnak egymáshoz, valamint a telkek egymással közös telekhatárán átnyúló módon is elhelyezhető építményrész,
+
+c) az átnyúló épületek helyiségei valamennyi szinten összenyithatók,
+
+d) országos törzshálózati vasúti pálya, valamint egyéb környezeti hatásvizsgálathoz kötött vasúti üzemi létesítmény esetében a TÉKA szerinti védőtávolságon belül építmény – az ágazati jogszabályokban foglalt követelmények szerint – elhelyezhető.
+
+(4) A Beruházással összefüggésben megvalósuló építményekkel kapcsolatban a kialakítandó parkolóhelyek száma nem korlátozott.
+
+## 3. §
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+(3) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás és a környezeti hatásvizsgálati eljárás, a természetvédelmi hatósági eljárás, a vízügyi és vízvédelmi, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – harminc nap.
+
+(4) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása, a vízügyi és vízvédelmi, valamint iparbiztonsági szakhatósági eljárások kivételével, vagy ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(5) Amennyiben a Beruházás során tervpályázati eljárás lefolytatására kerül sor, a bírálóbizottság elnökét és szükség szerint társelnökét Budapest Főváros Önkormányzata jelöli ki, azonban az országos főépítészt vagy az általa kijelölt személyt a bírálóbizottságba az urbanisztikai és építészeti minőség biztosítása érdekében tagként be kell vonni.
+
+## 5. §
+
+A Beruházás előkészítésére és megvalósítására irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 126/2025. (VI. 4.) Korm. rendelethez
+
+**A Beruházások megvalósításával összefüggő, kiemelt üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vasúti és szalagpálya hatósági engedélyezési eljárás,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+10\. villamosenergia-ipari tevékenységek végzéséhez szükséges hatósági engedélyezési eljárások,
+
+11\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+12\. telekalakításra irányuló hatósági eljárások,
+
+13\. területrendezési hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. hírközlési hatósági eljárások,
+
+17\. bányahatósági engedélyezési eljárások,
+
+18\. tűzvédelmi hatósági eljárások,
+
+19\. élelmiszerlánc-felügyeleti eljárás,
+
+20\. közegészségügyi hatósági eljárások,
+
+21\. erdészeti hatósági eljárások,
+
+22\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+23\. földvédelmi hatósági eljárások,
+
+24\. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+25\. azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+26\. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.

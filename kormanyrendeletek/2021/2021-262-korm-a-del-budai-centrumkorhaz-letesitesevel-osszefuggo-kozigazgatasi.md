@@ -1,0 +1,225 @@
+---
+title: "262/2021. (V. 20.) Korm. rendelet a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról"
+identifier: "262/2021. (V. 20.) Korm. rendelet"
+njt_id: "2021-262-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/262"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-05-20
+in_force_from: 2021-05-21
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-262-20-22"
+retrieved: 2026-10-12
+---
+
+# 262/2021. (V. 20.) Korm. rendelet a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+a 11. § és a 3. melléklet tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 139. § b) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti Budapest XI. kerület belterület, 952/3, 952/4, 952/12, 952/13, 952/14, 952/16, 952/17 és 966 helyrajzi számú ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon (a továbbiakban együtt: Ingatlanok) megvalósuló, a Dél-Budai Centrumkórház létrehozását célzó beruházást, valamint a kapcsolódó bontási és kármentési munkák előkészítésével és megvalósításával (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz kapcsolódó, az (1) bekezdés szerinti létesítmény megközelítését, működését és városképi illeszkedését segítő – közlekedésfejlesztési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő – munkákkal kapcsolatosak.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, melynek helyszíne és közvetlen környezete az (1) bekezdés szerinti Ingatlanok területe.
+
+(4) A Kormány a Beruházáshoz kapcsolódó, a Beruházási terület közvetlen környezetébe tartozó, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított építési tevékenységgel érintett közterület használatának feltétlenül szükséges időtartamát e rendelet hatálybalépésétől számított 72 hónapban határozza meg.
+
+## 2. §
+
+(1)[^1] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+(2)[^2]
+
+(3)[^3] A Kormány az 1. melléklet 21. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
+
+## 3. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+## 4. §
+
+A Beruházással összefüggésben
+
+a) településképi bejelentési eljárásnak nincs helye,
+
+b) településképi véleményezési eljárást nem kell lefolytatni.
+
+## 5. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 6. §
+
+A Beruházással érintett Budapest XI. kerület belterület 952/3, 952/4, 952/12, 952/13, 952/14, 952/17 és 966 helyrajzi számú ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a 7. és a 8. § állapítja meg azzal, hogy
+
+a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a 7. és 8. §-ban foglalt eltérésekkel kell alkalmazni,
+
+b) amennyiben a hatályos településrendezési eszközök vagy az OTÉK a beépítés és az egyedi építési követelmények 7. vagy 8. §-ban meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni, és
+
+c) a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény erdők övezetére vonatkozó 29. §-át nem kell alkalmazni.
+
+## 7. §
+
+(1) A Budapest XI. kerület belterület 952/3, 952/12, 952/13, 952/14, 952/17 és 966 helyrajzi számú ingatlanokon és a telekalakítás eredményeként ezekből létrejövő telkeken egészségügyi, oktatási és köznevelési, kereskedelmi, iroda, a Dél-budai Centrumkórház egészségügyi személyzetének lakhatását biztosító lakó- és közlekedési célú építmények és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+1\. a telkek beépítési módja szabadon álló,
+
+2\. a kialakítható telek legkisebb területe 20 000 m<sup>2</sup>,
+
+3\. a beépítettség megengedett legnagyobb mértéke 50%,
+
+4\. a terepszint alatti építés legnagyobb mértéke 80%,
+
+5\. a szintterületi mutató megengedett legnagyobb értéke 3,5 m<sup>2</sup>/m<sup>2</sup>,
+
+6\. a zöldfelület megengedett legkisebb mértéke 20%,
+
+7\. az épületmagasság megengedett legnagyobb mértéke 30 méter,
+
+8\. az épület legmagasabb pontja nem haladhatja meg az 55 métert,
+
+9\. az építési hely az ingatlanok teljes területe,
+
+10\. a kialakítható telek legkisebb szélessége 30 méter,
+
+11\. az ingatlanokon helikopter-leszállóhely létesítése nem korlátozott,
+
+12\. az építési telken a kialakított zöldfelület minden megkezdett 100 m<sup>2</sup>-e után legalább egy környezettűrő, nagy lombkoronát növelő fát kell telepíteni, és a lapostetők 30%-án zöldtetőt kell kialakítani,
+
+13\. a tereprendezés mértéke nem korlátozott,
+
+14\. a telken belüli felszíni parkolóhelyek létesítésének módja nem korlátozott,
+
+15.[^4] a telekalakítás az övezeti határokra, szabályozási vonalakra tekintet nélkül megengedett,
+
+16\. a parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához előírt, az OTÉK 4. számú melléklete szerint meghatározott számú személygépkocsi-várakozóhely legalább 70%-ának elhelyezését kell biztosítani.
+
+(2) Az (1) bekezdés 7. pontjának alkalmazása során az épületmagasságot az e rendelet hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
+
+## 8. §
+
+(1) A Budapest XI. kerület belterület 952/4 helyrajzi számú ingatlanon kerítés, valamint ismeretterjesztési, pihenési, testedzési, rekreációs, közlekedési és közműcélú építmények helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a beépítettség megengedett legnagyobb mértéke 5%,
+
+b) az építmények elhelyezéséhez önálló telkek kialakítása nem szükséges.
+
+(2) A Budapest XI. kerület 952/4 helyrajzi számú ingatlan 2. mellékletben megjelölt részén kerítés, támfal, közmű, valamint közműpótló, épületgépészeti, közlekedési és földhő-hasznosítás célú építmények és azok kiszolgálóépítményei korlátozás nélkül elhelyezhetők azzal, hogy a tereprendezés mértéke nem korlátozott.
+
+## 9. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 10. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 10/A. §[^5]
+
+E rendeletnek a telekalakítási eljárást érintően egyes kormányrendeletek módosításáról szóló 735/2021. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2. § (3) bekezdését és 7. § (1) bekezdés 15. pontját a Módr1. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 262/2021. (V. 20.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. erdészeti hatósági eljárások,
+
+6\. közlekedési hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+9\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. földmérési hatósági eljárások,
+
+13\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+14\. hírközlési hatósági eljárások,
+
+15\. bányahatósági engedélyezési eljárások,
+
+16\. tűzvédelmi hatósági eljárások,
+
+17\. élelmiszerlánc-felügyeleti eljárás,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+20\. szalagpálya hatósági engedélyezési eljárás,
+
+21\. fásszárú növények kivágásához szükséges engedélyezési eljárások,
+
+22.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+23\. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+24\. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 262/2021. (V. 20.) Korm. rendelethez
+
+**A Budapest XI. kerület belterület 952/4 helyrajzi számú telek területén ingatlanrész építésre és földhőhasznosítási célra használható részének területe határpontjainak lehatárolása az Egységes Országos Vetületi Rendszerben megadott koordinátáival**
+
+|  | **A** | **B** |
+|---|---|---|
+| **1.** | Y | X |
+| **2.** | 234738.23 | 647012.74 |
+| **3.** | 234729.18 | 647011.52 |
+| **4.** | 234796.51 | 646927.71 |
+| **5.** | 235005.94 | 646790.36 |
+| **6.** | 235076.40 | 646749.61 |
+| **7.** | 235177.81 | 646714.59 |
+| **8.** | 235234.88 | 646726.02 |
+| **9.** | 235219.23 | 646734.03 |
+| **10.** | 235176.64 | 646755.98 |
+| **11.** | 235122.66 | 646784.11 |
+| **12.** | 235116.48 | 646782.89 |
+| **13.** | 235100.74 | 646763.47 |
+| **14.** | 235057.39 | 646793.27 |
+| **15.** | 234960.81 | 646859.69 |
+| **16.** | 234860.37 | 646928.75 |
+
+## 3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^10]
+
+---
+
+[^1]: A 2. § (1) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 280. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 337. §-a hatályon kívül helyezte.
+[^3]: A 2. § (3) bekezdését a 735/2021. (XII. 21.) Korm. rendelet 8. §-a iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 280. § b) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdés 15. pontja a 735/2021. (XII. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^5]: A 10/A. §-t a 735/2021. (XII. 21.) Korm. rendelet 9. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2021. december 22.
+[^9]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 336. §-a szerint módosított szöveg.
+[^10]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

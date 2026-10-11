@@ -1,0 +1,228 @@
+---
+title: "49/2020. (III. 20.) Korm. rendelet a Magyarország Kormánya és a Török Köztársaság Kormánya közötti kulturális együttműködési megállapodás kihirdetéséről"
+identifier: "49/2020. (III. 20.) Korm. rendelet"
+njt_id: "2020-49-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/49"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-03-20
+in_force_from: 2020-03-21
+last_amended: 2020-06-11
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-49-20-22"
+retrieved: 2026-10-12
+---
+
+# 49/2020. (III. 20.) Korm. rendelet a Magyarország Kormánya és a Török Köztársaság Kormánya közötti kulturális együttműködési megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya közötti kulturális együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Megállapodást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+(1) A Megállapodás hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
+
+(2) A Megállapodás hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. §, a 3. §, az 1. melléklet és a 2. melléklet a Megállapodás 18. cikkében meghatározott időpontban lép hatályba.[^3]
+
+(3) A Megállapodás, valamint a 2. §, a 3. §, az 1. melléklet és a 2. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a kultúráért felelős miniszter gondoskodik.
+
+## 1. melléklet a 49/2020. (III. 20.) Korm. rendelethez[^5]
+
+**KULTURÁLIS EGYÜTTMŰKÖDÉSI MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A TÖRÖK KÖZTÁRSASÁG KORMÁNYA KÖZÖTT**
+
+Magyarország Kormánya és a Török Köztársaság Kormánya (a továbbiakban együtt: „a Felek”),
+
+azzal a szándékkal, hogy megerősítsék a meglévő kulturális kapcsolatukat és tovább segítsék az egyenlőségen és egymás kölcsönös tiszteletén alapuló kölcsönös együttműködést,
+
+a következőkben állapodtak meg:
+
+1\. **CIKK**
+
+A Felek törekednek a két ország kulturális és művészeti intézményei közötti együttműködés kialakítására.
+
+2\. **CIKK**
+
+A Felek együttműködnek a kultúra fejlesztésének különböző területein, ideértve különösen a művészetet, a közös hagyományokat, a könyvtárosságot, könyvkiadást, régészetet és a muzeológiát, valamint közös projekteket szerveznek az immateriális kulturális örökség védelme, helyreállítása és tudományos vizsgálata terén.
+
+3\. **CIKK**
+
+A Felek ösztönzik a két ország nyilvános könyvtárai – és különösen a nemzeti könyvtáraik – közötti együttműködést és közvetlen kapcsolatokat, a tájékoztató anyagok és kiadványok összes tömegtájékoztatási eszköz útján való kölcsönös cseréje céljából.
+
+4\. **CIKK**
+
+A Felek mikrofilmeket, kéziratok digitális másolatait és egyéb könyvtári anyagokat cserélnek egymással, ezáltal gazdagítva gyűjteményeiket, a nemzeti törvényeikkel összhangban.
+
+5\. **CIKK**
+
+A Felek ösztönzik az érintett hatóságaik és intézményeik közötti közvetlen kapcsolatfelvételt és együttműködést az immateriális kulturális örökségük megőrzése, helyreállítása, azonosítása és fenntartható használata terén.
+
+A Felek meghívják a másik ország szakértőit, hogy részt vegyenek nemzetközi kongresszusokon, szimpóziumokon, kiállításokon és képzéseken, valamint elősegítik a technikai információ, tapasztalat és szakemberek cseréjét, különösen az immateriális kulturális örökségük megőrzése és helyreállítása terén.
+
+6\. **CIKK**
+
+A Felek együttműködnek a kulturális vagyon jogellenes importjának, exportjának és tulajdonjogának átruházásának megakadályozása céljából, meghozva az összes szükséges megelőző és kárpótlási intézkedést, az UNESCO Kulturális javak jogtalan behozatalának, kivitelének és tulajdona jogtalan átruházásának megakadályozását és megelőzését szolgáló eszközökről szóló egyezményével és annak Működési Irányelvével összhangban.
+
+7\. **CIKK**
+
+A Felek támogatják a színház, zene, koreográfia, opera, balett és egyéb művészeti ágak terén való kapcsolatok fejlesztését, és ennek keretében, a kölcsönös tevékenységek szervezését, ezáltal népszerűsítve a hagyományos iparművészetet, a kölcsönös események szervezését és a művészek és művészeti csoportok kölcsönös fellépését.
+
+8\. **CIKK**
+
+A Felek ösztönzik a múzeumok gyűjteményeiből (a történelmi örökségek kivételével) való kölcsönös művészeti kiállítások szervezését.
+
+9\. **CIKK**
+
+A Felek együttműködnek a másik Fél irodalmának saját országukban való népszerűsítése terén.
+
+10\. **CIKK**
+
+A Felek kölcsönösen ösztönzik az irodalmi művek saját nyelvről a másik fél nyelvére való lefordítását és kiadását.
+
+11\. **CIKK**
+
+A Felek támogatják az egymás műsorszóró társaságai közötti kétoldalú együttműködést, és ösztönzik a saját országaikban szervezett nemzetközi irodalmi és kiadói szimpóziumokon, fórumokon és fesztiválokon való részvételt.
+
+12\. **CIKK**
+
+A Felek tájékoztatják egymást az országaikban szervezett könyvvásárokról és ösztönzik mindkét ország íróinak és kiadóinak kölcsönös részvételét e vásárokon.
+
+13\. **CIKK**
+
+A Felek együttműködnek a filmszínház területén és támogatják az országaikban szervezett nemzetközi filmfesztiválokon való kölcsönös részvételt.
+
+14\. **CIKK**
+
+A Felek hatékony védelmet biztosítanak a jelen Megállapodás keretébe tartozó szellemi tulajdonjogra vonatkozóan, a saját nemzeti törvényeiknek és az általuk részes nemzetközi egyezményeknek megfelelően. A jelen Megállapodásban a szellemi tulajdon a Szellemi Tulajdon Világszervezetének létesítésére Stockholmban, 1967. július 14-én aláírt egyezmény 2. cikkében meghatározott fogalmat jelenti.
+
+15\. **CIKK**
+
+A Felek a jelen Megállapodás végrehajtásával kapcsolatban aláírhatnak kiegészítő programokat, jegyzőkönyveket és megállapodásokat.
+
+16\. **CIKK**
+
+A jelen Megállapodás semmilyen módon nem érinti a Felek nemzetközi szervezetekben, a regionális vagy kistérségi egyesülésekben és társaságokban való tagságukból, illetve az általuk részes egyezményekből és megállapodásokból eredő jogait és kötelezettségeit.
+
+17\. **CIKK**
+
+A jelen Megállapodás értelmezéséből vagy végrehajtásából eredő esetleges véleményeltérést vagy vitát a Felek békésen, tárgyalások útján rendezik.
+
+A jelen Megállapodás a Felek kölcsönös írásbeli jóváhagyásával bármikor módosítható. A módosítások a jelen Megállapodás 18. cikkében ismertetett jogi eljárással megegyező módon lépnek hatályba.
+
+18\. **CIKK**
+
+A jelen Megállapodás azon utolsó írásbeli értesítés kézhezvételének napján lép hatályba, amelyben a Felek értesítik egymást a jelen Megállapodás hatálybalépéséhez szükséges belső jogi eljárások sikeres lezárulásáról. A jelen Megállapodás öt (5) évig marad hatályban és további öt (5) éves időszakokra automatikusan megújul, hacsak bármelyik fél nem értesíti a másikat írásban, diplomáciai csatornán keresztül, a lejáratot megelőző hat (6) hónappal korábban a Megállapodás felmondására vonatkozó szándékáról. A jelen Megállapodás felmondása nem érinti a már folyamatban lévő vagy végrehajtott tevékenységeket és projekteket.
+
+A fentiek tanúsításául, 2019. november 7-én, Budapesten, az érintett Kormányok által hivatalosan felhatalmazott alábbi képviselők a jelen Megállapodást magyar, török és angol nyelven, két példányban aláírták, ahol mindegyik nyelvi változat egyformán hitelesnek minősül. A jelen Megállapodás értelmezésbeli eltérése esetén az angol szöveg az irányadó.
+
+## 2. melléklet a 49/2020. (III. 20.) Korm. rendelethez[^6]
+
+**AGREEMENT ON CULTURAL COOPERATION BETWEEN THE GOVERNMENT OF HUNGARY AND THE GOVERNMENT OF THE REPUBLIC OF TURKEY**
+
+The Government of Hungary and the Government of the Republic of Turkey (hereinafter referred to as the Parties),
+
+Desiring to strengthen existing cultural relations and further promote reciprocal cooperation on the basis of equality and mutual respect,
+
+Have agreed on the following:
+
+**ARTICLE 1**
+
+The Parties shall endeavour to develop cooperation between the cultural and art institutions of the two countries.
+
+**ARTICLE 2**
+
+The Parties shall cooperate in the fields of cultural development, especially art, common traditions, librarianship, publishing, archaeology, museology and organize joint projects on protection, restoration and scientific investigation of intangible cultural heritage.
+
+**ARTICLE 3**
+
+The Parties shall encourage the collaboration and direct contacts between public libraries and in particular national libraries of the two countries for the purpose of exchanging the information materials and publications in all media.
+
+**ARTICLE 4**
+
+The Parties shall exchange microfilms and digital copies of manuscripts and other library material to enrich their collections, in accordance with their national legislation.
+
+**ARTICLE 5**
+
+The Parties shall encourage direct contacts and cooperation between their relevant authorities and institutions on conservation, restoration, identification and sustainable use of immovable cultural heritage.
+
+The Parties shall invite experts of the other country for participation in international congresses, symposiums, exhibitions, training programs and promote exchange of technical information, experience and experts particularly in the fields of conservation and restoration of immovable cultural heritage.
+
+**ARTICLE 6**
+
+The Parties shall cooperate against illicit import, export and transfer of ownership of cultural property by taking all necessary preventative and compensatory measures, in accordance with UNESCO Convention on the Means of Prohibiting and Preventing Illicit Import, Export and Transfer of Ownership of Cultural Property and its Operational Guidelines.
+
+**ARTICLE 7**
+
+The Parties shall support the development of relations in the fields of theatre, music, choreography, opera, ballet and other art branches and within this framework, the organization of mutual activities to promote traditional handicrafts, the arrangement of mutual events and the reciprocal visits of artists and artist bands.
+
+**ARTICLE 8**
+
+The Parties shall encourage the organization of mutual art exhibitions (except for those of historical heritage) from the collections of museums.
+
+**ARTICLE 9**
+
+The Parties shall cooperate to promote the literature of the other Party in their respective countries.
+
+**ARTICLE 10**
+
+The Parties shall reciprocally encourage the translation and publication of literary works from their own language to the other.
+
+**ARTICLE 11**
+
+The Parties shall support bilateral cooperation between the broadcasting corporations of each other and encourage the participation in international symposiums, panels and festivals on literature and publishing organized in their respective countries.
+
+**ARTICLE 12**
+
+The Parties shall inform each other about the book fairs organized in their respective countries and encourage the mutual participation of writers and publication companies of both countries in these fairs.
+
+**ARTICLE 13**
+
+The Parties shall cooperate in the field of cinema and support mutual participation in international film festivals organized in their respective countries.
+
+**ARTICLE 14**
+
+The Parties shall ensure effective protection of the rights for intellectual property in scope of this Agreement in accordance with their respective national legislation and international treaties to which they are Parties. For the purpose of this Agreement, intellectual property is understood to have the meaning given in Article 2 of the Convention Establishing the World Intellectual Property Organization, done at Stockholm on 14 July 1967.
+
+**ARTICLE 15**
+
+The Parties may sign supplementary programmes, protocols and agreements concerning the implementation of this Agreement.
+
+**ARTICLE 16**
+
+This Agreement shall in no way prejudice the rights and obligations of the Parties arising from their participation in international organisations, the regional or sub-regional union and entities and from treaties and agreements to which they are parties.
+
+**ARTICLE 17**
+
+Any difference or dispute arising from the interpretation or implementation of the provisions of this Agreement shall be settled amicably through negotiations between the Parties.
+
+This Agreement may be amended by mutual written consent of the Parties at any time. The amendments shall enter into force in accordance with the same legal procedure prescribed under Article 18 of this Agreement.
+
+**ARTICLE 18**
+
+This Agreement shall enter into force on the date of the receipt of the last written notification by which the Parties notify each other of the completion of their internal legal procedures required for the entry into force of this Agreement. This Agreement shall remain in force for a period of five (5) years and shall be automatically renewed for successive periods of five (5) years unless one of the Parties notifies the other in writing through diplomatic channels of its intention to terminate the Agreement six (6) months prior to its expiration. The termination of this Agreement shall not affect the activities and projects already in progress or executed.
+
+In witness whereof, the undersigned being duly authorized by their respective Governments have signed this Agreement in duplicate in Budapest on the 7<sup>th</sup> of November 2019 in the Hungarian, Turkish and English languages, all texts being equally authentic. In case of any divergence in the interpretation of this Agreement, the English text shall prevail.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 18. cikkében meghatározott időpontban lép hatályba. A 27/2020. (VI. 26.) KKM közlemény alapján a hatálybalépés időpontja 2020. június 11.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Megállapodás 18. cikkében meghatározott időpontban lép hatályba. A 27/2020. (VI. 26.) KKM közlemény alapján a hatálybalépés időpontja 2020. június 11.
+[^3]: A 27/2020. (VI. 26.) KKM közlemény alapján a hatálybalépés időpontja 2020. június 11.
+[^4]: Lásd a 27/2020. (VI. 26.) KKM közleményt.
+[^5]: Az 1. melléklet a 4. § (2) bekezdése alapján a Megállapodás 18. cikkében meghatározott időpontban lép hatályba. A 27/2020. (VI. 26.) KKM közlemény alapján a hatálybalépés időpontja 2020. június 11.
+[^6]: A 2. melléklet a 4. § (2) bekezdése alapján a Megállapodás 18. cikkében meghatározott időpontban lép hatályba. A 27/2020. (VI. 26.) KKM közlemény alapján a hatálybalépés időpontja 2020. június 11.

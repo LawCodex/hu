@@ -1,0 +1,199 @@
+---
+title: "98/2025. (V. 12.) Korm. rendelet az állami beruházások költségellenőrzésének részletes szabályairól"
+identifier: "98/2025. (V. 12.) Korm. rendelet"
+njt_id: "2025-98-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/98"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-05-12
+in_force_from: 2025-05-13
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-98-20-22"
+retrieved: 2026-10-12
+---
+
+# 98/2025. (V. 12.) Korm. rendelet az állami beruházások költségellenőrzésének részletes szabályairól
+
+[1] Az elmúlt években bekövetkezett építőipari áremelkedések, valamint az ebből fakadó beruházási költségek kontroll alatt tartása érdekében a Kormány célja a felelős közpénzgazdálkodás elősegítése okán valamennyi építési beruházás költséghatékony lebonyolításának elősegítése.
+
+[2] A Kormány a Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény 256. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Magyarország 2025. évi központi költségvetésének megalapozásáról szóló 2024. évi LXXIV. törvény (a továbbiakban: 2024. évi LXXIV. törvény) 68. alcímében meghatározott költségellenőrzési eljárást (a továbbiakban: költségellenőrzési eljárás) kell lefolytatni azon építési beruházások előkészítésével és megvalósításával összefüggő beszerzési és közbeszerzési eljárások esetében, amelyeknél a központi költségvetési forrás vagy az európai uniós forrás terhére elszámolni kívánt összeg együttesen vagy külön-külön eléri a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 15. § (1) bekezdés b) pontja szerinti, az adott beszerzési tárgyra irányadó nemzeti közbeszerzési értékhatárt.
+
+(2) Az (1) bekezdésben meghatározott költségellenőrzési eljárást a Kbt. hatálya alá nem tartozó, de az (1) bekezdésben meghatározott becsült értéket elérő építési beruházásokra vonatkozó beszerzési eljárás esetén is alkalmazni kell.
+
+(3) A költségellenőrzési eljárást akkor is le kell folytatni, ha az adott építési beruházás tekintetében az (1) bekezdés szerint elszámolni kívánt összeg nem éri el a Kbt. 15. § (1) bekezdés b) pontjában szereplő értékhatárt, azonban a támogatási jogviszony alapján megvalósítandó építési beruházások együttvéve ezt az értékhatárt meghaladják. Az azonos támogatási jogviszonnyal érintett építési beruházás nem bontható oly módon több beruházási részre, amely e rendelet szabályai alkalmazásának megkerülésére vezetne.
+
+(4) Az építési beruházással kapcsolatos előkészítési tevékenységre vonatkozó költségellenőrzési értékhatárt az építési tevékenységtől függetlenül kell vizsgálni.
+
+## 2. §
+
+E rendelet hatálya kiterjed az 1. §-ban meghatározott értékhatárokat elérő, megkötött építési beruházásokkal összefüggő szerződések módosítására, a pótmunkákra, valamint a szerződéses tartalékkeretek felhasználására vonatkozó kötelezettségvállalásokra is.
+
+## 3. §
+
+E rendelet alkalmazásában
+
+a) *építési beruházás:* a Kbt. szerinti építési beruházás,
+
+b) *építési beruházás előkészítése:* az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 7. § (2) bekezdése szerinti előkészítési tevékenységek,
+
+c) *építési beruházás megvalósítása:* az Ábtv. 7. § (3) bekezdése szerinti tevékenységek.
+
+## 4. §
+
+(1) Nem kell a költségellenőrzési eljárást lefolytatni elemi csapás vagy ipari szerencsétlenség esetén az ideiglenes állagmegóvás érdekében vagy a közvetlen életveszély-elhárítást szolgáló, továbbá elemi csapás vagy ipari szerencsétlenség következtében használatra alkalmatlanná vált építmény használatra alkalmassá tételére irányuló építési beruházásra, továbbá az előre nem látható természetes eredetű vagy gondatlan emberi tevékenység miatt bekövetkezett azonnali beavatkozást igénylő rendkívüli esemény esetén, amelynek el nem hárítása közvetlenül veszélyezteti az emberi életet, testi épséget vagy egészséget, amennyiben az építési beruházás becsült értéke nem éri el a Kbt. 15. § (1) bekezdés a) pontja szerinti uniós közbeszerzési értékhatárt.
+
+(2) A költségellenőrzési eljárást akkor kell lefolytatni a nem többségi állami vagy helyi önkormányzati tulajdonú gazdasági társaság, valamint természetes személy építési beruházása előkészítésével és megvalósításával összefüggő tevékenység esetén, ha
+
+a) a központi költségvetési vagy európai uniós forrás terhére elszámolni kívánt összeg együttesen vagy külön-külön eléri a Kbt. 15. § (1) bekezdés a) pontja szerinti uniós közbeszerzési értékhatárt, és
+
+b) a központi költségvetési vagy a nem közvetlen európai uniós forrás mértéke külön-külön vagy együttesen a beruházás becsült értékének ötven százalékát meghaladja.
+
+(3) A költségellenőrzési eljárást az energetikai rendszereket érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről szóló 96/2024. (V. 7.) Korm. rendelet 2. § 2. pontja szerinti energetikai rendszereket érintő építési beruházás esetében, valamint az atomenergiáról szóló 1996. évi CXVI. törvény 2. § 52. pontja szerinti atomenergia alkalmazására szolgáló építmény megvalósítására irányuló építési beruházás esetében akkor kell lefolytatni, ha az építési beruházás becsült értéke a kétmilliárd forint összeget meghaladja.
+
+(4) A költségellenőrzési eljárást a víziközművet érintő építési beruházásokkal, valamint a vizekre és vízilétesítményekre vonatkozó vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő beszerzési és közbeszerzési eljárások esetében akkor kell lefolytatni, ha az építési beruházás becsült értéke az egymilliárd forint összeget meghaladja.
+
+(5) A (3) és (4) bekezdésben foglalt összeghatár megállapítása során a tárgyévben felmerülő beszerzési igények figyelembevételével a teljes – műszaki és gazdasági szempontból funkcionális egységet képező – építési beruházás becsült értékét kell figyelembe venni.
+
+## 5. §
+
+(1) Az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) a költségellenőrzéssel kapcsolatos feladatokat
+
+a)[^1] a vasútépítési, valamint a vízépítési és közműépítési létesítmények megvalósítására irányuló beruházások, továbbá a magasépítési beruházások esetében a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet,
+
+b)[^2]
+
+c) az útépítési beruházások esetében a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság
+
+bevonásával látja el.
+
+(2)[^3] Ha az építési beruházás az (1) bekezdés a) és c) pontjában meghatározott, több építési beruházást érint, akkor a költségellenőrzéssel kapcsolatos feladatokat az (1) bekezdés a) és c) pontjában meghatározott azon szervezet látja el, amely a beruházás legnagyobb hányadát érintő feladat ellenőrzését látja el.
+
+(3) A miniszter az adott beruházás kapcsán az (1) bekezdés szerinti felosztástól eltérően is bevonhatja az (1) bekezdésben foglalt valamely szervezetet annak indokolással ellátott kezdeményezésére.
+
+(4) A miniszter a költségellenőrzéssel kapcsolatos feladatokat a Közös Agrárpolitika pénzügyi alapjainak felhasználásával megvalósuló építési beruházások esetén a közreműködő szervezetként eljáró Magyar Államkincstár útján látja el.
+
+## 6. §
+
+A költségellenőrzéssel kapcsolatos informatikai feladatokat, így különösen az informatikai rendszerek szoftverfejlesztésével és alkalmazásfelügyeletével kapcsolatos feladatokat a MÁV Szolgáltató Központ Zártkörűen Működő Részvénytársaság látja el.
+
+## 7. §
+
+(1) A miniszter a 2024. évi LXXIV. törvény 253. § (3) bekezdése szerinti véleményét a Kbt. 5–7. §-ában meghatározott ajánlatkérő, valamint a 4. § (2) bekezdésében meghatározott szervezetek és személyek, illetve a Magyarország területén kívül megvalósított beruházás esetén az építési beruházás támogatójának kérelmére alakítja ki.
+
+(2) Szerződésmódosítás, illetve tartalékkeret felhasználása esetén a megrendelőre, illetve a megbízóra az ajánlatkérőre meghatározott rendelkezéseket kell megfelelően alkalmazni.
+
+(3) Konzorcium esetén a kérelmet a konzorcium vezetője nyújthatja be.
+
+## 8. §
+
+(1) A költségellenőrzési eljárás megindítását a 7. §-ban meghatározott személyek kezdeményezhetik
+
+a) a becsült érték ellenőrzésére a közbeszerzési eljárás megindítását megelőzően,
+
+b) a legkedvezőbb érvényes ajánlat, valamint a Kbt. 131. § (4) bekezdésében foglaltak bekövetkezése esetén a legkedvezőbb érvényes ajánlatot követő, legkedvezőbb ajánlati ár ellenőrzésére,
+
+c) a szerződés módosításának ellenőrzésére, ideértve a tartalékkeret felhasználását, valamint a pótmunkaigény elbírálásának ellenőrzését is.
+
+(2) Az (1) bekezdés b) pontjában foglalt esetben az ajánlatkérő szükség esetén gondoskodik az ajánlati kötöttség meghosszabbításáról.
+
+(3) Nem kell az (1) bekezdés b) pontja szerinti eljárást lefolytatni, amennyiben az ajánlatkérő kiviteli tervekkel rendelkezik, és az (1) bekezdés a) pontja szerinti vizsgálat alapján a legkedvezőbb érvényes ajánlat nem haladja meg a miniszter költségellenőrzési véleményének megfelelő becsült értéket.
+
+(4) Az (1) bekezdés b) pontja szerinti eljárást kezdeményezni az összegezés megküldését megelőzően a legkedvezőbb érvényes ajánlat megküldésével is lehetséges.
+
+(5) Keretszerződések esetén az (1) bekezdésben szabályozott eljárásokat a keretszerződések megkötésére, illetve az abban rögzített egységárak esetleges módosítására kell alkalmazni, a keretszerződés alapján kiadott egyedi megrendelésekre, valamint azok módosítására nem.
+
+(6) Keretmegállapodás esetén a verseny újranyitására irányuló eljárásokban kell alkalmazni az (1) bekezdés a) és b) pontjában foglaltakat.
+
+(7) Az (1) bekezdés c) pontja szerinti eljárást a szerződéses ár változása esetén kell kezdeményezni, függetlenül attól, hogy az ár kedvezőbb vagy terhesebb a megrendelő számára.
+
+(8) A 2024. évi LXXIV. törvény 253. § (1) bekezdése szerinti feltételes közbeszerzés megindításával kapcsolatos előírást a Kbt. 53. § (5) bekezdésére figyelemmel nem kell alkalmazni, amennyiben az ajánlatkérő az állami beruházásokért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
+
+(9) A miniszter a költségellenőrzési véleményt külön vizsgálat nélkül adja meg, ha
+
+a) az építési beruházás költségszakértője a minisztérium, illetve a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaság alkalmazásában álló személy, vagy
+
+b) a vizsgálatot az 5. § (4) bekezdésében meghatározott szervezet végezte el a Közös Agrárpolitika pénzügyi alapjai felhasználásának ellenőrzésére irányuló szabályok alapján.
+
+## 9. §
+
+(1) Az ajánlatkérő a minisztérium által üzemeltetett, a minisztérium honlapján közzétett informatikai felületen (a továbbiakban: informatikai rendszer) keresztül nyújtja be szerkeszthető és pdf-formátumban a költségellenőrzésre vonatkozó kérelmét
+
+a) a 8. § (1) bekezdés a) pontja esetén az eljárást megindító felhívás feladását megelőzően,
+
+b) a 8. § (1) bekezdés b) pontja esetén az összegezés megküldését megelőzően vagy a Kbt. 131. § (4) bekezdése szerinti nyertes visszalépését követően,
+
+c) a 8. § (1) bekezdés c) pontja esetén a szerződés módosítását, a tartalékkeret felhasználását megelőzően, illetve a pótmunkaigényről szóló döntés meghozatalát megelőzően.
+
+(2) Az (1) bekezdés szerinti kérelemhez csatolni kell
+
+a) a becsült érték meghatározásának módjára és annak alátámasztására szolgáló dokumentumokat, a minisztérium honlapján ajánlásként közzétett – az Ábtv. 5. § (1) bekezdés 15. pontja szerinti szakminiszter által elkészített és folyamatosan frissített – ágazati tételrend mintáknak megfelelően,
+
+b) a közbeszerzési dokumentáció részét képező műszaki leírást, műszaki specifikációt,
+
+c) a Kbt. 9. § (1) bekezdés h) és i) pontjában meghatározott (in house) beszerzések esetén a beszerzési dokumentáció részét képező műszaki leírást, műszaki specifikációt, a becsült érték meghatározása módjára és annak alátámasztására vonatkozó dokumentumokat, a piaci árat igazoló dokumentumokat,
+
+d) a 8. § (1) bekezdés b) pontja esetén a nyertes ajánlati dokumentációt és árazott költségvetését,
+
+e) a 8. § (1) bekezdés c) pontja esetén a pótmunka és tartalékkeret felhasználásra irányuló költségellenőrzési eljárás esetén az azok indokoltságára vonatkozó műszaki alátámasztó dokumentációt, valamint a pótmunkák és tartalékkeret költségvetés meghatározásának alátámasztására szolgáló dokumentumait, ideértve a jogalap alátámasztását biztosító valamennyi dokumentumot az építési beruházás műszaki és költségellenőrzésére jogosult személyek, szervezetek véleményével együtt.
+
+(3) A minősített adatot tartalmazó (1) bekezdés szerinti kérelmet és a (2) bekezdés szerinti dokumentumokat a minősített adat védelméről szóló 2009. évi CLV. törvény (a továbbiakban: Mavtv.) által előírt módon kell a minisztérium részére megküldeni és kezelni.
+
+## 10. §
+
+(1) Ha az ajánlatkérő a kérelmet nem a 9. § (1) bekezdésében meghatározott formában nyújtja be, a miniszter az ajánlatkérőt a kérelem beérkezésétől számított 3 napon belül, legfeljebb 7 napos határidő tűzésével az informatikai rendszeren keresztül megküldött értesítésben hiánypótlásra hívja fel.
+
+(2) Ha a kérelem hiányos, a miniszter a kérelem kézhezvételét követő 15 napon belül az ajánlatkérőt írásban, legfeljebb 7 napos határidő tűzésével hiánypótlásra hívja fel, amely felhívás tartalmazza a hiánypótlási határidő elmulasztásának jogkövetkezményeit is.
+
+(3) Az (1) és (2) bekezdésben foglalt hiánypótlási határidő elmulasztása esetén a szakvélemény kiadására nem kerül sor, azt meg nem adottnak kell tekinteni.
+
+(4) A költségellenőrzési eljárás lefolytatásának határidejébe a hiánypótlási határidő is beleszámít.
+
+## 11. §
+
+Ha a szerződéskötést megelőzően a nyertes ajánlattevő személye módosul, a miniszter a 10. § szerinti hiánypótlási felhívást a kérelem beérkezésétől számított 10 napon belül küldi meg az ajánlatkérőnek, majd az ajánlatkérő a szükséges dokumentumokat 5 napon belül tölti fel az informatikai rendszerbe.
+
+## 12. §
+
+(1) A miniszter költségellenőrzésre vonatkozó véleményét az informatikai rendszeren keresztül elektronikusan és postai úton küldi meg a kérelmező részére. Az elektronikus úton megküldött költségellenőrzési vélemény alapján a beszerzési, közbeszerzési vagy szerződésmódosítási eljárás folytatható.
+
+(2) A 9. § (3) bekezdése szerinti, minősített adatot tartalmazó költségellenőrzési véleményt a Mavtv. által előírt módon kell előkészíteni és az ajánlatkérő részére megküldeni, azzal, hogy a megküldött költségellenőrzési vélemény alapján a beszerzési, közbeszerzési vagy szerződésmódosítási eljárás folytatható.
+
+## 13. §
+
+(1) A 8. § (1) bekezdés c) pontjában meghatározott eljárás eredményeként megkötött szerződések módosításai, pótmunkái és tartalékkereteinek felhasználása esetén igényelt növekmények esetében a költségellenőrzéshez a szerződést és valamennyi korábbi módosítását, valamint az azokat alátámasztó dokumentumokat is be kell nyújtani a minisztériumhoz.
+
+(2) Ha az informatikai rendszeren keresztül történő benyújtás informatikai okokra tekintettel nem lehetséges, az (1) bekezdésben meghatározott dokumentumok egyéb elektronikus adathordozón is rendelkezésre bocsáthatóak személyesen, illetve postai úton. Ebben az esetben a kérelem benyújtásának napja a dokumentumok minisztériumhoz történő beérkezésének napja.
+
+(3) A (2) bekezdésben meghatározott módon beérkezett kérelem elbírálása a továbbiakban elektronikus úton történik.
+
+## 14. §
+
+Nem vehet részt a költségellenőrzési eljárásban az a személy,
+
+a) aki az Ábtv. szerint az adott építési beruházás projektvezetője, lebonyolítója, tervezője, tervellenőre, építési műszaki ellenőre, kivitelezője, kivitelezőjének alvállalkozója,
+
+b) aki az Ábtv. szerint az adott építési beruházás eredményeként megvalósuló építmény üzemeltetője, vagyonkezelője,
+
+c) aki az Ábtv. szerint az adott építési beruházás tekintetében az a) és b) pontban foglalt valamely tevékenységet látott el, vagy
+
+d) aki az Ábtv. szerint az adott építési beruházás tekintetében olyan pénzügyi, gazdasági vagy személyes érdekeltséggel rendelkezik, amely alapján nem alkalmas a költségellenőrzési eljárásban pártatlan és tárgyilagos közreműködésre.
+
+## 15. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 16. §
+
+A 8. § (1) bekezdés c) pontja szerinti költségellenőrzési eljárást az e rendelet hatálybalépését követően megkötött szerződésekre kell alkalmazni.
+
+---
+
+[^1]: Az 5. § (1) bekezdés a) pontja a 442/2025. (XII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^2]: Az 5. § (1) bekezdés b) pontját a 442/2025. (XII. 29.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^3]: Az 5. § (2) bekezdése a 442/2025. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.

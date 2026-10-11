@@ -1,0 +1,296 @@
+---
+title: "299/2021. (VI. 1.) Korm. rendelet az UNESCO Magyar Nemzeti Bizottságról"
+identifier: "299/2021. (VI. 1.) Korm. rendelet"
+njt_id: "2021-299-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/299"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-06-01
+in_force_from: 2022-01-01
+last_amended: 2023-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-299-20-22"
+retrieved: 2026-10-12
+---
+
+# 299/2021. (VI. 1.) Korm. rendelet az UNESCO Magyar Nemzeti Bizottságról
+
+A Kormány az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmányának kihirdetéséről szóló 2009. évi XXXII. törvény 3. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmányának kihirdetéséről szóló 2009. évi XXXII. törvénnyel kihirdetett, az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmánya VII. cikkében foglalt célok megvalósításával összefüggő tanácsadói feladatokat az UNESCO Magyar Nemzeti Bizottság (a továbbiakban: Bizottság) látja el.
+
+(2) A Bizottság működtetéséért a kultúráért felelős miniszter (a továbbiakban: miniszter) felel.
+
+## 2. §
+
+(1) A Bizottság
+
+a) tájékoztatást nyújt az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete (a továbbiakban: UNESCO) célkitűzéseiről és tevékenységeiről;
+
+b) figyelemmel kíséri az UNESCO egyezményeinek és ajánlásainak hazai végrehajtását, részt vesz a programok, nemzetközi évek, évtizedek megvalósításában;
+
+c) kapcsolatot kezdeményez és tart fenn az UNESCO tevékenységében érdekelt magyar központi államigazgatási szervekkel, intézményekkel, szervezetekkel és magánszemélyekkel, illetve más országoknak az UNESCO-val való együttműködésre kijelölt nemzeti testületeivel;
+
+d) közreműködik az UNESCO tevékenységében és programjaiban, ápolja és fejleszti a nemzetek közötti együttműködést, elősegíti az UNESCO tevékenységi körét érintő magyar eredmények hazai és külföldi népszerűsítését;
+
+e) az UNESCO tevékenységével kapcsolatos kérdésekben, valamint az UNESCO részéről érkezett megkeresésekkel kapcsolatban szakmai javaslatot tesz a Kormánynak, képviselőjének, érintett tagjának, illetve az érintett szaktárcákkal, szakmailag illetékes szervezetekkel folytatott egyeztetést követően az UNESCO-nak;
+
+f) elősegíti és támogatja Magyarország képviselőinek részvételét az UNESCO és testületei, valamint a Bizottsággal együttműködő szervezetek hazai és nemzetközi rendezvényein.
+
+(2) A Bizottság az (1) bekezdésben meghatározott feladatait éves munkaterv alapján látja el.
+
+## 3. §
+
+(1) A Bizottság tagjai:
+
+a) a Bizottság elnöke (a továbbiakban: Elnök),
+
+b) a főtitkár,
+
+c) az állandó szakbizottságok elnökei,
+
+d)[^1] a miniszter, a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter, a kormányzati tudománypolitikáért felelős miniszter, az informatikáért felelős miniszter, a természetvédelemért felelős miniszter, a kulturális örökség védelméért felelős miniszter, a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter, továbbá a külpolitikáért felelős miniszter által delegált 1-1 fő,
+
+e) a Magyar Tudományos Akadémia (a továbbiakban: MTA) elnöke által delegált 1 fő, valamint
+
+f) a Magyar Művészeti Akadémia (a továbbiakban: MMA) elnöke által delegált 1 fő.
+
+(2)[^2] A Bizottság tagja az (1) bekezdésben foglaltakon kívül további 11 fő, akiket az UNESCO tevékenységi területén mutatott kiemelkedő szakmai jártasságára figyelemmel, illetve az UNESCO tevékenységi területén érintett testület képviseletében betöltött szerepére tekintettel az Elnök javaslatára a miniszter a köznevelésért felelős miniszterrel egyetértésben kér fel négyéves időtartamra, oly módon, hogy az UNESCO oktatási, tudományos, kulturális és infokommunikációs tevékenységi területének képviselete biztosított legyen a Bizottságban.
+
+## 4. §
+
+(1) A Bizottság szükség szerint, de évente legalább egyszer ülésezik.
+
+(2) A Bizottság az ülésén
+
+a) a főtitkár előterjesztése alapján dönt az ügyrendjének elfogadásáról, módosításáról, az éves munkatervének a jóváhagyásáról,
+
+b) az Elnök javaslatára dönt a tematikus szakbizottság létrehozásáról, valamint
+
+c) elfogadja a Bizottság éves tevékenységéről készült beszámolót.
+
+(3) A Bizottság ülését a napirend megjelölésével az Elnök hívja össze.
+
+(4) A Bizottság akkor határozatképes, ha tagjainak több mint a fele jelen van, döntéseit egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az Elnök szavazata dönt.
+
+(5) Az Elnök meghívása alapján a Bizottság ülésén tanácskozási joggal bárki részt vehet.
+
+## 5. §
+
+(1)[^3] Az Elnököt – az UNESCO általános tevékenysége és programjai figyelembevételével – az MTA elnökével, az MMA elnökével és a köznevelésért felelős miniszterrel egyetértésben a miniszter kéri fel négyéves időtartamra.
+
+(2) Az Elnök feladata a Bizottság ülésének összehívása, valamint kapcsolattartás az állandó és a tematikus szakbizottságok elnökeivel és a főtitkárral.
+
+(3) Az Elnök a Bizottság képviseletében
+
+a) a Bizottság ülései közötti időszakban a 2. § (1) bekezdés d)–f) pontja szerinti ügyekben – ha a Bizottság testületi álláspontjának kialakításához elegendő idő nem áll rendelkezésre – javaslatot tehet a Kormánynak, képviselőjének, érintett tagjának, illetve az UNESCO-nak,
+
+b) részt vesz az UNESCO tevékenységét érintő hazai rendezvényeken, programokon,
+
+c) együttműködést kezdeményez az UNESCO tevékenységi körét érintő más hazai szervezetekkel, valamint dönt az ilyen tárgyú együttműködési megkeresések kapcsán.
+
+## 6. §
+
+(1) A Bizottság működési feltételeit, valamint a Bizottság titkársági feladatainak ellátását a miniszter biztosítja.
+
+(2) A titkárságot a miniszter által kinevezett főtitkár vezeti.
+
+(3) A főtitkár feladata:
+
+a) a Bizottság képviselete az UNESCO felé;
+
+b) a 2. § (1) bekezdésében meghatározott feladatok végrehajtásának koordinálása;
+
+c) a titkárság irányítása és munkájának koordinálása;
+
+d) a Bizottság működése érdekében szükséges szervezési és hivatali teendők ellátása;
+
+e) a Bizottság és az Elnök tevékenységéhez kapcsolódó titkársági feladatok ellátása;
+
+f) az állandó és a tematikus szakbizottságokkal, a külpolitikáért felelős miniszter által vezetett minisztérium érintett szervezeti egységeivel, Magyarország OECD és UNESCO melletti Állandó Képviseletével és az UNESCO titkárságával való kapcsolattartás;
+
+g) részvétel az UNESCO Általános Konferenciájára való felkészülésben, az ott elfogadott programból és költségvetéséből eredő feladatok hazai végrehajtásában, valamint az UNESCO testületeibe történő szakmai jelölések koordinálása;
+
+h) előterjesztés készítése a Bizottság részére a Bizottság ügyrendjének, éves munkatervének tárgyában; valamint
+
+i) beszámoló készítése a Bizottság részére a Bizottság és a titkárság éves tevékenységéről, az állandó és a tematikus szakbizottságok éves beszámolója alapján.
+
+## 7. §
+
+A Bizottság a honlapján közzéteszi
+
+a) a Bizottság ügyrendjét,
+
+b) a Bizottság tagjainak névsorát,
+
+c) az állandó és a tematikus szakbizottságok ügyrendjét és tagjainak névsorát, valamint
+
+d) a Bizottság és a szakbizottságok üléseinek napirendjét és az üléseiken hozott döntéseket.
+
+## 8. §
+
+(1) A Bizottság állandó szakbizottságai:
+
+a) a Szellemi Kulturális Örökség Magyar Nemzeti Bizottság (a továbbiakban: SZKÖ MNB),
+
+b) a MAB Magyar Nemzeti Bizottság (a továbbiakban: MAB MNB), valamint
+
+c) a Geopark Magyar Nemzeti Bizottság (a továbbiakban: Geopark MNB).
+
+(2) Az állandó szakbizottság
+
+a) az UNESCO érintett tevékenységi területein jelentkező nemzetközi és hazai aktualitásokról folyamatos tájékoztatást nyújt a kormányzati, szakmai és civil szervezetek felé;
+
+b) elfogadja az ügyrendjét;
+
+c) a tevékenységéről éves beszámolót készít az Elnök részére.
+
+(3) Az állandó szakbizottság szükség szerint, de legalább évente egyszer ülésezik.
+
+## 9. §
+
+(1) Az SZKÖ MNB a 2006. évi XXXVIII. törvénnyel kihirdetett, a szellemi kulturális örökség megőrzéséről szóló, Párizsban, 2003. év október hó 17. napján elfogadott UNESCO Egyezményben (a továbbiakban: Egyezmény) nemzeti hatáskörbe utalt feladatok kapcsán javaslattevő, véleményező és döntés-előkészítő testület.
+
+(2) Az SZKÖ MNB elnökét a miniszter – az Elnökkel egyetértésben – kéri fel négyéves időtartamra.
+
+(3) Az SZKÖ MNB a 8. § (2) bekezdésében foglalt feladatokon túlmenően
+
+a) javaslatokat tesz és ajánlásokat fogalmaz meg a miniszter részére
+
+aa) az Egyezmény 11. cikkének megfelelően a helyi közösségek által felterjesztett szellemi kulturális örökségi elemek felvételére a szellemi kulturális örökség nemzeti jegyzékébe, a Bizottság által jóváhagyott kritériumrendszernek megfelelő jelölések alapján,
+
+ab) arra vonatkozóan, hogy a miniszter a nemzeti jegyzék mely elemeit jelölje az emberiség szellemi kulturális örökségének reprezentatív listájára,
+
+ac) arra vonatkozóan, hogy a miniszter mely elemet jelölje a sürgős védelmet igénylő szellemi kulturális örökség listájára,
+
+ad) arra vonatkozóan, hogy a miniszter mely, az Egyezmény elveit és céljait legjobban tükröző, a szellemi kulturális örökség megőrzését célzó programokat, projekteket és tevékenységeket jelölje kiválasztásra és terjesztésre a szellemi kulturális örökség megőrzésével foglalkozó kormányközi bizottság részére,
+
+ae) a nemzeti jegyzéken és a nemzetközi listákon nyilvántartott magyar szellemi kulturális örökség elemek fenntartható megőrzéséről, méltó hasznosításáról és társadalmi tudatosításáról,
+
+af) annak érdekében, hogy Magyarországon az emberiség szellemi kulturális örökségének megőrzése – az épített és a természeti örökséghez hasonlóan – széles körben elfogadott és elismert eszmévé váljék, nemzeti és regionális stratégiai és cselekvési programokat kezdeményez,
+
+ag) az Egyezményt megvalósító programok és oktatási projektek kidolgozása érdekében,
+
+ah) a határon túli magyar közösségek szellemi kulturális örökségével kapcsolatos együttműködést elősegítő stratégiáról és programokról;
+
+b) rendszeresen felülvizsgálja és frissíti a szellemi kulturális örökség nemzeti jegyzékét;
+
+c) véleményezi a jelentés készítője részére a szellemi kulturális örökség megőrzésével foglalkozó kormányközi bizottság számára az Egyezmény hazai végrehajtásáról készített időszaki jelentést.
+
+(4) Az SZKÖ MNB tagjai:
+
+1\. az Elnök,
+
+2\. a főtitkár,
+
+3\. a miniszter által delegált két fő,
+
+4\. a kulturális örökség védelméért felelős miniszter által delegált egy fő,
+
+5.[^4] a köznevelésért és a felsőoktatásért felelős miniszter által közösen delegált egy fő,
+
+6\. a külpolitikáért felelős miniszter által delegált egy fő,
+
+7\. a helyi önkormányzatokért felelős miniszter által delegált egy fő,
+
+8\. az MTA elnöke által delegált egy fő,
+
+9.[^5] a Magyar Kutatási Hálózat Bölcsészettudományi Kutatóközpont által delegált két fő,
+
+10\. az MMA elnöke által delegált két fő,
+
+11.[^6] az Országgyűlés kultúráért felelős bizottságának elnöke által delegált egy fő,
+
+12\. a Hagyományok Háza képviseletében egy fő,
+
+13\. az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait ellátó szervezet képviseletében egy fő,
+
+14\. a Néprajzi Múzeum képviseletében egy fő,
+
+15\. a Szabadtéri Néprajzi Múzeum képviseletében egy fő,
+
+16\. a Magyarországi Tájházak Szövetsége képviseletében egy fő,
+
+17\. a Magyar Népművészeti Tanács képviseletében egy fő,
+
+18\. a Magyar Rektori Konferencia képviseletében két fő,
+
+19\. a Magyar Vidéki Múzeumok Szövetsége képviseletében egy fő.
+
+(5) Az SZKÖ MNB-be tanácskozási joggal rendelkező egy-egy fő meghívottat delegálhat
+
+a) a természetvédelemért felelős miniszter,
+
+b) a turizmusért felelős miniszter,
+
+c) az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter,
+
+d) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter.
+
+(6) Az SZKÖ MNB titkársági feladatainak ellátását a miniszter biztosítja.
+
+## 10. §
+
+(1) A MAB MNB az UNESCO Ember és Bioszféra (Man and Biosphere) Programjának (a továbbiakban: Program) hazai végrehajtásáért felelős véleményező, javaslattevő és döntés-előkészítő testület.
+
+(2) A MAB MNB elnökét a természetvédelemért felelős miniszter – az Elnökkel egyetértésben – kéri fel négyéves időtartamra.
+
+(3) A MAB MNB feladata – a 8. § (2) bekezdésében foglalt feladatokon túlmenően – a magyarországi bioszféra-rezervátumok kialakításában és fenntartásában való szakmai közreműködés, a Programban meghatározott, nemzeti hatáskörbe utalt feladatok előkészítése, koordinálása.
+
+(4) A MAB MNB tagjai – az UNESCO iránymutatásának megfelelően – a bioszféra-rezervátumok kezeléséért felelős nemzeti park igazgatóságok képviselői, valamint a Program hazai végrehajtásához szükséges szakterületek és érdekképviseletek – a MAB MNB elnöke által felkért – szakértői.
+
+(5) A MAB MNB ülésén az Elnök és a főtitkár állandó meghívottként vesz részt.
+
+(6) A MAB MNB titkársági feladatainak ellátásáért a természetvédelemért felelős miniszter felel.
+
+## 11. §
+
+(1) A Geopark MNB az UNESCO Nemzetközi Földtudományi és Geopark Programjának (a továbbiakban: IGGP) hazai végrehajtásáért felelős, véleményező, javaslattevő és döntés-előkészítő testület.
+
+(2) A Geopark MNB elnökét a természetvédelemért felelős miniszter – az Elnökkel egyetértésben – kéri fel négyéves időtartamra.
+
+(3) A Geopark MNB feladata – a 8. § (2) bekezdésében foglalt feladatokon túlmenően – szakmai keretek megfogalmazása a magyarországi geoparkok megalapításához és működtetéséhez, működésük nyomon követése, valamint szakmai közreműködés az IGGP-ben meghatározott, nemzeti hatáskörbe utalt feladatok előkészítésében, koordinálásában.
+
+(4) A Geopark MNB tagjai – az UNESCO iránymutatásának megfelelően – a geoparkok és a geoparkok területe által érintett nemzeti park igazgatóságok képviselői, valamint az IGGP hazai végrehajtásában érintett szakterületeknek – a Geopark MNB elnöke által felkért – szakértői.
+
+(5) A Geopark MNB ülésén az Elnök és a főtitkár állandó meghívottként vesz részt.
+
+(6) A Geopark MNB titkársági feladatainak ellátását a természetvédelemért felelős miniszter biztosítja.
+
+## 12. §
+
+(1) A Bizottság az Elnök javaslatára tematikus szakbizottságokat hozhat létre az UNESCO programjához és költségvetéséhez, középtávú stratégiai terveihez, valamint a hazai prioritásokhoz igazodva.
+
+(2) A tematikus szakbizottság feladata:
+
+a) az UNESCO programjához kapcsolódó hazai tevékenységek koordinálása;
+
+b) javaslatok megfogalmazása a Bizottság részére konkrét kérdésekben; valamint
+
+c) a Bizottság döntéseinek előkészítése.
+
+(3) A tematikus szakbizottság létrehozásakor a Bizottság javaslatot tesz az adott tematikus szakbizottság elnökének személyére és meghatározza a tematikus szakbizottság részletes feladatait. A tematikus szakbizottság elnökét és – az adott tematikus szakbizottsági elnök javaslatára – tagjait az Elnök kéri fel legfeljebb négy évre.
+
+(4) A tematikus szakbizottságok működésüket saját ügyrendjükben szabályozzák.
+
+(5) A tematikus szakbizottság tevékenységéről éves beszámolót készít a főtitkár részére.
+
+## 13. §
+
+Ez a rendelet 2022. január 1-jén lép hatályba.
+
+## 14. §
+
+A Bizottságot és az állandó szakbizottságokat 2022. április 1-jével kell megalakítani.
+
+---
+
+[^1]: A 3. § (1) bekezdés d) pontja a 238/2022. (VI. 30.) Korm. rendelet 211. § a) és b) pontja szerint módosított szöveg.
+[^2]: A 3. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 211. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 211. § a) pontja szerint módosított szöveg.
+[^4]: A 9. § (4) bekezdés 5. pontja a 238/2022. (VI. 30.) Korm. rendelet 211. § c) pontja szerint módosított szöveg.
+[^5]: A 9. § (4) bekezdés 9. pontja a 246/2023. (VI. 22.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^6]: A 9. § (4) bekezdése 11. pontja a 238/2022. (VI. 30.) Korm. rendelet 210. §-ával megállapított szöveg.

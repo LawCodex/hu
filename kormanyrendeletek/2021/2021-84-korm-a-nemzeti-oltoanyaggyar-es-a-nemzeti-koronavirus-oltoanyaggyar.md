@@ -1,0 +1,101 @@
+---
+title: "84/2021. (II. 24.) Korm. rendelet a Nemzeti Oltóanyaggyár és a Nemzeti Koronavírus-Oltóanyaggyár megvalósításával és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "84/2021. (II. 24.) Korm. rendelet"
+njt_id: "2021-84-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/84"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-02-24
+in_force_from: 2021-02-25
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-84-20-22"
+retrieved: 2026-10-12
+---
+
+# 84/2021. (II. 24.) Korm. rendelet a Nemzeti Oltóanyaggyár és a Nemzeti Koronavírus-Oltóanyaggyár megvalósításával és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és f) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti Debrecen külterület 0204/37 helyrajzi számú ingatlanon, valamint az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló, a Nemzeti Oltóanyaggyár és a Nemzeti Koronavírus-Oltóanyaggyár megvalósításával és az azokhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkákra vonatkoznak.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+(1)[^2] A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, illetve a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, az egységes környezethasználati engedélyezési eljárás és a természetvédelmi hatósági eljárás kivételével, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások kivételével – tizenöt nap. A iparbiztonsági engedélyezési eljárások ügyintézési határideje harmincöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, valamint a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével – nyolc nap.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 5. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 84/2021. (II. 24.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. útügyi hatósági eljárások,
+
+5\. vasúti és szalagpálya hatósági engedélyezési eljárások,
+
+6\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+7\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+8\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+9\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+10\. telekalakításra irányuló hatósági eljárások,
+
+11\. területrendezési hatósági eljárások,
+
+12\. földmérési hatósági eljárások,
+
+13\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+14\. hírközlési hatósági eljárások,
+
+15\. bányahatósági engedélyezési eljárások,
+
+16\. tűzvédelmi hatósági eljárások,
+
+17\. élelmiszerlánc-felügyeleti eljárás,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. erdővédelmi hatósági eljárások,
+
+20.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+21\. azok az 1–20. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez, üzemeltetésének beindításához szükségesek,
+
+22\. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 275. § a)-c) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdése az 517/2023. (XI. 22.) Korm. rendelet 7. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 331. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 331. § b) pontja szerint módosított szöveg.

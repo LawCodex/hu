@@ -1,0 +1,177 @@
+---
+title: "352/2020. (VII. 16.) Korm. rendelet a balatonfüredi kézilabda-csarnok megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "352/2020. (VII. 16.) Korm. rendelet"
+njt_id: "2020-352-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/352"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-07-16
+in_force_from: 2020-07-17
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-352-20-22"
+retrieved: 2026-10-12
+---
+
+# 352/2020. (VII. 16.) Korm. rendelet a balatonfüredi kézilabda-csarnok megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+a 4. § (1) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában,
+
+a 4. § (2) bekezdése tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § (3) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 24. pontjában,
+
+a 6. § tekintetében a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés g) pontjában,
+
+a 7. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 27. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+
+a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Balatonfüred külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti Balatonfüred külterület 054 helyrajzi szám alatt nyilvántartott ingatlanon, illetve az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló, a Balatonfüred Város Önkormányzatának kézilabda-csarnok beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) az útépítési és közműcsatlakozási munkák érdekében az (1) bekezdés szerinti ingatlanokkal szomszédos ingatlanokat érintik,
+
+b) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének megkezdéséhez szükségesek.
+
+## 2. §[^1]
+
+A Kormány az 1. melléklet 1. és 2. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Veszprém Vármegyei Kormányhivatalt jelöli ki.
+
+## 3. §[^2]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Veszprém Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 4. §
+
+(1) A Kormány a Beruházással összefüggő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésével összefüggésben a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(2) A Beruházással összefüggésben településképi véleményezési eljárást nem kell lefolytatni, és településképi bejelentési eljárásnak nincs helye.
+
+(3) A Beruházással összefüggésben a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye.
+
+## 5. §
+
+(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+## 6. §
+
+(1) A Beruházással összefüggésben az 1. § (1) bekezdése szerinti ingatlan vonatkozásában a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvénynek (a továbbiakban: Trt.) a tájképvédelmi szempontból kiemelten kezelendő terület övezetére vonatkozó
+
+a) 81. § (2) bekezdés a) pontját azzal az eltéréssel kell alkalmazni, hogy sportcélú épület elhelyezhető oly módon, hogy a sajátos beépítési szabályok tekintetében a 7. § irányadó,
+
+b) 81. § (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a művelési ág megváltoztatása, termőföld más célú hasznosítása csak sportlétesítmény elhelyezése, valamint közmű és közút építése érdekében engedélyezhető, továbbá
+
+c) 81. § (3) bekezdés c) pontját azzal az eltéréssel kell alkalmazni, hogy csarnok csak sportolási, kulturális célra helyezhető el, és az épületben kereskedelmi tevékenység csak e célok kiszolgálása érdekében folytatható.
+
+(2) A Beruházással összefüggésben az 1. § (1) bekezdése szerinti ingatlan vonatkozásában a Trt. borszőlő termőhelyi kataszteri terület övezetére vonatkozó 87. § (1) bekezdés a), c) és e) pontját azzal az eltéréssel kell alkalmazni, hogy sportcélú épület elhelyezhető oly módon, hogy
+
+a) a sajátos beépítési szabályok tekintetében a 7. § irányadó,
+
+b) az épület a szomszédos telkek benapozottságát és mezőgazdasági hasznosítását nem akadályozhatja, valamint
+
+c) biztosítani kell a szomszédos telkek látványának megőrzését.
+
+(3) A Beruházással összefüggésben az 1. § (1) bekezdése szerinti ingatlan vonatkozásában a területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló 9/2019. (VI. 14.) MvM rendelet általános mezőgazdasági terület övezetére vonatkozó
+
+a)[^3] 13. §-át azzal az eltéréssel kell alkalmazni, hogy a telek a településrendezési tervben különleges sportolási célú területbe sorolható, valamint
+
+b) 15. §-át és 16. § a) pontját azzal az eltéréssel kell alkalmazni, hogy a telken sportolási, kulturális célú épület elhelyezhető oly módon, hogy a sajátos beépítési szabályok tekintetében a 7. § irányadó, és az épület a szomszédos telkek benapozottságát és mezőgazdasági hasznosítását nem akadályozhatja.
+
+## 7. §
+
+(1) A Beruházással érintett, 1. § (1) bekezdésében meghatározott ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
+
+a)[^4] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+
+b)[^5] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) A Beruházással érintett, az 1. § (1) bekezdésében meghatározott ingatlan telkén sportolási, kulturális és rekreációs célú épületek és azok kiszolgáló építményei helyezhetőek el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a kialakítható telek legkisebb területe 50000 m<sup>2</sup>,
+
+b) a beépítettség megengedett legnagyobb mértéke 2%,
+
+c) a terepszint alatti építés legnagyobb mértéke 2%,
+
+d) a szintterületi mutató megengedett legnagyobb értéke 0,08,
+
+e) a zöldfelület megengedett legkisebb mértéke 75%,
+
+f) az épületmagasság megengedett legnagyobb mértéke 8 m,
+
+g) az épület legmagasabb pontja nem haladhatja meg a 8 m-t,
+
+h) az építési hely az érintett ingatlanok teljes területe.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 352/2020. (VII. 16.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetésű közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+4\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+5\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. hírközlési hatósági eljárások,
+
+9\. környezetvédelmi hatósági eljárások,
+
+10\. természetvédelmi hatósági eljárások,
+
+11\. útügyi hatósági eljárások,
+
+12\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. bányahatósági engedélyezési eljárások,
+
+17\. élelmiszerlánc-felügyeleti eljárás,
+
+18\. közegészségügyi hatósági eljárások,
+
+19\. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
+
+20\. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 255. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § az 546/2022. (XII. 22.) Korm. rendelet 255. § b)-c) pontja szerint módosított szöveg.
+[^3]: A 6. § (3) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^4]: A 7. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § c) pontja szerint módosított szöveg.

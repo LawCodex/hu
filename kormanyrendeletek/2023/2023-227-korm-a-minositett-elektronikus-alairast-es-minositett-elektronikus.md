@@ -1,0 +1,188 @@
+---
+title: "227/2023. (VI. 8.) Korm. rendelet a minősített elektronikus aláírást és minősített elektronikus bélyegzőt létrehozó eszközök megfelelőségértékelési tevékenységére irányuló kijelöléséről, valamint a kijelölt szervezetek tevékenységének különös szabályairól"
+identifier: "227/2023. (VI. 8.) Korm. rendelet"
+njt_id: "2023-227-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/227"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-06-08
+in_force_from: 2023-06-23
+last_amended: 2025-07-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-227-20-22"
+retrieved: 2026-10-12
+---
+
+# 227/2023. (VI. 8.) Korm. rendelet a minősített elektronikus aláírást és minősített elektronikus bélyegzőt létrehozó eszközök megfelelőségértékelési tevékenységére irányuló kijelöléséről, valamint a kijelölt szervezetek tevékenységének különös szabályairól
+
+A Kormány
+
+a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (1) bekezdés e) pont eb) alpontjában és f) pont fb) alpontjában kapott felhatalmazás alapján,
+
+a 11. § tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés a) pont ac) alpontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+E rendelet hatálya
+
+a) a minősített elektronikus aláírást és a minősített elektronikus bélyegzőt létrehozó eszközök (a továbbiakban: termék) megfelelőségét tanúsító szervezetekre,
+
+b) e termék vonatkozásában a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.) 3. § (1) bekezdése szerinti kijelölő hatóságként – a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet [a továbbiakban: 315/2009. (XII. 28.) Korm. rendelet] 9. §-a alapján eljáró, a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság kijelöléséről és egyes feladatainak meghatározásáról, valamint a nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő részletszabályokról szóló 307/2022. (VIII. 11.) Korm. rendelet 9/A. §-ában kijelölt – Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaságra (a továbbiakban: kijelölő hatóság) és
+
+c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: bizalmi felügyelet)
+
+terjed ki.
+
+## 2. A kijelölés iránti kérelem
+
+### 2. §
+
+(1) A kérelmező szervezet a minősített aláírás-, illetve bélyegző-létrehozó eszköz megfelelőségének tanúsítására irányuló kijelölés iránti kérelmet az Msztv. 6. §-ában, a 315/2009. (XII. 28.) Korm. rendelet 11. §-ában meghatározott tartalommal a kijelölő hatóság által rendszeresített elektronikus űrlapon nyújtja be a kijelölő hatósághoz.
+
+(2) A kijelölés iránti kérelemhez a kérelmező szervezet csatolja a 315/2009. (XII. 28.) Korm. rendelet 12. § (2) bekezdésében foglalt okiratokat és az alábbi dokumentumokat:
+
+a) a kérelmező létesítő okiratát,
+
+b) a nemzetközi tanúsítási rendszerekben kapott elismerések elérhetőségét, azonosítóját, vagy ha az elismerés nyilvános forrásból nem elérhető, akkor annak hiteles másolatát,
+
+c) a kérelmező szervezet általános szerződési feltételeit, a megrendelővel kötött szerződés mintáit, a tanúsítványmintát, valamint az értékelés és tanúsítás dokumentációinak mintáit,
+
+d) a tanúsítási tevékenységet végző alkalmazottak és a kérelmező szervezet által igénybe vett közreműködők munkaviszonyát vagy munkavégzésre irányuló egyéb jogviszonyát, valamint szakmai képzettségét igazoló dokumentumokat,
+
+e) ha a tanúsító a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 30. cikk (3) bekezdés b) pontja szerinti eljárás szerint kíván tanúsítani, az ezt megalapozó eljárásrendet.
+
+(3) A megfelelőségi tanúsítványnak tartalmaznia kell legalább a termék leírását, felhasználási területét, a tanúsítás során figyelembe vett mértékadó előírások pontos megjelölését, valamint a felhasználás feltételeit és esetleges korlátait. A kijelölt tanúsító szervezet a tanúsítványt köteles magyar és angol nyelven is közzétenni.
+
+## 3. A kérelmezővel szemben támasztott követelmények
+
+### 3. §
+
+(1) A termék megfelelőségértékelésére vonatkozó kijelölést kérelmező szervezetnek – a tevékenységi engedély megszerzéséhez és a tevékenység végzésének teljes ideje alatt, illetve a kiadott tanúsítványok érvényességi idejének lejártáig – rendelkeznie kell a kérelmezett megfelelőségértékelési tevékenység végzésére vonatkozó érvényes, biztosítási eseményenként legalább huszonötmillió forint összeghatárig fedezetet biztosító szakmai felelősségbiztosítási szerződéssel, amely biztosítja a kérelmező szervezet tevékenységével okozott kár megtérítését, valamint a személyiségi jogi jogsértésért járó sérelemdíj megfizetését.
+
+(2) A kérelmező szervezet alkalmassága és felkészültsége tekintetében a következő feltételeket kell vizsgálni:
+
+a) a megfelelőségértékeléshez szükséges személyi feltételek megléte, e tekintetben a kérelmező szervezetnek biztosítania kell, hogy a megfelelőségértékelési tevékenységet végző személyzet rendelkezzen
+
+aa) legalább hat év, az informatikai biztonsággal, a nyilvános kulcsú infrastruktúrával vagy kriptográfiával összefüggésben szerzett szakmai gyakorlattal,
+
+ab) az eIDAS Rendelet 30. cikk (3) bekezdése szerinti eljárás, valamint az eIDAS Rendelet II. és III. melléklete szerinti biztonsági követelmények, illetve a Bizottság minősített aláírást és bélyegzőt létrehozó eszközök biztonsági értékelésére vonatkozó szabványok megállapításáról szóló, 2016. április 25-i (EU) 2016/650 végrehajtási határozatában foglalt szabványok ismeretével,
+
+ac) a megfelelőségértékelés elvégzését igazoló tanúsítványok, nyilvántartások és jelentések elkészítéséhez szükséges ismeretekkel, továbbá
+
+ad) az érintett termékre vonatkozó gyártástechnológia ismeretével,
+
+b) ha a kérelmező szervezet megfelelőségértékelési vizsgálatot végez, az ehhez szükséges műszaki feltételek megléte,
+
+c) a megfelelőségértékeléshez kapcsolódó adminisztratív feladatok ellátásához szükséges eszközök rendelkezésre állása,
+
+d) az Msztv. 4. §-a szerinti függetlenségi követelmények érvényesülése,
+
+e) a megfelelőségértékelési tevékenység és a díjazás függetlenségének és elkülönültségének biztosítása,
+
+f) a tanúsításra vonatkozó tevékenység szabályozottsága, eljárásrendje.
+
+g)[^1] a megfelelőségértékelő tevékenység végzéséhez szükséges szakmai folytonosság biztosítása érdekében rendelkezzen megfelelő számú tanúsítást végző személyzettel, amely esetében a munkaviszonyban álló alkalmazottak száma – ide nem értve a munkavégzésre irányuló egyéb jogviszonyban lévőket – eléri vagy meghaladja a két főt,
+
+h)[^2] a megfelelőségértékelő szervezet alkalmazottai a legnagyobb szakmai önállósággal és műszaki hozzáértéssel legyenek képesek elvégezni azokat a feladatokat, amelyekre a tanúsító szervet kijelölték, és mentesek legyenek minden olyan, különösen pénzügyi nyomástól és ösztönzéstől, amely befolyásolhatná döntéseiket vagy bármely ellenőrzésük eredményét, különösen az ilyen eredményekben érdekelt személyek vagy csoportok részéről.
+
+(3) Ha a kérelmező szervezet – a 315/2009. (XII. 28.) Korm. rendelet 5. §-ára figyelemmel – a megfelelőségértékelési tevékenységek végzéséhez leányvállalatot vagy alvállalkozót (a továbbiakban együtt: közreműködő) kíván igénybe venni, a (2) bekezdés szerinti vizsgálat kiterjed arra is, hogy a közreműködő megfelel-e a kérelmező szervezetre vonatkozó követelményeknek. Az ehhez szükséges dokumentációt a kérelmező szervezet a kijelölő hatóság rendelkezésére bocsátja.
+
+## 4. Kijelölés
+
+### 4. §
+
+(1) A kijelölő hatóság a kijelölés során kikéri a bizalmi felügyelet, a Magyar Szabványügyi Testület, valamint a Nemzeti Hírközlési és Informatikai Tanács javaslatát, amelyek nem kötik a kijelölő hatóságot. A megkeresett szerv a kijelölő hatóság megkeresésétől számított 8 napon belül közli a javaslatát.
+
+(2) Ha a kérelmező szervezet megfelel az Msztv.-ben, a 315/2009. (XII. 28.) Korm. rendeletben, valamint az e rendeletben szereplő feltételeknek, a kijelölő hatóság a kérelmezett megfelelőségértékelési feladat ellátására kijelöli.
+
+(3) A kijelölés a kijelölési kérelem szerinti határozott, legfeljebb hároméves időtartamra szól.
+
+(4) A kijelölő hatóság a kijelölési kérelmet elutasítja, ha a kérelem vagy a kérelmező szervezet a hiánypótlást követően sem felel meg a kérelemmel vagy a kérelmező szervezettel szemben az Msztv.-ben, a 315/2009. (XII. 28.) Korm. rendeletben vagy az e rendeletben foglalt követelményeknek.
+
+(5)[^3] A kijelölési kérelem elutasítása esetén ismételt kijelölési kérelem az elutasító döntést követő egy éven belül nem nyújtható be.
+
+### 5. §
+
+(1) A kijelölő hatóság – kijelölés esetén a kijelölési engedély megküldésével – haladéktalanul értesíti a bizalmi felügyeletet a kijelölt szervezet
+
+a) nevéről, székhelyéről,
+
+b) kijelölésének időtartamáról,
+
+c) kijelölésének felfüggesztéséről,
+
+d) kijelölésének visszavonásáról.
+
+(2) A bizalmi felügyelet a kijelölt szervezetek nevéről, címéről, elérhetőségéről és a kijelölés időtartamáról nyilvántartást vezet és tesz közzé, és ellátja az eIDAS rendelet 30. cikk (2) bekezdésében meghatározott tájékoztatási kötelezettséget.
+
+## 5. Éves jelentés
+
+### 6. §
+
+(1) A kijelölt szervezet az előző évben végzett megfelelőségértékelési tevékenységéről készített jelentését (a továbbiakban: éves jelentés) minden év január 31-éig megküldi a bizalmi felügyeletnek, az általa rendszeresített elektronikus űrlapon.
+
+(2) Az éves jelentés a következőket tartalmazza:
+
+a) a kiadott tanúsítványokkal összefüggésben a megrendelővel kötött szerződést, a tanúsítás rövid összefoglalását, a kiadott tanúsítványok karbantartásával összefüggő vizsgálatokat és elemzéseket,
+
+b) a kiadott és a visszavont tanúsítványokat, illetve a tanúsítványokkal összefüggő releváns körülményeket,
+
+c) a közreműködő nevét,
+
+d) a gazdasági szereplőknek a kijelölt szervezet tevékenységével összefüggő panaszai felsorolását és a kivizsgálás eredményét,
+
+e) a megfelelőségértékelés szempontjából releváns, a tárgyévben elvégzett képzések felsorolását,
+
+f) a megfelelőségértékelő szervezetek kijelöléséről, valamint a 315/2009. (XII. 28.) Korm. rendelet 2. § (2) bekezdés e) pontjában meghatározott részvétel vagy tájékoztatás bemutatását és
+
+g) az adott éves változásokról szóló összefoglalót.
+
+## 6. A kijelölt tanúsító szervezet ellenőrzése
+
+### 7. §
+
+(1) A kijelölt tanúsító szervezetnek a kijelölést követően is folyamatosan meg kell felelnie a kijelölési feltételeknek, amelynek ellenőrzését a bizalmi felügyelet végzi.
+
+(2) A bizalmi felügyelet az ellenőrzése során vizsgálja, hogy
+
+a) a kijelölt szervezet a kijelölt megfelelőségértékelési területen folytatott tevékenysége során betartja-e a minőségirányítási kézikönyvében, valamint a működési és eljárási szabályzatában foglaltakat,
+
+b) az előző ellenőrzés óta a szakmai – személyi és műszaki – és adminisztratív felkészültség terén történt esetleges változás befolyásolja-e a megfelelőségértékelési tevékenység hatékonyságát,
+
+c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamint a működési és eljárási szabályzatban történt esetleges változtatások befolyásolják-e a kijelölt szervezet megfelelőségértékelési tevékenység folytatására való alkalmasságát, és
+
+d) a gazdasági szereplők panaszainak kivizsgálása megfelelő volt-e.
+
+(3) A bizalmi felügyelet az ellenőrzés eredményéről a kijelölő hatóságot tájékoztatja.
+
+(4) A kijelölt tanúsító szervezet a kijelölés feltételeiben bekövetkezett változást – a változást alátámasztó iratok csatolásával – a bizalmi felügyeletnek haladéktalanul bejelenti. Ha a változásbejelentés a 2. § (2) bekezdés d) pontjában foglalt, valamint a 315/2009. (XII. 28.) Korm. rendelet 12. § (2) bekezdés a) pontjában foglalt adat módosítását is tartalmazza, a kijelölt tanúsító szervezet a módosított dokumentumok változásokkal egységes szerkezetbe foglalt változatát is benyújtja.
+
+(5)[^4] A kijelölt tanúsító szervezetek kijelölést követő ellenőrzése során a 315/2009. (XII. 28.) Korm. rendelet 19–22. §-át is alkalmazni kell, azzal, hogy a bizalmi felügyelet kezdeményezi a kijelölő hatóságnál a kijelölési engedélyekkel kapcsolatos eljárások lefolytatását, és javaslatot tesz a kijelöléssel kapcsolatos döntések meghozatalára.
+
+## 7. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+
+### 9. §
+
+E rendelet rendelkezéseit a rendelet hatálybalépésekor folyamatban lévő eljárásokra is alkalmazni kell.
+
+### 10. §
+
+(1) Ez a rendelet a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezet 16. cikkének, 17. cikkének és 28. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(2) Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R15. cikk (3) bekezdésének, R17. cikk (6) bekezdés a) pontjának és (7) bekezdés a) pontjának, R17. cikk (9) bekezdésének, R20. cikk (1) bekezdésének, R22. cikkének, valamint R28. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 3. § (2) bekezdés g) pontját a 216/2025. (VII. 22.) Korm. rendelet 10. §-a iktatta be.
+[^2]: A 3. § (2) bekezdés h) pontját a 216/2025. (VII. 22.) Korm. rendelet 10. §-a iktatta be.
+[^3]: A 4. § (5) bekezdését a 216/2025. (VII. 22.) Korm. rendelet 11. §-a iktatta be.
+[^4]: A 7. § (5) bekezdése a 216/2025. (VII. 22.) Korm. rendelet 12. §-ával megállapított szöveg.

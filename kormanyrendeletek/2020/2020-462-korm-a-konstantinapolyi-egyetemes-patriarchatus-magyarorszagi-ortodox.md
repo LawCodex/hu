@@ -1,0 +1,188 @@
+---
+title: "462/2020. (X. 21.) Korm. rendelet a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról"
+identifier: "462/2020. (X. 21.) Korm. rendelet"
+njt_id: "2020-462-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/462"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-10-21
+in_force_from: 2020-10-22
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-462-20-22"
+retrieved: 2026-10-12
+---
+
+# 462/2020. (X. 21.) Korm. rendelet a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+a 4. § (1) bekezdés a)–c) pontja tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában,
+
+a 4. § (1) bekezdés d) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 24. pontjában,
+
+a 4. § (2) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint a Budapest belterület 36563 és 36572/2 helyrajzi számú, természetben a Budapest VIII. kerület, Múzeum utca 11. szám és a Budapest VIII. kerület, Ötpacsirta utca 3. szám alatt található ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított, 36563 helyrajzi számú ingatlanon (a továbbiakban együtt: ingatlanok) megvalósuló, a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek, valamint
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkákkal kapcsolatosak.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A kiemelten közérdekű Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
+
+(4)[^2] A Kormány a Beruházás során építési tevékenységgel érintett, az (1) bekezdésben meghatározott ingatlanok közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a kivitelezés megkezdésétől számított 38 hónapban határozza meg.
+
+## 1/A. §[^3]
+
+A Kormány a Beruházást kiemelt budapesti fejlesztéssé nyilvánítja.
+
+## 1/B. §[^4]
+
+A Beruházás előkészítő-építtetője – a rendelkezésre álló kivitelezési dokumentáció felülvizsgálatával és a végleges kivitelezési dokumentáció elkészítésével összefüggő feladatok tekintetében –, továbbá megvalósító-építtetője a feladatok ellátása során együttműködik a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátussal.
+
+## 2. §
+
+(1)[^5] A Kormány az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+(2)[^6]
+
+## 3. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+## 4. §
+
+(1) A Beruházással összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni,
+
+b) településképi bejelentési eljárásnak nincs helye,
+
+c) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület-alakítási terv készítésének és alkalmazásának nincs helye.
+
+(2) A Kormány a Beruházással összefüggő, az 1. § (1) bekezdésében meghatározott ingatlanokat érintő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésével összefüggésben a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(3) A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a magántulajdonban álló ingatlanokon lévő fás szárú növények vonatkozásában is a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni azzal, hogy amennyiben a fás szárú növény pótlása a földrészlet adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, kivágással érintett ingatlan vagyonkezelője vagyonkezelésében álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+## 5. §
+
+(1) Az 1. § (1) bekezdése szerinti ingatlanok esetében a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+
+a)[^7] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b)[^8] ha a hatályos településrendezési terv és az OTÉK a beépítés és az egyedi építési követelmények (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) A Beruházással érintett – az 1. § (1) bekezdése szerinti – ingatlanokon elsősorban intézményi, rekreációs, kulturális, oktatás, művelődés, vendéglátás, egyéb közösségi és szállás funkciójú épület, továbbá szabadidő eltöltését szolgáló épület és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telkek beépítési módja zártsorú keretes,
+
+b) a beépítettség megengedett legnagyobb mértéke 80%,
+
+c) a zöldfelület megengedett legkisebb mértéke 0%,
+
+d) az építési hely az érintett ingatlanok teljes területe,
+
+e) az építménymagasság megengedett legnagyobb mértéke 25 méter,
+
+f) a párkánymagasság mértéke legfeljebb 21 méter,
+
+g) az eredeti tetőformától eltérő módon és geometriával legfeljebb kétszintes tetőtéri beépítés kialakítható, nyílászárók a belső udvar felé több szintben is elhelyezhetők,
+
+h) az építmények és önálló rendeltetési egységek rendeltetésszerű használatához gépjármű-, továbbá autóbuszparkoló- és várakozóhelyet, valamint kerékpártárolót nem kell biztosítani,
+
+i) az engedélyezési eljárás során műemléki értékleltárba felvett elem elbontható, ha az az ingatlanon ismételten beépítésre kerül a kulturális örökség védelmére vonatkozó követelményekkel összhangban.
+
+(3)[^9] A helyi településrendezési tervben előírt infrastruktúra-fejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem feltétele.
+
+(4) Az épületek energetikai jellemzőire vonatkozó előírásokat csak a műemlékileg védett épületekre vonatkozó előírások szerint kell figyelembe venni, az ingatlanon álló épületek különböző védettségi szintjétől függetlenül.
+
+## 5/A. §[^10]
+
+A Beruházással érintett – 1. § (1) bekezdése szerinti – ingatlanokra vonatkozóan megállapított jókarbantartási kötelezettség teljesítésének határideje a Beruházás megvalósításához szükséges végleges építési engedély hatályának lejárta.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 8. §[^11]
+
+E rendeletnek a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 462/2020. (X. 21.) Korm. rendelet módosításáról szóló 285/2022. (VIII. 1.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át, 1/B. §-át és 5/A. §-át, valamint módosított 1. § (1) és (4) bekezdését a Módr. hatálybalépésekor[^12] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 462/2020. (X. 21.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+7\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+8\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+10\. telekalakításra irányuló hatósági eljárások,
+
+11\. földmérési hatósági eljárások,
+
+12\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+13\. hírközlési hatósági eljárások,
+
+14\. bányahatósági engedélyezési eljárások,
+
+15\. tűzvédelmi hatósági eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+19\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+20\. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+21\. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 285/2022. (VIII. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: [Az 1. § (4) bekezdésében a 285/2022. (VIII. 1.) Korm. rendelet 4. § b) pontjával elrendelet módosítás, amely szerint a „38 hónap” szövegrész helyébe a „76 hónap” szöveg lép, nem vezethető át.]
+[^3]: Az 1/A. §-t a 285/2022. (VIII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1/B. §-t a 285/2022. (VIII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 2. § (1) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 262. § a)-b) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 319. §-a hatályon kívül helyezte.
+[^7]: Az 5. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 116. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 116. § b) pontja szerint módosított szöveg.
+[^9]: Az 5. § (3) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^10]: Az 5/A. §-t a 285/2022. (VIII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 8. §-t a 285/2022. (VIII. 1.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2022. augusztus 2.

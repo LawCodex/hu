@@ -1,0 +1,161 @@
+---
+title: "671/2023. (XII. 29.) Korm. rendelet az Üllői Lövész Központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "671/2023. (XII. 29.) Korm. rendelet"
+njt_id: "2023-671-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/671"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-12-29
+in_force_from: 2023-12-30
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-671-20-22"
+retrieved: 2026-10-12
+---
+
+# 671/2023. (XII. 29.) Korm. rendelet az Üllői Lövész Központ megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés b) és c) pontjában kapott felhatalmazás alapján, az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó szabályoknak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 523/2023. (XI. 30.) Korm. rendelet 4. §-ára figyelemmel,
+
+a 4. § a)–c) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5., 6. pontjában, 16. pont 16.2. alpontjában, 17. és 27. pontjában, valamint a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+a 4. § d) pontja tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 24. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint az Üllő külterület 0275/1, 0275/2, 0275/3 és 0276 helyrajzi számon nyilvántartott ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokon (a továbbiakban: ingatlanok) az Üllői Lövész Központ megvalósítására irányuló beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákkal kapcsolatosak.
+
+## 2. §
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára feladat- és hatáskörrel rendelkező főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha a jogszabály rövidebb határidőt nem állapít meg, valamint a környezetvédelmi és természetvédelmi, továbbá vízügyi és vízvédelmi eljárások kivételével – 15 nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi, továbbá vízügyi és vízvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – 8 nap.
+
+## 4. §
+
+A Beruházás esetében
+
+a) településképi bejelentési eljárásnak nincs helye,
+
+b) településképi véleményezési eljárást nem kell lefolytatni,
+
+c) településképi szakmai konzultációt nem kell lefolytatni,
+
+d) közterület-alakítási terv készítésének és alkalmazásának nincs helye.
+
+## 5. §
+
+(1) Az ingatlanokon a beépítés szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+
+a) a hatályos településrendezési terv, településképi rendelet és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
+
+b) ha a hatályos településrendezési terv, településképi rendelet, egyéb önkormányzati rendelet vagy az OTÉK a beépítés (2) és (3) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet, településképi rendeletet, egyéb önkormányzati rendeletet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) Az ingatlanokra vonatkozó sajátos beépítési szabályok:
+
+1\. a terepszint alatti beépítés legnagyobb mértéke 5%,
+
+2\. a terepszint feletti beépítés legnagyobb mértéke 10%,
+
+3\. a zöldfelület megengedett legkisebb mértéke 80%,
+
+4\. az épületmagasság megengedett legnagyobb mértéke 25 méter,
+
+5\. az ingatlanok természetes terepszintje tartós vagy végleges kialakítással megváltoztatható,
+
+6\. az OTÉK 45. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a terepszint a közvetlenül szomszédos telkek terepszintjéhez képest az építmények funkciójához kapcsolódó biztonsági, illetve a biztonságtechnikai védelemhez szükséges elemek előírt méretének mértékével térhet el,
+
+7\. az építmények funkciójához kapcsolódó biztonsági, illetve a biztonságtechnikai védelemhez szükséges elemek, berendezések az ingatlanok teljes területén elhelyezhetőek,
+
+8\. az ingatlanokon elhelyezhető humusz, szennyezetlen talaj, más, természetes állapotában meglévő olyan anyag, amelyet építési tevékenység során termeltek ki, illetve inert anyag és meddő, továbbá ezen anyagok depónia elhelyezésére, kezelésére, illetve hasznosítására szolgáló, valamint ezen tevékenységekhez kapcsolódó járulékos tevékenységet kiszolgáló területek és építmények alakíthatók ki, illetve létesíthetők, továbbá az azt kiegészítő rendeltetésű építmény,
+
+9\. az ivóvízellátás, csapadékvíz-elvezetés, illetve -kezelés, a gázellátás biztosítása a közüzemi közműhálózat kialakításáig a vonatkozó hatósági előírások megtartásával, egyedi módon, műszakilag megfelelő helyettesítő berendezéssel pótolható, a szennyvíz időszakos tárolása egyedi, zárt szennyvíztároló műtárggyal is történhet,
+
+10\. az ingatlanokon előregyártott vagy iparosított technológiával készült szerkezetű épület is elhelyezhető, engedélyezhető,
+
+11\. az épületek tetőzetén napelem helyezhető el,
+
+12\. az építményben az OTÉK 99. § (3) bekezdése szerinti előírásokat azzal az eltéréssel kell alkalmazni, hogy 200 főig 10 fő részére legalább egy közös, 10 fő létszám felett nemek szerint külön illemhelyet kell létesíteni, oly módon, hogy minden megkezdett
+
+a) 25 fő női létszám részére legalább 1 WC-fülke,
+
+b) 40 fő férfi létszám részére legalább 1 WC-fülke
+
+létesítése szükséges.
+
+(3) Az ingatlanokon elsősorban a lövészettel összefüggésben sport-, oktatási, honvédelmi nevelési célú, kutatás-fejlesztési, kereskedelmi, szolgáltató, irodaépület, egészségügyi, rekreációs, szállás és raktár rendeltetésű épületek és építmények, továbbá biztonsági, biztonságtechnikai rendeltetésű építmények, valamint az azokhoz tartozó kiszolgálóhelyiségeket magukba foglaló épületek helyezhetők el.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 671/2023. (XII. 29.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+4\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+5\. tűzvédelmi hatósági eljárások,
+
+6\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+7\. környezetvédelmi hatósági eljárások,
+
+8\. természetvédelmi hatósági eljárások,
+
+9\. útügyi hatósági eljárások,
+
+10\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+11\. telekalakításra irányuló hatósági eljárások,
+
+12\. földmérési hatósági eljárások,
+
+13\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+14\. közegészségügyi hatósági eljárások,
+
+15\. területrendezési hatósági eljárások,
+
+16.[^1] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+17\. földvédelmi hatósági eljárások,
+
+18\. erdészeti hatósági eljárások,
+
+19\. bányahatósági engedélyezési eljárások,
+
+20\. hulladékgazdálkodási hatósági eljárás,
+
+21\. azok az 1–20. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+22\. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: Az 1. melléklet 16. pontja a 257/2024. (VIII. 29.) Korm. rendelet 362. §-a szerint módosított szöveg.

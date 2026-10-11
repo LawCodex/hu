@@ -1,0 +1,155 @@
+---
+title: "666/2020. (XII. 28.) Korm. rendelet az energetikai felülvizsgálatról"
+identifier: "666/2020. (XII. 28.) Korm. rendelet"
+njt_id: "2020-666-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/666"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-28
+in_force_from: 2022-01-01
+last_amended: 2022-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-666-20-22"
+retrieved: 2026-10-12
+---
+
+# 666/2020. (XII. 28.) Korm. rendelet az energetikai felülvizsgálatról
+
+A Kormány az energiahatékonyságról szóló 2015. évi LVII. törvény 44. § *v)–y)* pontjában kapott felhatalmazás alapján és az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az energetikai felülvizsgálattal kapcsolatos regisztrációs és nyilvántartási kötelezettség
+
+### 1. §
+
+A Nemzeti Klímavédelmi Hatóság (a továbbiakban: Hatóság) a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet 5. § (1) bekezdése szerinti Klímagáz adatbázis (a továbbiakban: Adatbázis) önálló részeként vezeti az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat. Tv.) VIII/A. Fejezetében meghatározott nyilvántartásokat.
+
+### 2. §
+
+(1) Az energetikai felülvizsgáló legkésőbb 8 nappal az energetikai felülvizsgálattal kapcsolatos tevékenység megkezdése előtt kezdeményezi a nyilvántartásba vételét az Adatbázisba, az Ehat. Tv. 43/B. § (1) bekezdés *a)* és *c)* pontjában foglalt feltételek megléte esetén. Az energetikai felülvizsgáló a regisztráció során megadja az Ehat. Tv. 43/A. § (4) bekezdés *a)–f)* pontjában meghatározott adatokat.
+
+(2) A Hatóság a regisztrációt követő 15 napon belül ellenőrzi az Ehat. Tv. 43/B. § (1) bekezdés *a)* és *c)* pontjában foglalt feltételek teljesülését. Ha a Hatóság megállapítja, hogy e feltételek teljesülnek, a Hatóság az Adatbázison keresztül egyenlegértesítőt állít ki. A befizetett felügyeleti díj jóváírását követő 5 napon belül a Hatóság az energetikai felülvizsgálót nyilvántartásba veszi.
+
+(3) Az Ehat. Tv. 43/B. § (1) bekezdés *a)* és *c)* pontjában foglalt feltételek bármelyikének hiánya esetén, továbbá ha az energetikai felülvizsgáló a (2) bekezdés szerinti felügyeleti díjfizetési kötelezettségének nem tesz eleget, a Hatóság az energetikai felülvizsgáló nyilvántartásba vételét elutasítja.
+
+(4) A nyilvántartásba vett energetikai felülvizsgáló eleget tesz az Magyar Mérnöki Kamara (a továbbiakban: MMK) az Ehat. Tv. 43/B. § (2) bekezdése szerinti szabályzatában meghatározott továbbképzési kötelezettségeinek.
+
+(5) A Hatóság az energetikai felülvizsgáló kérelmére az energetikai felülvizsgálót a nyilvántartásból törli. Az energetikai felülvizsgáló a nyilvántartásból való törlés iránti kérelmét az Adatbázisban teljesítendő adatszolgáltatásai és díjfizetési kötelezettségeinek teljesítését követően nyújthatja be.
+
+(6) Ha az energetikai felülvizsgáló szakmagyakorlási tevékenysége szünetel vagy az MMK az energetikai felülvizsgáló szakmagyakorlási tevékenység folytatásához szükséges jogosultságát felfüggeszti, vagy az általa vezetett névjegyzékből vagy a szabad szolgáltatás jogával rendelkező szolgáltatóról elkülönített közhiteles nyilvántartásból az energetikai felülvizsgálót törli, erről az MMK az Adatbázison keresztül értesíti a Hatóságot. A Hatóság az energetikai felülvizsgáló szakmagyakorlási tevékenysége szünetelése vagy felfüggesztése esetén a felülvizsgáló tevékenységét korlátozza oly módon, hogy a szünetelés vagy a felfüggesztés időtartama alatt energetikai felülvizsgálói tevékenységet nem folytathat. A Hatóság az energetikai felülvizsgáló MMK által vezetett névjegyzékből vagy a szabad szolgáltatás jogával rendelkező szolgáltatóról elkülönített közhiteles nyilvántartásból való törlése esetén az energetikai felülvizsgálót törli a nyilvántartásból.
+
+(7) Az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban letelepedett és ott jogszerűen szolgáltatási tevékenységet folytató természetes személy, Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében az MMK által vezetett névjegyzékébe vagy a szabad szolgáltatás jogával rendelkező szolgáltatóról elkülönített közhiteles nyilvántartásba történő felvételét követően végezhet energetikai felülvizsgálatot, ha az Ehat. Tv. végrehajtására kiadott rendelet szerinti érvényes jogosultsággal rendelkezik.
+
+### 3. §
+
+(1) Az Ehat. Tv. 43. § (1) bekezdésében meghatározott rendszert és a rendszer adatait a rendszerről első alkalommal energetikai felülvizsgálatot végző energetikai felülvizsgáló rögzíti az Adatbázisban.
+
+(2) Az (1) bekezdés szerinti regisztráció során az energetikai felülvizsgáló az Adatbázisban rögzíti az energetikai felülvizsgálattal érintett épület címét, a rendszer megnevezését, funkcióját, típusát, egyedi azonosítóját, effektív névleges teljesítményét, a rendszerüzemeltető Ehat. Tv. 43/A. § (2) bekezdés *a)* pontjában vagy 43/A. § (2) bekezdés *ba)–bf)* alpontjában meghatározott adatait, mely adatokról az Adatbázis útján a rendszerüzemeltető értesül.
+
+(3) A rendszerüzemeltető személyében bekövetkezett változást a korábbi rendszerüzemeltető a Hatóság felé jelezheti. Ha az energetikai felülvizsgálat során az energetikai felülvizsgáló a rendszerüzemeltető személyében bekövetkezett változást észleli, az energetikai felülvizsgáló a változást – az új rendszerüzemeltető Ehat. Tv. 43/A. § (2) bekezdés *a)* pontjában vagy 43/A. § (2) bekezdés *ba)–bf)* alpontjában meghatározott adatainak megadásával – rögzíti.
+
+(4) A nyilvántartott rendszer vonatkozásában az Ehat. Tv. 43. § (3)–(4) bekezdésében meghatározott mentességi feltétel bekövetkezése esetén a rendszerüzemeltető a mentességi ok fennállását alátámasztó dokumentumok feltöltésével kezdeményezheti a rendszer Adatbázisból való törlését.
+
+## 2. Az energetikai felülvizsgálat tartalmi követelményei
+
+### 4. §
+
+(1) A rendszerüzemeltető az Ehat. Tv. 43. § (1) bekezdésében meghatározott rendszerek energetikai felülvizsgálatát az üzembe helyezés évétől számított egy éven belül elvégzi.
+
+(2) Az energetikai felülvizsgálat során a rendszerüzemeltető az energetikai felülvizsgáló részére rendelkezésre bocsátja a rendszer azonosításához szükséges, a rendszer használatával, üzemeltetésével, karbantartásával kapcsolatos dokumentumokat és információkat.
+
+(3) Az energetikai felülvizsgáló az energetikai felülvizsgálat során a rendelkezésre bocsátott dokumentumok vizsgálatán felül a rendszer hozzáférhető részeit – fűtési rendszer esetén így különösen a hőfejlesztő berendezéseket, vezérlőrendszereket és keringető szivattyúkat – helyszíni ellenőrzés keretében is megvizsgálja.
+
+(4) Az energetikai felülvizsgálat során az energetikai felülvizsgáló rögzíti az elvégzett tevékenységek részleteit, megjelöli a rendelkezésére bocsátott és hiányzó dokumentumokat, a felülvizsgálat során alkalmazott szabványokat, rendeleteket, dokumentálja a helyszíni ellenőrzés megállapításait, az elvégzett mérések módszerét, a mérés során tapasztaltakat, a mérések és a számítások eredményeit, valamint a felülvizsgálatba bevont szakértők által végzett tevékenységeket.
+
+(5) Az energetikai felülvizsgálat eredményéről szóló adatszolgáltatást az energetikai felülvizsgáló az Adatbázison keresztül teljesíti.
+
+(6) Az energetikai felülvizsgáló az energetikai felülvizsgálat elvégzéséért díjra jogosult. Az energetikai felülvizsgálatért járó ellenszolgáltatás mértékére az MMK ajánlása az irányadó.
+
+### 5. §
+
+Ha a rendszer által kiszolgált épület társasház vagy lakásszövetkezet, az energetikai felülvizsgálat megrendeléséről a társasház vagy lakásszövetkezet közgyűlési határozatot hoz. A rendszerüzemeltető vagy annak képviselője a felülvizsgálati jelentésben foglalt, a rendszer energiahatékonyságának javítására szolgáló ajánlásokat a társasháznak vagy lakásszövetkezetnek a felülvizsgálati jelentés kézhezvételét követő közgyűlésén ismerteti.
+
+## 3. Az ellenőrzési feladat ellátására vonatkozó rendelkezések
+
+### 6. §
+
+(1) Ha a Hatóság a kérelem vagy nyilatkozat benyújtására formanyomtatványt, elektronikus űrlapot tett közzé az Adatbázisban vagy a honlapján, a kérelmet vagy nyilatkozatot az erre a célra rendszeresített formanyomtatványon, elektronikus űrlapon kell benyújtani.
+
+(2) A Hatóság indokolt esetben az ügyfél részére az eljárási cselekmény teljesítésére 8 napon túli határidőt is megállapíthat. Ha a Hatóság az eljárási cselekmény teljesítésére határidőt állapított meg, az ügyfél kérheti a rá vonatkozó határidő lejárta előtt annak meghosszabbítását. A Hatóság az eljárási cselekmény teljesítésére megállapított határidőt egy alkalommal meghosszabbíthatja.
+
+(3) Ha az ellenőrzést végző szerv a hatósági ellenőrzés során jogsértést nem tapasztal, az ellenőrzés lezárásáról feljegyzést vagy jegyzőkönyvet készít, és az ellenőrzés lezárásától számított 15 napon belül az ellenőrzés megállapításairól értesíti az ellenőrzés alá vontat.
+
+(4) Az ellenőrzés lehetséges eszköze az általános közigazgatási rendtartásról szóló törvényben meghatározott eszközökön túl a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a folyamatba beépített ellenőrző rendszerből történő táv-adatszolgáltatás útján történő ellenőrzés.
+
+### 7. §
+
+Az energetikai felülvizsgálathoz kapcsolódó szakmai ellenőrzésekről az MMK éves jelentést készít, amelyet minden év január 31. napjáig az Adatbázison keresztül megküld a Hatóság részére.
+
+## 4. Jogkövetkezmények
+
+### 8. §
+
+(1) Az energetikai felülvizsgálattal kapcsolatos jogszabályban vagy a Hatóság határozatában foglalt rendelkezések megsértése esetén a Hatóság az 1. mellékletben meghatározott mértékű bírságot szab ki.
+
+(2) Folyamatos jogsértés, valamint ugyanazon kötelezett által elkövetett ugyanazon vagy más jogsértés esetén a bírság mértéke az 1. mellékletben meghatározott bírság mértékének 150%-a.
+
+## 5. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2022. január 1-jén lép hatályba.
+
+### 10. §
+
+Ez a rendelet
+
+1\. az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelvnek,
+
+2\. az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i 2018/844/EU európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
+
+### 11. §
+
+(1) A 2. § a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) E rendelet 2. § (7) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
+
+## 1. melléklet a 666/2020. (XII. 28.) Korm. rendelethez
+
+**A bírság mértéke**
+
+1\. Az Ehat. Tv. 43. § (1) bekezdésében meghatározott energetikai felülvizsgálati kötelezettség nem vagy nem megfelelő teljesítése esetén a bírság mértéke
+
+1.1. lakóépületek esetében:
+
+a) fűtési rendszerek vonatkozásában:
+
+*aa)* 70 kW és 290 kW közötti effektív névleges teljesítményű rendszer esetében 150 000 Ft;
+
+*ab)* 290 kW feletti effektív névleges teljesítményű rendszer esetében 300 000 Ft;
+
+b) légkondicionáló rendszerek, hőszivattyúk vonatkozásában:
+
+*ba)* 70 kW és 290 kW közötti effektív névleges teljesítményű rendszer esetében 450 000 Ft;
+
+*bb)* 290 kW feletti effektív névleges teljesítményű rendszer esetében 550 000 Ft.
+
+1.2. nem lakóépületek esetében:
+
+a) fűtési rendszerek vonatkozásában:
+
+*aa)* 70 kW és 290 kW közötti effektív névleges teljesítményű rendszer esetében 200 000 Ft;
+
+*ab)* 290 kW feletti effektív névleges teljesítményű rendszer esetében 350 000 Ft;
+
+b) légkondicionáló rendszerek, hőszivattyúk vonatkozásában:
+
+*ba)* 70 kW és 290 kW közötti effektív névleges teljesítményű rendszer esetében 500 000 Ft;
+
+*bb)* 290 kW feletti effektív névleges teljesítményű rendszer esetében 600 000 Ft.
+
+2\. Az Ehat. Tv. 43. § (8) bekezdésében és a 43/C. § (4) bekezdésében meghatározott adatszolgáltatási kötelezettség megszegése esetén a bírság mértéke 50 000 Ft.
+
+3\. Az Ehat. Tv. 43/A. § (7) bekezdésében meghatározott változás-bejelentési kötelezettség megszegése esetén a bírság mértéke 30 000 Ft.

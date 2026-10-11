@@ -1,0 +1,167 @@
+---
+title: "325/2024. (XI. 14.) Korm. rendelet a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóságról"
+identifier: "325/2024. (XI. 14.) Korm. rendelet"
+njt_id: "2024-325-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/325"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-11-14
+in_force_from: 2025-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-325-20-22"
+retrieved: 2026-10-12
+---
+
+# 325/2024. (XI. 14.) Korm. rendelet a Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóságról
+
+A Kormány az Alaptörvény 15. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 4. § tekintetében a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 55. §-ában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság jogállása
+
+### 1. §
+
+(1) A Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság (a továbbiakban: NKFH) a kereskedelemért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
+
+(2) Az NKFH székhelye Budapest.
+
+(3) Az NKFH-t elnök (a továbbiakban: elnök) vezeti. Az elnök határozatlan időtartamra nevezhető ki.
+
+(4) Az elnök munkáját kettő elnökhelyettes segíti.
+
+(5) Az elnökhelyettes határozatlan időtartamra nevezhető ki.
+
+## 2. Az NKFH elnöke
+
+### 2. §
+
+Az elnök
+
+a) a kinevezés és a felmentés kivételével gyakorolja a munkáltatói jogokat az elnökhelyettesek felett,
+
+b) gyakorolja a munkáltatói jogokat az NKFH kormánytisztviselői és munkavállalói felett,
+
+c) irányítja az NKFH munkaszervezetében a feladatok ellátását,
+
+d) képviseli az NKFH-t,
+
+e) felelős az NKFH részére jogszabályban, közjogi szervezetszabályozó eszközben, illetve megállapodásban meghatározott feladat hatékony ellátásáért, amelyről évente beszámol a miniszternek,
+
+f) felelős az NKFH feladatellátásának minőségbiztosításáért,
+
+g) előkészíti és a miniszterhez felterjeszti az NKFH éves munkatervét,
+
+h) előkészíti és a miniszterhez felterjeszti az NKFH szervezeti és működési szabályzatát,
+
+i) javaslatot tesz az NKFH költségvetésének megállapítására,
+
+j) felelős az NKFH költségvetésének betartásáért,
+
+k) jogszabályban meghatározott keretek között kidolgozza és fejleszti az elektronikus kapcsolattartás, adatátvitel és adatbázis technikai rendszerét az NKFH feladatellátásával összefüggésben,
+
+l) együttműködési megállapodást köt más állami szervekkel és egyéb, fogyasztóvédelmi feladatot ellátó szervekkel, szervezetekkel.
+
+## 3. Az NKFH feladatai
+
+### 3. §
+
+(1) Az NKFH
+
+a) közreműködik a kereskedelem- és fogyasztóvédelmi politika kialakításában és végrehajtásában;
+
+b) a miniszter megkeresése alapján véleményezi a feladatkörét érintő jogszabálytervezeteket;
+
+c) szükség szerint javaslatot tesz a miniszternek a feladatkörét érintő jogszabályok módosítására;
+
+d) előkészíti a fővárosi és vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) Ellenőrzési és Vizsgálati Programját;
+
+e) az Európai Fogyasztói Központok Hálózatának nemzeti tagjaként működteti a hazai Európai Fogyasztói Központot;
+
+f) központosított mintaszállítási rendszert működtet;
+
+g) végzi, illetve végezteti a feladatainak és a kormányhivatal élelmiszer-kereskedelmi, fogyasztóvédelmi és piacfelügyeleti feladatkörének ellátásához szükséges laboratóriumi vizsgálatokat, ennek érdekében működteti az Élelmiszer és Vegyipari Laboratóriumot, valamint a Mechanikai és Villamos Laboratóriumot;
+
+h) több kormányhivatal illetékességi területét vagy a fogyasztók széles körét érintően eseti vizsgálatokat rendelhet el;
+
+i) éves jelentést tesz közzé honlapján a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) hatálya alá tartozó tevékenységekről, amelyben beszámol többek között az előző évben beérkezett panaszok, valamint elindított, illetve lezárt vizsgálatok számáról;
+
+j) minden év március 15-ig jelentést nyújt be az Európai Bizottságnak a mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott, a Tfmtv.-ben szabályozott tisztességtelen piaci gyakorlatokról;
+
+k) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+
+(2) Az (1) bekezdés i) pontja szerinti jelentés a lezárt vizsgálatok tekintetében – az adatok zárt kezelésére vonatkozó követelmény figyelembevétele mellett – tartalmazza a vizsgálat tárgyának és kimenetelének, valamint a meghozott határozatnak az összefoglaló bemutatását.
+
+(3) A NKFH az élelmiszer-kereskedelem ellenőrzésével kapcsolatban köteles a Nemzeti Élelmiszerlánc-biztonsági Hivatallal (a továbbiakban: NÉBIH) szorosan együttműködni, és minden elvárható segítséget és információt megadni részére.
+
+### 4. §
+
+A Kormány a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 12. § (2)–(5) bekezdése szerinti belső ügyintézési felület működtetésére az NKFH-t jelöli ki.
+
+## 4. Az NKFH eljárására vonatkozó különös szabályok
+
+### 5. §
+
+(1) Az NKFH közigazgatási hatósági ügyben országos illetékességgel jár el.
+
+(2) Ha az adott ügyre vonatkozó döntés előkészítésében közreműködő személlyel összefüggésben a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. vagy 9. §-a szerinti kizárás áll fenn, a döntés-előkészítésre annak megkezdése előtt vagy – ha a kizárás oka a döntés-előkészítő tevékenység megkezdése után következik be – a döntés-előkészítés újbóli lefolytatására kizárással nem érintett ügyintézőt kell kijelölni.
+
+## 5. Az NKFH és kormányhivatalok közötti irányítási kapcsolatok
+
+### 6. §
+
+(1) Az NKFH szakmai irányító tevékenysége keretében
+
+a) értekezleteket és képzéseket szervez, szakmai munkacsoportokat működtet,
+
+b) a kormányhivatalok ellenőrzései és szakmai tevékenysége során kötelezően alkalmazandó szakmai eljárásrendeket, útmutatókat, ellenőrzési és mintavételi terveket ad ki,
+
+c) kijelöli a levett minták vizsgálatát végző laboratóriumokat, valamint
+
+d) ellenőrzi az általa végzett belső ellenőrzéseken, auditokon, szakterületi ellenőrzéseken tett ajánlások végrehajtását.
+
+(2) Az NKFH a kormányhivatalt
+
+a) a nemzetközi szervek által végrehajtott külső auditokon való közreműködésre,
+
+b) az országos adatbázisok kialakítása és fenntartása érdekében adatgyűjtésre, nyilvántartás-vezetésre és adatszolgáltatásra, valamint
+
+c) az elvégzett feladataik tekintetében jelentéstételre és beszámolóra
+
+kötelezheti.
+
+## 6. Záró rendelkezések
+
+### 7. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2025. január 1. napján lép hatályba.
+
+(2) A 4. § 2026. január 1-jén lép hatályba.
+
+### 8. §
+
+(1) Az NKFH a Nemzetgazdasági Minisztériumból történő kiválással jön létre 2025. január 1-jén.
+
+(2) Az (1) bekezdés szerinti jogutódlással érintett álláshelyen foglalkoztatott beosztási okiratának a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 90/A. § (3) bekezdése szerinti kiállítása során az NKFH a foglalkoztatott Kit. 1. melléklet II. táblázata szerinti álláshelyi besorolását úgy állapítja meg, hogy a foglalkoztatottat a Kit. 128. § (1) bekezdése szerint megillető szabadság, valamint a foglalkoztatott illetménye nem lehet kevesebb annál, mint amire a foglalkoztatott a beosztási okirata alapján a kiválás napján jogosult volt.
+
+### 9. §
+
+(1) A Nemzeti Kereskedelmi és Fogyasztóvédelmi Hatóság létrehozásával összefüggő kormányrendeletek módosításáról szóló 328/2024. (XI. 14.) Korm. rendelet alapján a NÉBIH-től az NKFH-hoz átkerülő feladat- és hatáskörök tekintetében a NÉBIH jogutódja 2025. január 1-jével az NKFH.
+
+(2) Az Élelmiszerlánc-biztonsági Centrum Nonprofit Kft. (a továbbiakban: ÉBC) által 2024. december 31. napjáig végzett, az (1) bekezdés szerinti jogutódlás alapján az NKFH-hoz átkerülő feladatok ellátásában érintett szervezeti egységeinél vagy tevékenysége keretében foglalkoztatott munkavállalókat az NKFH foglalkoztatja tovább.
+
+(3) Az ÉBC (2) bekezdés szerinti munkavállalóinak foglalkoztatási jogviszonya 2025. január 1-jétől az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/F. § (1) bekezdése alapján a Kit. szerinti kormányzati szolgálati jogviszonnyá alakul át az Áht. 11/F. §-ának megfelelően, kivéve, ha az NKFH az érintett munkavállalóval a Kit. 279. §-a szerinti, munkaviszony keretében történő foglalkoztatásban állapodik meg.
+
+### 10. §
+
+E rendelet
+
+a) 3. § (1) bekezdés e) pontja a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelvnek (fogyasztói alternatív vitarendezési irányelv),
+
+b) 3. § (1) bekezdés i) és j) pontja, valamint (2) bekezdése a mezőgazdasági és élelmiszer-ellátási láncban a vállalkozások közötti kapcsolatokban előforduló tisztességtelen piaci gyakorlatokról szóló, 2019. április 17-i (EU) 2019/633 európai parlamenti és tanácsi irányelv 10. cikk (1) és (2) bekezdésének
+
+való megfelelést szolgálja.

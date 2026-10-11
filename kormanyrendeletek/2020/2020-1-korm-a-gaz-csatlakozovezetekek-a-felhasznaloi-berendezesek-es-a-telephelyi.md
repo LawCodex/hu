@@ -1,0 +1,185 @@
+---
+title: "1/2020. (I. 13.) Korm. rendelet a gáz csatlakozóvezetékek, a felhasználói berendezések és a telephelyi vezetékek műszaki-biztonsági hatósági felügyeletéről"
+identifier: "1/2020. (I. 13.) Korm. rendelet"
+njt_id: "2020-1-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/1"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-01-13
+in_force_from: 2020-03-13
+last_amended: 2020-03-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-1-20-22"
+retrieved: 2026-10-12
+---
+
+# 1/2020. (I. 13.) Korm. rendelet a gáz csatlakozóvezetékek, a felhasználói berendezések és a telephelyi vezetékek műszaki-biztonsági hatósági felügyeletéről
+
+A Kormány a földgázellátásról szóló 2008. évi XL. törvény 132. § 56. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya kiterjed a földgáz, a földgáz minőségű biogáz és biomasszából származó gázok, valamint egyéb gázfajták, PB-gáz (a továbbiakban együtt: éghető gázok) tartályban történő forgalmazásánál és a vezetéken történő szolgáltatásában alkalmazott csatlakozóvezetékek, telephelyi vezetékek és felhasználói berendezések tervezőire, kivitelezőire, tulajdonosaira, üzemeltetőire, felhasználóira, műszaki biztonságára és hatósági felügyeletére.
+
+(2) E rendeletet nem kell alkalmazni
+
+a) a haditechnikai célokat szolgáló berendezésekre;
+
+b) a belső égésű motorokra (az energetikai célra szolgáló gázturbinák és gázmotorok kivételével);
+
+c) a közúti közlekedésről szóló törvényben meghatározott közúti járművekbe szerelt motorokra;
+
+d) a vegyipari technológiában az éghető gázt kizárólag alapanyagként felhasználó berendezésekre;
+
+e) a gázfogyasztó készülékeknek a gáz halmazállapotú tüzelőanyag égetésével üzemelő berendezésekről és a 2009/142/EK irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/426 (EU) európai parlamenti és tanácsi rendeletben meghatározott tervezésére, gyártására és megfelelőségértékelésére, továbbá piacfelügyeletére;
+
+f) a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló rendelet hatálya alá tartozó nyomástartó berendezésekre és rendszerekre;
+
+g) a bányafelügyelet hatósági hatáskörébe tartozó gázfogyasztó készülékekre, technológiai rendszerekre, valamint a földi alatti gáztárolókra;
+
+h) a palackból vagy palackkötegből üzemelő csatlakozóvezetékekre, felhasználói berendezésekre, gázfelhasználó technológiai rendszerekre.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában:
+
+1\. *átalakítás:* minden olyan beavatkozás, amely a felhasználási hely csatlakozóvezetékének, a gázmérőhely vagy a gázfelhasználó technológiai rendszer műszaki kialakításának, üzemi paramétereinek megváltoztatását eredményezi, ideértve a felhasználási hely fogyasztásmérője leszerelésének esetét is;
+
+2\. *egyenértékű műszaki biztonsági szint:* a kor műszaki színvonalának megfelelő, a harmonizált szabványok, honosított harmonizált szabványok, nemzeti szabványok szerinti vagy a tervező által igazolt, eltérő műszaki biztonsági paraméterek, eljárások vagy műszaki megoldások alkalmazásával elért műszaki biztonsági szint;
+
+3\. *gázfelhasználó technológiai rendszer:* ipari, mezőgazdasági vagy szolgáltatási eljárásokra tervezett berendezés a tüzelőanyag- és égéslevegő-ellátó rendszerrel, a tűztér-munkatérrel, az égéstermék-elvezetéssel és az irányítástechnikai tartozékokkal együtt, amelyben ipari vagy mezőgazdasági nyersanyag vagy félkész termék, gáz eltüzeléséből keletkezett hőenergia, védőgáz hatásának van kitéve, továbbá a gázfáklya, valamint az energetikai célra szolgáló gázturbina és gázmotor;
+
+4\. *készülékcsere:* a felhasználói berendezés olyan megváltoztatása – ide nem értve a meglévő gázfogyasztó készülék vagy gázfogyasztó készülékek egyszerűsített eljárással történő cseréjének esetét, valamint a felhasználási hely fogyasztásmérőjének leszerelését esetét –, amely a meglévő gázfogyasztó készülék vagy gázfogyasztó készülékek helyett új gázfogyasztó készülék vagy gázfogyasztó készülékek telepítésére vonatkozik, és amely nem jár a csatlakozóvezeték, a gázfelhasználó technológiai rendszer kialakításának, üzemi paramétereinek megváltoztatásával vagy a gázmérőhelyen lévő névleges méréshatárú fogyasztásmérő cseréjével;
+
+5\. *műszaki biztonsági felülvizsgálat:* az üzembe helyezett gázfelhasználó technológiai rendszer műszaki biztonsági szempontból végzett időszakos vagy rendkívüli ellenőrzése;
+
+6\. *műszaki biztonsági szabályzat:* a csatlakozóvezetékekre, a felhasználói berendezésekre, a telephelyi vezetékekre, az olajfogyasztó technológiai rendszerekre és a gáztárolókra vonatkozó műszaki biztonsági előírásokról szóló miniszteri rendeletnek a csatlakozóvezetékek, a felhasználói berendezések és a telephelyi vezetékek műszaki biztonsági szabályzatát tartalmazó melléklete szerinti műszaki biztonsági szabályzat;
+
+7\. *telephelyi engedélyes:* az a gazdasági társaság, amely a telephelyi vezetéken a gázüzemi tevékenység végzésére és a vezetékhez kapcsolódó telephelyi felhasználók földgázellátására – földgáz-kereskedelmi tevékenység végzése keretében –, a Magyar Energetikai és Közmű-szabályozási Hivatal által kiadott engedéllyel rendelkezik;
+
+8\. *telephelyi szolgáltató:* a telephelyi vezeték tulajdonosa, az a természetes vagy jogi személy, amely a telephelyi vezetéken a gázüzemi tevékenységet és a vezetékhez kapcsolódó telephelyi felhasználók földgázellátását nem a Magyar Energetikai és Közmű-szabályozási Hivatal által kiadott működési engedély birtokában végzi.
+
+## 3. Az éghető gázok csatlakozóvezetékeinek, telephelyi vezetékeinek és felhasználói berendezéseinek hatósági eljárásaival, létesítésével és üzemeltetésével kapcsolatos szabályok
+
+### 3. §
+
+(1) Az éghető gázok csatlakozóvezetékeinek, telephelyi vezetékeinek és felhasználói berendezéseinek műszaki biztonsági felügyelete keretében a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 13. § (1) bekezdésében kijelölt műszaki biztonsági hatóság (a továbbiakban: Hatóság)
+
+a) jóváhagyja a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszerek használatbavételét és átalakítás utáni ismételt használatbavételét, vagy dönt az üzemeltetés megtiltásáról,
+
+b) kérelemre alkalmassági nyilatkozatot ad ki a csatlakozóvezeték, telephelyi vezeték és felhasználói berendezés kiviteli tervének műszaki biztonsági szempontból történő alkalmasságáról,
+
+c) ellenőrzi a földgázelosztó, a vezetékes PB-gáz-szolgáltató, a telephelyi engedélyes és a telephelyi szolgáltató – e rendelet szabályozási körébe tartozó – műszaki biztonsági tevékenységét,
+
+d) ellenőrzi a gázfelhasználó technológiai rendszerek létesítésére és üzemeltetésére vonatkozó műszaki biztonsági előírások betartását,
+
+e) kivizsgálja az e rendelet hatálya alá tartozó csatlakozóvezetékekkel, telephelyi vezetékekkel és felhasználói berendezésekkel kapcsolatos rendkívüli események bekövetkezésének körülményeit, és a hasonló esetek megelőzése érdekében intézkedik.
+
+(2) A Hatóság a telephelyi vezetéket, a felhasználási hely csatlakozóvezetékét és a felhasználói berendezés létesítését és használatát a földgázelosztó, a vezetékes PB-gáz-szolgáltató, a telephelyi engedélyes és a telephelyi szolgáltató bevonásával ellenőrizheti. A földgázelosztó, a vezetékes PB-gáz-szolgáltató, a telephelyi engedélyes és a telephelyi szolgáltató térítésmentesen működik közre a hatósági ellenőrzésen.
+
+(3) A Hatóság az (1) bekezdés *d)* pontja szerinti ellenőrzés gyakoriságát a gázfelhasználó technológiai rendszer vagy a tevékenység veszélyessége alapján határozza meg, és ellenőrzi, hogy a gázfelhasználó technológiai rendszerek és azok üzemeltetése megfelel-e a hatósági döntésben foglaltaknak és a műszaki biztonsági követelménynek.
+
+(4) Ha a Hatóság az ellenőrzés során a gázfelhasználó technológiai rendszer további üzemelésre való alkalmatlanságát állapítja meg, a használatbavételi jóváhagyást visszavonja, és a gázfelhasználó technológiai berendezés használatát megtiltja.
+
+### 4. §
+
+(1) A csatlakozóvezeték, a telephelyi vezeték, a felhasználói berendezés kiviteli tervét az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben megállapított, a műszaki biztonsági szabályzatban meghatározott szakterületre tervezési jogosultsággal rendelkező olyan tervező készítheti, aki a Magyar Mérnöki Kamara közhiteles hatósági nyilvántartásában szerepel.
+
+(2) A csatlakozóvezeték, a telephelyi vezeték, a felhasználói berendezés kiviteli terve kivitelezésre való alkalmasságának megítélésére indított eljárásban a Hatóság a döntéshozatal során vizsgálja a kiviteli tervet és a földgázelosztó jogszabályi hivatkozásokkal megindokolt elutasító nyilatkozatát.
+
+### 5. §
+
+(1) A felhasználónak a csatlakozóvezeték és a fogyasztói vezeték üzembe helyezését követően 8 napon belül benyújtott kérelmére a Hatóság dönt a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszer használatbavételének és átalakítás utáni ismételt használatbavételének jóváhagyásáról, ha meggyőződött a műszaki biztonsági szabályzatban meghatározott követelmények teljesüléséről és a biztonságos üzemelésre való alkalmasságáról.
+
+(2) A kérelem elbírálása során a Hatóság a biztonságos üzemelés feltételeinek meglétét a következő dokumentumokban foglaltak alapján vizsgálja:
+
+a) a gázfelhasználó technológiai rendszer kiviteli terve és
+
+b) a 8. §-ban foglalt adattartalmú tervezői nyilatkozat.
+
+(3) A 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszerek első és átalakítás utáni ismételt használatbavételének jóváhagyása iránti eljárást megelőzően indult eljárásban a Hatóság a felhasználó kérelmére megvizsgálja, hogy a biztonságos üzemelésre való alkalmasság feltételeinek megállapítása érdekében indokolt-e próbaüzem lefolytatása. Ha indokolt, a Hatóság a próbaüzem elrendeléséről dönt. A próbaüzem alatt a felhasználónak el kell végeznie a melegüzemi biztonsági ellenőrzést. A próbaüzem eredményes lefolytatása esetén, vagy ha a megelőző eljárásban a Hatóság azt állapítja meg, hogy próbaüzem elrendelése nem indokolt, a felhasználó kérelmére a Hatóság lefolytatja az (1) bekezdés szerinti eljárást.
+
+(4) Ha a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszert, illetve annak részét képező gázfogyasztó készüléket annak gyártója, a gyártó által írásos szerződésben kijelölt forgalmazója vagy ezek írásban kijelölt megbízottja szereli össze vagy alakítja át és helyezi üzembe, akkor a Hatóság a biztonságos üzemelés feltételei meglétének vizsgálata során az üzembe helyezést követően a gyártó vagy forgalmazó által készített, megfelelőséget igazoló nyilatkozatban foglaltakat is figyelembe veszi.
+
+(5) A felhasználó a 70 kW együttes hőterhelést meghaladó gázfelhasználó technológiai rendszer megszüntetését a Hatóság részére a megszüntetést követő 30 napon belül bejelenti.
+
+(6) A legfeljebb 70 kW együttes hőterhelésű gázfelhasználó technológiai rendszerek műszaki biztonsági ellenőrzését az illetékes földgázelosztó, a vezetékes PB-gáz-szolgáltató, a PB-gáz-forgalmazó, a telephelyi szolgáltató, a telephelyi engedélyes vagy megbízottja végzi el a műszaki biztonsági szabályzat előírásai alapján.
+
+(7) A 70 kW feletti együttes hőterhelésű gázfelhasználó technológiai rendszer átalakítását megelőzően a Hatóságnak küldött kérelem, valamint a legfeljebb 70 kW együttes hőterhelésű gázfelhasználó technológiai rendszer átalakítását megelőzően az illetékes földgázelosztónak, a vezetékes PB-gáz-szolgáltatónak, a PB-gáz-forgalmazónak, a telephelyi szolgáltatónak vagy a telephelyi engedélyesnek a felhasználó által küldött bejelentés tartalmazza
+
+a) a gázfelhasználó technológiai rendszer főbb műszaki adatait, azonosító számát, jelét,
+
+b) a felállítási hely címét,
+
+c) a gázfelhasználó technológiai rendszer üzemeltetőjének nevét, címét és elérhetőségét,
+
+d) a gázfelhasználó technológiai rendszer tulajdonosának nevét, címét és elérhetőségét, ha a felhasználó nem azonos a tulajdonossal,
+
+e) a tervezett átalakítás kiviteli tervének azonosító számát és
+
+f) az átalakítással érintett műszaki, technológiai változások összefoglalását.
+
+(8) A felhasználó a gázfelhasználó technológia műszaki biztonsági felülvizsgálatát az üzembe helyezés évét követő első évben és ezt követően évente elvégezteti a műszaki biztonsági felülvizsgálat elvégzésére jogosult személlyel.
+
+(9) A műszaki biztonsági felülvizsgálat során az üzembe helyezéskor hatályos műszaki biztonsági szabályoknak való megfelelést, továbbá a biztonságos üzemeltetést befolyásoló feltételeket kell ellenőrizni.
+
+### 6. §
+
+Az éghető gázok csatlakozóvezetékei, telephelyi vezetékei és felhasználói berendezései tekintetében meghatározott műszaki biztonsági követelményektől a tervező eltérhet, ha az általa alkalmazott műszaki megoldás biztosítja az egyenértékű műszaki biztonsági szintet.
+
+## 4. A gázfogyasztó készülékek egyszerűsített eljárásban történő cseréje
+
+### 7. §
+
+(1) Meglévő gázfogyasztó készülékek cseréje egyszerűsített eljárással az alábbi feltételek, valamint a (2) és (3) bekezdésben az adott esetkörre vonatkozó feltételek egyidejű fennállása esetén végezhető:
+
+a) az új gázfogyasztó készülék vagy gázfogyasztó készülékek felszerelése nem jár a gázmérőhelyen felszerelt névleges méréshatárú fogyasztásmérő cseréjével,
+
+b) a készülékcsere nem jár a fogyasztói vezeték cseréjével vagy átalakításával, kivéve annak a cserélendő gázfogyasztó készülék kizárására szolgáló elzáró szerelvény és az új gázfogyasztó készülék csatlakozási pontja közötti legfeljebb 1,5 m hosszú szakaszát,
+
+c) az új gázfogyasztó készülék nem gyűjtőrendszerű, és nem több helyiségből igénybe vett égéstermék-elvezetőhöz csatlakozik, és
+
+d) az égéstermék-elvezetőhöz csatlakozó új gázfogyasztó készülék hőterhelése nem nagyobb a meglévő gázfogyasztó készülék hőterhelésénél.
+
+(2) Ha az új gázfogyasztó készülék besorolása megegyezik a meglévő gázfogyasztó készülék tanúsított típusa szerinti besorolásával, akkor a gázfogyasztó készülék elhelyezésének változatlanul meg kell felelnie a létesítéskori vagy a hatályos műszaki biztonsági feltételeknek.
+
+(3) Ha az új gázfogyasztó készülék besorolása eltér a meglévő gázfogyasztó készülék tanúsított típusa szerinti besorolásától, akkor a gázfogyasztó készülék elhelyezésének meg kell felelnie a hatályos műszaki biztonsági feltételeknek.
+
+(4) A felhasználó a meglévő gázfogyasztó készülék egyszerűsített eljárással történő cseréjét az illetékes földgázelosztó, telephelyi szolgáltató, telephelyi engedélyes, PB-gáz-fogyasztó készülékek esetében a vezetékes PB-gáz-szolgáltató, PB-gáz-forgalmazó minőségirányítási rendszerében előírtak alapján feljogosított és műszaki-biztonsági felülvizsgáló szakképesítéssel rendelkező gázszerelővel végezteti el.
+
+(5) Az elvégzett egyszerűsített készülékcserét a feljogosított gázszerelő a csere elvégzését követő 2 munkanapon belül a szerelési nyilatkozat és a bejelentőlap átadásával bejelenti az illetékes földgázelosztónak, a telephelyi engedélyesnek, a telephelyi szolgáltatónak, vezetékes PB-gáz-szolgáltatónak, PB-gáz-forgalmazónak.
+
+## 5. A tervezői nyilatkozat adattartalma
+
+### 8. §
+
+Az 5. § (2) bekezdés *b)* pontja szerinti tervezői nyilatkozat a következőket tartalmazza:
+
+a) a tervező neve;
+
+b) a tervező elérhetősége;
+
+c) a tervezett vagy megszüntetendő létesítmény megnevezése és címe;
+
+d) a nyilatkozat tárgya szerinti munkához tartozó dokumentáció rajzszáma;
+
+e) a tervezésre vonatkozó jogosultsághoz tartozó névjegyzéki (nyilvántartási) szám;
+
+f) nyilatkozat arról, hogy a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak, továbbá a műszaki biztonsági szabályzatban foglaltaknak, és a tervezett műszaki megoldás biztosítja az élet, az egészség, a környezet és a kulturális örökség védelmét;
+
+g) a műszaki biztonsági szabályzatban foglaltaktól való eltérés esetén nyilatkozat arról, hogy az alkalmazott megoldás biztonsági szintje egyenértékű biztonsági szintnek minősül;
+
+h) szabványban meghatározott műszaki megoldástól való eltérés esetén nyilatkozat arról, hogy az alkalmazott megoldás egyenértékű biztonsági szintnek minősül;
+
+i) aláírás, keltezés.
+
+## 6. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet a kihirdetését követő 60. napon lép hatályba.

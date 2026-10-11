@@ -1,0 +1,95 @@
+---
+title: "321/2022. (VIII. 18.) Korm. rendelet a stratégiailag kiemelt jelentőségű csődeljárásokra és felszámolási eljárásokra vonatkozó részletes szabályokról"
+identifier: "321/2022. (VIII. 18.) Korm. rendelet"
+njt_id: "2022-321-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/321"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-08-18
+in_force_from: 2022-08-21
+last_amended: 2022-08-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-321-20-22"
+retrieved: 2026-10-12
+---
+
+# 321/2022. (VIII. 18.) Korm. rendelet a stratégiailag kiemelt jelentőségű csődeljárásokra és felszámolási eljárásokra vonatkozó részletes szabályokról
+
+A Kormány a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (2) bekezdés *a)–c)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Kormány vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, rendkívüli vagyonfelügyelőként, illetve felszámolóként a Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: állami felszámoló) jelöli ki azokra a csődeljárásokra és felszámolási eljárásokra vonatkozóan, amelyekben a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) IV. Fejezetének szabályait kell alkalmazni.
+
+## 2. §
+
+(1) Az állami felszámoló Cstv. 27/C. § (4) bekezdésében felsorolt adatainak, továbbá a Cstv. 27/C. § (4) bekezdés *b), d), f)* és *g)* pontjában meghatározott személyek ott felsorolt adatainak nyilvántartásba vételére vonatkozóan az adatokat és azok változását az állami felszámoló vezetője jelenti be a felszámolók névjegyzékét vezető Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság).
+
+(2) A bejelentéshez csatolni kell az (1) bekezdés szerinti adatokat igazoló azon okiratokat is, amelyeket a Hatóság a vonatkozó jogszabályok alapján más hatósági nyilvántartásból nem ismerhet meg.
+
+(3) A Hatóság eljárásában az ügyintézési határidő 15 nap.
+
+(4) Az adatok nyilvántartásba vételére és törlésére a felszámolók névjegyzékéről szóló 14/2021. (X. 29.) SZTFH rendeletet [a továbbiakban: 14/2021. (X. 29.) SZTFH rendelet] a Cstv.-ben és az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+## 3. §
+
+(1) A Hatóság hatósági ellenőrzés keretében vizsgálja, hogy az állami felszámoló megfelel-e a Cstv.-ben és a 14/2021. (X. 29.) SZTFH rendeletben meghatározott feltételeknek.
+
+(2) A Hatóság a hatósági ellenőrzést a 14/2021. (X. 29.) SZTFH rendelet szabályai alapján folytatja le.
+
+(3) A Cstv. 66. § (6) bekezdése alapján a 14/2021. (X. 29.) SZTFH rendelet 1. § *b)* és *c)* pontjában felsorolt felszámoló szervezet (a továbbiakban: felszámoló szervezet) minden év január 31-ig írásban beszámol a Hatóságnak a szakmai és gazdasági tevékenységéről, a 14/2021. (X. 29.) SZTFH rendelet 7. §-a által meghatározott formában, a 14/2021. (X. 29.) SZTFH rendelet 2. melléklete szerinti szempontrendszer figyelembevételével. A felszámoló szervezet továbbá bemutatja – a belső ellenőrzési szakmai módszertani ajánlások figyelembevételével készített – belső ellenőrzési szabályzatát, valamint az éves belső ellenőrzés eredményét tartalmazó jelentést is.
+
+## 4. §
+
+(1) A Kormány Cstv. IV. Fejezetében foglaltak alkalmazásáról szóló rendelete kiadását célzó előterjesztést az adós gazdálkodó szervezet főtevékenysége szerinti ágazati miniszter (a továbbiakban: ágazati miniszter) a gazdaságfejlesztésért felelős miniszter, a költségvetés makrogazdasági megalapozásáért felelős miniszter, a belgazdaságért felelős miniszter, a területfejlesztés stratégiai tervezéséért felelős miniszter – állami részesedéssel működő gazdálkodó szervezet esetén a tulajdonosi joggyakorló és az állami vagyon felügyeletéért felelős miniszter – véleményét kikérve készíti el, és terjeszti a Kormány elé. Az előterjesztés részét képező kormányrendelet-tervezet előkészítésénél figyelembe kell venni a kormányrendelet kihirdetésére a Cstv. 65. § (2) bekezdésében meghatározott határidőt is.
+
+(2) Az ágazati miniszter – a nyilvános adatbázisok figyelésével és a hivatalosan tudomására jutott információk alapján – haladéktalanul jelzi az (1) bekezdésben felsorolt minisztereknek, ha olyan gazdálkodó szervezet gazdasági-pénzügyi nehézségeiről szerez tudomást, amely esetében a Cstv. 65. § (3) bekezdése vagy a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 74. § (6)–(9) bekezdése szerinti valamely feltétel fennáll, és javaslatot tesz a Cstv. IV. Fejezetének alkalmazására vagy arra, hogy indokoltnak tart-e – kiemelt közérdekből, gazdaságpolitikai vagy foglalkoztatáspolitikai érdekből – más kormányzati intézkedéseket a gazdálkodó szervezet piaci helyzetének javítására, kiemelt stratégiai jelentőségű feladatai ellátásának támogatására.
+
+## 5. §
+
+(1) Ha a 4. § szerinti egyeztetés eredményeképpen az ágazati miniszter és a 4. § (1) bekezdésében felsorolt miniszterek megállapítják, hogy a gazdálkodó szervezet fizetésképtelenségének megelőzése nem lehetséges, vagy ebből a célból nem indokolt kormányzati intézkedéseket hozni, a Cstv. IV. Fejezete szerinti eljárásba vonás tárgyában készítendő kormány-előterjesztésnek (a továbbiakban: kormány-előterjesztés) tartalmaznia kell a Kormány döntéséhez szükséges azon információkat, amelyek a fizetésképtelenséggel fenyegető helyzetben lévő vagy fizetésképtelenné vált gazdálkodó szervezettel szemben indított eljárások esetében indokolják a Cstv. IV. Fejezetében foglaltak alkalmazását.
+
+(2) Ha az előterjesztő hitelt érdemlő információval rendelkezik, a kormány-előterjesztésben tájékoztatást kell adnia arról, hogy a gazdálkodó szervezet ellen kezdeményeztek-e csődeljárást vagy felszámolási eljárást, és ezek elrendelésére sor került-e, és milyen dátummal.
+
+(3) A kormány-előterjesztésben
+
+a) be kell mutatni a gazdálkodó szervezet tulajdonosi szerkezetét és azt, hogy a társaság tagja-e elismert vagy tényleges vállalatcsoportnak; továbbá
+
+b) ki kell térni arra, hogy a gazdálkodó szervezet milyen okból képtelen – akár saját forrásaiból, akár a tulajdonosok által biztosított forrásokból – a veszteséges gazdálkodás okainak, illetve vagyonhiányának megszüntetésére, részesült-e a Cstv. 65. § (3) bekezdés *d)* pontja szerinti támogatásban.
+
+(4) A kormány-előterjesztésben tájékoztatást kell adni arról, hogy
+
+a) a gazdálkodó szervezet lát-e el jogszabályban meghatározott közfeladatot, közszolgáltatást, tevékenysége országos vagy több országra kiterjedő-e, végez-e hatósági engedélyhez kötött vagy koncesszióköteles tevékenységet, és a csődeljárás vagy a felszámolási eljárás elrendelése ennek folytatását hogyan befolyásolja; továbbá
+
+b) ha a gazdálkodó szervezet a lakosság széles körét érintő közszolgáltatást lát el, ezt a szolgáltatást az érintett területen más szolgáltató is ellátja-e.
+
+(5) A kormány-előterjesztésben
+
+a) be kell mutatni a gazdálkodó szervezet főbb gazdasági és pénzügyi adatait;
+
+b) legalább hozzávetőlegesen ismertetni kell az adósságállomány legfontosabb összetevőit (így különösen köztartozás-állomány, tulajdonosok felé fennálló tartozások, banki és szállítói hitelállomány, közműtartozások, foglalkoztatottakkal szemben fennálló tartozások);
+
+c) tájékoztatást kell adni arról, hogy a gazdálkodó szervezet részesült-e nemzetközi vagy hazai pénzügyi támogatásban; továbbá
+
+d) be kell mutatni a lejárt tartozásállománynak a gazdálkodó szervezet saját tőkéjéhez viszonyított arányát, amennyiben már rendelkezésre állnak az ezzel összefüggő, legalább hozzávetőleges adatok.
+
+(6) A kormány-előterjesztésben ismertetni kell
+
+a) legalább hozzávetőlegesen a gazdálkodó szervezet foglalkoztatotti létszámát, továbbá azt is, hogy foglalkoztat-e megváltozott munkaképességű személyeket; továbbá
+
+b) azt, hogy az ország mely megyéiben, mely településein lévő telephelyeken történik foglalkoztatás, továbbá a foglalkoztatás megszűnése hogyan befolyásolja az adott települések vagy megyék munkaerőpiaci helyzetét.
+
+(7) A kormány-előterjesztésben meg kell jelölni, hogy a gazdálkodó szervezet ellen indult csődeljárásra vagy felszámolási eljárásra a Cstv. 65. § (3) bekezdése szerinti mely okból alkalmazandók a Cstv. IV. Fejezete szerinti, a stratégiailag kiemelt jelentőségű csődeljárásra és felszámolási eljárásra vonatkozó rendelkezések.
+
+(8) A kormány-előterjesztésben javaslatot kell tenni arra, hogy a gazdálkodó szervezet ellen indult csődeljárásra vagy felszámolási eljárásra a Cstv. 65–67. §-a, vagy ezen túlmenően a Cstv. 68–70. §-a szerinti eljárásrend is alkalmazandó legyen. Amennyiben az előterjesztő a Cstv. 68–70. §-a szerinti eljárási szabályok alkalmazását is indokoltnak tartja, ismertetnie kell a Cstv. 68. § (2) bekezdése szerinti körülményeket is, továbbá meg kell jelölnie az ott meghatározott közérdeket, és ennek megfelelően kell előkészítenie a kormány-előterjesztés részét képező kormányrendelet tervezetét.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+## 7. §[^1]
+
+---
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

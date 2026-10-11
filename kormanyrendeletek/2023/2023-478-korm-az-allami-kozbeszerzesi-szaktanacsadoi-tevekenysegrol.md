@@ -1,0 +1,416 @@
+---
+title: "478/2023. (X. 31.) Korm. rendelet az állami közbeszerzési szaktanácsadói tevékenységről"
+identifier: "478/2023. (X. 31.) Korm. rendelet"
+njt_id: "2023-478-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/478"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-10-31
+in_force_from: 2023-11-08
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-478-20-22"
+retrieved: 2026-10-12
+---
+
+# 478/2023. (X. 31.) Korm. rendelet az állami közbeszerzési szaktanácsadói tevékenységről
+
+A Kormány a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 22. és 25. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *ellenőrzési tevékenység:* a közbeszerzési eljárásokhoz kapcsolódó, jogszabályban feljogosított szerv részére végzett, közbeszerzési előzetes ellenőrzésben, folyamatba épített ellenőrzésben, utóellenőrzésben, utólagos ellenőrzésben, illetve szerződésmódosítás ellenőrzésben kifejtett tevékenység;
+
+2\. *állami közbeszerzési szaktanácsadó:* a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 3. § 2a. pontja szerinti természetes személy;
+
+3\. *kérelmező:* azon természetes személy, aki e rendelet szerint az állami közbeszerzési szaktanácsadóként történő névjegyzékbe vételét, névjegyzékbe vételének megújítását, vagy abból való törlését kezdeményezi, valamint aki a nyilvántartásba vett adataival összefüggő kérelmet terjeszt elő;
+
+4\. *közbeszerzési szakmai képzés:* az állami közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló kormányrendeletben meghatározott, az állami közbeszerzési szaktanácsadói névjegyzékbe vételhez és a bejegyzés megújításához szükséges kötelező közbeszerzési szakmai képzés;
+
+5\. *közbeszerzési tevékenység:*
+
+a) mindazon tevékenységek összessége, amelyek közbeszerzési eljárások előkészítésével, lefolytatásával, közbeszerzési szerződések teljesítésével és módosításával, valamint a közbeszerzésekre vonatkozó jogszabályokban az eljárás résztvevőit terhelő egyéb kötelezettségek végrehajtásával, illetve őket illető jogosultságok gyakorlásával kapcsolatosan az ajánlatkérő oldalán felmerülnek, továbbá a jogorvoslati eljárással összefüggő képviselet;
+
+b) az ellenőrzési tevékenység és a hirdetmények ellenőrzésében vagy hirdetmény nélküli tárgyalásos eljárással kapcsolatos ellenőrzésben kifejtett tevékenység;
+
+c) a közbeszerzésekért felelős miniszter feladat- és hatásköréhez kapcsolódó, a közbeszerzésekre vonatkozó jogszabályok előkészítésére irányuló vagy közbeszerzések felügyeletével vagy elemzésével összefüggő közbeszerzési-szakmai feladatok ellátása, valamint a Kbt. 5. § (1) bekezdése szerinti ajánlatkérő szervezeti és működési szabályzata alapján vezető beosztásban folytatott közbeszerzési-szakmai irányítási feladatok ellátása;
+
+d) a Közbeszerzési Döntőbizottságnál (a továbbiakban: KDB) végzett közbeszerzési biztosi tevékenység ellátása.
+
+## 2. Az állami közbeszerzési szaktanácsadó névjegyzékbe vétele
+
+### 2. §
+
+(1) A kérelmező az állami közbeszerzési szaktanácsadói névjegyzékbe (a továbbiakban: névjegyzék) vétel iránti kérelmét a Közbeszerzési Hatóság (a továbbiakban: Hatóság) honlapján közzétett, a névjegyzékbe vételhez szükséges adatok és mellékletek felsorolását tartalmazó dokumentum (űrlap) kitöltésével nyújthatja be a Hatóságnak.
+
+(2) A névjegyzékbe vételt kizárólag olyan természetes személy kezdeményezheti, aki
+
+a) rendelkezik felsőfokú végzettséggel,
+
+b) rendelkezik a tevékenység folytatásához szükséges – a 4. és 5. alcímben meghatározott módon igazolt – közbeszerzési gyakorlattal,
+
+c) a névjegyzékbe vétel igazgatási szolgáltatási díját befizette,
+
+d) büntetlen előéletű,
+
+e) büntetőjogi felelőssége tudatában nyilatkozik, hogy – a d) pontban meghatározott kivétellel – nem áll a Kbt.-ben meghatározott, az állami közbeszerzési szaktanácsadói tevékenység végzésének akadályát képező kizáró okok hatálya alatt,
+
+f) igazoltan teljesítette a közbeszerzési szakmai képzésre vonatkozó követelményeket,
+
+g) nem áll ügyvédi vagy kamarai jogtanácsosi tevékenységtől való eltiltás hatálya alatt,
+
+h)[^1] munkaviszonyát, közszolgálati, kormányzati szolgálati vagy közalkalmazotti jogviszonyát, egészségügyi szolgálati jogviszonyát, rendvédelmi igazgatási szolgálati jogviszonyát, honvédelmi alkalmazotti jogviszonyát, adó- és vámhatósági szolgálati jogviszonyát, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszonyát, ügyészségi szolgálati jogviszonyát, bírói szolgálati jogviszonyát, igazságügyi alkalmazotti szolgálati jogviszonyát, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyát, nemzetbiztonsági szolgálati jogviszonyát, nemzetbiztonsági alkalmazotti jogviszonyát, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonyát (a továbbiakban együtt: foglalkoztatási jogviszony) az őt foglalkoztató, a Kbt. 3. § 2a. pontjában hivatkozott ajánlatkérő által kiadott és aláírt igazolással igazolja, és
+
+i) az Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) regisztrációval rendelkezik.
+
+(3) A kérelmező a névjegyzékbe vétel iránti kérelme benyújtásával egyidejűleg igazolja a (2) bekezdés a)–c) és h) pontjában foglalt követelményeknek való megfelelést, benyújtja az e) pont szerinti nyilatkozatot, valamint büntetőjogi felelőssége tudatában nyilatkozik arról, hogy az általa benyújtott dokumentumok a birtokában megtalálható eredeti dokumentumokkal mindenben megegyeznek, és a Hatóság erre vonatkozó felhívása esetén az eredeti dokumentumokat bemutatja.
+
+(4) A Hatóság a kérelem elbírálása érdekében a (2) bekezdés d) és g) pontja szerinti adatot a nyilvántartásból történő adatigénylés, a (2) bekezdés f) pontja szerinti adatot a nyilvántartásból automatikus információátadás útján szerzi be.
+
+(5) Az okiratok teljeskörűsége és megfelelősége esetén a Hatóság a kérelmezőt állami közbeszerzési szaktanácsadóként a Kbt. 187. § (2) bekezdés a) pont ae) alpontja szerinti névjegyzékbe veszi, és lajstromszámmal látja el.
+
+(6) Az (1)–(5) bekezdés alapján névjegyzékbe vett állami közbeszerzési szaktanácsadók tevékenységüket a bejegyzés hatálya alatt gyakorolhatják.
+
+(7) A bejegyzés időbeli hatálya a névjegyzékbe vételtől számított két év.
+
+### 3. §
+
+(1) Ha az állami közbeszerzési szaktanácsadó foglalkoztatási jogviszonya megszűnik, ennek tényét a megszűnéstől számított huszonegy napon belül, vagy ha az állami közbeszerzési szaktanácsadóval szemben a 2. § (2) bekezdés g) pontjában említett eset a névjegyzékbe vételt követően bekövetkezik, ennek tényét haladéktalanul köteles a Hatóság részére bejelenteni.
+
+(2) A 2. § (2) bekezdés h) pontja szerinti jogviszony megszűnését követő százhúsz napon belül az állami közbeszerzési szaktanácsadó köteles a Kbt. 3. § 2a. pontjában hivatkozott ajánlatkérővel létesített új foglalkoztatási jogviszony fennállását igazolni. Ennek elmulasztása esetén a Hatóság a Kbt. 187. § (13) bekezdése alapján az állami közbeszerzési szaktanácsadót törli a névjegyzékből.
+
+(3) Az állami közbeszerzési szaktanácsadó köteles a Kbt. 187. § (14) bekezdése szerinti körülményeiben, valamint a névjegyzékben szereplő adataiban bekövetkezett változást harminc napon belül bejelenteni a Hatóságnak.
+
+## 3. A közbeszerzési szakmai képzés teljesítésének szabályai
+
+### 4. §
+
+(1) Az állami közbeszerzési szaktanácsadói névjegyzékbe vételhez tizenöt továbbképzési tanulmányi pont szükséges.
+
+(2) A megszerzett továbbképzési tanulmányi pontok a képzés napjától vagy a képzés utolsó napjától számított két évig használhatóak fel.
+
+(3) A kérelem benyújtását megelőzően korábban – a névjegyzékbe vétel vagy annak megújítása körében – felhasznált továbbképzési tanulmányi pontok nem vehetők figyelembe.
+
+(4) A névjegyzékbe vétel vagy annak megújítása során az azonos szakmai tartalommal rendelkező képzéseken megszerzett tanulmányi pontok egy adott kérelem elbírálásakor csak egy képzés vonatkozásában vehetők figyelembe.
+
+(5) A névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor egyszeri alkalommal tizenöt továbbképzési tanulmányi pont értékben számítható be a névjegyzékbe vételi vagy a névjegyzékbe történő bejegyzés megújítása iránti kérelem benyújtását megelőző hat éven belül megszerzett közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon szerzett végzettség.
+
+(6) Közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon már megkezdett, de még be nem fejezett tanulmányok esetén a már lezárt félévvel teljesített, a nemzeti felsőoktatásról szóló törvény szerinti kreditek a névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor arányosan beszámítandóak.
+
+(7) A (3) és (5) bekezdésben foglaltaktól eltérően a korábbi névjegyzékbe vétel vagy a bejegyzés megújítása során már felhasznált továbbképzési tanulmányi pontok a névjegyzékbe vételkor ismételten felhasználhatóak, ha az állami közbeszerzési szaktanácsadó a névjegyzékbe vételét az azt követő egy éven belül kéri, hogy a Hatóság a 3. § (2) bekezdése szerinti okból törölte a névjegyzékből.
+
+## 4. Az állami közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlat igazolásának általános szabályai
+
+### 5. §
+
+(1) Az állami közbeszerzési szaktanácsadó közbeszerzési gyakorlatát
+
+a) a munkáltatói jogokat gyakorló személy vagy az általa kijelölt személy által kiadott és aláírt,
+
+b) megbízási jogviszonyban ellátott tevékenység esetén a megbízó által kiállított és aláírt
+
+referencianyilatkozattal (a továbbiakban: igazolás) igazolhatja.
+
+(2) Az (1) bekezdésben meghatározott igazolásnak ki kell térnie arra is, hogy a kérelmező az igazolás kiállítója által indított, lebonyolított vagy ellenőrzött közbeszerzési eljárásban érdemben részt vett, azt érdemben felügyelte, vezető beosztásban érdemben szakmai-irányítási feladatokat látott el, vagy az 1. § 5. pontjában felsorolt más tevékenységeket végezte.
+
+(3) A közbeszerzési gyakorlatra vonatkozó igazolás kiállítója – aláírásával ellátottan – büntetőjogi felelőssége tudatában nyilatkozik, hogy jogosult az igazolás kiadására, és az igazolás tartalma a valóságnak megfelel.
+
+(4) Az igazolást a kérelmező kérésére tizennégy napon belül kell kiállítani.
+
+### 6. §
+
+(1) Ha a kérelmező a tevékenységét olyan személy vagy szervezet részére végezte munkaviszony, munkavégzésre vagy foglalkoztatásra irányuló egyéb jogviszony vagy megbízási jogviszony keretében, amely a közbeszerzési eljárások lebonyolítását vagy az ellenőrzési tevékenységet megbízási vagy egyéb jogviszony keretében jogosult ajánlatkérő vagy ellenőrzésre feljogosított szerv részére végezni, az 5. § (1) bekezdése szerinti igazolást ezen személy vagy szervezet állítja ki.
+
+(2) Az (1) bekezdés szerinti igazolás mellett a kérelmező köteles továbbá az ajánlatkérőtől vagy az ellenőrzésre feljogosított szervtől származó olyan nyilatkozatot is benyújtani, amelyből megállapítható, hogy a kérelmező számára az adott eljárás tekintetében igazolt tevékenységre az adott szervezet az ajánlatkérőtől vagy ellenőrzésre feljogosított szervtől megbízást kapott.
+
+(3) A (2) bekezdés szerinti nyilatkozatot az ajánlatkérő vagy az ellenőrzésre feljogosított szerv a kérelmezővel korábban fennállt vagy jogviszonyban álló szervezet kérése alapján köteles tizennégy napon belül kiállítani. A kérelmezővel korábban fennállt vagy jogviszonyban álló szervezet a kérelmező megkeresését követő hét napon belül köteles az ajánlatkérő vagy az ellenőrzésre feljogosított szervet megkeresni az (1) bekezdés szerinti nyilatkozat kiállítása érdekében.
+
+(4) A kérelmező a (2) bekezdés szerinti, ajánlatkérőtől származó nyilatkozat helyett kizárólag abban az esetben nyújthat be megbízási szerződést vagy egyéb okiratot, ha az ajánlatkérő vagy az ellenőrzésre feljogosított szerv jogutód nélkül megszűnt. A megbízási szerződés vagy egyéb okirat csak abban az esetben fogadható el a (2) bekezdés szerinti nyilatkozat helyett, ha az alapján az igazoláson szereplő eljárás egyértelműen beazonosítható.
+
+### 7. §
+
+Ha az igazoláson szereplő közbeszerzési eljárás az EKR vagy a központosított közbeszerzés keretében kötött keretmegállapodás alapján vagy dinamikus beszerzési rendszer alapján történő beszerzések esetén a központi beszerző szerv honlapján nem szerepel, az adott közbeszerzési eljárás vagy tevékenység a kérelmező gyakorlatának igazolásaként nem fogadható el.
+
+### 8. §
+
+(1) Azon kérelmező tekintetében, aki csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy örökbefogadói díjban részesült – a névjegyzékbe vétel hatályának lejárta miatti névjegyzékből történő törlést követően benyújtott névjegyzékbe vétel iránti kérelem esetét is ideértve –, a névjegyzékbe történt bejegyzés megújítására vonatkozó rendelkezések megfelelően irányadók, azzal, hogy a közbeszerzési gyakorlatát legkésőbb az ellátásra való jogosultság lejártát követő hat hónapon belül benyújtott kérelmében az ellátásra való jogosultság kezdő időpontját megelőző három éven belül folytatott tevékenység bemutatásával is igazolhatja.
+
+(2) Az ellátásra való jogosultság kezdő időpontjáról, valamint – ha az ellátásra való jogosultság időtartama lejárt – az ellátásra való jogosultság lejártának időpontjáról szóló igazolást a névjegyzékbe vétel iránti kérelemhez csatolni kell.
+
+## 5. Az állami közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlat igazolása egyes közbeszerzési tevékenységek esetében
+
+### 9. §
+
+(1) A kérelmező közbeszerzési gyakorlatát a Kbt. 5–7. §-a szerinti ajánlatkérőnél vagy ezek megbízásából a kérelem benyújtását megelőző három éven belül
+
+a) legalább tíz közbeszerzési eljárás teljes körű lebonyolítására vonatkozó közbeszerzési tevékenység és
+
+b) legalább öt közbeszerzési eljárásban folytatott, az 1. § 5. pont a) alpontja szerinti közbeszerzési tevékenység vagy ellenőrzési tevékenység
+
+bemutatásával igazolhatja.
+
+(2) Teljeskörűen lebonyolított eljárásként a közbeszerzési gyakorlat igazolása szempontjából csak az a közbeszerzési eljárás fogadható el, amely megindításának időpontja a kérelem benyújtását megelőző, lezárásának időpontja legfeljebb a kérelem elbírálását megelőző három éven belüli időpontra esik.
+
+(3) E § alkalmazásában a közbeszerzési eljárás teljes körű lebonyolításaként nem vehetők figyelembe a Kbt. 105. § (1) és (2) bekezdése szerinti, a keretmegállapodás alapján történő beszerzés eredményeként kötött közbeszerzési szerződés megkötésére irányuló eljárási cselekmények, így a verseny újranyitásával, közvetlen megrendeléssel, valamint a konzultációval kötött szerződés, illetve a Kbt. 107. § (7) bekezdése szerinti dinamikus beszerzési rendszer alapján történő beszerzés során végzett eljárási cselekmények.
+
+### 10. §
+
+A kérelmezőnek nem szükséges a 9. §-ban meghatározott közbeszerzési eljárások teljes körű lebonyolítását igazolnia, ha a kérelem benyújtását megelőző három éven belül legalább ötven közbeszerzési eljárás tekintetében az 1. § 5. pont a) alpontja szerinti közbeszerzési tevékenységre vagy ellenőrzési tevékenységre vonatkozó referenciával igazoltan rendelkezik.
+
+### 11. §
+
+(1) A közbeszerzési eljárások teljes körű lebonyolítása körében egy adott közbeszerzési eljárás előkészítésével és lefolytatásával kapcsolatban kifejtett, 1. § 5. pont a) alpontja szerinti különböző tevékenységek a közbeszerzési gyakorlattal szemben a 9. §-ban támasztott követelmények teljesítése szempontjából a névjegyzékbe vétel során a kérelmező tekintetében csak egyszer vehetők figyelembe.
+
+(2) Egy közbeszerzési eljárással kapcsolatos jogorvoslati eljárással összefüggő képviseleti tevékenység jogorvoslati szakaszonként külön-külön figyelembe vehető, azzal, hogy ugyanazon közbeszerzési eljárással kapcsolatos jogorvoslati tevékenység egy kérelmező szempontjából csak egyszer vehető figyelembe.
+
+(3) Az (1) és (2) bekezdésben foglaltaktól eltérően, ha az állami közbeszerzési szaktanácsadó a névjegyzékbe vételét az azt követő egy éven belül kéri, hogy a Hatóság a 3. § (2) bekezdése szerinti okból törölte a névjegyzékből, a 9. § (1) bekezdése vagy a 10. § szerinti közbeszerzési tevékenységet a névjegyzékbe vételkor akkor is kérheti figyelembe venni, ha azokra egy korábbi névjegyzékbe vétel vagy a bejegyzés megújítása során már hivatkozott.
+
+### 12. §
+
+(1) A közbeszerzési eljárás teljes körű lebonyolítására vagy közbeszerzési tevékenységre vonatkozó, az 1. § 5. pont a) alpontja szerinti közbeszerzési gyakorlatról kiállított igazolásnak – az 5. § (3) bekezdésében foglalt nyilatkozattal – tartalmaznia kell az alábbi információkat:
+
+a) a közbeszerzési eljárás azonosító száma,
+
+b) az igazolt eljárással összefüggésben a kérelmező által ellátott tevékenység rövid leírása, amely tartalmazza, hogy az eljárás előkészítésében milyen cselekményeket végzett el, vagy mely eljárási szakaszban, milyen eljárási cselekményeket, illetve azok előkészítését látta el,
+
+c) azt, hogy sor került-e az adott közbeszerzési eljárással kapcsolatban olyan jogorvoslati eljárásra, amelyben véglegessé vált döntőbizottsági vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozatban jogsértést állapítottak meg,
+
+d) az ajánlatkérő jogutód nélküli megszűnése esetén az ajánlatkérőnek a Hatóság Kbt. alapján fennálló feladatkörében vezetett azonosító számát vagy olyan, az ajánlatkérő egyértelmű azonosítására alkalmas azonosítót, amely közhiteles nyilvántartás alapján ingyenesen és nyilvánosan hozzáférhető.
+
+(2) Központosított közbeszerzés keretében kötött keretmegállapodás alapján történő beszerzések igazolása esetén az (1) bekezdésben foglalt adatok mellett, a központi beszerző szerv honlapján szereplő alábbi adatokat is fel kell tüntetni, ha azok nem szerepelnek az EKR-ben:
+
+a) a keretmegállapodás azonosító száma,
+
+b) a keretmegállapodás alapján történő beszerzés egyedi azonosító száma,
+
+c) a keretmegállapodás alapján történő beszerzés megindításának dátuma,
+
+d) a keretmegállapodás alapján történő beszerzés tárgyának megnevezése és
+
+e) az eljárás eredményéről szóló tájékoztató központi beszerző szerv részére történt megküldésének napja azokban az eljárásokban, ahol ez értelmezhető.
+
+(3) Központosított közbeszerzés keretében létrehozott dinamikus beszerzési rendszer alapján történő beszerzések igazolása esetén az (1) bekezdésben foglalt adatok mellett, a központi beszerző szerv honlapján szereplő alábbi adatokat is fel kell tüntetni, ha azok nem szerepelnek az EKR-ben:
+
+a) a dinamikus beszerzési rendszer azonosító száma,
+
+b) a dinamikus beszerzési rendszer alapján történő beszerzés egyedi azonosító száma,
+
+c) a dinamikus beszerzési rendszer alapján történő beszerzés megindításának dátuma,
+
+d) a dinamikus beszerzési rendszer alapján történő beszerzés tárgyának megnevezése és
+
+e) az eljárás eredményéről szóló tájékoztató központi beszerző szerv részére történt megküldésének napja azokban az eljárásokban, ahol ez értelmezhető.
+
+(4) A (2) és (3) bekezdésben szereplő adatokat igazoló dokumentumot a központi beszerző szerv a kérelmező kérelme alapján hét napon belül köteles kiállítani.
+
+(5) A központi beszerző szerv által kiállított, a (2) és (3) bekezdésben meghatározott adatokat igazoló dokumentumot a kérelmező az 5. § szerinti igazolás mellett nyújtja be a Hatóság részére.
+
+(6) Nem vehető figyelembe közbeszerzési gyakorlatként az olyan közbeszerzési eljárással kapcsolatban kifejtett tevékenység, amellyel összefüggésben jogorvoslati eljárást kezdeményeztek, és véglegessé vált döntőbizottsági vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozatban jogsértés került megállapításra.
+
+(7) A (6) bekezdés szerinti rendelkezést nem kell alkalmazni, ha a kérelmező büntetőjogi felelőssége tudatában nyilatkozik, hogy nem az ő tevékenysége vezetett a jogsértéshez.
+
+### 13. §
+
+Az 1. § 5. pont b) alpontja szerinti közbeszerzési gyakorlatra vonatkozó igazolásnak – az 5. § (3) bekezdésében foglalt nyilatkozattal – tartalmaznia kell az alábbi információkat:
+
+a) a kérelmező mely közbeszerzési eljárással összefüggésben fejtette ki a hivatkozott tevékenységet, a következők szerint:
+
+aa) az ajánlatkérő neve,
+
+ab) az eljárás tárgyának megnevezése,
+
+ac) az eljárás fajtája,
+
+ad) az ellenőrzési ügy iktatószáma vagy ügyszáma,
+
+ae) az ellenőrzés befejezésének időpontja;
+
+b) az igazolt eljárással összefüggésben a kérelmező által ellátott tevékenységnek és az ellenőrzés típusának pontos megjelölését.
+
+### 14. §
+
+(1) Az ellenőrzési tevékenység körében egy adott közbeszerzési eljárás több szakaszával kapcsolatban megvalósult, vagy több típusú ellenőrzés (közbeszerzési előzetes ellenőrzés, folyamatba épített ellenőrzés, utóellenőrzés, utólagos ellenőrzés, szerződésmódosítás ellenőrzés) a közbeszerzési gyakorlattal szemben támasztott követelmények teljesítése szempontjából külön-külön is figyelembe vehető.
+
+(2) Ha a kérelmező a közbeszerzési tevékenységét hirdetmények ellenőrzésében vagy hirdetmény nélküli tárgyalásos eljárással kapcsolatos ellenőrzésben szerzett tapasztalattal kívánja igazolni, az igazolásnak azt kell tartalmaznia – az 5. § (3) bekezdésében foglalt nyilatkozattal –, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet a kérelem benyújtását megelőző négy éven belül legalább három évig folyamatosan végezte, illetve végzi.
+
+### 15. §
+
+(1) A kérelmező közbeszerzési tevékenységét
+
+a) a közbeszerzésekért felelős miniszter feladat- és hatásköréhez kapcsolódó
+
+aa) a közbeszerzésekre vonatkozó jogszabályok előkészítésére irányuló vagy
+
+ab) közbeszerzések felügyeletével vagy elemzésével összefüggő közbeszerzési-szakmai vagy
+
+b) a Kbt. 5. § (1) bekezdése szerinti ajánlatkérő szervezeti és működési szabályzata alapján vezető beosztásban folytatott közbeszerzési-szakmai irányítási vagy
+
+c) a KDB-nál végzett közbeszerzési biztosi
+
+feladatok ellátásával is igazolhatja.
+
+(2) Az igazolásnak tartalmaznia kell – az 5. § (3) bekezdésében foglalt nyilatkozattal –, hogy a kérelmező a hivatkozott közbeszerzési tevékenységet a kérelem benyújtását megelőző három éven belül legalább két évig folyamatosan végezte.
+
+## 6. Az állami közbeszerzési szaktanácsadói tevékenység megbízás alapján történő gyakorlásához szükséges felelősségbiztosítás
+
+### 16. §
+
+(1) A Kbt. 27. § (3b) bekezdése szerinti, megbízás alapján történő tevékenység gyakorlásának feltétele, hogy az állami közbeszerzési szaktanácsadó rendelkezzen olyan felelősségbiztosítási szerződéssel, amely az alábbi követelményeknek megfelel:
+
+a) legalább évi ötvenmillió forint és káreseményenként legalább huszonötmillió forint összeghatárig fedezetet biztosít az állami közbeszerzési szaktanácsadói tevékenysége körében okozott károkra,
+
+b) a felelősségbiztosításon az állami közbeszerzési szaktanácsadónak név szerint, biztosítottként kell szerepelnie,
+
+c) a felelősségbiztosításnak ki kell terjednie a KBD és a bíróság által kiszabott olyan bírságokra, valamint a támogatásból megvalósuló közbeszerzések kapcsán a KBD véglegessé vált, vagy bíróság jogerős határozatában megállapított jogsértés miatt az ajánlatkérőt a támogatás vagy annak egy része elvesztésével ért kár megtérítésére, amelyért a szaktanácsadó felel.
+
+(2) A felelősségbiztosítás fennállását a megbízó részére legkésőbb a megbízási szerződés hatálybalépésekor kell igazolni.
+
+## 7. Az állami közbeszerzési szaktanácsadók bejegyzésének megújítása
+
+### 17. §
+
+(1) A bejegyzés megújítására a névjegyzékbe vételre vonatkozó szabályok az irányadóak, azzal, hogy
+
+a) a kérelmező közbeszerzési gyakorlatát – ha azt a 9. és 10. § szerint igazolja, akkor az ott meghatározott követelményektől eltérően – a kérelem benyújtását megelőző három éven belül
+
+aa) legalább tíz közbeszerzési eljárás teljes körű lebonyolítására vagy
+
+ab) legalább húsz közbeszerzési eljárás tekintetében az 1. § 5. pont a) alpontja szerinti közbeszerzési tevékenységre vagy ellenőrzési tevékenységre
+
+vonatkozó referenciával igazolhatja, és
+
+b) a kérelem benyújtásakor nem kell igazolnia, hogy rendelkezik felsőfokú – főiskolai vagy egyetemi – végzettséggel.
+
+(2) A közbeszerzési gyakorlat a megújítás iránti kérelem benyújtását megelőzően korábban már a gyakorlat igazolása körében felhasznált, az eljárás teljes körű lebonyolítására vagy az 1. § 5. pont a) alpontjában foglalt közbeszerzési tevékenységre vagy ellenőrzési tevékenységre vonatkozó referenciával nem igazolható.
+
+(3) A megújítás iránti kérelem legkorábban a névjegyzékbe vétel hatályának lejártát megelőző kilencven napon belül nyújtható be.
+
+(4) A Hatóság a névjegyzékbe vétel hatályát a névjegyzékbe vétel hatályának lejártát követő naptól újítja meg.
+
+## 8. Az állami közbeszerzési szaktanácsadó tevékenysége
+
+### 18. §
+
+(1) Az állami közbeszerzési szaktanácsadó a Kbt. 3. § 2a. pontja szerinti tevékenysége során a közbeszerzési eljárások szakszerű előkészítését és lefolytatását segíti elő.
+
+(2) Az állami közbeszerzési szaktanácsadó az (1) bekezdés szerinti tevékenység folytatása során
+
+a) a közbeszerzési szakértelmet biztosítja,
+
+b) személyesen ellátja az állami közbeszerzési szaktanácsadás körébe eső feladatokat,
+
+c) szorosan együttműködik a beszerzés tárgya szerinti, pénzügyi, jogi vagy egyéb szakértelmet biztosító személyekkel, szervezetekkel, azok közbeszerzési tevékenységét segíti.
+
+(3) Az állami közbeszerzési szaktanácsadó a közbeszerzési eljárással kapcsolatos valamennyi feladata vonatkozásában kizárólag a közbeszerzési szakértelem biztosításáért felel.
+
+(4) Az állami közbeszerzési szaktanácsadó nem felel a közbeszerzési eljárás során a nem közbeszerzési szakértelem körébe eső (így különösen az eljárás tárgya szerinti, műszaki-szakmai, piacismereti, pénzügyi és jogi szakértelem körébe eső) közbeszerzési tevékenységek teljesítésének szakszerűségéért és megfelelőségéért.
+
+(5) Az állami közbeszerzési szaktanácsadó az általa nyújtott szaktanácsadói tevékenység keretében ismerteti azon Kbt. és végrehajtási rendeletei által szabályozott követelményeket, amelyeket a közbeszerzési szakértelemmel nem rendelkező személyeknek és szervezeteknek a közbeszerzési tevékenységük során be kell tartaniuk.
+
+(6) Az állami közbeszerzési szaktanácsadó tevékenysége körében az EKR-ben rögzítve hagyja jóvá a közbeszerzési eljárás során keletkezett, a (8) bekezdésben meghatározott dokumentumokat. A (8) bekezdés szerinti dokumentumokat az EKR-en kívül végzett eljárási cselekmények esetén az állami közbeszerzési szaktanácsadó aláírásával és lajstromszámát feltüntető pecséttel vagy elektronikus aláírásával és lajstromszámával látja el.
+
+(7) Az állami közbeszerzési szaktanácsadó ellátja az eljárás alapjául szolgáló iratok személyes ellenőrzését, és a jogviszonyára irányadó szabályok szerint felelősséget vállal az eljárás – kizárólag közbeszerzési jogi szempontú – szakszerűségéért és a közbeszerzésekre vonatkozó jogszabályoknak való megfelelőségéért, továbbá papír alapon lefolytatott eljárás esetén aláírásával igazolja a közbeszerzési eljárásban történő személyes részvételét.
+
+(8) Az állami közbeszerzési szaktanácsadó elektronikusan hagyja jóvá – papír alapon lefolytatott eljárás esetén aláírásával köteles ellátni –
+
+a) a közbeszerzési eljárást megindító felhívást és – a műszaki leírás, műszaki tervdokumentáció és az árazatlan költségvetés kivételével – a közbeszerzési dokumentumokat,
+
+b) elektronikusan benyújtott és felbontott ajánlatok esetében – az EKR által generált bontási jegyzőkönyv kivételével – a bontási jegyzőkönyvet, a bírálóbizottsági munkáról készült jegyzőkönyvet és
+
+c) a részvételi jelentkezések, illetve az ajánlatok elbírálásáról készített összegezést, összegezéseket.
+
+(9) Az állami közbeszerzési szaktanácsadó a Kbt. 27. § (3) bekezdése szerinti esetben az eljárást megindító felhívásban nevét és lajstromszámát, a közbeszerzési dokumentumokban pedig nevét, levelezési címét, e-mail-címét, valamint lajstromszámát feltünteti.
+
+(10) A Kbt. 27. § (3b) bekezdése szerint az állami közbeszerzési szaktanácsadó megbízási jogviszonyt kizárólag saját nevében – magánszemélyként vagy egyéni vállalkozóként – létesíthet. A megbízási szerződés alapján eljáró szaktanácsadót más állami közbeszerzési szaktanácsadó akkor helyettesítheti, ha erre a megbízási szerződés lehetőséget ad.
+
+(11) Az állami közbeszerzési szaktanácsadó a tevékenysége körében okozott kár megtérítéséért a foglalkoztatási jogviszonyára irányadó szabályok szerint felel. A tevékenységét megbízási jogviszony alapján ellátó állami közbeszerzési szaktanácsadó a tevékenysége körében okozott kár megtérítéséért a Polgári Törvénykönyvről szóló 2013. évi V. törvény szabályai szerint felel.
+
+## 9. Az állami közbeszerzési szaktanácsadók nyilvántartása
+
+### 19. §
+
+Az állami közbeszerzési szaktanácsadók tekintetében a Hatóság látja el a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a szolgáltatás felügyeletét ellátó hatóság feladatait.
+
+### 20. §[^2]
+
+(1) A névjegyzék tartalmazza az állami közbeszerzési szaktanácsadó
+
+a) lajstromszámát,
+
+b) nevét,
+
+c) a 2. § (1) bekezdése szerinti, a Hatóság honlapján közzétett dokumentumban (űrlap) feltüntetett elérhetőségeit,
+
+d) névjegyzékbe vételének időpontját,
+
+e) a névjegyzékbe vétel hatálya lejártának időpontját és
+
+f) a munkáltatójára vonatkozó adatokat (név, székhely).
+
+(2) A névjegyzék az (1) bekezdés a) és d)–e) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+## 10. A Közbeszerzési Tanácsadók Szakmai Testülete
+
+### 21. §
+
+(1) A Közbeszerzési Tanácsadók Szakmai Testületét (a továbbiakban: Testület) a közbeszerzésekért felelős miniszter hozza létre, és gondoskodik a működés feltételeinek biztosításáról.
+
+(2) A Testület feladata a közbeszerzésekre vonatkozó szabályozás gyakorlatának áttekintése, valamint a gyakorlati tapasztalatok alapján a közbeszerzési szabályozást érintő javaslatok megtétele a közbeszerzésekért felelős miniszter számára.
+
+### 22. §
+
+(1) A Testület kilenc főből áll, amelynek tagja
+
+a) a közbeszerzésekért felelős miniszter vagy az általa kijelölt személy,
+
+b) a közbeszerzésekért felelős miniszter által kijelölt további négy – a Kbt. 3. § 14. pontja szerinti tevékenységet végző, a közbeszerzések terén jelentős szakmai tapasztalattal rendelkező – személy (a továbbiakban: közbeszerzési tanácsadó),
+
+c) a Hatóság elnöke vagy az általa kijelölt személy,
+
+d) a Hatóság elnöke által kijelölt további egy – a b) pontnak megfelelő – közbeszerzési tanácsadó, valamint
+
+e) a közbeszerzési tanácsadók közössége vagy önszerveződés alapján létrejött szervezetei által delegált további két közbeszerzési tanácsadó.
+
+(2) A Testület tagjai közül megválasztja a Közbeszerzési Hatóság keretében működő Tanács Kbt. 182. § (2) bekezdés j) pontja szerinti tagját.
+
+## 11. Záró rendelkezések
+
+### 23. §
+
+(1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+(2) E rendelet 2. címét nem kell alkalmazni a felelős akkreditált közbeszerzési szaktanácsadó névjegyzékben szereplő felelős akkreditált közbeszerzési tanácsadónak a Kbt. 197/D. § (2) bekezdése szerinti, az állami közbeszerzési szaktanácsadói névjegyzékbe vétele során. A Kbt. 197/D. § (2) bekezdése szerint nyilvántartásba vett állami közbeszerzési szaktanácsadó esetében a bejegyzés hatálya a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 257/2018. (XII. 18.) Korm. rendelet [a továbbiakban: 257/2018. (XII. 18.) Korm. rendelet] alapján megszerzett jogosultság hatályának időtartamával megegyező ideig áll fenn.
+
+(3) A 257/2018. (XII. 18.) Korm. rendelet alapján megszerzett és fel nem használt továbbképzési tanulmányi pontok az állami közbeszerzési szaktanácsadói névjegyzékbe vételnél vagy a bejegyzés megújításakor felhasználhatók.
+
+(4) Ha az állami közbeszerzési szaktanácsadói névjegyzékbe vétel iránti kérelmet olyan személy nyújtja be, aki a Kbt. 197/E. § (3) bekezdése szerint a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékben szerepel, a névjegyzékbe vételi eljárás során ismételten felhasználhatja a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe vétel vagy annak megújítása során már figyelembe vett, a névjegyzékbe vételi kérelem benyújtását megelőző két évben szerzett továbbképzési tanulmányi pontokat, illetve ezen időpontot megelőző három évben szerzett szakmai tapasztalatot.
+
+(5) A felelős akkreditált közbeszerzési szaktanácsadó a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe vétel vagy annak megújítása során már figyelembe vett, a névjegyzékbe vételi kérelem benyújtását megelőző két évben szerzett továbbképzési tanulmányi pontok ismételt felhasználására vonatkozó igényét a névjegyzékbe vétel iránti kérelmében jelöli meg. A Kbt. 195. § (9) bekezdése szerint a szakmai képzéseken való részvétel alapján megszerzett tanulmányi pontokhoz a közbeszerzésekért felelős miniszter a Hatóság részére hozzáférést biztosít.
+
+(6) Az e rendelet hatálybalépésekor a 257/2018. (XII. 18.) Korm. rendelet 10. §-a alapján csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban vagy örökbefogadói díjban részesülő felelős akkreditált közbeszerzési szaktanácsadók az ellátásra való jogosultság lejártát követő harminc napon belül nyilatkozhatnak arról, hogy vállalják-e tevékenységüknek állami közbeszerzési szaktanácsadóként való végzését. Ebben az esetben a közbeszerzési gyakorlat legkésőbb az ellátásra való jogosultság lejártát követő hat hónapon belül az ellátásra való jogosultság kezdő időpontját megelőző három éven belül folytatott tevékenység bemutatásával is igazolható.
+
+(7) Ha a felelős akkreditált közbeszerzési szaktanácsadó az 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti ajánlatkérő szervezettel létesített foglalkoztatási jogviszonya fennállásának igazolása mellett a Kbt. 197/D. § (3) bekezdése szerint nyilatkozik arról, hogy vállalja a tevékenységének állami közbeszerzési szaktanácsadóként való végzését, vagy a Hatóság a Kbt. 197/E. § (1) bekezdése szerinti időpontot megelőzően az e rendelet szerint benyújtott kérelem alapján a felelős akkreditált közbeszerzési szaktanácsadót felveszi az állami közbeszerzési szaktanácsadói névjegyzékbe, az érintett személyt a Hatóság törli a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékből.
+
+(8) A Kbt. 197/E. § (2) bekezdése alapján felelős akkreditált közbeszerzési szaktanácsadót a Kbt. 5–7. §-a szerinti ajánlatkérő vehet igénybe. A Kbt. 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint a Kbt. 5. § (1) bekezdés c) pont ca) és cb) alpontja szerinti ajánlatkérő a Kbt. 197/E. § (2) bekezdése alapján állami közbeszerzési szaktanácsadó helyett a Kbt. 27. § (3) bekezdése szerinti esetekben felelős akkreditált közbeszerzési szaktanácsadót is igénybe vehet, ha a beszerzés tárgya árubeszerzés vagy szolgáltatás megrendelése.
+
+(9) A 257/2018. (XII. 18.) Korm. rendelet 1. § 6. pontja szerinti nem független felelős akkreditált közbeszerzési szaktanácsadók e rendelet szabályai szerint végezhetik tevékenységüket munkáltatójuk számára, a Kbt. 197/D. § (3) bekezdése szerinti nyilatkozat megtételét megelőzően is, ha a nyilatkozat megtételére irányadó határidő még nem járt le.
+
+(10) A Testület a 257/2018. (XII. 18.) Korm. rendelet 24. és 25. §-a szerint létrejött tagsággal jön létre és működik addig, amíg jelen rendelet szerint nem kerül sor új tagok jelölésére.
+
+### 24. §
+
+(1) Azokra a felelős akkreditált közbeszerzési szaktanácsadókra, akik a Kbt. 197/E. § (3) bekezdése alapján végzik tevékenységüket, 2026. június 30-ig a 257/2018. (XII. 18.) Korm. rendelet alkalmazandó az e §-ban foglalt eltérésekkel.
+
+(2) Az e rendelet hatálybalépését megelőző, a felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe történt bejegyzés hatálya 2026. június 30-ig nem jár le.
+
+(3) A felelős akkreditált közbeszerzési szaktanácsadói névjegyzékbe vétel iránt új kérelem nem nyújtható be, és a 257/2018. (XII. 18.) Korm. rendelet 2. §-a, 20. §-a, valamint 24. és 25. §-a nem alkalmazható.
+
+---
+
+[^1]: A 2. § (2) bekezdés h) pontja a 24/2025. (II. 27.) Korm. rendelet 100. §-a szerint módosított szöveg.
+[^2]: A 20. § a 342/2025. (X. 31.) Korm. rendelet 58. §-ával megállapított szöveg.

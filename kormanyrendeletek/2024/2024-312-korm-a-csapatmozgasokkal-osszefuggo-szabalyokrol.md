@@ -1,0 +1,237 @@
+---
+title: "312/2024. (XI. 4.) Korm. rendelet a csapatmozgásokkal összefüggő szabályokról"
+identifier: "312/2024. (XI. 4.) Korm. rendelet"
+njt_id: "2024-312-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/312"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-11-04
+in_force_from: 2024-11-05
+last_amended: 2024-11-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-312-20-22"
+retrieved: 2026-10-12
+---
+
+# 312/2024. (XI. 4.) Korm. rendelet a csapatmozgásokkal összefüggő szabályokról
+
+A Kormány
+
+a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (1) bekezdés 13. pontjában kapott felhatalmazás alapján,
+
+a 6. § tekintetében a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (1) bekezdés 19. pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A honvédelemért felelős miniszter (a továbbiakban: miniszter) az 1. és 2. melléklet szerinti adatok alapján döntésre a Kormány elé terjeszti a Kormány vagy az Országgyűlés által engedélyezendő csapatmozgás engedélyezésére vonatkozó előterjesztést.
+
+(2) Az (1) bekezdés szerinti előterjesztésben a csapatmozgás engedélyezésére vonatkozó döntést az 1. melléklet 1–4., 6. és 7. pontja, illetve a 2. melléklet 1–4., 6. és 7. pontja szerinti adattartalommal kell előkészíteni.
+
+(3) A Kormány a csapatmozgás engedélyezésére vonatkozó döntését a (2) bekezdés szerinti adattartalommal adja ki.
+
+## 2. §
+
+(1) A miniszter a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 6/A. § (4) bekezdése és 6/B. § (3) bekezdése szerinti engedélyt az 1. melléklet 1–4., 6. és 7. pontja, illetve a 2. melléklet 1–4., 6. és 7. pontja szerinti adattartalommal adja ki.
+
+(2) A következő évre előre ismert gyakorlatok és kiképzések esetében a miniszter az (1) bekezdés szerinti engedélyt a tárgyévet megelőző év október 31-ig adja ki.
+
+(3) A (2) bekezdés szerinti engedélyben szereplő, a létszámkeretet meghaladó létszám változása vagy a csapatmozgás céljában bekövetkező változás kivételével új engedély kiadása nem szükséges.
+
+## 3. §
+
+(1) Közjogi engedélyezést nem igénylő csapatmozgásnak minősül a Magyar Honvédség (a továbbiakban: MH) alegységeinek és személyi állományának a következő külföldi tevékenysége:
+
+1\. a katonai szakmai, partneri látogatásokon, tárgyalásokon, konferenciákon és azok előkészítésében történő részvétel,
+
+2\. nyílt vagy zártkörű kereskedelmi, technikai bemutatókon és azok előkészítésében történő részvétel,
+
+3\. a gyógykezelésen, üdültetésen és azok előkészítésében való részvétel,
+
+4\. hagyományőrző, kegyeleti, kulturális, társadalmi és sportrendezvényeken, valamint azok előkészítésében történő részvétel, továbbá ilyen események – fegyvertelen vagy legfeljebb önvédelmi fegyverrel ellátott állomány általi – biztosítása,
+
+5\. nemzetközi szervezet döntésén alapuló vagy nemzetközi szervezet által szervezett vagy vezetett műveletekben vagy a fogadó ország meghívására fegyvertelen vagy legfeljebb önvédelmi fegyverrel ellátott katonai megfigyelői, katonai szaktanácsadói, törzstiszti, oktatói, kiképzői vagy összekötői feladatok ellátása,
+
+6\. fegyverzetellenőrző programon való részvétel,
+
+7\. fegyvertelen vagy legfeljebb önvédelmi fegyverrel ellátott állomány által kizárólag egészségügyi vagy más humanitárius segítség nyújtása olyan műveleti területen vagy annak közelében, ahol Magyarország nem minősül hadviselő félnek,
+
+8\. a nem műveleti területen működő műveleti parancsnokságokon vagy ezen parancsnokság alárendeltségébe tartozó szervezetben történő szolgálatteljesítés, ha az nem jár a tényleges műveleti területre küldéssel,
+
+9\. a más állam katonai vagy más állami szervénél, valamint nemzetközi szervezetnél történő egyéni szolgálatteljesítés, ha az nem jár a tényleges műveleti területre küldéssel,
+
+10\. gyakorlatokon és kiképzéseken vendég, megfigyelői vagy törzsmegerősítő minőségben való részvétel,
+
+11\. tanulmányok (ideértve a képzés gyakorlati részét is) vagy oktatói tevékenység folytatása,
+
+12\. részvétel külföldön megrendezésre kerülő tantermi kiképzésen vagy törzsgyakorlaton,
+
+13\. kibergyakorlatokon való részvétel,
+
+14\. az MH járműveinek állami és kormányzati delegációkkal kapcsolatos szállítási feladatai,
+
+15\. az MH légijárműveinek vagy katonai célra használt magyar állami légijárműveknek navigációs gyakorló repülése és technikai leszállása az Észak-atlanti Szerződés Szervezetének (a továbbiakban: NATO) vagy az Európai Unió (a továbbiakban: EU) tagállamában,
+
+16\. az MH erre felkészített alakulatainak más államban bekövetkezett természeti vagy ipari katasztrófa vagy más tömegszerencsétlenség esetén a mentésben és a következmények elhárításában való haladéktalan közreműködése,
+
+17\. a behozatali vagy kiviteli engedéllyel rendelkező hadiipari, illetve beruházási célú katonai szállítás, továbbá a szállítmány kísérete vagy őrzése.
+
+(2) Közjogi engedélyezést nem igénylő csapatmozgásnak minősül a külföldi fegyveres erőknek vagy azok személyi állományának a következő magyarországi vagy Magyarország területét érintő tevékenysége, vagy ha a következő célból haladnak át Magyarországon:
+
+1\. a katonai szakmai, partneri látogatásokon, tárgyalásokon, konferenciákon és azok előkészítésében történő részvétel,
+
+2\. nyílt vagy zártkörű kereskedelmi, technikai bemutatókon és azok előkészítésében történő részvétel,
+
+3\. a gyógykezelésen, üdültetésen és azok előkészítésében való részvétel,
+
+4\. hagyományőrző, kegyeleti, kulturális, társadalmi és sportrendezvényeken, valamint azok előkészítésében történő részvétel, továbbá ilyen események – fegyvertelen vagy legfeljebb önvédelmi fegyverrel ellátott állomány általi – biztosítása,
+
+5\. nemzetközi szervezet döntésén alapuló vagy nemzetközi szervezet által szervezett vagy vezetett műveletekben vagy a fogadó ország meghívására fegyvertelen vagy legfeljebb önvédelmi fegyverrel ellátott katonai megfigyelői, katonai szaktanácsadói, törzstiszti, oktatói, kiképzői vagy összekötői feladatok ellátása,
+
+6\. fegyverzetellenőrző programon való részvétel,
+
+7\. nemzetközi szervezetnél, nemzetközi katonai szervezetnél, magyar állami szervezetnél, MH-nál történő szolgálatteljesítés,
+
+8\. gyakorlatokon és kiképzéseken vendég, megfigyelői vagy törzsmegerősítő minőségben való részvétel,
+
+9\. tanulmányok (ideértve a képzés gyakorlati részét is) vagy oktatói tevékenység folytatása,
+
+10\. tantermi kiképzésen vagy törzsgyakorlaton való részvétel,
+
+11\. kibergyakorlatokon való részvétel,
+
+12\. a NATO- és EU-tagállamok katonai vagy katonai célra használt légijárműveinek – műveletekben való részvétel eseteit kivéve – gyakorlatnak nem minősülő navigációs gyakorló repülése, átrepülése Magyarország légterében és technikai leszállása Magyarországon,
+
+13\. Magyarországon bekövetkezett természeti vagy ipari katasztrófa vagy más tömegszerencsétlenség esetén, a mentésben és a következmények elhárításában való haladéktalan közreműködése, vagy más országban végzendő ilyen célú tevékenység miatt Magyarországon történő áthaladása,
+
+14\. a behozatali vagy tranzitengedéllyel rendelkező hadiipari, illetve beruházási célú katonai szállítás, továbbá a szállítmány kísérete vagy őrzése.
+
+## 4. §
+
+(1) A határátlépések tényleges végrehajtásának és a csapatmozgásban részt vevő járművek mozgásának engedélyezéséhez (a továbbiakban: technikai engedély) és azok határforgalmi ügyintézéséhez szükséges adatokat a 3. és 4. melléklet tartalmazza.
+
+(2) A technikai engedély megadásának kérelmezéséhez a 3. és 4. melléklet szerinti adatokat a csapatmozgások technikai engedélyezésére a miniszter által kijelölt honvédelmi szervezet (a továbbiakban: kijelölt honvédelmi szervezet) részére kell megküldeni.
+
+(3) Az MH külföldi csapatmozgása esetén, ha a határátlépéssel érintett külföldi állam a 4. melléklet szerinti adatokon felül más adatot is igényel, a kijelölt honvédelmi szervezet részére ezen adatokat is meg kell küldeni.
+
+## 5. §
+
+(1) A külföldi fegyveres erők Magyarország területét érintő csapatmozgásainak technikai engedélyeire vonatkozó kérelmek esetében a kijelölt honvédelmi szervezet technikai engedélyt – közjogi engedélyezést igénylő csapatmozgás esetében – csak a hatályos közjogi engedélyben szereplő csapatmozgásokra adhat ki.
+
+(2) Közjogi engedélyezést igénylő esetben közjogi engedély hiányában a kijelölt honvédelmi szervezet tájékoztatja a kérelmezőt a technikai engedélyre vonatkozó kérelem elutasításáról, és szükség esetén javaslatot tesz a miniszter részére a közjogi engedély megadására irányuló eljárás kezdeményezése érdekében.
+
+(3) A kijelölt honvédelmi szervezet megtagadhatja a 3. melléklet szerinti adattartalommal igényelt technikai engedély kiadását, amennyiben a magyar fél által előírt határidőt a kérelmező külföldi fél elmulasztja, továbbá ha a kérelem hiányos adattartalmú, és a hiánypótlásra a kijelölt honvédelmi szervezet által meghatározott határidőben nem kerül sor.
+
+## 6. §
+
+(1) A gyakorlatok helyszínei közötti mozgás esetét kivéve, a külföldi fegyveres erőknek a Magyarországon végrehajtásra kerülő gyakorlatait, kiképzéseit és más hasonló, katonai tevékenységeit – a (2) bekezdés szerinti kivétellel – a magyar állam tulajdonában és a miniszter által vezetett minisztérium (a továbbiakban: HM) vagyonkezelésében lévő katonai gyakorló- és lőtereken, repülőtereken, valamint más katonai létesítményekben, továbbá a magyar fél által kijelölt légtérben lehet végrehajtani.
+
+(2) A Kormány egyedi engedélye alapján egyes speciális gyakorlatok olyan ingatlanokon, illetve létesítményeken is végrehajthatók, amelyek nem tartoznak a HM vagyonkezelésébe. Ennek érdekében a HM a vagyonkezelővel vagy a tulajdonossal előzetesen megállapodást köt.
+
+(3) Lőgyakorlat kizárólag a HM vagyonkezelésében lévő létesítményben, illetve ingatlanon hajtható végre.
+
+## 7. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. §
+
+A 2025. év tekintetében a 2. § (2) bekezdése szerinti határidő 2024. december 15-e.
+
+## 1. melléklet a 312/2024. (XI. 4.) Korm. rendelethez
+
+**Külföldi haderők Magyarországot érintő, közjogi engedélyezést igénylő csapatmozgása engedélyezésének megkéréséhez feltüntetendő adatok**
+
+1\. A csapatmozgást kérelmező külföldi haderő és országának megnevezése.
+
+2\. A csapatmozgás tervezett helyszíne az ország megjelölésével.
+
+3\. A csapatmozgás célja és jellege, több cél esetében valamennyi cél feltüntetésével.
+
+4\. A csapatmozgásban érintett, a fegyveres erő állományába tartozó személyek tervezetten egyidejűleg jelen lévő, illetve áthaladó összlétszáma.
+
+5\. A csapatmozgás – szárazföldi, vízi, légi – közlekedési módozata.
+
+6\. A többszöri határátlépés lehetőségének ténye, ha a csapatmozgás jellege indokolja.
+
+7\. A csapatmozgás tervezett időpontja.
+
+## 2. melléklet a 312/2024. (XI. 4.) Korm. rendelethez
+
+**Az MH közjogi engedélyezést igénylő csapatmozgása engedélyezésének megkéréséhez feltüntetendő adatok**
+
+1\. A csapatmozgás tervezett helyszíne az ország megjelölésével.
+
+2\. Az áthaladással érintett országok megnevezése.
+
+3\. A csapatmozgás célja és jellege, több cél esetében valamennyi cél feltüntetésével.
+
+4\. Az MH résztvevő állományának létszáma.
+
+5\. A csapatmozgás – szárazföldi, vízi, légi – közlekedési módozata.
+
+6\. A többszöri határátlépés lehetőségének ténye, ha a csapatmozgás jellege indokolja.
+
+7\. A csapatmozgás tervezett időpontja.
+
+## 3. melléklet a 312/2024. (XI. 4.) Korm. rendelethez
+
+**Külföldi fegyveres erők hazai csapatmozgása technikai engedélyezéséhez és azok határforgalmi ügyintézéséhez szükséges adatok**
+
+1\. A csapatmozgással érintett külföldi katonai szervezet és országának megnevezése.
+
+2\. A csapatmozgás célja.
+
+3\. A megadott időtartamon belül várható maximális létszám, váltásokkal együtt.
+
+4\. Magyarország területén történő tartózkodás időtartama a belépéstől a kilépésig.
+
+5\. A rendeltetési hely, azaz Magyarország esetében a tevékenység helye, magyarországi tranzit esetén a célország és az áthaladással érintett országok megnevezése.
+
+6\. A be- és kilépésre tervezett magyar határátkelőhely megnevezése, a határátlépés tervezett időpontja, tervezett útvonal leírása, tartózkodási helyek megjelölésével, megjelölve, ha az engedélyezett időtartamon belül többszöri határátlépés történik.
+
+7\. A személyek nevének és rendfokozatának felsorolása, úti okmányaiknak típusa, megjelölve, hogy az útlevél, NATO-menetparancs, személyazonosító igazolvány vagy más igazolvány.
+
+8\. A gép-, harc-, légi- és vízi járművek megnevezése, mennyisége, egyedi azonosítója.
+
+9\. A szállítandó haditechnikai termékek, anyagok, eszközök, élelmiszer-ellátmány megnevezése, mennyisége, különös tekintettel az egyéni fegyverzetre, a vámszempontból fokozott ellenőrzés alá eső, valamint a veszélyes áruk körébe tartozó termékekre.
+
+10\. A szállítás módja, ütemezése.
+
+11\. A kötelék, szállítmány kísérésére és egyéb befogadó nemzeti támogatásra vonatkozó igény.
+
+12\. A túlsúlyos, túlméretes közúti járművek adatai.
+
+13\. Az útvonalengedély kiadásához szükséges egyéb adatok.
+
+## 4. melléklet a 312/2024. (XI. 4.) Korm. rendelethez
+
+**Az MH külföldi csapatmozgása technikai engedélyezéséhez és azok határforgalmi ügyintézéséhez szükséges adatok**
+
+1\. A csapatmozgással érintett katonai szervezet.
+
+2\. A csapatmozgás célja.
+
+3\. A csapatmozgás jogcíme, ideértve különösen a vonatkozó nemzetközi jogi dokumentumokat, továbbá az országgyűlési, kormány vagy honvédelmi miniszteri közjogi döntés számát.
+
+4\. A résztvevő állomány tervezett maximális létszáma, váltásokkal együtt.
+
+5\. A célország és az áthaladással érintett országok megnevezése.
+
+6\. A ki- és visszalépésre tervezett magyar és külföldi, valamint a további határátlépésekkel érintett külföldi határátkelőhelyek megnevezése, a határátlépések tervezett időpontja, tervezett útvonal leírása, tartózkodási helyek megjelölésével, megjelölve, ha az engedélyezett időtartamon belül többszöri határátlépés történik.
+
+7\. A személyek nevének és rendfokozatának felsorolása, úti okmányaiknak típusa, megjelölve, hogy az útlevél, NATO-menetparancs, személyazonosító igazolvány vagy más igazolvány.
+
+8\. A gép-, harc-, légi- és vízi járművek megnevezése, mennyisége, egyedi azonosítója.
+
+9\. A szállítandó haditechnikai termékek, anyagok, eszközök, élelmiszer-ellátmány megnevezése, mennyisége, különös tekintettel az egyéni fegyverzetre, a vámszempontból fokozott ellenőrzés alá eső, valamint a veszélyes áruk körébe tartozó termékekre.
+
+10\. A szállítás módja, ütemezése.
+
+11\. A kötelék, szállítmány kísérésére és egyéb támogatásra vonatkozó igény.
+
+12\. A túlsúlyos, túlméretes közúti járművek adatai.
+
+13\. Az útvonalengedély kiadásához szükséges egyéb adatok.

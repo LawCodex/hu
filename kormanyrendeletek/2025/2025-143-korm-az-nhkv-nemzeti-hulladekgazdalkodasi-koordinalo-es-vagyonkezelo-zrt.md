@@ -1,0 +1,69 @@
+---
+title: "143/2025. (VI. 19.) Korm. rendelet az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt. által ellátott feladatok átvételéről és a társaság megszüntetéséről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről"
+identifier: "143/2025. (VI. 19.) Korm. rendelet"
+njt_id: "2025-143-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/143"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-06-19
+in_force_from: 2025-06-20
+last_amended: 2025-06-20
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-143-20-22"
+retrieved: 2026-10-12
+---
+
+# 143/2025. (VI. 19.) Korm. rendelet az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt. által ellátott feladatok átvételéről és a társaság megszüntetéséről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről
+
+[1] A rendelet célja a 2023. július 1-jétől bevezetett koncessziós hulladékgazdálkodási rendszer eddigi tapasztalatai alapján az állami hulladékgazdálkodási szervezetrendszer átalakítása a költségtakarékos működés érdekében.
+
+[2] A Kormány
+
+az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 40. pont a) és b) alpontjában kapott felhatalmazás alapján,
+
+az 1. § (3) bekezdés a), b) és d) pontja tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-ában foglaltak alapján az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: NHKV Zrt.) (székhely: 1117 Budapest, Október huszonharmadika utca 18.; cégjegyzékszám: 01-10-048725; adószáma: 25456790-2-44; főtevékenysége: 8299’25 M.n.s. egyéb üzletmenetet támogató szolgáltatás) az általa ellátott állami feladatokat – a (3) bekezdés szerinti feladatok kivételével – az Energiaügyi Minisztérium mint átvevő költségvetési szerv részére adja át.
+
+(2) Az átvételi felelőst a hulladékgazdálkodásért felelős miniszter jelöli ki.
+
+(3) Az NHKV Zrt.
+
+a) a Tiszta Ország Program lebonyolításához kapcsolódó feladatokat az NFFKÜ – Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság (székhely: 1037 Budapest, Montevideo utca 14.; cégjegyzékszám: 01-10-047549; adószáma: 24134387-2-41; főtevékenysége: 7020’25 Üzletviteli, egyéb üzletvezetési tanácsadás) részére,
+
+b) a szakrendszerek működtetése feladatát és az informatikai üzemeltetési feladatokat a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (székhely: 1149 Budapest, Róna utca 52–80.; cégjegyzékszám: 01-10-041633; adószáma: 10585560-2-44; főtevékenysége: 6290’25 Egyéb információtechnológiai szolgáltatás) részére,
+
+c) az ingatlan üzemeltetési és a munkakörnyezet biztosításával összefüggő feladatokat a Közbeszerzési és Ellátási Főigazgatóság (székhely: 1135 Budapest, Szabolcs u. 37–43; alapító okirat szám: NGM/476-1/2025; adószáma: 15329396-2-41; főtevékenysége: 841117 Kormányzati és önkormányzati intézmények ellátó, kisegítő szolgálatai) részére,
+
+d) a 2023. július 1-jét megelőző időszakra vonatkozóan, a 2023. július 1-jét megelőző időszakban Koordináló szervként működött gazdasági társaságtól átvett számlázási, kintlévőség-kezelési, és ezekhez kapcsolódó ügyfélszolgálati feladatokat az MKK Magyar Követeléskezelő Zártkörűen Működő Részvénytársaság (székhely: 1138 Budapest, Tomori utca 34.; cégjegyzékszám: 01-10-043319; adószáma: 12226483-2-41; főtevékenysége: 6499’25 M.n.s. egyéb pénzügyi közvetítés) részére
+
+adja át.
+
+(4) Az (1) és (3) bekezdés szerinti feladatátvétel és az NHKV Zrt. munkavállalói tekintetében beálló jogállásváltozás
+
+a) az (1) és (3) bekezdés szerinti feladatok ellátásához kapcsolódó jogosultságokra és kötelezettségekre, valamint az ezekhez kapcsolódó jogviszonyokra,
+
+b) az (1) és (3) bekezdés szerinti feladatokkal összefüggő vagyoni jogokra és kötelezettségekre,
+
+c) az (1) és (3) bekezdés szerinti feladatokkal összefüggő ingó állományra, valamint
+
+d) az (1) és (3) bekezdés szerinti feladatokat és azok támogatását ellátó alkalmazottak feletti munkáltatói jogok gyakorlására és kötelezettségek teljesítésére és a munkavállalók foglalkoztatási jogviszonyára
+
+terjed ki.
+
+(5) Az államot az Áht. 11/C. § (2) bekezdése szerinti esetben az energiaügyi miniszter képviseli.
+
+(6) Az NHKV Zrt. megszűnésének időpontja 2025. június 30., az NHKV Zrt. által ellátott, (1) és (3) bekezdés szerinti feladatokat a jogutód 2025. július 1-jétől látja el.
+
+## 2. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 3. §
+
+E rendelet rendelkezéseit az 1. § (1) és (3) bekezdése szerinti feladatok átvételének időpontjában folyamatban lévő ügyekben is alkalmazni kell.

@@ -1,0 +1,94 @@
+---
+title: "453/2024. (XII. 30.) Korm. rendelet a 2025. évi tanárbéremelésről és az ahhoz nyújtott központi költségvetési támogatásról"
+identifier: "453/2024. (XII. 30.) Korm. rendelet"
+njt_id: "2024-453-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/453"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-12-30
+in_force_from: 2025-01-01
+in_force_until: 2027-03-31
+last_amended: 2025-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-453-20-22"
+retrieved: 2026-10-12
+---
+
+# 453/2024. (XII. 30.) Korm. rendelet a 2025. évi tanárbéremelésről és az ahhoz nyújtott központi költségvetési támogatásról[^1]
+
+A Kormány a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 155. § (1) bekezdés 15. és 24. pontjában, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+A Kormány 2025. év január 1-jétől a tanárok számára intézményi szinten átlagosan 21,2%-os tanárbéremelést biztosít.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+1\. *személyi juttatás:*
+
+a) a tanárbér,
+
+b) a tanárbéren felül
+
+ba) a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) alapján kifizetett többlettanítási óradíj, eseti pótlékok, ügyeleti és készenléti díj, ösztönzési keresetkiegészítés, jutalom, a munkáltató által biztosított céljuttatás, valamint
+
+bb) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) hatálya alá tartozó intézményekben pedagógus munkakörben foglalkoztatott személyek esetén a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban: Kjt.vhr.) és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti eseti pótlékok, jutalom, céljuttatás, valamint
+
+c) a köznevelési ágazatban köznevelési foglalkoztatotti jutalom, a Gyvt. hatálya alá tartozó intézményekben pedagógus munkakörben foglalkoztatottak esetében jubileumi jutalom, a végkielégítés;
+
+2\. *tanár:* a Púétv. szerinti pedagógus-előmenetel hatálya alá tartozó pedagógus és pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott, továbbá a Gyvt. 15. § (10a) bekezdése alapján felsőfokú iskolai végzettséggel a Kjt.vhr. 2/a. számú melléklete szerinti pedagógus munkakörben foglalkoztatott;
+
+3\. *tanárbér:*
+
+a) a köznevelésben foglalkoztatott tanár havi illetménye – ideértve az esélyteremtési illetményrészt, valamint a mesterfokozat és az egyes tantárgyak után járó illetménynövekedést és a pályakezdés után járó illetménynövekedést –, valamint a tartós pótlékok és megbízási díjak;
+
+b) a Gyvt. hatálya alá tartozó intézményekben pedagógus munkakörben foglalkoztatott személy havi illetménye, munkabére, ideértve a mesterfokozat és az egyes tantárgyak után járó, valamint a további szakképesítés, szakképzettség után a Kjt. alapján járó illetménynövekedést, a pályakezdés után járó illetménynövekedést, továbbá a Kjt. alapján járó keresetkiegészítés, valamint a Kjt. és az Mt. alapján járó tartós pótlékok.
+
+## 3. §
+
+(1) A pedagógus életpálya vonzerejét erősítő, részben az Európai Unió által biztosított forrásokból történő béremeléshez biztosított központi költségvetési többletforrások tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 2. § (3) bekezdés b) pontjában és (4) bekezdésében meghatározott fenntartó, továbbá a Gyvt. hatálya alá tartozó intézmény fenntartója az általa fenntartott
+
+a) köznevelési intézményekben a Púétv. 98. §-a szerinti havi illetményben részesülő, továbbá
+
+b) a Gyvt. 15. § (10b) bekezdése hatálya alá tartozó intézményekben foglalkoztatott
+
+tanár után járó, a Magyarország 2025. évi központi költségvetéséről szóló 2024. évi XC. törvény (a továbbiakban: Kvtv.) 2., 7. és 8. mellékletében rögzített támogatások összegei és a 2025. évben megemelt fajlagos összegű támogatás közötti különbözetet (a továbbiakban: kiegészítő támogatás) kizárólag a tanárok személyi juttatásaira és az azokhoz kapcsolódó, munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez szükséges finanszírozásra használhatja fel.
+
+(2) A kiegészítő támogatás felhasználásakor a munkáltató
+
+a) a tanárok számára intézményi szinten átlagosan az 1. §-ban meghatározott mértékű tanárbéremelést biztosít a (3) bekezdésben foglaltak figyelembevételével,
+
+b) a kiegészítő támogatás legfeljebb 30%-át fordíthatja a 2. § 1. pont b) és c) alpontja szerinti jogcímekre.
+
+(3) A munkáltató az egyes tanárok 2024. december 1-jei pótlékok, megbízási díjak nélküli Púétv. 98. §-a szerinti illetményét, munkabérét – beleértve az esélyteremtési illetményrészt és a mesterfokozat, továbbá az egyes tantárgyak után járó illetménynövekedést is –
+
+a) Pedagógus I. fokozat esetén legalább 21,4%-kal,
+
+b) Pedagógus II. fokozat esetén legalább 19,0%-kal,
+
+c) Mesterpedagógus fokozat esetén legalább 13,8%-kal,
+
+d) Kutatótanár fokozat esetén legalább 12%-kal
+
+köteles emelni.
+
+## 4. §
+
+A fenntartó a kiegészítő támogatást a 3. §-ban meghatározottak szerint 2025. december 31-ig használhatja fel. Ha a fenntartó a ténylegesen foglalkoztatott tanár esetén a 3. §-ban foglaltakat maradéktalanul nem teljesítette, az adott tanárra eső kiegészítő támogatás összegét a központi költségvetés részére visszatéríti.
+
+## 5. §
+
+A 2025. január 1-je és 2025. december 31. között létrejövő új köznevelési vagy gyermekjóléti, gyermekvédelmi intézmény fenntartója biztosítja, hogy az intézményben foglalkoztatott tanárok átlagos tanárbére elérje a Központi Statisztikai Hivatal által 2025. évre közölt diplomás havi átlagbér 80%-át.
+
+## 6. §
+
+(1) Ez a rendelet 2025. január 1-jén lép hatályba.
+
+(2) Ez a rendelet 2027. március 31-én hatályát veszti.
+
+---
+
+[^1]: A rendelet a 6. § (2) bekezdése alapján hatályát vesztette 2027. március 31. napjával.

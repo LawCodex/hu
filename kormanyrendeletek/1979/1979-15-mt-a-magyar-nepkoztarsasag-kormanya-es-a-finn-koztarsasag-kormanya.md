@@ -1,0 +1,121 @@
+---
+title: "15/1979. (IV. 15.) MT rendelet a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között Budapesten, az 1978. évi július hó 27. napján aláírt, az egészségügy, az orvostudomány és a társadalombiztosítás területén történő együttműködésről szóló egyezmény kihirdetéséről"
+identifier: "15/1979. (IV. 15.) MT rendelet"
+njt_id: "1979-15-20-65"
+eli: "https://njt.jog.gov.hu/eli/R/1979/MT/15"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 1979-04-15
+in_force_from: 1991-01-01
+last_amended: 2014-09-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/1979-15-20-65"
+retrieved: 2026-10-12
+---
+
+# 15/1979. (IV. 15.) MT rendelet a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között Budapesten, az 1978. évi július hó 27. napján aláírt, az egészségügy, az orvostudomány és a társadalombiztosítás területén történő együttműködésről szóló egyezmény kihirdetéséről[^1]
+
+*(Az Egyezmény jóváhagyásáról szóló jegyzékváltás az 1978. évi december hó 7. napján megtörtént.)*
+
+## 1. §
+
+A Minisztertanács a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között Budapesten, az 1978. évi június hó 27. napján aláírt, az egészségügy, az orvostudomány és a társadalombiztosítás területén történő együttműködésről szóló Egyezményt e rendelettel kihirdeti.
+
+## 2. §
+
+Az Egyezmény hivatalos magyar nyelvű szövege a következő:
+
+Egyezmény\
+a Magyar Népköztársaság Kormánya\
+és a Finn Köztársaság Kormánya között,\
+az egészségügy, az orvostudomány\
+és a társadalombiztosítás területén történő\
+együttműködésről
+
+A Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya,
+
+attól az óhajtól áthatva, hogy országaik együttműködése az egészségügy, az orvostudomány és a társadalombiztosítás területén is fejlődjék,
+
+abban a meggyőződésben, hogy ez az együttműködés hozzájárul a két ország közötti baráti kapcsolatok erősítéséhez,
+
+elhatározták, hogy az egészségügy, az orvostudomány és a társadalombiztosítás területén együttműködési Egyezményt kötnek és
+
+e célból meghatalmazottaikként kinevezték
+
+a Magyar Népköztársaság Kormánya
+
+*Schultheisz Emil*
+
+egészségügyi minisztert,
+
+a Finn Köztársaság Kormánya
+
+*Pirkko Työlajarvi*
+
+szociális és egészségügyi minisztert,
+
+akik a jó és kellő alakban talált meghatalmazásaik kicserélését követően az alábbiakban állapodtak meg:
+
+*1. cikk*
+
+A Szerződő Felek szorgalmazzák és fejlesztik együttműködésüket az egészségügy, az orvostudomány és a társadalombiztosítás területén.
+
+Az együttműködést többek között azokra a tapasztalatokra alapozzák, amelyeket a két fél korábbi eszmecseréi, látogatásai és kapcsolatai alapján szerzett.
+
+*2. cikk*
+
+Az együttműködés különösen az alábbi formákban történhet:
+
+1\. tájékoztatás-csere az egészségügyi és szociális szolgálat szervezetéről;
+
+2\. tájékoztatás-csere az országaikban folyó egészségügyi, orvostudományi és társadalombiztosítási képzésről és továbbképzésről;
+
+3\. kutatási projectek az együttműködési tervekben;
+
+4\. technikai és tudományos tájékoztatás-csere az egészségügyi ellátásra, az orvostudományra – beleértve az orvostudományi kutatást – és a társadalombiztosításra vonatkozóan;
+
+5\. tudományos symposiumok, szemináriumok és előadások szervezése;
+
+6\. szakemberek és küldöttségek cseréje tanulmányút és tapasztalatcsere céljából;
+
+7\. szakemberek részvétele a másik fél által rendezett kongresszusokon és tudományos konferenciákon;
+
+8\. tájékoztatás-csere az egészségügyi ellátással, az orvostudománnyal és társadalombiztosítással kapcsolatos új felszerelésekről és technikai fejlesztésekről.
+
+*3. cikk*
+
+A Szerződő Felek mindent megtesznek annak érdekében, hogy megkönnyítsék a kapcsolatokat országaik intézménye és szervezetei között az egészségügyi ellátás, az orvostudomány és a társadalombiztosítás területén.
+
+*4. cikk*
+
+Az Egyezmény végrehajtására a Magyar Népköztársaság Egészségügyi Minisztériuma és illetékes társadalombiztosítási szervei, valamint a Finn Köztársaság Szociális és Egészségügyi Minisztériuma közvetlen kapcsolatban állhatnak egymással az egészségügyi ellátás, az orvostudomány és a társadalombiztosítás területein a hatáskörükbe tartozó ügyekben.
+
+*5. cikk*
+
+Az Egyezmény végrehajtására a Magyar Népköztársaság Egészségügyi Minisztériuma és illetékes társadalombiztosítási szervei, valamint a Finn Köztársaság Szociális és Egészségügyi Minisztériuma általában 2 évre szóló együttműködési terveket írnak alá, országaik törvényes rendelkezéseit figyelembe véve. Ezek a tervek meghatározzák az együttműködés területeit, formáit és pénzügyi feltételeit.
+
+Az említett minisztériumok és társadalombiztosítási szervek képviselői felváltva találkoznak Magyarországon és Finnországban.
+
+*6. cikk*
+
+Az Egyezményt a Szerződő Felek alkotmányos előírásainak megfelelően jóvá kell hagyni. Az Egyezmény a jóváhagyásról szóló diplomáciai jegyzékváltás napján lép hatályba.
+
+*7. cikk*
+
+Az Egyezmény 5 évig marad hatályban. Ha az Egyezményt 6 hónappal a lejárat előtt egyik Szerződő Fél sem mondja fel, az további 5 évig érvényes marad.
+
+Készült Budapesten, 1978. június 27-én, két eredeti példányban, angol nyelven.
+
+*(Aláírások.)*
+
+## 3. §
+
+(1) Ez a rendelet a kihirdetése napján lép hatályba, rendelkezéseit azonban 1978. évi december hó 7. napjától kell alkalmazni.
+
+(2)[^2] E rendelet végrehajtásáról az egészségügyért felelős miniszter gondoskodik.
+
+---
+
+[^1]: Az 1989: XXXI. törvény 38. §-ának (1) bekezdése szerint Magyar Népköztársaságon Magyar Köztársaságot kell érteni.
+[^2]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 48. §-ával megállapított szöveg.

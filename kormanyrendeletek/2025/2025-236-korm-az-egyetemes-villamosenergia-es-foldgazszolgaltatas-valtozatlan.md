@@ -1,0 +1,115 @@
+---
+title: "236/2025. (VII. 31.) Korm. rendelet az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról"
+identifier: "236/2025. (VII. 31.) Korm. rendelet"
+njt_id: "2025-236-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/236"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-07-31
+in_force_from: 2025-08-01
+last_amended: 2026-03-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-236-20-22"
+retrieved: 2026-10-12
+---
+
+# 236/2025. (VII. 31.) Korm. rendelet az egyetemes villamosenergia- és földgázszolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról
+
+[1] A rezsivédelmi szolgáltatás változatlan feltételek szerinti fenntartása nemzeti érdek a veszélyhelyzeti időszak lezárultát követően is.
+
+[2] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 6. pontjában és a földgázellátásról szóló 2008. évi XL. törvény 132. § 13. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A Kormány a rezsivédelmi szolgáltatás biztosítása céljából
+
+a) a 2027. szeptember 30. napjáig terjedő időszakra az egyetemes földgázszolgáltatásban a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 141/L. § (1) bekezdése szerinti elhatárolást végrehajtó gazdasági társaságot (a továbbiakban: földgázszolgáltató),
+
+b) a 2027. december 31. napjáig terjedő időszakra az egyetemes villamosenergia-szolgáltatásban az ország teljes területére hatályos engedéllyel rendelkező egyetemes villamosenergia-szolgáltatót (a továbbiakban: villamosenergia-szolgáltató)
+
+jelöli ki.
+
+(2) A rezsivédelmi szolgáltatás biztosítására az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) a villamosenergia-szolgáltatóval és a földgázszolgáltatóval szerződést (a továbbiakban: rezsivédelmi szerződés) köt, amelyet tájékoztatás céljából a villamosenergia-szolgáltató, valamint a földgázszolgáltató megküld a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére. A rezsivédelmi szerződés tartalmazza
+
+a) a rezsivédelmi szolgáltatás biztosítására vonatkozó kötelezettség részletes tartalmát, területi és időbeli hatályát,
+
+b) a rezsivédelmi szolgáltatás biztosításáért járó ellentételezés összege megállapításának részletes szabályait és
+
+c) az ellentételezés kifizetésének részletes szabályait.
+
+(3) Az (1) bekezdéstől eltérő, hatályos egyetemes villamosenergia- vagy földgázszolgáltatás nyújtására engedéllyel rendelkező engedélyes a miniszternél kezdeményezheti rezsivédelmi szolgáltatás biztosítására irányuló szerződés megkötését.
+
+(4) A rezsivédelmi szerződést a felek minden év szeptember 30. napjáig felülvizsgálják, és annak módosítása esetén a módosított rezsivédelmi szerződést a villamosenergia-szolgáltató, valamint a földgázszolgáltató tájékoztatás céljából október 1. napjáig megküldi a Hivatal részére.
+
+## 2. §
+
+A rezsivédelmi szerződésben meghatározott rezsivédelmi szolgáltatás biztosításáért a villamosenergia-szolgáltató és a földgázszolgáltató ellentételezésre jogosult, az alábbiak szerint:
+
+a) a földgázszolgáltató részére járó ellentételezés összege megegyezik azzal az összeggel, amellyel a tárgyévre vonatkozóan megszüntethető a Get. 141/L. § (1) bekezdése szerinti negatív összegű árbevétel különbségek kumulált értéke és a pozitív összegű árbevétel különbségek kumulált értéke közötti különbözet (egyenleg),
+
+b) a villamosenergia-szolgáltató részére járó ellentételezés az egyetemes villamosenergia-szolgáltatás bevétellel nem fedezett, a tevékenység ellátásához szükséges nettó ráfordítással azonos összeg. Az ellentételezés kiszámításának módszertanát a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendelet (a továbbiakban: miniszteri rendelet) határozza meg.
+
+## 3. §
+
+(1) A villamosenergia- és a földgázszolgáltató az adott évben teljesített rezsivédelmi szolgáltatás biztosításáért járó ellentételezés iránti kérelmét (a továbbiakban: kérelem) a rezsivédelmi szerződésben meghatározott időpontig nyújtja be a miniszternek, és ezzel egyidejűleg a Hivatal részére is megküldi. A kérelem tartalmazza
+
+a) az érvényesíteni kívánt igény jogcímét,
+
+b) a tárgyévi szolgáltatáshoz kapcsolódó ellentételezés – 2. § a) vagy b) pontja szerinti módszertan alapján kiszámított – értékét az elérhető legfrissebb kalkuláció alapján, dokumentációval alátámasztva,
+
+c) a tárgyévet megelőző évben a szolgáltatáshoz kapcsolódóan az ellentételezés tényadatok alapján megállapított indokolt összegét,
+
+d) a tárgyévet megelőző évben, valamint a tárgyévben a kérelem benyújtásáig folyósított ellentételezés összegét, valamint a kifizetett különbözeti összeget és
+
+e) részletes szöveges magyarázatot a kérelmet alátámasztó számításhoz.
+
+(2) Ha a kérelem benyújtása a rezsivédelmi szerződésben meghatározott határidőkhöz képest késedelmesen történik, a 4. § (2), (5) és (7) bekezdésében meghatározott határidők a késedelmes napok számával meghosszabbodnak.
+
+(3) Ha a tárgyévi ellentételezés vonatkozásában benyújtott kérelmet alátámasztó kalkulációban alkalmazott feltételezéshez képest
+
+a) az egyetemes szolgáltatást igénybe vevők várható ellátásában vagy fogyasztásában vagy
+
+b) az egyetemes szolgáltatás ellátásához szükséges ráfordításokban
+
+jelentős változás következik be, a villamosenergia- és a földgázszolgáltató kérelem kiegészítést nyújthat be a miniszternek, amelyet egyidejűleg a Hivatalnak is megküld. Jelentős változásnak minősül, ha a kérelmet alátámasztó kalkuláció egyes paraméterei olyan mértékben változnak, aminek eredményeképpen a tárgyévi ellentételezés összegében legalább 15 milliárd forint eltérés megállapítható. A kérelem kiegészítés tartalmazza az eredeti, kérelem kiegészítéssel módosuló kérelmet, a kérelem kiegészítést megalapozó kalkulációját, valamint a kérelem kiegészítést megalapozó és az eredeti kérelem egyes paramétereinek összehasonlítását, továbbá szöveges magyarázatát. A miniszter a Hivatal javaslatának figyelembevételével a benyújtást követő harminc napon belül dönt az ellentételezés mértékének módosításáról.
+
+## 4. §
+
+(1) A miniszter az ellentételezés megállapítása iránti kérelmet és a kérelem kiegészítést a Hivatal bevonásával vizsgálja meg.
+
+(2) A Hivatal a kérelemben vagy a kérelem kiegészítésben foglaltak e rendeletnek és a miniszteri rendeletnek való megfelelőségét vizsgálja, és javaslatot tesz a miniszternek az ellentételezés összegére kérelem esetén az adott ellentételezés évét megelőző év december 10. napjáig, kérelem kiegészítés esetén a kérelem kiegészítés Hivatal általi kézhezvételétől számított 15 napon belül.
+
+(3) Ha a kérelem vagy a kérelem kiegészítés hiányos, a Hivatal hiánypótlásra hívja fel a kérelmezőt. A hiánypótlásra megszabott határidővel a 3. § (3) bekezdése, továbbá a (2), (5) és (7) bekezdés szerinti határidők meghosszabbodnak. Ha a hiánypótlási felhívást a kérelmező a megjelölt határidőig nem teljesíti, a Hivatal a rendelkezésre álló információk alapján tesz javaslatot a miniszternek.
+
+(4) A Hivatal a kérelemben vagy a kérelem kiegészítésben foglaltak megfelelőségének vizsgálatához – határidő tűzésével – a kérelmezőtől további felvilágosítást és adatszolgáltatást kérhet. Ha a felvilágosítás vagy adatszolgáltatás iránti felhívást a kérelmező nem vagy hiányosan teljesíti, a Hivatal a rendelkezésre álló információk alapján teszi meg javaslatát.
+
+(5) Ha a kérelemben foglaltak megfelelnek az e rendeletben és a miniszteri rendeletben meghatározott feltételeknek, a miniszter – a Hivatal javaslatának figyelembevételével – a rezsivédelmi szerződésben meghatározott formában az adott ellentételezés évét megelőző év december 20. napjáig állapítja meg a kifizetendő összeget.
+
+(6) Az (5) bekezdés szerint megállapított összeget a miniszter elkülönített költségvetési forrásból fizeti ki egy vagy több részletben. A kifizetésre kerülő ellentételezés részletének meghatározásakor korrekciós tényezőként figyelembe kell venni a tárgyévet megelőző évre vonatkozó ellentételezés korábban megállapított és ténylegesen indokolt összegének különbségét. A részletek összegére és esedékességének időpontjára a villamosenergia-szolgáltató vagy a földgázszolgáltató – a likviditási tervének adataival alátámasztott – javaslatot tehet a miniszter részére. Több részletben történő kifizetés esetén a miniszter az egyes negyedévek hónapjaira esedékes ellentételezések kifizetésének ütemezéséről a tárgynegyedévet megelőző negyedév első hónapjának végéig dönt, amely döntésről 3 munkanapon belül értesíti a Hivatalt, a villamosenergia- és a földgázszolgáltatót.
+
+(7) Az adott év tekintetében a megállapított ellentételezés (6) bekezdés szerinti kifizetésére legkésőbb az adott ellentételezési év december 20. napjáig kerül sor. A megállapított ellentételezés teljesítéséről a miniszter legalább a kifizetést megelőző hét nappal tájékoztatja az államháztartásért felelős minisztert.
+
+## 5. §
+
+(1) A villamosenergia- és a földgázszolgáltató az ellentételezés évét követő év május 15. napjáig az adott év szolgáltatási kötelezettsége tekintetében részletes elszámolást küld a miniszter és a Hivatal részére. A Hivatal az elszámolást harminc napon belül vizsgálja meg, és javaslatot tesz a miniszter részére. A Hivatal eljárására a 4. § (2) és (3) bekezdésében foglaltak megfelelően alkalmazandók.
+
+(2) Ha a részletes elszámolás alapján a szolgáltatási kötelezettség kifizetett ellentételezése eltér a 3. § szerint, tényadatok alapján meghatározott indokolt összegtől, a miniszter a Hivatal javaslatának figyelembevételével az ellentételezés évét követő év július 15. napjáig állapítja meg a többlet vagy hiány mértékét.
+
+(3) Ha az eltérés a villamosenergia- vagy a földgázszolgáltató hátrányára hiányt mutat, a miniszter az ellentételezés évét követő év július 31. napjáig gondoskodik a különbözetnek a villamosenergia- vagy a földgázszolgáltató részére történő megfizetéséről.
+
+(4) Ha az eltérés a villamosenergia- vagy a földgázszolgáltató javára többletet mutat, a villamosenergia- vagy a földgázszolgáltató az ellentételezés évét követő év augusztus 31. napjáig a különbözetet visszafizeti.
+
+(5) Az ellentételezés részletekben történő kifizetése esetén a rezsivédelmi szerződésben meghatározott ütemezés szerint történik az egyes részletek kifizetése.
+
+## 6. §
+
+Ez a rendelet 2025. augusztus 1-jén lép hatályba.
+
+## 7. §
+
+A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet alapján a rezsivédelmi szolgáltatás biztosítása céljából megkötött szerződés az 1. § (2) bekezdése alapján megkötött szerződésnek minősül.
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 44/2026. (III. 5.) Korm. rendelet 1. §-ával megállapított szöveg.

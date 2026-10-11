@@ -1,0 +1,2817 @@
+---
+title: "733/2021. (XII. 20.) Korm. rendelet az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól"
+identifier: "733/2021. (XII. 20.) Korm. rendelet"
+njt_id: "2021-733-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/733"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-12-20
+in_force_from: 2021-12-21
+last_amended: 2026-09-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-733-20-22"
+retrieved: 2026-10-12
+---
+
+# 733/2021. (XII. 20.) Korm. rendelet az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet alkalmazási köre, hatálya
+
+#### 1. §
+
+E rendeletet kell alkalmazni a brexit miatti kiigazításokra képzett tartalék létrehozásáról szóló, 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet szerinti, az Európai Bizottság Brexit kárenyhítő forrásból – a Brexit Alkalmazkodási Tartalékból (a továbbiakban: BAR) – származó források felhasználására.
+
+#### 2. §
+
+Az e rendelet hatálya alá tartozó források felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
+
+### 2. Értelmező rendelkezések
+
+#### 3. §
+
+E rendelet alkalmazásában
+
+1\. *állami támogatás:* az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás;
+
+2\. *bizonylat:* a számvitelről szóló 2000. évi C. törvény 166. § (1) bekezdése szerinti dokumentum, valamint az összesítő;
+
+3\. *csalás:* az Európai Unióról szóló Szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló Egyezmény és az azt kiegészítő jegyzőkönyvek, valamint az Európai Unióról szóló Szerződés 35. Cikkének (2) bekezdése alapján megtett nyilatkozat kihirdetéséről szóló 2009. évi CLIX. törvénnyel kihirdetett, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény (a továbbiakban: egyezmény) 1. cikk (1) bekezdése szerinti tevékenység vagy mulasztás, valamint a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás;
+
+4\. *felhívás:* a támogatást igénylők számára elkészített, a támogatási kérelmek benyújtásához szükséges információkat tartalmazó – a www.palyazat.gov.hu oldalon elérhető – dokumentum;
+
+4a.[^1] *irányító hatóság:* a külpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium – miniszter által kijelölt – feladatkörében érintett szervezeti egysége;
+
+5\. *jogszerű állapot helyreállítása:* a kifogásnak helyt adó döntés nyomán a jogsértő eljárási cselekmény jogszabálynak, a felhívásnak, a támogatási szerződésnek és a kifogás tárgyában hozott döntésnek megfelelő megismétlése;
+
+6\. *kedvezményezett:* a támogatásban részesített támogatást igénylő;
+
+7\. *kitöltőprogram:* a www.palyazat.gov.hu oldalon elérhető, a támogatási kérelem kitöltését és beadását támogató felület;
+
+8\. *monitoring és információs rendszer:* a Fejlesztéspolitikai Adatbázis és Információs Rendszer, melynek részét képezi a támogatást igénylők és kedvezményezettek által e-ügyintézésére használható Elektronikus Pályázó Tájékoztató (a továbbiakban: EPTK) felülete;
+
+9\. *műszaki-szakmai tartalom:* a projekt keretében megvalósított fejlesztések valamely, a projekt eredményessége szempontjából meghatározó tulajdonsága, amelynek megvalósítását a kedvezményezett az irányító hatóság felé a támogatási kérelem benyújtásával vállalta, vagy amelyet a felhívás vagy a támogatási szerződés ekként határoz meg;
+
+10\. *négy szem elve:* valamely személy munkájának egy másik személy általi, ugyanazon szempontok szerint történő, teljes körű ellenőrzése;
+
+11\. *nyilvánvaló hiba:* a támogatást igénylő vagy a kedvezményezett által a támogatási kérelemben vagy a kifizetési kérelemben szolgáltatott adat olyan egyértelmű hiánya vagy hibája, amely a támogatási kérelem vagy a kifizetési kérelem más adataiból vagy más, közvetlenül elérhető nyilvántartásból származó adatok alapján hiánypótlásra való felszólítás nélkül pótolható vagy javítható;
+
+12\. *projekt fizikai befejezése:* a projekt keretében támogatott tevékenységnek a felhívás és a támogatási szerződés szerinti végrehajtása;
+
+13\. *projektmegvalósítás befejezése:* a projekt pénzügyi befejezését követően a projekt keretében támogatott tevékenységek végrehajtását igazoló kifizetési kérelem és beszámoló irányító hatóság általi jóváhagyása és a támogatás kifizetése;
+
+14\. *projekt pénzügyi befejezése:* a projekt fizikai befejezését követően a projekt végrehajtása során keletkezett bizonylatok kiegyenlítése;
+
+15\. *szabálytalanság:* az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek;
+
+16\. *szabálytalansági gyanú:* szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására;
+
+17\. *szállítói finanszírozás:* a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevőt megillető támogatás összegének kifizetése közvetlenül a szállító, engedményes vagy zálogjogosult fizetési számlájára történő utalással;
+
+18\. *támogatási kérelem:* a felhívásban meghatározott alaki és formai követelményeknek megfelelő dokumentum, amely egy projekt támogatásban részesítésére irányul, és amelynek részei a projektadatlap és a mellékletek;
+
+19\. *támogatói okirat:* az irányító hatóság támogatási jogviszony létrehozására irányuló akaratnyilatkozatát tartalmazó dokumentum;
+
+20\. *támogatást igénylő:* a támogatás iránti kérelmet benyújtó vállalkozás;
+
+21\. *utófinanszírozás:* a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az 1. mellékletben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett vagy az engedményes pénzforgalmi számlájára.
+
+## II. Fejezet — AZ INTÉZMÉNYRENDSZER
+
+### 3. Az irányító hatóság feladatai
+
+#### 4. §
+
+Az irányító hatóság feladatai keretében
+
+a) kidolgozza a program szakmai tartalmát,
+
+b) a tartalomnak megfelelően elkészíti a felhívás tervezetét, továbbá – szükség esetén – a felhívás módosítását vagy visszavonását,
+
+c) gondoskodik a felhívások és azok módosítása monitoring és információs rendszerbe történő rögzítéséről,
+
+d) kidolgozza a forrás hatékony felhasználásához kapcsolódó feladatok megvalósításához szükséges eljárást és módszertant, és az ezekhez kapcsolódó sablonokat mind a közreműködő szervezet, mind a kedvezményezetti kör részére,
+
+e) gondoskodik a forrást érintő valamennyi érdemi információ közzétételéről a www.palyazat.gov.hu és a https://brexit.kormany.hu/ oldalon,
+
+f) az irányító hatóságot irányító helyettes államtitkár részére adatot szolgáltat a program szakmai előrehaladásáról, a felhívások végrehajtásáról,
+
+g) kapcsolatot tart az Európai Bizottsággal,
+
+h) ellátja a programra vonatkozó adatszolgáltatást az Európai Bizottság számára,
+
+i) elkészíti a program végső teljesítményjelentését.
+
+#### 5. §
+
+Az irányító hatóság pénzügyi feladatai keretében
+
+a) forrást biztosít a programok központi kezelésű előirányzat-felhasználási keretszámláin,
+
+b) gondoskodik a közreműködő szervezet és a lebonyolításban részt vevő egyéb szervezetek által ellátott feladatok finanszírozásáról.
+
+#### 6. §
+
+Az irányító hatóság intézményrendszerrel összefüggő feladatai keretében meghatározza a közreműködő szervezettel és a lebonyolításban részt vevő egyéb szervezetekkel kötendő megállapodás tartalmi elemeit.
+
+#### 7. §
+
+Az irányító hatóság ellenőrzési feladatai keretében
+
+a) ellenőrzi, hogy a forrás kezelése és felhasználása szabályszerűen, célszerűen és eredményesen történik-e,
+
+b) ellátja a program végrehajtására vonatkozó ellenőrzések ellenőrzötti koordinációs feladatait, részt vesz az ellenőrzéseken, koordinálja az adatszolgáltatást és a válaszadást.
+
+#### 8. §[^2]
+
+Az irányító hatóság
+
+a) jogorvoslati feladatai keretében elbírálja a kifogásokat és a jogorvoslati kérelmeket,
+
+b) a szabálytalanságkezeléssel kapcsolatos feladatai keretében lefolytatja a szabálytalansági eljárásokat.
+
+#### 9. §
+
+Az irányító hatóság a csalás elleni feladatai keretében intézkedéseket alkalmaz, amely keretében a felmerülő kockázatok alapján
+
+a) meghatározza a csalás megelőzéséhez, azonosításához, jelentéséhez, valamint a jogosulatlanul kifizetett összegek visszafizettetéséhez, szankcionálásához szükséges feladatokat,
+
+b) együttműködik a csalások hatékony és eredményes megelőzése, felderítése és szankcionálása érdekében az érintett intézményekkel.
+
+#### 10. §
+
+Az irányító hatóság kommunikációs feladatai keretében
+
+a) gondoskodik a programok megvalósítására vonatkozó egységes kommunikációs stratégia kidolgozásáról, az uniós jogszabályokban meghatározott, tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítéséről,
+
+b) koordinálja a forrás felhasználásához kapcsolódó sajtómegjelenésekkel összefüggő feladatokat,
+
+c) ellátja a forrás felhasználásához kapcsolódó közérdekű adatok megismerésére irányuló kérelmekkel összefüggő feladatokat.
+
+#### 11. §
+
+Az irányító hatóság a büntetőeljárásokkal összefüggő feladatai keretében
+
+a) nyilvántartja a forrással kapcsolatos feljelentéseket és folyamatban lévő büntetőügyeket,
+
+b) gondoskodik a megkeresések megválaszolásáról.
+
+#### 12. §
+
+(1) Az irányító hatóság a közreműködő szervezet tekintetében
+
+a) közreműködik a közreműködő szervezettel kötendő szerződés egységes tartalmának meghatározásában,
+
+b) biztosítja a megvalósításához szükséges eljárást és módszertant.
+
+(2) Az irányító hatóság rendszeresen ellenőrzi a közreműködő szervezet által ellátott feladatokat a következő szempontok szerint:
+
+a) a közreműködő szervezet tevékenysége jogszerű-e, ellenőrzési tevékenysége a módszertani útmutatóknak megfelel-e,
+
+b) a közreműködő szervezet az adatokat szabályosan és teljeskörűen rögzítette-e a monitoring és információs rendszerben.
+
+(3) A (2) bekezdés b) pontja szerinti ellenőrzést az irányító hatóság folyamatba építetten és utólagosan, mintavételezés alapján végezheti el.
+
+#### 13. §
+
+Az irányító hatóság kizárólag átmeneti jelleggel vagy speciális szakterületen vonhat be alvállalkozót feladatai ellátásába. Az irányító hatóság az általa bevont alvállalkozói teljesítéséért az irányító hatóság felelős.
+
+#### 13/A. §[^3]
+
+Az irányító hatóságként eljáró szervezeti egységeket és az irányító hatóságot irányító helyettes államtitkárt a miniszter normatív utasításban jelöli ki.
+
+### 4. A közreműködő szervezet feladatai
+
+#### 14. §
+
+(1) A közreműködő szervezet tevékenységét az irányító hatóság felügyelete alatt látja el.
+
+(2) A közreműködő szervezet az e rendelet által az irányító hatóság feladatkörébe utalt feladatok közül az erre vonatkozóan megkötött megállapodásban meghatározott feladatokat látja el.
+
+(3) A közreműködő szervezet kizárólag átmeneti jelleggel vagy speciális szakterületen, az irányító hatóság által meghatározott értékhatár felett, az irányító hatóság előzetes egyetértésével vonhat be alvállalkozót feladatai ellátásába. A közreműködő szervezet által bevont alvállalkozó teljesítéséért a közreműködő szervezet felelős.
+
+(4) A közreműködő szervezet
+
+a) az irányító hatósággal együttműködve ügyfélszolgálatot működtet,
+
+b) gondoskodik a forrást érintő valamennyi érdemi információ saját honlapján – egyidejűleg a www.palyazat.gov.hu és a https://brexit.kormany.hu/ oldalakon – történő közzétételéről.
+
+(5) A közreműködő szervezet feladatait a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság látja el.
+
+### 5. Az audit hatóság feladatai
+
+#### 15. §
+
+(1) Az audit hatóság az irányító hatósággal megkötött megállapodásban meghatározott feladatokat látja el.
+
+(2)[^4] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+
+## III. Fejezet — A FEJLESZTÉSPOLITIKAI INTÉZMÉNYRENDSZER MŰKÖDÉSÉVEL KAPCSOLATOS SZABÁLYOK
+
+### 6. A fejlesztéspolitikai intézményrendszer működésével kapcsolatos általános szabályok
+
+#### 16. §
+
+Az irányító hatóság és a közreműködő szervezet
+
+a) olyan irányítási és kontrollrendszert alakít ki és működtet, amely biztosítja, hogy a szervezet tevékenysége megfelelően szabályozott, szabályszerű, gazdaságos, hatékony és eredményes legyen, az információk, beszámolók, jelentések és nyilatkozatok pontosak, megalapozottak és dokumentáltak legyenek, és határidőben rendelkezésre álljanak,
+
+b) biztosítja a négy szem elvének érvényesülését az egyes eljárási cselekmények, valamint a kapcsolódó adatok monitoring és információs rendszerbe történő rögzítése során.
+
+#### 17. §
+
+Az e rendelet hatálya alá tartozó szervek a támogatást igénylő vagy a kedvezményezett által benyújtott bármely dokumentum nyilvánvaló hibáját a dokumentummal kapcsolatos eljárás során kijavíthatják, amelyről a támogatást igénylőt vagy a kedvezményezettet értesítik.
+
+### 7. Az összeférhetetlenség
+
+#### 17/A. §[^5]
+
+E fejezet rendelkezéseit
+
+a) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet] 61. cikkével,
+
+b) az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közleménnyel (2021/C 121/01), valamint
+
+c) a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben meghatározott összeférhetetlenségi szabályokkal
+
+összhangban kell értelmezni és alkalmazni.
+
+#### 18. §[^6]
+
+(1) A támogatási döntés előkészítésében és meghozatalában nem vehet részt
+
+a) a támogatást igénylő,
+
+b) a támogatást igénylő vezető tisztségviselője és más képviselője, felügyelő bizottságának tagja, könyvvizsgálója,
+
+c) a támogatást igénylő tagja (részvényese) vagy a támogatást igénylőben legalább a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti többségi befolyással rendelkező személy,
+
+d) a támogatást igénylővel munkavégzésre irányuló jogviszonyban álló személy,
+
+e) az a személy, aki a támogatást igénylő tekintetében a támogatási kérelem benyújtását megelőző egy évben a b), c) vagy d) pont szerint minősült,
+
+f) az a)–e) pont szerinti személy Ptk. szerinti hozzátartozója (ezen alcím alkalmazásában a továbbiakban: hozzátartozó),
+
+g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+
+(2) Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+
+#### 19. §
+
+Közbeszerzési értékelést nem végezhet olyan személy, akitől az ügy elfogulatlan megítélése nem várható.
+
+#### 20. §
+
+(1) Folyamatba épített dokumentumalapú ellenőrzést, helyszíni ellenőrzést vagy helyszíni szemlét nem végezheti
+
+a) az ellenőrzés alá vont személy,
+
+b) az ellenőrzés alá vont személy vezető tisztségviselője és más képviselője, felügyelő bizottságának tagja, könyvvizsgálója,
+
+c) az ellenőrzés alá vont személy tagja (részvényese) vagy az ellenőrzés alá vont személyben legalább a Ptk. szerinti többségi befolyással rendelkező személy,
+
+d) az ellenőrzés alá vont személlyel munkavégzésre irányuló jogviszonyban álló személy,
+
+e) az a személy, aki az ellenőrzés alá vont személy tekintetében az ellenőrzés vagy a szemle megkezdését megelőző egy évben a *b), c)* vagy *d)* pont szerint minősült,
+
+f) az *a)–e)* pont szerinti személy hozzátartozója,
+
+g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+
+(1a)[^7] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja vagy e rendelkezések tekintetében a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni. Ezen személy az (1) és a (2) bekezdés szerinti ügyekben nem járhat el.
+
+(2) A kifizetés engedélyezésében nem vehet részt az, aki tekintetében az (1) bekezdésben felsorolt valamely ok fennáll, azzal, hogy e bekezdés alkalmazásában az ellenőrzés alá vont személyen a kifizetést igénylő személyt kell érteni.
+
+#### 21. §[^8]
+
+(1) A szabálytalansági ügy elintézésében nem vehet részt
+
+a) a kedvezményezett, továbbá az, akinek jogaira vagy kötelezettségeire az eljárás eredménye kihatással lehet,
+
+b) az a) pontban meghatározott személy vezető tisztségviselője és más képviselője, felügyelő bizottságának tagja, könyvvizsgálója,
+
+c) az a) pontban meghatározott személy tagja (részvényese) vagy az a) pontban meghatározott személyben legalább a Ptk. szerinti többségi befolyással rendelkező személy,
+
+d) az a) pontban meghatározott személlyel munkavégzésre irányuló jogviszonyban álló személy,
+
+e) az a személy, aki az a) pontban meghatározott személy tekintetében a szabálytalansági eljárás megindítását megelőző egy évben a b), c) vagy d) pont szerint minősült,
+
+f) az a)–e) pont szerinti személy hozzátartozója,
+
+g) akitől az ügy elfogulatlan megítélése egyéb okból nem várható,
+
+h)[^9]
+
+(2)[^10] Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+
+(3) A 3. § 4a. pontjában foglaltak szerint irányító hatóságként a X. Fejezet szerinti szabálytalansági eljárás során eljáró szervezeti egységet az (1) és (2) bekezdésre figyelemmel kell kijelölni.
+
+#### 22. §
+
+(1) A kifogás vagy a jogorvoslati kérelem elbírálásában nem vehet részt az, aki a kifogásolt döntés vagy a tárgyi szabálytalansági döntés meghozatalában részt vett.
+
+(2) Az (1) bekezdés nem zárja ki, hogy a kifogásolt döntés vagy a szabálytalansági döntés saját hatáskörben történő felülvizsgálatában az alapügyben eljárt személy részt vegyen.
+
+(3) Szabálytalansági döntés megsemmisítése és új eljárás elrendelése, valamint jogorvoslati eljárásban a jogorvoslati szerv által észlelt új szabálytalansági gyanú miatt elrendelt új eljárás esetén a megismételt eljárásban nem vehet részt az, aki az alapeljárásban a döntés előkészítésében részt vett.
+
+(4)[^11] A 3. § 4a. pontjában foglaltak szerint irányító hatóságként a IX. Fejezet szerinti kifogás és az 53–56. alcím szerinti jogorvoslati eljárás során eljáró szervezeti egységet az (1)–(3) bekezdésben foglaltakra figyelemmel kell kijelölni.
+
+#### 23. §
+
+(1) Ha az irányító hatóság hatáskörének egy részét közreműködő szervezet gyakorolja, a közreműködő szervezet nem járhat el, ha
+
+a) a közreműködő szervezet,
+
+b) a közreműködő szervezet vezető tisztségviselője és más képviselője, felügyelő bizottságának tagja, könyvvizsgálója,
+
+c) a közreműködő szervezet tagja (részvényese) vagy a közreműködő szervezetben legalább a Ptk. szerinti többségi befolyással rendelkező személy,
+
+d) olyan személy, aki a közreműködő szervezet tekintetében az adott eljárás megkezdését megelőző egy évben a *b)* vagy *c)* pont szerint minősült,
+
+e) a *b)–d)* pont szerinti személy hozzátartozója
+
+az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vagy olyan személy, aki ezek érdekében az ügyben eljárt.
+
+(2) Az irányító hatóság hatáskörének egy részét gyakorló közreműködő szervezet nem járhat el, ha
+
+a) a közreműködő szervezettel munkavégzésre irányuló jogviszonyban álló személy,
+
+b) olyan személy, aki a közreműködő szerv tekintetében az adott eljárás megkezdését megelőző egy évben az *a)* pont szerint minősült,
+
+c) az *a)* és *b)* pont szerinti személy hozzátartozója az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vagy olyan személy, aki ezek érdekében az ügyben eljárt, és nincs más olyan, a közreműködő szervezet által foglalkoztatott személy, aki tekintetében összeférhetetlenség ne állna fenn.
+
+(3) Ha az irányító hatóság hatáskörének egy részét gyakorló közreműködő szervezetnek van olyan munkatársa, aki nem összeférhetetlen, akkor a közreműködő szervezet a 25. és 26. § szerint jár el, azzal, hogy e §-ok alkalmazásában az irányító hatóságon közreműködő szervezetet kell érteni.
+
+(4) A közreműködő szervezet akkor sem járhat el, ha az ügy elfogulatlan megítélése tőle az (1) bekezdésben fel nem sorolt egyéb okból nem várható.
+
+(4a)[^12] Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.
+
+(5) Ha a közreműködő szervezet az (1), a (2) vagy a (4) bekezdésben meghatározott okból nem járhat el, akkor helyette az irányító hatóság folytatja le az eljárást.
+
+#### 24. §
+
+(1) Az a munkatárs, aki észleli, hogy egy ügyben összeférhetetlen, ezt haladéktalanul írásban bejelenti az irányító hatóság részére. A bejelentésben megjelöli az összeférhetetlenség okát, és ha az ügy elfogulatlan megítélése tőle egyéb okból nem várható, akkor ezt indokolja.
+
+(2) Az a személy, aki a lefolytatott eljárásban támogatást igénylő, kedvezményezett vagy jogos érdekét egyébként igazolja, jogosult bejelenteni, ha az ügyben összeférhetetlenséget észlel.
+
+(3) Nem tehet érdemi intézkedést az ügyben az, aki az (1) bekezdés szerint bejelentette összeférhetetlenségét, és az, aki a rá vonatkozóan megtett (2) bekezdés szerinti bejelentésben foglaltakat elismerte.
+
+(4)[^13] A (2) bekezdés szerinti bejelentésről az irányító hatóság haladéktalanul tájékoztatja Belső Ellenőrzési és Integritási Igazgatóságot.
+
+#### 24/A. §[^14]
+
+(1) Bárki jogosult anonim módon bejelenteni a ww w. palyazat .gov. hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
+
+(2) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja az irányító hatóságot irányító helyettes államtitkárt.
+
+(3) Az (1) bekezdés szerinti bejelentést a Belső Ellenőrzési és Integritási Igazgatóság vizsgálja ki.
+
+(4) A Belső Ellenőrzési és Integritási Igazgatóság elutasítja az (1) bekezdés szerinti bejelentést, ha összeférhetetlenség nem áll fenn. A Belső Ellenőrzési és Integritási Igazgatóság döntését indokolja.
+
+(5) A Belső Ellenőrzési és Integritási Igazgatóság érdemi indokolás nélkül elutasítja az (1) bekezdés szerinti bejelentést, ha a bejelentés
+
+a) változatlan tényállás mellett ismételten olyan személyre vonatkozik, aki tekintetében az összeférhetetlenség hiányát korábban az ügyben megállapította, vagy
+
+b) nyilvánvalóan alaptalan.
+
+(6) Ha a Belső Ellenőrzési és Integritási Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi az irányító hatóságot irányító helyettes államtitkár részére, aki a 26. § szerint jár el.
+
+(7) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti bejelentések vizsgálata során keletkezett dokumentumokat a vizsgálatok lezárásától számított öt évig megőrzi.
+
+#### 25. §
+
+(1) Az irányító hatóság hivatalból vizsgálja, hogy összeférhetetlen személy az ügyben ne járjon el. Az irányító hatóság az összeférhetetlenségi ügyekben soron kívül jár el.
+
+(2) Az irányító hatóság gondoskodik más személynek az ügyben történő részvételre kijelöléséről
+
+a)[^15] a 24. § (1) bekezdése szerinti esetben, és
+
+b)[^16] ha a 24. § (2) bekezdése szerinti bejelentésben állított tényt a II. Fejezet szerinti intézményrendszer érintett munkatársa elismeri, vagy nem ismeri el, de az irányító hatóság az összeférhetetlenség fennállását megállapítja.
+
+(3)[^17] Az irányító hatóság elutasítja a 24. § (2) bekezdése szerinti bejelentést akkor, ha összeférhetetlenség nem áll fenn. Az irányító hatóság döntését indokolja.
+
+(4)[^18] Az irányító hatóság érdemi indokolás nélkül elutasítja a 24. § (2) bekezdése szerinti bejelentést akkor, ha
+
+a) nem a jogosulttól származik,
+
+b) változatlan tényállás mellett ismételten olyan személyre vonatkozik, aki tekintetében az összeférhetetlenség hiányát az irányító hatóság az ügyben megállapította, vagy
+
+c) a bejelentés nyilvánvalóan alaptalan.
+
+(5) A (2)–(4) bekezdés szerinti döntés ellen önálló kifogásnak vagy önállóan előterjesztett más jogorvoslatnak helye nincs. E döntéseket az ügy érdemében hozott döntés ellen benyújtható kifogásban vagy szabálytalansági döntés elleni jogorvoslati kérelemben lehet támadni.
+
+#### 26. §[^19]
+
+Az irányító hatóság gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött, és amely az ügy érdemére kihathat, valamint egyéb intézkedést hozhat, így különösen
+
+a) a támogatási döntést visszavonja,
+
+b) a támogatási szerződéstől eláll,
+
+c) a támogatási szerződést módosítja,
+
+d) szabálytalansági eljárást kezdeményez,
+
+e) kezdeményezi a 17/A. § c) pontjában meghatározott jogszabály szerinti felelősségre vonást,
+
+f) bűncselekmény elkövetésének gyanúja esetén feljelentést tesz.
+
+#### 26/A. §[^20]
+
+(1) Az irányító hatóság és a közreműködő szervezet BAR lebonyolításában részt vevő munkatársa általános összeférhetetlenségi nyilatkozatot és – az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) 6.3. pontja szerinti adatokat is tartalmazó – érdekeltségi nyilatkozatot tesz. A II. Fejezet szerinti intézményrendszer érintett szereplője a nyilatkozatokat öt évig megőrzi. A II. Fejezet szerinti intézményrendszer érintett szereplője a nyilatkozatokban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében a nyilatkozattétel időpontjától számított öt évig kezeli.
+
+(2) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti nyilatkozatok valóságtartalmát két évre szóló ellenőrzési terv alapján mintavételesen, évente az összeférhetetlenségi nyilatkozat benyújtására kötelezettek számának legalább 5%-ára kiterjedően ellenőrzi. A Belső Ellenőrzési és Integritási Igazgatóság az ellenőrzést különösen a közhiteles nyilvántartásokban elérhető adatok figyelembevételével végzi el. Ha a közhiteles nyilvántartásokban nem vagy csak korlátozottan érhető el adat, akkor önbevallást kell alkalmazni, amelyet a Belső Ellenőrzési és Integritási Igazgatóság a bármilyen nyilvános forrásból rendelkezésére álló információkkal vet össze.
+
+(3) Ha a Belső Ellenőrzési és Integritási Igazgatóság ellenőrzése során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi az irányító hatóságot irányító helyettes államtitkár részére, aki a 26. § szerint jár el.
+
+(4) A Belső Ellenőrzési és Integritási Igazgatóság a (2) bekezdés szerint ellenőrzött nyilatkozatokat és az ellenőrzések dokumentumait az ellenőrzések lezárásától számított öt évig megőrzi. A Belső Ellenőrzési és Integritási Igazgatóság a (2) bekezdés szerint ellenőrzött nyilatkozatokban és az ellenőrzések dokumentumaiban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében az ellenőrzések lezárásától számított öt évig kezeli.
+
+(5) A Belső Ellenőrzési és Integritási Igazgatóság tevékenységét, az érvényességi ellenőrzések tervezését és a kétéves tervek végrehajtását az audit hatóság validálja rendszerellenőrzés keretében.
+
+(6) Az (1) bekezdés szerinti személyek, valamint azon személyek, akik részt vesznek a támogatások végrehajtásában (ideértve az előkészítést, a döntéshozatalt, a végrehajtást és az ellenőrzést), tartózkodnak minden olyan magatartástól, amely sérti vagy veszélyezteti az Európai Unió érdekeit, vagy saját érdekeiknek az Európai Unió érdekei elé helyezését eredményezi, továbbá megteszik a szükséges intézkedéseket annak érdekében, hogy a feladataik végrehajtása során megakadályozzák az összeférhetetlenségi ok vagy az összeférhetetlenségi ok objektív kockázata vagy látszata kialakulását. A feladat ellátására vonatkozó jogviszonyban alkalmazandó felelősségi szabályok szerint felelősséggel tartoznak a pártatlan, semleges és szakmai követelményeknek megfelelő feladatellátásáért. A kedvezményezettek, a szállítók, az alvállalkozók és a projekt előkészítésében és megvalósításában részt vevők összeférhetetlenségi nyilatkozatot tesznek az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) szerinti esetekben. A nyilatkozatokat öt évig meg kell őrizni. A II. Fejezet szerinti intézményrendszer érintett szereplője a nyilatkozatokban szereplő adatokat az Európai Unió és Magyarország pénzügyi érdekeinek védelme, valamint az összeférhetetlenségi helyzetek megelőzése, feltárása és megszüntetése érdekében a nyilatkozattétel időpontjától számított öt évig kezeli.
+
+### 8. Az elektronikus kapcsolattartás
+
+#### 27. §
+
+(1) A támogatást igénylő, a kedvezményezett és az intézményrendszer elektronikus alkalmazást használ az egymással való kapcsolattartásra.
+
+(2) Ha a támogatást igénylő vagy a kedvezményezett olyan kapcsolattartási módot használ, amely nem alkalmazható, úgy cselekménye érvénytelen. Erről az irányító hatóság a támogatást igénylő, illetve a kedvezményezett részére tájékoztatást ad.
+
+(3) Ha az elektronikus alkalmazáson keresztül történő kapcsolattartás nem lehetséges, postai úton történő kézbesítésnek van helye.
+
+#### 28. §
+
+(1) Az EPTK felülethez való hozzáférés a www.palyazat.gov.hu oldalon történő támogatást igénylő általi regisztráció útján szerezhető.
+
+(2) Az elektronikus alkalmazás használata egyedi azonosításhoz kötött. Az elektronikus alkalmazás titkosított csatornán keresztül, egyedi és titkos jelszóval érhető el.
+
+(3) A támogatást igénylő és a kedvezményezett felelős a kapott vagy a regisztráció során általa megadott jelszó biztonságáért és a jelszó használatával az elektronikus alkalmazásban elvégzett cselekményekért.
+
+#### 29. §
+
+Az elektronikus alkalmazásban használt elektronikus aláírás a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet értelmében hiteles aláírásnak minősül, kiváltja az ahhoz fűződő joghatásokat, és bírósági eljárásban bizonyítékként elfogadható.
+
+#### 30. §
+
+(1) Az elektronikus alkalmazás visszaigazolja a dokumentum sikeres feltöltését a küldő fél részére. Az elektronikus alkalmazás a feltöltött dokumentum megérkezéséről a küldeményt fogadó felet értesíti.
+
+(2) Az elektronikus alkalmazás útján megküldött dokumentumot az átvétel visszaigazolásával kell kézbesítettnek tekinteni.
+
+(3) Ha a dokumentum elektronikus alkalmazáson keresztül történő átvételének visszaigazolása a küldés napját követő három napon belül nem történik meg, a dokumentumot – az ellenkező bizonyításig – kézbesítettnek kell tekinteni.
+
+(4) Az elektronikus alkalmazás útján megküldött küldeményt nyomtatott formában nem kell tárolni.
+
+#### 31. §
+
+(1) Ha a támogatást igénylő vagy a kedvezményezett olyan digitális állományt tölt fel, amely nem nyitható meg vagy nem olvasható, akkor az irányító hatóság hiánypótlást rendel el.
+
+(2) Ha az (1) bekezdés szerinti megnyithatósági vagy olvashatósági hiba a hiánypótlási felhívás kiadását követően jelentkezik, úgy az irányító hatóság hiánypótlási felhívásnak nem minősülő korrekcióra kötelezést ad ki, és megállapítja annak teljesítési határidejét.
+
+(3) A támogatást igénylő és a kedvezményezett a korrekcióra kötelezést az abban meghatározott határidőn belül teljesíti.
+
+#### 32. §
+
+(1) Nem kérhető sem a támogatást igénylőtől, sem a kedvezményezettől az azonosításához szükséges adatok kivételével olyan adat, amely nyilvános, vagy amely jogszabállyal rendszeresített közhiteles nyilvántartásból vagy más adatbázisból az elektronikus alkalmazással létesített adatkapcsolat útján lekérdezhető.
+
+(2) Az (1) bekezdés szerinti adatok lekérdezéséről a támogatást igénylőt és a kedvezményezettet tájékoztatni kell.
+
+#### 33. §
+
+(1) Ha olyan alátámasztó dokumentum benyújtása szükséges, amely az elektronikus alkalmazásba jogi vagy infrastrukturális okból nem tölthető fel, akkor a dokumentum benyújtásáért felelős személy ezt jelzi az irányító hatóság részére, és a dokumentumot postai úton nyújtja be.
+
+(2) Az (1) bekezdés szerinti jogi oknak minősül, ha
+
+a) egy dokumentumnak csak a papíralapú változatához kötődik bizonyító erő, vagy
+
+b) a papíralapú dokumentum digitalizált változatához – a polgári perrendtartásról szóló 2016. évi CXXX. törvény okiratokra vonatkozó szabályai szerint – az eredetinél alacsonyabb szintű bizonyító erő kötődik.
+
+(3) Az (1) bekezdés szerinti infrastrukturális oknak minősül, ha az elektronikus alkalmazás műszaki jellemzőiből fakadóan nem képes fogadni a kérdéses dokumentumot.
+
+(4) Ha az (1) bekezdés szerinti esetben a postai küldemény nem érkezik be az irányító hatósághoz a jelzéstől számított tizenöt napon belül, akkor az irányító hatóság a rendelkezésére álló információk alapján jár el.
+
+#### 34. §
+
+(1) Ha a küldeményt postai úton kell megküldeni, akkor a küldeményt tértivevénnyel – ha ennek a postai szolgáltatásokról szóló 2012. évi CLIX. törvényben meghatározott feltételei teljesülnek, akkor hivatalos iratként – kell feladni, és átvételének napján kell kézbesítettnek tekinteni.
+
+(2) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja a küldeményt nem veszi át, a küldeményt a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
+
+(3) Ha a postai úton kézbesített küldemény „nem kereste” jelzéssel érkezik vissza, a küldeményt – az ellenkező bizonyításig – a postai kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
+
+#### 35. §
+
+Az irányító hatóság a részére postai úton szabályosan benyújtott dokumentum megőrzéséről és nyilvántartásáról gondoskodik, valamint e dokumentumról digitális másolatot készít, és azt rögzíti az elektronikus alkalmazás adatbázisában.
+
+### 9. A határidő
+
+#### 36. §
+
+(1) A napokban megállapított határidőbe nem számít bele a közlés, kézbesítés napja.
+
+(2) A hetekben, hónapokban vagy években megállapított határidő azon a napon jár le, amely elnevezésénél vagy számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, akkor a megállapított határidő a hónap utolsó napján jár le.
+
+(3) Ha a határidő utolsó napja nem munkanap, a határidő a következő munkanapon jár le.
+
+#### 37. §
+
+(1) A támogatást igénylő és a kedvezményezett rendelkezésére álló határidőbe nem számít bele az az időtartam, amikor az elektronikus alkalmazás nem érhető el.
+
+(2) Az irányító hatóság az elektronikus alkalmazás rendelkezésre nem állásáról és annak oka elhárításáról az érintetteket a www.palyazat.gov.hu oldalon közzétett közlemény útján tájékoztatja.
+
+#### 38. §
+
+(1) Az elektronikus úton küldött dokumentum előterjesztésének időpontja a dokumentum elküldésének napja.
+
+(2) A postai úton küldött dokumentum előterjesztésének időpontja a postára adás napja.
+
+#### 39. §
+
+(1) A határidő elmulasztása vagy a késedelem jogkövetkezményei a határidő utolsó napjának elteltével állnak be.
+
+(2) A határidőt kétség esetén megtartottnak kell tekinteni.
+
+## IV. Fejezet — A FELHÍVÁS
+
+### 10. A felhívás elkészítése
+
+#### 40. §
+
+Az irányító hatóság elkészíti a felhívás, a támogatói okirat sablonját, valamint az általános szerződési feltételeket.
+
+#### 41. §
+
+Az irányító hatóság a felhívástervezetet a közreműködő szervezet bevonásával készíti el, és együttműködik az európai uniós források felhasználásáért felelős miniszter által irányított szervekkel, azok észrevételeit beépíti a felhívás tervezésébe.
+
+#### 42. §
+
+(1) Az irányító hatóság biztosítja a felhívásnak a programhoz való illeszkedését, továbbá az elszámolhatósági, a költséghatékonysági, az adminisztratív terhek csökkentésére irányuló szempontok érvényesítését.
+
+(2) A felhívástervezet elkészítésekor figyelemmel kell lenni arra, hogy
+
+a) összhangban legyen a hazai és uniós jogszabályokkal,
+
+b) összhangban legyen az állami támogatási szabályokkal,
+
+c) összhangban legyen az adott program, illetve más program kapcsolódó felhívásával,
+
+d) a támogatási kérelemben – a támogatást igénylő azonosításához szükséges adatokon túl – csak olyan információ kérhető, amely alapján a projekt értékelésre kerül,
+
+e) a támogatási kérelemhez a támogatást igénylő megfelelősége, alkalmassága és a projekt megfelelősége alátámasztásához szükséges, legfeljebb tíz melléklet benyújtása írható elő, és
+
+f) a támogatási kérelem benyújtása során a nyilatkozatot minősített tanúsítványon alapuló, legalább fokozott biztonságú elektronikus aláírással vagy – a felhívásban meghatározott – azonosításra visszavezetett dokumentumhitelesítés szolgáltatással kell hitelesíteni.
+
+#### 43. §
+
+(1) Az irányító hatóság a felhívásban értékelési szakaszokat, az értékelési szakaszok között szünetet határozhat meg.
+
+(2) A támogatási kérelem benyújtására nyitva álló határidőt úgy kell meghatározni, hogy arra a felhívás közzétételétől számítva legalább tíz nap álljon rendelkezésre.
+
+### 11. A felhívás meghirdetése
+
+#### 44. §
+
+(1) Az irányító hatóság a felhívástervezetet legalább ötnapos határidő biztosításával társadalmi egyeztetésre bocsátja a www.palyazat.gov.hu oldalon.
+
+(2) Az irányító hatóság a társadalmi egyeztetés során beérkezett véleményeket a www.palyazat.gov.hu oldalon tekintheti meg.
+
+(3) Az irányító hatóság a felhívástervezetet a beérkezett vélemények figyelembevételével véglegesíti, vagy – szükség esetén – a felhívástervezetet átdolgozza.
+
+#### 45. §[^21]
+
+(1) Az irányító hatóság a minőségbiztosítás lezárását követően a felhívást megjelenteti a www.palyazat.gov.hu oldalon.
+
+(2) A felhívás nem minősül az Ávr. 45. § (1) bekezdése szerinti kötelezettségvállalásnak.
+
+### 12. A felhívás módosítása
+
+#### 46. §
+
+(1) Az irányító hatóság szükség esetén módosítja a felhívást, és elkészíti az erről szóló közleményt.
+
+(2) Ha a módosított felhívás közzététele
+
+a) a támogatási kérelem benyújtásának első lehetséges napját megelőző öt napon belül történik, akkor a támogatási kérelem benyújtása legkorábban a módosított felhívás közzétételét követő ötödik napon lehetséges,
+
+b) a támogatási kérelem benyújtására nyitva álló időszakban történik, akkor a módosított felhívás közzétételét követő legalább öt napig biztosítani kell a támogatási kérelem benyújtásának lehetőségét.
+
+(3) A (2) bekezdés b) pontját nem kell alkalmazni, ha az irányító hatóság a felhívás módosítása során a támogatási kérelem benyújtását felfüggesztette vagy a felhívást lezárta.
+
+(4) Az irányító hatóság a 45. § (1) bekezdésében foglalt szervek részére a dokumentumokat megküldheti minőségbiztosítás céljából.
+
+#### 47. §
+
+(1) Az irányító hatóság a minőségbiztosítás lezárását követően a felhívást közzéteszi a www.palyazat.gov.hu oldalon.
+
+(2) A módosított felhívás közzététele során biztosítani kell, hogy a felhívás korábban közzétett dokumentumai – közzétételük időpontjával együtt – elérhetőek legyenek a www.palyazat.gov.hu oldalon.
+
+(3) Ha a felhívás módosítása esetén a kitöltőprogram módosítása is szükséges, a módosított felhívás csak a módosított kitöltőprogrammal együtt tehető közzé.
+
+### 13. A felhívás felfüggesztése vagy lezárása
+
+#### 48. §
+
+(1) Az irányító hatóság a támogatási kérelem benyújtására nyitva álló határidő vége előtt a felhívást felfüggesztheti vagy lezárhatja, ha
+
+a) a felhívás keretösszege kimerül vagy annak kimerülése előre jelezhető, vagy
+
+b) szakmailag indokolt.
+
+(2) Szakaszos elbírálás esetén az irányító hatóság a szakaszok közötti szünetben a felhívást felfüggesztheti vagy lezárhatja.
+
+(3) A benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének 130%-át, az irányító hatóság a benyújtás lehetőségét azonnal felfüggeszti vagy a felhívást azonnal lezárja, azzal, hogy az addig beérkezett támogatási kérelmek értékelését el kell végezni.
+
+(4) Az irányító hatóság a felhívás felfüggesztésére vagy lezárására irányuló döntéséről közleményt készít, és a www.palyazat.gov.hu oldalon közzéteszi.
+
+(5) A keret felhasználásáról és a felfüggesztés, illetve lezárás lehetőségéről a keretösszeg elérését megelőzően két alkalommal, annak 80%-ának és 100%-ának elérésekor, az irányító hatóság tájékoztatást nyújt a www.palyazat.gov.hu oldalon keresztül.
+
+#### 49. §
+
+(1) Az irányító hatóság indokolt esetben a felhívás felfüggesztését vagy lezárását megszüntetheti.
+
+(2) Az irányító hatóság az (1) bekezdés szerinti esetben új benyújtási határidőt határozhat meg.
+
+(3) Az irányító hatóság indokolt esetben a lejárt benyújtási határidejű, de le nem zárt felhívásokat új benyújtási határidő meghatározásával újranyithatja.
+
+## V. Fejezet — A TÁMOGATÁSI KÉRELEM BENYÚJTÁSA ÉS ELBÍRÁLÁSA
+
+### 14. A támogatási kérelem benyújtása
+
+#### 50. §
+
+(1) A támogatást igénylő az irányító hatósághoz benyújtott támogatási kérelemmel igényli a támogatást.
+
+(2) Az irányító hatóság a támogatást igénylőt a támogatási kérelem beérkezéséről értesíti.
+
+#### 51. §
+
+(1) Ha a felhívás nem zárja ki, támogatási kérelmet konzorcium is benyújthat.
+
+(2) A konzorcium tagja csak az lehet, aki a felhívásban meghatározott követelményeknek megfelel.
+
+(3) A konzorciumot az irányító hatósággal szemben a konzorciumi tagok által a konzorciumi szerződésben kijelölt tag képviseli.
+
+#### 52. §
+
+(1) A támogatást igénylő a támogatási kérelmét a támogatási döntés meghozataláig visszavonhatja.
+
+(2) Az irányító hatóság a támogatási kérelem visszavonását tudomásul veszi, és erről értesíti a támogatást igénylőt.
+
+### 15. A helyszíni szemle
+
+#### 53. §
+
+(1) Az irányító hatóság a támogatási szerződés hatálybalépését megelőzően helyszíni szemlét rendelhet el a támogatási kérelemben rögzített adatok ellenőrzése érdekében.
+
+(2) A helyszíni szemlét az irányító hatóság által megbízólevéllel megbízott legalább két fő végzi.
+
+(3) Ha a támogatást igénylő a helyszíni szemle lebonyolítását akadályozza, az irányító hatóság a támogatási kérelmet elutasíthatja.
+
+(4) A helyszíni szemlét végző a helyszíni szemléről jegyzőkönyvet készít.
+
+### 16. A támogatási kérelem jogosultsági ellenőrzése
+
+#### 54. §
+
+Az irányító hatóság szakaszos elbírálás esetén az egy szakaszra beérkezett támogatási kérelmek vonatkozásában folyamatosan elvégzi a felhívásban meghatározott jogosultsági szempontok szerint a támogatási kérelem jogosultsági ellenőrzését.
+
+#### 55. §
+
+(1) Ha a támogatási kérelem hiányos vagy hibás, és ezért nem felel meg a jogosultsági szempontoknak, de a hiba vagy hiányosság hiánypótlás keretében pótolható, az irányító hatóság egy alkalommal, legalább három, legfeljebb ötnapos határidő kitűzésével, az összes hiány vagy hiba megjelölésével hiánypótlásra hívja fel támogatást igénylőt.
+
+(2) Ha a támogatást igénylő nem nyújt be hiánypótlást, vagy a támogatási kérelem a hiánypótlást követően sem felel meg a jogosultsági szempontoknak, az irányító hatóság a támogatási kérelmet indokolt döntéssel elutasítja.
+
+(3) Az irányító hatóság a (2) bekezdés szerinti döntést megküldi a támogatást igénylő részére.
+
+#### 56. §
+
+Ha a támogatási kérelem megfelel a jogosultsági szempontoknak, az irányító hatóság erről tájékoztatja a támogatást igénylőt, és a támogatási kérelem tartalmi értékelését megkezdi.
+
+### 17. A támogatási kérelem tartalmi értékelése
+
+#### 57. §
+
+(1) A tartalmi értékelése során azt kell vizsgálni, hogy a határidőben benyújtott támogatási kérelem megfelel-e a felhívás céljainak és az abban előírt értékelési szempontoknak.
+
+(2) A támogatási kérelmet pontozással kell értékelni.
+
+(3) Az irányító hatóság a felhívásban foglaltak szerint legalább egy mérlegelést igénylő, valamint egy mérlegelést nem igénylő értékelési szempontot is alkalmaz.
+
+#### 58. §
+
+(1) Az irányító hatóság szakaszos elbírálást alkalmaz.
+
+(2) Az irányító hatóság a felhívásban rögzített szakasz zárását – de legkésőbb az adott szakaszban beérkezett támogatási kérelmek jogosultsági ellenőrzését – követően bocsátja tartalmi értékelésre a támogatási kérelmeket, és az egy szakaszban beérkezett támogatási kérelmekről az értékelés során elért pontszám sorrendjében hoz támogatási döntést.
+
+#### 59. §
+
+Az irányító hatóság olyan értékelési szempontokat alkalmaz, amelyek
+
+a) biztosítják a támogatásra legalkalmasabb projektek kiválasztását,
+
+b) biztosítják a költséghatékonysági, fenntarthatósági és eredményességi szempontból magas minőségű projektek kiválasztását,
+
+c) olyan projektek kiválasztását teszik lehetővé, amelyek közvetlenül hozzájárulnak az érintett egyedi célkitűzés specifikus céljaihoz,
+
+d) biztosítják az állami támogatási szabályoknak való megfelelést, és
+
+e) kiterjednek a támogatást igénylő korábbi projektjeivel kapcsolatban a monitoring és információs rendszerben rendelkezésre álló információk – így különösen a pénzügyi korrekciót eredményezett szabálytalanságok – vizsgálatára.
+
+#### 60. §
+
+(1) A tartalmi értékelést az irányító hatóság és a közreműködő szervezet munkatársai végzik.
+
+(2) Az értékelőt az adott szerv kijelölt vezetője rendeli hozzá a támogatási kérelemhez.
+
+#### 61. §
+
+A támogatási kérelem tartalmi értékelését végző értékelők számát az irányító hatóság meghatározhatja.
+
+#### 62. §
+
+(1) Az irányító hatóság az értékelés elvégzéséhez szükséges dokumentumok és információk rendelkezésre bocsátásával, képzések szervezésével felkészíti az értékelőt az értékelés elvégzésére.
+
+(2) Az értékelő az értékelésre vonatkozóan nem utasítható.
+
+(3) Az értékelő az általa megismert, jogszabály által védett titkot megőrzi. A titoktartási kötelezettség nem terjed ki a támogatási kérelem projektkiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
+
+#### 63. §
+
+(1) Ha a támogatási kérelemben szereplő információ nem egyértelmű vagy ellentmondást tartalmaz, az értékelő egy alkalommal legalább három, legfeljebb nyolcnapos határidő kitűzésével, az összes hiány vagy hiba megjelölésével tisztázó kérdésre hívja fel támogatást igénylőt.
+
+(2) Az irányító hatóság a határidőt egy alkalommal, legfeljebb öt nappal meghosszabbíthatja.
+
+(3) Az értékelő a támogatási kérelmet a benyújtott tartalom alapján értékeli, ha a hiánypótlásra határidőben nem érkezik válasz.
+
+#### 64. §
+
+(1) Ha a támogatási kérelemben szereplő projekt összetett jellege indokolja és erre a felhívás lehetőséget ad, az irányító hatóság szóbeli egyeztetési lehetőséget biztosíthat a támogatást igénylő részére.
+
+(2) Az irányító hatóság a szóbeli egyeztetésről emlékeztetőt készít.
+
+#### 65. §
+
+(1) Ha a támogatást igénylő a támogatási kérelmet a felhívás módosítása előtti feltételekkel nyújtotta be, a felhívás módosítása miatt nem kerülhet kedvezőtlenebb helyzetbe azzal szemben, aki a támogatási kérelmet a módosított feltételeknek megfelelően nyújtotta be.
+
+(2) Ha a felhívás módosítása miatt a módosítás előtti feltételekkel benyújtott támogatási kérelem nem értékelhető, az irányító hatóság hiánypótlást küld a támogatást igénylő részére.
+
+#### 66. §
+
+Az értékelő a támogatási kérelem tartalmi értékelése során értékelőlapot tölt ki.
+
+#### 67. §
+
+(1) Az irányító hatóság az értékelt támogatási kérelmeket az értékelőlapon meghatározott összpontszám – több értékelő esetén az értékelőlapokon meghatározott összpontszám átlaga – alapján, összesített értékelőtáblázatban sorba rendezi.
+
+(2) Ha a támogatást igénylő a támogatási kérelemben valótlan adatot közölt vagy valótlan tartalmú nyilatkozatot tett – a nyilvánvaló hiba kivételével –, a támogatási kérelem nem támogatható.
+
+#### 68. §
+
+(1) Az irányító hatóság a támogatási kérelem újraértékelését rendeli el, ha
+
+a) a két értékelő által elkészített értékelések eredménye vagy a javasolt pontszám közötti különbség meghaladja a magasabb pontszám 30%-át, vagy
+
+b) olyan körülmények állnak fenn, amelyek érdemben befolyásolhatták a kérelem objektív elbírálását.
+
+(2) Az irányító hatóság nem rendeli el az újraértékelést, ha az értékelők által adott pontszámok nem érik el a támogathatósághoz a felhívásban meghatározott minimális pontszámot.
+
+### 18. A döntés-előkészítő bizottság
+
+#### 69. §
+
+(1) Az irányító hatóság döntés-előkészítő bizottságot hív össze a támogatási döntés megalapozása érdekében.
+
+(2) A döntés-előkészítő bizottság az irányító hatóság és a közreműködő szervezet által delegált tagokból áll.
+
+(3) A döntés-előkészítő bizottság tagjainak száma legalább négy főnek kell lennie, melyből két főt az irányító hatóságnak, két főt a közreműködő szervezetnek kell delegálnia.
+
+#### 70. §
+
+(1) A döntés-előkészítő bizottság összehívását, működését, tagjait az irányító hatóság által kiadott ügyrendben kell meghatározni.
+
+(2) A döntés-előkészítő bizottság döntési javaslatot készít.
+
+### 19. A támogatási döntés
+
+#### 71. §
+
+(1)[^22] A támogatási kérelemről a miniszter megbízásából az irányító hatóságot irányító helyettes államtitkár a döntés-előkészítő bizottság döntési javaslata alapján dönt.
+
+(2) A támogatási döntés kötelezettségvállalásnak minősül.
+
+(3) A kötelezettségvállalás az irányító hatóság fizetési kötelezettség vállalására irányuló írásbeli intézkedése. A kötelezettségvállalás feltétele, hogy a rendelkezésre álló keretösszeg és annak felhasználási ütemezése a monitoring és információs rendszerben rögzített legyen.
+
+(4) Az irányító hatóság módosítja a kötelezettségvállalást a monitoring és információs rendszerben, ha valamely
+
+a) támogatásban részesített támogatást igénylővel nem jön létre támogatási jogviszony, vagy
+
+b) kedvezményezett részére megítélt támogatási összeg változik.
+
+(5)[^23] Az irányító hatóság nem hoz támogatói döntést, ha a döntés alapján létrejövő támogatási jogviszony teljesíthetetlen feltételeket róna a támogatóra vagy a kedvezményezettre, különös tekintettel
+
+a) a 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet 3. cikk 1. pontja szerinti, az Európai Unió felé történő elszámolást meghatározó 2020. január 1-jétől 2023. december 31-ig tartó referencia időszakra,
+
+b) a pénzügyi hozzájárulás iránti kérelmek benyújtásának 2024. szeptember 30-i határidejére.
+
+#### 72. §
+
+(1) A támogatási kérelem adatait a támogatáshalmozódás vizsgálata céljából meg kell küldeni a kincstár által működtetett monitoring rendszer részére.
+
+(2) Az irányító hatóság a támogatáshalmozódás vizsgálatát
+
+a) a kincstár által nyilvántartott adatok,
+
+b) a támogatást igénylőnek a támogatási kérelem benyújtását megelőzően megítélt, valamint az igényelt csekély összegű (de minimis) támogatásról szóló nyilatkozata, valamint
+
+c) a monitoring és információs rendszerben rögzített adatok
+
+alapján végzi el.
+
+(3) Ha a (2) bekezdés szerinti adatok között eltérés van, a támogatást igénylővel hiánypótlás, illetve tisztázó kérdés keretében tisztázni kell az eltérés okát.
+
+(4) A támogatást igénylő részére megítélhető támogatás összege a csekély összegű (de minimis) támogatásra, valamint a monitoring és információs rendszerben rögzített támogatási kategóriákra vonatkozó támogatáshalmozódási határértékeket nem lépheti túl.
+
+#### 73. §
+
+(1) Az irányító hatóság a támogatási kérelemről a felhívásban rögzített szakasz zárásától számított hatvan napon belül dönt.
+
+(2) Döntés-előkészítő bizottság esetén az (1) bekezdés szerinti határidő tíz nappal meghosszabbodhat.
+
+(3) Az irányító hatóság az (1) bekezdés szerinti határidőt egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja, ha a támogatási kérelmek száma meghaladja a tervezettet.
+
+(4) A döntési határidőbe nem számít bele
+
+a) a hiánypótlás időtartama,
+
+b) a tisztázó kérdés megválaszolására rendelkezésre álló időtartam,
+
+c) a kifogás elbírálására irányuló eljárás-időtartam.
+
+#### 74. §
+
+(1) Az irányító hatóság a támogatási döntést részletesen indokolja, ha a projektet
+
+a) csökkentett elszámolható összköltséggel, támogatási összeggel vagy támogatási intenzitással támogatja,
+
+b) feltétellel támogatja,
+
+c) újraértékelésre javasolja,
+
+d) elutasítja, vagy
+
+e) az összesített értékelő táblázatban vagy döntés-előkészítő bizottság esetén a döntési javaslatban szereplő javaslat ellenére támogatja.
+
+(2) Az (1) bekezdés b) pontja szerinti esetben a támogatási döntésben meg kell határozni a teljesítendő feltételeket és az azok teljesítésére nyitva álló határidőt.
+
+#### 75. §
+
+(1) Az újraértékelést egy értékelő végzi.
+
+(2) A támogatási kérelem újraértékelése nem késleltetheti az összesített értékelő táblázatban vagy – döntés-előkészítő bizottság összehívása esetén – a döntési javaslatban szereplő támogatási kérelmekkel kapcsolatos döntéshozatalt.
+
+(3) Az irányító hatóság a kifogásnak helyt adó döntés alapján lefolytatott újraértékelés során a támogatási kérelemről a kifogásnak helyt adó döntéstől számított harminc napon belül dönt.
+
+#### 76. §
+
+(1)[^24] Az irányító hatóság a forráshiány miatt elutasított támogatási kérelmekből tartaléklistát képezhet.
+
+(2)[^25] Ha a felhívás keretében további támogatás megítélésére nyílik lehetőség, elsődlegesen a tartaléklistán szereplő támogatási kérelmek kaphatnak támogatást.
+
+(3)[^26] Az irányító hatóság a tartaléklistát megszünteti, ha
+
+a) a felhívás vonatkozásában nincs lehetőség további támogatás megítélésére, vagy
+
+b) a tartaléklista elkészítésétől számított tizenkét hónap eltelt.
+
+(4)[^27] Az irányító hatóság a tartaléklista megszüntetéséről haladéktalanul értesíti a tartaléklistán szereplő támogatást igénylőket.
+
+#### 77. §
+
+(1) Az irányító hatóság a kedvezményezettel polgári jogi támogatási szerződést köt. A támogatási szerződésre vonatkozó szabályokat kell megfelelően alkalmazni akkor, ha a támogatási jogviszony az irányító hatóság által kibocsátott támogatói okirattal jön létre.
+
+(2) Támogatói okirat alkalmazásáról az irányító hatóság a felhívásban dönt.
+
+(3) Támogatói okirat alkalmazása esetén a támogatási döntés és a támogatói okirat hatálybalépése között a projekttartalom változása nem kezdeményezhető.
+
+#### 78. §
+
+(1) Nem köthető támogatási szerződés azzal, aki
+
+a) a támogatási döntés tartalmát érdemben befolyásoló valótlan vagy megtévesztő adatot szolgáltatott vagy ilyen nyilatkozatot tett,
+
+b) jogerős végzéssel elrendelt kényszertörlési, felszámolási, csőd-, végelszámolási vagy egyéb – a jogutód nélküli megszüntetésére irányuló, jogszabályban meghatározott – eljárás alatt áll,
+
+c) a támogatási szerződés megkötésének feltételeként meghatározott nyilatkozatot nem teszi meg, dokumentumot nem nyújtja be vagy ezek valamelyikét visszavonja,
+
+d)[^28] nem felel meg az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdése és 50/B. §-a szerinti követelményeknek,
+
+e) mesterségesen teremtette meg a támogatási jogosultság megszerzéséhez szükséges körülményeket azzal a céllal, hogy a támogatási rendszer céljaival ellentétesen előnyhöz jusson.
+
+(2) Az irányító hatóság az (1) bekezdés szerinti esetben a támogatási döntést visszavonja.
+
+#### 79. §
+
+(1) Az irányító hatóság az aláírt támogatói okirat megküldésével tájékoztatja a támogatást igénylőt a támogatási döntésről.
+
+(2) A támogatást igénylő a támogatási kérelme értékelését a támogatási döntésről szóló tájékoztatás kézhezvételét követően megtekintheti.
+
+## VI. Fejezet — A TÁMOGATÁSI JOGVISZONY
+
+### 20. A biztosíték
+
+#### 80. §
+
+(1) A támogatási szerződésben biztosítékot kell kikötni.
+
+(2) A biztosítékról szóló dokumentumnak tartalmaznia kell a projekt azonosító számát, címét, valamint a biztosíték értékét.
+
+(3) Ha a biztosíték a vonatkozó jogszabályok szerint valamely nyilvántartásba való bejegyzéssel jön létre, a bejegyzés a támogatás folyósításának feltétele.
+
+#### 81. §
+
+A biztosíték a felhívás szerint lehet
+
+a) hitelintézet vagy biztosító által kibocsátott garanciavállaló nyilatkozat,
+
+b) ingatlan jelzálogjog,
+
+c) jogi személy készfizető kezessége,
+
+d) garanciaszervezet által vállalt kezesség,
+
+e) biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény,
+
+f) az Áht. 92. § (1) bekezdése szerinti állami kezesség,
+
+g) hitelintézet által kiállított – készfizető kezességvállalást tartalmazó – kötelezvény,
+
+h) fizetési számla követelésen alapított óvadék.
+
+#### 82. §
+
+(1) A biztosítéknak rendelkezésre kell állnia a fenntartási kötelezettség megszűnéséig.
+
+(2) A biztosíték a biztosítéknyújtási kötelezettséggel érintett időszaknál rövidebb lejárattal is rendelkezésre bocsátható, azzal, hogy a kedvezményezettnek legalább negyvenöt nappal a biztosíték érvényességének lejárata előtt igazolnia kell a biztosíték meghosszabbítását vagy cseréjét.
+
+#### 83. §
+
+A kedvezményezett számára a biztosítékcserét lehetővé kell tenni, ha az új biztosíték értéke és végrehajthatósága megfelel a biztosítékokra vonatkozó feltételeknek.
+
+#### 84. §
+
+(1)[^29] A megvalósítási időszak alatt a biztosítéki értéknek fedeznie kell legalább a kifizetési kérelemben igényelt és a már kifizetett támogatás együttes összegét – a 122. § (3) bekezdése szerinti előleg összege kivételével.
+
+(2) A kedvezményezett a kifizetési kérelemben igényelt támogatási összegnek megfelelően megemelt biztosíték rendelkezésre állását legkésőbb a kifizetési kérelem benyújtásával egyidejűleg igazolja.
+
+(3) Ha a kedvezményezett a megemelt biztosíték rendelkezésre állását nem igazolja, a kifizetési kérelmet el kell utasítani. Ha a kedvezményezett a megemelt biztosíték rendelkezésre állását később igazolja, akkor az elutasított kifizetési kérelem ismételten benyújtható.
+
+(4) A záró kifizetési kérelemhez a biztosítéki értéket csak akkor kell kiegészíteni, ha az addig nyújtott biztosítéki érték nem éri el a kedvezményezett által a fenntartási időszakban nyújtandó biztosítéki értéket. Biztosíték legfeljebb a támogatás összegét elérő biztosítéki értékig kérhető.
+
+#### 85. §
+
+(1) Nem kell biztosítékot nyújtani az ötvenmillió forintot meg nem haladó támogatással megvalósuló projekt esetén a fenntartási időszakra.
+
+(2) Az ötvenmillió forintot meghaladó támogatással megvalósuló projekt esetén a fenntartási időszakra a kifizetett támogatás 50%-ának megfelelő értékű biztosítékot kell nyújtani.
+
+(3) A kifizetett támogatás 10%-ának megfelelő mértékű biztosítékot kell nyújtania a fenntartási időszakban annak a fenntartási időszakban egyébként biztosíték nyújtására köteles kedvezményezettnek, akinél a projekt megvalósítása során az irányító hatóság nem állapított meg szabálytalanságot.
+
+#### 86. §
+
+(1) Az ingatlan jelzálogszerződés az irányító hatóság és a kedvezményezett között jön létre.
+
+(2) Az ingatlan jelzálogszerződés csak magyarországi ingatlanra vonatkozhat és közjegyző által készített közokiratba kell foglalni.
+
+(3) Zálogjog alkalmazásánál első ranghelyű jelzálogjogot kell előírni. Második vagy további ranghelyre – akár ranghelycsere útján történő – bejegyzés akkor alkalmas elfogadásra, ha a korábbi ranghelyű bejegyzések teljesítése esetén a vagyontárgy értéke még fedezetet nyújt a támogatási összegre.
+
+(4) A kedvezményezett az ingatlan jelzálogszerződés megkötéséhez hatvan napnál nem régebbi értékbecslést nyújt be az irányító hatóság részére.
+
+(5) Ha a kedvezményezett a fejlesztés tárgyát képező ingatlant ajánlja fel biztosítékként, az ingatlannak az ingatlan jelzálogszerződés aláírásakor fennálló értékét kell figyelembe venni annak megállapítása során, hogy a felajánlott biztosíték eléri legalább a már folyósított és az igényelt támogatási összeg összértékét.
+
+(6) A biztosítékként felajánlott ingatlant a kedvezményezett csak az irányító hatóság engedélyével idegenítheti el vagy terhelheti meg.
+
+#### 87. §
+
+A kezes kizárólag közjegyzői okiratba foglalt készfizető kezességet vállalhat.
+
+#### 88. §
+
+(1) Mentes a biztosítéknyújtási kötelezettség alól
+
+a) a kedvezményezett, ha a támogatás nem haladja meg az ötven millió forintot, szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet,
+
+b)[^30] a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, és amelyet az állami adóhatóság az adózás rendjéről szóló 2017. évi CL. törvényben meghatározott feltételek alapján megbízhatónak minősített, és szerepel a megbízható adózói adatbázisban, valamint szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet,
+
+c)[^31] kérelemre az a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet, de nem szerepel a megbízható adózói adatbázisban.
+
+(2)[^32] Az (1) bekezdés c) pontja szerinti kérelmet az irányító hatósághoz kell benyújtani. A kérelmet az irányító hatóság az (1) bekezdés c) pontjában szereplő feltételektől függetlenül elutasíthatja. Az irányító hatóság döntését indokolja.
+
+#### 89. §
+
+(1) Ha a biztosíték mérsékelhető vagy megszüntethető, az irányító hatóság haladéktalanul kiadja az erre vonatkozó nyilatkozatot.
+
+(2) A biztosítéknyújtási kötelezettség megszűnése esetén a biztosíték megszüntetésének költsége a kedvezményezettet terheli.
+
+### 21. A támogatási szerződés módosítása
+
+#### 90. §
+
+(1) A kedvezményezett a támogatási kérelemben megadott brexitből eredő kár összegét kizárólag a projekt megvalósítása folyamán az extrapoláció összege esetében módosíthatja.
+
+(2) Az (1) bekezdés szerinti módosításból eredően, amennyiben a brexitből eredő kár összege
+
+a) csökken, akkor a 95. § (1) bekezdés f) pontja rendelkezései szerint kell eljárni,
+
+b) nő, akkor a támogatási döntésben meghatározott támogatási összegen felüli többlettámogatás igényelhető.
+
+(3) A támogatási összegen felüli többlettámogatási kérelem abban az esetben támogatható, amennyiben
+
+a) az nem haladja meg a támogatási döntésben meghatározott támogatási összeg 15%-át,
+
+b) szabad forrás áll rendelkezésre,
+
+c) az irányító hatóságot irányító helyettes államtitkár jóváhagyta, és
+
+d) műszaki-szakmai tartalombővítést eredményez, és megfelel a felhívás elvárásainak.
+
+(4) A projekt elszámolható összköltségének a többlettámogatás összegével növelt maximális összege nem haladhatja meg a támogatási szerződés módosítására irányuló kérelem benyújtását megelőző jóváhagyott (közgyűlés, taggyűlés, illetve a tulajdonosok által jóváhagyott), legutolsó lezárt, teljes üzleti évi éves beszámolója szerinti árbevételének kétszeresét.
+
+#### 91. §
+
+(1) A kedvezményezett bejelenti az irányító hatóság részére
+
+a) a projekt műszaki, szakmai tartalmát, költségvetését vagy az egyéb, jogosultsági szempontot vagy támogathatósági feltételt érintő változást a tudomására jutástól számított nyolc napon belül,
+
+b) az *a)* pontba nem tartozó adat változását legkésőbb a következő beszámolóval vagy fenntartási jelentéssel egyidejűleg.
+
+(2) A változás kezelését szolgáló intézkedést indokolt esetben az irányító hatóság bejelentés nélkül is megkezdheti.
+
+#### 92. §
+
+Ha a bejelentés hiányos vagy hibás, vagy az észlelés tisztázásához szükséges, az irányító hatóság egy alkalommal, legalább három, legfeljebb tizenöt napos határidővel hiánypótlásra hívja fel a kedvezményezettet.
+
+#### 93. §
+
+(1) Az irányító hatóság a változás bejelentését vagy észlelését követő harminc napon belül megteszi a szükséges intézkedést. Az irányító hatóság az intézkedést a bejelentés tartalmára és a projekt eredményes végrehajtására figyelemmel választja meg.
+
+(2) Ha a támogatási szerződés módosítása szükséges, az irányító hatóság az (1) bekezdés szerinti határidőt harminc nappal meghosszabbíthatja.
+
+(3) Az (1) és (2) bekezdés szerinti határidőbe a hiánypótlás teljesítésére rendelkezésre álló, valamint a 152. § (1) bekezdése szerinti időtartam nem számít bele.
+
+(4) Az irányító hatóság az intézkedésről haladéktalanul tájékoztatja a kedvezményezettet.
+
+#### 94. §
+
+A bejelentési kötelezettség fennállása mellett nem kell a támogatási szerződést módosítani, ha
+
+a) a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időponthoz képest legfeljebb kilencven napot késik,
+
+b) a projektszintű mérföldkövek elérése késik a hatályos támogatási szerződésben rögzített időponthoz képest, de a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időponthoz képest legfeljebb kilencven napot késik,
+
+c) a változás következtében a támogatási szerződésben rögzítetthez képest azonos vagy jobb műszaki, szakmai megoldás fog megvalósulni,
+
+d) a kedvezményezett egyszeri elszámolásról többszöri elszámolásra tér át,
+
+e) a változás a projekt műszaki, szakmai tartalmát, a támogathatóság feltételeit nem érinti, és nem jelent kockázatot a projekt eredményességére.
+
+#### 95. §
+
+(1) A támogatási szerződés módosítása
+
+a) akkor fogadható el, ha megfelel a felhívás céljának,
+
+b) akkor fogadható el, ha a támogatott tevékenység az így módosított feltételekkel is támogatható lett volna,
+
+c) nem irányulhat olyan szempontra, amely jogosultsági feltétel volt a támogatási kérelem elbírálása során, és a módosítást követően már nem teljesülne,
+
+d) nem változtathatja meg kedvezőtlen módon a támogatási kérelem elbírálásánál előnyt jelentő feltételeket, ha ennek következtében a projekt nem érte volna el a támogatásban részesüléshez szükséges legalacsonyabb pontszámot vagy az adott szempont vonatkozásában meghatározott belső korlátot,
+
+e) – a projekt célját elősegítő módosítás kivételével – nem fogadható el, ha az a projekt előkészítésekor előre látható, tervezhető körülmény miatt merült fel,
+
+f) a támogatás arányos csökkentésével hagyható jóvá, ha a támogatási szerződés tartalmát kedvezőtlenül érintő módosítási igény a kedvezményezettnek felróható okból merült fel,
+
+g) eredményeként a projekt fizikai befejezésének határideje csak indokolt esetben haladhatja meg a felhívásban rögzített végső határidőt, azzal, hogy a módosított határidő meghatározása során figyelemmel kell lenni a program zárásának időpontjára, valamint az elszámolhatósági szabályokra.
+
+(2) Vis maior esetén az irányító hatóság egyedileg dönt a módosítási igény jóváhagyásáról.
+
+#### 96. §
+
+(1) A projekt műszaki, szakmai tartalma akkor csökkenthető, ha
+
+a) a módosítás oka jogszabályváltozás, hatósági előírás, előre nem látható, a kedvezményezettnek fel nem róható esemény, vagy a projekt módosított műszaki, szakmai tartalma jogszabálynak, szerződésnek, szabványnak és rendeltetésszerű használatnak való megfelelőségét az igénybe vett, a jogszabály-, illetve szerződésszerű teljesítésért felelős személy vagy szervezet igazolja, és
+
+b) az elszámolható összköltség és a támogatás összege is arányosan csökkentésre kerül.
+
+(2) Ha a projekt műszaki, szakmai tartalmának módosítása jogerős hatósági engedély miatt válik szükségessé, annak megfelelőségét az irányító hatóság nem vizsgálja.
+
+(3) Ha a projekt elszámolható összköltsége változatlan műszaki, szakmai tartalom mellett csökken a tervezetthez képest, a támogatás összegét az elszámolható összköltség csökkenésének arányában csökkenteni kell. Az így keletkezett maradvány a projekten belüli költségátcsoportosításra felhasználható.
+
+#### 97. §
+
+(1) Nem minősül a projekt műszaki, szakmai tartalma csökkentésének, ha a projekt eredményessége szempontjából meghatározó tulajdonságának elérését szolgáló tevékenység megvalósítása során bekövetkezett költségnövekedés támogatása céljából valamely, nem a projekt alapvető célját jelentő tevékenység műszaki, szakmai tartalmának módosítására kerül sor.
+
+(2) Az (1) bekezdés szerinti módosításra akkor kerülhet sor, ha az irányító hatóság megítélése szerint
+
+a) a projekt céljai teljesülnek,
+
+b) a projekt műszaki, szakmai tartalmának módosítása nem érint értékelési szempontot.
+
+#### 98. §
+
+(1) A projekten belüli költségátcsoportosítás akkor lehetséges, ha a költségátcsoportosítás forrásául szolgáló költségtípuson megtakarítás keletkezett vagy projektszintű tartalék áll rendelkezésre.
+
+(2) A költségátcsoportosítás szükségességét igazolni kell.
+
+(3) A költségátcsoportosítás eredményeként a tevékenységenként meghatározott támogatási intenzitás nem változhat, az elszámolható költség és a támogatás összege nem nőhet.
+
+(4) Ha szabálytalanság miatt korrekció érvényesítésére kerül sor, a korrekció végrehajtását követően lehet a korrekcióval érintett költségtípusra átcsoportosítani, kivéve, ha a korrekció kifejezetten az adott költségtípusra irányult. Ha a korrekció a költségtípusra nem átalányjelleggel, hanem meghatározott költségtétel vonatkozásában került megállapításra, a korrekcióval érintett tétel csak a korrekció mértékét figyelembe véve elszámolható.
+
+#### 99. §
+
+(1) Átalakulás, egyesülés vagy szétválás esetén az új kedvezményezett akkor léphet be a támogatási jogviszonyba, ha megfelel a felhívásban foglalt feltételeknek, és ahhoz az irányító hatóság hozzájárul.
+
+(2) A projekt megvalósítását a kedvezményezett másra nem ruházhatja át.
+
+(3) Az irányító hatóság az új kedvezményezett támogatási jogviszonyba való belépésével egyidejűleg elvégzi az érintett projekt támogatási szerződésének pénzügyi rendezését.
+
+### 22. A támogatási jogviszony megszűnése, megszüntetése
+
+#### 100. §
+
+(1) A támogatási szerződés a teljesítést megelőzően – ideértve az ellenőrzéstűrési és a dokumentummegőrzési kötelezettséget is – csak elállás, felbontás, vis maior, lehetetlenülés, bírósági határozat esetében szűnik meg.
+
+(2) Az irányító hatóság a Ptk.-ban és a támogatási szerződésben meghatározott esetben jogosult a támogatási szerződéstől elállni.
+
+(3) Ha a projekt egy vagy több, a felhívásban meghatározott, önállóan támogatható eleme már megvalósult, az irányító hatóság a támogatási szerződés módosításával kezdeményezheti a projekt műszaki, szakmai tartalmának módosítását, a meg nem valósult projektelem vonatkozásában a támogatási jogviszony közös megegyezéssel történő megszüntetését.
+
+(4) Ha a támogatási szerződéstől a kedvezményezett áll el, az irányító hatóság az elállás kézhezvételét követő tizenöt napon belül tájékoztatja a kedvezményezettet az elállás tudomásulvételéről és annak következményeiről.
+
+(5) Az elállás időpontja az elállásról szóló értesítés kézhezvételének napja.
+
+## VII. Fejezet — A PÉNZÜGYI LEBONYOLÍTÁS
+
+### 23. A központi kezelésű előirányzat felhasználásának hatásköri szabályai
+
+#### 101. §
+
+A BAR központi kezelésű előirányzat támogatási keret vonatkozásában:
+
+a) *kötelezettségvállaló:* a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt, a fejezetet irányító szerv alkalmazásában álló személy,
+
+b) *pénzügyi ellenjegyző:* a közreműködő szervezet gazdálkodási feladatait ellátó szervezeti egységének vezetője vagy az általa írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
+
+c) *teljesítésigazoló:* a közreműködő szervezet vezetője vagy az általa írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
+
+d) *érvényesítő:* a közreműködő szervezet gazdálkodási feladatait ellátó szervezeti egységének vezetője vagy az általa írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
+
+e) *utalványozó:* a közreműködő szervezet vezetője vagy az általa írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy,
+
+f) *szakmai ellenjegyző:* a közreműködő szervezet vezetője vagy az általa írásban kijelölt, a közreműködő szervezet alkalmazásában álló személy.
+
+#### 102. §
+
+A kötelezettségvállalás pénzügyi ellenjegyzése – az Ávr. 55. § (1) bekezdésében foglaltaktól eltérően – a monitoring és információs rendszeren keresztül történik.
+
+### 24. Alapelvek
+
+#### 103. §
+
+A projekt megvalósítása során azon költségek számolhatóak el, amelyek a kedvezményezettnél ténylegesen felmerültek, teljesítettek, és jogalapjuk, teljesítésük igazolható (a továbbiakban: valósköltség-alapú elszámolás).
+
+#### 104. §
+
+(1) A költségtétel egységára nem haladhatja meg a szokásos piaci árat.
+
+(2) A szokásos piaci árat a kedvezményezettnek kell a felhívásban előírt módon alátámasztania.
+
+#### 105. §
+
+A projekt támogatásban részesülhet más uniós vagy hazai forrásból, ha a támogatás nem ugyanazokat a költségeket fedezi, és a felhívás ezt lehetővé teszi.
+
+### 25. Hiánypótlás, tisztázó kérdés a pénzügyi lebonyolítás során
+
+#### 106. §
+
+(1) Ha a kedvezményezett által benyújtott előleg igénylésére irányuló kérelem, időközi kifizetési kérelem, záró kifizetési kérelem vagy beszámoló (ezen alcím alkalmazásában a továbbiakban együtt: dokumentum) hiányos vagy hibás, az irányító hatóság határidő kitűzésével, valamennyi hiány, illetve hiba megjelölésével hiánypótlásra hívja fel a kedvezményezettet.
+
+(2) Hiánypótlásra egy alkalommal kerülhet sor.
+
+#### 107. §
+
+(1) Ha a kedvezményezett által benyújtott dokumentum a hiánypótlást követően ellentmondást tartalmaz, az irányító hatóság legfeljebb háromnapos határidő kitűzésével az ellentmondás feloldását kéri a kedvezményezettől tisztázó kérdés keretében.
+
+(2) Tisztázó kérdésre egy alkalommal kerülhet sor.
+
+#### 108. §
+
+(1) Ha a kedvezményezett a hiánypótlást hibásan vagy hiányosan nyújtja be, az ellentmondást tisztázó kérdés keretében nem oldja fel, vagy a határidőt elmulasztja, az irányító hatóság a rendelkezésére álló információk alapján dönt.
+
+(2) Ha az irányító hatóság a kedvezményezett által benyújtott dokumentumot az (1) bekezdés alapján elutasítja, a kedvezményezett új dokumentumot nyújthat be.
+
+### 26. Az elszámolható költségek
+
+#### 109. §
+
+(1) Az irányító hatóság a támogatás kifizetését – az előleg kivételével – a kedvezményezettnél a valósköltség-alapú elszámolás elve alapján, a felhívásban meghatározott elszámolható költségek vonatkozásában teljesíti.
+
+(2) Az elszámolható költségekről szóló, az irányító hatóság által készített útmutató a felhívás mellékletét képezi. A felhívásban az elszámolható költségek köre szűkíthető az útmutatóban foglaltakhoz képest. Az irányító hatóság a felhívásban az elszámolható költségekre korlátokat határozhat meg.
+
+(3) Ha a felhívás vagy a támogatási szerződés nem zárja ki, szóbeli megállapodás alapján bruttó kétszázezer forintot meg nem haladó összegű megrendelés esetén kerülhet sor a költség elszámolására.
+
+(4) A kedvezményezett nem számolhat el olyan, készpénzben kiegyenlített bizonylatot, amelynek az ellenértéke meghaladja az irányító hatóság által a felhívásban meghatározott összeget, de legfeljebb a másfél millió forintot.
+
+#### 110. §
+
+(1) A projekt keretében valósköltség-alapon
+
+a) ingatlanvásárlásra az összes elszámolható költség legfeljebb 3%-a,
+
+b) terület-előkészítésre az összes elszámolható költség legfeljebb 1%-a,
+
+c) műszaki ellenőri szolgáltatásra az összes elszámolható költség legfeljebb 1%-a
+
+számolható el.
+
+(2) Az irányító hatóság az (1) bekezdés szerinti százalékos mértékeket szűkítheti a felhívás céljának figyelembevételével.
+
+### 27. Az egyszerűsített elszámolás
+
+#### 111. §
+
+(1) Közvetett költségek – ideértve különösen a kötelezően előírt nyilvánosság, projektmenedzsment, könyvvizsgálat, általános (rezsi-)költségek – a projektek költségvetésében nem tervezhetőek.
+
+(2) Az (1) bekezdés szerinti költségekre a felhívásban rögzített százalékos átalány alapján történő elszámolást kell alkalmazni.
+
+(3) A (2) bekezdés szerinti százalékos átalány kizárólag a közvetlen költségekre vonatkozóan képezhet vetítési alapot.
+
+#### 112. §
+
+(1)[^33] A kedvezményezettnek az átalány alapján elszámolt költségeket alátámasztó dokumentumokat nem kell benyújtania az irányító hatóságnak, az irányító hatóság azokat helyszíni ellenőrzés keretében sem ellenőrizheti.
+
+(2) A kedvezményezett az irányító hatóság kérésére benyújtja az átalány alapján elszámolt költségtétel eredményét alátámasztó dokumentumokat.
+
+### 28. Tartalék
+
+#### 113. §
+
+(1) A tartalék az elvárható gondos tervezés alapján előre nem látható, de elszámolható költség fedezetére szolgál.
+
+(2) Az (1) bekezdéstől eltérően a tartalék felhasználható akkor is, ha a projekt alapvető céljainak teljesülését elősegítő, észszerűsítést célzó módosítások miatt pótlólagos műszaki, szakmai tartalom megvalósítása válik szükségessé.
+
+#### 114. §
+
+Az irányító hatóság a tartalék lehetséges legmagasabb arányát a felhívásban határozza meg, azzal, hogy az nem haladhatja meg a projekt összes elszámolható költségének 5%-át.
+
+#### 115. §
+
+(1) A tartalék csak az irányító hatóság előzetes engedélyével, a projekt költségvetésén belüli átcsoportosítással használható fel. Az átcsoportosítást követően igényelhető a tartalékra eső előleg, és számolható el a tartalékra költség.
+
+(2) Az (1) bekezdés szerinti átcsoportosítás előtt a tartalék összege vetítési alapnak számít a felhívásban, támogatási szerződésben meghatározott költségkorlátok esetén.
+
+(3) Az (1) bekezdés szerinti tartalék összegének terhére a 111. § (2) bekezdése szerinti százalékos átalány nem tervezhető.
+
+### 29. Az előlegre vonatkozó általános szabályok
+
+#### 116. §
+
+(1) A kedvezményezett az előleg kifizetését előleg igénylésére irányuló kérelemmel igényelheti.
+
+(2) Az előleg igénylésére irányuló kérelem vonatkozásában
+
+a) a hiánypótlási felhívást az előleg igénylésére irányuló kérelem beérkezésétől számított három napon belül, legfeljebb ötnapos határidő kitűzésével kell megküldeni a kedvezményezett részére,
+
+b) tisztázó kérdés nem tehető fel.
+
+#### 117. §
+
+Az irányító hatóság akkor fizethet előleget, ha
+
+a) a felhívás és a támogatási szerződés lehetőséget biztosít a kedvezményezett részére az előleg igénylésére,
+
+b) a kedvezményezett rendelkezik hatályos támogatási szerződéssel,
+
+c) a biztosítéknyújtásra kötelezett kedvezményezett legkésőbb az előleg igénylésére irányuló kérelem benyújtásáig igazolja a szükséges mértékű biztosíték rendelkezésre állását,
+
+d) az előleg igénylésére irányuló kérelem és az azzal összefüggő dokumentáció tartalmi szempontból megfelelő, és
+
+e) a kedvezményezett még nem nyújtott be záró kifizetési kérelmet.
+
+#### 118. §
+
+Az irányító hatóság az előleget az előleg igénylésére irányuló kérelem beérkezésétől számított tizenöt napon belül kifizeti, ha a kérelem ellenőrzése során nem merült fel olyan ok, amely miatt a kifizetést fel kellene függeszteni.
+
+#### 119. §
+
+Az előleg felhasználására és az előleggel való elszámolásra vonatkozó szabályokat a felhívásban, illetve a támogatási szerződésben rögzíteni kell.
+
+### 30. A támogatási előleg
+
+#### 120. §
+
+(1) Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges összegben nyújtható a kedvezményezett részére.
+
+(2) A támogatási előleg mértékét, összegét a támogatási szerződésben rögzíteni kell, amelyet a kifizetett támogatási előleg nem haladhat meg.
+
+(3) Támogatási előleg csak a támogatási szerződésben utófinanszírozásúként rögzített elszámolható költség vonatkozásában igényelhető.
+
+(4) Egyszeri elszámolás esetén támogatási előleg kizárólag akkor igényelhető, ha projekt fizikai befejezése nem haladja meg a 12 hónapot.
+
+#### 121. §
+
+A támogatási előleg mértéke a megítélt támogatás összegének legfeljebb 50%-a, azzal, hogy mikro-, kis- és középvállalkozás, nagyvállalat esetén legfeljebb ötszázmillió forint.
+
+#### 122. §
+
+(1) A támogatási előleg igénylésére és kifizetésére több részletben is sor kerülhet.
+
+(2) A támogatási előleg részletekben történő kifizetésére akkor kerülhet sor, ha
+
+a) a kedvezményezett több részletben igényli a támogatási előleget, vagy
+
+b) a kedvezményezett egy összegben igényli a támogatási előleget, de az irányító hatóság a projekt költségei felmerülését mérlegelve a részletekben történő kifizetés mellett dönt.
+
+(3)[^34] A támogatási előleggel való részleges vagy teljes elszámolást követően az előleg a 121. § szerinti vagy a támogató rendelkezésére álló biztosítéki érték mértékéig, összegéig újra igényelhető, ha erre a felhívás vagy a támogatási szerződés lehetőséget biztosít.
+
+#### 123. §
+
+(1) A támogatási előleggel legkésőbb a záró kifizetési kérelemben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési kérelem keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság által elfogadott költség.
+
+(2) Az el nem számolt támogatási előleget a kedvezményezettől vissza kell követelni.
+
+(3)[^35] A kedvezményezett köteles visszafizetni a támogatási előleget, amennyiben az igényelhető támogatási előleg összege meghaladja az 50 millió forintot, és a kedvezményezett a támogatási előleg – vagy annak első részlete – kifizetésétől számított tizenkét hónapon belül legalább a kifizetett támogatási előleg legalább 30%-ával megegyező mértékű időközi kifizetési kérelmet vagy kérelmeket nem nyújt be, vagy az időközi kifizetési kérelem vagy más körülmény a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+
+#### 124. §
+
+A támogatási előlegből származó kamat nem minősül bevételnek, így annak az irányító hatóság felé történő elszámolása nem szükséges, annak összegével a támogatást nem kell csökkenteni.
+
+### 31. A szállítói előleg
+
+#### 125. §
+
+(1) Szállítói finanszírozás esetén a kedvezményezett a közte és a szállító közötti szerződés alapján a szállítói előleg elszámolható összegére jutó támogatásra nyújthat be előleg igénylésére irányuló kérelmet.
+
+(2) A szállítói előleg a kedvezményezett és a szállító közötti szerződésben foglalt – tartalékkeret nélküli – összegre igényelhető.
+
+(3) A kedvezményezett az előleg igénylésére irányuló kérelem benyújtása során igazolja az önerő kifizetését.
+
+(4) A szállítói előleg több részletben történő igénylése vagy kifizetése a kedvezményezett és a szállító közötti szerződéssel összhangban történhet.
+
+#### 126. §
+
+(1) Az irányító hatóság a szállítói előleget közvetlenül a szállító részére folyósítja.
+
+(2) A szállítói előleg kifizetésének feltétele, hogy a kedvezményezett és a szállító közötti aláírt szerződés az irányító hatóság rendelkezésére álljon.
+
+#### 127. §
+
+(1) A szállító – választása szerint –
+
+a) biztosítékot nyújt a közte és a kedvezményezett közötti szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő mértékben az irányító hatóság javára, vagy
+
+b) – a 238. § (2) bekezdésére figyelemmel – nem nyújt biztosítékot.
+
+(2) A szállító az (1) bekezdés a) pontja szerinti esetben a szállítói előleggel történő elszámolás elfogadásáig köteles fenntartani a biztosítékot. Ha a szállító a szállítói előleggel több részletben számol el, a biztosíték értéke arányosan csökkenthető a szállítói szerződéssel összhangban.
+
+(3) Az (1) bekezdés b) pontja nem alkalmazható a Magyarországon adószámmal nem rendelkező szállító esetén.
+
+#### 128. §
+
+(1) A szállító a szállítói előleg kifizetését követő nyolc napon belül megküldi az előlegszámlát a kedvezményezett részére.
+
+(2) A kedvezményezett az előlegszámlát annak beérkezését követő öt napon belül záradékolja, és megküldi az irányító hatóság részére.
+
+#### 129. §
+
+(1) Jogosulatlan a szállítói előleg igénybevétele különösen, ha
+
+a) a szállító, illetve a kedvezményezett az előlegszámlát a 128. § szerinti határidőben nem nyújtja be,
+
+b) a szállítói előleggel nem, vagy nem teljes mértékben számolnak el,
+
+c) a szállítói előleggel való elszámolást legkésőbb a szállítói szerződés szerinti ellenszolgáltatás elszámolható összege 50%-ának teljesítését követően nem kezdik meg.
+
+(2) A jogosulatlanul igénybe vett szállítói előleget vissza kell követelni.
+
+#### 130. §
+
+(1) Szállítói előleg jogosulatlan igénybevétele esetén a visszafizetési kötelezettséget a kedvezményezettel szemben kell előírni.
+
+(2) Ha a szállítói előleg jogosulatlan igénybevétele a szállítónak felróható, és a szállító nem nyújtott biztosítékot, a követelés behajthatatlansága esetén az irányító hatóság kezdeményezi az állami adóhatóságnál a szállító és a szállítóban többségi befolyással rendelkező szervezet adószámának törlését.
+
+#### 131. §
+
+(1) A szállítói előleggel való elszámolás rész- vagy végszámlával történik.
+
+(2) A szállítói előleg 50%-ával legkésőbb a szállítói szerződés szerinti ellenszolgáltatás elszámolható összege 50%-át meghaladó teljesítése esetén haladéktalanul el kell számolni.
+
+(3) A szállítói előleget vissza kell követelni, ha a kedvezményezett nem nyújt be kifizetési kérelmet a szállítói előleg – vagy annak első részlete – kifizetésétől számított tizenkét hónapon belül, vagy a kifizetési kérelem vagy más körülmény a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+
+#### 132. §
+
+(1) A szállítói előleg elszámolását az alvállalkozóknak járó ellenszolgáltatással és a fővállalkozónak járó ellenszolgáltatással szemben arányosan kell elvégezni.
+
+(2) A kifizetett szállítói előleg és a bizonylat alapján a szállítónak kifizetett támogatás együttesen nem haladhatja meg a szállítói szerződés szerinti ellenszolgáltatás elszámolható összegének támogatástartalmát.
+
+### 32. Az időközi kifizetési kérelem
+
+#### 133. §
+
+(1) A kedvezményezett a támogatás igénybevételét kifizetési kérelem benyújtásával kezdeményezheti.
+
+(2) A projekt megvalósítása során legalább egy kifizetési kérelmet be kell nyújtani, amelyben el kell számolni a projekt keretében felmerült költségekkel.
+
+(3) Ha a kedvezményezett a projekt megvalósítása során csak egy kifizetési kérelmet nyújt be, arra a záró kifizetési kérelem szabályait kell alkalmazni.
+
+#### 134. §
+
+(1) Utófinanszírozás esetén kifizetési kérelem akkor nyújtható be, ha az abban igényelt támogatás meghaladja a megítélt támogatás 10%-át.
+
+(2)[^36] Az irányító hatóság az (1) bekezdés szerinti mértéktől a felhívásban vagy a támogatási szerződésben eltérhet.
+
+(3) Ha a projekt támogatása meghaladja a száz millió forintot, utófinanszírozás esetén kifizetési kérelem akkor nyújtható be, ha az abban igényelt támogatás meghaladja a támogatási szerződésben meghatározott legkisebb kifizethető összeget.
+
+#### 135. §
+
+(1) Az irányító hatóság a felhívásban vagy a támogatási szerződésben előírhatja, hogy valamely utófinanszírozással érintett költségtípust összesítőn kell elszámolni.
+
+(2) Az összesítőben szereplő költségek alátámasztó dokumentumait nem kell benyújtani.
+
+(3)[^37] Az összesítőben szereplő költségeket igazoló dokumentumokat a 148. § szerinti beszámoló keretében, a 270. § alapján kell ellenőrizni.
+
+#### 136. §
+
+Az irányító hatóság elvégzi a kifizetési kérelem és az alátámasztó dokumentumok teljes körű ellenőrzését.
+
+#### 137. §
+
+Az irányító hatóság a kifizetési kérelmet és az alátámasztó dokumentumokat a vonatkozó jogszabályok, a felhívás és a támogatási szerződésben foglalt elszámolhatósági szabályok szerint, ellenőrzőlista alapján ellenőrzi.
+
+#### 138. §
+
+Ha a támogatási kérelem benyújtása óta a kedvezményezett átláthatósági feltételeit képező adataiban változás állt be, az irányító hatóság a kifizetési kérelem ellenőrzésével egyidejűleg ellenőrzi, hogy a kedvezményezett átlátható szervezetnek minősül-e.
+
+#### 139. §
+
+Az időközi kifizetési kérelem vonatkozásában a hiánypótlási felhívást az időközi kifizetési kérelem beérkezésétől számított harminc – szállítói finanszírozás esetén tizenöt – napon belül, legfeljebb tizenöt napos határidő kitűzésével kell megküldeni a kedvezményezett részére.
+
+#### 140. §
+
+(1) Az irányító hatóság utófinanszírozás esetén az időközi kifizetési kérelem beérkezésétől számított negyvenöt napon, szállítói finanszírozás esetén harminc napon belül dönt az időközi kifizetési kérelemről.
+
+(2) Az időközi kifizetési kérelmet vagy annak egy részét el kell utasítani, ha az nem felel meg valamely ellenőrzési szempontnak.
+
+(3) Ha az időközi kifizetési kérelem részben megfelelő, és az időközi kifizetési kérelemmel kapcsolatban kizárólag egyes elszámoló bizonylatok tekintetében szükséges hiánypótlás elrendelése, az irányító hatóság a hiánypótlással nem érintett elszámoló bizonylatok támogatástartalmát kifizeti.
+
+(4) Az irányító hatóság tájékoztatja a kedvezményezettet az (1) bekezdés szerinti döntéséről, valamint – az időközi kifizetési kérelem vagy annak egy része elutasítása esetén – annak indokáról.
+
+(5) A kedvezményezett az elutasított bizonylatra jutó támogatást új időközi kifizetési kérelem benyújtásával igényelheti, ha a korábbi elutasítási indok ezt lehetővé teszi.
+
+### 33. A záró kifizetési kérelem
+
+#### 141. §
+
+(1) A kedvezményezett a támogatási szerződésben meghatározott határidőben záró kifizetési kérelmet nyújt be. A kedvezményezett a projekt pénzügyi befejezését követően a záró kifizetési kérelemben elszámol a projekttel összefüggésben felmerült, korábban el nem számolt költségekkel.
+
+(2) A záró kifizetési kérelmet akkor is be kell nyújtani, ha a kedvezményezett a korábbi kifizetési kérelmek keretében már elszámolt a teljes támogatással.
+
+(3) A záró kifizetési kérelemben – ha korábban nem történt meg – az előleggel el kell számolni.
+
+#### 142. §
+
+(1) A kedvezményezett a záró kifizetési kérelemhez mellékeli a támogatási szerződésben előírt alátámasztó dokumentumokat, ha azokat korábban nem nyújtotta be az irányító hatóság részére, vagy azokat az irányító hatóság nem fogadta el.
+
+(2) Ha a kedvezményezett egyszeri elszámoló, az önerő rendelkezésre állását igazoló dokumentumokat nem kell mellékelni a záró kifizetési kérelemhez.
+
+(3) A záró kifizetési kérelemben a kedvezményezett nyilatkozik arról, hogy a záró kifizetési kérelem benyújtását követően a fel nem használt támogatásról lemond.
+
+#### 143. §
+
+(1) Az irányító hatóság a záró kifizetési kérelmet és az alátámasztó dokumentumokat az időközi kifizetési kérelem ellenőrzésére vonatkozó szabályok szerint ellenőrzi, azzal, hogy az ellenőrzésnek ki kell terjednie a támogatási szerződésben meghatározott támogatási intenzitás ellenőrzésére is.
+
+(2) Ha a projekt a támogatási szerződésben foglaltakhoz képest csökkentett műszaki, szakmai tartalommal valósul meg, a záró kifizetési kérelem ellenőrzése során vizsgálni kell az elszámolható költségek vonatkozásában meghatározott korlátok érvényesülését is.
+
+#### 144. §
+
+(1) A záró kifizetési kérelem vonatkozásában az irányító hatóság a záró kifizetési kérelemről annak beérkezésétől számított hatvan napon belül dönt, azzal, hogy hiánypótlásra, tisztázó kérdésre több alkalommal is sor kerülhet. A hiánypótlásra és a tisztázó kérdésre vonatkozó határidőket az irányító hatóság a körülmények mérlegelése alapján állapítja meg.
+
+(2) A záró kifizetési kérelem elfogadásának feltétele a kedvezményezett utolsó beszámolójának elfogadása.
+
+#### 145. §
+
+A záró kifizetési kérelem vagy annak egy része elfogadását követően az irányító hatóság tájékoztatja a kedvezményezettet, és kifizeti a jóváhagyott költségtételeket.
+
+#### 146. §
+
+Az irányító hatóság szükség esetén javítja a jóváhagyott záró kifizetési kérelmet a monitoring és információs rendszerben.
+
+#### 147. §
+
+Ha a kifizetési kérelemmel összefüggésben benyújtott kifogás tárgyában a záró kifizetési kérelemben jóváhagyott támogatás kifizetését követően helyt adó döntést hoznak, az irányító hatóság tájékoztatja a kedvezményezettet a kifogás jóváhagyását követő öt napon belül a pótlólagos kifizetés összegéről.
+
+### 34. A beszámoló
+
+#### 148. §
+
+(1) A kedvezményezett a támogatási szerződés szerinti mérföldkő elérését követő tizenöt napon belül a projekt műszaki-szakmai előrehaladását bemutató beszámolót nyújt be az irányító hatóság részére, amelyhez mellékeli az azt alátámasztó dokumentumokat.
+
+(2) Az irányító hatóság a támogatási szerződés szerinti mérföldkövek között is kérhet beszámolót a kedvezményezettől.
+
+#### 149. §
+
+Az irányító hatóság a beszámolót és az alátámasztó dokumentumokat a vonatkozó jogszabályok, a felhívás és a támogatási szerződés szerint ellenőrzi.
+
+#### 150. §
+
+(1) A beszámoló vonatkozásában a hiánypótlási felhívást a beszámoló beérkezésétől számított tizenöt napon belül, legfeljebb tizenöt napos határidő kitűzésével kell megküldeni a kedvezményezett részére.
+
+(2) Az utolsó beszámoló esetén hiánypótlásra, tisztázó kérdésre több alkalommal is sor kerülhet, azzal, hogy a hiánypótlásra és a tisztázó kérdésre vonatkozó határidőket az irányító hatóság a körülmények mérlegelése alapján – de legalább három napban – állapítja meg.
+
+#### 151. §
+
+(1) Az irányító hatóság a beszámolóról annak beérkezését követő harminc napon belül dönt.
+
+(2) Az irányító hatóság elutasítja a beszámolót, ha az nem felel meg a vonatkozó jogszabályoknak, a felhívásnak, illetve a támogatási szerződésnek.
+
+(3) Az irányító hatóság tájékoztatja a kedvezményezettet az (1) bekezdés szerinti döntéséről, valamint – a beszámoló vagy annak egy része elutasítása esetén – annak indokáról.
+
+(4) Az irányító hatóság a (2) bekezdés szerinti esetben tizenöt napos határidő kitűzésével felhívja a kedvezményezettet a beszámoló ismételt benyújtására.
+
+#### 152. §
+
+Az irányító hatóság a beszámoló benyújtásának elmulasztása vagy elutasítása esetén felfüggesztheti a támogatás kifizetését a beszámoló jóváhagyásáig.
+
+### 35. A hitelesítés
+
+#### 153. §
+
+(1) Az irányító hatóság a folyamatba épített dokumentumalapú ellenőrzés és a helyszíni ellenőrzés keretében tartalmi és formai szempontból ellenőrzi a kedvezményezett által benyújtott kifizetési kérelmet, beszámolót és az azokat alátámasztó dokumentumokat annak megállapítása céljából, hogy a kedvezményezett a támogatási kérelem alapján vállalt vagy a támogatási szerződésben rögzített kötelezettségeit teljesítette.
+
+(2) Az irányító hatóság a dokumentumalapú ellenőrzés során ellenőrzi
+
+a) a projekt támogatási szerződésnek megfelelő fizikai, illetve pénzügyi előrehaladását és azok összhangját,
+
+b) azt, hogy a benyújtott bizonylat valós költségen alapul-e, a program keretében jóváhagyott projekt kapcsán merült-e fel, és megfelel-e a támogatási szerződésben vállalt kötelezettségeknek és szakmai célkitűzéseknek,
+
+c) a kedvezményezett kifizette-e szállítói finanszírozás esetén a számla teljes összegének a támogatáson felüli részét, utófinanszírozás esetén a számla összegét,
+
+d) a teljesítés igazolását és megalapozottságát,
+
+e) a kedvezményezett köztartozás-mentességét,
+
+f) a kettős finanszírozás elkerülésére vonatkozó előírások teljesülését,
+
+g) azt, hogy a benyújtott bizonylaton szereplő teljesítés összhangban van-e a versenyeztetésre vonatkozó előírásokkal,
+
+h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költségek forrását, ha a projekt fedezete kizárólag központi költségvetési forrásból került megelőlegezésre, valamint
+
+i) az elszámolásra benyújtott költségek szokásos piaci árnak való megfelelését, azzal, hogy az irányító hatóság köteles az ellenőrzést alátámasztó dokumentumot a monitoring és információs rendszerben rögzíteni.
+
+(3) Az irányító hatóság a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a környezeti fenntarthatóság és az esélyegyenlőség érvényesítését folyamatosan, de legkésőbb a záró kifizetési kérelem jóváhagyásáig ellenőrzi.
+
+(4) A folyamatba épített ellenőrzést dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzés eredményét, valamint szabálytalansági gyanú és hiányosság feltárása esetén a megtett intézkedéseket.
+
+### 36. A támogatás kifizetése
+
+#### 154. §
+
+Az irányító hatóság a kifizetési kérelem jóváhagyását követően
+
+a) a kedvezményezett,
+
+b) a szállító
+
+fizetési számlájára történő utalással fizeti ki a támogatást.
+
+#### 155. §
+
+A támogatás kifizetésének feltétele – az átalányalapú elszámolás kivételével –, hogy a kedvezményezett a fizikai és pénzügyi teljesítést igazolja, és azt az irányító hatóság elfogadja.
+
+#### 156. §
+
+(1) A támogatás terhére elszámolható költségeket és a támogatást forintban kell megállapítani.
+
+(2) A forinttól eltérő pénznemben kiállított bizonylat esetén az arra jutó támogatást a bizonylaton megjelölt fizikai teljesítés időpontjában érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos árfolyamon kell forintra átszámítani.
+
+(3) Az MNB által nem jegyzett pénznemben kiállított bizonylat esetén az arra jutó támogatást a bizonylaton megjelölt fizikai teljesítés időpontjában érvényes, az Európai Központi Bank által közzétett középárfolyamon kell euróra átszámítani.
+
+(4) Ha a bizonylat nem tartalmazza a fizikai teljesítés időpontját, vagy az folyamatos teljesítésű, úgy a bizonylaton megjelölt összeget – a (2) és (3) bekezdéstől eltérően – a bizonylat keltezése napján érvényes árfolyamon kell átszámítani.
+
+(5) A devizában kiállított bizonylatot összesítőn nem lehet elszámolni.
+
+#### 157. §
+
+Ha utófinanszírozás esetén a kedvezményezett devizában előleget fizetett, akkor az erre jutó támogatást a 156. § (2)–(4) bekezdése szerint kell átszámítani.
+
+#### 158. §
+
+Szállítói finanszírozás esetén a szállító és a kedvezményezett forinttól eltérő devizában kötött szerződésére jutó támogatást a szerződésben megjelölt devizában fizeti ki az irányító hatóság.
+
+#### 159. §
+
+(1) Ha a bizonylat ellenőrzése során az irányító hatóság megállapítja, hogy a kifizetés az árfolyamváltozás miatt a bizonylattal érintett költségvetési sor túllépését okozza, a projekt keretében történt megtakarítás vagy a projektszintű tartalék átcsoportosításával a költségvetési sor keretösszege a kedvezményezett általi változásbejelentéssel megemelhető.
+
+(2) Ha a költségvetési sor keretösszege az (1) bekezdés szerinti átcsoportosítással nem rendezhető, az irányító hatóság az érintett bizonylatra jutó támogatást kifizeti, a fennmaradó összeg pedig a kedvezményezettet terheli.
+
+#### 160. §
+
+Az irányító hatóság
+
+a) utófinanszírozás esetén a kifizetési kérelem beérkezésétől számított negyvenöt napon belül,
+
+b) szállítói finanszírozás, valamint szállítói finanszírozást és utófinanszírozást vegyesen tartalmazó kifizetési kérelem esetén a kifizetési kérelem beérkezésétől számított harminc napon belül
+
+fizeti ki a támogatást.
+
+#### 161. §
+
+(1) A kifizetési határidőt felfüggeszti
+
+a) a hiánypótlási felhívás, tisztázó kérdés kedvezményezett részére történő megküldése,
+
+b) a rendkívüli helyszíni ellenőrzés elrendelése,
+
+c) a támogatási szerződés módosítása, ha a módosítás a kifizetést befolyásoló alapadatokra vonatkozik, vagy azt egyszeri elszámoló kezdeményezi.
+
+(2) A kifizetési határidőbe nem számít bele az év végi számlazárási és év eleji számlanyitási folyamatok – www.palyazat.gov.hu oldalon közlemény formájában közzétett – időtartama.
+
+(3) Az irányító hatóság felfüggeszti a támogatás kifizetését, ha ezt e rendelet vagy más jogszabály előírja, illetve a támogatási szerződés megkötését követően a kedvezményezett olyan nyilatkozatot tesz, vagy az irányító hatóság olyan körülményről szerez tudomást, amely a támogatás visszavonását vagy a támogatási szerződéstől történő elállást teheti szükségessé.
+
+(4) Az irányító hatóság a támogatás kifizetése felfüggesztésről és annak okáról haladéktalanul tájékoztatja a kedvezményezettet.
+
+#### 162. §
+
+(1) Az irányító hatóság a támogatás kifizetése felfüggesztését feloldja, ha az arra okot adó körülmény megszűnik, vagy a kivizsgálást követően a támogatás visszavonása vagy az elállás nem indokolt.
+
+(2) Az irányító hatóság a támogatás kifizetése felfüggesztésének feloldásáról haladéktalanul tájékoztatja a kedvezményezettet.
+
+#### 163. §
+
+(1) Az előirányzat-felhasználási keretszámláról akkor lehet kifizetést kezdeményezni, ha
+
+a) a kedvezményezettnek nincs köztartozása,
+
+b) a kedvezményezett nem áll a 208. § b) pontja szerinti valamely eljárás hatálya alatt.
+
+(2) Az irányító hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
+
+(3) Ha a kedvezményezettnek köztartozása van, az irányító hatóság legfeljebb kilencvennapos határidő kitűzésével felhívja a köztartozás rendezésére.
+
+(4) Ha a kedvezményezett a (3) bekezdés szerinti határidőben a köztartozását nem szünteti meg, az irányító hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
+
+(5) Szállítói finanszírozás esetén az irányító hatóság az (1)–(4) bekezdés szerint vizsgálja a szállító köztartozás-mentességét.
+
+#### 164. §
+
+(1) Ha az irányító hatóság a kifizetési határidőt neki felróható okból elmulasztja, késedelmének időtartamára késedelmi kamatot fizet annak a jogosultnak, akinek vonatkozásában a késedelemmel érintett bizonylatra jutó késedelmi kamat összege meghaladja a tízezer forintot.
+
+(2) A késedelmi kamatot a támogatástól pénzügyi és számviteli szempontból elkülönítetten kell kezelni.
+
+(3) Az irányító hatóság tájékoztatja a kedvezményezettet a kifizetési határidő elmulasztásáról és a késedelmi kamat fizetéséről.
+
+#### 165. §
+
+Az irányító hatóság nem fizet késedelmi kamatot
+
+a) azon kedvezményezett részére, akinek a felhívás, illetve a támogatási szerződés nemteljesítéséből adódóan visszafizetési kötelezettsége keletkezett,
+
+b) a kifizetés felfüggesztésének időtartamára.
+
+### 37. A támogatás kifizetése alvállalkozó igénybevétele esetén
+
+#### 166. §
+
+(1) Szállítói finanszírozás alkalmazásakor a kedvezményezettel szerződött szállító által a teljesítésbe bevont alvállalkozó esetén az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 32/A. §-a szerint kell eljárni azzal az eltéréssel, hogy az irányító hatóság számára irányadó fizetési határidő a bizonylat beérkezésétől számított harminc nap.
+
+(2) Utófinanszírozás alkalmazásakor alvállalkozói teljesítést is tartalmazó bizonylat esetén az irányító hatóság számára irányadó fizetési határidő a bizonylat beérkezésétől számított negyvenöt nap.
+
+### 38. A pénzügyi zárás
+
+#### 167. §
+
+(1)[^38] A pénzügyi zárás a záró beszámoló és kifizetési igénylés elfogadását, fenntartási kötelezettség esetén a záró projektfenntartási jelentés (a továbbiakban: ZPFJ) elfogadását követő dokumentumalapú ellenőrzés, amelynek során az irányító hatóság ellenőrzi a projekt megvalósításához kapcsolódó dokumentumok rendelkezésre állását, valamint e dokumentumok adatainak a monitoring és információs rendszerben való rögzítettségét.
+
+(2) Az irányító hatóság a pénzügyi zárást a monitoring és információs rendszerbe feltöltött ellenőrzési lista alapján végzi.
+
+(3) Az irányító hatóság a projekteket mintavétel alapján teljeskörűen ellenőrzi.
+
+(4) Az irányító hatóság csoportos pénzügyi zárást végezhet.
+
+(5) A mintavétel módszertanát, az értékhatárt és a csoportos zárás feltételeit az irányító hatóságnak alá kell támasztania.
+
+#### 168. §
+
+(1) A pénzügyi zárást a záró projektfenntartási jelentésről hozott döntéssel kapcsolatban a kifogás benyújtására rendelkezésre álló határidő elteltét követő hatvan napon belül kell elvégezni.
+
+(2)[^39] Az irányító hatóság a záró kifizetési kérelem vagy a ZPFJ elutasítása esetén szabálytalansági eljárást indít, és a pénzügyi zárást a szabálytalansági döntés jogerőre emelkedése és végrehajtása után végzi el.
+
+#### 169. §
+
+(1) Pénzügyi zárás akkor végezhető, ha
+
+a) a projekttel összefüggésben nincs folyamatban
+
+aa) kifogás elbírálása,
+
+ab) szabálytalansági eljárás vagy jogorvoslati eljárás,
+
+ac) szerződésmódosítás,
+
+ad) a záró kifizetési kérelem javítása,
+
+b) a projekttel összefüggésben nincs kifizetetlen vagy el nem számolt előleg, vagy
+
+c) a kedvezményezettet nem terheli visszafizetési kötelezettség.
+
+(2) A pénzügyi zárást megelőzően a fel nem használt támogatást fel kell szabadítani a kötelezettségvállalás alól a kedvezményezett záró kifizetési kérelmében tett nyilatkozata alapján.
+
+### 38/A.[^40] A pénzügyi hozzájárulás iránti kérelem benyújtása
+
+#### 169/A. §
+
+(1) Az irányító hatóság 2024. szeptember 30-ig elkészíti és benyújtja az Európai Bizottságnak a BAR-ból származó pénzügyi hozzájárulás iránti kérelmet.
+
+(2) A pénzügyi hozzájárulás iránti kérelem a monitoring és információs rendszeren keresztül benyújtott költségnyilatkozat mellett a 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet 11. cikkében meghatározott dokumentumokból, végrehajtási jelentésből, vezetői nyilatkozatból és auditvéleményből áll.
+
+(3) Az auditvéleményt az audit hatóság adja ki, annak érdekében, hogy az Európai Bizottság részére független bizonyossággal szolgáljon a benyújtott elszámolásokban szereplő kiadások jogszerűségéről és szabályszerűségéről.
+
+(4) A pénzügyi hozzájárulás iránti kérelem benyújtásának határidejét követő öt évben az irányító hatóság megőrzi a pénzügyi hozzájárulásból fedezendő kiadásokra vonatkozó valamennyi igazoló dokumentumot, és ezt a kötelezettséget a végrehajtásában részt vevő más szervezetekkel kötött megállapodásokba is belefoglalja.
+
+## VIII. Fejezet — A FENNTARTÁSI KÖTELEZETTSÉG
+
+### 39. A fenntartási kötelezettségre vonatkozó általános szabályok
+
+#### 170. §
+
+A kedvezményezettet fenntartási kötelezettség terheli.
+
+#### 171. §
+
+(1) A fenntartási kötelezettség időtartama a projektmegvalósítás befejezésétől számított öt év.
+
+(2) Ha a kedvezményezett kis- és középvállalkozás, az irányító hatóság a fenntartási kötelezettség időtartamát a projektmegvalósítás befejezésétől számított három évre csökkentheti.
+
+#### 172. §
+
+(1) Ha a vállalkozás kis- és középvállalkozássá válik, vagy e minősítése megszűnik, az irányító hatóság a fenntartási időszak időtartamát felülvizsgálhatja.
+
+(2) Az (1) bekezdés alkalmazása szempontjából a kapcsolódó és partnervállalkozásokat figyelembe kell venni.
+
+#### 173. §
+
+Nem minősül a fenntartási kötelezettség megsértésének
+
+a) a technológiai változás vagy modernizáció miatti csere, fejlesztés,
+
+b) ha a termelő tevékenység nem a közösségi jogszabályok szerinti csalásból eredő fizetésképtelenség miatt szűnik meg, vagy
+
+c) ha a tulajdonosi szerkezetben bekövetkezett változás a felhívásban leírtaknak megfelelően, az irányító hatóság előzetes hozzájárulásával vagy jogszabály rendelkezése alapján történik.
+
+#### 174. §
+
+(1) A fenntartási kötelezettség megsértése esetén az irányító hatóság megvizsgálja a szerződésszerű állapot helyreállításának lehetőségét.
+
+(2) Ha a szerződésszerű állapot helyreállítható, az irányító hatóság erre kötelezi a kedvezményezettet.
+
+(3) Ha a szerződésszerű állapot
+
+a) nem,
+
+b) részben vagy
+
+c) aránytalan nehézség árán
+
+állítható helyre, az irányító hatóság az Általános Szerződési Feltételekben meghatározott jogkövetkezményeket alkalmazza.
+
+#### 175. §[^41]
+
+A projektben létrehozott vagyon a ZPFJ elfogadásáig csak az irányító hatóság előzetes jóváhagyásával és a támogatási jogviszony szempontjából releváns kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe, illetve terhelhető meg.
+
+#### 176. §
+
+Ha a kedvezményezett a jelentéstételi kötelezettségét nem teljesíti, az irányító hatóság az Általános Szerződési Feltételekben meghatározott jogkövetkezményeket alkalmazza.
+
+#### 177. §
+
+(1) A projekttel kapcsolatos dokumentumokat a projekt helyszínén kell megőrizni.
+
+(2) Ha a projekt helyszíne nem alkalmas a dokumentumok megőrzésére, vagy több megvalósítási helyszín esetében, a dokumentumokat a kedvezményezett telephelyén vagy székhelyén kell megőrizni.
+
+### 40. A jelentéstételi kötelezettség
+
+#### 178. §
+
+(1) A kedvezményezett a felhívásban vagy a támogatási szerződésben rögzített időponttól kezdve évente projektfenntartási jelentést (a továbbiakban: PFJ) nyújt be az irányító hatóságnak.
+
+(2) Ha az irányító hatóság a fenntartási időszakra nem írta elő indikátor teljesítését, más számszerűsíthető eredményelérést, vagy a támogatási szerződés nem tartalmaz évenkénti jelentéstételi kötelezettséget, akkor a kedvezményezett az (1) bekezdéstől eltérően egy alkalommal, ZPFJ-t nyújt be.
+
+#### 179. §
+
+A kedvezményezett a PFJ-ben a tárgyidőszakra vonatkozóan számol be a fenntartási kötelezettségek teljesítéséről.
+
+### 41. A fenntartási jelentés formai és szakmai ellenőrzése
+
+#### 180. §
+
+Az irányító hatóság a fenntartási jelentést formai és szakmai szempontból ellenőrzi.
+
+#### 181. §
+
+Az irányító hatóság a fenntartási jelentés ellenőrzését felfüggeszti, ha a fenntartási jelentés ellenőrzését megelőzően vagy annak időtartama alatt
+
+a) a projektben a fenntartási jelentés ellenőrzése és elbírálása szempontjából jelentős adatra, tényre vagy körülményre kiterjedő helyszíni ellenőrzést rendelt el,
+
+b) a projekt tekintetében szabálytalansági eljárást indít, és az eljárás eredménye befolyásolhatja a fenntartási jelentés ellenőrzését és elbírálását,
+
+c) a támogatási szerződés módosítása folyamatban van, és a módosítás befolyásolhatja a fenntartási jelentés ellenőrzését és elbírálását, vagy
+
+d) a projekt ellenőrzésére jogosult szervezet a projekttel kapcsolatban vizsgálatot folytat, és annak eredménye befolyásolhatja a fenntartási jelentés ellenőrzését és elbírálását.
+
+### 42. Hiánypótlás
+
+#### 182. §
+
+(1) Ha az irányító hatóság a fenntartási jelentéssel összefüggésben hiányosságot vagy hibát észlel, a fenntartási jelentés beérkezését vagy a jelentéstételi határidő eredménytelen elteltét követően haladéktalanul, legfeljebb tizenöt napos határidő kitűzésével a hiány pótlására, illetve a hiba javítására szólítja fel a kedvezményezettet.
+
+(2) Az irányító hatóság indokolt esetben az (1) bekezdés szerinti határidőnél hosszabb időtartamot is meghatározhat.
+
+(3) Az irányító hatóság egy fenntartási jelentéssel összefüggésben több alkalommal is hiánypótlásra hívhatja fel a kedvezményezettet, azzal, hogy a hiánypótlási folyamatot az első hiánypótlási felhívás kedvezményezett általi kézhezvételét követő kilencven napon belül le kell zárni.
+
+#### 183. §
+
+(1) A hiánypótlást a fenntartási jelentéssel megegyező módon kell benyújtani.
+
+(2) A hiánypótlás során csak a fenntartási jelentés hiányzó, illetve javítandó részeit kell benyújtani.
+
+#### 184. §
+
+Az irányító hatóság indokolt esetben szóbeli egyeztetési lehetőséget biztosíthat a kedvezményezett részére. Az irányító hatóság a szóbeli egyeztetésről emlékeztetőt készít.
+
+### 43. Döntés a fenntartási jelentésről
+
+#### 185. §
+
+(1) Az irányító hatóság a fenntartási jelentésről az annak beérkezésétől számított harminc napon belül dönt.
+
+(2) Az (1) bekezdés szerinti határidőbe nem számít bele a fenntartási jelentés ellenőrzése felfüggesztésének és a hiánypótlás időtartama.
+
+#### 186. §
+
+Az irányító hatóság a fenntartási jelentést akkor hagyja jóvá, ha az abban foglaltak alapján a projekt a támogatási szerződésben leírtaknak teljeskörűen megfelel.
+
+#### 187. §
+
+(1) A fenntartási jelentést el kell utasítani, ha
+
+a) a kedvezményezett a fenntartási kötelezettségét nem vagy nem megfelelően teljesítette, vagy
+
+b) a hiánypótlásra határidőben nem kerül sor, vagy a hiányok pótlása, hibák javítása nem teljes körű.
+
+(2) A fenntartási jelentés elutasításáról szóló értesítésben meg kell jelölni az elutasítás indokát.
+
+#### 188. §
+
+Ha az irányító hatóságnak a kedvezményezettel szemben bármely jogcímen követelése áll fenn, a követelés teljesítésének napjáig az irányító hatóság a ZPFJ-t nem fogadhatja el.
+
+#### 189. §
+
+Az irányító hatóság a fenntartási jelentésről meghozott döntéséről a kedvezményezettet a döntést követő öt napon belül értesíti.
+
+#### 190. §
+
+A ZPFJ elfogadását követően az irányító hatóság írásban nyilatkozik a biztosíték visszavonhatóságáról és a projekt lezárásáról, amelyet az irányító hatóság a pénzügyi zárást követő öt napon belül küld meg a kedvezményezett részére.
+
+## IX. Fejezet — KIFOGÁS
+
+### 44. A kifogás benyújtása
+
+#### 191. §
+
+(1) A támogatást igénylő vagy a kedvezményezett a támogatási kérelem benyújtásának időpontjától a támogatási jogviszony időtartama alatt a valamely folyamatot vagy részfolyamatot lezáró döntés ellen kifogást nyújthat be.
+
+(2) A kifogást elektronikus úton, a monitoring és információs rendszeren keresztül kell benyújtani.
+
+(3)[^42] A kifogást az irányító hatóság vizsgálja.
+
+(4) A kifogást a kifogásolt döntés kézhezvételétől számított tíz napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
+
+(5) Nem nyújtható be kifogás
+
+a) a szabálytalansági eljárás megindításáról szóló döntés,
+
+b) a szabálytalansági döntés és az ez alapján tett intézkedés,
+
+c) a jogorvoslati döntés és az ez alapján tett intézkedés,
+
+d) a közbeszerzési eljárás ellenőrzése során kiállított jelentés, tanúsítvány,
+
+e) a projektfejlesztés, konzultáció keretében adott észrevétel, javaslat,
+
+f) az egyenlegközlő,
+
+g) a projekt tartaléklistára helyezéséről szóló döntés,
+
+h) a tartaléklista megszüntetéséről hozott döntés,
+
+i) a hiánypótlási felhívás vagy tisztázó kérdés megküldése,
+
+j) a támogatási kérelem visszavonásának tudomásulvétele
+
+ellen.
+
+(6) A kifogást annak benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg.
+
+### 45. A kifogás elbírálására vonatkozó általános szabályok
+
+#### 192. §
+
+A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
+
+#### 193. §[^43]
+
+Az irányító hatóság kizárólag a kifogásolt döntést vizsgálhatja, valamint az azt megalapozó eljárás azon elemeit, megállapításait, amelyeket a kifogás vitat.
+
+#### 194. §
+
+A kifogást elbíráló döntés kifogást benyújtó részére történő megküldéséig nem adható a döntés tartalmára vonatkozó tájékoztatás.
+
+### 46. A kifogás érdemi vizsgálat nélküli elutasítása
+
+#### 195. §
+
+(1) A kifogást érdemi vizsgálat nélkül kell elutasítani, ha
+
+a) a kifogást nem határidőben nyújtották be,
+
+b) a kifogást nem az arra jogosult nyújtotta be,
+
+c) korábbi kifogással azonos tartalmú kifogást nyújtottak be,
+
+d) a kifogás nem tartalmazza valamely jogszabály, a felhívás vagy a támogatási szerződés megsértett rendelkezésére történő hivatkozást,
+
+e) a kifogást elbíráló döntés ellen nyújtották be,
+
+f) a kifogást a 191. § (4) bekezdése szerint nem lehetne benyújtani,
+
+g) azt nem az elektronikus kapcsolattartás szabályai szerint nyújtották be,
+
+h) a kifogás a döntés olyan elemére irányul, amely által előidézett jogsértés a sérelmezett eljárás megismétlésével nem orvosolható, vagy
+
+i) a kifogást a 200. § (2) bekezdés a) pontja szerinti döntés alapján megismételt folyamatban vagy részfolyamatban született döntés ellen nyújtották be, és a kifogásban új, a korábbi eljárás során nem vizsgált tényekre, adatokra, körülményekre nem történik hivatkozás.
+
+(2) A kifogás érdemi vizsgálat nélküli elutasításáról az irányító hatóság dönt.
+
+### 47. A kifogás elbírálása
+
+#### 196. §
+
+(1) Ha a kifogás érdemi vizsgálat nélküli elutasításának nincs helye, a kifogást a beérkezésétől számított harminc napon belül kell elbírálni.
+
+(2)[^44] Az irányító hatóság az elbírálás határidejét egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.
+
+(3) A határidő meghosszabbításáról a határidő lejárta előtt a kifogás benyújtóját értesíteni kell.
+
+#### 197. §
+
+(1)[^45] Ha a kifogást elbíráló döntéshez más hatóság előzetes döntése szükséges, vagy a kifogást elbíráló döntés különleges szakértelmet igénylő előzetes kérdés eldöntésétől függ, az irányító hatóság az eljárását a hatóság döntéséig vagy a szakértői állásfoglalás elkészítéséig felfüggesztheti.
+
+(2) A felfüggesztés időtartama az elintézési határidőbe nem számít be.
+
+#### 198. §
+
+(1)[^46] Az irányító hatóság a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
+
+a) a kifogást annak benyújtója visszavonta,
+
+b) a forráshiány miatt elutasított támogatási kérelem alapján a támogatást igénylő támogatásban részesült,
+
+c) a kifogásolt döntést visszavonták,
+
+d) a támogatási jogviszony nem a kifogásolt döntés miatt szűnt meg,
+
+e) a támogatást igénylő a kifogással érintett támogatási kérelmet ismételten benyújtotta,
+
+f) a támogatást igénylő a kifogással érintett támogatási kérelemre vonatkozó támogatási szerződést megkötötte vagy nyilatkozott a támogatói okirat elfogadásáról,
+
+g) a kedvezményezett a kifogásolt döntés alapjául szolgáló eljárási cselekményt megismételte,
+
+h) a kedvezményezett a kifogásolt döntésben meghatározott visszafizetési kötelezettségének eleget tett,
+
+i) a kifogás benyújtója jogutód nélkül megszűnt, vagy
+
+j) a támogatást igénylő teljesítette a kifogásolt támogatási döntésben feltételként meghatározott követelményt.
+
+(2) Ha a támogatási kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem költségcsökkentéssel, illetve feltétellel támogatható, és a kifogás a költségcsökkentés, illetve a feltétel ellen is irányul, a kifogás elbírálására irányuló eljárás az (1) bekezdés b) pontjára történő hivatkozással nem szüntethető meg.
+
+#### 199. §
+
+(1)[^47] Ha az irányító hatóság a kifogás beérkezésétől számított tizenöt napon belül megállapítja, hogy a kifogásolt döntés jogszabálysértő, a felhívás vagy a támogatási szerződés rendelkezésébe ütközik, a döntést felülvizsgálja.
+
+(2)[^48] Az irányító hatóság a felülvizsgálat során a kifogásban foglaltaknak részben vagy egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról.
+
+(3) Az irányító hatóság a (2) bekezdés szerinti döntésről haladéktalanul értesíti a kifogás benyújtóját.
+
+(4) A felülvizsgált döntés ellen a támogatást igénylő vagy a kedvezményezett kifogást nyújthat be, a 205. § szerint.
+
+#### 200. §
+
+(1)[^49] A 199. § szerinti felülvizsgálat hiányában az irányító hatóság a kifogást, a kifogással kapcsolatos szakmai álláspontját és az ügyben keletkezett dokumentációt a kifogás beérkezésétől számított tizenöt napon belül megküldi az irányító hatóságot irányító helyettes államtitkár részére.
+
+(2) A helyettes államtitkár döntésével
+
+a) a kifogásban foglaltaknak részben vagy egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról, vagy
+
+b) a kifogást elutasítja.
+
+(3) A (2) bekezdés a) pontja szerinti döntés végrehajtása során
+
+a) az ismételt döntéshozatalra a kifogásolt döntés meghozatalára vonatkozó eredeti határidő vonatkozik,
+
+b) az irányító hatóság figyelembe veszi a helyettes államtitkár által meghatározott szempontokat.
+
+(4) Az irányító hatóság haladéktalanul értesíti a (2) bekezdés szerinti döntéséről a kifogás benyújtóját.
+
+#### 201. §
+
+(1) Ha a kifogást elbíráló döntésben elírás, illetve számítási hiba van, az irányító hatóság a hibát kérelemre vagy hivatalból kijavítja, ha az nem változtatja meg érdemben a kifogást elbíráló döntést.
+
+(2)[^50] Az irányító hatóság döntését a döntés kézhezvételét követő harminc napon belül visszavonja, és új döntést hoz, ha a kifogás elbírálását követően tudomására jutott tény alapján a döntés jogszabályt sért, a támogatási szerződésbe, illetve a felhívásba ütközik.
+
+## X. Fejezet — A SZABÁLYTALANSÁGKEZELÉS
+
+### 48. A szabálytalanságkezelésre vonatkozó általános szabályok
+
+#### 202. §
+
+(1) Szabálytalansági eljárás megindítására a támogatási szerződés megkötését követően kerülhet sor.
+
+(2) A szabálytalansági eljárást az irányító hatóság folytatja le.
+
+(3) Az irányító hatóság a szabálytalansági eljárást az érintett projekt céljának megvalósulására figyelemmel folytatja le.
+
+#### 203. §
+
+(1) A szabálytalansági eljárás kezdete az a nap, amelyen az irányító hatóság a szabálytalansági eljárás megindításáról döntött.
+
+(2) A szabálytalansági döntést a szabálytalansági eljárás megindításától számított negyvenöt napon belül kell meghozni.
+
+(3) Az irányító hatóság a (2) bekezdés szerinti határidőt indokolt esetben, egy alkalommal, legfeljebb negyvenöt nappal meghosszabbíthatja, amelyről a kedvezményezettet a határidő lejárta előtt értesíti.
+
+#### 204. §
+
+Az irányító hatóság a szabálytalanságot a kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált.
+
+#### 205. §
+
+(1)[^51] Ha ugyanazon kedvezményezett vonatkozásában több szabálytalansági eljárás indult, és azokban még nem született szabálytalansági döntés, az irányító hatóság a szabálytalansági eljárásokat egyesítheti.
+
+(2) Nem lehet a szabálytalansági eljárásokat egyesíteni, ha az a szabálytalansági döntést indokolatlanul késleltetné vagy a projekt céljának megvalósulását indokolatlanul veszélyeztetné.
+
+### 49. A szabálytalansági gyanú
+
+#### 206. §
+
+(1) Szabálytalanság gyanúját bárki bejelentheti az irányító hatóságnál.
+
+(2) Ezen rendelet hatálya alá tartozó szervezet azon munkatársa, akinek a támogatási szerződés megkötését követően szabálytalansági gyanú jut a tudomására, a szabálytalansági gyanút haladéktalanul, írásban rögzíti, és megküldi az irányító hatóság részére.
+
+(3) Ha a szabálytalansági gyanú bejelentése hiányos vagy hibás, az irányító hatóság a hibák, hiányok megjelölésével haladéktalanul felhívja a szabálytalansági gyanú bejelentőjét a hibák javítására, hiányok pótlására.
+
+(4) A (3) bekezdéstől eltérően az irányító hatóság a rendelkezésére álló adatok alapján a szabálytalanságigyanú-bejelentést kiegészítheti, kijavíthatja.
+
+#### 207. §
+
+(1) Az irányító hatóság a szabálytalansági gyanú kézhezvételtől számított nyolc napon belül dönt a szabálytalansági eljárás megindításáról.
+
+(2) Ha a szabálytalansági gyanú az irányító hatóság tevékenységével függ össze, az irányító hatóság szabálytalansági eljárást indít.
+
+### 50. A szabálytalansági eljárás mellőzése
+
+#### 208. §
+
+Az irányító hatóság szabálytalansági eljárási jegyzőkönyv alapján, de szabálytalansági eljárás mellőzésével állapíthat meg szabálytalanságot és rendelhet el jogkövetkezményt, ha
+
+a) a szabálytalansággal érintett összeg nem haladja meg a százezer forintot,
+
+b) a kedvezményezett ellen adósságrendezési, felszámolási, végelszámolási, kényszertörlési vagy a megszüntetésére irányuló egyéb eljárás indult,
+
+c) a kedvezményezett elismeri a szabálytalanságot,
+
+d) a szabálytalanság még azelőtt derült ki, hogy a kedvezményezett részére kifizetés történt volna,
+
+e) az audit hatóság vagy más ellenőrző szervezet által tett szabálytalanságigyanú-bejelentés megállapításait elfogadja,
+
+f) a kedvezményezett nem teljesíti a biztosíték meghosszabbítására vagy cseréjére vonatkozó kötelezettségét,
+
+g) rendszerszintű szabálytalanság történt, vagy
+
+h) a jogkövetkezményt uniós jogszabály határozza meg.
+
+### 51. A szabálytalansági eljárás
+
+#### 209. §
+
+(1) Az irányító hatóság a szabálytalansági eljárás megindításáról három napon belül tájékoztatja a kedvezményezettet.
+
+(2) Az (1) bekezdés szerinti tájékoztatásnak tartalmaznia kell a szabálytalansági gyanú ismertetését, valamint határidőt arra vonatkozóan, amelyen belül a kedvezményezett észrevételt tehet, és az azokat alátámasztó dokumentumokat az irányító hatóság részére megküldheti.
+
+(3) Az irányító hatóság az (1) bekezdés szerinti tájékoztatási kötelezettségtől eltekinthet, ha a tájékoztatás a szabálytalansági eljárás eredményességét veszélyeztetné.
+
+#### 210. §
+
+Az irányító hatóság a szabálytalansági eljárás során
+
+a) betekinthet minden olyan dokumentumba, amely a szabálytalansági gyanú megítéléséhez szükséges,
+
+b) helyszíni ellenőrzést végezhet, és
+
+c) a kedvezményezettet meghallgathatja.
+
+#### 211. §
+
+(1) Ha a szabálytalansági döntés különleges szakértelmet igénylő előzetes kérdés elbírálásától függ, az irányító hatóság a szabálytalansági eljárást a külön döntésig vagy a szakértői állásfoglalás elkészítéséig felfüggesztheti.
+
+(2) Ha az (1) bekezdés szerinti előzetes kérdés elbírálására irányuló eljárás még nem indult meg, de annak megindítására jogszabályban meghatározott határidőn belül még lehetőség van, az irányító hatóság kezdeményezi az eljárás megindítását.
+
+(3) A szabálytalansági eljárás felfüggesztésének időtartama a 203. § (2) bekezdése szerinti határidőbe nem számít be.
+
+(4) Az irányító hatóság a szabálytalansági eljárás felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül értesíti a kedvezményezettet.
+
+#### 212. §
+
+(1) Az irányító hatóság a szabálytalansági gyanúval érintett projekthez kapcsolódó valamely kifizetést felfüggesztheti, ha a kifizetés szabálytalanság megállapítása esetén veszélyeztetné a szabálytalansággal érintett összeg behajtását, így különösen, ha
+
+a) a kedvezményezett nem nyújtott biztosítékot,
+
+b) a szabálytalansági gyanúhoz vezető cselekmény ismétlődő jellegű,
+
+c) bűncselekmény gyanúja merül fel,
+
+d) a kedvezményezett terhére korábban azonos típusú szabálytalanságot állapítottak meg,
+
+e) ugyanazon kedvezményezettel szemben más szabálytalansági eljárás van folyamatban, vagy
+
+f) a kifizetést követően az eredeti pénzügyi állapot nem állítható helyre.
+
+(2) A szabálytalansági eljárás során a kifizetés bármikor felfüggeszthető.
+
+(3) A kifizetés felfüggesztését meg kell szüntetni, ha annak indokai már nem állnak fenn.
+
+(4) Az irányító hatóság a kifizetés felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül tájékoztatja a kedvezményezettet, kivéve, ha a tájékoztatás a szabálytalansági eljárás eredményességét veszélyeztetné.
+
+#### 213. §
+
+(1) Ha az irányító hatóságnak a szabálytalansági eljárás során új szabálytalansági gyanú jut tudomására, a szabálytalansági eljárást kiterjeszti az új szabálytalansági gyanú kivizsgálására is, és erről három napon belül tájékoztatja a kedvezményezettet.
+
+(2) Ha felmerül annak gyanúja, hogy a projekt megvalósításával összefüggésben a kedvezményezett vagy a kedvezményezett érdekkörébe eső más személy, illetve szervezet bűncselekményt követett el, az irányító hatóság a bűncselekmény gyanújának felmerülésétől számított tizenöt napon belül feljelentést tesz.
+
+#### 214. §
+
+(1) Ha az audit hatóság ellenőrzési tevékenysége során átutalásigénylési dokumentációban el nem számolható tételt talál, felkéri az irányító hatóságot, hogy kezdeményezze az átutalásigénylési dokumentáció korrekcióját.
+
+(2) Az irányító hatóság az audit hatóság megállapítására vonatkozóan lefolytatja a szabálytalansági eljárást, vagy a 208. § e) pontja szerint jár el.
+
+#### 215. §
+
+Az irányító hatóság a szabálytalansági eljárás során szabálytalanság-eljárási jegyzőkönyvet készít.
+
+### 52. A szabálytalansági döntés
+
+#### 216. §
+
+(1) Az irányító hatóság a szabálytalansági döntést a szabálytalanság-eljárási jegyzőkönyv alapján hozza meg.
+
+(2) Szabálytalanság megállapítása esetén az irányító hatóság
+
+a) a projekt elszámolható költségeit és a támogatást arányosan csökkentheti, valamint a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezheti a kedvezményezettet,
+
+b) a támogatási szerződéstől elállhat,
+
+c) javaslatot tehet a kedvezményezettnek az e rendelet hatálya alá tartozó támogatások igénybevételéből határozott időre, de legfeljebb öt évre történő kizárására,
+
+d) uniós jogi aktusban meghatározott egyéb jogkövetkezményt alkalmazhat.
+
+e)[^52] a 111. § (2) bekezdése szerinti százalékos átalány költséget arányosan csökkentheti.
+
+(3) Az irányító hatóság a szabálytalansággal arányos jogkövetkezményt állapít meg.
+
+(4) Ha a pénzügyi korrekció mértékét nem lehet számszerűsíteni, aránytalan lenne a szabálytalansággal érintett kiadás egészének visszavonása, vagy az félrevezető eredményt adna, átalánykorrekciót kell alkalmazni. Az átalánykorrekció mértékét a szabálytalanság súlya és pénzügyi következménye alapján kell meghatározni.
+
+(5) Ha szabálytalanság megállapításra nem kerül sor, de jogsértő helyzet megszüntetése szükséges, az irányító hatóság a támogatási jogviszonyt érintő intézkedést rendelhet el.
+
+#### 217. §
+
+(1)[^53] A kizárásról a miniszter megbízásából az irányító hatóságot irányító helyettes államtitkár dönt.
+
+(2) A kizárás akkor alkalmazható, ha a kedvezményezett a szabálytalanságot szándékosan vagy ismételten valósítja meg. Ismételten valósítja meg a kizárás alapjául szolgáló cselekményt a kedvezményezett, ha ugyanazon tényállással kapcsolatos szabálytalanságot öt éven belül legalább két alkalommal követi el.
+
+(3) Az irányító hatóság a kizárt kedvezményezettek nevét, a kizárás okát és időtartamát a www.palyazat.gov.hu oldalon közzéteszi.
+
+#### 218. §
+
+(1) Az irányító hatóság a szabálytalansági döntésről öt napon belül értesíti a kedvezményezettet.
+
+(2) Rendszerszintű szabálytalanság esetén az irányító hatóság haladéktalanul értesíti az irányító hatóságot irányító helyettes államtitkárt és az audit hatóságot.
+
+(3) Az egyezmény 1. cikk (1) bekezdése szerinti szabálytalanság esetén az irányító hatóság az ügyet csalás gyanújaként minősíti, feljelentést tesz, és erről az irányító hatóságot irányító helyettes államtitkárt tájékoztatja, és az OLAF-jelentést megküldi.
+
+#### 219. §[^54]
+
+Az irányító hatóság a ww w. palyazat .gov. hu oldalon közzéteszi a végleges szabálytalansági döntés vonatkozásában a kedvezményezett nevét, a projekt címét, a szabálytalanság elkövetése módját, a szabálytalanság következményét és a szabálytalansággal érintett összeget.
+
+#### 220. §
+
+Ha külső ellenőrző szerv jelentése vagy a bíróság döntése alapján a szabálytalansági döntés felülvizsgálata szükséges, az irányító hatóság a szabálytalansági döntést visszavonja, és a végleges ellenőrzési jelentés alapján készült intézkedési terv elkészítésétől vagy a bíróság jogerős döntése kézhezvételétől számított negyvenöt napon belül új szabálytalansági döntést hoz.
+
+#### 221. §
+
+(1) Ha a szabálytalansági döntésben elírás, illetve számítási hiba van, az irányító hatóság a hiba észlelésétől számított öt napon belül a hibát kérelemre vagy hivatalból kijavítja, ha az nem hat ki a szabálytalansági döntés érdemére.
+
+(2) A szabálytalansági döntés kijavítása ellen jogorvoslati kérelem nem nyújtható be.
+
+### 53. A jogorvoslati kérelem
+
+#### 222. §
+
+(1) Ha a szabálytalansági döntés jogszabálysértő, a támogatási szerződésbe vagy a felhívásba ütközik, a kedvezményezett a szabálytalansági döntés ellen egy alkalommal jogorvoslattal élhet.
+
+(2)[^55] A jogorvoslati kérelmet a szabálytalansági döntés kézhezvételétől számított tíz napon belül elektronikus úton, az indokok megjelölésével a monitoring és információs rendszeren keresztül kell benyújtani.
+
+(3)[^56] A jogorvoslati kérelmet az irányító hatóság vizsgálja.
+
+#### 223. §
+
+A kedvezményezett a jogorvoslati kérelmet a jogorvoslati eljárás lezárásáig visszavonhatja.
+
+### 54. A jogorvoslati eljárásra vonatkozó általános szabályok
+
+#### 224. §
+
+(1)[^57] A jogorvoslati kérelemről az irányító hatóság a jogorvoslati kérelem kézhezvételétől számított negyvenöt napon belül dönt.
+
+(2)[^58] Az irányító hatóság legfeljebb tizenöt napos határidő kitűzésével a jogorvoslati kérelem kiegészítésére szólítja fel a kedvezményezettet, ha az a tényállás tisztázásához, illetve a jogorvoslati kérelem elbírálásához szükséges.
+
+(3) A jogorvoslati kérelem kiegészítésének időtartama a jogorvoslati kérelem elbírálásának határidejébe nem számít be.
+
+#### 225. §
+
+A szabálytalansági döntésben meghatározott jogkövetkezmények érvényesítése a jogorvoslati eljárás lezárásáig vagy megszüntetéséig nem kezdhető meg.
+
+#### 226. §
+
+Az irányító hatóság nincs kötve a jogorvoslati kérelemben foglaltakhoz.
+
+#### 227. §[^59]
+
+Az irányító hatóság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, ha
+
+a) a kedvezményezett a jogorvoslati kérelmet határidőn túl nyújtotta be,
+
+b) a jogorvoslati kérelmet nem az arra jogosult nyújtotta be,
+
+c) a jogorvoslati kérelmet ugyanazon kedvezményezett ugyanazon szabálytalansági döntés ellen terjesztette elő,
+
+d) a kedvezményezett a jogorvoslati kérelmet jogorvoslati döntés ellen nyújtotta be,
+
+e) a beadvány tartalmilag nem minősül jogorvoslati kérelemnek, vagy nem tartalmaz a megsértett jogszabályban, a támogatói okiratban, a felhívásban vagy a felhíváshoz tartozó egyéb szabályozóban foglalt rendelkezésekre vonatkozó pontos hivatkozást, vagy a megsértett rendelkezésre vonatkozó indokok részletes kifejtését,
+
+f) a kedvezményezett a jogorvoslati kérelmet a 231. § (1) bekezdés c) pontja alapján lefolytatott szabálytalansági eljárásban hozott szabálytalansági döntés ellen nyújtja be, kivéve, ha a jogorvoslati kérelemben új, a korábbi eljárás során nem vizsgált tényre, adatra, körülményre hivatkozik.
+
+#### 228. §
+
+(1) A jogorvoslati eljárást meg kell szüntetni, ha
+
+a) a kedvezményezett a jogorvoslati kérelmét visszavonta,
+
+b) a támogatási jogviszony – nem a jogorvoslati kérelemmel érintett szabálytalansági döntés következtében – megszűnt, vagy
+
+c) a kedvezményezett jogutód nélkül megszűnt.
+
+(2) A jogorvoslati eljárás megszüntetéséről az irányító hatóság haladéktalanul tájékoztatja a kedvezményezettet.
+
+#### 229. §
+
+(1) Az irányító hatóság a jogorvoslati eljárás során saját hatáskörben elrendelheti a kifizetés felfüggesztését.
+
+(2) Ha a kifizetés felfüggesztésének oka már nem áll fenn, az irányító hatóság a kifizetés felfüggesztését megszünteti.
+
+### 55. A jogorvoslati eljárás
+
+#### 230. §
+
+(1)[^60] Ha a jogorvoslati kérelem alapján az irányító hatóság megállapítja, hogy a szabálytalansági döntés jogszabályt sért, a támogatási szerződésbe vagy a felhívásba ütközik, a szabálytalansági döntést visszavonja.
+
+(2) Az irányító hatóság a szabálytalansági döntés visszavonásáról a döntéstől számított három napon belül tájékoztatja a kedvezményezettet.
+
+(3)[^61] Ha a szabálytalansági gyanú továbbra is fennáll, az irányító hatóság annak kivizsgálására új szabálytalansági eljárást folytat le.
+
+### 56. A jogorvoslati döntés
+
+#### 231. §
+
+(1)[^62] Az irányító hatóság a jogorvoslati eljárást követően
+
+a) a szabálytalansági döntést helybenhagyja,
+
+b) a szabálytalansági döntést megsemmisíti, vagy
+
+c) a szabálytalansági döntést megsemmisíti, és kezdeményezi az irányító hatóságnál új szabálytalansági eljárás lefolytatását.
+
+(2)[^63] Az irányító hatóság a jogorvoslati döntést megindokolja.
+
+(3) Az (1) bekezdés c) pontja szerinti döntésre akkor kerülhet sor, ha
+
+a) a jogorvoslati döntés meghozatalához nincs elég adat,
+
+b) a szabálytalansági döntésben megállapított jogkövetkezmény nem igazodik a szabálytalanság súlyához,
+
+c) a jogorvoslati eljárás alatt új tény merült fel, vagy
+
+d) a tényállás további tisztázása szükséges, de arra a jogorvoslati kérelem kiegészítése keretében nincs lehetőség.
+
+#### 232. §
+
+Ha a jogorvoslati döntésben elírás, illetve számítási hiba van, az irányító hatóság a hibát kérelemre vagy hivatalból kijavítja, ha az nem hat ki a jogorvoslati döntés érdemére.
+
+## XI. Fejezet — A KÖVETELÉSKEZELÉS
+
+### 57. A követeléskezelés általános szabályai
+
+#### 233. §
+
+A támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felbontása esetén a kedvezményezett a jogosulatlanul igénybe vett támogatást köteles visszafizetni.
+
+#### 234. §
+
+(1) A kedvezményezett a jogosulatlanul igénybe vett támogatást a Ptk. 6:47. §-a szerinti kamattal növelt mértékben köteles visszafizetni.
+
+(2) A kamatszámítás kezdő időpontja a támogatás kifizetésének napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
+
+(3) A (2) bekezdéstől eltérően, ha
+
+a) a kedvezményezett visszafizetési kötelezettsége a támogatási szerződés módosítása miatt keletkezett, a kamatszámítás kezdő időpontja a módosítás hatálybalépésének napja,
+
+b) beszámításra kerül sor, a kamatszámítás utolsó napja a beszámítással érintett bizonylat megfelelő benyújtásának napja,
+
+c) a kedvezményezett ellen felszámolási eljárás indul, a kamatszámítás utolsó napja a felszámolási eljárás indulásának napja.
+
+(4) Ha a kedvezményezett a tőkét kiegyenlítette, a kamat nem nő tovább.
+
+(5) A kedvezményezett visszafizetési kötelezettséget megállapító döntés ellen benyújtott kifogása vagy jogorvoslati kérelmének elutasítása esetén, a kamatot a kifogás vagy a jogorvoslati kérelem elbírálásának időtartamára, de legfeljebb a kifogás vagy a jogorvoslati kérelem elbírálására e rendeletben biztosított időtartamra is fel kell számítani.
+
+#### 235. §
+
+(1) Ha a kedvezményezett a visszafizetési kötelezettség teljesítésével késedelembe esik, a késedelme után a Ptk. 6:48. §-a szerinti késedelmi kamatot köteles fizetni.
+
+(2) Az irányító hatóság a késedelmi kamatot a tőkére vetítve határozza meg.
+
+(3) A késedelmikamat-számítás kezdő időpontja a késedelembe esés napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.
+
+#### 236. §
+
+Nem kell kamatot fizetni a támogatás határidőben történő visszafizetése esetén, ha a visszafizetési kötelezettség az irányító hatóság érdekkörében felmerült okból keletkezett.
+
+#### 237. §
+
+(1) Kis összegű a követelés, ha annak összege a Magyarország központi költségvetéséről szóló törvényben meghatározott értékhatárt nem éri el.
+
+(2) Az (1) bekezdés szerinti összeget projektenként, jogcímenként és számviteli évenként kell vizsgálni, valamint a tőkére és a kamatra külön-külön kell meghatározni.
+
+(3) Kis összegű követelés esetén az irányító hatóság leírja a követelést. Kis összegű kamatkövetelés csak akkor írható le, ha a tőke visszafizetése már teljesült.
+
+(4) Ha a követelés részleges megtérülése után a fennmaradó követelés az (1)–(3) bekezdés alapján kis összegű, az irányító hatóság leírja a követelést.
+
+#### 238. §
+
+(1) Szállítói előleg jogosulatlan igénybevétele esetén a visszafizetési kötelezettséget a kedvezményezettel szemben kell előírni.
+
+(2) Ha a szállítói előleg jogosulatlan igénybevétele a szállítónak felróható, és a szállító nem nyújtott biztosítékot, a követelés behajthatatlansága esetén az irányító hatóság kezdeményezi az állami adóhatóságnál a szállító és a szállítóban többségi befolyással rendelkező szervezet adószámának törlését.
+
+### 58. Az önkéntes visszafizetés
+
+#### 239. §
+
+(1) Ha a kedvezményezett visszafizetési szándékáról tájékoztatja az irányító hatóságot és a visszafizetendő összeget teljesen vagy részben visszafizeti, az irányító hatóság a visszafizetést követő öt napon belül tájékoztatja a kedvezményezettet a visszafizetés teljesüléséről és az esetlegesen fennálló tartozásról.
+
+(2) Ha a kedvezményezett vagy a szállító az irányító hatóság tájékoztatása nélkül visszafizetést teljesít, az irányító hatóság a visszafizetést követő öt napon belül tájékoztatást kér a kedvezményezettől a visszafizetés okáról, majd ezt követően az (1) bekezdés szerint jár el.
+
+### 59. A beszámítás
+
+#### 240. §
+
+(1) Ha a kedvezményezettnek visszafizetési kötelezettsége keletkezik, az irányító hatóság a követelés összegét a kedvezményezett részére a projekt keretében megítélt, de még ki nem fizetett támogatásba beszámítja.
+
+(2) Beszámításra a kedvezményezett jogosulatlanul igénybe vett támogatás visszafizetésére történő felszólítása vagy a részletfizetési megállapodás megkötése után is sor kerülhet.
+
+#### 241. §
+
+Az irányító hatóság a beszámításról haladéktalanul tájékoztatja a kedvezményezettet.
+
+### 60. A kedvezményezett visszafizetésre történő felszólítása
+
+#### 242. §
+
+(1) Ha a leírás, beszámítás nem vagy csak részben lehetséges, az irányító hatóság felszólítja a kedvezményezettet a jogosulatlanul igénybe vett támogatás visszafizetésére.
+
+(2) A kedvezményezett köteles a jogosulatlanul igénybe vett támogatást a visszafizetési felszólítás kézhezvételétől számított harminc napon belül visszafizetni.
+
+#### 243. §
+
+(1) A kedvezményezett visszafizetésre történő felszólítását követően további kifizetés nem teljesíthető a kedvezményezett részére a visszafizetéssel érintett támogatási szerződés vonatkozásában.
+
+(2) A kifizetés (1) bekezdés szerinti felfüggesztése a kedvezményezett más projektjét nem érinti.
+
+(3) Az irányító hatóság a kifizetés felfüggesztését megszünteti, ha a kedvezményezett a jogosulatlanul igénybe vett támogatást visszafizeti.
+
+#### 244. §
+
+Ha a kedvezményezett a visszafizetési kötelezettségét teljesíti, az irányító hatóság a visszafizetési kötelezettség megszűnéséről tizenöt napon belül tájékoztatja.
+
+#### 245. §
+
+(1) Ha a kedvezményezett a visszafizetési kötelezettségét meghaladó mértékben teljesít visszafizetést, és
+
+a) még maradt a részére kifizethető támogatás, az irányító hatóság a túlfizetést a következő elszámolással együtt fizeti vissza,
+
+b) már nincs a részére kifizethető támogatás, az irányító hatóság a túlfizetést haladéktalanul visszafizeti.
+
+(2) Az irányító hatóság nem fizeti vissza a kedvezményezett részére a túlfizetés összegét, ha annak összege nem haladja meg a tízezer forintot.
+
+### 61. A hitelezői igény érvényesítése
+
+#### 246. §
+
+(1) Az irányító hatóság figyelemmel kíséri a kedvezményezett fizetésképtelensége miatt, illetve megszüntetésével összefüggésben indult vagy a kedvezményezett megszüntetésére irányuló eljárások megindítását és közzétételét.
+
+(2) Az irányító hatóság az (1) bekezdés szerinti eljárásokban a követelését bejelenti.
+
+### 62. A részletfizetés
+
+#### 247. §
+
+(1) A kedvezményezett a visszafizetési kötelezettség teljesítése érdekében egy alkalommal részletfizetési kérelmet nyújthat be az irányító hatósághoz.
+
+(2) Az irányító hatóság a részletfizetési kérelem elbírálása során figyelembe veszi
+
+a) a visszafizetési kötelezettség összegét,
+
+b) a még ki nem fizetett támogatást,
+
+c) a projekt megvalósításának és fenntartásának tervezett időtartamát,
+
+d) a kedvezményezett korábbi visszafizetési kötelezettsége teljesítését és
+
+e) a program zárásának várható dátumát.
+
+(3) A visszafizetési kötelezettség futamideje nem haladhatja meg a tizenkét hónapot. A részletfizetés meghatározásánál a részletfizetési kérelem beérkezése napjáig számolt kamatokkal terhelt összeget kell figyelembe venni, kamatot a részletfizetés idejére nem kell felszámítani.
+
+#### 248. §
+
+(1) Az irányító hatóság a részletfizetési kérelemről annak beérkezését követő tizenöt napon belül dönt.
+
+(2) Ha az irányító hatóság a részletfizetési kérelmet elfogadja, erről a kedvezményezettet a döntéstől számított öt napon belül a részletfizetési megállapodás tervezete megküldésével tájékoztatja.
+
+(3) Ha a kedvezményezett az általa aláírt megállapodást annak kézhezvételétől számított tizenöt napon belül nem küldi meg az irányító hatóság részére, az irányító hatóság a részletfizetést engedélyező döntését visszavonja.
+
+(4) Ha az irányító hatóság a részletfizetési kérelmet elutasítja, erről a kedvezményezettet az elutasítástól számított öt napon belül az indokok megjelölésével tájékoztatja.
+
+#### 249. §
+
+(1) Ha a kedvezményezett előtörlesztést vagy a visszafizetési kötelezettség átütemezését kéri, az irányító hatóság a kérelemről a részletfizetési kérelem elbírálására irányadó szabályok szerint dönt.
+
+(2) A kedvezményezett három alkalommal kérheti a visszafizetési kötelezettség átütemezését.
+
+(3) Ha az irányító hatóság az (1) bekezdés szerinti kérelmet elfogadja, a részletfizetési megállapodást módosítani kell.
+
+#### 250. §
+
+(1) Ha a kedvezményezett a visszafizetési kötelezettségét a részletfizetési megállapodás szerint teljesíti, az irányító hatóság csak a futamidő végén, a visszafizetési kötelezettség megszűnéséről tájékoztatja a kedvezményezettet.
+
+(2) Ha a kedvezményezett bármely részlet megfizetését annak esedékességekor elmulasztja, vagy részben teljesíti, az irányító hatóság a késedelembe eséstől számított tizenöt napon belül tájékoztatja a kedvezményezettet a részletfizetési megállapodás megszűnéséről és az újraszámolt visszafizetési kötelezettség összegéről.
+
+### 63. A biztosíték érvényesítése
+
+#### 251. §
+
+Ezt az alcímet kell alkalmazni akkor, ha
+
+a) a fizetési határidő eredménytelenül telt el,
+
+b) a beszámítás nem vezetett eredményre, és
+
+c) nem jött létre részletfizetési megállapodás.
+
+#### 252. §
+
+Az irányító hatóság a 251. §-ban meghatározott feltételek fennállása esetén megkezdi a biztosíték érvényesítését.
+
+#### 253. §
+
+(1) Az irányító hatóság a támogatási szerződésben meghatározott biztosítékok közül elsődlegesen azt érvényesíti, amellyel a visszakövetelt összeg leghatékonyabban beszedhető.
+
+(2) Ha az (1) bekezdés szerint választott biztosíték érvényesítésével történő behajtás eredménytelen vagy részben eredményes, akkor az irányító hatóság az (1) bekezdés szerinti szempont alapján más biztosíték érvényesítésére tér át.
+
+#### 254. §
+
+Ha a biztosíték érvényesítése hat hónapnál több időt vesz igénybe, az irányító hatóság hathavonta újraszámolja a követelés és a napi kamat összegét az irányadó jegybanki alapkamat figyelembevételével.
+
+#### 255. §
+
+Ha az irányító hatóság a követelést szabálytalanság miatt írta elő, és a kifizetést nem függesztette fel, akkor a fizetési határidő letelte után a kifizetést felfüggeszti, ha van még fennálló követelés.
+
+### 64. Az adók módjára történő behajtás
+
+#### 256. §
+
+(1) Ha a beszámítás nem volt lehetséges, vagy azt követően a kedvezményezett visszafizetési kötelezettsége továbbra is fennáll, és a kedvezményezett a visszafizetési kötelezettségének nem vagy csak részben tett eleget, továbbá a 63. alcím szerinti eljárás nem vagy csak részben vezetett eredményre, az irányító hatóság a vissza nem fizetett támogatás adók módjára történő behajtása céljából haladéktalanul megkeresi az állami adóhatóságot.
+
+(2) Az irányító hatóság indokolt esetben a vissza nem fizetett támogatás adók módjára történő behajtása céljából soron kívül is megkeresheti az állami adóhatóságot.
+
+(3) Az irányító hatóság a megkereséssel egyidejűleg megküldi az állami adóhatóság részére a kedvezményezett visszafizetési kötelezettségével összefüggésben rendelkezésére álló dokumentumokat.
+
+(4) Ha a kedvezményezett a 88. § (1) bekezdésében foglaltakra tekintettel nem nyújtott biztosítékot, és az adók módjára történő behajtás eredménytelen volt, az irányító hatóság kezdeményezi az állami adóhatóságnál a kedvezményezett adószámának törlését.
+
+### 65. A követelés behajthatatlanná nyilvánítása
+
+#### 257. §
+
+(1) Ha a követelés adók módjára történő behajtása nem járt eredménnyel, a követelést az irányító hatóság behajthatatlannak nyilvánítja. Az államháztartás szervezetei esetén a behajthatatlanná nyilvánításra az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 1. § (1) bekezdés 1. pontja figyelembevételével kerülhet sor.
+
+(2) A nem az irányító hatóság által kezdeményezett, fizetésképtelenség esetén lefolytatandó, illetve fizetésképtelenséget eredményező eljárások esetén
+
+a) gazdasági társaság vonatkozásában a szervezet jogutód nélküli megszűnéséről szóló, a Cégközlönyben megjelent határozat,
+
+b) nonprofit szervezet vonatkozásában a bírósági nyilvántartásból való törlés
+
+alapján kerülhet sor a követelés behajthatatlanná nyilvánításra.
+
+(3) A behajthatatlan követelést le kell írni. A leírt összeget tőke, kamat és forrás szerinti bontásban kell nyilvántartani.
+
+### 66. A támogatás visszafizetését megállapító döntés visszavonása
+
+#### 258. §
+
+(1) Az irányító hatóság a támogatás visszafizetését megállapító döntését indokolt esetben visszavonja.
+
+(2) Az irányító hatóság a támogatás visszafizetését megállapító döntés visszavonásáról haladéktalanul tájékoztatja a kedvezményezettet.
+
+#### 259. §
+
+Ha a támogatás visszafizetését megállapító döntés visszavonását megelőzően a kedvezményezett a visszafizetési kötelezettségét részben vagy hiánytalanul teljesítette, az irányító hatóság a befolyt összeget visszafizeti a kedvezményezett részére.
+
+## XII. Fejezet — A HELYSZÍNI ELLENŐRZÉS
+
+### 67. A helyszíni ellenőrzésre vonatkozó általános szabályok
+
+#### 260. §
+
+(1) A folyamatba épített ellenőrzés részeként az irányító hatóság kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek vonatkozásában helyszíni ellenőrzést végezhet.
+
+(2) A helyszíni ellenőrzés a támogatási szerződés megkötése után rendelhető el.
+
+(3) Az első helyszíni ellenőrzésnek az elszámolhatóság felhívás szerinti kezdetétől, egyéb esetben az előző helyszíni ellenőrzés által vizsgált időszak végétől számított időszakot kell lefednie.
+
+(4) A kedvezményezett vonatkozásában több intézkedés keretében felmerülő helyszíni ellenőrzéseket egy időpontban is le lehet folytatni.
+
+#### 261. §
+
+(1) A helyszíni ellenőrzés tervezhetősége szerint lehet
+
+a) tervezett helyszíni ellenőrzés,
+
+b) rendkívüli helyszíni ellenőrzés.
+
+(2) A helyszíni ellenőrzés időpontját tekintve lehet
+
+a) közbenső helyszíni ellenőrzés, amely a projektmegvalósítás szakaszában végzett ellenőrzés,
+
+b) záró helyszíni ellenőrzés, amely a záró kifizetési kérelem jóváhagyását megelőzően végzett ellenőrzés,
+
+c) fenntartási helyszíni ellenőrzés, amely a fenntartási időszakban végzett ellenőrzés.
+
+#### 262. §
+
+(1) A százmillió forint alatti támogatással megvalósuló projektek esetén az irányító hatóság legalább a projektek 5%-át a helyszínen ellenőrzi a záró kifizetési kérelem jóváhagyása előtt.
+
+(2)[^64] Ha a projekt támogatása eléri az ötszázmillió forintot, az irányító hatóság a projektet legalább egyszer, a záró kifizetési kérelem jóváhagyása előtt a helyszínen ellenőrzi.
+
+(3)[^65] A 100 forintot elérő, de 500 millió forint alatti támogatásban részesülő projektek esetén az irányító hatóság legalább a projektek 15%-át a helyszínen ellenőrzi a záró kifizetési kérelem jóváhagyása előtt.
+
+#### 263. §
+
+Az irányító hatóság rendkívüli helyszíni ellenőrzést rendelhet el, ha a projektmegvalósítás vagy a -fenntartás során felmerült információk ezt indokolják.
+
+#### 264. §
+
+A helyszíni ellenőrzés a kedvezményezett dokumentált egyetértése és a technikai feltételek rendelkezésre állása esetén történhet elektronikus alkalmazás használatával is. A helyszíni ellenőrzés tervezett helyszínén a kedvezményezett által készített olyan kép- és videófelvétel, amely kétségkívül igazolja a bizonyítandó tényt, elfogadható helyszíni ellenőrzésnek.
+
+### 68. A helyszíni ellenőrzés előkészítése
+
+#### 265. §
+
+(1) A helyszíni ellenőrzést legalább két fő végzi.
+
+(2) Az irányító hatóság a helyszíni ellenőr részére megbízólevelet állít ki.
+
+#### 266. §
+
+(1) Ha a felhívás, illetve a projekt jellege indokolja, az irányító hatóság a helyszíni ellenőrzés lefolytatásába külső szakértőt vonhat be.
+
+(2) A szakértő titoktartási és összeférhetetlenségi nyilatkozatot tesz.
+
+#### 267. §
+
+(1) Az irányító hatóság a helyszíni ellenőrzés időpontja előtt legalább öt nappal értesíti a kedvezményezettet a helyszíni ellenőrzésről.
+
+(2) Az (1) bekezdés szerinti időtartamnál rövidebb akkor állapítható meg, ha ahhoz a kedvezményezett dokumentáltan hozzájárult.
+
+(3) Az irányító hatóság mellőzheti a helyszíni ellenőrzés időpontjának egyeztetését és a helyszíni ellenőrzésről történő értesítést, ha az a helyszíni ellenőrzés eredményességét veszélyeztetné.
+
+### 69. A helyszíni ellenőrzés lefolytatása
+
+#### 268. §
+
+A helyszíni ellenőrzés lefolytatása előtt a helyszíni ellenőr köteles
+
+a) személyazonosságát igazolni, megbízólevelét bemutatni, és tájékoztatást adni arról, hogy mely szervezet nevében végzi az ellenőrzést,
+
+b) tájékoztatást adni a helyszíni ellenőrzés típusáról, céljáról, a vizsgálandó szempontokról.
+
+#### 269. §
+
+A helyszíni ellenőrzés során ellenőrizni kell különösen
+
+a) a projekt támogatási szerződésnek megfelelő fizikai és pénzügyi előrehaladását és azok összhangját,
+
+b) azt, hogy a projekt megvalósítását és a kifizetési kérelmet alátámasztó dokumentumok eredeti példánya rendelkezésre áll,
+
+c) a nyilvánosságra és tájékoztatásra vonatkozó szabályok betartását,
+
+d) a projektszintű mérföldkövek teljesülését és ezek alátámasztó dokumentumait.
+
+#### 270. §
+
+Az elszámoló bizonylatok ellenőrzése történhet mintavételezés alapján, az irányító hatóság által kidolgozott módszertan szerint.
+
+#### 271. §
+
+A helyszíni ellenőr jogosult
+
+a) az ellenőrzött szervezet helyiségeibe belépni, figyelemmel az ellenőrzött szervezet biztonsági előírásaira, munkarendjére,
+
+b) az ellenőrzött szervezetnél az ellenőrzés tárgyához kapcsolódó iratokba és más dokumentumokba, az elektronikus adathordozón tárolt adatokba betekinteni a jogszabályban meghatározott adat- és titokvédelmi előírások betartásával, azokról másolatot, kivonatot készíttetni,
+
+c) az ellenőrzött szervezet vezetőjétől és az ellenőrzéssel érintett kérdésben eljáró alkalmazottjától információt kérni,
+
+d) a helyszíni ellenőrzés során fényképet, videó- vagy hangfelvételt készíteni.
+
+### 70. A helyszíni ellenőrzés lezárása
+
+#### 272. §
+
+(1) A helyszíni ellenőr a helyszíni ellenőrzés végén jegyzőkönyvet készít, amelyben rögzíti az elvégzett ellenőrzéseket és azok eredményét, a kedvezményezett álláspontját, valamint szabálytalansági gyanú és hiányosság feltárása esetén a szükséges intézkedéseket.
+
+(2) A helyszínen elkészített jegyzőkönyvnek minden, a helyszínen tett megállapítást tartalmaznia kell.
+
+(3) A helyszíni ellenőrök és az ellenőrzött képviseletére feljogosított személy a jegyzőkönyvet aláírják.
+
+#### 273. §
+
+Ha a helyszíni ellenőrzés alapján indokolt, az irányító hatóság megteszi a szükséges intézkedéseket a helyszíni ellenőrzés lezárásától számított öt napon belül.
+
+#### 274. §
+
+(1) Az irányító hatóság a jegyzőkönyvben rögzített intézkedés teljesítését alátámasztó dokumentumok beérkezését követő öt napon belül értesíti a kedvezményezettet az intézkedés teljesítésének elfogadásáról vagy elutasításáról.
+
+(2) Az irányító hatóság az (1) bekezdés szerinti döntése előtt hiánypótlást rendelhet el.
+
+(3) Az irányító hatóság az (1) bekezdés szerinti határidőt indokolt esetben öt nappal meghosszabbíthatja.
+
+(4) A kedvezményezett indokolt esetben írásban kérheti a jegyzőkönyvben rögzített intézkedés teljesítési határidejének meghosszabbítását.
+
+(5) Ha a kedvezményezett a meghosszabbított határidőben sem teljesíti az intézkedést, az irányító hatóság a kapcsolódó kifizetési kérelmet elutasíthatja, a támogatás kifizetését felfüggesztheti, szabálytalansági eljárást indíthat, valamint a támogatási szerződésben rögzített más szankciót alkalmazhat.
+
+(6) Az irányító hatóság a döntésről tájékoztatja a kedvezményezettet.
+
+## XIII. Fejezet — MONITORING ÉS ÉRTÉKELÉS
+
+### 71. A monitoring és információs rendszer
+
+#### 275. §
+
+(1) A monitoring és információs rendszer biztosítja a támogatást igénylők regisztrációját, a támogatást igénylők és a kedvezményezettek adatainak egységes nyilvántartását, valamint az e rendelet szerinti eljárási cselekmények végrehajtását.
+
+(2) Adatszolgáltatás – ha a kért adat a monitoring és információs rendszerben rögzítésre került – a monitoring és információs rendszerben rögzített adatok alapján történik.
+
+(3) A monitoring és információs rendszerben rögzített ellenőrzési listák elektronikusan kitöltve, nyomtatás nélkül hitelesnek minősülnek, ha azok a monitoring és információs rendszerben visszakereshetőek, és ezen információk elérhetősége az iratmegőrzési kötelezettség végéig biztosított.
+
+#### 276. §
+
+(1) A monitoring és információs rendszer kapcsolódik egyes közhiteles nyilvántartásokhoz.
+
+(2) Ha valamely naprakész adat az (1) bekezdés szerinti adatkapcsolat útján elérhető, az adat benyújtása a támogatást igénylőtől vagy a kedvezményezettől nem kérhető.
+
+#### 277. §
+
+Ha a monitoring és információs rendszerben rögzítendő adatok vonatkozásában hiányosság vagy a rögzített adatok vonatkozásában hiba állapítható meg, az adat rögzítéséért felelős személy haladéktalanul pótolja vagy javítja az adatokat.
+
+#### 278. §
+
+(1) Ha a monitoring és információs rendszer valamely eljárási cselekmény végrehajtását nem biztosítja, annak más módon történő végrehajtását dokumentálni kell.
+
+(2) Az (1) bekezdés szerinti kötelezettség az értesítési és tájékoztatási kötelezettségre is vonatkozik.
+
+(3) Az (1) bekezdés szerinti esetben az adat rögzítéséért felelős személy a monitoring és információs rendszer rendelkezésre állását követően haladéktalanul rögzíti az adatokat a monitoring és információs rendszerben.
+
+#### 279. §
+
+Ha a monitoring és információs rendszer a kedvezményezett hiánypótlási kötelezettsége teljesítését nem biztosítja, az irányító hatóság a hiánypótlásra nyitva álló határidőt legfeljebb öt nappal meghosszabbítja.
+
+#### 280. §
+
+(1) Ha a monitoring és információs rendszer működése során üzemzavar lép fel, az adat rögzítéséért felelős személy az üzemzavar megszűnését követően haladéktalanul pótolja a hiányzó adatokat és dokumentumokat.
+
+(2) Az üzemzavar időtartama alatt az e rendelet szerinti határidők szünetelnek.
+
+## XIV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 72. Hatályba léptető rendelkezések
+
+#### 281. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+### 73. Az Európai Unió jogának való megfelelés
+
+#### 282. §
+
+Ez a rendelet a brexit miatti kiigazításokra képzett tartalék létrehozásáról szóló, 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+---
+
+[^1]: A 3. § 4a. pontját a 197/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be, szövege a 220/2026. (IX. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 8. § a 197/2023. (V. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 13/A. §-t a 197/2023. (V. 22.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A 15. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte, újonnan a 667/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 17/A. §-t a 197/2023. (V. 22.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A 18. § a 197/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^7]: A 20. § (1a) bekezdését a 197/2023. (V. 22.) Korm. rendelet 6. §-a iktatta be.
+[^8]: A 21. § a 197/2023. (V. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^9]: A 21. § (1) bekezdés h) pontját a 667/2023. (XII. 29.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^10]: A 21. § (2) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^11]: A 22. § (4) bekezdését a 197/2023. (V. 22.) Korm. rendelet 8. §-a iktatta be.
+[^12]: A 23. § (4a) bekezdését a 197/2023. (V. 22.) Korm. rendelet 9. §-a iktatta be.
+[^13]: A 24. § (4) bekezdését a 197/2023. (V. 22.) Korm. rendelet 10. §-a iktatta be.
+[^14]: A 24/A. §-t a 197/2023. (V. 22.) Korm. rendelet 11. §-a iktatta be.
+[^15]: A 25. § (2) bekezdés a) pontja a 197/2023. (V. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^16]: A 25. § (2) bekezdés b) pontja a 197/2023. (V. 22.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^17]: A 25. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^18]: A 25. § (4) bekezdése a 197/2023. (V. 22.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^19]: A 26. § a 197/2023. (V. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^20]: A 26/A. §-t a 197/2023. (V. 22.) Korm. rendelet 14. §-a iktatta be.
+[^21]: A 45. § a 667/2023. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 71. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^23]: A 71. § (5) bekezdését a 667/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 76. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^25]: A 76. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^26]: A 76. § (3) bekezdését a 197/2023. (V. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^27]: A 76. § (4) bekezdését a 197/2023. (V. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^28]: A 78. § (1) bekezdés d) pontja a 197/2023. (V. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^29]: A 84. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^30]: A 88. § (1) bekezdés b) pontja a 126/2022. (III. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^31]: A 88. § (1) bekezdés c) pontját a 126/2022. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A 88. § (2) bekezdése a 126/2022. (III. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^33]: A 112. § (1) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^34]: A 122. § (3) bekezdését a 126/2022. (III. 28.) Korm. rendelet 2. §-a iktatta be, szövege a 197/2023. (V. 22.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^35]: A 123. § (3) bekezdését a 126/2022. (III. 28.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 134. § (2) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^37]: A 135. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^38]: A 167. § (1) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^39]: A 168. § (2) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg. [Nem vezethető át a 667/2023. (XII. 29.) Korm. rendelet 10. § a) pontjában foglalt azon módosítás, amely szerint a 168. § (2) bekezdésében a „záró projektfenntartási jelentésről” szövegrész helyébe a „ZPFJ-ről” szöveg lép.]
+[^40]: A 38/A. alcímet (169/A. §-t) a 667/2023. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^41]: A 175. § a 667/2023. (XII. 29.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^42]: A 191. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^43]: A 193. § a 197/2023. (V. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^44]: A 196. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^45]: A 197. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^46]: A 198. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^47]: A 199. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^48]: A 199. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^49]: A 200. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^50]: A 201. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^51]: A 205. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^52]: A 216. § (2) bekezdés e) pontját a 197/2023. (V. 22.) Korm. rendelet 30. §-a iktatta be.
+[^53]: A 217. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^54]: A 219. § a 197/2023. (V. 22.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^55]: A 222. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^56]: A 222. § (3) bekezdését a 197/2023. (V. 22.) Korm. rendelet 33. § (2) bekezdése iktatta be.
+[^57]: A 224. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^58]: A 224. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^59]: A 227. § a 197/2023. (V. 22.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^60]: A 230. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^61]: A 230. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^62]: A 231. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^63]: A 231. § (2) bekezdése a 197/2023. (V. 22.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^64]: A 262. § (2) bekezdése a 667/2023. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^65]: A 262. § (3) bekezdését a 667/2023. (XII. 29.) Korm. rendelet 9. §-a iktatta be.

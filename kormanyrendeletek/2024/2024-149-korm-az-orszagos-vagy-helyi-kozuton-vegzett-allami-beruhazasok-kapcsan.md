@@ -1,0 +1,231 @@
+---
+title: "149/2024. (VI. 28.) Korm. rendelet az országos vagy helyi közúton végzett állami beruházások kapcsán, valamint az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységek részletes szabályairól"
+identifier: "149/2024. (VI. 28.) Korm. rendelet"
+njt_id: "2024-149-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/149"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-06-28
+in_force_from: 2024-09-26
+last_amended: 2024-09-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-149-20-22"
+retrieved: 2026-10-12
+---
+
+# 149/2024. (VI. 28.) Korm. rendelet az országos vagy helyi közúton végzett állami beruházások kapcsán, valamint az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységek részletes szabályairól
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 15a. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+(1) E rendelet hatálya az állami beruházások építtetőjére (a továbbiakban: építési tevékenységet végző), valamint az állami beruházásokkal érintett létesítményeknek a nemzeti vagyonról szóló törvény szerinti vagyonkezelőjére (a továbbiakban: vagyonkezelő) terjed ki.
+
+(2) A rendelet hatálya az állami beruházások során végzett
+
+a) építési tevékenységhez kapcsolódó hulladékképződés megelőzésével kapcsolatos tevékenységekre,
+
+b) építési tevékenység során kitermelődő építési-bontási anyagokra
+
+terjed ki.
+
+(3) Az e rendeletben foglaltakat a kísérleti építési munkák vonatkozásában is alkalmazni kell.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1\. *állami beruházás:* az országos vagy helyi közúton végzett olyan építési tevékenység, amelyet a fenntartásra, a fejlesztésre és a fejlesztéssel összefüggő üzemeltetésre alapított költségvetési szerv, 100%-os állami tulajdonban álló gazdálkodó szervezet vagy a nemzeti vagyonról szóló törvény szerinti országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja végez, továbbá az országos vasúti pályahálózaton vagy a térségi, elővárosi vasúti pályahálózaton végzett olyan építési tevékenység, amelyet a vasúti közlekedésről szóló törvény szerinti építtető – részben vagy egészben állami tulajdonban álló – gazdálkodó szervezet végez;
+
+2\. *elsődleges építési alapanyag:* olyan építési alapanyag, amely gyártásból (építési termék), kitermelésből (természetes építőanyag) vagy ezek keverékéből származik;
+
+3\. *építési alapanyag:* építménybe történő beépítésre szánt alapanyag;
+
+4\. *építési-bontási anyag:* az építési tevékenység végzése során kitermelődő vissznyereményi anyag, amely újbóli felhasználásra alkalmas, és az újbóli felhasználás a környezetre nem veszélyes;
+
+5\. *kísérleti építési munka:* valamely technológiai újítás érdekében eltérési hozzájárulással megvalósuló vagy a vonatkozó műszaki szabályozási dokumentumoknak megfelelő, de a gyakorlatban még nem alkalmazott olyan építési munka, amelyet kísérletspecifikus mintavételi és minőségigazolási tervben rögzített idejű monitoring időszak követ;
+
+6\. *másodlagos építési alapanyag:* építési-bontási anyag, építési-bontási hulladékból származó és hasznosításon átesett vagy ipari melléktermékként kitermelődött és hasznosításon átesett építési alapanyag, amely az elsődleges építési alapanyagot helyettesíti;
+
+7\. *útépítési beruházás:* az országos és helyi közutakon végzett állami beruházás;
+
+8\. *vasútépítési beruházás:* az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett állami beruházás.
+
+## 3. A hulladékképződés megelőzése
+
+### 3. §
+
+(1) A hulladékképződés megelőzése érdekében az építési tevékenység során kitermelődő
+
+a) humuszos termőréteget és
+
+b) az építési-bontási anyagot – ha műszaki szempontból lehetséges –
+
+az eredeti rendeltetési céljára kell felhasználni.
+
+(2) Az építési tevékenységet végző az építési-bontási anyagot köteles újból felhasználni, ha a (4) bekezdésben foglalt feltétel teljesül.
+
+(3) Ha a fel nem használt építési-bontási anyagnak a kitermelődés helyén történő építési célú közvetlen felhasználása nem biztosítható, az építési tevékenységet végző gondoskodik ezen építési-bontási anyagnak a megfelelő tárolásáról és az általa végzett más építési tevékenység során történő felhasználásáról vagy hasznosításáról.
+
+(4) A kitermelt építési-bontási anyag újbóli felhasználása csak akkor lehetséges, ha az építési tevékenységet végző a kitermelt építési-bontási anyag újbóli felhasználhatóságára vonatkozó minősítési eljárás során biztosítja, hogy a kitermelt építési-bontási anyag újbóli felhasználásának környezetre gyakorolt hatása nem kedvezőtlenebb, mint az azonos funkciójú, új építési termék felhasználása.
+
+(5) Az építési tevékenységet végző az építési-bontási anyag újbóli felhasználásáig történő kezelésére vonatkozó belső szakmai szabályokat úgy köteles meghatározni, hogy a kitermelt építési-bontási anyag tárolásának és szállításának környezetre gyakorolt hatása ne legyen kedvezőtlenebb, mint az azonos funkciójú, új építési anyag tárolása és szállítása.
+
+### 4. §
+
+(1) Az építési-bontási anyagot a nyilvántartásba vételét követő három éven belül a vagyonkezelői jogkörében eljáró országos közút kezelője, valamint a nemzeti vagyonról szóló törvény szerinti országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja a vonatkozó szabványok és műszaki szakmai szabályok alapján köteles építési alapanyaggá minősíteni.
+
+(2) Az (1) bekezdésben meghatározott határidőn belül nem minősített vagy építési termékké vagy másodlagos építési alapanyaggá nem átminősíthető építési-bontási anyag építési-bontási hulladéknak minősül.
+
+## 4. A nyilvántartási és adatszolgáltatási kötelezettségre vonatkozó előírások
+
+### 5. §
+
+Építési tevékenység során kitermelődő anyagokról naprakész nyilvántartást vezet:
+
+a) az építési tevékenység végzője az építési tevékenység végzése során kitermelődő építési-bontási anyagról állami beruházásonként (a továbbiakban: anyagmérleg) és
+
+b) az építési-bontási anyag átmeneti tárolását szolgáló hely üzemeltetője a beszállított és kiszállított építési-bontási anyagról ingatlanonként (a továbbiakban: telephelyi nyilvántartás).
+
+### 6. §
+
+(1) Az anyagmérleget és a telephelyi nyilvántartást akképpen kell vezetni, hogy abból az e rendelet szerinti adatszolgáltatási kötelezettség teljesíthető legyen, és alkalmas legyen arra, hogy abból a hatósági ellenőrzés alkalmával az építési tevékenység végzése során kitermelődő anyag tételesen nyomon követhető legyen.
+
+(2) Az anyagmérlegnek tartalmaznia kell
+
+a) az építési tevékenység végzőjének adatait (név, székhely, adószám, tevékenységi kör),
+
+b) az állami beruházás adatait (a beruházó megnevezése, a beruházás megvalósítását célzó kivitelezés kezdete és tervezett befejezése),
+
+c) az építési-bontási anyag kitermelődésének helyét (az ingatlan címe, helyrajzi száma vagy a vonalas létesítményekre vonatkozó útszám vagy vonalszám és szelvényszám), az építési-bontási anyag megnevezését, típusát és mennyiségét, termékazonosítóját,
+
+d) az építési-bontási anyag átmeneti tárolását szolgáló hely adatait [az ingatlan címe, helyrajzi száma és az ingatlanon belüli elhelyezkedése (térképvázlaton történő megjelöléssel)],
+
+e) az állami beruházás keretében megtörtént újrahasználat adatait (az újrahasználat helye, az ingatlan helyrajzi száma vagy a vonalas létesítményekre vonatkozó útszám vagy vonalszám és szelvényszám), az építési-bontási anyag megnevezése, típusa és mennyisége, termékazonosítója.
+
+(3) A telephelyi nyilvántartásnak tartalmaznia kell
+
+a) az átmeneti tárolást szolgáló hely üzemeltetőjének adatait (név, székhely, adószám, tevékenységi kör),
+
+b) az építési-bontási anyag beszállításának adatait (állami beruházás azonosítója, az építési-bontási anyag kitermelődési helyének azonosítója, mennyisége),
+
+c) a tárolás helyének adatait [ingatlan címe, helyrajzi száma és az ingatlanon belüli elhelyezkedése (térképvázlaton történő megjelöléssel)],
+
+d) a telephelyen tárolt építési-bontási anyag megnevezését, termékazonosítóját és mennyiségét,
+
+e) az újbóli felhasználás adatait, építési termékké vagy másodlagos építési alapanyaggá minősítésének adatait (típus, mennyiség, időpont),
+
+f) az értékesítés adatait (típus, mennyiség, időpont),
+
+g) az építési-bontási anyag építési-bontási hulladéknak történő átminősítésének adatait (típus, mennyiség, időpont).
+
+(4) Az építési tevékenység végzőjének az anyagmérlegről minden naptári évre vonatkozóan – amennyiben az építési tevékenység végzője vállalatirányítási rendszert működtet, úgy azzal összhangban – összesítést kell készítenie, amelyben fel kell tüntetni az építési tevékenység végzése során kitermelődő építési-bontási anyag (2) bekezdés szerinti adatait.
+
+(5) Az építési tevékenység végzőjének az állami beruházás megvalósítását követően, de legkésőbb az építési tevékenységből kikerülő anyag kitermelődését követő 3 éven belül a teljes állami beruházásra vonatkozó záró anyagmérleget kell készítenie a (2) bekezdés szerinti adatokkal.
+
+(6) Az építési tevékenység végzője az anyagmérleget és a záró anyagmérleget az azok elkészítésére vonatkozó készítési kötelezettség határnapját követő 60 napon belül megküldi az országos hulladékgazdálkodási hatóság részére.
+
+(7) Az építési-bontási anyag átmeneti tárolást szolgáló hely üzemeltetője a telephelyi nyilvántartást évente, december 31. napi zárással, a következő év március 15-ig megküldi a telephely szerint illetékességgel rendelkező területi hulladékgazdálkodási hatóság részére.
+
+## 5. Az útépítési beruházásokkal kapcsolatos hulladékképződés megelőzésére vonatkozó szabályok
+
+### 7. §
+
+Útépítési beruházások esetén – a bontási eljárás során alkalmazott technológiától függetlenül – építési-bontási anyagnak minősül
+
+a) az útpályaszerkezet,
+
+b) a földműszerkezet,
+
+c) a vízelvezető rendszer,
+
+d) a közutak műtárgya,
+
+e) az úttartozékok
+
+bontásából kitermelődő anyag.
+
+### 8. §
+
+(1) Az útépítési beruházás előkészítése során útpályaszerkezet bontásából kitermelődő építési-bontási anyagot az új útpályaszerkezetbe történő beépítésre kell tervezni.
+
+(2) Az (1) bekezdés szerinti tervezés során
+
+a) biztosítani kell a beruházás során kitermelődő visszanyert aszfalt újbóli felhasználását,
+
+b) ha biztosítható, lehetővé kell tenni a visszanyert aszfalt új aszfaltburkolati rétegben történő újbóli felhasználását,
+
+c) biztosítani kell a beruházáson belüli újbóli felhasználást, azzal, hogy ha ez teljeskörűen nem biztosítható, akkor a beruházáson kívüli aszfaltburkolati rétegben történő újbóli felhasználását kell lehetővé tenni.
+
+(3) Ha az (1) bekezdés szerinti megvalósítás műszakilag teljeskörűen nem lehetséges, az építési-bontási anyag földműszerkezetben történő újbóli felhasználásra is tervezhető.
+
+(4) Az uniós közbeszerzési értékhatárt elérő vagy meghaladó útépítési beruházások esetében az építési tevékenység végzője köteles az előkészítés során – amennyiben az műszakilag lehetséges – a környezeti és gazdasági szempontból az adott projekt tekintetében legkedvezőbb technológia megválasztása során figyelembe venni azokat, amelyek alkalmazásával a beruházáson belül kitermelődő építési-bontási anyag lehető legnagyobb mértékben történő, ugyanazon beruházáson belüli újbóli felhasználása biztosítható.
+
+(5) Az uniós közbeszerzési értékhatárt elérő vagy meghaladó útépítési beruházás előkészítése során az építési tevékenység végzője feltárja a beruházással érintett terület nyolcvan kilométeres környezetében rendelkezésre álló, építési-bontási anyag átmeneti tárolását szolgáló helyen tárolt, korábbi építési tevékenység során kitermelődött, újbóli felhasználásra alkalmas építési-bontási anyagokat, megvizsgálja ezek esetleges alkalmazhatóságát. A gazdasági számítások elvégzése során az építési tevékenység végzője kalkulációt készít arra az esetre is, ha a rendelkezésre álló újbóli felhasználású építési-bontási anyagok beépítésre kerülnek.
+
+(6) Az uniós közbeszerzési értékhatárt elérő vagy meghaladó útépítési beruházás esetében a kiviteli terv műszaki leírásában ismertetni kell a (3) és (4) bekezdés szerinti eljárásokra vonatkozó feltáró jellegű vizsgálatokat, továbbá az építési tevékenység végzőjének jóváhagyásával rendelkező kiválasztott eljárás technológiáját és a projektszintű gazdasági számításokat.
+
+(7) Az uniós közbeszerzési értékhatárt elérő vagy meghaladó útépítési beruházás esetében a kiviteli terv műszaki leírásában ismertetni kell azokat a műszaki lehetőségeket, amelyek a beruházáson belül felhasználásra nem kerülő építési-bontási anyagok beruházáson kívül történő újbóli felhasználására vonatkoznak.
+
+### 9. §
+
+Az országos közutak kezelője minden év január 31-ig elkészíti a megelőző évben az általa kezelt közúthálózaton végzett útépítési beruházások során kitermelődött építési-bontási anyag felhasználására vonatkozó kimutatást.
+
+### 10. §
+
+Az országos közutak kezelője az építési-bontási anyag újbóli felhasználása érdekében szükséges intézkedések megtételét saját tevékenységi körben vagy vállalkozóval kötött szerződés keretében is teljesítheti.
+
+### 11. §
+
+A vagyonkezelői jogkörében eljáró országos közút kezelője köteles az útépítési beruházás vállalkozó-kivitelezője részére a beruházáson belül újbóli felhasználásra nem kerülő építési-bontási anyagot annak újbóli felhasználása céljából megvételre felajánlani.
+
+## 6. A vasútépítési beruházásokkal kapcsolatos hulladékképződés megelőzésére vonatkozó szabályok
+
+### 12. §
+
+Vasútépítési beruházások esetén – az alkalmazott bontási technológiától függetlenül – építési-bontási anyagnak minősül
+
+a) a vasúti pálya,
+
+b) az alépítmény,
+
+c) a vízelvezető rendszer,
+
+d) a vasúti pálya műtárgya,
+
+e) a vasúti pálya tartozéka,
+
+f) a vasúti üzemi létesítmények
+
+bontásából kitermelődő anyag.
+
+### 13. §
+
+(1) Az építési tevékenységet végző a tervezés során – amennyiben műszakilag lehetséges – a környezeti és gazdasági szempontból az adott beruházás tekintetében összességében legkedvezőbb megoldás megválasztásakor figyelembe veszi azokat a technológiákat, amelyek alkalmazásával az adott beruházáson belül kitermelődő építési-bontási anyag lehető legnagyobb mértékben történő, beruházáson belüli újbóli felhasználása biztosítható.
+
+(2) Az építési tevékenységet végző a tervek műszaki leírásában ismerteti az (1) bekezdés szerinti eljárásokra vonatkozó feltáró jellegű vizsgálatokat, valamint a gazdasági számításokat.
+
+(3) Az építési tevékenységet végző a tervek műszaki leírásában ismerteti azokat a műszaki lehetőségeket, amelyek a beruházáson belül felhasználásra előzetesen nem kerülő építési-bontási anyagok beruházáson kívül történő újbóli felhasználására vonatkoznak.
+
+### 14. §
+
+Az építési-bontási anyag építési termékké vagy másodlagos építési alapanyaggá minősítését követő három éven belül a vagyonkezelői jogkörében eljáró országos, térségi vagy elővárosi vasúti pályahálózat-működtető gondoskodik a vagyonkezelésében vagy tulajdonában lévő építési termék vagy másodlagos építési alapanyag beépítéséről vagy annak forgalomba hozataláról.
+
+### 15. §
+
+A vagyonkezelői jogkörében eljáró országos, térségi vagy elővárosi vasúti pályahálózat-működtető az építési-bontási anyag újbóli felhasználása érdekében szükséges intézkedések megtételét saját tevékenységi körben teljesíti.
+
+## 7. Záró rendelkezések
+
+### 16. §
+
+Ez a rendelet a kihirdetését követő 90. napon lép hatályba.
+
+### 17. §
+
+E rendelet rendelkezéseit a hatálybalépésekor a közbeszerzésekről szóló 2015. évi CXLIII. törvény 3. § 23. pontja szerint megkezdettnek minősülő azon közbeszerzési eljárások esetében kell alkalmazni, amelyek tekintetében az ajánlattételi, illetve több szakaszból álló eljárások esetén a részvételi határidő még nem járt le, és az ajánlatkérő a közbeszerzési dokumentumokat az adott eljárásfajtára irányadó szabályok szerint jogszerűen módosíthatja.

@@ -1,0 +1,153 @@
+---
+title: "299/2020. (VI. 24.) Korm. rendelet a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltással történő módosításáról szóló Megállapodás kihirdetéséről"
+identifier: "299/2020. (VI. 24.) Korm. rendelet"
+njt_id: "2020-299-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/299"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-06-24
+in_force_from: 2020-06-25
+last_amended: 2020-11-05
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-299-20-22"
+retrieved: 2026-10-12
+---
+
+# 299/2020. (VI. 24.) Korm. rendelet a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltással történő módosításáról szóló Megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltással történő módosításáról szóló megállapodás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 2. §
+
+A Kormány a Módosítást e rendelettel kihirdeti.
+
+## 3. §[^1]
+
+(1) A Módosítás hiteles angol nyelvű szövegét a 2. és a 4. melléklet tartalmazza.
+
+(2) A Módosítás hivatalos magyar nyelvű fordítását az 1. és a 3. melléklet tartalmazza.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 3. §, valamint az 1–4. melléklet Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba.[^2]
+
+(3) A Módosítás hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^3]
+
+## 5. §
+
+Az e rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+## 1. melléklet a 299/2020. (VI. 24.) Korm. rendelethez[^4]
+
+A Vietnámi Szocialista Köztársaság Pénzügyminisztériuma ezúton fejezi ki nagyrabecsülését Magyarország Hanoi Nagykövetségének, és hivatkozással a 2020. június 18. napján kelt, 223/2020/HUMEMB/HOI számú szóbeli jegyzékre a 2017. január 12-én aláírt, a Vietnámi Szocialista Köztársaság Kormánya és a Magyarország Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Keretmegállapodás) vonatkozásában tisztelettel közli a következőket.
+
+1\. A módosítás és meghosszabbítás tartalma
+
+A Magyarország Külgazdasági és Külügyminisztériumának 2020. május 22-én kelt, KKM/7627-7/2020/Adm számú szóbeli jegyzékében javasoltaknak megfelelően, a Vietnámi Szocialista Köztársaság Pénzügyminisztériuma ezúton kezdeményezi a Keretmegállapodás módosítását és meghosszabbítását a következők szerint:
+
+A 3. cikk (3) bekezdése a következők szerint módosul:
+
+„A kötött segélyhitelkeretből folyósított hitelek futamideje nem haladhatja meg a huszonnyolc (28) évet, amely időtartam három (3) év türelmi időt és huszonöt (25) év törlesztési időszakot foglal magába. Az első törlesztőrészlet az OECD Megállapodás feltételeivel összhangban a hitel kezdőnapját követő negyvenkettő (42) hónap múlva esedékes. Az éves kamat nulla (0) %.”
+
+A 10. cikk *b)* pontja a következők szerint módosul:
+
+„Jelen Keretmegállapodás a hatálybalépésétől számított öt (5) évig hatályos és automatikusan egy (1) évvel meghosszabbodik, hacsak az egyik fél a lejárat előtt legalább három (3) hónappal korábban nem értesíti írásban a másik felet arról, hogy a Keretmegállapodás felmondásáról döntött.”
+
+2\. A módosítás és meghosszabbítás formája
+
+A Keretmegállapodás módosítása és meghosszabbítása jegyzékváltás útján történik a nemzetközi jog és a Keretmegállapodás előírásai szerint.
+
+3\. Következő teendők és eljárási lépések
+
+A Magyar fél és a Vietnámi fél a Keretmegállapodás módosításának és meghosszabbításának elfogadását jegyzékváltás útján erősíti meg.
+
+A Vietnámi Szocialista Köztársaság Pénzügyminisztériumának szóbeli jegyzéke és arra a Magyarország Külgazdasági és Külügyminisztériuma által válaszként küldött szóbeli jegyzék Megállapodást hoz létre a Vietnámi Szocialista Köztársaság Kormánya és Magyarország Kormánya közötti Keretmegállapodás módosításáról és meghosszabbításáról, és az a Keretmegállapodás elválaszthatatlan részét képezi, amely a Keretmegállapodás 10. cikk *a)* pontja szerint lép hatályba.
+
+A Vietnámi Szocialista Köztársaság Pénzügyminisztériuma megragadja az alkalmat, hogy nagyrabecsüléséről biztosítsa Magyarország Külgazdasági és Külügyminisztériumát.
+
+Hanoi, 2020. június 19.
+
+## 2. melléklet a 299/2020. (VI. 24.) Korm. rendelethez[^5]
+
+The Ministry of Finance of the Socialist Republic of Viet Nam presents its compliments to the Embassy of Hungary in Hanoi and with reference to the Verbal Note ref. 223/2020/HUMEMB/HOI dated 18th June 2020 regarding the amendment of the Framework Agreement between the Government of Vietnam and the Government of Hungary on the Establishment of a Framework Programme for Financial-Cooperation (hereafter called “the Framework Agreement”), signed on 12th January 2017, the Ministry of Finance of the Socialist Republic of Viet Nam has the honor to inform as follows:
+
+1\. Contents of amendment and extension:
+
+As proposed by the Ministry of Foreign Affairs and Trade of Hungary in the Verbal Note ref. KKM/7627-7/2020/Adm dated 22nd May 2020, the Ministry of Finance of the Socialist Republic of Viet Nam initiates the amendment and extension of the Framework Agreement as follows:
+
+The paragraph 3, Article 3, shall be amended as follows:
+
+“Tenor of the credit disbursed under the tied aid credit line shall not exceed twenty-eight (28) years, which includes three (3) years grace period and twenty-five (25) years repayment period. The first repayment is due forty-two (42) months from the starting point of credit as defined in the OECD Arrangement. The interest rate is zero (0) % per annum.”
+
+The point b), Article 10, shall be amended as follows:
+
+“This Framework Agreement shall be valid for a period of five (05) years from the date of its coming into force, and shall be automatically renewed for a period of one (01) year, unless one Party informs the other of its decision to terminate it, by means of a written notification at least three (3) months prior to expiry.”
+
+2\. Form of amendment and extension:
+
+The extension and amendment of the Framework Agreement shall be performed through an exchange of Verbal Notes, in accordance with the rules of international laws and regulations of the Framework Agreement.
+
+3\. Next steps and procedures:
+
+The Vietnamese side and the Hungarian side shall confirm its acceptance of amendment and extension of the Framework Agreement through an exchange of Verbal Notes.
+
+The Verbal Note from the Ministry of Finance of the Socialist Republic of Viet Nam and the Verbal Note in reply from the Ministry of Foreign Affairs and Trade shall constitute an Agreement between the Government of the Socialist Republic of Viet Nam and the Government of Hungary on the amendment and extension of the Framework Agreement and shall be an integral part of the Framework Agreement, which shall come into force according to point a, Article 10 of the current Framework Agreement.
+
+The Ministry of Finance of the Socialist Republic of Vietnam avails itself of this opportunity to renew to the Embassy of Hungary the assurances of its highest consideration.
+
+Ha Noi, 19 June 2020
+
+## 3. melléklet a 299/2020. (VI. 24.) Korm. rendelethez[^6]
+
+Magyarország Külgazdasági és Külügyminisztériuma nagyrabecsülését fejezi ki a Vietnámi Szocialista Köztársaság Pénzügyminisztériuma számára és tisztelettel hivatkozik ez utóbbi 2019. június 19-én kelt, a 38/BTC-QLN számú szóbeli jegyzékére a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Megállapodás) jegyzékváltás útján történő módosításának kezdeményezésére.
+
+A Magyar fél tisztelettel elfogadja a Vietnámi fél módosításra tett javaslatait, ami szerint a Megállapodás az alábbiak szerint módosul.
+
+A Megállapodás 3. cikk (3) bekezdése a következők szerint módosul:
+
+„A kötött segélyhitelkeretből folyósított hitelek futamideje nem haladhatja meg a huszonnyolc (28) évet, amely időtartam három (3) év türelmi időt és huszonöt (25) év törlesztési időszakot foglal magába. Az első törlesztőrészlet az OECD Megállapodás feltételeivel összhangban a hitel kezdőnapját követő negyvenkettő (42) hónap múlva esedékes. Az éves kamat nulla (0) %.”
+
+A Megállapodás 10. cikk *b)* pontja a következők szerint módosul:
+
+„Jelen Megállapodás a hatálybalépésétől számított öt (5) évig hatályos és automatikusan egy (1) évvel meghosszabbodik, hacsak az egyik fél a lejárat előtt legalább három (3) hónappal korábban nem értesíti írásban a másik felet arról, hogy a Keretmegállapodás felmondásáról döntött.”
+
+A Vietnámi Szocialista Köztársaság Pénzügyminisztériuma szóbeli jegyzéke és Magyarország Külgazdasági és Külügyminisztériumának jelen válaszjegyzéke megállapodást hoz létre Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között a Megállapodás módosításáról és ezen Megállapodás elválaszthatatlan részét képezi, amely a Megállapodás 10. cikk *a)* pontja szerint lép hatályba.
+
+Magyarország Külgazdasági és Külügyminisztériuma megragadja az alkalmat, hogy nagyrabecsüléséről biztosítsa a Vietnámi Szocialista Köztársaság Pénzügyminisztériumát.
+
+Budapest, 2020. „ ”.
+
+## 4. melléklet a 299/2020. (VI. 24.) Korm. rendelethez[^7]
+
+The Ministry of Foreign Affairs and Trade of Hungary (hereinafter: “the Ministry”) presents its compliments to the Ministry of Finance of the Socialist Republic of Vietnam, and has the honour to communicate the following with reference to the latter's Note no. 38/BTC-QLN, dated 19 June 2020 on the amendment of the 12 January 2017 Framework Agreement between the Government of Hungary and the Government of Vietnam on the Establishment of a Framework Programme for Financial Co-operation (hereinafter: ‘the Agreement').
+
+The Hungarian Side kindly accepts the amendment proposal of the Vietnamese Side, according to which the Agreement will be amended as follows.
+
+The third (3) paragraph of Article 3 of the Agreement shall be amended as follows:
+
+“Tenor of the credit disbursed under the tied aid credit line shall not exceed twenty-eight (28) years, which includes three (3) years grace period and twenty-five (25) years repayment period. The first repayment is due forty-two (42) months from the starting point of credit as defined in the OECD Arrangement. The interest rate is zero (0) % per annum.”
+
+Point b) of Article 10 of the Agreement shall be amended as follows:
+
+“This Agreement shall be valid for a period of five (05) years from the date of its coming into force, and shall be automatically renewed for a period of one (01) year, unless one Party informs the other of its decision to terminate it, by means of a written notification at least three (3) months prior to expiry.”
+
+The Note Verbal from the Ministry of Finance of the Socialist Republic of Vietnam and the present Note Verbal in reply of the Ministry of Foreign Affairs and Trade of Hungary shall constitute an Agreement between the Government of the Socialist Republic of Vietnam and the Government of Hungary on the amendment of the Agreement and shall be an integral part of the Agreement, which shall come into force according to point a) of Article 10 of the Agreement.
+
+The Ministry of Foreign Affairs and Trade of Hungary avails itself of this opportunity to renew to the Ministry of Finance of the Socialist Republic of Vietnam the assurances of its highest consideration.
+
+Budapest, ” ” 2020
+
+---
+
+[^1]: A 3. § a 4. § (2) bekezdése alapján Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba. A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.
+[^2]: A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.
+[^3]: Lásd a 48/2020. (X. 29.) KKM közleményt.
+[^4]: Az 1. melléklet a 4. § (2) bekezdése alapján Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba. A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.
+[^5]: A 2. melléklet a 4. § (2) bekezdése alapján Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba. A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.
+[^6]: A 3. melléklet a 4. § (2) bekezdése alapján Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba. A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.
+[^7]: A 4. melléklet a 4. § (2) bekezdése alapján Magyarország Kormánya válaszjegyzékének kézhezvételét követő 30 naptári nappal lép hatályba. A 48/2020. (X. 29.) KKM közlemény alapján a hatálybalépés időpontja 2020. november 5.

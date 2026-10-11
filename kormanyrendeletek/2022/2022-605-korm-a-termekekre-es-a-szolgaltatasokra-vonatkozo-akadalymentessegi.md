@@ -1,0 +1,175 @@
+---
+title: "605/2022. (XII. 28.) Korm. rendelet a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény végrehajtásáról"
+identifier: "605/2022. (XII. 28.) Korm. rendelet"
+njt_id: "2022-605-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/605"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-12-28
+in_force_from: 2025-06-28
+last_amended: 2025-08-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-605-20-22"
+retrieved: 2026-10-12
+---
+
+# 605/2022. (XII. 28.) Korm. rendelet a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény végrehajtásáról
+
+A Kormány a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény 9. § a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Az ellenőrző hatóság kijelölése
+
+### 1. §
+
+(1) A Kormány a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményeknek való megfelelés általános szabályairól szóló 2022. évi XVII. törvény (a továbbiakban: Aktv.) szerinti ellenőrző hatóságként az Aktv.
+
+a) 1. § (1) bekezdés a), c) és d) pontjában meghatározott termékek vonatkozásában a Nemzeti Média- és Hírközlési Hatóság Hivatalát (a továbbiakban: NMHH);
+
+b)[^1] 1. § (1) bekezdés b) pontjában meghatározott termékek közül – a (3) bekezdésben meghatározottak kivételével – a fizetési terminálok vonatkozásában, valamint az Aktv. 1. § (1) bekezdés e) pontjában meghatározott termékek vonatkozásában a fogyasztóvédelmi hatóságot;
+
+c)[^2] 1. § (1) bekezdés b) pontjában meghatározott termékek közül – a b) pontban és a (3) bekezdésben meghatározottak kivételével –
+
+ca) a légi személyszállítási szolgáltatásokhoz kapcsolódó termékek vonatkozásában a légiközlekedési hatóságot,
+
+cb) az autóbuszos személyszállítási szolgáltatásokhoz kapcsolódó termékek vonatkozásában az autóbuszos piacfelügyeleti és utasjogi hatóságot,
+
+cc) a vasúti személyszállítási szolgáltatásokhoz kapcsolódó termékek vonatkozásában a vasúti igazgatási szervet,
+
+cd) a vízi személyszállítási szolgáltatásokhoz kapcsolódó termékek vonatkozásában a hajózási hatóságot;
+
+d) 1. § (2) bekezdés a) és b) pontjában meghatározott szolgáltatások vonatkozásában az NMHH-t;
+
+e) 1. § (2) bekezdés c) pontjában meghatározott szolgáltatások közül
+
+ea) a légi személyszállítási szolgáltatások vonatkozásában a légiközlekedési hatóságot,
+
+eb) az autóbuszos személyszállítási szolgáltatások vonatkozásában az autóbuszos piacfelügyeleti és utasjogi hatóságot,
+
+ec) a vasúti személyszállítási szolgáltatások vonatkozásában a vasúti igazgatási szervet,
+
+ed) a vízi személyszállítási szolgáltatások vonatkozásában a hajózási hatóságot;
+
+f)[^3] 1. § (2) bekezdés e) és f) pontjában meghatározott szolgáltatások vonatkozásában a fogyasztóvédelmi hatóságot;
+
+g) 1. § (4) bekezdésében meghatározott szolgáltatás vonatkozásában Budapest Főváros Kormányhivatalát
+
+jelöli ki.
+
+(2) A Kormány a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény szerinti integrált személyszállítási közszolgáltatás és összekapcsolt személyszállítási közszolgáltatás esetén az (1) bekezdés c) és e) pontjában foglaltaktól eltérően ellenőrző hatóságként a vasúti igazgatási szervet jelöli ki.
+
+(3)[^4] Az Aktv. 1. § (1) bekezdés b) pontjában meghatározott termékek közül a fizetési műveletek elfogadására vonatkozó pénzforgalmi szolgáltatás nyújtásához kapcsolódó fizetési terminálok és a bankjegykiadó automaták, valamint az Aktv. 1. § (2) bekezdés d) pontjában meghatározott lakossági banki szolgáltatások tekintetében a Magyar Nemzeti Bank a rá irányadó jogszabályi rendelkezések alkalmazásával ellenőrző hatóságként jár el.
+
+## 2. Az ellenőrző hatóság eljárása
+
+### 2. §
+
+(1) Ellenőrző hatóságként – a (2) bekezdésben foglalt kivétellel – a termék vásárlásának, illetve a szolgáltatás nyújtásának helye szerint illetékes, 1. § (1) bekezdésében meghatározott hatóság jár el.
+
+(2) Budapest Főváros Kormányhivatala országos illetékességgel jár el.
+
+(3) Az NMHH az elektronikus hírközlésről szóló 2003. évi C. törvény által nem szabályozott kérdésekben az Aktv. és e rendelet szabályai szerint jár el.
+
+### 3. §
+
+(1) A kérelemnek – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 36. §-ában előírtakon túl – tartalmaznia kell
+
+a) a feltételezett jogsértéssel érintett gazdasági szereplő nevét, valamint ha rendelkezésre áll, a gazdasági szereplő székhelyét,
+
+b) a feltételezett jogsértés, a forgalmazás, a szolgáltatásnyújtás helyét vagy a kifogásolt magatartás elkövetésének helyét és
+
+c) a jogsértés leírását.
+
+(2) A kérelemhez csatolni kell – ha rendelkezésre áll – a gazdasági szereplő fogyasztó megkeresésére adott válaszát, a szóbeli panaszról felvett jegyzőkönyvet vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.
+
+### 4. §
+
+Az ellenőrző hatóság a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal a gazdasági szereplővel, aki vállalja, hogy felhagy a jogsértő magatartással, és magatartását a hatósági szerződésben meghatározott módon hozza összhangba az akadálymentességi követelményekkel.
+
+### 5. §
+
+(1) Az ellenőrző hatóság a véglegessé vált határozatáról és az általa kötött hatósági szerződésről készült közleményt – a természetes személyazonosító adatok megismerhetősége nélkül – közhírré teszi.
+
+(2) Az ellenőrző hatóság biztosítja, hogy a honlapján az (1) bekezdés szerint közhírré tett közleményekben a dokumentumok szövegére, a jogorvoslati eljárás tényére és a megsértett jogszabályi rendelkezésre keresni lehessen.
+
+(3) Az ellenőrző hatóság a közhírré tett közleményt a közhírré tételtől számított 6 hónap elteltével honlapjáról eltávolítja.
+
+### 5/A. §[^5]
+
+Az ellenőrző hatóság a honlapján az Aktv. és e rendelet szerinti feladatairól, hatósági tevékenységéről, továbbá elérhetőségeiről tájékoztatást ad. Az ellenőrző hatóság az 5. §-ban meghatározott közleményt és az e § szerinti tájékoztatást kérésre akadálymentes formátumban is rendelkezésre bocsátja.
+
+### 6. §
+
+(1) Budapest Főváros Kormányhivatala az akadálymentességi követelményeknek való megfelelésből eredő kötelezettségek teljesítése érdekében kapcsolatot tart az Európai Bizottsággal.
+
+(2) Az Aktv. 8. § (14) bekezdése szerinti jelentést – az ellenőrző hatóságként kijelölt hatóságok adatszolgáltatása alapján – Budapest Főváros Kormányhivatala készíti el és küldi meg az Európai Bizottság részére.
+
+## 3. Közigazgatási szankciók
+
+### 7. §
+
+Ha az ellenőrző hatóság az Aktv. 8. § (3) bekezdése alapján figyelmeztetést alkalmaz, ennek keretében kötelezi a gazdasági szereplőt, hogy a korrekciós intézkedések megtételéről az ellenőrző hatóságot haladéktalanul tájékoztassa.
+
+### 8. §
+
+Az ellenőrző hatóság a közigazgatási bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 10. § (1) bekezdésében meghatározottakon túl a következő szempontokat veszi figyelembe:
+
+a) a jogsértéssel érintett fogyasztói érdekek,
+
+b) a jogsértéssel érintett termékek és szolgáltatások köre, valamint
+
+c) a gazdasági szereplő által tett intézkedések, amelyek a fogyasztók által elszenvedett kár csökkentésére vagy megtérítésére irányulnak.
+
+### 9. §
+
+(1) Az Aktv. 8. § (4) bekezdése szerinti közigazgatási bírság összege 15 ezer forinttól
+
+a) a 100 millió forintot meghaladó éves nettó árbevétellel rendelkező, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény hatálya alá nem tartozó gazdasági szereplő esetében a gazdasági szereplő éves nettó árbevételének 5%-áig, de legfeljebb 500 millió forintig,
+
+b) az a) pont hatálya alá nem tartozó, nettó árbevétellel rendelkező gazdasági szereplő esetében
+
+ba) 500 ezer forintig,
+
+bb) a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a gazdasági szereplő éves nettó árbevételének 5%-áig
+
+terjedhet.
+
+(2) Az (1) bekezdés szerinti nettó árbevétel alapja a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel. Ha a gazdasági szereplő egy évnél rövidebb ideje működik, az adatokat éves szintre kell vetíteni. Ha a gazdasági szereplőnek a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a közigazgatási bírság maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított gazdasági szereplő esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a gazdasági szereplő által a hatóság felhívására közölt, a közbenső mérleg készítésére vonatkozó szabályok szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételét kell figyelembe venni.
+
+(3) Az (1) bekezdés alkalmazásában a nettó árbevétel meghatározása során
+
+a) pénzforgalmi intézmény esetén a pénzforgalmi szolgáltatási tevékenységből adódó
+
+aa) nettó árbevétel és
+
+ab) pénzügyi műveletek bevételeinek,
+
+b) árutőzsdei szolgáltató esetén az árutőzsdei szolgáltatási tevékenységből adódó
+
+ba) nettó árbevétel és
+
+bb) pénzügyi műveletek bevételeinek
+
+összegét nem lehet figyelembe venni.
+
+(4) Nettó árbevétel hiányában a közigazgatási bírság összege 15 ezer forinttól 500 ezer forintig terjedhet.
+
+(5) A közigazgatási bírságot az ellenőrző hatóság Magyar Államkincstárnál vezetett számlájára kell befizetni.
+
+## 4. Záró rendelkezések
+
+### 10. §
+
+Ez a rendelet 2025. június 28-án lép hatályba.
+
+### 11. §
+
+Ez a rendelet a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i (EU) 2019/882 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 288/2025. (VIII. 28.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés c) pont nyitó szövegrésze a 288/2025. (VIII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés f) pontja a 288/2025. (VIII. 28.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdését a 288/2025. (VIII. 28.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^5]: Az 5/A. §-t a 288/2025. (VIII. 28.) Korm. rendelet 23. §-a iktatta be.

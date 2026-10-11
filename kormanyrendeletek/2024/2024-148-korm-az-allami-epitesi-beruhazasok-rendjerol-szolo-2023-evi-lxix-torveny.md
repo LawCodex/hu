@@ -1,0 +1,339 @@
+---
+title: "148/2024. (VI. 28.) Korm. rendelet az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény szerinti mentesítés, valamint kedvezmény adásának részletes szabályairól"
+identifier: "148/2024. (VI. 28.) Korm. rendelet"
+njt_id: "2024-148-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/148"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-06-28
+in_force_from: 2024-06-29
+last_amended: 2025-05-10
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-148-20-22"
+retrieved: 2026-10-12
+---
+
+# 148/2024. (VI. 28.) Korm. rendelet az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény szerinti mentesítés, valamint kedvezmény adásának részletes szabályairól
+
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 59. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+#### 1. §
+
+Az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) szerinti állami építési beruházások előkészítése és megvalósítása során az Ábtv. 4. § (3) bekezdésében foglaltaknak megfelelően az e rendeletben megállapított mentesítések és kedvezmények alkalmazhatók.
+
+#### 2. §
+
+Az európai uniós forrás mértéke vizsgálata tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 2. pontjában foglalt állami támogatás fogalmát kell alkalmazni, azzal, hogy az Áht. 1. § 1. pontjában foglalt agrártámogatást – amennyiben az építtető nem helyi önkormányzat – nem kell figyelembe venni.
+
+## II. Fejezet — A MENTESÍTÉSRE, KEDVEZMÉNYADÁSRA VONATKOZÓ ELJÁRÁS SZABÁLYAI
+
+#### 3. §
+
+(1) Az állami építési beruházások előkészítése során az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) a projektszervezet által kérelemben kezdeményezett egyes mentesítések, valamint kedvezmények jóváhagyásáról az alábbi előkészítési és döntési pontokhoz kapcsolódóan dönt:
+
+a) az adott állami építési beruházást is tartalmazó ágazati beruházási terv Ábtv. 9. § (1) bekezdés b) pontja szerinti előkészítése és a Kormány elé terjesztése,
+
+b) a keretprogram Ábtv. 10. § (1) bekezdés a) pontja szerinti előkészítése és a Kormány elé terjesztése,
+
+c) a keretprogram Ábtv. 32. § (4) bekezdése szerinti felülvizsgálata és az Ábtv. 32. § (5) bekezdése szerinti módosítása,
+
+d) az Ábtv. 10. § (1) bekezdés c) pontja szerinti jóváhagyott keretprogramban szereplő állami építési beruházások előkészítésének és megvalósításának megindítása,
+
+e) az Ábtv. 15. § (1) bekezdése szerinti projektalapító dokumentum létrehozása vagy módosítása vagy
+
+f) az Ábtv. 14. § (1) bekezdése szerint európai uniós forrásból finanszírozott projekt keretében megvalósuló állami építési beruházás esetében konzorciumi szerződés létrehozása vagy módosítása.
+
+(2) Az (1) bekezdés e) és f) pontja esetében az (1) bekezdés szerinti döntés a projekt előkészítési és megvalósítási szakaszában is történhet.
+
+(3) A miniszter a kérelemben megjelölt mentesítés vagy kedvezmény alapjául megjelölt körülmény fennállása és megalapozottsága esetén
+
+a) a projektalapító dokumentumban,
+
+b) a konzorciumi szerződésben,
+
+c) a támogatói okiratban vagy támogatási szerződésben vagy
+
+d) írásbeli nyilatkozatával
+
+jóváhagyja a mentesítés vagy kedvezmény alkalmazását az (1) bekezdésben meghatározott előkészítési és döntési pontokhoz igazodóan.
+
+(4) A miniszter a (3) bekezdés d) pontja szerinti nyilatkozatát a beruházás zökkenőmentes megvalósítása érdekében haladéktalanul, de legkésőbb a kérelem benyújtásától számított 15 napon belül adja ki.
+
+(5) Az európai uniós forrás felhasználásával megvalósítandó beruházás kedvezményezettje, ajánlatkérőként, forrásvesztés veszélyének fennállása esetén – a támogató által igazolt forrásvesztés veszélyét megfelelően alátámasztó dokumentáció benyújtásával – kezdeményezheti, hogy a miniszter az érintett beruházás vonatkozásában a III. Fejezetben meghatározott bármely mentesítést és kedvezményt hagyja jóvá,
+
+a) ha a forrásvesztés mértéke a beruházás forrásszerkezetében az adott prioritás 3%-nál nem kisebb mértékű, és
+
+b) a mentesítéssel vagy kedvezménnyel elkerülhető a forrásvesztés.
+
+(6) Amennyiben az (5) bekezdés szerinti feltételnek megfelelő a kezdeményezés, a miniszter a mentesítést vagy kedvezményt jóváhagyja.
+
+#### 4. §
+
+A 3. § (1) bekezdése szerinti kérelem tartalmazza
+
+a) a mentesítés vagy kedvezmény alkalmazásának indokát,
+
+b) a mentesítés vagy kedvezmény végleges vagy ideiglenes jellegét és
+
+c) a kérelemben megjelölt ideiglenes mentesítés vagy kedvezmény esetében a kötelezettség maradéktalan teljesítésének határidejét és módját a vonatkozó jogszabályi előírásokkal összhangban.
+
+## III. Fejezet — A MENTESÍTÉSEK ÉS KEDVEZMÉNYEK TARTALMA
+
+### 1. Az Ábtv. 35. § (2) bekezdéséhez
+
+#### 5. §
+
+(1) Az Ábtv. 4. § (3) bekezdés 1. pontja alapján a miniszter kedvezményként ideiglenes felmentést ad az építtető részére.
+
+(2) Az (1) bekezdés szerinti ideiglenes felmentés alapján
+
+a) a költségbecslésnek és a beruházás megvalósítását szolgáló beruházási keret rendelkezésre állásáról szóló döntésnek legkésőbb az építészeti-műszaki dokumentáció elkészítésére kiválasztandó tervezővel kötendő szerződés odaítélésére irányuló közbeszerzési eljárás megindításáig rendelkezésre kell állnia, és
+
+b) a tervezési programot legkésőbb
+
+ba) a tervező kiválasztására irányuló, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti hirdetmény nélküli tárgyalásos közbeszerzési eljárás során, az ajánlattételi felhívás megküldéséig,
+
+bb) az Ábtv. 36. § (2) bekezdése szerinti más eljárás esetén a közbeszerzési eljárás megindításáig
+
+kell véglegesíteni.
+
+(3) Az Ábtv. 4. § (3) bekezdés 1. pontja alapján a miniszter akkor mentesíti az állami építési beruházást a tervpályázat kiírására vonatkozó szabályok alkalmazása alól, ha
+
+a) a Kormány az Ábtv. hatálybalépése előtt egyedi határozatban a beruházást támogatta,
+
+b) a keretprogram első elfogadását megelőzően eredményesen lezárt közbeszerzési eljárás alapján az eljárás megindításakor hatályos jogszabályoknak megfelelően elkészült terveknek – ideértve a jóváhagyási tervet is – megfelelően az Országos Építészeti Tervtanács megvalósításra javasolja, vagy
+
+c) a keretprogramban a beruházás megvalósítására meghatározott határidő betartása érdekében vagy egyéb közcélból vagy közérdekből szükséges, de a beruházás Ábtv. 4. § (2) bekezdése szerinti teljes mentesítése nem indokolt.
+
+### 2. Az Ábtv. 36. § (3) bekezdéséhez
+
+#### 6. §
+
+(1) A miniszter az építtetőt legfeljebb a kivitelezésre irányuló közbeszerzési eljárás szerinti ajánlattételi határidő lejártáig, tárgyalásos eljárás esetén az ajánlattételi felhívás megküldéséig mentesíti az Ábtv. 4. § (3) bekezdés 2. pontjában foglaltak alól, ha
+
+a) az építési engedély iránti kérelem benyújtásának vagy az építési engedély kiadásának feltételéül a telekingatlan jogi helyzetének rendezését a jogszabály előírja, és a feltétel teljesítése három hónapot meghaladó mértékben késleltetné a beruházás határidőre történő megvalósítását, és ezáltal aránytalan – a beruházás becsült költségének 3%-át meghaladó mértékű – többletköltséggel járna, valamint
+
+b) a tervezett kivitelezési határidő az állami építési beruházással érintett telekingatlanok nagy száma (legalább 10 ingatlan) vagy azokra vonatkozó kisajátítási eljárás miatt nem lenne tartható, de a határidő végéig a feltétel várhatóan teljesíthető, és
+
+ba) a telekingatlan jogi helyzete rendezhető, vagy legalább a kisajátítási tervek is elkészíthetők, vagy
+
+bb) az építtető mint ajánlatkérő a beruházás kivitelezésére vonatkozó közbeszerzési eljárást – amennyiben a beszerzés tárgyának jellegére és a szerződéshez kapcsolódó további körülmények lehetővé teszik – több részajánlattételi lehetőség biztosításával tervezi megindítani, és az egyes, kedvezménnyel érintett beruházási részekhez kapcsolódó telekingatlanok jogi helyzetének későbbi rendezése a többi rész kivitelezését és a teljes beruházás tervezett határidőre történő befejezését nem gátolja.
+
+(2) Az (1) bekezdés b) pont bb) alpontja szerinti esetben a kedvezmény részlegesen, a késleltetett részekhez kapcsolódó tervezési szolgáltatások beszerzésére alkalmazandó, és a kedvezmény határideje az egyes részekhez kapcsolódó telekingatlanok tekintetében önállóan meghatározandó.
+
+(3) Az Ábtv. 36. §-ában foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.
+
+(4) Az Ábtv. 4. § (3) bekezdés 2. pontja alapján a miniszter mentesíti a 36. § (3) bekezdésének alkalmazása alól azt az állami építési beruházást, amely esetében az ágazati jogszabály lehetővé teszi a tervezés és a beruházással érintett ingatlan tulajdonosának az építési beruházás munkálatainak megkezdését és elvégzését engedő használati jogot biztosító engedély alapján a kivitelezés megkezdését.
+
+### 3. Az Ábtv. 37. §-ához
+
+#### 7. §
+
+(1) Az Ábtv. 4. § (3) bekezdés 3. pontja alapján nem kell az Ábtv. 37. §-a szerinti tartalmi követelményeket alkalmazni azon állami építési beruházás tekintetében, amely esetében az építési tevékenység jogszabály alapján építési vagy létesítési engedély nélkül végezhető.
+
+(2) A miniszter az utak, kerékpárutak, parkolók, parkok, közkertek építése és felújítása esetében az Ábtv. 37. §-a alkalmazása alól a sajátos építményfajtákra alkalmazandó szabályok szerint ad mentesítést vagy kedvezményt.
+
+### 4. Az Ábtv. 39. § (1) bekezdéséhez
+
+#### 8. §
+
+(1) A kizárólag közlekedési infrastruktúra megvalósítására irányuló állami építési beruházás kivételével a tervező ideiglenes jelleggel, legfeljebb a kivitelezési dokumentáció készítésére irányuló szerződés teljesítésének megkezdéséig mentesítést kap az Ábtv. 39. § (1) bekezdésében foglalt, közműszolgáltatói nyilatkozat beszerzésére vonatkozó kötelezettség alól, ha igazolja, hogy a közműszolgáltatóval a jogszabályban foglaltaknak megfelelően kezdeményezte a tervezéshez szükséges közműegyeztetést, de a közműszolgáltató
+
+a) a nyilatkozattételi kötelezettségének a törvényes határidőn belül nem tett eleget, vagy
+
+b) a közműnyilatkozat kiadását megelőző további műszaki-gazdasági egyeztetést kezdeményezett a tervezővel, és a nyilatkozat megtétele a beruházás késedelmét eredményezné.
+
+(2) Amennyiben a közműszolgáltató a jogszabályban meghatározott határidőben önhibájából nem tesz eleget nyilatkozattételi kötelezettségének, a jogszabály értelmében ebből fakadóan a tervdokumentációt elfogadottnak, jóváhagyottnak kell tekinteni, azonban a kivitelezési munkálatok megindításáig az érintett közműszolgáltatók hozzájáruló nyilatkozatát meg kell szerezni.
+
+(3) A (2) bekezdés szerinti mentesülés nem terjed ki a közműnyilatkozat nélkül kiadott építési engedély alapján elkészült kivitelezési tervdokumentáció alapján eljáró kivitelezőre, és nem mentesíti azon kötelezettsége alól, hogy az építési munkák által érintett közműhálózatrészek és közművezetékek biztonságos megközelítésének, keresztezésének, védelembe helyezésének, áthelyezésének vagy kiváltásának műszaki feltételeit a kivitelezés megkezdése előtt a közmű üzemeltetőjével egyeztesse.
+
+#### 9. §
+
+Az Ábtv. 39. § (1) bekezdésében foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.
+
+### 5. Az Ábtv. 39. § (3)–(6) bekezdéséhez
+
+#### 10. §
+
+(1) Az építtető mentesül az Ábtv. 39. § (3) bekezdésében foglalt, az engedélyezési dokumentáció vagyonkezelő és üzemeltető által történő véleményezése beszerzésére irányuló kötelezettsége alól, ha
+
+a) az építtető, a projektvezető és a tervező együttes nyilatkozata alapján az engedélyezési dokumentáció a vagyonkezelő és az üzemeltető Ábtv. 28. § (5) bekezdése szerinti előkészítő dokumentációval kapcsolatban közölt véleményében foglalt feltételeknek megfelel, vagy
+
+b) az előkészítő dokumentációt a vagyonkezelő és az üzemeltető észrevételek és feltételek nélkül elfogadták, és az engedélyezési dokumentáció az abban foglaltakkal nem ellentétes,
+
+kivéve, ha ágazati jogszabály az engedélyezési dokumentáció üzemeltető általi elfogadását vagy jóváhagyását kötelezően előírja, illetve ha közcélú víziközmű érintett.
+
+(2) Az engedélyezési dokumentációt a miniszter vagy az általa kijelölt személy a tervellenőr és a költségszakértő véleménye nélkül jóváhagyja, ha az állami építési beruházás – a Kbt. 19. § (3) bekezdése alkalmazása nélküli, a koncepcióterv, valamint a tervezési szolgáltatások becsült ellenértékével csökkentett, a beruházás keretprogramban meghatározott költségbecslése szerinti – becsült értéke nem éri el a Kbt. 115. § (1) bekezdésében meghatározott értékhatárt, és a tervező, valamint a tervellenőr vagy a szakági tervezői jogosultsággal rendelkező építési műszaki ellenőr nyilatkozattal igazolja, hogy
+
+a) az engedélyezési dokumentáció műszakilag megfelelő,
+
+b) az engedélyezési dokumentáció a kivitelezési dokumentáció elkészítésére alkalmas, és
+
+c) a beruházás a megvalósíthatósági tanulmányban szereplő előzetes becsült költséghez igazodó bekerülési értéken a fennálló körülmények mellett kivitelezhető.
+
+(3) Amennyiben az állami építési beruházás becsült értéke nem éri el a (2) bekezdésben meghatározott értékhatárt, az Ábtv. 39. § (4) bekezdése szerinti tervellenőri vizsgálatot az építtető – ha az a miniszter által vezetett minisztériumtól (a továbbiakban: minisztérium) eltérő szervezet, akkor a miniszter engedélyével – mellőzi.
+
+(4) Az Ábtv. 39. § (6) bekezdése szerinti jóváhagyási tervre az (1)–(3) bekezdés rendelkezései megfelelően alkalmazandók.
+
+#### 11. §
+
+Az Ábtv. 39. § (3)–(6) bekezdésében foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.
+
+#### 12. §
+
+Mentesül az Ábtv. 39. § (3)–(6) bekezdése szerinti kötelezettség alkalmazása alól azon állami építési beruházás,
+
+a) amely építési vagy létesítési engedélyt nem igényel,
+
+b) amelynek keretprogram szerinti keretösszege az európai uniós építési beruházási közbeszerzési értékhatárt nem haladja meg, vagy
+
+c) amely az állami építési beruházás közcélú vízilétesítmény létrehozására irányul,
+
+és a minisztérium, valamint az építtető között létrejött konzorciumi szerződés ezzel ellentétes rendelkezést nem tartalmaz.
+
+### 6. Az Ábtv. 40. § (2) bekezdéséhez
+
+#### 13. §
+
+(1) Az építtető nem köteles az állami építési beruházás költségbecslésének az Ábtv. 40. § (2) bekezdése szerinti aktualizálását elvégeztetni, ha nyilatkozatban rögzíti, hogy
+
+a) az állami építési beruházás – a Kbt. 19. § (3) bekezdése alkalmazása nélküli, a koncepcióterv, valamint a tervezési szolgáltatások becsült ellenértékével csökkentett, a beruházás keretprogramban meghatározott költségbecslése szerinti – becsült értéke nem haladja meg a Kbt. 115. § (1) bekezdésében meghatározott értékhatárt,
+
+b) a Központi Statisztikai Hivatal által az adott engedély iránti kérelem benyújtásának évére vonatkozóan közzétett, az engedély tárgyát képező beruházás szerinti építményfajtára vonatkozó építőipari árindex nem haladja meg az azt megelőző 5 év statisztikai átlagát, vagy
+
+c) a beruházás szerinti építési tevékenység jogszabály alapján építési vagy létesítési engedély nélkül is végezhető.
+
+(2) Az (1) bekezdésben foglalt esetben – az építtető nyilatkozata alapján – a minisztérium mellőzi a megvalósíthatósági tanulmány átdolgozását.
+
+(3) Az Ábtv. 40. § (2) bekezdésében foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.
+
+(4) Ha az állami építési beruházás építtetőjeként a miniszter helyi önkormányzatot jelölt ki, és a konzorciumi szerződésben ezzel ellentétes rendelkezés nem szerepel, a megvalósíthatósági tanulmány átdolgozásáról – az (1) és (2) bekezdés figyelembevételével – a helyi önkormányzat gondoskodik.
+
+### 7. Az Ábtv. 41. § (1)–(3) bekezdéséhez és 43. § (1) bekezdéséhez
+
+#### 14. §
+
+Az építtető az Ábtv. 41. § (1) bekezdése szerinti aktualizált költségbecslés elkészítése előtt is elindíthatja a kivitelezési dokumentáció elkészítésére irányuló közbeszerzési eljárást, ha
+
+a) az aktualizált költségbecslés elkészítése indokolatlan késedelmet jelentene a beruházás ütemezéséhez képest, vagy egyéb, előre nem látható okból a beruházás gyorsabb megvalósítása szükséges, és
+
+b) az építtető írásbeli nyilatkozatban vállalja a tervező közbeszerzési eljárásban megajánlott díjszabás szerinti tervezői díjat is magában foglaló felmerült költségei, vagy – amennyiben az magasabb – legalább a kivitelezési dokumentáció elkészítésére megajánlott tervezői díj 5%-át kitevő meghiúsulási kötbér tervező részére történő megfizetését arra az esetre, ha a miniszter a költségszakértő által aktualizált költségbecslés elkészültét követően a beruházás leállításáról dönt.
+
+#### 15. §
+
+(1) Ha az Ábtv. 36. §-a szerinti közbeszerzési eljárás közbeszerzési dokumentumaiban rögzítésre került, hogy az állami építési beruházás tárgyát képező építmény meghatározott technológiai részei tekintetében kivitelezési dokumentáció nem készíthető a kivitelező által alkalmazott saját tulajdonú vagy oltalom alatt álló technológia ismerete és a jogtulajdonos engedélye nélkül, nem kell az Ábtv. 41. § (2) bekezdése szerinti kivitelezési tervdokumentációt készíteni, és a kivitelező kiválasztására irányuló közbeszerzési eljárás megindításának nem feltétele az Ábtv. 43. § (1) bekezdése szerinti kivitelezési dokumentáció rendelkezésre állása.
+
+(2) Az (1) bekezdés szerinti esetben a kivitelezési dokumentációnak nem szükséges megfelelnie az Ábtv. 41. §-ában meghatározott feltételeknek, azonban továbbra is meg kell felelnie az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet szabályainak.
+
+#### 16. §
+
+Az Ábtv. 41. § (1)–(3) bekezdésében foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.
+
+#### 17. §
+
+Ha a miniszter az Ábtv. 16. §-a szerint építtetőt jelöl ki, az engedélyezési és kivitelezési dokumentáció elkészítésére irányuló közbeszerzési eljárásban az építtető jár el ajánlatkérőként, ha a minisztérium konzorciumi szerződést köt az építtetővel, annak rendelkezései figyelembevételével.
+
+### 8. Az Ábtv. 42. §-ához
+
+#### 18. §
+
+Amennyiben az állami építési beruházás – a Kbt. 19. § (3) bekezdése alkalmazása nélküli, a koncepcióterv, valamint a tervezési szolgáltatások becsült ellenértékével csökkentett, a beruházás keretprogramban meghatározott költségbecslése szerinti – becsült értéke nem haladja meg a Kbt. 115. § (1) bekezdésében meghatározott értékhatárt, és a miniszter az engedélyezési dokumentációt a 10. § (2) bekezdése szerint hagyta jóvá, a miniszter a kivitelezési dokumentációt a tervellenőr és a költségszakértő vizsgálatának mellőzésével hagyja jóvá.
+
+#### 19. §
+
+Az Ábtv. 42. § (1) bekezdése szerinti kötelezettség, valamint az Ábtv. 42. § (2) bekezdése szerint a tervellenőr által elvégzendő feladatok terjedelme ahhoz igazodik, hogy az Ábtv. 21. § (2) bekezdésében a tervellenőr kötelezettségeit az építtető milyen tartalommal határozta meg.
+
+#### 20. §
+
+Amennyiben az állami építési beruházás keretprogramban szereplő költségkerete az európai uniós építési beruházási közbeszerzési értékhatárt nem haladja meg, és a miniszter az állami építési beruházás építtetőjeként helyi önkormányzatot jelölt ki – amennyiben a konzorciumi szerződésben ezzel ellentétes rendelkezés nem szerepel –, a kivitelezési dokumentációt a helyi önkormányzat hagyja jóvá.
+
+### 9. Az Ábtv. 46. § (1) bekezdéséhez
+
+#### 21. §
+
+A miniszter az ágazati beruházási tervben, a keretprogramban vagy annak módosításakor, az építtető Ábtv. 16. § (1) bekezdése szerinti kijelölése, továbbá az Ábtv. 14. §-a szerinti konzorciumi szerződés megkötése során mentesítést vagy kedvezményt ad az állami építési beruházás tekintetében az Ábtv. 46. § (1) bekezdése szerinti szerződésminták alkalmazásának kötelezettsége alól, ha
+
+a) a beruházás az állami építési beruházás – a Kbt. 19. § (3) bekezdése alkalmazása nélküli, a koncepcióterv, valamint a tervezési szolgáltatások becsült ellenértékével csökkentett, a beruházás keretprogramban meghatározott költségbecslése szerinti – becsült értéke eléri vagy meghaladja az 50 milliárd forintot,
+
+b) a beruházás nagyfokú műszaki, pénzügyi, lebonyolítási összetettsége ezt egyébként indokolja, ezért egyedi szerződéses feltételek vagy konstrukció kidolgozása indokolt, vagy
+
+c) az állami építési beruházás – a Kbt. 19. § (3) bekezdése alkalmazása nélküli, a koncepcióterv, valamint a tervezési szolgáltatások becsült ellenértékével csökkentett, a beruházás keretprogramban meghatározott költségbecslése szerinti – becsült értéke nem éri el az építési beruházásokra meghatározott európai uniós közbeszerzési értékhatárt, és előkészítése és megvalósítása pénzügyi és lebonyolítási szempontból a mintaszerződésben foglaltakhoz képest jelentősen egyszerűbb.
+
+### 10. Az Ábtv. 46. § (2) bekezdéséhez
+
+#### 22. §
+
+(1) Amennyiben az építtető a szerződésminta alkalmazására vonatkozó rendelkezés alól a 21. § szerint mentesül, az építtető köteles az Ábtv. 46. § (2) bekezdésében meghatározott tartami elemeket tartalmazó kivitelezési szerződést kötni.
+
+(2) A szerződésminta tartalmi elemeire vonatkozó kedvezmény vagy mentesítés az adott szerződés tárgyának – tervezés vagy építési beruházás kivitelezése – beszerzésére vonatkozó közbeszerzési eljárás megindítása előtt adható, a határozatban rögzített feltételek a közbeszerzési dokumentáció részeként az ajánlattevők részére rendelkezésre bocsátott szerződésminta részét képezik.
+
+(3) Amennyiben a szerződésminta alkalmazása alól az építtető mentesül, és az állami építési beruházás kivitelezésére meghatározott időtartam a hat hónapot nem haladja meg,
+
+a) az építtető mentesül a beruházás mérföldkövei szerződéses meghatározásának kötelezettsége alól, és a szerződésben kizárólag a teljesítési véghatáridőt köteles meghatározni, és
+
+b) a kivitelezési szerződésnek nem kell tartalmaznia a beruházást érintő építőanyagár-változások kockázatát kezelő rendelkezést, e kockázatok viselésére a szerződésben a vállalkozót kell kötelezni.
+
+(4) Amennyiben az adott állami építési beruházás tárgyát képező építmény vonatkozásában jogszabály kötelező előírást tartalmaz kellékszavatosságra vagy jótállásra, a mintaszerződést a jogszabályra tekintettel az alábbiak szerint kell alkalmazni:
+
+a) ha a jogszabály rendelkezései a közzétett mintaszerződés rendelkezéseinél az ajánlattevőként szerződő félre nézve szigorúbbak, a miniszter mentesítést vagy kedvezményt ad a szerződésminta kellékszavatosságra és jótállásra vonatkozó rendelkezéseinek alkalmazása alól, a szerződésmintában szereplő előírások egyértelműsítése érdekében,
+
+b) ha a szerződésmintában szereplő kellékszavatossági vagy jótállási követelmények a jogszabályban foglaltaknál szigorúbbak, a szerződésminta alkalmazandó.
+
+(5) Nem adható mentesítés vagy kedvezmény az Ábtv. 46. § (2) bekezdés 2–5. pontjában, valamint 8., 13., 14. és 18. pontjában meghatározott tartalmi elemek alkalmazása tekintetében.
+
+### 11. Az Ábtv. 48. § (1) és (3) bekezdéséhez
+
+#### 23. §
+
+Amennyiben az állami építési beruházás becsült értéke a beruházás előkészítési szakaszában vagy a megvalósítási szakasz részét képező tervezés során az adott állami építési beruházás keretprogramban szereplő költségbecsléséhez képest növekedett, az ajánlattételi felhívásban vagy az ajánlati dokumentációban meghatározandó tartalékkeret Ábtv. 48. § (1) bekezdésében meghatározott legkisebb mértéke az e költségnövekedés – a keretprogram szerinti és a megemelt becsült érték közötti különbözet összegének – ellensúlyozása érdekében legfeljebb 1%-ra csökkenthető.
+
+#### 24. §
+
+Az Ábtv. 6. § (1) bekezdés b) pontja szerinti sajátos építményfajta megvalósítására irányuló állami építési beruházások körében a tartalékkeret mértéke – a magasépítésre vonatkozó általános szabályoktól eltérően – legfeljebb a szerződés szerinti vállalkozói díj 5%-a.
+
+#### 25. §
+
+Az Ábtv. 6. § (1) bekezdés b) pontja szerinti sajátos építményfajta megvalósítására irányuló állami építési beruházás esetén az Ábtv. 48. § (3) bekezdése szerinti nyilatkozatot az építtető csak az építési műszaki ellenőrtől köteles beszerezni.
+
+### 12. Az Ábtv. 55. § (2) és (3) bekezdéséhez
+
+#### 26. §
+
+(1) Az Ábtv. 55. § (3) bekezdése szerinti állami építési beruházások esetén a projektalapító dokumentumban vagy a konzorciumi szerződésben rendelkezni kell az egyes beruházási típusok megvalósításához szükséges feladatok megosztásáról és ütemezéséről, ennek keretében
+
+a) a beszerzési folyamatok eltérő jellegéből fakadó különbségek kezelésének módjáról,
+
+b) az egyes folyamatok időbeli ütemezéséről,
+
+c) a közbeszerzési eljárások típusainak meghatározásáról,
+
+d) a műszaki követelmények meghatározásáról, elhatárolásáról,
+
+e) az azonosított és valószínűsített, megvalósítást befolyásoló kockázatokról,
+
+f) a közreműködő szervezetekről, illetve hatóságokról, valamint
+
+g) a szükséges engedélyekről, hozzájárulásokról.
+
+(2)[^1] A miniszter mentesítést adhat az érintett állami építési beruházás vonatkozásában az Ábtv. 55. § (3) bekezdésének alkalmazása alól, ha
+
+a) a magasépítési és a sajátos építményfajtának minősülő építmény külön-külön tervezése vagy kivitelezése vagy a tervezésre vagy kivitelezésre irányuló közbeszerzési eljárások lefolytatása 25%-kal nagyobb idő- vagy költségigényt jelentene az azonos beruházási szabályok szerinti megvalósításhoz képest, feltéve, hogy az idő- vagy költségeltérés nem a minisztérium, a szakminisztérium, az építtető vagy – amennyiben nem az építtető az ajánlatkérő – az ajánlatkérő hibájára vezethető vissza,
+
+b) az eltérő építményfajtákat egy időben célszerű vagy lehetséges üzembe helyezni, vagy
+
+c) építészetileg vagy nemzetgazdasági szempontból nem kiemelt jelentőségű a magasépítési beruházásrész általános szabályok szerinti megvalósítása.
+
+(3) A magasépítési beruházási elem tekintetében a kivitelezési dokumentáció rendelkezésre állására vonatkozó, az Ábtv. 43. § (1) bekezdése szerinti kötelezettség alól mentesítés a (2) bekezdés szerinti mentesítésre tekintettel nem adható.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 27. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: A 26. § (2) bekezdés nyitó szövegrésze a 74/2025. (IV. 10.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.

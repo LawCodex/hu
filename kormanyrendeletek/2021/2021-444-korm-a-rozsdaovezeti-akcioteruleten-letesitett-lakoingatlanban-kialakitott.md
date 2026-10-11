@@ -1,0 +1,195 @@
+---
+title: "444/2021. (VII. 23.) Korm. rendelet a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról"
+identifier: "444/2021. (VII. 23.) Korm. rendelet"
+njt_id: "2021-444-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/444"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-07-23
+in_force_from: 2021-09-01
+last_amended: 2024-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-444-20-22"
+retrieved: 2026-10-12
+---
+
+# 444/2021. (VII. 23.) Korm. rendelet a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 32. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) A rozsdaövezeti akcióterületek fejlesztésének elősegítése érdekében az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatásként adó-visszatérítési támogatás (a továbbiakban: támogatás) vehető igénybe az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfatv.) 3. számú melléklet I. rész 59. pontja szerinti lakás (a továbbiakban: lakás) vásárlása esetén.
+
+(2) A támogatás költségvetési fedezetét a központi költségvetés „Lakástámogatások” előirányzata biztosítja.
+
+(3) A támogatás tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) az e rendeletben meghatározott eltérésekkel kell alkalmazni.
+
+(4) A támogatás igénylése, a támogató döntése, a támogatás folyósítása és a támogatói döntésről, a támogatási kérelem elutasításáról szóló tájékoztatás tekintetében nem kell alkalmazni az Ávr. 69. §-át, 70. § (1) és (2) bekezdését, 75–76. §-át, 81. §-át, 86. §-át, 87. §-át, 89–99. §-át, valamint 102/D. §-át és 102/F. §-át.
+
+(5) A támogatás tekintetében nem kell kikötni az államháztartásról szóló 2011. évi CXCV. törvény 50/A. §-a szerinti biztosítékot.
+
+## 2. A támogatás igénybevételének feltételei
+
+### 2. §
+
+(1) A támogatást az e rendeletben foglalt feltételek alapján az 1. § (1) bekezdése szerinti lakást vásárló
+
+a) magyar állampolgár és az a személy, akit a magyar állampolgárságról szóló törvény alapján magyar állampolgárnak kell tekinteni,
+
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja,
+
+c)[^1] harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
+
+d)[^2] hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el
+
+(a továbbiakban együtt: igénylő) igényelheti.
+
+(2) Ha a lakásban az igénylő a vásárlással résztulajdont szerez, a támogatást az igénylő az őt megillető tulajdoni hányad arányában önállóan igényelheti.
+
+(3) A támogatás abban az esetben igényelhető, ha a támogatási kérelem benyújtásának időpontjában
+
+a) az igénylőnek az állami adó- és vámhatóságnál nincs nyilvántartott köztartozása,
+
+b) a lakás az ingatlan-nyilvántartásban lakás megnevezéssel feltüntetésre került és
+
+c) az igénylő tulajdonjogának ingatlan-nyilvántartásba való bejegyzése megtörtént.
+
+(4)[^3] A támogatás olyan lakás vásárlása esetén igényelhető, amelyet gazdálkodó szervezet vagy befektetési alap (a továbbiakban együtt: gazdálkodó szervezet) természetes személy részére való értékesítés céljára épített vagy építtetett, és az igénylő részére első ízben értékesített.
+
+## 3. A támogatás mértéke
+
+### 3. §
+
+A támogatás összege megegyezik a lakás vásárlásáról kiállított számla vagy számlák szerint megfizetett, 5%-os általános forgalmi adó összegével.
+
+### 4. §
+
+Az adásvételt igazoló számlaként
+
+a) az igénylő mint vevő nevére szóló,
+
+b) a lakás értékesítéséről kiállított,
+
+c) az Áfatv. 82. § (2) bekezdése alapján 5%-os általános forgalmi adó mértékkel kiállított és
+
+d) az adásvételi szerződés szerinti, a szerződéskötés időpontjában és a számla kiállításának időpontjában a működő adóalanyok állami adóhatóságnál vezetett nyilvántartásában szereplő belföldi adóalany vállalkozó által kiállított
+
+számla fogadható el.
+
+## 4. A támogatás igénylése
+
+### 5. §
+
+(1) A támogatás az adásvételi szerződés megkötését és a teljes vételár kiegyenlítését követően
+
+a) az igénylő tulajdonjoga ingatlan-nyilvántartásba történő bejegyzésének és
+
+b) a lakás teljes vételáráról kiállított számla vagy a vételár utolsó részletéről kiállított részszámla megfizetésének
+
+évét követő naptári év szeptember 30. napjáig igényelhető, mely határidő jogvesztő. Ha az *a)* és *b)* pont szerinti időpontok eltérő naptári évre esnek, az igénylési határidő számításánál a legutolsó időpontot kell figyelembe venni.
+
+(2) A támogatás a lakás elhelyezkedése szerinti rozsdaövezeti akcióterületet lehatároló kormányrendelet hatálybalépésének napján vagy azt követően kiállított számla alapján igényelhető.
+
+### 6. §
+
+(1) A támogatás iránti kérelem a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és honlapján közzétett formanyomtatvány alkalmazásával
+
+a) – az igénylő elektronikus azonosítását követően – a Kincstár által üzemeltetett elektronikus felületen, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti módokon,
+
+b) postai úton vagy
+
+c) személyesen a kormányablaknál
+
+nyújtható be.
+
+(2) A kérelemhez mellékelni kell a következő dokumentumokat:
+
+a) adásvételi szerződés,
+
+b) a lakás elhelyezkedése szerinti rozsdaövezeti akcióterületet lehatároló kormányrendelet hatálybalépésének napján vagy azt követően kiállított és teljesített, a lakás teljes vételárát és az 5%-os általános forgalmi adót tartalmazó számla vagy részszámlák,
+
+c) a teljes vételár kiegyenlítésének igazolására az eladó teljes bizonyító erejű magánokiratba foglalt nyilatkozata és
+
+d) végleges használatbavételi engedély, használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy a lakóépület megépültét igazoló hatósági bizonyítvány.
+
+(3) A kérelem benyújtása napjának a kérelem és valamennyi melléklete
+
+a) az (1) bekezdés a) pontja szerinti elektronikus beküldésének (feltöltésének),
+
+b) postára adásának vagy
+
+c) a kormányablak általi átvételének
+
+napja minősül.
+
+(4) Elektronikus benyújtás esetén a kérelem beérkezéséről és a beérkezett mellékletek számáról elektronikus úton visszaigazolást kell küldeni az igénylő részére. A visszaigazolás tartalmazza az elbíráláshoz szükséges, feltöltött mellékletek számát is. Kormányablaknál történő benyújtás esetén a kormányablak a kérelem és annak mellékletei átvételéről az igénylő részére igazolást állít ki.
+
+### 7. §
+
+(1) A támogatás iránti kérelmeket – a beérkezés sorrendjében – a Kincstár a beérkezést követő 30 napon belül bírálja el. A Kincstár a támogatás iránti kérelmek érdemi elbírálásának megkezdéséről az igénylőt nem tájékoztatja.
+
+(2) A kérelem elbírálása során a Kincstár ellenőrzi a támogatás e rendelet szerinti igénybevételi feltételeinek meglétét, a kérelemhez csatolt dokumentumok teljességét, és a feltételek fennállása esetén megállapítja a támogatás összegét.
+
+(3) A Kincstár megkeresi az állami adó- és vámhatóságot az igénylő 2. § (3) bekezdés a) pontja szerinti köztartozás-mentességének, valamint az eladó gazdálkodó szervezet 4. § d) pontja szerinti belföldi jogalanyiságának ellenőrzése céljából.
+
+(4) Ha az igénylő támogatás iránt benyújtott kérelme hibás vagy hiányos, a kérelem elbírálása során a hiánypótlásra az Ávr. 70. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a hibák, hiányosságok pótlására a Kincstár legfeljebb harminc napos határidőt biztosíthat. Hiánypótlás esetén a hiánypótlásra megállapított határidő a támogatási kérelem elbírálásának határidejébe nem számít bele.
+
+### 8. §
+
+(1) Ha a Kincstár az igénylő támogatásra való jogosultságát megállapítja, a megítélt támogatás összegétől függetlenül támogatói okiratot állít ki.
+
+(2) A támogatói okirat tartalmazza
+
+a) az igénylő alábbi adatait:
+
+aa) családi és utónév,
+
+ab) születési családi és utónév,
+
+ac) anyja születési családi és utóneve,
+
+ad) születési hely és idő,
+
+ae) lakóhely és
+
+af) adóazonosító jel,
+
+b) a támogatással érintett lakás címét, helyrajzi számát,
+
+c) az igénylő belföldi pénzügyi intézménynél vezetett fizetési számlájának számát, valamint
+
+d) a megítélt támogatás összegét.
+
+(3) A Kincstár a támogatói okiratot a támogatási kérelem 6. § (1) bekezdés a) pontja szerinti benyújtása esetén – az ügyfél kérelmének megfelelően – elektronikus vagy postai úton, a 6. § (1) bekezdés b) vagy c) pontja szerinti benyújtása esetén postai úton megküldi az igénylő részére.
+
+(4) A Kincstár a támogatói okirat kiállítását követő 5 napon belül folyósítja a támogatást az igénylő belföldi fizetési számlájára.
+
+### 9. §
+
+(1) Ha az igénylő a támogatás igénybevételéhez szükséges feltételeknek nem felel meg, akkor a Kincstár a támogatási kérelem 6. § (1) bekezdés a) pontja szerinti benyújtása esetén – az ügyfél kérelmének megfelelően – elektronikus vagy postai úton, a 6. § (1) bekezdés b) vagy c) pontja szerinti benyújtása esetén postai úton tájékoztatja az igénylőt a kérelem elutasításáról és annak indokáról.
+
+(2) A kérelem elutasítása ellen kifogás benyújtásának nincs helye.
+
+## 5. Adatkezelés
+
+### 10. §
+
+(1) A támogatás igénylésekor az igénylő teljes bizonyító erejű magánokiratban nyilatkozik arról, hogy hozzájárul ahhoz, hogy a Kincstár a jogosultság megállapításának és ellenőrzésének céljából az állami adó- és vámhatóságtól a szükséges adatokat beszerezze és az abban foglalt személyes adatokat kezelje.
+
+(2) Az igénylő a kérelem benyújtásakor teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a Kincstár az igénylő 8. § (2) bekezdése szerinti adatait a támogatási kérelem elbírálása, a támogatás folyósítása céljából kezelje.
+
+## 6. Záró rendelkezések
+
+### 11. §
+
+Ez a rendelet 2021. szeptember 1-jén lép hatályba.
+
+---
+
+[^1]: A 2. § (1) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 230/2024. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

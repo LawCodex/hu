@@ -1,0 +1,117 @@
+---
+title: "69/2024. (III. 28.) Korm. rendelet a honvédelmi és katonai, továbbá katonai nemzetbiztonsági célú és rendeltetésű építményeket érintő állami építési beruházásokra, valamint az állam 100%-os tulajdonában álló gazdasági társaság által megvalósított védelmi ipari beruházásokra vonatkozó eltérő rendelkezésekről"
+identifier: "69/2024. (III. 28.) Korm. rendelet"
+njt_id: "2024-69-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/69"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-03-28
+in_force_from: 2024-03-29
+last_amended: 2024-03-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-69-20-22"
+retrieved: 2026-10-12
+---
+
+# 69/2024. (III. 28.) Korm. rendelet a honvédelmi és katonai, továbbá katonai nemzetbiztonsági célú és rendeltetésű építményeket érintő állami építési beruházásokra, valamint az állam 100%-os tulajdonában álló gazdasági társaság által megvalósított védelmi ipari beruházásokra vonatkozó eltérő rendelkezésekről
+
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 59. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) E rendelet hatálya kiterjed minden katonai célú beruházás megvalósítása érdekében a közbeszerzésekről szóló 2015. évi CXLIII. törvény, a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.), a Polgári Törvénykönyvről szóló 2013. évi V. törvény vagy a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 109/2012. (VI. 1.) Korm. rendelet szabályai alapján indított beszerzési eljárásra.
+
+(2) E rendelet hatálya a központi költségvetés XIII. Honvédelmi Minisztérium fejezet és az LI. Honvédelmi Alap fejezet terhére megvalósított katonai célú beruházásokra terjed ki.
+
+## 2. §
+
+E rendelet alkalmazásában
+
+1\. *építtető:* az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 4. pontja szerinti építtető;
+
+2\. *katonai célú beruházás:* az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 3. § (2) bekezdésében meghatározottak közül a honvédelmi és katonai, továbbá katonai nemzetbiztonsági célú és rendeltetésű építményeket érintő állami építési beruházás, valamint az állam 100%-os tulajdonában álló gazdasági társaság által megvalósított védelmi ipari beruházás;
+
+3\. *katonai nemzetbiztonsági célú és rendeltetésű építményeket érintő állami beruházás:* az az állami építési beruházás, amelynek megvalósítója a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
+
+## 3. §
+
+A katonai célú beruházások vonatkozásában az építtetőnek alapelvként szükséges figyelembe venni
+
+a) a honvédelmi ágazati hatóságra vonatkozó eltérő jogszabályi rendelkezésekben foglalt elveket,
+
+b) a Magyar Honvédség és a funkcionalitás által támasztott követelményeket,
+
+c) a résztvevőkkel szemben támasztandó speciális ismeret szükségességét,
+
+d) a honvédelmi, katonai nemzetbiztonsági, valamint adatvédelmi szempontok
+
+érvényesülését.
+
+## 4. §
+
+(1) Az Ábtv. rendelkezéseitől eltérően a katonai célú beruházás a szakpolitikai-ágazati beruházási koncepciónak, ágazati beruházási tervnek és az ezeken alapuló állami építési beruházási keretprogramnak nem része.
+
+(2) Katonai célú beruházás esetén a beruházás megvalósításáról az ágazati gazdálkodásért felelős vezető a gazdálkodására vonatkozó általános szabályozások alapján hozhat döntést.
+
+(3) Az Ábtv. rendelkezéseitől eltérően – tekintettel az 1. § (2) bekezdésére – a katonai célú beruházás esetén nem kell alkalmazni az Ábtv.-nek az állami beruházásokért felelős miniszter irányítása alatt álló önálló költségvetési fejezetre vonatkozó rendelkezéseit.
+
+## 5. §
+
+(1) Az Ábtv. 1. § (3) bekezdésétől eltérően a társadalmi konszenzus érdekében a javaslat- és véleménynyilvánítás lehetőségét, továbbá az Ábtv. 1. § (4) bekezdésétől eltérően a végrehajtás során a nyilvánosság és a közösségi ellenőrzés lehetőségének biztosítását csak a katonai és a védelmi ipari beruházással közvetlenül érintettek számára kell biztosítani, oly módon, hogy az ne veszélyeztesse Magyarország szuverenitását és területi épségét.
+
+(2) Az Ábtv. 1. § (4) bekezdésében meghatározott nyilvánosság és közösségi ellenőrzés lehetőségét a beruházási döntéseket megelőzően nem kell biztosítani.
+
+(3) Az (1) bekezdés szerinti javaslat- és véleménynyilvánításhoz szükséges információk szolgáltatása az építtető kötelessége. Amennyiben az építtető által szolgáltatandó információk átadhatóságával kapcsolatban döntést igénylő kérdés merül fel, arról az építtető kezdeményezése alapján a honvédelemért felelős miniszter előterjesztésére a Védelmi Tanács dönt.
+
+## 6. §
+
+(1) Katonai célú beruházás esetében az építtető az Ábtv. 7. §-ának, 6., 7. és 9. alcímének, valamint III. és IV. Fejezetének szabályaitól eltérően
+
+a) a beruházás szakaszaira és szereplőire vonatkozó döntését,
+
+b) a kormányzati döntéshozatal rendjét,
+
+c) a tervező és a kivitelező kiválasztására irányuló eljárásrendet,
+
+d) a tervezés és a kivitelezés folyamatát és az azok alapján készülő dokumentációk tartalmát,
+
+e) a beszerzési eljárások feltételeit, az ajánlatok értékelésének szempontjait,
+
+f) a kivitelezési szerződés tartalmát, a tartalékkeret mértékét
+
+a tevékenységére vonatkozó, az ágazati jogszabályokban és közjogi szervezetszabályozó eszközökben előírt követelmények alapján határozza meg, figyelembe véve a 3. §-ban foglaltakat is.
+
+(2) Az Ábtv. 10. § (3) bekezdése szerinti költséginformációs rendszer a katonai és a védelmi ipari beruházások költségadataira vonatkozó információt és értékelést a honvédelemért felelős miniszter hozzájárulásával tartalmazhat.
+
+(3) E rendelet hatálya alá tartozó beruházások tekintetében az Ábtv. 11. § (2) bekezdése szerinti monitoring bizottság nem végez monitoring tevékenységet, a honvédelemért felelős miniszter az e rendelet hatálya alá tartozó beruházások monitoringja céljából hat havonta jelentést készít az állami beruházásokért felelős miniszter számára az állami beruházásokért felelős miniszterrel egyeztetett tartalommal és módon.
+
+(4) A (3) bekezdés szerinti jelentés tartalmának és módjának kialakításakor a KNBSZ szakmai álláspontjától eltérni nem lehet.
+
+(5) A katonai célú beruházás tervezőjének és kivitelezőjének kiválasztási folyamatában – a KNBSZ által elvégzett katonai beruházás kivételével – az építtető az állami beruházásokért felelős miniszter által delegált személy részvételének lehetőségét biztosítani köteles.
+
+(6) Amennyiben a katonai célú beruházás építtetőjénél az Ábtv. 38. § (1) bekezdése szerinti építményinformációs modell (BIM) alapú műszaki megvalósítás rendszere használatának infrastrukturális feltételei fennállnak, az (1) bekezdéstől függetlenül az Ábtv. 38. §-át alkalmazni kell.
+
+## 7. §
+
+Az e rendelet hatálya alá tartozó beruházás esetén az Ábtv. 15. és 16. alcímében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a minősített adatok felhasználására és a nemzetbiztonsági szempontokra vonatkozó szabályok be nem tartása esetén az ellenőrzéshez és a minőségbiztosításhoz szükséges adatok kiadása megtagadható.
+
+## 8. §
+
+Az e rendelet hatálya alá tartozó beruházás esetén az Ábtv. 17. alcímétől eltérően a Vbt. alkalmazása során a jogorvoslati fórum a Közbeszerzési Döntőbizottság.
+
+## 9. §
+
+Az e rendelet hatálya alá tartozó beruházások tekintetében a költségszakértői feladatok ellátásáról, amennyiben költségszakértő alkalmazására sor kerül, az állami beruházásokért felelős miniszter által vezetett minisztérium vagy az általa irányított költségvetési szerv vagy a tulajdonosi joggyakorlása alatt álló gazdasági társaság útján gondoskodik.
+
+## 10. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 11. §
+
+(1) A rendelet 8. §-a a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló, 2009. július 13-i 2009/81/EK parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A rendelet 9. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(3) A rendelet 9. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.

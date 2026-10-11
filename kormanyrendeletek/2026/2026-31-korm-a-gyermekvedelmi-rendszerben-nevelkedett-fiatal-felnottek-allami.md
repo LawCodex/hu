@@ -1,0 +1,237 @@
+---
+title: "31/2026. (II. 26.) Korm. rendelet a gyermekvédelmi rendszerben nevelkedett fiatal felnőttek állami szerveknél való foglalkoztatásának biztosításáról, továbbá a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosításáról"
+identifier: "31/2026. (II. 26.) Korm. rendelet"
+njt_id: "2026-31-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2026/Korm/31"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2026-02-26
+in_force_from: 2026-03-01
+last_amended: 2026-03-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2026-31-20-22"
+retrieved: 2026-10-12
+---
+
+# 31/2026. (II. 26.) Korm. rendelet a gyermekvédelmi rendszerben nevelkedett fiatal felnőttek állami szerveknél való foglalkoztatásának biztosításáról, továbbá a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosításáról
+
+[1] A gyermekvédelmi gondoskodásban élő gyermekek, fiatal felnőttek munkaerőpiaci esélyeinek előmozdítása érdekében az állam az állami szervek és az állami többségi befolyással működő gazdasági társaságok részére foglalkoztatási kötelezettséget írt elő.
+
+[2] A kormányrendelet a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben foglalt foglalkoztatási kötelezettség végrehajtásának szabályait rögzíti.
+
+[3] A Kormány
+
+a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1d) bekezdésében kapott felhatalmazás alapján,
+
+a 17. és a 18. § tekintetében a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1) bekezdés d) és q) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *állami foglalkoztatási kötelezettség:* az állami szerv általi, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 95/A. § (1) bekezdése szerinti, a foglalkoztatási igény benyújtásától, de legkorábban a nagykorúvá válástól kezdődő, a 2. pont szerinti életkorig fennálló foglalkoztatási kötelezettség;
+
+2\. *állami foglalkoztatásra jogosult:* a gyermekvédelmi gondoskodásból nagykorúság miatt kikerült fiatal felnőtt a nagykorúvá válásától a 24. életévének betöltéséig, vagy az utógondozói ellátásban részesülő fiatal felnőtt az utógondozói ellátás fennállásának időtartama alatt, de legkésőbb a 24. életévének betöltéséig, ide nem értve a javítóintézeti nevelésből elbocsátottakat és a javítóintézet utógondozó részlegén ellátottakat;
+
+3\. *állami szerv:* a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint azon gazdasági társaság, amelyben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:2. §-a szerinti többségi befolyást gyakorol, ide nem értve a Magyar Nemzeti Bank, valamint a Magyar Nemzeti Banknak a Ptk. 8:2. §-a szerinti többségi befolyása alatt álló, valamint a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaságot;
+
+4\. *közvetítési folyamat:* az e rendelet alapján, az állami foglalkoztatásra jogosult foglalkoztatás iránti igénye alapján az állami foglalkoztatási szerv által nyújtott szakmai tevékenységek összessége, amelynek eredményeként az állami foglalkoztatási szerv vagy a kormányzati személyügyi igazgatási központi feladatait ellátó szerv kijelöli az állami foglalkoztatásra jogosult foglalkoztatására köteles állami szervet;
+
+5\. *közvetítői lap:* az e rendelet szerinti közvetítési folyamat eredményeként az állami foglalkoztatási szerv által a kijelölt állami szerv részére kiállított dokumentum, amely az állami foglalkoztatásra jogosulttal létesítendő foglalkoztatási jogviszony létesítéséhez szükséges adatokat tartalmazza.
+
+## 2. §
+
+A Kormány a Gyvt. 95/A. § (2) bekezdése szerinti koordináló szervként
+
+a) az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatalt,
+
+b) az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal állami foglalkoztatási feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: állami foglalkoztatási szerv),
+
+c) a gyermekvédelmi és gyámügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatalt,
+
+d) a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) és
+
+e) a kormányzati személyügyi igazgatás központi feladatait ellátó szervet
+
+jelöli ki.
+
+## 3. §
+
+(1) A gyermekvédelmi és gyámügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal – az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal bevonásával – a gyermekvédelmi gondoskodásban nevelkedő 16 és 18 év közötti gyermekek részére évente, vármegyénként, személyes jelenléthez kötött tájékoztató fórumot szervez az állami foglakoztatási kötelezettség, valamint a 30 év alattiaknak szóló foglalkoztatást elősegítő támogatások és szolgáltatások bemutatása céljából.
+
+(2) A gyámhivatal a gyermekvédelmi gondoskodásban nevelkedő gyermeket nagykorúságának elérése előtt hat hónappal – az állami foglalkoztatási szerv bevonásával – írásban tájékoztatja az állami foglalkoztatási kötelezettség igénybevételének lehetőségéről.
+
+(3) A (2) bekezdés szerinti tájékoztatót az állami foglalkoztatási szerv készíti el. A tájékoztató tartalmazza
+
+a) a foglalkoztatást elősegítő támogatások és szolgáltatások ismertetését,
+
+b) az állami foglalkoztatási kötelezettség részletes bemutatását,
+
+c) az állami foglalkoztatási kötelezettség érvényesítése iránti igény (a továbbiakban: foglalkoztatási igény) benyújtásának módját, határidejét, valamint a benyújtásához szükséges dokumentumokat és
+
+d) az állami foglalkoztatási szerv kapcsolattartójának elérhetőségeit.
+
+(4) Az állami foglalkoztatási szerv a foglalkoztatási igény benyújtásának lehetőségéről és módjáról a (3) bekezdés szerinti tájékoztatóval azonos tartalmú információt tesz közzé a honlapján és az ügyfélszolgálati helyiségeiben.
+
+## 4. §
+
+A gyámhivatal az állami foglalkoztatásra jogosult
+
+a) nevelésbe vételének megszűnését megállapító,
+
+b) nevelésbe vételének megszűnését és utógondozói ellátásra való jogosultságát megállapító és
+
+c) utógondozói ellátásra való jogosultságát megállapító
+
+határozatának rendelkező része tartalmazza az állami foglalkoztatásra való jogosultság tényét.
+
+## 5. §
+
+(1) Az állami foglalkoztatásra jogosult a lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes állami foglalkoztatási szervnél, személyesen nyújthatja be a foglalkoztatási igényét.
+
+(2) A foglalkoztatási igényhez csatolni kell
+
+a) a gyámhivatal 4. § szerinti határozatát,
+
+b) az állami foglalkoztatásra jogosult képesítését igazoló dokumentumokat,
+
+c) az állami foglalkoztatásra jogosultról a külön jogszabály szerinti képesség- és tehetséggondozás-módszertan alapján a pályaválasztással összefüggő képességfelmérés és képességgondozás keretében a 14. életévének betöltését követően készített dokumentációt és
+
+d) az állami foglalkoztatásra jogosultnak a korábban fennállt foglalkoztatásra irányuló jogviszonyait igazoló dokumentumokat.
+
+## 6. §
+
+(1) Az állami foglalkoztatási szerv az 5. § szerint benyújtott foglalkoztatási igény alapján megindítja a közvetítési folyamatot. Az állami foglalkoztatásra jogosult a közvetítési folyamat során köteles együttműködni az állami foglalkoztatási szervvel.
+
+(2) Az állami foglalkoztatási szerv az állami foglalkoztatásra jogosultat a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 54. § (11) bekezdésében és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló 100/2021. (II. 27.) Korm. rendelet [a továbbiakban: 100/2021. (II. 27.) Korm. rendelet] 3. §-ában foglaltak alapján nyilvántartásába veszi. A nyilvántartás az Flt. 57/A. §-ában foglalt adatokat tartalmazza.
+
+## 7. §
+
+(1) Az állami foglalkoztatási szerv a foglalkoztatási igény benyújtását követő 40 napon belül
+
+a) felméri – az 5. § (2) bekezdése szerinti dokumentumok alapján – az állami foglalkoztatásra jogosult képességeit, életkörülményeit, a munkaerőpiaci részvételt megalapozó kompetenciáit, készségeit, képesítéseit,
+
+b) meghallgathatja az állami foglalkoztatásra jogosult gondozását végző, illetve korábban végzett gyermekvédelmi intézmény által kijelölt személyt az állami foglalkoztatásra jogosultról,
+
+c) rögzíti az állami foglalkoztatásra jogosult által megjelölt, jövőbeli tervezett lakó- és tartózkodási helyét, amelynél előnyben kell részesíteni azt a települést, ahol a megfelelő foglalkoztatás biztosítható.
+
+(2) Az állami foglalkoztatási szerv szükség esetén személyes meghallgatást, foglalkozás-egészségügyi szempontú egészségügyi felmérést, képességtesztet vagy kompetenciavizsgálatot is végezhet.
+
+(3) Az állami foglalkoztatási szerv az (1) és (2) bekezdés szerinti felméréstől számított 8 napon belül tájékoztatja az állami foglalkoztatásra jogosultat
+
+a) a felmérés eredményéről,
+
+b) azokról a foglalkoztatásra kötelezhető állami szerveknél rendelkezésre álló álláshelyekről, amelyek a felmérés alapján a foglalkoztatására alkalmasak,
+
+c) azokról a további álláshelyekről, amelyek a felmérés alapján a foglalkoztatására alkalmasak, azzal a tájékoztatással együtt, hogy ezen szervek a foglalkoztatásra nem kötelesek.
+
+(4) Azokat az 1. § 3. pontja szerinti gazdasági társaságokat, amelyekkel az állami foglalkoztatási szerv az állami foglalkoztatásra jogosultak elhelyezése érdekében elsődlegesen együttműködik, a Kormány határozatában jelöli ki.
+
+(5) Az állami foglalkoztatási szerv az állami foglalkoztatási kötelezettség keretében betölthető üres álláshelyeket
+
+a) a 100/2021. (II. 27.) Korm. rendelet 9. § (1) bekezdése szerinti munkaerőigény-bejelentések,
+
+b) közvetlen úton az érintett állami szervekkel – különös tekintettel a (4) bekezdés szerinti kormányhatározatban meghatározott gazdasági társaságokkal – felvett kapcsolat útján megszerzett adatok,
+
+c) a nyilvános adatbázisokban található álláshirdetések
+
+figyelembevételével ajánlja fel az állami foglalkoztatásra jogosult részére.
+
+## 8. §
+
+(1) Az állami foglalkoztatásra jogosult a 7. § (3) bekezdése szerinti tájékoztatást követő 8 napon belül
+
+a) nyilatkozik a részéről elfogadott – legfeljebb 10 – álláshelyről, és
+
+b) megjelöli azok sorrendjét.
+
+(2) Az állami foglalkoztatási szerv a nyilatkozat alapján 5 napon belül
+
+a) kijelöli azt az állami szervet, amely az állami foglalkoztatásra jogosultat foglalkoztatni köteles (a továbbiakban: kijelölt állami szerv),
+
+b) kiállítja a közvetítői lapot, és azt megküldi a kijelölt állami szerv részére.
+
+(3) A kijelölt állami szerv a kijelöléstől számított 15 napon belül foglalkoztatásra irányuló jogviszonyt létesít az állami foglalkoztatásra jogosulttal.
+
+## 9. §
+
+(1) Ha az állami foglalkoztatási szerv a 7. § (1) és (2) bekezdése szerinti felmérés alapján az állami foglalkoztatásra jogosult foglalkoztatására megfelelő álláshelyet nem tud javasolni, a felmérést követő 3 napon belül az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatalon keresztül írásban megkeresi a kormányzati személyügyi igazgatás központi feladatait ellátó szervet.
+
+(2) A kormányzati személyügyi igazgatás központi feladatait ellátó szerv a megkereséstől számított 10 napon belül intézkedik az állami foglalkoztatásra jogosult számára a 7. § (1) és (2) bekezdése szerinti felmérés alapján megfelelő álláshely biztosítása iránt, és írásban tájékoztatja a kijelölt állami szervet és az állami foglalkoztatási szervet a kijelölésről.
+
+(3) Az állami foglalkoztatási szerv a (2) bekezdés szerinti tájékoztatást követő 5 napon belül kiállítja a közvetítői lapot, és azt megküldi a kijelölt állami szerv részére.
+
+(4) A (2) bekezdés alapján kijelölt állami szerv a 8. § (3) bekezdése szerint jár el.
+
+## 10. §
+
+(1) Ha az állami foglalkoztatásra jogosult a 7. § (3) bekezdése szerinti tájékoztatásban megjelölt álláshelyek közül egyet sem jelöl meg, kérésére a közvetítési folyamatot ismételten le kell folytatni.
+
+(2) Ha az állami foglalkoztatásra jogosult a foglalkoztatási jogviszony létesítését megelőzően az állami foglalkoztatási szervhez írásban benyújtott nyilatkozatában kijelenti, hogy a kijelölt állami szervnél történő foglalkoztatást nem kívánja igénybe venni, vagy a foglalkoztatási igényétől eláll, az állami foglalkoztatási szerv a közvetítési folyamatot megszünteti, és erről írásban tájékoztatja az állami foglalkoztatásra jogosultat, a kormányzati személyügyi igazgatás központi feladatait ellátó szervet, valamint a kijelölt állami szervet.
+
+## 11. §
+
+(1) A kijelölt állami szerv a foglalkoztatási jogviszony létesítésével egyidejűleg a beilleszkedést és a munkafolyamatok elsajátítását segítő munkahelyi mentort jelöl ki az állami foglalkoztatásra jogosult részére. A mentorálás időtartama, feltéve, hogy a foglalkoztatás időtartama ennél hosszabb, legalább 6 hónap.
+
+(2) Az állami foglalkoztatásra jogosult e rendelet szerinti foglalkoztatása esetén a 100/2021. (II. 27.) Korm. rendelet 38. §-a szerinti támogatásra a munkaerőpiaci programokban meghatározottak szerint jogosult.
+
+## 12. §
+
+(1) A kijelölt állami szerv az állami foglalkoztatásra jogosulttal létesített foglalkoztatási jogviszony létrejöttéről, annak időpontjáról, jellegéről, valamint – határozott idejű jogviszony esetén – időtartamáról a foglalkoztatási jogviszony létesítésétől számított 5 napon belül írásban tájékoztatja az állami foglalkoztatási szervet.
+
+(2) A kijelölt állami szerv az állami foglalkoztatásra jogosulttal létrejött foglalkoztatási jogviszony megszűnését vagy megszüntetését (a továbbiakban együtt: megszűnés) a megszűnés napját követő 5 napon belül írásban bejelenti az állami foglalkoztatási szervnek. A bejelentés a foglalkoztatási jogviszony megszűnésének időpontját, okát és módját, valamint a jogviszony keretében eltöltött időtartamot tartalmazza.
+
+## 13. §
+
+(1) Az állami foglalkoztatásra jogosult a foglalkoztatási jogviszony megszűnését követően az állami foglakoztatási kötelezettség időtartama alatt az állami foglalkoztatás folytatása iránti igényt nyújthat be az állami foglalkoztatási szervhez.
+
+(2) Az állami foglalkoztatási szerv az állami foglalkoztatás folytatása iránti igény elbírálása során – ha a 7. § (1) és (2) bekezdése szerinti felmérés időpontja egy évnél régebbi – a felmérést újra elvégzi, ellenkező esetben a rendelkezésre álló felmérési eredményeket alapul véve bírálja el az igényt. Az állami foglalkoztatási szerv egyebekben a 7–10. § szerint jár el.
+
+## 14. §
+
+(1) Az állami foglalkoztatási kötelezettség megszűnik, ha
+
+a) az állami foglalkoztatásra jogosult az 1. § 2. pontja szerinti életkort betölti, vagy
+
+b) az e rendelet alapján létesített foglalkoztatási jogviszonyok együttes időtartama eléri a három évet.
+
+(2) Az állam foglalkoztatási kötelezettsége megszűnik, ha az állami foglalkoztatásra jogosult az együttműködési kötelezettségét megszegi. A megszűnést megelőzően az állami foglalkoztatási szerv három alkalommal írásban szólítja fel az állami foglalkoztatásra jogosultat az együttműködési kötelezettsége teljesítésére. A felszólítás tartalmazza az elmulasztott cselekmény pótlására vonatkozó felhívást és a cselekmény pótlására szabott határidőt.
+
+(3) Az állami foglalkoztatási kötelezettség időtartamába az állami foglalkoztatásra jogosulttal különböző állami szerveknél létesített, egymást követő, nem egyidejű foglalkoztatási jogviszonyok időtartamát be kell számítani.
+
+(4) Az állami foglalkoztatási kötelezettség időtartamából le kell vonni azon időtartamot, amelyet az állami foglalkoztatásra jogosult állami foglalkoztatási jogviszonyban töltött.
+
+## 15. §
+
+(1) A foglalkoztatási igényt a gyermekvédelmi gondoskodásban élő gyermek a 18. életévének betöltését megelőző legfeljebb 5 hónappal korábban is benyújthatja.
+
+(2) Az (1) bekezdés szerinti gyermekre az állami foglalkoztatásra jogosultra vonatkozó szabályokat kell alkalmazni, az alábbi eltérésekkel:
+
+a) a foglalkoztatási igényhez csak az 5. § (2) bekezdés b) és c) pontja szerinti dokumentumokat kell csatolni,
+
+b) a 7. § (1) bekezdés b) pontja szerinti személy meghallgatása kötelező,
+
+c) ha jogszabály értelmében a foglalkoztatási jogviszony csak nagykorúval létesíthető, a jogviszony létrehozásáról a felek előszerződést kötnek, és
+
+d) a foglalkoztatás kezdő időpontja a 18. életév betöltése.
+
+## 16. §
+
+Ez a rendelet 2026. március 1-jén lép hatályba.
+
+## 17. §
+
+(1) Az e rendeletben foglalt rendelkezéseket
+
+a) a gyermekvédelmi gondoskodásból az e rendelet hatálybalépését megelőzően kikerült vagy
+
+b) az e rendelet hatálybalépésekor utógondozói ellátásban részesülő,
+
+de 24. életévét be nem töltött fiatal felnőttekre a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) A gyámhivatal az (1) bekezdés szerinti fiatal felnőtt állami foglalkoztatásra való jogosultságáról 2026. március 31-éig írásbeli tájékoztatást küld a fiatal felnőtt számára.
+
+(3) Az állami foglalkoztatási szerv a fiatal felnőtt állami foglalkoztatásra való jogosultságát a gyámhivatal (2) bekezdés szerinti tájékoztatása alapján állapítja meg.

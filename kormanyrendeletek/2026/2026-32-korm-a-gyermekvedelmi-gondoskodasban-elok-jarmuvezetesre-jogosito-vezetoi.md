@@ -1,0 +1,179 @@
+---
+title: "32/2026. (II. 26.) Korm. rendelet a gyermekvédelmi gondoskodásban élők járművezetésre jogosító vezetői engedélyének és GKI igazolványának megszerzéséhez nyújtott támogatásról"
+identifier: "32/2026. (II. 26.) Korm. rendelet"
+njt_id: "2026-32-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2026/Korm/32"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2026-02-26
+in_force_from: 2026-03-01
+last_amended: 2026-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2026-32-20-22"
+retrieved: 2026-10-12
+---
+
+# 32/2026. (II. 26.) Korm. rendelet a gyermekvédelmi gondoskodásban élők járművezetésre jogosító vezetői engedélyének és GKI igazolványának megszerzéséhez nyújtott támogatásról
+
+[1] A Kormány elkötelezett abban, hogy munkaerőpiaci esélyeik előmozdítása érdekében a gyermekvédelmi gondoskodásban élő gyermekek és fiatal felnőttek „B”, „C” és „CE” kategóriába sorolt járművek vezetésére jogosító vezetői engedélye, valamint GKI igazolványa megszerzését támogassa.
+
+[2] A Kormány a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (1e) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *államilag támogatott gépjárművezetői díjak:*
+
+a) „C” és „CE” kategóriába sorolt járművek esetén orvosi alkalmassági vizsgálat legfeljebb egyszeri díja,
+
+b) „C” és „CE” kategóriába sorolt járművek esetén elsősegélynyújtási ismeretek képzés, valamint elsősegélynyújtási vizsga legfeljebb egyszeri díja, ha a jogosult ezzel nem rendelkezik,
+
+c) „C” és „CE” kategóriába sorolt járművek esetén elméleti képzés, valamint az elméleti vizsgák – vizsgatárgyanként legfeljebb egyszeri – díja,
+
+d) „B” kategóriába sorolt járművek esetén legfeljebb 35 óra, „C” kategóriába sorolt járművek esetén legfeljebb 20 óra, „CE” kategóriába sorolt járművek esetén legfeljebb 15 óra vezetési gyakorlati képzés díja,
+
+e) „B” kategóriába sorolt járművek esetén legfeljebb egyszeri gyakorlati vizsga díja, „C” és „CE” kategóriába sorolt járművek esetén a gyakorlati vizsgák – vizsgatárgyanként legfeljebb egyszeri – díja,
+
+f) a vezetői engedély kiállításának legfeljebb egyszeri díja;
+
+2\. *államilag támogatott GKI díjak:* a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott érvényes vezetői engedély kategóriához tartozó Gépjárművezetői képesítési igazolvány (GKI igazolvány) megszerzéséhez szükséges
+
+a) képzés, valamint a vizsgák – vizsgatárgyanként – legfeljebb egyszeri díja,
+
+b) GKI igazolvány kiállításának legfeljebb egyszeri díja;
+
+3\. *„B” kategóriába sorolt járművek vezetésére jogosító engedély:* a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 2. mellékletében foglalt, „Nemzetközi kategóriák a 2006/126/EK irányelvnek megfelelően 2013. január 19-től” című táblázat 9. sorában meghatározott, „B” kategóriába sorolt gépjármű vezetésére jogosító okmány;
+
+4\. *„C” kategóriába sorolt járművek vezetésére jogosító engedély:* a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 2. mellékletében foglalt, „Nemzetközi kategóriák a 2006/126/EK irányelvnek megfelelően 2013. január 19-től” című táblázat 13. sorában meghatározott, „C” kategóriába sorolt gépjármű vezetésére jogosító okmány;
+
+5\. *„CE” kategóriába sorolt járművek vezetésére jogosító engedély:* a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 2. mellékletében foglalt, „Nemzetközi kategóriák a 2006/126/EK irányelvnek megfelelően 2013. január 19-től” című táblázat 14. sorában meghatározott, „CE” kategóriába sorolt gépjármű vezetésére jogosító okmány;
+
+6\. *fenntartó:* a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 5. § s) pontjában meghatározott szervezet;
+
+7\. *jogosult:* a gyermekvédelmi gondoskodásban lévő gyermek, a gyermekvédelmi gondoskodásból nagykorúság miatt kikerült fiatal felnőtt a kikerülést követő 1 éven belül, az utógondozói ellátásban részesülő fiatal felnőtt az utógondozói ellátás fennállásának időtartama alatt, illetve az ellátás megszűnésétől számított 1 éven belül, de legkésőbb 25. életévének betöltéséig, ide nem értve a javítóintézeti nevelésben részesülőket és a javítóintézet utógondozó részlegén ellátottakat.
+
+## 2. §
+
+A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges orvosi alkalmassági vizsgálat tekintetében a közúti közlekedésről szóló törvény (a továbbiakban: Kkt.) szerinti középiskolás járművezetőnek minősül.
+
+## 3. §
+
+(1) A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési alapismereteket és elsősegélynyújtási ismereteket a nemzeti köznevelésről szóló törvény (a továbbiakban: Nkt.) – szakképző intézménnyel fennálló tanulói jogviszony esetén a szakképzésről szóló törvény (a továbbiakban: Szkt.) –, valamint a Kkt. középiskolai tanulóira vonatkozó szabályai szerint szerzi meg.
+
+(2) Ha a jogosult nem áll középiskolával vagy szakképző intézménnyel tanulói jogviszonyban, az Nkt.-ben, az Szkt.-ben, a Kkt.-ben és a Kkt. végrehajtására kiadott rendeletben meghatározott szabályokat a (3)–(7) bekezdésben foglalt kiegészítésekkel kell alkalmazni.
+
+(3) A jogosultat – a fenntartó útján benyújtott kérelmére – a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges (1) bekezdés szerinti ismeretek elsajátítása érdekében a Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF) az Szkt. szerinti tanulmányi rendszerben (a továbbiakban: tanulmányi rendszer) rögzíti, e tevékenysége során az SZGYF-re a szakképző intézményekre, a jogosultra a tanulókra vonatkozó, az Szkt.-ben rögzített szabályokat kell alkalmazni.
+
+(4) A jogosult számára az (1) bekezdés szerinti ismeretek elsajátítását a tanulmányi rendszeren keresztül az SZGYF biztosítja, a jogosultat az (1) bekezdés szerinti ismeretekből az SZGYF vizsgáztatja. Az SZGYF-et e feladata ellátása során szakképző intézménynek, a jogosultat a képzés és vizsga tekintetben az SZGYF tanulójának kell tekinteni, azzal, hogy a képzés lebonyolításában tárgyi és személyi feltétel biztosítására az (5) bekezdés szerinti intézmények bevonhatók, valamint a vizsga lebonyolítása során az SZGYF a (6) bekezdés szerinti középiskolát bevonja.
+
+(5) A jogosult számára személyes felkészülést a jogosult kérésére a Klebelsberg Központ (a továbbiakban: KK) által – az SZGYF-fel történt előzetes egyeztetés alapján – kijelölt középiskola biztosítja. A személyes felkészülést a KK-val erről megállapodott szakképző intézmény is biztosíthatja (a továbbiakban együtt: kijelölt középiskola).
+
+(6) A jogosult a „B” kategóriába sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési alapismeretekből a vizsgát helyileg a kijelölt középiskolában teszi le.
+
+(7) A jogosult a „B” kategóriába” sorolt járművek vezetésére jogosító engedélyhez szükséges közlekedési elsősegélynyújtási ismereteket a tanulmányi rendszerben, a középiskolásokra vonatkozó szabályok szerint tartott gyakorlati képzésen szerzi meg, azzal az eltéréssel, hogy a jogosult a vizsgát a tanulmányi rendszerben, helyileg a kijelölt középiskolában teszi le.
+
+## 4. §
+
+(1) Az állam támogatást (a továbbiakban: támogatás) nyújt az államilag támogatott gépjárművezetői díjakhoz, valamint az államilag támogatott GKI díjakhoz (a továbbiakban együtt: díj).
+
+(2) A támogatás megállapításakor az a jogosult vehető figyelembe, aki a „B”, a „C” és a „CE” kategóriába sorolt járművek vezetésére jogosító vezetői engedély, illetve a GKI igazolvány (a továbbiakban együtt: vezetői engedély) megszerzéséhez szükséges képzés vagy vizsga megkezdésének időpontjában gyermekvédelmi gondoskodásban részesül.
+
+(3) Ha a jogosult a gyermekvédelmi gondoskodásból kikerül, a támogatás megállapításakor a (2) bekezdés szerint megkezdett képzés vagy vizsga akkor vehető figyelembe, ha azt a jogosult a gyermekvédelmi gondoskodásból kikerülést követő egy éven belül elvégzi.
+
+(4) A díj megfizetését a fenntartó előlegezi meg.
+
+(5) A támogatás mértéke a díj ténylegesen megfizetett összege, függetlenül a vezetői engedély megszerzéséhez szükséges vizsga eredményétől.
+
+## 5. §
+
+(1) A támogatás megállapítására irányuló eljárás a fenntartónak a jogosult vezetői engedélye megszerzésével összefüggő díjakra előlegezett összeg megtérítése iránti igényére (a továbbiakban: igény) indul.
+
+(2) Az igény benyújtására az a fenntartó jogosult, aki a jogosult vezetői engedélye megszerzésével összefüggő díjat megelőlegezte.
+
+(3) Az igényt a Magyar Államkincstárnál (a továbbiakban: Kincstár) egy jogosultat érintően, kategóriánként és fenntartónként egy-egy alkalommal lehet benyújtani.
+
+(4) Az igényt, amennyiben a jogosult a vezetői engedélyt megszerezte, a vezetői engedély kiállításának napjától, egyéb esetben a képzés befejezésének vagy a sikertelen vizsga napjától számított egy éven belül, a 6. § szerinti elektronikus űrlapon lehet benyújtani.
+
+(5) Ha a díj megelőlegezését követően fenntartóváltás következett be, vagy ha a jogosult a gyermekvédelmi gondoskodásból kikerült, a jogosult a (4) bekezdésben foglaltakról értesíti a megelőlegező fenntartót.
+
+(6) A (4) bekezdésben meghatározott határidő jogvesztő.
+
+(7) A támogatás megállapítására irányuló közigazgatási hatósági ügyben a Kincstár országos illetékességgel jár el.
+
+## 6. §
+
+(1) A Kincstár a gyermekek és az ifjúság védeleméért felelős miniszter által – az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszterrel egyetértésben – rendszeresített, a jogosult vezetői engedélye megszerzésével összefüggő díjakra előlegezett összeg megtérítése iránti igény benyújtására szolgáló elektronikus űrlapot a kormányzati portálon közzéteszi.
+
+(2) Az elektronikus űrlap tartalmazza
+
+a) a jogosult
+
+aa) természetes személyazonosító adatait,
+
+ab) lakóhelyét, ennek hiányában a tartózkodási helyét és elérhetőségét,
+
+ac) nevelésbe vételéről vagy utógondozói ellátásának elrendeléséről szóló hatósági döntés számát és keltét;
+
+b) az igényt benyújtó fenntartó
+
+ba) nevét,
+
+bb) székhelyét,
+
+bc) adószámát,
+
+bd) belföldi pénzforgalmi szolgáltatónál vezetett pénzforgalmi vagy fizetési számlájának számlaszámát;
+
+c) az egyes képzések kezdő és befejező időpontját, díját, illetve az ahhoz kapcsolódó vizsgák időpontját és díját;
+
+d) a vezetői engedély kiállításának időpontját és díját;
+
+e) a gyermekvédelmi gondoskodás fennállására vonatkozó adatot, a gyermekvédelmi gondoskodásból nagykorúság miatt történt kikerülés időpontját, illetve az utógondozói ellátás fennállását, ennek hiányában az utógondozói ellátás megszűnésének időpontját;
+
+f) a kiállított számlák sorszámát.
+
+## 7. §
+
+(1) A díjat megelőlegező fenntartónak a jogosult nevére kiállított számlával kell hitelt érdemlő módon igazolnia a díj megfizetését és összegét.
+
+(2) Az (1) bekezdés szerinti számla a jogosult születési dátumát, valamint a fenntartó nevét is tartalmazza.
+
+(3) A támogatás megállapítására irányuló eljárásban a jogosultsági feltételek tekintetében a fenntartó vagy a jogosult nyilatkozatával a hiányzó bizonyíték nem pótolható.
+
+## 8. §
+
+(1) A támogatás megállapítására irányuló eljárás határideje teljes eljárásban 20 nap.
+
+(2) A támogatás megállapítására irányuló eljárás költségmentes.
+
+(3) A támogatás jogalap nélkül történt kiutalása esetén a Kincstár határozattal állapítja meg a visszafizetési kötelezettséget.
+
+## 9. §
+
+(1) A támogatás megállapítására irányuló eljárásban a Kincstár megkeresheti a Közlekedési és Alkalmassági Vizsgaközpont Nonprofit Kft.-t (a továbbiakban: KAV Kft.) annak igazolása céljából, hogy a támogatásra jogosult részt vett a vezetői engedély megszerzéséhez szükséges vizsgán.
+
+(2) A KAV Kft. a Kincstár megkeresésétől számított 5 munkanapon belül közli a jogosult vonatkozásában a sikeres vagy sikertelen vizsga tényét és a vizsga napját.
+
+(3) Az (1) és (2) bekezdés szerinti adatok átadásának rendjét a KAV Kft. a Kincstárral kötött együttműködési megállapodásban határozza meg.
+
+## 10. §
+
+(1) A támogatást a Kincstár a megállapító határozat kiadását követő 13 napon belül az igényben megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára utalással folyósítja.
+
+(2) A támogatások fedezetéül szolgáló előirányzat kezelő szerve a Kincstár.
+
+(3) A támogatások fedezetét és a kezelésével összefüggő működési költségeket a gyermekek és az ifjúság védeleméért felelős miniszter felügyelete alá tartozó költségvetési fejezetből kell biztosítani.
+
+## 11. §
+
+Ez a rendelet 2026. március 1-jén lép hatályba.
+
+## 12. §[^1]
+
+A támogatás megállapítására irányuló igényét a megelőlegező fenntartó 2027. január 1-jét követően nyújthatja be a Kincstár részére.
+
+---
+
+[^1]: A 12. § a 138/2026. (VIII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.

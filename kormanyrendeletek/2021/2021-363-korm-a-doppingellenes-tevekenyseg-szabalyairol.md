@@ -1,0 +1,133 @@
+---
+title: "363/2021. (VI. 28.) Korm. rendelet a doppingellenes tevékenység szabályairól"
+identifier: "363/2021. (VI. 28.) Korm. rendelet"
+njt_id: "2021-363-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/363"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-06-28
+in_force_from: 2021-07-08
+last_amended: 2021-07-09
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-363-20-22"
+retrieved: 2026-10-12
+---
+
+# 363/2021. (VI. 28.) Korm. rendelet a doppingellenes tevékenység szabályairól
+
+A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés *b)* pont *ba)* alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *doppingellenes tevékenység:* doppingellenes oktatás és tájékoztatás, vizsgálateloszlási tervezés, nyilvántartott vizsgálati csoport gondozása, a sportoló biológiai útlevelének kezelése, teszt végzése, mintaelemzés szervezése, információgyűjtés és vizsgálat lefolytatása, gyógyászati célú mentességre (a továbbiakban: TUE) vonatkozó kérvény feldolgozása, eredménykezelés, doppingeljárás lefolytatása, a kiszabott következmények betartásának figyelemmel kísérése és a következmények betartatása, valamint doppingellenes szervezet által vagy annak nevében végzett minden egyéb doppingellenes tevékenység a Nemzetközi Doppingellenes Ügynökség (a továbbiakban: WADA) Nemzetközi Doppingellenes Szabályzatának (a továbbiakban: WADA Szabályzat) és a nemzetközi követelményeknek megfelelően,
+
+2\. *doppingellenes szervezet:* a WADA és a WADA Szabályzatot aláíróként elismerő szervezet, amely a doppingellenőrzési folyamat bármely részének kezdeményezésére, végrehajtására vagy végrehajtatására vonatkozó szabályok elfogadásáért felelős, így különösen a Nemzetközi Olimpiai Bizottság, a Nemzetközi Paralimpiai Bizottság, a nemzetközi sportági szakszövetségek, a nemzeti doppingellenes szervezetek nemzetközi szövetségei és azon nemzetközi vagy jelentős sportrendezvények szervezői, amelyek doppingellenőrzést végeznek a sportrendezvényen,
+
+3\. *doppingellenőrzés:* a vizsgálateloszlási tervezéstől a fellebbezésre vonatkozó jogerős döntésig és a következmények érvényesítéséig terjedő valamennyi lépés és folyamat, ideértve különösen a teszteket, információgyűjtést, a sportolók tartózkodási helyére vonatkozó információkat, a TUE-eljárást, a mintavételt, a minták kezelését és laboratóriumi elemzését, az eredménykezelést, a doppingeljárást, a fellebbezést, az egyénekkel szemben alkalmazott következmények megsértésével kapcsolatos információgyűjtést és eljárást,
+
+4\. *egyéb közreműködő:* a WADA Szabályzat hatálya alá tartózó, a nemzeti doppingellenes tevékenységben részt vevő szervezettel jogviszonyban álló – ideértve az ellenérték nélkül végzett tevékenységet is – olyan természetes vagy jogi személy, aki nem minősül versenyzőnek vagy sportszakembernek, valamint nem vesz részt mintavételen vagy doppingellenőrzésen, ezért a kizárólag versenyző, illetve sportszakember által megvalósítható doppingvétség miatt nem vonható felelősségre,
+
+5\. *nemzeti doppingellenes tevékenységben részt vevő szervezet:* az országos sportági szakszövetség, az országos sportági szövetség, a fogyatékosok országos sportszövetségei (a továbbiakban együtt: szövetség), a Magyar Olimpiai Bizottság, a Magyar Paralimpiai Bizottság és a Nemzeti Versenysport Szövetség (a továbbiakban együtt: sportköztestület), a versenyszerű sportban részt vevő sportszervezetek, a hazai nemzeti doppingellenes szervezet (a továbbiakban: HUNADO), valamint a sportpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium,
+
+6\. *nemzetközi doppingellenes program:* a WADA által elfogadott, a nemzeti és nemzetközi doppingellenes programok megfelelő harmonizációját biztosító nemzetközi előírások, ideértve különösen a WADA Szabályzatot, a nemzetközi követelményeket, technikai dokumentumokat,
+
+7\. *nemzetközi követelmény:* a WADA által elfogadott, a doppingellenes tevékenység egyes részeiért felelős doppingellenes szervezetek egységes szabályok szerinti eljárását és az eljárások harmonizációját biztosító nemzetközi előírások,
+
+8\. *nemzetközi sportesemény:* a WADA Szabályzat szerinti olyan sportesemény vagy verseny, amelynek szervezője a Nemzetközi Olimpiai Bizottság, a Nemzetközi Paralimpiai Bizottság, valamely nemzetközi sportági szakszövetség, jelentős sportesemény szervezője vagy más nemzetközi sportszervezet, vagy ahol a sportesemény során közreműködő mérkőzésvezetői testületet ezen szervezetek jelölik ki,
+
+9\. *nyilvántartott vizsgálati csoport:* a sportág nemzetközi szövetségének vonatkozó rendelkezéseivel és a további nemzetközi követelményekkel összhangban, nemzeti szinten a szövetség adatszolgáltatása alapján a HUNADO, nemzetközi szinten a nemzetközi sportági szakszövetség által összeállított versenyzői csoport, amely tekintetében a versenyrendszerben szervezett versenyen és versenyen kívüli időszakban végzett doppingellenőrzéseket alkalmazni kell a vizsgálateloszlási tervben foglaltak szerint,
+
+10\. *technikai dokumentum:* a WADA által elfogadott és közzétett olyan dokumentum, amely a nemzetközi követelményekben foglalt doppingellenes tevékenységre vonatkozó kötelező technikai követelményeket tartalmazza,
+
+11\. *tiltólista:* a sportbeli dopping elleni nemzetközi egyezmény 1. melléklete módosításának kihirdetéséről szóló mindenkori kormányrendeletben foglalt, tiltott szereket és módszereket meghatározó jegyzék és annak az UNESCO és a WADA előírásaival összhangban kiegészített és alkalmazandó, a HUNADO által aktualizált és a honlapján közzétett változata,
+
+12\. *versenyzőnek nem minősülő sportoló:* sportszervezettel jogviszonyban álló sportoló, kivéve, aki a doppingvétség elkövetését megelőző 5 évben nemzeti vagy nemzetközi szintű sportoló volt, nemzetközi sporteseményen vett részt, vagy bármely nemzetközi sportági szakszövetség vagy a HUNADO által meghatározott nyilvántartott vizsgálati csoportban vagy a sportoló tartózkodási helyére vonatkozó adatközlésre kötelezett csoportban szerepelt,
+
+13\. *vizsgálat:* a doppingellenőrzési folyamat azon része, amely magába foglalja a versenyző mintavételre történő kijelölését és erről való értesítését, a mintavételt és -kezelést, a minták laboratóriumba történő szállítását és analízisét.
+
+## 2. §
+
+(1) A HUNADO közhasznú szervezetnek minősülő nonprofit gazdasági társaság, amely doppingellenes tevékenysége során e rendelet, más jogszabályok és a nemzetközi doppingellenes program nemzeti doppingellenes szervezetekre vonatkozó rendelkezéseinek megfelelően – a miniszterrel kötött közhasznú megállapodás alapján – részt vesz a doppingellenes tevékenységben.
+
+(2) A HUNADO a doppingellenes tevékenység ellátása során nem utasítható, feladatai ellátása során függetlenül jár el.
+
+(3) Doppingellenes tevékenységének ellátásával a HUNADO elősegíti a versenyzők és a versenyzőnek nem minősülő sportolók egészségének védelmét.
+
+(4) A HUNADO-nak a doppingellenes tevékenységével összefüggésben, a doppingellenőrzés során bekövetkező károk megtérítésének fedezésére szolgáló felelősségbiztosítással, ISO nemzetközi tanúsítvánnyal és a WADA akkreditációjával kell rendelkeznie.
+
+(5) A HUNADO a doppingellenes tevékenység részletes szabályairól szóló szabályzatot (a továbbiakban: HUNADO Szabályzat) a nemzetközi doppingellenes programmal összhangban alkotja meg. A HUNADO a WADA Szabályzat és a HUNADO Szabályzat mindenkor aktualizált változatát a honlapján közzéteszi.
+
+(6) A HUNADO a doppingellenőrzés és a doppingellenes tevékenység során a HUNADO Szabályzat és a nemzetközi doppingellenes program alapján jár el.
+
+(7) A HUNADO gondoskodik a tiltólista karbantartásáról, a tiltólistával összefüggő információs-tájékoztató tevékenységet végez, és a mindenkori tiltólistát honlapján közzéteszi.
+
+## 3. §
+
+A miniszter feladat- és hatáskörében ellátja a doppingellenes tevékenységre vonatkozó hazai és nemzetközi rendelkezések betartásához szükséges alábbi feladatokat:
+
+a) közhasznú megállapodást köt a HUNADO feladatait ellátó szervezettel, és figyelemmel kíséri a közhasznú megállapodásban foglaltak szerinti teljesítését,
+
+b) a HUNADO részére a WADA Szabályzatból és a nemzetközi követelményekből eredő feladatok ellátására állami támogatást biztosít,
+
+c) részt vesz a nemzetközi doppingellenes együttműködésben, valamint
+
+d) együttműködik a doppingellenes tevékenységben részt vevő egyéb szervezetekkel.
+
+## 4. §
+
+(1) A sportszervezet, a szövetség és a sportköztestület részt vesz a doppingellenes tevékenységben, ellátja a részére jogszabályban, alapszabályában vagy más szabályzatában, a HUNADO Szabályzatban, a doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi doppingellenes programban meghatározott feladatokat, a HUNADO Szabályzatban meghatározott feladatával összhangban a felvilágosítással, oktatással és neveléssel kapcsolatos feladatokat, valamint együttműködik a doppingellenes tevékenységben részt vevő egyéb szervezetekkel.
+
+(2) A sportszervezet, a szövetség és a sportköztestület feladatait arra figyelemmel látja el, hogy a HUNADO felelős Magyarország nemzeti doppingellenes programjának megvalósításáért, ideértve a doppingellenőrzés végrehajtását, amely a HUNADO kizárólagos hatáskörébe tartozik.
+
+(3) A szövetség érvényesíti a doppingtilalmat e rendelettel, a doppingellenes szervezetek doppingellenes szabályaival, a nemzetközi doppingellenes programmal, a HUNADO Szabályzattal, valamint a HUNADO szakmai ajánlásaival összhangban.
+
+## 5. §
+
+(1) A doppingbizottság az e rendeletben, más jogszabályokban, a HUNADO Szabályzatban és a nemzetközi doppingellenes programban foglaltak szerint felelős az első fokú doppingeljárás lefolytatásáért. A doppingbizottság tagjai a bizottsági tagságra jogosultak köréből kerülnek kijelölésre. A bizottsági tagságra jogosultak körének elnökét a HUNADO vezetője jelöli ki. A bizottsági tagságra jogosultak körének elnöke a bizottsági tagságra jogosultak köréből jelöli ki a doppingbizottság elnökét és tagjait.
+
+(2) A bizottsági tagságra jogosultak köre és a doppingbizottság a HUNADO szervezeti keretei között működik. A bizottsági tagságra jogosultak köre és a doppingbizottság működésével, a doppingeljárás előkészítésével kapcsolatos ügyviteli feladatok ellátását a HUNADO biztosítja, a doppingbizottság működési függetlenségére vonatkozó követelménynek megfelelően.
+
+## 6. §
+
+(1) A doppingbizottság első fokon meghozott határozatával szemben benyújtott fellebbezés eredményeként vagy a WADA Szabályzatban, a nemzetközi követelményekben és a HUNADO Szabályzatban meghatározott egyéb okból induló másodfokú doppingeljárást – a (2) bekezdésben meghatározott kivétellel – a dopping fellebbviteli bizottság folytatja le. A dopping fellebbviteli bizottság a Sport Állandó Választottbíróság szervezeti keretei között működik.
+
+(2) A nemzetközi minősítésű versenyző és a nemzetközi sporteseményen részt vevő versenyző az első fokú doppingeljárás során hozott határozattal szemben a Nemzetközi Sportdöntőbírósághoz (CAS) nyújthat be fellebbezést.
+
+## 7. §
+
+(1) A doppingbizottság és a dopping fellebbviteli bizottság a működési függetlenség elve alapján jár el. A doppingellenőrzésért felelős doppingellenes szervezetnek vagy tagszervezeteinek azon munkavállalója, bizottsági tagja, tanácsadója vagy vezető tisztségviselője, aki a vizsgálatban és doppingeljárást lezáró érdemi döntés meghozatalát megelőzően az eljárásban részt vett, nem nevezhető ki a doppingeljárást lefolytató bizottság tagjai vagy munkatársai közé. A doppingeljárást lefolytató bizottság a meghallgatást és a döntéshozatalt önállóan, a HUNADO vagy harmadik fél külső befolyása nélkül végzi. A doppingeljárást lefolytató bizottság tagjai és a doppingeljárást lefolytató bizottság döntéshozatalában más módon részt vevő személy nem szerepelhet az ügy kivizsgálásában, felülvizsgálatában és az ügy további menetére vonatkozó döntések meghozatalában.
+
+(2) A dopping fellebbviteli bizottság az (1) bekezdésben foglaltakon túl az intézményi függetlenség elve alapján szervezetileg teljesen független a HUNADO-tól. Ennek megfelelően a HUNADO semmilyen befolyással nem lehet a dopping fellebbviteli bizottság irányítására, és azzal semmiféle kapcsolatban vagy alárendeltségi viszonyban nem állhat.
+
+(3) A doppingbizottság és a dopping fellebbviteli bizottság minden eljárás alá vont személy tekintetében tisztességes és pártatlan módon, észszerű határidőn belül jár el a nemzetközi doppingellenes programnak és a HUNADO Szabályzatnak megfelelően.
+
+## 8. §
+
+(1) A doppingbizottság elnöke és tagjai díjazásának részletes szabályairól a HUNADO rendelkezik.
+
+(2) A doppingbizottság elnökének és tagjának díjazását, valamint a doppingeljárással összefüggő költségeket az a szövetség viseli, amelynek sportágában az eljárás alá vont versenyző a sporttevékenységét folytatja, vagy az eljárás alá vont sportszakember, illetve egyéb közreműködő a szakmai tevékenységét gyakorolja.
+
+(3) Az a sportszakember és egyéb közreműködő, akire a (2) bekezdésben foglaltak nem alkalmazhatóak, valamint a versenyzőnek nem minősülő sportoló az eljárás költségeit maga viseli.
+
+(4) A másodfokú doppingeljárás részletes szabályairól, a dopping fellebbviteli bizottság tagjának díjazásáról, valamint a másodfokú doppingeljárással összefüggő költségek viseléséről a Sport Állandó Választottbíróság eljárási szabályzata rendelkezik.
+
+## 9. §
+
+Ez a rendelet a kihirdetését követő 10. napon lép hatályba.
+
+## 10. §
+
+(1) E rendeletet a 2021. január 1. napját követően elkövetett doppingvétség tekintetében kell alkalmazni.
+
+(2) A 2021. január 1. napjáig határozattal le nem zárt doppingeljárás során e rendeletet kell alkalmazni, ha az az eljárás alá vont személyre nézve kedvezőbb elbírálást eredményez.
+
+(3) A kiszabott eltiltás időtartama e rendelet alapján csökkenthető a 2021. január 1. napját megelőzően hozott határozat alapján eltiltás hatálya alatt álló személy esetében is. A 2021. január 1. napját megelőzően hozott határozat alapján eltiltás hatálya alatt álló személy az eltiltási időtartam lejártát megelőzően kérelmezheti a doppingeljárást lefolytató bizottságnál a kiszabott eltiltás időtartamának az e rendelet alapján történő csökkentésének mérlegelését.
+
+## 11. §[^1]
+
+---
+
+[^1]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

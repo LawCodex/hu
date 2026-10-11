@@ -1,0 +1,1110 @@
+---
+title: "11/2020. (II. 7.) Korm. rendelet a felnőttképzésről szóló törvény végrehajtásáról"
+identifier: "11/2020. (II. 7.) Korm. rendelet"
+njt_id: "2020-11-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/11"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-02-07
+in_force_from: 2020-02-15
+last_amended: 2026-03-31
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-11-20-22"
+retrieved: 2026-10-12
+---
+
+# 11/2020. (II. 7.) Korm. rendelet a felnőttképzésről szóló törvény végrehajtásáról
+
+A Kormány a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (1) bekezdés a) pontjában és (2) bekezdésében,
+
+a 37. § (3) bekezdése tekintetében a szakképzésről szóló 2019. évi LXXX. törvény 123. § (1) bekezdés 1. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet[^1] — A FELNŐTTKÉPZÉSI TEVÉKENYSÉG BEJELENTÉSE, ENGEDÉLYEZÉSE ÉS A FELNŐTTKÉPZŐK NYILVÁNTARTÁSA
+
+### 1. Az Fktv. 2/B. §-ához
+
+#### 1. §
+
+(1)[^2] A felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) 2/B. § (1) bekezdés b) pontja szerinti vagyoni biztosítékkal az engedély alapján végzett felnőttképzési tevékenység teljes időtartamára és a felnőttképzési tevékenység megszűnését követő hat hónapig kell rendelkezni az előlegként befizetett képzési díj azon részének a visszafizetése céljából, amelyre a felnőttképzési tevékenység bármely okból történő ellehetetlenülése miatt a felnőttképző már nem nyújtott szolgáltatást. A vagyoni biztosíték felhasználásához és megszüntetéséhez a felnőttképzési államigazgatási szerv jóváhagyása szükséges.
+
+(1a)[^3] A vagyoni biztosítékkal rendelkező felnőttképző a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti átalakulása, egyesülése vagy szétválása esetén, ha a jogutód a felnőttképzési tevékenységet tovább folytatja, a jogelőd felnőttképző vagyoni biztosítéka a jogutódot illeti.
+
+(2) A vagyoni biztosíték formája lehet
+
+a) egy vagy több biztosítóval kötött biztosítási szerződés,
+
+b) a felnőttképző által hitelintézetnél lekötött, az (1) bekezdésben meghatározott célokra elkülönített és zárolt pénzösszeg.
+
+(3) A (2) bekezdésben meghatározott vagyoni biztosítékformák egyenként vagy együttesen is alkalmazhatóak. A biztosítékformák együttes alkalmazása esetén a vagyoni biztosíték szolgáltatására kötött szerződésekben – vagyoni biztosítékformák szerint – rendelkezni kell a fizetési kötelezettség feltételeiről és a helytállás mértékéről.
+
+(4) Vagyoni biztosítékként csak biztosítóval vagy hitelintézettel kötött olyan szerződés vehető figyelembe, amely szerint a vagyoni biztosíték terhére a biztosító vagy a hitelintézet pénzügyi fedezetet nyújt a felnőttképzési szerződés alapján befizetett képzési díj 10. § (6) bekezdése szerinti visszafizetésére.
+
+(5) A (4) bekezdés szerinti szerződésnek tartalmaznia kell azt a kikötést, hogy
+
+a) a vagyoni biztosíték felhasználásához vagy megszüntetéséhez a felnőttképzési államigazgatási szerv jóváhagyása szükséges, és a vagyoni biztosíték terhére teljesített kifizetés teljesítési időpontját a biztosító vagy hitelintézet – a kifizetést követő tizenöt napon belül – írásban közli a felnőttképzési államigazgatási szervvel,
+
+b) ha a felnőttképző
+
+ba) a 10. § (1) bekezdése szerinti bejelentési kötelezettségének nem tesz eleget,
+
+bb) a bejelentéséhez nem mellékeli a 10. § (2) bekezdése szerinti kimutatást vagy
+
+bc) a 10. § (6) bekezdése szerint nem tesz eleget a képzési díjnak a vagyoni biztosíték terhére történő visszafizetésére vonatkozó kötelezettségének,
+
+a felnőttképzési államigazgatási szerv intézkedik a képzési díj vagyoni biztosíték terhére történő visszafizetésének teljesítése érdekében szükséges intézkedések megtétele iránt, a biztosítóval vagy a hitelintézettel együttműködve.
+
+#### 2. §
+
+(1)[^4] A vagyoni biztosíték mértéke az üzleti év időszakára vonatkozóan a felnőttképző üzleti évét megelőző évnek az engedély alapján végzett felnőttképzési tevékenységből származó, a számvitelről szóló törvény szerint elszámolt, tényleges értékesítési nettó árbevétele (a továbbiakban: árbevétel) kettő százaléka, de legalább egymillió forint.
+
+(2) A felnőttképző köteles minden üzleti év fordulónapját követő hatodik hónap tizenötödik napjáig a megelőző évi árbevétel összegét a felnőttképzési államigazgatási szerv részére bejelenteni, és igazolni azt, hogy rendelkezik az (1) bekezdésben meghatározott mértékű vagyoni biztosítékkal, továbbá köteles az 1. § (4) bekezdése szerinti szerződést érintő bármilyen változást – a módosított vagy az új szerződés másolatának a szerződés megkötésétől számított harminc napon belül történő megküldésével – a felnőttképzési államigazgatási szervnek bejelenteni.
+
+(3) A felnőttképző a vagyoni biztosíték összegét – a (2) bekezdésben meghatározott időpontig, az (1) bekezdés szerint – módosítja, ha a vagyoni biztosíték mértéke nem felel meg az (1) bekezdésben meghatározott mértéknek.
+
+### 2. Az Fktv. 3. §-ához
+
+#### 3. §
+
+(1)[^5] A bejelentésnek tartalmaznia kell
+
+a) a felnőttképző
+
+aa) szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. tv.) 22. § (1) bekezdés a) és b) pontjában meghatározott adatait, valamint – annak megléte esetén – a felnőttképző felnőttképzési tevékenységével közvetlenül érintett telephelyének címét,
+
+ab) levelezési címét, telefonszámát és elektronikus levelezési címét,
+
+ac)[^6] képviseletére jogosult személy családi és utónevét, születési helyét és idejét, anyja nevét, a képviseleti joga kezdetének időpontját,
+
+ad) cégjegyzékét vagy nyilvántartását vezető bíróság, hatóság vagy szerv megnevezését, cégjegyzékszámát vagy nyilvántartásba vételi számát, egyéni vállalkozó esetén nyilvántartásba vételi számát és
+
+ae) adószámát, oktatási intézmény esetén OM azonosítóját, illetve intézményi azonosító számát,
+
+b) a Szolg. tv. 22. § (1) bekezdés c) pontjában meghatározottak tekintetében a felnőttképzési tevékenység folytatására irányuló szándék konkrét megjelölését,
+
+c) a felnőttképzési tevékenységhez kapcsolódó szolgáltatás megnevezését, valamint annak megjelölését, ha a felnőttképző csak az Fktv. 3. § (2) bekezdése szerinti ingyenes belső képzést szervez.
+
+(1a)[^7]
+
+(2) Az engedély megadása iránti kérelemnek tartalmaznia kell
+
+a) a felnőttképző
+
+aa)[^8] Szolg. tv. 22. § (1) bekezdés a) és b) pontjában meghatározott adatait, valamint – annak megléte esetén – a felnőttképző felnőttképzési tevékenységével közvetlenül érintett telephelyének címét,
+
+ab)[^9] levelezési címét, telefonszámát és elektronikus levelezési címét,
+
+ac)[^10] képviseletére jogosult személy családi és utónevét, születési helyét és idejét, anyja nevét, a képviseleti joga kezdetének időpontját,
+
+ad) cégjegyzékét vagy nyilvántartását vezető bíróság, hatóság vagy szerv megnevezését, cégjegyzékszámát vagy nyilvántartásba vételi számát, egyéni vállalkozó esetén az egyéni vállalkozó nyilvántartását vezető hatóság megnevezését és a nyilvántartásba vétel számát és
+
+ae)[^11] adószámát, oktatási intézmény esetén OM azonosítóját, illetve intézményi azonosító számát,
+
+b)[^12] a Szolg. tv. 22. § (1) bekezdés c) pontjában meghatározottak tekintetében a felnőttképzési tevékenység folytatására irányuló szándék konkrét megjelölését,
+
+c) a szakmai vezető
+
+ca)[^13] családi és utónevét, születési helyét és idejét, anyja nevét, állampolgárságát,
+
+cb)[^14] egyetemi vagy főiskolai végzettségét és pedagógiai vagy andragógiai szakképzettségét igazoló okiratának számát és az okiratot kiállító intézmény megnevezését és
+
+d)[^15] a felnőttképzési tevékenységhez kapcsolódó szolgáltatás megnevezését.
+
+(2a)[^16] Az engedély megadása iránti kérelemhez csatolni kell
+
+a)[^17]
+
+b) a szakmai vezető szakmai vezetésre való alkalmasságát igazoló, egyetemi vagy főiskolai végzettségét és pedagógiai vagy andragógiai szakképzettségét bizonyító oklevél másolatát,
+
+c) a vagyoni biztosítékkal való rendelkezést bizonyító, az 1. § (4) bekezdése szerinti szerződést és
+
+d) a felnőttképző nyilatkozatát arról, hogy
+
+da) nem áll fenn vele szemben az engedély megszerzését kizáró ok,
+
+db) rendelkezik az e rendeletben meghatározott minőségirányítási rendszerrel, és
+
+dc) biztosítja az ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételeket.
+
+(3)[^18] A szakképzési centrum részeként működő szakképző intézmény esetén a bejelentést, illetve az engedély megadása iránti kérelmet a szakképzési centrum nyújtja be a felnőttképzési államigazgatási szervhez.
+
+(4)[^19] A bejelentés és az engedélyezési eljárás során az igazgatási szolgáltatási díj megfizetésekor az átutalás közlemény rovatában fel kell tüntetni az eljárási azonosító számot.
+
+### 3. Az Fktv. 4. §-ához
+
+#### 5. §
+
+(1)[^21] Ha a szakértői bizottság az engedélyezési eljárásban szakértőként jár el, a szakértői vizsgálat keretében megvizsgálja a felnőttképzési tevékenység folytatásának feltételeit, továbbá a kérelem és mellékletei valóságtartalmát.
+
+(2) A szakértői bizottság a szakértői vizsgálatot a felnőttképző székhelyén, az engedély megadása iránti kérelemben megjelölt telephelyén és – ha a képzés tervezett helyszíne nem egyezik meg a székhellyel vagy telephellyel – a képzés helyszínén is lefolytathatja. A szakértői vizsgálat időpontjáról a szakértői bizottság vezetője értesíti a felnőttképzőt. A több telephelyen lefolytatásra kerülő szakértői vizsgálat időpontját úgy kell meghatározni, hogy a felnőttképzőt mindegyik telephelyen érdemi nyilatkozat megtételére jogosult személy képviselhesse.
+
+(3) A (2) bekezdés szerinti értesítésben a felnőttképzőt fel kell hívni a szakértői bizottsággal való együttműködésre, valamint az együttműködés hiányának jogkövetkezményeire is, kivéve, ha a felnőttképzési államigazgatási szerv – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 104. § (3) bekezdésének alkalmazása esetén – a hatósági ellenőrzés megindításáról szóló értesítést mellőzi.
+
+(4) A felnőttképző a szakértői bizottság közreműködése esetén köteles
+
+a) a szakértői vizsgálat során nyilatkozattételre jogosult személy jelenlétét biztosítani, továbbá
+
+b) közreműködni a szakértői vizsgálatban, amely során a szakértői bizottság számára biztosítja különösen
+
+ba) az érintett területre, építménybe történő belépést,
+
+bb) adat, irat, tárgy, munkafolyamat megvizsgálását és információk átadását.
+
+(5) A szakértői bizottság munkájáról annak vezetője – a szakértői bizottság valamennyi tagja által aláírt – szakértői véleményt készít, amelyet megküld a felnőttképzési államigazgatási szerv részére.
+
+(6) A szakértői bizottság vezetőjeként vagy tagjaként eljáró felnőttképzési szakértő díjazására az igazságügyi szakértők díjazására vonatkozó szabályokat kell alkalmazni.
+
+#### 6. §
+
+(1) A szakértői bizottság véleményének beszerzését követően a felnőttképzési államigazgatási szerv megvizsgálja, hogy az engedély megadása iránti kérelem és az abban meghatározott felnőttképzési tevékenység megfelel-e a jogszabályban meghatározott feltételeknek.
+
+(2)[^22]
+
+(3) A kérelmet el kell utasítani, ha a felnőttképző
+
+a) nem felel meg a jogszabályban meghatározott feltételeknek,
+
+b) felnőttképzési tevékenységet engedély nélkül végez,
+
+c)[^23] engedélye visszavonásra került,
+
+d)[^24] a felnőttképzési tevékenység folytatásától eltiltás hatálya alatt áll vagy
+
+e)[^25] számára a felnőttképzési államigazgatási szerv a felnőttképzési tevékenység folytatását az Fktv. 20. § (3) bekezdés b) pont ba) alpontja alapján megtiltotta.
+
+### 4. Az Fktv. 5. §-ához
+
+#### 7. §[^26]
+
+(1) A felnőttképzők nyilvántartása – az Fktv.-ben meghatározott adatok mellett – tartalmazza
+
+a) – annak megléte esetén – a felnőttképző felnőttképzési tevékenységgel közvetlenül érintett telephelyének címét, továbbá a felnőttképző levelezési címét, telefonszámát és elektronikus levelezési címét,
+
+b)[^27] a felnőttképző adószámát, cégjegyzékszámát vagy nyilvántartásba vételi számát, oktatási intézmény esetében az OM azonosítóját, illetve intézményi azonosító számát is,
+
+c)[^28] a felnőttképzési tevékenységhez kapcsolódó szolgáltatás megnevezését, valamint annak megjelölését, ha a felnőttképző csak az Fktv. 3. § (2) bekezdése szerinti ingyenes belső képzést szervez,
+
+d) a felnőttképzőnek a felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi számát és a nyilvántartásba vétel időpontját,
+
+e) a felnőttképző adataiban bekövetkezett változást, a változás időpontjának megjelölésével,
+
+f) a felnőttképző nyilvántartásból való törlésének időpontját és okát.
+
+(2) A felnőttképzési államigazgatási szerv a bejelentés, illetve az engedély megadásáról szóló határozat alapján a Szolg. tv.-ben meghatározott határidőn belül a felnőttképzőt felveszi a felnőttképzők nyilvántartásába.
+
+(3) A felnőttképzők nyilvántartását úgy kell vezetni, hogy
+
+a) abban a felnőttképző külön nyilvántartásba vételi számon szerepeljen, ha a felnőttképzési tevékenységet bejelentés és engedély alapján folytatja, és
+
+b) az tartalmazza a nyilvántartott adatokban – az adatok bejegyzési időpontjától kezdődően – bekövetkezett összes változást és azok időpontját.
+
+(4) A felnőttképzők nyilvántartása – a Szolg. tv. 26. § (2a) bekezdésében és 27. § (3) bekezdésében meghatározott adatok mellett – az (1) bekezdés d)–f) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+#### 8. §[^29]
+
+A felnőttképző a felnőttképzők nyilvántartásában szereplő adataiban bekövetkezett változást – a változásnak a hatáskörrel és illetékességgel rendelkező szerv által történő átvezetésének napjától számított – nyolc napon belül köteles bejelenteni a felnőttképzési államigazgatási szervnek.
+
+#### 9. §[^30]
+
+(1)[^31] A felnőttképzési államigazgatási szerv a felnőttképzők nyilvántartásából törli a felnőttképzőt, ha
+
+a) a felnőttképző jogutód nélkül megszűnt, az egyéni vállalkozó, illetve a gazdasági tevékenységet folytató más természetes személy meghalt,
+
+b) a felnőttképző a felnőttképzési tevékenység megszüntetését bejelentette, vagy
+
+c) bejelentéshez kötött felnőttképzési tevékenység esetén a Szolg. tv. 28. § a) pontjában, engedélyhez kötött felnőttképzési tevékenység esetén a Szolg. tv. 26. § (3) bekezdésében meghatározott eset bekövetkezett.
+
+(2) A 7. § (3) bekezdés a) pontja szerinti esetben a felnőttképzőt a felnőttképzők nyilvántartásából csak annak a nyilvántartásba vételi számát érintően lehet törölni, amelyik tekintetében a törlés jogszabályban meghatározott feltételei bekövetkeznek.
+
+(3)[^32] Ha jogszabály a képzés megszervezését bejelentéshez vagy engedélyhez köti, a felnőttképzési államigazgatási szerv a felnőttképzőnek a felnőttképzők nyilvántartásából való törlését elrendelő, véglegessé vált határozat megküldésével tájékoztatja a bejelentés, illetve az engedély tekintetében hatáskörrel rendelkező szervet arról, hogy a felnőttképző felnőttképzési tevékenység folytatására a továbbiakban nem jogosult.
+
+#### 10. §
+
+(1) A felnőttképző felnőttképzési tevékenységének megszüntetését a felnőttképzési államigazgatási szerv részére haladéktalanul bejelenti.
+
+(2) Ha a felnőttképző vagyoni biztosíték nyújtására köteles, az (1) bekezdés szerinti bejelentéséhez mellékeli a folyamatban lévő, előleg-befizetéssel rendelkező képzéseiről szóló kimutatást, amely tartalmazza
+
+a) a képzés megnevezését,
+
+b) a képzésben részt vevők névsorát és a felnőttképzési szerződésben szereplő adataikat, az előlegként befizetett képzési díj befizetőjének (a továbbiakban: befizető) megnevezését és lakcímét vagy székhelyét, ha az eltér a képzésben részt vevő személytől, valamint a befizetett képzési díj számlamásolattal igazolt nagyságát,
+
+c) a befizető számára visszafizetésre javasolt összeg – (3) bekezdés alapján számított – nagyságát és a hitelintézet vagy a biztosító által kiadott igazolást a vagyoni biztosíték mértékéről és
+
+d) a képzésben részt vevő személyekkel megkötött felnőttképzési szerződések másolatait.
+
+(3)[^33] A bejelentésben a visszafizetésre kerülő összeget úgy kell meghatározni, hogy az előlegként befizetett képzési díjnak az elmaradt képzési részre eső időarányos összegét növelni kell ezen összegnek a jegybanki alapkamattal – a képzés elmaradt részére – számított kamatösszegével.
+
+(4) A felnőttképzési államigazgatási szerv a bejelentés vizsgálata során ellenőrzi, hogy a bejelentés megfelel-e a (2) és (3) bekezdésnek. Ha a felnőttképzési államigazgatási szerv a vizsgálat során
+
+a) megállapítja a (2) és (3) bekezdés szerinti feltételek fennállását, jóváhagyja a vagyoni biztosítéknak a bejelentésben foglaltak szerinti felhasználását, vagy
+
+b) a felnőttképzőt felhívja a bejelentésnek a (2) és (3) bekezdésnek megfelelő kiegészítésére vagy módosítására, amelynek teljesítését követően jóváhagyja a vagyoni biztosítéknak a bejelentésben foglaltak szerinti felhasználását.
+
+(5)[^34]
+
+(6) A felnőttképző – az 1. § (4) bekezdése szerinti szerződés szerint – a felnőttképzési államigazgatási szervnek a vagyoni biztosíték felhasználására vonatkozó jóváhagyása alapján intézkedik a képzési díj bejelentés alapján jóváhagyott összegének a vagyoni biztosíték terhére történő visszafizetéséről.
+
+#### 11. §
+
+(1) A felnőttképző engedélyének visszavonása esetén az engedély visszavonásáról szóló határozat tartalmazza a 10. § (2) bekezdése szerinti kimutatás nyolc napon belül történő benyújtására vonatkozó felhívást. A felnőttképzési államigazgatási szerv a vagyoni biztosíték felhasználására vonatkozóan a 10. § (4) és (5) bekezdése szerint jár el.
+
+(2) Ha a felnőttképzési államigazgatási szerv a felnőttképzőt a felnőttképzők nyilvántartásából törli, és a felnőttképző a vagyoni biztosítékkal kapcsolatos minden kötelezettségét – az 1. § (5) bekezdés a) pontja szerinti értesítés alapján – teljesítette, a felnőttképzési államigazgatási szerv jóváhagyja a vagyoni biztosíték megszüntetését.
+
+(3) Ha a felnőttképző
+
+a) nem tesz eleget a 10. § (1) bekezdése szerinti bejelentési kötelezettségének,
+
+b) a bejelentéséhez nem mellékeli a 10. § (2) bekezdése szerinti kimutatást, vagy
+
+c) a 10. § (6) bekezdése szerint nem tesz eleget a képzési díjnak a vagyoni biztosíték terhére történő visszafizetésére vonatkozó kötelezettségének,
+
+a felnőttképzési államigazgatási szerv – a képzésben részt vevő személy által a felnőttképzési államigazgatási szervhez benyújtott kérelem alapján – intézkedik a képzési díj vagyoni biztosíték terhére történő visszafizetésének teljesítése érdekében.
+
+(4) A képzésben részt vevő személy (3) bekezdés szerinti kérelme tartalmazza
+
+a) a képzés megnevezését,
+
+b) a képzésben részt vevő személy családi és utónevét és a felnőttképzési szerződésben szereplő adatait, az előlegként befizetett képzési díj befizetőjének megnevezését és lakcímét vagy székhelyét, ha az eltér a képzésben részt vevő személyétől, valamint a befizetett összeg számlamásolattal igazolt nagyságát,
+
+c) a befizető számára kért összeg nagyságának megjelölését és
+
+d) a képzésben részt vevő személlyel megkötött felnőttképzési szerződés másolatát.
+
+## II. Fejezet — A FELNŐTTKÉPZÉSI SZAKÉRTŐI RENDSZER
+
+### 5. Az Fktv. 6. §-ához
+
+#### 12. §
+
+(1) Felnőttképzési szakértői tevékenység folytatására – az Fktv.-ben meghatározott feltételeken túl – az jogosult, aki rendelkezik
+
+a) felsőfokú végzettséggel,
+
+b) a következő szakképzettségek valamelyikével:
+
+ba) a szakmajegyzékben meghatározott ágazathoz igazodó szakirányú szakképzettséggel,
+
+bb) jogász vagy felsőoktatásban közigazgatási, rendészeti vagy katonai képzési terület közigazgatási képzési ágában szerzett szakképzettséggel,
+
+bc) pedagógiai jellegű – így különösen szociálpedagógus, pedagógia szakos előadó, pedagógia szakos tanár, nevelőtanár, pedagógia alapszakos bölcsész, neveléstudomány szakos bölcsész, pszichológus, viselkedéselemző – vagy andragógiai – így különösen andragógus, emberi erőforrás tanácsadó, művelődésszervező, személyügyi szervező, humán szervező, közművelődési szakember – szakképzettséggel vagy
+
+bd) nyelvi képzés esetén az adott nyelvből szerzett nyelvtanári végzettséggel vagy – ha az adott nyelvből nincs felsőfokú végzettségi szintű nyelvtanári vagy nyelv- és irodalomtanári képzés – az adott nyelvből az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról és a külföldön kiállított, idegennyelv-tudást igazoló nyelvvizsga-bizonyítványok Magyarországon történő honosításáról szóló 137/2008. (V. 16.) Korm. rendelet 2. számú mellékletében meghatározott Közös Európai Referenciakeret szerinti C1 szintű, okirattal igazolt nyelvismerettel és
+
+c)[^35] oktatási, oktatásszervezési vagy -irányítási, minőségirányítási, programkészítési, lektorálási, mérési-értékelési vagy felnőttképzési szakértőként szerzett legalább ötéves szakmai gyakorlattal.
+
+(2) E rendelet alkalmazásában szakmai gyakorlatnak minősül a munkavégzésre irányuló bármely jogviszony keretében vagy egyéni vállalkozóként folytatott tevékenység.
+
+#### 13. §
+
+(1) A bejelentést a felnőttképzési államigazgatási szervhez kell benyújtani.
+
+(2) A bejelentés tartalmazza a kérelmező
+
+a) természetes személyazonosító adatait,
+
+b) közzétenni kívánt elérhetőségét és a felnőttképzési szakértő tevékenységével összefüggő egyéb adatát, ha hozzájárult annak közzétételéhez,
+
+c) végzettségét és szakképzettségét az oktatási intézmény és a végzettséget és szakképzettséget igazoló dokumentum számának és keltének megjelölésével.
+
+(3) A bejelentéshez csatolni kell
+
+a) a végzettséget és szakképzettséget igazoló okirat másolatát, honosított okirat esetében a magyar nyelvű fordítás másolatát,
+
+b) a szakmai gyakorlat igazolásáról szóló okirat másolatát, amely tartalmazza
+
+ba) az igazolást kérő (2) bekezdés a) pontja szerinti adatait,
+
+bb) az igazolást kérő által betöltött munkakör vagy végzett tevékenység megnevezését,
+
+bc) a 12. § (2) bekezdése szerinti jogviszony megnevezését és a jogviszonyban töltött időtartamot és
+
+bd) a szakmai gyakorlat teljesítését igazoló szerv vagy személy megnevezését, címét és aláírását,
+
+c)[^36]
+
+d)[^37] az általános tételű eljárási illeték megfizetését igazoló bizonylat másolatát.
+
+(4) Ha a bejelentéshez a szakmai gyakorlat igazolása a munkáltató, foglalkoztató vagy a szakmai gyakorlat teljesítését igazoló más szerv jogutód nélküli megszűnése vagy egyéb ok miatt nem csatolható, a szakmai gyakorlat a kérelmező (3) bekezdés b) pont bb) és bc) alpontja szerinti adatait tartalmazó munkaszerződés vagy a munkavégzés igazolására alkalmas más dokumentum benyújtásával is igazolható.
+
+### 6. Az Fktv. 7. §-ához
+
+#### 14. §
+
+(1)[^38] A felnőttképzési szakértők közhiteles nyilvántartása – az Fktv.-ben és a Szolg. tv.-ben foglaltakon túl – tartalmazza a felnőttképzési szakértő
+
+a)[^39]
+
+b) továbbképzése teljesítésének tényét a teljesítést igazoló tanúsítvány számának és a teljesítés időpontjának feltüntetésével vagy a továbbképzés teljesítésének hiányát,
+
+c)[^40] tevékenysége szünetelésének tényét és annak kezdő és befejező időpontját.
+
+(1a)[^41] A felnőttképzési szakértők közhiteles nyilvántartásában a felnőttképzési szakértő szakterületét a képzési területek egységes osztályozási rendszere szerint kell nyilvántartani.
+
+(2)[^42] A felnőttképzési szakértő a felnőttképzési szakértők közhiteles nyilvántartásában szereplő adataiban bekövetkezett változást, valamint a tevékenysége végzéséhez az Fktv.-ben és az e rendeletben meghatározott feltételek hiányát az adatváltozás keletkezésétől számított nyolc napon belül köteles bejelenteni a felnőttképzési államigazgatási szervnek.
+
+### 7. Az Fktv. 8. §-ához
+
+#### 15. §
+
+(1)[^43] A felnőttképzési szakértő a felnőttképzési szakértők nyilvántartásába történő felvétel alapjául szolgáló szakértői alapképzés teljesítésétől számítva három évenként köteles továbbképzésen részt venni, és eredményes vizsgát tenni.
+
+(2) A továbbképzést és vizsgát a felnőttképzési államigazgatási szerv szervezi. A továbbképzés és vizsgáztatás felügyeletét a felnőttképzésért felelős miniszter látja el.
+
+(2a)[^44] A felnőttképzési államigazgatási szerv évente két képzési időszakot szervez. Az éves képzési időszakban szervezi meg a felnőttképzési szakértők alap- és továbbképzését (a továbbiakban együtt: továbbképzés) és vizsgáit. Az egyes képzési időszakok időtartama legalább két hónap, ide nem értve a pótvizsgák letételére rendelkezésre álló időszakot.
+
+(3)[^45] A felnőttképzési szakértő továbbképzéséhez szükséges, legalább húsz óra időtartamú továbbképzési programot a felnőttképzési államigazgatási szerv állítja össze. A továbbképzési programot úgy kell összeállítani, hogy az tartalmazzon legalább hét legfeljebb tíz óra időtartamú komplex felnőttképzési szakértői gyakorlatot. A továbbképzés és a vizsga távoktatási formában is megvalósítható.
+
+(4)[^46] A vizsga tematikáját, időpontját és a vizsgaszabályzatot a felnőttképzési államigazgatási szerv állapítja meg. A felnőttképzési államigazgatási szerv a vizsga tematikáját és a vizsgaszabályzatot a továbbképzési időszak kezdete előtt legalább harminc nappal, a vizsga időpontját a vizsgát megelőzően legalább harminc nappal a honlapján közzéteszi.
+
+(5) A továbbképzést csoportos képzési forma esetén egymást követő napokon kell megszervezni, amelynek időtartamába nem számít be a vizsga – legfeljebb egyórás – időtartama.
+
+(6) A vizsgára való jelentkezéshez a (3) bekezdésben meghatározott óraszámú szakértői gyakorlaton való részvétel szükséges. A vizsga eredményes teljesítéséről tanúsítványt kell kiállítani.
+
+(7)[^47]
+
+#### 16. §
+
+(1) A felnőttképzési szakértő tevékenysége szünetel, ha a felnőttképzési szakértő a felnőttképzési államigazgatási szervtől – legfeljebb két év időtartamra – kéri tevékenységének szüneteltetését a kezdőnap és az időtartam megjelölésével.
+
+(2) A szünetelés idejére a szakértő Fktv. 7. § (1) bekezdése szerinti adatainak feltüntetését mellőzni kell a felnőttképzési szakértők nyilvántartásának Fktv. 7. § (3) bekezdése szerinti közzététele során.
+
+(3)[^48] A szünetelés időtartama a felnőttképzési szakértő továbbképzési kötelezettségének időtartamába nem számít bele.
+
+#### 17. §[^49]
+
+A felnőttképzési államigazgatási szerv a felnőttképzési szakértőt törli a felnőttképzési szakértők nyilvántartásából, ha
+
+a) a felnőttképzési szakértő
+
+aa) bejelenti, hogy felnőttképzési szakértői tevékenységét nem kívánja tovább folytatni, vagy
+
+ab) meghalt,
+
+b)[^50] a felnőttképzési államigazgatási szerv a felnőttképzési szakértői tevékenység folytatását az Fktv. 8. § (2) bekezdése alapján megtiltotta.
+
+## III. Fejezet — A FELNŐTTKÉPZÉS TARTALMI KÖVETELMÉNYEI
+
+### 8. Az Fktv. 11. § (2) bekezdés a) pont aa) alpontjához
+
+#### 18. §
+
+(1)[^51] A felnőttképző által szervezett, az Fktv. 2/A. § (2) bekezdés a) pontja szerinti oktatásra, képzésre vonatkozóan kidolgozott képzési program előzetes minősítését olyan felnőttképzési szakértő végezheti, akinek az adott oktatás, képzés a 14. § (1a) bekezdése, valamint a Nemzeti Szakképzési és Felnőttképzési Hivatal (a továbbiakban: Hivatal) honlapján közzétett Útmutató alapján a szakterületébe tartozik.
+
+(2) A felnőttképzési szakértő a képzési program előzetes minősítése során vizsgálja, hogy
+
+a)[^52] a képzési program tartalma megfelel-e az Fktv.-nek és szakmai oktatás vagy szakmai képzés esetén a szakképzésről szóló törvénynek és a szakképzésről szóló törvény végrehajtásáról szóló kormányrendeletnek,
+
+b)[^53] a képzési programban meghatározott tartalommal, feltételekkel és módon, valamint a képzéssel érintett célcsoport számára megszerezhetők-e a képzési programban megjelölt kompetenciák, és
+
+c)[^54] – több oldalból álló képzési program esetén – a képzési program minden oldala folyamatos oldalszámozással van ellátva.
+
+(3) A felnőttképzési szakértő a (2) bekezdés szerinti vizsgálatot követő megállapításait tartalmazó szakértői véleményt írásban közli a felnőttképzővel.
+
+(4) A felnőttképzési szakértőnek – a (3) bekezdés szerinti írásos vélemény alapján – a képzési program előzetes minősítését úgy kell elvégeznie, hogy a képzési program utolsó oldalán fel kell tüntetnie az előzetes minősítés tényét, helyét, időpontját, a felnőttképzési szakértők nyilvántartásában szereplő nyilvántartási számát, elektronikusan megszerkesztett képzési program esetében legalább fokozott biztonságú elektronikus aláírással, papíralapú képzési program esetében a képzési program mindegyik oldalát a szignójával, utolsó oldalát az aláírásával kell ellátnia. A képzési program előzetes minősítését követően a felnőttképzési szakértő a képzési programmal kapcsolatban további – a képzési program előzetes minősítését érintő, azt módosító vagy kiegészítő – megállapításokat nem tehet.
+
+(5)[^55] Az előzetesen minősített képzési programot a felnőttképző képviseletére jogosult személynek – elektronikusan megszerkesztett képzési program esetében minősített elektronikus aláírással, minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, minősített elektronikus bélyegzővel vagy minősített tanúsítványon alapuló fokozott biztonsági elektronikus bélyegzővel, vagy papíralapú képzési program esetében a képzési program utolsó oldalán – alá kell írnia. A felnőttképző az előzetes minősítés alapját képező, (3) bekezdés szerinti szakértői véleményt a képzési programhoz mellékeli.
+
+(6)[^56] A képzési program módosítása esetén a felnőttképzőnek el kell végeztetnie a módosított képzési program előzetes minősítését. Ha a képzési program módosítására kizárólag a programkövetelmény számának módosítása, valamint a programkövetelmény megnevezésének a programkövetelmény nyilvántartásba vételének tartalmi szabályairól szóló 1/2023. (II. 28.) KIM rendelet 1/A. §-a szerint meghatározott angol és német elnevezéssel való kiegészítés miatt kerülne sor, úgy az előzetes minősítést nem szükséges újra elvégezni.
+
+### 9. Az Fktv. 11. § (2) bekezdés a) pont ab) alpontjához
+
+#### 19. §
+
+(1) A felnőttképző a felnőttképzési tevékenységért felelős szakmai vezetőt foglalkoztat.
+
+(2) Szakmai vezető az lehet, aki
+
+a) andragógiai szakképzettséggel rendelkezik,
+
+b) pedagógiai szakképzettséggel és három év felnőttképzési szakmai gyakorlattal rendelkezik, vagy
+
+c) pedagógiai szakképzettséggel rendelkezik, és a felsőoktatási alapképzésben vagy mesterképzésben az adott szak képzési és kimeneti követelményében meghatározott felnőttképzési ismeretekből legalább öt kreditpontot szerzett.
+
+(3) Felnőttképzési szakmai gyakorlatnak minősül a felnőttképzési tevékenységgel összefüggő munkakör ellátására létesített foglalkoztatásra irányuló jogviszonyban eltöltött tevékenység.
+
+(4)[^57] A szakmai vezető a felnőttképzővel munkaviszonyban, honvédelmi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közalkalmazotti jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban, egyházi szolgálati viszonyban vagy gazdasági társasággal tagsági jogviszonyban állhat.
+
+### 10.[^58] Az Fktv. 11/A. §-ához
+
+#### 20. §
+
+(1) A programkövetelmény nyilvántartásba vételéről, a nyilvántartásba vétel módosításáról, valamint a nyilvántartásból történő törlésről a felnőttképzésért felelős miniszter – a szakképzésért felelős miniszter egyetértésével – dönt.
+
+(2) Az eljárásban a felnőttképzésért felelős miniszter a kérelem
+
+a)[^59] szakmai tartalmának módszertani szempontú megfelelése tekintetében az IKK Innovatív Képzéstámogató Központ Nonprofit Zártkörűen Működő Részvénytársaságot és
+
+b) valós gazdasági igénynek megfelelése tekintetében – ha az adott ágazatban ágazati készségtanács működik – az ágazati készségtanácsot
+
+szakértőként vonhatja be.
+
+(3)[^60] A szakértői szakvéleményt az általa foglalkoztatott vagy más módon bevont és az adott ágazatban kiemelkedő elméleti felkészültségű vagy az adott ágazatban legalább tízéves szakmai gyakorlattal rendelkező személyek véleménye alapján kell elkészíteni. Szakmai gyakorlatként olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés. A szakértő a 20/A. § (1b) bekezdése szerinti eljárás kivételével a szakértői szakvélemény elkészítéséért legfeljebb a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének egyhavi összege százötven százaléka szerinti szakértői díjra jogosult.
+
+(4) Az eljárásban a Kormány adott ágazatért felelős tagja véleményét ki kell kérni.
+
+(5) Ha jogszabály valamely munkakör betöltését szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez köti, a felnőttképzésért felelős miniszter a szakképesítés programkövetelményét a szakképesítés ágazatáért felelős miniszter által meghatározott tartalommal veszi nyilvántartásba.
+
+(6) Az (5) bekezdés szerinti nyilvántartásba vételkor a (2) bekezdésben meghatározottakat nem kell alkalmazni.
+
+(7)[^61] Az (1) bekezdés szerinti eljárás során a szakképzési tájékoztatási és információs központ bevonható.
+
+#### 20/A. §[^62]
+
+(1)[^63] A felnőttképzésért felelős miniszter a szakképzésért felelős miniszterrel együttműködésben minden év november utolsó napjáig felülvizsgálhatja a nyilvántartásban szereplő programkövetelményeket. A felülvizsgálat a programkövetelmények bemeneti feltételeire, valamint a szakmai kompetenciákra terjedhet ki.
+
+(1a)[^64] A felnőttképzésért felelős miniszter a szakmai kompetenciák felülvizsgálata során a felülvizsgálati eljárásban hozott döntése alapján a programkövetelményt – a 20. § (5) bekezdése szerinti esetben a Kormány adott ágazatért felelős tagjának egyetértésével – a nyilvántartásból törli, ha annak szakmai kompetenciái beépítésre kerültek valamely szakma szakmai kompetenciái közé. A törlésről hozott döntését a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közli.
+
+(1b)[^65] A felnőttképzésért felelős miniszter a programkövetelmények bemeneti feltételeinek felülvizsgálata során a felülvizsgálati eljárásban hozott döntése alapján a programkövetelményt módosíthatja. A felülvizsgálati eljárásba a 20. § (2) és (3) bekezdésében szereplő szervezeteket szakértőként bevonhatja. A felülvizsgálatra programkövetelményenként önállóan vagy ágazatonként együttesen évente egyszer kerülhet sor. A felnőttképzésért felelős miniszter a felülvizsgálatról a felülvizsgálati eljárás indítását legalább harminc nappal megelőzően tájékoztatást tesz közzé a felnőttképzés adatszolgáltatási rendszerén keresztül. A módosításról hozott döntését a felnőttképzésért felelős miniszter a felnőttképzés adatszolgáltatási rendszerén keresztül közli.
+
+(2) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás esetén a törlés és módosítás előtti programkövetelmények alapján folyamatban lévő képzéseket a törléstől vagy módosítástól számított 2 éven belül be kell fejezni.
+
+### 11. Az Fktv. 13. §-ához
+
+#### 21. §
+
+(1) A felnőttképzési szerződés tartalmazza
+
+a)[^66] a képzés megnevezését és óraszámát,
+
+b) a képzés
+
+ba)[^67] év, hónap, nap szerinti kezdési és befejezésének tervezett időpontját, figyelembe véve az előzetesen megszerzett tudás beszámítását,
+
+bb) – a zárt rendszerű elektronikus távoktatás kivételével – haladásának tananyagegységekre bontott ütemezését,
+
+c) a képzés elvégzésével megszerezhető dokumentum megjelölését,
+
+d)[^68] a képzés során nyújtott teljesítmény ellenőrzésének, értékelésének módját, valamint ha a képzéshez vizsga kapcsolódik, a vizsgára bocsátás feltételeit,
+
+e) a megengedett hiányzás mértékét és ennek túllépése esetén a képzésben részt vevő személyt érintő következményeket,
+
+f)[^69] a képzési díj – ha a képzéshez vizsga kapcsolódik, és a vizsga megszervezésére a felnőttképző jogosult, a vizsgadíj és az esetlegesen szükséges javító- és pótlóvizsga díjának – mértékét és fizetésének módját, figyelembe véve az előzetesen megszerzett tudás beszámítását, valamint a képzési díj megfizetésének a képzés megvalósítása teljesítésével arányban álló ütemezését,
+
+g) a képzéshez nyújtott támogatás összegének költségvetési és európai uniós források szerint történő feltüntetését,
+
+h)[^70] a képzés keretében nyújtott ösztöndíj mértékét és folyósításának feltételeit,
+
+i)[^71] a képzésben részt vevő személy és a felnőttképző szerződésszegésének következményeit.
+
+(2)[^72] A felnőttképző a képzési díjat egy összegben köteles meghatározni a felnőttképzési szerződésben, továbbá a felnőttképzési szerződésben feltüntetett képzési díjon felül más jogcímen további díjat – ide nem értve a mulasztott foglalkozás pótlásának és a sikertelen vizsga megismétlésének díját – vagy költséget nem állapíthat meg a képzésben részt vevő személy terhére.
+
+### 12. Az Fktv. 13/B. §-ához
+
+#### 22. §[^73]
+
+(1)[^74] A tanúsítvány tartalmazza
+
+a) a tanúsítvány sorszámát,
+
+b) a felnőttképző megnevezését, székhelyét és nyilvántartásba vételi számát vagy engedélyszámát,
+
+c) a képzésben részt vevő családi és utónevét, születési családi és utónevét, születési helyét és születési idejét, anyja születési családi és utónevét,
+
+d)[^75] a képzés megnevezését, képzés megkezdésének időpontját és a résztvevő általi befejezésének tényleges időpontját, valamint óraszámát,
+
+e) az arra való utalást, hogy
+
+ea) a tanúsítvány szakképesítést és szakképzettséget nem tanúsít, és
+
+eb) a tanúsítvány munkakör betöltésére nem, tevékenység folytatására jogszabályban meghatározott esetben jogosít,
+
+f) a tanúsítvány kiállításának helyszínét és időpontját,
+
+g) a tanúsítvány kiállítójának nevét és beosztását, valamint
+
+h) a szakmai képzés esetén az azt megalapozó programkövetelmény számát és nyilvántartásba vételének idejét.
+
+(2) A tanúsítványt olyan minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni, amelyet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján bizalmi szolgáltató nyújt. Ennek hiányában a tanúsítványt annak kiállítója papír alapon saját kezűleg írja alá.
+
+(3) A tanúsítványt évente újrakezdődő sorszámozással és a tárgyév megjelölésével kell ellátni.
+
+(3a)[^76] Ha a felnőttképző a felnőttképzési tevékenység folytatását engedély alapján végzi, illetve amennyiben a szakképző intézmény az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzést folytat, akkor a kiállított tanúsítványt legkésőbb annak aláírását követő két munkanapon belül a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+
+(4)[^77] A mikrotanúsítvány kiállítására a (2) és (3a) bekezdést nem kell alkalmazni.
+
+(5)[^78] Mikrotanúsítványt adó képzés esetén, ha a képzés tartalma teljes egészében megegyezik a mikrotanúsítvány kiállításának alapjául szolgáló tananyag – egyetlen szakképzési tankönyv vagy annak egyetlen fejezete – tartalmával, és a képzés nem minősül az Fktv. 2/A. § (2) bekezdés a) pontja szerinti képzésnek, akkor az Fktv. 11. § (2) bekezdés c) pontja szerinti tanúsítványt a FAR-ból kiállított mikrotanúsítvány teljeskörűen helyettesíti.
+
+#### 22/A. §[^79]
+
+(1) A képzéshez kapcsolódóan a felnőttképzés adatszolgáltatási rendszere útján – személyazonosításra alkalmatlan módon – biztosítani kell a képzésben részt vevő személy részére a képzéssel kapcsolatos elégedettségének felmérése céljából kérdőív önkéntes kitöltését, legkésőbb a képzés befejezésének időpontját követő harmincadik napig.
+
+(2) A kérdőív a munkaerőpiaci előrejelző rendszer és a pályakövetési rendszer általi adatelemzési feladatok ellátásának alapjául szolgáló legalább kilenc és legfeljebb tizenöt, a felnőttképzési tevékenységre és a képzésre vonatkozó általános kérdésből állhat.
+
+(3) A kérdőívet felnőttképzőnként, képzésenként és kérdésenként a felnőttképzés adatszolgáltatási rendszere kiértékeli és – a kerekítési szabályok szerint – megállapítja a két tizedesjegyig számított átlageredményt.
+
+(4) A kérdőív kiértékelését a felnőttképző számára a felnőttképzés adatszolgáltatási rendszerében elérhetővé kell tenni és a kérdőív kiértékelését követő tizenötödik napig lehetőséget biztosítani a felnőttképző számára a kiértékeléssel kapcsolatos szöveges vélemény kifejtésére.
+
+### 13. Az Fktv. 14. §-ához
+
+#### 23. §
+
+(1) A felnőttképző minőségirányítási rendszere keretében
+
+a) átfogó minőségpolitikát és ehhez kapcsolódó stratégiát alakít ki a felnőttképzési tevékenység minőségének biztosítása érdekében,
+
+b) formális belső mechanizmusokat alakít ki a felnőttképzési tevékenység követésére és rendszeres belső értékelésére vonatkozóan,
+
+c) eljárásokat alakít ki az oktatók folyamatos továbbképzésének és minősítésének biztosítására,
+
+d) a felnőttképzési tevékenységhez kapcsolódóan biztosítja az annak megvalósításához szükséges erőforrásokat, és
+
+e) gondoskodik a felnőttképzési tevékenység hatékonyságát biztosító információk gyűjtéséről, elemzéséről és felhasználásáról.
+
+(2) A felnőttképző minőségirányítási rendszere az alábbiakban felsorolt alapelvek érvényesítésével biztosítja, hogy a minőségirányítási rendszer
+
+a) tükrözze azt, hogy irányítási folyamatainak középpontjában a felnőttképzési tevékenység minőségének növelése áll,
+
+b) a felnőttképzési tevékenység feltételeinek folyamatos fejlesztésére irányul,
+
+c) önértékelésre épüljön,
+
+d) a személyi feltételek folyamatos fejlesztésére irányuló szemléletet tükrözzön, és segítse elő az oktatók továbbképzését és önképzését a felnőttképzési tevékenység minőségének javítása érdekében,
+
+e) járuljon hozzá ahhoz, hogy a felnőttképzési tevékenységgel kapcsolatos változtatások, a felnőttképzési tevékenység minőségének javítása adatokon és visszajelzéseken alapuljon,
+
+f) a felnőttképzési tevékenység külső és belső résztvevőinek bevonására épüljön, és
+
+g) legyen összhangban a felnőttképző méretével és képzéseinek összetettségével.
+
+(3) A felnőttképző minőségirányítási rendszere az alábbi dokumentumokból áll:
+
+a) a minőségpolitikára vonatkozó dokumentum, amely tartalmazza
+
+aa) a minőségre vonatkozó stratégiát,
+
+ab) a felnőttképző és az oktatók minőségirányítással kapcsolatos felelősségét,
+
+ac) a képzésben részt vevő személyek bevonásának módját a minőségirányítás megvalósításába,
+
+ad) a minőségpolitika megvalósításának, figyelemmel kisérésének és felülvizsgálatának módját,
+
+b) a felnőttképzési tevékenységgel kapcsolatos minőségirányítási dokumentum, amely tartalmazza
+
+ba) a felnőttképzési tevékenység lebonyolításával és a kapcsolódó tananyagok tervezésével és tartalmi felülvizsgálatával kapcsolatos eljárást,
+
+bb) a felnőttképzési tevékenység végrehajtásához szükséges személyi és tárgyi feltételek, pénzügyi források biztosítására vonatkozó eljárást,
+
+bc) a képzésben részt vevő személyek előrehaladásának és teljesítményének figyelemmel kisérésére vonatkozó módszereket,
+
+bd) a felnőttképzési tevékenységgel kapcsolatos vélemények visszacsatolására vonatkozó eljárást,
+
+be)[^80]
+
+bf) a felnőttképzési tevékenységgel összefüggő információ nyilvánosságával összefüggő eljárást,
+
+c) az oktatók felkészültségével, az oktatói kompetenciáik folyamatos fejlesztésével kapcsolatos dokumentum, amely tartalmazza
+
+ca) az oktatók alkalmazásával kapcsolatos követelményeket és eljárást,
+
+cb) az oktatók kompetenciáinak fejlesztésével kapcsolatos módszereket,
+
+cc) az oktatók teljesítményével kapcsolatos visszacsatolásra vonatkozó eljárást,
+
+d) a felnőttképzés adatszolgáltatási rendszerével kapcsolatos dokumentum, amely kiterjed
+
+da) a képzésben részt vevő személyek eredményeivel kapcsolatos adatok gyűjtésére és elemzésére,
+
+db)[^81] a képzésben részt vevő személyek elégedettségmérésével kapcsolatos adatok elemzésére,
+
+dc) az oktatói teljesítményekkel kapcsolatos adatok gyűjtésére és elemzésére,
+
+dd) a felnőttképző rendelkezésére álló erőforrások hatékonyságával kapcsolatos adatok gyűjtésére és elemzésére,
+
+e) a panaszok kezeléséről szóló dokumentum, amely tartalmazza a panaszok kivizsgálásának és kezelésének módját,
+
+f) a minőségirányítási rendszer működtetése során keletkezett eltérések kiküszöbölésére irányuló helyesbítő és ismételt előfordulásuk megakadályozására irányuló megelőző tevékenységek menetét tartalmazó dokumentum és
+
+g) a felnőttképzési tevékenység önértékelésére vonatkozó eljárást tartalmazó dokumentum.
+
+(4) A felnőttképző a minőségirányítási rendszerében a (3) bekezdés b) pont ba)*,* bb) és bd)–bf) alpontjában, c) pont ca) és cc) alpontjában és g) pontjában meghatározott dokumentumokhoz tartozó minőségi jellemzőket (indikátorokat) az alábbiak szerint határozza meg:
+
+a) a minőségi jellemző legyen alkalmas a tartalmi elem eredményének, eredményeinek kifejezésére, és
+
+b) a minőségi jellemzőhöz az érintett tartalmi elemmel elérni kívánt célérték, célértékek hozzárendelése szükséges a felnőttképzési tevékenység megszervezéséhez.
+
+(5) A (3) bekezdés szerint meghatározott minőségi jellemzőhöz rendelt célérték nem teljesülése esetén a felnőttképző feltárja az okokat, és a (3) bekezdés f) pontjában meghatározott helyesbítő tevékenységet végez, amely a kitűzött célérték teljesítéséhez szükséges lépéseket tartalmazza, vagy a célérték – következő időszakra vonatkozó – indokolt módosítását valósítja meg.
+
+#### 24. §
+
+(1) A külső értékelést a felnőttképzési államigazgatási szerv a felnőttképző megbízása alapján végzi.
+
+(2)[^82]
+
+#### 25. §
+
+(1) A külső értékelés során a felnőttképzési államigazgatási szerv azt vizsgálja, hogy a felnőttképző a minőségirányítási rendszerének megfelelően látja el a felnőttképzési tevékenységet. A külső értékelés kiterjed a felnőttképzési tevékenység és az oktatók munkájának általános pedagógiai szempontok alapján történő értékelésére, az általános pedagógiai és vezetéselméleti szempontok szerint történő értékelésre, a felnőttképző saját céljának megvalósulására.
+
+(2) A külső értékelés módszere különösen a foglalkozáslátogatás, a megfigyelés, az interjú és a dokumentumvizsgálat. A külső értékelés módszertanát és annak során használt eszközöket a felnőttképzési államigazgatási szerv az Európai Szakképzési Minőségbiztosítási Referencia Keretrendszer alapján egységesen dolgozza ki és a honlapján közzéteszi.
+
+(3) A külső értékelésről a felnőttképzési államigazgatási szerv indokolt véleményt ad a felnőttképzőnek, és abban cselekvési program megalkotását és végrehajtását javasolhatja.
+
+### 13/A. [^83] Az Fktv. 15. §-ához
+
+#### 25/A. §[^84]
+
+(1) Ha a felnőttképző olyan képzésben részt vevő személlyel létesít felnőttképzési jogviszonyt, aki rendelkezik oktatási azonosító számmal, a képzésben részt vevő személy oktatási azonosító számát az Oktatási Hivatal a képzésben részt vevő természetes személyazonosító adatainak megadása alapján a felnőttképzés adatszolgáltatási rendszerén keresztül elektronikus úton közli a felnőttképzővel.
+
+(2) Ha a felnőttképző olyan képzésben részt vevő személlyel létesít felnőttképzési jogviszonyt, aki nem rendelkezik oktatási azonosító számmal, annak kiadását a felnőttképző a felnőttképzés adatszolgáltatási rendszerén keresztül kezdeményezi. Az oktatási azonosító szám kiadására és a változásbejelentésre a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 14. § (2) és (3) bekezdését és 15. § (2) bekezdését kell alkalmazni, azzal, hogy köznevelési intézmény alatt a felnőttképzőt, KIR alatt a felnőttképzés adatszolgáltatási rendszerét kell érteni.
+
+### 14. Az Fktv. 16. §-ához
+
+#### 26. §
+
+(1) A felnőttképzőnek a képzés megvalósításával összefüggő, az Fktv. 16. § a)–c) pontjában, valamint a (2) és (3) bekezdésben meghatározott dokumentumokat egységes dokumentumként (a továbbiakban: egységes dokumentum) kell vezetnie.
+
+(2) Az egységes dokumentum – az Fktv.-ben foglaltakon túl – tartalmazza
+
+a)[^85] a képzési program magyar, angol és német megnevezését,
+
+b)[^86]
+
+c) a képzésben részt vevő személyek családi és utónevét,
+
+d) a képzés oktatóinak nevét az általuk oktatott tananyagrész megnevezésével,
+
+e) a c) és d) pont szerinti adatokban bekövetkezett változást a változás időpontjával.
+
+(3)[^87] A haladási napló az egységes dokumentumnak az Fktv. 15. § (1) bekezdésében meghatározott határidő szerint folyamatosan vezetett része, amely tartalmazza
+
+a) az Fktv. 2. § 8. pontja szerinti, a képzésben részt vevő személyes jelenlétét igénylő kontaktórás foglalkozás
+
+aa) megtartásának időpontját,
+
+ab) témájának megjelölését és rövid leírását,
+
+ac) oktatójának nevét és aláírását,
+
+ad) képzésen belüli órája sorszámának megjelölését,
+
+ae) résztvevőinek aláírásával ellátott jelenléti ívet,
+
+b) az Fktv. 2. § 8. pontja szerinti, a képzésben részt vevő személyes jelenlétét nem igénylő kontaktórás foglalkozás vagy nem kontaktórás foglalkozás
+
+ba) teljes időtartamát,
+
+bb) témájának megjelölését és rövid leírását,
+
+bc) résztvevőjének nevét, valamint a részvétel elektronikus dokumentummal való igazolását vagy a résztvevők listájáról készült képernyőfotót és
+
+c)[^88] a képzés befejezésének dátumát, továbbá ha a képzés befejezése feltételhez kötött, a feltétel résztvevők általi teljesítésének időpontját.
+
+(4) Az egységes dokumentum elektronikus formában is vezethető. Ha az egységes dokumentum valamely részét aláírással kell ellátni, az elektronikus formában vezetett egységes dokumentumot az oktatók és a résztvevők a dokumentumot legalább fokozott biztonságú elektronikus aláírással látják el.
+
+## III/A. Fejezet[^89] — MUNKAERŐ-PIACI ELŐREJELZŐ RENDSZER
+
+### 14/A. Az Fktv. 21/B. §-ához
+
+#### 26/A. §
+
+(1) A munkaerőpiaci előrejelző rendszer egy olyan előrejelző és elemző rendszer, amely összerendeli a munkaerőpiaci keresleti és kínálat információkat, és képes a munkaerőpiaci igényeknek megfelelő képzési kibocsátási követelmények meghatározására.
+
+(2)[^90] A Kormány a munkaerőpiaci előrejelző rendszer működéséért felelős szervként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki.
+
+(3)[^91] A Hivatal a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladatai keretében ellátja a munkaerő-piaci előrejelző rendszer számára szolgáltatott adatok folyamatos gyűjtésével, elemzésével, feldolgozásával és közzétételével összefüggő feladatokat.
+
+(4)[^92] A munkaerő-piaci előrejelző rendszer működtetése céljából
+
+a)[^93] az oktatási nyilvántartás működtetéséért felelős szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1/A. melléklet II. rész 1. pont a) és b) alpontjában foglalt adatok közül a születési helyre, a születési időre, a nemre és a levelezési címre vonatkozó adatokat, e)–g) és l) alpontjában foglalt adatokat a képző intézmény típusától függetlenül, valamint 3/A. melléklet II. rész 1. pont b) és c) alpontjában foglalt adatok közül a születési helyre, a születési időre, a nemre és az állampolgárságra vonatkozó adatokat, valamint 3/A. melléklet II. rész 1. pont d) és f) alpontjában és 2. pont a)–d) alpontjában meghatározott adatokat,
+
+b) a felnőttképzési államigazgatási szerv az Fktv. 5. § (1) bekezdés a) pontjában, valamint a 7. § (1) bekezdés b) pontjában meghatározott adatokat és a 22/A. §-ban szabályozott kérdőív adatait,
+
+c)[^94] az állami adóhatóság – a rendelkezésére álló legutolsó bejelentés, illetve bevallás alapján – a foglalkoztatottak tárgyévi létszámát és megoszlását településenként, valamint foglalkozás szerinti bontásban a Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR) szerinti négy számjegyű kód megadásával, továbbá a tárgyévi medián- és átlagbérek mértékét vármegyei és foglalkozás szerinti bontásban a FEOR szerinti négy számjegyű kód megadásával,
+
+d) a foglalkoztatáspolitikáért felelős miniszter a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 57/A. § (1) bekezdés a) pontjában foglalt adatok közül a születés évét, c) pontjában foglalt adatok közül a lakcím irányítószámát, f) pontjában foglalt adatok közül az iskolai végzettség és a szakképzettség megnevezését, valamint az álláskereső nemét, továbbá az Flt. 57/A. § (1) bekezdése szerinti nyilvántartásba való felvétel és az abból való törlés időpontját,
+
+e) a közfoglalkoztatásért felelős miniszter az Flt. 57/B. § (1) bekezdés 2. pont a) alpont *ab)* pontjában foglalt adatok közül a születés évét és a lakóhelyet, tartózkodási helyet, továbbá a) alpont *ac)* pontjában és b) alpont *bb)* pontjában foglalt adatokat,
+
+f)[^95] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet [a továbbiakban: 716/2021. (XII. 20.) Korm. rendelet] szerinti személyügyi központ a 716/2021. (XII. 20.) Korm. rendelet szerinti toborzási adatbázisból a munkakör megnevezésére, annak a FEOR szerinti négy számjegyű kódjára és a munkavégzés helyére vonatkozó adatokat,
+
+g) a Központi Statisztikai Hivatal a foglalkoztatottak tárgyévi létszámát a gazdasági tevékenységek egységes ágazati osztályozási rendszere (TEÁOR) szerinti bontásban, valamint a FEOR szerinti négy számjegyű kód megadásával
+
+a munkaerő-piaci előrejelző rendszer számára a Hivatal által működtetett felületen, személyazonosításra alkalmatlan módon, az a), a b) és a d)–f) pont szerinti esetben a tárgyi negyedévet követő hónap utolsó napjáig, a c) és a g) pont szerinti esetben a tárgyévet követő első negyedév utolsó napjáig átadja.
+
+(5)[^96] A (4) bekezdés f) pontja szerinti adatszolgáltatás során a tárgyi negyedévben közzétett hirdetések anonimizált, teljes szövegét át kell adni a (4) bekezdés szerinti felületre való feltöltéssel.
+
+## III/B. Fejezet[^97] — A FELNŐTTKÉPZÉS TÁMOGATÁSA
+
+### 14/B.[^98] Az Fktv. 23. §-ához
+
+#### 26/B. §
+
+(1)[^99] A felnőttképzésért felelős miniszter a Kormány adott ágazatért felelős tagja véleményének kikérésével pályázati kiírásban – a kiválasztás szempontjai mellett – meghatározza az olyan képzések körét és követelményeit, valamint az azokhoz kapcsolódó munkaerőpiaci célokat, amelyek
+
+a) a munkavállalók és az álláskeresők számára új kompetenciák megszerzését biztosítják,
+
+b) – a 26/A. § szerinti elemzés alapján – releváns munkaerőpiaci igényhez kapcsolódnak, vagy előre nem tervezhető helyzetek kezeléséhez szükséges munkaerő biztosítását szolgálják,
+
+c) a gazdaság nemzetgazdasági szempontból stratégiai jelentőségű egy vagy több ágazatát érintik, és a gazdaság egy vagy több ágazatában az információs technológiák és az automatizálás révén a gyártási módszerek alapvető megváltozását vagy az arra való felkészülést segítik elő, illetve
+
+d) megszervezéséhez és megvalósításához kiemelt közérdek fűződik, vagy hosszú távon hozzájárulnak Magyarország gazdasági növekedéséhez.
+
+(2)[^100] A felnőttképző által szervezett képzés nemzetgazdasági szempontból kiemelt jelentőségű képzésként való megszervezésére a felnőttképző nyújthat be pályázatot a felnőttképzésért felelős miniszternek, ha
+
+a) a felnőttképző szerepel a felnőttképzők nyilvántartásában és a kérelem benyújtásának időpontjában a köztartozásmentes adózói adatbázisban, valamint
+
+b) a képzés a pályázati kiírásban meghatározott követelményekhez kapcsolódik, és munkaerőpiaci cél eléréséhez hozzájárul.
+
+(3) A pályázatban részletesen be kell mutatni
+
+a) a képzésnek a pályázati kiírásban meghatározott követelményeihez való kapcsolódását és munkaerőpiaci cél eléréséhez való hozzájárulását,
+
+b) a képzés bemeneti és kimeneti követelményeit, a programkövetelményhez kapcsolódóan megszervezett képzés esetében a kimeneti követelmények tekintetében a kapcsolódó programkövetelményre való utalással,
+
+c) a képzés részletes tartalmát, a képzési program csatolásával,
+
+d) a képzésben részt vevő személyek tervezett létszámát és célcsoportját, az életkor, nem, előzetes képzettség és az országon belüli területi megoszlásuk szerinti bontásban, valamint
+
+e) a képzési díj összegét és meghatározásának szempontjait.
+
+(4)[^101] A pályázatról a felnőttképzésért felelős miniszter a Kormány adott ágazatért felelős tagja véleményének kikérésével dönt.
+
+(5)[^102] A nyertes pályázóval a felnőttképzésért felelős miniszter együttműködési megállapodást köt. A nemzetgazdasági szempontból kiemelt jelentőségű képzések körét és az erre tekintettel együttműködési megállapodással rendelkező felnőttképző nevét és elérhetőségét a felnőttképzésért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi.
+
+(6) A nemzetgazdasági szempontból kiemelt jelentőségű képzés ilyen minősítése az együttműködési megállapodásban meghatározott képzés megszervezésének, de legkésőbb az együttműködési megállapodás hatálybalépését követő harmadik év utolsó napjáig hatályos. Megszűnik a minősítés, ha a felnőttképzőt a felnőttképzési államigazgatási szerv a felnőttképzők nyilvántartásából törli, vagy az együttműködési megállapodás bármely okból megszűnik.
+
+(7) A nemzetgazdasági szempontból kiemelt jelentőségű képzés tekintetében
+
+a)[^103] a képzési program felnőttképzési szakértő általi előzetes minősítését a felnőttképzésért felelős miniszternek a Kormány adott ágazatért felelős tagja véleményének kikérésével meghozott döntése pótolja,
+
+b) a felnőttképzőnél szakmai vezetőként a képzéshez kapcsolódó szakirányú végzettséggel és ötéves szakmai gyakorlattal rendelkező személy is kijelölhető, és a szakmai vezető megbízási jogviszonyban is foglalkoztatható,
+
+c)[^104]
+
+d) a képzésben részt vevő személy számára ösztöndíj a 26/C. § (2) bekezdése szerinti mértékben nyújtható,
+
+e) a felnőttképző minőségirányítási rendszerének külső értékelését az együttműködési megállapodás pótolja,
+
+f) a felnőttképző ellenőrzésénél szakértői bizottságot nem kell kijelölni, és csak dokumentumalapú ellenőrzés folytatható, amely tekintetében jogkövetkezményként a felnőttképzőt az Fktv. 20. § (4) bekezdése alapján minden esetben figyelmeztetni kell,
+
+g) a felnőttképzővel szemben pénzbírság kiszabása helyett a minősítés visszavonása kezdeményezhető.
+
+### 14/C. Az Fktv. 25. § b) pontjához
+
+#### 26/C. §
+
+(1) A felnőttképző
+
+a) az Fktv. 2/A. § (2) bekezdése szerinti, legalább ötven óra képzési időt elérő képzéshez vagy
+
+b)[^105] nemzetgazdasági szempontból kiemelt jelentőségű képzéshez
+
+kapcsolódóan fizethet ösztöndíjat a képzésben részt vevő személynek, ha képzési hitelre nem jogosult, vagy képzési hitelt nem igényelt. A képzésben részt vevő személy a képzés befejezésének napjáig, de legfeljebb a képzés megkezdését követő két évig jogosult ösztöndíjra. Nem nyújtható ösztöndíj az olyan képzéshez kapcsolódóan, amelyet a képzésben részt vevő személy munkaerőpiaci képzésként végez, vagy amelyre tekintettel a képzésben részt vevő személy foglalkoztatást elősegítő támogatásban részesül.
+
+(2) Az ösztöndíj legfeljebb a felnőttképzési szerződés megkötésének napján érvényes, a legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igénylő munkakörben foglalkoztatott munkavállaló részére alapbérként megállapított garantált bérminimum hetvenöt százalékának, a nemzetgazdasági szempontból kiemelt jelentőségű képzés esetében kéthavi összegének megfelelő havonkénti mértékben nyújtható.
+
+(3) A képzésben részt vevő személy az ösztöndíj teljes összegét köteles a felnőttképző számára visszafizetni, ha a képzést nem fejezi be, vagy szakmai képzés esetén nem szerez szakképesítést.
+
+### 14/D.[^106]
+
+## IV. Fejezet — ELLENŐRZÉS, JOGKÖVETKEZMÉNYEK
+
+### 15. Az Fktv. 20. § (1) bekezdéséhez
+
+#### 27. §
+
+(1) A felnőttképzési államigazgatási szerv minden év november elsejéig ellenőrzési tervet készít a következő évben ellenőrzésre kerülő felnőttképzőkről. A felnőttképzési államigazgatási szerv a tárgyévben elvégzett ellenőrzésekről minden tárgyévet követő év március harmincegyedikéig összefoglaló jelentést állít össze a felnőttképzésért felelős miniszter számára.
+
+(2) Ha a felnőttképző felnőttképzési tevékenységet bejelentés és engedély alapján is folytat, ellenőrzésre mindkét felnőttképzési tevékenységére egyszerre kiterjedően kell kiválasztani.
+
+### 16. Az Fktv. 20. § (2) bekezdéséhez
+
+#### 28. §
+
+(1)[^107] A szakértői bizottság a felnőttképzőnél szakértői vizsgálatot folytat le. Ha a szakmai képzés a honvédelemért felelős miniszter, a polgári nemzetbiztonsági szolgálatot irányító miniszter vagy a rendvédelmi szervet irányító miniszter felelősségi körébe tartozik, a szakértői vizsgálatba az általuk delegált szakértőt is be kell vonni.
+
+(1a)[^108] Az ellenőrzés során a felnőttképzési államigazgatási szerv lehetőség szerint olyan felnőttképzési szakértőt rendel ki a szakértői bizottság tagjaként, akinek a felnőttképző által szervezett oktatás, képzés, illetve több oktatás, képzés esetén azok valamelyike a 14. § (1a) bekezdése és a Hivatal honlapján közzétett Útmutató alapján a szakterületébe tartozik.
+
+(2) A szakértői vizsgálatról szóló értesítésben a felnőttképzőt fel kell hívni a szakértői bizottsággal való együttműködés kötelezettségére, valamint az együttműködés hiányának jogkövetkezményeire, kivéve, ha a felnőttképzési államigazgatási szerv – az Ákr. 104. § (3) bekezdésének alkalmazása esetén – a hatósági ellenőrzés megindításáról szóló értesítést mellőzi.
+
+(3) A szakértői bizottság megvizsgálja, hogy
+
+a) a bejelentéshez kötött felnőttképzési tevékenység esetén a felnőttképző
+
+aa) jogszabályban meghatározott tartalommal kötötte-e meg a képzésben részt vevő személyekkel a felnőttképzési szerződést, és gondoskodott-e a résztvevők személyes adatainak jogszabályban foglaltak szerinti kezeléséről, valamint
+
+ab) teljesítette-e a felnőttképzési tevékenységgel összefüggésben az Fktv.-ben meghatározott adatszolgáltatási kötelezettségét,
+
+ac)[^109] eleget tett-e az Fktv. szerinti tájékoztatási kötelezettségének, és az Fktv.-nek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját,
+
+ad)[^110] – a belső képzés és a jogszabály alapján szervezett oktatás és képzés kivételével – rendelkezik-e az általa az Fktv. 12. §-a szerint kidolgozott képzési programmal, és a képzési programot előzetes minősítés nélkül a felnőttképzés adatszolgáltatási rendszerébe feltöltötte-e,
+
+b) az engedélyhez kötött felnőttképzési tevékenység esetén a felnőttképző
+
+ba) által szervezett képzés képzési programja a vonatkozó jogszabályi előírásoknak megfelelnek-e, és a képzést a képzési programnak megfelelően folytatja-e,
+
+bb) folyamatosan vezeti-e az egységes dokumentumot, és az megfelel-e a jogszabályi előírásoknak,
+
+bc) a jogszabályi előírásoknak megfelelően biztosította-e az előzetes tudásmérést,
+
+bd) jogszabályban meghatározott tartalommal kötötte-e meg a képzésben részt vevő személyekkel a felnőttképzési szerződést, és gondoskodott-e a résztvevők személyes adatainak jogszabályban foglaltak szerinti kezeléséről,
+
+be) eleget tett-e az Fktv. szerinti tájékoztatási kötelezettségének, és az Fktv.-nek megfelelően alakítja-e ki a képzési tevékenységére vonatkozó hirdetéseinek és tájékoztatóinak tartalmát és formáját,
+
+bf)[^111]
+
+bg)[^112] rendelkezik-e minőségirányítási rendszerrel, továbbá működtet-e ügyfélszolgálati és panaszkezelési rendszert,
+
+bh) rendelkezik-e az e rendelet szerinti vagyoni biztosítékkal, és
+
+bi) teljesítette-e a felnőttképzési tevékenységgel összefüggésben az Fktv.-ben meghatározott adatszolgáltatási kötelezettségét.
+
+(4) A szakértői bizottság a (3) bekezdésben foglaltakon túl bármely folyamatban lévő képzés és legalább egy lezárt képzés teljes dokumentációját is megvizsgálhatja.
+
+(5)[^113] A szakértői bizottság vezetője vagy az általa kijelölt bizottsági tag (a továbbiakban: kijelölt bizottsági tag) a folyamatban lévő képzés szakértői vizsgálata keretében olyan elméleti órát, illetve gyakorlati képzést látogathat, amelynek szakmai tartalmához kapcsolódóan szakképzettsége alapján megfelelő szakértelemmel rendelkezik. A kijelölt bizottsági tag a látogatás keretében megvizsgálja, hogy
+
+a) a kontaktóra tartalmában a képzési program megvalósulását szolgálja-e, és
+
+b) az oktató által alkalmazott módszerek a szakmai, a pedagógiai és az andragógiai követelményeknek megfelelnek-e.
+
+(6)[^114]
+
+(7) A szakértői bizottság vezetője a szakértői vizsgálat megállapításairól jegyzőkönyvet készít, amelyet a felnőttképző részére a helyszínen átad, vagy a szakértői vizsgálat befejezését követő öt napon belül a felnőttképzőnek megküld. A felnőttképző a jegyzőkönyv kézhezvételét követő három napon belül jogosult a szakértői vizsgálatról készült jegyzőkönyvre észrevételt tenni.
+
+(8) A szakértői bizottság vezetője a szakértői vizsgálattal kapcsolatos megállapításait tartalmazó szakértői véleményt a szakértői vizsgálatról készült – vizsgált felnőttképző észrevételeit tartalmazó – jegyzőkönyvvel együtt nyújtja be a felnőttképzési államigazgatási szervnek.
+
+(9) A szakértői bizottság vezetőjeként vagy tagjaként eljáró felnőttképzési szakértő díjazására az igazságügyi szakértők díjazására vonatkozó szabályokat kell alkalmazni.
+
+### 17. [^115] Az Fktv. 20. § (3) és (5) bekezdéséhez
+
+#### 30. §
+
+(1)[^117] A felnőttképző jogszabálysértő tevékenysége súlyosabban minősül,
+
+a) ha nem tesz eleget az Fktv. 17. §-ában meghatározott tájékoztatási kötelezettségeinek, illetve hirdetései és tájékoztatói nem felelnek meg az Fktv. 17/A. §-ában foglaltaknak,
+
+b) ha az engedélyhez kötött felnőttképzési tevékenység esetén
+
+ba) nem rendelkezik képzési programmal, vagy felnőttképzési tevékenységét nem a képzési programnak megfelelően folytatja,
+
+bb) nem köt felnőttképzési szerződést, vagy annak feltételei, tartalma nem felel meg a jogszabályban és a képzési programban foglaltaknak,
+
+bc) a képzés befejezését követően és a képzés díjának teljes körű megfizetése ellenére hatvan napot meghaladó késedelemmel adja ki a képzés elvégzését igazoló tanúsítványt,
+
+bd)[^118] az Fktv. 15. §-ában meghatározott adatszolgáltatási kötelezettségét legkésőbb a képzés befejezésének napját követő harmadik munkanapig nem vagy nem a valóságnak megfelelően teljesíti.
+
+(2)[^119] Ismételt jogszabálysértésnek minősül, ha a felnőttképző a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el a döntés véglegessé válásától számított két éven belül.
+
+#### 31. §
+
+Az Fktv.
+
+a)[^120] 20. § (3) bekezdés a) pontja szerinti bírság mértéke a kötelező legkisebb munkabér egyhavi összegétől annak tizenötszöröséig terjedhet,
+
+b) 20. § (3) bekezdés b) pont bb) alpontja szerinti bírság mértéke a kötelező legkisebb munkabér egyhavi összegének tízszeresétől hússzorosáig terjedhet, ha a bejelentés, illetve engedély nélkül folytatott képzés időtartama meghaladja a három hónapot vagy a képzésben részt vevők száma a száz főt, a kötelező legkisebb munkabér egyhavi összegének huszonötszöröse,
+
+c)[^121] 20. § (5) bekezdése szerinti bírság mértéke a kötelező legkisebb munkabér egyhavi összegének harmincszorosa, súlyosabban minősülő jogszabálysértés esetén ötvenszerese.
+
+#### 32. §
+
+A felnőttképző ellenőrzése során kiszabott bírság összegét a felnőttképzési államigazgatási szerv kincstárnál vezetett fizetési számlájára kell átutalással kell megfizetni. A bírság befizetéséről szóló átutalási megbízás közlemény rovatában fel kell tüntetni a befizetés jogcímét és a bírságot elrendelő határozat számát.
+
+### 18.[^122]
+
+### 19. Az Fktv. 28. § (1) bekezdéséhez
+
+#### 34. §
+
+(1)[^123] A Kormány felnőttképzési államigazgatási szervként a Pest Vármegyei Kormányhivatalt jelöli ki.
+
+(2)[^124] Az Áht. 9. § a)–d) pontjában meghatározott irányítási hatáskörök kivételével a Pest Vármegyei Kormányhivatal felett a felnőttképzéssel összefüggő feladatok tekintetében a felnőttképzésért felelős miniszter gyakorolja az irányító szervi hatásköröket.
+
+(3) A Kormány a felnőttképző minőségirányítási rendszerének külső értékelése tekintetében felnőttképzési államigazgatási szervként az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaságot jelöli ki.
+
+(4)[^125] A Kormány az egyéni tanulási számla rendszere, valamint a mikrotanúsítványok nyilvántartásának tekintetében felnőttképzési államigazgatási szervként a Nemzeti Szakképzési és Felnőttképzési Hivatalt jelöli ki.
+
+## V. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 20. Hatályba léptető rendelkezések
+
+#### 35. §
+
+Ez a rendelet 2020. február 15-én lép hatályba.
+
+### 21. Átmeneti rendelkezések
+
+#### 36. §[^126]
+
+A Pest Vármegyei Kormányhivatal – azok megszűnéséig – az Fktv. 30. §-a szerint ellátja a 2019. december 31-én hatályos jogszabályi rendelkezések alapján a szakképzési feladatot ellátó hatóság és a felnőttképzési hatósági feladatokat ellátó szerv felelősségi körébe utalt feladatokat.
+
+#### 37. §
+
+(1)[^127] Az Fktv. 30. § (3) bekezdése szerinti vizsgaszervezési engedéllyel rendelkező felnőttképzést folytató intézménynek kell tekinteni a Nemzeti Szakképzési és Felnőttképzési Hivatalt, valamint az emberi erőforrások minisztere hatáskörébe tartozó egyes szakképesítések komplex szakmai vizsga szervezésére kijelölt intézményekről szóló 5/2013. (I. 18.) EMMI rendelet e rendelet hatálybalépését megelőző napon hatályos rendelkezése alapján vizsgaszervezésre jogosultat is.
+
+(2) Az Fktv. 30. § (3) bekezdése szerint szervezett vizsgán az a vizsgázó, aki a komplex szakmai vizsgáját az e rendelet hatálybalépését megelőző egy éven túl kezdte meg, a 2019. december 31-én hatályos szakmai és vizsgakövetelmény szerint tehet javító- és pótlóvizsgát, ha arra legkésőbb e rendelet hatálybalépésétől számított harminc napon belül jelentkezik.
+
+(3)[^128] A vizsga vizsgabizottsága elnökének és tagjainak az Fktv. 30. § (3) bekezdése szerinti delegálása tekintetében a Kormány szakképzési államigazgatási szervként a Pest Vármegyei Kormányhivatalt jelöli ki.
+
+#### 37/A. §[^129]
+
+A 2020. december 31-éig nyilvántartásba vett felnőttképzési szakértő a 15. § (1) bekezdése szerinti továbbképzési kötelezettségét első alkalommal 2021. június 30-áig teljesítheti.
+
+#### 37/B. §[^130]
+
+A 26/A. § (4) bekezdése szerinti adatszolgáltatásnak első alkalommal 2022. január 31. napjáig kell eleget tenni
+
+a) a (4) bekezdés a), b) és d)–f) pontja vonatkozásában a 2021. év első, második, harmadik és negyedik negyedévére,
+
+b) a (4) bekezdés c) és g) pontja vonatkozásában a 2013–2021. évekre
+
+vonatkozóan.
+
+#### 37/C. §[^131]
+
+E kormányrendeletnek az egyes felnőttképzéssel és szakképzéssel összefüggő kormányrendeletek módosításáról szóló 631/2022. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 22. § (3a) bekezdése szerinti rendelkezését a Módr. hatálybalépésének[^132] időpontjában folyamatban lévő képzések esetében is alkalmazni kell.
+
+#### 37/D. §[^133]
+
+E rendeletnek a felnőttképzést, a szakképzést, az innovációt és a felsőoktatást érintő kormányrendeletek módosításáról szóló 225/2025. (VII. 24.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 22. § (5) bekezdését a Módr1. hatálybalépésének[^134] időpontjában folyamatban lévő képzések esetében is alkalmazni kell.
+
+#### 37/E. §[^135]
+
+E rendeletnek a felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet módosításáról szóló 473/2025. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 26. § (2) bekezdés a) pontját, valamint 26. § (3) bekezdés c) pontját a 2026. március 31-ét követően indított képzések esetén kell alkalmazni.
+
+### 22. Az Európai Unió jogának való megfelelés
+
+#### 38. §
+
+(1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–11. és 16. cikkének való megfelelést szolgálja.
+
+(2) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikke szerinti előzetes bejelentése megtörtént.
+
+## 1. melléklet a 11/2020. (II. 7.) Korm. rendelethez[^136]
+
+---
+
+[^1]: Az I. fejezet címe a 95/2021. (II. 27.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 8. § b) pontja, a 688/2021. (XII. 8.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 473/2025. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (1) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés a) pont ac) alpontja a 12/2022. (I. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^7]: A 3. § (1a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (1) bekezdése iktatta be, a 395/2025. (XII. 16.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^8]: A 3. § (2) bekezdés a) pont aa) alpontja a 688/2021. (XII. 8.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdés a) pont ab) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 2. pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés a) pont ac) alpontja a 12/2022. (I. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: A 3. § (2) bekezdés a) pont ae) alpontja a 95/2021. (II. 27.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés c) pont ca) alpontja a 688/2021. (XII. 8.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^14]: A 3. § (2) bekezdés c) pont cb) alpontja a 688/2021. (XII. 8.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^15]: A 3. § (2) bekezdés d) pontját a 688/2021. (XII. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^16]: A 3. § (2a) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 3. § (2a) bekezdés a) pontját a 395/2025. (XII. 16.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^18]: A 3. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^19]: A 3. § (4) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 37. §-a iktatta be.
+[^21]: Az 5. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^22]: A 6. § (2) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 4. pontja hatályon kívül helyezte.
+[^23]: A 6. § (3) bekezdés c) pontja a 95/2021. (II. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^24]: A 6. § (3) bekezdés d) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^25]: A 6. § (3) bekezdés e) pontját a 95/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 7. § a 318/2020. (VII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A 7. § (1) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^28]: A 7. § (1) bekezdés c) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^29]: A 8. § a 95/2021. (II. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^30]: A 9. § a 318/2020. (VII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^31]: A 9. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^32]: A 9. § (3) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^33]: A 10. § (3) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^34]: A 10. § (5) bekezdését a 95/2021. (II. 27.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^35]: A 12. § (1) bekezdés c) pontja a 318/2020. (VII. 1.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^36]: A 13. § (3) bekezdés c) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 5. pontja hatályon kívül helyezte.
+[^37]: A 13. § (3) bekezdés d) pontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
+[^38]: A 14. § (1) bekezdés nyitó szövegrésze a 342/2025. (X. 31.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
+[^39]: A 14. § (1) bekezdés a) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 7. pontja hatályon kívül helyezte.
+[^40]: A 14. § (1) bekezdés c) pontja a 688/2021. (XII. 8.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^41]: A 14. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 342/2025. (X. 31.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
+[^42]: A 14. § (2) bekezdése a 95/2021. (II. 27.) Korm. rendelet 4. §-ával megállapított, a 342/2025. (X. 31.) Korm. rendelet 46. § c) pontja szerint módosított szöveg.
+[^43]: A 15. § (1) bekezdése a 738/2021. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 647/2023. (XII. 28.) Korm. rendelet 3. § a) pontja, a 492/2024. (XII. 31.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^44]: A 15. § (2a) bekezdését a 738/2021. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 631/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 492/2024. (XII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^45]: A 15. § (3) bekezdése a 738/2021. (XII. 21.) Korm. rendelet 2. §-a, a 647/2023. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^46]: A 15. § (4) bekezdése a 738/2021. (XII. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^47]: A 15. § (7) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 8. pontja hatályon kívül helyezte.
+[^48]: A 16. § (3) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^49]: A 17. § a 318/2020. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^50]: A 17. § b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § k) pontja szerint módosított szöveg.
+[^51]: A 18. § (1) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 9. pontja hatályon kívül helyezte, újonnan a 688/2021. (XII. 8.) Korm. rendelet 4. §-a iktatta be.
+[^52]: A 18. § (2) bekezdés a) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § l) pontja szerint módosított szöveg.
+[^53]: A 18. § (2) bekezdés b) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^54]: A 18. § (2) bekezdés c) pontja a 688/2021. (XII. 8.) Korm. rendelet 9. § f) pontja szerint módosított szöveg.
+[^55]: A 18. § (5) bekezdése a 95/2021. (II. 27.) Korm. rendelet 7. § n) pontja szerint módosított szöveg.
+[^56]: A 18. § (6) bekezdése a 492/2024. (XII. 31.) Korm. rendelet 4. § c) pontja, a 473/2025. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^57]: A 19. § (4) bekezdése a 671/2020. (XII. 28.) Korm. rendelet 40. §-a, a 24/2025. (II. 27.) Korm. rendelet 80. § a) pontja szerint módosított szöveg.
+[^58]: A 10. alcímet (20. §-t) a 318/2020. (VII. 1.) Korm. rendelet 17. § 10. pontja hatályon kívül helyezte, a 10. alcímet (20-20/A. §-t) újonnan a 631/2022. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^59]: A 20. § (2) bekezdés a) pontja a 492/2024. (XII. 31.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^60]: A 20. § (3) bekezdése a 225/2025. (VII. 24.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^61]: A 20. § (7) bekezdését a 473/2025. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^62]: A 20/A. § a 647/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^63]: A 20/A. § (1) bekezdése a 492/2024. (XII. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^64]: A 20/A. § (1a) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^65]: A 20/A. § (1b) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^66]: A 21. § (1) bekezdés a) pontja a 318/2020. (VII. 1.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^67]: A 21. § (1) bekezdés b) pont ba) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^68]: A 21. § (1) bekezdés d) pontja a 318/2020. (VII. 1.) Korm. rendelet 16. § d) pontja, a 688/2021. (XII. 8.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^69]: A 21. § (1) bekezdés f) pontja a 688/2021. (XII. 8.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^70]: A 21. § (1) bekezdés h) pontja a 318/2020. (VII. 1.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^71]: A 21. § (1) bekezdés i) pontját a 318/2020. (VII. 1.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^72]: A 21. § (2) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 9. § h) pontja szerint módosított szöveg.
+[^73]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^74]: A 22. § (1) bekezdése a 647/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^75]: A 22. § (1) bekezdés d) pontja a 473/2025. (XII. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^76]: A 22. § (3a) bekezdését a 631/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be, szövege a 492/2024. (XII. 31.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^77]: A 22. § (4) bekezdését a 492/2024. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^78]: A 22. § (5) bekezdését a 225/2025. (VII. 24.) Korm. rendelet iktatta be.
+[^79]: A 22/A. §-t a 318/2020. (VII. 1.) Korm. rendelet 9. §-a iktatta be.
+[^80]: A 23. § (3) bekezdés b) pont be) alpontját a 688/2021. (XII. 8.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^81]: A 23. § (3) bekezdés d) pont db) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
+[^82]: A 24. § (2) bekezdését a 395/2025. (XII. 16.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte.
+[^83]: A 13/A. alcímet (25/A. §) a 318/2020. (VII. 1.) Korm. rendelet 10. §-a iktatta be. [A 13/A. alcím címében a 95/2021. (II. 27.) Korm. rendelet 7. § o) pontjával elrendelt módosítás, amely szerint a „14. §-ához” szövegrész helyébe a „15. § (1b) bekezdés b) pontjához” szöveg lép, nem vezethető át.]
+[^84]: A 25/A. § a 95/2021. (II. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^85]: A 26. § (2) bekezdés a) pontja a 473/2025. (XII. 30.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^86]: A 26. § (2) bekezdés b) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 13. pontja hatályon kívül helyezte.
+[^87]: A 26. § (3) bekezdése a 688/2021. (XII. 8.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 225/2025. (VII. 24.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^88]: A 26. § (3) bekezdés c) pontja a 473/2025. (XII. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^89]: A III/A. fejezetet (26/A. §) a 318/2020. (VII. 1.) Korm. rendelet 11. §-a iktatta be.
+[^90]: [A 26/A. § (2) bekezdésében a 688/2021. (XII. 8.) Korm. rendelet 9. § i) pontjával elrendelt módosítás, amely szerint a „Nemzeti Szakképzési és Felnőttképzési Hivatal” szövegrész helyébe a „Hivatal” szöveg lép, nem vezethető át.]
+[^91]: A 26/A. § (3) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, szövege e módosító rendelet 9. § j) pontja szerint módosított szöveg.
+[^92]: A 26/A. § (4) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be, záró szövegrésze e módosító rendelet 9. § j) pontja szerint módosított szöveg.
+[^93]: A 26/A. § (4) bekezdés a) pontja a 473/2025. (XII. 30.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^94]: A 26/A. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 302. § a) pontja szerint módosított szöveg.
+[^95]: A 26/A. § (4) bekezdés f) pontja a 243/2022. (VII. 4.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^96]: A 26/A. § (5) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^97]: A III/B. fejezetet (26/B–26/C. §) a 318/2020. (VII. 1.) Korm. rendelet 12. §-a iktatta be.
+[^98]: A 14/B. alcím címe a 292/2023. (VII. 6.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^99]: A 26/B. § (1) bekezdés nyitó szövegrésze a 631/2022. (XII. 30.) Korm. rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 26/B. § (2) bekezdés nyitó szövegrésze a 631/2022. (XII. 30.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^101]: A 26/B. § (4) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^102]: A 26/B. § (5) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 8. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^103]: A 26/B. § (7) bekezdés a) pontja a 631/2022. (XII. 30.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^104]: A 26/B. § (7) bekezdés c) pontját a 389/2020. (VIII. 8.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^105]: [A 26/C. § (1) bekezdés b) pontjában a 101/2021. (II. 27.) Korm. rendelet 17. §-ával elrendelt módosítás, amely szerint hatályát veszti az „amelyet a képzésben részt vevő személy munkaerőpiaci képzésként végez, vagy” szövegrész, nem vezethető át.]
+[^106]: A 14/D. alcímet (26/D–26/H. §-t) a 631/2022. (XII. 30.) Korm. rendelet 4. §-a iktatta be, a 225/2025. (VII. 24.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^107]: A 28. § (1) bekezdése a 24/2025. (II. 27.) Korm. rendelet 80. § b) pontja szerint módosított szöveg.
+[^108]: A 28. § (1a) bekezdését a 688/2021. (XII. 8.) Korm. rendelet 7. §-a iktatta be.
+[^109]: A 28. § (3) bekezdés a) pont ac) alpontját a 631/2022. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^110]: A 28. § (3) bekezdés a) pont ad) alpontját a 492/2024. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
+[^111]: A 28. § (3) bekezdés b) pont bf) alpontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 15. pontja hatályon kívül helyezte.
+[^112]: A 28. § (3) bekezdés b) pont bg) alpontja a 395/2025. (XII. 16.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.
+[^113]: A 28. § (5) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 13. §-ával megállapított, nyitó szövegrésze a 95/2021. (II. 27.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^114]: A 28. § (6) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 16. pontja hatályon kívül helyezte.
+[^115]: A 17. alcím címe a 95/2021. (II. 27.) Korm. rendelet 7. § p) pontja szerint módosított szöveg.
+[^117]: A 30. § (1) bekezdése a 631/2022. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^118]: A 30. § (1) bekezdés b) pont bd) alpontja a 492/2024. (XII. 31.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^119]: A 30. § (2) bekezdése a 318/2020. (VII. 1.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^120]: A 31. § a) pontja a 318/2020. (VII. 1.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^121]: A 31. § c) pontja a 492/2024. (XII. 31.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^122]: A 18. alcímet (33. §) a 318/2020. (VII. 1.) Korm. rendelet 17. § 17. pontja hatályon kívül helyezte.
+[^123]: A 34. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 302. § b) pontja szerint módosított szöveg.
+[^124]: A 34. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 302. § b) pontja, a 631/2022. (XII. 30.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^125]: A 34. § (4) bekezdését a 225/2025. (VII. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 473/2025. (XII. 30.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^126]: A 36. § a 492/2024. (XII. 31.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^127]: [A 37. § (1) bekezdésében a 688/2021. (XII. 8.) Korm. rendelet 9. § i) pontjával elrendelt módosítás, amely szerint a „Nemzeti Szakképzési és Felnőttképzési Hivatal” szövegrész helyébe a „Hivatal” szöveg lép, nem vezethető át.]
+[^128]: A 37. § (3) bekezdése a 492/2024. (XII. 31.) Korm. rendelet 4. § i) pontja szerint módosított szöveg.
+[^129]: A 37/A. §-t a 95/2021. (II. 27.) Korm. rendelet 6. §-a iktatta be.
+[^130]: A 37/B. §-t a 688/2021. (XII. 8.) Korm. rendelet 8. §-a iktatta be.
+[^131]: A 37/C. §-t a 631/2022. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^132]: A hatálybalépés időpontja 2023. január 1.
+[^133]: A 37/D. §-t a 225/2025. (VII. 24.) Korm. rendelet 18. §-a iktatta be.
+[^134]: A hatálybalépés időpontja 2025. július 25.
+[^135]: A 37/E. §-t a 473/2025. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^136]: Az 1. mellékletet a 318/2020. (VII. 1.) Korm. rendelet 17. § 18. pontja hatályon kívül helyezte.

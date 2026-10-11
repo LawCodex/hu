@@ -1,0 +1,397 @@
+---
+title: "194/2022. (V. 27.) Korm. rendelet a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról"
+identifier: "194/2022. (V. 27.) Korm. rendelet"
+njt_id: "2022-194-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/194"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-05-27
+in_force_from: 2022-05-28
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-194-20-22"
+retrieved: 2026-10-12
+---
+
+# 194/2022. (V. 27.) Korm. rendelet a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról
+
+A Kormány
+
+a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 246. § e) pontjában, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 4. pontjában és a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+a 2. alcím és a 17. § b) pontja tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés m) pontjában és a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+a 15. §, a 17. § e) pontja és az 1. melléklet tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés m) pontjában és a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés f) pontjában kapott felhatalmazás alapján,
+
+a 17. § c) és d) pontja tekintetében a Rendőrségről szóló 1994. évi XXXIV. törvény 100. § (1) bekezdés h) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A kifogástalan életvitel ellenőrzés végrehajtására vonatkozó szabályok
+
+### 1. §[^1]
+
+A kifogástalan életvitel ellenőrzést
+
+a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvényben (a továbbiakban: Hszt.) hatáskörébe utalt rendvédelmi feladatokat ellátó szervek állománya tekintetében a Nemzeti Védelmi Szolgálat,
+
+b)[^2] a polgári nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal állománya tekintetében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) kijelölt nemzetbiztonsági szolgálat
+
+c)[^3] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott kifogástalan életvitel ellenőrzés esetében a Nemzeti Védelmi Szolgálat
+
+[az a)–c) pont a továbbiakban együtt: kijelölt szerv] az e rendeletben meghatározott szabályok szerint végzi.
+
+### 2. §
+
+(1) A Hszt.-ben meghatározott kifogástalan életvitel ellenőrzését (a továbbiakban: kifogástalan életvitel ellenőrzés) a kijelölt szerv
+
+a) a b)–d) pontban és a (2) bekezdésben foglaltak kivételével az állományilletékes parancsnok megkeresése,
+
+b) miniszter kinevezési, valamint munkáltatói jogkörébe tartozó hivatásos állományúak esetében a feladat- és hatáskörrel rendelkező miniszter megkeresése,
+
+c) a Hszt. 51. § (2)–(4) bekezdése szerint a rendvédelmi feladatokat ellátó szerven kívül szolgálatot teljesítők esetén, ha a hivatásos szolgálati viszonnyal kapcsolatos munkáltatói jogok nem miniszteri hatáskörbe tartoznak, az érintett szerv vezetőjének megkeresése,
+
+d)[^4] a rendvédelmi oktatási intézménybe jelentkező, valamint az ott tanuló esetében a rendvédelmi oktatási intézmény vezetőjének megkeresése,
+
+e)[^5] a rendvédelmi tisztjelölti állományba jelentkező, illetve a rendvédelmi tisztjelölt esetében a tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka megkeresése
+
+alapján végzi.
+
+(2) A saját állománya tekintetében a polgári nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzést a polgári nemzetbiztonsági szolgálat főigazgatója utasítása alapján végzi.
+
+(3) Az (1) bekezdés a), c) és d) pontja esetében a megkeresés tartalmazza
+
+a) a hivatásos állományba jelentkező
+
+aa) által kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, a hivatásos állományba jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát,
+
+ab) önéletrajzát, valamint
+
+ac) tervezett szolgálati beosztását;
+
+b) a rendvédelmi oktatási intézménybe jelentkező
+
+ba) által kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, a rendvédelmi oktatási intézménybe jelentkező és a vele közös háztartásban élők Hszt. 2. melléklete szerinti nyilatkozatát, valamint
+
+bb) önéletrajzát;
+
+c) a hivatásos állomány tagja
+
+ca) jelenlegi vagy tervezett szolgálati beosztását,
+
+cb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
+
+cc) által, a hivatásos állományba jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, ha az rendelkezésre áll;
+
+d)[^6] a rendvédelmi tisztjelölt, valamint a rendvédelmi oktatási intézmény tanulója
+
+da) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
+
+db) által, a rendvédelmi oktatási intézménybe jelentkezéskor kitöltött – a Hszt. 3. melléklete szerinti – adatlapot, ha az rendelkezésre áll.
+
+(4) A soron kívüli ellenőrzés kérelmezése esetén – a (3) bekezdésben meghatározottakon túl – a megkeresésnek tartalmaznia kell az ellenőrzésre okot adó információkat is.
+
+(5) A kifogástalan életvitel ellenőrzést – a (2) bekezdés szerinti kivétellel – a kijelölt szerv vezetője határozattal rendeli el.
+
+(6) A kifogástalan életvitel ellenőrzést az elrendelésétől számított 30 napon belül be kell fejezni. E határidőt az elrendelő indokolt esetben egy alkalommal 30 nappal meghosszabbíthatja.
+
+(7) A Hszt. 54. § (1) bekezdésében meghatározott esetben a kifogástalan életvitel soron kívüli ellenőrzése érdekében a jogosult a hivatásos állomány tagjának szolgálati beosztásból történő felmentése napján megkeresi a kijelölt szervet. A kifogástalan életvitel ellenőrzését ebben az esetben az elrendeléstől számított 15 napon belül kell befejezni, amely határidőt az elrendelő indokolt esetben egy alkalommal 15 nappal meghosszabbíthatja.
+
+(8)[^7] Ha az állományilletékes parancsnok a Hszt. 54/B. § (1) bekezdésében meghatározott döntésével egyidejűleg a Hszt. 42. § (1) bekezdése alapján a kifogástalan életvitel soron kívüli ellenőrzését kezdeményezi, akkor a kifogástalan életvitel ellenőrzését az elrendeléstől számított 15 napon belül kell lefolytatni, amely határidőt az elrendelő indokolt esetben egy alkalommal 15 nappal meghosszabbíthatja.
+
+### 3. §
+
+(1) A kifogástalan életvitel ellenőrzése felfüggeszthető, ha a kifogástalan életvitel megállapítása bíróság vagy más hatóság hatáskörébe tartozó döntéstől függ. Az eljárás felfüggesztésének időtartama nem számít be az eljárás lefolytatására nyitva álló határidőbe.
+
+(2) A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
+
+a) a jelentkező a hivatásos állományba vagy a rendvédelmi oktatási intézménybe jelentkezéstől eláll,
+
+b) a hivatásos állományba vagy a rendvédelmi oktatási intézménybe jelentkező hivatásos szolgálatra egészségi, pszichikai vagy fizikai okból alkalmatlan,
+
+c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik,
+
+d)[^8] a rendvédelmi oktatási intézmény tanulójának jogviszonya megszűnik,
+
+e)[^9] a 2. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta, vagy
+
+f)[^10] a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya megszűnik.
+
+### 4. §
+
+(1) A kijelölt szerv kifogástalan életvitel ellenőrzést végző tagja az ellenőrzés alá vont személyt, valamint az ellenőrzés szempontjából releváns információval rendelkező személyeket a kifogástalan életvitel ellenőrzés során meghallgathatja, és a meghallgatásról jegyzőkönyvet készíthet.
+
+(2) A kifogástalan életvitel ellenőrzésről az ellenőrzést végző összesítő jelentést készít és a kijelölt szerv vezetője, vagy saját állománya esetében a polgári nemzetbiztonsági szolgálat főigazgatója a kifogástalan életvitel ellenőrzést, ha az összesítő jelentés alapján
+
+a) kifogásolható életvitel nem állapítható meg, egyszerűsített határozattal,
+
+b) kifogásolható életvitel megállapítására tesz javaslatot, indokolt határozattal
+
+befejezi.
+
+(3) A kifogástalan életvitel ellenőrzés befejezéséről szóló határozatot a kijelölt szerv vezetője megküldi a kifogástalan életvitel ellenőrzés kezdeményezőjének.
+
+### 5. §
+
+(1) A rendvédelmi igazgatási szolgálati jogviszonyban álló foglalkoztatott (a továbbiakban: rendvédelmi alkalmazott) esetében a 2–4. §-t a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) A rendvédelmi alkalmazott esetében a kifogástalan életvitel ellenőrzést a kijelölt szerv a rendvédelmi feladatokat ellátó szerv szervezeti egysége vezetőjének (a munkáltatói jogkör gyakorlójának) megkeresése alapján végzi.
+
+(3) A rendvédelmi alkalmazott esetében a megkeresés a 2. § (3) bekezdés a) és c) pontja szerinti dokumentumokat tartalmazza azzal az eltéréssel, hogy a 2. § (3) bekezdés a) pont ac) alpontja és a 2. § (3) bekezdés c) pont ca) alpontja szerinti szolgálati beosztáson a munkakört kell érteni.
+
+(4) A kifogástalan életvitel ellenőrzést meg kell szüntetni, ha
+
+a) a rendvédelmi alkalmazott rendvédelmi igazgatási szolgálati jogviszonya megszűnik,
+
+b) a kezdeményezésére jogosult a kérelmét visszavonta.
+
+(5) A rendvédelmi alkalmazott esetében a 2. § (3) bekezdés b) és d) pontja, a 2. § (7) bekezdése és a 3. § (2) bekezdése nem alkalmazható.
+
+### 5/A. §[^11]
+
+(1) Az iskolaőrök esetében a 2–4. §-ban foglalt rendelkezéseket a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) Az iskolaőr kifogástalan életvitel ellenőrzését a munkáltatói jogkör gyakorlója kezdeményezi.
+
+(3) Az iskolaőr esetében a megkeresés a 2. § (3) bekezdés a) és c) pontja szerinti dokumentumokat tartalmazza azzal az eltéréssel, hogy a 2. § (3) bekezdés a) pont ac) alpontja és a 2. § (3) bekezdés c) pont ca) alpontja szerinti szolgálati beosztáson a munkakört kell érteni.
+
+(4) A kifogástalan életvitel ellenőrzést meg kell szüntetni abban az esetben, ha
+
+a) a jelentkező a jelentkezését visszavonta,
+
+b) az iskolaőr munkaviszonya megszűnik, vagy
+
+c) a kezdeményezésére jogosult a kérelmét visszavonta.
+
+(5) Az iskolaőr esetében a 2. § (3) bekezdés b) és d) pontja, a 2. § (7) bekezdése, valamint a 3. § (2) bekezdése nem alkalmazható.
+
+### 6. §
+
+(1) A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben (a továbbiakban: NAV Szj. tv.) meghatározott kifogástalan életvitel ellenőrzésére a 2–4. §-t kell alkalmazni a (2) és (3) bekezdésben meghatározott eltérésekkel.
+
+(2) A NAV Szj. tv.-ben meghatározott kifogástalan életvitel ellenőrzését a kijelölt szerv a munkáltatói jogkör gyakorlójának megkeresése alapján végzi.
+
+(3) A (2) bekezdés szerinti megkeresés tartalmazza
+
+a) a pénzügyőri állományba jelentkező
+
+aa) által kitöltött – a NAV Szj. tv. 2. melléklete szerinti – adatlapot, a pénzügyőri állományba jelentkezőnek és a vele közös háztartásban élőknek a NAV Szj. tv. 3. melléklete szerinti nyilatkozatát,
+
+ab) önéletrajzát, valamint
+
+ac) tervezett munkakörét;
+
+b) a pénzügyőr
+
+ba) jelenlegi vagy tervezett munkakörét,
+
+bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét, valamint
+
+bc) a pénzügyőr által, a pénzügyőri állományba jelentkezéskor kitöltött – a NAV Szj. tv. 2. melléklete szerinti – adatlapot, ha az rendelkezésre áll; és
+
+c) a pénzügyőr tisztjelölt
+
+ca) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét,
+
+cb) által a rendvédelmi oktatási intézménybe jelentkezéskor kitöltött – a NAV Szj. tv. 2. melléklete szerinti – adatlapot, ha az rendelkezésre áll.
+
+### 6/A. §[^12]
+
+(1) A gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott kifogástalan életvitel ellenőrzésére a 2–4. §-t a (2)–(4) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A kifogástalan életvitel ellenőrzését a kijelölt szerv pályázó esetén a kinevezési, megbízási jogkör gyakorlója, foglalkoztatott esetén a munkáltatói jogkör gyakorlójának megkeresése alapján végzi.
+
+(3) A (2) bekezdés szerinti megkeresés tartalmazza
+
+a) a pályázó
+
+aa) által kitöltött, a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 2. melléklete szerinti adatlapot és a vele közös háztartásban élőnek a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 3. melléklete szerinti nyilatkozatát,
+
+ab) önéletrajzát, valamint
+
+ac) tervezett munkakörét;
+
+b) a foglalkoztatott
+
+ba) jelenlegi vagy tervezett beosztását,
+
+bb) korábbi kifogástalan életvitel ellenőrzése időpontját és annak eredményét, valamint
+
+bc) a foglalkoztatott által, a pályázat benyújtásakor kitöltött adatlapot, ha az rendelkezésre áll.
+
+(4) A kifogástalan életvitel ellenőrzését meg kell szüntetni, ha
+
+a) a pályázó a foglalkoztatási jogviszony létesítésétől eláll,
+
+b) a foglalkoztatott foglalkoztatási jogviszonya megszűnik, vagy
+
+c) a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta.
+
+## 2. A megbízhatósági vizsgálat végrehajtására vonatkozó szabályok
+
+### 7. §
+
+A Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.), valamint az Nbtv. szerinti megbízhatósági vizsgálatot (a továbbiakban együtt: vizsgálat) az e rendeletben meghatározott szabályok szerint kell végezni.
+
+### 8. §
+
+A vizsgálatot elrendelő határozat tartalmazza
+
+a) a vizsgálattal érintett szerv
+
+aa) vizsgálat alá vont tagja vagy tagjai személyazonosító adatait és szolgálati vagy munkavégzési helyét, vagy
+
+ab) valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagját foglalkoztató szervezeti egység pontos megnevezését,
+
+b) a vizsgálat kezdő és befejező időpontját – év, hónap, nap megjelöléssel –,
+
+c) az elrendelés évében lefolytatott korábbi ellenőrzés időpontját és időtartamát
+
+ca) az a) pont aa) alpontja esetében a vizsgálattal érintett szerv vizsgálat alá vont tagja vagy tagjai tekintetében,
+
+cb) az a) pont ab) alpontja esetében a foglalkoztató szervezeti egység azon tagja tekintetében, akivel szemben az Rtv. 7/A. § (4) bekezdése vagy az Nbtv. 9/A. § (6) bekezdése szerint vizsgálat az elrendelés évében nem folytatható, és
+
+d) a titkos információgyűjtés során alkalmazni kívánt eszköz megjelölését.
+
+### 9. §
+
+(1) A vizsgálat végrehajtásról szóló részletes terv tartalmazza
+
+a) a vizsgálattal érintett szerv
+
+aa) vizsgálat alá vont tagja nevét, szervezeti egységének megnevezését, szolgálati beosztását, illetve munkakörét, álláshelyhez tartozó feladatkörét, vagy
+
+ab) valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagját foglalkoztató szervezeti egység pontos megnevezését,
+
+b) a vizsgálat végrehajtásának indokát,
+
+c) a titkos információgyűjtés során alkalmazni kívánt eszköz megjelölését és módszer részletes leírását,
+
+d) a kialakítani tervezett élethelyzet leírását a tényállás és a helyszín részletes bemutatásával,
+
+e)[^13] a vizsgálat tervezett helyét – út, útvonal szakasz, kerület, városrész, város, település, járőr útvonala, megye, hivatalos helyiség, jármű –, időpontját,
+
+f) a vizsgálatot végzők nevét és rendfokozatát,
+
+g) a vizsgálatot végzők részletes feladatait,
+
+h) a végrehajtás dokumentálásának módját és
+
+i) a vizsgálat befejezését követő tájékoztatás érdekében a vizsgálattal érintett személyek felett munkáltatói jogkört gyakorló személyek nevét, beosztását.
+
+(2) Ha a vizsgálat során alkalmazott módszerként a vizsgálatot végző személy bűncselekmény vagy szabálysértés elkövetését tervezi, a részletes terv tartalmazza
+
+a) a bűncselekmény vagy szabálysértés megjelölését,
+
+b) a bűncselekmény vagy szabálysértés elkövetését megalapozó, előrelátható indokokat, és
+
+c) a bűncselekmény vagy a szabálysértés elkövetési magatartásának részletes leírását.
+
+(3) Ha a törvényben meghatározottak szerint a vizsgálat során a vizsgálat technikai eszközök segítségével történő rögzítésére kerül sor, akkor a részletes terv az (1) bekezdésben foglaltakon túl tartalmazza a rögzítésre vonatkozó utalást, a helyszín vagy jármű leírását, körülhatárolását vagy pontos megjelölését.
+
+(4) A technikai eszközzel történő rögzítés során törekedni kell arra, hogy a vizsgálat célja szempontjából érdektelen adat, valamint az ügyben nem érintett személy adatai ne kerüljenek rögzítésre.
+
+(5) A rögzített adat kísérőjegyzékének tartalmaznia kell az ügyirat számát, a vizsgálat célját, a vizsgálattal érintett nevét, vagy a vizsgálattal érintett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagját foglalkoztató szervezeti egység pontos megnevezését, továbbá a helyszín és időpont megjelölését.
+
+### 10. §
+
+(1) A vizsgálat érdekében kialakítandó élethelyzetnek olyannak kell lennie, hogy az a vizsgálattal érintett személy intézkedési, eljárási kötelezettségét vonja maga után. A kialakított élethelyzet nem korlátozhatja a vizsgálattal érintett személy döntési szabadságát az intézkedés módjának, az eljárás rendjének megválasztásában.
+
+(2) A vizsgálat helyszínének és módszerének megválasztása nem akadályozhatja a vizsgálattal érintett személy kötelezettségeinek, feladatainak teljesítését.
+
+(3) A vizsgálat módja nem járhat a vizsgálat alá vont személy megalázásával, becsületének, jó hírnevének sérelmével, a vizsgálat alá vont személy továbbá mások életének, testi épségének veszélyeztetésével.
+
+(4) A vizsgálat nem veszélyeztetheti más hatóság eljárását.
+
+### 11. §
+
+(1) Ha a vizsgálat végrehajtásáról szóló részletes tervben szereplő mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, az eljárást megszüntető határozat tartalmazza
+
+a) vizsgálattal érintett szerv
+
+aa) vizsgálat alá vont tagja vagy tagjai személyazonosító adatait és szolgálati helyét, vagy
+
+ab) a vizsgálattal érintett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagját foglalkoztató szervezeti egység pontos megnevezését,
+
+b) a vizsgálat kezdő és befejező időpontját – év, hónap, nap megjelöléssel – és
+
+c) a megszüntetésre okot adó körülmény leírását.
+
+(2) Az eljárás megszüntetéséről vagy befejezéséről a vizsgálattal érintett szerv vizsgálat alá vont tagja részére tájékoztatást kell küldeni, amely az eljárás megszüntetésének a tényét, valamint a vizsgálat kezdő és befejező időpontját év, hónap, nap megjelöléssel tartalmazza.
+
+(3) Ha a vizsgálat elrendelésére a vizsgálattal érintett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagjával szemben került sor, az eljárás megszüntetéséről szóló határozat csak az érintett szervezeti egység pontos megnevezését és a vizsgálat kezdő és befejező időpontját tartalmazza.
+
+(4) A (3) bekezdés szerinti eljárás megszüntetésről a tájékoztatást az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorló részére kell a (2) bekezdés szerinti tartalommal megküldeni. A vizsgálattal érintett állománycsoport tagjai számára a tájékoztatást az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorló hirdeti ki.
+
+(5) Az eljárás megszüntetéséről szóló határozatot a (2) vagy a (3) bekezdés szerinti tájékoztatással egyidejűleg meg kell küldeni az elrendelést jóváhagyó ügyész számára.
+
+### 12. §
+
+(1) A 8. § a) pont ab) alpontja szerint elrendelt vizsgálatot végző személy a részletes tervben szereplő mesterséges élethelyzet kialakítását megelőzően köteles vizsgálni, hogy az ügyész által jóváhagyott részletes tervben meghatározott helyszínen és időpontban a megjelölt szervezeti egység olyan tagja teljesít-e szolgálatot vagy lát-e el feladatot, akivel szemben az Rtv. 7/A. § (4) bekezdésében vagy az Nbtv. 9/A. § (6) bekezdésében foglaltak szerint vizsgálat az elrendelés évében még folytatható. Ha a vizsgálatot végző személy az előzetes vizsgálat során megállapítja, hogy a vizsgálat olyan személyt érint, akivel szemben az Rtv. 7/A. § (4) bekezdése vagy az Nbtv. 9/A. § (6) bekezdése szerint az adott évben vizsgálat már nem folytatható, a vizsgálatot nem kezdi meg.
+
+(2) Az (1) bekezdésben foglaltak esetén a 11. §-t kell megfelelően alkalmazni.
+
+### 13. §
+
+Ha a vizsgálat határidejének meghosszabbítására kerül sor, a vizsgálat határidejének meghosszabbításáról szóló határozat tartalmazza azokat a körülményeket, amelyek a vizsgálat határidejének meghosszabbítását indokolják, valamint a vizsgálat meghosszabbított határidejét.
+
+### 14. §
+
+Ha a vizsgálattal érintett szerv tagjának foglalkoztatási jogviszonya a vizsgálat ideje alatt bármilyen okból megszűnik, a vizsgálatot határozattal be kell fejezni.
+
+### 15. §
+
+A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szervek azon körét, melynek foglalkoztatottjai nem vonhatóak vizsgálat alá, az 1. melléklet határozza meg.
+
+## 3. Záró rendelkezések
+
+### 16. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 194/2022. (V. 27.) Korm. rendelethez
+
+**A Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó azon költségvetési szervek, amelyek foglalkoztatottjai nem vonhatóak megbízhatósági vizsgálat alá**
+
+1\. Nemzetstratégiai Kutatóintézet
+
+2\. Mádl Ferenc Összehasonlító Jogi Intézet
+
+3\. Felsőbbfokú Tanulmányok Intézete
+
+4\. Nemzeti Örökség Intézete
+
+5\. Magyar Mezőgazdasági Múzeum és Könyvtár
+
+6\. Rendszerváltás Történetét Kutató Intézet és Archívum
+
+7\. VERITAS Történetkutató Intézet és Levéltár
+
+8\. Magyarságkutató Intézet
+
+9\. Hagyományok Háza
+
+10\. Országos Idegennyelvű Könyvtár
+
+11\. múzeumok
+
+12\. Kopp Mária Intézet a Népesedésért és a Családokért
+
+13\. a Nemzeti Közszolgálati Egyetem kivételével a felsőoktatási intézmények
+
+---
+
+[^1]: Az 1. § záró szövegrésze a 193/2024. (VII. 8.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 436/2025. (XII. 23.) Korm. rendelet 47. §-a, a 207/2026. (IX. 21.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. § c) pontját a 193/2024. (VII. 8.) Korm. rendelet 7. §-a iktatta be.
+[^4]: A 2. § (1) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontját az 569/2022. (XII. 23.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^6]: A 2. § (3) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 46. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (8) bekezdését a 436/2025. (XII. 23.) Korm. rendelet 46. §-a iktatta be.
+[^8]: A 3. § (2) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (2) bekezdés e) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (2) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^11]: Az 5/A. §-t a 479/2024. (XII. 31.) Korm. rendelet 70. §-a iktatta be.
+[^12]: A 6/A. §-t a 193/2024. (VII. 8.) Korm. rendelet 8. §-a iktatta be.
+[^13]: A 9. § (1) bekezdés e) pontja a 263/2026. (X. 6.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -1,0 +1,128 @@
+---
+title: "541/2020. (XII. 2.) Korm. rendelet a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerekről"
+identifier: "541/2020. (XII. 2.) Korm. rendelet"
+njt_id: "2020-541-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/541"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-02
+in_force_from: 2020-12-04
+last_amended: 2024-09-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-541-20-22"
+retrieved: 2026-10-12
+---
+
+# 541/2020. (XII. 2.) Korm. rendelet a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerekről
+
+A Kormány
+
+az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. § (1) bekezdés t) pontjában kapott felhatalmazás alapján,
+
+a 9. § tekintetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. § (1) bekezdés c) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet hatálya a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti bizalmi szolgáltatóra és a bizalmi szolgáltatási ügyfélre (a továbbiakban: ügyfél) terjed ki.
+
+## 2. A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerek
+
+### 2. §[^2]
+
+A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszer
+
+a) az elektronikus hírközlő eszköz útján történő távoli azonosítás (a továbbiakban: távoli azonosítás),
+
+b) a tárolóelemmel rendelkező személyazonosító igazolvány használatával történő azonosítás (a továbbiakban: eID azonosítás), valamint
+
+c) a Dáptv. szerinti keretszolgáltatások igénybevétele esetén a Dáptv. szerinti eAzonosítás.
+
+## 3.[^3] Távoli azonosítás
+
+### 3. §
+
+(1) Távoli azonosítás esetén a bizalmi szolgáltató az élő videóképes telekommunikációs kapcsolat során rögzíti az ügyfél arcképmását, a közhiteles nyilvántartásban ellenőrzi az ügyfél által a távoli azonosítás során használt érvényes személyazonosság igazolására alkalmas okmányról (a továbbiakban: okmány) vagy az okmány tárolóeleméből kiolvasott adatokat, majd az ügyfél rögzített arcképmását összeveti az okmányon vagy az okmány tárolóelemében szereplő arcképmással. Az azonosítás akkor sikeres, ha egyértelműen megállapítható, hogy az okmányban szereplő személy azonos az ügyféllel.
+
+(2) A bizalmi szolgáltató a szolgáltatási szabályzatában meghatározza a távoli azonosítás igénybevételének feltételeit, különösen a videókapcsolat minőségének minimális követelményeit. A bizalmi szolgáltató biztosítja, hogy az ügyfél a távoli azonosítás feltételeit és a szolgáltatási szabályzat tartalmát megismerhesse, és rögzíti, hogy az ügyfél a szolgáltatási szabályzat szerinti távoli azonosításhoz kifejezetten hozzájárult. Az ügyfél hozzájárulása elektronikusan is megtehető, amennyiben ennek tényét a bizalmi szolgáltató visszakereshető módon tárolja.
+
+(3) A sikeres távoli azonosítás feltétele, hogy a távoli azonosítást lehetővé tévő elektronikus hírközlő eszköz képfelbontása és a kép megvilágítása alkalmas legyen az ügyfél nemének, korának, arcjellemzőinek felismerésére, valamint az ügyfél
+
+a) úgy nézzen bele a kamerába, hogy arcképmása felismerhető, rögzíthető legyen, és azonosítható legyen az általa bemutatott okmányon látható arcképmása alapján,
+
+b) úgy mutassa az okmányát, hogy az azon található biztonsági elemek és adatsorok felismerhetőek, rögzíthetőek és ellenőrizhetőek legyenek,
+
+c) okmányán megtalálható adatok megfeleltethetők az ügyfélről a bizalmi szolgáltatónál rendelkezésre álló adatokkal, és
+
+d) arcképmása alapján az okmányon, vagy amennyiben az ügyfél által használt elektronikus hírközlő eszköz esetében a szükséges technikai feltételek rendelkezésre állnak, a tárolóelemében szereplő arcképmással azonosítható.
+
+(4) Az okmányon szereplő arcképmás a távoli azonosítás során az okmány bemutatásakor rögzíthető vagy kiolvasható az okmány tárolóeleméből.
+
+(5)[^4] A Dáptv. 63. §-a szerinti személyazonosítás esetén az (1) bekezdés szerinti arcképazonosság akkor is megállapítható, ha az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott személyazonosság-ellenőrzés sikeresen megtörtént.
+
+(6) A távoli azonosítást végző bizalmi szolgáltató köteles megbizonyosodni arról, hogy a telekommunikációs kapcsolat útján rögzített arcképmás élő személyről készült, az ügyfél arcképmása nem manipulált vagy mesterségesen generált, valamint az okmány érvényes és a távoli azonosítás elvégzésére alkalmas, így az okmány eredeti, sérülésmentes, és az ellenőrzött, felismerhető és sérülésmentes biztonsági elemek és okmányjellemzők alapján hamisított volta nem állapítható meg.
+
+(7) Az (1) bekezdés szerinti élő telekommunikációs kapcsolatnak megfelel az is, ha az e §-ban foglalt feltételek vizsgálatát a bizalmi szolgáltató gépi úton vagy a telekommunikációs kapcsolat megszűnését követően végzi el, de meggyőződik arról, hogy az ügyfél az azonosítás során élő kapcsolatban van.
+
+(8) Nincs helye szerződéskötésnek vagy a tanúsítvány kibocsátásának, ha a távoli azonosítás az e §-ban foglaltaknak nem felelt meg, és az ügyfél által megadott és bemutatott adatok közhiteles nyilvántartásban történő egyezőségének vizsgálata eredménytelen. Ebben az esetben a szolgáltató jogosult felajánlani az ügyfélnek a személyes jelenléttel történő azonosítást.
+
+## 4.[^5] eID azonosítás
+
+### 4. §
+
+(1)[^6] Az eID azonosítás esetében a bizalmi szolgáltató által biztosított informatikai rendszer lehetővé teszi, hogy az ügyfél a bizalmi szolgáltató előtt önmagát a tárolóelemet tartalmazó személyazonosító igazolvány útján biztosított elektronikus azonosítási szolgáltatással azonosítsa.
+
+(2)[^7] A bizalmi szolgáltató az azonosításhoz szükséges támogató szolgáltatásokat a Dáptv. és végrehajtási rendelete szerinti piaci szereplőként veszi igénybe.
+
+(3) A bizalmi szolgáltató az (1) bekezdés szerinti szolgáltatásokat a központi azonosítási ügynök szolgáltatás útján vagy önállóan is igénybe veheti.
+
+## 5. Közös szabályok
+
+### 5. §[^8]
+
+Az e rendelet szerinti azonosítási módszerek esetén az azonosítást követően vagy azzal egyidejűleg a bizalmi szolgáltató a Dáptv. 85. § (3)–(9) bekezdése szerint jár el azzal, hogy a 2. § szerinti azonosítást személyes jelenléttel egyenértékű azonosításnak kell tekinteni.
+
+### 6. §
+
+(1) Az e rendelet szerinti azonosítási módszerek esetén a bizalmi szolgáltató és az ügyfél közötti szerződésben meghatározott részletszabályok szerint
+
+a) a minősített tanúsítvány elektronikusan továbbítható, valamint
+
+b) az aláíró hozzáférési jogosultságát ellenőrző adat és a minősített aláírást vagy bélyegzőt létrehozó eszköz az ügyfél részére megküldhető.
+
+(2) Az (1) bekezdés b) pontja esetében a bizalmi szolgáltató felelőssége annak biztosítása, hogy
+
+a) a küldés kizárólag az ügyfél személyéhez kerüljön kézbesítésre, a küldeményt az ügyfél nevében más ne vehesse át, valamint
+
+b) az aláíró hozzáférési jogosultságát ellenőrző adat és a minősített aláírást vagy bélyegzőt létrehozó eszköz külön küldeményként kerüljön megküldésre.
+
+## 6. Záró rendelkezések
+
+### 7. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2020. december 4-én lép hatályba.
+
+(2) A 4. § (1) bekezdés b) pontja 2021. február 1. napján lép hatályba.
+
+### 8. §
+
+Ez a rendelet a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet III. fejezetének végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 9. §
+
+Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 68/A. § (2a) bekezdésében az „a központi azonosítási ügynök KEÜSZ szolgáltatást” szövegrész helyébe az „a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök KEÜSZ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást” szöveg lép.
+
+---
+
+[^1]: Az 1. § a 113/2024. (V. 14.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a 138/2024. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. alcím (3. §) a 113/2024. (V. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^4]: A 3. § (5) bekezdése a 113/2024. (V. 14.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^5]: A 4. alcím címe a 113/2024. (V. 14.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 138/2024. (VI. 28.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (2) bekezdése a 113/2024. (V. 14.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^8]: Az 5. § a 113/2024. (V. 14.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.

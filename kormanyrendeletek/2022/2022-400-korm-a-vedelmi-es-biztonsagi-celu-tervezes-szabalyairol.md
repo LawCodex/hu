@@ -1,0 +1,336 @@
+---
+title: "400/2022. (X. 21.) Korm. rendelet a védelmi és biztonsági célú tervezés szabályairól"
+identifier: "400/2022. (X. 21.) Korm. rendelet"
+njt_id: "2022-400-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/400"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-10-21
+in_force_from: 2022-11-01
+last_amended: 2024-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-400-20-22"
+retrieved: 2026-10-12
+---
+
+# 400/2022. (X. 21.) Korm. rendelet a védelmi és biztonsági célú tervezés szabályairól
+
+A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *elemzés:* a védelmi és biztonsági tervdokumentum adattartalmának, a terv által elért eredménynek, valamint a tervkészítés folyamatának vizsgálata, amelynek célja, hogy feltárja és bemutassa azokat a körülményeket, amelyek befolyásolják a tervben meghatározott cél elérését, a vezetés döntésének előkészítését, a megtett intézkedés végrehajtását, valamint különböző értékelések elvégzéséhez adat szolgáltatása,
+
+2\. *értékelés:* a védelmi és biztonsági tervdokumentumban rögzített cél összevetése a megvalósítás eredményével, feltárva a nem teljesült cél és nem várt hatás kockázatát, következményét, valamint javaslat megfogalmazása a probléma kiküszöbölésére és a negatív következmény elhárítására,
+
+3\. *felülvizsgálat:* a nyomon követés vagy a közbenső értékelés során keletkező adat és információ elemzése a terv végrehajtásába történő beavatkozás szükséges mértékének meghatározása vagy a megvalósítás alatt álló védelmi és biztonsági tervdokumentum módosítása érdekében,
+
+4\. *hosszú* *táv:* tíz évet meghaladó időtartam,
+
+5\. *közbenső* *értékelés:* a védelmi és biztonsági tervdokumentum megvalósítása során annak vizsgálata, hogy az időarányos megvalósítás hogyan viszonyul a tervdokumentumban foglalt célhoz, bemutatva a nem teljesült célt, a nem várt hatást, annak okát és a javaslatot, amelyek elősegítik az eredeti cél elérését és megvalósítását,
+
+6\. *nyomon* *követés:* az elfogadott védelmi és biztonsági tervdokumentumban foglalt cél, továbbá feladat előírt, eljárás szerint és határidőben történő megvalósítására vonatkozó adat gyűjtése és elemzése,
+
+7\. *Ország* *Összehangolt* *Védelmi* *Terve:* a Magyarországot fenyegető védelmi és biztonsági kihívással összefüggésben szükséges koordinált védelmi tevékenységet, eljárást és együttműködési feladatot meghatározó minősített tervdokumentum,
+
+8\. *részelemzés:* a védelmi és biztonsági tervdokumentum meghatározott részadattartalmának, a terv által elért részeredménynek, valamint a tervkészítés folyamata meghatározott részének vizsgálata, amelynek célja, hogy feltárja és bemutassa azokat a körülményeket, amelyek befolyásolják a tervfolyamat vizsgált részében meghatározott cél elérését, a vezetés döntésének előkészítését, a megtett intézkedés végrehajtását, valamint különböző részértékelések elvégzéséhez adat szolgáltatása,
+
+9\. *tervidőszak:* az az időtartam, amelyre az adott terv vonatkozik,
+
+10\. *utólagos* *értékelés:* a védelmi és biztonsági tervdokumentum megvalósítását követően annak vizsgálata, hogy a megvalósítás hogyan viszonyul a tervdokumentumban foglalt célhoz, bemutatva a nem teljesült célt, a nem várt hatást, annak kockázatait, okait és a tapasztalatok becsatornázását a tervezési folyamatba,
+
+11\. *védelmi* *és* *biztonsági* *tervdokumentum:* a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) 22. § (1) bekezdése szerinti tervdokumentum,
+
+12\. *védelmi* *és* *biztonsági* *tervezés* *rendszere:* Magyarország védelmét és biztonságát szolgáló tervezési folyamatok összessége, amelynek keretein belül olyan tervdokumentumok készülnek, amelyek a Kormány iránymutatásain, az összkormányzati koordináción, valamint a biztonsági környezet folyamatos értékelésén alapulnak, és meghatározzák mindazon tevékenységeket, amelyek garantálják az ország védelmi és biztonsági eseményekre történő felkészülését és esetleges bekövetkezéskor azok kezelését.
+
+## 2. A védelmi és biztonsági tervezés alapelvei, valamint a tervezés folyamata
+
+### 2. §
+
+(1) A védelmi és biztonsági tervezés feladatának végrehajtásával kell megvalósítani a magyar nemzet védelme, biztonságának fenntartása és fejlesztése célkitűzéseit.
+
+(2) A védelmi és biztonsági tervdokumentumnak összhangban kell lennie a védelemmel és biztonsággal kapcsolatos kormányzati intézkedésekkel.
+
+(3) A védelmi és biztonsági tervdokumentum kidolgozásának, végrehajtásának, nyomon követésének, valamint felülvizsgálatának az e rendeletben meghatározott időközönként történő, illetve a biztonsági környezet változásai által eredményezett, ismétlődő műveletnek kell lennie.
+
+(4) A védelmi és biztonsági tervdokumentumok kialakításával, tartalmával biztosítani kell az egymásra épülő tervek összhangját.
+
+(5) A védelmi és biztonsági tervdokumentumnak és megvalósításának illeszkednie kell az összkormányzati célkitűzésekhez.
+
+(6) A védelmi és biztonsági tervezést – a minősített adatok védelme elsőbbségének biztosítása mellett – egyszerű és átlátható folyamatok mentén kell kialakítani és végezni.
+
+(7) A védelmi és biztonsági tervdokumentumokban feladat akkor írható elő, ha az
+
+a) az ország biztonsági érdekeit szolgálja, és társadalmi, valamint gazdasági szempontból fenntartható,
+
+b) támogatja az összkormányzati célkitűzéseket, reálisan megvalósítható, a megvalósításhoz szükséges erőforrás elérhető, és
+
+c) összhangban van a szakterületi tervezés egyéb dokumentumával.
+
+### 3. §
+
+A védelmi és biztonsági tervezésben az alábbi szervek vesznek részt:
+
+a) a Biztonság- és Védelempolitika Alapelveinek kidolgozásában a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezet és a Vbö. 49. § (1) bekezdés a) pontja szerinti szerv,
+
+b) a Nemzeti Biztonsági Stratégia és az Integrált Védelmi és Biztonsági Iránymutatás kidolgozásában a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezet és a Vbö. 49. § (1) bekezdés a), d), e), g), i) és j) pontja szerinti szerv, intézmény,
+
+c) az Ország Összehangolt Védelmi Terve kidolgozásában a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezet és a Vbö. 49. § (1) bekezdés a) pontja szerinti szerv,
+
+d) a Védelmi és Biztonsági Alapterv és a Védelmi és Biztonsági Intézkedési Terv kidolgozásában a Vbö. 49. § (1) bekezdés a) pontja szerinti szerv,
+
+e) az intézkedési terv kidolgozásában a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezet és a Vbö. 49. § (1) bekezdése szerinti szervezet.
+
+### 4. §
+
+(1) A védelmi és biztonsági tervezés folyamata egymásra épülő, egymást támogató, adatokkal ellátó folyamatok és tevékenységek összessége.
+
+(2) A tervezési folyamat a védelmi és biztonsági dokumentumok hierarchiáját követve négy fő tervezési fázisból áll:
+
+a) a Biztonság- és Védelempolitika Alapelveinek összeállítása,
+
+b) a Nemzeti Biztonsági Stratégia összeállítása,
+
+c) az Integrált Védelmi és Biztonsági Iránymutatás kidolgozása, valamint
+
+d) az ország egészére vonatkozó, ágazatspecifikus, végrehajtásra irányuló stratégiák, alaptervek, illetve intézkedési tervek kidolgozása.
+
+### 5. §
+
+(1) A védelmi és biztonsági tervdokumentum összeállításáért felelős szerv a tervdokumentum kidolgozásába bevonja az érintett állami és e rendelet hatálya alá tartozó más szervet.
+
+(2) A védelmi és biztonsági tervdokumentum összeállítása során a tervezet véleményezésére legalább 30 napot, a terv végső tervezetének véleményezésére legalább 15 napot kell biztosítani.
+
+## 3. A nyomon követés és értékelés
+
+### 6. §
+
+(1) A védelmi és biztonsági tervdokumentum végrehajtási fázisában a cél elérése érdekében gondoskodni kell a terv nyomon követéséről, a tervezett feladat eredményének elemzéséről, részelemzéséről, értékeléséről és a rendszeres felülvizsgálatáról.
+
+(2) A nyomon követés, a megvalósulás értékelése, valamint a védelmi és biztonsági tervdokumentum felülvizsgálata az annak kidolgozásáért felelős feladata.
+
+(3) A nyomon követés és megvalósulás értékelésének főbb megállapításait tartalmazó beszámolót a védelmi és biztonsági tervdokumentum kidolgozásáért felelős évente a tárgyévet követő év március 15-ig küldi meg a védelmi és biztonsági igazgatás központi szerve vezetője részére. A megállapításokat a Vbö. 46. § (4) bekezdése szerinti beszámolóban is rögzíteni kell.
+
+(4)[^1] A (3) bekezdés szerinti megállapításokra figyelemmel, vagy ha a soron kívüli beszámoló, illetve a közbenső vagy utólagos értékelés tartalma azt indokolttá teszi, a védelmi és biztonsági igazgatás központi szerve vezetője a miniszterelnök nemzetbiztonsági főtanácsadója útján intézkedésre vonatkozó javaslatot tehet a Védelmi Tanács részére.
+
+### 7. §
+
+A védelmi és biztonsági tervezés tervdokumentumainak értékelése érdekében
+
+a) beszámoló,
+
+b) soron kívüli beszámoló,
+
+c) közbenső értékelés,
+
+d) utólagos értékelés, valamint
+
+e) összegzett jelentés
+
+kerülhet összeállításra.
+
+### 8. §
+
+(1) A beszámoló a védelmi és biztonsági tervdokumentumban tervezett feladat és cél elérésének, megvalósulásának vizsgálata, a fellépő problémák feltárása, kezelése, következmények, kockázatok felmérése, értékelése érdekében tartalmazza
+
+a) a védelmi és biztonsági tervdokumentumban meghatározott, elérni kívánt cél beszámolási időszakra vonatkozó állapotát,
+
+b) a tervben rögzítettekhez képest az elmaradást, annak okát vagy az előrehaladás mértékét,
+
+c) a következmény és a kockázat felmérését, értékelését, valamint
+
+d) az elmaradás és a kockázat kezelésére vonatkozó kiküszöbölési tervet.
+
+(2) A beszámolót a terv összeállításáért, kidolgozásáért felelős szerv vezetője hagyja jóvá.
+
+(3) A Kormány a védelmi és biztonsági tervdokumentum nyomon követése folyamatában soron kívüli beszámoló elkészítését is kérheti, amely tartalmi elemeiben megegyezik a beszámolóval.
+
+### 9. §
+
+(1) A Kormány folyamatos tájékoztatása érdekében a Vbö. 5. § 18. pontja szerinti védelmi és biztonsági szervezet, valamint a Vbö. 49. § (1) bekezdés a) pontja szerinti szerv a védelmi és biztonsági tervdokumentum megvalósításának közbenső értékelését évente kétszer hajtja végre, amelyek eredményéről minden év május 31-ig és november 15-ig tájékoztatót készít a védelmi és biztonsági igazgatás központi szerve vezetője részére.
+
+(2) A közbenső értékelésről szóló tájékoztatás tartalmi elemeiben megegyezik a beszámolóval.
+
+### 10. §
+
+A Kormány a védelmi és biztonsági tervdokumentum megvalósításának utólagos értékelését is kérheti, amelynek szempontjait a Kormány határozza meg.
+
+### 11. §[^2]
+
+A védelmi és biztonsági igazgatás központi szervének vezetője évente a Vbö. 46. § (4) bekezdése szerinti beszámolóval egyidejűleg összegzett jelentést állít össze a Kormány részére a védelmi és biztonsági tervezés rendszerében készült védelmi és biztonsági tervdokumentum végrehajtásáról, illetve az azonnali intézkedésre vonatkozó javaslatáról. A védelmi és biztonsági igazgatás központi szerve az összegzett jelentést a miniszterelnök nemzetbiztonsági főtanácsadója útján terjeszti elő.
+
+### 12. §
+
+(1) Ha a nyomon követést vagy az értékelést végző azt állapítja meg, hogy a végrehajtás időszakában a stratégiai tervdokumentumban kitűzött célok megvalósítása már nem érhető el, javaslatot tesz a stratégiai tervdokumentum felülvizsgálatára és módosítására.
+
+(2) Ha egy védelmi és biztonsági tervdokumentum felülvizsgálatra kerül, és ennek folytán érdemben módosul, a nyomon követést végző javaslatot tesz a módosuló védelmi és biztonsági tervdokumentumhoz kapcsolódó más védelmi és biztonsági tervdokumentum felülvizsgálatára és módosítására.
+
+## 4. A védelmi és biztonsági tervező rendszerben készülő tervdokumentumra vonatkozó szabályok
+
+### 13. §
+
+(1) A Kormány a Biztonság- és Védelempolitika Alapelvei tervdokumentumra vonatkozó javaslatában az Országgyűlés részére megfogalmazza a Vbö. 22. § (3) bekezdésében foglaltakra vonatkozó javaslatát, így különösen:
+
+a) az ország és a nemzet biztonsági helyzetértékelése alapján elérendő, a védelemmel és biztonsággal kapcsolatos nemzeti tervezési célt,
+
+b) a tervezett időtávon belül azonosítja a Magyarországot érintő külső hatást és kockázatot, a belső kihívást és a fejlődés lehetséges irányát,
+
+c) rögzíti a védelmi és biztonsági felkészítés tervezésének stratégiai keretét,
+
+d) meghatározza a tervezésben részt vevő szervek, szervezetek együttműködésének alapelveit,
+
+e) meghatározza és értékeli a végrehajtás folyamatában lévő fejlesztési feladatot, illetve a kihívás alapján azonosítja a védelmi és biztonsági cél eléréséhez szükséges további fejlesztés irányát, valamint
+
+f) meghatározza a meglévő és elérendő képesség fenntartásával és működtetésével kapcsolatos ágazatokon átnyúló alapelveket.
+
+(2) A Biztonság- és Védelempolitika Alapelvei tervdokumentum tartalmára vonatkozó javaslatot az előkészítés során nyilvános véleményezésre kell bocsátani.
+
+(3) A Biztonság- és Védelempolitika Alapelvei tervdokumentumot a külpolitikáért felelős miniszter készíti elő, aki szükség esetén, de legalább négyévente javaslatot tesz a Kormány részére annak felülvizsgálatára.
+
+### 14. §
+
+(1) A Nemzeti Biztonsági Stratégia értékeli és meghatározza
+
+a) a Vbö. 22. § (4) bekezdés a) pontja tekintetében különösen
+
+aa) Magyarország alapvető adottságait,
+
+ab) Magyarország biztonsági érdekeit,
+
+b) a Vbö. 22. § (4) bekezdés b) és c) pontja tekintetében különösen
+
+ba) Magyarország biztonsági környezetét, általános biztonsági helyzetét,
+
+bb) a védelemmel és biztonsággal összefüggő stratégiai célokat,
+
+bc) a védelmi és biztonsági képesség fejlesztésével megcélzott védendő értéket,
+
+bd) az ország védelmi és biztonsági helyzetét meghatározó biztonsági kihívást, kockázatot, fenyegetést, valamint egy lehetséges válság jellemzőit,
+
+c) a Vbö. 22. § (4) bekezdés d) és e) pontja tekintetében különösen
+
+ca) Magyarország védelmét és biztonságát elősegítő főbb fejlesztési irányokat, valamint
+
+cb) mindazon, az a) és b) pont szerinti tevékenységhez kapcsolódó cselekvési irányt, feladatot és eszközt, amely szavatolja Magyarország védelmét és biztonságát.
+
+(2)[^3] A Nemzeti Biztonsági Stratégia kidolgozásának megkezdéséről a Védelmi Tanács határoz.
+
+(3) A Nemzeti Biztonsági Stratégiát a külpolitikáért felelős miniszter készíti elő.
+
+(4) A Nemzeti Biztonsági Stratégiát
+
+a) négyévente,
+
+b) a biztonsági helyzet változása miatt és
+
+c) a Biztonság- és Védelempolitika Alapelvei tervdokumentum módosítása, felülvizsgálata után
+
+felül kell vizsgálni.
+
+### 15. §
+
+(1) Az Integrált Védelmi és Biztonsági Iránymutatás meghatározza
+
+a) mindazon képességfejlesztési célt, amelyet Magyarország védelmi és biztonsági érdekeinek érvényesítése érdekében el kell érni a tervidőszakban,
+
+b) Magyarország védelmének megerősítését és biztonságának fenntartását támogató mindazon beavatkozási irányt, kockázatot és a végrehajtáshoz elengedhetetlen eszközt, amelyet figyelembe kell venni az ágazati védelmi és biztonsági tervezésnél,
+
+c) Magyarország védelmi és biztonsági céljai eléréséhez szükséges feladat végrehajtási fázisában együttműködő szervet, szervezetet és a feladat végrehajtásához szükséges koordináció kapcsán felmerülő illeszkedési pontot, valamint
+
+d) az azon ágazathoz kapcsolódó feladatot, amely végrehajtásával az ország eléri a védelem és biztonság megerősítése terén tervezett célt.
+
+(2) Az Integrált Védelmi és Biztonsági Iránymutatás előkészítéséhez az ágazatok irányításáért felelős miniszterek szakmai javaslatait a védelmi és biztonsági igazgatás központi szervének vezetője hangolja össze, és állítja össze az Integrált Védelmi és Biztonsági Iránymutatás tervezetét.
+
+(3) Az Integrált Védelmi és Biztonsági Iránymutatást
+
+a) kétévente és
+
+b) a Nemzeti Biztonsági Stratégia módosítását követően
+
+felül kell vizsgálni.
+
+### 16. §
+
+(1) Az Ország Összehangolt Védelmi Tervének összeállítását a Kormány határozatban rendeli el.
+
+(2)[^4] Az Ország Összehangolt Védelmi Terve az Integrált Védelmi és Biztonsági Iránymutatást, a Biztonság- és Védelempolitika Alapelveit, valamint a Nemzeti Biztonsági Stratégiát alapul véve, a Védelmi Tanács által meghatározott elvek mentén, az ágazatok által biztosított szakmai információkat figyelembe véve, hosszú távra készül, és forrásszükségletet nem tartalmaz.
+
+(3) Az Ország Összehangolt Védelmi Tervét a védelmi és biztonsági igazgatás központi szerve állítja össze az ágazatok irányításáért felelős miniszterek szakmai javaslatai figyelembevételével.
+
+(4) Az Ország Összehangolt Védelmi Tervét a Védelmi Tanács javaslata alapján a Kormány hagyja jóvá.
+
+(5) Az Ország Összehangolt Védelmi Tervét
+
+a) a tervrendszer felsőbb szintjén elhelyezkedő irányadó tervdokumentum változása, valamint
+
+b)[^5] a Védelmi Tanács döntése
+
+esetén felül kell vizsgálni.
+
+### 17. §
+
+(1) A Védelmi és Biztonsági Alapterv és a Védelmi és Biztonsági Intézkedési Terv összeállítását a szervezetet irányító miniszter normatív utasítással rendeli el.
+
+(2) A Védelmi és Biztonsági Alapterv tartalmazza
+
+a) a szervezetre vonatkozó védelmi és biztonsági tevékenységgel kapcsolatos fejlesztési, működési és fenntartási, együttműködéssel kapcsolatos célt és az ez alapján elvégzendő feladatot,
+
+b) a szervezet irányítása alá tartozó szerv védelmi és biztonsági célját,
+
+c) a védelmi és biztonsági tevékenységhez tervezett erőforrások elosztását,
+
+d) a forrásszükséglet pontos meghatározását és felhasználásának ütemezését,
+
+e) a teljesítéshez szükséges személyi, tárgyi, szakmai, anyagi és szervezeti feltételt,
+
+f) a feladat megvalósítására megállapított határidőt és felelőst, valamint
+
+g) a nyomon követés szervezeti feladatát.
+
+(3) A Védelmi és Biztonsági Alaptervet a szervezetet irányító miniszter hagyja jóvá.
+
+(4) A Védelmi és Biztonsági Alaptervet
+
+a) kétévente és
+
+b) az Integrált Védelmi és Biztonsági Iránymutatás tervdokumentum módosítását, felülvizsgálatát követően
+
+felül kell vizsgálni.
+
+(5) A Védelmi és Biztonsági Intézkedési Terv tartalmazza
+
+a) a szervezet védelmi és biztonsági eseménnyel összefüggő riasztási és értesítési tervét,
+
+b) a szervezet különleges jogrend időszaki sajátos működésére vonatkozó szabályt,
+
+c) a szervezet összehangolt védelmi tevékenység elrendelését követő sajátos működésére vonatkozó szabályt,
+
+d) a veszélyelhárítási tervet és
+
+e) a honvédelmi intézkedési tervet.
+
+(6) A Védelmi és Biztonsági Intézkedési Tervet az azt kidolgozó szervezet vezetője hagyja jóvá, és felel annak alkalmazhatóságáért.
+
+## 5. Záró rendelkezések
+
+### 18. §
+
+Ez a rendelet 2022. november 1-jén lép hatályba.
+
+### 19. §[^6]
+
+Az e rendelet hatálybalépését megelőzően kiadott védelmi és biztonsági tárgyú tervdokumentumot a Vbö. 22. § (1) bekezdés a)–d) pontja szerinti tervdokumentum hatálybalépéséig alkalmazni kell.
+
+---
+
+[^1]: A 6. § (4) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^2]: A 11. § a 217/2024. (VII. 31.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^3]: A 14. § (2) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^4]: A 16. § (2) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^5]: A 16. § (5) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^6]: A 19. § a 217/2024. (VII. 31.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,0 +1,349 @@
+---
+title: "240/2025. (VII. 31.) Korm. rendelet a helyi önazonosság védelméről szóló törvény jogvédelmi eszközeinek alkalmazására vonatkozó szabályokról"
+identifier: "240/2025. (VII. 31.) Korm. rendelet"
+njt_id: "2025-240-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/240"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-07-31
+in_force_from: 2025-08-01
+last_amended: 2025-08-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-240-20-22"
+retrieved: 2026-10-12
+---
+
+# 240/2025. (VII. 31.) Korm. rendelet a helyi önazonosság védelméről szóló törvény jogvédelmi eszközeinek alkalmazására vonatkozó szabályokról
+
+[1] A Kormány kiemelt célja, hogy az önkormányzatokat segítse abban, hogy a helyi közösségük szempontjából alapvető fontosságú helyi közügyekre, így kiemelten önazonosságuk megőrzésére, védelmére összpontosíthassanak, és ehhez megfelelő jogi eszközrendszerrel rendelkezzenek.
+
+[2] A helyi önazonosságot alkotó, védelemre érdemes értékek településenként eltérhetnek, de azonos települési célok és védendő értékek esetében is markánsan különböző lehet az, hogy a helyi közösséget képviselő önkormányzat milyen jogvédelmi eszköz vagy eszközök együttes vagy részleges alkalmazását igényli.
+
+[3] A jogvédelmi eszközök hatékony érvényesítéséhez ugyanakkor elengedhetetlen az önkormányzat és a Kormány irányítása alá tartozó közigazgatási szervek, így elsősorban a kormányhivatalok szabályozott feladatmegosztása és együttműködése.
+
+[4] A Kormány e rendelettel megalkotja azon szabályrendszert, amely rögzíti, hogy a helyi önkormányzatok mindenki számára megismerhetővé teszik a vonatkozó helyi rendeletüket, továbbá a betelepülni szándékozó személyek részére segítséget nyújtanak annak igazolásában, hogy számukra a betelepülés megengedett-e. A Kormány rögzíti azt is, hogy a fentiek érvényesítése a helyi önkormányzatok kötelezettsége, és egyben a területi államigazgatási szervek közreműködésének előfeltétele.
+
+[5] A Kormány rögzíti azokat a garanciális eljárási szabályokat, amelyek mentén az elővásárlási jog mint dologi jogvédelmi eszköz joghatályosan gyakorolható, rögzítve azt is, hogy az eljárás során átvett írásbeli jognyilatkozatok nem selejtezhetőek, és azok megőrzéséről helyben kell gondoskodni.
+
+[6] E rendelet meghatározza a mentességgel vagy kedvezménnyel összefüggő tények igazolásának módjára vagy formájára vonatkozó részletes szabályokat.
+
+[7] A Kormány a helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény 22. § (1) bekezdés a)–c) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — AZ ELŐVÁSÁRLÁSI JOG GYAKORLÁSÁRA VONATKOZÓ RÉSZLETES SZABÁLYOK
+
+### 1. Az adásvételi szerződés közlésének előkészítése
+
+#### 1. §
+
+(1) A helyi önazonosság védelméről szóló 2025. évi XLVIII. törvény (a továbbiakban: Hövtv.) szerinti dologi jogvédelmi eszköz hatálya alá tartozó ingatlan adásvétele esetén az adásvételi szerződés megkötésekor a Hövtv. 3. § a) pontja szerinti betelepülőnek minősülő vevő – ha mentesség alá esik – a Hövtv. 6. § (3) bekezdés b) vagy c) pontja szerinti eljárásban meghozott döntéssel, a Hövtv. 6. § (1) bekezdése, valamint (3) bekezdés a) pontja szerinti esetben pedig az ingatlan fekvése szerint illetékes települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: önkormányzat) jegyzője (a továbbiakban: jegyző) által kiállított hatósági bizonyítvánnyal igazolja a mentességét.
+
+(2) Ha a vevő mentességgel nem rendelkező betelepülő, e fejezet szerint kell eljárni.
+
+(3) A tulajdonos mint eladó (a továbbiakban: eladó) a jegyző részére a Hövtv. 9. § (1) bekezdésében előírt határidőn belül a Hövtv.-ben meghatározott, egységes okiratba foglalt adásvételi szerződéssel azonos tartalmú vételi ajánlat (a továbbiakban: adásvételi szerződés) közlése iránti kérelmet (a továbbiakban: kérelem) nyújt be arra vonatkozóan, hogy a jegyző az adásvételi szerződést
+
+a) a Hövtv. 8. § (1) bekezdés a) és b) pontjában meghatározott jogosultakkal közvetlenül,
+
+b) a Hövtv. 8. § (1) bekezdés c) pontjában meghatározott jogosultakkal a helyben szokásos módon hirdetményi úton
+
+közölje, valamint az elővásárlási jog gyakorlása érdekében szükséges további intézkedéseket tegye meg.
+
+(4) A (3) bekezdésben foglalt feladatok ellátásáért díj nem számítható fel.
+
+(5) A kérelem adattartalmát az 1. melléklet tartalmazza.
+
+(6) A kérelmet a jegyző részére
+
+a) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton vagy postai úton kell megküldeni, vagy
+
+b) személyesen kell benyújtani.
+
+(7) A helyi önkormányzatnak a Hövtv. 12. § (3) bekezdése és 22. § (2) bekezdés d) pontja szerinti rendelete a (6) bekezdésben meghatározottakon felül további benyújtási módot is meghatározhat.
+
+(8) A kérelemhez mellékelni kell az adásvételi szerződés egy eredeti példányát.
+
+#### 2. §
+
+Ha a kérelem vagy az adásvételi szerződés a közzétételhez szükséges adatokat nem tartalmazza, a jegyző az adásvételi szerződést a kérelmezőnek – a szükséges adatok megjelölésével – visszaküldi.
+
+#### 3. §
+
+A jegyző a hiánytalanul benyújtott kérelem beérkezését követő 8 napon belül az adásvételi szerződésen – az eladó nevén kívül – felismerhetetlenné tesz valamennyi természetes személyazonosító adatot, az aláírásokat és minden egyéb, egyedi azonosításra alkalmas adatot, valamint a hitelintézetekről és a pénzügyi vállalkozásokról 2013. évi CCXXXVII. törvény 6. § 40. pontjában meghatározott hitel és pénzkölcsön nyújtásával összefüggő adatot.
+
+### 2. A kérelem visszavonása
+
+#### 4. §
+
+(1) Az eladó a kérelmet az adásvételi szerződés kifüggesztéséig vonhatja vissza.
+
+(2) A visszavonás alapján a jegyző az adásvételi szerződést visszaküldi az eladó részére.
+
+(3) Ha a visszavonás az (1) bekezdésben foglalt intézkedést követően érkezik be a jegyzőhöz, a visszavonás iránti bejelentésnek joghatása nincs, az a szerződés közlésének hatályát nem szünteti meg.
+
+### 3. Az adásvételi szerződés közvetlen közlése
+
+#### 5. §
+
+(1) A jegyző a 3. § szerinti intézkedést követően az adásvételi szerződést haladéktalanul közli a Hövtv. 8. § (1) bekezdés a) pontja szerinti jogosulttal (a továbbiakban: önkormányzati elővásárlásra jogosult), és a 3. § szerinti intézkedést követő legkésőbb 8 napon belül azonosítja a Hövtv. 8. § (1) bekezdés b) pontja szerinti jogosultakat.
+
+(2) A jegyző az (1) bekezdés szerinti azonosítást követően haladéktalanul gondoskodik az adásvételi szerződés (1) bekezdés szerint azonosított, az ingatlannal telekhatáros ingatlan tulajdonosaival való közléséről, azzal a figyelemfelhívással, hogy az elővásárlási jog gyakorlására nyitva álló határidő jogvesztő.
+
+#### 6. §
+
+(1) A jegyző az önkormányzati elővásárlásra jogosulttal az adásvételi szerződést a kézbesítés megtörténtét igazoló módon közli.
+
+(2) A jegyző az (1) bekezdés szerinti közlést
+
+a) a polgármesteri hivatal vagy a közös önkormányzati hivatal kézbesítője útján,
+
+b) postai úton, hivatalos iratként történő kézbesítéssel vagy
+
+c) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott módon
+
+teljesíti.
+
+#### 7. §
+
+(1) Az adásvételi szerződést az ingatlannal telekhatáros ingatlan tulajdonosával postai úton hivatalos iratként, a tulajdoni lapon szereplő címre kell közölni.
+
+(2) Az adásvételi szerződést kézbesítettnek kell tekinteni, ha az adásvételi szerződés közlése
+
+a) nem lehetséges, mert az ingatlannal telekhatáros ingatlan tulajdonosának
+
+aa) személye bizonytalan, vagy
+
+ab) lakcíme, székhelye, telephelye, fióktelepe ismeretlen;
+
+b) meghiúsul, mert a postai küldemény
+
+ba) azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, vagy
+
+bb) azzal a jelzéssel érkezik vissza, hogy a címzett „elköltözött” vagy „ismeretlen”, a „kézbesítés akadályozott”, vagy
+
+bc) átvételét a címzett megtagadta.
+
+(3) A (2) bekezdés a) pont aa) alpontja alkalmazása szempontjából az ingatlannal telekhatáros ingatlan tulajdonosának személye akkor minősül bizonytalannak, ha
+
+a) azonosítása az ingatlan-nyilvántartásban szereplő adatai alapján nem lehetséges, vagy
+
+b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
+
+(4) A szerződés közlésének időpontja a (2) bekezdés
+
+a) a) pontja szerinti esetben a jogosultak azonosítására rendelkezésre álló, az 5. § (1) bekezdésében meghatározott határidő leteltét követő nap,
+
+b) b) pont ba) alpontja szerinti esetben a kézbesítés második megkísérlésének napját követő ötödik munkanap,
+
+c) b) bont bb) és bc) alpontja szerinti esetben a kézbesítés megkísérlésének napja.
+
+### 4. Az adásvételi szerződés hirdetményi úton történő közlése
+
+#### 8. §
+
+(1) A jegyző az 5. § (2) bekezdésében meghatározott határidőn belül gondoskodik az adásvételi szerződésnek a Hövtv. 8. § (1) bekezdés c) pontja szerinti jogosultak részére történő hirdetményi közléséről, azzal a figyelemfelhívással, hogy az elővásárlási jog gyakorlására nyitva álló határidő jogvesztő.
+
+(2) Az adásvételi szerződés hirdetményi úton történő közlése az önkormányzat polgármesteri hivatalának vagy a közös önkormányzati hivatal hirdetőtáblájára való kifüggesztéssel történik.
+
+(3) A (2) bekezdés szerinti kifüggesztéssel egyidejűleg az adásvételi szerződés tájékoztató jelleggel több önkormányzati intézmény hirdetőtábláján vagy más, helyben szokásos módon is közzétehető.
+
+(4) A jegyző a kifüggesztett adásvételi szerződésre rávezeti a kifüggesztés időpontját és a jognyilatkozat megtételére nyitva álló 30 napos határidő első és utolsó napját.
+
+#### 9. §
+
+(1) A kifüggesztett adásvételi szerződések széles körben történő megismertetése érdekében a kifüggesztéssel azonos időtartamban az önkormányzat hivatalos honlapján tájékoztató jelleggel
+
+a) a hirdetményi úton közölt adásvételi szerződés közzétehető, valamint
+
+b) a hirdetményi úton történő közlés tényéről elektronikus tájékoztató tehető közzé.
+
+(2) Az (1) bekezdés b) pontja szerinti tájékoztató legalább a következő adatokat tartalmazza:
+
+a) az adásvételi szerződés kifüggesztésének helye,
+
+b) az adásvételi szerződés kifüggesztésének időpontja és az elővásárlási jog gyakorlására nyitva álló határidő első és utolsó napja,
+
+c) az adásvételi szerződésben szereplő
+
+ca) ingatlan(ok) adatai: település, fekvés, helyrajzi szám, területnagyság, művelési ág vagy kivett megnevezés, jogi jelleg, tulajdoni hányad,
+
+cb) ellenszolgáltatásként megjelölt vételár megjelölése,
+
+d) figyelemfelhívás arra, hogy a tájékoztató nem minősül az adásvételi szerződés közlésének.
+
+(3) A 3. §-nak megfelelően felismerhetetlenné tett adatok a tájékoztatóban nem szerepelhetnek.
+
+### 5. Az elővásárlás lezárása
+
+#### 10. §
+
+(1) Ha a Hövtv. 9. § (3) bekezdése szerinti határidő (a továbbiakban: joggyakorlási határidő) utolsó napja olyan nap, amikor a polgármesteri hivatalban vagy a közös önkormányzati hivatalban munkaszüneti nap vagy amelyen igazgatási szünet van, a joggyakorlási határidő a következő munkanapon jár le.
+
+(2) Amennyiben a jegyző megállapítja, hogy az elfogadó jognyilatkozat az azt átadó elővásárlásra jogosulttól származik, ezt a tényt az elfogadó jognyilatkozaton az aláírásával igazolja, és azt átveszi.
+
+(3) Amennyiben a jegyző azt állapítja meg, hogy az elfogadó jognyilatkozat nem az azt átadó személytől vagy annak képviselőjétől származik, a jegyző az elfogadó jognyilatkozat átvételét megtagadja, és ennek tényét, valamint okát az elfogadó jognyilatkozaton rögzíti.
+
+(4) Amennyiben a jegyző azt állapítja meg, hogy az elfogadó jognyilatkozat mentességgel nem rendelkező betelepülőtől származik, a jegyző az elfogadó jognyilatkozat átvételét megtagadja, és ennek tényét, valamint okát az elfogadó jognyilatkozaton rögzíti.
+
+#### 11. §
+
+(1) Az elfogadó jognyilatkozat megtétele során a telekhatárosság tényét – az e rendelet 5. §-ában meghatározott azonosításra figyelemmel – nem kell igazolni.
+
+(2) A Hövtv. 8. § (7) bekezdése alkalmazásában az az ingatlan minősül közelebbinek, amelynek az adásvétel tárgyát képező ingatlantól mért távolsága – közúton vagy közforgalom elől el nem zárt magánúton történő gyalogos közlekedést alapul véve – rövidebb.
+
+(3) A (2) bekezdést a társasházi lakások, lakásszövetkezeti lakások, valamint sor- vagy ikerházi lakások esetén is megfelelően alkalmazni kell.
+
+(4) Ha az adásvételi szerződés tárgya a mező- és erdőgazdasági földek forgalmáról szóló törvény hatálya alá tartozó zártkerti ingatlan (a továbbiakban: termőföldnek minősülő zártkerti ingatlan), az elfogadó jognyilatkozatnak tartalmazni kell az elővásárlónak a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 13. és 14. §-ában előírt tartalmú nyilatkozatait, valamint a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 13. § (1) és (2) bekezdésében meghatározott adatokat.
+
+(5) Ha az adásvételi szerződés tárgya termőföldnek minősülő zártkerti ingatlan, az elfogadó jognyilatkozathoz – a (6) bekezdésben meghatározott eset kivételével – csatolni kell a mezőgazdasági igazgatási szerv által a föld tulajdonjogának megszerzésére irányuló szerzési képesség fennállásáról – ideértve a Földforgalmi tv. 27. § (2) bekezdés b) pontjában foglaltakat is – kiállított hatósági bizonyítványt is. Ennek elmaradása esetén – a (6) bekezdésben foglalt kivételtől eltekintve – a nyilatkozat érvénytelen.
+
+(6) Az (5) bekezdésben foglaltak szerinti hatósági bizonyítvány csatolása akkor mellőzhető, ha a jogügylethez a Földforgalmi tv. 36. § (1) bekezdése alapján nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
+
+#### 12. §
+
+(1) A jegyző az adásvételi szerződést a joggyakorlási határidő utolsó napját követő munkanapon veszi le a hirdetőtábláról.
+
+(2) A jegyző a hozzá benyújtott adásvételi szerződést és az elővásárlásra jogosultak jognyilatkozatait a Hövtv. 9. § (9) bekezdésében meghatározottak szerint, a (3) bekezdésben meghatározott tartalmú iratjegyzékkel együtt megküldi az eladó részére.
+
+(3) Az iratjegyzékben a jegyző nyilatkozik, hogy a Hövtv. 8. § (1) bekezdés a) és b) pontja szerint közvetlenül értesítendő személyeknek a közvetlen értesítés szabályszerűen megtörtént, valamint feltünteti
+
+a) a szabályszerű kézbesítést igazoló okiratok, így különösen tértivevény, elektronikus kézbesítési igazolás, átvételi elismervény azonosító számát,
+
+b) ha a közvetlenül értesítendő nyilatkozott, a nyilatkozattételi határidő lejáratának dátumát.
+
+(4) Az iratjegyzék tartalmazza továbbá az elővásárlásra jogosultak jognyilatkozatainak darabszámát és benyújtásuk időpontját, továbbá a nyilatkozattevő
+
+a) természetes személyek
+
+aa) nevét,
+
+ab) lakcímét,
+
+b) gazdasági társaság, gazdálkodó és egyéb szervezet
+
+ba) nevét, megnevezését,
+
+bb) székhelyét,
+
+bc) nyilvántartási számát,
+
+bd) képviselőjének nevét, a képviselet jogcímét.
+
+(5) Ha elfogadó jognyilatkozatot nem nyújtottak be, az iratjegyzékben ennek tényét kell rögzíteni.
+
+(6) Az iratjegyzék a tulajdonjog-bejegyzés iránti ingatlan-nyilvántartási eljárásban az elővásárlási joggal kapcsolatos kötelezettségek igazolására felhasználható.
+
+(7) A Hövtv. 9. § (12) bekezdése szerint átvett jognyilatkozatokat a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet 11. §-ában meghatározottak szerint nem selejtezhetőnek kell minősíteni, és azok megőrzéséről az iratképző – határidő megjelölése nélkül – helyben gondoskodik.
+
+#### 13. §
+
+(1) Ha az adásvételi szerződés tárgya termőföldnek minősülő zártkerti ingatlan, és a Hövtv. szerinti egyik elővásárlásra jogosult sem élt érvényesen az elővásárlási jogával, akkor az eladó – a (2) bekezdésben meghatározott eset kivételével – a 12. § (2) bekezdése szerinti okiratok beérkezését követő 8 napon belül kezdeményezi a mezőgazdasági igazgatási szervnél a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti hatósági eljárás lefolytatását.
+
+(2) Ha az adásvételi szerződés tárgya
+
+a) termőföldnek minősülő zártkerti ingatlan, de az adásvételi szerződés mentes a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti hatósági eljárás alól, vagy
+
+b) nem a mező- és erdőgazdasági földek forgalmáról szóló törvény hatálya alá tartozó zártkerti ingatlan,
+
+és a Hövtv. szerinti egyik elővásárlásra jogosult sem élt érvényesen az e rendelet szerinti az elővásárlási jogával, akkor az eladó a 12. § (2) bekezdése szerinti okiratok beérkezését követő 8 napon belül megteszi a szükséges intézkedéseket az adásvételi szerződésnek a más jogszabály, valamint a megállapodás alapján elővásárlási joggal rendelkező személyekkel történő közlése iránt, kivéve, ha más jogszabály, valamint megállapodás alapján nem áll fenn más személynek elővásárlási joga.
+
+## II. Fejezet — A SZEMÉLYI JOGVÉDELMI ESZKÖZÖKHÖZ KAPCSOLÓDÓ RENDELKEZÉSEK
+
+### 6. A lakcímbejelentési eljárással kapcsolatos különös szabályok
+
+#### 14. §
+
+(1) A fővárosi és vármegyei kormányhivatal személyiadat- és lakcímnyilvántartási feladatkörében eljáró járási (fővárosi kerületi) hivatala a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerinti lakcímbejelentési eljárás során a Hövtv. 10. § szabályozási tárgyát érintő lakcímbejelentési kérelmet – az egyéb jogszabályban írt feltételek igazolása esetén – akkor teljesíti,
+
+a) ha a lakcímbejelentéssel érintett címre vonatkozóan nincs hatályban a Hövtv. 22. § (2) bekezdése szerint megalkotott önkormányzati rendelet (a továbbiakban: önkormányzati rendelet),
+
+b) ha az önkormányzati rendelet az érintett cím tekintetében nem tartalmaz a Hövtv. 10. § (1) bekezdés a) vagy b) pontjai szerinti lakcímlétesítést tiltó vagy feltételhez kötő korlátozó rendelkezést, vagy
+
+c) ha a jegyző igazolja, hogy a kérelmező az érintett címen lakóhelyet vagy tartózkodási helyet létesíthet.
+
+(2) Ha a lakcímbejelentéssel érintett település képviselő-testületének önkormányzati rendelete rendelkezik arról, hogy a betelepülő(k) számára lakcím meghatározott feltétellel létesíthető, akkor a kérelmezőnek a lakcímlétesítési eljárásban a lakcímbejelentési kérelemhez a Hövtv. 10. § (4) bekezdése szerinti önkormányzati hozzájárulást csatolnia kell.
+
+(3) A (2) bekezdésben meghatározottakat a Hövtv. 10. § (5) bekezdésében meghatározott esetben is megfelelően alkalmazni kell.
+
+### 7. Egyes tények igazolásának rendje az önkormányzat eljárásában
+
+#### 15. §
+
+(1) A Hövtv. 6. § (1) bekezdés a)–i) pontja szerinti mentesség fennállása hatósági bizonyítvány, igazolvány vagy nyilvántartás adatával, továbbá bármely olyan okirat felhasználásával igazolható, amely alkalmas az adott mentességi ok meglétének alátámasztására.
+
+(2) A Hövtv. 6. § (1) bekezdés c), d) és f) pontja tekintetében a mentesség különösen foglalkoztatotti jogviszony vagy munkavégzésre irányuló bármely jogviszony fennállásáról vagy tervezett létesítéséről szóló irattal igazolható.
+
+(3) A Hövtv. 6. § (1) bekezdés e) pontja tekintetében a mentesség lakáscélú állami támogatás megítéléséről támogatási szerződéssel vagy határozattal, adásvételi szerződéssel igazolható.
+
+(4) A Hövtv. 6. § (1) bekezdés g) pontja tekintetében a mentesség hallgatóijogviszony-igazolással, beiratkozási nyilatkozattal, elektronikus tanulmányi rendszerből kinyomtatott adatlappal igazolható.
+
+(5) A Hövtv. 6. § (1) bekezdés h) pontja tekintetében a mentesség az intézmény igazolásával, bentlakásos elhelyezésről szóló határozattal vagy felvételi dokumentummal, büntetés-végrehajtási intézmény esetén az adott intézmény által kiállított elhelyezési igazolással igazolható.
+
+(6) Közhiteles nyilvántartásból megismerhető adat beszerzéséről a jegyző hivatalból intézkedik.
+
+## III. Fejezet — EGYÉB RENDELKEZÉSEK
+
+### 8. A jogvédelmi eszköz megismerhetővé tétele
+
+#### 16. §
+
+(1) A jegyző az önkormányzati rendelet közzétételéről a Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet 4/A. §-ában foglaltak szerint gondoskodik. Amennyiben ezen önkormányzati rendelet kihirdetése és hatálybalépése között 5 vagy annál kevesebb munkanap áll rendelkezésre, akkor a Nemzeti Jogszabálytárban való közzétételről a jegyző legkésőbb a rendelet hatálybalépését megelőző munkanapon köteles gondoskodni.
+
+(2) Az önkormányzat az önkormányzati rendelettel bevezetett jogvédelmi eszközről a hivatalos honlapján – elsődlegesen a honlap kezdőoldalán vagy közvetlenül a kezdőoldalról elérhető aloldalon – tájékoztatást nyújt.
+
+(3) A (2) bekezdésben meghatározott tájékoztatásban meg kell jelölni a jogvédelmi eszköz típusát, továbbá – típusonként – közérthető összefoglalót kell tartalmaznia a jogvédelmi eszközre vonatkozó szabályokról és a betelepülés feltételeiről.
+
+(4) A Kormány vagy központi kormányzati igazgatási szerv irányítása alatt álló államigazgatási szervet a jogvédelmi eszközök érvényre juttatásához kapcsolódó feladat kizárólag akkor terheli, ha az önkormányzat az (1) bekezdésben meghatározott kötelezettségének eleget tett.
+
+## IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 17. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 1. melléklet a 240/2025. (VII. 31.) Korm. rendelethez
+
+**Az adásvételi szerződés közlése iránti kérelem tartalma**
+
+1.
+
+1.1. A kérelmező adatai:
+
+1.1.1. természetes személy kérelmező esetén
+
+a) természetes személyazonosító adatai,
+
+b) lakcíme, értesítési címe.
+
+1.1.2. gazdasági társaság, gazdálkodó és egyéb szervezet kérelmező esetén
+
+a) a szervezet megnevezése,
+
+b) székhelye,
+
+c) a képviseletében eljáró személy családi és utóneve, képviselői minősége, lakcíme.
+
+1.2. Az adásvételi szerződés tárgyát képező ingatlanra vonatkozó adatok földrészletenkénti bontásban:
+
+a) a település neve,
+
+b) az ingatlan
+
+ba) helyrajzi száma,
+
+bb) területnagysága,
+
+bc) művelési ága vagy kivett megnevezése,
+
+c) az átruházással érintett tulajdoni hányad.
+
+1.3. A kérelmező közlés iránti kérelme, a kérelmező aláírása, gazdálkodó szervezet, egyéb szervezet kérelmező esetében a bélyegzőlenyomata és az aláírás dátuma.
+
+1.4. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak és az adásvételi szerződésben foglaltaknak megfelelnek.
+
+2\. A jegyző által feltüntetendő tartalmi elemek:
+
+2.1. A postai úton érkező közzétételi kérelem esetén a kérelem érkezési ideje.
+
+2.2. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
+
+2.3. A jegyző aláírása, bélyegzője és az aláírás dátuma.

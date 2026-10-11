@@ -1,0 +1,184 @@
+---
+title: "477/2022. (XI. 24.) Korm. rendelet a Katasztrófavédelmi Speciális Képzési Központnak a Nemzeti Közszolgálati Egyetem Ludovika Campus állami beruházás keretében, a Ludovika Campus területén történő elhelyezésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról, valamint a Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet módosításáról"
+identifier: "477/2022. (XI. 24.) Korm. rendelet"
+njt_id: "2022-477-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/477"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-11-24
+in_force_from: 2022-11-25
+last_amended: 2024-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-477-20-22"
+retrieved: 2026-10-12
+---
+
+# 477/2022. (XI. 24.) Korm. rendelet a Katasztrófavédelmi Speciális Képzési Központnak a Nemzeti Közszolgálati Egyetem Ludovika Campus állami beruházás keretében, a Ludovika Campus területén történő elhelyezésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról, valamint a Nemzeti Közszolgálati Egyetem Ludovika Campusban történő elhelyezéséhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint az ezzel összefüggő egyes kormányrendeletek módosításáról szóló 126/2012. (VI. 26.) Korm. rendelet módosításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), b) és d) pontjában,
+
+a 3. § a) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerint Budapest, belterület 36030 helyrajzi számú, természetben az 1089 Budapest, Diószegi Sámuel utca 38–42. és 1089 Budapest, Orczy út 1. szám alatt található ingatlan (a továbbiakban: Ingatlan) területén megvalósuló, a Katasztrófavédelmi Speciális Képzési Központnak a Nemzeti Közszolgálati Egyetem Ludovika Campus állami beruházás keretében, a Ludovika Campus területén történő elhelyezésének kivitelezési munkálataival kapcsolatos beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az Ingatlan területe.
+
+(3) A Beruházással összefüggőnek kell tekinteni azokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez, üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz kapcsolódó útépítési, a létesítmény megközelítését, működését és városképi illeszkedését segítő – közterület- és zöldfelület-rendezési, közlekedésfejlesztési, közműcsatlakozási és -fejlesztési, valamint azokkal közvetlenül összefüggő – munkákkal kapcsolatosak.
+
+## 2. §
+
+(1) A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+(2)[^1]
+
+(3) A Kormány az 1. melléklet 4. és 24. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+
+## 3. §
+
+A Beruházással összefüggésben
+
+a) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+b) településképi véleményezési eljárást nem kell lefolytatni, valamint
+
+c) településképi bejelentési eljárásnak nincs helye.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 5. §
+
+Az Ingatlanon – az egyedileg védett műemlék építményrészek kivételével – bontási tevékenység bontási engedély nélkül végezhető, azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.
+
+## 6. §
+
+(1) Az Ingatlanra a beépítés szabályait és az egyedi településképi követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+
+a) a hatályos településrendezési terv, településképi rendelet, valamint az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a rendeletben foglalt eltérésekkel kell alkalmazni, és
+
+b) ha a hatályos településrendezési terv, településképi rendelet vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszközt, településképi rendeletet és az OTÉK-ot nem lehet alkalmazni.
+
+(2) Az Ingatlanon művelődési, kereskedelmi, szolgáltató, oktatási, nevelési, szociális, kulturális, szállás jellegű és lakó, igazgatási és egyéb közösségi szórakoztató rendeltetésű épület, irodaépület, a kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei, kiszolgáló rendeltetései helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
+
+a) a telek beépítési módja szabadon álló;
+
+b) a terepszint feletti beépítettség megengedett legnagyobb mértéke 20%;
+
+c) a terepszint alatti beépítés megengedett legnagyobb mértéke 20%;
+
+d) a szintterületi mutató megengedett legnagyobb értéke 0,75 m<sup>2</sup>/m<sup>2</sup>;
+
+e) az építési hely az Ingatlan teljes területe;
+
+f) a Beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani;
+
+g) a zöldfelület megengedett legkisebb mértéke 55%;
+
+h) az építménymagasság, az épületmagasság és a homlokzatmagasság megengedett legnagyobb mértéke 22 méter;
+
+i) az épületek legmagasabb pontja nem haladhatja meg a párkánymagasságtól számított 8 métert, azzal, hogy az épületek legmagasabb pontját az építési hely legmagasabb pontjától kell számítani;
+
+j) az Ingatlanon a városképi szempontok érvényesítését a megengedett beépítés egy épületben (tömegben) történő létrehozásával is lehet biztosítani.
+
+(3) A (2) bekezdés i) pontjának alkalmazása során az épületmagasságot az OTÉK-ban foglalt, e rendelet hatálybalépésekor hatályos követelmények szerint kell számítani.
+
+(4) A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, Budapest ugyanazon kerületében elhelyezkedő, a kivágással érintett ingatlanok vagyonkezelője vagyonkezelésében, illetve tulajdonosa tulajdonában álló másik ingatlanon kell teljesíteni.
+
+(5) A Kormány a Beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület, így különösen az ingatlan-nyilvántartás szerinti Budapest, belterület 36031, 36179 és 35866 helyrajzi számú ingatlanok használatának feltétlenül szükséges időtartamát a kivitelezés megkezdésétől számított 48 hónapban határozza meg.
+
+(6) Az Ingatlan, annak egyes elemei, illetve az Ingatlanon álló épületek vonatkozásában újonnan helyi védelmet megállapítani nem lehet.
+
+(7) Az Ingatlanon a Beruházás tekintetében az építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az OTÉK szerint elhelyezendő személygépkocsik számát az egymástól 800 méter távolságon belül elhelyezkedő, jellemzően azonos használók által igénybe vett építmények esetében – az érintett építményekre együttesen vonatkozóan – csak a legmagasabb értéket eredményező rendeltetési célú építmény szerinti mennyiség figyelembevételével kell megállapítani.
+
+(8) A Beruházás keretében megvalósított építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a – helyi és fővárosi – településrendezési tervben előírt infrastruktúra-fejlesztések megvalósulása.
+
+(9) A Beruházással összefüggésben megvalósuló építmények gépjárművel való megközelítése nem korlátozott, és a gépjárművek számára több behajtó létesíthető.
+
+## 7. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+(3) A Beruházás tekintetében az egységes elektronikus közműnyilvántartásról szóló kormányrendeletet azzal kell alkalmazni, hogy a közműegyeztetés során a Beruházással érintett közmű- és energiaszolgáltató, valamint közútkezelő a benyújtott tervek jóváhagyása kapcsán a tervek benyújtásától számított öt napon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, valamint közútkezelő határidőn belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 9. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 477/2022. (XI. 24.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. építésfelügyeleti hatósági eljárások,
+
+3\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+4\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+5\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+6\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+7\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+8\. tűzvédelmi hatósági eljárások,
+
+9\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+10\. hírközlési hatósági eljárások,
+
+11\. környezetvédelmi hatósági eljárások,
+
+12\. természetvédelmi hatósági eljárások,
+
+13\. útügyi hatósági eljárások,
+
+14\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+15\. telekalakításra irányuló hatósági eljárások,
+
+16\. földmérési hatósági eljárások,
+
+17\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+18\. élelmiszerlánc-felügyeleti eljárás,
+
+19\. közegészségügyi hatósági eljárások,
+
+20\. területrendezési hatósági eljárások,
+
+21\. bányahatósági eljárások,
+
+22.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
+
+23\. régészeti feltárásokkal kapcsolatos eljárások,
+
+24\. azok az 1–23. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+25\. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § (2) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 353. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 352. §-a szerint módosított szöveg.

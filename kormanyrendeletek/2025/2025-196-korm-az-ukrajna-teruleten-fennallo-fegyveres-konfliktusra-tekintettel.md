@@ -1,0 +1,475 @@
+---
+title: "196/2025. (VII. 8.) Korm. rendelet az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzet során kiadott egyes veszélyhelyzeti kormányrendeleti szabályok kivezetéséről"
+identifier: "196/2025. (VII. 8.) Korm. rendelet"
+njt_id: "2025-196-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/196"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-07-08
+in_force_from: 2025-07-20
+last_amended: 2026-10-07
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-196-20-22"
+retrieved: 2026-10-12
+---
+
+# 196/2025. (VII. 8.) Korm. rendelet az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzet során kiadott egyes veszélyhelyzeti kormányrendeleti szabályok kivezetéséről
+
+[1] Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében a veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelettel a Kormány 2022. november 1. napjával Magyarország egész területére veszélyhelyzetet hirdetett ki.
+
+[2] A Kormány – áttekintve a veszélyhelyzeti kormányrendeletek szabályozási tárgyköreit – egyes jogintézmények átmeneti szabályként, illetve a normál jogrend részeként történő megállapítása céljából kormányrendeletet alkot.
+
+[3] A Kormány
+
+az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 34. § a)–g) pontjában kapott felhatalmazás alapján,
+
+a 20. § tekintetében a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 283. § (1) bekezdés 3. pontjában kapott felhatalmazás alapján,
+
+a 25. § tekintetében a közterület-felügyeletről szóló 1999. évi LXIII. törvény 28/A. §-ában kapott felhatalmazás alapján,
+
+a 26–28. § tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés e) és j) pontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *foglalkoztatásba bevonható személy:* a tizenhatodik életévét betöltött
+
+a) menedékes vagy
+
+b) Ukrajnában állandó lakóhellyel rendelkező és 2022. február 24-én vagy azt követően Ukrajnából érkező magyar állampolgár;
+
+2\. *háború sújtotta terület:* Ukrajna katonai műveletekkel közvetlenül érintett közigazgatási egységei;
+
+3\. *ideiglenes védelemre jogosult:* az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 11. § a) pontjában meghatározott személy;
+
+4\. *menedékes:* az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 11. § b) pontjában meghatározott személy;
+
+5\. *munkaadó:* az a gazdasági társaság, amely Magyarország területén székhellyel, telephellyel vagy fiókteleppel rendelkezik, és megfelel a munkaerőpiaci programban meghatározott feltételeknek, különösen
+
+a) a rendezett munkaügyi kapcsolatok – a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet szerinti – feltételeinek, és
+
+b) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás, kényszertörlés alatt, valamint nincs folyamatban ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás.
+
+## 2. A menedékesekre, a menedékesként elismerését kérőkre, valamint az ezzel összefüggő menekültügyi eljárásra vonatkozó különös rendelkezések
+
+### 2. §
+
+(1) Ezen alcím rendelkezéseit a menedékesre, a menedékesként elismerését kérőre, valamint az ezzel összefüggő menekültügyi eljárásra kell alkalmazni.
+
+(2) A menekültügyi eljárásban nem kell alkalmazni a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendelet (a továbbiakban: Metvhr.)
+
+a) 9. §-a,
+
+b) 11/C. § e) pontja,
+
+c) 16. § (4) bekezdése,
+
+d) 17–19. §-a,
+
+e) 38. § (2) bekezdése,
+
+f) 39. §-a,
+
+g) 74–76. §-a
+
+rendelkezéseit.
+
+(3) A Metvhr. 1. melléklete szerinti menedékes személyazonosságát és tartózkodási jogát igazoló okmányra vonatkozó rendelkezés helyett az 1. melléklet rendelkezéseit kell alkalmazni.
+
+(4)[^1] A (3) bekezdés alapján kiállított, a menedékes személyazonosságát és tartózkodási jogát igazoló okmány érvényességi ideje – a Metvhr. 8. § (3) bekezdésétől eltérően – az okmányon fizikailag megjelenített érvényességi idő helyett 2028. március 4. napja.
+
+(5) A Metvhr. 41. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a menedékes a befogadó állomáson nyújtott elhelyezésre és ellátásra nem jogosult.
+
+### 3. §
+
+(1) A menedékesként elismerését kérőt és a menedékest
+
+a) a Metvhr. 44. § (2) bekezdése szerinti egészségügyi ellátás,
+
+b) az a) pont szerinti ellátáson túl az onkológiai szakellátás, egyéb krónikusbeteg-ellátás keretében vizsgálat és gyógykezelés, továbbá az ártámogatással a társadalombiztosítás egyes ellátásaira jogosultak által az onkológiai szakellátás és egyéb krónikusbeteg-ellátás, valamint az egészségügyi alapellátás keretében állapotjavítás, állapotfenntartás vagy fájdalomcsillapítás érdekében igénybe vehető gyógyszerkészítmény
+
+illeti meg.
+
+(2) A Metvhr. 15. § (2) bekezdés d) pontja szerinti támogatást, valamint a Metvhr. 49. §-a szerinti okmányfordítási költségek megtérítését a menedékesnek is biztosítani kell.
+
+(3) Ha a menedékes vagy a menedékesként elismerését kérő nem befogadó állomáson kerül elhelyezésre, a Metvhr. 59. §-ának alkalmazásában befogadó állomás alatt a számára e célra kijelölt egyéb szálláshelyet is érteni kell.
+
+## 3. A menedékes munkavállalók lakhatási támogatása
+
+### 4. §
+
+A Kormány a Magyarországon történő foglalkoztatás elősegítése érdekében lakhatási támogatást nyújt a munkaadó részére, ha
+
+a) a munkaadó a menedékest munkavállalóként (a továbbiakban: munkavállaló) a menedékesként való elismerést követően foglalkoztatja,
+
+b) a munkavállaló foglalkoztatása Magyarország területén történik, és
+
+c) a munkavállaló munkaviszonya határozott vagy határozatlan időre, legalább heti húsz órában történő foglalkoztatásra jön létre.
+
+### 5. §
+
+(1) A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter
+
+a) tájékoztatást nyújt a menedékes részére – annak képzettségének, tapasztalatának figyelembevételével – a munkavállalás lehetőségeiről az országhatáron belül kijelölt segítségpontokon keresztül,
+
+b)[^2] tájékoztatja a munkaadókat, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) a munkát vállalni szándékozó menedékes munkavállalási igényeiről, valamint
+
+c) eljár a foglalkoztatási célokat elősegítő tevékenységek megvalósításában.
+
+(2) A foglalkoztatáspolitikáért felelős miniszter
+
+a) ellátja a támogatással összefüggő szakmai irányító feladatokat, valamint a munkaerőpiaci programmal kapcsolatos feladatokat, és
+
+b) a kormányhivatal felett ellátja a felügyeleti szerv feladatait.
+
+### 6. §
+
+(1) Az ezen alcím szerinti támogatás a munkaadó kérelmére nyújtható.
+
+(2) A támogatás igénybevételének feltétele, hogy a munkavállalóval közös háztartásban élő, tizenhatodik életévét be nem töltött kiskorú az általános iskola befejezéséig a köznevelésben részt vesz, és erről a köznevelési intézmény igazolást állít ki.
+
+### 7. §
+
+(1) A támogatás iránti kérelmet a munkaadó a Nemzeti Foglalkoztatási Szolgálat honlapján közzétett formanyomtatvány alkalmazásával, elektronikus úton nyújtja be. A kérelemhez mellékelni kell
+
+a) a munkaszerződést,
+
+b) a szállásadó és a munkáltató által a munkavállaló elszállásolásra kötött szerződés (a továbbiakban: elszállásolási szerződés) felek által aláírt, az elszállásolás havi díját tartalmazó példányát,
+
+c) a munkaadó számlaszámát, valamint
+
+d) – ha annak feltételei fennállnak – a 6. § (2) bekezdése szerinti igazolást.
+
+(2) A támogatás iránti kérelmet a munkavállaló foglalkoztatási helye szerint illetékes kormányhivatalnál kell előterjeszteni.
+
+(3) A kormányhivatal a támogatás iránti kérelem beérkezését követő nyolc munkanapon belül megvizsgálja a jogszabályi és a munkaerőpiaci programban foglalt feltételek fennállását, és határozatban dönt a támogatás nyújtásáról vagy a támogatás iránti kérelem elutasításáról.
+
+(4) Ha a támogatás iránti kérelem megfelel a jogszabályi és a munkaerőpiaci programban foglalt feltételeknek, a kormányhivatal
+
+a) a támogatás iránti kérelem alapján a munkaadó részére támogatást nyújt, és
+
+b) a menedékes adatait az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 27. § (1) bekezdése alapján a támogatás megállapítása érdekében nyilvántartásba veszi.
+
+(5) Ha a támogatás iránti kérelem nem felel meg a jogszabályi és a munkaerőpiaci programban foglalt feltételeknek, a kormányhivatal a támogatás iránti kérelmet elutasítja.
+
+(6) A munkaadó a (4) bekezdés a) pontja szerinti támogatással érintett szállásdíjat a szállásadó részére kifizeti az elszállásolási szerződés alapján, a támogatásra csak ezt követően jogosult.
+
+### 8. §
+
+(1) A támogatás a munkaszerződés megkötését követően, a kérelem benyújtását és az elszállásolási szerződés keltét követő időszakra állapítható meg.
+
+(2) A támogatás legfeljebb a jogviszony fennállásának idejére adható, a munkaadó részére havonta, utólag kerül folyósításra.
+
+(3) A támogatás mértéke az elszállásolási szerződés szerinti havi szállásdíj összegével egyező összeg, de ha a szálláshely
+
+a) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendeletben meghatározott preferált kistelepülésen található, legfeljebb havonta 120 000 forint,
+
+b) egyéb településen található, legfeljebb havonta 80 000 forint.
+
+(4)[^3] A támogatás a Nemzeti Foglalkoztatási Alap Foglalkoztatási támogatások cím előirányzata terhére nyújtható.
+
+### 9. §
+
+(1) A munkaadó a támogatás iránti kérelemben, valamint a támogatás igénybevételével kapcsolatos adatokban történő változást haladéktalanul, de legfeljebb öt munkanapon belül köteles bejelenteni a kormányhivatal részére.
+
+(2) A támogatás igénybevételével és annak elszámolásával, ellenőrzésével, visszakövetelésével és visszafizetésével kapcsolatos részletszabályokat a munkaerőpiaci program határozza meg.
+
+### 10. §
+
+Megszűnik a támogatás, ha
+
+a) a munkavállaló munkaviszonya megszűnik,
+
+b) a munkavállaló munkaviszonyát megszüntetik,
+
+c) a munkaadó a támogatással összefüggően valamely kötelezettségének nem tesz eleget,
+
+d) a támogatás a jogszabályban meghatározott feltételek hiányában nem lett volna megállapítható,
+
+e) az elszállásolási szerződést valamelyik fél felmondja, vagy a szerződés megszűnik, vagy
+
+f) a munkavállalóval közös háztartásban élő tizenhatodik életévét be nem töltött kiskorúnak az általános iskola befejezését megelőzően a köznevelési intézménnyel a tanulói jogviszonya megszűnik.
+
+## 4. A helyi önkormányzat által biztosított elhelyezés és az egyéb módon történő elhelyezés támogatása
+
+### 11. §
+
+(1) A 12. § vagy a 13. § szerinti támogatások – a (2) és (3) bekezdés szerinti kivétellel – a Magyarország területére történő belépés időpontjában háború sújtotta területről érkező és ott lakóhellyel rendelkező ideiglenes védelemre jogosultak után a Magyarország területére történő belépést követően egy alkalommal legfeljebb a belépéstől számított egy hónapig vehetők igénybe.
+
+(2) Ha a Magyarország területére történő belépés időpontjában háború sújtotta területről érkező és ott lakóhellyel rendelkező ideiglenes védelemre jogosult az (1) bekezdés szerinti jogosultsági időtartam alatt a menedékesként történő elismerését kéri, utána a 12. § vagy a 13. § szerinti támogatások a menedékesként történő elismerést követő hónap utolsó napjáig vehetők igénybe.
+
+(3) A 12. § vagy a 13. § szerinti támogatások
+
+a) várandósságának megállapításától kezdve a várandós nő,
+
+b) a tizennyolcadik életévét be nem töltött személy,
+
+c) a b) pont szerinti személlyel közös háztartásban élő egy fő törvényes képviselő,
+
+d) a fogyatékossággal élő személy, valamint gondozója és
+
+e) a hatvanöt év feletti személy
+
+után a (2) bekezdésben meghatározott időkorláton túl is folyamatosan igénybe vehetők, ha az igénybevétel legkésőbb e személyek menedékesként történt elismerését, vagy – ha az a)–e) pont szerinti állapot először csak ezt követően következik be, úgy – az a)–e) pont szerinti állapot bekövetkezését követő kilencven napon belül megkezdődik, és az a)–e) pont szerinti személyek ukrajnai lakóhelye az igénybevétel kezdetének időpontjában is háború sújtotta területen található.
+
+(4) A menekültügyi hatóság által menedékesként elismert személy után – a (2) és (3) bekezdés szerinti kivétellel – a 3. alcímben meghatározott támogatás vehető igénybe.
+
+(5) Ha a menedékesként elismert személy menedékes jogállása visszavonásra került, e személy után a 12. § vagy a 13. § szerinti támogatás nem vehető igénybe, ha ismételten menedékeskénti elismerés iránti kérelmet nyújt be.
+
+(6) Ha a menedékeskénti elismerés iránti kérelem tárgyában hozott elutasító döntés további jogorvoslattal nem támadható, és az e kérelmet benyújtó személy ismételten menedékeskénti elismerés iránti kérelmet terjeszt elő, az eljárás ideje alatt a 12. § vagy a 13. § szerinti támogatás a menedékeskénti elismerését ismételten kérő személy után nem vehető igénybe.
+
+(7)[^4] A háború sújtotta területeket tartalmazó listát a külpolitikáért felelős miniszter állítja össze, amelyet a közigazgatás-szervezésért felelős miniszter minden hónap tizedik napjáig megküld a helyi védelmi bizottságok részére, valamint ezzel egy időben a hivatalos honlapján közzétesz.
+
+(8) A 12. § vagy a 13. § szerinti támogatásban az az ideiglenes védelemre jogosult személy részesülhet, aki hitelt érdemlően tudja bizonyítani, hogy a Magyarország területére történő belépés időpontjában háború sújtotta területről érkezett, és lakóhelye is ott található.
+
+(9) A 2024. augusztus 20-án hatályos, a veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet 3. § alapján a 4. § vagy a 8. § szerint igénybe vett támogatással érintett személynek a helyi védelmi bizottság részére a veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet módosításáról szóló 134/2024. (VI. 28.) Korm. rendelet hatálybalépését megelőzően leadott első nyilatkozata alapján állapítható meg, hogy Ukrajna mely közigazgatási egységében található a lakóhelye.
+
+(10)[^5] Azon (9) bekezdés szerint nyilatkozatot tett személy után, akinek 2024. augusztus 21-én a lakóhelye nem háború sújtotta területen található, a 12. § vagy a 13. § szerinti támogatás abban az esetben vehető igénybe, ha azt e személy a megyei, fővárosi védelmi bizottsághoz 2024. július 10-ig benyújtott kérelme alapján – különös méltánylást érdemlő helyzetére tekintettel, a megyei, fővárosi védelmi bizottság felterjesztését követően – a külpolitikáért felelős miniszter engedélyezte.
+
+### 12. §
+
+(1) A helyi önkormányzat az ideiglenes védelemre jogosult vagy a menedékes szállása és ellátása után naponta elszállásoltanként és ellátottanként 5000 forint fajlagos támogatásra jogosult.
+
+(2)[^6] Az (1) bekezdés szerinti fajlagos támogatás iránti igényt a helyi önkormányzat jegyzője, a megyei főjegyző – a Főpolgármesteri Hivatal esetében a főjegyző – (a továbbiakban együtt: jegyző) minden hónap harmadik munkanapjáig készíti el és igazolja, amelyben bemutatja, hogy az előző hónapban naponta hány fő ideiglenes védelemre jogosultnak vagy menedékesnek biztosított elhelyezést.
+
+(3) A jegyző a (2) bekezdés szerinti általa igazolt igényt a helyi védelmi bizottság részére küldi meg.
+
+(4) Ha a (2) bekezdés szerinti jegyző által igazolt igényben foglaltakkal kapcsolatban kétség merül fel, a helyi védelmi bizottság az abban foglaltakat ellenőrzi.
+
+(5) A helyi védelmi bizottság a (4) bekezdés szerinti ellenőrzés során megállapítottak alapján
+
+a) az igényben foglaltakat elfogadja,
+
+b) az igényben foglaltakat kiegészíti, módosítja, vagy
+
+c) az igényben foglaltak megalapozatlanságát állapítja meg.
+
+(6) A helyi védelmi bizottság az (5) bekezdés c) pontja szerint minősített igényt a helyi önkormányzat részére visszaküldi.
+
+(7)[^7] Az (5) bekezdés a) és b) pontja esetében, továbbá, ha az igényben foglaltakkal kapcsolatban nem merül fel kétség, a helyi védelmi bizottság a jegyző által igazolt és elbírált igényt – a megyei, fővárosi védelmi bizottság útján – a helyi önkormányzatokért felelős miniszter részére haladéktalanul megküldi. A helyi önkormányzatokért felelős miniszter az elbírált igényt az államháztartásért felelős miniszter részére a beérkezést követő öt napon belül továbbítja.
+
+(8) Az államháztartásért felelős miniszter a (7) bekezdés szerinti igényből az általa kifizethetőnek ítélt támogatás összegéről öt napon belül értesíti a helyi önkormányzatokért felelős minisztert.
+
+(9) A helyi önkormányzatot a (8) bekezdés szerint megillető támogatást a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár (a továbbiakban: kincstár) a (8) bekezdés szerinti értesítéstől számított tíz napon belül folyósítja.
+
+(10) A helyi önkormányzat a támogatást a folyósítás évének december 31. napjáig használhatja fel, a támogatás felhasználásáról az éves költségvetési beszámolójában számol el.
+
+### 13. §
+
+(1)[^8] Ha minisztérium vagy a megyei, fővárosi védelmi bizottság (a továbbiakban együtt: megrendelő) és a Magyar Máltai Szeretetszolgálat Egyesület szállásadóként megállapodást köt ideiglenes védelemre jogosult vagy menedékes elhelyezését ellátó szálláshely igénybevételére, a Magyar Máltai Szeretetszolgálat Egyesület az elszállásolt ideiglenes védelemre jogosult, illetve menedékes szállása és ellátása után egyedi támogatást igényelhet.
+
+(2)[^9] Az (1) bekezdés szerinti megállapodás az államháztartásért felelős miniszter vagy az általa megbízott személy jóváhagyását követő napon lép hatályba.
+
+(3) Az (1) bekezdés szerinti támogatás összege megegyezik a 12. § (1) bekezdése szerinti fajlagos támogatás összegével, amelytől a felek a megállapodásban különösen indokolt esetben legfeljebb 50%-kal térhetnek el.
+
+(4) Az (1) bekezdés szerinti támogatás iránti igényt a Magyar Máltai Szeretetszolgálat Egyesület minden hónap harmadik munkanapjáig megküldi a megrendelő részére, és abban bemutatja, hogy az előző hónapban naponta hány fő ideiglenes védelemre jogosultnak és menedékesnek biztosított elhelyezést.
+
+(5) Ha az igényben foglaltakkal kapcsolatban kétség merül fel, a megrendelő az abban foglaltakat ellenőrzi.
+
+(6) A megrendelő az (5) bekezdés szerinti ellenőrzés során megállapítottak alapján
+
+a) az igényben foglaltakat elfogadja,
+
+b) az igényben foglaltakat kiegészíti, módosítja, vagy
+
+c) az igényben foglaltak megalapozatlanságát állapítja meg.
+
+(7) A megrendelő a (6) bekezdés c) pontja szerinti esetben az igényt a Magyar Máltai Szeretetszolgálat Egyesület részére visszaküldi, és tájékoztatja, hogy a megállapodás mely rendelkezéseit sértette meg.
+
+(8) A (6) bekezdés a) és b) pontja esetében, továbbá ha az igényben foglaltakkal kapcsolatban nem merül fel kétség,
+
+a) – ha a megrendelő minisztérium – a minisztériumot vezető miniszter az elbírált igényt az államháztartásért felelős miniszter részére öt napon belül továbbítja,
+
+b)[^10] – ha a megrendelő megyei, fővárosi védelmi bizottság – a megyei, fővárosi védelmi bizottság az elbírált igényt – az abban foglaltak igazolásával – a közigazgatás-szervezésért felelős miniszter részére öt napon belül továbbítja.
+
+(9)[^11] A közigazgatás-szervezésért felelős miniszter a megyei, fővárosi védelmi bizottságtól érkezett elbírált igényeket összesíti, és – a (10) bekezdés szerinti kivétellel – az államháztartásért felelős miniszter részére öt napon belül továbbítja.
+
+(10)[^12] Ha a közigazgatás-szervezésért felelős miniszter az igényben foglaltakkal nem ért egyet, a megyei, fővárosi védelmi bizottságot – legfeljebb öt nap határidővel – az igény kiegészítésére vagy átdolgozására hívja fel, ha a kiegészített vagy átdolgozott igénnyel egyetért, a (9) bekezdés szerint jár el.
+
+(11) Az államháztartásért felelős miniszter a kifizethető támogatás összegéről
+
+a) – ha a megrendelő minisztérium – az elbírált igény továbbításától számított öt napon belül értesíti a megrendelő minisztériumot vezető minisztert,
+
+b)[^13] – ha a megrendelő megyei, fővárosi védelmi bizottság – az összesített elbírált igények továbbításától számított öt napon belül értesíti a közigazgatás-szervezésért felelős minisztert.
+
+(12) A Magyar Máltai Szeretetszolgálat Egyesület számára a (11) bekezdés szerinti támogatást a döntést követő tíz napon belül kell folyósítani.
+
+(13) A támogatás folyósításáról az érintett miniszter utalványozása alapján a kincstár gondoskodik.
+
+## 5. Egyéb eljárási szabályok és a kereskedelmi szálláshelyre vonatkozó eltérő rendelkezések
+
+### 14. §
+
+(1) A helyi védelmi bizottság az önkormányzat által megküldött 12. § szerinti támogatási igényt, a megrendelő a szállásadó által megküldött, 13. § szerinti támogatási igényt annak megérkezését követő tíz napon belül bírálja el.
+
+(2) Ha a helyi védelmi bizottság vagy a megrendelő a támogatási igény megalapozottságának bizonyítására ellenőrzést tart, a támogatási igény elbírálásának határideje – az (1) bekezdéstől eltérően – az igény beérkezését követő tizenöt nap.
+
+### 15. §
+
+(1) A kereskedelmi szálláshely esetén a megrendelő és a kereskedelmi szálláshely az ideiglenes védelemre jogosult vagy menedékes szállása és ellátása céljából a 13. §-ban foglaltaktól függetlenül szerződést köthet.
+
+(2) A megrendelő és a kereskedelmi szálláshely között az ideiglenes védelemre jogosult vagy menedékes elszállásolására és ellátására irányuló, 2022. február 24. napjától létrejött szerződéseket az (1) bekezdésben megjelölt szerződésekkel egyenértékűnek kell tekinteni.
+
+(3) Ha a kereskedelmi szálláshelyet az ideiglenes védelemre jogosult vagy menedékes elszállásolása és ellátása céljából hatósági határozattal elrendelt gazdasági és anyagi szolgáltatás keretében vették igénybe, és e kereskedelmi szálláshelyen az ideiglenes védelemre jogosult vagy menedékes elszállásolása és ellátása céljából a megrendelő és a kereskedelmi szálláshely szerződést köt, a gazdasági és anyagi szolgáltatási kötelezettség megszűnik.
+
+## 6. A közfoglalkoztatásra és a foglalkoztatásra vonatkozó különös szabályok
+
+### 16. §
+
+(1) A foglalkoztatásba bevonható személynek a foglalkoztatásban való részvételére a (2)–(6) bekezdést kell alkalmazni.
+
+(2) A foglalkoztatásba bevonható személy az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalnál (a továbbiakban: járási hivatal) szolgáltatást kérő személy lehet.
+
+(3) A foglalkoztatásba bevonható személy tekintetében a foglalkoztatásba bevonható személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.
+
+(4) A foglalkoztatásba bevonható személy a részére folyósított első rendszeres létfenntartási támogatás átvételét megelőzően köteles szolgáltatást kérőként regisztrálni a járási hivatalnál, és a foglalkoztatásba bevonhatósága érdekében a járási hivatallal együttműködni.
+
+(5) A foglalkoztatásba bevonható személy a járási hivatallal történő együttműködése keretében a részére folyósított első rendszeres létfenntartási támogatás átvételét követő negyvenöt nap elteltével – az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 21. § (2) bekezdése szerinti kivétellel – köteles a számára felajánlott megfelelő munkahelyet, ideértve a közfoglalkoztatást is, elfogadni.
+
+(6) A foglalkoztatás és a közfoglalkoztatás megszervezése érdekében a járási hivatal a foglalkoztatásba bevonható személyek létszámáról, nemek szerinti és korcsoportonkénti megoszlásáról, valamint szálláshelyéről személyes adatnak nem minősülő adatokat kérhet a megyei, fővárosi védelmi bizottságtól és a hivatásos katasztrófavédelmi szervtől.
+
+## 7. A rendszeres létfenntartási támogatásra vonatkozó eltérő szabályok
+
+### 17. §
+
+(1) A menedékes esetében nem alkalmazható a Metvhr. 53. § (1) bekezdése.
+
+(2) A menedékest rendszeres létfenntartási támogatás illeti meg.
+
+(3) A (2) bekezdés szerinti jogosultat a rendszeres létfenntartási támogatás a befogadó állomáson vagy a számára kijelölt egyéb szálláshelyen tartózkodása alatt is megilleti.
+
+(4) A rendszeres létfenntartási támogatást a menekültügyi hatóság a menedékes részére havonta – a hónap tizenötödik napjáig – folyósítja.
+
+(5) A hatodik életévét betöltött menedékes esetében a rendszeres létfenntartási támogatás folyósításának feltétele, hogy a hatodik életévét betöltött menedékes – a (6) bekezdésben meghatározott kivétellel – a folyósítást megelőző hónapban megjelenjen a szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal előtt.
+
+(6) A hatodik életévét betöltött, de a tizennyolcadik életévét be nem töltött menedékes helyett a törvényes képviselője is eleget tehet a megjelenési kötelezettségnek.
+
+(7) A járási hivatal a megjelenési kötelezettség teljesítésének tényéről a menekültügyi hatóságot minden hónap ötödik napjáig elektronikus úton tájékoztatja.
+
+(8) Ha a menedékes
+
+a) az (5) vagy (6) bekezdésben meghatározott megjelenési kötelezettségének nem tesz eleget, vagy
+
+b) a folyósított összeget nem veszi át,
+
+az adott hónapra vonatkozó utólagos folyósításra nem tarthat igényt.
+
+(9) Ha a foglalkoztatásba bevonható, (2) bekezdés szerinti jogosult részére a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény vagy a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvény szerint meghatározott megfelelő munkahelyet ajánlanak fel, és azt a foglalkoztatásba bevonható, (2) bekezdés szerinti jogosult – az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 21. § (2) bekezdése szerinti kivétellel – nem fogadja el, a rendszeres létfenntartási támogatás folyósítását a menekültügyi hatóság megszünteti. Ennek érdekében a járási hivatal öt napon belül tájékoztatja a menekültügyi hatóságot a felajánlott munkahely visszautasításának tényéről.
+
+(10) A menekültügyi hatóság a rendszeres létfenntartási támogatást nem folyósítja arra a hónapra, amely során a foglalkoztatásba bevonható, (2) bekezdés szerinti jogosult
+
+a) közfoglalkoztatási jogviszony keretében történő foglalkoztatásban vagy magyarországi munkáltatóval munkavégzésre irányuló jogviszonyban jövedelmet szerez,
+
+b) a magyar nyugdíjrendszerből öregségi nyugdíjban részesül, vagy
+
+c) külföldről származó öregségi nyugdíjban részesül, és azt Magyarországon fel tudja venni.
+
+(11) Az idegenrendészeti hatóság a menekültügyi hatóság részére a menedékes foglalkoztatása kapcsán kezelt adatokat az e kormányrendeletben foglaltak végrehajtása érdekében átadhatja.
+
+### 18. §
+
+(1) Az 1. § 1. pont b) alpontja szerinti személyt rendszeres létfenntartási támogatás illeti meg, amelynek megállapítására és folyósítására a (2)–(9) bekezdést kell alkalmazni.
+
+(2) Az 1. § 1. pont b) alpontja szerinti személy részére járó rendszeres létfenntartási támogatás havi mértéke
+
+a) nagykorúak esetén a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben meghatározott foglalkoztatást helyettesítő támogatás összegével,
+
+b) kiskorúak esetén a családok támogatásáról szóló 1998. évi LXXXIV. törvény 11. § (1) bekezdés b) pontjában meghatározott családi pótlék összegével
+
+egyezik meg.
+
+(3) Az 1. § 1. pont b) alpontja szerinti személy rendszeres létfenntartási támogatása tekintetében az 1. § 1. pont b) alpontja szerinti személy szálláshelye, illetve a számára tartózkodás céljából kijelölt lakóhelye szerint illetékes járási hivatal jár el.
+
+(4) A (2) bekezdésben meghatározott rendszeres létfenntartási támogatást az 1. § 1. pont b) alpontja szerinti személy kérelmére a járási hivatal határozattal állapítja meg, és azt havonta – a hónap tizenötödik napjáig – folyósítja.
+
+(5) Az 1. § 1. pont b) alpontja szerinti személy esetében a rendszeres létfenntartási támogatás folyósításának feltétele, hogy a folyósítást megelőző hónapban a járási hivatal által megjelölt időpontban és helyen megjelenjen.
+
+(6) A tizennyolcadik életévét be nem töltött, 1. § 1. pont b) alpontja szerinti személy helyett a törvényes képviselője is eleget tehet a megjelenési kötelezettségnek.
+
+(7) Ha az 1. § 1. pont b) alpontja szerinti személy
+
+a) az (5) vagy (6) bekezdésben meghatározott megjelenési kötelezettségének nem tesz eleget, vagy
+
+b) a folyósított összeget nem veszi át,
+
+az adott hónapra vonatkozó utólagos folyósításra nem tarthat igényt.
+
+(8) Ha az 1. § 1. pont b) alpontja szerinti személynek a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény vagy a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvény szerint meghatározott megfelelő munkahelyet ajánlanak fel, és azt – az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény 21. § (2) bekezdése szerinti kivétellel – nem fogadja el, a rendszeres létfenntartási támogatás folyósítását a járási hivatal megszünteti.
+
+(9) A járási hivatal a rendszeres létfenntartási támogatást nem folyósítja arra a hónapra, amely során az 1. § 1. pont b) alpontja szerinti személy
+
+a) közfoglalkoztatási jogviszony keretében történő foglalkoztatásban vagy magyarországi munkáltatóval munkavégzésre irányuló jogviszonyban jövedelmet szerez,
+
+b) a magyar nyugdíjrendszerből öregségi nyugdíjban részesül, vagy
+
+c) külföldről származó öregségi nyugdíjban részesül, és azt Magyarországon fel tudja venni.
+
+(10)[^14] A támogatás a Nemzeti Foglalkoztatási Alap Foglalkoztatási támogatások cím előirányzata terhére nyújtható.
+
+## 8. A lejárt okmányok érvényességi ideje
+
+### 19. §
+
+Az ukrán hatóság által kiállított, 2022. február 24. napját követően lejárt vagy lejáró útlevelet a lakóhelyüket elhagyni kényszerült személyek Ukrajnából való tömeges beáramlása tényének a 2001/55/EK irányelv 5. cikke értelmében történő megállapításáról és átmeneti védelem bevezetéséről szóló, 2022. március 4-i (EU) 2022/382 tanácsi végrehajtási határozat hatályon kívül helyezése időpontjáig érvényesnek kell tekinteni.
+
+### 20. §
+
+Az ukrán állampolgár tartózkodási engedélye érvényességi idejének meghatározásakor – az (EU) 2022/382 tanácsi végrehajtási határozat hatályon kívül helyezése időpontjáig – a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 230. § (2)–(4) bekezdését nem kell alkalmazni.
+
+## 9. Záró rendelkezések
+
+### 21. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2025. július 20-án lép hatályba.
+
+(2) A 24. § 2026. január 1-jén lép hatályba.
+
+### 22. §
+
+Az e rendeletben meghatározott támogatásokra vonatkozó szabályokat kell alkalmazni az e rendelet hatálybalépésekor korábbi jogalapon már megítélt, azonos célú támogatásokkal kapcsolatban folyamatban lévő ügyekben.
+
+### 23. §
+
+E rendelet 1. melléklet 1. pontja a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 23/A. §[^15]
+
+A 2. § (4) bekezdése az (EU) 2022/382 végrehajtási határozattal bevezetett átmeneti védelem meghosszabbításáról szóló, 2026. július 30-i (EU) 2026/1912 tanácsi végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 1. melléklet a 196/2025. (VII. 8.) Korm. rendelethez
+
+1\. A menedékes személyazonosságát és tartózkodási jogát igazoló okmány formája és adattartalma az 1030/2002/EK rendeletben, valamint a 2017/1954 EU rendeletben foglaltak szerinti.
+
+2\. Az okmány formátuma ID-1-es kártya, amely tárolóelemet tartalmaz.
+
+3\. Az engedély típusa rovatban fel kell tüntetni a „menedékes okmány” megjelölést.
+
+4\. A megjegyzések között fel kell tüntetni
+
+4.1. az okmány előoldalán a „személyazonosságot és tartózkodást igazol” szöveget,
+
+4.2. az okmány hátoldalán a menedékes anyja születési családi és utónevét vagy -neveit.
+
+---
+
+[^1]: A 2. § (4) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdés b) pontja a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A 8. § (4) bekezdése a 24. § szerint módosított szöveg.
+[^4]: A 11. § (7) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 11. § (10) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § b) pontja, a 271/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^6]: A 12. § (2) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^7]: A 12. § (7) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^8]: A 13. § (1) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^9]: A 13. § (2) bekezdése a 145/2026. (IX. 4.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^10]: A 13. § (8) bekezdés b) pontja a 271/2026. (X. 6.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^11]: A 13. § (9) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^12]: A 13. § (10) bekezdése a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 13. § (11) bekezdés b) pontja a 271/2026. (X. 6.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^14]: A 18. § (10) bekezdése a 24. § szerint módosított szöveg.
+[^15]: A 23/A. §-t a 401/2025. (XII. 16.) Korm. rendelet 1. §-a iktatta be, szövege a 145/2026. (IX. 4.) Korm. rendelet 2. §-ával megállapított szöveg.

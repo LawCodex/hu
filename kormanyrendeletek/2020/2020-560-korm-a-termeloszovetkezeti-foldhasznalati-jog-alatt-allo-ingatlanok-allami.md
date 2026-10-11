@@ -1,0 +1,168 @@
+---
+title: "560/2020. (XII. 7.) Korm. rendelet a termelőszövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanításának szabályairól"
+identifier: "560/2020. (XII. 7.) Korm. rendelet"
+njt_id: "2020-560-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/560"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-07
+in_force_from: 2021-01-01
+last_amended: 2025-07-06
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-560-20-22"
+retrieved: 2026-10-12
+---
+
+# 560/2020. (XII. 7.) Korm. rendelet a termelőszövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanításának szabályairól
+
+A Kormány
+
+a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 9. §-ában,
+
+az 5. alcím tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 29. pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A kártalanítási eljárásra irányuló kérelem
+
+### 1. §
+
+(1)[^1] A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény (a továbbiakban: 2020. évi XL. törvény) 5. § (1) bekezdése szerinti, kártalanításra irányuló kérelmet (a továbbiakban: kérelem) a részarány-tulajdonosnak, jogutódjának vagy a tőlük a jogosultságot megszerző személynek (a továbbiakban: kérelmező) az 1. melléklet szerinti adattartalommal – a földügyért felelős miniszter által rendszeresített nyomtatványon – kell benyújtani a részarány-tulajdont nyilvántartó, területileg illetékes fővárosi és vármegyei kormányhivatalnál (a továbbiakban: ingatlanügyi hatóság). A nyomtatványt az ingatlanügyi hatóság az internetes oldalán közzéteszi.
+
+(2) Ha a kérelmet a részarány-tulajdonos jogutódja vagy a részarány-tulajdonostól vagy jogutódjától a jogosultságot 2021. január 1-jét megelőzően megszerző személy terjesztette elő, ahhoz mellékelni kell az ingatlan-nyilvántartásban a termelőszövetkezeti különlapon történő bejegyzésre egyébként alkalmas alakisággal rendelkező, a jogutódlást, illetve a megszerzést igazoló okiratot vagy hitelesített másolatát.
+
+## 2. A kérelem vizsgálata
+
+### 2. §
+
+(1) Az ingatlanügyi hatóság a hiánytalan kérelem, annak mellékletei, a termelőszövetkezeti külön lap, a belső nyilvántartásai és a rendelkezésére álló okiratok alapján a kérelem megalapozottságának vizsgálata körében megvizsgálja különösen, hogy nem állnak-e fenn a 2020. évi XL. törvény 1. § (2) bekezdése szerinti esetkörök, és
+
+a) az érintett személy
+
+aa) nevén vagy az 1. § (2) bekezdése szerinti esetben jogelődjének nevén a termelőszövetkezeti különlapon aranykorona értékben kifejezett olyan részarány-tulajdon van nyilvántartva, vagy
+
+ab) legalább teljes bizonyítóerejű magánokirattal igazolja, hogy az *aa)* alpont szerinti jogosulttól 2021. január 1-jét megelőzően részarány-tulajdont szerzett,
+
+amely ellenében sem a kérelmező, sem annak jogelődje ingatlan tulajdonát nem szerezte meg, illetve kártalanítást sem kapott, illetve
+
+b) a 2020. évi XL. törvény 6. §-a szerinti jogosult esetében a kérelmező vagy az 1. § (2) bekezdése szerinti esetben jogelődje
+
+ba) a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 12/C. §-a szerint kártalanításra jogosult, vagy
+
+bb) legalább teljes bizonyítóerejű magánokirattal igazolja, hogy a *ba)* alpont szerinti jogosulttól 2021. január 1-jét megelőzően a jogosultságát megszerezte,
+
+és a kártalanítási összeg kifizetésére 2021. január 1. napjáig nem került sor.
+
+(1a)[^2]
+
+(1b)[^3]
+
+(2) A kérelem megalapozottságának vizsgálata érdekében a 2020. évi XL. törvény 8. § (1) bekezdése szerinti vételi jog gyakorlásáról a Nemzeti Földalap kezeléséért felelős szerv tájékoztatja az ingatlanügyi hatóságot.
+
+(3) Ha a kiadatlan részarány-tulajdonnal rendelkező személy a 2020. évi XL. törvény 1. § (1) bekezdése szerinti földrészlet tulajdonjogát a 2020. évi XL. törvény 8. § (1) bekezdése alapján megszerzi, és tulajdonjogát az ingatlan-nyilvántartásba bejegyezték, a bejegyző határozattal egyidejűleg az ingatlanügyi hatóság külön döntésben rendelkezik a vételi jogot gyakorló személy vagy jogelődje részarány-tulajdonának törléséről és a termelőszövetkezeti különlapjának megszüntetéséről, amelyet az ingatlanügyi hatóság a döntés véglegessé válásának napját követő 15 napon belül foganatosít.
+
+## 3. A kártalanítási határozatban megállapított összeg kifizetése
+
+### 3. §
+
+Ha az ingatlanügyi hatóság a kérelemnek helyt ad, a kártalanítás megfizetését jóváhagyó döntés véglegessé válását követően a 2020. évi XL. törvény 4. § (2) bekezdése szerint számított kártalanítási összeg kifizetését a kérelemben megjelölt bankszámlaszámra történő átutalással teljesíti.
+
+## 3a.[^4] A Magyar Állam nevén nyilvántartott termelőszövetkezeti különlap törlése
+
+### 3/A. §
+
+A Magyar Állam nevén nyilvántartott termelőszövetkezeti különlapot az ingatlanügyi hatóság hivatalból törli.
+
+## 3b.[^5] A 2020. évi XL. törvény 6/A. §-a szerinti kérelem
+
+### 3/B. §
+
+(1) A 2020. évi XL. törvény 6/A. § (2) bekezdése szerinti kérelemhez csatolni kell a szövetkezet vagyonnevesítés tárgyában hozott döntését vagy ennek hiányában a szövetkezet vezető tisztségviselőjének közokiratba vagy ügyvédi ellenjegyzéssel ellátott teljes bizonyító erejű magánokiratba foglalt nyilatkozatát a vagyonnevesítés megtörténtéről és időpontjáról, továbbá a szövetkezet vagyonnevesítéssel érintett tagjairól és a vagyonnevesítésben való részesülésük arányáról.
+
+(2) Ha a vagyonnevesítéssel érintett és részarány-tulajdonra jogosult személy a 2020. évi XL. törvény 6/A. § (1) és (2) bekezdése szerinti kérelem benyújtását megelőzően elhalálozott, akkor a kérelemben meg kell jelölni az örökös személyét, és a kérelemhez csatolni kell az öröklést igazoló dokumentumot.
+
+(3) Az ingatlanügyi hatóság a kérelem tárgyában hozott döntéssel egyidejűleg rávezeti a részarány-tulajdonra jogosult személy termelőszövetkezeti különlapjára a 2020. évi XL. törvény 6/A. §
+
+a) (1) bekezdése alapján a szövetkezet által vagyonnevesítéssel meghatározott aranykorona értéket,
+
+b) (2) bekezdése alapján az ingatlanügyi hatóság által a vagyonnevesítésben való részesülés arányában megállapított aranykorona értéket.
+
+(4) A 2020. évi XL. törvény 6/A. §-a alkalmazása során, ha a jogosult termelőszövetkezeti különlapja már megszüntetésre került, vagy korábban termelőszövetkezeti különlappal nem rendelkezett, az ingatlanügyi hatóság a jogosult számára új termelőszövetkezeti különlapot nyit.
+
+(5) A (4) bekezdés szerinti termelőszövetkezeti különlap II. része tartalmazza a jogosult természetes személyazonosító adatait és lakcímét. A termelőszövetkezeti különlap I. része tartalmazza a II. részében feltüntetett tulajdonos részére a (3) bekezdés szerint megállapított aranykorona jogosultság mértékét.
+
+(6) Az ingatlanügyi hatóság mellőzi a részarány-tulajdon feljegyzését, és a 2020. évi XL. törvény 6/A. § (1) és (2) bekezdése szerinti kérelem tárgyában hozott döntés megküldésével hivatalból értesíti a jegyzőt a hagyatéki eljárás vagy a póthagyatéki eljárás megindítása céljából azon személy vonatkozásában, aki a 2020. évi XL. törvény 6/A. § (1) és (2) bekezdése szerinti kérelem benyújtását megelőzően elhalálozott, ha az örökös személyének igazolására a hatóság hiánypótlásra történő felszólítása ellenére sem került sor. Az örökös személyének megállapítását követően az örökös kezdeményezésére az ingatlanügyi hatóság a 2020. évi XL. törvény 6/A. § (1) és (2) bekezdése szerinti kérelem tárgyában hozott döntésben az örökhagyó részére megállapított részarány-tulajdont az örökös termelőszövetkezeti különlapjára rávezeti.
+
+## 3c.[^6] A 2020. évi XL. törvény 8. §-a szerinti eljárás
+
+### 3/C. §
+
+A 2020. évi XL. törvény 8. § (2) bekezdésének alkalmazása során a földet birtokló mezőgazdasági termelőszervezetben a vételi jog gyakorlásának időpontjában fennálló tulajdoni hányadot kell figyelembe venni.
+
+## 4. Záró rendelkezések
+
+### 4. §
+
+Ez a rendelet 2021. január 1-jén lép hatályba.
+
+## 5. Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet módosítása
+
+## 1. melléklet az 560/2020. (XII. 7.) Korm. rendelethez
+
+**A kártalanítási eljárásra irányuló kérelem adattartalma**
+
+1\. A kártalanítást igénylő személyazonosító adatai
+
+1.1. Családi és utónév
+
+1.2. Születési családi és utónév
+
+1.3. Születési hely
+
+1.4. Születési idő (év/hónap/nap)
+
+1.5. Anyja születési családi és utóneve
+
+1.6. Állampolgárság
+
+1.7. Személyi igazolvány száma
+
+2\. A kártalanítást igénylő elérhetőségének az adatai
+
+2.1. Lakcím
+
+2.2. Levelezési cím, ha az igénylő a lakcímétől eltérő címen elérhető
+
+3\. A részarány-tulajdonra vonatkozó adatok
+
+3.1. Termelőszövetkezet megnevezése, címe
+
+3.2. Fennálló részarány-tulajdon aranykorona értéke
+
+4\. A kérelmező nyilatkozata arról, hogy
+
+4.1. a kérelemmel érintett részarány-tulajdon tekintetében a mezőgazdasági igazgatási szerv nem rendelkezett határozatával földrészlet tulajdonba adásról, továbbá a mezőgazdasági igazgatási szerv által nem került közzétételre nyilvános sorsolás útján történő tulajdonba adás céljából sorsolási hirdetmény, vagy a kárpótlási hatóság által nem került meghirdetésre kárpótlási célú árverés, továbbá, hogy a nevén vagy jogelődjének nevén a 3.2. pontban megjelölt termelőszövetkezeti különlapon aranykorona értékben kifejezett részarány-tulajdon van nyilvántartva, amely ellenében sem a kérelmező, sem annak jogelődje ingatlan tulajdonát nem szerezte meg, illetve kártalanítást sem kapott;
+
+4.2. a termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény (a továbbiakban: 2020. évi XL. törvény) 6. §-a szerinti jogosult esetében a kérelmező vagy jogelődje a földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 12/C. §-a szerint a mezőgazdasági igazgatási szerv véglegessé vált határozata alapján kártalanításra jogosult, azonban a kártalanítási összeg kifizetésére 2021. január 1. napjáig nem került sor;
+
+4.3. a 2020. évi XL. törvény 8. §-a alapján vételi joga nem áll fenn vagy vételi jogát nem kívánja gyakorolni.
+
+5\. A kártalanítás kifizetésére vonatkozó adatok
+
+5.1. Számlatulajdonos neve
+
+5.2. Számlavezető pénzintézet neve
+
+5.3. Számlaszám
+
+6\. A kártalanítást igénylő aláírása és a kérelem kelte
+
+---
+
+[^1]: Az 1. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 311. §-a szerint módosított szöveg.
+[^2]: A 2. § (1a) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 11. §-a iktatta be, a 301/2024. (X. 22.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^3]: A 2. § (1b) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 11. §-a iktatta be, a 301/2024. (X. 22.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^4]: A 3a. alcímet (3/A. §-t) a 170/2023. (V. 12.) Korm. rendelet 37. §-a iktatta be.
+[^5]: A 3b. alcímet (3/B. §-t) a 301/2024. (X. 22.) Korm. rendelet 6. §-a iktatta be.
+[^6]: A 3c. alcímet (3/C. §-t) a 188/2025. (VII. 3.) Korm. rendelet 36. §-a iktatta be.

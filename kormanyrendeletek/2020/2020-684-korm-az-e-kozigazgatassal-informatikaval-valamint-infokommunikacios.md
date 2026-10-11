@@ -1,0 +1,168 @@
+---
+title: "684/2020. (XII. 28.) Korm. rendelet az e-közigazgatással, informatikával, valamint infokommunikációs infrastruktúrával kapcsolatos fejlesztési programok keretében megvalósuló projektek megvalósításáról és a Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. kijelöléséről"
+identifier: "684/2020. (XII. 28.) Korm. rendelet"
+njt_id: "2020-684-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/684"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-28
+in_force_from: 2021-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-684-20-22"
+retrieved: 2026-10-12
+---
+
+# 684/2020. (XII. 28.) Korm. rendelet az e-közigazgatással, informatikával, valamint infokommunikációs infrastruktúrával kapcsolatos fejlesztési programok keretében megvalósuló projektek megvalósításáról és a Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. kijelöléséről
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet hatálya az e-közigazgatással, informatikával, valamint infokommunikációs infrastruktúrával kapcsolatos fejlesztési programok keretében megvalósuló, a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdés a)–d) pontjaiban meghatározott szervezeteket (a továbbiakban: érintett szervezet) érintő projektekre (a továbbiakban: projekt) terjed ki.
+
+## 2. §[^1]
+
+Az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter) a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: Statútum) 18. § f) pontjának megfelelően felügyeli az e-közigazgatási, az informatikai, valamint a közigazgatási infokommunikációs infrastruktúra fejlesztéseket érintő magas szintű politikai döntések végrehajtását, amelynek részeként
+
+a)[^2] felügyeli a 2021–2027-es programozási időszak uniós forrásainak felhasználására irányuló, digitalizációt támogató – különösen a Digitális Európa Program, valamint a többéves pénzügyi keret keretében –, valamint egyéb, az Európai Unió támogatásával – így különösen a Helyreállítási és Ellenállóképességi (Rezilienciaépítési) Eszköz keretében – megvalósuló e-közigazgatási, informatikai, valamint közigazgatási infokommunikációs infrastruktúra fejlesztési területeket érintő programok kidolgozását és azok végrehajtását,
+
+b)[^3] az *a)* pontba nem tartozó esetekben figyelemmel kíséri az e-közigazgatási, az informatikai, valamint a közigazgatási infokommunikációs infrastruktúrát érintő fejlesztési elképzelések, költségvetési vagy európai uniós forrásból finanszírozott támogatással megvalósuló programok kidolgozását és azok végrehajtását,
+
+c) az *a)* és *b)* pont szerinti fejlesztési programok keretében megvalósuló projektek végrehajtásának összehangolása, egységes magas színvonalon, valamint határidőre történő megvalósítása érdekében
+
+ca) együttműködik az egyes projektekben érintett miniszterekkel, a miniszterek által kijelölt szervezetekkel, egyéb intézményekkel, tőlük a feladat- és hatáskörébe tartozó kérdésben információt, felvilágosítást kérhet és szolgáltat,
+
+cb)[^4] a Statútum 18. § e) pontjának megfelelően egyetértési jogot gyakorol az egyes projektekkel kapcsolatos kormányzati döntési javaslatok Kormány általi megtárgyalása során, illetve szükség esetén intézkedési javaslatot tesz.
+
+## 3. §[^5]
+
+(1)[^6] A miniszter a Statútumból fakadó e rendelet szerinti feladatait a Digitális Kormányzati Fejlesztés és Projektmenedzsment Kft. (a továbbiakban: Társaság) bevonásával látja el.
+
+(2) A Társaság
+
+a) a 2. § a) pontja szerinti fejlesztési programok keretében megvalósuló projektekben konzorciumvezetőként vagy konzorciumi tagként részt vesz, és
+
+aa) a *c)* pont szerinti módon közreműködik a projektek végrehajtásában,
+
+ab) a Kormány egyedi döntése esetén, a Kormány által meghatározott módon közreműködik egyes projektek végrehajtásában, vagy
+
+ac) a Kormány egyedi döntése esetén felel egyes projektek végrehajtásáért,
+
+b) a 2. § b) pontja szerinti fejlesztési programok keretében megvalósuló projektekben
+
+ba) az érintett szervezet és a Társaság megállapodásban meghatározott módon közreműködhet egyes projektek végrehajtásában,
+
+bb) a Kormány egyedi döntése esetén, a Kormány által meghatározott módon közreműködik egyes projektek végrehajtásában, vagy
+
+bc) a Kormány egyedi döntése esetén felel egyes projektek végrehajtásáért,
+
+c) az *a)* pont *aa)* alpontja szerinti esetben
+
+ca) felméri az érintett szervezetek projektmegvalósítási képességét,
+
+cb) projektmegvalósítási módszereket, ajánlásokat, követelményeket dolgoz ki, illetve határoz meg,
+
+cc) minőségbiztosítási tevékenységet lát el, és
+
+cd) nyomon követi a projektek megvalósítását,
+
+d) az *a)* pont *aa)* alpontjába nem tartozó esetben a *c)* pont szerinti és egyéb, így különösen, projektmenedzsment-, tanácsadási, szakértői és képzési tevékenységeket láthat el,
+
+e)[^7] ellátja szuperszámítógép-infrastruktúra és -ökoszisztéma (HPC) magyarországi fejlesztésével összefüggő, így a szuper-számítástechnikai infrastruktúra magyarországi fejlesztéséről szóló 1422/2020. (VII. 23.) Korm. határozat 1. és 6. pontja szerinti HPC fejlesztések és 4. pontja szerinti HPC Kompetencia Központ feladatokat,
+
+f)[^8] ellátja az Európai Bizottság Szélessávú kompetenciairodák (BCO-k) hálózatában a tagságból eredő feladatokat,
+
+g)[^9] ellátja Magyarország képviseletét az Európai nyílt tudományosadat-felhő (European Open Science Cloud), az Európai Nagy Teljesítményű Számítástechnika (EuroHPC), a Partnerség az európai fejlett számítástechnikáért (PRACE) együttműködésekben, és koordinálja az e tárgykörben meglévő kapcsolatokat,
+
+h)[^10] ellátja az Európai Hálózatfinanszírozási Eszköz (2021–2027) tagállami feladatait,
+
+i)[^11] a feladatai ellátása érdekében együttműködik a minisztériumokkal és a feladatellátásban érintett egyéb szervezetekkel, intézményekkel,
+
+j)[^12] javaslattal él a digitális közszolgáltatások határokon átnyúló együttműködésének és interoperabilitásának fokozása érdekében,
+
+k)[^13] döntés-előkészítő dokumentumok megalkotásával innovatív digitális technológiák, megoldások, valamint innovatív ökoszisztémák kutatását és létrehozását támogatja, valamint
+
+l)[^14] ellátja mindazon további feladatokat, amelyeket jogszabály vagy a Kormány egyedi döntése részére meghatároz.
+
+(3) A Társaság az e rendelet szerinti kapcsolattartás, valamint az e rendelet szerinti folyamatok nyomonkövethetősége céljából, adatszolgáltatási és tájékoztatási kötelezettség teljesítésére is alkalmas informatikai rendszert alakíthat ki és működtethet.
+
+(4) A Társaság rendelkezhet úgy, hogy az érintett szervezetek, valamint a (2) bekezdés e) pontja szerinti más szervezetek részére kizárólag a (3) bekezdés szerinti informatikai rendszeren keresztül biztosítja a kapcsolattartást.
+
+(5) Az e rendelet szerinti feladatai ellátása érdekében a Társasággal az érintett szervezet fokozottan együttműködni, a Társaság megkeresésére a kért tájékoztatást soron kívül, de legfeljebb a megkeresés kézhezvételétől számított
+
+5 munkanapon belül megadni köteles.
+
+(6)[^15] A Társaság nem köteles a 2. § a) pontja szerinti fejlesztési programok keretében megvalósuló projektekben részt venni, ha az adott program támogatási intenzitása miatt önerő biztosítása szükséges, és az önerő biztosítása az egyéb programok végrehajtását veszélyezteti.
+
+## 3/A. §[^16]
+
+(1) A Társaság ügyvezetője a Társaság minőségbiztosítási tevékenységével összefüggésben szakmai irányítási jogkörrel nem rendelkezik, a Társaság minőségbiztosítási tevékenységgel kapcsolatos munkakört betöltő munkavállalói részére szakmai tartalmú utasítást nem adhat.
+
+(2) A Társaság minőségbiztosítási szakmai feladatainak ellátásával összefüggő irányítási és döntéshozatali jogokat az informatikáért felelős miniszter által kijelölt szakpolitikai felelős gyakorolja, aki jogosult a Társaság szakmai feladatainak meghatározására, a feladatellátás ellenőrzésére és a szakmai teljesítmény értékelésére.
+
+## 4. §
+
+(1)[^17] Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakba: Áht.) 3/A. § (2) bekezdésére figyelemmel a Társaság e rendelet szerinti feladatait közfeladatként látja el. Az európai uniós forrásból finanszírozott támogatás – központi költségvetésből megelőlegezett és a támogatásból elszámolható – részével a Társaság az Áht. 20. § (2) bekezdésére is figyelemmel számol el. A Társaság a bevételeit – az Áht. 3/A. § (3) bekezdésére figyelemmel – az e rendeletben meghatározott feladatai ellátásának pénzügyi fedezetére használhatja fel.
+
+(1a)[^18] A Társaság – ha a közreműködése kizárólag a 3. § (2) bekezdés a) pont aa) alpontja szerinti –
+
+a) az e-közigazgatási, az informatikai vagy a közigazgatási infokommunikációs infrastruktúra-fejlesztésre irányuló projekt esetében, a projekt mindösszesen támogatási összege 2%-ának megfelelő összegű támogatásban részesül,
+
+b) az e-közigazgatási, az informatikai vagy a közigazgatási infokommunikációs infrastruktúra-fejlesztési területet is érintő projekt esetében, a projekt mindösszesen támogatási összege 1%-ának, továbbá az e-közigazgatási, az informatikai, valamint a közigazgatási infokommunikációs infrastruktúra-fejlesztési projektelemekre eső támogatási összeg 1%-ának megfelelő összegű támogatásban részesül.
+
+(1b)[^19] A Társaság – az (1a) bekezdésbe nem tartozó esetben – a projekt mindösszesen támogatási összegéből a Kormány egyedi döntése, ennek hiányában az érintett szervezet és a Társaság megállapodása szerinti közreműködése mértékének megfelelő összegű támogatásban részesül.
+
+(2) Az 5. § (2) bekezdése szerinti hatálybalépés napján (a továbbiakban: kezdő nap) folyamatban lévő projektek végrehajtását e rendelet nem érinti.
+
+(3)[^20]
+
+(4)[^21]
+
+(5)[^22]
+
+(6) E rendelet 3. § (2) bekezdés a) pontjában foglaltakat törvényben meghatározott védelmi és biztonsági tárgyú projektek, továbbá azon fejlesztési programok keretében megvalósuló projektek tekintetében, amelyek esetében az ország biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések az e rendeletben foglalt feladatellátás során nem garantálhatóak, nem kell alkalmazni.
+
+(7)[^23]
+
+(8)[^24]
+
+(9) Az e rendeletben meghatározott előírások szándékos vagy ismételt megsértése esetén a Társaság jelzése alapján a miniszter a felelős személy fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.
+
+## 5. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2021. január 1-jén lép hatályba.
+
+(2) E rendelet 3. és 4. §-a a Társaságnak a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 46. § (7) bekezdése szerinti bejegyzését követő napon lép hatályba.[^25]
+
+(3) A (2) bekezdésben meghatározott feltétel bekövetkezéséről szóló határozatot a miniszter a Magyar Közlönyben, a feltétel bekövetkezésének a napján közzéteszi.[^26]
+
+---
+
+[^1]: A 2. § nyitó szövegrésze a 239/2022. (VI. 30.) Korm. rendelet 47. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § a) pontja a 415/2021. (VII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § b) pontja a 415/2021. (VII. 13.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § c) pont cb) alpontja a 239/2022. (VI. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § a 415/2021. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. § (1) bekezdése a 310/2023. (VII. 14.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^7]: A 3. § (2) bekezdés e) pontja a 234/2024. (VIII. 8.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^8]: A 3. § (2) bekezdés f) pontja a 234/2024. (VIII. 8.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^9]: A 3. § (2) bekezdés g) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^10]: A 3. § (2) bekezdés h) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^11]: A 3. § (2) bekezdés i) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^12]: A 3. § (2) bekezdés j) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^13]: A 3. § (2) bekezdés k) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^14]: A 3. § (2) bekezdés l) pontját a 234/2024. (VIII. 8.) Korm. rendelet 18. §-a iktatta be.
+[^15]: A 3. § (6) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 16. §-a iktatta be.
+[^16]: A 3/A. §-t a 483/2025. (XII. 31.) Korm. rendelet 18. §-a iktatta be.
+[^17]: A 4. § (1) bekezdése a 415/2021. (VII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 4. § (1a) bekezdését a 415/2021. (VII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A 4. § (1b) bekezdését a 415/2021. (VII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^20]: A 4. § (3) bekezdését a 234/2024. (VIII. 8.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^21]: A 4. § (4) bekezdését a 234/2024. (VIII. 8.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^22]: A 4. § (5) bekezdését a 234/2024. (VIII. 8.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^23]: A 4. § (7) bekezdését a 234/2024. (VIII. 8.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^24]: A 4. § (8) bekezdését a 234/2024. (VIII. 8.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^25]: Az 1/2021. (III. 25.) MK határozat alapján a hatálybalépés napja 2021. február 28.
+[^26]: Lásd az 1/2021. (III. 25.) MK határozatot.

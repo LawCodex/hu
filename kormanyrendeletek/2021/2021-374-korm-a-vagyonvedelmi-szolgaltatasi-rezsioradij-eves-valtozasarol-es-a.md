@@ -1,0 +1,106 @@
+---
+title: "374/2021. (VI. 30.) Korm. rendelet a vagyonvédelmi szolgáltatási rezsióradíj éves változásáról és a megállapítására vonatkozó eljárási szabályokról"
+identifier: "374/2021. (VI. 30.) Korm. rendelet"
+njt_id: "2021-374-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/374"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-06-30
+in_force_from: 2021-07-30
+last_amended: 2022-01-02
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-374-20-22"
+retrieved: 2026-10-12
+---
+
+# 374/2021. (VI. 30.) Korm. rendelet a vagyonvédelmi szolgáltatási rezsióradíj éves változásáról és a megállapítására vonatkozó eljárási szabályokról
+
+A Kormány a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 76. § *a)* és *b)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *rezsióradíj:* a vagyonvédelmet ellátó vállalkozás által vagyonvédelmi feladat elvégzéséhez szükséges, egy munkaórára vetített minimális költség,
+
+b) *vagyonvédelmi szolgáltatási tevékenység:* a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 72/B. § (1) bekezdésében meghatározott tevékenységek szervezésével és irányításával összefüggő tevékenység.
+
+## 2. A rezsióradíj tárgyévre vonatkozó összege
+
+### 2. §
+
+(1) A rezsióradíj tárgyévre számított összege – ha kormányrendelet eltérően nem rendelkezik – a 2022. évtől minden évben az előző évben irányadó rezsióradíjnak a tárgyévi garantált bérminimum órabér alkalmazására irányadó összegének előző évhez viszonyított növekménye arányában növelt összege.
+
+(2) A tárgyévre irányadó rezsióradíj összege az előző évihez képest nem csökkenhet.
+
+(3) A tárgyévre irányadó rezsióradíj (1) bekezdés szerinti összegéről az élet és vagyonbiztonság védelméért felelős miniszter (a továbbiakban: miniszter) a Magyar Közlönyben közleményt tesz közzé.
+
+### 3. §
+
+A Kormány rendeletében a rezsióradíj tárgyévi összegét – a Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara (a továbbiakban: Kamara) a Magánbiztonsági Ágazati Párbeszéd Bizottsággal (a továbbiakban: MBÁPB) közösen, a 3. alcím szerint kialakított javaslatának elfogadása esetén, a miniszter előterjesztése alapján – a 2. § (1) bekezdésétől eltérő mértékben is meghatározhatja.
+
+## 3. A Kamara és az MBÁPB javaslattételének rendje
+
+### 4. §
+
+(1) Ha a rezsióradíj tárgyévi összegét – a Kamara álláspontja szerint – a 2. § (1) bekezdése szerint számított összegnél magasabb összegben indokolt megállapítani, a Kamara az MBÁPB-val közösen tárgyév február 1-jéig együttes javaslatot (a továbbiakban: javaslat) tesz a 3. § szerinti kormányrendelet előkészítésére a miniszter részére.
+
+(2) A javaslat elkészítése során nem vehető figyelembe
+
+a) a feladat ellátásához szükséges eszközök, felszerelések, ruházat költsége,
+
+b) a működési engedélyhez kapcsolódó díj, valamint
+
+c) a felelősségbiztosítással járó költség.
+
+(3) A javaslatnak tartalmaznia kell
+
+a) a vállalkozások tényadataiból egy munkaórára számított értéket, amely magába foglalja
+
+aa) az alapbért,
+
+ab) a műszakpótlékot,
+
+ac) a távolléti díjat,
+
+ad) a foglalkoztatói járulékot,
+
+ae) az *aa)–ad)* alpontban foglaltak adminisztrációs költségeit,
+
+b) szöveges indokolást.
+
+### 5. §
+
+(1) Ha a miniszter egyetért a javaslatban foglaltakkal, előterjesztést készít a Kormány részére a 3. § szerinti kormányrendelet megalkotása érdekében, amelynek előkészítése során figyelembe veszi a javaslatban foglaltakat, további egyeztetéseket nem kezdeményez.
+
+(2) Ha a miniszter nem ért egyet a javaslatban foglaltakkal, úgy az észrevételeivel ellátott javaslatot átdolgozásra megküldi a Kamara és az MBÁPB részére.
+
+(3) A Kamara és az MBÁPB közösen a (2) bekezdésben meghatározott észrevételek alapján a javaslatot módosíthatják. A módosított javaslatot közösen 5 napon belül ismételten felterjesztik a miniszter részére.
+
+(4) Ha a Kamara és az MBÁPB egyeztetése nem vezet eredményre, akkor a saját módosító javaslatukat külön-külön, 5 napon belül felterjesztik a miniszternek azzal a tájékoztatással, hogy mely indokok alapján nem támogatják egymás javaslatát.
+
+### 6. §
+
+(1) Ha a Kamara és az MBÁPB határidőben nem terjeszt fel közös javaslatot vagy közös módosított javaslatot, vagy a közös módosított javaslatban vagy a külön felterjesztett saját javaslatban foglaltakkal a miniszter nem ért egyet, egyeztetést kezdeményezhet. Az egyeztetési folyamatot tárgyév április 1-jéig le kell zárni.
+
+(2) Ha a vélemények eltérése miatt az egyeztetés nem célravezető, vagy az nem vezet eredményre, a miniszter a javaslat figyelembe nem vételéről a Kamarát és az MBÁPB-t tájékoztatja.
+
+(3) Ha az egyeztetési folyamat eredményes, az egyeztetési eljárás lezárását követően a miniszter a Kormány elé terjeszti a kormányrendelet tervezetét.
+
+### 7. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 30. napon lép hatályba.
+
+(2) A 9. § 2022. január 1-jén lép hatályba.
+
+### 8. §[^1]
+
+### 9. §[^2]
+
+---
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

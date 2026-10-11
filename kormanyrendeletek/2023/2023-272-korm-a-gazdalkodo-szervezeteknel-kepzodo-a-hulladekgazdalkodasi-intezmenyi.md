@@ -1,0 +1,158 @@
+---
+title: "272/2023. (VI. 29.) Korm. rendelet a gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól"
+identifier: "272/2023. (VI. 29.) Korm. rendelet"
+njt_id: "2023-272-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/272"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-06-29
+in_force_from: 2023-07-01
+last_amended: 2023-09-22
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-272-20-22"
+retrieved: 2026-10-12
+---
+
+# 272/2023. (VI. 29.) Korm. rendelet a gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 2. és 37. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A szerződés létrejötte és tartalma
+
+### 1. §
+
+(1) Az eredeti hulladéktermelő gazdálkodó szervezet ingatlanhasználó, amelynek tevékenysége során hulladék képződik (a továbbiakban: gazdálkodó szervezet), a koncessziós társasággal az igénybe venni kívánt szolgáltatástól függően szerződéses jogviszonyt létesít.
+
+(2) A koncessziós társaság az általa üzemeltetett informatikai rendszeren keresztül biztosítja a gazdálkodó szervezet számára a szerződéskötéssel kapcsolatos adataik megadásának, a koncessziós társaság – a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 31. § (11) bekezdése szerinti kompenzáció fizetésére vonatkozó feltételeket is tartalmazó – általános szerződési feltételei (a továbbiakban: ÁSZF) megismerésének és elfogadásának lehetőségét.
+
+(3) A gazdálkodó szervezet kezdeményezése esetén a koncessziós társaság nem tagadhatja meg a hulladékkal kapcsolatosan a koncessziós társaság által végzett tevékenységre vonatkozó szerződésnek az e rendelet és a koncessziós társaság ÁSZF-je alapján a gazdálkodó szervezettel történő megkötését.
+
+(4) A gazdálkodó szervezet szerződéskötéssel kapcsolatos adatainak – a Ht. 92/A. § (2) bekezdésében foglaltak szerinti – megadását és a koncessziós társaság ÁSZF-jének elfogadását követően a koncessziós társaság a megadott adatokat feldolgozza. Az adatok feldolgozását követően a koncessziós társaság az általa üzemeltetett informatikai rendszerben az érintett gazdálkodó szervezet részére haladéktalanul megküldi az érintett gazdálkodó szervezet és a koncessziós társaság között létrejövő szerződést, amely a koncessziós társaság ÁSZF-jével együtt meghatározza a gazdálkodó szervezet részére a koncessziós társaság által nyújtott szolgáltatás tartalmát.
+
+(5) A szerződés legalább az alábbi adatokat tartalmazza:
+
+a) a szerződő felek megnevezése a gazdálkodó szervezet székhelyének és cégjegyzékszámának, adószámának feltüntetésével,
+
+b) az ingatlan megjelölése, ahol az átvétel vagy gyűjtés történik,
+
+c) a gyűjtőedény(ek) űrmértékének megjelölése,
+
+d) a szolgáltatás tartalmának leírása,
+
+e) annak megjelölése, hogy a fizetendő díjjal kapcsolatos információk mely nyilvános felületen érhetőek el,
+
+f) a számlázási és fizetési mód, az elszámolási és a számlázási időszakok meghatározása,
+
+g) a szerződés hatálybalépése és időtartama,
+
+h) a szerződés megszüntetésének feltételei, valamint
+
+i) az átvétel, gyűjtés és elszállítás módja.
+
+(6)[^1] A szerződés a dokumentumra mutató link gazdálkodó szervezet részére történő hozzáférhetővé válása időpontjában lép hatályba. Az így létrejött szerződés a Ht. 31. § (11) bekezdésének, valamint az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 160. § (1) bekezdésének alkalmazásában írásbelinek tekintendő.
+
+(7) A koncessziós társaság és a gazdálkodó szervezet közötti szerződés módosítása a koncessziós társaság által üzemeltetett informatikai rendszeren keresztül történik a koncessziós társaság ÁSZF-jében foglaltak szerint.
+
+(8) A koncessziós társaság és a gazdálkodó szervezet közötti szerződés megszüntetésére egy adott ingatlan vonatkozásában, az érintett ingatlanon a gazdálkodó szervezet által folytatott hulladéktermelő tevékenység végleges megszüntetése esetén van lehetőség, a koncessziós társaság ÁSZF-jében foglalt részletes szabályok szerint.
+
+(9) A koncessziós társaság és az eredeti hulladéktermelő gazdálkodó szervezet között a Ht. 31. § (6) bekezdése szerint létrejött külön megállapodás alapján a koncessziós társaság az ÁSZF-jében foglaltaktól eltérhet.
+
+### 2. §
+
+Az ÁSZF-ben a koncessziós társaság – különösen a hulladék jellegét, típusát, minőségét és mennyiségét, az alkalmazott gyűjtési módot, edényméretet, valamint a szolgáltatás gyakoriságát figyelembe véve – differenciált tartalmú szolgáltatásokat határozhat meg.
+
+## 2. A hulladékgazdálkodási intézményi résztevékenység körébe tartozó, háztartási hulladékhoz hasonló hulladék részét képező, elkülönítetten gyűjtött hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek
+
+### 3. §
+
+(1) A gazdálkodó szervezet, amelynek tevékenysége során hulladék keletkezik,
+
+a) a Ht. 11. §-a szerinti hulladékképződés megelőzésének követelményeit érvényesíti,
+
+b) a hulladék elkülönített gyűjtését, a hulladékgyűjtők mellett, tájékoztatók kihelyezésével is elősegíti,
+
+c) a koncessziós társaság általános szerződési feltételeiben rögzített módon igénybe veszi a hulladék tekintetében a hulladékgazdálkodási intézményi résztevékenység körébe tartozó átvételi, gyűjtési és elszállítási szolgáltatást, és
+
+d) a (2) bekezdés szerinti díjat elektronikus úton, a koncessziós társaság ÁSZF-jében meghatározott feltételekkel megfizeti.
+
+(2) A gazdálkodó szervezet a koncessziós társaság által végzett hulladékgazdálkodási tevékenységért a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjak, a díjalkalmazási feltételek, valamint a díjmegfizetés rendjének megállapításáról szóló miniszteri rendelet szerinti díjat fizet a Ht. 92/B. § (8) bekezdése alapján. A díj a gazdálkodó szervezet tevékenysége során képződő hulladékhoz – ide nem értve a kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékekből származó hulladékot – kapcsolódóan merül fel.
+
+### 4. §
+
+(1) A hulladékot a gazdálkodó szervezet
+
+a) a hulladék képződésének helye szerinti ingatlan területén vagy
+
+b) a hulladék képződéséhez legközelebb eső gyűjtésre alkalmas területen, közterületen vagy helyiségben, szabványos gyűjtőedényben vagy a koncessziós társaság vagy a koncesszori alvállalkozó által meghatározott egyéb módon
+
+gyűjti.
+
+(2) A koncessziós társaság ÁSZF-jének eltérő rendelkezése hiányában a gyűjtőedény biztosítása a gazdálkodó szervezet kötelezettsége.
+
+(3) A hulladékot legalább a 6. § (6) bekezdése szerinti hulladékfajták tekintetében a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó vegyes hulladéktól elkülönítetten kell gyűjteni, egyéb hulladékfajták tekintetében a vonatkozó ágazati jogszabály eltérő rendelkezésének megfelelően, továbbá az adott hulladékárami rendeletben foglaltak szerint kell eljárni.
+
+(4) A koncessziós társaság a hulladék elkülönített gyűjtését úgy alakítja ki, hogy az biztosítsa az érintett hulladékáramokra meghatározott célértékek teljesítését.
+
+(5) A gazdálkodó szervezetnél a nem az alaptevékenységével összefüggésben képződő biológiailag lebomló hulladékot – a sütőolaj és -zsír anyagáramba tartozó hulladéktól eltérő 3. kategóriájú állati eredetű melléktermékek kivételével – a koncessziós társaság, illetve a koncesszori alvállalkozó részére kell átadni.
+
+(6) A gazdálkodó szervezet a nála keletkezett sütőolaj és -zsír anyagáramba tartozó hulladékot elkülönítetten gyűjti, és gondoskodik az ilyen hulladék gyűjtését szolgáló gyűjtőedényben való elhelyezéséről.
+
+(7) A gazdálkodó szervezetnél az alaptevékenységével összefüggésben képződő biológiailag lebomló hulladékot – ide nem értve a sütőolaj és -zsír anyagáramba tartozó hulladékot, valamint az állati eredetű melléktermékek körébe be nem sorolható biológiailag lebomló hulladékot – a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról és az 1774/2002/EKrendelet hatályon kívül helyezéséről szóló, 2009. október 21-i 1069/2009/EK európai parlamenti és tanácsi rendeletnek megfelelően besorolva a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerint átvételre jogosultnak kell átadni.
+
+(8) A legkisebb költség elvére és az elérhető eredményekkel arányos észszerű gazdasági költségviselésre tekintettel az (5) bekezdés szerinti, a koncessziós társaság, illetve a koncesszori alvállalkozó részére átadandó biológiailag lebomló hulladék gyűjtésére irányuló szolgáltatás elérhetőségét a koncessziós társaság az ÁSZF-jében határozza meg.
+
+(9)[^2] Veszélyes, radioaktív vagy speciális kezelést igénylő hulladékot hulladék gyűjtésére szolgáló gyűjtőedényben elhelyezni nem lehet.
+
+### 5. §
+
+(1) A gazdálkodó szervezet a koncessziós társaság ÁSZF-jében meghatározott módon biztosítja a gyűjtőedény megfelelő jelöléssel történő ellátását.
+
+(2) Az elkülönített gyűjtés céljára szolgáló gyűjtőedénybe kizárólag olyan típusú, fajtájú hulladék helyezhető el, amelynek gyűjtésére a gyűjtőedényen szereplő jelzés vagy felirat – amennyiben van ilyen – vonatkozik, vagy amelyre a gazdálkodó szervezet a koncessziós társasággal a szolgáltatási szerződést megkötötte.
+
+(3) A koncessziós társaság – az (5) bekezdésben foglalt kivétellel – gondoskodik a hulladék elkülönített gyűjtésére szolgáló, 1100 liter űrméret alatti gyűjtőedénynek a gyűjtőedényben elhelyezhető hulladék fajtájára és jellegére vagy típusára utaló, egyértelműen felismerhető és megkülönböztethető színnel, valamint jelzéssel vagy felirattal való ellátásáról. A feliratnak tartósnak, jól láthatónak és olvashatónak kell lennie.
+
+(4) Azoknál a speciális anyagáramoknál, ahol a gyűjtőedény tisztítása, fertőtlenítése a (3) bekezdés szerinti követelményeknek való megfelelést nem teszi maradéktalanul lehetővé, törekedni kell a felirat tartósságának, jól láthatóságának és olvashatóságának biztosítására.
+
+(5) Ha a gazdálkodó szervezet a hulladékot hulladékgyűjtő zsákban gyűjti, a koncessziós társaság gondoskodik a zsák olyan színnel, jelzéssel vagy felirattal való ellátásáról, amelyből egyértelműen kiderül, hogy a zsák milyen hulladékot tartalmaz.
+
+### 6. §
+
+(1)[^3] A gazdálkodó szervezet a hulladék gyűjtésére szolgáló gyűjtőedényt a hulladék képződésének helye szerinti ingatlanon belül tartja, közterületen a gyűjtőedényt önkormányzati rendeletben meghatározottak szerint helyezheti el. A koncessziós társaság vagy a koncesszori alvállalkozó a gazdálkodó szervezet ingatlanán csak abban az esetben végez edényürítést, ha az ÁSZF így rendelkezik.
+
+(2) A gazdálkodó szervezet gondoskodik arról, hogy a hulladék koncessziós társaságnak vagy koncesszori alvállalkozónak történő átadása, továbbá a gazdálkodó szervezet által gyűjtőhelyre történő elszállítása biztonságosan, a környezet veszélyeztetését, szennyezését, károsítását, valamint a hulladék kiszóródását kizáró módon történjen.
+
+(3) A koncessziós társaság, illetve koncesszori alvállalkozó a honlapján történő közzététel útján a gazdálkodó szervezetet tájékoztatja a hulladék elszállításának rendjéről, időpontjáról, módjáról, feltételeiről.
+
+(4) A hulladék elszállítását zárható konténer vagy a kiporzást és kiszóródást megakadályozó, ideiglenes takarású konténer alkalmazásával és az e feltételeket biztosító, az egyes hulladékfajták átvételére alkalmas felépítménnyel rendelkező célgéppel, szállítójárművel kell végezni a környezet veszélyeztetését, szennyezését, károsítását kizáró módon.
+
+(5) A koncessziós társaság vagy a koncesszori alvállalkozó a hulladékot szükség szerinti gyakorisággal, a vegyes, továbbá más fajtájú, jellegű vagy típusú hulladéktól elkülönítve szállítja el, elkerülve azok keveredését.
+
+(6) A koncessziós társaság vagy a koncesszori alvállalkozó a gazdálkodó szervezettől legalább a következő hulladékfajtákat házhoz menő gyűjtési rendszerben szállítja el:
+
+a) műanyaghulladék,
+
+b) fémhulladék, valamint
+
+c) papírhulladék.
+
+(7) Ha a koncessziós társaság vagy a koncesszori alvállalkozó által történő átvételekor, összegyűjtésekor, elszállításakor a hulladék a gyűjtőedényből kiesik vagy kiszóródik, a hulladék felszedéséről és elszállításáról, valamint a terület megtisztításáról az érintett tevékenységet végző koncesszori alvállalkozó, illetve ha a tevékenységet maga végzi, akkor a koncessziós társaság gondoskodik.
+
+## 3. Záró rendelkezések
+
+### 7. §
+
+Ez a rendelet 2023. július 1. napján lép hatályba.
+
+### 8. §[^4]
+
+(1) Az 1. § (1) bekezdése szerinti jogviszonyt, valamint az 1. § (6) bekezdése szerinti szerződést a felek legkorábban 2023. július 1-jei hatállyal hozzák létre.
+
+(2) A koncessziós társaság a – kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek hulladékának nem minősülő – biológiailag lebomló hulladék esetében az elkülönített gyűjtés feltételeit 2023. december 31-től kezdődően biztosítja.
+
+---
+
+[^1]: Az 1. § (6) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 4. § (9) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^3]: A 6. § (1) bekezdése a 435/2023. (IX. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^4]: A 8. §-t a 435/2023. (IX. 21.) Korm. rendelet 10. §-a iktatta be.

@@ -1,0 +1,81 @@
+---
+title: "139/2024. (VI. 28.) Korm. rendelet az állami tulajdonban lévő ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság Lakossági energiahatékonysági beruházások megvalósításához kapcsolódó Otthonfelújítási Program műszaki szakértői közreműködői feladatok elvégzésére vonatkozó kijelöléséről"
+identifier: "139/2024. (VI. 28.) Korm. rendelet"
+njt_id: "2024-139-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/139"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-06-28
+in_force_from: 2024-06-29
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-139-20-22"
+retrieved: 2026-10-12
+---
+
+# 139/2024. (VI. 28.) Korm. rendelet az állami tulajdonban lévő ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság Lakossági energiahatékonysági beruházások megvalósításához kapcsolódó Otthonfelújítási Program műszaki szakértői közreműködői feladatok elvégzésére vonatkozó kijelöléséről
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §[^1]
+
+E rendelet hatálya a lakossági energiahatékonysági beruházások megvalósításához kapcsolódó Otthonfelújítási Programban műszaki szakértői közreműködő kijelölésére és az ellátandó feladatokra terjed ki.
+
+## 2. A műszaki szakmai közreműködő feladatai
+
+### 2. §
+
+(1) Az Otthonfelújítási Program megvalósításához kapcsolódó műszaki szakértői közreműködői feladatok az alábbiak:
+
+a) a műszaki-gazdasági szempontú elemzések elkészítése a tervezett, megvalósítandó beruházásokra vonatkozóan,
+
+b) a programhoz kapcsolódó regisztrációs listák portál, valamint műszaki portál nyilvántartási rendszerek kialakítása és működtetése: az építés minőségének, a szakszerű kivitelezés biztosításának, valamint jogszabályokban meghatározott követelményeknek az érvényre juttatása érdekében
+
+ba) kivitelezői regisztrációs felület kialakítása, működtetése és a kapcsolódó felhívás teljes körű elkészítése,
+
+bb) tanácsadói regisztrációs felület kialakítása, működtetése és a kapcsolódó felhívás teljes körű elkészítése,
+
+bc) a programban érintett építési kulcstermékek egyszerűsített környezeti minősítése, nyilvántartási rendszerének kialakítása és a kiemelt termékgyártókkal kapcsolattartás,
+
+bd) előkalkulátor felület kialakítása és működtetése,
+
+be) kérelmezők részére elektronikus információs felület kialakítása és karbantartása,
+
+c) helyszíni ellenőrzésekben való műszaki közreműködés a beruházások szakszerű, gazdaságos és a felhívásban előírt követelményeknek való megfeleltetése érdekében,
+
+d) egyéb, felmerülő műszaki tanácsadási szolgáltatás a pályázati konstrukció kialakításának, megvalósításának minőségbiztosítási és gazdaságossági hatékonyságának biztosítása érdekében.
+
+(2) Az (1) bekezdés b) pont bc) alpontjában foglalt, a programban érintett építési kulcstermékek egyszerűsített környezeti minősítésére, nyilvántartási rendszerének kialakítására vonatkozó műszaki szakértői közreműködői feladat végrehajtására a magyar építészetről szóló 2023. évi C. törvény 224. § (5) bekezdésével összhangban kerülhet sor.
+
+## 3.[^2] A Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet kijelölt műszaki szakértői közreműködő feladatainak ellátására vonatkozó szabályok
+
+### 3. §
+
+(1)[^3] Az Otthonfelújítási Program esetén a Kormány által a pénzügyi eszköz formában megvalósuló programok végrehajtására kijelölt szervezet a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézettel (a továbbiakban: KTI) 2026. december 31. napjáig terjedő időszakra szerződést köt a 2. §-ban foglalt feladatokhoz kapcsolódó, végrehajtáshoz szükséges szolgáltatások ellátására.
+
+(2)[^4] Az (1) bekezdés szerinti szerződésben rögzítésre kerülnek a KTI feladatai, jogai és kötelezettségei, valamint a feladatokat ellátó felelős szervezeti egység.
+
+(3)[^5] Az Otthonfelújítási Program esetén a Kormány által a pénzügyi eszköz formában megvalósuló programok végrehajtására kijelölt szervezet a KTI-vel 2027. január 1. és 2030. december 31. közötti időszakra a szükséges forrás rendelkezésre állásának biztosítása esetén szerződést köt a 2. §-ban foglalt feladatokhoz kapcsolódó, végrehajtáshoz szükséges szolgáltatások ellátására.
+
+## 4. Záró rendelkezések
+
+### 4. §
+
+(1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(2) A rendelet 3. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
+
+(3) Ez a rendelet – a (4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(4) A 2. § (2) bekezdése 2026. január 1. napján lép hatályba.
+
+---
+
+[^1]: Az 1. § a 447/2024. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. alcím címe a 442/2025. (XII. 29.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 447/2024. (XII. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 442/2025. (XII. 29.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése a 442/2025. (XII. 29.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdését a 447/2024. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 442/2025. (XII. 29.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.

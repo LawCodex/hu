@@ -1,0 +1,119 @@
+---
+title: "255/2021. (V. 18.) Korm. rendelet az erdővédelmi bírság mértékéről és kiszámításának módjáról"
+identifier: "255/2021. (V. 18.) Korm. rendelet"
+njt_id: "2021-255-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/255"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-05-18
+in_force_from: 2021-06-03
+last_amended: 2021-06-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-255-20-22"
+retrieved: 2026-10-12
+---
+
+# 255/2021. (V. 18.) Korm. rendelet az erdővédelmi bírság mértékéről és kiszámításának módjáról
+
+A Kormány az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (1) bekezdés *b)* pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+Az erdészeti hatóság az erdővédelmi bírság mértékét az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 82. § (1) bekezdése szerinti erdővédelmi járulékalap (a továbbiakban: EJA) 2–4. §-a szerinti szorzataként határozza meg.
+
+## 2. §
+
+(1) Az Evt. 108. § (1) bekezdése szerinti erdővédelmi bírság mértéke – az Evt. 105/F. §-ában foglalt szempontok figyelembevételével –
+
+a) fásításban vagy erdőben történő jogosulatlan fakitermelés vagy arra való megbízás esetén, a kitermelt faanyag alapján, bruttó köbméterenként 0,1 EJA – 0,3 EJA;
+
+b) az Evt. 73. § (1) bekezdésében foglalt előírások megsértése esetén hektáronként 0,5 EJA;
+
+c) az Evt. 69. § (1) bekezdésében foglalt előírások megsértése esetén a károsodás vagy veszélyeztetés mértékétől függően hektáronként 0,2 EJA – 5,0 EJA;
+
+d) az erdő Evt. szerint elvárt állapotának kialakulása és fenntartása akadályozása esetén, ha az akadályozás
+
+da) az állománynevelési feladatok elmulasztásával valósul meg, az állománynevelés céljából tervezett fakitermelés végrehajtása során nem az előírt állománytípus kialakítása érdekében kivágandó faegyedek kitermelésével a faállomány szerkezete romlik, vagy természetességi állapotban visszalépés történik, vagy
+
+db) eredményeként a fakitermeléssel érintett terület egészén vagy annak jól elkülönülő, 0,5 ha-t meghaladó nagyságú részén a visszamaradó faállomány egyedeinek tíz százaléka vagy annál nagyobb hányada megsérül,
+
+hektáronként 0,5 EJA – 2,0 EJA;
+
+e) az erdőfelújítás megkezdésére, a felújítás befejezésére vagy a pótlásra megállapított határidő túllépése esetén, amennyiben erdőfelújítási biztosíték nyújtási kötelezettség nem került előírásra, a természetességi alapelvárás figyelembevételével évenként és hektáronként 0,5 EJA – 1,0 EJA;
+
+f) az erdőfelújítási biztosíték nyújtási kötelezettség késedelme, teljes vagy részleges nemteljesítése esetén évenként és hektáronként 0,5 EJA – 1,0 EJA;
+
+g) jogszabályban foglalt, az erdészeti hatóság számára történő bejelentési kötelezettség elmulasztása esetén alkalmanként 0,3 EJA;
+
+h) az erdészeti hatóság döntésének végrehajtása elmulasztása vagy döntésétől eltérő végrehajtása esetén, valamint az Evt. alapján engedélyhez kötött tevékenység – a fakitermelés kivételével – engedély nélküli végzése esetén alkalmanként 0,5 EJA – 2,0 EJA;
+
+i) az Evt. 61. §-ában, illetve 63. § (2) és (3) bekezdésében foglalt tilalmak megsértése esetén, alkalmanként az erdő károsításának mértékétől függően 0,1 EJA – 5,0 EJA;
+
+j) az Evt. 68. § *d)* pontjában meghatározott erdei haszonvételek jogosulatlan gyakorolása esetén – ide nem értve az állam 100%-os tulajdonában álló erdőben az elhalt, földön fekvő gally, vékony száraz ág egyéni szükségletre történő kézi gyűjtését és annak elhordását – esetenként 0,1 EJA – 1,0 EJA;
+
+k) az Evt. 93. § (1), (2), (4) vagy (5) bekezdésében foglalt kötelezettség megsértése esetén esetenként 0,2 EJA – 5,0 EJA.
+
+(2) Az Evt. 108. § (2) bekezdése szerinti erdővédelmi bírság mértéke:
+
+a) az igénybe vett terület után az Evt. 81. § (2)–(4) bekezdése szerinti erdővédelmi járulék háromszorosának megfelelő, de legalább 1,0 EJA;
+
+b) a kialakult állapot fennmaradásának engedélyezése esetén az Evt. 81. § (2)–(4) bekezdése szerinti erdővédelmi járulék tízszeresének megfelelő, de legalább 1,0 EJA.
+
+## 3. §
+
+Az Evt. 108. § (3) bekezdése szerinti erdővédelmi bírság mértéke – az Evt. 105/F. §-ában foglalt szempontokat, valamint a jogsértés Evt. 111. § (3) bekezdése szerinti súlyosságát is figyelembe véve – a károsítással érintett terület után az erdő károsításának mértékétől függően hektáronként 0,2 EJA – 2,0 EJA.
+
+## 4. §
+
+A faanyag-kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az Evt. 108. § (4) bekezdése szerinti erdővédelmi bírság mértéke – az Evt. 111. § (2) bekezdésében foglalt szempontok figyelembevételével –
+
+a) az Evt. 90/A. § (6) bekezdése, (7) bekezdés *a)* pontja és (7) bekezdés *f)* pontja szerinti kötelezettség megsértése esetén alkalmanként 0,5 EJA – 75,0 EJA;
+
+b) az erdészeti hatóság zárlati intézkedést vagy zár alá vételt elrendelő döntésében foglaltak, továbbá az Evt.-ben, valamint a végrehajtására kiadott rendeletben a fára és fatermékre előírt szállítási, felhasználási, forgalombahozatali rendelkezések megsértése, illetve az adatszolgáltatási, nyilvántartási, bejelentési kötelezettség teljesítésének elmulasztása esetén alkalmanként 0,5 EJA – 75,0 EJA;
+
+c) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet
+
+ca) 4. cikk (1) bekezdése szerinti tilalom megszegése esetén alkalmanként 0,5 EJA – 150,0 EJA,
+
+cb) 4. cikk (3) bekezdése szerinti kötelezettség elmulasztása esetén alkalmanként 1,0 EJA – 35,0 EJA,
+
+cc) 5. cikke szerinti kötelezettség elmulasztása esetén alkalmanként 0,5 EJA – 20,0 EJA,
+
+cd) 6. cikk (1) bekezdés *a)* pontja, illetve a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendelet (a továbbiakban: 607/2012/EU bizottsági végrehajtási rendelet) 3. cikke szerinti kötelezettség elmulasztása esetén alkalmanként 0,5 EJA – 20,0 EJA,
+
+ce) 6. cikk (1) bekezdés *b)* és *c)* pontja, illetve a 607/2012/EU bizottsági végrehajtási rendelet 4. cikke szerinti kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén alkalmanként 1,0 EJA – 15,0 EJA.
+
+## 5. §
+
+Ha a jogellenesen kitermelt faanyag mennyisége az eljárás során helyszíni felméréssel nem állapítható meg, a bírság alapjául szolgáló fatérfogat mennyiségét az Országos Erdőállomány Adattár adatainak alapulvételével az erdészeti hatóság állapítja meg.
+
+## 6. §
+
+Az erdővédelmi bírság felső határa természetes személyek esetén ötvenmillió forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén ötszázmillió forint.
+
+## 7. §
+
+(1) Az erdővédelmi bírságot az azt kiszabó határozat véglegessé válásától számított harminc napon belül kell megfizetni.
+
+(2) Az erdészeti hatóság kérelemre az erdővédelmi bírság megfizetésére halasztást vagy részletekben történő teljesítést is megállapíthat. A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti a hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. E határidő elmulasztása miatt igazolásnak nincs helye.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő 16. napon lép hatályba.
+
+## 9. §
+
+Ez a rendelet
+
+a) a fát és faterméket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet, valamint
+
+b) a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+## 10. §[^1]
+
+---
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

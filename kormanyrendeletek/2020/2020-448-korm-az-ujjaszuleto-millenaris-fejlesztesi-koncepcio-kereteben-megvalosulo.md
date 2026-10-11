@@ -1,0 +1,127 @@
+---
+title: "448/2020. (X. 1.) Korm. rendelet az „Újjászülető Millenáris” fejlesztési koncepció keretében megvalósuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról"
+identifier: "448/2020. (X. 1.) Korm. rendelet"
+njt_id: "2020-448-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/448"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-10-01
+in_force_from: 2020-10-02
+last_amended: 2022-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-448-20-22"
+retrieved: 2026-10-12
+---
+
+# 448/2020. (X. 1.) Korm. rendelet az „Újjászülető Millenáris” fejlesztési koncepció keretében megvalósuló beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában és 12. § (5) bekezdés *a)*, *b)*, *d)* és *f)* pontjában,
+
+a 3. § (1) bekezdés tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 3. § (2) bekezdés tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az „Újjászülető Millenáris” fejlesztési koncepció keretében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság által a Budapest II. kerület, belterület 13204/10, 13204/11, 13204/12, 13204/14, valamint 13204/15 helyrajzi szám alatt nyilvántartott, „Millenáris” elnevezésű ingatlanon (a továbbiakban: Ingatlan) megvalósítandó ingatlanfejlesztéssel és beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A kiemelten közérdekű beruházás helyszínét az (1) bekezdés állapítja meg.
+
+(4) A Kormány a Beruházás során építési tevékenységgel érintett, az (1) bekezdésben meghatározott Ingatlan közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a kivitelezés megkezdésétől számított huszonnégy hónapban határozza meg.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+## 3. §
+
+(1) A Kormány a Beruházással összefüggő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésével összefüggésben a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(2) A Beruházással összefüggésben
+
+a) településképi véleményezési eljárást nem kell lefolytatni,
+
+b) településképi bejelentési eljárásnak nincs helye, valamint
+
+c) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület-alakítási terv készítésének és alkalmazásának nincs helye.
+
+## 4. §
+
+(1) A Beruházás esetében a beépítés szabályait a (2) bekezdés állapítja meg azzal, hogy
+
+a)[^2] a hatályos településrendezési terv, valamint az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet előírásait a (2) bekezdésben foglalt eltéréssel kell alkalmazni,
+
+b)[^3] amennyiben a hatályos településrendezési terv a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet nem lehet alkalmazni.
+
+(2) A Beruházás tekintetében a 13204/15 helyrajzi számú ingatlan telkén a beépíthetőség megengedett legnagyobb mértéke 45%.
+
+## 5. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+## 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 7. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 448/2020. (X. 1.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
+
+3\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+4\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+5\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. hírközlési hatósági eljárások,
+
+9\. környezetvédelmi hatósági eljárások,
+
+10\. természetvédelmi hatósági eljárások,
+
+11\. útügyi hatósági eljárások,
+
+12\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. azok az 1–17. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+19\. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 259. § a)-b) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 114. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 114. § b) pontja szerint módosított szöveg.

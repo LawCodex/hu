@@ -1,0 +1,111 @@
+---
+title: "379/2020. (VII. 30.) Korm. rendelet a Gödöllői Premontrei Apátság templom és sportközpont építésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról"
+identifier: "379/2020. (VII. 30.) Korm. rendelet"
+njt_id: "2020-379-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/379"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-07-30
+in_force_from: 2020-07-31
+last_amended: 2023-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-379-20-22"
+retrieved: 2026-10-12
+---
+
+# 379/2020. (VII. 30.) Korm. rendelet a Gödöllői Premontrei Apátság templom és sportközpont építésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), d) és f) pontjában,
+
+a 4. § (1) bekezdése tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 16. pont 16.2. alpontjában és 17. pontjában,
+
+a 4. § (2) bekezdése tekintetében a településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1) bekezdés c) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti Gödöllő belterület 4950 helyrajzi számú ingatlanon, valamint az ezen ingatlanból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon megvalósuló templom és sportközpont építését célzó Beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, engedélyezéséhez, használatbavételéhez és üzemeltetésének beindításához szükségesek, valamint
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkákkal kapcsolatosak.
+
+## 2. §[^1]
+
+A Kormány az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben koordinációs feladatokat ellátó főispánként a Pest Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
+
+## 3. §
+
+(1) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) Az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
+
+## 4. §
+
+(1) A Kormány a Beruházással összefüggő építészeti-műszaki dokumentációnak a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 9. § (2) bekezdés b) pontja szerinti véleményezésével összefüggésben a központi építészeti-műszaki tervtanácsot jelöli ki.
+
+(2) A Beruházással összefüggésben településképi véleményezési eljárást nem kell lefolytatni, és településképi bejelentési eljárásnak nincs helye.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 379/2020. (VII. 30.) Korm. rendelethez
+
+**A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. környezetvédelmi hatósági eljárások,
+
+4\. természetvédelmi hatósági eljárások,
+
+5\. útügyi hatósági eljárások,
+
+6\. vízügyi és vízvédelmi hatósági eljárások,
+
+7\. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+
+8\. műszaki biztonsági hatósági engedélyezési eljárások,
+
+9\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+10\. telekalakításra irányuló hatósági eljárások,
+
+11\. földmérési hatósági eljárások,
+
+12\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+13\. hírközlési hatósági eljárások,
+
+14\. bányahatósági engedélyezési eljárások,
+
+15\. tűzvédelmi hatósági eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+19\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+
+20\. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
+
+21\. az 1–20. pontokban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+---
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 258. § a)-c) pontja szerint módosított szöveg.

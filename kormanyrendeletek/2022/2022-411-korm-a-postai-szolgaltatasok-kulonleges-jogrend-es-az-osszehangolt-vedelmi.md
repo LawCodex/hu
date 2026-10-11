@@ -1,0 +1,275 @@
+---
+title: "411/2022. (X. 24.) Korm. rendelet a postai szolgáltatások különleges jogrend és az összehangolt védelmi tevékenység időszakára való felkészítésének rendszeréről, feladatairól, működési feltételeiről"
+identifier: "411/2022. (X. 24.) Korm. rendelet"
+njt_id: "2022-411-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/411"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-10-24
+in_force_from: 2022-11-01
+last_amended: 2026-10-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-411-20-22"
+retrieved: 2026-10-12
+---
+
+# 411/2022. (X. 24.) Korm. rendelet a postai szolgáltatások különleges jogrend és az összehangolt védelmi tevékenység időszakára való felkészítésének rendszeréről, feladatairól, működési feltételeiről
+
+A Kormány a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 78. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet hatálya
+
+a) a védelmi és biztonsági feladat ellátásában részt vevő szervezetre, valamint
+
+b) a védelmi és biztonsági feladat ellátására jogszabályban kijelölt postai szolgáltatóra (a továbbiakban: kijelölt postai szolgáltató)
+
+terjed ki.
+
+(2) E rendelet alkalmazásában
+
+1\. *követelménytámasztó* *szerv:*
+
+a) a kormányzati igazgatási szerv vezetője,
+
+b) a rendvédelmi szerv vezetője,
+
+c) a Magyar Honvédség esetében a honvédelemért felelős miniszter,
+
+d) a nemzetbiztonsági szolgálatok esetében a nemzetbiztonsági szolgálatot irányító miniszter,
+
+e)[^1]
+
+f) a szövetséges fegyveres erők tekintetében a honvédelemért felelős miniszter,
+
+g) a nemzetgazdaság és a társadalom működése tekintetében az adott ágazatért felelős, feladat- és hatáskörrel rendelkező miniszter,
+
+h) a bíróságok esetében az Országos Bírósági Hivatal elnöke,
+
+i) a lakosság ellátása tekintetében az illetékes területi védelmi bizottság elnöke,
+
+2\. *különleges* *jogrendi* *időszak:* az Alaptörvény szerinti hadiállapot, szükségállapot és veszélyhelyzet,
+
+3\. *postai* *szolgáltatás:* a postai szolgáltatásokról szóló 2012. évi CLIX. törvény (a továbbiakban: Postatv.) 3. § (1) bekezdésében meghatározott szolgáltatás,
+
+4\. *védelmi* *és* *biztonsági* *célú* *felkészítés:* a kijelölt postai szolgáltató munkavállalója védelmi és biztonsági tudatosságának és ismeretének naprakészen tartása és fejlesztése jogszabályban meghatározott képzési rendszer, valamint saját képzés keretében,
+
+5\. *védelmi* *és* *biztonsági* *feladat* *ellátásában* *részt* *vevő* *szervezet:* a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény
+
+a) 5. § 4. pontja szerinti helyi védelmi bizottság,
+
+b) 5. § 11. pontja szerinti területi védelmi bizottság,
+
+c) 5. § 18. pontja szerinti védelmi és biztonsági szervezet,
+
+d) 49. § (1) bekezdés a) és g) pontja szerinti szerv, valamint
+
+e) 1. mellékletében meghatározott védett kommunikációs feltételek biztosítására kötelezett szerv.
+
+## 2. A kijelölt postai szolgáltató védelmi és biztonsági célú felkészítéssel kapcsolatos kötelezettségei
+
+### 2. §
+
+(1) A kijelölt postai szolgáltató a védelmi és biztonsági célú felkészítés feladatának ellátása érdekében a feladat- és hatáskörrel rendelkező védelmi és biztonsági feladat ellátásában részt vevő szervezet erre vonatkozó rendelkezése alapján
+
+a) a postaügyért felelős miniszter (a továbbiakban: miniszter) által meghatározott követelmény szerint kölcsönösen együttműködik más kijelölt postai szolgáltatóval,
+
+b) a postai szolgáltatás ellátását súlyosan befolyásoló eseményt kezeli,
+
+c) személy elleni és vagyon elleni erőszakos bűncselekmény, terrorcselekmény, valamint hadiállapot vagy honvédelmi válsághelyzet kihirdetésének alapjául szolgáló esemény bekövetkezésének megelőzése, hatásának csökkentése érdekében rendkívüli biztonsági intézkedést készít elő és hajt végre,
+
+d) elsődlegesen a védelmi és biztonsági feladat ellátásában részt vevő szervezet részére postai szolgáltatást biztosít, nemzetközi szerződésből eredő feladat megvalósítása érdekében intézkedést készít elő és hajt végre, a fennmaradó kapacitásával a nemzetgazdaság, valamint a lakosság postai szolgáltatási igényét elégíti ki.
+
+(2) A kijelölt postai szolgáltatót e rendelet alapján terhelő kötelezettség nem vonatkozik a postai szolgáltató által, a postai szolgáltatáson kívül ellátott egyéb tevékenységre.
+
+### 3. §
+
+(1) A kijelölt postai szolgáltató a postai szolgáltatás tervezése, kialakítása, fejlesztése és működtetése során együttműködik a védelmi és biztonsági feladat ellátásában részt vevő szervezettel. Tevékenységét úgy látja el, hogy a postai szolgáltatás megbízhatósága, rugalmassága és védettsége növekedjen, a követelménytámasztó szerv által meghatározott szerint a postai szolgáltatás hozzáférhető legyen.
+
+(2) A kijelölt postai szolgáltató a védelmi és biztonsági célú felkészítés feladatát folyamatosan végzi, védelmi és biztonsági célú tervet (a továbbiakban: terv) készít, azt naprakészen tartja, a tevékenységet időszakonként gyakorolja.
+
+(3) A postai szolgáltatás különleges jogrendi időszakra és összehangolt védelmi tevékenység idejére történő felkészítéséhez a kijelölt postai szolgáltató rendelkezésre álló erőforrását – átcsoportosítással – a postai szolgáltatás rendeltetésszerű nyújtását nem veszélyeztető mértékéig veszi igénybe.
+
+## 3. A kijelölt postai szolgáltató védelmi és biztonsági célú felkészítésének felelősei és feladataik
+
+### 4. §
+
+A postai szolgáltatás különleges jogrendi időszakban és összehangolt védelmi tevékenység idején történő ellátására való felkészülés magában foglalja
+
+a) a miniszter feladat- és hatáskörébe tartozó felkészülési feladatot,
+
+b) a kijelölt postai szolgáltató által történő bevezetésre tervezett Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) Válságreagálási Rendszerével összhangban álló nemzeti intézkedés és más rendkívüli biztonsági intézkedés előkészítését,
+
+c) a helyreállítás, az erőforrás-bővítést szolgáló állami céltartalék és a kijelölt postai szolgáltatónál rendelkezésre álló erőforrás és terv ellenőrzését,
+
+d) a védelmi és biztonsági célú felkészítéshez szükséges adat aktualizálását,
+
+e) a kijelölt postai szolgáltató védelmi és biztonsági célú felkészítésével összefüggő fejlesztési munka felmérését, gyorsítását vagy átütemezését,
+
+f) a különleges jogrendi időszakban és az összehangolt védelmi tevékenység idején rendkívüli intézkedés bevezetésére jogosult személy által meghatározott elsőbbséggel rendelkező szervezet igényének folyamatos biztosítása érdekében a kijelölt postai szolgáltató munkarendje átszervezésének előkészítését,
+
+g) a követelménytámasztó szerv által meghatározottak szerint a postai szolgáltatás korlátozásának előkészítését, valamint
+
+h) a védelmi és biztonsági igazgatás központi szerve által meghatározott követelmény érvényesítését az a)–g) pont szerinti feladat ellátása során.
+
+### 5. §
+
+A kijelölt postai szolgáltató a különleges jogrendi időszak és az összehangolt védelmi tevékenység idejére való felkészítése érdekében felméri
+
+a) a postai hálózat irányítási rendszerének speciális feladatra való felkészültségét,
+
+b) a kijelölt postai szolgáltató együttműködőképességét,
+
+c) a terv meglétét és végrehajthatóságát,
+
+d) a szükséges szervezet és felszerelés meglétét, valamint alkalmazhatóságát,
+
+e) a honvédelmi, katasztrófavédelmi és a postai szakmai feladat végrehajthatóságát, valamint
+
+f) a postai szolgáltatás korlátozása bevezetésének előkészítettségét.
+
+### 6. §
+
+A miniszter
+
+a) koordinálja a kijelölt postai szolgáltató honvédelmi felkészítését, a honvédelemért felelős miniszterrel egyetértésben kialakítja a postai szolgáltatás honvédelmi felkészítésére, tervezésére vonatkozó követelményrendszert,
+
+b) koordinálja a kijelölt postai szolgáltató katasztrófavédelmi felkészítését, a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben kialakítja a postai szolgáltatás katasztrófavédelmi felkészítésére, tervezésére vonatkozó követelményrendszert,
+
+c) a postai szolgáltatás működésének folyamatossága érdekében irányítja a kijelölt postai szolgáltató védelmi és biztonsági célú felkészítését,
+
+d) a postai szolgáltatásra vonatkozó követelményrendszer meghatározásánál érvényre juttatja a védelmi és biztonsági érdeket,
+
+e) a honvédelemért felelős miniszterrel, a katasztrófák elleni védekezésért felelős miniszterrel és az egészségügyért felelős miniszterrel egyetértésben megszervezi a kijelölt postai szolgáltató különleges jogrendi időszakra és az összehangolt védelmi tevékenység idejére való felkészítési feladata végrehajtását, ellenőrzését és gyakoroltatását,
+
+f) meghatározza a postai szolgáltatás különleges jogrendi időszakra és összehangolt védelmi tevékenység idejére történő átállításának feltételét és rendjét, intézkedik azok végrehajtásáról,
+
+g) ellátja a NATO Ipari Erőforrások és Hírközlési Szolgáltatók Munkacsoport munkájában történő részvétellel összefüggő postai vonatkozású feladatot,
+
+h) a honvédelemért felelős miniszterrel, a katasztrófák elleni védekezésért felelős miniszterrel és az egészségügyért felelős miniszterrel egyetértésben meghatározza a kijelölt postai szolgáltatóra vonatkozóan az ingatlan, a szolgáltatás, a technikai eszköz és a személyi állomány igénybevételének legmagasabb mértékét, valamint
+
+i) felügyeli és ellenőrzi a kijelölt postai szolgáltató védelmi és biztonsági tervének kidolgozását, ennek keretében egyeztetést folytat a honvédelemért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, a katasztrófák elleni védekezésért felelős miniszterrel és az egészségügyért felelős miniszterrel.
+
+### 7. §
+
+A honvédelemért felelős miniszter
+
+a) intézkedik a futár- és tábori postaszolgálat felkészítése és a kijelölt postai szolgáltatóval történő együttműködés iránt,
+
+b) részt vesz a kijelölt postai szolgáltatóval szemben a hadiállapot és az összehangolt védelmi tevékenység idejére támasztott követelmény kidolgozásában, valamint együttműködési feladatának ellátásában,
+
+c) összehangolja a honvédelmi igazgatás területi és helyi szervei postai szolgáltatási igényeit a különleges jogrendi időszakra és az összehangolt védelmi tevékenység idejére való felkészítés keretében,
+
+d) részt vesz a kijelölt postai szolgáltató felkészítésével kapcsolatos ellenőrzés és gyakorlat megszervezésében és végrehajtásában,
+
+e) a honvédelmi igazgatás központi szerve igényének megfelelően biztosítja a postai szolgáltatás különleges jogrendi időszaki és összehangolt védelmi tevékenység idejére szóló tervezéséhez, a kijelölt postai szolgáltató felkészítéséhez, az értesítési és tájékoztatási rendszer működéséhez szükséges adatokat, valamint
+
+f) egyezteti az a)–e) pont szerinti feladatot a védelmi és biztonsági igazgatás központi szervével.
+
+### 8. §
+
+A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a különleges jogrendi időszakra és az összehangolt védelmi tevékenység idejére való felkészülés keretében összehangolja a védelmi és biztonsági feladat ellátásában részt vevő szervezetek postai szolgáltatási igényeit.
+
+### 9. §
+
+A katasztrófák elleni védekezésért felelős miniszter
+
+a) részt vesz a kijelölt postai szolgáltató veszélyhelyzeti időszaki felkészítésére vonatkozó követelmény kidolgozásában és együttműködési feladatának megoldásában,
+
+b) részt vesz a kijelölt postai szolgáltató terve katasztrófaelhárítási részének kidolgozásában, a rendkívüli biztonsági intézkedés bevezetéséhez szükséges szakmai elvek meghatározásában,
+
+c) összehangolja az irányítása alá tartozó rendvédelmi szervek postai szolgáltatási igényeit a veszélyhelyzetre való felkészülés keretében,
+
+d) közreműködik a kijelölt postai szolgáltató veszélyhelyzet idejére történő felkészítésével kapcsolatos ellenőrzés és gyakorlat megszervezésében és végrehajtásában,
+
+e) közreműködik az intézkedési terv kidolgozásában, a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedés és más rendkívüli biztonsági intézkedés bevezetéséhez szükséges szakmai elvek meghatározásában,
+
+f) a védelmi és biztonsági igazgatás központi szerve igényének megfelelően biztosítja a postai szolgáltatás veszélyhelyzeti időszaki tervezéséhez, a kijelölt postai szolgáltató felkészítéséhez, az értesítési és tájékoztatási rendszer működéséhez szükséges adatot, valamint
+
+g) egyezteti az a)–f) pont szerinti feladatot a védelmi és biztonsági igazgatás központi szervével.
+
+### 10. §
+
+Az egészségügyért felelős miniszter
+
+a) részt vesz a katasztrófák elleni védekezésért felelős miniszter közreműködésével a kijelölt postai szolgáltató terve katasztrófaelhárítási részének kidolgozásához szükséges veszélyes biológiai, vegyi, radioaktív, nukleáris és toxikus anyag tartalmú postai küldeményre vonatkozó elvek meghatározásában,
+
+b) részt vesz a honvédelemért felelős miniszter közreműködésével a kijelölt postai szolgáltató terve honvédelmi intézkedési részének kidolgozásához szükséges veszélyes biológiai, vegyi, radioaktív, nukleáris és toxikus anyag tartalmú postai küldeményre vonatkozó elvek meghatározásában,
+
+c) részt vesz a járványügyi helyzetre történő felkészülés érdekében a postai szolgáltatás biztosításához szükséges terv kidolgozásában,
+
+d) részt vesz a kijelölt postai szolgáltatónak a különleges jogrendi időszakra és az összehangolt védelmi tevékenység idejére történő felkészítésével kapcsolatos ellenőrzés és gyakorlat megszervezésében és lebonyolításában, valamint
+
+e) egyezteti az a)–d) pont szerinti feladatot a védelmi és biztonsági igazgatás központi szervével.
+
+### 11. §
+
+A védelmi és biztonsági feladat ellátásában részt vevő szervezet a postai szolgáltatási igényét minden év február 15-éig aktualizálva megküldi a miniszter részére. A miniszter az összesített igényeket – szükség esetén egyeztetés lefolytatását követően – megküldi a kijelölt postai szolgáltatónak és a Nemzeti Média- és Hírközlési Hatóságnak (a továbbiakban: Hatóság).
+
+## 4. Adat szolgáltatása a védelmi és biztonsági célú felkészítéshez
+
+### 12. §
+
+A Postatv.-ben meghatározott adatszolgáltatási elveknek megfelelően a kijelölt postai szolgáltató a védelmi és biztonsági célú felkészítés keretében
+
+a) a szolgáltatói hozzáférési pontról,
+
+b) a postai hálózatról,
+
+c) a hálózati hozzáférésről,
+
+d) a postai létesítményről, valamint
+
+e) a postai szolgáltatásról
+
+adatot szolgáltat a Hatóságnak a Hatóság által meghatározott, a kijelölt postai szolgáltatóval egyeztetett formában és rendszerességgel.
+
+## 5. A kijelölt postai szolgáltató védelmi és biztonsági célú felkészítésének követelménye és rendje
+
+### 13. §
+
+(1) A kijelölt postai szolgáltató a védelmi és biztonsági célú felkészítés során biztosítja, hogy
+
+a) a postai hálózat és az egyetemes postai hálózat a védelmi és biztonsági igényeket kielégítse, valamint
+
+b) a kijelölt postai szolgáltató által kialakított szolgáltatói hálózati hozzáférési pont a kijelölt postai szolgáltatók között átrendezhető legyen.
+
+(2) A postai szolgáltatás átmeneti korlátozásának szervezési, üzemeltetési feltételét az érintett szerv együttműködése alapján készíti elő a kijelölt postai szolgáltató a 2. § (1) bekezdés d) pontjában meghatározott feladat elsődlegességének biztosításával.
+
+### 14. §
+
+(1) A kijelölt postai szolgáltató a tervet a miniszterrel egyeztetett tartalmi és formai követelményeknek megfelelően dolgozza ki. A terv tartalmazza a kijelölt postai szolgáltató védelmi és biztonsági tevékenységére vonatkozó, személyi és anyagi erőforrást is tartalmazó működési szabályait.
+
+(2) A terv a kijelölt postai szolgáltató sajátosságának megfelelő, működési szabályokról rendelkező részből, valamint a személyi és technikai erőforrást meghatározó mellékletből áll.
+
+(3) A kijelölt postai szolgáltató gondoskodik arról, hogy
+
+a) a terv végrehajtásában részt vevő személyi állomány az abban foglaltakat megismerje és begyakorolja, valamint
+
+b) a tervben meghatározott feladatot végrehajtó személyi állomány és technikai eszköz rendelkezésre álljon.
+
+### 15. §
+
+(1) A kijelölt postai szolgáltató a különleges jogrendi időszaki és az összehangolt védelmi tevékenység idejére vonatkozó feladatának teljesítéséhez a védelmi és biztonsági célú felkészítés keretében a saját állományából kialakított és felkészített szervezetet működtet.
+
+(2) Az (1) bekezdésben meghatározott szervezetnek a kijelölt postai szolgáltató elméleti és gyakorlati felkészítést tart éves felkészítési terv alapján.
+
+## 6. Záró rendelkezések
+
+### 16. §
+
+Ez a rendelet 2022. november 1-jén lép hatályba.
+
+### 17. §
+
+(1) A tervet első alkalommal a védelmi és biztonsági célú tervezés szabályairól szóló kormányrendeletben meghatározott határidőn belül készíti el a kijelölt postai szolgáltató.
+
+(2) Az e rendelet hatálybalépését megelőzően kiadott védelmi és biztonsági tárgyú tervdokumentumban foglaltakat a kijelölt postai szolgáltató az (1) bekezdés szerinti terv elkészültéig alkalmazza.
+
+---
+
+[^1]: Az 1. § (2) bekezdés 1. pont e) alpontját a 210/2026. (IX. 21.) Korm. rendelet 1. §-a hatályon kívül helyezte.

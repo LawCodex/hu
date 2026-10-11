@@ -1,0 +1,170 @@
+---
+title: "214/2020. (V. 18.) Korm. rendelet az elektronikus információbiztonsági korai figyelmeztető rendszerről"
+identifier: "214/2020. (V. 18.) Korm. rendelet"
+njt_id: "2020-214-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/214"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-05-18
+in_force_from: 2020-05-30
+last_amended: 2025-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-214-20-22"
+retrieved: 2026-10-12
+---
+
+# 214/2020. (V. 18.) Korm. rendelet az elektronikus információbiztonsági korai figyelmeztető rendszerről
+
+A Kormány az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 24. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+a) *forgalomkicsatoló eszköz:* a korai figyelmeztető rendszer határán elhelyezkedő eszköz, amely a hálózati forgalom másolatát elvezeti a korai figyelmeztető rendszer szenzorai felé;
+
+b) *hálózati csomópont:* a védett infrastruktúra rendszeréből a forgalomkicsatoló eszköz segítségével kinyert közlések és kísérőadatok fizikai átadási pontjai a szenzor felé;
+
+c) *hálózati forgalom:* hálózati nyers adatfolyam, amely hálózati eszközökön keresztül áramlik;
+
+d) *hálózati forgalom kivonata:* a hálózati forgalomból előállított műszaki adat, melyből a hálózati forgalom nem állítható helyre;
+
+e) *jelzés:* valamely szignatúra hálózati forgalomban való megjelenése, vagy olyan algoritmikus úton azonosított rendellenesség, amelynek hálózati forgalomban való észlelésére nem áll rendelkezésre szignatúra, vagy nem célszerű azt szignatúra alapon detektálni;
+
+f)[^1] *kapcsolattartó:* a védett intézmény által a Magyarország kiberbiztonságáról szóló 2024. évi LXIX. törvény (a továbbiakban: Kiberbiztonsági tv.) 6. § (3) bekezdés 2. pontja alapján az elektronikus információs rendszer biztonságáért felelősként kinevezett, illetve megbízott személy, vagy a védett intézmény által kijelölt más személy;
+
+g)[^2] *korai figyelmeztető rendszer:* központosított előrejelző rendszer, amely az egyes egyirányúan összekapcsolt védett elektronikus információs rendszerek hálózati forgalmának szenzorokkal történő elemzésével automatizált módon azonosít információbiztonsági kockázatokat, valamint kiberbiztonsági incidensekre, adatokkal való visszaélésre vagy ezek kísérletére utaló eseményeket;
+
+h) *szenzor:* a korai figyelmeztető rendszerbe integrált, hálózati forgalom-monitorozó célhardver, amely dedikált hálózati kapcsolattal rendelkezik a védett infrastruktúra felé, a védett rendszer szempontjából logikailag egyirányú eszköz, amellyel az aktív beavatkozás lehetősége kizárt;
+
+i) *szignatúra:* káros szoftverekre, támadásokra, illetve ismertté vált sérülékenységben érintett eszközökre és szolgáltatásokra vonatkozó technikai jellemzők összessége;
+
+j) *védett infrastruktúra:* a védett intézmény korai figyelmeztető rendszerhez csatlakoztatott, annak szenzorai által felügyelt, elektronikus információs rendszere;
+
+k) *védett intézmény:* a korai figyelmeztető rendszer szolgáltatásainak igénybevevője.
+
+## 2. A korai figyelmeztető szolgáltatás igénybevétele és üzemeltetése
+
+### 2. §
+
+A Kormány a korai figyelmeztető szolgáltatás nyújtására a Nemzetbiztonsági Szakszolgálatot (a továbbiakban: rendszer-üzemeltető) jelöli ki.
+
+### 3. §
+
+(1) A korai figyelmeztető szolgáltatás igénybevételére jogosultak:
+
+a)[^3] a Kiberbiztonsági tv. 1. § (1) bekezdés a)–c) pontjában meghatározott szervek – ide nem értve a Kiberbiztonsági tv. szerinti honvédelmi kiberbiztonsági incidenskezelő központ által támogatott szerveket –,
+
+b) az alapvető szolgáltatást nyújtó szolgáltatók, valamint a bejelentésköteles szolgáltatók,
+
+c)[^4] a kritikus szervezetek ellenálló képességéről szóló törvény alapján kijelölt kritikus szervezetek és kritikus infrastruktúrák,
+
+d) a központosított informatikai és elektronikus hírközlési szolgáltatók.
+
+(2) A korai figyelmeztető szolgáltatás igénybevétele kötelező a Kormányzati Adatközpont működéséről szóló kormányrendeletben meghatározott, a kormányzati adatközponti szolgáltatások igénybevételére vagy igénybevételének vizsgálatára kötelezett felhasználók számára.
+
+(3) A korai figyelmeztető rendszer üzemeltetésével kapcsolatos költségek a rendszer-üzemeltetőt terhelik.
+
+(4) A korai figyelmeztető szolgáltatás igénybevételével összefüggésben felmerült költségek a védett intézményt terhelik.
+
+### 4. §
+
+(1) A védett intézmény köteles biztosítani, hogy a rendszer-üzemeltető a védett infrastruktúra hálózati csomópontjaihoz illessze a forgalomkicsatoló eszközeit, amelyek – a hálózati forgalom másolásával – a szenzort a hálózati forgalom műszaki, technikai adataival látják el.
+
+(2) A védett intézmény a korai figyelmeztető szolgáltatás igénybevétele során köteles a rendszer-üzemeltető számára valamennyi olyan, a rendszerei felépítésével és a rendszerein nyújtott szolgáltatásokkal kapcsolatos információt és az azokban bekövetkezett változást bejelenteni, amely a szolgáltatás nyújtását korlátozza, kizárja, vagy más módon ellehetetleníti.
+
+(3) A védett intézmény nem végezhet olyan rendszer-, illetve szolgáltatásfejlesztést, valamint nem hajthat végre olyan szervezeti átalakítást, amely a szolgáltatás nyújtását korlátozza, kizárja, vagy más módon ellehetetleníti.
+
+(4) A (3) bekezdésben foglaltak teljesülése érdekében a védett intézmény a védett infrastruktúra vonatkozásában, a rendszer-, illetve szolgáltatásfejlesztést megelőzően köteles tájékoztatni a rendszer-üzemeltetőt.
+
+### 5. §
+
+(1) A korai figyelmeztető szolgáltatás keretében a rendszer-üzemeltető az alábbi tevékenységeket végzi:
+
+a) az alkalmazott szűrési szabályok szerint folyamatosan monitorozza, vizsgálja a védett infrastruktúrák Internet felé irányuló és onnan beérkező hálózati forgalmát,
+
+b) detektálja a fenyegetés bekövetkezésére utaló jelzéseket, és
+
+c)[^5] kiberbiztonsági incidens észlelésekor haladéktalanul tájékoztatja a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági incidenskezelő központot, továbbá az ágazat érintettsége esetén értesíti a Kiberbiztonsági tv. szerinti honvédelmi kiberbiztonsági incidenskezelő központot is.
+
+(2) A rendszer-üzemeltető a korai figyelmeztető szolgáltatás nyújtásának részletes szabályait szolgáltatási szabályzatba foglalja.
+
+### 6. §
+
+(1) A rendszer-üzemeltető a korai figyelmeztető szolgáltatás nyújtása során keletkezett adatokat a védett intézmény részére elérhetővé teszi a korai figyelmeztető rendszerben erre a célra létesített egyedi intézményi felhasználói felületen.
+
+(2)[^6] A védett intézmény által a Kiberbiztonsági tv. 6. § (3) bekezdés 2. pontja alapján az elektronikus információs rendszer biztonságáért felelősként kinevezett, illetve megbízott személy az egyedi intézményi felhasználói felületen jogosult ellenőrizni
+
+a) a korai figyelmeztető rendszer által előállított biztonsági naplót,
+
+b) a hibajelzéseket,
+
+c) a vizsgált események státuszát és
+
+d) a rendszer működésére vonatkozó statisztikai adatokat.
+
+## 3. Adatvédelmi rendelkezések
+
+### 7. §
+
+(1) A rendszer-üzemeltető
+
+a) a szenzoron átmenő teljes hálózati forgalmat legfeljebb 14 napig,
+
+b) a hálózati forgalom kivonatát, a jelzéseket és a biztonsági naplót 5 évig
+
+tárolja.
+
+(2)[^7] Kiberbiztonsági incidens bekövetkezése esetén a rendszer-üzemeltető a Kiberbiztonsági tv.-ben meghatározott időtartamig tárolja az (1) bekezdésben meghatározott adatokat.
+
+(3) A rendszer-üzemeltető a korai figyelmeztető szolgáltatás üzemeltetése, igénybevétele céljából a védett intézmény azonosításához szükséges adatokat, a kapcsolattartó nevét és elérhetőségét, továbbá az ezekhez közvetlenül kapcsolódó kommunikációs előzményeit nyilvántartja.
+
+(4) A védett intézmény kapcsolattartásra vonatkozó adatai a változás-bejelentéstől számított 5 évig tárolhatóak a korai figyelmeztető rendszerben.
+
+(5) A rendszer-üzemeltető az adatok tárolására meghatározott idő elteltével a korai figyelmeztető rendszerből köteles törölni az adatokat.
+
+### 8. §
+
+A rendszer-üzemeltető biztosítja védett infrastruktúra felhasználójának magáncélú internethasználata esetén a hálózati forgalomelemzésre alkalmatlanná tételét.
+
+### 9. §
+
+A rendszer-üzemeltető a korai figyelmeztető szolgáltatás nyújtása során kezelt adatokat
+
+a) a védett intézmény,
+
+b) a központosított informatikai és elektronikus hírközlési szolgáltató, valamint
+
+c)[^8] a Kiberbiztonsági tv. szerinti nemzeti kiberbiztonsági incidenskezelő központ
+
+részére hozzáférhetővé teszi.
+
+## 4. Záró rendelkezések
+
+### 10. §
+
+Ez a rendelet 2020. május 30-án lép hatályba.
+
+### 11. §[^9]
+
+Ez a rendelet az Unió egész területén egységesen magas szintű kiberbiztonságot biztosító intézkedésekről, valamint a 910/2014/EU rendelet és az (EU) 2018/1972 irányelv módosításáról és az (EU) 2016/1148 irányelv hatályon kívül helyezéséről (NIS 2 irányelv) szóló, 2022. december 14-i (EU) 2022/2555 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+### 12. §[^10]
+
+A 3. § (1) bekezdés c) pontja a kritikus szervezetek rezilienciájáról és a 2008/114/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2022. december 14-i (EU) 2022/2557 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+---
+
+[^1]: Az 1. § f) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § g) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés a) pontja a 418/2024. (XII. 23.) Korm. rendelet 139. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés c) pontja a 474/2024. (XII. 31.) Korm. rendelet 161. §-ával megállapított szöveg.
+[^5]: Az 5. § (1) bekezdés c) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § c) pontja szerint módosított szöveg.
+[^6]: A 6. § (2) bekezdés nyitó szövegrésze a 418/2024. (XII. 23.) Korm. rendelet 140. § d) pontja szerint módosított szöveg.
+[^7]: A 7. § (2) bekezdése a 418/2024. (XII. 23.) Korm. rendelet 140. § e) pontja szerint módosított szöveg.
+[^8]: A 9. § c) pontja a 418/2024. (XII. 23.) Korm. rendelet 140. § f) pontja szerint módosított szöveg.
+[^9]: A 11. § a 418/2024. (XII. 23.) Korm. rendelet 138. §-ával megállapított szöveg.
+[^10]: A 12. §-t a 474/2024. (XII. 31.) Korm. rendelet 162. §-a iktatta be.

@@ -1,0 +1,112 @@
+---
+title: "774/2021. (XII. 23.) Korm. rendelet egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről"
+identifier: "774/2021. (XII. 23.) Korm. rendelet"
+njt_id: "2021-774-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/774"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-12-23
+in_force_from: 2022-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-774-20-22"
+retrieved: 2026-10-12
+---
+
+# 774/2021. (XII. 23.) Korm. rendelet egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről
+
+A Kormány
+
+a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 51–56. alpontjában,
+
+a 7. § és a 8. § tekintetében a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés 24. és 25. pontjában, valamint
+
+a 9. § tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés f) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1)[^1] A közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 29. § (1) bekezdése szerinti közútfejlesztési gazdasági társaság feladatait
+
+a) a közlekedésért felelős miniszter által vezetett minisztérium,
+
+b) az országos közutakat kezelő gazdasági társaság vagy
+
+c) az országos közúti személyszállítást végző gazdasági társaság
+
+látja el.
+
+(2)[^2] A nemzeti vagyonról szóló törvény szerinti azon kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlásához szükséges állami tulajdonú ingatlan és egyéb eszköz tekintetében, amelyek esetén nem az Építési és Közlekedési Minisztérium (a továbbiakban: ÉKM) jár el építtetőként, a közútfejlesztési gazdasági társaság a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja.
+
+## 2. §
+
+(1)[^3] A nemzeti vagyonról szóló törvény szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlásához szükséges ingatlantulajdon-szerzés során a magyar állam nevében és javára az ÉKM jár el. A NIF Zrt. vagyonkezelésébe kerül a megvalósítást megelőzően az állam tulajdonába bármely jogcímen megszerzett ingatlan, valamint a megvalósítást megelőzően állami tulajdonban álló ingatlan beruházással érintett területrészei, az adott állami területrészen más szerv javára fennálló vagyonkezelési szerződés megszüntetését követően.
+
+(2) Az (1) bekezdéstől eltérően, országos közutak tekintetében a nemzeti vagyonról szóló törvény szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlásához szükséges, a magyar állam nevében történő ingatlantulajdon-szerzés során a magyar állam nevében és javára a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MK NZrt.) is eljárhat. Ebben az esetben az MK NZrt. vagyonkezelésébe kerül a megvalósítást megelőzően az állam tulajdonába bármely jogcímen megszerzett ingatlan, valamint a megvalósítást megelőzően állami tulajdonban álló ingatlanok beruházással érintett területrészei, az adott állami területrészen más szerv javára fennálló vagyonkezelési szerződés megszüntetését követően.
+
+## 3. §[^4]
+
+A Kkt. szerinti közútkezelő gazdasági társaság az MK NZrt.
+
+## 4. §
+
+(1) A Kkt. 32/A. § (1) bekezdésében megjelölt állami tulajdonú gazdasági társaságnak minősül az olyan gazdasági társaság, amelyben a magyar állam legalább 10%-os tulajdoni részesedéssel rendelkezik.
+
+(2)[^5] A Kkt. szerinti hálózatkezelő gazdasági társaság a Pro-M Professzionális Mobil és Hálózati Szolgáltató Zártkörűen Működő Részvénytársaság.
+
+## 5. §[^6]
+
+A Kkt. szerinti útdíjszolgáltatási gazdasági társaság az MK NZrt..
+
+## 6. §[^7]
+
+A Kkt. 18. § (1) bekezdése szerinti, a járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését ellátó szervezet a Közlekedéstudományi és Építésügyi Minőségellenőrző Intézet (a továbbiakban: KTI).
+
+## 6/A. §[^8]
+
+(1) A KTI felelős a fenntartható városi mobilitási tervek (a továbbiakban: SUMP) előkészítéséért és végrehajtásáért, ideértve a háttérkutatást, adatgyűjtést, elemzést, valamint a városi csomópontok SUMP-jaival kapcsolatos szakmai tanácsadást, a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról, az (EU) 2021/1153 és a 913/2010/EU rendelet módosításáról, valamint az 1315/2013/EU rendelet hatályon kívül helyezéséről szóló, 2024. június 13-i (EU) 2024/1679 európai parlamenti és tanácsi rendelet (a továbbiakban: 2024/1679 európai parlamenti és tanácsi rendelet) 41. cikkének megfelelően.
+
+(2) A KTI folyamatosan tájékoztatja az illetékes hatóságokat a SUMP kidolgozásának és végrehajtásának folyamatáról, valamint segíti a közlekedési programok jogszabályi megfelelését, figyelemmel a 2024/1679 európai parlamenti és tanácsi rendeletre és a jogszabályban előírt követelményekre.
+
+(3) A KTI látja el a SUMP-okkal foglalkozó nemzeti kapcsolattartó pont feladatait a 2024/1679 európai parlamenti és tanácsi rendelet 41. cikk (4) bekezdése alapján.
+
+(4) A (3) bekezdés szerinti feladatellátás keretében a KTI koordinálja a SUMP-ok elkészítésével és végrehajtásával kapcsolatos szakmai tevékenységeket, valamint részt vesz a nemzeti fenntartható városi mobilitási tervezési program kialakításában és működtetésében.
+
+## 7. §
+
+(1)[^9] A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § 2. pont 2.3. alpontja szerinti fejlesztési közreműködő az ÉKM
+
+(2)[^10] Az (1) bekezdéstől eltérően az MK NZrt. és az általa megbízott, jogszabályban foglaltaknak megfelelően akkreditált ellenőrző szervezet – mint fejlesztési közreműködő – jogosult elvégezni az országos vasúti pályahálózaton és a térségi, elővárosi vasúti pályahálózaton végzett építési tevékenységekhez kapcsolódó beruházások során az építőipari kivitelezési tevékenység minőségi ellenőrzését.
+
+(3) Az (1) bekezdéstől eltérően a Záhony Logisztikai és Ipari Övezet fejlesztésével összefüggő logisztikai feladatok végrehajtása során a MÁV-REC Railway Engineering Corporation Vasútipari Szolgáltató és Fejlesztő Korlátolt Felelősségű Társaság fejlesztési közreműködőként jár el.
+
+## 8. §[^11]
+
+A 7. § (1) bekezdésétől eltérően a magyar állam és a Győr–Sopron–Ebenfurti Vasút Zártkörűen Működő Részvénytársaság tulajdonában álló vasúti pályahálózat részét képező GSM-R rendszerhálózat tekintetében a Vtv. 2. § 2. pont 2.5. alpontja szerinti GSM-R fejlesztőnek minősül az ÉKM, valamint a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság.
+
+## 9. §[^12]
+
+Az intermodális csomópontok tekintetében fejlesztési közreműködő az ÉKM
+
+## 10. §
+
+(1) Ez a rendelet 2022. január 1-jén lép hatályba.
+
+(2) E rendelet rendelkezéseit a hatálybalépésekor fennálló jogviszonyokra és folyamatban lévő eljárási cselekményekre is alkalmazni kell.
+
+---
+
+[^1]: Az 1. § (1) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 35. §-a hatályon kívül helyezte, újonnan a 45/2025. (III. 13.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (2) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 45/2025. (III. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdése a 230/2025. (VII. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^6]: Az 5. § a 181/2025. (VI. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 6. § a 612/2023. (XII. 22.) Korm. rendelet 65. §-a, a 141/2025. (VI. 19.) Korm. rendelet 16. §-a, a 442/2025. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^8]: A 6/A. §-t a 141/2025. (VI. 19.) Korm. rendelet 15. §-a iktatta be.
+[^9]: A 7. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^10]: A 7. § (2) bekezdését a 426/2022. (X. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 379/2024. (XII. 9.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 8. § az 523/2022. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^12]: A 9. § a 426/2022. (X. 28.) Korm. rendelet 5. § b) pontja, az 523/2022. (XII. 15.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.

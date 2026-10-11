@@ -1,0 +1,372 @@
+---
+title: "480/2024. (XII. 31.) Korm. rendelet az agrárgazdaságok átadásáról szóló törvény végrehajtásáról"
+identifier: "480/2024. (XII. 31.) Korm. rendelet"
+njt_id: "2024-480-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/480"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-12-31
+in_force_from: 2025-01-15
+last_amended: 2025-12-26
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-480-20-22"
+retrieved: 2026-10-12
+---
+
+# 480/2024. (XII. 31.) Korm. rendelet az agrárgazdaságok átadásáról szóló törvény végrehajtásáról
+
+A Kormány az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény 16. § (1) bekezdés a) és b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A gazdaságátadási szerződés tartalmi elemei
+
+### 1. §
+
+(1) Az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény (a továbbiakban: Gtv.) szerinti gazdaságátadási szerződés (a továbbiakban: gazdaságátadási szerződés) a gazdaságátadó és a gazdaságátvevő személyéhez kapcsolódóan tartalmazza
+
+a) a Gtv. 7. § b) pontja szerinti adatokat,
+
+b) a gazdaságátadó nyilatkozatát a gazdaság átadásáról, valamint arról, hogy személyében megfelel a Gtv. 2. § b) pontjában foglalt feltételeknek, és
+
+c) a gazdaságátvevő nyilatkozatát a gazdaság átvételéről, valamint arról, hogy személyében megfelel a Gtv. 2. § c) pontjában foglalt feltételeknek.
+
+(2) A gazdaságátadási szerződés tartalmazza
+
+a)[^1] a Gtv. 12/C. § (1) bekezdés f) pontja szerinti adaton kívül a gazdaságátadó élelmiszerlánc-felügyeleti információs rendszerben (a továbbiakban: FELIR) nyilvántartott, az átadott gazdasághoz kapcsolódó tevékenység-azonosítóit, és
+
+b) a gazdaság átszállásának időpontjaként a Gtv. 3. § (7)–(10) és (12) bekezdése szerinti naptári napot, amelyet a felek egy határidőn belüli adott napként is meghatározhatnak.
+
+### 2. §
+
+(1) A gazdaságátadási szerződés az átadandó gazdaság elemeire vonatkozóan – ha a felek a Gtv. 3. § (2) bekezdése szerinti szerződéstípusokat vegyesen alkalmazzák, a gazdaság egyes elemei tekintetében meghatározva az irányadó rendelkezéseket – az alábbi bontásban tartalmazza
+
+a) a gazdaság működtetését szolgáló, a gazdaságátadó tulajdonában álló, a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) alapján mező- és erdőgazdasági hasznosítású földnek minősülő azon ingatlan (a továbbiakban: föld) esetében, amelynek tulajdonjogát a gazdaságátadó a gazdaságátvevőre ruházza át,
+
+aa) a település nevét, ahol a föld található,
+
+ab) a föld fekvését, helyrajzi számát, alrészletét, művelési ágát, térmértékét, erdő művelési ágban nyilvántartott ingatlan kivételével a kataszteri tisztajövedelmét,
+
+ac) a föld szerződéskötéskori forgalmi értékét a Földforgalmi tv. 8/A. §-ában foglaltak szerint,
+
+ad) a föld átruházni kívánt tulajdoni hányadát, és
+
+ae)[^2] ha a föld hatályos vagy a felek rendelkezése alapján későbbi időpontban hatályba lépő földhasználati szerződéssel vagy többlethasználati megállapodással érintett, akkor a használat jogcímét, időtartamát és ellenértékét;
+
+b) a Gtv. 3. § (3) bekezdése szerinti, a gazdaságátadó tulajdonát képező, azonban kizárólag a használat átengedésével járó föld esetében
+
+ba) a település nevét, ahol a föld található,
+
+bb) a föld fekvését, helyrajzi számát, a használat átengedésével érintett terület alrészletének jelét, művelési ágát, térmértékét, erdő művelési ágban nyilvántartott ingatlan kivételével a kataszteri tisztajövedelmét, és
+
+bc) a használati arányt, a használat átengedésének jogcímét, időtartamát, az ellenszolgáltatás mértékét;
+
+c) a gazdaság működtetését szolgáló, mező- és erdőgazdasági tevékenység folytatásához szükséges, a gazdaságátadó tulajdonában álló, földnek nem minősülő azon ingatlan esetében, amelynek tulajdonjogát a gazdaságátadó a gazdaságátvevőre ruházza át,
+
+ca) a település nevét, ahol az ingatlan található,
+
+cb) az ingatlan fekvését, helyrajzi számát, területnagyságát,
+
+cc) az épület fő rendeltetés szerinti jellegét,
+
+cd) az ingatlan szerződéskötéskori forgalmi értékét és
+
+ce) az ingatlan átruházni kívánt tulajdoni hányadát, közös tulajdonú ingatlan esetében a használati arányt;
+
+d) a gazdaság működtetéséhez szükséges, más személy tulajdonában, de a gazdaságátadó használatában álló föld és földnek nem minősülő azon ingatlan esetében, amelynek használatát a gazdaságátadó a gazdaságátvevőnek engedi át,
+
+da) a település nevét, ahol az ingatlan található,
+
+db) az ingatlan fekvését, helyrajzi számát, föld esetében a használt terület alrészletének jelét, művelési ágát, térmértékét, erdő és halastó művelési ágban nyilvántartott ingatlan kivételével a kataszteri tisztajövedelmét, és
+
+dc) a használati arányt, a használat jogcímét, időtartamát, az ellenszolgáltatás mértékét;
+
+e) a Gtv. 2/A. §-a szerinti beszámítási szabály alkalmazása esetében azon föld d) pont szerinti adatait, amely
+
+ea) olyan mezőgazdasági termelőszervezet használatában van, amelyben a gazdaságátadó legalább 25%-ban tulajdonos, illetve
+
+eb) a gazdaságátadó közeli hozzátartozója használatában van;
+
+f) a gazdaságátadó tulajdonában vagy használatában álló, a mező- és erdőgazdasági tevékenység folytatásához szükséges ingó dolgok felsorolását és szerződéskötéskori forgalmi értékét az alábbiak szerint
+
+fa)[^3] állatállomány esetében az állomány tenyészetkódját és tartási helyét, valamint a tenyészállatokat egyedenként, azonosító számuk feltüntetésével, egyéb állat esetében fajonként az összlétszám megadásával,
+
+fb) azonosítható módon megadva a gépjárműveket, a mezőgazdasági erőgépeket, a munkagépeket és
+
+fc) a gazdaság működtetését szolgáló egyéb ingó dolgokat;
+
+g) a gazdaságátadót megillető vagy terhelő, mező- és erdőgazdasági tevékenységhez kapcsolódó vagyoni értékű jog
+
+ga) alapját képező dologi vagy kötelmi jogviszony keletkezésének dátumát, tárgyának megnevezését, ha rendelkezésre áll, a szerződés egyéb azonosító adatát, és
+
+gb) szerződéskötéskori forgalmi értékét;
+
+h) a gazdaságban végzett, a Gtv. 2. § a) pont ae) alpontja szerinti, a mező- és erdőgazdasági tevékenységhez kapcsolódó azon gazdasági társaság, szövetkezet, erdőbirtokossági társulat esetében, amelyben a gazdaságátadó tagsági joggal rendelkezik, továbbá olyan földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet esetében, amelyben a gazdaságátadó tagsági joggal rendelkezik
+
+ha) a megnevezést, cégjegyzékszámot, statisztikai azonosítót, adószámot, székhelyet, telephelyet, mezőgazdasági termelőszervezetként történő nyilvántartásba vétel határozatszámát, és
+
+hb) az átadásra kerülő vagyoni részesedés, szövetkezeti részesedés, társulati érdekeltség mértékét;
+
+i) az a)–h) pont szerinti vagyonelemekhez kapcsolódó következő jogokat és kötelezettségeket:
+
+ia) ha a gazdaságátadó a gazdaságátadási szerződéssel olyan föld vagy földnek nem minősülő ingatlan tulajdonjogát vagy használati jogát ruházza át, amely föld vagy földnek nem minősülő ingatlan tulajdonjogának vagy használati jogának megszerzéséhez meghatározott célú földhasználat vagy egyéb kötelezettség kapcsolódik, a kötelezettségek felsorolását az érintett ingatlan megjelölésével,
+
+ib) a Gtv. 7. § c) pontja szerinti hitel- és kölcsönszerződések esetében, a finanszírozási célú jogviszonyok – beleértve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó szervezettel szemben fennálló jogviszonyt – felsorolását, a hitelező vagy egyéb jogosult (a továbbiakban együtt: hitelező) megnevezése, a szerződés keltezése, a jogviszony tárgya, a kötelezettségvállalás szerződéskötéskori összege, a fennálló kötelezettségek, valamint ha rendelkezésre áll, a szerződés száma, futamideje vagy lejárati dátuma feltüntetésével,
+
+ic) a mező- és erdőgazdasági tevékenység folytatására irányuló engedélyek, bejelentések felsorolását a kibocsátó hatóság megnevezésével, az engedélyt megadó határozat száma, a bejelentés nyilvántartásba vételi sorszáma megadásával, és
+
+id) a Gtv. 7. § e) és f) pontja szerinti adatokat, a gazdaságátadó számára megítélt, folyamatban lévő támogatások esetében a megítélt támogatási összegek, a megvalósítás kezdetének és tervezett befejezésének napja, valamint az elszámolási időszak megadásával.
+
+j)[^4] a gazdaságátadó által megkötött, érvényesen létrejött, de hatóság (a továbbiakban: jóváhagyásért felelős hatóság) jóváhagyásától függően hatályba lépő azon szerződések felsorolását, amelyekben szereplő vagyonelemek a gazdaság átszállásának időpontját megelőzően válnának a gazdaság elemeivé, azzal, hogy azok a jóváhagyásért felelős hatóság jóváhagyását követően válnak a gazdaság részévé, feltéve, hogy a jóváhagyásért felelős hatóság a szerződést a gazdaság átszállásának napját megelőzően jóváhagyja.
+
+(2) Az (1) bekezdés i) pont ia) alpont szerinti kötelezettségek körében, erdőrészlet esetén a gazdaságátadási szerződésnek tartalmaznia kell az erdőfelújítási kötelezettséget, az erdőfelújítási biztosíték nyújtásával kapcsolatos kötelezettséget, az elrendelt erdőgazdálkodási tevékenységet, szabad rendelkezésű erdő, fásítás vagy fás szárú ültetvény esetén a vállalt újratelepítési kötelezettséget.
+
+(3) Ha a gazdaságátvevő kéri az (1) bekezdés i) pont ic) alpontja szerinti engedély átadását, a gazdaságátadási szerződés rögzíti – az engedély eredeti példánya felmutatása mellett – a másolati példány átadásának tényét.
+
+(3a)[^5] A gazdaságátadási szerződés az (1) bekezdés i) pont id) alpontja esetében a folyamatban lévő támogatási eljárások és támogatások felsorolását – az intézkedés megnevezésével, valamint a benyújtott támogatási kérelem és az agrártámogatási jogviszonyt létesítő okirat iratazonosítójának megadásával – a Magyar Államkincstár által, a gazdaságátadó kérelmére a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló miniszteri rendelet szerint kiállított adatigazolás alapján tartalmazza.
+
+(3b)[^6] Az (1) bekezdés j) pontja szerinti szerződés esetében a gazdaságátadási szerződés elkülönítve tartalmazza az (1) bekezdés a), b), d) pontja és i) pont ia) alpontja szerinti adatokat.
+
+(4) A gazdaságátadó kérelmezheti
+
+a) az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 73. § (5) bekezdés h) pontjára figyelemmel a gazdaság (1) bekezdés szerinti, a tulajdonában lévő valamennyi ingatlanelem megállapítása, ingatlan-nyilvántartásból való teljes körű lekérdezése érdekében az adatszolgáltatást, és
+
+b)[^7] a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 99. § (2) bekezdése szerinti földhasználati összesítő kiállítását.
+
+(5)[^8] A földhasználó fogalmának e rendelet szerinti alkalmazása során a Fétv. 45. § (2) bekezdés a) pontja irányadó.
+
+### 3. §
+
+(1) A gazdaságátadási szerződésnek a 2. § (1) bekezdése szerinti gazdasági elemekre vonatkozóan a Gtv. 6. § (1) bekezdése szerinti nyilatkozatokon túl tartalmaznia kell
+
+a) a gazdaságátvevő nyilatkozatát arról, hogy
+
+aa) a Gtv. 6. § (6) bekezdése szerinti időpontban az átvétellel nem lépi túl a Földforgalmi tv. szerinti földszerzési- és birtokmaximumot, és
+
+ab) a 2. § (1) bekezdése szerinti vagyoni elemekhez kapcsolódó jogokat, kötelezettségeket megismerte és magára nézve kötelezőnek ismeri el, és
+
+b) a gazdaságátadó nyilatkozatát arról, hogy
+
+ba) tudomással bír a Gtv. 4. § (1) bekezdése szerinti tilalomról,
+
+bb) a használati megosztásról szóló megállapodás rendelkezésére áll a 2. § (1) bekezdés a)–d) pontja szerinti azon ingatlanok esetében, amelyek közös tulajdonban vannak,
+
+bc) a gazdaságátadási szerződés teljeskörűen tartalmazza a gazdasághoz kapcsolódó, valamennyi hitelezővel szemben fennálló kötelezettségeket, és
+
+bd) vállalja a mezőgazdasági igazgatási szervhez történő benyújtásig a házastárs hozzájáruló nyilatkozata beszerzését a házastársak közös tulajdonában lévő, a házastársi közös lakást magában foglaló ingatlan gazdaságátadás keretében való átadásához, ha a 2. § (1) bekezdés c) pontja szerinti vagyonelemek között ilyen ingatlan szerepel.
+
+(2) Ha a szerződő felek a Gtv. 10. §-a szerinti együttműködésben állapodnak meg, a gazdaságátadási szerződés tartalmazza
+
+a) a gazdaságátadó személyes közreműködésének módját a gazdaság működtetésében,
+
+b) adott esetben a Gtv. 10. § (3) és (4) bekezdése szerinti szabályoktól való eltérést és
+
+c) az együttműködés időtartamát és módját.
+
+## 2. A gazdaságátadási szerződés hatósági jóváhagyása iránti eljárás
+
+### 4. §
+
+(1)[^9] A gazdaságátadási szerződés jóváhagyása iránti kérelmet a gazdaságátadó az arra rendszeresített formanyomtatványon elektronikus vagy postai úton vagy személyesen eljárva nyújtja be a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet 43/A. § (1) bekezdése szerinti földügyi igazgatási feladatkörében eljáró vármegyei kormányhivatalhoz (a továbbiakban: vármegyei kormányhivatal).
+
+(2) A gazdaságátadási szerződés jóváhagyása iránti kérelemhez csatolni kell
+
+a) a postai úton vagy személyesen benyújtott kérelem esetén a gazdaságátadási szerződést négy eredeti példányban,
+
+b) elektronikus úton benyújtott kérelem esetében a gazdaságátadási szerződést
+
+ba) ingatlan tulajdonjogának átruházása esetén az ingatlan-nyilvántartásról szóló 2021. évi C. törvény 35. § (2) bekezdése szerinti okirat formájában,
+
+bb) a ba) alponton kívüli esetekben elektronikus okirat formájában,
+
+c)[^10] a Gtv. 2. § b) pont ba) alpontja szerinti feltételt igazoló, (3) bekezdés szerinti dokumentumot,
+
+d) a mezőgazdasági termelőszervezet hatályos létesítő okiratát, ha a Gtv. 2/A. §-a szerint a gazdaságátadó a földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet legalább 25%-ban tulajdonosa,
+
+e) a Gtv. 2. § c) pont ca) alpontja szerinti, a gazdaságátvevőnek a gazdaságátadóval való hozzátartozói láncolatban állása igazolására a családi gazdaságokról szóló törvény végrehajtásáról szóló 665/2020. (XII. 28.) Korm. rendelet 2. melléklete szerinti dokumentumot,
+
+f) a Gtv. 2. § c) pont cb) alpontja szerinti hét éves folyamatos, a gazdaságátadási szerződés megkötésekor is fennálló munkaviszony vagy munkavégzésre irányuló egyéb jogviszony igazolására az adóhatósághoz bejelentett
+
+fa) munkaviszonyt igazoló munkaszerződést,
+
+fb) bedolgozói munkaviszonyt igazoló munkaszerződést, vagy
+
+fc) a személyes közreműködéssel járó gazdasági társasági tevékenységet igazoló szerződést,
+
+g)[^11] a gazdaságátvevő személyére vonatkozó azon igazolásokat, amelyek a gazdaság működéséhez esetlegesen szükséges engedélyek megszerzésének feltételéül szolgálnak – így különösen iskolai végzettség vagy képesítési feltétel –,
+
+h) a 2. § (1) bekezdés i) pont ib) alpontja szerinti esetben a finanszírozási célú jogviszonyban érintett hitelező, a gazdaságátadó és a gazdaságátvevő által aláírt háromoldalú dokumentumot, amely tartalmazza,
+
+ha) hogy a gazdaságátvevő megismerte a gazdaságátadási szerződésben szereplő finanszírozási célú jogviszony szerinti kötelezettségeket és tudomásul veszi azok jogutódlás keretében a gazdaságátvevőre történő átszállását, valamint
+
+hb) a hitelező tájékoztatását a gazdaságátadási szerződés szerinti jogutódlás következményeiről és a finanszírozási célú jogviszonyra vonatkozó kötelezettségekről.
+
+i)[^12] a 2. § (3a) bekezdése szerinti, a Magyar Államkincstár által kiállított adatigazolást,
+
+j)[^13] a jóváhagyásért felelős hatóság 2. § (1) bekezdés j) pontja szerinti jóváhagyó döntését, és
+
+k)[^14] a gazdaságátadó közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatát, amelyben kijelenti, hogy a gazdaságátadási szerződésben a gazdaság részeként meghatározott mező-, erdőgazdasági hasznosítású földek tekintetében teljesül a Gtv. 2. § b) pont bb) alpontjában foglalt feltétel.
+
+(3) A (2) bekezdés c) pontja tekintetében
+
+a)[^15] az árbevétel igazolása
+
+aa) adóhatósági igazolással,
+
+ab) adóbevallással vagy
+
+ac) őstermelői tevékenység esetében, ha az éves árbevétel nem éri el a bevallási kötelezettség alsó határát, és adóbevallással nem tudja igazolni éves árbevételét, akkor a gazdaságátadónak – a bevételi nyilvántartásban rögzített adatok alapján kiállított – az éves árbevétele összegére vonatkozó nyilatkozatával
+
+is teljesíthető, és
+
+b) a tevékenység tíz éves időtartamának nem kell összefüggőnek lennie, összesen kell a tíz évet elérnie.
+
+(4) A (2) bekezdés h) pontja szerinti dokumentum a gazdasághoz tartozó mindazon vagyontárgy vonatkozásában, amelyet a hitelező javára bejegyzett elidegenítési és terhelési tilalom terhel, a tulajdonjog – a gazdaságátadó és a gazdaságátvevő közötti – átruházására vonatkozó, a hitelező részéről történő hozzájáruló nyilatkozatnak minősül.
+
+(5) A gazdaságátadási szerződés Gtv. 12/A. §-a szerinti módosításának jóváhagyása iránti kérelemhez kizárólag a gazdaságátadási szerződés módosításával érintett mellékleteket kell benyújtani.
+
+(6)[^16] Ha a gazdaságátadási szerződés tartalmaz a Gtv. 7. § e) vagy f) pontja szerinti adatokat, a vármegyei kormányhivatal elektronikus úton értesíti a Magyar Államkincstárt a gazdaságátadási szerződés vagy annak módosítása jóváhagyása iránti kérelem beérkezéséről
+
+a) a gazdaságátadó neve,
+
+b) a Gtv. 12/C. § (1) bekezdés a) pont af) alpontja szerinti támogatási azonosító, valamint
+
+c) az 1. § (2) bekezdés b) pontja szerinti adat
+
+megküldésével.
+
+### 5. §
+
+(1) A vármegyei kormányhivatal gazdaságátadási szerződést jóváhagyó határozata az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 81. §-ában meghatározottakon kívül tartalmazza
+
+a) a határozat indokolásában annak megállapítását, hogy
+
+aa) a szerződő felek megfelelnek a Gtv. 2. § b) és c) pontja szerinti személyi feltételeknek,
+
+ab) a hatóság megvizsgálta a Gtv. 12. § (1) bekezdése szerinti feltételek teljesülését, és
+
+ac) a gazdaságátadási szerződés tartalmazza a Gtv. 6. és 7. §-a szerinti tartalmi elemeket, valamint a gazdaság egészére és egyes elemeire vonatkozóan – a Gtv. 6. § (6) bekezdése szerinti feltétel kivételével – a Gtv. szerinti feltételek teljesülését,
+
+b) a kérelem mellékleteként benyújtott gazdaságátadási szerződés jóváhagyásának tényét, és
+
+c) a hatóságok megnevezését, amelyeket a Gtv. 4. § (1a) bekezdése szerinti hivatalbóli törlés céljából a vármegyei kormányhivatal értesít.
+
+(2) A vármegyei kormányhivatal
+
+a) a postai úton vagy személyesen benyújtott gazdaságátadási szerződés valamennyi eredeti példányát jóváhagyó záradékkal látja el,
+
+b) az elektronikus úton benyújtott gazdaságátadási szerződéshez kiállítja a szerződéshez tartozó jóváhagyó záradékot tartalmazó dokumentumot.
+
+(3) A vármegyei kormányhivatal jóváhagyásával a gazdaságátadási szerződést hatályos szerződésnek kell tekinteni.
+
+## 3. A gazdaságátadási szerződés jóváhagyását követő eljárások, a gazdaság átszállása
+
+### 6. §
+
+(1) A Gtv. 3. § (8) bekezdésére figyelemmel eljáró ingatlanügyi hatóság értesíti a vármegyei kormányhivatalt
+
+a) a gazdaságátvevő tulajdonjogának ingatlan-nyilvántartásba történő bejegyzéséről vagy
+
+b) a Gtv. 6. § (6) bekezdése szerinti feltétel nem teljesülése esetén a tulajdonjog bejegyzése iránti kérelem elutasításáról.
+
+(2) A Gtv. 3. § (12) bekezdése szerinti esetben a gazdaságátadási szerződésben a gazdaság átszállására meghatározott naptári napot követő 8 napon belül, egyéb esetben az (1) bekezdés szerinti értesítés alapján, az értesítés kézhezvételét követő 8 napon belül a vármegyei kormányhivatal
+
+a) értesíti a Gtv. 4. § (1a) bekezdése szerinti nyilvántartások vezetését ellátó szervet és kéri, hogy a gazdaságátadót töröljék a nyilvántartásból, valamint
+
+b) – a gazdaságátvevő Gtv. 14. § (3) bekezdése szerinti kérelme esetében – a záradékolt szerződés hiteles másolatát és a jóváhagyó határozatot továbbítja a hatáskörrel rendelkező hatóságnak a jogutódlás átvezetése céljából.
+
+(3)[^17] A vármegyei kormányhivatal a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, valamint az élelmiszerlánc-felügyeleti szerv a Gtv. 4. § (1a) bekezdés b) és c) pontjában, valamint a (2) bekezdés a) pontjában meghatározott értesítésekor megadja
+
+a) a gazdaságátadó nevét és FELIR azonosítóját,
+
+b) a gazdaság átszállásának időpontját, valamint
+
+c) az 1. § (2) bekezdés a) pontja szerinti adatokat.
+
+(4)[^18] A 4. § (6) bekezdése szerinti értesítéssel érintett eljárásban a vármegyei kormányhivatal a végleges határozat és a jóváhagyott gazdaságátadási szerződés megküldésével, a határozat véglegessé válását követő 5 napon belül elektronikus úton értesíti a Magyar Államkincstárt a gazdaságátadási szerződés vagy annak módosítása jóváhagyásáról.
+
+### 7. §
+
+A Gtv. 7. § c) pontja szerinti, államilag támogatott hitel esetében nem kell vizsgálni a gazdaságátvevő tekintetében a Gtv. 15. § (2) bekezdése szerint a támogathatóság jogosultsági és tartalmi feltételeinek fennállását.
+
+### 7/A. §[^19]
+
+Az egyéni vállalkozó gazdaságátadó a gazdaság átszállását követő 8 napon belül bejelenti az egyéni vállalkozók nyilvántartását vezető szervnek az átadott gazdasághoz kötődő, a FELIR-ben nyilvántartandó tevékenysége megszüntetését.
+
+## 4. A vármegyei kormányhivatal által vezetett nyilvántartás
+
+### 8. §
+
+A vármegyei kormányhivatal által a Gtv. 12/C. §-a szerint a jóváhagyott gazdaságátadási szerződésekről vezetett nyilvántartás – az ott meghatározott adatokon kívül – tartalmazza
+
+a) ha a gazdaság rendelkezik vele, a családi gazdaság nyilvántartási azonosítóját;
+
+b) a 2. § (1) bekezdés a)–d) pontja szerinti bontásban a gazdaságátadási szerződés tárgyát képező ingatlan alábbi adatait
+
+ba) település nevét, ahol az ingatlan található,
+
+bb) fekvését (belterületi, külterületi vagy zártkerti minőségét),
+
+bc) helyrajzi számát,
+
+bd) térmértékét,
+
+be) művelési ágát és
+
+bf) erdő művelési ágban nyilvántartott ingatlan kivételével a föld kataszteri tisztajövedelmét
+
+c) a gazdaságátadási szerződés Gtv. 3. § (2) bekezdése szerinti típusát, több típus alkalmazása esetén valamennyi megjelölésével, valamint a gazdaságátadási szerződés keltét;
+
+d) az állatállományt érintően annak megnevezését, mennyiségét, értékét;
+
+e) a gazdaság egyes elemeihez kapcsolódó
+
+ea) szerződéskori forgalmi értéket,
+
+eb) polgári jogi szerződések megnevezését és az azokban foglalt jogok, kötelezettségek értékét összegszerűen kifejezve,
+
+ec) mező- és erdőgazdálkodási tevékenységek folytatására irányuló engedélyek felsorolását, valamint
+
+ed) folyamatban lévő támogatási jogviszonyokat, a támogatási összegek megjelölésével;
+
+f) a Gtv. 10. §-a szerinti együttműködés időtartamát és
+
+g) a gazdaság átszállásának naptári napját.
+
+## 5. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet 2025. január 15-én lép hatályba.
+
+### 10. §
+
+A 4. § (2) bekezdés a) pontjától eltérően, ha a jóváhagyott gazdaságátadási szerződés ingatlanügyi hatósághoz történő benyújtása a Földforgalmi tv. 8. § (3) bekezdésének hatálya alatt papír alapon történik, a gazdaságátadási szerződés négy eredeti példánya közül egyet a Földforgalmi tv. végrehajtására kiadott rendeletben meghatározott biztonsági kellékekkel rendelkező papíralapú okmányon kell kiállítani.
+
+### 11. §[^20]
+
+(1) E rendeletnek az agrárgazdaságok átadásáról szóló törvény végrehajtásáról szóló 480/2024. (XII. 31.) Korm. rendelet módosításáról szóló 416/2025. (XII. 23.) Korm. rendelettel [a továbbiakban: 416/2025. (XII. 23.) Korm. rendelet] megállapított 2. § (5) bekezdését, 4. § (2) bekezdés c) pontját, 4. § (3) bekezdés a) pontját, 4. § (6) bekezdését, valamint 6. § (3) és (4) bekezdését a folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) E rendeletnek a 416/2025. (XII. 23.) Korm. rendelettel megállapított 4. § (2) bekezdés k) pontját a folyamatban lévő eljárásokban azzal kell alkalmazni, hogy a vármegyei kormányhivatal a gazdaságátadót nyilatkozattételre hívja fel abban a tekintetben, hogy be kívánja-e nyújtani a 4. § (2) bekezdés k) pontja szerinti nyilatkozatot.
+
+---
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 416/2025. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdés a) pont ae) alpontja a 416/2025. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés f) pont fa) alpontja a 416/2025. (XII. 23.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés j) pontját a 416/2025. (XII. 23.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A 2. § (3a) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § (3b) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § (4) bekezdés b) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^8]: A 2. § (5) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^9]: A 4. § (1) bekezdése a 416/2025. (XII. 23.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^10]: A 4. § (2) bekezdés c) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdés g) pontja a 416/2025. (XII. 23.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés i) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^13]: A 4. § (2) bekezdés j) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^14]: A 4. § (2) bekezdés k) pontját a 416/2025. (XII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^15]: A 4. § (3) bekezdés a) pontja a 416/2025. (XII. 23.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § (6) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^17]: A 6. § (3) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^18]: A 6. § (4) bekezdését a 416/2025. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^19]: A 7/A. §-t a 416/2025. (XII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^20]: A 11. §-t a 416/2025. (XII. 23.) Korm. rendelet 6. §-a iktatta be.

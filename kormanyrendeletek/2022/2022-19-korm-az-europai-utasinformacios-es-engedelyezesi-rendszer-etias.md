@@ -1,0 +1,236 @@
+---
+title: "19/2022. (I. 24.) Korm. rendelet az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) alkalmazásához kapcsolódó feladatok részletes szabályairól"
+identifier: "19/2022. (I. 24.) Korm. rendelet"
+njt_id: "2022-19-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/19"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-01-24
+status: not_yet_in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-19-20-22"
+retrieved: 2026-10-12
+---
+
+# 19/2022. (I. 24.) Korm. rendelet az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) alkalmazásához kapcsolódó feladatok részletes szabályairól
+
+A Kormány\
+a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 77. § (1) bekezdés *e)* pontjában kapott felhatalmazás alapján,\
+a 12. § tekintetében a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 86. § (1) bekezdés *d)* pontjában kapott felhatalmazás alapján,\
+a 13. § és a 14. § tekintetében a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 86. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján,\
+a 15. § tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. § (1) bekezdés *i)* pontjában kapott felhatalmazás alapján,\
+a 16. § és a 17. § tekintetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 111. § (1) bekezdés *a)* pontjában kapott felhatalmazás alapján,\
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Értelmező rendelkezések
+
+### 1. §
+
+E rendelet alkalmazásában
+
+1\. *ETIAS:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelettel létrehozott Európai Utasinformációs és Engedélyezési Rendszer,
+
+2\. *ETIAS figyelőlista:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 34. cikke szerinti lista,
+
+3\. *ETIAS központi egység:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelet szerint az Európai Határ- és Partvédelmi Ügynökségen kijelölt szervezeti egység,
+
+4\. *ETIAS központi hozzáférési pont:* a Terrorelhárítási Információs és Bűnügyi Elemző Központ kijelölt szervezeti egysége,
+
+5\. *ETIAS központi rendszer:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 6. cikkében foglaltak szerint létrehozandó műszaki rendszer, beleértve az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 34. cikke szerinti ETIAS figyelőlistát is,
+
+6\. *ETIAS nemzeti egység:* a Terrorelhárítási Információs és Bűnügyi Elemző Központ kijelölt szervezeti egysége,
+
+7\. *ETIAS utazási engedély:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 5. pontjában meghatározott engedély,
+
+8\. *határforgalom-ellenőrzést végző hatóság:* az általános rendőrségi feladatok ellátására létrehozott szerv kijelölt szerve,
+
+9\. *idegenrendészeti hatóság:* a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 2. § *c), d)* és *f)* pontja, illetve a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 1. § *c), d)* és *f)* pontja szerinti hatóság,
+
+10\. *kérelmező:* az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 3. cikk 9. pontja szerinti személy,
+
+11\. *kijelölt hatóság:* a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 8/C. § (2) bekezdése szerinti, az ETIAS központi rendszeréből bűnüldözési célból adatigénylésre jogosult hatóság,
+
+12\. *terrorista bűncselekmény vagy egyéb súlyos bűncselekmény:* a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/C. § (2) bekezdése szerinti bűncselekmény.
+
+## 2. Az ETIAS utazási engedélyek feldolgozása
+
+### 2. §
+
+(1) Az ETIAS nemzeti egység az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 26. cikk szerinti tevékenysége keretében – a biztonsági, az illegális bevándorlással kapcsolatos, valamint a magas szintű járványügyi kockázatok egyedi értékeléséhez szükséges adatok beszerzése érdekében – az Nbtv. 40. § (1) bekezdése alapján az adatkérés céljának megjelölésével küldött megkeresését az Nbtv. 30/A. §-a szerinti együttműködő szerv, az ügyészség, valamint a járványügyi adatot kezelő szerv 24 órán belül, elektronikus úton megválaszolja.
+
+(2) Az ETIAS utazási engedély iránti kérelem feldolgozása vagy az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 28. cikke szerinti konzultáció során az ETIAS nemzeti egység a kérelmezőt az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 27. cikke szerint szólítja fel további információk vagy dokumentumok benyújtására.
+
+## 3. Az ETIAS vizsgálati szabályok
+
+### 3. §
+
+(1) Az ETIAS nemzeti egység részt vesz az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 9. cikke szerinti ETIAS vizsgálatokért felelős tanácsadó testületének tevékenységében, a (2) bekezdés szerinti elemzések összesítésében és azoknak az ETIAS központi egységgel történő megosztásában.
+
+(2) Az ETIAS nemzeti egység az Nbtv. 8/B. § (1) bekezdés *e)* pontja keretében meghatározott feladatköréhez kapcsolódóan hozzájárul az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 33. cikk *d)–f)* pontjában meghatározott feladatok végrehajtásához. Ebből a célból
+
+a) az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 33. cikk (2) bekezdés *d)–e)* pontja vonatkozásában az Nbtv. 30/A. § *a)–h)* pontjában meghatározott együttműködő szervek az ETIAS nemzeti egység megkeresése alapján legalább félévente személyes adatokat nem tartalmazó információkat, elemzéseket osztanak meg az ETIAS nemzeti egységgel,
+
+b) az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 33. cikk *f)* pontja vonatkozásában az ETIAS nemzeti egység legalább félévente megkeresi a járványügyi adatot kezelő szervet személyes adatokat nem tartalmazó információk, elemzések beszerzése érdekében.
+
+## 4. Az ETIAS figyelőlista
+
+### 4. §
+
+(1) Az ETIAS nemzeti egység felelős az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 34. cikkével összhangban a terrorista bűncselekményre vagy egyéb súlyos bűncselekményre vonatkozó adatoknak az ETIAS figyelőlistába történő beviteléért, módosításáért és törléséért.
+
+(2) Az Nbtv. 30/A. § *a)–h)* pontjában meghatározott együttműködő szervek és az ügyészség (a továbbiakban együtt: kezdeményező szerv) kizárólag abban az esetben kezdeményezhetik valamely információ ETIAS figyelőlistába történő bevitelét, ha az terrorista bűncselekménnyel vagy egyéb súlyos bűncselekménnyel kapcsolatos információkat tartalmaz. Az ETIAS figyelőlistába adatelemek bevitelének kezdeményezéséhez a kezdeményező szerv az ETIAS nemzeti egység felé elektronikus úton megküldi
+
+a) a kezdeményezés alapjául szolgáló egyedi ügy ügyiratszámát, az egyedi ügy szerinti bűncselekmény megnevezését,
+
+b) a figyelőlistán elhelyezendő adatelemeket,
+
+c) az adatelemek figyelőlistán történő elhelyezését alátámasztó indokolást,
+
+d) az adatelemek figyelőlistán történő elhelyezésének kezdő és befejező időpontját,
+
+e) a figyelőlistán elért találat esetén kért intézkedések megjelölését,
+
+f) a figyelőlistán elért találat esetén az értesítendő személy elérhetőségeit,
+
+g) a sürgős eljárásra történő utalást és annak indokolását.
+
+(3) Az ETIAS nemzeti egység és a kezdeményező szerv a figyelőlistába bevitt adatelemek pontosságát és a bejegyzés fenntartásának indokoltságát rendszeresen, de legalább évente egy alkalommal felülvizsgálja. A kezdeményező szerv a felülvizsgálat eredményéről az ETIAS nemzeti egységet haladéktalanul értesíti. Az ETIAS nemzeti egység az adatelemek felülvizsgálata során bármely kezdeményező szervtől tájékoztatást vagy információt kérhet.
+
+(4) A kezdeményező szerv a figyelőlista bejegyzés érvényességi idejének lejártát megelőzően legalább 15 nappal kezdeményezi az ETIAS nemzeti egységnél a figyelőlistán való elhelyezés meghosszabbítását.
+
+(5) Ha a meghosszabbítás kezdeményezésére nem kerül sor, vagy a (3) bekezdés szerinti felülvizsgálat alapján a bejegyzés pontatlan, vagy fenntartása nem indokolt, a figyelőlistán elhelyezett adatokat az ETIAS nemzeti egység módosítja, illetve törli.
+
+## 5. Együttműködés az ETIAS nemzeti egység és a határforgalom-ellenőrzést végző hatóság között
+
+### 5. §
+
+(1) Ha a határforgalom-ellenőrzést végző hatóság az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 47. cikke szerinti feladatai végrehajtása keretében megállapítja, hogy a harmadik országbeli állampolgár vonatkozásában az ETIAS utazási engedélyhez az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 36. cikke szerinti megjelölést csatoltak, a határforgalom-ellenőrzést végző hatóság a határforgalom-ellenőrzés megállapításairól elektronikus úton tájékoztatja az ETIAS nemzeti egységet.
+
+(2) Az (1) bekezdés szerinti esetben az ETIAS nemzeti egység megvizsgálja, hogy az ETIAS utazási engedély kiadásának feltételei továbbra is teljesülnek-e. Ha a vizsgálat során megállapítja, hogy a feltételek már nem állnak fenn, intézkedik az ETIAS utazási engedély visszavonásáról.
+
+## 6. Az ETIAS központi hozzáférési pont és az ETIAS központi rendszeréből történő, bűnüldözési célú adatigénylés eljárási szabályai
+
+### 6. §
+
+(1) Az ETIAS központi hozzáférési pont vezeti az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 50. cikk (3) bekezdése szerinti listát a kijelölt hatóság azon szervezeti egységeiről, amelyek kezdeményezhetik az ETIAS központi hozzáférési pontnál az ETIAS központi rendszeréből történő, bűnüldözési, bűnmegelőzési, valamint bűnfelderítési célú adatigénylést.
+
+(2) Az ETIAS központi rendszeréből történő, az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 51. cikke szerinti adatigénylés kezdeményezéséhez a kijelölt hatóság által elektronikus úton benyújtott kérelemnek tartalmaznia kell
+
+a) az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 52. cikke szerinti feltételek igazolására vonatkozó adatokat,
+
+b) az adatigénylés alapjául szolgáló egyedi ügy ügyiratszámát, az ügyben eljáró szerv megnevezését,
+
+c) az adatigénylés alapjául szolgáló egyedi ügy szerinti bűncselekmény megnevezését,
+
+d) az adatigényléssel érintett adatok megjelölését,
+
+e) az adatigénylés szükségességének indokolását,
+
+f) az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 51. cikk (4) bekezdése szerinti sürgős eset fennállását alátámasztó indokolást.
+
+(3) A kijelölt hatóság köteles haladéktalanul, elektronikus úton tájékoztatni az ETIAS központi hozzáférési pontot, ha az (1) bekezdés szerinti szervezeti egységek jogosultsága vonatkozásában változás következik be.
+
+## 7. Az ETIAS központi rendszeréből történő, bűnüldözési célú adatigénylés eredményességéről szóló éves jelentés
+
+### 7. §
+
+(1) Az ETIAS központi hozzáférési pont állítja össze az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 92. cikk (8) bekezdése szerinti éves jelentést.
+
+(2) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség teljesítéséhez szükséges adatokat és kiegészítő információkat a kijelölt hatóság köteles az ETIAS központi hozzáférési pont erre irányuló megkeresése esetén 5 munkanapon belül átadni.
+
+## 8. Az ETIAS központi rendszerébe bevitt adatok helyesbítésének, kiegészítésének és törlésének szabályai
+
+### 8. §
+
+(1) Ha az idegenrendészeti hatóság vagy a menekültügyi hatóság az ETIAS központi rendszeréből történő lekérdezés során megállapítja, hogy az érintett harmadik országbeli állampolgár egy vagy több adata helyesbítésre, kiegészítésre vagy törlésre szorul, az adatok pontosításának végrehajtása érdekében az ETIAS nemzeti egységet elektronikus úton, haladéktalanul tájékoztatja.
+
+(2) Az ETIAS nemzeti egység megvizsgálja az (1) bekezdés szerinti tájékoztatásban foglaltakat, és ha szükséges, további információt kérhet.
+
+(3) Az ETIAS nemzeti egység vizsgálja az ETIAS központi egysége vagy más európai uniós tagállamból érkező, az ETIAS központi rendszerében tárolt adatok módosítására vagy törlésére vonatkozó tájékoztatásokat.
+
+(4) A menekültügyi hatóság a menedékjogról szóló 2007. évi LXXX. törvény 87. § (1a) bekezdés *b)* pontja szerinti adattovábbításnak haladéktalanul és elektronikus úton tesz eleget.
+
+(5) Az idegenrendészeti hatóság a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 81. § (2a) bekezdés *b)* pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. § (1a) bekezdés *b)* pontja szerinti adattovábbításnak haladéktalanul és elektronikus úton tesz eleget.
+
+(6) Az ETIAS nemzeti egység a (4) és (5) bekezdés, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (2a) bekezdése szerinti tájékoztatást követően ellenőrzi az adatokat az ETIAS központi rendszerében, és egyezőség esetén haladéktalanul visszavonja az ETIAS utazási engedélyt. Ha a tájékoztatásnak megfelelő ETIAS utazási engedélyt az ETIAS központi rendszere nem tartalmaz, a kapott adatokat az ETIAS nemzeti egység haladéktalanul törli.
+
+## 9. Záró rendelkezések
+
+### 9. §
+
+Ez a rendelet az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+
+### 10. §
+
+E rendelet hatálybalépésének naptári napját az idegenrendészetért és menekültügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+### 11. §
+
+Ez a rendelet az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 12. §
+
+A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 70. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Tv. 65. § (1) és (1b) bekezdése szerinti ellenőrzési kötelezettségét nem teljesítő fuvarozót személyenként legalább 3000, legfeljebb 5000 euróig terjedő, forintban meghatározott közrendvédelmi bírsággal kell sújtani.”
+
+### 13. §
+
+A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet a 78/C. §-t követően a következő alcímmel egészül ki:
+
+**„Az Európai Utasinformációs és Engedélyezési Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok**
+
+78/D. § (1) Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 49. cikkében foglalt feladatokat a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság és a Rendőrség látja el.
+
+(2) Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 65. cikk (3) bekezdésében foglalt feladatokat a Főigazgatóság és a Rendőrség látja el.
+
+(3) A Főigazgatóság haladéktalanul, de legkésőbb 24 órán belül elektronikus úton tájékoztatja az ETIAS nemzeti egységet a szükséges adatokról
+
+*a)* abban az esetben, ha a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/B. § (1) bekezdés *b)* pontja szerinti tevékenység keretében az adott kockázat megítélése érdekében az ETIAS nemzeti egység megkeresése alapján szükséges az adatszolgáltatás,
+
+*b)* az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) alkalmazásához kapcsolódó feladatok részletes szabályairól szóló 19/2022. (I. 24.) Korm. rendelet 8. § (1) és (5) bekezdése szerinti esetben.”
+
+### 14. §
+
+A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény végrehajtásáról szóló 113/2007. (V. 24.) Korm. rendelet 80. § (3) bekezdése a következő 8. ponttal egészül ki:
+
+*(Ez a rendelet)*
+
+„8. az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet”
+
+*(végrehajtásához szükséges rendelkezéseket állapít meg.)*
+
+### 15. §
+
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 149. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Tv. 69. § (1) és (1b) bekezdése szerinti ellenőrzési kötelezettségét nem teljesítő fuvarozót személyenként legalább 3000, legfeljebb 5000 euróig terjedő, forintban meghatározott közrendvédelmi bírsággal kell sújtani.”
+
+### 16. §
+
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet IX. Fejezete a 181/D. §-t követően a következő alcímmel egészül ki:
+
+**„Az Európai Utasinformációs és Engedélyezési Rendszerhez hozzáféréssel rendelkező idegenrendészeti hatóságok**
+
+181/E. § (1) Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 49. cikkében foglalt feladatokat a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság és a Rendőrség látja el.
+
+(2) Az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 65. cikk (3) bekezdésében foglalt feladatokat a Főigazgatóság és a Rendőrség látja el.
+
+(3) A Főigazgatóság haladéktalanul, de legkésőbb 24 órán belül elektronikus úton tájékoztatja az ETIAS nemzeti egységet a szükséges adatokról
+
+*a)* abban az esetben, ha a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/B. § (1) bekezdés *b)* pontja szerinti tevékenység keretében az adott kockázat megítélése érdekében az ETIAS nemzeti egység megkeresése alapján szükséges az adatszolgáltatás,
+
+*b)* az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) alkalmazásához kapcsolódó feladatok részletes szabályairól szóló 19/2022. (I. 24.) Korm. rendelet 8. § (1) és (5) bekezdése szerinti esetben.”
+
+### 17. §
+
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 183. § (2) bekezdése a következő *q)* ponttal egészül ki:
+
+*(Ez a rendelet)*
+
+„*q)* az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet”
+
+*(végrehajtásához szükséges rendelkezéseket állapít meg.)*
+
+*Orbán Viktor* s. k.,\
+miniszterelnök

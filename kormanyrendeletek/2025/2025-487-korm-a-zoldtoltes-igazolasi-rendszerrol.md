@@ -1,0 +1,229 @@
+---
+title: "487/2025. (XII. 31.) Korm. rendelet a zöldtöltés-igazolási rendszerről"
+identifier: "487/2025. (XII. 31.) Korm. rendelet"
+njt_id: "2025-487-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/487"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-12-31
+in_force_from: 2026-01-01
+last_amended: 2026-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-487-20-22"
+retrieved: 2026-10-12
+---
+
+# 487/2025. (XII. 31.) Korm. rendelet a zöldtöltés-igazolási rendszerről
+
+[1] A zöldtöltés-igazolási rendszer célja a közúti közlekedési ágazat érdekeltté tétele a megújuló forrásokból származó villamos energia minél nagyobb arányú hasznosításában. Bevezetése újabb alternatívát tesz elérhetővé a megújulóüzemanyag-részarány teljesítéséhez, valamint bevételi lehetőséget teremt az elektromos töltőberendezés üzemeltetőknek. Az intézkedés hozzájárul az elektromos töltőhálózat kiépítésének, fejlesztésének megtérüléséhez, előmozdítja az elektromobilitás további elterjedését és a megújuló villamos energia még szélesebb körű felhasználását.
+
+[2] A Kormány a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (1) bekezdés 61. pontjában, a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 13. § (1) bekezdés u) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+E rendelet alkalmazásában
+
+1\. *közlekedési célra értékesített villamos energia:* a közúti közlekedésről szóló törvény szerinti elektromobilitás szolgáltatás igénybevételével elektromos meghajtású gépjármű villamosenergia-tároló rendszerének töltésére felhasznált villamos energia;
+
+2\. *megújuló forrásból származó villamos energia:* származási garancia által igazoltan a villamos energiáról szóló törvény szerinti megújuló energiaforrásból előállított villamos energia.
+
+## 2. §
+
+(1) A zöldtöltés-igazolási rendszerben a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott, a közúti közlekedésről szóló törvény szerinti nyilvános töltőberendezés üzemeltetésére hatályos engedéllyel rendelkező üzemeltető (a továbbiakban: üzemeltetői engedélyes), valamint a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény szerinti üzemanyag-forgalmazó (a továbbiakban: üzemanyag-forgalmazó) vehet részt.
+
+(2) A zöldtöltés-igazolási rendszer tárgya az abban nyilvántartott üzemeltetői engedélyes által nyilvános töltőberendezésen közlekedési célra értékesített azon villamosenergia-mennyiség, amelynek megújuló jellegét az üzemeltetői engedélyes származási garanciával igazolta.
+
+## 3. §
+
+(1) A Hivatal a zöldtöltés-igazolási rendszer működésével kapcsolatos feladatainak ellátása érdekében elektronikus adatgyűjtő és számlarendszert (a továbbiakban: ZÖTIR nyilvántartás) működtet.
+
+(2) A zöldtöltés-igazolási rendszerben az üzemeltetői engedélyes és az üzemanyag-forgalmazó a Hivatallal kötött számlaszerződés alapján vehet részt. A számlaszerződés közigazgatási szerződésnek minősül.
+
+(3) A Hivatalt e rendelet szerint szerződéskötési kötelezettség terheli. A Hivatal a számlaszerződés megkötésére vonatkozó ajánlatát számlaszerződés formanyomtatványként és a számlaszerződés általános szerződési feltételeiként (a továbbiakban: általános szerződési feltételek) határozza meg és teszi közzé a honlapján. A zöldtöltés-igazolási rendszerben történő részvétel az elektronikusan aláírt számlaszerződés formanyomtatványnak a Hivatal részére történő megküldésével kezdeményezhető.
+
+(4) A zöldtöltés-igazolási rendszerben történő részvételt kezdeményező (a továbbiakban: kérelmező) által kitöltött és aláírt számlaszerződés (a továbbiakban: számlanyitási kérelem) beérkezését követő 30 napon belül a Hivatal a számlaszerződést elektronikusan aláírja. A számlaszerződést a Hivatal az elektronikus aláírást követően megküldi a kérelmezőnek.
+
+(5) A Hivatal a számlaszerződés aláírását mellőzi, ha
+
+a) a kérelmező zöldtöltés-igazolási rendszerben történő részvételének e rendelet szerinti feltételei nem állnak fenn,
+
+b) a kérelmező és a Hivatal között már van zöldtöltés-igazolási rendszerben történő részvételre vonatkozó számlaszerződés,
+
+c) a kérelmező nem beazonosítható,
+
+d) a kérelmező elmulasztja határidőben megfizetni a nyilvántartásba vétellel kapcsolatos díjakat,
+
+e) a számlanyitási kérelem adatai hiányosak, ellentmondásban állnak egymással vagy olyan adattal, amelyről a Hivatalnak hivatalos tudomása van, és az ellentmondást a számlanyitási kérelem módosításával a kérelmező a Hivatal felhívására sem oldja fel.
+
+(6) A számlaszerződés aláírásának mellőzése a számlanyitási kérelem elutasításának minősül. A Hivatal a számlaszerződés aláírása mellőzésének tényéről és indokáról a számlanyitási kérelem beérkezésétől számított 30 napon belül írásban tájékoztatja a kérelmezőt.
+
+(7) Az üzemeltetői engedélyes és az üzemanyag-forgalmazó által fizetendő díjakat és azok mértékét, a fizetési módot és határidőt az általános szerződési feltételek tartalmazzák.
+
+(8) Az e rendeletben nem szabályozott kérdésekben a számlaszerződésre a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerződésekre vonatkozó általános szabályait kell alkalmazni.
+
+(9) A Hivatal jogosult az általános szerződési feltételeket egyoldalúan módosítani, ha azt jogszabályváltozás indokolja. Az általános szerződési feltételek egyoldalú módosítása nem eredményezheti a számlaszerződés lényeges feltételének az üzemeltetői engedélyes és az üzemanyag-forgalmazó hátrányára történő módosítását. Lényeges módosításnak minősül a nyilvántartott üzemeltetői engedélyes vagy üzemanyag-forgalmazó e rendelet szerinti joga gyakorlásának feltételeire, a szerződéses időtartamokra, a számlaszerződés felmondási jog gyakorlásának feltételeire vonatkozó módosítás.
+
+(10) A Hivatal az általános szerződési feltételek módosítását annak hatálybalépését megelőzően legalább 40 nappal a Hivatal honlapján közzéteszi.
+
+(11) A Hivatal a honlapján közzéteszi a ZÖTIR nyilvántartásba felvett üzemeltetői engedélyes és az üzemanyag-forgalmazó személyes adatot nem tartalmazó azonosító adatait.
+
+## 4. §
+
+(1) Az üzemeltetői engedélyes zöldtöltés-igazolási rendszerben történő részvétel az elektromos töltőberendezés üzembe helyezését követően kezdeményezhető.
+
+(2) A Hivatal a számlaszerződés aláírásával egyidejűleg veszi nyilvántartásba a nyilvános töltőberendezés üzemeltetésére hatályos engedéllyel rendelkező üzemeltetői engedélyest és az elektromos töltőberendezést.
+
+(3) A Hivatal mellőzi az üzemeltetői engedélyes nyilvántartásba vételét, ha a ZÖTIR nyilvántartásból történő, 11. § (3) bekezdése szerinti törlését követően kevesebb, mint 2 év telt el.
+
+(4) Az üzemeltetői engedélyes a számlaszerződés alapján e rendelet és az általános szerződési feltételek szerint további olyan elektromos töltőberendezés regisztrálását kérheti, amelynek üzemeltetésére hatályos engedéllyel rendelkezik.
+
+## 5. §
+
+(1) A Hivatal a ZÖTIR nyilvántartásban naptári évenként és elektromos töltőberendezésenként tartja nyilván a megújuló forrásból származó, közlekedési célra értékesített villamos energiával kapcsolatosan a 6. § (1) bekezdése szerinti adatokat.
+
+(2) A nyilvántartott elektromos töltőberendezésen a tárgyév adott naptári hónapjában megújuló forrásból értékesített villamosenergia-mennyiségnek a ZÖTIR nyilvántartásba történő jóváírás alapja a nyilvántartásba vett üzemeltetői engedélyes által a Hivatal részére a villamos energia, földgáz és távhő iparágakra vonatkozó adatszolgáltatási kötelezettségről szóló MEKH rendelet szerint teljesített adatszolgáltatás.
+
+(3) A Hivatal a (2) bekezdés szerint beérkezett adatszolgáltatás alapján, az adatszolgáltatást követő 30 napon belül a nyilvántartott elektromos töltőberendezés tekintetében jóváírja a közlekedési célra értékesített megújuló eredetű villamos energiára vonatkozó, a 6. § (1) bekezdése szerinti adatokat, ha
+
+a) az elektromos töltőberendezés a bejelentés szerinti értékesítési időszakban a ZÖTIR nyilvántartásban szerepel,
+
+b) az üzemeltetői engedélyes a (2) bekezdés szerinti bejelentésben a Hivatal rendelkezésére bocsátotta az általa leolvasott hiteles mérési adatokat az elektromos meghajtású gépjármű töltésére felhasznált villamos energia mennyiségéről, és
+
+c) legkésőbb a b) pont szerinti adatszolgáltatással egyidejűleg az üzemeltetői engedélyes által a ZÖTIR nyilvántartásban jóváírni kért – de legfeljebb a (2) bekezdés szerinti adatszolgáltatásban foglalt – villamosenergia-mennyiségre és az üzemeltetői engedélyes – mint a villamos energiáról szóló törvény szerinti felhasználó vagy vételező – javára az értékesítéssel azonos időtartamú villamosenergia-fogyasztás megújuló eredetének igazolására negyedórás termelési időszakú, magyarországi erőmű által termelt villamos energiáról kiállított származási garancia került felhasználásra.
+
+(4) A Hivatal a jóváírást mellőzi, ha
+
+a) a (3) bekezdés szerinti bármely feltétel nem teljesül, vagy
+
+b) a bejelentés adatai ellentmondásban állnak egymással vagy olyan adattal, amelyről a Hivatalnak hivatalos tudomása van, és az ellentmondást a bejelentés módosításával az üzemeltetői engedélyes a Hivatal felhívásra sem oldja fel.
+
+## 6. §
+
+(1) A ZÖTIR nyilvántartás az üzemeltetői engedélyes tekintetében elektromos töltőberendezésenként a közlekedési célra értékesített megújuló forrásból származó villamos energiára vonatkozóan tartalmazza
+
+a) az elektromos töltőberendezés Hivatal által generált egyedi azonosítóját,
+
+b) az értékesítési időszak kezdetének és befejezésének dátumát és
+
+c) az értékesített megújuló villamos energia mennyiségét kilowattóra és megajoule mértékegységben.
+
+(2) Az elektromos töltőberendezésen közlekedési célra értékesített megújuló forrásból származó villamos energia vonatkozásában a ZÖTIR nyilvántartásban szereplő (1) bekezdés szerinti jóváírás (a továbbiakban: ZÖTIR jóváírás) korlátozottan forgalomképes vagyoni értékű jog, amely a ZÖTIR nyilvántartásba történő bejegyzéssel keletkezik, és a 9. § szerint bejegyzett üzemanyag-forgalmazó részére ruházható át a villamos energia értékesítési időszaka szerinti naptári évet követő év március 1. napjáig.
+
+(3) A forgalomképes ZÖTIR jóváírás átruházásához annak az átruházó általi, a Hivatalhoz történő elektronikus bejelentése szükséges. A jogosult személyében történő változás a ZÖTIR nyilvántartásban történő bejegyzéssel válik hatályossá. Az átruházásra a Ptk. rendelkezései irányadók.
+
+## 7. §
+
+(1) Az üzemeltetői engedélyes a számlaszerződés szerinti adatokban bekövetkezett
+
+a) tervezett változás esetében a változást megelőzően legalább 30 nappal,
+
+b) előre nem tervezett vagy nem tervezhető változást a tudomásszerzéstől számított 5 napon belül
+
+bejelenti a Hivatalnak.
+
+(2) A Hivatal az üzemeltetői engedélyes (1) bekezdés szerinti bejelentésére módosítja az üzemeltetői engedélyes nyilvántartott adatait.
+
+(3) A Hivatal az üzemeltetői engedélyest és az elektromos töltőberendezést a nyilvántartásból törli
+
+a) az üzemeltetői engedélyes kérelmére,
+
+b) hivatalból, az elektromos töltőberendezés üzemeltetésére vonatkozó engedély megszűnése esetén.
+
+(4) A Hivatal az üzemeltetői engedélyes jogutódlással történő megszűnése esetén kérelemre a 3. § (4) bekezdése szerint nyilvántartásba vett jogutód javára jóváírja a jogutódra átruházott elektromos töltőberendezés vonatkozásában a jogutódlás időpontjában nyilvántartott ZÖTIR jóváírást.
+
+## 8. §
+
+(1) Az üzemanyag-forgalmazó a megújulóenergia-részarány zöldtöltési igazolással történő teljesítése céljából a 3. § szerint kezdeményezheti a ZÖTIR nyilvántartásba történő felvételt.
+
+(2) Az üzemanyag-forgalmazó a számlaszerződés szerinti adatokban bekövetkezett változást a tudomásszerzéstől számított 15 napon belül bejelenti a Hivatalnak. A Hivatal az üzemanyag-forgalmazó bejelentésére módosítja az üzemanyag-forgalmazó nyilvántartott adatait.
+
+(3) A Hivatal az üzemanyag-forgalmazót a nyilvántartásból törli
+
+a) az üzemanyag-forgalmazó kérelmére és
+
+b) hivatalból, a jövedéki adóról szóló törvény szerinti engedély megszűnése esetén.
+
+(4) A Hivatal az üzemanyag-forgalmazó jogutódlással történő megszűnése esetén kérelemre a 3. § (4) bekezdése szerint nyilvántartásba vett jogutód javára jóváírja a jogutódlás időpontjában nyilvántartott ZÖTIR jóváírást.
+
+## 9. §
+
+(1) Az üzemanyag-forgalmazó vonatkozásában a ZÖTIR nyilvántartásba bejegyzett ZÖTIR jóváírás szerinti villamosenergia-mennyiségről és a villamos energia értékesítési időszakával megegyező tárgyévre vonatkozóan a Hivatal a naptári évet követő március 31. napon az üzemanyag-forgalmazónak címzett zöldtöltés-igazolást állít ki a megújulóüzemanyag-részaránynak a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátás csökkentéséről szóló 2010. évi CXVII. törvény 6. § (2) bekezdése szerinti igazolása céljából.
+
+(2) A zöldtöltés-igazolás elektronikus formában igazolja, hogy az abban tanúsított, megújuló energiatermelésből származó és közlekedési célra értékesített villamosenergia-mennyiséget az üzemanyag-forgalmazó által adott naptári évben forgalomba hozott megújuló üzemanyagnak kell tekinteni.
+
+(3) A zöldtöltés-igazolás tartalmazza
+
+a) a nyilvántartott üzemanyag-forgalmazó elnevezését és adószámát, természetes személy esetén nevét és adóazonosító jelét,
+
+b) a megújuló forrásból származó és közlekedési célra a tárgyévben értékesítettként a ZÖTIR nyilvántartásban jóváírt villamos energia mennyiségét kilowattóra és megajoule mértékegységben,
+
+c) az értékesítés naptári évét.
+
+(4) Az (1) bekezdéstől eltérően a Hivatal az üzemanyag-forgalmazó kérelmére, a kérelem benyújtását követő 15 napon belül zöldtöltés-igazolást állít ki az üzemanyag-forgalmazó jövedéki adóról szóló törvény szerinti engedélye megszűnése esetén.
+
+(5) A Hivatal a villamos energia értékesítési időszakával megegyező tárgyévre vonatkozóan a naptári évet követő március 31. napig adatszolgáltatást küld az állami adó- és vámhatóság részére az üzemanyag-forgalmazó vonatkozásában kiállított zöldtöltés-igazolásokról.
+
+## 10. §
+
+(1) A Hivatal éves ellenőrzési terv alapján ellenőrzi a ZÖTIR jóváírás bejegyzéséhez szükséges adatok megfelelőségét.
+
+(2) A Hivatal soron kívül ellenőrzést folytat le, ha az üzemeltetői engedélyes nyilvántartásból történő törlésére vagy ZÖTIR jóváírás kijavítására, törlésére okot adó körülmény jut a tudomására.
+
+(3) Az ellenőrzéssel érintett üzemeltetői engedélyes és az üzemanyag-forgalmazó a Hivatal felhívására közli a Hivatal által a tényállás tisztázáshoz szükségesnek megjelölt adatokat, és együttműködik a Hivatallal a nyilvántartásba vételi feltételek és a ZÖTIR jóváírás alapjául szolgáló adatok ellenőrzése során.
+
+(4) Ha a ZÖTIR jóváírás nyilvántartott adata hibás, vagy valamely kötelező tartalmi eleme hiányzik, a Hivatal a nyilvántartott adatot hivatalból kijavítja vagy kiegészíti.
+
+(5) Ha a Hivatal megállapítja, hogy a ZÖTIR jóváírás alapjául szolgáló bejelentés szerinti villamosenergia-mennyiség nem helytálló, a ZÖTIR jóváírást a (4) bekezdés szerint kijavítja, vagy azt a megalapozatlan mennyiség erejéig törli a ZÖTIR nyilvántartásból.
+
+(6) Az üzemeltetői engedélyes vagy az üzemanyag-forgalmazó bármikor kérheti a javára nyilvántartott, a Hivatal által bejegyzett ZÖTIR jóváírás törlését.
+
+(7) A Hivatal értesíti az állami adó- és vámhatóságot, amennyiben a ZÖTIR jóváírás törlését vagy kijavítását megalapozó körülményről a zöldtöltés-igazolás kiállítását követően szerez tudomást.
+
+(8) Ha a Hivatal az ellenőrzése során megállapítja, hogy a ZÖTIR jóváírás vagy annak egy része nem megfelelően került megállapításra, az nem befolyásolja az üzemanyag-forgalmazó vonatkozásában a ZÖTIR nyilvántartásba bejegyzett villamosenergia-mennyiségnek az üzemanyag-forgalmazó által adott naptári évben forgalomba hozott megújuló üzemanyagként történő teljes mértékű elszámolhatóságát.
+
+## 11. §
+
+(1) Ha az üzemeltetői engedélyes nyilvántartásból történő törlésére vagy a ZÖTIR jóváírás törlésére okot adó körülmény jut a Hivatal tudomására, a Hivatal legfeljebb 30 napra korlátozza az érintett üzemeltetői engedélyes 5. § (3) bekezdése és 6. § (2) bekezdése szerinti rendelkezési jogát, ha
+
+a) a korlátozás hiányában nyilvántartásból történő törlés vagy a ZÖTIR jóváírás törlésének szükségessége másként nem tisztázható vagy
+
+b) a korlátozás hiánya elháríthatatlan kárral vagy a ZÖTIR által nyilvántartott adatok megbízhatóságának helyreállíthatatlan sérelmével járna.
+
+(2) A Hivatal a korlátozásról és annak okáról haladéktalanul értesíti az üzemeltetői engedélyest.
+
+(3) Ha a Hivatal az ellenőrzés során megállapítja, hogy
+
+a) a ZÖTIR jóváírás vagy annak egy része az üzemeltetői engedélyesnek felróható okból nem valós adatokkal került bejegyzésre, és
+
+b) adott naptári év tekintetében a bejegyzett és valós energiamennyiség között több mint 10%-os eltérést áll fenn,
+
+az üzemeltetői engedélyest törli a ZÖTIR nyilvántartásból.
+
+(4) A zöldtöltés-igazolási rendszerben nem vehet részt a (3) bekezdés szerint törölt üzemeltetői engedélyes a törléstől számított 2 évig.
+
+## 12. §
+
+Ez a rendelet 2026. január 1. napján lép hatályba.
+
+## 13. §
+
+(1) A 3. § (4) bekezdésétől eltérően a 2026. január 1. és 2026. május 1. között benyújtott részvétel iránti kérelem esetén a Hivatal a számlaszerződést a szükséges adatokkal kitöltött és aláírt kérelem hiánytalan beérkezését követő 90 napon belül írja alá elektronikusan.
+
+(2) Az (1) bekezdés szerinti számlaszerződés esetében a hiánytalan, részvétel iránti kérelem benyújtásának napját követően közlekedési célra értékesített villamos energia tekintetében a Hivatal abban az esetben is jóváírja a 6. § (1) bekezdése szerinti adatokat a ZÖTIR nyilvántartásban, ha az üzemeltetői engedélyes a számlaszerződés aláírását követő naptári hónap utolsó napjáig teljesíti az 5. § (3) bekezdés b) és c) pontja szerinti feltételeket.
+
+(3) Az 5. § (3) bekezdés c) pontjától eltérően 2026. december 31. napjáig a Hivatal abban az esetben is jóváírja a közlekedési célra értékesített megújuló eredetű villamos energiára vonatkozó, a 6. § (1) bekezdése szerinti adatokat a ZÖTIR nyilvántartásban, ha legkésőbb az 5. § (3) bekezdés b) pontja szerinti adatszolgáltatással egyidejűleg az üzemeltetői engedélyes által a ZÖTIR nyilvántartásban jóváírni kért – de legfeljebb az 5. § (2) bekezdése szerinti adatszolgáltatásban foglalt – villamosenergia-mennyiségre és az üzemeltetői engedélyes javára az értékesítéssel azonos időtartamú villamosenergia-fogyasztás megújuló eredetének igazolására havi termelési időszakú, magyarországi erőmű által termelt villamos energiáról kiállított származási garancia került felhasználásra.
+
+(4) A 6. § (2) bekezdésétől eltérően a 2026-ban értékesített villamos energia alapján az üzemeltetői engedélyes javára bejegyzett ZÖTIR jóváírás 2027. december 31. napjáig forgalomképes, illetve eddig az időpontig használható fel az üzemanyag-forgalmazó által.
+
+(5) A Hivatal a 9. § (1) bekezdése szerinti zöldtöltés-igazolást első alkalommal 2027. március 31. napján állítja ki.
+
+## 14. §
+
+Ez a rendelet
+
+a) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 25. cikk (4) bekezdésének, valamint
+
+b) az (EU) 2018/2001 irányelvnek, az (EU) 2018/1999 rendeletnek és a 98/70/EK irányelvnek a megújuló energiaforrásokból előállított energia előmozdítása tekintetében történő módosításáról, valamint az (EU) 2015/652 tanácsi irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2413 európai parlamenti és tanácsi irányelv 1. cikk 15. pontjának
+
+való megfelelést szolgálja.

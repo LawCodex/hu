@@ -1,0 +1,84 @@
+---
+title: "321/2023. (VII. 17.) Korm. rendelet a Vasúti Pályakapacitás-elosztó Szervezet és a vasúti pályahálózat-működtető társaságok közötti jogviszonyról"
+identifier: "321/2023. (VII. 17.) Korm. rendelet"
+njt_id: "2023-321-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/321"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-07-17
+in_force_from: 2023-07-25
+last_amended: 2026-01-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-321-20-22"
+retrieved: 2026-10-12
+---
+
+# 321/2023. (VII. 17.) Korm. rendelet a Vasúti Pályakapacitás-elosztó Szervezet és a vasúti pályahálózat-működtető társaságok közötti jogviszonyról
+
+A Kormány a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 88. § (1) bekezdés 5. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) E rendeletet kell alkalmazni a Vasúti Pályakapacitás-elosztó Szervezet (a továbbiakban: VPSZ) és
+
+a) a nyílt hozzáférésű vasúti pályahálózatot működtető nem független vasúti pályahálózat-működtető közötti jogviszonyra, ha részére a VPSZ a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 67/P. § (2) bekezdése alapján, valamint
+
+b) a nyílt hozzáférésű vasúti pályahálózatot működtető független vasúti pályahálózat-működtető közötti jogviszonyra, ha részére a VPSZ a Vtv. 3/B. § (8) bekezdése alapján
+
+végez tevékenységet (nyílt hozzáférésű vasúti pályahálózatot működtető nem független vasúti pályahálózat-működtető és a nyílt hozzáférésű vasúti pályahálózatot működtető független vasúti pályahálózat-működtető a továbbiakban együtt: vasúti pályahálózat-működtető).
+
+(2) A Vtv. 3/B. § (8) bekezdésében és 67/P. § (3) bekezdésében meghatározott szolgáltatások tárgyában a VPSZ és a vasúti pályahálózat-működtető között határozatlan időtartamra pályakapacitás-elosztási jogviszony (a továbbiakban: jogviszony) jön létre.
+
+## 2. §
+
+(1) A vasúti pályahálózat-működtető a VPSZ részére hozzáférést biztosít a forgalom lebonyolítását dokumentáló információs rendszerekhez, és folyamatosan szolgáltatja a vasúti pályahálózat kapacitásának a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló miniszteri rendelet (a továbbiakban: miniszteri rendelet) szerinti elosztásához, a teljesítmények méréséhez szükséges adatokat.
+
+(2) A VPSZ hozzáférést biztosít a vasúti pályahálózat-működtető részére – a vasúti pályahálózat-működtető által nyújtott szolgáltatások teljesítéséhez és elszámolásához szükséges mértékben – a VPSZ pályakapacitás-elosztó és menetrendszerkesztő programjához.
+
+## 3. §
+
+A vasúti pályahálózat-működtető a Hálózati Üzletszabályzat elkészítéséhez szükséges adatokat a miniszteri rendeletben azok közzétételére előírt időpontot megelőzően legkésőbb kilencven nappal, módosítás esetén pedig haladéktalanul a VPSZ rendelkezésére bocsátja.
+
+## 4. §
+
+A VPSZ a miniszteri rendeletben megállapított határidőig elkészíti a Vtv. 53. § (4) bekezdésében meghatározott üzemi menetrendet.
+
+## 5. §
+
+(1)[^1] A VPSZ a vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként az általa elosztott vasúti pályahálózat-kapacitás után a 2023/2024. menetrendi évtől kezdődően a Vtv. 67/E. § (1) bekezdésében és a vasúti hálózat-hozzáférési díjrendszer kereteiről, valamint a hálózat-hozzáférési díjak képzésének és alkalmazásának alapvető szabályairól szóló rendeletben meghatározott, a Vtv. 2. melléklete szerinti alapszolgáltatásokra és – a vételezett üzemanyag kivételével – a járulékos szolgáltatásokra vonatkozó, a felár nélkül számolt hálózat-hozzáférési díj nettó összege 2%-ának megfelelő mértékű megbízási díjra, de menetrendi évenként legfeljebb 1 500 000 000 forintra jogosult.
+
+(2) A vasúti ágazat teljesítménye legalább 35%-os mértékű változása esetén, a közlekedésért felelős miniszter rendkívüli eltérést engedélyezhet az (1) bekezdés szerinti %-os érték alkalmazása alól a díjképzésre vonatkozó szabályok alkalmazása mellett.
+
+## 6. §
+
+A jogviszony megszűnik, ha
+
+a) a vasúti pályahálózat-működtető jogutód nélkül megszűnik,
+
+b) a vasúti pályahálózat-működtető e minősége megszűnik, vagy
+
+c) a Vtv. alapján a vasúti pályahálózat-működtető teljes pályahálózatán megszűnik a nyílt hozzáférés.
+
+## 7. §
+
+A VPSZ más személy közreműködését akkor veheti igénybe, ha valamely feladata ellátásához olyan különleges szakértelem szükséges, amellyel a VPSZ nem rendelkezik, továbbá a közreműködő személy és közeli hozzátartozója a Vtv. 67/V. § (1)–(2) bekezdésében foglaltaknak megfelel.
+
+## 8. §
+
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+## 10. §
+
+(1) A 2022/2023. menetrendi évnek az e rendelet hatálybalépésének napjától számított hátralévő időszaka tekintetében az e rendelet hatálybalépésének napját követő naptól kezdve a VPSZ a vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként napi 5 000 000 forint összegű megbízási díjra, de a teljes 2022/2023. menetrendi évben összesen legfeljebb 850 000 000 forintra jogosult.
+
+(2) A VPSZ megbízási díjának változása esetén – kizárólag ezen költségelem tekintetében – a vasúti hálózat-hozzáférési díjrendszert a díjmegállapító szervezet a vasúti hálózat-hozzáférési díjrendszer kereteiről, valamint a hálózat-hozzáférési díjak képzésének és alkalmazásának alapvető szabályairól szóló miniszteri rendelet előírásai szerint felülvizsgálja.
+
+## 11. §[^3]
+
+A 2025/2026. menetrendi évnek a közlekedési tárgyú kormányrendeletek módosításáról szóló 433/2025. (XII. 23.) Korm. rendelet (a továbbiakban: Módr.) e §-a hatálybalépésének napjától számított hátralévő időszaka tekintetében a Módr. e §-a hatálybalépésének napját követő naptól kezdve a VPSZ a vasúti pályahálózat-működtető számára nyújtott szolgáltatások ellenértékeként napi 5 000 000 forint összegű megbízási díjra, de a teljes 2025/2026. menetrendi évben összesen legfeljebb 1 500 000 000 forintra jogosult.
+
+---
+
+[^1]: Az 5. § (1) bekezdése a 433/2025. (XII. 23.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^3]: A 11. §-t a 433/2025. (XII. 23.) Korm. rendelet 10. §-a iktatta be.

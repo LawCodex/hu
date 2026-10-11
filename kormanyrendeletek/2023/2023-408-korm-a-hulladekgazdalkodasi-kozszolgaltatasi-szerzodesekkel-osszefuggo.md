@@ -1,0 +1,141 @@
+---
+title: "408/2023. (VIII. 30.) Korm. rendelet a hulladékgazdálkodási közszolgáltatási szerződésekkel összefüggő kártalanításról"
+identifier: "408/2023. (VIII. 30.) Korm. rendelet"
+njt_id: "2023-408-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/408"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-08-30
+in_force_from: 2023-09-04
+last_amended: 2023-09-04
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-408-20-22"
+retrieved: 2026-10-12
+---
+
+# 408/2023. (VIII. 30.) Korm. rendelet a hulladékgazdálkodási közszolgáltatási szerződésekkel összefüggő kártalanításról
+
+A Kormány a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 44. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+A rendelet hatálya
+
+a) a települési önkormányzatokra,
+
+b) a települési önkormányzatok által hulladékgazdálkodási feladataik ellátása érdekében létrehozott társulásokra és
+
+c) a hulladékgazdálkodási közszolgáltatási célú létesítmény önkormányzaton kívüli kisebbségi tulajdonosára
+
+(a továbbiakban együtt: kártalanításra jogosult) terjed ki.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+a) *fordulónap:* 2023. július 1.;
+
+b) *hulladékgazdálkodási közszolgáltatási célú létesítmény:* a települési önkormányzat és a települési önkormányzatok által hulladékgazdálkodási feladat ellátása érdekében létrehozott társulás többségi tulajdonában álló, kizárólag a hulladékgazdálkodási közszolgáltatás ellátását biztosító vagy e céllal a fordulónapot megelőzően megkezdett és üzembe nem helyezett átrakóállomás, válogatómű, hulladékgyűjtő udvar, valamint a mechanikai-biológiai és a mechanikai előkezelő létesítmény, ideértve a létesítmény működéséhez nélkülözhetetlen, más célra nem használható eszközöket is;
+
+c) *ténylegesen üzemelő létesítmény:* 2021. március 1-től a fordulónapig terjedő időszakban a hulladékgazdálkodási közszolgáltatásba bevont és az időszakos karbantartási munkák idején történő leállást kivéve folyamatosan üzemelő létesítmény.
+
+## 3. Hulladékgazdálkodási közszolgáltatási szerződésekkel összefüggő kártalanítás
+
+### 3. §
+
+(1) A települési önkormányzat, a települési önkormányzatok által hulladékgazdálkodási feladat ellátása érdekében létrehozott társulás (a továbbiakban együtt: önkormányzat), valamint a hulladékgazdálkodási közszolgáltatási célú létesítmény önkormányzaton kívüli kisebbségi tulajdonosa kártalanítást igényelhet a hulladékgazdálkodási közszolgáltatási szerződések megkötésére és módosítására vonatkozó korlátozással, valamint e szerződések a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 92/H. § (4) bekezdése szerint történő megszűnésével (a továbbiakban együtt: korlátozás) összefüggésben a hulladékgazdálkodási közszolgáltatási célú létesítmények használatával kapcsolatban keletkezett, igazolt vagyoni hátrányokért.
+
+(2) Ha az önkormányzat többségi tulajdonosa a hulladékgazdálkodási közszolgáltatási célú létesítménynek, akkor a kisebbségi tulajdonost a tulajdoni hányadával arányos kártalanítás illeti meg.
+
+(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) a kártalanítás jogalapjának megállapítását nem tagadhatja meg, ha az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: NHKV Zrt.) megalakulását követő időszakban megvalósított fejlesztés esetén, a hulladékgazdálkodási közszolgáltatási rendszerelem fejlesztése Országos Hulladékgazdálkodási Közszolgáltatási Tervnek való megfelelősége megállapítására vonatkozó szabályok szerint, a fejlesztés megfelelését az NHKV Zrt. a fordulónapig igazolta, és
+
+a) a hulladékgazdálkodási közszolgáltatási célú létesítmény a fordulónapot megelőző üzembe helyezés esetén ténylegesen üzemelő létesítménynek számít, és működése a korlátozás miatt ellehetetlenült, vagy
+
+b) a hulladékgazdálkodási közszolgáltatási célú létesítmény üzembe helyezése a korlátozás miatt ellehetetlenült.
+
+## 4. A közszolgáltatási szerződések vonatkozásában kártalanításra jogosultak kártalanításának jogalapja
+
+### 4. §
+
+(1) A közszolgáltatási szerződések vonatkozásában a kártalanítási kérelem benyújtásának feltétele, hogy a kártalanításra jogosultnak mint támogatást igénylőnek a hulladékgazdálkodási közszolgáltatási célú létesítmény megvalósítását szolgáló projekt megvalósításának befejezésétől számított 5 évig támogatás-visszafizetési kötelezettsége merül fel a projekt megfelelősége vonatkozásában az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet 71. cikkében foglaltak szerint.
+
+(2) A Hatóság a kártalanítás jogalapjának megállapítását az (1) bekezdés szerinti esettől eltérően nem állapíthatja meg.
+
+## 5. A kártalanítás összege
+
+### 5. §
+
+(1) A kártalanításra jogosultat megillető kártalanítási összeg – a 4. § (1) bekezdése szerinti visszafizetés összegének kivételével – magában foglalja a hulladékgazdálkodási közszolgáltatási célú létesítmény állami hulladékgazdálkodási közfeladat ellátásának kieséséből adódóan a kártalanításra jogosultat terhelő valamennyi indokolt és igazolt költséget, ideértve az üzemeltetés megszüntetésével szükségképpen felmerülő kiadásokat is.
+
+(2) Ingyenesen szerzett jog megszűnéséért kártalanítás nem jár.
+
+(3) A kártalanításra jogosult részére megállapítható kártalanítási összegből le kell vonni mindazon költséget, amely a kártalanításra jogosult részére más forrásból megtérül, továbbá a hulladékgazdálkodási közszolgáltatási célú létesítmény üzemeltetésével összefüggő egyéb ügyekben keletkezett követelés, illetve a megállapított kártérítés, kötbér, késedelmi kamat összegét.
+
+(4) A kártalanításra jogosult köteles minden tőle elvárható intézkedést megtenni a bekövetkező vagyoni hátrány enyhítése érdekében. A kártalanítás nem illeti meg azon vagyoni hátrány után, amely azáltal következett be, hogy a kártalanításra jogosult elmulasztotta vagy késedelmesen teljesítette a szükséges intézkedéseket.
+
+(5) A kártalanítás megfizetésére kötelezett további, a (2) bekezdésben foglaltakon túl felmerült egyéb, illetve járulékos költség megtérítésére nem kötelezhető.
+
+(6) Nem fizethető kártalanítás
+
+a) ha a kártalanítást igénylő a hulladékgazdálkodási közszolgáltatási szerződése a Ht. 92/H. § (4) bekezdése szerinti megszűnésekor a szerződés szerinti tevékenységének és a tevékenységének végzésével összefüggő ténylegesen üzemelő hulladékgazdálkodási közszolgáltatási célú létesítményei vonatkozásában nem rendelkezett érvényes, az üzembe helyezést követően folyamatosan fennálló környezetvédelmi biztosítással,
+
+b) lejárt kintlévőségek után,
+
+c) a rendeltetésszerű használatra alkalmatlan eszközök, vagyontárgyak után vagy
+
+d) jogszabályi feltételek hiányában, kizárólag méltányossági alapon.
+
+## 6. A kártalanítás megállapításának rendje
+
+### 6. §
+
+(1) A kártalanítási eljárás a 4. § (1) bekezdése szerinti feltétel bekövetkezését követő hat hónapon belül a Hatósághoz benyújtott kérelemre indul.
+
+(2) A kártalanítás iránti kérelem tartalmazza
+
+a) a kártalanítást igénylő
+
+aa) nevét,
+
+ab) székhelyét,
+
+ac) adószámát,
+
+ad) fizetési számlájának számát,
+
+b) a kártalanításra való jogosultság fennállására vonatkozó nyilatkozatot,
+
+c) a kártalanítási igény 3. § (3) bekezdésében és 4. § (1) bekezdésében meghatározott jogalapját és
+
+d) a kártalanítási igény összegének meghatározását alátámasztó igazságügyi szakértői ellenjegyzéssel ellátott számítást a hozzá tartozó, azt alátámasztó teljes körű bizonylattal, igazoló dokumentumokkal kiegészítve és
+
+e) a 3. § (3) bekezdése és a 4. § (1) bekezdése szerinti feltételek alátámasztását igazoló dokumentumokat.
+
+(3) A Hatóság az általános közigazgatási rendtartásról szóló törvény szerinti határozatát haladéktalanul megküldi a hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) részére.
+
+## 7. A kártalanítás megfizetése
+
+### 7. §
+
+(1) A kártalanítás megfizetésére az állam köteles. Az államot a kifizetés során a miniszter képviseli az e célra létrehozott központi kezelésű előirányzata terhére.
+
+(2) A kártalanítást a miniszter egy összegben, a szükséges forrás rendelkezésre állását követően átutalással fizeti meg.
+
+(3) A kártalanítási kötelezettség akkor teljesül, amikor a kártalanításra jogosult pénzforgalmi számláján a kártalanítás teljes összege jóváírásra került.
+
+(4) A kártalanítási összeg megfizetése a Hatóság döntésének véglegessé válását követő 30 napon belül esedékes.
+
+## 8. Záró rendelkezések
+
+### 8. §
+
+Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
+
+### 9. §
+
+E rendeletet a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

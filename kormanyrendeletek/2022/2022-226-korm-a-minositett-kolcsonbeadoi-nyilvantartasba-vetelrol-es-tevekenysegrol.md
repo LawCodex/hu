@@ -1,0 +1,221 @@
+---
+title: "226/2022. (VI. 28.) Korm. rendelet a minősített kölcsönbeadói nyilvántartásba vételről és tevékenységről"
+identifier: "226/2022. (VI. 28.) Korm. rendelet"
+njt_id: "2022-226-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/226"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-06-28
+in_force_from: 2022-06-29
+last_amended: 2024-01-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-226-20-22"
+retrieved: 2026-10-12
+---
+
+# 226/2022. (VI. 28.) Korm. rendelet a minősített kölcsönbeadói nyilvántartásba vételről és tevékenységről
+
+A Kormány a munka törvénykönyvéről szóló 2012. évi I. törvény 298. § (5) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Minősített kölcsönbeadóként történő nyilvántartásba vétel iránt a foglalkoztató Budapest Főváros Kormányhivatalához (a továbbiakban: kormányhivatal) kérelmet nyújthat be, ha
+
+a) kölcsönbeadóként nyilvántartásba vett, EGT-tagállam területén székhellyel rendelkező, a tagok korlátolt felelősségével működő gazdasági társaság,
+
+b) a harmadik országok állampolgárai jogszabályszerű foglalkoztatásának támogatására az 1. mellékletben meghatározott számban és végzettséggel vagy szakmai képesítéssel rendelkező személyt alkalmaz,
+
+c) az e rendelet által előírt vagyoni biztosíték letétbe helyezését igazolja,
+
+d)[^1] a kérelem benyújtását megelőző 12 hónapra vonatkozóan
+
+da) a munkavállalók éves átlagos statisztikai állományi létszáma legalább 1000 fő, és
+
+db) a munkavállalók éves átlagos statisztikai állományi létszámából legalább 500 fő magyar állampolgárságú foglalkoztatott,
+
+e) megbízható üzleti háttérrel rendelkezik, és
+
+f) szerepel az állami adóhatóság által vezetett, az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerinti köztartozásmentes adózói adatbázisban vagy adóhatóság által kiadott köztartozásmentes adózói minőségről igazolást nyújt be.
+
+(2) A kérelmezőnek az (1) bekezdés b) pontja szerinti feltétellel valamennyi olyan székhely, telephely tekintetében rendelkeznie kell, ahol harmadik országbeli állampolgárt foglalkoztat.
+
+(3) Megbízható üzleti háttérrel rendelkezik az a foglalkoztató,
+
+a) aki biztosítani képes a harmadik országok állampolgárainak jogszabályszerű foglalkoztatását és az azzal összefüggő hatósági adatszolgáltatások megbízható, pontos teljesítését, és ehhez megfelelő, írásba foglalt belső szabályozással is rendelkezik,
+
+b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható, és
+
+c) akivel szemben nemzetbiztonsági kockázat nem állapítható meg.
+
+(4) A megbízható üzleti háttér bizonyításának sikertelenségét a kormányhivatal határozattal állapítja meg.
+
+(5) Az Alkotmányvédelmi Hivatal az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklet 19. „Egyéb ügyek” táblázat 67. sora szerinti nyilvántartásba vételre irányuló eljáráson túl, felülvizsgálati eljárásban a foglalkoztató működése alatt bármikor vizsgálhatja, hogy a foglalkoztató működése körében nemzetbiztonsági kockázat megállapítható-e. Amennyiben felülvizsgálati eljárás során az Alkotmányvédelmi Hivatal nemzetbiztonsági kockázat fennállását állapítja meg a foglalkoztatóval szemben, értesíti a kormányhivatalt.
+
+(6) A minősített kölcsönbeadó legkorábban csak a törlést elrendelő határozat véglegessé válását követő két év elteltével vehető újra nyilvántartásba. Amennyiben a törlést az Alkotmányvédelmi Hivatal szakhatósági állásfoglalása alapján rendelték el és a felülvizsgálati eljárás eredményeképpen megállapítást nyer, hogy a nemzetbiztonsági kockázat már nem áll fenn, úgy a foglalkoztató a két év elteltét megelőzően is ismételten nyilvántartásba vehető.
+
+(7)[^2] A minősített kölcsönbeadó köteles az (1) bekezdés szerinti nyilvántartásba vételt követő létszámbővítését – naptári évenként összeszámítva – oly módon végrehajtani, hogy a foglalkoztatotti állományába kerülő munkavállalók 30 százaléka magyar állampolgár, illetve Magyarországgal szomszédos országból származó harmadik országbeli állampolgár legyen.
+
+## 2. §
+
+(1) A foglalkoztató a nyilvántartásba vétel iránti kérelmet az e célra rendszeresített nyomtatványon, elektronikus úton nyújtja be a kormányhivatalhoz.
+
+(2) A nyomtatvány tartalmazza
+
+a) a foglalkoztató megnevezését, cégjegyzékszámát,
+
+b) a képviseletre jogosult személy nevét, címét, egyéb elérhetőségét, és
+
+c) a foglalkoztató nyilatkozatait az 1. § (1) bekezdés a)–e) pontjában foglaltak teljesítéséről.
+
+(3) A foglalkoztató köteles a végzettség vagy szakmai képesítés magyarországi elismerését igazolni, ha az az 1. § (1) bekezdés b) pontja szerinti feltétel vizsgálatához szükséges.
+
+(4) Az e rendelet által szabályozott eljárásokban
+
+a) a kormányhivatal döntése szóban nem közölhető,
+
+b) az iskolai végzettség, szakképzettség igazolása az ügyfél nyilatkozatával nem pótolható.
+
+(5) A minősített kölcsönbeadó vagyoni biztosíték elhelyezésére köteles, melynek mértéke ötvenmillió forint.
+
+(6) A vagyoni biztosíték a foglalkoztató által hitelintézetnél vagy pénzügyi vállalkozásnál (a továbbiakban: pénzügyi intézmény) lekötött és elkülönítetten kezelt pénzbeli letét.
+
+(7) Vagyoni biztosítékként csak olyan határozatlan időre szóló letéti szerződés vehető figyelembe, amely az alábbi rendelkezéseket tartalmazza:
+
+a) a letét kizárólag a harmadik országbeli állampolgár foglalkoztatásával összefüggésben végleges határozattal megállapított adóbírság, munkaügyi bírság, központi költségvetésbe befizetésre kötelezés, közrendvédelmi bírság vagy rendbírság – ideértve a mulasztási bírságot is – kielégítésére használható fel, és
+
+b) a letét bármilyen okból való megszűnése esetén a kifizetés összegéről és időpontjáról a pénzügyi intézmény a minősített kölcsönbeadót nyilvántartó kormányhivatalt, továbbá minősített kölcsönbeadót a kifizetéstől számított három munkanapon belül írásban tájékoztatja.
+
+(8) A minősített kölcsönbeadónak a felhasznált vagyoni biztosítékot a kifizetést követő harminc napon belül pótolnia kell. Ennek megtörténtét legkésőbb a pótlásra megállapított határidő utolsó napján igazolnia kell.
+
+(9) Ha a minősített kölcsönbeadót a kormányhivatal a nyilvántartásból törli, a letéti szerződés a törlést elrendelő határozat véglegessé válását követően legkorábban hat hónap elteltével szüntethető meg. Ha minősített kölcsönbeadóval szemben a harmadik országbeli állampolgár foglalkoztatásával összefüggésben hatósági eljárás vagy az alapján indult bírósági eljárás van folyamatban, a letét megszüntetésére csak a hatósági vagy bírósági eljárás, végleges vagy jogerős befejezését követően kerülhet sor. A letét megszüntetésének lehetőségéről a kormányhivatal a pénzügyi intézményt tájékoztatja.
+
+## 3. §
+
+(1) A kormányhivatal a minősített kölcsönbeadókról nyilvántartást vezet.
+
+(2) A minősített kölcsönbeadó a bejegyzett adatok változásáról a kormányhivatalt a változás bekövetkezésétől számított 8 napon belül tájékoztatja.
+
+(3) Ha az 1. §-ban foglalt követelmények tekintetében a nyilvántartásba vételt követően változás következik be, a kormányhivatal módosítja a korábban bejegyzett adatokat vagy – ha az 1. §-ban rögzített feltételeknek a foglalkoztató a továbbiakban már nem felel meg – intézkedik a minősített kölcsönbeadó nyilvántartásból való törléséről.
+
+(4) A kormányhivatal a minősített kölcsönbeadókról vezetett nyilvántartása az alábbi adatokat tartalmazza:
+
+a) a nyilvántartásba vételről szóló határozat száma, kelte,
+
+b) a minősített kölcsönbeadó neve, szervezeti formája, székhelye, telephelye, adószáma,
+
+c) a minősített kölcsönbeadó címe,
+
+d) a vagyoni biztosíték mértéke és
+
+e) a nyilvántartásból való törlést elrendelő határozat száma, kelte, a törlés indoka.
+
+(5) A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter a minősített kölcsönbeadókról nyilvánosan hozzáférhető nyilvántartást (a továbbiakban: országos nyilvántartás) vezet a (4) bekezdésben meghatározott adattartalommal. A kormányhivatal gondoskodik a nyilvántartásba vett minősített kölcsönbeadók adatainak az országos nyilvántartásban való rögzítéséről és az idegenrendészeti szerv értesítéséről.
+
+(6)[^3] A kormányhivatal 30 napon belül törli a 3. § (1) bekezdése szerinti nyilvántartásból a minősített kölcsönbeadót, ha
+
+a) az jogutód nélkül megszűnt,
+
+b) a minősített kölcsönbeadó azt kéri,
+
+c) az állami adóhatóság köztartozás fennállása miatt törölte a köztartozásmentes adózói adatbázisból,
+
+d)[^4] az 1. § (1) bekezdés a), b), d) és e) pontjában és a (7) bekezdésben foglalt feltételeknek már nem felel meg,
+
+e) a vagyoni biztosítékot az előírt határidőben nem pótolta,
+
+f)[^5] a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter a (10) bekezdésben meghatározott jogkörében lefolytatott ellenőrzés során megállapított jogsértésről a (13) bekezdésben megjelöltek szerint értesíti a kormányhivatalt.
+
+(7) A törlésről a kormányhivatal a letétet kezelő pénzügyi intézményt és az idegenrendészeti szervet értesíti.
+
+(8) Ha az állami foglalkoztatási szerv a minősített kölcsönbeadót a nyilvántartásból azért törli, mert
+
+a) a minősített kölcsönbeadó személyére és működésére vonatkozó feltételekkel nem rendelkezik,
+
+b) a vagyoni biztosítékot az előírt határidőben nem pótolja, vagy
+
+c) a harmadik országok állampolgárainak foglakoztatására vonatkozó szabályok ismételt vagy több szabály együttes megszegésével folytatja tevékenységét,
+
+a minősített kölcsönbeadó legkorábban csak a törlést elrendelő határozat véglegessé válását követő két év elteltével vehető újra nyilvántartásba.
+
+(9) A kormányhivatal a minősített kölcsönbeadókról vezetett nyilvántartásban bekövetkezett valamennyi változásról az idegenrendészeti szervet a változás bekövetkezésétől számítva haladéktalanul, de legkésőbb 3 napon belül tájékoztatja.
+
+(10)[^6] A minősített kölcsönbeadókra vonatkozóan a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter ellenőrzi
+
+a) a harmadik országbeli állampolgárok foglalkoztatására és
+
+b) a minősített kölcsönbeadókra vonatkozó
+
+jogszabályok betartását.
+
+(11)[^7] A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter (10) bekezdésben meghatározott jogkörének gyakorlása nem érinti a foglalkoztatáspolitikáért felelős miniszter harmadik országbeli állampolgárok foglalkoztatásával kapcsolatos – a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló kormányrendeletben meghatározott – hatósági jogkörét.
+
+(12)[^8] A minősített kölcsönbeadói nyilvántartásba vételről szóló határozat véglegessé válásától – a (10) bekezdésben meghatározottak ellenőrzése érdekében – a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter felhívására a minősített kölcsönbeadó köteles adatot szolgáltatni a harmadik országbeli állampolgárok foglalkoztatásával vagy a minősített kölcsönbeadói tevékenységével kapcsolatosan.
+
+(13)[^9] Amennyiben a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter a (10) bekezdésben meghatározott ellenőrzése során megállapítja, hogy a minősített kölcsönbeadó a harmadik országbeli állampolgárok foglalkoztatására vagy a minősített kölcsönbeadókra vonatkozó szabályok ismételt vagy több szabály együttes megszegésével folytatja tevékenységét, haladéktalanul értesíti a kormányhivatalt a minősített kölcsönbeadói nyilvántartásból való törlés céljából.
+
+(14)[^10] A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter feladatkörében – személyazonosításra alkalmatlan módon – adatokat gyűjt és elemez a harmadik országbeli állampolgárok magyarországi foglalkoztatásáról és a minősített kölcsönbeadók éves tevékenységéről, az ehhez szükséges ideig, de legfeljebb a munka törvénykönyvéről szóló 2012. évi I. törvény 286. §-ában meghatározott időtartamig.
+
+## 4. §
+
+(1) A minősített kölcsönbeadó a nyilvántartásba vételről rendelkező határozat számát köteles a harmadik országok állampolgárainak foglalkoztatásával kapcsolatos okirataiban feltüntetni.
+
+(2) A minősített kölcsönbeadó legkésőbb a foglalkoztatásra irányuló jogviszony létesítésére kötött szerződés megkötésével egyidejűleg a foglalkoztatással, a harmadik országbeli állampolgárok munkavállalásával, az idegenrendészettel kapcsolatos szabályokról – köteles a harmadik országbeli állampolgárt írásban, annak anyanyelvén vagy az általa értett más nyelven, tájékoztatni. A tájékoztatás elmulasztásával vagy a téves tájékoztatással okozott kárért a minősített kölcsönbeadó felelősséggel tartozik.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 6. §[^11]
+
+(1) E rendeletnek az egyes foglalkoztatási tárgyú kormányrendeletek módosításáról szóló 688/2023. (XII. 29.) Korm. rendelet (a továbbiakban: Módr1.)
+
+a) 2. § (1) bekezdésével megállapított 1. § (1) bekezdés d) pontját a Módr1. hatálybalépését[^12] megelőzően minősített nyilvántartásba vett kölcsönbeadókra 2024. július 1. napjától kell alkalmazni, azzal, hogy a létszámkövetelménynek első alkalommal a 2023. július 1. napjától 2024. június 30. napjáig terjedő időre vonatkozóan kell megfelelni,
+
+b) 2. § (2) bekezdésével megállapított 1. § (7) bekezdését a Módr1. hatálybalépését[^13] megelőzően nyilvántartásba vett foglalkoztatóra 2024. július 1. napjától kell alkalmazni.
+
+(2) Azok a minősített kölcsönbeadók, akik azért kerülnek törlésre a 3. § (1) bekezdésében meghatározott nyilvántartásból, mert nem felelnek meg e rendeletnek a Módr1. 2. § (1) bekezdésével megállapított 1. § (1) bekezdés d) pontja szerinti létszámkövetelménynek, a kölcsönzötti állományukban lévő harmadik országbeli állampolgárokat a tartózkodási engedélyek érvényességi idejének megfelelően foglalkoztathatják, de a tartózkodási engedélyek meghosszabbítására vonatkozóan nem terjeszthetnek elő kérelmet.
+
+## 1. melléklet a 226/2022. (VI. 28.) Korm. rendelethez
+
+1\. Az 1. § (1) bekezdés b) pontjában foglalt szakképesítésként fogadható el a szakirányú felsőfokú végzettség, ennek keretében
+
+1.1 felsőoktatásban a gazdaságtudományok képzési területen,
+
+1.2 jogász és államtudományi mesterképzési szakon,
+
+1.3 pszichológia és szociológia mesterképzési szakon,
+
+1.4 egyetemek és főiskolák államigazgatási, gazdasági, humánerőforrás-menedzseri, személyügyi, személyügyi szervezői, igazgatásszervezői, közigazgatás-szervezői továbbá személyügyi, munkaügyi és szociális igazgatási alapképzési szakon, közigazgatási mesterképzési, szociális igazgatási, munka- és pályatanácsadói, valamint munkaügyi és szociális igazgatás mesterképzési szakon szerzett oklevél, valamint
+
+1.5 egyéb felsőoktatásban szerzett oklevéllel rendelkezők közül a felsőfokú személyügyi gazdálkodó szaktanfolyam elvégzését igazoló bizonyítvány, vagy az ebben a pontban felsorolt szakképesítések valamelyikének megfeleltethető szakképesítés.
+
+2\. Az 1. § (1) bekezdés b) pontjában meghatározott személyek megfelelő számban történő alkalmazása akkor teljesül, ha
+
+2.1 a telephelyen (székhelyen) foglalkoztatott harmadik országbeli állampolgárok száma a száz főt nem haladja meg, legalább egy,
+
+2.2 a telephelyen (székhelyen) foglalkoztatott harmadik országbeli állampolgárok száma a száz főt meghaladja, de a háromszáz főt nem haladja meg, legalább kettő,
+
+2.3 a telephelyen (székhelyen) foglalkoztatott harmadik országbeli állampolgárok száma a háromszáz főt meghaladja, de az ötszáz főt nem haladja meg, legalább három,
+
+2.4 a telephelyen (székhelyen) foglalkoztatott harmadik országbeli állampolgárok száma az ötszáz főt meghaladja, de az ezer főt nem haladja meg, legalább négy,
+
+2.5 a telephelyen (székhelyen) foglalkoztatott harmadik országbeli állampolgárok száma az ezer főt meghaladja, legalább öt
+
+fő, az 1. pontban meghatározott szakmai képesítéssel rendelkező személyt alkalmaz, heti húsz órát elérő munkaviszony keretében. Az alkalmazás megvalósulhat úgy is, hogy a rendelet 1. § (1) bekezdés b) pontjában meghatározott feladat ellátására a munkáltató olyan gazdasági társasággal köt szerződést, amely az 1. pontban meghatározott szakmai képesítéssel rendelkező személyt heti húsz órát elérő munkaviszony keretében foglalkoztat.
+
+---
+
+[^1]: Az 1. § (1) bekezdés d) pontja a 688/2023. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (7) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^3]: A 3. § (6) bekezdés nyitó szövegrésze a 688/2023. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^4]: A 3. § (6) bekezdés d) pontja a 688/2023. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (6) bekezdés f) pontja a 688/2023. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (10) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^7]: A 3. § (11) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^8]: A 3. § (12) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^9]: A 3. § (13) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^10]: A 3. § (14) bekezdését a 688/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^11]: A 6. §-t a 688/2023. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2024. január 1.
+[^13]: A hatálybalépés időpontja 2024. január 1.

@@ -1,0 +1,61 @@
+---
+title: "434/2025. (XII. 23.) Korm. rendelet a kulturális ágazatot érintő béremelésről"
+identifier: "434/2025. (XII. 23.) Korm. rendelet"
+njt_id: "2025-434-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2025/Korm/434"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2025-12-23
+in_force_from: 2025-12-24
+last_amended: 2025-12-24
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2025-434-20-22"
+retrieved: 2026-10-12
+---
+
+# 434/2025. (XII. 23.) Korm. rendelet a kulturális ágazatot érintő béremelésről
+
+[1] A Kormány – figyelemmel a magyar kultúra nemzetmegtartó erejére, valamint a kulturális értékek közvetítésében, megőrzésében és továbbadásában részt vevő szakemberek pótolhatatlan szerepére – elkötelezett a nemzeti kultúra támogatása, a kulturális élet megerősítése, a magyar szellemi örökség megőrzése és továbbfejlesztése mellett. A kultúra az a közös nyelv, amely összeköti a múltat a jelennel, hidat épít nemzedékek és közösségek között, és erőt ad a jövő kihívásaihoz. A nemzeti kultúra fennmaradásához az elhivatott szakemberek munkája nélkülözhetetlen, akik ismerik és tisztelik a múlt örökségét, alakítják a jelen értékeit, és nyitottan, alkotó módon készülnek a jövőre. Erős kultúra nélkül nincs erős nemzet, mert a magyar kultúra ereje az emberekben, az alkotókban, az oktatókban, az előadókban, közös kulturális értékeinket és a közösségeket szolgáló kulturális munkatársakban rejlik. A Kormány meggyőződése, hogy a kultúra nem csupán örökség, hanem életformáló erő, amely gazdagítja a nemzet lelki egységét, ösztönzi az innovációt és hozzájárul a társadalom fejlődéséhez. A kulturális ágazatban dolgozók munkája ezért nemcsak szakmai, hanem nemzeti küldetés is.
+
+[2] E rendelet célja a fentiekre figyelemmel a kulturális ágazatban dolgozók munkájának elismerése, megbecsülésük kifejezése, valamint a kulturális élet fenntartható fejlődésének, társadalmi megbecsülésének és nemzeti összetartó erejének további erősítése.
+
+[3] A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény szerinti közlevéltárban és nyilvános magánlevéltárban, a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvényben, valamint az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvényben és a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvényben meghatározott közfeladatot (a továbbiakban: kulturális közfeladat) ellátó
+
+a) állami, önkormányzati és egyházi fenntartású, továbbá a nemzetiségi önkormányzatok által fenntartott intézményekben és szervezetekben,
+
+b) a központi költségvetésből rendszeres támogatásban részesülő, kulturális közfeladat ellátására az állammal közfeladat-ellátási megállapodással, közfeladat-finanszírozási szerződéssel vagy közszolgáltatási szerződéssel rendelkező szervezetekben, vagy a tulajdonukban lévő kulturális közfeladatot ellátó gazdálkodó szervezet, vagy az általuk fenntartott felsőoktatási intézmény kulturális közfeladatot ellátó szervezeti egységeiben, intézményeiben, egyéb civil szervezetekben,
+
+c) a központi költségvetésből rendszeres támogatásban részesülő szervezetekben, egyéb civil szervezetekben,
+
+d) a Magyar Művészeti Akadémia által
+
+az e bekezdés szerinti kulturális közfeladatok ellátására irányuló szakmai és nem szakmai munkakörben foglalkoztatottak, a kulturális közfeladatot nem főtevékenységként ellátó intézmények és szervezetek esetében kizárólag a kulturális közfeladatok ellátására irányuló szakmai munkakörben foglalkoztatottak 2026. január 1-jétől beépülő jelleggel béremelésben részesülnek.
+
+(2) Az (1) bekezdés szerinti béremelés mértéke 2026. január 1. napjától 15%.
+
+(3) Az (1) bekezdés szerinti béremelést a 2025. november 30-án fennálló alapbér, a bérpótlék és egyéb bérelemek együttes bruttó összegének, továbbá az illetmény – ideértve a fizetési osztály és a fizetési fokozat szerint megállapított illetményt, a munkáltató döntésén alapuló illetményrészt, az illetménykiegészítést, az illetménypótlékot és a rendszeres kereset-kiegészítést – bruttó összegének alapulvételével kell megállapítani.
+
+(4) A honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet hatálya alá tartozó hivatásos és szerződéses állomány vonatkozásában a (3) bekezdés szerinti illetmény alatt az alapilletményt vagy a miniszter által megállapított egyedi illetményt kell érteni.
+
+## 2. §
+
+(1) Az e rendelet hatálya alá tartozó, igazoltan kulturális közfeladatot ellátó foglalkoztatott foglalkoztatója köteles az állami fenntartású szervezetek és a nem állami fenntartású szervezetek esetében közvetlenül, a nemzetiségi önkormányzati fenntartású intézmények és szervezetek, valamint a helyi önkormányzati fenntartású, igazoltan kulturális közfeladatot ellátó gazdasági társaságok esetén az önkormányzat, az igazoltan kulturális közfeladatot ellátó szervezettel, gazdasági társasággal közszolgáltatási szerződést kötő önkormányzat a kultúráért és innovációért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium által közzétett, a miniszter által felhívásban jelzett módon és határidőig az e célra rendszeresített elektronikus űrlapon bejelenteni az e rendelet hatálya alá tartozó foglalkoztatottjai számát, munkaköreik felsorolását, valamint a 2025. novemberi állapot szerinti bértömeg összegét.
+
+(2) Az e rendelet hatálya alá tartozó, igazoltan kulturális közfeladatot ellátó állami fenntartású intézmények esetében a felmérés elvégzéséről, továbbá a helyi önkormányzati fenntartású költségvetési szervek által foglalkoztatottak béremeléséhez szükséges forrás meghatározásáról a nemzetgazdasági miniszter gondoskodik.
+
+(3) A 2026. évi béremelés végrehajtása érdekében az (1) és (2) bekezdés alapján szükséges költségvetési forrás rendelkezésre állásáról, továbbá az állami intézmények részére a forrás eljuttatásáról a nemzetgazdasági miniszter gondoskodik.
+
+(4) A miniszter a helyi önkormányzatok részére az (1) és (2) bekezdés szerinti adatszolgáltatások alapján biztosítandó támogatásról a Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvény 3. melléklet 15. pont 2.4.6. A települési önkormányzatok kulturális feladatainak bérjellegű támogatása jogcím keretében dönt.
+
+(5) A miniszter a (3) bekezdés szerinti forrás terhére az állami fenntartású szervezetek és a nem állami fenntartású szervezetek részére 2026. március 1-jéig, a Nemzeti Kulturális Támogatáskezelő útján gondoskodik az 1. § (1) és (2) bekezdése szerinti béremelés megvalósításához szükséges forrás eljuttatásáról.
+
+(6) A 2. § (3)–(5) bekezdése szerint biztosított forrást az érintett intézmények és szervezetek kizárólag az 1. § (3) és (4) bekezdésében meghatározott szempontok szerinti béremelés megvalósítására használhatják fel.
+
+## 3. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

@@ -1,0 +1,308 @@
+---
+title: "606/2023. (XII. 22.) Korm. rendelet a Balassi Bálint-ösztöndíjprogramról"
+identifier: "606/2023. (XII. 22.) Korm. rendelet"
+njt_id: "2023-606-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/606"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-12-22
+in_force_from: 2023-12-23
+last_amended: 2024-11-29
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-606-20-22"
+retrieved: 2026-10-12
+---
+
+# 606/2023. (XII. 22.) Korm. rendelet a Balassi Bálint-ösztöndíjprogramról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A Balassi Bálint-ösztöndíjprogram célja és hatálya
+
+### 1. §
+
+(1) A Kormány által létrehozott Balassi Bálint-ösztöndíjprogram (a továbbiakban: ösztöndíjprogram) célja a hungarológiai, magyarságismereti és magyar nyelvi képzések és kutatások támogatása, fejlesztésük ösztönzése, eredményeik minél szélesebb körű megismertetése, továbbá a kárpát-medencei és diaszpóra magyarság közösségeiben és a szülőföldi felsőoktatási intézményekben folyó magyar nyelvű oktatás és kutatás elősegítése, illetve a külhoni magyar fiatalok magyarországi egyetemi felvételire történő felkészítésének biztosítása.
+
+(2) Az ösztöndíjprogram a magyar nyelv, kultúra és nemzeti értékek népszerűsítése révén része hazánk nyilvános diplomáciai eszköztárának.
+
+(3) A rendelet hatálya kiterjed
+
+a) az ösztöndíjprogram keretében, pályázati eljárásban részt vevő, illetve a pályázati eljárás vagy miniszteri jelölés alapján kiválasztott magyar vagy külföldi állampolgársággal rendelkező személyre,
+
+b) az ösztöndíjprogram működtetésében részt vevő, a külpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériummal (a továbbiakban: minisztérium) kormányzati szolgálati jogviszonyban álló kormánytisztviselőre,
+
+c) az ösztöndíjprogram keretében meghirdetett pályázatokat elbíráló bírálóbizottság elnökére és tagjára,
+
+d) a 2. § (4) bekezdése alapján létrehozott testület elnökére és tagjára.
+
+## 2. Az ösztöndíjprogram szervezete és működtetése
+
+### 2. §
+
+(1) Az ösztöndíjprogram működtetéséért a miniszter felel.
+
+(2) Az ösztöndíjprogram lebonyolítását a minisztérium végzi.
+
+(3) A minisztérium az oktatási és oktatásszervezési feladatokat a 7. § (1) bekezdés a)–e) pontjában felsorolt képzések esetén a KKM Magyar Diplomáciai Akadémia Korlátolt Felelősségű Társaság (a továbbiakban: KKM MDA Kft.) közreműködésével látja el.
+
+(4) A miniszter a 7. § (1) bekezdés d) pontjában felsorolt képzés esetében az ösztöndíjpályázatok előkészítése, illetve az érdekelt pályázati régiók javaslatainak képviselete érdekében döntést előkészítő konzultációs testületet (a továbbiakban: Tanácsadó Testület) működtethet.
+
+(5) Az ösztöndíjprogram egyes ösztöndíjaira beérkezett pályázatok elbírálására a kiválasztási eljárásban közreműködő bírálóbizottságok működnek.
+
+### 3. §
+
+(1) A miniszter
+
+a) jóváhagyja az ösztöndíjprogram működési szabályzatát,
+
+b) jóváhagyja a pályázati felhívást,
+
+c) működteti a kiválasztási eljárásban közreműködő bírálóbizottságot,
+
+d) dönt – az illetékes bírálóbizottság javaslata vagy miniszteri jelölés alapján – az ösztöndíjprogram keretében az egyes ösztöndíjakra benyújtott pályázatok eredményéről és az ösztöndíjak odaítéléséről,
+
+e) megállapítja az ösztöndíjprogramba felvehető ösztöndíjasok számát,
+
+f) megállapítja a 6. § (2) bekezdésében és a 7. § (2) bekezdésében meghatározott juttatások összegét és közzéteszi a pályázati felhívásban,
+
+g) megállapítja az ösztöndíj támogatási időtartamát és közzéteszi a pályázati felhívásban.
+
+(2) A miniszter az ösztöndíjprogram operatív irányítása keretében
+
+a) kidolgozza és közzéteszi a pályázati felhívást, illetve a működési szabályzatot,
+
+b) lefolytatja a pályázati eljárást,
+
+c) ellátja az ösztöndíjszerződés megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+
+d) gondoskodik az ösztöndíjprogram részét képező képzések és egyéb programok megszervezéséről és lebonyolításáról,
+
+e) kapcsolatot tart az ösztöndíjprogramban és az ahhoz kapcsolódó képzésekben részt vevő szervezetekkel, intézményekkel,
+
+f) igazolást állít ki az ösztöndíjas jogviszonyról az ösztöndíjas időszakban, valamint azt követően az ösztöndíjas kérelmére,
+
+g) a 7. § (1) bekezdés a)–e) pontja szerinti ösztöndíjak esetében az a)–f) pontban meghatározott feladatokat a KKM MDA Kft. közreműködésével látja el.
+
+(3)[^1] Az ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni. A minisztérium biztosítja a KKM MDA Kft. részére a 2. § (3) bekezdésében, valamint a 3. § (2) bekezdés g) pontjában meghatározott feladatokhoz szükséges finanszírozást. A feladat végrehajtásával összefüggő feladatok és az azokkal kapcsolatban felmerülő kiadások finanszírozásának meghatározása céljából a minisztérium a KKM MDA Kft.-vel támogatási vagy közszolgáltatási szerződést köt.
+
+### 4. §
+
+Az ösztöndíjprogram működési szabályzata meghatározza
+
+a) a bírálóbizottság összetételét és működésének szabályait, tagjainak tagsági jogviszonyára vonatkozó szabályokat,
+
+b) a bírálóbizottság külső tagjának díjazására vonatkozó szabályokat,
+
+c) a Tanácsadó Testület működésének rendjét,
+
+d) a miniszteri jelölés rendjét,
+
+e) az ösztöndíjprogram szakmai irányításának rendjét,
+
+f) az ösztöndíjprogram egyes ösztöndíjakra vonatkozó különös szabályait,
+
+g) az ösztöndíjasok jogait és kötelezettségeit,
+
+h) a kötelező egészségügyi protokollt,
+
+i) a hallgatói pályáztatás, valamint kiválasztás alapelveit, beleértve a pályázók körét,
+
+j) az ösztöndíjas szerződés kötelező elemeit,
+
+k) az ösztöndíjas jogviszony megszűnésének és megszüntetésének eljárásrendjét.
+
+## 3. Az ösztöndíjprogram keretében elnyerhető ösztöndíjak
+
+### 5. §
+
+Az ösztöndíjprogram keretében
+
+a) Klebelsberg Kuno-ösztöndíj, valamint
+
+b) Márton Áron-ösztöndíj
+
+adományozható.
+
+### 6. §
+
+(1) Klebelsberg Kuno-ösztöndíj adományozható
+
+a) a magyar nyelv és kultúra külföldi írott és tárgyi emlékeinek tanulmányozását célzó feladatok, különösen külföldi könyvtári, kézirattári, múzeumi és levéltári kutatások, feltárási és forráskiadási munkák, valamint kulturális és tudományos célú, külföldi szakmai tanulmányutak támogatása érdekében (Klebelsberg Kuno kutatói ösztöndíj),
+
+b) a Magyarország határain kívül élő óvodás- és iskoláskorú magyar fiatalok hétvégi magyar óvodában és iskolában történő oktatásának módszertani támogatása érdekében önkéntes tanárok részére (Klebelsberg Kuno módszertani ösztöndíj).
+
+(2) Klebelsberg Kuno-ösztöndíj keretében az ösztöndíjast juttatásként
+
+a) az (1) bekezdés a) pontja szerinti esetben ösztöndíj és kiegészítő ösztöndíj,
+
+b) az (1) bekezdés b) pontja szerinti esetben ösztöndíj
+
+illeti meg.
+
+### 7. §
+
+(1) Márton Áron-ösztöndíj adományozható a Magyarországon zajló
+
+a) magyar nyelvi és magyarságismereti képzésben részt vevő személyek és kutatások (Márton Áron magyarságismereti ösztöndíj),
+
+b) magyar nyelvi és hungarológiai képzésben részt vevő személyek és kutatások (Márton Áron hungarológiai ösztöndíj),
+
+c) műfordítási ismeretek és készségek fejlesztése (magyar nyelvről idegen nyelvre) képzésben részt vevő személyek és kutatások (Márton Áron műfordítói ösztöndíj),
+
+d) a külhoni magyarok érettségi-felvételi előkészítő képzésében részt vevő személyek (Márton Áron külhoni érettségi-felvételi előkészítő ösztöndíj),
+
+e) a Balassi Nyári Egyetem programján részt vevő személyek (Balassi Nyári Egyetem ösztöndíj),
+
+f) a külhoni magyar nyelvű felsőoktatási képzésben részt vevő, kiemelkedő tehetségű, külhoni hallgatók és oktatóik (Márton Áron tehetséggondozói ösztöndíj)
+
+támogatására.
+
+(2) Márton Áron-ösztöndíj keretében az ösztöndíjast juttatásként
+
+a) az (1) bekezdés a)–d) pontja szerinti esetben ösztöndíj, az oktatás önköltségének megtérítése alóli mentesség, a KKM MDA Kft. által biztosított szállás és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont id) alpontja alapján egészségügyi szolgáltatás,
+
+b)[^2] az (1) bekezdés e) pontja szerinti esetben az oktatás önköltségének megtérítése alóli mentesség, a KKM MDA Kft. által biztosított szállás, Budapesten érvényes 30 napos tömegközlekedési bérlet, utazási biztosítás, részvétel a szakmai programokon és napi háromszori étkezés,
+
+c) az (1) bekezdés f) pontja szerinti esetben ösztöndíj
+
+illeti meg.
+
+(3) Az (1) bekezdés a)–d) pontjában meghatározott ösztöndíjak esetén a miniszter – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 80. § (2) bekezdés h) pont hc) alpontja alapján – az ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
+
+## 4. Pályázati és kiválasztási eljárás
+
+### 8. §
+
+(1) A miniszter az ösztöndíjakra nyílt pályázatot hirdet meg. A pályázati felhívást és a működési szabályzatot az ösztöndíjprogram hivatalos honlapján teszi közzé.
+
+(2) Az ösztöndíjprogram ösztöndíjai képzéstípusonként évente legalább egy alkalommal meghirdetésre kerülnek.
+
+(3) A pályázati felhívás tartalmazza
+
+a) a pályázati feltételeket,
+
+b) a pályázat benyújtásának határidejét,
+
+c) a pályázat benyújtásának módját,
+
+d) a pályázati dokumentáció kötelező tartalmi elemeit,
+
+e) a kiválasztás és értékelés szempontjait,
+
+f) az ösztöndíjasnak biztosítandó ösztöndíj mértékét és időtartamát,
+
+g) a pályázati és kiválasztási eljárással, továbbá az ösztöndíjjal összefüggő egyéb követelményeket,
+
+h) a pályázattal összefüggő személyes adatok kezelésére vonatkozó hozzájáruló nyilatkozat mintáját,
+
+i) a forrás megnevezését és összegét.
+
+(4) Az érvényes pályázat feltétele, hogy a pályázó
+
+a) vállalja, hogy az ösztöndíj elnyerését követően ösztöndíjszerződést köt,
+
+b) vállalja a pályázati felhívásban közzétett feltételeket, valamint
+
+c) a 7. § (1) bekezdés a)–d) pontjában meghatározott ösztöndíjak esetében vállalja a 7. § (3) bekezdése szerinti kötelező egészségügyi protokollban foglalt kötelezettségek teljesítését.
+
+(5) A pályázat benyújtásakor a pályázónak csatolnia kell nyilatkozatát arra vonatkozóan, hogy hozzájárul a személyes adatainak a pályázati eljárás során és az ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez.
+
+(6) A pályázati feltételeknek megfelelő kiválasztási eljárást a miniszter bonyolítja le. Az ösztöndíjat a pályázati feltételek és az értékelési szempontok alapján a bírálóbizottság javaslatának figyelembevételével vagy miniszteri jelölés alapján a miniszter ítéli oda.
+
+(7) Miniszteri jelölésre Magyarország nemzetpolitikai, külpolitikai és külgazdasági érdekei szempontjából fontos esetekben kerülhet sor a működési szabályzatban meghatározott egyedi eljárásrend szerint.
+
+## 5. A bírálóbizottságok
+
+### 9. §
+
+(1) Az ösztöndíjprogram egyes ösztöndíjaira beérkezett pályázatokat az adott ösztöndíj elbírálására kijelölt bírálóbizottság bírálja el.
+
+(2) A bírálóbizottságot
+
+a) az elnök,
+
+b) a belső tagok és
+
+c) a külső tagok
+
+[az a)–c) pontban foglaltak a továbbiakban együtt: tag]
+
+alkotják.
+
+(3) A bírálóbizottság elnöke és belső tagja a minisztériummal kormányzati szolgálati jogviszonyban álló kormánytisztviselő lehet.
+
+(4) A bírálóbizottság külső tagjait a miniszter kéri fel.
+
+(5) A kiválasztási eljárásban nem vehet részt a bírálóbizottság azon tagja,
+
+a) aki a pályázónak a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontjában meghatározott hozzátartozója,
+
+b) aki a pályázóval közvetlen irányítási, felügyeleti, ellenőrzési vagy elszámolási kapcsolatban áll, vagy
+
+c) akitől az elfogulatlan eljárás egyéb okból nem várható el.
+
+(6) A bírálóbizottság tagja az (5) bekezdés szerinti összeférhetetlenségi ok fennállását az arról történő tudomásszerzést követően köteles haladéktalanul bejelenteni az elnöknek, illetve az elnök esetében a miniszternek. Ha az összeférhetetlenségi ok fennállását a bírálóbizottság tagja vagy elnöke bejelentette, vagy a bírálóbizottsági tag az összeférhetetlenségi ok fennállására figyelemmel kizárásra került, a miniszter az ösztöndíjprogram működési szabályzata szerint másik tagot jelöl ki az érintett pályázó meghallgatására.
+
+## 6. Az ösztöndíjas jogviszony
+
+### 10. §
+
+(1) A miniszter a pályázóval az ösztöndíjprogram keretében ösztöndíjszerződést köt, amely tartalmazza
+
+a) a felek nevét, illetve megnevezését és az ösztöndíjas jogviszony szempontjából lényeges adatait,
+
+b) az ösztöndíjas jogviszony kezdetének és végének az időpontját,
+
+c) az ösztöndíjas jogait és kötelezettségeit,
+
+d) az ösztöndíj havi összegét, azok kifizetésének határidejét, módját,
+
+e) az ösztöndíjas jogviszony megszűnésének és megszüntetésének feltételeit,
+
+f) a szerződésszegés jogkövetkezményeit,
+
+g) az ösztöndíjas pályázattal összefüggő személyes adatainak kezelésére vonatkozó hozzájáruló nyilatkozatát.
+
+(2) A 7. § (1) bekezdés a)–e) pontja szerinti ösztöndíj esetében a miniszter a KKM MDA Kft. közreműködésével köti meg az ösztöndíjszerződést.
+
+(3) Az ösztöndíjas az ösztöndíjszerződés alapján köteles
+
+a) tanulmányait, tevékenységét a jogszabályok, illetve a képzését biztosító, tevékenységét koordináló intézmény belső szabályzatai, utasításai alapján végezni, és
+
+b) a képzését biztosító, tevékenységét koordináló intézmény által az ösztöndíjasok részére szervezett programokon részt venni.
+
+### 11. §
+
+(1) Az ösztöndíjas jogviszony megszűnik
+
+a) az ösztöndíjas halálával,
+
+b) az ösztöndíjszerződésben meghatározott időpontban.
+
+(2) Az ösztöndíjas jogviszony megszüntethető
+
+a) a felek közös megegyezésével,
+
+b) azonnali hatályú felmondással
+
+ba) a miniszter által, ha az ösztöndíjas önhibájából nem teljesíti az ösztöndíjszerződésben foglalt feltételeket, vagy teljesítménye nem éri el az ösztöndíjprogram egyes ösztöndíjainál meghatározott teljesítményértékelési rendszerben meghatározott szintet,
+
+bb) miniszter által, ha az ösztöndíjas az ösztöndíjszerződésben foglalt lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal olyan jelentős mértékben megszegi vagy egyébként olyan magatartást tanúsít, amely a jogviszony fenntartását lehetetlenné teszi, vagy
+
+bc) az ösztöndíjas által, ha a miniszter az ösztöndíjszerződésben foglalt lényeges kötelezettségét szándékosan vagy súlyos gondatlansággal olyan jelentős mértékben megszegi, amely a jogviszony fenntartását lehetetlenné teszi.
+
+(3) Az ösztöndíjas a (2) bekezdés b) pont ba) és bb) alpontjában meghatározott esetben köteles a számára az ösztöndíjas időszak addig eltelt részében folyósított ösztöndíjat visszafizetni 90 napon belül.
+
+(4) Az ösztöndíjas kérelmére – méltánylást érdemlő ok igazolása esetén – a miniszter a visszafizetendő összeget mérsékelheti, részletfizetést biztosíthat, vagy az ösztöndíjast a visszafizetési kötelezettség teljesítése alól mentesítheti személyi, családi, egészségügyi indokkal vagy elháríthatatlan külső ok vagy körülmény miatt. Ezen ok vagy körülmény meglétét igazoló dokumentumot csatolni szükséges az ösztöndíjas írásban benyújtott kérelméhez, amiről a miniszter 10 munkanapon belül dönt.
+
+## 7. Záró rendelkezések
+
+### 12. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: A 3. § (3) bekezdése a 367/2024. (XI. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: A 7. § (2) bekezdés b) pontja a 367/2024. (XI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

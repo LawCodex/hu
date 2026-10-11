@@ -1,0 +1,582 @@
+---
+title: "716/2021. (XII. 20.) Korm. rendelet a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról"
+identifier: "716/2021. (XII. 20.) Korm. rendelet"
+njt_id: "2021-716-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/716"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-12-20
+in_force_from: 2022-01-01
+last_amended: 2024-07-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-716-20-22"
+retrieved: 2026-10-12
+---
+
+# 716/2021. (XII. 20.) Korm. rendelet a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról
+
+A Kormány
+
+a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 4. pont a) alpontjában kapott felhatalmazás alapján,
+
+a 3. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (6) bekezdés 3. pontjában és a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 16. pont a) alpontjában kapott felhatalmazás alapján,
+
+a 4. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (7) bekezdésében, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 16. pont b) alpontjában kapott felhatalmazás alapján,
+
+a 9. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 4. pont b) alpontjában kapott felhatalmazás alapján,
+
+a 10–24. §, a 28–32. § és 34–35. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 10. pontjában, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 7. pontjában kapott felhatalmazás alapján,
+
+a 25–27. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 10. pontjában és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (1) bekezdés b) pontjában kapott felhatalmazás alapján,
+
+a 33. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (4) bekezdés 4. pont c) alpontjában kapott felhatalmazás alapján,
+
+a 38. § tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+
+a 39–48. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 1. pont d) és f) alpontjában, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 340. § 11. pontjában kapott felhatalmazás alapján, a honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (1) bekezdés f) pontjában, valamint a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 68. § (1) bekezdés e) pontjában kapott felhatalmazás alapján,
+
+a 49. § tekintetében a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 281. § (6) bekezdés 3. pontjában és 281. § (7) bekezdésében, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 16. pont a) és b) alpontjában kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
+
+### 1. A rendelet hatálya
+
+#### 1. §
+
+(1) E rendelet hatálya – a (2)–(5) bekezdésben foglaltak figyelembevételével – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 280. § (1) bekezdés 31. pontja szerinti és a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 6. § 31. pontja szerinti személyügyi központra (a továbbiakban együtt: személyügyi központ) és a szolgáltatásait igénybe vevő munkáltató szervre, valamint az igénybe vevő munkáltatói szerv foglalkoztatottjaira terjed ki.
+
+(2) A 10. és 11. §, valamint a 25–27. § hatálya
+
+a) a Kit. 2. § (1) bekezdése szerinti kormányzati igazgatási szervre,
+
+b) a Kttv. 1. és 2. §-a szerinti közigazgatási szervre,
+
+c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdés a)–f) pontja szerinti rendvédelmi szervre,
+
+d) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 1. §-a szerinti munkáltatóra
+
+terjed ki, azzal, hogy a *d)* pont hatálya alá tartozókra vonatkozó szabályok nem érintik a közalkalmazotti pályázatok közzétételével kapcsolatos rendelkezést tartalmazó törvényekben, illetve ezek végrehajtására kiadott rendeletekben foglalt egyéb előírások teljesítésének kötelezettségét.
+
+(3) A 12–24. § hatálya
+
+a) a (2) bekezdés a) és b) pontja szerinti szervnél foglalkoztatottra és
+
+b) a kiválasztási eljárásban részt vevőre
+
+terjed ki.
+
+(4) A 28–30. § hatálya
+
+a) a Kit. 83. § (3) bekezdése és a Kttv. 45. § (2) bekezdése szerinti toborzási adatbázisba felvételét kérőre, valamint
+
+b) az e rendelet szerinti jelentkezőre
+
+is kiterjed.
+
+(5)[^1] Az (1)–(4) bekezdésben foglaltakon túl a rendelet hatálya kiterjed
+
+a) a Kit.,
+
+b) a Kttv.,
+
+c) a Kjt.,
+
+d) a Hszt.,
+
+e) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.),
+
+f) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.),
+
+g) a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.),
+
+h)[^2] a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.),
+
+i) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.),
+
+j) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény (a továbbiakban: Navtv.),
+
+k) a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.),
+
+l) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.),
+
+m) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.)
+
+hatálya alá tartozó munkáltató szervre és az ott foglalkoztatottra, ha a munkáltató a Kit. 115. § (3) bekezdése és 278. § (8) bekezdése, a Kttv. 8/A. §-a és 258. § (10) bekezdése, a Kjt. 20/A. § (9) bekezdése, a Hszt. 99. §/A. §-a, 287/C. § (35) bekezdése, 288/E. § (8) bekezdése, az Nftv. 24/B. §-a, az Nktv. 61. § (9) bekezdése, a Vgtv. 13/I. § (5) bekezdése, a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet 51. §-a, a Haj. 43/A. §-a, a Navtv. 77. § (4) bekezdése és 239. § (20) bekezdése, a Küt. 44. § (3) bekezdése és 102. § (6) bekezdése, az Eszjtv. 12. § (8) bekezdése, az Szkt. 40. § (3) bekezdése alapján a Kormányzati Személyügyi Szolgáltatási Keretrendszer (a továbbiakban: KSzSzK) szolgáltatásait vagy azok egy részét igénybe veszi.
+
+### 2. Értelmező rendelkezések
+
+#### 2. §
+
+E rendelet alkalmazásában
+
+1\. *alkalmazásüzemeltetés:* az alkalmazások elérhetővé tétele és működtetése, az alkalmazásokkal kapcsolatos feladatok elvégzése, hibakezelés,
+
+2\. *álláshely:* a munkáltató szervnél meglévő álláshely, szolgálati beosztás, munkakör, függetlenül a munkáltató szerv jogállásától,
+
+3\. *értékelő központ:* olyan helyzetgyakorlatokat, feladatokat tartalmazó értékelő rendszer, amely alapján megállapítható, hogy a pályázó a képességeit, készségeit és kompetenciáit bizonyos helyzetekben mennyire és milyen módon tudja alkalmazni,
+
+4\. *felhasználó:* a KSzSzK használatára jogosult személy, a szakrendszertől függően lehet a munkáltató szerv képviselője, a szolgáltatást igénybe vevő tisztviselő vagy jelentkező, továbbá a személyügyi központ kijelölt munkatársa,
+
+5\. *infrastruktúraüzemeltetés:* a KSzSzK működéséhez a Kormányzati Adatközpontban biztosítandó hardvereszközök, különösen szerverek és számítógépek működtetése,
+
+6\. *interfész:* adatok automatizált módon, elektronikus úton történő átadását lehetővé tevő kapcsolódási felület,
+
+7\. *jelentkező:* a toborzási adatbázisba felvételét kérő,
+
+8\. *jogosultságkezelés:* a rendszer felhasználói részére egyedi szerepkörök létrehozása, karbantartása, a szerepkörök felhasználóhoz rendelése,
+
+9\. *képesség:* a feladatokhoz elvárt tevékenység elvégzéséhez szükséges tudásbeli, fiziológiai és pszichikai feltétel,
+
+10\. *készség:* a munkavégzéshez köthető alkalmazotti ismeretek összessége,
+
+11\. *kompetencia:* a közszolgálati feladatok hatékony elvégzéséhez szükséges készségek és képességek együttese, továbbá mindazon személyes jellemzők összessége, amelyek kihatással lehetnek a munkateljesítményre,
+
+12\. *komplex kompetenciaprofil:* kompetenciateszt végrehajtása esetén az összefoglaló értékelés része, amely tartalmazza az egyén egyes alap- vagy vezetői kompetenciákban elért szintjét, valamint a megfogalmazott munkáltatói elvárásokhoz való illeszkedés mértékét,
+
+13.[^3] *közszolgálati alkalmazott:* a Kttv., a Hszt. és a Hjkr. hatálya alá tartozó tisztviselő, akinek tartalékállományba helyezését a Kttv., a Hszt. és a Hjkr. írja elő,
+
+14\. *KÖZSZOLGÁLLÁS:* közszolgálati állásportál, amely a személyügyi központ által üzemeltetett elektronikus rendszer és portál, melynek elemei a pályáztatás, a kiválasztási eljárás, a toborzási adatbázis és a hozzájuk kapcsolódó szolgáltatások,
+
+15\. *modul:* a KSzSzK-t felépítő egyes funkcionális rendszerelemek, amelyek egymással közvetlen kapcsolatban állnak,
+
+16\. *motivációs levél:* olyan kísérődokumentum, amelyben a pályázó legfontosabb motivációs tényezőire és korábbi munkatapasztalataira hivatkozva alátámaszthatja a megpályázott állásra való alkalmasságát,
+
+17\. *munkáltató szerv:* a tisztviselőt foglalkoztató szervezet, amely a KSzSzK szolgáltatásait vagy azok egy részét igénybe veszi,
+
+18\. *önéletrajz:* a toborzási adatbázisba felvételüket kérő, a kiválasztási eljárásban részt vevő által kitöltendő önéletrajz, továbbá a Kit. hatálya alá tartozó foglalkoztatott esetén a Kit. 83. § (5) bekezdése, a Kttv. hatálya alá tartozó foglalkoztatottak esetén a Kttv. 45. §-a alapján a toborzási adatbázisba felvételüket kérők, a kiválasztási eljárásban részt vevők által kitöltendő önéletrajz,
+
+19\. *személyes interjú:* olyan meghallgatás, amelynek célja a munka- és szervezeti alkalmasság felmérése, segítségével felmérésre kerül a pályázó életútja, tapasztalata, motivációja, preferenciája, főbb erősségei, kompetenciái, személyiségjegyei, munkavégzési habitusa és stílusa,
+
+20\. *tisztviselő:* foglalkoztatási jogviszonyban álló személy, akinek a munkáltató szerve a KSzSzK szolgáltatásait vagy azok egy részét igénybe veszi.
+
+## II. Fejezet — A SZEMÉLYÜGYI KÖZPONT
+
+#### 3. §[^4]
+
+(1) A személyügyi központ feladat- és hatáskörét a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 8. § (1) bekezdése alapján a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 16. §-a szerinti Miniszterelnöki Kormányiroda (a továbbiakban: Miniszterelnöki Kormányiroda) – szükség szerint az érintett ágazat bevonásával – gyakorolja.
+
+(2) A személyügyi központ vezetője a Miniszterelnöki Kormányiroda közigazgatási államtitkára.
+
+#### 4. §
+
+(1) A személyügyi központ feladata az e rendelet szerinti KSzSzK működtetése.
+
+(2) Az (1) bekezdésben foglalt feladattal együttesen a személyügyi központ feladatai:
+
+a) a kiválasztási eljárás lebonyolítása, ennek keretében kompetenciavizsgálat lefolytatása,
+
+b) a toborzási adatbázis működtetése,
+
+c) a jogszabály szerinti, személyügyi központ által vezetett nyilvántartással kapcsolatos feladatok ellátása,
+
+d) a jogszabályban meghatározott tartalékállomány kezelése,
+
+e) a jogszabályban meghatározott teljesítményértékelési rendszer működtetése,
+
+f) a mentori és tehetséggondozási rendszer működtetése.
+
+(3) A személyügyi központ az (1) bekezdésben meghatározott feladat ellátása során biztosítja a módszertani támogatást és a szükséges informatikai rendszer szakmai működtetését.
+
+(4) A személyügyi központ a (2) bekezdésben meghatározott feladat ellátása során a módszertani és rendszerhasználati felhasználói támogatás érdekében szakrendszerenként útmutatót és felhasználói kézikönyvet ad ki.
+
+(5) A személyügyi központ vezetője adatvédelmi szabályzatban határozza meg az iratok, adatok kezelésének adatvédelmi, adatbiztonsági szabályait.
+
+(6)[^5] A személyügyi központ a kormányzati igazgatási szervek foglalkoztatottai számára képzéseket, továbbképzéseket szervezhet.
+
+## III. Fejezet — A KÖZSZOLGÁLATI SZEMÉLYÜGYI SZOLGÁLTATÁSI KERETRENDSZER
+
+#### 5. §
+
+A KSzSzK egységes alapokon megvalósuló, moduláris felépítésű, több szakrendszerből álló, személyzetfejlesztéshez, valamint a jogviszony létesítéséhez és megszüntetéséhez kapcsolódó személyügyi szolgáltatásokat nyújtó kormányzati személyügyi informatikai keretrendszer.
+
+#### 6. §
+
+A KSzSzK egységes informatikai keretrendszerként magában foglalja a következő alrendszereket:
+
+a) KÖZSZOLGÁLLÁS, amely álláshelyek közzétételét lehetővé tévő, valamint kiválasztást segítő rendszer, és amelyhez a következő funkcionalitások kapcsolódnak:
+
+aa) közzététel,
+
+ab) toborzási adatbázis,
+
+ac) online állásbörze,
+
+b) a felmentett közszolgálati alkalmazottak elhelyezkedését szolgáló, jogszabályban meghatározott Tartalékállomány Információs Rendszer (a továbbiakban: TARTINFOR),
+
+c) a közszolgálaton belüli munkaerő-áramlás megkönnyítését, az újrafoglalkoztatás elősegítését támogató, a felmentett tisztviselő fejlesztését szolgáló rendszer (a továbbiakban: Új Karrier Program),
+
+d) a munkajogi, közszolgálati, emberi erőforrás gazdálkodási területen szakmai tapasztalattal rendelkező szakemberekből álló hálózat, továbbá publikációk megjelentetésének a felülete, a HR tudásbázis és szakértői hálózat,
+
+e) elkötelezettségmérő módszertan, valamint az eredmények elemzését segítő statisztikai számoló- és lekérdezési felület, amely képes a szervezeti, szervtípusonkénti, jogviszonyonkénti vagy összesített elemzéseket megvalósítani elkötelezettség- és elégedettségmérés vonatkozásában (a továbbiakban: közszolgálati elkötelezettség- és elégedettségmérés).
+
+#### 7. §
+
+(1) A KSzSzK alkalmazása az egyes alrendszerekben tárolt adatoknak a felhasználók általi, jogosultsághoz kötött közvetlen kezelésére épül.
+
+(2) A felhasználónak a KSzSzK adataihoz és funkcióihoz való hozzáférését a jogosultság terjedelme alapján a szerepköre határozza meg.
+
+(3) A KSzSzK rendszerhasználata regisztrációhoz kötött.
+
+(4) A szabályozott hozzáférés érdekében minden felhasználót kétfaktoros hitelesítéssel felhasználói névvel és jelszóval, valamint
+
+a) munkáltató szerv és a személyügyi központ kijelölt felhasználója esetén tároló elemet tartalmazó állandó személyazonosító igazolvánnyal vagy
+
+b) szolgáltatást igénybe vevő tisztviselő esetén az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással
+
+kell azonosítani, és a rendszer adataihoz történő hozzáférését a KSzSzK jogosultsági rendszerén keresztül kell biztosítani.
+
+(5) A jogosultsági rendszer megfelelő működéséért a személyügyi központ felel mint a legmagasabb szintű felhasználói jogosultsággal rendelkező felhasználó (a továbbiakban: KSzSzK adminisztrátor).
+
+(6) A KSzSzK adminisztrátor köteles a munkáltató szerv részére a felhasználói jogosultság kiosztására, és egyszeri belépést követően rögzíti a rendszerben a szervezeti adminisztrátort (a továbbiakban: szervezeti adminisztrátor). A munkáltató a szervezeti adminisztrátor részére szerepkörhöz igazítottan további felhasználói jogosultságot biztosít.
+
+(7) Ha a munkáltató szerv megszűnik, a KSzSzK adminisztrátor törli annak jogosultságát.
+
+(8) Ha a munkáltató szerv szervezeti vagy felhasználói adatait érintően változás következik be, a szervezeti adminisztrátor azt a KSzSzK erre szolgáló adminisztrációs felületén rögzíti.
+
+(9) Ha a szervezeti adminisztrátor személyében változás következik be, a munkáltató az új szervezeti adminisztrátort a KSzSzK erre szolgáló adminisztrációs felületén rögzíti.
+
+#### 8. §
+
+A személyügyi központ által nyújtott szolgáltatásokat a munkáltató szerv, a tisztviselő és a jelentkező térítésmentesen veszi igénybe.
+
+#### 9. §
+
+(1) A KSzSzK infrastruktúraüzemeltetési feladatait a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság látja el.
+
+(2) A KSzSzK alkalmazásüzemeltetési feladatait az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság látja el.
+
+## IV. Fejezet — A KÖZSZOLGÁLLÁS
+
+#### 10. §
+
+(1) A személyügyi központ a KÖZSZOLGÁLLÁS-on keresztül
+
+a) a munkáltató szervek körében elektronikus pályázati eljáráshoz, toborzási adatbázishoz, virtuális állásbörzén való részvételhez,
+
+b) a közigazgatási és kormányzati igazgatási szervek részére elektronikus kiválasztási eljáráshoz
+
+hozzáférést biztosít.
+
+(2) A KÖZSZOLGÁLLÁS interfészen keresztül kapcsolatban áll
+
+a) a TARTINFOR-ral az abban megjelent üres álláshely pályázatként való közzétételére,
+
+b) az e rendelet szerinti Új Karrier Programmal a toborzási adatbázisban történő részvételre.
+
+#### 11. §
+
+(1) Ha a munkáltató szerv álláshirdetést kíván megjelentetni vagy e rendelet szerint arra kötelezett, vagy kiválasztási eljárást kíván lefolytatni, a személyügyi központ honlapján közzétett intézményi regisztrációs lap kitöltésével intézményi regisztrációt kezdeményez, majd ezt követően felhasználónév és jelszó kiadását igényli a személyügyi központnál.
+
+(2) A munkáltató szerv vezetőjének elektronikus aláírásával ellátott intézményi regisztrációs lapot a személyügyi központ részére elektronikus úton, hivatali tárhelyen keresztül kell elküldeni. Az elküldött dokumentumon elhelyezett elektronikus aláírásnak tartalmaznia kell a munkáltató vezetőjének mint nyilatkozattevőnek a nevét, vezetői beosztását és szervezetét.
+
+(3) A személyügyi központ hozzáférést biztosít a munkáltató szervnek a KÖZSZOLGÁLLÁS adminisztrációs rendszeréhez, és a munkáltató szerv rendszerhasználathoz szükséges egyedi adatait a regisztrációs bejelentőlap személyügyi központhoz történő beérkezését követő öt munkanapon belül elektronikus úton megküldi.
+
+### 3. A kiválasztási eljárás
+
+#### 12. §
+
+(1) A kiválasztási eljárást a munkáltató szerv
+
+a) saját hatáskörben folytatja le, vagy
+
+b) annak lefolytatását a személyügyi központnál kezdeményezi.
+
+(2) Az (1) bekezdés a) pontja szerinti esetben a munkáltató szerv az állást meghívásos eljárásban vagy saját maga által lebonyolított pályázati eljárás útján töltheti be.
+
+(3) Az (1) bekezdés b) pontja szerinti esetben a munkáltató szerv az állást a személyügyi központ által lefolytatott pályázati eljárás útján töltheti be. A munkáltató szerv a pályázati eljárásban jogosult részt venni.
+
+(4) A Kttv. 1. § (1) bekezdés a) pontjában vagy 2. §-ában megjelölt szerv a kiválasztási eljárás lebonyolításáról maga gondoskodik, vagy azt az (1) bekezdés b) pontja szerint a személyügyi központnál kezdeményezheti.
+
+(5) Az (1) bekezdés b) pontja szerinti esetben a munkáltató szerv a kiválasztási eljárás útján betölteni kívánt állásról elektronikus úton a személyügyi központ honlapján elérhető feladatkörtérképet tölt ki, amelyet – a pályázati kiírás tervezett közzétételének időpontját legalább négy nappal megelőzően – eljuttat a személyügyi központ részére.
+
+(6) A személyügyi központ a beérkezett feladatkörtérkép alapján – a munkáltató szervvel történő egyeztetés eredményeként – elkészíti a pályázati kiírást, a kiválasztási eljárásrendben foglaltaknak megfelelően javaslatot tesz az általa lefolytatandó kiválasztási eljárás módjára, valamint gondoskodik a pályázati kiírás KÖZSZOLGÁLLÁS-on való közzétételéről.
+
+#### 13. §
+
+A személyügyi központ a pályázati kiírás közzétételét követően tájékoztatja a munkáltató szervet
+
+a) a pályázat közzétételének időpontjáról,
+
+b) a pályázati kiírás végleges szövegéről,
+
+c) a kiválasztási eljárás menetéről és
+
+d) a kiválasztás lezárásának várható időpontjáról.
+
+#### 14. §
+
+(1) A pályázatokat a személyügyi központhoz kell benyújtani.
+
+(2) A kiválasztási eljárásban alkalmazott határidőket a munkáltató szervvel egyeztetve a személyügyi központ határozza meg.
+
+#### 15. §
+
+(1) A személyügyi központ által lefolytatandó kiválasztási eljárás keretén belül közzétett pályázatra elektronikus úton, a KÖZSZOLGÁLLÁS-on lehet jelentkezni. A jelentkezéshez szükséges információkat a módszertani útmutató tartalmazza.
+
+(2) A pályázó által feltöltött adatokat a személyügyi központ a honlapján elérhető pályázati adatbázisban nyilvántartja.
+
+(3) A pályázatot a pályázati kiírásban szereplő, a pályázat benyújtására előírt határidőben beérkezettnek kell tekinteni, ha a pályázó legkésőbb a benyújtásra előírt határidő utolsó napján bejelentkezett a személyügyi adatbázisba, és pályázatát feltöltötte a személyügyi központ részére.
+
+(4) A határidőt kétség esetén megtartottnak kell tekinteni.
+
+#### 16. §
+
+(1) A pályázati határidő leteltét követően a személyügyi központ megvizsgálja a pályázatokat, és előszűrést végez a feladatkörtérképen megadott feltételek szerint.
+
+(2) A személyügyi központ az előszűrés során érvénytelennek nyilvánítja a pályázatot,
+
+a) ha a pályázati kiírásban szereplő benyújtási határidőn túl érkezik, vagy
+
+b) ha a pályázó a pályázati kiírásban meghatározott feltételeknek nem felel meg.
+
+(3) Ha a személyügyi központ érvénytelennek nyilvánítja a pályázatot, ennek tényéről, indokairól haladéktalanul, de legkésőbb az érvénytelenné nyilvánítást követő tíz munkanapon belül tájékoztatja a pályázót.
+
+(4) A személyügyi központ az előszűrés eredménye alapján összeállítja azon pályázók körét, akiket a kompetencia-felmérésbe bevon.
+
+#### 17. §
+
+(1) A személyügyi központ a kompetencia-felmérésbe bevont pályázókat értesíti a kompetenciavizsgálat fajtájáról, helyéről és időpontjáról.
+
+(2) A személyügyi központ a pályázattal érintett álláshely jellegétől – vezető vagy nem vezető besorolású álláshelytől – függően az alábbi kompetencia-felméréseket végezheti:
+
+a) személyes interjú,
+
+b) kompetenciateszt,
+
+c) értékelő központ, vagy
+
+d) az *a)–c)* pont szerinti kompetencia-felmérések kombinációja.
+
+(3) A munkáltatói jogkör gyakorlója által kijelölt személy a kiválasztási eljárás bármely szakaszában részt vehet, ennek során a pályázó szakmai tudását, valamint szervezeti illeszkedését is mérheti.
+
+(4) A munkáltató szerv a (2) bekezdés szerinti kompetencia-felmérés bármely típusát vagy azok kombinációját választhatja.
+
+(5) A pályázó dönthet úgy, hogy kompetencia-felmérésének eredménye nem használható fel a kiválasztási eljárásban. Ez esetben a pályázó a kiválasztási eljárás további szakaszaiban nem vehet részt.
+
+#### 18. §
+
+A kompetenciateszt során azon közszolgálati alap- vagy vezetői kompetenciák vizsgálatára kerül sor, amelyek megléte elengedhetetlen a közszolgálatban való hatékony munkavégzéshez. A kompetenciákat a személyügyi központ a honlapján közzéteszi.
+
+#### 19. §
+
+(1) Az értékelő központot az értékelő bizottság folytatja le, amelynek létszáma legalább három, legfeljebb öt fő, tagjai a személyügyi központ kiválasztási feladatra kijelölt szakértői, valamint – a munkáltató szerv előzetesen bejelentett igénye esetén, külső tagként – a munkáltatói jogkör gyakorlója által kijelölt kiválasztásért felelős vagy a kiválasztással érintett szakterületet képviselő személy, vezető. Az értékelő bizottságban legfeljebb két fő külső tag vehet részt.
+
+(2) Az értékelő központ egyéni prezentációs, páros szituációs és csoportos helyzetgyakorlatokból áll, amelynek értékelése és az eredmények összesítése az elektronikus rendszerben történik.
+
+(3) A személyügyi központ a lefolytatott kiválasztási eljárás során alkalmazott értékelő központ eredményét a pályázóval ismerteti.
+
+#### 20. §
+
+(1) A kompetencia-felmérés lefolytatását követően a személyügyi központ összeállítja a pályázók ajánlati listáját, amelyet a listán szereplő pályázók pályázati dokumentumaival és a kompetencia-felmérés alapján a személyügyi központ által a pályázóról készített összefoglaló értékeléssel együtt elektronikus úton eljuttat a munkáltató szervnek.
+
+(2) Az (1) bekezdés szerinti összefoglaló értékelés komplex kompetenciaprofilt is tartalmaz, ha a pályázó esetében kompetencia-felmérésre is sor került.
+
+(3) A pályázók az ajánlati listán a kompetencia-felmérés eredményei alapján kialakult sorrendben szerepelnek, első helyen a legjobb eredményt elért pályázóval. Az ajánlati listára legfeljebb hat fő pályázó kerülhet fel.
+
+#### 21. §
+
+(1) Az ajánlati listán felállított sorrendet a munkáltató szerv figyelembe veszi, de a kiválasztási eljárása, valamint a foglalkoztatás során az nem köti.
+
+(2) A munkáltató szerv az ajánlati listán szereplő pályázókat – a pályázatról szóló döntéséről – legkésőbb a döntést követő tíz munkanapon belül köteles értesíteni.
+
+(3) A munkáltató szerv a személyügyi központot a döntését követő négy munkanapon belül elektronikus úton tájékoztatja a kiválasztási eljárás eredményéről.
+
+(4) A (3) bekezdés szerinti tájékoztatásnak tartalmaznia kell
+
+a) a nyertes pályázó nevét vagy
+
+b) a kiválasztási eljárás eredménytelensége esetén annak indokait.
+
+(5) A személyügyi központ a munkáltató szerv tájékoztatását követően értesíti az ajánlati listára fel nem került, de az eljárásban részt vett pályázókat a kiválasztási eljárás eredményéről.
+
+#### 22. §
+
+(1) Vezetői álláshelyre pályázók esetében a vezetőkiválasztási eljárás kötelező eleme a 17. § (2) bekezdés a) és b) pontja szerinti kompetencia-felmérés. A 17. § (2) bekezdés c) pontja szerinti kompetencia-felmérés elvégzésére a munkáltató szerv döntése alapján kerül sor.
+
+(2) Vezetőkiválasztási eljárásban történő részvételre az e rendelet hatálya alá tartozó munkáltató szervnél a tisztviselő
+
+a) a munkáltatói jogkör gyakorlójának javaslatára jelölhető a tisztviselő beleegyezésével, vagy
+
+b) önként jelentkezhet.
+
+(3) A tisztviselő kérésére a vezetőkiválasztási eljárásban való részvétel idejére mentesül a munkavégzési kötelezettség alól.
+
+(4) A személyügyi központ a vezetőkiválasztási eljárással kapcsolatos információkat és a módszertant a honlapján közzéteszi.
+
+#### 23. §
+
+(1) A kompetencia-felmérés lefolytatását követően a személyügyi központ összeállítja a pályázók ajánlati listáját, amelyet a listán szereplő pályázók pályázati dokumentumaival és a kompetencia-felmérés alapján a személyügyi központ által a pályázóról készített összefoglaló értékeléssel együtt elektronikus úton eljuttat a munkáltató szervnek.
+
+(2) Az (1) bekezdés szerinti összefoglaló értékelés komplex kompetenciaprofilt is tartalmaz.
+
+(3) A pályázók az ajánlati listán a kompetencia-felmérés eredményei alapján kialakult sorrendben szerepelnek, első helyen a legjobb eredményt elért pályázóval.
+
+#### 24. §
+
+(1) Az érintett hozzájárulásával a személyügyi központ a vezetői kompetencia-felmérés során megállapított adatokat nyilvántartja, és a munkáltatói jogkör gyakorlóját tájékoztatja a vezetőkiválasztási eljárás eredményéről.
+
+(2) A vezetőkiválasztási eljárásban részt vevő a vezetői kompetenciateszt alapján megállapított kompetenciaprofilt az általa megadott elektronikus elérhetőség útján vagy az interjút követő visszajelzés keretében történő személyes elbeszélgetés során kapja meg.
+
+(3) A személyügyi központ vezetője a vezetőkiválasztási eljáráson való részvételről igazolást állít ki.
+
+### 4. A közzétételi eljárás
+
+#### 25. §
+
+(1) Az 1. § (2) bekezdése hatálya alá tartozó munkáltató szerv, ha pályázat útján kívánja betölteni az álláshelyet, a pályázati kiírást a KÖZSZOLGÁLLÁS elektronikus rendszerében feltölti a személyügyi központ honlapján elérhető elektronikus közzétételi adatlapon.
+
+(2) Az (1) bekezdésben foglalt közzétételi kötelezettség mellett a munkáltató szerv más formában is közzéteheti pályázatát.
+
+(3) Az elektronikus pályázati kiírást a közzététel tervezett időpontja előtt legalább két nappal elektronikusan beküldi a rendszeren keresztül a személyügyi központ részére.
+
+(4) A Kttv. hatálya alá tartozó álláshely esetén a munkáltató szerv a tartalékállományra vonatkozó egyes szabályokról szóló kormányrendelet szerinti TARTINFOR-rendszerbe történő bejelentést követően, de legalább azzal párhuzamosan teszi közzé a pályázati kiírást. A TARTINFOR automatikusan, közvetlen adatkapcsolat útján átveszi a betölteni tervezett álláshely adatait.
+
+(5) A személyügyi központ az elektronikus rendszer által generált pályázati kiírást a KÖZSZOLGÁLLÁS-on a beküldéstől számított második munkanapon teszi közzé. A közzététel időpontjáról a KÖZSZOLGÁLLÁS rendszerén belül automatikus rendszerüzenetben értesíti a pályázatot kiíró szervet.
+
+(6) A munkáltató szerv a pályázati kiírást – a KÖZSZOLGÁLLÁS-on történő közzétételt követően – a saját honlapján vagy az általa választott egyéb úton is meghirdetheti, azonban az általa közzétett pályázati kiírás szövege nem térhet el a személyügyi központ által közzétett pályázati kiírás szövegétől. Eltérés esetén a személyügyi központ által közzétett pályázati kiírás az irányadó.
+
+(7) A pályázati kiírás tartalmáért a munkáltató szerv felel. A személyügyi központ felelős az alakilag megfelelő pályázati kiírások KÖZSZOLGÁLLÁS-on határidőben történő közzétételéért. A személyügyi központ a pályázati kiírásban előforduló, hibás vagy az esélyegyenlőség, illetve az egyenlő bánásmód szabályait figyelmen kívül hagyó szövegezés esetén a pályázati kiírást a rendszeren keresztül javításra visszaküldheti a munkáltató szerv részére.
+
+(8) A kiválasztási eljárásban megállapított határidőket a pályázati kiírás KÖZSZOLGÁLLÁS-on történő közzététele napjától kell számítani.
+
+#### 26. §
+
+Az elektronikusan feltöltött pályázati kiírásokat a személyügyi központ a KÖZSZOLGÁLLÁS honlapján közzéteszi. A KÖZSZOLGÁLLÁS-ra látogató személyek számára – az állások pályázat útján történő betöltésének elősegítése érdekében – keresés, szűrés végezhető.
+
+#### 27. §[^6]
+
+A közzétételi eljárásra vonatkozó szabályokat kell alkalmazni a Kjt. és a pedagógusok új életpályájáról szóló 2023. évi LII. törvény (a továbbiakban: Púétv.) hatálya alá tartozó munkáltató szerv által közzétett állásokra, azzal, hogy a közzétételi adatlap személyügyi központ részére történő elküldésével egyidejűleg a munkáltató szerv
+
+a)[^7] elektronikusan megküldi a pályázati felhívást a fenntartónak a Kjt. 20/A. § (4) bekezdés a) pontjában és a Púétv. 37. § (4) bekezdésében szereplő közzététel érdekében,
+
+b)[^8] gondoskodik a Kjt. 20/A. § (4) bekezdés b) pontjában és a Púétv. 37. § (4) bekezdésében meghatározott közzétételről, valamint
+
+c)[^9] ha a közalkalmazotti pályázatok közzétételével kapcsolatos rendelkezést tartalmazó törvényekben, illetve ezek végrehajtására kiadott rendeletekben foglalt egyéb előírások a közzététel helyére nézve a Kjt. 20/A. § (4) bekezdés b) pontjában és a Púétv. 37. § (4) bekezdésében foglaltaktól eltérő szabályt állapít meg, megteszi az ezzel kapcsolatosan szükséges intézkedéseket.
+
+### 5. A toborzási adatbázis
+
+#### 28. §
+
+(1) A személyügyi központ toborzási adatbázist működtet.
+
+(2) A toborzási adatbázisba a jelentkező regisztrációt követően felhasználói fiókot hozhat létre az önéletrajzok munkáltató szervek részéről történő kereshetősége érdekében.
+
+#### 29. §
+
+(1) A személyügyi központ a toborzási adatbázisban való szűrést biztosítja a munkáltató szervek részére.
+
+(2) A munkáltató szervezet meghatározott álláshelyre, munkakörre szűrést végezhet.
+
+(3) A szűrés eredményeként letölthető önéletrajzokat a munkáltató szervezet a további kiválasztási eljárások során felhasználhatja.
+
+#### 30. §
+
+(1) A toborzási adatbázisban nyilvántartott személy saját adatait a toborzási adatbázisban közvetlenül helyesbítheti, módosíthatja, kijavíthatja, azokat az adatbázisból törölheti.
+
+(2) A személyügyi központ a toborzási adatbázisban szereplő adatokat személyazonosításra alkalmatlan módon statisztikai adatgyűjtés céljából felhasználhatja.
+
+### 6. Az online állásbörze
+
+#### 31. §
+
+(1) A személyügyi központ erre irányuló igény esetén online állásbörzét (a továbbiakban: állásbörze) szervez.
+
+(2) Az állásbörze a KÖZSZOLGÁLLÁS-on virtuális térben valósul meg. A programra az egyes munkáltatók az online állásbörze időpontja előtt regisztrációval adhatják le jelentkezésüket a rendszerben.
+
+(3) A személyügyi központ elektronikus úton ad tájékoztatást az állásbörzén való részvétel feltételeiről.
+
+#### 32. §
+
+(1) Az állásbörze segítségével a munkáltató szervek azonnali toborzási tevékenységet valósíthatnak meg az üres álláshelyeik betöltése tekintetében.
+
+(2) Az állásbörze a regisztrált felhasználó, illetve az önéletrajz-adatbázisba regisztrált személy számára elérhető szolgáltatás.
+
+(3) Az állásbörzéhez fórumszolgáltatás biztosított, melyen a résztvevők az állásbörze ideje alatt a munkáltató szervvel kapcsolatba léphetnek az elhelyezkedésük érdekében.
+
+### 7. Az állásportálokkal való együttműködési megállapodás
+
+#### 33. §
+
+(1) A személyügyi központ jogosult együttműködési megállapodást kötni más álláshirdetéseket tartalmazó adatbázisok működtetőjével (a továbbiakban: állásportál).
+
+(2) A személyügyi központ az együttműködési megállapodásban meghatározott feltételek szerint más állásportálokon megjelentetheti a KÖZSZOLGÁLLÁS pályázatait.
+
+(3) Az álláshirdetések átadása az együttműködési megállapodásban meghatározott rendszerbiztonsági és műszaki feltételek mentén történik.
+
+(4) Az együttműködési megállapodásban rögzíteni kell az alábbiakat:
+
+a) felek (megnevezés, eljáró képviselő neve, jogcíme, a szervezet adószáma),
+
+b) az álláspályázatok átemelésének műszaki feltételei,
+
+c) az álláspályázatok átemelésének gyakorisága,
+
+d) az álláspályázatok formai követelményei,
+
+e) ellentételezés módja.
+
+## V. Fejezet — A TUDÁSBÁZIS ÉS SZAKÉRTŐI HÁLÓZAT, AZ ÚJ KARRIER PROGRAM ÉS A KÖZSZOLGÁLATI ELKÖTELEZETTSÉG- ÉS ELÉGEDETTSÉGMÉRÉS
+
+#### 34. §
+
+(1) A személyügyi központ interneten keresztül elérhető információs felületet működtet az emberi erőforrás menedzsment tevékenység hatékonyságának növelése érdekében (a továbbiakban: tudásbázis).
+
+(2) A tudásbázisban megjelenő dokumentumok tartalmára és tárolására, a tagok regisztrációjára, a szakmaiságot biztosító szakértői hálózat és bíráló bizottság feladatára vonatkozó információkat módszertani útmutató tartalmazza.
+
+#### 35. §
+
+(1) Az Új Karrier Program célja a közszolgálaton belüli újbóli elhelyezkedést segítő szolgáltatás nyújtása.
+
+(2) Az Új Karrier Program a felmentési idejét töltő tisztviselő és a felmondási idejét töltő munkavállaló számára vehető igénybe.
+
+(3) A tisztviselőt és a munkavállalót a munkáltató szerv tájékoztatja az Új Karrier Programról.
+
+(4) Az Új Karrier Programban való részvétel önkéntes. Ha a tisztviselő vagy a munkavállaló részt kíván venni, a munkáltató szerv rögzíti az adatait az Új Karrier Programban.
+
+(5)[^10] A Kttv., a Hszt. és a Hjkr. alapján tartalékállományba helyezettek esetében nem kell regisztrálni az Új Karrier Programba, a jogszabály szerinti TARTINFOR-rendszerből a szükséges adatok interfészen átvételre kerülnek. A munkáltató szerv erről tájékoztatja a tartalékállományba helyezettet.
+
+(6) Az Új Karrier Programhoz a létszámváltozással érintett munkáltató szervnél vezetői munkakörben, álláshelyen vagy szolgálati beosztásban foglalkoztatott vezető részére szervezeti változáskezelés kapcsolódik, az érintetett vezetőt a munkáltató szerv regisztrálja az Új Karrier Programba.
+
+(7) Az Új Karrier Program egyéni kompetencia-fejlesztési programjait és a vezetői szervezeti változáskezelés elemeit módszertani útmutató tartalmazza.
+
+#### 36. §
+
+(1)[^11] A személyügyi központ a Kit., a Kttv., a Hszt. és a Hjkr. hatálya alá tartozó munkáltató szerv kezdeményezése esetén közszolgálati elkötelezettség- és elégedettségmérést folytat le.
+
+(2) A közszolgálati elkötelezettség-és elégedettségmérés eszközeit, módját és a személyügyi központ feladatait módszertani útmutató tartalmazza.
+
+## V/A. Fejezet[^12] — A MENTORI ÉS TEHETSÉGGONDOZÁSI FELADATOK ELLÁTÁSÁRÓL
+
+#### 36/A. §
+
+A személyügyi központ a 4. § (2) bekezdés f) pontja szerinti mentori és tehetséggondozási rendszer keretében a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: Egyetem), valamint a kormányzati igazgatási szervvel történő együttműködés alapján elősegíti az Egyetemmel hallgatói jogviszonyban álló személy kormányzati igazgatási szervnél tervezett, meghatározott idejű szakmai gyakorlatának teljesítését, valamint foglalkoztatását.
+
+## VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### 8. Hatályba léptető rendelkezések
+
+#### 37. §
+
+Ez a rendelet 2022. január 1-jén lép hatályba.
+
+### 9. Módosító rendelkezések
+
+### 10. A személyügyi központról, a kiválasztási eljárásról és a közzétételi eljárásról szóló 70/2019. (IV. 4.) Korm. rendelet hatályon kívül helyezése
+
+---
+
+[^1]: Az 1. § (5) bekezdés záró szövegrésze a 176/2024. (VII. 7.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdés h) pontja a 176/2024. (VII. 7.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^3]: A 2. § 13. pontja a 176/2024. (VII. 7.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 243/2022. (VII. 4.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: A 4. § (6) bekezdését a 29/2024. (II. 22.) Korm. rendelet 4. §-a iktatta be.
+[^6]: A 27. § nyitó szövegrésze a 401/2023. (VIII. 30.) Korm. rendelet 135. § a) pontja szerint módosított szöveg.
+[^7]: A 27. § a) pontja a 401/2023. (VIII. 30.) Korm. rendelet 135. § b) pontja szerint módosított szöveg.
+[^8]: A 27. § b) pontja a 401/2023. (VIII. 30.) Korm. rendelet 135. § c) pontja szerint módosított szöveg.
+[^9]: A 27. § c) pontja a 401/2023. (VIII. 30.) Korm. rendelet 135. § c) pontja szerint módosított szöveg.
+[^10]: A 35. § (5) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
+[^11]: A 36. § (1) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
+[^12]: Az V/A. Fejezetet (36/A. §-t) a 62/2024. (III. 21.) Korm. rendelet 2. §-a iktatta be.

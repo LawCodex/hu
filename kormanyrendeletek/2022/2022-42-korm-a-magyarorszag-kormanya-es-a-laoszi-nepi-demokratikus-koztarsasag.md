@@ -1,0 +1,110 @@
+---
+title: "42/2022. (II. 15.) Korm. rendelet a Magyarország Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltással történő módosításáról szóló megállapodás kihirdetéséről"
+identifier: "42/2022. (II. 15.) Korm. rendelet"
+njt_id: "2022-42-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2022/Korm/42"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2022-02-15
+in_force_from: 2022-02-16
+last_amended: 2022-03-18
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2022-42-20-22"
+retrieved: 2026-10-12
+---
+
+# 42/2022. (II. 15.) Korm. rendelet a Magyarország Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltással történő módosításáról szóló megállapodás kihirdetéséről
+
+## 1. §
+
+A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás módosításáról szóló jegyzékváltással létrejött megállapodás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
+
+## 2. §[^1]
+
+A Kormány a Módosítást e rendelettel kihirdeti.
+
+## 3. §[^2]
+
+(1) A Módosítás hivatalos magyar nyelvű fordítását az 1. és 3. melléklet tartalmazza.
+
+(2) A Módosítás hiteles angol nyelvű szövegét a 2. és 4. melléklet tartalmazza.
+
+## 4. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. §, a 3. § és az 1–4. melléklet a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba.[^3]
+
+(3) A Módosítás, valamint a 2. §, a 3. § és az 1–4. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
+
+## 5. §
+
+E rendelet végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
+
+## 1. melléklet a 42/2022. (II. 15.) Korm. rendelethez[^5]
+
+A Laoszi Népi Demokratikus Köztársaság Külügyminisztériuma ezúton fejezi ki nagyrabecsülését Magyarország Külgazdasági és Külügyminisztériuma felé, és hivatkozással a 2021. március 4-én kelt, KKM/11335/2021/Adm./2021/Adm számú szóbeli jegyzékre, a 2021. szeptember 23-án kelt szóbeli jegyzékre és a 2017. szeptember 21-én Budapesten aláírt, a Laoszi Népi Demokratikus Köztársaság Kormánya és a Magyarország Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodásra (a továbbiakban: Keretmegállapodás), a következőkről tájékoztatja a tisztelt Minisztériumot.
+
+A Keretmegállapodás alapján finanszírozott mindhárom projekt megvalósításának késedelme miatt, valamint a projektek folyamatos szerződéses alapjának biztosítása érdekében a Laoszi fél – a Keretmegállapodás 11. cikkének *e)* pontja értelmében – a Magyar Fél részére az alábbi javaslatot terjeszti elő a Keretmegállapodás 3. cikk (4) bekezdésének módosítására, amely lehetővé teszi az egyes hitelek folyósítási időszakának további 3 (három) évvel történő meghosszabbítását:
+
+*„A kötött segélyhitelkeretből folyósított hitelekhez a folyósítási időszak az egyedi hitelszerződésben kerül rögzítésre, az adott projekttől függően. A folyósítási időszak nem haladhatja meg a 4 (négy) évet **7 (hét) évet, amelyből 3 évet a türelmi időszakban kell teljesíteni.”***
+
+A Laoszi fél javasolni kívánja, hogy jelen szóbeli jegyzék és a Magyar fél megerősítő válasza együttesen képezze a 2017. szeptember 21-én, Budapesten aláírt, Magyarország Kormánya és a Laoszi Népi Demokratikus Köztársaság kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás jegyzékváltás útján történő módosítását (a továbbiakban: Módosítás). Ez a Módosítás – a Keretmegállapodás 11. cikk *e)* pontjának megfelelően – az utolsó diplomáciai úton történő írásos értesítés kézhezvételét követő harmincadik (30.) napon lép hatályba, amellyel a Felek megerősítették, hogy a jelen Módosítás hatálybalépéséhez szükséges jogi eljárásaikat befejezték.
+
+A Laoszi Népi Demokratikus Köztársaság Külügyminisztériuma ismételten megragadja az alkalmat, hogy nagyrabecsüléséről biztosítsa Magyarország Külgazdasági és Külügyminisztériumát.
+
+Vientián, 2021. december 17.
+
+## 2. melléklet a 42/2022. (II. 15.) Korm. rendelethez[^6]
+
+The Ministry of Foreign Affairs of the Lao People's Democratic Republic presents its compliments to the Ministry of Foreign Affairs and Trade of Hungary, and with reference to the Verbale Notes No. KKM/11335/2021/Adm./2021/Adm dated 4<sup>th</sup> March 2021 and KKM/11335-2/2021/Adm./2021/Adm dated 23rd September 2021, and to the Agreement between the Government of Hungary and the Government of the Lao People's Democratic Republic about the Establishment of a Framework Programme for Financial Co-operation signed in Budapest 21 September 2017 (hereinafter referred to as the ‘Framework Agreement') has the honour to inform the esteemed Ministry about the following.
+
+Due to the delays in the implementation of all three projects financed under the Framework Agreement and in order to provide a continuous contractual basis for the projects, the Lao Party – in accordance with paragraph *e)* of Article 11 of the Framework Agreement – wishes to submit to the Hungarian Party, the following proposal for the amendment of paragraph 4 of Article 3 of the Framework Agreement allowing to extend the disbursement period of the individual credits by 3 (three) additional years:
+
+*”The disbursement period of credits disbursed under the tied aid credit line will be stipulated in the individual credit agreement depending on the particular projects. The disbursement period for the individual credits shall not exceed 4 (four) years] **7 (seven) years out of which 3 years should be effected in the grace period.”***
+
+The Lao Party wishes to propose that this Note Verbale and the affirmative answer by the Hungarian Party constitute together the Amendment of the Agreement between the Government of Hungary and the Government of the Lao People's Democratic Republic about the Establishment of a Framework Programme for Financial Co-operation signed in Budapest 21 September 2017 (hereinafter referred to as the ‘Amendment') by exchange of notes between the two Parties. This Amendment – in conformity with paragraph e) Article 11 of the Framework Agreement – shall enter into force on the thirtieth (30<sup>th</sup>) day after receiving the last written notification through diplomatic channels by which Parties have confirmed that their respective legal procedures required for the entry into force of this Amendment have been completed.
+
+The Ministry of Foreign Affairs of the Lao People's Democratic Republic avails itself of this opportunity to renew to the Ministry of Foreign Affairs and Trade of Hungary, the assurances of its highest consideration.
+
+Vientiane, 17<sup>th</sup> December 2021
+
+## 3. melléklet a 42/2022. (II. 15.) Korm. rendelethez[^7]
+
+Budapest, 2022. január 25.
+
+Magyarország Külgazdasági és Külügyminisztériuma (a továbbiakban: Minisztérium) nagyrabecsülését fejezi ki a Laoszi Népi Demokratikus Köztársaság Külügyminisztériuma számára és tisztelettel hivatkozik a 2021. december 17-én kelt 300/MOFA.DEA.E2 számú szóbeli jegyzékre, a 2017. szeptember 21-én aláírt Magyarország Kormánya és a Laoszi Népi Demokratikus Köztársaság Kormánya közötti pénzügyi együttműködési keretprogram kialakításáról szóló megállapodás (a továbbiakban: Keretmegállapodás) módosításáról.
+
+A Magyar fél tisztelettel elfogadja a Laoszi fél módosításra tett javaslatát, mely szerint a Keretmegállapodás 3. cikkének (4) bekezdése az alábbiak szerint módosul:
+
+*„A kötött segélyhitelkeretből folyósított hitelekhez a folyósítási időszak az egyedi hitelszerződésben kerül rögzítésre, az adott projekttől függően. A folyósítási időszak nem haladhatja meg a 4 (négy) évet **7 (hét) évet, amelyből 3 évet a türelmi időszakban kell teljesíteni.”***
+
+A Laoszi Népi Demokratikus Köztársaság Külügyminisztériumának szóbeli jegyzéke és a Minisztérium válaszul megküldött jelen szóbeli jegyzéke ennek megfelelően együttesen fogja képezni az Egyezményt Magyarország Kormánya és a Laoszi Demokratikus Köztársaság Kormánya között a Megállapodás módosításáról. A módosító Megállapodás a Megállapodás elválaszthatatlan részét képezi és az utolsó diplomáciai úton történő írásos értesítés kézhezvételét követő harmincadik (30.) napon lép hatályba, amellyel a Felek megerősítették, hogy a jelen Módosítás hatálybalépéséhez szükséges jogi eljárásaikat befejezték.
+
+Magyarország Külgazdasági és Külügyminisztériuma ismételten megragadja az alkalmat, hogy nagyrabecsüléséről biztosítsa a Laoszi Népi Demokratikus Köztársaság Külügyminisztériumát.
+
+## 4. melléklet a 42/2022. (II. 15.) Korm. rendelethez[^8]
+
+Budapest, 25 January 2022
+
+The Ministry of Foreign Affairs and Trade of Hungary (hereinafter: “the Ministry”) presents its compliments to the Ministry of Foreign Affairs of the Lao People's Democratic Republic, and has the honour to communicate the following with reference to the latter's Note Verbale no. 300/MOFA.DEA.E2, dated 17 December 2021 on the amendment of the 21 September 2017 Agreement between the Government of Hungary and the Government of Lao People's Democratic Republic about the Establishment of a Framework Programme for Financial Co-operation (hereinafter referred to as the ‘Framework Agreement').
+
+The Hungarian Side kindly accepts the amendment proposal of the Laotian Side, according to which paragraph 4 of Article 3 of the Framework Agreement will be amended as follows:
+
+*”The disbursement period of credits disbursed under the tied aid credit line will be stipulated in the individual credit agreement depending on the particular projects. The disbursement period for the individual credits shall not exceed [4 (four) years] **7 (seven) years out of which 3 years should be effected in the grace period.”***
+
+The Note Verbale from the Ministry of Foreign Affairs of the Lao People's Democratic Republic and the present Note Verbale of the Ministry in reply shall constitute an Agreement between the Government of Hungary and the Government of the Lao People's Democratic Republic on the amendment of the Agreement. The amending Agreement shall be an integral part of the Agreement and shall come into force on the thirtieth (30<sup>th</sup>) day after receiving the last written notification through diplomatic channels by which the Parties have confirmed that their respective legal procedures required for the entry into force of the amendment of the Agreement have been completed.
+
+The Ministry of Foreign Affairs and Trade of Hungary avails itself of this opportunity to renew to the Ministry of Foreign Affairs of the Lao People's Democratic Republic the assurances of its highest consideration.
+
+---
+
+[^1]: A 2. § a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^2]: A 3. § a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^3]: A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^4]: Lásd a 12/2022. (III. 3.) KKM közleményt.
+[^5]: Az 1. melléklet a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^6]: A 2. melléklet a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^7]: A 3. melléklet a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.
+[^8]: A 4. melléklet a 4. § (2) bekezdése alapján a Módosítás harmadik bekezdésében foglaltak szerint lép hatályba. A 12/2022. (III. 3.) KKM közlemény alapján a hatálybalépés időpontja 2022. március 18.

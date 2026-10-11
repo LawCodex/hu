@@ -1,0 +1,53 @@
+---
+title: "293/2021. (V. 31.) Korm. rendelet a Kazincbarcikai Kórház Nonprofit Kft. 100%-os állami tulajdonban lévő gazdasági társaság által ellátott feladatok központi költségvetési szerv általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről"
+identifier: "293/2021. (V. 31.) Korm. rendelet"
+njt_id: "2021-293-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/293"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-05-31
+in_force_from: 2021-06-03
+last_amended: 2021-06-03
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-293-20-22"
+retrieved: 2026-10-12
+---
+
+# 293/2021. (V. 31.) Korm. rendelet a Kazincbarcikai Kórház Nonprofit Kft. 100%-os állami tulajdonban lévő gazdasági társaság által ellátott feladatok központi költségvetési szerv általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről
+
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 40. pont *a)* alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A–11/F. §-ában foglaltak alapján a Kazincbarcikai Kórház Nonprofit Kft. (székhely: 3700 Kazincbarcika, Május 1. út 56., cégjegyzékszám: 05-09-016481; adószáma: 14514166-2-05; főtevékenysége: fekvőbeteg-ellátás; a továbbiakban: gazdasági társaság) által ellátott feladatokat a (2) bekezdésben meghatározott központi költségvetési szerv részére kell átadni.
+
+(2) Az (1) bekezdés szerinti feladatokat a Kazincbarcikai Kórház (székhely: 3700 Kazincbarcika, Május 1. út 56., a továbbiakban: átvevő költségvetési szerv) veszi át. Az átadás-átvétellel kapcsolatos feladatok végrehajtásáért az egészségügyért felelős miniszter által kijelölt személy felelős.
+
+(3) Az államot az Áht. 11/C. § (2) bekezdése szerinti esetben az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) képviseli.
+
+(4) A gazdasági társaság által ellátott feladatok átvételének és a gazdasági társaság megszűnésének időpontja: 2021. június 30.
+
+## 2. §
+
+(1) A feladat átvételének időpontjától a gazdasági társaság Áht. 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyaiból, valamint az adósságot keletkeztető egyéb ügyleteiből származó valamennyi joga és kötelezettsége tekintetében az államot az OKFŐ képviseli.
+
+(2) Az átadás-átvétellel összefüggő feladatok tekintetében átvételi felelősként az OKFŐ jár el.
+
+(3) A feladat átvételének időpontjától az állam tulajdonába kerülő vagyon tekintetében a tulajdonosi jogokat az OKFŐ gyakorolja.
+
+## 3. §
+
+(1) Az átvett feladathoz kapcsolódó – az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1. § (2) bekezdés *s)* pontja szerinti kapacitás-nyilvántartásában (a továbbiakban: kapacitás-nyilvántartás) szereplő – szakellátási kapacitások és az ahhoz tartozó ellátási területek jogosultjának a feladat átvételének időpontjától az átvevő költségvetési szervet kell tekinteni.
+
+(2) Az országos tisztifőorvos a feladat átvételével egyidejűleg hivatalból rendelkezik a kapacitás-nyilvántartás (1) bekezdésben foglaltaknak megfelelő módosításáról.
+
+(3) A Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) a működési engedély kézhezvételétől számított öt napon belül kezdeményezi az átvevő költségvetési szerv finanszírozási szerződésének 2021. július 1-jei hatállyal történő módosítását. A gazdasági társaság 2021. május havi, valamint az azt követő teljesítménye után járó finanszírozási díjat a NEAK 2021. július 15-ig az átvevő költségvetési szerv részére utalja.
+
+## 4. §
+
+Az egészségügyi államigazgatási szerv – az e rendelet alapján bekövetkező változásokra tekintettel – 2021. július 1-jei hatállyal hivatalból módosítja az átvevő költségvetési szervvel szerződésben álló közreműködők működési engedélyét, azzal, hogy a közreműködő a működési engedélye módosításáig az e rendelet hatálybalépésekor hatályos működési engedélye alapján végezheti a működési engedélye szerinti tevékenységet.
+
+## 5. §
+
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.

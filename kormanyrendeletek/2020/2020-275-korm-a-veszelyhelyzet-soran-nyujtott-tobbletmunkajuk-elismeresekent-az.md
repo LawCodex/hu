@@ -1,0 +1,137 @@
+---
+title: "275/2020. (VI. 12.) Korm. rendelet a veszélyhelyzet során nyújtott többletmunkájuk elismeréseként az egészségügyi és egészségügyben dolgozókat érintő egyszeri rendkívüli juttatásról"
+identifier: "275/2020. (VI. 12.) Korm. rendelet"
+njt_id: "2020-275-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/275"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-06-12
+in_force_from: 2020-06-13
+last_amended: 2020-06-13
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-275-20-22"
+retrieved: 2026-10-12
+---
+
+# 275/2020. (VI. 12.) Korm. rendelet a veszélyhelyzet során nyújtott többletmunkájuk elismeréseként az egészségügyi és egészségügyben dolgozókat érintő egyszeri rendkívüli juttatásról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzetre (a továbbiakban: veszélyhelyzet) tekintettel az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) szerinti egészségügyi és egészségügyben dolgozó, valamint a (8)–(9) és (12) bekezdés szerinti személy egyszeri rendkívüli juttatásra (a továbbiakban: rendkívüli juttatás) jogosult a (2)–(16) bekezdésekben foglalt feltételek szerint.
+
+(2) A (3) bekezdés szerinti, valamint az (5)–(7) bekezdés szerinti egészségügyi dolgozó akkor jogosult a rendkívüli juttatásra, ha az Eütev. 7. § (2) bekezdés *a)–g)* és *j)* pontja szerinti jogviszony valamelyikében végez egészségügyi tevékenységet.
+
+(3) Rendkívüli juttatásra jogosult az az egészségügyi dolgozó, aki az alábbi, a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK) kötött érvényes finanszírozási szerződéssel rendelkező egészségügyi szolgáltató (a továbbiakban: közfinanszírozott egészségügyi szolgáltató) valamelyikénél foglalkoztatott:
+
+a) fekvő-, illetve járóbeteg-szakellátást nyújtó egészségügyi szolgáltató,
+
+b) egynapos sebészeti ellátást nyújtó egészségügyi szolgáltató,
+
+c) laboratóriumi ellátást nyújtó egészségügyi szolgáltató,
+
+d) művesekezelést végző szolgáltató,
+
+e) betegszállítást végző szolgáltató,
+
+f) az Országos Mentőszolgálat,
+
+g) az Országos Vérellátó Szolgálat.
+
+(4) Rendkívüli juttatásra jogosult az az egészségügyben dolgozó, aki a (3) bekezdés *a)–g)* pontjában meghatározott közfinanszírozott egészségügyi szolgáltatók valamelyikénél foglalkoztatásra irányuló jogviszonyban áll.
+
+(5) Rendkívüli juttatásra jogosult a (3) bekezdésben foglaltakon túl a közfinanszírozott egészségügyi szolgáltató alábbi egészségügyi dolgozója:
+
+a) a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 1. §-ában meghatározott egészségügyi dolgozó,
+
+b) a védőnői szolgálatban, valamint iskola-egészségügyi ellátásban foglalkoztatott védőnő,
+
+c) az iskolaorvosi ellátást végző egészségügyi szolgáltatónál foglalkoztatott főállású iskolaorvos,
+
+d) az otthoni hospice szolgálatok esetében a NEAK-kal kötött finanszírozási szerződésben is szereplő egészségügyi szakmai tevékenységet ellátó foglalkoztatott egészségügyi dolgozó,
+
+e) az otthoni szakápolási szolgálatok esetében a NEAK-kal kötött finanszírozási szerződésben is szereplő egészségügyi szakmai tevékenységet ellátó foglalkoztatott egészségügyi dolgozó,
+
+f) a Büntetés-végrehajtás Központi Kórháznál (Tököl) egészségügyi munkakörben foglalkoztatott, az Eütev. 4. § *a)* pontja szerinti egészségügyi dolgozó,
+
+g) az Igazságügyi Megfigyelő és Elmegyógyító Intézetnél egészségügyi munkakörben foglalkoztatott, az Eütev. 4. § *a)* pontja szerinti egészségügyi dolgozó,
+
+h) az egészségügyi szolgáltatás gyakorlásának általános feltételeiről, valamint a működési engedélyezési eljárásról szóló 96/2003. (VII. 15.) Korm. rendelet 2. § (1) bekezdés *k)* pontja szerinti azon közreműködő egészségügyi szolgáltató egészségügyi munkakörben foglalkoztatott, az Eütev. 4. § *a)* pont *aa)* alpontja szerinti egészségügyi dolgozója, amely szolgáltató a NEAK-kal szerződéses jogviszonyban nem áll, de közvetetten közfinanszírozott szolgáltatást nyújt a közfinanszírozott szolgáltató telephelyén, a közöttük fennálló közreműködői szerződés alapján.
+
+(6) Rendkívüli juttatásra jogosult a (3) és (5) bekezdésben foglaltakon túl
+
+a) az Állami Egészségügyi Ellátó Központ Családtervezési és Gyermekegészségügyi Szolgáltatási Osztály,
+
+b) a Nemzeti Népegészségügyi Központ, valamint
+
+c) a fővárosi és megyei kormányhivatal és a járási (kerületi) hivatal
+
+Eütev. 4. § *a)* pont *aa)* alpontja szerinti egészségügyi dolgozója.
+
+(7) Az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény (a továbbiakban: egyetem) esetében kizárólag a közfinanszírozott egészségügyi ellátásban közvetlenül részt vevő egészségügyi dolgozó, valamint a közfinanszírozott egészségügyi ellátást nyújtó intézmény működtetésében részt vevő egészségügyben dolgozó jogosult a rendkívüli juttatásra.
+
+(8) A (3)–(7) bekezdésben foglaltakon túl rendkívüli juttatásra jogosult az egyetemmel hallgatói jogviszonyban álló, a veszélyhelyzeti betegellátásban részt vevő orvostanhallgató.
+
+(9) A (3)–(8) bekezdésben foglaltakon túl rendkívüli juttatásra jogosult a közfeladatot ellátó honvédelmi szervezet (a továbbiakban: honvédelmi szervezet) állományába tartozó, védelem-egészségügyi feladatot ellátó és védelem-egészségügyben dolgozó személy.
+
+(10) A (3)–(9) bekezdésben foglaltakon túl rendkívüli juttatásra jogosult a belügyminiszter által irányított szervezet egészségügyi dolgozója.
+
+(11) A szakellátást nyújtó helyi önkormányzatok esetében kizárólag a közfinanszírozott egészségügyi ellátásban közvetlenül részt vevő egészségügyi dolgozók jogosultak a rendkívüli juttatásra.
+
+(12) Az aktív fekvőbeteg-szakellátást nyújtó közfinanszírozott egészségügyi szolgáltató főigazgatója és gazdasági igazgatója is jogosult a rendkívüli juttatásra.
+
+(13) A rendkívüli juttatásra való jogosultság feltétele a (2)–(7) és (11)–(12) bekezdésben foglaltakon túl, hogy az egészségügyi vagy egészségügyben dolgozó a (3)–(6) bekezdés szerinti bármely szolgáltatónál, illetve munkáltatónál 2020. április 1-jén és az igénylés kezdetének időpontjában is az Eütev. 7. § (2) bekezdés *a)–g)* és *j)* pontja szerinti jogviszony valamelyikében állt.
+
+(14) A rendkívüli juttatásra való jogosultság feltétele a (9) bekezdés szerinti személy esetében, hogy 2020. április 1-jén és az igénylés kezdetének időpontjában is a honvédelmi szervezet állományába tartozott.
+
+(15) A rendkívüli juttatásra való jogosultság feltétele a (10) bekezdés szerinti személy esetében, hogy 2020. április 1-jén és az igénylés kezdetének időpontjában is a belügyminiszter által irányított szervezet állományába tartozott.
+
+(16) A rendkívüli juttatásra való jogosultság akkor is fennáll, ha a (2)–(7) és (9)–(12) bekezdés szerinti jogosult a (13)–(15) bekezdésben foglalt időszakon belül halálozik el.
+
+## 2. §
+
+(1) A rendkívüli juttatás összege dolgozónként bruttó 500 000 forint, amely az érintett egészségügyi és egészségügyben dolgozót, valamint az 1. § (8)–(10) és (12) bekezdése szerinti személyt abban az esetben is csak egyszer illeti meg, ha egyidejűleg több jogviszony keretében foglalkoztatott.
+
+(2) Részmunkaidős foglalkoztatás esetén is az (1) bekezdés szerinti teljes összeg illeti meg az egészségügyi és egészségügyben dolgozót, valamint az 1. § (9), (10) és (12) bekezdése szerinti személyt rendkívüli juttatásként.
+
+(3) A rendkívüli juttatásra való jogosultságot az egészségügyi és egészségügyben dolgozó munkáltatója, illetve megbízója (a továbbiakban együtt: egészségügyi szolgáltató munkáltató) képviseletére jogosult személy állapítja meg. Az 1. § (5) bekezdés *h)* pontja szerinti közreműködőt igénybe vevő közfinanszírozott egészségügyi szolgáltató munkáltatót a telephelyén dolgozó, de a közreműködő által foglalkoztatott Eütev. 4. § *a)* pont *aa)* alpontja szerinti egészségügyi dolgozó tekintetében az igénylésre jogosult megbízónak kell tekintetni.
+
+(4) Az 1. § (5) bekezdés *h)* pontja szerinti közreműködő egészségügyi szolgáltató nyilatkozni köteles a közfinanszírozott egészségügyi szolgáltató munkáltató felé a rendkívüli juttatásra jogosult egészségügyi dolgozóinak létszámáról és az igényléshez szükséges adatairól.
+
+(5) Az 1. § (6) bekezdésében foglalt esetben a rendkívüli juttatásra való jogosultságot az országos tisztifőorvos, a kormányhivatalt vezető kormánymegbízott, illetve a munkáltató állapítja meg.
+
+(6) Az 1. § (8) bekezdésében foglalt esetben a rendkívüli juttatásra való jogosultságot az egyetem állapítja meg, és a rendkívüli juttatást a jogosult részére az egyetem köteles a (8) bekezdés szerinti határidőn belül kifizetni.
+
+(7) Az 1. § (9) és (10) bekezdésében foglalt esetben a rendkívüli juttatásra való jogosultságot a munkáltató állapítja meg.
+
+(8) A rendkívüli juttatást a jogosult részére 2020. július 1. napján kell kifizetni.
+
+(9) A rendkívüli juttatás nem része az alapbérnek (illetménynek), azt a mozgóbérelemek, valamint a távolléti díj számítása tekintetében nem kell figyelembe venni.
+
+(10) A rendkívüli juttatást az adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat a Kormány rendelete alapján megillető kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében nem kell figyelembe venni.
+
+## 3. §
+
+(1) Az egészségügyi szolgáltató munkáltató és az e rendeletben foglalt egyéb munkáltató (a továbbiakban: egyéb munkáltató) a rendkívüli juttatáshoz támogatásra (a továbbiakban: támogatás) jogosult, amely tartalmazza a szociális hozzájárulási adó összegét is. A támogatás iránti igényét az egészségügyi szolgáltató munkáltató és az egyéb munkáltató a NEAK által meghatározott, elektronikusan kitölthető kérelem formájában nyújthatja be 2020. június 19. napjáig.
+
+(2) Azon közfinanszírozott egészségügyi szolgáltató munkáltató, amely nem közfinanszírozott ellátást is nyújt, csak azon egészségügyi, illetve egészségügyben dolgozó után igényelheti a támogatást, aki a közfinanszírozott ellátásban részt vesz, vagy a közfinanszírozott telephelyen dolgozik.
+
+(3) A szakorvosképzésért felelős államigazgatási szerv által foglalkoztatott rezidens esetében a támogatást az elsődleges képzőhelyként megjelölt, közfinanszírozott egészségügyi szolgáltató jogosult igényelni.
+
+(4) Az (1)–(3) bekezdés szerint igényelt támogatást a NEAK 2020. június 26-áig utalványozza a közfinanszírozott egészségügyi szolgáltató munkáltatónak és az egyéb munkáltatónak.
+
+(5) A támogatást a közfinanszírozott egészségügyi szolgáltató munkáltató utalja a közreműködő egészségügyi szolgáltató részére, amely a jogosult részére a juttatást köteles 2020. július 1. napján kifizetni.
+
+(6) A támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú mellékletének Célelőirányzatok jogcímen belül a „2020. évi egyszeri rendkívüli juttatás fedezete” megnevezésű előirányzat szolgál.
+
+(7) Az egészségügyi szolgáltató munkáltató és az egyéb munkáltató a részére utalványozott támogatás felhasználásáról 2020. szeptember 30-ig köteles elszámolni a NEAK által meghatározott módon.
+
+(8) Az egészségügyi szolgáltató munkáltató és az egyéb munkáltató esetében a támogatás igénylését és felhasználását az egészségügyért felelős miniszter a NEAK közreműködésével és az 1. § (9) bekezdése szerinti jogosultak vonatkozásában a honvédelemért felelős miniszter közreműködésével, az 1. § (10) bekezdése szerinti jogosultak vonatkozásában a belügyminiszter közreműködésével ellenőrzi a támogatási összeg jogosult részére történő kifizetésének napjától számított 3 éven belül.
+
+(9) A jogellenesen felhasznált vagy fel nem használt támogatást az egészségügyi szolgáltató munkáltató és az egyéb munkáltató a NEAK erre irányuló felszólítását követő 15 napon belül köteles visszafizetni az Egészségbiztosítási Alap NEAK által megadott bevételi számlájára.
+
+## 4. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

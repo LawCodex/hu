@@ -1,0 +1,149 @@
+---
+title: "368/2023. (VIII. 7.) Korm. rendelet az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladat ellátásáról"
+identifier: "368/2023. (VIII. 7.) Korm. rendelet"
+njt_id: "2023-368-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2023/Korm/368"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2023-08-07
+in_force_from: 2023-08-08
+last_amended: 2023-08-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2023-368-20-22"
+retrieved: 2026-10-12
+---
+
+# 368/2023. (VIII. 7.) Korm. rendelet az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladat ellátásáról
+
+A Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. Általános rendelkezések
+
+### 1. §
+
+(1) E rendelet hatálya
+
+a) az európai uniós források felhasználásáért felelős miniszternek, a Honvédelmi Minisztériumnak, a Külgazdasági és Külügyminisztériumnak és az Igazságügyi Minisztériumnak az Európai Védelmi Alap végrehajtásával kapcsolatos nemzeti feladatának ellátására és az Európai Védelmi Alappal kapcsolatos célkitűzésének teljesítésére, valamint
+
+b) a védelmi fejlesztésekért felelős miniszternek (a továbbiakban: miniszter) az Európai Védelmi Alap végrehajtásával kapcsolatos feladat- és hatáskörében eljáró gazdasági társaság által ellátott közfeladatra
+
+terjed ki.
+
+(2) A Kormány az (1) bekezdés b) pontja szerinti feladatok ellátására az állam 100%-os tulajdonában és a Honvédelmi Minisztérium tulajdonosi joggyakorlása alatt álló Védelmi Innovációs Kutatóintézet Nonprofit Zártkörűen Működő Részvénytársaságot (a továbbiakban: VIKI NZrt.) jelöli ki.
+
+## 2. Értelmező rendelkezések
+
+### 2. §
+
+E rendelet alkalmazásában
+
+1\. *címzett:* támogatási vagy finanszírozási megállapodást aláíró, illetve támogatási vagy finanszírozási határozatról értesített jogalany,
+
+2\. *Európai Védelmi Alap:* az Európai Védelmi Alap létrehozásáról és az (EU) 2018/1092 rendelet hatályon kívül helyezéséről szóló, 2021. április 29-i európai parlament és a tanács (EU) 2021/697 rendelete által [a továbbiakban: (EU) 2021/697 rendelet] létrehozott pénzalap,
+
+3\. *jogalany:* uniós, nemzeti vagy nemzetközi jog alapján létrehozott jogi személy,
+
+4\. *kis- és középvállalkozás:*
+
+a) 250 főnél kevesebb embert foglalkoztató és 50 millió euró éves árbevételt, illetve 43 millió euró éves mérlegfőösszeget nem meghaladó,
+
+b) 50 főnél kevesebb embert foglalkoztató és 10 millió eurót meg nem haladó éves árbevételű, illetve mérlegfőösszegű vagy
+
+c) 10 főnél kevesebb embert foglalkoztató, 2 millió eurót meg nem haladó éves árbevételű, illetve mérlegfőösszegű
+
+vállalkozás,
+
+5\. *konzorcium:* egy megállapodás által szabályozott és az Európai Védelmi Alap szerinti valamely tevékenység végrehajtására létrejött, pályázók vagy címzettek legalább három különböző tagállamban vagy társult országban letelepedett és legalább három támogatható jogalanyból álló együttműködési csoportosulása,
+
+6\. *Nemzeti Hatóság:* az (EU) 2021/697 rendeletben meghatározott nemzeti hatósági feladatokat végző, közfeladat ellátására kijelölt szervezet,
+
+7\. *Nemzeti Összekötő Hálózat:* a tagállamok felelőssége és ellenőrzése alatt létrehozott nemzeti struktúrák által támogatott, az Európai Bizottság közreműködésével megszervezett, nemzeti szinten, professzionális támogató szolgálatként működő, az Európai Védelmi Alap végrehajtásának alapvető elemét képező, az Európai Védelmi Alapban való részvételről az érintett érdekelt félnek gyakorlati információt és segítséget nyújtó, a tagállamok által kinevezett személyekből álló szervezet,
+
+8\. *pályázó:* a pályázati felhívást követően vagy pályázati felhívás nélkül az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i európai parlament és a tanács (EU, Euratom) 2018/1046 rendelet 195. cikk e) pontja szerint az Alapból való támogatás iránti kérelmet benyújtó jogalany,
+
+9\. *Programbizottság:* az Európai Védelmi Alap végrehajtása érdekében az Európai Bizottság munkájának segítésére létrehozott, az Európai Unió tagállamainak delegáltjaiból álló testület.
+
+## 3. Az Európai Védelmi Alap végrehajtásával és a nemzeti célkitűzés teljesítésével kapcsolatos nemzeti feladat
+
+### 3. §
+
+(1) Az Európai Védelmi Alap eredményes végrehajtásával kapcsolatos nemzeti feladat ellátásának és célkitűzés teljesítésének, valamint a tagállami szakpolitikai álláspontok egyeztetésének érdekében a feladat- és hatáskörrel rendelkező miniszterek tárcaközi munkacsoportot működtetnek, amelynek titkársági feladatait a Honvédelmi Minisztérium látja el.
+
+(2) A Programbizottságban az állandó nemzeti képviseleti feladat ellátására a miniszter jelöl képviselőt.
+
+(3) A Honvédelmi Minisztérium nyomon követi a Programbizottság üléseit, valamint végrehajtja a tagállami tárgyalási álláspont kialakításának és a kapcsolódó nemzeti intézkedés meghozatalának tárcaközi koordinálását, különös tekintettel az Európai Védelmi Alap finanszírozásáról és a munkaprogramja elfogadásáról szóló Európai Bizottsági végrehajtási határozatra.
+
+(4) A Honvédelmi Minisztérium és a VIKI NZrt.
+
+a) szakértőt delegál a Programbizottságba,
+
+b) biztosítja a szakértő részvételét a Programbizottság ülésein,
+
+c) tervezi a szakértő ideiglenes külföldi kiküldetését, valamint
+
+d) a külföldi kiküldetés költségeit elszámolja az Európai Bizottság felé.
+
+(5) A VIKI NZrt.
+
+a) a többéves perspektíva,
+
+b) az éves munkaprogram,
+
+c) a pályázati felhívás és
+
+d) a finanszírozási határozat
+
+kidolgozása során szakmai álláspont kialakításával támogatja a Programbizottságban ellátott tagállami képviseleti tevékenységet. A VIKI NZrt. a Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Magyar Fejlesztésösztönző Iroda Nonprofit Kft.) bevonásával, szakértő delegálásával szakértői hálózatot alakít ki és működtet a versenypályázat tartalmi harmonizációjához és értékeléséhez.
+
+### 4. §
+
+(1) A Honvédelmi Minisztérium a VIKI NZrt. közreműködésével – az Európai Védelmi Alap végrehajtását szolgáló éves munkaprogramra alapozva – minden év december 31-ig nemzeti éves végrehajtási tervet készít az Európai Védelmi Alap végrehajtásával kapcsolatos nemzeti célkitűzés eredményes teljesítése érdekében. A nemzeti éves végrehajtási tervet a miniszter hagyja jóvá, és továbbítja az európai uniós források felhasználásáért felelős miniszternek az Európai Védelmi Alap nemzeti végrehajtásával kapcsolatos előkészítő költség és pályázati önerőforrás tervezése érdekében.
+
+(2) A nemzeti éves végrehajtási terv tartalmazza különösen
+
+a) az előző időszakban elért célkitűzés értékelését,
+
+b) az éves célkitűzés teljesülése érdekében ellátandó további feladatot,
+
+c) az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladat ellátását biztosító pénzügyi fedezeti tervet, valamint
+
+d) az adott évben pályázatot benyújtott jogalany fejlesztési pályázatához szükséges önerő-forrásigényt.
+
+(3) Az Európai Védelmi Alap vonatkozásában az (EU) 2021/697 rendelet által a Nemzeti Hatóság feladatkörébe utalt feladatokat – a védelmi innovációért felelős miniszteri biztos szakmai felügyelete mellett – a Honvédelmi Minisztérium a VIKI NZrt. közreműködésével látja el.
+
+(4) A VIKI NZrt.
+
+a) a Honvédelmi Minisztériummal együttműködve tanácsot ad a pályázónak az Európai Védelmi Alap adminisztratív eljárásával, szabályával és pályázati formai követelményével kapcsolatban, valamint az Európai Védelmi Alapban előirányzott intézkedéstípus hatókörével és módozatával kapcsolatban,
+
+b) személyes félfogadást biztosító és online ügyfélszolgálatot működtet a jogalany és a pályázó részére,
+
+c) online tájékoztató felületet üzemeltet az Európai Védelmi Alappal kapcsolatos tájékoztatás és adatközlés, valamint a nemzeti hatósági feladat ellátásának támogatása érdekében,
+
+d) részt vesz az Európai Bizottságnak a kis- és középvállalkozási szektor támogatása, tanácsadás és képzés biztosítása céljával meghirdetett pályázatán,
+
+e) nemzeti hatáskörben – az Európai Bizottság képviselőivel együttműködve – képzést szervez az Európai Védelmi Alap végrehajtása és a pályázati részvétel elősegítésére érdekében,
+
+f) gondoskodik a d) és az e) pont szerinti feladat ellátásához szükséges infrastrukturális feltételről,
+
+g) a Honvédelmi Minisztériummal együttműködve a nemzeti adminisztratív eljárással és feltétellel kapcsolatban tanácsot ad azon lehetséges pályázónak a támogatása érdekében, amelynek speciális követelménynek kell megfelelnie, ideértve a biztonsági akkreditációt és engedélyt, valamint a Nemzeti Hatóság által kibocsátott biztonsági igazoló dokumentumot igénylő intézkedést,
+
+h) éves Európai Védelmi Alap Információs Napot szervez,
+
+i) a Magyar Fejlesztésösztönző Iroda Nonprofit Kft. bevonásával közreműködik
+
+ia) a Nemzeti Összekötő Hálózat működtetésében, különösen a kis- és középvállalkozási szektor támogatását szolgáló nemzetközi és regionális együttműködési platformjának kialakításában és működtetésében,
+
+ib) a nemzeti, regionális és európai uniós együttműködési hálózat partnerségi szolgáltatásában való részvételben és
+
+ic) az ib) alpontban megfogalmazottak működtetésén keresztül a pályázó nemzeti és nemzetközi pályázati konzorcium alakításában a Honvédelmi Minisztérium irányításával.
+
+### 5. §
+
+A tagállami célkitűzés teljesítése érdekében az európai uniós források felhasználásáért felelős miniszter feladat- és hatáskörében eljárva – a honvédelmi miniszter bevonásával – az Európai Védelmi Alap nemzeti éves végrehajtási terve alapján keret forrástervet készít az Európai Védelmi Alap végrehajtásának előkészítő költsége és a pályázati önerő biztosítása érdekében.
+
+## 4. Záró rendelkezések
+
+### 6. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.

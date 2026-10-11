@@ -1,0 +1,295 @@
+---
+title: "199/2024. (VII. 29.) Korm. rendelet a polgári nemzetbiztonsági szolgálatok nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről"
+identifier: "199/2024. (VII. 29.) Korm. rendelet"
+njt_id: "2024-199-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2024/Korm/199"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2024-07-29
+in_force_from: 2024-07-30
+last_amended: 2025-03-01
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2024-199-20-22"
+retrieved: 2026-10-12
+---
+
+# 199/2024. (VII. 29.) Korm. rendelet a polgári nemzetbiztonsági szolgálatok nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra vonatkozó eltérő rendelkezésekről
+
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény 59. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A rendelet hatálya
+
+### 1. §
+
+E rendelet hatálya
+
+a) az Információs Hivatalra,
+
+b) az Alkotmányvédelmi Hivatalra,
+
+c) a Nemzetbiztonsági Szakszolgálatra és
+
+d) a Nemzeti Információs Központra
+
+[az a)–d) pontban foglaltak a továbbiakban együtt: Szolgálatok] terjed ki.
+
+### 2. §
+
+(1) E rendeletet az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 3. § (2) bekezdése szerinti, a Szolgálatok nemzetbiztonsági célú és rendeltetésű építményeit érintő állami építési beruházásokra (a továbbiakban: nemzetbiztonsági célú beruházás) kell alkalmazni.
+
+(2) A nemzetbiztonsági célú beruházások tekintetében a Szolgálatok az Ábtv. alapelveivel és céljaival összhangban, e rendeletben meghatározottak figyelembevételével végzik az állami építési beruházásaikkal összefüggésben felmerülő, az előkészítéssel, a tervezéssel, a megvalósítással, az üzemeltetéssel, a fenntartással, a működtetéssel, és az ezekhez kapcsolódó nyilvántartással, valamint beszámolási kötelezettséggel és adatszolgáltatással kapcsolatos feladataikat.
+
+(3) A nemzetbiztonsági célú beruházás esetén az Ábtv. 26. § (3) és (4) bekezdésében foglaltaktól eltérően nem kell alkalmazni az állami beruházásokért felelős miniszter irányítása alatt álló önálló költségvetési fejezetre vonatkozó rendelkezéseket, a Szolgálatok nemzetbiztonsági célú beruházásainak költségvetési fedezetét központi költségvetési forrás, továbbá az érintett polgári nemzetbiztonsági szolgálat saját költségvetése, a Kormány egyedi döntése alapján nyújtott forrás, illetve pályázaton elnyert forrás terhére biztosítja.
+
+### 3. §
+
+Az Ábtv. és a 2–4. alcím rendelkezéseit – e rendelet eltérő szabályai szerint a szakpolitikai-ágazati beruházási koncepcióra, ágazati beruházási tervre és az állami építési beruházási keretprogramra (a továbbiakban: keretprogram) vonatkozó előírások kivételével – nem kell alkalmazni azon nemzeti vagy uniós közbeszerzési értékhatárt elérő vagy meghaladó nemzetbiztonsági célú beruházásra, amely
+
+a) minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet alapján valósítandó meg,
+
+b) az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 225/2016. (VII. 29.) Korm. rendelet alapján valósítandó meg,
+
+c) külön jogszabályban foglaltak szerint nem tartozik sem a közbeszerzésekről szóló 2015. évi CXLIII. törvény, sem a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá, vagy
+
+d) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 63. §-a szerinti speciális működési kiadás felhasználásával valósul meg.
+
+## 2. A nemzetbiztonsági célú beruházásokra vonatkozó, az állami építési beruházásokkal kapcsolatos általános rendelkezésektől eltérő közös szabályok
+
+### 4. §
+
+(1) A nemzetbiztonsági célú beruházások megvalósításához szükséges közbeszerzési eljárásokat az érintett polgári nemzetbiztonsági szolgálat saját hatáskörben – az Ábtv. előírásaira figyelemmel – folytatja le.
+
+(2) Az Ábtv. 1. § (3) bekezdésétől eltérően a társadalmi konszenzus érdekében a javaslat- és véleménynyilvánítás lehetőségét, továbbá az Ábtv. 1. § (4) bekezdésétől eltérően a végrehajtás során a nyilvánosság és a közösségi ellenőrzés lehetőségének biztosítását – a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 51. § (1) bekezdésében foglaltakra tekintettel – csak a nemzetbiztonsági célú beruházással közvetlenül érintettek számára kell biztosítani, oly módon, hogy az ne veszélyeztesse Magyarország nemzetbiztonsági érdekeit.
+
+(3) Az Ábtv. 1. § (4) bekezdésében meghatározott nyilvánosság és közösségi ellenőrzés lehetőségét a beruházási döntéseket megelőzően nem kell biztosítani.
+
+### 5. §
+
+A nemzetbiztonsági célú beruházásokra az Ábtv. I. Fejezetének és II. Fejezetének rendelkezéseit a 6–22. §-ban meghatározott eltérésekkel kell alkalmazni.
+
+### 6. §
+
+A nemzetbiztonsági célú beruházásokat az Ábtv. 1. § (2) bekezdés a) pontja szerinti állami építési beruházási keretprogramon belül elkülönítve, a minősített adat védelméről szóló 2009. évi CLV. törvény rendelkezéseire figyelemmel kell nyilvántartani.
+
+### 7. §
+
+Az Ábtv. 9. § (1) bekezdése szerinti szakpolitikai-ágazati beruházási koncepció, ágazati beruházási terv és az Ábtv. 10. § (1) bekezdés a) pontja szerinti keretprogram a Szolgálatok tekintetében polgári nemzetbiztonsági szolgálatonként összevontan, azonos részletezettségben tartalmazza a beruházásokkal kapcsolatos információkat.
+
+### 8. §
+
+A Szolgálatok a nemzetbiztonsági célú beruházások tekintetében az Ábtv. 10. § (3) bekezdése szerinti költséginformációs rendszerben a feladataikat az alábbi eltéréssel hajtják végre:
+
+a) a költséginformációs rendszerbe nemzetbiztonsági célú beruházásról minősített adatot tartalmazó információt nem töltenek fel,
+
+b) a minősített adatot nem tartalmazó nemzetbiztonsági célú beruházások esetében a költségekről és műszaki adatokról kizárólag összesített és korlátozott tartalmú adatszolgáltatást nyújtanak.
+
+### 9. §
+
+Az Ábtv. 11. § (1) bekezdése szerinti, állami építési beruházások monitoringja céljából kiépített egységes informatikai rendszer keretében működtetett központi informatikai rendszer és építményinformációs modell (BIM) alapú műszaki nyomonkövetési rendszerben a nemzetbiztonsági célú beruházással kapcsolatosan a költségekről és műszaki adatokról kizárólag összesített és korlátozott tartalmú adatokat elkülönített módon, zárt rendszerben tarthatnak nyilván.
+
+### 10. §
+
+(1) Az Ábtv. 11. § (2) bekezdésében foglaltaktól eltérően a nemzetbiztonsági célú beruházások monitoringja céljából, nettó 500 millió forint becsült értéket elérő vagy meghaladó nemzetbiztonsági célú beruházás esetén polgári nemzetbiztonsági szolgálatonként tanácsadói feladatot ellátó testület (a továbbiakban: monitoring bizottság) működik.
+
+(2) A polgári nemzetbiztonsági szolgálatnál működő monitoring bizottságokra az alábbi, az Ábtv. 11. §-ától eltérő rendelkezések alkalmazandóak:
+
+a) a monitoring bizottság elnöke
+
+aa) az 1. § a) pontja szerinti polgári nemzetbiztonsági szolgálat tekintetében a polgári hírszerzési tevékenység irányításáért felelős miniszter,
+
+ab) az 1. § b) és c) pontja szerinti polgári nemzetbiztonsági szolgálat tekintetében a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter vagy
+
+ac) az 1. § d) pontja szerinti polgári nemzetbiztonsági szolgálat tekintetében a miniszterelnök nemzetbiztonsági főtanácsadója
+
+által kijelölt személy,
+
+b) a monitoring bizottság társelnök nélkül működik,
+
+c) az adott monitoring bizottság állandó tagja a nemzetbiztonsági célú beruházással érintett polgári nemzetbiztonsági szolgálat főigazgatója vagy az általa kijelölt személy,
+
+d) a monitoring bizottságba az államháztartásért felelős miniszter tagot nem delegál,
+
+e) a monitoring bizottság további tagjait a bizottság elnöke jelöli ki,
+
+f) a monitoring bizottság figyelemmel kíséri a monitoring bizottság elnöke feladatkörébe tartozó nemzetbiztonsági célú beruházások előkészítését és megvalósítását, különös tekintettel az érintett polgári nemzetbiztonsági szolgálat számára biztosított központi költségvetési források felhasználására és a műszaki tartalomnak a szakpolitikai-ágazati beruházási koncepcióval és az ágazati beruházási tervvel való összhangjára,
+
+g) a monitoring bizottság információkat kérhet a polgári nemzetbiztonsági szolgálat nemzetbiztonsági célú beruházásairól, valamint ajánlásokat fogalmazhat meg az érintett, 14. § szerinti projektszervezet számára,
+
+h) a monitoring bizottság jogosult feladatai ellátása céljából a hatáskörébe tartozó, a nemzetbiztonsági célú beruházásra vonatkozó adatok és dokumentumok megismerésére,
+
+i) a monitoring bizottság üléseit az elnök vezeti,
+
+j) a monitoring bizottság döntéseit az elnök – a nemzetbiztonsági célú beruházással érintett polgári nemzetbiztonsági szolgálat főigazgatója egyetértésével – hozza meg,
+
+k) a monitoring bizottság dönt a koncepcióterv elfogadásáról, nyomon követi a kivitelezési munkák előrehaladását és szükség esetén ajánlást tesz a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszternek vagy a polgári hírszerzési tevékenység irányításáért felelős miniszternek, különösen a szakpolitikai-ágazati beruházási koncepciókkal, az ágazati beruházási tervvel, a beruházás terveivel való összhang megtartása és a költségvetési szempontoknak való megfelelés érdekében.
+
+### 11. §
+
+(1) A nemzetbiztonsági célú beruházással érintett ingatlan az Ábtv. 12. §-ában foglaltaktól eltérően
+
+a) az érintett polgári nemzetbiztonsági szolgálat tulajdonosi joggyakorlásában vagy vagyonkezelésében marad, továbbá
+
+b) a beruházás keretében felépített új építmény és létrejövő új ingó vagyonelem is osztja a beruházással érintett ingatlan jogi sorsát.
+
+(2) A nemzetbiztonsági célú beruházással érintett ingatlan tulajdonosi joggyakorlója vagy vagyonkezelője kizárólagosan gyakorolja az állami építési beruházás megvalósításához szükséges építtetői tulajdonosi joggyakorlásra vonatkozó jogot, vagyonkezelő esetén az állami tulajdonú ingatlanok tulajdonosi joggyakorlója által adott meghatalmazás alapján.
+
+### 12. §
+
+A nemzetbiztonsági célú beruházásokra az Ábtv. 13. §-ában meghatározott Állami Beruházási Érdekegyeztető Tanács hatásköre nem terjed ki.
+
+### 13. §
+
+Az Ábtv. 14. §-a rendelkezéseinek alkalmazásakor a felek a konzorciumi szerződés tartalmának meghatározása során figyelembe veszik Magyarország nemzetbiztonsági érdekeit.
+
+### 14. §
+
+(1) Az Ábtv. 15. §-ában foglalt projektszervezet létesítésének szabályait a nemzetbiztonsági célú beruházások tekintetében a (2)–(4) bekezdés szerinti eltérésekkel kell alkalmazni.
+
+(2) Az adott nemzetbiztonsági célú beruházás vonatkozásában az Ábtv. 15. § (1) bekezdésében meghatározott célból és feltételekkel az érintett polgári nemzetbiztonsági szolgálat a 10. § szerinti monitoring bizottság működése esetén hozza létre a projektszervezetet.
+
+(3) A (2) bekezdés szerinti projektszervezet az Ábtv. 15. § (2) bekezdésében meghatározott tagokból áll, azzal, hogy az üzemeltető is a projektszervezet tagja, valamint tervellenőr nem kerül kijelölésre.
+
+(4) A nemzetbiztonsági célú beruházások esetében az Ábtv. 15. § (3) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
+
+### 15. §
+
+(1) A nemzetbiztonsági célú beruházás építtetője – az Ábtv. 16. § (1) bekezdésében foglalt szabályoktól eltérően – minden esetben az érintett polgári nemzetbiztonsági szolgálat, azzal, hogy ha a 14. § szerinti projektszervezet létrehozásra kerül, akkor az Ábtv. 16. § (2) bekezdésének szabályait alkalmazni kell.
+
+(2) A nemzetbiztonsági célú beruházás előkészítése és megvalósítása keretében szükséges hatósági engedélyezési eljárásokban az érintett polgári nemzetbiztonsági szolgálat kérelmét soron kívül kell elbírálni.
+
+### 16. §
+
+Nemzetbiztonsági célú beruházások esetén – az Ábtv. 17. § (1) bekezdésében foglaltaktól eltérően – az építtető
+
+a) lebonyolítót,
+
+b) tervezőt,
+
+c) műszaki ellenőrt,
+
+d) költségszakértőt és
+
+e) kivitelezőt
+
+jelöl ki vagy bíz meg.
+
+### 17. §
+
+(1) A nemzetbiztonsági célú beruházás 16. § a) pontja, valamint az Ábtv. 16. § (2) bekezdése szerinti résztvevője
+
+a)[^1] az érintett polgári nemzetbiztonsági szolgálattal nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban álló,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló vagy
+
+c) polgári jogi jogviszony keretében foglalkoztatott
+
+személy lehet.
+
+(2) Az (1) bekezdés szerinti személyek tevékenységükre nézve kötelesek titoktartási nyilatkozatot tenni.
+
+### 18. §
+
+(1) A nemzetbiztonsági célú beruházás 16. § c) pontja szerinti résztvevője az Ábtv. 20. § (1) bekezdésében foglaltaktól eltérően
+
+a)[^2] az érintett polgári nemzetbiztonsági szolgálattal nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban álló személy,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy vagy
+
+c) polgári jogi jogviszony keretében megbízott személy vagy gazdasági társaság
+
+lehet.
+
+(2) Az (1) bekezdés szerinti személyek a tevékenységükre nézve kötelesek titoktartási nyilatkozatot tenni.
+
+### 19. §
+
+(1) A nemzetbiztonsági célú beruházás 16. § d) pontja szerinti résztvevője – amennyiben az alkalmazásra kerül – az építtető döntése alapján
+
+a)[^3] az érintett polgári nemzetbiztonsági szolgálattal nemzetbiztonsági szolgálati jogviszonyban, nemzetbiztonsági alkalmazotti jogviszonyban személy,
+
+b) 100%-os állami tulajdonú gazdasági társasággal munkavégzésre irányuló jogviszonyban álló személy vagy
+
+c) polgári jogi jogviszony keretében foglalkoztatott személy
+
+lehet.
+
+(2) Az (1) bekezdés szerinti személyek a tevékenységükre nézve kötelesek titoktartási nyilatkozatot tenni.
+
+### 20. §
+
+(1) A nemzetbiztonsági célú beruházás megvalósítása eredményeként létrejövő építmény üzemeltetője az érintett polgári nemzetbiztonsági szolgálat.
+
+(2) Az előkészítési szakaszba a 16. § szerinti személyeken kívül be kell vonni az (1) bekezdés szerinti üzemeltetőt is.
+
+### 21. §
+
+(1) Az Ábtv. 19. § (8) bekezdésétől eltérően a tervező közreműködését a lebonyolító, a műszaki ellenőr, a kivitelező nyilatkozatainak beszerzését követően az Ábtv. szerinti miniszter által kiadott rendeletben meghatározott szempontok szerint utólag az Ábtv. szerinti miniszter helyett az érintett Szolgálat főigazgatója értékeli.
+
+(2) Az Ábtv. 24. § (1) bekezdésétől eltérően a kivételi körbe a polgári nemzetbiztonsági szolgálattal jogviszonyban álló személyek tartoznak.
+
+(3) Az Ábtv. 24. § (5)–(11) bekezdésétől eltérően a nemzetbiztonsági célú beruházások esetén az összeférhetetlenséggel kapcsolatos ügyekben a polgári nemzetbiztonsági szolgálat főigazgatója jár el.
+
+### 22. §
+
+(1) A nemzetbiztonsági célú beruházások tekintetében az Ábtv. 9. alcímében foglalt rendelkezéseket a (2)–(5) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) A szakpolitikai-ágazati beruházási koncepció Kormány általi jóváhagyását követően előkészítési dokumentáció nem készül.
+
+(3) Magyarország nemzetbiztonsági érdekeit sértő vagy veszélyeztető esemény, a Szolgálatok műveleti képességeinek fejlesztése következtében szükségessé váló előre nem látható építési beruházás esetén központi költségvetési forrás biztosítható a keretprogramban nem szereplő nemzetbiztonsági célú beruházásokra.
+
+(4) A nemzetbiztonsági célú beruházások előkészítésének második üteméhez és megvalósításához biztosítandó központi költségvetési fedezetet a Szolgálatoknak saját költségvetésükben kell megtervezni és elszámolni.
+
+(5) A keretprogram keretében megvalósuló nemzetbiztonsági célú beruházások polgári nemzetbiztonsági szolgálatonként összesítve, egy soron jelennek meg az állami építési beruházások nyilvános listájában.
+
+## 3. A nemzetbiztonsági célú beruházásokra vonatkozó, az állami magasépítési beruházással és a sajátos építményfajtákat érintő állami építési beruházásokkal kapcsolatos rendelkezésektől eltérő szabályok
+
+### 23. §
+
+A nemzetbiztonsági célú beruházásokra az Ábtv. III. és IV. Fejezetének rendelkezéseit a 24–28. §-ban meghatározott eltérésekkel kell alkalmazni.
+
+### 24. §
+
+Az Ábtv. III. és IV. Fejezetében, valamint az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény szerinti mentesítés, valamint kedvezmény adásának részletes szabályairól szóló 148/2024. (VI. 28.) Korm. rendeletben szabályozott eljárások során – az Ábtv. 44. § (6) bekezdésének kivételével – a minisztérium helyett az érintett polgári nemzetbiztonsági szolgálat, a miniszter helyett az érintett polgári nemzetbiztonsági szolgálat főigazgatója jár el.
+
+### 25. §
+
+(1) A nemzetbiztonsági célú és rendeltetésű építményeket érintő állami magasépítési beruházás (a továbbiakban: nemzetbiztonsági célú magasépítési beruházás) koncepciótervének megalkotása, valamint a kivitelezési dokumentáció elkészítése egy tervezési folyamatban valósul meg.
+
+(2) Az Ábtv. 35. §-ában foglaltaktól eltérően a nemzetbiztonsági célú magasépítési beruházás tervezőjének kiválasztására tervpályázatot nem kell kiírni.
+
+(3) A nemzetbiztonsági célú magasépítési beruházások esetén koncepciótervet csak új építmény építésére irányuló beruházásnál kell készíteni, ha annak földszinti bruttó alapterülete meghaladja az 1500 m<sup>2</sup>-t, és az épülethez csatlakozó rendezett terepszint alatti szintszám 1 szintnél több, vagy a terepszint feletti építmény az OTÉK szerinti középmagas vagy magasépítmény kategóriába tartozik.
+
+### 26. §
+
+Az Ábtv. 43. § (4) bekezdésétől eltérően az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendeletben előírt statisztikai adatszolgáltatási kötelezettséget a nemzetbiztonsági célú magasépítési beruházás tekintetében a Szolgálatok tekintetében polgári nemzetbiztonsági szolgálatonként összevontan kell teljesíteni.
+
+### 27. §
+
+A nemzetbiztonsági célú magasépítési beruházás során a kivitelező kiválasztására irányuló közbeszerzési eljárásban az Ábtv. 44. § (2) és (5) bekezdésében foglaltak nem alkalmazandók.
+
+### 28. §
+
+(1) A beruházások kivitelezésére irányuló kivitelezési szerződéseket, az építtető döntése alapján vagy az állami beruházásokért felelős miniszter által vezetett minisztérium honlapján közzétett szerződésminták vagy saját szerződésminta alkalmazásával kell megkötni.
+
+(2) Saját szerződésminta alkalmazása esetén az Ábtv. 46. § (2) bekezdésében foglaltakra figyelemmel kell a szerződés tartalmát meghatározni.
+
+(3) Az Ábtv. 46. § (2) bekezdésében foglaltakon túl a kivitelezési szerződésnek tartalmaznia kell a nemzetbiztonsági célú magasépítési beruházás megvalósításával kapcsolatos, az érintett polgári nemzetbiztonsági szolgálat sajátos biztonsági és titokvédelmi szabályait.
+
+## 4. Adat- és minősített adatvédelmi szabályok
+
+### 29. §
+
+Az állami beruházásokért felelős miniszter a Szolgálatok e rendelet hatálya alá tartozó beruházásaival kapcsolatos adatairól – az Ábtv.-ben előírt adatszolgáltatási kötelezettségtől eltérően – az államháztartásért felelős miniszteren és a fejezetet irányító szerv erre feljogosított munkatársain kívül egyéb szervnek, személynek adatot nem szolgáltathat. A beruházások állapotáról – az államháztartásért felelős miniszter és a fejezetet irányító szerv kivételével – kizárólag a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, illetve a polgári hírszerzési tevékenység irányításáért felelős miniszter engedélyével közölhető adat.
+
+## 5. Záró rendelkezések
+
+### 30. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+---
+
+[^1]: A 17. § (1) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
+[^2]: A 18. § (1) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^3]: A 19. § (1) bekezdés a) pontja a 24/2025. (II. 27.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.

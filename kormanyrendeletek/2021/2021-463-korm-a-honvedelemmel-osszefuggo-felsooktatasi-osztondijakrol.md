@@ -1,0 +1,143 @@
+---
+title: "463/2021. (VIII. 5.) Korm. rendelet a honvédelemmel összefüggő felsőoktatási ösztöndíjakról"
+identifier: "463/2021. (VIII. 5.) Korm. rendelet"
+njt_id: "2021-463-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2021/Korm/463"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2021-08-05
+in_force_from: 2021-08-06
+last_amended: 2025-08-08
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2021-463-20-22"
+retrieved: 2026-10-12
+---
+
+# 463/2021. (VIII. 5.) Korm. rendelet a honvédelemmel összefüggő felsőoktatási ösztöndíjakról
+
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. A honvédelmi árvák felsőoktatási ösztöndíja
+
+### 1. §[^1]
+
+A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklete szerinti felsőoktatási intézményben (a továbbiakban: magyarországi államilag elismert felsőoktatási intézmény) nappali tagozaton első, felsőfokú végzettség megszerzésére irányuló, illetve nem Magyarországon működő felsőoktatási intézmény nappali tagozaton első, felsőfokú végzettség megszerzésére irányuló tanulmányokat folytató, elhunyt hivatásos, szerződéses, a jogszabály szerinti honvédelmi szolgálati juttatásban részesülő vagy nyugállományú katona árvája (a továbbiakban: árva) tanulmányi ösztöndíjra (a továbbiakban: árvák ösztöndíja) pályázatot nyújthat be az ezen alcímben meghatározottak szerint.
+
+### 2. §
+
+(1) Az árvák ösztöndíjára – a (2) bekezdésben foglalt kivétellel – az az árva pályázhat (a továbbiakban ezen alcím vonatkozásában: pályázó), aki
+
+a) a társadalombiztosítási nyugdíjrendszer keretében megállapított árvaellátásra jogosult,
+
+b) magyarországi államilag elismert felsőoktatási intézményben, illetve nem Magyarországon működő felsőoktatási intézmény nappali rendszerű képzésén tanulmányokat folytat, és
+
+c) a pályázat benyújtását megelőző félévben a korrigált kreditindex alapján meghatározott tanulmányi eredménye (a továbbiakban: tanulmányi eredmény) eléri a 3,00-t.
+
+(2) Magyarországi államilag elismert felsőoktatási intézményben, illetve nem Magyarországon működő felsőoktatási intézmény nappali rendszerű képzésén tanulmányait első félévben megkezdő pályázó a tanulmányi eredmény igazolása hiányában is pályázhat.
+
+(3) A pályázó árvák ösztöndíjára való jogosultságát nem zárja ki, ha a pályázó egyidejűleg más ösztöndíjban is részesül.
+
+### 3. §
+
+(1)[^2] Az árvák ösztöndíja pályázat az árvaellátásra való jogosultság megállapításától kezdve az adott naptári évben folyamatosan benyújtható a Magyar Honvédség központi személyügyi feladatainak ellátására kijelölt szervezeti egysége (a továbbiakban: MH központi személyügyi feladatainak ellátására kijelölt szervezeti egysége) részére.
+
+(2) A pályázónak az árvák ösztöndíja pályázathoz mellékelnie kell az illetékes nyugdíjbiztosítási igazgatási szerv árvaellátásra való jogosultság megállapításáról hozott határozatának másolatát.
+
+### 4. §
+
+A beérkezett árvák ösztöndíja pályázatot a 2. § (1) bekezdése szerinti feltételek fennállása esetén elfogadottnak kell tekinteni. Az árvák ösztöndíja pályázat elbírálási határideje a beérkezés napjától számított 30 nap.
+
+### 5. §[^3]
+
+Az árvák ösztöndíjának havi mértéke nyolcvannyolcezer forint, amelynek folyósítása a tanulmányi félév teljes időszakában havonta – a tanulmányi szüneteket is ideértve – történik.
+
+### 6. §
+
+(1)[^4] Az árvák ösztöndíja a tanulmányi évben – az adott félév teljes idejére – annak az árvának folyósítható, aki legkésőbb az adott félév megkezdését követő 30 napon belül az MH központi személyügyi feladatainak ellátására kijelölt szervezeti egysége részére megküldi
+
+a) – a 2. § (2) bekezdésében foglalt kivétellel – az előző tanulmányi félév tanulmányi teljesítményét igazoló okmány fénymásolatát és
+
+b)[^5] a hallgatói jogviszony igazolása céljából kiadott, adott félévre az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolványának másolatát vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatát.
+
+(2) Azon pályázó részére, aki az adott félév megkezdését követő 30 nap után küldi meg az (1) bekezdés a) és b) pontja szerinti igazolást, csak az elbírálást követő hónap első napjától folyósítható az árvák ösztöndíja.
+
+(3) A 25. életévét betöltött pályázó részére, ha az (1) bekezdés a) és b) pontja szerinti igazolást az adott félév megkezdését követő 30 napon belül megküldi, de az árvaellátás méltányosságból történő folyósításának engedélyezéséről szóló határozatot csak a 30. napot követően pótolja, az árvák ösztöndíja az adott félév első napjától folyósítható.
+
+(4)[^6] Az MH központi személyügyi feladatainak ellátására kijelölt szervezeti egysége a felsőoktatási tanulmányokat folytató árvák ösztöndíjára jogosultat minden év január 15-ig és augusztus 15-ig tájékoztatja az igazolásbenyújtási kötelezettségéről.
+
+### 7. §
+
+Az árvák ösztöndíjára jogosult, külföldön nappali képzésben felsőoktatási tanulmányokat folytató pályázó tekintetében a 2. §-ban és a 6. § (1) bekezdésében foglaltak a külföldi oktatási rendszer sajátosságaira figyelemmel megfelelően alkalmazandók.
+
+## 2. A Lippai Balázs esélyegyenlőségi ösztöndíj
+
+### 8. §
+
+(1) A magyarországi államilag elismert felsőoktatási intézmény nappali tagozatán első felsőfokú tanulmányokat folytató, hátrányos helyzetű magyar állampolgár, a honvédelmi nevelés és a honvédelem iránti elkötelezettség érdekében Lippai Balázs esélyegyenlőséget elősegítő ösztöndíjra (a továbbiakban: esélyegyenlőségi ösztöndíj) pályázhat.
+
+(2) Egy tanulmányi félévben legfeljebb 30 fő részesíthető az esélyegyenlőségi ösztöndíjban.
+
+(3) Ezen alcím alkalmazásában hátrányos helyzetű – korhatárra tekintet nélkül – az a személy, aki a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint hátrányos helyzetűnek vagy halmozottan hátrányos helyzetűnek minősül.
+
+### 9. §
+
+(1) Az esélyegyenlőségi ösztöndíjban – a (3) bekezdésben foglalt kivétellel – az a hátrányos helyzetű magyar állampolgár (a továbbiakban ezen alcím vonatkozásában: pályázó) részesülhet, aki
+
+a) nappali tagozaton felsőfokú tanulmányokat folytat,
+
+b) a pályázat benyújtását megelőző tanulmányi félévben tanulmányi eredménye eléri a 3,00-t, és
+
+c) a honvédelmi ismeretek tantárgyat a pályázat benyújtásának félévében felvette.
+
+(2) A pályázó esélyegyenlőségi ösztöndíjra jogosultságát nem zárja ki, ha a pályázó egyidejűleg más ösztöndíjra is jogosult.
+
+(3)[^7] Az esélyegyenlőségi ösztöndíjban nem részesülhet a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 1. § (1) bekezdése szerinti honvéd.
+
+### 10. §[^8]
+
+Az esélyegyenlőségi ösztöndíj havi mértéke harmincötezer forint. Az esélyegyenlőségi ösztöndíjra a pályázó a tanulmányi év első félévében szeptember 1-jétől kezdődően 5 hónapig, míg a tanulmányi év második félévében február 1-jétől kezdődően 5 hónapig jogosult.
+
+### 11. §
+
+A pályázókat tanulmányi eredményük alapján sorrendbe állítva kell elbírálni. Ha a pályázatra a 8. § (2) bekezdésében megjelölt ösztöndíjban részesíthetők számánál több pályázat érkezik, az elbírálásnál előnyben kell részesíteni a halmozottan hátrányos helyzetű pályázókat.
+
+### 12. §
+
+A pályázat eredménytelen, ha arra egyetlen érvényes pályázat sem érkezik. Eredménytelen pályázat esetében a honvédelemért felelős miniszter újabb pályázat kiírásáról dönthet.
+
+## 3. Záró rendelkezések
+
+### 13. §
+
+(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 2. alcím 2021. szeptember 1-jén lép hatályba.
+
+### 14. §
+
+(1) Az e rendelet hatálybalépését követő 30 napon belül a 2021. február 1-je és e rendelet hatálybalépése közötti időszakra árvák ösztöndíjára az e rendelettel megállapított szabályok szerint pályázat nyújtható be.
+
+(2) A 2021. február 1-je és e rendelet hatálybalépése közötti időszakra járó árvák ösztöndíját egy összegben, legkésőbb 2021. október 5-éig kell a jogosultnak kifizetni.
+
+### 15. §[^9]
+
+(1) E rendeletnek a honvédelmi ösztöndíjakat szabályozó egyes kormányrendeletek módosításáról szóló 251/2025. (VIII. 7.) Korm. rendelettel (a továbbiakban: MódR1.) módosított 5. §-át, valamint 10. §-át 2025. február 1-jétől kell alkalmazni.
+
+(2) E rendeletnek a MódR1. által módosított 5. §-a, valamint 10. §-a alapján a 2025. február 1. és a MódR1. hatálybalépése[^10] közötti időszakra járó Lippai Balázs esélyegyenlőségi és a honvédelmi árvák felsőoktatási ösztöndíjának különbözetét egy összegben, legkésőbb a MódR1. hatálybalépését követő második hónap 10. napjáig kell a hallgató részére kifizetni.
+
+(3) Ha a Lippai Balázs esélyegyenlőségi ösztöndíjban, illetve a honvédelmi árvák felsőoktatási ösztöndíjában részesülő hallgatói jogviszonya a MódR1. hatálybalépése[^11] előtt szűnt meg, akkor a részére – a MódR1. által módosított 5. §, valamint 10. § alapján – megállapított ösztöndíj időarányos részét egy összegben, legkésőbb a MódR1. hatálybalépését követő második hónap 10. napjáig kell kifizetni.
+
+---
+
+[^1]: Az 1. § a 40/2023. (II. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § a 251/2025. (VIII. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^4]: A 6. § (1) bekezdés nyitó szövegrésze a 251/2025. (VIII. 7.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdés b) pontja a 212/2023. (VI. 1.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^6]: A 6. § (4) bekezdése a 251/2025. (VIII. 7.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^7]: A 9. § (3) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^8]: A 10. § a 251/2025. (VIII. 7.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^9]: A 15. §-t a 251/2025. (VIII. 7.) Korm. rendelet 17. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2025. augusztus 8.
+[^11]: A hatálybalépés időpontja 2025. augusztus 8.

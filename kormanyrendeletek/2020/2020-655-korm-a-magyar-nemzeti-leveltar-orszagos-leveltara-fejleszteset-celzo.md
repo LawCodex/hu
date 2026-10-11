@@ -1,0 +1,226 @@
+---
+title: "655/2020. (XII. 23.) Korm. rendelet a Magyar Nemzeti Levéltár Országos Levéltára fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, a beruházás kiemelten közérdekűvé nyilvánításáról és az eljáró hatóságok kijelöléséről"
+identifier: "655/2020. (XII. 23.) Korm. rendelet"
+njt_id: "2020-655-20-22"
+eli: "https://njt.jog.gov.hu/eli/R/2020/Korm/655"
+type: government-decree
+jurisdiction: hu
+language: hu
+date: 2020-12-23
+in_force_from: 2020-12-24
+last_amended: 2022-12-23
+status: in_force
+source: "https://njt.jog.gov.hu/jogszabaly/2020-655-20-22"
+retrieved: 2026-10-12
+---
+
+# 655/2020. (XII. 23.) Korm. rendelet a Magyar Nemzeti Levéltár Országos Levéltára fejlesztését célzó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, a beruházás kiemelten közérdekűvé nyilvánításáról és az eljáró hatóságok kijelöléséről
+
+A Kormány
+
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a), b) és c) pontjában, valamint 12. § (5) bekezdés a), b), d) és f) pontjában,
+
+a 3. § c) pontja tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 3. pontjában,
+
+a 9. § tekintetében a közbeszerzésekről szóló 2015. évi CXLIII. törvény 198. § (1) bekezdés 9. pontjában
+
+kapott felhatalmazás alapján,
+
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+
+## 1. §
+
+(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja az ingatlan-nyilvántartás szerinti Budapest belterület 20023/16, 20023/17 és 20023/18 helyrajzi számú ingatlanokon, illetve az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon (a továbbiakban együtt: Ingatlanok) megvalósuló, a Magyar Nemzeti Levéltár Országos Levéltára fejlesztését célzó beruházással (a továbbiakban: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+
+(2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
+
+a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, munkákra vonatkoznak.
+
+(3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást, melynek helyszíne és közvetlen környezete az (1) bekezdés szerinti Ingatlanok területe.
+
+(4) A Kormány a Beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 2. melléklet szerint határozza meg.
+
+## 2. §
+
+A Kormány
+
+a)[^1] az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként Budapest Főváros Kormányhivatalát vezető főispánt,
+
+b) az 1. melléklet 3. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát
+
+jelöli ki.
+
+## 3. §
+
+A Beruházással összefüggésben
+
+a) településképi véleményezési eljárásnak nincs helye,
+
+b) településképi bejelentési eljárást nem kell lefolytatni,
+
+c) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni,
+
+d)[^2] a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló Korm. rendelet 27. §-a szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye.
+
+## 4. §
+
+(1) A Beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány a Beruházáshoz köthetően már rendelkezésre áll.
+
+(2) A Beruházásokkal összefüggésben a Kötv. 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány készítése nem szükséges, ha az adott beruházáshoz köthetően már előzetes régészeti dokumentáció rendelkezésre áll.
+
+(3) Ha az (1) bekezdés szerinti dokumentum nem áll rendelkezésre, egyszerűsített előzetes régészeti dokumentációt kell készíteni.
+
+## 5. §
+
+Az Ingatlanokon a Beruházással összefüggésben bontási tevékenység bontási engedély nélkül, elektronikus napló vezetésével végezhető.
+
+## 6. §
+
+(1)[^3] A Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) és a hatályos településrendezési terveket a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, valamint a (2) bekezdésben foglalt építési követelményeket kell érvényesíteni.
+
+(2)[^4] A Beruházással érintett Budapest III. kerület, Lángliliom utca, a Kocsis Sándor utca, a Csengőbojt utca és a Bóbita utca által határolt, a 3. melléklet szerinti Egységes Országos Vetületi Rendszerben megadott koordinátákkal meghatározott – a Magyar Nemzeti Levéltár Országos Levéltárának bővítésére szánt – területen
+
+a) új épület, illetve épületrész a kijelölt építési helyen kívül is elhelyezhető;
+
+b) az elő-, az oldal- és a hátsókert legkisebb szélessége: 6 méter, azzal, hogy az előkertben porta és közmű kiszolgáló létesítmény, maximum 400 m<sup>2</sup> alapterületen, legfeljebb 6 méter épületmagassággal elhelyezhető;
+
+c) a telek terepszint feletti beépítettségének megengedett legnagyobb mértéke 50%;
+
+d) a telek terepszint alatti beépítettségének megengedett legnagyobb mértéke 50%;
+
+e) a telek legnagyobb megengedett szintterületi mutatója 2,5 m<sup>2</sup>/m<sup>2</sup>;
+
+f) a telek legkisebb zöldfelületi aránya 30%,
+
+g) az épület legnagyobb épületmagassága 15 méter;
+
+h) a Budapest belterület 20023/17 helyrajzi számú telekre vonatkozóan a „nyomásfokozó gépház céljára fenntartott terület” funkció helyett a „kulturális rendeltetés céljára fenntartott terület” funkciót kell figyelembe venni;
+
+i) a belterületi határvonal tervezett megszüntetését végrehajtottnak kell tekinteni.
+
+## 7. §
+
+(1) Az Ingatlanokon a parkoló- és várakozóhelyek kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK
+
+a) 42. § (4) bekezdés a) pontjában meghatározott számú autóbusz-várakozóhely,
+
+b) 4. számú melléklete szerint meghatározott számú személygépkocsi-parkoló
+
+elhelyezését nem kell biztosítani.
+
+(1a)[^5] Az Ingatlanokon a parkolási kötelezettség legfeljebb 70%-ban felszín alatti parkolóban biztosítható.
+
+(1b)[^6] Az Ingatlanokon a parkoló- és várakozóhelyek kialakításánál a személygépkocsi-parkolót az iroda és egyéb önálló rendeltetési egységek huzamos tartózkodásra szolgáló helyiségei, továbbá a kutatási önálló rendeltetési egységek esetében minden megkezdett 60 m<sup>2</sup> nettó alapterület után kell biztosítani.
+
+(2)[^7] A Beruházás keretében létrejövő építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a helyi településrendezési tervekben előírt infrastruktúra-fejlesztések megvalósulása.
+
+## 8. §
+
+(1) Az 1. § (1) bekezdése szerinti hatósági ügyekben – a (2) bekezdésben foglaltak figyelembevételével – az Ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telekalakítás még nem történt meg.
+
+(2) A Beruházás keretében megvalósuló építmények használatbavételi engedélye kiadásának feltétele az Ingatlanok tekintetében a telekalakítás végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.
+
+## 9. §
+
+A Beruházásra irányuló közbeszerzési eljárásoknál az építtető – az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet az R. 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+
+## 10. §
+
+(1) A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – tizenöt nap.
+
+(2) A Beruházással összefüggő közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg – nyolc nap.
+
+(3) A Beruházással érintett közmű- és energiaszolgáltató, valamint közútkezelő a benyújtott tervek jóváhagyása tekintetében a tervek benyújtásától számított öt napon belül köteles nyilatkozni. Ha az eljáró közmű- és energiaszolgáltató, közútkezelő öt napon belül nem nyilatkozik, hozzájárulását megadottnak kell tekinteni a jóváhagyásra benyújtott terv szerinti tartalommal.
+
+## 11. §
+
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+## 12. §
+
+E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 13. §[^8]
+
+E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 808/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (2) bekezdését, 7. § (1a) és (1b) bekezdését, valamint 3. mellékletét a Módr. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+## 1. melléklet a 655/2020. (XII. 23.) Korm. rendelethez
+
+**A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek**
+
+1\. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+
+2\. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+
+3\. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
+
+4\. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+
+5\. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+
+6\. tűzvédelmi hatósági eljárások,
+
+7\. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+
+8\. hírközlési hatósági eljárások,
+
+9\. környezetvédelmi hatósági eljárások,
+
+10\. természetvédelmi hatósági eljárások,
+
+11\. útügyi hatósági eljárások,
+
+12\. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+
+13\. telekalakításra irányuló hatósági eljárások,
+
+14\. földmérési hatósági eljárások,
+
+15\. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+
+16\. élelmiszerlánc-felügyeleti eljárás,
+
+17\. közegészségügyi hatósági eljárások,
+
+18\. területrendezési hatósági eljárások,
+
+19\. azok az 1–18. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+20\. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+## 2. melléklet a 655/2020. (XII. 23.) Korm. rendelethez
+
+**A Beruházás során az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának szükséges időtartama**
+
+|  | A | B | C | D |
+|---|---|---|---|---|
+| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | A beruházás helyszínének közvetlen környezete | A beruházás megvalósításához szükséges közterület-használat időtartama |
+| 2. | A Magyar Nemzeti Levéltár Lángliliom utcai levéltári létesítményének korszerűsítése és bővítése | Budapest 20023/16, 20023/17, 20023/18 helyrajzi számú ingatlan | Budapest 20023/6, 20039/2, 20645/1, 21539 helyrajzi számú ingatlan | 2023. 01. 01. – 2026. 12. 31. |
+
+## 3. melléklet a 655/2020. (XII. 23.) Korm. rendelethez[^10]
+
+A Beruházásra kijelölt terület Egységes Országos Vetületi Rendszerben megadott sarok- és törésponti koordinátákkal történő lehatárolása:
+
+|  | X | Y |
+|---|---|---|
+| 1. sarokpont (ÉK): | 247731.78 | 647345.72 |
+| 2. sarokpont (ÉNy): | 247651.53 | 647266.27 |
+| 3. töréspont (Ny): | 247571.20 | 647320.57 |
+| 4. sarokpont (DNy): | 247503.22 | 647404.14 |
+| 5. sarokpont (DK): | 247561.87 | 647485.67 |
+| 6. töréspont (K): | 247691.62 | 647377.05 |
+
+---
+
+[^1]: A 2. § a) pontja az 546/2022. (XII. 22.) Korm. rendelet 268. § a)-b) pontja szerint módosított szöveg.
+[^2]: A 3. § d) pontja a 420/2021. (VII. 15.) Korm. rendelet 117. § a) pontja szerint módosított szöveg.
+[^3]: A 6. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 117. § b) pontja szerint módosított szöveg.
+[^4]: A 6. § (2) bekezdése a 808/2021. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 7. § (1a) bekezdését a 808/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 7. § (1b) bekezdését a 808/2021. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 7. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 117. § c) pontja szerint módosított szöveg.
+[^8]: A 13. §-t a 808/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2021. december 31.
+[^10]: A 3. § mellékletet a 808/2021. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
